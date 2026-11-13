@@ -500,7 +500,7 @@ const LOOKUP = {
       }
     ]
   },
-  "give sb. the boot": {
+  "give the dishonest cashier the boot": {
     "pos": "v.phr.",
     "en_def": "to fire or dismiss someone from their job; to kick someone out",
     "cn_def": "解僱某人；開除某人",
@@ -512,7 +512,7 @@ const LOOKUP = {
       }
     ]
   },
-  "give the dishonest cashier the boot": {
+  "give sb. the boot": {
     "pos": "v.phr.",
     "en_def": "to fire or dismiss someone from their job; to kick someone out",
     "cn_def": "解僱某人；開除某人",

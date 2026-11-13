@@ -447,7 +447,7 @@ const LOOKUP = {
       }
     ]
   },
-  "mend his ways": {
+  "mend one's ways": {
     "pos": "v.phr.",
     "en_def": "to improve one's bad behavior, habits, or conduct",
     "cn_def": "改過自新；改邪歸正",
@@ -459,7 +459,7 @@ const LOOKUP = {
       }
     ]
   },
-  "mend one's ways": {
+  "mend his ways": {
     "pos": "v.phr.",
     "en_def": "to improve one's bad behavior, habits, or conduct",
     "cn_def": "改過自新；改邪歸正",

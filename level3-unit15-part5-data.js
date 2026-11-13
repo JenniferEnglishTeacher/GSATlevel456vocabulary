@@ -31,7 +31,7 @@ const VOCAB = [
     "cn": "這部懸疑偵探電影在片尾有一個令人難以置信的情節大反轉，徹底震撼了全體觀眾。"
   },
   {
-    "word": "victim",
+    "word": "victims",
     "pos": "n.",
     "cn_def": "受害者；罹難者；受難人（可數）",
     "en_def": "a person harmed, injured, or killed as a result of a crime, accident, or disaster",
@@ -401,6 +401,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "an unexpected change in a process or development; a sharp bend in a road",
         "cn_def": "轉折；意想不到的轉變；彎道（可數）"
+      }
+    ]
+  },
+  "victims": {
+    "pos": "n.",
+    "en_def": "a person harmed, injured, or killed as a result of a crime, accident, or disaster",
+    "cn_def": "受害者；罹難者；受難人（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a person harmed, injured, or killed as a result of a crime, accident, or disaster",
+        "cn_def": "受害者；罹難者；受難人（可數）"
       }
     ]
   },

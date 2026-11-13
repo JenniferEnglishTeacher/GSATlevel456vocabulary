@@ -23,7 +23,7 @@ const VOCAB = [
     "cn": "船隻即將離開港口，因此遊客們迅速爬上船開始他們的假期。"
   },
   {
-    "word": "welcome aboard",
+    "word": "Welcome aboard",
     "pos": "phr.",
     "cn_def": "歡迎加入；歡迎搭乘",
     "en_def": "a greeting welcoming someone to a team, ship, or company",

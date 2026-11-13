@@ -15,7 +15,7 @@ const VOCAB = [
     "cn": "野外的熊貓幾乎完全依靠食用鮮嫩的綠色竹子葉在高山中生存。"
   },
   {
-    "word": "bamboo shoot",
+    "word": "bamboo shoots",
     "pos": "n.phr.",
     "cn_def": "竹筍（可數）",
     "en_def": "the edible young sprout of the bamboo plant, used as a vegetable in cooking",
@@ -440,6 +440,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a tall tropical grass with hard, hollow stems used for building, furniture, or food",
         "cn_def": "竹子；竹竿（可數/不可數）"
+      }
+    ]
+  },
+  "bamboo shoots": {
+    "pos": "n.phr.",
+    "en_def": "the edible young sprout of the bamboo plant, used as a vegetable in cooking",
+    "cn_def": "竹筍（可數）",
+    "combined": [
+      {
+        "pos": "n.phr.",
+        "en_def": "the edible young sprout of the bamboo plant, used as a vegetable in cooking",
+        "cn_def": "竹筍（可數）"
       }
     ]
   },

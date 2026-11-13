@@ -15,7 +15,7 @@ const VOCAB = [
     "cn": "許多嚴謹的科學研究已經展開，探討氣候變遷對海洋生態系統的嚴重衝擊。"
   },
   {
-    "word": "scientist",
+    "word": "scientists",
     "pos": "n.",
     "cn_def": "科學家（可數）",
     "en_def": "a person who is studying or has expert knowledge of one or more of the natural sciences",
@@ -396,6 +396,18 @@ const LOOKUP = {
       }
     ]
   },
+  "scientists": {
+    "pos": "n.",
+    "en_def": "a person who is studying or has expert knowledge of one or more of the natural sciences",
+    "cn_def": "科學家（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a person who is studying or has expert knowledge of one or more of the natural sciences",
+        "cn_def": "科學家（可數）"
+      }
+    ]
+  },
   "scientist": {
     "pos": "n.",
     "en_def": "a person who is studying or has expert knowledge of one or more of the natural sciences",
@@ -425,6 +437,18 @@ const LOOKUP = {
       }
     ]
   },
+  "sighed": {
+    "pos": "v.",
+    "en_def": "to emit a long, deep, audible breath expressing sadness, relief, or tiredness",
+    "cn_def": "嘆氣；嘆息（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to emit a long, deep, audible breath expressing sadness, relief, or tiredness",
+        "cn_def": "嘆氣；嘆息（動詞）"
+      }
+    ]
+  },
   "sigh": {
     "pos": "v.",
     "en_def": "to emit a long, deep, audible breath expressing sadness, relief, or tiredness",
@@ -439,18 +463,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a long, deep, audible breath expressing tiredness, grief, or relief",
         "cn_def": "嘆息；嘆氣聲（可數）"
-      }
-    ]
-  },
-  "sighed": {
-    "pos": "v.",
-    "en_def": "to emit a long, deep, audible breath expressing sadness, relief, or tiredness",
-    "cn_def": "嘆氣；嘆息（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to emit a long, deep, audible breath expressing sadness, relief, or tiredness",
-        "cn_def": "嘆氣；嘆息（動詞）"
       }
     ]
   },

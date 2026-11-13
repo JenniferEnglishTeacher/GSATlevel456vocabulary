@@ -46,7 +46,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "lily",
-    "answer": "lily",
+    "answer": "lilies",
     "pos": "n.",
     "definition": "a bulbous plant with large, trumpet-shaped, typically fragrant flowers",
     "chinese": "百合花（可數）",
@@ -100,7 +100,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "necessity",
-    "answer": "necessity",
+    "answer": "necessities",
     "pos": "n.",
     "definition": "the fact of being required or indispensable; an essential thing",
     "chinese": "必然性；必要原則；必需品（可數/不可數）",
@@ -730,4 +730,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"leap":["to jump or spring a long way, to a great height, or with great force","跳躍；躍過；跳入（動詞）"],"leaped":["to jump or spring a long way, to a great height, or with great force","跳躍；躍過；跳入（動詞）"],"lettuce":["a cultivated plant with large green leaves, eaten raw in salads","萵苣；生菜（不可數/可數）"],"lily":["a bulbous plant with large, trumpet-shaped, typically fragrant flowers","百合花（可數）"],"lively":["full of life and energy; active, enthusiastic, and animated","活潑的；充滿生氣的；熱烈的"],"loaf":["a shaped mass of bread baked in one piece (pl. loaves)","一條（麵包）；一塊（可數）"],"loafing":["to spend time idly; to lounge about doing nothing","虛度光陰；遊手好閒；晃蕩（動詞）"],"necessity":["the fact of being required or indispensable; an essential thing","必然性；必要原則；必需品（可數/不可數）"],"occasion":["a particular time or event; a special or formal event","場合；時刻；重要活動；盛會（可數）"],"occasional":["occurring, appearing, or done seldom and irregularly","偶爾的；不常的"],"paradise":["an ideal or idyllic place; heaven in Christian and religious belief","樂園；天堂；樂土（不可數/可數）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"leap":["to jump or spring a long way, to a great height, or with great force","跳躍；躍過；跳入（動詞）"],"leaped":["to jump or spring a long way, to a great height, or with great force","跳躍；躍過；跳入（動詞）"],"lettuce":["a cultivated plant with large green leaves, eaten raw in salads","萵苣；生菜（不可數/可數）"],"lilies":["a bulbous plant with large, trumpet-shaped, typically fragrant flowers","百合花（可數）"],"lily":["a bulbous plant with large, trumpet-shaped, typically fragrant flowers","百合花（可數）"],"lively":["full of life and energy; active, enthusiastic, and animated","活潑的；充滿生氣的；熱烈的"],"loaf":["a shaped mass of bread baked in one piece (pl. loaves)","一條（麵包）；一塊（可數）"],"loafing":["to spend time idly; to lounge about doing nothing","虛度光陰；遊手好閒；晃蕩（動詞）"],"necessity":["the fact of being required or indispensable; an essential thing","必然性；必要原則；必需品（可數/不可數）"],"necessities":["the fact of being required or indispensable; an essential thing","必然性；必要原則；必需品（可數/不可數）"],"occasion":["a particular time or event; a special or formal event","場合；時刻；重要活動；盛會（可數）"],"occasional":["occurring, appearing, or done seldom and irregularly","偶爾的；不常的"],"paradise":["an ideal or idyllic place; heaven in Christian and religious belief","樂園；天堂；樂土（不可數/可數）"]});

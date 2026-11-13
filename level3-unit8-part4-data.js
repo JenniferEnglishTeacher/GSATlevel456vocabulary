@@ -400,7 +400,7 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "parrot": {
+  "parrots": {
     "pos": "n./v.",
     "en_def": "a brightly colored tropical bird capable of mimicking speech; to repeat mechanically without understanding",
     "cn_def": "鸚鵡；機械般盲目附和（名詞/動詞）",
@@ -412,7 +412,7 @@ const LOOKUP = {
       }
     ]
   },
-  "parrots": {
+  "parrot": {
     "pos": "n./v.",
     "en_def": "a brightly colored tropical bird capable of mimicking speech; to repeat mechanically without understanding",
     "cn_def": "鸚鵡；機械般盲目附和（名詞/動詞）",
@@ -448,7 +448,7 @@ const LOOKUP = {
       }
     ]
   },
-  "poured": {
+  "pour": {
     "pos": "v.",
     "en_def": "to flow rapidly in a steady stream; to rain heavily; to serve a drink",
     "cn_def": "倒（液體）；傾盆降雨；湧入",
@@ -460,7 +460,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pour": {
+  "poured": {
     "pos": "v.",
     "en_def": "to flow rapidly in a steady stream; to rain heavily; to serve a drink",
     "cn_def": "倒（液體）；傾盆降雨；湧入",

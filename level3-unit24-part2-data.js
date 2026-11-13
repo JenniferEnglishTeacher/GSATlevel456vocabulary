@@ -412,7 +412,7 @@ const LOOKUP = {
       }
     ]
   },
-  "headlines": {
+  "headline": {
     "pos": "n./v.",
     "en_def": "a heading at the top of an article or page in a newspaper; to star in",
     "cn_def": "頭條新聞；大字標題 (n.)；為…加標題；主演 (v.)",
@@ -424,7 +424,7 @@ const LOOKUP = {
       }
     ]
   },
-  "headline": {
+  "headlines": {
     "pos": "n./v.",
     "en_def": "a heading at the top of an article or page in a newspaper; to star in",
     "cn_def": "頭條新聞；大字標題 (n.)；為…加標題；主演 (v.)",

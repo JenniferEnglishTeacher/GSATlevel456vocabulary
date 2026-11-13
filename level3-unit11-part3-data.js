@@ -31,7 +31,7 @@ const VOCAB = [
     "cn": "主廚將烤蒜香蝦精美地擺放在一層新鮮酥脆的綠色萵苣底鋪上。"
   },
   {
-    "word": "lily",
+    "word": "lilies",
     "pos": "n.",
     "cn_def": "百合花（可數）",
     "en_def": "a bulbous plant with large, trumpet-shaped, typically fragrant flowers",
@@ -63,7 +63,7 @@ const VOCAB = [
     "cn": "山姆沒有完成作業或整理凌亂的臥室，而是整個下午都在閒晃虛度光陰。"
   },
   {
-    "word": "necessity",
+    "word": "necessities",
     "pos": "n.",
     "cn_def": "必然性；必要原則；必需品（可數/不可數）",
     "en_def": "the fact of being required or indispensable; an essential thing",
@@ -441,6 +441,18 @@ const LOOKUP = {
       }
     ]
   },
+  "lilies": {
+    "pos": "n.",
+    "en_def": "a bulbous plant with large, trumpet-shaped, typically fragrant flowers",
+    "cn_def": "百合花（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a bulbous plant with large, trumpet-shaped, typically fragrant flowers",
+        "cn_def": "百合花（可數）"
+      }
+    ]
+  },
   "lily": {
     "pos": "n.",
     "en_def": "a bulbous plant with large, trumpet-shaped, typically fragrant flowers",
@@ -495,6 +507,18 @@ const LOOKUP = {
     ]
   },
   "necessity": {
+    "pos": "n.",
+    "en_def": "the fact of being required or indispensable; an essential thing",
+    "cn_def": "必然性；必要原則；必需品（可數/不可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "the fact of being required or indispensable; an essential thing",
+        "cn_def": "必然性；必要原則；必需品（可數/不可數）"
+      }
+    ]
+  },
+  "necessities": {
     "pos": "n.",
     "en_def": "the fact of being required or indispensable; an essential thing",
     "cn_def": "必然性；必要原則；必需品（可數/不可數）",

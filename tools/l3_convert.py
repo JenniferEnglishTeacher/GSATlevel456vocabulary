@@ -5,9 +5,9 @@ import json, random, re, sys
 R = json.load(open(sys.argv[1], encoding="utf8"))
 REVIEW = "--review" in sys.argv
 try:
-    from l3_manual import MANUAL          # (unit-part, row, sentence no) -> text that fills the blank, checked by hand
+    from l3_manual import MANUAL, FIX     # (unit-part, row, sentence no) / (unit-part, row) -> text that fills the blank, checked by hand
 except ImportError:
-    MANUAL = {}
+    MANUAL, FIX = {}, {}
 GAS = "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"
 norm = lambda t: re.sub(r"\s+", " ", str(t).replace("’", "'").replace("‘", "'").replace("“", '"').replace("”", '"')).strip()
 PLACEHOLDER = {"sth", "sb", "sth.", "sb.", "somebody", "something", "someone", "one's", "oneself", "sb's", "sb.'s", "...", "…", "doing", "do"}
@@ -274,9 +274,12 @@ for key in sorted(R, key=lambda k: tuple(map(int, k.split("-")))):
                 risk = "blank is another word?"
             if (key, ri, si) in MANUAL:
                 ans, risk = MANUAL[(key, ri, si)], ""
-            cands.append((risk != "", si, one, ans, c, risk))
+            cands.append((-1 if (key, ri, si) in MANUAL else int(risk != ""), si, one, ans, c, risk))
         cands.sort(key=lambda x: (x[0], x[1]))
         risky, si, one, ans, c, risk = cands[0]
+        risky = risky > 0
+        if (key, ri) in FIX:
+            ans, risky = FIX[(key, ri)], False
         stats["entries"] += 1
         if si:
             stats["second"] += 1

@@ -99,7 +99,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "benefit",
-    "answer": "benefit",
+    "answer": "benefits",
     "pos": "n.",
     "definition": "an advantage or profit gained from something; welfare payments",
     "chinese": "好處；益處；福利（可數/不可數）",
@@ -811,4 +811,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"admire":["to regard with respect, wonder, or warm approval","欽佩；欣賞；讚賞"],"admiration":["a feeling of profound respect and approval","欽佩；讚賞（不可數）"],"admirable":["deserving respect, praise, or admiration","令人欽佩的；極佳的"],"airline":["an organization that provides a regular public air transport service","航空公司（可數）"],"automobile":["a road vehicle designed primarily for passengers; a car","汽車（可數）"],"award":["a prize or symbol of honor given in recognition of an achievement","獎項；獎品（可數）"],"benefit":["an advantage or profit gained from something; welfare payments","好處；益處；福利（可數/不可數）"],"beneficial":["producing good or helpful results or effects; advantageous","有益的；有幫助的"],"bind":["to tie or fasten tightly; to hold by legal or moral duty","捆綁；包紮；裝訂；使受束縛"],"budget":["an estimate of income and expenditure for a set period of time","預算；經費（可數）"],"champion":["a person or team that has defeated all rivals in a competition","冠軍；優勝者；捍衛者（可數）"],"championship":["a competition to decide the champion; the position of champion","冠軍賽；錦標賽；冠軍頭銜（可數/不可數）"],"drain":["to cause liquid to run out; to exhaust energy or money","排出液體；流乾；消耗耗盡（動詞）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"admire":["to regard with respect, wonder, or warm approval","欽佩；欣賞；讚賞"],"admiration":["a feeling of profound respect and approval","欽佩；讚賞（不可數）"],"admirable":["deserving respect, praise, or admiration","令人欽佩的；極佳的"],"airline":["an organization that provides a regular public air transport service","航空公司（可數）"],"automobile":["a road vehicle designed primarily for passengers; a car","汽車（可數）"],"award":["a prize or symbol of honor given in recognition of an achievement","獎項；獎品（可數）"],"benefit":["an advantage or profit gained from something; welfare payments","好處；益處；福利（可數/不可數）"],"benefits":["an advantage or profit gained from something; welfare payments","好處；益處；福利（可數/不可數）"],"beneficial":["producing good or helpful results or effects; advantageous","有益的；有幫助的"],"bind":["to tie or fasten tightly; to hold by legal or moral duty","捆綁；包紮；裝訂；使受束縛"],"budget":["an estimate of income and expenditure for a set period of time","預算；經費（可數）"],"champion":["a person or team that has defeated all rivals in a competition","冠軍；優勝者；捍衛者（可數）"],"championship":["a competition to decide the champion; the position of champion","冠軍賽；錦標賽；冠軍頭銜（可數/不可數）"],"drain":["to cause liquid to run out; to exhaust energy or money","排出液體；流乾；消耗耗盡（動詞）"]});

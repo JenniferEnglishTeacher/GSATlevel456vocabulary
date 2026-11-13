@@ -103,7 +103,7 @@ const VOCAB = [
     "cn": "在幫父親清洗泥濘的家庭汽車前，湯米仔細地捲起了襯衫袖子。"
   },
   {
-    "word": "slope",
+    "word": "slopes",
     "pos": "n.",
     "cn_def": "斜坡；坡道；傾斜度（可數）",
     "en_def": "a surface of which one end or side is at a higher level than another; an incline",
@@ -452,6 +452,18 @@ const LOOKUP = {
       }
     ]
   },
+  "punched": {
+    "pos": "v.",
+    "en_def": "to strike with the fist; to pierce a hole in something",
+    "cn_def": "用拳猛擊；打孔；按鍵（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to strike with the fist; to pierce a hole in something",
+        "cn_def": "用拳猛擊；打孔；按鍵（動詞）"
+      }
+    ]
+  },
   "punch": {
     "pos": "v.",
     "en_def": "to strike with the fist; to pierce a hole in something",
@@ -466,18 +478,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a blow with the fist; a drink made with fruit juice and soda; a tool for making holes",
         "cn_def": "重拳；水果賓治雞尾酒；打孔器（可數/不可數）"
-      }
-    ]
-  },
-  "punched": {
-    "pos": "v.",
-    "en_def": "to strike with the fist; to pierce a hole in something",
-    "cn_def": "用拳猛擊；打孔；按鍵（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to strike with the fist; to pierce a hole in something",
-        "cn_def": "用拳猛擊；打孔；按鍵（動詞）"
       }
     ]
   },
@@ -551,6 +551,18 @@ const LOOKUP = {
       }
     ]
   },
+  "sleeves": {
+    "pos": "n.",
+    "en_def": "the part of a garment that wholly or partly covers a person's arm",
+    "cn_def": "袖子；套筒（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "the part of a garment that wholly or partly covers a person's arm",
+        "cn_def": "袖子；套筒（可數）"
+      }
+    ]
+  },
   "sleeve": {
     "pos": "n.",
     "en_def": "the part of a garment that wholly or partly covers a person's arm",
@@ -563,15 +575,15 @@ const LOOKUP = {
       }
     ]
   },
-  "sleeves": {
+  "slopes": {
     "pos": "n.",
-    "en_def": "the part of a garment that wholly or partly covers a person's arm",
-    "cn_def": "袖子；套筒（可數）",
+    "en_def": "a surface of which one end or side is at a higher level than another; an incline",
+    "cn_def": "斜坡；坡道；傾斜度（可數）",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "the part of a garment that wholly or partly covers a person's arm",
-        "cn_def": "袖子；套筒（可數）"
+        "en_def": "a surface of which one end or side is at a higher level than another; an incline",
+        "cn_def": "斜坡；坡道；傾斜度（可數）"
       }
     ]
   },

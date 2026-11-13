@@ -477,6 +477,18 @@ const LOOKUP = {
       }
     ]
   },
+  "suspected": {
+    "pos": "v.",
+    "en_def": "to have an idea of the presence or truth of something without certain proof; to believe someone is guilty",
+    "cn_def": "懷疑；猜想；疑有（動詞，重音在後 /səˈspekt/）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to have an idea of the presence or truth of something without certain proof; to believe someone is guilty",
+        "cn_def": "懷疑；猜想；疑有（動詞，重音在後 /səˈspekt/）"
+      }
+    ]
+  },
   "suspect": {
     "pos": "v.",
     "en_def": "to have an idea of the presence or truth of something without certain proof; to believe someone is guilty",
@@ -496,18 +508,6 @@ const LOOKUP = {
         "pos": "adj.",
         "en_def": "not to be relied on or trusted; possibly dangerous or false",
         "cn_def": "可疑的；不可靠的；有問題的（形容詞，/ˈsʌs.pekt/）"
-      }
-    ]
-  },
-  "suspected": {
-    "pos": "v.",
-    "en_def": "to have an idea of the presence or truth of something without certain proof; to believe someone is guilty",
-    "cn_def": "懷疑；猜想；疑有（動詞，重音在後 /səˈspekt/）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to have an idea of the presence or truth of something without certain proof; to believe someone is guilty",
-        "cn_def": "懷疑；猜想；疑有（動詞，重音在後 /səˈspekt/）"
       }
     ]
   },

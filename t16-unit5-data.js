@@ -85,7 +85,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "tower",
-    "answer": "tower",
+    "answer": "Tower",
     "pos": "n.",
     "definition": "a tall, narrow building, either freestanding or forming part of a building such as a church or castle",
     "chinese": "塔；高樓；高塔（可數）",

@@ -111,7 +111,7 @@ const VOCAB = [
     "cn": "我祖父每週六早晨都花時間使用鋒利的園藝剪刀修剪花園裡的灌木。"
   },
   {
-    "word": "clue",
+    "word": "clues",
     "pos": "n.",
     "cn_def": "線索；端倪；提示（可數）",
     "en_def": "a piece of evidence or information that helps solve a puzzle or mystery",
@@ -471,18 +471,6 @@ const LOOKUP = {
       }
     ]
   },
-  "bleed": {
-    "pos": "v.",
-    "en_def": "to lose blood from the body through a cut or injury",
-    "cn_def": "流血；失血（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to lose blood from the body through a cut or injury",
-        "cn_def": "流血；失血（動詞）"
-      }
-    ]
-  },
   "bleeding": {
     "pos": "v.",
     "en_def": "to lose blood from the body through a cut or injury",
@@ -495,7 +483,19 @@ const LOOKUP = {
       }
     ]
   },
-  "bled the small company dry": {
+  "bleed": {
+    "pos": "v.",
+    "en_def": "to lose blood from the body through a cut or injury",
+    "cn_def": "流血；失血（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to lose blood from the body through a cut or injury",
+        "cn_def": "流血；失血（動詞）"
+      }
+    ]
+  },
+  "bleed sb. dry": {
     "pos": "v.phr.",
     "en_def": "to drain someone of all their money, financial resources, or strength",
     "cn_def": "榨乾某人的血汗錢；使某人傾家蕩產",
@@ -507,7 +507,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bleed sb. dry": {
+  "bled the small company dry": {
     "pos": "v.phr.",
     "en_def": "to drain someone of all their money, financial resources, or strength",
     "cn_def": "榨乾某人的血汗錢；使某人傾家蕩產",
@@ -610,6 +610,18 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to fasten with a clip; to cut off with scissors or shears",
         "cn_def": "用夾子夾住；修剪；剪下（動詞）"
+      }
+    ]
+  },
+  "clues": {
+    "pos": "n.",
+    "en_def": "a piece of evidence or information that helps solve a puzzle or mystery",
+    "cn_def": "線索；端倪；提示（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a piece of evidence or information that helps solve a puzzle or mystery",
+        "cn_def": "線索；端倪；提示（可數）"
       }
     ]
   },

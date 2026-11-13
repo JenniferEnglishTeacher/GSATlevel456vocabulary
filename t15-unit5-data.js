@@ -45,7 +45,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "victim",
-    "answer": "victim",
+    "answer": "victims",
     "pos": "n.",
     "definition": "a person harmed, injured, or killed as a result of a crime, accident, or disaster",
     "chinese": "受害者；罹難者；受難人（可數）",
@@ -688,4 +688,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"tropical":["characteristic of or situated in the tropics, the region surrounding the equator","熱帶的；炎熱潮濕的"],"twist":["to turn or bend something into a specified position; to injure a joint by an unnatural wrench","轉動；旋轉；扭傷；扭曲（動詞）"],"victim":["a person harmed, injured, or killed as a result of a crime, accident, or disaster","受害者；罹難者；受難人（可數）"],"wage":["a fixed regular payment earned for work or services, typically paid on a daily or weekly basis","工資；薪水（通常用複數 wages）"],"wagon":["a four-wheeled vehicle for carrying heavy loads, typically pulled by horses or a tractor","四輪運貨馬車；手拉推車（可數）"],"wrist":["the joint connecting the hand with the forearm","手腕；腕關節（可數）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"tropical":["characteristic of or situated in the tropics, the region surrounding the equator","熱帶的；炎熱潮濕的"],"twist":["to turn or bend something into a specified position; to injure a joint by an unnatural wrench","轉動；旋轉；扭傷；扭曲（動詞）"],"victims":["a person harmed, injured, or killed as a result of a crime, accident, or disaster","受害者；罹難者；受難人（可數）"],"victim":["a person harmed, injured, or killed as a result of a crime, accident, or disaster","受害者；罹難者；受難人（可數）"],"wage":["a fixed regular payment earned for work or services, typically paid on a daily or weekly basis","工資；薪水（通常用複數 wages）"],"wagon":["a four-wheeled vehicle for carrying heavy loads, typically pulled by horses or a tractor","四輪運貨馬車；手拉推車（可數）"],"wrist":["the joint connecting the hand with the forearm","手腕；腕關節（可數）"]});

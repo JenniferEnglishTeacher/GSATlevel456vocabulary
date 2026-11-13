@@ -615,18 +615,6 @@ const LOOKUP = {
       }
     ]
   },
-  "funds": {
-    "pos": "n.",
-    "en_def": "a sum of money saved or provided for a specific purpose",
-    "cn_def": "資金；基金；專款（可數/不可數）",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a sum of money saved or provided for a specific purpose",
-        "cn_def": "資金；基金；專款（可數/不可數）"
-      }
-    ]
-  },
   "fund": {
     "pos": "n.",
     "en_def": "a sum of money saved or provided for a specific purpose",
@@ -641,6 +629,18 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to provide with money for a project, institution, or activity",
         "cn_def": "資助；為…提供資金（動詞）"
+      }
+    ]
+  },
+  "funds": {
+    "pos": "n.",
+    "en_def": "a sum of money saved or provided for a specific purpose",
+    "cn_def": "資金；基金；專款（可數/不可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a sum of money saved or provided for a specific purpose",
+        "cn_def": "資金；基金；專款（可數/不可數）"
       }
     ]
   },

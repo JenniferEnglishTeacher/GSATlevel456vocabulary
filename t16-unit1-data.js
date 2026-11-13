@@ -19,7 +19,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "bamboo shoot",
-    "answer": "bamboo shoot",
+    "answer": "bamboo shoots",
     "pos": "n.phr.",
     "definition": "the edible young sprout of the bamboo plant, used as a vegetable in cooking",
     "chinese": "竹筍（可數）",

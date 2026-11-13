@@ -461,6 +461,18 @@ const LOOKUP = {
       }
     ]
   },
+  "suffer": {
+    "pos": "v.",
+    "en_def": "to experience or be subjected to something bad or unpleasant",
+    "cn_def": "遭受；受苦；蒙受（損失）（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to experience or be subjected to something bad or unpleasant",
+        "cn_def": "遭受；受苦；蒙受（損失）（動詞）"
+      }
+    ]
+  },
   "suffering": {
     "pos": "v.",
     "en_def": "to experience or be subjected to something bad or unpleasant",
@@ -475,18 +487,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "the state of undergoing pain, distress, or hardship",
         "cn_def": "痛苦；苦難；折磨（不可數/可數）"
-      }
-    ]
-  },
-  "suffer": {
-    "pos": "v.",
-    "en_def": "to experience or be subjected to something bad or unpleasant",
-    "cn_def": "遭受；受苦；蒙受（損失）（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to experience or be subjected to something bad or unpleasant",
-        "cn_def": "遭受；受苦；蒙受（損失）（動詞）"
       }
     ]
   },

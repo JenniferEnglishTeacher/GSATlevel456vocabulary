@@ -63,7 +63,7 @@ const VOCAB = [
     "cn": "飯店客房配有舒適的兩張單人床以及一張適合商務旅客的高雅辦公桌。"
   },
   {
-    "word": "vehicle",
+    "word": "vehicles",
     "pos": "n.",
     "cn_def": "車輛；交通工具；傳播媒介（可數）",
     "en_def": "a thing used for transporting people or goods, especially on land",
@@ -456,6 +456,18 @@ const LOOKUP = {
         "pos": "n./adj.",
         "en_def": "one of two children born at the same birth; forming a matching pair",
         "cn_def": "雙胞胎之一；成雙的；雙重的"
+      }
+    ]
+  },
+  "vehicles": {
+    "pos": "n.",
+    "en_def": "a thing used for transporting people or goods, especially on land",
+    "cn_def": "車輛；交通工具；傳播媒介（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a thing used for transporting people or goods, especially on land",
+        "cn_def": "車輛；交通工具；傳播媒介（可數）"
       }
     ]
   },

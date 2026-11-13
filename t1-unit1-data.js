@@ -33,7 +33,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "welcome aboard",
-    "answer": "welcome aboard",
+    "answer": "Welcome aboard",
     "pos": "phr.",
     "definition": "a greeting welcoming someone to a team, ship, or company",
     "chinese": "歡迎加入；歡迎搭乘",

@@ -434,7 +434,7 @@ const LOOKUP = {
       }
     ]
   },
-  "savings": {
+  "saving": {
     "pos": "n.",
     "en_def": "an economy of or reduction in money, time, or resources; money saved in a bank",
     "cn_def": "節約；節省（單數）；積蓄；存款（複數 savings）",
@@ -446,7 +446,7 @@ const LOOKUP = {
       }
     ]
   },
-  "saving": {
+  "savings": {
     "pos": "n.",
     "en_def": "an economy of or reduction in money, time, or resources; money saved in a bank",
     "cn_def": "節約；節省（單數）；積蓄；存款（複數 savings）",

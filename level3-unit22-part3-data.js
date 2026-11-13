@@ -426,7 +426,7 @@ const LOOKUP = {
       }
     ]
   },
-  "permitting": {
+  "permit": {
     "pos": "v./n.",
     "en_def": "to allow something to happen; an official document giving authorization",
     "cn_def": "准許；允許；許可證",
@@ -438,7 +438,7 @@ const LOOKUP = {
       }
     ]
   },
-  "permit": {
+  "permitting": {
     "pos": "v./n.",
     "en_def": "to allow something to happen; an official document giving authorization",
     "cn_def": "准許；允許；許可證",

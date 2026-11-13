@@ -426,7 +426,7 @@ const LOOKUP = {
       }
     ]
   },
-  "set apart from": {
+  "set her apart from": {
     "pos": "v.phr.",
     "en_def": "to distinguish or make someone or something noticeably different from others",
     "cn_def": "使…與眾不同；使脫穎而出",
@@ -438,7 +438,7 @@ const LOOKUP = {
       }
     ]
   },
-  "set her apart from": {
+  "set apart from": {
     "pos": "v.phr.",
     "en_def": "to distinguish or make someone or something noticeably different from others",
     "cn_def": "使…與眾不同；使脫穎而出",
@@ -510,7 +510,7 @@ const LOOKUP = {
       }
     ]
   },
-  "barrel": {
+  "barrels": {
     "pos": "n.",
     "en_def": "a large cylindrical container, traditionally made of wooden staves and hoops",
     "cn_def": "木桶；一桶之量；槍管（可數）",
@@ -522,7 +522,7 @@ const LOOKUP = {
       }
     ]
   },
-  "barrels": {
+  "barrel": {
     "pos": "n.",
     "en_def": "a large cylindrical container, traditionally made of wooden staves and hoops",
     "cn_def": "木桶；一桶之量；槍管（可數）",

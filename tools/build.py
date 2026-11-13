@@ -5,7 +5,7 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113j"
+V = "20261113m"
 d = json.load(open(DATA, encoding="utf8"))
 J = json.load(open(os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k.json"), encoding="utf8"))  # 國中小基礎2000字 groups
 EXTRA = os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k_extra.json")  # groups converted by tools/convert_g.py
@@ -165,6 +165,9 @@ for L in LEVELS:
 RUN = re.compile(r"\{\{BLANK\}\}(?:\s+\{\{BLANK\}\})*")
 
 
+DONOR = "level4-group01"      # quiz page + app every converted book reuses
+
+
 def emit_zone(zid, book, back, unit_word, groups, base_of, heading, global_name, make_quiz=True):
     """Write flashcards, MCQ practice, the online quiz and the dashboard data for every group of one zone.
     groups: {number: data}; base_of(n): quiz file stem; heading: title printed on the quiz page."""
@@ -212,29 +215,31 @@ def emit_zone(zid, book, back, unit_word, groups, base_of, heading, global_name,
         if not make_quiz:      # this book's online quiz lives on another site; the registry links to it
             continue
         base = base_of(g)
-        src_html = os.path.join(QUIZ, base + ".html")
-        if os.path.exists(src_html) and not G.get("generated"):
-            page = open(src_html, encoding="utf8").read()
-        else:
-            # No page of its own in the source repo: use the newest quiz page with this group's names.
-            page = open(os.path.join(QUIZ, "group49.html"), encoding="utf8").read()
-            page = re.sub(r"<title>.*?</title>", f"<title>{unit_word} {g} Quiz — {html.escape(theme.split(' (')[0])}</title>", page)
-            page, n1 = re.subn(r"<h1>[^<]*Group 49</h1>", f"<h1>{heading} — {unit_word} {g}</h1>", page)
-            assert n1 == 1 and page.count("group49-") == 2, base
-            page = page.replace("group49-", base + "-")
+        # Every book uses the same quiz page and app as 學測 Level 4-6: the student picks spelling, MCQ, or both.
+        nv, nq = len(G["VOCAB"]), len(G["MCQS"])
+        page = open(os.path.join(QUIZ, DONOR + ".html"), encoding="utf8").read()
+        page = re.sub(r"<title>.*?</title>", f"<title>{unit_word} {g} Quiz — {html.escape(theme.split(' (')[0])}</title>", page)
+        for old, new_, n in ((r"<h1>[^<]*</h1>", f"<h1>{heading} — {unit_word} {g}</h1>", 1),
+                             (r'id="mode-p1-count">\d+<', f'id="mode-p1-count">{nv}<', 1),
+                             (r"30 題會考題型", f"{nq} 題選擇題", 1),
+                             (r'id="p1-progress-label">1 / \d+<', f'id="p1-progress-label">1 / {nv}<', 1),
+                             (r"接下來是第二部分：30 題選擇題", f"接下來是第二部分：{nq} 題選擇題", 1)):
+            page, k = re.subn(old, new_, page)
+            assert k == n, (base, old)
+        assert page.count(DONOR + "-") == 2, base
+        page = page.replace(DONOR + "-", base + "-")
         write(base + ".html", patch_quiz_page(page, base, zid, g))
+        qapp = open(os.path.join(QUIZ, DONOR + "-app.js"), encoding="utf8").read()
+        write(base + "-app.js", patch_quiz_app(qapp, base))
         if G.get("generated"):
-            # Converted group: write its quiz data in the same shape as the other groups and reuse the newest quiz app.
+            # Converted group: write its quiz data in the same shape as the other groups.
             vocab_out = [{**{k: v for k, v in e.items() if k not in ("answer", "quizWord", "forms")}, "word": e.get("quizWord", e["word"])} for e in G["VOCAB"]]
             write(base + "-data.js",
                   f"// {unit_word} {g} Quiz Data: {theme}\n// Converted for this site by the scripts in tools/.\n"
                   f"const QUIZ_CONFIG = {js(G['QUIZ_CONFIG'], 2)};\n\nconst VOCAB = {js(vocab_out, 2)};\n\nconst MCQS = {js(G['MCQS'], 2)};\n\n"
                   f"const LOOKUP = {js(G['LOOKUP'], 2)};\n\nconst EXTRA_GLOSSES = {{}};\n")
-            qapp = open(os.path.join(QUIZ, "group49-app.js"), encoding="utf8").read().replace("Group 49 Quiz App Logic", f"{unit_word} {g} Quiz App Logic")
-            write(base + "-app.js", patch_quiz_app(qapp, base))
         else:
             shutil.copyfile(os.path.join(QUIZ, base + "-data.js"), os.path.join(OUT, base + "-data.js"))
-            write(base + "-app.js", patch_quiz_app(open(os.path.join(QUIZ, base + "-app.js"), encoding="utf8").read(), base))
     write(f"{zid}-dashboard-data.js", f"// Auto-generated for the Unit Board — {book}\nwindow.{global_name} = {js(dash)};\n")
     return order, names
 
@@ -475,7 +480,7 @@ function renderQuizLinks() {
   const recorded = document.createElement("a");
   recorded.className = "quiz-link review recorded";
   recorded.href = SETCFG.quizPage(unit);
-  recorded.textContent = "✏️ Online Quiz 線上測驗（拼字＋選擇題，記錄成績）";
+  recorded.textContent = "✏️ Online Quiz 線上測驗（可自選拼字題／選擇題，記錄成績）";
   recorded.title = "Spelling + 30 MCQ. Your result is recorded for your teacher.";
   if (/^https?:/.test(SETCFG.quiz)) { // this book's quiz is kept on its own site
     recorded.target = "_blank";

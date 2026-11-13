@@ -25,3 +25,12 @@ MANUAL = {
     ("20-1", 0, 1): "admire", ("20-3", 3, 1): "punched", ("20-3", 6, 0): "rocketed", ("20-4", 5, 1): "tailored",
     ("20-4", 11, 0): "tutoring", ("23-1", 1, 0): "baggage claim", ("23-3", 10, 0): "poll", ("23-2", 10, 1): "gallon", ("23-2", 8, 0): "fares", ("23-3", 1, 1): "gangster", ("23-5", 4, 1): "wedding", ("23-2", 7, 2): "fairy tale",
 }
+
+# (unit-part, grid row) -> the text that fills the blank of the sentence in use, found when every answer was read through.
+FIX = {
+    ("1-1", 2): "Welcome aboard", ("2-1", 13): "clues", ("2-3", 13): "Palace", ("3-3", 8): "nests", ("5-1", 1): "advertisers", ("5-5", 10): "travelers",
+    ("6-1", 5): "brakes", ("7-4", 6): "posters", ("7-5", 4): "stools", ("11-3", 3): "lilies", ("11-3", 7): "necessities", ("11-5", 1): "scientists",
+    ("13-4", 3): "sausages", ("13-4", 5): "slaves", ("13-4", 9): "Statue", ("13-5", 11): "wipes", ("15-3", 7): "reserves", ("15-4", 12): "trends",
+    ("15-5", 3): "victims", ("16-1", 1): "bamboo shoots", ("16-5", 6): "Tower", ("17-2", 4): "hangers", ("17-3", 5): "Liberty", ("18-5", 7): "vehicles",
+    ("20-1", 7): "benefits", ("20-3", 12): "slopes",
+}

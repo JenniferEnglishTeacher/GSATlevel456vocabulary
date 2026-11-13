@@ -63,7 +63,7 @@ const VOCAB = [
     "cn": "大學委員會決定頒發一筆優渥的體育獎學金給那位辛勤的高中運動員。"
   },
   {
-    "word": "benefit",
+    "word": "benefits",
     "pos": "n.",
     "cn_def": "好處；益處；福利（可數/不可數）",
     "en_def": "an advantage or profit gained from something; welfare payments",
@@ -539,6 +539,18 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to receive an advantage; to be helpful or useful to someone",
         "cn_def": "有益於；受惠（動詞）"
+      }
+    ]
+  },
+  "benefits": {
+    "pos": "n.",
+    "en_def": "an advantage or profit gained from something; welfare payments",
+    "cn_def": "好處；益處；福利（可數/不可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "an advantage or profit gained from something; welfare payments",
+        "cn_def": "好處；益處；福利（可數/不可數）"
       }
     ]
   },

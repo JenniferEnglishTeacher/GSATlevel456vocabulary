@@ -97,7 +97,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "vehicle",
-    "answer": "vehicle",
+    "answer": "vehicles",
     "pos": "n.",
     "definition": "a thing used for transporting people or goods, especially on land",
     "chinese": "車輛；交通工具；傳播媒介（可數）",
@@ -688,4 +688,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"starve":["to suffer severely or die from hunger; to be extremely hungry","挨餓；餓死（動詞）"],"sweat":["moisture exuded through the pores of the skin; to emit sweat","汗水；流汗；辛苦工作（名詞/動詞）"],"technical":["relating to a particular subject, art, or skill; requiring specialized knowledge","技術的；專門性的；技術細節的"],"technique":["a way of carrying out a particular task, especially the execution of an artistic work","技巧；技術；手法（可數/不可數）"],"tough":["strong enough to withstand adverse conditions; difficult to do; difficult to chew","艱難的；堅韌的；咬不動的"],"tug":["to pull something hard or suddenly; a hard, sudden pull","用力拉；拽；拖船（動詞/名詞）"],"twin":["one of two children born at the same birth; forming a matching pair","雙胞胎之一；成雙的；雙重的"],"vehicle":["a thing used for transporting people or goods, especially on land","車輛；交通工具；傳播媒介（可數）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"starve":["to suffer severely or die from hunger; to be extremely hungry","挨餓；餓死（動詞）"],"sweat":["moisture exuded through the pores of the skin; to emit sweat","汗水；流汗；辛苦工作（名詞/動詞）"],"technical":["relating to a particular subject, art, or skill; requiring specialized knowledge","技術的；專門性的；技術細節的"],"technique":["a way of carrying out a particular task, especially the execution of an artistic work","技巧；技術；手法（可數/不可數）"],"tough":["strong enough to withstand adverse conditions; difficult to do; difficult to chew","艱難的；堅韌的；咬不動的"],"tug":["to pull something hard or suddenly; a hard, sudden pull","用力拉；拽；拖船（動詞/名詞）"],"twin":["one of two children born at the same birth; forming a matching pair","雙胞胎之一；成雙的；雙重的"],"vehicles":["a thing used for transporting people or goods, especially on land","車輛；交通工具；傳播媒介（可數）"],"vehicle":["a thing used for transporting people or goods, especially on land","車輛；交通工具；傳播媒介（可數）"]});

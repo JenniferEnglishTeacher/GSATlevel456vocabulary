@@ -23,8 +23,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a member of an organized group of violent criminals",
     "chinese": "歹徒；黑幫份子",
-    "sentence": "The museum curator displayed historical mugshots and vintage weapons belonging to 1930s Chicago __________.",
-    "translation": "博物館策展人展示了屬於 1930 年代芝加哥黑幫份子的歷史犯罪檔案照片與復古武器。",
+    "sentence": "Classic Hollywood __________ films frequently explore themes of crime, loyalty, betrayal, and police corruption.",
+    "translation": "經典好萊塢黑幫電影經常探討犯罪、忠誠、背叛以及警察腐敗等主題。",
     "lookup": {
      "english": "a member of an organized group of violent criminals",
      "chinese": "歹徒；黑幫份子"

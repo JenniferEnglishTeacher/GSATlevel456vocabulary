@@ -64,8 +64,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a marriage ceremony and its associated celebrations",
     "chinese": "婚禮；結婚儀式",
-    "sentence": "After the sacred church vows were completed, guests adjourned to the beachfront hotel for a lavish dinner __________.",
-    "translation": "神聖的教堂誓言完成後，賓客移步至海灘飯店參加盛大的婚禮招待會／婚宴。",
+    "sentence": "My grandparents will celebrate their golden __________ anniversary next weekend surrounded by children and grandchildren.",
+    "translation": "我祖父母將在下週末於兒孫環繞下慶祝他們的金婚（結婚紀念日）。",
     "lookup": {
      "english": "a marriage ceremony and its associated celebrations",
      "chinese": "婚禮；結婚儀式"

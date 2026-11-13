@@ -428,18 +428,6 @@ const LOOKUP = {
       }
     ]
   },
-  "fuels": {
-    "pos": "n.",
-    "en_def": "material such as coal, gas, or oil burned to produce heat or power",
-    "cn_def": "燃料；提供力量的來源（不可數/可數）",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "material such as coal, gas, or oil burned to produce heat or power",
-        "cn_def": "燃料；提供力量的來源（不可數/可數）"
-      }
-    ]
-  },
   "fuel": {
     "pos": "n.",
     "en_def": "material such as coal, gas, or oil burned to produce heat or power",
@@ -457,6 +445,30 @@ const LOOKUP = {
       }
     ]
   },
+  "fuels": {
+    "pos": "n.",
+    "en_def": "material such as coal, gas, or oil burned to produce heat or power",
+    "cn_def": "燃料；提供力量的來源（不可數/可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "material such as coal, gas, or oil burned to produce heat or power",
+        "cn_def": "燃料；提供力量的來源（不可數/可數）"
+      }
+    ]
+  },
+  "gambled": {
+    "pos": "v.",
+    "en_def": "to play games of chance for money; to take risky actions in hope of success",
+    "cn_def": "賭博；冒險；孤注一擲（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to play games of chance for money; to take risky actions in hope of success",
+        "cn_def": "賭博；冒險；孤注一擲（動詞）"
+      }
+    ]
+  },
   "gamble": {
     "pos": "v.",
     "en_def": "to play games of chance for money; to take risky actions in hope of success",
@@ -471,18 +483,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "an act of gambling; a risky undertaking with an uncertain outcome",
         "cn_def": "賭博；投機；高風險的冒險嘗試（可數）"
-      }
-    ]
-  },
-  "gambled": {
-    "pos": "v.",
-    "en_def": "to play games of chance for money; to take risky actions in hope of success",
-    "cn_def": "賭博；冒險；孤注一擲（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to play games of chance for money; to take risky actions in hope of success",
-        "cn_def": "賭博；冒險；孤注一擲（動詞）"
       }
     ]
   },

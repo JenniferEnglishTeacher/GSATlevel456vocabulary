@@ -428,18 +428,6 @@ const LOOKUP = {
       }
     ]
   },
-  "passes": {
-    "pos": "n.",
-    "en_def": "an official document or ticket permitting entrance or travel; a narrow route",
-    "cn_def": "通行證；入場券；合格；山隘（可數）",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "an official document or ticket permitting entrance or travel; a narrow route",
-        "cn_def": "通行證；入場券；合格；山隘（可數）"
-      }
-    ]
-  },
   "pass": {
     "pos": "n.",
     "en_def": "an official document or ticket permitting entrance or travel; a narrow route",
@@ -454,6 +442,18 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to move past; to succeed in an exam; to transfer something to someone",
         "cn_def": "通過；穿過；傳遞；（考試）及格（動詞）"
+      }
+    ]
+  },
+  "passes": {
+    "pos": "n.",
+    "en_def": "an official document or ticket permitting entrance or travel; a narrow route",
+    "cn_def": "通行證；入場券；合格；山隘（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "an official document or ticket permitting entrance or travel; a narrow route",
+        "cn_def": "通行證；入場券；合格；山隘（可數）"
       }
     ]
   },

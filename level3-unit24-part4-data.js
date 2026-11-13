@@ -440,7 +440,7 @@ const LOOKUP = {
       }
     ]
   },
-  "traced": {
+  "trace": {
     "pos": "v./n.",
     "en_def": "to find or discover by investigation; a mark, object, or sign left by something",
     "cn_def": "追溯；追蹤 (v.)；蹤跡；微量 (n.)",
@@ -452,7 +452,7 @@ const LOOKUP = {
       }
     ]
   },
-  "trace": {
+  "traced": {
     "pos": "v./n.",
     "en_def": "to find or discover by investigation; a mark, object, or sign left by something",
     "cn_def": "追溯；追蹤 (v.)；蹤跡；微量 (n.)",

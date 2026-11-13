@@ -444,6 +444,18 @@ const LOOKUP = {
       }
     ]
   },
+  "separated": {
+    "pos": "v.",
+    "en_def": "to cause to move or be apart; to divide into constituent parts",
+    "cn_def": "分隔；分開；使分離（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to cause to move or be apart; to divide into constituent parts",
+        "cn_def": "分隔；分開；使分離（動詞）"
+      }
+    ]
+  },
   "separate": {
     "pos": "v.",
     "en_def": "to cause to move or be apart; to divide into constituent parts",
@@ -458,18 +470,6 @@ const LOOKUP = {
         "pos": "adj.",
         "en_def": "forming or viewed as a unit by itself; distinct",
         "cn_def": "分開的；各自的；獨立的"
-      }
-    ]
-  },
-  "separated": {
-    "pos": "v.",
-    "en_def": "to cause to move or be apart; to divide into constituent parts",
-    "cn_def": "分隔；分開；使分離（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to cause to move or be apart; to divide into constituent parts",
-        "cn_def": "分隔；分開；使分離（動詞）"
       }
     ]
   },

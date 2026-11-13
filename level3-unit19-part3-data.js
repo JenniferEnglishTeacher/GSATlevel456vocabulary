@@ -425,7 +425,7 @@ const LOOKUP = {
       }
     ]
   },
-  "heals": {
+  "heal": {
     "pos": "v.",
     "en_def": "to cause a wound or injury to become healthy again; to cure",
     "cn_def": "（傷口、情感）癒合；治癒；恢復（動詞）",
@@ -437,7 +437,7 @@ const LOOKUP = {
       }
     ]
   },
-  "heal": {
+  "heals": {
     "pos": "v.",
     "en_def": "to cause a wound or injury to become healthy again; to cure",
     "cn_def": "（傷口、情感）癒合；治癒；恢復（動詞）",

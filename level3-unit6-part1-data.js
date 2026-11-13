@@ -47,7 +47,7 @@ const VOCAB = [
     "cn": "失業後無法償還日益增加的沉重債務，蓋瑞被迫在法庭上宣告破產。"
   },
   {
-    "word": "brake",
+    "word": "brakes",
     "pos": "n.",
     "cn_def": "煞車；制動器（可數）",
     "en_def": "a device for slowing or stopping a moving vehicle, typically by friction",
@@ -63,12 +63,12 @@ const VOCAB = [
     "cn": "駕訓班教練建議學生，每當交通號誌由綠燈轉為黃燈時都要緩緩煞車。"
   },
   {
-    "word": "bubbles",
+    "word": "bubble",
     "pos": "n.",
     "cn_def": "氣泡；泡沫；泡泡（可數）",
     "en_def": "a thin sphere of liquid enclosing air or another gas",
-    "sentence": "The happy young children giggled joyfully as they blew colorful soap {{BLANK}} in the sunny backyard garden.",
-    "cn": "開朗的年幼孩子們在陽光明媚的後院花園裡吹著五彩繽紛的肥皂泡泡，開心地咯咯笑。"
+    "sentence": "When housing prices dropped sharply, the long-predicted real estate {{BLANK}} finally burst with great impact.",
+    "cn": "當房價大幅下跌時，長久以來被預測的房地產泡沫終於破裂，帶來巨大衝擊。"
   },
   {
     "word": "bubble",
@@ -517,15 +517,15 @@ const LOOKUP = {
       }
     ]
   },
-  "bubbles": {
+  "brakes": {
     "pos": "n.",
-    "en_def": "a thin sphere of liquid enclosing air or another gas",
-    "cn_def": "氣泡；泡沫；泡泡（可數）",
+    "en_def": "a device for slowing or stopping a moving vehicle, typically by friction",
+    "cn_def": "煞車；制動器（可數）",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "a thin sphere of liquid enclosing air or another gas",
-        "cn_def": "氣泡；泡沫；泡泡（可數）"
+        "en_def": "a device for slowing or stopping a moving vehicle, typically by friction",
+        "cn_def": "煞車；制動器（可數）"
       }
     ]
   },

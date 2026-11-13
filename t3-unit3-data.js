@@ -111,7 +111,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "nest",
-    "answer": "nest",
+    "answer": "nests",
     "pos": "n.",
     "definition": "a structure or place made or chosen by a bird for laying eggs and sheltering its young",
     "chinese": "鳥巢；窩；巢穴（可數）",
@@ -756,4 +756,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"juicy":["full of juice; succulent; exciting and interesting","多汁的；八卦刺激的"],"jungle":["an area of land overgrown with dense forest and tangled vegetation","叢林；密林；熱帶叢林（可數/不可數）"],"junk":["old or discarded articles that are considered useless or of little value","廢棄雜物；破爛；垃圾（不可數）"],"kangaroo":["a large Australian marsupial with powerful hind legs for leaping and a pouch","袋鼠（可數）"],"march":["to walk with stiff, regular, and measured strides, like soldiers","行軍；齊步前進；遊行抗議（動詞）"],"neighborhood":["a district, especially one forming a community within a town or city","街坊；鄰近地區；社區（可數）"],"neighbor":["a person living next door to or very near to the speaker or person referred to","鄰居；鄰國（可數）"],"nest":["a structure or place made or chosen by a bird for laying eggs and sheltering its young","鳥巢；窩；巢穴（可數）"],"pitch":["the highness or lowness of a tone; a playing field; a promotional speech","音高；球場；推銷說詞；投球（可數/不可數）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"juicy":["full of juice; succulent; exciting and interesting","多汁的；八卦刺激的"],"jungle":["an area of land overgrown with dense forest and tangled vegetation","叢林；密林；熱帶叢林（可數/不可數）"],"junk":["old or discarded articles that are considered useless or of little value","廢棄雜物；破爛；垃圾（不可數）"],"kangaroo":["a large Australian marsupial with powerful hind legs for leaping and a pouch","袋鼠（可數）"],"march":["to walk with stiff, regular, and measured strides, like soldiers","行軍；齊步前進；遊行抗議（動詞）"],"neighborhood":["a district, especially one forming a community within a town or city","街坊；鄰近地區；社區（可數）"],"neighbor":["a person living next door to or very near to the speaker or person referred to","鄰居；鄰國（可數）"],"nest":["a structure or place made or chosen by a bird for laying eggs and sheltering its young","鳥巢；窩；巢穴（可數）"],"nests":["a structure or place made or chosen by a bird for laying eggs and sheltering its young","鳥巢；窩；巢穴（可數）"],"pitch":["the highness or lowness of a tone; a playing field; a promotional speech","音高；球場；推銷說詞；投球（可數/不可數）"]});

@@ -178,7 +178,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "palace",
-    "answer": "palace",
+    "answer": "Palace",
     "pos": "n.",
     "definition": "the official residence of a sovereign, archbishop, or other exalted person",
     "chinese": "宮殿；皇宮（可數）",

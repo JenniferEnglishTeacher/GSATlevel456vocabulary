@@ -360,7 +360,7 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "wax": {
+  "waxing": {
     "pos": "n./v.",
     "en_def": "a sticky yellowish substance used for candles; to polish with wax",
     "cn_def": "蠟 (n.)；上蠟；打蠟；給…除毛 (v.)",
@@ -372,7 +372,7 @@ const LOOKUP = {
       }
     ]
   },
-  "waxing": {
+  "wax": {
     "pos": "n./v.",
     "en_def": "a sticky yellowish substance used for candles; to polish with wax",
     "cn_def": "蠟 (n.)；上蠟；打蠟；給…除毛 (v.)",

@@ -424,7 +424,7 @@ const LOOKUP = {
       }
     ]
   },
-  "clothe": {
+  "clothed": {
     "pos": "v.",
     "en_def": "to provide with clothes; to put clothes on someone or dress",
     "cn_def": "為…穿衣；覆蓋；籠罩",
@@ -436,7 +436,7 @@ const LOOKUP = {
       }
     ]
   },
-  "clothed": {
+  "clothe": {
     "pos": "v.",
     "en_def": "to provide with clothes; to put clothes on someone or dress",
     "cn_def": "為…穿衣；覆蓋；籠罩",

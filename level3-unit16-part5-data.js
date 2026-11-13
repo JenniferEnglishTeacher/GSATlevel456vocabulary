@@ -55,7 +55,7 @@ const VOCAB = [
     "cn": "這支著名的搖滾樂團在倫敦的錄音室裡度過了緊張的四個月，創作他們的全新專輯。"
   },
   {
-    "word": "tower",
+    "word": "Tower",
     "pos": "n.",
     "cn_def": "塔；高樓；高塔（可數）",
     "en_def": "a tall, narrow building, either freestanding or forming part of a building such as a church or castle",

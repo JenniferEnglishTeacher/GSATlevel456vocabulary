@@ -103,7 +103,7 @@ const VOCAB = [
     "cn": "經驗豐富的動物學家解釋說，人類永遠無法真正馴服一隻兇猛的成年野狼，因為其野外狩獵本能依然強大。"
   },
   {
-    "word": "trend",
+    "word": "trends",
     "pos": "n.",
     "cn_def": "趨勢；潮流；動向（可數）",
     "en_def": "a general direction in which something is developing or changing; a prevailing fashion",
@@ -536,6 +536,18 @@ const LOOKUP = {
     ]
   },
   "trend": {
+    "pos": "n.",
+    "en_def": "a general direction in which something is developing or changing; a prevailing fashion",
+    "cn_def": "趨勢；潮流；動向（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a general direction in which something is developing or changing; a prevailing fashion",
+        "cn_def": "趨勢；潮流；動向（可數）"
+      }
+    ]
+  },
+  "trends": {
     "pos": "n.",
     "en_def": "a general direction in which something is developing or changing; a prevailing fashion",
     "cn_def": "趨勢；潮流；動向（可數）",

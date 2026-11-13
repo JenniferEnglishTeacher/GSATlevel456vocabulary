@@ -47,7 +47,7 @@ const VOCAB = [
     "cn": "我父親每逢陽光明媚的週六早晨都會使用電動除草機修剪前院草坪。"
   },
   {
-    "word": "liberty",
+    "word": "Liberty",
     "pos": "n.",
     "cn_def": "自由；特權；自主權（不可數/可數）",
     "en_def": "the state of being free within society from oppressive restrictions",

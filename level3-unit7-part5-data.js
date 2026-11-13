@@ -39,7 +39,7 @@ const VOCAB = [
     "cn": "在伊索著名的龜兔賽跑寓言中，持之以恆／穩紮穩打最終贏得了比賽。"
   },
   {
-    "word": "stool",
+    "word": "stools",
     "pos": "n.",
     "cn_def": "凳子；高腳凳（可數）",
     "en_def": "a backless, armless single seat supported on legs or a central pedestal",
@@ -469,6 +469,18 @@ const LOOKUP = {
       }
     ]
   },
+  "stools": {
+    "pos": "n.",
+    "en_def": "a backless, armless single seat supported on legs or a central pedestal",
+    "cn_def": "凳子；高腳凳（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a backless, armless single seat supported on legs or a central pedestal",
+        "cn_def": "凳子；高腳凳（可數）"
+      }
+    ]
+  },
   "tent": {
     "pos": "n.",
     "en_def": "a portable shelter of fabric or canvas supported by poles and rope",
@@ -529,7 +541,7 @@ const LOOKUP = {
       }
     ]
   },
-  "troops": {
+  "troop": {
     "pos": "n.",
     "en_def": "soldiers or armed forces; a group of people or animals of a specified kind",
     "cn_def": "軍隊；部隊（常用複數 troops）；一群",
@@ -541,7 +553,7 @@ const LOOKUP = {
       }
     ]
   },
-  "troop": {
+  "troops": {
     "pos": "n.",
     "en_def": "soldiers or armed forces; a group of people or animals of a specified kind",
     "cn_def": "軍隊；部隊（常用複數 troops）；一群",

@@ -63,7 +63,7 @@ const VOCAB = [
     "cn": "因為週六晚間市中心極為繁忙，彼得提前打電話給小酒館預訂了一張四人餐桌。"
   },
   {
-    "word": "reserve",
+    "word": "reserves",
     "pos": "n.",
     "cn_def": "儲備量；保護區；矜持內斂（可數/不可數）",
     "en_def": "a supply of a commodity not needed for immediate use; a protected area for wildlife",
@@ -505,6 +505,18 @@ const LOOKUP = {
       }
     ]
   },
+  "reserves": {
+    "pos": "n.",
+    "en_def": "a supply of a commodity not needed for immediate use; a protected area for wildlife",
+    "cn_def": "儲備量；保護區；矜持內斂（可數/不可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a supply of a commodity not needed for immediate use; a protected area for wildlife",
+        "cn_def": "儲備量；保護區；矜持內斂（可數/不可數）"
+      }
+    ]
+  },
   "reservation": {
     "pos": "n.",
     "en_def": "an arrangement to secure accommodations or seats; a feeling of doubt",
@@ -514,18 +526,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "an arrangement to secure accommodations or seats; a feeling of doubt",
         "cn_def": "預訂；預約；存疑保留（可數/不可數）"
-      }
-    ]
-  },
-  "restricts": {
-    "pos": "v.",
-    "en_def": "to put a limit on; to keep under control or within bounds",
-    "cn_def": "限制；約束（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to put a limit on; to keep under control or within bounds",
-        "cn_def": "限制；約束（動詞）"
       }
     ]
   },
@@ -541,7 +541,19 @@ const LOOKUP = {
       }
     ]
   },
-  "restrictions": {
+  "restricts": {
+    "pos": "v.",
+    "en_def": "to put a limit on; to keep under control or within bounds",
+    "cn_def": "限制；約束（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to put a limit on; to keep under control or within bounds",
+        "cn_def": "限制；約束（動詞）"
+      }
+    ]
+  },
+  "restriction": {
     "pos": "n.",
     "en_def": "a limiting condition or measure, especially a legal regulation",
     "cn_def": "限制；約束規定（可數/不可數）",
@@ -553,7 +565,7 @@ const LOOKUP = {
       }
     ]
   },
-  "restriction": {
+  "restrictions": {
     "pos": "n.",
     "en_def": "a limiting condition or measure, especially a legal regulation",
     "cn_def": "限制；約束規定（可數/不可數）",

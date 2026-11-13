@@ -15,7 +15,7 @@ const VOCAB = [
     "cn": "為了接觸更多年輕客戶，這家電子公司決定在暢銷雜誌上為其新款智慧型手機打廣告宣傳。"
   },
   {
-    "word": "advertiser",
+    "word": "advertisers",
     "pos": "n.",
     "cn_def": "廣告商；廣告主（可數）",
     "en_def": "a person or company that pays for advertisements to promote products",
@@ -485,6 +485,18 @@ const LOOKUP = {
     ]
   },
   "advertiser": {
+    "pos": "n.",
+    "en_def": "a person or company that pays for advertisements to promote products",
+    "cn_def": "廣告商；廣告主（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a person or company that pays for advertisements to promote products",
+        "cn_def": "廣告商；廣告主（可數）"
+      }
+    ]
+  },
+  "advertisers": {
     "pos": "n.",
     "en_def": "a person or company that pays for advertisements to promote products",
     "cn_def": "廣告商；廣告主（可數）",

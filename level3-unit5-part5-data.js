@@ -87,7 +87,7 @@ const VOCAB = [
     "cn": "發展高效能的大眾交通運輸基礎設施，對於減少大都會地區有害碳排放與交通壅塞至關重要。"
   },
   {
-    "word": "traveler",
+    "word": "travelers",
     "pos": "n.",
     "cn_def": "旅客；旅行者（可數名詞）",
     "en_def": "a person who is traveling or who often travels",
@@ -501,6 +501,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "the action of transporting someone or something or the system of conveyances",
         "cn_def": "交通運輸工具；運輸系統（不可數）"
+      }
+    ]
+  },
+  "travelers": {
+    "pos": "n.",
+    "en_def": "a person who is traveling or who often travels",
+    "cn_def": "旅客；旅行者（可數名詞）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a person who is traveling or who often travels",
+        "cn_def": "旅客；旅行者（可數名詞）"
       }
     ]
   },

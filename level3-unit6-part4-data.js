@@ -468,7 +468,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pancakes": {
+  "pancake": {
     "pos": "n.",
     "en_def": "a thin, flat cake of batter, fried on both sides on a griddle or in a frying pan",
     "cn_def": "煎餅；薄煎餅；美式鬆餅（可數）",
@@ -480,7 +480,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pancake": {
+  "pancakes": {
     "pos": "n.",
     "en_def": "a thin, flat cake of batter, fried on both sides on a griddle or in a frying pan",
     "cn_def": "煎餅；薄煎餅；美式鬆餅（可數）",

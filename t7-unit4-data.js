@@ -85,7 +85,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "poster",
-    "answer": "poster",
+    "answer": "posters",
     "pos": "n.",
     "definition": "a large printed picture, notice, or advertisement displayed in a public place",
     "chinese": "海報；宣傳招貼（可數）",
@@ -754,4 +754,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"pepper":["a pungent hot-tasting powder prepared from dried peppercorns; a hollow vegetable","胡椒粉；甜椒；辣椒（可數/不可數）"],"photographer":["a person who takes photographs, especially as a professional job","攝影師；拍照者（可數）"],"photograph":["a picture made using a camera, in which an image is focused onto film or sensor","照片；相片（可數）"],"pile":["a heap of things laid or lying one on top of another","一堆；疊（可數）"],"piled":["to place things one on top of another; to accumulate","堆疊；堆積；蜂擁而入（動詞）"],"poster":["a large printed picture, notice, or advertisement displayed in a public place","海報；宣傳招貼（可數）"],"probable":["likely to happen or to be true; having a high probability","很可能的；大概的"],"probably":["almost certainly; as far as one can reasonably tell","很可能；大概（副詞）"],"professor":["a university teacher of the highest academic rank","教授；大學正教授（可數）"],"proof":["evidence or argument establishing or helping to establish a fact or the truth","證明；證據（不可數/可數）"],"regional":["relating to or characteristic of a specific geographic region","地區的；區域性的；地方特色的"],"region":["an area or division, especially part of a country or the world","地區；地帶；領域（可數）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"pepper":["a pungent hot-tasting powder prepared from dried peppercorns; a hollow vegetable","胡椒粉；甜椒；辣椒（可數/不可數）"],"photographer":["a person who takes photographs, especially as a professional job","攝影師；拍照者（可數）"],"photograph":["a picture made using a camera, in which an image is focused onto film or sensor","照片；相片（可數）"],"pile":["a heap of things laid or lying one on top of another","一堆；疊（可數）"],"piled":["to place things one on top of another; to accumulate","堆疊；堆積；蜂擁而入（動詞）"],"posters":["a large printed picture, notice, or advertisement displayed in a public place","海報；宣傳招貼（可數）"],"poster":["a large printed picture, notice, or advertisement displayed in a public place","海報；宣傳招貼（可數）"],"probable":["likely to happen or to be true; having a high probability","很可能的；大概的"],"probably":["almost certainly; as far as one can reasonably tell","很可能；大概（副詞）"],"professor":["a university teacher of the highest academic rank","教授；大學正教授（可數）"],"proof":["evidence or argument establishing or helping to establish a fact or the truth","證明；證據（不可數/可數）"],"regional":["relating to or characteristic of a specific geographic region","地區的；區域性的；地方特色的"],"region":["an area or division, especially part of a country or the world","地區；地帶；領域（可數）"]});

@@ -71,7 +71,7 @@ const VOCAB = [
     "cn": "每當我們出城度假時，我們親切的隔壁鄰居都會好心替我們澆灌花園的花朵。"
   },
   {
-    "word": "nest",
+    "word": "nests",
     "pos": "n.",
     "cn_def": "鳥巢；窩；巢穴（可數）",
     "en_def": "a structure or place made or chosen by a bird for laying eggs and sheltering its young",
@@ -519,6 +519,18 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to use or build a nest; to fit an object inside a larger one",
         "cn_def": "築巢；棲息；套疊（動詞）"
+      }
+    ]
+  },
+  "nests": {
+    "pos": "n.",
+    "en_def": "a structure or place made or chosen by a bird for laying eggs and sheltering its young",
+    "cn_def": "鳥巢；窩；巢穴（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a structure or place made or chosen by a bird for laying eggs and sheltering its young",
+        "cn_def": "鳥巢；窩；巢穴（可數）"
       }
     ]
   },

@@ -528,7 +528,7 @@ const LOOKUP = {
       }
     ]
   },
-  "keep one's chin up": {
+  "keep his chin up": {
     "pos": "v.phr.",
     "en_def": "to stay cheerful and brave in a difficult or discouraging situation",
     "cn_def": "保持樂觀；不氣餒；振作起來",
@@ -540,7 +540,7 @@ const LOOKUP = {
       }
     ]
   },
-  "keep his chin up": {
+  "keep one's chin up": {
     "pos": "v.phr.",
     "en_def": "to stay cheerful and brave in a difficult or discouraging situation",
     "cn_def": "保持樂觀；不氣餒；振作起來",

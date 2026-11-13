@@ -73,7 +73,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "brake",
-    "answer": "brake",
+    "answer": "brakes",
     "pos": "n.",
     "definition": "a device for slowing or stopping a moving vehicle, typically by friction",
     "chinese": "煞車；制動器（可數）",
@@ -100,12 +100,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "bubble",
-    "answer": "bubbles",
+    "answer": "bubble",
     "pos": "n.",
     "definition": "a thin sphere of liquid enclosing air or another gas",
     "chinese": "氣泡；泡沫；泡泡（可數）",
-    "sentence": "The happy young children giggled joyfully as they blew colorful soap __________ in the sunny backyard garden.",
-    "translation": "開朗的年幼孩子們在陽光明媚的後院花園裡吹著五彩繽紛的肥皂泡泡，開心地咯咯笑。",
+    "sentence": "When housing prices dropped sharply, the long-predicted real estate __________ finally burst with great impact.",
+    "translation": "當房價大幅下跌時，長久以來被預測的房地產泡沫終於破裂，帶來巨大衝擊。",
     "lookup": {
      "english": "a thin sphere of liquid enclosing air or another gas",
      "chinese": "氣泡；泡沫；泡泡（可數）"
@@ -797,4 +797,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ambition":["a strong desire to do or achieve something significant; ambition","雄心；抱負；志向（可數/不可數）"],"ambitious":["having or showing a strong desire and determination to succeed","有雄心壯志的；野心勃勃的"],"announce":["to make a public or formal declaration about a fact, event, or intention","宣布；公布；宣告（動詞）"],"announcement":["a public or formal statement about a fact, occurrence, or intention","公告；通告；宣告（可數/不可數）"],"declare":["to say something in a solemn, emphatic, or official manner","宣告；正式聲明；申報（動詞）"],"brake":["a device for slowing or stopping a moving vehicle, typically by friction","煞車；制動器（可數）"],"bubbles":["a thin sphere of liquid enclosing air or another gas","氣泡；泡沫；泡泡（可數）"],"bubble":["a thin sphere of liquid enclosing air or another gas","氣泡；泡沫；泡泡（可數）"],"bubbly":["full of bubbles; lively and cheerful in personality","充滿氣泡的；活潑開朗的"],"clay":["a stiff, sticky fine-grained earth that can be molded when wet and baked","黏土；陶土（不可數）"],"comparison":["a consideration or estimate of the similarities or dissimilarities between two things","比較；對照；比擬（可數/不可數）"],"compare":["to estimate, measure, or note the similarity or dissimilarity between","比較；對照；比作（動詞）"],"comparable":["able to be likened to another; similar in quality or importance","可比較的；比得上的；相當的"],"concert":["a musical performance given in public by several performers or of several works","音樂會；演唱會（可數）"],"creature":["an animal, as distinct from a human being; a living being","生物；動物；生靈（可數）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ambition":["a strong desire to do or achieve something significant; ambition","雄心；抱負；志向（可數/不可數）"],"ambitious":["having or showing a strong desire and determination to succeed","有雄心壯志的；野心勃勃的"],"announce":["to make a public or formal declaration about a fact, event, or intention","宣布；公布；宣告（動詞）"],"announcement":["a public or formal statement about a fact, occurrence, or intention","公告；通告；宣告（可數/不可數）"],"declare":["to say something in a solemn, emphatic, or official manner","宣告；正式聲明；申報（動詞）"],"brake":["a device for slowing or stopping a moving vehicle, typically by friction","煞車；制動器（可數）"],"brakes":["a device for slowing or stopping a moving vehicle, typically by friction","煞車；制動器（可數）"],"bubble":["a thin sphere of liquid enclosing air or another gas","氣泡；泡沫；泡泡（可數）"],"bubbly":["full of bubbles; lively and cheerful in personality","充滿氣泡的；活潑開朗的"],"clay":["a stiff, sticky fine-grained earth that can be molded when wet and baked","黏土；陶土（不可數）"],"comparison":["a consideration or estimate of the similarities or dissimilarities between two things","比較；對照；比擬（可數/不可數）"],"compare":["to estimate, measure, or note the similarity or dissimilarity between","比較；對照；比作（動詞）"],"comparable":["able to be likened to another; similar in quality or importance","可比較的；比得上的；相當的"],"concert":["a musical performance given in public by several performers or of several works","音樂會；演唱會（可數）"],"creature":["an animal, as distinct from a human being; a living being","生物；動物；生靈（可數）"]});

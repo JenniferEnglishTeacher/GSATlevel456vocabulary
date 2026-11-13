@@ -432,6 +432,18 @@ const MCQS = [
 ];
 
 const LOOKUP = {
+  "dripped": {
+    "pos": "v.",
+    "en_def": "to fall in small drops of liquid, or to let liquid fall in drops",
+    "cn_def": "滴下；漏水；淌（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to fall in small drops of liquid, or to let liquid fall in drops",
+        "cn_def": "滴下；漏水；淌（動詞）"
+      }
+    ]
+  },
   "drip": {
     "pos": "v.",
     "en_def": "to fall in small drops of liquid, or to let liquid fall in drops",
@@ -446,18 +458,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a small drop of liquid that falls, or the sound of falling drops",
         "cn_def": "水滴；滴水聲；點滴注射（可數）"
-      }
-    ]
-  },
-  "dripped": {
-    "pos": "v.",
-    "en_def": "to fall in small drops of liquid, or to let liquid fall in drops",
-    "cn_def": "滴下；漏水；淌（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to fall in small drops of liquid, or to let liquid fall in drops",
-        "cn_def": "滴下；漏水；淌（動詞）"
       }
     ]
   },

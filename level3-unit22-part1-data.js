@@ -440,7 +440,7 @@ const LOOKUP = {
       }
     ]
   },
-  "crane": {
+  "cranes": {
     "pos": "n./v.",
     "en_def": "a large long-legged bird; a lifting machine; to stretch out one's neck",
     "cn_def": "鶴；起重機；伸長(脖子)",
@@ -452,7 +452,7 @@ const LOOKUP = {
       }
     ]
   },
-  "cranes": {
+  "crane": {
     "pos": "n./v.",
     "en_def": "a large long-legged bird; a lifting machine; to stretch out one's neck",
     "cn_def": "鶴；起重機；伸長(脖子)",

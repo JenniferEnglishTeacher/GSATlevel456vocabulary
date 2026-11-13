@@ -562,7 +562,7 @@ const LOOKUP = {
       }
     ]
   },
-  "capture": {
+  "captured": {
     "pos": "v.",
     "en_def": "to take into custody by force; to accurately depict or catch",
     "cn_def": "俘虜；捕獲；生動捕捉（動詞）",
@@ -574,7 +574,7 @@ const LOOKUP = {
       }
     ]
   },
-  "captured": {
+  "capture": {
     "pos": "v.",
     "en_def": "to take into custody by force; to accurately depict or catch",
     "cn_def": "俘虜；捕獲；生動捕捉（動詞）",

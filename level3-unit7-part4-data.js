@@ -55,7 +55,7 @@ const VOCAB = [
     "cn": "每當泰勒女士請病假時，未回覆的公務郵件便迅速在她的收件匣中堆積如山。"
   },
   {
-    "word": "poster",
+    "word": "posters",
     "pos": "n.",
     "cn_def": "海報；宣傳招貼（可數）",
     "en_def": "a large printed picture, notice, or advertisement displayed in a public place",
@@ -490,6 +490,18 @@ const LOOKUP = {
         "pos": "v.phr.",
         "en_def": "to accumulate in large quantities; to cause a multi-vehicle traffic accident",
         "cn_def": "積累；堆積如山；（車輛）連環追撞"
+      }
+    ]
+  },
+  "posters": {
+    "pos": "n.",
+    "en_def": "a large printed picture, notice, or advertisement displayed in a public place",
+    "cn_def": "海報；宣傳招貼（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a large printed picture, notice, or advertisement displayed in a public place",
+        "cn_def": "海報；宣傳招貼（可數）"
       }
     ]
   },

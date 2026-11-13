@@ -397,7 +397,7 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "dragged": {
+  "drag": {
     "pos": "v.",
     "en_def": "to pull someone or something along forcefully with effort; to pass very slowly",
     "cn_def": "拉；拖曳；拖沓緩慢進行",
@@ -409,7 +409,7 @@ const LOOKUP = {
       }
     ]
   },
-  "drag": {
+  "dragged": {
     "pos": "v.",
     "en_def": "to pull someone or something along forcefully with effort; to pass very slowly",
     "cn_def": "拉；拖曳；拖沓緩慢進行",

@@ -46,7 +46,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "sausage",
-    "answer": "sausage",
+    "answer": "sausages",
     "pos": "n.",
     "definition": "minced meat seasoned and stuffed into a cylindrical casing",
     "chinese": "香腸；臘腸（可數/不可數）",
@@ -72,7 +72,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "slave",
-    "answer": "slave",
+    "answer": "slaves",
     "pos": "n.",
     "definition": "a person who is the legal property of another and is forced to obey them",
     "chinese": "奴隸；苦工（可數）",
@@ -126,7 +126,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "statue",
-    "answer": "statue",
+    "answer": "Statue",
     "pos": "n.",
     "definition": "a carved or cast figure of a person or animal, especially life-size or larger",
     "chinese": "雕像；塑像（可數）",
@@ -744,4 +744,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"rug":["a floor covering of thick woven material or animal skin; a small carpet","小地毯；墊子（可數）"],"rushed":["to move or act with urgent haste; to force someone to act too quickly","急促行進；倉促行事；催促（動詞）"],"rush":["to move or act with urgent haste; to force someone to act too quickly","急促行進；倉促行事；催促（動詞）"],"sausage":["minced meat seasoned and stuffed into a cylindrical casing","香腸；臘腸（可數/不可數）"],"scarf":["a piece of fabric worn around the neck or head for warmth or fashion (plural: scarves or scarfs)","圍巾；披肩（可數）"],"slave":["a person who is the legal property of another and is forced to obey them","奴隸；苦工（可數）"],"slavery":["the state of being a slave; the practice or system of owning slaves","奴隸身分；奴隸制度（不可數）"],"slippery":["difficult to hold firmly or walk on; unreliable or elusive","滑的；滑溜溜的；狡猾不可信的"],"statue":["a carved or cast figure of a person or animal, especially life-size or larger","雕像；塑像（可數）"],"structure":["the arrangement of parts in an organic or complex whole; a building","結構；構造；建築結構體（可數/不可數）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"rug":["a floor covering of thick woven material or animal skin; a small carpet","小地毯；墊子（可數）"],"rush":["to move or act with urgent haste; to force someone to act too quickly","急促行進；倉促行事；催促（動詞）"],"rushed":["to move or act with urgent haste; to force someone to act too quickly","急促行進；倉促行事；催促（動詞）"],"sausages":["minced meat seasoned and stuffed into a cylindrical casing","香腸；臘腸（可數/不可數）"],"sausage":["minced meat seasoned and stuffed into a cylindrical casing","香腸；臘腸（可數/不可數）"],"scarf":["a piece of fabric worn around the neck or head for warmth or fashion (plural: scarves or scarfs)","圍巾；披肩（可數）"],"slaves":["a person who is the legal property of another and is forced to obey them","奴隸；苦工（可數）"],"slave":["a person who is the legal property of another and is forced to obey them","奴隸；苦工（可數）"],"slavery":["the state of being a slave; the practice or system of owning slaves","奴隸身分；奴隸制度（不可數）"],"slippery":["difficult to hold firmly or walk on; unreliable or elusive","滑的；滑溜溜的；狡猾不可信的"],"statue":["a carved or cast figure of a person or animal, especially life-size or larger","雕像；塑像（可數）"],"structure":["the arrangement of parts in an organic or complex whole; a building","結構；構造；建築結構體（可數/不可數）"]});

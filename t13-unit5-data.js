@@ -152,7 +152,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "wipe",
-    "answer": "wipe",
+    "answer": "wipes",
     "pos": "n.",
     "definition": "an act of wiping; a piece of disposable cloth for cleaning",
     "chinese": "擦拭；濕紙巾（可數）",
@@ -743,4 +743,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"suburb":["an outlying residential district of a city; the area outside a central city","郊區；近郊住宅區（可數，常用複數 suburbs）"],"suburban":["relating to, situated in, or characteristic of a suburb","郊區的；近郊特有的"],"suck":["to draw into the mouth by creating a vacuum; (slang) to be very bad or unpleasant","吸；啜；（俚語）糟透了；差勁（動詞）"],"talent":["natural aptitude, flair, or superior ability; people possessing such ability","天賦；才能；人才（不可數/可數）"],"talented":["having a natural aptitude or skill for something","有才華的；才華橫溢的"],"tide":["the alternate rising and falling of the sea; a powerful surge or trend","潮汐；浪潮；趨勢（不可數/可數）"],"van":["a medium-sized motor vehicle used for transporting goods or passengers","客貨兩用箱型車；廂型貨車（可數）"],"vest":["a sleeveless garment worn on the upper body, for warmth or protection","背心；防彈衣；防護背心（可數）"],"wipe":["to clean or dry by rubbing with a cloth or hand; to completely remove","擦拭；抹去；徹底消滅（動詞）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"suburb":["an outlying residential district of a city; the area outside a central city","郊區；近郊住宅區（可數，常用複數 suburbs）"],"suburban":["relating to, situated in, or characteristic of a suburb","郊區的；近郊特有的"],"suck":["to draw into the mouth by creating a vacuum; (slang) to be very bad or unpleasant","吸；啜；（俚語）糟透了；差勁（動詞）"],"talent":["natural aptitude, flair, or superior ability; people possessing such ability","天賦；才能；人才（不可數/可數）"],"talented":["having a natural aptitude or skill for something","有才華的；才華橫溢的"],"tide":["the alternate rising and falling of the sea; a powerful surge or trend","潮汐；浪潮；趨勢（不可數/可數）"],"van":["a medium-sized motor vehicle used for transporting goods or passengers","客貨兩用箱型車；廂型貨車（可數）"],"vest":["a sleeveless garment worn on the upper body, for warmth or protection","背心；防彈衣；防護背心（可數）"],"wipe":["to clean or dry by rubbing with a cloth or hand; to completely remove","擦拭；抹去；徹底消滅（動詞）"],"wipes":["an act of wiping; a piece of disposable cloth for cleaning","擦拭；濕紙巾（可數）"]});

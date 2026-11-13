@@ -162,7 +162,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "trend",
-    "answer": "trend",
+    "answer": "trends",
     "pos": "n.",
     "definition": "a general direction in which something is developing or changing; a prevailing fashion",
     "chinese": "趨勢；潮流；動向（可數）",
@@ -753,4 +753,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"shortly":["in a short time; soon; at a short interval","不久；立刻；很快（副詞）"],"signal":["a gesture, action, or sound that gives information or instructions; an electrical impulse or radio wave","信號；暗號；通訊訊號（可數）"],"signaled":["to convey information or instructions by means of a gesture, action, or sound","發出信號；示意；標誌著（動詞）"],"spit":["to eject saliva or food forcibly from one's mouth","吐出；吐口水（動詞，三態：spit/spat, spit/spat, spit）"],"spy":["a person employed by a government or organization to obtain secret information on enemies or competitors","間諜；特務；臥底（可數）"],"superior":["higher in rank, status, quality, or achievement than another","較優良的；品質上乘的；上級的"],"talkative":["fond of or given to talking; loquacious","健談的；多話的；愛說話的"],"tame":["domesticated, gentle, and obedient; not dangerous or wild","溫馴的；馴服的；平淡無奇的"],"trend":["a general direction in which something is developing or changing; a prevailing fashion","趨勢；潮流；動向（可數）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"shortly":["in a short time; soon; at a short interval","不久；立刻；很快（副詞）"],"signal":["a gesture, action, or sound that gives information or instructions; an electrical impulse or radio wave","信號；暗號；通訊訊號（可數）"],"signaled":["to convey information or instructions by means of a gesture, action, or sound","發出信號；示意；標誌著（動詞）"],"spit":["to eject saliva or food forcibly from one's mouth","吐出；吐口水（動詞，三態：spit/spat, spit/spat, spit）"],"spy":["a person employed by a government or organization to obtain secret information on enemies or competitors","間諜；特務；臥底（可數）"],"superior":["higher in rank, status, quality, or achievement than another","較優良的；品質上乘的；上級的"],"talkative":["fond of or given to talking; loquacious","健談的；多話的；愛說話的"],"tame":["domesticated, gentle, and obedient; not dangerous or wild","溫馴的；馴服的；平淡無奇的"],"trend":["a general direction in which something is developing or changing; a prevailing fashion","趨勢；潮流；動向（可數）"],"trends":["a general direction in which something is developing or changing; a prevailing fashion","趨勢；潮流；動向（可數）"]});

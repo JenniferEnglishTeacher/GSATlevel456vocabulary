@@ -58,7 +58,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "hanger",
-    "answer": "hanger",
+    "answer": "hangers",
     "pos": "n.",
     "definition": "a curved piece of wood, plastic, or wire with a hook, used for hanging clothes",
     "chinese": "衣架（可數）",
@@ -688,4 +688,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"flavor":["the distinctive taste of a food or drink; to impart flavor to","風味；口味（名詞）；給…調味（動詞）"],"gap":["a break or hole in an object, or a wide difference in views or age","缺口；間隔；分歧；差距（可數）"],"handkerchief":["a small square piece of linen or silk carried in one's pocket for wiping the face","手帕；手絹（可數）"],"handy":["convenient to handle or use, or placed within easy reach","便利的；手巧的；近便手邊的"],"hanger":["a curved piece of wood, plastic, or wire with a hook, used for hanging clothes","衣架（可數）"],"honesty":["the quality of being fair, truthful, and morally upright","誠實；正直；率直（不可數）"],"inferior":["lower in rank, status, or quality; a person lower in rank or status","較差的；次等的（形容詞）；下級／部屬（名詞）"],"jewels":["a precious stone, typically a single crystal, or a highly valued thing","寶石；珠寶；珍貴之物（可數）"],"jewel":["a precious stone, typically a single crystal, or a highly valued thing","寶石；珠寶；珍貴之物（可數）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"flavor":["the distinctive taste of a food or drink; to impart flavor to","風味；口味（名詞）；給…調味（動詞）"],"gap":["a break or hole in an object, or a wide difference in views or age","缺口；間隔；分歧；差距（可數）"],"handkerchief":["a small square piece of linen or silk carried in one's pocket for wiping the face","手帕；手絹（可數）"],"handy":["convenient to handle or use, or placed within easy reach","便利的；手巧的；近便手邊的"],"hanger":["a curved piece of wood, plastic, or wire with a hook, used for hanging clothes","衣架（可數）"],"hangers":["a curved piece of wood, plastic, or wire with a hook, used for hanging clothes","衣架（可數）"],"honesty":["the quality of being fair, truthful, and morally upright","誠實；正直；率直（不可數）"],"inferior":["lower in rank, status, or quality; a person lower in rank or status","較差的；次等的（形容詞）；下級／部屬（名詞）"],"jewels":["a precious stone, typically a single crystal, or a highly valued thing","寶石；珠寶；珍貴之物（可數）"],"jewel":["a precious stone, typically a single crystal, or a highly valued thing","寶石；珠寶；珍貴之物（可數）"]});

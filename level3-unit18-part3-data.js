@@ -462,7 +462,7 @@ const LOOKUP = {
       }
     ]
   },
-  "kilometer": {
+  "kilometers": {
     "pos": "n.",
     "en_def": "a metric unit of measurement equal to 1,000 meters (approx. 0.62 miles)",
     "cn_def": "公里；千米（可數，縮寫 km）",
@@ -474,7 +474,7 @@ const LOOKUP = {
       }
     ]
   },
-  "kilometers": {
+  "kilometer": {
     "pos": "n.",
     "en_def": "a metric unit of measurement equal to 1,000 meters (approx. 0.62 miles)",
     "cn_def": "公里；千米（可數，縮寫 km）",

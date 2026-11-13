@@ -59,7 +59,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "stool",
-    "answer": "stool",
+    "answer": "stools",
     "pos": "n.",
     "definition": "a backless, armless single seat supported on legs or a central pedestal",
     "chinese": "凳子；高腳凳（可數）",
@@ -754,4 +754,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ripe":["developed to the point of readiness for harvesting and eating; fully matured","成熟的；時機成熟的"],"steady":["firmly fixed, supported, or balanced; regular and continuous","穩定的；沉穩的；持續不斷的"],"stool":["a backless, armless single seat supported on legs or a central pedestal","凳子；高腳凳（可數）"],"tent":["a portable shelter of fabric or canvas supported by poles and rope","帳篷（可數）"],"thumb":["the short, thick first digit of the human hand, opposable to the other four fingers","大拇指（可數）"],"troops":["soldiers or armed forces; a group of people or animals of a specified kind","軍隊；部隊（常用複數 troops）；一群"],"troop":["soldiers or armed forces; a group of people or animals of a specified kind","軍隊；部隊（常用複數 troops）；一群"],"wealthy":["having a great deal of money, resources, or assets; rich","富有的；富裕的"],"wealth":["an abundance of valuable possessions, money, or intellectual resources","財富；豐富；大量（不可數）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ripe":["developed to the point of readiness for harvesting and eating; fully matured","成熟的；時機成熟的"],"steady":["firmly fixed, supported, or balanced; regular and continuous","穩定的；沉穩的；持續不斷的"],"stool":["a backless, armless single seat supported on legs or a central pedestal","凳子；高腳凳（可數）"],"stools":["a backless, armless single seat supported on legs or a central pedestal","凳子；高腳凳（可數）"],"tent":["a portable shelter of fabric or canvas supported by poles and rope","帳篷（可數）"],"thumb":["the short, thick first digit of the human hand, opposable to the other four fingers","大拇指（可數）"],"troop":["soldiers or armed forces; a group of people or animals of a specified kind","軍隊；部隊（常用複數 troops）；一群"],"troops":["soldiers or armed forces; a group of people or animals of a specified kind","軍隊；部隊（常用複數 troops）；一群"],"wealthy":["having a great deal of money, resources, or assets; rich","富有的；富裕的"],"wealth":["an abundance of valuable possessions, money, or intellectual resources","財富；豐富；大量（不可數）"]});

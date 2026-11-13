@@ -31,7 +31,7 @@ const VOCAB = [
     "cn": "在早晨交通尖峰時刻於市中心高速公路上通勤總是令人沮喪，因為車輛幾乎動彈不得。"
   },
   {
-    "word": "sausage",
+    "word": "sausages",
     "pos": "n.",
     "cn_def": "香腸；臘腸（可數/不可數）",
     "en_def": "minced meat seasoned and stuffed into a cylindrical casing",
@@ -47,7 +47,7 @@ const VOCAB = [
     "cn": "祖母慈愛地花了三個冬日星期為剛出生的孫女編織了一條柔軟的紅色圍巾。"
   },
   {
-    "word": "slave",
+    "word": "slaves",
     "pos": "n.",
     "cn_def": "奴隸；苦工（可數）",
     "en_def": "a person who is the legal property of another and is forced to obey them",
@@ -79,7 +79,7 @@ const VOCAB = [
     "cn": "走下險峻的山徑極具危險性，因為晨露與鬆軟的泥土使岩石變得非常滑溜。"
   },
   {
-    "word": "statue",
+    "word": "Statue",
     "pos": "n.",
     "cn_def": "雕像；塑像（可數）",
     "en_def": "a carved or cast figure of a person or animal, especially life-size or larger",
@@ -419,18 +419,6 @@ const LOOKUP = {
       }
     ]
   },
-  "rushed": {
-    "pos": "v.",
-    "en_def": "to move or act with urgent haste; to force someone to act too quickly",
-    "cn_def": "急促行進；倉促行事；催促（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to move or act with urgent haste; to force someone to act too quickly",
-        "cn_def": "急促行進；倉促行事；催促（動詞）"
-      }
-    ]
-  },
   "rush": {
     "pos": "v.",
     "en_def": "to move or act with urgent haste; to force someone to act too quickly",
@@ -445,6 +433,30 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a sudden quick movement toward something; a period of frantic activity",
         "cn_def": "匆忙；熱潮；尖峰（不可數/可數）"
+      }
+    ]
+  },
+  "rushed": {
+    "pos": "v.",
+    "en_def": "to move or act with urgent haste; to force someone to act too quickly",
+    "cn_def": "急促行進；倉促行事；催促（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to move or act with urgent haste; to force someone to act too quickly",
+        "cn_def": "急促行進；倉促行事；催促（動詞）"
+      }
+    ]
+  },
+  "sausages": {
+    "pos": "n.",
+    "en_def": "minced meat seasoned and stuffed into a cylindrical casing",
+    "cn_def": "香腸；臘腸（可數/不可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "minced meat seasoned and stuffed into a cylindrical casing",
+        "cn_def": "香腸；臘腸（可數/不可數）"
       }
     ]
   },
@@ -469,6 +481,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a piece of fabric worn around the neck or head for warmth or fashion (plural: scarves or scarfs)",
         "cn_def": "圍巾；披肩（可數）"
+      }
+    ]
+  },
+  "slaves": {
+    "pos": "n.",
+    "en_def": "a person who is the legal property of another and is forced to obey them",
+    "cn_def": "奴隸；苦工（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a person who is the legal property of another and is forced to obey them",
+        "cn_def": "奴隸；苦工（可數）"
       }
     ]
   },

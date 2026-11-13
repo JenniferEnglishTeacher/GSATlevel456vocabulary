@@ -43,8 +43,8 @@ const VOCAB = [
     "pos": "n.",
     "cn_def": "婚禮；結婚儀式",
     "en_def": "a marriage ceremony and its associated celebrations",
-    "sentence": "After the sacred church vows were completed, guests adjourned to the beachfront hotel for a lavish dinner {{BLANK}}.",
-    "cn": "神聖的教堂誓言完成後，賓客移步至海灘飯店參加盛大的婚禮招待會／婚宴。"
+    "sentence": "My grandparents will celebrate their golden {{BLANK}} anniversary next weekend surrounded by children and grandchildren.",
+    "cn": "我祖父母將在下週末於兒孫環繞下慶祝他們的金婚（結婚紀念日）。"
   },
   {
     "word": "weeds",

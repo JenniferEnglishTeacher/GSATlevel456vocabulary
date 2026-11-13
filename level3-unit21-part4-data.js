@@ -376,7 +376,7 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "puppets": {
+  "puppet": {
     "pos": "n.",
     "en_def": "a movable model of a person or animal manipulated by strings or hand",
     "cn_def": "木偶；玩偶；傀儡",
@@ -388,7 +388,7 @@ const LOOKUP = {
       }
     ]
   },
-  "puppet": {
+  "puppets": {
     "pos": "n.",
     "en_def": "a movable model of a person or animal manipulated by strings or hand",
     "cn_def": "木偶；玩偶；傀儡",
@@ -424,7 +424,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sin": {
+  "sins": {
     "pos": "n./v.",
     "en_def": "an immoral act considered a transgression against divine law",
     "cn_def": "罪過；罪惡 (n.)；犯罪；背離道德 (v.)",
@@ -436,7 +436,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sins": {
+  "sin": {
     "pos": "n./v.",
     "en_def": "an immoral act considered a transgression against divine law",
     "cn_def": "罪過；罪惡 (n.)；犯罪；背離道德 (v.)",
@@ -472,7 +472,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ton": {
+  "tons": {
     "pos": "n.",
     "en_def": "a unit of weight equal to 2,000 pounds (US) or 1,000 kg (metric)",
     "cn_def": "公噸；大量；許多 (口語)",
@@ -484,7 +484,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tons": {
+  "ton": {
     "pos": "n.",
     "en_def": "a unit of weight equal to 2,000 pounds (US) or 1,000 kg (metric)",
     "cn_def": "公噸；大量；許多 (口語)",

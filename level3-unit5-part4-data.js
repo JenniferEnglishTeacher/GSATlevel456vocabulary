@@ -526,6 +526,18 @@ const LOOKUP = {
       }
     ]
   },
+  "splashing": {
+    "pos": "v.",
+    "en_def": "to cause liquid to strike or fall on something in scattered drops",
+    "cn_def": "濺濕；潑水；飛濺（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to cause liquid to strike or fall on something in scattered drops",
+        "cn_def": "濺濕；潑水；飛濺（動詞）"
+      }
+    ]
+  },
   "splash": {
     "pos": "v.",
     "en_def": "to cause liquid to strike or fall on something in scattered drops",
@@ -540,18 +552,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a sound made by something striking or falling into liquid; an ostentatious display",
         "cn_def": "濺潑聲；斑點；引人注目的展示（可數）"
-      }
-    ]
-  },
-  "splashing": {
-    "pos": "v.",
-    "en_def": "to cause liquid to strike or fall on something in scattered drops",
-    "cn_def": "濺濕；潑水；飛濺（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to cause liquid to strike or fall on something in scattered drops",
-        "cn_def": "濺濕；潑水；飛濺（動詞）"
       }
     ]
   },

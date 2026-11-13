@@ -123,7 +123,7 @@ function renderQuizLinks() {
   const recorded = document.createElement("a");
   recorded.className = "quiz-link review recorded";
   recorded.href = SETCFG.quizPage(unit);
-  recorded.textContent = "✏️ Online Quiz 線上測驗（拼字＋選擇題，記錄成績）";
+  recorded.textContent = "✏️ Online Quiz 線上測驗（可自選拼字題／選擇題，記錄成績）";
   recorded.title = "Spelling + 30 MCQ. Your result is recorded for your teacher.";
   if (/^https?:/.test(SETCFG.quiz)) { // this book's quiz is kept on its own site
     recorded.target = "_blank";

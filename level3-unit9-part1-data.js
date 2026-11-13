@@ -508,7 +508,7 @@ const LOOKUP = {
       }
     ]
   },
-  "right up your alley": {
+  "right up one's alley": {
     "pos": "phr.",
     "en_def": "ideally suited to one's interests or abilities",
     "cn_def": "正合某人的胃口；正是某人的拿手絕活",
@@ -520,7 +520,7 @@ const LOOKUP = {
       }
     ]
   },
-  "right up one's alley": {
+  "right up your alley": {
     "pos": "phr.",
     "en_def": "ideally suited to one's interests or abilities",
     "cn_def": "正合某人的胃口；正是某人的拿手絕活",
@@ -609,7 +609,7 @@ const LOOKUP = {
       }
     ]
   },
-  "make a clean breast of": {
+  "make a clean breast": {
     "pos": "v.phr.",
     "en_def": "to confess fully about something one has done wrong",
     "cn_def": "全盤供認；全盤坦白",
@@ -621,7 +621,7 @@ const LOOKUP = {
       }
     ]
   },
-  "make a clean breast": {
+  "make a clean breast of": {
     "pos": "v.phr.",
     "en_def": "to confess fully about something one has done wrong",
     "cn_def": "全盤供認；全盤坦白",

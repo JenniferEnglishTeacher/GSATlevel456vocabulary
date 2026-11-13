@@ -486,6 +486,18 @@ const LOOKUP = {
       }
     ]
   },
+  "mushrooms": {
+    "pos": "n.",
+    "en_def": "a fungal growth that typically takes the form of a domed cap on a stalk",
+    "cn_def": "蘑菇；蕈類（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a fungal growth that typically takes the form of a domed cap on a stalk",
+        "cn_def": "蘑菇；蕈類（可數）"
+      }
+    ]
+  },
   "mushroom": {
     "pos": "n.",
     "en_def": "a fungal growth that typically takes the form of a domed cap on a stalk",
@@ -500,18 +512,6 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to increase, spread, or develop rapidly and suddenly",
         "cn_def": "迅速增加；如雨後春筍般迅速發展（動詞）"
-      }
-    ]
-  },
-  "mushrooms": {
-    "pos": "n.",
-    "en_def": "a fungal growth that typically takes the form of a domed cap on a stalk",
-    "cn_def": "蘑菇；蕈類（可數）",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a fungal growth that typically takes the form of a domed cap on a stalk",
-        "cn_def": "蘑菇；蕈類（可數）"
       }
     ]
   },

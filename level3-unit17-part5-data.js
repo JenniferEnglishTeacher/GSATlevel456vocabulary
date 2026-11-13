@@ -379,7 +379,7 @@ const LOOKUP = {
       }
     ]
   },
-  "warn": {
+  "warned": {
     "pos": "v.",
     "en_def": "to inform someone in advance of an impending danger, problem, or other unpleasant situation",
     "cn_def": "警告；告誡；提醒（動詞）",
@@ -391,7 +391,7 @@ const LOOKUP = {
       }
     ]
   },
-  "warned": {
+  "warn": {
     "pos": "v.",
     "en_def": "to inform someone in advance of an impending danger, problem, or other unpleasant situation",
     "cn_def": "警告；告誡；提醒（動詞）",

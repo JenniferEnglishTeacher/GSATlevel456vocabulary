@@ -111,7 +111,7 @@ const VOCAB = [
     "cn": "經過數月嚴格的安全測試，該市的新太陽能發電廠終於完全投入運作。"
   },
   {
-    "word": "palace",
+    "word": "Palace",
     "pos": "n.",
     "cn_def": "宮殿；皇宮（可數）",
     "en_def": "the official residence of a sovereign, archbishop, or other exalted person",

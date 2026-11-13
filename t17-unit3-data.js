@@ -72,7 +72,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "liberty",
-    "answer": "liberty",
+    "answer": "Liberty",
     "pos": "n.",
     "definition": "the state of being free within society from oppressive restrictions",
     "chinese": "自由；特權；自主權（不可數/可數）",

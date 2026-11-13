@@ -95,7 +95,7 @@ const VOCAB = [
     "cn": "母親溫柔地用柔軟的面紙擦拭小女兒泛紅臉頰上的眼淚。"
   },
   {
-    "word": "wipe",
+    "word": "wipes",
     "pos": "n.",
     "cn_def": "擦拭；濕紙巾（可數）",
     "en_def": "an act of wiping; a piece of disposable cloth for cleaning",
@@ -543,6 +543,18 @@ const LOOKUP = {
         "en_def": "to clean or dry by rubbing with a cloth or hand; to completely remove",
         "cn_def": "擦拭；抹去；徹底消滅（動詞）"
       },
+      {
+        "pos": "n.",
+        "en_def": "an act of wiping; a piece of disposable cloth for cleaning",
+        "cn_def": "擦拭；濕紙巾（可數）"
+      }
+    ]
+  },
+  "wipes": {
+    "pos": "n.",
+    "en_def": "an act of wiping; a piece of disposable cloth for cleaning",
+    "cn_def": "擦拭；濕紙巾（可數）",
+    "combined": [
       {
         "pos": "n.",
         "en_def": "an act of wiping; a piece of disposable cloth for cleaning",

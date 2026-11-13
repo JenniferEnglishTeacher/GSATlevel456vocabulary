@@ -39,7 +39,7 @@ const VOCAB = [
     "cn": "如果午後突然下起陣雨，背包裡帶著一把雨傘肯定會派上用場。"
   },
   {
-    "word": "hanger",
+    "word": "hangers",
     "pos": "n.",
     "cn_def": "衣架（可數）",
     "en_def": "a curved piece of wood, plastic, or wire with a hook, used for hanging clothes",
@@ -424,6 +424,18 @@ const LOOKUP = {
     ]
   },
   "hanger": {
+    "pos": "n.",
+    "en_def": "a curved piece of wood, plastic, or wire with a hook, used for hanging clothes",
+    "cn_def": "衣架（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a curved piece of wood, plastic, or wire with a hook, used for hanging clothes",
+        "cn_def": "衣架（可數）"
+      }
+    ]
+  },
+  "hangers": {
     "pos": "n.",
     "en_def": "a curved piece of wood, plastic, or wire with a hook, used for hanging clothes",
     "cn_def": "衣架（可數）",

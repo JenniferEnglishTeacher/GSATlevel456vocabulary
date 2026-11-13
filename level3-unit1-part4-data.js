@@ -524,7 +524,7 @@ const LOOKUP = {
       }
     ]
   },
-  "persuade sb. out of": {
+  "persuade him out of": {
     "pos": "v.phr.",
     "en_def": "to talk someone out of doing something unwise or risky",
     "cn_def": "勸某人放棄／打消…念頭",
@@ -536,7 +536,7 @@ const LOOKUP = {
       }
     ]
   },
-  "persuade him out of": {
+  "persuade sb. out of": {
     "pos": "v.phr.",
     "en_def": "to talk someone out of doing something unwise or risky",
     "cn_def": "勸某人放棄／打消…念頭",

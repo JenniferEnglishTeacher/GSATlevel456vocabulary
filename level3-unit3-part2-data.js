@@ -516,7 +516,7 @@ const LOOKUP = {
       }
     ]
   },
-  "erase": {
+  "erased": {
     "pos": "v.",
     "en_def": "to rub out or remove writing; to eliminate from memory or a hard drive",
     "cn_def": "擦掉；抹去；消除（動詞）",
@@ -528,7 +528,7 @@ const LOOKUP = {
       }
     ]
   },
-  "erased": {
+  "erase": {
     "pos": "v.",
     "en_def": "to rub out or remove writing; to eliminate from memory or a hard drive",
     "cn_def": "擦掉；抹去；消除（動詞）",
