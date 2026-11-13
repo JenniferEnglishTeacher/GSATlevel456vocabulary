@@ -74,59 +74,59 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: When is ______? — A: It's in March or April. Children look for eggs on that day.【復活節】",
+    "q": "At ______, children look for colorful eggs in the garden. This holiday is in spring.",
     "options": [
-      "Festival",
-      "Vacation",
+      "Christmas",
       "Halloween",
-      "Easter"
+      "Easter",
+      "vacation"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "復活節是什麼時候？ — 它在三月或四月，小孩們在那天找蛋。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: When is the Moon ______? — A: It's in September or October. We look at the moon and eat moon cakes.【節慶】",
+    "q": "The Moon ______ is in fall. Families get together, eat moon cakes, and look at the full moon.",
     "options": [
-      "Easter",
-      "Halloween",
-      "festival",
-      "vacation"
+      "Festival",
+      "Vacation",
+      "Lantern",
+      "Christmas"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "中秋節是什麼時候？ — 它在九月或十月，我們賞月、吃月餅。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: What do you do on summer ______? — A: I go to the beach and swim with my family.【假期】",
+    "q": "Students in Taiwan have a two-month summer ______. They don't have to go to school in July and August.",
     "options": [
       "festival",
-      "vacation",
+      "lantern",
       "Easter",
-      "Halloween"
+      "vacation"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你暑假做什麼？ — 我和家人去海邊游泳。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: What does your dad do on Sundays? — A: Sundays are ______ for him, so he doesn't work. He stays home.【假日】",
+    "q": "Chinese New Year and the Moon Festival are important ______ in Taiwan. People don't have to work on those days.",
     "options": [
-      "holidays",
-      "Christmas",
       "lanterns",
-      "Easter"
+      "holidays",
+      "countries",
+      "languages"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你爸爸星期天做什麼？ — 星期天是他的假日，所以他不工作，他待在家裡。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: What do people do at the Lantern Festival? — A: They look at ______ and eat sweet dumplings.【燈籠】",
+    "q": "On the fifteenth night of the new year, children carry paper ______ with lights inside and walk around the streets.",
     "options": [
-      "Christmas",
       "holidays",
-      "Easter",
+      "festivals",
+      "vacations",
       "lanterns"
     ],
     "answer": 3,
@@ -134,84 +134,44 @@ const MCQS = [
     "vocabIndex": 4
   },
   {
-    "q": "Q: What does Amy do on Christmas Day? — A: She ______ it with her family. She gets many presents.【慶祝】",
+    "q": "Our family ______ Grandma's birthday with a big dinner every year. We sing and eat cake together.",
     "options": [
-      "boils",
       "celebrates",
-      "works",
-      "practices"
+      "studies",
+      "washes",
+      "borrows"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "艾美在聖誕節做什麼？ — 她和家人一起慶祝，她收到很多禮物。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: What does Grandpa say to you on December 25th? — A: He says, \"Merry ______!\" Then he gives me a present.【聖誕節】",
+    "q": "______ is on December 25. Children get presents, and families put lights on a tree.",
     "options": [
-      "Lanterns",
-      "Holidays",
+      "Easter",
       "Christmas",
+      "Halloween",
       "Vacation"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "爺爺在十二月二十五日對你說什麼？ — 他說：「聖誕快樂！」然後他送我一份禮物。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: It's October 31st. What do the children say at the door? — A: They say, \"Happy ______! Trick or treat!\"【萬聖節】",
+    "q": "On ______, children dress up as ghosts and go from door to door asking for candy. It is on October 31.",
     "options": [
-      "Halloween",
       "Easter",
-      "Vacation",
-      "Festival"
+      "Christmas",
+      "Halloween",
+      "vacation"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "今天是十月三十一日，小孩們在門口說什麼？ — 他們說：「萬聖節快樂！不給糖就搗蛋！」",
     "vocabIndex": 7
   }
 ];
 
 const LOOKUP = {
-  "boils": {
-    "pos": "v.",
-    "en_def": "to heat water until it is very hot; to cook food in very hot water",
-    "cn_def": "煮沸；水煮"
-  },
-  "practices": {
-    "pos": "v.",
-    "en_def": "to do something again and again to get better at it",
-    "cn_def": "練習"
-  },
-  "easter": {
-    "pos": "n.",
-    "en_def": "a spring holiday when children look for colorful eggs",
-    "cn_def": "復活節"
-  },
-  "festival": {
-    "pos": "n.",
-    "en_def": "a special day or time when people celebrate something",
-    "cn_def": "節慶"
-  },
-  "vacation": {
-    "pos": "n.",
-    "en_def": "a time when you do not go to school or work",
-    "cn_def": "假期"
-  },
-  "holidays": {
-    "pos": "n.",
-    "en_def": "a day when people do not have to work or go to school",
-    "cn_def": "假日"
-  },
-  "lanterns": {
-    "pos": "n.",
-    "en_def": "a light inside a paper or glass cover that you can carry",
-    "cn_def": "燈籠"
-  },
-  "celebrates": {
-    "pos": "v.",
-    "en_def": "to do something fun on a special day",
-    "cn_def": "慶祝"
-  },
   "christmas": {
     "pos": "n.",
     "en_def": "a holiday on December 25",
@@ -222,10 +182,75 @@ const LOOKUP = {
     "en_def": "a holiday on October 31 when children dress up and ask for candy",
     "cn_def": "萬聖節"
   },
-  "works": {
+  "easter": {
+    "pos": "n.",
+    "en_def": "a spring holiday when children look for colorful eggs",
+    "cn_def": "復活節"
+  },
+  "vacation": {
+    "pos": "n.",
+    "en_def": "a time when you do not go to school or work",
+    "cn_def": "假期"
+  },
+  "festival": {
+    "pos": "n.",
+    "en_def": "a special day or time when people celebrate something",
+    "cn_def": "節慶"
+  },
+  "lantern": {
+    "pos": "n.",
+    "en_def": "a light inside a paper or glass cover that you can carry",
+    "cn_def": "燈籠"
+  },
+  "lanterns": {
+    "pos": "n.",
+    "en_def": "a light inside a paper or glass cover that you can carry",
+    "cn_def": "燈籠"
+  },
+  "holidays": {
+    "pos": "n.",
+    "en_def": "a day when people do not have to work or go to school",
+    "cn_def": "假日"
+  },
+  "countries": {
+    "pos": "n.",
+    "en_def": "land outside cities, with farms and fields",
+    "cn_def": "鄉村"
+  },
+  "languages": {
+    "pos": "n.",
+    "en_def": "the words people use to speak and write, like English or Chinese",
+    "cn_def": "語言"
+  },
+  "festivals": {
+    "pos": "n.",
+    "en_def": "a special day or time when people celebrate something",
+    "cn_def": "節慶"
+  },
+  "vacations": {
+    "pos": "n.",
+    "en_def": "a time when you do not go to school or work",
+    "cn_def": "假期"
+  },
+  "celebrates": {
     "pos": "v.",
-    "en_def": "to do a job",
-    "cn_def": "工作"
+    "en_def": "to do something fun on a special day",
+    "cn_def": "慶祝"
+  },
+  "studies": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "讀書；學習"
+  },
+  "washes": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "清洗"
+  },
+  "borrows": {
+    "pos": "v.",
+    "en_def": "to take and use something that you will give back later",
+    "cn_def": "借入"
   }
 };
 

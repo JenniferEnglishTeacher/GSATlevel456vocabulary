@@ -88,58 +88,58 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: What ______ do you and your family come from? — A: We come from Taiwan.【國家】",
+    "q": "Japan is a ______ in Asia. Its biggest city is Tokyo, and its people speak Japanese.",
     "options": [
-      "country",
-      "Taiwan",
-      "China",
-      "R.O.C."
+      "world",
+      "Chinese",
+      "English",
+      "country"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "你和你的家人來自哪個國家？ — 我們來自臺灣。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: Where are you from? — A: I'm from ______. I live in Taipei.【臺灣】",
+    "q": "______ is a beautiful island. Taipei is its biggest city, and Mt. Jade is its highest mountain.",
     "options": [
-      "Country",
-      "Taiwan",
       "China",
+      "America",
+      "Taiwan",
       "English"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你來自哪裡？ — 我來自臺灣，我住在臺北。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: Where does Mr. Li come from? — A: He comes from ______. He lives in Beijing now.【中國】",
+    "q": "The Great Wall is in ______. This very big country has more than one billion people.",
     "options": [
+      "Taiwan",
+      "China",
       "America",
-      "Chinese",
-      "Country",
-      "China"
+      "English"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "李先生來自哪裡？ — 他來自中國，他現在住在北京。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: Where is your English teacher from? — A: She's from ______. She's American.【美國】",
+    "q": "New York and Los Angeles are big cities in ______. People there speak English and use dollars.",
     "options": [
-      "English",
-      "U.S.A.",
       "America",
+      "Taiwan",
+      "China",
       "Chinese"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你的英文老師來自哪裡？ — 她來自美國，她是美國人。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: Where do your pen pals live? — A: They live in different countries around the ______.【世界】",
+    "q": "There are about two hundred countries in the ______. I want to travel to all of them one day.",
     "options": [
-      "China",
-      "U.S.A.",
+      "country",
+      "Taiwan",
       "English",
       "world"
     ],
@@ -148,56 +148,61 @@ const MCQS = [
     "vocabIndex": 4
   },
   {
-    "q": "Q: Where does your cousin Ben live? — A: He lives in the ______ He lives in New York.【美國（縮寫）】",
+    "q": "The ______ has fifty states. Its full name is the United States of America.",
     "options": [
+      "R.O.C.",
       "China",
       "U.S.A.",
-      "English",
-      "America"
+      "Taiwan"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你的堂哥班住在哪裡？ — 他住在美國，他住在紐約。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: Does Lisa live in Japan? — A: No, she doesn't. She lives in Taiwan. Its other name is the ______【中華民國】",
+    "q": "The ______ is the official name of Taiwan. The three letters stand for the Republic of China.",
     "options": [
       "R.O.C.",
-      "Taiwan",
-      "English",
-      "America"
+      "U.S.A.",
+      "America",
+      "world"
     ],
     "answer": 0,
     "cn": "莉莎住在日本嗎？ — 不，她不是。她住在臺灣，臺灣的另一個名字是中華民國。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: What language do people in Taiwan speak? — A: They speak ______.【中文】",
+    "q": "Most people in Taiwan speak ______. It is not easy for Americans to learn to write it.",
     "options": [
-      "America",
-      "Country",
+      "English",
       "Chinese",
-      "Taiwan"
+      "America",
+      "China"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "臺灣的人說什麼語言？ — 他們說中文。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: What language does your English teacher speak in class? — A: She speaks ______. She doesn't speak Chinese.【英語】",
+    "q": "People in the U.S.A. and the U.K. speak ______. Students in Taiwan learn it at school.",
     "options": [
-      "English",
-      "World",
-      "R.O.C.",
-      "Country"
+      "Chinese",
+      "Taiwan",
+      "China",
+      "English"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "你的英文老師上課說什麼語言？ — 她說英語，她不說中文。",
     "vocabIndex": 8
   }
 ];
 
 const LOOKUP = {
+  "world": {
+    "pos": "n.",
+    "en_def": "the earth and all the countries and people on it",
+    "cn_def": "世界"
+  },
   "chinese": {
     "pos": "n.",
     "en_def": "the language people speak in Taiwan and China; a school subject",
@@ -213,11 +218,6 @@ const LOOKUP = {
     "en_def": "land outside cities, with farms and fields",
     "cn_def": "鄉村"
   },
-  "taiwan": {
-    "pos": "n.",
-    "en_def": "an island country in East Asia; its biggest city is Taipei",
-    "cn_def": "臺灣"
-  },
   "china": {
     "pos": "n.",
     "en_def": "a very big country in East Asia",
@@ -228,20 +228,20 @@ const LOOKUP = {
     "en_def": "a short name for the United States",
     "cn_def": "美國"
   },
-  "world": {
+  "taiwan": {
     "pos": "n.",
-    "en_def": "the earth and all the countries and people on it",
-    "cn_def": "世界"
-  },
-  "u.s.a.": {
-    "pos": "n.",
-    "en_def": "the short name of the United States of America",
-    "cn_def": "美國（縮寫）"
+    "en_def": "an island country in East Asia; its biggest city is Taipei",
+    "cn_def": "臺灣"
   },
   "r.o.c.": {
     "pos": "n.",
     "en_def": "the short name of the Republic of China (Taiwan)",
     "cn_def": "中華民國"
+  },
+  "u.s.a.": {
+    "pos": "n.",
+    "en_def": "the short name of the United States of America",
+    "cn_def": "美國（縮寫）"
   }
 };
 

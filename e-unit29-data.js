@@ -124,53 +124,53 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: __________ your parents at home now? — A: No, they aren't. They are at work.【是；在】",
+    "question": "Tom and Ben __________ brothers. They look very much alike.",
     "options": [
      {
       "letter": "A",
-      "text": "Have"
+      "text": "do"
      },
      {
       "letter": "B",
-      "text": "Does"
+      "text": "are"
      },
      {
       "letter": "C",
-      "text": "Are"
+      "text": "have"
      },
      {
       "letter": "D",
-      "text": "Rain"
+      "text": "can"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 0
    },
    {
-    "question": "Q: __________ your sister do her homework after dinner? — A: Yes, she does. She does her homework at eight.【做】",
+    "question": "What __________ your father do? He is a doctor.",
     "options": [
      {
       "letter": "A",
-      "text": "Does"
+      "text": "are"
      },
      {
       "letter": "B",
-      "text": "Are"
+      "text": "have"
      },
      {
       "letter": "C",
-      "text": "Have"
+      "text": "does"
      },
      {
       "letter": "D",
-      "text": "Knows"
+      "text": "must"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 1
    },
    {
-    "question": "Q: Do your grandparents __________ a pet? — A: Yes, they do. They have a cat. My uncle has two dogs.【有】",
+    "question": "I __________ two sisters and one brother. There are six people in my family.",
     "options": [
      {
       "letter": "A",
@@ -182,7 +182,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "try"
+      "text": "should"
      },
      {
       "letter": "D",
@@ -193,42 +193,42 @@ window.FLASHCARD_UNITS = {
     "vi": 2
    },
    {
-    "question": "Q: __________ your brother swim? — A: Yes, he can. He can swim very fast.【能夠；會】",
+    "question": "Birds __________ fly, but pigs can't. Fish are good at swimming, but they are not able to walk.",
     "options": [
      {
       "letter": "A",
-      "text": "May"
+      "text": "can"
      },
      {
       "letter": "B",
-      "text": "Can"
+      "text": "does"
      },
      {
       "letter": "C",
-      "text": "Should"
+      "text": "are"
      },
      {
       "letter": "D",
-      "text": "Could"
+      "text": "have"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 3
    },
    {
-    "question": "Q: __________ you help me, please? — A: Sure. What can I do for you?【能；可以（客氣）】",
+    "question": "__________ you open the window, please? It is very hot in here.",
     "options": [
      {
       "letter": "A",
-      "text": "Will"
+      "text": "Must"
      },
      {
       "letter": "B",
-      "text": "May"
+      "text": "Are"
      },
      {
       "letter": "C",
-      "text": "Can"
+      "text": "Have"
      },
      {
       "letter": "D",
@@ -239,92 +239,92 @@ window.FLASHCARD_UNITS = {
     "vi": 4
    },
    {
-    "question": "Q: __________ I use your eraser? — A: Yes, you may. Here you are.【可以；可能】",
+    "question": "__________ I come in? Yes, please sit down.",
     "options": [
      {
       "letter": "A",
-      "text": "May"
+      "text": "Are"
      },
      {
       "letter": "B",
-      "text": "Could"
-     },
-     {
-      "letter": "C",
-      "text": "Must"
-     },
-     {
-      "letter": "D",
-      "text": "Can"
-     }
-    ],
-    "answer": "A",
-    "vi": 5
-   },
-   {
-    "question": "Q: __________ your mom cook dinner tonight? — A: No, she won't. We will eat out tonight.【將會】",
-    "options": [
-     {
-      "letter": "A",
       "text": "May"
      },
      {
-      "letter": "B",
-      "text": "Will"
-     },
-     {
       "letter": "C",
-      "text": "Could"
+      "text": "Does"
      },
      {
       "letter": "D",
-      "text": "Can"
+      "text": "Have"
      }
     ],
     "answer": "B",
-    "vi": 6
+    "vi": 5
    },
    {
-    "question": "Q: __________ we wear our uniforms on Monday? — A: Yes, we must. It's a school rule.【必須】",
+    "question": "It __________ rain tomorrow, so the picnic will be on Sunday.",
     "options": [
      {
       "letter": "A",
-      "text": "Could"
+      "text": "will"
      },
      {
       "letter": "B",
-      "text": "Will"
+      "text": "have"
      },
      {
       "letter": "C",
-      "text": "Must"
+      "text": "are"
      },
      {
       "letter": "D",
-      "text": "Can"
+      "text": "does"
+     }
+    ],
+    "answer": "A",
+    "vi": 6
+   },
+   {
+    "question": "You __________ stop when the traffic light is red. It is the law.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "are"
+     },
+     {
+      "letter": "B",
+      "text": "have"
+     },
+     {
+      "letter": "C",
+      "text": "must"
+     },
+     {
+      "letter": "D",
+      "text": "does"
      }
     ],
     "answer": "C",
     "vi": 7
    },
    {
-    "question": "Q: __________ Tom go to bed early tonight? — A: Yes, he should. He has a test tomorrow.【應該】",
+    "question": "You look tired. You __________ go to bed early tonight.",
     "options": [
      {
       "letter": "A",
-      "text": "Should"
+      "text": "should"
      },
      {
       "letter": "B",
-      "text": "Must"
+      "text": "are"
      },
      {
       "letter": "C",
-      "text": "May"
+      "text": "have"
      },
      {
       "letter": "D",
-      "text": "Can"
+      "text": "does"
      }
     ],
     "answer": "A",
@@ -333,4 +333,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"may":["the fifth month of the year","五月"],"rain":["when water falls from the clouds","下雨"],"are":["am, is, or are; to exist or to be in a place","是；在"],"does":["to act; also used to make questions","做"],"have":["to own something","有"],"can":["to be able to do something","能夠；會"],"could":["a polite word for asking someone to do something","能；可以（客氣）"],"will":["used to talk about the future","將會"],"must":["to have to do something","必須"],"should":["used to say what is right or good to do","應該"],"knows":["to have something in your mind; to have met someone before","知道；認識"],"try":["to see if you can do something","嘗試；試"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"do":["","做"],"are":["am, is, or are; to exist or to be in a place","是；在"],"have":["to own something","有"],"can":["to be able to do something","能夠；會"],"does":["to act; also used to make questions","做"],"must":["to have to do something","必須"],"should":["used to say what is right or good to do","應該"],"could":["a polite word for asking someone to do something","能；可以（客氣）"],"may":["the fifth month of the year","五月"],"will":["used to talk about the future","將會"]});

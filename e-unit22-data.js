@@ -423,53 +423,145 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: What does your mother do? — A: She is a __________. She works in a hospital.【醫生】",
+    "question": "When I was sick, the __________ looked at my throat and gave me some medicine.",
     "options": [
      {
       "letter": "A",
-      "text": "writer"
-     },
-     {
-      "letter": "B",
-      "text": "dentist"
-     },
-     {
-      "letter": "C",
       "text": "doctor"
      },
      {
-      "letter": "D",
-      "text": "engineer"
-     }
-    ],
-    "answer": "C",
-    "vi": 0
-   },
-   {
-    "question": "Q: What do Amy's aunts do? — A: They are __________. They help sick people.【護士】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "nurses"
-     },
-     {
       "letter": "B",
-      "text": "cowboys"
+      "text": "lawyer"
      },
      {
       "letter": "C",
-      "text": "shopkeepers"
+      "text": "farmer"
      },
      {
       "letter": "D",
-      "text": "clerks"
+      "text": "singer"
      }
     ],
     "answer": "A",
+    "vi": 0
+   },
+   {
+    "question": "The __________ in this hospital help the doctors and take care of sick people day and night.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "farmers"
+     },
+     {
+      "letter": "B",
+      "text": "nurses"
+     },
+     {
+      "letter": "C",
+      "text": "soldiers"
+     },
+     {
+      "letter": "D",
+      "text": "singers"
+     }
+    ],
+    "answer": "B",
     "vi": 1
    },
    {
-    "question": "Q: What does Mr. Lin do? — A: He is a __________. He checks people's teeth.【牙醫】",
+    "question": "I have a bad toothache, so I am going to see the __________ this afternoon.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lawyer"
+     },
+     {
+      "letter": "B",
+      "text": "farmer"
+     },
+     {
+      "letter": "C",
+      "text": "soldier"
+     },
+     {
+      "letter": "D",
+      "text": "dentist"
+     }
+    ],
+    "answer": "D",
+    "vi": 2
+   },
+   {
+    "question": "Mrs. Lin doesn't have a job outside. She is a __________, and she takes care of her home and children.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "waitress"
+     },
+     {
+      "letter": "B",
+      "text": "actress"
+     },
+     {
+      "letter": "C",
+      "text": "housewife"
+     },
+     {
+      "letter": "D",
+      "text": "secretary"
+     }
+    ],
+    "answer": "C",
+    "vi": 3
+   },
+   {
+    "question": "My brother got a __________ at a bank. He starts work next Monday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "job"
+     },
+     {
+      "letter": "B",
+      "text": "boss"
+     },
+     {
+      "letter": "C",
+      "text": "cook"
+     },
+     {
+      "letter": "D",
+      "text": "clerk"
+     }
+    ],
+    "answer": "A",
+    "vi": 4
+   },
+   {
+    "question": "Mr. Wang's __________ is doing well. His company sells computers all over the world.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "boss"
+     },
+     {
+      "letter": "B",
+      "text": "cowboy"
+     },
+     {
+      "letter": "C",
+      "text": "police"
+     },
+     {
+      "letter": "D",
+      "text": "business"
+     }
+    ],
+    "answer": "D",
+    "vi": 5
+   },
+   {
+    "question": "Mr. Chen is a rich __________. He has three companies and often flies to other countries for meetings.",
     "options": [
      {
       "letter": "A",
@@ -477,72 +569,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "dentist"
-     },
-     {
-      "letter": "C",
-      "text": "secretary"
-     },
-     {
-      "letter": "D",
-      "text": "engineer"
-     }
-    ],
-    "answer": "B",
-    "vi": 2
-   },
-   {
-    "question": "Q: What does Ben's mom do? — A: She is a __________. She cooks and cleans at home.【家庭主婦】",
-    "options": [
-     {
-      "letter": "A",
       "text": "businessman"
      },
      {
-      "letter": "B",
-      "text": "dentist"
-     },
-     {
       "letter": "C",
-      "text": "officer"
+      "text": "cowboy"
      },
      {
       "letter": "D",
-      "text": "housewife"
+      "text": "soldier"
      }
     ],
-    "answer": "D",
-    "vi": 3
+    "answer": "B",
+    "vi": 6
    },
    {
-    "question": "Q: What do your parents do? — A: My dad is a teacher, and my mom has a new __________ at a bank.【工作】",
+    "question": "My __________ is very nice. He never gets angry at the people who work for him.",
     "options": [
      {
       "letter": "A",
       "text": "job"
-     },
-     {
-      "letter": "B",
-      "text": "dentist"
-     },
-     {
-      "letter": "C",
-      "text": "writer"
-     },
-     {
-      "letter": "D",
-      "text": "police"
-     }
-    ],
-    "answer": "A",
-    "vi": 4
-   },
-   {
-    "question": "Q: What do Tom's parents do? — A: They have a small __________. They sell shoes.【生意】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "boss"
      },
      {
       "letter": "B",
@@ -550,87 +596,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "lawyers"
-     },
-     {
-      "letter": "D",
-      "text": "farmers"
-     }
-    ],
-    "answer": "B",
-    "vi": 5
-   },
-   {
-    "question": "Q: What does Mr. Wang do? — A: He is a __________. He often travels to other countries.【商人】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cook"
-     },
-     {
-      "letter": "B",
-      "text": "job"
-     },
-     {
-      "letter": "C",
-      "text": "doctor"
-     },
-     {
-      "letter": "D",
-      "text": "businessman"
-     }
-    ],
-    "answer": "D",
-    "vi": 6
-   },
-   {
-    "question": "Q: What does Ms. Chen do at the store? — A: She is the __________. She tells everyone what to do.【老闆】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "waiters"
-     },
-     {
-      "letter": "B",
-      "text": "nurses"
-     },
-     {
-      "letter": "C",
       "text": "boss"
      },
      {
       "letter": "D",
-      "text": "clerks"
+      "text": "police"
      }
     ],
     "answer": "C",
     "vi": 7
    },
    {
-    "question": "Q: What does Tom want to be? — A: He wants to be an __________. He wants to be in movies.【男演員】",
+    "question": "Tom Cruise is a famous __________. He has been in more than forty movies.",
     "options": [
      {
       "letter": "A",
-      "text": "writer"
-     },
-     {
-      "letter": "B",
       "text": "actor"
      },
      {
+      "letter": "B",
+      "text": "actress"
+     },
+     {
       "letter": "C",
-      "text": "mailman"
+      "text": "waitress"
      },
      {
       "letter": "D",
-      "text": "dentist"
+      "text": "housewife"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 8
    },
    {
-    "question": "Q: What do you want to be, Amy? — A: I want to be an __________. I love to act on TV.【女演員】",
+    "question": "She is a famous __________. She plays a queen in her new movie.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "actor"
+     },
+     {
+      "letter": "B",
+      "text": "waiter"
+     },
+     {
+      "letter": "C",
+      "text": "businessman"
+     },
+     {
+      "letter": "D",
+      "text": "actress"
+     }
+    ],
+    "answer": "D",
+    "vi": 9
+   },
+   {
+    "question": "The two __________ have beautiful voices. Their new song is number one this week.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "soldiers"
+     },
+     {
+      "letter": "B",
+      "text": "singers"
+     },
+     {
+      "letter": "C",
+      "text": "farmers"
+     },
+     {
+      "letter": "D",
+      "text": "lawyers"
+     }
+    ],
+    "answer": "B",
+    "vi": 10
+   },
+   {
+    "question": "J.K. Rowling is a famous __________. Her books about Harry Potter are read all over the world.",
     "options": [
      {
       "letter": "A",
@@ -638,53 +684,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "clerks"
-     },
-     {
-      "letter": "C",
-      "text": "cowboys"
-     },
-     {
-      "letter": "D",
-      "text": "waiters"
-     }
-    ],
-    "answer": "A",
-    "vi": 9
-   },
-   {
-    "question": "Q: What do your sisters want to be? — A: They want to be __________. They sing very well.【歌手】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "drivers"
-     },
-     {
-      "letter": "B",
-      "text": "cowboys"
-     },
-     {
-      "letter": "C",
-      "text": "shopkeepers"
-     },
-     {
-      "letter": "D",
-      "text": "singers"
-     }
-    ],
-    "answer": "D",
-    "vi": 10
-   },
-   {
-    "question": "Q: What does Kevin want to be? — A: He wants to be a __________. He likes to write stories.【作家】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "secretary"
-     },
-     {
-      "letter": "B",
-      "text": "actor"
+      "text": "soldier"
      },
      {
       "letter": "C",
@@ -692,14 +692,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "officer"
+      "text": "farmer"
      }
     ],
     "answer": "C",
     "vi": 11
    },
    {
-    "question": "Q: What do you want to be in the future? — A: I want to be a __________. I want to report the news on TV.【記者】",
+    "question": "The TV __________ asked the singer many questions for the evening news.",
     "options": [
      {
       "letter": "A",
@@ -707,11 +707,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "housewife"
+      "text": "farmer"
      },
      {
       "letter": "C",
-      "text": "businessman"
+      "text": "soldier"
      },
      {
       "letter": "D",
@@ -722,15 +722,222 @@ window.FLASHCARD_UNITS = {
     "vi": 12
    },
    {
-    "question": "Q: What does your brother want to be? — A: He wants to be an __________. He likes computers and machines.【工程師】",
+    "question": "My father is an __________. He plans and builds bridges and roads.",
     "options": [
      {
       "letter": "A",
-      "text": "job"
+      "text": "actor"
      },
      {
       "letter": "B",
+      "text": "actress"
+     },
+     {
+      "letter": "C",
+      "text": "officer"
+     },
+     {
+      "letter": "D",
       "text": "engineer"
+     }
+    ],
+    "answer": "D",
+    "vi": 13
+   },
+   {
+    "question": "Good __________ know the law very well. They help people who are in trouble with it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "farmers"
+     },
+     {
+      "letter": "B",
+      "text": "lawyers"
+     },
+     {
+      "letter": "C",
+      "text": "singers"
+     },
+     {
+      "letter": "D",
+      "text": "waiters"
+     }
+    ],
+    "answer": "B",
+    "vi": 14
+   },
+   {
+    "question": "My brother is a __________ in the army. He wears a green uniform and carries a gun.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "farmer"
+     },
+     {
+      "letter": "B",
+      "text": "waiter"
+     },
+     {
+      "letter": "C",
+      "text": "soldier"
+     },
+     {
+      "letter": "D",
+      "text": "writer"
+     }
+    ],
+    "answer": "C",
+    "vi": 15
+   },
+   {
+    "question": "In old American movies, __________ ride horses and take care of cows. They wear big hats.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cowboys"
+     },
+     {
+      "letter": "B",
+      "text": "dentists"
+     },
+     {
+      "letter": "C",
+      "text": "lawyers"
+     },
+     {
+      "letter": "D",
+      "text": "nurses"
+     }
+    ],
+    "answer": "A",
+    "vi": 16
+   },
+   {
+    "question": "My mother __________ in a hospital. She is a nurse there.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "plays"
+     },
+     {
+      "letter": "B",
+      "text": "works"
+     },
+     {
+      "letter": "C",
+      "text": "studies"
+     },
+     {
+      "letter": "D",
+      "text": "celebrates"
+     }
+    ],
+    "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "__________ grow rice, fruit, and vegetables. They get up early and work in the fields all day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Soldiers"
+     },
+     {
+      "letter": "B",
+      "text": "Lawyers"
+     },
+     {
+      "letter": "C",
+      "text": "Dentists"
+     },
+     {
+      "letter": "D",
+      "text": "farmers"
+     }
+    ],
+    "answer": "D",
+    "vi": 18
+   },
+   {
+    "question": "The __________ goes out to sea in his boat every morning and comes back with a lot of fish.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "farmer"
+     },
+     {
+      "letter": "B",
+      "text": "soldier"
+     },
+     {
+      "letter": "C",
+      "text": "fisherman"
+     },
+     {
+      "letter": "D",
+      "text": "lawyer"
+     }
+    ],
+    "answer": "C",
+    "vi": 19
+   },
+   {
+    "question": "The __________ at this restaurant makes the best beef noodles in town. He has worked in the kitchen for twenty years.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cook"
+     },
+     {
+      "letter": "B",
+      "text": "waiter"
+     },
+     {
+      "letter": "C",
+      "text": "driver"
+     },
+     {
+      "letter": "D",
+      "text": "clerk"
+     }
+    ],
+    "answer": "A",
+    "vi": 20
+   },
+   {
+    "question": "The __________ in this restaurant are all men. They bring the food to the tables quickly.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "actresses"
+     },
+     {
+      "letter": "B",
+      "text": "waiters"
+     },
+     {
+      "letter": "C",
+      "text": "farmers"
+     },
+     {
+      "letter": "D",
+      "text": "soldiers"
+     }
+    ],
+    "answer": "B",
+    "vi": 21
+   },
+   {
+    "question": "The __________ brought us the menu. She was a friendly young woman with a big smile.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "waiter"
+     },
+     {
+      "letter": "B",
+      "text": "actor"
      },
      {
       "letter": "C",
@@ -738,229 +945,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "doctor"
-     }
-    ],
-    "answer": "B",
-    "vi": 13
-   },
-   {
-    "question": "Q: What do Jenny and Lisa want to be? — A: They want to be __________ like their father.【律師】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "waiters"
-     },
-     {
-      "letter": "B",
-      "text": "workers"
-     },
-     {
-      "letter": "C",
-      "text": "farmers"
-     },
-     {
-      "letter": "D",
-      "text": "lawyers"
-     }
-    ],
-    "answer": "D",
-    "vi": 14
-   },
-   {
-    "question": "Q: What does Peter want to be? — A: He wants to be a __________. He wants to keep our country safe.【軍人】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "job"
-     },
-     {
-      "letter": "B",
-      "text": "cook"
-     },
-     {
-      "letter": "C",
-      "text": "soldier"
-     },
-     {
-      "letter": "D",
-      "text": "housewife"
-     }
-    ],
-    "answer": "C",
-    "vi": 15
-   },
-   {
-    "question": "Q: What do the boys want to be at the Halloween party? — A: They want to be __________. They wear big hats.【牛仔】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "nurses"
-     },
-     {
-      "letter": "B",
-      "text": "drivers"
-     },
-     {
-      "letter": "C",
-      "text": "lawyers"
-     },
-     {
-      "letter": "D",
-      "text": "cowboys"
-     }
-    ],
-    "answer": "D",
-    "vi": 16
-   },
-   {
-    "question": "Q: Where does your father work? — A: He __________ at a bank.【工作】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "knows"
-     },
-     {
-      "letter": "B",
-      "text": "grows"
-     },
-     {
-      "letter": "C",
-      "text": "works"
-     },
-     {
-      "letter": "D",
-      "text": "washes"
-     }
-    ],
-    "answer": "C",
-    "vi": 17
-   },
-   {
-    "question": "Q: Where do __________ work? — A: They work on farms. They grow rice and vegetables.【農夫】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "farmers"
-     },
-     {
-      "letter": "B",
-      "text": "workers"
-     },
-     {
-      "letter": "C",
-      "text": "nurses"
-     },
-     {
-      "letter": "D",
-      "text": "singers"
-     }
-    ],
-    "answer": "A",
-    "vi": 18
-   },
-   {
-    "question": "Q: Where does a __________ work? — A: He works on a boat at sea.【漁夫】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "soldier"
-     },
-     {
-      "letter": "B",
-      "text": "fisherman"
-     },
-     {
-      "letter": "C",
-      "text": "salesman"
-     },
-     {
-      "letter": "D",
-      "text": "reporter"
-     }
-    ],
-    "answer": "B",
-    "vi": 19
-   },
-   {
-    "question": "Q: Where does the __________ work? — A: She works in the kitchen of a restaurant.【廚師】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "job"
-     },
-     {
-      "letter": "B",
-      "text": "housewife"
-     },
-     {
-      "letter": "C",
-      "text": "doctor"
-     },
-     {
-      "letter": "D",
-      "text": "cook"
-     }
-    ],
-    "answer": "D",
-    "vi": 20
-   },
-   {
-    "question": "Q: Where do __________ work? — A: They work in restaurants. They bring food to people.【男服務生】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "waiters"
-     },
-     {
-      "letter": "B",
-      "text": "workers"
-     },
-     {
-      "letter": "C",
-      "text": "boss"
-     },
-     {
-      "letter": "D",
-      "text": "farmers"
-     }
-    ],
-    "answer": "A",
-    "vi": 21
-   },
-   {
-    "question": "Q: Where does Mary's sister work? — A: She is a __________ at a coffee shop.【女服務生】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "shopkeepers"
-     },
-     {
-      "letter": "B",
       "text": "waitress"
-     },
-     {
-      "letter": "C",
-      "text": "boss"
-     },
-     {
-      "letter": "D",
-      "text": "lawyers"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 22
    },
    {
-    "question": "Q: Where do Ken and his friend work? — A: They are __________ at a supermarket.【店員】",
+    "question": "The __________ at the convenience store are friendly. They always say \"Welcome!\" when you walk in.",
     "options": [
      {
       "letter": "A",
-      "text": "workers"
+      "text": "farmers"
      },
      {
       "letter": "B",
-      "text": "boss"
+      "text": "soldiers"
      },
      {
       "letter": "C",
@@ -968,175 +968,106 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "shopkeepers"
+      "text": "dentists"
      }
     ],
     "answer": "C",
     "vi": 23
    },
    {
-    "question": "Q: Where does Ms. Lee work? — A: She works in an office. She is a __________.【秘書】",
+    "question": "Mr. Lin's __________ answers the phone and writes letters for him. She also plans his meetings.",
     "options": [
      {
       "letter": "A",
-      "text": "officer"
+      "text": "secretary"
      },
      {
       "letter": "B",
-      "text": "doctor"
+      "text": "soldier"
      },
      {
       "letter": "C",
-      "text": "job"
+      "text": "farmer"
      },
      {
       "letter": "D",
-      "text": "secretary"
+      "text": "fisherman"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 24
    },
    {
-    "question": "Q: What does a __________ do? — A: He brings letters to every home.【郵差】",
+    "question": "The __________ brings letters and packages to our house every morning.",
     "options": [
      {
       "letter": "A",
-      "text": "salesman"
+      "text": "fisherman"
      },
      {
       "letter": "B",
-      "text": "job"
-     },
-     {
-      "letter": "C",
       "text": "mailman"
      },
      {
-      "letter": "D",
-      "text": "soldier"
-     }
-    ],
-    "answer": "C",
-    "vi": 25
-   },
-   {
-    "question": "Q: What do the __________ do? — A: They help people and keep our city safe.【警察】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "job"
-     },
-     {
-      "letter": "B",
-      "text": "police"
-     },
-     {
       "letter": "C",
-      "text": "doctor"
-     },
-     {
-      "letter": "D",
-      "text": "engineer"
-     }
-    ],
-    "answer": "B",
-    "vi": 26
-   },
-   {
-    "question": "Q: What does a police __________ do? — A: He helps people and catches bad men.【警官；官員】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "officer"
-     },
-     {
-      "letter": "B",
-      "text": "police"
-     },
-     {
-      "letter": "C",
-      "text": "reporter"
-     },
-     {
-      "letter": "D",
-      "text": "cook"
-     }
-    ],
-    "answer": "A",
-    "vi": 27
-   },
-   {
-    "question": "Q: What do bus __________ do? — A: They drive buses and take people to many places.【駕駛人；司機】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "farmers"
-     },
-     {
-      "letter": "B",
-      "text": "lawyers"
-     },
-     {
-      "letter": "C",
-      "text": "waiters"
-     },
-     {
-      "letter": "D",
-      "text": "drivers"
-     }
-    ],
-    "answer": "D",
-    "vi": 28
-   },
-   {
-    "question": "Q: What does a __________ do? — A: He sells things to people.【推銷員】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "writer"
-     },
-     {
-      "letter": "B",
       "text": "salesman"
      },
      {
+      "letter": "D",
+      "text": "businessman"
+     }
+    ],
+    "answer": "B",
+    "vi": 25
+   },
+   {
+    "question": "Call the __________! Someone broke into our house and took our TV.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "actors"
+     },
+     {
+      "letter": "B",
+      "text": "singers"
+     },
+     {
+      "letter": "C",
+      "text": "writers"
+     },
+     {
+      "letter": "D",
+      "text": "police"
+     }
+    ],
+    "answer": "D",
+    "vi": 26
+   },
+   {
+    "question": "A police __________ stopped our car and asked my father some questions.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "actor"
+     },
+     {
+      "letter": "B",
+      "text": "cook"
+     },
+     {
       "letter": "C",
       "text": "officer"
      },
      {
       "letter": "D",
-      "text": "secretary"
+      "text": "writer"
      }
     ],
-    "answer": "B",
-    "vi": 29
+    "answer": "C",
+    "vi": 27
    },
    {
-    "question": "Q: What do __________ do? — A: They open their stores and sell things.【店主】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "shopkeepers"
-     },
-     {
-      "letter": "B",
-      "text": "cowboys"
-     },
-     {
-      "letter": "C",
-      "text": "workers"
-     },
-     {
-      "letter": "D",
-      "text": "actress"
-     }
-    ],
-    "answer": "A",
-    "vi": 30
-   },
-   {
-    "question": "Q: What do the __________ do at the factory? — A: They make toys.【工人】",
+    "question": "Bus __________ have to be careful on the road. They carry many people every day.",
     "options": [
      {
       "letter": "A",
@@ -1144,21 +1075,90 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "waiters"
+      "text": "drivers"
      },
      {
       "letter": "C",
-      "text": "workers"
+      "text": "singers"
      },
      {
       "letter": "D",
-      "text": "business"
+      "text": "writers"
+     }
+    ],
+    "answer": "B",
+    "vi": 28
+   },
+   {
+    "question": "The car __________ told us many good things about the new car. He really wanted us to buy it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fisherman"
+     },
+     {
+      "letter": "B",
+      "text": "mailman"
+     },
+     {
+      "letter": "C",
+      "text": "soldier"
+     },
+     {
+      "letter": "D",
+      "text": "salesman"
+     }
+    ],
+    "answer": "D",
+    "vi": 29
+   },
+   {
+    "question": "The __________ on this street open their stores at nine and close them at ten at night.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "farmers"
+     },
+     {
+      "letter": "B",
+      "text": "soldiers"
+     },
+     {
+      "letter": "C",
+      "text": "shopkeepers"
+     },
+     {
+      "letter": "D",
+      "text": "reporters"
      }
     ],
     "answer": "C",
+    "vi": 30
+   },
+   {
+    "question": "The __________ in this factory make two hundred cars a day. They start at eight in the morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "workers"
+     },
+     {
+      "letter": "B",
+      "text": "singers"
+     },
+     {
+      "letter": "C",
+      "text": "lawyers"
+     },
+     {
+      "letter": "D",
+      "text": "dentists"
+     }
+    ],
+    "answer": "A",
     "vi": 31
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"doctor":["a person whose job is to help sick people get well","醫生"],"grows":["to get bigger or older","成長；長大"],"cook":["to make food ready to eat by heating it","煮飯；烹調"],"washes":["to clean something with water and soap","清洗"],"nurses":["a person who takes care of sick people in a hospital","護士"],"dentist":["a doctor who takes care of people's teeth","牙醫"],"housewife":["a woman who stays home and takes care of her family and house","家庭主婦"],"job":["the work that you do to get money","工作"],"business":["buying and selling things to make money","生意"],"businessman":["a man who works in a company and buys and sells things","商人"],"boss":["the person who tells workers what to do","老闆"],"actor":["a man who plays a part in a movie or a play","男演員"],"actress":["a woman who plays a part in a movie or a play","女演員"],"singers":["a person who sings songs","歌手"],"writer":["a person who writes books or stories","作家"],"reporter":["a person who finds and tells the news","記者"],"engineer":["a person who plans and builds machines, roads, or bridges","工程師"],"lawyers":["a person who knows the law and helps people with it","律師"],"soldier":["a person who is in an army","軍人"],"cowboys":["a man who rides a horse and takes care of cows","牛仔"],"works":["to do a job","工作"],"farmers":["a person who grows food or keeps animals on a farm","農夫"],"fisherman":["a person who catches fish as a job","漁夫"],"waiters":["a man who brings food to people in a restaurant","男服務生"],"waitress":["a woman who brings food to people in a restaurant","女服務生"],"clerks":["a person who works in a store or an office","店員"],"secretary":["a person who answers the phone and writes letters for a boss","秘書"],"mailman":["a person who brings letters to people's homes","郵差"],"police":["the people whose job is to catch bad people and keep everyone safe","警察"],"officer":["a person with an important job in the police or the army","警官；官員"],"drivers":["a person who drives a car, bus, or taxi","駕駛人；司機"],"salesman":["a man whose job is to sell things","推銷員"],"shopkeepers":["a person who owns a small store","店主"],"workers":["a person who works, often in a factory","工人"],"knows":["to have something in your mind; to have met someone before","知道；認識"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"doctor":["a person whose job is to help sick people get well","醫生"],"lawyer":["a person who knows the law and helps people with it","律師"],"farmer":["a person who grows food or keeps animals on a farm","農夫"],"singer":["a person who sings songs","歌手"],"farmers":["a person who grows food or keeps animals on a farm","農夫"],"nurses":["a person who takes care of sick people in a hospital","護士"],"soldiers":["a person who is in an army","軍人"],"singers":["a person who sings songs","歌手"],"soldier":["a person who is in an army","軍人"],"dentist":["a doctor who takes care of people's teeth","牙醫"],"waitress":["a woman who brings food to people in a restaurant","女服務生"],"actress":["a woman who plays a part in a movie or a play","女演員"],"housewife":["a woman who stays home and takes care of her family and house","家庭主婦"],"secretary":["a person who answers the phone and writes letters for a boss","秘書"],"job":["the work that you do to get money","工作"],"boss":["the person who tells workers what to do","老闆"],"cook":["to make food ready to eat by heating it","煮飯；烹調"],"clerk":["a person who works in a store or an office","店員"],"cowboy":["a man who rides a horse and takes care of cows","牛仔"],"police":["the people whose job is to catch bad people and keep everyone safe","警察"],"business":["buying and selling things to make money","生意"],"fisherman":["a person who catches fish as a job","漁夫"],"businessman":["a man who works in a company and buys and sells things","商人"],"actor":["a man who plays a part in a movie or a play","男演員"],"waiter":["a man who brings food to people in a restaurant","男服務生"],"lawyers":["a person who knows the law and helps people with it","律師"],"writer":["a person who writes books or stories","作家"],"reporter":["a person who finds and tells the news","記者"],"officer":["a person with an important job in the police or the army","警官；官員"],"engineer":["a person who plans and builds machines, roads, or bridges","工程師"],"waiters":["a man who brings food to people in a restaurant","男服務生"],"cowboys":["a man who rides a horse and takes care of cows","牛仔"],"dentists":["a doctor who takes care of people's teeth","牙醫"],"plays":["","玩；打（球）"],"works":["to do a job","工作"],"studies":["","讀書；學習"],"celebrates":["to do something fun on a special day","慶祝"],"driver":["a person who drives a car, bus, or taxi","駕駛人；司機"],"actresses":["","女演員"],"clerks":["a person who works in a store or an office","店員"],"mailman":["a person who brings letters to people's homes","郵差"],"salesman":["a man whose job is to sell things","推銷員"],"actors":["a man who plays a part in a movie or a play","男演員"],"writers":["a person who writes books or stories","作家"],"drivers":["a person who drives a car, bus, or taxi","駕駛人；司機"],"shopkeepers":["a person who owns a small store","店主"],"reporters":["a person who finds and tells the news","記者"],"workers":["a person who works, often in a factory","工人"]});

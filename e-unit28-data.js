@@ -137,53 +137,76 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: __________ is that tall girl? — A: She is my cousin, Amy.【誰】",
+    "question": "__________ is that man over there? He is my uncle.",
     "options": [
      {
       "letter": "A",
-      "text": "What"
-     },
-     {
-      "letter": "B",
-      "text": "Yourself"
-     },
-     {
-      "letter": "C",
       "text": "Who"
      },
      {
+      "letter": "B",
+      "text": "Where"
+     },
+     {
+      "letter": "C",
+      "text": "When"
+     },
+     {
       "letter": "D",
-      "text": "Both"
+      "text": "Why"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 0
    },
    {
-    "question": "Q: __________ is your grandma today? — A: She is much better, thank you.【如何；怎麼樣】",
+    "question": "__________ do you go to school? I go by bus.",
     "options": [
      {
       "letter": "A",
-      "text": "When"
+      "text": "Who"
      },
      {
       "letter": "B",
-      "text": "Why"
+      "text": "How"
      },
      {
       "letter": "C",
-      "text": "Where"
+      "text": "What"
      },
      {
       "letter": "D",
-      "text": "How"
+      "text": "Why"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 1
    },
    {
-    "question": "Q: __________ do you usually do after school? — A: I usually play basketball with my friends.【什麼】",
+    "question": "__________ is in the box? It is a birthday present for you.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Where"
+     },
+     {
+      "letter": "B",
+      "text": "When"
+     },
+     {
+      "letter": "C",
+      "text": "What"
+     },
+     {
+      "letter": "D",
+      "text": "Why"
+     }
+    ],
+    "answer": "C",
+    "vi": 2
+   },
+   {
+    "question": "__________ do you live? I live in Taipei, near the zoo.",
     "options": [
      {
       "letter": "A",
@@ -195,72 +218,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "Some"
-     },
-     {
-      "letter": "D",
-      "text": "Everyone"
-     }
-    ],
-    "answer": "B",
-    "vi": 2
-   },
-   {
-    "question": "Q: __________ does your uncle live? — A: He lives in Kaohsiung. He works at a hospital there.【哪裡；何處】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Where"
-     },
-     {
-      "letter": "B",
-      "text": "How"
-     },
-     {
-      "letter": "C",
       "text": "When"
      },
      {
       "letter": "D",
-      "text": "Why"
-     }
-    ],
-    "answer": "A",
-    "vi": 3
-   },
-   {
-    "question": "Q: __________ do you get up on Sundays? — A: I get up at nine. I don't go to school on Sundays.【什麼時候；何時】",
-    "options": [
-     {
-      "letter": "A",
       "text": "Where"
-     },
-     {
-      "letter": "B",
-      "text": "Why"
-     },
-     {
-      "letter": "C",
-      "text": "How"
-     },
-     {
-      "letter": "D",
-      "text": "When"
      }
     ],
     "answer": "D",
-    "vi": 4
+    "vi": 3
    },
    {
-    "question": "Q: __________ does Tom look sad? — A: Because he can't find his dog.【為什麼】",
+    "question": "__________ is your birthday? It is on May 5.",
     "options": [
      {
       "letter": "A",
-      "text": "How"
+      "text": "Where"
      },
      {
       "letter": "B",
-      "text": "Why"
+      "text": "Who"
      },
      {
       "letter": "C",
@@ -268,83 +245,106 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
+      "text": "Why"
+     }
+    ],
+    "answer": "C",
+    "vi": 4
+   },
+   {
+    "question": "__________ are you late? Because I missed the bus.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Where"
+     },
+     {
+      "letter": "B",
+      "text": "Who"
+     },
+     {
+      "letter": "C",
+      "text": "What"
+     },
+     {
+      "letter": "D",
+      "text": "Why"
+     }
+    ],
+    "answer": "D",
+    "vi": 5
+   },
+   {
+    "question": "__________ bag is this? It is Amy's. Her name is on it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Whose"
+     },
+     {
+      "letter": "B",
+      "text": "Who"
+     },
+     {
+      "letter": "C",
+      "text": "Where"
+     },
+     {
+      "letter": "D",
+      "text": "Why"
+     }
+    ],
+    "answer": "A",
+    "vi": 6
+   },
+   {
+    "question": "__________ season do you like better, summer or winter? I like summer.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Whose"
+     },
+     {
+      "letter": "B",
+      "text": "Which"
+     },
+     {
+      "letter": "C",
+      "text": "Who"
+     },
+     {
+      "letter": "D",
       "text": "Where"
      }
     ],
     "answer": "B",
-    "vi": 5
-   },
-   {
-    "question": "Q: __________ notebook is this? Is it yours? — A: No, it isn't. It's Ben's. His name is on it.【誰的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Which"
-     },
-     {
-      "letter": "B",
-      "text": "Her"
-     },
-     {
-      "letter": "C",
-      "text": "Whose"
-     },
-     {
-      "letter": "D",
-      "text": "Those"
-     }
-    ],
-    "answer": "C",
-    "vi": 6
-   },
-   {
-    "question": "Q: __________ bike do you like, the red one or the blue one? — A: I like the blue one. It's really cool.【哪一個】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Which"
-     },
-     {
-      "letter": "B",
-      "text": "Whose"
-     },
-     {
-      "letter": "C",
-      "text": "My"
-     },
-     {
-      "letter": "D",
-      "text": "Her"
-     }
-    ],
-    "answer": "A",
     "vi": 7
    },
    {
-    "question": "Q: Does Ben like coffee? — A: I don't know __________ he likes it. Let's ask him.【是否】",
+    "question": "I don't know __________ it will rain tomorrow or not. Let's check the weather report.",
     "options": [
      {
       "letter": "A",
-      "text": "while"
-     },
-     {
-      "letter": "B",
       "text": "whether"
      },
      {
+      "letter": "B",
+      "text": "while"
+     },
+     {
       "letter": "C",
-      "text": "because"
+      "text": "whose"
      },
      {
       "letter": "D",
-      "text": "though"
+      "text": "which"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 8
    },
    {
-    "question": "Q: What does your mom do in the evening? — A: She watches TV __________ I do my homework.【當…的時候】",
+    "question": "Mom cooked dinner __________ Dad was washing the car. They were both busy at the same time.",
     "options": [
      {
       "letter": "A",
@@ -352,21 +352,21 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "though"
-     },
-     {
-      "letter": "C",
       "text": "while"
      },
      {
+      "letter": "C",
+      "text": "whose"
+     },
+     {
       "letter": "D",
-      "text": "than"
+      "text": "which"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 9
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"some":["a number or amount of something, not all","一些"],"both":["the two; one and also the other","兩者都"],"those":["the ones that are there, not near me","那些"],"my":["belonging to me","我的"],"her":["belonging to her","她的"],"yourself":["the person I am talking to (\"yourself\" = you and no one else)","你（們）"],"everyone":["all the people","每一個人"],"who":["which person","誰"],"how":["in what way; in what condition","如何；怎麼樣"],"what":["which thing","什麼"],"where":["in or to which place","哪裡；何處"],"when":["at what time","什麼時候；何時"],"why":["for what reason","為什麼"],"whose":["belonging to which person","誰的"],"which":["what one of two or more","哪一個"],"whether":["if (something is true) or not","是否"],"while":["during the time that","當…的時候"],"than":["used when you compare two people or things","比"],"because":["for the reason that","因為"],"though":["used to join two ideas when the second is a surprise","雖然"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"who":["which person","誰"],"where":["in or to which place","哪裡；何處"],"when":["at what time","什麼時候；何時"],"why":["for what reason","為什麼"],"how":["in what way; in what condition","如何；怎麼樣"],"what":["which thing","什麼"],"whose":["belonging to which person","誰的"],"which":["what one of two or more","哪一個"],"whether":["if (something is true) or not","是否"],"while":["during the time that","當…的時候"]});

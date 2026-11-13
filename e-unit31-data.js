@@ -150,34 +150,34 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: Does your brother want tea __________ coffee? — A: He wants coffee. He doesn't like tea.【或；還是】",
+    "question": "Would you like tea __________ coffee? You can only choose one.",
     "options": [
      {
       "letter": "A",
-      "text": "or"
+      "text": "but"
      },
      {
       "letter": "B",
-      "text": "and"
+      "text": "because"
      },
      {
       "letter": "C",
-      "text": "since"
+      "text": "if"
      },
      {
       "letter": "D",
-      "text": "that"
+      "text": "or"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 0
    },
    {
-    "question": "Q: What do you have in your bag? — A: I have a pencil case __________ two books.【和；而且】",
+    "question": "I have a brother __________ a sister. There are three children in my family.",
     "options": [
      {
       "letter": "A",
-      "text": "than"
+      "text": "but"
      },
      {
       "letter": "B",
@@ -185,26 +185,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "though"
+      "text": "if"
      },
      {
       "letter": "D",
-      "text": "since"
+      "text": "because"
      }
     ],
     "answer": "B",
     "vi": 1
    },
    {
-    "question": "Q: Does Amy like math? — A: Yes, she does, __________ she doesn't like science.【但是】",
+    "question": "I like dogs, __________ my sister doesn't. She is afraid of them.",
     "options": [
      {
       "letter": "A",
-      "text": "since"
+      "text": "or"
      },
      {
       "letter": "B",
-      "text": "or"
+      "text": "because"
      },
      {
       "letter": "C",
@@ -212,87 +212,64 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "though"
+      "text": "if"
      }
     ],
     "answer": "C",
     "vi": 2
    },
    {
-    "question": "Q: Do your parents like the new house? — A: Yes, they do. __________, it is far from the MRT station.【然而】",
+    "question": "It was raining hard. __________, we still went to school on time.",
     "options": [
      {
       "letter": "A",
-      "text": "Together"
-     },
-     {
-      "letter": "B",
-      "text": "Seldom"
-     },
-     {
-      "letter": "C",
-      "text": "Least"
-     },
-     {
-      "letter": "D",
       "text": "However"
-     }
-    ],
-    "answer": "D",
-    "vi": 3
-   },
-   {
-    "question": "Q: Why does Tom stay at home today? — A: He stays at home __________ he is sick.【因為】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "and"
      },
      {
       "letter": "B",
-      "text": "though"
-     },
-     {
-      "letter": "C",
-      "text": "because"
-     },
-     {
-      "letter": "D",
-      "text": "if"
-     }
-    ],
-    "answer": "C",
-    "vi": 4
-   },
-   {
-    "question": "Q: Why do you and your sister take a taxi today? — A: __________ it is raining hard, we don't want to walk.【因為；自從】",
-    "options": [
-     {
-      "letter": "A",
       "text": "Because"
      },
      {
-      "letter": "B",
-      "text": "Since"
-     },
-     {
       "letter": "C",
-      "text": "Than"
+      "text": "If"
      },
      {
       "letter": "D",
-      "text": "And"
+      "text": "Or"
      }
     ],
-    "answer": "B",
-    "vi": 5
+    "answer": "A",
+    "vi": 3
    },
    {
-    "question": "Q: Does your grandpa walk to the park every day? — A: Yes, he does. __________ he is eighty, he walks there every morning.【雖然】",
+    "question": "I was late for school __________ I missed the bus.",
     "options": [
      {
       "letter": "A",
-      "text": "Though"
+      "text": "but"
+     },
+     {
+      "letter": "B",
+      "text": "or"
+     },
+     {
+      "letter": "C",
+      "text": "than"
+     },
+     {
+      "letter": "D",
+      "text": "because"
+     }
+    ],
+    "answer": "D",
+    "vi": 4
+   },
+   {
+    "question": "__________ it is raining, let's stay home and watch a movie.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Since"
      },
      {
       "letter": "B",
@@ -300,41 +277,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "Than"
+      "text": "But"
      },
      {
       "letter": "D",
-      "text": "That"
+      "text": "Than"
      }
     ],
     "answer": "A",
-    "vi": 6
+    "vi": 5
    },
    {
-    "question": "Q: What do you usually do on rainy Sundays? — A: __________ it rains on Sunday, I stay at home and watch TV.【如果】",
+    "question": "__________ he is only six, he can play the piano very well.",
     "options": [
      {
       "letter": "A",
-      "text": "Since"
-     },
-     {
-      "letter": "B",
-      "text": "That"
-     },
-     {
-      "letter": "C",
       "text": "Because"
      },
      {
-      "letter": "D",
+      "letter": "B",
       "text": "If"
+     },
+     {
+      "letter": "C",
+      "text": "Though"
+     },
+     {
+      "letter": "D",
+      "text": "Or"
      }
     ],
-    "answer": "D",
+    "answer": "C",
+    "vi": 6
+   },
+   {
+    "question": "__________ it rains tomorrow, we will not go on a picnic. We will stay home.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Though"
+     },
+     {
+      "letter": "B",
+      "text": "If"
+     },
+     {
+      "letter": "C",
+      "text": "But"
+     },
+     {
+      "letter": "D",
+      "text": "Or"
+     }
+    ],
+    "answer": "B",
     "vi": 7
    },
    {
-    "question": "Q: What does your teacher say about the test? — A: She says __________ it is easy. Don't worry.【引導子句（可省略）】",
+    "question": "I think __________ English is fun. What do you think?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "than"
+     },
+     {
+      "letter": "B",
+      "text": "or"
+     },
+     {
+      "letter": "C",
+      "text": "but"
+     },
+     {
+      "letter": "D",
+      "text": "that"
+     }
+    ],
+    "answer": "D",
+    "vi": 8
+   },
+   {
+    "question": "Ben runs faster __________ Tom does. He always wins the race.",
     "options": [
      {
       "letter": "A",
@@ -342,67 +365,44 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "but"
-     },
-     {
-      "letter": "C",
       "text": "than"
      },
      {
-      "letter": "D",
-      "text": "because"
-     }
-    ],
-    "answer": "A",
-    "vi": 8
-   },
-   {
-    "question": "Q: Who runs faster, Tom or Ben? — A: Tom runs faster __________ Ben does.【比】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "if"
-     },
-     {
-      "letter": "B",
-      "text": "or"
-     },
-     {
       "letter": "C",
-      "text": "than"
-     },
-     {
-      "letter": "D",
-      "text": "though"
-     }
-    ],
-    "answer": "C",
-    "vi": 9
-   },
-   {
-    "question": "Q: Do your two dogs eat a lot? — A: Yes, they do. The small dog eats as much __________ the big one.【和…一樣；如同】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "or"
-     },
-     {
-      "letter": "B",
       "text": "as"
      },
      {
-      "letter": "C",
-      "text": "than"
-     },
-     {
       "letter": "D",
-      "text": "but"
+      "text": "or"
      }
     ],
     "answer": "B",
+    "vi": 9
+   },
+   {
+    "question": "Amy is as tall __________ her mother. They are both 160 centimeters.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "than"
+     },
+     {
+      "letter": "B",
+      "text": "that"
+     },
+     {
+      "letter": "C",
+      "text": "as"
+     },
+     {
+      "letter": "D",
+      "text": "or"
+     }
+    ],
+    "answer": "C",
     "vi": 10
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"that":["the one that is there, not near me","那個"],"since":["from a time in the past up to now","自從"],"than":["used when you compare two people or things","比"],"or":["used to join two choices","或；還是"],"and":["also; used to join two words or sentences","和；而且"],"but":["used to join two ideas that are different","但是"],"however":["but; used at the start of a different idea","然而"],"because":["for the reason that","因為"],"though":["used to join two ideas when the second is a surprise","雖然"],"if":["used to say that one thing must happen before another thing can","如果"],"as":["used to say two things are the same in some way","和…一樣；如同"],"seldom":["not often","很少"],"together":["with each other","一起"],"least":["less than all the others","最不"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"but":["used to join two ideas that are different","但是"],"because":["for the reason that","因為"],"if":["used to say that one thing must happen before another thing can","如果"],"or":["used to join two choices","或；還是"],"and":["also; used to join two words or sentences","和；而且"],"however":["but; used at the start of a different idea","然而"],"than":["used when you compare two people or things","比"],"since":["from a time in the past up to now","自從"],"though":["used to join two ideas when the second is a surprise","雖然"],"that":["the one that is there, not near me","那個"],"as":["used to say two things are the same in some way","和…一樣；如同"]});

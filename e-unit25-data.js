@@ -579,7 +579,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: What animal is it? It is the king of the animals. — A: It's a __________. It has a big head and a lot of hair.【獅子】",
+    "question": "The __________ is called the king of animals. The male has long hair around its head and neck.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "zebra"
+     },
+     {
+      "letter": "B",
+      "text": "rabbit"
+     },
+     {
+      "letter": "C",
+      "text": "lion"
+     },
+     {
+      "letter": "D",
+      "text": "turtle"
+     }
+    ],
+    "answer": "C",
+    "vi": 0
+   },
+   {
+    "question": "A __________ is a big wild cat with orange fur and black stripes.",
     "options": [
      {
       "letter": "A",
@@ -587,99 +610,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "turtle"
+      "text": "bear"
      },
      {
       "letter": "C",
+      "text": "fox"
+     },
+     {
+      "letter": "D",
+      "text": "tiger"
+     }
+    ],
+    "answer": "D",
+    "vi": 1
+   },
+   {
+    "question": "A __________ is a big, strong animal with thick fur. Some are white and live near the North Pole.",
+    "options": [
+     {
+      "letter": "A",
       "text": "bear"
+     },
+     {
+      "letter": "B",
+      "text": "fox"
+     },
+     {
+      "letter": "C",
+      "text": "rabbit"
+     },
+     {
+      "letter": "D",
+      "text": "monkey"
+     }
+    ],
+    "answer": "A",
+    "vi": 2
+   },
+   {
+    "question": "A __________ looks like a small dog with a big, thick tail. In many stories, it is smart and tricky.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "bear"
+     },
+     {
+      "letter": "B",
+      "text": "fox"
+     },
+     {
+      "letter": "C",
+      "text": "pig"
      },
      {
       "letter": "D",
       "text": "cow"
      }
     ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "Q: What animal is it? It has black and orange lines. — A: It's a __________. It can run very fast.【老虎】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "duck"
-     },
-     {
-      "letter": "B",
-      "text": "tiger"
-     },
-     {
-      "letter": "C",
-      "text": "dragon"
-     },
-     {
-      "letter": "D",
-      "text": "puppy"
-     }
-    ],
     "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "Q: What animal is it? It is big and brown. It likes honey. — A: It's a __________. Don't go near it.【熊】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hippo"
-     },
-     {
-      "letter": "B",
-      "text": "geese"
-     },
-     {
-      "letter": "C",
-      "text": "bear"
-     },
-     {
-      "letter": "D",
-      "text": "snake"
-     }
-    ],
-    "answer": "C",
-    "vi": 2
-   },
-   {
-    "question": "Q: What animal is it? It looks like a dog, and it is very smart. — A: It's a __________. It has a big tail.【狐狸】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "elephant"
-     },
-     {
-      "letter": "B",
-      "text": "pig"
-     },
-     {
-      "letter": "C",
-      "text": "animal"
-     },
-     {
-      "letter": "D",
-      "text": "fox"
-     }
-    ],
-    "answer": "D",
     "vi": 3
    },
    {
-    "question": "Q: What animal is it? It has a long nose and big ears. — A: It's an __________. It is very big and heavy.【大象】",
+    "question": "An __________ is very big and gray. It has a long nose and two big ears.",
     "options": [
      {
       "letter": "A",
-      "text": "duck"
+      "text": "ox"
      },
      {
       "letter": "B",
-      "text": "butterfly"
+      "text": "ant"
      },
      {
       "letter": "C",
@@ -687,87 +687,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "fox"
+      "text": "insect"
      }
     ],
     "answer": "C",
     "vi": 4
    },
    {
-    "question": "Q: What animal is it? It has a big mouth and lives in the river. — A: It's a __________. It is fat and heavy.【河馬】",
+    "question": "A __________ is a big, heavy animal with a huge mouth. It stays in rivers in Africa all day.",
     "options": [
      {
       "letter": "A",
-      "text": "hippo"
+      "text": "zebra"
      },
      {
       "letter": "B",
-      "text": "butterfly"
+      "text": "kangaroo"
      },
      {
       "letter": "C",
-      "text": "animal"
+      "text": "koala"
      },
      {
       "letter": "D",
-      "text": "fox"
+      "text": "hippo"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 5
    },
    {
-    "question": "Q: What animals are they? They are black and white. — A: They are __________. They look like horses.【斑馬】",
+    "question": "__________ look like horses, but they have black and white stripes.",
     "options": [
      {
       "letter": "A",
-      "text": "bees"
+      "text": "Tigers"
      },
      {
       "letter": "B",
-      "text": "zebras"
+      "text": "Zebras"
      },
      {
       "letter": "C",
-      "text": "hens"
+      "text": "Lions"
      },
      {
       "letter": "D",
-      "text": "chickens"
+      "text": "Bears"
      }
     ],
     "answer": "B",
     "vi": 6
    },
    {
-    "question": "Q: What animals are they? They like bananas. — A: They are __________. They can climb trees.【猴子】",
+    "question": "__________ are good at climbing trees. They love bananas, and they have long tails.",
     "options": [
      {
       "letter": "A",
-      "text": "horses"
+      "text": "Monkeys"
      },
      {
       "letter": "B",
-      "text": "birds"
+      "text": "Zebras"
      },
      {
       "letter": "C",
-      "text": "ants"
+      "text": "Hippos"
      },
      {
       "letter": "D",
-      "text": "monkeys"
+      "text": "Turtles"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 7
    },
    {
-    "question": "Q: What animal is it? It can jump very high. — A: It's a __________. It has a baby in its pocket.【袋鼠】",
+    "question": "A __________ lives in Australia. It jumps on two strong legs and carries its baby in a pocket.",
     "options": [
      {
       "letter": "A",
-      "text": "frog"
+      "text": "zebra"
      },
      {
       "letter": "B",
@@ -779,60 +779,37 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "koala"
+      "text": "tiger"
      }
     ],
     "answer": "B",
     "vi": 8
    },
    {
-    "question": "Q: What animal is it? It sleeps in the tree all day. — A: It's a __________. It looks like a little bear.【無尾熊】",
+    "question": "A __________ lives in trees in Australia. It looks like a small gray bear and sleeps most of the day.",
     "options": [
      {
       "letter": "A",
-      "text": "puppy"
+      "text": "kangaroo"
      },
      {
       "letter": "B",
-      "text": "tail"
+      "text": "zebra"
      },
      {
       "letter": "C",
+      "text": "hippo"
+     },
+     {
+      "letter": "D",
       "text": "koala"
-     },
-     {
-      "letter": "D",
-      "text": "sheep"
-     }
-    ],
-    "answer": "C",
-    "vi": 9
-   },
-   {
-    "question": "Q: What animal is it? It can fly, and it is in many Chinese stories. — A: It's a __________. It isn't a real animal.【龍】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "spider"
-     },
-     {
-      "letter": "B",
-      "text": "turtle"
-     },
-     {
-      "letter": "C",
-      "text": "insect"
-     },
-     {
-      "letter": "D",
-      "text": "dragon"
      }
     ],
     "answer": "D",
-    "vi": 10
+    "vi": 9
    },
    {
-    "question": "Q: What does a __________ look like? — A: It has long ears and a short tail. It eats vegetables.【兔子】",
+    "question": "In old stories, a __________ can fly and breathe fire. There is a year of this animal in the Chinese calendar.",
     "options": [
      {
       "letter": "A",
@@ -840,34 +817,57 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "animal"
+      "text": "tiger"
      },
      {
       "letter": "C",
-      "text": "fox"
+      "text": "dragon"
      },
      {
       "letter": "D",
-      "text": "elephant"
+      "text": "snake"
+     }
+    ],
+    "answer": "C",
+    "vi": 10
+   },
+   {
+    "question": "A __________ has long ears and a short tail. It hops and loves to eat carrots.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rabbit"
+     },
+     {
+      "letter": "B",
+      "text": "turtle"
+     },
+     {
+      "letter": "C",
+      "text": "snake"
+     },
+     {
+      "letter": "D",
+      "text": "frog"
      }
     ],
     "answer": "A",
     "vi": 11
    },
    {
-    "question": "Q: What does your dog look like? — A: It's white, and it has a long __________.【尾巴】",
+    "question": "A happy dog moves its __________ from side to side. A monkey has a long one.",
     "options": [
      {
       "letter": "A",
-      "text": "dog"
+      "text": "cage"
      },
      {
       "letter": "B",
-      "text": "snake"
+      "text": "pet"
      },
      {
       "letter": "C",
-      "text": "tiger"
+      "text": "bug"
      },
      {
       "letter": "D",
@@ -878,11 +878,11 @@ window.FLASHCARD_UNITS = {
     "vi": 12
    },
    {
-    "question": "Q: What do __________ look like? — A: They are small and gray. They have long tails.【老鼠】",
+    "question": "Cats like to catch __________. These small animals have long tails and love cheese.",
     "options": [
      {
       "letter": "A",
-      "text": "geese"
+      "text": "cows"
      },
      {
       "letter": "B",
@@ -890,114 +890,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "koala"
+      "text": "horses"
      },
      {
       "letter": "D",
-      "text": "insect"
+      "text": "sheep"
      }
     ],
     "answer": "B",
     "vi": 13
    },
    {
-    "question": "Q: What do __________ look like? — A: They look like big mice. They are dirty.【（大）老鼠】",
+    "question": "__________ look like mice, but they are much bigger. They often live in dirty places.",
     "options": [
      {
       "letter": "A",
-      "text": "rats"
+      "text": "Cows"
      },
      {
       "letter": "B",
-      "text": "hens"
+      "text": "Pigs"
      },
      {
       "letter": "C",
-      "text": "monkeys"
+      "text": "Rats"
      },
      {
       "letter": "D",
-      "text": "goats"
+      "text": "Goats"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 14
    },
    {
-    "question": "Q: What does a __________ look like? — A: It is black and white. It gives us milk.【母牛】",
+    "question": "A __________ gives us milk. Farmers keep this big animal on their farms.",
     "options": [
      {
       "letter": "A",
-      "text": "lion"
-     },
-     {
-      "letter": "B",
-      "text": "insect"
-     },
-     {
-      "letter": "C",
       "text": "cow"
-     },
-     {
-      "letter": "D",
-      "text": "elephant"
-     }
-    ],
-    "answer": "C",
-    "vi": 15
-   },
-   {
-    "question": "Q: What does an __________ look like? — A: It is big and strong. It helps farmers.【公牛】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "ox"
-     },
-     {
-      "letter": "B",
-      "text": "dog"
-     },
-     {
-      "letter": "C",
-      "text": "tiger"
-     },
-     {
-      "letter": "D",
-      "text": "fox"
-     }
-    ],
-    "answer": "A",
-    "vi": 16
-   },
-   {
-    "question": "Q: What do __________ look like? — A: They are tall, and they have long legs. They run fast.【馬】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "rats"
-     },
-     {
-      "letter": "B",
-      "text": "hens"
-     },
-     {
-      "letter": "C",
-      "text": "horses"
-     },
-     {
-      "letter": "D",
-      "text": "chickens"
-     }
-    ],
-    "answer": "C",
-    "vi": 17
-   },
-   {
-    "question": "Q: What does a __________ look like? — A: It is pink and fat. It has a short tail.【豬】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "geese"
      },
      {
       "letter": "B",
@@ -1005,64 +936,133 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "cow"
+      "text": "horse"
      },
      {
       "letter": "D",
-      "text": "fox"
+      "text": "hen"
      }
     ],
-    "answer": "B",
-    "vi": 18
+    "answer": "A",
+    "vi": 15
    },
    {
-    "question": "Q: What do __________ look like? — A: They are white. They live on the hill and eat grass.【山羊】",
+    "question": "In the past, farmers used an __________ to pull heavy things in the fields. It is a strong male cow.",
     "options": [
      {
       "letter": "A",
-      "text": "ants"
+      "text": "ant"
      },
      {
       "letter": "B",
-      "text": "bees"
+      "text": "elephant"
      },
      {
       "letter": "C",
-      "text": "rats"
+      "text": "ox"
      },
      {
       "letter": "D",
+      "text": "insect"
+     }
+    ],
+    "answer": "C",
+    "vi": 16
+   },
+   {
+    "question": "Cowboys ride __________. These big animals can run very fast.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pigs"
+     },
+     {
+      "letter": "B",
+      "text": "horses"
+     },
+     {
+      "letter": "C",
       "text": "goats"
+     },
+     {
+      "letter": "D",
+      "text": "sheep"
+     }
+    ],
+    "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "A __________ is a fat farm animal with a flat nose. We get pork from it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pig"
+     },
+     {
+      "letter": "B",
+      "text": "cow"
+     },
+     {
+      "letter": "C",
+      "text": "goat"
+     },
+     {
+      "letter": "D",
+      "text": "horse"
+     }
+    ],
+    "answer": "A",
+    "vi": 18
+   },
+   {
+    "question": "__________ have horns and little beards. They can climb steep hills very well.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Pigs"
+     },
+     {
+      "letter": "B",
+      "text": "Ducks"
+     },
+     {
+      "letter": "C",
+      "text": "Horses"
+     },
+     {
+      "letter": "D",
+      "text": "Goats"
      }
     ],
     "answer": "D",
     "vi": 19
    },
    {
-    "question": "Q: What do __________ look like? — A: They are white and soft. They eat grass on the farm.【綿羊】",
+    "question": "Farmers keep __________ for their wool. We make warm sweaters from it.",
     "options": [
      {
       "letter": "A",
-      "text": "tail"
+      "text": "pigs"
      },
      {
       "letter": "B",
-      "text": "sheep"
+      "text": "horses"
      },
      {
       "letter": "C",
-      "text": "elephant"
+      "text": "sheep"
      },
      {
       "letter": "D",
-      "text": "bat"
+      "text": "ducks"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 20
    },
    {
-    "question": "Q: Can __________ fly? — A: Yes, they can. They fly in the sky.【鳥】",
+    "question": "Most __________ can fly. They have wings and feathers, and they lay eggs.",
     "options": [
      {
       "letter": "A",
@@ -1070,76 +1070,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "cats"
+      "text": "fish"
      },
      {
       "letter": "C",
-      "text": "chickens"
+      "text": "snakes"
      },
      {
       "letter": "D",
-      "text": "bees"
+      "text": "turtles"
      }
     ],
     "answer": "A",
     "vi": 21
    },
    {
-    "question": "Q: Can a __________ fly? — A: Yes, it can. It flies at night.【蝙蝠】",
+    "question": "A __________ sleeps in the day and flies at night. It looks like a mouse with wings.",
     "options": [
      {
       "letter": "A",
-      "text": "hippo"
+      "text": "bee"
      },
      {
       "letter": "B",
-      "text": "bear"
-     },
-     {
-      "letter": "C",
       "text": "bat"
-     },
-     {
-      "letter": "D",
-      "text": "turtle"
-     }
-    ],
-    "answer": "C",
-    "vi": 22
-   },
-   {
-    "question": "Q: Can __________ fly? — A: Yes, they can. They make honey.【蜜蜂】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "horses"
-     },
-     {
-      "letter": "B",
-      "text": "goats"
-     },
-     {
-      "letter": "C",
-      "text": "birds"
-     },
-     {
-      "letter": "D",
-      "text": "bees"
-     }
-    ],
-    "answer": "D",
-    "vi": 23
-   },
-   {
-    "question": "Q: Can the __________ fly? — A: Yes, it can. It is flying over the flowers.【蝴蝶】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "geese"
-     },
-     {
-      "letter": "B",
-      "text": "pet"
      },
      {
       "letter": "C",
@@ -1147,87 +1101,133 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "lion"
-     }
-    ],
-    "answer": "C",
-    "vi": 24
-   },
-   {
-    "question": "Q: Can a __________ swim? — A: Yes, it can. It swims in the pond.【鴨】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pig"
-     },
-     {
-      "letter": "B",
       "text": "duck"
-     },
-     {
-      "letter": "C",
-      "text": "bear"
-     },
-     {
-      "letter": "D",
-      "text": "fish"
      }
     ],
     "answer": "B",
-    "vi": 25
+    "vi": 22
    },
    {
-    "question": "Q: Can __________ swim? — A: Yes, they can. They swim in the lake.【鵝】",
+    "question": "__________ fly from flower to flower and make honey. Be careful, or they may sting you.",
     "options": [
      {
       "letter": "A",
-      "text": "geese"
+      "text": "Bats"
      },
      {
       "letter": "B",
-      "text": "tiger"
+      "text": "Ducks"
      },
      {
       "letter": "C",
-      "text": "elephant"
+      "text": "Ants"
      },
      {
       "letter": "D",
-      "text": "fish"
-     }
-    ],
-    "answer": "A",
-    "vi": 26
-   },
-   {
-    "question": "Q: Can __________ fly? — A: No, they can't. But they can swim.【魚】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dog"
-     },
-     {
-      "letter": "B",
-      "text": "mice"
-     },
-     {
-      "letter": "C",
-      "text": "duck"
-     },
-     {
-      "letter": "D",
-      "text": "fish"
+      "text": "Bees"
      }
     ],
     "answer": "D",
-    "vi": 27
+    "vi": 23
    },
    {
-    "question": "Q: Can a __________ swim? — A: Yes, it can. It can jump, too.【青蛙】",
+    "question": "A __________ is an insect with big, colorful wings. It flies from flower to flower.",
     "options": [
      {
       "letter": "A",
-      "text": "tail"
+      "text": "spider"
+     },
+     {
+      "letter": "B",
+      "text": "butterfly"
+     },
+     {
+      "letter": "C",
+      "text": "frog"
+     },
+     {
+      "letter": "D",
+      "text": "turtle"
+     }
+    ],
+    "answer": "B",
+    "vi": 24
+   },
+   {
+    "question": "A __________ swims on the pond and says \"quack, quack.\"",
+    "options": [
+     {
+      "letter": "A",
+      "text": "frog"
+     },
+     {
+      "letter": "B",
+      "text": "turtle"
+     },
+     {
+      "letter": "C",
+      "text": "hen"
+     },
+     {
+      "letter": "D",
+      "text": "duck"
+     }
+    ],
+    "answer": "D",
+    "vi": 25
+   },
+   {
+    "question": "__________ look like ducks, but they are bigger and have longer necks.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Hens"
+     },
+     {
+      "letter": "B",
+      "text": "Frogs"
+     },
+     {
+      "letter": "C",
+      "text": "Geese"
+     },
+     {
+      "letter": "D",
+      "text": "Bats"
+     }
+    ],
+    "answer": "C",
+    "vi": 26
+   },
+   {
+    "question": "__________ live in water. They swim with their tails and can't live on land.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Fish"
+     },
+     {
+      "letter": "B",
+      "text": "Birds"
+     },
+     {
+      "letter": "C",
+      "text": "Bats"
+     },
+     {
+      "letter": "D",
+      "text": "Spiders"
+     }
+    ],
+    "answer": "A",
+    "vi": 27
+   },
+   {
+    "question": "A __________ is a small green animal. It lives near water, jumps well, and eats insects.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "turtle"
      },
      {
       "letter": "B",
@@ -1235,160 +1235,160 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "pig"
+      "text": "snake"
      },
      {
       "letter": "D",
-      "text": "fox"
+      "text": "duck"
      }
     ],
     "answer": "B",
     "vi": 28
    },
    {
-    "question": "Q: Can a __________ run fast? — A: No, it can't. It walks very slowly.【烏龜】",
+    "question": "A __________ walks very slowly and carries a hard shell on its back.",
     "options": [
      {
       "letter": "A",
-      "text": "pig"
+      "text": "turtle"
      },
      {
       "letter": "B",
-      "text": "hippo"
+      "text": "frog"
      },
      {
       "letter": "C",
-      "text": "rabbit"
-     },
-     {
-      "letter": "D",
-      "text": "turtle"
-     }
-    ],
-    "answer": "D",
-    "vi": 29
-   },
-   {
-    "question": "Q: Can a __________ walk? — A: No, it can't. It has no legs.【蛇】",
-    "options": [
-     {
-      "letter": "A",
       "text": "snake"
      },
      {
-      "letter": "B",
-      "text": "ox"
-     },
-     {
-      "letter": "C",
-      "text": "koala"
-     },
-     {
       "letter": "D",
-      "text": "animal"
+      "text": "rabbit"
      }
     ],
     "answer": "A",
-    "vi": 30
+    "vi": 29
    },
    {
-    "question": "Q: How many legs does an __________ have? — A: It has six legs.【昆蟲】",
+    "question": "A __________ has a long body and no legs. Some are very dangerous.",
     "options": [
      {
       "letter": "A",
-      "text": "ox"
+      "text": "frog"
      },
      {
       "letter": "B",
-      "text": "dragon"
+      "text": "turtle"
      },
      {
       "letter": "C",
-      "text": "insect"
+      "text": "snake"
      },
      {
       "letter": "D",
-      "text": "fish"
+      "text": "spider"
      }
     ],
     "answer": "C",
-    "vi": 31
+    "vi": 30
    },
    {
-    "question": "Q: How many legs do __________ have? — A: They have six legs. They are insects.【螞蟻】",
+    "question": "An __________ has six legs. Ants, bees, and butterflies are good examples.",
     "options": [
      {
       "letter": "A",
-      "text": "birds"
+      "text": "ox"
      },
      {
       "letter": "B",
-      "text": "rats"
+      "text": "elephant"
      },
      {
       "letter": "C",
-      "text": "chickens"
+      "text": "animal"
      },
      {
       "letter": "D",
-      "text": "ants"
+      "text": "insect"
      }
     ],
     "answer": "D",
-    "vi": 32
+    "vi": 31
    },
    {
-    "question": "Q: How many legs do they have? — A: These little __________ have six legs.【小蟲】",
+    "question": "__________ are tiny insects. They live in big groups and carry food back to their home in a long line.",
     "options": [
      {
       "letter": "A",
-      "text": "bugs"
+      "text": "Bats"
      },
      {
       "letter": "B",
-      "text": "zebras"
+      "text": "Frogs"
      },
      {
       "letter": "C",
-      "text": "ants"
+      "text": "Ants"
      },
      {
       "letter": "D",
-      "text": "rats"
+      "text": "Hens"
      }
     ],
-    "answer": "A",
-    "vi": 33
+    "answer": "C",
+    "vi": 32
    },
    {
-    "question": "Q: How many legs does a __________ have? — A: It has eight legs. It isn't an insect.【蜘蛛】",
+    "question": "There are many little __________ in the garden. Some eat the leaves of our vegetables.",
     "options": [
      {
       "letter": "A",
-      "text": "duck"
+      "text": "pets"
      },
      {
       "letter": "B",
-      "text": "spider"
+      "text": "bugs"
      },
      {
       "letter": "C",
-      "text": "fish"
+      "text": "cages"
+     },
+     {
+      "letter": "D",
+      "text": "tails"
+     }
+    ],
+    "answer": "B",
+    "vi": 33
+   },
+   {
+    "question": "A __________ has eight legs. It makes a web to catch flies.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "spider"
+     },
+     {
+      "letter": "B",
+      "text": "frog"
+     },
+     {
+      "letter": "C",
+      "text": "bee"
      },
      {
       "letter": "D",
       "text": "bat"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 34
    },
    {
-    "question": "Q: How many legs do __________ have? — A: They have two legs. They can't fly well.【雞；小雞】",
+    "question": "Farmers keep __________ for their eggs and meat. These birds can't fly well.",
     "options": [
      {
       "letter": "A",
-      "text": "zebras"
+      "text": "pigs"
      },
      {
       "letter": "B",
@@ -1396,114 +1396,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "chickens"
+      "text": "sheep"
      },
      {
       "letter": "D",
-      "text": "ants"
-     }
-    ],
-    "answer": "C",
-    "vi": 35
-   },
-   {
-    "question": "Q: How many hens does your grandpa have? — A: He has ten __________. They give us eggs.【母雞】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "ants"
-     },
-     {
-      "letter": "B",
       "text": "chickens"
-     },
-     {
-      "letter": "C",
-      "text": "bugs"
-     },
-     {
-      "letter": "D",
-      "text": "hens"
      }
     ],
     "answer": "D",
-    "vi": 36
+    "vi": 35
    },
    {
-    "question": "Q: What __________ do you like best? — A: I like dogs best. They are friendly.【動物】",
+    "question": "__________ lay eggs, and they take care of their baby chicks.",
     "options": [
      {
       "letter": "A",
-      "text": "dog"
+      "text": "Hens"
      },
      {
       "letter": "B",
-      "text": "cage"
+      "text": "Cows"
      },
      {
       "letter": "C",
-      "text": "animal"
+      "text": "Pigs"
      },
      {
       "letter": "D",
-      "text": "hippo"
-     }
-    ],
-    "answer": "C",
-    "vi": 37
-   },
-   {
-    "question": "Q: Do you have a __________? — A: Yes, I do. I have a little cat.【寵物】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "duck"
-     },
-     {
-      "letter": "B",
-      "text": "pet"
-     },
-     {
-      "letter": "C",
-      "text": "dog"
-     },
-     {
-      "letter": "D",
-      "text": "cow"
-     }
-    ],
-    "answer": "B",
-    "vi": 38
-   },
-   {
-    "question": "Q: What animal does your sister like? — A: She likes __________. She has a black one.【貓】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cats"
-     },
-     {
-      "letter": "B",
-      "text": "birds"
-     },
-     {
-      "letter": "C",
-      "text": "hens"
-     },
-     {
-      "letter": "D",
-      "text": "monkeys"
+      "text": "Goats"
      }
     ],
     "answer": "A",
-    "vi": 39
+    "vi": 36
    },
    {
-    "question": "Q: Does Tom have a pet? — A: Yes, he does. He has a __________. It's very friendly.【狗】",
+    "question": "The elephant is the biggest __________ on land.",
     "options": [
      {
       "letter": "A",
-      "text": "fish"
+      "text": "insect"
      },
      {
       "letter": "B",
@@ -1511,18 +1442,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
+      "text": "bird"
+     },
+     {
+      "letter": "D",
+      "text": "fish"
+     }
+    ],
+    "answer": "B",
+    "vi": 37
+   },
+   {
+    "question": "I want to keep a __________, like a dog or a cat. I will feed it and play with it every day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cage"
+     },
+     {
+      "letter": "B",
+      "text": "tail"
+     },
+     {
+      "letter": "C",
+      "text": "pet"
+     },
+     {
+      "letter": "D",
+      "text": "bug"
+     }
+    ],
+    "answer": "C",
+    "vi": 38
+   },
+   {
+    "question": "__________ like to catch mice. They say \"meow\" and sleep a lot in the day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Dogs"
+     },
+     {
+      "letter": "B",
+      "text": "Hens"
+     },
+     {
+      "letter": "C",
+      "text": "Frogs"
+     },
+     {
+      "letter": "D",
+      "text": "Cats"
+     }
+    ],
+    "answer": "D",
+    "vi": 39
+   },
+   {
+    "question": "My __________ barks when a stranger comes to the door. I walk it in the park every evening.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cat"
+     },
+     {
+      "letter": "B",
+      "text": "hen"
+     },
+     {
+      "letter": "C",
       "text": "dog"
      },
      {
       "letter": "D",
-      "text": "dragon"
+      "text": "frog"
      }
     ],
     "answer": "C",
     "vi": 40
    },
    {
-    "question": "Q: Does Amy like her new __________? — A: Yes, she does. It's very cute.【小狗】",
+    "question": "Our dog had a baby last week. The little __________ is so small and cute.",
     "options": [
      {
       "letter": "A",
@@ -1530,67 +1530,67 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "cage"
+      "text": "hen"
      },
      {
       "letter": "C",
-      "text": "sheep"
+      "text": "frog"
      },
      {
       "letter": "D",
-      "text": "turtle"
+      "text": "bat"
      }
     ],
     "answer": "A",
     "vi": 41
    },
    {
-    "question": "Q: Where do you keep your bird? — A: I keep it in a __________.【籠子】",
+    "question": "The bird lives in a __________ in the living room. It sings to us every morning.",
     "options": [
      {
       "letter": "A",
-      "text": "butterfly"
+      "text": "tail"
      },
      {
       "letter": "B",
+      "text": "pet"
+     },
+     {
+      "letter": "C",
+      "text": "bug"
+     },
+     {
+      "letter": "D",
       "text": "cage"
-     },
-     {
-      "letter": "C",
-      "text": "pig"
-     },
-     {
-      "letter": "D",
-      "text": "snake"
-     }
-    ],
-    "answer": "B",
-    "vi": 42
-   },
-   {
-    "question": "Q: Does your dog __________? — A: No, it doesn't. It never bites people.【咬】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "run"
-     },
-     {
-      "letter": "B",
-      "text": "cook"
-     },
-     {
-      "letter": "C",
-      "text": "fell"
-     },
-     {
-      "letter": "D",
-      "text": "bite"
      }
     ],
     "answer": "D",
+    "vi": 42
+   },
+   {
+    "question": "Don't touch that dog. It may __________ you with its sharp teeth.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ride"
+     },
+     {
+      "letter": "B",
+      "text": "bite"
+     },
+     {
+      "letter": "C",
+      "text": "cross"
+     },
+     {
+      "letter": "D",
+      "text": "blow"
+     }
+    ],
+    "answer": "B",
     "vi": 43
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"fish":["an animal that lives in water; its meat","魚；魚肉"],"cook":["to make food ready to eat by heating it","煮飯；烹調"],"run":["to move very fast on your legs","跑步"],"lion":["a big wild cat; the male has long hair around its head","獅子"],"tiger":["a big wild cat with orange fur and black stripes","老虎"],"bear":["a big, strong wild animal with thick fur","熊"],"fox":["a wild animal like a small dog with a big thick tail","狐狸"],"elephant":["a very big gray animal with a long nose and big ears","大象"],"hippo":["a big, heavy animal with short legs that lives in rivers in Africa","河馬"],"zebras":["an animal like a horse with black and white stripes","斑馬"],"monkeys":["an animal with a long tail that climbs trees","猴子"],"kangaroo":["an animal from Australia that jumps and carries its baby in a pocket","袋鼠"],"koala":["a gray animal from Australia that lives in trees and looks like a small bear","無尾熊"],"dragon":["a big animal in stories that has wings and can breathe fire","龍"],"rabbit":["a small animal with long ears that hops","兔子"],"tail":["the long part at the back end of an animal's body","尾巴"],"mice":["a very small animal with a long tail that likes cheese","老鼠"],"rats":["an animal like a mouse, but bigger","（大）老鼠"],"cow":["a big farm animal that gives us milk","母牛"],"ox":["a big, strong male cow that pulls heavy things on a farm","公牛"],"horses":["a big animal that people ride","馬"],"pig":["a fat farm animal with a flat nose and a short tail","豬"],"goats":["a farm animal with horns and a little beard","山羊"],"sheep":["a farm animal with thick wool","綿羊"],"birds":["an animal with wings and feathers","鳥"],"bat":["a small animal like a mouse with wings that flies at night","蝙蝠"],"bees":["a yellow and black insect that makes honey","蜜蜂"],"butterfly":["an insect with big, colorful wings","蝴蝶"],"duck":["a bird that swims and says \"quack\"","鴨"],"geese":["a big bird like a duck with a long neck","鵝"],"frog":["a small green animal that jumps and lives near water","青蛙"],"turtle":["an animal with a hard shell on its back that moves slowly","烏龜"],"snake":["a long, thin animal with no legs","蛇"],"insect":["a very small animal with six legs, like an ant or a bee","昆蟲"],"ants":["a very small insect that lives in big groups","螞蟻"],"bugs":["a small insect","小蟲"],"spider":["a small animal with eight legs that makes a web","蜘蛛"],"chickens":["a farm bird that people keep for eggs and meat","雞；小雞"],"hens":["a female chicken","母雞"],"animal":["a living thing that can move, like a dog, a bird, or a fish","動物"],"pet":["an animal that you keep at home","寵物"],"cats":["a small pet animal that says \"meow\"","貓"],"dog":["a pet animal that barks","狗"],"puppy":["a baby dog","小狗"],"cage":["a box made of bars for keeping birds or animals in","籠子"],"bite":["to cut something with your teeth","咬"],"fell":["to drop down to the ground","跌倒；落下"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"zebra":["an animal like a horse with black and white stripes","斑馬"],"rabbit":["a small animal with long ears that hops","兔子"],"lion":["a big wild cat; the male has long hair around its head","獅子"],"turtle":["an animal with a hard shell on its back that moves slowly","烏龜"],"bear":["a big, strong wild animal with thick fur","熊"],"fox":["a wild animal like a small dog with a big thick tail","狐狸"],"tiger":["a big wild cat with orange fur and black stripes","老虎"],"monkey":["an animal with a long tail that climbs trees","猴子"],"pig":["a fat farm animal with a flat nose and a short tail","豬"],"cow":["a big farm animal that gives us milk","母牛"],"ox":["a big, strong male cow that pulls heavy things on a farm","公牛"],"ant":["a very small insect that lives in big groups","螞蟻"],"elephant":["a very big gray animal with a long nose and big ears","大象"],"insect":["a very small animal with six legs, like an ant or a bee","昆蟲"],"kangaroo":["an animal from Australia that jumps and carries its baby in a pocket","袋鼠"],"koala":["a gray animal from Australia that lives in trees and looks like a small bear","無尾熊"],"hippo":["a big, heavy animal with short legs that lives in rivers in Africa","河馬"],"tigers":["a big wild cat with orange fur and black stripes","老虎"],"zebras":["an animal like a horse with black and white stripes","斑馬"],"lions":["a big wild cat; the male has long hair around its head","獅子"],"bears":["a big, strong wild animal with thick fur","熊"],"monkeys":["an animal with a long tail that climbs trees","猴子"],"hippos":["a big, heavy animal with short legs that lives in rivers in Africa","河馬"],"turtles":["an animal with a hard shell on its back that moves slowly","烏龜"],"dragon":["a big animal in stories that has wings and can breathe fire","龍"],"snake":["a long, thin animal with no legs","蛇"],"frog":["a small green animal that jumps and lives near water","青蛙"],"cage":["a box made of bars for keeping birds or animals in","籠子"],"pet":["an animal that you keep at home","寵物"],"bug":["a small insect","小蟲"],"tail":["the long part at the back end of an animal's body","尾巴"],"cows":["a big farm animal that gives us milk","母牛"],"mice":["a very small animal with a long tail that likes cheese","老鼠"],"horses":["a big animal that people ride","馬"],"sheep":["a farm animal with thick wool","綿羊"],"pigs":["a fat farm animal with a flat nose and a short tail","豬"],"rats":["an animal like a mouse, but bigger","（大）老鼠"],"goats":["a farm animal with horns and a little beard","山羊"],"horse":["a big animal that people ride","馬"],"hen":["a female chicken","母雞"],"goat":["a farm animal with horns and a little beard","山羊"],"ducks":["a bird that swims and says \"quack\"","鴨"],"birds":["an animal with wings and feathers","鳥"],"fish":["an animal that lives in water; its meat","魚；魚肉"],"snakes":["a long, thin animal with no legs","蛇"],"bee":["a yellow and black insect that makes honey","蜜蜂"],"bat":["a small animal like a mouse with wings that flies at night","蝙蝠"],"butterfly":["an insect with big, colorful wings","蝴蝶"],"duck":["a bird that swims and says \"quack\"","鴨"],"bats":["a small animal like a mouse with wings that flies at night","蝙蝠"],"ants":["a very small insect that lives in big groups","螞蟻"],"bees":["a yellow and black insect that makes honey","蜜蜂"],"spider":["a small animal with eight legs that makes a web","蜘蛛"],"hens":["a female chicken","母雞"],"frogs":["a small green animal that jumps and lives near water","青蛙"],"geese":["a big bird like a duck with a long neck","鵝"],"spiders":["a small animal with eight legs that makes a web","蜘蛛"],"animal":["a living thing that can move, like a dog, a bird, or a fish","動物"],"pets":["an animal that you keep at home","寵物"],"bugs":["a small insect","小蟲"],"cages":["a box made of bars for keeping birds or animals in","籠子"],"tails":["the long part at the back end of an animal's body","尾巴"],"chickens":["a farm bird that people keep for eggs and meat","雞；小雞"],"bird":["an animal with wings and feathers","鳥"],"dogs":["a pet animal that barks","狗"],"cats":["a small pet animal that says \"meow\"","貓"],"cat":["a small pet animal that says \"meow\"","貓"],"dog":["a pet animal that barks","狗"],"puppy":["a baby dog","小狗"],"ride":["to sit on a bike, a horse, or a scooter and make it go","騎"],"bite":["to cut something with your teeth","咬"],"cross":["to go from one side of a road or river to the other","越過"],"blow":["(of wind or air) to move; to send air out of your mouth","吹"]});

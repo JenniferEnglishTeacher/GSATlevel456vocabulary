@@ -90,177 +90,132 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: ______ is that tall girl? — A: She is my cousin, Amy.【誰】",
-    "options": [
-      "What",
-      "Yourself",
-      "Who",
-      "Both"
-    ],
-    "answer": 2,
-    "cn": "那個高個子女孩是誰？ — 她是我的表妹艾美。",
-    "vocabIndex": 0
-  },
-  {
-    "q": "Q: ______ is your grandma today? — A: She is much better, thank you.【如何；怎麼樣】",
-    "options": [
-      "When",
-      "Why",
-      "Where",
-      "How"
-    ],
-    "answer": 3,
-    "cn": "你奶奶今天好嗎？ — 她好多了，謝謝你。",
-    "vocabIndex": 1
-  },
-  {
-    "q": "Q: ______ do you usually do after school? — A: I usually play basketball with my friends.【什麼】",
+    "q": "______ is that man over there? He is my uncle.",
     "options": [
       "Who",
-      "What",
-      "Some",
-      "Everyone"
-    ],
-    "answer": 1,
-    "cn": "你放學後通常做什麼？ — 我通常和朋友打籃球。",
-    "vocabIndex": 2
-  },
-  {
-    "q": "Q: ______ does your uncle live? — A: He lives in Kaohsiung. He works at a hospital there.【哪裡；何處】",
-    "options": [
       "Where",
-      "How",
       "When",
       "Why"
     ],
     "answer": 0,
+    "cn": "那個高個子女孩是誰？ — 她是我的表妹艾美。",
+    "vocabIndex": 0
+  },
+  {
+    "q": "______ do you go to school? I go by bus.",
+    "options": [
+      "Who",
+      "How",
+      "What",
+      "Why"
+    ],
+    "answer": 1,
+    "cn": "你奶奶今天好嗎？ — 她好多了，謝謝你。",
+    "vocabIndex": 1
+  },
+  {
+    "q": "______ is in the box? It is a birthday present for you.",
+    "options": [
+      "Where",
+      "When",
+      "What",
+      "Why"
+    ],
+    "answer": 2,
+    "cn": "你放學後通常做什麼？ — 我通常和朋友打籃球。",
+    "vocabIndex": 2
+  },
+  {
+    "q": "______ do you live? I live in Taipei, near the zoo.",
+    "options": [
+      "Who",
+      "What",
+      "When",
+      "Where"
+    ],
+    "answer": 3,
     "cn": "你叔叔住在哪裡？ — 他住在高雄，他在那裡的一家醫院工作。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: ______ do you get up on Sundays? — A: I get up at nine. I don't go to school on Sundays.【什麼時候；何時】",
+    "q": "______ is your birthday? It is on May 5.",
     "options": [
       "Where",
-      "Why",
-      "How",
-      "When"
+      "Who",
+      "When",
+      "Why"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "你星期天什麼時候起床？ — 我九點起床。我星期天不用上學。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: ______ does Tom look sad? — A: Because he can't find his dog.【為什麼】",
+    "q": "______ are you late? Because I missed the bus.",
     "options": [
-      "How",
-      "Why",
-      "When",
-      "Where"
+      "Where",
+      "Who",
+      "What",
+      "Why"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "湯姆為什麼看起來很難過？ — 因為他找不到他的狗。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: ______ notebook is this? Is it yours? — A: No, it isn't. It's Ben's. His name is on it.【誰的】",
+    "q": "______ bag is this? It is Amy's. Her name is on it.",
     "options": [
-      "Which",
-      "Her",
       "Whose",
-      "Those"
+      "Who",
+      "Where",
+      "Why"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "這是誰的筆記本？是你的嗎？ — 不，不是。是班的，上面有他的名字。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: ______ bike do you like, the red one or the blue one? — A: I like the blue one. It's really cool.【哪一個】",
+    "q": "______ season do you like better, summer or winter? I like summer.",
     "options": [
-      "Which",
       "Whose",
-      "My",
-      "Her"
+      "Which",
+      "Who",
+      "Where"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你喜歡哪一輛腳踏車，紅色的還是藍色的？ — 我喜歡藍色那輛，它真的很酷。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: Does Ben like coffee? — A: I don't know ______ he likes it. Let's ask him.【是否】",
+    "q": "I don't know ______ it will rain tomorrow or not. Let's check the weather report.",
     "options": [
-      "while",
       "whether",
-      "because",
-      "though"
+      "while",
+      "whose",
+      "which"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "班喜歡咖啡嗎？ — 我不知道他是否喜歡。我們問問他吧。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: What does your mom do in the evening? — A: She watches TV ______ I do my homework.【當…的時候】",
+    "q": "Mom cooked dinner ______ Dad was washing the car. They were both busy at the same time.",
     "options": [
       "whether",
-      "though",
       "while",
-      "than"
+      "whose",
+      "which"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你媽媽晚上做什麼？ — 我寫功課的時候，她在看電視。",
     "vocabIndex": 9
   }
 ];
 
 const LOOKUP = {
-  "some": {
-    "pos": "adj.",
-    "en_def": "a number or amount of something, not all",
-    "cn_def": "一些"
-  },
-  "both": {
-    "pos": "pron.",
-    "en_def": "the two; one and also the other",
-    "cn_def": "兩者都"
-  },
-  "those": {
-    "pos": "det.",
-    "en_def": "the ones that are there, not near me",
-    "cn_def": "那些"
-  },
-  "my": {
-    "pos": "det.",
-    "en_def": "belonging to me",
-    "cn_def": "我的"
-  },
-  "her": {
-    "pos": "det.",
-    "en_def": "belonging to her",
-    "cn_def": "她的"
-  },
-  "yourself": {
-    "pos": "pron.",
-    "en_def": "the person I am talking to (\"yourself\" = you and no one else)",
-    "cn_def": "你（們）"
-  },
-  "everyone": {
-    "pos": "pron.",
-    "en_def": "all the people",
-    "cn_def": "每一個人"
-  },
   "who": {
     "pos": "pron.",
     "en_def": "which person",
     "cn_def": "誰"
-  },
-  "how": {
-    "pos": "adv.",
-    "en_def": "in what way; in what condition",
-    "cn_def": "如何；怎麼樣"
-  },
-  "what": {
-    "pos": "pron.",
-    "en_def": "which thing",
-    "cn_def": "什麼"
   },
   "where": {
     "pos": "adv.",
@@ -276,6 +231,16 @@ const LOOKUP = {
     "pos": "adv.",
     "en_def": "for what reason",
     "cn_def": "為什麼"
+  },
+  "how": {
+    "pos": "adv.",
+    "en_def": "in what way; in what condition",
+    "cn_def": "如何；怎麼樣"
+  },
+  "what": {
+    "pos": "pron.",
+    "en_def": "which thing",
+    "cn_def": "什麼"
   },
   "whose": {
     "pos": "det.",
@@ -296,21 +261,6 @@ const LOOKUP = {
     "pos": "conj.",
     "en_def": "during the time that",
     "cn_def": "當…的時候"
-  },
-  "than": {
-    "pos": "prep.",
-    "en_def": "used when you compare two people or things",
-    "cn_def": "比"
-  },
-  "because": {
-    "pos": "conj.",
-    "en_def": "for the reason that",
-    "cn_def": "因為"
-  },
-  "though": {
-    "pos": "conj.",
-    "en_def": "used to join two ideas when the second is a surprise",
-    "cn_def": "雖然"
   }
 };
 

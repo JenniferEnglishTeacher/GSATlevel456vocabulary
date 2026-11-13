@@ -1445,7 +1445,7 @@ const LOOKUP = {
   },
   "washes": {
     "pos": "v.",
-    "en_def": "to clean something with water and soap",
+    "en_def": "",
     "cn_def": "清洗"
   },
   "wash": {

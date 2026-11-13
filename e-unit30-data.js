@@ -501,53 +501,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: Where is your cat? — A: It's __________ the box.【在…裡面】",
+    "question": "There is some milk __________ the glass. Please drink it all.",
     "options": [
      {
       "letter": "A",
-      "text": "for"
+      "text": "at"
      },
      {
       "letter": "B",
-      "text": "along"
-     },
-     {
-      "letter": "C",
       "text": "in"
      },
      {
-      "letter": "D",
-      "text": "on"
-     }
-    ],
-    "answer": "C",
-    "vi": 0
-   },
-   {
-    "question": "Q: Where do the children play on rainy days? — A: They play __________ the house.【在…內部】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "by"
-     },
-     {
-      "letter": "B",
-      "text": "inside"
-     },
-     {
       "letter": "C",
-      "text": "since"
+      "text": "to"
      },
      {
       "letter": "D",
-      "text": "off"
+      "text": "of"
      }
     ],
     "answer": "B",
-    "vi": 1
+    "vi": 0
    },
    {
-    "question": "Q: Where does your dog sleep? — A: It sleeps __________ the house, in the yard.【在…外面】",
+    "question": "It is raining. Let's stay __________ the house and play games.",
     "options": [
      {
       "letter": "A",
@@ -555,26 +532,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "before"
+      "text": "above"
      },
      {
       "letter": "C",
-      "text": "with"
+      "text": "inside"
      },
      {
       "letter": "D",
-      "text": "off"
+      "text": "below"
      }
     ],
-    "answer": "A",
-    "vi": 2
+    "answer": "C",
+    "vi": 1
    },
    {
-    "question": "Q: Where are my books? — A: They are __________ the desk.【在…上面】",
+    "question": "It is a sunny day. Let's play __________ the house, in the yard.",
     "options": [
      {
       "letter": "A",
-      "text": "with"
+      "text": "inside"
      },
      {
       "letter": "B",
@@ -582,22 +559,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "for"
+      "text": "above"
      },
      {
       "letter": "D",
-      "text": "on"
+      "text": "outside"
      }
     ],
     "answer": "D",
-    "vi": 3
+    "vi": 2
    },
    {
-    "question": "Q: Where is the clock? — A: It's on the wall, __________ the door.【在…上方】",
+    "question": "Your book is __________ the desk. I put it there, next to your pencil case.",
     "options": [
      {
       "letter": "A",
+      "text": "on"
+     },
+     {
+      "letter": "B",
       "text": "at"
+     },
+     {
+      "letter": "C",
+      "text": "to"
+     },
+     {
+      "letter": "D",
+      "text": "of"
+     }
+    ],
+    "answer": "A",
+    "vi": 3
+   },
+   {
+    "question": "The plane is flying __________ the clouds. We can see them far below us.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "under"
      },
      {
       "letter": "B",
@@ -605,18 +605,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "from"
+      "text": "below"
      },
      {
       "letter": "D",
-      "text": "after"
+      "text": "behind"
      }
     ],
     "answer": "B",
     "vi": 4
    },
    {
-    "question": "Q: Where does Mom hang the lamp? — A: She hangs it __________ the table.【在…正上方；越過】",
+    "question": "The dog jumped __________ the wall and ran away.",
     "options": [
      {
       "letter": "A",
@@ -624,72 +624,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "until"
+      "text": "under"
      },
      {
       "letter": "C",
-      "text": "with"
+      "text": "between"
      },
      {
       "letter": "D",
-      "text": "between"
+      "text": "during"
      }
     ],
     "answer": "A",
     "vi": 5
    },
    {
-    "question": "Q: Where are my shoes? — A: They are __________ the bed.【在…下面】",
+    "question": "The cat is hiding __________ the bed. I can only see its tail on the floor.",
     "options": [
      {
       "letter": "A",
-      "text": "into"
+      "text": "above"
      },
      {
       "letter": "B",
-      "text": "around"
-     },
-     {
-      "letter": "C",
-      "text": "under"
-     },
-     {
-      "letter": "D",
-      "text": "after"
-     }
-    ],
-    "answer": "C",
-    "vi": 6
-   },
-   {
-    "question": "Q: Where do you write your name? — A: I write it __________ the picture.【在…下方】",
-    "options": [
-     {
-      "letter": "A",
       "text": "over"
      },
      {
-      "letter": "B",
+      "letter": "C",
       "text": "on"
      },
      {
-      "letter": "C",
-      "text": "at"
-     },
-     {
       "letter": "D",
-      "text": "below"
+      "text": "under"
      }
     ],
     "answer": "D",
-    "vi": 7
+    "vi": 6
    },
    {
-    "question": "Q: Where is the dog? — A: It's __________ the door.【在…後面】",
+    "question": "The temperature is five degrees __________ zero. It is freezing outside!",
     "options": [
      {
       "letter": "A",
-      "text": "by"
+      "text": "above"
      },
      {
       "letter": "B",
@@ -697,49 +674,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "except"
+      "text": "below"
      },
      {
       "letter": "D",
-      "text": "inside"
+      "text": "beside"
      }
     ],
-    "answer": "B",
-    "vi": 8
+    "answer": "C",
+    "vi": 7
    },
    {
-    "question": "Q: Where does Amy sit in class? — A: She sits __________ me.【在…旁邊】",
+    "question": "Tom sits __________ me in class. When I turn around, I can see him.",
     "options": [
      {
       "letter": "A",
-      "text": "beside"
+      "text": "behind"
      },
      {
       "letter": "B",
-      "text": "for"
+      "text": "above"
      },
      {
       "letter": "C",
-      "text": "down"
+      "text": "below"
      },
      {
       "letter": "D",
-      "text": "above"
+      "text": "between"
      }
     ],
     "answer": "A",
-    "vi": 9
+    "vi": 8
    },
    {
-    "question": "Q: Where do your grandparents live? — A: They live __________ the park.【在…附近】",
+    "question": "Come and sit __________ me on the sofa. There is room for one more.",
     "options": [
      {
       "letter": "A",
-      "text": "at"
+      "text": "above"
      },
      {
       "letter": "B",
-      "text": "than"
+      "text": "beside"
+     },
+     {
+      "letter": "C",
+      "text": "below"
+     },
+     {
+      "letter": "D",
+      "text": "through"
+     }
+    ],
+    "answer": "B",
+    "vi": 9
+   },
+   {
+    "question": "My house is __________ the school. I can walk there in five minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "above"
+     },
+     {
+      "letter": "B",
+      "text": "below"
      },
      {
       "letter": "C",
@@ -747,26 +747,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "up"
+      "text": "through"
      }
     ],
     "answer": "C",
     "vi": 10
    },
    {
-    "question": "Q: Where is the bank? — A: It's __________ the post office and the hospital.【在…之間】",
+    "question": "The bank is __________ the post office and the bookstore. It is in the middle.",
     "options": [
      {
       "letter": "A",
-      "text": "after"
+      "text": "above"
      },
      {
       "letter": "B",
-      "text": "through"
+      "text": "below"
      },
      {
       "letter": "C",
-      "text": "before"
+      "text": "through"
      },
      {
       "letter": "D",
@@ -777,61 +777,61 @@ window.FLASHCARD_UNITS = {
     "vi": 11
    },
    {
-    "question": "Q: Where do the students sit? — A: They sit __________ the table.【在…四周】",
+    "question": "The earth moves __________ the sun. It takes one year to go once.",
     "options": [
      {
       "letter": "A",
+      "text": "between"
+     },
+     {
+      "letter": "B",
       "text": "around"
      },
      {
-      "letter": "B",
-      "text": "off"
-     },
-     {
       "letter": "C",
-      "text": "at"
+      "text": "below"
      },
      {
       "letter": "D",
-      "text": "in"
-     }
-    ],
-    "answer": "A",
-    "vi": 12
-   },
-   {
-    "question": "Q: What time does Ben get up? — A: He gets up __________ seven o'clock.【在（時間點）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "for"
-     },
-     {
-      "letter": "B",
-      "text": "at"
-     },
-     {
-      "letter": "C",
-      "text": "than"
-     },
-     {
-      "letter": "D",
-      "text": "after"
+      "text": "through"
      }
     ],
     "answer": "B",
-    "vi": 13
+    "vi": 12
    },
    {
-    "question": "Q: When do you do your homework? — A: I do it __________ dinner.【在…之前】",
+    "question": "The movie starts __________ seven thirty. Don't be late.",
     "options": [
      {
       "letter": "A",
-      "text": "through"
+      "text": "at"
      },
      {
       "letter": "B",
-      "text": "for"
+      "text": "in"
+     },
+     {
+      "letter": "C",
+      "text": "on"
+     },
+     {
+      "letter": "D",
+      "text": "during"
+     }
+    ],
+    "answer": "A",
+    "vi": 13
+   },
+   {
+    "question": "Wash your hands __________ dinner. They must be clean when you eat.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "after"
+     },
+     {
+      "letter": "B",
+      "text": "since"
      },
      {
       "letter": "C",
@@ -839,26 +839,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "above"
+      "text": "from"
      }
     ],
     "answer": "C",
     "vi": 14
    },
    {
-    "question": "Q: When does your sister play the piano? — A: She plays it __________ school.【在…之後】",
+    "question": "I am very full __________ a big dinner. I can't eat any dessert now.",
     "options": [
      {
       "letter": "A",
-      "text": "into"
+      "text": "before"
      },
      {
       "letter": "B",
-      "text": "under"
+      "text": "since"
      },
      {
       "letter": "C",
-      "text": "of"
+      "text": "until"
      },
      {
       "letter": "D",
@@ -869,15 +869,15 @@ window.FLASHCARD_UNITS = {
     "vi": 15
    },
    {
-    "question": "Q: When do you visit your grandma? — A: I visit her __________ the summer vacation.【在…期間】",
+    "question": "Please don't talk __________ the test. You can talk when it is over.",
     "options": [
      {
       "letter": "A",
-      "text": "for"
+      "text": "since"
      },
      {
       "letter": "B",
-      "text": "before"
+      "text": "from"
      },
      {
       "letter": "C",
@@ -885,26 +885,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "to"
+      "text": "between"
      }
     ],
     "answer": "C",
     "vi": 16
    },
    {
-    "question": "Q: When does Mr. Lin work? — A: He works __________ Monday to Friday.【從】",
+    "question": "The store is open __________ nine in the morning to ten at night.",
     "options": [
      {
       "letter": "A",
-      "text": "near"
+      "text": "since"
      },
      {
       "letter": "B",
-      "text": "about"
+      "text": "until"
      },
      {
       "letter": "C",
-      "text": "outside"
+      "text": "during"
      },
      {
       "letter": "D",
@@ -915,30 +915,7 @@ window.FLASHCARD_UNITS = {
     "vi": 17
    },
    {
-    "question": "Q: How long do you stay at school? — A: I stay at school __________ five o'clock.【直到】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "of"
-     },
-     {
-      "letter": "B",
-      "text": "until"
-     },
-     {
-      "letter": "C",
-      "text": "under"
-     },
-     {
-      "letter": "D",
-      "text": "at"
-     }
-    ],
-    "answer": "B",
-    "vi": 18
-   },
-   {
-    "question": "Q: How long has your family lived in Taipei? — A: We have lived here __________ 2020.【自從】",
+    "question": "I waited for you __________ ten o'clock last night. Then I went to bed.",
     "options": [
      {
       "letter": "A",
@@ -946,145 +923,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "before"
+      "text": "until"
      },
      {
       "letter": "C",
-      "text": "by"
+      "text": "from"
      },
      {
       "letter": "D",
-      "text": "without"
+      "text": "between"
+     }
+    ],
+    "answer": "B",
+    "vi": 18
+   },
+   {
+    "question": "I have lived in Taipei __________ 2015. That is more than ten years.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "since"
+     },
+     {
+      "letter": "B",
+      "text": "until"
+     },
+     {
+      "letter": "C",
+      "text": "during"
+     },
+     {
+      "letter": "D",
+      "text": "between"
      }
     ],
     "answer": "A",
     "vi": 19
    },
    {
-    "question": "Q: Where does your brother go every morning? — A: He goes __________ school by bus.【到；往】",
+    "question": "I walk __________ school every morning. It takes ten minutes.",
     "options": [
      {
       "letter": "A",
-      "text": "with"
+      "text": "of"
      },
      {
       "letter": "B",
-      "text": "over"
-     },
-     {
-      "letter": "C",
-      "text": "except"
-     },
-     {
-      "letter": "D",
-      "text": "to"
-     }
-    ],
-    "answer": "D",
-    "vi": 20
-   },
-   {
-    "question": "Q: What does the cat do? — A: It jumps __________ the box.【進入…之內】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "inside"
-     },
-     {
-      "letter": "B",
-      "text": "into"
-     },
-     {
-      "letter": "C",
       "text": "off"
      },
      {
-      "letter": "D",
-      "text": "behind"
-     }
-    ],
-    "answer": "B",
-    "vi": 21
-   },
-   {
-    "question": "Q: Where do the kids run when the bell rings? — A: They run __________ of the classroom.【向外；在外】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "now"
-     },
-     {
-      "letter": "B",
-      "text": "actually"
-     },
-     {
       "letter": "C",
-      "text": "out"
+      "text": "to"
      },
      {
       "letter": "D",
-      "text": "late"
+      "text": "with"
      }
     ],
     "answer": "C",
-    "vi": 22
+    "vi": 20
    },
    {
-    "question": "Q: What do you do at the door? — A: I take __________ my shoes.【離開；脫掉】",
+    "question": "The boy jumped __________ the pool and started to swim.",
     "options": [
      {
       "letter": "A",
-      "text": "off"
+      "text": "of"
      },
      {
       "letter": "B",
-      "text": "to"
-     },
-     {
-      "letter": "C",
-      "text": "by"
-     },
-     {
-      "letter": "D",
       "text": "for"
-     }
-    ],
-    "answer": "A",
-    "vi": 23
-   },
-   {
-    "question": "Q: Where does the monkey go? — A: It climbs __________ the tree.【向上】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "by"
-     },
-     {
-      "letter": "B",
-      "text": "up"
-     },
-     {
-      "letter": "C",
-      "text": "before"
-     },
-     {
-      "letter": "D",
-      "text": "until"
-     }
-    ],
-    "answer": "B",
-    "vi": 24
-   },
-   {
-    "question": "Q: What do the kids do on the slide? — A: They go __________ the slide.【向下】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "for"
-     },
-     {
-      "letter": "B",
-      "text": "off"
      },
      {
       "letter": "C",
@@ -1092,22 +1000,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "down"
+      "text": "into"
      }
     ],
     "answer": "D",
-    "vi": 25
+    "vi": 21
    },
    {
-    "question": "Q: Where does Grandpa walk every evening? — A: He walks __________ the river.【沿著】",
+    "question": "Take your books __________ of your bag and put them on the desk.",
     "options": [
      {
       "letter": "A",
-      "text": "between"
+      "text": "down"
      },
      {
       "letter": "B",
-      "text": "without"
+      "text": "out"
      },
      {
       "letter": "C",
@@ -1115,229 +1023,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "since"
-     }
-    ],
-    "answer": "C",
-    "vi": 26
-   },
-   {
-    "question": "Q: How do I get to the bank? — A: Walk __________ the street. It's next to the park.【橫越；在…對面】",
-    "options": [
-     {
-      "letter": "A",
       "text": "across"
-     },
-     {
-      "letter": "B",
-      "text": "except"
-     },
-     {
-      "letter": "C",
-      "text": "through"
-     },
-     {
-      "letter": "D",
-      "text": "since"
-     }
-    ],
-    "answer": "A",
-    "vi": 27
-   },
-   {
-    "question": "Q: Does Amy walk __________ the park to school? — A: Yes, she does. It's a short way.【穿過】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "since"
-     },
-     {
-      "letter": "B",
-      "text": "about"
-     },
-     {
-      "letter": "C",
-      "text": "after"
-     },
-     {
-      "letter": "D",
-      "text": "through"
-     }
-    ],
-    "answer": "D",
-    "vi": 28
-   },
-   {
-    "question": "Q: What do your friends often talk __________? — A: They often talk about soccer.【關於】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "around"
-     },
-     {
-      "letter": "B",
-      "text": "after"
-     },
-     {
-      "letter": "C",
-      "text": "about"
-     },
-     {
-      "letter": "D",
-      "text": "for"
-     }
-    ],
-    "answer": "C",
-    "vi": 29
-   },
-   {
-    "question": "Q: Who is this gift __________? — A: It's for my dad. His birthday is tomorrow.【為了；給】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "than"
-     },
-     {
-      "letter": "B",
-      "text": "for"
-     },
-     {
-      "letter": "C",
-      "text": "down"
-     },
-     {
-      "letter": "D",
-      "text": "behind"
      }
     ],
     "answer": "B",
-    "vi": 30
+    "vi": 22
    },
    {
-    "question": "Q: What is this a picture __________? — A: It's a picture of my family.【…的】",
+    "question": "Please take __________ your shoes before you come in.",
     "options": [
      {
       "letter": "A",
+      "text": "off"
+     },
+     {
+      "letter": "B",
       "text": "of"
      },
      {
+      "letter": "C",
+      "text": "from"
+     },
+     {
+      "letter": "D",
+      "text": "to"
+     }
+    ],
+    "answer": "A",
+    "vi": 23
+   },
+   {
+    "question": "The cat climbed __________ the tree and couldn't come down.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "under"
+     },
+     {
       "letter": "B",
+      "text": "of"
+     },
+     {
+      "letter": "C",
+      "text": "at"
+     },
+     {
+      "letter": "D",
       "text": "up"
-     },
-     {
-      "letter": "C",
-      "text": "down"
-     },
-     {
-      "letter": "D",
-      "text": "off"
-     }
-    ],
-    "answer": "A",
-    "vi": 31
-   },
-   {
-    "question": "Q: Who does Amy go to the park __________? — A: She goes there with her dog.【和；用】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "in"
-     },
-     {
-      "letter": "B",
-      "text": "with"
-     },
-     {
-      "letter": "C",
-      "text": "about"
-     },
-     {
-      "letter": "D",
-      "text": "into"
-     }
-    ],
-    "answer": "B",
-    "vi": 32
-   },
-   {
-    "question": "Q: Does Grandpa read __________ his glasses? — A: No, he doesn't. He can't see without them.【沒有】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "since"
-     },
-     {
-      "letter": "B",
-      "text": "below"
-     },
-     {
-      "letter": "C",
-      "text": "without"
-     },
-     {
-      "letter": "D",
-      "text": "down"
-     }
-    ],
-    "answer": "C",
-    "vi": 33
-   },
-   {
-    "question": "Q: What does this candy taste __________? — A: It tastes like strawberries.【像；如】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "like"
-     },
-     {
-      "letter": "B",
-      "text": "around"
-     },
-     {
-      "letter": "C",
-      "text": "without"
-     },
-     {
-      "letter": "D",
-      "text": "on"
-     }
-    ],
-    "answer": "A",
-    "vi": 34
-   },
-   {
-    "question": "Q: How do you go to Tainan? — A: We go there __________ train.【藉著；搭乘】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "about"
-     },
-     {
-      "letter": "B",
-      "text": "like"
-     },
-     {
-      "letter": "C",
-      "text": "with"
-     },
-     {
-      "letter": "D",
-      "text": "by"
      }
     ],
     "answer": "D",
-    "vi": 35
+    "vi": 24
    },
    {
-    "question": "Q: Who is taller, you or your brother? — A: My brother is taller __________ me.【比】",
+    "question": "The ball rolled __________ the hill and into the river.",
     "options": [
      {
       "letter": "A",
-      "text": "near"
+      "text": "up"
      },
      {
       "letter": "B",
-      "text": "than"
+      "text": "of"
      },
      {
       "letter": "C",
@@ -1348,19 +1095,134 @@ window.FLASHCARD_UNITS = {
       "text": "at"
      }
     ],
-    "answer": "B",
-    "vi": 36
+    "answer": "C",
+    "vi": 25
    },
    {
-    "question": "Q: Do all your classmates like PE? — A: Yes, they do. Everyone likes PE __________ Tom.【除了…之外】",
+    "question": "We walked __________ the river for an hour and enjoyed the trees on both sides.",
     "options": [
      {
       "letter": "A",
-      "text": "except"
+      "text": "of"
      },
      {
       "letter": "B",
-      "text": "after"
+      "text": "along"
+     },
+     {
+      "letter": "C",
+      "text": "at"
+     },
+     {
+      "letter": "D",
+      "text": "than"
+     }
+    ],
+    "answer": "B",
+    "vi": 26
+   },
+   {
+    "question": "There is a bridge __________ the river. We can walk to the other side.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "across"
+     },
+     {
+      "letter": "B",
+      "text": "of"
+     },
+     {
+      "letter": "C",
+      "text": "at"
+     },
+     {
+      "letter": "D",
+      "text": "during"
+     }
+    ],
+    "answer": "A",
+    "vi": 27
+   },
+   {
+    "question": "The train goes __________ a long tunnel in the mountain. It is dark inside for five minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "above"
+     },
+     {
+      "letter": "B",
+      "text": "through"
+     },
+     {
+      "letter": "C",
+      "text": "of"
+     },
+     {
+      "letter": "D",
+      "text": "at"
+     }
+    ],
+    "answer": "B",
+    "vi": 28
+   },
+   {
+    "question": "This book is __________ animals in Africa. It tells us how lions and elephants live.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "of"
+     },
+     {
+      "letter": "B",
+      "text": "than"
+     },
+     {
+      "letter": "C",
+      "text": "except"
+     },
+     {
+      "letter": "D",
+      "text": "about"
+     }
+    ],
+    "answer": "D",
+    "vi": 29
+   },
+   {
+    "question": "I bought a present __________ my mother. Tomorrow is her birthday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "of"
+     },
+     {
+      "letter": "B",
+      "text": "about"
+     },
+     {
+      "letter": "C",
+      "text": "for"
+     },
+     {
+      "letter": "D",
+      "text": "than"
+     }
+    ],
+    "answer": "C",
+    "vi": 30
+   },
+   {
+    "question": "The color __________ the sky is blue on sunny days.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "of"
+     },
+     {
+      "letter": "B",
+      "text": "at"
      },
      {
       "letter": "C",
@@ -1368,13 +1230,151 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "until"
+      "text": "than"
      }
     ],
     "answer": "A",
+    "vi": 31
+   },
+   {
+    "question": "I write __________ my left hand. I eat with it, too.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "of"
+     },
+     {
+      "letter": "B",
+      "text": "at"
+     },
+     {
+      "letter": "C",
+      "text": "about"
+     },
+     {
+      "letter": "D",
+      "text": "with"
+     }
+    ],
+    "answer": "D",
+    "vi": 32
+   },
+   {
+    "question": "Fish can't live __________ water. They die very fast on land.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "with"
+     },
+     {
+      "letter": "B",
+      "text": "along"
+     },
+     {
+      "letter": "C",
+      "text": "without"
+     },
+     {
+      "letter": "D",
+      "text": "across"
+     }
+    ],
+    "answer": "C",
+    "vi": 33
+   },
+   {
+    "question": "The baby looks __________ her mother. They have the same eyes and nose.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "like"
+     },
+     {
+      "letter": "B",
+      "text": "of"
+     },
+     {
+      "letter": "C",
+      "text": "than"
+     },
+     {
+      "letter": "D",
+      "text": "except"
+     }
+    ],
+    "answer": "A",
+    "vi": 34
+   },
+   {
+    "question": "I go to school __________ bus every day. It takes twenty minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "with"
+     },
+     {
+      "letter": "B",
+      "text": "by"
+     },
+     {
+      "letter": "C",
+      "text": "of"
+     },
+     {
+      "letter": "D",
+      "text": "at"
+     }
+    ],
+    "answer": "B",
+    "vi": 35
+   },
+   {
+    "question": "My brother is taller __________ me. He is 180 centimeters, and I am 165.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "of"
+     },
+     {
+      "letter": "B",
+      "text": "for"
+     },
+     {
+      "letter": "C",
+      "text": "except"
+     },
+     {
+      "letter": "D",
+      "text": "than"
+     }
+    ],
+    "answer": "D",
+    "vi": 36
+   },
+   {
+    "question": "The store is open every day __________ Monday. It is closed on that day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "than"
+     },
+     {
+      "letter": "B",
+      "text": "except"
+     },
+     {
+      "letter": "C",
+      "text": "of"
+     },
+     {
+      "letter": "D",
+      "text": "about"
+     }
+    ],
+    "answer": "B",
     "vi": 37
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"now":["at this time","現在"],"late":["after the usual time; near the end of the day","晚；晚的"],"in":["inside a place or a thing","在…裡面"],"inside":["in the inner part of something","在…內部"],"outside":["not in a building or a room; on the outer side","在…外面"],"on":["touching the top of something","在…上面"],"above":["higher than something, not touching it","在…上方"],"over":["right above something; across the top of something","在…正上方；越過"],"under":["lower than something; with something on top","在…下面"],"below":["in a lower place than something","在…下方"],"behind":["at the back of something","在…後面"],"beside":["next to; at the side of","在…旁邊"],"near":["not far from","在…附近"],"between":["in the middle of two people or things","在…之間"],"around":["on all sides of something","在…四周"],"at":["used to show an exact time or place","在（時間點）"],"before":["earlier than","在…之前"],"after":["later than","在…之後"],"during":["all through a time","在…期間"],"from":["starting at a place or a time","從"],"until":["up to a time","直到"],"since":["from a time in the past up to now","自從"],"to":["in the direction of a place","到；往"],"into":["to the inside of something","進入…之內"],"out":["away from the inside of a place","向外；在外"],"off":["away from; no longer on your body","離開；脫掉"],"up":["to a higher place","向上"],"down":["to a lower place","向下"],"along":["from one end of a road or river toward the other","沿著"],"across":["from one side to the other side of something","橫越；在…對面"],"through":["in one side of something and out the other side","穿過"],"about":["on the subject of","關於"],"for":["meant to be given to or used by someone","為了；給"],"of":["belonging to; showing what something is about","…的"],"with":["together; using something","和；用"],"without":["not having something","沒有"],"like":["almost the same as","像；如"],"by":["using a kind of transportation","藉著；搭乘"],"than":["used when you compare two people or things","比"],"except":["but not; not including","除了…之外"],"actually":["in fact; really","事實上"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"at":["used to show an exact time or place","在（時間點）"],"in":["","在…裡面"],"to":["in the direction of a place","到；往"],"of":["belonging to; showing what something is about","…的"],"outside":["not in a building or a room; on the outer side","在…外面"],"above":["higher than something, not touching it","在…上方"],"inside":["in the inner part of something","在…內部"],"below":["in a lower place than something","在…下方"],"under":["lower than something; with something on top","在…下面"],"on":["","在…上面"],"behind":["at the back of something","在…後面"],"over":["right above something; across the top of something","在…正上方；越過"],"between":["in the middle of two people or things","在…之間"],"during":["all through a time","在…期間"],"beside":["next to; at the side of","在…旁邊"],"through":["in one side of something and out the other side","穿過"],"near":["not far from","在…附近"],"around":["on all sides of something","在…四周"],"after":["later than","在…之後"],"since":["from a time in the past up to now","自從"],"before":["earlier than","在…之前"],"from":["starting at a place or a time","從"],"until":["up to a time","直到"],"off":["away from; no longer on your body","離開；脫掉"],"with":["","和；用"],"for":["meant to be given to or used by someone","為了；給"],"into":["to the inside of something","進入…之內"],"down":["to a lower place","向下"],"out":["away from the inside of a place","向外；在外"],"along":["from one end of a road or river toward the other","沿著"],"across":["from one side to the other side of something","橫越；在…對面"],"up":["to a higher place","向上"],"than":["used when you compare two people or things","比"],"except":["but not; not including","除了…之外"],"about":["on the subject of","關於"],"without":["not having something","沒有"],"like":["almost the same as","像；如"],"by":["using a kind of transportation","藉著；搭乘"]});

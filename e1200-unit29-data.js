@@ -82,35 +82,35 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: ______ your parents at home now? — A: No, they aren't. They are at work.【是；在】",
+    "q": "Tom and Ben ______ brothers. They look very much alike.",
     "options": [
-      "Have",
-      "Does",
-      "Are",
-      "Rain"
+      "do",
+      "are",
+      "have",
+      "can"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你爸媽現在在家嗎？ — 不，他們不在。他們在上班。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: ______ your sister do her homework after dinner? — A: Yes, she does. She does her homework at eight.【做】",
+    "q": "What ______ your father do? He is a doctor.",
     "options": [
-      "Does",
-      "Are",
-      "Have",
-      "Knows"
+      "are",
+      "have",
+      "does",
+      "must"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你妹妹晚餐後寫功課嗎？ — 是的，她會。她八點寫功課。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: Do your grandparents ______ a pet? — A: Yes, they do. They have a cat. My uncle has two dogs.【有】",
+    "q": "I ______ two sisters and one brother. There are six people in my family.",
     "options": [
       "are",
       "does",
-      "try",
+      "should",
       "have"
     ],
     "answer": 3,
@@ -118,23 +118,23 @@ const MCQS = [
     "vocabIndex": 2
   },
   {
-    "q": "Q: ______ your brother swim? — A: Yes, he can. He can swim very fast.【能夠；會】",
+    "q": "Birds ______ fly, but pigs can't. Fish are good at swimming, but they are not able to walk.",
     "options": [
-      "May",
-      "Can",
-      "Should",
-      "Could"
+      "can",
+      "does",
+      "are",
+      "have"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你哥哥會游泳嗎？ — 是的，他會。他游得很快。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: ______ you help me, please? — A: Sure. What can I do for you?【能；可以（客氣）】",
+    "q": "______ you open the window, please? It is very hot in here.",
     "options": [
-      "Will",
-      "May",
-      "Can",
+      "Must",
+      "Are",
+      "Have",
       "Could"
     ],
     "answer": 3,
@@ -142,48 +142,48 @@ const MCQS = [
     "vocabIndex": 4
   },
   {
-    "q": "Q: ______ I use your eraser? — A: Yes, you may. Here you are.【可以；可能】",
+    "q": "______ I come in? Yes, please sit down.",
     "options": [
+      "Are",
       "May",
-      "Could",
-      "Must",
-      "Can"
+      "Does",
+      "Have"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "我可以用你的橡皮擦嗎？ — 可以，拿去吧。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: ______ your mom cook dinner tonight? — A: No, she won't. We will eat out tonight.【將會】",
+    "q": "It ______ rain tomorrow, so the picnic will be on Sunday.",
     "options": [
-      "May",
-      "Will",
-      "Could",
-      "Can"
+      "will",
+      "have",
+      "are",
+      "does"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你媽媽今晚會煮晚餐嗎？ — 不，她不會。我們今晚要去外面吃。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: ______ we wear our uniforms on Monday? — A: Yes, we must. It's a school rule.【必須】",
+    "q": "You ______ stop when the traffic light is red. It is the law.",
     "options": [
-      "Could",
-      "Will",
-      "Must",
-      "Can"
+      "are",
+      "have",
+      "must",
+      "does"
     ],
     "answer": 2,
     "cn": "我們星期一必須穿制服嗎？ — 是的，必須。這是校規。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: ______ Tom go to bed early tonight? — A: Yes, he should. He has a test tomorrow.【應該】",
+    "q": "You look tired. You ______ go to bed early tonight.",
     "options": [
-      "Should",
-      "Must",
-      "May",
-      "Can"
+      "should",
+      "are",
+      "have",
+      "does"
     ],
     "answer": 0,
     "cn": "湯姆今晚應該早點睡嗎？ — 是的，他應該。他明天有考試。",
@@ -192,25 +192,15 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "may": {
-    "pos": "n.",
-    "en_def": "the fifth month of the year",
-    "cn_def": "五月"
-  },
-  "rain": {
+  "do": {
     "pos": "v.",
-    "en_def": "when water falls from the clouds",
-    "cn_def": "下雨"
+    "en_def": "",
+    "cn_def": "做"
   },
   "are": {
     "pos": "v.",
     "en_def": "am, is, or are; to exist or to be in a place",
     "cn_def": "是；在"
-  },
-  "does": {
-    "pos": "v.",
-    "en_def": "to act; also used to make questions",
-    "cn_def": "做"
   },
   "have": {
     "pos": "v.",
@@ -222,15 +212,10 @@ const LOOKUP = {
     "en_def": "to be able to do something",
     "cn_def": "能夠；會"
   },
-  "could": {
-    "pos": "aux.",
-    "en_def": "a polite word for asking someone to do something",
-    "cn_def": "能；可以（客氣）"
-  },
-  "will": {
-    "pos": "aux.",
-    "en_def": "used to talk about the future",
-    "cn_def": "將會"
+  "does": {
+    "pos": "v.",
+    "en_def": "to act; also used to make questions",
+    "cn_def": "做"
   },
   "must": {
     "pos": "aux.",
@@ -242,15 +227,20 @@ const LOOKUP = {
     "en_def": "used to say what is right or good to do",
     "cn_def": "應該"
   },
-  "knows": {
-    "pos": "v.",
-    "en_def": "to have something in your mind; to have met someone before",
-    "cn_def": "知道；認識"
+  "could": {
+    "pos": "aux.",
+    "en_def": "a polite word for asking someone to do something",
+    "cn_def": "能；可以（客氣）"
   },
-  "try": {
-    "pos": "v.",
-    "en_def": "to see if you can do something",
-    "cn_def": "嘗試；試"
+  "may": {
+    "pos": "n.",
+    "en_def": "the fifth month of the year",
+    "cn_def": "五月"
+  },
+  "will": {
+    "pos": "aux.",
+    "en_def": "used to talk about the future",
+    "cn_def": "將會"
   }
 };
 

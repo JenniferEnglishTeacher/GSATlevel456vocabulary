@@ -1993,7 +1993,7 @@ const LOOKUP = {
   },
   "studies": {
     "pos": "v.",
-    "en_def": "to read and work to learn something",
+    "en_def": "",
     "cn_def": "讀書；學習"
   },
   "explain": {

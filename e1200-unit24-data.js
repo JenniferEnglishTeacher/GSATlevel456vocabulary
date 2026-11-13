@@ -106,144 +106,144 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: Is this an old ______? — A: Yes, it is. There are many old houses near the station.【地區】",
+    "q": "Many families live in this ______ of the city because there are good schools and parks here.",
     "options": [
-      "bank",
-      "pond",
       "area",
-      "river"
+      "island",
+      "river",
+      "pond"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "這是一個老地區嗎？ — 是的，車站附近有很多老房子。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: What is there near your school? — A: There is a small ______ near my school. We often walk up it.【小山】",
+    "q": "There is a small ______ behind our school. We can walk to the top in ten minutes.",
     "options": [
-      "sea",
+      "pond",
       "hill",
-      "bank",
-      "pool"
+      "lake",
+      "sea"
     ],
     "answer": 1,
     "cn": "你的學校附近有什麼？ — 我的學校附近有一座小山，我們常常走上去。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: Are there any mountains near Taipei? — A: Yes, there are. There are many high ______ near Taipei.【山】",
+    "q": "Taiwan has many high ______. More than two hundred of them are over 3,000 meters.",
     "options": [
-      "islands",
-      "pond",
-      "bank",
-      "mountains"
+      "ponds",
+      "beaches",
+      "mountains",
+      "pools"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "台北附近有山嗎？ — 有，台北附近有很多高山。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: What is there near Taiwan? — A: There are many small ______ near Taiwan, like Green Island.【島嶼】",
+    "q": "Japan has four big ______ and many small ones. There is sea all around each of them.",
     "options": [
-      "islands",
-      "mountains",
-      "pool",
-      "lake"
+      "hills",
+      "rivers",
+      "lakes",
+      "islands"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "台灣附近有什麼？ — 台灣附近有很多小島，像是綠島。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: Is there a ______ in the park? — A: Yes, there is. There are many fish and frogs in it.【池塘】",
+    "q": "There is a small ______ in the park. Ducks swim in it, and children feed the fish there.",
     "options": [
-      "sea",
+      "pond",
+      "hill",
       "beach",
-      "area",
-      "pond"
+      "island"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "公園裡有池塘嗎？ — 有，裡面有很多魚和青蛙。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: What can you do at the ______? — A: I can play in the sand and swim in the sea.【海灘】",
+    "q": "We played in the sand at the ______ and watched the waves all day.",
     "options": [
-      "pool",
+      "hill",
       "pond",
-      "beach",
-      "hill"
+      "lake",
+      "beach"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "你在海灘可以做什麼？ — 我可以玩沙，也可以在海裡游泳。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: What can your brother do in the ______? — A: He can swim and look at the fish.【海】",
+    "q": "Whales and sharks live in the ______. Its water is salty, so we can't drink it.",
     "options": [
-      "lake",
-      "sea",
+      "pond",
       "pool",
-      "bank"
+      "sea",
+      "spring"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你哥哥在海裡可以做什麼？ — 他可以游泳和看魚。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: What can we do at the swimming ______? — A: We can swim and play in the water. But don't run there.【游泳池】",
+    "q": "We can't go to the beach, so let's swim in the ______ at the sports center.",
     "options": [
+      "hill",
       "pool",
-      "river",
-      "area",
-      "beach"
+      "bank",
+      "area"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "我們在游泳池可以做什麼？ — 我們可以游泳、玩水，但不要在那裡跑。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: What does your grandpa do on Sundays? — A: He goes fishing by the ______.【河】",
+    "q": "The Tamsui ______ runs through Taipei and goes into the sea.",
     "options": [
-      "area",
-      "hill",
-      "bank",
-      "river"
+      "River",
+      "Hill",
+      "Island",
+      "Beach"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你爺爺星期天做什麼？ — 他去河邊釣魚。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: Where do you and your friends ride bikes? — A: We ride bikes along the river ______.【（河）岸；堤】",
+    "q": "We sat on the ______ of the river and fished all afternoon.",
     "options": [
-      "pond",
+      "sea",
       "bank",
-      "hill",
-      "sea"
+      "pool",
+      "island"
     ],
     "answer": 1,
     "cn": "你和你的朋友在哪裡騎腳踏車？ — 我們沿著河岸騎腳踏車。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: Where does Amy go on vacation? — A: She goes to Sun Moon ______. She takes a boat there.【湖】",
+    "q": "Sun Moon ______ is in the middle of Taiwan. Many visitors take a boat on its beautiful water.",
     "options": [
-      "lake",
-      "pond",
-      "pool",
-      "sea"
+      "Hill",
+      "Beach",
+      "Sea",
+      "Lake"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "艾美放假去哪裡？ — 她去日月潭，她在那裡搭船。",
     "vocabIndex": 10
   },
   {
-    "q": "Q: What do people do in Beitou in winter? — A: They take a bath in a hot ______.【泉】",
+    "q": "People love to sit in the hot ______ in Beitou in winter. The warm water comes up from under the ground.",
     "options": [
-      "area",
-      "lake",
+      "beach",
+      "hill",
       "spring",
-      "bank"
+      "island"
     ],
     "answer": 2,
     "cn": "人們冬天在北投做什麼？ — 他們去泡溫泉。",
@@ -252,10 +252,80 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "spring": {
+  "area": {
     "pos": "n.",
-    "en_def": "the season after winter, when flowers start to grow",
-    "cn_def": "春天"
+    "en_def": "a part of a place, a city, or a country",
+    "cn_def": "地區"
+  },
+  "island": {
+    "pos": "n.",
+    "en_def": "a piece of land with water all around it",
+    "cn_def": "島嶼"
+  },
+  "river": {
+    "pos": "n.",
+    "en_def": "a long line of water that runs to the sea",
+    "cn_def": "河"
+  },
+  "pond": {
+    "pos": "n.",
+    "en_def": "a small area of water, smaller than a lake",
+    "cn_def": "池塘"
+  },
+  "hill": {
+    "pos": "n.",
+    "en_def": "a high piece of land, smaller than a mountain",
+    "cn_def": "小山"
+  },
+  "lake": {
+    "pos": "n.",
+    "en_def": "a big area of water with land all around it",
+    "cn_def": "湖"
+  },
+  "sea": {
+    "pos": "n.",
+    "en_def": "the salt water that covers much of the earth",
+    "cn_def": "海"
+  },
+  "ponds": {
+    "pos": "n.",
+    "en_def": "a small area of water, smaller than a lake",
+    "cn_def": "池塘"
+  },
+  "beaches": {
+    "pos": "n.",
+    "en_def": "a place with sand next to the sea",
+    "cn_def": "海灘"
+  },
+  "mountains": {
+    "pos": "n.",
+    "en_def": "a very high piece of land",
+    "cn_def": "山"
+  },
+  "pools": {
+    "pos": "n.",
+    "en_def": "a place full of water for swimming",
+    "cn_def": "游泳池"
+  },
+  "hills": {
+    "pos": "n.",
+    "en_def": "a high piece of land, smaller than a mountain",
+    "cn_def": "小山"
+  },
+  "rivers": {
+    "pos": "n.",
+    "en_def": "a long line of water that runs to the sea",
+    "cn_def": "河"
+  },
+  "lakes": {
+    "pos": "n.",
+    "en_def": "a big area of water with land all around it",
+    "cn_def": "湖"
+  },
+  "islands": {
+    "pos": "n.",
+    "en_def": "a piece of land with water all around it",
+    "cn_def": "島嶼"
   },
   "beach": {
     "pos": "n.",
@@ -267,50 +337,15 @@ const LOOKUP = {
     "en_def": "a place full of water for swimming",
     "cn_def": "游泳池"
   },
+  "spring": {
+    "pos": "n.",
+    "en_def": "the season after winter, when flowers start to grow",
+    "cn_def": "春天"
+  },
   "bank": {
     "pos": "n.",
     "en_def": "a place where people keep their money",
     "cn_def": "銀行"
-  },
-  "area": {
-    "pos": "n.",
-    "en_def": "a part of a place, a city, or a country",
-    "cn_def": "地區"
-  },
-  "hill": {
-    "pos": "n.",
-    "en_def": "a high piece of land, smaller than a mountain",
-    "cn_def": "小山"
-  },
-  "mountains": {
-    "pos": "n.",
-    "en_def": "a very high piece of land",
-    "cn_def": "山"
-  },
-  "islands": {
-    "pos": "n.",
-    "en_def": "a piece of land with water all around it",
-    "cn_def": "島嶼"
-  },
-  "pond": {
-    "pos": "n.",
-    "en_def": "a small area of water, smaller than a lake",
-    "cn_def": "池塘"
-  },
-  "sea": {
-    "pos": "n.",
-    "en_def": "the salt water that covers much of the earth",
-    "cn_def": "海"
-  },
-  "river": {
-    "pos": "n.",
-    "en_def": "a long line of water that runs to the sea",
-    "cn_def": "河"
-  },
-  "lake": {
-    "pos": "n.",
-    "en_def": "a big area of water with land all around it",
-    "cn_def": "湖"
   }
 };
 

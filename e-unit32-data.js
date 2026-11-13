@@ -59,30 +59,7 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: What does Amy say when she answers the phone? — A: She says, \"__________, this is Amy speaking.\"【哈囉；你好】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hello"
-     },
-     {
-      "letter": "B",
-      "text": "good-bye"
-     },
-     {
-      "letter": "C",
-      "text": "hi"
-     },
-     {
-      "letter": "D",
-      "text": "hey"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "Q: __________, Ben! Do you go to this school, too? — A: Yes, I do. I'm in Class 7. Nice to meet you.【嗨】",
+    "question": "\"__________, this is Amy. May I speak to Tom, please?\" I said on the phone.",
     "options": [
      {
       "letter": "A",
@@ -90,22 +67,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "Hey"
+      "text": "Thanks"
      },
      {
       "letter": "C",
-      "text": "Hello"
+      "text": "Sorry"
      },
      {
       "letter": "D",
-      "text": "Hi"
+      "text": "Hello"
      }
     ],
     "answer": "D",
-    "vi": 1
+    "vi": 0
    },
    {
-    "question": "Q: __________, Tom! Does your brother want to play basketball with us? — A: Yes, he does. Thank you! He's coming now.【嘿】",
+    "question": "\"__________, Ben! How are you today?\" \"I'm fine, thanks. And you?\"",
     "options": [
      {
       "letter": "A",
@@ -113,7 +90,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "Hello"
+      "text": "Good-bye"
+     },
+     {
+      "letter": "C",
+      "text": "Sorry"
+     },
+     {
+      "letter": "D",
+      "text": "Please"
+     }
+    ],
+    "answer": "A",
+    "vi": 1
+   },
+   {
+    "question": "\"__________! Watch out! A car is coming!\" Tom shouted to the boy in the street.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Good-bye"
+     },
+     {
+      "letter": "B",
+      "text": "Please"
      },
      {
       "letter": "C",
@@ -121,30 +121,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "Good-bye"
+      "text": "Thanks"
      }
     ],
     "answer": "C",
     "vi": 2
    },
    {
-    "question": "Q: What do you say to your teacher after school? — A: I say, \"__________, Ms. Wang. See you tomorrow!\"【再見】",
+    "question": "\"__________, Mom. See you tonight,\" I said and walked out the door to go to school.",
     "options": [
      {
       "letter": "A",
-      "text": "hi"
+      "text": "Hello"
      },
      {
       "letter": "B",
-      "text": "good-bye"
+      "text": "Good-bye"
      },
      {
       "letter": "C",
-      "text": "hello"
+      "text": "Hi"
      },
      {
       "letter": "D",
-      "text": "hey"
+      "text": "Hey"
      }
     ],
     "answer": "B",
@@ -153,4 +153,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hello":["a word you say when you meet someone or answer the phone","哈囉；你好"],"hi":["a friendly, short way to say hello","嗨"],"hey":["a word you say to get someone's attention","嘿"],"good-bye":["a word you say when you leave someone","再見"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"good-bye":["a word you say when you leave someone","再見"],"thanks":["","謝謝"],"sorry":["","抱歉"],"hello":["a word you say when you meet someone or answer the phone","哈囉；你好"],"hi":["a friendly, short way to say hello","嗨"],"please":["","請"],"hey":["a word you say to get someone's attention","嘿"]});

@@ -111,7 +111,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: When is __________? — A: It's in March or April. Children look for eggs on that day.【復活節】",
+    "question": "At __________, children look for colorful eggs in the garden. This holiday is in spring.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Christmas"
+     },
+     {
+      "letter": "B",
+      "text": "Halloween"
+     },
+     {
+      "letter": "C",
+      "text": "Easter"
+     },
+     {
+      "letter": "D",
+      "text": "vacation"
+     }
+    ],
+    "answer": "C",
+    "vi": 0
+   },
+   {
+    "question": "The Moon __________ is in fall. Families get together, eat moon cakes, and look at the full moon.",
     "options": [
      {
       "letter": "A",
@@ -123,91 +146,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "Halloween"
+      "text": "Lantern"
      },
      {
       "letter": "D",
-      "text": "Easter"
-     }
-    ],
-    "answer": "D",
-    "vi": 0
-   },
-   {
-    "question": "Q: When is the Moon __________? — A: It's in September or October. We look at the moon and eat moon cakes.【節慶】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Easter"
-     },
-     {
-      "letter": "B",
-      "text": "Halloween"
-     },
-     {
-      "letter": "C",
-      "text": "festival"
-     },
-     {
-      "letter": "D",
-      "text": "vacation"
-     }
-    ],
-    "answer": "C",
-    "vi": 1
-   },
-   {
-    "question": "Q: What do you do on summer __________? — A: I go to the beach and swim with my family.【假期】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "festival"
-     },
-     {
-      "letter": "B",
-      "text": "vacation"
-     },
-     {
-      "letter": "C",
-      "text": "Easter"
-     },
-     {
-      "letter": "D",
-      "text": "Halloween"
-     }
-    ],
-    "answer": "B",
-    "vi": 2
-   },
-   {
-    "question": "Q: What does your dad do on Sundays? — A: Sundays are __________ for him, so he doesn't work. He stays home.【假日】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "holidays"
-     },
-     {
-      "letter": "B",
       "text": "Christmas"
-     },
-     {
-      "letter": "C",
-      "text": "lanterns"
-     },
-     {
-      "letter": "D",
-      "text": "Easter"
      }
     ],
     "answer": "A",
-    "vi": 3
+    "vi": 1
    },
    {
-    "question": "Q: What do people do at the Lantern Festival? — A: They look at __________ and eat sweet dumplings.【燈籠】",
+    "question": "Students in Taiwan have a two-month summer __________. They don't have to go to school in July and August.",
     "options": [
      {
       "letter": "A",
-      "text": "Christmas"
+      "text": "festival"
+     },
+     {
+      "letter": "B",
+      "text": "lantern"
+     },
+     {
+      "letter": "C",
+      "text": "Easter"
+     },
+     {
+      "letter": "D",
+      "text": "vacation"
+     }
+    ],
+    "answer": "D",
+    "vi": 2
+   },
+   {
+    "question": "Chinese New Year and the Moon Festival are important __________ in Taiwan. People don't have to work on those days.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lanterns"
      },
      {
       "letter": "B",
@@ -215,7 +192,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "Easter"
+      "text": "countries"
+     },
+     {
+      "letter": "D",
+      "text": "languages"
+     }
+    ],
+    "answer": "B",
+    "vi": 3
+   },
+   {
+    "question": "On the fifteenth night of the new year, children carry paper __________ with lights inside and walk around the streets.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "holidays"
+     },
+     {
+      "letter": "B",
+      "text": "festivals"
+     },
+     {
+      "letter": "C",
+      "text": "vacations"
      },
      {
       "letter": "D",
@@ -226,75 +226,75 @@ window.FLASHCARD_UNITS = {
     "vi": 4
    },
    {
-    "question": "Q: What does Amy do on Christmas Day? — A: She __________ it with her family. She gets many presents.【慶祝】",
+    "question": "Our family __________ Grandma's birthday with a big dinner every year. We sing and eat cake together.",
     "options": [
      {
       "letter": "A",
-      "text": "boils"
-     },
-     {
-      "letter": "B",
       "text": "celebrates"
      },
      {
-      "letter": "C",
-      "text": "works"
-     },
-     {
-      "letter": "D",
-      "text": "practices"
-     }
-    ],
-    "answer": "B",
-    "vi": 5
-   },
-   {
-    "question": "Q: What does Grandpa say to you on December 25th? — A: He says, \"Merry __________!\" Then he gives me a present.【聖誕節】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Lanterns"
-     },
-     {
       "letter": "B",
-      "text": "Holidays"
+      "text": "studies"
      },
      {
       "letter": "C",
-      "text": "Christmas"
+      "text": "washes"
      },
      {
       "letter": "D",
-      "text": "Vacation"
-     }
-    ],
-    "answer": "C",
-    "vi": 6
-   },
-   {
-    "question": "Q: It's October 31st. What do the children say at the door? — A: They say, \"Happy __________! Trick or treat!\"【萬聖節】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Halloween"
-     },
-     {
-      "letter": "B",
-      "text": "Easter"
-     },
-     {
-      "letter": "C",
-      "text": "Vacation"
-     },
-     {
-      "letter": "D",
-      "text": "Festival"
+      "text": "borrows"
      }
     ],
     "answer": "A",
+    "vi": 5
+   },
+   {
+    "question": "__________ is on December 25. Children get presents, and families put lights on a tree.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Easter"
+     },
+     {
+      "letter": "B",
+      "text": "Christmas"
+     },
+     {
+      "letter": "C",
+      "text": "Halloween"
+     },
+     {
+      "letter": "D",
+      "text": "Vacation"
+     }
+    ],
+    "answer": "B",
+    "vi": 6
+   },
+   {
+    "question": "On __________, children dress up as ghosts and go from door to door asking for candy. It is on October 31.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Easter"
+     },
+     {
+      "letter": "B",
+      "text": "Christmas"
+     },
+     {
+      "letter": "C",
+      "text": "Halloween"
+     },
+     {
+      "letter": "D",
+      "text": "vacation"
+     }
+    ],
+    "answer": "C",
     "vi": 7
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"boils":["to heat water until it is very hot; to cook food in very hot water","煮沸；水煮"],"practices":["to do something again and again to get better at it","練習"],"easter":["a spring holiday when children look for colorful eggs","復活節"],"festival":["a special day or time when people celebrate something","節慶"],"vacation":["a time when you do not go to school or work","假期"],"holidays":["a day when people do not have to work or go to school","假日"],"lanterns":["a light inside a paper or glass cover that you can carry","燈籠"],"celebrates":["to do something fun on a special day","慶祝"],"christmas":["a holiday on December 25","聖誕節"],"halloween":["a holiday on October 31 when children dress up and ask for candy","萬聖節"],"works":["to do a job","工作"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"christmas":["a holiday on December 25","聖誕節"],"halloween":["a holiday on October 31 when children dress up and ask for candy","萬聖節"],"easter":["a spring holiday when children look for colorful eggs","復活節"],"vacation":["a time when you do not go to school or work","假期"],"festival":["a special day or time when people celebrate something","節慶"],"lantern":["a light inside a paper or glass cover that you can carry","燈籠"],"lanterns":["a light inside a paper or glass cover that you can carry","燈籠"],"holidays":["a day when people do not have to work or go to school","假日"],"countries":["land outside cities, with farms and fields","鄉村"],"languages":["the words people use to speak and write, like English or Chinese","語言"],"festivals":["a special day or time when people celebrate something","節慶"],"vacations":["a time when you do not go to school or work","假期"],"celebrates":["to do something fun on a special day","慶祝"],"studies":["","讀書；學習"],"washes":["","清洗"],"borrows":["to take and use something that you will give back later","借入"]});

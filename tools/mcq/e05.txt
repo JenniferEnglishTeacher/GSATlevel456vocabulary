@@ -1,0 +1,270 @@
+#20
+country | Japan is a ____ in Asia. Its biggest city is Tokyo, and its people speak Japanese. | world | Chinese | English
+Taiwan | ____ is a beautiful island. Taipei is its biggest city, and Mt. Jade is its highest mountain. | China | America | English
+China | The Great Wall is in ____. This very big country has more than one billion people. | Taiwan | America | English
+America | New York and Los Angeles are big cities in ____. People there speak English and use dollars. | Taiwan | China | Chinese
+world | There are about two hundred countries in the ____. I want to travel to all of them one day. | country | Taiwan | English
+U.S.A. | The ____ has fifty states. Its full name is the United States of America. | R.O.C. | China | Taiwan
+R.O.C. | The ____ is the official name of Taiwan. The three letters stand for the Republic of China. | U.S.A. | America | world
+Chinese | Most people in Taiwan speak ____. It is not easy for Americans to learn to write it. | English | America | China
+English | People in the U.S.A. and the U.K. speak ____. Students in Taiwan learn it at school. | Chinese | Taiwan | China
+#21
+Easter | At ____, children look for colorful eggs in the garden. This holiday is in spring. | Christmas | Halloween | vacation
+Festival | The Moon ____ is in fall. Families get together, eat moon cakes, and look at the full moon. | Vacation | Lantern | Christmas
+vacation | Students in Taiwan have a two-month summer ____. They don't have to go to school in July and August. | festival | lantern | Easter
+holidays | Chinese New Year and the Moon Festival are important ____ in Taiwan. People don't have to work on those days. | lanterns | countries | languages
+lanterns | On the fifteenth night of the new year, children carry paper ____ with lights inside and walk around the streets. | holidays | festivals | vacations
+celebrates | Our family ____ Grandma's birthday with a big dinner every year. We sing and eat cake together. | studies | washes | borrows
+Christmas | ____ is on December 25. Children get presents, and families put lights on a tree. | Easter | Halloween | Vacation
+Halloween | On ____, children dress up as ghosts and go from door to door asking for candy. It is on October 31. | Easter | Christmas | vacation
+#22
+doctor | When I was sick, the ____ looked at my throat and gave me some medicine. | lawyer | farmer | singer
+nurses | The ____ in this hospital help the doctors and take care of sick people day and night. | farmers | soldiers | singers
+dentist | I have a bad toothache, so I am going to see the ____ this afternoon. | lawyer | farmer | soldier
+housewife | Mrs. Lin doesn't have a job outside. She is a ____, and she takes care of her home and children. | waitress | actress | secretary
+job | My brother got a ____ at a bank. He starts work next Monday. | boss | cook | clerk
+business | Mr. Wang's ____ is doing well. His company sells computers all over the world. | boss | cowboy | police
+businessman | Mr. Chen is a rich ____. He has three companies and often flies to other countries for meetings. | fisherman | cowboy | soldier
+boss | My ____ is very nice. He never gets angry at the people who work for him. | job | business | police
+actor | Tom Cruise is a famous ____. He has been in more than forty movies. | actress | waitress | housewife
+actress | She is a famous ____. She plays a queen in her new movie. | actor | waiter | businessman
+singers | The two ____ have beautiful voices. Their new song is number one this week. | soldiers | farmers | lawyers
+writer | J.K. Rowling is a famous ____. Her books about Harry Potter are read all over the world. | actress | soldier | farmer
+reporter | The TV ____ asked the singer many questions for the evening news. | farmer | soldier | fisherman
+engineer | My father is an ____. He plans and builds bridges and roads. | actor | actress | officer
+lawyers | Good ____ know the law very well. They help people who are in trouble with it. | farmers | singers | waiters
+soldier | My brother is a ____ in the army. He wears a green uniform and carries a gun. | farmer | waiter | writer
+cowboys | In old American movies, ____ ride horses and take care of cows. They wear big hats. | dentists | lawyers | nurses
+works | My mother ____ in a hospital. She is a nurse there. | plays | studies | celebrates
+farmers | ____ grow rice, fruit, and vegetables. They get up early and work in the fields all day. | Soldiers | Lawyers | Dentists
+fisherman | The ____ goes out to sea in his boat every morning and comes back with a lot of fish. | farmer | soldier | lawyer
+cook | The ____ at this restaurant makes the best beef noodles in town. He has worked in the kitchen for twenty years. | waiter | driver | clerk
+waiters | The ____ in this restaurant are all men. They bring the food to the tables quickly. | actresses | farmers | soldiers
+waitress | The ____ brought us the menu. She was a friendly young woman with a big smile. | waiter | actor | businessman
+clerks | The ____ at the convenience store are friendly. They always say "Welcome!" when you walk in. | farmers | soldiers | dentists
+secretary | Mr. Lin's ____ answers the phone and writes letters for him. She also plans his meetings. | soldier | farmer | fisherman
+mailman | The ____ brings letters and packages to our house every morning. | fisherman | salesman | businessman
+police | Call the ____! Someone broke into our house and took our TV. | actors | singers | writers
+officer | A police ____ stopped our car and asked my father some questions. | actor | cook | writer
+drivers | Bus ____ have to be careful on the road. They carry many people every day. | farmers | singers | writers
+salesman | The car ____ told us many good things about the new car. He really wanted us to buy it. | fisherman | mailman | soldier
+shopkeepers | The ____ on this street open their stores at nine and close them at ten at night. | farmers | soldiers | reporters
+workers | The ____ in this factory make two hundred cars a day. They start at eight in the morning. | singers | lawyers | dentists
+#23
+weather | How is the ____ today? Is it sunny or rainy? | nature | earth | moon
+sunny | It is ____ today. There are no clouds, and the sun is very bright, so wear a hat. | rainy | snowy | cloudy
+clear | The sky is ____ tonight. There are no clouds, so we can see many stars. | cloudy | rainy | wet
+cloudy | It is ____ today. The sky is gray, and we can't see the sun, but it is not raining. | sunny | clear | snowy
+rainy | It is a ____ day. Take your umbrella, or you will get wet. | sunny | dry | clear
+windy | It is very ____ today. My hat flew away, and the trees are moving a lot. | sunny | dry | warm
+snowy | It is ____ in Hokkaido in winter. Everything is white, and children make snowmen. | sunny | hot | dry
+hot | It is very ____ in Taiwan in summer. It is often thirty-five degrees in the afternoon. | cold | cool | snowy
+warm | In spring, the weather gets ____. It is not cold anymore, but it is not hot yet. | snowy | cold | windy
+cool | It is ____ in fall. It is not hot or cold, so a light jacket is enough. | snowy | hot | wet
+cold | It is very ____ in winter. Wear a coat, a hat, and gloves when you go out. | hot | warm | dry
+dry | It hasn't rained for three months, so the ground is very ____. The plants need water. | wet | cool | cloudy
+wet | I forgot my umbrella, and it rained hard. My hair and clothes are all ____. | dry | warm | sunny
+rain | It will ____ this afternoon, so take an umbrella with you. | shine | blow | plant
+shower | There was a short ____ this afternoon. It rained for only ten minutes, and then the sun came out. | rainbow | earthquake | star
+clouds | Look at those dark ____ in the sky. I think it is going to rain soon. | stars | plants | rainbows
+rainbow | After the rain, we saw a beautiful ____ in the sky. It had seven colors. | typhoon | earthquake | wind
+snow | It doesn't ____ in Taipei, but you can sometimes see white mountains in the middle of Taiwan in winter. | shine | blow | plant
+wind | The ____ is very strong today. It blew my umbrella away. | sun | moon | rainbow
+blows | A cold wind ____ from the north in winter. It makes my face and ears hurt. | shines | rains | snows
+typhoon | A strong ____ is coming to Taiwan tomorrow. There will be heavy rain and wind, so there will be no school. | rainbow | star | moon
+earthquake | There was a big ____ last night. The ground shook, and some buildings fell down. | typhoon | rainbow | shower
+sun | The ____ comes up in the east every morning. It gives us light and heat. | moon | star | wind
+shines | The sun ____ in the day, and the moon comes out at night. | blows | rains | snows
+moon | The ____ is round and bright tonight. We can see it best on Moon Festival night. | sun | wind | cloud
+stars | On a clear night, you can see thousands of ____ in the sky. They look like tiny lights. | clouds | rainbows | plants
+sky | Look up at the ____! It is blue, and there are no clouds today. | earth | air | wind
+earth | We live on the ____. This planet goes around the sun once a year. | moon | sky | star
+air | We can't see ____, but we need it to live. People and animals breathe it. | sky | sun | cloud
+plants | ____ need water and light to grow. Trees and flowers are two kinds of them. | Stars | Clouds | Winds
+nature | I love ____. I enjoy looking at mountains, rivers, trees, and wild animals. | weather | air | typhoon
+#24
+area | Many families live in this ____ of the city because there are good schools and parks here. | island | river | pond
+hill | There is a small ____ behind our school. We can walk to the top in ten minutes. | pond | lake | sea
+mountains | Taiwan has many high ____. More than two hundred of them are over 3,000 meters. | ponds | beaches | pools
+islands | Japan has four big ____ and many small ones. There is sea all around each of them. | hills | rivers | lakes
+pond | There is a small ____ in the park. Ducks swim in it, and children feed the fish there. | hill | beach | island
+beach | We played in the sand at the ____ and watched the waves all day. | hill | pond | lake
+sea | Whales and sharks live in the ____. Its water is salty, so we can't drink it. | pond | pool | spring
+pool | We can't go to the beach, so let's swim in the ____ at the sports center. | hill | bank | area
+River | The Tamsui ____ runs through Taipei and goes into the sea. | Hill | Island | Beach
+bank | We sat on the ____ of the river and fished all afternoon. | sea | pool | island
+Lake | Sun Moon ____ is in the middle of Taiwan. Many visitors take a boat on its beautiful water. | Hill | Beach | Sea
+spring | People love to sit in the hot ____ in Beitou in winter. The warm water comes up from under the ground. | beach | hill | island
+#25
+lion | The ____ is called the king of animals. The male has long hair around its head and neck. | zebra | rabbit | turtle
+tiger | A ____ is a big wild cat with orange fur and black stripes. | lion | bear | fox
+bear | A ____ is a big, strong animal with thick fur. Some are white and live near the North Pole. | fox | rabbit | monkey
+fox | A ____ looks like a small dog with a big, thick tail. In many stories, it is smart and tricky. | bear | pig | cow
+elephant | An ____ is very big and gray. It has a long nose and two big ears. | ox | ant | insect
+hippo | A ____ is a big, heavy animal with a huge mouth. It stays in rivers in Africa all day. | zebra | kangaroo | koala
+Zebras | ____ look like horses, but they have black and white stripes. | Tigers | Lions | Bears
+Monkeys | ____ are good at climbing trees. They love bananas, and they have long tails. | Zebras | Hippos | Turtles
+kangaroo | A ____ lives in Australia. It jumps on two strong legs and carries its baby in a pocket. | zebra | hippo | tiger
+koala | A ____ lives in trees in Australia. It looks like a small gray bear and sleeps most of the day. | kangaroo | zebra | hippo
+dragon | In old stories, a ____ can fly and breathe fire. There is a year of this animal in the Chinese calendar. | rabbit | tiger | snake
+rabbit | A ____ has long ears and a short tail. It hops and loves to eat carrots. | turtle | snake | frog
+tail | A happy dog moves its ____ from side to side. A monkey has a long one. | cage | pet | bug
+mice | Cats like to catch ____. These small animals have long tails and love cheese. | cows | horses | sheep
+Rats | ____ look like mice, but they are much bigger. They often live in dirty places. | Cows | Pigs | Goats
+cow | A ____ gives us milk. Farmers keep this big animal on their farms. | pig | horse | hen
+ox | In the past, farmers used an ____ to pull heavy things in the fields. It is a strong male cow. | ant | elephant | insect
+horses | Cowboys ride ____. These big animals can run very fast. | pigs | goats | sheep
+pig | A ____ is a fat farm animal with a flat nose. We get pork from it. | cow | goat | horse
+Goats | ____ have horns and little beards. They can climb steep hills very well. | Pigs | Ducks | Horses
+sheep | Farmers keep ____ for their wool. We make warm sweaters from it. | pigs | horses | ducks
+birds | Most ____ can fly. They have wings and feathers, and they lay eggs. | fish | snakes | turtles
+bat | A ____ sleeps in the day and flies at night. It looks like a mouse with wings. | bee | butterfly | duck
+Bees | ____ fly from flower to flower and make honey. Be careful, or they may sting you. | Bats | Ducks | Ants
+butterfly | A ____ is an insect with big, colorful wings. It flies from flower to flower. | spider | frog | turtle
+duck | A ____ swims on the pond and says "quack, quack." | frog | turtle | hen
+Geese | ____ look like ducks, but they are bigger and have longer necks. | Hens | Frogs | Bats
+Fish | ____ live in water. They swim with their tails and can't live on land. | Birds | Bats | Spiders
+frog | A ____ is a small green animal. It lives near water, jumps well, and eats insects. | turtle | snake | duck
+turtle | A ____ walks very slowly and carries a hard shell on its back. | frog | snake | rabbit
+snake | A ____ has a long body and no legs. Some are very dangerous. | frog | turtle | spider
+insect | An ____ has six legs. Ants, bees, and butterflies are good examples. | ox | elephant | animal
+Ants | ____ are tiny insects. They live in big groups and carry food back to their home in a long line. | Bats | Frogs | Hens
+bugs | There are many little ____ in the garden. Some eat the leaves of our vegetables. | pets | cages | tails
+spider | A ____ has eight legs. It makes a web to catch flies. | frog | bee | bat
+chickens | Farmers keep ____ for their eggs and meat. These birds can't fly well. | pigs | goats | sheep
+Hens | ____ lay eggs, and they take care of their baby chicks. | Cows | Pigs | Goats
+animal | The elephant is the biggest ____ on land. | insect | bird | fish
+pet | I want to keep a ____, like a dog or a cat. I will feed it and play with it every day. | cage | tail | bug
+Cats | ____ like to catch mice. They say "meow" and sleep a lot in the day. | Dogs | Hens | Frogs
+dog | My ____ barks when a stranger comes to the door. I walk it in the park every evening. | cat | hen | frog
+puppy | Our dog had a baby last week. The little ____ is so small and cute. | hen | frog | bat
+cage | The bird lives in a ____ in the living room. It sings to us every morning. | tail | pet | bug
+bite | Don't touch that dog. It may ____ you with its sharp teeth. | ride | cross | blow
+#26
+this | Look at ____ picture in my hand. I drew it yesterday. | those | these | every
+that | Do you see ____ tall building over there? My father works in it. | these | those | every
+these | Are ____ shoes yours? I found them here under my desk. | this | that | every
+those | Look at ____ birds over there in the sky. There are more than twenty of them. | this | that | every
+my | I am Tom, and this is ____ sister, Amy. She is two years younger than I am. | her | its | their
+your | You dropped ____ pen, Lisa. Here you are. | its | their | our
+his | Tom forgot ____ lunch box today, so he has nothing to eat. | her | its | their
+her | Amy loves ____ little brother. She reads him a story every night. | his | its | a
+its | The dog is moving ____ tail. It is happy to see us. | their | our | your
+our | We love ____ school. The teachers are nice to us, and we have many friends here. | its | his | her
+their | Mr. and Mrs. Lin love ____ children very much. They take them to the park every weekend. | its | his | her
+an | I eat ____ apple every morning. Mom says it keeps me healthy. | a | those | every
+The | ____ sun comes up in the east. There is only one in our sky. | A | An | Every
+every | I brush my teeth ____ morning and night. I never forget to do it. | these | those | its
+#27
+mine | This is not your umbrella. It is ____. Look, my name is on it. | hers | him | them
+hers | That bike belongs to Amy. It is ____, not yours. | mine | ours | him
+ours | My brother and I share this room, so it is ____. Our two beds are by the window. | hers | mine | them
+him | Tom is my best friend. I play basketball with ____ every day after school. | them | hers | itself
+them | My grandparents live in Tainan. I visit ____ every summer vacation. | him | hers | ours
+yourself | Be careful with that knife, Ben! Don't cut ____. | itself | ours | hers
+itself | The cat is washing ____ with its tongue. It does this many times a day. | yourself | ours | hers
+Someone | ____ is knocking at the door, but I don't know who it is. | Everyone | Nothing | Anything
+anyone | Is there ____ in the classroom? No, all the students have gone home. | nothing | everything | something
+Everyone | ____ in my class likes Ms. Lin. All thirty of us think she is a great teacher. | Nobody | Anything | Something
+Nobody | ____ was at home when I came back. The house was dark and empty. | Everyone | Something | Anything
+something | I am thirsty. I want ____ cold to drink, like juice or tea. | nothing | everyone | nobody
+anything | I am so full that I can't eat ____ more. Please take the cake away. | nobody | everyone | someone
+everything | Thank you for ____ you have done for me: the food, the room, and all your help. | nothing | nobody | someone
+nothing | There is ____ in the box. It is empty. | everything | everyone | something
+all | The three boys are brothers, and ____ of them are tall like their father. | another | other | any
+both | Amy has two cats, and ____ of them are black. | another | other | any
+Each | ____ student gets one book. There are thirty students, so we need thirty books. | Both | Many | Some
+Most | ____ of my classmates walk to school, but a few take the bus. | Another | Other | Any
+Many | The singer is very popular. ____ of her fans waited all night to buy tickets. | Another | Other | Any
+some | I baked too many cookies. Would you like ____? | other | both | part
+any | Do you have ____ brothers or sisters? No, I am the only child. | another | each | part
+another | This cookie is delicious. Can I have ____ one? | both | most | part
+other | I have two pens. One is red, and the ____ is blue. | another | both | each
+part | The first ____ of the movie was boring, but the second half was exciting. | country | holiday | pet
+#28
+Who | ____ is that man over there? He is my uncle. | Where | When | Why
+How | ____ do you go to school? I go by bus. | Who | What | Why
+What | ____ is in the box? It is a birthday present for you. | Where | When | Why
+Where | ____ do you live? I live in Taipei, near the zoo. | Who | What | When
+When | ____ is your birthday? It is on May 5. | Where | Who | Why
+Why | ____ are you late? Because I missed the bus. | Where | Who | What
+Whose | ____ bag is this? It is Amy's. Her name is on it. | Who | Where | Why
+Which | ____ season do you like better, summer or winter? I like summer. | Whose | Who | Where
+whether | I don't know ____ it will rain tomorrow or not. Let's check the weather report. | while | whose | which
+while | Mom cooked dinner ____ Dad was washing the car. They were both busy at the same time. | whether | whose | which
+#29
+are | Tom and Ben ____ brothers. They look very much alike. | do | have | can
+does | What ____ your father do? He is a doctor. | are | have | must
+have | I ____ two sisters and one brother. There are six people in my family. | are | does | should
+can | Birds ____ fly, but pigs can't. Fish are good at swimming, but they are not able to walk. | does | are | have
+Could | ____ you open the window, please? It is very hot in here. | Must | Are | Have
+May | ____ I come in? Yes, please sit down. | Are | Does | Have
+will | It ____ rain tomorrow, so the picnic will be on Sunday. | have | are | does
+must | You ____ stop when the traffic light is red. It is the law. | are | have | does
+should | You look tired. You ____ go to bed early tonight. | are | have | does
+#30
+in | There is some milk ____ the glass. Please drink it all. | at | to | of
+inside | It is raining. Let's stay ____ the house and play games. | outside | above | below
+outside | It is a sunny day. Let's play ____ the house, in the yard. | inside | under | above
+on | Your book is ____ the desk. I put it there, next to your pencil case. | at | to | of
+above | The plane is flying ____ the clouds. We can see them far below us. | under | below | behind
+over | The dog jumped ____ the wall and ran away. | under | between | during
+under | The cat is hiding ____ the bed. I can only see its tail on the floor. | above | over | on
+below | The temperature is five degrees ____ zero. It is freezing outside! | above | behind | beside
+behind | Tom sits ____ me in class. When I turn around, I can see him. | above | below | between
+beside | Come and sit ____ me on the sofa. There is room for one more. | above | below | through
+near | My house is ____ the school. I can walk there in five minutes. | above | below | through
+between | The bank is ____ the post office and the bookstore. It is in the middle. | above | below | through
+around | The earth moves ____ the sun. It takes one year to go once. | between | below | through
+at | The movie starts ____ seven thirty. Don't be late. | in | on | during
+before | Wash your hands ____ dinner. They must be clean when you eat. | after | since | from
+after | I am very full ____ a big dinner. I can't eat any dessert now. | before | since | until
+during | Please don't talk ____ the test. You can talk when it is over. | since | from | between
+from | The store is open ____ nine in the morning to ten at night. | since | until | during
+until | I waited for you ____ ten o'clock last night. Then I went to bed. | since | from | between
+since | I have lived in Taipei ____ 2015. That is more than ten years. | until | during | between
+to | I walk ____ school every morning. It takes ten minutes. | of | off | with
+into | The boy jumped ____ the pool and started to swim. | of | for | with
+out | Take your books ____ of your bag and put them on the desk. | down | along | across
+off | Please take ____ your shoes before you come in. | of | from | to
+up | The cat climbed ____ the tree and couldn't come down. | under | of | at
+down | The ball rolled ____ the hill and into the river. | up | of | at
+along | We walked ____ the river for an hour and enjoyed the trees on both sides. | of | at | than
+across | There is a bridge ____ the river. We can walk to the other side. | of | at | during
+through | The train goes ____ a long tunnel in the mountain. It is dark inside for five minutes. | above | of | at
+about | This book is ____ animals in Africa. It tells us how lions and elephants live. | of | than | except
+for | I bought a present ____ my mother. Tomorrow is her birthday. | of | about | than
+of | The color ____ the sky is blue on sunny days. | at | to | than
+with | I write ____ my left hand. I eat with it, too. | of | at | about
+without | Fish can't live ____ water. They die very fast on land. | with | along | across
+like | The baby looks ____ her mother. They have the same eyes and nose. | of | than | except
+by | I go to school ____ bus every day. It takes twenty minutes. | with | of | at
+than | My brother is taller ____ me. He is 180 centimeters, and I am 165. | of | for | except
+except | The store is open every day ____ Monday. It is closed on that day. | than | of | about
+#31
+or | Would you like tea ____ coffee? You can only choose one. | but | because | if
+and | I have a brother ____ a sister. There are three children in my family. | but | if | because
+but | I like dogs, ____ my sister doesn't. She is afraid of them. | or | because | if
+However | It was raining hard. ____, we still went to school on time. | Because | If | Or
+because | I was late for school ____ I missed the bus. | but | or | than
+Since | ____ it is raining, let's stay home and watch a movie. | Or | But | Than
+Though | ____ he is only six, he can play the piano very well. | Because | If | Or
+If | ____ it rains tomorrow, we will not go on a picnic. We will stay home. | Though | But | Or
+that | I think ____ English is fun. What do you think? | than | or | but
+than | Ben runs faster ____ Tom does. He always wins the race. | that | as | or
+as | Amy is as tall ____ her mother. They are both 160 centimeters. | than | that | or
+#32
+Hello | "____, this is Amy. May I speak to Tom, please?" I said on the phone. | Good-bye | Thanks | Sorry
+Hi | "____, Ben! How are you today?" "I'm fine, thanks. And you?" | Good-bye | Sorry | Please
+Hey | "____! Watch out! A car is coming!" Tom shouted to the boy in the street. | Good-bye | Please | Thanks
+Good-bye | "____, Mom. See you tonight," I said and walked out the door to go to school. | Hello | Hi | Hey
+@ thanks = int. 謝謝
+@ please = int. 請
+@ sorry = int. 抱歉
+@ a = art. 一（個）
+@ an = art. 一（個）
+@ do = v. 做
+@ actresses = n. 女演員
+@ studies = v. 讀書；學習
+@ washes = v. 清洗
+@ plays = v. 玩；打（球）

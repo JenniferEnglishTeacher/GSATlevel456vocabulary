@@ -189,191 +189,122 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: What is __________ in your hand? — A: It's a new watch. My grandpa gives it to me.【這個】",
+    "question": "Look at __________ picture in my hand. I drew it yesterday.",
     "options": [
      {
       "letter": "A",
-      "text": "its"
+      "text": "those"
      },
      {
       "letter": "B",
-      "text": "his"
+      "text": "these"
      },
      {
       "letter": "C",
-      "text": "this"
-     },
-     {
-      "letter": "D",
-      "text": "my"
-     }
-    ],
-    "answer": "C",
-    "vi": 0
-   },
-   {
-    "question": "Q: What is __________ big building over there? — A: It's the new library. We read books there.【那個】",
-    "options": [
-     {
-      "letter": "A",
       "text": "every"
      },
      {
-      "letter": "B",
+      "letter": "D",
+      "text": "this"
+     }
+    ],
+    "answer": "D",
+    "vi": 0
+   },
+   {
+    "question": "Do you see __________ tall building over there? My father works in it.",
+    "options": [
+     {
+      "letter": "A",
       "text": "that"
      },
      {
+      "letter": "B",
+      "text": "these"
+     },
+     {
       "letter": "C",
-      "text": "your"
+      "text": "those"
      },
      {
       "letter": "D",
-      "text": "these"
+      "text": "every"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 1
    },
    {
-    "question": "Q: Do you like __________ shoes? — A: Yes, I do. They are cute and comfortable.【這些】",
+    "question": "Are __________ shoes yours? I found them here under my desk.",
     "options": [
      {
       "letter": "A",
-      "text": "these"
-     },
-     {
-      "letter": "B",
-      "text": "that"
-     },
-     {
-      "letter": "C",
-      "text": "those"
-     },
-     {
-      "letter": "D",
-      "text": "our"
-     }
-    ],
-    "answer": "A",
-    "vi": 2
-   },
-   {
-    "question": "Q: Does your sister want __________ cookies over there? — A: Yes, she does. She loves cookies.【那些】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "these"
-     },
-     {
-      "letter": "B",
-      "text": "their"
-     },
-     {
-      "letter": "C",
-      "text": "our"
-     },
-     {
-      "letter": "D",
-      "text": "those"
-     }
-    ],
-    "answer": "D",
-    "vi": 3
-   },
-   {
-    "question": "Q: Whose eraser is this? — A: It's __________ eraser. Thank you.【我的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "my"
-     },
-     {
-      "letter": "B",
-      "text": "her"
-     },
-     {
-      "letter": "C",
-      "text": "these"
-     },
-     {
-      "letter": "D",
-      "text": "that"
-     }
-    ],
-    "answer": "A",
-    "vi": 4
-   },
-   {
-    "question": "Q: Do you like __________ new school, Amy? — A: Yes, I do. My classmates are very nice.【你（們）的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "her"
-     },
-     {
-      "letter": "B",
-      "text": "that"
-     },
-     {
-      "letter": "C",
-      "text": "those"
-     },
-     {
-      "letter": "D",
-      "text": "your"
-     }
-    ],
-    "answer": "D",
-    "vi": 5
-   },
-   {
-    "question": "Q: Whose bike is this? Is it Tom's? — A: Yes, it is. It's __________ new bike. He rides it to school.【他的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "its"
-     },
-     {
-      "letter": "B",
-      "text": "his"
-     },
-     {
-      "letter": "C",
       "text": "this"
      },
      {
-      "letter": "D",
-      "text": "your"
-     }
-    ],
-    "answer": "B",
-    "vi": 6
-   },
-   {
-    "question": "Q: Does Amy do __________ homework after dinner? — A: Yes, she does. She is a good student.【她的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "their"
-     },
-     {
       "letter": "B",
-      "text": "those"
+      "text": "that"
      },
      {
       "letter": "C",
-      "text": "her"
+      "text": "these"
      },
      {
       "letter": "D",
-      "text": "our"
+      "text": "every"
      }
     ],
     "answer": "C",
-    "vi": 7
+    "vi": 2
    },
    {
-    "question": "Q: Does your dog like __________ new house? — A: Yes, it does. It sleeps in it every night.【牠的；它的】",
+    "question": "Look at __________ birds over there in the sky. There are more than twenty of them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "this"
+     },
+     {
+      "letter": "B",
+      "text": "those"
+     },
+     {
+      "letter": "C",
+      "text": "that"
+     },
+     {
+      "letter": "D",
+      "text": "every"
+     }
+    ],
+    "answer": "B",
+    "vi": 3
+   },
+   {
+    "question": "I am Tom, and this is __________ sister, Amy. She is two years younger than I am.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "her"
+     },
+     {
+      "letter": "B",
+      "text": "its"
+     },
+     {
+      "letter": "C",
+      "text": "my"
+     },
+     {
+      "letter": "D",
+      "text": "their"
+     }
+    ],
+    "answer": "C",
+    "vi": 4
+   },
+   {
+    "question": "You dropped __________ pen, Lisa. Here you are.",
     "options": [
      {
       "letter": "A",
@@ -381,11 +312,80 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "his"
+      "text": "your"
      },
      {
       "letter": "C",
-      "text": "this"
+      "text": "their"
+     },
+     {
+      "letter": "D",
+      "text": "our"
+     }
+    ],
+    "answer": "B",
+    "vi": 5
+   },
+   {
+    "question": "Tom forgot __________ lunch box today, so he has nothing to eat.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "his"
+     },
+     {
+      "letter": "B",
+      "text": "her"
+     },
+     {
+      "letter": "C",
+      "text": "its"
+     },
+     {
+      "letter": "D",
+      "text": "their"
+     }
+    ],
+    "answer": "A",
+    "vi": 6
+   },
+   {
+    "question": "Amy loves __________ little brother. She reads him a story every night.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "his"
+     },
+     {
+      "letter": "B",
+      "text": "its"
+     },
+     {
+      "letter": "C",
+      "text": "a"
+     },
+     {
+      "letter": "D",
+      "text": "her"
+     }
+    ],
+    "answer": "D",
+    "vi": 7
+   },
+   {
+    "question": "The dog is moving __________ tail. It is happy to see us.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "its"
+     },
+     {
+      "letter": "B",
+      "text": "their"
+     },
+     {
+      "letter": "C",
+      "text": "our"
      },
      {
       "letter": "D",
@@ -396,7 +396,99 @@ window.FLASHCARD_UNITS = {
     "vi": 8
    },
    {
-    "question": "Q: Where do you and Ben have English class? — A: We have it in __________ classroom.【我們的】",
+    "question": "We love __________ school. The teachers are nice to us, and we have many friends here.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "its"
+     },
+     {
+      "letter": "B",
+      "text": "his"
+     },
+     {
+      "letter": "C",
+      "text": "our"
+     },
+     {
+      "letter": "D",
+      "text": "her"
+     }
+    ],
+    "answer": "C",
+    "vi": 9
+   },
+   {
+    "question": "Mr. and Mrs. Lin love __________ children very much. They take them to the park every weekend.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "its"
+     },
+     {
+      "letter": "B",
+      "text": "his"
+     },
+     {
+      "letter": "C",
+      "text": "her"
+     },
+     {
+      "letter": "D",
+      "text": "their"
+     }
+    ],
+    "answer": "D",
+    "vi": 10
+   },
+   {
+    "question": "I eat __________ apple every morning. Mom says it keeps me healthy.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "a"
+     },
+     {
+      "letter": "B",
+      "text": "an"
+     },
+     {
+      "letter": "C",
+      "text": "those"
+     },
+     {
+      "letter": "D",
+      "text": "every"
+     }
+    ],
+    "answer": "B",
+    "vi": 11
+   },
+   {
+    "question": "__________ sun comes up in the east. There is only one in our sky.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "A"
+     },
+     {
+      "letter": "B",
+      "text": "An"
+     },
+     {
+      "letter": "C",
+      "text": "The"
+     },
+     {
+      "letter": "D",
+      "text": "Every"
+     }
+    ],
+    "answer": "C",
+    "vi": 12
+   },
+   {
+    "question": "I brush my teeth __________ morning and night. I never forget to do it.",
     "options": [
      {
       "letter": "A",
@@ -404,113 +496,21 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "our"
-     },
-     {
-      "letter": "C",
-      "text": "their"
-     },
-     {
-      "letter": "D",
-      "text": "her"
-     }
-    ],
-    "answer": "B",
-    "vi": 9
-   },
-   {
-    "question": "Q: What do your parents do on Sundays? — A: They wash __________ car together.【他們的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "your"
-     },
-     {
-      "letter": "B",
-      "text": "her"
-     },
-     {
-      "letter": "C",
-      "text": "their"
-     },
-     {
-      "letter": "D",
       "text": "every"
-     }
-    ],
-    "answer": "C",
-    "vi": 10
-   },
-   {
-    "question": "Q: What does Ben want for lunch? — A: He wants __________ apple and a hamburger.【一（個）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "the"
-     },
-     {
-      "letter": "B",
-      "text": "of"
      },
      {
       "letter": "C",
-      "text": "abroad"
-     },
-     {
-      "letter": "D",
-      "text": "an"
-     }
-    ],
-    "answer": "D",
-    "vi": 11
-   },
-   {
-    "question": "Q: What do you see in the sky at night? — A: I see __________ moon and many stars.【定冠詞（這；那）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "the"
-     },
-     {
-      "letter": "B",
-      "text": "an"
-     },
-     {
-      "letter": "C",
-      "text": "who"
-     },
-     {
-      "letter": "D",
-      "text": "really"
-     }
-    ],
-    "answer": "A",
-    "vi": 12
-   },
-   {
-    "question": "Q: How often does Lisa play tennis? — A: She plays tennis __________ Sunday.【每一（個）的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "my"
-     },
-     {
-      "letter": "B",
       "text": "those"
      },
      {
-      "letter": "C",
-      "text": "every"
-     },
-     {
       "letter": "D",
-      "text": "your"
+      "text": "its"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 13
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"this":["the one that is here, near me","這個"],"that":["the one that is there, not near me","那個"],"these":["the ones that are here, near me","這些"],"those":["the ones that are there, not near me","那些"],"my":["belonging to me","我的"],"your":["belonging to you","你（們）的"],"his":["belonging to him","他的"],"her":["belonging to her","她的"],"its":["belonging to it","牠的；它的"],"our":["belonging to us","我們的"],"their":["belonging to them","他們的"],"an":["one; used before a noun (an before a, e, i, o, u sounds)","一（個）"],"the":["used before a noun when we know which one","定冠詞（這；那）"],"every":["each one of a group; all","每一（個）的"],"who":["which person","誰"],"of":["belonging to; showing what something is about","…的"],"abroad":["in or to another country","在國外"],"really":["very; truly","真地"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"those":["the ones that are there, not near me","那些"],"these":["the ones that are here, near me","這些"],"every":["each one of a group; all","每一（個）的"],"this":["the one that is here, near me","這個"],"that":["the one that is there, not near me","那個"],"her":["belonging to her","她的"],"its":["belonging to it","牠的；它的"],"my":["belonging to me","我的"],"their":["belonging to them","他們的"],"your":["belonging to you","你（們）的"],"our":["belonging to us","我們的"],"his":["belonging to him","他的"],"a":["","一（個）"],"an":["","一（個）"],"the":["used before a noun when we know which one","定冠詞（這；那）"]});

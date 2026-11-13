@@ -362,155 +362,155 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: What animal is it? It is the king of the animals. — A: It's a ______. It has a big head and a lot of hair.【獅子】",
+    "q": "The ______ is called the king of animals. The male has long hair around its head and neck.",
     "options": [
+      "zebra",
+      "rabbit",
       "lion",
-      "turtle",
-      "bear",
-      "cow"
+      "turtle"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "這是什麼動物？牠是萬獸之王。 — 牠是獅子，牠有大大的頭和很多毛。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: What animal is it? It has black and orange lines. — A: It's a ______. It can run very fast.【老虎】",
+    "q": "A ______ is a big wild cat with orange fur and black stripes.",
     "options": [
-      "duck",
-      "tiger",
-      "dragon",
-      "puppy"
+      "lion",
+      "bear",
+      "fox",
+      "tiger"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "這是什麼動物？牠身上有黑色和橘色的條紋。 — 牠是老虎，牠可以跑得很快。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: What animal is it? It is big and brown. It likes honey. — A: It's a ______. Don't go near it.【熊】",
+    "q": "A ______ is a big, strong animal with thick fur. Some are white and live near the North Pole.",
     "options": [
-      "hippo",
-      "geese",
       "bear",
-      "snake"
+      "fox",
+      "rabbit",
+      "monkey"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "這是什麼動物？牠又大又是棕色的，牠喜歡蜂蜜。 — 牠是熊，不要靠近牠。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: What animal is it? It looks like a dog, and it is very smart. — A: It's a ______. It has a big tail.【狐狸】",
+    "q": "A ______ looks like a small dog with a big, thick tail. In many stories, it is smart and tricky.",
     "options": [
-      "elephant",
+      "bear",
+      "fox",
       "pig",
-      "animal",
-      "fox"
+      "cow"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "這是什麼動物？牠看起來像狗，而且很聰明。 — 牠是狐狸，牠有一條大尾巴。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: What animal is it? It has a long nose and big ears. — A: It's an ______. It is very big and heavy.【大象】",
+    "q": "An ______ is very big and gray. It has a long nose and two big ears.",
     "options": [
-      "duck",
-      "butterfly",
+      "ox",
+      "ant",
       "elephant",
-      "fox"
+      "insect"
     ],
     "answer": 2,
     "cn": "這是什麼動物？牠有長鼻子和大耳朵。 — 牠是大象，牠又大又重。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: What animal is it? It has a big mouth and lives in the river. — A: It's a ______. It is fat and heavy.【河馬】",
+    "q": "A ______ is a big, heavy animal with a huge mouth. It stays in rivers in Africa all day.",
     "options": [
-      "hippo",
-      "butterfly",
-      "animal",
-      "fox"
+      "zebra",
+      "kangaroo",
+      "koala",
+      "hippo"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "這是什麼動物？牠有一張大嘴巴，住在河裡。 — 牠是河馬，牠又胖又重。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: What animals are they? They are black and white. — A: They are ______. They look like horses.【斑馬】",
+    "q": "______ look like horses, but they have black and white stripes.",
     "options": [
-      "bees",
-      "zebras",
-      "hens",
-      "chickens"
+      "Tigers",
+      "Zebras",
+      "Lions",
+      "Bears"
     ],
     "answer": 1,
     "cn": "這些是什麼動物？牠們是黑白相間的。 — 牠們是斑馬，牠們看起來像馬。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: What animals are they? They like bananas. — A: They are ______. They can climb trees.【猴子】",
+    "q": "______ are good at climbing trees. They love bananas, and they have long tails.",
     "options": [
-      "horses",
-      "birds",
-      "ants",
-      "monkeys"
+      "Monkeys",
+      "Zebras",
+      "Hippos",
+      "Turtles"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "這些是什麼動物？牠們喜歡香蕉。 — 牠們是猴子，牠們會爬樹。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: What animal is it? It can jump very high. — A: It's a ______. It has a baby in its pocket.【袋鼠】",
+    "q": "A ______ lives in Australia. It jumps on two strong legs and carries its baby in a pocket.",
     "options": [
-      "frog",
+      "zebra",
       "kangaroo",
       "hippo",
-      "koala"
+      "tiger"
     ],
     "answer": 1,
     "cn": "這是什麼動物？牠可以跳得很高。 — 牠是袋鼠，牠的口袋裡有一隻寶寶。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: What animal is it? It sleeps in the tree all day. — A: It's a ______. It looks like a little bear.【無尾熊】",
+    "q": "A ______ lives in trees in Australia. It looks like a small gray bear and sleeps most of the day.",
     "options": [
-      "puppy",
-      "tail",
-      "koala",
-      "sheep"
+      "kangaroo",
+      "zebra",
+      "hippo",
+      "koala"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "這是什麼動物？牠整天在樹上睡覺。 — 牠是無尾熊，牠看起來像一隻小熊。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: What animal is it? It can fly, and it is in many Chinese stories. — A: It's a ______. It isn't a real animal.【龍】",
+    "q": "In old stories, a ______ can fly and breathe fire. There is a year of this animal in the Chinese calendar.",
     "options": [
-      "spider",
-      "turtle",
-      "insect",
-      "dragon"
+      "rabbit",
+      "tiger",
+      "dragon",
+      "snake"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "這是什麼動物？牠會飛，而且出現在很多中國故事裡。 — 牠是龍，牠不是真的動物。",
     "vocabIndex": 10
   },
   {
-    "q": "Q: What does a ______ look like? — A: It has long ears and a short tail. It eats vegetables.【兔子】",
+    "q": "A ______ has long ears and a short tail. It hops and loves to eat carrots.",
     "options": [
       "rabbit",
-      "animal",
-      "fox",
-      "elephant"
+      "turtle",
+      "snake",
+      "frog"
     ],
     "answer": 0,
     "cn": "兔子長什麼樣子？ — 牠有長耳朵和短尾巴，牠吃蔬菜。",
     "vocabIndex": 11
   },
   {
-    "q": "Q: What does your dog look like? — A: It's white, and it has a long ______.【尾巴】",
+    "q": "A happy dog moves its ______ from side to side. A monkey has a long one.",
     "options": [
-      "dog",
-      "snake",
-      "tiger",
+      "cage",
+      "pet",
+      "bug",
       "tail"
     ],
     "answer": 3,
@@ -518,404 +518,399 @@ const MCQS = [
     "vocabIndex": 12
   },
   {
-    "q": "Q: What do ______ look like? — A: They are small and gray. They have long tails.【老鼠】",
+    "q": "Cats like to catch ______. These small animals have long tails and love cheese.",
     "options": [
-      "geese",
+      "cows",
       "mice",
-      "koala",
-      "insect"
+      "horses",
+      "sheep"
     ],
     "answer": 1,
     "cn": "老鼠長什麼樣子？ — 牠們小小的、灰色的，有長長的尾巴。",
     "vocabIndex": 13
   },
   {
-    "q": "Q: What do ______ look like? — A: They look like big mice. They are dirty.【（大）老鼠】",
+    "q": "______ look like mice, but they are much bigger. They often live in dirty places.",
     "options": [
-      "rats",
-      "hens",
-      "monkeys",
-      "goats"
+      "Cows",
+      "Pigs",
+      "Rats",
+      "Goats"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "大老鼠長什麼樣子？ — 牠們看起來像大隻的老鼠，牠們很髒。",
     "vocabIndex": 14
   },
   {
-    "q": "Q: What does a ______ look like? — A: It is black and white. It gives us milk.【母牛】",
+    "q": "A ______ gives us milk. Farmers keep this big animal on their farms.",
     "options": [
-      "lion",
-      "insect",
       "cow",
-      "elephant"
+      "pig",
+      "horse",
+      "hen"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "母牛長什麼樣子？ — 牠是黑白色的，牠給我們牛奶。",
     "vocabIndex": 15
   },
   {
-    "q": "Q: What does an ______ look like? — A: It is big and strong. It helps farmers.【公牛】",
+    "q": "In the past, farmers used an ______ to pull heavy things in the fields. It is a strong male cow.",
     "options": [
+      "ant",
+      "elephant",
       "ox",
-      "dog",
-      "tiger",
-      "fox"
+      "insect"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "公牛長什麼樣子？ — 牠又大又強壯，牠幫助農夫。",
     "vocabIndex": 16
   },
   {
-    "q": "Q: What do ______ look like? — A: They are tall, and they have long legs. They run fast.【馬】",
+    "q": "Cowboys ride ______. These big animals can run very fast.",
     "options": [
-      "rats",
-      "hens",
+      "pigs",
       "horses",
-      "chickens"
+      "goats",
+      "sheep"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "馬長什麼樣子？ — 牠們很高，有長長的腿，牠們跑得很快。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: What does a ______ look like? — A: It is pink and fat. It has a short tail.【豬】",
+    "q": "A ______ is a fat farm animal with a flat nose. We get pork from it.",
     "options": [
-      "geese",
       "pig",
       "cow",
-      "fox"
+      "goat",
+      "horse"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "豬長什麼樣子？ — 牠是粉紅色的、胖胖的，有一條短尾巴。",
     "vocabIndex": 18
   },
   {
-    "q": "Q: What do ______ look like? — A: They are white. They live on the hill and eat grass.【山羊】",
+    "q": "______ have horns and little beards. They can climb steep hills very well.",
     "options": [
-      "ants",
-      "bees",
-      "rats",
-      "goats"
+      "Pigs",
+      "Ducks",
+      "Horses",
+      "Goats"
     ],
     "answer": 3,
     "cn": "山羊長什麼樣子？ — 牠們是白色的，牠們住在山丘上吃草。",
     "vocabIndex": 19
   },
   {
-    "q": "Q: What do ______ look like? — A: They are white and soft. They eat grass on the farm.【綿羊】",
+    "q": "Farmers keep ______ for their wool. We make warm sweaters from it.",
     "options": [
-      "tail",
+      "pigs",
+      "horses",
       "sheep",
-      "elephant",
-      "bat"
+      "ducks"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "綿羊長什麼樣子？ — 牠們白白的、軟軟的，在農場吃草。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: Can ______ fly? — A: Yes, they can. They fly in the sky.【鳥】",
+    "q": "Most ______ can fly. They have wings and feathers, and they lay eggs.",
     "options": [
       "birds",
-      "cats",
-      "chickens",
-      "bees"
+      "fish",
+      "snakes",
+      "turtles"
     ],
     "answer": 0,
     "cn": "鳥會飛嗎？ — 會，牠們在天空飛。",
     "vocabIndex": 21
   },
   {
-    "q": "Q: Can a ______ fly? — A: Yes, it can. It flies at night.【蝙蝠】",
+    "q": "A ______ sleeps in the day and flies at night. It looks like a mouse with wings.",
     "options": [
-      "hippo",
-      "bear",
+      "bee",
       "bat",
-      "turtle"
+      "butterfly",
+      "duck"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "蝙蝠會飛嗎？ — 會，牠在晚上飛。",
     "vocabIndex": 22
   },
   {
-    "q": "Q: Can ______ fly? — A: Yes, they can. They make honey.【蜜蜂】",
+    "q": "______ fly from flower to flower and make honey. Be careful, or they may sting you.",
     "options": [
-      "horses",
-      "goats",
-      "birds",
-      "bees"
+      "Bats",
+      "Ducks",
+      "Ants",
+      "Bees"
     ],
     "answer": 3,
     "cn": "蜜蜂會飛嗎？ — 會，牠們會製造蜂蜜。",
     "vocabIndex": 23
   },
   {
-    "q": "Q: Can the ______ fly? — A: Yes, it can. It is flying over the flowers.【蝴蝶】",
+    "q": "A ______ is an insect with big, colorful wings. It flies from flower to flower.",
     "options": [
-      "geese",
-      "pet",
+      "spider",
       "butterfly",
-      "lion"
+      "frog",
+      "turtle"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "這隻蝴蝶會飛嗎？ — 會，牠正在花朵上方飛。",
     "vocabIndex": 24
   },
   {
-    "q": "Q: Can a ______ swim? — A: Yes, it can. It swims in the pond.【鴨】",
+    "q": "A ______ swims on the pond and says \"quack, quack.\"",
     "options": [
-      "pig",
-      "duck",
-      "bear",
-      "fish"
+      "frog",
+      "turtle",
+      "hen",
+      "duck"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "鴨子會游泳嗎？ — 會，牠在池塘裡游泳。",
     "vocabIndex": 25
   },
   {
-    "q": "Q: Can ______ swim? — A: Yes, they can. They swim in the lake.【鵝】",
+    "q": "______ look like ducks, but they are bigger and have longer necks.",
     "options": [
-      "geese",
-      "tiger",
-      "elephant",
-      "fish"
+      "Hens",
+      "Frogs",
+      "Geese",
+      "Bats"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "鵝會游泳嗎？ — 會，牠們在湖裡游泳。",
     "vocabIndex": 26
   },
   {
-    "q": "Q: Can ______ fly? — A: No, they can't. But they can swim.【魚】",
+    "q": "______ live in water. They swim with their tails and can't live on land.",
     "options": [
-      "dog",
-      "mice",
-      "duck",
-      "fish"
+      "Fish",
+      "Birds",
+      "Bats",
+      "Spiders"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "魚會飛嗎？ — 不會，但是牠們會游泳。",
     "vocabIndex": 27
   },
   {
-    "q": "Q: Can a ______ swim? — A: Yes, it can. It can jump, too.【青蛙】",
+    "q": "A ______ is a small green animal. It lives near water, jumps well, and eats insects.",
     "options": [
-      "tail",
+      "turtle",
       "frog",
-      "pig",
-      "fox"
+      "snake",
+      "duck"
     ],
     "answer": 1,
     "cn": "青蛙會游泳嗎？ — 會，牠也會跳。",
     "vocabIndex": 28
   },
   {
-    "q": "Q: Can a ______ run fast? — A: No, it can't. It walks very slowly.【烏龜】",
+    "q": "A ______ walks very slowly and carries a hard shell on its back.",
     "options": [
-      "pig",
-      "hippo",
-      "rabbit",
-      "turtle"
+      "turtle",
+      "frog",
+      "snake",
+      "rabbit"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "烏龜可以跑得很快嗎？ — 不行，牠走得很慢。",
     "vocabIndex": 29
   },
   {
-    "q": "Q: Can a ______ walk? — A: No, it can't. It has no legs.【蛇】",
+    "q": "A ______ has a long body and no legs. Some are very dangerous.",
     "options": [
+      "frog",
+      "turtle",
       "snake",
-      "ox",
-      "koala",
-      "animal"
+      "spider"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "蛇會走路嗎？ — 不會，牠沒有腳。",
     "vocabIndex": 30
   },
   {
-    "q": "Q: How many legs does an ______ have? — A: It has six legs.【昆蟲】",
+    "q": "An ______ has six legs. Ants, bees, and butterflies are good examples.",
     "options": [
       "ox",
-      "dragon",
-      "insect",
-      "fish"
+      "elephant",
+      "animal",
+      "insect"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "昆蟲有幾隻腳？ — 牠有六隻腳。",
     "vocabIndex": 31
   },
   {
-    "q": "Q: How many legs do ______ have? — A: They have six legs. They are insects.【螞蟻】",
+    "q": "______ are tiny insects. They live in big groups and carry food back to their home in a long line.",
     "options": [
-      "birds",
-      "rats",
-      "chickens",
-      "ants"
+      "Bats",
+      "Frogs",
+      "Ants",
+      "Hens"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "螞蟻有幾隻腳？ — 牠們有六隻腳，牠們是昆蟲。",
     "vocabIndex": 32
   },
   {
-    "q": "Q: How many legs do they have? — A: These little ______ have six legs.【小蟲】",
+    "q": "There are many little ______ in the garden. Some eat the leaves of our vegetables.",
     "options": [
+      "pets",
       "bugs",
-      "zebras",
-      "ants",
-      "rats"
+      "cages",
+      "tails"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "牠們有幾隻腳？ — 這些小蟲有六隻腳。",
     "vocabIndex": 33
   },
   {
-    "q": "Q: How many legs does a ______ have? — A: It has eight legs. It isn't an insect.【蜘蛛】",
+    "q": "A ______ has eight legs. It makes a web to catch flies.",
     "options": [
-      "duck",
       "spider",
-      "fish",
+      "frog",
+      "bee",
       "bat"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "蜘蛛有幾隻腳？ — 牠有八隻腳，牠不是昆蟲。",
     "vocabIndex": 34
   },
   {
-    "q": "Q: How many legs do ______ have? — A: They have two legs. They can't fly well.【雞；小雞】",
+    "q": "Farmers keep ______ for their eggs and meat. These birds can't fly well.",
     "options": [
-      "zebras",
+      "pigs",
       "goats",
-      "chickens",
-      "ants"
+      "sheep",
+      "chickens"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "雞有幾隻腳？ — 牠們有兩隻腳，牠們飛不太好。",
     "vocabIndex": 35
   },
   {
-    "q": "Q: How many hens does your grandpa have? — A: He has ten ______. They give us eggs.【母雞】",
+    "q": "______ lay eggs, and they take care of their baby chicks.",
     "options": [
-      "ants",
-      "chickens",
-      "bugs",
-      "hens"
+      "Hens",
+      "Cows",
+      "Pigs",
+      "Goats"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你爺爺有幾隻母雞？ — 他有十隻母雞，牠們給我們蛋。",
     "vocabIndex": 36
   },
   {
-    "q": "Q: What ______ do you like best? — A: I like dogs best. They are friendly.【動物】",
+    "q": "The elephant is the biggest ______ on land.",
     "options": [
-      "dog",
-      "cage",
+      "insect",
       "animal",
-      "hippo"
+      "bird",
+      "fish"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你最喜歡什麼動物？ — 我最喜歡狗，牠們很友善。",
     "vocabIndex": 37
   },
   {
-    "q": "Q: Do you have a ______? — A: Yes, I do. I have a little cat.【寵物】",
+    "q": "I want to keep a ______, like a dog or a cat. I will feed it and play with it every day.",
     "options": [
-      "duck",
+      "cage",
+      "tail",
       "pet",
-      "dog",
-      "cow"
+      "bug"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你有養寵物嗎？ — 有，我養了一隻小貓。",
     "vocabIndex": 38
   },
   {
-    "q": "Q: What animal does your sister like? — A: She likes ______. She has a black one.【貓】",
+    "q": "______ like to catch mice. They say \"meow\" and sleep a lot in the day.",
     "options": [
-      "cats",
-      "birds",
-      "hens",
-      "monkeys"
+      "Dogs",
+      "Hens",
+      "Frogs",
+      "Cats"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "你姊姊喜歡什麼動物？ — 她喜歡貓，她有一隻黑貓。",
     "vocabIndex": 39
   },
   {
-    "q": "Q: Does Tom have a pet? — A: Yes, he does. He has a ______. It's very friendly.【狗】",
+    "q": "My ______ barks when a stranger comes to the door. I walk it in the park every evening.",
     "options": [
-      "fish",
-      "animal",
+      "cat",
+      "hen",
       "dog",
-      "dragon"
+      "frog"
     ],
     "answer": 2,
     "cn": "湯姆有養寵物嗎？ — 有，他養了一隻狗，牠很友善。",
     "vocabIndex": 40
   },
   {
-    "q": "Q: Does Amy like her new ______? — A: Yes, she does. It's very cute.【小狗】",
+    "q": "Our dog had a baby last week. The little ______ is so small and cute.",
     "options": [
       "puppy",
-      "cage",
-      "sheep",
-      "turtle"
+      "hen",
+      "frog",
+      "bat"
     ],
     "answer": 0,
     "cn": "艾美喜歡她的新小狗嗎？ — 喜歡，牠非常可愛。",
     "vocabIndex": 41
   },
   {
-    "q": "Q: Where do you keep your bird? — A: I keep it in a ______.【籠子】",
+    "q": "The bird lives in a ______ in the living room. It sings to us every morning.",
     "options": [
-      "butterfly",
-      "cage",
-      "pig",
-      "snake"
+      "tail",
+      "pet",
+      "bug",
+      "cage"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你把你的鳥養在哪裡？ — 我把牠養在籠子裡。",
     "vocabIndex": 42
   },
   {
-    "q": "Q: Does your dog ______? — A: No, it doesn't. It never bites people.【咬】",
+    "q": "Don't touch that dog. It may ______ you with its sharp teeth.",
     "options": [
-      "run",
-      "cook",
-      "fell",
-      "bite"
+      "ride",
+      "bite",
+      "cross",
+      "blow"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "你的狗會咬人嗎？ — 不會，牠從不咬人。",
     "vocabIndex": 43
   }
 ];
 
 const LOOKUP = {
-  "fish": {
+  "zebra": {
     "pos": "n.",
-    "en_def": "an animal that lives in water; its meat",
-    "cn_def": "魚；魚肉"
+    "en_def": "an animal like a horse with black and white stripes",
+    "cn_def": "斑馬"
   },
-  "cook": {
-    "pos": "v.",
-    "en_def": "to make food ready to eat by heating it",
-    "cn_def": "煮飯；烹調"
-  },
-  "run": {
-    "pos": "v.",
-    "en_def": "to move very fast on your legs",
-    "cn_def": "跑步"
+  "rabbit": {
+    "pos": "n.",
+    "en_def": "a small animal with long ears that hops",
+    "cn_def": "兔子"
   },
   "lion": {
     "pos": "n.",
     "en_def": "a big wild cat; the male has long hair around its head",
     "cn_def": "獅子"
   },
-  "tiger": {
+  "turtle": {
     "pos": "n.",
-    "en_def": "a big wild cat with orange fur and black stripes",
-    "cn_def": "老虎"
+    "en_def": "an animal with a hard shell on its back that moves slowly",
+    "cn_def": "烏龜"
   },
   "bear": {
     "pos": "n.",
@@ -927,60 +922,20 @@ const LOOKUP = {
     "en_def": "a wild animal like a small dog with a big thick tail",
     "cn_def": "狐狸"
   },
-  "elephant": {
+  "tiger": {
     "pos": "n.",
-    "en_def": "a very big gray animal with a long nose and big ears",
-    "cn_def": "大象"
+    "en_def": "a big wild cat with orange fur and black stripes",
+    "cn_def": "老虎"
   },
-  "hippo": {
-    "pos": "n.",
-    "en_def": "a big, heavy animal with short legs that lives in rivers in Africa",
-    "cn_def": "河馬"
-  },
-  "zebras": {
-    "pos": "n.",
-    "en_def": "an animal like a horse with black and white stripes",
-    "cn_def": "斑馬"
-  },
-  "monkeys": {
+  "monkey": {
     "pos": "n.",
     "en_def": "an animal with a long tail that climbs trees",
     "cn_def": "猴子"
   },
-  "kangaroo": {
+  "pig": {
     "pos": "n.",
-    "en_def": "an animal from Australia that jumps and carries its baby in a pocket",
-    "cn_def": "袋鼠"
-  },
-  "koala": {
-    "pos": "n.",
-    "en_def": "a gray animal from Australia that lives in trees and looks like a small bear",
-    "cn_def": "無尾熊"
-  },
-  "dragon": {
-    "pos": "n.",
-    "en_def": "a big animal in stories that has wings and can breathe fire",
-    "cn_def": "龍"
-  },
-  "rabbit": {
-    "pos": "n.",
-    "en_def": "a small animal with long ears that hops",
-    "cn_def": "兔子"
-  },
-  "tail": {
-    "pos": "n.",
-    "en_def": "the long part at the back end of an animal's body",
-    "cn_def": "尾巴"
-  },
-  "mice": {
-    "pos": "n.",
-    "en_def": "a very small animal with a long tail that likes cheese",
-    "cn_def": "老鼠"
-  },
-  "rats": {
-    "pos": "n.",
-    "en_def": "an animal like a mouse, but bigger",
-    "cn_def": "（大）老鼠"
+    "en_def": "a fat farm animal with a flat nose and a short tail",
+    "cn_def": "豬"
   },
   "cow": {
     "pos": "n.",
@@ -992,40 +947,185 @@ const LOOKUP = {
     "en_def": "a big, strong male cow that pulls heavy things on a farm",
     "cn_def": "公牛"
   },
+  "ant": {
+    "pos": "n.",
+    "en_def": "a very small insect that lives in big groups",
+    "cn_def": "螞蟻"
+  },
+  "elephant": {
+    "pos": "n.",
+    "en_def": "a very big gray animal with a long nose and big ears",
+    "cn_def": "大象"
+  },
+  "insect": {
+    "pos": "n.",
+    "en_def": "a very small animal with six legs, like an ant or a bee",
+    "cn_def": "昆蟲"
+  },
+  "kangaroo": {
+    "pos": "n.",
+    "en_def": "an animal from Australia that jumps and carries its baby in a pocket",
+    "cn_def": "袋鼠"
+  },
+  "koala": {
+    "pos": "n.",
+    "en_def": "a gray animal from Australia that lives in trees and looks like a small bear",
+    "cn_def": "無尾熊"
+  },
+  "hippo": {
+    "pos": "n.",
+    "en_def": "a big, heavy animal with short legs that lives in rivers in Africa",
+    "cn_def": "河馬"
+  },
+  "tigers": {
+    "pos": "n.",
+    "en_def": "a big wild cat with orange fur and black stripes",
+    "cn_def": "老虎"
+  },
+  "zebras": {
+    "pos": "n.",
+    "en_def": "an animal like a horse with black and white stripes",
+    "cn_def": "斑馬"
+  },
+  "lions": {
+    "pos": "n.",
+    "en_def": "a big wild cat; the male has long hair around its head",
+    "cn_def": "獅子"
+  },
+  "bears": {
+    "pos": "n.",
+    "en_def": "a big, strong wild animal with thick fur",
+    "cn_def": "熊"
+  },
+  "monkeys": {
+    "pos": "n.",
+    "en_def": "an animal with a long tail that climbs trees",
+    "cn_def": "猴子"
+  },
+  "hippos": {
+    "pos": "n.",
+    "en_def": "a big, heavy animal with short legs that lives in rivers in Africa",
+    "cn_def": "河馬"
+  },
+  "turtles": {
+    "pos": "n.",
+    "en_def": "an animal with a hard shell on its back that moves slowly",
+    "cn_def": "烏龜"
+  },
+  "dragon": {
+    "pos": "n.",
+    "en_def": "a big animal in stories that has wings and can breathe fire",
+    "cn_def": "龍"
+  },
+  "snake": {
+    "pos": "n.",
+    "en_def": "a long, thin animal with no legs",
+    "cn_def": "蛇"
+  },
+  "frog": {
+    "pos": "n.",
+    "en_def": "a small green animal that jumps and lives near water",
+    "cn_def": "青蛙"
+  },
+  "cage": {
+    "pos": "n.",
+    "en_def": "a box made of bars for keeping birds or animals in",
+    "cn_def": "籠子"
+  },
+  "pet": {
+    "pos": "n.",
+    "en_def": "an animal that you keep at home",
+    "cn_def": "寵物"
+  },
+  "bug": {
+    "pos": "n.",
+    "en_def": "a small insect",
+    "cn_def": "小蟲"
+  },
+  "tail": {
+    "pos": "n.",
+    "en_def": "the long part at the back end of an animal's body",
+    "cn_def": "尾巴"
+  },
+  "cows": {
+    "pos": "n.",
+    "en_def": "a big farm animal that gives us milk",
+    "cn_def": "母牛"
+  },
+  "mice": {
+    "pos": "n.",
+    "en_def": "a very small animal with a long tail that likes cheese",
+    "cn_def": "老鼠"
+  },
   "horses": {
     "pos": "n.",
     "en_def": "a big animal that people ride",
     "cn_def": "馬"
-  },
-  "pig": {
-    "pos": "n.",
-    "en_def": "a fat farm animal with a flat nose and a short tail",
-    "cn_def": "豬"
-  },
-  "goats": {
-    "pos": "n.",
-    "en_def": "a farm animal with horns and a little beard",
-    "cn_def": "山羊"
   },
   "sheep": {
     "pos": "n.",
     "en_def": "a farm animal with thick wool",
     "cn_def": "綿羊"
   },
+  "pigs": {
+    "pos": "n.",
+    "en_def": "a fat farm animal with a flat nose and a short tail",
+    "cn_def": "豬"
+  },
+  "rats": {
+    "pos": "n.",
+    "en_def": "an animal like a mouse, but bigger",
+    "cn_def": "（大）老鼠"
+  },
+  "goats": {
+    "pos": "n.",
+    "en_def": "a farm animal with horns and a little beard",
+    "cn_def": "山羊"
+  },
+  "horse": {
+    "pos": "n.",
+    "en_def": "a big animal that people ride",
+    "cn_def": "馬"
+  },
+  "hen": {
+    "pos": "n.",
+    "en_def": "a female chicken",
+    "cn_def": "母雞"
+  },
+  "goat": {
+    "pos": "n.",
+    "en_def": "a farm animal with horns and a little beard",
+    "cn_def": "山羊"
+  },
+  "ducks": {
+    "pos": "n.",
+    "en_def": "a bird that swims and says \"quack\"",
+    "cn_def": "鴨"
+  },
   "birds": {
     "pos": "n.",
     "en_def": "an animal with wings and feathers",
     "cn_def": "鳥"
   },
+  "fish": {
+    "pos": "n.",
+    "en_def": "an animal that lives in water; its meat",
+    "cn_def": "魚；魚肉"
+  },
+  "snakes": {
+    "pos": "n.",
+    "en_def": "a long, thin animal with no legs",
+    "cn_def": "蛇"
+  },
+  "bee": {
+    "pos": "n.",
+    "en_def": "a yellow and black insect that makes honey",
+    "cn_def": "蜜蜂"
+  },
   "bat": {
     "pos": "n.",
     "en_def": "a small animal like a mouse with wings that flies at night",
     "cn_def": "蝙蝠"
-  },
-  "bees": {
-    "pos": "n.",
-    "en_def": "a yellow and black insect that makes honey",
-    "cn_def": "蜜蜂"
   },
   "butterfly": {
     "pos": "n.",
@@ -1037,67 +1137,92 @@ const LOOKUP = {
     "en_def": "a bird that swims and says \"quack\"",
     "cn_def": "鴨"
   },
-  "geese": {
+  "bats": {
     "pos": "n.",
-    "en_def": "a big bird like a duck with a long neck",
-    "cn_def": "鵝"
-  },
-  "frog": {
-    "pos": "n.",
-    "en_def": "a small green animal that jumps and lives near water",
-    "cn_def": "青蛙"
-  },
-  "turtle": {
-    "pos": "n.",
-    "en_def": "an animal with a hard shell on its back that moves slowly",
-    "cn_def": "烏龜"
-  },
-  "snake": {
-    "pos": "n.",
-    "en_def": "a long, thin animal with no legs",
-    "cn_def": "蛇"
-  },
-  "insect": {
-    "pos": "n.",
-    "en_def": "a very small animal with six legs, like an ant or a bee",
-    "cn_def": "昆蟲"
+    "en_def": "a small animal like a mouse with wings that flies at night",
+    "cn_def": "蝙蝠"
   },
   "ants": {
     "pos": "n.",
     "en_def": "a very small insect that lives in big groups",
     "cn_def": "螞蟻"
   },
-  "bugs": {
+  "bees": {
     "pos": "n.",
-    "en_def": "a small insect",
-    "cn_def": "小蟲"
+    "en_def": "a yellow and black insect that makes honey",
+    "cn_def": "蜜蜂"
   },
   "spider": {
     "pos": "n.",
     "en_def": "a small animal with eight legs that makes a web",
     "cn_def": "蜘蛛"
   },
-  "chickens": {
-    "pos": "n.",
-    "en_def": "a farm bird that people keep for eggs and meat",
-    "cn_def": "雞；小雞"
-  },
   "hens": {
     "pos": "n.",
     "en_def": "a female chicken",
     "cn_def": "母雞"
+  },
+  "frogs": {
+    "pos": "n.",
+    "en_def": "a small green animal that jumps and lives near water",
+    "cn_def": "青蛙"
+  },
+  "geese": {
+    "pos": "n.",
+    "en_def": "a big bird like a duck with a long neck",
+    "cn_def": "鵝"
+  },
+  "spiders": {
+    "pos": "n.",
+    "en_def": "a small animal with eight legs that makes a web",
+    "cn_def": "蜘蛛"
   },
   "animal": {
     "pos": "n.",
     "en_def": "a living thing that can move, like a dog, a bird, or a fish",
     "cn_def": "動物"
   },
-  "pet": {
+  "pets": {
     "pos": "n.",
     "en_def": "an animal that you keep at home",
     "cn_def": "寵物"
   },
+  "bugs": {
+    "pos": "n.",
+    "en_def": "a small insect",
+    "cn_def": "小蟲"
+  },
+  "cages": {
+    "pos": "n.",
+    "en_def": "a box made of bars for keeping birds or animals in",
+    "cn_def": "籠子"
+  },
+  "tails": {
+    "pos": "n.",
+    "en_def": "the long part at the back end of an animal's body",
+    "cn_def": "尾巴"
+  },
+  "chickens": {
+    "pos": "n.",
+    "en_def": "a farm bird that people keep for eggs and meat",
+    "cn_def": "雞；小雞"
+  },
+  "bird": {
+    "pos": "n.",
+    "en_def": "an animal with wings and feathers",
+    "cn_def": "鳥"
+  },
+  "dogs": {
+    "pos": "n.",
+    "en_def": "a pet animal that barks",
+    "cn_def": "狗"
+  },
   "cats": {
+    "pos": "n.",
+    "en_def": "a small pet animal that says \"meow\"",
+    "cn_def": "貓"
+  },
+  "cat": {
     "pos": "n.",
     "en_def": "a small pet animal that says \"meow\"",
     "cn_def": "貓"
@@ -1112,20 +1237,25 @@ const LOOKUP = {
     "en_def": "a baby dog",
     "cn_def": "小狗"
   },
-  "cage": {
-    "pos": "n.",
-    "en_def": "a box made of bars for keeping birds or animals in",
-    "cn_def": "籠子"
+  "ride": {
+    "pos": "v.",
+    "en_def": "to sit on a bike, a horse, or a scooter and make it go",
+    "cn_def": "騎"
   },
   "bite": {
     "pos": "v.",
     "en_def": "to cut something with your teeth",
     "cn_def": "咬"
   },
-  "fell": {
+  "cross": {
     "pos": "v.",
-    "en_def": "to drop down to the ground",
-    "cn_def": "跌倒；落下"
+    "en_def": "to go from one side of a road or river to the other",
+    "cn_def": "越過"
+  },
+  "blow": {
+    "pos": "v.",
+    "en_def": "(of wind or air) to move; to send air out of your mouth",
+    "cn_def": "吹"
   }
 };
 

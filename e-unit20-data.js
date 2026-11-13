@@ -124,7 +124,99 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: What __________ do you and your family come from? — A: We come from Taiwan.【國家】",
+    "question": "Japan is a __________ in Asia. Its biggest city is Tokyo, and its people speak Japanese.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "world"
+     },
+     {
+      "letter": "B",
+      "text": "Chinese"
+     },
+     {
+      "letter": "C",
+      "text": "English"
+     },
+     {
+      "letter": "D",
+      "text": "country"
+     }
+    ],
+    "answer": "D",
+    "vi": 0
+   },
+   {
+    "question": "__________ is a beautiful island. Taipei is its biggest city, and Mt. Jade is its highest mountain.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "China"
+     },
+     {
+      "letter": "B",
+      "text": "America"
+     },
+     {
+      "letter": "C",
+      "text": "Taiwan"
+     },
+     {
+      "letter": "D",
+      "text": "English"
+     }
+    ],
+    "answer": "C",
+    "vi": 1
+   },
+   {
+    "question": "The Great Wall is in __________. This very big country has more than one billion people.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Taiwan"
+     },
+     {
+      "letter": "B",
+      "text": "China"
+     },
+     {
+      "letter": "C",
+      "text": "America"
+     },
+     {
+      "letter": "D",
+      "text": "English"
+     }
+    ],
+    "answer": "B",
+    "vi": 2
+   },
+   {
+    "question": "New York and Los Angeles are big cities in __________. People there speak English and use dollars.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "America"
+     },
+     {
+      "letter": "B",
+      "text": "Taiwan"
+     },
+     {
+      "letter": "C",
+      "text": "China"
+     },
+     {
+      "letter": "D",
+      "text": "Chinese"
+     }
+    ],
+    "answer": "A",
+    "vi": 3
+   },
+   {
+    "question": "There are about two hundred countries in the __________. I want to travel to all of them one day.",
     "options": [
      {
       "letter": "A",
@@ -133,98 +225,6 @@ window.FLASHCARD_UNITS = {
      {
       "letter": "B",
       "text": "Taiwan"
-     },
-     {
-      "letter": "C",
-      "text": "China"
-     },
-     {
-      "letter": "D",
-      "text": "R.O.C."
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "Q: Where are you from? — A: I'm from __________. I live in Taipei.【臺灣】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Country"
-     },
-     {
-      "letter": "B",
-      "text": "Taiwan"
-     },
-     {
-      "letter": "C",
-      "text": "China"
-     },
-     {
-      "letter": "D",
-      "text": "English"
-     }
-    ],
-    "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "Q: Where does Mr. Li come from? — A: He comes from __________. He lives in Beijing now.【中國】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "America"
-     },
-     {
-      "letter": "B",
-      "text": "Chinese"
-     },
-     {
-      "letter": "C",
-      "text": "Country"
-     },
-     {
-      "letter": "D",
-      "text": "China"
-     }
-    ],
-    "answer": "D",
-    "vi": 2
-   },
-   {
-    "question": "Q: Where is your English teacher from? — A: She's from __________. She's American.【美國】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "English"
-     },
-     {
-      "letter": "B",
-      "text": "U.S.A."
-     },
-     {
-      "letter": "C",
-      "text": "America"
-     },
-     {
-      "letter": "D",
-      "text": "Chinese"
-     }
-    ],
-    "answer": "C",
-    "vi": 3
-   },
-   {
-    "question": "Q: Where do your pen pals live? — A: They live in different countries around the __________.【世界】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "China"
-     },
-     {
-      "letter": "B",
-      "text": "U.S.A."
      },
      {
       "letter": "C",
@@ -239,30 +239,7 @@ window.FLASHCARD_UNITS = {
     "vi": 4
    },
    {
-    "question": "Q: Where does your cousin Ben live? — A: He lives in the __________ He lives in New York.【美國（縮寫）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "China"
-     },
-     {
-      "letter": "B",
-      "text": "U.S.A."
-     },
-     {
-      "letter": "C",
-      "text": "English"
-     },
-     {
-      "letter": "D",
-      "text": "America"
-     }
-    ],
-    "answer": "B",
-    "vi": 5
-   },
-   {
-    "question": "Q: Does Lisa live in Japan? — A: No, she doesn't. She lives in Taiwan. Its other name is the __________【中華民國】",
+    "question": "The __________ has fifty states. Its full name is the United States of America.",
     "options": [
      {
       "letter": "A",
@@ -270,34 +247,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "Taiwan"
+      "text": "China"
      },
      {
       "letter": "C",
-      "text": "English"
-     },
-     {
-      "letter": "D",
-      "text": "America"
-     }
-    ],
-    "answer": "A",
-    "vi": 6
-   },
-   {
-    "question": "Q: What language do people in Taiwan speak? — A: They speak __________.【中文】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "America"
-     },
-     {
-      "letter": "B",
-      "text": "Country"
-     },
-     {
-      "letter": "C",
-      "text": "Chinese"
+      "text": "U.S.A."
      },
      {
       "letter": "D",
@@ -305,10 +259,33 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "C",
-    "vi": 7
+    "vi": 5
    },
    {
-    "question": "Q: What language does your English teacher speak in class? — A: She speaks __________. She doesn't speak Chinese.【英語】",
+    "question": "The __________ is the official name of Taiwan. The three letters stand for the Republic of China.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "R.O.C."
+     },
+     {
+      "letter": "B",
+      "text": "U.S.A."
+     },
+     {
+      "letter": "C",
+      "text": "America"
+     },
+     {
+      "letter": "D",
+      "text": "world"
+     }
+    ],
+    "answer": "A",
+    "vi": 6
+   },
+   {
+    "question": "Most people in Taiwan speak __________. It is not easy for Americans to learn to write it.",
     "options": [
      {
       "letter": "A",
@@ -316,21 +293,44 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "World"
+      "text": "Chinese"
      },
      {
       "letter": "C",
-      "text": "R.O.C."
+      "text": "America"
      },
      {
       "letter": "D",
-      "text": "Country"
+      "text": "China"
      }
     ],
-    "answer": "A",
+    "answer": "B",
+    "vi": 7
+   },
+   {
+    "question": "People in the U.S.A. and the U.K. speak __________. Students in Taiwan learn it at school.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Chinese"
+     },
+     {
+      "letter": "B",
+      "text": "Taiwan"
+     },
+     {
+      "letter": "C",
+      "text": "China"
+     },
+     {
+      "letter": "D",
+      "text": "English"
+     }
+    ],
+    "answer": "D",
     "vi": 8
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"chinese":["the language people speak in Taiwan and China; a school subject","中文；國文"],"english":["the language people speak in the U.S.A. and the U.K.","英語"],"country":["land outside cities, with farms and fields","鄉村"],"taiwan":["an island country in East Asia; its biggest city is Taipei","臺灣"],"china":["a very big country in East Asia","中國"],"america":["a short name for the United States","美國"],"world":["the earth and all the countries and people on it","世界"],"u.s.a.":["the short name of the United States of America","美國（縮寫）"],"r.o.c.":["the short name of the Republic of China (Taiwan)","中華民國"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"world":["the earth and all the countries and people on it","世界"],"chinese":["the language people speak in Taiwan and China; a school subject","中文；國文"],"english":["the language people speak in the U.S.A. and the U.K.","英語"],"country":["land outside cities, with farms and fields","鄉村"],"china":["a very big country in East Asia","中國"],"america":["a short name for the United States","美國"],"taiwan":["an island country in East Asia; its biggest city is Taipei","臺灣"],"r.o.c.":["the short name of the Republic of China (Taiwan)","中華民國"],"u.s.a.":["the short name of the United States of America","美國（縮寫）"]});

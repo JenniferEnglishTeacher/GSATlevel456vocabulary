@@ -410,53 +410,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: How's the __________ today? — A: It's nice. Let's go out and play.【天氣】",
+    "question": "How is the __________ today? Is it sunny or rainy?",
     "options": [
      {
       "letter": "A",
-      "text": "weather"
-     },
-     {
-      "letter": "B",
       "text": "nature"
      },
      {
+      "letter": "B",
+      "text": "earth"
+     },
+     {
       "letter": "C",
-      "text": "moon"
+      "text": "weather"
      },
      {
       "letter": "D",
-      "text": "rainbow"
+      "text": "moon"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 0
    },
    {
-    "question": "Q: How's the weather in Kaohsiung today? — A: It's __________. Let's go to the beach.【晴朗的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "windy"
-     },
-     {
-      "letter": "B",
-      "text": "sunny"
-     },
-     {
-      "letter": "C",
-      "text": "cool"
-     },
-     {
-      "letter": "D",
-      "text": "warm"
-     }
-    ],
-    "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "Q: How's the weather this morning? — A: It's __________. We can see Taipei 101 from here.【晴朗的；清澈的】",
+    "question": "It is __________ today. There are no clouds, and the sun is very bright, so wear a hat.",
     "options": [
      {
       "letter": "A",
@@ -464,34 +441,57 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "warm"
+      "text": "sunny"
      },
      {
       "letter": "C",
-      "text": "clear"
+      "text": "snowy"
      },
      {
       "letter": "D",
-      "text": "sunny"
+      "text": "cloudy"
      }
     ],
-    "answer": "C",
-    "vi": 2
+    "answer": "B",
+    "vi": 1
    },
    {
-    "question": "Q: How's the weather in Taichung? — A: It's __________ and gray.【多雲的】",
+    "question": "The sky is __________ tonight. There are no clouds, so we can see many stars.",
     "options": [
      {
       "letter": "A",
-      "text": "cold"
+      "text": "clear"
      },
      {
       "letter": "B",
-      "text": "windy"
+      "text": "cloudy"
      },
      {
       "letter": "C",
+      "text": "rainy"
+     },
+     {
+      "letter": "D",
       "text": "wet"
+     }
+    ],
+    "answer": "A",
+    "vi": 2
+   },
+   {
+    "question": "It is __________ today. The sky is gray, and we can't see the sun, but it is not raining.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sunny"
+     },
+     {
+      "letter": "B",
+      "text": "clear"
+     },
+     {
+      "letter": "C",
+      "text": "snowy"
      },
      {
       "letter": "D",
@@ -502,53 +502,7 @@ window.FLASHCARD_UNITS = {
     "vi": 3
    },
    {
-    "question": "Q: How's the weather today, Mom? — A: It's __________. Take your umbrella.【下雨的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "snowy"
-     },
-     {
-      "letter": "B",
-      "text": "hot"
-     },
-     {
-      "letter": "C",
-      "text": "rainy"
-     },
-     {
-      "letter": "D",
-      "text": "clear"
-     }
-    ],
-    "answer": "C",
-    "vi": 4
-   },
-   {
-    "question": "Q: How's the weather at the beach? — A: It's __________. Let's fly a kite.【多風的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "windy"
-     },
-     {
-      "letter": "B",
-      "text": "cloudy"
-     },
-     {
-      "letter": "C",
-      "text": "rainy"
-     },
-     {
-      "letter": "D",
-      "text": "dry"
-     }
-    ],
-    "answer": "A",
-    "vi": 5
-   },
-   {
-    "question": "Q: How's the weather in Japan today? — A: It's __________. The mountains are all white.【下雪的】",
+    "question": "It is a __________ day. Take your umbrella, or you will get wet.",
     "options": [
      {
       "letter": "A",
@@ -556,11 +510,57 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "cool"
+      "text": "rainy"
      },
      {
       "letter": "C",
-      "text": "cloudy"
+      "text": "dry"
+     },
+     {
+      "letter": "D",
+      "text": "clear"
+     }
+    ],
+    "answer": "B",
+    "vi": 4
+   },
+   {
+    "question": "It is very __________ today. My hat flew away, and the trees are moving a lot.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "windy"
+     },
+     {
+      "letter": "B",
+      "text": "sunny"
+     },
+     {
+      "letter": "C",
+      "text": "dry"
+     },
+     {
+      "letter": "D",
+      "text": "warm"
+     }
+    ],
+    "answer": "A",
+    "vi": 5
+   },
+   {
+    "question": "It is __________ in Hokkaido in winter. Everything is white, and children make snowmen.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sunny"
+     },
+     {
+      "letter": "B",
+      "text": "hot"
+     },
+     {
+      "letter": "C",
+      "text": "dry"
      },
      {
       "letter": "D",
@@ -571,11 +571,80 @@ window.FLASHCARD_UNITS = {
     "vi": 6
    },
    {
-    "question": "Q: What's the weather like in Taiwan in summer? — A: It's very __________. We often go swimming.【熱的】",
+    "question": "It is very __________ in Taiwan in summer. It is often thirty-five degrees in the afternoon.",
     "options": [
      {
       "letter": "A",
+      "text": "cold"
+     },
+     {
+      "letter": "B",
+      "text": "cool"
+     },
+     {
+      "letter": "C",
+      "text": "hot"
+     },
+     {
+      "letter": "D",
+      "text": "snowy"
+     }
+    ],
+    "answer": "C",
+    "vi": 7
+   },
+   {
+    "question": "In spring, the weather gets __________. It is not cold anymore, but it is not hot yet.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "snowy"
+     },
+     {
+      "letter": "B",
+      "text": "cold"
+     },
+     {
+      "letter": "C",
+      "text": "windy"
+     },
+     {
+      "letter": "D",
+      "text": "warm"
+     }
+    ],
+    "answer": "D",
+    "vi": 8
+   },
+   {
+    "question": "It is __________ in fall. It is not hot or cold, so a light jacket is enough.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "snowy"
+     },
+     {
+      "letter": "B",
+      "text": "cool"
+     },
+     {
+      "letter": "C",
+      "text": "hot"
+     },
+     {
+      "letter": "D",
       "text": "wet"
+     }
+    ],
+    "answer": "B",
+    "vi": 9
+   },
+   {
+    "question": "It is very __________ in winter. Wear a coat, a hat, and gloves when you go out.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cold"
      },
      {
       "letter": "B",
@@ -583,137 +652,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "sunny"
+      "text": "warm"
      },
      {
       "letter": "D",
-      "text": "warm"
+      "text": "dry"
      }
     ],
-    "answer": "B",
-    "vi": 7
+    "answer": "A",
+    "vi": 10
    },
    {
-    "question": "Q: What's the weather like in spring? — A: It's __________. Many flowers come out.【溫暖的】",
+    "question": "It hasn't rained for three months, so the ground is very __________. The plants need water.",
     "options": [
      {
       "letter": "A",
-      "text": "warm"
+      "text": "wet"
      },
      {
       "letter": "B",
-      "text": "dry"
+      "text": "cool"
      },
      {
       "letter": "C",
-      "text": "wet"
+      "text": "dry"
      },
      {
       "letter": "D",
       "text": "cloudy"
      }
     ],
-    "answer": "A",
-    "vi": 8
-   },
-   {
-    "question": "Q: What's the weather like in fall? — A: It's __________. It's a good time for hiking.【涼爽的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "windy"
-     },
-     {
-      "letter": "B",
-      "text": "cool"
-     },
-     {
-      "letter": "C",
-      "text": "clear"
-     },
-     {
-      "letter": "D",
-      "text": "sunny"
-     }
-    ],
-    "answer": "B",
-    "vi": 9
-   },
-   {
-    "question": "Q: What's the weather like here in winter? — A: It's __________. Wear your coat.【寒冷的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "warm"
-     },
-     {
-      "letter": "B",
-      "text": "snowy"
-     },
-     {
-      "letter": "C",
-      "text": "wet"
-     },
-     {
-      "letter": "D",
-      "text": "cold"
-     }
-    ],
-    "answer": "D",
-    "vi": 10
-   },
-   {
-    "question": "Q: What's the weather like in Tainan in fall? — A: It's __________. There isn't much water in the river.【乾的；乾燥的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "windy"
-     },
-     {
-      "letter": "B",
-      "text": "sunny"
-     },
-     {
-      "letter": "C",
-      "text": "dry"
-     },
-     {
-      "letter": "D",
-      "text": "rainy"
-     }
-    ],
     "answer": "C",
     "vi": 11
    },
    {
-    "question": "Q: What's the weather like in Keelung in winter? — A: It's very __________. People always carry umbrellas.【濕的】",
+    "question": "I forgot my umbrella, and it rained hard. My hair and clothes are all __________.",
     "options": [
      {
       "letter": "A",
-      "text": "warm"
+      "text": "wet"
      },
      {
       "letter": "B",
-      "text": "clear"
+      "text": "dry"
      },
      {
       "letter": "C",
-      "text": "cool"
+      "text": "warm"
      },
      {
       "letter": "D",
-      "text": "wet"
+      "text": "sunny"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 12
    },
    {
-    "question": "Q: Does it often __________ in Keelung? — A: Yes, it does. Take an umbrella with you.【下雨】",
+    "question": "It will __________ this afternoon, so take an umbrella with you.",
     "options": [
      {
       "letter": "A",
-      "text": "snow"
+      "text": "shine"
      },
      {
       "letter": "B",
@@ -725,37 +725,37 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "shines"
+      "text": "plant"
      }
     ],
     "answer": "C",
     "vi": 13
    },
    {
-    "question": "Q: Is it going to rain today? — A: Yes, it is. There's going to be a __________ this afternoon.【陣雨；淋浴】",
+    "question": "There was a short __________ this afternoon. It rained for only ten minutes, and then the sun came out.",
     "options": [
      {
       "letter": "A",
-      "text": "shower"
+      "text": "rainbow"
      },
      {
       "letter": "B",
-      "text": "sky"
+      "text": "shower"
      },
      {
       "letter": "C",
-      "text": "air"
+      "text": "earthquake"
      },
      {
       "letter": "D",
-      "text": "earthquake"
+      "text": "star"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 14
    },
    {
-    "question": "Q: Is it going to rain? — A: Maybe. Look at those dark __________.【雲】",
+    "question": "Look at those dark __________ in the sky. I think it is going to rain soon.",
     "options": [
      {
       "letter": "A",
@@ -763,122 +763,122 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "clouds"
-     },
-     {
-      "letter": "C",
       "text": "plants"
      },
      {
-      "letter": "D",
-      "text": "earth"
-     }
-    ],
-    "answer": "B",
-    "vi": 15
-   },
-   {
-    "question": "Q: Is it going to rain again? — A: No, it isn't. Look! There is a __________ over the mountain.【彩虹】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "moon"
-     },
-     {
-      "letter": "B",
-      "text": "typhoon"
-     },
-     {
       "letter": "C",
-      "text": "rainbow"
+      "text": "rainbows"
      },
      {
       "letter": "D",
-      "text": "nature"
-     }
-    ],
-    "answer": "C",
-    "vi": 16
-   },
-   {
-    "question": "Q: Does it __________ in Taipei in winter? — A: No, it doesn't. But it sometimes does on high mountains.【下雪】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "blow"
-     },
-     {
-      "letter": "B",
-      "text": "rain"
-     },
-     {
-      "letter": "C",
-      "text": "shines"
-     },
-     {
-      "letter": "D",
-      "text": "snow"
+      "text": "clouds"
      }
     ],
     "answer": "D",
-    "vi": 17
+    "vi": 15
    },
    {
-    "question": "Q: Do we need to close the windows? — A: Yes, we do. The __________ is very strong.【風】",
+    "question": "After the rain, we saw a beautiful __________ in the sky. It had seven colors.",
     "options": [
      {
       "letter": "A",
-      "text": "wind"
+      "text": "rainbow"
      },
      {
       "letter": "B",
-      "text": "sky"
-     },
-     {
-      "letter": "C",
       "text": "typhoon"
      },
      {
+      "letter": "C",
+      "text": "earthquake"
+     },
+     {
       "letter": "D",
-      "text": "shower"
+      "text": "wind"
      }
     ],
     "answer": "A",
-    "vi": 18
+    "vi": 16
    },
    {
-    "question": "Q: Does the wind __________ hard here in winter? — A: Yes, it does. Wear your coat.【吹】",
+    "question": "It doesn't __________ in Taipei, but you can sometimes see white mountains in the middle of Taiwan in winter.",
     "options": [
      {
       "letter": "A",
+      "text": "shine"
+     },
+     {
+      "letter": "B",
       "text": "snow"
      },
      {
-      "letter": "B",
+      "letter": "C",
       "text": "blow"
      },
      {
-      "letter": "C",
-      "text": "rain"
-     },
-     {
       "letter": "D",
-      "text": "shines"
+      "text": "plant"
      }
     ],
     "answer": "B",
-    "vi": 19
+    "vi": 17
    },
    {
-    "question": "Q: Is a __________ going to come tomorrow? — A: Yes, it is. There is no school tomorrow.【颱風】",
+    "question": "The __________ is very strong today. It blew my umbrella away.",
     "options": [
      {
       "letter": "A",
-      "text": "earth"
+      "text": "sun"
      },
      {
       "letter": "B",
-      "text": "air"
+      "text": "moon"
+     },
+     {
+      "letter": "C",
+      "text": "wind"
+     },
+     {
+      "letter": "D",
+      "text": "rainbow"
+     }
+    ],
+    "answer": "C",
+    "vi": 18
+   },
+   {
+    "question": "A cold wind __________ from the north in winter. It makes my face and ears hurt.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "shines"
+     },
+     {
+      "letter": "B",
+      "text": "rains"
+     },
+     {
+      "letter": "C",
+      "text": "snows"
+     },
+     {
+      "letter": "D",
+      "text": "blows"
+     }
+    ],
+    "answer": "D",
+    "vi": 19
+   },
+   {
+    "question": "A strong __________ is coming to Taiwan tomorrow. There will be heavy rain and wind, so there will be no school.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rainbow"
+     },
+     {
+      "letter": "B",
+      "text": "star"
      },
      {
       "letter": "C",
@@ -886,26 +886,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "earthquake"
+      "text": "moon"
      }
     ],
     "answer": "C",
     "vi": 20
    },
    {
-    "question": "Q: Is it an __________? The house is shaking! — A: Yes, it is! Get under the table.【地震】",
+    "question": "There was a big __________ last night. The ground shook, and some buildings fell down.",
     "options": [
      {
       "letter": "A",
-      "text": "shower"
+      "text": "typhoon"
      },
      {
       "letter": "B",
-      "text": "weather"
+      "text": "rainbow"
      },
      {
       "letter": "C",
-      "text": "moon"
+      "text": "shower"
      },
      {
       "letter": "D",
@@ -916,7 +916,7 @@ window.FLASHCARD_UNITS = {
     "vi": 21
    },
    {
-    "question": "Q: Where does the __________ come up? — A: It comes up in the east.【太陽】",
+    "question": "The __________ comes up in the east every morning. It gives us light and heat.",
     "options": [
      {
       "letter": "A",
@@ -924,26 +924,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "typhoon"
+      "text": "moon"
      },
      {
       "letter": "C",
-      "text": "air"
+      "text": "star"
      },
      {
       "letter": "D",
-      "text": "rainbow"
+      "text": "wind"
      }
     ],
     "answer": "A",
     "vi": 22
    },
    {
-    "question": "Q: What does the sun do in the day? — A: It __________ and gives us light.【照耀】",
+    "question": "The sun __________ in the day, and the moon comes out at night.",
     "options": [
      {
       "letter": "A",
-      "text": "blow"
+      "text": "blows"
      },
      {
       "letter": "B",
@@ -951,26 +951,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "rain"
+      "text": "rains"
      },
      {
       "letter": "D",
-      "text": "snow"
+      "text": "snows"
      }
     ],
     "answer": "B",
     "vi": 23
    },
    {
-    "question": "Q: When do you see the __________? — A: I see it at night. Sometimes it's round.【月亮】",
+    "question": "The __________ is round and bright tonight. We can see it best on Moon Festival night.",
     "options": [
      {
       "letter": "A",
-      "text": "rainbow"
+      "text": "sun"
      },
      {
       "letter": "B",
-      "text": "air"
+      "text": "wind"
      },
      {
       "letter": "C",
@@ -978,14 +978,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "earthquake"
+      "text": "cloud"
      }
     ],
     "answer": "C",
     "vi": 24
    },
    {
-    "question": "Q: What do you see in the sky at night? — A: I see many bright __________.【星星】",
+    "question": "On a clear night, you can see thousands of __________ in the sky. They look like tiny lights.",
     "options": [
      {
       "letter": "A",
@@ -993,7 +993,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "stars"
+      "text": "rainbows"
      },
      {
       "letter": "C",
@@ -1001,14 +1001,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "typhoon"
+      "text": "stars"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 25
    },
    {
-    "question": "Q: Where do birds fly? — A: They fly in the __________.【天空】",
+    "question": "Look up at the __________! It is blue, and there are no clouds today.",
     "options": [
      {
       "letter": "A",
@@ -1016,11 +1016,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "rainbow"
+      "text": "earth"
      },
      {
       "letter": "C",
-      "text": "earthquake"
+      "text": "air"
      },
      {
       "letter": "D",
@@ -1031,7 +1031,7 @@ window.FLASHCARD_UNITS = {
     "vi": 26
    },
    {
-    "question": "Q: Where do we live? — A: We live on the __________. It is round.【地球】",
+    "question": "We live on the __________. This planet goes around the sun once a year.",
     "options": [
      {
       "letter": "A",
@@ -1039,90 +1039,90 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "wind"
-     },
-     {
-      "letter": "C",
-      "text": "earthquake"
-     },
-     {
-      "letter": "D",
       "text": "earth"
-     }
-    ],
-    "answer": "D",
-    "vi": 27
-   },
-   {
-    "question": "Q: What do people and animals need? — A: They need __________, water and food.【空氣】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "air"
-     },
-     {
-      "letter": "B",
-      "text": "nature"
      },
      {
       "letter": "C",
-      "text": "moon"
+      "text": "sky"
      },
      {
       "letter": "D",
-      "text": "earthquake"
-     }
-    ],
-    "answer": "A",
-    "vi": 28
-   },
-   {
-    "question": "Q: What do __________ need? — A: They need water and light.【植物】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "stars"
-     },
-     {
-      "letter": "B",
-      "text": "clouds"
-     },
-     {
-      "letter": "C",
-      "text": "plants"
-     },
-     {
-      "letter": "D",
-      "text": "weather"
-     }
-    ],
-    "answer": "C",
-    "vi": 29
-   },
-   {
-    "question": "Q: Does your father love __________? — A: Yes, he does. He often goes to the mountains.【自然；大自然】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "shower"
-     },
-     {
-      "letter": "B",
-      "text": "nature"
-     },
-     {
-      "letter": "C",
-      "text": "moon"
-     },
-     {
-      "letter": "D",
-      "text": "sun"
+      "text": "star"
      }
     ],
     "answer": "B",
+    "vi": 27
+   },
+   {
+    "question": "We can't see __________, but we need it to live. People and animals breathe it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sky"
+     },
+     {
+      "letter": "B",
+      "text": "sun"
+     },
+     {
+      "letter": "C",
+      "text": "cloud"
+     },
+     {
+      "letter": "D",
+      "text": "air"
+     }
+    ],
+    "answer": "D",
+    "vi": 28
+   },
+   {
+    "question": "__________ need water and light to grow. Trees and flowers are two kinds of them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Stars"
+     },
+     {
+      "letter": "B",
+      "text": "plants"
+     },
+     {
+      "letter": "C",
+      "text": "Clouds"
+     },
+     {
+      "letter": "D",
+      "text": "Winds"
+     }
+    ],
+    "answer": "B",
+    "vi": 29
+   },
+   {
+    "question": "I love __________. I enjoy looking at mountains, rivers, trees, and wild animals.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "weather"
+     },
+     {
+      "letter": "B",
+      "text": "air"
+     },
+     {
+      "letter": "C",
+      "text": "nature"
+     },
+     {
+      "letter": "D",
+      "text": "typhoon"
+     }
+    ],
+    "answer": "C",
     "vi": 30
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cool":["a little cold; also very good and fun","涼爽的"],"cold":["a common sickness that makes you cough and sneeze","感冒"],"hot":["having a high temperature; not cold; also spicy","熱的；燙的；辣的"],"weather":["how hot, cold, wet, or dry it is outside","天氣"],"sunny":["bright with a lot of sun","晴朗的"],"clear":["with no clouds; easy to see through","晴朗的；清澈的"],"cloudy":["with many clouds in the sky","多雲的"],"rainy":["with a lot of rain","下雨的"],"windy":["with a lot of wind","多風的"],"snowy":["with a lot of snow","下雪的"],"warm":["a little hot, in a nice way","溫暖的"],"dry":["with no water or rain; not wet","乾的；乾燥的"],"wet":["covered with water; not dry","濕的"],"rain":["when water falls from the clouds","下雨"],"shower":["a short rain; washing your body under falling water","陣雨；淋浴"],"clouds":["a white or gray thing in the sky that rain falls from","雲"],"rainbow":["a curve of many colors in the sky after rain","彩虹"],"snow":["when soft white ice falls from the sky","下雪"],"wind":["air that moves outside","風"],"blow":["(of wind or air) to move; to send air out of your mouth","吹"],"typhoon":["a very strong storm with heavy wind and rain","颱風"],"earthquake":["a time when the ground shakes suddenly","地震"],"sun":["the big bright thing in the sky that gives us light and heat in the day","太陽"],"shines":["to give out bright light","照耀"],"moon":["the big round thing that shines in the sky at night","月亮"],"stars":["a small bright point of light in the sky at night","星星"],"sky":["the space above us where we see clouds, the sun, and stars","天空"],"earth":["the planet that we live on","地球"],"air":["what we breathe; it is all around us","空氣"],"plants":["a living thing with leaves and roots, like a tree or a flower","植物"],"nature":["trees, animals, rivers, and everything not made by people","自然；大自然"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"nature":["trees, animals, rivers, and everything not made by people","自然；大自然"],"earth":["the planet that we live on","地球"],"weather":["how hot, cold, wet, or dry it is outside","天氣"],"moon":["the big round thing that shines in the sky at night","月亮"],"rainy":["with a lot of rain","下雨的"],"sunny":["bright with a lot of sun","晴朗的"],"snowy":["with a lot of snow","下雪的"],"cloudy":["with many clouds in the sky","多雲的"],"clear":["with no clouds; easy to see through","晴朗的；清澈的"],"wet":["covered with water; not dry","濕的"],"dry":["with no water or rain; not wet","乾的；乾燥的"],"windy":["with a lot of wind","多風的"],"warm":["a little hot, in a nice way","溫暖的"],"hot":["having a high temperature; not cold; also spicy","熱的；燙的；辣的"],"cold":["a common sickness that makes you cough and sneeze","感冒"],"cool":["a little cold; also very good and fun","涼爽的"],"shine":["to give out bright light","照耀"],"blow":["(of wind or air) to move; to send air out of your mouth","吹"],"rain":["when water falls from the clouds","下雨"],"plant":["a living thing with leaves and roots, like a tree or a flower","植物"],"rainbow":["a curve of many colors in the sky after rain","彩虹"],"shower":["a short rain; washing your body under falling water","陣雨；淋浴"],"earthquake":["a time when the ground shakes suddenly","地震"],"star":["a small bright point of light in the sky at night","星星"],"stars":["a small bright point of light in the sky at night","星星"],"plants":["a living thing with leaves and roots, like a tree or a flower","植物"],"rainbows":["a curve of many colors in the sky after rain","彩虹"],"clouds":["a white or gray thing in the sky that rain falls from","雲"],"typhoon":["a very strong storm with heavy wind and rain","颱風"],"wind":["air that moves outside","風"],"snow":["when soft white ice falls from the sky","下雪"],"sun":["the big bright thing in the sky that gives us light and heat in the day","太陽"],"shines":["to give out bright light","照耀"],"rains":["when water falls from the clouds","下雨"],"snows":["when soft white ice falls from the sky","下雪"],"blows":["(of wind or air) to move; to send air out of your mouth","吹"],"cloud":["a white or gray thing in the sky that rain falls from","雲"],"sky":["the space above us where we see clouds, the sun, and stars","天空"],"air":["what we breathe; it is all around us","空氣"],"winds":["air that moves outside","風"]});

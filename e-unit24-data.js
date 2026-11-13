@@ -163,34 +163,34 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: Is this an old __________? — A: Yes, it is. There are many old houses near the station.【地區】",
+    "question": "Many families live in this __________ of the city because there are good schools and parks here.",
     "options": [
      {
       "letter": "A",
-      "text": "bank"
-     },
-     {
-      "letter": "B",
-      "text": "pond"
-     },
-     {
-      "letter": "C",
       "text": "area"
      },
      {
-      "letter": "D",
+      "letter": "B",
+      "text": "island"
+     },
+     {
+      "letter": "C",
       "text": "river"
+     },
+     {
+      "letter": "D",
+      "text": "pond"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 0
    },
    {
-    "question": "Q: What is there near your school? — A: There is a small __________ near my school. We often walk up it.【小山】",
+    "question": "There is a small __________ behind our school. We can walk to the top in ten minutes.",
     "options": [
      {
       "letter": "A",
-      "text": "sea"
+      "text": "pond"
      },
      {
       "letter": "B",
@@ -198,179 +198,64 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "bank"
+      "text": "lake"
      },
      {
       "letter": "D",
-      "text": "pool"
+      "text": "sea"
      }
     ],
     "answer": "B",
     "vi": 1
    },
    {
-    "question": "Q: Are there any mountains near Taipei? — A: Yes, there are. There are many high __________ near Taipei.【山】",
+    "question": "Taiwan has many high __________. More than two hundred of them are over 3,000 meters.",
     "options": [
      {
       "letter": "A",
-      "text": "islands"
+      "text": "ponds"
      },
      {
       "letter": "B",
-      "text": "pond"
+      "text": "beaches"
      },
      {
       "letter": "C",
-      "text": "bank"
-     },
-     {
-      "letter": "D",
-      "text": "mountains"
-     }
-    ],
-    "answer": "D",
-    "vi": 2
-   },
-   {
-    "question": "Q: What is there near Taiwan? — A: There are many small __________ near Taiwan, like Green Island.【島嶼】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "islands"
-     },
-     {
-      "letter": "B",
       "text": "mountains"
      },
      {
-      "letter": "C",
-      "text": "pool"
-     },
-     {
       "letter": "D",
-      "text": "lake"
-     }
-    ],
-    "answer": "A",
-    "vi": 3
-   },
-   {
-    "question": "Q: Is there a __________ in the park? — A: Yes, there is. There are many fish and frogs in it.【池塘】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sea"
-     },
-     {
-      "letter": "B",
-      "text": "beach"
-     },
-     {
-      "letter": "C",
-      "text": "area"
-     },
-     {
-      "letter": "D",
-      "text": "pond"
-     }
-    ],
-    "answer": "D",
-    "vi": 4
-   },
-   {
-    "question": "Q: What can you do at the __________? — A: I can play in the sand and swim in the sea.【海灘】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pool"
-     },
-     {
-      "letter": "B",
-      "text": "pond"
-     },
-     {
-      "letter": "C",
-      "text": "beach"
-     },
-     {
-      "letter": "D",
-      "text": "hill"
+      "text": "pools"
      }
     ],
     "answer": "C",
-    "vi": 5
+    "vi": 2
    },
    {
-    "question": "Q: What can your brother do in the __________? — A: He can swim and look at the fish.【海】",
+    "question": "Japan has four big __________ and many small ones. There is sea all around each of them.",
     "options": [
      {
       "letter": "A",
-      "text": "lake"
+      "text": "hills"
      },
      {
       "letter": "B",
-      "text": "sea"
+      "text": "rivers"
      },
      {
       "letter": "C",
-      "text": "pool"
+      "text": "lakes"
      },
      {
       "letter": "D",
-      "text": "bank"
-     }
-    ],
-    "answer": "B",
-    "vi": 6
-   },
-   {
-    "question": "Q: What can we do at the swimming __________? — A: We can swim and play in the water. But don't run there.【游泳池】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pool"
-     },
-     {
-      "letter": "B",
-      "text": "river"
-     },
-     {
-      "letter": "C",
-      "text": "area"
-     },
-     {
-      "letter": "D",
-      "text": "beach"
-     }
-    ],
-    "answer": "A",
-    "vi": 7
-   },
-   {
-    "question": "Q: What does your grandpa do on Sundays? — A: He goes fishing by the __________.【河】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "area"
-     },
-     {
-      "letter": "B",
-      "text": "hill"
-     },
-     {
-      "letter": "C",
-      "text": "bank"
-     },
-     {
-      "letter": "D",
-      "text": "river"
+      "text": "islands"
      }
     ],
     "answer": "D",
-    "vi": 8
+    "vi": 3
    },
    {
-    "question": "Q: Where do you and your friends ride bikes? — A: We ride bikes along the river __________.【（河）岸；堤】",
+    "question": "There is a small __________ in the park. Ducks swim in it, and children feed the fish there.",
     "options": [
      {
       "letter": "A",
@@ -378,53 +263,168 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "hill"
+     },
+     {
+      "letter": "C",
+      "text": "beach"
+     },
+     {
+      "letter": "D",
+      "text": "island"
+     }
+    ],
+    "answer": "A",
+    "vi": 4
+   },
+   {
+    "question": "We played in the sand at the __________ and watched the waves all day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hill"
+     },
+     {
+      "letter": "B",
+      "text": "pond"
+     },
+     {
+      "letter": "C",
+      "text": "lake"
+     },
+     {
+      "letter": "D",
+      "text": "beach"
+     }
+    ],
+    "answer": "D",
+    "vi": 5
+   },
+   {
+    "question": "Whales and sharks live in the __________. Its water is salty, so we can't drink it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pond"
+     },
+     {
+      "letter": "B",
+      "text": "pool"
+     },
+     {
+      "letter": "C",
+      "text": "sea"
+     },
+     {
+      "letter": "D",
+      "text": "spring"
+     }
+    ],
+    "answer": "C",
+    "vi": 6
+   },
+   {
+    "question": "We can't go to the beach, so let's swim in the __________ at the sports center.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hill"
+     },
+     {
+      "letter": "B",
+      "text": "pool"
+     },
+     {
+      "letter": "C",
+      "text": "bank"
+     },
+     {
+      "letter": "D",
+      "text": "area"
+     }
+    ],
+    "answer": "B",
+    "vi": 7
+   },
+   {
+    "question": "The Tamsui __________ runs through Taipei and goes into the sea.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "River"
+     },
+     {
+      "letter": "B",
+      "text": "Hill"
+     },
+     {
+      "letter": "C",
+      "text": "Island"
+     },
+     {
+      "letter": "D",
+      "text": "Beach"
+     }
+    ],
+    "answer": "A",
+    "vi": 8
+   },
+   {
+    "question": "We sat on the __________ of the river and fished all afternoon.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sea"
+     },
+     {
+      "letter": "B",
       "text": "bank"
      },
      {
       "letter": "C",
-      "text": "hill"
+      "text": "pool"
      },
      {
       "letter": "D",
-      "text": "sea"
+      "text": "island"
      }
     ],
     "answer": "B",
     "vi": 9
    },
    {
-    "question": "Q: Where does Amy go on vacation? — A: She goes to Sun Moon __________. She takes a boat there.【湖】",
+    "question": "Sun Moon __________ is in the middle of Taiwan. Many visitors take a boat on its beautiful water.",
     "options": [
      {
       "letter": "A",
-      "text": "lake"
+      "text": "Hill"
      },
      {
       "letter": "B",
-      "text": "pond"
+      "text": "Beach"
      },
      {
       "letter": "C",
-      "text": "pool"
+      "text": "Sea"
      },
      {
       "letter": "D",
-      "text": "sea"
+      "text": "Lake"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 10
    },
    {
-    "question": "Q: What do people do in Beitou in winter? — A: They take a bath in a hot __________.【泉】",
+    "question": "People love to sit in the hot __________ in Beitou in winter. The warm water comes up from under the ground.",
     "options": [
      {
       "letter": "A",
-      "text": "area"
+      "text": "beach"
      },
      {
       "letter": "B",
-      "text": "lake"
+      "text": "hill"
      },
      {
       "letter": "C",
@@ -432,7 +432,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "bank"
+      "text": "island"
      }
     ],
     "answer": "C",
@@ -441,4 +441,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"spring":["the season after winter, when flowers start to grow","春天"],"beach":["a place with sand next to the sea","海灘"],"pool":["a place full of water for swimming","游泳池"],"bank":["a place where people keep their money","銀行"],"area":["a part of a place, a city, or a country","地區"],"hill":["a high piece of land, smaller than a mountain","小山"],"mountains":["a very high piece of land","山"],"islands":["a piece of land with water all around it","島嶼"],"pond":["a small area of water, smaller than a lake","池塘"],"sea":["the salt water that covers much of the earth","海"],"river":["a long line of water that runs to the sea","河"],"lake":["a big area of water with land all around it","湖"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"area":["a part of a place, a city, or a country","地區"],"island":["a piece of land with water all around it","島嶼"],"river":["a long line of water that runs to the sea","河"],"pond":["a small area of water, smaller than a lake","池塘"],"hill":["a high piece of land, smaller than a mountain","小山"],"lake":["a big area of water with land all around it","湖"],"sea":["the salt water that covers much of the earth","海"],"ponds":["a small area of water, smaller than a lake","池塘"],"beaches":["a place with sand next to the sea","海灘"],"mountains":["a very high piece of land","山"],"pools":["a place full of water for swimming","游泳池"],"hills":["a high piece of land, smaller than a mountain","小山"],"rivers":["a long line of water that runs to the sea","河"],"lakes":["a big area of water with land all around it","湖"],"islands":["a piece of land with water all around it","島嶼"],"beach":["a place with sand next to the sea","海灘"],"pool":["a place full of water for swimming","游泳池"],"spring":["the season after winter, when flowers start to grow","春天"],"bank":["a place where people keep their money","銀行"]});

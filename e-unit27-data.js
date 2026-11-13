@@ -332,38 +332,38 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: Whose pencil case is this? Is it yours, Ben? — A: Yes, it's __________. Thank you.【我的（東西）】",
+    "question": "This is not your umbrella. It is __________. Look, my name is on it.",
     "options": [
      {
       "letter": "A",
+      "text": "hers"
+     },
+     {
+      "letter": "B",
       "text": "him"
      },
      {
-      "letter": "B",
-      "text": "mine"
-     },
-     {
       "letter": "C",
-      "text": "some"
+      "text": "them"
      },
      {
       "letter": "D",
-      "text": "all"
+      "text": "mine"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 0
    },
    {
-    "question": "Q: Is this pink umbrella Amy's? — A: Yes, it's __________. She uses it every day.【她的（東西）】",
+    "question": "That bike belongs to Amy. It is __________, not yours.",
     "options": [
      {
       "letter": "A",
-      "text": "ours"
+      "text": "mine"
      },
      {
       "letter": "B",
-      "text": "some"
+      "text": "ours"
      },
      {
       "letter": "C",
@@ -371,298 +371,298 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "both"
+      "text": "him"
      }
     ],
     "answer": "C",
     "vi": 1
    },
    {
-    "question": "Q: Do you and your brother share this room? — A: Yes, we do. This room is __________.【我們的（東西）】",
+    "question": "My brother and I share this room, so it is __________. Our two beds are by the window.",
     "options": [
      {
       "letter": "A",
-      "text": "hers"
+      "text": "ours"
      },
      {
       "letter": "B",
-      "text": "yourself"
+      "text": "hers"
      },
      {
       "letter": "C",
+      "text": "mine"
+     },
+     {
+      "letter": "D",
+      "text": "them"
+     }
+    ],
+    "answer": "A",
+    "vi": 2
+   },
+   {
+    "question": "Tom is my best friend. I play basketball with __________ every day after school.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "them"
+     },
+     {
+      "letter": "B",
       "text": "him"
+     },
+     {
+      "letter": "C",
+      "text": "hers"
+     },
+     {
+      "letter": "D",
+      "text": "itself"
+     }
+    ],
+    "answer": "B",
+    "vi": 3
+   },
+   {
+    "question": "My grandparents live in Tainan. I visit __________ every summer vacation.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "them"
+     },
+     {
+      "letter": "B",
+      "text": "him"
+     },
+     {
+      "letter": "C",
+      "text": "hers"
      },
      {
       "letter": "D",
       "text": "ours"
      }
     ],
-    "answer": "D",
-    "vi": 2
-   },
-   {
-    "question": "Q: Does Tom play basketball with you? — A: Yes, he does. I play with __________ every day.【他（受詞）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "him"
-     },
-     {
-      "letter": "B",
-      "text": "yourself"
-     },
-     {
-      "letter": "C",
-      "text": "someone"
-     },
-     {
-      "letter": "D",
-      "text": "itself"
-     }
-    ],
     "answer": "A",
-    "vi": 3
-   },
-   {
-    "question": "Q: Do you like your new classmates? — A: Yes, I do. I often help __________ with math.【他們（受詞）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "him"
-     },
-     {
-      "letter": "B",
-      "text": "them"
-     },
-     {
-      "letter": "C",
-      "text": "someone"
-     },
-     {
-      "letter": "D",
-      "text": "all"
-     }
-    ],
-    "answer": "B",
     "vi": 4
    },
    {
-    "question": "Q: Can I have some cookies, Grandma? — A: Sure. Help __________, dear.【你自己】",
+    "question": "Be careful with that knife, Ben! Don't cut __________.",
     "options": [
      {
       "letter": "A",
-      "text": "everyone"
-     },
-     {
-      "letter": "B",
-      "text": "many"
-     },
-     {
-      "letter": "C",
-      "text": "all"
-     },
-     {
-      "letter": "D",
-      "text": "yourself"
-     }
-    ],
-    "answer": "D",
-    "vi": 5
-   },
-   {
-    "question": "Q: Does your robot clean the floor by __________? — A: Yes, it does. It cleans the floor every day.【它自己】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "nobody"
-     },
-     {
-      "letter": "B",
-      "text": "most"
-     },
-     {
-      "letter": "C",
       "text": "itself"
      },
      {
+      "letter": "B",
+      "text": "ours"
+     },
+     {
+      "letter": "C",
+      "text": "yourself"
+     },
+     {
       "letter": "D",
-      "text": "all"
+      "text": "hers"
      }
     ],
     "answer": "C",
+    "vi": 5
+   },
+   {
+    "question": "The cat is washing __________ with its tongue. It does this many times a day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "yourself"
+     },
+     {
+      "letter": "B",
+      "text": "ours"
+     },
+     {
+      "letter": "C",
+      "text": "hers"
+     },
+     {
+      "letter": "D",
+      "text": "itself"
+     }
+    ],
+    "answer": "D",
     "vi": 6
    },
    {
-    "question": "Q: Who is at the door? — A: I don't know. __________ is knocking on the door.【某人】",
+    "question": "__________ is knocking at the door, but I don't know who it is.",
     "options": [
      {
       "letter": "A",
+      "text": "Everyone"
+     },
+     {
+      "letter": "B",
       "text": "Someone"
      },
      {
-      "letter": "B",
-      "text": "Nobody"
-     },
-     {
       "letter": "C",
-      "text": "Itself"
+      "text": "Nothing"
      },
      {
       "letter": "D",
-      "text": "Mine"
-     }
-    ],
-    "answer": "A",
-    "vi": 7
-   },
-   {
-    "question": "Q: Does __________ in your class have a dictionary? — A: Yes, Amy does. She always brings it to school.【任何人】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "him"
-     },
-     {
-      "letter": "B",
-      "text": "anyone"
-     },
-     {
-      "letter": "C",
-      "text": "both"
-     },
-     {
-      "letter": "D",
-      "text": "yourself"
+      "text": "Anything"
      }
     ],
     "answer": "B",
-    "vi": 8
+    "vi": 7
    },
    {
-    "question": "Q: Is __________ here today? — A: No. Tom is sick. He is at home.【每一個人】",
+    "question": "Is there __________ in the classroom? No, all the students have gone home.",
     "options": [
      {
       "letter": "A",
-      "text": "nobody"
+      "text": "anyone"
      },
      {
       "letter": "B",
-      "text": "most"
+      "text": "nothing"
      },
      {
       "letter": "C",
-      "text": "itself"
+      "text": "everything"
      },
      {
       "letter": "D",
-      "text": "everyone"
+      "text": "something"
+     }
+    ],
+    "answer": "A",
+    "vi": 8
+   },
+   {
+    "question": "__________ in my class likes Ms. Lin. All thirty of us think she is a great teacher.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Nobody"
+     },
+     {
+      "letter": "B",
+      "text": "Anything"
+     },
+     {
+      "letter": "C",
+      "text": "Something"
+     },
+     {
+      "letter": "D",
+      "text": "Everyone"
      }
     ],
     "answer": "D",
     "vi": 9
    },
    {
-    "question": "Q: Who is in the classroom now? — A: __________ is in it. Everyone is on the playground.【沒有人】",
+    "question": "__________ was at home when I came back. The house was dark and empty.",
     "options": [
      {
       "letter": "A",
-      "text": "Many"
+      "text": "Everyone"
      },
      {
       "letter": "B",
-      "text": "Some"
-     },
-     {
-      "letter": "C",
       "text": "Nobody"
      },
      {
-      "letter": "D",
-      "text": "Him"
-     }
-    ],
-    "answer": "C",
-    "vi": 10
-   },
-   {
-    "question": "Q: Do you want __________ to drink? — A: Yes, please. I'd like some juice.【某事；某物】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "something"
-     },
-     {
-      "letter": "B",
-      "text": "anything"
-     },
-     {
       "letter": "C",
-      "text": "everything"
+      "text": "Something"
      },
      {
       "letter": "D",
-      "text": "nothing"
-     }
-    ],
-    "answer": "A",
-    "vi": 11
-   },
-   {
-    "question": "Q: Does your brother need __________ from the store? — A: Yes, he does. He needs some milk.【任何事物】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "everything"
-     },
-     {
-      "letter": "B",
-      "text": "something"
-     },
-     {
-      "letter": "C",
-      "text": "nothing"
-     },
-     {
-      "letter": "D",
-      "text": "anything"
-     }
-    ],
-    "answer": "D",
-    "vi": 12
-   },
-   {
-    "question": "Q: Do you have __________ for the picnic? — A: Yes, we do. We have food, water, and a big blanket.【每件事；一切】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "something"
-     },
-     {
-      "letter": "B",
-      "text": "everything"
-     },
-     {
-      "letter": "C",
-      "text": "nothing"
-     },
-     {
-      "letter": "D",
-      "text": "anything"
+      "text": "Anything"
      }
     ],
     "answer": "B",
-    "vi": 13
+    "vi": 10
    },
    {
-    "question": "Q: What does Ben have in his pocket? — A: He has __________. He doesn't have any money.【沒東西；沒事】",
+    "question": "I am thirsty. I want __________ cold to drink, like juice or tea.",
     "options": [
      {
       "letter": "A",
-      "text": "anything"
+      "text": "nothing"
      },
      {
       "letter": "B",
+      "text": "everyone"
+     },
+     {
+      "letter": "C",
+      "text": "something"
+     },
+     {
+      "letter": "D",
+      "text": "nobody"
+     }
+    ],
+    "answer": "C",
+    "vi": 11
+   },
+   {
+    "question": "I am so full that I can't eat __________ more. Please take the cake away.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "nobody"
+     },
+     {
+      "letter": "B",
+      "text": "anything"
+     },
+     {
+      "letter": "C",
+      "text": "everyone"
+     },
+     {
+      "letter": "D",
+      "text": "someone"
+     }
+    ],
+    "answer": "B",
+    "vi": 12
+   },
+   {
+    "question": "Thank you for __________ you have done for me: the food, the room, and all your help.",
+    "options": [
+     {
+      "letter": "A",
       "text": "everything"
+     },
+     {
+      "letter": "B",
+      "text": "nothing"
+     },
+     {
+      "letter": "C",
+      "text": "nobody"
+     },
+     {
+      "letter": "D",
+      "text": "someone"
+     }
+    ],
+    "answer": "A",
+    "vi": 13
+   },
+   {
+    "question": "There is __________ in the box. It is empty.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "everything"
+     },
+     {
+      "letter": "B",
+      "text": "everyone"
      },
      {
       "letter": "C",
@@ -677,57 +677,80 @@ window.FLASHCARD_UNITS = {
     "vi": 14
    },
    {
-    "question": "Q: Do your classmates like PE? — A: Yes, __________ of them like it. They love sports.【全部】",
+    "question": "The three boys are brothers, and __________ of them are tall like their father.",
     "options": [
      {
       "letter": "A",
+      "text": "another"
+     },
+     {
+      "letter": "B",
+      "text": "other"
+     },
+     {
+      "letter": "C",
+      "text": "any"
+     },
+     {
+      "letter": "D",
       "text": "all"
-     },
-     {
-      "letter": "B",
-      "text": "mine"
-     },
-     {
-      "letter": "C",
-      "text": "some"
-     },
-     {
-      "letter": "D",
-      "text": "other"
-     }
-    ],
-    "answer": "A",
-    "vi": 15
-   },
-   {
-    "question": "Q: Do your parents speak English? — A: Yes, __________ of them speak English.【兩者都】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "him"
-     },
-     {
-      "letter": "B",
-      "text": "other"
-     },
-     {
-      "letter": "C",
-      "text": "itself"
-     },
-     {
-      "letter": "D",
-      "text": "both"
      }
     ],
     "answer": "D",
-    "vi": 16
+    "vi": 15
    },
    {
-    "question": "Q: Does the teacher give the students a book? — A: Yes, she does. __________ student has a new book.【每一（個）】",
+    "question": "Amy has two cats, and __________ of them are black.",
     "options": [
      {
       "letter": "A",
+      "text": "another"
+     },
+     {
+      "letter": "B",
+      "text": "both"
+     },
+     {
+      "letter": "C",
+      "text": "other"
+     },
+     {
+      "letter": "D",
+      "text": "any"
+     }
+    ],
+    "answer": "B",
+    "vi": 16
+   },
+   {
+    "question": "__________ student gets one book. There are thirty students, so we need thirty books.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Both"
+     },
+     {
+      "letter": "B",
+      "text": "Many"
+     },
+     {
+      "letter": "C",
       "text": "Each"
+     },
+     {
+      "letter": "D",
+      "text": "Some"
+     }
+    ],
+    "answer": "C",
+    "vi": 17
+   },
+   {
+    "question": "__________ of my classmates walk to school, but a few take the bus.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Most"
      },
      {
       "letter": "B",
@@ -735,145 +758,122 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
+      "text": "Other"
+     },
+     {
+      "letter": "D",
+      "text": "Any"
+     }
+    ],
+    "answer": "A",
+    "vi": 18
+   },
+   {
+    "question": "The singer is very popular. __________ of her fans waited all night to buy tickets.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Another"
+     },
+     {
+      "letter": "B",
+      "text": "Other"
+     },
+     {
+      "letter": "C",
       "text": "Any"
      },
      {
       "letter": "D",
-      "text": "That"
-     }
-    ],
-    "answer": "A",
-    "vi": 17
-   },
-   {
-    "question": "Q: Do your friends walk to school? — A: __________ of them walk to school, but Tom rides his bike.【大部分（的人／物）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "All"
-     },
-     {
-      "letter": "B",
-      "text": "Most"
-     },
-     {
-      "letter": "C",
-      "text": "Anyone"
-     },
-     {
-      "letter": "D",
       "text": "Many"
      }
     ],
-    "answer": "B",
-    "vi": 18
-   },
-   {
-    "question": "Q: Does your sister have friends at her new school? — A: Yes, she does. __________ of her classmates are nice to her.【許多（人／物）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Yourself"
-     },
-     {
-      "letter": "B",
-      "text": "Some"
-     },
-     {
-      "letter": "C",
-      "text": "Many"
-     },
-     {
-      "letter": "D",
-      "text": "Anyone"
-     }
-    ],
-    "answer": "C",
+    "answer": "D",
     "vi": 19
    },
    {
-    "question": "Q: I have many candies. Do you want __________? — A: Yes, please. Thank you.【一些】",
+    "question": "I baked too many cookies. Would you like __________?",
     "options": [
      {
       "letter": "A",
-      "text": "nobody"
+      "text": "other"
      },
      {
       "letter": "B",
+      "text": "both"
+     },
+     {
+      "letter": "C",
       "text": "some"
      },
      {
-      "letter": "C",
-      "text": "many"
-     },
-     {
       "letter": "D",
-      "text": "itself"
-     }
-    ],
-    "answer": "B",
-    "vi": 20
-   },
-   {
-    "question": "Q: Does your sister have __________ pets? — A: No, she doesn't. She is scared of animals.【任何的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "any"
-     },
-     {
-      "letter": "B",
-      "text": "another"
-     },
-     {
-      "letter": "C",
-      "text": "each"
-     },
-     {
-      "letter": "D",
-      "text": "every"
-     }
-    ],
-    "answer": "A",
-    "vi": 21
-   },
-   {
-    "question": "Q: This cake is yummy. Can I have __________ piece? — A: Sure. Here you are.【再一個；另一個】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "any"
-     },
-     {
-      "letter": "B",
-      "text": "each"
-     },
-     {
-      "letter": "C",
-      "text": "another"
-     },
-     {
-      "letter": "D",
-      "text": "their"
+      "text": "part"
      }
     ],
     "answer": "C",
-    "vi": 22
+    "vi": 20
    },
    {
-    "question": "Q: What does Lisa have in her hands? — A: She has an apple in one hand and a banana in the __________.【其他的（人／物）】",
+    "question": "Do you have __________ brothers or sisters? No, I am the only child.",
     "options": [
      {
       "letter": "A",
-      "text": "itself"
+      "text": "another"
      },
      {
       "letter": "B",
-      "text": "nobody"
+      "text": "any"
      },
      {
       "letter": "C",
-      "text": "everyone"
+      "text": "each"
+     },
+     {
+      "letter": "D",
+      "text": "part"
+     }
+    ],
+    "answer": "B",
+    "vi": 21
+   },
+   {
+    "question": "This cookie is delicious. Can I have __________ one?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "another"
+     },
+     {
+      "letter": "B",
+      "text": "both"
+     },
+     {
+      "letter": "C",
+      "text": "most"
+     },
+     {
+      "letter": "D",
+      "text": "part"
+     }
+    ],
+    "answer": "A",
+    "vi": 22
+   },
+   {
+    "question": "I have two pens. One is red, and the __________ is blue.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "another"
+     },
+     {
+      "letter": "B",
+      "text": "both"
+     },
+     {
+      "letter": "C",
+      "text": "each"
      },
      {
       "letter": "D",
@@ -884,29 +884,29 @@ window.FLASHCARD_UNITS = {
     "vi": 23
    },
    {
-    "question": "Q: What __________ of the movie do you like? — A: I like the end. It is very funny.【部分】",
+    "question": "The first __________ of the movie was boring, but the second half was exciting.",
     "options": [
      {
       "letter": "A",
-      "text": "market"
-     },
-     {
-      "letter": "B",
-      "text": "half"
-     },
-     {
-      "letter": "C",
       "text": "part"
      },
      {
+      "letter": "B",
+      "text": "country"
+     },
+     {
+      "letter": "C",
+      "text": "holiday"
+     },
+     {
       "letter": "D",
-      "text": "mouth"
+      "text": "pet"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 24
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"mouth":["the part of your face that you eat and speak with","嘴巴"],"many":["a large number of (things you can count)","許多的（可數）"],"some":["a number or amount of something, not all","一些"],"any":["one or some, no matter which; used in questions and with \"not\"","任何的"],"all":["every one; the whole of something","全部；都"],"both":["the two; one and also the other","兩者都"],"half":["one of two same-sized parts; thirty minutes","一半；半小時"],"market":["a place where people buy and sell food and other things","市場"],"that":["the one that is there, not near me","那個"],"their":["belonging to them","他們的"],"every":["each one of a group; all","每一（個）的"],"mine":["the person who is speaking (\"mine\" = the one that belongs to me)","我"],"hers":["that woman or girl (\"hers\" = the one that belongs to her)","她"],"ours":["I and one or more other people (\"ours\" = the one that belongs to us)","我們"],"him":["that man or boy (\"him\" is used after a verb or \"with, to, for\")","他"],"them":["those people or things (\"them\" is used after a verb or \"with, to, for\")","他們"],"yourself":["the person I am talking to (\"yourself\" = you and no one else)","你（們）"],"itself":["that thing or animal (\"itself\" = it and nothing else)","它；牠"],"someone":["a person, but we do not know or say who","某人"],"anyone":["any person; it does not matter who","任何人"],"everyone":["all the people","每一個人"],"nobody":["no person; not anyone","沒有人"],"something":["a thing, but we do not know or say what","某事；某物"],"anything":["any thing; it does not matter what","任何事物"],"everything":["all things","每件事；一切"],"nothing":["not anything; no thing","沒東西；沒事"],"each":["every one of two or more, one by one","每一（個）"],"most":["almost all of a group","大部分（的人／物）"],"another":["one more; a different one","再一個；另一個"],"other":["the second of two; the ones that are left","其他的（人／物）"],"part":["one piece of something; not all of it","部分"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hers":["that woman or girl (\"hers\" = the one that belongs to her)","她"],"him":["that man or boy (\"him\" is used after a verb or \"with, to, for\")","他"],"them":["those people or things (\"them\" is used after a verb or \"with, to, for\")","他們"],"mine":["the person who is speaking (\"mine\" = the one that belongs to me)","我"],"ours":["I and one or more other people (\"ours\" = the one that belongs to us)","我們"],"itself":["that thing or animal (\"itself\" = it and nothing else)","它；牠"],"yourself":["the person I am talking to (\"yourself\" = you and no one else)","你（們）"],"everyone":["all the people","每一個人"],"someone":["a person, but we do not know or say who","某人"],"nothing":["not anything; no thing","沒東西；沒事"],"anything":["any thing; it does not matter what","任何事物"],"anyone":["any person; it does not matter who","任何人"],"everything":["all things","每件事；一切"],"something":["a thing, but we do not know or say what","某事；某物"],"nobody":["no person; not anyone","沒有人"],"another":["one more; a different one","再一個；另一個"],"other":["the second of two; the ones that are left","其他的（人／物）"],"any":["one or some, no matter which; used in questions and with \"not\"","任何的"],"all":["every one; the whole of something","全部；都"],"both":["the two; one and also the other","兩者都"],"many":["a large number of (things you can count)","許多的（可數）"],"each":["every one of two or more, one by one","每一（個）"],"some":["a number or amount of something, not all","一些"],"most":["almost all of a group","大部分（的人／物）"],"part":["one piece of something; not all of it","部分"],"country":["land outside cities, with farms and fields","鄉村"],"holiday":["a day when people do not have to work or go to school","假日"],"pet":["an animal that you keep at home","寵物"]});
