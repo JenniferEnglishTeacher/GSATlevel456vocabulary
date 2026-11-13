@@ -23,7 +23,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a title of respect used when speaking to or about a king or queen",
     "chinese": "陛下",
-    "sentence": "I am deeply honored to present this rare vintage wine to you, __________。",
+    "sentence": "I am deeply honored to present this rare vintage wine to you, __________.",
     "translation": "我深感榮幸能將這款珍稀的年份葡萄酒奉獻給您，陛下。",
     "lookup": {
      "english": "a title of respect used when speaking to or about a king or queen",
@@ -97,7 +97,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "it's highly recommended that",
-    "answer": "it's highly recommended that",
+    "answer": "It's highly recommended that",
     "pos": "phr.",
     "definition": "it is strongly advised or suggested that a certain action should be taken",
     "chinese": "強烈建議...（後接子句）",
@@ -110,11 +110,11 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "recommend that s (should) vr",
-    "answer": "recommend that s vr",
+    "answer": "recommended that",
     "pos": "phr.",
     "definition": "to suggest that someone ought to perform a specific action",
     "chinese": "建議某人應該做某事",
-    "sentence": "The financial advisor __________ (should) invest their savings in low-risk bonds.",
+    "sentence": "The financial advisor __________ the couple (should) invest their savings in low-risk bonds.",
     "translation": "理財顧問建議這對夫婦應該將他們的儲蓄投資於低風險的債券。",
     "lookup": {
      "english": "to suggest that someone ought to perform a specific action",
@@ -296,7 +296,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "an arrangement to have something kept for you, such as a hotel room",
     "chinese": "預約；預訂",
-    "sentence": "You won't be able to get a room in this hotel without a __________。",
+    "sentence": "You won't be able to get a room in this hotel without a __________.",
     "translation": "如果沒有預約，你將無法在這家飯店拿到房間。",
     "lookup": {
      "english": "an arrangement to have something kept for you, such as a hotel room",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "make a reservation",
-    "answer": "make a reservation",
+    "answer": "made a reservation",
     "pos": "phr.",
     "definition": "to book a seat, table, or room in advance",
     "chinese": "進行預約；訂位",
@@ -556,7 +556,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "features belonging to the culture of a society, such as traditions, languages, or buildings",
     "chinese": "文化遺產；傳統",
-    "sentence": "These works of art are of great importance to Italy's cultural __________。",
+    "sentence": "These works of art are of great importance to Italy's cultural __________.",
     "translation": "這些藝術品對義大利的文化遺產具有極大的重要性。",
     "lookup": {
      "english": "features belonging to the culture of a society, such as traditions, languages, or buildings",
@@ -569,7 +569,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the legacy of physical artifacts and intangible attributes inherited from past generations",
     "chinese": "文化遺產",
-    "sentence": "The government is trying to protect the old temple because it is a valuable __________。",
+    "sentence": "The government is trying to protect the old temple because it is a valuable __________.",
     "translation": "政府正試圖保護這座古廟，因為它是非常珍貴的文化遺產。",
     "lookup": {
      "english": "the legacy of physical artifacts and intangible attributes inherited from past generations",
@@ -608,7 +608,7 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "to be able to spend money or time on an action without serious trouble",
     "chinese": "負擔得起去（做某事）",
-    "sentence": "We can't __________ trip to Europe because the flights are too expensive.",
+    "sentence": "We can't __________ take a trip to Europe because the flights are too expensive.",
     "translation": "我們負擔不起去歐洲旅遊，因為機票實在太貴了。",
     "lookup": {
      "english": "to be able to spend money or time on an action without serious trouble",
@@ -992,7 +992,7 @@ window.FLASHCARD_UNITS = {
     "vi": 0
    },
    {
-    "question": "I am deeply honored to present this rare vintage wine to you, __________。",
+    "question": "I am deeply honored to present this rare vintage wine to you, __________.",
     "options": [
      {
       "letter": "A",
@@ -1123,7 +1123,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "recommend that s vr"
+      "text": "recommended that"
      }
     ],
     "answer": "C",
@@ -1138,7 +1138,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "it's highly recommended that"
+      "text": "It's highly recommended that"
      },
      {
       "letter": "C",
@@ -1153,11 +1153,11 @@ window.FLASHCARD_UNITS = {
     "vi": 7
    },
    {
-    "question": "The financial advisor __________ (should) invest their savings in low-risk bonds.",
+    "question": "The financial advisor __________ the couple (should) invest their savings in low-risk bonds.",
     "options": [
      {
       "letter": "A",
-      "text": "it's highly recommended that"
+      "text": "It's highly recommended that"
      },
      {
       "letter": "B",
@@ -1165,7 +1165,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "recommend that s vr"
+      "text": "recommended that"
      },
      {
       "letter": "D",
@@ -1475,7 +1475,7 @@ window.FLASHCARD_UNITS = {
     "vi": 21
    },
    {
-    "question": "You won't be able to get a room in this hotel without a __________。",
+    "question": "You won't be able to get a room in this hotel without a __________.",
     "options": [
      {
       "letter": "A",
@@ -1510,11 +1510,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "it's highly recommended that"
+      "text": "It's highly recommended that"
      },
      {
       "letter": "D",
-      "text": "make a reservation"
+      "text": "made a reservation"
      }
     ],
     "answer": "D",
@@ -1905,7 +1905,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "it's highly recommended that"
+      "text": "It's highly recommended that"
      }
     ],
     "answer": "A",
@@ -1935,7 +1935,7 @@ window.FLASHCARD_UNITS = {
     "vi": 41
    },
    {
-    "question": "These works of art are of great importance to Italy's cultural __________。",
+    "question": "These works of art are of great importance to Italy's cultural __________.",
     "options": [
      {
       "letter": "A",
@@ -1958,7 +1958,7 @@ window.FLASHCARD_UNITS = {
     "vi": 42
    },
    {
-    "question": "The government is trying to protect the old temple because it is a valuable __________。",
+    "question": "The government is trying to protect the old temple because it is a valuable __________.",
     "options": [
      {
       "letter": "A",
@@ -2027,7 +2027,7 @@ window.FLASHCARD_UNITS = {
     "vi": 45
    },
    {
-    "question": "We can't __________ trip to Europe because the flights are too expensive.",
+    "question": "We can't __________ take a trip to Europe because the flights are too expensive.",
     "options": [
      {
       "letter": "A",
@@ -2035,7 +2035,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "recommend that s vr"
+      "text": "recommended that"
      },
      {
       "letter": "C",
@@ -2123,7 +2123,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "it's highly recommended that"
+      "text": "It's highly recommended that"
      },
      {
       "letter": "B",
@@ -2150,7 +2150,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "it's highly recommended that"
+      "text": "It's highly recommended that"
      },
      {
       "letter": "C",
@@ -2158,7 +2158,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "recommend that s vr"
+      "text": "recommended that"
      }
     ],
     "answer": "A",
@@ -2261,7 +2261,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "make a reservation"
+      "text": "made a reservation"
      },
      {
       "letter": "B",
@@ -2269,7 +2269,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "recommend that s vr"
+      "text": "recommended that"
      },
      {
       "letter": "D",
@@ -2319,7 +2319,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "it's highly recommended that"
+      "text": "It's highly recommended that"
      }
     ],
     "answer": "C",
@@ -2468,7 +2468,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "recommend that s vr"
+      "text": "recommended that"
      },
      {
       "letter": "B",
@@ -2673,4 +2673,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"majesty":["the quality of being impressive, beautiful, or grand","雄偉；壯麗；皇權"],"majestic":["beautiful, powerful, or causing great admiration and respect","雄偉的；壯麗的"],"recommend":["to advise someone to do something or choose something","推薦；建議"],"recommended":["to advise someone to do something or choose something","推薦；建議"],"recommendation":["a suggestion or proposal as to the best course of action","推薦；建議"],"thoroughly":["completely, very much, or with great attention to detail","徹底地；完全地"],"thorough":["detailed and careful, leaving nothing overlooked","徹底的；仔細的"],"landscape":["the appearance of an area of land, especially in the countryside","陸地風景；自然景觀"],"distinctive":["having a special quality or feature that makes something easily recognizable","有特色的；獨特的"],"distinct":["clearly noticeable, separate, or different from others","獨特不同的；清晰的"],"distinction":["a difference or contrast between similar things or people","區別；差別"],"architecture":["the art or practice of designing and constructing buildings","建築學；建築風格"],"architectural":["relating to the design and construction of buildings","建築的；建築學的"],"architect":["a person who designs buildings and advises on their construction","建築師"],"reserve":["to ask for a seat, table, or room to be kept for your use","預訂；保留"],"reservation":["an arrangement to have something kept for you, such as a hotel room","預約；預訂"],"duration":["the length of time that something continues or lasts","持續時間"],"durable":["able to last a long time without becoming damaged","耐用的；持久的"],"fascinated":["to attract or interest someone very strongly","使著迷；吸引"],"fascinate":["to attract or interest someone very strongly","使著迷；吸引"],"fascinating":["extremely interesting and attractive","迷人的；極有趣的"],"fascination":["the state of being greatly interested or attracted by something","迷戀；吸引力"],"gallery":["a room or building for the display or sale of works of art","畫廊；展覽館"],"contemporary":["existing or happening now; modern","當代的；現代的"],"contemporaries":["a person living or existing at the same time as another","同時代的人"],"overlooks":["to have a view of something from above; to fail to notice something","俯瞰；忽略；漏看"],"overlook":["to have a view of something from above; to fail to notice something","俯瞰；忽略；漏看"],"cathedral":["a very large and important church, usually the main one in an area","大教堂"],"massive":["very large in size, amount, or degree","巨大的；大量的"],"massively":["to a very great extent or degree","巨大地；極其"],"masterpiece":["a work of outstanding artistry, skill, or workmanship","傑作；名作"],"masterpieces":["a work of outstanding artistry, skill, or workmanship","傑作；名作"],"heritage":["features belonging to the culture of a society, such as traditions, languages, or buildings","文化遺產；傳統"],"ornament":["an object that is used as a decoration in a room or garden","裝飾品"],"ornaments":["an object that is used as a decoration in a room or garden","裝飾品"],"afford":["to have enough money or time to be able to do something","負擔得起；提供"],"afforded":["to have enough money or time to be able to do something","負擔得起；提供"],"marvelous":["causing wonder; causing great admiration; excellent","絕妙的；極好的"],"cuisine":["a style or method of cooking, especially as characteristic of a particular country","烹飪；菜餚風味"],"culinary":["connected with cooking or kitchens","烹飪的；廚房的"],"delicacy":["a choice or expensive food that is considered rare or special in a specific culture","珍饈；佳餚"],"gourmet":["relating to high-quality, rare, or expertly prepared food","高級美食的；精緻的"],"raw":["not cooked; in a natural state","生的；未煮過的"],"translate":["to change words into another language","翻譯"],"translation":["the process of translating words or text from one language into another","翻譯；譯文"],"interpret":["to change spoken words from one language into another immediately","口譯"],"interpreter":["a person whose job is to change spoken words from one language into another","口譯員"],"interpretation":["an explanation or opinion of what something means","詮釋；解讀；翻譯"],"mash":["to crush something, especially food, until it is soft and smooth","搗碎；壓成泥"],"slice":["a flat, often thin, piece of food that has been cut from a larger piece","薄片；一片"],"accompany":["to go somewhere with someone as a companion","陪同；伴隨"],"accompanies":["to go somewhere with someone as a companion","陪同；伴隨"],"company":["an organization that sells goods or services in order to make money","公司"],"companion":["a person or animal with whom one spends a lot of time or travels","同伴；夥伴"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"majesty":["the quality of being impressive, beautiful, or grand","雄偉；壯麗；皇權"],"majestic":["beautiful, powerful, or causing great admiration and respect","雄偉的；壯麗的"],"recommended":["to advise someone to do something or choose something","推薦；建議"],"recommend":["to advise someone to do something or choose something","推薦；建議"],"recommendation":["a suggestion or proposal as to the best course of action","推薦；建議"],"thoroughly":["completely, very much, or with great attention to detail","徹底地；完全地"],"thorough":["detailed and careful, leaving nothing overlooked","徹底的；仔細的"],"landscape":["the appearance of an area of land, especially in the countryside","陸地風景；自然景觀"],"distinctive":["having a special quality or feature that makes something easily recognizable","有特色的；獨特的"],"distinct":["clearly noticeable, separate, or different from others","獨特不同的；清晰的"],"distinction":["a difference or contrast between similar things or people","區別；差別"],"architecture":["the art or practice of designing and constructing buildings","建築學；建築風格"],"architectural":["relating to the design and construction of buildings","建築的；建築學的"],"architect":["a person who designs buildings and advises on their construction","建築師"],"reserve":["to ask for a seat, table, or room to be kept for your use","預訂；保留"],"reservation":["an arrangement to have something kept for you, such as a hotel room","預約；預訂"],"duration":["the length of time that something continues or lasts","持續時間"],"durable":["able to last a long time without becoming damaged","耐用的；持久的"],"fascinated":["to attract or interest someone very strongly","使著迷；吸引"],"fascinate":["to attract or interest someone very strongly","使著迷；吸引"],"fascinating":["extremely interesting and attractive","迷人的；極有趣的"],"fascination":["the state of being greatly interested or attracted by something","迷戀；吸引力"],"gallery":["a room or building for the display or sale of works of art","畫廊；展覽館"],"contemporary":["existing or happening now; modern","當代的；現代的"],"contemporaries":["a person living or existing at the same time as another","同時代的人"],"overlooks":["to have a view of something from above; to fail to notice something","俯瞰；忽略；漏看"],"overlook":["to have a view of something from above; to fail to notice something","俯瞰；忽略；漏看"],"cathedral":["a very large and important church, usually the main one in an area","大教堂"],"massive":["very large in size, amount, or degree","巨大的；大量的"],"massively":["to a very great extent or degree","巨大地；極其"],"masterpieces":["a work of outstanding artistry, skill, or workmanship","傑作；名作"],"masterpiece":["a work of outstanding artistry, skill, or workmanship","傑作；名作"],"heritage":["features belonging to the culture of a society, such as traditions, languages, or buildings","文化遺產；傳統"],"ornament":["an object that is used as a decoration in a room or garden","裝飾品"],"ornaments":["an object that is used as a decoration in a room or garden","裝飾品"],"afforded":["to have enough money or time to be able to do something","負擔得起；提供"],"afford":["to have enough money or time to be able to do something","負擔得起；提供"],"marvelous":["causing wonder; causing great admiration; excellent","絕妙的；極好的"],"cuisine":["a style or method of cooking, especially as characteristic of a particular country","烹飪；菜餚風味"],"culinary":["connected with cooking or kitchens","烹飪的；廚房的"],"delicacy":["a choice or expensive food that is considered rare or special in a specific culture","珍饈；佳餚"],"gourmet":["relating to high-quality, rare, or expertly prepared food","高級美食的；精緻的"],"raw":["not cooked; in a natural state","生的；未煮過的"],"translate":["to change words into another language","翻譯"],"translation":["the process of translating words or text from one language into another","翻譯；譯文"],"interpret":["to change spoken words from one language into another immediately","口譯"],"interpreter":["a person whose job is to change spoken words from one language into another","口譯員"],"interpretation":["an explanation or opinion of what something means","詮釋；解讀；翻譯"],"mash":["to crush something, especially food, until it is soft and smooth","搗碎；壓成泥"],"slice":["a flat, often thin, piece of food that has been cut from a larger piece","薄片；一片"],"accompany":["to go somewhere with someone as a companion","陪同；伴隨"],"accompanies":["to go somewhere with someone as a companion","陪同；伴隨"],"company":["an organization that sells goods or services in order to make money","公司"],"companion":["a person or animal with whom one spends a lot of time or travels","同伴；夥伴"]});

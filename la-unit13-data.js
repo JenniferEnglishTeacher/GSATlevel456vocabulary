@@ -18,8 +18,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "onward onwards",
-    "answer": "onward onwards",
+    "word": "onward / onwards",
+    "answer": "onward",
     "pos": "adv. adj.",
     "definition": "moving forward in time or space, continuing a journey or process",
     "chinese": "向前的；從...開始",
@@ -31,8 +31,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "forward forwards",
-    "answer": "forward",
+    "word": "forward / forwards",
+    "answer": "forward / forwards",
     "pos": "adv. adj.",
     "definition": "toward the direction that is in front; progressing toward a better state",
     "chinese": "向前",
@@ -44,8 +44,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "backward backwards",
-    "answer": "backward",
+    "word": "backward / backwards",
+    "answer": "backward / backwards",
     "pos": "adv. adj.",
     "definition": "toward the direction that is behind; returning to an earlier or worse state",
     "chinese": "向後；倒退地",
@@ -57,8 +57,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "outward outwards",
-    "answer": "outward",
+    "word": "outward / outwards",
+    "answer": "outward / outwards",
     "pos": "adv. adj.",
     "definition": "relating to how something looks on the outside; moving away from a center",
     "chinese": "向外的；外表的",
@@ -70,8 +70,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "afterward afterwards",
-    "answer": "afterward",
+    "word": "afterward / afterwards",
+    "answer": "afterward / afterwards",
     "pos": "adv.",
     "definition": "at a later time or after a specific event has already happened",
     "chinese": "之後；後來",
@@ -439,7 +439,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the quality or state of being exceptionally accurate and exact",
     "chinese": "精密；精準度",
-    "sentence": "Operating on a patient's vital signs requires immense skill and high technical __________。",
+    "sentence": "Operating on a patient's vital signs requires immense skill and high technical __________.",
     "translation": "對病人的生命徵象進行手術需要極高的技術與高度的技術精密性。",
     "lookup": {
      "english": "the quality or state of being exceptionally accurate and exact",
@@ -590,8 +590,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "make profit make a profit",
-    "answer": "make profit make a profit",
+    "word": "make profit / make a profit",
+    "answer": "make profit",
     "pos": "phr.",
     "definition": "to earn more money than you spend on producing, buying, or selling goods or services",
     "chinese": "獲利；賺取利潤",
@@ -941,8 +941,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "go on a strike go on strike",
-    "answer": "go on a strike go on strike",
+    "word": "go on a strike / go on strike",
+    "answer": "go on a strike",
     "pos": "phr.",
     "definition": "to refuse to work as a form of organized protest, typically to secure better pay or working conditions",
     "chinese": "進行罷工",
@@ -1254,7 +1254,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "yield one's seat to",
-    "answer": "yield seat to",
+    "answer": "yielded my seat on the train to",
     "pos": "phr.",
     "definition": "to give up your seat on a bus or train to a person who needs it more",
     "chinese": "讓座給...",
@@ -1425,7 +1425,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "outward"
+      "text": "outward / outwards"
      },
      {
       "letter": "B",
@@ -1433,7 +1433,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "onward onwards"
+      "text": "onward"
      },
      {
       "letter": "D",
@@ -1452,7 +1452,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "forward"
+      "text": "forward / forwards"
      },
      {
       "letter": "C",
@@ -1471,7 +1471,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "outward"
+      "text": "outward / outwards"
      },
      {
       "letter": "B",
@@ -1483,7 +1483,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "backward"
+      "text": "backward / backwards"
      }
     ],
     "answer": "D",
@@ -1494,7 +1494,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "outward"
+      "text": "outward / outwards"
      },
      {
       "letter": "B",
@@ -1506,7 +1506,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "onward onwards"
+      "text": "onward"
      }
     ],
     "answer": "A",
@@ -1529,7 +1529,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "afterward"
+      "text": "afterward / afterwards"
      }
     ],
     "answer": "D",
@@ -1690,7 +1690,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "outward"
+      "text": "outward / outwards"
      }
     ],
     "answer": "B",
@@ -1866,7 +1866,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "backward"
+      "text": "backward / backwards"
      },
      {
       "letter": "C",
@@ -2157,7 +2157,7 @@ window.FLASHCARD_UNITS = {
     "vi": 32
    },
    {
-    "question": "Operating on a patient's vital signs requires immense skill and high technical __________。",
+    "question": "Operating on a patient's vital signs requires immense skill and high technical __________.",
     "options": [
      {
       "letter": "A",
@@ -2449,7 +2449,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "make profit make a profit"
+      "text": "make profit"
      }
     ],
     "answer": "D",
@@ -2587,7 +2587,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "backward"
+      "text": "backward / backwards"
      }
     ],
     "answer": "B",
@@ -2602,7 +2602,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "make profit make a profit"
+      "text": "make profit"
      },
      {
       "letter": "C",
@@ -3070,7 +3070,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "go on a strike go on strike"
+      "text": "go on a strike"
      }
     ],
     "answer": "D",
@@ -3089,7 +3089,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "yield seat to"
+      "text": "yielded my seat on the train to"
      },
      {
       "letter": "D",
@@ -3154,11 +3154,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "forward"
+      "text": "forward / forwards"
      },
      {
       "letter": "C",
-      "text": "yield seat to"
+      "text": "yielded my seat on the train to"
      },
      {
       "letter": "D",
@@ -3242,7 +3242,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "go on a strike go on strike"
+      "text": "go on a strike"
      },
      {
       "letter": "B",
@@ -3250,11 +3250,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "backward"
+      "text": "backward / backwards"
      },
      {
       "letter": "D",
-      "text": "outward"
+      "text": "outward / outwards"
      }
     ],
     "answer": "B",
@@ -3461,7 +3461,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "go on a strike go on strike"
+      "text": "go on a strike"
      }
     ],
     "answer": "B",
@@ -3622,7 +3622,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "yield seat to"
+      "text": "yielded my seat on the train to"
      }
     ],
     "answer": "D",
@@ -3656,7 +3656,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "afterward"
+      "text": "afterward / afterwards"
      },
      {
       "letter": "B",
@@ -3821,7 +3821,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "onward onwards"
+      "text": "onward"
      },
      {
       "letter": "C",
@@ -3861,4 +3861,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"straightforward":["honest and open; easy to do or understand, presenting no difficulty","直率的；簡單易懂的"],"forward":["toward the direction that is in front; progressing toward a better state","向前"],"backward":["toward the direction that is behind; returning to an earlier or worse state","向後；倒退地"],"outward":["relating to how something looks on the outside; moving away from a center","向外的；外表的"],"afterward":["at a later time or after a specific event has already happened","之後；後來"],"automatic":["happening by itself; done without active thinking or conscious effort","自動的"],"automatically":["in a way that happens independently or without choice human control","自動地"],"automated":["operated by largely automatic equipment or systems with minimal human labor","自動化的"],"automation":["the use of automatic equipment and computer software to operate a process","自動化"],"automobile":["a road vehicle, typically with four wheels, powered by an internal engine","汽車"],"drone":["an aircraft without a human pilot on board, controlled remotely or autonomously","無人機"],"serve":["to provide food or drinks to a guest during a meal at a restaurant","上菜；服務"],"server":["a waiter in a restaurant.","服務生"],"reserve":["to arrange for a room, seat, or table to be kept for the use of a specific person","預約；保留"],"reservation":["an arrangement to secure a seat, room, or table at a particular future time","預約；訂位（名詞）"],"preserve":["to maintain something in its original state or protect it from decay or destruction","保存；保護；維持"],"preservation":["the practical act of keeping something safe, functioning, or pristine over time","保存；維護（名詞）"],"observe":["to watch someone or something carefully and attentively to gain knowledge","觀察；注意到"],"observation":["the systematic process of watching something closely or a remark based on monitoring","觀察（名詞）"],"deserves":["to be worthy of or earned a specific treatment, reward, or punishment due to actions","值得；應得"],"deserve":["to be worthy of or earned a specific treatment, reward, or punishment due to actions","值得；應得"],"precise":["exact, accurate, and careful about small details, leaving no doubt","精準的；確切的"],"precisely":["exactly or accurately in a way that matches a particular fact","精準地；確實如此"],"precision":["the quality or state of being exceptionally accurate and exact","精密；精準度"],"overnight":["happening or continuing during the entire night; sudden and unexpected","一夜之間的；整夜的"],"establish":["to set up, found, or start an organization, system, or permanent set of rules","建立；設立；創辦"],"established":["recognized, accepted, and well-known over a long period due to successful operations","確立的；既定的；著名的"],"establishment":["a business, shop, or commercial organization; the act of starting a system","商家；企業；建立"],"wage":["a regular payment earned for work or services, typically paid daily or weekly","薪資（通常指計時或計週的工資）"],"wages":["a person who works for a regular wage, especially as the main support of a family","靠薪資生活的人"],"salaries":["a fixed regular payment, typically paid on a monthly basis to professional workers","薪水（通常指固定月薪或年薪）"],"salary":["a fixed regular payment, typically paid on a monthly basis to professional workers","薪水（通常指固定月薪或年薪）"],"bonus":["an extra amount of money given to an employee as a reward for hard work","獎金；紅利"],"income":["money received, especially on a regular basis, for work or through investments","收入；所得"],"revenue":["the total amount of money received by a company or organization from its business activities","總收益；營收"],"profit":["a financial gain, especially the difference between the amount earned and the amount spent","利潤；淨利"],"profitable":["yielding profit or financial gain; financially beneficial over a sustained period","有利可圖的；賺錢的"],"lucrative":["producing a great deal of profit or wealth; exceptionally rewarding financially","獲利豐厚的；賺大錢的"],"necessary":["needed to be done, achieved, or present; essential or completely required","必要的；必需的"],"unnecessary":["not needed or required; more than what is essential and leading to waste","不必要的；多餘的"],"necessity":["something that is absolutely essential or required for a survival process","必需品；必要性"],"sufficient":["enough for a particular purpose or requirement; satisfactory in amount","充足的；足夠的"],"insufficient":["not enough to meet a requirement or achieve a desirable goal","不足的；不夠的"],"sufficiently":["to a degree that is large or satisfactory enough for a specific purpose","充足地；足夠地"],"self-sufficient":["able to provide everything that you need for yourself without outside aid","自給自足的"],"protest":["to formally express strong disapproval or objection to a decision, law, or policy","抗議；反對"],"protested":["to formally express strong disapproval or objection to a decision, law, or policy","抗議；反對"],"protesters":["a person who publicly demonstrates to object to a specific policy or rule","抗議者"],"protester":["a person who publicly demonstrates to object to a specific policy or rule","抗議者"],"demonstrate":["to take part in a public meeting or march to protest against something","示威；遊行"],"demonstrator":["a person who takes part in a public protest meeting or march","示威者"],"demonstrators":["a person who takes part in a public protest meeting or march","示威者"],"demonstration":["a public meeting or march at which people show that they are protesting against something","示威運動；遊行抗議"],"present":["to give, provide, or introduce something formally to a group of people","呈現；提出；呈獻"],"presentation":["a formal talk or speech in which a new product, idea, or piece of work is shown to an audience","簡報；報告（名詞）"],"represent":["to speak, act, or official be present on behalf of another individual or group","代表；代理（動詞）"],"representative":["a person chosen or elected to speak and act on behalf of a specific community or group","代表（名詞）"],"representation":["the state of having someone speak or act on your behalf, or a depiction of something","代表；代表權；表現（名詞）"],"staff":["the group of people who work for an organization or business","全體員工；職員"],"understaffed":["having too few employees to perform the required work efficiently","人手不足的"],"responsible":["having an obligation to do something, or being rational and capable of making good decisions","負責的；可靠的；有責任感的"],"responsibility":["a duty or task that you are officially expected or required to handle","責任；職責"],"architect":["a person who designs buildings; the chief planner or creator of a project","建築師；締造者"],"architecture":["the art or practice of designing and constructing buildings, or the complex structure of a system","建築學；建築風格；（電腦）架構"],"hospitable":["friendly, welcoming, and generous to guests or strangers","熱情好客的"],"hospitality":["the friendly and generous reception and entertainment of guests or strangers","款待；熱情好客"],"stingy":["reluctant to give or spend; not generous with money or resources","吝嗇的"],"bumped":["to knock or run into something with a jolt; to upgrade someone's status","碰撞；升等"],"bump":["to knock or run into something with a jolt; to upgrade someone's status","碰撞；升等"],"hence":["as a consequence; for this reason; therefore","因此"],"voluntary":["done, given, or acting of one's own free will; without payment","自願的；志願的"],"involuntary":["done without conscious control or against one's free will; automatic","不自覺的；非自願的"],"yields":["to produce a crop or profit","產出"],"yield":["to produce a crop or profit","產出"],"obsession":["an idea or thought that continually preoccupies or intrudes on a person's mind","執念；著迷"],"potential":["having or showing the capacity to develop into something specified in the future","潛在的；可能的"],"potentially":["with a possibility of happening or developing into something in the future","潛在地；可能地"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"straightforward":["honest and open; easy to do or understand, presenting no difficulty","直率的；簡單易懂的"],"onward":["moving forward in time or space, continuing a journey or process","向前的；從...開始"],"automatic":["happening by itself; done without active thinking or conscious effort","自動的"],"automatically":["in a way that happens independently or without choice human control","自動地"],"automated":["operated by largely automatic equipment or systems with minimal human labor","自動化的"],"automation":["the use of automatic equipment and computer software to operate a process","自動化"],"automobile":["a road vehicle, typically with four wheels, powered by an internal engine","汽車"],"drone":["an aircraft without a human pilot on board, controlled remotely or autonomously","無人機"],"serve":["to provide food or drinks to a guest during a meal at a restaurant","上菜；服務"],"server":["a waiter in a restaurant.","服務生"],"reserve":["to arrange for a room, seat, or table to be kept for the use of a specific person","預約；保留"],"reservation":["an arrangement to secure a seat, room, or table at a particular future time","預約；訂位（名詞）"],"preserve":["to maintain something in its original state or protect it from decay or destruction","保存；保護；維持"],"preservation":["the practical act of keeping something safe, functioning, or pristine over time","保存；維護（名詞）"],"observe":["to watch someone or something carefully and attentively to gain knowledge","觀察；注意到"],"observation":["the systematic process of watching something closely or a remark based on monitoring","觀察（名詞）"],"deserves":["to be worthy of or earned a specific treatment, reward, or punishment due to actions","值得；應得"],"deserve":["to be worthy of or earned a specific treatment, reward, or punishment due to actions","值得；應得"],"precise":["exact, accurate, and careful about small details, leaving no doubt","精準的；確切的"],"precisely":["exactly or accurately in a way that matches a particular fact","精準地；確實如此"],"precision":["the quality or state of being exceptionally accurate and exact","精密；精準度"],"overnight":["happening or continuing during the entire night; sudden and unexpected","一夜之間的；整夜的"],"establish":["to set up, found, or start an organization, system, or permanent set of rules","建立；設立；創辦"],"established":["recognized, accepted, and well-known over a long period due to successful operations","確立的；既定的；著名的"],"establishment":["a business, shop, or commercial organization; the act of starting a system","商家；企業；建立"],"wage":["a regular payment earned for work or services, typically paid daily or weekly","薪資（通常指計時或計週的工資）"],"wages":["a person who works for a regular wage, especially as the main support of a family","靠薪資生活的人"],"salaries":["a fixed regular payment, typically paid on a monthly basis to professional workers","薪水（通常指固定月薪或年薪）"],"salary":["a fixed regular payment, typically paid on a monthly basis to professional workers","薪水（通常指固定月薪或年薪）"],"bonus":["an extra amount of money given to an employee as a reward for hard work","獎金；紅利"],"income":["money received, especially on a regular basis, for work or through investments","收入；所得"],"revenue":["the total amount of money received by a company or organization from its business activities","總收益；營收"],"profit":["a financial gain, especially the difference between the amount earned and the amount spent","利潤；淨利"],"profitable":["yielding profit or financial gain; financially beneficial over a sustained period","有利可圖的；賺錢的"],"lucrative":["producing a great deal of profit or wealth; exceptionally rewarding financially","獲利豐厚的；賺大錢的"],"necessary":["needed to be done, achieved, or present; essential or completely required","必要的；必需的"],"unnecessary":["not needed or required; more than what is essential and leading to waste","不必要的；多餘的"],"necessity":["something that is absolutely essential or required for a survival process","必需品；必要性"],"sufficient":["enough for a particular purpose or requirement; satisfactory in amount","充足的；足夠的"],"insufficient":["not enough to meet a requirement or achieve a desirable goal","不足的；不夠的"],"sufficiently":["to a degree that is large or satisfactory enough for a specific purpose","充足地；足夠地"],"self-sufficient":["able to provide everything that you need for yourself without outside aid","自給自足的"],"protested":["to formally express strong disapproval or objection to a decision, law, or policy","抗議；反對"],"protest":["to formally express strong disapproval or objection to a decision, law, or policy","抗議；反對"],"protesters":["a person who publicly demonstrates to object to a specific policy or rule","抗議者"],"protester":["a person who publicly demonstrates to object to a specific policy or rule","抗議者"],"demonstrate":["to take part in a public meeting or march to protest against something","示威；遊行"],"demonstrator":["a person who takes part in a public protest meeting or march","示威者"],"demonstrators":["a person who takes part in a public protest meeting or march","示威者"],"demonstration":["a public meeting or march at which people show that they are protesting against something","示威運動；遊行抗議"],"present":["to give, provide, or introduce something formally to a group of people","呈現；提出；呈獻"],"presentation":["a formal talk or speech in which a new product, idea, or piece of work is shown to an audience","簡報；報告（名詞）"],"represent":["to speak, act, or official be present on behalf of another individual or group","代表；代理（動詞）"],"representative":["a person chosen or elected to speak and act on behalf of a specific community or group","代表（名詞）"],"representation":["the state of having someone speak or act on your behalf, or a depiction of something","代表；代表權；表現（名詞）"],"staff":["the group of people who work for an organization or business","全體員工；職員"],"understaffed":["having too few employees to perform the required work efficiently","人手不足的"],"responsible":["having an obligation to do something, or being rational and capable of making good decisions","負責的；可靠的；有責任感的"],"responsibility":["a duty or task that you are officially expected or required to handle","責任；職責"],"architect":["a person who designs buildings; the chief planner or creator of a project","建築師；締造者"],"architecture":["the art or practice of designing and constructing buildings, or the complex structure of a system","建築學；建築風格；（電腦）架構"],"hospitable":["friendly, welcoming, and generous to guests or strangers","熱情好客的"],"hospitality":["the friendly and generous reception and entertainment of guests or strangers","款待；熱情好客"],"stingy":["reluctant to give or spend; not generous with money or resources","吝嗇的"],"bumped":["to knock or run into something with a jolt; to upgrade someone's status","碰撞；升等"],"bump":["to knock or run into something with a jolt; to upgrade someone's status","碰撞；升等"],"hence":["as a consequence; for this reason; therefore","因此"],"voluntary":["done, given, or acting of one's own free will; without payment","自願的；志願的"],"involuntary":["done without conscious control or against one's free will; automatic","不自覺的；非自願的"],"yield":["to produce a crop or profit","產出"],"yields":["to produce a crop or profit","產出"],"obsession":["an idea or thought that continually preoccupies or intrudes on a person's mind","執念；著迷"],"potential":["having or showing the capacity to develop into something specified in the future","潛在的；可能的"],"potentially":["with a possibility of happening or developing into something in the future","潛在地；可能地"]});

@@ -5,7 +5,7 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113i"
+V = "20261113j"
 d = json.load(open(DATA, encoding="utf8"))
 J = json.load(open(os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k.json"), encoding="utf8"))  # 國中小基礎2000字 groups
 EXTRA = os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k_extra.json")  # groups converted by tools/convert_g.py
@@ -250,14 +250,14 @@ if GEPT:
     ggroups, gnames = emit_zone("g", "捷進全民英檢初級單字書", "捷進GEPT初級", "Lesson", GEPT,
                                 lambda g: f"gept-lesson{g}", "捷進全民英檢初級單字練習", "G_DASHBOARD_UNITS")
 
-# LiveABC Level 3–5 (zones "lb" Basic, "la" Advanced): converted by tools/liveabc_convert.py; quizzes stay on their own site
+# LiveABC Level 3–5 (zones "lb" Basic, "la" Advanced): converted by tools/liveabc_convert.py; quizzes are generated here like the other books
 LAB_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "lab35.json")
 LAB = json.load(open(LAB_FILE, encoding="utf8")) if os.path.exists(LAB_FILE) else {}
 lab_zones = {}
 for lv, zid in (("basic", "lb"), ("advanced", "la")):
     if lv in LAB:
         lab_zones[lv] = emit_zone(zid, f"LiveABC Level 3–5 {lv.title()}", f"LiveABC 3–5 {lv.title()}", "Unit", {int(k): v for k, v in LAB[lv].items()},
-                                  None, "", f"{zid.upper()}_DASHBOARD_UNITS", make_quiz=False)
+                                  lambda g, lv=lv: f"liveabc-{lv}-u{g}", f"LiveABC Level 3–5 {lv.title()} 單字練習", f"{zid.upper()}_DASHBOARD_UNITS")
 
 # AWL Sublists 1–10 (zones "a1".."a10"): each sublist split into parts of about 20 entries by tools/awl_convert.py
 AWL_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "awl.json")
@@ -321,7 +321,7 @@ for lv, zid in (("basic", "lb"), ("advanced", "la")):
             "num": lv[0].upper(), "levelLabel": f"LiveABC 3-5 {lv.title()}", "cls": "hot" if lv == "basic" else "va", "family": False,
             "headLabel": "", "tile": f"LiveABC Level 3–5 · {lv.title()}", "unitName": "Unit",
             "data": f"{zid}-dashboard-data.js", "global": f"{zid.upper()}_DASHBOARD_UNITS", "page": f"{zid}-unit{{u}}.html",
-            "quiz": f"https://jenniferenglishteacher.github.io/liveABCvocabLevel3-5/{lv}-u{{u}}.html",
+            "quiz": f"liveabc-{lv}-u{{u}}.html",
             "units": order, "names": {str(g): unit_names[g] for g in order}, "blurb": "words & phrases by unit 各單元單字片語",
         }
 if lab_zones:

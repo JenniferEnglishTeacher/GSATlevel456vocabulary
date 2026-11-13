@@ -162,7 +162,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "twist",
-    "answer": "twist",
+    "answer": "twisted",
     "pos": "v. / n.",
     "definition": "to injure a joint by wrenching it; an unexpected development.",
     "chinese": "扭傷；轉折",
@@ -201,7 +201,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "take another twist",
-    "answer": "take another twist",
+    "answer": "took another twist",
     "pos": "phr.",
     "definition": "to have a new, unexpected development.",
     "chinese": "出現另一個轉折",
@@ -383,7 +383,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "on impulse",
-    "answer": "on impulse",
+    "answer": "On impulse",
     "pos": "phr.",
     "definition": "suddenly and without forethought.",
     "chinese": "衝動地",
@@ -487,7 +487,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "put emphasis on",
-    "answer": "put great emphasis on",
+    "answer": "puts great emphasis on",
     "pos": "phr.",
     "definition": "to give special attention or importance to something.",
     "chinese": "把重點放在...",
@@ -609,7 +609,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Staying the same; fixed and never-changing over a period of time.",
     "chinese": "恆定的、不變的",
     "sentence": "To bake the perfect soufflé, you must keep the oven at a __________ temperature throughout the entire cooking process.",
-    "translation": "為了烘焙出完美的舒芙蕾，您必須在整個烹飪過程中將烤箱保持在**恆定的（不變的）**溫度。",
+    "translation": "為了烘焙出完美的舒芙蕾，您必須在整個烹飪過程中將烤箱保持在恆定的（不變的）溫度。",
     "lookup": {
      "english": "Staying the same; fixed and never-changing over a period of time.",
      "chinese": "恆定的、不變的"
@@ -622,7 +622,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Happening all the time or repeatedly; frequent and continuous.",
     "chinese": "持續不斷的、經常發生的",
     "sentence": "The old office building requires __________ repairs due to its leaking roof and broken water pipes.",
-    "translation": "這棟老舊的辦公大樓因為屋頂漏水和水管破裂，需要**持續不斷的（經常性的）**維修。",
+    "translation": "這棟老舊的辦公大樓因為屋頂漏水和水管破裂，需要持續不斷的（經常性的）維修。",
     "lookup": {
      "english": "Happening all the time or repeatedly; frequent and continuous.",
      "chinese": "持續不斷的、經常發生的"
@@ -635,7 +635,7 @@ window.FLASHCARD_UNITS = {
     "definition": "All the time, or very often; continuously and repeatedly.",
     "chinese": "不斷地、時常地、持續地",
     "sentence": "The successful technology company is __________ inventing new products to stay ahead of its competitors in the market.",
-    "translation": "這家成功的科技公司正在**不斷地（持續地）**研發新產品，以在市場上保持領先競爭對手。",
+    "translation": "這家成功的科技公司正在不斷地（持續地）研發新產品，以在市場上保持領先競爭對手。",
     "lookup": {
      "english": "All the time, or very often; continuously and repeatedly.",
      "chinese": "不斷地、時常地、持續地"
@@ -674,7 +674,7 @@ window.FLASHCARD_UNITS = {
     "definition": "to a very great degree or extent; considerably.",
     "chinese": "巨大地；非常",
     "sentence": "The highly anticipated science fiction movie was __________ popular, quickly earning millions of dollars at the busy international box office.",
-    "translation": "這部備受期待的科幻電影**非常（巨大地）**受歡迎，迅速在繁忙的國際票房賺進了數百萬美元。",
+    "translation": "這部備受期待的科幻電影非常（巨大地）受歡迎，迅速在繁忙的國際票房賺進了數百萬美元。",
     "lookup": {
      "english": "to a very great degree or extent; considerably.",
      "chinese": "巨大地；非常"
@@ -712,7 +712,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n. [C, U]",
     "definition": "An advantage, profit, or helpful effect that you get from something.",
     "chinese": "好處、利益、優勢",
-    "sentence": "Regular exercise offers numerous health __________ , including a stronger heart, reduced stress, and better sleep quality.",
+    "sentence": "Regular exercise offers numerous health __________, including a stronger heart, reduced stress, and better sleep quality.",
     "translation": "規律運動帶來許多健康好處（利益），包括更強壯的心臟、減輕壓力和更好的睡眠品質。",
     "lookup": {
      "english": "An advantage, profit, or helpful effect that you get from something.",
@@ -1090,7 +1090,7 @@ window.FLASHCARD_UNITS = {
     "definition": "The condition of a person's body or mind, and whether they are sick or well.",
     "chinese": "健康（狀況）",
     "sentence": "Regular checkups are important because they allow doctors to monitor your overall __________ and catch potential medical issues early.",
-    "translation": "定期檢查非常重要，因為它們能讓醫生監控你的整體**健康（狀況）**並儘早發現潛在的醫療問題。",
+    "translation": "定期檢查非常重要，因為它們能讓醫生監控你的整體健康（狀況）並儘早發現潛在的醫療問題。",
     "lookup": {
      "english": "The condition of a person's body or mind, and whether they are sick or well.",
      "chinese": "健康（狀況）"
@@ -1142,7 +1142,7 @@ window.FLASHCARD_UNITS = {
     "definition": "The set of services provided by medical professionals to maintain or restore physical and mental health.",
     "chinese": "醫療保健、醫療服務",
     "sentence": "The government is working to improve the quality of __________ in rural areas so that everyone can have access to good doctors.",
-    "translation": "政府正在努力提高農村地區的**醫療保健（醫療服務）**品質，以便每個人都能看得到好醫生。",
+    "translation": "政府正在努力提高農村地區的醫療保健（醫療服務）品質，以便每個人都能看得到好醫生。",
     "lookup": {
      "english": "The set of services provided by medical professionals to maintain or restore physical and mental health.",
      "chinese": "醫療保健、醫療服務"
@@ -1194,7 +1194,7 @@ window.FLASHCARD_UNITS = {
     "definition": "A type of insurance that pays for medical and surgical expenses incurred by the insured person.",
     "chinese": "健康保險、醫療保險",
     "sentence": "Many employees consider comprehensive __________ to be the most important benefit when choosing a new job.",
-    "translation": "許多員工在選擇新工作時，將完善的**健康保險（醫療保險）**視為最重要的福利。",
+    "translation": "許多員工在選擇新工作時，將完善的健康保險（醫療保險）視為最重要的福利。",
     "lookup": {
      "english": "A type of insurance that pays for medical and surgical expenses incurred by the insured person.",
      "chinese": "健康保險、醫療保險"
@@ -1207,7 +1207,7 @@ window.FLASHCARD_UNITS = {
     "definition": "An official contract or document that details the conditions and items covered by an insurance agreement.",
     "chinese": "保險單、保險契約",
     "sentence": "You should read the terms of your __________ carefully to understand exactly what kinds of damage are covered.",
-    "translation": "你應該仔細閱讀你的**保險單（保險契約）**條款，以確切了解哪些種類的損害是在理賠範圍內。",
+    "translation": "你應該仔細閱讀你的保險單（保險契約）條款，以確切了解哪些種類的損害是在理賠範圍內。",
     "lookup": {
      "english": "An official contract or document that details the conditions and items covered by an insurance agreement.",
      "chinese": "保險單、保險契約"
@@ -1256,7 +1256,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "take another twist"
+      "text": "took another twist"
      },
      {
       "letter": "B",
@@ -1509,7 +1509,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "twist"
+      "text": "twisted"
      },
      {
       "letter": "B",
@@ -1559,7 +1559,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "take another twist"
+      "text": "took another twist"
      },
      {
       "letter": "C",
@@ -1582,11 +1582,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "take another twist"
+      "text": "took another twist"
      },
      {
       "letter": "C",
-      "text": "put great emphasis on"
+      "text": "puts great emphasis on"
      },
      {
       "letter": "D",
@@ -1682,7 +1682,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "take another twist"
+      "text": "took another twist"
      }
     ],
     "answer": "A",
@@ -1908,7 +1908,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "on impulse"
+      "text": "On impulse"
      },
      {
       "letter": "D",
@@ -1973,7 +1973,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "put great emphasis on"
+      "text": "puts great emphasis on"
      },
      {
       "letter": "C",
@@ -2084,7 +2084,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "take another twist"
+      "text": "took another twist"
      },
      {
       "letter": "B",
@@ -2092,7 +2092,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "put great emphasis on"
+      "text": "puts great emphasis on"
      },
      {
       "letter": "D",
@@ -2276,7 +2276,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "take another twist"
+      "text": "took another twist"
      },
      {
       "letter": "D",
@@ -2471,7 +2471,7 @@ window.FLASHCARD_UNITS = {
     "vi": 53
    },
    {
-    "question": "Regular exercise offers numerous health __________ , including a stronger heart, reduced stress, and better sleep quality.",
+    "question": "Regular exercise offers numerous health __________, including a stronger heart, reduced stress, and better sleep quality.",
     "options": [
      {
       "letter": "A",
@@ -2713,7 +2713,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "twist"
+      "text": "twisted"
      },
      {
       "letter": "D",
@@ -2755,7 +2755,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "twist"
+      "text": "twisted"
      },
      {
       "letter": "C",
@@ -2782,7 +2782,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "twist"
+      "text": "twisted"
      },
      {
       "letter": "D",
@@ -3016,7 +3016,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "take another twist"
+      "text": "took another twist"
      }
     ],
     "answer": "A",
@@ -3173,7 +3173,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "on impulse"
+      "text": "On impulse"
      },
      {
       "letter": "D",
@@ -3192,7 +3192,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "put great emphasis on"
+      "text": "puts great emphasis on"
      },
      {
       "letter": "C",
@@ -3223,7 +3223,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "on impulse"
+      "text": "On impulse"
      }
     ],
     "answer": "B",
@@ -3265,7 +3265,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "take another twist"
+      "text": "took another twist"
      },
      {
       "letter": "D",
@@ -3311,7 +3311,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "twist"
+      "text": "twisted"
      },
      {
       "letter": "D",
@@ -3361,7 +3361,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "put great emphasis on"
+      "text": "puts great emphasis on"
      }
     ],
     "answer": "A",
@@ -3393,4 +3393,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"lean":["thin and healthy; to incline or bend from a vertical position.","精瘦的；傾靠"],"skinny":["unattractively or unusually thin.","皮包骨的；極瘦的"],"chubby":["plump and rounded.","微胖的"],"elegant":["pleasingly graceful and stylish in appearance or manner.","優雅的"],"graceful":["having or showing grace or elegance.","優美的"],"elegance":["the quality of being graceful and stylish in appearance or manner.","優雅"],"elegantly":["in a graceful and stylish manner.","優雅地"],"athletic":["physically strong, fit, and active.","有運動細胞的；運動的"],"athlete":["a person who is proficient in sports and other forms of physical exercise.","運動員"],"twist":["to injure a joint by wrenching it; an unexpected development.","扭傷；轉折"],"twisted":["forced out of its natural or proper shape.","扭曲的"],"fad":["an intense and widely shared enthusiasm for something, especially one that is short-lived.","一時的狂熱；短暫的流行"],"fashion":["a popular trend, especially in styles of dress and ornament or manners of behavior.","流行；時尚"],"frenzy":["A state of wild excitement, madness, or uncontrolled activity.","瘋狂、狂熱"],"fashionable":["Popular at a particular time; following the latest style of clothing, behavior, or ideas.","時髦的、流行的"],"trend":["A general direction in which something is developing, changing, or becoming popular.","趨勢、潮流"],"buzz":["A strong feeling of excitement, or a lot of activity and noisy talk around a new product or event.","興奮、熱烈的討論、轟動"],"phenomenon":["Something that exists or happens, especially something that is studied because it is unusual or interesting.","現象"],"strength":["the quality or state of being physically strong.","力量"],"enhance":["to intensify, increase, or further improve the quality, value, or extent of.","提升"],"lengthen":["to make or become longer.","加長"],"pulse":["a rhythmical throbbing of the arteries; to throb rhythmically.","脈搏；搏動"],"impulse":["a sudden strong and unreflective urge or desire to act.","衝動"],"impulsive":["Acting or done suddenly without thinking carefully about the results or consequences.","衝動的"],"compulsory":["Required by a law or a rule; that must be done.","強制性的、必修的、義務的"],"mandatory":["Ordered by authority; officially or legally required.","強制性的、法定的、義務的"],"emphasis":["special importance, value, or prominence given to something.","強調；重點"],"emphasize":["to give special importance or prominence to something in speaking or writing.","強調"],"bodily":["of or concerning the body.","身體的"],"consistent":["acting or done in the same way over time, especially so as to be fair or accurate.","始終如一的；一致的"],"inconsistent":["not staying the same throughout.","不一致的"],"consistently":["in every case or on every occasion; invariably.","一貫地"],"consistency":["consistent behavior or treatment.","一致性"],"constant":["Staying the same; fixed and never-changing over a period of time.","恆定的、不變的"],"constantly":["All the time, or very often; continuously and repeatedly.","不斷地、時常地、持續地"],"exceed":["to be greater in number or size than a quantity, number, or other measurable thing.","超過"],"exceedingly":["extremely; to a very great degree.","極其；非常"],"enormously":["to a very great degree or extent; considerably.","巨大地；非常"],"benefit":["an advantage or profit gained from something; to receive an advantage.","益處；對...有益"],"benefits":["An advantage, profit, or helpful effect that you get from something.","好處、利益、優勢"],"beneficial":["favorable or advantageous; resulting in good.","有益的"],"helpful":["giving or ready to give help.","有幫助的"],"stiff":["not easily bent or changed in shape; rigid.","僵硬的；拘謹的"],"flexible":["capable of bending easily without breaking; able to be easily modified.","靈活的；有彈性的"],"inflexible":["unwilling to change or compromise.","缺乏彈性的"],"flexibility":["the quality of bending easily without breaking.","靈活性"],"sharpen":["to make or become sharp or sharper.","使鋒利；增進"],"sharp":["having an edge or point that is able to cut or pierce something.","鋒利的"],"fatigue":["extreme tiredness resulting from mental or physical exertion or illness.","疲勞"],"fatigued":["cause someone to feel exhausted.","疲勞的"],"boost":["a source of help or encouragement leading to increase or improvement.","提升；促進"],"increase":["a rise in the size, amount, or degree of something.","增加"],"ego":["a person's sense of self-esteem or self-importance.","意識；自尊心"],"dignity":["The quality of being worthy of honor or respect, or a calm and serious manner.","尊嚴、莊嚴"],"self-esteem-self-esteem":["The feeling of being satisfied with your own character, abilities, and value; self-respect.","自尊（心）"],"self-esteem":["The feeling of being satisfied with your own character, abilities, and value; self-respect.","自尊（心）"],"confidence":["A feeling of trust or belief in your own abilities, or in someone else's reliability.","信心、自信"],"confident":["Feeling sure about your own abilities or certain that something will happen successfully.","有信心的、有自信的"],"disappointed":["sad or displeased because someone or something has failed to fulfill one's hopes or expectations.","失望的"],"disappoint":["to fail to fulfill the hopes or expectations of someone.","令人失望"],"disappointment":["sadness or displeasure caused by the nonfulfillment of one's hopes or expectations.","失望"],"healthful":["having or conducive to good health.","有益健康的"],"healthy":["in a good physical or mental condition; in good health.","健康的"],"health":["The condition of a person's body or mind, and whether they are sick or well.","健康（狀況）"],"healthcare":["The set of services provided by medical professionals to maintain or restore physical and mental health.","醫療保健、醫療服務"],"insure":["To buy or provide insurance for someone or something to protect against financial loss.","為…投保、給…保險"],"insurance":["An arrangement where you pay a company regular money and they pay for your costs if you have an accident, illness, or loss.","保險"],"coverage":["The amount of protection or the specific risks included in an insurance plan.","保險範圍、保險保障"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"lean":["thin and healthy; to incline or bend from a vertical position.","精瘦的；傾靠"],"skinny":["unattractively or unusually thin.","皮包骨的；極瘦的"],"chubby":["plump and rounded.","微胖的"],"elegant":["pleasingly graceful and stylish in appearance or manner.","優雅的"],"graceful":["having or showing grace or elegance.","優美的"],"elegance":["the quality of being graceful and stylish in appearance or manner.","優雅"],"elegantly":["in a graceful and stylish manner.","優雅地"],"athletic":["physically strong, fit, and active.","有運動細胞的；運動的"],"athlete":["a person who is proficient in sports and other forms of physical exercise.","運動員"],"twisted":["to injure a joint by wrenching it; an unexpected development.","扭傷；轉折"],"twist":["to injure a joint by wrenching it; an unexpected development.","扭傷；轉折"],"fad":["an intense and widely shared enthusiasm for something, especially one that is short-lived.","一時的狂熱；短暫的流行"],"fashion":["a popular trend, especially in styles of dress and ornament or manners of behavior.","流行；時尚"],"frenzy":["A state of wild excitement, madness, or uncontrolled activity.","瘋狂、狂熱"],"fashionable":["Popular at a particular time; following the latest style of clothing, behavior, or ideas.","時髦的、流行的"],"trend":["A general direction in which something is developing, changing, or becoming popular.","趨勢、潮流"],"buzz":["A strong feeling of excitement, or a lot of activity and noisy talk around a new product or event.","興奮、熱烈的討論、轟動"],"phenomenon":["Something that exists or happens, especially something that is studied because it is unusual or interesting.","現象"],"strength":["the quality or state of being physically strong.","力量"],"enhance":["to intensify, increase, or further improve the quality, value, or extent of.","提升"],"lengthen":["to make or become longer.","加長"],"pulse":["a rhythmical throbbing of the arteries; to throb rhythmically.","脈搏；搏動"],"impulse":["a sudden strong and unreflective urge or desire to act.","衝動"],"impulsive":["Acting or done suddenly without thinking carefully about the results or consequences.","衝動的"],"compulsory":["Required by a law or a rule; that must be done.","強制性的、必修的、義務的"],"mandatory":["Ordered by authority; officially or legally required.","強制性的、法定的、義務的"],"emphasis":["special importance, value, or prominence given to something.","強調；重點"],"emphasize":["to give special importance or prominence to something in speaking or writing.","強調"],"bodily":["of or concerning the body.","身體的"],"consistent":["acting or done in the same way over time, especially so as to be fair or accurate.","始終如一的；一致的"],"inconsistent":["not staying the same throughout.","不一致的"],"consistently":["in every case or on every occasion; invariably.","一貫地"],"consistency":["consistent behavior or treatment.","一致性"],"constant":["Staying the same; fixed and never-changing over a period of time.","恆定的、不變的"],"constantly":["All the time, or very often; continuously and repeatedly.","不斷地、時常地、持續地"],"exceed":["to be greater in number or size than a quantity, number, or other measurable thing.","超過"],"exceedingly":["extremely; to a very great degree.","極其；非常"],"enormously":["to a very great degree or extent; considerably.","巨大地；非常"],"benefit":["an advantage or profit gained from something; to receive an advantage.","益處；對...有益"],"benefits":["An advantage, profit, or helpful effect that you get from something.","好處、利益、優勢"],"beneficial":["favorable or advantageous; resulting in good.","有益的"],"helpful":["giving or ready to give help.","有幫助的"],"stiff":["not easily bent or changed in shape; rigid.","僵硬的；拘謹的"],"flexible":["capable of bending easily without breaking; able to be easily modified.","靈活的；有彈性的"],"inflexible":["unwilling to change or compromise.","缺乏彈性的"],"flexibility":["the quality of bending easily without breaking.","靈活性"],"sharpen":["to make or become sharp or sharper.","使鋒利；增進"],"sharp":["having an edge or point that is able to cut or pierce something.","鋒利的"],"fatigue":["extreme tiredness resulting from mental or physical exertion or illness.","疲勞"],"fatigued":["cause someone to feel exhausted.","疲勞的"],"boost":["a source of help or encouragement leading to increase or improvement.","提升；促進"],"increase":["a rise in the size, amount, or degree of something.","增加"],"ego":["a person's sense of self-esteem or self-importance.","意識；自尊心"],"dignity":["The quality of being worthy of honor or respect, or a calm and serious manner.","尊嚴、莊嚴"],"self-esteem":["The feeling of being satisfied with your own character, abilities, and value; self-respect.","自尊（心）"],"self-esteem-self-esteem":["The feeling of being satisfied with your own character, abilities, and value; self-respect.","自尊（心）"],"confidence":["A feeling of trust or belief in your own abilities, or in someone else's reliability.","信心、自信"],"confident":["Feeling sure about your own abilities or certain that something will happen successfully.","有信心的、有自信的"],"disappointed":["sad or displeased because someone or something has failed to fulfill one's hopes or expectations.","失望的"],"disappoint":["to fail to fulfill the hopes or expectations of someone.","令人失望"],"disappointment":["sadness or displeasure caused by the nonfulfillment of one's hopes or expectations.","失望"],"healthful":["having or conducive to good health.","有益健康的"],"healthy":["in a good physical or mental condition; in good health.","健康的"],"health":["The condition of a person's body or mind, and whether they are sick or well.","健康（狀況）"],"healthcare":["The set of services provided by medical professionals to maintain or restore physical and mental health.","醫療保健、醫療服務"],"insure":["To buy or provide insurance for someone or something to protect against financial loss.","為…投保、給…保險"],"insurance":["An arrangement where you pay a company regular money and they pay for your costs if you have an accident, illness, or loss.","保險"],"coverage":["The amount of protection or the specific risks included in an insurance plan.","保險範圍、保險保障"]});

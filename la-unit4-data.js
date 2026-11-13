@@ -1,8 +1,8 @@
-// LiveABC Level 3–5 Advanced Unit 4 (cozy – well-deserved) — flashcards + MCQ practice
+// LiveABC Level 3–5 Advanced Unit 4 (cozy – deserving) — flashcards + MCQ practice
 window.FLASHCARD_UNITS = {
  "4": {
-  "title": "LiveABC Level 3–5 Advanced · Unit 4: cozy – well-deserved",
-  "theme": "cozy – well-deserved",
+  "title": "LiveABC Level 3–5 Advanced · Unit 4: cozy – deserving",
+  "theme": "cozy – deserving",
   "cards": [
    {
     "word": "cozy",
@@ -179,8 +179,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "a large area covered with closely growing trees.",
     "chinese": "茂密的森林",
-    "sentence": "The completely terrifying wild bears quietly and naturally live deep inside the completely dark and incredibly __________ near the tall mountains.",
-    "translation": "完全可怕的野生熊安靜且自然地生活在靠近高山、完全黑暗且極其茂密的森林深處。",
+    "sentence": "The terrifying wild bears live deep inside the dark and __________ near the tall mountains.",
+    "translation": "可怕的野生熊生活在靠近高山、黑暗且茂密的森林深處。",
     "lookup": {
      "english": "a large area covered with closely growing trees.",
      "chinese": "茂密的森林"
@@ -323,7 +323,7 @@ window.FLASHCARD_UNITS = {
     "definition": "impartial and just treatment or behavior without favoritism or discrimination.",
     "chinese": "公平（性）",
     "sentence": "The deeply honest international judge is widely famous for her absolute __________ and perfect legal knowledge in the high court.",
-    "translation": "這位極度誠實的國際法官，以其在高等法院中絕對的**公平（性）**和完美的法律知識而廣為人知。",
+    "translation": "這位極度誠實的國際法官，以其在高等法院中絕對的公平（性）和完美的法律知識而廣為人知。",
     "lookup": {
      "english": "impartial and just treatment or behavior without favoritism or discrimination.",
      "chinese": "公平（性）"
@@ -591,7 +591,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "have a background in",
-    "answer": "have a strong background in",
+    "answer": "has a strong background in",
     "pos": "phr.",
     "definition": "to possess previous experience or training in a specific field.",
     "chinese": "在...有背景/經驗",
@@ -643,7 +643,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "acquaint",
-    "answer": "acquaint",
+    "answer": "acquainted",
     "pos": "v.",
     "definition": "to make someone aware of or familiar with.",
     "chinese": "使熟悉；使認識",
@@ -695,12 +695,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "make someone's acquaintance",
-    "answer": "make someone's acquaintance",
+    "answer": "make your acquaintance",
     "pos": "phr.",
     "definition": "to meet someone for the first time.",
     "chinese": "結識某人",
     "sentence": "It was an absolute honor to finally __________ at the highly formal international business conference held in beautiful Tokyo last week.",
-    "translation": "上週在美麗的東京舉行的極其正式的國際商業會議上，終於**結識您（結識某人）**是絕對的榮幸。",
+    "translation": "上週在美麗的東京舉行的極其正式的國際商業會議上，終於結識您（結識某人）是絕對的榮幸。",
     "lookup": {
      "english": "to meet someone for the first time.",
      "chinese": "結識某人"
@@ -721,7 +721,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "overall",
-    "answer": "overall",
+    "answer": "Overall",
     "pos": "adv.",
     "definition": "taken as a whole; in all.",
     "chinese": "整體而言",
@@ -738,8 +738,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "the general feeling or opinion formed about someone or something.",
     "chinese": "整體印象",
-    "sentence": "Despite a few small technical mistakes during the long musical performance, the completely strict judge's __________ was highly highly positive.",
-    "translation": "儘管在漫長的音樂表演中出現了幾個小小的技術錯誤，完全嚴格評審的整體印象是高度積極的。",
+    "sentence": "Despite a few small technical mistakes during the long musical performance, the completely strict judge's __________ was highly positive.",
+    "translation": "儘管在漫長的音樂表演中出現了幾個小小的技術錯誤，嚴格評審的整體印象是積極的。",
     "lookup": {
      "english": "the general feeling or opinion formed about someone or something.",
      "chinese": "整體印象"
@@ -764,8 +764,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "a general assessment or score given to something.",
     "chinese": "整體評分",
-    "sentence": "Because the expensive hotel room was incredibly dirty and deeply completely completely completely completely absolutely totally absolutely highly entirely completely fully highly totally entirely thoroughly completely fully perfectly completely extremely absolutely completely noisy, I sadly gave it a very low __________.)",
-    "translation": "因為昂貴的飯店房間極其骯髒且極度吵雜，我給了它一個非常低的整體評分。",
+    "sentence": "Because the expensive hotel room was dirty and noisy, I sadly gave it a very low __________.",
+    "translation": "因為昂貴的飯店房間骯髒且吵雜，我給了它一個非常低的整體評分。",
     "lookup": {
      "english": "a general assessment or score given to something.",
      "chinese": "整體評分"
@@ -786,7 +786,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "outline",
-    "answer": "outline",
+    "answer": "outlined",
     "pos": "v.",
     "definition": "to draw, trace, or define the outer edge or shape of.",
     "chinese": "概述；描繪輪廓",
@@ -838,7 +838,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "deserve",
-    "answer": "deserve",
+    "answer": "deserved",
     "pos": "v.",
     "definition": "to do something or show qualities worthy of reward or punishment.",
     "chinese": "值得；應得",
@@ -868,11 +868,24 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "fully merited or earned.",
     "chinese": "當之無愧的；應得的",
-    "sentence": "After completely finishing the incredibly demanding and highly stressful year-long project, the completely exhausted team completely enjoyed a highly __________ vacation.",
-    "translation": "在完全完成要求極高且壓力極大為期一年的專案後，完全筋疲力盡的團隊完全享受了一個高度**當之無愧的（應得的）**假期。",
+    "sentence": "After finishing the demanding and stressful year-long project, the exhausted team enjoyed a __________ vacation.",
+    "translation": "在完成要求極高且壓力極大為期一年的專案後，筋疲力盡的團隊享受了一個當之無愧的（應得的）假期。",
     "lookup": {
      "english": "fully merited or earned.",
      "chinese": "當之無愧的；應得的"
+    }
+   },
+   {
+    "word": "deserving",
+    "answer": "deserving",
+    "pos": "adj.",
+    "definition": "worthy of being treated in a particular way.",
+    "chinese": "值得的",
+    "sentence": "The scholarship was awarded to the most __________ student, who had worked hard despite many difficulties.",
+    "translation": "這筆獎學金頒給了最值得獲獎的學生，他儘管困難重重仍努力不懈。",
+    "lookup": {
+     "english": "worthy of being treated in a particular way.",
+     "chinese": "值得的"
     }
    }
   ],
@@ -882,22 +895,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "gorgeous"
-     },
-     {
-      "letter": "B",
-      "text": "overall"
-     },
-     {
-      "letter": "C",
       "text": "cozy"
      },
      {
+      "letter": "B",
+      "text": "gorgeous"
+     },
+     {
+      "letter": "C",
+      "text": "overall"
+     },
+     {
       "letter": "D",
-      "text": "transferable"
+      "text": "deserving"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 0
    },
    {
@@ -905,22 +918,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "outline"
+      "text": "density"
      },
      {
       "letter": "B",
-      "text": "coziness"
+      "text": "fairness"
      },
      {
       "letter": "C",
-      "text": "road"
+      "text": "coziness"
      },
      {
       "letter": "D",
-      "text": "street"
+      "text": "gorgeousness"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 1
    },
    {
@@ -928,22 +941,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "cozily"
-     },
-     {
-      "letter": "B",
       "text": "unfairly"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "densely"
      },
      {
+      "letter": "C",
+      "text": "fairly"
+     },
+     {
       "letter": "D",
-      "text": "overall"
+      "text": "cozily"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 2
    },
    {
@@ -951,11 +964,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "high status"
+      "text": "alternative route"
      },
      {
       "letter": "B",
-      "text": "alternative route"
+      "text": "cozy up to"
      },
      {
       "letter": "C",
@@ -963,10 +976,10 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "cozy up to"
+      "text": "educational background"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 3
    },
    {
@@ -982,14 +995,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "cozy atmosphere"
+      "text": "alternative route"
      },
      {
       "letter": "D",
-      "text": "alternative route"
+      "text": "cozy atmosphere"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 4
    },
    {
@@ -1005,11 +1018,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "overall"
+      "text": "dense"
      },
      {
       "letter": "D",
-      "text": "cozy"
+      "text": "fair"
      }
     ],
     "answer": "A",
@@ -1020,22 +1033,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "densely"
-     },
-     {
-      "letter": "B",
       "text": "unfairly"
      },
      {
+      "letter": "B",
+      "text": "densely"
+     },
+     {
       "letter": "C",
-      "text": "cozily"
+      "text": "gorgeously"
      },
      {
       "letter": "D",
-      "text": "gorgeously"
+      "text": "fairly"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 6
    },
    {
@@ -1043,7 +1056,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "acquaintance"
+      "text": "transfer"
      },
      {
       "letter": "B",
@@ -1051,11 +1064,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "path"
+      "text": "lane"
      },
      {
       "letter": "D",
-      "text": "transfer"
+      "text": "status"
      }
     ],
     "answer": "B",
@@ -1066,22 +1079,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "bank transfer"
+      "text": "overall performance"
      },
      {
       "letter": "B",
-      "text": "on route to"
+      "text": "take a route to"
      },
      {
       "letter": "C",
-      "text": "absolutely gorgeous"
+      "text": "cultural background"
      },
      {
       "letter": "D",
-      "text": "status quo"
+      "text": "absolutely gorgeous"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 8
    },
    {
@@ -1089,22 +1102,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "absolutely gorgeous"
-     },
-     {
-      "letter": "B",
       "text": "gorgeous view"
      },
      {
+      "letter": "B",
+      "text": "cozy up to"
+     },
+     {
       "letter": "C",
-      "text": "gas pedal"
+      "text": "on route to"
      },
      {
       "letter": "D",
-      "text": "deserves it"
+      "text": "brake pedal"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 9
    },
    {
@@ -1120,14 +1133,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "transferable"
+      "text": "dense"
      },
      {
       "letter": "D",
-      "text": "dense"
+      "text": "transferable"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 10
    },
    {
@@ -1135,11 +1148,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "densely"
+      "text": "fairly"
      },
      {
       "letter": "B",
-      "text": "fairly"
+      "text": "densely"
      },
      {
       "letter": "C",
@@ -1150,7 +1163,7 @@ window.FLASHCARD_UNITS = {
       "text": "unfairly"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 11
    },
    {
@@ -1158,11 +1171,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "route"
+      "text": "density"
      },
      {
       "letter": "B",
-      "text": "density"
+      "text": "route"
      },
      {
       "letter": "C",
@@ -1173,19 +1186,19 @@ window.FLASHCARD_UNITS = {
       "text": "acquaintance"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 12
    },
    {
-    "question": "The completely terrifying wild bears quietly and naturally live deep inside the completely dark and incredibly __________ near the tall mountains.",
+    "question": "The terrifying wild bears live deep inside the dark and __________ near the tall mountains.",
     "options": [
      {
       "letter": "A",
-      "text": "dense forest"
+      "text": "draw an outline"
      },
      {
       "letter": "B",
-      "text": "draw an outline"
+      "text": "dense forest"
      },
      {
       "letter": "C",
@@ -1196,7 +1209,7 @@ window.FLASHCARD_UNITS = {
       "text": "social status"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 13
    },
    {
@@ -1281,7 +1294,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "have a strong background in"
+      "text": "has a strong background in"
      },
      {
       "letter": "D",
@@ -1373,7 +1386,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "gorgeous"
+      "text": "dense"
      },
      {
       "letter": "D",
@@ -1388,7 +1401,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "overall"
+      "text": "Overall"
      },
      {
       "letter": "B",
@@ -1419,11 +1432,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "well-deserved"
+      "text": "fair"
      },
      {
       "letter": "D",
-      "text": "gorgeous"
+      "text": "overall"
      }
     ],
     "answer": "B",
@@ -1434,7 +1447,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "fairness"
+      "text": "lane"
      },
      {
       "letter": "B",
@@ -1442,14 +1455,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "lane"
+      "text": "fairness"
      },
      {
       "letter": "D",
-      "text": "outline"
+      "text": "gorgeousness"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 24
    },
    {
@@ -1457,7 +1470,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "transfer"
+      "text": "route"
      },
      {
       "letter": "B",
@@ -1465,14 +1478,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "route"
+      "text": "density"
      },
      {
       "letter": "D",
-      "text": "density"
+      "text": "road"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 25
    },
    {
@@ -1480,11 +1493,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "deserves it"
+      "text": "overall rating"
      },
      {
       "letter": "B",
-      "text": "overall rating"
+      "text": "on route to"
      },
      {
       "letter": "C",
@@ -1492,10 +1505,10 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "on route to"
+      "text": "overall performance"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 26
    },
    {
@@ -1503,22 +1516,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "family background"
+      "text": "has a strong background in"
      },
      {
       "letter": "B",
-      "text": "take a route to"
+      "text": "family background"
      },
      {
       "letter": "C",
-      "text": "have a strong background in"
+      "text": "dense fog"
      },
      {
       "letter": "D",
-      "text": "dense fog"
+      "text": "take a route to"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 27
    },
    {
@@ -1530,18 +1543,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "transfer money"
+      "text": "follow a route to"
      },
      {
       "letter": "C",
-      "text": "follow a route to"
+      "text": "transfer money"
      },
      {
       "letter": "D",
       "text": "educational background"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 28
    },
    {
@@ -1572,22 +1585,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "lane"
-     },
-     {
-      "letter": "B",
       "text": "gorgeousness"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "route"
+     },
+     {
+      "letter": "C",
+      "text": "lane"
      },
      {
       "letter": "D",
       "text": "path"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 30
    },
    {
@@ -1595,11 +1608,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "gorgeousness"
+      "text": "path"
      },
      {
       "letter": "B",
-      "text": "path"
+      "text": "gorgeousness"
      },
      {
       "letter": "C",
@@ -1610,7 +1623,7 @@ window.FLASHCARD_UNITS = {
       "text": "status"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 31
    },
    {
@@ -1664,11 +1677,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "outline"
+      "text": "outlined"
      },
      {
       "letter": "B",
-      "text": "deserve"
+      "text": "deserved"
      },
      {
       "letter": "C",
@@ -1733,7 +1746,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "have a strong background in"
+      "text": "has a strong background in"
      },
      {
       "letter": "B",
@@ -1756,15 +1769,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "overall"
+      "text": "deserving"
      },
      {
       "letter": "B",
-      "text": "dense"
+      "text": "overall"
      },
      {
       "letter": "C",
-      "text": "gorgeous"
+      "text": "dense"
      },
      {
       "letter": "D",
@@ -1779,11 +1792,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "coziness"
+      "text": "outline"
      },
      {
       "letter": "B",
-      "text": "transfer"
+      "text": "coziness"
      },
      {
       "letter": "C",
@@ -1791,7 +1804,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "gorgeousness"
+      "text": "transfer"
      }
     ],
     "answer": "C",
@@ -1802,15 +1815,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "acquaint"
+      "text": "acquainted"
      },
      {
       "letter": "B",
-      "text": "deserve"
+      "text": "deserved"
      },
      {
       "letter": "C",
-      "text": "transfer"
+      "text": "outlined"
      },
      {
       "letter": "D",
@@ -1825,22 +1838,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "gorgeous view"
-     },
-     {
-      "letter": "B",
       "text": "brake pedal"
      },
      {
+      "letter": "B",
+      "text": "overall rating"
+     },
+     {
       "letter": "C",
-      "text": "deserves it"
+      "text": "take a route to"
      },
      {
       "letter": "D",
-      "text": "transfer money"
+      "text": "marital status"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 41
    },
    {
@@ -1848,22 +1861,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "gas pedal"
+      "text": "dense fog"
      },
      {
       "letter": "B",
-      "text": "have a strong background in"
+      "text": "gas pedal"
      },
      {
       "letter": "C",
-      "text": "clear outline"
+      "text": "gorgeous view"
      },
      {
       "letter": "D",
-      "text": "brake pedal"
+      "text": "absolutely gorgeous"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 42
    },
    {
@@ -1871,11 +1884,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "deserve"
+      "text": "deserved"
      },
      {
       "letter": "B",
-      "text": "outline"
+      "text": "pedal"
      },
      {
       "letter": "C",
@@ -1883,7 +1896,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "pedal"
+      "text": "acquainted"
      }
     ],
     "answer": "C",
@@ -1894,22 +1907,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "background"
+      "text": "fairness"
      },
      {
       "letter": "B",
-      "text": "path"
+      "text": "background"
      },
      {
       "letter": "C",
-      "text": "transfer"
+      "text": "route"
      },
      {
       "letter": "D",
-      "text": "road"
+      "text": "acquaintance"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 44
    },
    {
@@ -1917,7 +1930,30 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "draw an outline"
+      "text": "overall performance"
+     },
+     {
+      "letter": "B",
+      "text": "brake pedal"
+     },
+     {
+      "letter": "C",
+      "text": "gorgeous view"
+     },
+     {
+      "letter": "D",
+      "text": "has a strong background in"
+     }
+    ],
+    "answer": "D",
+    "vi": 45
+   },
+   {
+    "question": "The famous young author comes from a completely poor __________ but successfully managed to become incredibly wealthy through hard work.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "family background"
      },
      {
       "letter": "B",
@@ -1929,33 +1965,10 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "have a strong background in"
+      "text": "dense forest"
      }
     ],
-    "answer": "D",
-    "vi": 45
-   },
-   {
-    "question": "The famous young author comes from a completely poor __________ but successfully managed to become incredibly wealthy through hard work.",
-    "options": [
-     {
-      "letter": "A",
-      "text": "marital status"
-     },
-     {
-      "letter": "B",
-      "text": "family background"
-     },
-     {
-      "letter": "C",
-      "text": "status quo"
-     },
-     {
-      "letter": "D",
-      "text": "brake pedal"
-     }
-    ],
-    "answer": "B",
+    "answer": "A",
     "vi": 46
    },
    {
@@ -1963,11 +1976,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "on route to"
+      "text": "brake pedal"
      },
      {
       "letter": "B",
-      "text": "gorgeous view"
+      "text": "overall impression"
      },
      {
       "letter": "C",
@@ -1975,7 +1988,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "draw an outline"
+      "text": "follow a route to"
      }
     ],
     "answer": "C",
@@ -1986,22 +1999,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "acquaint all new students with"
-     },
-     {
-      "letter": "B",
-      "text": "deserves it"
-     },
-     {
-      "letter": "C",
       "text": "draw an outline"
      },
      {
-      "letter": "D",
+      "letter": "B",
       "text": "educational background"
+     },
+     {
+      "letter": "C",
+      "text": "transfer money"
+     },
+     {
+      "letter": "D",
+      "text": "social status"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 48
    },
    {
@@ -2009,22 +2022,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "acquaint"
+      "text": "deserved"
      },
      {
       "letter": "B",
-      "text": "deserve"
+      "text": "transfer"
      },
      {
       "letter": "C",
-      "text": "pedal"
+      "text": "acquainted"
      },
      {
       "letter": "D",
-      "text": "outline"
+      "text": "pedal"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 49
    },
    {
@@ -2032,22 +2045,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "brief outline"
-     },
-     {
-      "letter": "B",
       "text": "acquaint all new students with"
      },
      {
+      "letter": "B",
+      "text": "high status"
+     },
+     {
       "letter": "C",
-      "text": "cozy atmosphere"
+      "text": "status quo"
      },
      {
       "letter": "D",
-      "text": "status quo"
+      "text": "brief outline"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 50
    },
    {
@@ -2059,18 +2072,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "route"
+      "text": "coziness"
      },
      {
       "letter": "C",
-      "text": "acquaintance"
+      "text": "outline"
      },
      {
       "letter": "D",
-      "text": "fairness"
+      "text": "acquaintance"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 51
    },
    {
@@ -2078,22 +2091,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "well-deserved"
+      "text": "dense"
      },
      {
       "letter": "B",
-      "text": "acquainted"
+      "text": "cozy"
      },
      {
       "letter": "C",
-      "text": "gorgeous"
+      "text": "acquainted"
      },
      {
       "letter": "D",
-      "text": "cozy"
+      "text": "gorgeous"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 52
    },
    {
@@ -2105,15 +2118,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "overall performance"
+      "text": "take a route to"
      },
      {
       "letter": "C",
-      "text": "status quo"
+      "text": "overall performance"
      },
      {
       "letter": "D",
-      "text": "make someone's acquaintance"
+      "text": "make your acquaintance"
      }
     ],
     "answer": "D",
@@ -2124,22 +2137,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "gorgeous"
-     },
-     {
-      "letter": "B",
-      "text": "fair"
-     },
-     {
-      "letter": "C",
       "text": "overall"
      },
      {
+      "letter": "B",
+      "text": "deserving"
+     },
+     {
+      "letter": "C",
+      "text": "dense"
+     },
+     {
       "letter": "D",
-      "text": "unfair"
+      "text": "fair"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 54
    },
    {
@@ -2147,11 +2160,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "overall"
+      "text": "fairly"
      },
      {
       "letter": "B",
-      "text": "cozily"
+      "text": "Overall"
      },
      {
       "letter": "C",
@@ -2159,41 +2172,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "unfairly"
+      "text": "cozily"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 55
    },
    {
-    "question": "Despite a few small technical mistakes during the long musical performance, the completely strict judge's __________ was highly highly positive.",
+    "question": "Despite a few small technical mistakes during the long musical performance, the completely strict judge's __________ was highly positive.",
     "options": [
      {
       "letter": "A",
-      "text": "status quo"
-     },
-     {
-      "letter": "B",
-      "text": "marital status"
-     },
-     {
-      "letter": "C",
-      "text": "deserves it"
-     },
-     {
-      "letter": "D",
       "text": "overall impression"
-     }
-    ],
-    "answer": "D",
-    "vi": 56
-   },
-   {
-    "question": "The highly demanding coach was completely satisfied with the young team's excellent __________ during the deeply stressful championship baseball game.",
-    "options": [
-     {
-      "letter": "A",
-      "text": "have a strong background in"
      },
      {
       "letter": "B",
@@ -2201,37 +2191,60 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "make someone's acquaintance"
+      "text": "cozy atmosphere"
      },
      {
       "letter": "D",
-      "text": "brake pedal"
+      "text": "status quo"
      }
     ],
-    "answer": "B",
-    "vi": 57
+    "answer": "A",
+    "vi": 56
    },
    {
-    "question": "Because the expensive hotel room was incredibly dirty and deeply completely completely completely completely absolutely totally absolutely highly entirely completely fully highly totally entirely thoroughly completely fully perfectly completely extremely absolutely completely noisy, I sadly gave it a very low __________.)",
+    "question": "The highly demanding coach was completely satisfied with the young team's excellent __________ during the deeply stressful championship baseball game.",
     "options": [
      {
       "letter": "A",
-      "text": "draw an outline"
+      "text": "absolutely gorgeous"
      },
      {
       "letter": "B",
-      "text": "follow a route to"
+      "text": "gas pedal"
      },
      {
       "letter": "C",
-      "text": "overall rating"
+      "text": "has a strong background in"
      },
      {
       "letter": "D",
-      "text": "family background"
+      "text": "overall performance"
      }
     ],
-    "answer": "C",
+    "answer": "D",
+    "vi": 57
+   },
+   {
+    "question": "Because the expensive hotel room was dirty and noisy, I sadly gave it a very low __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "family background"
+     },
+     {
+      "letter": "B",
+      "text": "overall rating"
+     },
+     {
+      "letter": "C",
+      "text": "draw an outline"
+     },
+     {
+      "letter": "D",
+      "text": "follow a route to"
+     }
+    ],
+    "answer": "B",
     "vi": 58
    },
    {
@@ -2239,22 +2252,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "outline"
-     },
-     {
-      "letter": "B",
       "text": "density"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "transfer"
+     },
+     {
+      "letter": "C",
+      "text": "outline"
      },
      {
       "letter": "D",
       "text": "background"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 59
    },
    {
@@ -2266,18 +2279,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "transfer"
+      "text": "outlined"
      },
      {
       "letter": "C",
-      "text": "outline"
+      "text": "transfer"
      },
      {
       "letter": "D",
-      "text": "deserve"
+      "text": "deserved"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 60
    },
    {
@@ -2308,7 +2321,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "have a strong background in"
+      "text": "has a strong background in"
      },
      {
       "letter": "B",
@@ -2316,14 +2329,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "draw an outline"
+      "text": "clear outline"
      },
      {
       "letter": "D",
-      "text": "clear outline"
+      "text": "draw an outline"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 62
    },
    {
@@ -2335,18 +2348,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "draw an outline"
-     },
-     {
-      "letter": "C",
       "text": "brake pedal"
      },
      {
-      "letter": "D",
+      "letter": "C",
       "text": "cultural background"
+     },
+     {
+      "letter": "D",
+      "text": "draw an outline"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 63
    },
    {
@@ -2354,7 +2367,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "acquaint"
+      "text": "acquainted"
      },
      {
       "letter": "B",
@@ -2362,14 +2375,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "transfer"
+      "text": "deserved"
      },
      {
       "letter": "D",
-      "text": "deserve"
+      "text": "transfer"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 64
    },
    {
@@ -2396,7 +2409,7 @@ window.FLASHCARD_UNITS = {
     "vi": 65
    },
    {
-    "question": "After completely finishing the incredibly demanding and highly stressful year-long project, the completely exhausted team completely enjoyed a highly __________ vacation.",
+    "question": "After finishing the demanding and stressful year-long project, the exhausted team enjoyed a __________ vacation.",
     "options": [
      {
       "letter": "A",
@@ -2404,21 +2417,44 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "unfair"
+      "text": "cozy"
      },
      {
       "letter": "C",
-      "text": "well-deserved"
+      "text": "acquainted"
      },
      {
       "letter": "D",
-      "text": "cozy"
+      "text": "well-deserved"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 66
+   },
+   {
+    "question": "The scholarship was awarded to the most __________ student, who had worked hard despite many difficulties.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "acquainted"
+     },
+     {
+      "letter": "B",
+      "text": "deserving"
+     },
+     {
+      "letter": "C",
+      "text": "transferable"
+     },
+     {
+      "letter": "D",
+      "text": "well-deserved"
+     }
+    ],
+    "answer": "B",
+    "vi": 67
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cozy":["giving a feeling of comfort, warmth, and relaxation.","舒適的；愜意的"],"coziness":["the quality of being comfortable, warm, and relaxing.","舒適；愜意"],"cozily":["in a comfortable, warm, and relaxing way.","舒適地"],"gorgeous":["beautiful; very attractive.","華麗的；極美的"],"gorgeously":["in a very beautiful or attractive way.","華麗地；極美地"],"gorgeousness":["the quality of being very beautiful or attractive.","華麗；美麗"],"dense":["closely compacted in substance.","密集的；濃密的"],"densely":["in a closely compacted or crowded manner.","密集地"],"density":["the degree of compactness of a substance.","密度"],"status":["the relative social, professional, or other standing of someone or something.","地位；狀態"],"fairly":["with justice; moderately.","公平地；相當地"],"fair":["in accordance with the rules or standards; legitimate.","公平的"],"unfairly":["in a manner that is not in accordance with the rules or standards.","不公平地"],"unfair":["not based on or behaving according to the principles of equality and justice.","不公平的"],"fairness":["impartial and just treatment or behavior without favoritism or discrimination.","公平（性）"],"route":["a way or course taken in getting from a starting point to a destination.","路線"],"lane":["a narrow road, especially in a rural area.","小巷；車道"],"path":["a way or track laid down for walking or made by continual treading.","小徑"],"road":["a wide way leading from one place to another.","道路"],"street":["a public road in a city or town, typically with houses and buildings on one or both sides.","街道"],"transfer":["to move from one place to another.","轉移；調動"],"transferable":["able to be transferred or made over to the possession of another person.","可轉移的"],"pedal":["a foot-operated lever used to control a mechanism.","踏板"],"backpedal":["to reverse one's previous action or opinion.","改變主意；退縮"],"background":["the area or scenery behind the main object of contemplation.","背景"],"acquaint":["to make someone aware of or familiar with.","使熟悉；使認識"],"acquaintance":["a person's knowledge or experience of something; a person one knows slightly.","熟人；相識"],"acquainted":["having personal knowledge of something.","熟悉的；認識的"],"overall":["total; including everything.","整體的；全面的"],"outline":["a line or set of lines enclosing or indicating the shape of an object in a sketch or diagram.","輪廓；大綱"],"deserve":["to do something or show qualities worthy of reward or punishment.","值得；應得"],"well-deserved":["fully merited or earned.","當之無愧的；應得的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cozy":["giving a feeling of comfort, warmth, and relaxation.","舒適的；愜意的"],"coziness":["the quality of being comfortable, warm, and relaxing.","舒適；愜意"],"cozily":["in a comfortable, warm, and relaxing way.","舒適地"],"gorgeous":["beautiful; very attractive.","華麗的；極美的"],"gorgeously":["in a very beautiful or attractive way.","華麗地；極美地"],"gorgeousness":["the quality of being very beautiful or attractive.","華麗；美麗"],"dense":["closely compacted in substance.","密集的；濃密的"],"densely":["in a closely compacted or crowded manner.","密集地"],"density":["the degree of compactness of a substance.","密度"],"status":["the relative social, professional, or other standing of someone or something.","地位；狀態"],"fairly":["with justice; moderately.","公平地；相當地"],"fair":["in accordance with the rules or standards; legitimate.","公平的"],"unfairly":["in a manner that is not in accordance with the rules or standards.","不公平地"],"unfair":["not based on or behaving according to the principles of equality and justice.","不公平的"],"fairness":["impartial and just treatment or behavior without favoritism or discrimination.","公平（性）"],"route":["a way or course taken in getting from a starting point to a destination.","路線"],"lane":["a narrow road, especially in a rural area.","小巷；車道"],"path":["a way or track laid down for walking or made by continual treading.","小徑"],"road":["a wide way leading from one place to another.","道路"],"street":["a public road in a city or town, typically with houses and buildings on one or both sides.","街道"],"transfer":["to move from one place to another.","轉移；調動"],"transferable":["able to be transferred or made over to the possession of another person.","可轉移的"],"pedal":["a foot-operated lever used to control a mechanism.","踏板"],"backpedal":["to reverse one's previous action or opinion.","改變主意；退縮"],"background":["the area or scenery behind the main object of contemplation.","背景"],"acquainted":["to make someone aware of or familiar with.","使熟悉；使認識"],"acquaint":["to make someone aware of or familiar with.","使熟悉；使認識"],"acquaintance":["a person's knowledge or experience of something; a person one knows slightly.","熟人；相識"],"overall":["total; including everything.","整體的；全面的"],"outline":["a line or set of lines enclosing or indicating the shape of an object in a sketch or diagram.","輪廓；大綱"],"outlined":["to draw, trace, or define the outer edge or shape of.","概述；描繪輪廓"],"deserve":["to do something or show qualities worthy of reward or punishment.","值得；應得"],"deserved":["to do something or show qualities worthy of reward or punishment.","值得；應得"],"well-deserved":["fully merited or earned.","當之無愧的；應得的"],"deserving":["worthy of being treated in a particular way.","值得的"]});

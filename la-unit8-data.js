@@ -1,11 +1,11 @@
-// LiveABC Level 3–5 Advanced Unit 8 (withdraw withdrew withdrawn – roll one's eyes) — flashcards + MCQ practice
+// LiveABC Level 3–5 Advanced Unit 8 (withdraw – roll one's eyes) — flashcards + MCQ practice
 window.FLASHCARD_UNITS = {
  "8": {
-  "title": "LiveABC Level 3–5 Advanced · Unit 8: withdraw withdrew withdrawn – roll one's eyes",
-  "theme": "withdraw withdrew withdrawn – roll one's eyes",
+  "title": "LiveABC Level 3–5 Advanced · Unit 8: withdraw – roll one's eyes",
+  "theme": "withdraw – roll one's eyes",
   "cards": [
    {
-    "word": "withdraw withdrew withdrawn",
+    "word": "withdraw",
     "answer": "withdraw",
     "pos": "v.",
     "definition": "to take back, remove, or move away from a place or situation",
@@ -15,7 +15,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "to take back, remove, or move away from a place or situation",
      "chinese": "提款；撤回；退出"
-    }
+    },
+    "forms": "withdraw / withdrew / withdrawn"
    },
    {
     "word": "withdrawal",
@@ -57,8 +58,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "admit admitted admitted",
-    "answer": "admit admitted admitted",
+    "word": "admit",
+    "answer": "admit",
     "pos": "v.",
     "definition": "to agree that something is true, especially unwillingly",
     "chinese": "承認；准許進入",
@@ -67,7 +68,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "to agree that something is true, especially unwillingly",
      "chinese": "承認；准許進入"
-    }
+    },
+    "forms": "admit / admitted / admitted"
    },
    {
     "word": "adjust to",
@@ -149,7 +151,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "according to",
-    "answer": "according to",
+    "answer": "According to",
     "pos": "phr.",
     "definition": "as stated, reported, or indicated by a particular person, authoritative source, or rule",
     "chinese": "根據...；依照...",
@@ -175,7 +177,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "judging from",
-    "answer": "judging from",
+    "answer": "Judging from",
     "pos": "phr.",
     "definition": "forming an opinion or making a logical conclusion based on specific evidence or appearance",
     "chinese": "從...來看；根據...來判斷",
@@ -214,7 +216,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "under normal circumstances",
-    "answer": "under normal circumstances",
+    "answer": "Under normal circumstances",
     "pos": "phr.",
     "definition": "in ordinary conditions or situations without unexpected events",
     "chinese": "在正常情況下",
@@ -448,7 +450,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "capture somebody's imagination",
-    "answer": "capture somebody's imagination",
+    "answer": "captured the children's imagination",
     "pos": "phr.",
     "definition": "to interpret or stimulate someone's creative thoughts strongly",
     "chinese": "擄獲某人的想像力；吸引住某人",
@@ -733,8 +735,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "compete with against",
-    "answer": "compete with against",
+    "word": "compete with / against",
+    "answer": "compete with",
     "pos": "phr.",
     "definition": "to struggle against a specific rival or opponent to achieve a goal",
     "chinese": "與...競爭",
@@ -929,7 +931,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "roll one's eyes",
-    "answer": "roll eyes",
+    "answer": "roll her eyes",
     "pos": "phr.",
     "definition": "to move one's eyes upwards to express annoyance, boredom, or disbelief",
     "chinese": "翻白眼",
@@ -947,7 +949,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "judging from"
+      "text": "Judging from"
      },
      {
       "letter": "B",
@@ -959,7 +961,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "under normal circumstances"
+      "text": "Under normal circumstances"
      }
     ],
     "answer": "B",
@@ -1039,7 +1041,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "admit admitted admitted"
+      "text": "admit"
      },
      {
       "letter": "B",
@@ -1051,7 +1053,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "roll eyes"
+      "text": "roll her eyes"
      }
     ],
     "answer": "A",
@@ -1062,7 +1064,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "compete with against"
+      "text": "compete with"
      },
      {
       "letter": "B",
@@ -1074,7 +1076,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "capture somebody's imagination"
+      "text": "captured the children's imagination"
      }
     ],
     "answer": "C",
@@ -1108,7 +1110,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "admit admitted admitted"
+      "text": "admit"
      },
      {
       "letter": "B",
@@ -1181,11 +1183,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "under normal circumstances"
+      "text": "Under normal circumstances"
      },
      {
       "letter": "C",
-      "text": "roll eyes"
+      "text": "roll her eyes"
      },
      {
       "letter": "D",
@@ -1212,7 +1214,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "according to"
+      "text": "According to"
      }
     ],
     "answer": "D",
@@ -1258,7 +1260,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "judging from"
+      "text": "Judging from"
      }
     ],
     "answer": "D",
@@ -1319,7 +1321,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "under normal circumstances"
+      "text": "Under normal circumstances"
      },
      {
       "letter": "C",
@@ -1465,7 +1467,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "admit admitted admitted"
+      "text": "admit"
      }
     ],
     "answer": "A",
@@ -1507,7 +1509,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "according to"
+      "text": "According to"
      },
      {
       "letter": "D",
@@ -1733,7 +1735,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "capture somebody's imagination"
+      "text": "captured the children's imagination"
      },
      {
       "letter": "C",
@@ -1875,7 +1877,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "according to"
+      "text": "According to"
      },
      {
       "letter": "D",
@@ -1971,7 +1973,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "judging from"
+      "text": "Judging from"
      }
     ],
     "answer": "C",
@@ -2220,7 +2222,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "according to"
+      "text": "According to"
      },
      {
       "letter": "D",
@@ -2235,7 +2237,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "compete with against"
+      "text": "compete with"
      },
      {
       "letter": "B",
@@ -2247,7 +2249,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "judging from"
+      "text": "Judging from"
      }
     ],
     "answer": "A",
@@ -2404,11 +2406,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "under normal circumstances"
+      "text": "Under normal circumstances"
      },
      {
       "letter": "D",
-      "text": "capture somebody's imagination"
+      "text": "captured the children's imagination"
      }
     ],
     "answer": "A",
@@ -2584,11 +2586,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "roll eyes"
+      "text": "roll her eyes"
      },
      {
       "letter": "C",
-      "text": "admit admitted admitted"
+      "text": "admit"
      },
      {
       "letter": "D",
@@ -2601,4 +2603,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"withdraw":["to take back, remove, or move away from a place or situation","提款；撤回；退出"],"withdrawal":["the act of taking back or removing something, or taking money from a bank","提領；撤退；收回"],"admission":["the act of agreeing that something is true, or permission to enter a place","入場許可；承認；入學"],"adjustment":["a small change made to something in order to correct or improve it","調整；適應"],"adaptation":["a dynamic process or physical characteristic that helps an organism survive and reproduce in its environment","（生物學的）適應；適應特徵"],"adapted":["modified, rewritten, or altered from an original book or play to make it suitable for a film or stage script","改編的（劇本/作品）"],"normal":["ordinary or expected; conforming to a standard or regular pattern","正常的；一般的"],"abnormal":["different from what is usual or expected, typically in a way that is worrying","異常的；不正常的"],"normally":["usually or in a regular, ordinary way","通常；正常地"],"anomaly":["something that deviates from what is standard, normal, or expected; an irregularity","異常事物；不正常現象"],"canon":["a large, powerful gun fixed to two wheels, used in old warfare","大砲"],"canons":["a large, powerful gun fixed to two wheels, used in old warfare","大砲"],"cannonball":["a round metal or stone ball fired from a cannon","砲彈"],"worth":["having a particular value, especially in terms of money or importance","值得；價值..."],"worthwhile":["useful, important, or rewarding enough to be worth the time or money spent","值得花時間/金錢的"],"noteworthy":["deserving to be noticed or to receive attention because of being important","值得注意的；顯著的"],"trustworthy":["able to be relied on as honest or truthful","值得信賴的；可靠的"],"contest":["to formally object to a statement, decision, or the ownership of something","爭奪；對...提出質疑"],"contested":["to formally object to a statement, decision, or the ownership of something","爭奪；對...提出質疑"],"contestant":["a person who takes part in a contest or competition","參賽者"],"revived":["to bring something back to life, health, existence, or popularity","使復甦；使再度流行"],"revive":["to bring something back to life, health, existence, or popularity","使復甦；使再度流行"],"revival":["an improvement in the condition or popularity of something","復興；復甦；再現"],"capture":["to catch a person or animal, or to take distinct control of a place","捕捉；捕獲；佔領"],"captured":["to catch a person or animal, or to take distinct control of a place","捕捉；捕獲；佔領"],"scholar":["a person who studies an academic subject and knows a lot about it","學者"],"academic":["relating to schools, colleges, and universities, or to connected study","學術的"],"scholarship":["an amount of money given by a school or organization to pay for studies","獎學金"],"scholarly":["containing a lot of deep knowledge, or typical of a serious scholar","學術性的；博學的"],"excel":["relating to art, or showing skill and imagination in creating beautiful things","藝術的；有藝術天分的"],"distinct":["clearly noticeable, separate, or different from others","明顯不同的；清晰的"],"distinction":["a difference between similar things, or an award given for high quality","榮譽；優秀；區別"],"distinctive":["having a special feature that makes something easily recognizable","有特色的；獨特的"],"sculptor":["an artist who creates three-dimensional shapes out of stone, wood, or metal","雕刻家"],"sculpture":["a three-dimensional work of art made by carving or molding material","雕塑品"],"sportsman":["a person who takes part in sports, especially as a professional","運動員"],"sportsmanship":["fair and generous behavior or treatment of others in a sports contest","運動員精神；風度"],"athlete":["a person who is proficient in sports and other forms of physical exercise","運動員"],"athletic":["physically strong, fit, and active, or relating to sports and athletes","運動的；體育的；強壯的"],"tournament":["a series of contests between a number of competitors, who compete for an overall prize","錦標賽；聯賽"],"champion":["a person, team, or animal that has won a contest or competition, especially in sports","冠軍"],"championship":["a high-level contest held to determine the overall winner or champion of a sport","冠軍賽；冠軍稱號"],"compete":["to try to be more successful than others in a game, business, or contest","競爭；比賽"],"competition":["an organized event in which people try to win, or the act of competing","競爭；比賽"],"competitive":["involving competition, or having a strong desire to win or be successful","競爭激烈的；好勝的"],"competitor":["a person, team, or company that takes part in a commercial or sports competition","競爭者；對手"],"competitors":["a person, team, or company that takes part in a commercial or sports competition","競爭者；對手"],"hover":["to stay in one place in the air, flying without moving forward","盤旋"],"crater":["a large, bowl-shaped cavity in the ground or on the surface of a planet","火山口；隕石坑"],"establish":["to start a company, organization, or system that will continue for a long time","建立；設立"],"established":["generally accepted or familiar, having existed for a long period of time","既定的；確立的；著名的"],"sprint":["a short, fast race in which everyone runs or swims at maximum speed","短跑；衝刺"],"sprinter":["an athlete who races in short, high-speed running or swimming events","短跑選手"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"withdraw":["to take back, remove, or move away from a place or situation","提款；撤回；退出"],"withdrawal":["the act of taking back or removing something, or taking money from a bank","提領；撤退；收回"],"admission":["the act of agreeing that something is true, or permission to enter a place","入場許可；承認；入學"],"admit":["to agree that something is true, especially unwillingly","承認；准許進入"],"adjustment":["a small change made to something in order to correct or improve it","調整；適應"],"adaptation":["a dynamic process or physical characteristic that helps an organism survive and reproduce in its environment","（生物學的）適應；適應特徵"],"adapted":["modified, rewritten, or altered from an original book or play to make it suitable for a film or stage script","改編的（劇本/作品）"],"normal":["ordinary or expected; conforming to a standard or regular pattern","正常的；一般的"],"abnormal":["different from what is usual or expected, typically in a way that is worrying","異常的；不正常的"],"normally":["usually or in a regular, ordinary way","通常；正常地"],"anomaly":["something that deviates from what is standard, normal, or expected; an irregularity","異常事物；不正常現象"],"canon":["a large, powerful gun fixed to two wheels, used in old warfare","大砲"],"canons":["a large, powerful gun fixed to two wheels, used in old warfare","大砲"],"cannonball":["a round metal or stone ball fired from a cannon","砲彈"],"worth":["having a particular value, especially in terms of money or importance","值得；價值..."],"worthwhile":["useful, important, or rewarding enough to be worth the time or money spent","值得花時間/金錢的"],"noteworthy":["deserving to be noticed or to receive attention because of being important","值得注意的；顯著的"],"trustworthy":["able to be relied on as honest or truthful","值得信賴的；可靠的"],"contested":["to formally object to a statement, decision, or the ownership of something","爭奪；對...提出質疑"],"contest":["to formally object to a statement, decision, or the ownership of something","爭奪；對...提出質疑"],"contestant":["a person who takes part in a contest or competition","參賽者"],"revive":["to bring something back to life, health, existence, or popularity","使復甦；使再度流行"],"revived":["to bring something back to life, health, existence, or popularity","使復甦；使再度流行"],"revival":["an improvement in the condition or popularity of something","復興；復甦；再現"],"captured":["to catch a person or animal, or to take distinct control of a place","捕捉；捕獲；佔領"],"capture":["to catch a person or animal, or to take distinct control of a place","捕捉；捕獲；佔領"],"scholar":["a person who studies an academic subject and knows a lot about it","學者"],"academic":["relating to schools, colleges, and universities, or to connected study","學術的"],"scholarship":["an amount of money given by a school or organization to pay for studies","獎學金"],"scholarly":["containing a lot of deep knowledge, or typical of a serious scholar","學術性的；博學的"],"excel":["relating to art, or showing skill and imagination in creating beautiful things","藝術的；有藝術天分的"],"distinct":["clearly noticeable, separate, or different from others","明顯不同的；清晰的"],"distinction":["a difference between similar things, or an award given for high quality","榮譽；優秀；區別"],"distinctive":["having a special feature that makes something easily recognizable","有特色的；獨特的"],"sculptor":["an artist who creates three-dimensional shapes out of stone, wood, or metal","雕刻家"],"sculpture":["a three-dimensional work of art made by carving or molding material","雕塑品"],"sportsman":["a person who takes part in sports, especially as a professional","運動員"],"sportsmanship":["fair and generous behavior or treatment of others in a sports contest","運動員精神；風度"],"athlete":["a person who is proficient in sports and other forms of physical exercise","運動員"],"athletic":["physically strong, fit, and active, or relating to sports and athletes","運動的；體育的；強壯的"],"tournament":["a series of contests between a number of competitors, who compete for an overall prize","錦標賽；聯賽"],"champion":["a person, team, or animal that has won a contest or competition, especially in sports","冠軍"],"championship":["a high-level contest held to determine the overall winner or champion of a sport","冠軍賽；冠軍稱號"],"compete":["to try to be more successful than others in a game, business, or contest","競爭；比賽"],"competition":["an organized event in which people try to win, or the act of competing","競爭；比賽"],"competitive":["involving competition, or having a strong desire to win or be successful","競爭激烈的；好勝的"],"competitors":["a person, team, or company that takes part in a commercial or sports competition","競爭者；對手"],"competitor":["a person, team, or company that takes part in a commercial or sports competition","競爭者；對手"],"hover":["to stay in one place in the air, flying without moving forward","盤旋"],"crater":["a large, bowl-shaped cavity in the ground or on the surface of a planet","火山口；隕石坑"],"establish":["to start a company, organization, or system that will continue for a long time","建立；設立"],"established":["generally accepted or familiar, having existed for a long period of time","既定的；確立的；著名的"],"sprint":["a short, fast race in which everyone runs or swims at maximum speed","短跑；衝刺"],"sprinter":["an athlete who races in short, high-speed running or swimming events","短跑選手"]});

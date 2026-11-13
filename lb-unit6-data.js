@@ -149,7 +149,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "need badly",
-    "answer": "need badly",
+    "answer": "badly needed",
     "pos": "phr.",
     "definition": "to require something very much or urgently.",
     "chinese": "迫切需要",
@@ -201,7 +201,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "do no harm to",
-    "answer": "do no harm to",
+    "answer": "done no harm to",
     "pos": "phr.",
     "definition": "to be completely safe and cause no damage or injury.",
     "chinese": "不對...造成傷害",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "fall short of",
-    "answer": "fall short of",
+    "answer": "fell short of",
     "pos": "phr.",
     "definition": "to fail to meet an expectation or standard.",
     "chinese": "未達到；不符合",
@@ -317,8 +317,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "swell, swelled, swollen",
-    "answer": "swell, swelled, swollen",
+    "word": "swell",
+    "answer": "swelled",
     "pos": "v.",
     "definition": "to become larger or rounder in size.",
     "chinese": "腫脹；增加",
@@ -327,7 +327,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "to become larger or rounder in size.",
      "chinese": "腫脹；增加"
-    }
+    },
+    "forms": "swell / swelled / swollen"
    },
    {
     "word": "swollen",
@@ -396,7 +397,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "leak",
-    "answer": "leak",
+    "answer": "leaked",
     "pos": "v. / n.",
     "definition": "to accidentally lose or admit contents; a hole through which contents escape.",
     "chinese": "漏水；洩漏",
@@ -761,7 +762,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "mineral",
-    "answer": "mineral",
+    "answer": "minerals",
     "pos": "n.",
     "definition": "a solid naturally occurring inorganic substance.",
     "chinese": "礦物質",
@@ -800,7 +801,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "lighten",
-    "answer": "lighten",
+    "answer": "lightened",
     "pos": "v.",
     "definition": "to make or become lighter in weight, pressure, or severity.",
     "chinese": "減輕；變亮",
@@ -878,7 +879,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "in conclusion",
-    "answer": "in conclusion",
+    "answer": "In conclusion",
     "pos": "phr.",
     "definition": "lastly, to sum up.",
     "chinese": "總而言之",
@@ -922,7 +923,7 @@ window.FLASHCARD_UNITS = {
     "definition": "moderate in the amount.",
     "chinese": "適度的",
     "sentence": "Many top scientists deeply believe that developed countries have unfortunately only devoted __________ resources to properly fighting global climate change.",
-    "translation": "許多頂尖科學家深信，已開發國家不幸地只投入了**適度的（少量的）**資源來適當地對抗全球氣候變遷。",
+    "translation": "許多頂尖科學家深信，已開發國家不幸地只投入了適度的（少量的）資源來適當地對抗全球氣候變遷。",
     "lookup": {
      "english": "moderate in the amount.",
      "chinese": "適度的"
@@ -1230,7 +1231,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "go too far",
-    "answer": "go too far",
+    "answer": "went too far",
     "pos": "phr.",
     "definition": "to exceed the limits of what is reasonable or acceptable.",
     "chinese": "做得太過分",
@@ -1269,7 +1270,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "overload",
-    "answer": "overload",
+    "answer": "overloaded",
     "pos": "v.",
     "definition": "to load with too great a burden or cargo.",
     "chinese": "超載；負荷過多",
@@ -1308,7 +1309,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "be overwhelmed with",
-    "answer": "is overwhelmed with",
+    "answer": "was overwhelmed with",
     "pos": "phr.",
     "definition": "To receive or be faced with a huge number of physical things at once.",
     "chinese": "被大量（某物）淹沒、收到多到無法應付的（某物）",
@@ -1325,7 +1326,7 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "To have too much work to do, causing stress or a feeling of being unable to cope.",
     "chinese": "被工作量壓得喘不過氣、工作量大到無法負荷",
-    "sentence": "Since two employees suddenly resigned last week, the remaining secretary __________ , and she has to stay late every night to finish the reports.",
+    "sentence": "Since two employees suddenly resigned last week, the remaining secretary __________, and she has to stay late every night to finish the reports.",
     "translation": "自從上週兩名員工突然辭職後，留下來的秘書被工作量壓得喘不過氣，她每天晚上都必須加班到很晚才能完成報告。",
     "lookup": {
      "english": "To have too much work to do, causing stress or a feeling of being unable to cope.",
@@ -1334,7 +1335,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "be overwhelmed with",
-    "answer": "is overwhelmed with",
+    "answer": "was overwhelmed with",
     "pos": "phr.",
     "definition": "To feel a sudden, very strong emotion that is difficult to control.",
     "chinese": "內心充斥著（某種情緒）、被（某種情緒）淹沒",
@@ -1467,7 +1468,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "mineral"
+      "text": "minerals"
      },
      {
       "letter": "D",
@@ -1517,7 +1518,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "mineral"
+      "text": "minerals"
      }
     ],
     "answer": "B",
@@ -1536,7 +1537,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "leak"
+      "text": "leaked"
      },
      {
       "letter": "D",
@@ -1609,7 +1610,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "mineral"
+      "text": "minerals"
      }
     ],
     "answer": "A",
@@ -1647,7 +1648,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "leak"
+      "text": "leaked"
      },
      {
       "letter": "C",
@@ -1724,7 +1725,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "need badly"
+      "text": "badly needed"
      }
     ],
     "answer": "D",
@@ -1789,7 +1790,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "need badly"
+      "text": "badly needed"
      },
      {
       "letter": "D",
@@ -1812,7 +1813,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "do no harm to"
+      "text": "done no harm to"
      },
      {
       "letter": "D",
@@ -1831,7 +1832,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "do no harm to"
+      "text": "done no harm to"
      },
      {
       "letter": "C",
@@ -1927,7 +1928,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "in conclusion"
+      "text": "In conclusion"
      },
      {
       "letter": "D",
@@ -1996,7 +1997,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "fall short of"
+      "text": "fell short of"
      },
      {
       "letter": "D",
@@ -2015,7 +2016,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "swell, swelled, swollen"
+      "text": "swelled"
      },
      {
       "letter": "C",
@@ -2023,7 +2024,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "is overwhelmed with"
+      "text": "was overwhelmed with"
      }
     ],
     "answer": "B",
@@ -2115,7 +2116,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "is overwhelmed with"
+      "text": "was overwhelmed with"
      }
     ],
     "answer": "A",
@@ -2153,7 +2154,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "leak"
+      "text": "leaked"
      },
      {
       "letter": "C",
@@ -2241,7 +2242,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "go too far"
+      "text": "went too far"
      },
      {
       "letter": "B",
@@ -2299,7 +2300,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "leak"
+      "text": "leaked"
      }
     ],
     "answer": "A",
@@ -2452,7 +2453,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "is overwhelmed with"
+      "text": "was overwhelmed with"
      },
      {
       "letter": "C",
@@ -2506,7 +2507,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "leak"
+      "text": "leaked"
      }
     ],
     "answer": "A",
@@ -2571,7 +2572,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "is overwhelmed with"
+      "text": "was overwhelmed with"
      },
      {
       "letter": "D",
@@ -2655,7 +2656,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "mineral"
+      "text": "minerals"
      },
      {
       "letter": "B",
@@ -2667,7 +2668,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "leak"
+      "text": "leaked"
      }
     ],
     "answer": "C",
@@ -2705,7 +2706,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "mineral"
+      "text": "minerals"
      },
      {
       "letter": "C",
@@ -2774,7 +2775,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "leak"
+      "text": "leaked"
      },
      {
       "letter": "C",
@@ -2801,11 +2802,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "mineral"
+      "text": "minerals"
      },
      {
       "letter": "D",
-      "text": "leak"
+      "text": "leaked"
      }
     ],
     "answer": "C",
@@ -2866,7 +2867,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "lighten"
+      "text": "lightened"
      },
      {
       "letter": "C",
@@ -3008,7 +3009,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "in conclusion"
+      "text": "In conclusion"
      },
      {
       "letter": "D",
@@ -3058,7 +3059,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "need badly"
+      "text": "badly needed"
      }
     ],
     "answer": "C",
@@ -3330,7 +3331,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "fall short of"
+      "text": "fell short of"
      },
      {
       "letter": "D",
@@ -3510,7 +3511,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "leak"
+      "text": "leaked"
      },
      {
       "letter": "C",
@@ -3625,7 +3626,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "go too far"
+      "text": "went too far"
      },
      {
       "letter": "C",
@@ -3633,7 +3634,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "do no harm to"
+      "text": "done no harm to"
      }
     ],
     "answer": "B",
@@ -3675,7 +3676,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "lighten"
+      "text": "lightened"
      },
      {
       "letter": "D",
@@ -3690,7 +3691,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "overload"
+      "text": "overloaded"
      },
      {
       "letter": "B",
@@ -3740,7 +3741,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "overload"
+      "text": "overloaded"
      },
      {
       "letter": "C",
@@ -3763,7 +3764,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "is overwhelmed with"
+      "text": "was overwhelmed with"
      },
      {
       "letter": "C",
@@ -3778,7 +3779,7 @@ window.FLASHCARD_UNITS = {
     "vi": 100
    },
    {
-    "question": "Since two employees suddenly resigned last week, the remaining secretary __________ , and she has to stay late every night to finish the reports.",
+    "question": "Since two employees suddenly resigned last week, the remaining secretary __________, and she has to stay late every night to finish the reports.",
     "options": [
      {
       "letter": "A",
@@ -3786,15 +3787,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "do no harm to"
+      "text": "done no harm to"
      },
      {
       "letter": "C",
-      "text": "is overwhelmed with"
+      "text": "was overwhelmed with"
      },
      {
       "letter": "D",
-      "text": "go too far"
+      "text": "went too far"
      }
     ],
     "answer": "A",
@@ -3817,7 +3818,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "is overwhelmed with"
+      "text": "was overwhelmed with"
      }
     ],
     "answer": "D",
@@ -3897,7 +3898,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "go too far"
+      "text": "went too far"
      },
      {
       "letter": "B",
@@ -3993,7 +3994,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "in conclusion"
+      "text": "In conclusion"
      },
      {
       "letter": "C",
@@ -4010,4 +4011,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"physician":["a medical doctor, especially one who has general skill.","內科醫生"],"surgeon":["a medical practitioner qualified to practice surgery.","外科醫生"],"dentist":["a person qualified to treat the diseases and conditions that affect the teeth and gums.","牙醫"],"surgery":["medical treatment in which a doctor cuts open a person's body to repair or remove damaged parts","外科手術"],"operation":["an organized activity, mission, or campaign involving a number of people, especially soldiers or police","行動；任務"],"entrepreneur":["a person who sets up a business or businesses, taking on financial risks in the hope of profit","企業家；創業家"],"corporation":["a large company or group of companies authorized to act as a single entity and recognized as such in law","大企業；公司"],"harm":["cause physical injury, to injure.","傷害"],"harmful":["causing or likely to cause harm.","有害的"],"harmless":["not able or not likely to cause harm.","無害的"],"shortage":["a state or situation in which something needed cannot be obtained in sufficient amounts.","短缺"],"short":["not having enough of something.","短缺的；不足的"],"swollen":["larger or rounder in size, typically as a result of an accumulation of fluid.","腫大的"],"swelling":["an abnormal enlargement of a part of the body.","腫脹（處）"],"fluid":["a substance that has no fixed shape; able to flow easily.","液體；流暢的"],"leak":["to accidentally lose or admit contents; a hole through which contents escape.","漏水；洩漏"],"lung":["each of the pair of organs situated within the rib cage, consisting of elastic sacs.","肺臟"],"kidney":["each of a pair of organs in the abdominal cavity excreting urine.","腎臟"],"liver":["a large lobed glandular organ in the abdomen of vertebrates, involved in many metabolic processes.","肝臟"],"fatal":["causing death.","致命的"],"lethal":["Able to cause death; extremely dangerous or deadly.","致命的"],"associate":["to connect someone or something in your mind with someone or something else.","聯想；結交"],"association":["a connection or cooperative link between people or organizations.","協會；聯想"],"deposit":["a sum of money kept in a bank; to place or set down.","存款；押金；存放"],"fiber":["dietary material containing substances which are resistant to digestive enzymes.","纖維"],"calcium":["a white metallic chemical element that occurs naturally in bone and teeth.","鈣"],"protein":["a substance found in food that is necessary for the body to grow and be strong.","蛋白質"],"mineral":["a solid naturally occurring inorganic substance.","礦物質"],"lighten":["to make or become lighter in weight, pressure, or severity.","減輕；變亮"],"conclude":["to bring something to an end; to arrive at a judgment.","結束；得出結論"],"conclusion":["the end or finish of an event or process; a judgment or decision.","結論"],"modest":["moderate in the amount.","適度的"],"modestly":["in a modest manner.","謙虛地"],"modesty":["the quality or state of being unassuming or moderate.","謙遜"],"moderate":["average in amount, intensity, quality, or degree.","中等的；適度的"],"humble":["having or showing a modest or low estimate of one's own importance.","謙卑的"],"arrogant":["having or revealing an exaggerated sense of one's own importance or abilities.","傲慢的"],"arrogance":["The quality of being unpleasantly proud and thinking you are more important than others.","傲慢、自大"],"snob":["A person who admires people with high social positions and looks down on those who are lower.","勢利鬼、愛慕虛榮的人"],"flaunt":["to display something ostentatiously or proudly in public to intentionally provoke envy or admiration","炫耀；張揚（動詞）"],"flex":["To show off your looks, wealth, or achievements in a boastful way (informal slang).","炫耀、愛現（流行語）"],"irritate":["to make someone feel annoyed, impatient, or angry, or to cause a part of the body to become sore","使發怒；使惱火；使過敏"],"irritation":["the state of feeling annoyed or impatient, or a painful soreness in a specific part of the body","惱怒；生氣；過敏不適"],"irritating":["causing annoyance, impatience, or mild anger through repetitive or undesirable actions","令人惱火的；討厭的"],"intimidate":["to frighten or threaten someone, typically in order to force them to do what one wants","恐嚇；脅迫；嚇唬"],"intimidating":["causing one to feel frightened, nervous, or lacking in confidence due to scale or nature","令人緊張的；嚇人的"],"intimidation":["the action of intentionally frightening or threatening someone to force submissive behavior","恐嚇；恫嚇；脅迫"],"attempt":["to make an effort to do, achieve, or complete a challenging task or scientific experiment","企圖；嘗試（動詞）"],"overdo":["to do, use, or carry to excess; exaggerate.","做得過分；過度"],"overeat":["to eat too much.","吃得過飽"],"overuse":["to use something too much or too often.","過度使用"],"overload":["to load with too great a burden or cargo.","超載；負荷過多"],"overweight":["above a weight considered normal or desirable.","超重的"],"overwhelm":["To defeat someone completely, or to give someone too much of something to deal with.","（數量、力量上）壓倒、使難以承受、使不知所措"],"overthrow":["To remove a leader or government from power by using force.","推翻、打倒"],"overtake":["To catch up with and pass someone or something moving in the same direction.","超車、超過、追上"],"overcome":["To successfully control or deal with a problem, feeling, or difficult situation.","克服、戰勝"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"physician":["a medical doctor, especially one who has general skill.","內科醫生"],"surgeon":["a medical practitioner qualified to practice surgery.","外科醫生"],"dentist":["a person qualified to treat the diseases and conditions that affect the teeth and gums.","牙醫"],"surgery":["medical treatment in which a doctor cuts open a person's body to repair or remove damaged parts","外科手術"],"operation":["an organized activity, mission, or campaign involving a number of people, especially soldiers or police","行動；任務"],"entrepreneur":["a person who sets up a business or businesses, taking on financial risks in the hope of profit","企業家；創業家"],"corporation":["a large company or group of companies authorized to act as a single entity and recognized as such in law","大企業；公司"],"harm":["cause physical injury, to injure.","傷害"],"harmful":["causing or likely to cause harm.","有害的"],"harmless":["not able or not likely to cause harm.","無害的"],"shortage":["a state or situation in which something needed cannot be obtained in sufficient amounts.","短缺"],"short":["not having enough of something.","短缺的；不足的"],"swell":["to become larger or rounder in size.","腫脹；增加"],"swelled":["to become larger or rounder in size.","腫脹；增加"],"swollen":["larger or rounder in size, typically as a result of an accumulation of fluid.","腫大的"],"swelling":["an abnormal enlargement of a part of the body.","腫脹（處）"],"fluid":["a substance that has no fixed shape; able to flow easily.","液體；流暢的"],"leaked":["to accidentally lose or admit contents; a hole through which contents escape.","漏水；洩漏"],"leak":["to accidentally lose or admit contents; a hole through which contents escape.","漏水；洩漏"],"lung":["each of the pair of organs situated within the rib cage, consisting of elastic sacs.","肺臟"],"kidney":["each of a pair of organs in the abdominal cavity excreting urine.","腎臟"],"liver":["a large lobed glandular organ in the abdomen of vertebrates, involved in many metabolic processes.","肝臟"],"fatal":["causing death.","致命的"],"lethal":["Able to cause death; extremely dangerous or deadly.","致命的"],"associate":["to connect someone or something in your mind with someone or something else.","聯想；結交"],"association":["a connection or cooperative link between people or organizations.","協會；聯想"],"deposit":["a sum of money kept in a bank; to place or set down.","存款；押金；存放"],"fiber":["dietary material containing substances which are resistant to digestive enzymes.","纖維"],"calcium":["a white metallic chemical element that occurs naturally in bone and teeth.","鈣"],"protein":["a substance found in food that is necessary for the body to grow and be strong.","蛋白質"],"minerals":["a solid naturally occurring inorganic substance.","礦物質"],"mineral":["a solid naturally occurring inorganic substance.","礦物質"],"lightened":["to make or become lighter in weight, pressure, or severity.","減輕；變亮"],"lighten":["to make or become lighter in weight, pressure, or severity.","減輕；變亮"],"conclude":["to bring something to an end; to arrive at a judgment.","結束；得出結論"],"conclusion":["the end or finish of an event or process; a judgment or decision.","結論"],"modest":["moderate in the amount.","適度的"],"modestly":["in a modest manner.","謙虛地"],"modesty":["the quality or state of being unassuming or moderate.","謙遜"],"moderate":["average in amount, intensity, quality, or degree.","中等的；適度的"],"humble":["having or showing a modest or low estimate of one's own importance.","謙卑的"],"arrogant":["having or revealing an exaggerated sense of one's own importance or abilities.","傲慢的"],"arrogance":["The quality of being unpleasantly proud and thinking you are more important than others.","傲慢、自大"],"snob":["A person who admires people with high social positions and looks down on those who are lower.","勢利鬼、愛慕虛榮的人"],"flaunt":["to display something ostentatiously or proudly in public to intentionally provoke envy or admiration","炫耀；張揚（動詞）"],"flex":["To show off your looks, wealth, or achievements in a boastful way (informal slang).","炫耀、愛現（流行語）"],"irritate":["to make someone feel annoyed, impatient, or angry, or to cause a part of the body to become sore","使發怒；使惱火；使過敏"],"irritation":["the state of feeling annoyed or impatient, or a painful soreness in a specific part of the body","惱怒；生氣；過敏不適"],"irritating":["causing annoyance, impatience, or mild anger through repetitive or undesirable actions","令人惱火的；討厭的"],"intimidate":["to frighten or threaten someone, typically in order to force them to do what one wants","恐嚇；脅迫；嚇唬"],"intimidating":["causing one to feel frightened, nervous, or lacking in confidence due to scale or nature","令人緊張的；嚇人的"],"intimidation":["the action of intentionally frightening or threatening someone to force submissive behavior","恐嚇；恫嚇；脅迫"],"attempt":["to make an effort to do, achieve, or complete a challenging task or scientific experiment","企圖；嘗試（動詞）"],"overdo":["to do, use, or carry to excess; exaggerate.","做得過分；過度"],"overeat":["to eat too much.","吃得過飽"],"overuse":["to use something too much or too often.","過度使用"],"overload":["to load with too great a burden or cargo.","超載；負荷過多"],"overloaded":["to load with too great a burden or cargo.","超載；負荷過多"],"overweight":["above a weight considered normal or desirable.","超重的"],"overwhelm":["To defeat someone completely, or to give someone too much of something to deal with.","（數量、力量上）壓倒、使難以承受、使不知所措"],"overthrow":["To remove a leader or government from power by using force.","推翻、打倒"],"overtake":["To catch up with and pass someone or something moving in the same direction.","超車、超過、追上"],"overcome":["To successfully control or deal with a problem, feeling, or difficult situation.","克服、戰勝"]});

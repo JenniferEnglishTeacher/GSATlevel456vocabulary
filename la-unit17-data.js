@@ -227,7 +227,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "be subject to change",
-    "answer": "is subject to change",
+    "answer": "are subject to change",
     "pos": "phr.",
     "definition": "used for warning people that official details, prices, or schedules might be modified",
     "chinese": "可能會有所變動",
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "be vulnerable to",
-    "answer": "is vulnerable to",
+    "answer": "vulnerable to",
     "pos": "phr.",
     "definition": "to be in a weak position where you can easily be hurt, attacked, or damaged",
     "chinese": "易受...傷害的",
@@ -808,7 +808,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "is vulnerable to"
+      "text": "vulnerable to"
      },
      {
       "letter": "B",
@@ -992,7 +992,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "is subject to change"
+      "text": "are subject to change"
      },
      {
       "letter": "B",
@@ -1115,7 +1115,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "is vulnerable to"
+      "text": "vulnerable to"
      },
      {
       "letter": "D",
@@ -1138,7 +1138,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "is subject to change"
+      "text": "are subject to change"
      },
      {
       "letter": "D",
@@ -1165,7 +1165,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "is subject to change"
+      "text": "are subject to change"
      }
     ],
     "answer": "B",
@@ -1188,7 +1188,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "is vulnerable to"
+      "text": "vulnerable to"
      }
     ],
     "answer": "D",
@@ -1648,7 +1648,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "is vulnerable to"
+      "text": "vulnerable to"
      }
     ],
     "answer": "B",
@@ -1874,7 +1874,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "is vulnerable to"
+      "text": "vulnerable to"
      },
      {
       "letter": "D",
@@ -1935,7 +1935,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "is subject to change"
+      "text": "are subject to change"
      },
      {
       "letter": "B",
@@ -2025,4 +2025,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"prejudice":["an unfair and unreasonable opinion or feeling, especially when formed without enough thought","偏見；成見"],"prejudiced":["showing an unreasonable dislike of or misjudgment toward a specific group of people","有偏見的"],"stereotype":["a fixed, oversimplified, and often unfair belief regarding a specific type of person or group","刻板印象"],"stereotypical":["conforming to a fixed and oversimplified image or generalized belief","刻板的；老套的"],"objective":["based on real facts and evidence rather than personal feelings or opinions","客觀的"],"objectivity":["the quality of being objective, fair, and based strictly on evidence rather than feelings","客觀性"],"subjective":["based on or influenced by personal feelings, tastes, or opinions rather than facts","主觀的"],"subjectively":["in a way that is influenced by personal feelings, individual tastes, or opinions","主觀地"],"subjectivity":["the quality of being influenced by personal feelings, tastes, or individual opinions","主觀性"],"subject":["a matter, topic, or issue that is being discussed, described, or studied","議題；主題；科目"],"susceptible":["easily influenced or harmed by a specific thing; lacking defense or stability","易受負面影響的"],"vulnerable":["able to be easily physically or emotionally hurt, influenced, or attacked","脆弱的；易受傷的"],"fragile":["easily broken, damaged, or destroyed; physically weak or unstable","脆弱的；易碎的"],"delicate":["easily damaged or broken because of being very fine, thin, or beautifully soft","細緻精美的；嬌貴容易被破壞的"],"bias":["a distinct limitation or unfair preference that prevents objective consideration of facts","偏頗；偏見"],"biased":["unfairly showing favoritism toward or dislike of a specific side or group","有偏見的；偏頗的"],"unbiased":["completely objective, fair, and impartial, showing no favoritism to any side","客觀公正的；無偏見的"],"impartial":["treating all rivals or disputants equally; fair and just","公正的；不偏不倚的"],"discriminate":["to treat a person or group unfairly based on their ethnicity, age, or gender","歧視"],"discrimination":["the unjust or prejudicial treatment of different categories of people or things","歧視（名詞）"],"skeptical":["doubting that something is true, useful, or reliable; showing caution","懷疑的；抱持懷疑態度的"],"skepticism":["an attitude of doubting the truth of something or expecting evidence before believing","懷疑論；懷疑態度"],"suspect":["a person who is officially believed to be possibly guilty of committing a crime","嫌疑犯；嫌疑人"],"suspicious":["making you feel that something is illegal, wrong, or dishonest","可疑的"],"suspicion":["a feeling or belief that someone has done something wrong or dishonest","懷疑；嫌疑"],"doubt":["to feel uncertain about something, or to think that something is unlikely to be true","懷疑；不信"],"undoubtedly":["used to emphasize that something is completely true and cannot be denied","毫無疑問地"],"doubtful":["uncertain about something, or unlikely to happen or be successful","懷疑的；不太可能的"],"emotion":["a strong feeling such as love, anger, fear, or jealousy, as distinct from reasoning","情感；情緒"],"emotions":["a strong feeling such as love, anger, fear, or jealousy, as distinct from reasoning","情感；情緒"],"emotional":["relating to a person's emotions, or showing strong feelings easily","情感的；情緒化的"],"ration":["a fixed amount of a commodity officially allowed to each person during a shortage","限額；配給量"],"rational":["based on or in clear accordance with reason, logic, or sensible facts","理性的；合理的"],"irrational":["not based on logical reason, clear facts, or common sense; unpredictable","不理性的；盲目的"],"rationale":["the fundamental reasons or logical framework that explains a specific decision or belief","根本原因；邏輯依據"],"senses":["a faculty by which the body perceives an external stimulus; an understanding","感官；感覺；觀念"],"sense":["a faculty by which the body perceives an external stimulus; an understanding","感官；感覺；觀念"],"sensible":["based on or acting with good judgment, practical reason, or common sense","明智的；合理的；務實的"],"sensitive":["easily hurt or damaged; quick to detect or respond to slight changes","敏感的"],"intuition":["an ability to understand or know something immediately based on feelings rather than facts","直覺"],"intuitive":["easily understood or known immediately by feelings or simple regular patterns","直覺的；易懂的"],"intuitively":["in a way that involves direct awareness or immediate feeling without active logic","直覺地"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"prejudice":["an unfair and unreasonable opinion or feeling, especially when formed without enough thought","偏見；成見"],"prejudiced":["showing an unreasonable dislike of or misjudgment toward a specific group of people","有偏見的"],"stereotype":["a fixed, oversimplified, and often unfair belief regarding a specific type of person or group","刻板印象"],"stereotypical":["conforming to a fixed and oversimplified image or generalized belief","刻板的；老套的"],"objective":["based on real facts and evidence rather than personal feelings or opinions","客觀的"],"objectivity":["the quality of being objective, fair, and based strictly on evidence rather than feelings","客觀性"],"subjective":["based on or influenced by personal feelings, tastes, or opinions rather than facts","主觀的"],"subjectively":["in a way that is influenced by personal feelings, individual tastes, or opinions","主觀地"],"subjectivity":["the quality of being influenced by personal feelings, tastes, or individual opinions","主觀性"],"subject":["a matter, topic, or issue that is being discussed, described, or studied","議題；主題；科目"],"susceptible":["easily influenced or harmed by a specific thing; lacking defense or stability","易受負面影響的"],"vulnerable":["able to be easily physically or emotionally hurt, influenced, or attacked","脆弱的；易受傷的"],"fragile":["easily broken, damaged, or destroyed; physically weak or unstable","脆弱的；易碎的"],"delicate":["easily damaged or broken because of being very fine, thin, or beautifully soft","細緻精美的；嬌貴容易被破壞的"],"bias":["a distinct limitation or unfair preference that prevents objective consideration of facts","偏頗；偏見"],"biased":["unfairly showing favoritism toward or dislike of a specific side or group","有偏見的；偏頗的"],"unbiased":["completely objective, fair, and impartial, showing no favoritism to any side","客觀公正的；無偏見的"],"impartial":["treating all rivals or disputants equally; fair and just","公正的；不偏不倚的"],"discriminate":["to treat a person or group unfairly based on their ethnicity, age, or gender","歧視"],"discrimination":["the unjust or prejudicial treatment of different categories of people or things","歧視（名詞）"],"skeptical":["doubting that something is true, useful, or reliable; showing caution","懷疑的；抱持懷疑態度的"],"skepticism":["an attitude of doubting the truth of something or expecting evidence before believing","懷疑論；懷疑態度"],"suspect":["a person who is officially believed to be possibly guilty of committing a crime","嫌疑犯；嫌疑人"],"suspicious":["making you feel that something is illegal, wrong, or dishonest","可疑的"],"suspicion":["a feeling or belief that someone has done something wrong or dishonest","懷疑；嫌疑"],"doubt":["to feel uncertain about something, or to think that something is unlikely to be true","懷疑；不信"],"undoubtedly":["used to emphasize that something is completely true and cannot be denied","毫無疑問地"],"doubtful":["uncertain about something, or unlikely to happen or be successful","懷疑的；不太可能的"],"emotion":["a strong feeling such as love, anger, fear, or jealousy, as distinct from reasoning","情感；情緒"],"emotions":["a strong feeling such as love, anger, fear, or jealousy, as distinct from reasoning","情感；情緒"],"emotional":["relating to a person's emotions, or showing strong feelings easily","情感的；情緒化的"],"ration":["a fixed amount of a commodity officially allowed to each person during a shortage","限額；配給量"],"rational":["based on or in clear accordance with reason, logic, or sensible facts","理性的；合理的"],"irrational":["not based on logical reason, clear facts, or common sense; unpredictable","不理性的；盲目的"],"rationale":["the fundamental reasons or logical framework that explains a specific decision or belief","根本原因；邏輯依據"],"sense":["a faculty by which the body perceives an external stimulus; an understanding","感官；感覺；觀念"],"senses":["a faculty by which the body perceives an external stimulus; an understanding","感官；感覺；觀念"],"sensible":["based on or acting with good judgment, practical reason, or common sense","明智的；合理的；務實的"],"sensitive":["easily hurt or damaged; quick to detect or respond to slight changes","敏感的"],"intuition":["an ability to understand or know something immediately based on feelings rather than facts","直覺"],"intuitive":["easily understood or known immediately by feelings or simple regular patterns","直覺的；易懂的"],"intuitively":["in a way that involves direct awareness or immediate feeling without active logic","直覺地"]});

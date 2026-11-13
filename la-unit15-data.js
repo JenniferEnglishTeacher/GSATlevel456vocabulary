@@ -135,8 +135,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "awake awoke awoken",
-    "answer": "awake awoke awoken",
+    "word": "awake",
+    "answer": "awoke",
     "pos": "v.",
     "definition": "to stop sleeping; to wake up or cause someone to wake up",
     "chinese": "醒來；喚醒",
@@ -145,11 +145,12 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "to stop sleeping; to wake up or cause someone to wake up",
      "chinese": "醒來；喚醒"
-    }
+    },
+    "forms": "awake / awoke / awoken"
    },
    {
     "word": "keep somebody awake",
-    "answer": "keep me awake",
+    "answer": "kept me awake",
     "pos": "phr.",
     "definition": "to cause a person to remain awake, preventing them from falling asleep",
     "chinese": "讓某人保持清醒",
@@ -318,7 +319,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "fall victim to",
-    "answer": "fall victim to",
+    "answer": "fell victim to",
     "pos": "phr.",
     "definition": "to be harmed, destroyed, or severely affected by a bad situation",
     "chinese": "成為...的受害者",
@@ -357,7 +358,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "savings",
-    "answer": "savingses",
+    "answer": "savings",
     "pos": "n.",
     "definition": "the money that a person keeps or saves instead of spending it right away",
     "chinese": "存款；積蓄",
@@ -565,7 +566,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "scan",
-    "answer": "scaned",
+    "answer": "scanned",
     "pos": "v.",
     "definition": "to look at something carefully to find a feature, or to use an electronic device to gather data",
     "chinese": "掃描；細看；瀏覽",
@@ -617,7 +618,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "substitute...for",
-    "answer": "substitute for",
+    "answer": "substitute",
     "pos": "v.",
     "definition": "to use a person or object in place of another for a specific purpose",
     "chinese": "代替；替換",
@@ -699,7 +700,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the period of life following the onset of puberty during which a young person develops from a child into an adult",
     "chinese": "青少年時期",
-    "sentence": "Most teenagers experience rapid physical growth and emotional changes during their __________。",
+    "sentence": "Most teenagers experience rapid physical growth and emotional changes during their __________.",
     "translation": "大多數網頁網頁青少年在他們的青少年時期都會經歷快速的身體生長與情感變化。",
     "lookup": {
      "english": "the period of life following the onset of puberty during which a young person develops from a child into an adult",
@@ -759,7 +760,7 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "grab grabbed grabbed",
+    "word": "grab",
     "answer": "grabbed",
     "pos": "v.",
     "definition": "to take hold of something suddenly and roughly or forcefully",
@@ -769,7 +770,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "to take hold of something suddenly and roughly or forcefully",
      "chinese": "抓取；奪取"
-    }
+    },
+    "forms": "grab / grabbed / grabbed"
    },
    {
     "word": "grab a bite to eat",
@@ -824,7 +826,7 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "commit committed committed",
+    "word": "commit",
     "answer": "committed",
     "pos": "v.",
     "definition": "to perform an illegal act or a crime; to pledge or bind oneself to a certain course",
@@ -834,15 +836,16 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "to perform an illegal act or a crime; to pledge or bind oneself to a certain course",
      "chinese": "犯（罪）；承擔義務；致力於"
-    }
+    },
+    "forms": "commit / committed / committed"
    },
    {
     "word": "commit a crime",
-    "answer": "commit a crime",
+    "answer": "committed a crime",
     "pos": "phr.",
     "definition": "to perform an action that violates the official laws of a country",
     "chinese": "犯罪",
-    "sentence": "Samuel did not violate any traffic regulations, so he has clearly __________。",
+    "sentence": "Samuel did not violate any traffic regulations, so he has clearly __________.",
     "translation": "薩米沒有違反任何交通法規，因此他顯然沒有犯罪。",
     "lookup": {
      "english": "to perform an action that violates the official laws of a country",
@@ -864,7 +867,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "commit oneself to",
-    "answer": "commit to",
+    "answer": "committed himself to",
     "pos": "phr.",
     "definition": "to pledge your time, energy, or loyalty completely to a specific task or person",
     "chinese": "讓自己致力於...",
@@ -1009,11 +1012,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "fall victim to"
+      "text": "fell victim to"
      },
      {
       "letter": "B",
-      "text": "keep me awake"
+      "text": "kept me awake"
      },
      {
       "letter": "C",
@@ -1174,7 +1177,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "scaned"
+      "text": "scanned"
      },
      {
       "letter": "C",
@@ -1182,7 +1185,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "substitute for"
+      "text": "substitute"
      }
     ],
     "answer": "A",
@@ -1228,7 +1231,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "awake awoke awoken"
+      "text": "awoke"
      }
     ],
     "answer": "D",
@@ -1247,7 +1250,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "keep me awake"
+      "text": "kept me awake"
      },
      {
       "letter": "D",
@@ -1354,7 +1357,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "savingses"
+      "text": "savings"
      },
      {
       "letter": "B",
@@ -1492,7 +1495,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "keep me awake"
+      "text": "kept me awake"
      },
      {
       "letter": "B",
@@ -1542,7 +1545,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "fall victim to"
+      "text": "fell victim to"
      },
      {
       "letter": "C",
@@ -1619,7 +1622,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "savingses"
+      "text": "savings"
      }
     ],
     "answer": "D",
@@ -1642,7 +1645,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "awake awoke awoken"
+      "text": "awoke"
      }
     ],
     "answer": "B",
@@ -1657,7 +1660,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "awake awoke awoken"
+      "text": "awoke"
      },
      {
       "letter": "C",
@@ -1776,11 +1779,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "substitute for"
+      "text": "substitute"
      },
      {
       "letter": "D",
-      "text": "scaned"
+      "text": "scanned"
      }
     ],
     "answer": "A",
@@ -1910,7 +1913,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "scaned"
+      "text": "scanned"
      },
      {
       "letter": "C",
@@ -1975,7 +1978,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "scaned"
+      "text": "scanned"
      },
      {
       "letter": "B",
@@ -2075,11 +2078,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "scaned"
+      "text": "scanned"
      },
      {
       "letter": "D",
-      "text": "substitute for"
+      "text": "substitute"
      }
     ],
     "answer": "D",
@@ -2201,7 +2204,7 @@ window.FLASHCARD_UNITS = {
     "vi": 52
    },
    {
-    "question": "Most teenagers experience rapid physical growth and emotional changes during their __________。",
+    "question": "Most teenagers experience rapid physical growth and emotional changes during their __________.",
     "options": [
      {
       "letter": "A",
@@ -2274,7 +2277,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "scaned"
+      "text": "scanned"
      },
      {
       "letter": "B",
@@ -2347,11 +2350,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "commit a crime"
+      "text": "committed a crime"
      },
      {
       "letter": "C",
-      "text": "keep me awake"
+      "text": "kept me awake"
      },
      {
       "letter": "D",
@@ -2366,7 +2369,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "savingses"
+      "text": "savings"
      },
      {
       "letter": "B",
@@ -2454,11 +2457,11 @@ window.FLASHCARD_UNITS = {
     "vi": 63
    },
    {
-    "question": "Samuel did not violate any traffic regulations, so he has clearly __________。",
+    "question": "Samuel did not violate any traffic regulations, so he has clearly __________.",
     "options": [
      {
       "letter": "A",
-      "text": "commit a crime"
+      "text": "committed a crime"
      },
      {
       "letter": "B",
@@ -2466,11 +2469,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "keep me awake"
+      "text": "kept me awake"
      },
      {
       "letter": "D",
-      "text": "awake awoke awoken"
+      "text": "awoke"
      }
     ],
     "answer": "A",
@@ -2516,7 +2519,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "commit to"
+      "text": "committed himself to"
      }
     ],
     "answer": "D",
@@ -2539,7 +2542,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "keep me awake"
+      "text": "kept me awake"
      }
     ],
     "answer": "C",
@@ -2550,7 +2553,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "commit to"
+      "text": "committed himself to"
      },
      {
       "letter": "B",
@@ -2573,7 +2576,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "awake awoke awoken"
+      "text": "awoke"
      },
      {
       "letter": "B",
@@ -2700,7 +2703,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "savingses"
+      "text": "savings"
      }
     ],
     "answer": "C",
@@ -2709,4 +2712,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"protect":["to keep someone or something safe from injury, damage, or loss","保護"],"protective":["giving or intended to give protection; expressing a strong desire to protect someone","防護的；保護欲強的"],"protection":["the state of being kept safe from injury, damage, loss, or destruction","保護；防護"],"protectionism":["the theory or practice of shielding a country's domestic industries from foreign competition","保護主義"],"commission":["an official group of people given the task to control or investigate something","委員會"],"commissioned":["to officially choose or pay someone to perform a specific practical task","委任；委託"],"awake":["not asleep; conscious of one's surroundings and mental thoughts","清醒的"],"fond":["having a strong liking, affection, or love for someone or something","喜愛的"],"fondness":["an affectionate liking or love for a specific person, place, or object","喜愛；愛好"],"fragrance":["a pleasant, sweet, or distinct smell, typically from flowers or perfume","香氣；香味"],"fragrant":["having a pleasant or sweet smell; aromatic","香的；芬芳的"],"insomnia":["habitual sleeplessness; the persistent inability to fall asleep easily","失眠症"],"victims":["a person harmed, injured, or killed as a result of a crime, accident, or event","受害者"],"victim":["a person harmed, injured, or killed as a result of a crime, accident, or event","受害者"],"misery":["a state or feeling of great distress or discomfort of mind or body","悲慘；痛苦"],"miserable":["wretchedly unhappy or uncomfortable; causing great discomfort or distress","悲慘的；痛苦的"],"savings":["the money that a person keeps or saves instead of spending it right away","存款；積蓄"],"savingses":["the money that a person keeps or saves instead of spending it right away","存款；積蓄"],"brakes":["a mechanical device for slowing or stopping a moving vehicle or wheel","煞車"],"brake":["a mechanical device for slowing or stopping a moving vehicle or wheel","煞車"],"braked":["to slow down or stop a moving vehicle by using a mechanical device","踩煞車；減速"],"abrupt":["sudden and unexpected, or brief and unfriendly in manner","突然的；唐突的"],"abruptly":["suddenly and unexpectedly, often in a way that causes discomfort or annoyance","突然地；意外地"],"cease":["to bring an end to an activity or state, or to stop happening officially","停止；終止"],"cease-fire":["a temporary suspension of fighting or battle; a formal agreement to stop a war","停火；停火協議"],"tendency":["a likelihood to happen or an inclination toward a particular characteristic or type of behavior","傾向"],"withdraw":["to take money out of a bank account or financial investment profile","提款；取錢"],"withdrawal":["the act of taking money out of a bank; the unpleasant process of stopping an addiction","提款；戒斷症狀"],"moderate":["average in amount, intensity, quality, or degree; not extreme","適度的；溫和的"],"scaned":["to look at something carefully to find a feature, or to use an electronic device to gather data","掃描；細看；瀏覽"],"scan":["to look at something carefully to find a feature, or to use an electronic device to gather data","掃描；細看；瀏覽"],"tolerate":["to allow something that you do not like to exist or happen without protesting","容忍；寬容"],"tolerant":["showing willingness to allow the existence of opinions or behavior that one does not agree with","寬容的；包容的"],"tolerable":["able to be endured or accepted satisfactorily, though not pleasing","可容忍的；還可以的"],"substitute...for":["to use a person or object in place of another for a specific purpose","代替；替換"],"substitutes":["a person or thing acting or used in place of another","代替品；代理人"],"substitute":["a person or thing acting or used in place of another","代替品；代理人"],"warned":["to inform someone in advance of an impending danger, threat, or problem","警告；提醒"],"warn":["to inform someone in advance of an impending danger, threat, or problem","警告；提醒"],"warning":["a statement or event that informs someone of a potential danger or problem","警告；預兆"],"adolescent":["a young person who is developing from a child into an adult; a teenager","青少年"],"adolescents":["a young person who is developing from a child into an adult; a teenager","青少年"],"adolescence":["the period of life following the onset of puberty during which a young person develops from a child into an adult","青少年時期"],"visual":["relating to seeing or sight, or using images to communicate information","視覺的"],"non-visual":["not relating to seeing or sight, relying on other senses like hearing or touch","非視覺的"],"monitor":["to observe and check the progress or quality of something over a period of time","監控；監測"],"grabbed":["to take hold of something suddenly and roughly or forcefully","抓取；奪取"],"proposal":["a formal plan or suggestion put forward for consideration or discussion by others","提案；建議"],"propose":["to suggest a specific plan or action formally for other people to consider","提議；求婚"],"proposed":["to suggest a specific plan or action formally for other people to consider","提議；求婚"],"committed":["to perform an illegal act or a crime; to pledge or bind oneself to a certain course","犯（罪）；承擔義務；致力於"],"commitment":["a firm promise or firm decision to do something, or the quality of being dedicated","承諾；奉獻；投入"],"dedicate":["to officially give entirely one's time or effort to a specific professional task","把...奉獻在；將...用於"],"dedication":["the quality of being committed to a task or purpose; unselfish loyalty","奉獻；專心（名詞）"],"devote":["to give an amount of time, effort, or money to a particular important activity","奉獻；投入（動詞）"],"devotion":["great love or loyalty, or the enthusiastic giving of time to something","摯愛；奉獻；忠誠"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"protect":["to keep someone or something safe from injury, damage, or loss","保護"],"protective":["giving or intended to give protection; expressing a strong desire to protect someone","防護的；保護欲強的"],"protection":["the state of being kept safe from injury, damage, loss, or destruction","保護；防護"],"protectionism":["the theory or practice of shielding a country's domestic industries from foreign competition","保護主義"],"commission":["an official group of people given the task to control or investigate something","委員會"],"commissioned":["to officially choose or pay someone to perform a specific practical task","委任；委託"],"awake":["not asleep; conscious of one's surroundings and mental thoughts","清醒的"],"awoke":["to stop sleeping; to wake up or cause someone to wake up","醒來；喚醒"],"fond":["having a strong liking, affection, or love for someone or something","喜愛的"],"fondness":["an affectionate liking or love for a specific person, place, or object","喜愛；愛好"],"fragrance":["a pleasant, sweet, or distinct smell, typically from flowers or perfume","香氣；香味"],"fragrant":["having a pleasant or sweet smell; aromatic","香的；芬芳的"],"insomnia":["habitual sleeplessness; the persistent inability to fall asleep easily","失眠症"],"victim":["a person harmed, injured, or killed as a result of a crime, accident, or event","受害者"],"victims":["a person harmed, injured, or killed as a result of a crime, accident, or event","受害者"],"misery":["a state or feeling of great distress or discomfort of mind or body","悲慘；痛苦"],"miserable":["wretchedly unhappy or uncomfortable; causing great discomfort or distress","悲慘的；痛苦的"],"savings":["the money that a person keeps or saves instead of spending it right away","存款；積蓄"],"brakes":["a mechanical device for slowing or stopping a moving vehicle or wheel","煞車"],"brake":["a mechanical device for slowing or stopping a moving vehicle or wheel","煞車"],"braked":["to slow down or stop a moving vehicle by using a mechanical device","踩煞車；減速"],"abrupt":["sudden and unexpected, or brief and unfriendly in manner","突然的；唐突的"],"abruptly":["suddenly and unexpectedly, often in a way that causes discomfort or annoyance","突然地；意外地"],"cease":["to bring an end to an activity or state, or to stop happening officially","停止；終止"],"cease-fire":["a temporary suspension of fighting or battle; a formal agreement to stop a war","停火；停火協議"],"tendency":["a likelihood to happen or an inclination toward a particular characteristic or type of behavior","傾向"],"withdraw":["to take money out of a bank account or financial investment profile","提款；取錢"],"withdrawal":["the act of taking money out of a bank; the unpleasant process of stopping an addiction","提款；戒斷症狀"],"moderate":["average in amount, intensity, quality, or degree; not extreme","適度的；溫和的"],"scanned":["to look at something carefully to find a feature, or to use an electronic device to gather data","掃描；細看；瀏覽"],"scan":["to look at something carefully to find a feature, or to use an electronic device to gather data","掃描；細看；瀏覽"],"tolerate":["to allow something that you do not like to exist or happen without protesting","容忍；寬容"],"tolerant":["showing willingness to allow the existence of opinions or behavior that one does not agree with","寬容的；包容的"],"tolerable":["able to be endured or accepted satisfactorily, though not pleasing","可容忍的；還可以的"],"substitute":["to use a person or object in place of another for a specific purpose","代替；替換"],"substitute...for":["to use a person or object in place of another for a specific purpose","代替；替換"],"substitutes":["a person or thing acting or used in place of another","代替品；代理人"],"warn":["to inform someone in advance of an impending danger, threat, or problem","警告；提醒"],"warned":["to inform someone in advance of an impending danger, threat, or problem","警告；提醒"],"warning":["a statement or event that informs someone of a potential danger or problem","警告；預兆"],"adolescents":["a young person who is developing from a child into an adult; a teenager","青少年"],"adolescent":["a young person who is developing from a child into an adult; a teenager","青少年"],"adolescence":["the period of life following the onset of puberty during which a young person develops from a child into an adult","青少年時期"],"visual":["relating to seeing or sight, or using images to communicate information","視覺的"],"non-visual":["not relating to seeing or sight, relying on other senses like hearing or touch","非視覺的"],"monitor":["to observe and check the progress or quality of something over a period of time","監控；監測"],"grabbed":["to take hold of something suddenly and roughly or forcefully","抓取；奪取"],"grab":["to take hold of something suddenly and roughly or forcefully","抓取；奪取"],"proposal":["a formal plan or suggestion put forward for consideration or discussion by others","提案；建議"],"proposed":["to suggest a specific plan or action formally for other people to consider","提議；求婚"],"propose":["to suggest a specific plan or action formally for other people to consider","提議；求婚"],"committed":["to perform an illegal act or a crime; to pledge or bind oneself to a certain course","犯（罪）；承擔義務；致力於"],"commit":["to perform an illegal act or a crime; to pledge or bind oneself to a certain course","犯（罪）；承擔義務；致力於"],"commitment":["a firm promise or firm decision to do something, or the quality of being dedicated","承諾；奉獻；投入"],"dedicate":["to officially give entirely one's time or effort to a specific professional task","把...奉獻在；將...用於"],"dedication":["the quality of being committed to a task or purpose; unselfish loyalty","奉獻；專心（名詞）"],"devote":["to give an amount of time, effort, or money to a particular important activity","奉獻；投入（動詞）"],"devotion":["great love or loyalty, or the enthusiastic giving of time to something","摯愛；奉獻；忠誠"]});

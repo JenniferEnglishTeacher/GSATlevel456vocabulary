@@ -13,6 +13,55 @@ MANUAL = {("basic", 1, "be exposed to"): "are constantly exposed to", ("basic", 
           ("basic", 3, "invest in"): "invest your savings wisely in", ("basic", 4, "take in"): "take it all in"}
 
 
+try:
+    from liveabc_manual import ANSWERS, SENTENCES, CN     # hand-checked answers, rewritten sentences, missing translations
+except ImportError:
+    ANSWERS, SENTENCES, CN = {}, {}, {}
+REVIEW = "--review" in sys.argv
+GAS = "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"
+FILL = set("completely totally entirely highly deeply perfectly absolutely fully heavily thoroughly strictly securely safely successfully quickly "
+           "correctly rapidly purely strongly simply exactly incredibly extremely truly intensely actively effectively efficiently carefully firmly "
+           "drastically softly quietly easily directly beautifully clearly freely rigorously diligently happily comfortably shockingly automatically "
+           "naturally significantly officially cleanly smoothly properly precisely explicitly nicely neatly gently tightly accurately smartly".split())
+WORDS = re.compile(r"[A-Za-z]+(?:'[a-z]+)?")
+VOWEL_SOUND = re.compile(r"^(?:[aeiou](?!ni[^n]|se|su|ne\b|nce)|hour|honest|heir)", re.I)
+
+
+def declutter(sent):
+    """Some source sentences are stuffed with strings of filler adverbs (completely totally entirely ...): take them out."""
+    toks = re.split(r"(\s+)", sent)
+    idx = [i for i, t in enumerate(toks) if t.strip()]
+    low = [re.sub(r"[^a-z]", "", toks[i].lower()) for i in idx]
+    isf = [w in FILL and "_" not in toks[i] for w, i in zip(low, idx)]
+    n = sum(isf)
+    runs = [k for k in range(len(idx) - 1) if isf[k] and isf[k + 1]]
+    if not runs and n < 5:
+        return sent
+    heavy = n >= 5
+    drop = set()
+    k = 0
+    while k < len(idx):
+        if isf[k]:
+            j = k
+            while j + 1 < len(idx) and isf[j + 1]:
+                j += 1
+            if j > k:       # a run of fillers: keep only the one next to the word it describes
+                drop.update(range(k, j + 1 if heavy and not (j == k + 1 and low[k] == low[j]) else j))
+            elif heavy:
+                drop.add(k)
+            k = j + 1
+        else:
+            k += 1
+    for k in drop:
+        t = toks[idx[k]]
+        tail = re.search(r"[,.;:!?)]+$", t)
+        toks[idx[k]] = tail.group(0) if tail and tail.group(0) not in (",",) else ""
+    out = re.sub(r"\s+([,.;:!?])", r"\1", re.sub(r"\s+", " ", "".join(toks))).strip()
+    out = re.sub(r"\b([A-Za-z]{4,}) \1\b", r"\1", out)          # "violently violently", "wooden wooden"
+    out = re.sub(r"\b([Aa])n?\s+(?=([A-Za-z]+))", lambda m: (m.group(1) + ("n " if VOWEL_SOUND.match(m.group(2)) else " ")), out)
+    return out[:1].upper() + out[1:]
+
+
 def stem(w):
     w = w.lower()
     return "be" if w in BE else re.sub(r"(ies|ied|ing|ed|es|s|d|y|e)$", "", w)[:6]
@@ -69,6 +118,76 @@ def surface_from(example, key_words):
     return None
 
 
+IRR = {"take": ("took", "taken"), "make": ("made", "made"), "give": ("gave", "given"), "come": ("came", "come"), "go": ("went", "gone"),
+       "bring": ("brought", "brought"), "get": ("got", "gotten"), "have": ("had", "had"), "do": ("did", "done"), "see": ("saw", "seen"),
+       "run": ("ran", "run"), "keep": ("kept", "kept"), "hold": ("held", "held"), "put": ("put", "put"), "set": ("set", "set"),
+       "cut": ("cut", "cut"), "let": ("let", "let"), "lose": ("lost", "lost"), "find": ("found", "found"), "break": ("broke", "broken"),
+       "fall": ("fell", "fallen"), "draw": ("drew", "drawn"), "lead": ("led", "led"), "spread": ("spread", "spread"), "stand": ("stood", "stood"),
+       "pay": ("paid", "paid"), "lay": ("laid", "laid"), "rise": ("rose", "risen"), "catch": ("caught", "caught"), "throw": ("threw", "thrown"),
+       "shed": ("shed", "shed"), "seek": ("sought", "sought"), "build": ("built", "built"), "leave": ("left", "left"), "feel": ("felt", "felt"),
+       "undergo": ("underwent", "undergone"), "overcome": ("overcame", "overcome"), "withdraw": ("withdrew", "withdrawn"), "win": ("won", "won"),
+       "bear": ("bore", "borne"), "strike": ("struck", "struck"), "split": ("split", "split"), "quit": ("quit", "quit"), "hit": ("hit", "hit"),
+       "send": ("sent", "sent"), "spend": ("spent", "spent"), "sell": ("sold", "sold"), "tell": ("told", "told"), "think": ("thought", "thought"),
+       "meet": ("met", "met"), "begin": ("began", "begun"), "write": ("wrote", "written"), "speak": ("spoke", "spoken"), "choose": ("chose", "chosen"),
+       "fly": ("flew", "flown"), "grow": ("grew", "grown"), "know": ("knew", "known"), "shake": ("shook", "shaken"), "wear": ("wore", "worn"),
+       "hide": ("hid", "hidden"), "ride": ("rode", "ridden"), "drive": ("drove", "driven"), "eat": ("ate", "eaten"), "stick": ("stuck", "stuck"),
+       "burst": ("burst", "burst"), "cast": ("cast", "cast"), "shut": ("shut", "shut"), "forbid": ("forbade", "forbidden"), "arise": ("arose", "arisen"),
+       "deal": ("dealt", "dealt"), "mean": ("meant", "meant"), "bind": ("bound", "bound"), "wind": ("wound", "wound"), "sink": ("sank", "sunk"),
+       "swear": ("swore", "sworn"), "tear": ("tore", "torn"), "freeze": ("froze", "frozen"), "steal": ("stole", "stolen"), "fight": ("fought", "fought"),
+       "teach": ("taught", "taught"), "sit": ("sat", "sat"), "lie": ("lay", "lain"), "hang": ("hung", "hung"), "feed": ("fed", "fed"),
+       "forgive": ("forgave", "forgiven"), "foresee": ("foresaw", "foreseen"), "outdo": ("outdid", "outdone"), "undo": ("undid", "undone"),
+       "upset": ("upset", "upset"), "broadcast": ("broadcast", "broadcast"), "mistake": ("mistook", "mistaken"), "sweep": ("swept", "swept")}
+DOUBLE |= {"wrap", "strip", "tap", "rub", "scan", "plug", "hug", "dip", "tip", "jog", "pin", "shop", "step", "skip", "snap", "trim", "swap", "propel", "rebel", "deter", "infer", "confer", "incur", "recur", "outfit", "program", "patrol", "excel", "label", "travel", "cancel", "model"} - {"label", "travel", "cancel", "model"}
+PREP_ING = {"of", "for", "by", "in", "on", "after", "before", "without", "from", "at", "about", "stop", "stopped", "enjoy", "enjoys", "enjoyed", "keep", "kept",
+            "avoid", "finish", "finished", "consider", "while", "when", "started", "began", "spent", "like", "love", "loves", "despite", "upon", "than", "into"}
+PAST_CUE = {"yesterday", "ago", "last", "was", "were", "had", "did", "went", "came", "saw", "took", "made", "got", "became", "felt", "found", "gave",
+            "told", "said", "left", "lost", "won", "ran", "began", "broke", "fell", "knew", "thought", "brought", "could", "didn't", "wasn't", "weren't", "once"}
+PRES_CUE = {"is", "are", "has", "have", "does", "do", "can", "will", "every", "always", "usually", "often", "now", "today", "currently", "must", "should", "may"}
+SUBJ_PL = PLURALS | {"i", "who", "that", "which", "and"}
+
+
+def conj(w, form):
+    lw = w.lower()
+    if form == "past":
+        return IRR[lw][0] if lw in IRR else past(w)
+    if form == "pp":
+        return IRR[lw][1] if lw in IRR else past(w)
+    if form == "ing":
+        return attach(w, "ing")
+    if form == "s":
+        return "has" if lw == "have" else ("does" if lw == "do" else ("goes" if lw == "go" else attach(w, "s")))
+    return w
+
+
+def verb_form(sent_one):
+    """Guess the form a verb needs where the blank stands: base, s, past, pp or ing; second value = sure?"""
+    pre, _, post = sent_one.partition("{{BLANK}}")
+    before = [t.lower() for t in re.findall(r"[A-Za-z]+(?:'[a-z]+)?|n't", pre.replace("n't", " n't"))]
+    after = [t.lower() for t in WORDS.findall(post)]
+    soft = ADV | {"only", "just", "really", "truly", "simply", "even", "ever", "finally", "then", "soon", "already", "actually", "blindly"}
+    core = [t for t in before if t not in soft and not (t.endswith("ly") and t not in {"family", "only", "early", "elderly"})]
+    prev = core[-1] if core else ""
+    aux = MODAL | {"do", "does", "did", "n't", "cannot", "please", "let", "let's", "'ll", "'d", "i'll", "you'll", "we'll", "they'll", "he'll", "she'll", "it'll"}
+    if not core or prev in aux or prev.endswith(("'ll", "n't")):
+        return "base", True
+    if any(t in {"help", "helps", "helped", "let", "lets", "make", "makes", "made"} for t in core[-3:]):
+        return "base", False
+    if prev in {"and", "or"} and any(t in aux for t in core[-9:-1]):
+        return "base", False
+    if prev in {"have", "has", "had", "having"}:
+        return "pp", True
+    if prev in BE:
+        return ("pp" if (after[:1] and after[0] in {"by", "with", "in", "to", "from", "as", "for", "into", "on"}) else "ing"), False
+    if prev in PREP_ING:
+        return "ing", prev in {"of", "for", "by", "without", "from", "about", "stop", "avoid", "enjoy", "despite", "upon"}
+    if set(before + after) & PAST_CUE:
+        return "past", False
+    if prev in SUBJ_PL or (prev.endswith("s") and not prev.endswith(("ss", "us", "is", "'s"))):
+        return "base", False
+    return "s", False
+
+
+review = []
 out, notes = {}, {"dropped": [], "seq": 0, "inflected": 0, "plain": 0, "joined": 0}
 for lv, units in R.items():
     out[lv] = {}
@@ -76,12 +195,30 @@ for lv, units in R.items():
         d = units[u]
         entries, seen = [], set()
         for q in d["POOL"]:
-            key, sent, cn = q[0], norm(q[1]), norm(q[2])
+            key, sent, cn = q[0], norm(q[1]), norm(q[2]).replace("**", "").replace("，編因為", "，因為")
+            sent = norm(re.sub(r"\(Self-correction.*$", "", sent))
+            sent = re.sub(r"\s*[)”\"]+$", "", sent) if sent.count("(") < sent.count(")") else sent
+            sent = sent.replace("。", ".")
+            cleaned = declutter(sent)
+            if cleaned != sent:      # the Chinese carries the same padding
+                cn = re.sub(r"(?:完全|高度|極其|極度|絕對|徹底|深深|重度)地?(?=[^，。、])", "", cn)
+            sent = re.sub(r"\b([A-Za-z]{4,}) \1\b", r"\1", re.sub(r"\s+([,.;:!?])", r"\1", cleaned))
+            cn = cn or CN.get((lv, int(u), key), "")
+            if (lv, int(u), key) in SENTENCES:
+                if SENTENCES[(lv, int(u), key)] is None:
+                    continue
+                sent, cn = SENTENCES[(lv, int(u), key)]
             info = d["DEFS"].get(key) or {}
             base = re.sub(r"__\d+$", "", key)
             fm = re.search(r"\(([^)]*,[^)]*)\)", base)                      # "withdraw (withdraw, withdrew, withdrawn)"
             forms = fm.group(1).replace(", ", " / ") if fm else ""
             word = norm(re.sub(r"\([^)]*,[^)]*\)", "", base))
+            vf = re.fullmatch(r"([a-z]+)(?:\s{2,}|,\s*|-)([a-z]+)(?:\s{2,}|,\s*|-)([a-z]+)", base.strip())
+            if vf and vf.group(1)[:2] == vf.group(2)[:2] and not forms:          # "emit  emitted  emitted", "bear-bore-born"
+                word, forms = vf.group(1), " / ".join(vf.groups())
+            elif "  " in base.strip():                                             # "electric drill  power drill": two ways to say it
+                word = " / ".join(dict.fromkeys(norm(x) for x in re.split(r"\s{2,}", base.strip()) if x.strip()))
+            word = word.replace("showexpress", "show/express").replace("withto", "with/to")
             kw = [w for w in re.split(r"\s+", re.sub(r"\.{2,}|…|\(.*?\)", " ", word)) if w]
             parts = BLANKS.split(sent)
             ex = norm(info.get("ex", ""))
@@ -153,6 +290,30 @@ for lv, units in R.items():
                         # some examples carry a naive "+ed" (reviveed): spell those properly
                         ans = " ".join(past(y) if x.lower() == y.lower() + "ed" and x.lower() != past(y).lower() else x for x, y in zip(ct, at)); notes["inflected"] += 1
             one = f"{parts[0]}{{{{BLANK}}}}{parts[-1]}"
+            # ---- form check: the source prints base forms even where the sentence needs an inflected one
+            first = ans.split(" ")[0] if ans else ""
+            is_verb = info.get("cat") == "v" or (info.get("cat") == "phr" and norm(info.get("en", "")).lower().startswith("to ") and first.lower() == (K[0].lower() if K else "") and first.lower() not in {"in", "on", "at", "by", "for", "with", "to", "of", "as", "a", "an", "the", "out", "under", "beyond"})
+            guess = None
+            if (lv, int(u), key) in ANSWERS:
+                ans = ANSWERS[(lv, int(u), key)]
+            elif is_verb and first and first.lower() == K[0].lower() and first.lower() not in BE:
+                form, sure = verb_form(one)
+                new = (conj(first, form) + ans[len(first):]) if form != "base" else ans
+                if form in ("pp", "past") and fm and form:      # forms printed with the word: withdraw (withdraw, withdrew, withdrawn)
+                    fl3 = [x.strip() for x in fm.group(1).split(",")]
+                    if len(fl3) == 3:
+                        new = fl3[1 if form == "past" else 2] + ans[len(first):]
+                if not sure:
+                    review.append((lv, u, key, form, one.replace("{{BLANK}}", "[" + new + "]")))
+                ans = new
+            elif info.get("cat") == "n" and " " not in ans and ans.lower() == word.lower():
+                before = [t.lower() for t in WORDS.findall(parts[0])][-4:]
+                nxt = (WORDS.findall(parts[-1]) or [""])[0].lower()
+                if nxt in {"are", "were", "have"} or any(t in {"many", "several", "few", "these", "those", "two", "three", "four", "five", "six", "ten", "hundred",
+                        "thousands", "hundreds", "millions", "numerous", "various", "both", "all", "some", "other", "most", "more", "multiple", "countless", "different", "such"} for t in before):
+                    review.append((lv, u, key, "n?", one.replace("{{BLANK}}", "[" + ans + "]")))
+            if not parts[0].strip() and ans[:1].islower():       # the blank opens the sentence
+                ans = ans[:1].upper() + ans[1:]
             if (word.lower(), one) in seen:
                 continue
             seen.add((word.lower(), one))
@@ -162,6 +323,7 @@ for lv, units in R.items():
                 e["forms"] = forms
             if ans != word:
                 e["answer"] = ans
+                e["quizWord"] = ans
             entries.append(e)
         rng = random.Random(f"{lv}{u}")
         mcqs, lookup = [], {}
@@ -186,8 +348,11 @@ for lv, units in R.items():
         for e in entries:
             e.pop("cat", None)
         theme = f'{entries[0]["word"]} – {entries[-1]["word"]}'
-        out[lv][u] = {"generated": True, "theme": theme, "QUIZ_CONFIG": {"groupName": f"LiveABC 3-5 {lv.title()} U{u} - {theme}", "gasEndpoint": ""},
+        out[lv][u] = {"generated": True, "theme": theme, "QUIZ_CONFIG": {"groupName": f"LiveABC 3-5 {lv.title()} U{u} - {theme}", "gasEndpoint": GAS},
                       "VOCAB": entries, "MCQS": mcqs, "LOOKUP": lookup, "EXTRA_GLOSSES": {}}
     print(lv, "units", len(out[lv]), "entries", sum(len(g["VOCAB"]) for g in out[lv].values()), [len(g["VOCAB"]) for g in out[lv].values()])
 json.dump(out, open(sys.argv[2], "w", encoding="utf8"), ensure_ascii=False)
+if REVIEW:
+    json.dump(review, open("/home/claude/lab_review.json", "w", encoding="utf8"), ensure_ascii=False)
+    print("review rows:", len(review))
 print({k: v for k, v in notes.items() if k != "dropped"}, "dropped:", notes["dropped"])

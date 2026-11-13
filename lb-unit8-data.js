@@ -180,7 +180,7 @@ window.FLASHCARD_UNITS = {
     "definition": "An extreme event like a flood, earthquake, or storm that causes great damage or loss of life.",
     "chinese": "自然災害、天災",
     "sentence": "The government has prepared emergency supply kits to ensure that citizens can survive if a major __________ strikes the region unexpectedly.",
-    "translation": "政府已經準備了緊急物資包，以確保如果該地區意外遭受重大**自然災害（天災）**時，市民能夠存活下來。",
+    "translation": "政府已經準備了緊急物資包，以確保如果該地區意外遭受重大自然災害（天災）時，市民能夠存活下來。",
     "lookup": {
      "english": "An extreme event like a flood, earthquake, or storm that causes great damage or loss of life.",
      "chinese": "自然災害、天災"
@@ -323,7 +323,7 @@ window.FLASHCARD_UNITS = {
     "definition": "A large mass of rocks and earth that suddenly slides down a mountain or cliff.",
     "chinese": "土石流、山崩",
     "sentence": "After the heavy rainfall hit the mountain village, a sudden __________ blocked the main road and trapped many residents in their homes.",
-    "translation": "在暴雨襲擊山村之後，一場突如其來的**山崩（土石流）**堵住了主要道路，將許多居民困在自己家中。",
+    "translation": "在暴雨襲擊山村之後，一場突如其來的山崩（土石流）堵住了主要道路，將許多居民困在自己家中。",
     "lookup": {
      "english": "A large mass of rocks and earth that suddenly slides down a mountain or cliff.",
      "chinese": "土石流、山崩"
@@ -474,7 +474,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "ruin",
-    "answer": "ruin",
+    "answer": "ruined",
     "pos": "v.",
     "definition": "to reduce to a state of ruin or destroy.",
     "chinese": "毀壞；破壞",
@@ -505,7 +505,7 @@ window.FLASHCARD_UNITS = {
     "definition": "The broken parts that remain after a building or city has been destroyed.",
     "chinese": "廢墟、遺跡",
     "sentence": "Many tourists travel to Greece every year to walk through the ancient __________ of the Parthenon and take photos of the historic stone pillars.",
-    "translation": "每年都有許多遊客前往希臘，在帕德嫩神廟的古老**廢墟（遺跡）**中漫步，並拍攝歷史悠久的石柱照片。",
+    "translation": "每年都有許多遊客前往希臘，在帕德嫩神廟的古老廢墟（遺跡）中漫步，並拍攝歷史悠久的石柱照片。",
     "lookup": {
      "english": "The broken parts that remain after a building or city has been destroyed.",
      "chinese": "廢墟、遺跡"
@@ -539,7 +539,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "destroy",
-    "answer": "destroy",
+    "answer": "destroyed",
     "pos": "v.",
     "definition": "to put an end to the existence of something by damaging or attacking it.",
     "chinese": "摧毀",
@@ -635,7 +635,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Causing social, financial, or physical harm or trouble.",
     "chinese": "有害的、造成破壞的",
     "sentence": "Spreading false rumors about the local restaurant on social media can be extremely __________ to its business and long-term reputation.",
-    "translation": "在社群媒體上散布關於當地餐廳的謠言，可能對其業務和長期聲譽造成極其**有害的（造成破壞的）**影響。",
+    "translation": "在社群媒體上散布關於當地餐廳的謠言，可能對其業務和長期聲譽造成極其有害的（造成破壞的）影響。",
     "lookup": {
      "english": "Causing social, financial, or physical harm or trouble.",
      "chinese": "有害的、造成破壞的"
@@ -760,7 +760,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "modify",
-    "answer": "modify",
+    "answer": "modified",
     "pos": "v.",
     "definition": "to make partial or minor changes to something.",
     "chinese": "修改",
@@ -804,7 +804,7 @@ window.FLASHCARD_UNITS = {
     "definition": "to change or cause to change in character or composition.",
     "chinese": "改變",
     "sentence": "She had to carefully __________ her beautiful wedding dress because she had surprisingly lost a significant amount of weight recently.",
-    "translation": "她必須小心地**改變（修改）**她美麗的婚紗，因為她最近令人驚訝地減輕了大量的體重。",
+    "translation": "她必須小心地改變（修改）她美麗的婚紗，因為她最近令人驚訝地減輕了大量的體重。",
     "lookup": {
      "english": "to change or cause to change in character or composition.",
      "chinese": "改變"
@@ -955,7 +955,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "fortify",
-    "answer": "fortify",
+    "answer": "fortified",
     "pos": "v.",
     "definition": "to strengthen a place with defensive works so as to protect it against attack.",
     "chinese": "強化；加強",
@@ -994,7 +994,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "inject",
-    "answer": "inject",
+    "answer": "injected",
     "pos": "v.",
     "definition": "to drive or force a liquid into a person's body with a syringe.",
     "chinese": "注射；注入",
@@ -1072,7 +1072,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "layer",
-    "answer": "layer",
+    "answer": "layered",
     "pos": "v.",
     "definition": "to arrange in a layer or layers.",
     "chinese": "把...分層",
@@ -1426,11 +1426,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "destroy"
+      "text": "destroyed"
      },
      {
       "letter": "B",
-      "text": "layer"
+      "text": "layered"
      },
      {
       "letter": "C",
@@ -1438,7 +1438,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "ruin"
+      "text": "ruined"
      }
     ],
     "answer": "C",
@@ -1518,11 +1518,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "the remains of"
+      "text": "in a state of financial ruin"
      },
      {
       "letter": "B",
-      "text": "emergency landing"
+      "text": "state of emergency"
      },
      {
       "letter": "C",
@@ -1530,7 +1530,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "technique"
+      "text": "layered"
      }
     ],
     "answer": "C",
@@ -1936,7 +1936,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ruin"
+      "text": "ruined"
      },
      {
       "letter": "C",
@@ -2147,7 +2147,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "ruin"
+      "text": "ruined"
      },
      {
       "letter": "D",
@@ -2262,11 +2262,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "ruin"
+      "text": "ruined"
      },
      {
       "letter": "D",
-      "text": "destroy"
+      "text": "destroyed"
      }
     ],
     "answer": "D",
@@ -2335,7 +2335,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "fortify"
+      "text": "fortified"
      }
     ],
     "answer": "C",
@@ -2645,7 +2645,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "modify"
+      "text": "modified"
      },
      {
       "letter": "B",
@@ -2653,7 +2653,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "ruin"
+      "text": "ruined"
      },
      {
       "letter": "D",
@@ -2722,7 +2722,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "modify"
+      "text": "modified"
      },
      {
       "letter": "D",
@@ -2829,7 +2829,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "modify"
+      "text": "modified"
      },
      {
       "letter": "B",
@@ -2841,7 +2841,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "ruin"
+      "text": "ruined"
      }
     ],
     "answer": "C",
@@ -2925,7 +2925,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ruin"
+      "text": "ruined"
      },
      {
       "letter": "C",
@@ -2998,11 +2998,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "destroy"
+      "text": "destroyed"
      },
      {
       "letter": "D",
-      "text": "fortify"
+      "text": "fortified"
      }
     ],
     "answer": "D",
@@ -3063,7 +3063,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "fortify"
+      "text": "fortified"
      },
      {
       "letter": "C",
@@ -3071,7 +3071,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "inject"
+      "text": "injected"
      }
     ],
     "answer": "D",
@@ -3201,7 +3201,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "layer"
+      "text": "layered"
      },
      {
       "letter": "C",
@@ -3293,7 +3293,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "alternative"
+      "text": "alter"
      },
      {
       "letter": "C",
@@ -3301,7 +3301,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "inject money into"
+      "text": "eject"
      }
     ],
     "answer": "C",
@@ -3439,7 +3439,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "destroy"
+      "text": "destroyed"
      }
     ],
     "answer": "B",
@@ -3609,4 +3609,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bulletproof":["designed to resist the penetration of bullets.","防彈的"],"fireproof":["able to withstand fire or great heat.","防火的"],"waterproof":["impervious to water.","防水的"],"water-resistant":["able to resist the penetration of water to some degree but not entirely.","抗水的；防潑水的"],"heat-resistant":["able to withstand high temperatures without being damaged.","耐熱的"],"resist":["to withstand the action or effect of.","抵抗；忍住"],"resistant":["offering resistance to something or someone.","有抵抗力的；抗...的"],"resistance":["the refusal to accept or comply with something.","抵抗（力）；阻力"],"severe":["of something bad or undesirable: very great, intense, or harsh.","嚴重的；嚴厲的"],"severely":["to an undesirably great or intense degree.","嚴重地"],"severity":["the fact or condition of being severe.","嚴重性"],"drought":["a prolonged period of abnormally low rainfall, leading to a shortage of water.","乾旱"],"famine":["extreme scarcity of food.","饑荒"],"wildfire":["a large, destructive fire that spreads quickly over woodland or brush.","野火"],"mudslide":["a mass of mud and other earthy material that is falling or has fallen down a hillside.","土石流"],"tsunami":["A giant ocean wave caused by an earthquake under the sea.","海嘯"],"cyclone":["A violent tropical storm with very strong winds that rotate around a center.","氣旋、熱帶風暴"],"typhoon":["A violent tropical storm with extremely strong winds and heavy rain that occurs in the Western Pacific.","颱風"],"hurricane":["A violent tropical storm with extremely strong winds that occurs in the Atlantic Ocean.","颶風"],"tornado":["A violent, spinning column of air that stretches from a dark cloud to the ground.","龍捲風"],"landslide":["A large mass of rocks and earth that suddenly slides down a mountain or cliff.","土石流、山崩"],"landscape":["Everything you can see when you look across a large area of land.","風景、景色、自然景觀"],"flood":["an overflow of a large amount of water beyond its normal limits.","洪水"],"flooded":["covered or submerged with water.","被淹沒的"],"toll":["the number of deaths, casualties, or injuries arising from particular circumstances.","傷亡人數"],"infrastructure":["the basic physical and organizational structures and facilities needed for the operation of a society.","基礎建設"],"ruin":["to reduce to a state of ruin or destroy.","毀壞；破壞"],"ruins":["The broken parts that remain after a building or city has been destroyed.","廢墟、遺跡"],"destroy":["to put an end to the existence of something by damaging or attacking it.","摧毀"],"destructive":["Causing a large amount of severe damage, harm, or destruction.","具破壞性的、毀滅性的"],"destruction":["The act or process of destroying something so badly that it cannot be fixed.","破壞、毀滅、摧毀"],"damage":["To harm, break, or spoil something physically.","損害、損壞、破壞"],"damaging":["Causing social, financial, or physical harm or trouble.","有害的、造成破壞的"],"harmful":["Causing or likely to cause damage, pain, or injury.","有害的、致傷的"],"harmless":["Completely safe and not able or likely to cause any hurt, pain, or damage.","無害的"],"emergency":["a serious, unexpected, and often dangerous situation requiring immediate action.","緊急情況"],"kilometer":["a metric unit of measurement equal to 1,000 meters.","公里"],"centimeter":["a metric unit of length, equal to one hundredth of a meter.","公分"],"kilogram":["the SI unit of mass, equivalent to 1,000 grams.","公斤"],"modify":["to make partial or minor changes to something.","修改"],"modification":["the action of modifying something.","修改；改變"],"alter":["to change or cause to change in character or composition.","改變"],"alternative":["a choice limited to one of two or more possibilities, or describing something available as another choice","替代方案；可替代的"],"amend":["to formally modify, alter, or update a legal document, contract, policy, or legislative bill","修訂；修改（法律/文件）"],"amendment":["a formal or official change, modification, or addition made to a constitution, statute, or contract","修訂案；修正條款"],"repair":["to fix, restore, or mend something that is damaged, broken, split, or not functioning correctly","修復；修理（動詞）"],"process":["a series of actions or steps taken in order to achieve a particular end.","過程"],"processed":["having been subjected to a special process or treatment.","加工過的"],"fortify":["to strengthen a place with defensive works so as to protect it against attack.","強化；加強"],"fortification":["a defensive wall or other reinforcement built to strengthen a place.","防禦工事；強化"],"fortress":["a heavily protected and impenetrable building.","堡壘"],"inject":["to drive or force a liquid into a person's body with a syringe.","注射；注入"],"injection":["an instance of injecting or being injected.","注射；打針"],"eject":["to force or throw something out, typically in a violent or sudden way.","彈出；逐出"],"layer":["a sheet, quantity, or thickness of material, typically one of several.","層"],"technique":["a way of carrying out a particular task.","技巧；技術"],"technical":["relating to a particular subject, art, or craft, or its techniques.","技術上的"],"technically":["according to the facts or exact meaning of something.","嚴格來說；技術上"],"predict":["to say or estimate that a specified thing will happen in the future.","預測"],"prediction":["a thing predicted; a forecast.","預言；預測"],"predictable":["able to be predicted.","可預測的"],"forecast":["a prediction or estimate of future events, especially coming weather.","預報"],"enhance":["to intensify, increase, or further improve the quality, value, or extent of.","提升；加強"],"enhanced":["intensified, increased, or further improved in quality.","增強的；改良的"],"enhancement":["an increase or improvement in quality, value, or extent.","提升；增強"],"improvement":["an example of improving or being improved.","改善；進步"],"prehistoric":["relating to or denoting the period before written records.","史前的"],"primitive":["relating to, denoting, or preserving the character of an early stage in the historical development of something","原始的；遠古的"],"sophisticated":["having a high degree of complexity, refinement, or advanced development in technology, system, or taste","精密的；複雜先進的；老練的"],"unprecedented":["never done, known, or experienced before in history, representing a completely new situation","空前的；前所未有的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bulletproof":["designed to resist the penetration of bullets.","防彈的"],"fireproof":["able to withstand fire or great heat.","防火的"],"waterproof":["impervious to water.","防水的"],"water-resistant":["able to resist the penetration of water to some degree but not entirely.","抗水的；防潑水的"],"heat-resistant":["able to withstand high temperatures without being damaged.","耐熱的"],"resist":["to withstand the action or effect of.","抵抗；忍住"],"resistant":["offering resistance to something or someone.","有抵抗力的；抗...的"],"resistance":["the refusal to accept or comply with something.","抵抗（力）；阻力"],"severe":["of something bad or undesirable: very great, intense, or harsh.","嚴重的；嚴厲的"],"severely":["to an undesirably great or intense degree.","嚴重地"],"severity":["the fact or condition of being severe.","嚴重性"],"drought":["a prolonged period of abnormally low rainfall, leading to a shortage of water.","乾旱"],"famine":["extreme scarcity of food.","饑荒"],"wildfire":["a large, destructive fire that spreads quickly over woodland or brush.","野火"],"mudslide":["a mass of mud and other earthy material that is falling or has fallen down a hillside.","土石流"],"tsunami":["A giant ocean wave caused by an earthquake under the sea.","海嘯"],"cyclone":["A violent tropical storm with very strong winds that rotate around a center.","氣旋、熱帶風暴"],"typhoon":["A violent tropical storm with extremely strong winds and heavy rain that occurs in the Western Pacific.","颱風"],"hurricane":["A violent tropical storm with extremely strong winds that occurs in the Atlantic Ocean.","颶風"],"tornado":["A violent, spinning column of air that stretches from a dark cloud to the ground.","龍捲風"],"landslide":["A large mass of rocks and earth that suddenly slides down a mountain or cliff.","土石流、山崩"],"landscape":["Everything you can see when you look across a large area of land.","風景、景色、自然景觀"],"flood":["an overflow of a large amount of water beyond its normal limits.","洪水"],"flooded":["covered or submerged with water.","被淹沒的"],"toll":["the number of deaths, casualties, or injuries arising from particular circumstances.","傷亡人數"],"infrastructure":["the basic physical and organizational structures and facilities needed for the operation of a society.","基礎建設"],"ruin":["to reduce to a state of ruin or destroy.","毀壞；破壞"],"ruined":["to reduce to a state of ruin or destroy.","毀壞；破壞"],"ruins":["The broken parts that remain after a building or city has been destroyed.","廢墟、遺跡"],"destroyed":["to put an end to the existence of something by damaging or attacking it.","摧毀"],"destroy":["to put an end to the existence of something by damaging or attacking it.","摧毀"],"destructive":["Causing a large amount of severe damage, harm, or destruction.","具破壞性的、毀滅性的"],"destruction":["The act or process of destroying something so badly that it cannot be fixed.","破壞、毀滅、摧毀"],"damage":["To harm, break, or spoil something physically.","損害、損壞、破壞"],"damaging":["Causing social, financial, or physical harm or trouble.","有害的、造成破壞的"],"harmful":["Causing or likely to cause damage, pain, or injury.","有害的、致傷的"],"harmless":["Completely safe and not able or likely to cause any hurt, pain, or damage.","無害的"],"emergency":["a serious, unexpected, and often dangerous situation requiring immediate action.","緊急情況"],"kilometer":["a metric unit of measurement equal to 1,000 meters.","公里"],"centimeter":["a metric unit of length, equal to one hundredth of a meter.","公分"],"kilogram":["the SI unit of mass, equivalent to 1,000 grams.","公斤"],"modified":["to make partial or minor changes to something.","修改"],"modify":["to make partial or minor changes to something.","修改"],"modification":["the action of modifying something.","修改；改變"],"alter":["to change or cause to change in character or composition.","改變"],"alternative":["a choice limited to one of two or more possibilities, or describing something available as another choice","替代方案；可替代的"],"amend":["to formally modify, alter, or update a legal document, contract, policy, or legislative bill","修訂；修改（法律/文件）"],"amendment":["a formal or official change, modification, or addition made to a constitution, statute, or contract","修訂案；修正條款"],"repair":["to fix, restore, or mend something that is damaged, broken, split, or not functioning correctly","修復；修理（動詞）"],"process":["a series of actions or steps taken in order to achieve a particular end.","過程"],"processed":["having been subjected to a special process or treatment.","加工過的"],"fortify":["to strengthen a place with defensive works so as to protect it against attack.","強化；加強"],"fortified":["to strengthen a place with defensive works so as to protect it against attack.","強化；加強"],"fortification":["a defensive wall or other reinforcement built to strengthen a place.","防禦工事；強化"],"fortress":["a heavily protected and impenetrable building.","堡壘"],"inject":["to drive or force a liquid into a person's body with a syringe.","注射；注入"],"injected":["to drive or force a liquid into a person's body with a syringe.","注射；注入"],"injection":["an instance of injecting or being injected.","注射；打針"],"eject":["to force or throw something out, typically in a violent or sudden way.","彈出；逐出"],"layer":["a sheet, quantity, or thickness of material, typically one of several.","層"],"layered":["to arrange in a layer or layers.","把...分層"],"technique":["a way of carrying out a particular task.","技巧；技術"],"technical":["relating to a particular subject, art, or craft, or its techniques.","技術上的"],"technically":["according to the facts or exact meaning of something.","嚴格來說；技術上"],"predict":["to say or estimate that a specified thing will happen in the future.","預測"],"prediction":["a thing predicted; a forecast.","預言；預測"],"predictable":["able to be predicted.","可預測的"],"forecast":["a prediction or estimate of future events, especially coming weather.","預報"],"enhance":["to intensify, increase, or further improve the quality, value, or extent of.","提升；加強"],"enhanced":["intensified, increased, or further improved in quality.","增強的；改良的"],"enhancement":["an increase or improvement in quality, value, or extent.","提升；增強"],"improvement":["an example of improving or being improved.","改善；進步"],"prehistoric":["relating to or denoting the period before written records.","史前的"],"primitive":["relating to, denoting, or preserving the character of an early stage in the historical development of something","原始的；遠古的"],"sophisticated":["having a high degree of complexity, refinement, or advanced development in technology, system, or taste","精密的；複雜先進的；老練的"],"unprecedented":["never done, known, or experienced before in history, representing a completely new situation","空前的；前所未有的"]});

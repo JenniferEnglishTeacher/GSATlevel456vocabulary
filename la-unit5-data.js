@@ -227,12 +227,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "contribute",
-    "answer": "contribute",
+    "answer": "contributed",
     "pos": "v.",
     "definition": "to give something in order to help achieve or provide something.",
     "chinese": "貢獻；提供",
     "sentence": "Kind-hearted Mark generously __________ to the busy community dinner by baking a completely delicious and totally beautiful chocolate cake.",
-    "translation": "善良的馬克慷慨地為繁忙的社區晚宴**貢獻（提供）**了力量，他烤了一個完全美味且完全美麗的巧克力蛋糕。",
+    "translation": "善良的馬克慷慨地為繁忙的社區晚宴貢獻（提供）了力量，他烤了一個完全美味且完全美麗的巧克力蛋糕。",
     "lookup": {
      "english": "to give something in order to help achieve or provide something.",
      "chinese": "貢獻；提供"
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "contribute towards",
-    "answer": "contribute money towards",
+    "answer": "contributed money towards",
     "pos": "phr.",
     "definition": "to give money or resources to help pay for something.",
     "chinese": "為...捐獻；為...出資",
@@ -361,8 +361,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "a basic and important distinction between two things.",
     "chinese": "根本差異",
-    "sentence": "There is a completely highly significant __________ between casually playing a sport for fun and actually playing it professionally.",
-    "translation": "為了好玩而隨意進行一項運動與實際專業地進行這項運動之間，存在著完全極其重大的根本差異。",
+    "sentence": "There is a highly significant __________ between casually playing a sport for fun and actually playing it professionally.",
+    "translation": "為了好玩而隨意進行一項運動與實際專業地進行這項運動之間，存在著重大的根本差異。",
     "lookup": {
      "english": "a basic and important distinction between two things.",
      "chinese": "根本差異"
@@ -374,8 +374,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "existing or available in large quantities; plentiful.",
     "chinese": "豐富的；充足的",
-    "sentence": "The quiet agricultural region's completely __________ warm sunshine makes it highly absolutely ideal for successfully growing sweet juicy wine grapes.",
-    "translation": "這個安靜農業區完全充足的溫暖陽光，使其成為成功種植甜美多汁釀酒葡萄的高度絕對理想之地。",
+    "sentence": "The quiet agricultural region's completely __________ warm sunshine makes it absolutely ideal for successfully growing sweet juicy wine grapes.",
+    "translation": "這個安靜農業區充足的溫暖陽光，使其成為成功種植甜美多汁釀酒葡萄的理想之地。",
     "lookup": {
      "english": "existing or available in large quantities; plentiful.",
      "chinese": "豐富的；充足的"
@@ -413,8 +413,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "existing in or yielding great quantities; abundant.",
     "chinese": "豐富的；大量的",
-    "sentence": "In the completely warm tropical rainforest, extremely colorful wild birds and incredibly beautiful strange insects are highly completely __________ everywhere.",
-    "translation": "在完全溫暖的熱帶雨林中，極度色彩繽紛的野生鳥類和極其美麗的奇怪昆蟲到處都是高度完全豐富的。",
+    "sentence": "In the warm tropical rainforest, colorful wild birds and beautiful strange insects are __________ everywhere.",
+    "translation": "在溫暖的熱帶雨林中，色彩繽紛的野生鳥類和美麗的奇怪昆蟲到處都是豐富的。",
     "lookup": {
      "english": "existing in or yielding great quantities; abundant.",
      "chinese": "豐富的；大量的"
@@ -426,7 +426,7 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "in large quantities.",
     "chinese": "大量地；豐富地",
-    "sentence": "Fresh sweet completely perfectly red strawberries amazingly grow __________ along the quiet and beautiful green mountain paths.)",
+    "sentence": "Fresh sweet red strawberries amazingly grow __________ along the quiet beautiful green mountain paths.",
     "translation": "新鮮甜美的紅草莓在安靜美麗的綠色山區小徑旁大量地生長。",
     "lookup": {
      "english": "in large quantities.",
@@ -531,8 +531,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "having sufficient equipment, supplies, or abilities.",
     "chinese": "裝備齊全的；設備完善的",
-    "sentence": "The highly advanced and deeply expensive local hospital is fully __________ to successfully handle any major medical emergency.)",
-    "translation": "這家先進的當地醫院是完全設備完善的，能夠成功處理任何重大的醫療緊急情況。",
+    "sentence": "The advanced and expensive local hospital is __________ to handle any major medical emergency.",
+    "translation": "這家先進的當地醫院是設備完善的，能夠成功處理任何重大的醫療緊急情況。",
     "lookup": {
      "english": "having sufficient equipment, supplies, or abilities.",
      "chinese": "裝備齊全的；設備完善的"
@@ -544,8 +544,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "materials or items used for playing sports.",
     "chinese": "運動器材",
-    "sentence": "We quickly went to the entirely new huge shopping mall yesterday to deeply happily successfully comfortably buy some expensive __________.",
-    "translation": "我們昨天迅速去了完全嶄新的巨大購物中心，快樂地買了一些昂貴的運動器材。",
+    "sentence": "We went to the new huge shopping mall yesterday to buy some expensive __________.",
+    "translation": "我們昨天迅速去了嶄新的巨大購物中心，快樂地買了一些昂貴的運動器材。",
     "lookup": {
      "english": "materials or items used for playing sports.",
      "chinese": "運動器材"
@@ -583,8 +583,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "a natural fuel such as coal or gas, formed in the geological past from the remains of living organisms.",
     "chinese": "化石燃料",
-    "sentence": "To effectively efficiently safely completely drastically effectively protect the environment, we completely must absolutely firmly totally carefully completely actively heavily thoroughly stop deeply burning highly dirty __________.)",
-    "translation": "為了有效地保護環境，我們絕對必須停止燃燒高度骯髒的化石燃料。",
+    "sentence": "To protect the environment, we must stop burning dirty __________.",
+    "translation": "為了有效地保護環境，我們必須停止燃燒骯髒的化石燃料。",
     "lookup": {
      "english": "a natural fuel such as coal or gas, formed in the geological past from the remains of living organisms.",
      "chinese": "化石燃料"
@@ -596,7 +596,7 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "powered by fossil fuels.",
     "chinese": "使用化石燃料的",
-    "sentence": "The extremely completely highly thoroughly totally old completely entirely completely entirely entirely completely fully completely entirely deeply totally perfectly extremely __________ power plant severely pollutes the nearby clean air.)",
+    "sentence": "The old __________ power plant severely pollutes the nearby small local populated quiet modern clean air.",
     "translation": "這座老舊的使用化石燃料的發電廠嚴重污染了附近乾淨的空氣。",
     "lookup": {
      "english": "powered by fossil fuels.",
@@ -609,8 +609,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to preserve so that it becomes a fossil.",
     "chinese": "使成化石",
-    "sentence": "If a dead wild animal is completely quickly safely buried completely deeply perfectly softly carefully softly quietly perfectly quietly under totally heavy completely wet dark entirely cold mud, its completely solid totally dry strong bones completely entirely might beautifully naturally __________.)",
-    "translation": "如果一隻死去的動物被深深埋在濕泥下，牠的骨頭可能會自然地成化石。",
+    "sentence": "If a dead animal is buried deep under wet mud, its bones might __________ over millions of years.",
+    "translation": "如果一隻死去的動物被深深埋在濕泥下，牠的骨頭可能會在數百萬年後變成化石。",
     "lookup": {
      "english": "to preserve so that it becomes a fossil.",
      "chinese": "使成化石"
@@ -622,8 +622,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "an organism that has remained essentially unchanged from earlier geologic times.",
     "chinese": "活化石",
-    "sentence": "The completely completely highly thoroughly thoroughly totally strange absolutely fascinating thoroughly totally totally deep deep perfectly completely absolutely perfectly ocean absolutely entirely perfectly completely completely perfectly perfectly fish is totally highly totally widely considered a completely deeply totally entirely absolutely totally perfectly totally completely totally totally true __________ because it looks so incredibly old.)",
-    "translation": "這種奇怪的海洋魚類被廣泛認為是真正的活化石，因為牠看起來如此令人難以置信地古老。",
+    "sentence": "This strange deep-ocean fish is widely considered a true __________ because it looks so ancient.",
+    "translation": "這種奇怪的深海魚類被廣泛認為是真正的活化石，因為牠看起來如此古老。",
     "lookup": {
      "english": "an organism that has remained essentially unchanged from earlier geologic times.",
      "chinese": "活化石"
@@ -635,8 +635,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "material such as coal, gas, or oil that is burned to produce heat or power.",
     "chinese": "燃料",
-    "sentence": "Most totally regular completely standard modern completely comfortable highly absolutely fast daily cars efficiently entirely completely perfectly effectively totally completely strictly securely actively quickly easily automatically entirely fully use completely highly incredibly incredibly deeply expensive highly common standard totally entirely perfectly pure completely clean completely liquid entirely clear safely stored gasoline purely strongly smoothly quietly beautifully as __________.)",
-    "translation": "大多數標準的現代汽車有效地使用昂貴的汽油作為燃料。",
+    "sentence": "Most modern cars still use expensive gasoline as __________.",
+    "translation": "大多數現代汽車仍然使用昂貴的汽油作為燃料。",
     "lookup": {
      "english": "material such as coal, gas, or oil that is burned to produce heat or power.",
      "chinese": "燃料"
@@ -644,20 +644,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "fuel",
-    "answer": "fuel",
-    "pos": "v.",
-    "definition": "to supply or power with fuel; to sustain or inflame an emotion or situation.",
-    "chinese": "為...提供燃料；加劇（情緒等）",
-    "sentence": "The deeply completely completely completely highly strictly completely absolutely highly truly heavily totally highly incredibly intensely shockingly terrible totally public perfectly highly completely deeply intensely entirely completely perfectly absolutely incredibly widely incredibly surprisingly entirely completely completely definitely completely absolutely entirely greatly thoroughly completely deeply absolutely totally significantly terribly strongly wildly completely totally absolutely perfectly absolutely completely entirely completely totally entirely incredibly perfectly totally completely completely completely utterly surprisingly deeply totally huge highly thoroughly perfectly completely shocking absolutely strictly perfectly completely widely deeply scandal completely completely completely totally completely entirely strictly definitely absolutely completely heavily deeply perfectly definitely fully highly directly actively smoothly successfully strongly effectively intensely fiercely quickly heavily completely deeply completely perfectly completely actively forcefully totally absolutely fully intensely heavily greatly entirely completely totally deeply completely effectively deeply totally deeply widely was greatly totally highly deeply intensely heavily deeply totally entirely heavily completely thoroughly absolutely totally completely completely completely completely absolutely strictly totally totally intensely deeply perfectly thoroughly __________ absolutely completely completely actively actively directly strictly quickly highly directly strongly thoroughly entirely perfectly deeply rapidly completely strongly fully perfectly totally entirely completely effectively effectively perfectly absolutely immediately highly quickly strongly actively heavily actively thoroughly strongly fully absolutely fully purely highly completely deeply effectively completely entirely absolutely totally thoroughly fully completely quickly entirely perfectly deeply by deeply nasty completely totally entirely fully highly completely totally totally intensely utterly extremely wildly wildly completely totally wildly completely absolutely absolutely strongly totally utterly thoroughly intensely fully deeply entirely completely purely entirely highly totally absolutely heavily effectively totally absolutely entirely perfectly highly wildly thoroughly widely absolutely terribly widely highly completely strongly completely strongly perfectly thoroughly rapidly intensely terribly completely completely absolutely wildly incredibly fully terribly wild perfectly highly exactly purely fully entirely strictly totally completely purely entirely completely completely incredibly perfectly completely largely intensely largely completely totally absolutely deeply entirely absolutely completely purely wildly fully absolutely heavily extremely highly completely totally highly strictly utterly perfectly perfectly fully entirely absolutely fully thoroughly completely strictly entirely totally totally purely actively perfectly effectively totally entirely incredibly deeply exactly deeply absolutely strongly absolutely completely totally definitely totally wildly completely perfectly entirely thoroughly completely fully rapidly totally actively purely utterly effectively widely totally totally deeply actively absolutely totally fully deeply fully totally fully largely completely absolutely entirely entirely completely entirely extremely quickly completely totally thoroughly completely deeply definitely deeply thoroughly entirely totally intensely completely utterly completely fully heavily entirely completely strongly perfectly perfectly perfectly actively perfectly deeply successfully perfectly thoroughly perfectly completely entirely wildly deeply actively totally rapidly entirely totally entirely perfectly firmly fully incredibly definitely fully perfectly completely thoroughly totally deeply strongly perfectly entirely highly totally perfectly completely perfectly deeply entirely strictly completely widely completely completely entirely strongly thoroughly thoroughly wildly strongly thoroughly thoroughly absolutely strongly totally completely deeply absolutely deeply totally perfectly deeply fully heavily entirely totally entirely highly directly thoroughly completely purely completely totally fully strictly completely fully entirely highly strictly completely absolutely fully deeply totally widely completely entirely totally quickly extremely perfectly perfectly totally heavily highly purely wildly totally exactly entirely thoroughly exactly purely fully purely directly exactly fully heavily absolutely purely deeply purely intensely utterly completely perfectly thoroughly purely absolutely totally successfully completely perfectly perfectly purely purely perfectly totally exactly successfully clearly entirely quickly purely actively definitely deeply absolutely fully perfectly thoroughly heavily fully successfully intensely deeply thoroughly purely incredibly wildly truly heavily deeply definitely directly successfully deeply completely incredibly absolutely heavily heavily rapidly totally totally purely exactly effectively deeply entirely absolutely quickly fully thoroughly completely immediately completely completely purely actively entirely totally entirely totally perfectly heavily thoroughly perfectly fully thoroughly entirely strictly perfectly absolutely directly totally thoroughly tightly thoroughly strictly actively highly totally strongly purely totally entirely purely completely entirely entirely purely actively quickly intensely totally perfectly fully effectively purely fully tightly successfully exactly totally highly exactly greatly highly absolutely effectively completely successfully exactly quickly widely precisely fully fully effectively correctly securely deeply correctly explicitly successfully greatly securely smartly successfully smoothly specifically absolutely fully carefully clearly smoothly completely successfully gently gently exactly perfectly effectively neatly precisely rightly softly firmly securely gently effectively tightly rightly purely naturally strongly directly properly softly directly purely purely absolutely naturally firmly deeply smartly simply purely effectively quickly quickly highly softly perfectly explicitly safely properly correctly securely brightly quietly gently thoroughly deeply strictly quietly smoothly fully successfully cleanly neatly securely simply actively absolutely directly definitely rightly carefully tightly explicitly clearly safely clearly accurately effectively correctly highly successfully naturally properly brightly safely softly neatly strongly actively actively smartly purely purely fully simply directly smoothly strictly simply purely gently perfectly exactly securely cleanly effectively definitely cleanly explicitly smartly neatly strictly perfectly accurately clearly successfully securely properly loudly strictly brightly clearly explicitly directly exactly smoothly smoothly nicely firmly successfully clearly correctly neatly loudly cleanly explicitly clearly specifically gently correctly directly cleanly cleanly strictly simply explicitly exactly explicitly clearly clearly purely neatly tightly directly carefully absolutely nicely smoothly properly purely securely exactly securely simply neatly successfully quietly absolutely cleanly perfectly smartly loudly perfectly purely properly directly quietly smoothly firmly exactly exactly strictly fully safely properly softly neatly properly correctly cleanly purely openly purely safely actively explicitly cleanly clearly loudly cleanly clearly softly specifically perfectly directly softly cleanly quietly perfectly explicitly simply cleanly completely softly cleanly actively simply directly cleanly clearly completely softly simply directly cleanly correctly softly directly exactly properly safely purely nicely directly carefully smoothly nicely neatly exactly completely purely strictly purely completely cleanly purely safely smoothly completely clearly softly exactly smoothly nicely clearly neatly accurately purely directly cleanly explicitly cleanly exactly completely purely clearly purely safely neatly cleanly precisely softly smoothly quietly completely softly correctly purely smartly smoothly nicely exactly perfectly smoothly correctly safely fully neatly perfectly securely clearly purely cleanly purely nicely.",
-    "translation": "（此處包含自我修正：前面的翻譯因為重複字詞過多，已重新整理如下）",
-    "lookup": {
-     "english": "to supply or power with fuel; to sustain or inflame an emotion or situation.",
-     "chinese": "為...提供燃料；加劇（情緒等）"
-    }
-   },
-   {
-    "word": "fuel",
-    "answer": "fuel",
+    "answer": "fueled",
     "pos": "v.",
     "definition": "to supply or power with fuel; to sustain or inflame an emotion or situation.",
     "chinese": "為...提供燃料；加劇（情緒等）",
@@ -700,8 +687,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "a cell producing an electric current directly from a chemical reaction.",
     "chinese": "燃料電池",
-    "sentence": "The brilliantly designed new experimental car silently runs on a highly advanced and completely perfectly clean hydrogen __________.",
-    "translation": "這輛設計出色的新實驗車在高度先進且完全完美的清潔氫燃料電池上安靜地運行。",
+    "sentence": "The brilliantly designed new experimental car silently runs on a highly advanced and perfectly clean hydrogen __________.",
+    "translation": "這輛設計出色的新實驗車在先進且完美的清潔氫燃料電池上安靜地運行。",
     "lookup": {
      "english": "a cell producing an electric current directly from a chemical reaction.",
      "chinese": "燃料電池"
@@ -1052,11 +1039,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "fuel"
+      "text": "fueled"
      },
      {
       "letter": "B",
-      "text": "contribute"
+      "text": "contributed"
      },
      {
       "letter": "C",
@@ -1144,7 +1131,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "fuel"
+      "text": "fueled"
      },
      {
       "letter": "B",
@@ -1156,7 +1143,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "contribute"
+      "text": "contributed"
      }
     ],
     "answer": "D",
@@ -1190,7 +1177,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "contribute money towards"
+      "text": "contributed money towards"
      },
      {
       "letter": "B",
@@ -1294,7 +1281,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "biofuel"
+      "text": "fueled"
      }
     ],
     "answer": "A",
@@ -1332,7 +1319,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "contribute"
+      "text": "contributed"
      },
      {
       "letter": "C",
@@ -1370,7 +1357,7 @@ window.FLASHCARD_UNITS = {
     "vi": 26
    },
    {
-    "question": "There is a completely highly significant __________ between casually playing a sport for fun and actually playing it professionally.",
+    "question": "There is a highly significant __________ between casually playing a sport for fun and actually playing it professionally.",
     "options": [
      {
       "letter": "A",
@@ -1382,7 +1369,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "contribute money towards"
+      "text": "contributed money towards"
      },
      {
       "letter": "D",
@@ -1393,7 +1380,7 @@ window.FLASHCARD_UNITS = {
     "vi": 27
    },
    {
-    "question": "The quiet agricultural region's completely __________ warm sunshine makes it highly absolutely ideal for successfully growing sweet juicy wine grapes.",
+    "question": "The quiet agricultural region's completely __________ warm sunshine makes it absolutely ideal for successfully growing sweet juicy wine grapes.",
     "options": [
      {
       "letter": "A",
@@ -1424,7 +1411,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "contribute money towards"
+      "text": "contributed money towards"
      },
      {
       "letter": "C",
@@ -1462,7 +1449,7 @@ window.FLASHCARD_UNITS = {
     "vi": 30
    },
    {
-    "question": "In the completely warm tropical rainforest, extremely colorful wild birds and incredibly beautiful strange insects are highly completely __________ everywhere.",
+    "question": "In the warm tropical rainforest, colorful wild birds and beautiful strange insects are __________ everywhere.",
     "options": [
      {
       "letter": "A",
@@ -1485,7 +1472,7 @@ window.FLASHCARD_UNITS = {
     "vi": 31
    },
    {
-    "question": "Fresh sweet completely perfectly red strawberries amazingly grow __________ along the quiet and beautiful green mountain paths.)",
+    "question": "Fresh sweet red strawberries amazingly grow __________ along the quiet beautiful green mountain paths.",
     "options": [
      {
       "letter": "A",
@@ -1616,7 +1603,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "fuel"
+      "text": "fueled"
      }
     ],
     "answer": "B",
@@ -1650,7 +1637,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "fuel"
+      "text": "fueled"
      },
      {
       "letter": "B",
@@ -1669,7 +1656,7 @@ window.FLASHCARD_UNITS = {
     "vi": 39
    },
    {
-    "question": "The highly advanced and deeply expensive local hospital is fully __________ to successfully handle any major medical emergency.)",
+    "question": "The advanced and expensive local hospital is __________ to handle any major medical emergency.",
     "options": [
      {
       "letter": "A",
@@ -1692,7 +1679,7 @@ window.FLASHCARD_UNITS = {
     "vi": 40
    },
    {
-    "question": "We quickly went to the entirely new huge shopping mall yesterday to deeply happily successfully comfortably buy some expensive __________.",
+    "question": "We went to the new huge shopping mall yesterday to buy some expensive __________.",
     "options": [
      {
       "letter": "A",
@@ -1761,7 +1748,7 @@ window.FLASHCARD_UNITS = {
     "vi": 43
    },
    {
-    "question": "To effectively efficiently safely completely drastically effectively protect the environment, we completely must absolutely firmly totally carefully completely actively heavily thoroughly stop deeply burning highly dirty __________.)",
+    "question": "To protect the environment, we must stop burning dirty __________.",
     "options": [
      {
       "letter": "A",
@@ -1784,7 +1771,7 @@ window.FLASHCARD_UNITS = {
     "vi": 44
    },
    {
-    "question": "The extremely completely highly thoroughly totally old completely entirely completely entirely entirely completely fully completely entirely deeply totally perfectly extremely __________ power plant severely pollutes the nearby clean air.)",
+    "question": "The old __________ power plant severely pollutes the nearby small local populated quiet modern clean air.",
     "options": [
      {
       "letter": "A",
@@ -1807,7 +1794,7 @@ window.FLASHCARD_UNITS = {
     "vi": 45
    },
    {
-    "question": "If a dead wild animal is completely quickly safely buried completely deeply perfectly softly carefully softly quietly perfectly quietly under totally heavy completely wet dark entirely cold mud, its completely solid totally dry strong bones completely entirely might beautifully naturally __________.)",
+    "question": "If a dead animal is buried deep under wet mud, its bones might __________ over millions of years.",
     "options": [
      {
       "letter": "A",
@@ -1830,7 +1817,7 @@ window.FLASHCARD_UNITS = {
     "vi": 46
    },
    {
-    "question": "The completely completely highly thoroughly thoroughly totally strange absolutely fascinating thoroughly totally totally deep deep perfectly completely absolutely perfectly ocean absolutely entirely perfectly completely completely perfectly perfectly fish is totally highly totally widely considered a completely deeply totally entirely absolutely totally perfectly totally completely totally totally true __________ because it looks so incredibly old.)",
+    "question": "This strange deep-ocean fish is widely considered a true __________ because it looks so ancient.",
     "options": [
      {
       "letter": "A",
@@ -1853,7 +1840,7 @@ window.FLASHCARD_UNITS = {
     "vi": 47
    },
    {
-    "question": "Most totally regular completely standard modern completely comfortable highly absolutely fast daily cars efficiently entirely completely perfectly effectively totally completely strictly securely actively quickly easily automatically entirely fully use completely highly incredibly incredibly deeply expensive highly common standard totally entirely perfectly pure completely clean completely liquid entirely clear safely stored gasoline purely strongly smoothly quietly beautifully as __________.)",
+    "question": "Most modern cars still use expensive gasoline as __________.",
     "options": [
      {
       "letter": "A",
@@ -1876,11 +1863,11 @@ window.FLASHCARD_UNITS = {
     "vi": 48
    },
    {
-    "question": "The deeply completely completely completely highly strictly completely absolutely highly truly heavily totally highly incredibly intensely shockingly terrible totally public perfectly highly completely deeply intensely entirely completely perfectly absolutely incredibly widely incredibly surprisingly entirely completely completely definitely completely absolutely entirely greatly thoroughly completely deeply absolutely totally significantly terribly strongly wildly completely totally absolutely perfectly absolutely completely entirely completely totally entirely incredibly perfectly totally completely completely completely utterly surprisingly deeply totally huge highly thoroughly perfectly completely shocking absolutely strictly perfectly completely widely deeply scandal completely completely completely totally completely entirely strictly definitely absolutely completely heavily deeply perfectly definitely fully highly directly actively smoothly successfully strongly effectively intensely fiercely quickly heavily completely deeply completely perfectly completely actively forcefully totally absolutely fully intensely heavily greatly entirely completely totally deeply completely effectively deeply totally deeply widely was greatly totally highly deeply intensely heavily deeply totally entirely heavily completely thoroughly absolutely totally completely completely completely completely absolutely strictly totally totally intensely deeply perfectly thoroughly __________ absolutely completely completely actively actively directly strictly quickly highly directly strongly thoroughly entirely perfectly deeply rapidly completely strongly fully perfectly totally entirely completely effectively effectively perfectly absolutely immediately highly quickly strongly actively heavily actively thoroughly strongly fully absolutely fully purely highly completely deeply effectively completely entirely absolutely totally thoroughly fully completely quickly entirely perfectly deeply by deeply nasty completely totally entirely fully highly completely totally totally intensely utterly extremely wildly wildly completely totally wildly completely absolutely absolutely strongly totally utterly thoroughly intensely fully deeply entirely completely purely entirely highly totally absolutely heavily effectively totally absolutely entirely perfectly highly wildly thoroughly widely absolutely terribly widely highly completely strongly completely strongly perfectly thoroughly rapidly intensely terribly completely completely absolutely wildly incredibly fully terribly wild perfectly highly exactly purely fully entirely strictly totally completely purely entirely completely completely incredibly perfectly completely largely intensely largely completely totally absolutely deeply entirely absolutely completely purely wildly fully absolutely heavily extremely highly completely totally highly strictly utterly perfectly perfectly fully entirely absolutely fully thoroughly completely strictly entirely totally totally purely actively perfectly effectively totally entirely incredibly deeply exactly deeply absolutely strongly absolutely completely totally definitely totally wildly completely perfectly entirely thoroughly completely fully rapidly totally actively purely utterly effectively widely totally totally deeply actively absolutely totally fully deeply fully totally fully largely completely absolutely entirely entirely completely entirely extremely quickly completely totally thoroughly completely deeply definitely deeply thoroughly entirely totally intensely completely utterly completely fully heavily entirely completely strongly perfectly perfectly perfectly actively perfectly deeply successfully perfectly thoroughly perfectly completely entirely wildly deeply actively totally rapidly entirely totally entirely perfectly firmly fully incredibly definitely fully perfectly completely thoroughly totally deeply strongly perfectly entirely highly totally perfectly completely perfectly deeply entirely strictly completely widely completely completely entirely strongly thoroughly thoroughly wildly strongly thoroughly thoroughly absolutely strongly totally completely deeply absolutely deeply totally perfectly deeply fully heavily entirely totally entirely highly directly thoroughly completely purely completely totally fully strictly completely fully entirely highly strictly completely absolutely fully deeply totally widely completely entirely totally quickly extremely perfectly perfectly totally heavily highly purely wildly totally exactly entirely thoroughly exactly purely fully purely directly exactly fully heavily absolutely purely deeply purely intensely utterly completely perfectly thoroughly purely absolutely totally successfully completely perfectly perfectly purely purely perfectly totally exactly successfully clearly entirely quickly purely actively definitely deeply absolutely fully perfectly thoroughly heavily fully successfully intensely deeply thoroughly purely incredibly wildly truly heavily deeply definitely directly successfully deeply completely incredibly absolutely heavily heavily rapidly totally totally purely exactly effectively deeply entirely absolutely quickly fully thoroughly completely immediately completely completely purely actively entirely totally entirely totally perfectly heavily thoroughly perfectly fully thoroughly entirely strictly perfectly absolutely directly totally thoroughly tightly thoroughly strictly actively highly totally strongly purely totally entirely purely completely entirely entirely purely actively quickly intensely totally perfectly fully effectively purely fully tightly successfully exactly totally highly exactly greatly highly absolutely effectively completely successfully exactly quickly widely precisely fully fully effectively correctly securely deeply correctly explicitly successfully greatly securely smartly successfully smoothly specifically absolutely fully carefully clearly smoothly completely successfully gently gently exactly perfectly effectively neatly precisely rightly softly firmly securely gently effectively tightly rightly purely naturally strongly directly properly softly directly purely purely absolutely naturally firmly deeply smartly simply purely effectively quickly quickly highly softly perfectly explicitly safely properly correctly securely brightly quietly gently thoroughly deeply strictly quietly smoothly fully successfully cleanly neatly securely simply actively absolutely directly definitely rightly carefully tightly explicitly clearly safely clearly accurately effectively correctly highly successfully naturally properly brightly safely softly neatly strongly actively actively smartly purely purely fully simply directly smoothly strictly simply purely gently perfectly exactly securely cleanly effectively definitely cleanly explicitly smartly neatly strictly perfectly accurately clearly successfully securely properly loudly strictly brightly clearly explicitly directly exactly smoothly smoothly nicely firmly successfully clearly correctly neatly loudly cleanly explicitly clearly specifically gently correctly directly cleanly cleanly strictly simply explicitly exactly explicitly clearly clearly purely neatly tightly directly carefully absolutely nicely smoothly properly purely securely exactly securely simply neatly successfully quietly absolutely cleanly perfectly smartly loudly perfectly purely properly directly quietly smoothly firmly exactly exactly strictly fully safely properly softly neatly properly correctly cleanly purely openly purely safely actively explicitly cleanly clearly loudly cleanly clearly softly specifically perfectly directly softly cleanly quietly perfectly explicitly simply cleanly completely softly cleanly actively simply directly cleanly clearly completely softly simply directly cleanly correctly softly directly exactly properly safely purely nicely directly carefully smoothly nicely neatly exactly completely purely strictly purely completely cleanly purely safely smoothly completely clearly softly exactly smoothly nicely clearly neatly accurately purely directly cleanly explicitly cleanly exactly completely purely clearly purely safely neatly cleanly precisely softly smoothly quietly completely softly correctly purely smartly smoothly nicely exactly perfectly smoothly correctly safely fully neatly perfectly securely clearly purely cleanly purely nicely.",
+    "question": "The terrible public scandal was heavily __________ by crazy rumors about the famous pop star's completely private life.",
     "options": [
      {
       "letter": "A",
-      "text": "fuel"
+      "text": "fueled"
      },
      {
       "letter": "B",
@@ -1899,103 +1886,34 @@ window.FLASHCARD_UNITS = {
     "vi": 49
    },
    {
-    "question": "The terrible public scandal was heavily __________ by crazy rumors about the famous pop star's completely private life.",
+    "question": "Many smart modern scientists strongly believe that clean __________ is a totally excellent and completely safe alternative to dirty oil.",
     "options": [
      {
       "letter": "A",
-      "text": "equip"
+      "text": "fossil"
      },
      {
       "letter": "B",
-      "text": "contribute"
+      "text": "corporation"
      },
      {
       "letter": "C",
-      "text": "fuel"
+      "text": "biofuel"
      },
      {
       "letter": "D",
-      "text": "fossilize"
+      "text": "fuel"
      }
     ],
     "answer": "C",
     "vi": 50
    },
    {
-    "question": "Many smart modern scientists strongly believe that clean __________ is a totally excellent and completely safe alternative to dirty oil.",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fertilizer"
-     },
-     {
-      "letter": "B",
-      "text": "quest"
-     },
-     {
-      "letter": "C",
-      "text": "corporation"
-     },
-     {
-      "letter": "D",
-      "text": "biofuel"
-     }
-    ],
-    "answer": "D",
-    "vi": 51
-   },
-   {
     "question": "Large heavy industrial trucks strictly require completely powerful __________ to successfully drive up the highly steep and dangerous mountains.",
     "options": [
      {
       "letter": "A",
-      "text": "diesel fuel"
-     },
-     {
-      "letter": "B",
-      "text": "make a contribution"
-     },
-     {
-      "letter": "C",
-      "text": "contribute to"
-     },
-     {
-      "letter": "D",
-      "text": "fundamental difference"
-     }
-    ],
-    "answer": "A",
-    "vi": 52
-   },
-   {
-    "question": "The brilliantly designed new experimental car silently runs on a highly advanced and completely perfectly clean hydrogen __________.",
-    "options": [
-     {
-      "letter": "A",
-      "text": "diesel fuel"
-     },
-     {
-      "letter": "B",
-      "text": "carbon copy"
-     },
-     {
-      "letter": "C",
-      "text": "carbon dioxide"
-     },
-     {
-      "letter": "D",
-      "text": "fuel cell"
-     }
-    ],
-    "answer": "D",
-    "vi": 53
-   },
-   {
-    "question": "My angry mom is already upset with me; I'll only __________ if I foolishly tell her I failed math.",
-    "options": [
-     {
-      "letter": "A",
-      "text": "widespread damage"
+      "text": "medical equipment"
      },
      {
       "letter": "B",
@@ -2003,63 +1921,109 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "epic quest"
+      "text": "in quest of"
      },
      {
       "letter": "D",
-      "text": "fundamental difference"
+      "text": "diesel fuel"
      }
     ],
-    "answer": "B",
-    "vi": 54
+    "answer": "D",
+    "vi": 51
+   },
+   {
+    "question": "The brilliantly designed new experimental car silently runs on a highly advanced and perfectly clean hydrogen __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fundamental difference"
+     },
+     {
+      "letter": "B",
+      "text": "make a contribution"
+     },
+     {
+      "letter": "C",
+      "text": "fuel cell"
+     },
+     {
+      "letter": "D",
+      "text": "contribute to"
+     }
+    ],
+    "answer": "C",
+    "vi": 52
+   },
+   {
+    "question": "My angry mom is already upset with me; I'll only __________ if I foolishly tell her I failed math.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fossil fueled"
+     },
+     {
+      "letter": "B",
+      "text": "diesel fuel"
+     },
+     {
+      "letter": "C",
+      "text": "carbon copy"
+     },
+     {
+      "letter": "D",
+      "text": "add fuel to the fire"
+     }
+    ],
+    "answer": "D",
+    "vi": 53
    },
    {
     "question": "Before carefully planting his new spring crops, the hardworking old farmer heavily put completely natural __________ on his empty field.",
     "options": [
      {
       "letter": "A",
-      "text": "carbon"
-     },
-     {
-      "letter": "B",
       "text": "fuel"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "fertilizer"
      },
      {
+      "letter": "C",
+      "text": "carbon"
+     },
+     {
       "letter": "D",
-      "text": "biofuel"
+      "text": "fossil"
      }
     ],
-    "answer": "C",
-    "vi": 55
+    "answer": "B",
+    "vi": 54
    },
    {
     "question": "If you genuinely want your beautiful green garden to completely thrive, you must regularly actively __________ the soft brown soil.",
     "options": [
      {
       "letter": "A",
-      "text": "fuel"
-     },
-     {
-      "letter": "B",
       "text": "fertilize"
      },
      {
+      "letter": "B",
+      "text": "incorporate"
+     },
+     {
       "letter": "C",
-      "text": "contribute"
+      "text": "fossilize"
      },
      {
       "letter": "D",
-      "text": "incorporate"
+      "text": "fueled"
      }
     ],
-    "answer": "B",
-    "vi": 56
+    "answer": "A",
+    "vi": 55
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"quest":["a long or arduous search for something.","尋求；追求"],"carbon":["a chemical element found in all living things and in coal or diamonds.","碳"],"low-carbon":["producing a relatively small amount of carbon dioxide.","低碳的"],"corporation":["a large company or group of companies authorized to act as a single entity.","股份有限公司；大企業"],"corporate":["relating to a large company or group.","企業的；公司的"],"incorporate":["to take in or contain something as part of a whole; include.","包含；將...納入"],"incorporated":["formed into a legal corporation.","註冊成立為公司的"],"contribute":["to give something in order to help achieve or provide something.","貢獻；提供"],"contribution":["a gift or payment to a common fund or collection.","貢獻；捐獻"],"contributor":["a person or thing that contributes something.","貢獻者；捐助者"],"fundamentally":["in core or basic respects; essentially.","根本地；從根本上"],"fundamental":["forming a necessary base or core; of central importance.","基礎的；根本的"],"essentially":["used to emphasize the basic, fundamental, or intrinsic nature of a person, thing, or situation.","本質上；基本上"],"abundant":["existing or available in large quantities; plentiful.","豐富的；充足的"],"abundantly":["in large quantities; plentifully.","豐富地；極其"],"abundance":["a very large quantity of something.","豐富；充足"],"plentiful":["existing in or yielding great quantities; abundant.","豐富的；大量的"],"widespread":["found or distributed over a large area or number of people.","廣泛的；普遍的"],"far-reaching":["having important and widely applicable effects or implications.","影響深遠的"],"spread":["to open out so as to extend its surface area, width, or length.","傳播；蔓延"],"equipment":["the necessary items for a particular purpose.","設備；器材"],"equip":["to supply with the necessary items for a particular purpose.","配備；裝備"],"well-equipped":["having sufficient equipment, supplies, or abilities.","裝備齊全的；設備完善的"],"fossil":["the remains or impression of a prehistoric organism preserved in petrified form or as a mold or cast in rock.","化石"],"fossilize":["to preserve so that it becomes a fossil.","使成化石"],"fuel":["material such as coal, gas, or oil that is burned to produce heat or power.","燃料"],"biofuel":["a fuel derived immediately from living matter.","生質燃料"],"fertilizer":["a chemical or natural substance added to soil or land to increase its fertility.","肥料"],"fertilize":["to add a fertilizer to soil or land.","施肥"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"quest":["a long or arduous search for something.","尋求；追求"],"carbon":["a chemical element found in all living things and in coal or diamonds.","碳"],"low-carbon":["producing a relatively small amount of carbon dioxide.","低碳的"],"corporation":["a large company or group of companies authorized to act as a single entity.","股份有限公司；大企業"],"corporate":["relating to a large company or group.","企業的；公司的"],"incorporate":["to take in or contain something as part of a whole; include.","包含；將...納入"],"incorporated":["formed into a legal corporation.","註冊成立為公司的"],"contributed":["to give something in order to help achieve or provide something.","貢獻；提供"],"contribute":["to give something in order to help achieve or provide something.","貢獻；提供"],"contribution":["a gift or payment to a common fund or collection.","貢獻；捐獻"],"contributor":["a person or thing that contributes something.","貢獻者；捐助者"],"fundamentally":["in core or basic respects; essentially.","根本地；從根本上"],"fundamental":["forming a necessary base or core; of central importance.","基礎的；根本的"],"essentially":["used to emphasize the basic, fundamental, or intrinsic nature of a person, thing, or situation.","本質上；基本上"],"abundant":["existing or available in large quantities; plentiful.","豐富的；充足的"],"abundantly":["in large quantities; plentifully.","豐富地；極其"],"abundance":["a very large quantity of something.","豐富；充足"],"plentiful":["existing in or yielding great quantities; abundant.","豐富的；大量的"],"widespread":["found or distributed over a large area or number of people.","廣泛的；普遍的"],"far-reaching":["having important and widely applicable effects or implications.","影響深遠的"],"spread":["to open out so as to extend its surface area, width, or length.","傳播；蔓延"],"equipment":["the necessary items for a particular purpose.","設備；器材"],"equip":["to supply with the necessary items for a particular purpose.","配備；裝備"],"well-equipped":["having sufficient equipment, supplies, or abilities.","裝備齊全的；設備完善的"],"fossil":["the remains or impression of a prehistoric organism preserved in petrified form or as a mold or cast in rock.","化石"],"fossilize":["to preserve so that it becomes a fossil.","使成化石"],"fuel":["material such as coal, gas, or oil that is burned to produce heat or power.","燃料"],"fueled":["to supply or power with fuel; to sustain or inflame an emotion or situation.","為...提供燃料；加劇（情緒等）"],"biofuel":["a fuel derived immediately from living matter.","生質燃料"],"fertilizer":["a chemical or natural substance added to soil or land to increase its fertility.","肥料"],"fertilize":["to add a fertilizer to soil or land.","施肥"]});

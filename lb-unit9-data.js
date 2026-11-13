@@ -344,7 +344,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "bloom",
-    "answer": "bloom",
+    "answer": "blooming",
     "pos": "v. / n.",
     "definition": "to produce flowers; a flower, especially one cultivated for its beauty.",
     "chinese": "開花；花朵",
@@ -382,8 +382,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "blooming thriving",
-    "answer": "blooming thriving",
+    "word": "blooming / thriving",
+    "answer": "thriving",
     "pos": "adj.",
     "definition": "producing flowers; flourishing.",
     "chinese": "盛開的；繁榮的",
@@ -656,12 +656,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "attach",
-    "answer": "attach",
+    "answer": "attached",
     "pos": "v.",
     "definition": "to fasten or join one thing to another.",
     "chinese": "貼上；附加",
     "sentence": "Rick carefully __________ the important medical note to the kitchen fridge with a heavy magnet so his wife would definitely see it.",
-    "translation": "瑞克小心地用一塊重磁鐵將重要的醫療紙條**貼（附加）**在廚房冰箱上，這樣他妻子絕對會看到它。",
+    "translation": "瑞克小心地用一塊重磁鐵將重要的醫療紙條貼（附加）在廚房冰箱上，這樣他妻子絕對會看到它。",
     "lookup": {
      "english": "to fasten or join one thing to another.",
      "chinese": "貼上；附加"
@@ -721,7 +721,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "be attached to",
-    "answer": "is deeply attached to",
+    "answer": "was deeply attached to",
     "pos": "phr.",
     "definition": "To feel a strong emotional connection, affection, or loyalty to someone or something.",
     "chinese": "依戀…、對…有深厚的感情",
@@ -760,7 +760,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "have a reputation for",
-    "answer": "have a excellent reputation for",
+    "answer": "has an excellent reputation for",
     "pos": "phr.",
     "definition": "to be known for a particular quality or characteristic.",
     "chinese": "以...聞名/有...的名聲",
@@ -773,7 +773,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "drag somebody's reputation through the mud",
-    "answer": "drag somebody's reputation through the mud",
+    "answer": "dragged the innocent mayor's reputation through the mud",
     "pos": "phr.",
     "definition": "to publicly ruin or deeply damage someone's good name.",
     "chinese": "使某人名譽掃地",
@@ -825,7 +825,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "stem from",
-    "answer": "stem from",
+    "answer": "stemmed from",
     "pos": "phr.",
     "definition": "to be caused by or originate from something.",
     "chinese": "源自於",
@@ -851,7 +851,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "originate from",
-    "answer": "originate from",
+    "answer": "originated from",
     "pos": "phr.",
     "definition": "To come from a particular place, time, or situation; to have a specific beginning.",
     "chinese": "源自、發源於",
@@ -890,7 +890,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "as a result of",
-    "answer": "as a result of",
+    "answer": "As a result of",
     "pos": "phr.",
     "definition": "Because of something that has happened (Used before a noun phrase cause).",
     "chinese": "由於…的結果、因為",
@@ -973,7 +973,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Lasting for a long time or forever; not temporary.",
     "chinese": "永久的、固定的、長期的",
     "sentence": "After working as a temporary freelancer for two years, David was thrilled to finally receive an offer for a __________ position at the marketing company.",
-    "translation": "在擔任了兩年的兼職接案人員後，大衛興高采烈地終於獲得了這家行銷公司**固定（永久）**職位的錄取通知。",
+    "translation": "在擔任了兩年的兼職接案人員後，大衛興高采烈地終於獲得了這家行銷公司固定（永久）職位的錄取通知。",
     "lookup": {
      "english": "Lasting for a long time or forever; not temporary.",
      "chinese": "永久的、固定的、長期的"
@@ -1012,7 +1012,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Lasting for only a short or limited time; not permanent.",
     "chinese": "暫時的、臨時的",
     "sentence": "The store set up a __________ counter near the entrance to sell holiday gifts, but it will be removed once the Christmas season is over.",
-    "translation": "這家店在入口附近設置了一個**暫時的（臨時的）**櫃檯來販售節日禮物，但一旦聖誕節結束，它就會被拆除。",
+    "translation": "這家店在入口附近設置了一個暫時的（臨時的）櫃檯來販售節日禮物，但一旦聖誕節結束，它就會被拆除。",
     "lookup": {
      "english": "Lasting for only a short or limited time; not permanent.",
      "chinese": "暫時的、臨時的"
@@ -1072,7 +1072,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "sacrifice",
-    "answer": "sacrifice",
+    "answer": "sacrificed",
     "pos": "v.",
     "definition": "to give up something valued for the sake of other considerations.",
     "chinese": "犧牲",
@@ -1124,12 +1124,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "esteem",
-    "answer": "esteem",
+    "answer": "esteemed",
     "pos": "n. / v.",
     "definition": "respect and admiration, typically for a person.",
     "chinese": "尊重；評價",
     "sentence": "Talented Tiger Woods is widely __________ by millions of fans as being undoubtedly one of the best and most famous golfers in the world.",
-    "translation": "才華洋溢的老虎伍茲被數百萬粉絲廣泛**評價（尊重）**為無疑是世界上最好、最著名的高爾夫球手之一。",
+    "translation": "才華洋溢的老虎伍茲被數百萬粉絲廣泛評價（尊重）為無疑是世界上最好、最著名的高爾夫球手之一。",
     "lookup": {
      "english": "respect and admiration, typically for a person.",
      "chinese": "尊重；評價"
@@ -1163,7 +1163,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "convey",
-    "answer": "convey",
+    "answer": "conveyed",
     "pos": "v.",
     "definition": "to make an idea, impression, or feeling known or understandable to someone.",
     "chinese": "傳達",
@@ -1194,7 +1194,7 @@ window.FLASHCARD_UNITS = {
     "definition": "a person or thing that transports or communicates something.",
     "chinese": "傳達者；運輸工具",
     "sentence": "The highly energetic teacher proudly acted as a passionate __________ of valuable historical knowledge to her young, eager students during the class.",
-    "translation": "這位精力充沛的老師在課堂上自豪地扮演著為她年輕、熱切的學生充滿熱情地**傳達（者）**寶貴歷史知識的角色。",
+    "translation": "這位精力充沛的老師在課堂上自豪地扮演著為她年輕、熱切的學生充滿熱情地傳達（者）寶貴歷史知識的角色。",
     "lookup": {
      "english": "a person or thing that transports or communicates something.",
      "chinese": "傳達者；運輸工具"
@@ -1663,7 +1663,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "esteem"
+      "text": "esteemed"
      }
     ],
     "answer": "A",
@@ -1701,7 +1701,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "attach"
+      "text": "attached"
      },
      {
       "letter": "C",
@@ -1720,11 +1720,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "attach"
+      "text": "attached"
      },
      {
       "letter": "B",
-      "text": "convey"
+      "text": "conveyed"
      },
      {
       "letter": "C",
@@ -1755,7 +1755,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "stem from"
+      "text": "stemmed from"
      }
     ],
     "answer": "B",
@@ -1778,7 +1778,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "bloom"
+      "text": "blooming"
      }
     ],
     "answer": "A",
@@ -1812,7 +1812,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "bloom"
+      "text": "blooming"
      },
      {
       "letter": "B",
@@ -2050,7 +2050,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "have a excellent reputation for"
+      "text": "has an excellent reputation for"
      },
      {
       "letter": "D",
@@ -2073,7 +2073,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "bloom"
+      "text": "blooming"
      },
      {
       "letter": "D",
@@ -2100,7 +2100,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "stem from"
+      "text": "stemmed from"
      }
     ],
     "answer": "B",
@@ -2119,7 +2119,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "drag somebody's reputation through the mud"
+      "text": "dragged the innocent mayor's reputation through the mud"
      },
      {
       "letter": "D",
@@ -2138,7 +2138,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "blooming thriving"
+      "text": "thriving"
      },
      {
       "letter": "C",
@@ -2180,7 +2180,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "stem from"
+      "text": "stemmed from"
      },
      {
       "letter": "B",
@@ -2318,7 +2318,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "esteem"
+      "text": "esteemed"
      },
      {
       "letter": "B",
@@ -2368,7 +2368,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "drag somebody's reputation through the mud"
+      "text": "dragged the innocent mayor's reputation through the mud"
      },
      {
       "letter": "C",
@@ -2537,7 +2537,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "esteem"
+      "text": "esteemed"
      }
     ],
     "answer": "A",
@@ -2571,11 +2571,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "have a excellent reputation for"
+      "text": "has an excellent reputation for"
      },
      {
       "letter": "B",
-      "text": "stem from"
+      "text": "stemmed from"
      },
      {
       "letter": "C",
@@ -2594,7 +2594,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "originate from"
+      "text": "originated from"
      },
      {
       "letter": "B",
@@ -2617,11 +2617,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "attach"
+      "text": "attached"
      },
      {
       "letter": "B",
-      "text": "sacrifice"
+      "text": "sacrificed"
      },
      {
       "letter": "C",
@@ -2644,7 +2644,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "esteem"
+      "text": "esteemed"
      },
      {
       "letter": "C",
@@ -2744,7 +2744,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "is deeply attached to"
+      "text": "was deeply attached to"
      }
     ],
     "answer": "D",
@@ -2801,7 +2801,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "have a excellent reputation for"
+      "text": "has an excellent reputation for"
      },
      {
       "letter": "B",
@@ -2836,7 +2836,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "drag somebody's reputation through the mud"
+      "text": "dragged the innocent mayor's reputation through the mud"
      }
     ],
     "answer": "D",
@@ -2924,7 +2924,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "stem from"
+      "text": "stemmed from"
      },
      {
       "letter": "D",
@@ -2962,7 +2962,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "originate from"
+      "text": "originated from"
      },
      {
       "letter": "B",
@@ -2970,7 +2970,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "stem from"
+      "text": "stemmed from"
      },
      {
       "letter": "D",
@@ -2989,7 +2989,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "have a excellent reputation for"
+      "text": "has an excellent reputation for"
      },
      {
       "letter": "C",
@@ -3008,7 +3008,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "is deeply attached to"
+      "text": "was deeply attached to"
      },
      {
       "letter": "B",
@@ -3035,7 +3035,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "as a result of"
+      "text": "As a result of"
      },
      {
       "letter": "C",
@@ -3315,7 +3315,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "have a excellent reputation for"
+      "text": "has an excellent reputation for"
      },
      {
       "letter": "D",
@@ -3361,7 +3361,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "sacrifice"
+      "text": "sacrificed"
      },
      {
       "letter": "D",
@@ -3388,7 +3388,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "blooming thriving"
+      "text": "thriving"
      }
     ],
     "answer": "B",
@@ -3403,7 +3403,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "is deeply attached to"
+      "text": "was deeply attached to"
      },
      {
       "letter": "C",
@@ -3449,7 +3449,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "esteem"
+      "text": "esteemed"
      },
      {
       "letter": "C",
@@ -3522,11 +3522,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "convey"
+      "text": "conveyed"
      },
      {
       "letter": "D",
-      "text": "attach"
+      "text": "attached"
      }
     ],
     "answer": "C",
@@ -3779,7 +3779,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "convey"
+      "text": "conveyed"
      }
     ],
     "answer": "B",
@@ -3848,7 +3848,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "sacrifice"
+      "text": "sacrificed"
      }
     ],
     "answer": "A",
@@ -3905,7 +3905,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "convey"
+      "text": "conveyed"
      },
      {
       "letter": "B",
@@ -4041,4 +4041,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"nation":["a large body of people united by common descent, history, culture, or language.","國家"],"national":["relating to or characteristic of a nation.","國家的；全國的"],"nationality":["the status of belonging to a particular nation.","國籍"],"internationally":["in, between, or among many different nations.","國際地"],"state":["a nation or territory considered as an organized political community under one government","國家；州"],"state-run":["operated, managed, or funded directly by the government or official authorities of a country","國營的；政府開辦的"],"statement":["a definite or official expression of something in speech or writing, or a formal account of facts","聲明；陳述（名詞）"],"proclaim":["to announce or declare something officially, publicly, and proudly, especially a major victory or law","宣告；宣佈；讚揚"],"declare":["to formally, solemnly, or officially state a fact, intention, or legal condition to the public","宣布；宣告；申報"],"declaration":["a formal, official, or explicit announcement of an intention, political state, or legal fact","宣告；宣言；申報書"],"possess":["to have as belonging to one; own.","擁有"],"possession":["the state of having, owning, or controlling something.","擁有；所有物"],"spiritual":["relating to or affecting the human spirit or soul as opposed to material or physical things.","精神上的；心靈的"],"spiritually":["in a way that relates to the human spirit or soul.","精神上地"],"spirit":["the nonphysical part of a person which is the seat of emotions and character.","精神；靈魂"],"physical":["relating to the body as opposed to the mind.","身體的；物理的"],"imperial":["relating to an empire or an emperor.","帝國的；皇帝的"],"imperialism":["a policy of extending a country's power and influence through diplomacy or military force.","帝國主義"],"emperor":["a sovereign ruler of great power and rank, especially one ruling an empire.","皇帝"],"empire":["an extensive group of states or countries under a single supreme authority.","帝國"],"bloom":["to produce flowers; a flower, especially one cultivated for its beauty.","開花；花朵"],"blossom":["a flower or a mass of flowers; to produce flowers.","花朵；開花"],"strength":["the quality or state of being physically strong.","力量；優點"],"strengthen":["to make or become stronger.","加強；鞏固"],"throne":["a ceremonial chair for a sovereign, bishop, or similar figure.","王座"],"reference":["the action of mentioning or alluding to something.","參考；提及"],"view...as":["To think about or consider someone or something in a particular way.","把…視為、將…看作"],"see...as":["To consider or regard someone or something in a specific way.","把…看作、將…視為"],"regard...as":["To think of someone or something with a specific feeling or opinion.","把…視為、認為…是"],"currency":["a system of money in general use in a particular country.","貨幣"],"attach":["to fasten or join one thing to another.","貼上；附加"],"attachment":["an extra part or extension that is or can be attached to something.","附件；依戀"],"attached":["joined, fastened, or connected to something.","附上的；依戀的"],"detached":["Emotionally distant, cool, or not showing any personal involvement or feelings.","不帶感情的、冷漠的、超然的"],"reputation":["the beliefs or opinions that are generally held about someone or something.","名聲"],"reputable":["having a good reputation.","聲譽卓著的"],"reputed":["generally believed to be a certain way, though not necessarily proven.","據說的；被普遍認為的"],"eternal":["lasting or existing forever; without end or beginning.","永恆的"],"eternity":["infinite or unending time.","永恆；漫長的時間"],"immortal":["living forever; never dying or decaying.","不朽的；長生不老的"],"permanent":["Lasting for a long time or forever; not temporary.","永久的、固定的、長期的"],"permanently":["In a way that lasts forever or for a very long time without changing.","永久地、長期地"],"temporary":["Lasting for only a short or limited time; not permanent.","暫時的、臨時的"],"temporarily":["For a short or limited time; not permanently.","暫時地、臨時地"],"glory":["high renown or honor won by notable achievements.","榮耀"],"glorious":["having, worthy of, or bringing fame or admiration.","輝煌的；壯麗的"],"sacrifice":["to give up something valued for the sake of other considerations.","犧牲"],"esteem":["respect and admiration, typically for a person.","尊重；評價"],"esteemed":["highly respected or admired.","受人尊敬的"],"self-esteem":["confidence in one's own worth or abilities; self-respect.","自尊"],"convey":["to make an idea, impression, or feeling known or understandable to someone.","傳達"],"conveyor":["a person or thing that transports or communicates something.","傳達者；運輸工具"],"delicate":["very fine in texture or structure; of intricate workmanship or quality.","精緻的；脆弱的"],"delicacy":["a choice or expensive food.","佳餚；珍饈"],"delicately":["in a very careful or finely skilled manner.","精緻地；小心翼翼地"],"firm":["having a solid, almost unyielding surface or structure.","堅固的；堅定的"],"evaluate":["to form an idea of the amount, number, or value of something after careful appraisal","評估；評價（動詞）"],"evaluation":["the making of a judgment about the amount, number, or value of something; assessment","評估；評價（名詞）"],"evaluated":["having been judged or calculated carefully regarding worth, quality, or significance","被評估的；已評估的"],"assess":["to officially judge or decide the amount, value, quality, or importance of a situation or tax","評定；評估；核定（動詞）"],"assessment":["the factual act of judging or deciding the amount, value, quality, or importance of something","評定；評估（名詞）"],"assessed":["evaluated or officially charged with a specific value, property tax, or level of performance","被評定的；已評估的"],"access":["to open, obtain, or gain entry to a specific digital file, database, secure network, or physical location","讀取；進入；接近（動詞）"],"accessible":["easy to approach, enter, obtain, use, or understand for various individuals or devices","可接近的；可進入的；易懂的"],"available":["able to be used, obtained, or accessed smoothly, or being free to do something or meet someone","可獲得的；可利用的；有空的"],"unavailable":["not able to be used, obtained, or accessed at the moment, or being too busy to attend a meeting","無法獲得的；沒空的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"nation":["a large body of people united by common descent, history, culture, or language.","國家"],"national":["relating to or characteristic of a nation.","國家的；全國的"],"nationality":["the status of belonging to a particular nation.","國籍"],"internationally":["in, between, or among many different nations.","國際地"],"state":["a nation or territory considered as an organized political community under one government","國家；州"],"state-run":["operated, managed, or funded directly by the government or official authorities of a country","國營的；政府開辦的"],"statement":["a definite or official expression of something in speech or writing, or a formal account of facts","聲明；陳述（名詞）"],"proclaim":["to announce or declare something officially, publicly, and proudly, especially a major victory or law","宣告；宣佈；讚揚"],"declare":["to formally, solemnly, or officially state a fact, intention, or legal condition to the public","宣布；宣告；申報"],"declaration":["a formal, official, or explicit announcement of an intention, political state, or legal fact","宣告；宣言；申報書"],"possess":["to have as belonging to one; own.","擁有"],"possession":["the state of having, owning, or controlling something.","擁有；所有物"],"spiritual":["relating to or affecting the human spirit or soul as opposed to material or physical things.","精神上的；心靈的"],"spiritually":["in a way that relates to the human spirit or soul.","精神上地"],"spirit":["the nonphysical part of a person which is the seat of emotions and character.","精神；靈魂"],"physical":["relating to the body as opposed to the mind.","身體的；物理的"],"imperial":["relating to an empire or an emperor.","帝國的；皇帝的"],"imperialism":["a policy of extending a country's power and influence through diplomacy or military force.","帝國主義"],"emperor":["a sovereign ruler of great power and rank, especially one ruling an empire.","皇帝"],"empire":["an extensive group of states or countries under a single supreme authority.","帝國"],"bloom":["to produce flowers; a flower, especially one cultivated for its beauty.","開花；花朵"],"blooming":["to produce flowers; a flower, especially one cultivated for its beauty.","開花；花朵"],"thriving":["producing flowers; flourishing.","盛開的；繁榮的"],"blossom":["a flower or a mass of flowers; to produce flowers.","花朵；開花"],"strength":["the quality or state of being physically strong.","力量；優點"],"strengthen":["to make or become stronger.","加強；鞏固"],"throne":["a ceremonial chair for a sovereign, bishop, or similar figure.","王座"],"reference":["the action of mentioning or alluding to something.","參考；提及"],"view...as":["To think about or consider someone or something in a particular way.","把…視為、將…看作"],"see...as":["To consider or regard someone or something in a specific way.","把…看作、將…視為"],"regard...as":["To think of someone or something with a specific feeling or opinion.","把…視為、認為…是"],"currency":["a system of money in general use in a particular country.","貨幣"],"attached":["to fasten or join one thing to another.","貼上；附加"],"attach":["to fasten or join one thing to another.","貼上；附加"],"attachment":["an extra part or extension that is or can be attached to something.","附件；依戀"],"detached":["Emotionally distant, cool, or not showing any personal involvement or feelings.","不帶感情的、冷漠的、超然的"],"reputation":["the beliefs or opinions that are generally held about someone or something.","名聲"],"reputable":["having a good reputation.","聲譽卓著的"],"reputed":["generally believed to be a certain way, though not necessarily proven.","據說的；被普遍認為的"],"eternal":["lasting or existing forever; without end or beginning.","永恆的"],"eternity":["infinite or unending time.","永恆；漫長的時間"],"immortal":["living forever; never dying or decaying.","不朽的；長生不老的"],"permanent":["Lasting for a long time or forever; not temporary.","永久的、固定的、長期的"],"permanently":["In a way that lasts forever or for a very long time without changing.","永久地、長期地"],"temporary":["Lasting for only a short or limited time; not permanent.","暫時的、臨時的"],"temporarily":["For a short or limited time; not permanently.","暫時地、臨時地"],"glory":["high renown or honor won by notable achievements.","榮耀"],"glorious":["having, worthy of, or bringing fame or admiration.","輝煌的；壯麗的"],"sacrificed":["to give up something valued for the sake of other considerations.","犧牲"],"sacrifice":["to give up something valued for the sake of other considerations.","犧牲"],"esteemed":["respect and admiration, typically for a person.","尊重；評價"],"esteem":["respect and admiration, typically for a person.","尊重；評價"],"self-esteem":["confidence in one's own worth or abilities; self-respect.","自尊"],"convey":["to make an idea, impression, or feeling known or understandable to someone.","傳達"],"conveyed":["to make an idea, impression, or feeling known or understandable to someone.","傳達"],"conveyor":["a person or thing that transports or communicates something.","傳達者；運輸工具"],"delicate":["very fine in texture or structure; of intricate workmanship or quality.","精緻的；脆弱的"],"delicacy":["a choice or expensive food.","佳餚；珍饈"],"delicately":["in a very careful or finely skilled manner.","精緻地；小心翼翼地"],"firm":["having a solid, almost unyielding surface or structure.","堅固的；堅定的"],"evaluate":["to form an idea of the amount, number, or value of something after careful appraisal","評估；評價（動詞）"],"evaluation":["the making of a judgment about the amount, number, or value of something; assessment","評估；評價（名詞）"],"evaluated":["having been judged or calculated carefully regarding worth, quality, or significance","被評估的；已評估的"],"assess":["to officially judge or decide the amount, value, quality, or importance of a situation or tax","評定；評估；核定（動詞）"],"assessment":["the factual act of judging or deciding the amount, value, quality, or importance of something","評定；評估（名詞）"],"assessed":["evaluated or officially charged with a specific value, property tax, or level of performance","被評定的；已評估的"],"access":["to open, obtain, or gain entry to a specific digital file, database, secure network, or physical location","讀取；進入；接近（動詞）"],"accessible":["easy to approach, enter, obtain, use, or understand for various individuals or devices","可接近的；可進入的；易懂的"],"available":["able to be used, obtained, or accessed smoothly, or being free to do something or meet someone","可獲得的；可利用的；有空的"],"unavailable":["not able to be used, obtained, or accessed at the moment, or being too busy to attend a meeting","無法獲得的；沒空的"]});

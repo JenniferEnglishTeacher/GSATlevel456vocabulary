@@ -102,7 +102,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To have a strong hope or ambition to achieve something great or become successful.",
     "chinese": "渴望（成就）、追求、立志",
     "sentence": "Many young students in the sports program __________ to compete in the Olympic Games one day.",
-    "translation": "體育培訓計畫中的許多年輕學生都**立志（渴望）**有一天能參加奧運會。",
+    "translation": "體育培訓計畫中的許多年輕學生都立志（渴望）有一天能參加奧運會。",
     "lookup": {
      "english": "To have a strong hope or ambition to achieve something great or become successful.",
      "chinese": "渴望（成就）、追求、立志"
@@ -141,7 +141,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Having or showing a strong desire and determination to succeed, or requiring a lot of effort.",
     "chinese": "有雄心壯志的、野心勃勃的、艱巨的",
     "sentence": "The city government announced an __________ plan to transition all public transport to green energy within three years.",
-    "translation": "市政府宣布了一項**雄心勃勃的（艱巨的）**計劃，要在三年內將所有大眾運輸工具轉型為綠色能源。",
+    "translation": "市政府宣布了一項雄心勃勃的（艱巨的）計劃，要在三年內將所有大眾運輸工具轉型為綠色能源。",
     "lookup": {
      "english": "Having or showing a strong desire and determination to succeed, or requiring a lot of effort.",
      "chinese": "有雄心壯志的、野心勃勃的、艱巨的"
@@ -240,7 +240,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "ache",
-    "answer": "ache",
+    "answer": "ached",
     "pos": "v.",
     "definition": "to suffer from a continuous dull pain.",
     "chinese": "疼痛",
@@ -447,8 +447,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "be connected withto",
-    "answer": "be connected withto",
+    "word": "be connected with/to",
+    "answer": "be connected to",
     "pos": "v. phr.",
     "definition": "To be joined to something else, or to have a close logical or practical relationship with it.",
     "chinese": "與…連結/相連、與…有關聯",
@@ -460,8 +460,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "be linked withto",
-    "answer": "is closely linked withto",
+    "word": "be linked with/to",
+    "answer": "is closely linked to",
     "pos": "v. phr.",
     "definition": "To be physically connected, or to have a strong connection or causal relationship between two things.",
     "chinese": "與…有聯繫/關聯",
@@ -513,7 +513,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "have something to do with",
-    "answer": "have to do with",
+    "answer": "has something to do with",
     "pos": "phr.",
     "definition": "To have a connection, relation, or concern with a particular matter or person.",
     "chinese": "與…有些關係、與…有關",
@@ -578,7 +578,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "compel",
-    "answer": "compel",
+    "answer": "compelled",
     "pos": "v.",
     "definition": "to force or oblige someone to do something.",
     "chinese": "迫使",
@@ -604,7 +604,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "feel compelled to",
-    "answer": "feel compelled to",
+    "answer": "felt compelled to",
     "pos": "phr.",
     "definition": "to strongly think that you must do something.",
     "chinese": "感到必須",
@@ -648,7 +648,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Making you believe that something is true or right because it sounds reasonable or genuine.",
     "chinese": "有說服力的、令人信服的",
     "sentence": "Marcus provided a __________ argument for the budget increase, backed up by clear data and charts.",
-    "translation": "馬庫斯為增加預算提出了一個**令人信服的（有說服力的）**論點，並有明確的數據和圖表支持。",
+    "translation": "馬庫斯為增加預算提出了一個令人信服的（有說服力的）論點，並有明確的數據和圖表支持。",
     "lookup": {
      "english": "Making you believe that something is true or right because it sounds reasonable or genuine.",
      "chinese": "有說服力的、令人信服的"
@@ -687,7 +687,7 @@ window.FLASHCARD_UNITS = {
     "definition": "The act of convincing someone to do or believe something, or the ability to do this.",
     "chinese": "說服、說服力",
     "sentence": "It took a great deal of __________ to get Marcus to join the weekend volunteer team.",
-    "translation": "花了很大的**說服（功夫）**才讓馬庫斯加入週末的志工團隊。",
+    "translation": "花了很大的說服（功夫）才讓馬庫斯加入週末的志工團隊。",
     "lookup": {
      "english": "The act of convincing someone to do or believe something, or the ability to do this.",
      "chinese": "說服、說服力"
@@ -695,7 +695,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "talk ... into v-ing",
-    "answer": "talk into",
+    "answer": "talked their father into taking",
     "pos": "phr. v.",
     "definition": "To persuade someone to perform a specific action or do something.",
     "chinese": "說服某人去做…、勸服某人做…",
@@ -752,7 +752,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Expressing opinions strongly and clearly in a way that convinces or influences other people.",
     "chinese": "強而有力的、有說服力的、有權勢的",
     "sentence": "The professional educator gave a __________ speech about the great importance of incorporating digital tools into classrooms.",
-    "translation": "這位專業的教育工作者發表了一場**強而有力的（有說服力的）**演講，闡述了將數位工具融入課堂的巨大重要性。",
+    "translation": "這位專業的教育工作者發表了一場強而有力的（有說服力的）演講，闡述了將數位工具融入課堂的巨大重要性。",
     "lookup": {
      "english": "Expressing opinions strongly and clearly in a way that convinces or influences other people.",
      "chinese": "強而有力的、有說服力的、有權勢的"
@@ -804,7 +804,7 @@ window.FLASHCARD_UNITS = {
     "definition": "The activity of making people obey the law, or the public agencies (like the police) that do this.",
     "chinese": "執法、執法機關/人員",
     "sentence": "Many __________ officers were deployed to protect the public and maintain order during the political rally.",
-    "translation": "許多**執法（人員）**被部署在政治集會期間，以保護大眾並維持秩序。",
+    "translation": "許多執法（人員）被部署在政治集會期間，以保護大眾並維持秩序。",
     "lookup": {
      "english": "The activity of making people obey the law, or the public agencies (like the police) that do this.",
      "chinese": "執法、執法機關/人員"
@@ -843,7 +843,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To make something stronger, such as a physical structure, an idea, or a specific feeling.",
     "chinese": "強化、加強、鞏固",
     "sentence": "The teacher gave students a quick online quiz after the lecture to __________ the vocabulary words they just learned.",
-    "translation": "老師在講課後讓學生進行了一次快速的線上測驗，以**強化（加強）**他們剛剛學到的單字。",
+    "translation": "老師在講課後讓學生進行了一次快速的線上測驗，以強化（加強）他們剛剛學到的單字。",
     "lookup": {
      "english": "To make something stronger, such as a physical structure, an idea, or a specific feeling.",
      "chinese": "強化、加強、鞏固"
@@ -916,7 +916,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "persist",
-    "answer": "persist",
+    "answer": "persisted",
     "pos": "v.",
     "definition": "to continue firmly or obstinately in an opinion or a course of action in spite of difficulty, opposition, or failure.",
     "chinese": "堅持；持續",
@@ -1142,7 +1142,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Existing as a natural, permanent, or basic part of something that cannot be removed.",
     "chinese": "固有的、內在的、與生俱來的",
     "sentence": "There are __________ risks in any financial investment, so you should always think carefully before risking your money.",
-    "translation": "任何金融投資都有**固有的（內在的）**風險，因此在拿資金冒險之前，你應該總是仔細思考。",
+    "translation": "任何金融投資都有固有的（內在的）風險，因此在拿資金冒險之前，你應該總是仔細思考。",
     "lookup": {
      "english": "Existing as a natural, permanent, or basic part of something that cannot be removed.",
      "chinese": "固有的、內在的、與生俱來的"
@@ -1220,7 +1220,7 @@ window.FLASHCARD_UNITS = {
     "definition": "An acronym standing for Lesbian, Gay, Bisexual, Transgender, and Queer, used to describe a community of diverse sexual orientations and gender identities.",
     "chinese": "跨性別族群、多元性別（者）",
     "sentence": "The university hosted a cultural festival to promote inclusion and support for all __________ students on campus.",
-    "translation": "這所大學舉辦了一場文化節，以促進對校園內所有**多元性別（LGBTQ）**學生的包容與支持。",
+    "translation": "這所大學舉辦了一場文化節，以促進對校園內所有多元性別（LGBTQ）學生的包容與支持。",
     "lookup": {
      "english": "An acronym standing for Lesbian, Gay, Bisexual, Transgender, and Queer, used to describe a community of diverse sexual orientations and gender identities.",
      "chinese": "跨性別族群、多元性別（者）"
@@ -1514,7 +1514,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "characteristic",
-    "answer": "characteristic",
+    "answer": "characteristics",
     "pos": "n.",
     "definition": "a feature or quality belonging typically to a person, place, or thing and serving to identify it.",
     "chinese": "特徵",
@@ -1636,7 +1636,7 @@ window.FLASHCARD_UNITS = {
     "definition": "The most important person in a story, novel, movie, or play.",
     "chinese": "主角、主要角色",
     "sentence": "Chloe felt deeply moved by the struggles and growth of the __________ in the fantasy novel.",
-    "translation": "克洛伊被那部奇幻小說中**主角（主要角色）**的掙扎與成長深深打動。",
+    "translation": "克洛伊被那部奇幻小說中主角（主要角色）的掙扎與成長深深打動。",
     "lookup": {
      "english": "The most important person in a story, novel, movie, or play.",
      "chinese": "主角、主要角色"
@@ -1657,7 +1657,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "demand",
-    "answer": "demand",
+    "answer": "demanded",
     "pos": "v.",
     "definition": "to ask authoritatively or brusquely.",
     "chinese": "要求",
@@ -1753,7 +1753,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Available whenever someone asks for it or wants to use it.",
     "chinese": "隨選的、一經要求即提供的",
     "sentence": "Modern consumers prefer to watch their favorite television shows __________ rather than waiting for a weekly broadcast.",
-    "translation": "現代消費者更喜歡**隨選（隨選隨看）**觀看他們最喜歡的電視節目，而不是等待每週的系統廣播。",
+    "translation": "現代消費者更喜歡隨選（隨選隨看）觀看他們最喜歡的電視節目，而不是等待每週的系統廣播。",
     "lookup": {
      "english": "Available whenever someone asks for it or wants to use it.",
      "chinese": "隨選的、一經要求即提供的"
@@ -1766,7 +1766,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Over-The-Top; media services offered directly to viewers via the internet, bypassing traditional cable or satellite.",
     "chinese": "串流媒體服務、串流的（意指串流影音平台）",
     "sentence": "Netflix and Disney+ are famous __________ platforms that allow users to access thousands of movies on demand.",
-    "translation": "Netflix 和 Disney+ 是著名的**串流媒體（OTT）**平台，讓使用者可以隨選觀看數千部電影。",
+    "translation": "Netflix 和 Disney+ 是著名的串流媒體（OTT）平台，讓使用者可以隨選觀看數千部電影。",
     "lookup": {
      "english": "Over-The-Top; media services offered directly to viewers via the internet, bypassing traditional cable or satellite.",
      "chinese": "串流媒體服務、串流的（意指串流影音平台）"
@@ -1805,7 +1805,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To transmit or receive video and audio data over the internet as a continuous flow.",
     "chinese": "串流傳輸、線上播放",
     "sentence": "Users can easily __________ their favorite movies on demand to their mobile tablets using a stable 5G network.",
-    "translation": "使用者可以使用穩定的 5G 網路，輕鬆地將喜愛的電影**串流傳輸（線上播放）**到他們的手提平板上。",
+    "translation": "使用者可以使用穩定的 5G 網路，輕鬆地將喜愛的電影串流傳輸（線上播放）到他們的手提平板上。",
     "lookup": {
      "english": "To transmit or receive video and audio data over the internet as a continuous flow.",
      "chinese": "串流傳輸、線上播放"
@@ -1818,7 +1818,7 @@ window.FLASHCARD_UNITS = {
     "definition": "A continuous flow of things or people; or a small, narrow river.",
     "chinese": "連續不斷（的流動）；小河、溪流",
     "sentence": "Marcus and Chloe sat on a rock next to a cold mountain __________ to enjoy their packed lunch during the hike.",
-    "translation": "馬庫斯和克洛伊在健行時，坐在冰涼的山間**溪流（小河）**旁的岩石上，享受他們準備好的便當。",
+    "translation": "馬庫斯和克洛伊在健行時，坐在冰涼的山間溪流（小河）旁的岩石上，享受他們準備好的便當。",
     "lookup": {
      "english": "A continuous flow of things or people; or a small, narrow river.",
      "chinese": "連續不斷（的流動）；小河、溪流"
@@ -1826,7 +1826,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "chore",
-    "answer": "chore",
+    "answer": "chores",
     "pos": "n.",
     "definition": "a routine task, especially a household one.",
     "chinese": "雜務",
@@ -2013,7 +2013,7 @@ window.FLASHCARD_UNITS = {
     "definition": "to allow oneself to enjoy the pleasure of.",
     "chinese": "沉溺於；享受",
     "sentence": "Hardworking Alice will occasionally gracefully __________ in a highly expensive glass of imported red wine with her delicious weekend dinner.",
-    "translation": "辛勤工作的愛麗絲偶爾會優雅地**享受（沉溺於）**一杯極其昂貴的進口紅酒，搭配她美味的週末晚餐。",
+    "translation": "辛勤工作的愛麗絲偶爾會優雅地享受（沉溺於）一杯極其昂貴的進口紅酒，搭配她美味的週末晚餐。",
     "lookup": {
      "english": "to allow oneself to enjoy the pleasure of.",
      "chinese": "沉溺於；享受"
@@ -2021,7 +2021,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "indulge oneself in",
-    "answer": "indulge in",
+    "answer": "indulged himself in",
     "pos": "phr.",
     "definition": "to allow oneself a special pleasure.",
     "chinese": "放縱自己",
@@ -2090,7 +2090,7 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to decay or cause to decay by the action of bacteria and fungi.",
     "chinese": "腐爛",
-    "sentence": "If you carelessly leave fresh meat outside the cold refrigerator in the hot summer, it will inevitably __________ extremely quickly.",
+    "sentence": "If you carelessly leave fresh meat outside the cold refrigerator in the hot summer, it will inevitably __________ quickly.",
     "translation": "如果你在炎熱的夏天粗心地把新鮮的肉留在冰冷的冰箱外面，它不可避免地會極快地腐爛。",
     "lookup": {
      "english": "to decay or cause to decay by the action of bacteria and fungi.",
@@ -2164,12 +2164,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "limit one's intake",
-    "answer": "limit intake",
+    "answer": "limit your intake",
     "pos": "phr.",
     "definition": "to restrict the amount of food, drink, or substance one consumes.",
     "chinese": "限制某人的攝取量",
-    "sentence": "To effectively lose excessive weight safely, you must strictly __________ of heavily fried foods and incredibly sugary artificial drinks.",
-    "translation": "為了安全有效地減掉過多體重，你必須嚴格限制你的重度油炸食物和極度含糖人工飲料的攝取量。",
+    "sentence": "To lose excess weight, you must __________ of fried foods and sugary drinks.",
+    "translation": "為了減掉過多的體重，你必須限制油炸食物和含糖飲料的攝取量。",
     "lookup": {
      "english": "to restrict the amount of food, drink, or substance one consumes.",
      "chinese": "限制某人的攝取量"
@@ -2272,8 +2272,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "relating to or suffering from diabetes.",
     "chinese": "糖尿病的",
-    "sentence": "The highly specialized medical clinic strictly provides totally customized and incredibly healthy daily meal plans for their deeply fragile __________ patients.",
-    "translation": "這家高度專業的醫療診所，嚴格為其極度脆弱的糖尿病的病患提供完全客製化且極其健康的每日膳食計畫。",
+    "sentence": "The specialized medical clinic provides customized and healthy daily meal plans for their fragile __________ patients.",
+    "translation": "這家專業的醫療診所，嚴格為其脆弱的糖尿病的病患提供客製化且健康的每日膳食計畫。",
     "lookup": {
      "english": "relating to or suffering from diabetes.",
      "chinese": "糖尿病的"
@@ -2483,7 +2483,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ache"
+      "text": "ached"
      },
      {
       "letter": "C",
@@ -2510,7 +2510,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "characteristic"
+      "text": "characteristics"
      },
      {
       "letter": "D",
@@ -2782,7 +2782,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ache"
+      "text": "ached"
      },
      {
       "letter": "C",
@@ -2970,7 +2970,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "feel compelled to"
+      "text": "felt compelled to"
      },
      {
       "letter": "D",
@@ -3146,7 +3146,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "be connected withto"
+      "text": "be connected to"
      },
      {
       "letter": "B",
@@ -3173,7 +3173,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "is closely linked withto"
+      "text": "is closely linked to"
      },
      {
       "letter": "C",
@@ -3192,7 +3192,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "talk into"
+      "text": "talked their father into taking"
      },
      {
       "letter": "B",
@@ -3265,7 +3265,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "have to do with"
+      "text": "has something to do with"
      },
      {
       "letter": "C",
@@ -3319,7 +3319,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "characteristic"
+      "text": "characteristics"
      }
     ],
     "answer": "C",
@@ -3384,7 +3384,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "compel"
+      "text": "compelled"
      },
      {
       "letter": "D",
@@ -3422,11 +3422,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "talk into"
+      "text": "talked their father into taking"
      },
      {
       "letter": "B",
-      "text": "feel compelled to"
+      "text": "felt compelled to"
      },
      {
       "letter": "C",
@@ -3468,7 +3468,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "persist"
+      "text": "persisted"
      },
      {
       "letter": "B",
@@ -3514,7 +3514,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "persist"
+      "text": "persisted"
      },
      {
       "letter": "B",
@@ -3583,7 +3583,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "talk into"
+      "text": "talked their father into taking"
      },
      {
       "letter": "B",
@@ -3698,7 +3698,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "compel"
+      "text": "compelled"
      },
      {
       "letter": "B",
@@ -3706,7 +3706,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "ache"
+      "text": "ached"
      },
      {
       "letter": "D",
@@ -3733,7 +3733,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "persist"
+      "text": "persisted"
      }
     ],
     "answer": "C",
@@ -3779,7 +3779,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "indulge in"
+      "text": "indulged himself in"
      }
     ],
     "answer": "C",
@@ -3798,7 +3798,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "indulge in"
+      "text": "indulged himself in"
      },
      {
       "letter": "D",
@@ -3840,11 +3840,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "demand"
+      "text": "demanded"
      },
      {
       "letter": "C",
-      "text": "ache"
+      "text": "ached"
      },
      {
       "letter": "D",
@@ -3974,7 +3974,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "persist"
+      "text": "persisted"
      },
      {
       "letter": "B",
@@ -4135,7 +4135,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "have to do with"
+      "text": "has something to do with"
      },
      {
       "letter": "B",
@@ -4461,7 +4461,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "talk into"
+      "text": "talked their father into taking"
      },
      {
       "letter": "C",
@@ -4871,7 +4871,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "feel compelled to"
+      "text": "felt compelled to"
      },
      {
       "letter": "B",
@@ -4883,7 +4883,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "talk into"
+      "text": "talked their father into taking"
      }
     ],
     "answer": "B",
@@ -4986,7 +4986,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "indulge in"
+      "text": "indulged himself in"
      },
      {
       "letter": "B",
@@ -5013,7 +5013,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "be connected withto"
+      "text": "be connected to"
      },
      {
       "letter": "C",
@@ -5040,7 +5040,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "characteristic"
+      "text": "characteristics"
      },
      {
       "letter": "D",
@@ -5293,7 +5293,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "demand"
+      "text": "demanded"
      },
      {
       "letter": "D",
@@ -5335,7 +5335,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "indulge in"
+      "text": "indulged himself in"
      },
      {
       "letter": "C",
@@ -5381,7 +5381,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "be connected withto"
+      "text": "be connected to"
      },
      {
       "letter": "C",
@@ -5546,11 +5546,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "compel"
+      "text": "compelled"
      },
      {
       "letter": "D",
-      "text": "persist"
+      "text": "persisted"
      }
     ],
     "answer": "A",
@@ -5596,7 +5596,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "chore"
+      "text": "chores"
      }
     ],
     "answer": "D",
@@ -5611,11 +5611,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "limit intake"
+      "text": "limit your intake"
      },
      {
       "letter": "C",
-      "text": "be connected withto"
+      "text": "be connected to"
      },
      {
       "letter": "D",
@@ -5642,7 +5642,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "be connected withto"
+      "text": "be connected to"
      }
     ],
     "answer": "B",
@@ -5653,7 +5653,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "be connected withto"
+      "text": "be connected to"
      },
      {
       "letter": "B",
@@ -5699,7 +5699,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "chore"
+      "text": "chores"
      },
      {
       "letter": "B",
@@ -5745,7 +5745,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "indulge in"
+      "text": "indulged himself in"
      },
      {
       "letter": "B",
@@ -5933,7 +5933,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "indulge in"
+      "text": "indulged himself in"
      },
      {
       "letter": "C",
@@ -5983,7 +5983,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "characteristic"
+      "text": "characteristics"
      },
      {
       "letter": "D",
@@ -6040,7 +6040,7 @@ window.FLASHCARD_UNITS = {
     "vi": 159
    },
    {
-    "question": "If you carelessly leave fresh meat outside the cold refrigerator in the hot summer, it will inevitably __________ extremely quickly.",
+    "question": "If you carelessly leave fresh meat outside the cold refrigerator in the hot summer, it will inevitably __________ quickly.",
     "options": [
      {
       "letter": "A",
@@ -6048,7 +6048,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "persist"
+      "text": "persisted"
      },
      {
       "letter": "C",
@@ -6121,7 +6121,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "talk into"
+      "text": "talked their father into taking"
      },
      {
       "letter": "D",
@@ -6178,11 +6178,11 @@ window.FLASHCARD_UNITS = {
     "vi": 165
    },
    {
-    "question": "To effectively lose excessive weight safely, you must strictly __________ of heavily fried foods and incredibly sugary artificial drinks.",
+    "question": "To lose excess weight, you must __________ of fried foods and sugary drinks.",
     "options": [
      {
       "letter": "A",
-      "text": "limit intake"
+      "text": "limit your intake"
      },
      {
       "letter": "B",
@@ -6362,7 +6362,7 @@ window.FLASHCARD_UNITS = {
     "vi": 173
    },
    {
-    "question": "The highly specialized medical clinic strictly provides totally customized and incredibly healthy daily meal plans for their deeply fragile __________ patients.",
+    "question": "The specialized medical clinic provides customized and healthy daily meal plans for their fragile __________ patients.",
     "options": [
      {
       "letter": "A",
@@ -6485,7 +6485,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "talk into"
+      "text": "talked their father into taking"
      },
      {
       "letter": "C",
@@ -6525,4 +6525,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hungry":["feeling or displaying the need for food.","飢餓的"],"hunger":["a feeling of discomfort or weakness caused by lack of food.","飢餓"],"desire":["To want something strongly or wish for something to happen.","渴望、想要、要求"],"desires":["To want something strongly or wish for something to happen.","渴望、想要、要求"],"aspire":["To have a strong hope or ambition to achieve something great or become successful.","渴望（成就）、追求、立志"],"aspirations":["A strong hope, desire, or ambition to achieve something high or great.","抱負、渴望、志向"],"aspiration":["A strong hope, desire, or ambition to achieve something high or great.","抱負、渴望、志向"],"ambition":["A strong desire to achieve success, power, wealth, or a specific high goal.","雄心、抱負、野心"],"ambitious":["Having or showing a strong desire and determination to succeed, or requiring a lot of effort.","有雄心壯志的、野心勃勃的、艱巨的"],"starve":["to suffer severely or die from hunger.","挨餓"],"starvation":["suffering or death caused by hunger.","飢餓；餓死"],"starving":["Dying of hunger, or feeling extremely hungry.","非常飢餓的、快餓死的"],"appetite":["A natural desire to eat food, or a strong desire for something.","食慾、胃口"],"ache":["a continuous or prolonged dull pain in a part of one's body.","疼痛"],"headache":["a continuous pain in the head.","頭痛"],"pain":["physical suffering or discomfort caused by illness or injury.","痛楚"],"painful":["Causing physical pain, or causing distress, sadness, or emotional suffering.","令人疼痛的、痛苦的、難堪的"],"painkiller":["A drug or medicine used to reduce or relieve physical pain.","止痛藥"],"connect":["to bring together or into contact so that a real or notional link is established.","連接"],"connected":["joined or linked together.","相關的；連接的"],"connection":["a relationship in which a person, thing, or idea is linked or associated with something else.","關聯"],"linked":["connected or joined.","連結的；有關聯的"],"contact":["To communicate with someone by calling, texting, emailing, or meeting them.","聯絡、聯繫"],"compel":["to force or oblige someone to do something.","迫使"],"compelling":["evoking interest, attention, or admiration in a powerfully irresistible way.","令人信服的；引人入勝的"],"convince":["To make someone completely believe that something is true or real.","使確信、使相信、說服"],"convincing":["Making you believe that something is true or right because it sounds reasonable or genuine.","有說服力的、令人信服的"],"persuade":["To move someone to do something by giving them good reasons, arguments, or requests.","說服、勸服（去做某事）"],"persuasive":["Able to make someone do or believe something by giving them good reasons.","有說服力的、口才好的"],"persuasion":["The act of convincing someone to do or believe something, or the ability to do this.","說服、說服力"],"forced":["To make someone do something that they do not want to do, by using power, laws, or threats.","強迫、迫使"],"force":["To make someone do something that they do not want to do, by using power, laws, or threats.","強迫、迫使"],"forceful":["Expressing opinions strongly and clearly in a way that convinces or influences other people.","強而有力的、有說服力的、有權勢的"],"enforce":["to compel observance of or compliance with a law, rule, or obligation.","執行"],"enforcement":["The act of making sure that a law, rule, or order is obeyed and followed by people.","執行、實施、強制執行"],"reinforce":["To make something stronger, such as a physical structure, an idea, or a specific feeling.","強化、加強、鞏固"],"digest":["to break down food in the alimentary canal into substances that can be absorbed and used by the body.","消化"],"digestion":["the process of breaking down food by mechanical and enzymatic action in the alimentary canal into substances that can be used by the body.","消化"],"digestive":["relating to the process of digesting food.","消化的"],"persist":["to continue firmly or obstinately in an opinion or a course of action in spite of difficulty, opposition, or failure.","堅持；持續"],"persistent":["continuing firmly or obstinately in a course of action in spite of difficulty or opposition.","持續的；堅持的"],"persistence":["firm or obstinate continuance in a course of action in spite of difficulty or opposition.","堅持不懈"],"continuous":["forming an unbroken whole; without interruption.","連續的"],"persistently":["in a persistent manner; continuously.","堅持不懈地"],"syndrome":["a group of symptoms which consistently occur together, or a condition characterized by a set of associated symptoms.","症候群"],"gene":["a unit of heredity which is transferred from a parent to offspring.","基因"],"genetic":["of or relating to genes or heredity.","基因的；遺傳的"],"genetics":["the study of heredity and the variation of inherited characteristics.","遺傳學"],"genetically":["in a way that relates to genes or genetics.","基因地"],"genetically-modified":["(Of food or organisms) having had its genetic structure changed artificially in a laboratory.","基基因改造的、轉基因的"],"genetically-modified-genetically-modified":["(Of food or organisms) having had its genetic structure changed artificially in a laboratory.","基基因改造的、轉基因的"],"inherent":["Existing as a natural, permanent, or basic part of something that cannot be removed.","固有的、內在的、與生俱來的"],"gender":["either of the two sexes (male and female), especially when considered with reference to social and cultural differences.","性別"],"transgender":["denoting or relating to a person whose sense of personal identity and gender does not correspond with their birth sex.","跨性別的"],"lgbtq":["An acronym standing for Lesbian, Gay, Bisexual, Transgender, and Queer, used to describe a community of diverse sexual orientations and gender identities.","跨性別族群、多元性別（者）"],"sex":["either of the two main categories (male and female) into which humans and many other living things are divided on the basis of their reproductive functions.","性別"],"homosexual":["Attracted to people of the same sex or gender; a person who is sexually attracted to the same sex.","同性戀的；同性戀者"],"heterosexual":["Attracted to people of the opposite sex or gender; a straight person.","異性戀的；異性戀者"],"complicate":["to make something more difficult or confusing by causing it to be more complex.","使複雜"],"complicated":["consisting of many interconnecting parts or elements; intricate.","複雜的"],"complication":["a circumstance that complicates something; a secondary disease or condition aggravating an already existing one.","併發症；複雜化"],"stature":["a person's natural height; importance or reputation gained by ability or achievement.","身材；聲望"],"disability":["a physical or mental condition that limits a person's movements, senses, or activities.","殘疾"],"disable":["to put out of action or limit the function of something.","使失效；使殘廢"],"disabled":["having a physical or mental condition that limits movements, senses, or activities.","殘疾的"],"inability":["the state of being unable to do something.","無能"],"risk":["to expose someone or something valued to danger, harm, or loss.","冒險"],"risky":["full of the possibility of danger, failure, or loss.","冒險的"],"characteristic":["a feature or quality belonging typically to a person, place, or thing and serving to identify it.","特徵"],"characterize":["to describe the distinctive nature or features of.","描繪...的特性"],"character":["a person in a novel, play, or movie.","角色"],"characters":["A letter, number, or symbol used in writing or printing.","字元、文字、符號"],"demand":["an insistent and peremptory request, made as if by right.","需求"],"demanding":["requiring much skill or effort.","要求高的；費力的"],"shortage":["A situation where there is not enough of something that is needed.","短缺、不足"],"ott":["Over-The-Top; media services offered directly to viewers via the internet, bypassing traditional cable or satellite.","串流媒體服務、串流的（意指串流影音平台）"],"streaming":["The activity of listening to music or watching video directly from the internet without downloading it first.","串流、影音串流"],"stream":["To transmit or receive video and audio data over the internet as a continuous flow.","串流傳輸、線上播放"],"chore":["a routine task, especially a household one.","雜務"],"caretaker":["a person employed to look after people or animals.","照顧者"],"care":["the provision of what is necessary for the health, welfare, maintenance, and protection of someone or something.","照顧"],"careful":["making sure of avoiding potential danger, mishap, or harm.","小心的"],"vigorous":["strong, healthy, and full of energy.","精力充沛的"],"vigorously":["in a way that involves physical strength, effort, or energy.","精神旺盛地"],"energetic":["showing or involving great activity or vitality.","精力充沛的"],"vigor":["physical strength and good health.","活力"],"indulge":["to allow oneself to enjoy the pleasure of.","沉溺於；享受"],"indulgent":["having or indicating a tendency to be overly generous to or lenient with someone.","溺愛的"],"indulgence":["the action or fact of indulging.","放縱"],"edible":["fit to be eaten.","可食用的"],"inedible":["not fit for eating.","不可食用的"],"rot":["to decay or cause to decay by the action of bacteria and fungi.","腐爛"],"rotten":["suffering from decay.","腐爛的"],"intake":["an amount of food, air, or another substance taken into the body.","攝取量"],"inevitable":["certain to happen; unavoidable.","無可避免的"],"inevitably":["as is certain to happen; unavoidably.","無可避免地"],"unavoidable":["not able to be avoided, prevented, or ignored; inevitable.","無法避免的"],"diabetes":["a disease in which the body's ability to produce or respond to the hormone insulin is impaired.","糖尿病"],"diabetic":["relating to or suffering from diabetes.","糖尿病的"],"literally":["in a literal manner or sense; exactly.","簡直；字面上"],"literal":["taking words in their usual or most basic sense without metaphor or allegory.","字面上的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hungry":["feeling or displaying the need for food.","飢餓的"],"hunger":["a feeling of discomfort or weakness caused by lack of food.","飢餓"],"desire":["To want something strongly or wish for something to happen.","渴望、想要、要求"],"desires":["To want something strongly or wish for something to happen.","渴望、想要、要求"],"aspire":["To have a strong hope or ambition to achieve something great or become successful.","渴望（成就）、追求、立志"],"aspirations":["A strong hope, desire, or ambition to achieve something high or great.","抱負、渴望、志向"],"aspiration":["A strong hope, desire, or ambition to achieve something high or great.","抱負、渴望、志向"],"ambition":["A strong desire to achieve success, power, wealth, or a specific high goal.","雄心、抱負、野心"],"ambitious":["Having or showing a strong desire and determination to succeed, or requiring a lot of effort.","有雄心壯志的、野心勃勃的、艱巨的"],"starve":["to suffer severely or die from hunger.","挨餓"],"starvation":["suffering or death caused by hunger.","飢餓；餓死"],"starving":["Dying of hunger, or feeling extremely hungry.","非常飢餓的、快餓死的"],"appetite":["A natural desire to eat food, or a strong desire for something.","食慾、胃口"],"ache":["a continuous or prolonged dull pain in a part of one's body.","疼痛"],"ached":["to suffer from a continuous dull pain.","疼痛"],"headache":["a continuous pain in the head.","頭痛"],"pain":["physical suffering or discomfort caused by illness or injury.","痛楚"],"painful":["Causing physical pain, or causing distress, sadness, or emotional suffering.","令人疼痛的、痛苦的、難堪的"],"painkiller":["A drug or medicine used to reduce or relieve physical pain.","止痛藥"],"connect":["to bring together or into contact so that a real or notional link is established.","連接"],"connected":["joined or linked together.","相關的；連接的"],"connection":["a relationship in which a person, thing, or idea is linked or associated with something else.","關聯"],"linked":["connected or joined.","連結的；有關聯的"],"contact":["To communicate with someone by calling, texting, emailing, or meeting them.","聯絡、聯繫"],"compelled":["to force or oblige someone to do something.","迫使"],"compel":["to force or oblige someone to do something.","迫使"],"compelling":["evoking interest, attention, or admiration in a powerfully irresistible way.","令人信服的；引人入勝的"],"convince":["To make someone completely believe that something is true or real.","使確信、使相信、說服"],"convincing":["Making you believe that something is true or right because it sounds reasonable or genuine.","有說服力的、令人信服的"],"persuade":["To move someone to do something by giving them good reasons, arguments, or requests.","說服、勸服（去做某事）"],"persuasive":["Able to make someone do or believe something by giving them good reasons.","有說服力的、口才好的"],"persuasion":["The act of convincing someone to do or believe something, or the ability to do this.","說服、說服力"],"force":["To make someone do something that they do not want to do, by using power, laws, or threats.","強迫、迫使"],"forced":["To make someone do something that they do not want to do, by using power, laws, or threats.","強迫、迫使"],"forceful":["Expressing opinions strongly and clearly in a way that convinces or influences other people.","強而有力的、有說服力的、有權勢的"],"enforce":["to compel observance of or compliance with a law, rule, or obligation.","執行"],"enforcement":["The act of making sure that a law, rule, or order is obeyed and followed by people.","執行、實施、強制執行"],"reinforce":["To make something stronger, such as a physical structure, an idea, or a specific feeling.","強化、加強、鞏固"],"digest":["to break down food in the alimentary canal into substances that can be absorbed and used by the body.","消化"],"digestion":["the process of breaking down food by mechanical and enzymatic action in the alimentary canal into substances that can be used by the body.","消化"],"digestive":["relating to the process of digesting food.","消化的"],"persist":["to continue firmly or obstinately in an opinion or a course of action in spite of difficulty, opposition, or failure.","堅持；持續"],"persisted":["to continue firmly or obstinately in an opinion or a course of action in spite of difficulty, opposition, or failure.","堅持；持續"],"persistent":["continuing firmly or obstinately in a course of action in spite of difficulty or opposition.","持續的；堅持的"],"persistence":["firm or obstinate continuance in a course of action in spite of difficulty or opposition.","堅持不懈"],"continuous":["forming an unbroken whole; without interruption.","連續的"],"persistently":["in a persistent manner; continuously.","堅持不懈地"],"syndrome":["a group of symptoms which consistently occur together, or a condition characterized by a set of associated symptoms.","症候群"],"gene":["a unit of heredity which is transferred from a parent to offspring.","基因"],"genetic":["of or relating to genes or heredity.","基因的；遺傳的"],"genetics":["the study of heredity and the variation of inherited characteristics.","遺傳學"],"genetically":["in a way that relates to genes or genetics.","基因地"],"genetically-modified-genetically-modified":["(Of food or organisms) having had its genetic structure changed artificially in a laboratory.","基基因改造的、轉基因的"],"genetically-modified":["(Of food or organisms) having had its genetic structure changed artificially in a laboratory.","基基因改造的、轉基因的"],"inherent":["Existing as a natural, permanent, or basic part of something that cannot be removed.","固有的、內在的、與生俱來的"],"gender":["either of the two sexes (male and female), especially when considered with reference to social and cultural differences.","性別"],"transgender":["denoting or relating to a person whose sense of personal identity and gender does not correspond with their birth sex.","跨性別的"],"lgbtq":["An acronym standing for Lesbian, Gay, Bisexual, Transgender, and Queer, used to describe a community of diverse sexual orientations and gender identities.","跨性別族群、多元性別（者）"],"sex":["either of the two main categories (male and female) into which humans and many other living things are divided on the basis of their reproductive functions.","性別"],"homosexual":["Attracted to people of the same sex or gender; a person who is sexually attracted to the same sex.","同性戀的；同性戀者"],"heterosexual":["Attracted to people of the opposite sex or gender; a straight person.","異性戀的；異性戀者"],"complicate":["to make something more difficult or confusing by causing it to be more complex.","使複雜"],"complicated":["consisting of many interconnecting parts or elements; intricate.","複雜的"],"complication":["a circumstance that complicates something; a secondary disease or condition aggravating an already existing one.","併發症；複雜化"],"stature":["a person's natural height; importance or reputation gained by ability or achievement.","身材；聲望"],"disability":["a physical or mental condition that limits a person's movements, senses, or activities.","殘疾"],"disable":["to put out of action or limit the function of something.","使失效；使殘廢"],"disabled":["having a physical or mental condition that limits movements, senses, or activities.","殘疾的"],"inability":["the state of being unable to do something.","無能"],"risk":["to expose someone or something valued to danger, harm, or loss.","冒險"],"risky":["full of the possibility of danger, failure, or loss.","冒險的"],"characteristic":["a feature or quality belonging typically to a person, place, or thing and serving to identify it.","特徵"],"characteristics":["a feature or quality belonging typically to a person, place, or thing and serving to identify it.","特徵"],"characterize":["to describe the distinctive nature or features of.","描繪...的特性"],"character":["a person in a novel, play, or movie.","角色"],"characters":["A letter, number, or symbol used in writing or printing.","字元、文字、符號"],"demand":["an insistent and peremptory request, made as if by right.","需求"],"demanded":["to ask authoritatively or brusquely.","要求"],"demanding":["requiring much skill or effort.","要求高的；費力的"],"shortage":["A situation where there is not enough of something that is needed.","短缺、不足"],"ott":["Over-The-Top; media services offered directly to viewers via the internet, bypassing traditional cable or satellite.","串流媒體服務、串流的（意指串流影音平台）"],"streaming":["The activity of listening to music or watching video directly from the internet without downloading it first.","串流、影音串流"],"stream":["To transmit or receive video and audio data over the internet as a continuous flow.","串流傳輸、線上播放"],"chores":["a routine task, especially a household one.","雜務"],"chore":["a routine task, especially a household one.","雜務"],"caretaker":["a person employed to look after people or animals.","照顧者"],"care":["the provision of what is necessary for the health, welfare, maintenance, and protection of someone or something.","照顧"],"careful":["making sure of avoiding potential danger, mishap, or harm.","小心的"],"vigorous":["strong, healthy, and full of energy.","精力充沛的"],"vigorously":["in a way that involves physical strength, effort, or energy.","精神旺盛地"],"energetic":["showing or involving great activity or vitality.","精力充沛的"],"vigor":["physical strength and good health.","活力"],"indulge":["to allow oneself to enjoy the pleasure of.","沉溺於；享受"],"indulgent":["having or indicating a tendency to be overly generous to or lenient with someone.","溺愛的"],"indulgence":["the action or fact of indulging.","放縱"],"edible":["fit to be eaten.","可食用的"],"inedible":["not fit for eating.","不可食用的"],"rot":["to decay or cause to decay by the action of bacteria and fungi.","腐爛"],"rotten":["suffering from decay.","腐爛的"],"intake":["an amount of food, air, or another substance taken into the body.","攝取量"],"inevitable":["certain to happen; unavoidable.","無可避免的"],"inevitably":["as is certain to happen; unavoidably.","無可避免地"],"unavoidable":["not able to be avoided, prevented, or ignored; inevitable.","無法避免的"],"diabetes":["a disease in which the body's ability to produce or respond to the hormone insulin is impaired.","糖尿病"],"diabetic":["relating to or suffering from diabetes.","糖尿病的"],"literally":["in a literal manner or sense; exactly.","簡直；字面上"],"literal":["taking words in their usual or most basic sense without metaphor or allegory.","字面上的"]});

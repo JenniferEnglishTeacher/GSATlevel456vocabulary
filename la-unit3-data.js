@@ -123,7 +123,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "bring to mind",
-    "answer": "bring to mind",
+    "answer": "brought to mind",
     "pos": "phr.",
     "definition": "to make someone remember something.",
     "chinese": "使人想起",
@@ -202,7 +202,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "excel",
-    "answer": "excel",
+    "answer": "excels",
     "pos": "v.",
     "definition": "to be exceptionally good at or proficient in an activity or subject.",
     "chinese": "擅長；突出",
@@ -258,8 +258,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to become aware or conscious of something; come to realize or understand.",
     "chinese": "察覺；認為",
-    "sentence": "Many wild animals will immediately run away extremely quickly if they suddenly __________ a highly dangerous physical threat.",
-    "translation": "許多野生動物如果突然察覺到高度危險的物理威脅，會立刻極快地逃跑。",
+    "sentence": "Many wild animals will immediately run away quickly if they suddenly __________ a highly dangerous physical threat.",
+    "translation": "許多野生動物如果突然察覺到危險的物理威脅，會立刻極快地逃跑。",
     "lookup": {
      "english": "to become aware or conscious of something; come to realize or understand.",
      "chinese": "察覺；認為"
@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "perceive as",
-    "answer": "perceive the dark neighborhood as",
+    "answer": "perceived the dark neighborhood as",
     "pos": "phr.",
     "definition": "to interpret or look on someone or something in a particular way.",
     "chinese": "視為...",
@@ -297,8 +297,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the ability to see, hear, or become aware of something through the senses.",
     "chinese": "觀感；知覺",
-    "sentence": "The artist's unique visual __________ of the modern world clearly deeply influences absolutely all of her beautiful paintings.",
-    "translation": "這位藝術家對現代世界獨特的視覺觀感，清楚且深刻地影響了她絕對所有美麗的畫作。",
+    "sentence": "The artist's unique visual __________ of the modern world deeply influences absolutely all of her beautiful paintings.",
+    "translation": "這位藝術家對現代世界獨特的視覺觀感，清楚且深刻地影響了她所有美麗的畫作。",
     "lookup": {
      "english": "the ability to see, hear, or become aware of something through the senses.",
      "chinese": "觀感；知覺"
@@ -336,7 +336,7 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "in a way that relates to the mental action or process of acquiring knowledge.",
     "chinese": "認知上地",
-    "sentence": "Highly demanding educational puzzles can carefully deeply challenge young children __________ and heavily improve their problem-solving skills.",
+    "sentence": "Highly demanding educational puzzles can deeply challenge young children __________ and heavily improve their problem-solving skills.",
     "translation": "要求極高的教育謎題可以仔細且深刻地在認知上地挑戰幼童，並大幅改善他們的解決問題能力。",
     "lookup": {
      "english": "in a way that relates to the mental action or process of acquiring knowledge.",
@@ -423,7 +423,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "stroke",
-    "answer": "stroke",
+    "answer": "stroked",
     "pos": "v.",
     "definition": "to move one's hand with gentle pressure over a surface.",
     "chinese": "撫摸",
@@ -453,7 +453,7 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "a style of swimming on one's front.",
     "chinese": "蛙式",
-    "sentence": "The highly athletic young swimmer expertly used the complex __________ to successfully quickly win the deeply competitive local race.",
+    "sentence": "The highly athletic young swimmer expertly used the complex __________ to quickly win the deeply competitive local race.",
     "translation": "極具運動天賦的年輕游泳選手熟練地使用複雜的蛙式，成功且迅速地贏得了競爭激烈的當地比賽。",
     "lookup": {
      "english": "a style of swimming on one's front.",
@@ -531,8 +531,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to break or cause to break forcibly into parts, especially into halves.",
     "chinese": "分裂；分開",
-    "sentence": "The highly strict teacher strictly carefully __________ his noisy class into two entirely separate groups for the serious political debate.",
-    "translation": "極度嚴格的老師嚴格且仔細地將他吵雜的班級分開成兩個完全獨立的組別，以進行嚴肅的政治辯論。",
+    "sentence": "The highly strict teacher carefully __________ his noisy class into two entirely separate groups for the serious political debate.",
+    "translation": "嚴格的老師嚴格且仔細地將他吵雜的班級分開成兩個獨立的組別，以進行嚴肅的政治辯論。",
     "lookup": {
      "english": "to break or cause to break forcibly into parts, especially into halves.",
      "chinese": "分裂；分開"
@@ -585,7 +585,7 @@ window.FLASHCARD_UNITS = {
     "definition": "in a thankful manner; fortunately.",
     "chinese": "幸運地；令人感激地",
     "sentence": "My secure modern house was violently broken into last night, but __________ absolutely nothing of true financial value was stolen.",
-    "translation": "我安全的現代房屋昨晚遭到暴力闖入，但**幸運地（令人感激地）**絕對沒有任何具備真正財務價值的東西被偷。",
+    "translation": "我安全的現代房屋昨晚遭到暴力闖入，但幸運地（令人感激地）絕對沒有任何具備真正財務價值的東西被偷。",
     "lookup": {
      "english": "in a thankful manner; fortunately.",
      "chinese": "幸運地；令人感激地"
@@ -597,8 +597,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "pleased and relieved.",
     "chinese": "感激的",
-    "sentence": "I am incredibly deeply __________ for all the amazing help my generous friends kindly entirely offered during my difficult times.",
-    "translation": "我極度深深地感激的我慷慨的朋友們在我困難的時期所親切且完全提供的所有驚人幫助。",
+    "sentence": "I am deeply __________ for all the amazing help my generous friends kindly offered during my difficult times.",
+    "translation": "我深深感激我慷慨的朋友們在我困難的時期所親切提供的所有幫助。",
     "lookup": {
      "english": "pleased and relieved.",
      "chinese": "感激的"
@@ -683,8 +683,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "showexpress gratitude to sb",
-    "answer": "showexpress gratitude to",
+    "word": "show/express gratitude to sb",
+    "answer": "show gratitude to",
     "pos": "v. phr.",
     "definition": "To display or say out loud your thankfulness to someone for their support or help.",
     "chinese": "向某人表達謝意/感激",
@@ -792,8 +792,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "involvement from an external party that is usually unwanted.",
     "chinese": "外部干涉",
-    "sentence": "The totally independent country absolutely strongly refused to accept any __________ from foreign governments regarding its strictly domestic political elections.",
-    "translation": "這個完全獨立的國家絕對強烈拒絕接受外國政府關於其嚴格國內政治選舉的任何外部干涉。",
+    "sentence": "The totally independent country strongly refused to accept any __________ from foreign governments regarding its strictly domestic political elections.",
+    "translation": "這個獨立的國家強烈拒絕接受外國政府關於其嚴格國內政治選舉的任何外部干涉。",
     "lookup": {
      "english": "involvement from an external party that is usually unwanted.",
      "chinese": "外部干涉"
@@ -922,7 +922,7 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "pursued in addition to the normal course of study.",
     "chinese": "課外的",
-    "sentence": "The ambitious young student enthusiastically participates in numerous fun __________ activities to successfully successfully make her university application much stronger.",
+    "sentence": "The ambitious young student enthusiastically participates in numerous fun __________ activities to successfully make her university application much stronger.",
     "translation": "這位雄心勃勃的年輕學生熱情地參與許多有趣的課外的活動，以成功地讓她的大學申請變得更強。",
     "lookup": {
      "english": "pursued in addition to the normal course of study.",
@@ -935,8 +935,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "the educational program of a school or system.",
     "chinese": "學術課程",
-    "sentence": "The demanding university's highly rigorous __________ is specifically designed to carefully heavily challenge students to deeply think completely critically.",
-    "translation": "這所要求極高大學其高度嚴格的學術課程，被特別設計來仔細且重度地挑戰學生去深刻且完全批判性地思考。",
+    "sentence": "The demanding university's rigorous __________ is specifically designed to challenge students to think critically.",
+    "translation": "這所要求極高大學其嚴格的學術課程，被特別設計來仔細且挑戰學生去深刻且批判性地思考。",
     "lookup": {
      "english": "the educational program of a school or system.",
      "chinese": "學術課程"
@@ -1000,8 +1000,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "how well a student meets standards set by a local institution.",
     "chinese": "學業表現",
-    "sentence": "The totally exhausted student's overall __________ heavily significantly dropped after he stupidly started playing highly addictive video games every night.",
-    "translation": "在這名完全筋疲力盡的學生愚蠢地開始每天晚上玩高度令人上癮的電玩遊戲後，他整體的學業表現重重且顯著地下降了。",
+    "sentence": "The totally exhausted student's overall __________ significantly dropped after he stupidly started playing highly addictive video games every night.",
+    "translation": "在這名筋疲力盡的學生愚蠢地開始每天晚上玩令人上癮的電玩遊戲後，他整體的學業表現重重且顯著地下降了。",
     "lookup": {
      "english": "how well a student meets standards set by a local institution.",
      "chinese": "學業表現"
@@ -1009,11 +1009,11 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "instruct",
-    "answer": "instruct",
+    "answer": "instructed",
     "pos": "v.",
     "definition": "to direct or command someone to do something.",
     "chinese": "指導；指示",
-    "sentence": "The demanding sales manager strictly __________ his completely new team to actively successfully learn much more about the company's expensive products.",
+    "sentence": "The demanding sales manager strictly __________ his completely new team to successfully learn much more about the company's expensive products.",
     "translation": "要求極高的業務經理嚴格地指示他的全新團隊去積極且成功地學習更多關於公司昂貴產品的知識。",
     "lookup": {
      "english": "to direct or command someone to do something.",
@@ -1026,8 +1026,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a direction or order.",
     "chinese": "指示；教學",
-    "sentence": "If you simply carefully follow the detailed written __________ inside the box, building the new wooden table will be incredibly easy.",
-    "translation": "如果你只是仔細遵循盒子裡詳細的書面指示，組裝這張新木桌將會極其容易。",
+    "sentence": "If you carefully follow the detailed written __________ inside the box, building the new wooden table will be incredibly easy.",
+    "translation": "如果你只是仔細遵循盒子裡詳細的書面指示，組裝這張新木桌將會容易。",
     "lookup": {
      "english": "a direction or order.",
      "chinese": "指示；教學"
@@ -1143,8 +1143,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "feeling that there is no hope.",
     "chinese": "處於絕望中",
-    "sentence": "After failing the highly important final exam three completely separate times, the thoroughly exhausted student completely heavily threw his heavy books away __________.",
-    "translation": "在三次完全分開的時間都沒有通過極其重要的期末考後，徹底筋疲力盡的學生處於絕望中重重地把他的厚重書本扔掉了。",
+    "sentence": "After failing the important final exam three separate times, the exhausted student threw his heavy books away __________.",
+    "translation": "在三次分開的時間都沒有通過重要的期末考後，筋疲力盡的學生處於絕望中重重地把他的厚重書本扔掉了。",
     "lookup": {
      "english": "feeling that there is no hope.",
      "chinese": "處於絕望中"
@@ -1157,7 +1157,7 @@ window.FLASHCARD_UNITS = {
     "definition": "feeling, showing, or involving a hopeless sense that a situation is so bad as to be impossible to deal with.",
     "chinese": "絕望的；渴望的",
     "sentence": "The completely exhausted and highly thirsty travelers made a deeply __________ attempt to finally find clean drinking water in the incredibly hot desert.",
-    "translation": "完全筋疲力盡且極度口渴的旅行者進行了一次深深**絕望的（拚命的）**嘗試，想在極度炎熱的沙漠中最終找到乾淨的飲用水。",
+    "translation": "完全筋疲力盡且極度口渴的旅行者進行了一次深深絕望的（拚命的）嘗試，想在極度炎熱的沙漠中最終找到乾淨的飲用水。",
     "lookup": {
      "english": "feeling, showing, or involving a hopeless sense that a situation is so bad as to be impossible to deal with.",
      "chinese": "絕望的；渴望的"
@@ -1169,8 +1169,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "without doubt; certainly.",
     "chinese": "毫無疑問地",
-    "sentence": "There are __________ completely significantly more happy people securely attending the bright music festival this year than there were exactly last year.",
-    "translation": "今年安全參加這場明亮音樂節的快樂人數，毫無疑問地明顯比去年多得多。",
+    "sentence": "There are __________ more people attending the music festival this year than there were last year.",
+    "translation": "今年參加這場音樂節的人數，毫無疑問地比去年多。",
     "lookup": {
      "english": "without doubt; certainly.",
      "chinese": "毫無疑問地"
@@ -1182,8 +1182,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "undoubtedly; definitely.",
     "chinese": "必定；當然",
-    "sentence": "If you successfully completely safely strictly rigorously diligently finish all your highly complex homework early tonight, you can __________ freely play fun video games afterwards.",
-    "translation": "如果你今晚早點成功完全安全嚴格嚴謹勤奮地完成你所有高度複雜的功課，你之後**必定（當然）**可以自由地玩有趣的電玩遊戲。",
+    "sentence": "If you finish all your complex homework early tonight, you can __________ play fun video games afterwards.",
+    "translation": "如果你今晚早點成功安全嚴格嚴謹勤奮地完成你所有複雜的功課，你之後必定（當然）可以自由地玩有趣的電玩遊戲。",
     "lookup": {
      "english": "undoubtedly; definitely.",
      "chinese": "必定；當然"
@@ -1195,8 +1195,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "absolutely certain.",
     "chinese": "毫無疑問",
-    "sentence": "The incredibly deeply deeply totally totally entirely completely thrilling new superhero movie is __________ the absolute best action film I have ever seen.)",
-    "translation": "這部完全令人興奮的新超級英雄電影，毫無疑問是我看過絕對最棒的動作片。",
+    "sentence": "The thrilling new superhero movie is __________ the best entertaining action film I have ever seen.",
+    "translation": "這部令人興奮的新超級英雄電影，毫無疑問是我看過最棒的動作片。",
     "lookup": {
      "english": "absolutely certain.",
      "chinese": "毫無疑問"
@@ -1221,8 +1221,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "completely certain or certain to happen.",
     "chinese": "毫無疑問",
-    "sentence": "There is absolutely __________ the completely obvious fact that totally perfectly absolutely entirely entirely totally regular daily heavily totally thoroughly exercise fully perfectly perfectly heavily heavily completely heavily deeply safely totally totally highly absolutely fully entirely directly entirely heavily absolutely strictly strictly perfectly perfectly completely strictly completely improves perfectly deeply totally fully highly overall entirely fully totally perfectly deeply highly completely thoroughly completely physical completely strictly deeply highly absolutely entirely fully entirely perfectly perfectly deeply perfectly completely perfectly entirely perfectly totally completely completely completely completely perfectly completely perfectly completely completely completely completely perfectly entirely completely perfectly entirely completely completely perfectly completely completely completely completely perfectly completely perfectly completely completely completely completely completely perfectly perfectly perfectly completely completely completely perfectly perfectly completely perfectly completely completely perfectly perfectly completely perfectly completely perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly perfectly completely perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly. I know for a fact, that this is the best value in fitness, and in particular to this kind of product category. You just can't beat what you get for the price, the service quality included”",
-    "translation": "",
+    "sentence": "There is __________ the fact that regular daily exercise improves overall physical health.",
+    "translation": "規律的日常運動能改善整體身體健康，這個事實是毫無疑問的。",
     "lookup": {
      "english": "completely certain or certain to happen.",
      "chinese": "毫無疑問"
@@ -1450,11 +1450,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "bring to mind"
+      "text": "brought to mind"
      },
      {
       "letter": "D",
-      "text": "perceive the dark neighborhood as"
+      "text": "perceived the dark neighborhood as"
      }
     ],
     "answer": "C",
@@ -1588,7 +1588,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "excel"
+      "text": "excels"
      },
      {
       "letter": "D",
@@ -1657,7 +1657,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "perceive the dark neighborhood as"
+      "text": "perceived the dark neighborhood as"
      },
      {
       "letter": "D",
@@ -1668,7 +1668,7 @@ window.FLASHCARD_UNITS = {
     "vi": 18
    },
    {
-    "question": "Many wild animals will immediately run away extremely quickly if they suddenly __________ a highly dangerous physical threat.",
+    "question": "Many wild animals will immediately run away quickly if they suddenly __________ a highly dangerous physical threat.",
     "options": [
      {
       "letter": "A",
@@ -1680,7 +1680,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "excel"
+      "text": "excels"
      },
      {
       "letter": "D",
@@ -1695,7 +1695,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "perceive the dark neighborhood as"
+      "text": "perceived the dark neighborhood as"
      },
      {
       "letter": "B",
@@ -1737,7 +1737,7 @@ window.FLASHCARD_UNITS = {
     "vi": 21
    },
    {
-    "question": "The artist's unique visual __________ of the modern world clearly deeply influences absolutely all of her beautiful paintings.",
+    "question": "The artist's unique visual __________ of the modern world deeply influences absolutely all of her beautiful paintings.",
     "options": [
      {
       "letter": "A",
@@ -1806,7 +1806,7 @@ window.FLASHCARD_UNITS = {
     "vi": 24
    },
    {
-    "question": "Highly demanding educational puzzles can carefully deeply challenge young children __________ and heavily improve their problem-solving skills.",
+    "question": "Highly demanding educational puzzles can deeply challenge young children __________ and heavily improve their problem-solving skills.",
     "options": [
      {
       "letter": "A",
@@ -1983,7 +1983,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "stroke"
+      "text": "stroked"
      }
     ],
     "answer": "D",
@@ -2013,7 +2013,7 @@ window.FLASHCARD_UNITS = {
     "vi": 33
    },
    {
-    "question": "The highly athletic young swimmer expertly used the complex __________ to successfully quickly win the deeply competitive local race.",
+    "question": "The highly athletic young swimmer expertly used the complex __________ to quickly win the deeply competitive local race.",
     "options": [
      {
       "letter": "A",
@@ -2090,7 +2090,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "instruct"
+      "text": "instructed"
      },
      {
       "letter": "C",
@@ -2151,7 +2151,7 @@ window.FLASHCARD_UNITS = {
     "vi": 39
    },
    {
-    "question": "The highly strict teacher strictly carefully __________ his noisy class into two entirely separate groups for the serious political debate.",
+    "question": "The highly strict teacher carefully __________ his noisy class into two entirely separate groups for the serious political debate.",
     "options": [
      {
       "letter": "A",
@@ -2266,7 +2266,7 @@ window.FLASHCARD_UNITS = {
     "vi": 44
    },
    {
-    "question": "I am incredibly deeply __________ for all the amazing help my generous friends kindly entirely offered during my difficult times.",
+    "question": "I am deeply __________ for all the amazing help my generous friends kindly offered during my difficult times.",
     "options": [
      {
       "letter": "A",
@@ -2293,7 +2293,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "excel"
+      "text": "excels"
      },
      {
       "letter": "B",
@@ -2343,7 +2343,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "showexpress gratitude to"
+      "text": "show gratitude to"
      },
      {
       "letter": "C",
@@ -2370,7 +2370,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "bring to mind"
+      "text": "brought to mind"
      },
      {
       "letter": "D",
@@ -2435,7 +2435,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "showexpress gratitude to"
+      "text": "show gratitude to"
      },
      {
       "letter": "C",
@@ -2500,7 +2500,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "excel"
+      "text": "excels"
      },
      {
       "letter": "B",
@@ -2558,7 +2558,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "excel"
+      "text": "excels"
      }
     ],
     "answer": "C",
@@ -2611,7 +2611,7 @@ window.FLASHCARD_UNITS = {
     "vi": 59
    },
    {
-    "question": "The totally independent country absolutely strongly refused to accept any __________ from foreign governments regarding its strictly domestic political elections.",
+    "question": "The totally independent country strongly refused to accept any __________ from foreign governments regarding its strictly domestic political elections.",
     "options": [
      {
       "letter": "A",
@@ -2738,11 +2738,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "perceive the dark neighborhood as"
+      "text": "perceived the dark neighborhood as"
      },
      {
       "letter": "D",
-      "text": "bring to mind"
+      "text": "brought to mind"
      }
     ],
     "answer": "A",
@@ -2841,7 +2841,7 @@ window.FLASHCARD_UNITS = {
     "vi": 69
    },
    {
-    "question": "The ambitious young student enthusiastically participates in numerous fun __________ activities to successfully successfully make her university application much stronger.",
+    "question": "The ambitious young student enthusiastically participates in numerous fun __________ activities to successfully make her university application much stronger.",
     "options": [
      {
       "letter": "A",
@@ -2864,7 +2864,7 @@ window.FLASHCARD_UNITS = {
     "vi": 70
    },
    {
-    "question": "The demanding university's highly rigorous __________ is specifically designed to carefully heavily challenge students to deeply think completely critically.",
+    "question": "The demanding university's rigorous __________ is specifically designed to challenge students to think critically.",
     "options": [
      {
       "letter": "A",
@@ -2979,7 +2979,7 @@ window.FLASHCARD_UNITS = {
     "vi": 75
    },
    {
-    "question": "The totally exhausted student's overall __________ heavily significantly dropped after he stupidly started playing highly addictive video games every night.",
+    "question": "The totally exhausted student's overall __________ significantly dropped after he stupidly started playing highly addictive video games every night.",
     "options": [
      {
       "letter": "A",
@@ -3002,11 +3002,11 @@ window.FLASHCARD_UNITS = {
     "vi": 76
    },
    {
-    "question": "The demanding sales manager strictly __________ his completely new team to actively successfully learn much more about the company's expensive products.",
+    "question": "The demanding sales manager strictly __________ his completely new team to successfully learn much more about the company's expensive products.",
     "options": [
      {
       "letter": "A",
-      "text": "instruct"
+      "text": "instructed"
      },
      {
       "letter": "B",
@@ -3014,7 +3014,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "stroke"
+      "text": "stroked"
      },
      {
       "letter": "D",
@@ -3025,7 +3025,7 @@ window.FLASHCARD_UNITS = {
     "vi": 77
    },
    {
-    "question": "If you simply carefully follow the detailed written __________ inside the box, building the new wooden table will be incredibly easy.",
+    "question": "If you carefully follow the detailed written __________ inside the box, building the new wooden table will be incredibly easy.",
     "options": [
      {
       "letter": "A",
@@ -3232,7 +3232,7 @@ window.FLASHCARD_UNITS = {
     "vi": 86
    },
    {
-    "question": "After failing the highly important final exam three completely separate times, the thoroughly exhausted student completely heavily threw his heavy books away __________.",
+    "question": "After failing the important final exam three separate times, the exhausted student threw his heavy books away __________.",
     "options": [
      {
       "letter": "A",
@@ -3248,7 +3248,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "perceive the dark neighborhood as"
+      "text": "perceived the dark neighborhood as"
      }
     ],
     "answer": "A",
@@ -3278,7 +3278,7 @@ window.FLASHCARD_UNITS = {
     "vi": 88
    },
    {
-    "question": "There are __________ completely significantly more happy people securely attending the bright music festival this year than there were exactly last year.",
+    "question": "There are __________ more people attending the music festival this year than there were last year.",
     "options": [
      {
       "letter": "A",
@@ -3301,7 +3301,7 @@ window.FLASHCARD_UNITS = {
     "vi": 89
    },
    {
-    "question": "If you successfully completely safely strictly rigorously diligently finish all your highly complex homework early tonight, you can __________ freely play fun video games afterwards.",
+    "question": "If you finish all your complex homework early tonight, you can __________ play fun video games afterwards.",
     "options": [
      {
       "letter": "A",
@@ -3324,7 +3324,7 @@ window.FLASHCARD_UNITS = {
     "vi": 90
    },
    {
-    "question": "The incredibly deeply deeply totally totally entirely completely thrilling new superhero movie is __________ the absolute best action film I have ever seen.)",
+    "question": "The thrilling new superhero movie is __________ the best entertaining action film I have ever seen.",
     "options": [
      {
       "letter": "A",
@@ -3336,7 +3336,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "perceive the dark neighborhood as"
+      "text": "perceived the dark neighborhood as"
      },
      {
       "letter": "D",
@@ -3351,7 +3351,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "perceive the dark neighborhood as"
+      "text": "perceived the dark neighborhood as"
      },
      {
       "letter": "B",
@@ -3370,7 +3370,7 @@ window.FLASHCARD_UNITS = {
     "vi": 92
    },
    {
-    "question": "There is absolutely __________ the completely obvious fact that totally perfectly absolutely entirely entirely totally regular daily heavily totally thoroughly exercise fully perfectly perfectly heavily heavily completely heavily deeply safely totally totally highly absolutely fully entirely directly entirely heavily absolutely strictly strictly perfectly perfectly completely strictly completely improves perfectly deeply totally fully highly overall entirely fully totally perfectly deeply highly completely thoroughly completely physical completely strictly deeply highly absolutely entirely fully entirely perfectly perfectly deeply perfectly completely perfectly entirely perfectly totally completely completely completely completely perfectly completely perfectly completely completely completely completely perfectly entirely completely perfectly entirely completely completely perfectly completely completely completely completely perfectly completely perfectly completely completely completely completely completely perfectly perfectly perfectly completely completely completely perfectly perfectly completely perfectly completely completely perfectly perfectly completely perfectly completely perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly perfectly completely perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly completely perfectly perfectly. I know for a fact, that this is the best value in fitness, and in particular to this kind of product category. You just can't beat what you get for the price, the service quality included”",
+    "question": "There is __________ the fact that regular daily exercise improves overall physical health.",
     "options": [
      {
       "letter": "A",
@@ -3378,7 +3378,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "perceive the dark neighborhood as"
+      "text": "perceived the dark neighborhood as"
      },
      {
       "letter": "C",
@@ -3395,4 +3395,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"resume":["a brief account of a person's education, qualifications, and previous experience, typically sent with a job application.","履歷"],"bilingual":["speaking two languages fluently.","雙語的"],"lingual":["relating to speech or language.","語言的"],"bilingualism":["fluency in or use of two languages.","雙語能力"],"biannual":["occurring twice a year.","一年兩次的"],"recall":["to bring a fact, event, or situation back into one's mind; remember.","回想起"],"withdraw":["to remove or take away something from a particular place or position.","撤回；收回"],"fluent":["able to express oneself easily and articulately.","流利的"],"fluency":["the quality or condition of being fluent.","流利程度"],"fluently":["in a beautifully smooth and articulate manner.","流利地"],"excel":["to be exceptionally good at or proficient in an activity or subject.","擅長；突出"],"excellent":["extremely good; outstanding.","優秀的"],"excellence":["the quality of being outstanding or extremely good.","卓越"],"perceive":["to become aware or conscious of something; come to realize or understand.","察覺；認為"],"perceived":["interpreted or looked on in a particular way.","被認為的；察覺到的"],"perception":["the ability to see, hear, or become aware of something through the senses.","觀感；知覺"],"perceptive":["having or showing sensitive insight.","敏銳的"],"cognitive":["relating to cognition or the mental action or process of acquiring knowledge.","認知的"],"cognitively":["in a way that relates to the mental action or process of acquiring knowledge.","認知上地"],"cognition":["the mental action or process of acquiring knowledge and understanding.","認知"],"likelihood":["the state or fact of something's being likely; probability.","可能性"],"likely":["such as well might happen or be true; probable.","可能的"],"unlikely":["not likely to happen, be done, or be true; improbable.","不太可能的"],"stroke":["a sudden disabling attack caused by an interruption in the flow of blood to the brain.","中風"],"backstroke":["a swimming stroke performed on the back with the arms lifted alternately out of the water.","仰式"],"disadvantage":["an unfavorable circumstance or condition that reduces the chances of success or effectiveness.","缺點；劣勢"],"advantage":["a condition or circumstance that puts one in a favorable or superior position.","優點；優勢"],"disadvantaged":["having fewer than normal opportunities, especially financially or socially.","弱勢的"],"split":["to break or cause to break forcibly into parts, especially into halves.","分裂；分開"],"thankfully":["in a thankful manner; fortunately.","幸運地；令人感激地"],"thankful":["pleased and relieved.","感激的"],"thank":["to express gratitude to someone for something.","感謝"],"grateful":["Feeling or showing thanks to someone who has done something kind for you.","感激的、感謝的"],"gratitude":["The feeling or quality of being grateful and wanting to express thanks.","感激之情、感恩、謝意"],"verbal":["relating to or in the form of words.","口頭的；言語的"],"non-verbal":["not involving or using words or speech.","非言語的"],"verbalize":["to express ideas or feelings in words, especially by speaking out loud.","用言語表達"],"verbally":["in spoken words rather than written ones.","口頭上地"],"interfere":["to take part or intervene in an activity without invitation or necessity.","干涉"],"interference":["the action of interfering or the process of being interfered with.","干涉；干擾"],"compulsory":["required by law or a rule; obligatory.","必修的；強制的"],"mandatory":["required by law or rules; compulsory.","強制的；義務的"],"non-compulsory":["not required by law or a rule; optional.","非強制的；選修的"],"elective":["A school course or subject that a student can choose to take, rather than one they must take.","選修課"],"optional":["That you can choose to do or use if you want to, but that you do not have to do.","可選擇的、非強制的"],"curriculum":["the subjects comprising a course of study in a school or college.","課程"],"extracurricular":["pursued in addition to the normal course of study.","課外的"],"academic":["relating to education and scholarship.","學術的"],"academically":["in regard to educational matters.","學術上地"],"instruct":["to direct or command someone to do something.","指導；指示"],"instruction":["a direction or order.","指示；教學"],"instructor":["a person who teaches something.","教練；講師"],"instructive":["useful and informative.","有教育意義的；有啟發性的"],"maximize":["to make as large or great as possible.","使增加到最大限度"],"minimize":["to reduce to the smallest possible amount or degree.","使減到最少"],"maximum":["the greatest amount, extent, or intensity possible, permitted, or recorded.","最大值"],"maximization":["the action of making something as large or great as possible.","最大化"],"despair":["to lose or be without hope.","絕望"],"desperate":["feeling, showing, or involving a hopeless sense that a situation is so bad as to be impossible to deal with.","絕望的；渴望的"],"undoubtedly":["without doubt; certainly.","毫無疑問地"],"certainly":["undoubtedly; definitely.","必定；當然"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"resume":["a brief account of a person's education, qualifications, and previous experience, typically sent with a job application.","履歷"],"bilingual":["speaking two languages fluently.","雙語的"],"lingual":["relating to speech or language.","語言的"],"bilingualism":["fluency in or use of two languages.","雙語能力"],"biannual":["occurring twice a year.","一年兩次的"],"recall":["to bring a fact, event, or situation back into one's mind; remember.","回想起"],"withdraw":["to remove or take away something from a particular place or position.","撤回；收回"],"fluent":["able to express oneself easily and articulately.","流利的"],"fluency":["the quality or condition of being fluent.","流利程度"],"fluently":["in a beautifully smooth and articulate manner.","流利地"],"excel":["to be exceptionally good at or proficient in an activity or subject.","擅長；突出"],"excels":["to be exceptionally good at or proficient in an activity or subject.","擅長；突出"],"excellent":["extremely good; outstanding.","優秀的"],"excellence":["the quality of being outstanding or extremely good.","卓越"],"perceive":["to become aware or conscious of something; come to realize or understand.","察覺；認為"],"perceived":["interpreted or looked on in a particular way.","被認為的；察覺到的"],"perception":["the ability to see, hear, or become aware of something through the senses.","觀感；知覺"],"perceptive":["having or showing sensitive insight.","敏銳的"],"cognitive":["relating to cognition or the mental action or process of acquiring knowledge.","認知的"],"cognitively":["in a way that relates to the mental action or process of acquiring knowledge.","認知上地"],"cognition":["the mental action or process of acquiring knowledge and understanding.","認知"],"likelihood":["the state or fact of something's being likely; probability.","可能性"],"likely":["such as well might happen or be true; probable.","可能的"],"unlikely":["not likely to happen, be done, or be true; improbable.","不太可能的"],"stroke":["a sudden disabling attack caused by an interruption in the flow of blood to the brain.","中風"],"stroked":["to move one's hand with gentle pressure over a surface.","撫摸"],"backstroke":["a swimming stroke performed on the back with the arms lifted alternately out of the water.","仰式"],"disadvantage":["an unfavorable circumstance or condition that reduces the chances of success or effectiveness.","缺點；劣勢"],"advantage":["a condition or circumstance that puts one in a favorable or superior position.","優點；優勢"],"disadvantaged":["having fewer than normal opportunities, especially financially or socially.","弱勢的"],"split":["to break or cause to break forcibly into parts, especially into halves.","分裂；分開"],"thankfully":["in a thankful manner; fortunately.","幸運地；令人感激地"],"thankful":["pleased and relieved.","感激的"],"thank":["to express gratitude to someone for something.","感謝"],"grateful":["Feeling or showing thanks to someone who has done something kind for you.","感激的、感謝的"],"gratitude":["The feeling or quality of being grateful and wanting to express thanks.","感激之情、感恩、謝意"],"verbal":["relating to or in the form of words.","口頭的；言語的"],"non-verbal":["not involving or using words or speech.","非言語的"],"verbalize":["to express ideas or feelings in words, especially by speaking out loud.","用言語表達"],"verbally":["in spoken words rather than written ones.","口頭上地"],"interfere":["to take part or intervene in an activity without invitation or necessity.","干涉"],"interference":["the action of interfering or the process of being interfered with.","干涉；干擾"],"compulsory":["required by law or a rule; obligatory.","必修的；強制的"],"mandatory":["required by law or rules; compulsory.","強制的；義務的"],"non-compulsory":["not required by law or a rule; optional.","非強制的；選修的"],"elective":["A school course or subject that a student can choose to take, rather than one they must take.","選修課"],"optional":["That you can choose to do or use if you want to, but that you do not have to do.","可選擇的、非強制的"],"curriculum":["the subjects comprising a course of study in a school or college.","課程"],"extracurricular":["pursued in addition to the normal course of study.","課外的"],"academic":["relating to education and scholarship.","學術的"],"academically":["in regard to educational matters.","學術上地"],"instructed":["to direct or command someone to do something.","指導；指示"],"instruct":["to direct or command someone to do something.","指導；指示"],"instruction":["a direction or order.","指示；教學"],"instructor":["a person who teaches something.","教練；講師"],"instructive":["useful and informative.","有教育意義的；有啟發性的"],"maximize":["to make as large or great as possible.","使增加到最大限度"],"minimize":["to reduce to the smallest possible amount or degree.","使減到最少"],"maximum":["the greatest amount, extent, or intensity possible, permitted, or recorded.","最大值"],"maximization":["the action of making something as large or great as possible.","最大化"],"despair":["to lose or be without hope.","絕望"],"desperate":["feeling, showing, or involving a hopeless sense that a situation is so bad as to be impossible to deal with.","絕望的；渴望的"],"undoubtedly":["without doubt; certainly.","毫無疑問地"],"certainly":["undoubtedly; definitely.","必定；當然"]});

@@ -122,8 +122,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "a ton of tons of",
-    "answer": "a ton of tons of",
+    "word": "a ton of / tons of",
+    "answer": "a ton of",
     "pos": "phr.",
     "definition": "a very large quantity or amount of people, things, or work",
     "chinese": "大量的...；許多...",
@@ -265,8 +265,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "emit emitted emitted",
-    "answer": "emit emitted emitted",
+    "word": "emit",
+    "answer": "emit",
     "pos": "v.",
     "definition": "to send out a beam of light, clean heat, loud sound, or dangerous gas",
     "chinese": "排放；發出",
@@ -275,7 +275,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "to send out a beam of light, clean heat, loud sound, or dangerous gas",
      "chinese": "排放；發出"
-    }
+    },
+    "forms": "emit / emitted / emitted"
    },
    {
     "word": "emission",
@@ -292,7 +293,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "intend to v",
-    "answer": "intend to",
+    "answer": "intend",
     "pos": "v.",
     "definition": "to have a plan or purpose in mind when performing an action",
     "chinese": "打算；企圖",
@@ -473,8 +474,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "reflect on upon",
-    "answer": "reflect on upon",
+    "word": "reflect on / upon",
+    "answer": "reflect on",
     "pos": "phr.",
     "definition": "to think deeply and carefully about a past experience or decision",
     "chinese": "認真思考；反省",
@@ -625,6 +626,19 @@ window.FLASHCARD_UNITS = {
     "translation": "當局敦促當地公民與警方合作，以抓捕危險的銀行竊賊。",
     "lookup": {
      "english": "to work together with another person or group to achieve a goal",
+     "chinese": "合作"
+    }
+   },
+   {
+    "word": "cooperation",
+    "answer": "cooperation",
+    "pos": "n.",
+    "definition": "the process of working together to the same end or for a shared purpose",
+    "chinese": "合作",
+    "sentence": "The project succeeded thanks to the close __________ between the two research teams.",
+    "translation": "由於兩個研究團隊之間的密切合作，這項計畫成功了。",
+    "lookup": {
+     "english": "the process of working together to the same end or for a shared purpose",
      "chinese": "合作"
     }
    },
@@ -857,7 +871,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "reflect on upon"
+      "text": "reflect on"
      },
      {
       "letter": "B",
@@ -865,7 +879,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "a ton of tons of"
+      "text": "a ton of"
      },
      {
       "letter": "D",
@@ -884,7 +898,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "mission"
+      "text": "cooperation"
      },
      {
       "letter": "C",
@@ -911,11 +925,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "intend to"
+      "text": "intend"
      },
      {
       "letter": "D",
-      "text": "a ton of tons of"
+      "text": "a ton of"
      }
     ],
     "answer": "A",
@@ -949,22 +963,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "inspector"
-     },
-     {
-      "letter": "B",
       "text": "tons"
      },
      {
+      "letter": "B",
+      "text": "inspector"
+     },
+     {
       "letter": "C",
-      "text": "hesitation"
+      "text": "guidelines"
      },
      {
       "letter": "D",
-      "text": "temptation"
+      "text": "hesitation"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 8
    },
    {
@@ -972,22 +986,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "recent issues"
+      "text": "emit"
      },
      {
       "letter": "B",
-      "text": "intend to"
+      "text": "a ton of"
      },
      {
       "letter": "C",
-      "text": "doggy bag"
+      "text": "recent issues"
      },
      {
       "letter": "D",
-      "text": "a ton of tons of"
+      "text": "tempted to"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 9
    },
    {
@@ -995,7 +1009,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "heap"
+      "text": "initiative"
      },
      {
       "letter": "B",
@@ -1003,14 +1017,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "inspection"
+      "text": "heap"
      },
      {
       "letter": "D",
-      "text": "institution"
+      "text": "inspection"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 10
    },
    {
@@ -1018,22 +1032,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "issued"
+      "text": "reflect"
      },
      {
       "letter": "B",
-      "text": "hesitate"
+      "text": "issued"
      },
      {
       "letter": "C",
-      "text": "heaped"
+      "text": "tempted"
      },
      {
       "letter": "D",
-      "text": "tempted"
+      "text": "heaped"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 11
    },
    {
@@ -1041,7 +1055,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "excludes"
+      "text": "banned"
      },
      {
       "letter": "B",
@@ -1049,14 +1063,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "banned"
+      "text": "excludes"
      },
      {
       "letter": "D",
-      "text": "cooperate"
+      "text": "gobbled"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 12
    },
    {
@@ -1064,22 +1078,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "inspector"
+      "text": "exclusion"
      },
      {
       "letter": "B",
-      "text": "ranch"
+      "text": "guidelines"
      },
      {
       "letter": "C",
-      "text": "emissions"
+      "text": "inspector"
      },
      {
       "letter": "D",
-      "text": "exclusion"
+      "text": "ranch"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 13
    },
    {
@@ -1087,22 +1101,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "corporate"
+      "text": "substantial"
      },
      {
       "letter": "B",
-      "text": "hesitant"
+      "text": "corporate"
      },
      {
       "letter": "C",
-      "text": "exclusive"
+      "text": "hesitant"
      },
      {
       "letter": "D",
-      "text": "cooperative"
+      "text": "exclusive"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 14
    },
    {
@@ -1110,7 +1124,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "leftover"
+      "text": "unintentional"
      },
      {
       "letter": "B",
@@ -1156,7 +1170,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "temptation"
+      "text": "tempting"
      },
      {
       "letter": "B",
@@ -1168,7 +1182,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "leftover"
+      "text": "gobbled"
      }
     ],
     "answer": "B",
@@ -1225,11 +1239,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "emit emitted emitted"
+      "text": "emit"
      },
      {
       "letter": "B",
-      "text": "intend to"
+      "text": "intend"
      },
      {
       "letter": "C",
@@ -1256,11 +1270,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "issues"
+      "text": "guidelines"
      },
      {
       "letter": "D",
-      "text": "economy"
+      "text": "issues"
      }
     ],
     "answer": "B",
@@ -1271,19 +1285,19 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "emit emitted emitted"
+      "text": "tempted to"
      },
      {
       "letter": "B",
-      "text": "recent issues"
+      "text": "emit"
      },
      {
       "letter": "C",
-      "text": "intend to"
+      "text": "intend"
      },
      {
       "letter": "D",
-      "text": "get rid of"
+      "text": "lift a ban"
      }
     ],
     "answer": "C",
@@ -1294,15 +1308,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "ban"
+      "text": "corporation"
      },
      {
       "letter": "B",
-      "text": "hesitation"
+      "text": "ban"
      },
      {
       "letter": "C",
-      "text": "tons"
+      "text": "hesitation"
      },
      {
       "letter": "D",
@@ -1317,22 +1331,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "exclusion"
+      "text": "exclusive"
      },
      {
       "letter": "B",
-      "text": "considerable"
-     },
-     {
-      "letter": "C",
       "text": "intentionally"
      },
      {
+      "letter": "C",
+      "text": "economic"
+     },
+     {
       "letter": "D",
-      "text": "excludes"
+      "text": "leftover"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 24
    },
    {
@@ -1340,22 +1354,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "corporate"
+      "text": "leftover"
      },
      {
       "letter": "B",
-      "text": "unintentional"
+      "text": "corporate"
      },
      {
       "letter": "C",
-      "text": "hesitant"
+      "text": "tempting"
      },
      {
       "letter": "D",
-      "text": "economic"
+      "text": "unintentional"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 25
    },
    {
@@ -1367,15 +1381,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "tempted"
+      "text": "gobbled"
      },
      {
       "letter": "C",
-      "text": "instituted"
+      "text": "heaped"
      },
      {
       "letter": "D",
-      "text": "initiated"
+      "text": "cooperate"
      }
     ],
     "answer": "A",
@@ -1386,22 +1400,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "intention"
+      "text": "ranch"
      },
      {
       "letter": "B",
-      "text": "guidelines"
+      "text": "reflection"
      },
      {
       "letter": "C",
-      "text": "inspector"
+      "text": "ban"
      },
      {
       "letter": "D",
-      "text": "ban"
+      "text": "exclusion"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 27
    },
    {
@@ -1409,22 +1423,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "a ton of tons of"
+      "text": "emit"
      },
      {
       "letter": "B",
-      "text": "get rid of"
+      "text": "doggy bag"
      },
      {
       "letter": "C",
-      "text": "lift a ban"
+      "text": "take the initiative"
      },
      {
       "letter": "D",
-      "text": "emit emitted emitted"
+      "text": "lift a ban"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 28
    },
    {
@@ -1432,7 +1446,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "excludes"
+      "text": "heaped"
      },
      {
       "letter": "B",
@@ -1444,7 +1458,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "instituted"
+      "text": "excludes"
      }
     ],
     "answer": "B",
@@ -1459,15 +1473,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "intention"
+      "text": "inspection"
      },
      {
       "letter": "C",
-      "text": "ban"
+      "text": "institution"
      },
      {
       "letter": "D",
-      "text": "shepherd"
+      "text": "guidelines"
      }
     ],
     "answer": "A",
@@ -1478,22 +1492,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "reflect on upon"
+      "text": "reflect on"
      },
      {
       "letter": "B",
-      "text": "recent issues"
+      "text": "intend"
      },
      {
       "letter": "C",
-      "text": "intend to"
+      "text": "take the initiative"
      },
      {
       "letter": "D",
-      "text": "take the initiative"
+      "text": "emit"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 31
    },
    {
@@ -1501,22 +1515,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "initiated"
+      "text": "hesitate"
      },
      {
       "letter": "B",
-      "text": "inspected"
+      "text": "instituted"
      },
      {
       "letter": "C",
-      "text": "issued"
+      "text": "banned"
      },
      {
       "letter": "D",
-      "text": "heaped"
+      "text": "inspected"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 32
    },
    {
@@ -1524,22 +1538,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "inspection"
+      "text": "mission"
      },
      {
       "letter": "B",
-      "text": "institute"
+      "text": "livestock"
      },
      {
       "letter": "C",
-      "text": "initiative"
+      "text": "inspection"
      },
      {
       "letter": "D",
-      "text": "issues"
+      "text": "institution"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 33
    },
    {
@@ -1547,22 +1561,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "livestock"
+      "text": "shepherd"
      },
      {
       "letter": "B",
-      "text": "ban"
+      "text": "inspector"
      },
      {
       "letter": "C",
-      "text": "tons"
+      "text": "issues"
      },
      {
       "letter": "D",
-      "text": "inspector"
+      "text": "institute"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 34
    },
    {
@@ -1570,22 +1584,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "excludes"
+      "text": "reflect"
      },
      {
       "letter": "B",
-      "text": "banned"
+      "text": "tempted"
      },
      {
       "letter": "C",
-      "text": "reflect"
+      "text": "banned"
      },
      {
       "letter": "D",
       "text": "inspected"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 35
    },
    {
@@ -1593,22 +1607,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "emit emitted emitted"
-     },
-     {
-      "letter": "B",
-      "text": "take the initiative"
-     },
-     {
-      "letter": "C",
       "text": "get rid of"
      },
      {
+      "letter": "B",
+      "text": "tempted to"
+     },
+     {
+      "letter": "C",
+      "text": "reflect on"
+     },
+     {
       "letter": "D",
-      "text": "reflect on upon"
+      "text": "take the initiative"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 36
    },
    {
@@ -1616,22 +1630,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "shepherd"
+      "text": "intention"
      },
      {
       "letter": "B",
-      "text": "reflection"
+      "text": "hesitation"
      },
      {
       "letter": "C",
-      "text": "emissions"
+      "text": "institute"
      },
      {
       "letter": "D",
-      "text": "inspector"
+      "text": "reflection"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 37
    },
    {
@@ -1639,22 +1653,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "initiative"
+      "text": "inspection"
      },
      {
       "letter": "B",
-      "text": "issues"
+      "text": "reflection"
      },
      {
       "letter": "C",
-      "text": "reflection"
+      "text": "mission"
      },
      {
       "letter": "D",
       "text": "shepherd"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 38
    },
    {
@@ -1670,11 +1684,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "inspected"
+      "text": "excludes"
      },
      {
       "letter": "D",
-      "text": "excludes"
+      "text": "tempted"
      }
     ],
     "answer": "A",
@@ -1685,22 +1699,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "livestock"
+      "text": "ranch"
      },
      {
       "letter": "B",
-      "text": "tons"
-     },
-     {
-      "letter": "C",
       "text": "institute"
      },
      {
+      "letter": "C",
+      "text": "inspection"
+     },
+     {
       "letter": "D",
-      "text": "heap"
+      "text": "shepherd"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 40
    },
    {
@@ -1708,22 +1722,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "inspector"
+      "text": "heap"
      },
      {
       "letter": "B",
-      "text": "institution"
+      "text": "livestock"
      },
      {
       "letter": "C",
-      "text": "economy"
+      "text": "tons"
      },
      {
       "letter": "D",
-      "text": "institute"
+      "text": "institution"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 41
    },
    {
@@ -1735,15 +1749,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "economy"
+      "text": "mission"
      },
      {
       "letter": "C",
-      "text": "exclusion"
+      "text": "inspector"
      },
      {
       "letter": "D",
-      "text": "heap"
+      "text": "economy"
      }
     ],
     "answer": "A",
@@ -1754,22 +1768,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "issues"
+      "text": "ranch"
      },
      {
       "letter": "B",
-      "text": "economy"
+      "text": "livestock"
      },
      {
       "letter": "C",
-      "text": "initiative"
+      "text": "shepherd"
      },
      {
       "letter": "D",
-      "text": "shepherd"
+      "text": "corporation"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 43
    },
    {
@@ -1777,22 +1791,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "ranch"
+      "text": "inspector"
      },
      {
       "letter": "B",
-      "text": "ban"
+      "text": "initiative"
      },
      {
       "letter": "C",
-      "text": "shepherd"
+      "text": "emissions"
      },
      {
       "letter": "D",
-      "text": "exclusion"
+      "text": "ranch"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 44
    },
    {
@@ -1800,7 +1814,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "substantial"
+      "text": "hesitant"
      },
      {
       "letter": "B",
@@ -1808,14 +1822,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "economic"
+      "text": "corporate"
      },
      {
       "letter": "D",
-      "text": "corporate"
+      "text": "substantial"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 45
    },
    {
@@ -1827,18 +1841,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "mission"
-     },
-     {
-      "letter": "C",
       "text": "corporation"
      },
      {
+      "letter": "C",
+      "text": "tons"
+     },
+     {
       "letter": "D",
-      "text": "ranch"
+      "text": "guidelines"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 46
    },
    {
@@ -1846,49 +1860,26 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "tempted"
-     },
-     {
-      "letter": "B",
       "text": "cooperate"
      },
      {
-      "letter": "C",
-      "text": "initiated"
-     },
-     {
-      "letter": "D",
-      "text": "excludes"
-     }
-    ],
-    "answer": "B",
-    "vi": 47
-   },
-   {
-    "question": "The suspect was surprisingly __________ during the interview and answered all the detective's questions.",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cooperative"
-     },
-     {
       "letter": "B",
-      "text": "tempting"
+      "text": "excludes"
      },
      {
       "letter": "C",
-      "text": "exclusive"
+      "text": "tempted"
      },
      {
       "letter": "D",
-      "text": "economic"
+      "text": "hesitate"
      }
     ],
     "answer": "A",
-    "vi": 48
+    "vi": 47
    },
    {
-    "question": "The core __________ of this non-profit group is to help poor people plant gardens in the city.",
+    "question": "The project succeeded thanks to the close __________ between the two research teams.",
     "options": [
      {
       "letter": "A",
@@ -1896,49 +1887,95 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "hesitation"
+      "text": "temptation"
      },
      {
       "letter": "C",
-      "text": "mission"
+      "text": "institute"
      },
      {
       "letter": "D",
-      "text": "temptation"
+      "text": "cooperation"
      }
     ],
-    "answer": "C",
+    "answer": "D",
+    "vi": 48
+   },
+   {
+    "question": "The suspect was surprisingly __________ during the interview and answered all the detective's questions.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "economic"
+     },
+     {
+      "letter": "B",
+      "text": "cooperative"
+     },
+     {
+      "letter": "C",
+      "text": "tempting"
+     },
+     {
+      "letter": "D",
+      "text": "hesitant"
+     }
+    ],
+    "answer": "B",
     "vi": 49
+   },
+   {
+    "question": "The core __________ of this non-profit group is to help poor people plant gardens in the city.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "mission"
+     },
+     {
+      "letter": "B",
+      "text": "inspector"
+     },
+     {
+      "letter": "C",
+      "text": "issues"
+     },
+     {
+      "letter": "D",
+      "text": "hesitation"
+     }
+    ],
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "Jerry __________ the small cat down from the tall tree with a piece of fresh fish.",
     "options": [
      {
       "letter": "A",
-      "text": "reflect"
+      "text": "banned"
      },
      {
       "letter": "B",
-      "text": "discarded"
+      "text": "excludes"
      },
      {
       "letter": "C",
-      "text": "inspected"
+      "text": "tempted"
      },
      {
       "letter": "D",
-      "text": "tempted"
+      "text": "heaped"
      }
     ],
-    "answer": "D",
-    "vi": 50
+    "answer": "C",
+    "vi": 51
    },
    {
     "question": "Peter was __________ eat another large bowl of chocolate ice cream, but he was too full.",
     "options": [
      {
       "letter": "A",
-      "text": "take the initiative"
+      "text": "recent issues"
      },
      {
       "letter": "B",
@@ -1946,7 +1983,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "reflect on upon"
+      "text": "reflect on"
      },
      {
       "letter": "D",
@@ -1954,33 +1991,56 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "B",
-    "vi": 51
+    "vi": 52
    },
    {
     "question": "The tech company offered him a very __________ job with a substantial monthly salary and bonuses.",
     "options": [
      {
       "letter": "A",
-      "text": "tempting"
-     },
-     {
-      "letter": "B",
       "text": "corporate"
      },
      {
+      "letter": "B",
+      "text": "cooperative"
+     },
+     {
       "letter": "C",
-      "text": "exclusive"
+      "text": "hesitant"
      },
      {
       "letter": "D",
-      "text": "substantial"
+      "text": "tempting"
      }
     ],
-    "answer": "A",
-    "vi": 52
+    "answer": "D",
+    "vi": 53
    },
    {
     "question": "When you are trying to stick to a strict diet, sweets are a major __________ to avoid.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "temptation"
+     },
+     {
+      "letter": "B",
+      "text": "institute"
+     },
+     {
+      "letter": "C",
+      "text": "tons"
+     },
+     {
+      "letter": "D",
+      "text": "initiative"
+     }
+    ],
+    "answer": "A",
+    "vi": 54
+   },
+   {
+    "question": "Please complete the official application form carefully according to the __________ provided below.",
     "options": [
      {
       "letter": "A",
@@ -1992,38 +2052,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "tons"
-     },
-     {
-      "letter": "D",
-      "text": "temptation"
-     }
-    ],
-    "answer": "D",
-    "vi": 53
-   },
-   {
-    "question": "Please complete the official application form carefully according to the __________ provided below.",
-    "options": [
-     {
-      "letter": "A",
-      "text": "ban"
-     },
-     {
-      "letter": "B",
       "text": "guidelines"
      },
      {
-      "letter": "C",
-      "text": "heap"
-     },
-     {
       "letter": "D",
-      "text": "ranch"
+      "text": "tons"
      }
     ],
-    "answer": "B",
-    "vi": 54
+    "answer": "C",
+    "vi": 55
    },
    {
     "question": "The hungry dog __________ up all of the delicious meat that had fallen to the kitchen floor.",
@@ -2034,19 +2071,19 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "reflect"
-     },
-     {
-      "letter": "C",
       "text": "gobbled"
      },
      {
-      "letter": "D",
+      "letter": "C",
       "text": "discarded"
+     },
+     {
+      "letter": "D",
+      "text": "reflect"
      }
     ],
-    "answer": "C",
-    "vi": 55
+    "answer": "B",
+    "vi": 56
    },
    {
     "question": "We stored the __________ chicken soup in the refrigerator so we could heat it up for dinner tomorrow.",
@@ -2057,19 +2094,19 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "exclusive"
+      "text": "economic"
      },
      {
       "letter": "C",
-      "text": "tempting"
+      "text": "exclusive"
      },
      {
       "letter": "D",
-      "text": "considerable"
+      "text": "tempting"
      }
     ],
     "answer": "A",
-    "vi": 56
+    "vi": 57
    },
    {
     "question": "She asked the polite waiter for a __________ to take the leftover pizza home to her kids.",
@@ -2080,7 +2117,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "intend to"
+      "text": "tempted to"
      },
      {
       "letter": "C",
@@ -2088,13 +2125,13 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "take the initiative"
+      "text": "emit"
      }
     ],
     "answer": "C",
-    "vi": 57
+    "vi": 58
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hesitate":["to pause before you do or say something, often because you are uncertain","猶豫；遲疑"],"hesitation":["the act of pausing before doing something because you are uncertain or nervous","猶豫；躊躇"],"hesitant":["tentative, unsure, or slow in acting or speaking due to uncertainty","猶豫的；遲疑的"],"discard":["to throw something away because it is useless, broken, or no longer wanted","丟棄；拋棄"],"discarded":["to throw something away because it is useless, broken, or no longer wanted","丟棄；拋棄"],"issues":["an important topic or problem for debate; a particular edition of a magazine","議題；（刊物的）期號"],"issue":["an important topic or problem for debate; a particular edition of a magazine","議題；（刊物的）期號"],"issued":["to officially produce, give out, or publish something for the public","發行；發布；核發"],"ton":["a unit of weight equal to 1,000 kilograms; a very large amount","噸；大量"],"tons":["a unit of weight equal to 1,000 kilograms; a very large amount","噸；大量"],"heap":["an untidy collection of objects placed on top of each other","一堆"],"heaped":["to put things into an untidy pile, or to give someone a lot of praise","堆積；大量給予"],"excludes":["to deliberately prevent someone or something from entering a place or group","排除；不包括"],"exclude":["to deliberately prevent someone or something from entering a place or group","排除；不包括"],"exclusion":["the act of officially excluding someone or something from a place or group","排除；排斥"],"exclusive":["limited to a single choice person or group, or expensive and high-quality","獨家的；專屬的高級"],"substantial":["large in size, value, amount, or central importance","大量的；實質的；重大的"],"considerable":["large or important enough to have a noticeable effect or to be noticed","相當大/多的"],"economically":["in a way that relates to the economy, or in a way that saves money","經濟上；節約地"],"economic":["relating to the trade, industry, and money management of a country","經濟的；經濟學的"],"economy":["the state of a country or region in terms of the production of goods","經濟；節約"],"emission":["the production and discharge of something, especially gas or radiation","排放；排放物"],"emissions":["the production and discharge of something, especially gas or radiation","排放；排放物"],"intention":["an aim, purpose, or specific plan that guides someone's behavior","意圖；打算"],"intentionally":["deliberately; done on purpose rather than by an accident","故意地；有意地"],"unintentional":["accidental; not done on purpose or with a specific plan","無意的；非故意的"],"banned":["to officially forbid or prohibit someone from doing something","禁止"],"ban...from...":["to officially forbid or prohibit someone from doing something","禁止"],"ban":["an official order that forbids something from being done or used","禁令"],"initiate":["to cause a process or action to begin officially or formally","開始；發起；創始"],"initiated":["to cause a process or action to begin officially or formally","開始；發起；創始"],"initiative":["the ability to assess and start things independently; a new plan","倡議；主動性"],"inspected":["to look at something carefully, especially to check its quality or safety","檢查；視察"],"inspect":["to look at something carefully, especially to check its quality or safety","檢查；視察"],"inspection":["an official visit to check that rules are being obeyed or safety is adequate","檢查；視察"],"inspector":["an official whose job is to check that regulations are being followed correctly","檢查員；督學"],"reflect":["to throw back heat, light, or sound without absorbing it; to show or manifest","反映；反射；映射"],"reflection":["an image seen in a mirror or shiny surface, or deep thought","倒影；反射"],"institute":["to introduce or establish a new system, regulation, or official rule","制定；設立"],"instituted":["to introduce or establish a new system, regulation, or official rule","制定；設立"],"institution":["a large important organization such as a university, bank, or hospital","機構；制度"],"livestock":["farm animals regarded as an asset or kept for commercial profit","家畜"],"shepherd":["a person whose professional job is to tend, herd, guard, and care for flocks of sheep","牧羊人"],"ranch":["a very large farm, especially in North America, where cattle or other animals are bred and raised","農場；大牧場"],"corporate":["relating to a large company or business group, or shared by all members of a group","公司的；法人的；共同的"],"corporation":["a large company or a group of companies authorized to act as a single entity","大公司；集團公司；法人"],"cooperate":["to work together with another person or group to achieve a goal","合作"],"cooperative":["willing to help or do what is asked, or involving mutual cooperation","合作的；樂意配合的"],"mission":["an important assignment given to a person or group, typically involving travel","任務；使命"],"tempt":["to entice or try to invite someone to do something, especially something wrong","誘惑；引誘"],"tempted":["to entice or try to invite someone to do something, especially something wrong","誘惑；引誘"],"tempting":["attractive or appealing, causing a strong desire to have or do something","誘人的"],"temptation":["the desire to do something, especially something wrong or unwise","誘惑"],"guideline":["a general rule, principle, or piece of advice that guides behavior","指導方針；準則"],"guidelines":["a general rule, principle, or piece of advice that guides behavior","指導方針；準則"],"gobble":["to eat something hurriedly and noisily, like an aggressive animal","狼吞虎嚥"],"gobbled":["to eat something hurriedly and noisily, like an aggressive animal","狼吞虎嚥"],"leftover":["food remaining uneaten at the end of a meal, kept for future use","剩菜剩飯"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hesitate":["to pause before you do or say something, often because you are uncertain","猶豫；遲疑"],"hesitation":["the act of pausing before doing something because you are uncertain or nervous","猶豫；躊躇"],"hesitant":["tentative, unsure, or slow in acting or speaking due to uncertainty","猶豫的；遲疑的"],"discarded":["to throw something away because it is useless, broken, or no longer wanted","丟棄；拋棄"],"discard":["to throw something away because it is useless, broken, or no longer wanted","丟棄；拋棄"],"issue":["an important topic or problem for debate; a particular edition of a magazine","議題；（刊物的）期號"],"issues":["an important topic or problem for debate; a particular edition of a magazine","議題；（刊物的）期號"],"issued":["to officially produce, give out, or publish something for the public","發行；發布；核發"],"ton":["a unit of weight equal to 1,000 kilograms; a very large amount","噸；大量"],"tons":["a unit of weight equal to 1,000 kilograms; a very large amount","噸；大量"],"heap":["an untidy collection of objects placed on top of each other","一堆"],"heaped":["to put things into an untidy pile, or to give someone a lot of praise","堆積；大量給予"],"exclude":["to deliberately prevent someone or something from entering a place or group","排除；不包括"],"excludes":["to deliberately prevent someone or something from entering a place or group","排除；不包括"],"exclusion":["the act of officially excluding someone or something from a place or group","排除；排斥"],"exclusive":["limited to a single choice person or group, or expensive and high-quality","獨家的；專屬的高級"],"substantial":["large in size, value, amount, or central importance","大量的；實質的；重大的"],"considerable":["large or important enough to have a noticeable effect or to be noticed","相當大/多的"],"economically":["in a way that relates to the economy, or in a way that saves money","經濟上；節約地"],"economic":["relating to the trade, industry, and money management of a country","經濟的；經濟學的"],"economy":["the state of a country or region in terms of the production of goods","經濟；節約"],"emit":["to send out a beam of light, clean heat, loud sound, or dangerous gas","排放；發出"],"emission":["the production and discharge of something, especially gas or radiation","排放；排放物"],"emissions":["the production and discharge of something, especially gas or radiation","排放；排放物"],"intend":["to have a plan or purpose in mind when performing an action","打算；企圖"],"intention":["an aim, purpose, or specific plan that guides someone's behavior","意圖；打算"],"intentionally":["deliberately; done on purpose rather than by an accident","故意地；有意地"],"unintentional":["accidental; not done on purpose or with a specific plan","無意的；非故意的"],"ban...from...":["to officially forbid or prohibit someone from doing something","禁止"],"banned":["to officially forbid or prohibit someone from doing something","禁止"],"ban":["an official order that forbids something from being done or used","禁令"],"initiate":["to cause a process or action to begin officially or formally","開始；發起；創始"],"initiated":["to cause a process or action to begin officially or formally","開始；發起；創始"],"initiative":["the ability to assess and start things independently; a new plan","倡議；主動性"],"inspected":["to look at something carefully, especially to check its quality or safety","檢查；視察"],"inspect":["to look at something carefully, especially to check its quality or safety","檢查；視察"],"inspection":["an official visit to check that rules are being obeyed or safety is adequate","檢查；視察"],"inspector":["an official whose job is to check that regulations are being followed correctly","檢查員；督學"],"reflect":["to throw back heat, light, or sound without absorbing it; to show or manifest","反映；反射；映射"],"reflection":["an image seen in a mirror or shiny surface, or deep thought","倒影；反射"],"instituted":["to introduce or establish a new system, regulation, or official rule","制定；設立"],"institute":["to introduce or establish a new system, regulation, or official rule","制定；設立"],"institution":["a large important organization such as a university, bank, or hospital","機構；制度"],"livestock":["farm animals regarded as an asset or kept for commercial profit","家畜"],"shepherd":["a person whose professional job is to tend, herd, guard, and care for flocks of sheep","牧羊人"],"ranch":["a very large farm, especially in North America, where cattle or other animals are bred and raised","農場；大牧場"],"corporate":["relating to a large company or business group, or shared by all members of a group","公司的；法人的；共同的"],"corporation":["a large company or a group of companies authorized to act as a single entity","大公司；集團公司；法人"],"cooperate":["to work together with another person or group to achieve a goal","合作"],"cooperation":["the process of working together to the same end or for a shared purpose","合作"],"cooperative":["willing to help or do what is asked, or involving mutual cooperation","合作的；樂意配合的"],"mission":["an important assignment given to a person or group, typically involving travel","任務；使命"],"tempt":["to entice or try to invite someone to do something, especially something wrong","誘惑；引誘"],"tempted":["to entice or try to invite someone to do something, especially something wrong","誘惑；引誘"],"tempting":["attractive or appealing, causing a strong desire to have or do something","誘人的"],"temptation":["the desire to do something, especially something wrong or unwise","誘惑"],"guidelines":["a general rule, principle, or piece of advice that guides behavior","指導方針；準則"],"guideline":["a general rule, principle, or piece of advice that guides behavior","指導方針；準則"],"gobbled":["to eat something hurriedly and noisily, like an aggressive animal","狼吞虎嚥"],"gobble":["to eat something hurriedly and noisily, like an aggressive animal","狼吞虎嚥"],"leftover":["food remaining uneaten at the end of a meal, kept for future use","剩菜剩飯"]});

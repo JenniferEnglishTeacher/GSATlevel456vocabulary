@@ -109,13 +109,13 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "ageing aging",
-    "answer": "ageing aging",
+    "word": "ageing / aging",
+    "answer": "aging",
     "pos": "adj.",
     "definition": "Becoming older, or showing signs of growing old.",
     "chinese": "變老的、高齡化的、老化的",
     "sentence": "The government is building more nursing homes to provide better medical care for the country's __________ population.",
-    "translation": "政府正在建造更多養老院，以便為該國**高齡化的（變老的）**人口提供更好的醫療照護。",
+    "translation": "政府正在建造更多養老院，以便為該國高齡化的（變老的）人口提供更好的醫療照護。",
     "lookup": {
      "english": "Becoming older, or showing signs of growing old.",
      "chinese": "變老的、高齡化的、老化的"
@@ -154,7 +154,7 @@ window.FLASHCARD_UNITS = {
     "definition": "An older person, usually someone who has retired from work (often over 65).",
     "chinese": "老年人、銀髮族",
     "sentence": "Every __________ living in this city can take public transportation for free by showing their special identity card.",
-    "translation": "居住在這座城市的每位**老年人（銀髮族）**大只要出示他們的特殊身分證，就可以免費搭乘大眾運輸。",
+    "translation": "居住在這座城市的每位老年人（銀髮族）大只要出示他們的特殊身分證，就可以免費搭乘大眾運輸。",
     "lookup": {
      "english": "An older person, usually someone who has retired from work (often over 65).",
      "chinese": "老年人、銀髮族"
@@ -959,7 +959,7 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "by or as if by magic.",
     "chinese": "如魔法般地；神奇地",
-    "sentence": "During the impressive performance, the floating cup appeared to __________ hover completely unsupported right above the wooden wooden desk.",
+    "sentence": "During the impressive performance, the floating cup appeared to __________ hover completely unsupported right above the wooden desk.",
     "translation": "在令人印象深刻的表演中，漂浮的杯子似乎神奇地完全無支撐地盤旋在木製書桌正上方。",
     "lookup": {
      "english": "by or as if by magic.",
@@ -1020,7 +1020,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "transform",
-    "answer": "transform",
+    "answer": "transformed",
     "pos": "v.",
     "definition": "to make a thorough or dramatic change in the form, appearance, or character of.",
     "chinese": "改變；改造",
@@ -1064,7 +1064,7 @@ window.FLASHCARD_UNITS = {
     "definition": "to cause to change in form, character, or function.",
     "chinese": "轉換；改變",
     "sentence": "The wealthy businessman decided to expensively __________ his massive basement into a fully equipped private cinema for his family.",
-    "translation": "富有的商人決定花大錢將他巨大的地下室**改裝（轉換）**成一個設備齊全的家庭私人電影院。",
+    "translation": "富有的商人決定花大錢將他巨大的地下室改裝（轉換）成一個設備齊全的家庭私人電影院。",
     "lookup": {
      "english": "to cause to change in form, character, or function.",
      "chinese": "轉換；改變"
@@ -1129,7 +1129,7 @@ window.FLASHCARD_UNITS = {
     "definition": "the state of being stretched tight; mental or emotional strain.",
     "chinese": "緊張；拉力",
     "sentence": "The unbearable physical __________ in his sore shoulders finally began to disappear after he took a long, hot shower.",
-    "translation": "在洗了個舒服的熱水澡後，他痠痛肩膀上難以忍受的身體**緊張（緊繃）**終於開始消失了。",
+    "translation": "在洗了個舒服的熱水澡後，他痠痛肩膀上難以忍受的身體緊張（緊繃）終於開始消失了。",
     "lookup": {
      "english": "the state of being stretched tight; mental or emotional strain.",
      "chinese": "緊張；拉力"
@@ -1677,7 +1677,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "ageing aging"
+      "text": "aging"
      },
      {
       "letter": "B",
@@ -3168,7 +3168,7 @@ window.FLASHCARD_UNITS = {
     "vi": 72
    },
    {
-    "question": "During the impressive performance, the floating cup appeared to __________ hover completely unsupported right above the wooden wooden desk.",
+    "question": "During the impressive performance, the floating cup appeared to __________ hover completely unsupported right above the wooden desk.",
     "options": [
      {
       "letter": "A",
@@ -3295,7 +3295,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "transform"
+      "text": "transformed"
      },
      {
       "letter": "D",
@@ -3356,7 +3356,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "transform"
+      "text": "transformed"
      },
      {
       "letter": "B",
@@ -3383,7 +3383,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "transform"
+      "text": "transformed"
      },
      {
       "letter": "C",
@@ -3636,7 +3636,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "transform"
+      "text": "transformed"
      },
      {
       "letter": "C",
@@ -3778,7 +3778,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "ageing aging"
+      "text": "aging"
      },
      {
       "letter": "D",
@@ -3805,7 +3805,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "ageing aging"
+      "text": "aging"
      }
     ],
     "answer": "A",
@@ -3916,7 +3916,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "transform"
+      "text": "transformed"
      },
      {
       "letter": "D",
@@ -4113,4 +4113,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"therapy":["treatment intended to relieve or heal a disorder.","治療；療法"],"ancient":["belonging to the very distant past and no longer in existence.","古老的"],"elderly":["old or aging.","年長的"],"aged":["having lived for a specified length of time; having grown old.","...歲的；年老的"],"middle-aged":["Being in the period of life between youth and old age, typically from about 40 to 60 years old.","中年的"],"senior":["an older person; of a more advanced age.","年長者；資深的"],"limit":["a point or level beyond which something does not or may not extend or pass.","限制；極限"],"limitation":["a limiting rule or circumstance; a restriction.","限制；極限"],"restrict":["to put a limit on someone or something, or to keep something within strict legal boundaries","限制；限定（動詞）"],"restriction":["an official rule, statute, or law that limits what people can do or how a total system operates","限制（名詞）"],"prohibit":["to officially or legally forbid something by a law, rule, statue, or authoritative decree","禁止；不准（動詞）"],"inhibit...from":["to prevent, slow down, or hinder someone or something from making progress or developing naturally","阻礙...做...；抑制..."],"inhibition":["a feeling of embarrassment or worry that prevents you from saying or doing what you truly want","拘束；顧忌；壓抑"],"restraint":["controlled behavior, self-control, or a legal/physical restriction that limits someone's freedom or actions","克制；抑制；約束（名詞）"],"election":["a formal and organized choice by vote of a person for a political office or other position","選舉"],"referendum":["a general vote by the electorate on a single political question which has been referred to them for a direct decision","公民投票；公投"],"notice":["to become aware of; the fact of observing or paying attention to something.","注意（到）"],"noticeable":["easily seen or noticed; clear or apparent.","明顯的；引人注目的"],"bulletin":["A short official statement or news report about an important matter of public interest.","（官方的）簡報、公告、新聞快報"],"apparent":["clearly visible or understood; obvious.","明顯的；顯而易見的"],"obvious":["Easy to see, recognize, or understand.","明顯的、顯而易見的"],"ambiguous":["open to more than one interpretation; having a double meaning.","模稜兩可的"],"vague":["Not clear, definite, or specific in thought, expression, or details.","模糊的、含糊的、不明確的"],"blurry":["Not clear or sharp, especially when referring to images, photos, or vision.","模糊的、（影像）不清晰的"],"abstract":["Existing as an idea, feeling, or quality rather than a physical or material object.","抽象的"],"facility":["space or equipment necessary for doing something.","設施；機構"],"facilitate":["to make an action or process easy or easier.","促進；使便利"],"wheelchair":["a chair fitted with wheels for use as a means of transport by a person who is unable to walk.","輪椅"],"interaction":["reciprocal action or influence; communication.","互動"],"interactive":["allowing a two-way flow of information between a computer and a computer-user; responding to a user's input.","互動式的"],"magical":["relating to, using, or resembling magic.","魔法的；神奇的"],"magically":["by or as if by magic.","如魔法般地；神奇地"],"miracle":["an extraordinary and welcome event that is not explicable by natural or scientific laws and is considered to be the work of a divine agency","奇蹟"],"miraculous":["occurring through divine or extraordinary intervention; highly improbable and extraordinarily wonderful","奇蹟般的；不可思議的"],"miraculously":["in a way that resembles or suggests a miracle; extraordinarily, unexpectedly, or completely by chance","奇蹟般地"],"transform":["to make a thorough or dramatic change in the form, appearance, or character of.","改變；改造"],"transformation":["a thorough or dramatic change in form or appearance.","轉變；變形"],"convert":["to cause to change in form, character, or function.","轉換；改變"],"relax":["to rest from work or engage in an enjoyable activity so as to become less tired or anxious.","放鬆"],"relaxation":["the state of being free from tension and anxiety.","放鬆；消遣"],"relaxed":["free from tension and anxiety; at ease.","放鬆的；從容的"],"relaxing":["reducing tension or anxiety.","令人放鬆的"],"tension":["the state of being stretched tight; mental or emotional strain.","緊張；拉力"],"presence":["the state or fact of existing, occurring, or being present in a place or thing.","出席；存在"],"present":["existing or occurring now; in a particular place.","在場的；現在的"],"absence":["the state of being away from a place or person.","缺席；不在"],"orphan":["a child whose parents are dead; to make a child an orphan.","孤兒；使成為孤兒"],"orphanage":["a residential institution for the care and education of orphans.","孤兒院"],"express":["to convey a thought or feeling in words or by gestures and conduct.","表達"],"expressive":["effectively conveying thought or feeling.","富於表情的；善於表達的"],"expression":["the process of making known one's thoughts or feelings.","表達；表情"],"talkative":["fond of or given to talking.","健談的；多話的"],"collective":["done by people acting as a group.","集體的；共同的"],"tense":["stretched tight or unable to relax; causing anxiety.","緊張的；緊繃的"],"intensive":["involving a high degree of concentrated effort, massive resources, or energy within a short time","密集的；集中的"],"relieve":["to cause pain, distress, or difficulty to become less severe or serious.","減輕；緩解"],"relief":["a feeling of reassurance and relaxation following release from anxiety or distress.","如釋重負；解脫"],"relieved":["no longer feeling distressed or anxious; reassured.","感到寬慰的"],"anxiety":["a feeling of worry, nervousness, or unease, typically about an imminent event.","焦慮"],"anxious":["experiencing worry, nervousness, or unease.","焦慮的；渴望的"],"anxiously":["in a manner resulting from or revealing anxiety.","焦急地"],"depression":["a persistent mental health condition characterized by severe long-term sadness, low energy, and loss of interest","憂鬱症；沮喪"],"depressed":["feeling deeply sad, hopeless, and discouraged about life or a specific unfortunate situation","感到憂鬱的；沮喪的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"therapy":["treatment intended to relieve or heal a disorder.","治療；療法"],"ancient":["belonging to the very distant past and no longer in existence.","古老的"],"elderly":["old or aging.","年長的"],"aged":["having lived for a specified length of time; having grown old.","...歲的；年老的"],"middle-aged":["Being in the period of life between youth and old age, typically from about 40 to 60 years old.","中年的"],"aging":["Becoming older, or showing signs of growing old.","變老的、高齡化的、老化的"],"senior":["an older person; of a more advanced age.","年長者；資深的"],"limit":["a point or level beyond which something does not or may not extend or pass.","限制；極限"],"limitation":["a limiting rule or circumstance; a restriction.","限制；極限"],"restrict":["to put a limit on someone or something, or to keep something within strict legal boundaries","限制；限定（動詞）"],"restriction":["an official rule, statute, or law that limits what people can do or how a total system operates","限制（名詞）"],"prohibit":["to officially or legally forbid something by a law, rule, statue, or authoritative decree","禁止；不准（動詞）"],"inhibit...from":["to prevent, slow down, or hinder someone or something from making progress or developing naturally","阻礙...做...；抑制..."],"inhibition":["a feeling of embarrassment or worry that prevents you from saying or doing what you truly want","拘束；顧忌；壓抑"],"restraint":["controlled behavior, self-control, or a legal/physical restriction that limits someone's freedom or actions","克制；抑制；約束（名詞）"],"election":["a formal and organized choice by vote of a person for a political office or other position","選舉"],"referendum":["a general vote by the electorate on a single political question which has been referred to them for a direct decision","公民投票；公投"],"notice":["to become aware of; the fact of observing or paying attention to something.","注意（到）"],"noticeable":["easily seen or noticed; clear or apparent.","明顯的；引人注目的"],"bulletin":["A short official statement or news report about an important matter of public interest.","（官方的）簡報、公告、新聞快報"],"apparent":["clearly visible or understood; obvious.","明顯的；顯而易見的"],"obvious":["Easy to see, recognize, or understand.","明顯的、顯而易見的"],"ambiguous":["open to more than one interpretation; having a double meaning.","模稜兩可的"],"vague":["Not clear, definite, or specific in thought, expression, or details.","模糊的、含糊的、不明確的"],"blurry":["Not clear or sharp, especially when referring to images, photos, or vision.","模糊的、（影像）不清晰的"],"abstract":["Existing as an idea, feeling, or quality rather than a physical or material object.","抽象的"],"facility":["space or equipment necessary for doing something.","設施；機構"],"facilitate":["to make an action or process easy or easier.","促進；使便利"],"wheelchair":["a chair fitted with wheels for use as a means of transport by a person who is unable to walk.","輪椅"],"interaction":["reciprocal action or influence; communication.","互動"],"interactive":["allowing a two-way flow of information between a computer and a computer-user; responding to a user's input.","互動式的"],"magical":["relating to, using, or resembling magic.","魔法的；神奇的"],"magically":["by or as if by magic.","如魔法般地；神奇地"],"miracle":["an extraordinary and welcome event that is not explicable by natural or scientific laws and is considered to be the work of a divine agency","奇蹟"],"miraculous":["occurring through divine or extraordinary intervention; highly improbable and extraordinarily wonderful","奇蹟般的；不可思議的"],"miraculously":["in a way that resembles or suggests a miracle; extraordinarily, unexpectedly, or completely by chance","奇蹟般地"],"transform":["to make a thorough or dramatic change in the form, appearance, or character of.","改變；改造"],"transformed":["to make a thorough or dramatic change in the form, appearance, or character of.","改變；改造"],"transformation":["a thorough or dramatic change in form or appearance.","轉變；變形"],"convert":["to cause to change in form, character, or function.","轉換；改變"],"relax":["to rest from work or engage in an enjoyable activity so as to become less tired or anxious.","放鬆"],"relaxation":["the state of being free from tension and anxiety.","放鬆；消遣"],"relaxed":["free from tension and anxiety; at ease.","放鬆的；從容的"],"relaxing":["reducing tension or anxiety.","令人放鬆的"],"tension":["the state of being stretched tight; mental or emotional strain.","緊張；拉力"],"presence":["the state or fact of existing, occurring, or being present in a place or thing.","出席；存在"],"present":["existing or occurring now; in a particular place.","在場的；現在的"],"absence":["the state of being away from a place or person.","缺席；不在"],"orphan":["a child whose parents are dead; to make a child an orphan.","孤兒；使成為孤兒"],"orphanage":["a residential institution for the care and education of orphans.","孤兒院"],"express":["to convey a thought or feeling in words or by gestures and conduct.","表達"],"expressive":["effectively conveying thought or feeling.","富於表情的；善於表達的"],"expression":["the process of making known one's thoughts or feelings.","表達；表情"],"talkative":["fond of or given to talking.","健談的；多話的"],"collective":["done by people acting as a group.","集體的；共同的"],"tense":["stretched tight or unable to relax; causing anxiety.","緊張的；緊繃的"],"intensive":["involving a high degree of concentrated effort, massive resources, or energy within a short time","密集的；集中的"],"relieve":["to cause pain, distress, or difficulty to become less severe or serious.","減輕；緩解"],"relief":["a feeling of reassurance and relaxation following release from anxiety or distress.","如釋重負；解脫"],"relieved":["no longer feeling distressed or anxious; reassured.","感到寬慰的"],"anxiety":["a feeling of worry, nervousness, or unease, typically about an imminent event.","焦慮"],"anxious":["experiencing worry, nervousness, or unease.","焦慮的；渴望的"],"anxiously":["in a manner resulting from or revealing anxiety.","焦急地"],"depression":["a persistent mental health condition characterized by severe long-term sadness, low energy, and loss of interest","憂鬱症；沮喪"],"depressed":["feeling deeply sad, hopeless, and discouraged about life or a specific unfortunate situation","感到憂鬱的；沮喪的"]});

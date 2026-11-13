@@ -669,7 +669,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "oppose",
-    "answer": "oppose",
+    "answer": "opposed",
     "pos": "v.",
     "definition": "To disapprove of and attempt to prevent.",
     "chinese": "反對",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "bear-bore-born",
-    "answer": "bear-bore-born",
+    "answer": "bear",
     "pos": "v.",
     "definition": "To endure an ordeal or difficulty.",
     "chinese": "忍受",
@@ -720,8 +720,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "stand-stood-stood",
-    "answer": "stand-stood-stood",
+    "word": "stand",
+    "answer": "stand",
     "pos": "v.",
     "definition": "To be able to endure or tolerate.",
     "chinese": "忍受",
@@ -730,7 +730,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "To be able to endure or tolerate.",
      "chinese": "忍受"
-    }
+    },
+    "forms": "stand / stood / stood"
    },
    {
     "word": "tolerate",
@@ -838,7 +839,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "conquer one's fear",
-    "answer": "conquer fear",
+    "answer": "conquer her fear",
     "pos": "phr.",
     "definition": "To successfully overcome a feeling of being afraid.",
     "chinese": "克服恐懼",
@@ -1033,7 +1034,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "have a crush on somebody",
-    "answer": "have a crush on",
+    "answer": "had had a crush on her",
     "pos": "phr.",
     "definition": "To have a feeling of romantic love for someone.",
     "chinese": "迷戀某人",
@@ -1098,7 +1099,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "bear a resemblance to",
-    "answer": "bear a resemblance to",
+    "answer": "bears a resemblance to",
     "pos": "phr.",
     "definition": "To look like or be similar to someone or something.",
     "chinese": "與...有相似之處",
@@ -1137,7 +1138,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "be subject to",
-    "answer": "is subject to",
+    "answer": "are subject to",
     "pos": "phr.",
     "definition": "To be likely to be affected by something, or dependent on a condition.",
     "chinese": "易受...影響；取決於",
@@ -2257,7 +2258,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "oppose"
+      "text": "opposed"
      },
      {
       "letter": "D",
@@ -2272,7 +2273,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "stand-stood-stood"
+      "text": "stand"
      },
      {
       "letter": "B",
@@ -2280,7 +2281,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "bear-bore-born"
+      "text": "bear"
      },
      {
       "letter": "D",
@@ -2322,7 +2323,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "bear-bore-born"
+      "text": "bear"
      },
      {
       "letter": "C",
@@ -2341,7 +2342,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "oppose"
+      "text": "opposed"
      },
      {
       "letter": "B",
@@ -2395,7 +2396,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "bear-bore-born"
+      "text": "bear"
      },
      {
       "letter": "D",
@@ -2422,7 +2423,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "bear-bore-born"
+      "text": "bear"
      }
     ],
     "answer": "D",
@@ -2433,7 +2434,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "stand-stood-stood"
+      "text": "stand"
      },
      {
       "letter": "B",
@@ -2460,7 +2461,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "oppose"
+      "text": "opposed"
      },
      {
       "letter": "C",
@@ -2506,11 +2507,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "oppose"
+      "text": "opposed"
      },
      {
       "letter": "C",
-      "text": "stand-stood-stood"
+      "text": "stand"
      },
      {
       "letter": "D",
@@ -2537,7 +2538,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "bear-bore-born"
+      "text": "bear"
      }
     ],
     "answer": "A",
@@ -2583,7 +2584,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "is subject to"
+      "text": "are subject to"
      }
     ],
     "answer": "A",
@@ -2629,7 +2630,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "have a crush on"
+      "text": "had had a crush on her"
      }
     ],
     "answer": "C",
@@ -2640,7 +2641,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "conquer fear"
+      "text": "conquer her fear"
      },
      {
       "letter": "B",
@@ -2648,7 +2649,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "is subject to"
+      "text": "are subject to"
      },
      {
       "letter": "D",
@@ -2786,11 +2787,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "have a crush on"
+      "text": "had had a crush on her"
      },
      {
       "letter": "D",
-      "text": "is subject to"
+      "text": "are subject to"
      }
     ],
     "answer": "A",
@@ -2897,7 +2898,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "bear a resemblance to"
+      "text": "bears a resemblance to"
      },
      {
       "letter": "C",
@@ -2947,7 +2948,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "have a crush on"
+      "text": "had had a crush on her"
      },
      {
       "letter": "D",
@@ -2962,11 +2963,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "conquer fear"
+      "text": "conquer her fear"
      },
      {
       "letter": "B",
-      "text": "is subject to"
+      "text": "are subject to"
      },
      {
       "letter": "C",
@@ -2985,7 +2986,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "bear a resemblance to"
+      "text": "bears a resemblance to"
      },
      {
       "letter": "B",
@@ -2993,7 +2994,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "have a crush on"
+      "text": "had had a crush on her"
      },
      {
       "letter": "D",
@@ -3020,7 +3021,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "is subject to"
+      "text": "are subject to"
      }
     ],
     "answer": "B",
@@ -3043,7 +3044,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "bear a resemblance to"
+      "text": "bears a resemblance to"
      }
     ],
     "answer": "C",
@@ -3112,7 +3113,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "bear a resemblance to"
+      "text": "bears a resemblance to"
      }
     ],
     "answer": "D",
@@ -3177,7 +3178,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "is subject to"
+      "text": "are subject to"
      },
      {
       "letter": "D",
@@ -3213,4 +3214,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"tribal":["Relating to a tribe or tribes.","部落的"],"aboriginal":["Relating to the people or organisms that have been in a region from the earliest time.","土著的；原住民的"],"indigenous":["Originating or occurring naturally in a particular place; native to a specific region.","土生土長的；當地的"],"native":["Associated with the place of a person's birth, or naturally belonging to a particular region.","本土的；原生的"],"domestic":["Relating to the running of a home, or relating to the internal affairs of a country.","國內的；家庭的"],"violent":["Using or involving physical force intended to hurt or damage.","暴力的"],"residential":["Designed for people to live in.","住宅的"],"invasive":["Tending to spread prolifically and undesirably.","侵入性的"],"expansive":["Covering a wide area in terms of space or scope.","廣闊的；開闊的"],"vast":["Of very great extent or quantity; immense.","廣大的；巨大的"],"immense":["Extremely large or great, especially in scale or degree.","極大的"],"crushed":["Greatly disappointed or deeply saddened.","極度傷心的"],"submissive":["Ready to conform to the authority or will of others.","順從的"],"enduring":["Continuing or long-lasting.","持久的"],"cosmopolitan":["Containing people, cultures, and diverse backgrounds from many different countries.","世界主義的；國際化的"],"urban":["Relating to, or characteristic of a city or highly populated town.","城市的；都市的"],"rural":["Relating to, or characteristic of the countryside rather than the city.","鄉村的；田園的"],"remote":["Situated far away from the main centers of population; distant and isolated.","偏遠的；偏僻的"],"violently":["In a forceful, passionate, or destructive manner.","猛烈地；暴力地"],"tribe":["A social division in a traditional society consisting of linked families.","部落"],"violence":["Behavior involving physical force intended to hurt or kill.","暴力"],"residence":["A person's home; the place where someone lives.","住所"],"resident":["A person who lives somewhere permanently.","居民"],"invader":["A person or group that invades a country or region.","入侵者"],"invasion":["An instance of invading a country with an armed force.","侵略；入侵"],"conqueror":["A person who conquers a place or people.","征服者"],"clan":["A group of close-knit and interrelated families.","氏族；家族"],"warrior":["A brave or experienced soldier or fighter.","戰士"],"expansion":["The action of becoming larger or more extensive.","擴張；擴展"],"empire":["An extensive group of states or countries under a single supreme authority.","帝國"],"emperor":["A sovereign ruler of great power and rank.","皇帝"],"crush":["A brief but intense infatuation; a dense crowd; or to compress forcefully.","迷戀；擁擠的人群；壓碎"],"opposition":["Resistance or dissent, expressed in action or argument.","反對"],"endurance":["The fact or power of enduring an unpleasant process.","忍耐力"],"resemblance":["The state of resembling or being alike.","相似之處"],"slave":["A person who is the legal property of another.","奴隸"],"slavery":["The state or condition of being a slave.","奴隸制度"],"hemisphere":["A half of the earth.","半球"],"subject":["A member of a state other than its ruler; a person chosen to be studied in an experiment.","臣民；受試者"],"suburb":["An outlying residential district of a city that offers a quieter lifestyle away from the core center.","郊區"],"downtown":["The central area or primary commercial heart of a city, typically busy and crowded.","市中心；鬧區"],"invade":["To enter a place in large numbers, especially with intrusive effect.","入侵"],"conquered":["To overcome and take control of a place by military force.","征服；克服"],"conquer":["To overcome and take control of a place by military force.","征服；克服"],"scatter":["To throw in various random directions.","散開；撒"],"scattered":["To throw in various random directions.","散開；撒"],"expand":["To become or make larger or more extensive.","擴大；膨脹"],"oppose":["To disapprove of and attempt to prevent.","反對"],"submit":["To accept or yield to a superior force; to present for consideration.","屈服；提交"],"endure":["To suffer something painful or difficult patiently.","忍受"],"endured":["To suffer something painful or difficult patiently.","忍受"],"bear-bore-born":["To endure an ordeal or difficulty.","忍受"],"stand-stood-stood":["To be able to endure or tolerate.","忍受"],"tolerate":["To allow the existence or occurrence of something.","容忍"],"resemble":["To have qualities or features in common with.","像；與...相似"],"enslave":["To make someone a slave.","奴役"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"tribal":["Relating to a tribe or tribes.","部落的"],"aboriginal":["Relating to the people or organisms that have been in a region from the earliest time.","土著的；原住民的"],"indigenous":["Originating or occurring naturally in a particular place; native to a specific region.","土生土長的；當地的"],"native":["Associated with the place of a person's birth, or naturally belonging to a particular region.","本土的；原生的"],"domestic":["Relating to the running of a home, or relating to the internal affairs of a country.","國內的；家庭的"],"violent":["Using or involving physical force intended to hurt or damage.","暴力的"],"residential":["Designed for people to live in.","住宅的"],"invasive":["Tending to spread prolifically and undesirably.","侵入性的"],"expansive":["Covering a wide area in terms of space or scope.","廣闊的；開闊的"],"vast":["Of very great extent or quantity; immense.","廣大的；巨大的"],"immense":["Extremely large or great, especially in scale or degree.","極大的"],"crushed":["Greatly disappointed or deeply saddened.","極度傷心的"],"submissive":["Ready to conform to the authority or will of others.","順從的"],"enduring":["Continuing or long-lasting.","持久的"],"cosmopolitan":["Containing people, cultures, and diverse backgrounds from many different countries.","世界主義的；國際化的"],"urban":["Relating to, or characteristic of a city or highly populated town.","城市的；都市的"],"rural":["Relating to, or characteristic of the countryside rather than the city.","鄉村的；田園的"],"remote":["Situated far away from the main centers of population; distant and isolated.","偏遠的；偏僻的"],"violently":["In a forceful, passionate, or destructive manner.","猛烈地；暴力地"],"tribe":["A social division in a traditional society consisting of linked families.","部落"],"violence":["Behavior involving physical force intended to hurt or kill.","暴力"],"residence":["A person's home; the place where someone lives.","住所"],"resident":["A person who lives somewhere permanently.","居民"],"invader":["A person or group that invades a country or region.","入侵者"],"invasion":["An instance of invading a country with an armed force.","侵略；入侵"],"conqueror":["A person who conquers a place or people.","征服者"],"clan":["A group of close-knit and interrelated families.","氏族；家族"],"warrior":["A brave or experienced soldier or fighter.","戰士"],"expansion":["The action of becoming larger or more extensive.","擴張；擴展"],"empire":["An extensive group of states or countries under a single supreme authority.","帝國"],"emperor":["A sovereign ruler of great power and rank.","皇帝"],"crush":["A brief but intense infatuation; a dense crowd; or to compress forcefully.","迷戀；擁擠的人群；壓碎"],"opposition":["Resistance or dissent, expressed in action or argument.","反對"],"endurance":["The fact or power of enduring an unpleasant process.","忍耐力"],"resemblance":["The state of resembling or being alike.","相似之處"],"slave":["A person who is the legal property of another.","奴隸"],"slavery":["The state or condition of being a slave.","奴隸制度"],"hemisphere":["A half of the earth.","半球"],"subject":["A member of a state other than its ruler; a person chosen to be studied in an experiment.","臣民；受試者"],"suburb":["An outlying residential district of a city that offers a quieter lifestyle away from the core center.","郊區"],"downtown":["The central area or primary commercial heart of a city, typically busy and crowded.","市中心；鬧區"],"invade":["To enter a place in large numbers, especially with intrusive effect.","入侵"],"conquered":["To overcome and take control of a place by military force.","征服；克服"],"conquer":["To overcome and take control of a place by military force.","征服；克服"],"scatter":["To throw in various random directions.","散開；撒"],"scattered":["To throw in various random directions.","散開；撒"],"expand":["To become or make larger or more extensive.","擴大；膨脹"],"oppose":["To disapprove of and attempt to prevent.","反對"],"opposed":["To disapprove of and attempt to prevent.","反對"],"submit":["To accept or yield to a superior force; to present for consideration.","屈服；提交"],"endure":["To suffer something painful or difficult patiently.","忍受"],"endured":["To suffer something painful or difficult patiently.","忍受"],"bear-bore-born":["To endure an ordeal or difficulty.","忍受"],"bear":["To endure an ordeal or difficulty.","忍受"],"stand":["To be able to endure or tolerate.","忍受"],"tolerate":["To allow the existence or occurrence of something.","容忍"],"resemble":["To have qualities or features in common with.","像；與...相似"],"enslave":["To make someone a slave.","奴役"]});

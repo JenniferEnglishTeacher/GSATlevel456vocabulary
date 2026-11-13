@@ -206,7 +206,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Easily influenced, harmed, or affected by a specific disease, chemical, or situation.",
     "chinese": "易受…影響的、易感（染）的、脆弱的",
     "sentence": "Elderly people and young children are often more __________ catching severe seasonal flu during the cold winter.",
-    "translation": "年長者和幼童在寒冷的冬天通常更容易**感染（易受…影響）**嚴重的季節性流感。",
+    "translation": "年長者和幼童在寒冷的冬天通常更容易感染（易受…影響）嚴重的季節性流感。",
     "lookup": {
      "english": "Easily influenced, harmed, or affected by a specific disease, chemical, or situation.",
      "chinese": "易受…影響的、易感（染）的、脆弱的"
@@ -232,7 +232,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Weak and easily hurt, damaged, or attacked physically, emotionally, or systematically.",
     "chinese": "易受…傷害的、脆弱的、易受攻擊的",
     "sentence": "Without a secure password and firewall protection, the online database is highly __________ cyberattacks.",
-    "translation": "如果沒有安全的密碼與防火牆保護，該線上資料庫將非常容易受到網路攻擊**（脆弱的）**。",
+    "translation": "如果沒有安全的密碼與防火牆保護，該線上資料庫將非常容易受到網路攻擊（脆弱的）。",
     "lookup": {
      "english": "Weak and easily hurt, damaged, or attacked physically, emotionally, or systematically.",
      "chinese": "易受…傷害的、脆弱的、易受攻擊的"
@@ -245,7 +245,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Likely to experience, suffer, or be affected by something, or depending on something to happen.",
     "chinese": "易遭受…的、受…支配的、取決於…",
     "sentence": "All international passengers arriving at the airport are __________ a strict security check by law enforcement.",
-    "translation": "根據法律，所有抵達機場的國際旅客都**必須接受（受到）**嚴格的安全檢查。",
+    "translation": "根據法律，所有抵達機場的國際旅客都必須接受（受到）嚴格的安全檢查。",
     "lookup": {
      "english": "Likely to experience, suffer, or be affected by something, or depending on something to happen.",
      "chinese": "易遭受…的、受…支配的、取決於…"
@@ -344,7 +344,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "be diagnosed with",
-    "answer": "is officially diagnosed with",
+    "answer": "was officially diagnosed with",
     "pos": "phr.",
     "definition": "to be told by a doctor that you have a particular illness.",
     "chinese": "被診斷出患有...",
@@ -478,8 +478,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "something that is usual, typical, or standard.",
     "chinese": "常態；規範",
-    "sentence": "Working completely comfortably from home using a computer has rapidly become the accepted __________ for many modern office employees.",
-    "translation": "使用電腦完全舒適地在家工作，已迅速成為許多現代辦公室員工所接受的常態。",
+    "sentence": "Working comfortably from home using a computer has rapidly become the accepted __________ for many modern office employees.",
+    "translation": "使用電腦舒適地在家工作，已迅速成為許多現代辦公室員工所接受的常態。",
     "lookup": {
      "english": "something that is usual, typical, or standard.",
      "chinese": "常態；規範"
@@ -526,7 +526,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "torment",
-    "answer": "torment",
+    "answer": "tormented",
     "pos": "v.",
     "definition": "to cause to experience severe mental or physical suffering.",
     "chinese": "折磨",
@@ -708,7 +708,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "trigger",
-    "answer": "trigger",
+    "answer": "triggered",
     "pos": "v.",
     "definition": "to cause an event or situation to happen or exist.",
     "chinese": "引發",
@@ -773,7 +773,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "intensify",
-    "answer": "intensify",
+    "answer": "intensified",
     "pos": "v.",
     "definition": "to become or make more intense.",
     "chinese": "增強；加劇",
@@ -790,8 +790,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "of extreme force, degree, or strength.",
     "chinese": "強烈的",
-    "sentence": "The completely exhausted runners had to carefully survive highly __________ heat during the incredibly difficult and extremely long summer marathon.",
-    "translation": "完全筋疲力盡的跑者必須在極度困難且極長夏季馬拉松期間，小心地在高度強烈的高溫中生存下來。",
+    "sentence": "The exhausted runners had to survive __________ heat during the difficult and long summer marathon.",
+    "translation": "筋疲力盡的跑者必須在困難且極長夏季馬拉松期間，小心地在強烈的高溫中生存下來。",
     "lookup": {
      "english": "of extreme force, degree, or strength.",
      "chinese": "強烈的"
@@ -890,7 +890,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "induce vomiting",
-    "answer": "induce vomiting",
+    "answer": "induced vomiting",
     "pos": "phr.",
     "definition": "to cause someone to empty the contents of the stomach through the mouth.",
     "chinese": "催吐",
@@ -972,8 +972,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to respond or behave in a particular way in response to something.",
     "chinese": "反應",
-    "sentence": "It is extremely important to carefully observe exactly how the highly volatile chemicals __________ when they are finally completely mixed together.",
-    "translation": "仔細觀察高度揮發性的化學物質在最終完全混合在一起時究竟如何反應，是極其重要的。",
+    "sentence": "It is important to observe how the volatile chemicals __________ when they are finally mixed together.",
+    "translation": "仔細觀察揮發性的化學物質在最終混合在一起時究竟如何反應，是重要的。",
     "lookup": {
      "english": "to respond or behave in a particular way in response to something.",
      "chinese": "反應"
@@ -985,8 +985,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "showing a response to a stimulus.",
     "chinese": "反應的；活性的",
-    "sentence": "The highly __________ substance must be carefully stored in a completely dark and cool room to completely prevent any highly dangerous explosions.",
-    "translation": "這種高度活性的物質必須仔細地儲存在完全黑暗涼爽的房間裡，以徹底防止任何高度危險的爆炸。",
+    "sentence": "The __________ substance must be stored in a dark and cool room to prevent any dangerous explosions.",
+    "translation": "這種活性的物質必須仔細地儲存在黑暗涼爽的房間裡，以防止任何危險的爆炸。",
     "lookup": {
      "english": "showing a response to a stimulus.",
      "chinese": "反應的；活性的"
@@ -1259,7 +1259,7 @@ window.FLASHCARD_UNITS = {
     "definition": "to grow, develop, or be successful in a particular environment or situation.",
     "chinese": "喜歡；在...中茁壯成長",
     "sentence": "The highly ambitious young extreme sports enthusiast seems to completely __________ intense danger and pure excitement during his highly dangerous professional competitions.",
-    "translation": "這位極具雄心的年輕極限運動愛好者，似乎在他高度危險的職業比賽中完全**喜歡（在...中茁壯成長）**強烈的危險和純粹的刺激。",
+    "translation": "這位極具雄心的年輕極限運動愛好者，似乎在他高度危險的職業比賽中完全喜歡（在...中茁壯成長）強烈的危險和純粹的刺激。",
     "lookup": {
      "english": "to grow, develop, or be successful in a particular environment or situation.",
      "chinese": "喜歡；在...中茁壯成長"
@@ -1699,7 +1699,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "is officially diagnosed with"
+      "text": "was officially diagnosed with"
      },
      {
       "letter": "C",
@@ -1791,7 +1791,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "is officially diagnosed with"
+      "text": "was officially diagnosed with"
      },
      {
       "letter": "C",
@@ -1933,7 +1933,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "intensify"
+      "text": "intensified"
      },
      {
       "letter": "D",
@@ -1956,7 +1956,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "is officially diagnosed with"
+      "text": "was officially diagnosed with"
      },
      {
       "letter": "D",
@@ -2174,7 +2174,7 @@ window.FLASHCARD_UNITS = {
     "vi": 35
    },
    {
-    "question": "Working completely comfortably from home using a computer has rapidly become the accepted __________ for many modern office employees.",
+    "question": "Working comfortably from home using a computer has rapidly become the accepted __________ for many modern office employees.",
     "options": [
      {
       "letter": "A",
@@ -2270,7 +2270,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "torment"
+      "text": "tormented"
      },
      {
       "letter": "B",
@@ -2439,7 +2439,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "induce vomiting"
+      "text": "induced vomiting"
      },
      {
       "letter": "D",
@@ -2600,7 +2600,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "trigger"
+      "text": "triggered"
      },
      {
       "letter": "D",
@@ -2707,7 +2707,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "intensify"
+      "text": "intensified"
      },
      {
       "letter": "B",
@@ -2726,7 +2726,7 @@ window.FLASHCARD_UNITS = {
     "vi": 59
    },
    {
-    "question": "The completely exhausted runners had to carefully survive highly __________ heat during the incredibly difficult and extremely long summer marathon.",
+    "question": "The exhausted runners had to survive __________ heat during the difficult and long summer marathon.",
     "options": [
      {
       "letter": "A",
@@ -2826,7 +2826,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "intensify"
+      "text": "intensified"
      },
      {
       "letter": "C",
@@ -2922,7 +2922,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "induce vomiting"
+      "text": "induced vomiting"
      },
      {
       "letter": "D",
@@ -3048,7 +3048,7 @@ window.FLASHCARD_UNITS = {
     "vi": 73
    },
    {
-    "question": "It is extremely important to carefully observe exactly how the highly volatile chemicals __________ when they are finally completely mixed together.",
+    "question": "It is important to observe how the volatile chemicals __________ when they are finally mixed together.",
     "options": [
      {
       "letter": "A",
@@ -3071,7 +3071,7 @@ window.FLASHCARD_UNITS = {
     "vi": 74
    },
    {
-    "question": "The highly __________ substance must be carefully stored in a completely dark and cool room to completely prevent any highly dangerous explosions.",
+    "question": "The __________ substance must be stored in a dark and cool room to prevent any dangerous explosions.",
     "options": [
      {
       "letter": "A",
@@ -3102,7 +3102,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "intensify"
+      "text": "intensified"
      },
      {
       "letter": "C",
@@ -3282,7 +3282,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "torment"
+      "text": "tormented"
      },
      {
       "letter": "B",
@@ -3359,7 +3359,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "induce vomiting"
+      "text": "induced vomiting"
      },
      {
       "letter": "D",
@@ -3717,4 +3717,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"disorder":["an illness or condition that disrupts normal physical or mental functions.","失調；疾病"],"robust":["strong and healthy; vigorous.","強健的；穩固的"],"vigorous":["strong, healthy, and full of energy.","充滿活力的"],"fragile":["easily broken or damaged.","脆弱的"],"fragility":["the quality of being easily broken or damaged.","脆弱性"],"delicate":["easily broken or damaged; fragile.","精緻的；易碎的"],"delicacy":["A rare, expensive, or high-quality food item that is considered very special to eat.","佳餚、珍饈、美食"],"susceptible":["likely or liable to be influenced or harmed by a particular thing.","易受影響的；易受感染的"],"unsusceptible":["not likely or liable to be influenced or harmed.","不易受影響的"],"vulnerable":["susceptible to physical or emotional attack or harm.","脆弱的；易受傷的"],"mental":["relating to the mind.","心理的；精神的"],"mentally":["in a manner relating to the mind.","心理上地"],"mentality":["the characteristic attitude of mind or way of thinking of a person or group.","心態"],"physical":["relating to the body as opposed to the mind.","身體的"],"diagnose":["to identify the nature of an illness or other problem by examination of the symptoms.","診斷"],"diagnosis":["the identification of the nature of an illness or other problem by examination of the symptoms.","診斷結果"],"diagnostic":["concerned with the diagnosis of illness or other problems.","診斷的"],"misdiagnose":["to diagnose incorrectly.","誤診"],"cripple":["to cause severe and disabling damage to.","使嚴重損害；使殘廢"],"disable":["to limit the movements, senses, or activities of someone.","使失去能力"],"crippling":["causing a severe and almost insuperable problem.","造成嚴重損害的"],"crippled":["severely damaged or malfunctioning.","殘廢的；嚴重受損的"],"normally":["under normal or usual conditions; as a rule.","通常地"],"normal":["conforming to a standard; usual, typical, or expected.","正常的"],"norm":["something that is usual, typical, or standard.","常態；規範"],"abnormal":["deviating from what is normal or usual.","不正常的"],"abnormality":["an abnormal feature, characteristic, or occurrence.","異常"],"torment":["severe physical or mental suffering.","折磨；痛苦"],"torture":["the action or practice of inflicting severe pain on someone.","拷問；折磨"],"agony":["extreme physical or mental suffering.","極度痛苦"],"tormentor":["a person who inflicts severe mental or physical suffering on someone.","折磨者"],"symptom":["a physical or mental feature which is regarded as indicating a condition of disease.","症狀"],"symptomatic":["serving as a symptom or sign, especially of something undesirable.","有症狀的"],"asymptomatic":["producing or showing no symptoms.","無症狀的"],"doom":["death, destruction, or some other terrible fate; to condemn to certain destruction or death.","厄運；注定失敗"],"doomed":["likely to have an unfortunate and inescapable outcome; ill-fated.","注定失敗的"],"trigger":["to cause an event or situation to happen or exist.","引發"],"triggered":["caused to happen or exist.","被觸發的"],"triggering":["causing a strong emotional reaction, typically one related to a past trauma.","引起負面情緒的"],"intensify":["to become or make more intense.","增強；加劇"],"intense":["of extreme force, degree, or strength.","強烈的"],"intensity":["the measurable amount of a property, such as force, brightness, or a magnetic field.","強度；強烈"],"intensely":["with extreme force or strength.","激烈地"],"intensification":["the action of making or becoming more intense.","強化；加劇"],"induce":["to succeed in persuading or influencing someone to do something; to bring on or give rise to.","引起；導致"],"inducement":["a thing that persuades or influences someone to do something.","誘因；動機"],"induced":["brought about or caused.","引起的"],"panic":["sudden uncontrollable fear or anxiety; to feel sudden uncontrollable fear.","恐慌；驚慌"],"panicky":["feeling or characterized by panic.","恐慌的"],"reaction":["an action performed or a feeling experienced in response to a situation or event.","反應"],"react":["to respond or behave in a particular way in response to something.","反應"],"reactive":["showing a response to a stimulus.","反應的；活性的"],"overreact":["to respond more emotionally or forcibly than is justified.","反應過度"],"crucial":["decisive or critical, especially in the success or failure of something.","關鍵的"],"critical":["expressing adverse or disapproving comments or judgments; having a decisive or crucial importance.","關鍵的；批評的"],"crucially":["with decisive or vital importance.","關鍵地"],"affordable":["inexpensive; reasonably priced.","負擔得起的"],"afford":["to have enough money to pay for.","負擔得起"],"affordability":["the state of being cheap enough for people to be able to buy.","負擔能力"],"unaffordable":["too expensive to be afforded by the average person.","負擔不起的"],"stabilize":["to make or become unlikely to change, fail, or decline.","使穩定"],"stable":["not likely to give way or overturn; firmly fixed.","穩定的"],"unstable":["prone to change, fail, or give way; not stable.","不穩定的"],"stability":["the state of being stable.","穩定（性）"],"instability":["tendency to unpredictable behavior or erratic changes of mood.","不穩定（性）"],"thrive":["to grow or develop well or vigorously.","茁壯成長；繁榮"],"flourishing":["developing rapidly and successfully; thriving.","繁榮的"],"thriving":["prosperous and growing; flourishing.","繁榮的"],"productive":["producing or able to produce large amounts of goods, crops, or other commodities.","多產的；有生產力的"],"productively":["in a way that produces large amounts of goods or achieves a significant result.","有生產力地"],"productivity":["the state or quality of producing something.","生產力"],"unproductive":["not producing or able to produce large amounts of goods, crops, or other commodities.","無生產力的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"disorder":["an illness or condition that disrupts normal physical or mental functions.","失調；疾病"],"robust":["strong and healthy; vigorous.","強健的；穩固的"],"vigorous":["strong, healthy, and full of energy.","充滿活力的"],"fragile":["easily broken or damaged.","脆弱的"],"fragility":["the quality of being easily broken or damaged.","脆弱性"],"delicate":["easily broken or damaged; fragile.","精緻的；易碎的"],"delicacy":["A rare, expensive, or high-quality food item that is considered very special to eat.","佳餚、珍饈、美食"],"susceptible":["likely or liable to be influenced or harmed by a particular thing.","易受影響的；易受感染的"],"unsusceptible":["not likely or liable to be influenced or harmed.","不易受影響的"],"vulnerable":["susceptible to physical or emotional attack or harm.","脆弱的；易受傷的"],"mental":["relating to the mind.","心理的；精神的"],"mentally":["in a manner relating to the mind.","心理上地"],"mentality":["the characteristic attitude of mind or way of thinking of a person or group.","心態"],"physical":["relating to the body as opposed to the mind.","身體的"],"diagnose":["to identify the nature of an illness or other problem by examination of the symptoms.","診斷"],"diagnosis":["the identification of the nature of an illness or other problem by examination of the symptoms.","診斷結果"],"diagnostic":["concerned with the diagnosis of illness or other problems.","診斷的"],"misdiagnose":["to diagnose incorrectly.","誤診"],"cripple":["to cause severe and disabling damage to.","使嚴重損害；使殘廢"],"disable":["to limit the movements, senses, or activities of someone.","使失去能力"],"crippling":["causing a severe and almost insuperable problem.","造成嚴重損害的"],"crippled":["severely damaged or malfunctioning.","殘廢的；嚴重受損的"],"normally":["under normal or usual conditions; as a rule.","通常地"],"normal":["conforming to a standard; usual, typical, or expected.","正常的"],"norm":["something that is usual, typical, or standard.","常態；規範"],"abnormal":["deviating from what is normal or usual.","不正常的"],"abnormality":["an abnormal feature, characteristic, or occurrence.","異常"],"torment":["severe physical or mental suffering.","折磨；痛苦"],"tormented":["to cause to experience severe mental or physical suffering.","折磨"],"torture":["the action or practice of inflicting severe pain on someone.","拷問；折磨"],"agony":["extreme physical or mental suffering.","極度痛苦"],"tormentor":["a person who inflicts severe mental or physical suffering on someone.","折磨者"],"symptom":["a physical or mental feature which is regarded as indicating a condition of disease.","症狀"],"symptomatic":["serving as a symptom or sign, especially of something undesirable.","有症狀的"],"asymptomatic":["producing or showing no symptoms.","無症狀的"],"doom":["death, destruction, or some other terrible fate; to condemn to certain destruction or death.","厄運；注定失敗"],"doomed":["likely to have an unfortunate and inescapable outcome; ill-fated.","注定失敗的"],"trigger":["to cause an event or situation to happen or exist.","引發"],"triggered":["to cause an event or situation to happen or exist.","引發"],"triggering":["causing a strong emotional reaction, typically one related to a past trauma.","引起負面情緒的"],"intensify":["to become or make more intense.","增強；加劇"],"intensified":["to become or make more intense.","增強；加劇"],"intense":["of extreme force, degree, or strength.","強烈的"],"intensity":["the measurable amount of a property, such as force, brightness, or a magnetic field.","強度；強烈"],"intensely":["with extreme force or strength.","激烈地"],"intensification":["the action of making or becoming more intense.","強化；加劇"],"induce":["to succeed in persuading or influencing someone to do something; to bring on or give rise to.","引起；導致"],"inducement":["a thing that persuades or influences someone to do something.","誘因；動機"],"induced":["brought about or caused.","引起的"],"panic":["sudden uncontrollable fear or anxiety; to feel sudden uncontrollable fear.","恐慌；驚慌"],"panicky":["feeling or characterized by panic.","恐慌的"],"reaction":["an action performed or a feeling experienced in response to a situation or event.","反應"],"react":["to respond or behave in a particular way in response to something.","反應"],"reactive":["showing a response to a stimulus.","反應的；活性的"],"overreact":["to respond more emotionally or forcibly than is justified.","反應過度"],"crucial":["decisive or critical, especially in the success or failure of something.","關鍵的"],"critical":["expressing adverse or disapproving comments or judgments; having a decisive or crucial importance.","關鍵的；批評的"],"crucially":["with decisive or vital importance.","關鍵地"],"affordable":["inexpensive; reasonably priced.","負擔得起的"],"afford":["to have enough money to pay for.","負擔得起"],"affordability":["the state of being cheap enough for people to be able to buy.","負擔能力"],"unaffordable":["too expensive to be afforded by the average person.","負擔不起的"],"stabilize":["to make or become unlikely to change, fail, or decline.","使穩定"],"stable":["not likely to give way or overturn; firmly fixed.","穩定的"],"unstable":["prone to change, fail, or give way; not stable.","不穩定的"],"stability":["the state of being stable.","穩定（性）"],"instability":["tendency to unpredictable behavior or erratic changes of mood.","不穩定（性）"],"thrive":["to grow or develop well or vigorously.","茁壯成長；繁榮"],"flourishing":["developing rapidly and successfully; thriving.","繁榮的"],"thriving":["prosperous and growing; flourishing.","繁榮的"],"productive":["producing or able to produce large amounts of goods, crops, or other commodities.","多產的；有生產力的"],"productively":["in a way that produces large amounts of goods or achieves a significant result.","有生產力地"],"productivity":["the state or quality of producing something.","生產力"],"unproductive":["not producing or able to produce large amounts of goods, crops, or other commodities.","無生產力的"]});

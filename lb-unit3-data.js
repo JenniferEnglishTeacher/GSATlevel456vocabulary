@@ -175,7 +175,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "possession",
-    "answer": "possession",
+    "answer": "possessions",
     "pos": "n.",
     "definition": "The state of having, owning, or controlling something.",
     "chinese": "擁有；所有物",
@@ -695,7 +695,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "take possession of",
-    "answer": "take possession of",
+    "answer": "took possession of",
     "pos": "phr.",
     "definition": "To begin to own or control something.",
     "chinese": "取得...的所有權",
@@ -1124,7 +1124,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "possession"
+      "text": "possessions"
      },
      {
       "letter": "B",
@@ -1170,7 +1170,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "possession"
+      "text": "possessions"
      },
      {
       "letter": "B",
@@ -1251,7 +1251,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "possession"
+      "text": "possessions"
      }
     ],
     "answer": "A",
@@ -1285,7 +1285,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "possession"
+      "text": "possessions"
      },
      {
       "letter": "B",
@@ -1354,7 +1354,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "possession"
+      "text": "possessions"
      },
      {
       "letter": "B",
@@ -1454,7 +1454,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "possession"
+      "text": "possessions"
      },
      {
       "letter": "D",
@@ -1492,7 +1492,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "possession"
+      "text": "possessions"
      },
      {
       "letter": "B",
@@ -1730,7 +1730,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "take possession of"
+      "text": "took possession of"
      },
      {
       "letter": "D",
@@ -2209,7 +2209,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "take possession of"
+      "text": "took possession of"
      },
      {
       "letter": "C",
@@ -2458,7 +2458,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "take possession of"
+      "text": "took possession of"
      },
      {
       "letter": "B",
@@ -2709,4 +2709,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"equivalent":["Equal in value, amount, function, or meaning.","相等的；等值的"],"negotiable":["Open to discussion or modification.","可協商的"],"transactional":["Relating to the conducting of business or exchange.","交易的"],"exclusive":["Restricted or limited to the person, group, or area concerned.","獨家的；專屬的"],"cyber":["Relating to the culture of computers, information technology, and virtual reality.","網路的；電腦的"],"exclusively":["To the exclusion of others; only.","專門地；獨家地"],"asset":["A useful or valuable thing, person, or quality.","資產；有用的人或物"],"token":["A thing serving as a visible or tangible representation of a fact, quality, or feeling.","代幣；象徵"],"investment":["The action or process of investing money for profit or material result.","投資"],"investor":["A person or organization that puts money into financial schemes.","投資者"],"equivalence":["The condition of being equal or equivalent in value, worth, or function.","相等；等值"],"property":["A thing or things belonging to someone; a characteristic.","財產；特性"],"possession":["The state of having, owning, or controlling something.","擁有；所有物"],"negotiation":["Discussion aimed at reaching an agreement.","談判"],"negotiator":["A person who conducts negotiations.","談判者"],"transaction":["An instance of buying or selling something; a business deal.","交易"],"trail":["A mark or series of signs left behind; a path in the countryside.","痕跡；小徑"],"owner":["A person who owns something.","擁有者；主人"],"ownership":["The act, state, or right of possessing something.","所有權"],"domain":["An area of territory owned or controlled; a specified sphere of activity or knowledge.","領土；領域"],"inclusiveness":["The quality of including all sections of society.","包容性"],"cryptocurrency":["A digital currency in which transactions are verified by a decentralized system.","加密貨幣"],"formatted":["To arrange or set out something in a particular way.","格式；編排"],"format":["To arrange or set out something in a particular way.","格式；編排"],"embraced":["To accept or support a belief or change willingly and enthusiastically; a hug.","欣然接受；擁抱"],"embrace":["To accept or support a belief or change willingly and enthusiastically; a hug.","欣然接受；擁抱"],"possess":["To have or own something.","擁有"],"negotiate":["To try to reach an agreement or compromise by discussion with others.","談判；協商"],"ensure":["To make certain that something shall occur or be the case.","確保（+事情）"],"assured":["To tell someone something positively or confidently to dispel any doubts.","向某人保證"],"assure":["To tell someone something positively or confidently to dispel any doubts.","向某人保證"],"guarantee":["To promise; a formal promise or assurance.","保證；擔保"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"equivalent":["Equal in value, amount, function, or meaning.","相等的；等值的"],"negotiable":["Open to discussion or modification.","可協商的"],"transactional":["Relating to the conducting of business or exchange.","交易的"],"exclusive":["Restricted or limited to the person, group, or area concerned.","獨家的；專屬的"],"cyber":["Relating to the culture of computers, information technology, and virtual reality.","網路的；電腦的"],"exclusively":["To the exclusion of others; only.","專門地；獨家地"],"asset":["A useful or valuable thing, person, or quality.","資產；有用的人或物"],"token":["A thing serving as a visible or tangible representation of a fact, quality, or feeling.","代幣；象徵"],"investment":["The action or process of investing money for profit or material result.","投資"],"investor":["A person or organization that puts money into financial schemes.","投資者"],"equivalence":["The condition of being equal or equivalent in value, worth, or function.","相等；等值"],"property":["A thing or things belonging to someone; a characteristic.","財產；特性"],"possession":["The state of having, owning, or controlling something.","擁有；所有物"],"possessions":["The state of having, owning, or controlling something.","擁有；所有物"],"negotiation":["Discussion aimed at reaching an agreement.","談判"],"negotiator":["A person who conducts negotiations.","談判者"],"transaction":["An instance of buying or selling something; a business deal.","交易"],"trail":["A mark or series of signs left behind; a path in the countryside.","痕跡；小徑"],"owner":["A person who owns something.","擁有者；主人"],"ownership":["The act, state, or right of possessing something.","所有權"],"domain":["An area of territory owned or controlled; a specified sphere of activity or knowledge.","領土；領域"],"inclusiveness":["The quality of including all sections of society.","包容性"],"cryptocurrency":["A digital currency in which transactions are verified by a decentralized system.","加密貨幣"],"format":["To arrange or set out something in a particular way.","格式；編排"],"formatted":["To arrange or set out something in a particular way.","格式；編排"],"embrace":["To accept or support a belief or change willingly and enthusiastically; a hug.","欣然接受；擁抱"],"embraced":["To accept or support a belief or change willingly and enthusiastically; a hug.","欣然接受；擁抱"],"possess":["To have or own something.","擁有"],"negotiate":["To try to reach an agreement or compromise by discussion with others.","談判；協商"],"ensure":["To make certain that something shall occur or be the case.","確保（+事情）"],"assure":["To tell someone something positively or confidently to dispel any doubts.","向某人保證"],"assured":["To tell someone something positively or confidently to dispel any doubts.","向某人保證"],"guarantee":["To promise; a formal promise or assurance.","保證；擔保"]});

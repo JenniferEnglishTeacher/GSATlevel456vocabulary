@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "to one's satisfaction",
-    "answer": "to satisfaction",
+    "answer": "to their satisfaction",
     "pos": "phr.",
     "definition": "in a way that makes a choice person feel completely pleased, content, or happy",
     "chinese": "令某人滿意地",
@@ -608,7 +608,7 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "close to a particular number, measurement, or time, but not completely exact",
     "chinese": "大約；大概",
-    "sentence": "The regional fresh fresh vegetable market is located __________ 23.7 kilometers from the central station.",
+    "sentence": "The regional fresh vegetable market is located __________ 23.7 kilometers from the central station.",
     "translation": "這個地區的新鮮蔬菜市場距離中央車站大約二十三點七公里。",
     "lookup": {
      "english": "close to a particular number, measurement, or time, but not completely exact",
@@ -863,8 +863,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "prospective customer potential customer",
-    "answer": "prospective customer potential customer",
+    "word": "prospective customer / potential customer",
+    "answer": "prospective customer",
     "pos": "n.",
     "definition": "a person who is likely to buy a company's products or services in the near future",
     "chinese": "潛在客戶",
@@ -972,7 +972,7 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "extremely unpleasant, unacceptable, or offensive, causing strong dislike",
     "chinese": "令人噁心的；糟糕的",
-    "sentence": "Leaving a heap of dirty dishes in the kitchen sink for a week is absolutely __________。",
+    "sentence": "Leaving a heap of dirty dishes in the kitchen sink for a week is absolutely __________.",
     "translation": "把一堆髒碗盤在廚房水槽裡放一個星期絕對是令人噁心的行為。",
     "lookup": {
      "english": "extremely unpleasant, unacceptable, or offensive, causing strong dislike",
@@ -1245,7 +1245,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a competition of high speed; a group of people sharing a distinctive cultural heritage",
     "chinese": "比賽",
-    "sentence": "Jason had the fastest time on the track team for the 100-meter sprint __________。",
+    "sentence": "Jason had the fastest time on the track team for the 100-meter sprint __________.",
     "translation": "傑森在田徑隊的一百公尺短跑比賽中擁有最快的紀錄。",
     "lookup": {
      "english": "a competition of high speed; a group of people sharing a distinctive cultural heritage",
@@ -1388,7 +1388,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "cruel, violent, or highly offensive treatment of a person or animal",
     "chinese": "虐待；辱罵",
-    "sentence": "The non-profit foundation works hard to protect domestic livestock from any severe __________。",
+    "sentence": "The non-profit foundation works hard to protect domestic livestock from any severe __________.",
     "translation": "這家非營利基金會努力工作，以保護當地的家畜免受任何嚴重的虐待。",
     "lookup": {
      "english": "cruel, violent, or highly offensive treatment of a person or animal",
@@ -1427,7 +1427,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the state of being male or female, typically expressed in relation to social structures",
     "chinese": "性別",
-    "sentence": "The job advertisement states that the tech company does not discriminate based on __________。",
+    "sentence": "The job advertisement states that the tech company does not discriminate based on __________.",
     "translation": "這則招聘廣告指出，該科技公司不會根據性別進行歧視。",
     "lookup": {
      "english": "the state of being male or female, typically expressed in relation to social structures",
@@ -1466,7 +1466,7 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "having no meaning, purpose, or real value; completely useless",
     "chinese": "毫無意義的",
-    "sentence": "Without a clear framework, collecting a large amount of raw data is completely __________。",
+    "sentence": "Without a clear framework, collecting a large amount of raw data is completely __________.",
     "translation": "如果沒有一個清晰的框架，收集大量的原始數據是毫無意義的。",
     "lookup": {
      "english": "having no meaning, purpose, or real value; completely useless",
@@ -1492,7 +1492,7 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "unable to speak temporarily due to great surprise, anger, or strong emotion",
     "chinese": "說不出話的",
-    "sentence": "The innovative masterpiece painted by the young artist left the traditional critics completely __________。",
+    "sentence": "The innovative masterpiece painted by the young artist left the traditional critics completely __________.",
     "translation": "這位年輕藝術家所創作的創新傑作讓傳統評論家完全說不出話來。",
     "lookup": {
      "english": "unable to speak temporarily due to great surprise, anger, or strong emotion",
@@ -1877,8 +1877,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "shriek yell",
-    "answer": "shriek yell",
+    "word": "shriek / yell",
+    "answer": "shriek",
     "pos": "n. v.",
     "definition": "a high-pitched pierce cry or a loud shout expressing strong emotion",
     "chinese": "尖叫聲 / 喊叫",
@@ -1890,7 +1890,7 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "permit permitted permitted",
+    "word": "permit",
     "answer": "permit",
     "pos": "v.",
     "definition": "to officially allow someone to perform an action or enter a place",
@@ -1900,7 +1900,8 @@ window.FLASHCARD_UNITS = {
     "lookup": {
      "english": "to officially allow someone to perform an action or enter a place",
      "chinese": "允許；准許"
-    }
+    },
+    "forms": "permit / permitted / permitted"
    },
    {
     "word": "permission",
@@ -2607,11 +2608,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "to satisfaction"
+      "text": "to their satisfaction"
      },
      {
       "letter": "B",
-      "text": "shriek yell"
+      "text": "shriek"
      },
      {
       "letter": "C",
@@ -3006,11 +3007,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "shriek yell"
+      "text": "shriek"
      },
      {
       "letter": "D",
-      "text": "prospective customer potential customer"
+      "text": "prospective customer"
      }
     ],
     "answer": "B",
@@ -3132,7 +3133,7 @@ window.FLASHCARD_UNITS = {
     "vi": 45
    },
    {
-    "question": "The regional fresh fresh vegetable market is located __________ 23.7 kilometers from the central station.",
+    "question": "The regional fresh vegetable market is located __________ 23.7 kilometers from the central station.",
     "options": [
      {
       "letter": "A",
@@ -3186,7 +3187,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "to satisfaction"
+      "text": "to their satisfaction"
      },
      {
       "letter": "C",
@@ -3596,7 +3597,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "prospective customer potential customer"
+      "text": "prospective customer"
      },
      {
       "letter": "B",
@@ -3776,7 +3777,7 @@ window.FLASHCARD_UNITS = {
     "vi": 73
    },
    {
-    "question": "Leaving a heap of dirty dishes in the kitchen sink for a week is absolutely __________。",
+    "question": "Leaving a heap of dirty dishes in the kitchen sink for a week is absolutely __________.",
     "options": [
      {
       "letter": "A",
@@ -4259,7 +4260,7 @@ window.FLASHCARD_UNITS = {
     "vi": 94
    },
    {
-    "question": "Jason had the fastest time on the track team for the 100-meter sprint __________。",
+    "question": "Jason had the fastest time on the track team for the 100-meter sprint __________.",
     "options": [
      {
       "letter": "A",
@@ -4512,7 +4513,7 @@ window.FLASHCARD_UNITS = {
     "vi": 105
    },
    {
-    "question": "The non-profit foundation works hard to protect domestic livestock from any severe __________。",
+    "question": "The non-profit foundation works hard to protect domestic livestock from any severe __________.",
     "options": [
      {
       "letter": "A",
@@ -4581,7 +4582,7 @@ window.FLASHCARD_UNITS = {
     "vi": 108
    },
    {
-    "question": "The job advertisement states that the tech company does not discriminate based on __________。",
+    "question": "The job advertisement states that the tech company does not discriminate based on __________.",
     "options": [
      {
       "letter": "A",
@@ -4650,7 +4651,7 @@ window.FLASHCARD_UNITS = {
     "vi": 111
    },
    {
-    "question": "Without a clear framework, collecting a large amount of raw data is completely __________。",
+    "question": "Without a clear framework, collecting a large amount of raw data is completely __________.",
     "options": [
      {
       "letter": "A",
@@ -4696,7 +4697,7 @@ window.FLASHCARD_UNITS = {
     "vi": 113
    },
    {
-    "question": "The innovative masterpiece painted by the young artist left the traditional critics completely __________。",
+    "question": "The innovative masterpiece painted by the young artist left the traditional critics completely __________.",
     "options": [
      {
       "letter": "A",
@@ -5091,7 +5092,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "shriek yell"
+      "text": "shriek"
      },
      {
       "letter": "B",
@@ -5191,7 +5192,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "shriek yell"
+      "text": "shriek"
      },
      {
       "letter": "D",
@@ -5390,7 +5391,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "shriek yell"
+      "text": "shriek"
      },
      {
       "letter": "B",
@@ -5413,7 +5414,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "to satisfaction"
+      "text": "to their satisfaction"
      },
      {
       "letter": "B",
@@ -5733,4 +5734,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"moral":["relating to the principles of right and wrong behavior","道德的"],"morally":["in a way that relates to standards of good and bad behavior","道德上地"],"immoral":["violating accepted standards of right and wrong behavior; morally wrong","不道德的"],"immorally":["in a way that violates accepted standards of right and wrong behavior","不道德地"],"morality":["principles concerning the distinction between right and wrong behavior","道德；道德觀"],"mortal":["causing death, or relating to human beings who cannot live forever","致命的；凡人的；不能永生的"],"immortal":["living forever; never dying or decaying; famous for all time","長生不死的；不朽的"],"mortality":["the state of being subject to death, or the number of deaths in a given period","生命的有限；死亡率"],"immortality":["the ability to live forever, or eternal fame that lasts through generations","長生不老；不朽的聲望"],"lethal":["sufficient to cause death; extremely harmful or destructive","致命的"],"fatal":["causing death, or leading to failure or disaster due to an initial mistake","致命的（常指招致失敗或死亡的結果）"],"fate":["the development of events beyond a person's control, regarded as determined by a supernatural power","命運"],"accept":["to consent to receive something, or to agree that something is true","接受；承認"],"acceptance":["the action of consenting to receive or undertake something offered","接受；接納"],"acceptable":["considered to be satisfactory or socially allowed in a specific group","可接受的；受歡迎的"],"unacceptable":["not acceptable; completely offensive or unsatisfactory","無法接受的"],"satisfy":["to give someone what they want or need, or to make them feel content","使滿足；使滿意；符合"],"satisfied":["feeling pleased or content because you have got what you wanted or needed","感到滿意的；滿足的"],"satisfying":["giving pleasure, fulfillment, or satisfaction because it provides what you need","令人滿意的；帶來滿足感的"],"satisfactory":["fulfilling expectations or needs; acceptable though not exceptional","令人滿意的"],"satisfaction":["a pleasant feeling of contentment when you have achieved something or got what you wanted","滿意；滿足（名詞）"],"interpret":["to explain or understand the meaning of words or artistic evidence","詮釋；口譯"],"interpreter":["a person whose job is to translate spoken words from one language into another","口譯員"],"interpretation":["an explanation or opinion of the meaning of another person's creative work","詮釋；解讀；翻譯"],"explain":["to make something clear or easy to understand by describing it in detail","解釋；說明"],"explanation":["a statement or account that makes something clear or easier to understand","解釋；說明"],"illustrate":["to draw pictures for a book, magazine, or educational material","畫插畫"],"illustrator":["a person who draws or creates pictures for books, magazines, or advertisements","插畫家"],"illustration":["a picture, drawing, or diagram inside a book or publication used as decoration or explanation","插圖；插畫"],"offense":["a feeling of anger or displeasure caused by an offensive statement or action","冒犯；得罪"],"offensive":["causing someone to feel deeply hurt, angry, or insulted","冒犯的；無禮的"],"offended":["to cause someone to feel deeply hurt or angry by a rude action","冒犯；觸怒"],"offend":["to cause someone to feel deeply hurt or angry by a rude action","冒犯；觸怒"],"course":["the directional route or direction followed by a ship, aircraft, or storm","航程；航向；路線"],"coarse":["rough or loose in texture or grain; rude or offensive in behavior","粗糙的；粗俗的"],"rough":["having an uneven or irregular surface; not smooth or gentle","粗糙的；粗略的"],"roughly":["approximately; nearly but not completely exact in numbers or details","大約地；粗略地"],"approximately":["close to a particular number, measurement, or time, but not completely exact","大約；大概"],"tough":["difficult to deal with, severe, or physically strong and durable","艱難的；堅韌的；強硬的"],"political":["relating to the government, public affairs, or the state of a nation","政治的"],"politically":["in a way that relates to the government or public affairs of a nation","政治上地"],"politics":["the activities associated with the governance of a country or area","政治；政治學"],"politicians":["a person who is professionally involved in politics, especially as an elected official","政治家；政客"],"politician":["a person who is professionally involved in politics, especially as an elected official","政治家；政客"],"celebrity":["a famous person, especially in the entertainment, sports, or movie industry","名人；明星"],"celebrated":["famous, well-known, and highly praised for outstanding skills or achievements","著名的；馳名的"],"handicapped":["having a physical or mental condition that limits some regular movements","殘障的；有障礙的"],"disabled":["having a physical or mental condition that limits a person's movements, senses, or activities","殘障的；有身心障礙的"],"aspect":["a particular part, feature, or characteristic of a complex matter","面向；方面"],"perspective":["a particular way of considering something; a point of view or mental outlook","觀點；視角；想法"],"prospect":["the possibility or likelihood of some future event occurring successfully","前景；展望；可能性"],"prospective":["expected or likely to happen in the future, or being a potential customer or student","預期的；潛在的；未來的"],"appeared":["to become visible; to come into sight or exist in a specific place","出現"],"appear":["to become visible; to come into sight or exist in a specific place","出現"],"appearance":["the way that someone or something looks on the outside to others","外表；外觀"],"disappear":["to vanish from sight; to stop existing or being group available","消失"],"disappearance":["an unexpected event in which someone or something vanishes completely","消失（名詞）"],"disgusted":["feeling strong disapproval, dislike, or nausea toward an offensive situation","感到噁心的；反感的"],"disgusting":["extremely unpleasant, unacceptable, or offensive, causing strong dislike","令人噁心的；糟糕的"],"nasty":["highly unpleasant, offensive, or unkind in general behavior","惡劣的；差勁的；下流的"],"please":["to make someone feel happy, content, or thoroughly satisfied","使高興；使滿意；取悅"],"pleased":["feeling happy, content, or satisfied with a specific situation or outcome","感到高興的；滿意的"],"delighted":["exceptionally pleased or happy about a specific event, outcome, or piece of news","感到欣喜的；非常高興的"],"pleasant":["giving a sense of happy satisfaction, enjoyment, or comfort","令人愉快的；舒適的"],"pleasure":["a feeling of happy satisfaction, enjoyment, or contentment","樂趣；喜悅；榮幸"],"pressure":["the continuous force weight applied against an object; mental stress or urgency","壓力"],"press":["to push something firmly; to forcefully repetitive try to persuade someone to do an action","按；壓；逼迫"],"hateful":["expressing severe hatred, malice, or strong disapproval","充滿恨意的；可惡的"],"mocked":["to tease or laugh at someone in a cruel or unkind manner","嘲笑；嘲弄"],"mock":["to tease or laugh at someone in a cruel or unkind manner","嘲笑；嘲弄"],"mockery":["cruel or unkind behavior or language that makes fun of someone or something","嘲笑；嘲弄；愚弄"],"simulation":["the technique of duplicating the behavior of a real-world process or situation for practice","模擬；情境模擬"],"simulated":["manufactured to look, feel, or behave like the real object for training or practice","模擬的；仿效的"],"ridicule":["the subjection of someone or something to contemptuous and dismissive language","嘲弄；挖苦"],"ridiculous":["deserving or inviting derision or mockery; completely absurd or unreasonable","荒謬的；可笑的"],"race":["a group of people sharing the same culture, history, language, or physical ethnicity","種族"],"racial":["relating to a shared background, ethnicity, or genetic heritage","種族的"],"racially":["in a way that relates to shared background, ethnicity, or genetic heritage","在種族上"],"racism":["prejudice, discrimination, or antagonism directed against someone of a different race","種族主義"],"insult":["to speak to or treat someone with disrespect or offensive language","侮辱；羞辱"],"insulted":["to speak to or treat someone with disrespect or offensive language","侮辱；羞辱"],"insulting":["disrespectful or scornful deeply; causing a person to feel humiliated or degraded","侮辱人的；無禮的"],"disrespectful":["showing a distinct lack of respect, courtesy, or politeness toward someone or something","不敬的；無禮的"],"abuse":["cruel, violent, or highly offensive treatment of a person or animal","虐待；辱罵"],"compliment":["a polite expression of praise, admiration, or respect","稱讚；恭維"],"chairman":["a person chosen to conduct and direct the proceedings of an official meeting","主席"],"gender":["the state of being male or female, typically expressed in relation to social structures","性別"],"meaning":["what is intended to be expressed or understood by something","意義；含義"],"meaningful":["having a serious, important, or useful quality or purpose; filled with significance","有意義的；深遠的"],"meaningless":["having no meaning, purpose, or real value; completely useless","毫無意義的"],"speech":["a formal address or discourse delivered to an audience; the faculty of expressing thoughts","演講；言論；說話能力"],"speechless":["unable to speak temporarily due to great surprise, anger, or strong emotion","說不出話的"],"thought":["an idea, opinion, or product of mental thinking present in the mind","想法；思想"],"thoughtful":["showing consideration for the needs of other people, or showing careful deep thought","體貼的；深思熟慮的"],"thoughtless":["showing a lack of care or consideration for other people's feelings","粗心的；輕率的；不顧及他人的"],"worth":["the value or central importance of a person, object, or system","價值"],"worthless":["having no financial value or practical use; completely useless","毫無價值的"],"publish":["to officially prepare and issue a book, journal, or piece of music for public sale","出版；發行"],"publisher":["a person or company that prepares and issues books or journals for sale","出版社；發行商"],"publication":["the act of publishing a book or magazine, or the approved copy itself","出版物；發行"],"publications":["the act of publishing a book or magazine, or the approved copy itself","出版物；發行"],"publishing":["the business or profession of issuing printed materials or digital software","出版業"],"feminine":["having qualities or features traditionally associated with women","女性的；女性化的"],"masculine":["having qualities or features traditionally associated with men","男性的；男性化的"],"feminism":["the advocacy of women's rights on the basis of the equality of the sexes","女性主義"],"feminist":["a person who supports the advocacy of women's rights and equality","女性主義者"],"generations":["all of the people born and living at about the same time within a family or society","世代"],"generation":["all of the people born and living at about the same time within a family or society","世代"],"generate":["to cause a status or emotion to arise, or to produce energy or cash","產生；發電；造成"],"regeneration":["the process of renewing, restoring, or regrowing damaged structures or communities","再生；復興"],"prior":["existing or coming before in time, order, or central importance","先前的；事前的"],"priority":["the status of being established as most important on a list of goals","優先事項"],"majority":["the greater number or part of a specific group, more than half","大多數"],"minority":["the smaller number or part of a group, less than half","少數；少數民族"],"major":["important, serious, or significant in size, amount, or degree","主要的；重大的"],"commonplace":["ordinary; happening frequently or seen regularly, not presenting any surprise","普遍的；司空見慣的"],"rare":["not occurring frequently; exceptionally valuable because of being uncommon","罕見的；稀有的"],"screamed":["to give a long, loud, piercing cry expressing extreme emotion or alarm","尖叫；驚呼"],"scream":["to give a long, loud, piercing cry expressing extreme emotion or alarm","尖叫；驚呼"],"permit":["to officially allow someone to perform an action or enter a place","允許；准許"],"permission":["official approval to perform an action or enter a restricted area","允許；許可"],"accessible":["able to be reached, entered, or used easily by choice people","易於接近的；可使用的"],"intent":["a clear purpose or intention, especially a legal determination to perform an action","意圖；目的"],"intend":["to have a plan, result, or purpose in mind when doing a specific action","想要；打算；計意"],"intention":["an aim, plan, or purpose that guides a person's conscious actions","意圖；打算"],"intentional":["deliberate; done on purpose rather than by an accidental mistake","有意的；故意的"],"noble":["having or showing fine personal qualities or high moral principles; aristocratic","高尚的"],"nobles":["a person of noble rank or aristocratic birth in a traditional society","貴族"],"discriminate":["to treat a person or group unfairly based on their ethnicity, age, or gender","歧視；區分"],"discrimination":["the unjust or prejudicial treatment of different categories of people or things","歧視"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"moral":["relating to the principles of right and wrong behavior","道德的"],"morally":["in a way that relates to standards of good and bad behavior","道德上地"],"immoral":["violating accepted standards of right and wrong behavior; morally wrong","不道德的"],"immorally":["in a way that violates accepted standards of right and wrong behavior","不道德地"],"morality":["principles concerning the distinction between right and wrong behavior","道德；道德觀"],"mortal":["causing death, or relating to human beings who cannot live forever","致命的；凡人的；不能永生的"],"immortal":["living forever; never dying or decaying; famous for all time","長生不死的；不朽的"],"mortality":["the state of being subject to death, or the number of deaths in a given period","生命的有限；死亡率"],"immortality":["the ability to live forever, or eternal fame that lasts through generations","長生不老；不朽的聲望"],"lethal":["sufficient to cause death; extremely harmful or destructive","致命的"],"fatal":["causing death, or leading to failure or disaster due to an initial mistake","致命的（常指招致失敗或死亡的結果）"],"fate":["the development of events beyond a person's control, regarded as determined by a supernatural power","命運"],"accept":["to consent to receive something, or to agree that something is true","接受；承認"],"acceptance":["the action of consenting to receive or undertake something offered","接受；接納"],"acceptable":["considered to be satisfactory or socially allowed in a specific group","可接受的；受歡迎的"],"unacceptable":["not acceptable; completely offensive or unsatisfactory","無法接受的"],"satisfy":["to give someone what they want or need, or to make them feel content","使滿足；使滿意；符合"],"satisfied":["feeling pleased or content because you have got what you wanted or needed","感到滿意的；滿足的"],"satisfying":["giving pleasure, fulfillment, or satisfaction because it provides what you need","令人滿意的；帶來滿足感的"],"satisfactory":["fulfilling expectations or needs; acceptable though not exceptional","令人滿意的"],"satisfaction":["a pleasant feeling of contentment when you have achieved something or got what you wanted","滿意；滿足（名詞）"],"interpret":["to explain or understand the meaning of words or artistic evidence","詮釋；口譯"],"interpreter":["a person whose job is to translate spoken words from one language into another","口譯員"],"interpretation":["an explanation or opinion of the meaning of another person's creative work","詮釋；解讀；翻譯"],"explain":["to make something clear or easy to understand by describing it in detail","解釋；說明"],"explanation":["a statement or account that makes something clear or easier to understand","解釋；說明"],"illustrate":["to draw pictures for a book, magazine, or educational material","畫插畫"],"illustrator":["a person who draws or creates pictures for books, magazines, or advertisements","插畫家"],"illustration":["a picture, drawing, or diagram inside a book or publication used as decoration or explanation","插圖；插畫"],"offense":["a feeling of anger or displeasure caused by an offensive statement or action","冒犯；得罪"],"offensive":["causing someone to feel deeply hurt, angry, or insulted","冒犯的；無禮的"],"offended":["to cause someone to feel deeply hurt or angry by a rude action","冒犯；觸怒"],"offend":["to cause someone to feel deeply hurt or angry by a rude action","冒犯；觸怒"],"course":["the directional route or direction followed by a ship, aircraft, or storm","航程；航向；路線"],"coarse":["rough or loose in texture or grain; rude or offensive in behavior","粗糙的；粗俗的"],"rough":["having an uneven or irregular surface; not smooth or gentle","粗糙的；粗略的"],"roughly":["approximately; nearly but not completely exact in numbers or details","大約地；粗略地"],"approximately":["close to a particular number, measurement, or time, but not completely exact","大約；大概"],"tough":["difficult to deal with, severe, or physically strong and durable","艱難的；堅韌的；強硬的"],"political":["relating to the government, public affairs, or the state of a nation","政治的"],"politically":["in a way that relates to the government or public affairs of a nation","政治上地"],"politics":["the activities associated with the governance of a country or area","政治；政治學"],"politician":["a person who is professionally involved in politics, especially as an elected official","政治家；政客"],"politicians":["a person who is professionally involved in politics, especially as an elected official","政治家；政客"],"celebrity":["a famous person, especially in the entertainment, sports, or movie industry","名人；明星"],"celebrated":["famous, well-known, and highly praised for outstanding skills or achievements","著名的；馳名的"],"handicapped":["having a physical or mental condition that limits some regular movements","殘障的；有障礙的"],"disabled":["having a physical or mental condition that limits a person's movements, senses, or activities","殘障的；有身心障礙的"],"aspect":["a particular part, feature, or characteristic of a complex matter","面向；方面"],"perspective":["a particular way of considering something; a point of view or mental outlook","觀點；視角；想法"],"prospect":["the possibility or likelihood of some future event occurring successfully","前景；展望；可能性"],"prospective":["expected or likely to happen in the future, or being a potential customer or student","預期的；潛在的；未來的"],"appeared":["to become visible; to come into sight or exist in a specific place","出現"],"appear":["to become visible; to come into sight or exist in a specific place","出現"],"appearance":["the way that someone or something looks on the outside to others","外表；外觀"],"disappear":["to vanish from sight; to stop existing or being group available","消失"],"disappearance":["an unexpected event in which someone or something vanishes completely","消失（名詞）"],"disgusted":["feeling strong disapproval, dislike, or nausea toward an offensive situation","感到噁心的；反感的"],"disgusting":["extremely unpleasant, unacceptable, or offensive, causing strong dislike","令人噁心的；糟糕的"],"nasty":["highly unpleasant, offensive, or unkind in general behavior","惡劣的；差勁的；下流的"],"please":["to make someone feel happy, content, or thoroughly satisfied","使高興；使滿意；取悅"],"pleased":["feeling happy, content, or satisfied with a specific situation or outcome","感到高興的；滿意的"],"delighted":["exceptionally pleased or happy about a specific event, outcome, or piece of news","感到欣喜的；非常高興的"],"pleasant":["giving a sense of happy satisfaction, enjoyment, or comfort","令人愉快的；舒適的"],"pleasure":["a feeling of happy satisfaction, enjoyment, or contentment","樂趣；喜悅；榮幸"],"pressure":["the continuous force weight applied against an object; mental stress or urgency","壓力"],"press":["to push something firmly; to forcefully repetitive try to persuade someone to do an action","按；壓；逼迫"],"hateful":["expressing severe hatred, malice, or strong disapproval","充滿恨意的；可惡的"],"mock":["to tease or laugh at someone in a cruel or unkind manner","嘲笑；嘲弄"],"mocked":["to tease or laugh at someone in a cruel or unkind manner","嘲笑；嘲弄"],"mockery":["cruel or unkind behavior or language that makes fun of someone or something","嘲笑；嘲弄；愚弄"],"simulation":["the technique of duplicating the behavior of a real-world process or situation for practice","模擬；情境模擬"],"simulated":["manufactured to look, feel, or behave like the real object for training or practice","模擬的；仿效的"],"ridicule":["the subjection of someone or something to contemptuous and dismissive language","嘲弄；挖苦"],"ridiculous":["deserving or inviting derision or mockery; completely absurd or unreasonable","荒謬的；可笑的"],"race":["a group of people sharing the same culture, history, language, or physical ethnicity","種族"],"racial":["relating to a shared background, ethnicity, or genetic heritage","種族的"],"racially":["in a way that relates to shared background, ethnicity, or genetic heritage","在種族上"],"racism":["prejudice, discrimination, or antagonism directed against someone of a different race","種族主義"],"insulted":["to speak to or treat someone with disrespect or offensive language","侮辱；羞辱"],"insult":["to speak to or treat someone with disrespect or offensive language","侮辱；羞辱"],"insulting":["disrespectful or scornful deeply; causing a person to feel humiliated or degraded","侮辱人的；無禮的"],"disrespectful":["showing a distinct lack of respect, courtesy, or politeness toward someone or something","不敬的；無禮的"],"abuse":["cruel, violent, or highly offensive treatment of a person or animal","虐待；辱罵"],"compliment":["a polite expression of praise, admiration, or respect","稱讚；恭維"],"chairman":["a person chosen to conduct and direct the proceedings of an official meeting","主席"],"gender":["the state of being male or female, typically expressed in relation to social structures","性別"],"meaning":["what is intended to be expressed or understood by something","意義；含義"],"meaningful":["having a serious, important, or useful quality or purpose; filled with significance","有意義的；深遠的"],"meaningless":["having no meaning, purpose, or real value; completely useless","毫無意義的"],"speech":["a formal address or discourse delivered to an audience; the faculty of expressing thoughts","演講；言論；說話能力"],"speechless":["unable to speak temporarily due to great surprise, anger, or strong emotion","說不出話的"],"thought":["an idea, opinion, or product of mental thinking present in the mind","想法；思想"],"thoughtful":["showing consideration for the needs of other people, or showing careful deep thought","體貼的；深思熟慮的"],"thoughtless":["showing a lack of care or consideration for other people's feelings","粗心的；輕率的；不顧及他人的"],"worth":["the value or central importance of a person, object, or system","價值"],"worthless":["having no financial value or practical use; completely useless","毫無價值的"],"publish":["to officially prepare and issue a book, journal, or piece of music for public sale","出版；發行"],"publisher":["a person or company that prepares and issues books or journals for sale","出版社；發行商"],"publications":["the act of publishing a book or magazine, or the approved copy itself","出版物；發行"],"publication":["the act of publishing a book or magazine, or the approved copy itself","出版物；發行"],"publishing":["the business or profession of issuing printed materials or digital software","出版業"],"feminine":["having qualities or features traditionally associated with women","女性的；女性化的"],"masculine":["having qualities or features traditionally associated with men","男性的；男性化的"],"feminism":["the advocacy of women's rights on the basis of the equality of the sexes","女性主義"],"feminist":["a person who supports the advocacy of women's rights and equality","女性主義者"],"generation":["all of the people born and living at about the same time within a family or society","世代"],"generations":["all of the people born and living at about the same time within a family or society","世代"],"generate":["to cause a status or emotion to arise, or to produce energy or cash","產生；發電；造成"],"regeneration":["the process of renewing, restoring, or regrowing damaged structures or communities","再生；復興"],"prior":["existing or coming before in time, order, or central importance","先前的；事前的"],"priority":["the status of being established as most important on a list of goals","優先事項"],"majority":["the greater number or part of a specific group, more than half","大多數"],"minority":["the smaller number or part of a group, less than half","少數；少數民族"],"major":["important, serious, or significant in size, amount, or degree","主要的；重大的"],"commonplace":["ordinary; happening frequently or seen regularly, not presenting any surprise","普遍的；司空見慣的"],"rare":["not occurring frequently; exceptionally valuable because of being uncommon","罕見的；稀有的"],"scream":["to give a long, loud, piercing cry expressing extreme emotion or alarm","尖叫；驚呼"],"screamed":["to give a long, loud, piercing cry expressing extreme emotion or alarm","尖叫；驚呼"],"shriek":["a high-pitched pierce cry or a loud shout expressing strong emotion","尖叫聲 / 喊叫"],"permit":["to officially allow someone to perform an action or enter a place","允許；准許"],"permission":["official approval to perform an action or enter a restricted area","允許；許可"],"accessible":["able to be reached, entered, or used easily by choice people","易於接近的；可使用的"],"intent":["a clear purpose or intention, especially a legal determination to perform an action","意圖；目的"],"intend":["to have a plan, result, or purpose in mind when doing a specific action","想要；打算；計意"],"intention":["an aim, plan, or purpose that guides a person's conscious actions","意圖；打算"],"intentional":["deliberate; done on purpose rather than by an accidental mistake","有意的；故意的"],"noble":["having or showing fine personal qualities or high moral principles; aristocratic","高尚的"],"nobles":["a person of noble rank or aristocratic birth in a traditional society","貴族"],"discriminate":["to treat a person or group unfairly based on their ethnicity, age, or gender","歧視；區分"],"discrimination":["the unjust or prejudicial treatment of different categories of people or things","歧視"]});

@@ -310,7 +310,7 @@ window.FLASHCARD_UNITS = {
     "definition": "lasting forever or a very long time.",
     "chinese": "持久的；永恆的",
     "sentence": "The young couple gave each other golden rings as a beautiful symbol of their deep and __________ love for one another.",
-    "translation": "這對年輕夫婦互相贈送金戒指，作為他們彼此深厚且**持久的（永恆的）**愛的象徵。",
+    "translation": "這對年輕夫婦互相贈送金戒指，作為他們彼此深厚且持久的（永恆的）愛的象徵。",
     "lookup": {
      "english": "lasting forever or a very long time.",
      "chinese": "持久的；永恆的"
@@ -336,7 +336,7 @@ window.FLASHCARD_UNITS = {
     "definition": "exhibiting or relating to magnetism.",
     "chinese": "有吸引力的；磁性的",
     "sentence": "Because she naturally has a highly __________ personality, everyone at the crowded party instantly wanted to become her best friend.",
-    "translation": "因為她天生有著極具**有吸引力的（磁性的）**個性，擁擠派對上的每個人都立刻想成為她最好的朋友。",
+    "translation": "因為她天生有著極具有吸引力的（磁性的）個性，擁擠派對上的每個人都立刻想成為她最好的朋友。",
     "lookup": {
      "english": "exhibiting or relating to magnetism.",
      "chinese": "有吸引力的；磁性的"
@@ -357,7 +357,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "insert",
-    "answer": "insert",
+    "answer": "inserted",
     "pos": "v.",
     "definition": "to place, fit, or thrust something into another thing.",
     "chinese": "插入",
@@ -435,7 +435,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "under the guidance of",
-    "answer": "under the guidance of",
+    "answer": "Under the guidance of",
     "pos": "phr.",
     "definition": "being directed or helped by someone.",
     "chinese": "在...的指導下",
@@ -597,7 +597,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Going straight from one point to another without stopping, turning, or changing path.",
     "chinese": "直接的、直達的",
     "sentence": "Taking a __________ flight from Taipei to Los Angeles saves a lot of travel time compared to having a long layover.",
-    "translation": "與中途長時間停留相比，搭乘從台北到洛杉磯的**直達（直接）**航班可以節省大量的旅行時間。",
+    "translation": "與中途長時間停留相比，搭乘從台北到洛杉磯的直達（直接）航班可以節省大量的旅行時間。",
     "lookup": {
      "english": "Going straight from one point to another without stopping, turning, or changing path.",
      "chinese": "直接的、直達的"
@@ -683,7 +683,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "fetch",
-    "answer": "fetch",
+    "answer": "fetched",
     "pos": "v.",
     "definition": "to go for and then bring back (someone or something) for someone.",
     "chinese": "拿來；去取",
@@ -883,7 +883,7 @@ window.FLASHCARD_UNITS = {
     "definition": "to repair (something that is broken or damaged).",
     "chinese": "修理；癒合",
     "sentence": "Sarah urgently needs to undergo a complex medical surgery to properly __________ her terribly broken collarbone before the important sports competition.",
-    "translation": "莎拉急需進行一項複雜的醫療手術，以便在重要的體育比賽前適當地**癒合（修復）**她嚴重斷裂的鎖骨。",
+    "translation": "莎拉急需進行一項複雜的醫療手術，以便在重要的體育比賽前適當地癒合（修復）她嚴重斷裂的鎖骨。",
     "lookup": {
      "english": "to repair (something that is broken or damaged).",
      "chinese": "修理；癒合"
@@ -904,7 +904,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "mend one's ways",
-    "answer": "mend ways",
+    "answer": "mend his ways",
     "pos": "phr.",
     "definition": "to improve one's habits or behavior.",
     "chinese": "改過自新",
@@ -917,7 +917,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "mend fences",
-    "answer": "mend fences",
+    "answer": "mended fences",
     "pos": "phr.",
     "definition": "to try to repair a relationship that has been damaged.",
     "chinese": "修復關係",
@@ -987,7 +987,7 @@ window.FLASHCARD_UNITS = {
     "definition": "The act, process, or method of working, running, or controlling something.",
     "chinese": "操作、運作、運轉",
     "sentence": "Reading the instruction manual carefully is necessary for the safe __________ of this heavy factory equipment.",
-    "translation": "仔細閱讀說明手冊對於安全**操作（運作）**這台重型工廠設備是必要的。",
+    "translation": "仔細閱讀說明手冊對於安全操作（運作）這台重型工廠設備是必要的。",
     "lookup": {
      "english": "The act, process, or method of working, running, or controlling something.",
      "chinese": "操作、運作、運轉"
@@ -1091,7 +1091,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To feel, realize, or become aware of something without being told directly.",
     "chinese": "感覺到、察覺、意識到",
     "sentence": "Cats can often __________ an impending earthquake or weather change long before humans notice anything unusual.",
-    "translation": "貓通常能在人類注意到任何異常之前很久，就**感覺到（察覺）**即將發生的地震或天氣變化。",
+    "translation": "貓通常能在人類注意到任何異常之前很久，就感覺到（察覺）即將發生的地震或天氣變化。",
     "lookup": {
      "english": "To feel, realize, or become aware of something without being told directly.",
      "chinese": "感覺到、察覺、意識到"
@@ -1182,7 +1182,7 @@ window.FLASHCARD_UNITS = {
     "definition": "The specific group of people that an advertisement, product, or program is aimed at.",
     "chinese": "目標客群、目標觀眾",
     "sentence": "The clothing brand's __________ consists mainly of university students and young adults who love vintage styles.",
-    "translation": "這個服飾品牌的**目標客群（目標觀眾）**主要由熱愛復古風格的大學生和年輕人組成。",
+    "translation": "這個服飾品牌的目標客群（目標觀眾）主要由熱愛復古風格的大學生和年輕人組成。",
     "lookup": {
      "english": "The specific group of people that an advertisement, product, or program is aimed at.",
      "chinese": "目標客群、目標觀眾"
@@ -1221,7 +1221,7 @@ window.FLASHCARD_UNITS = {
     "definition": "with the capacity to develop or happen in the future.",
     "chinese": "潛在地；可能地",
     "sentence": "The strict doctor warned her that mixing those two strong medicines together could __________ be extremely dangerous for her weak heart.",
-    "translation": "嚴格的醫生警告她，將這兩種強效藥物混合在一起，**可能地（潛在地）**對她虛弱的心臟極其危險。",
+    "translation": "嚴格的醫生警告她，將這兩種強效藥物混合在一起，可能地（潛在地）對她虛弱的心臟極其危險。",
     "lookup": {
      "english": "with the capacity to develop or happen in the future.",
      "chinese": "潛在地；可能地"
@@ -1363,7 +1363,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "mend ways"
+      "text": "mend his ways"
      },
      {
       "letter": "D",
@@ -1428,7 +1428,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "insert"
+      "text": "inserted"
      },
      {
       "letter": "C",
@@ -1516,7 +1516,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "fetch"
+      "text": "fetched"
      },
      {
       "letter": "B",
@@ -1524,7 +1524,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "insert"
+      "text": "inserted"
      },
      {
       "letter": "D",
@@ -1915,7 +1915,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "insert"
+      "text": "inserted"
      },
      {
       "letter": "D",
@@ -2053,7 +2053,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "under the guidance of"
+      "text": "Under the guidance of"
      },
      {
       "letter": "D",
@@ -2126,7 +2126,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "insert"
+      "text": "inserted"
      }
     ],
     "answer": "A",
@@ -2206,7 +2206,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "fetch"
+      "text": "fetched"
      },
      {
       "letter": "B",
@@ -2229,7 +2229,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "insert"
+      "text": "inserted"
      },
      {
       "letter": "B",
@@ -2237,7 +2237,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "fetch"
+      "text": "fetched"
      },
      {
       "letter": "D",
@@ -2490,7 +2490,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "fetch"
+      "text": "fetched"
      },
      {
       "letter": "D",
@@ -2804,7 +2804,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "under the guidance of"
+      "text": "Under the guidance of"
      },
      {
       "letter": "B",
@@ -2816,7 +2816,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "mend ways"
+      "text": "mend his ways"
      }
     ],
     "answer": "B",
@@ -2827,7 +2827,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "fetch"
+      "text": "fetched"
      },
      {
       "letter": "B",
@@ -2881,7 +2881,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "mend ways"
+      "text": "mend his ways"
      },
      {
       "letter": "D",
@@ -2896,7 +2896,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "mend fences"
+      "text": "mended fences"
      },
      {
       "letter": "B",
@@ -2942,11 +2942,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "mend ways"
+      "text": "mend his ways"
      },
      {
       "letter": "B",
-      "text": "under the guidance of"
+      "text": "Under the guidance of"
      },
      {
       "letter": "C",
@@ -3057,7 +3057,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "mend ways"
+      "text": "mend his ways"
      },
      {
       "letter": "B",
@@ -3065,7 +3065,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "mend fences"
+      "text": "mended fences"
      },
      {
       "letter": "D",
@@ -3207,7 +3207,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "insert"
+      "text": "inserted"
      }
     ],
     "answer": "B",
@@ -3538,4 +3538,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"battery":["a container consisting of one or more cells, in which chemical energy is converted into electricity.","電池"],"charge":["To pass electricity into a device or battery to store power for future use.","給…充電"],"fee":["An amount of money paid for a professional service, exam, or official privilege.","費用、服務費、規費"],"fare":["The price you pay to travel on public transportation, such as a bus, train, or plane.","票價、（車、船、機）費"],"permanent":["lasting or intended to last or remain unchanged indefinitely.","永久的"],"permanently":["in a way that lasts or remains unchanged indefinitely.","永久地"],"temporary":["lasting for only a limited period of time; not permanent.","暫時的"],"eternal":["lasting or existing forever; without end or beginning.","永恆的"],"everlasting":["lasting forever or a very long time.","持久的；永恆的"],"magnet":["a piece of iron that has its component atoms so ordered that the material exhibits properties of magnetism.","磁鐵"],"magnetic":["exhibiting or relating to magnetism.","有吸引力的；磁性的"],"insert":["to place, fit, or thrust something into another thing.","插入"],"insertion":["the action of inserting something.","插入"],"capsule":["a small case or container, especially a round or cylindrical one.","膠囊"],"guidance":["advice or information aimed at resolving a problem or difficulty, especially as given by someone in authority.","指導；引導"],"guide":["to show or indicate the way to someone; a person who advises or shows the way to others.","引導；嚮導"],"lead":["To go in front of a group of people or animals to show them the way or direction.","帶領、引領、領路"],"leadership":["The position of being a leader, or the ability to guide, manage, and inspire a group of people.","領導能力、領導地位"],"direct":["To control, manage, or give official orders and instructions to a group of people or an activity.","指揮、引導、指示"],"director":["A person who is in charge of making a movie, play, or video, telling actors how to play their parts.","導演"],"direction":["The position or path towards which someone or something moves, faces, or points.","方向、方位"],"indirect":["Not happening or done in a straight way, or not immediately caused by something.","間接的、迂迴的"],"external":["belonging to or forming the outer surface or structure of something.","外用的；外部的"],"exterior":["forming, situated on, or relating to the outside of something; the outer surface or structure.","外部（的）"],"outer":["outside; external.","外面的；外部的"],"internal":["of or situated on the inside.","內部的"],"externally":["with reference to the outer surface or structure of something; outside.","外部地"],"fetch":["to go for and then bring back (someone or something) for someone.","拿來；去取"],"far-fetched":["unlikely and unconvincing; implausible.","牽強的；難以置信的"],"prospect":["the possibility or likelihood of some future event occurring.","前景；可能性"],"prospective":["expected or expecting to be something particular in the future.","潛在的；預期的"],"outlook":["a person's point of view or general attitude to life; a view of the future.","前景；觀點"],"efficient":["achieving maximum productivity with minimum wasted effort or expense.","有效率的"],"efficiency":["the state or quality of being efficient.","效率"],"efficiently":["in a way that achieves maximum productivity with minimum wasted effort or expense.","有效率地"],"inefficient":["not achieving maximum productivity; wasting or failing to make the best use of time or resources.","沒效率的"],"effective":["successful in producing a desired or intended result.","有效的"],"productive":["producing or able to produce large amounts of goods, crops, or other commodities.","多產的；有生產力的"],"agent":["a substance that brings about a chemical or physical effect; a person who acts on behalf of another.","媒介；代理人"],"agency":["a business or organization established to provide a particular service.","機構；代理處"],"mend":["to repair (something that is broken or damaged).","修理；癒合"],"amend":["to make minor changes in a text in order to make it fairer, more accurate, or more up-to-date.","修改；修訂"],"surgery":["the medical treatment of bodily injuries or diseases by incision or manipulation.","外科手術"],"surgeon":["a medical practitioner qualified to practice surgery.","外科醫生"],"operation":["an act of surgery performed on a patient.","手術；操作"],"sensor":["a device which detects or measures a physical property and records, indicates, or otherwise responds to it.","感測器"],"sensory":["of or relating to sensation or the physical senses; transmitted or perceived by the senses.","感官的"],"sense":["a faculty by which the body perceives an external stimulus; to perceive by a sense.","感覺；感官"],"sensible":["Showing good judgment; practical, wise, and reasonable.","明智的、合理的、懂事的"],"sensitive":["Easily hurt, damaged, or affected by something; or easily offended or upset by what people say.","敏感的、易受影響的"],"potential":["latent qualities or abilities that may be developed and lead to future success; having the capacity to develop into something in the future.","潛力；潛在的"],"potentially":["with the capacity to develop or happen in the future.","潛在地；可能地"],"possibility":["a thing that may happen or be the case.","可能性"],"miracle":["a surprising and welcome event that is not explicable by natural or scientific laws and is considered to be the work of a divine agency.","奇蹟"],"miraculous":["occurring through divine or supernatural intervention, or manifesting such power.","奇蹟般的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"battery":["a container consisting of one or more cells, in which chemical energy is converted into electricity.","電池"],"charge":["To pass electricity into a device or battery to store power for future use.","給…充電"],"fee":["An amount of money paid for a professional service, exam, or official privilege.","費用、服務費、規費"],"fare":["The price you pay to travel on public transportation, such as a bus, train, or plane.","票價、（車、船、機）費"],"permanent":["lasting or intended to last or remain unchanged indefinitely.","永久的"],"permanently":["in a way that lasts or remains unchanged indefinitely.","永久地"],"temporary":["lasting for only a limited period of time; not permanent.","暫時的"],"eternal":["lasting or existing forever; without end or beginning.","永恆的"],"everlasting":["lasting forever or a very long time.","持久的；永恆的"],"magnet":["a piece of iron that has its component atoms so ordered that the material exhibits properties of magnetism.","磁鐵"],"magnetic":["exhibiting or relating to magnetism.","有吸引力的；磁性的"],"inserted":["to place, fit, or thrust something into another thing.","插入"],"insert":["to place, fit, or thrust something into another thing.","插入"],"insertion":["the action of inserting something.","插入"],"capsule":["a small case or container, especially a round or cylindrical one.","膠囊"],"guidance":["advice or information aimed at resolving a problem or difficulty, especially as given by someone in authority.","指導；引導"],"guide":["to show or indicate the way to someone; a person who advises or shows the way to others.","引導；嚮導"],"lead":["To go in front of a group of people or animals to show them the way or direction.","帶領、引領、領路"],"leadership":["The position of being a leader, or the ability to guide, manage, and inspire a group of people.","領導能力、領導地位"],"direct":["To control, manage, or give official orders and instructions to a group of people or an activity.","指揮、引導、指示"],"director":["A person who is in charge of making a movie, play, or video, telling actors how to play their parts.","導演"],"direction":["The position or path towards which someone or something moves, faces, or points.","方向、方位"],"indirect":["Not happening or done in a straight way, or not immediately caused by something.","間接的、迂迴的"],"external":["belonging to or forming the outer surface or structure of something.","外用的；外部的"],"exterior":["forming, situated on, or relating to the outside of something; the outer surface or structure.","外部（的）"],"outer":["outside; external.","外面的；外部的"],"internal":["of or situated on the inside.","內部的"],"externally":["with reference to the outer surface or structure of something; outside.","外部地"],"fetched":["to go for and then bring back (someone or something) for someone.","拿來；去取"],"fetch":["to go for and then bring back (someone or something) for someone.","拿來；去取"],"far-fetched":["unlikely and unconvincing; implausible.","牽強的；難以置信的"],"prospect":["the possibility or likelihood of some future event occurring.","前景；可能性"],"prospective":["expected or expecting to be something particular in the future.","潛在的；預期的"],"outlook":["a person's point of view or general attitude to life; a view of the future.","前景；觀點"],"efficient":["achieving maximum productivity with minimum wasted effort or expense.","有效率的"],"efficiency":["the state or quality of being efficient.","效率"],"efficiently":["in a way that achieves maximum productivity with minimum wasted effort or expense.","有效率地"],"inefficient":["not achieving maximum productivity; wasting or failing to make the best use of time or resources.","沒效率的"],"effective":["successful in producing a desired or intended result.","有效的"],"productive":["producing or able to produce large amounts of goods, crops, or other commodities.","多產的；有生產力的"],"agent":["a substance that brings about a chemical or physical effect; a person who acts on behalf of another.","媒介；代理人"],"agency":["a business or organization established to provide a particular service.","機構；代理處"],"mend":["to repair (something that is broken or damaged).","修理；癒合"],"amend":["to make minor changes in a text in order to make it fairer, more accurate, or more up-to-date.","修改；修訂"],"surgery":["the medical treatment of bodily injuries or diseases by incision or manipulation.","外科手術"],"surgeon":["a medical practitioner qualified to practice surgery.","外科醫生"],"operation":["an act of surgery performed on a patient.","手術；操作"],"sensor":["a device which detects or measures a physical property and records, indicates, or otherwise responds to it.","感測器"],"sensory":["of or relating to sensation or the physical senses; transmitted or perceived by the senses.","感官的"],"sense":["a faculty by which the body perceives an external stimulus; to perceive by a sense.","感覺；感官"],"sensible":["Showing good judgment; practical, wise, and reasonable.","明智的、合理的、懂事的"],"sensitive":["Easily hurt, damaged, or affected by something; or easily offended or upset by what people say.","敏感的、易受影響的"],"potential":["latent qualities or abilities that may be developed and lead to future success; having the capacity to develop into something in the future.","潛力；潛在的"],"potentially":["with the capacity to develop or happen in the future.","潛在地；可能地"],"possibility":["a thing that may happen or be the case.","可能性"],"miracle":["a surprising and welcome event that is not explicable by natural or scientific laws and is considered to be the work of a divine agency.","奇蹟"],"miraculous":["occurring through divine or supernatural intervention, or manifesting such power.","奇蹟般的"]});

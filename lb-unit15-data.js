@@ -19,7 +19,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "trace something's roots",
-    "answer": "trace something's roots",
+    "answer": "traced the ancient roots",
     "pos": "phr.",
     "definition": "to find the origin of something.",
     "chinese": "追溯...的根源",
@@ -115,7 +115,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To continue to know about where someone or something is, or how something is changing.",
     "chinese": "記錄、掌握...的動態",
     "sentence": "It is necessary for college students to __________ their expenses every week, otherwise they might run out of pocket money before the month ends.",
-    "translation": "大學生每週**記錄（掌握）**自己的花銷是必要的，否則他們可能會在月底前就把零用錢花光。",
+    "translation": "大學生每週記錄（掌握）自己的花銷是必要的，否則他們可能會在月底前就把零用錢花光。",
     "lookup": {
      "english": "To continue to know about where someone or something is, or how something is changing.",
      "chinese": "記錄、掌握...的動態"
@@ -189,7 +189,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "fall head over heels for",
-    "answer": "fall head over heels for",
+    "answer": "fell head over heels for",
     "pos": "phr.",
     "definition": "To fall deeply and completely in love with someone.",
     "chinese": "徹底愛上、為...神魂顛倒",
@@ -203,7 +203,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "nowadays",
-    "answer": "nowadays",
+    "answer": "Nowadays",
     "pos": "adv.",
     "definition": "at the present time, in contrast with the past.",
     "chinese": "現今；如今",
@@ -637,7 +637,7 @@ window.FLASHCARD_UNITS = {
     "definition": "situated inside or further in; internal.",
     "chinese": "內部的；裡面的",
     "sentence": "The frightened child nervously hid deep inside the dark and completely silent __________ room of the massive abandoned wooden house.",
-    "translation": "受驚的孩子緊張地躲在巨大廢棄木屋黑暗且完全安靜的**裡面的（內部的）**房間深處。",
+    "translation": "受驚的孩子緊張地躲在巨大廢棄木屋黑暗且完全安靜的裡面的（內部的）房間深處。",
     "lookup": {
      "english": "situated inside or further in; internal.",
      "chinese": "內部的；裡面的"
@@ -710,12 +710,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "trick",
-    "answer": "trick",
+    "answer": "tricked",
     "pos": "v. / n.",
     "definition": "a cunning or skillful act or scheme intended to deceive or outwit someone.",
     "chinese": "欺騙；詭計",
     "sentence": "I still honestly can't believe that my supposed best friends completely __________ me into coming to this extremely boring party.",
-    "translation": "我老實說仍然不敢相信我所謂的最好朋友們完全**欺騙（拐騙）**我來參加這個極其無聊的派對。",
+    "translation": "我老實說仍然不敢相信我所謂的最好朋友們完全欺騙（拐騙）我來參加這個極其無聊的派對。",
     "lookup": {
      "english": "a cunning or skillful act or scheme intended to deceive or outwit someone.",
      "chinese": "欺騙；詭計"
@@ -973,12 +973,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "in addition",
-    "answer": "in addition",
+    "answer": "In addition",
     "pos": "phr.",
     "definition": "as an extra person, thing, or circumstance.",
     "chinese": "此外",
     "sentence": "__________ to providing excellent medical benefits, the generous company also surprisingly offers its workers four weeks of paid vacation.",
-    "translation": "**此外（除了...之外）**提供極佳的醫療福利，這家慷慨的公司令人驚訝地還為其員工提供四週的帶薪休假。",
+    "translation": "此外（除了...之外）提供極佳的醫療福利，這家慷慨的公司令人驚訝地還為其員工提供四週的帶薪休假。",
     "lookup": {
      "english": "as an extra person, thing, or circumstance.",
      "chinese": "此外"
@@ -1025,7 +1025,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "compromise",
-    "answer": "compromise",
+    "answer": "compromises",
     "pos": "v.",
     "definition": "to accept standards that are lower than is desirable.",
     "chinese": "損害；危及",
@@ -1051,7 +1051,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "defeat",
-    "answer": "defeat",
+    "answer": "defeated",
     "pos": "v.",
     "definition": "win a victory over someone in a battle or other contest.",
     "chinese": "擊敗",
@@ -1082,7 +1082,7 @@ window.FLASHCARD_UNITS = {
     "definition": "demoralized and overcome by adversity.",
     "chinese": "覺得挫敗的；被擊敗的",
     "sentence": "After failing the difficult medical exam for the third time, the exhausted student understandably felt completely __________ and totally hopeless.",
-    "translation": "在第三次未能通過困難的醫學考試後，疲憊的學生可以理解地感到完全**被擊敗的（覺得挫敗的）**且完全絕望。",
+    "translation": "在第三次未能通過困難的醫學考試後，疲憊的學生可以理解地感到完全被擊敗的（覺得挫敗的）且完全絕望。",
     "lookup": {
      "english": "demoralized and overcome by adversity.",
      "chinese": "覺得挫敗的；被擊敗的"
@@ -1090,7 +1090,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "suffer a defeat",
-    "answer": "suffer a devastating defeat",
+    "answer": "suffered a devastating defeat",
     "pos": "phr.",
     "definition": "to lose in a battle, contest, or election.",
     "chinese": "遭受失敗",
@@ -1134,7 +1134,7 @@ window.FLASHCARD_UNITS = {
     "definition": "an event causing great suffering, destruction, and distress.",
     "chinese": "悲劇；災難",
     "sentence": "It will certainly be an incredibly long time before the completely destroyed island eventually recovers from the terrifying natural __________.",
-    "translation": "在這座被徹底摧毀的島嶼最終從可怕的自然**悲劇（災難）**中復原之前，肯定還需要極其漫長的時間。",
+    "translation": "在這座被徹底摧毀的島嶼最終從可怕的自然悲劇（災難）中復原之前，肯定還需要極其漫長的時間。",
     "lookup": {
      "english": "an event causing great suffering, destruction, and distress.",
      "chinese": "悲劇；災難"
@@ -1276,7 +1276,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "Something that is difficult or impossible to understand or explain.",
     "chinese": "謎、神秘的事物",
-    "sentence": "The sudden disappearance of the ancient civilization remains a total __________ , as archaeologists have found very few clues to explain what happened to them.",
+    "sentence": "The sudden disappearance of the ancient civilization remains a total __________, as archaeologists have found very few clues to explain what happened to them.",
     "translation": "這個古老文明的突然消失仍然是一個未解之謎，因為考古學家發現了極少能解釋他們究竟發生了什麼事的線索。",
     "lookup": {
      "english": "Something that is difficult or impossible to understand or explain.",
@@ -1455,7 +1455,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "keep someone company",
-    "answer": "keep company",
+    "answer": "keep her company",
     "pos": "phr.",
     "definition": "To spend time with someone so that they are not alone.",
     "chinese": "陪伴某人",
@@ -1561,7 +1561,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "manage to v",
-    "answer": "manage to",
+    "answer": "managed to finish",
     "pos": "phr.",
     "definition": "To succeed in doing something difficult, especially after trying hard.",
     "chinese": "設法做到...、成功做到...",
@@ -1579,7 +1579,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To watch a person or activity to make sure everything is done correctly and safely.",
     "chinese": "監督、指導",
     "sentence": "The science teacher must __________ the students while they are doing chemistry experiments, because some of the liquids can be dangerous.",
-    "translation": "自然老師在學生做化學實驗時必須監督他們，編因為某些液體可能具有危險性。",
+    "translation": "自然老師在學生做化學實驗時必須監督他們，因為某些液體可能具有危險性。",
     "lookup": {
      "english": "To watch a person or activity to make sure everything is done correctly and safely.",
      "chinese": "監督、指導"
@@ -1736,7 +1736,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "manage to"
+      "text": "managed to finish"
      },
      {
       "letter": "C",
@@ -1744,7 +1744,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "trace something's roots"
+      "text": "traced the ancient roots"
      }
     ],
     "answer": "D",
@@ -1782,7 +1782,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "company"
+      "text": "companion"
      },
      {
       "letter": "C",
@@ -1790,7 +1790,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "tragedy"
+      "text": "defeat"
      }
     ],
     "answer": "A",
@@ -1870,7 +1870,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "comedy"
+      "text": "tragedy"
      },
      {
       "letter": "B",
@@ -1878,11 +1878,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "employee"
+      "text": "monitor"
      },
      {
       "letter": "D",
-      "text": "partner"
+      "text": "colleague"
      }
     ],
     "answer": "B",
@@ -1920,18 +1920,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "railway"
+      "text": "employment"
      },
      {
       "letter": "C",
-      "text": "heel"
+      "text": "railway"
      },
      {
       "letter": "D",
-      "text": "companion"
+      "text": "heel"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 9
    },
    {
@@ -1939,22 +1939,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "railway"
+      "text": "employer"
      },
      {
       "letter": "B",
-      "text": "comedy"
-     },
-     {
-      "letter": "C",
       "text": "path"
      },
      {
+      "letter": "C",
+      "text": "railway"
+     },
+     {
       "letter": "D",
-      "text": "manager"
+      "text": "tragedy"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 10
    },
    {
@@ -1966,15 +1966,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "enthusiasm"
+      "text": "path"
      },
      {
       "letter": "C",
-      "text": "track"
+      "text": "curiosity"
      },
      {
       "letter": "D",
-      "text": "comedy"
+      "text": "track"
      }
     ],
     "answer": "A",
@@ -1985,22 +1985,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "myth"
+      "text": "employment"
      },
      {
       "letter": "B",
-      "text": "mystery"
-     },
-     {
-      "letter": "C",
       "text": "heel"
      },
      {
+      "letter": "C",
+      "text": "comedian"
+     },
+     {
       "letter": "D",
-      "text": "track"
+      "text": "legend"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 12
    },
    {
@@ -2008,22 +2008,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "outer surface"
+      "text": "high heels"
      },
      {
       "letter": "B",
-      "text": "raise funds"
+      "text": "traveling companion"
      },
      {
       "letter": "C",
-      "text": "keep track of"
+      "text": "outer surface"
      },
      {
       "letter": "D",
-      "text": "high heels"
+      "text": "raise funds"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 13
    },
    {
@@ -2031,22 +2031,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "outer edge"
+      "text": "employment rate"
      },
      {
       "letter": "B",
-      "text": "fall head over heels for"
+      "text": "outer edge"
      },
      {
       "letter": "C",
-      "text": "suffer a devastating defeat"
+      "text": "suffered a devastating defeat"
      },
      {
       "letter": "D",
-      "text": "the latter"
+      "text": "fell head over heels for"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 14
    },
    {
@@ -2054,7 +2054,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "nowadays"
+      "text": "moreover"
      },
      {
       "letter": "B",
@@ -2062,14 +2062,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "considerably"
+      "text": "Nowadays"
      },
      {
       "letter": "D",
-      "text": "moreover"
+      "text": "considerably"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 15
    },
    {
@@ -2192,7 +2192,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "manage to"
+      "text": "managed to finish"
      },
      {
       "letter": "B",
@@ -2200,7 +2200,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "in addition"
+      "text": "In addition"
      },
      {
       "letter": "D",
@@ -2886,7 +2886,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "compromise"
+      "text": "compromises"
      },
      {
       "letter": "C",
@@ -2928,22 +2928,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "supervisor"
-     },
-     {
-      "letter": "B",
-      "text": "railway"
-     },
-     {
-      "letter": "C",
       "text": "deception"
      },
      {
+      "letter": "B",
+      "text": "employment"
+     },
+     {
+      "letter": "C",
+      "text": "manager"
+     },
+     {
       "letter": "D",
-      "text": "track"
+      "text": "railway"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 53
    },
    {
@@ -2951,19 +2951,19 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "idiom"
+      "text": "partner"
      },
      {
       "letter": "B",
-      "text": "trick"
+      "text": "tricked"
      },
      {
       "letter": "C",
-      "text": "colleague"
+      "text": "idiom"
      },
      {
       "letter": "D",
-      "text": "awareness"
+      "text": "colleague"
      }
     ],
     "answer": "B",
@@ -2974,7 +2974,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "trick the old man into"
+      "text": "suffered a devastating defeat"
      },
      {
       "letter": "B",
@@ -2982,14 +2982,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "employment rate"
+      "text": "trick the old man into"
      },
      {
       "letter": "D",
-      "text": "reach a fair compromise"
+      "text": "employment rate"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 55
    },
    {
@@ -2997,11 +2997,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "defeat"
+      "text": "supervisor"
      },
      {
       "letter": "B",
-      "text": "trick"
+      "text": "defeat"
      },
      {
       "letter": "C",
@@ -3009,10 +3009,10 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "myth"
+      "text": "trick"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 56
    },
    {
@@ -3020,22 +3020,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "raise funds"
-     },
-     {
-      "letter": "B",
-      "text": "validate the fact"
-     },
-     {
-      "letter": "C",
       "text": "play a trick on"
      },
      {
+      "letter": "B",
+      "text": "keep track of"
+     },
+     {
+      "letter": "C",
+      "text": "raise funds"
+     },
+     {
       "letter": "D",
-      "text": "follow the trace"
+      "text": "validate the fact"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 57
    },
    {
@@ -3051,14 +3051,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "passionate"
+      "text": "naive"
      },
      {
       "letter": "D",
-      "text": "naive"
+      "text": "passionate"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 58
    },
    {
@@ -3066,11 +3066,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "act so naively"
+      "text": "keep track of"
      },
      {
       "letter": "B",
-      "text": "keep track of"
+      "text": "act so naively"
      },
      {
       "letter": "C",
@@ -3081,7 +3081,7 @@ window.FLASHCARD_UNITS = {
       "text": "raise the issue"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 59
    },
    {
@@ -3139,7 +3139,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "compromise"
+      "text": "compromises"
      },
      {
       "letter": "C",
@@ -3185,15 +3185,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "comedy"
+      "text": "tragedy"
      },
      {
       "letter": "C",
-      "text": "curiosity"
+      "text": "mystery"
      },
      {
       "letter": "D",
-      "text": "manager"
+      "text": "partner"
      }
     ],
     "answer": "A",
@@ -3277,11 +3277,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "keep company"
+      "text": "keep her company"
      },
      {
       "letter": "C",
-      "text": "suffer a devastating defeat"
+      "text": "suffered a devastating defeat"
      },
      {
       "letter": "D",
@@ -3331,7 +3331,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "suffer a devastating defeat"
+      "text": "suffered a devastating defeat"
      }
     ],
     "answer": "B",
@@ -3419,7 +3419,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "in addition"
+      "text": "In addition"
      },
      {
       "letter": "D",
@@ -3438,7 +3438,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "nowadays"
+      "text": "Nowadays"
      },
      {
       "letter": "C",
@@ -3465,11 +3465,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "monitor"
+      "text": "supervisor"
      },
      {
       "letter": "D",
-      "text": "tragedy"
+      "text": "defeat"
      }
     ],
     "answer": "B",
@@ -3492,7 +3492,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "keep company"
+      "text": "keep her company"
      }
     ],
     "answer": "A",
@@ -3511,11 +3511,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "compromise"
+      "text": "compromises"
      },
      {
       "letter": "D",
-      "text": "defeat"
+      "text": "defeated"
      }
     ],
     "answer": "C",
@@ -3557,7 +3557,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "defeat"
+      "text": "defeated"
      },
      {
       "letter": "D",
@@ -3572,15 +3572,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "companion"
+      "text": "passion"
      },
      {
       "letter": "B",
-      "text": "comedian"
+      "text": "comedy"
      },
      {
       "letter": "C",
-      "text": "supervisor"
+      "text": "manager"
      },
      {
       "letter": "D",
@@ -3622,7 +3622,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "suffer a devastating defeat"
+      "text": "suffered a devastating defeat"
      },
      {
       "letter": "C",
@@ -3664,7 +3664,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "nowadays"
+      "text": "Nowadays"
      },
      {
       "letter": "B",
@@ -3733,7 +3733,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "compromise"
+      "text": "awareness"
      },
      {
       "letter": "B",
@@ -3745,7 +3745,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "employer"
+      "text": "employee"
      }
     ],
     "answer": "B",
@@ -3756,15 +3756,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "company"
+      "text": "companion"
      },
      {
       "letter": "B",
-      "text": "employer"
+      "text": "employee"
      },
      {
       "letter": "C",
-      "text": "supervisor"
+      "text": "manager"
      },
      {
       "letter": "D",
@@ -3783,11 +3783,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "mystery"
+      "text": "legend"
      },
      {
       "letter": "C",
-      "text": "partner"
+      "text": "colleague"
      },
      {
       "letter": "D",
@@ -3825,11 +3825,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "trick"
+      "text": "tricked"
      },
      {
       "letter": "B",
-      "text": "colleague"
+      "text": "company"
      },
      {
       "letter": "C",
@@ -3848,11 +3848,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "enthusiasm"
+      "text": "curiosity"
      },
      {
       "letter": "B",
-      "text": "monitor"
+      "text": "supervisor"
      },
      {
       "letter": "C",
@@ -3860,7 +3860,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "companion"
+      "text": "passion"
      }
     ],
     "answer": "C",
@@ -3917,7 +3917,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "in addition"
+      "text": "In addition"
      },
      {
       "letter": "B",
@@ -3925,7 +3925,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "trace something's roots"
+      "text": "traced the ancient roots"
      },
      {
       "letter": "D",
@@ -3936,26 +3936,26 @@ window.FLASHCARD_UNITS = {
     "vi": 96
    },
    {
-    "question": "The sudden disappearance of the ancient civilization remains a total __________ , as archaeologists have found very few clues to explain what happened to them.",
+    "question": "The sudden disappearance of the ancient civilization remains a total __________, as archaeologists have found very few clues to explain what happened to them.",
     "options": [
      {
       "letter": "A",
-      "text": "mystery"
+      "text": "defeat"
      },
      {
       "letter": "B",
-      "text": "tragedy"
+      "text": "company"
      },
      {
       "letter": "C",
-      "text": "colleague"
+      "text": "mystery"
      },
      {
       "letter": "D",
-      "text": "company"
+      "text": "employment"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 97
    },
    {
@@ -3963,11 +3963,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "outer"
+      "text": "mysterious"
      },
      {
       "letter": "B",
-      "text": "mysterious"
+      "text": "outer"
      },
      {
       "letter": "C",
@@ -3978,7 +3978,7 @@ window.FLASHCARD_UNITS = {
       "text": "celebrated"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 98
    },
    {
@@ -3986,22 +3986,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "legend"
+      "text": "myth"
      },
      {
       "letter": "B",
-      "text": "railway"
-     },
-     {
-      "letter": "C",
       "text": "curiosity"
      },
      {
+      "letter": "C",
+      "text": "railway"
+     },
+     {
       "letter": "D",
-      "text": "awareness"
+      "text": "trick"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 99
    },
    {
@@ -4013,18 +4013,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "out of curiosity"
-     },
-     {
-      "letter": "C",
       "text": "these days"
      },
      {
+      "letter": "C",
+      "text": "out of curiosity"
+     },
+     {
       "letter": "D",
-      "text": "fall head over heels for"
+      "text": "fell head over heels for"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 100
    },
    {
@@ -4044,7 +4044,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "manage to"
+      "text": "managed to finish"
      }
     ],
     "answer": "A",
@@ -4059,18 +4059,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "significant"
+      "text": "curious"
      },
      {
       "letter": "C",
-      "text": "curious"
+      "text": "significant"
      },
      {
       "letter": "D",
       "text": "considerable"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 102
    },
    {
@@ -4124,7 +4124,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "defeat"
+      "text": "compromise"
      },
      {
       "letter": "B",
@@ -4147,15 +4147,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "defeat"
+      "text": "compromise"
      },
      {
       "letter": "B",
-      "text": "comedian"
+      "text": "comedy"
      },
      {
       "letter": "C",
-      "text": "trick"
+      "text": "tricked"
      },
      {
       "letter": "D",
@@ -4205,7 +4205,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "curiosity"
+      "text": "mystery"
      }
     ],
     "answer": "C",
@@ -4224,7 +4224,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "manage to"
+      "text": "managed to finish"
      },
      {
       "letter": "D",
@@ -4239,15 +4239,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "employer"
+      "text": "employee"
      },
      {
       "letter": "B",
-      "text": "trick"
+      "text": "tricked"
      },
      {
       "letter": "C",
-      "text": "supervisor"
+      "text": "manager"
      },
      {
       "letter": "D",
@@ -4262,7 +4262,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "keep company"
+      "text": "keep her company"
      },
      {
       "letter": "B",
@@ -4274,7 +4274,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "in addition"
+      "text": "In addition"
      }
     ],
     "answer": "A",
@@ -4285,15 +4285,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "awareness"
+      "text": "trick"
      },
      {
       "letter": "B",
-      "text": "defeat"
+      "text": "compromise"
      },
      {
       "letter": "C",
-      "text": "partner"
+      "text": "colleague"
      },
      {
       "letter": "D",
@@ -4308,11 +4308,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "compromise"
+      "text": "compromises"
      },
      {
       "letter": "B",
-      "text": "defeat"
+      "text": "defeated"
      },
      {
       "letter": "C",
@@ -4354,7 +4354,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "companion"
+      "text": "passion"
      },
      {
       "letter": "B",
@@ -4362,11 +4362,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "passion"
+      "text": "enthusiasm"
      },
      {
       "letter": "D",
-      "text": "mystery"
+      "text": "legend"
      }
     ],
     "answer": "B",
@@ -4381,15 +4381,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "manager"
+      "text": "colleague"
      },
      {
       "letter": "C",
-      "text": "companion"
+      "text": "passion"
      },
      {
       "letter": "D",
-      "text": "company"
+      "text": "companion"
      }
     ],
     "answer": "A",
@@ -4400,15 +4400,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "company"
+      "text": "companion"
      },
      {
       "letter": "B",
-      "text": "trick"
+      "text": "tricked"
      },
      {
       "letter": "C",
-      "text": "defeat"
+      "text": "compromise"
      },
      {
       "letter": "D",
@@ -4446,7 +4446,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "fall head over heels for"
+      "text": "fell head over heels for"
      },
      {
       "letter": "B",
@@ -4454,7 +4454,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "manage to"
+      "text": "managed to finish"
      },
      {
       "letter": "D",
@@ -4481,7 +4481,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "defeat"
+      "text": "defeated"
      }
     ],
     "answer": "B",
@@ -4496,7 +4496,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "partner"
+      "text": "colleague"
      },
      {
       "letter": "C",
@@ -4527,7 +4527,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "defeat"
+      "text": "defeated"
      }
     ],
     "answer": "A",
@@ -4538,11 +4538,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "myth"
+      "text": "comedian"
      },
      {
       "letter": "B",
-      "text": "supervisor"
+      "text": "manager"
      },
      {
       "letter": "C",
@@ -4550,7 +4550,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "trick"
+      "text": "tricked"
      }
     ],
     "answer": "C",
@@ -4565,7 +4565,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "compromise"
+      "text": "compromises"
      },
      {
       "letter": "C",
@@ -4588,7 +4588,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "trick"
+      "text": "tricked"
      },
      {
       "letter": "C",
@@ -4596,7 +4596,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "comedy"
+      "text": "tragedy"
      }
     ],
     "answer": "C",
@@ -4607,7 +4607,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "defeat"
+      "text": "compromise"
      },
      {
       "letter": "B",
@@ -4619,7 +4619,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "manager"
+      "text": "partner"
      }
     ],
     "answer": "B",
@@ -4634,15 +4634,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "companion"
+      "text": "passion"
      },
      {
       "letter": "C",
-      "text": "manager"
+      "text": "partner"
      },
      {
       "letter": "D",
-      "text": "legend"
+      "text": "myth"
      }
     ],
     "answer": "A",
@@ -4697,4 +4697,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"trace":["to find or discover by investigation; a mark, object, or other indication of the existence or passing of something.","追蹤"],"track":["To follow the movements or progress of someone or something, especially by using electronics or signs.","追蹤、記錄...的進展"],"railway":["A system of tracks on which trains travel, or the organization that operates them.","鐵路、鐵道"],"path":["A narrow track or way made for walking, or a line along which something moves.","小徑、小路"],"idiom":["a group of words established by usage as having a meaning not deducible from those of the individual words.","慣用語；成語"],"heel":["the back part of the human foot below the ankle.","腳跟；鞋跟"],"nowadays":["at the present time, in contrast with the past.","現今；如今"],"recently":["at a recent time; not long ago.","最近"],"lately":["recently; not long ago.","最近；近來"],"enormous":["very large in size, quantity, or extent.","巨大的"],"grand":["magnificent and imposing in appearance, size, or style.","宏偉的；盛大的"],"tremendous":["very great in amount, scale, or intensity.","極大的；巨大的"],"massive":["Very large, heavy, and solid; huge.","巨大的、大量的"],"magnificent":["Extremely beautiful, impressive, or grand.","壯麗的、宏偉的"],"fascinating":["Extremely interesting and attractive.","迷人的、引人入勝的"],"remarkable":["Unusual or surprising in a way that causes people to take notice.","非凡的、值得注意的"],"exceptional":["Much better than average; unusual and outstanding.","傑出的、異常優秀的"],"distinguished":["Successful, authoritative, and commanding great respect.","卓越的、著名的"],"celebrated":["Famous and praised by many people.","著名的、馳名的"],"noted":["Well-known and respected for a particular quality or ability.","有名的、著名的"],"renowned":["Famous and respected for something specific.","有名的、聲譽卓著的"],"glamorous":["Especially attractive, exciting, and connected with wealth or success.","迷人的、光鮮亮麗的"],"lavish":["Large in amount, expensive, and impressive.","奢華的、豪華的"],"lush":["Growing thickly and strongly; green and healthy.","茂盛的、草木聰蘢的"],"significant":["Large or important enough to have a noticeable effect.","顯著的、重要的"],"significantly":["In a way that is large or important enough to be noticed.","顯著地、相當地"],"considerable":["Great in amount, size, or importance.","相當大（多）的"],"considerably":["Much or a lot; to a large degree.","相當地、非常"],"rapid":["Happening or moving very quickly.","快速的、迅速的"],"rapidly":["Very quickly; at a fast rate.","迅速地、很快地"],"moderate":["Neither too much nor too little; average in amount or intensity.","適度的、中等的"],"moderately":["To a medium degree; not excessively.","適度地、普通地"],"slight":["Small in amount or degree; not noticeably big.","輕微的、微小的"],"slightly":["A little bit; to a small degree.","稍微、輕微地"],"outer":["outside; external.","外面的；外部的"],"inner":["situated inside or further in; internal.","內部的；裡面的"],"deceive":["to cause someone to believe something that is not true.","欺騙"],"deceptive":["giving an appearance or impression different from the true one; misleading.","欺騙性的"],"deception":["the action of deceiving someone.","欺騙；騙局"],"trick":["a cunning or skillful act or scheme intended to deceive or outwit someone.","欺騙；詭計"],"naive":["showing a lack of experience, wisdom, or judgment.","天真的；幼稚的"],"aware":["having knowledge or perception of a situation or fact.","意識到的"],"beware":["be cautious and alert to the dangers of.","當心；提防"],"awareness":["knowledge or perception of a situation or fact.","意識；察覺"],"moreover":["as a further matter; besides.","此外；而且"],"furthermore":["in addition; besides.","此外；而且"],"additionally":["as an extra factor or circumstance.","此外"],"compromise":["an agreement reached by each side making concessions; to weaken or harm.","妥協；損害"],"defeat":["win a victory over someone in a battle or other contest.","擊敗"],"defeated":["demoralized and overcome by adversity.","覺得挫敗的；被擊敗的"],"tragic":["causing or characterized by extreme distress or sorrow.","悲慘的；悲劇的"],"tragically":["in a way that involves or causes extreme distress or sorrow.","悲慘地"],"tragedy":["an event causing great suffering, destruction, and distress.","悲劇；災難"],"comic":["causing or meant to cause laughter.","喜劇的；滑稽的"],"comedy":["A movie, play, or show that is funny and makes people laugh.","喜劇、喜劇片"],"comedian":["A person whose job is to entertain people by making them laugh.","喜劇演員、脫口秀演員"],"myth":["a traditional story concerning the early history of a people or explaining some natural or social phenomenon.","神話；迷思"],"mythical":["occurring in or characteristic of myths or folk tales.","神話的；虛構的"],"legend":["a traditional story sometimes popularly regarded as historical but unauthenticated.","傳說；傳奇人物"],"mystery":["Something that is difficult or impossible to understand or explain.","謎、神秘的事物"],"mysterious":["Strange, unknown, or difficult to understand or explain.","神秘的、難以理解的"],"curiosity":["a strong desire to know or learn something.","好奇心；奇特的事物"],"curious":["eager to know or learn something.","好奇的"],"enthusiastic":["Showing a lot of excitement and interest in something.","熱情的、熱心的"],"enthusiasm":["A strong feeling of excitement and interest in an activity.","熱情、熱忱"],"passion":["A very strong feeling of love, interest, or enthusiasm for an activity.","熱愛、強烈的愛好"],"passionate":["Having or showing strong feelings of enthusiasm or love for something.","熱情的、熱愛的"],"companion":["a person or animal with whom one spends a lot of time or with whom one travels.","同伴；伴侶"],"company":["The state of being with someone so they do not feel lonely.","陪伴、作伴"],"accompany":["To go somewhere with someone as a companion or escort.","陪同、陪伴"],"colleague":["a person with whom one works in a profession or business.","同事"],"partner":["a person who takes part in an undertaking with another or others.","夥伴；合夥人"],"manager":["A person who is in charge of a department, business, or team.","經理、主管"],"manage":["To be in control of a business, team, organization, or time.","管理、經營"],"supervise":["To watch a person or activity to make sure everything is done correctly and safely.","監督、指導"],"supervisor":["A person who is in charge of a group of people or an area of work.","主管、監工"],"monitor":["To check, watch, or test something regularly to see how it progresses.","監測、監控"],"employ":["To pay someone to work for your company or organization.","雇用"],"employee":["A person who is paid to work for someone else or a company.","員工、雇員"],"employer":["A person or organization that pays people to work for them.","雇主、老闆"],"employment":["The state of having a paid job, or the act of employing someone.","就業、工作"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"trace":["to find or discover by investigation; a mark, object, or other indication of the existence or passing of something.","追蹤"],"track":["To follow the movements or progress of someone or something, especially by using electronics or signs.","追蹤、記錄...的進展"],"railway":["A system of tracks on which trains travel, or the organization that operates them.","鐵路、鐵道"],"path":["A narrow track or way made for walking, or a line along which something moves.","小徑、小路"],"idiom":["a group of words established by usage as having a meaning not deducible from those of the individual words.","慣用語；成語"],"heel":["the back part of the human foot below the ankle.","腳跟；鞋跟"],"nowadays":["at the present time, in contrast with the past.","現今；如今"],"recently":["at a recent time; not long ago.","最近"],"lately":["recently; not long ago.","最近；近來"],"enormous":["very large in size, quantity, or extent.","巨大的"],"grand":["magnificent and imposing in appearance, size, or style.","宏偉的；盛大的"],"tremendous":["very great in amount, scale, or intensity.","極大的；巨大的"],"massive":["Very large, heavy, and solid; huge.","巨大的、大量的"],"magnificent":["Extremely beautiful, impressive, or grand.","壯麗的、宏偉的"],"fascinating":["Extremely interesting and attractive.","迷人的、引人入勝的"],"remarkable":["Unusual or surprising in a way that causes people to take notice.","非凡的、值得注意的"],"exceptional":["Much better than average; unusual and outstanding.","傑出的、異常優秀的"],"distinguished":["Successful, authoritative, and commanding great respect.","卓越的、著名的"],"celebrated":["Famous and praised by many people.","著名的、馳名的"],"noted":["Well-known and respected for a particular quality or ability.","有名的、著名的"],"renowned":["Famous and respected for something specific.","有名的、聲譽卓著的"],"glamorous":["Especially attractive, exciting, and connected with wealth or success.","迷人的、光鮮亮麗的"],"lavish":["Large in amount, expensive, and impressive.","奢華的、豪華的"],"lush":["Growing thickly and strongly; green and healthy.","茂盛的、草木聰蘢的"],"significant":["Large or important enough to have a noticeable effect.","顯著的、重要的"],"significantly":["In a way that is large or important enough to be noticed.","顯著地、相當地"],"considerable":["Great in amount, size, or importance.","相當大（多）的"],"considerably":["Much or a lot; to a large degree.","相當地、非常"],"rapid":["Happening or moving very quickly.","快速的、迅速的"],"rapidly":["Very quickly; at a fast rate.","迅速地、很快地"],"moderate":["Neither too much nor too little; average in amount or intensity.","適度的、中等的"],"moderately":["To a medium degree; not excessively.","適度地、普通地"],"slight":["Small in amount or degree; not noticeably big.","輕微的、微小的"],"slightly":["A little bit; to a small degree.","稍微、輕微地"],"outer":["outside; external.","外面的；外部的"],"inner":["situated inside or further in; internal.","內部的；裡面的"],"deceive":["to cause someone to believe something that is not true.","欺騙"],"deceptive":["giving an appearance or impression different from the true one; misleading.","欺騙性的"],"deception":["the action of deceiving someone.","欺騙；騙局"],"tricked":["a cunning or skillful act or scheme intended to deceive or outwit someone.","欺騙；詭計"],"trick":["a cunning or skillful act or scheme intended to deceive or outwit someone.","欺騙；詭計"],"naive":["showing a lack of experience, wisdom, or judgment.","天真的；幼稚的"],"aware":["having knowledge or perception of a situation or fact.","意識到的"],"beware":["be cautious and alert to the dangers of.","當心；提防"],"awareness":["knowledge or perception of a situation or fact.","意識；察覺"],"moreover":["as a further matter; besides.","此外；而且"],"furthermore":["in addition; besides.","此外；而且"],"additionally":["as an extra factor or circumstance.","此外"],"compromise":["an agreement reached by each side making concessions; to weaken or harm.","妥協；損害"],"compromises":["to accept standards that are lower than is desirable.","損害；危及"],"defeated":["win a victory over someone in a battle or other contest.","擊敗"],"defeat":["win a victory over someone in a battle or other contest.","擊敗"],"tragic":["causing or characterized by extreme distress or sorrow.","悲慘的；悲劇的"],"tragically":["in a way that involves or causes extreme distress or sorrow.","悲慘地"],"tragedy":["an event causing great suffering, destruction, and distress.","悲劇；災難"],"comic":["causing or meant to cause laughter.","喜劇的；滑稽的"],"comedy":["A movie, play, or show that is funny and makes people laugh.","喜劇、喜劇片"],"comedian":["A person whose job is to entertain people by making them laugh.","喜劇演員、脫口秀演員"],"myth":["a traditional story concerning the early history of a people or explaining some natural or social phenomenon.","神話；迷思"],"mythical":["occurring in or characteristic of myths or folk tales.","神話的；虛構的"],"legend":["a traditional story sometimes popularly regarded as historical but unauthenticated.","傳說；傳奇人物"],"mystery":["Something that is difficult or impossible to understand or explain.","謎、神秘的事物"],"mysterious":["Strange, unknown, or difficult to understand or explain.","神秘的、難以理解的"],"curiosity":["a strong desire to know or learn something.","好奇心；奇特的事物"],"curious":["eager to know or learn something.","好奇的"],"enthusiastic":["Showing a lot of excitement and interest in something.","熱情的、熱心的"],"enthusiasm":["A strong feeling of excitement and interest in an activity.","熱情、熱忱"],"passion":["A very strong feeling of love, interest, or enthusiasm for an activity.","熱愛、強烈的愛好"],"passionate":["Having or showing strong feelings of enthusiasm or love for something.","熱情的、熱愛的"],"companion":["a person or animal with whom one spends a lot of time or with whom one travels.","同伴；伴侶"],"company":["The state of being with someone so they do not feel lonely.","陪伴、作伴"],"accompany":["To go somewhere with someone as a companion or escort.","陪同、陪伴"],"colleague":["a person with whom one works in a profession or business.","同事"],"partner":["a person who takes part in an undertaking with another or others.","夥伴；合夥人"],"manager":["A person who is in charge of a department, business, or team.","經理、主管"],"manage":["To be in control of a business, team, organization, or time.","管理、經營"],"supervise":["To watch a person or activity to make sure everything is done correctly and safely.","監督、指導"],"supervisor":["A person who is in charge of a group of people or an area of work.","主管、監工"],"monitor":["To check, watch, or test something regularly to see how it progresses.","監測、監控"],"employ":["To pay someone to work for your company or organization.","雇用"],"employee":["A person who is paid to work for someone else or a company.","員工、雇員"],"employer":["A person or organization that pays people to work for them.","雇主、老闆"],"employment":["The state of having a paid job, or the act of employing someone.","就業、工作"]});

@@ -6,7 +6,7 @@ window.FLASHCARD_UNITS = {
   "cards": [
    {
     "word": "collapse",
-    "answer": "collapse",
+    "answer": "collapsed",
     "pos": "v.",
     "definition": "to fall down or give way suddenly.",
     "chinese": "倒塌；崩潰",
@@ -71,7 +71,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "a building collapses",
-    "answer": "a building collapsesed",
+    "answer": "a building collapsed",
     "pos": "phr.",
     "definition": "A structure suddenly falling down or caving in because of an earthquake, weak foundation, or severe damage.",
     "chinese": "建築物倒塌",
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "someone collapses",
-    "answer": "collapsesed",
+    "answer": "collapsed",
     "pos": "phr.",
     "definition": "A person suddenly falling down and often becoming unconscious because they are very sick, exhausted, or weak.",
     "chinese": "（人）暈倒、不支倒地",
@@ -214,7 +214,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "except (for)",
-    "answer": "except",
+    "answer": "except for",
     "pos": "prep.",
     "definition": "Not including someone or something.",
     "chinese": "除了…之外（不包含）",
@@ -435,7 +435,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "secure",
-    "answer": "secure",
+    "answer": "secures",
     "pos": "v.",
     "definition": "to protect against threats; make safe.",
     "chinese": "使安全；獲得",
@@ -631,7 +631,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "break loose",
-    "answer": "break loose",
+    "answer": "broken loose",
     "pos": "phr.",
     "definition": "to escape from physical restraint.",
     "chinese": "掙脫",
@@ -696,7 +696,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "spill",
-    "answer": "spill",
+    "answer": "spilled",
     "pos": "v.",
     "definition": "to cause or allow liquid to flow over the edge of its container.",
     "chinese": "灑出",
@@ -727,7 +727,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To trust or rely on someone to do something, or to expect something to happen with certainty.",
     "chinese": "指望、依靠、信賴",
     "sentence": "You can always __________ Chloe to help you move into your new apartment because she is a very loyal friend.",
-    "translation": "你總是能**指望（信賴）**克洛伊來幫你搬進新公寓，因為她是一個非常講義氣的朋友。",
+    "translation": "你總是能指望（信賴）克洛伊來幫你搬進新公寓，因為她是一個非常講義氣的朋友。",
     "lookup": {
      "english": "To trust or rely on someone to do something, or to expect something to happen with certainty.",
      "chinese": "指望、依靠、信賴"
@@ -740,7 +740,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To need or depend on someone or something completely in order to live, work, or succeed.",
     "chinese": "依靠、依賴、信賴",
     "sentence": "Many senior citizens __________ public transportation to go to the hospital because they can no longer drive safely.",
-    "translation": "許多銀髮族**依靠（依賴）**大眾運輸前往醫院，因為他們已經無法安全地開車了。",
+    "translation": "許多銀髮族依靠（依賴）大眾運輸前往醫院，因為他們已經無法安全地開車了。",
     "lookup": {
      "english": "To need or depend on someone or something completely in order to live, work, or succeed.",
      "chinese": "依靠、依賴、信賴"
@@ -852,7 +852,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "rescue",
-    "answer": "rescue",
+    "answer": "rescued",
     "pos": "v.",
     "definition": "to save from a dangerous or distressing situation.",
     "chinese": "救援",
@@ -865,7 +865,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "come to one's rescue",
-    "answer": "come to my rescue",
+    "answer": "came to my rescue",
     "pos": "phr.",
     "definition": "to help someone out of a bad situation.",
     "chinese": "來救援某人",
@@ -974,7 +974,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To put a new person or thing in the place of an old or broken one.",
     "chinese": "用…取代/替換…",
     "sentence": "The chef decided to __________ natural honey to make the dessert much healthier.",
-    "translation": "主廚決定用天然蜂蜜**取代（替換）**白糖，讓這道甜點更健康。",
+    "translation": "主廚決定用天然蜂蜜取代（替換）白糖，讓這道甜點更健康。",
     "lookup": {
      "english": "To put a new person or thing in the place of an old or broken one.",
      "chinese": "用…取代/替換…"
@@ -1000,7 +1000,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To be used or to act instead of another person or thing.",
     "chinese": "代替、取代",
     "sentence": "Margarine can __________ butter in most baking recipes, though the final flavor might change slightly.",
-    "translation": "在大多數烘焙食譜中，乳瑪琳可以**代替（取代）**奶油，儘管最終的風味可能會稍微改變。",
+    "translation": "在大多數烘焙食譜中，乳瑪琳可以代替（取代）奶油，儘管最終的風味可能會稍微改變。",
     "lookup": {
      "english": "To be used or to act instead of another person or thing.",
      "chinese": "代替、取代"
@@ -1091,7 +1091,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Unable to live forever; human and bound to die eventually; or causing death.",
     "chinese": "凡人的、不能永生的、致命的；凡人",
     "sentence": "In ancient Greek myths, Zeus was an all-powerful god, while the heroes he interacted with were mere __________ beings.",
-    "translation": "在古希臘神話中，宙斯是一位全能的神，而與他互動的英雄們僅僅是**不能永生（凡人）**的存在。",
+    "translation": "在古希臘神話中，宙斯是一位全能的神，而與他互動的英雄們僅僅是不能永生（凡人）的存在。",
     "lookup": {
      "english": "Unable to live forever; human and bound to die eventually; or causing death.",
      "chinese": "凡人的、不能永生的、致命的；凡人"
@@ -1104,7 +1104,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Living forever; never dying or decaying; famous for all time.",
     "chinese": "長生不老的、永生的、不朽的",
     "sentence": "Vampires are often portrayed in modern movies as __________ creatures that never age or die of sickness.",
-    "translation": "吸血鬼在現代電影中經常被描繪成不會變老也不會因病死亡的**長生不老（永生）**生物。",
+    "translation": "吸血鬼在現代電影中經常被描繪成不會變老也不會因病死亡的長生不老（永生）生物。",
     "lookup": {
      "english": "Living forever; never dying or decaying; famous for all time.",
      "chinese": "長生不老的、永生的、不朽的"
@@ -1117,7 +1117,7 @@ window.FLASHCARD_UNITS = {
     "definition": "The state of being subject to death, or the condition of being human and unable to live forever.",
     "chinese": "生命的有限性、必死性、死亡率",
     "sentence": "Facing a serious illness often forces individuals to think about their own __________ and what matters most in life.",
-    "translation": "面對嚴重的疾病往往會迫使個人去思考自己**生命的有限性（必死性）**以及生命中什麼才是最重要的。",
+    "translation": "面對嚴重的疾病往往會迫使個人去思考自己生命的有限性（必死性）以及生命中什麼才是最重要的。",
     "lookup": {
      "english": "The state of being subject to death, or the condition of being human and unable to live forever.",
      "chinese": "生命的有限性、必死性、死亡率"
@@ -1221,7 +1221,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Limited to only one specific person, group, or area; not shared with others; or high-priced.",
     "chinese": "獨有的、專屬的、排他的",
     "sentence": "The television station successfully secured an __________ interview with the famous Hollywood director.",
-    "translation": "電視台成功取得了與那位著名好萊塢導演的**獨家（專屬）**專訪。",
+    "translation": "電視台成功取得了與那位著名好萊塢導演的獨家（專屬）專訪。",
     "lookup": {
      "english": "Limited to only one specific person, group, or area; not shared with others; or high-priced.",
      "chinese": "獨有的、專屬的、排他的"
@@ -1273,7 +1273,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To explain or decide the meaning of something, such as a work of art, a law, or a dream.",
     "chinese": "解釋、詮釋",
     "sentence": "Different critics may __________ the abstract painting in various ways, finding hidden messages that others miss.",
-    "translation": "不同的評論家可能會以各種方式**詮釋（解釋）**這幅抽象畫，發現其他人忽略的隱含訊息。",
+    "translation": "不同的評論家可能會以各種方式詮釋（解釋）這幅抽象畫，發現其他人忽略的隱含訊息。",
     "lookup": {
      "english": "To explain or decide the meaning of something, such as a work of art, a law, or a dream.",
      "chinese": "解釋、詮釋"
@@ -1351,7 +1351,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To make someone feel upset, angry, or insulted by doing or saying something rude.",
     "chinese": "冒犯、得罪",
     "sentence": "I really didn't mean to __________ Marcus with my joke; I was just trying to be funny, but it hurt his feelings.",
-    "translation": "我真的不是故意要用我的笑話**冒犯（得罪）**馬庫斯的；我只是想幽默一下，但卻傷到了他的感情。",
+    "translation": "我真的不是故意要用我的笑話冒犯（得罪）馬庫斯的；我只是想幽默一下，但卻傷到了他的感情。",
     "lookup": {
      "english": "To make someone feel upset, angry, or insulted by doing or saying something rude.",
      "chinese": "冒犯、得罪"
@@ -1377,7 +1377,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To protect someone or something from physical attack, harm, danger, or strong criticism.",
     "chinese": "防禦、保衛、為…辯護",
     "sentence": "The brave soldiers fought hard to __________ their country against the invading forces during the war.",
-    "translation": "戰爭期間，勇敢的士兵們努力戰鬥以**保衛（防禦）**他們的國家免受入侵部隊的侵害。",
+    "translation": "戰爭期間，勇敢的士兵們努力戰鬥以保衛（防禦）他們的國家免受入侵部隊的侵害。",
     "lookup": {
      "english": "To protect someone or something from physical attack, harm, danger, or strong criticism.",
      "chinese": "防禦、保衛、為…辯護"
@@ -1403,7 +1403,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Used or intended to protect against attack; or behaving in a way that shows you feel criticized or protective.",
     "chinese": "防衛的、防守的、有戒心的",
     "sentence": "When the manager asked Chloe about the project's delay, she became __________ and started blaming her teammates.",
-    "translation": "當經理詢問克洛伊關於專案延誤的事時，她變得**非常有戒心（採取防衛姿態）**並開始指責她的隊友。",
+    "translation": "當經理詢問克洛伊關於專案延誤的事時，她變得非常有戒心（採取防衛姿態）並開始指責她的隊友。",
     "lookup": {
      "english": "Used or intended to protect against attack; or behaving in a way that shows you feel criticized or protective.",
      "chinese": "防衛的、防守的、有戒心的"
@@ -1494,7 +1494,7 @@ window.FLASHCARD_UNITS = {
     "definition": "A person who is professionally involved in politics, especially as an elected official or candidate.",
     "chinese": "政治人物、政客",
     "sentence": "Every __________ must listen carefully to the needs of the local citizens in order to win their votes during the upcoming election.",
-    "translation": "每位**政治人物（政客）**都必須仔細傾聽當地公民的需求，以便在即將到來的選舉中贏得他們的選票。",
+    "translation": "每位政治人物（政客）都必須仔細傾聽當地公民的需求，以便在即將到來的選舉中贏得他們的選票。",
     "lookup": {
      "english": "A person who is professionally involved in politics, especially as an elected official or candidate.",
      "chinese": "政治人物、政客"
@@ -1520,7 +1520,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Having a physical condition that makes it difficult to move or do everyday activities easily.",
     "chinese": "肢體障礙的、身體有障礙的",
     "sentence": "The new museum installed modern ramps and wide elevators to ensure that __________ visitors can access every exhibition floor.",
-    "translation": "這座新博物館安裝了現代化的坡道和寬敞的電梯，以確保**肢體障礙的（身體有障礙的）**訪客可以到達每個展覽樓層。",
+    "translation": "這座新博物館安裝了現代化的坡道和寬敞的電梯，以確保肢體障礙的（身體有障礙的）訪客可以到達每個展覽樓層。",
     "lookup": {
      "english": "Having a physical condition that makes it difficult to move or do everyday activities easily.",
      "chinese": "肢體障礙的、身體有障礙的"
@@ -1533,7 +1533,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Having a physical or mental condition that limits a person's movements, senses, or activities.",
     "chinese": "有身心障礙的、殘疾的",
     "sentence": "The government provides special parking spaces near the entrance of public buildings for __________ citizens with valid permits.",
-    "translation": "政府在公共建築物入口附近為持有有效許可證的**有身心障礙的（殘疾的）**公民提供專用停車位。",
+    "translation": "政府在公共建築物入口附近為持有有效許可證的有身心障礙的（殘疾的）公民提供專用停車位。",
     "lookup": {
      "english": "Having a physical or mental condition that limits a person's movements, senses, or activities.",
      "chinese": "有身心障礙的、殘疾的"
@@ -1546,7 +1546,7 @@ window.FLASHCARD_UNITS = {
     "definition": "having a physical or mental disability.",
     "chinese": "有生理缺陷的；殘疾的",
     "sentence": "Andy is thoughtfully installing a smooth concrete ramp so that __________ customers can easily and safely access his new shop.",
-    "translation": "安迪正體貼地安裝一個平滑的混凝土坡道，以便**殘疾的（有生理缺陷的）**顧客能輕鬆安全地進入他的新商店。",
+    "translation": "安迪正體貼地安裝一個平滑的混凝土坡道，以便殘疾的（有生理缺陷的）顧客能輕鬆安全地進入他的新商店。",
     "lookup": {
      "english": "having a physical or mental disability.",
      "chinese": "有生理缺陷的；殘疾的"
@@ -1593,7 +1593,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "as far as i am concerned",
-    "answer": "as far as I am concerned",
+    "answer": "As far as I am concerned",
     "pos": "phr.",
     "definition": "Used to introduce your personal opinion, belief, or feelings about a particular topic.",
     "chinese": "就我而言、在我看來",
@@ -1606,7 +1606,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "in my opinion",
-    "answer": "in my opinion",
+    "answer": "In my opinion",
     "pos": "phr.",
     "definition": "Used to express what you personally think or believe about a specific matter.",
     "chinese": "依我之見、在我看來",
@@ -1632,7 +1632,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "mock",
-    "answer": "mock",
+    "answer": "mocked",
     "pos": "v.",
     "definition": "to tease or laugh at in a scornful or contemptuous manner.",
     "chinese": "嘲笑",
@@ -1702,7 +1702,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Rude, offensive, or disrespectful, and likely to deeply upset or anger someone.",
     "chinese": "侮辱的、無禮的、冒犯的",
     "sentence": "The customer's __________ remarks about the waiter's accent caused everyone in the restaurant to turn around in shock.",
-    "translation": "那位顧客對服務生口音的**侮辱性（無禮的）**言論，讓餐廳裡的所有人都不禁震驚地轉過頭來看。",
+    "translation": "那位顧客對服務生口音的侮辱性（無禮的）言論，讓餐廳裡的所有人都不禁震驚地轉過頭來看。",
     "lookup": {
      "english": "Rude, offensive, or disrespectful, and likely to deeply upset or anger someone.",
      "chinese": "侮辱的、無禮的、冒犯的"
@@ -1728,7 +1728,7 @@ window.FLASHCARD_UNITS = {
     "definition": "A person or a company that prepares, prints, and sells books, magazines, or newspapers.",
     "chinese": "出版商、出版社、發行商",
     "sentence": "The famous __________ announced that they would release a special illustrated edition of the classic novel this winter.",
-    "translation": "那家著名的**出版商（出版社）**宣布，他們將在今年冬天發行這部經典小說的特別插畫版。",
+    "translation": "那家著名的出版商（出版社）宣布，他們將在今年冬天發行這部經典小說的特別插畫版。",
     "lookup": {
      "english": "A person or a company that prepares, prints, and sells books, magazines, or newspapers.",
      "chinese": "出版商、出版社、發行商"
@@ -1775,7 +1775,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "publication",
-    "answer": "publication",
+    "answer": "publications",
     "pos": "n.",
     "definition": "the preparation and issuing of a book, journal, piece of music, or other work for public sale.",
     "chinese": "出版物；發行",
@@ -1801,7 +1801,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "generation",
-    "answer": "generation",
+    "answer": "generations",
     "pos": "n.",
     "definition": "all of the people born and living at about the same time, regarded collectively.",
     "chinese": "世代",
@@ -1905,7 +1905,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "the majority of",
-    "answer": "the majority of",
+    "answer": "The majority of",
     "pos": "phr.",
     "definition": "More than half of a total number of people or things; the larger part of something.",
     "chinese": "大多數的、大部分的",
@@ -1936,7 +1936,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Important, serious, or significant; greater in size, extent, or importance.",
     "chinese": "主要的、重大的、重要的",
     "sentence": "Regular exercise and a balanced diet play a __________ role in maintaining good physical and mental health.",
-    "translation": "規律運動和均衡飲食在維持良好的身心健康中扮演著**主要的（重要的）**角色。",
+    "translation": "規律運動和均衡飲食在維持良好的身心健康中扮演著主要的（重要的）角色。",
     "lookup": {
      "english": "Important, serious, or significant; greater in size, extent, or importance.",
      "chinese": "主要的、重大的、重要的"
@@ -2001,7 +2001,7 @@ window.FLASHCARD_UNITS = {
     "definition": "A group of people of a specific race, religion, or culture who live in a society where most people are different.",
     "chinese": "少數族群、少數群體",
     "sentence": "The government is introducing new policies to protect the cultural rights and languages of every __________ in the country.",
-    "translation": "政府正在推行新政策，以保護國內每個**少數族群（少數群體）**的文化權益與語言。",
+    "translation": "政府正在推行新政策，以保護國內每個少數族群（少數群體）的文化權益與語言。",
     "lookup": {
      "english": "A group of people of a specific race, religion, or culture who live in a society where most people are different.",
      "chinese": "少數族群、少數群體"
@@ -2035,12 +2035,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "scream",
-    "answer": "scream",
+    "answer": "screams",
     "pos": "v.",
     "definition": "to give a long, loud, piercing cry or cries expressing extreme emotion or pain.",
     "chinese": "尖叫",
     "sentence": "Whenever arrogant Brandon loudly brags about his minor accomplishments, it absolutely __________ deep insecurity to absolutely everyone around him.",
-    "translation": "每當傲慢的布蘭登大聲吹噓他微小的成就時，它絕對向周圍的每個人**尖叫（表現出）**深深的不安全感。",
+    "translation": "每當傲慢的布蘭登大聲吹噓他微小的成就時，它絕對向周圍的每個人尖叫（表現出）深深的不安全感。",
     "lookup": {
      "english": "to give a long, loud, piercing cry or cries expressing extreme emotion or pain.",
      "chinese": "尖叫"
@@ -2118,7 +2118,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To open a computer file, use a system, or enter a specific place.",
     "chinese": "存取（電腦檔案）、進入、讀取",
     "sentence": "Users can __________ their online banking accounts securely from anywhere in the world using the mobile app.",
-    "translation": "使用者可以使用這款手機應用程式，從世界任何地方安全地**存取（讀取）**他們的網路銀行帳戶。",
+    "translation": "使用者可以使用這款手機應用程式，從世界任何地方安全地存取（讀取）他們的網路銀行帳戶。",
     "lookup": {
      "english": "To open a computer file, use a system, or enter a specific place.",
      "chinese": "存取（電腦檔案）、進入、讀取"
@@ -2157,7 +2157,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To give official permission for something to happen or for someone to do something.",
     "chinese": "授權、批准、准許",
     "sentence": "The manager refused to __________ the extra budget because the marketing team did not provide a detailed report.",
-    "translation": "經理拒絕**批准（授權）**這筆額外預算，因為行銷團隊沒有提供詳細的報告。",
+    "translation": "經理拒絕批准（授權）這筆額外預算，因為行銷團隊沒有提供詳細的報告。",
     "lookup": {
      "english": "To give official permission for something to happen or for someone to do something.",
      "chinese": "授權、批准、准許"
@@ -2183,7 +2183,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Without official or legal permission or approval.",
     "chinese": "未經授權的、未經許可的",
     "sentence": "The security system automatically blocks any __________ attempts to log into the company's internal network.",
-    "translation": "安全系統會自動阻斷任何**未經授權的（未經許可的）**登入公司內部網路之企圖。",
+    "translation": "安全系統會自動阻斷任何未經授權的（未經許可的）登入公司內部網路之企圖。",
     "lookup": {
      "english": "Without official or legal permission or approval.",
      "chinese": "未經授權的、未經許可的"
@@ -2196,7 +2196,7 @@ window.FLASHCARD_UNITS = {
     "definition": "The official power to make decisions, give orders, or enforce laws.",
     "chinese": "權力、職權、當局",
     "sentence": "The police officer has the legal __________ to stop drivers and check their licenses for safety reasons.",
-    "translation": "出於安全考量，警察擁有合法的**權力（職權）**來攔下駕駛人並檢查其駕照。",
+    "translation": "出於安全考量，警察擁有合法的權力（職權）來攔下駕駛人並檢查其駕照。",
     "lookup": {
      "english": "The official power to make decisions, give orders, or enforce laws.",
      "chinese": "權力、職權、當局"
@@ -2287,7 +2287,7 @@ window.FLASHCARD_UNITS = {
     "definition": "A likelihood to happen or a way of behaving that is common.",
     "chinese": "傾向、趨勢",
     "sentence": "There is a growing __________ among young professionals to prioritize remote work options over higher salaries.",
-    "translation": "在年輕的專業人士中，將遠距工作選項看得比高薪更重要的**趨勢（傾向）**正日益增長。",
+    "translation": "在年輕的專業人士中，將遠距工作選項看得比高薪更重要的趨勢（傾向）正日益增長。",
     "lookup": {
      "english": "A likelihood to happen or a way of behaving that is common.",
      "chinese": "傾向、趨勢"
@@ -2295,7 +2295,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "have the tendency to v",
-    "answer": "have the tendency to",
+    "answer": "has the tendency to",
     "pos": "phr.",
     "definition": "To often behave in a particular way or regularly do something.",
     "chinese": "有…的傾向、往往會…",
@@ -2326,7 +2326,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Likely to suffer from, do, or experience something negative or unpleasant.",
     "chinese": "易於…的、往往會…（通常指負面事物）",
     "sentence": "This old smartphone model __________ crashing when you try to run multiple advanced applications at the same time.",
-    "translation": "當你試圖同時執行多個高階應用程式時，這款舊手機機型**易於（往往會）**當機。",
+    "translation": "當你試圖同時執行多個高階應用程式時，這款舊手機機型易於（往往會）當機。",
     "lookup": {
      "english": "Likely to suffer from, do, or experience something negative or unpleasant.",
      "chinese": "易於…的、往往會…（通常指負面事物）"
@@ -2339,7 +2339,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Feeling willing or likely to do something or think in a particular way.",
     "chinese": "傾向於…、想要…、頗有…的意願",
     "sentence": "After reviewing the candidate's impressive prior work experience, the hiring manager __________ offer the position to Leo.",
-    "translation": "在審查了應徵者令人印象深刻的過往工作經驗後，招聘經理**傾向於（想要）**把這個職位給里歐。",
+    "translation": "在審查了應徵者令人印象深刻的過往工作經驗後，招聘經理傾向於（想要）把這個職位給里歐。",
     "lookup": {
      "english": "Feeling willing or likely to do something or think in a particular way.",
      "chinese": "傾向於…、想要…、頗有…的意願"
@@ -2365,7 +2365,7 @@ window.FLASHCARD_UNITS = {
     "definition": "People of the highest social class who hold special titles, such as dukes or earls.",
     "chinese": "貴族（階層）",
     "sentence": "In medieval Europe, the __________ owned most of the land and held great political power over the common people.",
-    "translation": "在中世紀的歐洲，**貴族（階層）**擁有大部分的土地，並對平民擁有巨大的政治權力。",
+    "translation": "在中世紀的歐洲，貴族（階層）擁有大部分的土地，並對平民擁有巨大的政治權力。",
     "lookup": {
      "english": "People of the highest social class who hold special titles, such as dukes or earls.",
      "chinese": "貴族（階層）"
@@ -2378,7 +2378,7 @@ window.FLASHCARD_UNITS = {
     "definition": "The family of the king or queen of a country.",
     "chinese": "王室、皇室",
     "sentence": "Millions of people watched the live television broadcast of the young prince's wedding to see __________.",
-    "translation": "數百萬人觀看了年輕王子婚禮的電視直播，一睹**王室（皇室）**風采。",
+    "translation": "數百萬人觀看了年輕王子婚禮的電視直播，一睹王室（皇室）風采。",
     "lookup": {
      "english": "The family of the king or queen of a country.",
      "chinese": "王室、皇室"
@@ -2404,7 +2404,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Firm and constant in one's support for a person, country, or belief.",
     "chinese": "忠誠的、忠心的",
     "sentence": "Leo has been a __________ customer at this coffee shop for five years, visiting every single morning before work.",
-    "translation": "里歐五年來一直是這家咖啡廳的**忠實（忠誠）**顧客，每天早上上班前都會光顧。",
+    "translation": "里歐五年來一直是這家咖啡廳的忠實（忠誠）顧客，每天早上上班前都會光顧。",
     "lookup": {
      "english": "Firm and constant in one's support for a person, country, or belief.",
      "chinese": "忠誠的、忠心的"
@@ -2547,7 +2547,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Unfairly preferring one person, group, or opinion over another.",
     "chinese": "有偏見的、偏袒的",
     "sentence": "The referee's __________ decisions during the championship game sparked an angry protest from the losing team.",
-    "translation": "裁判在冠軍賽中**有偏見的（偏袒的）**判決，引發了輸球隊伍的憤怒抗議。",
+    "translation": "裁判在冠軍賽中有偏見的（偏袒的）判決，引發了輸球隊伍的憤怒抗議。",
     "lookup": {
      "english": "Unfairly preferring one person, group, or opinion over another.",
      "chinese": "有偏見的、偏袒的"
@@ -2612,11 +2612,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "secure"
+      "text": "secures"
      },
      {
       "letter": "B",
-      "text": "collapse"
+      "text": "collapsed"
      },
      {
       "letter": "C",
@@ -2693,7 +2693,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "scream"
+      "text": "screams"
      }
     ],
     "answer": "A",
@@ -2704,7 +2704,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "a building collapsesed"
+      "text": "a building collapsed"
      },
      {
       "letter": "B",
@@ -2727,7 +2727,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "a building collapsesed"
+      "text": "a building collapsed"
      },
      {
       "letter": "B",
@@ -2754,7 +2754,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "collapsesed"
+      "text": "collapsed"
      },
      {
       "letter": "C",
@@ -2773,11 +2773,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "intend"
+      "text": "authorize"
      },
      {
       "letter": "B",
-      "text": "interpret"
+      "text": "accept"
      },
      {
       "letter": "C",
@@ -2785,7 +2785,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "publish"
+      "text": "mocked"
      }
     ],
     "answer": "C",
@@ -2827,7 +2827,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "come to my rescue"
+      "text": "came to my rescue"
      },
      {
       "letter": "D",
@@ -2980,7 +2980,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "except"
+      "text": "except for"
      },
      {
       "letter": "B",
@@ -3038,7 +3038,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "except"
+      "text": "except for"
      }
     ],
     "answer": "C",
@@ -3233,7 +3233,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "discriminate"
+      "text": "intend"
      },
      {
       "letter": "B",
@@ -3241,11 +3241,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "secure"
+      "text": "unwrap"
      },
      {
       "letter": "D",
-      "text": "publish"
+      "text": "mocked"
      }
     ],
     "answer": "B",
@@ -3260,7 +3260,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "except"
+      "text": "except for"
      },
      {
       "letter": "C",
@@ -3279,7 +3279,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "publication"
+      "text": "publications"
      },
      {
       "letter": "B",
@@ -3352,15 +3352,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "interpret"
+      "text": "accept"
      },
      {
       "letter": "C",
-      "text": "permit"
+      "text": "screams"
      },
      {
       "letter": "D",
-      "text": "defend"
+      "text": "offend"
      }
     ],
     "answer": "A",
@@ -3371,19 +3371,19 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "intend"
+      "text": "authorize"
      },
      {
       "letter": "B",
-      "text": "secure"
+      "text": "secures"
      },
      {
       "letter": "C",
-      "text": "interpret"
+      "text": "accept"
      },
      {
       "letter": "D",
-      "text": "authorize"
+      "text": "access"
      }
     ],
     "answer": "B",
@@ -3498,7 +3498,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "publication"
+      "text": "publications"
      }
     ],
     "answer": "C",
@@ -3532,7 +3532,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "mock"
+      "text": "defend"
      },
      {
       "letter": "B",
@@ -3540,11 +3540,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "collapse"
+      "text": "collapsed"
      },
      {
       "letter": "D",
-      "text": "secure"
+      "text": "unwrap"
      }
     ],
     "answer": "B",
@@ -3578,11 +3578,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "accept"
+      "text": "rescued"
      },
      {
       "letter": "B",
-      "text": "collapse"
+      "text": "collapsed"
      },
      {
       "letter": "C",
@@ -3590,7 +3590,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "defend"
+      "text": "offend"
      }
     ],
     "answer": "C",
@@ -3628,7 +3628,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "collapsesed"
+      "text": "collapsed"
      },
      {
       "letter": "C",
@@ -3697,7 +3697,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "in my opinion"
+      "text": "In my opinion"
      },
      {
       "letter": "C",
@@ -3720,7 +3720,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "break loose"
+      "text": "broken loose"
      },
      {
       "letter": "C",
@@ -3831,19 +3831,19 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "spill"
+      "text": "spilled"
      },
      {
       "letter": "B",
-      "text": "inhabit"
+      "text": "collapse"
      },
      {
       "letter": "C",
-      "text": "transport"
+      "text": "secures"
      },
      {
       "letter": "D",
-      "text": "access"
+      "text": "permit"
      }
     ],
     "answer": "A",
@@ -3877,11 +3877,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "break loose"
+      "text": "broken loose"
      },
      {
       "letter": "B",
-      "text": "except"
+      "text": "except for"
      },
      {
       "letter": "C",
@@ -3973,7 +3973,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "collapsesed"
+      "text": "collapsed"
      },
      {
       "letter": "C",
@@ -4107,19 +4107,19 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "rescue"
+      "text": "rescued"
      },
      {
       "letter": "B",
-      "text": "spill"
+      "text": "lose"
      },
      {
       "letter": "C",
-      "text": "permit"
+      "text": "screams"
      },
      {
       "letter": "D",
-      "text": "inhabit"
+      "text": "collapse"
      }
     ],
     "answer": "A",
@@ -4134,11 +4134,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "a building collapsesed"
+      "text": "a building collapsed"
      },
      {
       "letter": "C",
-      "text": "come to my rescue"
+      "text": "came to my rescue"
      },
      {
       "letter": "D",
@@ -4176,11 +4176,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "a building collapsesed"
+      "text": "a building collapsed"
      },
      {
       "letter": "B",
-      "text": "the majority of"
+      "text": "The majority of"
      },
      {
       "letter": "C",
@@ -4230,7 +4230,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "in my opinion"
+      "text": "In my opinion"
      },
      {
       "letter": "D",
@@ -4322,7 +4322,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "break loose"
+      "text": "broken loose"
      },
      {
       "letter": "D",
@@ -4418,7 +4418,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "have the tendency to"
+      "text": "has the tendency to"
      }
     ],
     "answer": "B",
@@ -4479,7 +4479,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "have the tendency to"
+      "text": "has the tendency to"
      },
      {
       "letter": "C",
@@ -4590,7 +4590,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "permit"
+      "text": "screams"
      },
      {
       "letter": "B",
@@ -4598,7 +4598,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "interpret"
+      "text": "rescued"
      },
      {
       "letter": "D",
@@ -4617,7 +4617,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "publication"
+      "text": "publications"
      },
      {
       "letter": "C",
@@ -4820,7 +4820,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "unwrap"
+      "text": "equip"
      },
      {
       "letter": "B",
@@ -4828,11 +4828,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "rescue"
+      "text": "spilled"
      },
      {
       "letter": "D",
-      "text": "accept"
+      "text": "rescued"
      }
     ],
     "answer": "B",
@@ -4843,11 +4843,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "rescue"
+      "text": "spilled"
      },
      {
       "letter": "B",
-      "text": "transport"
+      "text": "secures"
      },
      {
       "letter": "C",
@@ -4855,7 +4855,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "defend"
+      "text": "offend"
      }
     ],
     "answer": "C",
@@ -4920,7 +4920,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "publication"
+      "text": "publications"
      },
      {
       "letter": "D",
@@ -4981,15 +4981,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "scream"
+      "text": "publish"
      },
      {
       "letter": "B",
-      "text": "secure"
+      "text": "unwrap"
      },
      {
       "letter": "C",
-      "text": "inhabit"
+      "text": "collapse"
      },
      {
       "letter": "D",
@@ -5027,11 +5027,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "unwrap"
+      "text": "equip"
      },
      {
       "letter": "B",
-      "text": "collapse"
+      "text": "collapsed"
      },
      {
       "letter": "C",
@@ -5261,7 +5261,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "the majority of"
+      "text": "The majority of"
      },
      {
       "letter": "C",
@@ -5380,7 +5380,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "collapsesed"
+      "text": "collapsed"
      },
      {
       "letter": "D",
@@ -5426,7 +5426,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "as far as I am concerned"
+      "text": "As far as I am concerned"
      },
      {
       "letter": "D",
@@ -5453,7 +5453,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "in my opinion"
+      "text": "In my opinion"
      }
     ],
     "answer": "D",
@@ -5487,19 +5487,19 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "secure"
+      "text": "unwrap"
      },
      {
       "letter": "B",
-      "text": "defend"
+      "text": "offend"
      },
      {
       "letter": "C",
-      "text": "inhabit"
+      "text": "collapse"
      },
      {
       "letter": "D",
-      "text": "mock"
+      "text": "mocked"
      }
     ],
     "answer": "D",
@@ -5568,7 +5568,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "come to my rescue"
+      "text": "came to my rescue"
      }
     ],
     "answer": "C",
@@ -5625,15 +5625,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "transport"
+      "text": "secures"
      },
      {
       "letter": "B",
-      "text": "accept"
+      "text": "rescued"
      },
      {
       "letter": "C",
-      "text": "spill"
+      "text": "lose"
      },
      {
       "letter": "D",
@@ -5748,7 +5748,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "publication"
+      "text": "publications"
      },
      {
       "letter": "D",
@@ -5786,7 +5786,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "generation"
+      "text": "generations"
      },
      {
       "letter": "B",
@@ -5909,7 +5909,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "in my opinion"
+      "text": "In my opinion"
      },
      {
       "letter": "D",
@@ -5928,7 +5928,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "come to my rescue"
+      "text": "came to my rescue"
      },
      {
       "letter": "C",
@@ -5974,7 +5974,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "the majority of"
+      "text": "The majority of"
      },
      {
       "letter": "C",
@@ -5997,7 +5997,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "in my opinion"
+      "text": "In my opinion"
      },
      {
       "letter": "C",
@@ -6043,7 +6043,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "the majority of"
+      "text": "The majority of"
      },
      {
       "letter": "C",
@@ -6143,7 +6143,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "collapsesed"
+      "text": "collapsed"
      }
     ],
     "answer": "C",
@@ -6200,19 +6200,19 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "scream"
+      "text": "screams"
      },
      {
       "letter": "B",
-      "text": "discriminate"
+      "text": "intend"
      },
      {
       "letter": "C",
-      "text": "publish"
+      "text": "mocked"
      },
      {
       "letter": "D",
-      "text": "access"
+      "text": "permit"
      }
     ],
     "answer": "A",
@@ -6223,15 +6223,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "rescue"
+      "text": "spilled"
      },
      {
       "letter": "B",
-      "text": "accept"
+      "text": "rescued"
      },
      {
       "letter": "C",
-      "text": "secure"
+      "text": "unwrap"
      },
      {
       "letter": "D",
@@ -6338,22 +6338,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "inhabit"
+      "text": "collapse"
      },
      {
       "letter": "B",
-      "text": "accept"
-     },
-     {
-      "letter": "C",
       "text": "access"
      },
      {
+      "letter": "C",
+      "text": "intend"
+     },
+     {
       "letter": "D",
-      "text": "lose"
+      "text": "rescued"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 162
    },
    {
@@ -6361,22 +6361,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "tendency"
+      "text": "carrier"
      },
      {
       "letter": "B",
-      "text": "access"
+      "text": "tendency"
      },
      {
       "letter": "C",
-      "text": "aspect"
+      "text": "access"
      },
      {
       "letter": "D",
-      "text": "royalty"
+      "text": "aspect"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 163
    },
    {
@@ -6388,15 +6388,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "as far as I am concerned"
+      "text": "wrap up"
      },
      {
       "letter": "C",
-      "text": "political figure"
+      "text": "As far as I am concerned"
      },
      {
       "letter": "D",
-      "text": "prior knowledge"
+      "text": "political figure"
      }
     ],
     "answer": "A",
@@ -6407,15 +6407,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "accept"
+      "text": "rescued"
      },
      {
       "letter": "B",
-      "text": "mock"
+      "text": "defend"
      },
      {
       "letter": "C",
-      "text": "publish"
+      "text": "mocked"
      },
      {
       "letter": "D",
@@ -6499,15 +6499,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "rescue"
+      "text": "spilled"
      },
      {
       "letter": "B",
-      "text": "publish"
+      "text": "mocked"
      },
      {
       "letter": "C",
-      "text": "scream"
+      "text": "publish"
      },
      {
       "letter": "D",
@@ -6626,7 +6626,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "as far as I am concerned"
+      "text": "As far as I am concerned"
      }
     ],
     "answer": "C",
@@ -6660,7 +6660,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "have the tendency to"
+      "text": "has the tendency to"
      },
      {
       "letter": "B",
@@ -6672,7 +6672,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "the majority of"
+      "text": "The majority of"
      }
     ],
     "answer": "A",
@@ -6691,7 +6691,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "break loose"
+      "text": "broken loose"
      },
      {
       "letter": "D",
@@ -6710,7 +6710,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "a building collapsesed"
+      "text": "a building collapsed"
      },
      {
       "letter": "C",
@@ -6737,7 +6737,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "have the tendency to"
+      "text": "has the tendency to"
      },
      {
       "letter": "D",
@@ -6810,7 +6810,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "come to my rescue"
+      "text": "came to my rescue"
      }
     ],
     "answer": "C",
@@ -6894,15 +6894,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "accept"
+      "text": "rescued"
      },
      {
       "letter": "C",
-      "text": "offend"
+      "text": "interpret"
      },
      {
       "letter": "D",
-      "text": "defend"
+      "text": "offend"
      }
     ],
     "answer": "A",
@@ -6913,7 +6913,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "have the tendency to"
+      "text": "has the tendency to"
      },
      {
       "letter": "B",
@@ -6921,7 +6921,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "except"
+      "text": "except for"
      },
      {
       "letter": "D",
@@ -6940,7 +6940,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "publication"
+      "text": "publications"
      },
      {
       "letter": "C",
@@ -7210,4 +7210,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"collapse":["to fall down or give way suddenly.","倒塌；崩潰"],"collapsesed":["A person suddenly falling down and often becoming unconscious because they are very sick, exhausted, or weak.","（人）暈倒、不支倒地"],"inhabit":["to live in or occupy a place or environment.","居住於"],"habitat":["the natural home or environment of an animal, plant, or other organism.","棲息地"],"habitant":["A person or animal that lives in a particular place; a resident or inhabitant.","居民、居住者"],"habitable":["Suitable, safe, or good enough for people or animals to live in.","適合居住的、可居住的"],"inhabitable":["Suitable for living in. (Note: This means the same as \"habitable,\" NOT the opposite).","適合居住的、可居住的（**注意：**字根來自 inhabit，意思與 habitable 相同，並非相反詞）"],"singular":["exceptionally good or great; remarkable.","非凡的；單一的"],"plural":["Relating to a word form that refers to more than one person, thing, or concept.","複數的、複數形"],"except":["Not including someone or something.","除了…之外（不包含）"],"exception":["A person or thing that is not included in a general statement or does not follow a rule.","例外"],"exceptional":["unusually good; outstanding.","卓越的；例外的"],"imaginative":["having or showing creativity or inventiveness.","富有想像力的"],"imagination":["the faculty or action of forming new ideas, or images or concepts of external objects not present to the senses.","想像力"],"imaginable":["possible to be conceived or imagined.","可想像得到的"],"imaginary":["existing only in the imagination.","虛構的；想像中的"],"mechanical":["working or produced by machines or machinery.","機械的"],"mechanism":["a system of parts working together in a machine.","機械裝置；機制"],"mechanic":["a person who repairs and maintains machinery.","技工"],"equip":["to supply with the necessary items for a particular purpose.","裝備；配備"],"equipment":["the necessary items for a particular purpose.","設備；器材"],"wrapping":["paper or soft material used to cover or enclose something.","包裝紙"],"unwrap":["to remove the wrapping from something.","拆開"],"secure":["to protect against threats; make safe.","使安全；獲得"],"securely":["in a fixed or stable manner.","安全地；牢固地"],"security":["the state of being free from danger or threat.","安全（保障）；保全"],"safe":["Not in danger or likely to be harmed, hurt, or damaged.","安全的、平安的、無危險的"],"safety":["The state of being safe and protected from danger, harm, or injury.","安全、安全性"],"safely":["In a safe way; without being hurt, damaged, or lost.","安全地、平安地"],"transport":["to take or carry people or goods from one place to another.","運輸"],"transportation":["the action of transporting someone or something or the process of being transported.","交通工具；運輸"],"lose":["To no longer have something because you do not know where it is, or to fail to win.","遺失、失去、輸掉"],"lost":["Unable to be found, or not knowing where you are and how to get to your destination.","遺失的、迷路的"],"loose":["not firmly or tightly fixed in place; detached or able to be detached.","鬆的；寬鬆的"],"portion":["a part of a whole; an amount, section, or piece of something.","部分；一份"],"proportion":["a part, share, or number considered in comparative relation to a whole.","比例"],"proportionate":["Increasing or decreasing in size, amount, or degree according to something else; proportional.","成比例的、相稱的"],"disproportionate":["Too large or too small in comparison with something else.","不成比例的、不相稱的"],"spill":["to cause or allow liquid to flow over the edge of its container.","灑出"],"spilled":["(Of a liquid) accidentally poured or flowed out from a container onto a surface.","潑灑出來的、流出的"],"dependable":["trustworthy and reliable.","可靠的"],"reliable":["Able to be trusted to do what is expected or to work properly without failing.","可靠的、可信賴的"],"carrier":["a person or thing that carries, holds, or conveys something.","運送者；航空公司"],"accurately":["in a way that is correct in all details; exactly.","準確地"],"accuracy":["the quality or state of being correct or precise.","準確性"],"rescue":["to save from a dangerous or distressing situation.","救援"],"artificial":["made or produced by human beings rather than occurring naturally.","人造的"],"chemical":["Relating to chemistry, or resulting from the interaction of substances.","化學的"],"natural":["Existing in or caused by nature; not made, artificial, or caused by humankind.","天然的、大自然的"],"replacement":["the action or process of replacing someone or something.","替代品；替換"],"substitutes":["A person or thing that is used or takes the place of another.","替代品、代替者"],"substitute":["A person or thing that is used or takes the place of another.","替代品、代替者"],"morally":["with reference to the principles of right and wrong behavior.","道德上"],"morality":["principles concerning the distinction between right and wrong or good and bad behavior.","道德"],"immoral":["Morally wrong; not conforming to accepted standards of right behavior.","不道德的"],"mortal":["Unable to live forever; human and bound to die eventually; or causing death.","凡人的、不能永生的、致命的；凡人"],"immortal":["Living forever; never dying or decaying; famous for all time.","長生不老的、永生的、不朽的"],"mortality":["The state of being subject to death, or the condition of being human and unable to live forever.","生命的有限性、必死性、死亡率"],"accept":["To agree to take something that is offered, or to say yes to an invitation, offer, or idea.","接受、答應、認可"],"acceptance":["The act of accepting something, or the state of being approved, welcomed, or received into a group.","接受、贊同、認可/接納"],"acceptable":["able to be agreed on; suitable.","可接受的"],"unacceptable":["not satisfactory or allowable.","不可接受的"],"inclusive":["Including many different types of people and treating them all fairly and equally.","具包容性的、包羅萬象的"],"inclusion":["The act of including someone or something in a group, list, system, or activity.","納入、包含、包容"],"exclusive":["Limited to only one specific person, group, or area; not shared with others; or high-priced.","獨有的、專屬的、排他的"],"interpretation":["the action of explaining the meaning of something.","解釋；詮釋"],"interpreter":["a person who interprets, especially one who translates speech orally.","口譯員"],"interpret":["To change spoken words from one language into another as someone is speaking.","口譯"],"translation":["The process of changing text or speech into another language, or the translated version of a text.","翻譯、譯文、譯本"],"offense":["annoyance or resentment brought about by a perceived insult to or disregard for oneself.","冒犯；罪過"],"offensive":["causing someone to feel deeply hurt, upset, or angry.","冒犯的"],"offend":["To make someone feel upset, angry, or insulted by doing or saying something rude.","冒犯、得罪"],"defend":["To protect someone or something from physical attack, harm, danger, or strong criticism.","防禦、保衛、為…辯護"],"defense":["The act of protecting someone or something from attack, or the system used to protect.","防禦、防衛、防守"],"defensive":["Used or intended to protect against attack; or behaving in a way that shows you feel criticized or protective.","防衛的、防守的、有戒心的"],"coarse":["rough or loose in texture or grain; rude or vulgar.","粗糙的；粗俗的"],"coarsely":["in a rough or harsh manner.","粗糙地"],"political":["relating to the government or the public affairs of a country.","政治的"],"politician":["a person who is professionally involved in politics.","政治人物"],"politics":["The activities, actions, and policies used to gain and hold power in a government or to influence a country.","政治、政治學"],"physically-challenged-physically-challenged":["Having a physical condition that makes it difficult to move or do everyday activities easily.","肢體障礙的、身體有障礙的"],"physically-challenged":["Having a physical condition that makes it difficult to move or do everyday activities easily.","肢體障礙的、身體有障礙的"],"disabled":["Having a physical or mental condition that limits a person's movements, senses, or activities.","有身心障礙的、殘疾的"],"handicapped":["having a physical or mental disability.","有生理缺陷的；殘疾的"],"aspect":["a particular part or feature of something.","方面"],"perspective":["A particular way of thinking about or considering something; a viewpoint or angle.","觀點、看法、視角"],"nasty":["highly unpleasant, especially to the senses; physically repugnant.","令人作嘔的；惡劣的"],"mock":["to tease or laugh at in a scornful or contemptuous manner.","嘲笑"],"mockery":["teasing and contemptuous language or behavior directed at a particular person or thing.","嘲笑"],"racial":["of or relating to race.","種族的"],"insult":["a disrespectful or scornfully abusive remark or action.","侮辱"],"insulting":["Rude, offensive, or disrespectful, and likely to deeply upset or anger someone.","侮辱的、無禮的、冒犯的"],"publish":["To prepare, print, and distribute a book, magazine, article, or song so that the public can buy or read it.","出版、發行、刊登"],"publisher":["A person or a company that prepares, prints, and sells books, magazines, or newspapers.","出版商、出版社、發行商"],"chairman":["a person chosen to preside over a meeting.","主席；董事長"],"genderless":["lacking a specified gender; suitable for any gender.","無性別的"],"publication":["the preparation and issuing of a book, journal, piece of music, or other work for public sale.","出版物；發行"],"feminine":["having qualities or an appearance traditionally associated with women.","女性化的"],"generation":["all of the people born and living at about the same time, regarded collectively.","世代"],"prior":["existing or coming before in time, order, or importance.","先前的"],"majority":["the greater number.","多數"],"major":["Important, serious, or significant; greater in size, extent, or importance.","主要的、重大的、重要的"],"minor":["Small, unimportant, or not serious when compared with other things of the same kind.","次要的、輕微的、不重要的"],"minority":["A smaller part of a group; less than half of the total number of people or things.","少數、少數派"],"commonplace":["not unusual; ordinary.","司空見慣的；普通的"],"elsewhere":["in, at, or to some other place or other places.","在別處"],"scream":["to give a long, loud, piercing cry or cries expressing extreme emotion or pain.","尖叫"],"permit":["To allow something to happen or to give official permission for something.","允許、准許"],"permission":["The act of allowing someone to do something, or official approval.","允許、許可、同意"],"permissible":["permitted; allowed.","允許的"],"access":["To open a computer file, use a system, or enter a specific place.","存取（電腦檔案）、進入、讀取"],"authorize":["To give official permission for something to happen or for someone to do something.","授權、批准、准許"],"authorized":["Having official permission or approval to do something or enter a place.","經授權的、經批准的"],"unauthorized":["Without official or legal permission or approval.","未經授權的、未經許可的"],"authority":["The official power to make decisions, give orders, or enforce laws.","權力、職權、當局"],"intend":["To have a plan or purpose in mind when doing something.","想要、打算、意圖"],"intention":["a thing intended; an aim or plan.","意圖"],"intentional":["Done on purpose; deliberate and not accidental.","故意的、刻意的"],"unintentional":["Not done on purpose; accidental or mistake-driven.","無意的、非故意的、不小心的"],"tendency":["A likelihood to happen or a way of behaving that is common.","傾向、趨勢"],"noble":["having or showing fine personal qualities or high moral principles and ideals.","高尚的；貴族的"],"nobility":["People of the highest social class who hold special titles, such as dukes or earls.","貴族（階層）"],"royalty":["One or more members of a royal family, or royal status.","皇室成員、王室身份"],"loyal":["Firm and constant in one's support for a person, country, or belief.","忠誠的、忠心的"],"discriminate":["to make an unjust or prejudicial distinction in the treatment of different categories of people or things.","歧視；區分"],"discrimination":["The unfair treatment of different categories of people, especially on the grounds of race, age, or sex.","歧視"],"prejudice":["An unfair and unreasonable opinion or feeling formed without enough thought or knowledge.","偏見"],"stereotype":["A fixed, oversimplified, and often unfair belief about a particular type of person or thing.","刻板印象"],"bias":["A strong feeling in favor of or against one group of people or one side in an argument, often unfair.","偏見、偏心、成見"],"biased":["Unfairly preferring one person, group, or opinion over another.","有偏見的、偏袒的"],"unbiased":["Able to judge fairly because you are not influenced by personal opinions or local interests.","無偏見的、公正的"],"impartial":["Not supporting one person or group more than another; completely fair and neutral.","公平的、無私的、中立的"],"just":["Fair, right, and reasonable according to moral principles or the law.","公正的、正義的、合理的"],"justice":["Fairness in the way people are treated, or the legal system that ensures fairness.","正義、公正、公道"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"collapsed":["to fall down or give way suddenly.","倒塌；崩潰"],"collapse":["to fall down or give way suddenly.","倒塌；崩潰"],"inhabit":["to live in or occupy a place or environment.","居住於"],"habitat":["the natural home or environment of an animal, plant, or other organism.","棲息地"],"habitant":["A person or animal that lives in a particular place; a resident or inhabitant.","居民、居住者"],"habitable":["Suitable, safe, or good enough for people or animals to live in.","適合居住的、可居住的"],"inhabitable":["Suitable for living in. (Note: This means the same as \"habitable,\" NOT the opposite).","適合居住的、可居住的（**注意：**字根來自 inhabit，意思與 habitable 相同，並非相反詞）"],"singular":["exceptionally good or great; remarkable.","非凡的；單一的"],"plural":["Relating to a word form that refers to more than one person, thing, or concept.","複數的、複數形"],"exception":["A person or thing that is not included in a general statement or does not follow a rule.","例外"],"exceptional":["unusually good; outstanding.","卓越的；例外的"],"imaginative":["having or showing creativity or inventiveness.","富有想像力的"],"imagination":["the faculty or action of forming new ideas, or images or concepts of external objects not present to the senses.","想像力"],"imaginable":["possible to be conceived or imagined.","可想像得到的"],"imaginary":["existing only in the imagination.","虛構的；想像中的"],"mechanical":["working or produced by machines or machinery.","機械的"],"mechanism":["a system of parts working together in a machine.","機械裝置；機制"],"mechanic":["a person who repairs and maintains machinery.","技工"],"equip":["to supply with the necessary items for a particular purpose.","裝備；配備"],"equipment":["the necessary items for a particular purpose.","設備；器材"],"wrapping":["paper or soft material used to cover or enclose something.","包裝紙"],"unwrap":["to remove the wrapping from something.","拆開"],"secure":["to protect against threats; make safe.","使安全；獲得"],"secures":["to protect against threats; make safe.","使安全；獲得"],"securely":["in a fixed or stable manner.","安全地；牢固地"],"security":["the state of being free from danger or threat.","安全（保障）；保全"],"safe":["Not in danger or likely to be harmed, hurt, or damaged.","安全的、平安的、無危險的"],"safety":["The state of being safe and protected from danger, harm, or injury.","安全、安全性"],"safely":["In a safe way; without being hurt, damaged, or lost.","安全地、平安地"],"transport":["to take or carry people or goods from one place to another.","運輸"],"transportation":["the action of transporting someone or something or the process of being transported.","交通工具；運輸"],"lose":["To no longer have something because you do not know where it is, or to fail to win.","遺失、失去、輸掉"],"lost":["Unable to be found, or not knowing where you are and how to get to your destination.","遺失的、迷路的"],"loose":["not firmly or tightly fixed in place; detached or able to be detached.","鬆的；寬鬆的"],"portion":["a part of a whole; an amount, section, or piece of something.","部分；一份"],"proportion":["a part, share, or number considered in comparative relation to a whole.","比例"],"proportionate":["Increasing or decreasing in size, amount, or degree according to something else; proportional.","成比例的、相稱的"],"disproportionate":["Too large or too small in comparison with something else.","不成比例的、不相稱的"],"spilled":["to cause or allow liquid to flow over the edge of its container.","灑出"],"spill":["to cause or allow liquid to flow over the edge of its container.","灑出"],"dependable":["trustworthy and reliable.","可靠的"],"reliable":["Able to be trusted to do what is expected or to work properly without failing.","可靠的、可信賴的"],"carrier":["a person or thing that carries, holds, or conveys something.","運送者；航空公司"],"accurately":["in a way that is correct in all details; exactly.","準確地"],"accuracy":["the quality or state of being correct or precise.","準確性"],"rescue":["to save from a dangerous or distressing situation.","救援"],"rescued":["to save from a dangerous or distressing situation.","救援"],"artificial":["made or produced by human beings rather than occurring naturally.","人造的"],"chemical":["Relating to chemistry, or resulting from the interaction of substances.","化學的"],"natural":["Existing in or caused by nature; not made, artificial, or caused by humankind.","天然的、大自然的"],"replacement":["the action or process of replacing someone or something.","替代品；替換"],"substitute":["A person or thing that is used or takes the place of another.","替代品、代替者"],"substitutes":["A person or thing that is used or takes the place of another.","替代品、代替者"],"morally":["with reference to the principles of right and wrong behavior.","道德上"],"morality":["principles concerning the distinction between right and wrong or good and bad behavior.","道德"],"immoral":["Morally wrong; not conforming to accepted standards of right behavior.","不道德的"],"mortal":["Unable to live forever; human and bound to die eventually; or causing death.","凡人的、不能永生的、致命的；凡人"],"immortal":["Living forever; never dying or decaying; famous for all time.","長生不老的、永生的、不朽的"],"mortality":["The state of being subject to death, or the condition of being human and unable to live forever.","生命的有限性、必死性、死亡率"],"accept":["To agree to take something that is offered, or to say yes to an invitation, offer, or idea.","接受、答應、認可"],"acceptance":["The act of accepting something, or the state of being approved, welcomed, or received into a group.","接受、贊同、認可/接納"],"acceptable":["able to be agreed on; suitable.","可接受的"],"unacceptable":["not satisfactory or allowable.","不可接受的"],"inclusive":["Including many different types of people and treating them all fairly and equally.","具包容性的、包羅萬象的"],"inclusion":["The act of including someone or something in a group, list, system, or activity.","納入、包含、包容"],"exclusive":["Limited to only one specific person, group, or area; not shared with others; or high-priced.","獨有的、專屬的、排他的"],"interpretation":["the action of explaining the meaning of something.","解釋；詮釋"],"interpreter":["a person who interprets, especially one who translates speech orally.","口譯員"],"interpret":["To change spoken words from one language into another as someone is speaking.","口譯"],"translation":["The process of changing text or speech into another language, or the translated version of a text.","翻譯、譯文、譯本"],"offense":["annoyance or resentment brought about by a perceived insult to or disregard for oneself.","冒犯；罪過"],"offensive":["causing someone to feel deeply hurt, upset, or angry.","冒犯的"],"offend":["To make someone feel upset, angry, or insulted by doing or saying something rude.","冒犯、得罪"],"defend":["To protect someone or something from physical attack, harm, danger, or strong criticism.","防禦、保衛、為…辯護"],"defense":["The act of protecting someone or something from attack, or the system used to protect.","防禦、防衛、防守"],"defensive":["Used or intended to protect against attack; or behaving in a way that shows you feel criticized or protective.","防衛的、防守的、有戒心的"],"coarse":["rough or loose in texture or grain; rude or vulgar.","粗糙的；粗俗的"],"coarsely":["in a rough or harsh manner.","粗糙地"],"political":["relating to the government or the public affairs of a country.","政治的"],"politician":["a person who is professionally involved in politics.","政治人物"],"politics":["The activities, actions, and policies used to gain and hold power in a government or to influence a country.","政治、政治學"],"physically-challenged":["Having a physical condition that makes it difficult to move or do everyday activities easily.","肢體障礙的、身體有障礙的"],"physically-challenged-physically-challenged":["Having a physical condition that makes it difficult to move or do everyday activities easily.","肢體障礙的、身體有障礙的"],"disabled":["Having a physical or mental condition that limits a person's movements, senses, or activities.","有身心障礙的、殘疾的"],"handicapped":["having a physical or mental disability.","有生理缺陷的；殘疾的"],"aspect":["a particular part or feature of something.","方面"],"perspective":["A particular way of thinking about or considering something; a viewpoint or angle.","觀點、看法、視角"],"nasty":["highly unpleasant, especially to the senses; physically repugnant.","令人作嘔的；惡劣的"],"mock":["to tease or laugh at in a scornful or contemptuous manner.","嘲笑"],"mocked":["to tease or laugh at in a scornful or contemptuous manner.","嘲笑"],"mockery":["teasing and contemptuous language or behavior directed at a particular person or thing.","嘲笑"],"racial":["of or relating to race.","種族的"],"insult":["a disrespectful or scornfully abusive remark or action.","侮辱"],"insulting":["Rude, offensive, or disrespectful, and likely to deeply upset or anger someone.","侮辱的、無禮的、冒犯的"],"publish":["To prepare, print, and distribute a book, magazine, article, or song so that the public can buy or read it.","出版、發行、刊登"],"publisher":["A person or a company that prepares, prints, and sells books, magazines, or newspapers.","出版商、出版社、發行商"],"chairman":["a person chosen to preside over a meeting.","主席；董事長"],"genderless":["lacking a specified gender; suitable for any gender.","無性別的"],"publications":["the preparation and issuing of a book, journal, piece of music, or other work for public sale.","出版物；發行"],"publication":["the preparation and issuing of a book, journal, piece of music, or other work for public sale.","出版物；發行"],"feminine":["having qualities or an appearance traditionally associated with women.","女性化的"],"generation":["all of the people born and living at about the same time, regarded collectively.","世代"],"generations":["all of the people born and living at about the same time, regarded collectively.","世代"],"prior":["existing or coming before in time, order, or importance.","先前的"],"majority":["the greater number.","多數"],"major":["Important, serious, or significant; greater in size, extent, or importance.","主要的、重大的、重要的"],"minor":["Small, unimportant, or not serious when compared with other things of the same kind.","次要的、輕微的、不重要的"],"minority":["A smaller part of a group; less than half of the total number of people or things.","少數、少數派"],"commonplace":["not unusual; ordinary.","司空見慣的；普通的"],"elsewhere":["in, at, or to some other place or other places.","在別處"],"scream":["to give a long, loud, piercing cry or cries expressing extreme emotion or pain.","尖叫"],"screams":["to give a long, loud, piercing cry or cries expressing extreme emotion or pain.","尖叫"],"permit":["To allow something to happen or to give official permission for something.","允許、准許"],"permission":["The act of allowing someone to do something, or official approval.","允許、許可、同意"],"permissible":["permitted; allowed.","允許的"],"access":["To open a computer file, use a system, or enter a specific place.","存取（電腦檔案）、進入、讀取"],"authorize":["To give official permission for something to happen or for someone to do something.","授權、批准、准許"],"authorized":["Having official permission or approval to do something or enter a place.","經授權的、經批准的"],"unauthorized":["Without official or legal permission or approval.","未經授權的、未經許可的"],"authority":["The official power to make decisions, give orders, or enforce laws.","權力、職權、當局"],"intend":["To have a plan or purpose in mind when doing something.","想要、打算、意圖"],"intention":["a thing intended; an aim or plan.","意圖"],"intentional":["Done on purpose; deliberate and not accidental.","故意的、刻意的"],"unintentional":["Not done on purpose; accidental or mistake-driven.","無意的、非故意的、不小心的"],"tendency":["A likelihood to happen or a way of behaving that is common.","傾向、趨勢"],"noble":["having or showing fine personal qualities or high moral principles and ideals.","高尚的；貴族的"],"nobility":["People of the highest social class who hold special titles, such as dukes or earls.","貴族（階層）"],"royalty":["One or more members of a royal family, or royal status.","皇室成員、王室身份"],"loyal":["Firm and constant in one's support for a person, country, or belief.","忠誠的、忠心的"],"discriminate":["to make an unjust or prejudicial distinction in the treatment of different categories of people or things.","歧視；區分"],"discrimination":["The unfair treatment of different categories of people, especially on the grounds of race, age, or sex.","歧視"],"prejudice":["An unfair and unreasonable opinion or feeling formed without enough thought or knowledge.","偏見"],"stereotype":["A fixed, oversimplified, and often unfair belief about a particular type of person or thing.","刻板印象"],"bias":["A strong feeling in favor of or against one group of people or one side in an argument, often unfair.","偏見、偏心、成見"],"biased":["Unfairly preferring one person, group, or opinion over another.","有偏見的、偏袒的"],"unbiased":["Able to judge fairly because you are not influenced by personal opinions or local interests.","無偏見的、公正的"],"impartial":["Not supporting one person or group more than another; completely fair and neutral.","公平的、無私的、中立的"],"just":["Fair, right, and reasonable according to moral principles or the law.","公正的、正義的、合理的"],"justice":["Fairness in the way people are treated, or the legal system that ensures fairness.","正義、公正、公道"]});

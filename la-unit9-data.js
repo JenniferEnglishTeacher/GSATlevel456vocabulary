@@ -179,7 +179,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the state of being uncared for, or the lack of proper attention",
     "chinese": "疏忽；看管不周",
-    "sentence": "The dog was no longer friendly to visitors because it had suffered years of severe __________。",
+    "sentence": "The dog was no longer friendly to visitors because it had suffered years of severe __________.",
     "translation": "這隻狗對訪客不再友善，因為牠遭受了多年嚴重的看管不周。",
     "lookup": {
      "english": "the state of being uncared for, or the lack of proper attention",
@@ -504,7 +504,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "an action that breaks a law, agreement, or standard principle",
     "chinese": "違反；違規行為",
-    "sentence": "Driving through a red light at a busy intersection is a serious traffic __________。",
+    "sentence": "Driving through a red light at a busy intersection is a serious traffic __________.",
     "translation": "在繁忙的十字路口闖紅燈是一項嚴重的交通違規行為。",
     "lookup": {
      "english": "an action that breaks a law, agreement, or standard principle",
@@ -543,7 +543,7 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "to limit the amount or size of an object as much as possible",
     "chinese": "將...控制在最低限度",
-    "sentence": "Careful planning and wise spending can help you __________。",
+    "sentence": "Careful planning and wise spending can help you __________.",
     "translation": "仔細的規劃與明智的消費可以幫助你將旅遊開銷控制在最低限度。",
     "lookup": {
      "english": "to limit the amount or size of an object as much as possible",
@@ -903,7 +903,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "go down the drain",
-    "answer": "go down the drain",
+    "answer": "down the drain",
     "pos": "phr.",
     "definition": "to be completely wasted, destroyed, or lost without any benefit",
     "chinese": "付諸流水；泡湯",
@@ -1320,7 +1320,7 @@ window.FLASHCARD_UNITS = {
     "vi": 12
    },
    {
-    "question": "The dog was no longer friendly to visitors because it had suffered years of severe __________。",
+    "question": "The dog was no longer friendly to visitors because it had suffered years of severe __________.",
     "options": [
      {
       "letter": "A",
@@ -1543,7 +1543,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "go down the drain"
+      "text": "down the drain"
      }
     ],
     "answer": "A",
@@ -1895,7 +1895,7 @@ window.FLASHCARD_UNITS = {
     "vi": 37
    },
    {
-    "question": "Driving through a red light at a busy intersection is a serious traffic __________。",
+    "question": "Driving through a red light at a busy intersection is a serious traffic __________.",
     "options": [
      {
       "letter": "A",
@@ -1964,7 +1964,7 @@ window.FLASHCARD_UNITS = {
     "vi": 40
    },
    {
-    "question": "Careful planning and wise spending can help you __________。",
+    "question": "Careful planning and wise spending can help you __________.",
     "options": [
      {
       "letter": "A",
@@ -2317,7 +2317,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "go down the drain"
+      "text": "down the drain"
      },
      {
       "letter": "C",
@@ -2524,7 +2524,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "go down the drain"
+      "text": "down the drain"
      },
      {
       "letter": "C",
@@ -2612,7 +2612,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "go down the drain"
+      "text": "down the drain"
      },
      {
       "letter": "B",
@@ -2817,4 +2817,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"conserve":["to protect something from being damaged, lost, wasted, or destroyed","保護；保存；節約"],"conservation":["the protection of natural resources, buildings, or wildlife from destruction","（自然環境）保護；保存"],"conservationist":["a person who works to protect the environment and wildlife","保育人士"],"conservationists":["a person who works to protect the environment and wildlife","保育人士"],"conservative":["opposed to rapid change; traditional or cautious in style or estimate","保守的；傳統的"],"threat":["a statement or sign of an intention to inflict injury, damage, or harm","威脅"],"persist":["to continue firmly in a course of action despite difficulty or opposition","堅持；持續存在"],"persisted":["to continue firmly in a course of action despite difficulty or opposition","堅持；持續存在"],"persistent":["continuing to exist or happen over a prolonged period, refusing to give up","持續的；不屈不撓的"],"persistence":["the quality that allows someone to continue doing something even though it is difficult","堅持不懈；毅力"],"insist":["to demand something forcefully, not accepting refusal or disagreement","堅持要求；硬要"],"insists":["to demand something forcefully, not accepting refusal or disagreement","堅持要求；硬要"],"neglect":["to fail to care for properly, or to give too little attention to something","疏忽；忽略"],"restrict":["to limit the size, amount, or range of something officially","限制；限定"],"restrictions":["a rule or regulation that limits what you can do or what is allowed","限制"],"restriction":["a rule or regulation that limits what you can do or what is allowed","限制"],"restricted":["limited or available only to a number of people with special permission","受限的；機密的"],"restrictive":["preventing freedom of action or limiting choices strictly","限制性的；約束的"],"routine":["a sequence of actions regularly followed; a fixed program","例行公事；常規"],"routinely":["regularly or as part of a typical procedure or habit","通常地；例行地"],"financially":["in a way that relates to money, wealth, or financial matters","財務上；經濟上"],"financial":["relating to money, banking, or the management of funds","財政的；金融的"],"finance":["the management of large amounts of money, especially by governments or companies","金融學；財政"],"campaigned":["to organize a series of operations or events to achieve a specific social goal","辦活動；發起運動"],"campaign":["to organize a series of operations or events to achieve a specific social goal","辦活動；發起運動"],"urging":["to strongly advise or try to persuade someone to do a particular action","敦促；力勸"],"urge":["to strongly advise or try to persuade someone to do a particular action","敦促；力勸"],"framework":["a supporting structure around which something can be built or understood","框架；體制"],"penalty":["a punishment imposed for breaking a law, rule, or contract","懲罰；罰款"],"violated":["to break a law, agreement, or principle, or to disturb someone's privacy","違反；侵犯"],"violate":["to break a law, agreement, or principle, or to disturb someone's privacy","違反；侵犯"],"violation":["an action that breaks a law, agreement, or standard principle","違反；違規行為"],"minimum":["the smallest amount or level of something that is possible or required","最低限度；最少"],"maximum":["the greatest amount or level of something that is possible or allowed","最高限度；最大的"],"minimal":["very small in amount, or the least possible degree","極小的；微小的"],"minimize":["to reduce something undesirable to the smallest possible amount or degree","減到最低；使最小化"],"passage":["the act of a law being officially approved, or a long narrow way through buildings","（法案）通過；通道；段落"],"regulation":["an official rule made by a government or organization to control behavior","規定；法規"],"regulations":["an official rule made by a government or organization to control behavior","規定；法規"],"regulate":["to control an activity or process by using official rules or laws","管制；調節"],"swiftly":["in a very fast or immediate manner, without any delay","迅速地；敏捷地"],"swift":["happening or moving quickly or immediately","迅速的；快捷的"],"agricultural":["relating to farming or the science and practice of growing crops","農業的"],"agriculture":["the science, art, or practice of farming and cultivating the soil","農業"],"demand":["a strong request or need for something, showing that it is wanted","需求；要求"],"demanded":["to request something forcefully, showing that you will not accept a refusal","要求；強索"],"demanding":["needing a lot of time, attention, or energy; strict","耗費精力的；嚴苛的"],"vital":["absolutely necessary or essential for the success or survival of something","維持生命所必需的；極重要的"],"vitality":["energy and enthusiasm; the power to live and grow","活力；生命力"],"excess":["an amount that is more than what is necessary, allowed, or expected","過量；過剩"],"excessive":["much more than is reasonable, proper, or necessary","過度的；極度大驚小怪的"],"drain":["to remove liquid from something, or to empty a container completely","排放；排出；使流乾"],"pollute":["to make air, water, or soil dirty and dangerous by adding harmful substances","污染"],"pollution":["the damage caused to water, air, or soil by harmful substances","污染（不可數名詞）"],"pollutant":["a substance that pollutes something, especially water or the atmosphere","污染物（可數名詞）"],"pollutants":["a substance that pollutes something, especially water or the atmosphere","污染物（可數名詞）"],"manufacture":["to produce goods in large numbers in a factory using automated machinery","（大量）製造"],"manufacturer":["a company or business that produces goods in large numbers using machinery","製造商；廠商"],"manufacturing":["the business or industry of producing goods in large quantities utilizing machinery and factories","製造業；生產"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"conserve":["to protect something from being damaged, lost, wasted, or destroyed","保護；保存；節約"],"conservation":["the protection of natural resources, buildings, or wildlife from destruction","（自然環境）保護；保存"],"conservationist":["a person who works to protect the environment and wildlife","保育人士"],"conservationists":["a person who works to protect the environment and wildlife","保育人士"],"conservative":["opposed to rapid change; traditional or cautious in style or estimate","保守的；傳統的"],"threat":["a statement or sign of an intention to inflict injury, damage, or harm","威脅"],"persist":["to continue firmly in a course of action despite difficulty or opposition","堅持；持續存在"],"persisted":["to continue firmly in a course of action despite difficulty or opposition","堅持；持續存在"],"persistent":["continuing to exist or happen over a prolonged period, refusing to give up","持續的；不屈不撓的"],"persistence":["the quality that allows someone to continue doing something even though it is difficult","堅持不懈；毅力"],"insists":["to demand something forcefully, not accepting refusal or disagreement","堅持要求；硬要"],"insist":["to demand something forcefully, not accepting refusal or disagreement","堅持要求；硬要"],"neglect":["to fail to care for properly, or to give too little attention to something","疏忽；忽略"],"restrict":["to limit the size, amount, or range of something officially","限制；限定"],"restrictions":["a rule or regulation that limits what you can do or what is allowed","限制"],"restriction":["a rule or regulation that limits what you can do or what is allowed","限制"],"restricted":["limited or available only to a number of people with special permission","受限的；機密的"],"restrictive":["preventing freedom of action or limiting choices strictly","限制性的；約束的"],"routine":["a sequence of actions regularly followed; a fixed program","例行公事；常規"],"routinely":["regularly or as part of a typical procedure or habit","通常地；例行地"],"financially":["in a way that relates to money, wealth, or financial matters","財務上；經濟上"],"financial":["relating to money, banking, or the management of funds","財政的；金融的"],"finance":["the management of large amounts of money, especially by governments or companies","金融學；財政"],"campaigned":["to organize a series of operations or events to achieve a specific social goal","辦活動；發起運動"],"campaign":["to organize a series of operations or events to achieve a specific social goal","辦活動；發起運動"],"urge":["to strongly advise or try to persuade someone to do a particular action","敦促；力勸"],"urging":["to strongly advise or try to persuade someone to do a particular action","敦促；力勸"],"framework":["a supporting structure around which something can be built or understood","框架；體制"],"penalty":["a punishment imposed for breaking a law, rule, or contract","懲罰；罰款"],"violate":["to break a law, agreement, or principle, or to disturb someone's privacy","違反；侵犯"],"violated":["to break a law, agreement, or principle, or to disturb someone's privacy","違反；侵犯"],"violation":["an action that breaks a law, agreement, or standard principle","違反；違規行為"],"minimum":["the smallest amount or level of something that is possible or required","最低限度；最少"],"maximum":["the greatest amount or level of something that is possible or allowed","最高限度；最大的"],"minimal":["very small in amount, or the least possible degree","極小的；微小的"],"minimize":["to reduce something undesirable to the smallest possible amount or degree","減到最低；使最小化"],"passage":["the act of a law being officially approved, or a long narrow way through buildings","（法案）通過；通道；段落"],"regulation":["an official rule made by a government or organization to control behavior","規定；法規"],"regulations":["an official rule made by a government or organization to control behavior","規定；法規"],"regulate":["to control an activity or process by using official rules or laws","管制；調節"],"swiftly":["in a very fast or immediate manner, without any delay","迅速地；敏捷地"],"swift":["happening or moving quickly or immediately","迅速的；快捷的"],"agricultural":["relating to farming or the science and practice of growing crops","農業的"],"agriculture":["the science, art, or practice of farming and cultivating the soil","農業"],"demand":["a strong request or need for something, showing that it is wanted","需求；要求"],"demanded":["to request something forcefully, showing that you will not accept a refusal","要求；強索"],"demanding":["needing a lot of time, attention, or energy; strict","耗費精力的；嚴苛的"],"vital":["absolutely necessary or essential for the success or survival of something","維持生命所必需的；極重要的"],"vitality":["energy and enthusiasm; the power to live and grow","活力；生命力"],"excess":["an amount that is more than what is necessary, allowed, or expected","過量；過剩"],"excessive":["much more than is reasonable, proper, or necessary","過度的；極度大驚小怪的"],"drain":["to remove liquid from something, or to empty a container completely","排放；排出；使流乾"],"pollute":["to make air, water, or soil dirty and dangerous by adding harmful substances","污染"],"pollution":["the damage caused to water, air, or soil by harmful substances","污染（不可數名詞）"],"pollutant":["a substance that pollutes something, especially water or the atmosphere","污染物（可數名詞）"],"pollutants":["a substance that pollutes something, especially water or the atmosphere","污染物（可數名詞）"],"manufacture":["to produce goods in large numbers in a factory using automated machinery","（大量）製造"],"manufacturer":["a company or business that produces goods in large numbers using machinery","製造商；廠商"],"manufacturing":["the business or industry of producing goods in large quantities utilizing machinery and factories","製造業；生產"]});

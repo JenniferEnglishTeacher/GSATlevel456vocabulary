@@ -109,8 +109,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "a fire drill fire drill",
-    "answer": "a fire drill fire drill",
+    "word": "a fire drill / fire drill",
+    "answer": "a fire drill",
     "pos": "n.",
     "definition": "a practice period practicing the exact actions to take if a dangerous building catch fire",
     "chinese": "消防演習",
@@ -135,8 +135,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "electric drill power drill",
-    "answer": "electric drill power drill",
+    "word": "electric drill / power drill",
+    "answer": "electric drill",
     "pos": "n.",
     "definition": "a hand-held tool with a rotating cutting tip used for making holes in hard substances",
     "chinese": "電鑽",
@@ -166,7 +166,7 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "relating to the organization of the money, industry, and trade of a country",
     "chinese": "經濟的；經濟學的",
-    "sentence": "The world is going through difficult __________ times right now, which puzzles many financial financial experts.",
+    "sentence": "The world is going through difficult __________ times right now, which puzzles many financial experts.",
     "translation": "全球目前正經歷艱難的經濟時期，這讓許多金融理財專家感到困惑。",
     "lookup": {
      "english": "relating to the organization of the money, industry, and trade of a country",
@@ -305,7 +305,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "initially",
-    "answer": "initially",
+    "answer": "Initially",
     "pos": "adv.",
     "definition": "at the beginning of a situation or process, before changes occur",
     "chinese": "最初；剛開始",
@@ -447,8 +447,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "memory retention memory retention",
-    "answer": "memory retention memory retention",
+    "word": "memory retention",
+    "answer": "memory retention",
     "pos": "n.",
     "definition": "the continuous ability to maintain and recall learned knowledge or data within the mind",
     "chinese": "記憶力；記憶保持（力）",
@@ -682,7 +682,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "lay the foundations for",
-    "answer": "lay the foundations for",
+    "answer": "laid the foundations for",
     "pos": "phr.",
     "definition": "to create a reliable basic structure that allows future developments to succeed",
     "chinese": "為...奠定基礎",
@@ -1013,7 +1013,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "initially"
+      "text": "Initially"
      },
      {
       "letter": "C",
@@ -1067,7 +1067,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "initially"
+      "text": "Initially"
      }
     ],
     "answer": "C",
@@ -1182,7 +1182,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "a fire drill fire drill"
+      "text": "a fire drill"
      }
     ],
     "answer": "D",
@@ -1216,7 +1216,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "electric drill power drill"
+      "text": "electric drill"
      },
      {
       "letter": "B",
@@ -1258,7 +1258,7 @@ window.FLASHCARD_UNITS = {
     "vi": 11
    },
    {
-    "question": "The world is going through difficult __________ times right now, which puzzles many financial financial experts.",
+    "question": "The world is going through difficult __________ times right now, which puzzles many financial experts.",
     "options": [
      {
       "letter": "A",
@@ -1354,7 +1354,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "electric drill power drill"
+      "text": "electric drill"
      },
      {
       "letter": "B",
@@ -1362,7 +1362,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "memory retention memory retention"
+      "text": "memory retention"
      },
      {
       "letter": "D",
@@ -1450,7 +1450,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "lay the foundations for"
+      "text": "laid the foundations for"
      },
      {
       "letter": "C",
@@ -1527,7 +1527,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "initially"
+      "text": "Initially"
      }
     ],
     "answer": "D",
@@ -1550,7 +1550,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "memory retention memory retention"
+      "text": "memory retention"
      }
     ],
     "answer": "A",
@@ -1772,7 +1772,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "memory retention memory retention"
+      "text": "memory retention"
      },
      {
       "letter": "C",
@@ -2067,7 +2067,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "a fire drill fire drill"
+      "text": "a fire drill"
      },
      {
       "letter": "B",
@@ -2186,11 +2186,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "lay the foundations for"
+      "text": "laid the foundations for"
      },
      {
       "letter": "C",
-      "text": "electric drill power drill"
+      "text": "electric drill"
      },
      {
       "letter": "D",
@@ -2274,7 +2274,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "electric drill power drill"
+      "text": "electric drill"
      },
      {
       "letter": "B",
@@ -2447,7 +2447,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "a fire drill fire drill"
+      "text": "a fire drill"
      }
     ],
     "answer": "A",
@@ -2466,11 +2466,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "lay the foundations for"
+      "text": "laid the foundations for"
      },
      {
       "letter": "D",
-      "text": "memory retention memory retention"
+      "text": "memory retention"
      }
     ],
     "answer": "B",
@@ -2485,7 +2485,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "a fire drill fire drill"
+      "text": "a fire drill"
      },
      {
       "letter": "C",
@@ -2585,7 +2585,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "electric drill power drill"
+      "text": "electric drill"
      }
     ],
     "answer": "C",

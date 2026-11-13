@@ -19,7 +19,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "blur",
-    "answer": "blur",
+    "answer": "blurs",
     "pos": "v.",
     "definition": "to make or become unclear or less distinct.",
     "chinese": "使模糊",
@@ -102,7 +102,7 @@ window.FLASHCARD_UNITS = {
     "definition": "to bring together parts or combine to create; the visible shape or configuration of something.",
     "chinese": "形成；形狀",
     "sentence": "The intelligent students decided to officially __________ a dedicated study group to carefully prepare for the difficult final exams.",
-    "translation": "聰明的學生們決定正式**形成（組成）**一個專門的讀書小組，以仔細準備困難的期末考。",
+    "translation": "聰明的學生們決定正式形成（組成）一個專門的讀書小組，以仔細準備困難的期末考。",
     "lookup": {
      "english": "to bring together parts or combine to create; the visible shape or configuration of something.",
      "chinese": "形成；形狀"
@@ -188,7 +188,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "evolve",
-    "answer": "evolve",
+    "answer": "evolved",
     "pos": "v.",
     "definition": "to develop gradually, especially from a simple to a more complex form.",
     "chinese": "演變；進化",
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "revolve",
-    "answer": "revolve",
+    "answer": "revolves",
     "pos": "v.",
     "definition": "to move in a circle on a central axis.",
     "chinese": "旋轉；圍繞",
@@ -284,7 +284,7 @@ window.FLASHCARD_UNITS = {
     "definition": "A complete circular movement made by an object around a central point.",
     "chinese": "環繞、旋轉、公轉",
     "sentence": "It takes about 365 days for the Earth to complete one full __________ around the sun.",
-    "translation": "地球繞太陽完成一次完整的**公轉（環繞）**大約需要 365 天。",
+    "translation": "地球繞太陽完成一次完整的公轉（環繞）大約需要 365 天。",
     "lookup": {
      "english": "A complete circular movement made by an object around a central point.",
      "chinese": "環繞、旋轉、公轉"
@@ -310,7 +310,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Involving or causing a complete and dramatic change in ideas, methods, or systems.",
     "chinese": "革命性的、突破性的、大變革的",
     "sentence": "The research team developed a __________ new medicine that could successfully cure the genetic defect.",
-    "translation": "研究團隊研發出了一種**革命性的（突破性的）**新藥，能夠成功治療該基因缺陷。",
+    "translation": "研究團隊研發出了一種革命性的（突破性的）新藥，能夠成功治療該基因缺陷。",
     "lookup": {
      "english": "Involving or causing a complete and dramatic change in ideas, methods, or systems.",
      "chinese": "革命性的、突破性的、大變革的"
@@ -323,7 +323,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To completely change the way something is done, built, or thought about.",
     "chinese": "徹底改變、改革、帶來革命性變革",
     "sentence": "The invention of smartphones has completely __________ the way modern people communicate and access information on demand.",
-    "translation": "智慧型手機的發明，徹底**改變了（帶來革命性變革）**現代人溝通與隨選獲取資訊的方式。",
+    "translation": "智慧型手機的發明，徹底改變了（帶來革命性變革）現代人溝通與隨選獲取資訊的方式。",
     "lookup": {
      "english": "To completely change the way something is done, built, or thought about.",
      "chinese": "徹底改變、改革、帶來革命性變革"
@@ -396,7 +396,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "span",
-    "answer": "span",
+    "answer": "spanned",
     "pos": "v. / n.",
     "definition": "to extend across in space or time; the full extent of something from end to end.",
     "chinese": "橫跨；跨度",
@@ -448,7 +448,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "apart from",
-    "answer": "apart from",
+    "answer": "Apart from",
     "pos": "phr.",
     "definition": "except for; in addition to.",
     "chinese": "除了...之外",
@@ -513,7 +513,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "facilitate",
-    "answer": "facilitate",
+    "answer": "facilitates",
     "pos": "v.",
     "definition": "to make an action or process easy or easier.",
     "chinese": "促進；使便利",
@@ -647,8 +647,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to confront and deal with or accept a difficult or unpleasant task or situation.",
     "chinese": "面對",
-    "sentence": "The struggling company will inevitably __________ complete financial disaster if it doesn't heavily quickly improve its terrible daily sales.",
-    "translation": "如果這家苦苦掙扎的公司不迅速大幅改善其糟糕的日常銷售，它將無可避免地面對徹底的財務災難。",
+    "sentence": "The struggling company will inevitably __________ complete financial disaster if it doesn't quickly improve its terrible daily sales.",
+    "translation": "如果這家苦苦掙扎的公司不迅速大幅改善其糟糕的日常銷售，它將無可避免地面對的財務災難。",
     "lookup": {
      "english": "to confront and deal with or accept a difficult or unpleasant task or situation.",
      "chinese": "面對"
@@ -738,7 +738,7 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "providing rewarding value or improving the quality of something.",
     "chinese": "使人充實的",
-    "sentence": "Volunteering at the crowded local animal shelter was a deeply __________ experience that taught the teenager absolute absolute responsibility.",
+    "sentence": "Volunteering at the crowded local animal shelter was a deeply __________ experience that taught the teenager absolute responsibility.",
     "translation": "在擁擠的當地動物收容所當志工是一次深深使人充實的經歷，教會了這個青少年絕對的責任感。",
     "lookup": {
      "english": "providing rewarding value or improving the quality of something.",
@@ -856,7 +856,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To be deeply busy, occupied, or involved in a specific activity or situation.",
     "chinese": "正從事於…、忙於…、參與…",
     "sentence": "The research team is currently __________ a long-term scientific study regarding genetic defects.",
-    "translation": "該研究團隊目前**正從事於（忙於）**一項關於基因缺陷的長期科學研究。",
+    "translation": "該研究團隊目前正從事於（忙於）一項關於基因缺陷的長期科學研究。",
     "lookup": {
      "english": "To be deeply busy, occupied, or involved in a specific activity or situation.",
      "chinese": "正從事於…、忙於…、參與…"
@@ -869,7 +869,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To take part in or do a specific activity, discussion, or behavior.",
     "chinese": "參加…、進行…、從事…（活動）",
     "sentence": "Doctors strongly recommend that elderly people __________ light regular exercise to keep their hearts healthy.",
-    "translation": "醫生強烈建議年長者**進行（從事）**規律的輕度運動，以保持心臟健康。",
+    "translation": "醫生強烈建議年長者進行（從事）規律的輕度運動，以保持心臟健康。",
     "lookup": {
      "english": "To take part in or do a specific activity, discussion, or behavior.",
      "chinese": "參加…、進行…、從事…（活動）"
@@ -895,7 +895,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Interesting, charming, and keeping your attention completely.",
     "chinese": "迷人的、有吸引力的、引人入勝的",
     "sentence": "The experienced English teacher designed an __________ web-based game that kept the students motivated to practice spelling.",
-    "translation": "這位經驗豐富的英文老師設計了一款**引人入勝的（有吸引力的）**網頁遊戲，讓學生們保持練習拼字的動力。",
+    "translation": "這位經驗豐富的英文老師設計了一款引人入勝的（有吸引力的）網頁遊戲，讓學生們保持練習拼字的動力。",
     "lookup": {
      "english": "Interesting, charming, and keeping your attention completely.",
      "chinese": "迷人的、有吸引力的、引人入勝的"
@@ -921,7 +921,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To take part in an event, a game, an activity, or an organized group.",
     "chinese": "參加…、參與…",
     "sentence": "Hundreds of international students from Taipei decided to __________ the summer English camp last year.",
-    "translation": "去年，數百名來自台北的國際學生決定**參加（參與）**這場夏季英語營。",
+    "translation": "去年，數百名來自台北的國際學生決定參加（參與）這場夏季英語營。",
     "lookup": {
      "english": "To take part in an event, a game, an activity, or an organized group.",
      "chinese": "參加…、參與…"
@@ -1024,7 +1024,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a person, company, or country that makes, grows, or supplies goods or commodities for sale.",
     "chinese": "生產者；製作人",
-    "sentence": "The highly powerful Hollywood __________ angrily demanded that the nervous director significantly drastically change the boring ending of the movie.",
+    "sentence": "The highly powerful Hollywood __________ angrily demanded that the nervous director drastically change the boring ending of the movie.",
     "translation": "權力極大的好萊塢製作人憤怒地要求緊張的導演大幅改變電影無聊的結局。",
     "lookup": {
      "english": "a person, company, or country that makes, grows, or supplies goods or commodities for sale.",
@@ -1228,7 +1228,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "wander",
-    "answer": "wander",
+    "answer": "wandered",
     "pos": "v.",
     "definition": "to walk or move in a leisurely, casual, or aimless way.",
     "chinese": "漫遊；徘徊",
@@ -1245,8 +1245,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "to leave a place or group without permission or unexpectedly.",
     "chinese": "走失；離開",
-    "sentence": "Irresponsible parents should strictly never comfortably allow their extremely energetic young children to simply __________ entirely alone in the massive park.",
-    "translation": "不負責任的父母絕對不應該舒服地允許他們精力極度充沛的幼童，單獨在巨大的公園裡走失（離開）。",
+    "sentence": "Irresponsible parents should never allow their energetic young children to __________ alone in the massive park.",
+    "translation": "不負責任的父母不應該舒服地允許他們精力充沛的幼童，單獨在巨大的公園裡走失（離開）。",
     "lookup": {
      "english": "to leave a place or group without permission or unexpectedly.",
      "chinese": "走失；離開"
@@ -1271,8 +1271,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "to walk around a place casually without a specific goal.",
     "chinese": "四處閒逛",
-    "sentence": "During our remarkably relaxing long summer vacation, we completely happily spent hours just deciding to __________ the charming old town.",
-    "translation": "在我們非常放鬆的漫長暑假中，我們完全快樂地花了幾個小時，只是決定在這座迷人的老城鎮裡四處閒逛。",
+    "sentence": "During our relaxing summer vacation, we decided to __________ the charming old town for hours.",
+    "translation": "在我們輕鬆的暑假中，我們決定在這座迷人的老城鎮裡四處閒逛好幾個小時。",
     "lookup": {
      "english": "to walk around a place casually without a specific goal.",
      "chinese": "四處閒逛"
@@ -1480,7 +1480,7 @@ window.FLASHCARD_UNITS = {
     "definition": "the means or opportunity to approach or enter a place; to approach or enter.",
     "chinese": "進入（的權利）；存取",
     "sentence": "You will definitely need a highly special electronic security card to properly __________ this highly restricted and completely secret part of the building.",
-    "translation": "你肯定需要一張非常特殊的電子安全卡，才能適當地**進入（存取）**建築物這個受到高度限制且完全機密的部分。",
+    "translation": "你肯定需要一張非常特殊的電子安全卡，才能適當地進入（存取）建築物這個受到高度限制且完全機密的部分。",
     "lookup": {
      "english": "the means or opportunity to approach or enter a place; to approach or enter.",
      "chinese": "進入（的權利）；存取"
@@ -1505,8 +1505,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "to obtain the ability to enter a place or look at something.",
     "chinese": "獲得存取/進入權",
-    "sentence": "The highly skilled computer hacker unfortunately completely managed to quickly __________ the absolutely secure and highly private national banking system.",
-    "translation": "這位技術高超的電腦駭客不幸地完全設法迅速獲得存取/進入權，進入絕對安全且極度隱私的國家銀行系統。",
+    "sentence": "The skilled computer hacker unfortunately managed to __________ the secure and private national banking system.",
+    "translation": "這位技術高超的電腦駭客不幸地設法迅速獲得存取/進入權，進入安全且隱私的國家銀行系統。",
     "lookup": {
      "english": "to obtain the ability to enter a place or look at something.",
      "chinese": "獲得存取/進入權"
@@ -1570,8 +1570,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to concentrate on and become expert in a particular subject or skill.",
     "chinese": "專攻",
-    "sentence": "That incredibly popular and totally delicious international restaurant specifically smartly chooses to heavily __________ highly spicy and totally authentic Indian curry dishes.",
-    "translation": "那家極受歡迎且完全美味的國際餐廳，特別聰明地選擇重度專攻極度辛辣且完全道地的印度咖哩菜餚。",
+    "sentence": "That popular and delicious international restaurant specifically chooses to __________ spicy and authentic Indian curry dishes.",
+    "translation": "那家極受歡迎且美味的國際餐廳，特別聰明地選擇專攻辛辣且道地的印度咖哩菜餚。",
     "lookup": {
      "english": "to concentrate on and become expert in a particular subject or skill.",
      "chinese": "專攻"
@@ -1583,8 +1583,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a person who is very knowledgeable about or skillful in a particular area.",
     "chinese": "專家",
-    "sentence": "If you heavily struggle with extremely complex legal tax problems, you should absolutely strongly consider hiring a highly trained financial __________ immediately.",
-    "translation": "如果你正在與極其複雜的合法稅務問題重度掙扎，你絕對應該強烈考慮立刻聘請一位受過高度訓練的財務專家。",
+    "sentence": "If you struggle with complex legal tax problems, you should consider hiring a trained financial __________ immediately.",
+    "translation": "如果你正在與複雜的合法稅務問題掙扎，你應該強烈考慮立刻聘請一位受過訓練的財務專家。",
     "lookup": {
      "english": "a person who is very knowledgeable about or skillful in a particular area.",
      "chinese": "專家"
@@ -1596,8 +1596,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "requiring or involving detailed and specific knowledge or training.",
     "chinese": "專業的",
-    "sentence": "Fixing that incredibly rare and highly expensive vintage sports car absolutely strictly requires totally __________ tools that completely ordinary mechanics simply do not possess.",
-    "translation": "修理那輛極其罕見且極其昂貴的復古跑車，絕對嚴格需要完全普通的技工根本沒有的完全專業的工具。",
+    "sentence": "Fixing that rare and expensive vintage sports car requires __________ tools that ordinary mechanics do not possess.",
+    "translation": "修理那輛罕見且昂貴的復古跑車，嚴格需要普通的技工根本沒有的專業的工具。",
     "lookup": {
      "english": "requiring or involving detailed and specific knowledge or training.",
      "chinese": "專業的"
@@ -1609,8 +1609,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to copy or simulate.",
     "chinese": "模仿",
-    "sentence": "Extremely young children often naturally actively learn basic social behaviors by completely closely deciding to completely __________ the deeply complex actions of their older parents.",
-    "translation": "極其年輕的孩童通常自然地積極學習基本社交行為，透過完全密切地決定徹底模仿他們年長父母極其複雜的行為。",
+    "sentence": "Young children often learn basic social behaviors by trying to __________ the actions of their parents.",
+    "translation": "幼童通常藉由試著模仿父母的行為來學習基本的社交行為。",
     "lookup": {
      "english": "to copy or simulate.",
      "chinese": "模仿"
@@ -1661,8 +1661,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a kingdom; a field or domain of activity or interest.",
     "chinese": "領域；王國",
-    "sentence": "The completely exciting and deeply fascinating story mainly takes place in a highly magical __________ that is completely full of strange and incredibly dangerous wild creatures.",
-    "translation": "完全刺激且深深迷人的故事主要發生在一個高度神奇的領域（王國），那裡完全充滿了奇怪且極度危險的野生生物。",
+    "sentence": "The exciting and fascinating story mainly takes place in a magical __________ that is full of strange and dangerous wild creatures.",
+    "translation": "刺激且迷人的故事主要發生在一個神奇的領域（王國），那裡充滿了奇怪且危險的野生生物。",
     "lookup": {
      "english": "a kingdom; a field or domain of activity or interest.",
      "chinese": "領域；王國"
@@ -1674,8 +1674,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "a fictional world where magic exists.",
     "chinese": "魔法王國",
-    "sentence": "The brave young hero completely courageously completely traveled into a dark and highly unpredictable __________ to successfully successfully save his completely kidnapped younger brother.",
-    "translation": "勇敢的年輕英雄完全英勇地徹底進入了一個黑暗且高度不可預測的魔法王國，以成功安全地拯救他完全被綁架的弟弟。",
+    "sentence": "The brave young hero courageously traveled into a dark and unpredictable __________ to successfully save his kidnapped younger brother.",
+    "translation": "勇敢的年輕英雄英勇地進入了一個黑暗且不可預測的魔法王國，以成功安全地拯救他被綁架的弟弟。",
     "lookup": {
      "english": "a fictional world where magic exists.",
      "chinese": "魔法王國"
@@ -1687,8 +1687,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "within the specific area or field of something.",
     "chinese": "在...領域中",
-    "sentence": "Significant new discoveries constantly happening __________ modern medical science continue to incredibly deeply completely improve human life heavily every single day.",
-    "translation": "在現代醫學科學領域中不斷發生的重大新發現，每天都繼續令人難以置信地深深徹底大幅改善人類生活。",
+    "sentence": "Significant new discoveries __________ modern medical science continue to improve human life every single day.",
+    "translation": "現代醫學科學領域中的重大新發現，每天都持續改善人類的生活。",
     "lookup": {
      "english": "within the specific area or field of something.",
      "chinese": "在...領域中"
@@ -1700,8 +1700,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a country, state, or territory ruled by a king or queen.",
     "chinese": "王國",
-    "sentence": "The truly benevolent and deeply widely respected old queen completely ruled her incredibly peaceful and entirely highly wealthy __________ for over sixty fully completely glorious years.",
-    "translation": "真正仁慈且深受廣泛尊敬的老女王，完全統治她極其和平且極其富有的王國超過六十個完全徹底輝煌的年頭。",
+    "sentence": "The benevolent and widely respected old queen ruled her peaceful and wealthy __________ for over sixty glorious years.",
+    "translation": "真正仁慈且深受廣泛尊敬的老女王，統治她和平且富有的王國超過六十個輝煌的年頭。",
     "lookup": {
      "english": "a country, state, or territory ruled by a king or queen.",
      "chinese": "王國"
@@ -1713,8 +1713,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "an area of territory owned or controlled by a ruler or government; a specified sphere of activity or knowledge.",
     "chinese": "領域；領土",
-    "sentence": "Highly complex mathematical physics is completely strictly undeniably the absolute specific __________ of highly trained brilliant scientists, not completely ordinarily completely average people.",
-    "translation": "高度複雜的數學物理完全嚴格無疑是受過高度訓練才華洋溢科學家的絕對特定領域，而不是完全普通的平常人。",
+    "sentence": "Complex mathematical physics is the specific __________ of highly trained scientists, not ordinary people.",
+    "translation": "複雜的數學物理是受過高度訓練的科學家的特定領域，而不是一般人的領域。",
     "lookup": {
      "english": "an area of territory owned or controlled by a ruler or government; a specified sphere of activity or knowledge.",
      "chinese": "領域；領土"
@@ -1726,8 +1726,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "an impressive display or range of a particular type of thing.",
     "chinese": "一系列；陣列",
-    "sentence": "There is a surprisingly wide and completely incredibly impressive __________ of brightly colored flowers and highly useful modern gardening products available completely directly at the busy weekend market.",
-    "translation": "在繁忙的週末市場上，有著令人驚訝地廣泛且完全令人難以置信的令人印象深刻的一系列色彩鮮豔的花朵和極其有用的現代園藝產品完全直接可用。",
+    "sentence": "There is a surprisingly wide and impressive __________ of brightly colored flowers and useful modern gardening products available at the busy weekend market.",
+    "translation": "在繁忙的週末市場上，有著令人驚訝地廣泛且令人難以置信的令人印象深刻的一系列色彩鮮豔的花朵和有用的現代園藝產品直接可用。",
     "lookup": {
      "english": "an impressive display or range of a particular type of thing.",
      "chinese": "一系列；陣列"
@@ -1735,12 +1735,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "an array of",
-    "answer": "an absolutely massive completely wide array of",
+    "answer": "an array of",
     "pos": "phr.",
     "definition": "a large group of things or people, especially one that is attractive or causes admiration.",
     "chinese": "一系列",
-    "sentence": "The massive modern international supermarket proudly securely offers __________ totally fresh tropical fruits securely completely directly imported from heavily sunny South America.",
-    "translation": "這家龐大的現代國際超市自豪穩妥地提供一系列絕對大量完全廣泛的完全新鮮熱帶水果，穩妥地完全直接從陽光充足的南美洲進口。",
+    "sentence": "The massive modern international supermarket proudly offers __________ fresh tropical fruits imported from sunny South America.",
+    "translation": "這家大型的現代國際超市自豪地提供一系列從陽光充足的南美洲進口的新鮮熱帶水果。",
     "lookup": {
      "english": "a large group of things or people, especially one that is attractive or causes admiration.",
      "chinese": "一系列"
@@ -1752,8 +1752,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "a very large and impressive collection or display.",
     "chinese": "大量的一系列",
-    "sentence": "The incredibly wealthy historical collector absolutely confidently completely possesses a completely heavily completely __________ of entirely extremely rare completely highly expensive antique silver coins.",
-    "translation": "極其富有的歷史收藏家絕對自信地完全擁有大量的一系列完全極度稀有、完全極其昂貴的古董銀幣。",
+    "sentence": "The wealthy collector owns __________ rare and expensive antique silver coins.",
+    "translation": "這位富有的收藏家擁有大量的一系列稀有且昂貴的古董銀幣。",
     "lookup": {
      "english": "a very large and impressive collection or display.",
      "chinese": "大量的一系列"
@@ -1765,8 +1765,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "a broad and diverse collection.",
     "chinese": "廣泛的一系列",
-    "sentence": "To fully satisfy all absolutely diverse extremely demanding customers, the incredibly popular new bakery strictly completely strongly completely completely offers a __________ of completely heavily completely sweet completely highly delicious fresh pastries.",
-    "translation": "為了完全滿足所有絕對多樣、要求極其嚴格的顧客，極受歡迎的新麵包店嚴格完全強烈地完全提供廣泛的一系列完全非常甜、完全極其美味的新鮮糕點。",
+    "sentence": "To satisfy all its customers, the popular new bakery offers __________ sweet and delicious fresh pastries.",
+    "translation": "為了滿足所有顧客，這家受歡迎的新麵包店提供各式各樣香甜美味的新鮮糕點。",
     "lookup": {
      "english": "a broad and diverse collection.",
      "chinese": "廣泛的一系列"
@@ -1778,8 +1778,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "activity done for enjoyment when one is not working.",
     "chinese": "娛樂；消遣",
-    "sentence": "The completely exhausted and highly stressed workers strictly absolutely deeply absolutely genuinely need completely deeply completely totally entirely absolutely adequate completely absolutely entirely fully adequate absolutely absolutely completely deeply entirely fully adequate time securely absolutely completely fully totally completely securely safely fully fully entirely heavily absolutely fully for totally completely entirely deeply safely highly fully completely absolutely completely deeply deeply totally entirely safely healthy absolutely totally highly fully completely heavily __________ absolutely entirely safely fully to totally entirely safely completely totally actively absolutely fully completely fully heavily entirely fully maintain heavily totally highly completely absolutely deeply completely fully completely fully heavily entirely completely heavily fully completely fully totally heavily completely strictly completely absolutely completely fully their entirely deeply absolutely totally completely entirely deeply absolutely deeply totally completely totally totally entirely deeply strictly completely fully strictly fully entirely heavily totally absolutely overall completely strictly totally thoroughly absolutely entirely completely absolutely completely entirely deeply highly fully deeply absolutely heavily mental heavily completely heavily completely totally completely completely fully entirely entirely deeply totally fully entirely completely fully absolutely completely fully fully completely heavily absolutely heavily fully completely fully entirely entirely fully completely completely fully entirely totally completely healthy.",
-    "translation": "(Self-correction: Bloated. Adjusted below.)",
+    "sentence": "The exhausted and stressed workers need adequate time for healthy __________ to maintain their mental health.",
+    "translation": "疲憊且壓力大的員工需要足夠的時間從事健康的休閒娛樂，以維持心理健康。",
     "lookup": {
      "english": "activity done for enjoyment when one is not working.",
      "chinese": "娛樂；消遣"
@@ -1804,8 +1804,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "things people do for fun and enjoyment.",
     "chinese": "休閒活動",
-    "sentence": "During the deeply relaxing summer vacation, we highly enjoy securely doing completely fun completely heavily entirely entirely totally absolutely totally totally __________ completely completely fully securely completely deeply fully entirely totally fully entirely highly heavily actively entirely fully like deeply safely peacefully fully entirely swimming securely completely highly deeply safely totally fully and safely fully heavily actively heavily fully totally fully fully entirely totally heavily reading.",
-    "translation": "(Self-correction: The previous sentence is bloated. Adjusted version below.)",
+    "sentence": "During the relaxing summer vacation, we enjoy doing fun __________ like swimming and reading.",
+    "translation": "在輕鬆的暑假期間，我們喜歡從事有趣的休閒活動，例如游泳和閱讀。",
     "lookup": {
      "english": "things people do for fun and enjoyment.",
      "chinese": "休閒活動"
@@ -1817,11 +1817,24 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to bring something into existence.",
     "chinese": "創造",
-    "sentence": "The highly brilliant and deeply passionate chef constantly manages to actively __________ entirely new and completely delicious dishes for his wealthy restaurant customers.",
-    "translation": "才華洋溢且深具熱情的廚師不斷設法積極地為他富有的餐廳顧客創造全新且完全美味的菜餚。",
+    "sentence": "The brilliant and passionate chef constantly manages to __________ new and delicious dishes for his wealthy restaurant customers.",
+    "translation": "才華洋溢且深具熱情的廚師不斷設法積極地為他富有的餐廳顧客創造全新且美味的菜餚。",
     "lookup": {
      "english": "to bring something into existence.",
      "chinese": "創造"
+    }
+   },
+   {
+    "word": "creative",
+    "answer": "creatively",
+    "pos": "adj.",
+    "definition": "relating to or involving the imagination or original ideas, especially in the production of an artistic work.",
+    "chinese": "有創意的",
+    "sentence": "The __________ designer came up with a completely new idea for the poster that nobody had seen before.",
+    "translation": "這位有創意的設計師為海報想出了一個從未有人見過的全新點子。",
+    "lookup": {
+     "english": "relating to or involving the imagination or original ideas, especially in the production of an artistic work.",
+     "chinese": "有創意的"
     }
    },
    {
@@ -1843,8 +1856,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a person inclined to question or doubt all accepted opinions.",
     "chinese": "懷疑論者",
-    "sentence": "Even the most stubborn __________ in the completely quiet room had to finally completely totally admit that the brilliant new scientific theory actually worked flawlessly.",
-    "translation": "即使是完全安靜的房間裡最固執的懷疑論者，最終也不得不完全承認這個出色的新科學理論實際上完美無瑕地運作。",
+    "sentence": "Even the most stubborn __________ in the completely quiet room had to finally totally admit that the brilliant new scientific theory actually worked flawlessly.",
+    "translation": "即使是安靜的房間裡最固執的懷疑論者，最終也不得不承認這個出色的新科學理論實際上完美無瑕地運作。",
     "lookup": {
      "english": "a person inclined to question or doubt all accepted opinions.",
      "chinese": "懷疑論者"
@@ -1856,24 +1869,11 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a skeptical attitude; doubt as to the truth of something.",
     "chinese": "懷疑態度",
-    "sentence": "Despite the government's highly positive official promises, there is still widespread public __________ completely heavily surrounding the complex new economic policy.",
-    "translation": "儘管政府有高度積極的官方承諾，但對於這項複雜的新經濟政策，公眾仍然普遍存在著強烈的懷疑態度。",
+    "sentence": "Despite the government's highly positive official promises, there is still widespread public __________ heavily surrounding the complex new economic policy.",
+    "translation": "儘管政府有積極的官方承諾，但對於這項複雜的新經濟政策，公眾仍然普遍存在著強烈的懷疑態度。",
     "lookup": {
      "english": "a skeptical attitude; doubt as to the truth of something.",
      "chinese": "懷疑態度"
-    }
-   },
-   {
-    "word": "be skeptical about",
-    "answer": "be highly skeptical about",
-    "pos": "phr.",
-    "definition": "to have doubts regarding something.",
-    "chinese": "對...感到懷疑",
-    "sentence": "It is absolutely completely natural to __________ surprisingly incredibly totally deeply highly totally totally absolutely highly surprisingly surprisingly surprisingly extremely surprisingly amazingly cheap completely totally completely fully totally totally entirely deeply extremely products completely totally heavily totally fully heavily totally fully totally absolutely totally completely fully totally completely heavily completely highly fully securely sold securely safely fully absolutely fully safely fully completely deeply completely highly fully fully safely safely absolutely totally totally fully heavily fully safely entirely absolutely safely on completely fully highly entirely fully entirely entirely completely highly entirely fully totally totally deeply fully totally completely highly absolutely fully completely completely highly totally completely entirely absolutely deeply fully absolutely completely heavily entirely entirely absolutely absolutely completely fully completely highly entirely the completely absolutely deeply highly fully entirely highly totally completely heavily heavily totally entirely totally fully completely absolutely entirely fully deeply absolutely totally absolutely totally Internet.",
-    "translation": "(Self-correction: Bloated. Adjusted below.)",
-    "lookup": {
-     "english": "to have doubts regarding something.",
-     "chinese": "對...感到懷疑"
     }
    },
    {
@@ -1904,7 +1904,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "distinguish",
-    "answer": "distinguish",
+    "answer": "distinguished",
     "pos": "v.",
     "definition": "to recognize or treat someone or something as different.",
     "chinese": "區分；分辨",
@@ -1921,8 +1921,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "to recognize the difference between two people or things.",
     "chinese": "區分（兩者）",
-    "sentence": "Young children absolutely must actively deeply deeply learn securely fully to completely clearly deeply totally heavily completely actively safely correctly successfully perfectly __________ absolutely completely fully totally completely entirely entirely completely perfectly completely completely right completely highly totally entirely perfectly safely completely entirely deeply entirely entirely entirely perfectly fully completely deeply completely completely completely completely absolutely totally heavily completely strictly fully and completely totally deeply completely perfectly completely completely entirely totally perfectly completely totally fully deeply fully extremely terribly terribly entirely completely completely terribly badly completely completely completely fully completely perfectly absolutely totally deeply deeply totally extremely strictly completely deeply deeply absolutely fully highly absolutely deeply fully fully completely strictly totally entirely completely perfectly completely entirely deeply entirely wrong.",
-    "translation": "(Self-correction: Bloated. Adjusted below.)",
+    "sentence": "Young children must learn to __________ right and wrong.",
+    "translation": "幼童必須學會分辨是非對錯。",
     "lookup": {
      "english": "to recognize the difference between two people or things.",
      "chinese": "區分（兩者）"
@@ -1930,20 +1930,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "distinguish from",
-    "answer": "distinguish from",
-    "pos": "phr.",
-    "definition": "to show how one thing is different from another.",
-    "chinese": "區別",
-    "sentence": "The fascinating tall giraffe is easily clearly __________ absolutely all other wild completely heavily entirely totally completely heavily animals completely entirely heavily safely totally entirely completely totally securely actively safely effectively successfully completely deeply perfectly safely safely totally completely completely fully entirely safely completely deeply fully completely effectively fully fully totally completely absolutely strictly effectively safely completely effectively highly completely entirely perfectly effectively totally totally safely entirely effectively entirely completely completely fully fully absolutely heavily perfectly heavily fully entirely by completely entirely absolutely totally completely perfectly safely entirely safely completely its completely completely totally heavily completely perfectly entirely entirely completely completely highly entirely totally deeply incredibly safely totally entirely completely heavily completely strictly completely absolutely absolutely entirely completely heavily safely perfectly fully totally entirely entirely totally perfectly heavily completely totally completely long completely absolutely completely strictly deeply totally completely completely totally perfectly deeply totally heavily perfectly strictly fully totally totally fully totally strictly perfectly completely completely strictly completely perfectly perfectly strictly absolutely completely fully fully absolutely perfectly fully completely fully strictly completely deeply perfectly deeply fully completely fully perfectly completely entirely strictly perfectly fully completely perfectly absolutely completely fully absolutely perfectly entirely perfectly absolutely strictly entirely completely fully neck.",
-    "translation": "(Self-correction: Bloated. Adjusted below.)",
-    "lookup": {
-     "english": "to show how one thing is different from another.",
-     "chinese": "區別"
-    }
-   },
-   {
-    "word": "distinguish from",
-    "answer": "distinguish from",
+    "answer": "distinguished from",
     "pos": "phr.",
     "definition": "to show how one thing is different from another.",
     "chinese": "區別",
@@ -1960,8 +1947,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "clear enough to be recognized or identified as different.",
     "chinese": "可辨別的",
-    "sentence": "The completely fake painting was barely safely safely completely effectively clearly entirely effectively clearly __________ safely effectively clearly perfectly safely effectively fully perfectly completely effectively from completely completely entirely completely fully perfectly effectively highly effectively deeply entirely safely safely safely perfectly securely effectively completely safely the completely completely entirely safely safely completely highly safely absolutely fully perfectly completely completely completely completely safely original, completely completely perfectly perfectly completely entirely completely effectively safely completely successfully safely completely fooling safely completely totally completely effectively successfully safely deeply successfully completely fully safely effectively totally completely even safely completely effectively deeply safely perfectly safely completely completely safely successfully highly completely fully successfully the completely completely safely safely perfectly effectively completely completely thoroughly safely safely effectively perfectly entirely highly perfectly fully highly deeply safely highly perfectly effectively safely perfectly effectively safely totally successfully absolutely effectively perfectly completely effectively experts.",
-    "translation": "(Self-correction: Bloated. Adjusted below.)",
+    "sentence": "The fake painting was barely __________ from the original, fooling even the experts.",
+    "translation": "這幅假畫與真跡幾乎無法區分，甚至連專家都被騙了。",
     "lookup": {
      "english": "clear enough to be recognized or identified as different.",
      "chinese": "可辨別的"
@@ -1974,7 +1961,7 @@ window.FLASHCARD_UNITS = {
     "definition": "Successful, authoritative, and commanding great respect from others due to excellence.",
     "chinese": "卓越的、傑出的、著名的",
     "sentence": "The university invited a __________ professor of financial theory to deliver a speech at the summer camp.",
-    "translation": "這所大學邀請了一位在金融理論領域**卓越的（傑出的）**教授在夏令營上發表專題演講。",
+    "translation": "這所大學邀請了一位在金融理論領域卓越的（傑出的）教授在夏令營上發表專題演講。",
     "lookup": {
      "english": "Successful, authoritative, and commanding great respect from others due to excellence.",
      "chinese": "卓越的、傑出的、著名的"
@@ -1987,7 +1974,7 @@ window.FLASHCARD_UNITS = {
     "definition": "To know, realize, or judge something correctly based on evidence or signs.",
     "chinese": "看得出、能分辨、知道",
     "sentence": "I could __________ from Chloe's bright smile that she had successfully passed her standardized English exam.",
-    "translation": "從克洛伊燦爛的笑容中，我**看得出（知道）**她已經成功通過了她的標準化英文測驗。",
+    "translation": "從克洛伊燦爛的笑容中，我看得出（知道）她已經成功通過了她的標準化英文測驗。",
     "lookup": {
      "english": "To know, realize, or judge something correctly based on evidence or signs.",
      "chinese": "看得出、能分辨、知道"
@@ -2074,7 +2061,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "blur"
+      "text": "blurs"
      }
     ],
     "answer": "D",
@@ -2181,7 +2168,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "an absolutely massive completely wide array of"
+      "text": "an array of"
      },
      {
       "letter": "C",
@@ -2212,7 +2199,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "revolve"
+      "text": "revolves"
      }
     ],
     "answer": "A",
@@ -2327,7 +2314,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "distinguished"
+      "text": "distinguishable"
      }
     ],
     "answer": "B",
@@ -2369,11 +2356,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "facilitate"
+      "text": "facilitates"
      },
      {
       "letter": "D",
-      "text": "evolve"
+      "text": "evolved"
      }
     ],
     "answer": "D",
@@ -2430,7 +2417,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "facilitate"
+      "text": "facilitates"
      },
      {
       "letter": "B",
@@ -2442,7 +2429,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "distinguish"
+      "text": "distinguished"
      }
     ],
     "answer": "B",
@@ -2480,11 +2467,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "evolve"
+      "text": "evolved"
      },
      {
       "letter": "C",
-      "text": "revolve"
+      "text": "revolves"
      },
      {
       "letter": "D",
@@ -2576,7 +2563,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "skeptical"
+      "text": "creatively"
      },
      {
       "letter": "D",
@@ -2591,7 +2578,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "wander"
+      "text": "wandered"
      },
      {
       "letter": "B",
@@ -2664,7 +2651,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "apart from"
+      "text": "Apart from"
      },
      {
       "letter": "C",
@@ -2683,11 +2670,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "recreational activities"
+      "text": "recreational"
      },
      {
       "letter": "B",
-      "text": "applicant"
+      "text": "fill in the application form"
      },
      {
       "letter": "C",
@@ -2695,7 +2682,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "faced with"
+      "text": "face"
      }
     ],
     "answer": "C",
@@ -2733,7 +2720,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "span"
+      "text": "spanned"
      },
      {
       "letter": "C",
@@ -2833,7 +2820,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "apart from"
+      "text": "Apart from"
      }
     ],
     "answer": "D",
@@ -2844,7 +2831,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "close encounter"
+      "text": "encounter"
      },
      {
       "letter": "B",
@@ -2852,11 +2839,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "job application"
+      "text": "application"
      },
      {
       "letter": "D",
-      "text": "in the face of"
+      "text": "faced with"
      }
     ],
     "answer": "B",
@@ -2902,7 +2889,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "apart from"
+      "text": "Apart from"
      }
     ],
     "answer": "A",
@@ -2940,15 +2927,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "wander"
+      "text": "wandered"
      },
      {
       "letter": "C",
-      "text": "facilitate"
+      "text": "facilitates"
      },
      {
       "letter": "D",
-      "text": "evolve"
+      "text": "evolved"
      }
     ],
     "answer": "C",
@@ -3162,7 +3149,7 @@ window.FLASHCARD_UNITS = {
     "vi": 48
    },
    {
-    "question": "The struggling company will inevitably __________ complete financial disaster if it doesn't heavily quickly improve its terrible daily sales.",
+    "question": "The struggling company will inevitably __________ complete financial disaster if it doesn't quickly improve its terrible daily sales.",
     "options": [
      {
       "letter": "A",
@@ -3308,7 +3295,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "distinguished"
+      "text": "distinguishable"
      },
      {
       "letter": "C",
@@ -3316,18 +3303,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "doubtful"
+      "text": "skeptical"
      }
     ],
     "answer": "A",
     "vi": 55
    },
    {
-    "question": "Volunteering at the crowded local animal shelter was a deeply __________ experience that taught the teenager absolute absolute responsibility.",
+    "question": "Volunteering at the crowded local animal shelter was a deeply __________ experience that taught the teenager absolute responsibility.",
     "options": [
      {
       "letter": "A",
-      "text": "doubtful"
+      "text": "skeptical"
      },
      {
       "letter": "B",
@@ -3400,7 +3387,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "skeptical"
+      "text": "creatively"
      },
      {
       "letter": "C",
@@ -3423,15 +3410,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "reproduction"
+      "text": "reproduce"
      },
      {
       "letter": "C",
-      "text": "blurred"
+      "text": "blur the line between"
      },
      {
       "letter": "D",
-      "text": "apply for a school"
+      "text": "apply for a job"
      }
     ],
     "answer": "A",
@@ -3611,7 +3598,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "distinguished"
+      "text": "distinguishable"
      },
      {
       "letter": "D",
@@ -3722,7 +3709,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "doubtful"
+      "text": "skeptical"
      },
      {
       "letter": "C",
@@ -3772,7 +3759,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "span"
+      "text": "spanned"
      },
      {
       "letter": "D",
@@ -3799,7 +3786,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "doubtful"
+      "text": "skeptical"
      }
     ],
     "answer": "A",
@@ -3810,7 +3797,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "blur"
+      "text": "blurs"
      },
      {
       "letter": "B",
@@ -3829,7 +3816,7 @@ window.FLASHCARD_UNITS = {
     "vi": 77
    },
    {
-    "question": "The highly powerful Hollywood __________ angrily demanded that the nervous director significantly drastically change the boring ending of the movie.",
+    "question": "The highly powerful Hollywood __________ angrily demanded that the nervous director drastically change the boring ending of the movie.",
     "options": [
      {
       "letter": "A",
@@ -4029,7 +4016,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "blur"
+      "text": "blurs"
      }
     ],
     "answer": "C",
@@ -4205,7 +4192,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "wander"
+      "text": "wandered"
      },
      {
       "letter": "C",
@@ -4220,7 +4207,7 @@ window.FLASHCARD_UNITS = {
     "vi": 94
    },
    {
-    "question": "Irresponsible parents should strictly never comfortably allow their extremely energetic young children to simply __________ entirely alone in the massive park.",
+    "question": "Irresponsible parents should never allow their energetic young children to __________ alone in the massive park.",
     "options": [
      {
       "letter": "A",
@@ -4266,7 +4253,7 @@ window.FLASHCARD_UNITS = {
     "vi": 96
    },
    {
-    "question": "During our remarkably relaxing long summer vacation, we completely happily spent hours just deciding to __________ the charming old town.",
+    "question": "During our relaxing summer vacation, we decided to __________ the charming old town for hours.",
     "options": [
      {
       "letter": "A",
@@ -4297,7 +4284,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "blur"
+      "text": "blurs"
      },
      {
       "letter": "C",
@@ -4416,7 +4403,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "skeptical"
+      "text": "creatively"
      },
      {
       "letter": "D",
@@ -4489,7 +4476,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "apart from"
+      "text": "Apart from"
      }
     ],
     "answer": "B",
@@ -4577,7 +4564,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "wander"
+      "text": "wandered"
      },
      {
       "letter": "D",
@@ -4623,7 +4610,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "skeptical"
+      "text": "creatively"
      },
      {
       "letter": "D",
@@ -4680,7 +4667,7 @@ window.FLASHCARD_UNITS = {
     "vi": 114
    },
    {
-    "question": "The highly skilled computer hacker unfortunately completely managed to quickly __________ the absolutely secure and highly private national banking system.",
+    "question": "The skilled computer hacker unfortunately managed to __________ the secure and private national banking system.",
     "options": [
      {
       "letter": "A",
@@ -4707,7 +4694,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "distinguished"
+      "text": "distinguishable"
      },
      {
       "letter": "B",
@@ -4788,14 +4775,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "an absolutely massive completely wide array of"
+      "text": "an array of"
      }
     ],
     "answer": "A",
     "vi": 119
    },
    {
-    "question": "That incredibly popular and totally delicious international restaurant specifically smartly chooses to heavily __________ highly spicy and totally authentic Indian curry dishes.",
+    "question": "That popular and delicious international restaurant specifically chooses to __________ spicy and authentic Indian curry dishes.",
     "options": [
      {
       "letter": "A",
@@ -4818,7 +4805,7 @@ window.FLASHCARD_UNITS = {
     "vi": 120
    },
    {
-    "question": "If you heavily struggle with extremely complex legal tax problems, you should absolutely strongly consider hiring a highly trained financial __________ immediately.",
+    "question": "If you struggle with complex legal tax problems, you should consider hiring a trained financial __________ immediately.",
     "options": [
      {
       "letter": "A",
@@ -4841,7 +4828,7 @@ window.FLASHCARD_UNITS = {
     "vi": 121
    },
    {
-    "question": "Fixing that incredibly rare and highly expensive vintage sports car absolutely strictly requires totally __________ tools that completely ordinary mechanics simply do not possess.",
+    "question": "Fixing that rare and expensive vintage sports car requires __________ tools that ordinary mechanics do not possess.",
     "options": [
      {
       "letter": "A",
@@ -4864,7 +4851,7 @@ window.FLASHCARD_UNITS = {
     "vi": 122
    },
    {
-    "question": "Extremely young children often naturally actively learn basic social behaviors by completely closely deciding to completely __________ the deeply complex actions of their older parents.",
+    "question": "Young children often learn basic social behaviors by trying to __________ the actions of their parents.",
     "options": [
      {
       "letter": "A",
@@ -4876,7 +4863,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "revolve"
+      "text": "revolves"
      },
      {
       "letter": "D",
@@ -4956,7 +4943,7 @@ window.FLASHCARD_UNITS = {
     "vi": 126
    },
    {
-    "question": "The completely exciting and deeply fascinating story mainly takes place in a highly magical __________ that is completely full of strange and incredibly dangerous wild creatures.",
+    "question": "The exciting and fascinating story mainly takes place in a magical __________ that is full of strange and dangerous wild creatures.",
     "options": [
      {
       "letter": "A",
@@ -4979,7 +4966,7 @@ window.FLASHCARD_UNITS = {
     "vi": 127
    },
    {
-    "question": "The brave young hero completely courageously completely traveled into a dark and highly unpredictable __________ to successfully successfully save his completely kidnapped younger brother.",
+    "question": "The brave young hero courageously traveled into a dark and unpredictable __________ to successfully save his kidnapped younger brother.",
     "options": [
      {
       "letter": "A",
@@ -5002,7 +4989,7 @@ window.FLASHCARD_UNITS = {
     "vi": 128
    },
    {
-    "question": "Significant new discoveries constantly happening __________ modern medical science continue to incredibly deeply completely improve human life heavily every single day.",
+    "question": "Significant new discoveries __________ modern medical science continue to improve human life every single day.",
     "options": [
      {
       "letter": "A",
@@ -5025,7 +5012,7 @@ window.FLASHCARD_UNITS = {
     "vi": 129
    },
    {
-    "question": "The truly benevolent and deeply widely respected old queen completely ruled her incredibly peaceful and entirely highly wealthy __________ for over sixty fully completely glorious years.",
+    "question": "The benevolent and widely respected old queen ruled her peaceful and wealthy __________ for over sixty glorious years.",
     "options": [
      {
       "letter": "A",
@@ -5048,7 +5035,7 @@ window.FLASHCARD_UNITS = {
     "vi": 130
    },
    {
-    "question": "Highly complex mathematical physics is completely strictly undeniably the absolute specific __________ of highly trained brilliant scientists, not completely ordinarily completely average people.",
+    "question": "Complex mathematical physics is the specific __________ of highly trained scientists, not ordinary people.",
     "options": [
      {
       "letter": "A",
@@ -5071,7 +5058,7 @@ window.FLASHCARD_UNITS = {
     "vi": 131
    },
    {
-    "question": "There is a surprisingly wide and completely incredibly impressive __________ of brightly colored flowers and highly useful modern gardening products available completely directly at the busy weekend market.",
+    "question": "There is a surprisingly wide and impressive __________ of brightly colored flowers and useful modern gardening products available at the busy weekend market.",
     "options": [
      {
       "letter": "A",
@@ -5094,7 +5081,7 @@ window.FLASHCARD_UNITS = {
     "vi": 132
    },
    {
-    "question": "The massive modern international supermarket proudly securely offers __________ totally fresh tropical fruits securely completely directly imported from heavily sunny South America.",
+    "question": "The massive modern international supermarket proudly offers __________ fresh tropical fruits imported from sunny South America.",
     "options": [
      {
       "letter": "A",
@@ -5102,7 +5089,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "an absolutely massive completely wide array of"
+      "text": "an array of"
      },
      {
       "letter": "C",
@@ -5117,7 +5104,7 @@ window.FLASHCARD_UNITS = {
     "vi": 133
    },
    {
-    "question": "The incredibly wealthy historical collector absolutely confidently completely possesses a completely heavily completely __________ of entirely extremely rare completely highly expensive antique silver coins.",
+    "question": "The wealthy collector owns __________ rare and expensive antique silver coins.",
     "options": [
      {
       "letter": "A",
@@ -5140,7 +5127,7 @@ window.FLASHCARD_UNITS = {
     "vi": 134
    },
    {
-    "question": "To fully satisfy all absolutely diverse extremely demanding customers, the incredibly popular new bakery strictly completely strongly completely completely offers a __________ of completely heavily completely sweet completely highly delicious fresh pastries.",
+    "question": "To satisfy all its customers, the popular new bakery offers __________ sweet and delicious fresh pastries.",
     "options": [
      {
       "letter": "A",
@@ -5163,7 +5150,7 @@ window.FLASHCARD_UNITS = {
     "vi": 135
    },
    {
-    "question": "The completely exhausted and highly stressed workers strictly absolutely deeply absolutely genuinely need completely deeply completely totally entirely absolutely adequate completely absolutely entirely fully adequate absolutely absolutely completely deeply entirely fully adequate time securely absolutely completely fully totally completely securely safely fully fully entirely heavily absolutely fully for totally completely entirely deeply safely highly fully completely absolutely completely deeply deeply totally entirely safely healthy absolutely totally highly fully completely heavily __________ absolutely entirely safely fully to totally entirely safely completely totally actively absolutely fully completely fully heavily entirely fully maintain heavily totally highly completely absolutely deeply completely fully completely fully heavily entirely completely heavily fully completely fully totally heavily completely strictly completely absolutely completely fully their entirely deeply absolutely totally completely entirely deeply absolutely deeply totally completely totally totally entirely deeply strictly completely fully strictly fully entirely heavily totally absolutely overall completely strictly totally thoroughly absolutely entirely completely absolutely completely entirely deeply highly fully deeply absolutely heavily mental heavily completely heavily completely totally completely completely fully entirely entirely deeply totally fully entirely completely fully absolutely completely fully fully completely heavily absolutely heavily fully completely fully entirely entirely fully completely completely fully entirely totally completely healthy.",
+    "question": "The exhausted and stressed workers need adequate time for healthy __________ to maintain their mental health.",
     "options": [
      {
       "letter": "A",
@@ -5209,7 +5196,7 @@ window.FLASHCARD_UNITS = {
     "vi": 137
    },
    {
-    "question": "During the deeply relaxing summer vacation, we highly enjoy securely doing completely fun completely heavily entirely entirely totally absolutely totally totally __________ completely completely fully securely completely deeply fully entirely totally fully entirely highly heavily actively entirely fully like deeply safely peacefully fully entirely swimming securely completely highly deeply safely totally fully and safely fully heavily actively heavily fully totally fully fully entirely totally heavily reading.",
+    "question": "During the relaxing summer vacation, we enjoy doing fun __________ like swimming and reading.",
     "options": [
      {
       "letter": "A",
@@ -5232,15 +5219,15 @@ window.FLASHCARD_UNITS = {
     "vi": 138
    },
    {
-    "question": "The highly brilliant and deeply passionate chef constantly manages to actively __________ entirely new and completely delicious dishes for his wealthy restaurant customers.",
+    "question": "The brilliant and passionate chef constantly manages to __________ new and delicious dishes for his wealthy restaurant customers.",
     "options": [
      {
       "letter": "A",
-      "text": "revolve"
+      "text": "revolves"
      },
      {
       "letter": "B",
-      "text": "evolve"
+      "text": "evolved"
      },
      {
       "letter": "C",
@@ -5248,18 +5235,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "wander"
+      "text": "wandered"
      }
     ],
     "answer": "C",
     "vi": 139
    },
    {
-    "question": "Highly intelligent Carla is understandably quite __________ about her realistic chances of actually getting the highly competitive new office job in the city.",
+    "question": "The __________ designer came up with a completely new idea for the poster that nobody had seen before.",
     "options": [
      {
       "letter": "A",
-      "text": "skeptical"
+      "text": "creatively"
      },
      {
       "letter": "B",
@@ -5278,30 +5265,30 @@ window.FLASHCARD_UNITS = {
     "vi": 140
    },
    {
-    "question": "Even the most stubborn __________ in the completely quiet room had to finally completely totally admit that the brilliant new scientific theory actually worked flawlessly.",
+    "question": "Highly intelligent Carla is understandably quite __________ about her realistic chances of actually getting the highly competitive new office job in the city.",
     "options": [
      {
       "letter": "A",
-      "text": "accessibility"
+      "text": "representative"
      },
      {
       "letter": "B",
-      "text": "skeptic"
+      "text": "skeptical"
      },
      {
       "letter": "C",
-      "text": "evolution"
+      "text": "formless"
      },
      {
       "letter": "D",
-      "text": "representation"
+      "text": "marvelous"
      }
     ],
     "answer": "B",
     "vi": 141
    },
    {
-    "question": "Despite the government's highly positive official promises, there is still widespread public __________ completely heavily surrounding the complex new economic policy.",
+    "question": "Even the most stubborn __________ in the completely quiet room had to finally totally admit that the brilliant new scientific theory actually worked flawlessly.",
     "options": [
      {
       "letter": "A",
@@ -5313,7 +5300,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "skepticism"
+      "text": "skeptic"
      },
      {
       "letter": "D",
@@ -5324,23 +5311,23 @@ window.FLASHCARD_UNITS = {
     "vi": 142
    },
    {
-    "question": "It is absolutely completely natural to __________ surprisingly incredibly totally deeply highly totally totally absolutely highly surprisingly surprisingly surprisingly extremely surprisingly amazingly cheap completely totally completely fully totally totally entirely deeply extremely products completely totally heavily totally fully heavily totally fully totally absolutely totally completely fully totally completely heavily completely highly fully securely sold securely safely fully absolutely fully safely fully completely deeply completely highly fully fully safely safely absolutely totally totally fully heavily fully safely entirely absolutely safely on completely fully highly entirely fully entirely entirely completely highly entirely fully totally totally deeply fully totally completely highly absolutely fully completely completely highly totally completely entirely absolutely deeply fully absolutely completely heavily entirely entirely absolutely absolutely completely fully completely highly entirely the completely absolutely deeply highly fully entirely highly totally completely heavily heavily totally entirely totally fully completely absolutely entirely fully deeply absolutely totally absolutely totally Internet.",
+    "question": "Despite the government's highly positive official promises, there is still widespread public __________ heavily surrounding the complex new economic policy.",
     "options": [
      {
       "letter": "A",
-      "text": "take part in"
+      "text": "education"
      },
      {
       "letter": "B",
-      "text": "distinguish from"
+      "text": "destination"
      },
      {
       "letter": "C",
-      "text": "apply to"
+      "text": "exception"
      },
      {
       "letter": "D",
-      "text": "be highly skeptical about"
+      "text": "skepticism"
      }
     ],
     "answer": "D",
@@ -5351,22 +5338,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "be highly skeptical about"
+      "text": "unexpected encounter"
      },
      {
       "letter": "B",
-      "text": "an absolutely massive completely wide array of"
+      "text": "on behalf of"
      },
      {
       "letter": "C",
-      "text": "specialize in"
+      "text": "be highly skeptical about"
      },
      {
       "letter": "D",
-      "text": "highly facilitated"
+      "text": "distinguished from"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 144
    },
    {
@@ -5374,22 +5361,22 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "engaging"
+      "text": "representative"
      },
      {
       "letter": "B",
-      "text": "evolutionary"
-     },
-     {
-      "letter": "C",
       "text": "doubtful"
      },
      {
+      "letter": "C",
+      "text": "evolutionary"
+     },
+     {
       "letter": "D",
-      "text": "blurry"
+      "text": "enriched"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 145
    },
    {
@@ -5397,72 +5384,141 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "enrich"
-     },
-     {
-      "letter": "B",
-      "text": "involve"
-     },
-     {
-      "letter": "C",
       "text": "represent"
      },
      {
+      "letter": "B",
+      "text": "reproduce"
+     },
+     {
+      "letter": "C",
+      "text": "blurs"
+     },
+     {
       "letter": "D",
-      "text": "distinguish"
+      "text": "distinguished"
      }
     ],
     "answer": "D",
     "vi": 146
    },
    {
-    "question": "Young children absolutely must actively deeply deeply learn securely fully to completely clearly deeply totally heavily completely actively safely correctly successfully perfectly __________ absolutely completely fully totally completely entirely entirely completely perfectly completely completely right completely highly totally entirely perfectly safely completely entirely deeply entirely entirely entirely perfectly fully completely deeply completely completely completely completely absolutely totally heavily completely strictly fully and completely totally deeply completely perfectly completely completely entirely totally perfectly completely totally fully deeply fully extremely terribly terribly entirely completely completely terribly badly completely completely completely fully completely perfectly absolutely totally deeply deeply totally extremely strictly completely deeply deeply absolutely fully highly absolutely deeply fully fully completely strictly totally entirely completely perfectly completely entirely deeply entirely wrong.",
+    "question": "Young children must learn to __________ right and wrong.",
     "options": [
      {
       "letter": "A",
-      "text": "participate in"
-     },
-     {
-      "letter": "B",
       "text": "distinguish between"
      },
      {
+      "letter": "B",
+      "text": "engage in"
+     },
+     {
       "letter": "C",
-      "text": "computer specialist"
+      "text": "recreational activities"
      },
      {
       "letter": "D",
-      "text": "stand for"
+      "text": "marvel at"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 147
    },
    {
-    "question": "The fascinating tall giraffe is easily clearly __________ absolutely all other wild completely heavily entirely totally completely heavily animals completely entirely heavily safely totally entirely completely totally securely actively safely effectively successfully completely deeply perfectly safely safely totally completely completely fully entirely safely completely deeply fully completely effectively fully fully totally completely absolutely strictly effectively safely completely effectively highly completely entirely perfectly effectively totally totally safely entirely effectively entirely completely completely fully fully absolutely heavily perfectly heavily fully entirely by completely entirely absolutely totally completely perfectly safely entirely safely completely its completely completely totally heavily completely perfectly entirely entirely completely completely highly entirely totally deeply incredibly safely totally entirely completely heavily completely strictly completely absolutely absolutely entirely completely heavily safely perfectly fully totally entirely entirely totally perfectly heavily completely totally completely long completely absolutely completely strictly deeply totally completely completely totally perfectly deeply totally heavily perfectly strictly fully totally totally fully totally strictly perfectly completely completely strictly completely perfectly perfectly strictly absolutely completely fully fully absolutely perfectly fully completely fully strictly completely deeply perfectly deeply fully completely fully perfectly completely entirely strictly perfectly fully completely perfectly absolutely completely fully absolutely perfectly entirely perfectly absolutely strictly entirely completely fully neck.",
+    "question": "The fascinating tall giraffe is easily __________ all other wild animals by its incredibly long neck and unique brown spots.",
     "options": [
      {
       "letter": "A",
-      "text": "wander off"
+      "text": "take apart"
      },
      {
       "letter": "B",
-      "text": "job application"
+      "text": "close encounter"
      },
      {
       "letter": "C",
-      "text": "distinguish from"
+      "text": "distinguished from"
      },
      {
       "letter": "D",
-      "text": "span across"
+      "text": "in the form of"
      }
     ],
     "answer": "C",
     "vi": 148
    },
    {
-    "question": "The fascinating tall giraffe is easily __________ all other wild animals by its incredibly long neck and unique brown spots.",
+    "question": "The fake painting was barely __________ from the original, fooling even the experts.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "revolutionary"
+     },
+     {
+      "letter": "B",
+      "text": "distinguished"
+     },
+     {
+      "letter": "C",
+      "text": "enriching"
+     },
+     {
+      "letter": "D",
+      "text": "distinguishable"
+     }
+    ],
+    "answer": "D",
+    "vi": 149
+   },
+   {
+    "question": "The university invited a __________ professor of financial theory to deliver a speech at the summer camp.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "doubtful"
+     },
+     {
+      "letter": "B",
+      "text": "distinguished"
+     },
+     {
+      "letter": "C",
+      "text": "formless"
+     },
+     {
+      "letter": "D",
+      "text": "distinguishable"
+     }
+    ],
+    "answer": "B",
+    "vi": 150
+   },
+   {
+    "question": "I could __________ from Chloe's bright smile that she had successfully passed her standardized English exam.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "tell"
+     },
+     {
+      "letter": "B",
+      "text": "engage"
+     },
+     {
+      "letter": "C",
+      "text": "create"
+     },
+     {
+      "letter": "D",
+      "text": "imitate"
+     }
+    ],
+    "answer": "A",
+    "vi": 151
+   },
+   {
+    "question": "Without looking at the label, it is almost impossible to __________ genetically-modified corn.",
     "options": [
      {
       "letter": "A",
@@ -5470,95 +5526,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "recreational activities"
+      "text": "tell a from b"
      },
      {
       "letter": "C",
-      "text": "in the form of"
+      "text": "apply for a job"
      },
      {
       "letter": "D",
-      "text": "distinguish from"
-     }
-    ],
-    "answer": "D",
-    "vi": 149
-   },
-   {
-    "question": "The completely fake painting was barely safely safely completely effectively clearly entirely effectively clearly __________ safely effectively clearly perfectly safely effectively fully perfectly completely effectively from completely completely entirely completely fully perfectly effectively highly effectively deeply entirely safely safely safely perfectly securely effectively completely safely the completely completely entirely safely safely completely highly safely absolutely fully perfectly completely completely completely completely safely original, completely completely perfectly perfectly completely entirely completely effectively safely completely successfully safely completely fooling safely completely totally completely effectively successfully safely deeply successfully completely fully safely effectively totally completely even safely completely effectively deeply safely perfectly safely completely completely safely successfully highly completely fully successfully the completely completely safely safely perfectly effectively completely completely thoroughly safely safely effectively perfectly entirely highly perfectly fully highly deeply safely highly perfectly effectively safely perfectly effectively safely totally successfully absolutely effectively perfectly completely effectively experts.",
-    "options": [
-     {
-      "letter": "A",
-      "text": "distinguishable"
-     },
-     {
-      "letter": "B",
-      "text": "enriching"
-     },
-     {
-      "letter": "C",
-      "text": "distinguished"
-     },
-     {
-      "letter": "D",
-      "text": "formless"
-     }
-    ],
-    "answer": "A",
-    "vi": 150
-   },
-   {
-    "question": "The university invited a __________ professor of financial theory to deliver a speech at the summer camp.",
-    "options": [
-     {
-      "letter": "A",
-      "text": "engaging"
-     },
-     {
-      "letter": "B",
-      "text": "distinguished"
-     },
-     {
-      "letter": "C",
-      "text": "imitative"
-     },
-     {
-      "letter": "D",
-      "text": "specialized"
+      "text": "have completely free access to"
      }
     ],
     "answer": "B",
-    "vi": 151
-   },
-   {
-    "question": "I could __________ from Chloe's bright smile that she had successfully passed her standardized English exam.",
-    "options": [
-     {
-      "letter": "A",
-      "text": "revolutionized"
-     },
-     {
-      "letter": "B",
-      "text": "create"
-     },
-     {
-      "letter": "C",
-      "text": "produce"
-     },
-     {
-      "letter": "D",
-      "text": "tell"
-     }
-    ],
-    "answer": "D",
     "vi": 152
    },
    {
-    "question": "Without looking at the label, it is almost impossible to __________ genetically-modified corn.",
+    "question": "The two twin brothers look so much alike that even their classmates can hardly __________ between them.",
     "options": [
      {
       "letter": "A",
-      "text": "tell a from b"
+      "text": "engaged to"
      },
      {
       "letter": "B",
@@ -5566,63 +5553,40 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "in the face of"
-     },
-     {
-      "letter": "D",
-      "text": "apply to"
-     }
-    ],
-    "answer": "A",
-    "vi": 153
-   },
-   {
-    "question": "The two twin brothers look so much alike that even their classmates can hardly __________ between them.",
-    "options": [
-     {
-      "letter": "A",
-      "text": "apply to"
-     },
-     {
-      "letter": "B",
-      "text": "in the face of"
-     },
-     {
-      "letter": "C",
       "text": "tell the difference"
      },
      {
       "letter": "D",
-      "text": "gain access to"
+      "text": "in the face of"
      }
     ],
     "answer": "C",
-    "vi": 154
+    "vi": 153
    },
    {
     "question": "Incorporating interactive web games into the curriculum can truly __________ in student motivation.",
     "options": [
      {
       "letter": "A",
-      "text": "marvel at"
-     },
-     {
-      "letter": "B",
       "text": "make a huge difference"
      },
      {
+      "letter": "B",
+      "text": "tourist destination"
+     },
+     {
       "letter": "C",
-      "text": "exceptional circumstances"
+      "text": "apply to"
      },
      {
       "letter": "D",
-      "text": "unexpected encounter"
+      "text": "in the face of"
      }
     ],
-    "answer": "B",
-    "vi": 155
+    "answer": "A",
+    "vi": 154
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"blur":["a thing that cannot be seen or heard clearly.","模糊不清的事物"],"blurred":["unable to see or be seen clearly.","模糊不清的"],"blurry":["lacking clear definition or focus.","模糊的"],"formation":["the action of forming or process of being formed.","形成；構成"],"form":["to bring together parts or combine to create; the visible shape or configuration of something.","形成；形狀"],"formless":["without a clear or definite shape or structure.","無定形的"],"development":["the process of developing or being developed.","發展"],"evolve":["to develop gradually, especially from a simple to a more complex form.","演變；進化"],"evolution":["the gradual development of something, especially from a simple to a more complex form.","演化；發展"],"evolutionary":["relating to the gradual development of something.","演化的"],"involve":["to have or include something as a necessary part.","包含；牽涉"],"revolve":["to move in a circle on a central axis.","旋轉；圍繞"],"revolution":["A complete circular movement made by an object around a central point.","環繞、旋轉、公轉"],"revolutionary":["Involving or causing a complete and dramatic change in ideas, methods, or systems.","革命性的、突破性的、大變革的"],"revolutionized":["To completely change the way something is done, built, or thought about.","徹底改變、改革、帶來革命性變革"],"revolutionize":["To completely change the way something is done, built, or thought about.","徹底改變、改革、帶來革命性變革"],"exception":["a person or thing that is excluded from a general statement or does not follow a rule.","例外"],"exceptional":["unusually good; outstanding.","卓越的；例外的"],"exceptionally":["to a greater degree than normal; unusually.","異常地；非常"],"extraordinary":["very unusual or remarkable.","非凡的"],"span":["to extend across in space or time; the full extent of something from end to end.","橫跨；跨度"],"lifespan":["the length of time for which a person or animal lives or a thing functions.","壽命"],"apart":["separated by a distance; into pieces.","分開地"],"facilitate":["to make an action or process easy or easier.","促進；使便利"],"facilitator":["a person or thing that makes an action or process easy or easier.","促進者；引導者"],"facility":["a place, amenity, or piece of equipment provided for a particular purpose.","設施"],"encounter":["an unexpected or casual meeting with someone or something; to unexpectedly experience.","相遇；遭遇"],"face":["to confront and deal with or accept a difficult or unpleasant task or situation.","面對"],"enrich":["to improve or enhance the quality or value of.","豐富"],"enrichment":["the action of improving or enhancing the quality or value of something.","豐富；充實"],"enriched":["having added nutrients or improved quality.","營養強化的；豐富的"],"enriching":["providing rewarding value or improving the quality of something.","使人充實的"],"marvel":["a wonderful or astonishing person or thing; to be filled with wonder or astonishment.","奇蹟；感到驚嘆"],"marvelous":["causing great wonder; extraordinary.","極好的；令人驚嘆的"],"marvelously":["in a way that causes great wonder or is extraordinarily good.","奇蹟般地；極好地"],"engaging":["charming and attractive; capturing attention.","迷人的；吸引人的"],"engage":["to occupy, attract, or involve someone's interest or attention.","吸引；參與"],"engagement":["the act of participation.","訂婚；參與"],"participant":["A person who takes part in a specific activity, event, or research study.","參與者、參加者"],"participation":["The act of taking part in an activity, event, or discussion.","參與、參加"],"charming":["pleasant or attractive.","迷人的"],"reproduce":["to produce a copy or representation of; to produce offspring.","複製；繁殖"],"reproduction":["the action or process of making a copy of something; the production of offspring.","複製品；繁殖"],"reproductive":["relating to or effecting reproduction.","生殖的"],"produce":["to make or manufacture from components or raw materials.","生產"],"producer":["a person, company, or country that makes, grows, or supplies goods or commodities for sale.","生產者；製作人"],"representative":["a person chosen or appointed to act or speak for another or others; typical of a class, group, or body of opinion.","代表；具代表性的"],"represent":["to be entitled or appointed to act or speak for someone.","代表"],"representation":["the action of speaking or acting on behalf of someone or the state of being so represented.","表現；代表"],"symbolize":["To be a symbol of something, or to represent a deeper quality or feeling.","象徵、代表"],"symbol":["A sign, shape, or object that is used to represent something else, such as an idea or quality.","象徵、標誌、符號"],"destination":["the place to which someone or something is going or being sent.","目的地"],"landmark":["A building or feature that is easily recognized, especially one that guides people or has historical importance.","地標、里程碑"],"wander":["to walk or move in a leisurely, casual, or aimless way.","漫遊；徘徊"],"wandering":["traveling aimlessly from place to place.","漫遊的；流浪的"],"apply":["to make a formal application or request.","申請"],"application":["a formal request to an authority for something; the action of putting something into operation.","應用；申請"],"applicant":["a person who makes a formal application for something, typically a job.","申請人"],"applicable":["relevant or appropriate.","適用的"],"educate":["to give intellectual, moral, and social instruction to someone.","教育"],"education":["the process of receiving or giving systematic instruction, especially at a school or university.","教育"],"educational":["relating to the provision of education; intended or serving to educate or enlighten.","教育的；有教育意義的"],"access":["the means or opportunity to approach or enter a place; to approach or enter.","進入（的權利）；存取"],"accessible":["able to be reached or entered.","易接近的；可使用的"],"accessibility":["the quality of being easy to approach, reach, enter, speak with, or use.","可達性；無障礙"],"specialist":["a person who concentrates primarily on a particular subject or activity.","專家；專科醫生"],"expert":["a person who is very knowledgeable about or skillful in a particular area.","專家"],"specialized":["requiring or involving detailed and specific knowledge or training.","專業的"],"imitate":["to copy or simulate.","模仿"],"imitation":["the action of using someone or something as a model.","模仿；仿製品"],"imitative":["copying or following a model or example.","模仿的"],"fake":["not genuine; imitation or counterfeit.","假的"],"realm":["a kingdom; a field or domain of activity or interest.","領域；王國"],"kingdom":["a country, state, or territory ruled by a king or queen.","王國"],"domain":["an area of territory owned or controlled by a ruler or government; a specified sphere of activity or knowledge.","領域；領土"],"array":["an impressive display or range of a particular type of thing.","一系列；陣列"],"recreation":["activity done for enjoyment when one is not working.","娛樂；消遣"],"recreational":["relating to or denoting activity done for enjoyment when one is not working.","娛樂的；休閒的"],"create":["to bring something into existence.","創造"],"skeptical":["not easily convinced; having doubts or reservations.","懷疑的"],"skeptic":["a person inclined to question or doubt all accepted opinions.","懷疑論者"],"skepticism":["a skeptical attitude; doubt as to the truth of something.","懷疑態度"],"doubtful":["feeling uncertain about something.","可疑的；懷疑的"],"distinguish":["to recognize or treat someone or something as different.","區分；分辨"],"distinguishable":["clear enough to be recognized or identified as different.","可辨別的"],"distinguished":["Successful, authoritative, and commanding great respect from others due to excellence.","卓越的、傑出的、著名的"],"tell":["To know, realize, or judge something correctly based on evidence or signs.","看得出、能分辨、知道"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"blur":["a thing that cannot be seen or heard clearly.","模糊不清的事物"],"blurs":["to make or become unclear or less distinct.","使模糊"],"blurred":["unable to see or be seen clearly.","模糊不清的"],"blurry":["lacking clear definition or focus.","模糊的"],"formation":["the action of forming or process of being formed.","形成；構成"],"form":["to bring together parts or combine to create; the visible shape or configuration of something.","形成；形狀"],"formless":["without a clear or definite shape or structure.","無定形的"],"development":["the process of developing or being developed.","發展"],"evolve":["to develop gradually, especially from a simple to a more complex form.","演變；進化"],"evolved":["to develop gradually, especially from a simple to a more complex form.","演變；進化"],"evolution":["the gradual development of something, especially from a simple to a more complex form.","演化；發展"],"evolutionary":["relating to the gradual development of something.","演化的"],"involve":["to have or include something as a necessary part.","包含；牽涉"],"revolves":["to move in a circle on a central axis.","旋轉；圍繞"],"revolve":["to move in a circle on a central axis.","旋轉；圍繞"],"revolution":["A complete circular movement made by an object around a central point.","環繞、旋轉、公轉"],"revolutionary":["Involving or causing a complete and dramatic change in ideas, methods, or systems.","革命性的、突破性的、大變革的"],"revolutionized":["To completely change the way something is done, built, or thought about.","徹底改變、改革、帶來革命性變革"],"revolutionize":["To completely change the way something is done, built, or thought about.","徹底改變、改革、帶來革命性變革"],"exception":["a person or thing that is excluded from a general statement or does not follow a rule.","例外"],"exceptional":["unusually good; outstanding.","卓越的；例外的"],"exceptionally":["to a greater degree than normal; unusually.","異常地；非常"],"extraordinary":["very unusual or remarkable.","非凡的"],"spanned":["to extend across in space or time; the full extent of something from end to end.","橫跨；跨度"],"span":["to extend across in space or time; the full extent of something from end to end.","橫跨；跨度"],"lifespan":["the length of time for which a person or animal lives or a thing functions.","壽命"],"apart":["separated by a distance; into pieces.","分開地"],"facilitates":["to make an action or process easy or easier.","促進；使便利"],"facilitate":["to make an action or process easy or easier.","促進；使便利"],"facilitator":["a person or thing that makes an action or process easy or easier.","促進者；引導者"],"facility":["a place, amenity, or piece of equipment provided for a particular purpose.","設施"],"encounter":["an unexpected or casual meeting with someone or something; to unexpectedly experience.","相遇；遭遇"],"face":["to confront and deal with or accept a difficult or unpleasant task or situation.","面對"],"enrich":["to improve or enhance the quality or value of.","豐富"],"enrichment":["the action of improving or enhancing the quality or value of something.","豐富；充實"],"enriched":["having added nutrients or improved quality.","營養強化的；豐富的"],"enriching":["providing rewarding value or improving the quality of something.","使人充實的"],"marvel":["a wonderful or astonishing person or thing; to be filled with wonder or astonishment.","奇蹟；感到驚嘆"],"marvelous":["causing great wonder; extraordinary.","極好的；令人驚嘆的"],"marvelously":["in a way that causes great wonder or is extraordinarily good.","奇蹟般地；極好地"],"engaging":["charming and attractive; capturing attention.","迷人的；吸引人的"],"engage":["to occupy, attract, or involve someone's interest or attention.","吸引；參與"],"engagement":["the act of participation.","訂婚；參與"],"participant":["A person who takes part in a specific activity, event, or research study.","參與者、參加者"],"participation":["The act of taking part in an activity, event, or discussion.","參與、參加"],"charming":["pleasant or attractive.","迷人的"],"reproduce":["to produce a copy or representation of; to produce offspring.","複製；繁殖"],"reproduction":["the action or process of making a copy of something; the production of offspring.","複製品；繁殖"],"reproductive":["relating to or effecting reproduction.","生殖的"],"produce":["to make or manufacture from components or raw materials.","生產"],"producer":["a person, company, or country that makes, grows, or supplies goods or commodities for sale.","生產者；製作人"],"representative":["a person chosen or appointed to act or speak for another or others; typical of a class, group, or body of opinion.","代表；具代表性的"],"represent":["to be entitled or appointed to act or speak for someone.","代表"],"representation":["the action of speaking or acting on behalf of someone or the state of being so represented.","表現；代表"],"symbolize":["To be a symbol of something, or to represent a deeper quality or feeling.","象徵、代表"],"symbol":["A sign, shape, or object that is used to represent something else, such as an idea or quality.","象徵、標誌、符號"],"destination":["the place to which someone or something is going or being sent.","目的地"],"landmark":["A building or feature that is easily recognized, especially one that guides people or has historical importance.","地標、里程碑"],"wandered":["to walk or move in a leisurely, casual, or aimless way.","漫遊；徘徊"],"wander":["to walk or move in a leisurely, casual, or aimless way.","漫遊；徘徊"],"wandering":["traveling aimlessly from place to place.","漫遊的；流浪的"],"apply":["to make a formal application or request.","申請"],"application":["a formal request to an authority for something; the action of putting something into operation.","應用；申請"],"applicant":["a person who makes a formal application for something, typically a job.","申請人"],"applicable":["relevant or appropriate.","適用的"],"educate":["to give intellectual, moral, and social instruction to someone.","教育"],"education":["the process of receiving or giving systematic instruction, especially at a school or university.","教育"],"educational":["relating to the provision of education; intended or serving to educate or enlighten.","教育的；有教育意義的"],"access":["the means or opportunity to approach or enter a place; to approach or enter.","進入（的權利）；存取"],"accessible":["able to be reached or entered.","易接近的；可使用的"],"accessibility":["the quality of being easy to approach, reach, enter, speak with, or use.","可達性；無障礙"],"specialist":["a person who concentrates primarily on a particular subject or activity.","專家；專科醫生"],"expert":["a person who is very knowledgeable about or skillful in a particular area.","專家"],"specialized":["requiring or involving detailed and specific knowledge or training.","專業的"],"imitate":["to copy or simulate.","模仿"],"imitation":["the action of using someone or something as a model.","模仿；仿製品"],"imitative":["copying or following a model or example.","模仿的"],"fake":["not genuine; imitation or counterfeit.","假的"],"realm":["a kingdom; a field or domain of activity or interest.","領域；王國"],"kingdom":["a country, state, or territory ruled by a king or queen.","王國"],"domain":["an area of territory owned or controlled by a ruler or government; a specified sphere of activity or knowledge.","領域；領土"],"array":["an impressive display or range of a particular type of thing.","一系列；陣列"],"recreation":["activity done for enjoyment when one is not working.","娛樂；消遣"],"recreational":["relating to or denoting activity done for enjoyment when one is not working.","娛樂的；休閒的"],"create":["to bring something into existence.","創造"],"creative":["relating to or involving the imagination or original ideas, especially in the production of an artistic work.","有創意的"],"creatively":["relating to or involving the imagination or original ideas, especially in the production of an artistic work.","有創意的"],"skeptical":["not easily convinced; having doubts or reservations.","懷疑的"],"skeptic":["a person inclined to question or doubt all accepted opinions.","懷疑論者"],"skepticism":["a skeptical attitude; doubt as to the truth of something.","懷疑態度"],"doubtful":["feeling uncertain about something.","可疑的；懷疑的"],"distinguished":["to recognize or treat someone or something as different.","區分；分辨"],"distinguish":["to recognize or treat someone or something as different.","區分；分辨"],"distinguishable":["clear enough to be recognized or identified as different.","可辨別的"],"tell":["To know, realize, or judge something correctly based on evidence or signs.","看得出、能分辨、知道"]});

@@ -49,8 +49,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "in a way that is easily perceived or understood.",
     "chinese": "明顯地",
-    "sentence": "The strict teacher noticed that it was __________ that Evan hadn't studied very hard since he miserably failed the difficult exam.",
-    "translation": "嚴格的老師注意到，明顯地伊凡並沒有很努力學習，因為他在困難的考試中慘敗。",
+    "sentence": "The strict teacher noticed that Evan __________ hadn't studied very hard, since he miserably failed the difficult exam.",
+    "translation": "嚴格的老師注意到伊凡顯然沒有很用功讀書，因為他悽慘地沒通過這場困難的考試。",
     "lookup": {
      "english": "in a way that is easily perceived or understood.",
      "chinese": "明顯地"
@@ -128,7 +128,7 @@ window.FLASHCARD_UNITS = {
     "definition": "relating to a particular subject, art, or craft, or its techniques.",
     "chinese": "技術的；專業的",
     "sentence": "The dense scientific article contained far too many complex __________ terms that the average reader simply could not understand correctly.",
-    "translation": "這篇密集的科學文章包含太多複雜的**專業的（技術的）**術語，一般讀者根本無法正確理解。",
+    "translation": "這篇密集的科學文章包含太多複雜的專業的（技術的）術語，一般讀者根本無法正確理解。",
     "lookup": {
      "english": "relating to a particular subject, art, or craft, or its techniques.",
      "chinese": "技術的；專業的"
@@ -240,7 +240,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "document",
-    "answer": "document",
+    "answer": "documents",
     "pos": "n.",
     "definition": "a piece of written, printed, or electronic matter that provides information or evidence.",
     "chinese": "文件",
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "document",
-    "answer": "document",
+    "answer": "documented",
     "pos": "v.",
     "definition": "to record (something) in written, photographic, or other form.",
     "chinese": "記錄",
@@ -292,12 +292,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "pest",
-    "answer": "pest",
+    "answer": "pests",
     "pos": "n.",
     "definition": "a destructive insect or other animal that attacks crops, food, livestock, etc.",
     "chinese": "害蟲；有害動物",
     "sentence": "The aggressive farmer bought a special chemical spray that will effectively keep mice and other destructive __________ from entering your cozy home.",
-    "translation": "具攻擊性的農夫買了一種特殊的化學噴霧，能有效地防止老鼠和其他具破壞性的**有害動物（害蟲）**進入你舒適的家。",
+    "translation": "具攻擊性的農夫買了一種特殊的化學噴霧，能有效地防止老鼠和其他具破壞性的有害動物（害蟲）進入你舒適的家。",
     "lookup": {
      "english": "a destructive insect or other animal that attacks crops, food, livestock, etc.",
      "chinese": "害蟲；有害動物"
@@ -344,7 +344,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "benefit",
-    "answer": "benefit",
+    "answer": "benefits",
     "pos": "n.",
     "definition": "an advantage or profit gained from something.",
     "chinese": "好處；益處",
@@ -448,7 +448,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "swap",
-    "answer": "swap",
+    "answer": "swapped",
     "pos": "v.",
     "definition": "to take part in an exchange of.",
     "chinese": "交換",
@@ -682,7 +682,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "trend",
-    "answer": "trend",
+    "answer": "trending",
     "pos": "v.",
     "definition": "to change or develop in a general direction.",
     "chinese": "趨向",
@@ -790,8 +790,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "ability to adapt or be adapted to many different functions or activities.",
     "chinese": "多功能性",
-    "sentence": "The absolutely amazing __________ of the highly advanced modern smartphone effectively allows users to easily take beautiful pictures, browse the internet, and securely send instant messages.",
-    "translation": "高度先進的現代智慧型手機絕對驚人的多功能性，有效地讓使用者能輕鬆拍出美麗的照片、瀏覽網路並安全地發送即時訊息。",
+    "sentence": "The amazing __________ of the advanced modern smartphone allows users to take beautiful pictures, browse the internet, and send instant messages.",
+    "translation": "先進的現代智慧型手機驚人的多功能性，有效地讓使用者能輕鬆拍出美麗的照片、瀏覽網路並安全地發送即時訊息。",
     "lookup": {
      "english": "ability to adapt or be adapted to many different functions or activities.",
      "chinese": "多功能性"
@@ -812,7 +812,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "roast",
-    "answer": "roast",
+    "answer": "roasts",
     "pos": "v.",
     "definition": "to cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire.",
     "chinese": "烘烤",
@@ -929,7 +929,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "broaden one's horizons",
-    "answer": "broaden horizons",
+    "answer": "broaden her horizons",
     "pos": "phr.",
     "definition": "to expand one's range of interests, activities, and knowledge.",
     "chinese": "開闊眼界",
@@ -1012,7 +1012,7 @@ window.FLASHCARD_UNITS = {
     "vi": 2
    },
    {
-    "question": "The strict teacher noticed that it was __________ that Evan hadn't studied very hard since he miserably failed the difficult exam.",
+    "question": "The strict teacher noticed that Evan __________ hadn't studied very hard, since he miserably failed the difficult exam.",
     "options": [
      {
       "letter": "A",
@@ -1116,7 +1116,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "benefit"
+      "text": "benefits"
      },
      {
       "letter": "D",
@@ -1212,7 +1212,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "broaden horizons"
+      "text": "broaden her horizons"
      }
     ],
     "answer": "C",
@@ -1227,7 +1227,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "broaden horizons"
+      "text": "broaden her horizons"
      },
      {
       "letter": "C",
@@ -1323,7 +1323,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "document"
+      "text": "documents"
      },
      {
       "letter": "D",
@@ -1369,7 +1369,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "document"
+      "text": "documents"
      },
      {
       "letter": "D",
@@ -1384,7 +1384,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "document"
+      "text": "documented"
      },
      {
       "letter": "B",
@@ -1453,7 +1453,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "pest"
+      "text": "pests"
      },
      {
       "letter": "B",
@@ -1476,11 +1476,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "pest"
+      "text": "pests"
      },
      {
       "letter": "B",
-      "text": "document"
+      "text": "documents"
      },
      {
       "letter": "C",
@@ -1503,7 +1503,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "broaden horizons"
+      "text": "broaden her horizons"
      },
      {
       "letter": "C",
@@ -1545,7 +1545,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "benefit"
+      "text": "benefits"
      },
      {
       "letter": "B",
@@ -1568,15 +1568,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "trend"
+      "text": "trending"
      },
      {
       "letter": "B",
-      "text": "roast"
+      "text": "roasts"
      },
      {
       "letter": "C",
-      "text": "document"
+      "text": "documented"
      },
      {
       "letter": "D",
@@ -1618,7 +1618,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "document"
+      "text": "documents"
      },
      {
       "letter": "C",
@@ -1637,7 +1637,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "document"
+      "text": "documented"
      },
      {
       "letter": "B",
@@ -1645,7 +1645,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "swap"
+      "text": "swapped"
      },
      {
       "letter": "D",
@@ -1729,11 +1729,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "swap"
+      "text": "swapped"
      },
      {
       "letter": "B",
-      "text": "trend"
+      "text": "trending"
      },
      {
       "letter": "C",
@@ -1752,7 +1752,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "benefit"
+      "text": "benefits"
      },
      {
       "letter": "B",
@@ -1775,11 +1775,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "document"
+      "text": "documented"
      },
      {
       "letter": "B",
-      "text": "roast"
+      "text": "roasts"
      },
      {
       "letter": "C",
@@ -1875,7 +1875,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "benefit"
+      "text": "benefits"
      },
      {
       "letter": "D",
@@ -2151,7 +2151,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "trend"
+      "text": "trending"
      },
      {
       "letter": "D",
@@ -2243,7 +2243,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "benefit"
+      "text": "benefits"
      },
      {
       "letter": "D",
@@ -2323,7 +2323,7 @@ window.FLASHCARD_UNITS = {
     "vi": 59
    },
    {
-    "question": "The absolutely amazing __________ of the highly advanced modern smartphone effectively allows users to easily take beautiful pictures, browse the internet, and securely send instant messages.",
+    "question": "The amazing __________ of the advanced modern smartphone allows users to take beautiful pictures, browse the internet, and send instant messages.",
     "options": [
      {
       "letter": "A",
@@ -2377,11 +2377,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "swap"
+      "text": "swapped"
      },
      {
       "letter": "C",
-      "text": "roast"
+      "text": "roasts"
      },
      {
       "letter": "D",
@@ -2404,7 +2404,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "swap"
+      "text": "swapped"
      },
      {
       "letter": "D",
@@ -2419,7 +2419,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "document"
+      "text": "documented"
      },
      {
       "letter": "B",
@@ -2431,7 +2431,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "trend"
+      "text": "trending"
      }
     ],
     "answer": "C",
@@ -2442,7 +2442,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "swap"
+      "text": "swapped"
      },
      {
       "letter": "B",
@@ -2542,7 +2542,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "broaden horizons"
+      "text": "broaden her horizons"
      },
      {
       "letter": "D",
@@ -2592,7 +2592,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "broaden horizons"
+      "text": "broaden her horizons"
      }
     ],
     "answer": "D",
@@ -2601,4 +2601,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"apparent":["clearly visible or understood; obvious.","明顯的"],"apparently":["as far as one knows or can see.","顯然地"],"obvious":["easily perceived or understood; clear, self-evident, or apparent.","明顯的"],"obviously":["in a way that is easily perceived or understood.","明顯地"],"sustain":["to strengthen or support physically or mentally.","維持"],"sustainable":["able to be maintained at a certain rate or level.","永續的"],"unsustainable":["not able to be maintained at the current rate or level.","無法永續的"],"sustainability":["the ability to be maintained at a certain rate or level.","永續性"],"technical":["relating to a particular subject, art, or craft, or its techniques.","技術的；專業的"],"technically":["according to the facts or exact meaning of something; strictly.","嚴格來說；技術上"],"unconventional":["not based on or conforming to what is generally done or believed.","非傳統的；非常規的"],"conventional":["based on or in accordance with what is generally done or believed.","傳統的；常規的"],"convention":["a large meeting of people with a shared interest.","大會；慣例"],"unconventionally":["in a way that is not based on what is generally done or believed.","非傳統地"],"document":["a piece of written, printed, or electronic matter that provides information or evidence.","文件"],"documentary":["a movie or a television or radio program that provides a factual record or report.","紀錄片"],"documented":["recorded in written, photographic, or other form.","有記錄的"],"pest":["a destructive insect or other animal that attacks crops, food, livestock, etc.","害蟲；有害動物"],"pesticide":["a substance used for destroying insects or other organisms harmful to cultivated plants or to animals.","殺蟲劑"],"benefit":["an advantage or profit gained from something.","好處；益處"],"beneficial":["favorable or advantageous; resulting in good.","有益的"],"profit":["a financial gain, especially the difference between the amount earned and the amount spent.","利潤"],"strive":["to make great efforts to achieve or obtain something.","努力；奮鬥"],"endeavor":["to try hard to do or achieve something.","努力；盡力"],"swap":["to take part in an exchange of.","交換"],"exchange":["to give something and receive something of the same kind in return.","更換；交換"],"ethical":["relating to moral principles or the branch of knowledge dealing with these.","道德的；倫理的"],"unethical":["not morally correct.","不道德的"],"ethic":["a set of moral principles.","道德規範；職業道德"],"ethically":["in a way that relates to moral principles.","合乎道德地"],"alternative":["one of two or more available possibilities.","替代方案；選擇"],"alternatively":["as another option or possibility.","或者；要不然"],"consequently":["as a result.","因此；結果"],"consequence":["a result or effect of an action or condition.","後果"],"therefore":["for that reason; consequently.","因此"],"trend":["a general direction in which something is developing or changing.","趨勢；潮流"],"trendy":["very fashionable or up to date in style or influence.","時髦的"],"profitable":["yielding profit or financial gain.","有利可圖的；賺錢的"],"profitably":["in a way that yields profit or financial gain.","獲利地"],"lucrative":["producing a great deal of profit.","賺錢的；有利可圖的"],"versatile":["able to adapt or be adapted to many different functions or activities.","多用途的；多才多藝的"],"versatility":["ability to adapt or be adapted to many different functions or activities.","多功能性"],"roast":["to cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire.","烘烤"],"bake":["to cook (food) by dry heat without direct exposure to a flame, typically in an oven.","烘焙"],"boil":["to reach or cause to reach the temperature at which it bubbles and turns to vapor.","煮沸"],"fry":["to cook (food) in hot fat or oil, typically in a shallow pan.","油炸；煎"],"grill":["to cook (something) using a grill.","燒烤"],"steam":["to cook (food) by heating it in steam from boiling water.","蒸"],"horizon":["the line at which the earth's surface and the sky appear to meet.","地平線"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"apparent":["clearly visible or understood; obvious.","明顯的"],"apparently":["as far as one knows or can see.","顯然地"],"obvious":["easily perceived or understood; clear, self-evident, or apparent.","明顯的"],"obviously":["in a way that is easily perceived or understood.","明顯地"],"sustain":["to strengthen or support physically or mentally.","維持"],"sustainable":["able to be maintained at a certain rate or level.","永續的"],"unsustainable":["not able to be maintained at the current rate or level.","無法永續的"],"sustainability":["the ability to be maintained at a certain rate or level.","永續性"],"technical":["relating to a particular subject, art, or craft, or its techniques.","技術的；專業的"],"technically":["according to the facts or exact meaning of something; strictly.","嚴格來說；技術上"],"unconventional":["not based on or conforming to what is generally done or believed.","非傳統的；非常規的"],"conventional":["based on or in accordance with what is generally done or believed.","傳統的；常規的"],"convention":["a large meeting of people with a shared interest.","大會；慣例"],"unconventionally":["in a way that is not based on what is generally done or believed.","非傳統地"],"documents":["a piece of written, printed, or electronic matter that provides information or evidence.","文件"],"document":["a piece of written, printed, or electronic matter that provides information or evidence.","文件"],"documented":["to record (something) in written, photographic, or other form.","記錄"],"documentary":["a movie or a television or radio program that provides a factual record or report.","紀錄片"],"pests":["a destructive insect or other animal that attacks crops, food, livestock, etc.","害蟲；有害動物"],"pest":["a destructive insect or other animal that attacks crops, food, livestock, etc.","害蟲；有害動物"],"pesticide":["a substance used for destroying insects or other organisms harmful to cultivated plants or to animals.","殺蟲劑"],"benefit":["an advantage or profit gained from something.","好處；益處"],"benefits":["an advantage or profit gained from something.","好處；益處"],"beneficial":["favorable or advantageous; resulting in good.","有益的"],"profit":["a financial gain, especially the difference between the amount earned and the amount spent.","利潤"],"strive":["to make great efforts to achieve or obtain something.","努力；奮鬥"],"endeavor":["to try hard to do or achieve something.","努力；盡力"],"swap":["to take part in an exchange of.","交換"],"swapped":["to take part in an exchange of.","交換"],"exchange":["to give something and receive something of the same kind in return.","更換；交換"],"ethical":["relating to moral principles or the branch of knowledge dealing with these.","道德的；倫理的"],"unethical":["not morally correct.","不道德的"],"ethic":["a set of moral principles.","道德規範；職業道德"],"ethically":["in a way that relates to moral principles.","合乎道德地"],"alternative":["one of two or more available possibilities.","替代方案；選擇"],"alternatively":["as another option or possibility.","或者；要不然"],"consequently":["as a result.","因此；結果"],"consequence":["a result or effect of an action or condition.","後果"],"therefore":["for that reason; consequently.","因此"],"trend":["a general direction in which something is developing or changing.","趨勢；潮流"],"trending":["to change or develop in a general direction.","趨向"],"trendy":["very fashionable or up to date in style or influence.","時髦的"],"profitable":["yielding profit or financial gain.","有利可圖的；賺錢的"],"profitably":["in a way that yields profit or financial gain.","獲利地"],"lucrative":["producing a great deal of profit.","賺錢的；有利可圖的"],"versatile":["able to adapt or be adapted to many different functions or activities.","多用途的；多才多藝的"],"versatility":["ability to adapt or be adapted to many different functions or activities.","多功能性"],"roasts":["to cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire.","烘烤"],"roast":["to cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire.","烘烤"],"bake":["to cook (food) by dry heat without direct exposure to a flame, typically in an oven.","烘焙"],"boil":["to reach or cause to reach the temperature at which it bubbles and turns to vapor.","煮沸"],"fry":["to cook (food) in hot fat or oil, typically in a shallow pan.","油炸；煎"],"grill":["to cook (something) using a grill.","燒烤"],"steam":["to cook (food) by heating it in steam from boiling water.","蒸"],"horizon":["the line at which the earth's surface and the sky appear to meet.","地平線"]});

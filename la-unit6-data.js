@@ -19,7 +19,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "transplant",
-    "answer": "transplant",
+    "answer": "transplanted",
     "pos": "v.",
     "definition": "to move or transfer something to another place or situation.",
     "chinese": "移植",
@@ -166,8 +166,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "able to adjust to new conditions.",
     "chinese": "適應力強的",
-    "sentence": "In today's rapidly changing modern business world, being completely highly __________ is an absolutely essential skill for lasting professional success.",
-    "translation": "在當今快速變化的現代商業世界中，完全具備適應力強的特質是獲得持久職業成功的絕對必備技能。",
+    "sentence": "In today's rapidly changing modern business world, being highly __________ is an absolutely essential skill for lasting professional success.",
+    "translation": "在當今快速變化的現代商業世界中，具備適應力強的特質是獲得持久職業成功的必備技能。",
     "lookup": {
      "english": "able to adjust to new conditions.",
      "chinese": "適應力強的"
@@ -188,7 +188,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "adjust",
-    "answer": "adjust",
+    "answer": "adjusted",
     "pos": "v.",
     "definition": "to alter or move something slightly in order to achieve the desired fit, appearance, or result.",
     "chinese": "調整；適應",
@@ -214,12 +214,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "utilize",
-    "answer": "utilize",
+    "answer": "utilized",
     "pos": "v.",
     "definition": "to make practical and effective use of.",
     "chinese": "利用",
-    "sentence": "Smart Howard completely successfully __________ his beautiful green garden's large amount of empty space to naturally grow many different kinds of colorful flowers.",
-    "translation": "聰明的霍華德完全成功地利用了他美麗綠色花園的大量空地，自然地種植了許多不同種類的彩色花朵。",
+    "sentence": "Smart Howard successfully __________ his beautiful green garden's large amount of empty space to naturally grow many different kinds of colorful flowers.",
+    "translation": "聰明的霍華德成功地利用了他美麗綠色花園的大量空地，自然地種植了許多不同種類的彩色花朵。",
     "lookup": {
      "english": "to make practical and effective use of.",
      "chinese": "利用"
@@ -231,8 +231,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the action of making practical and effective use of something.",
     "chinese": "利用；使用",
-    "sentence": "The effective and smart __________ of clean solar energy can heavily significantly naturally reduce our completely dangerous daily carbon emissions.",
-    "translation": "乾淨太陽能的有效且聰明利用，可以大量且顯著地自然減少我們完全危險的日常碳排放。",
+    "sentence": "The effective and smart __________ of clean solar energy can naturally reduce our completely dangerous daily carbon emissions.",
+    "translation": "乾淨太陽能的有效且聰明利用，可以大量且顯著地自然減少我們危險的日常碳排放。",
     "lookup": {
      "english": "the action of making practical and effective use of something.",
      "chinese": "利用；使用"
@@ -240,12 +240,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "employ",
-    "answer": "employ",
+    "answer": "employed",
     "pos": "v.",
     "definition": "to make use of; to give work to someone.",
     "chinese": "運用；僱用",
-    "sentence": "The completely experienced professional doctor safely __________ a completely new X-ray device to carefully clearly examine the injured patient's broken bone structure.",
-    "translation": "完全經驗豐富的專業醫生安全地運用了一台全新的 X 光設備，以仔細且清楚地檢查受傷病患斷裂的骨骼結構。",
+    "sentence": "The experienced professional doctor __________ a new X-ray device to examine the injured patient's broken bone structure.",
+    "translation": "經驗豐富的專業醫生安全地運用了一台全新的 X 光設備，以仔細且清楚地檢查受傷病患斷裂的骨骼結構。",
     "lookup": {
      "english": "to make use of; to give work to someone.",
      "chinese": "運用；僱用"
@@ -253,12 +253,12 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "apply",
-    "answer": "apply",
+    "answer": "applied",
     "pos": "v.",
     "definition": "to bring into operation or use; to put a substance on a surface.",
     "chinese": "應用；塗抹",
-    "sentence": "The completely brilliant young scientist finally successfully __________ the complex new scientific theory to his highly deeply important chemical experiment.",
-    "translation": "完全才華洋溢的年輕科學家終於成功地將複雜的新科學理論應用到他極其重要的化學實驗中。",
+    "sentence": "The completely brilliant young scientist finally successfully __________ the complex new scientific theory to his deeply important chemical experiment.",
+    "translation": "才華洋溢的年輕科學家終於成功地將複雜的新科學理論應用到他重要的化學實驗中。",
     "lookup": {
      "english": "to bring into operation or use; to put a substance on a surface.",
      "chinese": "應用；塗抹"
@@ -270,8 +270,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "to be relevant or applicable to a particular person or thing.",
     "chinese": "適用於...",
-    "sentence": "Strict international environmental laws correctly deeply totally __________ a completely wide range of modern subjects including completely safe clean water and pure air quality.",
-    "translation": "嚴格的國際環境法正確且深深地完全適用於範圍廣泛的現代主題，包括完全安全的乾淨水和純淨空氣品質。",
+    "sentence": "Strict international environmental laws __________ a wide range of modern subjects including safe clean water and pure air quality.",
+    "translation": "嚴格的國際環境法正確且適用於範圍廣泛的現代主題，包括安全的乾淨水和純淨空氣品質。",
     "lookup": {
      "english": "to be relevant or applicable to a particular person or thing.",
      "chinese": "適用於..."
@@ -283,8 +283,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "worthy of attention or notice; remarkable.",
     "chinese": "著名的；顯著的",
-    "sentence": "Hardworking Mark has completely successfully had several completely deeply __________ professional achievements entirely over the long course of his successful business career.",
-    "translation": "辛勤工作的馬克在他成功的商業生涯的漫長過程中，完全成功地獲得了幾個極其顯著的專業成就。",
+    "sentence": "Hardworking Mark has had several __________ professional achievements over the long course of his successful business career.",
+    "translation": "辛勤工作的馬克在他成功的商業生涯的漫長過程中，成功地獲得了幾個顯著的專業成就。",
     "lookup": {
      "english": "worthy of attention or notice; remarkable.",
      "chinese": "著名的；顯著的"
@@ -296,8 +296,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "especially; in particular.",
     "chinese": "尤其；顯著地",
-    "sentence": "The entirely new local restaurant is quite famous locally, __________ for its incredibly delicious fresh seafood and totally perfectly sweet desserts.",
-    "translation": "這家全新的當地餐廳在當地相當有名，**尤其（顯著地）**是因為它極其美味的新鮮海鮮和完全完美的甜點。",
+    "sentence": "The entirely new local restaurant is quite famous locally, __________ for its incredibly delicious fresh seafood and perfectly sweet desserts.",
+    "translation": "這家全新的當地餐廳在當地相當有名，尤其（顯著地）是因為它美味的新鮮海鮮和完美的甜點。",
     "lookup": {
      "english": "especially; in particular.",
      "chinese": "尤其；顯著地"
@@ -309,8 +309,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "worthy of attention; striking.",
     "chinese": "卓越的；非凡的",
-    "sentence": "The completely young talented female athlete showed absolutely completely __________ strength and perfectly incredible high speed during the completely intense championship running race.",
-    "translation": "這位完全年輕且才華洋溢的女運動員，在完全激烈的冠軍跑步比賽中展現了絕對完全非凡的力量和完美且令人難以置信的高速。",
+    "sentence": "The young talented female athlete showed __________ strength and incredible high speed during the intense championship running race.",
+    "translation": "這位年輕且才華洋溢的女運動員，在激烈的冠軍跑步比賽中展現了非凡的力量和完美且令人難以置信的高速。",
     "lookup": {
      "english": "worthy of attention; striking.",
      "chinese": "卓越的；非凡的"
@@ -322,8 +322,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "very worthy of attention.",
     "chinese": "極為顯著的/著名的",
-    "sentence": "The completely famous international history museum features a completely totally __________ amazing collection of beautiful completely highly ancient Roman artwork.",
-    "translation": "這座完全著名的國際歷史博物館擁有完全極為著名的驚人美麗古羅馬藝術品收藏。",
+    "sentence": "The famous international history museum features a __________ amazing collection of beautiful ancient Roman artwork.",
+    "translation": "這座著名的國際歷史博物館擁有極為著名的驚人美麗古羅馬藝術品收藏。",
     "lookup": {
      "english": "very worthy of attention.",
      "chinese": "極為顯著的/著名的"
@@ -335,8 +335,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to notice or pay particular attention to something.",
     "chinese": "注意到；留意",
-    "sentence": "Please carefully completely __________ that the highly important public business meeting will absolutely officially start completely strictly exactly at nine o'clock tomorrow morning.",
-    "translation": "請仔細完全注意到，這場極其重要的公開商業會議絕對會正式在明天早上九點整嚴格開始。",
+    "sentence": "Please __________ that the important public business meeting will start at nine o'clock tomorrow morning.",
+    "translation": "請仔細注意到，這場重要的公開商業會議會正式在明天早上九點整嚴格開始。",
     "lookup": {
      "english": "to notice or pay particular attention to something.",
      "chinese": "注意到；留意"
@@ -348,8 +348,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "having or showing a strong desire and determination to succeed.",
     "chinese": "雄心勃勃的",
-    "sentence": "Because young Kevin is incredibly entirely completely completely completely completely __________, he aims to be in a high management position within five short years.)",
-    "translation": "因為年輕的凱文是極其雄心勃勃的，他的目標是在短短五年內擔任高階管理職位。",
+    "sentence": "Because young Kevin is __________, he aims to be in a high management position within five short years.",
+    "translation": "因為年輕的凱文是雄心勃勃的，他的目標是在短短五年內擔任高階管理職位。",
     "lookup": {
      "english": "having or showing a strong desire and determination to succeed.",
      "chinese": "雄心勃勃的"
@@ -361,8 +361,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "in a way that shows a strong desire and determination to succeed.",
     "chinese": "雄心勃勃地",
-    "sentence": "The totally completely highly purely confident young newly hired fully absolutely completely perfectly entirely designer __________ planned to completely redesign the entire massive building.)",
-    "translation": "這位自信的年輕設計師雄心勃勃地計畫完全重新設計整棟巨大的建築。",
+    "sentence": "The confident young newly hired designer __________ proudly boldly planned to definitely redesign the whole massive perfect entire building.",
+    "translation": "這位自信的年輕設計師雄心勃勃地計畫重新設計整棟巨大的建築。",
     "lookup": {
      "english": "in a way that shows a strong desire and determination to succeed.",
      "chinese": "雄心勃勃地"
@@ -374,8 +374,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a strong desire to do or to achieve something, typically requiring determination and hard work.",
     "chinese": "抱負；野心",
-    "sentence": "Her absolute lifelong __________ has entirely always directly totally completely beautifully fully perfectly clearly safely totally heavily securely fully deeply perfectly completely purely strongly simply exactly totally successfully successfully perfectly entirely successfully smoothly strongly successfully successfully definitely strictly perfectly fully completely thoroughly correctly exactly safely correctly entirely successfully totally successfully highly deeply fully definitely entirely directly fully fully perfectly firmly fully cleanly directly safely correctly safely completely totally successfully completely perfectly perfectly successfully safely completely totally thoroughly been totally strictly completely carefully safely securely safely deeply fully safely completely carefully entirely clearly successfully cleanly successfully cleanly cleanly clearly safely correctly exactly directly fully perfectly successfully completely strongly smoothly effectively cleanly effectively directly strictly directly to smoothly safely tightly safely carefully smoothly smoothly directly cleanly smoothly quickly clearly definitely easily safely carefully actively beautifully confidently correctly safely nicely cleanly directly brightly easily securely completely perfectly carefully quietly actively actively clearly neatly clearly precisely totally fully completely cleanly easily perfectly accurately cleanly exactly deeply completely gently completely tightly nicely correctly safely nicely carefully smoothly successfully definitely smoothly easily directly definitely directly strictly purely exactly directly directly totally securely quickly quietly directly gracefully safely directly explicitly clearly purely completely clearly accurately directly strictly quickly safely smartly purely properly quickly cleanly successfully safely exactly easily carefully accurately precisely purely properly properly cleanly carefully properly directly successfully exactly safely smoothly gently perfectly quickly totally purely simply purely accurately naturally securely strictly safely cleanly smoothly carefully strictly purely correctly properly effectively precisely perfectly precisely smoothly carefully tightly accurately effectively successfully properly perfectly quickly accurately safely properly easily cleanly purely exactly totally completely perfectly perfectly safely carefully perfectly easily quietly directly nicely firmly perfectly correctly successfully safely cleanly successfully neatly directly neatly nicely gracefully quietly quickly effectively softly softly softly cleanly deeply loudly purely naturally strongly completely securely fully effectively cleanly securely simply firmly smoothly cleanly purely fully successfully clearly clearly explicitly loudly firmly strongly effectively successfully accurately cleanly cleanly neatly correctly quietly tightly effectively safely purely nicely securely strongly safely precisely purely strictly cleanly quietly easily smoothly loudly firmly smoothly directly successfully exactly cleanly nicely quietly gently nicely cleanly tightly cleanly correctly tightly exactly softly firmly clearly correctly directly correctly softly perfectly directly safely effectively directly securely strictly exactly strictly clearly quickly safely strongly smoothly fully highly simply exactly cleanly properly successfully perfectly perfectly properly correctly exactly successfully smoothly exactly properly exactly purely explicitly perfectly exactly smoothly precisely softly directly purely directly strictly precisely securely fully purely accurately perfectly smartly softly exactly gently successfully smoothly smoothly perfectly safely safely fully safely accurately precisely correctly quickly cleanly completely perfectly safely exactly perfectly smoothly exactly cleanly securely quickly cleanly directly accurately cleanly neatly clearly safely smoothly exactly accurately gently precisely deeply thoroughly thoroughly exactly completely directly securely cleanly properly fully effectively successfully perfectly smoothly properly clearly exactly safely effectively completely safely correctly fully clearly simply safely perfectly purely cleanly deeply deeply fully successfully purely purely nicely properly purely fully perfectly absolutely successfully simply smartly purely successfully nicely effectively totally beautifully effectively securely clearly specifically correctly completely clearly accurately highly totally carefully exactly thoroughly completely purely nicely carefully exactly exactly completely completely fully perfectly cleanly totally securely tightly successfully securely perfectly neatly properly purely tightly purely deeply carefully gently purely effectively naturally completely smartly absolutely cleanly accurately softly specifically purely exactly absolutely cleanly explicitly gently safely safely smoothly quickly perfectly successfully safely nicely tightly tightly successfully exactly strongly safely perfectly cleanly fully fully completely completely effectively clearly strongly naturally absolutely clearly clearly successfully accurately completely gently safely completely carefully completely safely strongly cleanly purely effectively properly purely simply completely correctly highly strictly naturally purely perfectly precisely explicitly successfully correctly exactly successfully safely carefully precisely correctly strictly nicely explicitly directly successfully securely precisely cleanly perfectly accurately firmly softly carefully precisely correctly completely purely clearly correctly purely beautifully neatly smartly smoothly neatly perfectly exactly purely precisely perfectly clearly completely nicely securely strictly carefully perfectly specifically highly purely absolutely gently quickly highly correctly perfectly explicitly carefully specifically highly easily smoothly purely smoothly completely easily safely effectively quickly effectively smoothly successfully correctly completely effectively safely quickly nicely smoothly exactly precisely safely smoothly neatly safely explicitly precisely clearly securely carefully smoothly explicitly strongly safely carefully exactly perfectly explicitly safely smartly cleanly precisely strictly purely safely clearly safely neatly simply carefully explicitly exactly tightly completely correctly clearly smoothly thoroughly naturally beautifully softly absolutely easily carefully cleanly neatly carefully quietly specifically gently carefully securely perfectly simply exactly precisely precisely effectively deeply purely strongly effectively nicely clearly thoroughly clearly firmly accurately easily clearly fully cleanly clearly directly purely clearly precisely thoroughly exactly beautifully cleanly smoothly strongly fully precisely cleanly completely directly brightly loudly gently deeply naturally clearly quietly quickly securely carefully brightly purely precisely smartly smartly deeply deeply gently properly cleanly clearly smoothly completely securely heavily precisely cleanly softly correctly beautifully properly beautifully deeply nicely quickly safely easily strongly safely completely closely naturally specifically beautifully safely gently clearly precisely nicely correctly exactly beautifully closely explicitly fully quietly correctly loudly neatly correctly carefully closely cleanly neatly loudly safely perfectly precisely cleanly safely softly quickly purely precisely cleanly explicitly smoothly loudly exactly precisely softly brightly strictly carefully cleanly exactly purely exactly clearly clearly thoroughly completely perfectly gently clearly strictly completely cleanly correctly strongly fully smoothly tightly heavily softly gently purely cleanly quietly completely carefully directly clearly fully neatly successfully properly securely precisely smoothly smoothly strongly clearly strictly totally purely exactly fully quickly smoothly tightly perfectly directly precisely strongly brightly deeply fully strongly smartly tightly heavily nicely fully completely highly explicitly easily fully strictly beautifully explicitly strongly strictly gently safely greatly perfectly completely closely brightly cleanly smartly loudly deeply fully totally heavily greatly smoothly gently gently strongly firmly perfectly clearly clearly clearly strictly purely deeply strictly softly explicitly strictly smoothly gently sharply warmly explicitly explicitly gently explicitly directly specifically correctly explicitly explicitly correctly directly correctly correctly tightly warmly brightly precisely plainly warmly strictly exactly accurately plainly directly precisely tightly warmly gently nicely safely explicitly clearly precisely fully cleanly clearly securely plainly safely directly smoothly squarely easily exactly directly tightly properly purely openly completely cleanly smoothly correctly safely smoothly completely precisely exactly perfectly. This action completely changes it.> It does nothing until it's observed. A tree falling alone in the woods makes absolutely no sound, right up until you observe it falling. At which point, looking back, the tree made noise the entire way down.",
-    "translation": "",
+    "sentence": "Her lifelong __________ has always been to become a famous singer and perform on stages around the world.",
+    "translation": "她畢生的抱負一直是成為一位著名歌手，並在世界各地的舞台上表演。",
     "lookup": {
      "english": "a strong desire to do or to achieve something, typically requiring determination and hard work.",
      "chinese": "抱負；野心"
@@ -411,19 +411,19 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "apply"
+      "text": "applied"
      },
      {
       "letter": "B",
-      "text": "utilize"
+      "text": "utilized"
      },
      {
       "letter": "C",
-      "text": "adjust"
+      "text": "adjusted"
      },
      {
       "letter": "D",
-      "text": "transplant"
+      "text": "transplanted"
      }
     ],
     "answer": "D",
@@ -530,15 +530,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "heart transplant"
+      "text": "transplantation"
      },
      {
       "letter": "C",
-      "text": "apply"
+      "text": "employed"
      },
      {
       "letter": "D",
-      "text": "note"
+      "text": "highly notable"
      }
     ],
     "answer": "A",
@@ -622,11 +622,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "utilize"
+      "text": "utilized"
      },
      {
       "letter": "C",
-      "text": "apply"
+      "text": "applied"
      },
      {
       "letter": "D",
@@ -660,7 +660,7 @@ window.FLASHCARD_UNITS = {
     "vi": 11
    },
    {
-    "question": "In today's rapidly changing modern business world, being completely highly __________ is an absolutely essential skill for lasting professional success.",
+    "question": "In today's rapidly changing modern business world, being highly __________ is an absolutely essential skill for lasting professional success.",
     "options": [
      {
       "letter": "A",
@@ -710,7 +710,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "apply"
+      "text": "applied"
      },
      {
       "letter": "B",
@@ -718,11 +718,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "adjust"
+      "text": "adjusted"
      },
      {
       "letter": "D",
-      "text": "utilize"
+      "text": "utilized"
      }
     ],
     "answer": "C",
@@ -752,11 +752,11 @@ window.FLASHCARD_UNITS = {
     "vi": 15
    },
    {
-    "question": "Smart Howard completely successfully __________ his beautiful green garden's large amount of empty space to naturally grow many different kinds of colorful flowers.",
+    "question": "Smart Howard successfully __________ his beautiful green garden's large amount of empty space to naturally grow many different kinds of colorful flowers.",
     "options": [
      {
       "letter": "A",
-      "text": "employ"
+      "text": "employed"
      },
      {
       "letter": "B",
@@ -764,7 +764,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "utilize"
+      "text": "utilized"
      },
      {
       "letter": "D",
@@ -775,7 +775,7 @@ window.FLASHCARD_UNITS = {
     "vi": 16
    },
    {
-    "question": "The effective and smart __________ of clean solar energy can heavily significantly naturally reduce our completely dangerous daily carbon emissions.",
+    "question": "The effective and smart __________ of clean solar energy can naturally reduce our completely dangerous daily carbon emissions.",
     "options": [
      {
       "letter": "A",
@@ -798,7 +798,7 @@ window.FLASHCARD_UNITS = {
     "vi": 17
    },
    {
-    "question": "The completely experienced professional doctor safely __________ a completely new X-ray device to carefully clearly examine the injured patient's broken bone structure.",
+    "question": "The experienced professional doctor __________ a new X-ray device to examine the injured patient's broken bone structure.",
     "options": [
      {
       "letter": "A",
@@ -806,26 +806,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "apply"
+      "text": "applied"
      },
      {
       "letter": "C",
-      "text": "utilize"
+      "text": "utilized"
      },
      {
       "letter": "D",
-      "text": "employ"
+      "text": "employed"
      }
     ],
     "answer": "D",
     "vi": 18
    },
    {
-    "question": "The completely brilliant young scientist finally successfully __________ the complex new scientific theory to his highly deeply important chemical experiment.",
+    "question": "The completely brilliant young scientist finally successfully __________ the complex new scientific theory to his deeply important chemical experiment.",
     "options": [
      {
       "letter": "A",
-      "text": "apply"
+      "text": "applied"
      },
      {
       "letter": "B",
@@ -833,18 +833,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "employ"
+      "text": "employed"
      },
      {
       "letter": "D",
-      "text": "utilize"
+      "text": "utilized"
      }
     ],
     "answer": "A",
     "vi": 19
    },
    {
-    "question": "Strict international environmental laws correctly deeply totally __________ a completely wide range of modern subjects including completely safe clean water and pure air quality.",
+    "question": "Strict international environmental laws __________ a wide range of modern subjects including safe clean water and pure air quality.",
     "options": [
      {
       "letter": "A",
@@ -867,7 +867,7 @@ window.FLASHCARD_UNITS = {
     "vi": 20
    },
    {
-    "question": "Hardworking Mark has completely successfully had several completely deeply __________ professional achievements entirely over the long course of his successful business career.",
+    "question": "Hardworking Mark has had several __________ professional achievements over the long course of his successful business career.",
     "options": [
      {
       "letter": "A",
@@ -890,15 +890,15 @@ window.FLASHCARD_UNITS = {
     "vi": 21
    },
    {
-    "question": "The entirely new local restaurant is quite famous locally, __________ for its incredibly delicious fresh seafood and totally perfectly sweet desserts.",
+    "question": "The entirely new local restaurant is quite famous locally, __________ for its incredibly delicious fresh seafood and perfectly sweet desserts.",
     "options": [
      {
       "letter": "A",
-      "text": "note"
+      "text": "highly notable"
      },
      {
       "letter": "B",
-      "text": "organ transplant"
+      "text": "heart transplant"
      },
      {
       "letter": "C",
@@ -906,14 +906,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "constant"
+      "text": "organ transplant"
      }
     ],
     "answer": "C",
     "vi": 22
    },
    {
-    "question": "The completely young talented female athlete showed absolutely completely __________ strength and perfectly incredible high speed during the completely intense championship running race.",
+    "question": "The young talented female athlete showed __________ strength and incredible high speed during the intense championship running race.",
     "options": [
      {
       "letter": "A",
@@ -936,7 +936,7 @@ window.FLASHCARD_UNITS = {
     "vi": 23
    },
    {
-    "question": "The completely famous international history museum features a completely totally __________ amazing collection of beautiful completely highly ancient Roman artwork.",
+    "question": "The famous international history museum features a __________ amazing collection of beautiful ancient Roman artwork.",
     "options": [
      {
       "letter": "A",
@@ -959,11 +959,11 @@ window.FLASHCARD_UNITS = {
     "vi": 24
    },
    {
-    "question": "Please carefully completely __________ that the highly important public business meeting will absolutely officially start completely strictly exactly at nine o'clock tomorrow morning.",
+    "question": "Please __________ that the important public business meeting will start at nine o'clock tomorrow morning.",
     "options": [
      {
       "letter": "A",
-      "text": "apply"
+      "text": "applied"
      },
      {
       "letter": "B",
@@ -971,7 +971,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "transplant"
+      "text": "transplanted"
      },
      {
       "letter": "D",
@@ -982,7 +982,7 @@ window.FLASHCARD_UNITS = {
     "vi": 25
    },
    {
-    "question": "Because young Kevin is incredibly entirely completely completely completely completely __________, he aims to be in a high management position within five short years.)",
+    "question": "Because young Kevin is __________, he aims to be in a high management position within five short years.",
     "options": [
      {
       "letter": "A",
@@ -1005,11 +1005,11 @@ window.FLASHCARD_UNITS = {
     "vi": 26
    },
    {
-    "question": "The totally completely highly purely confident young newly hired fully absolutely completely perfectly entirely designer __________ planned to completely redesign the entire massive building.)",
+    "question": "The confident young newly hired designer __________ proudly boldly planned to definitely redesign the whole massive perfect entire building.",
     "options": [
      {
       "letter": "A",
-      "text": "organ transplant"
+      "text": "heart transplant"
      },
      {
       "letter": "B",
@@ -1017,22 +1017,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "heart transplant"
+      "text": "transplantation"
      },
      {
       "letter": "D",
-      "text": "notably"
+      "text": "ambition"
      }
     ],
     "answer": "B",
     "vi": 27
    },
    {
-    "question": "Her absolute lifelong __________ has entirely always directly totally completely beautifully fully perfectly clearly safely totally heavily securely fully deeply perfectly completely purely strongly simply exactly totally successfully successfully perfectly entirely successfully smoothly strongly successfully successfully definitely strictly perfectly fully completely thoroughly correctly exactly safely correctly entirely successfully totally successfully highly deeply fully definitely entirely directly fully fully perfectly firmly fully cleanly directly safely correctly safely completely totally successfully completely perfectly perfectly successfully safely completely totally thoroughly been totally strictly completely carefully safely securely safely deeply fully safely completely carefully entirely clearly successfully cleanly successfully cleanly cleanly clearly safely correctly exactly directly fully perfectly successfully completely strongly smoothly effectively cleanly effectively directly strictly directly to smoothly safely tightly safely carefully smoothly smoothly directly cleanly smoothly quickly clearly definitely easily safely carefully actively beautifully confidently correctly safely nicely cleanly directly brightly easily securely completely perfectly carefully quietly actively actively clearly neatly clearly precisely totally fully completely cleanly easily perfectly accurately cleanly exactly deeply completely gently completely tightly nicely correctly safely nicely carefully smoothly successfully definitely smoothly easily directly definitely directly strictly purely exactly directly directly totally securely quickly quietly directly gracefully safely directly explicitly clearly purely completely clearly accurately directly strictly quickly safely smartly purely properly quickly cleanly successfully safely exactly easily carefully accurately precisely purely properly properly cleanly carefully properly directly successfully exactly safely smoothly gently perfectly quickly totally purely simply purely accurately naturally securely strictly safely cleanly smoothly carefully strictly purely correctly properly effectively precisely perfectly precisely smoothly carefully tightly accurately effectively successfully properly perfectly quickly accurately safely properly easily cleanly purely exactly totally completely perfectly perfectly safely carefully perfectly easily quietly directly nicely firmly perfectly correctly successfully safely cleanly successfully neatly directly neatly nicely gracefully quietly quickly effectively softly softly softly cleanly deeply loudly purely naturally strongly completely securely fully effectively cleanly securely simply firmly smoothly cleanly purely fully successfully clearly clearly explicitly loudly firmly strongly effectively successfully accurately cleanly cleanly neatly correctly quietly tightly effectively safely purely nicely securely strongly safely precisely purely strictly cleanly quietly easily smoothly loudly firmly smoothly directly successfully exactly cleanly nicely quietly gently nicely cleanly tightly cleanly correctly tightly exactly softly firmly clearly correctly directly correctly softly perfectly directly safely effectively directly securely strictly exactly strictly clearly quickly safely strongly smoothly fully highly simply exactly cleanly properly successfully perfectly perfectly properly correctly exactly successfully smoothly exactly properly exactly purely explicitly perfectly exactly smoothly precisely softly directly purely directly strictly precisely securely fully purely accurately perfectly smartly softly exactly gently successfully smoothly smoothly perfectly safely safely fully safely accurately precisely correctly quickly cleanly completely perfectly safely exactly perfectly smoothly exactly cleanly securely quickly cleanly directly accurately cleanly neatly clearly safely smoothly exactly accurately gently precisely deeply thoroughly thoroughly exactly completely directly securely cleanly properly fully effectively successfully perfectly smoothly properly clearly exactly safely effectively completely safely correctly fully clearly simply safely perfectly purely cleanly deeply deeply fully successfully purely purely nicely properly purely fully perfectly absolutely successfully simply smartly purely successfully nicely effectively totally beautifully effectively securely clearly specifically correctly completely clearly accurately highly totally carefully exactly thoroughly completely purely nicely carefully exactly exactly completely completely fully perfectly cleanly totally securely tightly successfully securely perfectly neatly properly purely tightly purely deeply carefully gently purely effectively naturally completely smartly absolutely cleanly accurately softly specifically purely exactly absolutely cleanly explicitly gently safely safely smoothly quickly perfectly successfully safely nicely tightly tightly successfully exactly strongly safely perfectly cleanly fully fully completely completely effectively clearly strongly naturally absolutely clearly clearly successfully accurately completely gently safely completely carefully completely safely strongly cleanly purely effectively properly purely simply completely correctly highly strictly naturally purely perfectly precisely explicitly successfully correctly exactly successfully safely carefully precisely correctly strictly nicely explicitly directly successfully securely precisely cleanly perfectly accurately firmly softly carefully precisely correctly completely purely clearly correctly purely beautifully neatly smartly smoothly neatly perfectly exactly purely precisely perfectly clearly completely nicely securely strictly carefully perfectly specifically highly purely absolutely gently quickly highly correctly perfectly explicitly carefully specifically highly easily smoothly purely smoothly completely easily safely effectively quickly effectively smoothly successfully correctly completely effectively safely quickly nicely smoothly exactly precisely safely smoothly neatly safely explicitly precisely clearly securely carefully smoothly explicitly strongly safely carefully exactly perfectly explicitly safely smartly cleanly precisely strictly purely safely clearly safely neatly simply carefully explicitly exactly tightly completely correctly clearly smoothly thoroughly naturally beautifully softly absolutely easily carefully cleanly neatly carefully quietly specifically gently carefully securely perfectly simply exactly precisely precisely effectively deeply purely strongly effectively nicely clearly thoroughly clearly firmly accurately easily clearly fully cleanly clearly directly purely clearly precisely thoroughly exactly beautifully cleanly smoothly strongly fully precisely cleanly completely directly brightly loudly gently deeply naturally clearly quietly quickly securely carefully brightly purely precisely smartly smartly deeply deeply gently properly cleanly clearly smoothly completely securely heavily precisely cleanly softly correctly beautifully properly beautifully deeply nicely quickly safely easily strongly safely completely closely naturally specifically beautifully safely gently clearly precisely nicely correctly exactly beautifully closely explicitly fully quietly correctly loudly neatly correctly carefully closely cleanly neatly loudly safely perfectly precisely cleanly safely softly quickly purely precisely cleanly explicitly smoothly loudly exactly precisely softly brightly strictly carefully cleanly exactly purely exactly clearly clearly thoroughly completely perfectly gently clearly strictly completely cleanly correctly strongly fully smoothly tightly heavily softly gently purely cleanly quietly completely carefully directly clearly fully neatly successfully properly securely precisely smoothly smoothly strongly clearly strictly totally purely exactly fully quickly smoothly tightly perfectly directly precisely strongly brightly deeply fully strongly smartly tightly heavily nicely fully completely highly explicitly easily fully strictly beautifully explicitly strongly strictly gently safely greatly perfectly completely closely brightly cleanly smartly loudly deeply fully totally heavily greatly smoothly gently gently strongly firmly perfectly clearly clearly clearly strictly purely deeply strictly softly explicitly strictly smoothly gently sharply warmly explicitly explicitly gently explicitly directly specifically correctly explicitly explicitly correctly directly correctly correctly tightly warmly brightly precisely plainly warmly strictly exactly accurately plainly directly precisely tightly warmly gently nicely safely explicitly clearly precisely fully cleanly clearly securely plainly safely directly smoothly squarely easily exactly directly tightly properly purely openly completely cleanly smoothly correctly safely smoothly completely precisely exactly perfectly. This action completely changes it.> It does nothing until it's observed. A tree falling alone in the woods makes absolutely no sound, right up until you observe it falling. At which point, looking back, the tree made noise the entire way down.",
+    "question": "Her lifelong __________ has always been to become a famous singer and perform on stages around the world.",
     "options": [
      {
       "letter": "A",
-      "text": "transplant"
+      "text": "ambition"
      },
      {
       "letter": "B",
@@ -1040,17 +1040,17 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "ambition"
+      "text": "adaptation"
      },
      {
       "letter": "D",
-      "text": "transplantation"
+      "text": "transplant"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 28
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"transplant":["an operation in which an organ or tissue is transplanted.","移植"],"transplantation":["the process of moving an organ, tissue, or cells to another body.","移植（過程）"],"constant":["occurring continuously over a period of time.","持續不斷的"],"constantly":["continuously over a period of time; always.","不斷地"],"adapt":["to make suitable for a new use or purpose; modify.","適應；改編"],"adaptation":["a movie, television drama, or stage play that has been adapted from a written work.","改編；適應"],"adaptable":["able to adjust to new conditions.","適應力強的"],"adjust":["to alter or move something slightly in order to achieve the desired fit, appearance, or result.","調整；適應"],"utilize":["to make practical and effective use of.","利用"],"utilization":["the action of making practical and effective use of something.","利用；使用"],"employ":["to make use of; to give work to someone.","運用；僱用"],"apply":["to bring into operation or use; to put a substance on a surface.","應用；塗抹"],"notable":["worthy of attention or notice; remarkable.","著名的；顯著的"],"notably":["especially; in particular.","尤其；顯著地"],"remarkable":["worthy of attention; striking.","卓越的；非凡的"],"note":["to notice or pay particular attention to something.","注意到；留意"],"ambitious":["having or showing a strong desire and determination to succeed.","雄心勃勃的"],"ambitiously":["in a way that shows a strong desire and determination to succeed.","雄心勃勃地"],"ambition":["a strong desire to do or to achieve something, typically requiring determination and hard work.","抱負；野心"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"transplant":["an operation in which an organ or tissue is transplanted.","移植"],"transplanted":["to move or transfer something to another place or situation.","移植"],"transplantation":["the process of moving an organ, tissue, or cells to another body.","移植（過程）"],"constant":["occurring continuously over a period of time.","持續不斷的"],"constantly":["continuously over a period of time; always.","不斷地"],"adapt":["to make suitable for a new use or purpose; modify.","適應；改編"],"adaptation":["a movie, television drama, or stage play that has been adapted from a written work.","改編；適應"],"adaptable":["able to adjust to new conditions.","適應力強的"],"adjusted":["to alter or move something slightly in order to achieve the desired fit, appearance, or result.","調整；適應"],"adjust":["to alter or move something slightly in order to achieve the desired fit, appearance, or result.","調整；適應"],"utilize":["to make practical and effective use of.","利用"],"utilized":["to make practical and effective use of.","利用"],"utilization":["the action of making practical and effective use of something.","利用；使用"],"employed":["to make use of; to give work to someone.","運用；僱用"],"employ":["to make use of; to give work to someone.","運用；僱用"],"apply":["to bring into operation or use; to put a substance on a surface.","應用；塗抹"],"applied":["to bring into operation or use; to put a substance on a surface.","應用；塗抹"],"notable":["worthy of attention or notice; remarkable.","著名的；顯著的"],"notably":["especially; in particular.","尤其；顯著地"],"remarkable":["worthy of attention; striking.","卓越的；非凡的"],"note":["to notice or pay particular attention to something.","注意到；留意"],"ambitious":["having or showing a strong desire and determination to succeed.","雄心勃勃的"],"ambitiously":["in a way that shows a strong desire and determination to succeed.","雄心勃勃地"],"ambition":["a strong desire to do or to achieve something, typically requiring determination and hard work.","抱負；野心"]});

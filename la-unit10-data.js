@@ -200,8 +200,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "have a keen eye have a keen eye for",
-    "answer": "have a keen eye have a keen eye for",
+    "word": "have a keen eye / have a keen eye for",
+    "answer": "had a keen eye for",
     "pos": "phr.",
     "definition": "to possess an exceptional ability to notice, detect, or evaluate small details or quality",
     "chinese": "具有敏銳的眼光",
@@ -253,7 +253,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "be eager to v",
-    "answer": "is eager to",
+    "answer": "was very eager to",
     "pos": "phr.",
     "definition": "to feel intense enthusiasm or impatience to perform a specific action or achieve a goal",
     "chinese": "渴望做某事",
@@ -296,7 +296,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the physical phenomenon produced by the motion of electric charge, resulting in attractive forces",
     "chinese": "磁力；磁性",
-    "sentence": "The science class conducted an experiment to study the invisible force of __________。",
+    "sentence": "The science class conducted an experiment to study the invisible force of __________.",
     "translation": "理化課進行了一項實驗，以研究磁力這種看不見的力量。",
     "lookup": {
      "english": "the physical phenomenon produced by the motion of electric charge, resulting in attractive forces",
@@ -348,7 +348,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the quality of being committed to a task or purpose",
     "chinese": "奉獻精神；專注",
-    "sentence": "Success in learning a new language requires lots of hard work and constant __________。",
+    "sentence": "Success in learning a new language requires lots of hard work and constant __________.",
     "translation": "成功學習一門新語言需要大量的努力和持續的專注。",
     "lookup": {
      "english": "the quality of being committed to a task or purpose",
@@ -556,7 +556,7 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "extremely unpleasant or unacceptable, causing strong dislike",
     "chinese": "令人噁心的；糟糕的",
-    "sentence": "Leaving your dirty dishes in the kitchen sink for a week is absolutely __________。",
+    "sentence": "Leaving your dirty dishes in the kitchen sink for a week is absolutely __________.",
     "translation": "把你髒的水槽碗盤在廚房放一個星期絕對是令人噁心的行為。",
     "lookup": {
      "english": "extremely unpleasant or unacceptable, causing strong dislike",
@@ -838,7 +838,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "conduct oneself",
-    "answer": "conduct",
+    "answer": "conducted himself",
     "pos": "phr.",
     "definition": "to behave in a particular specified way in a social setting",
     "chinese": "表現自己；舉止",
@@ -928,8 +928,8 @@ window.FLASHCARD_UNITS = {
     }
    },
    {
-    "word": "symmetric symmetrical",
-    "answer": "symmetric",
+    "word": "symmetric / symmetrical",
+    "answer": "symmetric / symmetrical",
     "pos": "adj.",
     "definition": "made up of exactly similar parts facing each other or around an axis; balanced",
     "chinese": "對稱的",
@@ -1229,11 +1229,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "conduct"
+      "text": "conducted himself"
      },
      {
       "letter": "D",
-      "text": "symmetric"
+      "text": "symmetric / symmetrical"
      }
     ],
     "answer": "B",
@@ -1478,7 +1478,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "have a keen eye have a keen eye for"
+      "text": "had a keen eye for"
      },
      {
       "letter": "C",
@@ -1574,11 +1574,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "is eager to"
+      "text": "was very eager to"
      },
      {
       "letter": "D",
-      "text": "conduct"
+      "text": "conducted himself"
      }
     ],
     "answer": "C",
@@ -1631,7 +1631,7 @@ window.FLASHCARD_UNITS = {
     "vi": 21
    },
    {
-    "question": "The science class conducted an experiment to study the invisible force of __________。",
+    "question": "The science class conducted an experiment to study the invisible force of __________.",
     "options": [
      {
       "letter": "A",
@@ -1723,7 +1723,7 @@ window.FLASHCARD_UNITS = {
     "vi": 25
    },
    {
-    "question": "Success in learning a new language requires lots of hard work and constant __________。",
+    "question": "Success in learning a new language requires lots of hard work and constant __________.",
     "options": [
      {
       "letter": "A",
@@ -1750,7 +1750,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "conduct"
+      "text": "conducted himself"
      },
      {
       "letter": "B",
@@ -1785,7 +1785,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "conduct"
+      "text": "conducted himself"
      }
     ],
     "answer": "B",
@@ -1804,7 +1804,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "is eager to"
+      "text": "was very eager to"
      },
      {
       "letter": "D",
@@ -1911,7 +1911,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "symmetric"
+      "text": "symmetric / symmetrical"
      },
      {
       "letter": "B",
@@ -1919,7 +1919,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "have a keen eye have a keen eye for"
+      "text": "had a keen eye for"
      },
      {
       "letter": "D",
@@ -2003,7 +2003,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "is eager to"
+      "text": "was very eager to"
      },
      {
       "letter": "B",
@@ -2091,7 +2091,7 @@ window.FLASHCARD_UNITS = {
     "vi": 41
    },
    {
-    "question": "Leaving your dirty dishes in the kitchen sink for a week is absolutely __________。",
+    "question": "Leaving your dirty dishes in the kitchen sink for a week is absolutely __________.",
     "options": [
      {
       "letter": "A",
@@ -2291,7 +2291,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "have a keen eye have a keen eye for"
+      "text": "had a keen eye for"
      }
     ],
     "answer": "B",
@@ -2310,7 +2310,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "conduct"
+      "text": "conducted himself"
      },
      {
       "letter": "D",
@@ -2486,7 +2486,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "have a keen eye have a keen eye for"
+      "text": "had a keen eye for"
      },
      {
       "letter": "B",
@@ -2605,7 +2605,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "conduct"
+      "text": "conducted himself"
      },
      {
       "letter": "C",
@@ -2762,7 +2762,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "symmetric"
+      "text": "symmetric / symmetrical"
      },
      {
       "letter": "B",
@@ -2950,7 +2950,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "is eager to"
+      "text": "was very eager to"
      },
      {
       "letter": "C",
@@ -3105,4 +3105,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"navigate":["to find a choice direction across an area of land, sky, or sea","導航；領航；瀏覽"],"navigation":["the act of directing the course of a ship, aircraft, or vehicle","導航；航海"],"navigator":["a person who is responsible for directing the route of a ship or aircraft","領航員；導航員"],"satellite":["an electronic device sent into space to gather information or send signals","衛星"],"primitive":["relating to the earliest stage of evolutionary or historical development","原始的；落後的"],"ancient":["belonging to the very distant past and no longer in existence","古老的；古代的"],"ancestors":["a person from whom one is descended, typically more remote than a grandparent","祖先"],"ancestor":["a person from whom one is descended, typically more remote than a grandparent","祖先"],"descendant":["a person who is related to a particular ancestor who lived in the past","後代；子孫"],"descendants":["a person who is related to a particular ancestor who lived in the past","後代；子孫"],"reliable":["consistently good in quality or performance; able to be trusted","可靠的；值得信賴的"],"acute":["present or experienced to a severe or intense degree; sharp or keen","敏銳的；急性的；嚴重的"],"keen":["having or showing eagerness or enthusiasm; sharp or penetrating","敏銳的；熱衷的"],"eager":["strongly wanting to do or have something, or showing keen interest and impatience","渴望的；熱切的"],"magnetic":["having the properties of a magnet, or exerting a strong attractive power","磁性的；具吸引力的"],"magnet":["a piece of iron or steel that attracts objects containing iron","磁鐵"],"magnetism":["the physical phenomenon produced by the motion of electric charge, resulting in attractive forces","磁力；磁性"],"dedicated":["to give entirely to a specific person, activity, or social cause","奉獻；致力於"],"dedicate":["to give entirely to a specific person, activity, or social cause","奉獻；致力於"],"dedication":["the quality of being committed to a task or purpose","奉獻精神；專注"],"devote":["to give an entire amount of one's time, effort, or financial resources to something","奉獻；投入（時間/精力）"],"devoted":["extremely loyal, loving, and steadfast in supporting a person, group, or belief","忠實的；全心全意的"],"commit":["to officially allocate money or resources, or to make a firm decision to do something","投入（資源）；承諾（動詞）"],"committed":["loyal and willing to give your absolute support to a specific organization, ideology, or job","盡責的；堅定投入的"],"pursuit":["the act of following or searching for someone or something, or an occupation","追求；消遣"],"pursue":["to follow or chase after something in order to catch or achieve it","追求；從事（職業）"],"disgust":["a feeling of strong disapproval or dislike caused by something unpleasant","厭惡；反感"],"disgusted":["to cause someone to feel strong disapproval, dislike, or nausea","使人厭惡；使嘔心"],"disgusting":["extremely unpleasant or unacceptable, causing strong dislike","令人噁心的；糟糕的"],"nutrient":["a substance that provides nourishment essential for growth and the maintenance of life","營養素；養分"],"nutrients":["a substance that provides nourishment essential for growth and the maintenance of life","營養素；養分"],"nutrition":["the process of providing or obtaining the food necessary for health and growth","營養"],"indispensable":["absolutely necessary or essential, not to be omitted or ignored","不可或缺的"],"essential":["absolutely necessary; extremely important in a fundamental way","必要的；不可或缺的"],"fundamental":["forming a necessary base or core; of central importance","基礎的；根本的"],"storage":["the action or method of keeping something for future use in a safe place","儲藏；儲存"],"store":["to keep or collect something in a safe place for future use","儲存；存放"],"expertise":["expert skill or knowledge in a particular academic or practical field","專業知識；專長"],"expert":["a person who has a comprehensive and authoritative knowledge of a skill","專家"],"collector":["a person who collects things of a specified type as a hobby or investment","收集家；收藏家"],"collect":["to gather together items of a specific type from different sources","收集；收藏"],"collection":["a group of things that have been gathered together by a choice person","收藏品"],"scent":["a distinctive smell, especially one that is pleasant or fragrant","香味；氣味"],"attribute":["a quality or feature regarded as a characteristic or inherent part of someone or something","特質；屬性"],"attribution":["the action of ascribing a work or remark to a particular author, artist, or person","歸屬；因果歸屬"],"quality":["a distinctive attribute or characteristic possessed by someone or something","品質；特質"],"conduct":["to organize and carry out an activity, or to behave in a specific way","執行（任務）；進行（調查）；行為表現"],"conductor":["a person who directs the performance of an orchestra, or a material that allows electricity to flow","（樂團）指揮；導體"],"detect":["to discover or notice the presence of something hidden or faint","察覺；偵測到"],"detected":["to discover or notice the presence of something hidden or faint","察覺；偵測到"],"detective":["a person, especially a police officer, whose occupation is to investigate crimes","偵探；刑警"],"detector":["a device that discovers or measures the presence of something specific","偵測器"],"detection":["the action or process of identifying the presence of something hidden","偵測；察覺"],"symmetry":["the quality of being made up of exactly similar parts facing each other or around an axis","對稱"],"asymmetric":["having parts or aspects that are not equal or equivalent; lacking symmetry","不對稱的"],"symmetric":["made up of exactly similar parts facing each other or around an axis; balanced","對稱的"],"consult":["to seek information or advice from an expert or a reference book","諮詢；查閱"],"consultant":["a person who provides expert advice professionally to companies or individuals","顧問"],"consultation":["a meeting with an expert or a professional person to seek advice","諮詢會诊；商議"],"consulting":["the professional business or practice of giving expert advice within a specific field","諮詢（業）；顧問工作"],"counsel":["professional advice given formally, or a legal attorney representing a client in court","建議；勸告；法律顧問"],"counselor":["a trained professional who gives guidance on personal, social, or psychological problems","諮商師；輔導員"],"galaxies":["a system of millions or billions of stars, together with gas and dust, held by gravitational attraction","星系"],"galaxy":["a system of millions or billions of stars, together with gas and dust, held by gravitational attraction","星系"],"universe":["all of space and time and their contents, including planets, stars, and galaxies","宇宙"],"universal":["relating to or done by all people or things in the world or in a particular group","普遍的；全體的；通用的"],"cosmo":["a combining form meaning \"universe\" or \"world,\" often referencing order and harmony","宇宙（字根/結合型）"],"cosmic":["relating to the universe or outer space, especially as distinct from the earth","宇宙的；外太空的"],"diverted":["to cause someone or something to change course or turn from one direction to another","使分心；使改道"],"divert":["to cause someone or something to change course or turn from one direction to another","使分心；使改道"],"diversion":["the act of turning something aside from its course, or a distraction","轉移；消遣；改道"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"navigate":["to find a choice direction across an area of land, sky, or sea","導航；領航；瀏覽"],"navigation":["the act of directing the course of a ship, aircraft, or vehicle","導航；航海"],"navigator":["a person who is responsible for directing the route of a ship or aircraft","領航員；導航員"],"satellite":["an electronic device sent into space to gather information or send signals","衛星"],"primitive":["relating to the earliest stage of evolutionary or historical development","原始的；落後的"],"ancient":["belonging to the very distant past and no longer in existence","古老的；古代的"],"ancestor":["a person from whom one is descended, typically more remote than a grandparent","祖先"],"ancestors":["a person from whom one is descended, typically more remote than a grandparent","祖先"],"descendant":["a person who is related to a particular ancestor who lived in the past","後代；子孫"],"descendants":["a person who is related to a particular ancestor who lived in the past","後代；子孫"],"reliable":["consistently good in quality or performance; able to be trusted","可靠的；值得信賴的"],"acute":["present or experienced to a severe or intense degree; sharp or keen","敏銳的；急性的；嚴重的"],"keen":["having or showing eagerness or enthusiasm; sharp or penetrating","敏銳的；熱衷的"],"eager":["strongly wanting to do or have something, or showing keen interest and impatience","渴望的；熱切的"],"magnetic":["having the properties of a magnet, or exerting a strong attractive power","磁性的；具吸引力的"],"magnet":["a piece of iron or steel that attracts objects containing iron","磁鐵"],"magnetism":["the physical phenomenon produced by the motion of electric charge, resulting in attractive forces","磁力；磁性"],"dedicated":["to give entirely to a specific person, activity, or social cause","奉獻；致力於"],"dedicate":["to give entirely to a specific person, activity, or social cause","奉獻；致力於"],"dedication":["the quality of being committed to a task or purpose","奉獻精神；專注"],"devote":["to give an entire amount of one's time, effort, or financial resources to something","奉獻；投入（時間/精力）"],"devoted":["extremely loyal, loving, and steadfast in supporting a person, group, or belief","忠實的；全心全意的"],"commit":["to officially allocate money or resources, or to make a firm decision to do something","投入（資源）；承諾（動詞）"],"committed":["loyal and willing to give your absolute support to a specific organization, ideology, or job","盡責的；堅定投入的"],"pursuit":["the act of following or searching for someone or something, or an occupation","追求；消遣"],"pursue":["to follow or chase after something in order to catch or achieve it","追求；從事（職業）"],"disgust":["a feeling of strong disapproval or dislike caused by something unpleasant","厭惡；反感"],"disgusted":["to cause someone to feel strong disapproval, dislike, or nausea","使人厭惡；使嘔心"],"disgusting":["extremely unpleasant or unacceptable, causing strong dislike","令人噁心的；糟糕的"],"nutrients":["a substance that provides nourishment essential for growth and the maintenance of life","營養素；養分"],"nutrient":["a substance that provides nourishment essential for growth and the maintenance of life","營養素；養分"],"nutrition":["the process of providing or obtaining the food necessary for health and growth","營養"],"indispensable":["absolutely necessary or essential, not to be omitted or ignored","不可或缺的"],"essential":["absolutely necessary; extremely important in a fundamental way","必要的；不可或缺的"],"fundamental":["forming a necessary base or core; of central importance","基礎的；根本的"],"storage":["the action or method of keeping something for future use in a safe place","儲藏；儲存"],"store":["to keep or collect something in a safe place for future use","儲存；存放"],"expertise":["expert skill or knowledge in a particular academic or practical field","專業知識；專長"],"expert":["a person who has a comprehensive and authoritative knowledge of a skill","專家"],"collector":["a person who collects things of a specified type as a hobby or investment","收集家；收藏家"],"collect":["to gather together items of a specific type from different sources","收集；收藏"],"collection":["a group of things that have been gathered together by a choice person","收藏品"],"scent":["a distinctive smell, especially one that is pleasant or fragrant","香味；氣味"],"attribute":["a quality or feature regarded as a characteristic or inherent part of someone or something","特質；屬性"],"attribution":["the action of ascribing a work or remark to a particular author, artist, or person","歸屬；因果歸屬"],"quality":["a distinctive attribute or characteristic possessed by someone or something","品質；特質"],"conduct":["to organize and carry out an activity, or to behave in a specific way","執行（任務）；進行（調查）；行為表現"],"conductor":["a person who directs the performance of an orchestra, or a material that allows electricity to flow","（樂團）指揮；導體"],"detect":["to discover or notice the presence of something hidden or faint","察覺；偵測到"],"detected":["to discover or notice the presence of something hidden or faint","察覺；偵測到"],"detective":["a person, especially a police officer, whose occupation is to investigate crimes","偵探；刑警"],"detector":["a device that discovers or measures the presence of something specific","偵測器"],"detection":["the action or process of identifying the presence of something hidden","偵測；察覺"],"symmetry":["the quality of being made up of exactly similar parts facing each other or around an axis","對稱"],"asymmetric":["having parts or aspects that are not equal or equivalent; lacking symmetry","不對稱的"],"consult":["to seek information or advice from an expert or a reference book","諮詢；查閱"],"consultant":["a person who provides expert advice professionally to companies or individuals","顧問"],"consultation":["a meeting with an expert or a professional person to seek advice","諮詢會诊；商議"],"consulting":["the professional business or practice of giving expert advice within a specific field","諮詢（業）；顧問工作"],"counsel":["professional advice given formally, or a legal attorney representing a client in court","建議；勸告；法律顧問"],"counselor":["a trained professional who gives guidance on personal, social, or psychological problems","諮商師；輔導員"],"galaxy":["a system of millions or billions of stars, together with gas and dust, held by gravitational attraction","星系"],"galaxies":["a system of millions or billions of stars, together with gas and dust, held by gravitational attraction","星系"],"universe":["all of space and time and their contents, including planets, stars, and galaxies","宇宙"],"universal":["relating to or done by all people or things in the world or in a particular group","普遍的；全體的；通用的"],"cosmo":["a combining form meaning \"universe\" or \"world,\" often referencing order and harmony","宇宙（字根/結合型）"],"cosmic":["relating to the universe or outer space, especially as distinct from the earth","宇宙的；外太空的"],"diverted":["to cause someone or something to change course or turn from one direction to another","使分心；使改道"],"divert":["to cause someone or something to change course or turn from one direction to another","使分心；使改道"],"diversion":["the act of turning something aside from its course, or a distraction","轉移；消遣；改道"]});

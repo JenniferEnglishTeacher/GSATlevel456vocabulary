@@ -58,7 +58,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "drift",
-    "answer": "drift",
+    "answer": "drifted",
     "pos": "v. / n.",
     "definition": "to be carried slowly by a current of air or water.",
     "chinese": "漂流；大意",
@@ -71,7 +71,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "drift off to sleep",
-    "answer": "drift off to sleep",
+    "answer": "drifted off to sleep",
     "pos": "phr.",
     "definition": "to gradually fall asleep.",
     "chinese": "漸漸入睡",
@@ -84,7 +84,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "fade",
-    "answer": "fade",
+    "answer": "faded",
     "pos": "v.",
     "definition": "to gradually grow faint and disappear.",
     "chinese": "褪色；消退",
@@ -97,7 +97,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "fade away",
-    "answer": "fade away",
+    "answer": "faded away",
     "pos": "phr.",
     "definition": "to gradually disappear completely.",
     "chinese": "逐漸消失",
@@ -609,7 +609,7 @@ window.FLASHCARD_UNITS = {
     "definition": "a religious ceremony or practice to worship gods",
     "chinese": "宗教儀式",
     "sentence": "The priest of the aboriginal tribe practices the conventional __________ to worship to the gods for good fortune.",
-    "translation": "",
+    "translation": "原住民部落的祭司舉行傳統的宗教儀式，向神明祈求好運。",
     "lookup": {
      "english": "a religious ceremony or practice to worship gods",
      "chinese": "宗教儀式"
@@ -721,7 +721,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "creak",
-    "answer": "creak",
+    "answer": "creaked",
     "pos": "v.",
     "definition": "to make a harsh, high-pitched sound when being moved or when pressure or weight is applied.",
     "chinese": "發出嘎吱聲",
@@ -734,7 +734,7 @@ window.FLASHCARD_UNITS = {
    },
    {
     "word": "renew",
-    "answer": "renew",
+    "answer": "renewed",
     "pos": "v.",
     "definition": "to resume an activity after an interruption; to re-establish.",
     "chinese": "更新；重新燃起",
@@ -1125,7 +1125,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "drift"
+      "text": "drifted"
      },
      {
       "letter": "D",
@@ -1140,11 +1140,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "fade away"
+      "text": "faded away"
      },
      {
       "letter": "B",
-      "text": "drift off to sleep"
+      "text": "drifted off to sleep"
      },
      {
       "letter": "C",
@@ -1163,7 +1163,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "fade"
+      "text": "faded"
      },
      {
       "letter": "B",
@@ -1198,7 +1198,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "fade away"
+      "text": "faded away"
      }
     ],
     "answer": "D",
@@ -1255,7 +1255,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "drift"
+      "text": "drifted"
      },
      {
       "letter": "B",
@@ -1355,11 +1355,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "creak"
+      "text": "creaked"
      },
      {
       "letter": "D",
-      "text": "renew"
+      "text": "renewed"
      }
     ],
     "answer": "B",
@@ -1520,7 +1520,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "fade away"
+      "text": "faded away"
      }
     ],
     "answer": "C",
@@ -1761,7 +1761,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "creak"
+      "text": "creaked"
      },
      {
       "letter": "B",
@@ -1796,7 +1796,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "fade away"
+      "text": "faded away"
      }
     ],
     "answer": "C",
@@ -1857,7 +1857,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "drift off to sleep"
+      "text": "drifted off to sleep"
      },
      {
       "letter": "C",
@@ -1880,7 +1880,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "renew"
+      "text": "renewed"
      },
      {
       "letter": "C",
@@ -2198,11 +2198,11 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "renew"
+      "text": "renewed"
      },
      {
       "letter": "B",
-      "text": "fade"
+      "text": "faded"
      },
      {
       "letter": "C",
@@ -2244,7 +2244,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "drift off to sleep"
+      "text": "drifted off to sleep"
      },
      {
       "letter": "B",
@@ -2290,7 +2290,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "creak"
+      "text": "creaked"
      },
      {
       "letter": "B",
@@ -2317,7 +2317,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "renew"
+      "text": "renewed"
      },
      {
       "letter": "C",
@@ -2463,7 +2463,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "fade away"
+      "text": "faded away"
      }
     ],
     "answer": "C",
@@ -2551,7 +2551,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "drift"
+      "text": "drifted"
      },
      {
       "letter": "D",
@@ -2670,7 +2670,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "creak"
+      "text": "creaked"
      }
     ],
     "answer": "B",
@@ -2681,7 +2681,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "renew"
+      "text": "renewed"
      },
      {
       "letter": "B",
@@ -2727,7 +2727,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "grand reception"
+      "text": "receptionist"
      },
      {
       "letter": "B",
@@ -2739,7 +2739,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "fade away"
+      "text": "faded away"
      }
     ],
     "answer": "B",
@@ -2758,7 +2758,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "exposition"
+      "text": "expand"
      },
      {
       "letter": "D",
@@ -2817,4 +2817,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"sensation":["a physical feeling or perception resulting from something that happens to or comes into contact with the body.","感覺；轟動"],"sensational":["causing great public interest and excitement.","轟動的；極好的"],"drift":["to be carried slowly by a current of air or water.","漂流；大意"],"fade":["to gradually grow faint and disappear.","褪色；消退"],"vanish":["to disappear suddenly and completely.","消失"],"disappear":["to cease to be visible.","消失"],"murmur":["a soft, indistinct sound made by a person or group of people speaking quietly or at a distance.","低語聲；喃喃自語"],"whisper":["to speak very softly using one's breath without one's vocal cords.","耳語；小聲說話"],"drone":["to make a continuous low humming sound; to speak tediously.","嗡嗡聲；單調地說"],"drones":["manless flying gadget","無人機"],"enclose":["to surround or close off on all sides.","圍住；附上"],"disclose":["to make secret or new information known.","揭露；公開"],"enclosure":["an area that is sealed off with an artificial or natural barrier.","圍欄；圈地"],"enclosed":["surrounded or closed off on all sides; included with a letter or package.","隨函附上的；封閉的"],"precious":["of great value; not to be wasted or treated carelessly.","珍貴的"],"priceless":["so precious that its value cannot be determined.","無價的"],"worthless":["having no real value or use.","毫無價值的"],"extraordinary":["very unusual or remarkable.","非凡的；出色的"],"exceptional":["unusually good; outstanding.","卓越的；例外的"],"phenomenon":["Something that exists or happens, especially something that is studied because it is unusual or interesting.","現象"],"phenomenal":["very remarkable; extraordinary.","驚人的；非凡的"],"ordinary":["with no special or distinctive features; normal.","普通的"],"structure":["the arrangement of and relations between the parts or elements of something complex.","結構；建築物"],"infrastructure":["the basic physical and organizational structures and facilities needed for the operation of a society.","基礎建設"],"endeavor":["an attempt to achieve a goal; to try hard to do or achieve something.","努力；嘗試"],"erect":["to construct a building, wall, or other structure.","建立；豎立"],"erection":["the action of erecting a structure or object.","建造；設立"],"construct":["to build or erect something, typically a building, road, or machine.","建造；構成"],"rival":["a person or thing competing with another for the same objective; to equal or be compared with.","競爭對手；與...匹敵"],"rivalry":["competition for the same objective or for superiority in the same field.","競爭；敵對"],"competitor":["an organization or country that is engaged in commercial or economic competition with others.","競爭者"],"opponent":["someone who competes against or fights another in a contest, game, or argument.","對手"],"ceremony":["a formal religious or public occasion, typically one celebrating a particular event or anniversary.","儀式；典禮"],"rite":["a religious or other solemn ceremony or act.","儀式；慣例"],"ritual":["a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.","儀式；習慣"],"revolution":["a forcible overthrow of a government or social order; a dramatic and wide-reaching change in the way something works.","革命"],"revolutionary":["involving or causing a complete or dramatic change.","革命性的"],"revolutionize":["to change something radically or fundamentally.","徹底改變"],"revolve":["to move in a circle on a central axis.","旋轉；圍繞"],"creak":["a harsh scraping or squeaking sound.","嘎吱聲；發出嘎吱聲"],"renew":["to resume an activity after an interruption; to re-establish.","更新；重新燃起"],"resume":["to begin to do or pursue something again after a pause or interruption.","恢復；繼續"],"renewable":["not depleted when used.","可再生的"],"reception":["the action or process of receiving something sent, given, or inflicted; a formal social occasion held to welcome someone.","接待；歡迎會"],"receptionist":["a person employed in an office or other establishment to answer the telephone, deal with clients, and greet visitors.","接待員"],"gown":["a long elegant dress worn on formal occasions.","禮服；長袍"],"cigar":["a cylinder of tobacco rolled in tobacco leaves for smoking.","雪茄"],"cigarette":["a thin cylinder of finely cut tobacco rolled in paper for smoking.","香菸"],"lessen":["to make or become less; to diminish.","減少；減輕"],"decrease":["to make or become smaller or fewer in size, amount, intensity, or degree.","減少"],"enlarge":["to make or become bigger or more extensive.","擴大"],"expand":["to become or make larger or more extensive.","擴張"],"nonetheless":["in spite of that; nevertheless.","儘管如此"],"nevertheless":["in spite of that; notwithstanding; all the same.","然而；儘管如此"],"however":["used to introduce a statement that contrasts with or seems to contradict something that has been said previously.","然而"],"exposition":["a comprehensive description and explanation of an idea or theory; a large public exhibition.","詳細闡述；博覽會"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"sensation":["a physical feeling or perception resulting from something that happens to or comes into contact with the body.","感覺；轟動"],"sensational":["causing great public interest and excitement.","轟動的；極好的"],"drifted":["to be carried slowly by a current of air or water.","漂流；大意"],"drift":["to be carried slowly by a current of air or water.","漂流；大意"],"fade":["to gradually grow faint and disappear.","褪色；消退"],"faded":["to gradually grow faint and disappear.","褪色；消退"],"vanish":["to disappear suddenly and completely.","消失"],"disappear":["to cease to be visible.","消失"],"murmur":["a soft, indistinct sound made by a person or group of people speaking quietly or at a distance.","低語聲；喃喃自語"],"whisper":["to speak very softly using one's breath without one's vocal cords.","耳語；小聲說話"],"drone":["to make a continuous low humming sound; to speak tediously.","嗡嗡聲；單調地說"],"drones":["manless flying gadget","無人機"],"enclose":["to surround or close off on all sides.","圍住；附上"],"disclose":["to make secret or new information known.","揭露；公開"],"enclosure":["an area that is sealed off with an artificial or natural barrier.","圍欄；圈地"],"enclosed":["surrounded or closed off on all sides; included with a letter or package.","隨函附上的；封閉的"],"precious":["of great value; not to be wasted or treated carelessly.","珍貴的"],"priceless":["so precious that its value cannot be determined.","無價的"],"worthless":["having no real value or use.","毫無價值的"],"extraordinary":["very unusual or remarkable.","非凡的；出色的"],"exceptional":["unusually good; outstanding.","卓越的；例外的"],"phenomenon":["Something that exists or happens, especially something that is studied because it is unusual or interesting.","現象"],"phenomenal":["very remarkable; extraordinary.","驚人的；非凡的"],"ordinary":["with no special or distinctive features; normal.","普通的"],"structure":["the arrangement of and relations between the parts or elements of something complex.","結構；建築物"],"infrastructure":["the basic physical and organizational structures and facilities needed for the operation of a society.","基礎建設"],"endeavor":["an attempt to achieve a goal; to try hard to do or achieve something.","努力；嘗試"],"erect":["to construct a building, wall, or other structure.","建立；豎立"],"erection":["the action of erecting a structure or object.","建造；設立"],"construct":["to build or erect something, typically a building, road, or machine.","建造；構成"],"rival":["a person or thing competing with another for the same objective; to equal or be compared with.","競爭對手；與...匹敵"],"rivalry":["competition for the same objective or for superiority in the same field.","競爭；敵對"],"competitor":["an organization or country that is engaged in commercial or economic competition with others.","競爭者"],"opponent":["someone who competes against or fights another in a contest, game, or argument.","對手"],"ceremony":["a formal religious or public occasion, typically one celebrating a particular event or anniversary.","儀式；典禮"],"rite":["a religious or other solemn ceremony or act.","儀式；慣例"],"ritual":["a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.","儀式；習慣"],"revolution":["a forcible overthrow of a government or social order; a dramatic and wide-reaching change in the way something works.","革命"],"revolutionary":["involving or causing a complete or dramatic change.","革命性的"],"revolutionize":["to change something radically or fundamentally.","徹底改變"],"revolve":["to move in a circle on a central axis.","旋轉；圍繞"],"creak":["a harsh scraping or squeaking sound.","嘎吱聲；發出嘎吱聲"],"creaked":["to make a harsh, high-pitched sound when being moved or when pressure or weight is applied.","發出嘎吱聲"],"renewed":["to resume an activity after an interruption; to re-establish.","更新；重新燃起"],"renew":["to resume an activity after an interruption; to re-establish.","更新；重新燃起"],"resume":["to begin to do or pursue something again after a pause or interruption.","恢復；繼續"],"renewable":["not depleted when used.","可再生的"],"reception":["the action or process of receiving something sent, given, or inflicted; a formal social occasion held to welcome someone.","接待；歡迎會"],"receptionist":["a person employed in an office or other establishment to answer the telephone, deal with clients, and greet visitors.","接待員"],"gown":["a long elegant dress worn on formal occasions.","禮服；長袍"],"cigar":["a cylinder of tobacco rolled in tobacco leaves for smoking.","雪茄"],"cigarette":["a thin cylinder of finely cut tobacco rolled in paper for smoking.","香菸"],"lessen":["to make or become less; to diminish.","減少；減輕"],"decrease":["to make or become smaller or fewer in size, amount, intensity, or degree.","減少"],"enlarge":["to make or become bigger or more extensive.","擴大"],"expand":["to become or make larger or more extensive.","擴張"],"nonetheless":["in spite of that; nevertheless.","儘管如此"],"nevertheless":["in spite of that; notwithstanding; all the same.","然而；儘管如此"],"however":["used to introduce a statement that contrasts with or seems to contradict something that has been said previously.","然而"],"exposition":["a comprehensive description and explanation of an idea or theory; a large public exhibition.","詳細闡述；博覽會"]});

@@ -1,8 +1,8 @@
-// LiveABC Level 3–5 Advanced Unit 2 (treaty – marine) — flashcards + MCQ practice
+// LiveABC Level 3–5 Advanced Unit 2 (treaty – submarine) — flashcards + MCQ practice
 window.FLASHCARD_UNITS = {
  "2": {
-  "title": "LiveABC Level 3–5 Advanced · Unit 2: treaty – marine",
-  "theme": "treaty – marine",
+  "title": "LiveABC Level 3–5 Advanced · Unit 2: treaty – submarine",
+  "theme": "treaty – submarine",
   "cards": [
    {
     "word": "treaty",
@@ -140,8 +140,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "likely to be transmitted to people, organisms, etc., through the environment.",
     "chinese": "傳染性的",
-    "sentence": "The highly __________ new virus spread incredibly quickly throughout the entirely unprepared and completely crowded local village.",
-    "translation": "這種高度傳染性的新病毒，在完全沒有準備且極度擁擠的當地村莊中傳播得令人難以置信地快。",
+    "sentence": "The __________ new virus spread throughout the unprepared and crowded local village.",
+    "translation": "這種傳染性的新病毒，在沒有準備且擁擠的當地村莊中傳播得令人難以置信地快。",
     "lookup": {
      "english": "likely to be transmitted to people, organisms, etc., through the environment.",
      "chinese": "傳染性的"
@@ -218,8 +218,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "to cause harm to a biological community and its environment.",
     "chinese": "破壞生態系統",
-    "sentence": "The deeply careless industrial oil spill will inevitably __________ and completely kill thousands of completely completely completely innocent wild animals.",
-    "translation": "深深粗心的工業漏油事件不可避免地將破壞生態系統，並徹底殺死數千隻完全無辜的野生動物。",
+    "sentence": "The careless industrial oil spill will inevitably __________ and kill thousands of innocent wild animals.",
+    "translation": "粗心的工業漏油事件不可避免地將破壞生態系統，並殺死數千隻無辜的野生動物。",
     "lookup": {
      "english": "to cause harm to a biological community and its environment.",
      "chinese": "破壞生態系統"
@@ -335,8 +335,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "a disease that affects a large number of people across many countries.",
     "chinese": "全球傳染病",
-    "sentence": "The completely sudden and deeply unexpected local outbreak of the highly contagious disease quickly turned into a absolutely terrifying __________.",
-    "translation": "這種高度傳染性疾病完全突然且深感意外的局部爆發，迅速變成了一場絕對可怕的全球傳染病。",
+    "sentence": "The sudden and unexpected local outbreak of the contagious disease turned into a terrifying __________.",
+    "translation": "這種傳染性疾病突然且深感意外的局部爆發，迅速變成了一場可怕的全球傳染病。",
     "lookup": {
      "english": "a disease that affects a large number of people across many countries.",
      "chinese": "全球傳染病"
@@ -361,8 +361,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a hard stony substance secreted by certain marine polyps as a skeleton.",
     "chinese": "珊瑚",
-    "sentence": "The highly enthusiastic and deeply eager scuba divers were absolutely completely amazed by the bright pink and bright blue __________ completely under the cold sea.",
-    "translation": "極其熱情且深切渴望的水肺潛水員，對寒冷海底完全明亮的粉紅色和藍色珊瑚感到絕對完全驚訝。",
+    "sentence": "The enthusiastic and eager scuba divers were amazed by the bright pink and bright blue __________ under the cold sea.",
+    "translation": "熱情且深切渴望的水肺潛水員，對寒冷海底明亮的粉紅色和藍色珊瑚感到驚訝。",
     "lookup": {
      "english": "a hard stony substance secreted by certain marine polyps as a skeleton.",
      "chinese": "珊瑚"
@@ -374,7 +374,7 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a ridge of jagged rock, coral, or sand just above or below the surface of the sea.",
     "chinese": "礁石",
-    "sentence": "The massive wooden sailing ship tragically quickly sank to the entirely dark ocean bottom after violently violently hitting a highly hidden sharp rock __________.",
+    "sentence": "The massive wooden sailing ship tragically quickly sank to the entirely dark ocean bottom after violently hitting a highly hidden sharp rock __________.",
     "translation": "這艘巨大的木造帆船在猛烈撞擊一塊高度隱藏的鋒利岩石礁石後，悲慘且迅速地沉入了完全黑暗的海底。",
     "lookup": {
      "english": "a ridge of jagged rock, coral, or sand just above or below the surface of the sea.",
@@ -387,8 +387,8 @@ window.FLASHCARD_UNITS = {
     "pos": "phr.",
     "definition": "to preserve and guard coral formations in the ocean.",
     "chinese": "保護珊瑚礁",
-    "sentence": "Deeply passionate environmentalists are strictly urgently urging the completely totally local completely modern city government heavily totally fully correctly successfully quickly safely securely completely rapidly entirely completely successfully completely absolutely deeply totally deeply strongly fully absolutely completely actively successfully effectively correctly deeply greatly to carefully completely effectively securely fully absolutely strongly safely deeply deeply correctly rapidly entirely heavily efficiently completely safely pass strict new complex legal laws to finally actually truly effectively completely securely absolutely successfully __________.)",
-    "translation": "熱情的環保人士強烈敦促當地政府通過嚴格的新法律，以完全且有效地保護珊瑚礁。",
+    "sentence": "Passionate environmentalists are urging the local government to pass strict new laws to __________.",
+    "translation": "熱情的環保人士強烈敦促當地政府通過嚴格的新法律，以有效地保護珊瑚礁。",
     "lookup": {
      "english": "to preserve and guard coral formations in the ocean.",
      "chinese": "保護珊瑚礁"
@@ -406,6 +406,19 @@ window.FLASHCARD_UNITS = {
      "english": "of, found in, or produced by the sea.",
      "chinese": "海洋的"
     }
+   },
+   {
+    "word": "submarine",
+    "answer": "submarine",
+    "pos": "n.",
+    "definition": "a warship designed to operate completely submerged in the sea for long periods.",
+    "chinese": "潛水艇",
+    "sentence": "The navy sent a __________ deep under the ocean to secretly follow the enemy ships.",
+    "translation": "海軍派出一艘潛水艇潛入深海，秘密跟蹤敵方船艦。",
+    "lookup": {
+     "english": "a warship designed to operate completely submerged in the sea for long periods.",
+     "chinese": "潛水艇"
+    }
    }
   ],
   "quiz": [
@@ -418,15 +431,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "epidemic"
+      "text": "submarine"
      },
      {
       "letter": "C",
-      "text": "reef"
+      "text": "epidemic"
      },
      {
       "letter": "D",
-      "text": "infection"
+      "text": "reef"
      }
     ],
     "answer": "A",
@@ -437,7 +450,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "protect coral reefs"
+      "text": "damage the ecosystem"
      },
      {
       "letter": "B",
@@ -640,7 +653,7 @@ window.FLASHCARD_UNITS = {
     "vi": 9
    },
    {
-    "question": "The highly __________ new virus spread incredibly quickly throughout the entirely unprepared and completely crowded local village.",
+    "question": "The __________ new virus spread throughout the unprepared and crowded local village.",
     "options": [
      {
       "letter": "A",
@@ -671,7 +684,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "coral"
+      "text": "pollution"
      },
      {
       "letter": "C",
@@ -679,7 +692,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "plastics"
+      "text": "submarine"
      }
     ],
     "answer": "C",
@@ -690,15 +703,15 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "coral reef"
-     },
-     {
-      "letter": "B",
       "text": "plastic bag"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "sign a treaty"
+     },
+     {
+      "letter": "C",
+      "text": "damage the ecosystem"
      },
      {
       "letter": "D",
@@ -717,7 +730,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "pollution"
+      "text": "coral"
      },
      {
       "letter": "C",
@@ -725,7 +738,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "coral"
+      "text": "pollution"
      }
     ],
     "answer": "C",
@@ -778,7 +791,7 @@ window.FLASHCARD_UNITS = {
     "vi": 15
    },
    {
-    "question": "The deeply careless industrial oil spill will inevitably __________ and completely kill thousands of completely completely completely innocent wild animals.",
+    "question": "The careless industrial oil spill will inevitably __________ and kill thousands of innocent wild animals.",
     "options": [
      {
       "letter": "A",
@@ -809,11 +822,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ecosystem"
+      "text": "reef"
      },
      {
       "letter": "C",
-      "text": "reef"
+      "text": "submarine"
      },
      {
       "letter": "D",
@@ -859,7 +872,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "ecosystem"
+      "text": "reef"
      },
      {
       "letter": "D",
@@ -924,18 +937,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ecosystem"
+      "text": "reef"
      },
      {
       "letter": "C",
-      "text": "epidemic"
+      "text": "coral"
      },
      {
       "letter": "D",
-      "text": "reef"
+      "text": "epidemic"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 22
    },
    {
@@ -951,14 +964,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "infectious"
+      "text": "epidemic"
      },
      {
       "letter": "D",
-      "text": "epidemic"
+      "text": "infectious"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 23
    },
    {
@@ -985,7 +998,7 @@ window.FLASHCARD_UNITS = {
     "vi": 24
    },
    {
-    "question": "The completely sudden and deeply unexpected local outbreak of the highly contagious disease quickly turned into a absolutely terrifying __________.",
+    "question": "The sudden and unexpected local outbreak of the contagious disease turned into a terrifying __________.",
     "options": [
      {
       "letter": "A",
@@ -1031,19 +1044,19 @@ window.FLASHCARD_UNITS = {
     "vi": 26
    },
    {
-    "question": "The highly enthusiastic and deeply eager scuba divers were absolutely completely amazed by the bright pink and bright blue __________ completely under the cold sea.",
+    "question": "The enthusiastic and eager scuba divers were amazed by the bright pink and bright blue __________ under the cold sea.",
     "options": [
      {
       "letter": "A",
-      "text": "reef"
+      "text": "submarine"
      },
      {
       "letter": "B",
-      "text": "ecosystem"
+      "text": "reef"
      },
      {
       "letter": "C",
-      "text": "pollution"
+      "text": "ecosystem"
      },
      {
       "letter": "D",
@@ -1054,7 +1067,7 @@ window.FLASHCARD_UNITS = {
     "vi": 27
    },
    {
-    "question": "The massive wooden sailing ship tragically quickly sank to the entirely dark ocean bottom after violently violently hitting a highly hidden sharp rock __________.",
+    "question": "The massive wooden sailing ship tragically quickly sank to the entirely dark ocean bottom after violently hitting a highly hidden sharp rock __________.",
     "options": [
      {
       "letter": "A",
@@ -1062,41 +1075,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "infection"
+      "text": "treaty"
      },
      {
       "letter": "C",
-      "text": "coral"
+      "text": "infection"
      },
      {
       "letter": "D",
-      "text": "pollutant"
+      "text": "coral"
      }
     ],
     "answer": "A",
     "vi": 28
    },
    {
-    "question": "Deeply passionate environmentalists are strictly urgently urging the completely totally local completely modern city government heavily totally fully correctly successfully quickly safely securely completely rapidly entirely completely successfully completely absolutely deeply totally deeply strongly fully absolutely completely actively successfully effectively correctly deeply greatly to carefully completely effectively securely fully absolutely strongly safely deeply deeply correctly rapidly entirely heavily efficiently completely safely pass strict new complex legal laws to finally actually truly effectively completely securely absolutely successfully __________.)",
+    "question": "Passionate environmentalists are urging the local government to pass strict new laws to __________.",
     "options": [
      {
       "letter": "A",
-      "text": "highly infectious"
+      "text": "water pollution"
      },
      {
       "letter": "B",
-      "text": "international treaty"
+      "text": "protect coral reefs"
      },
      {
       "letter": "C",
-      "text": "coral reef"
+      "text": "highly infectious"
      },
      {
       "letter": "D",
-      "text": "protect coral reefs"
+      "text": "international treaty"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 29
    },
    {
@@ -1112,17 +1125,40 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "marine"
+      "text": "infected"
      },
      {
       "letter": "D",
-      "text": "infected"
+      "text": "marine"
+     }
+    ],
+    "answer": "D",
+    "vi": 30
+   },
+   {
+    "question": "The navy sent a __________ deep under the ocean to secretly follow the enemy ships.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "epidemic"
+     },
+     {
+      "letter": "B",
+      "text": "pollution"
+     },
+     {
+      "letter": "C",
+      "text": "submarine"
+     },
+     {
+      "letter": "D",
+      "text": "infection"
      }
     ],
     "answer": "C",
-    "vi": 30
+    "vi": 31
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"treaty":["a formally concluded and ratified agreement between countries.","條約；協定"],"plastic":["a synthetic material made from organic polymers; made of plastic.","塑膠（的）"],"plastics":["synthetic materials made from a wide range of organic polymers.","塑膠製品"],"infect":["to affect with a disease-causing organism.","傳染；感染"],"infected":["containing or having disease-causing organisms.","受感染的"],"infectious":["likely to be transmitted to people, organisms, etc., through the environment.","傳染性的"],"infection":["the process of infecting or the state of being infected.","感染"],"ecosystem":["a biological community of interacting organisms and their physical environment.","生態系統"],"pollution":["the presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.","污染"],"pollute":["to contaminate with harmful or poisonous substances.","污染"],"pollutant":["a substance that pollutes something, especially water or the atmosphere.","污染物"],"epidemic":["a widespread occurrence of an infectious disease in a community at a particular time.","流行病；傳染病"],"coral":["a hard stony substance secreted by certain marine polyps as a skeleton.","珊瑚"],"reef":["a ridge of jagged rock, coral, or sand just above or below the surface of the sea.","礁石"],"marine":["of, found in, or produced by the sea.","海洋的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"treaty":["a formally concluded and ratified agreement between countries.","條約；協定"],"plastic":["a synthetic material made from organic polymers; made of plastic.","塑膠（的）"],"plastics":["synthetic materials made from a wide range of organic polymers.","塑膠製品"],"infect":["to affect with a disease-causing organism.","傳染；感染"],"infected":["containing or having disease-causing organisms.","受感染的"],"infectious":["likely to be transmitted to people, organisms, etc., through the environment.","傳染性的"],"infection":["the process of infecting or the state of being infected.","感染"],"ecosystem":["a biological community of interacting organisms and their physical environment.","生態系統"],"pollution":["the presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.","污染"],"pollute":["to contaminate with harmful or poisonous substances.","污染"],"pollutant":["a substance that pollutes something, especially water or the atmosphere.","污染物"],"epidemic":["a widespread occurrence of an infectious disease in a community at a particular time.","流行病；傳染病"],"coral":["a hard stony substance secreted by certain marine polyps as a skeleton.","珊瑚"],"reef":["a ridge of jagged rock, coral, or sand just above or below the surface of the sea.","礁石"],"marine":["of, found in, or produced by the sea.","海洋的"],"submarine":["a warship designed to operate completely submerged in the sea for long periods.","潛水艇"]});
