@@ -12,7 +12,7 @@ Object.entries(window.VOCAB_ZONES || {}).forEach(([id, z]) => {
     ...z,
     level: z.levelLabel,
     unitName: z.unitName || "Group",
-    short: `${z.tag}·`,
+    chipTag: `${z.tag}·`,
     units: window[z.global] || [],
     key: (u, i) => `${z.prefix}-${u}:${i}`,
     page: u => fillPattern(z.page, u),
@@ -216,7 +216,7 @@ function showTip(btn, key) {
     <p class="tip-hint"></p>`;
   tip.querySelector("strong").textContent = card.w;
   tip.querySelector(".tip-pos").textContent = card.p;
-  tip.querySelector(".tip-unit").textContent = `${cfg.short.replace("·", "")} · ${cfg.unitName} ${card.unit}`;
+  tip.querySelector(".tip-unit").textContent = `${cfg.short} · ${cfg.unitName} ${card.unit}`;
   tip.querySelector(".tip-en").textContent = card.d;
   tip.querySelector(".tip-zh").textContent = card.c;
   tip.querySelector(".tip-hint").textContent = isMarked
@@ -283,7 +283,7 @@ function renderPreview() {
     const cfg = BOOKS[card.book];
     const chip = document.createElement("span");
     chip.className = `preview-chip${cfg.cls ? ` ${cfg.cls}` : ""}`;
-    chip.innerHTML = `<a href="${cardUrl(cfg, card.unit, card.w)}" target="_blank" rel="noopener"></a><small>${cfg.short}${card.unit}</small><button type="button" aria-label="Remove">✕</button>`;
+    chip.innerHTML = `<a href="${cardUrl(cfg, card.unit, card.w)}" target="_blank" rel="noopener"></a><small>${cfg.chipTag}${card.unit}</small><button type="button" aria-label="Remove">✕</button>`;
     chip.querySelector("a").textContent = card.w;
     chip.querySelector("button").addEventListener("click", () => toggleWord(key));
     return chip;

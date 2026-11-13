@@ -5,7 +5,7 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113f"
+V = "20261113g"
 d = json.load(open(DATA, encoding="utf8"))
 J = json.load(open(os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k.json"), encoding="utf8"))  # 國中小基礎2000字 groups
 EXTRA = os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k_extra.json")  # groups converted by tools/convert_g.py
@@ -248,6 +248,15 @@ if GEPT:
     ggroups, gnames = emit_zone("g", "捷進全民英檢初級單字書", "捷進GEPT初級", "Lesson", GEPT,
                                 lambda g: f"gept-lesson{g}", "捷進全民英檢初級單字練習", "G_DASHBOARD_UNITS")
 
+# AWL Sublists 1–10 (zones "a1".."a10"): each sublist split into parts of about 20 entries by tools/awl_convert.py
+AWL_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "awl.json")
+AWL = json.load(open(AWL_FILE, encoding="utf8")) if os.path.exists(AWL_FILE) else {}
+awl_zones = {}
+for n in sorted(AWL, key=int):
+    order, part_names = emit_zone(f"a{n}", f"AWL Sublist {n}", f"AWL Sublist {n}", "Part", {int(k): v for k, v in AWL[n].items()},
+                                  lambda g, n=n: f"awl{n}-part{g}", f"AWL 學術單字練習 Sublist {n}", f"A{n}_DASHBOARD_UNITS")
+    awl_zones[n] = (order, part_names)
+
 # ---------------------------------------------------------------- books.js: the registry every page reads
 zones = {}
 for L, cls in ((4, ""), (5, "hot"), (6, "va")):
@@ -278,6 +287,15 @@ books = [
 ]
 if GEPT:
     books.append({"id": "gept", "name": "捷進全民英檢初級單字書", "zones": ["g"]})
+for n, (order, part_names) in awl_zones.items():
+    zones[f"a{n}"] = {
+        "book": "awl", "prefix": f"a{n}", "tag": f"AWL{n}", "name": f"AWL Sublist {n}", "short": f"Sublist {n}", "num": str(n),
+        "levelLabel": f"AWL {n}", "cls": "va", "family": False, "headLabel": "", "tile": f"Academic Word List · Sublist {n}",
+        "unitName": "Part", "data": f"a{n}-dashboard-data.js", "global": f"A{n}_DASHBOARD_UNITS", "page": f"a{n}-unit{{u}}.html", "quiz": f"awl{n}-part{{u}}.html",
+        "units": order, "names": {str(g): part_names[g] for g in order}, "blurb": "about 20 words & phrases per part 每部分約 20 個",
+    }
+if awl_zones:
+    books.append({"id": "awl", "name": "AWL 學術單字 Sublist 1–10", "zones": [f"a{n}" for n in awl_zones]})
 write("books.js",
       "// Registry of every vocabulary book on this site. A zone is one tab of word groups; a book is a set of zones.\n"
       "// Review keys are \"<prefix>-<group>:<cardIndex>\". To add a book: add its zones here and its data files.\n"
@@ -291,10 +309,18 @@ write("gsat-words.js",
       f"window.GSAT_INDEX = {js(index)};\n")
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-for name in ("tracker.js", "teacher.html"):
+DATA_TAGS = "".join(f'  <script src="{z["data"]}?v={V}"></script>\n' for z in zones.values())
+for name in ("tracker.js", "dashboard.js", "teacher.html", "index.html"):
     src = os.path.join(HERE, name)
-    if os.path.exists(src):
-        shutil.copyfile(src, os.path.join(OUT, name))
+    if not os.path.exists(src):
+        continue
+    text = open(src, encoding="utf8").read()
+    if name.endswith(".html"):
+        # one dashboard-data script per zone, and the current cache version on every local script
+        text, n_tags = re.subn(r"(?:  <script src=\"[a-z0-9]+-dashboard-data\.js\?v=\w+\"></script>\n)+", DATA_TAGS, text)
+        assert n_tags == 1, name
+        text = re.sub(r"\?v=2026\w+", f"?v={V}", text)
+    write(name, text)
 if not os.path.exists(os.path.join(OUT, "tracker-config.js")):
     write("tracker-config.js", "// Address of the teacher's Google Apps Script web app (ends with /exec). Leave empty to switch tracking off.\nwindow.GSAT_TRACKER_URL = \"\";\n")
 os.makedirs(os.path.join(OUT, "vendor"), exist_ok=True)
@@ -684,6 +710,8 @@ asub("""const mkBook=n=>({name:`學測6000字 Level ${n}`,unit:'Group',units:win
 const BOOKS={l4:mkBook(4),l5:mkBook(5),l6:mkBook(6)};""", """const BOOKS={};
 Object.entries(window.VOCAB_ZONES||{}).forEach(([id,z])=>{BOOKS[id]={name:z.name,tag:z.tag,unit:z.unitName||'Group',units:window[z.global]||[],key:(u,i)=>`${z.prefix}-${u}:${i}`,page:u=>z.page.replace('{u}',u)};});""")
 asub("shuffle(POOL.l4)", "shuffle(POOL[Object.keys(BOOKS)[0]])")
+asub("""    const n=counts[id]||0;if(n)state.books.add(id);""", """    const n=counts[id]||0;if(n)state.books.add(id);
+    if(!n&&state.all.length)return; // with many books, list only those that have review words""")
 asub("清單裡沒有這個 Level 的字", "清單裡沒有這一冊的字")
 asub("選要考哪幾個 Level 的單字", "選要考哪幾冊／哪幾個 Level 的單字")
 asub("請至少選一個 Level。", "請至少選一項。")

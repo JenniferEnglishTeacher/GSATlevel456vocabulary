@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Teacher · Vocabulary Board Progress</title>
+  <link rel="stylesheet" href="styles.css?v=20261113b">
+  <style>
+    .t-panel { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 18px; margin: 16px 0; }
+    .t-panel h2 { margin: 0 0 4px; font-size: 20px; }
+    .t-panel > p { margin: 0 0 12px; color: var(--muted); font-size: 14px; line-height: 1.5; }
+    .t-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 10px 0; }
+    .t-row label { font-size: 14px; font-weight: 700; color: var(--muted); display: inline-flex; gap: 6px; align-items: center; }
+    .t-row input[type=text], .t-row input[type=password], .t-row input[type=number], .t-row select { padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; font: inherit; }
+    .t-scroll { overflow: auto; max-height: 460px; border: 1px solid var(--line); border-radius: 8px; }
+    table.t { border-collapse: collapse; width: 100%; font-size: 14px; }
+    table.t th, table.t td { padding: 7px 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+    table.t th { position: sticky; top: 0; background: var(--soft); white-space: nowrap; }
+    table.t td.num { text-align: right; white-space: nowrap; }
+    table.t td.words { min-width: 240px; color: #a61f1f; }
+    table.t tr.pick { cursor: pointer; }
+    table.t tr.pick:hover { background: #f3f8fa; }
+    .acc-low { color: #c62828; font-weight: 700; } .acc-mid { color: #b8541a; font-weight: 700; } .acc-high { color: #3f7d4a; font-weight: 700; }
+    .t-status { color: var(--muted); font-size: 14px; }
+    .t-status.err { color: #c62828; font-weight: 700; }
+    .t-link { width: 100%; padding: 9px 10px; border: 1px solid var(--line); border-radius: 8px; font: 13px/1.4 monospace; background: var(--soft); }
+    .t-words { display: flex; flex-wrap: wrap; gap: 6px; max-height: 260px; overflow: auto; padding: 4px 0; }
+    .t-words label { border: 1px solid var(--line); border-radius: 999px; padding: 4px 10px; font-size: 14px; background: #fff; cursor: pointer; display: inline-flex; gap: 6px; align-items: center; }
+    .t-words label small { color: var(--muted); }
+    .t-words label.star { border-color: var(--gold); }
+  </style>
+</head>
+<body>
+  <main class="app-shell board-shell">
+    <header class="board-hero">
+      <p class="eyebrow"><a class="back-link" href="index.html">Vocabulary Board</a> · Teacher 教師專用</p>
+      <h1>Student Progress 學生進度</h1>
+      <p class="board-intro">Reads the tracker spreadsheet: who tested what, accuracy, mistaken words and ★ review lists. Pick mistaken words and turn them into a new test link for students.<br>讀取追蹤試算表：誰考了什麼、正確率、錯字、★ 複習清單；可把錯字變成新的測驗連結給學生。</p>
+    </header>
+
+    <section class="t-panel">
+      <div class="t-row">
+        <label>Teacher key 教師密碼 <input type="password" id="key" autocomplete="off"></label>
+        <button class="primary-button" id="load" type="button">Load 讀取</button>
+        <span class="t-status" id="status"></span>
+      </div>
+    </section>
+
+    <div id="content" hidden>
+      <section class="t-panel">
+        <h2>Students 學生總覽</h2>
+        <p>Click a student to filter everything below to that student. 點學生可篩選下方資料。</p>
+        <div class="t-scroll"><table class="t" id="studentTable"></table></div>
+      </section>
+
+      <section class="t-panel">
+        <h2>Build a test from mistakes 用錯字出題</h2>
+        <p>Words are ranked by how often they were missed. Tick the ones to test, then copy the link and send it to students. The test works like 🎮 Test my words, and its results come back to the Test Log.<br>依錯誤次數排序。勾選要考的字，複製連結給學生；作答結果會回到 Test Log。</p>
+        <div class="t-row">
+          <label>Student 學生 <select id="fStudent"></select></label>
+          <label>Book / Level <select id="fLevel"><option value="">All 全部</option></select></label>
+          <label>Missed ≥ <input type="number" id="fMin" value="1" min="1" style="width:64px"> times</label>
+          <label><input type="checkbox" id="fStar"> add ★ review words 加入學生的★字</label>
+          <label>Tick top <input type="number" id="fTop" value="20" min="1" max="100" style="width:64px"></label>
+        </div>
+        <div class="t-words" id="wordPick"></div>
+        <div class="t-row">
+          <label>Test name 測驗名稱 <input type="text" id="label" maxlength="40" placeholder="e.g. L4 G1–5 mistakes" style="width:240px"></label>
+          <span class="t-status" id="pickCount"></span>
+        </div>
+        <input class="t-link" id="link" readonly aria-label="Student test link">
+        <div class="t-row">
+          <button class="primary-button" id="copy" type="button">Copy link 複製連結</button>
+          <a class="secondary-button" id="open" target="_blank" rel="noopener" style="text-decoration:none">Open test 開啟測驗</a>
+          <button class="secondary-button" id="dl" type="button">⬇ Download these words (Excel)</button>
+        </div>
+      </section>
+
+      <section class="t-panel">
+        <h2>Test log 測驗紀錄 <small class="t-status" id="logCount"></small></h2>
+        <div class="t-scroll"><table class="t" id="logTable"></table></div>
+      </section>
+
+      <section class="t-panel">
+        <h2>★ Review lists 學生自選複習單字</h2>
+        <div class="t-scroll"><table class="t" id="reviewTable"></table></div>
+      </section>
+    </div>
+  </main>
+
+  <script src="books.js?v=20261113f"></script>
+  <script src="tracker-config.js?v=20261113c"></script>
+  <script src="l4-dashboard-data.js?v=20261113f"></script>
+  <script src="l5-dashboard-data.js?v=20261113f"></script>
+  <script src="l6-dashboard-data.js?v=20261113f"></script>
+  <script src="j-dashboard-data.js?v=20261113f"></script>
+  <script src="g-dashboard-data.js?v=20261113f"></script>
+  <script src="vendor/xlsx.full.min.js"></script>
+  <script>
+  const ENDPOINT = String(window.GSAT_TRACKER_URL || "").trim();
+  const $ = s => document.querySelector(s);
+  const KEY_STORE = "gsat456-teacher-key";
+  const MAX_WORDS = 100;
+  let data = { tests: [], reviews: [] };
+
+  // key "4-12:5" -> card
+  const cards = new Map();
+  const ZONES = window.VOCAB_ZONES || {};
+  Object.entries(ZONES).forEach(([id, z]) => (window[z.global] || []).forEach(u => u.cards.forEach((c, i) => cards.set(`${z.prefix}-${u.unit}:${i}`, { ...c, zone: id, level: z.tag, name: z.name, unit: u.unit }))));
+  document.addEventListener("DOMContentLoaded", () => {
+    const sel = document.querySelector("#fLevel");
+    sel.replaceChildren(new Option("All 全部", ""), ...Object.entries(ZONES).map(([id, z]) => new Option(z.short, id)));
+  });
+
+  const el = (tag, text, cls) => { const e = document.createElement(tag); if (text != null) e.textContent = text; if (cls) e.className = cls; return e; };
+  const accClass = a => a < 60 ? "acc-low" : a < 80 ? "acc-mid" : "acc-high";
+  const splitKeys = s => String(s || "").split(",").map(k => k.trim()).filter(k => cards.has(k));
+
+  function table(target, head, rows) {
+    const t = $(target);
+    const thead = el("thead"), tr = el("tr");
+    head.forEach(h => tr.append(el("th", h)));
+    thead.append(tr);
+    const tbody = el("tbody");
+    rows.forEach(r => tbody.append(r));
+    if (!rows.length) { const r = el("tr"); const td = el("td", "No records yet. 尚無資料"); td.colSpan = head.length; r.append(td); tbody.append(r); }
+    t.replaceChildren(thead, tbody);
+  }
+
+  async function load() {
+    const key = $("#key").value.trim();
+    const status = $("#status");
+    status.className = "t-status";
+    if (!ENDPOINT) { status.className = "t-status err"; status.textContent = "tracker-config.js has no web app address yet. 尚未設定網址。"; return; }
+    if (!key) { status.textContent = "Enter your teacher key. 請輸入密碼。"; return; }
+    status.textContent = "Loading… 讀取中…";
+    try {
+      const response = await fetch(`${ENDPOINT}?key=${encodeURIComponent(key)}&t=${Date.now()}`);
+      const json = await response.json();
+      if (json.error) throw new Error(json.error === "wrong key" ? "Wrong key 密碼錯誤" : json.error);
+      data = { tests: json.tests || [], reviews: json.reviews || [] };
+      try { sessionStorage.setItem(KEY_STORE, key); } catch (error) { /* ignore */ }
+      status.textContent = `Loaded ${data.tests.length} tests, ${data.reviews.length} review lists. 已讀取。`;
+      $("#content").hidden = false;
+      renderAll();
+    } catch (error) {
+      status.className = "t-status err";
+      status.textContent = `Could not load: ${error.message}`;
+    }
+  }
+
+  function renderAll() {
+    const names = [...new Set([...data.tests.map(t => t.name), ...data.reviews.map(r => r.name)])].filter(Boolean).sort((a, b) => a.localeCompare(b, "zh-Hant"));
+    const sel = $("#fStudent");
+    const keep = sel.value;
+    sel.replaceChildren(new Option("All students 全班", ""), ...names.map(n => new Option(n, n)));
+    sel.value = names.includes(keep) ? keep : "";
+
+    table("#studentTable", ["Name 姓名", "Tests 次數", "Avg accuracy 平均正確率", "Last test 最近測驗", "Mistaken words 錯字數", "★ words"], names.map(name => {
+      const tests = data.tests.filter(t => t.name === name);
+      const review = data.reviews.find(r => r.name === name);
+      const avg = tests.length ? Math.round(tests.reduce((n, t) => n + t.accuracy, 0) / tests.length) : null;
+      const wrong = new Set(tests.flatMap(t => String(t.wrongWords).split(/\s*,\s*/).filter(Boolean)));
+      const tr = el("tr", null, "pick");
+      tr.append(el("td", name), el("td", tests.length, "num"));
+      tr.append(avg == null ? el("td", "—", "num") : el("td", `${avg}%`, `num ${accClass(avg)}`));
+      tr.append(el("td", tests.length ? tests[tests.length - 1].time : "—"), el("td", wrong.size, "num"), el("td", review ? review.count : 0, "num"));
+      tr.addEventListener("click", () => { sel.value = name; renderFiltered(); $("#fStudent").scrollIntoView({ behavior: "smooth", block: "center" }); });
+      return tr;
+    }));
+    renderFiltered();
+  }
+
+  function renderFiltered() {
+    const student = $("#fStudent").value;
+    const tests = data.tests.filter(t => !student || t.name === student).slice().reverse();
+    $("#logCount").textContent = `${tests.length} record(s)${student ? ` · ${student}` : ""}`;
+    table("#logTable", ["Time 時間", "Name 姓名", "Type 類型", "Level", "Group", "Score", "Accuracy", "Mistaken words 錯字"], tests.map(t => {
+      const tr = el("tr");
+      tr.append(el("td", t.time), el("td", t.name), el("td", t.label ? `${t.type} — ${t.label}` : t.type), el("td", t.level), el("td", t.group),
+        el("td", `${t.correct}/${t.total}`, "num"), el("td", `${t.accuracy}%`, `num ${accClass(t.accuracy)}`), el("td", t.wrongWords, "words"));
+      return tr;
+    }));
+    table("#reviewTable", ["Name 姓名", "Updated 更新", "Count", "★ Review words"], data.reviews.filter(r => !student || r.name === student).map(r => {
+      const tr = el("tr");
+      tr.append(el("td", r.name), el("td", r.updated), el("td", r.count, "num"), el("td", r.words));
+      return tr;
+    }));
+    renderPicker();
+  }
+
+  // ---------- Test builder ----------
+  function candidates() {
+    const student = $("#fStudent").value, level = $("#fLevel").value, min = Math.max(1, Number($("#fMin").value) || 1);
+    const tally = new Map();
+    data.tests.filter(t => !student || t.name === student).forEach(t => splitKeys(t.wrongKeys).forEach(k => {
+      const item = tally.get(k) || { key: k, times: 0, students: new Set(), star: false };
+      item.times += 1; item.students.add(t.name); tally.set(k, item);
+    }));
+    let list = [...tally.values()].filter(x => x.times >= min);
+    if ($("#fStar").checked) {
+      data.reviews.filter(r => !student || r.name === student).forEach(r => splitKeys(r.keys).forEach(k => {
+        if (!tally.has(k) || tally.get(k).times < min) { if (!list.some(x => x.key === k)) list.push({ key: k, times: 0, students: new Set([r.name]), star: true }); }
+        else tally.get(k).star = true;
+      }));
+    }
+    if (level) list = list.filter(x => cards.get(x.key).zone === level);
+    return list.sort((a, b) => b.times - a.times || b.students.size - a.students.size || cards.get(a.key).w.localeCompare(cards.get(b.key).w));
+  }
+
+  function renderPicker() {
+    const list = candidates();
+    const top = Math.min(MAX_WORDS, Math.max(1, Number($("#fTop").value) || 20));
+    const box = $("#wordPick");
+    box.replaceChildren(...list.map((x, i) => {
+      const c = cards.get(x.key);
+      const label = el("label", null, x.star ? "star" : "");
+      const input = el("input"); input.type = "checkbox"; input.value = x.key; input.checked = i < top;
+      input.addEventListener("change", updateLink);
+      label.append(input, el("span", c.w), el("small", `${x.times ? `×${x.times}` : "★"} · ${c.level}`));
+      label.title = `${c.p} ${c.c} — ${c.name} Group ${c.unit}${x.times ? ` — missed ${x.times}× by ${x.students.size} student(s)` : " — on a ★ review list"}`;
+      return label;
+    }));
+    if (!list.length) box.append(el("span", "No mistaken words for this filter yet. 目前沒有符合的錯字。", "t-status"));
+    updateLink();
+  }
+
+  function picked() {
+    return [...document.querySelectorAll("#wordPick input:checked")].map(i => i.value).slice(0, MAX_WORDS);
+  }
+
+  function updateLink() {
+    const keys = picked();
+    const label = $("#label").value.trim();
+    const base = new URL("review-arcade.html", location.href).href;
+    const link = keys.length ? `${base}#set=${keys.join(",")}${label ? `&label=${encodeURIComponent(label)}` : ""}` : "";
+    $("#link").value = link;
+    $("#open").href = link || "#";
+    $("#pickCount").textContent = `${keys.length} word(s) selected 已選 (max ${MAX_WORDS})`;
+  }
+
+  $("#copy").addEventListener("click", async () => {
+    const link = $("#link").value;
+    if (!link) return;
+    try { await navigator.clipboard.writeText(link); } catch (error) { $("#link").select(); document.execCommand("copy"); }
+    $("#copy").textContent = "Copied ✓ 已複製";
+    setTimeout(() => { $("#copy").textContent = "Copy link 複製連結"; }, 1600);
+  });
+
+  $("#dl").addEventListener("click", () => {
+    const keys = picked();
+    if (!keys.length || !window.XLSX) return;
+    const rows = [["No.", "Book / Level", "Group", "Word", "POS", "English Definition", "Chinese Definition", "Sample Sentence", "Sentence Translation"]];
+    keys.forEach((k, i) => { const c = cards.get(k); rows.push([i + 1, c.name, c.unit, c.w, c.p, c.d, c.c, c.s, c.t]); });
+    const sheet = XLSX.utils.aoa_to_sheet(rows);
+    sheet["!cols"] = [5, 6, 6, 22, 8, 44, 24, 80, 56].map(wch => ({ wch }));
+    const book = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(book, sheet, "Test words");
+    XLSX.writeFile(book, `GSAT6000_Mistake_Words.xlsx`);
+  });
+
+  ["#fStudent"].forEach(s => $(s).addEventListener("change", renderFiltered));
+  ["#fLevel", "#fMin", "#fStar", "#fTop"].forEach(s => $(s).addEventListener("change", renderPicker));
+  $("#label").addEventListener("input", updateLink);
+  $("#load").addEventListener("click", load);
+  $("#key").addEventListener("keydown", event => { if (event.key === "Enter") load(); });
+  try { const saved = sessionStorage.getItem(KEY_STORE); if (saved) { $("#key").value = saved; load(); } } catch (error) { /* ignore */ }
+  </script>
+</body>
+</html>

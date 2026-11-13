@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vocabulary Board · 學測6000字 · 國中小2000字 · 捷進GEPT初級 · AWL</title>
+  <link rel="stylesheet" href="styles.css?v=20261113f">
+</head>
+<body data-tracker-ask>
+  <main class="app-shell board-shell">
+    <header class="board-hero">
+      <p class="eyebrow">學測 6000 字 Level 4 · 5 · 6（詞族版） · 國中小基礎 2000 字 · 捷進全民英檢初級單字書 · AWL 學術單字</p>
+      <h1>Vocabulary Board 單字學習板</h1>
+      <p class="board-intro">Hover over any word to hear it and see its meaning. <b>🗂 Flashcards</b> opens a group's flashcards (example sentences); <b>double-click</b> any word to open its own flashcard. Click a word you find difficult once: it turns <b class="red-text">red</b> and goes on your review list (click again to remove). <b>Download Excel</b> saves your list.<br>滑過單字可聽發音、看解釋。按「🗂 Flashcards」進入該組字卡（例句）；<b>點兩下</b>任一單字直接開啟它的字卡。點一下不熟的單字會變紅色並加入複習清單（再點一下移除），按「Download Excel」可下載清單。</p>
+      <p class="legend-note" id="legendNote"><b class="head-demo">粗體字</b> = the level's own word 該級單字；其他 = its word family 詞族（片語、衍生字、其他詞性）。</p>
+    </header>
+
+    <nav class="book-tabs" id="bookTabs" aria-label="Books"></nav>
+    <nav class="zone-tabs" id="zoneTabs" role="tablist" aria-label="Levels"></nav>
+
+    <div class="review-bar" id="reviewBar">
+      <div class="review-count"><span id="reviewCount">0</span> word(s) on my review list <span class="zh">我的複習清單</span></div>
+      <span class="tracker-box" data-tracker-box hidden>👤 <b data-tracker-name>—</b> <button type="button" data-tracker-change>Change name 改名字</button></span>
+      <div class="review-actions">
+        <label class="search-box"><span>Find</span><input id="wordSearch" type="search" placeholder="Search a word…" autocomplete="off"></label>
+        <button class="primary-button arcade-button" id="arcadeReview" type="button" disabled title="Quiz yourself on your review list — a mini-game every 10 correct answers 用複習清單出題，每答對 10 題玩小遊戲">🎮 Test my words 闖關測驗</button>
+        <button class="primary-button" id="downloadReview" type="button" disabled>⬇ Download Excel</button>
+        <button class="secondary-button" id="showReview" type="button" disabled>Show list</button>
+        <button class="secondary-button" id="clearReview" type="button" disabled>Clear</button>
+      </div>
+      <p class="roots-search-note" id="searchNote" aria-live="polite"></p>
+      <div class="review-preview" id="reviewPreview" hidden></div>
+    </div>
+
+    <div id="zonePanels"></div>
+    <a class="teacher-link" href="teacher.html">Teacher 教師專用</a>
+  </main>
+  <script src="books.js?v=20261113f"></script>
+  <script src="l4-dashboard-data.js?v=20261113f"></script>
+  <script src="l5-dashboard-data.js?v=20261113f"></script>
+  <script src="l6-dashboard-data.js?v=20261113f"></script>
+  <script src="j-dashboard-data.js?v=20261113f"></script>
+  <script src="g-dashboard-data.js?v=20261113f"></script>
+  <script src="tracker-config.js?v=20261113c"></script>
+  <script src="tracker.js?v=20261113f"></script>
+  <script src="vendor/xlsx.full.min.js"></script>
+  <script src="dashboard.js?v=20261113f"></script>
+</body>
+</html>
