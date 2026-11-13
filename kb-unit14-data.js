@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "amaze",
     "answer": "amazed",
     "pos": "v.",
-    "definition": "",
+    "definition": "to surprise someone very much",
     "chinese": "使驚訝；使驚奇",
     "sentence": "The total solar eclipse __________ millions of people around the world.",
     "translation": "全日食令世界各地的數百萬人感到驚奇。",
     "lookup": {
-     "english": "",
+     "english": "to surprise someone very much",
      "chinese": "使驚訝；使驚奇"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "amazing",
     "answer": "amazing",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very surprising, especially in a way you like or admire",
     "chinese": "令人驚奇的；驚人的",
     "sentence": "The progress in AI development is __________!",
     "translation": "人工智能發展的進步令人驚嘆！",
     "lookup": {
-     "english": "",
+     "english": "very surprising, especially in a way you like or admire",
      "chinese": "令人驚奇的；驚人的"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "be amazed at",
     "answer": "amazed at",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to be very surprised by something",
     "chinese": "對...感到驚奇",
     "sentence": "Many were __________ the 3D printed food technology.",
     "translation": "許多人對3D打印食物技術感到驚奇。",
     "lookup": {
-     "english": "",
+     "english": "to be very surprised by something",
      "chinese": "對...感到驚奇"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "crop",
     "answer": "crop",
     "pos": "v.",
-    "definition": "",
+    "definition": "a plant such as wheat or rice that is grown in large amounts; the amount gathered in one season",
     "chinese": "作物；收成；種植",
     "sentence": "The wheat __________ in Ukraine has been greatly affected by the war.",
     "translation": "烏克蘭的小麥收成受到戰爭的嚴重影響。",
     "lookup": {
-     "english": "",
+     "english": "a plant such as wheat or rice that is grown in large amounts; the amount gathered in one season",
      "chinese": "作物；收成；種植"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "influence",
     "answer": "influence",
     "pos": "n.",
-    "definition": "",
+    "definition": "the power to affect how someone thinks or how something develops",
     "chinese": "影響；作用",
     "sentence": "The wars in Ukraine and Israel have had a significant __________ on global politics.",
     "translation": "烏克蘭和以色列的戰爭對全球政治產生了重大影響。",
     "lookup": {
-     "english": "",
+     "english": "the power to affect how someone thinks or how something develops",
      "chinese": "影響；作用"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "have a...influence on...",
     "answer": "influence",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to affect the way someone or something develops, behaves or thinks",
     "chinese": "對...有影響",
     "sentence": "AI development has had a profound __________ on various industries.",
     "translation": "人工智能的發展對各行業產生了深遠影響。",
     "lookup": {
-     "english": "",
+     "english": "to affect the way someone or something develops, behaves or thinks",
      "chinese": "對...有影響"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "influence",
     "answer": "influenced",
     "pos": "v.",
-    "definition": "",
+    "definition": "to affect how someone thinks or how something develops",
     "chinese": "影響；左右",
     "sentence": "Recent earthquakes in Taiwan __________ the agricultural sector.",
     "translation": "最近在台灣發生的地震對農業部門產生了影響。",
     "lookup": {
-     "english": "",
+     "english": "to affect how someone thinks or how something develops",
      "chinese": "影響；左右"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "influential",
     "answer": "influential",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having a lot of power to affect what people think or do",
     "chinese": "有影響力的；有權勢的",
     "sentence": "He is an __________ figure in the field of AI research.",
     "translation": "他在人工智能研究領域是一位有影響力的人物。",
     "lookup": {
-     "english": "",
+     "english": "having a lot of power to affect what people think or do",
      "chinese": "有影響力的；有權勢的"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "mankind",
     "answer": "mankind",
     "pos": "n.",
-    "definition": "",
+    "definition": "all humans, thought of as a group",
     "chinese": "人類",
     "sentence": "The wars remind us of the destructive nature of __________'s conflicts.",
     "translation": "戰爭提醒我們人類衝突的破壞性本質。",
     "lookup": {
-     "english": "",
+     "english": "all humans, thought of as a group",
      "chinese": "人類"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "human being",
     "answer": "human beings",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person",
     "chinese": "人類",
     "sentence": "The earthquakes in Taiwan have shown the resilience of __________.",
     "translation": "台灣的地震顯示了人類的韌性。",
     "lookup": {
-     "english": "",
+     "english": "a person",
      "chinese": "人類"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "humanity",
     "answer": "humanity",
     "pos": "n.",
-    "definition": "",
+    "definition": "people in general; the quality of being kind to others",
     "chinese": "人性；人道；人類",
     "sentence": "The conflicts highlight the need for compassion and understanding in __________.",
     "translation": "衝突凸顯了對人性的同情和理解的需求。",
     "lookup": {
-     "english": "",
+     "english": "people in general; the quality of being kind to others",
      "chinese": "人性；人道；人類"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "significance",
     "answer": "significance",
     "pos": "n.",
-    "definition": "",
+    "definition": "the importance or meaning of something",
     "chinese": "重要性；意義",
     "sentence": "The total solar eclipse holds great __________ for astronomers.",
     "translation": "全日食對天文學家來說意義重大。",
     "lookup": {
-     "english": "",
+     "english": "the importance or meaning of something",
      "chinese": "重要性；意義"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "significant",
     "answer": "significant",
     "pos": "adj.",
-    "definition": "",
+    "definition": "large or important enough to be noticed or to have an effect",
     "chinese": "重要的；顯著的",
     "sentence": "The development of AI has had a __________ impact on various industries.",
     "translation": "人工智能的發展對各行業產生了顯著影響。",
     "lookup": {
-     "english": "",
+     "english": "large or important enough to be noticed or to have an effect",
      "chinese": "重要的；顯著的"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "significantly",
     "answer": "significantly",
     "pos": "adv.",
-    "definition": "",
+    "definition": "in a way that is large or important enough to be noticed",
     "chinese": "顯著地；重大地",
     "sentence": "The earthquake __________ affected the region's infrastructure.",
     "translation": "地震對該地區的基礎設施產生了重大影響。",
     "lookup": {
-     "english": "",
+     "english": "in a way that is large or important enough to be noticed",
      "chinese": "顯著地；重大地"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "insignificant",
     "answer": "insignificant",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not big or important enough to be worth considering",
     "chinese": "無關緊要的；微不足道的",
     "sentence": "Some people consider the AI development to be __________ compared to other global issues.",
     "translation": "一些人認為與其他全球問題相比，人工智能發展微不足道。",
     "lookup": {
-     "english": "",
+     "english": "not big or important enough to be worth considering",
      "chinese": "無關緊要的；微不足道的"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "importance",
     "answer": "importance",
     "pos": "n.",
-    "definition": "",
+    "definition": "the quality of having great value or influence",
     "chinese": "重要性；重要程度",
     "sentence": "The __________ of renewable energy sources is increasingly recognized.",
     "translation": "對可再生能源的重視程度越來越高。",
     "lookup": {
-     "english": "",
+     "english": "the quality of having great value or influence",
      "chinese": "重要性；重要程度"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "important",
     "answer": "important",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having great value, meaning or effect",
     "chinese": "重要的；重大的",
     "sentence": "It is __________ to conduct thorough research before making decisions.",
     "translation": "在做出決定之前進行深入的研究是非常重要的。",
     "lookup": {
-     "english": "",
+     "english": "having great value, meaning or effect",
      "chinese": "重要的；重大的"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "unimportant",
     "answer": "unimportant",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not having much value, meaning or effect",
     "chinese": "不重要的；無關緊要的",
     "sentence": "Some people argue that the issue is __________ compared to other global challenges.",
     "translation": "一些人認為與其他全球挑戰相比，這個問題不重要。",
     "lookup": {
-     "english": "",
+     "english": "not having much value, meaning or effect",
      "chinese": "不重要的；無關緊要的"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "wheat",
     "answer": "wheat",
     "pos": "n.",
-    "definition": "",
+    "definition": "a plant grown for its grain, which is used to make flour and bread",
     "chinese": "小麥",
     "sentence": "The war has disrupted the __________ harvest in the region.",
     "translation": "這場戰爭擾亂了該地區的小麥收成。",
     "lookup": {
-     "english": "",
+     "english": "a plant grown for its grain, which is used to make flour and bread",
      "chinese": "小麥"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "climate",
     "answer": "climate",
     "pos": "n.",
-    "definition": "",
+    "definition": "the usual weather conditions of a place; the general feeling or situation at a time",
     "chinese": "氣候；風氣",
     "sentence": "The changing __________ patterns have led to unpredictable weather.",
     "translation": "變化中的氣候模式導致了不可預測的天氣。",
     "lookup": {
-     "english": "",
+     "english": "the usual weather conditions of a place; the general feeling or situation at a time",
      "chinese": "氣候；風氣"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "sauce",
     "answer": "sauce",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thick liquid that is eaten with food to add flavor",
     "chinese": "醬汁",
     "sentence": "The new __________ recipe uses locally sourced ingredients.",
     "translation": "這種新的醬汁食譜使用當地的食材。",
     "lookup": {
-     "english": "",
+     "english": "a thick liquid that is eaten with food to add flavor",
      "chinese": "醬汁"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "saucer",
     "answer": "saucer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small shallow dish that a cup stands on",
     "chinese": "碟子；茶托",
     "sentence": "She placed the cup on the __________ next to her.",
     "translation": "她把杯子放在了她旁邊的碟子上。",
     "lookup": {
-     "english": "",
+     "english": "a small shallow dish that a cup stands on",
      "chinese": "碟子；茶托"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "means",
     "answer": "means",
     "pos": "n.",
-    "definition": "",
+    "definition": "a way of doing or achieving something",
     "chinese": "方法；手段",
     "sentence": "One __________ to reduce carbon emissions is to use renewable energy.",
     "translation": "減少碳排放的一種方法是使用可再生能源。",
     "lookup": {
-     "english": "",
+     "english": "a way of doing or achieving something",
      "chinese": "方法；手段"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "by all means",
     "answer": "by all means",
     "pos": "phr.",
-    "definition": "",
+    "definition": "used to say that someone is very welcome to do something; certainly",
     "chinese": "當然可以；務必",
     "sentence": "If you have any questions, __________ ask the instructor.",
     "translation": "如果你有任何問題，務必向講師提問。",
     "lookup": {
-     "english": "",
+     "english": "used to say that someone is very welcome to do something; certainly",
      "chinese": "當然可以；務必"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "by no means",
     "answer": "by no means",
     "pos": "phr.",
-    "definition": "",
+    "definition": "not at all",
     "chinese": "絕不；決不",
     "sentence": "The new policy is __________ perfect, but it's a step in the right direction.",
     "translation": "這項新政策絕不完美，但是這是朝著正確方向邁出的一步。",
     "lookup": {
-     "english": "",
+     "english": "not at all",
      "chinese": "絕不；決不"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "under no circumstances",
     "answer": "Under no circumstances",
     "pos": "phr.",
-    "definition": "",
+    "definition": "never; not for any reason",
     "chinese": "絕不；在任何情況下都不",
     "sentence": "__________ should you give out your personal information to strangers.",
     "translation": "你絕對不應該向陌生人透露你的個人信息。",
     "lookup": {
-     "english": "",
+     "english": "never; not for any reason",
      "chinese": "絕不；在任何情況下都不"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "namely",
     "answer": "namely",
     "pos": "adv.",
-    "definition": "",
+    "definition": "used to give more exact information about what you have just said",
     "chinese": "即；也就是",
     "sentence": "There are several countries involved, __________ Russia and China.",
     "translation": "有幾個國家參與其中，包括俄羅斯和中國。",
     "lookup": {
-     "english": "",
+     "english": "used to give more exact information about what you have just said",
      "chinese": "即；也就是"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "prove",
     "answer": "prove",
     "pos": "v.",
-    "definition": "",
+    "definition": "to use facts to show that something is true",
     "chinese": "證明；證實",
     "sentence": "Recent studies __________ that the vaccine is effective against the virus.",
     "translation": "最近的研究證明疫苗對這種病毒是有效的。",
     "lookup": {
-     "english": "",
+     "english": "to use facts to show that something is true",
      "chinese": "證明；證實"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "proof",
     "answer": "proof",
     "pos": "n.",
-    "definition": "",
+    "definition": "facts or information that show something is true",
     "chinese": "證據；證明",
     "sentence": "The data provides __________ that the theory is correct.",
     "translation": "這些數據提供了理論正確性的證據。",
     "lookup": {
-     "english": "",
+     "english": "facts or information that show something is true",
      "chinese": "證據；證明"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "proven",
     "answer": "proven",
     "pos": "adj.",
-    "definition": "",
+    "definition": "tested and shown to be true or good",
     "chinese": "證明的；被證實的",
     "sentence": "The new treatment has been __________ to be effective.",
     "translation": "這種新的治療方法已被證明是有效的。",
     "lookup": {
-     "english": "",
+     "english": "tested and shown to be true or good",
      "chinese": "證明的；被證實的"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "value",
     "answer": "value",
     "pos": "v.",
-    "definition": "",
+    "definition": "to think that someone or something is important",
     "chinese": "價值；重要性；估值；看重",
     "sentence": "It's important to __________ the opinions of others.",
     "translation": "重視他人的意見是很重要的。",
     "lookup": {
-     "english": "",
+     "english": "to think that someone or something is important",
      "chinese": "價值；重要性；估值；看重"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "valuable",
     "answer": "valuable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "worth a lot of money; very useful or important",
     "chinese": "有價值的；寶貴的",
     "sentence": "The experience gained from volunteering is __________ for personal growth.",
     "translation": "從志願工作中獲得的經驗對個人成長很有價值。",
     "lookup": {
-     "english": "",
+     "english": "worth a lot of money; very useful or important",
      "chinese": "有價值的；寶貴的"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "invaluable",
     "answer": "invaluable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "extremely useful",
     "chinese": "非常寶貴的；無價的",
     "sentence": "Her guidance throughout the project has been __________ to us.",
     "translation": "她在整個項目中的指導對我們來說是無價的。",
     "lookup": {
-     "english": "",
+     "english": "extremely useful",
      "chinese": "非常寶貴的；無價的"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "priceless",
     "answer": "priceless",
     "pos": "adj.",
-    "definition": "",
+    "definition": "too valuable to have a price; extremely important to you",
     "chinese": "無價的；極其珍貴的",
     "sentence": "The support of friends and family is __________ during difficult times.",
     "translation": "在困難時期，朋友和家人的支持是無價的。",
     "lookup": {
-     "english": "",
+     "english": "too valuable to have a price; extremely important to you",
      "chinese": "無價的；極其珍貴的"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "undervalue",
     "answer": "undervalue",
     "pos": "v.",
-    "definition": "",
+    "definition": "to think that something is less important or valuable than it really is",
     "chinese": "低估；輕視",
     "sentence": "It's easy to __________ the importance of mental health.",
     "translation": "很容易低估心理健康的重要性。",
     "lookup": {
-     "english": "",
+     "english": "to think that something is less important or valuable than it really is",
      "chinese": "低估；輕視"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "overvalue",
     "answer": "overvalue",
     "pos": "v.",
-    "definition": "",
+    "definition": "to think that something is more important or valuable than it really is",
     "chinese": "高估；過分重視",
     "sentence": "Some people tend to __________ their own opinions.",
     "translation": "有些人傾向於過分重視自己的意見。",
     "lookup": {
-     "english": "",
+     "english": "to think that something is more important or valuable than it really is",
      "chinese": "高估；過分重視"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "core values",
     "answer": "core values",
     "pos": "phr.",
-    "definition": "",
+    "definition": "the most important beliefs that guide how a person or organization behaves",
     "chinese": "核心價值觀",
     "sentence": "The company's __________ include integrity and teamwork.",
     "translation": "公司的核心價值觀包括誠信和團隊合作。",
     "lookup": {
-     "english": "",
+     "english": "the most important beliefs that guide how a person or organization behaves",
      "chinese": "核心價值觀"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "place great value/emphasis/stress on...",
     "answer": "places great emphasis on",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to treat something as very important",
     "chinese": "對...非常重視",
     "sentence": "The school __________ character education.",
     "translation": "這所學校非常重視品德教育。",
     "lookup": {
-     "english": "",
+     "english": "to treat something as very important",
      "chinese": "對...非常重視"
     }
    },
@@ -502,12 +502,12 @@ window.FLASHCARD_UNITS = {
     "word": "protein",
     "answer": "protein",
     "pos": "n.",
-    "definition": "",
+    "definition": "a substance in foods such as meat, eggs and beans that helps your body grow and stay strong",
     "chinese": "蛋白質",
     "sentence": "Vegetarians often look for alternative sources of __________ in their diet.",
     "translation": "素食者通常在飲食中尋找蛋白質的替代來源。",
     "lookup": {
-     "english": "",
+     "english": "a substance in foods such as meat, eggs and beans that helps your body grow and stay strong",
      "chinese": "蛋白質"
     }
    },
@@ -515,12 +515,12 @@ window.FLASHCARD_UNITS = {
     "word": "mineral",
     "answer": "minerals",
     "pos": "n.",
-    "definition": "",
+    "definition": "a natural substance such as iron or calcium that your body needs to stay healthy",
     "chinese": "礦物質",
     "sentence": "Some __________ are essential for maintaining good health.",
     "translation": "一些礦物質對保持健康至關重要。",
     "lookup": {
-     "english": "",
+     "english": "a natural substance such as iron or calcium that your body needs to stay healthy",
      "chinese": "礦物質"
     }
    },
@@ -528,12 +528,12 @@ window.FLASHCARD_UNITS = {
     "word": "vitamin",
     "answer": "vitamins",
     "pos": "n.",
-    "definition": "",
+    "definition": "a natural substance in food that you need in small amounts to stay healthy",
     "chinese": "維生素",
     "sentence": "It's important to get enough __________ through diet or supplements.",
     "translation": "通過飲食或補充劑攝取足夠的維生素是很重要的。",
     "lookup": {
-     "english": "",
+     "english": "a natural substance in food that you need in small amounts to stay healthy",
      "chinese": "維生素"
     }
    },
@@ -541,12 +541,12 @@ window.FLASHCARD_UNITS = {
     "word": "carbohydrate",
     "answer": "carbohydrates",
     "pos": "n.",
-    "definition": "",
+    "definition": "a substance in foods such as bread, rice and sugar that gives your body energy",
     "chinese": "碳水化合物",
     "sentence": "Athletes need to consume enough __________ for energy.",
     "translation": "運動員需要攝取足夠的碳水化合物來獲得能量。",
     "lookup": {
-     "english": "",
+     "english": "a substance in foods such as bread, rice and sugar that gives your body energy",
      "chinese": "碳水化合物"
     }
    },
@@ -554,12 +554,12 @@ window.FLASHCARD_UNITS = {
     "word": "fiber",
     "answer": "fiber",
     "pos": "n.",
-    "definition": "",
+    "definition": "the part of plants that you eat but cannot digest, which helps food move through your body",
     "chinese": "纖維",
     "sentence": "A diet rich in __________ is important for digestive health.",
     "translation": "富含纖維的飲食對消化健康很重要。",
     "lookup": {
-     "english": "",
+     "english": "the part of plants that you eat but cannot digest, which helps food move through your body",
      "chinese": "纖維"
     }
    },
@@ -567,12 +567,12 @@ window.FLASHCARD_UNITS = {
     "word": "nutrient",
     "answer": "nutrients",
     "pos": "n.",
-    "definition": "",
+    "definition": "a substance that living things need in order to live and grow",
     "chinese": "營養素",
     "sentence": "Fruits and vegetables are rich in essential __________.",
     "translation": "水果和蔬菜富含必需的營養素。",
     "lookup": {
-     "english": "",
+     "english": "a substance that living things need in order to live and grow",
      "chinese": "營養素"
     }
    },
@@ -580,12 +580,12 @@ window.FLASHCARD_UNITS = {
     "word": "nutrition",
     "answer": "nutrition",
     "pos": "n.",
-    "definition": "",
+    "definition": "the food you eat and the way it affects your health",
     "chinese": "營養",
     "sentence": "Proper __________ is essential for overall health.",
     "translation": "適當的營養對總體健康至關重要。",
     "lookup": {
-     "english": "",
+     "english": "the food you eat and the way it affects your health",
      "chinese": "營養"
     }
    },
@@ -593,12 +593,12 @@ window.FLASHCARD_UNITS = {
     "word": "nutritious",
     "answer": "nutritious",
     "pos": "adj.",
-    "definition": "",
+    "definition": "(of food) full of the things your body needs to be healthy",
     "chinese": "營養豐富的",
     "sentence": "A balanced diet should include a variety of __________ foods.",
     "translation": "均衡的飲食應該包含各種營養豐富的食物。",
     "lookup": {
-     "english": "",
+     "english": "(of food) full of the things your body needs to be healthy",
      "chinese": "營養豐富的"
     }
    },
@@ -606,12 +606,12 @@ window.FLASHCARD_UNITS = {
     "word": "basis",
     "answer": "basis",
     "pos": "n.",
-    "definition": "",
+    "definition": "the idea or reason that something is built on; a particular way of doing something",
     "chinese": "基礎；根據",
     "sentence": "The decision was made on a regular __________ after careful consideration.",
     "translation": "經過仔細考慮，這個決定是根據定期的基礎做出的。",
     "lookup": {
-     "english": "",
+     "english": "the idea or reason that something is built on; a particular way of doing something",
      "chinese": "基礎；根據"
     }
    },
@@ -619,12 +619,12 @@ window.FLASHCARD_UNITS = {
     "word": "on a regular basis",
     "answer": "on a regular basis",
     "pos": "phr.",
-    "definition": "",
+    "definition": "regularly; again and again at fixed times",
     "chinese": "定期地",
     "sentence": "He exercises __________ to stay healthy.",
     "translation": "他定期運動以保持健康。",
     "lookup": {
-     "english": "",
+     "english": "regularly; again and again at fixed times",
      "chinese": "定期地"
     }
    },
@@ -632,12 +632,12 @@ window.FLASHCARD_UNITS = {
     "word": "on the basis of",
     "answer": "on the basis of",
     "pos": "phr.",
-    "definition": "",
+    "definition": "because of a particular fact or reason",
     "chinese": "根據；基於",
     "sentence": "The report was written __________ the latest research findings.",
     "translation": "這份報告是根據最新的研究結果撰寫的。",
     "lookup": {
-     "english": "",
+     "english": "because of a particular fact or reason",
      "chinese": "根據；基於"
     }
    },
@@ -645,12 +645,12 @@ window.FLASHCARD_UNITS = {
     "word": "base",
     "answer": "based",
     "pos": "v.",
-    "definition": "",
+    "definition": "to use something as the starting point or reason for something else",
     "chinese": "基地；基礎；基於",
     "sentence": "The company's decision was __________ on market research.",
     "translation": "公司的決定是基於市場研究的。",
     "lookup": {
-     "english": "",
+     "english": "to use something as the starting point or reason for something else",
      "chinese": "基地；基礎；基於"
     }
    },
@@ -658,12 +658,12 @@ window.FLASHCARD_UNITS = {
     "word": "basic",
     "answer": "Basic",
     "pos": "adj.",
-    "definition": "",
+    "definition": "simple and most necessary; forming the starting point",
     "chinese": "基本的；基礎的",
     "sentence": "__________ knowledge of computer programming is required for this job.",
     "translation": "這份工作需要基本的電腦編程知識。",
     "lookup": {
-     "english": "",
+     "english": "simple and most necessary; forming the starting point",
      "chinese": "基本的；基礎的"
     }
    },
@@ -671,12 +671,12 @@ window.FLASHCARD_UNITS = {
     "word": "basically",
     "answer": "Basically",
     "pos": "adv.",
-    "definition": "",
+    "definition": "in the most important ways; used when giving a simple explanation",
     "chinese": "基本上；基本地",
     "sentence": "__________, the system works by converting sunlight into electricity.",
     "translation": "基本上，這個系統是通過將陽光轉換為電能來工作的。",
     "lookup": {
-     "english": "",
+     "english": "in the most important ways; used when giving a simple explanation",
      "chinese": "基本上；基本地"
     }
    },
@@ -684,12 +684,12 @@ window.FLASHCARD_UNITS = {
     "word": "increase",
     "answer": "increase",
     "pos": "n.",
-    "definition": "",
+    "definition": "a rise in the amount or number of something",
     "chinese": "增加；增長",
     "sentence": "There has been an __________ in demand for renewable energy sources.",
     "translation": "對可再生能源的需求有所增加。",
     "lookup": {
-     "english": "",
+     "english": "a rise in the amount or number of something",
      "chinese": "增加；增長"
     }
    },
@@ -697,12 +697,12 @@ window.FLASHCARD_UNITS = {
     "word": "increase",
     "answer": "increase",
     "pos": "v.",
-    "definition": "",
+    "definition": "to become or make something larger in amount or number",
     "chinese": "增加；增長",
     "sentence": "The company plans to __________ its production capacity next year.",
     "translation": "公司計劃明年增加其生產能力。",
     "lookup": {
-     "english": "",
+     "english": "to become or make something larger in amount or number",
      "chinese": "增加；增長"
     }
    },
@@ -710,12 +710,12 @@ window.FLASHCARD_UNITS = {
     "word": "increasing",
     "answer": "increasing",
     "pos": "adj.",
-    "definition": "",
+    "definition": "becoming greater in amount or number",
     "chinese": "不斷增加的；增長的",
     "sentence": "There is an __________ demand for skilled workers in the industry.",
     "translation": "行業對熟練工人的需求不斷增加。",
     "lookup": {
-     "english": "",
+     "english": "becoming greater in amount or number",
      "chinese": "不斷增加的；增長的"
     }
    },
@@ -723,12 +723,12 @@ window.FLASHCARD_UNITS = {
     "word": "increasingly",
     "answer": "increasingly",
     "pos": "adv.",
-    "definition": "",
+    "definition": "more and more over time",
     "chinese": "日益增加地；越來越多地",
     "sentence": "The use of AI is __________ common in various industries.",
     "translation": "人工智能在各行各業中的使用越來越普遍。",
     "lookup": {
-     "english": "",
+     "english": "more and more over time",
      "chinese": "日益增加地；越來越多地"
     }
    },
@@ -736,12 +736,12 @@ window.FLASHCARD_UNITS = {
     "word": "decrease",
     "answer": "decrease",
     "pos": "n.",
-    "definition": "",
+    "definition": "a fall in the amount or number of something",
     "chinese": "減少；減少量",
     "sentence": "There has been a significant __________ in air pollution levels.",
     "translation": "空氣污染水平顯著下降。",
     "lookup": {
-     "english": "",
+     "english": "a fall in the amount or number of something",
      "chinese": "減少；減少量"
     }
    },
@@ -749,12 +749,12 @@ window.FLASHCARD_UNITS = {
     "word": "decrease",
     "answer": "decrease",
     "pos": "v.",
-    "definition": "",
+    "definition": "to become or make something smaller in amount or number",
     "chinese": "減少；降低",
     "sentence": "The company plans to __________ its carbon emissions by 20% next year.",
     "translation": "公司計劃明年將碳排放減少20%。",
     "lookup": {
-     "english": "",
+     "english": "to become or make something smaller in amount or number",
      "chinese": "減少；降低"
     }
    },
@@ -762,12 +762,12 @@ window.FLASHCARD_UNITS = {
     "word": "decreasing",
     "answer": "decreasing",
     "pos": "adj.",
-    "definition": "",
+    "definition": "becoming smaller in amount or number",
     "chinese": "逐漸減少的；減少中的",
     "sentence": "The price of solar panels has been __________ due to advances in technology.",
     "translation": "太陽能板的價格由於技術進步而逐漸降低。",
     "lookup": {
-     "english": "",
+     "english": "becoming smaller in amount or number",
      "chinese": "逐漸減少的；減少中的"
     }
    },
@@ -775,12 +775,12 @@ window.FLASHCARD_UNITS = {
     "word": "decreasingly",
     "answer": "decreasingly",
     "pos": "adv.",
-    "definition": "",
+    "definition": "less and less over time",
     "chinese": "逐漸減少地；越來越少地",
     "sentence": "The use of fossil fuels is __________ common as renewable energy sources become more popular.",
     "translation": "隨著可再生能源的普及，化石燃料的使用逐漸減少。",
     "lookup": {
-     "english": "",
+     "english": "less and less over time",
      "chinese": "逐漸減少地；越來越少地"
     }
    },
@@ -788,12 +788,12 @@ window.FLASHCARD_UNITS = {
     "word": "diet",
     "answer": "diet",
     "pos": "n.",
-    "definition": "",
+    "definition": "the food and drink that a person usually eats",
     "chinese": "飲食；日常飲食",
     "sentence": "A balanced __________ is essential for good health.",
     "translation": "均衡的飲食對健康至關重要。",
     "lookup": {
-     "english": "",
+     "english": "the food and drink that a person usually eats",
      "chinese": "飲食；日常飲食"
     }
    },
@@ -801,12 +801,12 @@ window.FLASHCARD_UNITS = {
     "word": "diet",
     "answer": "diet",
     "pos": "v.",
-    "definition": "",
+    "definition": "to eat less food or only certain foods in order to lose weight",
     "chinese": "節食；戒食",
     "sentence": "She decided to __________ in order to lose weight.",
     "translation": "她決定節食以減肥。",
     "lookup": {
-     "english": "",
+     "english": "to eat less food or only certain foods in order to lose weight",
      "chinese": "節食；戒食"
     }
    },
@@ -814,12 +814,12 @@ window.FLASHCARD_UNITS = {
     "word": "be on a diet",
     "answer": "on a diet",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to be eating less or only certain foods in order to lose weight",
     "chinese": "在節食中；在戒食中",
     "sentence": "He's __________ to improve his health.",
     "translation": "他正在節食以改善健康。",
     "lookup": {
-     "english": "",
+     "english": "to be eating less or only certain foods in order to lose weight",
      "chinese": "在節食中；在戒食中"
     }
    },
@@ -827,12 +827,12 @@ window.FLASHCARD_UNITS = {
     "word": "dietary",
     "answer": "dietary",
     "pos": "adj.",
-    "definition": "",
+    "definition": "relating to the food that you eat",
     "chinese": "飲食的；日常飲食的",
     "sentence": "It's important to have a balanced __________ intake.",
     "translation": "保持均衡的飲食攝入量很重要。",
     "lookup": {
-     "english": "",
+     "english": "relating to the food that you eat",
      "chinese": "飲食的；日常飲食的"
     }
    },
@@ -840,12 +840,12 @@ window.FLASHCARD_UNITS = {
     "word": "fast",
     "answer": "fast",
     "pos": "v.",
-    "definition": "",
+    "definition": "to eat no food for a period of time",
     "chinese": "禁食；斋戒",
     "sentence": "Some people choose to __________ for religious reasons.",
     "translation": "一些人選擇出於宗教原因而禁食。",
     "lookup": {
-     "english": "",
+     "english": "to eat no food for a period of time",
      "chinese": "禁食；斋戒"
     }
    },
@@ -853,12 +853,12 @@ window.FLASHCARD_UNITS = {
     "word": "delicious",
     "answer": "delicious",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having a very pleasant taste or smell",
     "chinese": "美味的；可口的",
     "sentence": "The restaurant is known for its __________ seafood dishes.",
     "translation": "這家餐廳以其美味的海鮮菜而聞名。",
     "lookup": {
-     "english": "",
+     "english": "having a very pleasant taste or smell",
      "chinese": "美味的；可口的"
     }
    },
@@ -866,12 +866,12 @@ window.FLASHCARD_UNITS = {
     "word": "tasty",
     "answer": "tasty",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having a strong, pleasant flavor",
     "chinese": "美味的；可口的",
     "sentence": "The soup was __________ and flavorful.",
     "translation": "這湯又美味又香。",
     "lookup": {
-     "english": "",
+     "english": "having a strong, pleasant flavor",
      "chinese": "美味的；可口的"
     }
    },
@@ -879,12 +879,12 @@ window.FLASHCARD_UNITS = {
     "word": "vegan",
     "answer": "vegan",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not eating or using any animal products, including eggs and milk",
     "chinese": "素食主義者；純素的",
     "sentence": "She has been a __________ for several years now.",
     "translation": "她已經是一名素食主義者好幾年了。",
     "lookup": {
-     "english": "",
+     "english": "not eating or using any animal products, including eggs and milk",
      "chinese": "素食主義者；純素的"
     }
    },
@@ -892,12 +892,12 @@ window.FLASHCARD_UNITS = {
     "word": "vegetarian",
     "answer": "vegetarian",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not eating meat or fish",
     "chinese": "素食主義者；素食的",
     "sentence": "The restaurant offers a variety of __________ options.",
     "translation": "這家餐廳提供多種素食選擇。",
     "lookup": {
-     "english": "",
+     "english": "not eating meat or fish",
      "chinese": "素食主義者；素食的"
     }
    },
@@ -905,12 +905,12 @@ window.FLASHCARD_UNITS = {
     "word": "vegetation",
     "answer": "vegetation",
     "pos": "n.",
-    "definition": "",
+    "definition": "the plants and trees that grow in an area",
     "chinese": "植被；草木",
     "sentence": "The __________ in the region has been affected by the drought.",
     "translation": "該地區的植被受到乾旱的影響。",
     "lookup": {
-     "english": "",
+     "english": "the plants and trees that grow in an area",
      "chinese": "植被；草木"
     }
    },
@@ -918,12 +918,12 @@ window.FLASHCARD_UNITS = {
     "word": "distinguish",
     "answer": "distinguish",
     "pos": "v.",
-    "definition": "",
+    "definition": "to recognize the difference between two people or things",
     "chinese": "區分；辨別",
     "sentence": "It can be difficult to __________ between the two species.",
     "translation": "在這兩個物種之間進行區分可能很困難。",
     "lookup": {
-     "english": "",
+     "english": "to recognize the difference between two people or things",
      "chinese": "區分；辨別"
     }
    },
@@ -931,12 +931,12 @@ window.FLASHCARD_UNITS = {
     "word": "distinguished",
     "answer": "distinguished",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very successful and respected",
     "chinese": "卓越的；傑出的",
     "sentence": "He is a __________ scientist known for his groundbreaking research.",
     "translation": "他是一位以開創性研究而聞名的傑出科學家。",
     "lookup": {
-     "english": "",
+     "english": "very successful and respected",
      "chinese": "卓越的；傑出的"
     }
    },
@@ -944,12 +944,12 @@ window.FLASHCARD_UNITS = {
     "word": "indistinguishable",
     "answer": "indistinguishable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "impossible to tell apart from something else",
     "chinese": "難以區分的；看不出差別的",
     "sentence": "The two products are almost __________ in terms of quality.",
     "translation": "這兩種產品在質量上幾乎看不出差別。",
     "lookup": {
-     "english": "",
+     "english": "impossible to tell apart from something else",
      "chinese": "難以區分的；看不出差別的"
     }
    }
@@ -2637,4 +2637,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"amaze":["","使驚訝；使驚奇"],"amazed":["","使驚訝；使驚奇"],"amazing":["","令人驚奇的；驚人的"],"crop":["","作物；收成；種植"],"influence":["","影響；作用"],"influenced":["","影響；左右"],"influential":["","有影響力的；有權勢的"],"mankind":["","人類"],"humanity":["","人性；人道；人類"],"significance":["","重要性；意義"],"significant":["","重要的；顯著的"],"significantly":["","顯著地；重大地"],"insignificant":["","無關緊要的；微不足道的"],"importance":["","重要性；重要程度"],"important":["","重要的；重大的"],"unimportant":["","不重要的；無關緊要的"],"wheat":["","小麥"],"climate":["","氣候；風氣"],"sauce":["","醬汁"],"saucer":["","碟子；茶托"],"means":["","方法；手段"],"namely":["","即；也就是"],"prove":["","證明；證實"],"proof":["","證據；證明"],"proven":["","證明的；被證實的"],"value":["","價值；重要性；估值；看重"],"valuable":["","有價值的；寶貴的"],"invaluable":["","非常寶貴的；無價的"],"priceless":["","無價的；極其珍貴的"],"undervalue":["","低估；輕視"],"overvalue":["","高估；過分重視"],"protein":["","蛋白質"],"mineral":["","礦物質"],"minerals":["","礦物質"],"vitamin":["","維生素"],"vitamins":["","維生素"],"carbohydrate":["","碳水化合物"],"carbohydrates":["","碳水化合物"],"fiber":["","纖維"],"nutrients":["","營養素"],"nutrient":["","營養素"],"nutrition":["","營養"],"nutritious":["","營養豐富的"],"basis":["","基礎；根據"],"base":["","基地；基礎；基於"],"based":["","基地；基礎；基於"],"basic":["","基本的；基礎的"],"basically":["","基本上；基本地"],"increase":["","增加；增長"],"increasing":["","不斷增加的；增長的"],"increasingly":["","日益增加地；越來越多地"],"decrease":["","減少；減少量"],"decreasing":["","逐漸減少的；減少中的"],"decreasingly":["","逐漸減少地；越來越少地"],"diet":["","飲食；日常飲食"],"dietary":["","飲食的；日常飲食的"],"fast":["","禁食；斋戒"],"delicious":["","美味的；可口的"],"tasty":["","美味的；可口的"],"vegan":["","素食主義者；純素的"],"vegetarian":["","素食主義者；素食的"],"vegetation":["","植被；草木"],"distinguish":["","區分；辨別"],"distinguished":["","卓越的；傑出的"],"indistinguishable":["","難以區分的；看不出差別的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"amaze":["to surprise someone very much","使驚訝；使驚奇"],"amazed":["to surprise someone very much","使驚訝；使驚奇"],"amazing":["very surprising, especially in a way you like or admire","令人驚奇的；驚人的"],"crop":["a plant such as wheat or rice that is grown in large amounts; the amount gathered in one season","作物；收成；種植"],"influence":["the power to affect how someone thinks or how something develops","影響；作用"],"influenced":["to affect how someone thinks or how something develops","影響；左右"],"influential":["having a lot of power to affect what people think or do","有影響力的；有權勢的"],"mankind":["all humans, thought of as a group","人類"],"humanity":["people in general; the quality of being kind to others","人性；人道；人類"],"significance":["the importance or meaning of something","重要性；意義"],"significant":["large or important enough to be noticed or to have an effect","重要的；顯著的"],"significantly":["in a way that is large or important enough to be noticed","顯著地；重大地"],"insignificant":["not big or important enough to be worth considering","無關緊要的；微不足道的"],"importance":["the quality of having great value or influence","重要性；重要程度"],"important":["having great value, meaning or effect","重要的；重大的"],"unimportant":["not having much value, meaning or effect","不重要的；無關緊要的"],"wheat":["a plant grown for its grain, which is used to make flour and bread","小麥"],"climate":["the usual weather conditions of a place; the general feeling or situation at a time","氣候；風氣"],"sauce":["a thick liquid that is eaten with food to add flavor","醬汁"],"saucer":["a small shallow dish that a cup stands on","碟子；茶托"],"means":["a way of doing or achieving something","方法；手段"],"namely":["used to give more exact information about what you have just said","即；也就是"],"prove":["to use facts to show that something is true","證明；證實"],"proof":["facts or information that show something is true","證據；證明"],"proven":["tested and shown to be true or good","證明的；被證實的"],"value":["to think that someone or something is important","價值；重要性；估值；看重"],"valuable":["worth a lot of money; very useful or important","有價值的；寶貴的"],"invaluable":["extremely useful","非常寶貴的；無價的"],"priceless":["too valuable to have a price; extremely important to you","無價的；極其珍貴的"],"undervalue":["to think that something is less important or valuable than it really is","低估；輕視"],"overvalue":["to think that something is more important or valuable than it really is","高估；過分重視"],"protein":["a substance in foods such as meat, eggs and beans that helps your body grow and stay strong","蛋白質"],"minerals":["a natural substance such as iron or calcium that your body needs to stay healthy","礦物質"],"mineral":["a natural substance such as iron or calcium that your body needs to stay healthy","礦物質"],"vitamins":["a natural substance in food that you need in small amounts to stay healthy","維生素"],"vitamin":["a natural substance in food that you need in small amounts to stay healthy","維生素"],"carbohydrates":["a substance in foods such as bread, rice and sugar that gives your body energy","碳水化合物"],"carbohydrate":["a substance in foods such as bread, rice and sugar that gives your body energy","碳水化合物"],"fiber":["the part of plants that you eat but cannot digest, which helps food move through your body","纖維"],"nutrients":["a substance that living things need in order to live and grow","營養素"],"nutrient":["a substance that living things need in order to live and grow","營養素"],"nutrition":["the food you eat and the way it affects your health","營養"],"nutritious":["(of food) full of the things your body needs to be healthy","營養豐富的"],"basis":["the idea or reason that something is built on; a particular way of doing something","基礎；根據"],"based":["to use something as the starting point or reason for something else","基地；基礎；基於"],"base":["to use something as the starting point or reason for something else","基地；基礎；基於"],"basic":["simple and most necessary; forming the starting point","基本的；基礎的"],"basically":["in the most important ways; used when giving a simple explanation","基本上；基本地"],"increase":["a rise in the amount or number of something","增加；增長"],"increasing":["becoming greater in amount or number","不斷增加的；增長的"],"increasingly":["more and more over time","日益增加地；越來越多地"],"decrease":["a fall in the amount or number of something","減少；減少量"],"decreasing":["becoming smaller in amount or number","逐漸減少的；減少中的"],"decreasingly":["less and less over time","逐漸減少地；越來越少地"],"diet":["the food and drink that a person usually eats","飲食；日常飲食"],"dietary":["relating to the food that you eat","飲食的；日常飲食的"],"fast":["to eat no food for a period of time","禁食；斋戒"],"delicious":["having a very pleasant taste or smell","美味的；可口的"],"tasty":["having a strong, pleasant flavor","美味的；可口的"],"vegan":["not eating or using any animal products, including eggs and milk","素食主義者；純素的"],"vegetarian":["not eating meat or fish","素食主義者；素食的"],"vegetation":["the plants and trees that grow in an area","植被；草木"],"distinguish":["to recognize the difference between two people or things","區分；辨別"],"distinguished":["very successful and respected","卓越的；傑出的"],"indistinguishable":["impossible to tell apart from something else","難以區分的；看不出差別的"]});

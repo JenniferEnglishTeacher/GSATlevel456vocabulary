@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "risk",
     "answer": "risk",
     "pos": "v.",
-    "definition": "",
+    "definition": "to put something valuable in a situation where it could be lost or harmed",
     "chinese": "冒險",
     "sentence": "He decided to __________ a large portion of his savings by investing in a volatile market.",
     "translation": "他決定冒險把大部分積蓄投資在波動的市場上。",
     "lookup": {
-     "english": "",
+     "english": "to put something valuable in a situation where it could be lost or harmed",
      "chinese": "冒險"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "risk",
     "answer": "risk",
     "pos": "n.",
-    "definition": "",
+    "definition": "the possibility that something bad may happen",
     "chinese": "風險",
     "sentence": "There is always a __________ involved in starting your own business.",
     "translation": "創業總是存在風險的。",
     "lookup": {
-     "english": "",
+     "english": "the possibility that something bad may happen",
      "chinese": "風險"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "risky",
     "answer": "risky",
     "pos": "adj.",
-    "definition": "",
+    "definition": "involving the possibility of something bad happening",
     "chinese": "危險的",
     "sentence": "It's a __________ business venture that may or may not yield profits.",
     "translation": "這是一個有可能會賺錢或賠錢的危險商業冒險。",
     "lookup": {
-     "english": "",
+     "english": "involving the possibility of something bad happening",
      "chinese": "危險的"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "take a risk",
     "answer": "take a risk",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to do something although something bad could happen",
     "chinese": "冒險",
     "sentence": "Sometimes you need to __________ to achieve your goals.",
     "translation": "有時候你需要冒險才能達成你的目標。",
     "lookup": {
-     "english": "",
+     "english": "to do something although something bad could happen",
      "chinese": "冒險"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "at risk of",
     "answer": "at risk of",
     "pos": "phr.",
-    "definition": "",
+    "definition": "in danger of something bad happening",
     "chinese": "有...風險",
     "sentence": "He is __________ losing his job due to the company's financial troubles.",
     "translation": "由於公司財務困難，他有失去工作的風險。",
     "lookup": {
-     "english": "",
+     "english": "in danger of something bad happening",
      "chinese": "有...風險"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "disappear",
     "answer": "disappear",
     "pos": "v.",
-    "definition": "",
+    "definition": "to go where you can no longer be seen; to stop existing",
     "chinese": "消失",
     "sentence": "The sun will __________ behind the clouds soon, creating a magical sunset.",
     "translation": "太陽很快會在雲層後消失，創造出一個神奇的日落。",
     "lookup": {
-     "english": "",
+     "english": "to go where you can no longer be seen; to stop existing",
      "chinese": "消失"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "appear",
     "answer": "appear",
     "pos": "v.",
-    "definition": "",
+    "definition": "to come into view; to take part in a show or film",
     "chinese": "出現",
     "sentence": "She will __________ on stage at the concert tonight, surprising her fans.",
     "translation": "她今晚將在音樂會上出現在舞台上，讓她的粉絲們感到驚訝。",
     "lookup": {
-     "english": "",
+     "english": "to come into view; to take part in a show or film",
      "chinese": "出現"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "appearance",
     "answer": "appearance",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of arriving or being seen; the way someone looks",
     "chinese": "出現",
     "sentence": "His sudden __________ at the meeting startled everyone.",
     "translation": "他在會議上突如其來的出現讓每個人都感到驚訝。",
     "lookup": {
-     "english": "",
+     "english": "the act of arriving or being seen; the way someone looks",
      "chinese": "出現"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "complete",
     "answer": "complete",
     "pos": "v.",
-    "definition": "",
+    "definition": "to finish doing or making something",
     "chinese": "完成",
     "sentence": "Please __________ the assignment by Friday so we can review it over the weekend.",
     "translation": "請在星期五之前完成作業，這樣我們可以在周末審閱它。",
     "lookup": {
-     "english": "",
+     "english": "to finish doing or making something",
      "chinese": "完成"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "complete",
     "answer": "complete",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having all its parts; total",
     "chinese": "完整的",
     "sentence": "The __________ project proposal was submitted to the committee for review.",
     "translation": "完整的項目提議已提交給委員會審閱。",
     "lookup": {
-     "english": "",
+     "english": "having all its parts; total",
      "chinese": "完整的"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "create",
     "answer": "create",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make something new or cause something to exist",
     "chinese": "創造",
     "sentence": "Artists __________ beauty through their paintings and sculptures.",
     "translation": "藝術家通過他們的繪畫和雕塑創造美麗。",
     "lookup": {
-     "english": "",
+     "english": "to make something new or cause something to exist",
      "chinese": "創造"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "creature",
     "answer": "creatures",
     "pos": "n.",
-    "definition": "",
+    "definition": "a living thing, especially an animal",
     "chinese": "生物",
     "sentence": "The forest is home to many unique __________ that are rarely seen elsewhere.",
     "translation": "這片森林是許多在其他地方很少見的獨特生物的家園。",
     "lookup": {
-     "english": "",
+     "english": "a living thing, especially an animal",
      "chinese": "生物"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "creator",
     "answer": "creators",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who has made or invented something",
     "chinese": "創造者",
     "sentence": "Picasso is regarded as one of the greatest __________ of modern art.",
     "translation": "皮卡索被認為是現代藝術的偉大創作者之一。",
     "lookup": {
-     "english": "",
+     "english": "a person who has made or invented something",
      "chinese": "創造者"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "creation",
     "answer": "creation",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of making something new; a thing that someone has made",
     "chinese": "創造",
     "sentence": "The artist's latest __________ is a masterpiece that reflects her talent and vision.",
     "translation": "藝術家最新的創作是一件反映她才華和遠見的傑作。",
     "lookup": {
-     "english": "",
+     "english": "the act of making something new; a thing that someone has made",
      "chinese": "創造"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "creative",
     "answer": "creative",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having the ability to produce new and original ideas",
     "chinese": "創造的",
     "sentence": "She has a __________ approach to problem-solving that often yields innovative solutions.",
     "translation": "她對解決問題有創造性的方法常常產生創新的解決方案。",
     "lookup": {
-     "english": "",
+     "english": "having the ability to produce new and original ideas",
      "chinese": "創造的"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "creativity",
     "answer": "creativity",
     "pos": "n.",
-    "definition": "",
+    "definition": "the ability to produce new and original ideas",
     "chinese": "創造力",
     "sentence": "His __________ as a writer shines through in his ability to craft compelling stories.",
     "translation": "作為一名作家，他的創造力在於他能夠創作引人入勝的故事。",
     "lookup": {
-     "english": "",
+     "english": "the ability to produce new and original ideas",
      "chinese": "創造力"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "stubborn",
     "answer": "stubborn",
     "pos": "adj.",
-    "definition": "",
+    "definition": "refusing to change your mind or behavior even when others want you to",
     "chinese": "固執的",
     "sentence": "Despite her parents' advice, she __________ insisted on pursuing her own career path.",
     "translation": "儘管父母的建議，她還是固執地堅持走自己的職業道路。",
     "lookup": {
-     "english": "",
+     "english": "refusing to change your mind or behavior even when others want you to",
      "chinese": "固執的"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "favor A over/to B",
     "answer": "favor his younger son over",
     "pos": "v.",
-    "definition": "",
+    "definition": "to like or support one person or thing more than another",
     "chinese": "偏愛A勝過B",
     "sentence": "He tends to __________ his elder daughter.",
     "translation": "他傾向於偏愛他的小兒子而不是他的大女兒。",
     "lookup": {
-     "english": "",
+     "english": "to like or support one person or thing more than another",
      "chinese": "偏愛A勝過B"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "favor",
     "answer": "favor",
     "pos": "n.",
-    "definition": "",
+    "definition": "something you do to help someone",
     "chinese": "恩惠",
     "sentence": "Can you do me a __________ and pick up my mail while I'm away?",
     "translation": "在我不在的時候，你能幫我個忙，去拿我的郵件嗎？",
     "lookup": {
-     "english": "",
+     "english": "something you do to help someone",
      "chinese": "恩惠"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "do sb. a favor",
     "answer": "do a favor",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to do something to help someone",
     "chinese": "幫忙某人",
     "sentence": "Could you __________ for me and pick up my mail?",
     "translation": "你能幫我取郵件嗎？",
     "lookup": {
-     "english": "",
+     "english": "to do something to help someone",
      "chinese": "幫忙某人"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "be in favor of",
     "answer": "in favor of",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to support or approve of an idea or plan",
     "chinese": "支持",
     "sentence": "I'm __________ reducing plastic use in our office.",
     "translation": "我支持減少辦公室使用塑料。",
     "lookup": {
-     "english": "",
+     "english": "to support or approve of an idea or plan",
      "chinese": "支持"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "favorable",
     "answer": "favorable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "showing approval; good for someone or something",
     "chinese": "有利的，良好的",
     "sentence": "The weather conditions were __________ for our outdoor event.",
     "translation": "天氣條件對我們的戶外活動非常有利。",
     "lookup": {
-     "english": "",
+     "english": "showing approval; good for someone or something",
      "chinese": "有利的，良好的"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "favorite",
     "answer": "favorite",
     "pos": "adj.",
-    "definition": "",
+    "definition": "liked more than all others of the same kind",
     "chinese": "最喜愛的，最喜愛的事物",
     "sentence": "My __________ color is blue. All my clothes are in blue.",
     "translation": "我最喜歡的顏色是藍色。",
     "lookup": {
-     "english": "",
+     "english": "liked more than all others of the same kind",
      "chinese": "最喜愛的，最喜愛的事物"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "bother",
     "answer": "bother",
     "pos": "v.",
-    "definition": "",
+    "definition": "to annoy or worry someone; to interrupt someone",
     "chinese": "打擾，困擾",
     "sentence": "Sorry to __________ you, but could I ask you a quick question?",
     "translation": "抱歉打擾你，但我可以問你個問題嗎？",
     "lookup": {
-     "english": "",
+     "english": "to annoy or worry someone; to interrupt someone",
      "chinese": "打擾，困擾"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "refuse",
     "answer": "refuses",
     "pos": "v.",
-    "definition": "",
+    "definition": "to say that you will not do or accept something",
     "chinese": "拒絕",
     "sentence": "He __________ to participate in the project.",
     "translation": "他拒絕參與這個項目。",
     "lookup": {
-     "english": "",
+     "english": "to say that you will not do or accept something",
      "chinese": "拒絕"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "refusal",
     "answer": "refusal",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of saying that you will not do or accept something",
     "chinese": "拒絕",
     "sentence": "Her __________ to accept the offer surprised everyone.",
     "translation": "她拒絕接受這個提議讓大家都感到驚訝。",
     "lookup": {
-     "english": "",
+     "english": "the act of saying that you will not do or accept something",
      "chinese": "拒絕"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "reject",
     "answer": "rejected",
     "pos": "v.",
-    "definition": "",
+    "definition": "to refuse to accept, use or believe something",
     "chinese": "拒絕",
     "sentence": "They __________ the proposal due to budget constraints.",
     "translation": "由於預算限制，他們拒絕了這個提議。",
     "lookup": {
-     "english": "",
+     "english": "to refuse to accept, use or believe something",
      "chinese": "拒絕"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "decline",
     "answer": "declined",
     "pos": "v.",
-    "definition": "",
+    "definition": "to become smaller, fewer or weaker",
     "chinese": "下降",
     "sentence": "Sales __________ after the price increase.",
     "translation": "價格上漲後銷售量下降了。",
     "lookup": {
-     "english": "",
+     "english": "to become smaller, fewer or weaker",
      "chinese": "下降"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "decline",
     "answer": "declined",
     "pos": "v.",
-    "definition": "",
+    "definition": "to politely refuse an offer or invitation",
     "chinese": "拒絕",
     "sentence": "The applicant __________ the job offer because of the low payment the company offers.",
     "translation": "應徵者拒絕這個工作機會因為薪水太低",
     "lookup": {
-     "english": "",
+     "english": "to politely refuse an offer or invitation",
      "chinese": "拒絕"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "mate",
     "answer": "mate",
     "pos": "v.",
-    "definition": "",
+    "definition": "(of animals) to come together to produce young",
     "chinese": "配偶，伴侶，交配",
     "sentence": "The birds __________ for life. They die as their husband or wife dies.",
     "translation": "這些鳥會終生配對。",
     "lookup": {
-     "english": "",
+     "english": "(of animals) to come together to produce young",
      "chinese": "配偶，伴侶，交配"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "put off / postpone",
     "answer": "put off",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to change something to a later time or date",
     "chinese": "延期，拖延",
     "sentence": "They decided to __________ the meeting until next week.",
     "translation": "他們決定將會議推遲到下週。",
     "lookup": {
-     "english": "",
+     "english": "to change something to a later time or date",
      "chinese": "延期，拖延"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "sense",
     "answer": "sense",
     "pos": "n.",
-    "definition": "",
+    "definition": "one of the five abilities of sight, hearing, smell, taste and touch; a feeling about something",
     "chinese": "感覺，感知，意識",
     "sentence": "He lost his __________ of smell and taste after getting COVID.",
     "translation": "他得到新冠後喪失嗅覺與味覺",
     "lookup": {
-     "english": "",
+     "english": "one of the five abilities of sight, hearing, smell, taste and touch; a feeling about something",
      "chinese": "感覺，感知，意識"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "sense / notice / realize",
     "answer": "sensed",
     "pos": "v.",
-    "definition": "",
+    "definition": "to feel or become aware of something",
     "chinese": "察覺，感覺到",
     "sentence": "She __________ a change in the atmosphere as soon as she entered.",
     "translation": "她一進來就感覺到氣氛有所變化。",
     "lookup": {
-     "english": "",
+     "english": "to feel or become aware of something",
      "chinese": "察覺，感覺到"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "be sensitive to N",
     "answer": "sensitive to",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to be easily affected by something",
     "chinese": "敏感於",
     "sentence": "She's __________ changes in temperature.",
     "translation": "她對溫度變化很敏感。",
     "lookup": {
-     "english": "",
+     "english": "to be easily affected by something",
      "chinese": "敏感於"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "sensitivity",
     "answer": "sensitivity",
     "pos": "n.",
-    "definition": "",
+    "definition": "the quality of being easily affected or of reacting to small changes",
     "chinese": "敏感性",
     "sentence": "The patient's __________ to light increased after the surgery.",
     "translation": "病人手術後對光的敏感性增加了。",
     "lookup": {
-     "english": "",
+     "english": "the quality of being easily affected or of reacting to small changes",
      "chinese": "敏感性"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "sensible",
     "answer": "sensible",
     "pos": "adj.",
-    "definition": "",
+    "definition": "showing good judgment; reasonable and practical",
     "chinese": "明智的，理智的",
     "sentence": "It's __________ to wear sunscreen in hot weather.",
     "translation": "在炎熱的天氣中擦防曬霜是明智的。",
     "lookup": {
-     "english": "",
+     "english": "showing good judgment; reasonable and practical",
      "chinese": "明智的，理智的"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "contain",
     "answer": "contains",
     "pos": "v.",
-    "definition": "",
+    "definition": "to have something inside or as a part",
     "chinese": "包含，容納",
     "sentence": "This box __________ all the items I need for the trip.",
     "translation": "這個盒子包含了我旅行所需的所有物品。",
     "lookup": {
-     "english": "",
+     "english": "to have something inside or as a part",
      "chinese": "包含，容納"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "contain",
     "answer": "contain",
     "pos": "v.",
-    "definition": "",
+    "definition": "to keep something harmful under control and stop it from spreading",
     "chinese": "抑制，遏阻",
     "sentence": "The government is trying to __________ violence and panic.",
     "translation": "政府努力要抑制疾病和病毒的蔓延與暴力和恐慌的擴大",
     "lookup": {
-     "english": "",
+     "english": "to keep something harmful under control and stop it from spreading",
      "chinese": "抑制，遏阻"
     }
    },
@@ -502,12 +502,12 @@ window.FLASHCARD_UNITS = {
     "word": "container",
     "answer": "container",
     "pos": "n.",
-    "definition": "",
+    "definition": "a box, bottle or other object used for holding something",
     "chinese": "容器",
     "sentence": "The food was stored in a plastic __________ for transport.",
     "translation": "食物存放在一個塑料容器中進行運輸。",
     "lookup": {
-     "english": "",
+     "english": "a box, bottle or other object used for holding something",
      "chinese": "容器"
     }
    },
@@ -515,12 +515,12 @@ window.FLASHCARD_UNITS = {
     "word": "inform sb of sth",
     "answer": "inform me of",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to tell someone about something",
     "chinese": "通知某人某事",
     "sentence": "Please __________ any changes to the schedule.",
     "translation": "請通知我任何日程安排的變更。",
     "lookup": {
-     "english": "",
+     "english": "to tell someone about something",
      "chinese": "通知某人某事"
     }
    },
@@ -528,12 +528,12 @@ window.FLASHCARD_UNITS = {
     "word": "communication",
     "answer": "communication",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of sharing information, ideas or feelings with other people",
     "chinese": "溝通，交流",
     "sentence": "Effective __________ is key to a successful team.",
     "translation": "有效的溝通是團隊成功的關鍵。",
     "lookup": {
-     "english": "",
+     "english": "the act of sharing information, ideas or feelings with other people",
      "chinese": "溝通，交流"
     }
    },
@@ -541,12 +541,12 @@ window.FLASHCARD_UNITS = {
     "word": "communicator",
     "answer": "communicator",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who shares ideas and information with others, especially one who does it well",
     "chinese": "溝通者，交流者",
     "sentence": "She's a skilled __________ who can engage with diverse audiences.",
     "translation": "她是一位熟練的溝通者，能夠與不同的觀眾交流。",
     "lookup": {
-     "english": "",
+     "english": "a person who shares ideas and information with others, especially one who does it well",
      "chinese": "溝通者，交流者"
     }
    }
@@ -1521,4 +1521,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"risk":["","冒險"],"risky":["","危險的"],"disappear":["","消失"],"appear":["","出現"],"appearance":["","出現"],"complete":["","完成"],"create":["","創造"],"creatures":["","生物"],"creature":["","生物"],"creator":["","創造者"],"creators":["","創造者"],"creation":["","創造"],"creative":["","創造的"],"creativity":["","創造力"],"stubborn":["","固執的"],"favor":["","恩惠"],"favorable":["","有利的，良好的"],"favorite":["","最喜愛的，最喜愛的事物"],"bother":["","打擾，困擾"],"refuse":["","拒絕"],"refuses":["","拒絕"],"refusal":["","拒絕"],"reject":["","拒絕"],"rejected":["","拒絕"],"declined":["","下降"],"decline":["","下降"],"mate":["","配偶，伴侶，交配"],"sense":["","感覺，感知，意識"],"sensed":["","察覺，感覺到"],"sensitivity":["","敏感性"],"sensible":["","明智的，理智的"],"contains":["","包含，容納"],"contain":["","包含，容納"],"container":["","容器"],"communication":["","溝通，交流"],"communicator":["","溝通者，交流者"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"risk":["to put something valuable in a situation where it could be lost or harmed","冒險"],"risky":["involving the possibility of something bad happening","危險的"],"disappear":["to go where you can no longer be seen; to stop existing","消失"],"appear":["to come into view; to take part in a show or film","出現"],"appearance":["the act of arriving or being seen; the way someone looks","出現"],"complete":["to finish doing or making something","完成"],"create":["to make something new or cause something to exist","創造"],"creatures":["a living thing, especially an animal","生物"],"creature":["a living thing, especially an animal","生物"],"creator":["a person who has made or invented something","創造者"],"creators":["a person who has made or invented something","創造者"],"creation":["the act of making something new; a thing that someone has made","創造"],"creative":["having the ability to produce new and original ideas","創造的"],"creativity":["the ability to produce new and original ideas","創造力"],"stubborn":["refusing to change your mind or behavior even when others want you to","固執的"],"favor":["something you do to help someone","恩惠"],"favorable":["showing approval; good for someone or something","有利的，良好的"],"favorite":["liked more than all others of the same kind","最喜愛的，最喜愛的事物"],"bother":["to annoy or worry someone; to interrupt someone","打擾，困擾"],"refuse":["to say that you will not do or accept something","拒絕"],"refuses":["to say that you will not do or accept something","拒絕"],"refusal":["the act of saying that you will not do or accept something","拒絕"],"rejected":["to refuse to accept, use or believe something","拒絕"],"reject":["to refuse to accept, use or believe something","拒絕"],"declined":["to become smaller, fewer or weaker","下降"],"decline":["to become smaller, fewer or weaker","下降"],"mate":["(of animals) to come together to produce young","配偶，伴侶，交配"],"sense":["one of the five abilities of sight, hearing, smell, taste and touch; a feeling about something","感覺，感知，意識"],"sensed":["to feel or become aware of something","察覺，感覺到"],"sensitivity":["the quality of being easily affected or of reacting to small changes","敏感性"],"sensible":["showing good judgment; reasonable and practical","明智的，理智的"],"contain":["to have something inside or as a part","包含，容納"],"contains":["to have something inside or as a part","包含，容納"],"container":["a box, bottle or other object used for holding something","容器"],"communication":["the act of sharing information, ideas or feelings with other people","溝通，交流"],"communicator":["a person who shares ideas and information with others, especially one who does it well","溝通者，交流者"]});

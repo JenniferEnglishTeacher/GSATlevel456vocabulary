@@ -866,7 +866,7 @@ const LOOKUP = {
       }
     ]
   },
-  "cheer her up": {
+  "cheer up": {
     "pos": "phr.",
     "en_def": "to become happier or make someone feel happier.",
     "cn_def": "高興起來；振作起來",
@@ -878,7 +878,7 @@ const LOOKUP = {
       }
     ]
   },
-  "cheer up": {
+  "cheer her up": {
     "pos": "phr.",
     "en_def": "to become happier or make someone feel happier.",
     "cn_def": "高興起來；振作起來",
@@ -974,18 +974,6 @@ const LOOKUP = {
       }
     ]
   },
-  "in her spare time": {
-    "pos": "phr.",
-    "en_def": "during time when one is not working or busy.",
-    "cn_def": "在某人的空閒時間",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "during time when one is not working or busy.",
-        "cn_def": "在某人的空閒時間"
-      }
-    ]
-  },
   "in one's spare time": {
     "pos": "phr.",
     "en_def": "during time when one is not working or busy.",
@@ -998,7 +986,19 @@ const LOOKUP = {
       }
     ]
   },
-  "spare from": {
+  "in her spare time": {
+    "pos": "phr.",
+    "en_def": "during time when one is not working or busy.",
+    "cn_def": "在某人的空閒時間",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "during time when one is not working or busy.",
+        "cn_def": "在某人的空閒時間"
+      }
+    ]
+  },
+  "spare you from": {
     "pos": "phr.",
     "en_def": "to prevent someone from having to experience something unpleasant or unnecessary.",
     "cn_def": "使免於；使省去",
@@ -1010,7 +1010,7 @@ const LOOKUP = {
       }
     ]
   },
-  "spare you from": {
+  "spare from": {
     "pos": "phr.",
     "en_def": "to prevent someone from having to experience something unpleasant or unnecessary.",
     "cn_def": "使免於；使省去",

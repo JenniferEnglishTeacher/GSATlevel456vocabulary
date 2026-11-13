@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "character",
     "answer": "character",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person in a book, play or film",
     "chinese": "角色",
     "sentence": "In the novel, the main __________ faces many challenges.",
     "translation": "在小說中，主角面臨許多挑戰。",
     "lookup": {
-     "english": "",
+     "english": "a person in a book, play or film",
      "chinese": "角色"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "character",
     "answer": "character",
     "pos": "n.",
-    "definition": "",
+    "definition": "a letter or sign used in writing, especially in Chinese",
     "chinese": "漢文文字",
     "sentence": "Each Chinese __________ has its unique meaning and pronunciation.",
     "translation": "每個漢字都有其獨特的意義和發音。",
     "lookup": {
-     "english": "",
+     "english": "a letter or sign used in writing, especially in Chinese",
      "chinese": "漢文文字"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "character",
     "answer": "character",
     "pos": "n.",
-    "definition": "",
+    "definition": "the qualities that make a person or thing different from others",
     "chinese": "事務特性特質",
     "sentence": "Honesty is an important __________ in a good leader.",
     "translation": "誠實是優秀領導者的一個重要特質。",
     "lookup": {
-     "english": "",
+     "english": "the qualities that make a person or thing different from others",
      "chinese": "事務特性特質"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "characteristic",
     "answer": "characteristic",
     "pos": "n.",
-    "definition": "",
+    "definition": "a typical feature or quality that someone or something has",
     "chinese": "特色",
     "sentence": "The __________ of this wine is its rich aroma.",
     "translation": "這種葡萄酒的特色是其濃郁的香氣。",
     "lookup": {
-     "english": "",
+     "english": "a typical feature or quality that someone or something has",
      "chinese": "特色"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "characteristic",
     "answer": "characteristic",
     "pos": "adj.",
-    "definition": "",
+    "definition": "typical of a particular person or thing",
     "chinese": "特有的，表示出特性的",
     "sentence": "This bird is known for its __________ bright plumage.",
     "translation": "這種鳥以其特有的鮮豔羽毛聞名。",
     "lookup": {
-     "english": "",
+     "english": "typical of a particular person or thing",
      "chinese": "特有的，表示出特性的"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "be characteristic of",
     "answer": "is characteristic of",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to be typical of a person or thing",
     "chinese": "是…的特徵",
     "sentence": "The use of vivid colors __________ her painting style.",
     "translation": "使用鮮豔的顏色是她的繪畫風格的特徵。",
     "lookup": {
-     "english": "",
+     "english": "to be typical of a person or thing",
      "chinese": "是…的特徵"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "spark",
     "answer": "sparked",
     "pos": "v.",
-    "definition": "",
+    "definition": "to cause something such as an argument or interest to start",
     "chinese": "引發",
     "sentence": "The politician's speech __________ a lot of public debate.",
     "translation": "政治家的演講引發了許多公共辯論。",
     "lookup": {
-     "english": "",
+     "english": "to cause something such as an argument or interest to start",
      "chinese": "引發"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "spark",
     "answer": "sparks",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make a fire start; to produce small flashes of fire",
     "chinese": "點燃火花",
     "sentence": "Rubbing the two stones together __________ a fire.",
     "translation": "兩塊石頭摩擦在一起點燃了火。",
     "lookup": {
-     "english": "",
+     "english": "to make a fire start; to produce small flashes of fire",
      "chinese": "點燃火花"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "spark",
     "answer": "spark",
     "pos": "n.",
-    "definition": "",
+    "definition": "a tiny bright piece of burning material that flies from a fire",
     "chinese": "點燃",
     "sentence": "The __________ from the firework was beautiful.",
     "translation": "煙火的火花很美。",
     "lookup": {
-     "english": "",
+     "english": "a tiny bright piece of burning material that flies from a fire",
      "chinese": "點燃"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "spark",
     "answer": "spark",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small flash of light",
     "chinese": "閃光",
     "sentence": "The diamond ring had a bright __________ in the sunlight.",
     "translation": "鑽石戒指在陽光下有亮麗的閃光。",
     "lookup": {
-     "english": "",
+     "english": "a small flash of light",
      "chinese": "閃光"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "sparkle",
     "answer": "sparkle",
     "pos": "v.",
-    "definition": "",
+    "definition": "to shine brightly with small flashes of light",
     "chinese": "閃耀",
     "sentence": "The stars __________ in the night sky.",
     "translation": "星星在夜空中閃耀。",
     "lookup": {
-     "english": "",
+     "english": "to shine brightly with small flashes of light",
      "chinese": "閃耀"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "sparkling",
     "answer": "sparkling",
     "pos": "adj.",
-    "definition": "",
+    "definition": "shining brightly with small flashes of light",
     "chinese": "閃閃發光的",
     "sentence": "Her __________ eyes revealed her excitement.",
     "translation": "她閃閃發光的眼睛透露出她的興奮。",
     "lookup": {
-     "english": "",
+     "english": "shining brightly with small flashes of light",
      "chinese": "閃閃發光的"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "intense",
     "answer": "intense",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very strong or great",
     "chinese": "強烈的",
     "sentence": "The __________ heat of the summer sun can be overwhelming.",
     "translation": "夏日烈日的強烈熱度可能令人難以承受。",
     "lookup": {
-     "english": "",
+     "english": "very strong or great",
      "chinese": "強烈的"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "intensify",
     "answer": "intensified",
     "pos": "v.",
-    "definition": "",
+    "definition": "to become or make something stronger or greater",
     "chinese": "加劇",
     "sentence": "The debate __________ as opinions clashed.",
     "translation": "隨著意見的衝突，辯論加劇了。",
     "lookup": {
-     "english": "",
+     "english": "to become or make something stronger or greater",
      "chinese": "加劇"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "intensity",
     "answer": "intensity",
     "pos": "n.",
-    "definition": "",
+    "definition": "the strength or great degree of something",
     "chinese": "強度",
     "sentence": "The __________ of the workout left everyone exhausted.",
     "translation": "運動的強度讓每個人都筋疲力盡。",
     "lookup": {
-     "english": "",
+     "english": "the strength or great degree of something",
      "chinese": "強度"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "intensive",
     "answer": "intensive",
     "pos": "adj.",
-    "definition": "",
+    "definition": "involving a lot of work or activity in a short time",
     "chinese": "密集的",
     "sentence": "The course offers __________ language training.",
     "translation": "課程提供密集的語言訓練。",
     "lookup": {
-     "english": "",
+     "english": "involving a lot of work or activity in a short time",
      "chinese": "密集的"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "intensive reading",
     "answer": "Intensive reading",
     "pos": "phr.",
-    "definition": "",
+    "definition": "reading a short text slowly and carefully to understand every detail",
     "chinese": "精讀",
     "sentence": "__________ helps students to understand the text deeply.",
     "translation": "精讀幫助學生深入理解文本。",
     "lookup": {
-     "english": "",
+     "english": "reading a short text slowly and carefully to understand every detail",
      "chinese": "精讀"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "tense",
     "answer": "tense",
     "pos": "adj.",
-    "definition": "",
+    "definition": "nervous and unable to relax",
     "chinese": "緊張的",
     "sentence": "The atmosphere in the room was __________ during the meeting.",
     "translation": "會議期間，房間內的氣氛很緊張。",
     "lookup": {
-     "english": "",
+     "english": "nervous and unable to relax",
      "chinese": "緊張的"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "tension",
     "answer": "tension",
     "pos": "n.",
-    "definition": "",
+    "definition": "a feeling of worry that makes it hard to relax; an unfriendly feeling between people",
     "chinese": "緊張",
     "sentence": "The __________ between the two countries is rising.",
     "translation": "兩國之間的緊張局勢正在上升。",
     "lookup": {
-     "english": "",
+     "english": "a feeling of worry that makes it hard to relax; an unfriendly feeling between people",
      "chinese": "緊張"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "argue",
     "answer": "argue",
     "pos": "v.",
-    "definition": "",
+    "definition": "to speak angrily to someone because you disagree",
     "chinese": "爭吵",
     "sentence": "They often __________ about trivial matters.",
     "translation": "他們經常為了瑣事爭吵。",
     "lookup": {
-     "english": "",
+     "english": "to speak angrily to someone because you disagree",
      "chinese": "爭吵"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "argue",
     "answer": "argues",
     "pos": "v.",
-    "definition": "",
+    "definition": "to give reasons why you think something is true or right",
     "chinese": "主張",
     "sentence": "He __________ that more research is needed on this topic.",
     "translation": "他主張這個話題需要更多研究。",
     "lookup": {
-     "english": "",
+     "english": "to give reasons why you think something is true or right",
      "chinese": "主張"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "argument",
     "answer": "argument",
     "pos": "n.",
-    "definition": "",
+    "definition": "an angry disagreement between people",
     "chinese": "爭吵",
     "sentence": "Their __________ ended in a mutual apology.",
     "translation": "他們的爭吵以彼此道歉而結束。",
     "lookup": {
-     "english": "",
+     "english": "an angry disagreement between people",
      "chinese": "爭吵"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "argument",
     "answer": "argument",
     "pos": "n.",
-    "definition": "",
+    "definition": "a reason or set of reasons given to support an idea",
     "chinese": "論點",
     "sentence": "Her __________ was supported by strong evidence and proof.",
     "translation": "她的論點得到了強有力的證據支持。",
     "lookup": {
-     "english": "",
+     "english": "a reason or set of reasons given to support an idea",
      "chinese": "論點"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "illustrate",
     "answer": "illustrated",
     "pos": "v.",
-    "definition": "",
+    "definition": "to add pictures to a book or magazine",
     "chinese": "畫插圖",
     "sentence": "The book is beautifully __________ by a famous artist.",
     "translation": "這本書由一位著名藝術家精美插圖。",
     "lookup": {
-     "english": "",
+     "english": "to add pictures to a book or magazine",
      "chinese": "畫插圖"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "illustration",
     "answer": "illustration",
     "pos": "n.",
-    "definition": "",
+    "definition": "a picture or drawing in a book or magazine",
     "chinese": "插畫",
     "sentence": "The __________ in the book brought the story to life.",
     "translation": "書中的插畫使故事栩栩如生。",
     "lookup": {
-     "english": "",
+     "english": "a picture or drawing in a book or magazine",
      "chinese": "插畫"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "illustrate",
     "answer": "illustrate",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make the meaning of something clearer by using examples or pictures",
     "chinese": "圖示，解說",
     "sentence": "The professor used a diagram to __________ his point.",
     "translation": "教授用一個圖表來說明他的觀點。",
     "lookup": {
-     "english": "",
+     "english": "to make the meaning of something clearer by using examples or pictures",
      "chinese": "圖示，解說"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "illustration",
     "answer": "illustration",
     "pos": "n.",
-    "definition": "",
+    "definition": "an example or picture that makes something easier to understand",
     "chinese": "解說",
     "sentence": "The __________ on the board helped students understand the concept.",
     "translation": "黑板上的解說幫助學生理解概念。",
     "lookup": {
-     "english": "",
+     "english": "an example or picture that makes something easier to understand",
      "chinese": "解說"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "before long",
     "answer": "Before long",
     "pos": "phr.",
-    "definition": "",
+    "definition": "soon; after a short time",
     "chinese": "不久",
     "sentence": "__________, she became proficient in three languages.",
     "translation": "不久，她精通了三種語言。",
     "lookup": {
-     "english": "",
+     "english": "soon; after a short time",
      "chinese": "不久"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "in no time",
     "answer": "in no time",
     "pos": "phr.",
-    "definition": "",
+    "definition": "very quickly; almost at once",
     "chinese": "很快",
     "sentence": "He finished the task __________.",
     "translation": "他很快就完成了任務。",
     "lookup": {
-     "english": "",
+     "english": "very quickly; almost at once",
      "chinese": "很快"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "revise",
     "answer": "revise",
     "pos": "v.",
-    "definition": "",
+    "definition": "to change something written in order to correct or improve it",
     "chinese": "修訂",
     "sentence": "She had to __________ her essay before submission.",
     "translation": "她必須在提交前修訂她的文章。",
     "lookup": {
-     "english": "",
+     "english": "to change something written in order to correct or improve it",
      "chinese": "修訂"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "revised",
     "answer": "revised",
     "pos": "adj.",
-    "definition": "",
+    "definition": "changed in order to correct or improve it",
     "chinese": "經修訂的",
     "sentence": "The __________ edition of the book included additional chapters.",
     "translation": "這本書的修訂版加入了額外的章節。",
     "lookup": {
-     "english": "",
+     "english": "changed in order to correct or improve it",
      "chinese": "經修訂的"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "revision",
     "answer": "revisions",
     "pos": "n.",
-    "definition": "",
+    "definition": "a change made to correct or improve something written",
     "chinese": "修訂",
     "sentence": "The document went through several __________ before final approval.",
     "translation": "這份文件在最終批准前經歷了好幾次修訂。",
     "lookup": {
-     "english": "",
+     "english": "a change made to correct or improve something written",
      "chinese": "修訂"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "modify",
     "answer": "modified",
     "pos": "v.",
-    "definition": "",
+    "definition": "to change something slightly to improve it or make it more suitable",
     "chinese": "修改",
     "sentence": "The plan had to be __________ to meet new requirements.",
     "translation": "計劃必須修改以滿足新的要求。",
     "lookup": {
-     "english": "",
+     "english": "to change something slightly to improve it or make it more suitable",
      "chinese": "修改"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "genetically-modified food",
     "answer": "genetically-modified food",
     "pos": "phr.",
-    "definition": "",
+    "definition": "food from plants or animals whose genes have been changed by scientists",
     "chinese": "基因改造食品",
     "sentence": "Many people have concerns about the safety of __________.",
     "translation": "許多人對基因改造食品的安全性有所擔憂。",
     "lookup": {
-     "english": "",
+     "english": "food from plants or animals whose genes have been changed by scientists",
      "chinese": "基因改造食品"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "modification",
     "answer": "modifications",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small change made to improve something",
     "chinese": "修改",
     "sentence": "The car underwent several __________ to improve its performance.",
     "translation": "為了提高性能，這輛車進行了幾次修改。",
     "lookup": {
-     "english": "",
+     "english": "a small change made to improve something",
      "chinese": "修改"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "lock",
     "answer": "lock",
     "pos": "v.",
-    "definition": "",
+    "definition": "to fasten a door or box with a key so that it cannot be opened",
     "chinese": "鎖",
     "sentence": "Remember to __________ the door when you leave.",
     "translation": "離開時記得鎖門。",
     "lookup": {
-     "english": "",
+     "english": "to fasten a door or box with a key so that it cannot be opened",
      "chinese": "鎖"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "lock",
     "answer": "lock",
     "pos": "n.",
-    "definition": "",
+    "definition": "a device that keeps a door or box fastened and is opened with a key",
     "chinese": "鎖",
     "sentence": "She lost the key to the __________.",
     "translation": "她丟了鎖的鑰匙。",
     "lookup": {
-     "english": "",
+     "english": "a device that keeps a door or box fastened and is opened with a key",
      "chinese": "鎖"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "unlock",
     "answer": "unlock",
     "pos": "v.",
-    "definition": "",
+    "definition": "to open something using a key or code",
     "chinese": "解鎖",
     "sentence": "He used the code to __________ the safe.",
     "translation": "他用密碼來解開保險箱。",
     "lookup": {
-     "english": "",
+     "english": "to open something using a key or code",
      "chinese": "解鎖"
     }
    },
@@ -502,12 +502,12 @@ window.FLASHCARD_UNITS = {
     "word": "locker",
     "answer": "locker",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small cupboard that can be locked, where you keep your things",
     "chinese": "儲物櫃",
     "sentence": "He stored his belongings in the __________ at the gym.",
     "translation": "他在健身房的儲物櫃裡存放了他的個人物品。",
     "lookup": {
-     "english": "",
+     "english": "a small cupboard that can be locked, where you keep your things",
      "chinese": "儲物櫃"
     }
    },
@@ -515,12 +515,12 @@ window.FLASHCARD_UNITS = {
     "word": "voice",
     "answer": "voiced",
     "pos": "v.",
-    "definition": "",
+    "definition": "to tell people your feelings or opinions",
     "chinese": "表明意見",
     "sentence": "She __________ her concerns at the meeting.",
     "translation": "她在會議上表達了她的擔憂。",
     "lookup": {
-     "english": "",
+     "english": "to tell people your feelings or opinions",
      "chinese": "表明意見"
     }
    },
@@ -528,12 +528,12 @@ window.FLASHCARD_UNITS = {
     "word": "voice",
     "answer": "voices",
     "pos": "v.",
-    "definition": "",
+    "definition": "to speak the words of a character in a cartoon or film",
     "chinese": "配音旁白",
     "sentence": "He __________ a character in the animated film.",
     "translation": "他為動畫電影中的一個角色配音。",
     "lookup": {
-     "english": "",
+     "english": "to speak the words of a character in a cartoon or film",
      "chinese": "配音旁白"
     }
    },
@@ -541,12 +541,12 @@ window.FLASHCARD_UNITS = {
     "word": "voice",
     "answer": "voice",
     "pos": "n.",
-    "definition": "",
+    "definition": "the sounds a person makes when speaking or singing",
     "chinese": "聲音",
     "sentence": "Her __________ was soft and soothing.",
     "translation": "她的聲音柔和且舒緩。",
     "lookup": {
-     "english": "",
+     "english": "the sounds a person makes when speaking or singing",
      "chinese": "聲音"
     }
    },
@@ -554,12 +554,12 @@ window.FLASHCARD_UNITS = {
     "word": "voicemail",
     "answer": "voicemail",
     "pos": "n.",
-    "definition": "",
+    "definition": "an electronic system that records telephone messages",
     "chinese": "語音郵件",
     "sentence": "He left a message on her __________.",
     "translation": "他在她的語音郵件上留了消息。",
     "lookup": {
-     "english": "",
+     "english": "an electronic system that records telephone messages",
      "chinese": "語音郵件"
     }
    },
@@ -567,12 +567,12 @@ window.FLASHCARD_UNITS = {
     "word": "give voice to",
     "answer": "gives voice to",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to express a feeling or opinion",
     "chinese": "表達",
     "sentence": "The article __________ the concerns of the community.",
     "translation": "這篇文章表達了社區的擔憂。",
     "lookup": {
-     "english": "",
+     "english": "to express a feeling or opinion",
      "chinese": "表達"
     }
    },
@@ -580,12 +580,12 @@ window.FLASHCARD_UNITS = {
     "word": "opinion",
     "answer": "opinion",
     "pos": "n.",
-    "definition": "",
+    "definition": "what you think or believe about something",
     "chinese": "意見",
     "sentence": "In my __________, the plan is not feasible.",
     "translation": "我認為這個計劃是不可行的。",
     "lookup": {
-     "english": "",
+     "english": "what you think or believe about something",
      "chinese": "意見"
     }
    },
@@ -593,12 +593,12 @@ window.FLASHCARD_UNITS = {
     "word": "in my opinion",
     "answer": "In my opinion",
     "pos": "phr.",
-    "definition": "",
+    "definition": "used to say what you personally think",
     "chinese": "我認為",
     "sentence": "__________, we should approach the problem differently.",
     "translation": "我認為，我們應該用不同的方式來處理這個問題。",
     "lookup": {
-     "english": "",
+     "english": "used to say what you personally think",
      "chinese": "我認為"
     }
    },
@@ -606,12 +606,12 @@ window.FLASHCARD_UNITS = {
     "word": "voice one's opinion",
     "answer": "voice your opinion",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to say what you think about something",
     "chinese": "發表意見",
     "sentence": "It is important to __________ in a democratic society.",
     "translation": "在民主社會中發表意見是很重要的。",
     "lookup": {
-     "english": "",
+     "english": "to say what you think about something",
      "chinese": "發表意見"
     }
    },
@@ -619,12 +619,12 @@ window.FLASHCARD_UNITS = {
     "word": "proof",
     "answer": "proof",
     "pos": "n.",
-    "definition": "",
+    "definition": "facts or information that show something is true",
     "chinese": "證據",
     "sentence": "The __________ of his innocence was undeniable.",
     "translation": "他清白的證據是不可否認的。",
     "lookup": {
-     "english": "",
+     "english": "facts or information that show something is true",
      "chinese": "證據"
     }
    },
@@ -632,12 +632,12 @@ window.FLASHCARD_UNITS = {
     "word": "the proof is in the pudding",
     "answer": "the proof is in the pudding",
     "pos": "phr.",
-    "definition": "",
+    "definition": "you can only judge something by trying or testing it",
     "chinese": "結果證明一切",
     "sentence": "We'll see if the plan works; __________.",
     "translation": "我們將看到計劃是否有效；結果證明一切。",
     "lookup": {
-     "english": "",
+     "english": "you can only judge something by trying or testing it",
      "chinese": "結果證明一切"
     }
    },
@@ -645,12 +645,12 @@ window.FLASHCARD_UNITS = {
     "word": "water-proof",
     "answer": "water-proof",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not letting water pass through",
     "chinese": "防水的",
     "sentence": "She bought a __________ watch for her diving trip.",
     "translation": "她為她的潛水之旅買了一塊防水手錶。",
     "lookup": {
-     "english": "",
+     "english": "not letting water pass through",
      "chinese": "防水的"
     }
    },
@@ -658,12 +658,12 @@ window.FLASHCARD_UNITS = {
     "word": "wind-proof",
     "answer": "wind-proof",
     "pos": "adj.",
-    "definition": "",
+    "definition": "protecting you from the wind",
     "chinese": "防風的",
     "sentence": "The __________ jacket was perfect for the hike.",
     "translation": "這件防風夾克非常適合遠足。",
     "lookup": {
-     "english": "",
+     "english": "protecting you from the wind",
      "chinese": "防風的"
     }
    },
@@ -671,12 +671,12 @@ window.FLASHCARD_UNITS = {
     "word": "bullet-proof",
     "answer": "bullet-proof",
     "pos": "adj.",
-    "definition": "",
+    "definition": "able to stop bullets from passing through",
     "chinese": "防彈的",
     "sentence": "The police wore __________ vests during the operation.",
     "translation": "警察在行動中穿著防彈背心。",
     "lookup": {
-     "english": "",
+     "english": "able to stop bullets from passing through",
      "chinese": "防彈的"
     }
    },
@@ -684,12 +684,12 @@ window.FLASHCARD_UNITS = {
     "word": "prove",
     "answer": "proved",
     "pos": "v.",
-    "definition": "",
+    "definition": "to use facts to show that something is true",
     "chinese": "證明",
     "sentence": "The experiment __________ his theory to be correct.",
     "translation": "實驗證明他的理論是正確的。",
     "lookup": {
-     "english": "",
+     "english": "to use facts to show that something is true",
      "chinese": "證明"
     }
    },
@@ -697,12 +697,12 @@ window.FLASHCARD_UNITS = {
     "word": "proved",
     "answer": "proved",
     "pos": "adj.",
-    "definition": "",
+    "definition": "shown by facts to be true",
     "chinese": "被證明的",
     "sentence": "The __________ benefits of exercise are numerous.",
     "translation": "運動被證明的好處是眾多的。",
     "lookup": {
-     "english": "",
+     "english": "shown by facts to be true",
      "chinese": "被證明的"
     }
    },
@@ -710,12 +710,12 @@ window.FLASHCARD_UNITS = {
     "word": "comment",
     "answer": "commented",
     "pos": "v.",
-    "definition": "",
+    "definition": "to give your opinion about something",
     "chinese": "評論",
     "sentence": "The teacher __________ on the student's progress.",
     "translation": "老師評論了學生的進步。",
     "lookup": {
-     "english": "",
+     "english": "to give your opinion about something",
      "chinese": "評論"
     }
    },
@@ -723,12 +723,12 @@ window.FLASHCARD_UNITS = {
     "word": "comment",
     "answer": "comment",
     "pos": "n.",
-    "definition": "",
+    "definition": "something you say or write that gives your opinion",
     "chinese": "評論",
     "sentence": "His __________ on the issue was insightful.",
     "translation": "他對這個問題的評論很有洞察力。",
     "lookup": {
-     "english": "",
+     "english": "something you say or write that gives your opinion",
      "chinese": "評論"
     }
    },
@@ -736,12 +736,12 @@ window.FLASHCARD_UNITS = {
     "word": "make a comment on",
     "answer": "made a comment on",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to say what you think about something",
     "chinese": "對…作評論",
     "sentence": "Many people __________ the new policy.",
     "translation": "許多人對新政策作出了評論。",
     "lookup": {
-     "english": "",
+     "english": "to say what you think about something",
      "chinese": "對…作評論"
     }
    },
@@ -749,12 +749,12 @@ window.FLASHCARD_UNITS = {
     "word": "have no comment on/about",
     "answer": "had no comment on",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to refuse to say anything about a subject",
     "chinese": "對…無可評論",
     "sentence": "The official said he __________ the ongoing investigation.",
     "translation": "官員說他對正在進行的調查無可評論。",
     "lookup": {
-     "english": "",
+     "english": "to refuse to say anything about a subject",
      "chinese": "對…無可評論"
     }
    },
@@ -762,12 +762,12 @@ window.FLASHCARD_UNITS = {
     "word": "imply",
     "answer": "imply",
     "pos": "v.",
-    "definition": "",
+    "definition": "to suggest that something is true without saying it directly",
     "chinese": "暗示",
     "sentence": "His silence seemed to __________ disapproval.",
     "translation": "他的沉默似乎暗示著不贊同。",
     "lookup": {
-     "english": "",
+     "english": "to suggest that something is true without saying it directly",
      "chinese": "暗示"
     }
    },
@@ -775,12 +775,12 @@ window.FLASHCARD_UNITS = {
     "word": "implied",
     "answer": "implied",
     "pos": "adj.",
-    "definition": "",
+    "definition": "suggested but not said directly",
     "chinese": "被暗示的",
     "sentence": "The __________ meaning of his words was clear.",
     "translation": "他話語中被暗示的意思是清楚的。",
     "lookup": {
-     "english": "",
+     "english": "suggested but not said directly",
      "chinese": "被暗示的"
     }
    },
@@ -788,12 +788,12 @@ window.FLASHCARD_UNITS = {
     "word": "implication",
     "answer": "implications",
     "pos": "n.",
-    "definition": "",
+    "definition": "a possible effect or result of an action; something suggested but not said directly",
     "chinese": "暗示",
     "sentence": "The __________ of his statement were far-reaching.",
     "translation": "他的聲明所暗示的後果是深遠的。",
     "lookup": {
-     "english": "",
+     "english": "a possible effect or result of an action; something suggested but not said directly",
      "chinese": "暗示"
     }
    },
@@ -801,12 +801,12 @@ window.FLASHCARD_UNITS = {
     "word": "interpret",
     "answer": "interprets",
     "pos": "v.",
-    "definition": "",
+    "definition": "to explain or decide what something means",
     "chinese": "解釋",
     "sentence": "She __________ the poem in a unique way.",
     "translation": "她以一種獨特的方式解釋了這首詩。",
     "lookup": {
-     "english": "",
+     "english": "to explain or decide what something means",
      "chinese": "解釋"
     }
    },
@@ -814,12 +814,12 @@ window.FLASHCARD_UNITS = {
     "word": "interpret A as B",
     "answer": "interpreted",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to understand something as having a particular meaning",
     "chinese": "把A解釋為B",
     "sentence": "He __________ her silence as agreement.",
     "translation": "他把她的沉默解釋為同意。",
     "lookup": {
-     "english": "",
+     "english": "to understand something as having a particular meaning",
      "chinese": "把A解釋為B"
     }
    },
@@ -827,12 +827,12 @@ window.FLASHCARD_UNITS = {
     "word": "interpretation",
     "answer": "interpretations",
     "pos": "n.",
-    "definition": "",
+    "definition": "an explanation or opinion of what something means",
     "chinese": "解釋",
     "sentence": "Different experts had different __________ of the data.",
     "translation": "不同的專家對數據有不同的解釋。",
     "lookup": {
-     "english": "",
+     "english": "an explanation or opinion of what something means",
      "chinese": "解釋"
     }
    },
@@ -840,12 +840,12 @@ window.FLASHCARD_UNITS = {
     "word": "secondary",
     "answer": "secondary",
     "pos": "adj.",
-    "definition": "",
+    "definition": "less important than something else; coming after the first stage",
     "chinese": "次要的",
     "sentence": "The __________ effects of the medication were minimal.",
     "translation": "藥物的次要作用是微乎其微的。",
     "lookup": {
-     "english": "",
+     "english": "less important than something else; coming after the first stage",
      "chinese": "次要的"
     }
    },
@@ -853,12 +853,12 @@ window.FLASHCARD_UNITS = {
     "word": "primary",
     "answer": "primary",
     "pos": "adj.",
-    "definition": "",
+    "definition": "main; most important; coming first",
     "chinese": "主要的",
     "sentence": "The __________ goal of the project was to improve safety.",
     "translation": "該項目的主要目標是提高安全性。",
     "lookup": {
-     "english": "",
+     "english": "main; most important; coming first",
      "chinese": "主要的"
     }
    },
@@ -866,12 +866,12 @@ window.FLASHCARD_UNITS = {
     "word": "prime",
     "answer": "prime",
     "pos": "adj.",
-    "definition": "",
+    "definition": "main; most important; of the best quality",
     "chinese": "主要的, 最重要的",
     "sentence": "The building is in a __________ location in the city center.",
     "translation": "這棟建築位於市中心的黃金位置。",
     "lookup": {
-     "english": "",
+     "english": "main; most important; of the best quality",
      "chinese": "主要的, 最重要的"
     }
    },
@@ -879,12 +879,12 @@ window.FLASHCARD_UNITS = {
     "word": "prime",
     "answer": "prime",
     "pos": "n.",
-    "definition": "",
+    "definition": "the time in your life when you are strongest and most successful",
     "chinese": "鼎盛時期",
     "sentence": "Many believe that the athlete is now in his __________.",
     "translation": "許多人認為這位運動員現在正處於他的全盛時期。",
     "lookup": {
-     "english": "",
+     "english": "the time in your life when you are strongest and most successful",
      "chinese": "鼎盛時期"
     }
    }
@@ -2457,4 +2457,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"character":["","角色"],"characteristic":["","特色"],"spark":["","引發"],"sparked":["","引發"],"sparks":["","點燃火花"],"sparkle":["","閃耀"],"sparkling":["","閃閃發光的"],"intense":["","強烈的"],"intensify":["","加劇"],"intensified":["","加劇"],"intensity":["","強度"],"intensive":["","密集的"],"tense":["","緊張的"],"tension":["","緊張"],"argue":["","爭吵"],"argues":["","主張"],"argument":["","爭吵"],"illustrated":["","畫插圖"],"illustrate":["","畫插圖"],"illustration":["","插畫"],"revise":["","修訂"],"revised":["","經修訂的"],"revisions":["","修訂"],"revision":["","修訂"],"modify":["","修改"],"modified":["","修改"],"modification":["","修改"],"modifications":["","修改"],"lock":["","鎖"],"unlock":["","解鎖"],"locker":["","儲物櫃"],"voice":["","表明意見"],"voiced":["","表明意見"],"voices":["","配音旁白"],"voicemail":["","語音郵件"],"opinion":["","意見"],"proof":["","證據"],"water-proof":["","防水的"],"wind-proof":["","防風的"],"bullet-proof":["","防彈的"],"proved":["","證明"],"prove":["","證明"],"commented":["","評論"],"comment":["","評論"],"imply":["","暗示"],"implied":["","被暗示的"],"implications":["","暗示"],"implication":["","暗示"],"interprets":["","解釋"],"interpret":["","解釋"],"interpreted":["","把A解釋為B"],"interpretation":["","解釋"],"interpretations":["","解釋"],"secondary":["","次要的"],"primary":["","主要的"],"prime":["","主要的, 最重要的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"character":["a person in a book, play or film","角色"],"characteristic":["a typical feature or quality that someone or something has","特色"],"spark":["to cause something such as an argument or interest to start","引發"],"sparked":["to cause something such as an argument or interest to start","引發"],"sparks":["to make a fire start; to produce small flashes of fire","點燃火花"],"sparkle":["to shine brightly with small flashes of light","閃耀"],"sparkling":["shining brightly with small flashes of light","閃閃發光的"],"intense":["very strong or great","強烈的"],"intensify":["to become or make something stronger or greater","加劇"],"intensified":["to become or make something stronger or greater","加劇"],"intensity":["the strength or great degree of something","強度"],"intensive":["involving a lot of work or activity in a short time","密集的"],"tense":["nervous and unable to relax","緊張的"],"tension":["a feeling of worry that makes it hard to relax; an unfriendly feeling between people","緊張"],"argue":["to speak angrily to someone because you disagree","爭吵"],"argues":["to give reasons why you think something is true or right","主張"],"argument":["an angry disagreement between people","爭吵"],"illustrated":["to add pictures to a book or magazine","畫插圖"],"illustrate":["to add pictures to a book or magazine","畫插圖"],"illustration":["a picture or drawing in a book or magazine","插畫"],"revise":["to change something written in order to correct or improve it","修訂"],"revised":["changed in order to correct or improve it","經修訂的"],"revision":["a change made to correct or improve something written","修訂"],"revisions":["a change made to correct or improve something written","修訂"],"modified":["to change something slightly to improve it or make it more suitable","修改"],"modify":["to change something slightly to improve it or make it more suitable","修改"],"modifications":["a small change made to improve something","修改"],"modification":["a small change made to improve something","修改"],"lock":["to fasten a door or box with a key so that it cannot be opened","鎖"],"unlock":["to open something using a key or code","解鎖"],"locker":["a small cupboard that can be locked, where you keep your things","儲物櫃"],"voiced":["to tell people your feelings or opinions","表明意見"],"voice":["to tell people your feelings or opinions","表明意見"],"voices":["to speak the words of a character in a cartoon or film","配音旁白"],"voicemail":["an electronic system that records telephone messages","語音郵件"],"opinion":["what you think or believe about something","意見"],"proof":["facts or information that show something is true","證據"],"water-proof":["not letting water pass through","防水的"],"wind-proof":["protecting you from the wind","防風的"],"bullet-proof":["able to stop bullets from passing through","防彈的"],"proved":["to use facts to show that something is true","證明"],"prove":["to use facts to show that something is true","證明"],"commented":["to give your opinion about something","評論"],"comment":["to give your opinion about something","評論"],"imply":["to suggest that something is true without saying it directly","暗示"],"implied":["suggested but not said directly","被暗示的"],"implication":["a possible effect or result of an action; something suggested but not said directly","暗示"],"implications":["a possible effect or result of an action; something suggested but not said directly","暗示"],"interprets":["to explain or decide what something means","解釋"],"interpret":["to explain or decide what something means","解釋"],"interpreted":["to understand something as having a particular meaning","把A解釋為B"],"interpretations":["an explanation or opinion of what something means","解釋"],"interpretation":["an explanation or opinion of what something means","解釋"],"secondary":["less important than something else; coming after the first stage","次要的"],"primary":["main; most important; coming first","主要的"],"prime":["main; most important; of the best quality","主要的, 最重要的"]});

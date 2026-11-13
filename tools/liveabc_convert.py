@@ -19,6 +19,10 @@ try:
     ANSWERS, SENTENCES, CN = _m.ANSWERS, _m.SENTENCES, _m.CN     # hand-checked answers, rewritten sentences, missing translations
 except ImportError:
     ANSWERS, SENTENCES, CN = {}, {}, {}
+try:
+    EXTRA_DEFS = __import__("liveabc" + BOOK.replace("-", "") + "_defs").DEFS if BOOK != "3-5" else {}      # definitions written for this site
+except ImportError:
+    EXTRA_DEFS = {}
 REVIEW = "--review" in sys.argv
 GAS = "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"
 FILL = set("completely totally entirely highly deeply perfectly absolutely fully heavily thoroughly strictly securely safely successfully quickly "
@@ -333,6 +337,8 @@ for lv, units in R.items():
             seen.add((word.lower(), one))
             e = {"word": word, "pos": re.sub(r"[()]", "", info.get("pos", "")).strip() or info.get("cat", ""), "cat": info.get("cat", ""),
                  "cn_def": norm(info.get("cn", "")), "en_def": "" if info.get("en", "").startswith("a vocabulary item meaning") else re.sub(r":\.$", ".", norm(info.get("en", ""))), "sentence": one, "cn": cn}
+            if not e["en_def"] and lv == "basic":
+                e["en_def"] = EXTRA_DEFS.get(int(u), {}).get(len(entries), "")
             if forms:
                 e["forms"] = forms
             if ans != word:

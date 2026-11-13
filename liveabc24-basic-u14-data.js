@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "amazed",
     "pos": "v.",
     "cn_def": "使驚訝；使驚奇",
-    "en_def": "",
+    "en_def": "to surprise someone very much",
     "sentence": "The total solar eclipse {{BLANK}} millions of people around the world.",
     "cn": "全日食令世界各地的數百萬人感到驚奇。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "amazing",
     "pos": "adj.",
     "cn_def": "令人驚奇的；驚人的",
-    "en_def": "",
+    "en_def": "very surprising, especially in a way you like or admire",
     "sentence": "The progress in AI development is {{BLANK}}!",
     "cn": "人工智能發展的進步令人驚嘆！"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "amazed at",
     "pos": "phr.",
     "cn_def": "對...感到驚奇",
-    "en_def": "",
+    "en_def": "to be very surprised by something",
     "sentence": "Many were {{BLANK}} the 3D printed food technology.",
     "cn": "許多人對3D打印食物技術感到驚奇。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "crop",
     "pos": "v.",
     "cn_def": "作物；收成；種植",
-    "en_def": "",
+    "en_def": "a plant such as wheat or rice that is grown in large amounts; the amount gathered in one season",
     "sentence": "The wheat {{BLANK}} in Ukraine has been greatly affected by the war.",
     "cn": "烏克蘭的小麥收成受到戰爭的嚴重影響。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "influence",
     "pos": "n.",
     "cn_def": "影響；作用",
-    "en_def": "",
+    "en_def": "the power to affect how someone thinks or how something develops",
     "sentence": "The wars in Ukraine and Israel have had a significant {{BLANK}} on global politics.",
     "cn": "烏克蘭和以色列的戰爭對全球政治產生了重大影響。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "influence",
     "pos": "phr.",
     "cn_def": "對...有影響",
-    "en_def": "",
+    "en_def": "to affect the way someone or something develops, behaves or thinks",
     "sentence": "AI development has had a profound {{BLANK}} on various industries.",
     "cn": "人工智能的發展對各行業產生了深遠影響。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "influenced",
     "pos": "v.",
     "cn_def": "影響；左右",
-    "en_def": "",
+    "en_def": "to affect how someone thinks or how something develops",
     "sentence": "Recent earthquakes in Taiwan {{BLANK}} the agricultural sector.",
     "cn": "最近在台灣發生的地震對農業部門產生了影響。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "influential",
     "pos": "adj.",
     "cn_def": "有影響力的；有權勢的",
-    "en_def": "",
+    "en_def": "having a lot of power to affect what people think or do",
     "sentence": "He is an {{BLANK}} figure in the field of AI research.",
     "cn": "他在人工智能研究領域是一位有影響力的人物。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "mankind",
     "pos": "n.",
     "cn_def": "人類",
-    "en_def": "",
+    "en_def": "all humans, thought of as a group",
     "sentence": "The wars remind us of the destructive nature of {{BLANK}}'s conflicts.",
     "cn": "戰爭提醒我們人類衝突的破壞性本質。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "human beings",
     "pos": "n.",
     "cn_def": "人類",
-    "en_def": "",
+    "en_def": "a person",
     "sentence": "The earthquakes in Taiwan have shown the resilience of {{BLANK}}.",
     "cn": "台灣的地震顯示了人類的韌性。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "humanity",
     "pos": "n.",
     "cn_def": "人性；人道；人類",
-    "en_def": "",
+    "en_def": "people in general; the quality of being kind to others",
     "sentence": "The conflicts highlight the need for compassion and understanding in {{BLANK}}.",
     "cn": "衝突凸顯了對人性的同情和理解的需求。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "significance",
     "pos": "n.",
     "cn_def": "重要性；意義",
-    "en_def": "",
+    "en_def": "the importance or meaning of something",
     "sentence": "The total solar eclipse holds great {{BLANK}} for astronomers.",
     "cn": "全日食對天文學家來說意義重大。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "significant",
     "pos": "adj.",
     "cn_def": "重要的；顯著的",
-    "en_def": "",
+    "en_def": "large or important enough to be noticed or to have an effect",
     "sentence": "The development of AI has had a {{BLANK}} impact on various industries.",
     "cn": "人工智能的發展對各行業產生了顯著影響。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "significantly",
     "pos": "adv.",
     "cn_def": "顯著地；重大地",
-    "en_def": "",
+    "en_def": "in a way that is large or important enough to be noticed",
     "sentence": "The earthquake {{BLANK}} affected the region's infrastructure.",
     "cn": "地震對該地區的基礎設施產生了重大影響。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "insignificant",
     "pos": "adj.",
     "cn_def": "無關緊要的；微不足道的",
-    "en_def": "",
+    "en_def": "not big or important enough to be worth considering",
     "sentence": "Some people consider the AI development to be {{BLANK}} compared to other global issues.",
     "cn": "一些人認為與其他全球問題相比，人工智能發展微不足道。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "importance",
     "pos": "n.",
     "cn_def": "重要性；重要程度",
-    "en_def": "",
+    "en_def": "the quality of having great value or influence",
     "sentence": "The {{BLANK}} of renewable energy sources is increasingly recognized.",
     "cn": "對可再生能源的重視程度越來越高。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "important",
     "pos": "adj.",
     "cn_def": "重要的；重大的",
-    "en_def": "",
+    "en_def": "having great value, meaning or effect",
     "sentence": "It is {{BLANK}} to conduct thorough research before making decisions.",
     "cn": "在做出決定之前進行深入的研究是非常重要的。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "unimportant",
     "pos": "adj.",
     "cn_def": "不重要的；無關緊要的",
-    "en_def": "",
+    "en_def": "not having much value, meaning or effect",
     "sentence": "Some people argue that the issue is {{BLANK}} compared to other global challenges.",
     "cn": "一些人認為與其他全球挑戰相比，這個問題不重要。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "wheat",
     "pos": "n.",
     "cn_def": "小麥",
-    "en_def": "",
+    "en_def": "a plant grown for its grain, which is used to make flour and bread",
     "sentence": "The war has disrupted the {{BLANK}} harvest in the region.",
     "cn": "這場戰爭擾亂了該地區的小麥收成。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "climate",
     "pos": "n.",
     "cn_def": "氣候；風氣",
-    "en_def": "",
+    "en_def": "the usual weather conditions of a place; the general feeling or situation at a time",
     "sentence": "The changing {{BLANK}} patterns have led to unpredictable weather.",
     "cn": "變化中的氣候模式導致了不可預測的天氣。"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "sauce",
     "pos": "n.",
     "cn_def": "醬汁",
-    "en_def": "",
+    "en_def": "a thick liquid that is eaten with food to add flavor",
     "sentence": "The new {{BLANK}} recipe uses locally sourced ingredients.",
     "cn": "這種新的醬汁食譜使用當地的食材。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "saucer",
     "pos": "n.",
     "cn_def": "碟子；茶托",
-    "en_def": "",
+    "en_def": "a small shallow dish that a cup stands on",
     "sentence": "She placed the cup on the {{BLANK}} next to her.",
     "cn": "她把杯子放在了她旁邊的碟子上。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "means",
     "pos": "n.",
     "cn_def": "方法；手段",
-    "en_def": "",
+    "en_def": "a way of doing or achieving something",
     "sentence": "One {{BLANK}} to reduce carbon emissions is to use renewable energy.",
     "cn": "減少碳排放的一種方法是使用可再生能源。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "by all means",
     "pos": "phr.",
     "cn_def": "當然可以；務必",
-    "en_def": "",
+    "en_def": "used to say that someone is very welcome to do something; certainly",
     "sentence": "If you have any questions, {{BLANK}} ask the instructor.",
     "cn": "如果你有任何問題，務必向講師提問。"
   },
@@ -202,7 +202,7 @@ const VOCAB = [
     "word": "by no means",
     "pos": "phr.",
     "cn_def": "絕不；決不",
-    "en_def": "",
+    "en_def": "not at all",
     "sentence": "The new policy is {{BLANK}} perfect, but it's a step in the right direction.",
     "cn": "這項新政策絕不完美，但是這是朝著正確方向邁出的一步。"
   },
@@ -210,7 +210,7 @@ const VOCAB = [
     "word": "Under no circumstances",
     "pos": "phr.",
     "cn_def": "絕不；在任何情況下都不",
-    "en_def": "",
+    "en_def": "never; not for any reason",
     "sentence": "{{BLANK}} should you give out your personal information to strangers.",
     "cn": "你絕對不應該向陌生人透露你的個人信息。"
   },
@@ -218,7 +218,7 @@ const VOCAB = [
     "word": "namely",
     "pos": "adv.",
     "cn_def": "即；也就是",
-    "en_def": "",
+    "en_def": "used to give more exact information about what you have just said",
     "sentence": "There are several countries involved, {{BLANK}} Russia and China.",
     "cn": "有幾個國家參與其中，包括俄羅斯和中國。"
   },
@@ -226,7 +226,7 @@ const VOCAB = [
     "word": "prove",
     "pos": "v.",
     "cn_def": "證明；證實",
-    "en_def": "",
+    "en_def": "to use facts to show that something is true",
     "sentence": "Recent studies {{BLANK}} that the vaccine is effective against the virus.",
     "cn": "最近的研究證明疫苗對這種病毒是有效的。"
   },
@@ -234,7 +234,7 @@ const VOCAB = [
     "word": "proof",
     "pos": "n.",
     "cn_def": "證據；證明",
-    "en_def": "",
+    "en_def": "facts or information that show something is true",
     "sentence": "The data provides {{BLANK}} that the theory is correct.",
     "cn": "這些數據提供了理論正確性的證據。"
   },
@@ -242,7 +242,7 @@ const VOCAB = [
     "word": "proven",
     "pos": "adj.",
     "cn_def": "證明的；被證實的",
-    "en_def": "",
+    "en_def": "tested and shown to be true or good",
     "sentence": "The new treatment has been {{BLANK}} to be effective.",
     "cn": "這種新的治療方法已被證明是有效的。"
   },
@@ -250,7 +250,7 @@ const VOCAB = [
     "word": "value",
     "pos": "v.",
     "cn_def": "價值；重要性；估值；看重",
-    "en_def": "",
+    "en_def": "to think that someone or something is important",
     "sentence": "It's important to {{BLANK}} the opinions of others.",
     "cn": "重視他人的意見是很重要的。"
   },
@@ -258,7 +258,7 @@ const VOCAB = [
     "word": "valuable",
     "pos": "adj.",
     "cn_def": "有價值的；寶貴的",
-    "en_def": "",
+    "en_def": "worth a lot of money; very useful or important",
     "sentence": "The experience gained from volunteering is {{BLANK}} for personal growth.",
     "cn": "從志願工作中獲得的經驗對個人成長很有價值。"
   },
@@ -266,7 +266,7 @@ const VOCAB = [
     "word": "invaluable",
     "pos": "adj.",
     "cn_def": "非常寶貴的；無價的",
-    "en_def": "",
+    "en_def": "extremely useful",
     "sentence": "Her guidance throughout the project has been {{BLANK}} to us.",
     "cn": "她在整個項目中的指導對我們來說是無價的。"
   },
@@ -274,7 +274,7 @@ const VOCAB = [
     "word": "priceless",
     "pos": "adj.",
     "cn_def": "無價的；極其珍貴的",
-    "en_def": "",
+    "en_def": "too valuable to have a price; extremely important to you",
     "sentence": "The support of friends and family is {{BLANK}} during difficult times.",
     "cn": "在困難時期，朋友和家人的支持是無價的。"
   },
@@ -282,7 +282,7 @@ const VOCAB = [
     "word": "undervalue",
     "pos": "v.",
     "cn_def": "低估；輕視",
-    "en_def": "",
+    "en_def": "to think that something is less important or valuable than it really is",
     "sentence": "It's easy to {{BLANK}} the importance of mental health.",
     "cn": "很容易低估心理健康的重要性。"
   },
@@ -290,7 +290,7 @@ const VOCAB = [
     "word": "overvalue",
     "pos": "v.",
     "cn_def": "高估；過分重視",
-    "en_def": "",
+    "en_def": "to think that something is more important or valuable than it really is",
     "sentence": "Some people tend to {{BLANK}} their own opinions.",
     "cn": "有些人傾向於過分重視自己的意見。"
   },
@@ -298,7 +298,7 @@ const VOCAB = [
     "word": "core values",
     "pos": "phr.",
     "cn_def": "核心價值觀",
-    "en_def": "",
+    "en_def": "the most important beliefs that guide how a person or organization behaves",
     "sentence": "The company's {{BLANK}} include integrity and teamwork.",
     "cn": "公司的核心價值觀包括誠信和團隊合作。"
   },
@@ -306,7 +306,7 @@ const VOCAB = [
     "word": "places great emphasis on",
     "pos": "phr.",
     "cn_def": "對...非常重視",
-    "en_def": "",
+    "en_def": "to treat something as very important",
     "sentence": "The school {{BLANK}} character education.",
     "cn": "這所學校非常重視品德教育。"
   },
@@ -314,7 +314,7 @@ const VOCAB = [
     "word": "protein",
     "pos": "n.",
     "cn_def": "蛋白質",
-    "en_def": "",
+    "en_def": "a substance in foods such as meat, eggs and beans that helps your body grow and stay strong",
     "sentence": "Vegetarians often look for alternative sources of {{BLANK}} in their diet.",
     "cn": "素食者通常在飲食中尋找蛋白質的替代來源。"
   },
@@ -322,7 +322,7 @@ const VOCAB = [
     "word": "minerals",
     "pos": "n.",
     "cn_def": "礦物質",
-    "en_def": "",
+    "en_def": "a natural substance such as iron or calcium that your body needs to stay healthy",
     "sentence": "Some {{BLANK}} are essential for maintaining good health.",
     "cn": "一些礦物質對保持健康至關重要。"
   },
@@ -330,7 +330,7 @@ const VOCAB = [
     "word": "vitamins",
     "pos": "n.",
     "cn_def": "維生素",
-    "en_def": "",
+    "en_def": "a natural substance in food that you need in small amounts to stay healthy",
     "sentence": "It's important to get enough {{BLANK}} through diet or supplements.",
     "cn": "通過飲食或補充劑攝取足夠的維生素是很重要的。"
   },
@@ -338,7 +338,7 @@ const VOCAB = [
     "word": "carbohydrates",
     "pos": "n.",
     "cn_def": "碳水化合物",
-    "en_def": "",
+    "en_def": "a substance in foods such as bread, rice and sugar that gives your body energy",
     "sentence": "Athletes need to consume enough {{BLANK}} for energy.",
     "cn": "運動員需要攝取足夠的碳水化合物來獲得能量。"
   },
@@ -346,7 +346,7 @@ const VOCAB = [
     "word": "fiber",
     "pos": "n.",
     "cn_def": "纖維",
-    "en_def": "",
+    "en_def": "the part of plants that you eat but cannot digest, which helps food move through your body",
     "sentence": "A diet rich in {{BLANK}} is important for digestive health.",
     "cn": "富含纖維的飲食對消化健康很重要。"
   },
@@ -354,7 +354,7 @@ const VOCAB = [
     "word": "nutrients",
     "pos": "n.",
     "cn_def": "營養素",
-    "en_def": "",
+    "en_def": "a substance that living things need in order to live and grow",
     "sentence": "Fruits and vegetables are rich in essential {{BLANK}}.",
     "cn": "水果和蔬菜富含必需的營養素。"
   },
@@ -362,7 +362,7 @@ const VOCAB = [
     "word": "nutrition",
     "pos": "n.",
     "cn_def": "營養",
-    "en_def": "",
+    "en_def": "the food you eat and the way it affects your health",
     "sentence": "Proper {{BLANK}} is essential for overall health.",
     "cn": "適當的營養對總體健康至關重要。"
   },
@@ -370,7 +370,7 @@ const VOCAB = [
     "word": "nutritious",
     "pos": "adj.",
     "cn_def": "營養豐富的",
-    "en_def": "",
+    "en_def": "(of food) full of the things your body needs to be healthy",
     "sentence": "A balanced diet should include a variety of {{BLANK}} foods.",
     "cn": "均衡的飲食應該包含各種營養豐富的食物。"
   },
@@ -378,7 +378,7 @@ const VOCAB = [
     "word": "basis",
     "pos": "n.",
     "cn_def": "基礎；根據",
-    "en_def": "",
+    "en_def": "the idea or reason that something is built on; a particular way of doing something",
     "sentence": "The decision was made on a regular {{BLANK}} after careful consideration.",
     "cn": "經過仔細考慮，這個決定是根據定期的基礎做出的。"
   },
@@ -386,7 +386,7 @@ const VOCAB = [
     "word": "on a regular basis",
     "pos": "phr.",
     "cn_def": "定期地",
-    "en_def": "",
+    "en_def": "regularly; again and again at fixed times",
     "sentence": "He exercises {{BLANK}} to stay healthy.",
     "cn": "他定期運動以保持健康。"
   },
@@ -394,7 +394,7 @@ const VOCAB = [
     "word": "on the basis of",
     "pos": "phr.",
     "cn_def": "根據；基於",
-    "en_def": "",
+    "en_def": "because of a particular fact or reason",
     "sentence": "The report was written {{BLANK}} the latest research findings.",
     "cn": "這份報告是根據最新的研究結果撰寫的。"
   },
@@ -402,7 +402,7 @@ const VOCAB = [
     "word": "based",
     "pos": "v.",
     "cn_def": "基地；基礎；基於",
-    "en_def": "",
+    "en_def": "to use something as the starting point or reason for something else",
     "sentence": "The company's decision was {{BLANK}} on market research.",
     "cn": "公司的決定是基於市場研究的。"
   },
@@ -410,7 +410,7 @@ const VOCAB = [
     "word": "Basic",
     "pos": "adj.",
     "cn_def": "基本的；基礎的",
-    "en_def": "",
+    "en_def": "simple and most necessary; forming the starting point",
     "sentence": "{{BLANK}} knowledge of computer programming is required for this job.",
     "cn": "這份工作需要基本的電腦編程知識。"
   },
@@ -418,7 +418,7 @@ const VOCAB = [
     "word": "Basically",
     "pos": "adv.",
     "cn_def": "基本上；基本地",
-    "en_def": "",
+    "en_def": "in the most important ways; used when giving a simple explanation",
     "sentence": "{{BLANK}}, the system works by converting sunlight into electricity.",
     "cn": "基本上，這個系統是通過將陽光轉換為電能來工作的。"
   },
@@ -426,7 +426,7 @@ const VOCAB = [
     "word": "increase",
     "pos": "n.",
     "cn_def": "增加；增長",
-    "en_def": "",
+    "en_def": "a rise in the amount or number of something",
     "sentence": "There has been an {{BLANK}} in demand for renewable energy sources.",
     "cn": "對可再生能源的需求有所增加。"
   },
@@ -434,7 +434,7 @@ const VOCAB = [
     "word": "increase",
     "pos": "v.",
     "cn_def": "增加；增長",
-    "en_def": "",
+    "en_def": "to become or make something larger in amount or number",
     "sentence": "The company plans to {{BLANK}} its production capacity next year.",
     "cn": "公司計劃明年增加其生產能力。"
   },
@@ -442,7 +442,7 @@ const VOCAB = [
     "word": "increasing",
     "pos": "adj.",
     "cn_def": "不斷增加的；增長的",
-    "en_def": "",
+    "en_def": "becoming greater in amount or number",
     "sentence": "There is an {{BLANK}} demand for skilled workers in the industry.",
     "cn": "行業對熟練工人的需求不斷增加。"
   },
@@ -450,7 +450,7 @@ const VOCAB = [
     "word": "increasingly",
     "pos": "adv.",
     "cn_def": "日益增加地；越來越多地",
-    "en_def": "",
+    "en_def": "more and more over time",
     "sentence": "The use of AI is {{BLANK}} common in various industries.",
     "cn": "人工智能在各行各業中的使用越來越普遍。"
   },
@@ -458,7 +458,7 @@ const VOCAB = [
     "word": "decrease",
     "pos": "n.",
     "cn_def": "減少；減少量",
-    "en_def": "",
+    "en_def": "a fall in the amount or number of something",
     "sentence": "There has been a significant {{BLANK}} in air pollution levels.",
     "cn": "空氣污染水平顯著下降。"
   },
@@ -466,7 +466,7 @@ const VOCAB = [
     "word": "decrease",
     "pos": "v.",
     "cn_def": "減少；降低",
-    "en_def": "",
+    "en_def": "to become or make something smaller in amount or number",
     "sentence": "The company plans to {{BLANK}} its carbon emissions by 20% next year.",
     "cn": "公司計劃明年將碳排放減少20%。"
   },
@@ -474,7 +474,7 @@ const VOCAB = [
     "word": "decreasing",
     "pos": "adj.",
     "cn_def": "逐漸減少的；減少中的",
-    "en_def": "",
+    "en_def": "becoming smaller in amount or number",
     "sentence": "The price of solar panels has been {{BLANK}} due to advances in technology.",
     "cn": "太陽能板的價格由於技術進步而逐漸降低。"
   },
@@ -482,7 +482,7 @@ const VOCAB = [
     "word": "decreasingly",
     "pos": "adv.",
     "cn_def": "逐漸減少地；越來越少地",
-    "en_def": "",
+    "en_def": "less and less over time",
     "sentence": "The use of fossil fuels is {{BLANK}} common as renewable energy sources become more popular.",
     "cn": "隨著可再生能源的普及，化石燃料的使用逐漸減少。"
   },
@@ -490,7 +490,7 @@ const VOCAB = [
     "word": "diet",
     "pos": "n.",
     "cn_def": "飲食；日常飲食",
-    "en_def": "",
+    "en_def": "the food and drink that a person usually eats",
     "sentence": "A balanced {{BLANK}} is essential for good health.",
     "cn": "均衡的飲食對健康至關重要。"
   },
@@ -498,7 +498,7 @@ const VOCAB = [
     "word": "diet",
     "pos": "v.",
     "cn_def": "節食；戒食",
-    "en_def": "",
+    "en_def": "to eat less food or only certain foods in order to lose weight",
     "sentence": "She decided to {{BLANK}} in order to lose weight.",
     "cn": "她決定節食以減肥。"
   },
@@ -506,7 +506,7 @@ const VOCAB = [
     "word": "on a diet",
     "pos": "phr.",
     "cn_def": "在節食中；在戒食中",
-    "en_def": "",
+    "en_def": "to be eating less or only certain foods in order to lose weight",
     "sentence": "He's {{BLANK}} to improve his health.",
     "cn": "他正在節食以改善健康。"
   },
@@ -514,7 +514,7 @@ const VOCAB = [
     "word": "dietary",
     "pos": "adj.",
     "cn_def": "飲食的；日常飲食的",
-    "en_def": "",
+    "en_def": "relating to the food that you eat",
     "sentence": "It's important to have a balanced {{BLANK}} intake.",
     "cn": "保持均衡的飲食攝入量很重要。"
   },
@@ -522,7 +522,7 @@ const VOCAB = [
     "word": "fast",
     "pos": "v.",
     "cn_def": "禁食；斋戒",
-    "en_def": "",
+    "en_def": "to eat no food for a period of time",
     "sentence": "Some people choose to {{BLANK}} for religious reasons.",
     "cn": "一些人選擇出於宗教原因而禁食。"
   },
@@ -530,7 +530,7 @@ const VOCAB = [
     "word": "delicious",
     "pos": "adj.",
     "cn_def": "美味的；可口的",
-    "en_def": "",
+    "en_def": "having a very pleasant taste or smell",
     "sentence": "The restaurant is known for its {{BLANK}} seafood dishes.",
     "cn": "這家餐廳以其美味的海鮮菜而聞名。"
   },
@@ -538,7 +538,7 @@ const VOCAB = [
     "word": "tasty",
     "pos": "adj.",
     "cn_def": "美味的；可口的",
-    "en_def": "",
+    "en_def": "having a strong, pleasant flavor",
     "sentence": "The soup was {{BLANK}} and flavorful.",
     "cn": "這湯又美味又香。"
   },
@@ -546,7 +546,7 @@ const VOCAB = [
     "word": "vegan",
     "pos": "adj.",
     "cn_def": "素食主義者；純素的",
-    "en_def": "",
+    "en_def": "not eating or using any animal products, including eggs and milk",
     "sentence": "She has been a {{BLANK}} for several years now.",
     "cn": "她已經是一名素食主義者好幾年了。"
   },
@@ -554,7 +554,7 @@ const VOCAB = [
     "word": "vegetarian",
     "pos": "adj.",
     "cn_def": "素食主義者；素食的",
-    "en_def": "",
+    "en_def": "not eating meat or fish",
     "sentence": "The restaurant offers a variety of {{BLANK}} options.",
     "cn": "這家餐廳提供多種素食選擇。"
   },
@@ -562,7 +562,7 @@ const VOCAB = [
     "word": "vegetation",
     "pos": "n.",
     "cn_def": "植被；草木",
-    "en_def": "",
+    "en_def": "the plants and trees that grow in an area",
     "sentence": "The {{BLANK}} in the region has been affected by the drought.",
     "cn": "該地區的植被受到乾旱的影響。"
   },
@@ -570,7 +570,7 @@ const VOCAB = [
     "word": "distinguish",
     "pos": "v.",
     "cn_def": "區分；辨別",
-    "en_def": "",
+    "en_def": "to recognize the difference between two people or things",
     "sentence": "It can be difficult to {{BLANK}} between the two species.",
     "cn": "在這兩個物種之間進行區分可能很困難。"
   },
@@ -578,7 +578,7 @@ const VOCAB = [
     "word": "distinguished",
     "pos": "adj.",
     "cn_def": "卓越的；傑出的",
-    "en_def": "",
+    "en_def": "very successful and respected",
     "sentence": "He is a {{BLANK}} scientist known for his groundbreaking research.",
     "cn": "他是一位以開創性研究而聞名的傑出科學家。"
   },
@@ -586,7 +586,7 @@ const VOCAB = [
     "word": "indistinguishable",
     "pos": "adj.",
     "cn_def": "難以區分的；看不出差別的",
-    "en_def": "",
+    "en_def": "impossible to tell apart from something else",
     "sentence": "The two products are almost {{BLANK}} in terms of quality.",
     "cn": "這兩種產品在質量上幾乎看不出差別。"
   }
@@ -1401,985 +1401,985 @@ const MCQS = [
 const LOOKUP = {
   "amaze": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to surprise someone very much",
     "cn_def": "使驚訝；使驚奇",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to surprise someone very much",
         "cn_def": "使驚訝；使驚奇"
       }
     ]
   },
   "amazed": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to surprise someone very much",
     "cn_def": "使驚訝；使驚奇",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to surprise someone very much",
         "cn_def": "使驚訝；使驚奇"
       }
     ]
   },
   "amazing": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very surprising, especially in a way you like or admire",
     "cn_def": "令人驚奇的；驚人的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "very surprising, especially in a way you like or admire",
         "cn_def": "令人驚奇的；驚人的"
-      }
-    ]
-  },
-  "amazed at": {
-    "pos": "phr.",
-    "en_def": "",
-    "cn_def": "對...感到驚奇",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "",
-        "cn_def": "對...感到驚奇"
       }
     ]
   },
   "be amazed at": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to be very surprised by something",
     "cn_def": "對...感到驚奇",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to be very surprised by something",
+        "cn_def": "對...感到驚奇"
+      }
+    ]
+  },
+  "amazed at": {
+    "pos": "phr.",
+    "en_def": "to be very surprised by something",
+    "cn_def": "對...感到驚奇",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to be very surprised by something",
         "cn_def": "對...感到驚奇"
       }
     ]
   },
   "crop": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "a plant such as wheat or rice that is grown in large amounts; the amount gathered in one season",
     "cn_def": "作物；收成；種植",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "a plant such as wheat or rice that is grown in large amounts; the amount gathered in one season",
         "cn_def": "作物；收成；種植"
       }
     ]
   },
   "influence": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the power to affect how someone thinks or how something develops",
     "cn_def": "影響；作用",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the power to affect how someone thinks or how something develops",
         "cn_def": "影響；作用"
       },
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to affect the way someone or something develops, behaves or thinks",
         "cn_def": "對...有影響"
       },
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to affect how someone thinks or how something develops",
         "cn_def": "影響；左右"
       }
     ]
   },
   "have a...influence on...": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to affect the way someone or something develops, behaves or thinks",
     "cn_def": "對...有影響",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to affect the way someone or something develops, behaves or thinks",
         "cn_def": "對...有影響"
       }
     ]
   },
   "influenced": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to affect how someone thinks or how something develops",
     "cn_def": "影響；左右",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to affect how someone thinks or how something develops",
         "cn_def": "影響；左右"
       }
     ]
   },
   "influential": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having a lot of power to affect what people think or do",
     "cn_def": "有影響力的；有權勢的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "having a lot of power to affect what people think or do",
         "cn_def": "有影響力的；有權勢的"
       }
     ]
   },
   "mankind": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "all humans, thought of as a group",
     "cn_def": "人類",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
-        "cn_def": "人類"
-      }
-    ]
-  },
-  "human being": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "人類",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "",
+        "en_def": "all humans, thought of as a group",
         "cn_def": "人類"
       }
     ]
   },
   "human beings": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person",
     "cn_def": "人類",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a person",
+        "cn_def": "人類"
+      }
+    ]
+  },
+  "human being": {
+    "pos": "n.",
+    "en_def": "a person",
+    "cn_def": "人類",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a person",
         "cn_def": "人類"
       }
     ]
   },
   "humanity": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "people in general; the quality of being kind to others",
     "cn_def": "人性；人道；人類",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "people in general; the quality of being kind to others",
         "cn_def": "人性；人道；人類"
       }
     ]
   },
   "significance": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the importance or meaning of something",
     "cn_def": "重要性；意義",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the importance or meaning of something",
         "cn_def": "重要性；意義"
       }
     ]
   },
   "significant": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "large or important enough to be noticed or to have an effect",
     "cn_def": "重要的；顯著的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "large or important enough to be noticed or to have an effect",
         "cn_def": "重要的；顯著的"
       }
     ]
   },
   "significantly": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "in a way that is large or important enough to be noticed",
     "cn_def": "顯著地；重大地",
     "combined": [
       {
         "pos": "adv.",
-        "en_def": "",
+        "en_def": "in a way that is large or important enough to be noticed",
         "cn_def": "顯著地；重大地"
       }
     ]
   },
   "insignificant": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not big or important enough to be worth considering",
     "cn_def": "無關緊要的；微不足道的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "not big or important enough to be worth considering",
         "cn_def": "無關緊要的；微不足道的"
       }
     ]
   },
   "importance": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the quality of having great value or influence",
     "cn_def": "重要性；重要程度",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the quality of having great value or influence",
         "cn_def": "重要性；重要程度"
       }
     ]
   },
   "important": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having great value, meaning or effect",
     "cn_def": "重要的；重大的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "having great value, meaning or effect",
         "cn_def": "重要的；重大的"
       }
     ]
   },
   "unimportant": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not having much value, meaning or effect",
     "cn_def": "不重要的；無關緊要的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "not having much value, meaning or effect",
         "cn_def": "不重要的；無關緊要的"
       }
     ]
   },
   "wheat": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a plant grown for its grain, which is used to make flour and bread",
     "cn_def": "小麥",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a plant grown for its grain, which is used to make flour and bread",
         "cn_def": "小麥"
       }
     ]
   },
   "climate": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the usual weather conditions of a place; the general feeling or situation at a time",
     "cn_def": "氣候；風氣",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the usual weather conditions of a place; the general feeling or situation at a time",
         "cn_def": "氣候；風氣"
       }
     ]
   },
   "sauce": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thick liquid that is eaten with food to add flavor",
     "cn_def": "醬汁",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a thick liquid that is eaten with food to add flavor",
         "cn_def": "醬汁"
       }
     ]
   },
   "saucer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small shallow dish that a cup stands on",
     "cn_def": "碟子；茶托",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a small shallow dish that a cup stands on",
         "cn_def": "碟子；茶托"
       }
     ]
   },
   "means": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a way of doing or achieving something",
     "cn_def": "方法；手段",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a way of doing or achieving something",
         "cn_def": "方法；手段"
       }
     ]
   },
   "by all means": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "used to say that someone is very welcome to do something; certainly",
     "cn_def": "當然可以；務必",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "used to say that someone is very welcome to do something; certainly",
         "cn_def": "當然可以；務必"
       }
     ]
   },
   "by no means": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "not at all",
     "cn_def": "絕不；決不",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "not at all",
         "cn_def": "絕不；決不"
       }
     ]
   },
   "under no circumstances": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "never; not for any reason",
     "cn_def": "絕不；在任何情況下都不",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "never; not for any reason",
         "cn_def": "絕不；在任何情況下都不"
       }
     ]
   },
   "namely": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "used to give more exact information about what you have just said",
     "cn_def": "即；也就是",
     "combined": [
       {
         "pos": "adv.",
-        "en_def": "",
+        "en_def": "used to give more exact information about what you have just said",
         "cn_def": "即；也就是"
       }
     ]
   },
   "prove": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to use facts to show that something is true",
     "cn_def": "證明；證實",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to use facts to show that something is true",
         "cn_def": "證明；證實"
       }
     ]
   },
   "proof": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "facts or information that show something is true",
     "cn_def": "證據；證明",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "facts or information that show something is true",
         "cn_def": "證據；證明"
       }
     ]
   },
   "proven": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "tested and shown to be true or good",
     "cn_def": "證明的；被證實的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "tested and shown to be true or good",
         "cn_def": "證明的；被證實的"
       }
     ]
   },
   "value": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to think that someone or something is important",
     "cn_def": "價值；重要性；估值；看重",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to think that someone or something is important",
         "cn_def": "價值；重要性；估值；看重"
       }
     ]
   },
   "valuable": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "worth a lot of money; very useful or important",
     "cn_def": "有價值的；寶貴的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "worth a lot of money; very useful or important",
         "cn_def": "有價值的；寶貴的"
       }
     ]
   },
   "invaluable": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "extremely useful",
     "cn_def": "非常寶貴的；無價的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "extremely useful",
         "cn_def": "非常寶貴的；無價的"
       }
     ]
   },
   "priceless": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "too valuable to have a price; extremely important to you",
     "cn_def": "無價的；極其珍貴的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "too valuable to have a price; extremely important to you",
         "cn_def": "無價的；極其珍貴的"
       }
     ]
   },
   "undervalue": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to think that something is less important or valuable than it really is",
     "cn_def": "低估；輕視",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to think that something is less important or valuable than it really is",
         "cn_def": "低估；輕視"
       }
     ]
   },
   "overvalue": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to think that something is more important or valuable than it really is",
     "cn_def": "高估；過分重視",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to think that something is more important or valuable than it really is",
         "cn_def": "高估；過分重視"
       }
     ]
   },
   "core values": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "the most important beliefs that guide how a person or organization behaves",
     "cn_def": "核心價值觀",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "the most important beliefs that guide how a person or organization behaves",
         "cn_def": "核心價值觀"
       }
     ]
   },
   "places great emphasis on": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to treat something as very important",
     "cn_def": "對...非常重視",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to treat something as very important",
         "cn_def": "對...非常重視"
       }
     ]
   },
   "place great value/emphasis/stress on...": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to treat something as very important",
     "cn_def": "對...非常重視",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to treat something as very important",
         "cn_def": "對...非常重視"
       }
     ]
   },
   "protein": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a substance in foods such as meat, eggs and beans that helps your body grow and stay strong",
     "cn_def": "蛋白質",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a substance in foods such as meat, eggs and beans that helps your body grow and stay strong",
         "cn_def": "蛋白質"
-      }
-    ]
-  },
-  "mineral": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "礦物質",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "",
-        "cn_def": "礦物質"
       }
     ]
   },
   "minerals": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a natural substance such as iron or calcium that your body needs to stay healthy",
     "cn_def": "礦物質",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a natural substance such as iron or calcium that your body needs to stay healthy",
         "cn_def": "礦物質"
       }
     ]
   },
-  "vitamin": {
+  "mineral": {
     "pos": "n.",
-    "en_def": "",
-    "cn_def": "維生素",
+    "en_def": "a natural substance such as iron or calcium that your body needs to stay healthy",
+    "cn_def": "礦物質",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
-        "cn_def": "維生素"
+        "en_def": "a natural substance such as iron or calcium that your body needs to stay healthy",
+        "cn_def": "礦物質"
       }
     ]
   },
   "vitamins": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a natural substance in food that you need in small amounts to stay healthy",
     "cn_def": "維生素",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a natural substance in food that you need in small amounts to stay healthy",
         "cn_def": "維生素"
       }
     ]
   },
-  "carbohydrate": {
+  "vitamin": {
     "pos": "n.",
-    "en_def": "",
-    "cn_def": "碳水化合物",
+    "en_def": "a natural substance in food that you need in small amounts to stay healthy",
+    "cn_def": "維生素",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
-        "cn_def": "碳水化合物"
+        "en_def": "a natural substance in food that you need in small amounts to stay healthy",
+        "cn_def": "維生素"
       }
     ]
   },
   "carbohydrates": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a substance in foods such as bread, rice and sugar that gives your body energy",
     "cn_def": "碳水化合物",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a substance in foods such as bread, rice and sugar that gives your body energy",
+        "cn_def": "碳水化合物"
+      }
+    ]
+  },
+  "carbohydrate": {
+    "pos": "n.",
+    "en_def": "a substance in foods such as bread, rice and sugar that gives your body energy",
+    "cn_def": "碳水化合物",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a substance in foods such as bread, rice and sugar that gives your body energy",
         "cn_def": "碳水化合物"
       }
     ]
   },
   "fiber": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part of plants that you eat but cannot digest, which helps food move through your body",
     "cn_def": "纖維",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the part of plants that you eat but cannot digest, which helps food move through your body",
         "cn_def": "纖維"
       }
     ]
   },
   "nutrients": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a substance that living things need in order to live and grow",
     "cn_def": "營養素",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a substance that living things need in order to live and grow",
         "cn_def": "營養素"
       }
     ]
   },
   "nutrient": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a substance that living things need in order to live and grow",
     "cn_def": "營養素",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a substance that living things need in order to live and grow",
         "cn_def": "營養素"
       }
     ]
   },
   "nutrition": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the food you eat and the way it affects your health",
     "cn_def": "營養",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the food you eat and the way it affects your health",
         "cn_def": "營養"
       }
     ]
   },
   "nutritious": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "(of food) full of the things your body needs to be healthy",
     "cn_def": "營養豐富的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "(of food) full of the things your body needs to be healthy",
         "cn_def": "營養豐富的"
       }
     ]
   },
   "basis": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the idea or reason that something is built on; a particular way of doing something",
     "cn_def": "基礎；根據",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the idea or reason that something is built on; a particular way of doing something",
         "cn_def": "基礎；根據"
       }
     ]
   },
   "on a regular basis": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "regularly; again and again at fixed times",
     "cn_def": "定期地",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "regularly; again and again at fixed times",
         "cn_def": "定期地"
       }
     ]
   },
   "on the basis of": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "because of a particular fact or reason",
     "cn_def": "根據；基於",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "because of a particular fact or reason",
         "cn_def": "根據；基於"
-      }
-    ]
-  },
-  "base": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "基地；基礎；基於",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "",
-        "cn_def": "基地；基礎；基於"
       }
     ]
   },
   "based": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to use something as the starting point or reason for something else",
     "cn_def": "基地；基礎；基於",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to use something as the starting point or reason for something else",
+        "cn_def": "基地；基礎；基於"
+      }
+    ]
+  },
+  "base": {
+    "pos": "v.",
+    "en_def": "to use something as the starting point or reason for something else",
+    "cn_def": "基地；基礎；基於",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to use something as the starting point or reason for something else",
         "cn_def": "基地；基礎；基於"
       }
     ]
   },
   "basic": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "simple and most necessary; forming the starting point",
     "cn_def": "基本的；基礎的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "simple and most necessary; forming the starting point",
         "cn_def": "基本的；基礎的"
       }
     ]
   },
   "basically": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "in the most important ways; used when giving a simple explanation",
     "cn_def": "基本上；基本地",
     "combined": [
       {
         "pos": "adv.",
-        "en_def": "",
+        "en_def": "in the most important ways; used when giving a simple explanation",
         "cn_def": "基本上；基本地"
       }
     ]
   },
   "increase": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a rise in the amount or number of something",
     "cn_def": "增加；增長",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a rise in the amount or number of something",
         "cn_def": "增加；增長"
       },
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to become or make something larger in amount or number",
         "cn_def": "增加；增長"
       }
     ]
   },
   "increasing": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "becoming greater in amount or number",
     "cn_def": "不斷增加的；增長的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "becoming greater in amount or number",
         "cn_def": "不斷增加的；增長的"
       }
     ]
   },
   "increasingly": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "more and more over time",
     "cn_def": "日益增加地；越來越多地",
     "combined": [
       {
         "pos": "adv.",
-        "en_def": "",
+        "en_def": "more and more over time",
         "cn_def": "日益增加地；越來越多地"
       }
     ]
   },
   "decrease": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a fall in the amount or number of something",
     "cn_def": "減少；減少量",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a fall in the amount or number of something",
         "cn_def": "減少；減少量"
       },
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to become or make something smaller in amount or number",
         "cn_def": "減少；降低"
       }
     ]
   },
   "decreasing": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "becoming smaller in amount or number",
     "cn_def": "逐漸減少的；減少中的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "becoming smaller in amount or number",
         "cn_def": "逐漸減少的；減少中的"
       }
     ]
   },
   "decreasingly": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "less and less over time",
     "cn_def": "逐漸減少地；越來越少地",
     "combined": [
       {
         "pos": "adv.",
-        "en_def": "",
+        "en_def": "less and less over time",
         "cn_def": "逐漸減少地；越來越少地"
       }
     ]
   },
   "diet": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the food and drink that a person usually eats",
     "cn_def": "飲食；日常飲食",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the food and drink that a person usually eats",
         "cn_def": "飲食；日常飲食"
       },
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to eat less food or only certain foods in order to lose weight",
         "cn_def": "節食；戒食"
-      }
-    ]
-  },
-  "be on a diet": {
-    "pos": "phr.",
-    "en_def": "",
-    "cn_def": "在節食中；在戒食中",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "",
-        "cn_def": "在節食中；在戒食中"
       }
     ]
   },
   "on a diet": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to be eating less or only certain foods in order to lose weight",
     "cn_def": "在節食中；在戒食中",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to be eating less or only certain foods in order to lose weight",
+        "cn_def": "在節食中；在戒食中"
+      }
+    ]
+  },
+  "be on a diet": {
+    "pos": "phr.",
+    "en_def": "to be eating less or only certain foods in order to lose weight",
+    "cn_def": "在節食中；在戒食中",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to be eating less or only certain foods in order to lose weight",
         "cn_def": "在節食中；在戒食中"
       }
     ]
   },
   "dietary": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "relating to the food that you eat",
     "cn_def": "飲食的；日常飲食的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "relating to the food that you eat",
         "cn_def": "飲食的；日常飲食的"
       }
     ]
   },
   "fast": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to eat no food for a period of time",
     "cn_def": "禁食；斋戒",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to eat no food for a period of time",
         "cn_def": "禁食；斋戒"
       }
     ]
   },
   "delicious": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having a very pleasant taste or smell",
     "cn_def": "美味的；可口的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "having a very pleasant taste or smell",
         "cn_def": "美味的；可口的"
       }
     ]
   },
   "tasty": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having a strong, pleasant flavor",
     "cn_def": "美味的；可口的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "having a strong, pleasant flavor",
         "cn_def": "美味的；可口的"
       }
     ]
   },
   "vegan": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not eating or using any animal products, including eggs and milk",
     "cn_def": "素食主義者；純素的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "not eating or using any animal products, including eggs and milk",
         "cn_def": "素食主義者；純素的"
       }
     ]
   },
   "vegetarian": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not eating meat or fish",
     "cn_def": "素食主義者；素食的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "not eating meat or fish",
         "cn_def": "素食主義者；素食的"
       }
     ]
   },
   "vegetation": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the plants and trees that grow in an area",
     "cn_def": "植被；草木",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the plants and trees that grow in an area",
         "cn_def": "植被；草木"
       }
     ]
   },
   "distinguish": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to recognize the difference between two people or things",
     "cn_def": "區分；辨別",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to recognize the difference between two people or things",
         "cn_def": "區分；辨別"
       }
     ]
   },
   "distinguished": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very successful and respected",
     "cn_def": "卓越的；傑出的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "very successful and respected",
         "cn_def": "卓越的；傑出的"
       }
     ]
   },
   "indistinguishable": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "impossible to tell apart from something else",
     "cn_def": "難以區分的；看不出差別的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "impossible to tell apart from something else",
         "cn_def": "難以區分的；看不出差別的"
       }
     ]

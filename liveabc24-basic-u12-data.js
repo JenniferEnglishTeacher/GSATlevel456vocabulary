@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "landmark",
     "pos": "n.",
     "cn_def": "地標",
-    "en_def": "",
+    "en_def": "a building or place that is easy to recognize and helps you know where you are",
     "sentence": "As we strolled through the historic city, the towering {{BLANK}} reminded us of its rich cultural heritage.",
     "cn": "當我們漫步在這個歷史悠久的城市時，高聳的地標讓我們想起了它豐富的文化遺產。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "average",
     "pos": "n.",
     "cn_def": "平均",
-    "en_def": "",
+    "en_def": "the result you get by adding amounts together and dividing by the number of amounts",
     "sentence": "According to the latest report, the {{BLANK}} income of households in the region has increased significantly over the past decade.",
     "cn": "根據最新報告，該地區家庭的平均收入在過去十年中顯著增加。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "average",
     "pos": "adj.",
     "cn_def": "平均的",
-    "en_def": "",
+    "en_def": "typical or normal; calculated by adding amounts and dividing by their number",
     "sentence": "Despite his {{BLANK}} performance in the preliminary rounds, he managed to secure a spot in the finals.",
     "cn": "儘管他在初賽中的表現平平，但他還是成功地獲得了決賽的名額。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "maximum",
     "pos": "n.",
     "cn_def": "最大限度",
-    "en_def": "",
+    "en_def": "the largest amount or number that is possible or allowed",
     "sentence": "The concert hall has a strict policy of adhering to the {{BLANK}} capacity of 1000 attendees to ensure safety.",
     "cn": "音樂廳嚴格遵守最大容量1000名參與者的政策，以確保安全。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "maximum",
     "pos": "adj.",
     "cn_def": "最大的",
-    "en_def": "",
+    "en_def": "the largest that is possible or allowed",
     "sentence": "To achieve the {{BLANK}} benefit from this exercise, it's important to maintain the correct posture throughout.",
     "cn": "為了從這項運動中獲得最大的益處，保持正確的姿勢是非常重要的。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "minimum",
     "pos": "adj.",
     "cn_def": "最小限度/最小的",
-    "en_def": "",
+    "en_def": "the smallest that is possible or allowed",
     "sentence": "The job requires a {{BLANK}} level of experience, preferably at least two years in a related field.",
     "cn": "這份工作要求最低程度的經驗，最好是在相關領域至少有兩年的經驗。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "per",
     "pos": "n.",
     "cn_def": "每",
-    "en_def": "",
+    "en_def": "for each",
     "sentence": "The cost of the project is calculated at 50 dollars {{BLANK}} hour of labor, which includes all the necessary materials and tools.",
     "cn": "該項目的成本按每小時50美元的人工計算，包括所有必需的材料和工具。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "frequency",
     "pos": "n.",
     "cn_def": "頻率",
-    "en_def": "",
+    "en_def": "the number of times something happens in a period of time",
     "sentence": "The {{BLANK}} of trains during rush hour is increased to accommodate the large number of commuters.",
     "cn": "為了滿足大量通勤者的需求，在尖峰時段增加了列車的運行頻率。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "frequent",
     "pos": "adj.",
     "cn_def": "頻繁的",
-    "en_def": "",
+    "en_def": "happening often",
     "sentence": "He is known for his {{BLANK}} business trips to Europe, often traveling there several times a month.",
     "cn": "他以經常去歐洲出差而聞名，通常一個月要去那裡好幾次。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "assume",
     "pos": "v.",
     "cn_def": "假設",
-    "en_def": "",
+    "en_def": "to think that something is true without having proof",
     "sentence": "While analyzing the data, we must not {{BLANK}} that all variables are independent, as this could skew the results.",
     "cn": "在分析數據時，我們不能假設所有變量都是獨立的，因為這可能會扭曲結果。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "assumed",
     "pos": "adj.",
     "cn_def": "假定的",
-    "en_def": "",
+    "en_def": "believed to be true or real, though not proved",
     "sentence": "His {{BLANK}} innocence was questioned after new evidence was presented in court.",
     "cn": "在法庭上出示新證據後，他被假定的無辜受到質疑。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "assumption",
     "pos": "n.",
     "cn_def": "假設",
-    "en_def": "",
+    "en_def": "something you accept as true without proof",
     "sentence": "The {{BLANK}} that the economy will recover quickly may not hold true given the current global challenges.",
     "cn": "鑑於當前的全球挑戰，經濟將迅速復甦的假設可能不成立。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "infect",
     "pos": "v.",
     "cn_def": "感染",
-    "en_def": "",
+    "en_def": "to give a disease to a person, animal or plant",
     "sentence": "During the outbreak, many people were afraid to go outside, worrying they might {{BLANK}} others unknowingly.",
     "cn": "在疫情爆發期間，許多人害怕外出，擔心他們可能無意中感染他人。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "be infected with",
     "pos": "phr.",
     "cn_def": "被…感染",
-    "en_def": "",
+    "en_def": "to have caught a disease caused by a virus or bacteria",
     "sentence": "After visiting the affected region, several aid workers were found to {{BLANK}} a rare virus.",
     "cn": "在訪問受影響的地區後，發現幾名救援工作者感染了一種罕見的病毒。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "moist",
     "pos": "adj.",
     "cn_def": "潮濕的",
-    "en_def": "",
+    "en_def": "slightly wet",
     "sentence": "The {{BLANK}} climate of the tropical island is ideal for growing certain fruits.",
     "cn": "這個熱帶島嶼的潮濕氣候非常適合種植某些水果。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "moisture",
     "pos": "n.",
     "cn_def": "濕氣",
-    "en_def": "",
+    "en_def": "very small drops of water in the air or on a surface",
     "sentence": "Plants in this region rely on the early morning {{BLANK}} for their water needs.",
     "cn": "這個地區的植物依靠清晨的濕氣來滿足它們的水分需求。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "moisturize",
     "pos": "v.",
     "cn_def": "保濕",
-    "en_def": "",
+    "en_def": "to put cream on your skin to stop it from getting dry",
     "sentence": "In dry climates, it's important to {{BLANK}} your skin regularly to prevent it from cracking.",
     "cn": "在乾燥的氣候中，定期保濕你的皮膚以防止它開裂是很重要的。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "humid",
     "pos": "adj.",
     "cn_def": "潮濕的",
-    "en_def": "",
+    "en_def": "(of air or weather) warm and containing a lot of water",
     "sentence": "The {{BLANK}} weather during the monsoon season makes outdoor activities less appealing.",
     "cn": "季風季節的潮濕天氣使戶外活動變得不那麼吸引人。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "continue",
     "pos": "v.",
     "cn_def": "繼續",
-    "en_def": "",
+    "en_def": "to keep doing something or to keep happening without stopping",
     "sentence": "Despite the challenges, the team decided to {{BLANK}} with the project, showing great determination.",
     "cn": "儘管面臨挑戰，團隊決定繼續進行這個項目，展現了極大的決心。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "continuous",
     "pos": "adj.",
     "cn_def": "連續的",
-    "en_def": "",
+    "en_def": "happening without stopping",
     "sentence": "The {{BLANK}} rainfall for several days led to flooding in many areas.",
     "cn": "連續幾天的降雨導致許多地區發生洪水。"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "continuity",
     "pos": "n.",
     "cn_def": "連續性",
-    "en_def": "",
+    "en_def": "the fact of continuing without stopping or changing suddenly",
     "sentence": "The director was praised for maintaining the {{BLANK}} of the storyline throughout the film.",
     "cn": "導演因在整部電影中維持故事情節的連續性而受到讚揚。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "rage",
     "pos": "n.",
     "cn_def": "憤怒",
-    "en_def": "",
+    "en_def": "a feeling of very strong anger that is hard to control",
     "sentence": "The debate sparked a {{BLANK}} among the community members, leading to heated discussions.",
     "cn": "辯論在社區成員中引發了憤怒，導致熱烈的討論。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "rage",
     "pos": "v.",
     "cn_def": "發怒",
-    "en_def": "",
+    "en_def": "to show that you are very angry",
     "sentence": "He began to {{BLANK}} when he heard about the unfair treatment.",
     "cn": "當他聽說不公平的待遇時，他開始發怒。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "rage",
     "pos": "v.",
     "cn_def": "激烈進行",
-    "en_def": "",
+    "en_def": "(of a storm, fire or battle) to continue with great force",
     "sentence": "The storm continued to {{BLANK}} throughout the night, causing widespread damage.",
     "cn": "風暴持續在整個夜晚激烈進行，造成了廣泛的損害。"
   },
@@ -202,7 +202,7 @@ const VOCAB = [
     "word": "raged on",
     "pos": "phr.",
     "cn_def": "繼續激烈進行",
-    "en_def": "",
+    "en_def": "to continue with great force for a long time",
     "sentence": "Despite efforts to control it, the wildfire {{BLANK}} for weeks.",
     "cn": "儘管努力控制，野火持續燃燒了數週。"
   },
@@ -210,7 +210,7 @@ const VOCAB = [
     "word": "outrage",
     "pos": "n.",
     "cn_def": "憤怒",
-    "en_def": "",
+    "en_def": "a strong feeling of shock and anger",
     "sentence": "The scandal caused public {{BLANK}} and demands for justice.",
     "cn": "這起醜聞引起了公眾的憤怒和對正義的要求。"
   },
@@ -218,7 +218,7 @@ const VOCAB = [
     "word": "all the rage",
     "pos": "phr.",
     "cn_def": "非常流行",
-    "en_def": "",
+    "en_def": "very popular and fashionable at a particular time",
     "sentence": "Slim-fit jeans are {{BLANK}} among teenagers this year.",
     "cn": "今年，緊身牛仔褲在青少年中非常流行。"
   },
@@ -226,7 +226,7 @@ const VOCAB = [
     "word": "grief",
     "pos": "n.",
     "cn_def": "悲傷",
-    "en_def": "",
+    "en_def": "very great sadness, especially when someone dies",
     "sentence": "After the loss of her pet, she was overwhelmed with {{BLANK}}.",
     "cn": "在失去她的寵物後，她感到非常悲傷。"
   },
@@ -234,7 +234,7 @@ const VOCAB = [
     "word": "To his grief",
     "pos": "phr.",
     "cn_def": "令某人悲傷",
-    "en_def": "",
+    "en_def": "used to say that something makes someone very sad",
     "sentence": "{{BLANK}}, he discovered that the old tree in his backyard had been cut down.",
     "cn": "令他悲傷的是，他發現後院的老樹被砍掉了。"
   },
@@ -242,7 +242,7 @@ const VOCAB = [
     "word": "grieve",
     "pos": "v.",
     "cn_def": "哀悼",
-    "en_def": "",
+    "en_def": "to feel very sad, especially because someone has died",
     "sentence": "She continues to {{BLANK}} the loss of her close friend.",
     "cn": "她繼續哀悼她親密朋友的去世。"
   },
@@ -250,7 +250,7 @@ const VOCAB = [
     "word": "decrease",
     "pos": "v.",
     "cn_def": "減少",
-    "en_def": "",
+    "en_def": "to become or make something smaller in amount or number",
     "sentence": "The government's new policies aim to {{BLANK}} air pollution in urban areas.",
     "cn": "政府的新政策旨在減少城市地區的空氣污染。"
   },
@@ -258,7 +258,7 @@ const VOCAB = [
     "word": "the decrease in",
     "pos": "n.",
     "cn_def": "減少",
-    "en_def": "",
+    "en_def": "a fall in the amount or number of something",
     "sentence": "The report highlighted {{BLANK}} consumer spending during the economic downturn.",
     "cn": "報告強調了經濟衰退期間消費支出的減少。"
   },
@@ -266,7 +266,7 @@ const VOCAB = [
     "word": "increase",
     "pos": "v.",
     "cn_def": "增加",
-    "en_def": "",
+    "en_def": "to become or make something larger in amount or number",
     "sentence": "Efforts to {{BLANK}} public awareness about environmental protection have been successful.",
     "cn": "增加公眾對環境保護意識的努力已經取得成功。"
   },
@@ -274,7 +274,7 @@ const VOCAB = [
     "word": "increase in",
     "pos": "n.",
     "cn_def": "增加",
-    "en_def": "",
+    "en_def": "a rise in the amount or number of something",
     "sentence": "The recent {{BLANK}} traffic congestion is mainly due to road construction.",
     "cn": "最近交通擁堵的增加主要是由於道路建設。"
   },
@@ -282,7 +282,7 @@ const VOCAB = [
     "word": "harm",
     "pos": "n.",
     "cn_def": "傷害",
-    "en_def": "",
+    "en_def": "damage or injury caused to a person or thing",
     "sentence": "The chemical spill caused significant {{BLANK}} to the marine ecosystem.",
     "cn": "化學洩漏對海洋生態系統造成了重大傷害。"
   },
@@ -290,7 +290,7 @@ const VOCAB = [
     "word": "harm",
     "pos": "v.",
     "cn_def": "傷害",
-    "en_def": "",
+    "en_def": "to hurt someone or damage something",
     "sentence": "Smoking can seriously {{BLANK}} your health.",
     "cn": "吸煙可以嚴重傷害你的健康。"
   },
@@ -298,7 +298,7 @@ const VOCAB = [
     "word": "do harm to",
     "pos": "phr.",
     "cn_def": "對...造成傷害",
-    "en_def": "",
+    "en_def": "to hurt or damage someone or something",
     "sentence": "Polluting factories {{BLANK}} the environment and human health.",
     "cn": "污染工廠對環境和人類健康造成傷害。"
   },
@@ -306,7 +306,7 @@ const VOCAB = [
     "word": "harmful",
     "pos": "adj.",
     "cn_def": "有害的",
-    "en_def": "",
+    "en_def": "causing damage or injury",
     "sentence": "Consuming too much sugar is {{BLANK}} to one's health.",
     "cn": "過量消耗糖分對一個人的健康有害。"
   },
@@ -314,7 +314,7 @@ const VOCAB = [
     "word": "harmless",
     "pos": "adj.",
     "cn_def": "無害的",
-    "en_def": "",
+    "en_def": "not able or likely to cause damage or injury",
     "sentence": "Most spiders are {{BLANK}} to humans, despite common fears.",
     "cn": "大多數蜘蛛對人類是無害的，儘管人們常常感到害怕。"
   },
@@ -322,7 +322,7 @@ const VOCAB = [
     "word": "float",
     "pos": "v.",
     "cn_def": "漂浮",
-    "en_def": "",
+    "en_def": "to stay on the surface of a liquid or move slowly through the air",
     "sentence": "Leaves {{BLANK}} gently on the surface of the water.",
     "cn": "樹葉在水面上輕輕漂浮。"
   },
@@ -330,7 +330,7 @@ const VOCAB = [
     "word": "feel like",
     "pos": "phr.",
     "cn_def": "想要做某事",
-    "en_def": "",
+    "en_def": "to want to do something",
     "sentence": "After a long week at work, I really {{BLANK}} taking a long walk in the park.",
     "cn": "經過一周繁忙的工作後，我真的想在公園裡散散步。"
   },
@@ -338,7 +338,7 @@ const VOCAB = [
     "word": "feels like",
     "pos": "phr.",
     "cn_def": "像是",
-    "en_def": "",
+    "en_def": "to seem to be something; to give the impression of",
     "sentence": "Sometimes, being a parent {{BLANK}} a never-ending challenge.",
     "cn": "有時候，做父母親就像是一個永無止境的挑戰。"
   },
@@ -346,7 +346,7 @@ const VOCAB = [
     "word": "wept",
     "pos": "v.",
     "cn_def": "哭泣",
-    "en_def": "",
+    "en_def": "to cry, usually because you are sad",
     "sentence": "She {{BLANK}} tears of joy when she heard the good news.",
     "cn": "當她聽到好消息時，她哭泣出了喜悅的眼淚。"
   },
@@ -354,7 +354,7 @@ const VOCAB = [
     "word": "sob",
     "pos": "v.",
     "cn_def": "啜泣",
-    "en_def": "",
+    "en_def": "to cry noisily, taking sudden short breaths",
     "sentence": "Overwhelmed by emotion, he began to {{BLANK}} quietly in the corner.",
     "cn": "在情緒的壓倒下，他開始在角落裡悄悄啜泣。"
   },
@@ -362,7 +362,7 @@ const VOCAB = [
     "word": "infection",
     "pos": "n.",
     "cn_def": "感染",
-    "en_def": "",
+    "en_def": "an illness caused by bacteria or a virus",
     "sentence": "The patient was treated immediately for a severe {{BLANK}}.",
     "cn": "醫生立刻治療了病人嚴重的感染。"
   },
@@ -370,7 +370,7 @@ const VOCAB = [
     "word": "infectious",
     "pos": "adj.",
     "cn_def": "傳染的",
-    "en_def": "",
+    "en_def": "(of a disease) able to be passed from one person to another",
     "sentence": "Chickenpox is highly {{BLANK}} and can spread quickly in crowded places.",
     "cn": "水痘是高度傳染的，並且可以在擁擠的地方迅速傳播。"
   },
@@ -378,7 +378,7 @@ const VOCAB = [
     "word": "diagnosed",
     "pos": "v.",
     "cn_def": "診斷",
-    "en_def": "",
+    "en_def": "to find out and say what illness someone has",
     "sentence": "The doctor {{BLANK}} her condition as an allergic reaction.",
     "cn": "醫生診斷她的狀況是過敏反應。"
   },
@@ -386,7 +386,7 @@ const VOCAB = [
     "word": "diagnosed as",
     "pos": "phr.",
     "cn_def": "被診斷為...",
-    "en_def": "",
+    "en_def": "to be found by a doctor to be in a particular condition",
     "sentence": "He was {{BLANK}} early-stage diabetes, prompting lifestyle changes.",
     "cn": "他被診斷為早期糖尿病，促使他改變生活方式。"
   },
@@ -394,7 +394,7 @@ const VOCAB = [
     "word": "diagnosed with",
     "pos": "phr.",
     "cn_def": "被診斷出患有...",
-    "en_def": "",
+    "en_def": "to be told by a doctor that you have a particular illness",
     "sentence": "Several patients in the hospital were {{BLANK}} pneumonia.",
     "cn": "醫院裡的幾位病人被診斷出患有肺炎。"
   }
@@ -945,642 +945,642 @@ const MCQS = [
 const LOOKUP = {
   "landmark": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a building or place that is easy to recognize and helps you know where you are",
     "cn_def": "地標",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a building or place that is easy to recognize and helps you know where you are",
         "cn_def": "地標"
       }
     ]
   },
   "average": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the result you get by adding amounts together and dividing by the number of amounts",
     "cn_def": "平均",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the result you get by adding amounts together and dividing by the number of amounts",
         "cn_def": "平均"
       },
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "typical or normal; calculated by adding amounts and dividing by their number",
         "cn_def": "平均的"
       }
     ]
   },
   "maximum": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the largest amount or number that is possible or allowed",
     "cn_def": "最大限度",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the largest amount or number that is possible or allowed",
         "cn_def": "最大限度"
       },
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "the largest that is possible or allowed",
         "cn_def": "最大的"
       }
     ]
   },
   "minimum": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "the smallest that is possible or allowed",
     "cn_def": "最小限度/最小的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "the smallest that is possible or allowed",
         "cn_def": "最小限度/最小的"
       }
     ]
   },
   "per": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "for each",
     "cn_def": "每",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "for each",
         "cn_def": "每"
       }
     ]
   },
   "frequency": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the number of times something happens in a period of time",
     "cn_def": "頻率",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the number of times something happens in a period of time",
         "cn_def": "頻率"
       }
     ]
   },
   "frequent": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "happening often",
     "cn_def": "頻繁的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "happening often",
         "cn_def": "頻繁的"
       }
     ]
   },
   "assume": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to think that something is true without having proof",
     "cn_def": "假設",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to think that something is true without having proof",
         "cn_def": "假設"
       }
     ]
   },
   "assumed": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "believed to be true or real, though not proved",
     "cn_def": "假定的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "believed to be true or real, though not proved",
         "cn_def": "假定的"
       }
     ]
   },
   "assumption": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you accept as true without proof",
     "cn_def": "假設",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "something you accept as true without proof",
         "cn_def": "假設"
       }
     ]
   },
   "infect": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to give a disease to a person, animal or plant",
     "cn_def": "感染",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to give a disease to a person, animal or plant",
         "cn_def": "感染"
       }
     ]
   },
   "be infected with": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to have caught a disease caused by a virus or bacteria",
     "cn_def": "被…感染",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to have caught a disease caused by a virus or bacteria",
         "cn_def": "被…感染"
       }
     ]
   },
   "moist": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "slightly wet",
     "cn_def": "潮濕的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "slightly wet",
         "cn_def": "潮濕的"
       }
     ]
   },
   "moisture": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "very small drops of water in the air or on a surface",
     "cn_def": "濕氣",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "very small drops of water in the air or on a surface",
         "cn_def": "濕氣"
       }
     ]
   },
   "moisturize": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to put cream on your skin to stop it from getting dry",
     "cn_def": "保濕",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to put cream on your skin to stop it from getting dry",
         "cn_def": "保濕"
       }
     ]
   },
   "humid": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "(of air or weather) warm and containing a lot of water",
     "cn_def": "潮濕的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "(of air or weather) warm and containing a lot of water",
         "cn_def": "潮濕的"
       }
     ]
   },
   "continue": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to keep doing something or to keep happening without stopping",
     "cn_def": "繼續",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to keep doing something or to keep happening without stopping",
         "cn_def": "繼續"
       }
     ]
   },
   "continuous": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "happening without stopping",
     "cn_def": "連續的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "happening without stopping",
         "cn_def": "連續的"
       }
     ]
   },
   "continuity": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the fact of continuing without stopping or changing suddenly",
     "cn_def": "連續性",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the fact of continuing without stopping or changing suddenly",
         "cn_def": "連續性"
       }
     ]
   },
   "rage": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a feeling of very strong anger that is hard to control",
     "cn_def": "憤怒",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a feeling of very strong anger that is hard to control",
         "cn_def": "憤怒"
       },
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to show that you are very angry",
         "cn_def": "發怒"
       },
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "(of a storm, fire or battle) to continue with great force",
         "cn_def": "激烈進行"
       }
     ]
   },
   "rage on": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to continue with great force for a long time",
     "cn_def": "繼續激烈進行",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to continue with great force for a long time",
         "cn_def": "繼續激烈進行"
       }
     ]
   },
   "raged on": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to continue with great force for a long time",
     "cn_def": "繼續激烈進行",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to continue with great force for a long time",
         "cn_def": "繼續激烈進行"
       }
     ]
   },
   "outrage": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a strong feeling of shock and anger",
     "cn_def": "憤怒",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a strong feeling of shock and anger",
         "cn_def": "憤怒"
       }
     ]
   },
   "all the rage": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "very popular and fashionable at a particular time",
     "cn_def": "非常流行",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "very popular and fashionable at a particular time",
         "cn_def": "非常流行"
       }
     ]
   },
   "grief": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "very great sadness, especially when someone dies",
     "cn_def": "悲傷",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "very great sadness, especially when someone dies",
         "cn_def": "悲傷"
-      }
-    ]
-  },
-  "to his grief": {
-    "pos": "phr.",
-    "en_def": "",
-    "cn_def": "令某人悲傷",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "",
-        "cn_def": "令某人悲傷"
       }
     ]
   },
   "to one's grief": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "used to say that something makes someone very sad",
     "cn_def": "令某人悲傷",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "used to say that something makes someone very sad",
+        "cn_def": "令某人悲傷"
+      }
+    ]
+  },
+  "to his grief": {
+    "pos": "phr.",
+    "en_def": "used to say that something makes someone very sad",
+    "cn_def": "令某人悲傷",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "used to say that something makes someone very sad",
         "cn_def": "令某人悲傷"
       }
     ]
   },
   "grieve": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to feel very sad, especially because someone has died",
     "cn_def": "哀悼",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to feel very sad, especially because someone has died",
         "cn_def": "哀悼"
       }
     ]
   },
   "decrease": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to become or make something smaller in amount or number",
     "cn_def": "減少",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to become or make something smaller in amount or number",
         "cn_def": "減少"
       }
     ]
   },
   "the decrease in": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a fall in the amount or number of something",
     "cn_def": "減少",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a fall in the amount or number of something",
         "cn_def": "減少"
       }
     ]
   },
   "increase": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to become or make something larger in amount or number",
     "cn_def": "增加",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to become or make something larger in amount or number",
         "cn_def": "增加"
       }
     ]
   },
   "increase in": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a rise in the amount or number of something",
     "cn_def": "增加",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a rise in the amount or number of something",
         "cn_def": "增加"
       }
     ]
   },
   "harm": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "damage or injury caused to a person or thing",
     "cn_def": "傷害",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "damage or injury caused to a person or thing",
         "cn_def": "傷害"
       },
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to hurt someone or damage something",
         "cn_def": "傷害"
       }
     ]
   },
   "do harm to": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to hurt or damage someone or something",
     "cn_def": "對...造成傷害",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to hurt or damage someone or something",
         "cn_def": "對...造成傷害"
       }
     ]
   },
   "harmful": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "causing damage or injury",
     "cn_def": "有害的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "causing damage or injury",
         "cn_def": "有害的"
       }
     ]
   },
   "harmless": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not able or likely to cause damage or injury",
     "cn_def": "無害的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "not able or likely to cause damage or injury",
         "cn_def": "無害的"
       }
     ]
   },
   "float": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to stay on the surface of a liquid or move slowly through the air",
     "cn_def": "漂浮",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to stay on the surface of a liquid or move slowly through the air",
         "cn_def": "漂浮"
       }
     ]
   },
   "feel like": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to want to do something",
     "cn_def": "想要做某事",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to want to do something",
         "cn_def": "想要做某事"
       },
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to seem to be something; to give the impression of",
         "cn_def": "像是"
       }
     ]
   },
   "feel like + ving": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to want to do something",
     "cn_def": "想要做某事",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to want to do something",
         "cn_def": "想要做某事"
       }
     ]
   },
   "feels like": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to seem to be something; to give the impression of",
     "cn_def": "像是",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to seem to be something; to give the impression of",
         "cn_def": "像是"
-      }
-    ]
-  },
-  "wept": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "哭泣",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "",
-        "cn_def": "哭泣"
       }
     ]
   },
   "weep": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to cry, usually because you are sad",
     "cn_def": "哭泣",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to cry, usually because you are sad",
+        "cn_def": "哭泣"
+      }
+    ]
+  },
+  "wept": {
+    "pos": "v.",
+    "en_def": "to cry, usually because you are sad",
+    "cn_def": "哭泣",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to cry, usually because you are sad",
         "cn_def": "哭泣"
       }
     ]
   },
   "sob": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to cry noisily, taking sudden short breaths",
     "cn_def": "啜泣",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to cry noisily, taking sudden short breaths",
         "cn_def": "啜泣"
       }
     ]
   },
   "infection": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an illness caused by bacteria or a virus",
     "cn_def": "感染",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "an illness caused by bacteria or a virus",
         "cn_def": "感染"
       }
     ]
   },
   "infectious": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "(of a disease) able to be passed from one person to another",
     "cn_def": "傳染的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "(of a disease) able to be passed from one person to another",
         "cn_def": "傳染的"
       }
     ]
   },
   "diagnosed": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to find out and say what illness someone has",
     "cn_def": "診斷",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to find out and say what illness someone has",
         "cn_def": "診斷"
       }
     ]
   },
   "diagnose": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to find out and say what illness someone has",
     "cn_def": "診斷",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to find out and say what illness someone has",
         "cn_def": "診斷"
       }
     ]
   },
   "diagnosed as": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to be found by a doctor to be in a particular condition",
     "cn_def": "被診斷為...",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to be found by a doctor to be in a particular condition",
         "cn_def": "被診斷為..."
       }
     ]
   },
   "be diagnosed as": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to be found by a doctor to be in a particular condition",
     "cn_def": "被診斷為...",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to be found by a doctor to be in a particular condition",
         "cn_def": "被診斷為..."
       }
     ]
   },
   "diagnosed with": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to be told by a doctor that you have a particular illness",
     "cn_def": "被診斷出患有...",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to be told by a doctor that you have a particular illness",
         "cn_def": "被診斷出患有..."
       }
     ]
   },
   "be diagnosed with": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to be told by a doctor that you have a particular illness",
     "cn_def": "被診斷出患有...",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to be told by a doctor that you have a particular illness",
         "cn_def": "被診斷出患有..."
       }
     ]

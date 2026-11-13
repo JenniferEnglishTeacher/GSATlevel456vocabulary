@@ -345,7 +345,7 @@ const LOOKUP = {
       }
     ]
   },
-  "blood cell": {
+  "blood cells": {
     "pos": "n.",
     "en_def": "a very small part of blood that carries oxygen or fights disease.",
     "cn_def": "血球",
@@ -357,7 +357,7 @@ const LOOKUP = {
       }
     ]
   },
-  "blood cells": {
+  "blood cell": {
     "pos": "n.",
     "en_def": "a very small part of blood that carries oxygen or fights disease.",
     "cn_def": "血球",

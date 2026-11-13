@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "perfume",
     "pos": "n.",
     "cn_def": "香水",
-    "en_def": "",
+    "en_def": "a liquid with a pleasant smell that you put on your skin",
     "sentence": "She loves the scent of roses in her {{BLANK}} collection.",
     "cn": "她喜歡她的香水收藏中玫瑰的香味。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "develop",
     "pos": "v.",
     "cn_def": "使發展;開發;形成",
-    "en_def": "",
+    "en_def": "to grow or change into something bigger or more advanced; to create something new",
     "sentence": "The company plans to {{BLANK}} new software next year.",
     "cn": "公司計劃明年開發新軟件。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "development",
     "pos": "n.",
     "cn_def": "發展",
-    "en_def": "",
+    "en_def": "the process of growing, changing or becoming more advanced",
     "sentence": "The city's rapid {{BLANK}} has led to increased employment.",
     "cn": "這座城市的快速發展導致了就業增加。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "developing",
     "pos": "adj.",
     "cn_def": "發展中的",
-    "en_def": "",
+    "en_def": "growing or becoming more advanced",
     "sentence": "Many countries in Africa are {{BLANK}} nations.",
     "cn": "非洲的許多國家是發展中國家。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "pleasant",
     "pos": "adj.",
     "cn_def": "令人愉快的",
-    "en_def": "",
+    "en_def": "enjoyable, nice or friendly",
     "sentence": "It was a {{BLANK}} surprise to see her at the party.",
     "cn": "在派對上見到她真是一個愉快的驚喜。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "please",
     "pos": "v.",
     "cn_def": "使高興;滿意",
-    "en_def": "",
+    "en_def": "to make someone happy or satisfied",
     "sentence": "His efforts to {{BLANK}} his boss were successful.",
     "cn": "他設法使老板滿意的努力是成功的。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "unpleasant",
     "pos": "adj.",
     "cn_def": "令人不愉快的",
-    "en_def": "",
+    "en_def": "not enjoyable; not nice or friendly",
     "sentence": "The weather turned {{BLANK}} just as we started our picnic.",
     "cn": "我們剛開始野餐時天氣變得不愉快。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "expand",
     "pos": "v.",
     "cn_def": "擴大;增加;發展",
-    "en_def": "",
+    "en_def": "to become or make something larger in size, number or importance",
     "sentence": "The company plans to {{BLANK}} its operations overseas.",
     "cn": "公司計劃擴展其海外業務。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "broaden",
     "pos": "n.",
     "cn_def": "拓展視野;廣見聞",
-    "en_def": "",
+    "en_def": "to help someone learn about and experience more new things",
     "sentence": "Traveling to new places can {{BLANK}} your horizons.",
     "cn": "到新地方旅行可以拓展你的視野。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "expansion",
     "pos": "n.",
     "cn_def": "擴展",
-    "en_def": "",
+    "en_def": "the act of becoming larger in size, number or importance",
     "sentence": "The rapid {{BLANK}} of the city led to infrastructure improvements.",
     "cn": "城市的快速擴展促使基礎設施改善。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "expansive",
     "pos": "adj.",
     "cn_def": "擴張的",
-    "en_def": "",
+    "en_def": "covering a wide area; growing larger",
     "sentence": "Her {{BLANK}} gestures showed her enthusiasm.",
     "cn": "她的大手勢顯示出她的熱情。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "possibility",
     "pos": "n.",
     "cn_def": "可能性;可能",
-    "en_def": "",
+    "en_def": "a chance that something may happen or be true",
     "sentence": "There's a strong {{BLANK}} of rain later today.",
     "cn": "今天晚些時候很有可能會下雨。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "possible",
     "pos": "adj.",
     "cn_def": "可能的",
-    "en_def": "",
+    "en_def": "that can happen, be done or be true",
     "sentence": "Is it {{BLANK}} to finish this project by Friday?",
     "cn": "這個項目能在星期五完成嗎？"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "entry",
     "pos": "n.",
     "cn_def": "進入權;參加",
-    "en_def": "",
+    "en_def": "the act or right of going into a place or joining a competition",
     "sentence": "Admission is free upon {{BLANK}} to the museum.",
     "cn": "進入博物館免費。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "gain entry into",
     "pos": "n.",
     "cn_def": "進入",
-    "en_def": "",
+    "en_def": "to succeed in getting into a place",
     "sentence": "He managed to {{BLANK}} the exclusive club.",
     "cn": "他成功進入了這個專屬俱樂部。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "sprays",
     "pos": "v.",
     "cn_def": "噴灑;噴劑",
-    "en_def": "",
+    "en_def": "to send liquid through the air in very small drops",
     "sentence": "She {{BLANK}} perfume on her neck before going out.",
     "cn": "她在出門前在脖子上噴了香水。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "Blend",
     "pos": "v.",
     "cn_def": "(使)混合;融合",
-    "en_def": "",
+    "en_def": "to mix different things together so they become one",
     "sentence": "{{BLANK}} the ingredients thoroughly for a smooth texture.",
     "cn": "將成分充分混合以獲得光滑的質地。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "blender",
     "pos": "n.",
     "cn_def": "攪拌機",
-    "en_def": "",
+    "en_def": "an electric machine for mixing soft food or liquids",
     "sentence": "She used a {{BLANK}} to make a fruit smoothie.",
     "cn": "她用攪拌機做了果汁冰沙。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "outcome",
     "pos": "n.",
     "cn_def": "結果",
-    "en_def": "",
+    "en_def": "the result of an action or event",
     "sentence": "The {{BLANK}} of the negotiations was favorable for both parties.",
     "cn": "談判的結果對雙方都是有利的。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "concept",
     "pos": "n.",
     "cn_def": "觀念;概念",
-    "en_def": "",
+    "en_def": "an idea of what something is or how it works",
     "sentence": "Understanding the {{BLANK}} of sustainability is crucial.",
     "cn": "理解可持續發展的概念是至關重要的。"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "conception",
     "pos": "n.",
     "cn_def": "概念;構想;想法",
-    "en_def": "",
+    "en_def": "an idea or understanding of what something is like",
     "sentence": "His {{BLANK}} of justice influenced his decisions.",
     "cn": "他對正義的概念影響了他的決定。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "misconception",
     "pos": "n.",
     "cn_def": "錯誤觀念;誤解",
-    "en_def": "",
+    "en_def": "a belief or idea that is wrong because it is based on wrong information",
     "sentence": "There's a common {{BLANK}} that cats always land on their feet.",
     "cn": "人們普遍誤解貓總是能落在腳上。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "shift",
     "pos": "v.",
     "cn_def": "改變;轉移",
-    "en_def": "",
+    "en_def": "to move or change from one position, direction or opinion to another",
     "sentence": "The {{BLANK}} in public opinion was noticeable after the scandal.",
     "cn": "丑聞後公眾意見的轉變是顯著的。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "conventional",
     "pos": "adj.",
     "cn_def": "傳統上的;常規的",
-    "en_def": "",
+    "en_def": "following what is traditional or usual",
     "sentence": "Their wedding was very {{BLANK}}, with all the traditional rituals.",
     "cn": "他們的婚禮非常傳統，包括所有傳統儀式。"
   },
@@ -202,7 +202,7 @@ const VOCAB = [
     "word": "unconventional",
     "pos": "adj.",
     "cn_def": "不因循守舊的",
-    "en_def": "",
+    "en_def": "very different from what is traditional or usual",
     "sentence": "Her {{BLANK}} approach to solving problems impressed her colleagues.",
     "cn": "她不按常規解決問題的方法給同事留下了深刻的印象。"
   },
@@ -210,7 +210,7 @@ const VOCAB = [
     "word": "convention",
     "pos": "n.",
     "cn_def": "慣例",
-    "en_def": "",
+    "en_def": "a way of behaving that most people in a society accept as normal",
     "sentence": "It's a {{BLANK}} to shake hands when you meet someone new.",
     "cn": "與陌生人見面時握手是慣例。"
   },
@@ -218,7 +218,7 @@ const VOCAB = [
     "word": "overcome",
     "pos": "v.",
     "cn_def": "戰勝;克服",
-    "en_def": "",
+    "en_def": "to succeed in dealing with or controlling a problem or feeling",
     "sentence": "She managed to {{BLANK}} her fear of public speaking.",
     "cn": "她成功地克服了對公開演講的恐懼。"
   },
@@ -226,7 +226,7 @@ const VOCAB = [
     "word": "overcome with",
     "pos": "n.",
     "cn_def": "被...所克服",
-    "en_def": "",
+    "en_def": "to be so strongly affected by a feeling that you cannot act normally",
     "sentence": "He was {{BLANK}} emotion when he won the award.",
     "cn": "當他獲得獎項時，他充滿了情感。"
   },
@@ -234,7 +234,7 @@ const VOCAB = [
     "word": "boldness",
     "pos": "n.",
     "cn_def": "勇敢;大膽",
-    "en_def": "",
+    "en_def": "the quality of being brave and willing to take risks",
     "sentence": "The soldier showed great {{BLANK}} in the face of danger.",
     "cn": "士兵在危險面前展示了偉大的勇氣。"
   },
@@ -242,7 +242,7 @@ const VOCAB = [
     "word": "bold",
     "pos": "adj.",
     "cn_def": "醒目的;大膽的",
-    "en_def": "",
+    "en_def": "brave and confident; easy to see or notice",
     "sentence": "Her {{BLANK}} decision to quit her job surprised everyone.",
     "cn": "她大膽地決定辭去工作讓大家都感到驚訝。"
   },
@@ -250,7 +250,7 @@ const VOCAB = [
     "word": "favorable",
     "pos": "adj.",
     "cn_def": "贊成的;稱的;肯定的",
-    "en_def": "",
+    "en_def": "showing approval; good for someone or something",
     "sentence": "The weather conditions were {{BLANK}} for sailing.",
     "cn": "天氣條件對航行是有利的。"
   },
@@ -258,7 +258,7 @@ const VOCAB = [
     "word": "unfavorable",
     "pos": "adj.",
     "cn_def": "令人不快的;不利的",
-    "en_def": "",
+    "en_def": "showing disapproval; not good for someone or something",
     "sentence": "The {{BLANK}} outcome of the negotiations disappointed us.",
     "cn": "談判的不利結果讓我們感到失望。"
   },
@@ -266,7 +266,7 @@ const VOCAB = [
     "word": "review",
     "pos": "v.",
     "cn_def": "評價;評論",
-    "en_def": "",
+    "en_def": "to write or give your opinion of a book, film or product",
     "sentence": "She wrote a positive {{BLANK}} of the movie for the newspaper.",
     "cn": "她為報紙寫了一篇對電影的正面評論。"
   },
@@ -274,7 +274,7 @@ const VOCAB = [
     "word": "spread rumors",
     "pos": "v.",
     "cn_def": "謠傳;傳言",
-    "en_def": "",
+    "en_def": "to spread a story that may not be true",
     "sentence": "Don't {{BLANK}} about others; it can be harmful.",
     "cn": "別輕易傳言他人，這可能會有害。"
   },
@@ -282,7 +282,7 @@ const VOCAB = [
     "word": "delivered",
     "pos": "v.",
     "cn_def": "提供;運送;投遞",
-    "en_def": "",
+    "en_def": "to take goods or letters to a place; to give a speech",
     "sentence": "He {{BLANK}} a heartfelt apology to his friend.",
     "cn": "他向朋友誠摯地道歉。"
   },
@@ -290,7 +290,7 @@ const VOCAB = [
     "word": "delivering a speech",
     "pos": "n.",
     "cn_def": "發表演講",
-    "en_def": "",
+    "en_def": "to give a formal talk to an audience",
     "sentence": "She was nervous about {{BLANK}} at the conference.",
     "cn": "她對在會議上發表演講感到緊張。"
   },
@@ -298,7 +298,7 @@ const VOCAB = [
     "word": "delivery",
     "pos": "n.",
     "cn_def": "遞送;運送",
-    "en_def": "",
+    "en_def": "the act of taking goods or letters to a person or place",
     "sentence": "The courier service provides fast {{BLANK}} of packages.",
     "cn": "快遞服務提供快速的包裹遞送。"
   },
@@ -306,7 +306,7 @@ const VOCAB = [
     "word": "molecule",
     "pos": "n.",
     "cn_def": "分子",
-    "en_def": "",
+    "en_def": "the smallest unit of a substance, made of two or more atoms joined together",
     "sentence": "A water {{BLANK}} is made of two hydrogen atoms and one oxygen atom.",
     "cn": "一個水分子由兩個氫原子和一個氧原子組成。"
   },
@@ -314,7 +314,7 @@ const VOCAB = [
     "word": "pheromones",
     "pos": "n.",
     "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)",
-    "en_def": "",
+    "en_def": "a chemical that an animal produces to send signals to others of its kind",
     "sentence": "Ants use {{BLANK}} to communicate with each other.",
     "cn": "螞蟻使用費洛蒙彼此溝通。"
   },
@@ -322,7 +322,7 @@ const VOCAB = [
     "word": "acclaimed",
     "pos": "v.",
     "cn_def": "為...歡呼;稱讚",
-    "en_def": "",
+    "en_def": "to praise someone or something publicly",
     "sentence": "The actor was {{BLANK}} for his outstanding performance in the play.",
     "cn": "這位演員因其在劇中出色的表演而受到稱讚。"
   }
@@ -774,576 +774,576 @@ const MCQS = [
 const LOOKUP = {
   "perfume": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a liquid with a pleasant smell that you put on your skin",
     "cn_def": "香水",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a liquid with a pleasant smell that you put on your skin",
         "cn_def": "香水"
       }
     ]
   },
   "develop": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to grow or change into something bigger or more advanced; to create something new",
     "cn_def": "使發展;開發;形成",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to grow or change into something bigger or more advanced; to create something new",
         "cn_def": "使發展;開發;形成"
       }
     ]
   },
   "development": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the process of growing, changing or becoming more advanced",
     "cn_def": "發展",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the process of growing, changing or becoming more advanced",
         "cn_def": "發展"
       }
     ]
   },
   "developing": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "growing or becoming more advanced",
     "cn_def": "發展中的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "growing or becoming more advanced",
         "cn_def": "發展中的"
       }
     ]
   },
   "pleasant": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "enjoyable, nice or friendly",
     "cn_def": "令人愉快的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "enjoyable, nice or friendly",
         "cn_def": "令人愉快的"
       }
     ]
   },
   "please": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make someone happy or satisfied",
     "cn_def": "使高興;滿意",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to make someone happy or satisfied",
         "cn_def": "使高興;滿意"
       }
     ]
   },
   "unpleasant": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not enjoyable; not nice or friendly",
     "cn_def": "令人不愉快的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "not enjoyable; not nice or friendly",
         "cn_def": "令人不愉快的"
       }
     ]
   },
   "expand": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to become or make something larger in size, number or importance",
     "cn_def": "擴大;增加;發展",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to become or make something larger in size, number or importance",
         "cn_def": "擴大;增加;發展"
-      }
-    ]
-  },
-  "expand/widen/broaden sb.'s horizons": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "拓展視野;廣見聞",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "",
-        "cn_def": "拓展視野;廣見聞"
       }
     ]
   },
   "broaden": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "to help someone learn about and experience more new things",
     "cn_def": "拓展視野;廣見聞",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "to help someone learn about and experience more new things",
+        "cn_def": "拓展視野;廣見聞"
+      }
+    ]
+  },
+  "expand/widen/broaden sb.'s horizons": {
+    "pos": "n.",
+    "en_def": "to help someone learn about and experience more new things",
+    "cn_def": "拓展視野;廣見聞",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "to help someone learn about and experience more new things",
         "cn_def": "拓展視野;廣見聞"
       }
     ]
   },
   "expansion": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the act of becoming larger in size, number or importance",
     "cn_def": "擴展",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the act of becoming larger in size, number or importance",
         "cn_def": "擴展"
       }
     ]
   },
   "expansive": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "covering a wide area; growing larger",
     "cn_def": "擴張的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "covering a wide area; growing larger",
         "cn_def": "擴張的"
       }
     ]
   },
   "possibility": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a chance that something may happen or be true",
     "cn_def": "可能性;可能",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a chance that something may happen or be true",
         "cn_def": "可能性;可能"
       }
     ]
   },
   "possible": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "that can happen, be done or be true",
     "cn_def": "可能的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "that can happen, be done or be true",
         "cn_def": "可能的"
       }
     ]
   },
   "entry": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the act or right of going into a place or joining a competition",
     "cn_def": "進入權;參加",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the act or right of going into a place or joining a competition",
         "cn_def": "進入權;參加"
       }
     ]
   },
   "gain entry into": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "to succeed in getting into a place",
     "cn_def": "進入",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "to succeed in getting into a place",
         "cn_def": "進入"
-      }
-    ]
-  },
-  "spray": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "噴灑;噴劑",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "",
-        "cn_def": "噴灑;噴劑"
       }
     ]
   },
   "sprays": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to send liquid through the air in very small drops",
     "cn_def": "噴灑;噴劑",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to send liquid through the air in very small drops",
+        "cn_def": "噴灑;噴劑"
+      }
+    ]
+  },
+  "spray": {
+    "pos": "v.",
+    "en_def": "to send liquid through the air in very small drops",
+    "cn_def": "噴灑;噴劑",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to send liquid through the air in very small drops",
         "cn_def": "噴灑;噴劑"
       }
     ]
   },
   "blend": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to mix different things together so they become one",
     "cn_def": "(使)混合;融合",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to mix different things together so they become one",
         "cn_def": "(使)混合;融合"
       }
     ]
   },
   "blender": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an electric machine for mixing soft food or liquids",
     "cn_def": "攪拌機",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "an electric machine for mixing soft food or liquids",
         "cn_def": "攪拌機"
       }
     ]
   },
   "outcome": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the result of an action or event",
     "cn_def": "結果",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the result of an action or event",
         "cn_def": "結果"
       }
     ]
   },
   "concept": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an idea of what something is or how it works",
     "cn_def": "觀念;概念",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "an idea of what something is or how it works",
         "cn_def": "觀念;概念"
       }
     ]
   },
   "conception": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an idea or understanding of what something is like",
     "cn_def": "概念;構想;想法",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "an idea or understanding of what something is like",
         "cn_def": "概念;構想;想法"
       }
     ]
   },
   "misconception": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a belief or idea that is wrong because it is based on wrong information",
     "cn_def": "錯誤觀念;誤解",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a belief or idea that is wrong because it is based on wrong information",
         "cn_def": "錯誤觀念;誤解"
       }
     ]
   },
   "shift": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to move or change from one position, direction or opinion to another",
     "cn_def": "改變;轉移",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to move or change from one position, direction or opinion to another",
         "cn_def": "改變;轉移"
       }
     ]
   },
   "conventional": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "following what is traditional or usual",
     "cn_def": "傳統上的;常規的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "following what is traditional or usual",
         "cn_def": "傳統上的;常規的"
       }
     ]
   },
   "unconventional": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very different from what is traditional or usual",
     "cn_def": "不因循守舊的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "very different from what is traditional or usual",
         "cn_def": "不因循守舊的"
       }
     ]
   },
   "convention": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a way of behaving that most people in a society accept as normal",
     "cn_def": "慣例",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a way of behaving that most people in a society accept as normal",
         "cn_def": "慣例"
       }
     ]
   },
   "overcome": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to succeed in dealing with or controlling a problem or feeling",
     "cn_def": "戰勝;克服",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to succeed in dealing with or controlling a problem or feeling",
         "cn_def": "戰勝;克服"
-      }
-    ]
-  },
-  "be overcome with": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "被...所克服",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "",
-        "cn_def": "被...所克服"
       }
     ]
   },
   "overcome with": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "to be so strongly affected by a feeling that you cannot act normally",
     "cn_def": "被...所克服",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "to be so strongly affected by a feeling that you cannot act normally",
+        "cn_def": "被...所克服"
+      }
+    ]
+  },
+  "be overcome with": {
+    "pos": "n.",
+    "en_def": "to be so strongly affected by a feeling that you cannot act normally",
+    "cn_def": "被...所克服",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "to be so strongly affected by a feeling that you cannot act normally",
         "cn_def": "被...所克服"
       }
     ]
   },
   "boldness": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the quality of being brave and willing to take risks",
     "cn_def": "勇敢;大膽",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the quality of being brave and willing to take risks",
         "cn_def": "勇敢;大膽"
       }
     ]
   },
   "bold": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "brave and confident; easy to see or notice",
     "cn_def": "醒目的;大膽的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "brave and confident; easy to see or notice",
         "cn_def": "醒目的;大膽的"
       }
     ]
   },
   "favorable": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "showing approval; good for someone or something",
     "cn_def": "贊成的;稱的;肯定的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "showing approval; good for someone or something",
         "cn_def": "贊成的;稱的;肯定的"
       }
     ]
   },
   "unfavorable": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "showing disapproval; not good for someone or something",
     "cn_def": "令人不快的;不利的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "showing disapproval; not good for someone or something",
         "cn_def": "令人不快的;不利的"
       }
     ]
   },
   "review": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to write or give your opinion of a book, film or product",
     "cn_def": "評價;評論",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to write or give your opinion of a book, film or product",
         "cn_def": "評價;評論"
-      }
-    ]
-  },
-  "rumor": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "謠傳;傳言",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "",
-        "cn_def": "謠傳;傳言"
       }
     ]
   },
   "spread rumors": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to spread a story that may not be true",
     "cn_def": "謠傳;傳言",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to spread a story that may not be true",
+        "cn_def": "謠傳;傳言"
+      }
+    ]
+  },
+  "rumor": {
+    "pos": "v.",
+    "en_def": "to spread a story that may not be true",
+    "cn_def": "謠傳;傳言",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to spread a story that may not be true",
         "cn_def": "謠傳;傳言"
       }
     ]
   },
   "deliver": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to take goods or letters to a place; to give a speech",
     "cn_def": "提供;運送;投遞",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to take goods or letters to a place; to give a speech",
         "cn_def": "提供;運送;投遞"
       }
     ]
   },
   "delivered": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to take goods or letters to a place; to give a speech",
     "cn_def": "提供;運送;投遞",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to take goods or letters to a place; to give a speech",
         "cn_def": "提供;運送;投遞"
-      }
-    ]
-  },
-  "deliver a speech": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "發表演講",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "",
-        "cn_def": "發表演講"
       }
     ]
   },
   "delivering a speech": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "to give a formal talk to an audience",
     "cn_def": "發表演講",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "to give a formal talk to an audience",
+        "cn_def": "發表演講"
+      }
+    ]
+  },
+  "deliver a speech": {
+    "pos": "n.",
+    "en_def": "to give a formal talk to an audience",
+    "cn_def": "發表演講",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "to give a formal talk to an audience",
         "cn_def": "發表演講"
       }
     ]
   },
   "delivery": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the act of taking goods or letters to a person or place",
     "cn_def": "遞送;運送",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the act of taking goods or letters to a person or place",
         "cn_def": "遞送;運送"
       }
     ]
   },
   "molecule": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the smallest unit of a substance, made of two or more atoms joined together",
     "cn_def": "分子",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the smallest unit of a substance, made of two or more atoms joined together",
         "cn_def": "分子"
-      }
-    ]
-  },
-  "pheromones": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "",
-        "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)"
       }
     ]
   },
   "pheromone": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a chemical that an animal produces to send signals to others of its kind",
     "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a chemical that an animal produces to send signals to others of its kind",
+        "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)"
+      }
+    ]
+  },
+  "pheromones": {
+    "pos": "n.",
+    "en_def": "a chemical that an animal produces to send signals to others of its kind",
+    "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a chemical that an animal produces to send signals to others of its kind",
         "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)"
       }
     ]
   },
   "acclaim": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to praise someone or something publicly",
     "cn_def": "為...歡呼;稱讚",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to praise someone or something publicly",
         "cn_def": "為...歡呼;稱讚"
       }
     ]
   },
   "acclaimed": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to praise someone or something publicly",
     "cn_def": "為...歡呼;稱讚",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to praise someone or something publicly",
         "cn_def": "為...歡呼;稱讚"
       }
     ]

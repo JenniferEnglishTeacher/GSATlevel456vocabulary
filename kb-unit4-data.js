@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "preserve",
     "answer": "preserve",
     "pos": "v.",
-    "definition": "",
+    "definition": "to keep something safe from harm or in its original state",
     "chinese": "保存；保護",
     "sentence": "The aboriginal tribe has strived for centuries to __________ the land of their ancestors, and resist modern development.",
     "translation": "這個土著部落已經努力了幾個世紀，以保護他們的祖先土地，抵制現代開發。",
     "lookup": {
-     "english": "",
+     "english": "to keep something safe from harm or in its original state",
      "chinese": "保存；保護"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "wildlife preserve",
     "answer": "wildlife preserve",
     "pos": "n.",
-    "definition": "",
+    "definition": "an area of land where wild animals and plants are protected",
     "chinese": "野生動物保護區",
     "sentence": "This __________ is an ecological habitat where endangered species find refuge from human beings.",
     "translation": "這個野生動物保護區是一個生態棲息地，瀕臨絕種的物種在這裡尋找避難所，逃避人類。",
     "lookup": {
-     "english": "",
+     "english": "an area of land where wild animals and plants are protected",
      "chinese": "野生動物保護區"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "preservation",
     "answer": "preservation",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of keeping something safe or in its original state",
     "chinese": "保存；保護",
     "sentence": "The careful __________ of ancient manuscripts ensures their longevity for future scholars to study and appreciate.",
     "translation": "對古老手稿的細心保存確保了它們的長壽，供未來的學者研究和欣賞。",
     "lookup": {
-     "english": "",
+     "english": "the act of keeping something safe or in its original state",
      "chinese": "保存；保護"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "freeze",
     "answer": "freeze",
     "pos": "v.",
-    "definition": "",
+    "definition": "to become hard and turn to ice because of extreme cold",
     "chinese": "凍結；冷凍",
     "sentence": "In extremely cold climates, water can __________ rapidly, posing dangers to both humans and wildlife.",
     "translation": "在極寒的氣候中，水可以迅速凍結，對人類和野生動物都構成危險。",
     "lookup": {
-     "english": "",
+     "english": "to become hard and turn to ice because of extreme cold",
      "chinese": "凍結；冷凍"
     },
     "forms": "freeze / froze / frozen"
@@ -61,12 +61,12 @@ window.FLASHCARD_UNITS = {
     "word": "freezer",
     "answer": "freezer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine that keeps food frozen at a very low temperature",
     "chinese": "冷凍庫",
     "sentence": "The scientific expedition relied on a mobile __________ to store valuable research specimens.",
     "translation": "這次科學考察依賴於一個移動式冷凍庫，以保存價值珍貴的研究標本。",
     "lookup": {
-     "english": "",
+     "english": "a machine that keeps food frozen at a very low temperature",
      "chinese": "冷凍庫"
     }
    },
@@ -74,12 +74,12 @@ window.FLASHCARD_UNITS = {
     "word": "endangered species",
     "answer": "endangered species",
     "pos": "n.",
-    "definition": "",
+    "definition": "a kind of animal or plant that may soon no longer exist",
     "chinese": "瀕臨絕種的物種",
     "sentence": "The conservationists' relentless efforts have successfully rescued several __________ from extinction.",
     "translation": "保育人士不懈的努力成功拯救了幾個物種免於滅絕。",
     "lookup": {
-     "english": "",
+     "english": "a kind of animal or plant that may soon no longer exist",
      "chinese": "瀕臨絕種的物種"
     }
    },
@@ -87,12 +87,12 @@ window.FLASHCARD_UNITS = {
     "word": "cricket",
     "answer": "crickets",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small brown jumping insect that makes a loud, high sound",
     "chinese": "蟋蟀",
     "sentence": "The soothing evening was filled with the chirping of __________, creating an relaxing atmosphere.",
     "translation": "安靜的夜晚充滿了蟋蟀的鳴叫聲，營造出一種療愈的氛圍。",
     "lookup": {
-     "english": "",
+     "english": "a small brown jumping insect that makes a loud, high sound",
      "chinese": "蟋蟀"
     }
    },
@@ -100,12 +100,12 @@ window.FLASHCARD_UNITS = {
     "word": "cricket",
     "answer": "cricket",
     "pos": "n.",
-    "definition": "",
+    "definition": "an outdoor game played with a bat and ball by two teams of eleven players",
     "chinese": "板球",
     "sentence": "Growing up in a British school, this Indian dreamed of becoming a professional __________ player.",
     "translation": "在英國學校成長過程中，這位印度人夢想成為一名職業板球選手，但生活將他引向了不同的道路。",
     "lookup": {
-     "english": "",
+     "english": "an outdoor game played with a bat and ball by two teams of eleven players",
      "chinese": "板球"
     }
    },
@@ -113,12 +113,12 @@ window.FLASHCARD_UNITS = {
     "word": "minus",
     "answer": "minus",
     "pos": "adj.",
-    "definition": "",
+    "definition": "less than zero; made smaller by a stated amount",
     "chinese": "負的；減去",
     "sentence": "The sudden __________ temperatures in winter can be extremely harsh, so we need extra preparation.",
     "translation": "冬季突然的負溫度可能特別嚴峻，需要額外的準備。",
     "lookup": {
-     "english": "",
+     "english": "less than zero; made smaller by a stated amount",
      "chinese": "負的；減去"
     }
    },
@@ -126,12 +126,12 @@ window.FLASHCARD_UNITS = {
     "word": "minus",
     "answer": "minus",
     "pos": "n.",
-    "definition": "",
+    "definition": "a disadvantage; a negative point",
     "chinese": "缺點；不利因素=disadvantage (n)",
     "sentence": "One __________ of remote work is the potential for increased feelings of isolation among employees.",
     "translation": "遠距工作的一個缺點是可能會增加員工感到孤立的潛在可能性。",
     "lookup": {
-     "english": "",
+     "english": "a disadvantage; a negative point",
      "chinese": "缺點；不利因素=disadvantage (n)"
     }
    },
@@ -139,12 +139,12 @@ window.FLASHCARD_UNITS = {
     "word": "minus",
     "answer": "minus",
     "pos": "n.",
-    "definition": "",
+    "definition": "used to show that a number or thing is taken away from another",
     "chinese": "減去；除了...之外",
     "sentence": "The bakery sold 40 croissants, __________ the 12 that were given away as free samples.",
     "translation": "這家麵包店售出了40個可頌，扣除了12個免費樣品。",
     "lookup": {
-     "english": "",
+     "english": "used to show that a number or thing is taken away from another",
      "chinese": "減去；除了...之外"
     }
    },
@@ -152,12 +152,12 @@ window.FLASHCARD_UNITS = {
     "word": "plus",
     "answer": "plus",
     "pos": "n.",
-    "definition": "",
+    "definition": "an advantage; a positive point",
     "chinese": "優勢；好處=advantage",
     "sentence": "One __________ of early morning flights is that they often come with lower fares.",
     "translation": "早班機的一個優勢是它們通常帶有較低的票價。",
     "lookup": {
-     "english": "",
+     "english": "an advantage; a positive point",
      "chinese": "優勢；好處=advantage"
     }
    },
@@ -165,12 +165,12 @@ window.FLASHCARD_UNITS = {
     "word": "degree",
     "answer": "degree",
     "pos": "n.",
-    "definition": "",
+    "definition": "a unit for measuring temperature or angles; a title given by a university",
     "chinese": "度數；學位",
     "sentence": "She completed her master's __________ in environmental science with honors.",
     "translation": "她以榮譽完成了環境科學碩士學位。",
     "lookup": {
-     "english": "",
+     "english": "a unit for measuring temperature or angles; a title given by a university",
      "chinese": "度數；學位"
     }
    },
@@ -178,12 +178,12 @@ window.FLASHCARD_UNITS = {
     "word": "bachelor degree",
     "answer": "bachelor degree",
     "pos": "n.",
-    "definition": "",
+    "definition": "the first degree you get after finishing studies at a university",
     "chinese": "大學學位",
     "sentence": "To pursue a __________ in engineering requires dedication and a strong math skill.",
     "translation": "追求工程學學士學位需要奉獻精神和強大的數學才能。",
     "lookup": {
-     "english": "",
+     "english": "the first degree you get after finishing studies at a university",
      "chinese": "大學學位"
     }
    },
@@ -191,12 +191,12 @@ window.FLASHCARD_UNITS = {
     "word": "to some degree",
     "answer": "To some degree",
     "pos": "phr.",
-    "definition": "",
+    "definition": "partly; in some way but not completely",
     "chinese": "在某種程度上",
     "sentence": "__________, his success can be attributed to his determination and relentless hard work.",
     "translation": "他的成功可以歸功於他決心和不懈的努力，這在某種程度上是正確的。",
     "lookup": {
-     "english": "",
+     "english": "partly; in some way but not completely",
      "chinese": "在某種程度上"
     }
    },
@@ -204,12 +204,12 @@ window.FLASHCARD_UNITS = {
     "word": "safe",
     "answer": "safe",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not in danger; not likely to cause harm",
     "chinese": "安全的",
     "sentence": "After thorough testing, the government claimed the nuclear wastewater is __________ for discharge.",
     "translation": "經過全面測試，政府宣稱核汙水是安全可以排放的。",
     "lookup": {
-     "english": "",
+     "english": "not in danger; not likely to cause harm",
      "chinese": "安全的"
     }
    },
@@ -217,12 +217,12 @@ window.FLASHCARD_UNITS = {
     "word": "unsafe",
     "answer": "unsafe",
     "pos": "adj.",
-    "definition": "",
+    "definition": "dangerous; likely to cause harm",
     "chinese": "不安全的",
     "sentence": "The old building was declared __________ for living due to structural concerns.",
     "translation": "這座老建築被宣佈不適合居住，由於結構問題。",
     "lookup": {
-     "english": "",
+     "english": "dangerous; likely to cause harm",
      "chinese": "不安全的"
     }
    },
@@ -230,12 +230,12 @@ window.FLASHCARD_UNITS = {
     "word": "for the sake of safety",
     "answer": "for the sake of safety",
     "pos": "phr.",
-    "definition": "",
+    "definition": "in order to keep people from being hurt",
     "chinese": "為了安全起見",
     "sentence": "We must follow strict safety regulations __________ during this hazardous experiment.",
     "translation": "我們必須堅守嚴格的安全法規，為了在這次危險的實驗中確保安全。",
     "lookup": {
-     "english": "",
+     "english": "in order to keep people from being hurt",
      "chinese": "為了安全起見"
     }
    },
@@ -243,12 +243,12 @@ window.FLASHCARD_UNITS = {
     "word": "at a ...rate / speed",
     "answer": "rate",
     "pos": "phr.",
-    "definition": "",
+    "definition": "at a particular speed",
     "chinese": "以...的速度",
     "sentence": "The pandemic has spread at an alarming __________, prompting governments to take action.",
     "translation": "疫情以驚人的速度蔓延，促使政府採取行動。",
     "lookup": {
-     "english": "",
+     "english": "at a particular speed",
      "chinese": "以...的速度"
     }
    },
@@ -256,12 +256,12 @@ window.FLASHCARD_UNITS = {
     "word": "rate",
     "answer": "rate",
     "pos": "n.",
-    "definition": "",
+    "definition": "the speed at which something happens; an amount compared with another amount",
     "chinese": "比率；費用",
     "sentence": "The __________ of inflation has a direct impact on the purchasing power of consumers.",
     "translation": "通脹率直接影響了消費者的購買力。",
     "lookup": {
-     "english": "",
+     "english": "the speed at which something happens; an amount compared with another amount",
      "chinese": "比率；費用"
     }
    },
@@ -269,12 +269,12 @@ window.FLASHCARD_UNITS = {
     "word": "rate",
     "answer": "rate",
     "pos": "n.",
-    "definition": "",
+    "definition": "a fixed amount of money that is charged or paid for something",
     "chinese": "費用",
     "sentence": "The __________ for using the toll road has increased significantly this year.",
     "translation": "使用收費公路的費用今年大幅上升。",
     "lookup": {
-     "english": "",
+     "english": "a fixed amount of money that is charged or paid for something",
      "chinese": "費用"
     }
    },
@@ -282,12 +282,12 @@ window.FLASHCARD_UNITS = {
     "word": "fare",
     "answer": "fare",
     "pos": "n.",
-    "definition": "",
+    "definition": "the money you pay to travel by bus, train, taxi or plane",
     "chinese": "車費；票價",
     "sentence": "The __________ for the subway is quite affordable, making it an attractive option for daily commuters.",
     "translation": "地鐵的票價相當實惠，是日常通勤者的一個吸引人的選擇。",
     "lookup": {
-     "english": "",
+     "english": "the money you pay to travel by bus, train, taxi or plane",
      "chinese": "車費；票價"
     }
    },
@@ -295,12 +295,12 @@ window.FLASHCARD_UNITS = {
     "word": "charge",
     "answer": "charge",
     "pos": "n.",
-    "definition": "",
+    "definition": "the amount of money asked for a service or goods",
     "chinese": "收費；費用",
     "sentence": "The additional __________ for extra baggage on the flight surprises many passengers.",
     "translation": "飛機上額外的行李費用讓許多乘客感到驚訝。",
     "lookup": {
-     "english": "",
+     "english": "the amount of money asked for a service or goods",
      "chinese": "收費；費用"
     }
    },
@@ -308,12 +308,12 @@ window.FLASHCARD_UNITS = {
     "word": "entrance fee",
     "answer": "entrance fee",
     "pos": "n.",
-    "definition": "",
+    "definition": "the money you pay to go into a place such as a museum",
     "chinese": "入場費",
     "sentence": "The __________ to the historical site includes access to guided tours.",
     "translation": "參觀這個古蹟的入場費包括可以取得導覽。",
     "lookup": {
-     "english": "",
+     "english": "the money you pay to go into a place such as a museum",
      "chinese": "入場費"
     }
    },
@@ -321,12 +321,12 @@ window.FLASHCARD_UNITS = {
     "word": "toll",
     "answer": "toll",
     "pos": "n.",
-    "definition": "",
+    "definition": "money you pay to use a road or bridge",
     "chinese": "(道路、橋樑等的)通行費",
     "sentence": "Many people prefer to avoid the highway due to the high __________ charges.",
     "translation": "許多人避免使用高速公路，因為收費很高。",
     "lookup": {
-     "english": "",
+     "english": "money you pay to use a road or bridge",
      "chinese": "(道路、橋樑等的)通行費"
     }
    },
@@ -334,12 +334,12 @@ window.FLASHCARD_UNITS = {
     "word": "loss",
     "answer": "loss",
     "pos": "n.",
-    "definition": "",
+    "definition": "the state of no longer having something; money that a business loses",
     "chinese": "損失",
     "sentence": "The stock market crash resulted in a significant financial __________ for many investors.",
     "translation": "股市崩盤導致許多投資者面臨重大的財務損失。",
     "lookup": {
-     "english": "",
+     "english": "the state of no longer having something; money that a business loses",
      "chinese": "損失"
     }
    },
@@ -347,12 +347,12 @@ window.FLASHCARD_UNITS = {
     "word": "lost",
     "answer": "lost",
     "pos": "adj.",
-    "definition": "",
+    "definition": "that cannot be found or got back; not knowing where you are",
     "chinese": "失去的",
     "sentence": "Her __________ luggage was eventually located and returned to her after a long search.",
     "translation": "她失去的行李最終在長時間搜索後被找到並歸還給她。",
     "lookup": {
-     "english": "",
+     "english": "that cannot be found or got back; not knowing where you are",
      "chinese": "失去的"
     }
    },
@@ -360,12 +360,12 @@ window.FLASHCARD_UNITS = {
     "word": "lose",
     "answer": "lose",
     "pos": "v.",
-    "definition": "",
+    "definition": "to no longer have something; to fail to win",
     "chinese": "失去；輸掉",
     "sentence": "If you __________ your way in the forest, remember to stay calm and follow basic survival principles.",
     "translation": "如果你在森林中迷路了，請記住保持冷靜，遵循基本的生存原則。",
     "lookup": {
-     "english": "",
+     "english": "to no longer have something; to fail to win",
      "chinese": "失去；輸掉"
     },
     "forms": "lose / lost / lost"
@@ -374,12 +374,12 @@ window.FLASHCARD_UNITS = {
     "word": "at a loss",
     "answer": "at a loss",
     "pos": "phr.",
-    "definition": "",
+    "definition": "not knowing what to do or say; (of a business) losing money",
     "chinese": "虧損；不知所措",
     "sentence": "After the unexpected market crash, many investors were left __________, unsure of their next financial move.",
     "translation": "在意外的市場崩潰後，許多投資者感到不知所措，不確定下一步的財務舉措。",
     "lookup": {
-     "english": "",
+     "english": "not knowing what to do or say; (of a business) losing money",
      "chinese": "虧損；不知所措"
     }
    },
@@ -387,12 +387,12 @@ window.FLASHCARD_UNITS = {
     "word": "website",
     "answer": "website",
     "pos": "n.",
-    "definition": "",
+    "definition": "a set of pages on the internet about one subject or organization",
     "chinese": "網站",
     "sentence": "The company's official __________ offers resources for both customers and investors.",
     "translation": "公司的官方網站為客戶和投資者提供了資源。",
     "lookup": {
-     "english": "",
+     "english": "a set of pages on the internet about one subject or organization",
      "chinese": "網站"
     }
    },
@@ -400,12 +400,12 @@ window.FLASHCARD_UNITS = {
     "word": "percent",
     "answer": "percent",
     "pos": "n.",
-    "definition": "",
+    "definition": "one part in every hundred",
     "chinese": "百分比",
     "sentence": "The elder population has increased by 7 __________ in the past decade.",
     "translation": "過去十年，老年人口增加了7%。",
     "lookup": {
-     "english": "",
+     "english": "one part in every hundred",
      "chinese": "百分比"
     }
    },
@@ -413,12 +413,12 @@ window.FLASHCARD_UNITS = {
     "word": "percentage",
     "answer": "percentage",
     "pos": "n.",
-    "definition": "",
+    "definition": "an amount shown as a part of one hundred",
     "chinese": "百分比",
     "sentence": "The __________ of students who scored above 90% on the exam was extremely high.",
     "translation": "在考試中獲得90%以上分數的學生百分比非常高。",
     "lookup": {
-     "english": "",
+     "english": "an amount shown as a part of one hundred",
      "chinese": "百分比"
     }
    },
@@ -426,12 +426,12 @@ window.FLASHCARD_UNITS = {
     "word": "collect",
     "answer": "collect",
     "pos": "v.",
-    "definition": "",
+    "definition": "to bring things together from different places, often as a hobby",
     "chinese": "收集",
     "sentence": "Over the years, he managed to __________ an impressive collection of antique coins from around the world.",
     "translation": "多年來，他成功地收集了來自世界各地的令人印象深刻的古代的錢幣收藏品。",
     "lookup": {
-     "english": "",
+     "english": "to bring things together from different places, often as a hobby",
      "chinese": "收集"
     }
    },
@@ -439,12 +439,12 @@ window.FLASHCARD_UNITS = {
     "word": "a wide collection of",
     "answer": "a wide collection of",
     "pos": "phr.",
-    "definition": "",
+    "definition": "a large group of many different things that have been gathered",
     "chinese": "各種各樣的收藏品",
     "sentence": "The museum boasts __________ artworks, including various cultures and time periods.",
     "translation": "博物館擁有各種各樣的藝術品收藏，涵蓋了不同的文化和時期。",
     "lookup": {
-     "english": "",
+     "english": "a large group of many different things that have been gathered",
      "chinese": "各種各樣的收藏品"
     }
    },
@@ -452,12 +452,12 @@ window.FLASHCARD_UNITS = {
     "word": "collector",
     "answer": "collector",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who gathers things of one type as a hobby",
     "chinese": "收藏家",
     "sentence": "The stamp __________ traveled the world in search of rare and unique stamps.",
     "translation": "這位郵票收藏家周遊世界，尋找罕見和獨特的郵票。",
     "lookup": {
-     "english": "",
+     "english": "a person who gathers things of one type as a hobby",
      "chinese": "收藏家"
     }
    },
@@ -465,12 +465,12 @@ window.FLASHCARD_UNITS = {
     "word": "collective",
     "answer": "collective",
     "pos": "adj.",
-    "definition": "",
+    "definition": "done or shared by all members of a group",
     "chinese": "集體的；共同的",
     "sentence": "The __________ efforts of the research team led to groundbreaking discoveries in the field of medicine.",
     "translation": "研究小組的集體努力在醫學領域取得了開創性的發現。",
     "lookup": {
-     "english": "",
+     "english": "done or shared by all members of a group",
      "chinese": "集體的；共同的"
     }
    },
@@ -478,12 +478,12 @@ window.FLASHCARD_UNITS = {
     "word": "die out",
     "answer": "dying out",
     "pos": "v.",
-    "definition": "",
+    "definition": "to become less common and finally stop existing",
     "chinese": "滅絕；逐漸消失",
     "sentence": "Conservationists are working tirelessly to prevent endangered species from __________.",
     "translation": "保育人士正在不懈努力，以防止瀕臨絕種的物種逐漸消失。",
     "lookup": {
-     "english": "",
+     "english": "to become less common and finally stop existing",
      "chinese": "滅絕；逐漸消失"
     }
    }
@@ -1343,4 +1343,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"preserve":["","保存；保護"],"preservation":["","保存；保護"],"freeze":["","凍結；冷凍"],"freezer":["","冷凍庫"],"cricket":["","蟋蟀"],"crickets":["","蟋蟀"],"minus":["","負的；減去"],"plus":["","優勢；好處=advantage"],"degree":["","度數；學位"],"safe":["","安全的"],"unsafe":["","不安全的"],"rate":["","以...的速度"],"fare":["","車費；票價"],"charge":["","收費；費用"],"toll":["","(道路、橋樑等的)通行費"],"loss":["","損失"],"lost":["","失去的"],"lose":["","失去；輸掉"],"website":["","網站"],"percent":["","百分比"],"percentage":["","百分比"],"collect":["","收集"],"collector":["","收藏家"],"collective":["","集體的；共同的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"preserve":["to keep something safe from harm or in its original state","保存；保護"],"preservation":["the act of keeping something safe or in its original state","保存；保護"],"freeze":["to become hard and turn to ice because of extreme cold","凍結；冷凍"],"freezer":["a machine that keeps food frozen at a very low temperature","冷凍庫"],"cricket":["a small brown jumping insect that makes a loud, high sound","蟋蟀"],"crickets":["a small brown jumping insect that makes a loud, high sound","蟋蟀"],"minus":["less than zero; made smaller by a stated amount","負的；減去"],"plus":["an advantage; a positive point","優勢；好處=advantage"],"degree":["a unit for measuring temperature or angles; a title given by a university","度數；學位"],"safe":["not in danger; not likely to cause harm","安全的"],"unsafe":["dangerous; likely to cause harm","不安全的"],"rate":["at a particular speed","以...的速度"],"fare":["the money you pay to travel by bus, train, taxi or plane","車費；票價"],"charge":["the amount of money asked for a service or goods","收費；費用"],"toll":["money you pay to use a road or bridge","(道路、橋樑等的)通行費"],"loss":["the state of no longer having something; money that a business loses","損失"],"lost":["that cannot be found or got back; not knowing where you are","失去的"],"lose":["to no longer have something; to fail to win","失去；輸掉"],"website":["a set of pages on the internet about one subject or organization","網站"],"percent":["one part in every hundred","百分比"],"percentage":["an amount shown as a part of one hundred","百分比"],"collect":["to bring things together from different places, often as a hobby","收集"],"collector":["a person who gathers things of one type as a hobby","收藏家"],"collective":["done or shared by all members of a group","集體的；共同的"]});

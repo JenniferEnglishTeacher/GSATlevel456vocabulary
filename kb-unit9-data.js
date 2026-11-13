@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "arrival",
     "answer": "arrival",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of coming to or reaching a place",
     "chinese": "到達",
     "sentence": "The __________ of the new manager was eagerly anticipated by the staff.",
     "translation": "員工們熱切期待著新經理的到來。",
     "lookup": {
-     "english": "",
+     "english": "the act of coming to or reaching a place",
      "chinese": "到達"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "arrive in country/city",
     "answer": "arrive in",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to reach a country or city",
     "chinese": "到達某國某城市",
     "sentence": "She was excited to __________ Paris for the first time.",
     "translation": "她很興奮第一次到達巴黎。",
     "lookup": {
-     "english": "",
+     "english": "to reach a country or city",
      "chinese": "到達某國某城市"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "arrive at",
     "answer": "arrived at",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to reach a building or a particular place",
     "chinese": "到達某地",
     "sentence": "After hours of driving, they finally __________ their destination.",
     "translation": "經過幾小時的駕駛，他們終於到達了目的地。",
     "lookup": {
-     "english": "",
+     "english": "to reach a building or a particular place",
      "chinese": "到達某地"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "the ...century",
     "answer": "century",
     "pos": "n.",
-    "definition": "",
+    "definition": "a period of one hundred years",
     "chinese": "世紀",
     "sentence": "Many consider the 20th __________ to be one of the most eventful in history.",
     "translation": "許多人認為20世紀是歷史上最多事的一個世紀。",
     "lookup": {
-     "english": "",
+     "english": "a period of one hundred years",
      "chinese": "世紀"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "event",
     "answer": "event",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that happens, especially something important or planned",
     "chinese": "事件",
     "sentence": "The concert was the most talked-about __________ of the year.",
     "translation": "這場音樂會是一年中最受關注的事件。",
     "lookup": {
-     "english": "",
+     "english": "something that happens, especially something important or planned",
      "chinese": "事件"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "release a hostage",
     "answer": "release the hostage",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to set free a person who has been held prisoner",
     "chinese": "釋放人質",
     "sentence": "After negotiations, the kidnappers agreed to __________.",
     "translation": "經過談判，綁架者同意釋放人質。",
     "lookup": {
-     "english": "",
+     "english": "to set free a person who has been held prisoner",
      "chinese": "釋放人質"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "release a single/video/product",
     "answer": "release a single",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to make a song, film or product available for people to buy or see",
     "chinese": "發行單曲/視頻/產品",
     "sentence": "The artist is set to __________ next month.",
     "translation": "藝術家計劃下個月發行新單曲。",
     "lookup": {
-     "english": "",
+     "english": "to make a song, film or product available for people to buy or see",
      "chinese": "發行單曲/視頻/產品"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "release exhaust",
     "answer": "release exhaust",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to let waste gas out into the air",
     "chinese": "排放廢氣",
     "sentence": "Factories that __________ into the atmosphere contribute to air pollution.",
     "translation": "向大氣中排放廢氣的工廠導致空氣污染。",
     "lookup": {
-     "english": "",
+     "english": "to let waste gas out into the air",
      "chinese": "排放廢氣"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "release stress/ pressure",
     "answer": "release stress",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to get rid of feelings of worry or tension",
     "chinese": "釋放壓力",
     "sentence": "Meditation is a great way to __________.",
     "translation": "冥想是釋放壓力的好方法。",
     "lookup": {
-     "english": "",
+     "english": "to get rid of feelings of worry or tension",
      "chinese": "釋放壓力"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "release",
     "answer": "release",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of letting someone or something go free or making information known",
     "chinese": "釋放",
     "sentence": "The __________ of new information surprised everyone.",
     "translation": "新信息的釋放讓每個人都感到驚訝。",
     "lookup": {
-     "english": "",
+     "english": "the act of letting someone or something go free or making information known",
      "chinese": "釋放"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "release",
     "answer": "release",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of making a new song, film or product available to the public",
     "chinese": "發行",
     "sentence": "The __________ of the new album was a huge success.",
     "translation": "新專輯的發行取得了巨大成功。",
     "lookup": {
-     "english": "",
+     "english": "the act of making a new song, film or product available to the public",
      "chinese": "發行"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "mobile",
     "answer": "mobile",
     "pos": "adj.",
-    "definition": "",
+    "definition": "able to move or be moved easily",
     "chinese": "移動的",
     "sentence": "With today's __________ technology, working remotely has become easier.",
     "translation": "隨著今天的移動技術，遠程工作變得更加容易。",
     "lookup": {
-     "english": "",
+     "english": "able to move or be moved easily",
      "chinese": "移動的"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "mobile device / portable device",
     "answer": "mobile device",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small computer, such as a phone or tablet, that you can carry with you",
     "chinese": "行動裝置",
     "sentence": "Many people use a __________ for daily tasks like emailing, browsing the web, and managing schedules.",
     "translation": "許多人使用行動裝置來處理日常任務，如發送電子郵件、瀏覽網頁和管理日程。",
     "lookup": {
-     "english": "",
+     "english": "a small computer, such as a phone or tablet, that you can carry with you",
      "chinese": "行動裝置"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "mobility",
     "answer": "mobility",
     "pos": "n.",
-    "definition": "",
+    "definition": "the ability to move or travel easily from place to place",
     "chinese": "移動性",
     "sentence": "The city's __________ options have been enhanced with new bike lanes.",
     "translation": "該市的移動性選項通過新的自行車道得到了提升。",
     "lookup": {
-     "english": "",
+     "english": "the ability to move or travel easily from place to place",
      "chinese": "移動性"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "automobile",
     "answer": "automobile",
     "pos": "n.",
-    "definition": "",
+    "definition": "a car",
     "chinese": "汽車",
     "sentence": "The __________ industry has seen significant changes with the introduction of electric cars.",
     "translation": "隨著電動汽車的引入，汽車行業發生了重大變化。",
     "lookup": {
-     "english": "",
+     "english": "a car",
      "chinese": "汽車"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "attract",
     "answer": "attract",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make people or animals interested and want to come closer",
     "chinese": "吸引",
     "sentence": "The bright colors of the flowers __________ many bees and butterflies.",
     "translation": "花朵鮮豔的顏色吸引了許多蜜蜂和蝴蝶。",
     "lookup": {
-     "english": "",
+     "english": "to make people or animals interested and want to come closer",
      "chinese": "吸引"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "attraction",
     "answer": "attraction",
     "pos": "n.",
-    "definition": "",
+    "definition": "something interesting that people want to see or do",
     "chinese": "吸引力",
     "sentence": "The city's main __________ is its historic castle.",
     "translation": "這座城市的主要吸引力是它的歷史古堡。",
     "lookup": {
-     "english": "",
+     "english": "something interesting that people want to see or do",
      "chinese": "吸引力"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "tourist attraction",
     "answer": "tourist attraction",
     "pos": "phr.",
-    "definition": "",
+    "definition": "a place of interest that many visitors come to see",
     "chinese": "旅遊景點",
     "sentence": "The Eiffel Tower is a famous __________ in Paris.",
     "translation": "艾菲爾鐵塔是巴黎著名的旅遊景點。",
     "lookup": {
-     "english": "",
+     "english": "a place of interest that many visitors come to see",
      "chinese": "旅遊景點"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "attractive",
     "answer": "attractive",
     "pos": "adj.",
-    "definition": "",
+    "definition": "pleasant to look at; interesting enough to want",
     "chinese": "有吸引力的",
     "sentence": "The idea of a shorter workweek is __________ to many people.",
     "translation": "縮短工作周的想法對許多人來說很有吸引力。",
     "lookup": {
-     "english": "",
+     "english": "pleasant to look at; interesting enough to want",
      "chinese": "有吸引力的"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "appealing",
     "answer": "appealing",
     "pos": "adj.",
-    "definition": "",
+    "definition": "attractive or interesting",
     "chinese": "吸引人的",
     "sentence": "The concept of living a minimalist lifestyle is __________ to those who seek simplicity.",
     "translation": "對於追求簡約的人來說，過極簡生活方式的概念很吸引人。",
     "lookup": {
-     "english": "",
+     "english": "attractive or interesting",
      "chinese": "吸引人的"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "fold",
     "answer": "folded",
     "pos": "v.",
-    "definition": "",
+    "definition": "to bend paper or cloth so that one part lies on top of another",
     "chinese": "折疊",
     "sentence": "After reading the newspaper, he __________ it and put it back on the table.",
     "translation": "閱讀報紙後，他將其折疊起來放回桌上。",
     "lookup": {
-     "english": "",
+     "english": "to bend paper or cloth so that one part lies on top of another",
      "chinese": "折疊"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "fold",
     "answer": "fold",
     "pos": "n.",
-    "definition": "",
+    "definition": "a line or mark made by bending paper or cloth",
     "chinese": "折痕",
     "sentence": "The __________ in the paper indicates it has been in someone's pocket.",
     "translation": "紙上的折痕表明它曾放在某人的口袋裡。",
     "lookup": {
-     "english": "",
+     "english": "a line or mark made by bending paper or cloth",
      "chinese": "折痕"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "folder",
     "answer": "folder",
     "pos": "n.",
-    "definition": "",
+    "definition": "a cardboard or plastic cover for keeping papers together; a place for storing files on a computer",
     "chinese": "文件夾",
     "sentence": "She organized her documents into a __________ for easy access.",
     "translation": "她將文件整理到一個文件夾中，以便輕鬆訪問。",
     "lookup": {
-     "english": "",
+     "english": "a cardboard or plastic cover for keeping papers together; a place for storing files on a computer",
      "chinese": "文件夾"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "foldable",
     "answer": "foldable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "that can be bent or closed to make it smaller",
     "chinese": "可摺疊的",
     "sentence": "The __________ bike can easily be stored in a small apartment.",
     "translation": "這款可摺疊自行車可以輕鬆存放在小公寓裡。",
     "lookup": {
-     "english": "",
+     "english": "that can be bent or closed to make it smaller",
      "chinese": "可摺疊的"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "access",
     "answer": "access",
     "pos": "v.",
-    "definition": "",
+    "definition": "to open or get information, especially on a computer",
     "chinese": "存取",
     "sentence": "Students can __________ the online library resources from anywhere.",
     "translation": "學生可以在任何地方存取線上圖書館資源。",
     "lookup": {
-     "english": "",
+     "english": "to open or get information, especially on a computer",
      "chinese": "存取"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "access",
     "answer": "access",
     "pos": "n.",
-    "definition": "",
+    "definition": "a way of entering or reaching a place",
     "chinese": "途徑",
     "sentence": "The new road provides easier __________ to the remote village.",
     "translation": "新道路為到達偏遠村莊提供了更容易的途徑。",
     "lookup": {
-     "english": "",
+     "english": "a way of entering or reaching a place",
      "chinese": "途徑"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "accessible",
     "answer": "accessible",
     "pos": "adj.",
-    "definition": "",
+    "definition": "easy to reach, enter or use",
     "chinese": "易接近的",
     "sentence": "The museum is __________ to wheelchair users.",
     "translation": "這家博物館對輪椅使用者來說是易於進入的。",
     "lookup": {
-     "english": "",
+     "english": "easy to reach, enter or use",
      "chinese": "易接近的"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "predictable",
     "answer": "predictable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "happening or behaving in a way that you expect",
     "chinese": "可預測的",
     "sentence": "The outcome of the game was __________ based on the team's performance.",
     "translation": "根據球隊的表現，比賽的結果是可預測的。",
     "lookup": {
-     "english": "",
+     "english": "happening or behaving in a way that you expect",
      "chinese": "可預測的"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "available",
     "answer": "available",
     "pos": "adj.",
-    "definition": "",
+    "definition": "able to be used or obtained",
     "chinese": "可用的",
     "sentence": "The new model will be __________ for purchase next month.",
     "translation": "新型號下個月將可供購買。",
     "lookup": {
-     "english": "",
+     "english": "able to be used or obtained",
      "chinese": "可用的"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "model",
     "answer": "model",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small copy of a building, vehicle or other object",
     "chinese": "模型",
     "sentence": "The architect showed a __________ of the proposed building.",
     "translation": "建築師展示了擬建建築的模型。",
     "lookup": {
-     "english": "",
+     "english": "a small copy of a building, vehicle or other object",
      "chinese": "模型"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "model",
     "answer": "model",
     "pos": "n.",
-    "definition": "",
+    "definition": "a particular type or design of a product such as a car or phone",
     "chinese": "機號型號",
     "sentence": "The latest __________ of the smartphone features several innovative upgrades.",
     "translation": "最新型號的智能手機具有多項創新升級。",
     "lookup": {
-     "english": "",
+     "english": "a particular type or design of a product such as a car or phone",
      "chinese": "機號型號"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "model",
     "answer": "model",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person whose job is to wear and show clothes",
     "chinese": "模特兒",
     "sentence": "The fashion __________ walked down the runway with confidence.",
     "translation": "時尚模特兒充滿信心地走在伸展台上。",
     "lookup": {
-     "english": "",
+     "english": "a person whose job is to wear and show clothes",
      "chinese": "模特兒"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "model",
     "answer": "model",
     "pos": "v.",
-    "definition": "",
+    "definition": "to copy the way someone does something because you admire them",
     "chinese": "模仿",
     "sentence": "Young athletes often __________ their techniques after famous sports stars.",
     "translation": "年輕運動員經常模仿著名運動明星的技巧。",
     "lookup": {
-     "english": "",
+     "english": "to copy the way someone does something because you admire them",
      "chinese": "模仿"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "model",
     "answer": "model",
     "pos": "v.",
-    "definition": "",
+    "definition": "to wear clothes in order to show them to possible buyers",
     "chinese": "穿戴衣服展示",
     "sentence": "She will __________ the designer's new collection at the fashion show.",
     "translation": "她將在時裝秀上展示設計師的新系列。",
     "lookup": {
-     "english": "",
+     "english": "to wear clothes in order to show them to possible buyers",
      "chinese": "穿戴衣服展示"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "portable",
     "answer": "portable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "easy to carry or move",
     "chinese": "便攜的",
     "sentence": "The __________ charger is a convenient accessory for travelers.",
     "translation": "便攜式充電器是旅行者的方便配件。",
     "lookup": {
-     "english": "",
+     "english": "easy to carry or move",
      "chinese": "便攜的"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "portability",
     "answer": "portability",
     "pos": "n.",
-    "definition": "",
+    "definition": "the quality of being easy to carry or move",
     "chinese": "便攜性",
     "sentence": "The __________ of the laptop makes it perfect for on-the-go use.",
     "translation": "筆記型電腦的便攜性使其非常適合在外使用。",
     "lookup": {
-     "english": "",
+     "english": "the quality of being easy to carry or move",
      "chinese": "便攜性"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "importable",
     "answer": "importable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "that can be brought into a country from abroad",
     "chinese": "可進口的",
     "sentence": "The company is looking for __________ goods to expand its product range.",
     "translation": "該公司正在尋找可進口商品以擴展其產品範圍。",
     "lookup": {
-     "english": "",
+     "english": "that can be brought into a country from abroad",
      "chinese": "可進口的"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "mass",
     "answer": "mass",
     "pos": "adj.",
-    "definition": "",
+    "definition": "involving or affecting a large number of people or things",
     "chinese": "大量的",
     "sentence": "The __________ production of goods has become a hallmark of modern industry.",
     "translation": "大量生產商品已成為現代工業的標誌。",
     "lookup": {
-     "english": "",
+     "english": "involving or affecting a large number of people or things",
      "chinese": "大量的"
     }
    },
@@ -502,12 +502,12 @@ window.FLASHCARD_UNITS = {
     "word": "mass production of goods",
     "answer": "mass production of goods",
     "pos": "phr.",
-    "definition": "",
+    "definition": "the making of large amounts of products in factories",
     "chinese": "大量生產產品",
     "sentence": "The Industrial Revolution led to __________, which has significantly lowered the cost of manufacturing.",
     "translation": "工業革命帶來產品的大量生產，這顯著降低了製造成本。",
     "lookup": {
-     "english": "",
+     "english": "the making of large amounts of products in factories",
      "chinese": "大量生產產品"
     }
    },
@@ -515,12 +515,12 @@ window.FLASHCARD_UNITS = {
     "word": "mass rapid transportation",
     "answer": "mass rapid transportation",
     "pos": "phr.",
-    "definition": "",
+    "definition": "a city railway system that carries large numbers of people quickly",
     "chinese": "大眾快速交通",
     "sentence": "The city's __________ system makes commuting easier for residents.",
     "translation": "該市的大眾快速交通系統使居民通勤更加容易。",
     "lookup": {
-     "english": "",
+     "english": "a city railway system that carries large numbers of people quickly",
      "chinese": "大眾快速交通"
     }
    },
@@ -528,12 +528,12 @@ window.FLASHCARD_UNITS = {
     "word": "mass media",
     "answer": "Mass media",
     "pos": "phr.",
-    "definition": "",
+    "definition": "newspapers, television, radio and the internet, which reach very large numbers of people",
     "chinese": "大眾媒體",
     "sentence": "__________ plays a crucial role in shaping public opinion.",
     "translation": "大眾媒體在塑造公眾輿論中發揮著關鍵作用。",
     "lookup": {
-     "english": "",
+     "english": "newspapers, television, radio and the internet, which reach very large numbers of people",
      "chinese": "大眾媒體"
     }
    },
@@ -541,12 +541,12 @@ window.FLASHCARD_UNITS = {
     "word": "a mass of",
     "answer": "a mass of",
     "pos": "phr.",
-    "definition": "",
+    "definition": "a large amount or number of something",
     "chinese": "大量的",
     "sentence": "The museum houses __________ rare artifacts.",
     "translation": "博物館收藏著大量稀有文物。",
     "lookup": {
-     "english": "",
+     "english": "a large amount or number of something",
      "chinese": "大量的"
     }
    },
@@ -554,12 +554,12 @@ window.FLASHCARD_UNITS = {
     "word": "mass",
     "answer": "mass",
     "pos": "n.",
-    "definition": "",
+    "definition": "the amount of matter that an object contains",
     "chinese": "質量",
     "sentence": "The __________ of the planet is estimated to be six times that of Earth.",
     "translation": "該行星的質量估計是地球的六倍。",
     "lookup": {
-     "english": "",
+     "english": "the amount of matter that an object contains",
      "chinese": "質量"
     }
    },
@@ -567,12 +567,12 @@ window.FLASHCARD_UNITS = {
     "word": "massive",
     "answer": "massive",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very large, heavy or powerful",
     "chinese": "巨大的",
     "sentence": "The project requires a __________ amount of resources and time.",
     "translation": "該項目需要大量的資源和時間。",
     "lookup": {
-     "english": "",
+     "english": "very large, heavy or powerful",
      "chinese": "巨大的"
     }
    },
@@ -580,12 +580,12 @@ window.FLASHCARD_UNITS = {
     "word": "production",
     "answer": "production",
     "pos": "n.",
-    "definition": "",
+    "definition": "the process of making or growing things in large amounts",
     "chinese": "生產",
     "sentence": "The factory's __________ levels have increased this year.",
     "translation": "工廠今年的生產水平有所提高。",
     "lookup": {
-     "english": "",
+     "english": "the process of making or growing things in large amounts",
      "chinese": "生產"
     }
    },
@@ -593,12 +593,12 @@ window.FLASHCARD_UNITS = {
     "word": "produce",
     "answer": "produce",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make or grow something",
     "chinese": "生產",
     "sentence": "The region is known to __________ the finest quality of wine.",
     "translation": "該地區以生產最優質的葡萄酒而聞名。",
     "lookup": {
-     "english": "",
+     "english": "to make or grow something",
      "chinese": "生產"
     }
    },
@@ -606,12 +606,12 @@ window.FLASHCARD_UNITS = {
     "word": "produce",
     "answer": "produce",
     "pos": "n.",
-    "definition": "",
+    "definition": "fresh fruit and vegetables grown on farms",
     "chinese": "農產品",
     "sentence": "Fresh __________ is sold at the local farmers' market.",
     "translation": "新鮮農產品在當地農民市場上出售。",
     "lookup": {
-     "english": "",
+     "english": "fresh fruit and vegetables grown on farms",
      "chinese": "農產品"
     }
    },
@@ -619,12 +619,12 @@ window.FLASHCARD_UNITS = {
     "word": "productive",
     "answer": "productive",
     "pos": "adj.",
-    "definition": "",
+    "definition": "producing a lot; getting good results",
     "chinese": "生產力強的",
     "sentence": "The team had a very __________ meeting and resolved many issues.",
     "translation": "團隊進行了非常有成效的會議，解決了許多問題。",
     "lookup": {
-     "english": "",
+     "english": "producing a lot; getting good results",
      "chinese": "生產力強的"
     }
    },
@@ -632,12 +632,12 @@ window.FLASHCARD_UNITS = {
     "word": "productivity",
     "answer": "productivity",
     "pos": "n.",
-    "definition": "",
+    "definition": "the rate at which goods are produced or work is done",
     "chinese": "生產力",
     "sentence": "Improved technology can significantly increase __________.",
     "translation": "改進的技術可以顯著提高生產力。",
     "lookup": {
-     "english": "",
+     "english": "the rate at which goods are produced or work is done",
      "chinese": "生產力"
     }
    },
@@ -645,12 +645,12 @@ window.FLASHCARD_UNITS = {
     "word": "product",
     "answer": "product",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that is made to be sold",
     "chinese": "產品",
     "sentence": "The company launched a new __________ that quickly became popular.",
     "translation": "該公司推出了一款很快就變得流行的新產品。",
     "lookup": {
-     "english": "",
+     "english": "something that is made to be sold",
      "chinese": "產品"
     }
    },
@@ -658,12 +658,12 @@ window.FLASHCARD_UNITS = {
     "word": "producer",
     "answer": "producer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person or company that makes or grows something; a person in charge of making a film",
     "chinese": "生產者",
     "sentence": "The __________ of the film received critical acclaim for their work.",
     "translation": "電影的製片人因其工作而獲得了影評人的好評。",
     "lookup": {
-     "english": "",
+     "english": "a person or company that makes or grows something; a person in charge of making a film",
      "chinese": "生產者"
     }
    },
@@ -671,12 +671,12 @@ window.FLASHCARD_UNITS = {
     "word": "manufacture",
     "answer": "manufactures",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make goods in large numbers in a factory",
     "chinese": "製造",
     "sentence": "The company __________ electronic components for various industries.",
     "translation": "該公司為各種行業製造電子零件。",
     "lookup": {
-     "english": "",
+     "english": "to make goods in large numbers in a factory",
      "chinese": "製造"
     }
    },
@@ -684,12 +684,12 @@ window.FLASHCARD_UNITS = {
     "word": "manufacturer",
     "answer": "manufacturer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a company that makes goods in large numbers",
     "chinese": "製造商",
     "sentence": "The __________ is known for its high-quality, durable products.",
     "translation": "這家製造商以其高品質、耐用的產品而聞名。",
     "lookup": {
-     "english": "",
+     "english": "a company that makes goods in large numbers",
      "chinese": "製造商"
     }
    },
@@ -697,12 +697,12 @@ window.FLASHCARD_UNITS = {
     "word": "manufacturing",
     "answer": "manufacturing",
     "pos": "n.",
-    "definition": "",
+    "definition": "the business of making goods in factories",
     "chinese": "製造業",
     "sentence": "The city's economy is heavily reliant on __________.",
     "translation": "這個城市的經濟在很大程度上依賴於製造業。",
     "lookup": {
-     "english": "",
+     "english": "the business of making goods in factories",
      "chinese": "製造業"
     }
    },
@@ -710,12 +710,12 @@ window.FLASHCARD_UNITS = {
     "word": "digital",
     "answer": "digital",
     "pos": "adj.",
-    "definition": "",
+    "definition": "using computer technology; showing information as numbers",
     "chinese": "數字的",
     "sentence": "The __________ age has transformed how we store and access information.",
     "translation": "數字時代改變了我們存儲和訪問信息的方式。",
     "lookup": {
-     "english": "",
+     "english": "using computer technology; showing information as numbers",
      "chinese": "數字的"
     }
    },
@@ -723,12 +723,12 @@ window.FLASHCARD_UNITS = {
     "word": "digit",
     "answer": "digits",
     "pos": "n.",
-    "definition": "",
+    "definition": "any of the numbers from 0 to 9",
     "chinese": "數字",
     "sentence": "Please enter the last four __________ of your social security number.",
     "translation": "請輸入您社會保險號的最後四位數字。",
     "lookup": {
-     "english": "",
+     "english": "any of the numbers from 0 to 9",
      "chinese": "數字"
     }
    },
@@ -736,12 +736,12 @@ window.FLASHCARD_UNITS = {
     "word": "digital camera",
     "answer": "digital camera",
     "pos": "phr.",
-    "definition": "",
+    "definition": "a camera that stores pictures as electronic files, not on film",
     "chinese": "數碼相機",
     "sentence": "He captured stunning landscapes using his new __________.",
     "translation": "他用他的新數碼相機拍攝了令人驚嘆的風景。",
     "lookup": {
-     "english": "",
+     "english": "a camera that stores pictures as electronic files, not on film",
      "chinese": "數碼相機"
     }
    },
@@ -749,12 +749,12 @@ window.FLASHCARD_UNITS = {
     "word": "display",
     "answer": "display",
     "pos": "v.",
-    "definition": "",
+    "definition": "to show something so that people can see it",
     "chinese": "顯示",
     "sentence": "The exhibit will __________ rare artifacts from ancient times.",
     "translation": "展覽將展示來自古代的稀有文物。",
     "lookup": {
-     "english": "",
+     "english": "to show something so that people can see it",
      "chinese": "顯示"
     }
    },
@@ -762,12 +762,12 @@ window.FLASHCARD_UNITS = {
     "word": "display",
     "answer": "display",
     "pos": "n.",
-    "definition": "",
+    "definition": "a screen that shows information; an arrangement of things for people to look at",
     "chinese": "顯示器",
     "sentence": "The high-resolution __________ of the device provides clear and vibrant images.",
     "translation": "詣彩的高解析度顯示器提供清晰而鮮豔的圖像。",
     "lookup": {
-     "english": "",
+     "english": "a screen that shows information; an arrangement of things for people to look at",
      "chinese": "顯示器"
     }
    },
@@ -775,12 +775,12 @@ window.FLASHCARD_UNITS = {
     "word": "on display",
     "answer": "on display",
     "pos": "phr.",
-    "definition": "",
+    "definition": "put in a place where people can look at it",
     "chinese": "展示",
     "sentence": "The museum has a new collection __________ until the end of the month.",
     "translation": "博物館有一個新的系列展品將展出至月底。",
     "lookup": {
-     "english": "",
+     "english": "put in a place where people can look at it",
      "chinese": "展示"
     }
    },
@@ -788,12 +788,12 @@ window.FLASHCARD_UNITS = {
     "word": "exhibit",
     "answer": "exhibit",
     "pos": "v.",
-    "definition": "",
+    "definition": "to show works of art or objects in public",
     "chinese": "展出",
     "sentence": "The artist will __________ her latest paintings at the gallery.",
     "translation": "藝術家將在畫廊展出她的最新畫作。",
     "lookup": {
-     "english": "",
+     "english": "to show works of art or objects in public",
      "chinese": "展出"
     }
    },
@@ -801,12 +801,12 @@ window.FLASHCARD_UNITS = {
     "word": "exhibit",
     "answer": "exhibit",
     "pos": "n.",
-    "definition": "",
+    "definition": "an object that is shown in a museum or gallery",
     "chinese": "單一展品",
     "sentence": "The __________ includes rare manuscripts from the medieval period.",
     "translation": "展品包括中世紀時期的稀有手稿。",
     "lookup": {
-     "english": "",
+     "english": "an object that is shown in a museum or gallery",
      "chinese": "單一展品"
     }
    },
@@ -814,12 +814,12 @@ window.FLASHCARD_UNITS = {
     "word": "exhibit / exhibition",
     "answer": "exhibit",
     "pos": "n.",
-    "definition": "",
+    "definition": "a public show of works of art or interesting objects",
     "chinese": "展覽",
     "sentence": "The museum's new __________ on ancient Egypt has attracted thousands of visitors.",
     "translation": "博物館關於古埃及的新展覽吸引了成千上萬的遊客。",
     "lookup": {
-     "english": "",
+     "english": "a public show of works of art or interesting objects",
      "chinese": "展覽"
     }
    },
@@ -827,12 +827,12 @@ window.FLASHCARD_UNITS = {
     "word": "development",
     "answer": "development",
     "pos": "n.",
-    "definition": "",
+    "definition": "the process of growing, changing or becoming more advanced",
     "chinese": "發展",
     "sentence": "The __________ of new infrastructure has significantly improved the city's transport system.",
     "translation": "新基礎設施的發展顯著改善了城市的交通系統。",
     "lookup": {
-     "english": "",
+     "english": "the process of growing, changing or becoming more advanced",
      "chinese": "發展"
     }
    },
@@ -840,12 +840,12 @@ window.FLASHCARD_UNITS = {
     "word": "develop",
     "answer": "develop",
     "pos": "v.",
-    "definition": "",
+    "definition": "to grow or change into something bigger or more advanced; to create something new",
     "chinese": "發展",
     "sentence": "Researchers are working to __________ a new vaccine for the disease.",
     "translation": "研究人員正在努力研發這種疾病的新疫苗。",
     "lookup": {
-     "english": "",
+     "english": "to grow or change into something bigger or more advanced; to create something new",
      "chinese": "發展"
     }
    },
@@ -853,12 +853,12 @@ window.FLASHCARD_UNITS = {
     "word": "develop the film",
     "answer": "develop the film",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to treat film with chemicals so that the photographs can be seen",
     "chinese": "衝洗膠片",
     "sentence": "In the darkroom, he learned how to __________ manually.",
     "translation": "在暗房裡，他學會了如何手動衝洗膠片。",
     "lookup": {
-     "english": "",
+     "english": "to treat film with chemicals so that the photographs can be seen",
      "chinese": "衝洗膠片"
     }
    },
@@ -866,12 +866,12 @@ window.FLASHCARD_UNITS = {
     "word": "developer (of an app)",
     "answer": "developer of the app",
     "pos": "phr.",
-    "definition": "",
+    "definition": "a person or company that designs and creates a computer program",
     "chinese": "應用程式開發者",
     "sentence": "The __________ introduced several new features in the latest update.",
     "translation": "應用程式開發者在最新更新中引入了幾項新功能。",
     "lookup": {
-     "english": "",
+     "english": "a person or company that designs and creates a computer program",
      "chinese": "應用程式開發者"
     }
    },
@@ -879,12 +879,12 @@ window.FLASHCARD_UNITS = {
     "word": "developing country",
     "answer": "developing countries",
     "pos": "phr.",
-    "definition": "",
+    "definition": "a poorer country that is building up its industry and economy",
     "chinese": "發展中國家",
     "sentence": "Many __________ face challenges in achieving sustainable economic growth.",
     "translation": "許多發展中國家面臨實現可持續經濟增長的挑戰。",
     "lookup": {
-     "english": "",
+     "english": "a poorer country that is building up its industry and economy",
      "chinese": "發展中國家"
     }
    },
@@ -892,12 +892,12 @@ window.FLASHCARD_UNITS = {
     "word": "developed country",
     "answer": "Developed countries",
     "pos": "phr.",
-    "definition": "",
+    "definition": "a rich country with many industries and a high standard of living",
     "chinese": "已開發國家",
     "sentence": "__________ often have more resources to invest in healthcare and education.",
     "translation": "發達國家通常有更多資源投入到醫療保健和教育中。",
     "lookup": {
-     "english": "",
+     "english": "a rich country with many industries and a high standard of living",
      "chinese": "已開發國家"
     }
    },
@@ -905,12 +905,12 @@ window.FLASHCARD_UNITS = {
     "word": "screen",
     "answer": "screen",
     "pos": "n.",
-    "definition": "",
+    "definition": "the flat surface on a phone, computer or television where pictures and words appear",
     "chinese": "屏幕",
     "sentence": "The latest model of the phone has a larger and clearer __________.",
     "translation": "手機的最新型號擁有更大更清晰的屏幕。",
     "lookup": {
-     "english": "",
+     "english": "the flat surface on a phone, computer or television where pictures and words appear",
      "chinese": "屏幕"
     }
    },
@@ -918,12 +918,12 @@ window.FLASHCARD_UNITS = {
     "word": "screen",
     "answer": "screen",
     "pos": "v.",
-    "definition": "",
+    "definition": "to check people or things to decide if they are suitable",
     "chinese": "篩選",
     "sentence": "The committee will __________ all candidates before making a final decision.",
     "translation": "委員會將在做出最終決定之前篩選所有候選人。",
     "lookup": {
-     "english": "",
+     "english": "to check people or things to decide if they are suitable",
      "chinese": "篩選"
     }
    },
@@ -931,12 +931,12 @@ window.FLASHCARD_UNITS = {
     "word": "screening",
     "answer": "screening",
     "pos": "n.",
-    "definition": "",
+    "definition": "a test to check people for a disease",
     "chinese": "篩查",
     "sentence": "The hospital offers free health __________ for the community.",
     "translation": "醫院為社區提供免費健康篩查。",
     "lookup": {
-     "english": "",
+     "english": "a test to check people for a disease",
      "chinese": "篩查"
     }
    },
@@ -944,12 +944,12 @@ window.FLASHCARD_UNITS = {
     "word": "the big screen",
     "answer": "the big screen",
     "pos": "phr.",
-    "definition": "",
+    "definition": "the cinema; films shown in movie theaters",
     "chinese": "大銀幕",
     "sentence": "The movie is set to debut on __________ next month.",
     "translation": "該電影計劃下個月在大銀幕上首映。",
     "lookup": {
-     "english": "",
+     "english": "the cinema; films shown in movie theaters",
      "chinese": "大銀幕"
     }
    },
@@ -957,12 +957,12 @@ window.FLASHCARD_UNITS = {
     "word": "marriage",
     "answer": "marriage",
     "pos": "n.",
-    "definition": "",
+    "definition": "the legal relationship between two people who are husband and wife",
     "chinese": "婚姻",
     "sentence": "Their __________ was a celebration of love and commitment.",
     "translation": "他們的婚姻是對愛和承諾的慶祝。",
     "lookup": {
-     "english": "",
+     "english": "the legal relationship between two people who are husband and wife",
      "chinese": "婚姻"
     }
    },
@@ -970,12 +970,12 @@ window.FLASHCARD_UNITS = {
     "word": "marriage / mixture",
     "answer": "marriage",
     "pos": "n.",
-    "definition": "",
+    "definition": "a close combination of two different things",
     "chinese": "結合",
     "sentence": "The dish is a __________ of various flavors that blend harmoniously together.",
     "translation": "這道菜是各種口味的結合，融合得非常和諧。",
     "lookup": {
-     "english": "",
+     "english": "a close combination of two different things",
      "chinese": "結合"
     }
    },
@@ -983,12 +983,12 @@ window.FLASHCARD_UNITS = {
     "word": "marry",
     "answer": "marry",
     "pos": "v.",
-    "definition": "",
+    "definition": "to become someone's husband or wife",
     "chinese": "結婚",
     "sentence": "They plan to __________ in a small wedding ceremony with close family and friends.",
     "translation": "他們計劃與親密的家人和朋友進行一個小型的儀式結婚。",
     "lookup": {
-     "english": "",
+     "english": "to become someone's husband or wife",
      "chinese": "結婚"
     }
    },
@@ -996,12 +996,12 @@ window.FLASHCARD_UNITS = {
     "word": "married",
     "answer": "married",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having a husband or wife",
     "chinese": "已婚的",
     "sentence": "The __________ couple moved into their new home last week after their wedding and honeymoon.",
     "translation": "這對已婚夫婦上週搬進了他們的新家，在他們婚禮和蜜月之後。",
     "lookup": {
-     "english": "",
+     "english": "having a husband or wife",
      "chinese": "已婚的"
     }
    },
@@ -1009,12 +1009,12 @@ window.FLASHCARD_UNITS = {
     "word": "revolutionary",
     "answer": "revolutionary",
     "pos": "adj.",
-    "definition": "",
+    "definition": "involving a great or complete change",
     "chinese": "革命性的",
     "sentence": "The scientist's __________ discovery changed the field of medicine.",
     "translation": "這位科學家的革命性發現改變了醫學領域。",
     "lookup": {
-     "english": "",
+     "english": "involving a great or complete change",
      "chinese": "革命性的"
     }
    },
@@ -1022,12 +1022,12 @@ window.FLASHCARD_UNITS = {
     "word": "revolution",
     "answer": "revolution",
     "pos": "n.",
-    "definition": "",
+    "definition": "a great change in the way people live, work or think; an attempt to change a government by force",
     "chinese": "革命",
     "sentence": "The industrial __________ had a profound impact on society and the economy.",
     "translation": "工業革命對社會和經濟產生了深遠的影響。",
     "lookup": {
-     "english": "",
+     "english": "a great change in the way people live, work or think; an attempt to change a government by force",
      "chinese": "革命"
     }
    },
@@ -1035,12 +1035,12 @@ window.FLASHCARD_UNITS = {
     "word": "revolve",
     "answer": "revolve",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move in a circle around a central point",
     "chinese": "旋轉",
     "sentence": "The planets __________ around the sun in an elliptical orbit.",
     "translation": "行星沿著橢圓軌道繞太陽旋轉。",
     "lookup": {
-     "english": "",
+     "english": "to move in a circle around a central point",
      "chinese": "旋轉"
     }
    },
@@ -1048,12 +1048,12 @@ window.FLASHCARD_UNITS = {
     "word": "era / period of time",
     "answer": "era",
     "pos": "n.",
-    "definition": "",
+    "definition": "a period of time in history that is known for a particular event or quality",
     "chinese": "時代",
     "sentence": "The discovery marked the beginning of a new __________ in space exploration.",
     "translation": "這一發現標誌著太空探索新時代的開始。",
     "lookup": {
-     "english": "",
+     "english": "a period of time in history that is known for a particular event or quality",
      "chinese": "時代"
     }
    },
@@ -1061,12 +1061,12 @@ window.FLASHCARD_UNITS = {
     "word": "technology",
     "answer": "technology",
     "pos": "n.",
-    "definition": "",
+    "definition": "the use of scientific knowledge to make machines and solve practical problems",
     "chinese": "技術",
     "sentence": "Advances in __________ have greatly improved communication worldwide.",
     "translation": "技術的進步大大改善了全球通信。",
     "lookup": {
-     "english": "",
+     "english": "the use of scientific knowledge to make machines and solve practical problems",
      "chinese": "技術"
     }
    },
@@ -1074,12 +1074,12 @@ window.FLASHCARD_UNITS = {
     "word": "technological",
     "answer": "technological",
     "pos": "adj.",
-    "definition": "",
+    "definition": "relating to technology",
     "chinese": "技術的",
     "sentence": "The __________ advancements have made smart homes more accessible.",
     "translation": "技術進步使智能家居更加普及。",
     "lookup": {
-     "english": "",
+     "english": "relating to technology",
      "chinese": "技術的"
     }
    },
@@ -1087,12 +1087,12 @@ window.FLASHCARD_UNITS = {
     "word": "launch a product line / single/ album/ MV",
     "answer": "launch its newest beauty and skin care product line",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make a new product, song or film available to the public for the first time",
     "chinese": "發行產品/單曲/專輯/影片",
     "sentence": "The cosmetics company is set to __________ next week.",
     "translation": "該美妝公司計劃於下週推出其最新美容與護膚產品系列。",
     "lookup": {
-     "english": "",
+     "english": "to make a new product, song or film available to the public for the first time",
      "chinese": "發行產品/單曲/專輯/影片"
     }
    },
@@ -1100,12 +1100,12 @@ window.FLASHCARD_UNITS = {
     "word": "launch a campaign/ movement/ program",
     "answer": "launch a campaign",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to start an organized series of activities to achieve an aim",
     "chinese": "發起活動",
     "sentence": "The environmental organization will __________ to raise public awareness of environmental conservation and sustainable development.",
     "translation": "該環保組織將發起一項活動，以提高人們對環境保護以及永續發展的意識。",
     "lookup": {
-     "english": "",
+     "english": "to start an organized series of activities to achieve an aim",
      "chinese": "發起活動"
     }
    },
@@ -1113,12 +1113,12 @@ window.FLASHCARD_UNITS = {
     "word": "launch a missile/ satellite",
     "answer": "launch a missile",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to send a rocket or weapon into the air or into space",
     "chinese": "發射導彈",
     "sentence": "The military conducted a test to __________ from the new defense system.",
     "translation": "軍方進行了一項測試，從新的防禦系統發射導彈。",
     "lookup": {
-     "english": "",
+     "english": "to send a rocket or weapon into the air or into space",
      "chinese": "發射導彈"
     }
    },
@@ -1126,12 +1126,12 @@ window.FLASHCARD_UNITS = {
     "word": "launch",
     "answer": "launch",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of starting something new or of sending a rocket into space",
     "chinese": "啟動，發射",
     "sentence": "The __________ of the test satellite was watched by millions around the world in real time.",
     "translation": "數百萬人在全球範圍內同步觀看了衛星的發射。",
     "lookup": {
-     "english": "",
+     "english": "the act of starting something new or of sending a rocket into space",
      "chinese": "啟動，發射"
     }
    }
@@ -3141,4 +3141,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"arrival":["","到達"],"century":["","世紀"],"event":["","事件"],"release":["","釋放"],"mobile":["","移動的"],"mobility":["","移動性"],"automobile":["","汽車"],"attract":["","吸引"],"attraction":["","吸引力"],"attractive":["","有吸引力的"],"appealing":["","吸引人的"],"folded":["","折疊"],"fold":["","折疊"],"folder":["","文件夾"],"foldable":["","可摺疊的"],"access":["","存取"],"accessible":["","易接近的"],"predictable":["","可預測的"],"available":["","可用的"],"model":["","模型"],"portable":["","便攜的"],"portability":["","便攜性"],"importable":["","可進口的"],"mass":["","大量的"],"massive":["","巨大的"],"production":["","生產"],"produce":["","生產"],"productive":["","生產力強的"],"productivity":["","生產力"],"product":["","產品"],"producer":["","生產者"],"manufacture":["","製造"],"manufactures":["","製造"],"manufacturer":["","製造商"],"manufacturing":["","製造業"],"digital":["","數字的"],"digits":["","數字"],"digit":["","數字"],"display":["","顯示"],"exhibit":["","展出"],"development":["","發展"],"develop":["","發展"],"screen":["","屏幕"],"screening":["","篩查"],"marriage":["","婚姻"],"marry":["","結婚"],"married":["","已婚的"],"revolutionary":["","革命性的"],"revolution":["","革命"],"revolve":["","旋轉"],"era":["","時代"],"technology":["","技術"],"technological":["","技術的"],"launch":["","啟動，發射"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"arrival":["the act of coming to or reaching a place","到達"],"century":["a period of one hundred years","世紀"],"event":["something that happens, especially something important or planned","事件"],"release":["the act of letting someone or something go free or making information known","釋放"],"mobile":["able to move or be moved easily","移動的"],"mobility":["the ability to move or travel easily from place to place","移動性"],"automobile":["a car","汽車"],"attract":["to make people or animals interested and want to come closer","吸引"],"attraction":["something interesting that people want to see or do","吸引力"],"attractive":["pleasant to look at; interesting enough to want","有吸引力的"],"appealing":["attractive or interesting","吸引人的"],"fold":["to bend paper or cloth so that one part lies on top of another","折疊"],"folded":["to bend paper or cloth so that one part lies on top of another","折疊"],"folder":["a cardboard or plastic cover for keeping papers together; a place for storing files on a computer","文件夾"],"foldable":["that can be bent or closed to make it smaller","可摺疊的"],"access":["to open or get information, especially on a computer","存取"],"accessible":["easy to reach, enter or use","易接近的"],"predictable":["happening or behaving in a way that you expect","可預測的"],"available":["able to be used or obtained","可用的"],"model":["a small copy of a building, vehicle or other object","模型"],"portable":["easy to carry or move","便攜的"],"portability":["the quality of being easy to carry or move","便攜性"],"importable":["that can be brought into a country from abroad","可進口的"],"mass":["involving or affecting a large number of people or things","大量的"],"massive":["very large, heavy or powerful","巨大的"],"production":["the process of making or growing things in large amounts","生產"],"produce":["to make or grow something","生產"],"productive":["producing a lot; getting good results","生產力強的"],"productivity":["the rate at which goods are produced or work is done","生產力"],"product":["something that is made to be sold","產品"],"producer":["a person or company that makes or grows something; a person in charge of making a film","生產者"],"manufacture":["to make goods in large numbers in a factory","製造"],"manufactures":["to make goods in large numbers in a factory","製造"],"manufacturer":["a company that makes goods in large numbers","製造商"],"manufacturing":["the business of making goods in factories","製造業"],"digital":["using computer technology; showing information as numbers","數字的"],"digits":["any of the numbers from 0 to 9","數字"],"digit":["any of the numbers from 0 to 9","數字"],"display":["to show something so that people can see it","顯示"],"exhibit":["to show works of art or objects in public","展出"],"development":["the process of growing, changing or becoming more advanced","發展"],"develop":["to grow or change into something bigger or more advanced; to create something new","發展"],"screen":["the flat surface on a phone, computer or television where pictures and words appear","屏幕"],"screening":["a test to check people for a disease","篩查"],"marriage":["the legal relationship between two people who are husband and wife","婚姻"],"marry":["to become someone's husband or wife","結婚"],"married":["having a husband or wife","已婚的"],"revolutionary":["involving a great or complete change","革命性的"],"revolution":["a great change in the way people live, work or think; an attempt to change a government by force","革命"],"revolve":["to move in a circle around a central point","旋轉"],"era":["a period of time in history that is known for a particular event or quality","時代"],"technology":["the use of scientific knowledge to make machines and solve practical problems","技術"],"technological":["relating to technology","技術的"],"launch":["the act of starting something new or of sending a rocket into space","啟動，發射"]});

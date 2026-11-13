@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "perfume",
     "answer": "perfume",
     "pos": "n.",
-    "definition": "",
+    "definition": "a liquid with a pleasant smell that you put on your skin",
     "chinese": "香水",
     "sentence": "She loves the scent of roses in her __________ collection.",
     "translation": "她喜歡她的香水收藏中玫瑰的香味。",
     "lookup": {
-     "english": "",
+     "english": "a liquid with a pleasant smell that you put on your skin",
      "chinese": "香水"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "develop",
     "answer": "develop",
     "pos": "v.",
-    "definition": "",
+    "definition": "to grow or change into something bigger or more advanced; to create something new",
     "chinese": "使發展;開發;形成",
     "sentence": "The company plans to __________ new software next year.",
     "translation": "公司計劃明年開發新軟件。",
     "lookup": {
-     "english": "",
+     "english": "to grow or change into something bigger or more advanced; to create something new",
      "chinese": "使發展;開發;形成"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "development",
     "answer": "development",
     "pos": "n.",
-    "definition": "",
+    "definition": "the process of growing, changing or becoming more advanced",
     "chinese": "發展",
     "sentence": "The city's rapid __________ has led to increased employment.",
     "translation": "這座城市的快速發展導致了就業增加。",
     "lookup": {
-     "english": "",
+     "english": "the process of growing, changing or becoming more advanced",
      "chinese": "發展"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "developing",
     "answer": "developing",
     "pos": "adj.",
-    "definition": "",
+    "definition": "growing or becoming more advanced",
     "chinese": "發展中的",
     "sentence": "Many countries in Africa are __________ nations.",
     "translation": "非洲的許多國家是發展中國家。",
     "lookup": {
-     "english": "",
+     "english": "growing or becoming more advanced",
      "chinese": "發展中的"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "pleasant",
     "answer": "pleasant",
     "pos": "adj.",
-    "definition": "",
+    "definition": "enjoyable, nice or friendly",
     "chinese": "令人愉快的",
     "sentence": "It was a __________ surprise to see her at the party.",
     "translation": "在派對上見到她真是一個愉快的驚喜。",
     "lookup": {
-     "english": "",
+     "english": "enjoyable, nice or friendly",
      "chinese": "令人愉快的"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "please",
     "answer": "please",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make someone happy or satisfied",
     "chinese": "使高興;滿意",
     "sentence": "His efforts to __________ his boss were successful.",
     "translation": "他設法使老板滿意的努力是成功的。",
     "lookup": {
-     "english": "",
+     "english": "to make someone happy or satisfied",
      "chinese": "使高興;滿意"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "unpleasant",
     "answer": "unpleasant",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not enjoyable; not nice or friendly",
     "chinese": "令人不愉快的",
     "sentence": "The weather turned __________ just as we started our picnic.",
     "translation": "我們剛開始野餐時天氣變得不愉快。",
     "lookup": {
-     "english": "",
+     "english": "not enjoyable; not nice or friendly",
      "chinese": "令人不愉快的"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "expand",
     "answer": "expand",
     "pos": "v.",
-    "definition": "",
+    "definition": "to become or make something larger in size, number or importance",
     "chinese": "擴大;增加;發展",
     "sentence": "The company plans to __________ its operations overseas.",
     "translation": "公司計劃擴展其海外業務。",
     "lookup": {
-     "english": "",
+     "english": "to become or make something larger in size, number or importance",
      "chinese": "擴大;增加;發展"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "expand/widen/broaden sb.'s horizons",
     "answer": "broaden",
     "pos": "n.",
-    "definition": "",
+    "definition": "to help someone learn about and experience more new things",
     "chinese": "拓展視野;廣見聞",
     "sentence": "Traveling to new places can __________ your horizons.",
     "translation": "到新地方旅行可以拓展你的視野。",
     "lookup": {
-     "english": "",
+     "english": "to help someone learn about and experience more new things",
      "chinese": "拓展視野;廣見聞"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "expansion",
     "answer": "expansion",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of becoming larger in size, number or importance",
     "chinese": "擴展",
     "sentence": "The rapid __________ of the city led to infrastructure improvements.",
     "translation": "城市的快速擴展促使基礎設施改善。",
     "lookup": {
-     "english": "",
+     "english": "the act of becoming larger in size, number or importance",
      "chinese": "擴展"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "expansive",
     "answer": "expansive",
     "pos": "adj.",
-    "definition": "",
+    "definition": "covering a wide area; growing larger",
     "chinese": "擴張的",
     "sentence": "Her __________ gestures showed her enthusiasm.",
     "translation": "她的大手勢顯示出她的熱情。",
     "lookup": {
-     "english": "",
+     "english": "covering a wide area; growing larger",
      "chinese": "擴張的"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "possibility",
     "answer": "possibility",
     "pos": "n.",
-    "definition": "",
+    "definition": "a chance that something may happen or be true",
     "chinese": "可能性;可能",
     "sentence": "There's a strong __________ of rain later today.",
     "translation": "今天晚些時候很有可能會下雨。",
     "lookup": {
-     "english": "",
+     "english": "a chance that something may happen or be true",
      "chinese": "可能性;可能"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "possible",
     "answer": "possible",
     "pos": "adj.",
-    "definition": "",
+    "definition": "that can happen, be done or be true",
     "chinese": "可能的",
     "sentence": "Is it __________ to finish this project by Friday?",
     "translation": "這個項目能在星期五完成嗎？",
     "lookup": {
-     "english": "",
+     "english": "that can happen, be done or be true",
      "chinese": "可能的"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "entry",
     "answer": "entry",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act or right of going into a place or joining a competition",
     "chinese": "進入權;參加",
     "sentence": "Admission is free upon __________ to the museum.",
     "translation": "進入博物館免費。",
     "lookup": {
-     "english": "",
+     "english": "the act or right of going into a place or joining a competition",
      "chinese": "進入權;參加"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "gain entry into",
     "answer": "gain entry into",
     "pos": "n.",
-    "definition": "",
+    "definition": "to succeed in getting into a place",
     "chinese": "進入",
     "sentence": "He managed to __________ the exclusive club.",
     "translation": "他成功進入了這個專屬俱樂部。",
     "lookup": {
-     "english": "",
+     "english": "to succeed in getting into a place",
      "chinese": "進入"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "spray",
     "answer": "sprays",
     "pos": "v.",
-    "definition": "",
+    "definition": "to send liquid through the air in very small drops",
     "chinese": "噴灑;噴劑",
     "sentence": "She __________ perfume on her neck before going out.",
     "translation": "她在出門前在脖子上噴了香水。",
     "lookup": {
-     "english": "",
+     "english": "to send liquid through the air in very small drops",
      "chinese": "噴灑;噴劑"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "blend",
     "answer": "Blend",
     "pos": "v.",
-    "definition": "",
+    "definition": "to mix different things together so they become one",
     "chinese": "(使)混合;融合",
     "sentence": "__________ the ingredients thoroughly for a smooth texture.",
     "translation": "將成分充分混合以獲得光滑的質地。",
     "lookup": {
-     "english": "",
+     "english": "to mix different things together so they become one",
      "chinese": "(使)混合;融合"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "blender",
     "answer": "blender",
     "pos": "n.",
-    "definition": "",
+    "definition": "an electric machine for mixing soft food or liquids",
     "chinese": "攪拌機",
     "sentence": "She used a __________ to make a fruit smoothie.",
     "translation": "她用攪拌機做了果汁冰沙。",
     "lookup": {
-     "english": "",
+     "english": "an electric machine for mixing soft food or liquids",
      "chinese": "攪拌機"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "outcome",
     "answer": "outcome",
     "pos": "n.",
-    "definition": "",
+    "definition": "the result of an action or event",
     "chinese": "結果",
     "sentence": "The __________ of the negotiations was favorable for both parties.",
     "translation": "談判的結果對雙方都是有利的。",
     "lookup": {
-     "english": "",
+     "english": "the result of an action or event",
      "chinese": "結果"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "concept",
     "answer": "concept",
     "pos": "n.",
-    "definition": "",
+    "definition": "an idea of what something is or how it works",
     "chinese": "觀念;概念",
     "sentence": "Understanding the __________ of sustainability is crucial.",
     "translation": "理解可持續發展的概念是至關重要的。",
     "lookup": {
-     "english": "",
+     "english": "an idea of what something is or how it works",
      "chinese": "觀念;概念"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "conception",
     "answer": "conception",
     "pos": "n.",
-    "definition": "",
+    "definition": "an idea or understanding of what something is like",
     "chinese": "概念;構想;想法",
     "sentence": "His __________ of justice influenced his decisions.",
     "translation": "他對正義的概念影響了他的決定。",
     "lookup": {
-     "english": "",
+     "english": "an idea or understanding of what something is like",
      "chinese": "概念;構想;想法"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "misconception",
     "answer": "misconception",
     "pos": "n.",
-    "definition": "",
+    "definition": "a belief or idea that is wrong because it is based on wrong information",
     "chinese": "錯誤觀念;誤解",
     "sentence": "There's a common __________ that cats always land on their feet.",
     "translation": "人們普遍誤解貓總是能落在腳上。",
     "lookup": {
-     "english": "",
+     "english": "a belief or idea that is wrong because it is based on wrong information",
      "chinese": "錯誤觀念;誤解"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "shift",
     "answer": "shift",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move or change from one position, direction or opinion to another",
     "chinese": "改變;轉移",
     "sentence": "The __________ in public opinion was noticeable after the scandal.",
     "translation": "丑聞後公眾意見的轉變是顯著的。",
     "lookup": {
-     "english": "",
+     "english": "to move or change from one position, direction or opinion to another",
      "chinese": "改變;轉移"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "conventional",
     "answer": "conventional",
     "pos": "adj.",
-    "definition": "",
+    "definition": "following what is traditional or usual",
     "chinese": "傳統上的;常規的",
     "sentence": "Their wedding was very __________, with all the traditional rituals.",
     "translation": "他們的婚禮非常傳統，包括所有傳統儀式。",
     "lookup": {
-     "english": "",
+     "english": "following what is traditional or usual",
      "chinese": "傳統上的;常規的"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "unconventional",
     "answer": "unconventional",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very different from what is traditional or usual",
     "chinese": "不因循守舊的",
     "sentence": "Her __________ approach to solving problems impressed her colleagues.",
     "translation": "她不按常規解決問題的方法給同事留下了深刻的印象。",
     "lookup": {
-     "english": "",
+     "english": "very different from what is traditional or usual",
      "chinese": "不因循守舊的"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "convention",
     "answer": "convention",
     "pos": "n.",
-    "definition": "",
+    "definition": "a way of behaving that most people in a society accept as normal",
     "chinese": "慣例",
     "sentence": "It's a __________ to shake hands when you meet someone new.",
     "translation": "與陌生人見面時握手是慣例。",
     "lookup": {
-     "english": "",
+     "english": "a way of behaving that most people in a society accept as normal",
      "chinese": "慣例"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "overcome",
     "answer": "overcome",
     "pos": "v.",
-    "definition": "",
+    "definition": "to succeed in dealing with or controlling a problem or feeling",
     "chinese": "戰勝;克服",
     "sentence": "She managed to __________ her fear of public speaking.",
     "translation": "她成功地克服了對公開演講的恐懼。",
     "lookup": {
-     "english": "",
+     "english": "to succeed in dealing with or controlling a problem or feeling",
      "chinese": "戰勝;克服"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "be overcome with",
     "answer": "overcome with",
     "pos": "n.",
-    "definition": "",
+    "definition": "to be so strongly affected by a feeling that you cannot act normally",
     "chinese": "被...所克服",
     "sentence": "He was __________ emotion when he won the award.",
     "translation": "當他獲得獎項時，他充滿了情感。",
     "lookup": {
-     "english": "",
+     "english": "to be so strongly affected by a feeling that you cannot act normally",
      "chinese": "被...所克服"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "boldness",
     "answer": "boldness",
     "pos": "n.",
-    "definition": "",
+    "definition": "the quality of being brave and willing to take risks",
     "chinese": "勇敢;大膽",
     "sentence": "The soldier showed great __________ in the face of danger.",
     "translation": "士兵在危險面前展示了偉大的勇氣。",
     "lookup": {
-     "english": "",
+     "english": "the quality of being brave and willing to take risks",
      "chinese": "勇敢;大膽"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "bold",
     "answer": "bold",
     "pos": "adj.",
-    "definition": "",
+    "definition": "brave and confident; easy to see or notice",
     "chinese": "醒目的;大膽的",
     "sentence": "Her __________ decision to quit her job surprised everyone.",
     "translation": "她大膽地決定辭去工作讓大家都感到驚訝。",
     "lookup": {
-     "english": "",
+     "english": "brave and confident; easy to see or notice",
      "chinese": "醒目的;大膽的"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "favorable",
     "answer": "favorable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "showing approval; good for someone or something",
     "chinese": "贊成的;稱的;肯定的",
     "sentence": "The weather conditions were __________ for sailing.",
     "translation": "天氣條件對航行是有利的。",
     "lookup": {
-     "english": "",
+     "english": "showing approval; good for someone or something",
      "chinese": "贊成的;稱的;肯定的"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "unfavorable",
     "answer": "unfavorable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "showing disapproval; not good for someone or something",
     "chinese": "令人不快的;不利的",
     "sentence": "The __________ outcome of the negotiations disappointed us.",
     "translation": "談判的不利結果讓我們感到失望。",
     "lookup": {
-     "english": "",
+     "english": "showing disapproval; not good for someone or something",
      "chinese": "令人不快的;不利的"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "review",
     "answer": "review",
     "pos": "v.",
-    "definition": "",
+    "definition": "to write or give your opinion of a book, film or product",
     "chinese": "評價;評論",
     "sentence": "She wrote a positive __________ of the movie for the newspaper.",
     "translation": "她為報紙寫了一篇對電影的正面評論。",
     "lookup": {
-     "english": "",
+     "english": "to write or give your opinion of a book, film or product",
      "chinese": "評價;評論"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "rumor",
     "answer": "spread rumors",
     "pos": "v.",
-    "definition": "",
+    "definition": "to spread a story that may not be true",
     "chinese": "謠傳;傳言",
     "sentence": "Don't __________ about others; it can be harmful.",
     "translation": "別輕易傳言他人，這可能會有害。",
     "lookup": {
-     "english": "",
+     "english": "to spread a story that may not be true",
      "chinese": "謠傳;傳言"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "deliver",
     "answer": "delivered",
     "pos": "v.",
-    "definition": "",
+    "definition": "to take goods or letters to a place; to give a speech",
     "chinese": "提供;運送;投遞",
     "sentence": "He __________ a heartfelt apology to his friend.",
     "translation": "他向朋友誠摯地道歉。",
     "lookup": {
-     "english": "",
+     "english": "to take goods or letters to a place; to give a speech",
      "chinese": "提供;運送;投遞"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "deliver a speech",
     "answer": "delivering a speech",
     "pos": "n.",
-    "definition": "",
+    "definition": "to give a formal talk to an audience",
     "chinese": "發表演講",
     "sentence": "She was nervous about __________ at the conference.",
     "translation": "她對在會議上發表演講感到緊張。",
     "lookup": {
-     "english": "",
+     "english": "to give a formal talk to an audience",
      "chinese": "發表演講"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "delivery",
     "answer": "delivery",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of taking goods or letters to a person or place",
     "chinese": "遞送;運送",
     "sentence": "The courier service provides fast __________ of packages.",
     "translation": "快遞服務提供快速的包裹遞送。",
     "lookup": {
-     "english": "",
+     "english": "the act of taking goods or letters to a person or place",
      "chinese": "遞送;運送"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "molecule",
     "answer": "molecule",
     "pos": "n.",
-    "definition": "",
+    "definition": "the smallest unit of a substance, made of two or more atoms joined together",
     "chinese": "分子",
     "sentence": "A water __________ is made of two hydrogen atoms and one oxygen atom.",
     "translation": "一個水分子由兩個氫原子和一個氧原子組成。",
     "lookup": {
-     "english": "",
+     "english": "the smallest unit of a substance, made of two or more atoms joined together",
      "chinese": "分子"
     }
    },
@@ -502,12 +502,12 @@ window.FLASHCARD_UNITS = {
     "word": "pheromone",
     "answer": "pheromones",
     "pos": "n.",
-    "definition": "",
+    "definition": "a chemical that an animal produces to send signals to others of its kind",
     "chinese": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)",
     "sentence": "Ants use __________ to communicate with each other.",
     "translation": "螞蟻使用費洛蒙彼此溝通。",
     "lookup": {
-     "english": "",
+     "english": "a chemical that an animal produces to send signals to others of its kind",
      "chinese": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)"
     }
    },
@@ -515,12 +515,12 @@ window.FLASHCARD_UNITS = {
     "word": "acclaim",
     "answer": "acclaimed",
     "pos": "v.",
-    "definition": "",
+    "definition": "to praise someone or something publicly",
     "chinese": "為...歡呼;稱讚",
     "sentence": "The actor was __________ for his outstanding performance in the play.",
     "translation": "這位演員因其在劇中出色的表演而受到稱讚。",
     "lookup": {
-     "english": "",
+     "english": "to praise someone or something publicly",
      "chinese": "為...歡呼;稱讚"
     }
    }
@@ -1449,4 +1449,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"perfume":["","香水"],"develop":["","使發展;開發;形成"],"development":["","發展"],"developing":["","發展中的"],"pleasant":["","令人愉快的"],"please":["","使高興;滿意"],"unpleasant":["","令人不愉快的"],"expand":["","擴大;增加;發展"],"broaden":["","拓展視野;廣見聞"],"expansion":["","擴展"],"expansive":["","擴張的"],"possibility":["","可能性;可能"],"possible":["","可能的"],"entry":["","進入權;參加"],"spray":["","噴灑;噴劑"],"sprays":["","噴灑;噴劑"],"blend":["","(使)混合;融合"],"blender":["","攪拌機"],"outcome":["","結果"],"concept":["","觀念;概念"],"conception":["","概念;構想;想法"],"misconception":["","錯誤觀念;誤解"],"shift":["","改變;轉移"],"conventional":["","傳統上的;常規的"],"unconventional":["","不因循守舊的"],"convention":["","慣例"],"overcome":["","戰勝;克服"],"boldness":["","勇敢;大膽"],"bold":["","醒目的;大膽的"],"favorable":["","贊成的;稱的;肯定的"],"unfavorable":["","令人不快的;不利的"],"review":["","評價;評論"],"rumor":["","謠傳;傳言"],"deliver":["","提供;運送;投遞"],"delivered":["","提供;運送;投遞"],"delivery":["","遞送;運送"],"molecule":["","分子"],"pheromones":["","費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)"],"pheromone":["","費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)"],"acclaim":["","為...歡呼;稱讚"],"acclaimed":["","為...歡呼;稱讚"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"perfume":["a liquid with a pleasant smell that you put on your skin","香水"],"develop":["to grow or change into something bigger or more advanced; to create something new","使發展;開發;形成"],"development":["the process of growing, changing or becoming more advanced","發展"],"developing":["growing or becoming more advanced","發展中的"],"pleasant":["enjoyable, nice or friendly","令人愉快的"],"please":["to make someone happy or satisfied","使高興;滿意"],"unpleasant":["not enjoyable; not nice or friendly","令人不愉快的"],"expand":["to become or make something larger in size, number or importance","擴大;增加;發展"],"broaden":["to help someone learn about and experience more new things","拓展視野;廣見聞"],"expansion":["the act of becoming larger in size, number or importance","擴展"],"expansive":["covering a wide area; growing larger","擴張的"],"possibility":["a chance that something may happen or be true","可能性;可能"],"possible":["that can happen, be done or be true","可能的"],"entry":["the act or right of going into a place or joining a competition","進入權;參加"],"sprays":["to send liquid through the air in very small drops","噴灑;噴劑"],"spray":["to send liquid through the air in very small drops","噴灑;噴劑"],"blend":["to mix different things together so they become one","(使)混合;融合"],"blender":["an electric machine for mixing soft food or liquids","攪拌機"],"outcome":["the result of an action or event","結果"],"concept":["an idea of what something is or how it works","觀念;概念"],"conception":["an idea or understanding of what something is like","概念;構想;想法"],"misconception":["a belief or idea that is wrong because it is based on wrong information","錯誤觀念;誤解"],"shift":["to move or change from one position, direction or opinion to another","改變;轉移"],"conventional":["following what is traditional or usual","傳統上的;常規的"],"unconventional":["very different from what is traditional or usual","不因循守舊的"],"convention":["a way of behaving that most people in a society accept as normal","慣例"],"overcome":["to succeed in dealing with or controlling a problem or feeling","戰勝;克服"],"boldness":["the quality of being brave and willing to take risks","勇敢;大膽"],"bold":["brave and confident; easy to see or notice","醒目的;大膽的"],"favorable":["showing approval; good for someone or something","贊成的;稱的;肯定的"],"unfavorable":["showing disapproval; not good for someone or something","令人不快的;不利的"],"review":["to write or give your opinion of a book, film or product","評價;評論"],"rumor":["to spread a story that may not be true","謠傳;傳言"],"deliver":["to take goods or letters to a place; to give a speech","提供;運送;投遞"],"delivered":["to take goods or letters to a place; to give a speech","提供;運送;投遞"],"delivery":["the act of taking goods or letters to a person or place","遞送;運送"],"molecule":["the smallest unit of a substance, made of two or more atoms joined together","分子"],"pheromone":["a chemical that an animal produces to send signals to others of its kind","費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)"],"pheromones":["a chemical that an animal produces to send signals to others of its kind","費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)"],"acclaim":["to praise someone or something publicly","為...歡呼;稱讚"],"acclaimed":["to praise someone or something publicly","為...歡呼;稱讚"]});

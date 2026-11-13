@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "cinema",
     "pos": "n.",
     "cn_def": "電影院;戲院",
-    "en_def": "",
+    "en_def": "a building where people go to watch films",
     "sentence": "They went to the {{BLANK}} to watch the latest blockbuster.",
     "cn": "他們去電影院看最新的大片。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "cinematic",
     "pos": "adj.",
     "cn_def": "電影的;電影風格的",
-    "en_def": "",
+    "en_def": "relating to films or looking like a film",
     "sentence": "The film had a {{BLANK}} quality that captivated the audience.",
     "cn": "這部電影有一種電影風格的質感，吸引了觀眾。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "essential",
     "pos": "adj.",
     "cn_def": "關鍵的;重要的;必不可少的",
-    "en_def": "",
+    "en_def": "completely necessary; very important",
     "sentence": "Exercise is {{BLANK}} for maintaining good health.",
     "cn": "運動對保持健康是必不可少的。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "essence",
     "pos": "n.",
     "cn_def": "本質;精華",
-    "en_def": "",
+    "en_def": "the most important quality or basic nature of something",
     "sentence": "The {{BLANK}} of his argument was clear and persuasive.",
     "cn": "他的論點的精華明確而有說服力。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "entertain",
     "pos": "v.",
     "cn_def": "娛樂;使快樂",
-    "en_def": "",
+    "en_def": "to interest and amuse people",
     "sentence": "The magician will {{BLANK}} the children at the birthday party.",
     "cn": "魔術師將在生日派對上娛樂孩子們。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "entertainment",
     "pos": "n.",
     "cn_def": "娛樂;表演",
-    "en_def": "",
+    "en_def": "films, music, shows and other things that people enjoy watching or doing",
     "sentence": "The theme park offers a variety of {{BLANK}} for visitors.",
     "cn": "這個主題公園為遊客提供各種娛樂活動。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "entertaining",
     "pos": "adj.",
     "cn_def": "有趣的;使人愉悅的",
-    "en_def": "",
+    "en_def": "interesting and amusing",
     "sentence": "The comedian's jokes were {{BLANK}} and made everyone laugh.",
     "cn": "這個喜劇演員的笑話很有趣，讓每個人都笑了起來。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "entertainer",
     "pos": "n.",
     "cn_def": "表演者;娛樂家",
-    "en_def": "",
+    "en_def": "a person whose job is to sing, dance or tell jokes for an audience",
     "sentence": "The singer is a talented {{BLANK}} who performs regularly at the club.",
     "cn": "這位歌手是一位才華橫溢的表演者，經常在俱樂部演出。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "direct",
     "pos": "v.",
     "cn_def": "指導;引導",
-    "en_def": "",
+    "en_def": "to be in charge of or guide people or an activity",
     "sentence": "The coach will {{BLANK}} the team during the match.",
     "cn": "教練將在比賽期間指導球隊。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "direct",
     "pos": "adj.",
     "cn_def": "直接的;直率的",
-    "en_def": "",
+    "en_def": "going straight to a place or person, with nothing in between; honest and clear",
     "sentence": "His {{BLANK}} approach to problem-solving is effective.",
     "cn": "他對解決問題的直接方法是有效的。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "indirect",
     "pos": "adj.",
     "cn_def": "間接的",
-    "en_def": "",
+    "en_def": "not going straight to the point; not immediately caused by something",
     "sentence": "She used an {{BLANK}} route to avoid traffic.",
     "cn": "她走了一條間接路線以避開交通。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "director",
     "pos": "n.",
     "cn_def": "導演",
-    "en_def": "",
+    "en_def": "the person who is in charge of making a film or play",
     "sentence": "The {{BLANK}} of the movie won several awards for his work.",
     "cn": "這部電影的導演因其工作而獲得了幾個獎項。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "directions",
     "pos": "n.",
     "cn_def": "方向;指導",
-    "en_def": "",
+    "en_def": "the way that someone or something is moving or pointing; instructions on how to do something",
     "sentence": "Follow the {{BLANK}} on the map to reach the destination.",
     "cn": "按照地圖上的方向走到目的地。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "directly",
     "pos": "adv.",
     "cn_def": "直接地",
-    "en_def": "",
+    "en_def": "in a straight line; with nothing or no one in between",
     "sentence": "You can {{BLANK}} contact me if you have any questions.",
     "cn": "如果你有任何問題，可以直接與我聯繫。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "indirectly",
     "pos": "adv.",
     "cn_def": "間接地",
-    "en_def": "",
+    "en_def": "in a way that is not straight or not immediate",
     "sentence": "She learned about the news {{BLANK}} from her friend.",
     "cn": "她從朋友那裡間接得知了這則消息。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "silence",
     "pos": "n.",
     "cn_def": "寂靜;沉默",
-    "en_def": "",
+    "en_def": "a complete lack of noise or speech",
     "sentence": "The {{BLANK}} in the room was awkward after the argument.",
     "cn": "爭吵後房間裡的寂靜令人尷尬。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "silent",
     "pos": "adj.",
     "cn_def": "沉默的",
-    "en_def": "",
+    "en_def": "making no sound; not speaking",
     "sentence": "The library was {{BLANK}} except for the sound of pages turning.",
     "cn": "除了書頁翻動聲以外，圖書館裡一片寂靜。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "fair",
     "pos": "adj.",
     "cn_def": "公平的;合理的",
-    "en_def": "",
+    "en_def": "treating everyone equally and in a reasonable way",
     "sentence": "The judge made a {{BLANK}} decision based on the evidence.",
     "cn": "法官根據證據作出了公正的判斷。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "fair",
     "pos": "adj.",
     "cn_def": "清楚的;晴朗的",
-    "en_def": "",
+    "en_def": "(of weather) bright and not raining",
     "sentence": "We had {{BLANK}} weather for our outdoor event.",
     "cn": "我們的戶外活動天氣晴朗。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "fair",
     "pos": "n.",
     "cn_def": "展;市集",
-    "en_def": "",
+    "en_def": "an outdoor event with rides, games and things to buy; a large show of goods",
     "sentence": "We visited the {{BLANK}} to see the local crafts.",
     "cn": "我們參觀了市集看當地的手工藝品。"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "fairly",
     "pos": "adv.",
     "cn_def": "相當地",
-    "en_def": "",
+    "en_def": "more than a little, but not very",
     "sentence": "She performed {{BLANK}} well in the competition.",
     "cn": "她在比賽中表現相當好。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "stage",
     "pos": "n.",
     "cn_def": "舞台",
-    "en_def": "",
+    "en_def": "the raised area in a theater where actors perform",
     "sentence": "The actors gathered on {{BLANK}} before the play.",
     "cn": "演員們在劇前聚集在舞台上。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "stage",
     "pos": "v.",
     "cn_def": "上演",
-    "en_def": "",
+    "en_def": "to organize and present a play or event for people to see",
     "sentence": "The theater will {{BLANK}} the new play next month.",
     "cn": "這家劇院將在下個月上演新劇。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "inventor",
     "pos": "n.",
     "cn_def": "發明者",
-    "en_def": "",
+    "en_def": "a person who makes or thinks of something completely new",
     "sentence": "Thomas Edison is a famous {{BLANK}} in history.",
     "cn": "湯瑪斯·愛迪生是歷史上著名的發明者。"
   },
@@ -202,7 +202,7 @@ const VOCAB = [
     "word": "invention",
     "pos": "n.",
     "cn_def": "發明",
-    "en_def": "",
+    "en_def": "something that has been made or designed for the first time",
     "sentence": "The telephone was a groundbreaking {{BLANK}}.",
     "cn": "電話是一項開創性的發明。"
   },
@@ -210,7 +210,7 @@ const VOCAB = [
     "word": "invent",
     "pos": "v.",
     "cn_def": "發明",
-    "en_def": "",
+    "en_def": "to make or design something that did not exist before",
     "sentence": "He tried to {{BLANK}} a new type of engine.",
     "cn": "他試圖發明一種新型引擎。"
   },
@@ -218,7 +218,7 @@ const VOCAB = [
     "word": "proper",
     "pos": "adj.",
     "cn_def": "適當的",
-    "en_def": "",
+    "en_def": "right, correct or suitable for the situation",
     "sentence": "It's important to wear {{BLANK}} attire for the interview.",
     "cn": "面試時穿著適當的服裝很重要。"
   },
@@ -226,7 +226,7 @@ const VOCAB = [
     "word": "improper",
     "pos": "adj.",
     "cn_def": "不適當的",
-    "en_def": "",
+    "en_def": "not right or suitable for the situation",
     "sentence": "It's considered {{BLANK}} to arrive late without notice.",
     "cn": "沒有通知就遲到被視為不適當。"
   },
@@ -234,7 +234,7 @@ const VOCAB = [
     "word": "properly",
     "pos": "adv.",
     "cn_def": "正確地",
-    "en_def": "",
+    "en_def": "in a correct or suitable way",
     "sentence": "Please read the instructions {{BLANK}} before assembling.",
     "cn": "請在組裝前仔細閱讀說明。"
   },
@@ -242,7 +242,7 @@ const VOCAB = [
     "word": "decade",
     "pos": "n.",
     "cn_def": "十年",
-    "en_def": "",
+    "en_def": "a period of ten years",
     "sentence": "He has worked for over a {{BLANK}} in this company.",
     "cn": "他在這家公司工作了十年以上。"
   },
@@ -250,7 +250,7 @@ const VOCAB = [
     "word": "nearly",
     "pos": "adv.",
     "cn_def": "幾乎",
-    "en_def": "",
+    "en_def": "almost but not quite",
     "sentence": "They are {{BLANK}} finished with the project.",
     "cn": "他們幾乎完成了這個項目。"
   },
@@ -258,7 +258,7 @@ const VOCAB = [
     "word": "dialogue",
     "pos": "n.",
     "cn_def": "對話",
-    "en_def": "",
+    "en_def": "the words that characters speak in a book, play or film; a conversation",
     "sentence": "The movie has witty {{BLANK}} between the characters.",
     "cn": "電影中角色之間的對話很機智。"
   },
@@ -266,7 +266,7 @@ const VOCAB = [
     "word": "inspires",
     "pos": "v.",
     "cn_def": "激勵",
-    "en_def": "",
+    "en_def": "to make someone want to do something good or creative",
     "sentence": "Her bravery {{BLANK}} others to take action.",
     "cn": "她的勇敢激勵了其他人採取行動。"
   },
@@ -274,7 +274,7 @@ const VOCAB = [
     "word": "inspiring",
     "pos": "adj.",
     "cn_def": "鼓舞人心的",
-    "en_def": "",
+    "en_def": "making you feel that you want to do something good",
     "sentence": "The speaker gave an {{BLANK}} speech at the conference.",
     "cn": "演講者在會議上發表了一篇鼓舞人心的演講。"
   },
@@ -282,7 +282,7 @@ const VOCAB = [
     "word": "inspiration",
     "pos": "n.",
     "cn_def": "靈感",
-    "en_def": "",
+    "en_def": "something that gives you new ideas or the wish to create",
     "sentence": "The painting was his {{BLANK}} for the new novel.",
     "cn": "這幅畫是他創作新小說的靈感。"
   },
@@ -290,7 +290,7 @@ const VOCAB = [
     "word": "creativity",
     "pos": "n.",
     "cn_def": "創造力",
-    "en_def": "",
+    "en_def": "the ability to produce new and original ideas",
     "sentence": "The company encourages {{BLANK}} among its employees.",
     "cn": "公司鼓勵員工發揮創造力。"
   },
@@ -298,7 +298,7 @@ const VOCAB = [
     "word": "create",
     "pos": "v.",
     "cn_def": "創造",
-    "en_def": "",
+    "en_def": "to make something new or cause something to exist",
     "sentence": "Artists {{BLANK}} works of art that evoke emotions.",
     "cn": "藝術家創造了能唤起情感的藝術品。"
   },
@@ -306,7 +306,7 @@ const VOCAB = [
     "word": "creative",
     "pos": "adj.",
     "cn_def": "有創造力的",
-    "en_def": "",
+    "en_def": "having the ability to produce new and original ideas",
     "sentence": "She has a {{BLANK}} approach to problem-solving.",
     "cn": "她在解決問題時有創造性的方法。"
   },
@@ -314,7 +314,7 @@ const VOCAB = [
     "word": "creation",
     "pos": "n.",
     "cn_def": "創作",
-    "en_def": "",
+    "en_def": "something that someone has made, especially using skill or imagination",
     "sentence": "The museum displayed a new {{BLANK}} by a local artist.",
     "cn": "博物館展示了一位本地藝術家的新作品。"
   },
@@ -322,7 +322,7 @@ const VOCAB = [
     "word": "career",
     "pos": "n.",
     "cn_def": "職業",
-    "en_def": "",
+    "en_def": "the series of jobs that a person has during their working life",
     "sentence": "He has had a successful {{BLANK}} as a lawyer.",
     "cn": "他在律師職業上取得了成功。"
   },
@@ -330,7 +330,7 @@ const VOCAB = [
     "word": "fame",
     "pos": "n.",
     "cn_def": "名聲",
-    "en_def": "",
+    "en_def": "the state of being known by many people",
     "sentence": "Her {{BLANK}} grew after she won the award.",
     "cn": "她在獲獎後名聲大噪。"
   },
@@ -338,7 +338,7 @@ const VOCAB = [
     "word": "hardships",
     "pos": "n.",
     "cn_def": "艱難",
-    "en_def": "",
+    "en_def": "a situation that is difficult and unpleasant, especially because you lack money or food",
     "sentence": "They faced many {{BLANK}} during the war.",
     "cn": "他們在戰爭期間面臨了許多艱難。"
   },
@@ -346,7 +346,7 @@ const VOCAB = [
     "word": "dramatically",
     "pos": "adv.",
     "cn_def": "戲劇性地",
-    "en_def": "",
+    "en_def": "in a sudden, very great or exciting way",
     "sentence": "The company's profits increased {{BLANK}} last year.",
     "cn": "公司去年的利潤戲劇性增長。"
   },
@@ -354,7 +354,7 @@ const VOCAB = [
     "word": "drama",
     "pos": "n.",
     "cn_def": "戲劇",
-    "en_def": "",
+    "en_def": "a play for the theater, television or radio",
     "sentence": "The play is a classic {{BLANK}} of love and betrayal.",
     "cn": "這部戲劇是愛與背叛的經典之作。"
   },
@@ -362,7 +362,7 @@ const VOCAB = [
     "word": "dramatic",
     "pos": "adj.",
     "cn_def": "戲劇的",
-    "en_def": "",
+    "en_def": "sudden and very great; exciting; relating to plays",
     "sentence": "There was a {{BLANK}} change in the weather.",
     "cn": "天氣出現了戲劇性的變化。"
   },
@@ -370,7 +370,7 @@ const VOCAB = [
     "word": "overdramatic",
     "pos": "adj.",
     "cn_def": "過分戲劇化的",
-    "en_def": "",
+    "en_def": "showing much stronger feelings than a situation deserves",
     "sentence": "She tends to be {{BLANK}} about minor issues.",
     "cn": "她對小事情往往過分戲劇化。"
   },
@@ -378,7 +378,7 @@ const VOCAB = [
     "word": "switch",
     "pos": "n.",
     "cn_def": "開關",
-    "en_def": "",
+    "en_def": "a small button or lever that turns a light or machine on and off",
     "sentence": "Please flip the {{BLANK}} to turn on the light.",
     "cn": "請切換開關打開燈。"
   },
@@ -386,7 +386,7 @@ const VOCAB = [
     "word": "emergence",
     "pos": "n.",
     "cn_def": "出現",
-    "en_def": "",
+    "en_def": "the process of appearing or becoming known for the first time",
     "sentence": "The {{BLANK}} of new technologies is changing industries.",
     "cn": "新技術的出現正在改變行業。"
   },
@@ -394,7 +394,7 @@ const VOCAB = [
     "word": "emerge",
     "pos": "v.",
     "cn_def": "浮現",
-    "en_def": "",
+    "en_def": "to come out from a place or situation; to become known",
     "sentence": "He managed to {{BLANK}} from the difficult situation.",
     "cn": "他設法從困境中浮現出來。"
   }
@@ -945,596 +945,596 @@ const MCQS = [
 const LOOKUP = {
   "cinema": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a building where people go to watch films",
     "cn_def": "電影院;戲院",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a building where people go to watch films",
         "cn_def": "電影院;戲院"
       }
     ]
   },
   "cinematic": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "relating to films or looking like a film",
     "cn_def": "電影的;電影風格的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "relating to films or looking like a film",
         "cn_def": "電影的;電影風格的"
       }
     ]
   },
   "essential": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "completely necessary; very important",
     "cn_def": "關鍵的;重要的;必不可少的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "completely necessary; very important",
         "cn_def": "關鍵的;重要的;必不可少的"
       }
     ]
   },
   "essence": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the most important quality or basic nature of something",
     "cn_def": "本質;精華",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the most important quality or basic nature of something",
         "cn_def": "本質;精華"
       }
     ]
   },
   "entertain": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to interest and amuse people",
     "cn_def": "娛樂;使快樂",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to interest and amuse people",
         "cn_def": "娛樂;使快樂"
       }
     ]
   },
   "entertainment": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "films, music, shows and other things that people enjoy watching or doing",
     "cn_def": "娛樂;表演",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "films, music, shows and other things that people enjoy watching or doing",
         "cn_def": "娛樂;表演"
       }
     ]
   },
   "entertaining": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "interesting and amusing",
     "cn_def": "有趣的;使人愉悅的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "interesting and amusing",
         "cn_def": "有趣的;使人愉悅的"
       }
     ]
   },
   "entertainer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person whose job is to sing, dance or tell jokes for an audience",
     "cn_def": "表演者;娛樂家",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a person whose job is to sing, dance or tell jokes for an audience",
         "cn_def": "表演者;娛樂家"
       }
     ]
   },
   "direct": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to be in charge of or guide people or an activity",
     "cn_def": "指導;引導",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to be in charge of or guide people or an activity",
         "cn_def": "指導;引導"
       },
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "going straight to a place or person, with nothing in between; honest and clear",
         "cn_def": "直接的;直率的"
       }
     ]
   },
   "indirect": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not going straight to the point; not immediately caused by something",
     "cn_def": "間接的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "not going straight to the point; not immediately caused by something",
         "cn_def": "間接的"
       }
     ]
   },
   "director": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the person who is in charge of making a film or play",
     "cn_def": "導演",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the person who is in charge of making a film or play",
         "cn_def": "導演"
       }
     ]
   },
   "direction": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the way that someone or something is moving or pointing; instructions on how to do something",
     "cn_def": "方向;指導",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the way that someone or something is moving or pointing; instructions on how to do something",
         "cn_def": "方向;指導"
       }
     ]
   },
   "directions": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the way that someone or something is moving or pointing; instructions on how to do something",
     "cn_def": "方向;指導",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the way that someone or something is moving or pointing; instructions on how to do something",
         "cn_def": "方向;指導"
       }
     ]
   },
   "directly": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "in a straight line; with nothing or no one in between",
     "cn_def": "直接地",
     "combined": [
       {
         "pos": "adv.",
-        "en_def": "",
+        "en_def": "in a straight line; with nothing or no one in between",
         "cn_def": "直接地"
       }
     ]
   },
   "indirectly": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "in a way that is not straight or not immediate",
     "cn_def": "間接地",
     "combined": [
       {
         "pos": "adv.",
-        "en_def": "",
+        "en_def": "in a way that is not straight or not immediate",
         "cn_def": "間接地"
       }
     ]
   },
   "silence": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a complete lack of noise or speech",
     "cn_def": "寂靜;沉默",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a complete lack of noise or speech",
         "cn_def": "寂靜;沉默"
       }
     ]
   },
   "silent": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "making no sound; not speaking",
     "cn_def": "沉默的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "making no sound; not speaking",
         "cn_def": "沉默的"
       }
     ]
   },
   "fair": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "treating everyone equally and in a reasonable way",
     "cn_def": "公平的;合理的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "treating everyone equally and in a reasonable way",
         "cn_def": "公平的;合理的"
       },
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "(of weather) bright and not raining",
         "cn_def": "清楚的;晴朗的"
       },
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "an outdoor event with rides, games and things to buy; a large show of goods",
         "cn_def": "展;市集"
       }
     ]
   },
   "fairly": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "more than a little, but not very",
     "cn_def": "相當地",
     "combined": [
       {
         "pos": "adv.",
-        "en_def": "",
+        "en_def": "more than a little, but not very",
         "cn_def": "相當地"
       }
     ]
   },
   "stage": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the raised area in a theater where actors perform",
     "cn_def": "舞台",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the raised area in a theater where actors perform",
         "cn_def": "舞台"
       },
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to organize and present a play or event for people to see",
         "cn_def": "上演"
       }
     ]
   },
   "inventor": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who makes or thinks of something completely new",
     "cn_def": "發明者",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a person who makes or thinks of something completely new",
         "cn_def": "發明者"
       }
     ]
   },
   "invention": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that has been made or designed for the first time",
     "cn_def": "發明",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "something that has been made or designed for the first time",
         "cn_def": "發明"
       }
     ]
   },
   "invent": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make or design something that did not exist before",
     "cn_def": "發明",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to make or design something that did not exist before",
         "cn_def": "發明"
       }
     ]
   },
   "proper": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "right, correct or suitable for the situation",
     "cn_def": "適當的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "right, correct or suitable for the situation",
         "cn_def": "適當的"
       }
     ]
   },
   "improper": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not right or suitable for the situation",
     "cn_def": "不適當的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "not right or suitable for the situation",
         "cn_def": "不適當的"
       }
     ]
   },
   "properly": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "in a correct or suitable way",
     "cn_def": "正確地",
     "combined": [
       {
         "pos": "adv.",
-        "en_def": "",
+        "en_def": "in a correct or suitable way",
         "cn_def": "正確地"
       }
     ]
   },
   "decade": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a period of ten years",
     "cn_def": "十年",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a period of ten years",
         "cn_def": "十年"
       }
     ]
   },
   "nearly": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "almost but not quite",
     "cn_def": "幾乎",
     "combined": [
       {
         "pos": "adv.",
-        "en_def": "",
+        "en_def": "almost but not quite",
         "cn_def": "幾乎"
       }
     ]
   },
   "dialogue": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the words that characters speak in a book, play or film; a conversation",
     "cn_def": "對話",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the words that characters speak in a book, play or film; a conversation",
         "cn_def": "對話"
-      }
-    ]
-  },
-  "inspire": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "激勵",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "",
-        "cn_def": "激勵"
       }
     ]
   },
   "inspires": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make someone want to do something good or creative",
     "cn_def": "激勵",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to make someone want to do something good or creative",
+        "cn_def": "激勵"
+      }
+    ]
+  },
+  "inspire": {
+    "pos": "v.",
+    "en_def": "to make someone want to do something good or creative",
+    "cn_def": "激勵",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to make someone want to do something good or creative",
         "cn_def": "激勵"
       }
     ]
   },
   "inspiring": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "making you feel that you want to do something good",
     "cn_def": "鼓舞人心的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "making you feel that you want to do something good",
         "cn_def": "鼓舞人心的"
       }
     ]
   },
   "inspiration": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that gives you new ideas or the wish to create",
     "cn_def": "靈感",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "something that gives you new ideas or the wish to create",
         "cn_def": "靈感"
       }
     ]
   },
   "creativity": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the ability to produce new and original ideas",
     "cn_def": "創造力",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the ability to produce new and original ideas",
         "cn_def": "創造力"
       }
     ]
   },
   "create": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make something new or cause something to exist",
     "cn_def": "創造",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to make something new or cause something to exist",
         "cn_def": "創造"
       }
     ]
   },
   "creative": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having the ability to produce new and original ideas",
     "cn_def": "有創造力的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "having the ability to produce new and original ideas",
         "cn_def": "有創造力的"
       }
     ]
   },
   "creation": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that someone has made, especially using skill or imagination",
     "cn_def": "創作",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "something that someone has made, especially using skill or imagination",
         "cn_def": "創作"
       }
     ]
   },
   "career": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the series of jobs that a person has during their working life",
     "cn_def": "職業",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the series of jobs that a person has during their working life",
         "cn_def": "職業"
       }
     ]
   },
   "fame": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the state of being known by many people",
     "cn_def": "名聲",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the state of being known by many people",
         "cn_def": "名聲"
-      }
-    ]
-  },
-  "hardships": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "艱難",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "",
-        "cn_def": "艱難"
       }
     ]
   },
   "hardship": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a situation that is difficult and unpleasant, especially because you lack money or food",
     "cn_def": "艱難",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a situation that is difficult and unpleasant, especially because you lack money or food",
+        "cn_def": "艱難"
+      }
+    ]
+  },
+  "hardships": {
+    "pos": "n.",
+    "en_def": "a situation that is difficult and unpleasant, especially because you lack money or food",
+    "cn_def": "艱難",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a situation that is difficult and unpleasant, especially because you lack money or food",
         "cn_def": "艱難"
       }
     ]
   },
   "dramatically": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "in a sudden, very great or exciting way",
     "cn_def": "戲劇性地",
     "combined": [
       {
         "pos": "adv.",
-        "en_def": "",
+        "en_def": "in a sudden, very great or exciting way",
         "cn_def": "戲劇性地"
       }
     ]
   },
   "drama": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a play for the theater, television or radio",
     "cn_def": "戲劇",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a play for the theater, television or radio",
         "cn_def": "戲劇"
       }
     ]
   },
   "dramatic": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "sudden and very great; exciting; relating to plays",
     "cn_def": "戲劇的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "sudden and very great; exciting; relating to plays",
         "cn_def": "戲劇的"
       }
     ]
   },
   "overdramatic": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "showing much stronger feelings than a situation deserves",
     "cn_def": "過分戲劇化的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "showing much stronger feelings than a situation deserves",
         "cn_def": "過分戲劇化的"
       }
     ]
   },
   "switch": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small button or lever that turns a light or machine on and off",
     "cn_def": "開關",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a small button or lever that turns a light or machine on and off",
         "cn_def": "開關"
       }
     ]
   },
   "emergence": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the process of appearing or becoming known for the first time",
     "cn_def": "出現",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the process of appearing or becoming known for the first time",
         "cn_def": "出現"
       }
     ]
   },
   "emerge": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to come out from a place or situation; to become known",
     "cn_def": "浮現",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to come out from a place or situation; to become known",
         "cn_def": "浮現"
       }
     ]

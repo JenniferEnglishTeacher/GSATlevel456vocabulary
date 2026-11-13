@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "risk",
     "pos": "v.",
     "cn_def": "冒險",
-    "en_def": "",
+    "en_def": "to put something valuable in a situation where it could be lost or harmed",
     "sentence": "He decided to {{BLANK}} a large portion of his savings by investing in a volatile market.",
     "cn": "他決定冒險把大部分積蓄投資在波動的市場上。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "risk",
     "pos": "n.",
     "cn_def": "風險",
-    "en_def": "",
+    "en_def": "the possibility that something bad may happen",
     "sentence": "There is always a {{BLANK}} involved in starting your own business.",
     "cn": "創業總是存在風險的。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "risky",
     "pos": "adj.",
     "cn_def": "危險的",
-    "en_def": "",
+    "en_def": "involving the possibility of something bad happening",
     "sentence": "It's a {{BLANK}} business venture that may or may not yield profits.",
     "cn": "這是一個有可能會賺錢或賠錢的危險商業冒險。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "take a risk",
     "pos": "phr.",
     "cn_def": "冒險",
-    "en_def": "",
+    "en_def": "to do something although something bad could happen",
     "sentence": "Sometimes you need to {{BLANK}} to achieve your goals.",
     "cn": "有時候你需要冒險才能達成你的目標。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "at risk of",
     "pos": "phr.",
     "cn_def": "有...風險",
-    "en_def": "",
+    "en_def": "in danger of something bad happening",
     "sentence": "He is {{BLANK}} losing his job due to the company's financial troubles.",
     "cn": "由於公司財務困難，他有失去工作的風險。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "disappear",
     "pos": "v.",
     "cn_def": "消失",
-    "en_def": "",
+    "en_def": "to go where you can no longer be seen; to stop existing",
     "sentence": "The sun will {{BLANK}} behind the clouds soon, creating a magical sunset.",
     "cn": "太陽很快會在雲層後消失，創造出一個神奇的日落。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "appear",
     "pos": "v.",
     "cn_def": "出現",
-    "en_def": "",
+    "en_def": "to come into view; to take part in a show or film",
     "sentence": "She will {{BLANK}} on stage at the concert tonight, surprising her fans.",
     "cn": "她今晚將在音樂會上出現在舞台上，讓她的粉絲們感到驚訝。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "appearance",
     "pos": "n.",
     "cn_def": "出現",
-    "en_def": "",
+    "en_def": "the act of arriving or being seen; the way someone looks",
     "sentence": "His sudden {{BLANK}} at the meeting startled everyone.",
     "cn": "他在會議上突如其來的出現讓每個人都感到驚訝。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "complete",
     "pos": "v.",
     "cn_def": "完成",
-    "en_def": "",
+    "en_def": "to finish doing or making something",
     "sentence": "Please {{BLANK}} the assignment by Friday so we can review it over the weekend.",
     "cn": "請在星期五之前完成作業，這樣我們可以在周末審閱它。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "complete",
     "pos": "adj.",
     "cn_def": "完整的",
-    "en_def": "",
+    "en_def": "having all its parts; total",
     "sentence": "The {{BLANK}} project proposal was submitted to the committee for review.",
     "cn": "完整的項目提議已提交給委員會審閱。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "create",
     "pos": "v.",
     "cn_def": "創造",
-    "en_def": "",
+    "en_def": "to make something new or cause something to exist",
     "sentence": "Artists {{BLANK}} beauty through their paintings and sculptures.",
     "cn": "藝術家通過他們的繪畫和雕塑創造美麗。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "creatures",
     "pos": "n.",
     "cn_def": "生物",
-    "en_def": "",
+    "en_def": "a living thing, especially an animal",
     "sentence": "The forest is home to many unique {{BLANK}} that are rarely seen elsewhere.",
     "cn": "這片森林是許多在其他地方很少見的獨特生物的家園。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "creators",
     "pos": "n.",
     "cn_def": "創造者",
-    "en_def": "",
+    "en_def": "a person who has made or invented something",
     "sentence": "Picasso is regarded as one of the greatest {{BLANK}} of modern art.",
     "cn": "皮卡索被認為是現代藝術的偉大創作者之一。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "creation",
     "pos": "n.",
     "cn_def": "創造",
-    "en_def": "",
+    "en_def": "the act of making something new; a thing that someone has made",
     "sentence": "The artist's latest {{BLANK}} is a masterpiece that reflects her talent and vision.",
     "cn": "藝術家最新的創作是一件反映她才華和遠見的傑作。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "creative",
     "pos": "adj.",
     "cn_def": "創造的",
-    "en_def": "",
+    "en_def": "having the ability to produce new and original ideas",
     "sentence": "She has a {{BLANK}} approach to problem-solving that often yields innovative solutions.",
     "cn": "她對解決問題有創造性的方法常常產生創新的解決方案。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "creativity",
     "pos": "n.",
     "cn_def": "創造力",
-    "en_def": "",
+    "en_def": "the ability to produce new and original ideas",
     "sentence": "His {{BLANK}} as a writer shines through in his ability to craft compelling stories.",
     "cn": "作為一名作家，他的創造力在於他能夠創作引人入勝的故事。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "stubborn",
     "pos": "adj.",
     "cn_def": "固執的",
-    "en_def": "",
+    "en_def": "refusing to change your mind or behavior even when others want you to",
     "sentence": "Despite her parents' advice, she {{BLANK}} insisted on pursuing her own career path.",
     "cn": "儘管父母的建議，她還是固執地堅持走自己的職業道路。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "favor his younger son over",
     "pos": "v.",
     "cn_def": "偏愛A勝過B",
-    "en_def": "",
+    "en_def": "to like or support one person or thing more than another",
     "sentence": "He tends to {{BLANK}} his elder daughter.",
     "cn": "他傾向於偏愛他的小兒子而不是他的大女兒。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "favor",
     "pos": "n.",
     "cn_def": "恩惠",
-    "en_def": "",
+    "en_def": "something you do to help someone",
     "sentence": "Can you do me a {{BLANK}} and pick up my mail while I'm away?",
     "cn": "在我不在的時候，你能幫我個忙，去拿我的郵件嗎？"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "do a favor",
     "pos": "phr.",
     "cn_def": "幫忙某人",
-    "en_def": "",
+    "en_def": "to do something to help someone",
     "sentence": "Could you {{BLANK}} for me and pick up my mail?",
     "cn": "你能幫我取郵件嗎？"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "in favor of",
     "pos": "phr.",
     "cn_def": "支持",
-    "en_def": "",
+    "en_def": "to support or approve of an idea or plan",
     "sentence": "I'm {{BLANK}} reducing plastic use in our office.",
     "cn": "我支持減少辦公室使用塑料。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "favorable",
     "pos": "adj.",
     "cn_def": "有利的，良好的",
-    "en_def": "",
+    "en_def": "showing approval; good for someone or something",
     "sentence": "The weather conditions were {{BLANK}} for our outdoor event.",
     "cn": "天氣條件對我們的戶外活動非常有利。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "favorite",
     "pos": "adj.",
     "cn_def": "最喜愛的，最喜愛的事物",
-    "en_def": "",
+    "en_def": "liked more than all others of the same kind",
     "sentence": "My {{BLANK}} color is blue. All my clothes are in blue.",
     "cn": "我最喜歡的顏色是藍色。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "bother",
     "pos": "v.",
     "cn_def": "打擾，困擾",
-    "en_def": "",
+    "en_def": "to annoy or worry someone; to interrupt someone",
     "sentence": "Sorry to {{BLANK}} you, but could I ask you a quick question?",
     "cn": "抱歉打擾你，但我可以問你個問題嗎？"
   },
@@ -202,7 +202,7 @@ const VOCAB = [
     "word": "refuses",
     "pos": "v.",
     "cn_def": "拒絕",
-    "en_def": "",
+    "en_def": "to say that you will not do or accept something",
     "sentence": "He {{BLANK}} to participate in the project.",
     "cn": "他拒絕參與這個項目。"
   },
@@ -210,7 +210,7 @@ const VOCAB = [
     "word": "refusal",
     "pos": "n.",
     "cn_def": "拒絕",
-    "en_def": "",
+    "en_def": "the act of saying that you will not do or accept something",
     "sentence": "Her {{BLANK}} to accept the offer surprised everyone.",
     "cn": "她拒絕接受這個提議讓大家都感到驚訝。"
   },
@@ -218,7 +218,7 @@ const VOCAB = [
     "word": "rejected",
     "pos": "v.",
     "cn_def": "拒絕",
-    "en_def": "",
+    "en_def": "to refuse to accept, use or believe something",
     "sentence": "They {{BLANK}} the proposal due to budget constraints.",
     "cn": "由於預算限制，他們拒絕了這個提議。"
   },
@@ -226,7 +226,7 @@ const VOCAB = [
     "word": "declined",
     "pos": "v.",
     "cn_def": "下降",
-    "en_def": "",
+    "en_def": "to become smaller, fewer or weaker",
     "sentence": "Sales {{BLANK}} after the price increase.",
     "cn": "價格上漲後銷售量下降了。"
   },
@@ -234,7 +234,7 @@ const VOCAB = [
     "word": "declined",
     "pos": "v.",
     "cn_def": "拒絕",
-    "en_def": "",
+    "en_def": "to politely refuse an offer or invitation",
     "sentence": "The applicant {{BLANK}} the job offer because of the low payment the company offers.",
     "cn": "應徵者拒絕這個工作機會因為薪水太低"
   },
@@ -242,7 +242,7 @@ const VOCAB = [
     "word": "mate",
     "pos": "v.",
     "cn_def": "配偶，伴侶，交配",
-    "en_def": "",
+    "en_def": "(of animals) to come together to produce young",
     "sentence": "The birds {{BLANK}} for life. They die as their husband or wife dies.",
     "cn": "這些鳥會終生配對。"
   },
@@ -250,7 +250,7 @@ const VOCAB = [
     "word": "put off",
     "pos": "phr.",
     "cn_def": "延期，拖延",
-    "en_def": "",
+    "en_def": "to change something to a later time or date",
     "sentence": "They decided to {{BLANK}} the meeting until next week.",
     "cn": "他們決定將會議推遲到下週。"
   },
@@ -258,7 +258,7 @@ const VOCAB = [
     "word": "sense",
     "pos": "n.",
     "cn_def": "感覺，感知，意識",
-    "en_def": "",
+    "en_def": "one of the five abilities of sight, hearing, smell, taste and touch; a feeling about something",
     "sentence": "He lost his {{BLANK}} of smell and taste after getting COVID.",
     "cn": "他得到新冠後喪失嗅覺與味覺"
   },
@@ -266,7 +266,7 @@ const VOCAB = [
     "word": "sensed",
     "pos": "v.",
     "cn_def": "察覺，感覺到",
-    "en_def": "",
+    "en_def": "to feel or become aware of something",
     "sentence": "She {{BLANK}} a change in the atmosphere as soon as she entered.",
     "cn": "她一進來就感覺到氣氛有所變化。"
   },
@@ -274,7 +274,7 @@ const VOCAB = [
     "word": "sensitive to",
     "pos": "phr.",
     "cn_def": "敏感於",
-    "en_def": "",
+    "en_def": "to be easily affected by something",
     "sentence": "She's {{BLANK}} changes in temperature.",
     "cn": "她對溫度變化很敏感。"
   },
@@ -282,7 +282,7 @@ const VOCAB = [
     "word": "sensitivity",
     "pos": "n.",
     "cn_def": "敏感性",
-    "en_def": "",
+    "en_def": "the quality of being easily affected or of reacting to small changes",
     "sentence": "The patient's {{BLANK}} to light increased after the surgery.",
     "cn": "病人手術後對光的敏感性增加了。"
   },
@@ -290,7 +290,7 @@ const VOCAB = [
     "word": "sensible",
     "pos": "adj.",
     "cn_def": "明智的，理智的",
-    "en_def": "",
+    "en_def": "showing good judgment; reasonable and practical",
     "sentence": "It's {{BLANK}} to wear sunscreen in hot weather.",
     "cn": "在炎熱的天氣中擦防曬霜是明智的。"
   },
@@ -298,7 +298,7 @@ const VOCAB = [
     "word": "contains",
     "pos": "v.",
     "cn_def": "包含，容納",
-    "en_def": "",
+    "en_def": "to have something inside or as a part",
     "sentence": "This box {{BLANK}} all the items I need for the trip.",
     "cn": "這個盒子包含了我旅行所需的所有物品。"
   },
@@ -306,7 +306,7 @@ const VOCAB = [
     "word": "contain",
     "pos": "v.",
     "cn_def": "抑制，遏阻",
-    "en_def": "",
+    "en_def": "to keep something harmful under control and stop it from spreading",
     "sentence": "The government is trying to {{BLANK}} violence and panic.",
     "cn": "政府努力要抑制疾病和病毒的蔓延與暴力和恐慌的擴大"
   },
@@ -314,7 +314,7 @@ const VOCAB = [
     "word": "container",
     "pos": "n.",
     "cn_def": "容器",
-    "en_def": "",
+    "en_def": "a box, bottle or other object used for holding something",
     "sentence": "The food was stored in a plastic {{BLANK}} for transport.",
     "cn": "食物存放在一個塑料容器中進行運輸。"
   },
@@ -322,7 +322,7 @@ const VOCAB = [
     "word": "inform me of",
     "pos": "phr.",
     "cn_def": "通知某人某事",
-    "en_def": "",
+    "en_def": "to tell someone about something",
     "sentence": "Please {{BLANK}} any changes to the schedule.",
     "cn": "請通知我任何日程安排的變更。"
   },
@@ -330,7 +330,7 @@ const VOCAB = [
     "word": "communication",
     "pos": "n.",
     "cn_def": "溝通，交流",
-    "en_def": "",
+    "en_def": "the act of sharing information, ideas or feelings with other people",
     "sentence": "Effective {{BLANK}} is key to a successful team.",
     "cn": "有效的溝通是團隊成功的關鍵。"
   },
@@ -338,7 +338,7 @@ const VOCAB = [
     "word": "communicator",
     "pos": "n.",
     "cn_def": "溝通者，交流者",
-    "en_def": "",
+    "en_def": "a person who shares ideas and information with others, especially one who does it well",
     "sentence": "She's a skilled {{BLANK}} who can engage with diverse audiences.",
     "cn": "她是一位熟練的溝通者，能夠與不同的觀眾交流。"
   }
@@ -812,637 +812,637 @@ const MCQS = [
 const LOOKUP = {
   "risk": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to put something valuable in a situation where it could be lost or harmed",
     "cn_def": "冒險",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to put something valuable in a situation where it could be lost or harmed",
         "cn_def": "冒險"
       },
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the possibility that something bad may happen",
         "cn_def": "風險"
       }
     ]
   },
   "risky": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "involving the possibility of something bad happening",
     "cn_def": "危險的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "involving the possibility of something bad happening",
         "cn_def": "危險的"
       }
     ]
   },
   "take a risk": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to do something although something bad could happen",
     "cn_def": "冒險",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to do something although something bad could happen",
         "cn_def": "冒險"
       }
     ]
   },
   "at risk of": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "in danger of something bad happening",
     "cn_def": "有...風險",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "in danger of something bad happening",
         "cn_def": "有...風險"
       }
     ]
   },
   "disappear": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to go where you can no longer be seen; to stop existing",
     "cn_def": "消失",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to go where you can no longer be seen; to stop existing",
         "cn_def": "消失"
       }
     ]
   },
   "appear": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to come into view; to take part in a show or film",
     "cn_def": "出現",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to come into view; to take part in a show or film",
         "cn_def": "出現"
       }
     ]
   },
   "appearance": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the act of arriving or being seen; the way someone looks",
     "cn_def": "出現",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the act of arriving or being seen; the way someone looks",
         "cn_def": "出現"
       }
     ]
   },
   "complete": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to finish doing or making something",
     "cn_def": "完成",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to finish doing or making something",
         "cn_def": "完成"
       },
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "having all its parts; total",
         "cn_def": "完整的"
       }
     ]
   },
   "create": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make something new or cause something to exist",
     "cn_def": "創造",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to make something new or cause something to exist",
         "cn_def": "創造"
       }
     ]
   },
   "creatures": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a living thing, especially an animal",
     "cn_def": "生物",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a living thing, especially an animal",
         "cn_def": "生物"
       }
     ]
   },
   "creature": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a living thing, especially an animal",
     "cn_def": "生物",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a living thing, especially an animal",
         "cn_def": "生物"
       }
     ]
   },
   "creator": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who has made or invented something",
     "cn_def": "創造者",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a person who has made or invented something",
         "cn_def": "創造者"
       }
     ]
   },
   "creators": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who has made or invented something",
     "cn_def": "創造者",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a person who has made or invented something",
         "cn_def": "創造者"
       }
     ]
   },
   "creation": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the act of making something new; a thing that someone has made",
     "cn_def": "創造",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the act of making something new; a thing that someone has made",
         "cn_def": "創造"
       }
     ]
   },
   "creative": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having the ability to produce new and original ideas",
     "cn_def": "創造的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "having the ability to produce new and original ideas",
         "cn_def": "創造的"
       }
     ]
   },
   "creativity": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the ability to produce new and original ideas",
     "cn_def": "創造力",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the ability to produce new and original ideas",
         "cn_def": "創造力"
       }
     ]
   },
   "stubborn": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "refusing to change your mind or behavior even when others want you to",
     "cn_def": "固執的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "refusing to change your mind or behavior even when others want you to",
         "cn_def": "固執的"
-      }
-    ]
-  },
-  "favor his younger son over": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "偏愛A勝過B",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "",
-        "cn_def": "偏愛A勝過B"
       }
     ]
   },
   "favor a over/to b": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to like or support one person or thing more than another",
     "cn_def": "偏愛A勝過B",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to like or support one person or thing more than another",
+        "cn_def": "偏愛A勝過B"
+      }
+    ]
+  },
+  "favor his younger son over": {
+    "pos": "v.",
+    "en_def": "to like or support one person or thing more than another",
+    "cn_def": "偏愛A勝過B",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to like or support one person or thing more than another",
         "cn_def": "偏愛A勝過B"
       }
     ]
   },
   "favor": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you do to help someone",
     "cn_def": "恩惠",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "something you do to help someone",
         "cn_def": "恩惠"
       }
     ]
   },
   "do a favor": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to do something to help someone",
     "cn_def": "幫忙某人",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to do something to help someone",
         "cn_def": "幫忙某人"
       }
     ]
   },
   "do sb. a favor": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to do something to help someone",
     "cn_def": "幫忙某人",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to do something to help someone",
         "cn_def": "幫忙某人"
-      }
-    ]
-  },
-  "be in favor of": {
-    "pos": "phr.",
-    "en_def": "",
-    "cn_def": "支持",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "",
-        "cn_def": "支持"
       }
     ]
   },
   "in favor of": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to support or approve of an idea or plan",
     "cn_def": "支持",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to support or approve of an idea or plan",
+        "cn_def": "支持"
+      }
+    ]
+  },
+  "be in favor of": {
+    "pos": "phr.",
+    "en_def": "to support or approve of an idea or plan",
+    "cn_def": "支持",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to support or approve of an idea or plan",
         "cn_def": "支持"
       }
     ]
   },
   "favorable": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "showing approval; good for someone or something",
     "cn_def": "有利的，良好的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "showing approval; good for someone or something",
         "cn_def": "有利的，良好的"
       }
     ]
   },
   "favorite": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "liked more than all others of the same kind",
     "cn_def": "最喜愛的，最喜愛的事物",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "liked more than all others of the same kind",
         "cn_def": "最喜愛的，最喜愛的事物"
       }
     ]
   },
   "bother": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to annoy or worry someone; to interrupt someone",
     "cn_def": "打擾，困擾",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to annoy or worry someone; to interrupt someone",
         "cn_def": "打擾，困擾"
       }
     ]
   },
   "refuse": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to say that you will not do or accept something",
     "cn_def": "拒絕",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to say that you will not do or accept something",
         "cn_def": "拒絕"
       }
     ]
   },
   "refuses": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to say that you will not do or accept something",
     "cn_def": "拒絕",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to say that you will not do or accept something",
         "cn_def": "拒絕"
       }
     ]
   },
   "refusal": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the act of saying that you will not do or accept something",
     "cn_def": "拒絕",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
-        "cn_def": "拒絕"
-      }
-    ]
-  },
-  "reject": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "拒絕",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "",
+        "en_def": "the act of saying that you will not do or accept something",
         "cn_def": "拒絕"
       }
     ]
   },
   "rejected": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to refuse to accept, use or believe something",
     "cn_def": "拒絕",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to refuse to accept, use or believe something",
+        "cn_def": "拒絕"
+      }
+    ]
+  },
+  "reject": {
+    "pos": "v.",
+    "en_def": "to refuse to accept, use or believe something",
+    "cn_def": "拒絕",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to refuse to accept, use or believe something",
         "cn_def": "拒絕"
       }
     ]
   },
   "declined": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to become smaller, fewer or weaker",
     "cn_def": "下降",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to become smaller, fewer or weaker",
         "cn_def": "下降"
       },
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to politely refuse an offer or invitation",
         "cn_def": "拒絕"
       }
     ]
   },
   "decline": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to become smaller, fewer or weaker",
     "cn_def": "下降",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to become smaller, fewer or weaker",
         "cn_def": "下降"
       },
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to politely refuse an offer or invitation",
         "cn_def": "拒絕"
       }
     ]
   },
   "mate": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "(of animals) to come together to produce young",
     "cn_def": "配偶，伴侶，交配",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "(of animals) to come together to produce young",
         "cn_def": "配偶，伴侶，交配"
       }
     ]
   },
   "put off / postpone": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to change something to a later time or date",
     "cn_def": "延期，拖延",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to change something to a later time or date",
         "cn_def": "延期，拖延"
       }
     ]
   },
   "put off": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to change something to a later time or date",
     "cn_def": "延期，拖延",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to change something to a later time or date",
         "cn_def": "延期，拖延"
       }
     ]
   },
   "sense": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of the five abilities of sight, hearing, smell, taste and touch; a feeling about something",
     "cn_def": "感覺，感知，意識",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "one of the five abilities of sight, hearing, smell, taste and touch; a feeling about something",
         "cn_def": "感覺，感知，意識"
-      }
-    ]
-  },
-  "sensed": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "察覺，感覺到",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "",
-        "cn_def": "察覺，感覺到"
       }
     ]
   },
   "sense / notice / realize": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to feel or become aware of something",
     "cn_def": "察覺，感覺到",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to feel or become aware of something",
         "cn_def": "察覺，感覺到"
       }
     ]
   },
-  "be sensitive to n": {
-    "pos": "phr.",
-    "en_def": "",
-    "cn_def": "敏感於",
+  "sensed": {
+    "pos": "v.",
+    "en_def": "to feel or become aware of something",
+    "cn_def": "察覺，感覺到",
     "combined": [
       {
-        "pos": "phr.",
-        "en_def": "",
-        "cn_def": "敏感於"
+        "pos": "v.",
+        "en_def": "to feel or become aware of something",
+        "cn_def": "察覺，感覺到"
       }
     ]
   },
   "sensitive to": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to be easily affected by something",
     "cn_def": "敏感於",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to be easily affected by something",
+        "cn_def": "敏感於"
+      }
+    ]
+  },
+  "be sensitive to n": {
+    "pos": "phr.",
+    "en_def": "to be easily affected by something",
+    "cn_def": "敏感於",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to be easily affected by something",
         "cn_def": "敏感於"
       }
     ]
   },
   "sensitivity": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the quality of being easily affected or of reacting to small changes",
     "cn_def": "敏感性",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the quality of being easily affected or of reacting to small changes",
         "cn_def": "敏感性"
       }
     ]
   },
   "sensible": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "showing good judgment; reasonable and practical",
     "cn_def": "明智的，理智的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "",
+        "en_def": "showing good judgment; reasonable and practical",
         "cn_def": "明智的，理智的"
-      }
-    ]
-  },
-  "contains": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "包含，容納",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "",
-        "cn_def": "包含，容納"
       }
     ]
   },
   "contain": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to have something inside or as a part",
     "cn_def": "包含，容納",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to have something inside or as a part",
         "cn_def": "包含，容納"
       },
       {
         "pos": "v.",
-        "en_def": "",
+        "en_def": "to keep something harmful under control and stop it from spreading",
         "cn_def": "抑制，遏阻"
+      }
+    ]
+  },
+  "contains": {
+    "pos": "v.",
+    "en_def": "to have something inside or as a part",
+    "cn_def": "包含，容納",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to have something inside or as a part",
+        "cn_def": "包含，容納"
       }
     ]
   },
   "container": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a box, bottle or other object used for holding something",
     "cn_def": "容器",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a box, bottle or other object used for holding something",
         "cn_def": "容器"
-      }
-    ]
-  },
-  "inform me of": {
-    "pos": "phr.",
-    "en_def": "",
-    "cn_def": "通知某人某事",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "",
-        "cn_def": "通知某人某事"
       }
     ]
   },
   "inform sb of sth": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to tell someone about something",
     "cn_def": "通知某人某事",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "",
+        "en_def": "to tell someone about something",
+        "cn_def": "通知某人某事"
+      }
+    ]
+  },
+  "inform me of": {
+    "pos": "phr.",
+    "en_def": "to tell someone about something",
+    "cn_def": "通知某人某事",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to tell someone about something",
         "cn_def": "通知某人某事"
       }
     ]
   },
   "communication": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the act of sharing information, ideas or feelings with other people",
     "cn_def": "溝通，交流",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "the act of sharing information, ideas or feelings with other people",
         "cn_def": "溝通，交流"
       }
     ]
   },
   "communicator": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who shares ideas and information with others, especially one who does it well",
     "cn_def": "溝通者，交流者",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "",
+        "en_def": "a person who shares ideas and information with others, especially one who does it well",
         "cn_def": "溝通者，交流者"
       }
     ]

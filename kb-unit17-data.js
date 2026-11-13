@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "specific",
     "answer": "specific",
     "pos": "adj.",
-    "definition": "",
+    "definition": "clearly stated; relating to one particular thing only",
     "chinese": "特定的",
     "sentence": "Can you provide more __________ details about the incident?",
     "translation": "你能提供更具體的事件細節嗎？",
     "lookup": {
-     "english": "",
+     "english": "clearly stated; relating to one particular thing only",
      "chinese": "特定的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "specify",
     "answer": "specify",
     "pos": "v.",
-    "definition": "",
+    "definition": "to state something clearly and exactly",
     "chinese": "具體說明",
     "sentence": "Please __________ which items you need from the list.",
     "translation": "請指明您需要清單上的哪些項目。",
     "lookup": {
-     "english": "",
+     "english": "to state something clearly and exactly",
      "chinese": "具體說明"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "analyze",
     "answer": "analyze",
     "pos": "v.",
-    "definition": "",
+    "definition": "to study something carefully in order to understand it",
     "chinese": "分析",
     "sentence": "Scientists need to __________ the data before drawing conclusions.",
     "translation": "科學家需要分析數據才能得出結論。",
     "lookup": {
-     "english": "",
+     "english": "to study something carefully in order to understand it",
      "chinese": "分析"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "analysis",
     "answer": "analysis",
     "pos": "n.",
-    "definition": "",
+    "definition": "a careful study of something in order to understand it",
     "chinese": "分析",
     "sentence": "The financial __________ showed a decline in profits.",
     "translation": "財務分析顯示利潤下降。",
     "lookup": {
-     "english": "",
+     "english": "a careful study of something in order to understand it",
      "chinese": "分析"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "analyst",
     "answer": "analyst",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person whose job is to study a subject carefully and give opinions about it",
     "chinese": "分析師",
     "sentence": "The market __________ predicted a rise in stock prices.",
     "translation": "市場分析師預測股價上漲。",
     "lookup": {
-     "english": "",
+     "english": "a person whose job is to study a subject carefully and give opinions about it",
      "chinese": "分析師"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "location",
     "answer": "location",
     "pos": "n.",
-    "definition": "",
+    "definition": "the place where something is or happens",
     "chinese": "位置",
     "sentence": "The exact __________ of the treasure remains unknown.",
     "translation": "寶藏的確切位置仍然未知。",
     "lookup": {
-     "english": "",
+     "english": "the place where something is or happens",
      "chinese": "位置"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "locate",
     "answer": "locate",
     "pos": "v.",
-    "definition": "",
+    "definition": "to find the exact position of something",
     "chinese": "找出⋯的位置",
     "sentence": "We need to __________ the source of the problem before we can fix it.",
     "translation": "我們需要找出問題的根源才能解決它。",
     "lookup": {
-     "english": "",
+     "english": "to find the exact position of something",
      "chinese": "找出⋯的位置"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "remote",
     "answer": "remote",
     "pos": "adj.",
-    "definition": "",
+    "definition": "far away from where most people live",
     "chinese": "偏遠的",
     "sentence": "Their village is __________ and difficult to reach.",
     "translation": "他們的村莊偏遠且難以到達。",
     "lookup": {
-     "english": "",
+     "english": "far away from where most people live",
      "chinese": "偏遠的"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "recognize",
     "answer": "recognize",
     "pos": "v.",
-    "definition": "",
+    "definition": "to know who someone is or what something is because you have seen or heard them before",
     "chinese": "認出",
     "sentence": "I __________ him from the photograph.",
     "translation": "我從照片上認出了他。",
     "lookup": {
-     "english": "",
+     "english": "to know who someone is or what something is because you have seen or heard them before",
      "chinese": "認出"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "recognizable",
     "answer": "recognizable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "easy to know or identify",
     "chinese": "可辨認的",
     "sentence": "Her voice is __________ even in a noisy room.",
     "translation": "她的聲音在嘈雜的房間裡也是可以辨認的。",
     "lookup": {
-     "english": "",
+     "english": "easy to know or identify",
      "chinese": "可辨認的"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "recognition",
     "answer": "recognition",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of knowing who someone is or what something is",
     "chinese": "辨認",
     "sentence": "His __________ of the suspect was crucial to the investigation.",
     "translation": "他對嫌疑人的辨認對調查至關重要。",
     "lookup": {
-     "english": "",
+     "english": "the act of knowing who someone is or what something is",
      "chinese": "辨認"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "harmony",
     "answer": "harmony",
     "pos": "n.",
-    "definition": "",
+    "definition": "a state of peaceful agreement; a pleasant combination of musical notes",
     "chinese": "和諧",
     "sentence": "The choir sang in perfect __________.",
     "translation": "合唱團的表演聲音和諧無比。",
     "lookup": {
-     "english": "",
+     "english": "a state of peaceful agreement; a pleasant combination of musical notes",
      "chinese": "和諧"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "harmonious",
     "answer": "harmonious",
     "pos": "adj.",
-    "definition": "",
+    "definition": "friendly and peaceful; going well together",
     "chinese": "融洽的",
     "sentence": "They had a __________ relationship with their neighbors.",
     "translation": "他們與鄰居之間有著融洽的關係。",
     "lookup": {
-     "english": "",
+     "english": "friendly and peaceful; going well together",
      "chinese": "融洽的"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "determine",
     "answer": "determine",
     "pos": "v.",
-    "definition": "",
+    "definition": "to find out or decide something exactly",
     "chinese": "判定",
     "sentence": "It's difficult to __________ the exact cause of the problem.",
     "translation": "很難判定問題的確切原因。",
     "lookup": {
-     "english": "",
+     "english": "to find out or decide something exactly",
      "chinese": "判定"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "determined",
     "answer": "determined",
     "pos": "adj.",
-    "definition": "",
+    "definition": "wanting to do something so much that you will not let anything stop you",
     "chinese": "堅定的",
     "sentence": "She was __________ to finish the marathon despite the rain.",
     "translation": "她下著雨也堅決要完成馬拉松賽。",
     "lookup": {
-     "english": "",
+     "english": "wanting to do something so much that you will not let anything stop you",
      "chinese": "堅定的"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "determination",
     "answer": "determination",
     "pos": "n.",
-    "definition": "",
+    "definition": "the quality of continuing to try to do something even when it is difficult",
     "chinese": "決心",
     "sentence": "His __________ to succeed kept him going through difficult times.",
     "translation": "他成功的決心支持他度過了困難時期。",
     "lookup": {
-     "english": "",
+     "english": "the quality of continuing to try to do something even when it is difficult",
      "chinese": "決心"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "accuracy",
     "answer": "accuracy",
     "pos": "n.",
-    "definition": "",
+    "definition": "the quality of being correct and exact",
     "chinese": "準確",
     "sentence": "The __________ of his predictions surprised everyone.",
     "translation": "他預測的準確性讓所有人都感到驚訝。",
     "lookup": {
-     "english": "",
+     "english": "the quality of being correct and exact",
      "chinese": "準確"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "accurate",
     "answer": "accurate",
     "pos": "adj.",
-    "definition": "",
+    "definition": "correct and exact; without mistakes",
     "chinese": "準確的",
     "sentence": "Her answers were __________ and well-researched.",
     "translation": "她的答案準確且經過深入研究。",
     "lookup": {
-     "english": "",
+     "english": "correct and exact; without mistakes",
      "chinese": "準確的"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "vary",
     "answer": "vary",
     "pos": "v.",
-    "definition": "",
+    "definition": "to be different from each other; to change according to the situation",
     "chinese": "有差異",
     "sentence": "Prices __________ depending on the time of year.",
     "translation": "價格因年份不同而有所不同。",
     "lookup": {
-     "english": "",
+     "english": "to be different from each other; to change according to the situation",
      "chinese": "有差異"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "variation",
     "answer": "variation",
     "pos": "n.",
-    "definition": "",
+    "definition": "a change or difference in amount, level or form",
     "chinese": "變化",
     "sentence": "There is a __________ in temperature between day and night.",
     "translation": "白天和晚上的溫度有所不同。",
     "lookup": {
-     "english": "",
+     "english": "a change or difference in amount, level or form",
      "chinese": "變化"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "various",
     "answer": "various",
     "pos": "adj.",
-    "definition": "",
+    "definition": "several different",
     "chinese": "多種的",
     "sentence": "The store sells __________ types of imported chocolates.",
     "translation": "這家商店出售多種進口巧克力。",
     "lookup": {
-     "english": "",
+     "english": "several different",
      "chinese": "多種的"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "varying",
     "answer": "varying",
     "pos": "adj.",
-    "definition": "",
+    "definition": "changing or being different",
     "chinese": "變化的",
     "sentence": "His mood was __________; you never knew how he would react.",
     "translation": "他的心情變化無常，你永遠不知道他會有什麼反應。",
     "lookup": {
-     "english": "",
+     "english": "changing or being different",
      "chinese": "變化的"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "rare",
     "answer": "rare",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not seen or found very often",
     "chinese": "罕見的",
     "sentence": "It's __________ to find such old books in such good condition.",
     "translation": "在這樣良好的狀況下找到這麼老的書是非常罕見的。",
     "lookup": {
-     "english": "",
+     "english": "not seen or found very often",
      "chinese": "罕見的"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "occasion",
     "answer": "occasions",
     "pos": "n.",
-    "definition": "",
+    "definition": "a special event; a time when something happens",
     "chinese": "場合",
     "sentence": "On special __________, we go out for dinner.",
     "translation": "在特殊場合，我們出去吃飯。",
     "lookup": {
-     "english": "",
+     "english": "a special event; a time when something happens",
      "chinese": "場合"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "cooperate",
     "answer": "cooperate",
     "pos": "v.",
-    "definition": "",
+    "definition": "to work together with other people to achieve something",
     "chinese": "合作",
     "sentence": "The two companies agreed to __________ on the new project.",
     "translation": "這兩家公司同意在新項目上進行合作。",
     "lookup": {
-     "english": "",
+     "english": "to work together with other people to achieve something",
      "chinese": "合作"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "cooperation",
     "answer": "Cooperation",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of working together to achieve something",
     "chinese": "合作",
     "sentence": "__________ between departments is crucial for the project's success.",
     "translation": "各部門之間的合作對項目的成功至關重要。",
     "lookup": {
-     "english": "",
+     "english": "the act of working together to achieve something",
      "chinese": "合作"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "exchange",
     "answer": "exchange",
     "pos": "v.",
-    "definition": "",
+    "definition": "to give something to someone and receive something from them",
     "chinese": "交換",
     "sentence": "We need to __________ ideas to improve our strategy.",
     "translation": "我們需要交換意見來改進我們的策略。",
     "lookup": {
-     "english": "",
+     "english": "to give something to someone and receive something from them",
      "chinese": "交換"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "ignore",
     "answer": "ignore",
     "pos": "v.",
-    "definition": "",
+    "definition": "to pay no attention to someone or something",
     "chinese": "忽視",
     "sentence": "You can't __________ the importance of regular exercise.",
     "translation": "你不能忽視定期運動的重要性。",
     "lookup": {
-     "english": "",
+     "english": "to pay no attention to someone or something",
      "chinese": "忽視"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "ignorance",
     "answer": "ignorance",
     "pos": "n.",
-    "definition": "",
+    "definition": "a lack of knowledge about something",
     "chinese": "(對某事物)不了解",
     "sentence": "His __________ of the rules led to his disqualification.",
     "translation": "他對規則的無知導致了他的被取消資格。",
     "lookup": {
-     "english": "",
+     "english": "a lack of knowledge about something",
      "chinese": "(對某事物)不了解"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "function",
     "answer": "function",
     "pos": "v.",
-    "definition": "",
+    "definition": "to work or operate in the correct way",
     "chinese": "起作用",
     "sentence": "The new machine didn't __________ properly.",
     "translation": "這台新機器的功能不正常。",
     "lookup": {
-     "english": "",
+     "english": "to work or operate in the correct way",
      "chinese": "起作用"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "functional",
     "answer": "functional",
     "pos": "adj.",
-    "definition": "",
+    "definition": "working correctly; practical and useful",
     "chinese": "起作用的",
     "sentence": "Is the printer __________",
     "translation": "打印機正常工作嗎？",
     "lookup": {
-     "english": "",
+     "english": "working correctly; practical and useful",
      "chinese": "起作用的"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "malfunction",
     "answer": "malfunction",
     "pos": "v.",
-    "definition": "",
+    "definition": "(of a machine) to fail to work correctly",
     "chinese": "故障",
     "sentence": "There was a __________ in the system that caused the delay.",
     "translation": "系統出現故障導致了延誤。",
     "lookup": {
-     "english": "",
+     "english": "(of a machine) to fail to work correctly",
      "chinese": "故障"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "territory",
     "answer": "territory",
     "pos": "n.",
-    "definition": "",
+    "definition": "land that belongs to a country, person or animal",
     "chinese": "領土",
     "sentence": "The cats marked their __________ with scent.",
     "translation": "貓用氣味標記了他們的領土。",
     "lookup": {
-     "english": "",
+     "english": "land that belongs to a country, person or animal",
      "chinese": "領土"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "survive",
     "answer": "survive",
     "pos": "v.",
-    "definition": "",
+    "definition": "to continue to live after a dangerous event or difficult time",
     "chinese": "倖存下來",
     "sentence": "He managed to __________ the harsh winter with limited resources.",
     "translation": "他設法在資源有限的情況下度過了嚴冬。",
     "lookup": {
-     "english": "",
+     "english": "to continue to live after a dangerous event or difficult time",
      "chinese": "倖存下來"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "survival",
     "answer": "Survival",
     "pos": "n.",
-    "definition": "",
+    "definition": "the state of continuing to live in spite of danger or difficulty",
     "chinese": "生存",
     "sentence": "__________ skills are essential for outdoor enthusiasts.",
     "translation": "對於戶外愛好者來說，生存技能至關重要。",
     "lookup": {
-     "english": "",
+     "english": "the state of continuing to live in spite of danger or difficulty",
      "chinese": "生存"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "identify",
     "answer": "identify",
     "pos": "v.",
-    "definition": "",
+    "definition": "to recognize someone or something and say who or what they are",
     "chinese": "識別",
     "sentence": "Can you __________ the person in this photograph?",
     "translation": "你能識別這張照片中的這個人嗎？",
     "lookup": {
-     "english": "",
+     "english": "to recognize someone or something and say who or what they are",
      "chinese": "識別"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "identification",
     "answer": "identification",
     "pos": "n.",
-    "definition": "",
+    "definition": "an official document that proves who you are; the act of recognizing someone",
     "chinese": "身分證明",
     "sentence": "The suspect's __________ was confirmed by fingerprints.",
     "translation": "嫌疑人的身份被指紋確認了。",
     "lookup": {
-     "english": "",
+     "english": "an official document that proves who you are; the act of recognizing someone",
      "chinese": "身分證明"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "identity",
     "answer": "identity",
     "pos": "n.",
-    "definition": "",
+    "definition": "who a person is; the qualities that make a person or group different from others",
     "chinese": "身份",
     "sentence": "She struggled to maintain her cultural __________ while living abroad.",
     "translation": "她在國外生活時努力維持她的文化身份。",
     "lookup": {
-     "english": "",
+     "english": "who a person is; the qualities that make a person or group different from others",
      "chinese": "身份"
     }
    },
@@ -502,12 +502,12 @@ window.FLASHCARD_UNITS = {
     "word": "evidence",
     "answer": "evidence",
     "pos": "n.",
-    "definition": "",
+    "definition": "facts, signs or objects that make you believe something is true",
     "chinese": "證據",
     "sentence": "The police found DNA __________ linking the suspect to the crime scene.",
     "translation": "警方找到了將嫌疑人與犯罪現場聯繫起來的DNA證據。",
     "lookup": {
-     "english": "",
+     "english": "facts, signs or objects that make you believe something is true",
      "chinese": "證據"
     }
    },
@@ -515,12 +515,12 @@ window.FLASHCARD_UNITS = {
     "word": "capacity",
     "answer": "capacity",
     "pos": "n.",
-    "definition": "",
+    "definition": "the amount that something can hold or produce; the ability to do something",
     "chinese": "能力",
     "sentence": "The stadium has a seating __________ of 50,000 people.",
     "translation": "這個體育場的容納能力為50,000人。",
     "lookup": {
-     "english": "",
+     "english": "the amount that something can hold or produce; the ability to do something",
      "chinese": "能力"
     }
    },
@@ -528,12 +528,12 @@ window.FLASHCARD_UNITS = {
     "word": "capable",
     "answer": "capable",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having the ability or skill needed to do something",
     "chinese": "有能力的",
     "sentence": "She's __________ of handling the project on her own.",
     "translation": "她有能力獨立完成這個項目。",
     "lookup": {
-     "english": "",
+     "english": "having the ability or skill needed to do something",
      "chinese": "有能力的"
     }
    },
@@ -541,12 +541,12 @@ window.FLASHCARD_UNITS = {
     "word": "demonstrate",
     "answer": "demonstrate",
     "pos": "v.",
-    "definition": "",
+    "definition": "to show clearly how something works or how to do something",
     "chinese": "示範說明",
     "sentence": "He will __________ the new software to the team tomorrow.",
     "translation": "明天他將向團隊示範這款新軟件。",
     "lookup": {
-     "english": "",
+     "english": "to show clearly how something works or how to do something",
      "chinese": "示範說明"
     }
    },
@@ -554,12 +554,12 @@ window.FLASHCARD_UNITS = {
     "word": "demonstration",
     "answer": "demonstration",
     "pos": "n.",
-    "definition": "",
+    "definition": "an act of showing how something works or how to do something",
     "chinese": "示範",
     "sentence": "The scientist gave a __________ of the experiment at the conference.",
     "translation": "科學家在會議上對實驗進行了示範。",
     "lookup": {
-     "english": "",
+     "english": "an act of showing how something works or how to do something",
      "chinese": "示範"
     }
    },
@@ -567,12 +567,12 @@ window.FLASHCARD_UNITS = {
     "word": "demonstrator",
     "answer": "demonstrators",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who takes part in a public protest",
     "chinese": "示威者",
     "sentence": "The __________ marched through the streets to protest peacefully.",
     "translation": "示威者在街上遊行以和平抗議。",
     "lookup": {
-     "english": "",
+     "english": "a person who takes part in a public protest",
      "chinese": "示威者"
     }
    },
@@ -580,12 +580,12 @@ window.FLASHCARD_UNITS = {
     "word": "scratch",
     "answer": "scratched",
     "pos": "v.",
-    "definition": "",
+    "definition": "to rub or cut a surface or your skin with something sharp",
     "chinese": "抓;擦傷;刮擦聲",
     "sentence": "I __________ my arm on the rough wall.",
     "translation": "我把手臂擦傷在粗糙的牆上。",
     "lookup": {
-     "english": "",
+     "english": "to rub or cut a surface or your skin with something sharp",
      "chinese": "抓;擦傷;刮擦聲"
     }
    },
@@ -593,12 +593,12 @@ window.FLASHCARD_UNITS = {
     "word": "scratch",
     "answer": "scratch",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small cut or mark made by something sharp",
     "chinese": "抓;擦傷;刮擦聲",
     "sentence": "He felt a __________ on his arm after climbing the rough wall.",
     "translation": "他爬粗糙的牆後感到手臂上有一處擦傷。",
     "lookup": {
-     "english": "",
+     "english": "a small cut or mark made by something sharp",
      "chinese": "抓;擦傷;刮擦聲"
     }
    }
@@ -1665,4 +1665,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"specific":["","特定的"],"specify":["","具體說明"],"analyze":["","分析"],"analysis":["","分析"],"analyst":["","分析師"],"location":["","位置"],"locate":["","找出⋯的位置"],"remote":["","偏遠的"],"recognize":["","認出"],"recognizable":["","可辨認的"],"recognition":["","辨認"],"harmony":["","和諧"],"harmonious":["","融洽的"],"determine":["","判定"],"determined":["","堅定的"],"determination":["","決心"],"accuracy":["","準確"],"accurate":["","準確的"],"vary":["","有差異"],"variation":["","變化"],"various":["","多種的"],"varying":["","變化的"],"rare":["","罕見的"],"occasion":["","場合"],"occasions":["","場合"],"cooperate":["","合作"],"cooperation":["","合作"],"exchange":["","交換"],"ignore":["","忽視"],"ignorance":["","(對某事物)不了解"],"function":["","起作用"],"functional":["","起作用的"],"malfunction":["","故障"],"territory":["","領土"],"survive":["","倖存下來"],"survival":["","生存"],"identify":["","識別"],"identification":["","身分證明"],"identity":["","身份"],"evidence":["","證據"],"capacity":["","能力"],"capable":["","有能力的"],"demonstrate":["","示範說明"],"demonstration":["","示範"],"demonstrators":["","示威者"],"demonstrator":["","示威者"],"scratched":["","抓;擦傷;刮擦聲"],"scratch":["","抓;擦傷;刮擦聲"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"specific":["clearly stated; relating to one particular thing only","特定的"],"specify":["to state something clearly and exactly","具體說明"],"analyze":["to study something carefully in order to understand it","分析"],"analysis":["a careful study of something in order to understand it","分析"],"analyst":["a person whose job is to study a subject carefully and give opinions about it","分析師"],"location":["the place where something is or happens","位置"],"locate":["to find the exact position of something","找出⋯的位置"],"remote":["far away from where most people live","偏遠的"],"recognize":["to know who someone is or what something is because you have seen or heard them before","認出"],"recognizable":["easy to know or identify","可辨認的"],"recognition":["the act of knowing who someone is or what something is","辨認"],"harmony":["a state of peaceful agreement; a pleasant combination of musical notes","和諧"],"harmonious":["friendly and peaceful; going well together","融洽的"],"determine":["to find out or decide something exactly","判定"],"determined":["wanting to do something so much that you will not let anything stop you","堅定的"],"determination":["the quality of continuing to try to do something even when it is difficult","決心"],"accuracy":["the quality of being correct and exact","準確"],"accurate":["correct and exact; without mistakes","準確的"],"vary":["to be different from each other; to change according to the situation","有差異"],"variation":["a change or difference in amount, level or form","變化"],"various":["several different","多種的"],"varying":["changing or being different","變化的"],"rare":["not seen or found very often","罕見的"],"occasion":["a special event; a time when something happens","場合"],"occasions":["a special event; a time when something happens","場合"],"cooperate":["to work together with other people to achieve something","合作"],"cooperation":["the act of working together to achieve something","合作"],"exchange":["to give something to someone and receive something from them","交換"],"ignore":["to pay no attention to someone or something","忽視"],"ignorance":["a lack of knowledge about something","(對某事物)不了解"],"function":["to work or operate in the correct way","起作用"],"functional":["working correctly; practical and useful","起作用的"],"malfunction":["(of a machine) to fail to work correctly","故障"],"territory":["land that belongs to a country, person or animal","領土"],"survive":["to continue to live after a dangerous event or difficult time","倖存下來"],"survival":["the state of continuing to live in spite of danger or difficulty","生存"],"identify":["to recognize someone or something and say who or what they are","識別"],"identification":["an official document that proves who you are; the act of recognizing someone","身分證明"],"identity":["who a person is; the qualities that make a person or group different from others","身份"],"evidence":["facts, signs or objects that make you believe something is true","證據"],"capacity":["the amount that something can hold or produce; the ability to do something","能力"],"capable":["having the ability or skill needed to do something","有能力的"],"demonstrate":["to show clearly how something works or how to do something","示範說明"],"demonstration":["an act of showing how something works or how to do something","示範"],"demonstrator":["a person who takes part in a public protest","示威者"],"demonstrators":["a person who takes part in a public protest","示威者"],"scratch":["to rub or cut a surface or your skin with something sharp","抓;擦傷;刮擦聲"],"scratched":["to rub or cut a surface or your skin with something sharp","抓;擦傷;刮擦聲"]});
