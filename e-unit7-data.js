@@ -774,107 +774,15 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: How many noses are there on your face? — A: There is only __________ nose.【一】",
+    "question": "A week has seven days, but a person has only __________ nose. It is in the middle of the face.",
     "options": [
      {
       "letter": "A",
-      "text": "thousand"
-     },
-     {
-      "letter": "B",
-      "text": "fourth"
-     },
-     {
-      "letter": "C",
-      "text": "one"
-     },
-     {
-      "letter": "D",
-      "text": "thirty"
-     }
-    ],
-    "answer": "C",
-    "vi": 0
-   },
-   {
-    "question": "Q: How many eyes are there on your face? — A: There are __________ eyes.【二】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "eighty"
-     },
-     {
-      "letter": "B",
       "text": "two"
      },
      {
-      "letter": "C",
-      "text": "eight"
-     },
-     {
-      "letter": "D",
-      "text": "seven"
-     }
-    ],
-    "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "Q: How many people are there in your family? — A: There are __________: my dad, my mom and me.【三】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "five"
-     },
-     {
       "letter": "B",
-      "text": "eighteen"
-     },
-     {
-      "letter": "C",
-      "text": "seven"
-     },
-     {
-      "letter": "D",
-      "text": "three"
-     }
-    ],
-    "answer": "D",
-    "vi": 2
-   },
-   {
-    "question": "Q: How many seasons are there in a year? — A: There are __________ seasons.【四】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "four"
-     },
-     {
-      "letter": "B",
-      "text": "six"
-     },
-     {
-      "letter": "C",
-      "text": "zero"
-     },
-     {
-      "letter": "D",
-      "text": "first"
-     }
-    ],
-    "answer": "A",
-    "vi": 3
-   },
-   {
-    "question": "Q: How many fingers are there on one hand? — A: There are __________ fingers.【五】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "eight"
-     },
-     {
-      "letter": "B",
-      "text": "ten"
+      "text": "one"
      },
      {
       "letter": "C",
@@ -882,271 +790,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "thousand"
+      "text": "ten"
      }
     ],
-    "answer": "C",
-    "vi": 4
+    "answer": "B",
+    "vi": 0
    },
    {
-    "question": "Q: How many days are there in a week? — A: There are __________ days.【七】",
+    "question": "People have __________ hands and ten fingers. We use them to hold, carry, and make things.",
     "options": [
      {
       "letter": "A",
-      "text": "sixty"
-     },
-     {
-      "letter": "B",
-      "text": "fifteen"
-     },
-     {
-      "letter": "C",
-      "text": "eight"
-     },
-     {
-      "letter": "D",
-      "text": "seven"
-     }
-    ],
-    "answer": "D",
-    "vi": 5
-   },
-   {
-    "question": "Q: How many legs are there on a spider? — A: There are __________ legs.【八】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "eight"
-     },
-     {
-      "letter": "B",
       "text": "three"
-     },
-     {
-      "letter": "C",
-      "text": "ten"
-     },
-     {
-      "letter": "D",
-      "text": "forty"
-     }
-    ],
-    "answer": "A",
-    "vi": 6
-   },
-   {
-    "question": "Q: How many fingers are there on your two hands? — A: There are __________ fingers.【十】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "third"
-     },
-     {
-      "letter": "B",
-      "text": "ten"
-     },
-     {
-      "letter": "C",
-      "text": "fourteenth"
-     },
-     {
-      "letter": "D",
-      "text": "sixteen"
-     }
-    ],
-    "answer": "B",
-    "vi": 7
-   },
-   {
-    "question": "Q: How many months are there in a year? — A: There are __________ months.【十二】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fifteenth"
-     },
-     {
-      "letter": "B",
-      "text": "ninth"
-     },
-     {
-      "letter": "C",
-      "text": "ten"
-     },
-     {
-      "letter": "D",
-      "text": "twelve"
-     }
-    ],
-    "answer": "D",
-    "vi": 8
-   },
-   {
-    "question": "Q: How many students are there in your class? — A: There are __________ students: ten boys and ten girls.【二十】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "twenty"
-     },
-     {
-      "letter": "B",
-      "text": "fifteenth"
-     },
-     {
-      "letter": "C",
-      "text": "eighty"
-     },
-     {
-      "letter": "D",
-      "text": "thirteen"
-     }
-    ],
-    "answer": "A",
-    "vi": 9
-   },
-   {
-    "question": "Q: How many days are there in June? — A: There are __________ days.【三十】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "first"
-     },
-     {
-      "letter": "B",
-      "text": "thirteen"
-     },
-     {
-      "letter": "C",
-      "text": "thirty"
-     },
-     {
-      "letter": "D",
-      "text": "fourteen"
-     }
-    ],
-    "answer": "C",
-    "vi": 10
-   },
-   {
-    "question": "Q: How many minutes are there in an hour? — A: There are __________ minutes.【六十】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fourth"
-     },
-     {
-      "letter": "B",
-      "text": "sixty"
-     },
-     {
-      "letter": "C",
-      "text": "sixteen"
-     },
-     {
-      "letter": "D",
-      "text": "twelve"
-     }
-    ],
-    "answer": "B",
-    "vi": 11
-   },
-   {
-    "question": "Q: How many pages are there in your English book? — A: There are one __________ pages.【百】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "four"
-     },
-     {
-      "letter": "B",
-      "text": "ten"
-     },
-     {
-      "letter": "C",
-      "text": "twenty"
-     },
-     {
-      "letter": "D",
-      "text": "hundred"
-     }
-    ],
-    "answer": "D",
-    "vi": 12
-   },
-   {
-    "question": "Q: How many students are there in your school? — A: There are two __________ students. It's a big school.【千】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "seven"
-     },
-     {
-      "letter": "B",
-      "text": "fifteen"
-     },
-     {
-      "letter": "C",
-      "text": "thousand"
-     },
-     {
-      "letter": "D",
-      "text": "sixteen"
-     }
-    ],
-    "answer": "C",
-    "vi": 13
-   },
-   {
-    "question": "Q: How many people are there in Taipei? — A: There are more than two __________ people.【百萬】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "million"
-     },
-     {
-      "letter": "B",
-      "text": "ten"
-     },
-     {
-      "letter": "C",
-      "text": "eighth"
-     },
-     {
-      "letter": "D",
-      "text": "sixty"
-     }
-    ],
-    "answer": "A",
-    "vi": 14
-   },
-   {
-    "question": "Q: How old is your little brother? — A: He is __________ years old. He goes to elementary school.【六】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "first"
-     },
-     {
-      "letter": "B",
-      "text": "six"
-     },
-     {
-      "letter": "C",
-      "text": "nineteen"
-     },
-     {
-      "letter": "D",
-      "text": "fifteen"
-     }
-    ],
-    "answer": "B",
-    "vi": 15
-   },
-   {
-    "question": "Q: How old is Amy's cat? — A: It is __________ years old. It's an old cat.【九】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "eighty"
      },
      {
       "letter": "B",
@@ -1158,45 +813,114 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "seventy"
-     }
-    ],
-    "answer": "C",
-    "vi": 16
-   },
-   {
-    "question": "Q: How old are Ben and Lily? — A: They are __________ years old. They are in the same class.【十一】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "seventy"
-     },
-     {
-      "letter": "B",
-      "text": "zero"
-     },
-     {
-      "letter": "C",
-      "text": "million"
-     },
-     {
-      "letter": "D",
-      "text": "eleven"
+      "text": "two"
      }
     ],
     "answer": "D",
-    "vi": 17
+    "vi": 1
    },
    {
-    "question": "Q: How old are you? — A: I am __________ years old. I'm in junior high school.【十三】",
+    "question": "There are __________ people in my family: my father, my mother, and me. We live in a small apartment.",
     "options": [
      {
       "letter": "A",
-      "text": "second"
+      "text": "two"
      },
      {
       "letter": "B",
-      "text": "thirteen"
+      "text": "five"
+     },
+     {
+      "letter": "C",
+      "text": "three"
+     },
+     {
+      "letter": "D",
+      "text": "eight"
+     }
+    ],
+    "answer": "C",
+    "vi": 2
+   },
+   {
+    "question": "A dog has __________ legs, but a bird has only two. That is why a dog can run so fast.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "four"
+     },
+     {
+      "letter": "B",
+      "text": "three"
+     },
+     {
+      "letter": "C",
+      "text": "six"
+     },
+     {
+      "letter": "D",
+      "text": "eight"
+     }
+    ],
+    "answer": "A",
+    "vi": 3
+   },
+   {
+    "question": "You have __________ fingers on each hand. Together, your two hands have ten fingers.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "four"
+     },
+     {
+      "letter": "B",
+      "text": "six"
+     },
+     {
+      "letter": "C",
+      "text": "seven"
+     },
+     {
+      "letter": "D",
+      "text": "five"
+     }
+    ],
+    "answer": "D",
+    "vi": 4
+   },
+   {
+    "question": "There are __________ days in a week. They are Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "seven"
+     },
+     {
+      "letter": "B",
+      "text": "five"
+     },
+     {
+      "letter": "C",
+      "text": "six"
+     },
+     {
+      "letter": "D",
+      "text": "eight"
+     }
+    ],
+    "answer": "A",
+    "vi": 5
+   },
+   {
+    "question": "A spider has __________ legs, so it is not an insect. Insects like ants and bees have only six.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "four"
+     },
+     {
+      "letter": "B",
+      "text": "eight"
      },
      {
       "letter": "C",
@@ -1204,14 +928,336 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "eight"
+      "text": "twelve"
      }
     ],
     "answer": "B",
+    "vi": 6
+   },
+   {
+    "question": "Five plus five is __________. You can check the answer by counting all the fingers on your two hands.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "eight"
+     },
+     {
+      "letter": "B",
+      "text": "nine"
+     },
+     {
+      "letter": "C",
+      "text": "ten"
+     },
+     {
+      "letter": "D",
+      "text": "twelve"
+     }
+    ],
+    "answer": "C",
+    "vi": 7
+   },
+   {
+    "question": "There are __________ months in a year. The first one is January, and the last one is December.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "twelve"
+     },
+     {
+      "letter": "B",
+      "text": "ten"
+     },
+     {
+      "letter": "C",
+      "text": "eleven"
+     },
+     {
+      "letter": "D",
+      "text": "twenty"
+     }
+    ],
+    "answer": "A",
+    "vi": 8
+   },
+   {
+    "question": "Ten plus ten is __________. That is also the number of all your fingers and toes together.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "twelve"
+     },
+     {
+      "letter": "B",
+      "text": "thirty"
+     },
+     {
+      "letter": "C",
+      "text": "twenty"
+     },
+     {
+      "letter": "D",
+      "text": "sixty"
+     }
+    ],
+    "answer": "C",
+    "vi": 9
+   },
+   {
+    "question": "There are __________ days in April, June, September, and November. The other months have more or fewer days.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "twenty"
+     },
+     {
+      "letter": "B",
+      "text": "thirty"
+     },
+     {
+      "letter": "C",
+      "text": "sixty"
+     },
+     {
+      "letter": "D",
+      "text": "twelve"
+     }
+    ],
+    "answer": "B",
+    "vi": 10
+   },
+   {
+    "question": "There are __________ minutes in an hour, and there is the same number of seconds in a minute.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "thirty"
+     },
+     {
+      "letter": "B",
+      "text": "forty"
+     },
+     {
+      "letter": "C",
+      "text": "fifty"
+     },
+     {
+      "letter": "D",
+      "text": "sixty"
+     }
+    ],
+    "answer": "D",
+    "vi": 11
+   },
+   {
+    "question": "There are one __________ cents in a dollar, so fifty cents is half of a dollar.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "thousand"
+     },
+     {
+      "letter": "B",
+      "text": "million"
+     },
+     {
+      "letter": "C",
+      "text": "hundred"
+     },
+     {
+      "letter": "D",
+      "text": "zero"
+     }
+    ],
+    "answer": "C",
+    "vi": 12
+   },
+   {
+    "question": "Ten hundred is one __________. We write this number as a one with three zeros after it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "thousand"
+     },
+     {
+      "letter": "B",
+      "text": "hundred"
+     },
+     {
+      "letter": "C",
+      "text": "million"
+     },
+     {
+      "letter": "D",
+      "text": "twenty"
+     }
+    ],
+    "answer": "A",
+    "vi": 13
+   },
+   {
+    "question": "A __________ is a very big number. We write it as a one with six zeros: 1,000,000.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hundred"
+     },
+     {
+      "letter": "B",
+      "text": "million"
+     },
+     {
+      "letter": "C",
+      "text": "thousand"
+     },
+     {
+      "letter": "D",
+      "text": "ninety"
+     }
+    ],
+    "answer": "B",
+    "vi": 14
+   },
+   {
+    "question": "An ant has __________ legs, like all insects. A spider has two more legs than an ant.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "four"
+     },
+     {
+      "letter": "B",
+      "text": "five"
+     },
+     {
+      "letter": "C",
+      "text": "ten"
+     },
+     {
+      "letter": "D",
+      "text": "six"
+     }
+    ],
+    "answer": "D",
+    "vi": 15
+   },
+   {
+    "question": "Ten minus one is __________. This number comes right after eight when you count.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "seven"
+     },
+     {
+      "letter": "B",
+      "text": "nine"
+     },
+     {
+      "letter": "C",
+      "text": "eleven"
+     },
+     {
+      "letter": "D",
+      "text": "six"
+     }
+    ],
+    "answer": "B",
+    "vi": 16
+   },
+   {
+    "question": "A soccer team has __________ players on the field. That is one more than ten.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "eleven"
+     },
+     {
+      "letter": "B",
+      "text": "nine"
+     },
+     {
+      "letter": "C",
+      "text": "twelve"
+     },
+     {
+      "letter": "D",
+      "text": "thirteen"
+     }
+    ],
+    "answer": "A",
+    "vi": 17
+   },
+   {
+    "question": "Ten plus three is __________. Some people think this number is not lucky.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "eleven"
+     },
+     {
+      "letter": "B",
+      "text": "thirty"
+     },
+     {
+      "letter": "C",
+      "text": "thirteen"
+     },
+     {
+      "letter": "D",
+      "text": "fourteen"
+     }
+    ],
+    "answer": "C",
     "vi": 18
    },
    {
-    "question": "Q: How old is your cousin? — A: She is __________. She is one year older than me.【十四】",
+    "question": "Two weeks have __________ days. Seven plus seven makes this number.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "twelve"
+     },
+     {
+      "letter": "B",
+      "text": "forty"
+     },
+     {
+      "letter": "C",
+      "text": "sixteen"
+     },
+     {
+      "letter": "D",
+      "text": "fourteen"
+     }
+    ],
+    "answer": "D",
+    "vi": 19
+   },
+   {
+    "question": "A quarter of an hour is __________ minutes. Four quarters make one hour.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fifteen"
+     },
+     {
+      "letter": "B",
+      "text": "five"
+     },
+     {
+      "letter": "C",
+      "text": "fifty"
+     },
+     {
+      "letter": "D",
+      "text": "thirty"
+     }
+    ],
+    "answer": "A",
+    "vi": 20
+   },
+   {
+    "question": "Eight plus eight is __________. My sister is this age, so she is in senior high school now.",
     "options": [
      {
       "letter": "A",
@@ -1223,114 +1269,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "zero"
-     },
-     {
-      "letter": "D",
-      "text": "nineteen"
-     }
-    ],
-    "answer": "A",
-    "vi": 19
-   },
-   {
-    "question": "Q: How old is Tom? — A: He is __________ years old. He is a teenager.【十五】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "one"
-     },
-     {
-      "letter": "B",
-      "text": "fifteen"
-     },
-     {
-      "letter": "C",
-      "text": "zero"
-     },
-     {
-      "letter": "D",
-      "text": "nineteen"
-     }
-    ],
-    "answer": "B",
-    "vi": 20
-   },
-   {
-    "question": "Q: How old is your sister? — A: She is __________. She goes to senior high school.【十六】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "five"
-     },
-     {
-      "letter": "B",
       "text": "sixty"
      },
      {
-      "letter": "C",
-      "text": "seventeen"
-     },
-     {
       "letter": "D",
-      "text": "sixteen"
+      "text": "eighteen"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 21
    },
    {
-    "question": "Q: How old is your brother? — A: He is __________ years old. He can drive a car now.【十八】",
+    "question": "Nine plus nine is __________. In Taiwan, you can drive a car when you reach this age.",
     "options": [
      {
       "letter": "A",
-      "text": "eight"
+      "text": "sixteen"
      },
      {
       "letter": "B",
-      "text": "five"
+      "text": "eighty"
      },
      {
       "letter": "C",
-      "text": "eighteen"
-     },
-     {
-      "letter": "D",
-      "text": "third"
-     }
-    ],
-    "answer": "C",
-    "vi": 22
-   },
-   {
-    "question": "Q: How old is Mary? — A: She is __________. She will be twenty next year.【十九】",
-    "options": [
-     {
-      "letter": "A",
       "text": "nineteen"
      },
      {
-      "letter": "B",
-      "text": "six"
-     },
-     {
-      "letter": "C",
-      "text": "fifth"
-     },
-     {
       "letter": "D",
-      "text": "fifty"
+      "text": "eighteen"
      }
     ],
-    "answer": "A",
-    "vi": 23
+    "answer": "D",
+    "vi": 22
    },
    {
-    "question": "Q: How old is your father? — A: He is __________ years old. He looks young.【四十】",
+    "question": "Twenty minus one is __________. My brother is this age, and he will be twenty next year.",
     "options": [
      {
       "letter": "A",
-      "text": "fifteenth"
+      "text": "eighteen"
+     },
+     {
+      "letter": "B",
+      "text": "ninety"
+     },
+     {
+      "letter": "C",
+      "text": "nineteen"
+     },
+     {
+      "letter": "D",
+      "text": "seventeen"
+     }
+    ],
+    "answer": "C",
+    "vi": 23
+   },
+   {
+    "question": "Twenty plus twenty is __________. My father is this age, and my grandfather is seventy.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fourteen"
      },
      {
       "letter": "B",
@@ -1338,30 +1338,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "eleventh"
+      "text": "fifty"
      },
      {
       "letter": "D",
-      "text": "sixteen"
+      "text": "thirty"
      }
     ],
     "answer": "B",
     "vi": 24
    },
    {
-    "question": "Q: How old is your grandfather? — A: He is __________ years old, but he is still strong.【七十】",
+    "question": "Ten times seven is __________. My grandmother is this age, and she still cooks every day.",
     "options": [
      {
       "letter": "A",
-      "text": "ninth"
+      "text": "seventeen"
      },
      {
       "letter": "B",
-      "text": "fourteenth"
+      "text": "sixty"
      },
      {
       "letter": "C",
-      "text": "twenty"
+      "text": "eighty"
      },
      {
       "letter": "D",
@@ -1372,7 +1372,7 @@ window.FLASHCARD_UNITS = {
     "vi": 25
    },
    {
-    "question": "Q: How old is your grandmother? — A: She is __________ years old. She walks slowly.【八十】",
+    "question": "Forty plus forty is __________. My grandfather is this age, but he still walks to the park every day.",
     "options": [
      {
       "letter": "A",
@@ -1380,30 +1380,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "zero"
+      "text": "eighteen"
      },
      {
       "letter": "C",
-      "text": "two"
+      "text": "seventy"
      },
      {
       "letter": "D",
-      "text": "eighteen"
+      "text": "ninety"
      }
     ],
     "answer": "A",
     "vi": 26
    },
    {
-    "question": "Q: How old is that old man? — A: He is __________ years old. He lives next to us.【九十】",
+    "question": "One hundred minus ten is __________. Lisa got this score on the math test, and she was very happy.",
     "options": [
      {
       "letter": "A",
-      "text": "fourteen"
+      "text": "nineteen"
      },
      {
       "letter": "B",
-      "text": "fifth"
+      "text": "eighty"
      },
      {
       "letter": "C",
@@ -1411,14 +1411,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "forty"
+      "text": "seventy"
      }
     ],
     "answer": "C",
     "vi": 27
    },
    {
-    "question": "Q: What's five minus five? — A: It's __________.【零】",
+    "question": "Five minus five is __________. When the temperature goes down to this number, water turns into ice.",
     "options": [
      {
       "letter": "A",
@@ -1426,57 +1426,57 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "fourteen"
+      "text": "one"
      },
      {
       "letter": "C",
-      "text": "thousand"
+      "text": "ten"
      },
      {
       "letter": "D",
-      "text": "fifty"
+      "text": "hundred"
      }
     ],
     "answer": "A",
     "vi": 28
    },
    {
-    "question": "Q: What's ten plus seven? — A: It's __________.【十七】",
+    "question": "Ten plus seven is __________. My cousin is this age, and he is a senior high school student.",
     "options": [
      {
       "letter": "A",
-      "text": "one"
+      "text": "seventy"
      },
      {
       "letter": "B",
-      "text": "eight"
-     },
-     {
-      "letter": "C",
       "text": "seventeen"
      },
      {
+      "letter": "C",
+      "text": "sixteen"
+     },
+     {
       "letter": "D",
-      "text": "seventy"
+      "text": "fifteen"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 29
    },
    {
-    "question": "Q: What's twenty plus thirty? — A: It's __________.【五十】",
+    "question": "Half of one hundred is __________. My mother is this age, but she looks much younger.",
     "options": [
      {
       "letter": "A",
-      "text": "zero"
+      "text": "fifteen"
      },
      {
       "letter": "B",
-      "text": "nineteen"
+      "text": "forty"
      },
      {
       "letter": "C",
-      "text": "eighteen"
+      "text": "sixty"
      },
      {
       "letter": "D",
@@ -1487,7 +1487,7 @@ window.FLASHCARD_UNITS = {
     "vi": 30
    },
    {
-    "question": "Q: What's nine plus four? — A: It's thirteen. It's my lucky __________!【數字；號碼】",
+    "question": "What is your phone __________? I want to call you tonight to talk about our homework.",
     "options": [
      {
       "letter": "A",
@@ -1495,57 +1495,57 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "number"
+      "text": "minute"
      },
      {
       "letter": "C",
-      "text": "secretary"
+      "text": "number"
      },
      {
       "letter": "D",
-      "text": "station"
+      "text": "week"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 31
    },
    {
-    "question": "Q: What's two hundred plus three hundred? — A: It's five hundred. The __________ is five hundred dollars.【總數；總計】",
+    "question": "Three books at one hundred dollars each cost a __________ of three hundred dollars. Please pay at the front desk.",
     "options": [
      {
       "letter": "A",
+      "text": "moment"
+     },
+     {
+      "letter": "B",
       "text": "total"
      },
      {
-      "letter": "B",
-      "text": "number"
-     },
-     {
       "letter": "C",
-      "text": "fan"
+      "text": "season"
      },
      {
       "letter": "D",
-      "text": "family"
+      "text": "quarter"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 32
    },
    {
-    "question": "Q: Which floor does your grandma live on? — A: She lives on the __________ floor. She can't walk up the stairs.【第一（的）】",
+    "question": "January is the __________ month of the year. February comes right after it.",
     "options": [
      {
       "letter": "A",
-      "text": "thousand"
+      "text": "second"
      },
      {
       "letter": "B",
-      "text": "fifty"
+      "text": "third"
      },
      {
       "letter": "C",
-      "text": "sixteen"
+      "text": "last"
      },
      {
       "letter": "D",
@@ -1556,65 +1556,65 @@ window.FLASHCARD_UNITS = {
     "vi": 33
    },
    {
-    "question": "Q: Which floor do you live on? — A: I live on the __________ floor.【第二（的）】",
+    "question": "February is the __________ month of the year. It comes after January and before March.",
     "options": [
      {
       "letter": "A",
-      "text": "thirteen"
-     },
-     {
-      "letter": "B",
-      "text": "fifteen"
-     },
-     {
-      "letter": "C",
       "text": "second"
      },
      {
-      "letter": "D",
-      "text": "forty"
-     }
-    ],
-    "answer": "C",
-    "vi": 34
-   },
-   {
-    "question": "Q: Which floor do Ben and his parents live on? — A: They live on the __________ floor.【第三（的）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "zero"
+      "letter": "B",
+      "text": "first"
      },
      {
-      "letter": "B",
+      "letter": "C",
       "text": "third"
      },
      {
-      "letter": "C",
-      "text": "eighth"
-     },
-     {
       "letter": "D",
-      "text": "fourteen"
+      "text": "fifth"
      }
     ],
-    "answer": "B",
-    "vi": 35
+    "answer": "A",
+    "vi": 34
    },
    {
-    "question": "Q: Which floor does Tom live on? — A: He lives on the __________ floor, above us.【第四（的）】",
+    "question": "March is the __________ month of the year. It comes after February and before April.",
     "options": [
      {
       "letter": "A",
-      "text": "twelve"
+      "text": "second"
      },
      {
       "letter": "B",
-      "text": "ninety"
+      "text": "fourth"
      },
      {
       "letter": "C",
-      "text": "twenty"
+      "text": "third"
+     },
+     {
+      "letter": "D",
+      "text": "eighth"
+     }
+    ],
+    "answer": "C",
+    "vi": 35
+   },
+   {
+    "question": "April is the __________ month of the year. It comes after March and before May.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "third"
+     },
+     {
+      "letter": "B",
+      "text": "fifth"
+     },
+     {
+      "letter": "C",
+      "text": "ninth"
      },
      {
       "letter": "D",
@@ -1625,30 +1625,30 @@ window.FLASHCARD_UNITS = {
     "vi": 36
    },
    {
-    "question": "Q: Which floor do your cousins live on? — A: They live on the __________ floor.【第五（的）】",
+    "question": "May is the __________ month of the year. It comes after April and before June.",
     "options": [
      {
       "letter": "A",
-      "text": "sixty"
+      "text": "fourth"
      },
      {
       "letter": "B",
-      "text": "fourteen"
-     },
-     {
-      "letter": "C",
       "text": "fifth"
      },
      {
+      "letter": "C",
+      "text": "eighth"
+     },
+     {
       "letter": "D",
-      "text": "eighteen"
+      "text": "first"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 37
    },
    {
-    "question": "Q: Which floor does your uncle work on? — A: He works on the __________ floor of that building.【第八（的）】",
+    "question": "August is the __________ month of the year. It comes after July and before September.",
     "options": [
      {
       "letter": "A",
@@ -1656,118 +1656,141 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "nineteen"
+      "text": "fifth"
      },
      {
       "letter": "C",
-      "text": "thousand"
+      "text": "ninth"
      },
      {
       "letter": "D",
-      "text": "sixty"
+      "text": "eleventh"
      }
     ],
     "answer": "A",
     "vi": 38
    },
    {
-    "question": "Q: Which floor do you and your family live on? — A: We live on the __________ floor. We can see the park.【第九（的）】",
+    "question": "September is the __________ month of the year. It comes after August, and school starts in this month in Taiwan.",
     "options": [
      {
       "letter": "A",
-      "text": "eleven"
+      "text": "eighth"
      },
      {
       "letter": "B",
+      "text": "eleventh"
+     },
+     {
+      "letter": "C",
       "text": "ninth"
      },
      {
-      "letter": "C",
-      "text": "thirty"
-     },
-     {
       "letter": "D",
-      "text": "fifth"
-     }
-    ],
-    "answer": "B",
-    "vi": 39
-   },
-   {
-    "question": "Q: When does Amy have her birthday party? — A: She has it on the __________ of May.【第十一（的）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "million"
-     },
-     {
-      "letter": "B",
-      "text": "fifth"
-     },
-     {
-      "letter": "C",
-      "text": "eleventh"
-     },
-     {
-      "letter": "D",
-      "text": "seven"
+      "text": "fourth"
      }
     ],
     "answer": "C",
-    "vi": 40
+    "vi": 39
    },
    {
-    "question": "Q: What's the date today? — A: It's the __________ of February.【第十四（的）】",
+    "question": "November is the __________ month of the year. It comes after October and before December.",
     "options": [
      {
       "letter": "A",
-      "text": "first"
+      "text": "ninth"
      },
      {
       "letter": "B",
-      "text": "fourteenth"
+      "text": "fifteenth"
      },
      {
       "letter": "C",
-      "text": "million"
+      "text": "fourteenth"
      },
      {
       "letter": "D",
       "text": "eleventh"
      }
     ],
-    "answer": "B",
-    "vi": 41
+    "answer": "D",
+    "vi": 40
    },
    {
-    "question": "Q: When do the students have the English test? — A: They have it on the __________ of June.【第十五（的）】",
+    "question": "Valentine's Day is on the __________ of February. People give flowers and chocolate to someone they love on that day.",
     "options": [
      {
       "letter": "A",
-      "text": "fifty"
+      "text": "fourteenth"
      },
      {
       "letter": "B",
-      "text": "three"
+      "text": "fifteenth"
      },
      {
       "letter": "C",
-      "text": "sixteen"
+      "text": "nineteenth"
      },
      {
       "letter": "D",
-      "text": "fifteenth"
+      "text": "eleventh"
      }
     ],
-    "answer": "D",
-    "vi": 42
+    "answer": "A",
+    "vi": 41
    },
    {
-    "question": "Q: When does your brother come home from America? — A: He comes home on the __________ of July.【第十九（的）】",
+    "question": "The Moon Festival is on the __________ day of the eighth month on the Chinese calendar. Families eat moon cakes that night.",
     "options": [
      {
       "letter": "A",
+      "text": "fourteenth"
+     },
+     {
+      "letter": "B",
       "text": "nineteenth"
+     },
+     {
+      "letter": "C",
+      "text": "fifteenth"
+     },
+     {
+      "letter": "D",
+      "text": "fifth"
+     }
+    ],
+    "answer": "C",
+    "vi": 42
+   },
+   {
+    "question": "There were twenty students in the race. Ben was the __________, so only one student was slower than he was.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fifteenth"
+     },
+     {
+      "letter": "B",
+      "text": "nineteenth"
+     },
+     {
+      "letter": "C",
+      "text": "first"
+     },
+     {
+      "letter": "D",
+      "text": "ninth"
+     }
+    ],
+    "answer": "B",
+    "vi": 43
+   },
+   {
+    "question": "December is the __________ month of the year. After it, a new year begins.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "last"
      },
      {
       "letter": "B",
@@ -1775,18 +1798,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "eight"
+      "text": "second"
      },
      {
       "letter": "D",
-      "text": "six"
+      "text": "third"
      }
     ],
     "answer": "A",
-    "vi": 43
+    "vi": 44
    },
    {
-    "question": "Q: When do we have the school party? — A: We have it on the __________ day of this month.【最後的】",
+    "question": "How __________ students are there in your class? I heard there are more than thirty.",
     "options": [
      {
       "letter": "A",
@@ -1794,45 +1817,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "several"
+      "text": "little"
      },
      {
       "letter": "C",
-      "text": "last"
-     },
-     {
-      "letter": "D",
-      "text": "any"
-     }
-    ],
-    "answer": "C",
-    "vi": 44
-   },
-   {
-    "question": "Q: How many friends does Amy have? — A: She has __________ friends. She is very friendly.【許多的（可數）】",
-    "options": [
-     {
-      "letter": "A",
       "text": "many"
      },
      {
-      "letter": "B",
-      "text": "some"
-     },
-     {
-      "letter": "C",
-      "text": "several"
-     },
-     {
       "letter": "D",
-      "text": "last"
+      "text": "less"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 45
    },
    {
-    "question": "Q: How many books do your parents have? — A: They have __________ books. They love reading.【許多的】",
+    "question": "We have __________ homework today: math, English, and science. I can't play basketball after school.",
     "options": [
      {
       "letter": "A",
@@ -1844,30 +1844,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "a little"
+      "text": "few"
      },
      {
       "letter": "D",
-      "text": "cheer up"
+      "text": "several"
      }
     ],
     "answer": "B",
     "vi": 46
    },
    {
-    "question": "Q: How much time do you have today? — A: I don't have __________ time. I have a test tomorrow.【許多的（不可數）】",
+    "question": "How __________ money do you have in your wallet? I need to borrow fifty dollars for lunch.",
     "options": [
      {
       "letter": "A",
-      "text": "last"
+      "text": "many"
      },
      {
       "letter": "B",
-      "text": "any"
+      "text": "few"
      },
      {
       "letter": "C",
-      "text": "many"
+      "text": "several"
      },
      {
       "letter": "D",
@@ -1878,53 +1878,53 @@ window.FLASHCARD_UNITS = {
     "vi": 47
    },
    {
-    "question": "Q: How many friends do you have in Tainan? — A: I have __________ friends there.【幾個的】",
+    "question": "I have read this book __________ times, maybe four or five. It is my favorite story.",
     "options": [
      {
       "letter": "A",
-      "text": "much"
-     },
-     {
-      "letter": "B",
-      "text": "little"
-     },
-     {
-      "letter": "C",
       "text": "several"
      },
      {
-      "letter": "D",
-      "text": "last"
-     }
-    ],
-    "answer": "C",
-    "vi": 48
-   },
-   {
-    "question": "Q: How much water do you want? — A: I want __________ water. I'm thirsty.【一些】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "some"
-     },
-     {
       "letter": "B",
       "text": "much"
      },
      {
       "letter": "C",
-      "text": "any"
+      "text": "little"
      },
      {
       "letter": "D",
-      "text": "many"
+      "text": "less"
      }
     ],
     "answer": "A",
+    "vi": 48
+   },
+   {
+    "question": "There are __________ apples on the table. You can take one if you are hungry.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "much"
+     },
+     {
+      "letter": "B",
+      "text": "some"
+     },
+     {
+      "letter": "C",
+      "text": "any"
+     },
+     {
+      "letter": "D",
+      "text": "little"
+     }
+    ],
+    "answer": "B",
     "vi": 49
    },
    {
-    "question": "Q: How many apples do we have? — A: We only have __________ apples. Let's buy some more.【一些；幾個（可數）】",
+    "question": "I only have __________ friends at my new school, just two or three. I hope to make more soon.",
     "options": [
      {
       "letter": "A",
@@ -1932,22 +1932,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "a few"
+      "text": "much"
      },
      {
       "letter": "C",
-      "text": "a lot of"
+      "text": "less"
      },
      {
       "letter": "D",
-      "text": "take the MRT"
+      "text": "a few"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 50
    },
    {
-    "question": "Q: How much milk does Ben want? — A: He wants __________ milk, not a lot.【一點點（不可數）】",
+    "question": "Please put __________ sugar in my tea, not too much. I don't like very sweet drinks.",
     "options": [
      {
       "letter": "A",
@@ -1955,91 +1955,91 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "a lot of"
-     },
-     {
-      "letter": "C",
-      "text": "take the MRT"
-     },
-     {
-      "letter": "D",
-      "text": "a little"
-     }
-    ],
-    "answer": "D",
-    "vi": 51
-   },
-   {
-    "question": "Q: How many friends does the new student have? — A: He has very __________ friends. He feels lonely.【很少的（可數）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "last"
-     },
-     {
-      "letter": "B",
-      "text": "few"
-     },
-     {
-      "letter": "C",
-      "text": "several"
-     },
-     {
-      "letter": "D",
-      "text": "some"
-     }
-    ],
-    "answer": "B",
-    "vi": 52
-   },
-   {
-    "question": "Q: How much money does your brother have? — A: He has very __________ money. He can't buy the toy.【很少的（不可數）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "few"
-     },
-     {
-      "letter": "B",
-      "text": "any"
-     },
-     {
-      "letter": "C",
-      "text": "little"
-     },
-     {
-      "letter": "D",
-      "text": "more"
-     }
-    ],
-    "answer": "C",
-    "vi": 53
-   },
-   {
-    "question": "Q: How many brothers does Tim have? — A: He doesn't have __________ brothers. He has two sisters.【任何的】",
-    "options": [
-     {
-      "letter": "A",
       "text": "many"
      },
      {
-      "letter": "B",
-      "text": "last"
-     },
-     {
       "letter": "C",
-      "text": "few"
+      "text": "a little"
      },
      {
       "letter": "D",
-      "text": "any"
+      "text": "several"
+     }
+    ],
+    "answer": "C",
+    "vi": 51
+   },
+   {
+    "question": "Very __________ people came to the park because of the rain. There were only two old men there.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "little"
+     },
+     {
+      "letter": "B",
+      "text": "much"
+     },
+     {
+      "letter": "C",
+      "text": "less"
+     },
+     {
+      "letter": "D",
+      "text": "few"
      }
     ],
     "answer": "D",
+    "vi": 52
+   },
+   {
+    "question": "There is very __________ water in the bottle. It is almost empty, so we need to buy another one.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "few"
+     },
+     {
+      "letter": "B",
+      "text": "little"
+     },
+     {
+      "letter": "C",
+      "text": "many"
+     },
+     {
+      "letter": "D",
+      "text": "several"
+     }
+    ],
+    "answer": "B",
+    "vi": 53
+   },
+   {
+    "question": "I don't have __________ money with me today. Can you buy lunch for me? I will pay you back tomorrow.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "some"
+     },
+     {
+      "letter": "B",
+      "text": "many"
+     },
+     {
+      "letter": "C",
+      "text": "any"
+     },
+     {
+      "letter": "D",
+      "text": "few"
+     }
+    ],
+    "answer": "C",
     "vi": 54
    },
    {
-    "question": "Q: Do your classmates like the new teacher? — A: Yes, they do. __________ of them like her.【全部；都】",
+    "question": "__________ of the students passed the test, so the teacher was very happy. Nobody failed this time.",
     "options": [
      {
       "letter": "A",
@@ -2047,80 +2047,80 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "Both"
+      "text": "Few"
      },
      {
       "letter": "C",
-      "text": "Nobody"
+      "text": "Less"
      },
      {
       "letter": "D",
-      "text": "Anyone"
+      "text": "Little"
      }
     ],
     "answer": "A",
     "vi": 55
    },
    {
-    "question": "Q: Does Ken have any brothers? — A: Yes, he does. He has two, and __________ of them play basketball.【兩者都】",
+    "question": "I have two sisters, and __________ of them are teachers. One teaches math, and the other teaches music.",
     "options": [
      {
       "letter": "A",
-      "text": "all"
+      "text": "several"
      },
      {
       "letter": "B",
-      "text": "other"
-     },
-     {
-      "letter": "C",
       "text": "both"
      },
      {
-      "letter": "D",
-      "text": "anyone"
-     }
-    ],
-    "answer": "C",
-    "vi": 56
-   },
-   {
-    "question": "Q: How much rice does your dad want? — A: He wants __________ rice. He is still hungry.【更多的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "any"
-     },
-     {
-      "letter": "B",
-      "text": "more"
-     },
-     {
       "letter": "C",
-      "text": "last"
+      "text": "much"
      },
      {
       "letter": "D",
-      "text": "much"
+      "text": "less"
      }
     ],
     "answer": "B",
-    "vi": 57
+    "vi": 56
    },
    {
-    "question": "Q: How much sugar do your grandparents eat now? — A: They eat __________ sugar now. It's good for their health.【較少的】",
+    "question": "I am still hungry. Can I have some __________ rice, please? One bowl is not enough for me.",
     "options": [
      {
       "letter": "A",
-      "text": "any"
+      "text": "less"
      },
      {
       "letter": "B",
-      "text": "more"
+      "text": "few"
      },
      {
       "letter": "C",
-      "text": "much"
+      "text": "more"
+     },
+     {
+      "letter": "D",
+      "text": "little"
+     }
+    ],
+    "answer": "C",
+    "vi": 57
+   },
+   {
+    "question": "You should eat __________ candy. Too much sugar is bad for your teeth and your health.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "more"
+     },
+     {
+      "letter": "B",
+      "text": "many"
+     },
+     {
+      "letter": "C",
+      "text": "several"
      },
      {
       "letter": "D",
@@ -2133,4 +2133,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"family":["a group of people such as parents and their children","家庭；家人"],"one":["the number 1","一"],"two":["the number 2","二"],"three":["the number 3","三"],"four":["the number 4","四"],"five":["the number 5","五"],"seven":["the number 7","七"],"eight":["the number 8","八"],"ten":["the number 10","十"],"twelve":["the number 12","十二"],"twenty":["the number 20","二十"],"thirty":["the number 30","三十"],"sixty":["the number 60","六十"],"hundred":["the number 100","百"],"thousand":["the number 1,000","千"],"million":["the number 1,000,000","百萬"],"six":["the number 6","六"],"nine":["the number 9","九"],"eleven":["the number 11","十一"],"thirteen":["the number 13","十三"],"fourteen":["the number 14","十四"],"fifteen":["the number 15","十五"],"sixteen":["the number 16","十六"],"eighteen":["the number 18","十八"],"nineteen":["the number 19","十九"],"forty":["the number 40","四十"],"seventy":["the number 70","七十"],"eighty":["the number 80","八十"],"ninety":["the number 90","九十"],"zero":["the number 0","零"],"seventeen":["the number 17","十七"],"fifty":["the number 50","五十"],"number":["a word or sign like 1, 2, or 3 that shows how many","數字；號碼"],"total":["the whole number when you add everything together","總數；總計"],"first":["coming before all the others; number 1 in order","第一（的）"],"second":["coming after the first; number 2 in order","第二（的）"],"third":["coming after the second; number 3 in order","第三（的）"],"fourth":["coming after the third; number 4 in order","第四（的）"],"fifth":["coming after the fourth; number 5 in order","第五（的）"],"eighth":["coming after the seventh; number 8 in order","第八（的）"],"ninth":["coming after the eighth; number 9 in order","第九（的）"],"eleventh":["coming after the tenth; number 11 in order","第十一（的）"],"fourteenth":["coming after the thirteenth; number 14 in order","第十四（的）"],"fifteenth":["coming after the fourteenth; number 15 in order","第十五（的）"],"nineteenth":["coming after the eighteenth; number 19 in order","第十九（的）"],"last":["coming after all the others","最後的"],"many":["a large number of (things you can count)","許多的（可數）"],"much":["a large amount of (something you cannot count)","許多的（不可數）"],"several":["more than two but not many","幾個的"],"some":["a number or amount of something, not all","一些"],"few":["not many","很少的（可數）"],"little":["not much","很少的（不可數）"],"any":["one or some, no matter which; used in questions and with \"not\"","任何的"],"all":["every one; the whole of something","全部；都"],"both":["the two; one and also the other","兩者都"],"more":["a bigger number or amount","更多的"],"less":["a smaller amount","較少的"],"fan":["a person who likes a singer, a team, or a sport very much","粉絲；狂熱愛好者"],"station":["a place where trains or buses stop for people to get on and off","車站"],"secretary":["a person who answers the phone and writes letters for a boss","秘書"],"anyone":["any person; it does not matter who","任何人"],"nobody":["no person; not anyone","沒有人"],"other":["the second of two; the ones that are left","其他的（人／物）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"two":["the number 2","二"],"one":["the number 1","一"],"five":["the number 5","五"],"ten":["the number 10","十"],"three":["the number 3","三"],"six":["the number 6","六"],"nine":["the number 9","九"],"eight":["the number 8","八"],"four":["the number 4","四"],"seven":["the number 7","七"],"twelve":["the number 12","十二"],"eleven":["the number 11","十一"],"twenty":["the number 20","二十"],"thirty":["the number 30","三十"],"sixty":["the number 60","六十"],"forty":["the number 40","四十"],"fifty":["the number 50","五十"],"thousand":["the number 1,000","千"],"million":["the number 1,000,000","百萬"],"hundred":["the number 100","百"],"zero":["the number 0","零"],"ninety":["the number 90","九十"],"thirteen":["the number 13","十三"],"fourteen":["the number 14","十四"],"sixteen":["the number 16","十六"],"fifteen":["the number 15","十五"],"eighteen":["the number 18","十八"],"eighty":["the number 80","八十"],"nineteen":["the number 19","十九"],"seventeen":["the number 17","十七"],"seventy":["the number 70","七十"],"total":["the whole number when you add everything together","總數；總計"],"minute":["sixty seconds","分鐘"],"number":["a word or sign like 1, 2, or 3 that shows how many","數字；號碼"],"week":["seven days","星期；週"],"moment":["a very short time","片刻；一會兒"],"season":["one of the four parts of the year, such as spring or winter","季節"],"quarter":["one of four same-sized parts; fifteen minutes","十五分鐘；四分之一"],"second":["coming after the first; number 2 in order","第二（的）"],"third":["coming after the second; number 3 in order","第三（的）"],"last":["coming after all the others","最後的"],"first":["coming before all the others; number 1 in order","第一（的）"],"fifth":["coming after the fourth; number 5 in order","第五（的）"],"fourth":["coming after the third; number 4 in order","第四（的）"],"eighth":["coming after the seventh; number 8 in order","第八（的）"],"ninth":["coming after the eighth; number 9 in order","第九（的）"],"eleventh":["coming after the tenth; number 11 in order","第十一（的）"],"fifteenth":["coming after the fourteenth; number 15 in order","第十五（的）"],"fourteenth":["coming after the thirteenth; number 14 in order","第十四（的）"],"nineteenth":["coming after the eighteenth; number 19 in order","第十九（的）"],"much":["a large amount of (something you cannot count)","許多的（不可數）"],"little":["not much","很少的（不可數）"],"many":["a large number of (things you can count)","許多的（可數）"],"less":["a smaller amount","較少的"],"few":["not many","很少的（可數）"],"several":["more than two but not many","幾個的"],"some":["a number or amount of something, not all","一些"],"any":["one or some, no matter which; used in questions and with \"not\"","任何的"],"all":["every one; the whole of something","全部；都"],"both":["the two; one and also the other","兩者都"],"more":["a bigger number or amount","更多的"]});

@@ -1034,19 +1034,19 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: What would you like to eat? — A: I'm very __________. I'd like a big bowl of noodles.【飢餓的】",
+    "question": "I didn't eat breakfast or lunch today, so I am very __________ now. Let's find a restaurant right away.",
     "options": [
      {
       "letter": "A",
-      "text": "yummy"
+      "text": "thirsty"
      },
      {
       "letter": "B",
-      "text": "sweet"
+      "text": "full"
      },
      {
       "letter": "C",
-      "text": "full"
+      "text": "sweet"
      },
      {
       "letter": "D",
@@ -1057,53 +1057,53 @@ window.FLASHCARD_UNITS = {
     "vi": 0
    },
    {
-    "question": "Q: What would you like to drink? — A: I'm __________. I'd like a glass of water.【口渴的】",
+    "question": "It is hot, and I ran for an hour. I am so __________ that I can drink a whole bottle of water.",
     "options": [
      {
       "letter": "A",
+      "text": "hungry"
+     },
+     {
+      "letter": "B",
       "text": "full"
      },
      {
-      "letter": "B",
-      "text": "thirsty"
-     },
-     {
       "letter": "C",
-      "text": "hot"
+      "text": "thirsty"
      },
      {
       "letter": "D",
-      "text": "hungry"
-     }
-    ],
-    "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "Q: Would you like some more cake? — A: No, thank you. I'm __________.【飽的；滿的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "thirsty"
-     },
-     {
-      "letter": "B",
       "text": "yummy"
-     },
-     {
-      "letter": "C",
-      "text": "full"
-     },
-     {
-      "letter": "D",
-      "text": "hungry"
      }
     ],
     "answer": "C",
+    "vi": 1
+   },
+   {
+    "question": "I ate two bowls of rice and a big steak. I am too __________ to eat any cake now.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hungry"
+     },
+     {
+      "letter": "B",
+      "text": "full"
+     },
+     {
+      "letter": "C",
+      "text": "thirsty"
+     },
+     {
+      "letter": "D",
+      "text": "sweet"
+     }
+    ],
+    "answer": "B",
     "vi": 2
    },
    {
-    "question": "Q: What would you like to eat, sir? — A: Can I see the __________, please?【菜單】",
+    "question": "The waiter gave us the __________. We read it and chose a pizza and two salads.",
     "options": [
      {
       "letter": "A",
@@ -1111,22 +1111,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "pumpkin"
+      "text": "meal"
      },
      {
       "letter": "C",
-      "text": "Coke"
+      "text": "snack"
      },
      {
       "letter": "D",
-      "text": "cheese"
+      "text": "fruit"
      }
     ],
     "answer": "A",
     "vi": 3
    },
    {
-    "question": "Q: Are you ready? What would you like? — A: I'd like to __________ a pizza, please.【點餐】",
+    "question": "Are you ready to __________, sir? Today's special is beef noodles.",
     "options": [
      {
       "letter": "A",
@@ -1134,7 +1134,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "drink"
+      "text": "boil"
      },
      {
       "letter": "C",
@@ -1142,83 +1142,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "cook"
+      "text": "burn"
      }
     ],
     "answer": "C",
     "vi": 4
    },
    {
-    "question": "Q: What would you like to eat tonight? — A: I'd like some Japanese __________.【食物】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "juice"
-     },
-     {
-      "letter": "B",
-      "text": "food"
-     },
-     {
-      "letter": "C",
-      "text": "hamburger"
-     },
-     {
-      "letter": "D",
-      "text": "snack"
-     }
-    ],
-    "answer": "B",
-    "vi": 5
-   },
-   {
-    "question": "Q: What would you like for lunch? — A: I'd like a __________, please.【漢堡】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "popcorn"
-     },
-     {
-      "letter": "B",
-      "text": "chocolate"
-     },
-     {
-      "letter": "C",
-      "text": "milk"
-     },
-     {
-      "letter": "D",
-      "text": "hamburger"
-     }
-    ],
-    "answer": "D",
-    "vi": 6
-   },
-   {
-    "question": "Q: What would you like with your hamburger? — A: I'd like some French __________.【炸薯條】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fries"
-     },
-     {
-      "letter": "B",
-      "text": "eggs"
-     },
-     {
-      "letter": "C",
-      "text": "vegetables"
-     },
-     {
-      "letter": "D",
-      "text": "tomatoes"
-     }
-    ],
-    "answer": "A",
-    "vi": 7
-   },
-   {
-    "question": "Q: What would Ben like to eat? — A: He'd like a __________.【熱狗】",
+    "question": "Pizza is my favorite __________. I can eat it for lunch and dinner every day.",
     "options": [
      {
       "letter": "A",
@@ -1226,7 +1157,168 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "juice"
+     },
+     {
+      "letter": "C",
+      "text": "tea"
+     },
+     {
+      "letter": "D",
+      "text": "food"
+     }
+    ],
+    "answer": "D",
+    "vi": 5
+   },
+   {
+    "question": "A __________ has a piece of beef between two round buns. Many people eat it with fries and a Coke.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pizza"
+     },
+     {
+      "letter": "B",
+      "text": "hamburger"
+     },
+     {
+      "letter": "C",
+      "text": "pie"
+     },
+     {
+      "letter": "D",
+      "text": "salad"
+     }
+    ],
+    "answer": "B",
+    "vi": 6
+   },
+   {
+    "question": "I'd like a hamburger and some __________, please. I love these long, thin pieces of potato.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fries"
+     },
+     {
+      "letter": "B",
+      "text": "noodles"
+     },
+     {
+      "letter": "C",
+      "text": "beans"
+     },
+     {
+      "letter": "D",
+      "text": "grapes"
+     }
+    ],
+    "answer": "A",
+    "vi": 7
+   },
+   {
+    "question": "A __________ is a long sausage in a long bun. People often eat one at a baseball game.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ice cream"
+     },
+     {
+      "letter": "B",
+      "text": "pizza"
+     },
+     {
+      "letter": "C",
       "text": "hot dog"
+     },
+     {
+      "letter": "D",
+      "text": "salad"
+     }
+    ],
+    "answer": "C",
+    "vi": 8
+   },
+   {
+    "question": "Let's order a large __________ with cheese and tomatoes on top. We can cut it into eight pieces and share it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "soup"
+     },
+     {
+      "letter": "B",
+      "text": "pizza"
+     },
+     {
+      "letter": "C",
+      "text": "juice"
+     },
+     {
+      "letter": "D",
+      "text": "candy"
+     }
+    ],
+    "answer": "B",
+    "vi": 9
+   },
+   {
+    "question": "On hot summer days, children love to eat __________. It is sweet and cold, and you must eat it fast.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ice cream"
+     },
+     {
+      "letter": "B",
+      "text": "hot dog"
+     },
+     {
+      "letter": "C",
+      "text": "popcorn"
+     },
+     {
+      "letter": "D",
+      "text": "toast"
+     }
+    ],
+    "answer": "A",
+    "vi": 10
+   },
+   {
+    "question": "I'd like a hamburger and a large __________ with ice, please. I love this sweet brown drink.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "milk"
+     },
+     {
+      "letter": "B",
+      "text": "water"
+     },
+     {
+      "letter": "C",
+      "text": "soup"
+     },
+     {
+      "letter": "D",
+      "text": "Coke"
+     }
+    ],
+    "answer": "D",
+    "vi": 11
+   },
+   {
+    "question": "Please put some __________ in my juice. I want my drink to be very cold.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "salt"
+     },
+     {
+      "letter": "B",
+      "text": "ice"
      },
      {
       "letter": "C",
@@ -1234,41 +1326,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "food"
+      "text": "butter"
      }
     ],
     "answer": "B",
-    "vi": 8
+    "vi": 12
    },
    {
-    "question": "Q: What would you like for dinner? — A: I'd like a big __________ with cheese.【披薩】",
+    "question": "Mom makes fresh orange __________ every morning. She uses five oranges to make one glass.",
     "options": [
      {
       "letter": "A",
-      "text": "toast"
-     },
-     {
-      "letter": "B",
-      "text": "fish"
-     },
-     {
-      "letter": "C",
-      "text": "pizza"
-     },
-     {
-      "letter": "D",
-      "text": "water"
-     }
-    ],
-    "answer": "C",
-    "vi": 9
-   },
-   {
-    "question": "Q: What would you like after dinner? — A: I'd like some chocolate __________.【冰淇淋】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "rice"
+      "text": "juice"
      },
      {
       "letter": "B",
@@ -1276,156 +1345,110 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "hamburger"
+      "text": "salt"
      },
      {
       "letter": "D",
-      "text": "ice cream"
-     }
-    ],
-    "answer": "D",
-    "vi": 10
-   },
-   {
-    "question": "Q: What would you like to drink? — A: I'd like a __________, please.【可樂】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Coke"
-     },
-     {
-      "letter": "B",
-      "text": "Hot dog"
-     },
-     {
-      "letter": "C",
-      "text": "Pizza"
-     },
-     {
-      "letter": "D",
-      "text": "Ice"
+      "text": "rice"
      }
     ],
     "answer": "A",
-    "vi": 11
-   },
-   {
-    "question": "Q: Would you like some water? — A: Yes, please. I'd like it with __________.【冰】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "barbecue"
-     },
-     {
-      "letter": "B",
-      "text": "ice"
-     },
-     {
-      "letter": "C",
-      "text": "candy"
-     },
-     {
-      "letter": "D",
-      "text": "fruit"
-     }
-    ],
-    "answer": "B",
-    "vi": 12
-   },
-   {
-    "question": "Q: What would your sister like to drink? — A: She'd like a glass of apple __________.【果汁】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pie"
-     },
-     {
-      "letter": "B",
-      "text": "pumpkin"
-     },
-     {
-      "letter": "C",
-      "text": "snack"
-     },
-     {
-      "letter": "D",
-      "text": "juice"
-     }
-    ],
-    "answer": "D",
     "vi": 13
    },
    {
-    "question": "Q: What would Grandma like to drink? — A: She'd like a cup of green __________.【茶】",
+    "question": "People in Taiwan love to drink __________. They put the dried leaves in a pot and add hot water.",
     "options": [
      {
       "letter": "A",
-      "text": "butter"
+      "text": "milk"
      },
      {
       "letter": "B",
-      "text": "chocolate"
+      "text": "juice"
      },
      {
       "letter": "C",
+      "text": "Coke"
+     },
+     {
+      "letter": "D",
       "text": "tea"
-     },
-     {
-      "letter": "D",
-      "text": "steak"
-     }
-    ],
-    "answer": "C",
-    "vi": 14
-   },
-   {
-    "question": "Q: What would your dad like to drink? — A: He'd like a cup of hot __________.【咖啡】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "coffee"
-     },
-     {
-      "letter": "B",
-      "text": "candy"
-     },
-     {
-      "letter": "C",
-      "text": "pumpkin"
-     },
-     {
-      "letter": "D",
-      "text": "fruit"
-     }
-    ],
-    "answer": "A",
-    "vi": 15
-   },
-   {
-    "question": "Q: Do you like apples and bananas? — A: Yes, I do. I like all kinds of __________.【水果】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "butter"
-     },
-     {
-      "letter": "B",
-      "text": "steak"
-     },
-     {
-      "letter": "C",
-      "text": "cake"
-     },
-     {
-      "letter": "D",
-      "text": "fruit"
      }
     ],
     "answer": "D",
+    "vi": 14
+   },
+   {
+    "question": "Dad drinks a cup of black __________ every morning. He says he can't wake up without it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "milk"
+     },
+     {
+      "letter": "B",
+      "text": "juice"
+     },
+     {
+      "letter": "C",
+      "text": "coffee"
+     },
+     {
+      "letter": "D",
+      "text": "water"
+     }
+    ],
+    "answer": "C",
+    "vi": 15
+   },
+   {
+    "question": "Apples, bananas, and grapes are all __________. Eating some every day is good for your health.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fruit"
+     },
+     {
+      "letter": "B",
+      "text": "meat"
+     },
+     {
+      "letter": "C",
+      "text": "candy"
+     },
+     {
+      "letter": "D",
+      "text": "bread"
+     }
+    ],
+    "answer": "A",
     "vi": 16
    },
    {
-    "question": "Q: Does Tom like fruit? — A: Yes, he does. He eats an __________ every day.【蘋果】",
+    "question": "An __________ a day keeps the doctor away. This round red fruit is good for you.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "orange"
+     },
+     {
+      "letter": "B",
+      "text": "apple"
+     },
+     {
+      "letter": "C",
+      "text": "egg"
+     },
+     {
+      "letter": "D",
+      "text": "ice"
+     }
+    ],
+    "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "An __________ is a round fruit with a thick skin. Its name is the same as its color.",
     "options": [
      {
       "letter": "A",
@@ -1433,53 +1456,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "popcorn"
+      "text": "egg"
      },
      {
       "letter": "C",
-      "text": "toast"
-     },
-     {
-      "letter": "D",
-      "text": "hamburger"
-     }
-    ],
-    "answer": "A",
-    "vi": 17
-   },
-   {
-    "question": "Q: Do the kids like fruit juice? — A: Yes, they do. They like __________ juice.【柳橙】",
-    "options": [
-     {
-      "letter": "A",
       "text": "ice"
      },
      {
-      "letter": "B",
-      "text": "orange"
-     },
-     {
-      "letter": "C",
-      "text": "dinner"
-     },
-     {
       "letter": "D",
-      "text": "pumpkin"
+      "text": "orange"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 18
    },
    {
-    "question": "Q: Do monkeys like fruit? — A: Yes, they do. They love yellow __________.【香蕉】",
+    "question": "Monkeys love to eat __________. These long yellow fruits are sweet and soft.",
     "options": [
      {
       "letter": "A",
-      "text": "cookies"
+      "text": "lemons"
      },
      {
       "letter": "B",
-      "text": "pears"
+      "text": "grapes"
      },
      {
       "letter": "C",
@@ -1487,60 +1487,60 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "vegetables"
+      "text": "pears"
      }
     ],
     "answer": "C",
     "vi": 19
    },
    {
-    "question": "Q: Does your sister like purple fruit? — A: Yes, she does. She likes __________ very much.【葡萄】",
+    "question": "These small, round, purple fruits are __________. People also use them to make wine.",
     "options": [
      {
       "letter": "A",
-      "text": "guavas"
+      "text": "bananas"
      },
      {
       "letter": "B",
-      "text": "grapes"
+      "text": "papayas"
      },
      {
       "letter": "C",
-      "text": "peaches"
+      "text": "watermelons"
      },
      {
       "letter": "D",
-      "text": "fries"
-     }
-    ],
-    "answer": "B",
-    "vi": 20
-   },
-   {
-    "question": "Q: Does Grandpa like Taiwanese fruit? — A: Yes, he does. He likes green __________.【芭樂】",
-    "options": [
-     {
-      "letter": "A",
       "text": "grapes"
-     },
-     {
-      "letter": "B",
-      "text": "noodles"
-     },
-     {
-      "letter": "C",
-      "text": "eggs"
-     },
-     {
-      "letter": "D",
-      "text": "guavas"
      }
     ],
     "answer": "D",
+    "vi": 20
+   },
+   {
+    "question": "__________ are green fruits with many small hard seeds inside. They are very popular in Taiwan.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Bananas"
+     },
+     {
+      "letter": "B",
+      "text": "guavas"
+     },
+     {
+      "letter": "C",
+      "text": "Strawberries"
+     },
+     {
+      "letter": "D",
+      "text": "Oranges"
+     }
+    ],
+    "answer": "B",
     "vi": 21
    },
    {
-    "question": "Q: Do your parents like fruit milk? — A: Yes, they do. They like __________ milk.【木瓜】",
+    "question": "A __________ is orange inside and has many small black seeds. People in Taiwan love to drink it with milk.",
     "options": [
      {
       "letter": "A",
@@ -1548,30 +1548,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "soup"
+      "text": "lemon"
      },
      {
       "letter": "C",
-      "text": "rice"
+      "text": "pear"
      },
      {
       "letter": "D",
-      "text": "butter"
+      "text": "peach"
      }
     ],
     "answer": "A",
     "vi": 22
    },
    {
-    "question": "Q: Does Amy like soft and sweet fruit? — A: Yes, she does. She likes pink __________.【桃子】",
+    "question": "__________ are soft, sweet fruits with pink skin and one big hard seed in the middle.",
     "options": [
      {
       "letter": "A",
-      "text": "grapes"
+      "text": "Bananas"
      },
      {
       "letter": "B",
-      "text": "eggs"
+      "text": "Grapes"
      },
      {
       "letter": "C",
@@ -1579,22 +1579,183 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "strawberries"
+      "text": "Lemons"
      }
     ],
     "answer": "C",
     "vi": 23
    },
    {
-    "question": "Q: Does your mom like apples? — A: No, she doesn't. She likes __________.【梨子】",
+    "question": "__________ are sweet fruits that are round at the bottom and thinner at the top. They are usually yellow or green.",
     "options": [
      {
       "letter": "A",
-      "text": "noodles"
+      "text": "pears"
      },
      {
       "letter": "B",
-      "text": "guavas"
+      "text": "Bananas"
+     },
+     {
+      "letter": "C",
+      "text": "Grapes"
+     },
+     {
+      "letter": "D",
+      "text": "Strawberries"
+     }
+    ],
+    "answer": "A",
+    "vi": 24
+   },
+   {
+    "question": "A __________ is a yellow fruit, and it tastes very sour. People put it in tea or water.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "peach"
+     },
+     {
+      "letter": "B",
+      "text": "pear"
+     },
+     {
+      "letter": "C",
+      "text": "lemon"
+     },
+     {
+      "letter": "D",
+      "text": "papaya"
+     }
+    ],
+    "answer": "C",
+    "vi": 25
+   },
+   {
+    "question": "__________ are small red fruits with tiny seeds on the outside. People often put them on cakes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Lemons"
+     },
+     {
+      "letter": "B",
+      "text": "strawberries"
+     },
+     {
+      "letter": "C",
+      "text": "Bananas"
+     },
+     {
+      "letter": "D",
+      "text": "Pears"
+     }
+    ],
+    "answer": "B",
+    "vi": 26
+   },
+   {
+    "question": "A __________ is a very big fruit. It is green outside and red inside, and it has a lot of water.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lemon"
+     },
+     {
+      "letter": "B",
+      "text": "grape"
+     },
+     {
+      "letter": "C",
+      "text": "peach"
+     },
+     {
+      "letter": "D",
+      "text": "watermelon"
+     }
+    ],
+    "answer": "D",
+    "vi": 27
+   },
+   {
+    "question": "We use __________ to make ketchup. These round red vegetables are good in salads, too.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "beans"
+     },
+     {
+      "letter": "B",
+      "text": "pumpkins"
+     },
+     {
+      "letter": "C",
+      "text": "tomatoes"
+     },
+     {
+      "letter": "D",
+      "text": "lemons"
+     }
+    ],
+    "answer": "C",
+    "vi": 28
+   },
+   {
+    "question": "Carrots, lettuce, and cabbage are all __________. You should eat more of them to stay healthy.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fruits"
+     },
+     {
+      "letter": "B",
+      "text": "snacks"
+     },
+     {
+      "letter": "C",
+      "text": "meals"
+     },
+     {
+      "letter": "D",
+      "text": "vegetables"
+     }
+    ],
+    "answer": "D",
+    "vi": 29
+   },
+   {
+    "question": "__________ is a vegetable with big green leaves. People use it to make salads and sandwiches.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Pumpkin"
+     },
+     {
+      "letter": "B",
+      "text": "lettuce"
+     },
+     {
+      "letter": "C",
+      "text": "Cheese"
+     },
+     {
+      "letter": "D",
+      "text": "Ham"
+     }
+    ],
+    "answer": "B",
+    "vi": 30
+   },
+   {
+    "question": "Tofu and soy milk are made from __________. These small seeds are very good for you.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "beans"
+     },
+     {
+      "letter": "B",
+      "text": "eggs"
      },
      {
       "letter": "C",
@@ -1602,156 +1763,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "pears"
-     }
-    ],
-    "answer": "D",
-    "vi": 24
-   },
-   {
-    "question": "Q: Does your dad like sweet tea? — A: No, he doesn't. He likes __________ tea.【檸檬】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "lemon"
-     },
-     {
-      "letter": "B",
-      "text": "popcorn"
-     },
-     {
-      "letter": "C",
-      "text": "sandwich"
-     },
-     {
-      "letter": "D",
-      "text": "watermelon"
+      "text": "noodles"
      }
     ],
     "answer": "A",
-    "vi": 25
+    "vi": 31
    },
    {
-    "question": "Q: Do you like red fruit? — A: Yes, I do. I like __________.【草莓】",
+    "question": "A __________ is a big, round, orange vegetable. People cut a face in it on Halloween.",
     "options": [
      {
       "letter": "A",
-      "text": "buns"
-     },
-     {
-      "letter": "B",
-      "text": "pears"
-     },
-     {
-      "letter": "C",
-      "text": "strawberries"
-     },
-     {
-      "letter": "D",
-      "text": "vegetables"
-     }
-    ],
-    "answer": "C",
-    "vi": 26
-   },
-   {
-    "question": "Q: Does your brother like summer fruit? — A: Yes, he does. He likes __________. It's big and sweet.【西瓜】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "snack"
-     },
-     {
-      "letter": "B",
-      "text": "watermelon"
-     },
-     {
-      "letter": "C",
-      "text": "coffee"
-     },
-     {
-      "letter": "D",
-      "text": "lunch"
-     }
-    ],
-    "answer": "B",
-    "vi": 27
-   },
-   {
-    "question": "Q: Do you like red vegetables? — A: Yes, I do. I like __________.【番茄】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "vegetables"
-     },
-     {
-      "letter": "B",
-      "text": "pears"
-     },
-     {
-      "letter": "C",
-      "text": "eggs"
-     },
-     {
-      "letter": "D",
-      "text": "tomatoes"
-     }
-    ],
-    "answer": "D",
-    "vi": 28
-   },
-   {
-    "question": "Q: Does your little brother like green food? — A: No, he doesn't. He doesn't like __________.【蔬菜】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "vegetables"
-     },
-     {
-      "letter": "B",
-      "text": "fries"
-     },
-     {
-      "letter": "C",
-      "text": "guavas"
-     },
-     {
-      "letter": "D",
-      "text": "dumplings"
-     }
-    ],
-    "answer": "A",
-    "vi": 29
-   },
-   {
-    "question": "Q: Do rabbits like vegetables? — A: Yes, they do. They like __________.【萵苣；生菜】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "coffee"
-     },
-     {
-      "letter": "B",
-      "text": "cake"
-     },
-     {
-      "letter": "C",
-      "text": "lettuce"
-     },
-     {
-      "letter": "D",
-      "text": "butter"
-     }
-    ],
-    "answer": "C",
-    "vi": 30
-   },
-   {
-    "question": "Q: Does your grandma like sweet soup? — A: Yes, she does. She likes red __________ soup.【豆子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sugar"
+      "text": "tomato"
      },
      {
       "letter": "B",
@@ -1759,137 +1782,114 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "salad"
-     },
-     {
-      "letter": "D",
-      "text": "rice"
-     }
-    ],
-    "answer": "B",
-    "vi": 31
-   },
-   {
-    "question": "Q: Do you like Halloween food? — A: Yes, I do. I like __________ pie.【南瓜】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "toast"
-     },
-     {
-      "letter": "B",
-      "text": "cake"
-     },
-     {
-      "letter": "C",
-      "text": "beef"
-     },
-     {
-      "letter": "D",
       "text": "pumpkin"
+     },
+     {
+      "letter": "D",
+      "text": "lemon"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 32
    },
    {
-    "question": "Q: Does your sister like beef and pork? — A: No, she doesn't. She doesn't like __________.【肉】",
+    "question": "Beef, pork, and chicken are all kinds of __________. Some people don't eat it and only eat vegetables.",
     "options": [
      {
       "letter": "A",
-      "text": "orange"
-     },
-     {
-      "letter": "B",
-      "text": "sugar"
-     },
-     {
-      "letter": "C",
       "text": "meat"
      },
      {
-      "letter": "D",
-      "text": "lettuce"
-     }
-    ],
-    "answer": "C",
-    "vi": 33
-   },
-   {
-    "question": "Q: Do you like noodles? — A: Yes, I do. I like __________ noodles.【牛肉】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "coffee"
-     },
-     {
       "letter": "B",
-      "text": "beef"
+      "text": "fruit"
      },
      {
       "letter": "C",
-      "text": "soup"
+      "text": "bread"
      },
      {
       "letter": "D",
-      "text": "tea"
-     }
-    ],
-    "answer": "B",
-    "vi": 34
-   },
-   {
-    "question": "Q: Does Grandpa like meat? — A: Yes, he does. He likes __________ with rice.【豬肉】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pork"
-     },
-     {
-      "letter": "B",
-      "text": "meat"
-     },
-     {
-      "letter": "C",
-      "text": "pizza"
-     },
-     {
-      "letter": "D",
-      "text": "chicken"
+      "text": "candy"
      }
     ],
     "answer": "A",
-    "vi": 35
+    "vi": 33
    },
    {
-    "question": "Q: Do your kids like fried food? — A: Yes, they do. They like fried __________.【雞肉】",
+    "question": "__________ is meat from a cow. People use it to make steak and hamburgers.",
     "options": [
      {
       "letter": "A",
-      "text": "popcorn"
+      "text": "Pork"
      },
      {
       "letter": "B",
-      "text": "lemon"
+      "text": "Chicken"
      },
      {
       "letter": "C",
-      "text": "chicken"
+      "text": "Ham"
      },
      {
       "letter": "D",
-      "text": "hamburger"
+      "text": "beef"
      }
     ],
-    "answer": "C",
-    "vi": 36
+    "answer": "D",
+    "vi": 34
    },
    {
-    "question": "Q: Does your cat like meat? — A: Yes, it does. But it likes __________ best.【魚；魚肉】",
+    "question": "__________ is meat from a pig. Ham is made from it, too.",
     "options": [
      {
       "letter": "A",
-      "text": "popcorn"
+      "text": "Beef"
+     },
+     {
+      "letter": "B",
+      "text": "pork"
+     },
+     {
+      "letter": "C",
+      "text": "Chicken"
+     },
+     {
+      "letter": "D",
+      "text": "Fish"
+     }
+    ],
+    "answer": "B",
+    "vi": 35
+   },
+   {
+    "question": "I'd like some fried __________, please. I love the meat of this farm bird, and I like the legs best.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "beef"
+     },
+     {
+      "letter": "B",
+      "text": "pork"
+     },
+     {
+      "letter": "C",
+      "text": "fish"
+     },
+     {
+      "letter": "D",
+      "text": "chicken"
+     }
+    ],
+    "answer": "D",
+    "vi": 36
+   },
+   {
+    "question": "We caught a big __________ in the river and cooked it for dinner. Be careful of the small bones when you eat it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ham"
      },
      {
       "letter": "B",
@@ -1897,76 +1897,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "milk"
+      "text": "steak"
      },
      {
       "letter": "D",
-      "text": "salad"
+      "text": "bean"
      }
     ],
     "answer": "B",
     "vi": 37
    },
    {
-    "question": "Q: Do you like pizza? — A: Yes, I do. I like __________ and cheese pizza.【火腿】",
+    "question": "I'd like a __________ and egg sandwich, please. I love this salty pink meat from a pig's leg.",
     "options": [
      {
       "letter": "A",
-      "text": "candy"
+      "text": "ham"
      },
      {
       "letter": "B",
-      "text": "rice"
+      "text": "fish"
      },
      {
       "letter": "C",
-      "text": "lunch"
-     },
-     {
-      "letter": "D",
-      "text": "ham"
-     }
-    ],
-    "answer": "D",
-    "vi": 38
-   },
-   {
-    "question": "Q: Does the little mouse like milk? — A: No, it doesn't. It likes __________.【起司；乳酪】",
-    "options": [
-     {
-      "letter": "A",
       "text": "cheese"
      },
      {
-      "letter": "B",
-      "text": "juice"
-     },
-     {
-      "letter": "C",
-      "text": "water"
-     },
-     {
       "letter": "D",
-      "text": "fish"
+      "text": "butter"
      }
     ],
     "answer": "A",
-    "vi": 39
+    "vi": 38
    },
    {
-    "question": "Q: Do your sisters like sweet food? — A: Yes, they do. They like __________ very much.【巧克力】",
+    "question": "Mice love to eat __________. This yellow food is made from milk, and people put it on pizza.",
     "options": [
      {
       "letter": "A",
-      "text": "fish"
+      "text": "ham"
      },
      {
       "letter": "B",
-      "text": "salad"
+      "text": "salt"
      },
      {
       "letter": "C",
-      "text": "coffee"
+      "text": "cheese"
+     },
+     {
+      "letter": "D",
+      "text": "sugar"
+     }
+    ],
+    "answer": "C",
+    "vi": 39
+   },
+   {
+    "question": "__________ is a sweet brown food. People give it to someone they love on Valentine's Day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Cheese"
+     },
+     {
+      "letter": "B",
+      "text": "Butter"
+     },
+     {
+      "letter": "C",
+      "text": "Popcorn"
      },
      {
       "letter": "D",
@@ -1977,15 +1977,15 @@ window.FLASHCARD_UNITS = {
     "vi": 40
    },
    {
-    "question": "Q: Does Ben like sweet food? — A: Yes, he does. He likes __________, but it's bad for his teeth.【糖果】",
+    "question": "Children love __________, but eating too much of this sweet food is bad for their teeth.",
     "options": [
      {
       "letter": "A",
-      "text": "tea"
+      "text": "salad"
      },
      {
       "letter": "B",
-      "text": "steak"
+      "text": "soup"
      },
      {
       "letter": "C",
@@ -1993,455 +1993,64 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "menu"
+      "text": "salt"
      }
     ],
     "answer": "C",
     "vi": 41
    },
    {
-    "question": "Q: Do you like movies? — A: Yes, I do. I like eating __________ at the movies.【爆米花】",
+    "question": "We always buy a big box of __________ when we watch a movie at the theater. It is made from corn.",
     "options": [
      {
       "letter": "A",
-      "text": "hot dog"
-     },
-     {
-      "letter": "B",
       "text": "popcorn"
      },
      {
+      "letter": "B",
+      "text": "chocolate"
+     },
+     {
       "letter": "C",
-      "text": "tea"
+      "text": "candy"
      },
      {
       "letter": "D",
       "text": "cheese"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 42
    },
    {
-    "question": "Q: Does your mom like chocolate? — A: Yes, she does. She likes chocolate __________.【蛋糕】",
+    "question": "Mom made a big birthday __________ for me. There were twelve candles on it, and I blew them all out.",
     "options": [
      {
       "letter": "A",
-      "text": "cake"
-     },
-     {
-      "letter": "B",
-      "text": "ice"
-     },
-     {
-      "letter": "C",
-      "text": "tea"
-     },
-     {
-      "letter": "D",
-      "text": "snack"
-     }
-    ],
-    "answer": "A",
-    "vi": 43
-   },
-   {
-    "question": "Q: Do you like apples? — A: Yes, I do. I like apple __________ best.【派】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "candy"
-     },
-     {
-      "letter": "B",
-      "text": "lemon"
-     },
-     {
-      "letter": "C",
-      "text": "pie"
-     },
-     {
-      "letter": "D",
-      "text": "cheese"
-     }
-    ],
-    "answer": "C",
-    "vi": 44
-   },
-   {
-    "question": "Q: Do your grandparents like to make bread? — A: Yes, they do. They like to __________ bread and cakes.【烘烤】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "drink"
-     },
-     {
-      "letter": "B",
-      "text": "bake"
-     },
-     {
-      "letter": "C",
-      "text": "cook"
-     },
-     {
-      "letter": "D",
-      "text": "order"
-     }
-    ],
-    "answer": "B",
-    "vi": 45
-   },
-   {
-    "question": "Q: Does your dad like to work in the kitchen? — A: Yes, he does. He likes to __________ dinner for us.【煮飯；烹調】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cook"
-     },
-     {
-      "letter": "B",
-      "text": "order"
-     },
-     {
-      "letter": "C",
-      "text": "bake"
-     },
-     {
-      "letter": "D",
-      "text": "drink"
-     }
-    ],
-    "answer": "A",
-    "vi": 46
-   },
-   {
-    "question": "Q: How many __________ does Mom need for the cake? — A: She needs three. She doesn't need any milk.【蛋】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cookies"
-     },
-     {
-      "letter": "B",
-      "text": "noodles"
-     },
-     {
-      "letter": "C",
-      "text": "pears"
-     },
-     {
-      "letter": "D",
-      "text": "eggs"
-     }
-    ],
-    "answer": "D",
-    "vi": 47
-   },
-   {
-    "question": "Q: How many __________ do you want? — A: I want two. I'm very hungry.【小圓麵包；包子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "buns"
-     },
-     {
-      "letter": "B",
-      "text": "noodles"
-     },
-     {
-      "letter": "C",
-      "text": "grapes"
-     },
-     {
-      "letter": "D",
-      "text": "tomatoes"
-     }
-    ],
-    "answer": "A",
-    "vi": 48
-   },
-   {
-    "question": "Q: How many __________ does Dad want? — A: He wants twenty! He has them for dinner.【水餃；湯圓】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "bananas"
-     },
-     {
-      "letter": "B",
-      "text": "cookies"
-     },
-     {
-      "letter": "C",
-      "text": "buns"
-     },
-     {
-      "letter": "D",
-      "text": "dumplings"
-     }
-    ],
-    "answer": "D",
-    "vi": 49
-   },
-   {
-    "question": "Q: How many __________ do the kids have? — A: They have ten. They want to share them.【餅乾】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "bananas"
-     },
-     {
-      "letter": "B",
-      "text": "vegetables"
-     },
-     {
-      "letter": "C",
-      "text": "cookies"
-     },
-     {
-      "letter": "D",
-      "text": "peaches"
-     }
-    ],
-    "answer": "C",
-    "vi": 50
-   },
-   {
-    "question": "Q: How much __________ do we have? — A: We don't have any. Let's buy some.【麵包】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "orange"
-     },
-     {
-      "letter": "B",
-      "text": "bread"
-     },
-     {
-      "letter": "C",
-      "text": "popcorn"
-     },
-     {
-      "letter": "D",
-      "text": "pumpkin"
-     }
-    ],
-    "answer": "B",
-    "vi": 51
-   },
-   {
-    "question": "Q: How much __________ does your brother eat? — A: He eats three bowls every day.【米飯】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "steak"
-     },
-     {
-      "letter": "B",
-      "text": "meal"
-     },
-     {
-      "letter": "C",
-      "text": "ice cream"
-     },
-     {
-      "letter": "D",
-      "text": "rice"
-     }
-    ],
-    "answer": "D",
-    "vi": 52
-   },
-   {
-    "question": "Q: How much __________ does the soup need? — A: It needs a little.【鹽】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fruit"
-     },
-     {
-      "letter": "B",
-      "text": "salt"
-     },
-     {
-      "letter": "C",
-      "text": "breakfast"
-     },
-     {
-      "letter": "D",
-      "text": "ice cream"
-     }
-    ],
-    "answer": "B",
-    "vi": 53
-   },
-   {
-    "question": "Q: How much __________ do you want in your coffee? — A: I don't want any, thanks.【糖】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sugar"
-     },
-     {
-      "letter": "B",
-      "text": "milk"
-     },
-     {
-      "letter": "C",
-      "text": "cake"
-     },
-     {
-      "letter": "D",
-      "text": "fish"
-     }
-    ],
-    "answer": "A",
-    "vi": 54
-   },
-   {
-    "question": "Q: How much __________ does Mom need? — A: She needs a little. She is cooking eggs.【油】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dinner"
-     },
-     {
-      "letter": "B",
-      "text": "chicken"
-     },
-     {
-      "letter": "C",
-      "text": "oil"
-     },
-     {
-      "letter": "D",
-      "text": "ham"
-     }
-    ],
-    "answer": "C",
-    "vi": 55
-   },
-   {
-    "question": "Q: Do we have any __________? — A: Yes, we have some. It's in the fridge.【奶油】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "apple"
-     },
-     {
-      "letter": "B",
-      "text": "food"
-     },
-     {
-      "letter": "C",
-      "text": "menu"
-     },
-     {
-      "letter": "D",
-      "text": "butter"
-     }
-    ],
-    "answer": "D",
-    "vi": 56
-   },
-   {
-    "question": "Q: How much __________ does the baby drink? — A: She drinks three bottles a day.【牛奶】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fish"
-     },
-     {
-      "letter": "B",
-      "text": "milk"
-     },
-     {
-      "letter": "C",
-      "text": "hot dog"
-     },
-     {
-      "letter": "D",
-      "text": "tea"
-     }
-    ],
-    "answer": "B",
-    "vi": 57
-   },
-   {
-    "question": "Q: How many glasses of __________ do you drink every day? — A: I drink eight glasses.【水】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "water"
-     },
-     {
-      "letter": "B",
-      "text": "candy"
-     },
-     {
-      "letter": "C",
-      "text": "breakfast"
-     },
-     {
-      "letter": "D",
-      "text": "dinner"
-     }
-    ],
-    "answer": "A",
-    "vi": 58
-   },
-   {
-    "question": "Q: How does the __________ taste? — A: It's good, but it needs more salt.【湯】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "apple"
-     },
-     {
-      "letter": "B",
-      "text": "candy"
-     },
-     {
-      "letter": "C",
       "text": "soup"
      },
      {
-      "letter": "D",
-      "text": "milk"
-     }
-    ],
-    "answer": "C",
-    "vi": 59
-   },
-   {
-    "question": "Q: How does your __________ taste? — A: It's great. I like beef.【牛排】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "beef"
-     },
-     {
       "letter": "B",
-      "text": "rice"
+      "text": "cake"
      },
      {
       "letter": "C",
-      "text": "menu"
+      "text": "salad"
      },
      {
       "letter": "D",
       "text": "steak"
      }
     ],
-    "answer": "D",
-    "vi": 60
+    "answer": "B",
+    "vi": 43
    },
    {
-    "question": "Q: How does the __________ taste? — A: It's fresh. It has lettuce and tomatoes.【沙拉】",
+    "question": "Grandma's apple __________ is the best. She puts a lot of fruit inside and bakes it for an hour.",
     "options": [
      {
       "letter": "A",
-      "text": "chicken"
+      "text": "soup"
      },
      {
       "letter": "B",
@@ -2449,183 +2058,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "sugar"
+      "text": "steak"
      },
      {
       "letter": "D",
-      "text": "lunch"
-     }
-    ],
-    "answer": "B",
-    "vi": 61
-   },
-   {
-    "question": "Q: How does Mom's beef soup taste? — A: It tastes __________.【美味的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "delicious"
-     },
-     {
-      "letter": "B",
-      "text": "sweet"
-     },
-     {
-      "letter": "C",
-      "text": "full"
-     },
-     {
-      "letter": "D",
-      "text": "yummy"
-     }
-    ],
-    "answer": "A",
-    "vi": 62
-   },
-   {
-    "question": "Q: How do the cookies taste? — A: They're __________! I want more.【好吃的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "full"
-     },
-     {
-      "letter": "B",
-      "text": "hot"
-     },
-     {
-      "letter": "C",
-      "text": "yummy"
-     },
-     {
-      "letter": "D",
-      "text": "thirsty"
-     }
-    ],
-    "answer": "C",
-    "vi": 63
-   },
-   {
-    "question": "Q: How does the watermelon taste? — A: It tastes very __________.【甜的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sweet"
-     },
-     {
-      "letter": "B",
-      "text": "yummy"
-     },
-     {
-      "letter": "C",
-      "text": "full"
-     },
-     {
-      "letter": "D",
-      "text": "hungry"
-     }
-    ],
-    "answer": "A",
-    "vi": 64
-   },
-   {
-    "question": "Q: How do the noodles taste? — A: They're too __________. Wait a minute.【熱的；燙的；辣的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "yummy"
-     },
-     {
-      "letter": "B",
-      "text": "hungry"
-     },
-     {
-      "letter": "C",
-      "text": "thirsty"
-     },
-     {
-      "letter": "D",
-      "text": "hot"
+      "text": "pie"
      }
     ],
     "answer": "D",
-    "vi": 65
+    "vi": 44
    },
    {
-    "question": "Q: How does the toast taste? — A: It tastes bad. Dad often __________ it.【燒焦；燃燒】",
+    "question": "I want to __________ a cake for Dad's birthday. I need flour, eggs, sugar, and an oven.",
     "options": [
      {
       "letter": "A",
-      "text": "boils"
+      "text": "boil"
      },
      {
       "letter": "B",
-      "text": "eats"
+      "text": "drink"
      },
      {
       "letter": "C",
-      "text": "burns"
+      "text": "bake"
      },
      {
       "letter": "D",
-      "text": "drink"
+      "text": "order"
      }
     ],
     "answer": "C",
-    "vi": 66
+    "vi": 45
    },
    {
-    "question": "Q: What do you have for __________? — A: I have toast and milk every morning.【早餐】",
+    "question": "Dad can't __________, so we eat out when Mom is not at home. He doesn't even know how to make an egg.",
     "options": [
      {
       "letter": "A",
-      "text": "ham"
-     },
-     {
-      "letter": "B",
-      "text": "breakfast"
-     },
-     {
-      "letter": "C",
-      "text": "ice"
-     },
-     {
-      "letter": "D",
-      "text": "bean"
-     }
-    ],
-    "answer": "B",
-    "vi": 67
-   },
-   {
-    "question": "Q: What does Dad have for breakfast? — A: He has __________ and coffee for breakfast.【土司】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "toast"
-     },
-     {
-      "letter": "B",
-      "text": "cake"
-     },
-     {
-      "letter": "C",
-      "text": "pizza"
-     },
-     {
-      "letter": "D",
-      "text": "breakfast"
-     }
-    ],
-    "answer": "A",
-    "vi": 68
-   },
-   {
-    "question": "Q: What do your kids have for breakfast? — A: They have bread, and they __________ a glass of milk.【喝】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "order"
+      "text": "eat"
      },
      {
       "letter": "B",
@@ -2637,37 +2108,497 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "bake"
-     }
-    ],
-    "answer": "C",
-    "vi": 69
-   },
-   {
-    "question": "Q: What does Grandma have for breakfast? — A: She has two eggs. She __________ them in water.【煮沸；水煮】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "eats"
-     },
-     {
-      "letter": "B",
-      "text": "boils"
-     },
-     {
-      "letter": "C",
-      "text": "burns"
-     },
-     {
-      "letter": "D",
-      "text": "bake"
+      "text": "order"
      }
     ],
     "answer": "B",
-    "vi": 70
+    "vi": 46
    },
    {
-    "question": "Q: What does Amy have for __________? — A: She has rice and fish at noon.【午餐】",
+    "question": "Hens lay __________. You can boil or fry them for breakfast.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "eggs"
+     },
+     {
+      "letter": "B",
+      "text": "buns"
+     },
+     {
+      "letter": "C",
+      "text": "cookies"
+     },
+     {
+      "letter": "D",
+      "text": "dumplings"
+     }
+    ],
+    "answer": "A",
+    "vi": 47
+   },
+   {
+    "question": "A hamburger has two round __________ with meat between them. The bakery makes them fresh every morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "eggs"
+     },
+     {
+      "letter": "B",
+      "text": "cookies"
+     },
+     {
+      "letter": "C",
+      "text": "buns"
+     },
+     {
+      "letter": "D",
+      "text": "pies"
+     }
+    ],
+    "answer": "C",
+    "vi": 48
+   },
+   {
+    "question": "Mom is making __________ for dinner. She puts pork and vegetables inside each one and then boils them in water.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cookies"
+     },
+     {
+      "letter": "B",
+      "text": "dumplings"
+     },
+     {
+      "letter": "C",
+      "text": "sandwiches"
+     },
+     {
+      "letter": "D",
+      "text": "salads"
+     }
+    ],
+    "answer": "B",
+    "vi": 49
+   },
+   {
+    "question": "Grandma baked some chocolate __________ for us. These small, flat, sweet snacks are great with milk.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cookies"
+     },
+     {
+      "letter": "B",
+      "text": "dumplings"
+     },
+     {
+      "letter": "C",
+      "text": "eggs"
+     },
+     {
+      "letter": "D",
+      "text": "buns"
+     }
+    ],
+    "answer": "A",
+    "vi": 50
+   },
+   {
+    "question": "Mom went to the bakery to buy some __________. We need it to make sandwiches for the picnic.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rice"
+     },
+     {
+      "letter": "B",
+      "text": "soup"
+     },
+     {
+      "letter": "C",
+      "text": "salt"
+     },
+     {
+      "letter": "D",
+      "text": "bread"
+     }
+    ],
+    "answer": "D",
+    "vi": 51
+   },
+   {
+    "question": "People in Taiwan eat __________ almost every day. They cook the small white grains and eat them with meat and vegetables.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rice"
+     },
+     {
+      "letter": "B",
+      "text": "bread"
+     },
+     {
+      "letter": "C",
+      "text": "butter"
+     },
+     {
+      "letter": "D",
+      "text": "sugar"
+     }
+    ],
+    "answer": "A",
+    "vi": 52
+   },
+   {
+    "question": "The soup has no taste. Please add a little __________, but not too much, or it will be too salty.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sugar"
+     },
+     {
+      "letter": "B",
+      "text": "salt"
+     },
+     {
+      "letter": "C",
+      "text": "butter"
+     },
+     {
+      "letter": "D",
+      "text": "milk"
+     }
+    ],
+    "answer": "B",
+    "vi": 53
+   },
+   {
+    "question": "I like my coffee sweet, so I always put two spoons of __________ in it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "salt"
+     },
+     {
+      "letter": "B",
+      "text": "oil"
+     },
+     {
+      "letter": "C",
+      "text": "sugar"
+     },
+     {
+      "letter": "D",
+      "text": "rice"
+     }
+    ],
+    "answer": "C",
+    "vi": 54
+   },
+   {
+    "question": "Put some __________ in the pan before you fry the eggs. Then the eggs won't stick to the pan.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "salt"
+     },
+     {
+      "letter": "B",
+      "text": "sugar"
+     },
+     {
+      "letter": "C",
+      "text": "milk"
+     },
+     {
+      "letter": "D",
+      "text": "oil"
+     }
+    ],
+    "answer": "D",
+    "vi": 55
+   },
+   {
+    "question": "I like to put __________ on my toast. This soft yellow food is made from milk.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "butter"
+     },
+     {
+      "letter": "B",
+      "text": "oil"
+     },
+     {
+      "letter": "C",
+      "text": "salt"
+     },
+     {
+      "letter": "D",
+      "text": "sugar"
+     }
+    ],
+    "answer": "A",
+    "vi": 56
+   },
+   {
+    "question": "Babies drink __________. This white drink comes from cows, and it helps children grow tall.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "tea"
+     },
+     {
+      "letter": "B",
+      "text": "milk"
+     },
+     {
+      "letter": "C",
+      "text": "coffee"
+     },
+     {
+      "letter": "D",
+      "text": "juice"
+     }
+    ],
+    "answer": "B",
+    "vi": 57
+   },
+   {
+    "question": "Plants and animals can't live without __________. You should drink eight glasses of it every day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "salt"
+     },
+     {
+      "letter": "B",
+      "text": "sugar"
+     },
+     {
+      "letter": "C",
+      "text": "water"
+     },
+     {
+      "letter": "D",
+      "text": "oil"
+     }
+    ],
+    "answer": "C",
+    "vi": 58
+   },
+   {
+    "question": "It is cold today. Let's have some hot chicken __________. You will need a spoon to eat it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "salad"
+     },
+     {
+      "letter": "B",
+      "text": "steak"
+     },
+     {
+      "letter": "C",
+      "text": "pie"
+     },
+     {
+      "letter": "D",
+      "text": "soup"
+     }
+    ],
+    "answer": "D",
+    "vi": 59
+   },
+   {
+    "question": "I'd like a __________, please. I want the beef well cooked, and I'd like some fries with it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "salad"
+     },
+     {
+      "letter": "B",
+      "text": "steak"
+     },
+     {
+      "letter": "C",
+      "text": "soup"
+     },
+     {
+      "letter": "D",
+      "text": "pie"
+     }
+    ],
+    "answer": "B",
+    "vi": 60
+   },
+   {
+    "question": "I'd like a __________ with lettuce, tomatoes, and eggs. I want to eat more fresh vegetables.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "steak"
+     },
+     {
+      "letter": "B",
+      "text": "pie"
+     },
+     {
+      "letter": "C",
+      "text": "cake"
+     },
+     {
+      "letter": "D",
+      "text": "salad"
+     }
+    ],
+    "answer": "D",
+    "vi": 61
+   },
+   {
+    "question": "The beef noodles here are __________. I come to this restaurant every week to eat them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hungry"
+     },
+     {
+      "letter": "B",
+      "text": "thirsty"
+     },
+     {
+      "letter": "C",
+      "text": "delicious"
+     },
+     {
+      "letter": "D",
+      "text": "full"
+     }
+    ],
+    "answer": "C",
+    "vi": 62
+   },
+   {
+    "question": "Mmm, this chocolate cake is __________! Can I have another piece, please?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "yummy"
+     },
+     {
+      "letter": "B",
+      "text": "hungry"
+     },
+     {
+      "letter": "C",
+      "text": "thirsty"
+     },
+     {
+      "letter": "D",
+      "text": "full"
+     }
+    ],
+    "answer": "A",
+    "vi": 63
+   },
+   {
+    "question": "This cake is too __________ for me. I think you put too much sugar in it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hungry"
+     },
+     {
+      "letter": "B",
+      "text": "thirsty"
+     },
+     {
+      "letter": "C",
+      "text": "sweet"
+     },
+     {
+      "letter": "D",
+      "text": "full"
+     }
+    ],
+    "answer": "C",
+    "vi": 64
+   },
+   {
+    "question": "Be careful! The soup is very __________. Wait for a few minutes, or you will burn your mouth.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sweet"
+     },
+     {
+      "letter": "B",
+      "text": "hot"
+     },
+     {
+      "letter": "C",
+      "text": "full"
+     },
+     {
+      "letter": "D",
+      "text": "hungry"
+     }
+    ],
+    "answer": "B",
+    "vi": 65
+   },
+   {
+    "question": "Dad is not a good cook. He often __________ the fish, so it turns black and tastes bad.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "drinks"
+     },
+     {
+      "letter": "B",
+      "text": "orders"
+     },
+     {
+      "letter": "C",
+      "text": "boils"
+     },
+     {
+      "letter": "D",
+      "text": "burns"
+     }
+    ],
+    "answer": "D",
+    "vi": 66
+   },
+   {
+    "question": "I have __________ at seven every morning. It is the first meal of the day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "breakfast"
+     },
+     {
+      "letter": "B",
+      "text": "lunch"
+     },
+     {
+      "letter": "C",
+      "text": "dinner"
+     },
+     {
+      "letter": "D",
+      "text": "barbecue"
+     }
+    ],
+    "answer": "A",
+    "vi": 67
+   },
+   {
+    "question": "I had two pieces of __________ with butter this morning. I heated the bread until it was brown.",
     "options": [
      {
       "letter": "A",
@@ -2675,91 +2606,160 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "rice"
+      "text": "toast"
      },
      {
       "letter": "C",
-      "text": "milk"
+      "text": "salad"
      },
      {
       "letter": "D",
-      "text": "lunch"
-     }
-    ],
-    "answer": "D",
-    "vi": 71
-   },
-   {
-    "question": "Q: What do you have for lunch? — A: I have a ham __________ for lunch.【三明治】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hamburger"
-     },
-     {
-      "letter": "B",
-      "text": "sandwich"
-     },
-     {
-      "letter": "C",
-      "text": "menu"
-     },
-     {
-      "letter": "D",
-      "text": "oil"
+      "text": "steak"
      }
     ],
     "answer": "B",
-    "vi": 72
+    "vi": 68
    },
    {
-    "question": "Q: What does your dad have for lunch? — A: He has beef __________ for lunch.【麵條】",
+    "question": "It is good to __________ a glass of water after you get up in the morning.",
     "options": [
      {
       "letter": "A",
-      "text": "pears"
+      "text": "eat"
      },
      {
       "letter": "B",
-      "text": "vegetables"
-     },
-     {
-      "letter": "C",
-      "text": "noodles"
-     },
-     {
-      "letter": "D",
-      "text": "grapes"
-     }
-    ],
-    "answer": "C",
-    "vi": 73
-   },
-   {
-    "question": "Q: What does your brother have for dinner? — A: He __________ rice and pork for dinner.【吃】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "burns"
-     },
-     {
-      "letter": "B",
-      "text": "boils"
-     },
-     {
-      "letter": "C",
       "text": "bake"
      },
      {
+      "letter": "C",
+      "text": "cook"
+     },
+     {
       "letter": "D",
-      "text": "eats"
+      "text": "drink"
      }
     ],
     "answer": "D",
+    "vi": 69
+   },
+   {
+    "question": "Mom __________ the eggs in water for ten minutes. Then we eat them with a little salt.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "bakes"
+     },
+     {
+      "letter": "B",
+      "text": "orders"
+     },
+     {
+      "letter": "C",
+      "text": "boils"
+     },
+     {
+      "letter": "D",
+      "text": "drinks"
+     }
+    ],
+    "answer": "C",
+    "vi": 70
+   },
+   {
+    "question": "We have __________ at school at twelve o'clock. It is the meal in the middle of the day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lunch"
+     },
+     {
+      "letter": "B",
+      "text": "breakfast"
+     },
+     {
+      "letter": "C",
+      "text": "dinner"
+     },
+     {
+      "letter": "D",
+      "text": "barbecue"
+     }
+    ],
+    "answer": "A",
+    "vi": 71
+   },
+   {
+    "question": "I made a __________ with two pieces of bread, some ham, and an egg. I will eat it at the picnic.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "salad"
+     },
+     {
+      "letter": "B",
+      "text": "soup"
+     },
+     {
+      "letter": "C",
+      "text": "steak"
+     },
+     {
+      "letter": "D",
+      "text": "sandwich"
+     }
+    ],
+    "answer": "D",
+    "vi": 72
+   },
+   {
+    "question": "Beef __________ are famous in Taiwan. You eat these long, thin things with chopsticks.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cookies"
+     },
+     {
+      "letter": "B",
+      "text": "noodles"
+     },
+     {
+      "letter": "C",
+      "text": "buns"
+     },
+     {
+      "letter": "D",
+      "text": "eggs"
+     }
+    ],
+    "answer": "B",
+    "vi": 73
+   },
+   {
+    "question": "My brother __________ three bowls of rice at every meal because he plays basketball for hours every day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "drinks"
+     },
+     {
+      "letter": "B",
+      "text": "bakes"
+     },
+     {
+      "letter": "C",
+      "text": "eats"
+     },
+     {
+      "letter": "D",
+      "text": "burns"
+     }
+    ],
+    "answer": "C",
     "vi": 74
    },
    {
-    "question": "Q: What do your parents have for __________? — A: They have soup and steak in the evening.【晚餐】",
+    "question": "Our family has __________ together at seven every evening. It is the last meal of the day.",
     "options": [
      {
       "letter": "A",
@@ -2767,80 +2767,80 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "lunch"
+      "text": "breakfast"
      },
      {
       "letter": "C",
-      "text": "juice"
+      "text": "lunch"
      },
      {
       "letter": "D",
-      "text": "Coke"
+      "text": "toast"
      }
     ],
     "answer": "A",
     "vi": 75
    },
    {
-    "question": "Q: What does your family have for dinner on Sundays? — A: We have a big __________ together.【一餐】",
+    "question": "Breakfast is the most important __________ of the day. Don't go to school without eating it.",
     "options": [
      {
       "letter": "A",
-      "text": "ham"
+      "text": "snack"
      },
      {
       "letter": "B",
-      "text": "meal"
-     },
-     {
-      "letter": "C",
-      "text": "oil"
-     },
-     {
-      "letter": "D",
-      "text": "chicken"
-     }
-    ],
-    "answer": "B",
-    "vi": 76
-   },
-   {
-    "question": "Q: What do you have for dinner on Moon Festival? — A: We have a __________ with our neighbors.【烤肉】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hamburger"
-     },
-     {
-      "letter": "B",
-      "text": "ham"
-     },
-     {
-      "letter": "C",
-      "text": "barbecue"
-     },
-     {
-      "letter": "D",
-      "text": "sandwich"
-     }
-    ],
-    "answer": "C",
-    "vi": 77
-   },
-   {
-    "question": "Q: What do you have after school? — A: I have a __________: some fruit and milk.【點心】",
-    "options": [
-     {
-      "letter": "A",
       "text": "menu"
      },
      {
+      "letter": "C",
+      "text": "meal"
+     },
+     {
+      "letter": "D",
+      "text": "fruit"
+     }
+    ],
+    "answer": "C",
+    "vi": 76
+   },
+   {
+    "question": "We had a __________ in the yard last night. Dad cooked meat and corn over a fire.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "breakfast"
+     },
+     {
       "letter": "B",
-      "text": "watermelon"
+      "text": "barbecue"
      },
      {
       "letter": "C",
-      "text": "milk"
+      "text": "menu"
+     },
+     {
+      "letter": "D",
+      "text": "snack"
+     }
+    ],
+    "answer": "B",
+    "vi": 77
+   },
+   {
+    "question": "I am a little hungry, but dinner is two hours away. Can I have a small __________, like a cookie or an apple?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "meal"
+     },
+     {
+      "letter": "B",
+      "text": "menu"
+     },
+     {
+      "letter": "C",
+      "text": "dinner"
      },
      {
       "letter": "D",
@@ -2853,4 +2853,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hungry":["wanting to eat","飢餓的"],"thirsty":["wanting to drink","口渴的"],"full":["not able to eat more; having no more space inside","飽的；滿的"],"menu":["a list of the food and drinks in a restaurant","菜單"],"order":["to ask for food or drinks in a restaurant","點餐"],"food":["things that people and animals eat","食物"],"hamburger":["a round piece of cooked meat inside a bun","漢堡"],"fries":["long thin pieces of potato cooked in hot oil","炸薯條"],"pizza":["a flat round bread with cheese, tomato, and meat on top","披薩"],"coke":["a sweet brown drink with bubbles","可樂"],"ice":["water that is so cold it is hard","冰"],"juice":["a drink made from fruit","果汁"],"tea":["a hot drink made with dried leaves and hot water","茶"],"coffee":["a hot brown drink that helps people wake up","咖啡"],"fruit":["sweet food that grows on trees or plants, like apples and bananas","水果"],"apple":["a round fruit that is red, green, or yellow","蘋果"],"orange":["a round, sweet fruit with a thick orange skin","柳橙"],"bananas":["a long yellow fruit","香蕉"],"grapes":["a small round green or purple fruit that grows in bunches","葡萄"],"guavas":["a green fruit with many small seeds inside","芭樂"],"papaya":["a long fruit that is orange inside, with small black seeds","木瓜"],"peaches":["a soft, sweet, pink and yellow fruit with one big seed","桃子"],"pears":["a sweet fruit that is round at the bottom and thin at the top","梨子"],"lemon":["a yellow fruit that tastes sour","檸檬"],"strawberries":["a small, soft red fruit with tiny seeds on it","草莓"],"watermelon":["a big fruit that is green outside and red inside","西瓜"],"tomatoes":["a soft, round red fruit that people eat in salads","番茄"],"vegetables":["a plant that people eat, like carrots and cabbage","蔬菜"],"lettuce":["a vegetable with big green leaves, used in salads","萵苣；生菜"],"bean":["a small seed that people eat as a vegetable","豆子"],"pumpkin":["a big round orange vegetable","南瓜"],"meat":["food that comes from animals","肉"],"beef":["meat from a cow","牛肉"],"pork":["meat from a pig","豬肉"],"chicken":["meat from a bird that lives on farms","雞肉"],"fish":["an animal that lives in water; its meat","魚；魚肉"],"ham":["salty meat from a pig's leg","火腿"],"cheese":["a yellow or white food made from milk","起司；乳酪"],"chocolate":["a sweet brown food or candy","巧克力"],"candy":["a small sweet food made with sugar","糖果"],"popcorn":["a snack made from corn that people eat at the movies","爆米花"],"cake":["a sweet food that you bake, often for birthdays","蛋糕"],"pie":["a baked food with fruit or meat inside","派"],"bake":["to cook food like bread or cake in an oven","烘烤"],"cook":["to make food ready to eat by heating it","煮飯；烹調"],"eggs":["a round or oval food that comes from a hen","蛋"],"buns":["a small round bread","小圓麵包；包子"],"dumplings":["a small piece of dough with meat or vegetables inside","水餃；湯圓"],"cookies":["a small, flat, sweet baked snack","餅乾"],"bread":["a food made from flour and baked in an oven","麵包"],"rice":["small white grains that people cook and eat","米飯"],"salt":["a white powder that makes food taste salty","鹽"],"sugar":["something white or brown that makes food sweet","糖"],"oil":["a thick liquid used for cooking","油"],"butter":["a soft yellow food made from milk that you put on bread","奶油"],"milk":["a white drink that comes from cows","牛奶"],"water":["the clear liquid that we drink; it falls as rain","水"],"soup":["a hot liquid food that you eat with a spoon","湯"],"steak":["a thick piece of meat, usually beef","牛排"],"salad":["a cold dish of vegetables like lettuce and tomatoes","沙拉"],"delicious":["tasting very good","美味的"],"yummy":["tasting very good","好吃的"],"sweet":["tasting like sugar","甜的"],"hot":["having a high temperature; not cold; also spicy","熱的；燙的；辣的"],"burns":["to be on fire; to hurt or spoil something with fire or heat","燒焦；燃燒"],"breakfast":["the first meal of the day, eaten in the morning","早餐"],"toast":["a piece of bread heated until it is brown","土司"],"drink":["to take water, milk, or juice into your mouth and body","喝"],"boils":["to heat water until it is very hot; to cook food in very hot water","煮沸；水煮"],"lunch":["the meal you eat in the middle of the day","午餐"],"sandwich":["two pieces of bread with meat, egg, or cheese between them","三明治"],"noodles":["long thin pieces of food made from flour","麵條"],"eats":["to put food in your mouth and swallow it","吃"],"dinner":["the main meal of the day, usually eaten in the evening","晚餐"],"meal":["the food you eat at one time, like breakfast or dinner","一餐"],"barbecue":["a meal or party where food is cooked outside over a fire","烤肉"],"snack":["a small amount of food you eat between meals","點心"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"thirsty":["wanting to drink","口渴的"],"full":["not able to eat more; having no more space inside","飽的；滿的"],"sweet":["tasting like sugar","甜的"],"hungry":["wanting to eat","飢餓的"],"yummy":["tasting very good","好吃的"],"menu":["a list of the food and drinks in a restaurant","菜單"],"meal":["the food you eat at one time, like breakfast or dinner","一餐"],"snack":["a small amount of food you eat between meals","點心"],"fruit":["sweet food that grows on trees or plants, like apples and bananas","水果"],"bake":["to cook food like bread or cake in an oven","烘烤"],"boil":["to heat water until it is very hot; to cook food in very hot water","煮沸；水煮"],"order":["to ask for food or drinks in a restaurant","點餐"],"burn":["to be on fire; to hurt or spoil something with fire or heat","燒焦；燃燒"],"juice":["a drink made from fruit","果汁"],"tea":["a hot drink made with dried leaves and hot water","茶"],"food":["things that people and animals eat","食物"],"pizza":["a flat round bread with cheese, tomato, and meat on top","披薩"],"hamburger":["a round piece of cooked meat inside a bun","漢堡"],"pie":["a baked food with fruit or meat inside","派"],"salad":["a cold dish of vegetables like lettuce and tomatoes","沙拉"],"fries":["long thin pieces of potato cooked in hot oil","炸薯條"],"noodles":["long thin pieces of food made from flour","麵條"],"beans":["a small seed that people eat as a vegetable","豆子"],"grapes":["a small round green or purple fruit that grows in bunches","葡萄"],"soup":["a hot liquid food that you eat with a spoon","湯"],"candy":["a small sweet food made with sugar","糖果"],"popcorn":["a snack made from corn that people eat at the movies","爆米花"],"toast":["a piece of bread heated until it is brown","土司"],"milk":["a white drink that comes from cows","牛奶"],"water":["the clear liquid that we drink; it falls as rain","水"],"coke":["a sweet brown drink with bubbles","可樂"],"salt":["a white powder that makes food taste salty","鹽"],"ice":["water that is so cold it is hard","冰"],"oil":["a thick liquid used for cooking","油"],"butter":["a soft yellow food made from milk that you put on bread","奶油"],"rice":["small white grains that people cook and eat","米飯"],"coffee":["a hot brown drink that helps people wake up","咖啡"],"meat":["food that comes from animals","肉"],"bread":["a food made from flour and baked in an oven","麵包"],"orange":["a round, sweet fruit with a thick orange skin","柳橙"],"apple":["a round fruit that is red, green, or yellow","蘋果"],"egg":["a round or oval food that comes from a hen","蛋"],"lemons":["a yellow fruit that tastes sour","檸檬"],"bananas":["a long yellow fruit","香蕉"],"pears":["a sweet fruit that is round at the bottom and thin at the top","梨子"],"papayas":["","木瓜"],"watermelons":["","西瓜"],"guavas":["a green fruit with many small seeds inside","芭樂"],"strawberries":["","草莓"],"oranges":["a round, sweet fruit with a thick orange skin","柳橙"],"papaya":["a long fruit that is orange inside, with small black seeds","木瓜"],"lemon":["a yellow fruit that tastes sour","檸檬"],"pear":["a sweet fruit that is round at the bottom and thin at the top","梨子"],"peach":["a soft, sweet, pink and yellow fruit with one big seed","桃子"],"peaches":["a soft, sweet, pink and yellow fruit with one big seed","桃子"],"grape":["a small round green or purple fruit that grows in bunches","葡萄"],"watermelon":["a big fruit that is green outside and red inside","西瓜"],"pumpkins":["a big round orange vegetable","南瓜"],"tomatoes":["a soft, round red fruit that people eat in salads","番茄"],"fruits":["sweet food that grows on trees or plants, like apples and bananas","水果"],"snacks":["a small amount of food you eat between meals","點心"],"meals":["the food you eat at one time, like breakfast or dinner","一餐"],"vegetables":["a plant that people eat, like carrots and cabbage","蔬菜"],"pumpkin":["a big round orange vegetable","南瓜"],"lettuce":["a vegetable with big green leaves, used in salads","萵苣；生菜"],"cheese":["a yellow or white food made from milk","起司；乳酪"],"ham":["salty meat from a pig's leg","火腿"],"eggs":["a round or oval food that comes from a hen","蛋"],"tomato":["a soft, round red fruit that people eat in salads","番茄"],"bean":["a small seed that people eat as a vegetable","豆子"],"pork":["meat from a pig","豬肉"],"chicken":["meat from a bird that lives on farms","雞肉"],"beef":["meat from a cow","牛肉"],"fish":["an animal that lives in water; its meat","魚；魚肉"],"steak":["a thick piece of meat, usually beef","牛排"],"sugar":["something white or brown that makes food sweet","糖"],"chocolate":["a sweet brown food or candy","巧克力"],"cake":["a sweet food that you bake, often for birthdays","蛋糕"],"drink":["to take water, milk, or juice into your mouth and body","喝"],"eat":["to put food in your mouth and swallow it","吃"],"cook":["to make food ready to eat by heating it","煮飯；烹調"],"buns":["a small round bread","小圓麵包；包子"],"cookies":["a small, flat, sweet baked snack","餅乾"],"dumplings":["a small piece of dough with meat or vegetables inside","水餃；湯圓"],"pies":["a baked food with fruit or meat inside","派"],"sandwiches":["","三明治"],"salads":["a cold dish of vegetables like lettuce and tomatoes","沙拉"],"delicious":["tasting very good","美味的"],"hot":["having a high temperature; not cold; also spicy","熱的；燙的；辣的"],"drinks":["to take water, milk, or juice into your mouth and body","喝"],"orders":["to ask for food or drinks in a restaurant","點餐"],"boils":["to heat water until it is very hot; to cook food in very hot water","煮沸；水煮"],"burns":["to be on fire; to hurt or spoil something with fire or heat","燒焦；燃燒"],"breakfast":["the first meal of the day, eaten in the morning","早餐"],"lunch":["the meal you eat in the middle of the day","午餐"],"dinner":["the main meal of the day, usually eaten in the evening","晚餐"],"barbecue":["a meal or party where food is cooked outside over a fire","烤肉"],"bakes":["to cook food like bread or cake in an oven","烘烤"],"sandwich":["two pieces of bread with meat, egg, or cheese between them","三明治"],"eats":["to put food in your mouth and swallow it","吃"]});

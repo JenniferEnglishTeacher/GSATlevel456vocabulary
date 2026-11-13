@@ -176,19 +176,19 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: How much is this pen? — A: It's twenty __________.【元】",
+    "question": "This pen is only ten __________. It is so cheap that I want to buy two.",
     "options": [
      {
       "letter": "A",
-      "text": "cents"
+      "text": "minutes"
      },
      {
       "letter": "B",
-      "text": "money"
+      "text": "hours"
      },
      {
       "letter": "C",
-      "text": "change"
+      "text": "weeks"
      },
      {
       "letter": "D",
@@ -199,34 +199,34 @@ window.FLASHCARD_UNITS = {
     "vi": 0
    },
    {
-    "question": "Q: How much is this candy? — A: It's only fifty __________.【（一）分錢】",
+    "question": "One dollar is one hundred __________. These small coins are not used very often now.",
     "options": [
      {
       "letter": "A",
-      "text": "dollars"
-     },
-     {
-      "letter": "B",
-      "text": "money"
-     },
-     {
-      "letter": "C",
       "text": "cents"
      },
      {
+      "letter": "B",
+      "text": "dollars"
+     },
+     {
+      "letter": "C",
+      "text": "prices"
+     },
+     {
       "letter": "D",
-      "text": "change"
+      "text": "hours"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 1
    },
    {
-    "question": "Q: How much is the new bike? — A: The __________ is three thousand dollars.【價格】",
+    "question": "The __________ of this bike is too high. I can't buy it with only two thousand dollars.",
     "options": [
      {
       "letter": "A",
-      "text": "change"
+      "text": "dollar"
      },
      {
       "letter": "B",
@@ -234,64 +234,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "money"
+      "text": "change"
      },
      {
       "letter": "D",
-      "text": "dollars"
+      "text": "cent"
      }
     ],
     "answer": "B",
     "vi": 2
    },
    {
-    "question": "Q: How much is it? — A: It's eighty dollars. Here is your __________, twenty dollars.【零錢；找的錢】",
+    "question": "The pen was eight dollars, and I gave the clerk ten. He gave me two dollars in __________.",
     "options": [
      {
       "letter": "A",
-      "text": "change"
-     },
-     {
-      "letter": "B",
-      "text": "money"
-     },
-     {
-      "letter": "C",
       "text": "price"
      },
      {
-      "letter": "D",
-      "text": "cents"
-     }
-    ],
-    "answer": "A",
-    "vi": 3
-   },
-   {
-    "question": "Q: How much are these socks? — A: They're fifty dollars. They're very __________.【便宜的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "expensive"
-     },
-     {
       "letter": "B",
-      "text": "shorter"
+      "text": "dollar"
      },
      {
       "letter": "C",
-      "text": "cheap"
+      "text": "change"
      },
      {
       "letter": "D",
-      "text": "important"
+      "text": "week"
      }
     ],
     "answer": "C",
-    "vi": 4
+    "vi": 3
    },
    {
-    "question": "Q: How much are those shoes? — A: They're five thousand dollars. They're too __________!【昂貴的】",
+    "question": "These shoes are very __________. They are only one hundred dollars, so I will buy two pairs.",
     "options": [
      {
       "letter": "A",
@@ -303,41 +280,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "richer"
+      "text": "tall"
      },
      {
       "letter": "D",
-      "text": "tidy"
-     }
-    ],
-    "answer": "A",
-    "vi": 5
-   },
-   {
-    "question": "Q: How much are the apples? — A: They're ten dollars each. I want to __________ six.【買】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "borrow"
-     },
-     {
-      "letter": "B",
-      "text": "buy"
-     },
-     {
-      "letter": "C",
-      "text": "spend"
-     },
-     {
-      "letter": "D",
-      "text": "costs"
+      "text": "young"
      }
     ],
     "answer": "B",
-    "vi": 6
+    "vi": 4
    },
    {
-    "question": "Q: How much do you spend on lunch every day? — A: I __________ sixty dollars on lunch.【（人）花（錢）】",
+    "question": "This watch is too __________ for me. It is fifty thousand dollars, and I only have five hundred.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cheap"
+     },
+     {
+      "letter": "B",
+      "text": "short"
+     },
+     {
+      "letter": "C",
+      "text": "expensive"
+     },
+     {
+      "letter": "D",
+      "text": "young"
+     }
+    ],
+    "answer": "C",
+    "vi": 5
+   },
+   {
+    "question": "I want to __________ a birthday present for my mom, so I am going to the department store this afternoon.",
     "options": [
      {
       "letter": "A",
@@ -345,11 +322,34 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "borrow"
+      "text": "lend"
      },
      {
       "letter": "C",
-      "text": "costs"
+      "text": "cost"
+     },
+     {
+      "letter": "D",
+      "text": "spend"
+     }
+    ],
+    "answer": "A",
+    "vi": 6
+   },
+   {
+    "question": "I __________ two hundred dollars on lunch every week. My mom thinks it is too much.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cost"
+     },
+     {
+      "letter": "B",
+      "text": "lend"
+     },
+     {
+      "letter": "C",
+      "text": "buy"
      },
      {
       "letter": "D",
@@ -360,88 +360,88 @@ window.FLASHCARD_UNITS = {
     "vi": 7
    },
    {
-    "question": "Q: How much do your parents spend on books? — A: They spend a lot of __________ on books. They love reading.【錢】",
+    "question": "I have no __________ in my wallet. Can you lend me one hundred dollars?",
     "options": [
      {
       "letter": "A",
-      "text": "change"
-     },
-     {
-      "letter": "B",
       "text": "price"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "money"
      },
      {
-      "letter": "D",
-      "text": "dollars"
-     }
-    ],
-    "answer": "C",
-    "vi": 8
-   },
-   {
-    "question": "Q: How much does this T-shirt cost? — A: It __________ three hundred dollars.【（物品）價錢為】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pays"
-     },
-     {
-      "letter": "B",
-      "text": "costs"
-     },
-     {
       "letter": "C",
-      "text": "lends"
+      "text": "week"
      },
      {
       "letter": "D",
-      "text": "spend"
+      "text": "hour"
      }
     ],
     "answer": "B",
-    "vi": 9
+    "vi": 8
    },
    {
-    "question": "Q: Does your dad pay for dinner? — A: Yes, he does. He always __________ for dinner.【付錢】",
+    "question": "This T-shirt __________ three hundred dollars. It is not expensive, so I will take it.",
     "options": [
      {
       "letter": "A",
-      "text": "pays"
-     },
-     {
-      "letter": "B",
       "text": "costs"
      },
      {
+      "letter": "B",
+      "text": "pays"
+     },
+     {
       "letter": "C",
-      "text": "lends"
+      "text": "spends"
      },
      {
       "letter": "D",
-      "text": "buy"
+      "text": "buys"
      }
     ],
     "answer": "A",
-    "vi": 10
+    "vi": 9
    },
    {
-    "question": "Q: Do you have money for the bus? — A: No, I don't. Can I __________ twenty dollars from you?【借入】",
+    "question": "Dad always __________ for dinner when our family eats at a restaurant. He never lets us use our own money.",
     "options": [
      {
       "letter": "A",
-      "text": "buy"
+      "text": "costs"
      },
      {
       "letter": "B",
-      "text": "spend"
+      "text": "lends"
      },
      {
       "letter": "C",
       "text": "pays"
+     },
+     {
+      "letter": "D",
+      "text": "borrows"
+     }
+    ],
+    "answer": "C",
+    "vi": 10
+   },
+   {
+    "question": "I forgot my pen. May I __________ yours? I will give it back after class.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lend"
+     },
+     {
+      "letter": "B",
+      "text": "pay"
+     },
+     {
+      "letter": "C",
+      "text": "cost"
      },
      {
       "letter": "D",
@@ -452,29 +452,29 @@ window.FLASHCARD_UNITS = {
     "vi": 11
    },
    {
-    "question": "Q: Does your sister lend you money? — A: Yes, she does. She often __________ me fifty dollars.【借出】",
+    "question": "My sister often __________ me her bike. I always give it back to her the next day.",
     "options": [
      {
       "letter": "A",
-      "text": "costs"
+      "text": "borrows"
      },
      {
       "letter": "B",
-      "text": "lends"
+      "text": "costs"
      },
      {
       "letter": "C",
-      "text": "pays"
+      "text": "lends"
      },
      {
       "letter": "D",
-      "text": "spend"
+      "text": "pays"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 12
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"shorter":["not tall; not long","矮的；短的"],"richer":["having a lot of money","有錢的"],"dollars":["the money used in Taiwan, the U.S.A., and some other countries","元"],"cents":["a small coin; one hundred of them make one dollar","（一）分錢"],"price":["how much money you pay to buy something","價格"],"change":["the money you get back when you pay too much; coins","零錢；找的錢"],"cheap":["not costing much money","便宜的"],"expensive":["costing a lot of money","昂貴的"],"buy":["to get something by paying money for it","買"],"spend":["to use money to buy things","（人）花（錢）"],"money":["coins and paper bills that you use to buy things","錢"],"costs":["to have a price of","（物品）價錢為"],"pays":["to give money for something you buy","付錢"],"borrow":["to take and use something that you will give back later","借入"],"lends":["to let someone use something that they will give back later","借出"],"tidy":["clean, with everything in the right place","整潔的"],"important":["having great meaning or value","重要的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"minutes":["sixty seconds","分鐘"],"hours":["sixty minutes","小時"],"weeks":["seven days","星期；週"],"dollars":["the money used in Taiwan, the U.S.A., and some other countries","元"],"cents":["a small coin; one hundred of them make one dollar","（一）分錢"],"prices":["how much money you pay to buy something","價格"],"dollar":["the money used in Taiwan, the U.S.A., and some other countries","元"],"price":["how much money you pay to buy something","價格"],"change":["the money you get back when you pay too much; coins","零錢；找的錢"],"cent":["a small coin; one hundred of them make one dollar","（一）分錢"],"week":["seven days","星期；週"],"expensive":["costing a lot of money","昂貴的"],"cheap":["not costing much money","便宜的"],"tall":["high from head to foot","高的"],"young":["having lived for only a few years; not old","年輕的"],"short":["not tall; not long","矮的；短的"],"buy":["to get something by paying money for it","買"],"lend":["to let someone use something that they will give back later","借出"],"cost":["to have a price of","（物品）價錢為"],"spend":["to use money to buy things","（人）花（錢）"],"money":["coins and paper bills that you use to buy things","錢"],"hour":["sixty minutes","小時"],"costs":["to have a price of","（物品）價錢為"],"pays":["to give money for something you buy","付錢"],"spends":["to use money to buy things","（人）花（錢）"],"buys":["to get something by paying money for it","買"],"lends":["to let someone use something that they will give back later","借出"],"borrows":["to take and use something that you will give back later","借入"],"pay":["to give money for something you buy","付錢"],"borrow":["to take and use something that you will give back later","借入"]});

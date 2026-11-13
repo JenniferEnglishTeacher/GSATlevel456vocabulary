@@ -1021,65 +1021,65 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: What class do you have on Monday morning? — A: I have __________ class first.【中文；國文】",
+    "question": "People in Taiwan and China speak __________. It is also the class where we learn to write characters.",
     "options": [
      {
       "letter": "A",
-      "text": "Envelope"
-     },
-     {
-      "letter": "B",
-      "text": "Chinese"
-     },
-     {
-      "letter": "C",
-      "text": "Page"
-     },
-     {
-      "letter": "D",
-      "text": "Homework"
-     }
-    ],
-    "answer": "B",
-    "vi": 0
-   },
-   {
-    "question": "Q: What class does Amy have on Tuesday? — A: She has __________ class with Mr. Smith.【英語】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Glue"
-     },
-     {
-      "letter": "B",
-      "text": "Library"
-     },
-     {
-      "letter": "C",
       "text": "English"
      },
      {
-      "letter": "D",
-      "text": "Slide"
-     }
-    ],
-    "answer": "C",
-    "vi": 1
-   },
-   {
-    "question": "Q: What class do Tom and Ben have now? — A: They have __________ class. They're counting numbers.【數學】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "library"
-     },
-     {
       "letter": "B",
-      "text": "history"
+      "text": "math"
      },
      {
       "letter": "C",
-      "text": "pencil"
+      "text": "Chinese"
+     },
+     {
+      "letter": "D",
+      "text": "science"
+     }
+    ],
+    "answer": "C",
+    "vi": 0
+   },
+   {
+    "question": "People in America and England speak __________. We learn the ABCs in this class.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Chinese"
+     },
+     {
+      "letter": "B",
+      "text": "English"
+     },
+     {
+      "letter": "C",
+      "text": "history"
+     },
+     {
+      "letter": "D",
+      "text": "art"
+     }
+    ],
+    "answer": "B",
+    "vi": 1
+   },
+   {
+    "question": "In __________ class, we learn to add, subtract, and work with numbers.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "history"
+     },
+     {
+      "letter": "B",
+      "text": "art"
+     },
+     {
+      "letter": "C",
+      "text": "music"
      },
      {
       "letter": "D",
@@ -1090,57 +1090,11 @@ window.FLASHCARD_UNITS = {
     "vi": 2
    },
    {
-    "question": "Q: What class does your brother have this afternoon? — A: He has __________ class. He learns about the past.【歷史】",
+    "question": "In __________ class, we learn about people and things from the past, like old kings and wars.",
     "options": [
      {
       "letter": "A",
       "text": "history"
-     },
-     {
-      "letter": "B",
-      "text": "present"
-     },
-     {
-      "letter": "C",
-      "text": "eraser"
-     },
-     {
-      "letter": "D",
-      "text": "pencil"
-     }
-    ],
-    "answer": "A",
-    "vi": 3
-   },
-   {
-    "question": "Q: How many English __________ do you have a week? — A: I have five.【課】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "students"
-     },
-     {
-      "letter": "B",
-      "text": "glasses"
-     },
-     {
-      "letter": "C",
-      "text": "lessons"
-     },
-     {
-      "letter": "D",
-      "text": "pens"
-     }
-    ],
-    "answer": "C",
-    "vi": 4
-   },
-   {
-    "question": "Q: What __________ does your mom take on Saturdays? — A: She takes a cooking class.【課程】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pencil"
      },
      {
       "letter": "B",
@@ -1148,179 +1102,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "junior high school"
-     },
-     {
-      "letter": "D",
-      "text": "course"
-     }
-    ],
-    "answer": "D",
-    "vi": 5
-   },
-   {
-    "question": "Q: What's your favorite subject? — A: My favorite subject is __________. I like to draw.【美術】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "picture"
-     },
-     {
-      "letter": "B",
       "text": "art"
      },
      {
-      "letter": "C",
-      "text": "envelope"
-     },
-     {
       "letter": "D",
-      "text": "library"
-     }
-    ],
-    "answer": "B",
-    "vi": 6
-   },
-   {
-    "question": "Q: What's Lisa's favorite subject? — A: Her favorite subject is __________. She sings very well.【音樂】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "music"
-     },
-     {
-      "letter": "B",
-      "text": "dictionary"
-     },
-     {
-      "letter": "C",
-      "text": "knowledge"
-     },
-     {
-      "letter": "D",
-      "text": "notebook"
+      "text": "PE"
      }
     ],
     "answer": "A",
-    "vi": 7
+    "vi": 3
    },
    {
-    "question": "Q: What's Tom's favorite subject? — A: His favorite subject is __________. He loves to run.【體育】",
+    "question": "I take piano __________ every Saturday. My teacher comes to my house and teaches me for an hour.",
     "options": [
      {
       "letter": "A",
-      "text": "Test"
+      "text": "pages"
      },
      {
       "letter": "B",
-      "text": "PE"
+      "text": "maps"
      },
      {
       "letter": "C",
-      "text": "Music"
+      "text": "lessons"
      },
      {
       "letter": "D",
-      "text": "History"
-     }
-    ],
-    "answer": "B",
-    "vi": 8
-   },
-   {
-    "question": "Q: What's your favorite subject, Ben? — A: It's __________. I like to learn about plants and animals.【自然科學】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "seesaw"
-     },
-     {
-      "letter": "B",
-      "text": "postcard"
-     },
-     {
-      "letter": "C",
-      "text": "science"
-     },
-     {
-      "letter": "D",
-      "text": "playground"
+      "text": "grades"
      }
     ],
     "answer": "C",
-    "vi": 9
+    "vi": 4
    },
    {
-    "question": "Q: What's Amy's favorite subject? — A: English. She can speak three __________.【語言】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "class"
-     },
-     {
-      "letter": "B",
-      "text": "exercises"
-     },
-     {
-      "letter": "C",
-      "text": "rulers"
-     },
-     {
-      "letter": "D",
-      "text": "languages"
-     }
-    ],
-    "answer": "D",
-    "vi": 10
-   },
-   {
-    "question": "Q: Can I borrow your __________? — A: Sure. Here you are.【字典】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dictionary"
-     },
-     {
-      "letter": "B",
-      "text": "test"
-     },
-     {
-      "letter": "C",
-      "text": "letter"
-     },
-     {
-      "letter": "D",
-      "text": "chalk"
-     }
-    ],
-    "answer": "A",
-    "vi": 11
-   },
-   {
-    "question": "Q: Can I borrow your __________ of Taiwan? — A: Sorry, I'm using it now.【地圖】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "gym"
-     },
-     {
-      "letter": "B",
-      "text": "dictionary"
-     },
-     {
-      "letter": "C",
-      "text": "music"
-     },
-     {
-      "letter": "D",
-      "text": "map"
-     }
-    ],
-    "answer": "D",
-    "vi": 12
-   },
-   {
-    "question": "Q: Can I borrow your __________? I want to copy the notes. — A: OK. Here you are.【筆記本】",
+    "question": "I am taking a six-week English __________ this summer. There are three classes every week.",
     "options": [
      {
       "letter": "A",
@@ -1328,7 +1144,191 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "course"
+     },
+     {
+      "letter": "C",
+      "text": "map"
+     },
+     {
+      "letter": "D",
+      "text": "chalk"
+     }
+    ],
+    "answer": "B",
+    "vi": 5
+   },
+   {
+    "question": "In __________ class, we draw and paint pictures. I love using colors.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "math"
+     },
+     {
+      "letter": "B",
       "text": "history"
+     },
+     {
+      "letter": "C",
+      "text": "science"
+     },
+     {
+      "letter": "D",
+      "text": "art"
+     }
+    ],
+    "answer": "D",
+    "vi": 6
+   },
+   {
+    "question": "In __________ class, we sing songs and learn to play the flute.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "music"
+     },
+     {
+      "letter": "B",
+      "text": "math"
+     },
+     {
+      "letter": "C",
+      "text": "history"
+     },
+     {
+      "letter": "D",
+      "text": "science"
+     }
+    ],
+    "answer": "A",
+    "vi": 7
+   },
+   {
+    "question": "We play basketball and run in __________ class. We have to wear sports shoes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "art"
+     },
+     {
+      "letter": "B",
+      "text": "PE"
+     },
+     {
+      "letter": "C",
+      "text": "math"
+     },
+     {
+      "letter": "D",
+      "text": "history"
+     }
+    ],
+    "answer": "B",
+    "vi": 8
+   },
+   {
+    "question": "In __________ class, we learn about plants, animals, the weather, and the stars.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "art"
+     },
+     {
+      "letter": "B",
+      "text": "music"
+     },
+     {
+      "letter": "C",
+      "text": "PE"
+     },
+     {
+      "letter": "D",
+      "text": "science"
+     }
+    ],
+    "answer": "D",
+    "vi": 9
+   },
+   {
+    "question": "My uncle can speak four __________: Chinese, English, Japanese, and French.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "languages"
+     },
+     {
+      "letter": "B",
+      "text": "dictionaries"
+     },
+     {
+      "letter": "C",
+      "text": "notebooks"
+     },
+     {
+      "letter": "D",
+      "text": "stories"
+     }
+    ],
+    "answer": "A",
+    "vi": 10
+   },
+   {
+    "question": "I don't know this word. I will look it up in the __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "map"
+     },
+     {
+      "letter": "B",
+      "text": "eraser"
+     },
+     {
+      "letter": "C",
+      "text": "dictionary"
+     },
+     {
+      "letter": "D",
+      "text": "ruler"
+     }
+    ],
+    "answer": "C",
+    "vi": 11
+   },
+   {
+    "question": "We can't find the museum. Let's look at the __________ of the city and see where we are.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "map"
+     },
+     {
+      "letter": "B",
+      "text": "chalk"
+     },
+     {
+      "letter": "C",
+      "text": "glue"
+     },
+     {
+      "letter": "D",
+      "text": "eraser"
+     }
+    ],
+    "answer": "A",
+    "vi": 12
+   },
+   {
+    "question": "I write down new words in my __________ during class. It is almost full now.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "chalk"
+     },
+     {
+      "letter": "B",
+      "text": "map"
      },
      {
       "letter": "C",
@@ -1336,14 +1336,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "teacher"
+      "text": "glue"
      }
     ],
     "answer": "C",
     "vi": 13
    },
    {
-    "question": "Q: Can I borrow a piece of __________? — A: Sure. Here you are.【紙】",
+    "question": "Please give me a piece of __________. I want to draw a picture of my dog.",
     "options": [
      {
       "letter": "A",
@@ -1355,229 +1355,206 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "story"
+      "text": "ruler"
      },
      {
       "letter": "D",
-      "text": "chalk"
+      "text": "marker"
      }
     ],
     "answer": "B",
     "vi": 14
    },
    {
-    "question": "Q: Can I borrow this __________? — A: Yes, you can. Please bring it back on Friday.【書】",
+    "question": "I am reading a __________ about animals. It has two hundred pages and many pictures.",
     "options": [
      {
       "letter": "A",
-      "text": "book"
+      "text": "map"
      },
      {
       "letter": "B",
-      "text": "course"
+      "text": "chalk"
      },
      {
       "letter": "C",
-      "text": "test"
+      "text": "ruler"
      },
      {
       "letter": "D",
-      "text": "elementary school"
+      "text": "book"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 15
    },
    {
-    "question": "Q: Can I borrow some __________, Mr. Lee? — A: Sure. Write the answer on the blackboard.【粉筆】",
+    "question": "The teacher writes on the blackboard with a piece of white __________.",
     "options": [
      {
       "letter": "A",
-      "text": "teacher"
-     },
-     {
-      "letter": "B",
-      "text": "blackboard"
-     },
-     {
-      "letter": "C",
       "text": "chalk"
      },
      {
-      "letter": "D",
-      "text": "PE"
-     }
-    ],
-    "answer": "C",
-    "vi": 16
-   },
-   {
-    "question": "Q: Open your __________ to page ten. — A: OK, Ms. Lin.【作業本】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "classmate"
-     },
-     {
       "letter": "B",
-      "text": "Chinese"
+      "text": "paper"
      },
      {
       "letter": "C",
-      "text": "chalk"
-     },
-     {
-      "letter": "D",
-      "text": "workbook"
-     }
-    ],
-    "answer": "D",
-    "vi": 17
-   },
-   {
-    "question": "Q: Turn to __________ 25, please. — A: Page 25? OK.【頁】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "page"
-     },
-     {
-      "letter": "B",
-      "text": "friend"
-     },
-     {
-      "letter": "C",
-      "text": "picture"
-     },
-     {
-      "letter": "D",
-      "text": "pencil"
-     }
-    ],
-    "answer": "A",
-    "vi": 18
-   },
-   {
-    "question": "Q: Look at the __________, everyone. — A: Yes, Mr. Lee.【黑板】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "book"
-     },
-     {
-      "letter": "B",
-      "text": "blackboard"
-     },
-     {
-      "letter": "C",
-      "text": "story"
-     },
-     {
-      "letter": "D",
-      "text": "page"
-     }
-    ],
-    "answer": "B",
-    "vi": 19
-   },
-   {
-    "question": "Q: Look at the __________ and tell me about it. — A: There are three cats in it.【圖片；照片】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "history"
-     },
-     {
-      "letter": "B",
       "text": "glue"
      },
      {
-      "letter": "C",
-      "text": "knowledge"
-     },
-     {
       "letter": "D",
-      "text": "picture"
-     }
-    ],
-    "answer": "D",
-    "vi": 20
-   },
-   {
-    "question": "Q: __________ carefully, everyone. — A: Yes, Ms. Chen.【聽】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Write"
-     },
-     {
-      "letter": "B",
-      "text": "Listen"
-     },
-     {
-      "letter": "C",
-      "text": "Prepare"
-     },
-     {
-      "letter": "D",
-      "text": "Ask"
-     }
-    ],
-    "answer": "B",
-    "vi": 21
-   },
-   {
-    "question": "Q: __________ after me: \"apple.\" — A: \"Apple.\"【重複；跟著唸】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Repeat"
-     },
-     {
-      "letter": "B",
-      "text": "Listen"
-     },
-     {
-      "letter": "C",
-      "text": "Answer"
-     },
-     {
-      "letter": "D",
-      "text": "Prepare"
+      "text": "ruler"
      }
     ],
     "answer": "A",
-    "vi": 22
+    "vi": 16
    },
    {
-    "question": "Q: __________ \"Good morning\" to your teacher. — A: Good morning, Ms. Wang!【說；講】",
+    "question": "Please open your __________ to page ten and do exercises one to five for homework.",
     "options": [
      {
       "letter": "A",
-      "text": "Write"
+      "text": "map"
      },
      {
       "letter": "B",
-      "text": "Listen"
+      "text": "envelope"
      },
      {
       "letter": "C",
-      "text": "Say"
+      "text": "workbook"
      },
      {
       "letter": "D",
-      "text": "Prepare"
+      "text": "postcard"
      }
     ],
     "answer": "C",
-    "vi": 23
+    "vi": 17
    },
    {
-    "question": "Q: Please __________ the story out loud, Tom. — A: OK, Ms. Lin.【讀；唸】",
+    "question": "Please open your book to __________ thirty. We will read the story there today.",
     "options": [
      {
       "letter": "A",
+      "text": "map"
+     },
+     {
+      "letter": "B",
+      "text": "page"
+     },
+     {
+      "letter": "C",
+      "text": "paper"
+     },
+     {
+      "letter": "D",
+      "text": "chalk"
+     }
+    ],
+    "answer": "B",
+    "vi": 18
+   },
+   {
+    "question": "The teacher wrote the new words on the __________ with chalk. We copied them into our notebooks.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dictionary"
+     },
+     {
+      "letter": "B",
+      "text": "map"
+     },
+     {
+      "letter": "C",
+      "text": "envelope"
+     },
+     {
+      "letter": "D",
+      "text": "blackboard"
+     }
+    ],
+    "answer": "D",
+    "vi": 19
+   },
+   {
+    "question": "Ben drew a __________ of his family. His father is the tallest one in it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "page"
+     },
+     {
+      "letter": "B",
+      "text": "picture"
+     },
+     {
+      "letter": "C",
+      "text": "map"
+     },
+     {
+      "letter": "D",
+      "text": "letter"
+     }
+    ],
+    "answer": "B",
+    "vi": 20
+   },
+   {
+    "question": "Please __________ to the teacher carefully. She is telling us about the test.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "listen"
+     },
+     {
+      "letter": "B",
+      "text": "spell"
+     },
+     {
+      "letter": "C",
       "text": "read"
+     },
+     {
+      "letter": "D",
+      "text": "draw"
+     }
+    ],
+    "answer": "A",
+    "vi": 21
+   },
+   {
+    "question": "I can't hear you. Could you __________ the question, please? Say it one more time.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "spell"
+     },
+     {
+      "letter": "B",
+      "text": "draw"
+     },
+     {
+      "letter": "C",
+      "text": "repeat"
+     },
+     {
+      "letter": "D",
+      "text": "read"
+     }
+    ],
+    "answer": "C",
+    "vi": 22
+   },
+   {
+    "question": "How do you __________ \"thank you\" in Japanese? I want to thank my Japanese friend.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "talk"
      },
      {
       "letter": "B",
@@ -1585,91 +1562,137 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "say"
+      "text": "draw"
      },
      {
       "letter": "D",
-      "text": "prepare"
+      "text": "say"
+     }
+    ],
+    "answer": "D",
+    "vi": 23
+   },
+   {
+    "question": "I __________ a book for thirty minutes before bed every night. I love stories about animals.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "read"
+     },
+     {
+      "letter": "B",
+      "text": "say"
+     },
+     {
+      "letter": "C",
+      "text": "talk"
+     },
+     {
+      "letter": "D",
+      "text": "spell"
      }
     ],
     "answer": "A",
     "vi": 24
    },
    {
-    "question": "Q: __________ your name on the paper, please. — A: OK. Can I use a pencil?【寫】",
+    "question": "Please __________ your name at the top of the test paper with a pen.",
     "options": [
      {
       "letter": "A",
-      "text": "Read"
+      "text": "read"
      },
      {
       "letter": "B",
-      "text": "Fail"
+      "text": "say"
      },
      {
       "letter": "C",
-      "text": "Write"
+      "text": "write"
      },
      {
       "letter": "D",
-      "text": "Explain"
+      "text": "talk"
      }
     ],
     "answer": "C",
     "vi": 25
    },
    {
-    "question": "Q: __________ the word \"book,\" please. — A: B-O-O-K.【拼字】",
+    "question": "How do you __________ your name? Is it A-M-Y or A-I-M-E-E?",
     "options": [
      {
       "letter": "A",
-      "text": "Write"
+      "text": "read"
      },
      {
       "letter": "B",
-      "text": "Spell"
+      "text": "spell"
      },
      {
       "letter": "C",
-      "text": "Fail"
+      "text": "draw"
      },
      {
       "letter": "D",
-      "text": "Repeat"
+      "text": "answer"
      }
     ],
     "answer": "B",
     "vi": 26
    },
    {
-    "question": "Q: __________ a cat in your notebook. — A: OK. Can I color it, too?【畫】",
+    "question": "Ben likes to __________ pictures of cars with a pencil. He wants to be an artist.",
     "options": [
      {
       "letter": "A",
-      "text": "Say"
+      "text": "read"
      },
      {
       "letter": "B",
-      "text": "Explain"
+      "text": "spell"
      },
      {
       "letter": "C",
-      "text": "Speak"
+      "text": "say"
      },
      {
       "letter": "D",
-      "text": "Draw"
+      "text": "draw"
      }
     ],
     "answer": "D",
     "vi": 27
    },
    {
-    "question": "Q: Please __________ my question, Ben. — A: Sorry, I don't know.【回答】",
+    "question": "The teacher asked a question, but nobody could __________ it. It was too hard.",
     "options": [
      {
       "letter": "A",
+      "text": "ask"
+     },
+     {
+      "letter": "B",
       "text": "answer"
+     },
+     {
+      "letter": "C",
+      "text": "talk"
+     },
+     {
+      "letter": "D",
+      "text": "listen"
+     }
+    ],
+    "answer": "B",
+    "vi": 28
+   },
+   {
+    "question": "Please don't __________ in the library. People are reading and need a quiet place.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "listen"
      },
      {
       "letter": "B",
@@ -1677,122 +1700,99 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "explain"
+      "text": "talk"
      },
      {
       "letter": "D",
-      "text": "talk"
-     }
-    ],
-    "answer": "A",
-    "vi": 28
-   },
-   {
-    "question": "Q: Don't __________ in class, Amy. — A: Sorry, Mr. Wang.【說話】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "speak"
-     },
-     {
-      "letter": "B",
-      "text": "talk"
-     },
-     {
-      "letter": "C",
       "text": "spell"
-     },
-     {
-      "letter": "D",
-      "text": "explain"
-     }
-    ],
-    "answer": "B",
-    "vi": 29
-   },
-   {
-    "question": "Q: What do you have in your pencil case? — A: I have two __________. One is red and one is blue.【筆】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "grades"
-     },
-     {
-      "letter": "B",
-      "text": "glasses"
-     },
-     {
-      "letter": "C",
-      "text": "students"
-     },
-     {
-      "letter": "D",
-      "text": "pens"
-     }
-    ],
-    "answer": "D",
-    "vi": 30
-   },
-   {
-    "question": "Q: What does Amy have in her pencil case? — A: She has a long __________.【鉛筆】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "test"
-     },
-     {
-      "letter": "B",
-      "text": "PE"
-     },
-     {
-      "letter": "C",
-      "text": "pencil"
-     },
-     {
-      "letter": "D",
-      "text": "math"
      }
     ],
     "answer": "C",
-    "vi": 31
+    "vi": 29
    },
    {
-    "question": "Q: What does Tom have in his pencil case? — A: He has a small __________. It looks like a car.【橡皮擦】",
+    "question": "I have two __________ in my pencil case. One has blue ink, and the other has red ink.",
     "options": [
      {
       "letter": "A",
-      "text": "letter"
+      "text": "pens"
      },
      {
       "letter": "B",
-      "text": "eraser"
+      "text": "rulers"
      },
      {
       "letter": "C",
-      "text": "dictionary"
+      "text": "erasers"
      },
      {
       "letter": "D",
-      "text": "chalk"
+      "text": "maps"
      }
     ],
-    "answer": "B",
-    "vi": 32
+    "answer": "A",
+    "vi": 30
    },
    {
-    "question": "Q: What do Ben and Lisa have in their pencil cases? — A: They have __________. They can draw straight lines.【尺】",
+    "question": "Please write your answers with a __________, not a pen. Then you can erase your mistakes.",
     "options": [
      {
       "letter": "A",
-      "text": "class"
+      "text": "ruler"
      },
      {
       "letter": "B",
-      "text": "languages"
+      "text": "marker"
      },
      {
       "letter": "C",
-      "text": "exercises"
+      "text": "map"
+     },
+     {
+      "letter": "D",
+      "text": "pencil"
+     }
+    ],
+    "answer": "D",
+    "vi": 31
+   },
+   {
+    "question": "I wrote the wrong answer. May I borrow your __________ to rub it out?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ruler"
+     },
+     {
+      "letter": "B",
+      "text": "glue"
+     },
+     {
+      "letter": "C",
+      "text": "eraser"
+     },
+     {
+      "letter": "D",
+      "text": "marker"
+     }
+    ],
+    "answer": "C",
+    "vi": 32
+   },
+   {
+    "question": "We use __________ to draw straight lines. Mine is thirty centimeters long.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "erasers"
+     },
+     {
+      "letter": "B",
+      "text": "maps"
+     },
+     {
+      "letter": "C",
+      "text": "pages"
      },
      {
       "letter": "D",
@@ -1803,7 +1803,7 @@ window.FLASHCARD_UNITS = {
     "vi": 33
    },
    {
-    "question": "Q: Do you have any __________ in your pencil case? — A: Yes, I do. Here you are.【膠水】",
+    "question": "I need some __________ to stick this picture onto my notebook.",
     "options": [
      {
       "letter": "A",
@@ -1811,168 +1811,168 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "course"
+      "text": "chalk"
      },
      {
       "letter": "C",
-      "text": "English"
+      "text": "paper"
      },
      {
       "letter": "D",
-      "text": "example"
+      "text": "homework"
      }
     ],
     "answer": "A",
     "vi": 34
    },
    {
-    "question": "Q: Does Lisa have a __________ in her pencil case? — A: No, she doesn't. Ask Ben.【麥克筆；簽字筆】",
+    "question": "The teacher wrote on the whiteboard with a black __________. Its thick lines are easy to see.",
     "options": [
      {
       "letter": "A",
-      "text": "course"
+      "text": "ruler"
      },
      {
       "letter": "B",
-      "text": "junior high school"
-     },
-     {
-      "letter": "C",
       "text": "marker"
      },
      {
-      "letter": "D",
-      "text": "Chinese"
-     }
-    ],
-    "answer": "C",
-    "vi": 35
-   },
-   {
-    "question": "Q: What school does your little sister go to? — A: She goes to Da-an __________.【小學】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "classroom"
-     },
-     {
-      "letter": "B",
-      "text": "elementary school"
-     },
-     {
       "letter": "C",
-      "text": "test"
-     },
-     {
-      "letter": "D",
-      "text": "teacher"
-     }
-    ],
-    "answer": "B",
-    "vi": 36
-   },
-   {
-    "question": "Q: What school do you go to? — A: I go to Ren-ai __________.【國中】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "junior high school"
-     },
-     {
-      "letter": "B",
-      "text": "gym"
-     },
-     {
-      "letter": "C",
-      "text": "chalk"
-     },
-     {
-      "letter": "D",
-      "text": "dictionary"
-     }
-    ],
-    "answer": "A",
-    "vi": 37
-   },
-   {
-    "question": "Q: Where does your brother study? — A: He studies at a __________ in Taipei.【高中】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "knowledge"
-     },
-     {
-      "letter": "B",
-      "text": "history"
-     },
-     {
-      "letter": "C",
-      "text": "senior high school"
-     },
-     {
-      "letter": "D",
-      "text": "picture"
-     }
-    ],
-    "answer": "C",
-    "vi": 38
-   },
-   {
-    "question": "Q: Where do you and your sister go in the morning? — A: We go to __________.【學校】",
-    "options": [
-     {
-      "letter": "A",
       "text": "eraser"
      },
      {
-      "letter": "B",
-      "text": "dictionary"
-     },
-     {
-      "letter": "C",
-      "text": "workbook"
-     },
-     {
       "letter": "D",
-      "text": "school"
-     }
-    ],
-    "answer": "D",
-    "vi": 39
-   },
-   {
-    "question": "Q: Where are the students? — A: They're in the __________. They're having English class.【教室】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "envelope"
-     },
-     {
-      "letter": "B",
-      "text": "classroom"
-     },
-     {
-      "letter": "C",
-      "text": "classmate"
-     },
-     {
-      "letter": "D",
-      "text": "problem"
+      "text": "glue"
      }
     ],
     "answer": "B",
-    "vi": 40
+    "vi": 35
    },
    {
-    "question": "Q: Where do you play basketball on rainy days? — A: We play in the __________.【體育館】",
+    "question": "My little brother is seven years old. He is a first grader in __________.",
     "options": [
      {
       "letter": "A",
-      "text": "music"
+      "text": "elementary school"
      },
      {
       "letter": "B",
-      "text": "course"
+      "text": "junior high school"
+     },
+     {
+      "letter": "C",
+      "text": "senior high school"
+     },
+     {
+      "letter": "D",
+      "text": "the library"
+     }
+    ],
+    "answer": "A",
+    "vi": 36
+   },
+   {
+    "question": "I am thirteen years old. I finished elementary school last year, and now I am in __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "senior high school"
+     },
+     {
+      "letter": "B",
+      "text": "the playground"
+     },
+     {
+      "letter": "C",
+      "text": "junior high school"
+     },
+     {
+      "letter": "D",
+      "text": "the gym"
+     }
+    ],
+    "answer": "C",
+    "vi": 37
+   },
+   {
+    "question": "My sister is seventeen. After three years of junior high, she now goes to __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "elementary school"
+     },
+     {
+      "letter": "B",
+      "text": "the playground"
+     },
+     {
+      "letter": "C",
+      "text": "the gym"
+     },
+     {
+      "letter": "D",
+      "text": "senior high school"
+     }
+    ],
+    "answer": "D",
+    "vi": 38
+   },
+   {
+    "question": "Children go to __________ to learn. Classes start at eight in the morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "playground"
+     },
+     {
+      "letter": "B",
+      "text": "school"
+     },
+     {
+      "letter": "C",
+      "text": "classroom"
+     },
+     {
+      "letter": "D",
+      "text": "seesaw"
+     }
+    ],
+    "answer": "B",
+    "vi": 39
+   },
+   {
+    "question": "There are thirty desks and chairs in our __________. The blackboard is on the front wall.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "classroom"
+     },
+     {
+      "letter": "B",
+      "text": "playground"
+     },
+     {
+      "letter": "C",
+      "text": "seesaw"
+     },
+     {
+      "letter": "D",
+      "text": "slide"
+     }
+    ],
+    "answer": "A",
+    "vi": 40
+   },
+   {
+    "question": "We play basketball in the __________ when it rains. It is a big building next to the playground.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "library"
+     },
+     {
+      "letter": "B",
+      "text": "seesaw"
      },
      {
       "letter": "C",
@@ -1980,26 +1980,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "senior high school"
+      "text": "slide"
      }
     ],
     "answer": "C",
     "vi": 41
    },
    {
-    "question": "Q: Where does Ben run after school? — A: He runs on the __________.【操場】",
+    "question": "Students run and play ball on the __________ after class. It is the big open place outside.",
     "options": [
      {
       "letter": "A",
-      "text": "quiz"
+      "text": "library"
      },
      {
       "letter": "B",
-      "text": "picture"
+      "text": "classroom"
      },
      {
       "letter": "C",
-      "text": "classroom"
+      "text": "slide"
      },
      {
       "letter": "D",
@@ -2010,42 +2010,42 @@ window.FLASHCARD_UNITS = {
     "vi": 42
    },
    {
-    "question": "Q: Where does Amy read books? — A: She reads books in the __________. It's quiet there.【圖書館】",
+    "question": "I borrowed three books from the school __________. I have to return them in two weeks.",
     "options": [
      {
       "letter": "A",
-      "text": "library"
+      "text": "gym"
      },
      {
       "letter": "B",
-      "text": "homework"
+      "text": "library"
      },
      {
       "letter": "C",
-      "text": "example"
+      "text": "playground"
      },
      {
       "letter": "D",
-      "text": "art"
+      "text": "classroom"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 43
    },
    {
-    "question": "Q: What do the two kids play on the playground? — A: They play on the __________.【蹺蹺板】",
+    "question": "Two children sit on the ends of the __________. When one goes up, the other goes down.",
     "options": [
      {
       "letter": "A",
-      "text": "library"
+      "text": "slide"
      },
      {
       "letter": "B",
-      "text": "letter"
+      "text": "gym"
      },
      {
       "letter": "C",
-      "text": "music"
+      "text": "library"
      },
      {
       "letter": "D",
@@ -2056,34 +2056,80 @@ window.FLASHCARD_UNITS = {
     "vi": 44
    },
    {
-    "question": "Q: Where is your little brother? — A: He's on the __________. He's going down fast!【溜滑梯】",
+    "question": "The little boy climbed up the steps and came down the __________ very fast. He did it again and again.",
     "options": [
      {
       "letter": "A",
-      "text": "dictionary"
+      "text": "slide"
      },
      {
       "letter": "B",
-      "text": "postcard"
+      "text": "seesaw"
      },
      {
       "letter": "C",
-      "text": "slide"
+      "text": "gym"
      },
      {
       "letter": "D",
-      "text": "test"
+      "text": "library"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 45
    },
    {
-    "question": "Q: What does Mr. Lee do? — A: He is an English __________. He works at our school.【老師】",
+    "question": "Ms. Lin is our English __________. She gives us a quiz every week.",
     "options": [
      {
       "letter": "A",
-      "text": "slide"
+      "text": "student"
+     },
+     {
+      "letter": "B",
+      "text": "classmate"
+     },
+     {
+      "letter": "C",
+      "text": "teacher"
+     },
+     {
+      "letter": "D",
+      "text": "class"
+     }
+    ],
+    "answer": "C",
+    "vi": 46
+   },
+   {
+    "question": "There are thirty __________ in my class: fifteen boys and fifteen girls.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "classes"
+     },
+     {
+      "letter": "B",
+      "text": "students"
+     },
+     {
+      "letter": "C",
+      "text": "tests"
+     },
+     {
+      "letter": "D",
+      "text": "grades"
+     }
+    ],
+    "answer": "B",
+    "vi": 47
+   },
+   {
+    "question": "Tom is my __________. We are both in Class 7B, and he sits next to me.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "classmate"
      },
      {
       "letter": "B",
@@ -2091,91 +2137,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "problem"
+      "text": "class"
      },
      {
       "letter": "D",
-      "text": "book"
-     }
-    ],
-    "answer": "B",
-    "vi": 46
-   },
-   {
-    "question": "Q: What do Amy and Ben do? — A: They are __________. They go to Ren-ai Junior High School.【學生】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "students"
-     },
-     {
-      "letter": "B",
-      "text": "questions"
-     },
-     {
-      "letter": "C",
-      "text": "grades"
-     },
-     {
-      "letter": "D",
-      "text": "lessons"
+      "text": "test"
      }
     ],
     "answer": "A",
-    "vi": 47
-   },
-   {
-    "question": "Q: Who is that boy? — A: He's my __________. We sit next to each other.【同學】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "history"
-     },
-     {
-      "letter": "B",
-      "text": "eraser"
-     },
-     {
-      "letter": "C",
-      "text": "classroom"
-     },
-     {
-      "letter": "D",
-      "text": "classmate"
-     }
-    ],
-    "answer": "D",
     "vi": 48
    },
    {
-    "question": "Q: Who do you play with after school? — A: I play with my best __________, Tina.【朋友】",
+    "question": "Amy is my best __________. We tell each other everything, and we play together every day.",
     "options": [
      {
       "letter": "A",
-      "text": "story"
+      "text": "class"
      },
      {
       "letter": "B",
-      "text": "slide"
+      "text": "test"
      },
      {
       "letter": "C",
-      "text": "friend"
+      "text": "grade"
      },
      {
       "letter": "D",
-      "text": "marker"
+      "text": "friend"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 49
    },
    {
-    "question": "Q: Is Amy in your class? — A: Yes. We are in the same __________.【班級】",
+    "question": "There are thirty students in my __________. Our teacher is Mr. Wang.",
     "options": [
      {
       "letter": "A",
-      "text": "exercises"
+      "text": "friend"
      },
      {
       "letter": "B",
@@ -2183,53 +2183,53 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "grades"
+      "text": "test"
      },
      {
       "letter": "D",
-      "text": "questions"
+      "text": "homework"
      }
     ],
     "answer": "B",
     "vi": 50
    },
    {
-    "question": "Q: What does Ms. Wang do? — A: She __________ math.【教】",
+    "question": "Mr. Lin __________ math at a junior high school. His students like him very much.",
     "options": [
      {
       "letter": "A",
+      "text": "learns"
+     },
+     {
+      "letter": "B",
+      "text": "asks"
+     },
+     {
+      "letter": "C",
       "text": "teaches"
      },
      {
-      "letter": "B",
-      "text": "pass"
-     },
-     {
-      "letter": "C",
-      "text": "practices"
-     },
-     {
       "letter": "D",
-      "text": "marks"
+      "text": "passes"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 51
    },
    {
-    "question": "Q: What do you learn in English class? — A: We __________ new words and songs.【學習】",
+    "question": "I want to __________ how to swim this summer. I can't swim at all now.",
     "options": [
      {
       "letter": "A",
-      "text": "explain"
+      "text": "teach"
      },
      {
       "letter": "B",
-      "text": "speak"
+      "text": "fail"
      },
      {
       "letter": "C",
-      "text": "listen"
+      "text": "mark"
      },
      {
       "letter": "D",
@@ -2240,53 +2240,30 @@ window.FLASHCARD_UNITS = {
     "vi": 52
    },
    {
-    "question": "Q: When does Ben study? — A: He __________ after dinner every day.【讀書；學習】",
+    "question": "Lisa __________ for two hours every night. That is why she always gets good grades.",
     "options": [
      {
       "letter": "A",
-      "text": "pass"
+      "text": "fails"
      },
      {
       "letter": "B",
-      "text": "studies"
-     },
-     {
-      "letter": "C",
       "text": "marks"
      },
      {
-      "letter": "D",
-      "text": "practices"
-     }
-    ],
-    "answer": "B",
-    "vi": 53
-   },
-   {
-    "question": "Q: Does your teacher __________ new words in English? — A: Yes, she does. She speaks slowly.【解釋】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "read"
-     },
-     {
-      "letter": "B",
-      "text": "write"
-     },
-     {
       "letter": "C",
-      "text": "explain"
+      "text": "studies"
      },
      {
       "letter": "D",
-      "text": "prepare"
+      "text": "asks"
      }
     ],
     "answer": "C",
-    "vi": 54
+    "vi": 53
    },
    {
-    "question": "Q: What do you do when you don't know the answer? — A: I __________ my teacher.【問】",
+    "question": "I don't understand this math problem. Can you __________ it to me again?",
     "options": [
      {
       "letter": "A",
@@ -2294,26 +2271,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "say"
+      "text": "explain"
      },
      {
       "letter": "C",
-      "text": "fail"
+      "text": "learn"
      },
      {
       "letter": "D",
-      "text": "write"
+      "text": "pass"
+     }
+    ],
+    "answer": "B",
+    "vi": 54
+   },
+   {
+    "question": "If you don't understand, raise your hand and __________ the teacher a question.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ask"
+     },
+     {
+      "letter": "B",
+      "text": "explain"
+     },
+     {
+      "letter": "C",
+      "text": "pass"
+     },
+     {
+      "letter": "D",
+      "text": "fail"
      }
     ],
     "answer": "A",
     "vi": 55
    },
    {
-    "question": "Q: Do you __________ this sentence? — A: No, I don't. Can you help me?【了解；懂】",
+    "question": "The teacher speaks too fast, so I can't __________ her. Can she say it slowly?",
     "options": [
      {
       "letter": "A",
-      "text": "draw"
+      "text": "teach"
      },
      {
       "letter": "B",
@@ -2321,64 +2321,64 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "explain"
+      "text": "mark"
      },
      {
       "letter": "D",
-      "text": "write"
+      "text": "pass"
      }
     ],
     "answer": "B",
     "vi": 56
    },
    {
-    "question": "Q: What does Lisa do after school? — A: She __________ the piano for an hour.【練習】",
+    "question": "Amy __________ the piano for an hour every day. She wants to play better.",
     "options": [
      {
       "letter": "A",
-      "text": "pass"
+      "text": "fails"
      },
      {
       "letter": "B",
-      "text": "studies"
+      "text": "passes"
      },
      {
       "letter": "C",
+      "text": "asks"
+     },
+     {
+      "letter": "D",
       "text": "practices"
-     },
-     {
-      "letter": "D",
-      "text": "marks"
-     }
-    ],
-    "answer": "C",
-    "vi": 57
-   },
-   {
-    "question": "Q: Do your parents __________ English at home? — A: No, they don't.【說（語言）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "draw"
-     },
-     {
-      "letter": "B",
-      "text": "explain"
-     },
-     {
-      "letter": "C",
-      "text": "say"
-     },
-     {
-      "letter": "D",
-      "text": "speak"
      }
     ],
     "answer": "D",
+    "vi": 57
+   },
+   {
+    "question": "Can you __________ Japanese? I need someone to help me talk to this visitor from Tokyo.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "mark"
+     },
+     {
+      "letter": "B",
+      "text": "pass"
+     },
+     {
+      "letter": "C",
+      "text": "speak"
+     },
+     {
+      "letter": "D",
+      "text": "ask"
+     }
+    ],
+    "answer": "C",
     "vi": 58
    },
    {
-    "question": "Q: What does the teacher do after the test? — A: She __________ our tests.【打分數；做記號】",
+    "question": "After the test, the teacher __________ our papers with a red pen. She gives each one a score.",
     "options": [
      {
       "letter": "A",
@@ -2386,72 +2386,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "practices"
+      "text": "passes"
      },
      {
       "letter": "C",
-      "text": "studies"
+      "text": "fails"
      },
      {
       "letter": "D",
-      "text": "pass"
+      "text": "learns"
      }
     ],
     "answer": "A",
     "vi": 59
    },
    {
-    "question": "Q: Does Tom always __________ his math tests? — A: Yes, he does. He studies hard.【通過；及格】",
+    "question": "If you study hard, you will __________ the test. You need sixty points or more.",
     "options": [
      {
       "letter": "A",
-      "text": "studies"
-     },
-     {
-      "letter": "B",
-      "text": "practices"
-     },
-     {
-      "letter": "C",
-      "text": "marks"
-     },
-     {
-      "letter": "D",
-      "text": "pass"
-     }
-    ],
-    "answer": "D",
-    "vi": 60
-   },
-   {
-    "question": "Q: Why does Amy study so hard? — A: She doesn't want to __________ the English test.【不及格；失敗】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "read"
-     },
-     {
-      "letter": "B",
       "text": "fail"
      },
      {
+      "letter": "B",
+      "text": "pass"
+     },
+     {
       "letter": "C",
-      "text": "say"
+      "text": "teach"
      },
      {
       "letter": "D",
-      "text": "prepare"
+      "text": "ask"
      }
     ],
     "answer": "B",
-    "vi": 61
+    "vi": 60
    },
    {
-    "question": "Q: What do you do before a test? — A: I __________ for it. I read my notes again.【準備】",
+    "question": "If you don't study at all, you will __________ the test. You will get fewer than sixty points.",
     "options": [
      {
       "letter": "A",
-      "text": "listen"
+      "text": "pass"
+     },
+     {
+      "letter": "B",
+      "text": "teach"
+     },
+     {
+      "letter": "C",
+      "text": "explain"
+     },
+     {
+      "letter": "D",
+      "text": "fail"
+     }
+    ],
+    "answer": "D",
+    "vi": 61
+   },
+   {
+    "question": "We have a big test tomorrow. I need to __________ for it tonight.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "prepare"
      },
      {
       "letter": "B",
@@ -2459,64 +2459,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "prepare"
+      "text": "teach"
      },
      {
       "letter": "D",
-      "text": "draw"
-     }
-    ],
-    "answer": "C",
-    "vi": 62
-   },
-   {
-    "question": "Q: Do you have any __________ today? — A: Yes, I do. I have a lot.【功課；作業】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "homework"
-     },
-     {
-      "letter": "B",
-      "text": "Chinese"
-     },
-     {
-      "letter": "C",
-      "text": "school"
-     },
-     {
-      "letter": "D",
-      "text": "junior high school"
+      "text": "fail"
      }
     ],
     "answer": "A",
-    "vi": 63
+    "vi": 62
    },
    {
-    "question": "Q: Does Ben have a math __________ tomorrow? — A: Yes, he does. He is studying now.【考試】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "example"
-     },
-     {
-      "letter": "B",
-      "text": "PE"
-     },
-     {
-      "letter": "C",
-      "text": "test"
-     },
-     {
-      "letter": "D",
-      "text": "math"
-     }
-    ],
-    "answer": "C",
-    "vi": 64
-   },
-   {
-    "question": "Q: Do we have an English __________ today? — A: No, we don't. It's on Friday.【小考】",
+    "question": "The teacher gave us a lot of __________ today. I have to finish it at home tonight.",
     "options": [
      {
       "letter": "A",
@@ -2524,76 +2478,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "friend"
+      "text": "grade"
      },
      {
       "letter": "C",
-      "text": "school"
+      "text": "homework"
      },
      {
       "letter": "D",
-      "text": "junior high school"
+      "text": "example"
      }
     ],
-    "answer": "A",
-    "vi": 65
+    "answer": "C",
+    "vi": 63
    },
    {
-    "question": "Q: Does Lisa get good __________? — A: Yes, she does. She is a smart girl.【成績；年級】",
+    "question": "We have a math __________ tomorrow. I need to study the first three lessons tonight.",
     "options": [
      {
       "letter": "A",
-      "text": "lessons"
+      "text": "grade"
      },
      {
       "letter": "B",
-      "text": "pens"
-     },
-     {
-      "letter": "C",
-      "text": "students"
-     },
-     {
-      "letter": "D",
-      "text": "grades"
-     }
-    ],
-    "answer": "D",
-    "vi": 66
-   },
-   {
-    "question": "Q: Do you have any __________? — A: Yes. How do you say \"cat\" in Chinese?【問題；疑問】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "class"
-     },
-     {
-      "letter": "B",
-      "text": "questions"
-     },
-     {
-      "letter": "C",
-      "text": "rulers"
-     },
-     {
-      "letter": "D",
-      "text": "exercises"
-     }
-    ],
-    "answer": "B",
-    "vi": 67
-   },
-   {
-    "question": "Q: Does Tom have a __________ with his homework? — A: Yes, he does. Let's help him.【（須解決的）問題】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "problem"
-     },
-     {
-      "letter": "B",
-      "text": "playground"
+      "text": "example"
      },
      {
       "letter": "C",
@@ -2601,26 +2509,118 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
+      "text": "test"
+     }
+    ],
+    "answer": "D",
+    "vi": 64
+   },
+   {
+    "question": "We have a short English __________ every Friday. It has only ten questions and takes five minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "grade"
+     },
+     {
+      "letter": "B",
       "text": "quiz"
+     },
+     {
+      "letter": "C",
+      "text": "story"
+     },
+     {
+      "letter": "D",
+      "text": "problem"
+     }
+    ],
+    "answer": "B",
+    "vi": 65
+   },
+   {
+    "question": "Lisa studies hard, so she always gets good __________. Her parents are proud of her.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "grades"
+     },
+     {
+      "letter": "B",
+      "text": "questions"
+     },
+     {
+      "letter": "C",
+      "text": "problems"
+     },
+     {
+      "letter": "D",
+      "text": "examples"
+     }
+    ],
+    "answer": "A",
+    "vi": 66
+   },
+   {
+    "question": "The test has fifty __________. You have one hour to answer all of them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "grades"
+     },
+     {
+      "letter": "B",
+      "text": "stories"
+     },
+     {
+      "letter": "C",
+      "text": "questions"
+     },
+     {
+      "letter": "D",
+      "text": "classes"
+     }
+    ],
+    "answer": "C",
+    "vi": 67
+   },
+   {
+    "question": "I have a __________. I lost my wallet, and I can't get home. Can you help me?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "problem"
+     },
+     {
+      "letter": "B",
+      "text": "grade"
+     },
+     {
+      "letter": "C",
+      "text": "quiz"
+     },
+     {
+      "letter": "D",
+      "text": "story"
      }
     ],
     "answer": "A",
     "vi": 68
    },
    {
-    "question": "Q: Does the teacher have an __________ for this word? — A: Yes, she does. She writes it on the blackboard.【例子】",
+    "question": "I don't understand this word. Can you give me an __________ of how to use it in a sentence?",
     "options": [
      {
       "letter": "A",
-      "text": "school"
+      "text": "eraser"
      },
      {
       "letter": "B",
-      "text": "PE"
+      "text": "envelope"
      },
      {
       "letter": "C",
-      "text": "history"
+      "text": "art"
      },
      {
       "letter": "D",
@@ -2631,11 +2631,11 @@ window.FLASHCARD_UNITS = {
     "vi": 69
    },
    {
-    "question": "Q: Do we have any __________ in the workbook today? — A: Yes, we do. Please do them on page 12.【練習；習題】",
+    "question": "Please do the __________ on page 20 for homework. There are ten questions for you to practice.",
     "options": [
      {
       "letter": "A",
-      "text": "grades"
+      "text": "stories"
      },
      {
       "letter": "B",
@@ -2643,91 +2643,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "class"
+      "text": "grades"
      },
      {
       "letter": "D",
-      "text": "glasses"
+      "text": "letters"
      }
     ],
     "answer": "B",
     "vi": 70
    },
    {
-    "question": "Q: Does your grandpa have a lot of __________? — A: Yes, he does. He reads many books.【知識】",
+    "question": "Reading books gives you __________. The more you read, the more you know about the world.",
     "options": [
      {
       "letter": "A",
-      "text": "gym"
-     },
-     {
-      "letter": "B",
-      "text": "senior high school"
-     },
-     {
-      "letter": "C",
-      "text": "knowledge"
-     },
-     {
-      "letter": "D",
-      "text": "page"
-     }
-    ],
-    "answer": "C",
-    "vi": 71
-   },
-   {
-    "question": "Q: Does Grandma have a good __________ for us? — A: Yes, she does. It's about a little bear.【故事】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "seesaw"
-     },
-     {
-      "letter": "B",
-      "text": "story"
-     },
-     {
-      "letter": "C",
-      "text": "school"
-     },
-     {
-      "letter": "D",
-      "text": "math"
-     }
-    ],
-    "answer": "B",
-    "vi": 72
-   },
-   {
-    "question": "Q: Do you have an __________? — A: Yes, I do. Here you are.【信封】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "elementary school"
-     },
-     {
-      "letter": "B",
-      "text": "library"
-     },
-     {
-      "letter": "C",
-      "text": "science"
-     },
-     {
-      "letter": "D",
-      "text": "envelope"
-     }
-    ],
-    "answer": "D",
-    "vi": 73
-   },
-   {
-    "question": "Q: Does Amy have a __________ for me? — A: Yes, she does. It's from your pen pal.【信】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "letter"
+      "text": "homework"
      },
      {
       "letter": "B",
@@ -2735,72 +2666,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "senior high school"
+      "text": "knowledge"
      },
      {
       "letter": "D",
-      "text": "pencil"
-     }
-    ],
-    "answer": "A",
-    "vi": 74
-   },
-   {
-    "question": "Q: Do you have a __________ from Japan? — A: Yes, I do. My aunt sends it to me.【明信片】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "art"
-     },
-     {
-      "letter": "B",
-      "text": "workbook"
-     },
-     {
-      "letter": "C",
-      "text": "postcard"
-     },
-     {
-      "letter": "D",
-      "text": "classmate"
+      "text": "glue"
      }
     ],
     "answer": "C",
-    "vi": 75
+    "vi": 71
    },
    {
-    "question": "Q: Does your teacher wear __________? — A: Yes, she does. She can't see well without them.【眼鏡】",
+    "question": "Grandma told us a __________ about a princess and a dragon before bed.",
     "options": [
      {
       "letter": "A",
-      "text": "glasses"
+      "text": "quiz"
      },
      {
       "letter": "B",
-      "text": "grades"
+      "text": "story"
      },
      {
       "letter": "C",
-      "text": "languages"
+      "text": "grade"
      },
      {
       "letter": "D",
-      "text": "lessons"
+      "text": "problem"
      }
     ],
-    "answer": "A",
-    "vi": 76
+    "answer": "B",
+    "vi": 72
    },
    {
-    "question": "Q: Do you have a birthday __________ for Ben? — A: Yes, I do. It's a new ball.【禮物】",
+    "question": "I put the letter in an __________ and wrote the address on it.",
     "options": [
      {
       "letter": "A",
-      "text": "playground"
+      "text": "envelope"
      },
      {
       "letter": "B",
-      "text": "blackboard"
+      "text": "example"
+     },
+     {
+      "letter": "C",
+      "text": "eraser"
+     },
+     {
+      "letter": "D",
+      "text": "exercise"
+     }
+    ],
+    "answer": "A",
+    "vi": 73
+   },
+   {
+    "question": "I wrote a long __________ to my friend in Japan. I will mail it at the post office tomorrow.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "quiz"
+     },
+     {
+      "letter": "B",
+      "text": "grade"
      },
      {
       "letter": "C",
@@ -2808,13 +2739,82 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "junior high school"
+      "text": "letter"
+     }
+    ],
+    "answer": "D",
+    "vi": 74
+   },
+   {
+    "question": "I sent a __________ to my parents from Japan. It has a picture of Mt. Fuji on the front.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "story"
+     },
+     {
+      "letter": "B",
+      "text": "quiz"
+     },
+     {
+      "letter": "C",
+      "text": "postcard"
+     },
+     {
+      "letter": "D",
+      "text": "grade"
      }
     ],
     "answer": "C",
+    "vi": 75
+   },
+   {
+    "question": "I can't see the blackboard clearly, so I need to wear __________. The doctor checked my eyes yesterday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "presents"
+     },
+     {
+      "letter": "B",
+      "text": "glasses"
+     },
+     {
+      "letter": "C",
+      "text": "envelopes"
+     },
+     {
+      "letter": "D",
+      "text": "postcards"
+     }
+    ],
+    "answer": "B",
+    "vi": 76
+   },
+   {
+    "question": "Lisa gave me a birthday __________. It was a book in beautiful paper.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "quiz"
+     },
+     {
+      "letter": "B",
+      "text": "grade"
+     },
+     {
+      "letter": "C",
+      "text": "problem"
+     },
+     {
+      "letter": "D",
+      "text": "present"
+     }
+    ],
+    "answer": "D",
     "vi": 77
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"music":["sounds that people sing or play and that are nice to hear","音樂"],"draw":["to make a picture with a pen or pencil","畫圖"],"chinese":["the language people speak in Taiwan and China; a school subject","中文；國文"],"english":["the language people speak in the U.S.A. and the U.K.","英語"],"math":["the study of numbers and shapes","數學"],"history":["the study of things that happened in the past","歷史"],"lessons":["a time when you learn something with a teacher","課"],"course":["a set of classes on one subject","課程"],"art":["making pictures or beautiful things; a school subject","美術"],"pe":["a school class in which you do sports and exercise","體育"],"science":["the study of nature and how things work","自然科學"],"languages":["the words people use to speak and write, like English or Chinese","語言"],"dictionary":["a book that tells you what words mean","字典"],"map":["a picture that shows where places are","地圖"],"notebook":["a small book of paper that you write in","筆記本"],"paper":["thin material that you write or draw on","紙"],"book":["pages with words or pictures that you read","書"],"chalk":["a white or colored stick for writing on a blackboard","粉筆"],"workbook":["a book with exercises for students to do","作業本"],"page":["one side of a piece of paper in a book","頁"],"blackboard":["a dark board on a classroom wall that teachers write on","黑板"],"picture":["a drawing, painting, or photo","圖片；照片"],"listen":["to try to hear something","聽"],"repeat":["to say or do something again","重複；跟著唸"],"say":["to speak words","說；講"],"read":["to look at words and understand them","讀；唸"],"write":["to make words with a pen or pencil","寫"],"spell":["to say or write the letters of a word in the right order","拼字"],"answer":["to say or write something when someone asks you a question","回答"],"talk":["to say things to someone","說話"],"pens":["a thing for writing with ink","筆"],"pencil":["a thin wooden stick for writing or drawing that you can erase","鉛筆"],"eraser":["a small piece of rubber that takes away pencil marks","橡皮擦"],"rulers":["a long flat thing for drawing straight lines and measuring","尺"],"glue":["a sticky liquid for joining things together","膠水"],"marker":["a thick pen for writing on a board or coloring","麥克筆；簽字筆"],"school":["a place where children go to learn","學校"],"classroom":["a room in a school where students have lessons","教室"],"gym":["a big room or building for sports and exercise","體育館"],"playground":["an outside place at a school or park where children play","操場"],"library":["a place with many books that you can read or borrow","圖書館"],"seesaw":["a long board for two children; when one end goes up, the other goes down","蹺蹺板"],"slide":["a thing in a playground that children climb up and slide down","溜滑梯"],"teacher":["a person whose job is to teach students","老師"],"students":["a person who studies at a school","學生"],"classmate":["a student who is in the same class as you","同學"],"friend":["a person you know well and like","朋友"],"class":["a group of students who learn together","班級"],"teaches":["to help someone learn something","教"],"learn":["to get to know something new","學習"],"studies":["to read and work to learn something","讀書；學習"],"explain":["to tell someone about something so they can understand it","解釋"],"ask":["to say a question to someone","問"],"understand":["to know what something means","了解；懂"],"practices":["to do something again and again to get better at it","練習"],"speak":["to say words; to be able to use a language","說（語言）"],"marks":["to give a score to a student's work; to put a sign on something","打分數；做記號"],"pass":["to do well on a test","通過；及格"],"fail":["to not pass a test; to not do what you tried to do","不及格；失敗"],"prepare":["to get ready for something","準備"],"homework":["school work that students do at home","功課；作業"],"test":["a set of questions to see how much you know","考試"],"quiz":["a short test","小考"],"grades":["a number or letter that shows how good your school work is; a school year","成績；年級"],"questions":["something you ask when you want to know something","問題；疑問"],"problem":["something difficult that you need to fix or answer","（須解決的）問題"],"example":["one thing that shows what others of the same kind are like","例子"],"exercises":["a set of questions that helps you practice","練習；習題"],"knowledge":["the things that a person knows","知識"],"story":["words that tell about people and things that happened, real or not real","故事"],"envelope":["a paper cover that you put a letter in","信封"],"letter":["a message you write on paper and send to someone","信"],"postcard":["a card with a picture that you mail without an envelope","明信片"],"glasses":["two pieces of glass you wear in front of your eyes to see better","眼鏡"],"present":["something you give to someone; a gift","禮物"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"english":["the language people speak in the U.S.A. and the U.K.","英語"],"math":["the study of numbers and shapes","數學"],"chinese":["the language people speak in Taiwan and China; a school subject","中文；國文"],"science":["the study of nature and how things work","自然科學"],"history":["the study of things that happened in the past","歷史"],"art":["making pictures or beautiful things; a school subject","美術"],"music":["sounds that people sing or play and that are nice to hear","音樂"],"pe":["a school class in which you do sports and exercise","體育"],"pages":["one side of a piece of paper in a book","頁"],"maps":["a picture that shows where places are","地圖"],"lessons":["a time when you learn something with a teacher","課"],"grades":["a number or letter that shows how good your school work is; a school year","成績；年級"],"page":["one side of a piece of paper in a book","頁"],"course":["a set of classes on one subject","課程"],"map":["a picture that shows where places are","地圖"],"chalk":["a white or colored stick for writing on a blackboard","粉筆"],"languages":["the words people use to speak and write, like English or Chinese","語言"],"dictionaries":["a book that tells you what words mean","字典"],"notebooks":["a small book of paper that you write in","筆記本"],"stories":["words that tell about people and things that happened, real or not real","故事"],"eraser":["a small piece of rubber that takes away pencil marks","橡皮擦"],"dictionary":["a book that tells you what words mean","字典"],"ruler":["a long flat thing for drawing straight lines and measuring","尺"],"glue":["a sticky liquid for joining things together","膠水"],"notebook":["a small book of paper that you write in","筆記本"],"paper":["thin material that you write or draw on","紙"],"marker":["a thick pen for writing on a board or coloring","麥克筆；簽字筆"],"book":["pages with words or pictures that you read","書"],"envelope":["a paper cover that you put a letter in","信封"],"workbook":["a book with exercises for students to do","作業本"],"postcard":["a card with a picture that you mail without an envelope","明信片"],"blackboard":["a dark board on a classroom wall that teachers write on","黑板"],"picture":["a drawing, painting, or photo","圖片；照片"],"letter":["a message you write on paper and send to someone","信"],"listen":["to try to hear something","聽"],"spell":["to say or write the letters of a word in the right order","拼字"],"read":["to look at words and understand them","讀；唸"],"draw":["to make a picture with a pen or pencil","畫圖"],"repeat":["to say or do something again","重複；跟著唸"],"talk":["to say things to someone","說話"],"say":["to speak words","說；講"],"write":["to make words with a pen or pencil","寫"],"answer":["to say or write something when someone asks you a question","回答"],"ask":["to say a question to someone","問"],"pens":["a thing for writing with ink","筆"],"rulers":["a long flat thing for drawing straight lines and measuring","尺"],"erasers":["a small piece of rubber that takes away pencil marks","橡皮擦"],"pencil":["a thin wooden stick for writing or drawing that you can erase","鉛筆"],"homework":["school work that students do at home","功課；作業"],"playground":["an outside place at a school or park where children play","操場"],"school":["a place where children go to learn","學校"],"classroom":["a room in a school where students have lessons","教室"],"seesaw":["a long board for two children; when one end goes up, the other goes down","蹺蹺板"],"slide":["a thing in a playground that children climb up and slide down","溜滑梯"],"library":["a place with many books that you can read or borrow","圖書館"],"gym":["a big room or building for sports and exercise","體育館"],"student":["a person who studies at a school","學生"],"classmate":["a student who is in the same class as you","同學"],"teacher":["a person whose job is to teach students","老師"],"class":["a group of students who learn together","班級"],"classes":["a group of students who learn together","班級"],"students":["a person who studies at a school","學生"],"tests":["a set of questions to see how much you know","考試"],"test":["a set of questions to see how much you know","考試"],"grade":["a number or letter that shows how good your school work is; a school year","成績；年級"],"friend":["a person you know well and like","朋友"],"learns":["to get to know something new","學習"],"asks":["to say a question to someone","問"],"teaches":["to help someone learn something","教"],"passes":["to do well on a test","通過；及格"],"teach":["to help someone learn something","教"],"fail":["to not pass a test; to not do what you tried to do","不及格；失敗"],"mark":["to give a score to a student's work; to put a sign on something","打分數；做記號"],"learn":["to get to know something new","學習"],"fails":["to not pass a test; to not do what you tried to do","不及格；失敗"],"marks":["to give a score to a student's work; to put a sign on something","打分數；做記號"],"studies":["to read and work to learn something","讀書；學習"],"explain":["to tell someone about something so they can understand it","解釋"],"pass":["to do well on a test","通過；及格"],"understand":["to know what something means","了解；懂"],"practices":["to do something again and again to get better at it","練習"],"speak":["to say words; to be able to use a language","說（語言）"],"prepare":["to get ready for something","準備"],"quiz":["a short test","小考"],"example":["one thing that shows what others of the same kind are like","例子"],"story":["words that tell about people and things that happened, real or not real","故事"],"problem":["something difficult that you need to fix or answer","（須解決的）問題"],"questions":["something you ask when you want to know something","問題；疑問"],"problems":["something difficult that you need to fix or answer","（須解決的）問題"],"examples":["one thing that shows what others of the same kind are like","例子"],"exercises":["a set of questions that helps you practice","練習；習題"],"letters":["a message you write on paper and send to someone","信"],"knowledge":["the things that a person knows","知識"],"exercise":["to move your body to stay strong and healthy","運動"],"present":["something you give to someone; a gift","禮物"],"presents":["something you give to someone; a gift","禮物"],"glasses":["two pieces of glass you wear in front of your eyes to see better","眼鏡"],"envelopes":["a paper cover that you put a letter in","信封"],"postcards":["a card with a picture that you mail without an envelope","明信片"]});

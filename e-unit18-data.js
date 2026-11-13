@@ -384,122 +384,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: How does Amy go to school? — A: She goes to school by __________.【腳踏車】",
+    "question": "I ride my __________ to school every day. It has two wheels and no engine, so it is good exercise.",
     "options": [
      {
       "letter": "A",
-      "text": "motorcycle"
+      "text": "taxi"
      },
      {
       "letter": "B",
-      "text": "bridge"
-     },
-     {
-      "letter": "C",
-      "text": "truck"
-     },
-     {
-      "letter": "D",
       "text": "bicycle"
-     }
-    ],
-    "answer": "D",
-    "vi": 0
-   },
-   {
-    "question": "Q: How do you go to the park? — A: I __________ my bike there.【騎】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "drive"
-     },
-     {
-      "letter": "B",
-      "text": "arrive"
      },
      {
       "letter": "C",
-      "text": "ride"
-     },
-     {
-      "letter": "D",
-      "text": "fly"
-     }
-    ],
-    "answer": "C",
-    "vi": 1
-   },
-   {
-    "question": "Q: How does your mom go to the market? — A: She rides her __________ there.【小型機車】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "scooter"
-     },
-     {
-      "letter": "B",
-      "text": "motorcycle"
-     },
-     {
-      "letter": "C",
-      "text": "truck"
-     },
-     {
-      "letter": "D",
-      "text": "sidewalk"
-     }
-    ],
-    "answer": "A",
-    "vi": 2
-   },
-   {
-    "question": "Q: How do your brothers go to work? — A: They go to work by __________.【機車】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "airplane"
-     },
-     {
-      "letter": "B",
-      "text": "motorcycle"
-     },
-     {
-      "letter": "C",
-      "text": "ship"
-     },
-     {
-      "letter": "D",
-      "text": "sidewalk"
-     }
-    ],
-    "answer": "B",
-    "vi": 3
-   },
-   {
-    "question": "Q: How does your dad go to work? — A: He goes to work by __________.【車子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "truck"
-     },
-     {
-      "letter": "B",
       "text": "train"
      },
      {
-      "letter": "C",
-      "text": "boat"
-     },
-     {
       "letter": "D",
-      "text": "car"
+      "text": "truck"
      }
     ],
-    "answer": "D",
-    "vi": 4
+    "answer": "B",
+    "vi": 0
    },
    {
-    "question": "Q: How do your parents go to the beach? — A: They __________ there in their new car.【駕駛；開車】",
+    "question": "Can you __________ a horse? I tried it once, but I fell off.",
     "options": [
      {
       "letter": "A",
@@ -507,7 +415,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "arrive"
+      "text": "fly"
      },
      {
       "letter": "C",
@@ -518,38 +426,15 @@ window.FLASHCARD_UNITS = {
       "text": "sail"
      }
     ],
-    "answer": "A",
-    "vi": 5
-   },
-   {
-    "question": "Q: How do you go to school? — A: I go to school by __________.【公車】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "blocks"
-     },
-     {
-      "letter": "B",
-      "text": "truck"
-     },
-     {
-      "letter": "C",
-      "text": "bus"
-     },
-     {
-      "letter": "D",
-      "text": "bicycle"
-     }
-    ],
     "answer": "C",
-    "vi": 6
+    "vi": 1
    },
    {
-    "question": "Q: How does Mr. Lee go to the hotel? — A: He takes a __________.【計程車】",
+    "question": "Many people in Taiwan ride a __________ to work. This small motorcycle is easy to park.",
     "options": [
      {
       "letter": "A",
-      "text": "ship"
+      "text": "scooter"
      },
      {
       "letter": "B",
@@ -557,18 +442,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "airport"
+      "text": "truck"
      },
      {
       "letter": "D",
-      "text": "train"
+      "text": "ship"
      }
     ],
-    "answer": "B",
-    "vi": 7
+    "answer": "A",
+    "vi": 2
    },
    {
-    "question": "Q: How do Ben and his sister go to Tainan? — A: They go there by __________.【火車】",
+    "question": "My uncle rides a big __________. It has two wheels and a strong engine, and it is very fast.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "truck"
+     },
+     {
+      "letter": "B",
+      "text": "taxi"
+     },
+     {
+      "letter": "C",
+      "text": "boat"
+     },
+     {
+      "letter": "D",
+      "text": "motorcycle"
+     }
+    ],
+    "answer": "D",
+    "vi": 3
+   },
+   {
+    "question": "My father drives his __________ to work. Our family of five can all sit in it.",
     "options": [
      {
       "letter": "A",
@@ -576,34 +484,126 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "boat"
-     },
-     {
-      "letter": "C",
       "text": "train"
      },
      {
+      "letter": "C",
+      "text": "boat"
+     },
+     {
       "letter": "D",
-      "text": "airplane"
+      "text": "bicycle"
      }
     ],
-    "answer": "C",
-    "vi": 8
+    "answer": "A",
+    "vi": 4
    },
    {
-    "question": "Q: How do you and Tom go to the zoo? — A: We __________ there.【搭捷運】",
+    "question": "You have to be eighteen years old to __________ a car in Taiwan.",
     "options": [
      {
       "letter": "A",
-      "text": "a lot of"
+      "text": "ride"
      },
      {
       "letter": "B",
-      "text": "cheer up"
+      "text": "fly"
      },
      {
       "letter": "C",
-      "text": "a little"
+      "text": "sail"
+     },
+     {
+      "letter": "D",
+      "text": "drive"
+     }
+    ],
+    "answer": "D",
+    "vi": 5
+   },
+   {
+    "question": "I take the school __________ every morning. About forty students ride on it together.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "taxi"
+     },
+     {
+      "letter": "B",
+      "text": "bus"
+     },
+     {
+      "letter": "C",
+      "text": "bicycle"
+     },
+     {
+      "letter": "D",
+      "text": "scooter"
+     }
+    ],
+    "answer": "B",
+    "vi": 6
+   },
+   {
+    "question": "We were late, so we took a __________ to the airport. The driver got us there fast, and we paid him 500 dollars.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "bicycle"
+     },
+     {
+      "letter": "B",
+      "text": "ship"
+     },
+     {
+      "letter": "C",
+      "text": "taxi"
+     },
+     {
+      "letter": "D",
+      "text": "bridge"
+     }
+    ],
+    "answer": "C",
+    "vi": 7
+   },
+   {
+    "question": "We took the __________ from Taipei to Kaohsiung. It ran on rails and stopped at many stations.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "train"
+     },
+     {
+      "letter": "B",
+      "text": "taxi"
+     },
+     {
+      "letter": "C",
+      "text": "ship"
+     },
+     {
+      "letter": "D",
+      "text": "truck"
+     }
+    ],
+    "answer": "A",
+    "vi": 8
+   },
+   {
+    "question": "Many people in Taipei __________ to work. The trains run under the city and come every few minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ride a horse"
+     },
+     {
+      "letter": "B",
+      "text": "sail a boat"
+     },
+     {
+      "letter": "C",
+      "text": "fly a kite"
      },
      {
       "letter": "D",
@@ -614,30 +614,30 @@ window.FLASHCARD_UNITS = {
     "vi": 9
    },
    {
-    "question": "Q: Do you go to school by MRT? — A: Yes, I do. The MRT is very __________.【快的】",
+    "question": "The high speed rail is very __________. It takes only ninety minutes to go from Taipei to Kaohsiung.",
     "options": [
      {
       "letter": "A",
-      "text": "fast"
-     },
-     {
-      "letter": "B",
       "text": "slow"
      },
      {
+      "letter": "B",
+      "text": "heavy"
+     },
+     {
       "letter": "C",
-      "text": "quick"
+      "text": "fast"
      },
      {
       "letter": "D",
-      "text": "favorite"
+      "text": "short"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 10
    },
    {
-    "question": "Q: Does your dad take a taxi to work? — A: Yes, he does. It's a __________ way to get there.【迅速的】",
+    "question": "Let's have a __________ lunch. We only have fifteen minutes before the next class.",
     "options": [
      {
       "letter": "A",
@@ -649,22 +649,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "fast"
+      "text": "tall"
      },
      {
       "letter": "D",
-      "text": "honest"
+      "text": "young"
      }
     ],
     "answer": "B",
     "vi": 11
    },
    {
-    "question": "Q: Does Lisa go to school by bus? — A: No, she doesn't. The bus is too __________. She rides her bike.【慢的】",
+    "question": "This bus is too __________. We have been on it for an hour, and we are still not there.",
     "options": [
      {
       "letter": "A",
-      "text": "quick"
+      "text": "slow"
      },
      {
       "letter": "B",
@@ -672,45 +672,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "slow"
+      "text": "quick"
      },
      {
       "letter": "D",
-      "text": "safe"
-     }
-    ],
-    "answer": "C",
-    "vi": 12
-   },
-   {
-    "question": "Q: How long does it take to go to Japan by __________? — A: It takes about three hours.【飛機】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "airplane"
-     },
-     {
-      "letter": "B",
-      "text": "sidewalk"
-     },
-     {
-      "letter": "C",
-      "text": "bicycle"
-     },
-     {
-      "letter": "D",
-      "text": "motorcycle"
+      "text": "short"
      }
     ],
     "answer": "A",
-    "vi": 13
+    "vi": 12
    },
    {
-    "question": "Q: How long does it take to __________ to Hong Kong? — A: It takes about two hours.【飛】",
+    "question": "We flew to Japan on a big __________. It took off at nine and landed at one.",
     "options": [
      {
       "letter": "A",
-      "text": "ride"
+      "text": "ship"
+     },
+     {
+      "letter": "B",
+      "text": "train"
+     },
+     {
+      "letter": "C",
+      "text": "truck"
+     },
+     {
+      "letter": "D",
+      "text": "airplane"
+     }
+    ],
+    "answer": "D",
+    "vi": 13
+   },
+   {
+    "question": "Birds can __________ because they have wings. People need planes to do it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "drive"
      },
      {
       "letter": "B",
@@ -718,7 +718,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "turn"
+      "text": "ride"
      },
      {
       "letter": "D",
@@ -729,76 +729,76 @@ window.FLASHCARD_UNITS = {
     "vi": 14
    },
    {
-    "question": "Q: How long does it take to go to the island by __________? — A: It takes about thirty minutes.【船】",
+    "question": "We sat in a small __________ and fished in the middle of the lake.",
     "options": [
      {
       "letter": "A",
-      "text": "scooter"
-     },
-     {
-      "letter": "B",
-      "text": "car"
-     },
-     {
-      "letter": "C",
       "text": "truck"
      },
      {
-      "letter": "D",
-      "text": "boat"
-     }
-    ],
-    "answer": "D",
-    "vi": 15
-   },
-   {
-    "question": "Q: How long does it take to go to Penghu? — A: It takes about four hours by __________.【船】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sidewalk"
-     },
-     {
       "letter": "B",
-      "text": "traffic"
+      "text": "train"
      },
      {
       "letter": "C",
-      "text": "ship"
+      "text": "boat"
      },
      {
       "letter": "D",
-      "text": "bridge"
+      "text": "taxi"
      }
     ],
     "answer": "C",
-    "vi": 16
+    "vi": 15
    },
    {
-    "question": "Q: How long do your uncle and his friends stay on the boat? — A: They __________ on the sea for two hours.【航行】",
+    "question": "A big __________ carries thousands of people across the sea. It is like a hotel on the water.",
     "options": [
      {
       "letter": "A",
-      "text": "ride"
+      "text": "ship"
      },
      {
       "letter": "B",
-      "text": "sail"
+      "text": "truck"
      },
      {
       "letter": "C",
-      "text": "drive"
+      "text": "train"
      },
      {
       "letter": "D",
-      "text": "arrive"
+      "text": "taxi"
      }
     ],
-    "answer": "B",
+    "answer": "A",
+    "vi": 16
+   },
+   {
+    "question": "The ship will __________ from Keelung to Japan tomorrow morning. It will be at sea for two days.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "drive"
+     },
+     {
+      "letter": "B",
+      "text": "ride"
+     },
+     {
+      "letter": "C",
+      "text": "sail"
+     },
+     {
+      "letter": "D",
+      "text": "fly"
+     }
+    ],
+    "answer": "C",
     "vi": 17
    },
    {
-    "question": "Q: When do we __________ at the station? — A: In ten minutes. It takes ten minutes from here.【到達】",
+    "question": "The train will __________ at Taipei Station at ten o'clock. Please wait for me there.",
     "options": [
      {
       "letter": "A",
@@ -806,11 +806,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "fly"
+      "text": "cross"
      },
      {
       "letter": "C",
-      "text": "ride"
+      "text": "land"
      },
      {
       "letter": "D",
@@ -821,80 +821,80 @@ window.FLASHCARD_UNITS = {
     "vi": 18
    },
    {
-    "question": "Q: How long does it take to go to school by car? — A: About forty minutes. There is a lot of __________ in the morning.【交通】",
+    "question": "There is a lot of __________ in the morning. The roads are full of cars, buses, and motorcycles.",
     "options": [
      {
       "letter": "A",
+      "text": "bridge"
+     },
+     {
+      "letter": "B",
       "text": "traffic"
      },
      {
-      "letter": "B",
-      "text": "truck"
-     },
-     {
       "letter": "C",
-      "text": "bicycle"
+      "text": "sidewalk"
      },
      {
       "letter": "D",
-      "text": "airport"
+      "text": "block"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 19
    },
    {
-    "question": "Q: How do I get to the bank? — A: Go straight and __________ left at the corner.【轉彎】",
+    "question": "Go straight for two blocks and __________ left at the bank. The post office is on your right.",
     "options": [
      {
       "letter": "A",
-      "text": "fly"
+      "text": "cross"
      },
      {
       "letter": "B",
-      "text": "ride"
+      "text": "arrive"
      },
      {
       "letter": "C",
-      "text": "drive"
-     },
-     {
-      "letter": "D",
       "text": "turn"
-     }
-    ],
-    "answer": "D",
-    "vi": 20
-   },
-   {
-    "question": "Q: How do I get to the post office? — A: Go straight for two __________. It's on your right.【街區】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "bus"
-     },
-     {
-      "letter": "B",
-      "text": "car"
-     },
-     {
-      "letter": "C",
-      "text": "blocks"
      },
      {
       "letter": "D",
-      "text": "bicycle"
+      "text": "land"
      }
     ],
     "answer": "C",
-    "vi": 21
+    "vi": 20
    },
    {
-    "question": "Q: How does Amy get to the park? — A: She __________ the street at the traffic light.【越過】",
+    "question": "The library is not far. Walk three __________ down this street, and you will see it.",
     "options": [
      {
       "letter": "A",
-      "text": "lands"
+      "text": "bridges"
+     },
+     {
+      "letter": "B",
+      "text": "stations"
+     },
+     {
+      "letter": "C",
+      "text": "sidewalks"
+     },
+     {
+      "letter": "D",
+      "text": "blocks"
+     }
+    ],
+    "answer": "D",
+    "vi": 21
+   },
+   {
+    "question": "The old woman __________ the street slowly. A kind boy helps her get to the other side.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "turns"
      },
      {
       "letter": "B",
@@ -902,18 +902,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "fly"
+      "text": "arrives"
      },
      {
       "letter": "D",
-      "text": "sail"
+      "text": "lands"
      }
     ],
     "answer": "B",
     "vi": 22
    },
    {
-    "question": "Q: How do we get to the museum? — A: Walk across the __________. The museum is next to the river.【橋】",
+    "question": "We drove over a long __________ to cross the river. It was built two years ago.",
     "options": [
      {
       "letter": "A",
@@ -921,30 +921,53 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "airport"
+      "text": "station"
      },
      {
       "letter": "C",
-      "text": "ship"
+      "text": "sidewalk"
      },
      {
       "letter": "D",
-      "text": "traffic"
+      "text": "airport"
      }
     ],
     "answer": "A",
     "vi": 23
    },
    {
-    "question": "Q: How does Ben get to school safely? — A: He walks on the __________, not on the road.【人行道】",
+    "question": "Please walk on the __________, not in the street. The cars are very fast here.",
     "options": [
      {
       "letter": "A",
-      "text": "ship"
+      "text": "airport"
      },
      {
       "letter": "B",
+      "text": "station"
+     },
+     {
+      "letter": "C",
+      "text": "traffic"
+     },
+     {
+      "letter": "D",
       "text": "sidewalk"
+     }
+    ],
+    "answer": "D",
+    "vi": 24
+   },
+   {
+    "question": "We went to the __________ two hours early to catch our plane to Japan.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "airport"
+     },
+     {
+      "letter": "B",
+      "text": "station"
      },
      {
       "letter": "C",
@@ -952,60 +975,37 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "traffic"
-     }
-    ],
-    "answer": "B",
-    "vi": 24
-   },
-   {
-    "question": "Q: Where do we take the plane to Japan? — A: We take it at the __________ in Taoyuan.【機場】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "train"
-     },
-     {
-      "letter": "B",
       "text": "sidewalk"
-     },
-     {
-      "letter": "C",
-      "text": "airport"
-     },
-     {
-      "letter": "D",
-      "text": "bicycle"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 25
    },
    {
-    "question": "Q: Where does the plane from Tokyo stop? — A: It __________ at the airport in Taoyuan.【降落】",
+    "question": "The plane from Tokyo __________ at Taoyuan at three o'clock. We will meet Grandma there.",
     "options": [
      {
       "letter": "A",
+      "text": "sails"
+     },
+     {
+      "letter": "B",
+      "text": "turns"
+     },
+     {
+      "letter": "C",
       "text": "lands"
      },
      {
-      "letter": "B",
-      "text": "crosses"
-     },
-     {
-      "letter": "C",
-      "text": "ride"
-     },
-     {
       "letter": "D",
-      "text": "drive"
+      "text": "crosses"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 26
    },
    {
-    "question": "Q: Where does Tom take the train? — A: He takes it at the train __________.【車站】",
+    "question": "I will meet you at the train __________ at eight. Our train leaves at eight twenty.",
     "options": [
      {
       "letter": "A",
@@ -1013,44 +1013,44 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "traffic"
+      "text": "station"
      },
      {
       "letter": "C",
-      "text": "boat"
+      "text": "bridge"
      },
      {
       "letter": "D",
-      "text": "station"
+      "text": "sidewalk"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 27
    },
    {
-    "question": "Q: What do the workers drive? — A: They drive a big __________. It carries many boxes.【卡車】",
+    "question": "The workers put all our furniture in a big __________ and drove it to our new house.",
     "options": [
      {
       "letter": "A",
-      "text": "truck"
+      "text": "taxi"
      },
      {
       "letter": "B",
-      "text": "airport"
+      "text": "bicycle"
      },
      {
       "letter": "C",
-      "text": "airplane"
+      "text": "scooter"
      },
      {
       "letter": "D",
-      "text": "motorcycle"
+      "text": "truck"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 28
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"honest":["always telling the truth","誠實的"],"sail":["to travel on water in a boat","航行；駕船"],"bicycle":["a thing with two wheels that you ride by moving your legs","腳踏車"],"ride":["to sit on a bike, a horse, or a scooter and make it go","騎"],"scooter":["a small, light motorcycle","小型機車"],"motorcycle":["a thing with two wheels and an engine that you ride","機車"],"car":["a machine with four wheels that a person drives on the road","車子"],"drive":["to make a car, bus, or truck go where you want","駕駛；開車"],"bus":["a big car that carries many people along the road","公車"],"taxi":["a car with a driver that you pay to take you somewhere","計程車"],"train":["a line of cars that moves along rails and carries people","火車"],"fast":["moving or happening in a short time; not slow","快的"],"quick":["taking very little time","迅速的"],"slow":["not fast; taking a long time","慢的"],"airplane":["a machine with wings that flies in the sky and carries people","飛機"],"fly":["to move through the air","飛"],"boat":["a small thing that carries people on water","船"],"ship":["a big thing that carries people or things across the sea","船"],"arrive":["to get to a place","到達"],"traffic":["all the cars, buses, and motorcycles moving on the roads","交通"],"turn":["to change the direction you are going","轉彎"],"blocks":["the part of a street between two other streets","街區"],"crosses":["to go from one side of a road or river to the other","越過"],"bridge":["something built over a river or road so people can go across","橋"],"sidewalk":["a path at the side of a street for people to walk on","人行道"],"airport":["a place where planes take off and land","機場"],"lands":["to come down from the air onto the ground","降落"],"station":["a place where trains or buses stop for people to get on and off","車站"],"truck":["a big car for carrying heavy things","卡車"],"safe":["not in danger","安全的"],"favorite":["liked the most","最喜愛的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"taxi":["a car with a driver that you pay to take you somewhere","計程車"],"bicycle":["a thing with two wheels that you ride by moving your legs","腳踏車"],"train":["a line of cars that moves along rails and carries people","火車"],"truck":["a big car for carrying heavy things","卡車"],"drive":["to make a car, bus, or truck go where you want","駕駛；開車"],"fly":["to move through the air","飛"],"ride":["to sit on a bike, a horse, or a scooter and make it go","騎"],"sail":["to travel on water in a boat","航行；駕船"],"scooter":["a small, light motorcycle","小型機車"],"ship":["a big thing that carries people or things across the sea","船"],"boat":["a small thing that carries people on water","船"],"motorcycle":["a thing with two wheels and an engine that you ride","機車"],"car":["a machine with four wheels that a person drives on the road","車子"],"bus":["a big car that carries many people along the road","公車"],"bridge":["something built over a river or road so people can go across","橋"],"slow":["not fast; taking a long time","慢的"],"heavy":["weighing a lot","重的"],"fast":["moving or happening in a short time; not slow","快的"],"short":["not tall; not long","矮的；短的"],"quick":["taking very little time","迅速的"],"tall":["high from head to foot","高的"],"young":["having lived for only a few years; not old","年輕的"],"airplane":["a machine with wings that flies in the sky and carries people","飛機"],"turn":["to change the direction you are going","轉彎"],"cross":["to go from one side of a road or river to the other","越過"],"land":["to come down from the air onto the ground","降落"],"arrive":["to get to a place","到達"],"traffic":["all the cars, buses, and motorcycles moving on the roads","交通"],"sidewalk":["a path at the side of a street for people to walk on","人行道"],"block":["the part of a street between two other streets","街區"],"bridges":["something built over a river or road so people can go across","橋"],"stations":["a place where trains or buses stop for people to get on and off","車站"],"sidewalks":["a path at the side of a street for people to walk on","人行道"],"blocks":["the part of a street between two other streets","街區"],"turns":["to change the direction you are going","轉彎"],"crosses":["to go from one side of a road or river to the other","越過"],"arrives":["to get to a place","到達"],"lands":["to come down from the air onto the ground","降落"],"station":["a place where trains or buses stop for people to get on and off","車站"],"airport":["a place where planes take off and land","機場"],"sails":["to travel on water in a boat","航行；駕船"]});

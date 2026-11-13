@@ -234,59 +234,59 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: What are you wearing today? It's so cold. — A: I'm wearing a long ______. It's warm.【大衣】",
+    "q": "It is very cold today. Put on your long, thick ______ over your sweater before you go out.",
     "options": [
-      "coat",
-      "tie",
+      "skirt",
       "belt",
-      "uniform"
+      "ring",
+      "coat"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "你今天穿什麼？好冷喔。 — 我穿著一件長大衣，很暖和。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: What is your brother wearing? — A: He is wearing a black ______.【夾克】",
+    "q": "It is a little cool tonight, so take a light ______ with you. A short one is enough.",
     "options": [
-      "umbrella",
-      "comb",
-      "sweater",
-      "jacket"
+      "jacket",
+      "belt",
+      "wallet",
+      "comb"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你哥哥穿著什麼？ — 他穿著一件黑色夾克。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: What is Grandma wearing? — A: She is wearing a warm ______.【毛衣】",
+    "q": "Grandma made this warm ______ for me with wool. I wear it under my coat in winter.",
     "options": [
-      "uniform",
+      "skirt",
+      "umbrella",
       "sweater",
-      "tie",
       "wallet"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "奶奶穿著什麼？ — 她穿著一件保暖的毛衣。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: What is Amy wearing to the party? — A: She is wearing a pink ______. She looks beautiful.【洋裝】",
+    "q": "Lisa wore a beautiful white ______ to the party. She looked like a princess in it.",
     "options": [
-      "pants",
-      "gloves",
+      "tie",
       "dress",
-      "pockets"
+      "belt",
+      "wallet"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "艾美穿什麼去派對？ — 她穿著一件粉紅色洋裝，看起來很美。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: What are the girls wearing? — A: They are wearing white shirts and blue ______.【裙子】",
+    "q": "The girls at our school wear blue ______, and the boys wear blue pants.",
     "options": [
-      "clothes",
-      "pants",
-      "shoes",
+      "caps",
+      "belts",
+      "rings",
       "skirts"
     ],
     "answer": 3,
@@ -294,59 +294,59 @@ const MCQS = [
     "vocabIndex": 4
   },
   {
-    "q": "Q: What is your dad wearing today? — A: He is wearing a white ______ and a tie.【襯衫】",
+    "q": "Dad wears a white ______ and a tie to work every day. It has long sleeves and eight buttons.",
     "options": [
+      "skirt",
+      "dress",
       "shirt",
-      "coat",
-      "bag",
-      "mask"
+      "glove"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你爸爸今天穿著什麼？ — 他穿著白襯衫，打著領帶。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: What are you wearing? It's so hot! — A: I'm wearing a ______ and shorts.【T恤】",
+    "q": "It is hot today, so I am wearing a ______ and shorts. I don't need a jacket.",
     "options": [
-      "Uniform",
-      "Coat",
       "T-shirt",
-      "Comb"
+      "sweater",
+      "coat",
+      "glove"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你穿什麼？好熱喔！ — 我穿著T恤和短褲。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: What is Ben wearing to the beach? — A: He is wearing ______.【短褲】",
+    "q": "In summer, the boys wear ______ to play basketball. Their knees and legs feel cool.",
     "options": [
-      "dress",
+      "gloves",
       "shorts",
-      "shoes",
-      "pants"
+      "sweaters",
+      "coats"
     ],
     "answer": 1,
     "cn": "班穿什麼去海邊？ — 他穿著短褲。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: What are you wearing for the hike? — A: I'm wearing long ______ and a jacket.【長褲】",
+    "q": "These ______ are too long for my legs. Can you make them five centimeters shorter?",
     "options": [
+      "shirts",
+      "caps",
       "pants",
-      "socks",
-      "shorts",
-      "jeans"
+      "belts"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你健行要穿什麼？ — 我穿長褲和一件夾克。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: What is Tom wearing? — A: He is wearing a jacket with two big ______.【口袋】",
+    "q": "My jacket has two big ______. I keep my keys in one and my phone in the other.",
     "options": [
-      "skirts",
-      "pants",
-      "shoes",
+      "buttons",
+      "ties",
+      "belts",
       "pockets"
     ],
     "answer": 3,
@@ -354,47 +354,47 @@ const MCQS = [
     "vocabIndex": 9
   },
   {
-    "q": "Q: What are the children wearing for Halloween? — A: They are wearing funny ______.【衣服】",
+    "q": "Lisa loves shopping for ______. She has fifty dresses, thirty shirts, and twenty pairs of pants.",
     "options": [
-      "skirts",
       "clothes",
-      "shorts",
-      "shoes"
+      "umbrellas",
+      "combs",
+      "wallets"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "孩子們萬聖節穿什麼？ — 他們穿著好笑的衣服。",
     "vocabIndex": 10
   },
   {
-    "q": "Q: What do students wear at your school? — A: We wear a school ______ every day.【制服】",
+    "q": "Every student at our school has to wear a ______. We all look the same in our white shirts and blue pants.",
     "options": [
-      "button",
-      "comb",
+      "ring",
       "uniform",
-      "cap"
+      "belt",
+      "glove"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你們學校的學生穿什麼？ — 我們每天穿校服。",
     "vocabIndex": 11
   },
   {
-    "q": "Q: What does your mom wear to work? — A: She ______ a dress and a coat.【穿；戴】",
+    "q": "My father ______ glasses because he can't see well. He takes them off only when he sleeps.",
     "options": [
-      "owns",
+      "cooks",
+      "drinks",
       "wears",
-      "sounds",
-      "belongs"
+      "eats"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你媽媽穿什麼去上班？ — 她穿洋裝和大衣。",
     "vocabIndex": 12
   },
   {
-    "q": "Q: Whose ______ is this? It's on my desk. — A: It's mine. Thank you.【袋子；包包】",
+    "q": "Mom put the fruit and vegetables in a big ______ and carried it home from the market.",
     "options": [
-      "umbrella",
+      "wallet",
+      "pocket",
       "cap",
-      "belt",
       "bag"
     ],
     "answer": 3,
@@ -402,168 +402,168 @@ const MCQS = [
     "vocabIndex": 13
   },
   {
-    "q": "Q: Whose ______ is this? There is money in it. — A: It's Dad's. He is looking for it.【皮夾】",
+    "q": "I can't pay for lunch because I left my ______ at home. All my money and cards are in it.",
     "options": [
+      "comb",
       "wallet",
-      "bag",
-      "jacket",
-      "uniform"
+      "belt",
+      "umbrella"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "這是誰的皮夾？裡面有錢。 — 是爸爸的，他正在找它。",
     "vocabIndex": 14
   },
   {
-    "q": "Q: Whose ______ is this? It's wet. — A: It's Amy's. It's raining outside.【雨傘】",
+    "q": "It is raining hard. Take your ______ with you, or you will get wet.",
     "options": [
-      "comb",
-      "uniform",
       "umbrella",
-      "jacket"
+      "belt",
+      "comb",
+      "ring"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "這是誰的雨傘？它是濕的。 — 是艾美的，外面在下雨。",
     "vocabIndex": 15
   },
   {
-    "q": "Q: Whose ______ is this? — A: It's my sister's. She uses it every morning.【梳子】",
+    "q": "My hair looks terrible this morning. Can I use your ______ to make it tidy?",
     "options": [
-      "jacket",
-      "cap",
-      "sweater",
-      "comb"
+      "belt",
+      "comb",
+      "button",
+      "ring"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "這是誰的梳子？ — 是我妹妹的，她每天早上用它。",
     "vocabIndex": 16
   },
   {
-    "q": "Q: Whose ______ is this? It's on the floor. — A: It's mine. It's from my shirt.【鈕扣】",
+    "q": "A ______ fell off my shirt. Mom, can you put it back on for me? I can't close my shirt now.",
     "options": [
-      "button",
-      "jacket",
+      "pocket",
+      "ring",
       "belt",
-      "hat"
+      "button"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "這是誰的鈕扣？它在地板上。 — 是我的，是我襯衫上的。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: It's very sunny today. What should I do? — A: Put on your ______.【棒球帽；便帽】",
+    "q": "The baseball player wears a blue ______ on his head. It keeps the sun out of his eyes.",
     "options": [
-      "comb",
-      "cap",
+      "belt",
       "tie",
-      "T-shirt"
+      "cap",
+      "ring"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "今天太陽好大，我該怎麼辦？ — 戴上你的帽子。",
     "vocabIndex": 18
   },
   {
-    "q": "Q: Does Ben wear a hat in class? — A: No, he doesn't. The teacher says, \"Take off your ______.\"【帽子】",
+    "q": "Grandma wears a big ______ when she works in the garden. It keeps the sun off her head and face.",
     "options": [
-      "cap",
-      "umbrella",
       "hat",
-      "belt"
+      "belt",
+      "glove",
+      "tie"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "班上課時戴帽子嗎？ — 不，他不戴。老師說：「把帽子脫下來。」",
     "vocabIndex": 19
   },
   {
-    "q": "Q: Do your hands feel cold? — A: Yes, they do. Let me put on my ______.【手套】",
+    "q": "It is very cold today. Put on your ______, or your hands and fingers will hurt.",
     "options": [
+      "socks",
       "shoes",
-      "gloves",
-      "skirts",
-      "shorts"
+      "belts",
+      "gloves"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你的手覺得冷嗎？ — 是的，讓我戴上手套。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: I have a cold. What should I do? — A: Put on a ______, and drink a lot of water.【口罩；面具】",
+    "q": "When you have a cold, please wear a ______ over your nose and mouth. Then other people won't get sick.",
     "options": [
-      "mask",
       "tie",
       "belt",
-      "bag"
+      "mask",
+      "ring"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "我感冒了，我該怎麼辦？ — 戴上口罩，並且多喝水。",
     "vocabIndex": 21
   },
   {
-    "q": "Q: Dad, you're home! Are you tired? — A: Yes. Let me take off my ______ and rest.【領帶】",
+    "q": "Dad wears a shirt and a ______ around his neck when he goes to an important meeting.",
     "options": [
-      "wallet",
-      "uniform",
-      "hat",
-      "tie"
+      "belt",
+      "tie",
+      "ring",
+      "sock"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "爸，你回來了！你累了嗎？ — 是啊，讓我拿下領帶休息一下。",
     "vocabIndex": 22
   },
   {
-    "q": "Q: How much is this brown ______? — A: It is 350 dollars.【皮帶】",
+    "q": "These pants are too big for me. I need a ______ around my waist, or they will fall down.",
     "options": [
-      "umbrella",
-      "wallet",
       "belt",
-      "T-shirt"
+      "tie",
+      "ring",
+      "cap"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "這條咖啡色皮帶多少錢？ — 它是三百五十元。",
     "vocabIndex": 23
   },
   {
-    "q": "Q: How much does this gold ______ cost? — A: It costs 5,000 dollars. It's expensive!【戒指】",
+    "q": "Mr. Lin gave his wife a gold ______ on their wedding day. She wears it on her finger every day.",
     "options": [
-      "dress",
-      "sweater",
-      "uniform",
-      "ring"
+      "belt",
+      "ring",
+      "button",
+      "comb"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "這枚金戒指要多少錢？ — 它要五千元，好貴！",
     "vocabIndex": 24
   },
   {
-    "q": "Q: How much do these blue ______ cost? — A: They cost 900 dollars.【牛仔褲】",
+    "q": "Cowboys wear blue ______. These strong pants are popular all over the world now.",
     "options": [
-      "skirts",
       "jeans",
-      "dress",
-      "shorts"
+      "shirts",
+      "socks",
+      "caps"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "這件藍色牛仔褲要多少錢？ — 它要九百元。",
     "vocabIndex": 25
   },
   {
-    "q": "Q: How much are those black ______? — A: They are 1,200 dollars.【鞋子】",
+    "q": "Please take off your ______ before you come into the house. Leave them by the door.",
     "options": [
-      "shoes",
-      "skirts",
       "gloves",
-      "socks"
+      "rings",
+      "belts",
+      "shoes"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "那雙黑色鞋子多少錢？ — 它們是一千兩百元。",
     "vocabIndex": 26
   },
   {
-    "q": "Q: How much does a pair of ______ cost? — A: It costs 60 dollars.【襪子】",
+    "q": "Put on your ______ before you put on your shoes. They keep your feet warm.",
     "options": [
-      "pants",
-      "skirts",
+      "gloves",
+      "caps",
       "socks",
-      "shorts"
+      "belts"
     ],
     "answer": 2,
     "cn": "一雙襪子要多少錢？ — 一雙要六十元。",
@@ -572,120 +572,10 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "coat": {
-    "pos": "n.",
-    "en_def": "a long, warm piece of clothing you wear over other clothes when it is cold",
-    "cn_def": "大衣"
-  },
-  "jacket": {
-    "pos": "n.",
-    "en_def": "a short coat",
-    "cn_def": "夾克"
-  },
-  "sweater": {
-    "pos": "n.",
-    "en_def": "a warm piece of clothing with long sleeves for the top of your body",
-    "cn_def": "毛衣"
-  },
-  "dress": {
-    "pos": "n.",
-    "en_def": "a piece of clothing for girls and women that covers the body and part of the legs",
-    "cn_def": "洋裝"
-  },
-  "skirts": {
+  "skirt": {
     "pos": "n.",
     "en_def": "a piece of clothing for girls and women that hangs from the waist",
     "cn_def": "裙子"
-  },
-  "shirt": {
-    "pos": "n.",
-    "en_def": "a piece of clothing for the top of your body, with buttons",
-    "cn_def": "襯衫"
-  },
-  "t-shirt": {
-    "pos": "n.",
-    "en_def": "a shirt with short sleeves and no buttons",
-    "cn_def": "T恤"
-  },
-  "shorts": {
-    "pos": "n.",
-    "en_def": "short pants that end above the knees",
-    "cn_def": "短褲"
-  },
-  "pants": {
-    "pos": "n.",
-    "en_def": "clothing that covers your legs",
-    "cn_def": "長褲"
-  },
-  "pockets": {
-    "pos": "n.",
-    "en_def": "a small bag in your clothes for carrying things",
-    "cn_def": "口袋"
-  },
-  "clothes": {
-    "pos": "n.",
-    "en_def": "things that you wear, like shirts and pants",
-    "cn_def": "衣服"
-  },
-  "uniform": {
-    "pos": "n.",
-    "en_def": "special clothes that all students or workers in one place wear",
-    "cn_def": "制服"
-  },
-  "wears": {
-    "pos": "v.",
-    "en_def": "to have clothes, shoes, or glasses on your body",
-    "cn_def": "穿；戴"
-  },
-  "bag": {
-    "pos": "n.",
-    "en_def": "something made of cloth, paper, or plastic for carrying things",
-    "cn_def": "袋子；包包"
-  },
-  "wallet": {
-    "pos": "n.",
-    "en_def": "a small flat case for carrying money and cards",
-    "cn_def": "皮夾"
-  },
-  "umbrella": {
-    "pos": "n.",
-    "en_def": "a thing you hold over your head to stay dry in the rain",
-    "cn_def": "雨傘"
-  },
-  "comb": {
-    "pos": "n.",
-    "en_def": "a thing with many thin teeth for making your hair neat",
-    "cn_def": "梳子"
-  },
-  "button": {
-    "pos": "n.",
-    "en_def": "a small round thing that closes a shirt or coat",
-    "cn_def": "鈕扣"
-  },
-  "cap": {
-    "pos": "n.",
-    "en_def": "a soft hat with a hard part at the front",
-    "cn_def": "棒球帽；便帽"
-  },
-  "hat": {
-    "pos": "n.",
-    "en_def": "something you wear on your head",
-    "cn_def": "帽子"
-  },
-  "gloves": {
-    "pos": "n.",
-    "en_def": "a piece of clothing that covers your hand and fingers",
-    "cn_def": "手套"
-  },
-  "mask": {
-    "pos": "n.",
-    "en_def": "something that covers your face or your nose and mouth",
-    "cn_def": "口罩；面具"
-  },
-  "tie": {
-    "pos": "n.",
-    "en_def": "a long thin piece of cloth that men wear around the neck",
-    "cn_def": "領帶"
   },
   "belt": {
     "pos": "n.",
@@ -697,35 +587,220 @@ const LOOKUP = {
     "en_def": "a small circle of gold or silver that you wear on your finger",
     "cn_def": "戒指"
   },
-  "jeans": {
+  "coat": {
     "pos": "n.",
-    "en_def": "strong blue pants",
-    "cn_def": "牛仔褲"
+    "en_def": "a long, warm piece of clothing you wear over other clothes when it is cold",
+    "cn_def": "大衣"
   },
-  "shoes": {
+  "jacket": {
     "pos": "n.",
-    "en_def": "things that you wear on your feet to walk outside",
-    "cn_def": "鞋子"
+    "en_def": "a short coat",
+    "cn_def": "夾克"
+  },
+  "wallet": {
+    "pos": "n.",
+    "en_def": "a small flat case for carrying money and cards",
+    "cn_def": "皮夾"
+  },
+  "comb": {
+    "pos": "n.",
+    "en_def": "a thing with many thin teeth for making your hair neat",
+    "cn_def": "梳子"
+  },
+  "umbrella": {
+    "pos": "n.",
+    "en_def": "a thing you hold over your head to stay dry in the rain",
+    "cn_def": "雨傘"
+  },
+  "sweater": {
+    "pos": "n.",
+    "en_def": "a warm piece of clothing with long sleeves for the top of your body",
+    "cn_def": "毛衣"
+  },
+  "tie": {
+    "pos": "n.",
+    "en_def": "a long thin piece of cloth that men wear around the neck",
+    "cn_def": "領帶"
+  },
+  "dress": {
+    "pos": "n.",
+    "en_def": "a piece of clothing for girls and women that covers the body and part of the legs",
+    "cn_def": "洋裝"
+  },
+  "caps": {
+    "pos": "n.",
+    "en_def": "a soft hat with a hard part at the front",
+    "cn_def": "棒球帽；便帽"
+  },
+  "belts": {
+    "pos": "n.",
+    "en_def": "a long thin piece of leather that you wear around your waist",
+    "cn_def": "皮帶"
+  },
+  "rings": {
+    "pos": "n.",
+    "en_def": "a small circle of gold or silver that you wear on your finger",
+    "cn_def": "戒指"
+  },
+  "skirts": {
+    "pos": "n.",
+    "en_def": "a piece of clothing for girls and women that hangs from the waist",
+    "cn_def": "裙子"
+  },
+  "shirt": {
+    "pos": "n.",
+    "en_def": "a piece of clothing for the top of your body, with buttons",
+    "cn_def": "襯衫"
+  },
+  "glove": {
+    "pos": "n.",
+    "en_def": "a piece of clothing that covers your hand and fingers",
+    "cn_def": "手套"
+  },
+  "t-shirt": {
+    "pos": "n.",
+    "en_def": "a shirt with short sleeves and no buttons",
+    "cn_def": "T恤"
+  },
+  "gloves": {
+    "pos": "n.",
+    "en_def": "a piece of clothing that covers your hand and fingers",
+    "cn_def": "手套"
+  },
+  "shorts": {
+    "pos": "n.",
+    "en_def": "short pants that end above the knees",
+    "cn_def": "短褲"
+  },
+  "sweaters": {
+    "pos": "n.",
+    "en_def": "a warm piece of clothing with long sleeves for the top of your body",
+    "cn_def": "毛衣"
+  },
+  "coats": {
+    "pos": "n.",
+    "en_def": "a long, warm piece of clothing you wear over other clothes when it is cold",
+    "cn_def": "大衣"
+  },
+  "shirts": {
+    "pos": "n.",
+    "en_def": "a piece of clothing for the top of your body, with buttons",
+    "cn_def": "襯衫"
+  },
+  "pants": {
+    "pos": "n.",
+    "en_def": "clothing that covers your legs",
+    "cn_def": "長褲"
+  },
+  "buttons": {
+    "pos": "n.",
+    "en_def": "a small round thing that closes a shirt or coat",
+    "cn_def": "鈕扣"
+  },
+  "ties": {
+    "pos": "n.",
+    "en_def": "a long thin piece of cloth that men wear around the neck",
+    "cn_def": "領帶"
+  },
+  "pockets": {
+    "pos": "n.",
+    "en_def": "a small bag in your clothes for carrying things",
+    "cn_def": "口袋"
+  },
+  "clothes": {
+    "pos": "n.",
+    "en_def": "things that you wear, like shirts and pants",
+    "cn_def": "衣服"
+  },
+  "umbrellas": {
+    "pos": "n.",
+    "en_def": "a thing you hold over your head to stay dry in the rain",
+    "cn_def": "雨傘"
+  },
+  "combs": {
+    "pos": "n.",
+    "en_def": "a thing with many thin teeth for making your hair neat",
+    "cn_def": "梳子"
+  },
+  "wallets": {
+    "pos": "n.",
+    "en_def": "a small flat case for carrying money and cards",
+    "cn_def": "皮夾"
+  },
+  "uniform": {
+    "pos": "n.",
+    "en_def": "special clothes that all students or workers in one place wear",
+    "cn_def": "制服"
+  },
+  "cooks": {
+    "pos": "v.",
+    "en_def": "to make food ready to eat by heating it",
+    "cn_def": "煮飯；烹調"
+  },
+  "drinks": {
+    "pos": "v.",
+    "en_def": "to take water, milk, or juice into your mouth and body",
+    "cn_def": "喝"
+  },
+  "wears": {
+    "pos": "v.",
+    "en_def": "to have clothes, shoes, or glasses on your body",
+    "cn_def": "穿；戴"
+  },
+  "eats": {
+    "pos": "v.",
+    "en_def": "to put food in your mouth and swallow it",
+    "cn_def": "吃"
+  },
+  "pocket": {
+    "pos": "n.",
+    "en_def": "a small bag in your clothes for carrying things",
+    "cn_def": "口袋"
+  },
+  "cap": {
+    "pos": "n.",
+    "en_def": "a soft hat with a hard part at the front",
+    "cn_def": "棒球帽；便帽"
+  },
+  "bag": {
+    "pos": "n.",
+    "en_def": "something made of cloth, paper, or plastic for carrying things",
+    "cn_def": "袋子；包包"
+  },
+  "button": {
+    "pos": "n.",
+    "en_def": "a small round thing that closes a shirt or coat",
+    "cn_def": "鈕扣"
+  },
+  "hat": {
+    "pos": "n.",
+    "en_def": "something you wear on your head",
+    "cn_def": "帽子"
   },
   "socks": {
     "pos": "n.",
     "en_def": "soft things that you wear on your feet inside your shoes",
     "cn_def": "襪子"
   },
-  "sounds": {
-    "pos": "v.",
-    "en_def": "to seem a certain way when you hear it",
-    "cn_def": "聽起來"
+  "shoes": {
+    "pos": "n.",
+    "en_def": "things that you wear on your feet to walk outside",
+    "cn_def": "鞋子"
   },
-  "belongs": {
-    "pos": "v.",
-    "en_def": "to be owned by someone",
-    "cn_def": "屬於"
+  "mask": {
+    "pos": "n.",
+    "en_def": "something that covers your face or your nose and mouth",
+    "cn_def": "口罩；面具"
   },
-  "owns": {
-    "pos": "v.",
-    "en_def": "to have something that is yours",
-    "cn_def": "擁有"
+  "sock": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "襪子"
+  },
+  "jeans": {
+    "pos": "n.",
+    "en_def": "strong blue pants",
+    "cn_def": "牛仔褲"
   }
 };
 

@@ -813,34 +813,34 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: What time is it? — A: It's seven thirty. It's __________ to go to school.【時間】",
+    "question": "What __________ is it now? I need to catch the bus at seven thirty.",
     "options": [
      {
       "letter": "A",
-      "text": "half"
+      "text": "day"
      },
      {
       "letter": "B",
-      "text": "August"
+      "text": "week"
      },
      {
       "letter": "C",
-      "text": "time"
+      "text": "season"
      },
      {
       "letter": "D",
-      "text": "May"
+      "text": "time"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 0
    },
    {
-    "question": "Q: What time is it? — A: Look at the __________ on the wall. It's five o'clock.【時鐘】",
+    "question": "The __________ on the classroom wall says it is nine. Our English class starts right now.",
     "options": [
      {
       "letter": "A",
-      "text": "tomorrow"
+      "text": "hour"
      },
      {
       "letter": "B",
@@ -848,95 +848,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "moment"
+      "text": "minute"
      },
      {
       "letter": "D",
-      "text": "watch"
+      "text": "week"
      }
     ],
     "answer": "B",
     "vi": 1
    },
    {
-    "question": "Q: What time is it, Ben? — A: Let me look at my __________. It's four o'clock.【手錶】",
+    "question": "Dad wears a __________ on his left arm. He looks at it when he wants to know the time.",
     "options": [
      {
       "letter": "A",
-      "text": "hour"
-     },
-     {
-      "letter": "B",
-      "text": "today"
-     },
-     {
-      "letter": "C",
-      "text": "winter"
-     },
-     {
-      "letter": "D",
       "text": "watch"
-     }
-    ],
-    "answer": "D",
-    "vi": 2
-   },
-   {
-    "question": "Q: What time is it now? — A: It's three __________. Let's go home.【……點鐘】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "o'clock"
      },
      {
       "letter": "B",
-      "text": "once"
-     },
-     {
-      "letter": "C",
-      "text": "now"
-     },
-     {
-      "letter": "D",
-      "text": "late"
-     }
-    ],
-    "answer": "A",
-    "vi": 3
-   },
-   {
-    "question": "Q: What time is it now? — A: It's __________ past six. Dinner is ready.【一半；半小時】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "yesterday"
-     },
-     {
-      "letter": "B",
-      "text": "July"
-     },
-     {
-      "letter": "C",
-      "text": "half"
-     },
-     {
-      "letter": "D",
-      "text": "day"
-     }
-    ],
-    "answer": "C",
-    "vi": 4
-   },
-   {
-    "question": "Q: What time is it? — A: It's a __________ past two. (2:15)【十五分鐘；四分之一】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "August"
-     },
-     {
-      "letter": "B",
-      "text": "quarter"
+      "text": "clock"
      },
      {
       "letter": "C",
@@ -944,60 +875,129 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "day"
-     }
-    ],
-    "answer": "B",
-    "vi": 5
-   },
-   {
-    "question": "Q: What time is it? — A: It's ten __________ eight. (8:10) We are late!【（時間）超過；過了】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "behind"
-     },
-     {
-      "letter": "B",
-      "text": "around"
-     },
-     {
-      "letter": "C",
-      "text": "inside"
-     },
-     {
-      "letter": "D",
-      "text": "past"
-     }
-    ],
-    "answer": "D",
-    "vi": 6
-   },
-   {
-    "question": "Q: What time is it in Taipei now? — A: It's 7 __________ People are going to work.【上午（用在時間後）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "a.m."
-     },
-     {
-      "letter": "B",
-      "text": "p.m."
-     },
-     {
-      "letter": "C",
-      "text": "Mrs."
-     },
-     {
-      "letter": "D",
-      "text": "Mr."
+      "text": "season"
      }
     ],
     "answer": "A",
+    "vi": 2
+   },
+   {
+    "question": "School starts at eight __________ in the morning. Don't be late, or the teacher will be angry.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "already"
+     },
+     {
+      "letter": "B",
+      "text": "ago"
+     },
+     {
+      "letter": "C",
+      "text": "o'clock"
+     },
+     {
+      "letter": "D",
+      "text": "once"
+     }
+    ],
+    "answer": "C",
+    "vi": 3
+   },
+   {
+    "question": "It is __________ past six now, so it is six thirty. Dinner will be ready in thirty minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "noon"
+     },
+     {
+      "letter": "B",
+      "text": "hour"
+     },
+     {
+      "letter": "C",
+      "text": "minute"
+     },
+     {
+      "letter": "D",
+      "text": "half"
+     }
+    ],
+    "answer": "D",
+    "vi": 4
+   },
+   {
+    "question": "It is a __________ past three, so it is three fifteen. The bus will come in fifteen minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "quarter"
+     },
+     {
+      "letter": "B",
+      "text": "half"
+     },
+     {
+      "letter": "C",
+      "text": "minute"
+     },
+     {
+      "letter": "D",
+      "text": "moment"
+     }
+    ],
+    "answer": "A",
+    "vi": 5
+   },
+   {
+    "question": "It is ten __________ nine now. In other words, it is 9:10, and we are ten minutes late.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "in"
+     },
+     {
+      "letter": "B",
+      "text": "on"
+     },
+     {
+      "letter": "C",
+      "text": "past"
+     },
+     {
+      "letter": "D",
+      "text": "with"
+     }
+    ],
+    "answer": "C",
+    "vi": 6
+   },
+   {
+    "question": "I get up at 6 __________ every day. Then I have breakfast and go to school in the morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "p.m."
+     },
+     {
+      "letter": "B",
+      "text": "a.m."
+     },
+     {
+      "letter": "C",
+      "text": "ago"
+     },
+     {
+      "letter": "D",
+      "text": "once"
+     }
+    ],
+    "answer": "B",
     "vi": 7
    },
    {
-    "question": "Q: What time is it? — A: It's 4 __________ School is over.【下午（用在時間後）】",
+    "question": "The movie starts at 9 __________ and ends at eleven at night. We will go home very late.",
     "options": [
      {
       "letter": "A",
@@ -1005,7 +1005,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "Mrs."
+      "text": "ago"
      },
      {
       "letter": "C",
@@ -1013,14 +1013,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "Mr."
+      "text": "once"
      }
     ],
     "answer": "C",
     "vi": 8
    },
    {
-    "question": "Q: What time is it? — A: It's twelve. It's __________. Let's have lunch.【中午】",
+    "question": "We eat lunch at __________. It is twelve o'clock, and the sun is high in the sky.",
     "options": [
      {
       "letter": "A",
@@ -1028,22 +1028,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "quarter"
+      "text": "night"
      },
      {
       "letter": "C",
-      "text": "December"
+      "text": "week"
      },
      {
       "letter": "D",
-      "text": "January"
+      "text": "season"
      }
     ],
     "answer": "A",
     "vi": 9
    },
    {
-    "question": "Q: What time is it? — A: It's __________ ten o'clock! Go to bed now.【已經】",
+    "question": "It is __________ eleven o'clock at night! Turn off the TV and go to bed right now.",
     "options": [
      {
       "letter": "A",
@@ -1051,91 +1051,344 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "already"
+      "text": "once"
      },
      {
       "letter": "C",
-      "text": "early"
+      "text": "tomorrow"
+     },
+     {
+      "letter": "D",
+      "text": "already"
+     }
+    ],
+    "answer": "D",
+    "vi": 10
+   },
+   {
+    "question": "There are sixty minutes in an __________. I do my homework for that long every evening.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "minute"
+     },
+     {
+      "letter": "B",
+      "text": "hour"
+     },
+     {
+      "letter": "C",
+      "text": "week"
+     },
+     {
+      "letter": "D",
+      "text": "month"
+     }
+    ],
+    "answer": "B",
+    "vi": 11
+   },
+   {
+    "question": "The bus will come in five __________. Let's wait here; it won't take long.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "years"
+     },
+     {
+      "letter": "B",
+      "text": "months"
+     },
+     {
+      "letter": "C",
+      "text": "seasons"
+     },
+     {
+      "letter": "D",
+      "text": "minutes"
+     }
+    ],
+    "answer": "D",
+    "vi": 12
+   },
+   {
+    "question": "There are sixty __________ in a minute. A good runner can run 400 meters in that time.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hours"
+     },
+     {
+      "letter": "B",
+      "text": "days"
+     },
+     {
+      "letter": "C",
+      "text": "seconds"
+     },
+     {
+      "letter": "D",
+      "text": "weeks"
+     }
+    ],
+    "answer": "C",
+    "vi": 13
+   },
+   {
+    "question": "Please wait a __________. I will be back very soon with your coffee.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "moment"
+     },
+     {
+      "letter": "B",
+      "text": "year"
+     },
+     {
+      "letter": "C",
+      "text": "week"
+     },
+     {
+      "letter": "D",
+      "text": "season"
+     }
+    ],
+    "answer": "A",
+    "vi": 14
+   },
+   {
+    "question": "__________ is the day after Sunday. Many students feel tired on this first school day of the week.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Tuesday"
+     },
+     {
+      "letter": "B",
+      "text": "Monday"
+     },
+     {
+      "letter": "C",
+      "text": "Friday"
+     },
+     {
+      "letter": "D",
+      "text": "Saturday"
+     }
+    ],
+    "answer": "B",
+    "vi": 15
+   },
+   {
+    "question": "__________ is in the middle of the school week. It comes after Tuesday and before Thursday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Monday"
+     },
+     {
+      "letter": "B",
+      "text": "Friday"
+     },
+     {
+      "letter": "C",
+      "text": "Sunday"
+     },
+     {
+      "letter": "D",
+      "text": "Wednesday"
+     }
+    ],
+    "answer": "D",
+    "vi": 16
+   },
+   {
+    "question": "Yesterday was Monday, so __________ is Tuesday. We have music class this afternoon.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "tomorrow"
+     },
+     {
+      "letter": "B",
+      "text": "yesterday"
+     },
+     {
+      "letter": "C",
+      "text": "today"
+     },
+     {
+      "letter": "D",
+      "text": "weekend"
+     }
+    ],
+    "answer": "C",
+    "vi": 17
+   },
+   {
+    "question": "Today is Friday, so __________ is Saturday. We don't have to go to school then.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "yesterday"
+     },
+     {
+      "letter": "B",
+      "text": "tomorrow"
+     },
+     {
+      "letter": "C",
+      "text": "today"
+     },
+     {
+      "letter": "D",
+      "text": "noon"
+     }
+    ],
+    "answer": "B",
+    "vi": 18
+   },
+   {
+    "question": "Today is Sunday, so __________ was Saturday. We went to the zoo and saw the pandas.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "yesterday"
+     },
+     {
+      "letter": "B",
+      "text": "tomorrow"
+     },
+     {
+      "letter": "C",
+      "text": "today"
      },
      {
       "letter": "D",
       "text": "tonight"
      }
     ],
-    "answer": "B",
-    "vi": 10
+    "answer": "A",
+    "vi": 19
    },
    {
-    "question": "Q: What time is it? — A: It's eleven. We have one __________ before lunch.【小時】",
+    "question": "There are twenty-four hours in a __________. People usually sleep for eight of them.",
     "options": [
      {
       "letter": "A",
-      "text": "November"
+      "text": "week"
      },
      {
       "letter": "B",
-      "text": "December"
+      "text": "month"
      },
      {
       "letter": "C",
-      "text": "day"
+      "text": "year"
      },
      {
       "letter": "D",
-      "text": "hour"
+      "text": "day"
      }
     ],
     "answer": "D",
-    "vi": 11
+    "vi": 20
    },
    {
-    "question": "Q: What time is it? — A: It's 7:55. The bus comes in five __________.【分鐘】",
+    "question": "There are seven days in a __________. Students go to school on five of them.",
     "options": [
      {
       "letter": "A",
-      "text": "minutes"
+      "text": "month"
      },
      {
       "letter": "B",
-      "text": "seconds"
+      "text": "year"
      },
      {
       "letter": "C",
-      "text": "February"
+      "text": "week"
+     },
+     {
+      "letter": "D",
+      "text": "season"
+     }
+    ],
+    "answer": "C",
+    "vi": 21
+   },
+   {
+    "question": "__________ is the first month of the year. New Year's Day is on the first day of this month.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "March"
+     },
+     {
+      "letter": "B",
+      "text": "January"
+     },
+     {
+      "letter": "C",
+      "text": "June"
      },
      {
       "letter": "D",
       "text": "December"
      }
     ],
-    "answer": "A",
-    "vi": 12
+    "answer": "B",
+    "vi": 22
    },
    {
-    "question": "Q: What time is it? — A: It's 11:59:50. Only ten __________ to the new year!【秒】",
+    "question": "__________ is the shortest month of the year. It has only twenty-eight or twenty-nine days.",
     "options": [
      {
       "letter": "A",
-      "text": "minutes"
+      "text": "February"
      },
      {
       "letter": "B",
-      "text": "seconds"
+      "text": "January"
      },
      {
       "letter": "C",
-      "text": "morning"
+      "text": "April"
      },
      {
       "letter": "D",
-      "text": "Monday"
+      "text": "July"
      }
     ],
-    "answer": "B",
-    "vi": 13
+    "answer": "A",
+    "vi": 23
    },
    {
-    "question": "Q: What time is it, Mom? — A: Wait a __________. I can't find my phone.【片刻；一會兒】",
+    "question": "__________ is the third month of the year. It comes after February and before April.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "May"
+     },
+     {
+      "letter": "B",
+      "text": "August"
+     },
+     {
+      "letter": "C",
+      "text": "March"
+     },
+     {
+      "letter": "D",
+      "text": "October"
+     }
+    ],
+    "answer": "C",
+    "vi": 24
+   },
+   {
+    "question": "__________ is the fourth month of the year. People play tricks on their friends on its first day.",
     "options": [
      {
       "letter": "A",
@@ -1147,260 +1400,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "moment"
-     },
-     {
-      "letter": "D",
-      "text": "August"
-     }
-    ],
-    "answer": "C",
-    "vi": 14
-   },
-   {
-    "question": "Q: What day is it today? — A: It's __________. A new week starts today.【星期一】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Friday"
-     },
-     {
-      "letter": "B",
-      "text": "Tomorrow"
-     },
-     {
-      "letter": "C",
-      "text": "Clock"
-     },
-     {
-      "letter": "D",
-      "text": "Monday"
-     }
-    ],
-    "answer": "D",
-    "vi": 15
-   },
-   {
-    "question": "Q: What day is it today? — A: It's __________. It's the middle of the week.【星期三】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "July"
-     },
-     {
-      "letter": "B",
-      "text": "Winter"
-     },
-     {
-      "letter": "C",
-      "text": "Wednesday"
-     },
-     {
-      "letter": "D",
-      "text": "Year"
-     }
-    ],
-    "answer": "C",
-    "vi": 16
-   },
-   {
-    "question": "Q: What day is it today? — A: __________ is Friday. We have a test.【今天】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Season"
-     },
-     {
-      "letter": "B",
-      "text": "Today"
-     },
-     {
-      "letter": "C",
-      "text": "Month"
-     },
-     {
-      "letter": "D",
-      "text": "January"
-     }
-    ],
-    "answer": "B",
-    "vi": 17
-   },
-   {
-    "question": "Q: What day is it today? — A: It's Friday. __________ is Saturday. No school!【明天】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Tomorrow"
-     },
-     {
-      "letter": "B",
-      "text": "Year"
-     },
-     {
-      "letter": "C",
-      "text": "Time"
-     },
-     {
-      "letter": "D",
-      "text": "Winter"
-     }
-    ],
-    "answer": "A",
-    "vi": 18
-   },
-   {
-    "question": "Q: What day is it today? — A: It's Monday. __________ was Sunday.【昨天】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "June"
-     },
-     {
-      "letter": "B",
-      "text": "August"
-     },
-     {
-      "letter": "C",
-      "text": "Week"
-     },
-     {
-      "letter": "D",
-      "text": "Yesterday"
-     }
-    ],
-    "answer": "D",
-    "vi": 19
-   },
-   {
-    "question": "Q: What day is it today? — A: It's Sunday. It's my favorite __________ of the week.【日子；天】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "moment"
-     },
-     {
-      "letter": "B",
-      "text": "weekend"
-     },
-     {
-      "letter": "C",
-      "text": "day"
-     },
-     {
-      "letter": "D",
-      "text": "May"
-     }
-    ],
-    "answer": "C",
-    "vi": 20
-   },
-   {
-    "question": "Q: What day is it today? — A: It's Sunday. It's the first day of the __________.【星期；週】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Friday"
-     },
-     {
-      "letter": "B",
-      "text": "clock"
-     },
-     {
-      "letter": "C",
-      "text": "Wednesday"
-     },
-     {
-      "letter": "D",
-      "text": "week"
-     }
-    ],
-    "answer": "D",
-    "vi": 21
-   },
-   {
-    "question": "Q: When is New Year's Day? — A: It's on __________ 1st.【一月】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "January"
-     },
-     {
-      "letter": "B",
-      "text": "Thursday"
-     },
-     {
-      "letter": "C",
-      "text": "Moment"
-     },
-     {
-      "letter": "D",
-      "text": "Autumn"
-     }
-    ],
-    "answer": "A",
-    "vi": 22
-   },
-   {
-    "question": "Q: When is Valentine's Day? — A: It's on __________ 14th.【二月】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Autumn"
-     },
-     {
-      "letter": "B",
-      "text": "February"
-     },
-     {
-      "letter": "C",
-      "text": "January"
-     },
-     {
-      "letter": "D",
-      "text": "Night"
-     }
-    ],
-    "answer": "B",
-    "vi": 23
-   },
-   {
-    "question": "Q: When is your sister's sixteenth birthday? — A: It's in __________. She wants a big cake.【三月】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "March"
-     },
-     {
-      "letter": "B",
-      "text": "April"
-     },
-     {
-      "letter": "C",
-      "text": "Friday"
-     },
-     {
-      "letter": "D",
-      "text": "Season"
-     }
-    ],
-    "answer": "A",
-    "vi": 24
-   },
-   {
-    "question": "Q: When is Children's Day in Taiwan? — A: It's on __________ 4th.【四月】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Noon"
-     },
-     {
-      "letter": "B",
-      "text": "Night"
-     },
-     {
-      "letter": "C",
-      "text": "October"
+      "text": "November"
      },
      {
       "letter": "D",
@@ -1411,34 +1411,34 @@ window.FLASHCARD_UNITS = {
     "vi": 25
    },
    {
-    "question": "Q: When is Mother's Day? — A: It's on the second Sunday in __________.【五月】",
+    "question": "Mother's Day is in __________. It is on the second Sunday of the fifth month of the year.",
     "options": [
      {
       "letter": "A",
-      "text": "Half"
-     },
-     {
-      "letter": "B",
-      "text": "Noon"
-     },
-     {
-      "letter": "C",
       "text": "May"
      },
      {
-      "letter": "D",
+      "letter": "B",
+      "text": "March"
+     },
+     {
+      "letter": "C",
       "text": "July"
+     },
+     {
+      "letter": "D",
+      "text": "October"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 26
    },
    {
-    "question": "Q: When is the Dragon Boat Festival this year? — A: It's in __________. We eat rice dumplings.【六月】",
+    "question": "__________ is the sixth month of the year. Many students finish school in this month.",
     "options": [
      {
       "letter": "A",
-      "text": "Night"
+      "text": "April"
      },
      {
       "letter": "B",
@@ -1446,18 +1446,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "Noon"
+      "text": "August"
      },
      {
       "letter": "D",
-      "text": "April"
+      "text": "December"
      }
     ],
     "answer": "B",
     "vi": 27
    },
    {
-    "question": "Q: When is your thirteenth birthday? — A: It's in __________, in the summer vacation.【七月】",
+    "question": "__________ is the seventh month of the year. Students in Taiwan are on summer vacation then.",
     "options": [
      {
       "letter": "A",
@@ -1465,145 +1465,53 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "September"
+      "text": "January"
      },
      {
       "letter": "C",
-      "text": "Tuesday"
+      "text": "March"
      },
      {
       "letter": "D",
-      "text": "Monday"
+      "text": "November"
      }
     ],
     "answer": "A",
     "vi": 28
    },
    {
-    "question": "Q: When is Father's Day in Taiwan? — A: It's on __________ 8th.【八月】",
+    "question": "Father's Day in Taiwan is on the eighth day of __________. It is the eighth month of the year.",
     "options": [
      {
       "letter": "A",
-      "text": "March"
+      "text": "May"
      },
      {
       "letter": "B",
-      "text": "August"
-     },
-     {
-      "letter": "C",
-      "text": "Yesterday"
-     },
-     {
-      "letter": "D",
-      "text": "Wednesday"
-     }
-    ],
-    "answer": "B",
-    "vi": 29
-   },
-   {
-    "question": "Q: When is Teacher's Day? — A: It's on __________ 28th.【九月】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "January"
-     },
-     {
-      "letter": "B",
-      "text": "Thursday"
-     },
-     {
-      "letter": "C",
-      "text": "Weekend"
-     },
-     {
-      "letter": "D",
-      "text": "September"
-     }
-    ],
-    "answer": "D",
-    "vi": 30
-   },
-   {
-    "question": "Q: When is Halloween? — A: It's on __________ 31st.【十月】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Weekend"
-     },
-     {
-      "letter": "B",
-      "text": "July"
-     },
-     {
-      "letter": "C",
-      "text": "October"
-     },
-     {
-      "letter": "D",
-      "text": "Wednesday"
-     }
-    ],
-    "answer": "C",
-    "vi": 31
-   },
-   {
-    "question": "Q: When is Thanksgiving in America? — A: It's in __________. People eat a big dinner.【十一月】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "October"
-     },
-     {
-      "letter": "B",
-      "text": "November"
-     },
-     {
-      "letter": "C",
-      "text": "March"
-     },
-     {
-      "letter": "D",
-      "text": "September"
-     }
-    ],
-    "answer": "B",
-    "vi": 32
-   },
-   {
-    "question": "Q: When is Christmas? — A: It's on __________ 25th.【十二月】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Noon"
-     },
-     {
-      "letter": "B",
-      "text": "July"
-     },
-     {
-      "letter": "C",
-      "text": "December"
-     },
-     {
-      "letter": "D",
-      "text": "Sunday"
-     }
-    ],
-    "answer": "C",
-    "vi": 33
-   },
-   {
-    "question": "Q: When is your birthday? — A: It's in summer. Summer is my favorite __________.【季節】",
-    "options": [
-     {
-      "letter": "A",
       "text": "June"
      },
      {
+      "letter": "C",
+      "text": "October"
+     },
+     {
+      "letter": "D",
+      "text": "August"
+     }
+    ],
+    "answer": "D",
+    "vi": 29
+   },
+   {
+    "question": "The new school year in Taiwan begins in __________. It is the ninth month of the year.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "February"
+     },
+     {
       "letter": "B",
-      "text": "moment"
+      "text": "July"
      },
      {
       "letter": "C",
@@ -1611,14 +1519,152 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "season"
+      "text": "December"
      }
     ],
-    "answer": "D",
+    "answer": "C",
+    "vi": 30
+   },
+   {
+    "question": "Halloween is on the last day of __________. It is the tenth month of the year.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "April"
+     },
+     {
+      "letter": "B",
+      "text": "October"
+     },
+     {
+      "letter": "C",
+      "text": "August"
+     },
+     {
+      "letter": "D",
+      "text": "December"
+     }
+    ],
+    "answer": "B",
+    "vi": 31
+   },
+   {
+    "question": "__________ is the eleventh month of the year. It comes right before December.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "September"
+     },
+     {
+      "letter": "B",
+      "text": "October"
+     },
+     {
+      "letter": "C",
+      "text": "November"
+     },
+     {
+      "letter": "D",
+      "text": "January"
+     }
+    ],
+    "answer": "C",
+    "vi": 32
+   },
+   {
+    "question": "Christmas is in __________. It is the twelfth and last month of the year.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "December"
+     },
+     {
+      "letter": "B",
+      "text": "October"
+     },
+     {
+      "letter": "C",
+      "text": "November"
+     },
+     {
+      "letter": "D",
+      "text": "February"
+     }
+    ],
+    "answer": "A",
+    "vi": 33
+   },
+   {
+    "question": "Summer is my favorite __________. I like it more than spring, fall, or winter.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "month"
+     },
+     {
+      "letter": "B",
+      "text": "season"
+     },
+     {
+      "letter": "C",
+      "text": "weekend"
+     },
+     {
+      "letter": "D",
+      "text": "moment"
+     }
+    ],
+    "answer": "B",
     "vi": 34
    },
    {
-    "question": "Q: When is Sports Day? — A: It's in __________, in April. The flowers are beautiful.【春天】",
+    "question": "In __________, the weather gets warm after winter, and flowers start to come out.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "summer"
+     },
+     {
+      "letter": "B",
+      "text": "autumn"
+     },
+     {
+      "letter": "C",
+      "text": "night"
+     },
+     {
+      "letter": "D",
+      "text": "spring"
+     }
+    ],
+    "answer": "D",
+    "vi": 35
+   },
+   {
+    "question": "__________ is the hottest season. Students have a long vacation, and many people go swimming.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Spring"
+     },
+     {
+      "letter": "B",
+      "text": "Autumn"
+     },
+     {
+      "letter": "C",
+      "text": "summer"
+     },
+     {
+      "letter": "D",
+      "text": "Winter"
+     }
+    ],
+    "answer": "C",
+    "vi": 36
+   },
+   {
+    "question": "In __________, the leaves turn yellow and fall from the trees. The weather gets cooler after the hot summer.",
     "options": [
      {
       "letter": "A",
@@ -1626,57 +1672,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "morning"
-     },
-     {
-      "letter": "C",
-      "text": "evening"
-     },
-     {
-      "letter": "D",
-      "text": "Tuesday"
-     }
-    ],
-    "answer": "A",
-    "vi": 35
-   },
-   {
-    "question": "Q: When is your brother's eighteenth birthday? — A: It's in __________, in August. It's very hot.【夏天】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "afternoon"
-     },
-     {
-      "letter": "B",
       "text": "summer"
      },
      {
       "letter": "C",
-      "text": "clock"
-     },
-     {
-      "letter": "D",
-      "text": "August"
-     }
-    ],
-    "answer": "B",
-    "vi": 36
-   },
-   {
-    "question": "Q: When is the Moon Festival? — A: It's in __________, in September or October.【秋天】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Tuesday"
-     },
-     {
-      "letter": "B",
-      "text": "season"
-     },
-     {
-      "letter": "C",
-      "text": "January"
+      "text": "winter"
      },
      {
       "letter": "D",
@@ -1687,30 +1687,30 @@ window.FLASHCARD_UNITS = {
     "vi": 37
    },
    {
-    "question": "Q: When is Chinese New Year? — A: It's in __________, in January or February.【冬天】",
+    "question": "__________ is the coldest season. People wear coats and gloves, and it snows in some countries.",
     "options": [
      {
       "letter": "A",
-      "text": "today"
+      "text": "Spring"
      },
      {
       "letter": "B",
-      "text": "week"
-     },
-     {
-      "letter": "C",
       "text": "winter"
      },
      {
+      "letter": "C",
+      "text": "Summer"
+     },
+     {
       "letter": "D",
-      "text": "night"
+      "text": "Autumn"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 38
    },
    {
-    "question": "Q: What does Tom do on weekends? — A: He plays basketball on __________ mornings.【星期六】",
+    "question": "__________ is the day after Friday. It is the first day of the weekend.",
     "options": [
      {
       "letter": "A",
@@ -1718,206 +1718,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "October"
+      "text": "Sunday"
      },
      {
       "letter": "C",
-      "text": "January"
+      "text": "Monday"
      },
      {
       "letter": "D",
-      "text": "Moment"
+      "text": "Thursday"
      }
     ],
     "answer": "A",
     "vi": 39
    },
    {
-    "question": "Q: What do you and your family do on weekends? — A: We go to church on __________.【星期日】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Half"
-     },
-     {
-      "letter": "B",
-      "text": "Yesterday"
-     },
-     {
-      "letter": "C",
-      "text": "September"
-     },
-     {
-      "letter": "D",
-      "text": "Sunday"
-     }
-    ],
-    "answer": "D",
-    "vi": 40
-   },
-   {
-    "question": "Q: What does your dad do on Saturdays? — A: He doesn't work on the __________. He sleeps late.【週末】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "day"
-     },
-     {
-      "letter": "B",
-      "text": "afternoon"
-     },
-     {
-      "letter": "C",
-      "text": "weekend"
-     },
-     {
-      "letter": "D",
-      "text": "hour"
-     }
-    ],
-    "answer": "C",
-    "vi": 41
-   },
-   {
-    "question": "Q: What does Amy do on Sundays? — A: She goes jogging in the park in the __________.【早上】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "evening"
-     },
-     {
-      "letter": "B",
-      "text": "morning"
-     },
-     {
-      "letter": "C",
-      "text": "spring"
-     },
-     {
-      "letter": "D",
-      "text": "February"
-     }
-    ],
-    "answer": "B",
-    "vi": 42
-   },
-   {
-    "question": "Q: What do your classmates do on Fridays? — A: They play soccer in the __________ after class.【下午】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "afternoon"
-     },
-     {
-      "letter": "B",
-      "text": "half"
-     },
-     {
-      "letter": "C",
-      "text": "month"
-     },
-     {
-      "letter": "D",
-      "text": "yesterday"
-     }
-    ],
-    "answer": "A",
-    "vi": 43
-   },
-   {
-    "question": "Q: What does your mom do on Mondays? — A: She takes a cooking class in the __________, after dinner.【傍晚；晚上】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "morning"
-     },
-     {
-      "letter": "B",
-      "text": "spring"
-     },
-     {
-      "letter": "C",
-      "text": "hour"
-     },
-     {
-      "letter": "D",
-      "text": "evening"
-     }
-    ],
-    "answer": "D",
-    "vi": 44
-   },
-   {
-    "question": "Q: What do you do on Saturdays? — A: I watch movies with my family at __________.【夜晚；晚上】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "week"
-     },
-     {
-      "letter": "B",
-      "text": "September"
-     },
-     {
-      "letter": "C",
-      "text": "night"
-     },
-     {
-      "letter": "D",
-      "text": "season"
-     }
-    ],
-    "answer": "C",
-    "vi": 45
-   },
-   {
-    "question": "Q: When does Lisa have art class? — A: She has art class on __________.【星期二】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Tuesday"
-     },
-     {
-      "letter": "B",
-      "text": "Quarter"
-     },
-     {
-      "letter": "C",
-      "text": "October"
-     },
-     {
-      "letter": "D",
-      "text": "Day"
-     }
-    ],
-    "answer": "A",
-    "vi": 46
-   },
-   {
-    "question": "Q: When do you have music class? — A: I have music class on __________.【星期四】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Weekend"
-     },
-     {
-      "letter": "B",
-      "text": "Thursday"
-     },
-     {
-      "letter": "C",
-      "text": "Afternoon"
-     },
-     {
-      "letter": "D",
-      "text": "July"
-     }
-    ],
-    "answer": "B",
-    "vi": 47
-   },
-   {
-    "question": "Q: When do Ben and Tom have PE class? — A: They have PE class on __________ afternoon.【星期五】",
+    "question": "__________ is the day after Saturday. It is the last day of the weekend, and Monday comes next.",
     "options": [
      {
       "letter": "A",
@@ -1925,298 +1741,114 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "Weekend"
+      "text": "Tuesday"
      },
      {
       "letter": "C",
-      "text": "Tomorrow"
+      "text": "Sunday"
      },
      {
       "letter": "D",
-      "text": "Yesterday"
-     }
-    ],
-    "answer": "A",
-    "vi": 48
-   },
-   {
-    "question": "Q: When do we have math class? — A: We have it __________! Hurry up!【現在】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "later"
-     },
-     {
-      "letter": "B",
-      "text": "early"
-     },
-     {
-      "letter": "C",
-      "text": "o'clock"
-     },
-     {
-      "letter": "D",
-      "text": "now"
-     }
-    ],
-    "answer": "D",
-    "vi": 49
-   },
-   {
-    "question": "Q: When does Tim have science class? — A: He has it __________, in five minutes.【很快；不久】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "ago"
-     },
-     {
-      "letter": "B",
-      "text": "soon"
-     },
-     {
-      "letter": "C",
-      "text": "tonight"
-     },
-     {
-      "letter": "D",
-      "text": "early"
-     }
-    ],
-    "answer": "B",
-    "vi": 50
-   },
-   {
-    "question": "Q: When does Amy have social studies class? — A: She has it __________ today, after lunch.【稍後；等一下】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "late"
-     },
-     {
-      "letter": "B",
-      "text": "o'clock"
-     },
-     {
-      "letter": "C",
-      "text": "later"
-     },
-     {
-      "letter": "D",
-      "text": "now"
+      "text": "Wednesday"
      }
     ],
     "answer": "C",
-    "vi": 51
+    "vi": 40
    },
    {
-    "question": "Q: When do the students have Chinese class? — A: They have it __________ in the morning, at eight.【早；早的】",
+    "question": "We don't go to school on the __________. We can sleep late on Saturday and Sunday.",
     "options": [
      {
       "letter": "A",
-      "text": "soon"
-     },
-     {
-      "letter": "B",
-      "text": "early"
-     },
-     {
-      "letter": "C",
-      "text": "ago"
-     },
-     {
-      "letter": "D",
-      "text": "o'clock"
-     }
-    ],
-    "answer": "B",
-    "vi": 52
-   },
-   {
-    "question": "Q: When does your brother have English class? — A: He has it __________ in the afternoon, at four o'clock.【晚；晚的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "early"
-     },
-     {
-      "letter": "B",
-      "text": "now"
-     },
-     {
-      "letter": "C",
-      "text": "o'clock"
-     },
-     {
-      "letter": "D",
-      "text": "late"
-     }
-    ],
-    "answer": "D",
-    "vi": 53
-   },
-   {
-    "question": "Q: When does your family go to Japan? — A: We go there every __________, in July.【年】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "year"
-     },
-     {
-      "letter": "B",
-      "text": "season"
-     },
-     {
-      "letter": "C",
-      "text": "yesterday"
-     },
-     {
-      "letter": "D",
-      "text": "June"
-     }
-    ],
-    "answer": "A",
-    "vi": 54
-   },
-   {
-    "question": "Q: When does your aunt visit you? — A: She visits us on the first day of every __________.【月；月份】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "season"
-     },
-     {
-      "letter": "B",
-      "text": "hour"
-     },
-     {
-      "letter": "C",
       "text": "month"
      },
      {
-      "letter": "D",
-      "text": "May"
-     }
-    ],
-    "answer": "C",
-    "vi": 55
-   },
-   {
-    "question": "Q: How often does Grandma call you? — A: She calls me __________ a week, on Sunday night.【一次】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "later"
-     },
-     {
       "letter": "B",
-      "text": "early"
+      "text": "weekend"
      },
      {
       "letter": "C",
-      "text": "now"
+      "text": "season"
      },
      {
       "letter": "D",
-      "text": "once"
-     }
-    ],
-    "answer": "D",
-    "vi": 56
-   },
-   {
-    "question": "Q: When do we have the party? — A: We have it __________, at seven o'clock.【今晚】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "later"
-     },
-     {
-      "letter": "B",
-      "text": "tonight"
-     },
-     {
-      "letter": "C",
-      "text": "already"
-     },
-     {
-      "letter": "D",
-      "text": "o'clock"
+      "text": "moment"
      }
     ],
     "answer": "B",
-    "vi": 57
+    "vi": 41
    },
    {
-    "question": "Q: When is the English test? — A: It's __________ Friday. Let's study together.【下一個的】",
+    "question": "I get up at six in the __________. Then I brush my teeth and eat breakfast.",
     "options": [
      {
       "letter": "A",
-      "text": "next"
+      "text": "morning"
      },
      {
       "letter": "B",
-      "text": "last"
+      "text": "afternoon"
      },
      {
       "letter": "C",
-      "text": "thirsty"
+      "text": "evening"
      },
      {
       "letter": "D",
-      "text": "sure"
+      "text": "night"
      }
     ],
     "answer": "A",
-    "vi": 58
+    "vi": 42
    },
    {
-    "question": "Q: When was Ben's birthday party? — A: It was __________ Sunday. It was fun.【上一個的；最近的】",
+    "question": "School is over at four in the __________. After lunch and three more classes, we can go home.",
     "options": [
      {
       "letter": "A",
-      "text": "next"
+      "text": "morning"
      },
      {
       "letter": "B",
-      "text": "brown"
+      "text": "evening"
      },
      {
       "letter": "C",
-      "text": "last"
+      "text": "night"
      },
      {
       "letter": "D",
-      "text": "clear"
+      "text": "afternoon"
      }
     ],
-    "answer": "C",
-    "vi": 59
+    "answer": "D",
+    "vi": 43
    },
    {
-    "question": "Q: When was Tom in Japan? — A: He was there two years __________.【……以前】",
+    "question": "We have dinner at six thirty in the __________. After that, I do my homework until nine.",
     "options": [
      {
       "letter": "A",
-      "text": "now"
+      "text": "morning"
      },
      {
       "letter": "B",
-      "text": "ago"
+      "text": "evening"
      },
      {
       "letter": "C",
-      "text": "already"
+      "text": "afternoon"
      },
      {
       "letter": "D",
-      "text": "late"
+      "text": "noon"
      }
     ],
     "answer": "B",
-    "vi": 60
+    "vi": 44
    },
    {
-    "question": "Q: When can people live on the moon? — A: Maybe in the __________.【未來】",
+    "question": "The moon and stars come out at __________. Most people are sleeping then.",
     "options": [
      {
       "letter": "A",
@@ -2224,11 +1856,379 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "tomorrow"
+      "text": "spring"
      },
      {
       "letter": "C",
-      "text": "today"
+      "text": "night"
+     },
+     {
+      "letter": "D",
+      "text": "summer"
+     }
+    ],
+    "answer": "C",
+    "vi": 45
+   },
+   {
+    "question": "__________ is the day after Monday. It is the second school day of the week.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Tuesday"
+     },
+     {
+      "letter": "B",
+      "text": "Thursday"
+     },
+     {
+      "letter": "C",
+      "text": "Friday"
+     },
+     {
+      "letter": "D",
+      "text": "Sunday"
+     }
+    ],
+    "answer": "A",
+    "vi": 46
+   },
+   {
+    "question": "__________ is the day before Friday. It comes after Wednesday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Monday"
+     },
+     {
+      "letter": "B",
+      "text": "Tuesday"
+     },
+     {
+      "letter": "C",
+      "text": "Saturday"
+     },
+     {
+      "letter": "D",
+      "text": "Thursday"
+     }
+    ],
+    "answer": "D",
+    "vi": 47
+   },
+   {
+    "question": "__________ is the last school day of the week. The weekend starts after it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Monday"
+     },
+     {
+      "letter": "B",
+      "text": "Wednesday"
+     },
+     {
+      "letter": "C",
+      "text": "Friday"
+     },
+     {
+      "letter": "D",
+      "text": "Sunday"
+     }
+    ],
+    "answer": "C",
+    "vi": 48
+   },
+   {
+    "question": "I can't talk to you right __________. I am busy cooking dinner, so please call me back in an hour.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ago"
+     },
+     {
+      "letter": "B",
+      "text": "now"
+     },
+     {
+      "letter": "C",
+      "text": "soon"
+     },
+     {
+      "letter": "D",
+      "text": "once"
+     }
+    ],
+    "answer": "B",
+    "vi": 49
+   },
+   {
+    "question": "Dinner will be ready __________. Please wash your hands and sit at the table in five minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "soon"
+     },
+     {
+      "letter": "B",
+      "text": "ago"
+     },
+     {
+      "letter": "C",
+      "text": "already"
+     },
+     {
+      "letter": "D",
+      "text": "yesterday"
+     }
+    ],
+    "answer": "A",
+    "vi": 50
+   },
+   {
+    "question": "I am busy now. Can I call you back __________, maybe in an hour?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ago"
+     },
+     {
+      "letter": "B",
+      "text": "already"
+     },
+     {
+      "letter": "C",
+      "text": "early"
+     },
+     {
+      "letter": "D",
+      "text": "later"
+     }
+    ],
+    "answer": "D",
+    "vi": 51
+   },
+   {
+    "question": "I have to get up __________ tomorrow because the first bus leaves at five thirty in the morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "late"
+     },
+     {
+      "letter": "B",
+      "text": "early"
+     },
+     {
+      "letter": "C",
+      "text": "ago"
+     },
+     {
+      "letter": "D",
+      "text": "once"
+     }
+    ],
+    "answer": "B",
+    "vi": 52
+   },
+   {
+    "question": "Tom got up at eight, so he was __________ for school. The teacher was not happy about it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "early"
+     },
+     {
+      "letter": "B",
+      "text": "soon"
+     },
+     {
+      "letter": "C",
+      "text": "late"
+     },
+     {
+      "letter": "D",
+      "text": "already"
+     }
+    ],
+    "answer": "C",
+    "vi": 53
+   },
+   {
+    "question": "There are twelve months in a __________. My birthday comes only once in that time.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "week"
+     },
+     {
+      "letter": "B",
+      "text": "day"
+     },
+     {
+      "letter": "C",
+      "text": "season"
+     },
+     {
+      "letter": "D",
+      "text": "year"
+     }
+    ],
+    "answer": "D",
+    "vi": 54
+   },
+   {
+    "question": "There are about four weeks in a __________. February is the shortest one.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "month"
+     },
+     {
+      "letter": "B",
+      "text": "year"
+     },
+     {
+      "letter": "C",
+      "text": "day"
+     },
+     {
+      "letter": "D",
+      "text": "weekend"
+     }
+    ],
+    "answer": "A",
+    "vi": 55
+   },
+   {
+    "question": "I visit my grandparents __________ a week, every Sunday. I wish I could see them more often.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "already"
+     },
+     {
+      "letter": "B",
+      "text": "once"
+     },
+     {
+      "letter": "C",
+      "text": "ago"
+     },
+     {
+      "letter": "D",
+      "text": "soon"
+     }
+    ],
+    "answer": "B",
+    "vi": 56
+   },
+   {
+    "question": "There is a good movie on TV __________ at nine. Let's finish our homework before dinner so we can watch it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "yesterday"
+     },
+     {
+      "letter": "B",
+      "text": "ago"
+     },
+     {
+      "letter": "C",
+      "text": "already"
+     },
+     {
+      "letter": "D",
+      "text": "tonight"
+     }
+    ],
+    "answer": "D",
+    "vi": 57
+   },
+   {
+    "question": "This bus is full. Let's wait for the __________ one; it will come in ten minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "last"
+     },
+     {
+      "letter": "B",
+      "text": "early"
+     },
+     {
+      "letter": "C",
+      "text": "next"
+     },
+     {
+      "letter": "D",
+      "text": "late"
+     }
+    ],
+    "answer": "C",
+    "vi": 58
+   },
+   {
+    "question": "I didn't see you __________ week. Were you sick, or did you go on a trip?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "last"
+     },
+     {
+      "letter": "B",
+      "text": "next"
+     },
+     {
+      "letter": "C",
+      "text": "early"
+     },
+     {
+      "letter": "D",
+      "text": "late"
+     }
+    ],
+    "answer": "A",
+    "vi": 59
+   },
+   {
+    "question": "My family moved to Taipei five years __________. Before that, we lived in Tainan.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "soon"
+     },
+     {
+      "letter": "B",
+      "text": "ago"
+     },
+     {
+      "letter": "C",
+      "text": "once"
+     },
+     {
+      "letter": "D",
+      "text": "already"
+     }
+    ],
+    "answer": "B",
+    "vi": 60
+   },
+   {
+    "question": "Nobody knows what will happen in the __________. We can only work hard today.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "noon"
+     },
+     {
+      "letter": "B",
+      "text": "moment"
+     },
+     {
+      "letter": "C",
+      "text": "weekend"
      },
      {
       "letter": "D",
@@ -2241,4 +2241,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"mr.":["a word used before a man's family name","先生（加姓）"],"mrs.":["a word used before a married woman's family name","太太"],"last":["coming after all the others","最後的"],"time":["what we measure in minutes, hours, and days","時間"],"clock":["a thing on the wall or table that shows the time","時鐘"],"watch":["a small clock that you wear on your arm","手錶"],"o'clock":["a word used after a number to tell the hour","……點鐘"],"half":["one of two same-sized parts; thirty minutes","一半；半小時"],"quarter":["one of four same-sized parts; fifteen minutes","十五分鐘；四分之一"],"past":["after (an hour), as in \"ten past eight\"","（時間）超過；過了"],"a.m.":["in the morning, before twelve noon","上午（用在時間後）"],"p.m.":["in the afternoon or at night, after twelve noon","下午（用在時間後）"],"noon":["twelve o'clock in the middle of the day","中午"],"already":["before now; earlier than you thought","已經"],"hour":["sixty minutes","小時"],"minutes":["sixty seconds","分鐘"],"seconds":["a very short time; sixty of them make one minute","秒"],"moment":["a very short time","片刻；一會兒"],"monday":["the day after Sunday","星期一"],"wednesday":["the day after Tuesday","星期三"],"today":["this day","今天"],"tomorrow":["the day after today","明天"],"yesterday":["the day before today","昨天"],"day":["twenty-four hours; the time when it is light","日子；天"],"week":["seven days","星期；週"],"january":["the first month of the year","一月"],"february":["the second month of the year","二月"],"march":["the third month of the year","三月"],"april":["the fourth month of the year","四月"],"may":["the fifth month of the year","五月"],"june":["the sixth month of the year","六月"],"july":["the seventh month of the year","七月"],"august":["the eighth month of the year","八月"],"september":["the ninth month of the year","九月"],"october":["the tenth month of the year","十月"],"november":["the eleventh month of the year","十一月"],"december":["the twelfth and last month of the year","十二月"],"season":["one of the four parts of the year, such as spring or winter","季節"],"spring":["the season after winter, when flowers start to grow","春天"],"summer":["the hottest season of the year","夏天"],"autumn":["the season after summer, when leaves fall from trees","秋天"],"winter":["the coldest season of the year","冬天"],"saturday":["the day after Friday","星期六"],"sunday":["the day after Saturday","星期日"],"weekend":["Saturday and Sunday","週末"],"morning":["the early part of the day, before noon","早上"],"afternoon":["the part of the day between noon and evening","下午"],"evening":["the part of the day between afternoon and night","傍晚；晚上"],"night":["the time when it is dark and people sleep","夜晚；晚上"],"tuesday":["the day after Monday","星期二"],"thursday":["the day after Wednesday","星期四"],"friday":["the day after Thursday","星期五"],"now":["at this time","現在"],"soon":["a short time from now","很快；不久"],"later":["at a time after now","稍後；等一下"],"early":["before the usual time; near the start of the day","早；早的"],"late":["after the usual time; near the end of the day","晚；晚的"],"year":["twelve months","年"],"month":["one of the twelve parts of a year","月；月份"],"once":["one time","一次"],"tonight":["the night of today","今晚"],"next":["coming right after this one","下一個的"],"ago":["before now; in the past","……以前"],"future":["the time that will come after now","未來"],"thirsty":["wanting to drink","口渴的"],"brown":["the color of chocolate and wood","棕色（的）"],"clear":["with no clouds; easy to see through","晴朗的；清澈的"],"inside":["in the inner part of something","在…內部"],"behind":["at the back of something","在…後面"],"around":["on all sides of something","在…四周"],"sure":["knowing that something is true","確定的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"day":["twenty-four hours; the time when it is light","日子；天"],"week":["seven days","星期；週"],"season":["one of the four parts of the year, such as spring or winter","季節"],"time":["what we measure in minutes, hours, and days","時間"],"hour":["sixty minutes","小時"],"clock":["a thing on the wall or table that shows the time","時鐘"],"minute":["sixty seconds","分鐘"],"watch":["a small clock that you wear on your arm","手錶"],"noon":["twelve o'clock in the middle of the day","中午"],"already":["before now; earlier than you thought","已經"],"ago":["before now; in the past","……以前"],"o'clock":["a word used after a number to tell the hour","……點鐘"],"once":["one time","一次"],"half":["one of two same-sized parts; thirty minutes","一半；半小時"],"quarter":["one of four same-sized parts; fifteen minutes","十五分鐘；四分之一"],"moment":["a very short time","片刻；一會兒"],"in":["","在…裡面"],"on":["","在…上面"],"past":["after (an hour), as in \"ten past eight\"","（時間）超過；過了"],"with":["","和；用"],"p.m.":["in the afternoon or at night, after twelve noon","下午（用在時間後）"],"a.m.":["in the morning, before twelve noon","上午（用在時間後）"],"night":["the time when it is dark and people sleep","夜晚；晚上"],"tomorrow":["the day after today","明天"],"month":["one of the twelve parts of a year","月；月份"],"years":["twelve months","年"],"months":["one of the twelve parts of a year","月；月份"],"seasons":["one of the four parts of the year, such as spring or winter","季節"],"minutes":["sixty seconds","分鐘"],"hours":["sixty minutes","小時"],"days":["twenty-four hours; the time when it is light","日子；天"],"seconds":["a very short time; sixty of them make one minute","秒"],"weeks":["seven days","星期；週"],"year":["twelve months","年"],"tuesday":["the day after Monday","星期二"],"monday":["the day after Sunday","星期一"],"friday":["the day after Thursday","星期五"],"saturday":["the day after Friday","星期六"],"sunday":["the day after Saturday","星期日"],"wednesday":["the day after Tuesday","星期三"],"yesterday":["the day before today","昨天"],"today":["this day","今天"],"weekend":["Saturday and Sunday","週末"],"tonight":["the night of today","今晚"],"march":["the third month of the year","三月"],"january":["the first month of the year","一月"],"june":["the sixth month of the year","六月"],"december":["the twelfth and last month of the year","十二月"],"february":["the second month of the year","二月"],"april":["the fourth month of the year","四月"],"july":["the seventh month of the year","七月"],"may":["the fifth month of the year","五月"],"august":["the eighth month of the year","八月"],"october":["the tenth month of the year","十月"],"september":["the ninth month of the year","九月"],"november":["the eleventh month of the year","十一月"],"summer":["the hottest season of the year","夏天"],"autumn":["the season after summer, when leaves fall from trees","秋天"],"spring":["the season after winter, when flowers start to grow","春天"],"winter":["the coldest season of the year","冬天"],"thursday":["the day after Wednesday","星期四"],"morning":["the early part of the day, before noon","早上"],"afternoon":["the part of the day between noon and evening","下午"],"evening":["the part of the day between afternoon and night","傍晚；晚上"],"now":["at this time","現在"],"soon":["a short time from now","很快；不久"],"early":["before the usual time; near the start of the day","早；早的"],"later":["at a time after now","稍後；等一下"],"late":["after the usual time; near the end of the day","晚；晚的"],"last":["coming after all the others","最後的"],"next":["coming right after this one","下一個的"],"future":["the time that will come after now","未來"]});

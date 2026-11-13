@@ -324,383 +324,383 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: Where are you going this Sunday? — A: I'm going to the ______. I want to swim in the sea.【海灘】",
+    "q": "We played in the sand and swam in the sea at the ______ all afternoon.",
     "options": [
-      "east",
-      "beach",
-      "place",
-      "north"
+      "zoo",
+      "museum",
+      "theater",
+      "beach"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你這個星期日要去哪裡？ — 我要去海灘，我想在海裡游泳。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: Where is Tom going? — A: He's going to the swimming ______. He has a swimming class.【游泳池】",
+    "q": "The hotel has a swimming ______ on the top floor. We swam there every morning.",
     "options": [
-      "department store",
-      "left",
-      "hospital",
-      "pool"
+      "park",
+      "zoo",
+      "pool",
+      "bank"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "湯姆要去哪裡？ — 他要去游泳池，他有游泳課。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: Where are Amy and Lisa going? — A: They're going to the ______. They want to fly kites.【公園】",
+    "q": "We walk our dog in the ______ every evening. There are many trees and a lot of grass there.",
     "options": [
-      "office",
-      "shop",
       "park",
-      "pool"
+      "bank",
+      "theater",
+      "museum"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "艾美和麗莎要去哪裡？ — 她們要去公園，她們想放風箏。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: Where is your class going tomorrow? — A: We're going to the ______ to see lions and monkeys.【動物園】",
+    "q": "We saw lions, elephants, and pandas at the ______ yesterday.",
     "options": [
+      "museum",
       "zoo",
-      "city",
-      "hospital",
-      "east"
+      "theater",
+      "bank"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你們班明天要去哪裡？ — 我們要去動物園看獅子和猴子。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: Where is Ben going? — A: He's going to the ______ with his dad. They want to see old things.【博物館】",
+    "q": "We saw many old paintings and things from long ago at the ______.",
     "options": [
-      "store",
-      "office",
+      "zoo",
+      "bank",
       "museum",
-      "west"
+      "pool"
     ],
     "answer": 2,
     "cn": "班要去哪裡？ — 他要和爸爸去博物館，他們想看古老的東西。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: Where are you and your sister going tonight? — A: We're going to the ______ to see a movie.【戲院】",
+    "q": "Let's go to the ______ to watch the new movie tonight. I will buy the tickets.",
     "options": [
-      "department store",
-      "museum",
-      "temple",
-      "theater"
+      "theater",
+      "zoo",
+      "bank",
+      "museum"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你和你妹妹今晚要去哪裡？ — 我們要去戲院看電影。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: Where is my pencil case? — A: It's ______, on your desk.【這裡】",
+    "q": "Come ______, please. I want to show you something on my computer.",
     "options": [
       "there",
-      "here",
-      "once",
-      "quite"
+      "already",
+      "ago",
+      "here"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "我的鉛筆盒在哪裡？ — 它在這裡，在你的書桌上。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: Where is the bus stop? — A: It's over ______, next to the big tree.【那裡】",
+    "q": "Do you see that tall tree over ______? My house is right behind it.",
     "options": [
-      "there",
       "here",
-      "not",
-      "somewhere"
+      "there",
+      "already",
+      "once"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "公車站在哪裡？ — 在那裡，在那棵大樹旁邊。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: Where is Tom's bike? — A: It's in ______ of the school gate.【前面】",
+    "q": "Short students sit in the ______ of the classroom so they can see the blackboard.",
     "options": [
-      "middle",
-      "bookstore",
+      "back",
+      "top",
       "front",
-      "south"
+      "north"
     ],
     "answer": 2,
     "cn": "湯姆的腳踏車在哪裡？ — 在校門前面。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: Where is Amy? — A: She's in the ______ of the classroom. She sits in the last row.【後面】",
+    "q": "Tall students sit at the ______ of the classroom, behind all the other students.",
     "options": [
       "back",
-      "temple",
-      "museum",
-      "factory"
+      "front",
+      "top",
+      "east"
     ],
     "answer": 0,
     "cn": "艾美在哪裡？ — 她在教室後面，她坐在最後一排。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: Where is the big tree? — A: It's in the ______ of the park.【中間】",
+    "q": "There is a small island in the ______ of the lake. Water is all around it.",
     "options": [
-      "north",
-      "country",
-      "west",
-      "middle"
+      "top",
+      "middle",
+      "front",
+      "left"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "那棵大樹在哪裡？ — 它在公園的中間。",
     "vocabIndex": 10
   },
   {
-    "q": "Q: Where is the cat? — A: It's at the ______ of the stairs.【頂端】",
+    "q": "We climbed for five hours and finally stood on the ______ of the mountain.",
     "options": [
-      "theater",
-      "top",
-      "country",
-      "church"
+      "front",
+      "back",
+      "left",
+      "top"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "貓在哪裡？ — 牠在樓梯的最上面。",
     "vocabIndex": 11
   },
   {
-    "q": "Q: Excuse me. Where is the ______? — A: It's between the classroom and the library.【洗手間】",
+    "q": "Excuse me, where is the ______? I need to wash my hands.",
     "options": [
+      "bank",
       "restroom",
-      "south",
-      "church",
-      "office"
+      "farm",
+      "factory"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "不好意思，洗手間在哪裡？ — 在教室和圖書館之間。",
     "vocabIndex": 12
   },
   {
-    "q": "Q: Where is the ______? — A: It's across from the park.【銀行】",
+    "q": "I need to go to the ______ to get some money. It closes at three thirty.",
     "options": [
-      "shop",
-      "bookstore",
-      "bank",
-      "theater"
+      "zoo",
+      "farm",
+      "temple",
+      "bank"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "銀行在哪裡？ — 在公園對面。",
     "vocabIndex": 13
   },
   {
-    "q": "Q: Where is the ______? — A: It's next to the bank.【郵局】",
+    "q": "I am going to the ______ to mail a letter and buy some stamps.",
     "options": [
-      "bank",
-      "hotel",
-      "office",
-      "post office"
+      "department store",
+      "hospital",
+      "post office",
+      "bakery"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "郵局在哪裡？ — 在銀行旁邊。",
     "vocabIndex": 14
   },
   {
-    "q": "Q: How do I get to the library? — A: Go straight and turn ______ at the corner.【左邊】",
+    "q": "In Taiwan, the driver sits on the ______ side of the car. In Japan, the driver sits on the right.",
     "options": [
-      "city",
       "left",
-      "store",
-      "bookstore"
+      "right",
+      "north",
+      "top"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "我要怎麼去圖書館？ — 直走，然後在轉角左轉。",
     "vocabIndex": 15
   },
   {
-    "q": "Q: How do I get to the train station? — A: Go straight for two blocks. It's on your ______.【右邊】",
+    "q": "Most people write with their ______ hand, but my brother uses his left.",
     "options": [
-      "country",
-      "department store",
-      "middle",
-      "right"
+      "left",
+      "front",
+      "right",
+      "back"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "我要怎麼去火車站？ — 直走兩個街區，它在你的右邊。",
     "vocabIndex": 16
   },
   {
-    "q": "Q: Excuse me. How do I get to the ______? — A: Go straight and turn left. It's on your right.【醫院】",
+    "q": "Ben broke his leg, so he had to stay in the ______ for a week. The doctors and nurses were kind.",
     "options": [
-      "north",
+      "hotel",
       "hospital",
-      "zoo",
-      "post office"
+      "bank",
+      "bakery"
     ],
     "answer": 1,
     "cn": "不好意思，我要怎麼去醫院？ — 直走然後左轉，它在你的右邊。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: How do we get to the Sun ______? — A: Turn right at the bank. It's next to the park.【旅館】",
+    "q": "We stayed at a nice ______ near the beach during our trip. Our room had a big bed.",
     "options": [
-      "zoo",
-      "north",
-      "hotel",
-      "farm"
+      "bank",
+      "bakery",
+      "factory",
+      "hotel"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "我們要怎麼去太陽旅館？ — 在銀行右轉，它在公園旁邊。",
     "vocabIndex": 18
   },
   {
-    "q": "Q: How does Ben get to the ______? — A: He walks along Main Street and turns left.【書店】",
+    "q": "I bought two novels and a dictionary at the ______ near my school.",
     "options": [
       "bookstore",
-      "top",
-      "temple",
-      "farm"
+      "bakery",
+      "bank",
+      "hospital"
     ],
     "answer": 0,
     "cn": "班怎麼去書店？ — 他沿著緬恩街走，然後左轉。",
     "vocabIndex": 19
   },
   {
-    "q": "Q: How do I get to the ______? — A: Take the MRT. It's across from the station.【百貨公司】",
+    "q": "Mom bought a dress on the third floor and shoes on the fifth floor of the ______.",
     "options": [
-      "hospital",
-      "department store",
-      "factory",
-      "place"
+      "post office",
+      "bakery",
+      "farm",
+      "department store"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "我要怎麼去百貨公司？ — 搭捷運，它在車站對面。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: How does your mom get to the ______? — A: She rides her scooter. It isn't far.【超級市場】",
+    "q": "We buy milk, eggs, meat, and vegetables at the ______ every week.",
     "options": [
-      "church",
-      "store",
-      "middle",
-      "supermarket"
+      "bookstore",
+      "supermarket",
+      "bank",
+      "bakery"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "你媽媽怎麼去超市？ — 她騎機車去，不遠。",
     "vocabIndex": 21
   },
   {
-    "q": "Q: What does Mr. Chen do at the ______? — A: He makes bread and cakes.【麵包店】",
+    "q": "The ______ on the corner sells fresh bread and cakes every morning. It smells so good.",
     "options": [
+      "bank",
+      "bookstore",
       "bakery",
-      "restroom",
-      "park",
-      "town"
+      "temple"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "陳先生在麵包店做什麼？ — 他做麵包和蛋糕。",
     "vocabIndex": 22
   },
   {
-    "q": "Q: What do people do at the ______? — A: They buy fruit, meat, and vegetables.【市場】",
+    "q": "Mom buys fresh fish and vegetables at the ______ early every morning. Farmers sell their food there.",
     "options": [
-      "left",
-      "temple",
       "market",
-      "store"
+      "bank",
+      "bakery",
+      "bookstore"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "人們在市場做什麼？ — 他們買水果、肉和蔬菜。",
     "vocabIndex": 23
   },
   {
-    "q": "Q: What does Amy do at the ______ on the corner? — A: She buys pencils and notebooks there.【商店】",
+    "q": "There is a small flower ______ next to my school. I bought roses for my teacher there.",
     "options": [
+      "bank",
       "shop",
-      "post office",
-      "middle",
-      "market"
+      "farm",
+      "temple"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "艾美在轉角的那家店做什麼？ — 她在那裡買鉛筆和筆記本。",
     "vocabIndex": 24
   },
   {
-    "q": "Q: What do you do at the ______ near your home? — A: I buy milk and bread.【商店】",
+    "q": "This ______ sells toys and games. Children love to go there after school.",
     "options": [
-      "middle",
-      "store",
-      "beach",
-      "restroom"
+      "bank",
+      "farm",
+      "church",
+      "store"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你在家附近的商店做什麼？ — 我買牛奶和麵包。",
     "vocabIndex": 25
   },
   {
-    "q": "Q: What does Lisa do at ______ on Sundays? — A: She sings songs with her family.【教堂】",
+    "q": "Many people go to the ______ on Sunday mornings to sing and pray to God.",
     "options": [
-      "east",
       "bank",
+      "factory",
       "church",
-      "south"
+      "zoo"
     ],
     "answer": 2,
     "cn": "麗莎星期日在教堂做什麼？ — 她和家人一起唱歌。",
     "vocabIndex": 26
   },
   {
-    "q": "Q: What do people do at the ______? — A: They pray and ask for good luck.【寺廟】",
+    "q": "Longshan ______ is very old and famous. People in Taipei go there to pray to the gods.",
     "options": [
-      "west",
-      "middle",
-      "museum",
-      "temple"
+      "temple",
+      "Bank",
+      "Hotel",
+      "Zoo"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "人們在寺廟做什麼？ — 他們拜拜，祈求好運。",
     "vocabIndex": 27
   },
   {
-    "q": "Q: What does your uncle do at the ______? — A: He makes shoes.【工廠】",
+    "q": "My uncle works in a car ______. He and five hundred other workers make cars there.",
     "options": [
-      "south",
-      "front",
+      "church",
       "factory",
-      "top"
+      "temple",
+      "bakery"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你叔叔在工廠做什麼？ — 他做鞋子。",
     "vocabIndex": 28
   },
   {
-    "q": "Q: What do your parents do in the ______? — A: They work on computers and answer the phone.【辦公室】",
+    "q": "My mother works in an ______. She sits at a desk and uses a computer all day.",
     "options": [
-      "west",
+      "farm",
+      "zoo",
       "office",
-      "place",
-      "shop"
+      "bakery"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你爸媽在辦公室做什麼？ — 他們用電腦工作、接電話。",
     "vocabIndex": 29
   },
   {
-    "q": "Q: What does Grandpa do on the ______? — A: He grows rice and vegetables.【農場】",
+    "q": "Grandpa grows rice and keeps pigs and chickens on his ______.",
     "options": [
       "farm",
-      "theater",
-      "front",
-      "top"
+      "bank",
+      "hotel",
+      "shop"
     ],
     "answer": 0,
     "cn": "爺爺在農場做什麼？ — 他種稻米和蔬菜。",
     "vocabIndex": 30
   },
   {
-    "q": "Q: Where do you live? — A: I live in a big ______. It's Taipei.【城市】",
+    "q": "Taipei is a big ______. Millions of people live and work there.",
     "options": [
-      "temple",
-      "church",
-      "town",
+      "farm",
+      "shop",
+      "bank",
       "city"
     ],
     "answer": 3,
@@ -708,23 +708,23 @@ const MCQS = [
     "vocabIndex": 31
   },
   {
-    "q": "Q: Where does your grandma live? — A: She lives in a small ______ near the sea.【城鎮】",
+    "q": "I live in a small ______. It has only one school and two stores, and it is much smaller than a city.",
     "options": [
-      "zoo",
       "town",
-      "bookstore",
-      "hotel"
+      "bank",
+      "hotel",
+      "pool"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你奶奶住在哪裡？ — 她住在海邊附近的一個小鎮。",
     "vocabIndex": 32
   },
   {
-    "q": "Q: Where do Tom's grandparents live? — A: They live in the ______. There are many farms there.【鄉村】",
+    "q": "I don't like big cities. I want to live in the ______, near farms, rivers, and mountains.",
     "options": [
-      "east",
-      "town",
       "bank",
+      "theater",
+      "museum",
       "country"
     ],
     "answer": 3,
@@ -732,35 +732,35 @@ const MCQS = [
     "vocabIndex": 33
   },
   {
-    "q": "Q: What ______ does Ben want to visit this summer? — A: He wants to visit Hualien.【地方】",
+    "q": "This park is a good ______ for a picnic. It is quiet and has many trees.",
     "options": [
-      "town",
-      "zoo",
+      "bank",
       "place",
+      "hotel",
       "farm"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "班今年夏天想去哪個地方？ — 他想去花蓮。",
     "vocabIndex": 34
   },
   {
-    "q": "Q: Where does Amy live? — A: She lives in Taipei, in the ______ of Taiwan.【北方】",
+    "q": "Taipei is in the ______ of Taiwan, and Kaohsiung is in the south.",
     "options": [
+      "east",
+      "west",
       "north",
-      "bakery",
-      "zoo",
-      "hotel"
+      "front"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "艾美住在哪裡？ — 她住在臺北，在臺灣北部。",
     "vocabIndex": 35
   },
   {
-    "q": "Q: Where do your cousins live? — A: They live in Kaohsiung, in the ______ of Taiwan.【南方】",
+    "q": "Kaohsiung is in the ______ of Taiwan, and Taipei is in the north.",
     "options": [
-      "right",
-      "department store",
-      "north",
+      "east",
+      "west",
+      "top",
       "south"
     ],
     "answer": 3,
@@ -768,57 +768,32 @@ const MCQS = [
     "vocabIndex": 36
   },
   {
-    "q": "Q: Where does the sun come up? — A: It comes up in the ______.【東方】",
+    "q": "The sun comes up in the ______ every morning and goes down in the west.",
     "options": [
-      "hospital",
+      "north",
       "east",
-      "bookstore",
-      "factory"
+      "south",
+      "middle"
     ],
     "answer": 1,
     "cn": "太陽從哪裡升起？ — 它從東方升起。",
     "vocabIndex": 37
   },
   {
-    "q": "Q: Where does Mr. Lee live? — A: He lives in Changhua, in the ______ of Taiwan.【西方】",
+    "q": "The sun goes down in the ______ every evening. It comes up in the east.",
     "options": [
-      "store",
-      "market",
       "west",
-      "beach"
+      "north",
+      "south",
+      "front"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "李先生住在哪裡？ — 他住在彰化，在臺灣西部。",
     "vocabIndex": 38
   }
 ];
 
 const LOOKUP = {
-  "back": {
-    "pos": "n.",
-    "en_def": "the part of your body opposite your chest and stomach",
-    "cn_def": "背"
-  },
-  "once": {
-    "pos": "adv.",
-    "en_def": "one time",
-    "cn_def": "一次"
-  },
-  "beach": {
-    "pos": "n.",
-    "en_def": "a place with sand next to the sea",
-    "cn_def": "海灘"
-  },
-  "pool": {
-    "pos": "n.",
-    "en_def": "a place full of water for swimming",
-    "cn_def": "游泳池"
-  },
-  "park": {
-    "pos": "n.",
-    "en_def": "a place with grass and trees where people walk and play",
-    "cn_def": "公園"
-  },
   "zoo": {
     "pos": "n.",
     "en_def": "a place where people can see many kinds of animals",
@@ -834,60 +809,130 @@ const LOOKUP = {
     "en_def": "a building where people watch movies or plays",
     "cn_def": "戲院"
   },
-  "here": {
-    "pos": "adv.",
-    "en_def": "in this place",
-    "cn_def": "這裡"
-  },
-  "there": {
-    "pos": "adv.",
-    "en_def": "in that place",
-    "cn_def": "那裡"
-  },
-  "front": {
+  "beach": {
     "pos": "n.",
-    "en_def": "the part of something that faces forward",
-    "cn_def": "前面"
+    "en_def": "a place with sand next to the sea",
+    "cn_def": "海灘"
   },
-  "middle": {
+  "park": {
     "pos": "n.",
-    "en_def": "the center of something",
-    "cn_def": "中間"
+    "en_def": "a place with grass and trees where people walk and play",
+    "cn_def": "公園"
   },
-  "top": {
+  "pool": {
     "pos": "n.",
-    "en_def": "the highest part of something",
-    "cn_def": "頂端"
-  },
-  "restroom": {
-    "pos": "n.",
-    "en_def": "a room with toilets in a public place",
-    "cn_def": "洗手間"
+    "en_def": "a place full of water for swimming",
+    "cn_def": "游泳池"
   },
   "bank": {
     "pos": "n.",
     "en_def": "a place where people keep their money",
     "cn_def": "銀行"
   },
-  "post office": {
+  "there": {
+    "pos": "adv.",
+    "en_def": "in that place",
+    "cn_def": "那裡"
+  },
+  "already": {
+    "pos": "adv.",
+    "en_def": "before now; earlier than you thought",
+    "cn_def": "已經"
+  },
+  "ago": {
+    "pos": "adv.",
+    "en_def": "before now; in the past",
+    "cn_def": "……以前"
+  },
+  "here": {
+    "pos": "adv.",
+    "en_def": "in this place",
+    "cn_def": "這裡"
+  },
+  "once": {
+    "pos": "adv.",
+    "en_def": "one time",
+    "cn_def": "一次"
+  },
+  "back": {
     "pos": "n.",
-    "en_def": "a place where people send letters and buy stamps",
-    "cn_def": "郵局"
+    "en_def": "the part of your body opposite your chest and stomach",
+    "cn_def": "背"
+  },
+  "top": {
+    "pos": "n.",
+    "en_def": "the highest part of something",
+    "cn_def": "頂端"
+  },
+  "front": {
+    "pos": "n.",
+    "en_def": "the part of something that faces forward",
+    "cn_def": "前面"
+  },
+  "north": {
+    "pos": "n.",
+    "en_def": "the direction at the top of a map",
+    "cn_def": "北方"
+  },
+  "east": {
+    "pos": "n.",
+    "en_def": "the direction where the sun comes up",
+    "cn_def": "東方"
+  },
+  "middle": {
+    "pos": "n.",
+    "en_def": "the center of something",
+    "cn_def": "中間"
   },
   "left": {
     "pos": "n.",
     "en_def": "the side of your body where your heart is",
     "cn_def": "左邊"
   },
-  "right": {
+  "restroom": {
     "pos": "n.",
-    "en_def": "the side opposite to left",
-    "cn_def": "右邊"
+    "en_def": "a room with toilets in a public place",
+    "cn_def": "洗手間"
+  },
+  "farm": {
+    "pos": "n.",
+    "en_def": "a place where people grow food and keep animals",
+    "cn_def": "農場"
+  },
+  "factory": {
+    "pos": "n.",
+    "en_def": "a building where people make things with machines",
+    "cn_def": "工廠"
+  },
+  "temple": {
+    "pos": "n.",
+    "en_def": "a building where people go to pray to gods",
+    "cn_def": "寺廟"
+  },
+  "department store": {
+    "pos": "n.",
+    "en_def": "a very big store that sells many kinds of things on different floors",
+    "cn_def": "百貨公司"
   },
   "hospital": {
     "pos": "n.",
     "en_def": "a place where doctors and nurses take care of sick people",
     "cn_def": "醫院"
+  },
+  "post office": {
+    "pos": "n.",
+    "en_def": "a place where people send letters and buy stamps",
+    "cn_def": "郵局"
+  },
+  "bakery": {
+    "pos": "n.",
+    "en_def": "a shop that makes and sells bread and cakes",
+    "cn_def": "麵包店"
+  },
+  "right": {
+    "pos": "n.",
+    "en_def": "the side opposite to left",
+    "cn_def": "右邊"
   },
   "hotel": {
     "pos": "n.",
@@ -899,20 +944,10 @@ const LOOKUP = {
     "en_def": "a shop that sells books",
     "cn_def": "書店"
   },
-  "department store": {
-    "pos": "n.",
-    "en_def": "a very big store that sells many kinds of things on different floors",
-    "cn_def": "百貨公司"
-  },
   "supermarket": {
     "pos": "n.",
     "en_def": "a big store that sells food and things for the home",
     "cn_def": "超級市場"
-  },
-  "bakery": {
-    "pos": "n.",
-    "en_def": "a shop that makes and sells bread and cakes",
-    "cn_def": "麵包店"
   },
   "market": {
     "pos": "n.",
@@ -924,35 +959,20 @@ const LOOKUP = {
     "en_def": "a small place where people buy things",
     "cn_def": "商店"
   },
-  "store": {
-    "pos": "n.",
-    "en_def": "a place where people buy things",
-    "cn_def": "商店"
-  },
   "church": {
     "pos": "n.",
     "en_def": "a building where some people go to pray to God",
     "cn_def": "教堂"
   },
-  "temple": {
+  "store": {
     "pos": "n.",
-    "en_def": "a building where people go to pray to gods",
-    "cn_def": "寺廟"
-  },
-  "factory": {
-    "pos": "n.",
-    "en_def": "a building where people make things with machines",
-    "cn_def": "工廠"
+    "en_def": "a place where people buy things",
+    "cn_def": "商店"
   },
   "office": {
     "pos": "n.",
     "en_def": "a room or building where people work at desks",
     "cn_def": "辦公室"
-  },
-  "farm": {
-    "pos": "n.",
-    "en_def": "a place where people grow food and keep animals",
-    "cn_def": "農場"
   },
   "city": {
     "pos": "n.",
@@ -974,40 +994,15 @@ const LOOKUP = {
     "en_def": "a point or an area, like a town, a building, or a room",
     "cn_def": "地方"
   },
-  "north": {
-    "pos": "n.",
-    "en_def": "the direction at the top of a map",
-    "cn_def": "北方"
-  },
-  "south": {
-    "pos": "n.",
-    "en_def": "the direction at the bottom of a map",
-    "cn_def": "南方"
-  },
-  "east": {
-    "pos": "n.",
-    "en_def": "the direction where the sun comes up",
-    "cn_def": "東方"
-  },
   "west": {
     "pos": "n.",
     "en_def": "the direction where the sun goes down",
     "cn_def": "西方"
   },
-  "somewhere": {
-    "pos": "adv.",
-    "en_def": "in a place, but we do not know or say where",
-    "cn_def": "某處"
-  },
-  "quite": {
-    "pos": "adv.",
-    "en_def": "more than a little, but not very",
-    "cn_def": "相當"
-  },
-  "not": {
-    "pos": "adv.",
-    "en_def": "a word that gives the opposite meaning",
-    "cn_def": "不（否定）"
+  "south": {
+    "pos": "n.",
+    "en_def": "the direction at the bottom of a map",
+    "cn_def": "南方"
   }
 };
 

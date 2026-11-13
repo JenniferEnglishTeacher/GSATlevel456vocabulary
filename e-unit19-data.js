@@ -553,7 +553,7 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: What's your __________? — A: I'm 150 cm tall.【身高；高度】",
+    "question": "What is your __________? I am 160 centimeters tall.",
     "options": [
      {
       "letter": "A",
@@ -561,7 +561,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "bottle"
+      "text": "shape"
      },
      {
       "letter": "C",
@@ -569,14 +569,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "shape"
+      "text": "row"
      }
     ],
     "answer": "C",
     "vi": 0
    },
    {
-    "question": "Q: How tall is your brother? — A: He is 170 __________ tall.【公分】",
+    "question": "My brother is 175 __________ tall. He is the tallest boy in his class.",
     "options": [
      {
       "letter": "A",
@@ -584,76 +584,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "centimeters"
-     },
-     {
-      "letter": "C",
-      "text": "inches"
-     },
-     {
-      "letter": "D",
       "text": "kilograms"
-     }
-    ],
-    "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "Q: How long is the snake? — A: It's about six __________ long.【呎】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "feet"
-     },
-     {
-      "letter": "B",
-      "text": "line"
-     },
-     {
-      "letter": "C",
-      "text": "circle"
-     },
-     {
-      "letter": "D",
-      "text": "dozen"
-     }
-    ],
-    "answer": "A",
-    "vi": 2
-   },
-   {
-    "question": "Q: How long is your ruler? — A: It's twelve __________ long. That's one foot.【英吋】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "centimeters"
-     },
-     {
-      "letter": "B",
-      "text": "glasses"
-     },
-     {
-      "letter": "C",
-      "text": "dots"
-     },
-     {
-      "letter": "D",
-      "text": "inches"
-     }
-    ],
-    "answer": "D",
-    "vi": 3
-   },
-   {
-    "question": "Q: How far do you walk to the store? — A: I walk about 100 __________. It's very near.【碼】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "kilos"
-     },
-     {
-      "letter": "B",
-      "text": "yards"
      },
      {
       "letter": "C",
@@ -664,46 +595,115 @@ window.FLASHCARD_UNITS = {
       "text": "centimeters"
      }
     ],
-    "answer": "B",
-    "vi": 4
+    "answer": "D",
+    "vi": 1
    },
    {
-    "question": "Q: How far does your uncle run every morning? — A: He runs three __________.【英里；哩】",
+    "question": "The basketball player is seven __________ tall. That is about 213 centimeters!",
     "options": [
      {
       "letter": "A",
-      "text": "glasses"
+      "text": "feet"
      },
      {
       "letter": "B",
-      "text": "centimeters"
-     },
-     {
-      "letter": "C",
       "text": "miles"
      },
      {
+      "letter": "C",
+      "text": "grams"
+     },
+     {
       "letter": "D",
-      "text": "points"
+      "text": "pounds"
      }
     ],
-    "answer": "C",
-    "vi": 5
+    "answer": "A",
+    "vi": 2
    },
    {
-    "question": "Q: Does Ben live __________ from school? — A: Yes, he does. He lives five miles from school, so he goes by bus.【遠的】",
+    "question": "There are twelve __________ in a foot. One of them is about two and a half centimeters.",
     "options": [
      {
       "letter": "A",
-      "text": "straight"
+      "text": "miles"
      },
      {
       "letter": "B",
-      "text": "little"
+      "text": "inches"
      },
      {
       "letter": "C",
-      "text": "lighter"
+      "text": "yards"
+     },
+     {
+      "letter": "D",
+      "text": "pounds"
+     }
+    ],
+    "answer": "B",
+    "vi": 3
+   },
+   {
+    "question": "In American football, the field is one hundred __________ long. Each one is three feet.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "yards"
+     },
+     {
+      "letter": "B",
+      "text": "miles"
+     },
+     {
+      "letter": "C",
+      "text": "grams"
+     },
+     {
+      "letter": "D",
+      "text": "pounds"
+     }
+    ],
+    "answer": "A",
+    "vi": 4
+   },
+   {
+    "question": "It is about 250 __________ from Taipei to Kaohsiung. Americans use this instead of kilometers.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "inches"
+     },
+     {
+      "letter": "B",
+      "text": "miles"
+     },
+     {
+      "letter": "C",
+      "text": "grams"
+     },
+     {
+      "letter": "D",
+      "text": "pounds"
+     }
+    ],
+    "answer": "B",
+    "vi": 5
+   },
+   {
+    "question": "The station is too __________ to walk to. It is ten kilometers away, so let's take a bus.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "high"
+     },
+     {
+      "letter": "B",
+      "text": "deep"
+     },
+     {
+      "letter": "C",
+      "text": "wide"
      },
      {
       "letter": "D",
@@ -714,38 +714,291 @@ window.FLASHCARD_UNITS = {
     "vi": 6
    },
    {
-    "question": "Q: How __________ is Taipei 101? — A: It's about 1,670 feet.【高的】",
+    "question": "Mt. Jade is very __________. It is almost 4,000 meters above the sea.",
     "options": [
      {
       "letter": "A",
-      "text": "high"
-     },
-     {
-      "letter": "B",
-      "text": "medium"
-     },
-     {
-      "letter": "C",
       "text": "deep"
      },
      {
+      "letter": "B",
+      "text": "wide"
+     },
+     {
+      "letter": "C",
+      "text": "high"
+     },
+     {
       "letter": "D",
-      "text": "little"
+      "text": "round"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 7
    },
    {
-    "question": "Q: How __________ is the pool? — A: It's about five feet. Don't swim there alone.【深的】",
+    "question": "Don't swim in that part of the lake. The water there is very __________, and your feet can't touch the bottom.",
     "options": [
      {
       "letter": "A",
-      "text": "little"
+      "text": "deep"
      },
      {
       "letter": "B",
-      "text": "lower"
+      "text": "high"
+     },
+     {
+      "letter": "C",
+      "text": "wide"
+     },
+     {
+      "letter": "D",
+      "text": "round"
+     }
+    ],
+    "answer": "A",
+    "vi": 8
+   },
+   {
+    "question": "The river is fifty meters __________. We need a boat to get to the other side.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "high"
+     },
+     {
+      "letter": "B",
+      "text": "wide"
+     },
+     {
+      "letter": "C",
+      "text": "round"
+     },
+     {
+      "letter": "D",
+      "text": "straight"
+     }
+    ],
+    "answer": "B",
+    "vi": 9
+   },
+   {
+    "question": "I need 200 __________ of sugar to make this cake. That is not very heavy.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "miles"
+     },
+     {
+      "letter": "B",
+      "text": "inches"
+     },
+     {
+      "letter": "C",
+      "text": "yards"
+     },
+     {
+      "letter": "D",
+      "text": "grams"
+     }
+    ],
+    "answer": "D",
+    "vi": 10
+   },
+   {
+    "question": "I weigh fifty __________. My little sister is lighter, so she weighs only thirty.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "centimeters"
+     },
+     {
+      "letter": "B",
+      "text": "miles"
+     },
+     {
+      "letter": "C",
+      "text": "kilograms"
+     },
+     {
+      "letter": "D",
+      "text": "inches"
+     }
+    ],
+    "answer": "C",
+    "vi": 11
+   },
+   {
+    "question": "In America, people buy meat in __________. One of them is a little less than half a kilogram.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "inches"
+     },
+     {
+      "letter": "B",
+      "text": "miles"
+     },
+     {
+      "letter": "C",
+      "text": "yards"
+     },
+     {
+      "letter": "D",
+      "text": "pounds"
+     }
+    ],
+    "answer": "D",
+    "vi": 12
+   },
+   {
+    "question": "What __________ is the moon tonight? It is round like a ball.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "shape"
+     },
+     {
+      "letter": "B",
+      "text": "size"
+     },
+     {
+      "letter": "C",
+      "text": "height"
+     },
+     {
+      "letter": "D",
+      "text": "row"
+     }
+    ],
+    "answer": "A",
+    "vi": 13
+   },
+   {
+    "question": "A ball is __________. The sun, the moon, and oranges have this shape, too.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "square"
+     },
+     {
+      "letter": "B",
+      "text": "round"
+     },
+     {
+      "letter": "C",
+      "text": "straight"
+     },
+     {
+      "letter": "D",
+      "text": "wide"
+     }
+    ],
+    "answer": "B",
+    "vi": 14
+   },
+   {
+    "question": "The teacher asked us to sit in a __________ on the floor. Then everyone could see each other.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dot"
+     },
+     {
+      "letter": "B",
+      "text": "point"
+     },
+     {
+      "letter": "C",
+      "text": "circle"
+     },
+     {
+      "letter": "D",
+      "text": "angle"
+     }
+    ],
+    "answer": "C",
+    "vi": 15
+   },
+   {
+    "question": "A __________ box has four sides of the same length. This one is ten centimeters on each side.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "round"
+     },
+     {
+      "letter": "B",
+      "text": "square"
+     },
+     {
+      "letter": "C",
+      "text": "straight"
+     },
+     {
+      "letter": "D",
+      "text": "deep"
+     }
+    ],
+    "answer": "B",
+    "vi": 16
+   },
+   {
+    "question": "A triangle has three sides and three __________. A square has four of each.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "angles"
+     },
+     {
+      "letter": "B",
+      "text": "rows"
+     },
+     {
+      "letter": "C",
+      "text": "pairs"
+     },
+     {
+      "letter": "D",
+      "text": "bottles"
+     }
+    ],
+    "answer": "A",
+    "vi": 17
+   },
+   {
+    "question": "Please stand in __________ and wait for the bus. Don't push the people in front of you.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "shape"
+     },
+     {
+      "letter": "B",
+      "text": "size"
+     },
+     {
+      "letter": "C",
+      "text": "line"
+     },
+     {
+      "letter": "D",
+      "text": "dot"
+     }
+    ],
+    "answer": "C",
+    "vi": 18
+   },
+   {
+    "question": "Go __________ down this road for two blocks. Don't turn left or right.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "round"
+     },
+     {
+      "letter": "B",
+      "text": "wide"
      },
      {
       "letter": "C",
@@ -753,298 +1006,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "bigger"
-     }
-    ],
-    "answer": "C",
-    "vi": 8
-   },
-   {
-    "question": "Q: How __________ is the road? — A: It's about twenty feet.【寬的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "longer"
-     },
-     {
-      "letter": "B",
-      "text": "shorter"
-     },
-     {
-      "letter": "C",
-      "text": "high"
-     },
-     {
-      "letter": "D",
-      "text": "wide"
-     }
-    ],
-    "answer": "D",
-    "vi": 9
-   },
-   {
-    "question": "Q: How much sugar do you need for the cake? — A: I need 200 __________ of sugar.【公克】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "grams"
-     },
-     {
-      "letter": "B",
-      "text": "glasses"
-     },
-     {
-      "letter": "C",
-      "text": "pounds"
-     },
-     {
-      "letter": "D",
-      "text": "kilograms"
-     }
-    ],
-    "answer": "A",
-    "vi": 10
-   },
-   {
-    "question": "Q: How much does your dog weigh? — A: It weighs ten __________.【公斤】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "points"
-     },
-     {
-      "letter": "B",
-      "text": "kilograms"
-     },
-     {
-      "letter": "C",
-      "text": "angles"
-     },
-     {
-      "letter": "D",
-      "text": "glasses"
-     }
-    ],
-    "answer": "B",
-    "vi": 11
-   },
-   {
-    "question": "Q: How much does the baby weigh? — A: She weighs seven __________.【磅】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "inches"
-     },
-     {
-      "letter": "B",
-      "text": "angles"
-     },
-     {
-      "letter": "C",
-      "text": "pounds"
-     },
-     {
-      "letter": "D",
-      "text": "glasses"
-     }
-    ],
-    "answer": "C",
-    "vi": 12
-   },
-   {
-    "question": "Q: What __________ do you like? — A: I like stars and hearts.【形狀】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pack"
-     },
-     {
-      "letter": "B",
-      "text": "circle"
-     },
-     {
-      "letter": "C",
-      "text": "row"
-     },
-     {
-      "letter": "D",
-      "text": "shape"
-     }
-    ],
-    "answer": "D",
-    "vi": 13
-   },
-   {
-    "question": "Q: What shape is the moon tonight? — A: It's __________ and bright.【圓形的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "round"
-     },
-     {
-      "letter": "B",
-      "text": "high"
-     },
-     {
-      "letter": "C",
-      "text": "lower"
-     },
-     {
-      "letter": "D",
       "text": "straight"
      }
     ],
-    "answer": "A",
-    "vi": 14
-   },
-   {
-    "question": "Q: What does the teacher draw on the blackboard? — A: She draws a big __________.【圓圈】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "row"
-     },
-     {
-      "letter": "B",
-      "text": "circle"
-     },
-     {
-      "letter": "C",
-      "text": "size"
-     },
-     {
-      "letter": "D",
-      "text": "pack"
-     }
-    ],
-    "answer": "B",
-    "vi": 15
-   },
-   {
-    "question": "Q: What shape is the gift box? — A: It's __________. It has four sides.【正方形的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "smaller"
-     },
-     {
-      "letter": "B",
-      "text": "large"
-     },
-     {
-      "letter": "C",
-      "text": "round"
-     },
-     {
-      "letter": "D",
-      "text": "square"
-     }
-    ],
     "answer": "D",
-    "vi": 16
-   },
-   {
-    "question": "Q: How many __________ does a square have? — A: It has four.【角；邊角】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "miles"
-     },
-     {
-      "letter": "B",
-      "text": "centimeters"
-     },
-     {
-      "letter": "C",
-      "text": "angles"
-     },
-     {
-      "letter": "D",
-      "text": "glasses"
-     }
-    ],
-    "answer": "C",
-    "vi": 17
-   },
-   {
-    "question": "Q: What do the students stand in at lunch time? — A: They stand in a __________.【線；行列】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "bottle"
-     },
-     {
-      "letter": "B",
-      "text": "line"
-     },
-     {
-      "letter": "C",
-      "text": "feet"
-     },
-     {
-      "letter": "D",
-      "text": "package"
-     }
-    ],
-    "answer": "B",
-    "vi": 18
-   },
-   {
-    "question": "Q: What does Amy draw with her ruler? — A: She draws a __________ line.【直的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "straight"
-     },
-     {
-      "letter": "B",
-      "text": "shorter"
-     },
-     {
-      "letter": "C",
-      "text": "wide"
-     },
-     {
-      "letter": "D",
-      "text": "little"
-     }
-    ],
-    "answer": "A",
     "vi": 19
    },
    {
-    "question": "Q: What do your new socks look like? — A: They're white with red __________.【點】",
+    "question": "Her dress is white with small red __________. They look like little round candies.",
     "options": [
      {
       "letter": "A",
-      "text": "miles"
-     },
-     {
-      "letter": "B",
-      "text": "grams"
-     },
-     {
-      "letter": "C",
-      "text": "inches"
-     },
-     {
-      "letter": "D",
       "text": "dots"
-     }
-    ],
-    "answer": "D",
-    "vi": 20
-   },
-   {
-    "question": "Q: How many __________ does your team get? — A: We get twenty-five. We win the game!【分數；得分】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "inches"
      },
      {
       "letter": "B",
-      "text": "points"
+      "text": "rows"
      },
      {
       "letter": "C",
@@ -1052,60 +1029,83 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "pounds"
-     }
-    ],
-    "answer": "B",
-    "vi": 21
-   },
-   {
-    "question": "Q: Where do you sit in class? — A: I sit in the first __________.【一排】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "row"
-     },
-     {
-      "letter": "B",
-      "text": "dozen"
-     },
-     {
-      "letter": "C",
-      "text": "pair"
-     },
-     {
-      "letter": "D",
-      "text": "feet"
+      "text": "sizes"
      }
     ],
     "answer": "A",
-    "vi": 22
+    "vi": 20
    },
    {
-    "question": "Q: What __________ do you wear? — A: I wear S. I'm not very tall.【尺寸】",
+    "question": "Our team got ninety __________ in the basketball game, so we won.",
     "options": [
      {
       "letter": "A",
-      "text": "pair"
+      "text": "dots"
      },
      {
       "letter": "B",
-      "text": "height"
+      "text": "rows"
      },
      {
       "letter": "C",
-      "text": "size"
+      "text": "points"
      },
      {
       "letter": "D",
-      "text": "feet"
+      "text": "lines"
      }
     ],
     "answer": "C",
+    "vi": 21
+   },
+   {
+    "question": "We sat in the front __________ at the theater. We were so close that we could see the actors' faces.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dot"
+     },
+     {
+      "letter": "B",
+      "text": "size"
+     },
+     {
+      "letter": "C",
+      "text": "shape"
+     },
+     {
+      "letter": "D",
+      "text": "row"
+     }
+    ],
+    "answer": "D",
+    "vi": 22
+   },
+   {
+    "question": "These shoes are too small. Do you have them in a bigger __________?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "shape"
+     },
+     {
+      "letter": "B",
+      "text": "size"
+     },
+     {
+      "letter": "C",
+      "text": "height"
+     },
+     {
+      "letter": "D",
+      "text": "row"
+     }
+    ],
+    "answer": "B",
     "vi": 23
    },
    {
-    "question": "Q: What size do you and your brother wear? — A: We wear __________.【中等的】",
+    "question": "I don't want a small or a large Coke. I'd like a __________ one, please.",
     "options": [
      {
       "letter": "A",
@@ -1113,45 +1113,183 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "straight"
+      "text": "round"
      },
      {
       "letter": "C",
-      "text": "longer"
+      "text": "straight"
      },
      {
       "letter": "D",
-      "text": "lighter"
+      "text": "deep"
      }
     ],
     "answer": "A",
     "vi": 24
    },
    {
-    "question": "Q: What size Coke does Tom want? — A: He wants a __________ Coke.【大的】",
+    "question": "We are very hungry. Let's order a __________ pizza, not a small one.",
     "options": [
      {
       "letter": "A",
-      "text": "lighter"
+      "text": "low"
      },
      {
       "letter": "B",
-      "text": "round"
+      "text": "light"
      },
      {
       "letter": "C",
-      "text": "large"
+      "text": "short"
      },
      {
       "letter": "D",
-      "text": "wide"
+      "text": "large"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 25
    },
    {
-    "question": "Q: How much water do you want? — A: I want a __________ of water, please.【瓶子】",
+    "question": "I bought a __________ of water at the convenience store. I drank it all after the game.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pair"
+     },
+     {
+      "letter": "B",
+      "text": "dozen"
+     },
+     {
+      "letter": "C",
+      "text": "bottle"
+     },
+     {
+      "letter": "D",
+      "text": "row"
+     }
+    ],
+    "answer": "C",
+    "vi": 26
+   },
+   {
+    "question": "Would you like a __________ of coffee? I just made a fresh pot.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pair"
+     },
+     {
+      "letter": "B",
+      "text": "cup"
+     },
+     {
+      "letter": "C",
+      "text": "piece"
+     },
+     {
+      "letter": "D",
+      "text": "dozen"
+     }
+    ],
+    "answer": "B",
+    "vi": 27
+   },
+   {
+    "question": "I drink eight __________ of water every day. The doctor says it is good for me.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "glasses"
+     },
+     {
+      "letter": "B",
+      "text": "pairs"
+     },
+     {
+      "letter": "C",
+      "text": "pieces"
+     },
+     {
+      "letter": "D",
+      "text": "rows"
+     }
+    ],
+    "answer": "A",
+    "vi": 28
+   },
+   {
+    "question": "Would you like a __________ of cake? I cut it into eight.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pair"
+     },
+     {
+      "letter": "B",
+      "text": "dozen"
+     },
+     {
+      "letter": "C",
+      "text": "piece"
+     },
+     {
+      "letter": "D",
+      "text": "bottle"
+     }
+    ],
+    "answer": "C",
+    "vi": 29
+   },
+   {
+    "question": "We need a __________ of cards to play this game. There are fifty-two in it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pair"
+     },
+     {
+      "letter": "B",
+      "text": "bottle"
+     },
+     {
+      "letter": "C",
+      "text": "piece"
+     },
+     {
+      "letter": "D",
+      "text": "pack"
+     }
+    ],
+    "answer": "D",
+    "vi": 30
+   },
+   {
+    "question": "The mailman brought a big __________ for you. It is a box from Grandma, and it is very heavy.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pair"
+     },
+     {
+      "letter": "B",
+      "text": "package"
+     },
+     {
+      "letter": "C",
+      "text": "dozen"
+     },
+     {
+      "letter": "D",
+      "text": "row"
+     }
+    ],
+    "answer": "B",
+    "vi": 31
+   },
+   {
+    "question": "I bought a new __________ of shoes yesterday. The left one fits, but the right one is a little small.",
     "options": [
      {
       "letter": "A",
@@ -1160,144 +1298,6 @@ window.FLASHCARD_UNITS = {
      {
       "letter": "B",
       "text": "bottle"
-     },
-     {
-      "letter": "C",
-      "text": "cup"
-     },
-     {
-      "letter": "D",
-      "text": "dozen"
-     }
-    ],
-    "answer": "B",
-    "vi": 26
-   },
-   {
-    "question": "Q: What does Grandpa drink every morning? — A: He drinks a __________ of hot tea.【茶杯；一杯】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "circle"
-     },
-     {
-      "letter": "B",
-      "text": "dozen"
-     },
-     {
-      "letter": "C",
-      "text": "feet"
-     },
-     {
-      "letter": "D",
-      "text": "cup"
-     }
-    ],
-    "answer": "D",
-    "vi": 27
-   },
-   {
-    "question": "Q: How much milk does Amy drink every day? — A: She drinks two __________ of milk.【玻璃杯；一杯】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "centimeters"
-     },
-     {
-      "letter": "B",
-      "text": "glasses"
-     },
-     {
-      "letter": "C",
-      "text": "kilos"
-     },
-     {
-      "letter": "D",
-      "text": "inches"
-     }
-    ],
-    "answer": "B",
-    "vi": 28
-   },
-   {
-    "question": "Q: How much cake do you want? — A: I want a __________ of cake.【片；塊】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "feet"
-     },
-     {
-      "letter": "B",
-      "text": "shape"
-     },
-     {
-      "letter": "C",
-      "text": "piece"
-     },
-     {
-      "letter": "D",
-      "text": "line"
-     }
-    ],
-    "answer": "C",
-    "vi": 29
-   },
-   {
-    "question": "Q: What do the kids buy at the store? — A: They buy a __________ of cookies.【包】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pack"
-     },
-     {
-      "letter": "B",
-      "text": "shape"
-     },
-     {
-      "letter": "C",
-      "text": "row"
-     },
-     {
-      "letter": "D",
-      "text": "line"
-     }
-    ],
-    "answer": "A",
-    "vi": 30
-   },
-   {
-    "question": "Q: What does Mom get from Grandma today? — A: She gets a big __________. There are cookies in it.【包裹】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cup"
-     },
-     {
-      "letter": "B",
-      "text": "size"
-     },
-     {
-      "letter": "C",
-      "text": "feet"
-     },
-     {
-      "letter": "D",
-      "text": "package"
-     }
-    ],
-    "answer": "D",
-    "vi": 31
-   },
-   {
-    "question": "Q: What does Ben need for PE class? — A: He needs a new __________ of shoes.【一雙；一對】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "circle"
-     },
-     {
-      "letter": "B",
-      "text": "shape"
      },
      {
       "letter": "C",
@@ -1305,49 +1305,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "dozen"
+      "text": "cup"
      }
     ],
     "answer": "C",
     "vi": 32
    },
    {
-    "question": "Q: How many eggs do we need for the cake? — A: We need a __________ eggs.【（一）打】",
+    "question": "I bought a __________ eggs at the supermarket. We ate two this morning, so there are ten left.",
     "options": [
      {
       "letter": "A",
-      "text": "shape"
-     },
-     {
-      "letter": "B",
       "text": "dozen"
      },
      {
+      "letter": "B",
+      "text": "piece"
+     },
+     {
       "letter": "C",
-      "text": "package"
+      "text": "bottle"
      },
      {
       "letter": "D",
-      "text": "bottle"
+      "text": "pack"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 33
    },
    {
-    "question": "Q: How much rice do your parents buy? — A: They buy two __________ of rice.【公斤（簡稱）】",
+    "question": "Mom bought two __________ of pork at the market. It was heavy to carry home.",
     "options": [
      {
       "letter": "A",
-      "text": "inches"
+      "text": "pairs"
      },
      {
       "letter": "B",
-      "text": "glasses"
+      "text": "rows"
      },
      {
       "letter": "C",
-      "text": "kilograms"
+      "text": "dots"
      },
      {
       "letter": "D",
@@ -1358,7 +1358,30 @@ window.FLASHCARD_UNITS = {
     "vi": 34
    },
    {
-    "question": "Q: Is an elephant small? — A: No, it isn't. It's much __________ than a horse.【大的】",
+    "question": "An elephant is much __________ than a mouse. It is the largest animal on land.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "smaller"
+     },
+     {
+      "letter": "B",
+      "text": "bigger"
+     },
+     {
+      "letter": "C",
+      "text": "shorter"
+     },
+     {
+      "letter": "D",
+      "text": "lighter"
+     }
+    ],
+    "answer": "B",
+    "vi": 35
+   },
+   {
+    "question": "A cat is __________ than a tiger. You can hold it in your arms.",
     "options": [
      {
       "letter": "A",
@@ -1366,30 +1389,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "round"
-     },
-     {
-      "letter": "C",
-      "text": "deep"
-     },
-     {
-      "letter": "D",
-      "text": "lighter"
-     }
-    ],
-    "answer": "A",
-    "vi": 35
-   },
-   {
-    "question": "Q: Is a mouse big? — A: No, it isn't. It's __________ than a cat.【小的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "large"
-     },
-     {
-      "letter": "B",
-      "text": "high"
+      "text": "longer"
      },
      {
       "letter": "C",
@@ -1397,18 +1397,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "lighter"
+      "text": "lower"
      }
     ],
     "answer": "C",
     "vi": 36
    },
    {
-    "question": "Q: Do you have a big dog? — A: No, I don't. I have a __________ dog. It's very cute.【小的】",
+    "question": "Look at that __________ baby bird! It is so small that it can sit in my hand.",
     "options": [
      {
       "letter": "A",
-      "text": "lighter"
+      "text": "large"
      },
      {
       "letter": "B",
@@ -1416,91 +1416,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "straight"
+      "text": "long"
      },
      {
       "letter": "D",
-      "text": "round"
+      "text": "deep"
      }
     ],
     "answer": "B",
     "vi": 37
    },
    {
-    "question": "Q: Does Amy have short hair? — A: No, she doesn't. Her hair is __________ than mine.【長的】",
+    "question": "A snake is much __________ than a worm. Some are five meters from head to tail.",
     "options": [
      {
       "letter": "A",
-      "text": "longer"
-     },
-     {
-      "letter": "B",
-      "text": "deep"
-     },
-     {
-      "letter": "C",
-      "text": "smaller"
-     },
-     {
-      "letter": "D",
-      "text": "square"
-     }
-    ],
-    "answer": "A",
-    "vi": 38
-   },
-   {
-    "question": "Q: Is your pencil long? — A: No, it isn't. It's __________ than my pen.【短的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "square"
-     },
-     {
-      "letter": "B",
-      "text": "large"
-     },
-     {
-      "letter": "C",
-      "text": "far"
-     },
-     {
-      "letter": "D",
       "text": "shorter"
-     }
-    ],
-    "answer": "D",
-    "vi": 39
-   },
-   {
-    "question": "Q: Is this chair high? — A: No, it isn't. It's __________ than that table.【低的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "medium"
-     },
-     {
-      "letter": "B",
-      "text": "smaller"
-     },
-     {
-      "letter": "C",
-      "text": "lower"
-     },
-     {
-      "letter": "D",
-      "text": "far"
-     }
-    ],
-    "answer": "C",
-    "vi": 40
-   },
-   {
-    "question": "Q: Is your schoolbag heavy? — A: No, it isn't. It's __________ than Ben's bag.【輕的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "straight"
      },
      {
       "letter": "B",
@@ -1508,17 +1439,86 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "large"
+      "text": "smaller"
      },
      {
       "letter": "D",
-      "text": "smaller"
+      "text": "longer"
+     }
+    ],
+    "answer": "D",
+    "vi": 38
+   },
+   {
+    "question": "My hair is __________ than yours. Mine only reaches my ears, but yours reaches your shoulders.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "shorter"
+     },
+     {
+      "letter": "B",
+      "text": "longer"
+     },
+     {
+      "letter": "C",
+      "text": "bigger"
+     },
+     {
+      "letter": "D",
+      "text": "lower"
+     }
+    ],
+    "answer": "A",
+    "vi": 39
+   },
+   {
+    "question": "This table is __________ than that one. It is only forty centimeters high.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "longer"
+     },
+     {
+      "letter": "B",
+      "text": "lower"
+     },
+     {
+      "letter": "C",
+      "text": "lighter"
+     },
+     {
+      "letter": "D",
+      "text": "bigger"
      }
     ],
     "answer": "B",
+    "vi": 40
+   },
+   {
+    "question": "This bag is __________ than that one. It has only one book in it, so it is easy to carry.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "longer"
+     },
+     {
+      "letter": "B",
+      "text": "lower"
+     },
+     {
+      "letter": "C",
+      "text": "shorter"
+     },
+     {
+      "letter": "D",
+      "text": "lighter"
+     }
+    ],
+    "answer": "D",
     "vi": 41
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"shorter":["not tall; not long","矮的；短的"],"feet":["the part at the end of your leg that you stand on","腳"],"little":["not much","很少的（不可數）"],"cup":["a small container with a handle, used for drinking","茶杯；杯子"],"glasses":["two pieces of glass you wear in front of your eyes to see better","眼鏡"],"height":["how tall or high something is","身高；高度"],"centimeters":["a small unit of length; 100 of them make one meter","公分"],"inches":["a small unit of length; about 2.5 centimeters","英吋"],"yards":["a unit of length; it is 3 feet, or about 91 centimeters","碼"],"miles":["a unit of length for long distances; about 1.6 kilometers","英里；哩"],"far":["not near; a long way away","遠的"],"high":["a long way up from the ground","高的"],"deep":["going a long way down, like the sea","深的"],"wide":["big from one side to the other","寬的"],"grams":["a very small unit of weight","公克"],"kilograms":["a unit of weight; it is 1,000 grams","公斤"],"pounds":["a unit of weight; a little less than half a kilogram","磅"],"shape":["the form of something, like a circle or a square","形狀"],"round":["having the shape of a ball or a circle","圓形的"],"circle":["a round shape like the letter O","圓圈"],"square":["having four sides of the same length","正方形的"],"angles":["the corner where two lines meet","角；邊角"],"line":["a long thin mark; people or things standing one behind another","線；行列"],"straight":["not bending or turning","直的"],"dots":["a very small round mark","點"],"points":["a number you get in a game or on a test","分數；得分"],"row":["a line of people or things side by side","一排"],"size":["how big or small something is","尺寸"],"medium":["not big and not small; in the middle","中等的"],"large":["big","大的"],"bottle":["a tall container made of glass or plastic for drinks","瓶子"],"piece":["one part of something","片；塊"],"pack":["a small box or bag with many of the same things inside","包"],"package":["a box or bag that is sent by mail","包裹"],"pair":["two things of the same kind that are used together, like shoes","一雙；一對"],"dozen":["a group of twelve","（一）打"],"kilos":["a short word for kilogram","公斤（簡稱）"],"bigger":["large; not small","大的"],"smaller":["not big; little","小的"],"longer":["going far from one end to the other; not short","長的"],"lower":["not high; near the ground","低的"],"lighter":["not heavy; easy to carry","輕的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"size":["how big or small something is","尺寸"],"shape":["the form of something, like a circle or a square","形狀"],"height":["how tall or high something is","身高；高度"],"row":["a line of people or things side by side","一排"],"grams":["a very small unit of weight","公克"],"kilograms":["a unit of weight; it is 1,000 grams","公斤"],"pounds":["a unit of weight; a little less than half a kilogram","磅"],"centimeters":["a small unit of length; 100 of them make one meter","公分"],"feet":["the part at the end of your leg that you stand on","腳"],"miles":["a unit of length for long distances; about 1.6 kilometers","英里；哩"],"inches":["a small unit of length; about 2.5 centimeters","英吋"],"yards":["a unit of length; it is 3 feet, or about 91 centimeters","碼"],"high":["a long way up from the ground","高的"],"deep":["going a long way down, like the sea","深的"],"wide":["big from one side to the other","寬的"],"far":["not near; a long way away","遠的"],"round":["having the shape of a ball or a circle","圓形的"],"straight":["not bending or turning","直的"],"square":["having four sides of the same length","正方形的"],"dot":["a very small round mark","點"],"point":["a number you get in a game or on a test","分數；得分"],"circle":["a round shape like the letter O","圓圈"],"angle":["the corner where two lines meet","角；邊角"],"angles":["the corner where two lines meet","角；邊角"],"rows":["a line of people or things side by side","一排"],"pairs":["two things of the same kind that are used together, like shoes","一雙；一對"],"bottles":["a tall container made of glass or plastic for drinks","瓶子"],"line":["a long thin mark; people or things standing one behind another","線；行列"],"dots":["a very small round mark","點"],"sizes":["how big or small something is","尺寸"],"points":["a number you get in a game or on a test","分數；得分"],"lines":["a long thin mark; people or things standing one behind another","線；行列"],"medium":["not big and not small; in the middle","中等的"],"low":["not high; near the ground","低的"],"light":["a thing that makes a room bright","燈；燈光"],"short":["not tall; not long","矮的；短的"],"large":["big","大的"],"pair":["two things of the same kind that are used together, like shoes","一雙；一對"],"dozen":["a group of twelve","（一）打"],"bottle":["a tall container made of glass or plastic for drinks","瓶子"],"cup":["a small container with a handle, used for drinking","茶杯；杯子"],"piece":["one part of something","片；塊"],"glasses":["two pieces of glass you wear in front of your eyes to see better","眼鏡"],"pieces":["one part of something","片；塊"],"pack":["a small box or bag with many of the same things inside","包"],"package":["a box or bag that is sent by mail","包裹"],"kilos":["a short word for kilogram","公斤（簡稱）"],"smaller":["not big; little","小的"],"bigger":["large; not small","大的"],"shorter":["not tall; not long","矮的；短的"],"lighter":["not heavy; easy to carry","輕的"],"longer":["going far from one end to the other; not short","長的"],"lower":["not high; near the ground","低的"],"little":["not much","很少的（不可數）"],"long":["going far from one end to the other; not short","長的"]});

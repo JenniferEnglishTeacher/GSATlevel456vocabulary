@@ -1,0 +1,224 @@
+#7
+one | A week has seven days, but a person has only ____ nose. It is in the middle of the face. | two | five | ten
+two | People have ____ hands and ten fingers. We use them to hold, carry, and make things. | three | six | nine
+three | There are ____ people in my family: my father, my mother, and me. We live in a small apartment. | two | five | eight
+four | A dog has ____ legs, but a bird has only two. That is why a dog can run so fast. | three | six | eight
+five | You have ____ fingers on each hand. Together, your two hands have ten fingers. | four | six | seven
+seven | There are ____ days in a week. They are Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, and Sunday. | five | six | eight
+eight | A spider has ____ legs, so it is not an insect. Insects like ants and bees have only six. | four | ten | twelve
+ten | Five plus five is ____. You can check the answer by counting all the fingers on your two hands. | eight | nine | twelve
+twelve | There are ____ months in a year. The first one is January, and the last one is December. | ten | eleven | twenty
+twenty | Ten plus ten is ____. That is also the number of all your fingers and toes together. | twelve | thirty | sixty
+thirty | There are ____ days in April, June, September, and November. The other months have more or fewer days. | twenty | sixty | twelve
+sixty | There are ____ minutes in an hour, and there is the same number of seconds in a minute. | thirty | forty | fifty
+hundred | There are one ____ cents in a dollar, so fifty cents is half of a dollar. | thousand | million | zero
+thousand | Ten hundred is one ____. We write this number as a one with three zeros after it. | hundred | million | twenty
+million | A ____ is a very big number. We write it as a one with six zeros: 1,000,000. | hundred | thousand | ninety
+six | An ant has ____ legs, like all insects. A spider has two more legs than an ant. | four | five | ten
+nine | Ten minus one is ____. This number comes right after eight when you count. | seven | eleven | six
+eleven | A soccer team has ____ players on the field. That is one more than ten. | nine | twelve | thirteen
+thirteen | Ten plus three is ____. Some people think this number is not lucky. | eleven | thirty | fourteen
+fourteen | Two weeks have ____ days. Seven plus seven makes this number. | twelve | forty | sixteen
+fifteen | A quarter of an hour is ____ minutes. Four quarters make one hour. | five | fifty | thirty
+sixteen | Eight plus eight is ____. My sister is this age, so she is in senior high school now. | fourteen | sixty | eighteen
+eighteen | Nine plus nine is ____. In Taiwan, you can drive a car when you reach this age. | sixteen | eighty | nineteen
+nineteen | Twenty minus one is ____. My brother is this age, and he will be twenty next year. | eighteen | ninety | seventeen
+forty | Twenty plus twenty is ____. My father is this age, and my grandfather is seventy. | fourteen | fifty | thirty
+seventy | Ten times seven is ____. My grandmother is this age, and she still cooks every day. | seventeen | sixty | eighty
+eighty | Forty plus forty is ____. My grandfather is this age, but he still walks to the park every day. | eighteen | seventy | ninety
+ninety | One hundred minus ten is ____. Lisa got this score on the math test, and she was very happy. | nineteen | eighty | seventy
+zero | Five minus five is ____. When the temperature goes down to this number, water turns into ice. | one | ten | hundred
+seventeen | Ten plus seven is ____. My cousin is this age, and he is a senior high school student. | seventy | sixteen | fifteen
+fifty | Half of one hundred is ____. My mother is this age, but she looks much younger. | fifteen | forty | sixty
+number | What is your phone ____? I want to call you tonight to talk about our homework. | total | minute | week
+total | Three books at one hundred dollars each cost a ____ of three hundred dollars. Please pay at the front desk. | moment | season | quarter
+first | January is the ____ month of the year. February comes right after it. | second | third | last
+second | February is the ____ month of the year. It comes after January and before March. | first | third | fifth
+third | March is the ____ month of the year. It comes after February and before April. | second | fourth | eighth
+fourth | April is the ____ month of the year. It comes after March and before May. | third | fifth | ninth
+fifth | May is the ____ month of the year. It comes after April and before June. | fourth | eighth | first
+eighth | August is the ____ month of the year. It comes after July and before September. | fifth | ninth | eleventh
+ninth | September is the ____ month of the year. It comes after August, and school starts in this month in Taiwan. | eighth | eleventh | fourth
+eleventh | November is the ____ month of the year. It comes after October and before December. | ninth | fifteenth | fourteenth
+fourteenth | Valentine's Day is on the ____ of February. People give flowers and chocolate to someone they love on that day. | fifteenth | nineteenth | eleventh
+fifteenth | The Moon Festival is on the ____ day of the eighth month on the Chinese calendar. Families eat moon cakes that night. | fourteenth | nineteenth | fifth
+nineteenth | There were twenty students in the race. Ben was the ____, so only one student was slower than he was. | fifteenth | first | ninth
+last | December is the ____ month of the year. After it, a new year begins. | first | second | third
+many | How ____ students are there in your class? I heard there are more than thirty. | much | little | less
+a lot of | We have ____ homework today: math, English, and science. I can't play basketball after school. | a few | few | several
+much | How ____ money do you have in your wallet? I need to borrow fifty dollars for lunch. | many | few | several
+several | I have read this book ____ times, maybe four or five. It is my favorite story. | much | little | less
+some | There are ____ apples on the table. You can take one if you are hungry. | much | any | little
+a few | I only have ____ friends at my new school, just two or three. I hope to make more soon. | a little | much | less
+a little | Please put ____ sugar in my tea, not too much. I don't like very sweet drinks. | a few | many | several
+few | Very ____ people came to the park because of the rain. There were only two old men there. | little | much | less
+little | There is very ____ water in the bottle. It is almost empty, so we need to buy another one. | few | many | several
+any | I don't have ____ money with me today. Can you buy lunch for me? I will pay you back tomorrow. | some | many | few
+All | ____ of the students passed the test, so the teacher was very happy. Nobody failed this time. | Few | Less | Little
+both | I have two sisters, and ____ of them are teachers. One teaches math, and the other teaches music. | several | much | less
+more | I am still hungry. Can I have some ____ rice, please? One bowl is not enough for me. | less | few | little
+less | You should eat ____ candy. Too much sugar is bad for your teeth and your health. | more | many | several
+#8
+time | What ____ is it now? I need to catch the bus at seven thirty. | day | week | season
+clock | The ____ on the classroom wall says it is nine. Our English class starts right now. | hour | minute | week
+watch | Dad wears a ____ on his left arm. He looks at it when he wants to know the time. | clock | noon | season
+o'clock | School starts at eight ____ in the morning. Don't be late, or the teacher will be angry. | already | ago | once
+half | It is ____ past six now, so it is six thirty. Dinner will be ready in thirty minutes. | noon | hour | minute
+quarter | It is a ____ past three, so it is three fifteen. The bus will come in fifteen minutes. | half | minute | moment
+past | It is ten ____ nine now. In other words, it is 9:10, and we are ten minutes late. | in | on | with
+a.m. | I get up at 6 ____ every day. Then I have breakfast and go to school in the morning. | p.m. | ago | once
+p.m. | The movie starts at 9 ____ and ends at eleven at night. We will go home very late. | a.m. | ago | once
+noon | We eat lunch at ____. It is twelve o'clock, and the sun is high in the sky. | night | week | season
+already | It is ____ eleven o'clock at night! Turn off the TV and go to bed right now. | ago | once | tomorrow
+hour | There are sixty minutes in an ____. I do my homework for that long every evening. | minute | week | month
+minutes | The bus will come in five ____. Let's wait here; it won't take long. | years | months | seasons
+seconds | There are sixty ____ in a minute. A good runner can run 400 meters in that time. | hours | days | weeks
+moment | Please wait a ____. I will be back very soon with your coffee. | year | week | season
+Monday | ____ is the day after Sunday. Many students feel tired on this first school day of the week. | Tuesday | Friday | Saturday
+Wednesday | ____ is in the middle of the school week. It comes after Tuesday and before Thursday. | Monday | Friday | Sunday
+today | Yesterday was Monday, so ____ is Tuesday. We have music class this afternoon. | tomorrow | yesterday | weekend
+tomorrow | Today is Friday, so ____ is Saturday. We don't have to go to school then. | yesterday | today | noon
+yesterday | Today is Sunday, so ____ was Saturday. We went to the zoo and saw the pandas. | tomorrow | today | tonight
+day | There are twenty-four hours in a ____. People usually sleep for eight of them. | week | month | year
+week | There are seven days in a ____. Students go to school on five of them. | month | year | season
+January | ____ is the first month of the year. New Year's Day is on the first day of this month. | March | June | December
+February | ____ is the shortest month of the year. It has only twenty-eight or twenty-nine days. | January | April | July
+March | ____ is the third month of the year. It comes after February and before April. | May | August | October
+April | ____ is the fourth month of the year. People play tricks on their friends on its first day. | June | September | November
+May | Mother's Day is in ____. It is on the second Sunday of the fifth month of the year. | March | July | October
+June | ____ is the sixth month of the year. Many students finish school in this month. | April | August | December
+July | ____ is the seventh month of the year. Students in Taiwan are on summer vacation then. | January | March | November
+August | Father's Day in Taiwan is on the eighth day of ____. It is the eighth month of the year. | May | June | October
+September | The new school year in Taiwan begins in ____. It is the ninth month of the year. | February | July | December
+October | Halloween is on the last day of ____. It is the tenth month of the year. | April | August | December
+November | ____ is the eleventh month of the year. It comes right before December. | September | October | January
+December | Christmas is in ____. It is the twelfth and last month of the year. | October | November | February
+season | Summer is my favorite ____. I like it more than spring, fall, or winter. | month | weekend | moment
+spring | In ____, the weather gets warm after winter, and flowers start to come out. | summer | autumn | night
+summer | ____ is the hottest season. Students have a long vacation, and many people go swimming. | Spring | Autumn | Winter
+autumn | In ____, the leaves turn yellow and fall from the trees. The weather gets cooler after the hot summer. | spring | summer | winter
+winter | ____ is the coldest season. People wear coats and gloves, and it snows in some countries. | Spring | Summer | Autumn
+Saturday | ____ is the day after Friday. It is the first day of the weekend. | Sunday | Monday | Thursday
+Sunday | ____ is the day after Saturday. It is the last day of the weekend, and Monday comes next. | Friday | Tuesday | Wednesday
+weekend | We don't go to school on the ____. We can sleep late on Saturday and Sunday. | month | season | moment
+morning | I get up at six in the ____. Then I brush my teeth and eat breakfast. | afternoon | evening | night
+afternoon | School is over at four in the ____. After lunch and three more classes, we can go home. | morning | evening | night
+evening | We have dinner at six thirty in the ____. After that, I do my homework until nine. | morning | afternoon | noon
+night | The moon and stars come out at ____. Most people are sleeping then. | noon | spring | summer
+Tuesday | ____ is the day after Monday. It is the second school day of the week. | Thursday | Friday | Sunday
+Thursday | ____ is the day before Friday. It comes after Wednesday. | Monday | Tuesday | Saturday
+Friday | ____ is the last school day of the week. The weekend starts after it. | Monday | Wednesday | Sunday
+now | I can't talk to you right ____. I am busy cooking dinner, so please call me back in an hour. | ago | soon | once
+soon | Dinner will be ready ____. Please wash your hands and sit at the table in five minutes. | ago | already | yesterday
+later | I am busy now. Can I call you back ____, maybe in an hour? | ago | already | early
+early | I have to get up ____ tomorrow because the first bus leaves at five thirty in the morning. | late | ago | once
+late | Tom got up at eight, so he was ____ for school. The teacher was not happy about it. | early | soon | already
+year | There are twelve months in a ____. My birthday comes only once in that time. | week | day | season
+month | There are about four weeks in a ____. February is the shortest one. | year | day | weekend
+once | I visit my grandparents ____ a week, every Sunday. I wish I could see them more often. | already | ago | soon
+tonight | There is a good movie on TV ____ at nine. Let's finish our homework before dinner so we can watch it. | yesterday | ago | already
+next | This bus is full. Let's wait for the ____ one; it will come in ten minutes. | last | early | late
+last | I didn't see you ____ week. Were you sick, or did you go on a trip? | next | early | late
+ago | My family moved to Taipei five years ____. Before that, we lived in Tainan. | soon | once | already
+future | Nobody knows what will happen in the ____. We can only work hard today. | noon | moment | weekend
+#9
+dollars | This pen is only ten ____. It is so cheap that I want to buy two. | minutes | hours | weeks
+cents | One dollar is one hundred ____. These small coins are not used very often now. | dollars | prices | hours
+price | The ____ of this bike is too high. I can't buy it with only two thousand dollars. | dollar | change | cent
+change | The pen was eight dollars, and I gave the clerk ten. He gave me two dollars in ____. | price | dollar | week
+cheap | These shoes are very ____. They are only one hundred dollars, so I will buy two pairs. | expensive | tall | young
+expensive | This watch is too ____ for me. It is fifty thousand dollars, and I only have five hundred. | cheap | short | young
+buy | I want to ____ a birthday present for my mom, so I am going to the department store this afternoon. | lend | cost | spend
+spend | I ____ two hundred dollars on lunch every week. My mom thinks it is too much. | cost | lend | buy
+money | I have no ____ in my wallet. Can you lend me one hundred dollars? | price | week | hour
+costs | This T-shirt ____ three hundred dollars. It is not expensive, so I will take it. | pays | spends | buys
+pays | Dad always ____ for dinner when our family eats at a restaurant. He never lets us use our own money. | costs | lends | borrows
+borrow | I forgot my pen. May I ____ yours? I will give it back after class. | lend | pay | cost
+lends | My sister often ____ me her bike. I always give it back to her the next day. | borrows | costs | pays
+#10
+hungry | I didn't eat breakfast or lunch today, so I am very ____ now. Let's find a restaurant right away. | thirsty | full | sweet
+thirsty | It is hot, and I ran for an hour. I am so ____ that I can drink a whole bottle of water. | hungry | full | yummy
+full | I ate two bowls of rice and a big steak. I am too ____ to eat any cake now. | hungry | thirsty | sweet
+menu | The waiter gave us the ____. We read it and chose a pizza and two salads. | meal | snack | fruit
+order | Are you ready to ____, sir? Today's special is beef noodles. | bake | boil | burn
+food | Pizza is my favorite ____. I can eat it for lunch and dinner every day. | menu | juice | tea
+hamburger | A ____ has a piece of beef between two round buns. Many people eat it with fries and a Coke. | pizza | pie | salad
+fries | I'd like a hamburger and some ____, please. I love these long, thin pieces of potato. | noodles | beans | grapes
+hot dog | A ____ is a long sausage in a long bun. People often eat one at a baseball game. | ice cream | pizza | salad
+pizza | Let's order a large ____ with cheese and tomatoes on top. We can cut it into eight pieces and share it. | soup | juice | candy
+ice cream | On hot summer days, children love to eat ____. It is sweet and cold, and you must eat it fast. | hot dog | popcorn | toast
+Coke | I'd like a hamburger and a large ____ with ice, please. I love this sweet brown drink. | milk | water | soup
+ice | Please put some ____ in my juice. I want my drink to be very cold. | salt | oil | butter
+juice | Mom makes fresh orange ____ every morning. She uses five oranges to make one glass. | soup | salt | rice
+tea | People in Taiwan love to drink ____. They put the dried leaves in a pot and add hot water. | milk | juice | Coke
+coffee | Dad drinks a cup of black ____ every morning. He says he can't wake up without it. | milk | juice | water
+fruit | Apples, bananas, and grapes are all ____. Eating some every day is good for your health. | meat | candy | bread
+apple | An ____ a day keeps the doctor away. This round red fruit is good for you. | orange | egg | ice
+orange | An ____ is a round fruit with a thick skin. Its name is the same as its color. | apple | egg | ice
+bananas | Monkeys love to eat ____. These long yellow fruits are sweet and soft. | lemons | grapes | pears
+grapes | These small, round, purple fruits are ____. People also use them to make wine. | bananas | papayas | watermelons
+guavas | ____ are green fruits with many small hard seeds inside. They are very popular in Taiwan. | Bananas | Strawberries | Oranges
+papaya | A ____ is orange inside and has many small black seeds. People in Taiwan love to drink it with milk. | lemon | pear | peach
+peaches | ____ are soft, sweet fruits with pink skin and one big hard seed in the middle. | Bananas | Grapes | Lemons
+pears | ____ are sweet fruits that are round at the bottom and thinner at the top. They are usually yellow or green. | Bananas | Grapes | Strawberries
+lemon | A ____ is a yellow fruit, and it tastes very sour. People put it in tea or water. | peach | pear | papaya
+strawberries | ____ are small red fruits with tiny seeds on the outside. People often put them on cakes. | Lemons | Bananas | Pears
+watermelon | A ____ is a very big fruit. It is green outside and red inside, and it has a lot of water. | lemon | grape | peach
+tomatoes | We use ____ to make ketchup. These round red vegetables are good in salads, too. | beans | pumpkins | lemons
+vegetables | Carrots, lettuce, and cabbage are all ____. You should eat more of them to stay healthy. | fruits | snacks | meals
+lettuce | ____ is a vegetable with big green leaves. People use it to make salads and sandwiches. | Pumpkin | Cheese | Ham
+beans | Tofu and soy milk are made from ____. These small seeds are very good for you. | eggs | grapes | noodles
+pumpkin | A ____ is a big, round, orange vegetable. People cut a face in it on Halloween. | tomato | bean | lemon
+meat | Beef, pork, and chicken are all kinds of ____. Some people don't eat it and only eat vegetables. | fruit | bread | candy
+beef | ____ is meat from a cow. People use it to make steak and hamburgers. | Pork | Chicken | Ham
+pork | ____ is meat from a pig. Ham is made from it, too. | Beef | Chicken | Fish
+chicken | I'd like some fried ____, please. I love the meat of this farm bird, and I like the legs best. | beef | pork | fish
+fish | We caught a big ____ in the river and cooked it for dinner. Be careful of the small bones when you eat it. | ham | steak | bean
+ham | I'd like a ____ and egg sandwich, please. I love this salty pink meat from a pig's leg. | fish | cheese | butter
+cheese | Mice love to eat ____. This yellow food is made from milk, and people put it on pizza. | ham | salt | sugar
+chocolate | ____ is a sweet brown food. People give it to someone they love on Valentine's Day. | Cheese | Butter | Popcorn
+candy | Children love ____, but eating too much of this sweet food is bad for their teeth. | salad | soup | salt
+popcorn | We always buy a big box of ____ when we watch a movie at the theater. It is made from corn. | chocolate | candy | cheese
+cake | Mom made a big birthday ____ for me. There were twelve candles on it, and I blew them all out. | soup | salad | steak
+pie | Grandma's apple ____ is the best. She puts a lot of fruit inside and bakes it for an hour. | soup | salad | steak
+bake | I want to ____ a cake for Dad's birthday. I need flour, eggs, sugar, and an oven. | boil | drink | order
+cook | Dad can't ____, so we eat out when Mom is not at home. He doesn't even know how to make an egg. | eat | drink | order
+eggs | Hens lay ____. You can boil or fry them for breakfast. | buns | cookies | dumplings
+buns | A hamburger has two round ____ with meat between them. The bakery makes them fresh every morning. | eggs | cookies | pies
+dumplings | Mom is making ____ for dinner. She puts pork and vegetables inside each one and then boils them in water. | cookies | sandwiches | salads
+cookies | Grandma baked some chocolate ____ for us. These small, flat, sweet snacks are great with milk. | dumplings | eggs | buns
+bread | Mom went to the bakery to buy some ____. We need it to make sandwiches for the picnic. | rice | soup | salt
+rice | People in Taiwan eat ____ almost every day. They cook the small white grains and eat them with meat and vegetables. | bread | butter | sugar
+salt | The soup has no taste. Please add a little ____, but not too much, or it will be too salty. | sugar | butter | milk
+sugar | I like my coffee sweet, so I always put two spoons of ____ in it. | salt | oil | rice
+oil | Put some ____ in the pan before you fry the eggs. Then the eggs won't stick to the pan. | salt | sugar | milk
+butter | I like to put ____ on my toast. This soft yellow food is made from milk. | oil | salt | sugar
+milk | Babies drink ____. This white drink comes from cows, and it helps children grow tall. | tea | coffee | juice
+water | Plants and animals can't live without ____. You should drink eight glasses of it every day. | salt | sugar | oil
+soup | It is cold today. Let's have some hot chicken ____. You will need a spoon to eat it. | salad | steak | pie
+steak | I'd like a ____, please. I want the beef well cooked, and I'd like some fries with it. | salad | soup | pie
+salad | I'd like a ____ with lettuce, tomatoes, and eggs. I want to eat more fresh vegetables. | steak | pie | cake
+delicious | The beef noodles here are ____. I come to this restaurant every week to eat them. | hungry | thirsty | full
+yummy | Mmm, this chocolate cake is ____! Can I have another piece, please? | hungry | thirsty | full
+sweet | This cake is too ____ for me. I think you put too much sugar in it. | hungry | thirsty | full
+hot | Be careful! The soup is very ____. Wait for a few minutes, or you will burn your mouth. | sweet | full | hungry
+burns | Dad is not a good cook. He often ____ the fish, so it turns black and tastes bad. | drinks | orders | boils
+breakfast | I have ____ at seven every morning. It is the first meal of the day. | lunch | dinner | barbecue
+toast | I had two pieces of ____ with butter this morning. I heated the bread until it was brown. | soup | salad | steak
+drink | It is good to ____ a glass of water after you get up in the morning. | eat | bake | cook
+boils | Mom ____ the eggs in water for ten minutes. Then we eat them with a little salt. | bakes | orders | drinks
+lunch | We have ____ at school at twelve o'clock. It is the meal in the middle of the day. | breakfast | dinner | barbecue
+sandwich | I made a ____ with two pieces of bread, some ham, and an egg. I will eat it at the picnic. | salad | soup | steak
+noodles | Beef ____ are famous in Taiwan. You eat these long, thin things with chopsticks. | cookies | buns | eggs
+eats | My brother ____ three bowls of rice at every meal because he plays basketball for hours every day. | drinks | bakes | burns
+dinner | Our family has ____ together at seven every evening. It is the last meal of the day. | breakfast | lunch | toast
+meal | Breakfast is the most important ____ of the day. Don't go to school without eating it. | snack | menu | fruit
+barbecue | We had a ____ in the yard last night. Dad cooked meat and corn over a fire. | breakfast | menu | snack
+snack | I am a little hungry, but dinner is two hours away. Can I have a small ____, like a cookie or an apple? | meal | menu | dinner
+@ papayas = n. 木瓜
+@ watermelons = n. 西瓜
+@ sandwiches = n. 三明治
+@ strawberries = n. 草莓
+@ in = prep. 在…裡面
+@ on = prep. 在…上面
+@ with = prep. 和；用

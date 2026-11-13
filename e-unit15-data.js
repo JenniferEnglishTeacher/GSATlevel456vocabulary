@@ -709,149 +709,11 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: Where is the cat? — A: It's on my __________. It's sleeping.【床】",
+    "question": "I am very tired. I just want to lie down on my __________ and sleep until tomorrow morning.",
     "options": [
      {
       "letter": "A",
-      "text": "bed"
-     },
-     {
-      "letter": "B",
-      "text": "stairs"
-     },
-     {
-      "letter": "C",
-      "text": "room"
-     },
-     {
-      "letter": "D",
-      "text": "table"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "Q: Where is the dog? — A: It's on the __________ in the living room.【沙發】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "basket"
-     },
-     {
-      "letter": "B",
-      "text": "sofa"
-     },
-     {
-      "letter": "C",
-      "text": "mat"
-     },
-     {
-      "letter": "D",
-      "text": "kitchen"
-     }
-    ],
-    "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "Q: Where are my comic books? — A: They're on the __________, next to the TV.【沙發】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "yard"
-     },
-     {
-      "letter": "B",
-      "text": "bath"
-     },
-     {
-      "letter": "C",
-      "text": "couch"
-     },
-     {
-      "letter": "D",
-      "text": "computer"
-     }
-    ],
-    "answer": "C",
-    "vi": 2
-   },
-   {
-    "question": "Q: Where is my schoolbag? — A: It's under your __________.【椅子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dining room"
-     },
-     {
-      "letter": "B",
-      "text": "kitchen"
-     },
-     {
-      "letter": "C",
-      "text": "bench"
-     },
-     {
-      "letter": "D",
-      "text": "chair"
-     }
-    ],
-    "answer": "D",
-    "vi": 3
-   },
-   {
-    "question": "Q: Where are my books? — A: They're on your __________.【書桌】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "table"
-     },
-     {
-      "letter": "B",
-      "text": "dining room"
-     },
-     {
-      "letter": "C",
       "text": "desk"
-     },
-     {
-      "letter": "D",
-      "text": "mat"
-     }
-    ],
-    "answer": "C",
-    "vi": 4
-   },
-   {
-    "question": "Q: Where does Mom put the cake? — A: She puts it on the __________.【桌子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "lamp"
-     },
-     {
-      "letter": "B",
-      "text": "umbrella"
-     },
-     {
-      "letter": "C",
-      "text": "mat"
-     },
-     {
-      "letter": "D",
-      "text": "table"
-     }
-    ],
-    "answer": "D",
-    "vi": 5
-   },
-   {
-    "question": "Q: Where do you keep your pens? — A: I keep them in the __________.【抽屜】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "chair"
      },
      {
       "letter": "B",
@@ -859,45 +721,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "refrigerator"
+      "text": "bed"
      },
      {
       "letter": "D",
-      "text": "light"
+      "text": "lamp"
      }
     ],
-    "answer": "B",
-    "vi": 6
+    "answer": "C",
+    "vi": 0
    },
    {
-    "question": "Q: Where is the __________? — A: It's on the desk, next to the computer.【檯燈】",
+    "question": "The three of us sat on the long, soft __________ in the living room and watched TV together.",
     "options": [
      {
       "letter": "A",
-      "text": "lamp"
+      "text": "desk"
      },
      {
       "letter": "B",
-      "text": "light"
+      "text": "sofa"
      },
      {
       "letter": "C",
-      "text": "radio"
+      "text": "drawer"
      },
      {
       "letter": "D",
-      "text": "computer"
+      "text": "lamp"
      }
     ],
-    "answer": "A",
-    "vi": 7
+    "answer": "B",
+    "vi": 1
    },
    {
-    "question": "Q: Where is my __________? I'm cold. — A: It's on your bed.【毯子】",
+    "question": "Dad fell asleep on the __________ in front of the TV. It is long and soft, so he can lie on it.",
     "options": [
      {
       "letter": "A",
-      "text": "road"
+      "text": "desk"
+     },
+     {
+      "letter": "B",
+      "text": "drawer"
+     },
+     {
+      "letter": "C",
+      "text": "basket"
+     },
+     {
+      "letter": "D",
+      "text": "couch"
+     }
+    ],
+    "answer": "D",
+    "vi": 2
+   },
+   {
+    "question": "There are four people but only three seats. Please bring another __________ from the kitchen.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "chair"
      },
      {
       "letter": "B",
@@ -909,60 +794,175 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "door"
+      "text": "towel"
      }
     ],
-    "answer": "C",
-    "vi": 8
+    "answer": "A",
+    "vi": 3
    },
    {
-    "question": "Q: Where are the __________? — A: They're in the bathroom.【毛巾】",
+    "question": "I do my homework at my __________. My books, pens, and computer are all on it.",
     "options": [
      {
       "letter": "A",
-      "text": "tapes"
+      "text": "bed"
      },
      {
       "letter": "B",
-      "text": "towels"
+      "text": "mat"
      },
      {
       "letter": "C",
-      "text": "videos"
+      "text": "blanket"
      },
      {
       "letter": "D",
-      "text": "candles"
-     }
-    ],
-    "answer": "B",
-    "vi": 9
-   },
-   {
-    "question": "Q: Where are my __________? — A: They're in your pocket, Dad!【鑰匙】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "windows"
-     },
-     {
-      "letter": "B",
-      "text": "videos"
-     },
-     {
-      "letter": "C",
-      "text": "stairs"
-     },
-     {
-      "letter": "D",
-      "text": "keys"
+      "text": "desk"
      }
     ],
     "answer": "D",
+    "vi": 4
+   },
+   {
+    "question": "Dinner is ready. Please put the bowls and chopsticks on the __________. The whole family will sit around it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "bed"
+     },
+     {
+      "letter": "B",
+      "text": "table"
+     },
+     {
+      "letter": "C",
+      "text": "lamp"
+     },
+     {
+      "letter": "D",
+      "text": "drawer"
+     }
+    ],
+    "answer": "B",
+    "vi": 5
+   },
+   {
+    "question": "I keep my pens and erasers in the top __________ of my desk. I pull it out when I need them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "drawer"
+     },
+     {
+      "letter": "B",
+      "text": "lamp"
+     },
+     {
+      "letter": "C",
+      "text": "blanket"
+     },
+     {
+      "letter": "D",
+      "text": "candle"
+     }
+    ],
+    "answer": "A",
+    "vi": 6
+   },
+   {
+    "question": "It is too dark to read. Please turn on the __________ on your desk.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "key"
+     },
+     {
+      "letter": "B",
+      "text": "towel"
+     },
+     {
+      "letter": "C",
+      "text": "lamp"
+     },
+     {
+      "letter": "D",
+      "text": "basket"
+     }
+    ],
+    "answer": "C",
+    "vi": 7
+   },
+   {
+    "question": "It is cold tonight. Put another __________ on your bed, or you won't sleep well.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lamp"
+     },
+     {
+      "letter": "B",
+      "text": "blanket"
+     },
+     {
+      "letter": "C",
+      "text": "key"
+     },
+     {
+      "letter": "D",
+      "text": "pot"
+     }
+    ],
+    "answer": "B",
+    "vi": 8
+   },
+   {
+    "question": "After swimming, we dried our bodies with __________. They were big and soft.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "keys"
+     },
+     {
+      "letter": "B",
+      "text": "candles"
+     },
+     {
+      "letter": "C",
+      "text": "pots"
+     },
+     {
+      "letter": "D",
+      "text": "towels"
+     }
+    ],
+    "answer": "D",
+    "vi": 9
+   },
+   {
+    "question": "I can't open the door because I lost my __________. I have to wait for Mom to come home.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "towels"
+     },
+     {
+      "letter": "B",
+      "text": "candles"
+     },
+     {
+      "letter": "C",
+      "text": "keys"
+     },
+     {
+      "letter": "D",
+      "text": "pots"
+     }
+    ],
+    "answer": "C",
     "vi": 10
    },
    {
-    "question": "Q: Where does Dad keep his __________? — A: He keeps it behind the door.【雨傘】",
+    "question": "It is raining now. Don't forget to take your __________ when you go out.",
     "options": [
      {
       "letter": "A",
@@ -970,72 +970,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "radio"
+      "text": "candle"
      },
      {
       "letter": "C",
-      "text": "apartment"
+      "text": "drawer"
      },
      {
       "letter": "D",
-      "text": "drawer"
+      "text": "bench"
      }
     ],
     "answer": "A",
     "vi": 11
    },
    {
-    "question": "Q: Where are the apples? — A: They're in the __________ on the table.【籃子】",
+    "question": "Mom carried the fruit and vegetables home from the market in a __________.",
     "options": [
      {
       "letter": "A",
-      "text": "pot"
+      "text": "lamp"
      },
      {
       "letter": "B",
-      "text": "basket"
+      "text": "bench"
      },
      {
       "letter": "C",
-      "text": "desk"
+      "text": "pipe"
      },
      {
       "letter": "D",
-      "text": "bath"
+      "text": "basket"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 12
    },
    {
-    "question": "Q: Where is the soup? — A: It's in the __________ in the kitchen.【鍋子；壺】",
+    "question": "Mom is cooking soup in a big __________. Don't touch it because it is very hot.",
     "options": [
      {
       "letter": "A",
-      "text": "street"
+      "text": "basket"
      },
      {
       "letter": "B",
-      "text": "computer"
-     },
-     {
-      "letter": "C",
       "text": "pot"
      },
      {
+      "letter": "C",
+      "text": "mat"
+     },
+     {
       "letter": "D",
-      "text": "table"
+      "text": "drawer"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 13
    },
    {
-    "question": "Q: Where are the __________? — A: They're on the birthday cake.【蠟燭】",
+    "question": "There are ten __________ on the birthday cake. Make a wish and blow them out!",
     "options": [
      {
       "letter": "A",
-      "text": "towels"
+      "text": "candles"
      },
      {
       "letter": "B",
@@ -1043,53 +1043,53 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "videos"
+      "text": "towels"
      },
      {
       "letter": "D",
-      "text": "candles"
-     }
-    ],
-    "answer": "D",
-    "vi": 14
-   },
-   {
-    "question": "Q: Where do we put our shoes? — A: Put them on the __________ by the door.【墊子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "mat"
-     },
-     {
-      "letter": "B",
-      "text": "camera"
-     },
-     {
-      "letter": "C",
-      "text": "chair"
-     },
-     {
-      "letter": "D",
-      "text": "living room"
+      "text": "mats"
      }
     ],
     "answer": "A",
-    "vi": 15
+    "vi": 14
    },
    {
-    "question": "Q: Is there a __________ in the garden? — A: Yes, there is. Grandma often sits on it.【長椅】",
+    "question": "Please clean your shoes on the __________ at the door before you come in.",
     "options": [
      {
       "letter": "A",
-      "text": "dining room"
+      "text": "bench"
      },
      {
       "letter": "B",
-      "text": "door"
+      "text": "lamp"
      },
      {
       "letter": "C",
-      "text": "kitchen"
+      "text": "mat"
+     },
+     {
+      "letter": "D",
+      "text": "pot"
+     }
+    ],
+    "answer": "C",
+    "vi": 15
+   },
+   {
+    "question": "We sat on a __________ in the park and ate our sandwiches. An old man was sitting on the other end.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lamp"
+     },
+     {
+      "letter": "B",
+      "text": "drawer"
+     },
+     {
+      "letter": "C",
+      "text": "pipe"
      },
      {
       "letter": "D",
@@ -1100,34 +1100,34 @@ window.FLASHCARD_UNITS = {
     "vi": 16
    },
    {
-    "question": "Q: Is there a __________ in the bathroom? — A: Yes, there is. But it doesn't work now.【燈；燈光】",
+    "question": "It is dark in here. Please turn on the __________ so that I can see.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "light"
+     },
+     {
+      "letter": "B",
+      "text": "pipe"
+     },
+     {
+      "letter": "C",
+      "text": "gate"
+     },
+     {
+      "letter": "D",
+      "text": "mat"
+     }
+    ],
+    "answer": "A",
+    "vi": 17
+   },
+   {
+    "question": "We watch the news on __________ every evening. Our new one has a very big screen.",
     "options": [
      {
       "letter": "A",
       "text": "radio"
-     },
-     {
-      "letter": "B",
-      "text": "bath"
-     },
-     {
-      "letter": "C",
-      "text": "light"
-     },
-     {
-      "letter": "D",
-      "text": "kitchen"
-     }
-    ],
-    "answer": "C",
-    "vi": 17
-   },
-   {
-    "question": "Q: Is there a __________ in your bedroom? — A: No, there isn't. It's in the living room.【電視】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "machine"
      },
      {
       "letter": "B",
@@ -1135,64 +1135,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "bedroom"
+      "text": "telephone"
      },
      {
       "letter": "D",
-      "text": "fan"
+      "text": "camera"
      }
     ],
     "answer": "B",
     "vi": 18
    },
    {
-    "question": "Q: Is there a __________ in your room? — A: Yes, there is. I do my homework on it.【電腦】",
+    "question": "I use my __________ to write reports, play games, and send e-mails.",
     "options": [
      {
       "letter": "A",
-      "text": "computer"
-     },
-     {
-      "letter": "B",
       "text": "camera"
      },
      {
-      "letter": "C",
-      "text": "house"
-     },
-     {
-      "letter": "D",
-      "text": "light"
-     }
-    ],
-    "answer": "A",
-    "vi": 19
-   },
-   {
-    "question": "Q: Is there a __________ in the kitchen? — A: No, there isn't. It's on the table in the living room.【電話】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "yard"
-     },
-     {
       "letter": "B",
-      "text": "home"
+      "text": "radio"
      },
      {
       "letter": "C",
-      "text": "telephone"
+      "text": "computer"
      },
      {
       "letter": "D",
-      "text": "bedroom"
+      "text": "fan"
      }
     ],
     "answer": "C",
-    "vi": 20
+    "vi": 19
    },
    {
-    "question": "Q: Is there a __________ in Grandpa's room? — A: Yes, there is. He listens to it every morning.【收音機】",
+    "question": "The __________ is ringing. Can you answer it? It may be Grandma calling.",
     "options": [
      {
       "letter": "A",
@@ -1200,49 +1177,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "blanket"
-     },
-     {
-      "letter": "C",
-      "text": "road"
-     },
-     {
-      "letter": "D",
-      "text": "light"
-     }
-    ],
-    "answer": "A",
-    "vi": 21
-   },
-   {
-    "question": "Q: Is there a __________ in your bag? — A: Yes, there is. I want to take pictures in the park.【照相機】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "drawer"
-     },
-     {
-      "letter": "B",
-      "text": "table"
-     },
-     {
-      "letter": "C",
-      "text": "pipe"
-     },
-     {
-      "letter": "D",
       "text": "camera"
+     },
+     {
+      "letter": "C",
+      "text": "fan"
+     },
+     {
+      "letter": "D",
+      "text": "telephone"
      }
     ],
     "answer": "D",
-    "vi": 22
+    "vi": 20
    },
    {
-    "question": "Q: Is there a __________ in your bedroom? It's so hot. — A: No, there isn't. Let's go to the living room.【電風扇】",
+    "question": "Grandpa listens to the news and old songs on the __________ every morning. It has no screen.",
     "options": [
      {
       "letter": "A",
-      "text": "garden"
+      "text": "camera"
+     },
+     {
+      "letter": "B",
+      "text": "radio"
+     },
+     {
+      "letter": "C",
+      "text": "fan"
+     },
+     {
+      "letter": "D",
+      "text": "lamp"
+     }
+    ],
+    "answer": "B",
+    "vi": 21
+   },
+   {
+    "question": "I took many pictures with my new __________ on the trip. Do you want to see the photos?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "radio"
      },
      {
       "letter": "B",
@@ -1250,64 +1227,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "road"
-     },
-     {
-      "letter": "D",
-      "text": "machine"
-     }
-    ],
-    "answer": "B",
-    "vi": 23
-   },
-   {
-    "question": "Q: Is there any milk in the __________? — A: Yes, there is. It's next to the eggs.【冰箱】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "garden"
-     },
-     {
-      "letter": "B",
       "text": "camera"
      },
      {
-      "letter": "C",
-      "text": "couch"
-     },
-     {
       "letter": "D",
-      "text": "refrigerator"
-     }
-    ],
-    "answer": "D",
-    "vi": 24
-   },
-   {
-    "question": "Q: Is there a washing __________ in your apartment? — A: Yes, there is. It's on the balcony.【機器】",
-    "options": [
-     {
-      "letter": "A",
       "text": "lamp"
-     },
-     {
-      "letter": "B",
-      "text": "balcony"
-     },
-     {
-      "letter": "C",
-      "text": "machine"
-     },
-     {
-      "letter": "D",
-      "text": "chair"
      }
     ],
     "answer": "C",
+    "vi": 22
+   },
+   {
+    "question": "It is hot in here. Please turn on the __________. We need some moving air.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fan"
+     },
+     {
+      "letter": "B",
+      "text": "radio"
+     },
+     {
+      "letter": "C",
+      "text": "camera"
+     },
+     {
+      "letter": "D",
+      "text": "lamp"
+     }
+    ],
+    "answer": "A",
+    "vi": 23
+   },
+   {
+    "question": "Put the milk and eggs in the __________. They will go bad if they are not kept cold.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "drawer"
+     },
+     {
+      "letter": "B",
+      "text": "refrigerator"
+     },
+     {
+      "letter": "C",
+      "text": "basket"
+     },
+     {
+      "letter": "D",
+      "text": "pot"
+     }
+    ],
+    "answer": "B",
+    "vi": 24
+   },
+   {
+    "question": "This __________ can wash and dry your clothes in two hours. You just need to push a button.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pipe"
+     },
+     {
+      "letter": "B",
+      "text": "lamp"
+     },
+     {
+      "letter": "C",
+      "text": "radio"
+     },
+     {
+      "letter": "D",
+      "text": "machine"
+     }
+    ],
+    "answer": "D",
     "vi": 25
    },
    {
-    "question": "Q: Are there any English __________ in the box? — A: Yes, there are. We can listen to them.【錄音帶；膠帶】",
+    "question": "In the past, people listened to music on __________. Now most people use their phones.",
     "options": [
      {
       "letter": "A",
@@ -1315,22 +1315,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "towels"
+      "text": "pipes"
      },
      {
       "letter": "C",
-      "text": "keys"
+      "text": "lamps"
      },
      {
       "letter": "D",
-      "text": "videos"
+      "text": "cameras"
      }
     ],
     "answer": "A",
     "vi": 26
    },
    {
-    "question": "Q: Are there any funny __________ on your phone? — A: Yes, there are. Let's watch them together!【影片；錄影帶】",
+    "question": "My brother likes to watch funny cat __________ on the Internet. He laughs at them for hours.",
     "options": [
      {
       "letter": "A",
@@ -1338,49 +1338,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "radios"
+     },
+     {
+      "letter": "C",
       "text": "videos"
      },
      {
-      "letter": "C",
-      "text": "windows"
-     },
-     {
       "letter": "D",
-      "text": "stairs"
+      "text": "pipes"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 27
    },
    {
-    "question": "Q: Is there any water in the __________? — A: No, there isn't. It's broken.【管子；水管】",
+    "question": "Water is coming out of a broken __________ under the kitchen floor. Call someone to fix it.",
     "options": [
      {
       "letter": "A",
-      "text": "lamp"
+      "text": "pipe"
      },
      {
       "letter": "B",
-      "text": "bathroom"
+      "text": "lamp"
      },
      {
       "letter": "C",
-      "text": "room"
+      "text": "radio"
      },
      {
       "letter": "D",
-      "text": "pipe"
+      "text": "camera"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 28
    },
    {
-    "question": "Q: What is there near the park? — A: There is a big __________ with a garden.【房子】",
+    "question": "The Lins live in a big __________ with a garden and a yard. Seven people live there.",
     "options": [
      {
       "letter": "A",
-      "text": "computer"
+      "text": "room"
      },
      {
       "letter": "B",
@@ -1392,87 +1392,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "umbrella"
+      "text": "balcony"
      }
     ],
     "answer": "B",
     "vi": 29
    },
    {
-    "question": "Q: How many bedrooms are there in your __________? — A: There are three bedrooms.【公寓】",
+    "question": "We live in a small __________ on the fifth floor of a tall building. We don't have a garden.",
     "options": [
      {
       "letter": "A",
+      "text": "garden"
+     },
+     {
+      "letter": "B",
+      "text": "yard"
+     },
+     {
+      "letter": "C",
       "text": "apartment"
      },
      {
-      "letter": "B",
-      "text": "light"
-     },
-     {
-      "letter": "C",
-      "text": "lamp"
-     },
-     {
       "letter": "D",
-      "text": "table"
-     }
-    ],
-    "answer": "A",
-    "vi": 30
-   },
-   {
-    "question": "Q: What is there on the __________? — A: There is a picture of our family.【門】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "desk"
-     },
-     {
-      "letter": "B",
-      "text": "pipe"
-     },
-     {
-      "letter": "C",
-      "text": "door"
-     },
-     {
-      "letter": "D",
-      "text": "basket"
+      "text": "gate"
      }
     ],
     "answer": "C",
-    "vi": 31
+    "vi": 30
    },
    {
-    "question": "Q: How many __________ are there in your room? — A: There are two. They are very big.【窗戶】",
+    "question": "Someone is knocking on the __________. Can you open it and see who it is?",
     "options": [
      {
       "letter": "A",
-      "text": "windows"
-     },
-     {
-      "letter": "B",
-      "text": "towels"
-     },
-     {
-      "letter": "C",
-      "text": "stairs"
-     },
-     {
-      "letter": "D",
-      "text": "tapes"
-     }
-    ],
-    "answer": "A",
-    "vi": 32
-   },
-   {
-    "question": "Q: What is there on the __________? — A: There is a clock and two pictures.【牆壁】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "computer"
+      "text": "floor"
      },
      {
       "letter": "B",
@@ -1480,30 +1434,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "drawer"
+      "text": "stairs"
      },
      {
       "letter": "D",
-      "text": "pot"
+      "text": "door"
      }
     ],
-    "answer": "B",
-    "vi": 33
+    "answer": "D",
+    "vi": 31
    },
    {
-    "question": "Q: What is there on the __________? — A: There are some toys. Please pick them up.【地板】",
+    "question": "It is hot in here. Let's open the __________ and let some fresh air in.",
     "options": [
      {
       "letter": "A",
-      "text": "mat"
+      "text": "windows"
      },
      {
       "letter": "B",
-      "text": "drawer"
+      "text": "walls"
      },
      {
       "letter": "C",
-      "text": "computer"
+      "text": "floors"
+     },
+     {
+      "letter": "D",
+      "text": "stairs"
+     }
+    ],
+    "answer": "A",
+    "vi": 32
+   },
+   {
+    "question": "There is a big picture of my family on the __________ of the living room. It hangs above the sofa.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "floor"
+     },
+     {
+      "letter": "B",
+      "text": "gate"
+     },
+     {
+      "letter": "C",
+      "text": "wall"
+     },
+     {
+      "letter": "D",
+      "text": "yard"
+     }
+    ],
+    "answer": "C",
+    "vi": 33
+   },
+   {
+    "question": "Don't leave your toys on the __________. Someone may step on them and fall.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wall"
+     },
+     {
+      "letter": "B",
+      "text": "window"
+     },
+     {
+      "letter": "C",
+      "text": "gate"
      },
      {
       "letter": "D",
@@ -1514,130 +1514,15 @@ window.FLASHCARD_UNITS = {
     "vi": 34
    },
    {
-    "question": "Q: Who is there at the __________? — A: There is a man with a big box.【大門】",
+    "question": "The school __________ opens at seven in the morning. Students can't get in before that.",
     "options": [
      {
       "letter": "A",
-      "text": "table"
+      "text": "wall"
      },
      {
       "letter": "B",
-      "text": "home"
-     },
-     {
-      "letter": "C",
       "text": "gate"
-     },
-     {
-      "letter": "D",
-      "text": "bath"
-     }
-    ],
-    "answer": "C",
-    "vi": 35
-   },
-   {
-    "question": "Q: How many floors are there in your house? — A: There are three. We walk up the __________ to our bedrooms.【樓梯】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "tapes"
-     },
-     {
-      "letter": "B",
-      "text": "videos"
-     },
-     {
-      "letter": "C",
-      "text": "keys"
-     },
-     {
-      "letter": "D",
-      "text": "stairs"
-     }
-    ],
-    "answer": "D",
-    "vi": 36
-   },
-   {
-    "question": "Q: Where are you, Ben? — A: I'm at __________. I'm watching TV.【家】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "home"
-     },
-     {
-      "letter": "B",
-      "text": "computer"
-     },
-     {
-      "letter": "C",
-      "text": "umbrella"
-     },
-     {
-      "letter": "D",
-      "text": "basket"
-     }
-    ],
-    "answer": "A",
-    "vi": 37
-   },
-   {
-    "question": "Q: Where is Amy? — A: She's in her __________. She's doing her homework.【房間】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "machine"
-     },
-     {
-      "letter": "B",
-      "text": "room"
-     },
-     {
-      "letter": "C",
-      "text": "blanket"
-     },
-     {
-      "letter": "D",
-      "text": "bedroom"
-     }
-    ],
-    "answer": "B",
-    "vi": 38
-   },
-   {
-    "question": "Q: Where are you, Lisa? — A: I'm in my __________. I'm getting ready for bed.【臥室】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "refrigerator"
-     },
-     {
-      "letter": "B",
-      "text": "lamp"
-     },
-     {
-      "letter": "C",
-      "text": "bedroom"
-     },
-     {
-      "letter": "D",
-      "text": "living room"
-     }
-    ],
-    "answer": "C",
-    "vi": 39
-   },
-   {
-    "question": "Q: Where is Dad? — A: He's in the __________. He's taking a shower.【浴室】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "mat"
-     },
-     {
-      "letter": "B",
-      "text": "kitchen"
      },
      {
       "letter": "C",
@@ -1645,133 +1530,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "bathroom"
-     }
-    ],
-    "answer": "D",
-    "vi": 40
-   },
-   {
-    "question": "Q: Where are you, Mom? — A: I'm in the __________. I'm cooking dinner.【廚房】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "kitchen"
-     },
-     {
-      "letter": "B",
-      "text": "sofa"
-     },
-     {
-      "letter": "C",
-      "text": "computer"
-     },
-     {
-      "letter": "D",
-      "text": "bathroom"
-     }
-    ],
-    "answer": "A",
-    "vi": 41
-   },
-   {
-    "question": "Q: Where are Grandpa and Grandma? — A: They're in the __________. They're having lunch.【飯廳】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "refrigerator"
-     },
-     {
-      "letter": "B",
-      "text": "road"
-     },
-     {
-      "letter": "C",
-      "text": "dining room"
-     },
-     {
-      "letter": "D",
-      "text": "computer"
-     }
-    ],
-    "answer": "C",
-    "vi": 42
-   },
-   {
-    "question": "Q: Where are the kids? — A: They're in the __________. They're playing games.【客廳】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "blanket"
-     },
-     {
-      "letter": "B",
-      "text": "living room"
-     },
-     {
-      "letter": "C",
-      "text": "refrigerator"
-     },
-     {
-      "letter": "D",
-      "text": "home"
+      "text": "yard"
      }
     ],
     "answer": "B",
-    "vi": 43
+    "vi": 35
    },
    {
-    "question": "Q: Where are you, Tom? — A: I'm on the __________. I'm looking at the stars.【陽台】",
+    "question": "The elevator is broken, so we have to walk up the __________ to the tenth floor.",
     "options": [
      {
       "letter": "A",
-      "text": "balcony"
+      "text": "gates"
      },
      {
       "letter": "B",
-      "text": "living room"
+      "text": "walls"
      },
      {
       "letter": "C",
-      "text": "basket"
+      "text": "stairs"
      },
      {
       "letter": "D",
-      "text": "refrigerator"
-     }
-    ],
-    "answer": "A",
-    "vi": 44
-   },
-   {
-    "question": "Q: Where is Grandma? — A: She's in the __________. She's watering the flowers.【花園】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pipe"
-     },
-     {
-      "letter": "B",
-      "text": "road"
-     },
-     {
-      "letter": "C",
-      "text": "garden"
-     },
-     {
-      "letter": "D",
-      "text": "chair"
+      "text": "yards"
      }
     ],
     "answer": "C",
-    "vi": 45
+    "vi": 36
    },
    {
-    "question": "Q: Where are you and your dog? — A: We're in the __________. We're playing with a ball.【庭院；院子】",
+    "question": "It is late. I have to go __________ now, or my parents will worry about me.",
     "options": [
      {
       "letter": "A",
-      "text": "living room"
+      "text": "room"
      },
      {
       "letter": "B",
@@ -1779,53 +1572,283 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
+      "text": "garden"
+     },
+     {
+      "letter": "D",
+      "text": "home"
+     }
+    ],
+    "answer": "D",
+    "vi": 37
+   },
+   {
+    "question": "My sister and I share a __________. There are two beds and two desks in it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "room"
+     },
+     {
+      "letter": "B",
+      "text": "gate"
+     },
+     {
+      "letter": "C",
+      "text": "wall"
+     },
+     {
+      "letter": "D",
+      "text": "floor"
+     }
+    ],
+    "answer": "A",
+    "vi": 38
+   },
+   {
+    "question": "I sleep and study in my __________. My bed and desk are there.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "kitchen"
+     },
+     {
+      "letter": "B",
+      "text": "bedroom"
+     },
+     {
+      "letter": "C",
+      "text": "bathroom"
+     },
+     {
+      "letter": "D",
+      "text": "balcony"
+     }
+    ],
+    "answer": "B",
+    "vi": 39
+   },
+   {
+    "question": "I take a shower and brush my teeth in the __________ every night before bed.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "kitchen"
+     },
+     {
+      "letter": "B",
+      "text": "bedroom"
+     },
+     {
+      "letter": "C",
+      "text": "bathroom"
+     },
+     {
+      "letter": "D",
+      "text": "garden"
+     }
+    ],
+    "answer": "C",
+    "vi": 40
+   },
+   {
+    "question": "Mom is cooking dinner in the __________. It smells so good!",
+    "options": [
+     {
+      "letter": "A",
+      "text": "bathroom"
+     },
+     {
+      "letter": "B",
+      "text": "bedroom"
+     },
+     {
+      "letter": "C",
       "text": "balcony"
      },
      {
       "letter": "D",
-      "text": "blanket"
-     }
-    ],
-    "answer": "B",
-    "vi": 46
-   },
-   {
-    "question": "Q: What do you do on Saturday mornings? — A: I __________ my room.【打掃】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fix"
-     },
-     {
-      "letter": "B",
-      "text": "build"
-     },
-     {
-      "letter": "C",
-      "text": "washes"
-     },
-     {
-      "letter": "D",
-      "text": "clean"
+      "text": "kitchen"
      }
     ],
     "answer": "D",
-    "vi": 47
+    "vi": 41
    },
    {
-    "question": "Q: What does your brother do after dinner? — A: He __________ the dishes.【清洗】",
+    "question": "We eat dinner together in the __________. There is a big table with six chairs in it.",
     "options": [
      {
       "letter": "A",
-      "text": "fix"
+      "text": "dining room"
      },
      {
       "letter": "B",
-      "text": "build"
+      "text": "bathroom"
      },
      {
       "letter": "C",
+      "text": "bedroom"
+     },
+     {
+      "letter": "D",
+      "text": "balcony"
+     }
+    ],
+    "answer": "A",
+    "vi": 42
+   },
+   {
+    "question": "The family watches TV on the sofa in the __________ after dinner.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "bathroom"
+     },
+     {
+      "letter": "B",
+      "text": "living room"
+     },
+     {
+      "letter": "C",
+      "text": "kitchen"
+     },
+     {
+      "letter": "D",
+      "text": "garden"
+     }
+    ],
+    "answer": "B",
+    "vi": 43
+   },
+   {
+    "question": "Mom hangs the wet clothes on the __________ of our apartment. It gets a lot of sun there.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "balcony"
+     },
+     {
+      "letter": "B",
+      "text": "kitchen"
+     },
+     {
+      "letter": "C",
+      "text": "bathroom"
+     },
+     {
+      "letter": "D",
+      "text": "bedroom"
+     }
+    ],
+    "answer": "A",
+    "vi": 44
+   },
+   {
+    "question": "Grandpa grows flowers and vegetables in his __________. He waters them every morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "kitchen"
+     },
+     {
+      "letter": "B",
+      "text": "bedroom"
+     },
+     {
+      "letter": "C",
+      "text": "bathroom"
+     },
+     {
+      "letter": "D",
+      "text": "garden"
+     }
+    ],
+    "answer": "D",
+    "vi": 45
+   },
+   {
+    "question": "The children are playing ball in the __________ in front of the house. The dog is running around them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "kitchen"
+     },
+     {
+      "letter": "B",
+      "text": "bedroom"
+     },
+     {
+      "letter": "C",
+      "text": "yard"
+     },
+     {
+      "letter": "D",
+      "text": "bathroom"
+     }
+    ],
+    "answer": "C",
+    "vi": 46
+   },
+   {
+    "question": "Your room is very dirty. Please __________ it before your friends come this afternoon.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "build"
+     },
+     {
+      "letter": "B",
+      "text": "clean"
+     },
+     {
+      "letter": "C",
+      "text": "fix"
+     },
+     {
+      "letter": "D",
+      "text": "cook"
+     }
+    ],
+    "answer": "B",
+    "vi": 47
+   },
+   {
+    "question": "Dad __________ his car with soap and water every Sunday morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fixes"
+     },
+     {
+      "letter": "B",
+      "text": "builds"
+     },
+     {
+      "letter": "C",
+      "text": "cooks"
+     },
+     {
+      "letter": "D",
       "text": "washes"
+     }
+    ],
+    "answer": "D",
+    "vi": 48
+   },
+   {
+    "question": "My bike is broken. Can you __________ it for me, Dad? I need it for school tomorrow.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "build"
+     },
+     {
+      "letter": "B",
+      "text": "wash"
+     },
+     {
+      "letter": "C",
+      "text": "fix"
      },
      {
       "letter": "D",
@@ -1833,91 +1856,68 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "C",
-    "vi": 48
-   },
-   {
-    "question": "Q: Does your dad __________ things at home? — A: Yes, he does. Our old lamp works again now.【修理】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fix"
-     },
-     {
-      "letter": "B",
-      "text": "build"
-     },
-     {
-      "letter": "C",
-      "text": "clean"
-     },
-     {
-      "letter": "D",
-      "text": "washes"
-     }
-    ],
-    "answer": "A",
     "vi": 49
    },
    {
-    "question": "Q: What do your uncle and his friends do? — A: They __________ houses. They are workers.【建造】",
+    "question": "They will __________ a new bridge over the river. It will take two years to finish.",
     "options": [
      {
       "letter": "A",
-      "text": "fix"
+      "text": "wash"
      },
      {
       "letter": "B",
-      "text": "clean"
-     },
-     {
-      "letter": "C",
-      "text": "washes"
-     },
-     {
-      "letter": "D",
       "text": "build"
-     }
-    ],
-    "answer": "D",
-    "vi": 50
-   },
-   {
-    "question": "Q: Does Amy take a __________ every night? — A: No, she doesn't. She takes a shower.【洗澡；浴缸】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "couch"
-     },
-     {
-      "letter": "B",
-      "text": "bath"
      },
      {
       "letter": "C",
-      "text": "camera"
+      "text": "cook"
      },
      {
       "letter": "D",
-      "text": "kitchen"
+      "text": "fix"
      }
     ],
     "answer": "B",
-    "vi": 51
+    "vi": 50
    },
    {
-    "question": "Q: Where does Tina live? — A: She lives on Park __________.【街道】",
+    "question": "I like to take a hot __________ before bed. I lie in the warm water for twenty minutes.",
     "options": [
      {
       "letter": "A",
-      "text": "television"
+      "text": "bath"
      },
      {
       "letter": "B",
-      "text": "umbrella"
+      "text": "street"
      },
      {
       "letter": "C",
+      "text": "road"
+     },
+     {
+      "letter": "D",
+      "text": "gate"
+     }
+    ],
+    "answer": "A",
+    "vi": 51
+   },
+   {
+    "question": "There are many shops and restaurants on this __________. It is the busiest one in the town.",
+    "options": [
+     {
+      "letter": "A",
       "text": "bath"
+     },
+     {
+      "letter": "B",
+      "text": "floor"
+     },
+     {
+      "letter": "C",
+      "text": "wall"
      },
      {
       "letter": "D",
@@ -1928,15 +1928,15 @@ window.FLASHCARD_UNITS = {
     "vi": 52
    },
    {
-    "question": "Q: Where do your grandparents live? — A: They live on Zhongshan __________, near the station.【道路；路】",
+    "question": "Drive carefully. The __________ to the mountain village is narrow, and there are many turns.",
     "options": [
      {
       "letter": "A",
-      "text": "telephone"
+      "text": "bath"
      },
      {
       "letter": "B",
-      "text": "desk"
+      "text": "floor"
      },
      {
       "letter": "C",
@@ -1944,7 +1944,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "pipe"
+      "text": "wall"
      }
     ],
     "answer": "C",
@@ -1953,4 +1953,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"umbrella":["a thing you hold over your head to stay dry in the rain","雨傘"],"fan":["a person who likes a singer, a team, or a sport very much","粉絲；狂熱愛好者"],"bed":["a thing that you sleep on","床"],"sofa":["a long, soft seat for two or more people","沙發"],"couch":["a long, soft seat for two or more people","沙發"],"chair":["a seat for one person, with a back and four legs","椅子"],"desk":["a table where you study or work","書桌"],"table":["a thing with a flat top and legs that you put things on","桌子"],"drawer":["a box in a desk or table that you pull out to put things in","抽屜"],"lamp":["a small light that stands on a desk or table","檯燈"],"blanket":["a big, warm cover for your bed","毯子"],"towels":["a piece of cloth that you use to dry yourself","毛巾"],"keys":["a small metal thing that opens a door or starts a car","鑰匙"],"basket":["a container made of thin sticks for carrying things","籃子"],"pot":["a deep round container for cooking food or holding tea","鍋子；壺"],"candles":["a stick of wax that gives light when it burns","蠟燭"],"mat":["a small piece of thick cloth on the floor","墊子"],"bench":["a long seat for two or more people, often in a park","長椅"],"light":["a thing that makes a room bright","燈；燈光"],"television":["a machine with a screen that shows programs and movies","電視"],"computer":["a machine you use to write, play games, and go online","電腦"],"telephone":["a thing you use to talk to someone who is far away","電話"],"radio":["a machine that plays music and news you can listen to","收音機"],"camera":["a thing you use to take photos","照相機"],"refrigerator":["a machine in the kitchen that keeps food cold","冰箱"],"machine":["a thing with moving parts that does work for people","機器"],"tapes":["a long thin strip that holds sound or sticks things together","錄音帶；膠帶"],"videos":["a short movie that you watch on a phone, computer, or TV","影片；錄影帶"],"pipe":["a long tube that water or gas moves through","管子；水管"],"house":["a building where a family lives","房子"],"apartment":["a home that is part of a bigger building","公寓"],"door":["the thing you open to go into a room or a house","門"],"windows":["an opening with glass in a wall that lets in light and air","窗戶"],"wall":["one of the sides of a room or building","牆壁"],"floor":["the part of a room that you walk on","地板"],"gate":["a door in a fence or outside wall","大門"],"stairs":["steps that go from one floor of a building to another","樓梯"],"home":["the place where you live","家"],"room":["one of the parts of a house, with walls and a door","房間"],"bedroom":["a room for sleeping in","臥室"],"bathroom":["a room with a toilet and a place to wash","浴室"],"kitchen":["a room where people cook food","廚房"],"balcony":["a small open place outside an upstairs room","陽台"],"garden":["a place by a house where flowers and vegetables grow","花園"],"yard":["a piece of ground next to a house","庭院；院子"],"clean":["to make something not dirty","打掃"],"washes":["to clean something with water and soap","清洗"],"fix":["to make a broken thing work again","修理"],"build":["to make something like a house or a bridge","建造"],"bath":["washing your body in a big container of water; that container","洗澡；浴缸"],"street":["a road in a town or city with houses or shops on it","街道"],"road":["a hard way for cars, buses, and bikes to go on","道路；路"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"desk":["a table where you study or work","書桌"],"drawer":["a box in a desk or table that you pull out to put things in","抽屜"],"bed":["a thing that you sleep on","床"],"lamp":["a small light that stands on a desk or table","檯燈"],"sofa":["a long, soft seat for two or more people","沙發"],"basket":["a container made of thin sticks for carrying things","籃子"],"couch":["a long, soft seat for two or more people","沙發"],"chair":["a seat for one person, with a back and four legs","椅子"],"blanket":["a big, warm cover for your bed","毯子"],"towel":["a piece of cloth that you use to dry yourself","毛巾"],"mat":["a small piece of thick cloth on the floor","墊子"],"table":["a thing with a flat top and legs that you put things on","桌子"],"candle":["a stick of wax that gives light when it burns","蠟燭"],"key":["a small metal thing that opens a door or starts a car","鑰匙"],"pot":["a deep round container for cooking food or holding tea","鍋子；壺"],"keys":["a small metal thing that opens a door or starts a car","鑰匙"],"candles":["a stick of wax that gives light when it burns","蠟燭"],"pots":["a deep round container for cooking food or holding tea","鍋子；壺"],"towels":["a piece of cloth that you use to dry yourself","毛巾"],"umbrella":["a thing you hold over your head to stay dry in the rain","雨傘"],"bench":["a long seat for two or more people, often in a park","長椅"],"pipe":["a long tube that water or gas moves through","管子；水管"],"mats":["a small piece of thick cloth on the floor","墊子"],"light":["a thing that makes a room bright","燈；燈光"],"gate":["a door in a fence or outside wall","大門"],"radio":["a machine that plays music and news you can listen to","收音機"],"television":["a machine with a screen that shows programs and movies","電視"],"telephone":["a thing you use to talk to someone who is far away","電話"],"camera":["a thing you use to take photos","照相機"],"computer":["a machine you use to write, play games, and go online","電腦"],"fan":["a person who likes a singer, a team, or a sport very much","粉絲；狂熱愛好者"],"refrigerator":["a machine in the kitchen that keeps food cold","冰箱"],"machine":["a thing with moving parts that does work for people","機器"],"tapes":["a long thin strip that holds sound or sticks things together","錄音帶；膠帶"],"pipes":["a long tube that water or gas moves through","管子；水管"],"lamps":["a small light that stands on a desk or table","檯燈"],"cameras":["a thing you use to take photos","照相機"],"radios":["a machine that plays music and news you can listen to","收音機"],"videos":["a short movie that you watch on a phone, computer, or TV","影片；錄影帶"],"room":["one of the parts of a house, with walls and a door","房間"],"house":["a building where a family lives","房子"],"kitchen":["a room where people cook food","廚房"],"balcony":["a small open place outside an upstairs room","陽台"],"garden":["a place by a house where flowers and vegetables grow","花園"],"yard":["a piece of ground next to a house","庭院；院子"],"apartment":["a home that is part of a bigger building","公寓"],"floor":["the part of a room that you walk on","地板"],"wall":["one of the sides of a room or building","牆壁"],"stairs":["steps that go from one floor of a building to another","樓梯"],"door":["the thing you open to go into a room or a house","門"],"windows":["an opening with glass in a wall that lets in light and air","窗戶"],"walls":["one of the sides of a room or building","牆壁"],"floors":["the part of a room that you walk on","地板"],"window":["an opening with glass in a wall that lets in light and air","窗戶"],"gates":["a door in a fence or outside wall","大門"],"yards":["a unit of length; it is 3 feet, or about 91 centimeters","碼"],"home":["the place where you live","家"],"bedroom":["a room for sleeping in","臥室"],"bathroom":["a room with a toilet and a place to wash","浴室"],"build":["to make something like a house or a bridge","建造"],"clean":["to make something not dirty","打掃"],"fix":["to make a broken thing work again","修理"],"cook":["to make food ready to eat by heating it","煮飯；烹調"],"fixes":["to make a broken thing work again","修理"],"builds":["to make something like a house or a bridge","建造"],"cooks":["to make food ready to eat by heating it","煮飯；烹調"],"washes":["to clean something with water and soap","清洗"],"wash":["to clean something with water and soap","清洗"],"bath":["washing your body in a big container of water; that container","洗澡；浴缸"],"street":["a road in a town or city with houses or shops on it","街道"],"road":["a hard way for cars, buses, and bikes to go on","道路；路"]});

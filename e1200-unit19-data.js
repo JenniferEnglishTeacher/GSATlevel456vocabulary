@@ -346,83 +346,83 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: What's your ______? — A: I'm 150 cm tall.【身高；高度】",
+    "q": "What is your ______? I am 160 centimeters tall.",
     "options": [
       "size",
-      "bottle",
+      "shape",
       "height",
-      "shape"
+      "row"
     ],
     "answer": 2,
     "cn": "你的身高是多少？ — 我身高一百五十公分。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: How tall is your brother? — A: He is 170 ______ tall.【公分】",
+    "q": "My brother is 175 ______ tall. He is the tallest boy in his class.",
     "options": [
       "grams",
-      "centimeters",
-      "inches",
-      "kilograms"
+      "kilograms",
+      "pounds",
+      "centimeters"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你哥哥多高？ — 他一百七十公分高。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: How long is the snake? — A: It's about six ______ long.【呎】",
+    "q": "The basketball player is seven ______ tall. That is about 213 centimeters!",
     "options": [
       "feet",
-      "line",
-      "circle",
-      "dozen"
+      "miles",
+      "grams",
+      "pounds"
     ],
     "answer": 0,
     "cn": "那條蛇多長？ — 牠大約六呎長。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: How long is your ruler? — A: It's twelve ______ long. That's one foot.【英吋】",
+    "q": "There are twelve ______ in a foot. One of them is about two and a half centimeters.",
     "options": [
-      "centimeters",
-      "glasses",
-      "dots",
-      "inches"
+      "miles",
+      "inches",
+      "yards",
+      "pounds"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "你的尺多長？ — 它十二英吋長，也就是一呎。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: How far do you walk to the store? — A: I walk about 100 ______. It's very near.【碼】",
+    "q": "In American football, the field is one hundred ______ long. Each one is three feet.",
     "options": [
-      "kilos",
       "yards",
-      "pounds",
-      "centimeters"
+      "miles",
+      "grams",
+      "pounds"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你走多遠到商店？ — 我走大約一百碼，很近。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: How far does your uncle run every morning? — A: He runs three ______.【英里；哩】",
+    "q": "It is about 250 ______ from Taipei to Kaohsiung. Americans use this instead of kilometers.",
     "options": [
-      "glasses",
-      "centimeters",
+      "inches",
       "miles",
-      "points"
+      "grams",
+      "pounds"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你叔叔每天早上跑多遠？ — 他跑三英里。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: Does Ben live ______ from school? — A: Yes, he does. He lives five miles from school, so he goes by bus.【遠的】",
+    "q": "The station is too ______ to walk to. It is ten kilometers away, so let's take a bus.",
     "options": [
-      "straight",
-      "little",
-      "lighter",
+      "high",
+      "deep",
+      "wide",
       "far"
     ],
     "answer": 3,
@@ -430,335 +430,335 @@ const MCQS = [
     "vocabIndex": 6
   },
   {
-    "q": "Q: How ______ is Taipei 101? — A: It's about 1,670 feet.【高的】",
+    "q": "Mt. Jade is very ______. It is almost 4,000 meters above the sea.",
     "options": [
-      "high",
-      "medium",
       "deep",
-      "little"
+      "wide",
+      "high",
+      "round"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "臺北101有多高？ — 它大約一千六百七十呎。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: How ______ is the pool? — A: It's about five feet. Don't swim there alone.【深的】",
+    "q": "Don't swim in that part of the lake. The water there is very ______, and your feet can't touch the bottom.",
     "options": [
-      "little",
-      "lower",
       "deep",
-      "bigger"
+      "high",
+      "wide",
+      "round"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "這座游泳池有多深？ — 大約五呎深，不要獨自在那裡游泳。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: How ______ is the road? — A: It's about twenty feet.【寬的】",
+    "q": "The river is fifty meters ______. We need a boat to get to the other side.",
     "options": [
-      "longer",
-      "shorter",
       "high",
-      "wide"
+      "wide",
+      "round",
+      "straight"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "這條路有多寬？ — 它大約二十呎寬。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: How much sugar do you need for the cake? — A: I need 200 ______ of sugar.【公克】",
+    "q": "I need 200 ______ of sugar to make this cake. That is not very heavy.",
     "options": [
-      "grams",
-      "glasses",
-      "pounds",
-      "kilograms"
+      "miles",
+      "inches",
+      "yards",
+      "grams"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "做蛋糕你需要多少糖？ — 我需要兩百公克的糖。",
     "vocabIndex": 10
   },
   {
-    "q": "Q: How much does your dog weigh? — A: It weighs ten ______.【公斤】",
+    "q": "I weigh fifty ______. My little sister is lighter, so she weighs only thirty.",
     "options": [
-      "points",
+      "centimeters",
+      "miles",
       "kilograms",
-      "angles",
-      "glasses"
+      "inches"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你的狗多重？ — 牠十公斤重。",
     "vocabIndex": 11
   },
   {
-    "q": "Q: How much does the baby weigh? — A: She weighs seven ______.【磅】",
+    "q": "In America, people buy meat in ______. One of them is a little less than half a kilogram.",
     "options": [
       "inches",
-      "angles",
-      "pounds",
-      "glasses"
+      "miles",
+      "yards",
+      "pounds"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "那個寶寶多重？ — 她七磅重。",
     "vocabIndex": 12
   },
   {
-    "q": "Q: What ______ do you like? — A: I like stars and hearts.【形狀】",
+    "q": "What ______ is the moon tonight? It is round like a ball.",
     "options": [
-      "pack",
-      "circle",
-      "row",
-      "shape"
+      "shape",
+      "size",
+      "height",
+      "row"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你喜歡什麼形狀？ — 我喜歡星形和心形。",
     "vocabIndex": 13
   },
   {
-    "q": "Q: What shape is the moon tonight? — A: It's ______ and bright.【圓形的】",
+    "q": "A ball is ______. The sun, the moon, and oranges have this shape, too.",
     "options": [
+      "square",
       "round",
-      "high",
-      "lower",
-      "straight"
+      "straight",
+      "wide"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "今晚的月亮是什麼形狀？ — 它又圓又亮。",
     "vocabIndex": 14
   },
   {
-    "q": "Q: What does the teacher draw on the blackboard? — A: She draws a big ______.【圓圈】",
+    "q": "The teacher asked us to sit in a ______ on the floor. Then everyone could see each other.",
     "options": [
-      "row",
+      "dot",
+      "point",
       "circle",
-      "size",
-      "pack"
+      "angle"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "老師在黑板上畫什麼？ — 她畫一個大圓圈。",
     "vocabIndex": 15
   },
   {
-    "q": "Q: What shape is the gift box? — A: It's ______. It has four sides.【正方形的】",
+    "q": "A ______ box has four sides of the same length. This one is ten centimeters on each side.",
     "options": [
-      "smaller",
-      "large",
       "round",
-      "square"
+      "square",
+      "straight",
+      "deep"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "那個禮物盒是什麼形狀？ — 它是正方形的，有四個邊。",
     "vocabIndex": 16
   },
   {
-    "q": "Q: How many ______ does a square have? — A: It has four.【角；邊角】",
+    "q": "A triangle has three sides and three ______. A square has four of each.",
     "options": [
-      "miles",
-      "centimeters",
       "angles",
-      "glasses"
+      "rows",
+      "pairs",
+      "bottles"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "一個正方形有幾個角？ — 它有四個。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: What do the students stand in at lunch time? — A: They stand in a ______.【線；行列】",
+    "q": "Please stand in ______ and wait for the bus. Don't push the people in front of you.",
     "options": [
-      "bottle",
+      "shape",
+      "size",
       "line",
-      "feet",
-      "package"
+      "dot"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "學生們午餐時間站成什麼？ — 他們排成一列（排隊）。",
     "vocabIndex": 18
   },
   {
-    "q": "Q: What does Amy draw with her ruler? — A: She draws a ______ line.【直的】",
+    "q": "Go ______ down this road for two blocks. Don't turn left or right.",
     "options": [
-      "straight",
-      "shorter",
+      "round",
       "wide",
-      "little"
+      "deep",
+      "straight"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "艾美用尺畫什麼？ — 她畫一條直線。",
     "vocabIndex": 19
   },
   {
-    "q": "Q: What do your new socks look like? — A: They're white with red ______.【點】",
+    "q": "Her dress is white with small red ______. They look like little round candies.",
     "options": [
-      "miles",
-      "grams",
-      "inches",
-      "dots"
+      "dots",
+      "rows",
+      "angles",
+      "sizes"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你的新襪子看起來怎麼樣？ — 它們是白色的，有紅色的點點。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: How many ______ does your team get? — A: We get twenty-five. We win the game!【分數；得分】",
+    "q": "Our team got ninety ______ in the basketball game, so we won.",
     "options": [
-      "inches",
+      "dots",
+      "rows",
       "points",
-      "angles",
-      "pounds"
+      "lines"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你們隊得幾分？ — 我們得二十五分，我們贏了比賽！",
     "vocabIndex": 21
   },
   {
-    "q": "Q: Where do you sit in class? — A: I sit in the first ______.【一排】",
+    "q": "We sat in the front ______ at the theater. We were so close that we could see the actors' faces.",
     "options": [
-      "row",
-      "dozen",
-      "pair",
-      "feet"
+      "dot",
+      "size",
+      "shape",
+      "row"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "你上課坐在哪裡？ — 我坐在第一排。",
     "vocabIndex": 22
   },
   {
-    "q": "Q: What ______ do you wear? — A: I wear S. I'm not very tall.【尺寸】",
+    "q": "These shoes are too small. Do you have them in a bigger ______?",
     "options": [
-      "pair",
-      "height",
+      "shape",
       "size",
-      "feet"
+      "height",
+      "row"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你穿什麼尺寸？ — 我穿 S 號，我不是很高。",
     "vocabIndex": 23
   },
   {
-    "q": "Q: What size do you and your brother wear? — A: We wear ______.【中等的】",
+    "q": "I don't want a small or a large Coke. I'd like a ______ one, please.",
     "options": [
       "medium",
+      "round",
       "straight",
-      "longer",
-      "lighter"
+      "deep"
     ],
     "answer": 0,
     "cn": "你和你弟弟穿什麼尺寸？ — 我們穿中號。",
     "vocabIndex": 24
   },
   {
-    "q": "Q: What size Coke does Tom want? — A: He wants a ______ Coke.【大的】",
+    "q": "We are very hungry. Let's order a ______ pizza, not a small one.",
     "options": [
-      "lighter",
-      "round",
-      "large",
-      "wide"
+      "low",
+      "light",
+      "short",
+      "large"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "湯姆想要什麼尺寸的可樂？ — 他想要一杯大杯可樂。",
     "vocabIndex": 25
   },
   {
-    "q": "Q: How much water do you want? — A: I want a ______ of water, please.【瓶子】",
+    "q": "I bought a ______ of water at the convenience store. I drank it all after the game.",
     "options": [
-      "piece",
+      "pair",
+      "dozen",
       "bottle",
-      "cup",
-      "dozen"
+      "row"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你想要多少水？ — 我想要一瓶水，謝謝。",
     "vocabIndex": 26
   },
   {
-    "q": "Q: What does Grandpa drink every morning? — A: He drinks a ______ of hot tea.【茶杯；一杯】",
+    "q": "Would you like a ______ of coffee? I just made a fresh pot.",
     "options": [
-      "circle",
-      "dozen",
-      "feet",
-      "cup"
+      "pair",
+      "cup",
+      "piece",
+      "dozen"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "爺爺每天早上喝什麼？ — 他喝一杯熱茶。",
     "vocabIndex": 27
   },
   {
-    "q": "Q: How much milk does Amy drink every day? — A: She drinks two ______ of milk.【玻璃杯；一杯】",
+    "q": "I drink eight ______ of water every day. The doctor says it is good for me.",
     "options": [
-      "centimeters",
       "glasses",
-      "kilos",
-      "inches"
+      "pairs",
+      "pieces",
+      "rows"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "艾美每天喝多少牛奶？ — 她喝兩杯牛奶。",
     "vocabIndex": 28
   },
   {
-    "q": "Q: How much cake do you want? — A: I want a ______ of cake.【片；塊】",
+    "q": "Would you like a ______ of cake? I cut it into eight.",
     "options": [
-      "feet",
-      "shape",
+      "pair",
+      "dozen",
       "piece",
-      "line"
+      "bottle"
     ],
     "answer": 2,
     "cn": "你想要多少蛋糕？ — 我想要一塊蛋糕。",
     "vocabIndex": 29
   },
   {
-    "q": "Q: What do the kids buy at the store? — A: They buy a ______ of cookies.【包】",
+    "q": "We need a ______ of cards to play this game. There are fifty-two in it.",
     "options": [
-      "pack",
-      "shape",
-      "row",
-      "line"
+      "pair",
+      "bottle",
+      "piece",
+      "pack"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "孩子們在商店買什麼？ — 他們買一包餅乾。",
     "vocabIndex": 30
   },
   {
-    "q": "Q: What does Mom get from Grandma today? — A: She gets a big ______. There are cookies in it.【包裹】",
+    "q": "The mailman brought a big ______ for you. It is a box from Grandma, and it is very heavy.",
     "options": [
-      "cup",
-      "size",
-      "feet",
-      "package"
+      "pair",
+      "package",
+      "dozen",
+      "row"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "媽媽今天收到奶奶寄來的什麼？ — 她收到一個大包裹，裡面有餅乾。",
     "vocabIndex": 31
   },
   {
-    "q": "Q: What does Ben need for PE class? — A: He needs a new ______ of shoes.【一雙；一對】",
+    "q": "I bought a new ______ of shoes yesterday. The left one fits, but the right one is a little small.",
     "options": [
-      "circle",
-      "shape",
+      "piece",
+      "bottle",
       "pair",
-      "dozen"
+      "cup"
     ],
     "answer": 2,
     "cn": "班上體育課需要什麼？ — 他需要一雙新鞋子。",
     "vocabIndex": 32
   },
   {
-    "q": "Q: How many eggs do we need for the cake? — A: We need a ______ eggs.【（一）打】",
+    "q": "I bought a ______ eggs at the supermarket. We ate two this morning, so there are ten left.",
     "options": [
-      "shape",
       "dozen",
-      "package",
-      "bottle"
+      "piece",
+      "bottle",
+      "pack"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "做蛋糕我們需要幾顆蛋？ — 我們需要一打蛋。",
     "vocabIndex": 33
   },
   {
-    "q": "Q: How much rice do your parents buy? — A: They buy two ______ of rice.【公斤（簡稱）】",
+    "q": "Mom bought two ______ of pork at the market. It was heavy to carry home.",
     "options": [
-      "inches",
-      "glasses",
-      "kilograms",
+      "pairs",
+      "rows",
+      "dots",
       "kilos"
     ],
     "answer": 3,
@@ -766,161 +766,111 @@ const MCQS = [
     "vocabIndex": 34
   },
   {
-    "q": "Q: Is an elephant small? — A: No, it isn't. It's much ______ than a horse.【大的】",
+    "q": "An elephant is much ______ than a mouse. It is the largest animal on land.",
     "options": [
+      "smaller",
       "bigger",
-      "round",
-      "deep",
+      "shorter",
       "lighter"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "大象很小嗎？ — 不，牠不小。牠比馬大得多。",
     "vocabIndex": 35
   },
   {
-    "q": "Q: Is a mouse big? — A: No, it isn't. It's ______ than a cat.【小的】",
+    "q": "A cat is ______ than a tiger. You can hold it in your arms.",
     "options": [
-      "large",
-      "high",
+      "bigger",
+      "longer",
       "smaller",
-      "lighter"
+      "lower"
     ],
     "answer": 2,
     "cn": "老鼠很大嗎？ — 不，牠不大。牠比貓小。",
     "vocabIndex": 36
   },
   {
-    "q": "Q: Do you have a big dog? — A: No, I don't. I have a ______ dog. It's very cute.【小的】",
+    "q": "Look at that ______ baby bird! It is so small that it can sit in my hand.",
     "options": [
-      "lighter",
+      "large",
       "little",
-      "straight",
-      "round"
+      "long",
+      "deep"
     ],
     "answer": 1,
     "cn": "你有一隻大狗嗎？ — 不，我沒有。我有一隻小狗，牠很可愛。",
     "vocabIndex": 37
   },
   {
-    "q": "Q: Does Amy have short hair? — A: No, she doesn't. Her hair is ______ than mine.【長的】",
+    "q": "A snake is much ______ than a worm. Some are five meters from head to tail.",
     "options": [
-      "longer",
-      "deep",
+      "shorter",
+      "lighter",
       "smaller",
-      "square"
+      "longer"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "艾美是短頭髮嗎？ — 不，她不是。她的頭髮比我的長。",
     "vocabIndex": 38
   },
   {
-    "q": "Q: Is your pencil long? — A: No, it isn't. It's ______ than my pen.【短的】",
+    "q": "My hair is ______ than yours. Mine only reaches my ears, but yours reaches your shoulders.",
     "options": [
-      "square",
-      "large",
-      "far",
-      "shorter"
+      "shorter",
+      "longer",
+      "bigger",
+      "lower"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你的鉛筆很長嗎？ — 不，它不長。它比我的原子筆短。",
     "vocabIndex": 39
   },
   {
-    "q": "Q: Is this chair high? — A: No, it isn't. It's ______ than that table.【低的】",
+    "q": "This table is ______ than that one. It is only forty centimeters high.",
     "options": [
-      "medium",
-      "smaller",
+      "longer",
       "lower",
-      "far"
+      "lighter",
+      "bigger"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "這張椅子很高嗎？ — 不，它不高。它比那張桌子低。",
     "vocabIndex": 40
   },
   {
-    "q": "Q: Is your schoolbag heavy? — A: No, it isn't. It's ______ than Ben's bag.【輕的】",
+    "q": "This bag is ______ than that one. It has only one book in it, so it is easy to carry.",
     "options": [
-      "straight",
-      "lighter",
-      "large",
-      "smaller"
+      "longer",
+      "lower",
+      "shorter",
+      "lighter"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你的書包很重嗎？ — 不，它不重。它比班的書包輕。",
     "vocabIndex": 41
   }
 ];
 
 const LOOKUP = {
-  "shorter": {
-    "pos": "adj.",
-    "en_def": "not tall; not long",
-    "cn_def": "矮的；短的"
-  },
-  "feet": {
+  "size": {
     "pos": "n.",
-    "en_def": "the part at the end of your leg that you stand on",
-    "cn_def": "腳"
+    "en_def": "how big or small something is",
+    "cn_def": "尺寸"
   },
-  "little": {
-    "pos": "adj.",
-    "en_def": "not much",
-    "cn_def": "很少的（不可數）"
-  },
-  "cup": {
+  "shape": {
     "pos": "n.",
-    "en_def": "a small container with a handle, used for drinking",
-    "cn_def": "茶杯；杯子"
-  },
-  "glasses": {
-    "pos": "n.",
-    "en_def": "two pieces of glass you wear in front of your eyes to see better",
-    "cn_def": "眼鏡"
+    "en_def": "the form of something, like a circle or a square",
+    "cn_def": "形狀"
   },
   "height": {
     "pos": "n.",
     "en_def": "how tall or high something is",
     "cn_def": "身高；高度"
   },
-  "centimeters": {
+  "row": {
     "pos": "n.",
-    "en_def": "a small unit of length; 100 of them make one meter",
-    "cn_def": "公分"
-  },
-  "inches": {
-    "pos": "n.",
-    "en_def": "a small unit of length; about 2.5 centimeters",
-    "cn_def": "英吋"
-  },
-  "yards": {
-    "pos": "n.",
-    "en_def": "a unit of length; it is 3 feet, or about 91 centimeters",
-    "cn_def": "碼"
-  },
-  "miles": {
-    "pos": "n.",
-    "en_def": "a unit of length for long distances; about 1.6 kilometers",
-    "cn_def": "英里；哩"
-  },
-  "far": {
-    "pos": "adj.",
-    "en_def": "not near; a long way away",
-    "cn_def": "遠的"
-  },
-  "high": {
-    "pos": "adj.",
-    "en_def": "a long way up from the ground",
-    "cn_def": "高的"
-  },
-  "deep": {
-    "pos": "adj.",
-    "en_def": "going a long way down, like the sea",
-    "cn_def": "深的"
-  },
-  "wide": {
-    "pos": "adj.",
-    "en_def": "big from one side to the other",
-    "cn_def": "寬的"
+    "en_def": "a line of people or things side by side",
+    "cn_def": "一排"
   },
   "grams": {
     "pos": "n.",
@@ -937,77 +887,187 @@ const LOOKUP = {
     "en_def": "a unit of weight; a little less than half a kilogram",
     "cn_def": "磅"
   },
-  "shape": {
+  "centimeters": {
     "pos": "n.",
-    "en_def": "the form of something, like a circle or a square",
-    "cn_def": "形狀"
+    "en_def": "a small unit of length; 100 of them make one meter",
+    "cn_def": "公分"
+  },
+  "feet": {
+    "pos": "n.",
+    "en_def": "the part at the end of your leg that you stand on",
+    "cn_def": "腳"
+  },
+  "miles": {
+    "pos": "n.",
+    "en_def": "a unit of length for long distances; about 1.6 kilometers",
+    "cn_def": "英里；哩"
+  },
+  "inches": {
+    "pos": "n.",
+    "en_def": "a small unit of length; about 2.5 centimeters",
+    "cn_def": "英吋"
+  },
+  "yards": {
+    "pos": "n.",
+    "en_def": "a unit of length; it is 3 feet, or about 91 centimeters",
+    "cn_def": "碼"
+  },
+  "high": {
+    "pos": "adj.",
+    "en_def": "a long way up from the ground",
+    "cn_def": "高的"
+  },
+  "deep": {
+    "pos": "adj.",
+    "en_def": "going a long way down, like the sea",
+    "cn_def": "深的"
+  },
+  "wide": {
+    "pos": "adj.",
+    "en_def": "big from one side to the other",
+    "cn_def": "寬的"
+  },
+  "far": {
+    "pos": "adj.",
+    "en_def": "not near; a long way away",
+    "cn_def": "遠的"
   },
   "round": {
     "pos": "adj.",
     "en_def": "having the shape of a ball or a circle",
     "cn_def": "圓形的"
   },
-  "circle": {
-    "pos": "n.",
-    "en_def": "a round shape like the letter O",
-    "cn_def": "圓圈"
+  "straight": {
+    "pos": "adj.",
+    "en_def": "not bending or turning",
+    "cn_def": "直的"
   },
   "square": {
     "pos": "adj.",
     "en_def": "having four sides of the same length",
     "cn_def": "正方形的"
   },
+  "dot": {
+    "pos": "n.",
+    "en_def": "a very small round mark",
+    "cn_def": "點"
+  },
+  "point": {
+    "pos": "n.",
+    "en_def": "a number you get in a game or on a test",
+    "cn_def": "分數；得分"
+  },
+  "circle": {
+    "pos": "n.",
+    "en_def": "a round shape like the letter O",
+    "cn_def": "圓圈"
+  },
+  "angle": {
+    "pos": "n.",
+    "en_def": "the corner where two lines meet",
+    "cn_def": "角；邊角"
+  },
   "angles": {
     "pos": "n.",
     "en_def": "the corner where two lines meet",
     "cn_def": "角；邊角"
+  },
+  "rows": {
+    "pos": "n.",
+    "en_def": "a line of people or things side by side",
+    "cn_def": "一排"
+  },
+  "pairs": {
+    "pos": "n.",
+    "en_def": "two things of the same kind that are used together, like shoes",
+    "cn_def": "一雙；一對"
+  },
+  "bottles": {
+    "pos": "n.",
+    "en_def": "a tall container made of glass or plastic for drinks",
+    "cn_def": "瓶子"
   },
   "line": {
     "pos": "n.",
     "en_def": "a long thin mark; people or things standing one behind another",
     "cn_def": "線；行列"
   },
-  "straight": {
-    "pos": "adj.",
-    "en_def": "not bending or turning",
-    "cn_def": "直的"
-  },
   "dots": {
     "pos": "n.",
     "en_def": "a very small round mark",
     "cn_def": "點"
+  },
+  "sizes": {
+    "pos": "n.",
+    "en_def": "how big or small something is",
+    "cn_def": "尺寸"
   },
   "points": {
     "pos": "n.",
     "en_def": "a number you get in a game or on a test",
     "cn_def": "分數；得分"
   },
-  "row": {
+  "lines": {
     "pos": "n.",
-    "en_def": "a line of people or things side by side",
-    "cn_def": "一排"
-  },
-  "size": {
-    "pos": "n.",
-    "en_def": "how big or small something is",
-    "cn_def": "尺寸"
+    "en_def": "a long thin mark; people or things standing one behind another",
+    "cn_def": "線；行列"
   },
   "medium": {
     "pos": "adj.",
     "en_def": "not big and not small; in the middle",
     "cn_def": "中等的"
   },
+  "low": {
+    "pos": "adj.",
+    "en_def": "not high; near the ground",
+    "cn_def": "低的"
+  },
+  "light": {
+    "pos": "n.",
+    "en_def": "a thing that makes a room bright",
+    "cn_def": "燈；燈光"
+  },
+  "short": {
+    "pos": "adj.",
+    "en_def": "not tall; not long",
+    "cn_def": "矮的；短的"
+  },
   "large": {
     "pos": "adj.",
     "en_def": "big",
     "cn_def": "大的"
+  },
+  "pair": {
+    "pos": "n.",
+    "en_def": "two things of the same kind that are used together, like shoes",
+    "cn_def": "一雙；一對"
+  },
+  "dozen": {
+    "pos": "n.",
+    "en_def": "a group of twelve",
+    "cn_def": "（一）打"
   },
   "bottle": {
     "pos": "n.",
     "en_def": "a tall container made of glass or plastic for drinks",
     "cn_def": "瓶子"
   },
+  "cup": {
+    "pos": "n.",
+    "en_def": "a small container with a handle, used for drinking",
+    "cn_def": "茶杯；杯子"
+  },
   "piece": {
+    "pos": "n.",
+    "en_def": "one part of something",
+    "cn_def": "片；塊"
+  },
+  "glasses": {
+    "pos": "n.",
+    "en_def": "two pieces of glass you wear in front of your eyes to see better",
+    "cn_def": "眼鏡"
+  },
+  "pieces": {
     "pos": "n.",
     "en_def": "one part of something",
     "cn_def": "片；塊"
@@ -1022,30 +1082,30 @@ const LOOKUP = {
     "en_def": "a box or bag that is sent by mail",
     "cn_def": "包裹"
   },
-  "pair": {
-    "pos": "n.",
-    "en_def": "two things of the same kind that are used together, like shoes",
-    "cn_def": "一雙；一對"
-  },
-  "dozen": {
-    "pos": "n.",
-    "en_def": "a group of twelve",
-    "cn_def": "（一）打"
-  },
   "kilos": {
     "pos": "n.",
     "en_def": "a short word for kilogram",
     "cn_def": "公斤（簡稱）"
+  },
+  "smaller": {
+    "pos": "adj.",
+    "en_def": "not big; little",
+    "cn_def": "小的"
   },
   "bigger": {
     "pos": "adj.",
     "en_def": "large; not small",
     "cn_def": "大的"
   },
-  "smaller": {
+  "shorter": {
     "pos": "adj.",
-    "en_def": "not big; little",
-    "cn_def": "小的"
+    "en_def": "not tall; not long",
+    "cn_def": "矮的；短的"
+  },
+  "lighter": {
+    "pos": "adj.",
+    "en_def": "not heavy; easy to carry",
+    "cn_def": "輕的"
   },
   "longer": {
     "pos": "adj.",
@@ -1057,10 +1117,15 @@ const LOOKUP = {
     "en_def": "not high; near the ground",
     "cn_def": "低的"
   },
-  "lighter": {
+  "little": {
     "pos": "adj.",
-    "en_def": "not heavy; easy to carry",
-    "cn_def": "輕的"
+    "en_def": "not much",
+    "cn_def": "很少的（不可數）"
+  },
+  "long": {
+    "pos": "adj.",
+    "en_def": "going far from one end to the other; not short",
+    "cn_def": "長的"
   }
 };
 

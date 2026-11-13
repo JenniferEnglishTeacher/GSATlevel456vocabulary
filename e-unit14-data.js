@@ -657,38 +657,38 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: What's your __________? What do you like to do? — A: I like to take pictures in the park.【嗜好】",
+    "question": "My __________ is collecting stamps. I do it in my free time, and I have more than five hundred now.",
     "options": [
      {
       "letter": "A",
-      "text": "basketball"
+      "text": "team"
      },
      {
       "letter": "B",
-      "text": "hobby"
+      "text": "race"
      },
      {
       "letter": "C",
-      "text": "kite"
+      "text": "hobby"
      },
      {
       "letter": "D",
-      "text": "fan"
+      "text": "trip"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 0
    },
    {
-    "question": "Q: What does Amy like to do? — A: She likes __________ in the music room.【唱歌】",
+    "question": "Amy has a beautiful voice, and she loves __________. She wants to be on TV one day.",
     "options": [
      {
       "letter": "A",
-      "text": "singing"
+      "text": "swimming"
      },
      {
       "letter": "B",
-      "text": "fishing"
+      "text": "climbing"
      },
      {
       "letter": "C",
@@ -696,87 +696,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "playing"
+      "text": "singing"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 1
    },
    {
-    "question": "Q: What do you like to do after school? — A: I like to sing English __________.【歌曲】",
+    "question": "The band wrote ten new __________ this year. Fans can listen to them on the Internet.",
     "options": [
      {
       "letter": "A",
-      "text": "chess"
+      "text": "kites"
      },
      {
       "letter": "B",
+      "text": "songs"
+     },
+     {
+      "letter": "C",
       "text": "dolls"
      },
      {
-      "letter": "C",
-      "text": "stamps"
-     },
-     {
       "letter": "D",
-      "text": "songs"
+      "text": "stamps"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 2
    },
    {
-    "question": "Q: Does Tina enjoy listening to __________? — A: Yes, she does. She listens to it every night.【音樂】",
+    "question": "I like to listen to __________ when I do my homework. Piano and guitar sounds help me relax.",
     "options": [
      {
       "letter": "A",
-      "text": "toy"
-     },
-     {
-      "letter": "B",
-      "text": "flute"
-     },
-     {
-      "letter": "C",
       "text": "music"
      },
      {
-      "letter": "D",
-      "text": "hobby"
-     }
-    ],
-    "answer": "C",
-    "vi": 3
-   },
-   {
-    "question": "Q: What do you and your sister like to do? — A: We like to __________ to pop music.【跳舞】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sail"
-     },
-     {
       "letter": "B",
-      "text": "surf"
+      "text": "chess"
      },
      {
       "letter": "C",
-      "text": "swim"
+      "text": "tennis"
      },
      {
       "letter": "D",
-      "text": "dance"
+      "text": "soccer"
      }
     ],
-    "answer": "D",
-    "vi": 4
+    "answer": "A",
+    "vi": 3
    },
    {
-    "question": "Q: Does Ben enjoy __________? — A: Yes, he does. He has many pictures of cats in his notebook.【畫圖】",
+    "question": "When the band starts to play, people stand up and __________. They move their arms and legs to the music.",
     "options": [
      {
       "letter": "A",
-      "text": "painting"
+      "text": "swim"
+     },
+     {
+      "letter": "B",
+      "text": "dance"
+     },
+     {
+      "letter": "C",
+      "text": "sail"
+     },
+     {
+      "letter": "D",
+      "text": "surf"
+     }
+    ],
+    "answer": "B",
+    "vi": 4
+   },
+   {
+    "question": "Ben is __________ a picture of his dog with a pencil. He will color it later.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "drawing"
      },
      {
       "letter": "B",
@@ -784,133 +784,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "drawing"
+      "text": "climbing"
      },
      {
       "letter": "D",
-      "text": "fishing"
+      "text": "camping"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 5
    },
    {
-    "question": "Q: Do your parents enjoy __________? — A: No, they don't. They enjoy reading books.【（用顏料）畫圖】",
+    "question": "The artist is __________ a picture of the sea with a brush and blue paint.",
     "options": [
      {
       "letter": "A",
-      "text": "fishing"
+      "text": "singing"
      },
      {
       "letter": "B",
-      "text": "painting"
-     },
-     {
-      "letter": "C",
-      "text": "drawing"
-     },
-     {
-      "letter": "D",
       "text": "hiking"
-     }
-    ],
-    "answer": "B",
-    "vi": 6
-   },
-   {
-    "question": "Q: What does your father like to do on Sundays? — A: He likes to __________ dinner for us.【煮飯；烹飪】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cook"
-     },
-     {
-      "letter": "B",
-      "text": "win"
      },
      {
       "letter": "C",
-      "text": "exercise"
+      "text": "jogging"
      },
      {
       "letter": "D",
-      "text": "swim"
-     }
-    ],
-    "answer": "A",
-    "vi": 7
-   },
-   {
-    "question": "Q: Do they enjoy watching __________? — A: Yes, they do. They go to the theater every weekend.【電影】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "stamps"
-     },
-     {
-      "letter": "B",
-      "text": "movies"
-     },
-     {
-      "letter": "C",
-      "text": "dolls"
-     },
-     {
-      "letter": "D",
-      "text": "songs"
-     }
-    ],
-    "answer": "B",
-    "vi": 8
-   },
-   {
-    "question": "Q: What does Tom like to do on weekends? — A: He likes to read __________ books.【漫畫的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "careful"
-     },
-     {
-      "letter": "B",
-      "text": "heavier"
-     },
-     {
-      "letter": "C",
-      "text": "comic"
-     },
-     {
-      "letter": "D",
-      "text": "wise"
-     }
-    ],
-    "answer": "C",
-    "vi": 9
-   },
-   {
-    "question": "Q: Can your brother __________? — A: Yes, he can. He goes to the pool every week.【游泳】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "climb"
-     },
-     {
-      "letter": "B",
-      "text": "cook"
-     },
-     {
-      "letter": "C",
-      "text": "sail"
-     },
-     {
-      "letter": "D",
-      "text": "swim"
+      "text": "painting"
      }
     ],
     "answer": "D",
-    "vi": 10
+    "vi": 6
    },
    {
-    "question": "Q: Can you __________? — A: No, I can't. But I want to learn it at the beach.【衝浪】",
+    "question": "I want to learn how to __________. Then I can make dinner for my family on weekends.",
     "options": [
      {
       "letter": "A",
@@ -918,7 +826,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "climb"
+      "text": "sail"
      },
      {
       "letter": "C",
@@ -926,45 +834,91 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "swim"
+      "text": "climb"
      }
     ],
-    "answer": "A",
-    "vi": 11
+    "answer": "C",
+    "vi": 7
    },
    {
-    "question": "Q: Can your uncle __________ a boat? — A: Yes, he can. He often takes us out on the lake.【航行；駕船】",
+    "question": "We go to the theater to watch __________ every weekend. I like funny ones best.",
     "options": [
      {
       "letter": "A",
-      "text": "climb"
+      "text": "kites"
      },
      {
       "letter": "B",
-      "text": "sail"
+      "text": "stamps"
      },
      {
       "letter": "C",
-      "text": "swim"
+      "text": "drums"
      },
      {
       "letter": "D",
-      "text": "run"
+      "text": "movies"
+     }
+    ],
+    "answer": "D",
+    "vi": 8
+   },
+   {
+    "question": "My brother loves __________ books. He likes to read stories with many pictures and few words.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sweet"
+     },
+     {
+      "letter": "B",
+      "text": "comic"
+     },
+     {
+      "letter": "C",
+      "text": "hungry"
+     },
+     {
+      "letter": "D",
+      "text": "thirsty"
      }
     ],
     "answer": "B",
-    "vi": 12
+    "vi": 9
    },
    {
-    "question": "Q: Can Grandpa __________ the mountain? — A: Yes, he can. He is old, but he is strong.【爬；攀登】",
+    "question": "You can't __________ here. The water in this river is too deep and fast.",
     "options": [
      {
       "letter": "A",
-      "text": "climb"
+      "text": "swim"
      },
      {
       "letter": "B",
-      "text": "sail"
+      "text": "hike"
+     },
+     {
+      "letter": "C",
+      "text": "camp"
+     },
+     {
+      "letter": "D",
+      "text": "jog"
+     }
+    ],
+    "answer": "A",
+    "vi": 10
+   },
+   {
+    "question": "Many young people come to this beach to __________. They stand on their boards and ride the big waves.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hike"
+     },
+     {
+      "letter": "B",
+      "text": "jog"
      },
      {
       "letter": "C",
@@ -972,26 +926,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "swim"
+      "text": "climb"
      }
     ],
-    "answer": "A",
-    "vi": 13
+    "answer": "C",
+    "vi": 11
    },
    {
-    "question": "Q: Can the twins __________ fast? — A: Yes, they can. They are the fastest in our class.【跑步】",
+    "question": "They will __________ around the island in a small boat. They need a lot of wind for the trip.",
     "options": [
      {
       "letter": "A",
-      "text": "win"
+      "text": "sail"
      },
      {
       "letter": "B",
-      "text": "surf"
+      "text": "hike"
+     },
+     {
+      "letter": "C",
+      "text": "jog"
+     },
+     {
+      "letter": "D",
+      "text": "climb"
+     }
+    ],
+    "answer": "A",
+    "vi": 12
+   },
+   {
+    "question": "It takes two days to __________ this high mountain. You need strong legs and good shoes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "swim"
+     },
+     {
+      "letter": "B",
+      "text": "sail"
      },
      {
       "letter": "C",
       "text": "climb"
+     },
+     {
+      "letter": "D",
+      "text": "surf"
+     }
+    ],
+    "answer": "C",
+    "vi": 13
+   },
+   {
+    "question": "I am late! I have to __________ to the bus stop, or I will miss the seven o'clock bus.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "swim"
+     },
+     {
+      "letter": "B",
+      "text": "sail"
+     },
+     {
+      "letter": "C",
+      "text": "sing"
      },
      {
       "letter": "D",
@@ -1002,30 +1002,30 @@ window.FLASHCARD_UNITS = {
     "vi": 14
    },
    {
-    "question": "Q: Can Amy play the __________? — A: Yes, she can. She plays it very well.【鋼琴】",
+    "question": "Lisa plays the __________ very well. Her fingers move fast over the black and white keys.",
     "options": [
      {
       "letter": "A",
-      "text": "team"
+      "text": "drum"
      },
      {
       "letter": "B",
-      "text": "kite"
-     },
-     {
-      "letter": "C",
       "text": "piano"
      },
      {
-      "letter": "D",
+      "letter": "C",
       "text": "flute"
+     },
+     {
+      "letter": "D",
+      "text": "violin"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 15
    },
    {
-    "question": "Q: Can you play the __________? — A: No, I can't. But my sister can.【小提琴】",
+    "question": "A __________ has four strings. You hold it under your chin and play it with a bow.",
     "options": [
      {
       "letter": "A",
@@ -1033,80 +1033,80 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ball"
+      "text": "piano"
      },
      {
       "letter": "C",
-      "text": "badminton"
+      "text": "drum"
      },
      {
       "letter": "D",
-      "text": "race"
+      "text": "flute"
      }
     ],
     "answer": "A",
     "vi": 16
    },
    {
-    "question": "Q: Can your father play the __________? — A: Yes, he can. He plays it and sings for us.【吉他】",
+    "question": "Ken plays the __________ and sings in a band. His has six strings.",
     "options": [
      {
       "letter": "A",
-      "text": "kite"
+      "text": "drum"
      },
      {
       "letter": "B",
-      "text": "guitar"
-     },
-     {
-      "letter": "C",
       "text": "flute"
      },
      {
-      "letter": "D",
-      "text": "basketball"
-     }
-    ],
-    "answer": "B",
-    "vi": 17
-   },
-   {
-    "question": "Q: Can Tom play the __________? — A: No, he can't. But he wants to learn.【鼓】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sports"
-     },
-     {
-      "letter": "B",
-      "text": "movies"
-     },
-     {
       "letter": "C",
-      "text": "drums"
+      "text": "guitar"
      },
      {
       "letter": "D",
-      "text": "songs"
+      "text": "piano"
      }
     ],
     "answer": "C",
-    "vi": 18
+    "vi": 17
    },
    {
-    "question": "Q: Can your cousins play the __________? — A: Yes, they can. They play it in music class.【長笛；笛子】",
+    "question": "Tom plays the __________ in the school band. He hits them with two sticks.",
     "options": [
      {
       "letter": "A",
-      "text": "badminton"
+      "text": "pianos"
      },
      {
       "letter": "B",
-      "text": "kite"
+      "text": "drums"
      },
      {
       "letter": "C",
+      "text": "flutes"
+     },
+     {
+      "letter": "D",
+      "text": "violins"
+     }
+    ],
+    "answer": "B",
+    "vi": 18
+   },
+   {
+    "question": "A __________ is a long, thin instrument. You hold it to the side and blow into it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "drum"
+     },
+     {
+      "letter": "B",
       "text": "piano"
+     },
+     {
+      "letter": "C",
+      "text": "guitar"
      },
      {
       "letter": "D",
@@ -1117,53 +1117,30 @@ window.FLASHCARD_UNITS = {
     "vi": 19
    },
    {
-    "question": "Q: Let's play __________ after school. — A: OK! See you on the playground.【籃球】",
+    "question": "Tall people are often good at __________. In this game, players throw a ball into a high net.",
     "options": [
      {
       "letter": "A",
-      "text": "guitar"
-     },
-     {
-      "letter": "B",
-      "text": "team"
-     },
-     {
-      "letter": "C",
       "text": "basketball"
      },
      {
-      "letter": "D",
-      "text": "piano"
-     }
-    ],
-    "answer": "C",
-    "vi": 20
-   },
-   {
-    "question": "Q: Would you like to play __________ with us? — A: Sure. I have a new bat and a glove.【棒球】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "team"
-     },
-     {
       "letter": "B",
-      "text": "baseball"
+      "text": "soccer"
      },
      {
       "letter": "C",
-      "text": "badminton"
+      "text": "chess"
      },
      {
       "letter": "D",
-      "text": "flute"
+      "text": "badminton"
      }
     ],
-    "answer": "B",
-    "vi": 21
+    "answer": "A",
+    "vi": 20
    },
    {
-    "question": "Q: Let's play __________ in the park. — A: Good idea! Ben and Tom can come, too.【足球】",
+    "question": "In __________, a player hits a small ball with a bat and then runs. It is very popular in Taiwan.",
     "options": [
      {
       "letter": "A",
@@ -1171,49 +1148,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "race"
-     },
-     {
-      "letter": "C",
-      "text": "guitar"
-     },
-     {
-      "letter": "D",
-      "text": "card"
-     }
-    ],
-    "answer": "A",
-    "vi": 22
-   },
-   {
-    "question": "Q: Would you like to play __________ with us this Saturday? — A: Sorry, I can't. I have math class.【網球】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "songs"
-     },
-     {
-      "letter": "B",
-      "text": "stamps"
-     },
-     {
-      "letter": "C",
-      "text": "sports"
-     },
-     {
-      "letter": "D",
       "text": "tennis"
+     },
+     {
+      "letter": "C",
+      "text": "basketball"
+     },
+     {
+      "letter": "D",
+      "text": "baseball"
      }
     ],
     "answer": "D",
-    "vi": 23
+    "vi": 21
    },
    {
-    "question": "Q: Let's play __________ in the gym. — A: OK. It's too windy outside.【羽毛球】",
+    "question": "In __________, eleven players on each team kick a ball. Only one player can touch it with his hands.",
     "options": [
      {
       "letter": "A",
-      "text": "team"
+      "text": "tennis"
+     },
+     {
+      "letter": "B",
+      "text": "soccer"
+     },
+     {
+      "letter": "C",
+      "text": "baseball"
+     },
+     {
+      "letter": "D",
+      "text": "chess"
+     }
+    ],
+    "answer": "B",
+    "vi": 22
+   },
+   {
+    "question": "In __________, two players hit a small yellow ball over a low net.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "soccer"
+     },
+     {
+      "letter": "B",
+      "text": "baseball"
+     },
+     {
+      "letter": "C",
+      "text": "tennis"
+     },
+     {
+      "letter": "D",
+      "text": "chess"
+     }
+    ],
+    "answer": "C",
+    "vi": 23
+   },
+   {
+    "question": "In __________, players hit a light thing with feathers over a high net.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "soccer"
      },
      {
       "letter": "B",
@@ -1221,26 +1221,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "violin"
+      "text": "baseball"
      },
      {
       "letter": "D",
-      "text": "flute"
+      "text": "chess"
      }
     ],
     "answer": "B",
     "vi": 24
    },
    {
-    "question": "Q: Would you like to play __________ with us? — A: Yes, I'd love to. It's fun!【躲避球】",
+    "question": "We played __________ in PE class today. I ran away from the ball, but it hit me on the leg, so I was out.",
     "options": [
      {
       "letter": "A",
-      "text": "fan"
+      "text": "chess"
      },
      {
       "letter": "B",
-      "text": "flute"
+      "text": "tennis"
      },
      {
       "letter": "C",
@@ -1248,14 +1248,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "game"
+      "text": "frisbee"
      }
     ],
     "answer": "C",
     "vi": 25
    },
    {
-    "question": "Q: Let's play __________ on the beach. — A: Great! I'll throw it to you first.【飛盤】",
+    "question": "Let's play __________ in the park. I will throw the plastic plate to you, and my dog will try to catch it.",
     "options": [
      {
       "letter": "A",
@@ -1263,34 +1263,34 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "toy"
+      "text": "chess"
      },
      {
       "letter": "C",
-      "text": "race"
+      "text": "tennis"
      },
      {
       "letter": "D",
-      "text": "basketball"
+      "text": "soccer"
      }
     ],
     "answer": "A",
     "vi": 26
    },
    {
-    "question": "Q: Would you like to play __________ with Grandpa and me? — A: Sure. But Grandpa is very good at it!【西洋棋】",
+    "question": "__________ is a game for two players. They move kings and queens on a board.",
     "options": [
      {
       "letter": "A",
-      "text": "stamps"
+      "text": "Soccer"
      },
      {
       "letter": "B",
-      "text": "dolls"
+      "text": "Tennis"
      },
      {
       "letter": "C",
-      "text": "songs"
+      "text": "Baseball"
      },
      {
       "letter": "D",
@@ -1301,7 +1301,30 @@ window.FLASHCARD_UNITS = {
     "vi": 27
    },
    {
-    "question": "Q: Let's play __________ in the yard. — A: OK. Throw it to me!【球】",
+    "question": "The children are kicking a __________ in the park. It rolled into the street just now.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "kite"
+     },
+     {
+      "letter": "B",
+      "text": "card"
+     },
+     {
+      "letter": "C",
+      "text": "ball"
+     },
+     {
+      "letter": "D",
+      "text": "doll"
+     }
+    ],
+    "answer": "C",
+    "vi": 28
+   },
+   {
+    "question": "It is windy today. Let's go to the park and fly a __________. Hold the string and don't let go.",
     "options": [
      {
       "letter": "A",
@@ -1309,72 +1332,141 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "basketball"
-     },
-     {
-      "letter": "C",
-      "text": "fan"
-     },
-     {
-      "letter": "D",
-      "text": "dodge ball"
-     }
-    ],
-    "answer": "A",
-    "vi": 28
-   },
-   {
-    "question": "Q: Would you like to fly a __________ with us? It's windy today. — A: Yes, I'd love to.【風箏】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "violin"
-     },
-     {
-      "letter": "B",
-      "text": "guitar"
-     },
-     {
-      "letter": "C",
       "text": "kite"
      },
      {
-      "letter": "D",
-      "text": "toy"
-     }
-    ],
-    "answer": "C",
-    "vi": 29
-   },
-   {
-    "question": "Q: Would you like to go __________ with us this weekend? — A: Yes! Let's sleep under the stars.【露營】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "playing"
-     },
-     {
-      "letter": "B",
-      "text": "camping"
-     },
-     {
       "letter": "C",
-      "text": "painting"
+      "text": "doll"
      },
      {
       "letter": "D",
-      "text": "singing"
+      "text": "card"
      }
     ],
     "answer": "B",
-    "vi": 30
+    "vi": 29
    },
    {
-    "question": "Q: Would you like to have a __________ with us in the park? — A: Sure. I'll bring some sandwiches.【野餐】",
+    "question": "We went __________ in the mountains last weekend. We slept in a tent and cooked over a fire.",
     "options": [
      {
       "letter": "A",
-      "text": "piano"
+      "text": "swimming"
+     },
+     {
+      "letter": "B",
+      "text": "surfing"
+     },
+     {
+      "letter": "C",
+      "text": "sailing"
+     },
+     {
+      "letter": "D",
+      "text": "camping"
+     }
+    ],
+    "answer": "D",
+    "vi": 30
+   },
+   {
+    "question": "Let's have a __________ in the park this Sunday. I will bring sandwiches, fruit, and juice.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "picnic"
+     },
+     {
+      "letter": "B",
+      "text": "race"
+     },
+     {
+      "letter": "C",
+      "text": "band"
+     },
+     {
+      "letter": "D",
+      "text": "trip"
+     }
+    ],
+    "answer": "A",
+    "vi": 31
+   },
+   {
+    "question": "We went __________ in the mountains yesterday. We walked for five hours, and my legs still hurt today.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "swimming"
+     },
+     {
+      "letter": "B",
+      "text": "surfing"
+     },
+     {
+      "letter": "C",
+      "text": "sailing"
+     },
+     {
+      "letter": "D",
+      "text": "hiking"
+     }
+    ],
+    "answer": "D",
+    "vi": 32
+   },
+   {
+    "question": "The children are __________ in the yard. They are running, laughing, and having fun.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sailing"
+     },
+     {
+      "letter": "B",
+      "text": "surfing"
+     },
+     {
+      "letter": "C",
+      "text": "playing"
+     },
+     {
+      "letter": "D",
+      "text": "camping"
+     }
+    ],
+    "answer": "C",
+    "vi": 33
+   },
+   {
+    "question": "The baseball __________ starts at seven tonight. Let's go and cheer for our team.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hobby"
+     },
+     {
+      "letter": "B",
+      "text": "game"
+     },
+     {
+      "letter": "C",
+      "text": "toy"
+     },
+     {
+      "letter": "D",
+      "text": "stamp"
+     }
+    ],
+    "answer": "B",
+    "vi": 34
+   },
+   {
+    "question": "The little boy got a new __________ for his birthday. It is a small red car, and he plays with it all day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "toy"
      },
      {
       "letter": "B",
@@ -1382,160 +1474,91 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "violin"
-     },
-     {
-      "letter": "D",
-      "text": "picnic"
-     }
-    ],
-    "answer": "D",
-    "vi": 31
-   },
-   {
-    "question": "Q: Let's go __________ on the mountain tomorrow. — A: OK. Let's meet at seven in the morning.【健行】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fishing"
-     },
-     {
-      "letter": "B",
-      "text": "hiking"
-     },
-     {
-      "letter": "C",
-      "text": "camping"
-     },
-     {
-      "letter": "D",
-      "text": "playing"
-     }
-    ],
-    "answer": "B",
-    "vi": 32
-   },
-   {
-    "question": "Q: What are the children doing now? — A: They are __________ in the yard.【玩；打（球）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fishing"
-     },
-     {
-      "letter": "B",
-      "text": "camping"
-     },
-     {
-      "letter": "C",
-      "text": "playing"
-     },
-     {
-      "letter": "D",
-      "text": "singing"
-     }
-    ],
-    "answer": "C",
-    "vi": 33
-   },
-   {
-    "question": "Q: What are you doing now? — A: I'm playing a computer __________ with my brother.【遊戲；比賽】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "game"
-     },
-     {
-      "letter": "B",
-      "text": "dodge ball"
-     },
-     {
-      "letter": "C",
-      "text": "kite"
-     },
-     {
-      "letter": "D",
-      "text": "basketball"
-     }
-    ],
-    "answer": "A",
-    "vi": 34
-   },
-   {
-    "question": "Q: What is the baby doing now? — A: He is playing with his __________ car.【玩具】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "band"
-     },
-     {
-      "letter": "B",
-      "text": "ball"
-     },
-     {
-      "letter": "C",
       "text": "team"
      },
      {
       "letter": "D",
-      "text": "toy"
-     }
-    ],
-    "answer": "D",
-    "vi": 35
-   },
-   {
-    "question": "Q: What is your little sister doing now? — A: She is playing with her __________.【洋娃娃】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "chess"
-     },
-     {
-      "letter": "B",
-      "text": "movies"
-     },
-     {
-      "letter": "C",
-      "text": "dolls"
-     },
-     {
-      "letter": "D",
-      "text": "drums"
-     }
-    ],
-    "answer": "C",
-    "vi": 36
-   },
-   {
-    "question": "Q: What are you doing now, Amy? — A: I'm making a birthday __________ for Mom.【卡片】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "card"
-     },
-     {
-      "letter": "B",
-      "text": "frisbee"
-     },
-     {
-      "letter": "C",
-      "text": "music"
-     },
-     {
-      "letter": "D",
-      "text": "soccer"
+      "text": "race"
      }
     ],
     "answer": "A",
-    "vi": 37
+    "vi": 35
    },
    {
-    "question": "Q: What are Dad and Uncle Ben doing now? — A: They are __________ by the river.【釣魚】",
+    "question": "My little sister plays with her __________ every day. She gives them names and makes clothes for them.",
     "options": [
      {
       "letter": "A",
-      "text": "painting"
+      "text": "kites"
+     },
+     {
+      "letter": "B",
+      "text": "stamps"
+     },
+     {
+      "letter": "C",
+      "text": "drums"
+     },
+     {
+      "letter": "D",
+      "text": "dolls"
+     }
+    ],
+    "answer": "D",
+    "vi": 36
+   },
+   {
+    "question": "I made a birthday __________ for my mom. I drew flowers on it and wrote \"I love you\" inside.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "kite"
+     },
+     {
+      "letter": "B",
+      "text": "card"
+     },
+     {
+      "letter": "C",
+      "text": "doll"
+     },
+     {
+      "letter": "D",
+      "text": "ball"
+     }
+    ],
+    "answer": "B",
+    "vi": 37
+   },
+   {
+    "question": "Grandpa goes __________ by the river every Sunday. He usually catches two or three for dinner.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "jogging"
+     },
+     {
+      "letter": "B",
+      "text": "hiking"
+     },
+     {
+      "letter": "C",
+      "text": "fishing"
+     },
+     {
+      "letter": "D",
+      "text": "camping"
+     }
+    ],
+    "answer": "C",
+    "vi": 38
+   },
+   {
+    "question": "Mom goes __________ in the park every morning. She runs slowly for thirty minutes to stay healthy.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "jogging"
      },
      {
       "letter": "B",
@@ -1543,41 +1566,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "jogging"
+      "text": "camping"
      },
      {
       "letter": "D",
-      "text": "playing"
+      "text": "sailing"
      }
     ],
-    "answer": "B",
-    "vi": 38
-   },
-   {
-    "question": "Q: What is Mom doing now? — A: She is __________ in the park.【慢跑】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hiking"
-     },
-     {
-      "letter": "B",
-      "text": "playing"
-     },
-     {
-      "letter": "C",
-      "text": "painting"
-     },
-     {
-      "letter": "D",
-      "text": "jogging"
-     }
-    ],
-    "answer": "D",
+    "answer": "A",
     "vi": 39
    },
    {
-    "question": "Q: How often do you __________? — A: Three times a week. It keeps me healthy.【運動】",
+    "question": "You should __________ every day. Running or swimming for thirty minutes is good for your health.",
     "options": [
      {
       "letter": "A",
@@ -1585,7 +1585,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "cook"
+      "text": "win"
      },
      {
       "letter": "C",
@@ -1593,37 +1593,37 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "win"
+      "text": "paint"
      }
     ],
     "answer": "C",
     "vi": 40
    },
    {
-    "question": "Q: How often does your brother play __________? — A: He plays every day after school.【運動】",
+    "question": "Lisa is good at __________. She can play basketball, tennis, and badminton very well.",
     "options": [
      {
       "letter": "A",
-      "text": "tennis"
+      "text": "stamps"
      },
      {
       "letter": "B",
-      "text": "sports"
+      "text": "bands"
      },
      {
       "letter": "C",
-      "text": "songs"
+      "text": "kites"
      },
      {
       "letter": "D",
-      "text": "dolls"
+      "text": "sports"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 41
    },
    {
-    "question": "Q: How often does your family take a __________? — A: We take one every summer.【（短程）旅行】",
+    "question": "Our class will take a __________ to Tainan next month. We will stay there for two days and visit old temples.",
     "options": [
      {
       "letter": "A",
@@ -1631,114 +1631,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "kite"
+      "text": "hobby"
      },
      {
       "letter": "C",
-      "text": "frisbee"
+      "text": "band"
      },
      {
       "letter": "D",
-      "text": "piano"
+      "text": "fan"
      }
     ],
     "answer": "A",
     "vi": 42
    },
    {
-    "question": "Q: How often does your __________ practice? — A: We practice twice a week, on Mondays and Fridays.【樂團】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fan"
-     },
-     {
-      "letter": "B",
-      "text": "piano"
-     },
-     {
-      "letter": "C",
-      "text": "team"
-     },
-     {
-      "letter": "D",
-      "text": "band"
-     }
-    ],
-    "answer": "D",
-    "vi": 43
-   },
-   {
-    "question": "Q: How often do you and your __________ practice? — A: We practice on Tuesdays and Thursdays.【隊；團隊】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "card"
-     },
-     {
-      "letter": "B",
-      "text": "team"
-     },
-     {
-      "letter": "C",
-      "text": "violin"
-     },
-     {
-      "letter": "D",
-      "text": "fan"
-     }
-    ],
-    "answer": "B",
-    "vi": 44
-   },
-   {
-    "question": "Q: What does your grandpa usually do in his free time? — A: He usually collects __________ from different countries.【郵票】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "tennis"
-     },
-     {
-      "letter": "B",
-      "text": "chess"
-     },
-     {
-      "letter": "C",
-      "text": "stamps"
-     },
-     {
-      "letter": "D",
-      "text": "sports"
-     }
-    ],
-    "answer": "C",
-    "vi": 45
-   },
-   {
-    "question": "Q: What do you usually do in your free time? — A: I listen to my favorite singer. I'm a big __________ of her.【粉絲；狂熱愛好者】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "guitar"
-     },
-     {
-      "letter": "B",
-      "text": "ball"
-     },
-     {
-      "letter": "C",
-      "text": "dodge ball"
-     },
-     {
-      "letter": "D",
-      "text": "fan"
-     }
-    ],
-    "answer": "D",
-    "vi": 46
-   },
-   {
-    "question": "Q: What do Tom and Ben usually do in their free time? — A: They practice running for the __________ on sports day.【賽跑】",
+    "question": "My brother plays the guitar in a __________. The four boys practice their songs every weekend.",
     "options": [
      {
       "letter": "A",
@@ -1746,67 +1654,159 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "toy"
+      "text": "band"
      },
      {
       "letter": "C",
-      "text": "guitar"
+      "text": "trip"
      },
      {
       "letter": "D",
-      "text": "card"
+      "text": "hobby"
      }
     ],
-    "answer": "A",
-    "vi": 47
+    "answer": "B",
+    "vi": 43
    },
    {
-    "question": "Q: What does your sister usually do in her free time? — A: She practices the piano. She wants to __________ first prize.【贏】",
+    "question": "Our basketball __________ won the game yesterday. All five players did a great job.",
     "options": [
      {
       "letter": "A",
-      "text": "run"
+      "text": "band"
      },
      {
       "letter": "B",
-      "text": "climb"
+      "text": "hobby"
      },
      {
       "letter": "C",
-      "text": "cook"
+      "text": "trip"
      },
      {
       "letter": "D",
-      "text": "win"
+      "text": "team"
      }
     ],
     "answer": "D",
-    "vi": 48
+    "vi": 44
    },
    {
-    "question": "Q: What do you and your friends usually do in your free time? — A: We play basketball. Sometimes we __________, but we always have fun.【輸】",
+    "question": "You need to put __________ on the envelope before you mail the letter. My grandpa collects them.",
     "options": [
      {
       "letter": "A",
-      "text": "dance"
+      "text": "kites"
      },
      {
       "letter": "B",
-      "text": "exercise"
+      "text": "cards"
      },
      {
       "letter": "C",
-      "text": "lose"
+      "text": "stamps"
      },
      {
       "letter": "D",
-      "text": "win"
+      "text": "dolls"
      }
     ],
     "answer": "C",
+    "vi": 45
+   },
+   {
+    "question": "I am a big __________ of the singer. I have all her albums and go to every show.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fan"
+     },
+     {
+      "letter": "B",
+      "text": "band"
+     },
+     {
+      "letter": "C",
+      "text": "team"
+     },
+     {
+      "letter": "D",
+      "text": "hobby"
+     }
+    ],
+    "answer": "A",
+    "vi": 46
+   },
+   {
+    "question": "Ben ran the fastest in the 100-meter __________, so he got first prize.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "band"
+     },
+     {
+      "letter": "B",
+      "text": "race"
+     },
+     {
+      "letter": "C",
+      "text": "trip"
+     },
+     {
+      "letter": "D",
+      "text": "hobby"
+     }
+    ],
+    "answer": "B",
+    "vi": 47
+   },
+   {
+    "question": "I hope our team will __________ the game tonight. We have practiced hard for three months.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lose"
+     },
+     {
+      "letter": "B",
+      "text": "paint"
+     },
+     {
+      "letter": "C",
+      "text": "win"
+     },
+     {
+      "letter": "D",
+      "text": "climb"
+     }
+    ],
+    "answer": "C",
+    "vi": 48
+   },
+   {
+    "question": "If you don't practice, you will __________ the game. The other team is very strong.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "win"
+     },
+     {
+      "letter": "B",
+      "text": "swim"
+     },
+     {
+      "letter": "C",
+      "text": "paint"
+     },
+     {
+      "letter": "D",
+      "text": "lose"
+     }
+    ],
+    "answer": "D",
     "vi": 49
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"careful":["thinking about what you do so you do not make mistakes","仔細的"],"wise":["knowing a lot and making good choices","明智的"],"heavier":["weighing a lot","重的"],"cook":["to make food ready to eat by heating it","煮飯；烹調"],"hobby":["something you like to do in your free time","嗜好"],"singing":["to make music with your voice","唱歌"],"songs":["a piece of music with words that you sing","歌曲"],"music":["sounds that people sing or play and that are nice to hear","音樂"],"dance":["to move your body to music","跳舞"],"drawing":["to make a picture with a pen or pencil","畫圖"],"painting":["to make a picture with wet colors and a brush","（用顏料）畫圖"],"movies":["a story with moving pictures that you watch in a theater or on TV","電影"],"comic":["having stories told in pictures","漫畫的"],"swim":["to move through water using your arms and legs","游泳"],"surf":["to ride on big waves in the sea on a board","衝浪"],"sail":["to travel on water in a boat","航行；駕船"],"climb":["to go up something, like a tree or a mountain","爬；攀登"],"run":["to move very fast on your legs","跑步"],"piano":["a big musical instrument with black and white keys","鋼琴"],"violin":["a musical instrument with four strings that you hold under your chin","小提琴"],"guitar":["a musical instrument with six strings that you play with your fingers","吉他"],"drums":["a round musical instrument that you hit with sticks","鼓"],"flute":["a long, thin musical instrument that you blow into","長笛；笛子"],"basketball":["a game in which players throw a big ball into a high net","籃球"],"baseball":["a game in which players hit a small ball with a bat and run","棒球"],"soccer":["a game in which players kick a ball into a goal","足球"],"tennis":["a game in which two or four players hit a small ball over a net","網球"],"badminton":["a game in which players hit a light thing with feathers over a high net","羽毛球"],"frisbee":["a flat plastic ring or plate that people throw to each other for fun","飛盤"],"chess":["a game for two players with kings and queens on a board","西洋棋"],"ball":["a round thing that you throw, kick, or hit in games","球"],"kite":["a toy made of paper or cloth that flies in the wind on a long string","風箏"],"camping":["to sleep outside in a tent","露營"],"picnic":["a meal that you take and eat outside","野餐"],"hiking":["to take a long walk in the mountains or the country","健行"],"playing":["to have fun with toys or games; to take part in a sport","玩；打（球）"],"game":["something you play for fun, often with rules","遊戲；比賽"],"toy":["a thing for children to play with","玩具"],"dolls":["a toy that looks like a baby or a small person","洋娃娃"],"card":["a piece of thick paper with words or pictures on it","卡片"],"fishing":["to try to catch fish","釣魚"],"jogging":["to run slowly for exercise","慢跑"],"exercise":["to move your body to stay strong and healthy","運動"],"sports":["games like basketball and tennis that people play for exercise and fun","運動"],"trip":["a visit to a place that is not near your home","（短程）旅行"],"band":["a group of people who play music together","樂團"],"team":["a group of people who play or work together","隊；團隊"],"stamps":["a small piece of paper that you put on a letter before you mail it","郵票"],"fan":["a person who likes a singer, a team, or a sport very much","粉絲；狂熱愛好者"],"race":["a game to see who is the fastest","賽跑"],"win":["to be the first or the best in a game or race","贏"],"lose":["to not win a game","輸"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"team":["a group of people who play or work together","隊；團隊"],"race":["a game to see who is the fastest","賽跑"],"hobby":["something you like to do in your free time","嗜好"],"trip":["a visit to a place that is not near your home","（短程）旅行"],"swimming":["to move through water using your arms and legs","游泳"],"climbing":["to go up something, like a tree or a mountain","爬；攀登"],"jogging":["to run slowly for exercise","慢跑"],"singing":["to make music with your voice","唱歌"],"kites":["a toy made of paper or cloth that flies in the wind on a long string","風箏"],"songs":["a piece of music with words that you sing","歌曲"],"dolls":["a toy that looks like a baby or a small person","洋娃娃"],"stamps":["a small piece of paper that you put on a letter before you mail it","郵票"],"music":["sounds that people sing or play and that are nice to hear","音樂"],"chess":["a game for two players with kings and queens on a board","西洋棋"],"tennis":["a game in which two or four players hit a small ball over a net","網球"],"soccer":["a game in which players kick a ball into a goal","足球"],"swim":["to move through water using your arms and legs","游泳"],"dance":["to move your body to music","跳舞"],"sail":["to travel on water in a boat","航行；駕船"],"surf":["to ride on big waves in the sea on a board","衝浪"],"drawing":["to make a picture with a pen or pencil","畫圖"],"camping":["to sleep outside in a tent","露營"],"hiking":["to take a long walk in the mountains or the country","健行"],"painting":["to make a picture with wet colors and a brush","（用顏料）畫圖"],"cook":["to make food ready to eat by heating it","煮飯；烹調"],"climb":["to go up something, like a tree or a mountain","爬；攀登"],"drums":["a round musical instrument that you hit with sticks","鼓"],"movies":["a story with moving pictures that you watch in a theater or on TV","電影"],"sweet":["tasting like sugar","甜的"],"comic":["having stories told in pictures","漫畫的"],"hungry":["wanting to eat","飢餓的"],"thirsty":["wanting to drink","口渴的"],"hike":["to take a long walk in the mountains or the country","健行"],"camp":["to sleep outside in a tent","露營"],"jog":["to run slowly for exercise","慢跑"],"sing":["to make music with your voice","唱歌"],"run":["to move very fast on your legs","跑步"],"drum":["a round musical instrument that you hit with sticks","鼓"],"piano":["a big musical instrument with black and white keys","鋼琴"],"flute":["a long, thin musical instrument that you blow into","長笛；笛子"],"violin":["a musical instrument with four strings that you hold under your chin","小提琴"],"guitar":["a musical instrument with six strings that you play with your fingers","吉他"],"pianos":["a big musical instrument with black and white keys","鋼琴"],"flutes":["a long, thin musical instrument that you blow into","長笛；笛子"],"violins":["a musical instrument with four strings that you hold under your chin","小提琴"],"basketball":["a game in which players throw a big ball into a high net","籃球"],"badminton":["a game in which players hit a light thing with feathers over a high net","羽毛球"],"baseball":["a game in which players hit a small ball with a bat and run","棒球"],"frisbee":["a flat plastic ring or plate that people throw to each other for fun","飛盤"],"kite":["a toy made of paper or cloth that flies in the wind on a long string","風箏"],"card":["a piece of thick paper with words or pictures on it","卡片"],"ball":["a round thing that you throw, kick, or hit in games","球"],"doll":["a toy that looks like a baby or a small person","洋娃娃"],"surfing":["to ride on big waves in the sea on a board","衝浪"],"sailing":["to travel on water in a boat","航行；駕船"],"picnic":["a meal that you take and eat outside","野餐"],"band":["a group of people who play music together","樂團"],"playing":["to have fun with toys or games; to take part in a sport","玩；打（球）"],"game":["something you play for fun, often with rules","遊戲；比賽"],"toy":["a thing for children to play with","玩具"],"stamp":["a small piece of paper that you put on a letter before you mail it","郵票"],"fishing":["to try to catch fish","釣魚"],"lose":["to not win a game","輸"],"win":["to be the first or the best in a game or race","贏"],"exercise":["to move your body to stay strong and healthy","運動"],"paint":["to make a picture with wet colors and a brush","（用顏料）畫圖"],"bands":["a group of people who play music together","樂團"],"sports":["games like basketball and tennis that people play for exercise and fun","運動"],"fan":["a person who likes a singer, a team, or a sport very much","粉絲；狂熱愛好者"],"cards":["a piece of thick paper with words or pictures on it","卡片"]});

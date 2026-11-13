@@ -411,179 +411,179 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: What's your ______? What do you like to do? — A: I like to take pictures in the park.【嗜好】",
+    "q": "My ______ is collecting stamps. I do it in my free time, and I have more than five hundred now.",
     "options": [
-      "basketball",
+      "team",
+      "race",
       "hobby",
-      "kite",
-      "fan"
+      "trip"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你的嗜好是什麼？你喜歡做什麼？ — 我喜歡在公園拍照。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: What does Amy like to do? — A: She likes ______ in the music room.【唱歌】",
+    "q": "Amy has a beautiful voice, and she loves ______. She wants to be on TV one day.",
     "options": [
-      "singing",
-      "fishing",
+      "swimming",
+      "climbing",
       "jogging",
-      "playing"
+      "singing"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "艾美喜歡做什麼？ — 她喜歡在音樂教室唱歌。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: What do you like to do after school? — A: I like to sing English ______.【歌曲】",
+    "q": "The band wrote ten new ______ this year. Fans can listen to them on the Internet.",
     "options": [
-      "chess",
+      "kites",
+      "songs",
       "dolls",
-      "stamps",
-      "songs"
+      "stamps"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "你放學後喜歡做什麼？ — 我喜歡唱英文歌。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: Does Tina enjoy listening to ______? — A: Yes, she does. She listens to it every night.【音樂】",
+    "q": "I like to listen to ______ when I do my homework. Piano and guitar sounds help me relax.",
     "options": [
-      "toy",
-      "flute",
       "music",
-      "hobby"
+      "chess",
+      "tennis",
+      "soccer"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "蒂娜喜歡聽音樂嗎？ — 是的，她喜歡。她每天晚上都聽。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: What do you and your sister like to do? — A: We like to ______ to pop music.【跳舞】",
+    "q": "When the band starts to play, people stand up and ______. They move their arms and legs to the music.",
     "options": [
-      "sail",
-      "surf",
       "swim",
-      "dance"
+      "dance",
+      "sail",
+      "surf"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "你和你妹妹喜歡做什麼？ — 我們喜歡隨著流行音樂跳舞。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: Does Ben enjoy ______? — A: Yes, he does. He has many pictures of cats in his notebook.【畫圖】",
+    "q": "Ben is ______ a picture of his dog with a pencil. He will color it later.",
     "options": [
-      "painting",
-      "singing",
       "drawing",
-      "fishing"
+      "singing",
+      "climbing",
+      "camping"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "班喜歡畫圖嗎？ — 是的，他喜歡。他的筆記本裡有很多貓的圖。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: Do your parents enjoy ______? — A: No, they don't. They enjoy reading books.【（用顏料）畫圖】",
+    "q": "The artist is ______ a picture of the sea with a brush and blue paint.",
     "options": [
-      "fishing",
-      "painting",
-      "drawing",
-      "hiking"
+      "singing",
+      "hiking",
+      "jogging",
+      "painting"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你爸媽喜歡畫畫嗎？ — 不，他們不喜歡。他們喜歡看書。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: What does your father like to do on Sundays? — A: He likes to ______ dinner for us.【煮飯；烹飪】",
+    "q": "I want to learn how to ______. Then I can make dinner for my family on weekends.",
     "options": [
+      "surf",
+      "sail",
       "cook",
-      "win",
-      "exercise",
-      "swim"
+      "climb"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你爸爸星期天喜歡做什麼？ — 他喜歡為我們煮晚餐。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: Do they enjoy watching ______? — A: Yes, they do. They go to the theater every weekend.【電影】",
+    "q": "We go to the theater to watch ______ every weekend. I like funny ones best.",
     "options": [
+      "kites",
       "stamps",
-      "movies",
-      "dolls",
-      "songs"
+      "drums",
+      "movies"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "他們喜歡看電影嗎？ — 是的，他們喜歡。他們每個週末都去戲院。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: What does Tom like to do on weekends? — A: He likes to read ______ books.【漫畫的】",
+    "q": "My brother loves ______ books. He likes to read stories with many pictures and few words.",
     "options": [
-      "careful",
-      "heavier",
+      "sweet",
       "comic",
-      "wise"
+      "hungry",
+      "thirsty"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "湯姆週末喜歡做什麼？ — 他喜歡看漫畫書。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: Can your brother ______? — A: Yes, he can. He goes to the pool every week.【游泳】",
+    "q": "You can't ______ here. The water in this river is too deep and fast.",
     "options": [
-      "climb",
-      "cook",
-      "sail",
-      "swim"
+      "swim",
+      "hike",
+      "camp",
+      "jog"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你哥哥會游泳嗎？ — 是的，他會。他每週都去游泳池。",
     "vocabIndex": 10
   },
   {
-    "q": "Q: Can you ______? — A: No, I can't. But I want to learn it at the beach.【衝浪】",
+    "q": "Many young people come to this beach to ______. They stand on their boards and ride the big waves.",
     "options": [
+      "hike",
+      "jog",
       "surf",
-      "climb",
-      "cook",
-      "swim"
+      "climb"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你會衝浪嗎？ — 不，我不會。但我想在海灘學。",
     "vocabIndex": 11
   },
   {
-    "q": "Q: Can your uncle ______ a boat? — A: Yes, he can. He often takes us out on the lake.【航行；駕船】",
+    "q": "They will ______ around the island in a small boat. They need a lot of wind for the trip.",
     "options": [
-      "climb",
       "sail",
-      "swim",
-      "run"
+      "hike",
+      "jog",
+      "climb"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你叔叔會駕船嗎？ — 是的，他會。他常帶我們到湖上。",
     "vocabIndex": 12
   },
   {
-    "q": "Q: Can Grandpa ______ the mountain? — A: Yes, he can. He is old, but he is strong.【爬；攀登】",
+    "q": "It takes two days to ______ this high mountain. You need strong legs and good shoes.",
     "options": [
-      "climb",
+      "swim",
       "sail",
-      "surf",
-      "swim"
+      "climb",
+      "surf"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "爺爺爬得上這座山嗎？ — 是的，他可以。他年紀大，但很強壯。",
     "vocabIndex": 13
   },
   {
-    "q": "Q: Can the twins ______ fast? — A: Yes, they can. They are the fastest in our class.【跑步】",
+    "q": "I am late! I have to ______ to the bus stop, or I will miss the seven o'clock bus.",
     "options": [
-      "win",
-      "surf",
-      "climb",
+      "swim",
+      "sail",
+      "sing",
       "run"
     ],
     "answer": 3,
@@ -591,59 +591,59 @@ const MCQS = [
     "vocabIndex": 14
   },
   {
-    "q": "Q: Can Amy play the ______? — A: Yes, she can. She plays it very well.【鋼琴】",
+    "q": "Lisa plays the ______ very well. Her fingers move fast over the black and white keys.",
     "options": [
-      "team",
-      "kite",
+      "drum",
       "piano",
-      "flute"
+      "flute",
+      "violin"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "艾美會彈鋼琴嗎？ — 是的，她會。她彈得很好。",
     "vocabIndex": 15
   },
   {
-    "q": "Q: Can you play the ______? — A: No, I can't. But my sister can.【小提琴】",
+    "q": "A ______ has four strings. You hold it under your chin and play it with a bow.",
     "options": [
       "violin",
-      "ball",
-      "badminton",
-      "race"
+      "piano",
+      "drum",
+      "flute"
     ],
     "answer": 0,
     "cn": "你會拉小提琴嗎？ — 不，我不會。但我姊姊會。",
     "vocabIndex": 16
   },
   {
-    "q": "Q: Can your father play the ______? — A: Yes, he can. He plays it and sings for us.【吉他】",
+    "q": "Ken plays the ______ and sings in a band. His has six strings.",
     "options": [
-      "kite",
-      "guitar",
+      "drum",
       "flute",
-      "basketball"
+      "guitar",
+      "piano"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你爸爸會彈吉他嗎？ — 是的，他會。他邊彈邊唱給我們聽。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: Can Tom play the ______? — A: No, he can't. But he wants to learn.【鼓】",
+    "q": "Tom plays the ______ in the school band. He hits them with two sticks.",
     "options": [
-      "sports",
-      "movies",
+      "pianos",
       "drums",
-      "songs"
+      "flutes",
+      "violins"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "湯姆會打鼓嗎？ — 不，他不會。但他想學。",
     "vocabIndex": 18
   },
   {
-    "q": "Q: Can your cousins play the ______? — A: Yes, they can. They play it in music class.【長笛；笛子】",
+    "q": "A ______ is a long, thin instrument. You hold it to the side and blow into it.",
     "options": [
-      "badminton",
-      "kite",
+      "drum",
       "piano",
+      "guitar",
       "flute"
     ],
     "answer": 3,
@@ -651,95 +651,95 @@ const MCQS = [
     "vocabIndex": 19
   },
   {
-    "q": "Q: Let's play ______ after school. — A: OK! See you on the playground.【籃球】",
+    "q": "Tall people are often good at ______. In this game, players throw a ball into a high net.",
     "options": [
-      "guitar",
-      "team",
       "basketball",
-      "piano"
+      "soccer",
+      "chess",
+      "badminton"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "我們放學後去打籃球吧。 — 好啊！操場見。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: Would you like to play ______ with us? — A: Sure. I have a new bat and a glove.【棒球】",
+    "q": "In ______, a player hits a small ball with a bat and then runs. It is very popular in Taiwan.",
     "options": [
-      "team",
-      "baseball",
-      "badminton",
-      "flute"
+      "soccer",
+      "tennis",
+      "basketball",
+      "baseball"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你想和我們一起打棒球嗎？ — 當然。我有新的球棒和手套。",
     "vocabIndex": 21
   },
   {
-    "q": "Q: Let's play ______ in the park. — A: Good idea! Ben and Tom can come, too.【足球】",
+    "q": "In ______, eleven players on each team kick a ball. Only one player can touch it with his hands.",
     "options": [
+      "tennis",
       "soccer",
-      "race",
-      "guitar",
-      "card"
+      "baseball",
+      "chess"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "我們去公園踢足球吧。 — 好主意！班和湯姆也可以來。",
     "vocabIndex": 22
   },
   {
-    "q": "Q: Would you like to play ______ with us this Saturday? — A: Sorry, I can't. I have math class.【網球】",
+    "q": "In ______, two players hit a small yellow ball over a low net.",
     "options": [
-      "songs",
-      "stamps",
-      "sports",
-      "tennis"
+      "soccer",
+      "baseball",
+      "tennis",
+      "chess"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "你這星期六想和我們一起打網球嗎？ — 抱歉，我不行。我有數學課。",
     "vocabIndex": 23
   },
   {
-    "q": "Q: Let's play ______ in the gym. — A: OK. It's too windy outside.【羽毛球】",
+    "q": "In ______, players hit a light thing with feathers over a high net.",
     "options": [
-      "team",
+      "soccer",
       "badminton",
-      "violin",
-      "flute"
+      "baseball",
+      "chess"
     ],
     "answer": 1,
     "cn": "我們在體育館打羽毛球吧。 — 好。外面風太大了。",
     "vocabIndex": 24
   },
   {
-    "q": "Q: Would you like to play ______ with us? — A: Yes, I'd love to. It's fun!【躲避球】",
+    "q": "We played ______ in PE class today. I ran away from the ball, but it hit me on the leg, so I was out.",
     "options": [
-      "fan",
-      "flute",
+      "chess",
+      "tennis",
       "dodge ball",
-      "game"
+      "frisbee"
     ],
     "answer": 2,
     "cn": "你想跟我們一起玩躲避球嗎？ — 是的，我很樂意。好好玩！",
     "vocabIndex": 25
   },
   {
-    "q": "Q: Let's play ______ on the beach. — A: Great! I'll throw it to you first.【飛盤】",
+    "q": "Let's play ______ in the park. I will throw the plastic plate to you, and my dog will try to catch it.",
     "options": [
       "frisbee",
-      "toy",
-      "race",
-      "basketball"
+      "chess",
+      "tennis",
+      "soccer"
     ],
     "answer": 0,
     "cn": "我們在海灘玩飛盤吧。 — 太好了！我先丟給你。",
     "vocabIndex": 26
   },
   {
-    "q": "Q: Would you like to play ______ with Grandpa and me? — A: Sure. But Grandpa is very good at it!【西洋棋】",
+    "q": "______ is a game for two players. They move kings and queens on a board.",
     "options": [
-      "stamps",
-      "dolls",
-      "songs",
+      "Soccer",
+      "Tennis",
+      "Baseball",
       "chess"
     ],
     "answer": 3,
@@ -747,366 +747,471 @@ const MCQS = [
     "vocabIndex": 27
   },
   {
-    "q": "Q: Let's play ______ in the yard. — A: OK. Throw it to me!【球】",
+    "q": "The children are kicking a ______ in the park. It rolled into the street just now.",
     "options": [
+      "kite",
+      "card",
       "ball",
-      "basketball",
-      "fan",
-      "dodge ball"
+      "doll"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "我們在院子裡玩球吧。 — 好，丟給我！",
     "vocabIndex": 28
   },
   {
-    "q": "Q: Would you like to fly a ______ with us? It's windy today. — A: Yes, I'd love to.【風箏】",
+    "q": "It is windy today. Let's go to the park and fly a ______. Hold the string and don't let go.",
     "options": [
-      "violin",
-      "guitar",
+      "ball",
       "kite",
-      "toy"
+      "doll",
+      "card"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你想和我們一起放風箏嗎？今天風很大。 — 是的，我很樂意。",
     "vocabIndex": 29
   },
   {
-    "q": "Q: Would you like to go ______ with us this weekend? — A: Yes! Let's sleep under the stars.【露營】",
+    "q": "We went ______ in the mountains last weekend. We slept in a tent and cooked over a fire.",
     "options": [
-      "playing",
-      "camping",
-      "painting",
-      "singing"
+      "swimming",
+      "surfing",
+      "sailing",
+      "camping"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你這個週末想和我們一起去露營嗎？ — 好！我們來睡在星空下吧。",
     "vocabIndex": 30
   },
   {
-    "q": "Q: Would you like to have a ______ with us in the park? — A: Sure. I'll bring some sandwiches.【野餐】",
+    "q": "Let's have a ______ in the park this Sunday. I will bring sandwiches, fruit, and juice.",
     "options": [
-      "piano",
-      "hobby",
-      "violin",
-      "picnic"
+      "picnic",
+      "race",
+      "band",
+      "trip"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你想和我們一起在公園野餐嗎？ — 當然。我會帶一些三明治。",
     "vocabIndex": 31
   },
   {
-    "q": "Q: Let's go ______ on the mountain tomorrow. — A: OK. Let's meet at seven in the morning.【健行】",
+    "q": "We went ______ in the mountains yesterday. We walked for five hours, and my legs still hurt today.",
     "options": [
-      "fishing",
-      "hiking",
-      "camping",
-      "playing"
+      "swimming",
+      "surfing",
+      "sailing",
+      "hiking"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "我們明天去山上健行吧。 — 好。我們早上七點見面。",
     "vocabIndex": 32
   },
   {
-    "q": "Q: What are the children doing now? — A: They are ______ in the yard.【玩；打（球）】",
+    "q": "The children are ______ in the yard. They are running, laughing, and having fun.",
     "options": [
-      "fishing",
-      "camping",
+      "sailing",
+      "surfing",
       "playing",
-      "singing"
+      "camping"
     ],
     "answer": 2,
     "cn": "孩子們現在在做什麼？ — 他們正在院子裡玩。",
     "vocabIndex": 33
   },
   {
-    "q": "Q: What are you doing now? — A: I'm playing a computer ______ with my brother.【遊戲；比賽】",
+    "q": "The baseball ______ starts at seven tonight. Let's go and cheer for our team.",
     "options": [
+      "hobby",
       "game",
-      "dodge ball",
-      "kite",
-      "basketball"
+      "toy",
+      "stamp"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你現在在做什麼？ — 我正在和弟弟玩電腦遊戲。",
     "vocabIndex": 34
   },
   {
-    "q": "Q: What is the baby doing now? — A: He is playing with his ______ car.【玩具】",
+    "q": "The little boy got a new ______ for his birthday. It is a small red car, and he plays with it all day.",
     "options": [
-      "band",
-      "ball",
+      "toy",
+      "hobby",
       "team",
-      "toy"
+      "race"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "寶寶現在在做什麼？ — 他正在玩他的玩具車。",
     "vocabIndex": 35
   },
   {
-    "q": "Q: What is your little sister doing now? — A: She is playing with her ______.【洋娃娃】",
+    "q": "My little sister plays with her ______ every day. She gives them names and makes clothes for them.",
     "options": [
-      "chess",
-      "movies",
-      "dolls",
-      "drums"
+      "kites",
+      "stamps",
+      "drums",
+      "dolls"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "你妹妹現在在做什麼？ — 她正在玩她的洋娃娃。",
     "vocabIndex": 36
   },
   {
-    "q": "Q: What are you doing now, Amy? — A: I'm making a birthday ______ for Mom.【卡片】",
+    "q": "I made a birthday ______ for my mom. I drew flowers on it and wrote \"I love you\" inside.",
     "options": [
+      "kite",
       "card",
-      "frisbee",
-      "music",
-      "soccer"
+      "doll",
+      "ball"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "艾美，你現在在做什麼？ — 我正在為媽媽做生日卡片。",
     "vocabIndex": 37
   },
   {
-    "q": "Q: What are Dad and Uncle Ben doing now? — A: They are ______ by the river.【釣魚】",
+    "q": "Grandpa goes ______ by the river every Sunday. He usually catches two or three for dinner.",
     "options": [
-      "painting",
-      "fishing",
       "jogging",
-      "playing"
+      "hiking",
+      "fishing",
+      "camping"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "爸爸和班叔叔現在在做什麼？ — 他們正在河邊釣魚。",
     "vocabIndex": 38
   },
   {
-    "q": "Q: What is Mom doing now? — A: She is ______ in the park.【慢跑】",
+    "q": "Mom goes ______ in the park every morning. She runs slowly for thirty minutes to stay healthy.",
     "options": [
-      "hiking",
-      "playing",
-      "painting",
-      "jogging"
+      "jogging",
+      "fishing",
+      "camping",
+      "sailing"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "媽媽現在在做什麼？ — 她正在公園慢跑。",
     "vocabIndex": 39
   },
   {
-    "q": "Q: How often do you ______? — A: Three times a week. It keeps me healthy.【運動】",
+    "q": "You should ______ every day. Running or swimming for thirty minutes is good for your health.",
     "options": [
       "lose",
-      "cook",
+      "win",
       "exercise",
-      "win"
+      "paint"
     ],
     "answer": 2,
     "cn": "你多久運動一次？ — 一週三次。它讓我保持健康。",
     "vocabIndex": 40
   },
   {
-    "q": "Q: How often does your brother play ______? — A: He plays every day after school.【運動】",
+    "q": "Lisa is good at ______. She can play basketball, tennis, and badminton very well.",
     "options": [
-      "tennis",
-      "sports",
-      "songs",
-      "dolls"
+      "stamps",
+      "bands",
+      "kites",
+      "sports"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你哥哥多久做一次運動？ — 他每天放學後都運動。",
     "vocabIndex": 41
   },
   {
-    "q": "Q: How often does your family take a ______? — A: We take one every summer.【（短程）旅行】",
+    "q": "Our class will take a ______ to Tainan next month. We will stay there for two days and visit old temples.",
     "options": [
       "trip",
-      "kite",
-      "frisbee",
-      "piano"
+      "hobby",
+      "band",
+      "fan"
     ],
     "answer": 0,
     "cn": "你們家多久去旅行一次？ — 我們每年夏天都去一次。",
     "vocabIndex": 42
   },
   {
-    "q": "Q: How often does your ______ practice? — A: We practice twice a week, on Mondays and Fridays.【樂團】",
+    "q": "My brother plays the guitar in a ______. The four boys practice their songs every weekend.",
     "options": [
-      "fan",
-      "piano",
-      "team",
-      "band"
+      "race",
+      "band",
+      "trip",
+      "hobby"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "你的樂團多久練習一次？ — 我們一週練習兩次，在星期一和星期五。",
     "vocabIndex": 43
   },
   {
-    "q": "Q: How often do you and your ______ practice? — A: We practice on Tuesdays and Thursdays.【隊；團隊】",
+    "q": "Our basketball ______ won the game yesterday. All five players did a great job.",
     "options": [
-      "card",
-      "team",
-      "violin",
-      "fan"
+      "band",
+      "hobby",
+      "trip",
+      "team"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你和你的隊友多久練習一次？ — 我們每星期二和星期四練習。",
     "vocabIndex": 44
   },
   {
-    "q": "Q: What does your grandpa usually do in his free time? — A: He usually collects ______ from different countries.【郵票】",
+    "q": "You need to put ______ on the envelope before you mail the letter. My grandpa collects them.",
     "options": [
-      "tennis",
-      "chess",
+      "kites",
+      "cards",
       "stamps",
-      "sports"
+      "dolls"
     ],
     "answer": 2,
     "cn": "你爺爺空閒時通常做什麼？ — 他通常收集各國的郵票。",
     "vocabIndex": 45
   },
   {
-    "q": "Q: What do you usually do in your free time? — A: I listen to my favorite singer. I'm a big ______ of her.【粉絲；狂熱愛好者】",
+    "q": "I am a big ______ of the singer. I have all her albums and go to every show.",
     "options": [
-      "guitar",
-      "ball",
-      "dodge ball",
-      "fan"
+      "fan",
+      "band",
+      "team",
+      "hobby"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你空閒時通常做什麼？ — 我聽我最喜歡的歌手的歌。我是她的超級粉絲。",
     "vocabIndex": 46
   },
   {
-    "q": "Q: What do Tom and Ben usually do in their free time? — A: They practice running for the ______ on sports day.【賽跑】",
+    "q": "Ben ran the fastest in the 100-meter ______, so he got first prize.",
     "options": [
+      "band",
       "race",
-      "toy",
-      "guitar",
-      "card"
+      "trip",
+      "hobby"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "湯姆和班空閒時通常做什麼？ — 他們練跑步，準備運動會的賽跑。",
     "vocabIndex": 47
   },
   {
-    "q": "Q: What does your sister usually do in her free time? — A: She practices the piano. She wants to ______ first prize.【贏】",
+    "q": "I hope our team will ______ the game tonight. We have practiced hard for three months.",
     "options": [
-      "run",
-      "climb",
-      "cook",
-      "win"
+      "lose",
+      "paint",
+      "win",
+      "climb"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "你姊姊空閒時通常做什麼？ — 她練鋼琴，她想得第一名。",
     "vocabIndex": 48
   },
   {
-    "q": "Q: What do you and your friends usually do in your free time? — A: We play basketball. Sometimes we ______, but we always have fun.【輸】",
+    "q": "If you don't practice, you will ______ the game. The other team is very strong.",
     "options": [
-      "dance",
-      "exercise",
-      "lose",
-      "win"
+      "win",
+      "swim",
+      "paint",
+      "lose"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "你和朋友們空閒時通常做什麼？ — 我們打籃球。有時候我們會輸，但總是玩得很開心。",
     "vocabIndex": 49
   }
 ];
 
 const LOOKUP = {
-  "careful": {
-    "pos": "adj.",
-    "en_def": "thinking about what you do so you do not make mistakes",
-    "cn_def": "仔細的"
+  "team": {
+    "pos": "n.",
+    "en_def": "a group of people who play or work together",
+    "cn_def": "隊；團隊"
   },
-  "wise": {
-    "pos": "adj.",
-    "en_def": "knowing a lot and making good choices",
-    "cn_def": "明智的"
-  },
-  "heavier": {
-    "pos": "adj.",
-    "en_def": "weighing a lot",
-    "cn_def": "重的"
-  },
-  "cook": {
-    "pos": "v.",
-    "en_def": "to make food ready to eat by heating it",
-    "cn_def": "煮飯；烹調"
+  "race": {
+    "pos": "n.",
+    "en_def": "a game to see who is the fastest",
+    "cn_def": "賽跑"
   },
   "hobby": {
     "pos": "n.",
     "en_def": "something you like to do in your free time",
     "cn_def": "嗜好"
   },
+  "trip": {
+    "pos": "n.",
+    "en_def": "a visit to a place that is not near your home",
+    "cn_def": "（短程）旅行"
+  },
+  "swimming": {
+    "pos": "v.",
+    "en_def": "to move through water using your arms and legs",
+    "cn_def": "游泳"
+  },
+  "climbing": {
+    "pos": "v.",
+    "en_def": "to go up something, like a tree or a mountain",
+    "cn_def": "爬；攀登"
+  },
+  "jogging": {
+    "pos": "v.",
+    "en_def": "to run slowly for exercise",
+    "cn_def": "慢跑"
+  },
   "singing": {
     "pos": "v.",
     "en_def": "to make music with your voice",
     "cn_def": "唱歌"
+  },
+  "kites": {
+    "pos": "n.",
+    "en_def": "a toy made of paper or cloth that flies in the wind on a long string",
+    "cn_def": "風箏"
   },
   "songs": {
     "pos": "n.",
     "en_def": "a piece of music with words that you sing",
     "cn_def": "歌曲"
   },
+  "dolls": {
+    "pos": "n.",
+    "en_def": "a toy that looks like a baby or a small person",
+    "cn_def": "洋娃娃"
+  },
+  "stamps": {
+    "pos": "n.",
+    "en_def": "a small piece of paper that you put on a letter before you mail it",
+    "cn_def": "郵票"
+  },
   "music": {
     "pos": "n.",
     "en_def": "sounds that people sing or play and that are nice to hear",
     "cn_def": "音樂"
   },
-  "dance": {
-    "pos": "v.",
-    "en_def": "to move your body to music",
-    "cn_def": "跳舞"
-  },
-  "drawing": {
-    "pos": "v.",
-    "en_def": "to make a picture with a pen or pencil",
-    "cn_def": "畫圖"
-  },
-  "painting": {
-    "pos": "v.",
-    "en_def": "to make a picture with wet colors and a brush",
-    "cn_def": "（用顏料）畫圖"
-  },
-  "movies": {
+  "chess": {
     "pos": "n.",
-    "en_def": "a story with moving pictures that you watch in a theater or on TV",
-    "cn_def": "電影"
+    "en_def": "a game for two players with kings and queens on a board",
+    "cn_def": "西洋棋"
   },
-  "comic": {
-    "pos": "adj.",
-    "en_def": "having stories told in pictures",
-    "cn_def": "漫畫的"
+  "tennis": {
+    "pos": "n.",
+    "en_def": "a game in which two or four players hit a small ball over a net",
+    "cn_def": "網球"
+  },
+  "soccer": {
+    "pos": "n.",
+    "en_def": "a game in which players kick a ball into a goal",
+    "cn_def": "足球"
   },
   "swim": {
     "pos": "v.",
     "en_def": "to move through water using your arms and legs",
     "cn_def": "游泳"
   },
-  "surf": {
+  "dance": {
     "pos": "v.",
-    "en_def": "to ride on big waves in the sea on a board",
-    "cn_def": "衝浪"
+    "en_def": "to move your body to music",
+    "cn_def": "跳舞"
   },
   "sail": {
     "pos": "v.",
     "en_def": "to travel on water in a boat",
     "cn_def": "航行；駕船"
   },
+  "surf": {
+    "pos": "v.",
+    "en_def": "to ride on big waves in the sea on a board",
+    "cn_def": "衝浪"
+  },
+  "drawing": {
+    "pos": "v.",
+    "en_def": "to make a picture with a pen or pencil",
+    "cn_def": "畫圖"
+  },
+  "camping": {
+    "pos": "v.",
+    "en_def": "to sleep outside in a tent",
+    "cn_def": "露營"
+  },
+  "hiking": {
+    "pos": "v.",
+    "en_def": "to take a long walk in the mountains or the country",
+    "cn_def": "健行"
+  },
+  "painting": {
+    "pos": "v.",
+    "en_def": "to make a picture with wet colors and a brush",
+    "cn_def": "（用顏料）畫圖"
+  },
+  "cook": {
+    "pos": "v.",
+    "en_def": "to make food ready to eat by heating it",
+    "cn_def": "煮飯；烹調"
+  },
   "climb": {
     "pos": "v.",
     "en_def": "to go up something, like a tree or a mountain",
     "cn_def": "爬；攀登"
+  },
+  "drums": {
+    "pos": "n.",
+    "en_def": "a round musical instrument that you hit with sticks",
+    "cn_def": "鼓"
+  },
+  "movies": {
+    "pos": "n.",
+    "en_def": "a story with moving pictures that you watch in a theater or on TV",
+    "cn_def": "電影"
+  },
+  "sweet": {
+    "pos": "adj.",
+    "en_def": "tasting like sugar",
+    "cn_def": "甜的"
+  },
+  "comic": {
+    "pos": "adj.",
+    "en_def": "having stories told in pictures",
+    "cn_def": "漫畫的"
+  },
+  "hungry": {
+    "pos": "adj.",
+    "en_def": "wanting to eat",
+    "cn_def": "飢餓的"
+  },
+  "thirsty": {
+    "pos": "adj.",
+    "en_def": "wanting to drink",
+    "cn_def": "口渴的"
+  },
+  "hike": {
+    "pos": "v.",
+    "en_def": "to take a long walk in the mountains or the country",
+    "cn_def": "健行"
+  },
+  "camp": {
+    "pos": "v.",
+    "en_def": "to sleep outside in a tent",
+    "cn_def": "露營"
+  },
+  "jog": {
+    "pos": "v.",
+    "en_def": "to run slowly for exercise",
+    "cn_def": "慢跑"
+  },
+  "sing": {
+    "pos": "v.",
+    "en_def": "to make music with your voice",
+    "cn_def": "唱歌"
   },
   "run": {
     "pos": "v.",
     "en_def": "to move very fast on your legs",
     "cn_def": "跑步"
   },
+  "drum": {
+    "pos": "n.",
+    "en_def": "a round musical instrument that you hit with sticks",
+    "cn_def": "鼓"
+  },
   "piano": {
     "pos": "n.",
     "en_def": "a big musical instrument with black and white keys",
     "cn_def": "鋼琴"
+  },
+  "flute": {
+    "pos": "n.",
+    "en_def": "a long, thin musical instrument that you blow into",
+    "cn_def": "長笛；笛子"
   },
   "violin": {
     "pos": "n.",
@@ -1118,40 +1223,35 @@ const LOOKUP = {
     "en_def": "a musical instrument with six strings that you play with your fingers",
     "cn_def": "吉他"
   },
-  "drums": {
+  "pianos": {
     "pos": "n.",
-    "en_def": "a round musical instrument that you hit with sticks",
-    "cn_def": "鼓"
+    "en_def": "a big musical instrument with black and white keys",
+    "cn_def": "鋼琴"
   },
-  "flute": {
+  "flutes": {
     "pos": "n.",
     "en_def": "a long, thin musical instrument that you blow into",
     "cn_def": "長笛；笛子"
+  },
+  "violins": {
+    "pos": "n.",
+    "en_def": "a musical instrument with four strings that you hold under your chin",
+    "cn_def": "小提琴"
   },
   "basketball": {
     "pos": "n.",
     "en_def": "a game in which players throw a big ball into a high net",
     "cn_def": "籃球"
   },
-  "baseball": {
-    "pos": "n.",
-    "en_def": "a game in which players hit a small ball with a bat and run",
-    "cn_def": "棒球"
-  },
-  "soccer": {
-    "pos": "n.",
-    "en_def": "a game in which players kick a ball into a goal",
-    "cn_def": "足球"
-  },
-  "tennis": {
-    "pos": "n.",
-    "en_def": "a game in which two or four players hit a small ball over a net",
-    "cn_def": "網球"
-  },
   "badminton": {
     "pos": "n.",
     "en_def": "a game in which players hit a light thing with feathers over a high net",
     "cn_def": "羽毛球"
+  },
+  "baseball": {
+    "pos": "n.",
+    "en_def": "a game in which players hit a small ball with a bat and run",
+    "cn_def": "棒球"
   },
   "dodge ball": {
     "pos": "n.",
@@ -1163,35 +1263,45 @@ const LOOKUP = {
     "en_def": "a flat plastic ring or plate that people throw to each other for fun",
     "cn_def": "飛盤"
   },
-  "chess": {
+  "kite": {
     "pos": "n.",
-    "en_def": "a game for two players with kings and queens on a board",
-    "cn_def": "西洋棋"
+    "en_def": "a toy made of paper or cloth that flies in the wind on a long string",
+    "cn_def": "風箏"
+  },
+  "card": {
+    "pos": "n.",
+    "en_def": "a piece of thick paper with words or pictures on it",
+    "cn_def": "卡片"
   },
   "ball": {
     "pos": "n.",
     "en_def": "a round thing that you throw, kick, or hit in games",
     "cn_def": "球"
   },
-  "kite": {
+  "doll": {
     "pos": "n.",
-    "en_def": "a toy made of paper or cloth that flies in the wind on a long string",
-    "cn_def": "風箏"
+    "en_def": "a toy that looks like a baby or a small person",
+    "cn_def": "洋娃娃"
   },
-  "camping": {
+  "surfing": {
     "pos": "v.",
-    "en_def": "to sleep outside in a tent",
-    "cn_def": "露營"
+    "en_def": "to ride on big waves in the sea on a board",
+    "cn_def": "衝浪"
+  },
+  "sailing": {
+    "pos": "v.",
+    "en_def": "to travel on water in a boat",
+    "cn_def": "航行；駕船"
   },
   "picnic": {
     "pos": "n.",
     "en_def": "a meal that you take and eat outside",
     "cn_def": "野餐"
   },
-  "hiking": {
-    "pos": "v.",
-    "en_def": "to take a long walk in the mountains or the country",
-    "cn_def": "健行"
+  "band": {
+    "pos": "n.",
+    "en_def": "a group of people who play music together",
+    "cn_def": "樂團"
   },
   "playing": {
     "pos": "v.",
@@ -1208,75 +1318,55 @@ const LOOKUP = {
     "en_def": "a thing for children to play with",
     "cn_def": "玩具"
   },
-  "dolls": {
+  "stamp": {
     "pos": "n.",
-    "en_def": "a toy that looks like a baby or a small person",
-    "cn_def": "洋娃娃"
-  },
-  "card": {
-    "pos": "n.",
-    "en_def": "a piece of thick paper with words or pictures on it",
-    "cn_def": "卡片"
+    "en_def": "a small piece of paper that you put on a letter before you mail it",
+    "cn_def": "郵票"
   },
   "fishing": {
     "pos": "v.",
     "en_def": "to try to catch fish",
     "cn_def": "釣魚"
   },
-  "jogging": {
+  "lose": {
     "pos": "v.",
-    "en_def": "to run slowly for exercise",
-    "cn_def": "慢跑"
-  },
-  "exercise": {
-    "pos": "v.",
-    "en_def": "to move your body to stay strong and healthy",
-    "cn_def": "運動"
-  },
-  "sports": {
-    "pos": "n.",
-    "en_def": "games like basketball and tennis that people play for exercise and fun",
-    "cn_def": "運動"
-  },
-  "trip": {
-    "pos": "n.",
-    "en_def": "a visit to a place that is not near your home",
-    "cn_def": "（短程）旅行"
-  },
-  "band": {
-    "pos": "n.",
-    "en_def": "a group of people who play music together",
-    "cn_def": "樂團"
-  },
-  "team": {
-    "pos": "n.",
-    "en_def": "a group of people who play or work together",
-    "cn_def": "隊；團隊"
-  },
-  "stamps": {
-    "pos": "n.",
-    "en_def": "a small piece of paper that you put on a letter before you mail it",
-    "cn_def": "郵票"
-  },
-  "fan": {
-    "pos": "n.",
-    "en_def": "a person who likes a singer, a team, or a sport very much",
-    "cn_def": "粉絲；狂熱愛好者"
-  },
-  "race": {
-    "pos": "n.",
-    "en_def": "a game to see who is the fastest",
-    "cn_def": "賽跑"
+    "en_def": "to not win a game",
+    "cn_def": "輸"
   },
   "win": {
     "pos": "v.",
     "en_def": "to be the first or the best in a game or race",
     "cn_def": "贏"
   },
-  "lose": {
+  "exercise": {
     "pos": "v.",
-    "en_def": "to not win a game",
-    "cn_def": "輸"
+    "en_def": "to move your body to stay strong and healthy",
+    "cn_def": "運動"
+  },
+  "paint": {
+    "pos": "v.",
+    "en_def": "to make a picture with wet colors and a brush",
+    "cn_def": "（用顏料）畫圖"
+  },
+  "bands": {
+    "pos": "n.",
+    "en_def": "a group of people who play music together",
+    "cn_def": "樂團"
+  },
+  "sports": {
+    "pos": "n.",
+    "en_def": "games like basketball and tennis that people play for exercise and fun",
+    "cn_def": "運動"
+  },
+  "fan": {
+    "pos": "n.",
+    "en_def": "a person who likes a singer, a team, or a sport very much",
+    "cn_def": "粉絲；狂熱愛好者"
+  },
+  "cards": {
+    "pos": "n.",
+    "en_def": "a piece of thick paper with words or pictures on it",
+    "cn_def": "卡片"
   }
 };
 

@@ -114,11 +114,11 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: How much is this pen? — A: It's twenty ______.【元】",
+    "q": "This pen is only ten ______. It is so cheap that I want to buy two.",
     "options": [
-      "cents",
-      "money",
-      "change",
+      "minutes",
+      "hours",
+      "weeks",
       "dollars"
     ],
     "answer": 3,
@@ -126,83 +126,83 @@ const MCQS = [
     "vocabIndex": 0
   },
   {
-    "q": "Q: How much is this candy? — A: It's only fifty ______.【（一）分錢】",
+    "q": "One dollar is one hundred ______. These small coins are not used very often now.",
     "options": [
-      "dollars",
-      "money",
       "cents",
-      "change"
+      "dollars",
+      "prices",
+      "hours"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "這顆糖果多少錢？ — 它只要五十分錢。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: How much is the new bike? — A: The ______ is three thousand dollars.【價格】",
+    "q": "The ______ of this bike is too high. I can't buy it with only two thousand dollars.",
     "options": [
-      "change",
+      "dollar",
       "price",
-      "money",
-      "dollars"
+      "change",
+      "cent"
     ],
     "answer": 1,
     "cn": "這輛新腳踏車多少錢？ — 價格是三千元。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: How much is it? — A: It's eighty dollars. Here is your ______, twenty dollars.【零錢；找的錢】",
+    "q": "The pen was eight dollars, and I gave the clerk ten. He gave me two dollars in ______.",
     "options": [
-      "change",
-      "money",
       "price",
-      "cents"
+      "dollar",
+      "change",
+      "week"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "這個多少錢？ — 八十元。這是找你的零錢，二十元。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: How much are these socks? — A: They're fifty dollars. They're very ______.【便宜的】",
+    "q": "These shoes are very ______. They are only one hundred dollars, so I will buy two pairs.",
     "options": [
       "expensive",
-      "shorter",
       "cheap",
-      "important"
+      "tall",
+      "young"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "這些襪子多少錢？ — 它們五十元，很便宜。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: How much are those shoes? — A: They're five thousand dollars. They're too ______!【昂貴的】",
+    "q": "This watch is too ______ for me. It is fifty thousand dollars, and I only have five hundred.",
     "options": [
-      "expensive",
       "cheap",
-      "richer",
-      "tidy"
+      "short",
+      "expensive",
+      "young"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "那雙鞋子多少錢？ — 它們五千元，太貴了！",
     "vocabIndex": 5
   },
   {
-    "q": "Q: How much are the apples? — A: They're ten dollars each. I want to ______ six.【買】",
+    "q": "I want to ______ a birthday present for my mom, so I am going to the department store this afternoon.",
     "options": [
-      "borrow",
       "buy",
-      "spend",
-      "costs"
+      "lend",
+      "cost",
+      "spend"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "這些蘋果多少錢？ — 一個十元，我想買六個。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: How much do you spend on lunch every day? — A: I ______ sixty dollars on lunch.【（人）花（錢）】",
+    "q": "I ______ two hundred dollars on lunch every week. My mom thinks it is too much.",
     "options": [
+      "cost",
+      "lend",
       "buy",
-      "borrow",
-      "costs",
       "spend"
     ],
     "answer": 3,
@@ -210,47 +210,47 @@ const MCQS = [
     "vocabIndex": 7
   },
   {
-    "q": "Q: How much do your parents spend on books? — A: They spend a lot of ______ on books. They love reading.【錢】",
+    "q": "I have no ______ in my wallet. Can you lend me one hundred dollars?",
     "options": [
-      "change",
       "price",
       "money",
-      "dollars"
+      "week",
+      "hour"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你爸媽花多少錢買書？ — 他們花很多錢在書上，他們很愛閱讀。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: How much does this T-shirt cost? — A: It ______ three hundred dollars.【（物品）價錢為】",
+    "q": "This T-shirt ______ three hundred dollars. It is not expensive, so I will take it.",
     "options": [
-      "pays",
       "costs",
-      "lends",
-      "spend"
+      "pays",
+      "spends",
+      "buys"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "這件T恤要多少錢？ — 它要三百元。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: Does your dad pay for dinner? — A: Yes, he does. He always ______ for dinner.【付錢】",
+    "q": "Dad always ______ for dinner when our family eats at a restaurant. He never lets us use our own money.",
     "options": [
-      "pays",
       "costs",
       "lends",
-      "buy"
+      "pays",
+      "borrows"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你爸爸付晚餐的錢嗎？ — 是的，他會。他總是付晚餐的錢。",
     "vocabIndex": 10
   },
   {
-    "q": "Q: Do you have money for the bus? — A: No, I don't. Can I ______ twenty dollars from you?【借入】",
+    "q": "I forgot my pen. May I ______ yours? I will give it back after class.",
     "options": [
-      "buy",
-      "spend",
-      "pays",
+      "lend",
+      "pay",
+      "cost",
       "borrow"
     ],
     "answer": 3,
@@ -258,29 +258,34 @@ const MCQS = [
     "vocabIndex": 11
   },
   {
-    "q": "Q: Does your sister lend you money? — A: Yes, she does. She often ______ me fifty dollars.【借出】",
+    "q": "My sister often ______ me her bike. I always give it back to her the next day.",
     "options": [
+      "borrows",
       "costs",
       "lends",
-      "pays",
-      "spend"
+      "pays"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你姊姊會借你錢嗎？ — 是的，她會。她常常借我五十元。",
     "vocabIndex": 12
   }
 ];
 
 const LOOKUP = {
-  "shorter": {
-    "pos": "adj.",
-    "en_def": "not tall; not long",
-    "cn_def": "矮的；短的"
+  "minutes": {
+    "pos": "n.",
+    "en_def": "sixty seconds",
+    "cn_def": "分鐘"
   },
-  "richer": {
-    "pos": "adj.",
-    "en_def": "having a lot of money",
-    "cn_def": "有錢的"
+  "hours": {
+    "pos": "n.",
+    "en_def": "sixty minutes",
+    "cn_def": "小時"
+  },
+  "weeks": {
+    "pos": "n.",
+    "en_def": "seven days",
+    "cn_def": "星期；週"
   },
   "dollars": {
     "pos": "n.",
@@ -292,6 +297,16 @@ const LOOKUP = {
     "en_def": "a small coin; one hundred of them make one dollar",
     "cn_def": "（一）分錢"
   },
+  "prices": {
+    "pos": "n.",
+    "en_def": "how much money you pay to buy something",
+    "cn_def": "價格"
+  },
+  "dollar": {
+    "pos": "n.",
+    "en_def": "the money used in Taiwan, the U.S.A., and some other countries",
+    "cn_def": "元"
+  },
   "price": {
     "pos": "n.",
     "en_def": "how much money you pay to buy something",
@@ -302,20 +317,55 @@ const LOOKUP = {
     "en_def": "the money you get back when you pay too much; coins",
     "cn_def": "零錢；找的錢"
   },
-  "cheap": {
-    "pos": "adj.",
-    "en_def": "not costing much money",
-    "cn_def": "便宜的"
+  "cent": {
+    "pos": "n.",
+    "en_def": "a small coin; one hundred of them make one dollar",
+    "cn_def": "（一）分錢"
+  },
+  "week": {
+    "pos": "n.",
+    "en_def": "seven days",
+    "cn_def": "星期；週"
   },
   "expensive": {
     "pos": "adj.",
     "en_def": "costing a lot of money",
     "cn_def": "昂貴的"
   },
+  "cheap": {
+    "pos": "adj.",
+    "en_def": "not costing much money",
+    "cn_def": "便宜的"
+  },
+  "tall": {
+    "pos": "adj.",
+    "en_def": "high from head to foot",
+    "cn_def": "高的"
+  },
+  "young": {
+    "pos": "adj.",
+    "en_def": "having lived for only a few years; not old",
+    "cn_def": "年輕的"
+  },
+  "short": {
+    "pos": "adj.",
+    "en_def": "not tall; not long",
+    "cn_def": "矮的；短的"
+  },
   "buy": {
     "pos": "v.",
     "en_def": "to get something by paying money for it",
     "cn_def": "買"
+  },
+  "lend": {
+    "pos": "v.",
+    "en_def": "to let someone use something that they will give back later",
+    "cn_def": "借出"
+  },
+  "cost": {
+    "pos": "v.",
+    "en_def": "to have a price of",
+    "cn_def": "（物品）價錢為"
   },
   "spend": {
     "pos": "v.",
@@ -327,6 +377,11 @@ const LOOKUP = {
     "en_def": "coins and paper bills that you use to buy things",
     "cn_def": "錢"
   },
+  "hour": {
+    "pos": "n.",
+    "en_def": "sixty minutes",
+    "cn_def": "小時"
+  },
   "costs": {
     "pos": "v.",
     "en_def": "to have a price of",
@@ -337,25 +392,35 @@ const LOOKUP = {
     "en_def": "to give money for something you buy",
     "cn_def": "付錢"
   },
-  "borrow": {
+  "spends": {
     "pos": "v.",
-    "en_def": "to take and use something that you will give back later",
-    "cn_def": "借入"
+    "en_def": "to use money to buy things",
+    "cn_def": "（人）花（錢）"
+  },
+  "buys": {
+    "pos": "v.",
+    "en_def": "to get something by paying money for it",
+    "cn_def": "買"
   },
   "lends": {
     "pos": "v.",
     "en_def": "to let someone use something that they will give back later",
     "cn_def": "借出"
   },
-  "tidy": {
-    "pos": "adj.",
-    "en_def": "clean, with everything in the right place",
-    "cn_def": "整潔的"
+  "borrows": {
+    "pos": "v.",
+    "en_def": "to take and use something that you will give back later",
+    "cn_def": "借入"
   },
-  "important": {
-    "pos": "adj.",
-    "en_def": "having great meaning or value",
-    "cn_def": "重要的"
+  "pay": {
+    "pos": "v.",
+    "en_def": "to give money for something you buy",
+    "cn_def": "付錢"
+  },
+  "borrow": {
+    "pos": "v.",
+    "en_def": "to take and use something that you will give back later",
+    "cn_def": "借入"
   }
 };
 

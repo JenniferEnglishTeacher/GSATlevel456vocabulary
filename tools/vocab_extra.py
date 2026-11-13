@@ -89,7 +89,7 @@ def written_mcqs(V, rows, index, gloss, rng, where, ans_of):
         assert ok, ("answer is not this word", where, e["word"], ans)
         assert len(re.findall(r"_{4}", stem)) == 1 and len({ans.lower(), *[w.lower() for w in wrong]}) == 4, (where, ans, stem)
         n = len(stem.split())
-        if not 16 <= n <= 38:
+        if not 10 <= n <= 38:
             print("  length", where, ans, n)
         opts = wrong[:]
         opts.insert(seats[i], ans)

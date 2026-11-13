@@ -1,0 +1,253 @@
+#15
+bed | I am very tired. I just want to lie down on my ____ and sleep until tomorrow morning. | desk | drawer | lamp
+sofa | The three of us sat on the long, soft ____ in the living room and watched TV together. | desk | drawer | lamp
+couch | Dad fell asleep on the ____ in front of the TV. It is long and soft, so he can lie on it. | desk | drawer | basket
+chair | There are four people but only three seats. Please bring another ____ from the kitchen. | lamp | blanket | towel
+desk | I do my homework at my ____. My books, pens, and computer are all on it. | bed | mat | blanket
+table | Dinner is ready. Please put the bowls and chopsticks on the ____. The whole family will sit around it. | bed | lamp | drawer
+drawer | I keep my pens and erasers in the top ____ of my desk. I pull it out when I need them. | lamp | blanket | candle
+lamp | It is too dark to read. Please turn on the ____ on your desk. | key | towel | basket
+blanket | It is cold tonight. Put another ____ on your bed, or you won't sleep well. | lamp | key | pot
+towels | After swimming, we dried our bodies with ____. They were big and soft. | keys | candles | pots
+keys | I can't open the door because I lost my ____. I have to wait for Mom to come home. | towels | candles | pots
+umbrella | It is raining now. Don't forget to take your ____ when you go out. | candle | drawer | bench
+basket | Mom carried the fruit and vegetables home from the market in a ____. | lamp | bench | pipe
+pot | Mom is cooking soup in a big ____. Don't touch it because it is very hot. | basket | mat | drawer
+candles | There are ten ____ on the birthday cake. Make a wish and blow them out! | keys | towels | mats
+mat | Please clean your shoes on the ____ at the door before you come in. | bench | lamp | pot
+bench | We sat on a ____ in the park and ate our sandwiches. An old man was sitting on the other end. | lamp | drawer | pipe
+light | It is dark in here. Please turn on the ____ so that I can see. | pipe | gate | mat
+television | We watch the news on ____ every evening. Our new one has a very big screen. | radio | telephone | camera
+computer | I use my ____ to write reports, play games, and send e-mails. | camera | radio | fan
+telephone | The ____ is ringing. Can you answer it? It may be Grandma calling. | radio | camera | fan
+radio | Grandpa listens to the news and old songs on the ____ every morning. It has no screen. | camera | fan | lamp
+camera | I took many pictures with my new ____ on the trip. Do you want to see the photos? | radio | fan | lamp
+fan | It is hot in here. Please turn on the ____. We need some moving air. | radio | camera | lamp
+refrigerator | Put the milk and eggs in the ____. They will go bad if they are not kept cold. | drawer | basket | pot
+machine | This ____ can wash and dry your clothes in two hours. You just need to push a button. | pipe | lamp | radio
+tapes | In the past, people listened to music on ____. Now most people use their phones. | pipes | lamps | cameras
+videos | My brother likes to watch funny cat ____ on the Internet. He laughs at them for hours. | tapes | radios | pipes
+pipe | Water is coming out of a broken ____ under the kitchen floor. Call someone to fix it. | lamp | radio | camera
+house | The Lins live in a big ____ with a garden and a yard. Seven people live there. | room | kitchen | balcony
+apartment | We live in a small ____ on the fifth floor of a tall building. We don't have a garden. | garden | yard | gate
+door | Someone is knocking on the ____. Can you open it and see who it is? | floor | wall | stairs
+windows | It is hot in here. Let's open the ____ and let some fresh air in. | walls | floors | stairs
+wall | There is a big picture of my family on the ____ of the living room. It hangs above the sofa. | floor | gate | yard
+floor | Don't leave your toys on the ____. Someone may step on them and fall. | wall | window | gate
+gate | The school ____ opens at seven in the morning. Students can't get in before that. | wall | floor | yard
+stairs | The elevator is broken, so we have to walk up the ____ to the tenth floor. | gates | walls | yards
+home | It is late. I have to go ____ now, or my parents will worry about me. | room | yard | garden
+room | My sister and I share a ____. There are two beds and two desks in it. | gate | wall | floor
+bedroom | I sleep and study in my ____. My bed and desk are there. | kitchen | bathroom | balcony
+bathroom | I take a shower and brush my teeth in the ____ every night before bed. | kitchen | bedroom | garden
+kitchen | Mom is cooking dinner in the ____. It smells so good! | bathroom | bedroom | balcony
+dining room | We eat dinner together in the ____. There is a big table with six chairs in it. | bathroom | bedroom | balcony
+living room | The family watches TV on the sofa in the ____ after dinner. | bathroom | kitchen | garden
+balcony | Mom hangs the wet clothes on the ____ of our apartment. It gets a lot of sun there. | kitchen | bathroom | bedroom
+garden | Grandpa grows flowers and vegetables in his ____. He waters them every morning. | kitchen | bedroom | bathroom
+yard | The children are playing ball in the ____ in front of the house. The dog is running around them. | kitchen | bedroom | bathroom
+clean | Your room is very dirty. Please ____ it before your friends come this afternoon. | build | fix | cook
+washes | Dad ____ his car with soap and water every Sunday morning. | fixes | builds | cooks
+fix | My bike is broken. Can you ____ it for me, Dad? I need it for school tomorrow. | build | wash | clean
+build | They will ____ a new bridge over the river. It will take two years to finish. | wash | cook | fix
+bath | I like to take a hot ____ before bed. I lie in the warm water for twenty minutes. | street | road | gate
+street | There are many shops and restaurants on this ____. It is the busiest one in the town. | bath | floor | wall
+road | Drive carefully. The ____ to the mountain village is narrow, and there are many turns. | bath | floor | wall
+#16
+Chinese | People in Taiwan and China speak ____. It is also the class where we learn to write characters. | English | math | science
+English | People in America and England speak ____. We learn the ABCs in this class. | Chinese | history | art
+math | In ____ class, we learn to add, subtract, and work with numbers. | history | art | music
+history | In ____ class, we learn about people and things from the past, like old kings and wars. | math | art | PE
+lessons | I take piano ____ every Saturday. My teacher comes to my house and teaches me for an hour. | pages | maps | grades
+course | I am taking a six-week English ____ this summer. There are three classes every week. | page | map | chalk
+art | In ____ class, we draw and paint pictures. I love using colors. | math | history | science
+music | In ____ class, we sing songs and learn to play the flute. | math | history | science
+PE | We play basketball and run in ____ class. We have to wear sports shoes. | art | math | history
+science | In ____ class, we learn about plants, animals, the weather, and the stars. | art | music | PE
+languages | My uncle can speak four ____: Chinese, English, Japanese, and French. | dictionaries | notebooks | stories
+dictionary | I don't know this word. I will look it up in the ____. | map | eraser | ruler
+map | We can't find the museum. Let's look at the ____ of the city and see where we are. | chalk | glue | eraser
+notebook | I write down new words in my ____ during class. It is almost full now. | chalk | map | glue
+paper | Please give me a piece of ____. I want to draw a picture of my dog. | glue | ruler | marker
+book | I am reading a ____ about animals. It has two hundred pages and many pictures. | map | chalk | ruler
+chalk | The teacher writes on the blackboard with a piece of white ____. | paper | glue | ruler
+workbook | Please open your ____ to page ten and do exercises one to five for homework. | map | envelope | postcard
+page | Please open your book to ____ thirty. We will read the story there today. | map | paper | chalk
+blackboard | The teacher wrote the new words on the ____ with chalk. We copied them into our notebooks. | dictionary | map | envelope
+picture | Ben drew a ____ of his family. His father is the tallest one in it. | page | map | letter
+listen | Please ____ to the teacher carefully. She is telling us about the test. | spell | read | draw
+repeat | I can't hear you. Could you ____ the question, please? Say it one more time. | spell | draw | read
+say | How do you ____ "thank you" in Japanese? I want to thank my Japanese friend. | talk | listen | draw
+read | I ____ a book for thirty minutes before bed every night. I love stories about animals. | say | talk | spell
+write | Please ____ your name at the top of the test paper with a pen. | read | say | talk
+spell | How do you ____ your name? Is it A-M-Y or A-I-M-E-E? | read | draw | answer
+draw | Ben likes to ____ pictures of cars with a pencil. He wants to be an artist. | read | spell | say
+answer | The teacher asked a question, but nobody could ____ it. It was too hard. | ask | talk | listen
+talk | Please don't ____ in the library. People are reading and need a quiet place. | listen | write | spell
+pens | I have two ____ in my pencil case. One has blue ink, and the other has red ink. | rulers | erasers | maps
+pencil | Please write your answers with a ____, not a pen. Then you can erase your mistakes. | ruler | marker | map
+eraser | I wrote the wrong answer. May I borrow your ____ to rub it out? | ruler | glue | marker
+rulers | We use ____ to draw straight lines. Mine is thirty centimeters long. | erasers | maps | pages
+glue | I need some ____ to stick this picture onto my notebook. | chalk | paper | homework
+marker | The teacher wrote on the whiteboard with a black ____. Its thick lines are easy to see. | ruler | eraser | glue
+elementary school | My little brother is seven years old. He is a first grader in ____. | junior high school | senior high school | the library
+junior high school | I am thirteen years old. I finished elementary school last year, and now I am in ____. | senior high school | the playground | the gym
+senior high school | My sister is seventeen. After three years of junior high, she now goes to ____. | elementary school | the playground | the gym
+school | Children go to ____ to learn. Classes start at eight in the morning. | playground | classroom | seesaw
+classroom | There are thirty desks and chairs in our ____. The blackboard is on the front wall. | playground | seesaw | slide
+gym | We play basketball in the ____ when it rains. It is a big building next to the playground. | library | seesaw | slide
+playground | Students run and play ball on the ____ after class. It is the big open place outside. | library | classroom | slide
+library | I borrowed three books from the school ____. I have to return them in two weeks. | gym | playground | classroom
+seesaw | Two children sit on the ends of the ____. When one goes up, the other goes down. | slide | gym | library
+slide | The little boy climbed up the steps and came down the ____ very fast. He did it again and again. | seesaw | gym | library
+teacher | Ms. Lin is our English ____. She gives us a quiz every week. | student | classmate | class
+students | There are thirty ____ in my class: fifteen boys and fifteen girls. | classes | tests | grades
+classmate | Tom is my ____. We are both in Class 7B, and he sits next to me. | teacher | class | test
+friend | Amy is my best ____. We tell each other everything, and we play together every day. | class | test | grade
+class | There are thirty students in my ____. Our teacher is Mr. Wang. | friend | test | homework
+teaches | Mr. Lin ____ math at a junior high school. His students like him very much. | learns | asks | passes
+learn | I want to ____ how to swim this summer. I can't swim at all now. | teach | fail | mark
+studies | Lisa ____ for two hours every night. That is why she always gets good grades. | fails | marks | asks
+explain | I don't understand this math problem. Can you ____ it to me again? | ask | learn | pass
+ask | If you don't understand, raise your hand and ____ the teacher a question. | explain | pass | fail
+understand | The teacher speaks too fast, so I can't ____ her. Can she say it slowly? | teach | mark | pass
+practices | Amy ____ the piano for an hour every day. She wants to play better. | fails | passes | asks
+speak | Can you ____ Japanese? I need someone to help me talk to this visitor from Tokyo. | mark | pass | ask
+marks | After the test, the teacher ____ our papers with a red pen. She gives each one a score. | passes | fails | learns
+pass | If you study hard, you will ____ the test. You need sixty points or more. | fail | teach | ask
+fail | If you don't study at all, you will ____ the test. You will get fewer than sixty points. | pass | teach | explain
+prepare | We have a big test tomorrow. I need to ____ for it tonight. | explain | teach | fail
+homework | The teacher gave us a lot of ____ today. I have to finish it at home tonight. | quiz | grade | example
+test | We have a math ____ tomorrow. I need to study the first three lessons tonight. | grade | example | story
+quiz | We have a short English ____ every Friday. It has only ten questions and takes five minutes. | grade | story | problem
+grades | Lisa studies hard, so she always gets good ____. Her parents are proud of her. | questions | problems | examples
+questions | The test has fifty ____. You have one hour to answer all of them. | grades | stories | classes
+problem | I have a ____. I lost my wallet, and I can't get home. Can you help me? | grade | quiz | story
+example | I don't understand this word. Can you give me an ____ of how to use it in a sentence? | eraser | envelope | art
+exercises | Please do the ____ on page 20 for homework. There are ten questions for you to practice. | stories | grades | letters
+knowledge | Reading books gives you ____. The more you read, the more you know about the world. | homework | chalk | glue
+story | Grandma told us a ____ about a princess and a dragon before bed. | quiz | grade | problem
+envelope | I put the letter in an ____ and wrote the address on it. | example | eraser | exercise
+letter | I wrote a long ____ to my friend in Japan. I will mail it at the post office tomorrow. | quiz | grade | present
+postcard | I sent a ____ to my parents from Japan. It has a picture of Mt. Fuji on the front. | story | quiz | grade
+glasses | I can't see the blackboard clearly, so I need to wear ____. The doctor checked my eyes yesterday. | presents | envelopes | postcards
+present | Lisa gave me a birthday ____. It was a book in beautiful paper. | quiz | grade | problem
+#17
+beach | We played in the sand and swam in the sea at the ____ all afternoon. | zoo | museum | theater
+pool | The hotel has a swimming ____ on the top floor. We swam there every morning. | park | zoo | bank
+park | We walk our dog in the ____ every evening. There are many trees and a lot of grass there. | bank | theater | museum
+zoo | We saw lions, elephants, and pandas at the ____ yesterday. | museum | theater | bank
+museum | We saw many old paintings and things from long ago at the ____. | zoo | bank | pool
+theater | Let's go to the ____ to watch the new movie tonight. I will buy the tickets. | zoo | bank | museum
+here | Come ____, please. I want to show you something on my computer. | there | already | ago
+there | Do you see that tall tree over ____? My house is right behind it. | here | already | once
+front | Short students sit in the ____ of the classroom so they can see the blackboard. | back | top | north
+back | Tall students sit at the ____ of the classroom, behind all the other students. | front | top | east
+middle | There is a small island in the ____ of the lake. Water is all around it. | top | front | left
+top | We climbed for five hours and finally stood on the ____ of the mountain. | front | back | left
+restroom | Excuse me, where is the ____? I need to wash my hands. | bank | farm | factory
+bank | I need to go to the ____ to get some money. It closes at three thirty. | zoo | farm | temple
+post office | I am going to the ____ to mail a letter and buy some stamps. | department store | hospital | bakery
+left | In Taiwan, the driver sits on the ____ side of the car. In Japan, the driver sits on the right. | right | north | top
+right | Most people write with their ____ hand, but my brother uses his left. | left | front | back
+hospital | Ben broke his leg, so he had to stay in the ____ for a week. The doctors and nurses were kind. | hotel | bank | bakery
+hotel | We stayed at a nice ____ near the beach during our trip. Our room had a big bed. | bank | bakery | factory
+bookstore | I bought two novels and a dictionary at the ____ near my school. | bakery | bank | hospital
+department store | Mom bought a dress on the third floor and shoes on the fifth floor of the ____. | post office | bakery | farm
+supermarket | We buy milk, eggs, meat, and vegetables at the ____ every week. | bookstore | bank | bakery
+bakery | The ____ on the corner sells fresh bread and cakes every morning. It smells so good. | bank | bookstore | temple
+market | Mom buys fresh fish and vegetables at the ____ early every morning. Farmers sell their food there. | bank | bakery | bookstore
+shop | There is a small flower ____ next to my school. I bought roses for my teacher there. | bank | farm | temple
+store | This ____ sells toys and games. Children love to go there after school. | bank | farm | church
+church | Many people go to the ____ on Sunday mornings to sing and pray to God. | bank | factory | zoo
+temple | Longshan ____ is very old and famous. People in Taipei go there to pray to the gods. | Bank | Hotel | Zoo
+factory | My uncle works in a car ____. He and five hundred other workers make cars there. | church | temple | bakery
+office | My mother works in an ____. She sits at a desk and uses a computer all day. | farm | zoo | bakery
+farm | Grandpa grows rice and keeps pigs and chickens on his ____. | bank | hotel | shop
+city | Taipei is a big ____. Millions of people live and work there. | farm | shop | bank
+town | I live in a small ____. It has only one school and two stores, and it is much smaller than a city. | bank | hotel | pool
+country | I don't like big cities. I want to live in the ____, near farms, rivers, and mountains. | bank | theater | museum
+place | This park is a good ____ for a picnic. It is quiet and has many trees. | bank | hotel | farm
+north | Taipei is in the ____ of Taiwan, and Kaohsiung is in the south. | east | west | front
+south | Kaohsiung is in the ____ of Taiwan, and Taipei is in the north. | east | west | top
+east | The sun comes up in the ____ every morning and goes down in the west. | north | south | middle
+west | The sun goes down in the ____ every evening. It comes up in the east. | north | south | front
+#18
+bicycle | I ride my ____ to school every day. It has two wheels and no engine, so it is good exercise. | taxi | train | truck
+ride | Can you ____ a horse? I tried it once, but I fell off. | drive | fly | sail
+scooter | Many people in Taiwan ride a ____ to work. This small motorcycle is easy to park. | taxi | truck | ship
+motorcycle | My uncle rides a big ____. It has two wheels and a strong engine, and it is very fast. | truck | taxi | boat
+car | My father drives his ____ to work. Our family of five can all sit in it. | train | boat | bicycle
+drive | You have to be eighteen years old to ____ a car in Taiwan. | ride | fly | sail
+bus | I take the school ____ every morning. About forty students ride on it together. | taxi | bicycle | scooter
+taxi | We were late, so we took a ____ to the airport. The driver got us there fast, and we paid him 500 dollars. | bicycle | ship | bridge
+train | We took the ____ from Taipei to Kaohsiung. It ran on rails and stopped at many stations. | taxi | ship | truck
+take the MRT | Many people in Taipei ____ to work. The trains run under the city and come every few minutes. | ride a horse | sail a boat | fly a kite
+fast | The high speed rail is very ____. It takes only ninety minutes to go from Taipei to Kaohsiung. | slow | heavy | short
+quick | Let's have a ____ lunch. We only have fifteen minutes before the next class. | slow | tall | young
+slow | This bus is too ____. We have been on it for an hour, and we are still not there. | fast | quick | short
+airplane | We flew to Japan on a big ____. It took off at nine and landed at one. | ship | train | truck
+fly | Birds can ____ because they have wings. People need planes to do it. | drive | ride | sail
+boat | We sat in a small ____ and fished in the middle of the lake. | truck | train | taxi
+ship | A big ____ carries thousands of people across the sea. It is like a hotel on the water. | truck | train | taxi
+sail | The ship will ____ from Keelung to Japan tomorrow morning. It will be at sea for two days. | drive | ride | fly
+arrive | The train will ____ at Taipei Station at ten o'clock. Please wait for me there. | turn | cross | land
+traffic | There is a lot of ____ in the morning. The roads are full of cars, buses, and motorcycles. | bridge | sidewalk | block
+turn | Go straight for two blocks and ____ left at the bank. The post office is on your right. | cross | arrive | land
+blocks | The library is not far. Walk three ____ down this street, and you will see it. | bridges | stations | sidewalks
+crosses | The old woman ____ the street slowly. A kind boy helps her get to the other side. | turns | arrives | lands
+bridge | We drove over a long ____ to cross the river. It was built two years ago. | station | sidewalk | airport
+sidewalk | Please walk on the ____, not in the street. The cars are very fast here. | airport | station | traffic
+airport | We went to the ____ two hours early to catch our plane to Japan. | station | bridge | sidewalk
+lands | The plane from Tokyo ____ at Taoyuan at three o'clock. We will meet Grandma there. | sails | turns | crosses
+station | I will meet you at the train ____ at eight. Our train leaves at eight twenty. | airport | bridge | sidewalk
+truck | The workers put all our furniture in a big ____ and drove it to our new house. | taxi | bicycle | scooter
+#19
+height | What is your ____? I am 160 centimeters tall. | size | shape | row
+centimeters | My brother is 175 ____ tall. He is the tallest boy in his class. | grams | kilograms | pounds
+feet | The basketball player is seven ____ tall. That is about 213 centimeters! | miles | grams | pounds
+inches | There are twelve ____ in a foot. One of them is about two and a half centimeters. | miles | yards | pounds
+yards | In American football, the field is one hundred ____ long. Each one is three feet. | miles | grams | pounds
+miles | It is about 250 ____ from Taipei to Kaohsiung. Americans use this instead of kilometers. | inches | grams | pounds
+far | The station is too ____ to walk to. It is ten kilometers away, so let's take a bus. | high | deep | wide
+high | Mt. Jade is very ____. It is almost 4,000 meters above the sea. | deep | wide | round
+deep | Don't swim in that part of the lake. The water there is very ____, and your feet can't touch the bottom. | high | wide | round
+wide | The river is fifty meters ____. We need a boat to get to the other side. | high | round | straight
+grams | I need 200 ____ of sugar to make this cake. That is not very heavy. | miles | inches | yards
+kilograms | I weigh fifty ____. My little sister is lighter, so she weighs only thirty. | centimeters | miles | inches
+pounds | In America, people buy meat in ____. One of them is a little less than half a kilogram. | inches | miles | yards
+shape | What ____ is the moon tonight? It is round like a ball. | size | height | row
+round | A ball is ____. The sun, the moon, and oranges have this shape, too. | square | straight | wide
+circle | The teacher asked us to sit in a ____ on the floor. Then everyone could see each other. | dot | point | angle
+square | A ____ box has four sides of the same length. This one is ten centimeters on each side. | round | straight | deep
+angles | A triangle has three sides and three ____. A square has four of each. | rows | pairs | bottles
+line | Please stand in ____ and wait for the bus. Don't push the people in front of you. | shape | size | dot
+straight | Go ____ down this road for two blocks. Don't turn left or right. | round | wide | deep
+dots | Her dress is white with small red ____. They look like little round candies. | rows | angles | sizes
+points | Our team got ninety ____ in the basketball game, so we won. | dots | rows | lines
+row | We sat in the front ____ at the theater. We were so close that we could see the actors' faces. | dot | size | shape
+size | These shoes are too small. Do you have them in a bigger ____? | shape | height | row
+medium | I don't want a small or a large Coke. I'd like a ____ one, please. | round | straight | deep
+large | We are very hungry. Let's order a ____ pizza, not a small one. | low | light | short
+bottle | I bought a ____ of water at the convenience store. I drank it all after the game. | pair | dozen | row
+cup | Would you like a ____ of coffee? I just made a fresh pot. | pair | piece | dozen
+glasses | I drink eight ____ of water every day. The doctor says it is good for me. | pairs | pieces | rows
+piece | Would you like a ____ of cake? I cut it into eight. | pair | dozen | bottle
+pack | We need a ____ of cards to play this game. There are fifty-two in it. | pair | bottle | piece
+package | The mailman brought a big ____ for you. It is a box from Grandma, and it is very heavy. | pair | dozen | row
+pair | I bought a new ____ of shoes yesterday. The left one fits, but the right one is a little small. | piece | bottle | cup
+dozen | I bought a ____ eggs at the supermarket. We ate two this morning, so there are ten left. | piece | bottle | pack
+kilos | Mom bought two ____ of pork at the market. It was heavy to carry home. | pairs | rows | dots
+bigger | An elephant is much ____ than a mouse. It is the largest animal on land. | smaller | shorter | lighter
+smaller | A cat is ____ than a tiger. You can hold it in your arms. | bigger | longer | lower
+little | Look at that ____ baby bird! It is so small that it can sit in my hand. | large | long | deep
+longer | A snake is much ____ than a worm. Some are five meters from head to tail. | shorter | lighter | smaller
+shorter | My hair is ____ than yours. Mine only reaches my ears, but yours reaches your shoulders. | longer | bigger | lower
+lower | This table is ____ than that one. It is only forty centimeters high. | longer | lighter | bigger
+lighter | This bag is ____ than that one. It has only one book in it, so it is easy to carry. | longer | lower | shorter
+@ the library = n. 圖書館
+@ the playground = n. 操場
+@ the gym = n. 體育館
+@ ride a horse = phr. 騎馬
+@ sail a boat = phr. 駕船
+@ fly a kite = phr. 放風箏

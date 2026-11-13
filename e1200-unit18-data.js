@@ -249,119 +249,119 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: How does Amy go to school? — A: She goes to school by ______.【腳踏車】",
+    "q": "I ride my ______ to school every day. It has two wheels and no engine, so it is good exercise.",
     "options": [
-      "motorcycle",
-      "bridge",
-      "truck",
-      "bicycle"
+      "taxi",
+      "bicycle",
+      "train",
+      "truck"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "艾美怎麼上學？ — 她騎腳踏車上學。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: How do you go to the park? — A: I ______ my bike there.【騎】",
+    "q": "Can you ______ a horse? I tried it once, but I fell off.",
     "options": [
       "drive",
-      "arrive",
+      "fly",
       "ride",
-      "fly"
+      "sail"
     ],
     "answer": 2,
     "cn": "你怎麼去公園？ — 我騎腳踏車去那裡。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: How does your mom go to the market? — A: She rides her ______ there.【小型機車】",
+    "q": "Many people in Taiwan ride a ______ to work. This small motorcycle is easy to park.",
     "options": [
       "scooter",
-      "motorcycle",
+      "taxi",
       "truck",
-      "sidewalk"
+      "ship"
     ],
     "answer": 0,
     "cn": "你媽媽怎麼去市場？ — 她騎她的機車去那裡。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: How do your brothers go to work? — A: They go to work by ______.【機車】",
+    "q": "My uncle rides a big ______. It has two wheels and a strong engine, and it is very fast.",
     "options": [
-      "airplane",
-      "motorcycle",
-      "ship",
-      "sidewalk"
+      "truck",
+      "taxi",
+      "boat",
+      "motorcycle"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你哥哥們怎麼去上班？ — 他們騎機車去上班。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: How does your dad go to work? — A: He goes to work by ______.【車子】",
+    "q": "My father drives his ______ to work. Our family of five can all sit in it.",
     "options": [
-      "truck",
+      "car",
       "train",
       "boat",
-      "car"
+      "bicycle"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你爸爸怎麼去上班？ — 他開車去上班。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: How do your parents go to the beach? — A: They ______ there in their new car.【駕駛；開車】",
+    "q": "You have to be eighteen years old to ______ a car in Taiwan.",
     "options": [
-      "drive",
-      "arrive",
       "ride",
-      "sail"
+      "fly",
+      "sail",
+      "drive"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "你爸媽怎麼去海灘？ — 他們開新車去那裡。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: How do you go to school? — A: I go to school by ______.【公車】",
+    "q": "I take the school ______ every morning. About forty students ride on it together.",
     "options": [
-      "blocks",
-      "truck",
+      "taxi",
       "bus",
-      "bicycle"
+      "bicycle",
+      "scooter"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你怎麼上學？ — 我搭公車上學。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: How does Mr. Lee go to the hotel? — A: He takes a ______.【計程車】",
+    "q": "We were late, so we took a ______ to the airport. The driver got us there fast, and we paid him 500 dollars.",
     "options": [
+      "bicycle",
       "ship",
       "taxi",
-      "airport",
-      "train"
+      "bridge"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "李先生怎麼去旅館？ — 他搭計程車。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: How do Ben and his sister go to Tainan? — A: They go there by ______.【火車】",
+    "q": "We took the ______ from Taipei to Kaohsiung. It ran on rails and stopped at many stations.",
     "options": [
-      "car",
-      "boat",
       "train",
-      "airplane"
+      "taxi",
+      "ship",
+      "truck"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "班和他妹妹怎麼去臺南？ — 他們搭火車去那裡。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: How do you and Tom go to the zoo? — A: We ______ there.【搭捷運】",
+    "q": "Many people in Taipei ______ to work. The trains run under the city and come every few minutes.",
     "options": [
-      "a lot of",
-      "cheer up",
-      "a little",
+      "ride a horse",
+      "sail a boat",
+      "fly a kite",
       "take the MRT"
     ],
     "answer": 3,
@@ -369,59 +369,59 @@ const MCQS = [
     "vocabIndex": 9
   },
   {
-    "q": "Q: Do you go to school by MRT? — A: Yes, I do. The MRT is very ______.【快的】",
+    "q": "The high speed rail is very ______. It takes only ninety minutes to go from Taipei to Kaohsiung.",
     "options": [
-      "fast",
       "slow",
-      "quick",
-      "favorite"
+      "heavy",
+      "fast",
+      "short"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你搭捷運上學嗎？ — 是的，我搭捷運。捷運很快。",
     "vocabIndex": 10
   },
   {
-    "q": "Q: Does your dad take a taxi to work? — A: Yes, he does. It's a ______ way to get there.【迅速的】",
+    "q": "Let's have a ______ lunch. We only have fifteen minutes before the next class.",
     "options": [
       "slow",
       "quick",
-      "fast",
-      "honest"
+      "tall",
+      "young"
     ],
     "answer": 1,
     "cn": "你爸爸搭計程車上班嗎？ — 是的，他搭計程車。那是到那裡的快速方法。",
     "vocabIndex": 11
   },
   {
-    "q": "Q: Does Lisa go to school by bus? — A: No, she doesn't. The bus is too ______. She rides her bike.【慢的】",
+    "q": "This bus is too ______. We have been on it for an hour, and we are still not there.",
     "options": [
-      "quick",
-      "fast",
       "slow",
-      "safe"
+      "fast",
+      "quick",
+      "short"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "麗莎搭公車上學嗎？ — 不，她沒有。公車太慢了，她騎腳踏車。",
     "vocabIndex": 12
   },
   {
-    "q": "Q: How long does it take to go to Japan by ______? — A: It takes about three hours.【飛機】",
+    "q": "We flew to Japan on a big ______. It took off at nine and landed at one.",
     "options": [
-      "airplane",
-      "sidewalk",
-      "bicycle",
-      "motorcycle"
+      "ship",
+      "train",
+      "truck",
+      "airplane"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "搭飛機去日本要多久？ — 大約要三個小時。",
     "vocabIndex": 13
   },
   {
-    "q": "Q: How long does it take to ______ to Hong Kong? — A: It takes about two hours.【飛】",
+    "q": "Birds can ______ because they have wings. People need planes to do it.",
     "options": [
-      "ride",
+      "drive",
       "fly",
-      "turn",
+      "ride",
       "sail"
     ],
     "answer": 1,
@@ -429,47 +429,47 @@ const MCQS = [
     "vocabIndex": 14
   },
   {
-    "q": "Q: How long does it take to go to the island by ______? — A: It takes about thirty minutes.【船】",
+    "q": "We sat in a small ______ and fished in the middle of the lake.",
     "options": [
-      "scooter",
-      "car",
       "truck",
-      "boat"
+      "train",
+      "boat",
+      "taxi"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "搭船去那座島要多久？ — 大約要三十分鐘。",
     "vocabIndex": 15
   },
   {
-    "q": "Q: How long does it take to go to Penghu? — A: It takes about four hours by ______.【船】",
+    "q": "A big ______ carries thousands of people across the sea. It is like a hotel on the water.",
     "options": [
-      "sidewalk",
-      "traffic",
       "ship",
-      "bridge"
+      "truck",
+      "train",
+      "taxi"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "去澎湖要多久？ — 搭船大約要四個小時。",
     "vocabIndex": 16
   },
   {
-    "q": "Q: How long do your uncle and his friends stay on the boat? — A: They ______ on the sea for two hours.【航行】",
+    "q": "The ship will ______ from Keelung to Japan tomorrow morning. It will be at sea for two days.",
     "options": [
+      "drive",
       "ride",
       "sail",
-      "drive",
-      "arrive"
+      "fly"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你叔叔和他的朋友們在船上待多久？ — 他們在海上航行兩個小時。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: When do we ______ at the station? — A: In ten minutes. It takes ten minutes from here.【到達】",
+    "q": "The train will ______ at Taipei Station at ten o'clock. Please wait for me there.",
     "options": [
       "turn",
-      "fly",
-      "ride",
+      "cross",
+      "land",
       "arrive"
     ],
     "answer": 3,
@@ -477,162 +477,182 @@ const MCQS = [
     "vocabIndex": 18
   },
   {
-    "q": "Q: How long does it take to go to school by car? — A: About forty minutes. There is a lot of ______ in the morning.【交通】",
+    "q": "There is a lot of ______ in the morning. The roads are full of cars, buses, and motorcycles.",
     "options": [
+      "bridge",
       "traffic",
-      "truck",
-      "bicycle",
-      "airport"
+      "sidewalk",
+      "block"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "開車上學要多久？ — 大約四十分鐘，早上車很多。",
     "vocabIndex": 19
   },
   {
-    "q": "Q: How do I get to the bank? — A: Go straight and ______ left at the corner.【轉彎】",
+    "q": "Go straight for two blocks and ______ left at the bank. The post office is on your right.",
     "options": [
-      "fly",
-      "ride",
-      "drive",
-      "turn"
+      "cross",
+      "arrive",
+      "turn",
+      "land"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "我要怎麼去銀行？ — 直走，然後在轉角左轉。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: How do I get to the post office? — A: Go straight for two ______. It's on your right.【街區】",
+    "q": "The library is not far. Walk three ______ down this street, and you will see it.",
     "options": [
-      "bus",
-      "car",
-      "blocks",
-      "bicycle"
+      "bridges",
+      "stations",
+      "sidewalks",
+      "blocks"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "我要怎麼去郵局？ — 直走兩個街區，它在你的右邊。",
     "vocabIndex": 21
   },
   {
-    "q": "Q: How does Amy get to the park? — A: She ______ the street at the traffic light.【越過】",
+    "q": "The old woman ______ the street slowly. A kind boy helps her get to the other side.",
     "options": [
-      "lands",
+      "turns",
       "crosses",
-      "fly",
-      "sail"
+      "arrives",
+      "lands"
     ],
     "answer": 1,
     "cn": "艾美怎麼去公園？ — 她在紅綠燈處過馬路。",
     "vocabIndex": 22
   },
   {
-    "q": "Q: How do we get to the museum? — A: Walk across the ______. The museum is next to the river.【橋】",
+    "q": "We drove over a long ______ to cross the river. It was built two years ago.",
     "options": [
       "bridge",
-      "airport",
-      "ship",
-      "traffic"
+      "station",
+      "sidewalk",
+      "airport"
     ],
     "answer": 0,
     "cn": "我們要怎麼去博物館？ — 走過那座橋，博物館就在河邊。",
     "vocabIndex": 23
   },
   {
-    "q": "Q: How does Ben get to school safely? — A: He walks on the ______, not on the road.【人行道】",
+    "q": "Please walk on the ______, not in the street. The cars are very fast here.",
     "options": [
-      "ship",
-      "sidewalk",
-      "bridge",
-      "traffic"
+      "airport",
+      "station",
+      "traffic",
+      "sidewalk"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "班怎麼安全地走到學校？ — 他走在人行道上，不走在馬路上。",
     "vocabIndex": 24
   },
   {
-    "q": "Q: Where do we take the plane to Japan? — A: We take it at the ______ in Taoyuan.【機場】",
+    "q": "We went to the ______ two hours early to catch our plane to Japan.",
     "options": [
-      "train",
-      "sidewalk",
       "airport",
-      "bicycle"
+      "station",
+      "bridge",
+      "sidewalk"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "我們在哪裡搭去日本的飛機？ — 我們在桃園的機場搭。",
     "vocabIndex": 25
   },
   {
-    "q": "Q: Where does the plane from Tokyo stop? — A: It ______ at the airport in Taoyuan.【降落】",
+    "q": "The plane from Tokyo ______ at Taoyuan at three o'clock. We will meet Grandma there.",
     "options": [
+      "sails",
+      "turns",
       "lands",
-      "crosses",
-      "ride",
-      "drive"
+      "crosses"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "從東京來的飛機停在哪裡？ — 它降落在桃園的機場。",
     "vocabIndex": 26
   },
   {
-    "q": "Q: Where does Tom take the train? — A: He takes it at the train ______.【車站】",
+    "q": "I will meet you at the train ______ at eight. Our train leaves at eight twenty.",
     "options": [
       "airport",
-      "traffic",
-      "boat",
-      "station"
+      "station",
+      "bridge",
+      "sidewalk"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "湯姆在哪裡搭火車？ — 他在火車站搭車。",
     "vocabIndex": 27
   },
   {
-    "q": "Q: What do the workers drive? — A: They drive a big ______. It carries many boxes.【卡車】",
+    "q": "The workers put all our furniture in a big ______ and drove it to our new house.",
     "options": [
-      "truck",
-      "airport",
-      "airplane",
-      "motorcycle"
+      "taxi",
+      "bicycle",
+      "scooter",
+      "truck"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "那些工人開什麼車？ — 他們開一輛大卡車，它載著很多箱子。",
     "vocabIndex": 28
   }
 ];
 
 const LOOKUP = {
-  "honest": {
-    "pos": "adj.",
-    "en_def": "always telling the truth",
-    "cn_def": "誠實的"
-  },
-  "a lot of": {
-    "pos": "phr.",
-    "en_def": "a large number or amount of",
-    "cn_def": "許多的"
-  },
-  "a little": {
-    "pos": "phr.",
-    "en_def": "a small amount of (something you cannot count)",
-    "cn_def": "一點點（不可數）"
-  },
-  "sail": {
-    "pos": "v.",
-    "en_def": "to travel on water in a boat",
-    "cn_def": "航行；駕船"
+  "taxi": {
+    "pos": "n.",
+    "en_def": "a car with a driver that you pay to take you somewhere",
+    "cn_def": "計程車"
   },
   "bicycle": {
     "pos": "n.",
     "en_def": "a thing with two wheels that you ride by moving your legs",
     "cn_def": "腳踏車"
   },
+  "train": {
+    "pos": "n.",
+    "en_def": "a line of cars that moves along rails and carries people",
+    "cn_def": "火車"
+  },
+  "truck": {
+    "pos": "n.",
+    "en_def": "a big car for carrying heavy things",
+    "cn_def": "卡車"
+  },
+  "drive": {
+    "pos": "v.",
+    "en_def": "to make a car, bus, or truck go where you want",
+    "cn_def": "駕駛；開車"
+  },
+  "fly": {
+    "pos": "v.",
+    "en_def": "to move through the air",
+    "cn_def": "飛"
+  },
   "ride": {
     "pos": "v.",
     "en_def": "to sit on a bike, a horse, or a scooter and make it go",
     "cn_def": "騎"
   },
+  "sail": {
+    "pos": "v.",
+    "en_def": "to travel on water in a boat",
+    "cn_def": "航行；駕船"
+  },
   "scooter": {
     "pos": "n.",
     "en_def": "a small, light motorcycle",
     "cn_def": "小型機車"
+  },
+  "ship": {
+    "pos": "n.",
+    "en_def": "a big thing that carries people or things across the sea",
+    "cn_def": "船"
+  },
+  "boat": {
+    "pos": "n.",
+    "en_def": "a small thing that carries people on water",
+    "cn_def": "船"
   },
   "motorcycle": {
     "pos": "n.",
@@ -644,65 +664,90 @@ const LOOKUP = {
     "en_def": "a machine with four wheels that a person drives on the road",
     "cn_def": "車子"
   },
-  "drive": {
-    "pos": "v.",
-    "en_def": "to make a car, bus, or truck go where you want",
-    "cn_def": "駕駛；開車"
-  },
   "bus": {
     "pos": "n.",
     "en_def": "a big car that carries many people along the road",
     "cn_def": "公車"
   },
-  "taxi": {
+  "bridge": {
     "pos": "n.",
-    "en_def": "a car with a driver that you pay to take you somewhere",
-    "cn_def": "計程車"
+    "en_def": "something built over a river or road so people can go across",
+    "cn_def": "橋"
   },
-  "train": {
-    "pos": "n.",
-    "en_def": "a line of cars that moves along rails and carries people",
-    "cn_def": "火車"
+  "ride a horse": {
+    "pos": "phr.",
+    "en_def": "",
+    "cn_def": "騎馬"
+  },
+  "sail a boat": {
+    "pos": "phr.",
+    "en_def": "",
+    "cn_def": "駕船"
+  },
+  "fly a kite": {
+    "pos": "phr.",
+    "en_def": "",
+    "cn_def": "放風箏"
   },
   "take the mrt": {
     "pos": "phr.",
     "en_def": "to travel on the city's fast trains",
     "cn_def": "搭捷運"
   },
+  "slow": {
+    "pos": "adj.",
+    "en_def": "not fast; taking a long time",
+    "cn_def": "慢的"
+  },
+  "heavy": {
+    "pos": "adj.",
+    "en_def": "weighing a lot",
+    "cn_def": "重的"
+  },
   "fast": {
     "pos": "adj.",
     "en_def": "moving or happening in a short time; not slow",
     "cn_def": "快的"
+  },
+  "short": {
+    "pos": "adj.",
+    "en_def": "not tall; not long",
+    "cn_def": "矮的；短的"
   },
   "quick": {
     "pos": "adj.",
     "en_def": "taking very little time",
     "cn_def": "迅速的"
   },
-  "slow": {
+  "tall": {
     "pos": "adj.",
-    "en_def": "not fast; taking a long time",
-    "cn_def": "慢的"
+    "en_def": "high from head to foot",
+    "cn_def": "高的"
+  },
+  "young": {
+    "pos": "adj.",
+    "en_def": "having lived for only a few years; not old",
+    "cn_def": "年輕的"
   },
   "airplane": {
     "pos": "n.",
     "en_def": "a machine with wings that flies in the sky and carries people",
     "cn_def": "飛機"
   },
-  "fly": {
+  "turn": {
     "pos": "v.",
-    "en_def": "to move through the air",
-    "cn_def": "飛"
+    "en_def": "to change the direction you are going",
+    "cn_def": "轉彎"
   },
-  "boat": {
-    "pos": "n.",
-    "en_def": "a small thing that carries people on water",
-    "cn_def": "船"
+  "cross": {
+    "pos": "v.",
+    "en_def": "to go from one side of a road or river to the other",
+    "cn_def": "越過"
   },
-  "ship": {
-    "pos": "n.",
-    "en_def": "a big thing that carries people or things across the sea",
-    "cn_def": "船"
+  "land": {
+    "pos": "v.",
+    "en_def": "to come down from the air onto the ground",
+    "cn_def": "降落"
   },
   "arrive": {
     "pos": "v.",
@@ -714,35 +759,50 @@ const LOOKUP = {
     "en_def": "all the cars, buses, and motorcycles moving on the roads",
     "cn_def": "交通"
   },
-  "turn": {
-    "pos": "v.",
-    "en_def": "to change the direction you are going",
-    "cn_def": "轉彎"
+  "sidewalk": {
+    "pos": "n.",
+    "en_def": "a path at the side of a street for people to walk on",
+    "cn_def": "人行道"
+  },
+  "block": {
+    "pos": "n.",
+    "en_def": "the part of a street between two other streets",
+    "cn_def": "街區"
+  },
+  "bridges": {
+    "pos": "n.",
+    "en_def": "something built over a river or road so people can go across",
+    "cn_def": "橋"
+  },
+  "stations": {
+    "pos": "n.",
+    "en_def": "a place where trains or buses stop for people to get on and off",
+    "cn_def": "車站"
+  },
+  "sidewalks": {
+    "pos": "n.",
+    "en_def": "a path at the side of a street for people to walk on",
+    "cn_def": "人行道"
   },
   "blocks": {
     "pos": "n.",
     "en_def": "the part of a street between two other streets",
     "cn_def": "街區"
   },
+  "turns": {
+    "pos": "v.",
+    "en_def": "to change the direction you are going",
+    "cn_def": "轉彎"
+  },
   "crosses": {
     "pos": "v.",
     "en_def": "to go from one side of a road or river to the other",
     "cn_def": "越過"
   },
-  "bridge": {
-    "pos": "n.",
-    "en_def": "something built over a river or road so people can go across",
-    "cn_def": "橋"
-  },
-  "sidewalk": {
-    "pos": "n.",
-    "en_def": "a path at the side of a street for people to walk on",
-    "cn_def": "人行道"
-  },
-  "airport": {
-    "pos": "n.",
-    "en_def": "a place where planes take off and land",
-    "cn_def": "機場"
+  "arrives": {
+    "pos": "v.",
+    "en_def": "to get to a place",
+    "cn_def": "到達"
   },
   "lands": {
     "pos": "v.",
@@ -754,25 +814,15 @@ const LOOKUP = {
     "en_def": "a place where trains or buses stop for people to get on and off",
     "cn_def": "車站"
   },
-  "truck": {
+  "airport": {
     "pos": "n.",
-    "en_def": "a big car for carrying heavy things",
-    "cn_def": "卡車"
+    "en_def": "a place where planes take off and land",
+    "cn_def": "機場"
   },
-  "cheer up": {
-    "pos": "phr.",
-    "en_def": "to become happier; to stop feeling sad",
-    "cn_def": "打起精神；振作"
-  },
-  "safe": {
-    "pos": "adj.",
-    "en_def": "not in danger",
-    "cn_def": "安全的"
-  },
-  "favorite": {
-    "pos": "adj.",
-    "en_def": "liked the most",
-    "cn_def": "最喜愛的"
+  "sails": {
+    "pos": "v.",
+    "en_def": "to travel on water in a boat",
+    "cn_def": "航行；駕船"
   }
 };
 

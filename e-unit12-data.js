@@ -371,15 +371,84 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: What are you wearing today? It's so cold. — A: I'm wearing a long __________. It's warm.【大衣】",
+    "question": "It is very cold today. Put on your long, thick __________ over your sweater before you go out.",
     "options": [
      {
       "letter": "A",
-      "text": "coat"
+      "text": "skirt"
      },
      {
       "letter": "B",
+      "text": "belt"
+     },
+     {
+      "letter": "C",
+      "text": "ring"
+     },
+     {
+      "letter": "D",
+      "text": "coat"
+     }
+    ],
+    "answer": "D",
+    "vi": 0
+   },
+   {
+    "question": "It is a little cool tonight, so take a light __________ with you. A short one is enough.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "jacket"
+     },
+     {
+      "letter": "B",
+      "text": "belt"
+     },
+     {
+      "letter": "C",
+      "text": "wallet"
+     },
+     {
+      "letter": "D",
+      "text": "comb"
+     }
+    ],
+    "answer": "A",
+    "vi": 1
+   },
+   {
+    "question": "Grandma made this warm __________ for me with wool. I wear it under my coat in winter.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "skirt"
+     },
+     {
+      "letter": "B",
+      "text": "umbrella"
+     },
+     {
+      "letter": "C",
+      "text": "sweater"
+     },
+     {
+      "letter": "D",
+      "text": "wallet"
+     }
+    ],
+    "answer": "C",
+    "vi": 2
+   },
+   {
+    "question": "Lisa wore a beautiful white __________ to the party. She looked like a princess in it.",
+    "options": [
+     {
+      "letter": "A",
       "text": "tie"
+     },
+     {
+      "letter": "B",
+      "text": "dress"
      },
      {
       "letter": "C",
@@ -387,95 +456,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "uniform"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "Q: What is your brother wearing? — A: He is wearing a black __________.【夾克】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "umbrella"
-     },
-     {
-      "letter": "B",
-      "text": "comb"
-     },
-     {
-      "letter": "C",
-      "text": "sweater"
-     },
-     {
-      "letter": "D",
-      "text": "jacket"
-     }
-    ],
-    "answer": "D",
-    "vi": 1
-   },
-   {
-    "question": "Q: What is Grandma wearing? — A: She is wearing a warm __________.【毛衣】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "uniform"
-     },
-     {
-      "letter": "B",
-      "text": "sweater"
-     },
-     {
-      "letter": "C",
-      "text": "tie"
-     },
-     {
-      "letter": "D",
       "text": "wallet"
      }
     ],
     "answer": "B",
-    "vi": 2
-   },
-   {
-    "question": "Q: What is Amy wearing to the party? — A: She is wearing a pink __________. She looks beautiful.【洋裝】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pants"
-     },
-     {
-      "letter": "B",
-      "text": "gloves"
-     },
-     {
-      "letter": "C",
-      "text": "dress"
-     },
-     {
-      "letter": "D",
-      "text": "pockets"
-     }
-    ],
-    "answer": "C",
     "vi": 3
    },
    {
-    "question": "Q: What are the girls wearing? — A: They are wearing white shirts and blue __________.【裙子】",
+    "question": "The girls at our school wear blue __________, and the boys wear blue pants.",
     "options": [
      {
       "letter": "A",
-      "text": "clothes"
+      "text": "caps"
      },
      {
       "letter": "B",
-      "text": "pants"
+      "text": "belts"
      },
      {
       "letter": "C",
-      "text": "shoes"
+      "text": "rings"
      },
      {
       "letter": "D",
@@ -486,57 +486,57 @@ window.FLASHCARD_UNITS = {
     "vi": 4
    },
    {
-    "question": "Q: What is your dad wearing today? — A: He is wearing a white __________ and a tie.【襯衫】",
+    "question": "Dad wears a white __________ and a tie to work every day. It has long sleeves and eight buttons.",
     "options": [
      {
       "letter": "A",
+      "text": "skirt"
+     },
+     {
+      "letter": "B",
+      "text": "dress"
+     },
+     {
+      "letter": "C",
       "text": "shirt"
      },
      {
-      "letter": "B",
-      "text": "coat"
-     },
-     {
-      "letter": "C",
-      "text": "bag"
-     },
-     {
       "letter": "D",
-      "text": "mask"
-     }
-    ],
-    "answer": "A",
-    "vi": 5
-   },
-   {
-    "question": "Q: What are you wearing? It's so hot! — A: I'm wearing a __________ and shorts.【T恤】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Uniform"
-     },
-     {
-      "letter": "B",
-      "text": "Coat"
-     },
-     {
-      "letter": "C",
-      "text": "T-shirt"
-     },
-     {
-      "letter": "D",
-      "text": "Comb"
+      "text": "glove"
      }
     ],
     "answer": "C",
-    "vi": 6
+    "vi": 5
    },
    {
-    "question": "Q: What is Ben wearing to the beach? — A: He is wearing __________.【短褲】",
+    "question": "It is hot today, so I am wearing a __________ and shorts. I don't need a jacket.",
     "options": [
      {
       "letter": "A",
-      "text": "dress"
+      "text": "T-shirt"
+     },
+     {
+      "letter": "B",
+      "text": "sweater"
+     },
+     {
+      "letter": "C",
+      "text": "coat"
+     },
+     {
+      "letter": "D",
+      "text": "glove"
+     }
+    ],
+    "answer": "A",
+    "vi": 6
+   },
+   {
+    "question": "In summer, the boys wear __________ to play basketball. Their knees and legs feel cool.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "gloves"
      },
      {
       "letter": "B",
@@ -544,53 +544,53 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "shoes"
+      "text": "sweaters"
      },
      {
       "letter": "D",
-      "text": "pants"
+      "text": "coats"
      }
     ],
     "answer": "B",
     "vi": 7
    },
    {
-    "question": "Q: What are you wearing for the hike? — A: I'm wearing long __________ and a jacket.【長褲】",
+    "question": "These __________ are too long for my legs. Can you make them five centimeters shorter?",
     "options": [
      {
       "letter": "A",
-      "text": "pants"
+      "text": "shirts"
      },
      {
       "letter": "B",
-      "text": "socks"
+      "text": "caps"
      },
      {
       "letter": "C",
-      "text": "shorts"
+      "text": "pants"
      },
      {
       "letter": "D",
-      "text": "jeans"
+      "text": "belts"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 8
    },
    {
-    "question": "Q: What is Tom wearing? — A: He is wearing a jacket with two big __________.【口袋】",
+    "question": "My jacket has two big __________. I keep my keys in one and my phone in the other.",
     "options": [
      {
       "letter": "A",
-      "text": "skirts"
+      "text": "buttons"
      },
      {
       "letter": "B",
-      "text": "pants"
+      "text": "ties"
      },
      {
       "letter": "C",
-      "text": "shoes"
+      "text": "belts"
      },
      {
       "letter": "D",
@@ -601,88 +601,88 @@ window.FLASHCARD_UNITS = {
     "vi": 9
    },
    {
-    "question": "Q: What are the children wearing for Halloween? — A: They are wearing funny __________.【衣服】",
+    "question": "Lisa loves shopping for __________. She has fifty dresses, thirty shirts, and twenty pairs of pants.",
     "options": [
      {
       "letter": "A",
-      "text": "skirts"
-     },
-     {
-      "letter": "B",
       "text": "clothes"
      },
      {
+      "letter": "B",
+      "text": "umbrellas"
+     },
+     {
       "letter": "C",
-      "text": "shorts"
+      "text": "combs"
      },
      {
       "letter": "D",
-      "text": "shoes"
+      "text": "wallets"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 10
    },
    {
-    "question": "Q: What do students wear at your school? — A: We wear a school __________ every day.【制服】",
+    "question": "Every student at our school has to wear a __________. We all look the same in our white shirts and blue pants.",
     "options": [
      {
       "letter": "A",
-      "text": "button"
+      "text": "ring"
      },
      {
       "letter": "B",
-      "text": "comb"
-     },
-     {
-      "letter": "C",
       "text": "uniform"
-     },
-     {
-      "letter": "D",
-      "text": "cap"
-     }
-    ],
-    "answer": "C",
-    "vi": 11
-   },
-   {
-    "question": "Q: What does your mom wear to work? — A: She __________ a dress and a coat.【穿；戴】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "owns"
-     },
-     {
-      "letter": "B",
-      "text": "wears"
-     },
-     {
-      "letter": "C",
-      "text": "sounds"
-     },
-     {
-      "letter": "D",
-      "text": "belongs"
-     }
-    ],
-    "answer": "B",
-    "vi": 12
-   },
-   {
-    "question": "Q: Whose __________ is this? It's on my desk. — A: It's mine. Thank you.【袋子；包包】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "umbrella"
-     },
-     {
-      "letter": "B",
-      "text": "cap"
      },
      {
       "letter": "C",
       "text": "belt"
+     },
+     {
+      "letter": "D",
+      "text": "glove"
+     }
+    ],
+    "answer": "B",
+    "vi": 11
+   },
+   {
+    "question": "My father __________ glasses because he can't see well. He takes them off only when he sleeps.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cooks"
+     },
+     {
+      "letter": "B",
+      "text": "drinks"
+     },
+     {
+      "letter": "C",
+      "text": "wears"
+     },
+     {
+      "letter": "D",
+      "text": "eats"
+     }
+    ],
+    "answer": "C",
+    "vi": 12
+   },
+   {
+    "question": "Mom put the fruit and vegetables in a big __________ and carried it home from the market.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wallet"
+     },
+     {
+      "letter": "B",
+      "text": "pocket"
+     },
+     {
+      "letter": "C",
+      "text": "cap"
      },
      {
       "letter": "D",
@@ -693,214 +693,30 @@ window.FLASHCARD_UNITS = {
     "vi": 13
    },
    {
-    "question": "Q: Whose __________ is this? There is money in it. — A: It's Dad's. He is looking for it.【皮夾】",
+    "question": "I can't pay for lunch because I left my __________ at home. All my money and cards are in it.",
     "options": [
      {
       "letter": "A",
-      "text": "wallet"
+      "text": "comb"
      },
      {
       "letter": "B",
-      "text": "bag"
+      "text": "wallet"
      },
      {
       "letter": "C",
-      "text": "jacket"
+      "text": "belt"
      },
      {
       "letter": "D",
-      "text": "uniform"
+      "text": "umbrella"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 14
    },
    {
-    "question": "Q: Whose __________ is this? It's wet. — A: It's Amy's. It's raining outside.【雨傘】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "comb"
-     },
-     {
-      "letter": "B",
-      "text": "uniform"
-     },
-     {
-      "letter": "C",
-      "text": "umbrella"
-     },
-     {
-      "letter": "D",
-      "text": "jacket"
-     }
-    ],
-    "answer": "C",
-    "vi": 15
-   },
-   {
-    "question": "Q: Whose __________ is this? — A: It's my sister's. She uses it every morning.【梳子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "jacket"
-     },
-     {
-      "letter": "B",
-      "text": "cap"
-     },
-     {
-      "letter": "C",
-      "text": "sweater"
-     },
-     {
-      "letter": "D",
-      "text": "comb"
-     }
-    ],
-    "answer": "D",
-    "vi": 16
-   },
-   {
-    "question": "Q: Whose __________ is this? It's on the floor. — A: It's mine. It's from my shirt.【鈕扣】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "button"
-     },
-     {
-      "letter": "B",
-      "text": "jacket"
-     },
-     {
-      "letter": "C",
-      "text": "belt"
-     },
-     {
-      "letter": "D",
-      "text": "hat"
-     }
-    ],
-    "answer": "A",
-    "vi": 17
-   },
-   {
-    "question": "Q: It's very sunny today. What should I do? — A: Put on your __________.【棒球帽；便帽】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "comb"
-     },
-     {
-      "letter": "B",
-      "text": "cap"
-     },
-     {
-      "letter": "C",
-      "text": "tie"
-     },
-     {
-      "letter": "D",
-      "text": "T-shirt"
-     }
-    ],
-    "answer": "B",
-    "vi": 18
-   },
-   {
-    "question": "Q: Does Ben wear a hat in class? — A: No, he doesn't. The teacher says, \"Take off your __________.\"【帽子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cap"
-     },
-     {
-      "letter": "B",
-      "text": "umbrella"
-     },
-     {
-      "letter": "C",
-      "text": "hat"
-     },
-     {
-      "letter": "D",
-      "text": "belt"
-     }
-    ],
-    "answer": "C",
-    "vi": 19
-   },
-   {
-    "question": "Q: Do your hands feel cold? — A: Yes, they do. Let me put on my __________.【手套】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "shoes"
-     },
-     {
-      "letter": "B",
-      "text": "gloves"
-     },
-     {
-      "letter": "C",
-      "text": "skirts"
-     },
-     {
-      "letter": "D",
-      "text": "shorts"
-     }
-    ],
-    "answer": "B",
-    "vi": 20
-   },
-   {
-    "question": "Q: I have a cold. What should I do? — A: Put on a __________, and drink a lot of water.【口罩；面具】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "mask"
-     },
-     {
-      "letter": "B",
-      "text": "tie"
-     },
-     {
-      "letter": "C",
-      "text": "belt"
-     },
-     {
-      "letter": "D",
-      "text": "bag"
-     }
-    ],
-    "answer": "A",
-    "vi": 21
-   },
-   {
-    "question": "Q: Dad, you're home! Are you tired? — A: Yes. Let me take off my __________ and rest.【領帶】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wallet"
-     },
-     {
-      "letter": "B",
-      "text": "uniform"
-     },
-     {
-      "letter": "C",
-      "text": "hat"
-     },
-     {
-      "letter": "D",
-      "text": "tie"
-     }
-    ],
-    "answer": "D",
-    "vi": 22
-   },
-   {
-    "question": "Q: How much is this brown __________? — A: It is 350 dollars.【皮帶】",
+    "question": "It is raining hard. Take your __________ with you, or you will get wet.",
     "options": [
      {
       "letter": "A",
@@ -908,99 +724,237 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "wallet"
-     },
-     {
-      "letter": "C",
       "text": "belt"
      },
      {
-      "letter": "D",
-      "text": "T-shirt"
-     }
-    ],
-    "answer": "C",
-    "vi": 23
-   },
-   {
-    "question": "Q: How much does this gold __________ cost? — A: It costs 5,000 dollars. It's expensive!【戒指】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dress"
-     },
-     {
-      "letter": "B",
-      "text": "sweater"
-     },
-     {
       "letter": "C",
-      "text": "uniform"
+      "text": "comb"
      },
      {
       "letter": "D",
       "text": "ring"
      }
     ],
-    "answer": "D",
-    "vi": 24
+    "answer": "A",
+    "vi": 15
    },
    {
-    "question": "Q: How much do these blue __________ cost? — A: They cost 900 dollars.【牛仔褲】",
+    "question": "My hair looks terrible this morning. Can I use your __________ to make it tidy?",
     "options": [
      {
       "letter": "A",
-      "text": "skirts"
+      "text": "belt"
      },
      {
       "letter": "B",
-      "text": "jeans"
+      "text": "comb"
      },
      {
       "letter": "C",
-      "text": "dress"
+      "text": "button"
      },
      {
       "letter": "D",
-      "text": "shorts"
+      "text": "ring"
      }
     ],
     "answer": "B",
-    "vi": 25
+    "vi": 16
    },
    {
-    "question": "Q: How much are those black __________? — A: They are 1,200 dollars.【鞋子】",
+    "question": "A __________ fell off my shirt. Mom, can you put it back on for me? I can't close my shirt now.",
     "options": [
      {
       "letter": "A",
-      "text": "shoes"
+      "text": "pocket"
      },
      {
       "letter": "B",
-      "text": "skirts"
+      "text": "ring"
      },
      {
       "letter": "C",
-      "text": "gloves"
+      "text": "belt"
      },
      {
       "letter": "D",
-      "text": "socks"
+      "text": "button"
+     }
+    ],
+    "answer": "D",
+    "vi": 17
+   },
+   {
+    "question": "The baseball player wears a blue __________ on his head. It keeps the sun out of his eyes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "belt"
+     },
+     {
+      "letter": "B",
+      "text": "tie"
+     },
+     {
+      "letter": "C",
+      "text": "cap"
+     },
+     {
+      "letter": "D",
+      "text": "ring"
+     }
+    ],
+    "answer": "C",
+    "vi": 18
+   },
+   {
+    "question": "Grandma wears a big __________ when she works in the garden. It keeps the sun off her head and face.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hat"
+     },
+     {
+      "letter": "B",
+      "text": "belt"
+     },
+     {
+      "letter": "C",
+      "text": "glove"
+     },
+     {
+      "letter": "D",
+      "text": "tie"
      }
     ],
     "answer": "A",
-    "vi": 26
+    "vi": 19
    },
    {
-    "question": "Q: How much does a pair of __________ cost? — A: It costs 60 dollars.【襪子】",
+    "question": "It is very cold today. Put on your __________, or your hands and fingers will hurt.",
     "options": [
      {
       "letter": "A",
-      "text": "pants"
+      "text": "socks"
      },
      {
       "letter": "B",
-      "text": "skirts"
+      "text": "shoes"
+     },
+     {
+      "letter": "C",
+      "text": "belts"
+     },
+     {
+      "letter": "D",
+      "text": "gloves"
+     }
+    ],
+    "answer": "D",
+    "vi": 20
+   },
+   {
+    "question": "When you have a cold, please wear a __________ over your nose and mouth. Then other people won't get sick.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "tie"
+     },
+     {
+      "letter": "B",
+      "text": "belt"
+     },
+     {
+      "letter": "C",
+      "text": "mask"
+     },
+     {
+      "letter": "D",
+      "text": "ring"
+     }
+    ],
+    "answer": "C",
+    "vi": 21
+   },
+   {
+    "question": "Dad wears a shirt and a __________ around his neck when he goes to an important meeting.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "belt"
+     },
+     {
+      "letter": "B",
+      "text": "tie"
+     },
+     {
+      "letter": "C",
+      "text": "ring"
+     },
+     {
+      "letter": "D",
+      "text": "sock"
+     }
+    ],
+    "answer": "B",
+    "vi": 22
+   },
+   {
+    "question": "These pants are too big for me. I need a __________ around my waist, or they will fall down.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "belt"
+     },
+     {
+      "letter": "B",
+      "text": "tie"
+     },
+     {
+      "letter": "C",
+      "text": "ring"
+     },
+     {
+      "letter": "D",
+      "text": "cap"
+     }
+    ],
+    "answer": "A",
+    "vi": 23
+   },
+   {
+    "question": "Mr. Lin gave his wife a gold __________ on their wedding day. She wears it on her finger every day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "belt"
+     },
+     {
+      "letter": "B",
+      "text": "ring"
+     },
+     {
+      "letter": "C",
+      "text": "button"
+     },
+     {
+      "letter": "D",
+      "text": "comb"
+     }
+    ],
+    "answer": "B",
+    "vi": 24
+   },
+   {
+    "question": "Cowboys wear blue __________. These strong pants are popular all over the world now.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "jeans"
+     },
+     {
+      "letter": "B",
+      "text": "shirts"
      },
      {
       "letter": "C",
@@ -1008,7 +962,53 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "shorts"
+      "text": "caps"
+     }
+    ],
+    "answer": "A",
+    "vi": 25
+   },
+   {
+    "question": "Please take off your __________ before you come into the house. Leave them by the door.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "gloves"
+     },
+     {
+      "letter": "B",
+      "text": "rings"
+     },
+     {
+      "letter": "C",
+      "text": "belts"
+     },
+     {
+      "letter": "D",
+      "text": "shoes"
+     }
+    ],
+    "answer": "D",
+    "vi": 26
+   },
+   {
+    "question": "Put on your __________ before you put on your shoes. They keep your feet warm.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "gloves"
+     },
+     {
+      "letter": "B",
+      "text": "caps"
+     },
+     {
+      "letter": "C",
+      "text": "socks"
+     },
+     {
+      "letter": "D",
+      "text": "belts"
      }
     ],
     "answer": "C",
@@ -1017,4 +1017,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"coat":["a long, warm piece of clothing you wear over other clothes when it is cold","大衣"],"jacket":["a short coat","夾克"],"sweater":["a warm piece of clothing with long sleeves for the top of your body","毛衣"],"dress":["a piece of clothing for girls and women that covers the body and part of the legs","洋裝"],"skirts":["a piece of clothing for girls and women that hangs from the waist","裙子"],"shirt":["a piece of clothing for the top of your body, with buttons","襯衫"],"t-shirt":["a shirt with short sleeves and no buttons","T恤"],"shorts":["short pants that end above the knees","短褲"],"pants":["clothing that covers your legs","長褲"],"pockets":["a small bag in your clothes for carrying things","口袋"],"clothes":["things that you wear, like shirts and pants","衣服"],"uniform":["special clothes that all students or workers in one place wear","制服"],"wears":["to have clothes, shoes, or glasses on your body","穿；戴"],"bag":["something made of cloth, paper, or plastic for carrying things","袋子；包包"],"wallet":["a small flat case for carrying money and cards","皮夾"],"umbrella":["a thing you hold over your head to stay dry in the rain","雨傘"],"comb":["a thing with many thin teeth for making your hair neat","梳子"],"button":["a small round thing that closes a shirt or coat","鈕扣"],"cap":["a soft hat with a hard part at the front","棒球帽；便帽"],"hat":["something you wear on your head","帽子"],"gloves":["a piece of clothing that covers your hand and fingers","手套"],"mask":["something that covers your face or your nose and mouth","口罩；面具"],"tie":["a long thin piece of cloth that men wear around the neck","領帶"],"belt":["a long thin piece of leather that you wear around your waist","皮帶"],"ring":["a small circle of gold or silver that you wear on your finger","戒指"],"jeans":["strong blue pants","牛仔褲"],"shoes":["things that you wear on your feet to walk outside","鞋子"],"socks":["soft things that you wear on your feet inside your shoes","襪子"],"sounds":["to seem a certain way when you hear it","聽起來"],"belongs":["to be owned by someone","屬於"],"owns":["to have something that is yours","擁有"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"skirt":["a piece of clothing for girls and women that hangs from the waist","裙子"],"belt":["a long thin piece of leather that you wear around your waist","皮帶"],"ring":["a small circle of gold or silver that you wear on your finger","戒指"],"coat":["a long, warm piece of clothing you wear over other clothes when it is cold","大衣"],"jacket":["a short coat","夾克"],"wallet":["a small flat case for carrying money and cards","皮夾"],"comb":["a thing with many thin teeth for making your hair neat","梳子"],"umbrella":["a thing you hold over your head to stay dry in the rain","雨傘"],"sweater":["a warm piece of clothing with long sleeves for the top of your body","毛衣"],"tie":["a long thin piece of cloth that men wear around the neck","領帶"],"dress":["a piece of clothing for girls and women that covers the body and part of the legs","洋裝"],"caps":["a soft hat with a hard part at the front","棒球帽；便帽"],"belts":["a long thin piece of leather that you wear around your waist","皮帶"],"rings":["a small circle of gold or silver that you wear on your finger","戒指"],"skirts":["a piece of clothing for girls and women that hangs from the waist","裙子"],"shirt":["a piece of clothing for the top of your body, with buttons","襯衫"],"glove":["a piece of clothing that covers your hand and fingers","手套"],"t-shirt":["a shirt with short sleeves and no buttons","T恤"],"gloves":["a piece of clothing that covers your hand and fingers","手套"],"shorts":["short pants that end above the knees","短褲"],"sweaters":["a warm piece of clothing with long sleeves for the top of your body","毛衣"],"coats":["a long, warm piece of clothing you wear over other clothes when it is cold","大衣"],"shirts":["a piece of clothing for the top of your body, with buttons","襯衫"],"pants":["clothing that covers your legs","長褲"],"buttons":["a small round thing that closes a shirt or coat","鈕扣"],"ties":["a long thin piece of cloth that men wear around the neck","領帶"],"pockets":["a small bag in your clothes for carrying things","口袋"],"clothes":["things that you wear, like shirts and pants","衣服"],"umbrellas":["a thing you hold over your head to stay dry in the rain","雨傘"],"combs":["a thing with many thin teeth for making your hair neat","梳子"],"wallets":["a small flat case for carrying money and cards","皮夾"],"uniform":["special clothes that all students or workers in one place wear","制服"],"cooks":["to make food ready to eat by heating it","煮飯；烹調"],"drinks":["to take water, milk, or juice into your mouth and body","喝"],"wears":["to have clothes, shoes, or glasses on your body","穿；戴"],"eats":["to put food in your mouth and swallow it","吃"],"pocket":["a small bag in your clothes for carrying things","口袋"],"cap":["a soft hat with a hard part at the front","棒球帽；便帽"],"bag":["something made of cloth, paper, or plastic for carrying things","袋子；包包"],"button":["a small round thing that closes a shirt or coat","鈕扣"],"hat":["something you wear on your head","帽子"],"socks":["soft things that you wear on your feet inside your shoes","襪子"],"shoes":["things that you wear on your feet to walk outside","鞋子"],"mask":["something that covers your face or your nose and mouth","口罩；面具"],"sock":["","襪子"],"jeans":["strong blue pants","牛仔褲"]});

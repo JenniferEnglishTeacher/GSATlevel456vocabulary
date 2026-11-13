@@ -514,76 +514,7 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: Where are you going this Sunday? — A: I'm going to the __________. I want to swim in the sea.【海灘】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "east"
-     },
-     {
-      "letter": "B",
-      "text": "beach"
-     },
-     {
-      "letter": "C",
-      "text": "place"
-     },
-     {
-      "letter": "D",
-      "text": "north"
-     }
-    ],
-    "answer": "B",
-    "vi": 0
-   },
-   {
-    "question": "Q: Where is Tom going? — A: He's going to the swimming __________. He has a swimming class.【游泳池】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "department store"
-     },
-     {
-      "letter": "B",
-      "text": "left"
-     },
-     {
-      "letter": "C",
-      "text": "hospital"
-     },
-     {
-      "letter": "D",
-      "text": "pool"
-     }
-    ],
-    "answer": "D",
-    "vi": 1
-   },
-   {
-    "question": "Q: Where are Amy and Lisa going? — A: They're going to the __________. They want to fly kites.【公園】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "office"
-     },
-     {
-      "letter": "B",
-      "text": "shop"
-     },
-     {
-      "letter": "C",
-      "text": "park"
-     },
-     {
-      "letter": "D",
-      "text": "pool"
-     }
-    ],
-    "answer": "C",
-    "vi": 2
-   },
-   {
-    "question": "Q: Where is your class going tomorrow? — A: We're going to the __________ to see lions and monkeys.【動物園】",
+    "question": "We played in the sand and swam in the sea at the __________ all afternoon.",
     "options": [
      {
       "letter": "A",
@@ -591,30 +522,99 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "city"
+      "text": "museum"
      },
      {
       "letter": "C",
-      "text": "hospital"
+      "text": "theater"
      },
      {
       "letter": "D",
-      "text": "east"
+      "text": "beach"
      }
     ],
-    "answer": "A",
-    "vi": 3
+    "answer": "D",
+    "vi": 0
    },
    {
-    "question": "Q: Where is Ben going? — A: He's going to the __________ with his dad. They want to see old things.【博物館】",
+    "question": "The hotel has a swimming __________ on the top floor. We swam there every morning.",
     "options": [
      {
       "letter": "A",
-      "text": "store"
+      "text": "park"
      },
      {
       "letter": "B",
-      "text": "office"
+      "text": "zoo"
+     },
+     {
+      "letter": "C",
+      "text": "pool"
+     },
+     {
+      "letter": "D",
+      "text": "bank"
+     }
+    ],
+    "answer": "C",
+    "vi": 1
+   },
+   {
+    "question": "We walk our dog in the __________ every evening. There are many trees and a lot of grass there.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "park"
+     },
+     {
+      "letter": "B",
+      "text": "bank"
+     },
+     {
+      "letter": "C",
+      "text": "theater"
+     },
+     {
+      "letter": "D",
+      "text": "museum"
+     }
+    ],
+    "answer": "A",
+    "vi": 2
+   },
+   {
+    "question": "We saw lions, elephants, and pandas at the __________ yesterday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "museum"
+     },
+     {
+      "letter": "B",
+      "text": "zoo"
+     },
+     {
+      "letter": "C",
+      "text": "theater"
+     },
+     {
+      "letter": "D",
+      "text": "bank"
+     }
+    ],
+    "answer": "B",
+    "vi": 3
+   },
+   {
+    "question": "We saw many old paintings and things from long ago at the __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "zoo"
+     },
+     {
+      "letter": "B",
+      "text": "bank"
      },
      {
       "letter": "C",
@@ -622,106 +622,83 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "west"
+      "text": "pool"
      }
     ],
     "answer": "C",
     "vi": 4
    },
    {
-    "question": "Q: Where are you and your sister going tonight? — A: We're going to the __________ to see a movie.【戲院】",
+    "question": "Let's go to the __________ to watch the new movie tonight. I will buy the tickets.",
     "options": [
      {
       "letter": "A",
-      "text": "department store"
-     },
-     {
-      "letter": "B",
-      "text": "museum"
-     },
-     {
-      "letter": "C",
-      "text": "temple"
-     },
-     {
-      "letter": "D",
       "text": "theater"
-     }
-    ],
-    "answer": "D",
-    "vi": 5
-   },
-   {
-    "question": "Q: Where is my pencil case? — A: It's __________, on your desk.【這裡】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "there"
      },
      {
       "letter": "B",
-      "text": "here"
+      "text": "zoo"
      },
      {
       "letter": "C",
-      "text": "once"
+      "text": "bank"
      },
      {
       "letter": "D",
-      "text": "quite"
-     }
-    ],
-    "answer": "B",
-    "vi": 6
-   },
-   {
-    "question": "Q: Where is the bus stop? — A: It's over __________, next to the big tree.【那裡】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "there"
-     },
-     {
-      "letter": "B",
-      "text": "here"
-     },
-     {
-      "letter": "C",
-      "text": "not"
-     },
-     {
-      "letter": "D",
-      "text": "somewhere"
+      "text": "museum"
      }
     ],
     "answer": "A",
-    "vi": 7
+    "vi": 5
    },
    {
-    "question": "Q: Where is Tom's bike? — A: It's in __________ of the school gate.【前面】",
+    "question": "Come __________, please. I want to show you something on my computer.",
     "options": [
      {
       "letter": "A",
-      "text": "middle"
+      "text": "there"
      },
      {
       "letter": "B",
-      "text": "bookstore"
+      "text": "already"
      },
      {
       "letter": "C",
-      "text": "front"
+      "text": "ago"
      },
      {
       "letter": "D",
-      "text": "south"
+      "text": "here"
      }
     ],
-    "answer": "C",
-    "vi": 8
+    "answer": "D",
+    "vi": 6
    },
    {
-    "question": "Q: Where is Amy? — A: She's in the __________ of the classroom. She sits in the last row.【後面】",
+    "question": "Do you see that tall tree over __________? My house is right behind it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "here"
+     },
+     {
+      "letter": "B",
+      "text": "there"
+     },
+     {
+      "letter": "C",
+      "text": "already"
+     },
+     {
+      "letter": "D",
+      "text": "once"
+     }
+    ],
+    "answer": "B",
+    "vi": 7
+   },
+   {
+    "question": "Short students sit in the __________ of the classroom so they can see the blackboard.",
     "options": [
      {
       "letter": "A",
@@ -729,187 +706,141 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "temple"
+      "text": "top"
      },
      {
       "letter": "C",
-      "text": "museum"
+      "text": "front"
      },
      {
       "letter": "D",
-      "text": "factory"
+      "text": "north"
+     }
+    ],
+    "answer": "C",
+    "vi": 8
+   },
+   {
+    "question": "Tall students sit at the __________ of the classroom, behind all the other students.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "back"
+     },
+     {
+      "letter": "B",
+      "text": "front"
+     },
+     {
+      "letter": "C",
+      "text": "top"
+     },
+     {
+      "letter": "D",
+      "text": "east"
      }
     ],
     "answer": "A",
     "vi": 9
    },
    {
-    "question": "Q: Where is the big tree? — A: It's in the __________ of the park.【中間】",
+    "question": "There is a small island in the __________ of the lake. Water is all around it.",
     "options": [
      {
       "letter": "A",
-      "text": "north"
-     },
-     {
-      "letter": "B",
-      "text": "country"
-     },
-     {
-      "letter": "C",
-      "text": "west"
-     },
-     {
-      "letter": "D",
-      "text": "middle"
-     }
-    ],
-    "answer": "D",
-    "vi": 10
-   },
-   {
-    "question": "Q: Where is the cat? — A: It's at the __________ of the stairs.【頂端】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "theater"
-     },
-     {
-      "letter": "B",
       "text": "top"
      },
      {
-      "letter": "C",
-      "text": "country"
-     },
-     {
-      "letter": "D",
-      "text": "church"
-     }
-    ],
-    "answer": "B",
-    "vi": 11
-   },
-   {
-    "question": "Q: Excuse me. Where is the __________? — A: It's between the classroom and the library.【洗手間】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "restroom"
-     },
-     {
       "letter": "B",
-      "text": "south"
-     },
-     {
-      "letter": "C",
-      "text": "church"
-     },
-     {
-      "letter": "D",
-      "text": "office"
-     }
-    ],
-    "answer": "A",
-    "vi": 12
-   },
-   {
-    "question": "Q: Where is the __________? — A: It's across from the park.【銀行】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "shop"
-     },
-     {
-      "letter": "B",
-      "text": "bookstore"
-     },
-     {
-      "letter": "C",
-      "text": "bank"
-     },
-     {
-      "letter": "D",
-      "text": "theater"
-     }
-    ],
-    "answer": "C",
-    "vi": 13
-   },
-   {
-    "question": "Q: Where is the __________? — A: It's next to the bank.【郵局】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "bank"
-     },
-     {
-      "letter": "B",
-      "text": "hotel"
-     },
-     {
-      "letter": "C",
-      "text": "office"
-     },
-     {
-      "letter": "D",
-      "text": "post office"
-     }
-    ],
-    "answer": "D",
-    "vi": 14
-   },
-   {
-    "question": "Q: How do I get to the library? — A: Go straight and turn __________ at the corner.【左邊】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "city"
-     },
-     {
-      "letter": "B",
-      "text": "left"
-     },
-     {
-      "letter": "C",
-      "text": "store"
-     },
-     {
-      "letter": "D",
-      "text": "bookstore"
-     }
-    ],
-    "answer": "B",
-    "vi": 15
-   },
-   {
-    "question": "Q: How do I get to the train station? — A: Go straight for two blocks. It's on your __________.【右邊】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "country"
-     },
-     {
-      "letter": "B",
-      "text": "department store"
-     },
-     {
-      "letter": "C",
       "text": "middle"
      },
      {
+      "letter": "C",
+      "text": "front"
+     },
+     {
       "letter": "D",
-      "text": "right"
+      "text": "left"
      }
     ],
-    "answer": "D",
-    "vi": 16
+    "answer": "B",
+    "vi": 10
    },
    {
-    "question": "Q: Excuse me. How do I get to the __________? — A: Go straight and turn left. It's on your right.【醫院】",
+    "question": "We climbed for five hours and finally stood on the __________ of the mountain.",
     "options": [
      {
       "letter": "A",
-      "text": "north"
+      "text": "front"
+     },
+     {
+      "letter": "B",
+      "text": "back"
+     },
+     {
+      "letter": "C",
+      "text": "left"
+     },
+     {
+      "letter": "D",
+      "text": "top"
+     }
+    ],
+    "answer": "D",
+    "vi": 11
+   },
+   {
+    "question": "Excuse me, where is the __________? I need to wash my hands.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "bank"
+     },
+     {
+      "letter": "B",
+      "text": "restroom"
+     },
+     {
+      "letter": "C",
+      "text": "farm"
+     },
+     {
+      "letter": "D",
+      "text": "factory"
+     }
+    ],
+    "answer": "B",
+    "vi": 12
+   },
+   {
+    "question": "I need to go to the __________ to get some money. It closes at three thirty.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "zoo"
+     },
+     {
+      "letter": "B",
+      "text": "farm"
+     },
+     {
+      "letter": "C",
+      "text": "temple"
+     },
+     {
+      "letter": "D",
+      "text": "bank"
+     }
+    ],
+    "answer": "D",
+    "vi": 13
+   },
+   {
+    "question": "I am going to the __________ to mail a letter and buy some stamps.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "department store"
      },
      {
       "letter": "B",
@@ -917,41 +848,110 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "zoo"
+      "text": "post office"
      },
      {
       "letter": "D",
-      "text": "post office"
+      "text": "bakery"
+     }
+    ],
+    "answer": "C",
+    "vi": 14
+   },
+   {
+    "question": "In Taiwan, the driver sits on the __________ side of the car. In Japan, the driver sits on the right.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "left"
+     },
+     {
+      "letter": "B",
+      "text": "right"
+     },
+     {
+      "letter": "C",
+      "text": "north"
+     },
+     {
+      "letter": "D",
+      "text": "top"
+     }
+    ],
+    "answer": "A",
+    "vi": 15
+   },
+   {
+    "question": "Most people write with their __________ hand, but my brother uses his left.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "left"
+     },
+     {
+      "letter": "B",
+      "text": "front"
+     },
+     {
+      "letter": "C",
+      "text": "right"
+     },
+     {
+      "letter": "D",
+      "text": "back"
+     }
+    ],
+    "answer": "C",
+    "vi": 16
+   },
+   {
+    "question": "Ben broke his leg, so he had to stay in the __________ for a week. The doctors and nurses were kind.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hotel"
+     },
+     {
+      "letter": "B",
+      "text": "hospital"
+     },
+     {
+      "letter": "C",
+      "text": "bank"
+     },
+     {
+      "letter": "D",
+      "text": "bakery"
      }
     ],
     "answer": "B",
     "vi": 17
    },
    {
-    "question": "Q: How do we get to the Sun __________? — A: Turn right at the bank. It's next to the park.【旅館】",
+    "question": "We stayed at a nice __________ near the beach during our trip. Our room had a big bed.",
     "options": [
      {
       "letter": "A",
-      "text": "zoo"
+      "text": "bank"
      },
      {
       "letter": "B",
-      "text": "north"
+      "text": "bakery"
      },
      {
       "letter": "C",
-      "text": "hotel"
+      "text": "factory"
      },
      {
       "letter": "D",
-      "text": "farm"
+      "text": "hotel"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 18
    },
    {
-    "question": "Q: How does Ben get to the __________? — A: He walks along Main Street and turns left.【書店】",
+    "question": "I bought two novels and a dictionary at the __________ near my school.",
     "options": [
      {
       "letter": "A",
@@ -959,164 +959,95 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "top"
+      "text": "bakery"
      },
      {
       "letter": "C",
-      "text": "temple"
+      "text": "bank"
      },
      {
       "letter": "D",
-      "text": "farm"
+      "text": "hospital"
      }
     ],
     "answer": "A",
     "vi": 19
    },
    {
-    "question": "Q: How do I get to the __________? — A: Take the MRT. It's across from the station.【百貨公司】",
+    "question": "Mom bought a dress on the third floor and shoes on the fifth floor of the __________.",
     "options": [
      {
       "letter": "A",
-      "text": "hospital"
-     },
-     {
-      "letter": "B",
-      "text": "department store"
-     },
-     {
-      "letter": "C",
-      "text": "factory"
-     },
-     {
-      "letter": "D",
-      "text": "place"
-     }
-    ],
-    "answer": "B",
-    "vi": 20
-   },
-   {
-    "question": "Q: How does your mom get to the __________? — A: She rides her scooter. It isn't far.【超級市場】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "church"
-     },
-     {
-      "letter": "B",
-      "text": "store"
-     },
-     {
-      "letter": "C",
-      "text": "middle"
-     },
-     {
-      "letter": "D",
-      "text": "supermarket"
-     }
-    ],
-    "answer": "D",
-    "vi": 21
-   },
-   {
-    "question": "Q: What does Mr. Chen do at the __________? — A: He makes bread and cakes.【麵包店】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "bakery"
-     },
-     {
-      "letter": "B",
-      "text": "restroom"
-     },
-     {
-      "letter": "C",
-      "text": "park"
-     },
-     {
-      "letter": "D",
-      "text": "town"
-     }
-    ],
-    "answer": "A",
-    "vi": 22
-   },
-   {
-    "question": "Q: What do people do at the __________? — A: They buy fruit, meat, and vegetables.【市場】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "left"
-     },
-     {
-      "letter": "B",
-      "text": "temple"
-     },
-     {
-      "letter": "C",
-      "text": "market"
-     },
-     {
-      "letter": "D",
-      "text": "store"
-     }
-    ],
-    "answer": "C",
-    "vi": 23
-   },
-   {
-    "question": "Q: What does Amy do at the __________ on the corner? — A: She buys pencils and notebooks there.【商店】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "shop"
-     },
-     {
-      "letter": "B",
       "text": "post office"
      },
      {
+      "letter": "B",
+      "text": "bakery"
+     },
+     {
       "letter": "C",
-      "text": "middle"
+      "text": "farm"
      },
      {
       "letter": "D",
-      "text": "market"
+      "text": "department store"
      }
     ],
-    "answer": "A",
-    "vi": 24
+    "answer": "D",
+    "vi": 20
    },
    {
-    "question": "Q: What do you do at the __________ near your home? — A: I buy milk and bread.【商店】",
+    "question": "We buy milk, eggs, meat, and vegetables at the __________ every week.",
     "options": [
      {
       "letter": "A",
-      "text": "middle"
+      "text": "bookstore"
      },
      {
       "letter": "B",
-      "text": "store"
+      "text": "supermarket"
      },
      {
       "letter": "C",
-      "text": "beach"
+      "text": "bank"
      },
      {
       "letter": "D",
-      "text": "restroom"
+      "text": "bakery"
      }
     ],
     "answer": "B",
-    "vi": 25
+    "vi": 21
    },
    {
-    "question": "Q: What does Lisa do at __________ on Sundays? — A: She sings songs with her family.【教堂】",
+    "question": "The __________ on the corner sells fresh bread and cakes every morning. It smells so good.",
     "options": [
      {
       "letter": "A",
-      "text": "east"
+      "text": "bank"
+     },
+     {
+      "letter": "B",
+      "text": "bookstore"
+     },
+     {
+      "letter": "C",
+      "text": "bakery"
+     },
+     {
+      "letter": "D",
+      "text": "temple"
+     }
+    ],
+    "answer": "C",
+    "vi": 22
+   },
+   {
+    "question": "Mom buys fresh fish and vegetables at the __________ early every morning. Farmers sell their food there.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "market"
      },
      {
       "letter": "B",
@@ -1124,87 +1055,133 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "church"
+      "text": "bakery"
      },
      {
       "letter": "D",
-      "text": "south"
+      "text": "bookstore"
      }
     ],
-    "answer": "C",
-    "vi": 26
+    "answer": "A",
+    "vi": 23
    },
    {
-    "question": "Q: What do people do at the __________? — A: They pray and ask for good luck.【寺廟】",
+    "question": "There is a small flower __________ next to my school. I bought roses for my teacher there.",
     "options": [
      {
       "letter": "A",
-      "text": "west"
+      "text": "bank"
      },
      {
       "letter": "B",
-      "text": "middle"
+      "text": "shop"
      },
      {
       "letter": "C",
-      "text": "museum"
+      "text": "farm"
      },
      {
       "letter": "D",
       "text": "temple"
      }
     ],
-    "answer": "D",
-    "vi": 27
+    "answer": "B",
+    "vi": 24
    },
    {
-    "question": "Q: What does your uncle do at the __________? — A: He makes shoes.【工廠】",
+    "question": "This __________ sells toys and games. Children love to go there after school.",
     "options": [
      {
       "letter": "A",
-      "text": "south"
+      "text": "bank"
      },
      {
       "letter": "B",
-      "text": "front"
+      "text": "farm"
      },
      {
       "letter": "C",
+      "text": "church"
+     },
+     {
+      "letter": "D",
+      "text": "store"
+     }
+    ],
+    "answer": "D",
+    "vi": 25
+   },
+   {
+    "question": "Many people go to the __________ on Sunday mornings to sing and pray to God.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "bank"
+     },
+     {
+      "letter": "B",
       "text": "factory"
      },
      {
+      "letter": "C",
+      "text": "church"
+     },
+     {
       "letter": "D",
-      "text": "top"
+      "text": "zoo"
      }
     ],
     "answer": "C",
-    "vi": 28
+    "vi": 26
    },
    {
-    "question": "Q: What do your parents do in the __________? — A: They work on computers and answer the phone.【辦公室】",
+    "question": "Longshan __________ is very old and famous. People in Taipei go there to pray to the gods.",
     "options": [
      {
       "letter": "A",
-      "text": "west"
+      "text": "temple"
      },
      {
       "letter": "B",
-      "text": "office"
+      "text": "Bank"
      },
      {
       "letter": "C",
-      "text": "place"
+      "text": "Hotel"
      },
      {
       "letter": "D",
-      "text": "shop"
+      "text": "Zoo"
+     }
+    ],
+    "answer": "A",
+    "vi": 27
+   },
+   {
+    "question": "My uncle works in a car __________. He and five hundred other workers make cars there.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "church"
+     },
+     {
+      "letter": "B",
+      "text": "factory"
+     },
+     {
+      "letter": "C",
+      "text": "temple"
+     },
+     {
+      "letter": "D",
+      "text": "bakery"
      }
     ],
     "answer": "B",
-    "vi": 29
+    "vi": 28
    },
    {
-    "question": "Q: What does Grandpa do on the __________? — A: He grows rice and vegetables.【農場】",
+    "question": "My mother works in an __________. She sits at a desk and uses a computer all day.",
     "options": [
      {
       "letter": "A",
@@ -1212,34 +1189,57 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "theater"
+      "text": "zoo"
      },
      {
       "letter": "C",
-      "text": "front"
+      "text": "office"
      },
      {
       "letter": "D",
-      "text": "top"
+      "text": "bakery"
+     }
+    ],
+    "answer": "C",
+    "vi": 29
+   },
+   {
+    "question": "Grandpa grows rice and keeps pigs and chickens on his __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "farm"
+     },
+     {
+      "letter": "B",
+      "text": "bank"
+     },
+     {
+      "letter": "C",
+      "text": "hotel"
+     },
+     {
+      "letter": "D",
+      "text": "shop"
      }
     ],
     "answer": "A",
     "vi": 30
    },
    {
-    "question": "Q: Where do you live? — A: I live in a big __________. It's Taipei.【城市】",
+    "question": "Taipei is a big __________. Millions of people live and work there.",
     "options": [
      {
       "letter": "A",
-      "text": "temple"
+      "text": "farm"
      },
      {
       "letter": "B",
-      "text": "church"
+      "text": "shop"
      },
      {
       "letter": "C",
-      "text": "town"
+      "text": "bank"
      },
      {
       "letter": "D",
@@ -1250,42 +1250,42 @@ window.FLASHCARD_UNITS = {
     "vi": 31
    },
    {
-    "question": "Q: Where does your grandma live? — A: She lives in a small __________ near the sea.【城鎮】",
+    "question": "I live in a small __________. It has only one school and two stores, and it is much smaller than a city.",
     "options": [
      {
       "letter": "A",
-      "text": "zoo"
-     },
-     {
-      "letter": "B",
       "text": "town"
      },
      {
+      "letter": "B",
+      "text": "bank"
+     },
+     {
       "letter": "C",
-      "text": "bookstore"
+      "text": "hotel"
      },
      {
       "letter": "D",
-      "text": "hotel"
+      "text": "pool"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 32
    },
    {
-    "question": "Q: Where do Tom's grandparents live? — A: They live in the __________. There are many farms there.【鄉村】",
+    "question": "I don't like big cities. I want to live in the __________, near farms, rivers, and mountains.",
     "options": [
      {
       "letter": "A",
-      "text": "east"
+      "text": "bank"
      },
      {
       "letter": "B",
-      "text": "town"
+      "text": "theater"
      },
      {
       "letter": "C",
-      "text": "bank"
+      "text": "museum"
      },
      {
       "letter": "D",
@@ -1296,65 +1296,65 @@ window.FLASHCARD_UNITS = {
     "vi": 33
    },
    {
-    "question": "Q: What __________ does Ben want to visit this summer? — A: He wants to visit Hualien.【地方】",
+    "question": "This park is a good __________ for a picnic. It is quiet and has many trees.",
     "options": [
      {
       "letter": "A",
-      "text": "town"
+      "text": "bank"
      },
      {
       "letter": "B",
-      "text": "zoo"
+      "text": "place"
      },
      {
       "letter": "C",
-      "text": "place"
+      "text": "hotel"
      },
      {
       "letter": "D",
       "text": "farm"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 34
    },
    {
-    "question": "Q: Where does Amy live? — A: She lives in Taipei, in the __________ of Taiwan.【北方】",
+    "question": "Taipei is in the __________ of Taiwan, and Kaohsiung is in the south.",
     "options": [
      {
       "letter": "A",
-      "text": "north"
+      "text": "east"
      },
      {
       "letter": "B",
-      "text": "bakery"
+      "text": "west"
      },
      {
       "letter": "C",
-      "text": "zoo"
+      "text": "north"
      },
      {
       "letter": "D",
-      "text": "hotel"
+      "text": "front"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 35
    },
    {
-    "question": "Q: Where do your cousins live? — A: They live in Kaohsiung, in the __________ of Taiwan.【南方】",
+    "question": "Kaohsiung is in the __________ of Taiwan, and Taipei is in the north.",
     "options": [
      {
       "letter": "A",
-      "text": "right"
+      "text": "east"
      },
      {
       "letter": "B",
-      "text": "department store"
+      "text": "west"
      },
      {
       "letter": "C",
-      "text": "north"
+      "text": "top"
      },
      {
       "letter": "D",
@@ -1365,11 +1365,11 @@ window.FLASHCARD_UNITS = {
     "vi": 36
    },
    {
-    "question": "Q: Where does the sun come up? — A: It comes up in the __________.【東方】",
+    "question": "The sun comes up in the __________ every morning and goes down in the west.",
     "options": [
      {
       "letter": "A",
-      "text": "hospital"
+      "text": "north"
      },
      {
       "letter": "B",
@@ -1377,40 +1377,40 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "bookstore"
+      "text": "south"
      },
      {
       "letter": "D",
-      "text": "factory"
+      "text": "middle"
      }
     ],
     "answer": "B",
     "vi": 37
    },
    {
-    "question": "Q: Where does Mr. Lee live? — A: He lives in Changhua, in the __________ of Taiwan.【西方】",
+    "question": "The sun goes down in the __________ every evening. It comes up in the east.",
     "options": [
      {
       "letter": "A",
-      "text": "store"
-     },
-     {
-      "letter": "B",
-      "text": "market"
-     },
-     {
-      "letter": "C",
       "text": "west"
      },
      {
+      "letter": "B",
+      "text": "north"
+     },
+     {
+      "letter": "C",
+      "text": "south"
+     },
+     {
       "letter": "D",
-      "text": "beach"
+      "text": "front"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 38
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"back":["the part of your body opposite your chest and stomach","背"],"once":["one time","一次"],"beach":["a place with sand next to the sea","海灘"],"pool":["a place full of water for swimming","游泳池"],"park":["a place with grass and trees where people walk and play","公園"],"zoo":["a place where people can see many kinds of animals","動物園"],"museum":["a building where people look at old or interesting things","博物館"],"theater":["a building where people watch movies or plays","戲院"],"here":["in this place","這裡"],"there":["in that place","那裡"],"front":["the part of something that faces forward","前面"],"middle":["the center of something","中間"],"top":["the highest part of something","頂端"],"restroom":["a room with toilets in a public place","洗手間"],"bank":["a place where people keep their money","銀行"],"left":["the side of your body where your heart is","左邊"],"right":["the side opposite to left","右邊"],"hospital":["a place where doctors and nurses take care of sick people","醫院"],"hotel":["a building where people pay to sleep when they travel","旅館"],"bookstore":["a shop that sells books","書店"],"supermarket":["a big store that sells food and things for the home","超級市場"],"bakery":["a shop that makes and sells bread and cakes","麵包店"],"market":["a place where people buy and sell food and other things","市場"],"shop":["a small place where people buy things","商店"],"store":["a place where people buy things","商店"],"church":["a building where some people go to pray to God","教堂"],"temple":["a building where people go to pray to gods","寺廟"],"factory":["a building where people make things with machines","工廠"],"office":["a room or building where people work at desks","辦公室"],"farm":["a place where people grow food and keep animals","農場"],"city":["a very big town where many people live","城市"],"town":["a place with houses and shops, smaller than a city","城鎮"],"country":["land outside cities, with farms and fields","鄉村"],"place":["a point or an area, like a town, a building, or a room","地方"],"north":["the direction at the top of a map","北方"],"south":["the direction at the bottom of a map","南方"],"east":["the direction where the sun comes up","東方"],"west":["the direction where the sun goes down","西方"],"somewhere":["in a place, but we do not know or say where","某處"],"quite":["more than a little, but not very","相當"],"not":["a word that gives the opposite meaning","不（否定）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"zoo":["a place where people can see many kinds of animals","動物園"],"museum":["a building where people look at old or interesting things","博物館"],"theater":["a building where people watch movies or plays","戲院"],"beach":["a place with sand next to the sea","海灘"],"park":["a place with grass and trees where people walk and play","公園"],"pool":["a place full of water for swimming","游泳池"],"bank":["a place where people keep their money","銀行"],"there":["in that place","那裡"],"already":["before now; earlier than you thought","已經"],"ago":["before now; in the past","……以前"],"here":["in this place","這裡"],"once":["one time","一次"],"back":["the part of your body opposite your chest and stomach","背"],"top":["the highest part of something","頂端"],"front":["the part of something that faces forward","前面"],"north":["the direction at the top of a map","北方"],"east":["the direction where the sun comes up","東方"],"middle":["the center of something","中間"],"left":["the side of your body where your heart is","左邊"],"restroom":["a room with toilets in a public place","洗手間"],"farm":["a place where people grow food and keep animals","農場"],"factory":["a building where people make things with machines","工廠"],"temple":["a building where people go to pray to gods","寺廟"],"hospital":["a place where doctors and nurses take care of sick people","醫院"],"bakery":["a shop that makes and sells bread and cakes","麵包店"],"right":["the side opposite to left","右邊"],"hotel":["a building where people pay to sleep when they travel","旅館"],"bookstore":["a shop that sells books","書店"],"supermarket":["a big store that sells food and things for the home","超級市場"],"market":["a place where people buy and sell food and other things","市場"],"shop":["a small place where people buy things","商店"],"church":["a building where some people go to pray to God","教堂"],"store":["a place where people buy things","商店"],"office":["a room or building where people work at desks","辦公室"],"city":["a very big town where many people live","城市"],"town":["a place with houses and shops, smaller than a city","城鎮"],"country":["land outside cities, with farms and fields","鄉村"],"place":["a point or an area, like a town, a building, or a room","地方"],"west":["the direction where the sun goes down","西方"],"south":["the direction at the bottom of a map","南方"]});

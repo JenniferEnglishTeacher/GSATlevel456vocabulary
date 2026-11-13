@@ -90,95 +90,95 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: What do you use to eat noodles? — A: I use ______. They are easy for me.【筷子】",
+    "q": "People in Taiwan and Japan eat rice and noodles with ______. You hold these two thin sticks in one hand.",
     "options": [
       "chopsticks",
-      "glass",
+      "spoons",
       "forks",
-      "cup"
+      "lids"
     ],
     "answer": 0,
     "cn": "你用什麼吃麵？ — 我用筷子，筷子對我來說很容易。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: What does your little brother use to eat soup? — A: He uses a ______.【湯匙】",
+    "q": "You need a ______ to eat soup. You can't eat it with a fork or chopsticks.",
     "options": [
-      "plate",
+      "knife",
       "spoon",
-      "lid",
-      "dish"
+      "plate",
+      "lid"
     ],
     "answer": 1,
     "cn": "你弟弟用什麼喝湯？ — 他用湯匙。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: Do your American friends use chopsticks? — A: No, they don't. They use ______.【叉子】",
+    "q": "People in America usually eat with knives and ______. They don't use chopsticks very often.",
     "options": [
-      "chopsticks",
-      "glass",
-      "bowl",
-      "forks"
+      "bowls",
+      "cups",
+      "forks",
+      "lids"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "你的美國朋友用筷子嗎？ — 不，他們不用，他們用叉子。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: Does your dad use chopsticks to eat steak? — A: No, he doesn't. He uses a ______ and a fork.【刀子】",
+    "q": "Be careful with that ______! It is very sharp, and you may cut your finger.",
     "options": [
+      "spoon",
       "bowl",
-      "plate",
-      "knife",
-      "cup"
+      "cup",
+      "knife"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "你爸爸用筷子吃牛排嗎？ — 不，他不用，他用刀子和叉子。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: What does your mom use to drink coffee? — A: She uses a big ______.【茶杯；杯子】",
+    "q": "Would you like a ______ of hot tea? I can make one for you right now.",
     "options": [
+      "plate",
+      "fork",
       "cup",
-      "spoon",
-      "lid",
-      "bowl"
+      "knife"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你媽媽用什麼喝咖啡？ — 她用一個大杯子。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: I'm thirsty. Can I have a ______ of water, please? — A: Sure. Here you are.【玻璃杯】",
+    "q": "I drink a ______ of cold milk every morning. Be careful not to drop it, or it will break.",
     "options": [
-      "forks",
       "glass",
-      "chopsticks",
-      "knife"
+      "fork",
+      "knife",
+      "lid"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "我口渴了，可以給我一杯水嗎？ — 當然，給你。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: Mom, can I have a ______ of rice, please? — A: Sure. Here you are. It's hot!【碗】",
+    "q": "I ate a big ______ of beef noodles for lunch. I drank all the soup in it, too.",
     "options": [
-      "plate",
-      "knife",
+      "fork",
       "bowl",
+      "knife",
       "lid"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "媽，可以給我一碗飯嗎？ — 當然，給你，很燙喔！",
     "vocabIndex": 6
   },
   {
-    "q": "Q: Can I have a ______, please? I want some cake. — A: Sure. Here's a clean one.【盤子】",
+    "q": "The waiter put a steak on a big white ______ and brought it to our table.",
     "options": [
-      "dish",
-      "knife",
       "spoon",
+      "fork",
+      "cup",
       "plate"
     ],
     "answer": 3,
@@ -186,26 +186,26 @@ const MCQS = [
     "vocabIndex": 7
   },
   {
-    "q": "Q: Can I have this chicken ______, please? — A: Sure. Do you want rice with it?【菜餚；盤子】",
+    "q": "Mapo tofu is my favorite ______ at this restaurant. The cook makes it very hot, and it is great with rice.",
     "options": [
-      "lid",
-      "dish",
       "spoon",
-      "bowl"
+      "dish",
+      "cup",
+      "lid"
     ],
     "answer": 1,
     "cn": "我可以點這道雞肉料理嗎？ — 好的，您要配飯嗎？",
     "vocabIndex": 8
   },
   {
-    "q": "Q: Can I have a ______ for my cup, please? The tea is hot. — A: Of course. Put it on, and your tea stays hot.【蓋子】",
+    "q": "Put the ______ on the pot, and the water will boil faster. Take it off when the soup is ready.",
     "options": [
-      "lid",
-      "cup",
+      "fork",
       "spoon",
-      "bowl"
+      "knife",
+      "lid"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "可以給我一個杯蓋嗎？茶很燙。 — 當然可以，蓋上去，你的茶就會保溫。",
     "vocabIndex": 9
   }
@@ -217,7 +217,7 @@ const LOOKUP = {
     "en_def": "two thin sticks used for eating",
     "cn_def": "筷子"
   },
-  "spoon": {
+  "spoons": {
     "pos": "n.",
     "en_def": "a thing with a small round end, used for eating soup",
     "cn_def": "湯匙"
@@ -227,40 +227,65 @@ const LOOKUP = {
     "en_def": "a thing with three or four points, used for picking up food",
     "cn_def": "叉子"
   },
+  "lids": {
+    "pos": "n.",
+    "en_def": "a cover for a cup, pot, or box",
+    "cn_def": "蓋子"
+  },
   "knife": {
     "pos": "n.",
     "en_def": "a sharp thing used for cutting",
     "cn_def": "刀子"
   },
-  "cup": {
+  "spoon": {
     "pos": "n.",
-    "en_def": "a small container with a handle, used for drinking",
-    "cn_def": "茶杯；杯子"
-  },
-  "glass": {
-    "pos": "n.",
-    "en_def": "a container without a handle, used for drinking water or juice",
-    "cn_def": "玻璃杯"
-  },
-  "bowl": {
-    "pos": "n.",
-    "en_def": "a deep round dish for soup or rice",
-    "cn_def": "碗"
+    "en_def": "a thing with a small round end, used for eating soup",
+    "cn_def": "湯匙"
   },
   "plate": {
     "pos": "n.",
     "en_def": "a flat round dish that you put food on",
     "cn_def": "盤子"
   },
-  "dish": {
-    "pos": "n.",
-    "en_def": "a plate or bowl; food cooked in one way",
-    "cn_def": "菜餚；盤子"
-  },
   "lid": {
     "pos": "n.",
     "en_def": "a cover for a cup, pot, or box",
     "cn_def": "蓋子"
+  },
+  "bowls": {
+    "pos": "n.",
+    "en_def": "a deep round dish for soup or rice",
+    "cn_def": "碗"
+  },
+  "cups": {
+    "pos": "n.",
+    "en_def": "a small container with a handle, used for drinking",
+    "cn_def": "茶杯；杯子"
+  },
+  "bowl": {
+    "pos": "n.",
+    "en_def": "a deep round dish for soup or rice",
+    "cn_def": "碗"
+  },
+  "cup": {
+    "pos": "n.",
+    "en_def": "a small container with a handle, used for drinking",
+    "cn_def": "茶杯；杯子"
+  },
+  "fork": {
+    "pos": "n.",
+    "en_def": "a thing with three or four points, used for picking up food",
+    "cn_def": "叉子"
+  },
+  "glass": {
+    "pos": "n.",
+    "en_def": "a container without a handle, used for drinking water or juice",
+    "cn_def": "玻璃杯"
+  },
+  "dish": {
+    "pos": "n.",
+    "en_def": "a plate or bowl; food cooked in one way",
+    "cn_def": "菜餚；盤子"
   }
 };
 
