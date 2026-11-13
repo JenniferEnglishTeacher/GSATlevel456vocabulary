@@ -5,7 +5,7 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113m"
+V = "20261113n"
 d = json.load(open(DATA, encoding="utf8"))
 J = json.load(open(os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k.json"), encoding="utf8"))  # 國中小基礎2000字 groups
 EXTRA = os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k_extra.json")  # groups converted by tools/convert_g.py
@@ -264,6 +264,15 @@ for lv, zid in (("basic", "lb"), ("advanced", "la")):
         lab_zones[lv] = emit_zone(zid, f"LiveABC Level 3–5 {lv.title()}", f"LiveABC 3–5 {lv.title()}", "Unit", {int(k): v for k, v in LAB[lv].items()},
                                   lambda g, lv=lv: f"liveabc-{lv}-u{g}", f"LiveABC Level 3–5 {lv.title()} 單字練習", f"{zid.upper()}_DASHBOARD_UNITS")
 
+# LiveABC Level 2–4 (zones "kb" Basic, "ka" Advanced): same pipeline as Level 3–5 (liveabc_convert.py --book=2-4)
+LAB24_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "lab24.json")
+LAB24 = json.load(open(LAB24_FILE, encoding="utf8")) if os.path.exists(LAB24_FILE) else {}
+lab24_zones = {}
+for lv, zid in (("basic", "kb"), ("advanced", "ka")):
+    if lv in LAB24:
+        lab24_zones[lv] = emit_zone(zid, f"LiveABC Level 2–4 {lv.title()}", f"LiveABC 2–4 {lv.title()}", "Unit", {int(k): v for k, v in LAB24[lv].items()},
+                                    lambda g, lv=lv: f"liveabc24-{lv}-u{g}", f"LiveABC Level 2–4 {lv.title()} 單字練習", f"{zid.upper()}_DASHBOARD_UNITS")
+
 # AWL Sublists 1–10 (zones "a1".."a10"): each sublist split into parts of about 20 entries by tools/awl_convert.py
 AWL_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "awl.json")
 AWL = json.load(open(AWL_FILE, encoding="utf8")) if os.path.exists(AWL_FILE) else {}
@@ -342,6 +351,20 @@ for n, (order, part_names) in l3_zones.items():
     }
 if l3_zones:
     books.insert(2 if lab_zones else 1, {"id": "level3", "name": "2001–3000字 LiveABC Level 3", "zones": [f"t{n}" for n in l3_zones]})
+for lv, zid in (("basic", "kb"), ("advanced", "ka")):
+    if lv in lab24_zones:
+        order, unit_names = lab24_zones[lv]
+        zones[zid] = {
+            "book": "liveabc24", "prefix": zid, "tag": f"LiveABC2-4 {lv[0].upper()}", "name": f"LiveABC Level 2–4 {lv.title()}", "short": lv.title(),
+            "num": lv[0].upper(), "levelLabel": f"LiveABC 2-4 {lv.title()}", "cls": "hot" if lv == "basic" else "va", "family": False,
+            "headLabel": "", "tile": f"LiveABC Level 2–4 · {lv.title()}", "unitName": "Unit",
+            "data": f"{zid}-dashboard-data.js", "global": f"{zid.upper()}_DASHBOARD_UNITS", "page": f"{zid}-unit{{u}}.html",
+            "quiz": f"liveabc24-{lv}-u{{u}}.html",
+            "units": order, "names": {str(g): unit_names[g] for g in order}, "blurb": "words & phrases by unit 各單元單字片語",
+        }
+if lab24_zones:
+    at = next((i for i, b in enumerate(books) if b["id"] == "level3"), 0) + 1
+    books.insert(at, {"id": "liveabc24", "name": "LiveABC Level 2–4", "zones": [z for z in ("kb", "ka") if z in zones]})
 if awl_zones:
     books.append({"id": "awl", "name": "AWL 學術單字 Sublist 1–10", "zones": [f"a{n}" for n in awl_zones]})
 zones = {z: zones[z] for b in books for z in b["zones"]}

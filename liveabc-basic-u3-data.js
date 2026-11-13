@@ -1593,7 +1593,7 @@ const LOOKUP = {
       }
     ]
   },
-  "possession": {
+  "possessions": {
     "pos": "n.",
     "en_def": "The state of having, owning, or controlling something.",
     "cn_def": "擁有；所有物",
@@ -1605,7 +1605,7 @@ const LOOKUP = {
       }
     ]
   },
-  "possessions": {
+  "possession": {
     "pos": "n.",
     "en_def": "The state of having, owning, or controlling something.",
     "cn_def": "擁有；所有物",
@@ -1773,7 +1773,7 @@ const LOOKUP = {
       }
     ]
   },
-  "invest in": {
+  "invest your savings wisely in": {
     "pos": "v.",
     "en_def": "To put money into financial schemes, shares, property, or a commercial venture.",
     "cn_def": "投資",
@@ -1785,7 +1785,7 @@ const LOOKUP = {
       }
     ]
   },
-  "invest your savings wisely in": {
+  "invest in": {
     "pos": "v.",
     "en_def": "To put money into financial schemes, shares, property, or a commercial venture.",
     "cn_def": "投資",
@@ -1905,7 +1905,7 @@ const LOOKUP = {
       }
     ]
   },
-  "liquid asset": {
+  "liquid assets": {
     "pos": "phr.",
     "en_def": "Cash or an asset that can be readily converted to cash.",
     "cn_def": "流動資產",
@@ -1917,7 +1917,7 @@ const LOOKUP = {
       }
     ]
   },
-  "liquid assets": {
+  "liquid asset": {
     "pos": "phr.",
     "en_def": "Cash or an asset that can be readily converted to cash.",
     "cn_def": "流動資產",
@@ -2145,7 +2145,7 @@ const LOOKUP = {
       }
     ]
   },
-  "took possession of": {
+  "take possession of": {
     "pos": "phr.",
     "en_def": "To begin to own or control something.",
     "cn_def": "取得...的所有權",
@@ -2157,7 +2157,7 @@ const LOOKUP = {
       }
     ]
   },
-  "take possession of": {
+  "took possession of": {
     "pos": "phr.",
     "en_def": "To begin to own or control something.",
     "cn_def": "取得...的所有權",
@@ -2181,7 +2181,7 @@ const LOOKUP = {
       }
     ]
   },
-  "have something in one's possession": {
+  "has it in his possession": {
     "pos": "phr.",
     "en_def": "To physically hold or control an item.",
     "cn_def": "擁有某物；持有某物",
@@ -2193,7 +2193,7 @@ const LOOKUP = {
       }
     ]
   },
-  "has it in his possession": {
+  "have something in one's possession": {
     "pos": "phr.",
     "en_def": "To physically hold or control an item.",
     "cn_def": "擁有某物；持有某物",

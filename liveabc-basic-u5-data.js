@@ -2339,7 +2339,7 @@ const LOOKUP = {
       }
     ]
   },
-  "oppose": {
+  "opposed": {
     "pos": "v.",
     "en_def": "To disapprove of and attempt to prevent.",
     "cn_def": "反對",
@@ -2351,7 +2351,7 @@ const LOOKUP = {
       }
     ]
   },
-  "opposed": {
+  "oppose": {
     "pos": "v.",
     "en_def": "To disapprove of and attempt to prevent.",
     "cn_def": "反對",
@@ -2375,18 +2375,6 @@ const LOOKUP = {
       }
     ]
   },
-  "endure": {
-    "pos": "v.",
-    "en_def": "To suffer something painful or difficult patiently.",
-    "cn_def": "忍受",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "To suffer something painful or difficult patiently.",
-        "cn_def": "忍受"
-      }
-    ]
-  },
   "endured": {
     "pos": "v.",
     "en_def": "To suffer something painful or difficult patiently.",
@@ -2399,7 +2387,19 @@ const LOOKUP = {
       }
     ]
   },
-  "bear-bore-born": {
+  "endure": {
+    "pos": "v.",
+    "en_def": "To suffer something painful or difficult patiently.",
+    "cn_def": "忍受",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "To suffer something painful or difficult patiently.",
+        "cn_def": "忍受"
+      }
+    ]
+  },
+  "bear": {
     "pos": "v.",
     "en_def": "To endure an ordeal or difficulty.",
     "cn_def": "忍受",
@@ -2411,7 +2411,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bear": {
+  "bear-bore-born": {
     "pos": "v.",
     "en_def": "To endure an ordeal or difficulty.",
     "cn_def": "忍受",
@@ -2543,7 +2543,7 @@ const LOOKUP = {
       }
     ]
   },
-  "conquer one's fear": {
+  "conquer her fear": {
     "pos": "phr.",
     "en_def": "To successfully overcome a feeling of being afraid.",
     "cn_def": "克服恐懼",
@@ -2555,7 +2555,7 @@ const LOOKUP = {
       }
     ]
   },
-  "conquer her fear": {
+  "conquer one's fear": {
     "pos": "phr.",
     "en_def": "To successfully overcome a feeling of being afraid.",
     "cn_def": "克服恐懼",
@@ -2663,7 +2663,7 @@ const LOOKUP = {
       }
     ]
   },
-  "scatter around": {
+  "scattered around": {
     "pos": "phr.",
     "en_def": "To place or leave things in different places.",
     "cn_def": "散落一地",
@@ -2675,7 +2675,7 @@ const LOOKUP = {
       }
     ]
   },
-  "scattered around": {
+  "scatter around": {
     "pos": "phr.",
     "en_def": "To place or leave things in different places.",
     "cn_def": "散落一地",
@@ -2771,18 +2771,6 @@ const LOOKUP = {
       }
     ]
   },
-  "have a crush on somebody": {
-    "pos": "phr.",
-    "en_def": "To have a feeling of romantic love for someone.",
-    "cn_def": "迷戀某人",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "To have a feeling of romantic love for someone.",
-        "cn_def": "迷戀某人"
-      }
-    ]
-  },
   "had had a crush on her": {
     "pos": "phr.",
     "en_def": "To have a feeling of romantic love for someone.",
@@ -2795,7 +2783,19 @@ const LOOKUP = {
       }
     ]
   },
-  "is opposed to": {
+  "have a crush on somebody": {
+    "pos": "phr.",
+    "en_def": "To have a feeling of romantic love for someone.",
+    "cn_def": "迷戀某人",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "To have a feeling of romantic love for someone.",
+        "cn_def": "迷戀某人"
+      }
+    ]
+  },
+  "be opposed to": {
     "pos": "phr.",
     "en_def": "To be against or disagree with something.",
     "cn_def": "反對...",
@@ -2807,7 +2807,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be opposed to": {
+  "is opposed to": {
     "pos": "phr.",
     "en_def": "To be against or disagree with something.",
     "cn_def": "反對...",
@@ -2855,7 +2855,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bear a resemblance to": {
+  "bears a resemblance to": {
     "pos": "phr.",
     "en_def": "To look like or be similar to someone or something.",
     "cn_def": "與...有相似之處",
@@ -2867,7 +2867,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bears a resemblance to": {
+  "bear a resemblance to": {
     "pos": "phr.",
     "en_def": "To look like or be similar to someone or something.",
     "cn_def": "與...有相似之處",
@@ -2927,7 +2927,7 @@ const LOOKUP = {
       }
     ]
   },
-  "is subject to change": {
+  "be subject to change": {
     "pos": "phr.",
     "en_def": "Describing a situation, rule, or price that can be modified without prior notice.",
     "cn_def": "隨時可能更改；可能有變動",
@@ -2939,7 +2939,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be subject to change": {
+  "is subject to change": {
     "pos": "phr.",
     "en_def": "Describing a situation, rule, or price that can be modified without prior notice.",
     "cn_def": "隨時可能更改；可能有變動",

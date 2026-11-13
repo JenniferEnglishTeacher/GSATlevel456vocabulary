@@ -3523,6 +3523,18 @@ const LOOKUP = {
       }
     ]
   },
+  "desires": {
+    "pos": "v.",
+    "en_def": "To want something strongly or wish for something to happen.",
+    "cn_def": "渴望、想要、要求",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "To want something strongly or wish for something to happen.",
+        "cn_def": "渴望、想要、要求"
+      }
+    ]
+  },
   "desire": {
     "pos": "v.",
     "en_def": "To want something strongly or wish for something to happen.",
@@ -3540,18 +3552,6 @@ const LOOKUP = {
       }
     ]
   },
-  "desires": {
-    "pos": "v.",
-    "en_def": "To want something strongly or wish for something to happen.",
-    "cn_def": "渴望、想要、要求",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "To want something strongly or wish for something to happen.",
-        "cn_def": "渴望、想要、要求"
-      }
-    ]
-  },
   "aspire": {
     "pos": "v.",
     "en_def": "To have a strong hope or ambition to achieve something great or become successful.",
@@ -3564,7 +3564,7 @@ const LOOKUP = {
       }
     ]
   },
-  "aspirations": {
+  "aspiration": {
     "pos": "n. [C, usually plural]",
     "en_def": "A strong hope, desire, or ambition to achieve something high or great.",
     "cn_def": "抱負、渴望、志向",
@@ -3576,7 +3576,7 @@ const LOOKUP = {
       }
     ]
   },
-  "aspiration": {
+  "aspirations": {
     "pos": "n. [C, usually plural]",
     "en_def": "A strong hope, desire, or ambition to achieve something high or great.",
     "cn_def": "抱負、渴望、志向",
@@ -3989,7 +3989,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be related to": {
+  "is directly related to": {
     "pos": "v. phr.",
     "en_def": "To have a connection to something else, or to belong to the same family.",
     "cn_def": "與…有關、與…有親戚關係",
@@ -4001,7 +4001,7 @@ const LOOKUP = {
       }
     ]
   },
-  "is directly related to": {
+  "be related to": {
     "pos": "v. phr.",
     "en_def": "To have a connection to something else, or to belong to the same family.",
     "cn_def": "與…有關、與…有親戚關係",
@@ -4037,7 +4037,7 @@ const LOOKUP = {
       }
     ]
   },
-  "has something to do with": {
+  "have something to do with": {
     "pos": "phr.",
     "en_def": "To have a connection, relation, or concern with a particular matter or person.",
     "cn_def": "與…有些關係、與…有關",
@@ -4049,7 +4049,7 @@ const LOOKUP = {
       }
     ]
   },
-  "have something to do with": {
+  "has something to do with": {
     "pos": "phr.",
     "en_def": "To have a connection, relation, or concern with a particular matter or person.",
     "cn_def": "與…有些關係、與…有關",
@@ -4090,18 +4090,6 @@ const LOOKUP = {
       }
     ]
   },
-  "contact lens": {
-    "pos": "n. [C, usually plural]",
-    "en_def": "A thin plastic lens placed directly on the surface of the eye to improve vision.",
-    "cn_def": "隱形眼鏡",
-    "combined": [
-      {
-        "pos": "n. [C, usually plural]",
-        "en_def": "A thin plastic lens placed directly on the surface of the eye to improve vision.",
-        "cn_def": "隱形眼鏡"
-      }
-    ]
-  },
   "contact lenses": {
     "pos": "n. [C, usually plural]",
     "en_def": "A thin plastic lens placed directly on the surface of the eye to improve vision.",
@@ -4114,7 +4102,19 @@ const LOOKUP = {
       }
     ]
   },
-  "compelled": {
+  "contact lens": {
+    "pos": "n. [C, usually plural]",
+    "en_def": "A thin plastic lens placed directly on the surface of the eye to improve vision.",
+    "cn_def": "隱形眼鏡",
+    "combined": [
+      {
+        "pos": "n. [C, usually plural]",
+        "en_def": "A thin plastic lens placed directly on the surface of the eye to improve vision.",
+        "cn_def": "隱形眼鏡"
+      }
+    ]
+  },
+  "compel": {
     "pos": "v.",
     "en_def": "to force or oblige someone to do something.",
     "cn_def": "迫使",
@@ -4126,7 +4126,7 @@ const LOOKUP = {
       }
     ]
   },
-  "compel": {
+  "compelled": {
     "pos": "v.",
     "en_def": "to force or oblige someone to do something.",
     "cn_def": "迫使",
@@ -4472,7 +4472,7 @@ const LOOKUP = {
       }
     ]
   },
-  "persist": {
+  "persisted": {
     "pos": "v.",
     "en_def": "to continue firmly or obstinately in an opinion or a course of action in spite of difficulty, opposition, or failure.",
     "cn_def": "堅持；持續",
@@ -4484,7 +4484,7 @@ const LOOKUP = {
       }
     ]
   },
-  "persisted": {
+  "persist": {
     "pos": "v.",
     "en_def": "to continue firmly or obstinately in an opinion or a course of action in spite of difficulty, opposition, or failure.",
     "cn_def": "堅持；持續",
@@ -5034,6 +5034,18 @@ const LOOKUP = {
       }
     ]
   },
+  "characteristics": {
+    "pos": "n.",
+    "en_def": "a feature or quality belonging typically to a person, place, or thing and serving to identify it.",
+    "cn_def": "特徵",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a feature or quality belonging typically to a person, place, or thing and serving to identify it.",
+        "cn_def": "特徵"
+      }
+    ]
+  },
   "characteristic": {
     "pos": "n.",
     "en_def": "a feature or quality belonging typically to a person, place, or thing and serving to identify it.",
@@ -5048,18 +5060,6 @@ const LOOKUP = {
         "pos": "adj.",
         "en_def": "typical of a particular person, place, or thing.",
         "cn_def": "獨特的"
-      }
-    ]
-  },
-  "characteristics": {
-    "pos": "n.",
-    "en_def": "a feature or quality belonging typically to a person, place, or thing and serving to identify it.",
-    "cn_def": "特徵",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a feature or quality belonging typically to a person, place, or thing and serving to identify it.",
-        "cn_def": "特徵"
       }
     ]
   },
@@ -5335,7 +5335,7 @@ const LOOKUP = {
       }
     ]
   },
-  "chores": {
+  "chore": {
     "pos": "n.",
     "en_def": "a routine task, especially a household one.",
     "cn_def": "雜務",
@@ -5347,7 +5347,7 @@ const LOOKUP = {
       }
     ]
   },
-  "chore": {
+  "chores": {
     "pos": "n.",
     "en_def": "a routine task, especially a household one.",
     "cn_def": "雜務",

@@ -1919,7 +1919,7 @@ const LOOKUP = {
       }
     ]
   },
-  "acquaint all new students with": {
+  "acquaint somebody with something": {
     "pos": "phr.",
     "en_def": "to introduce someone to a specific subject or situation.",
     "cn_def": "使某人熟悉某事",
@@ -1931,7 +1931,7 @@ const LOOKUP = {
       }
     ]
   },
-  "acquaint somebody with something": {
+  "acquaint all new students with": {
     "pos": "phr.",
     "en_def": "to introduce someone to a specific subject or situation.",
     "cn_def": "使某人熟悉某事",

@@ -1280,7 +1280,7 @@ const LOOKUP = {
       }
     ]
   },
-  "contributed": {
+  "contribute": {
     "pos": "v.",
     "en_def": "to give something in order to help achieve or provide something.",
     "cn_def": "貢獻；提供",
@@ -1292,7 +1292,7 @@ const LOOKUP = {
       }
     ]
   },
-  "contribute": {
+  "contributed": {
     "pos": "v.",
     "en_def": "to give something in order to help achieve or provide something.",
     "cn_def": "貢獻；提供",

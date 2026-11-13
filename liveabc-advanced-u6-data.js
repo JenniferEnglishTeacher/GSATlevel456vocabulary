@@ -808,18 +808,6 @@ const LOOKUP = {
       }
     ]
   },
-  "employed": {
-    "pos": "v.",
-    "en_def": "to make use of; to give work to someone.",
-    "cn_def": "運用；僱用",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to make use of; to give work to someone.",
-        "cn_def": "運用；僱用"
-      }
-    ]
-  },
   "employ": {
     "pos": "v.",
     "en_def": "to make use of; to give work to someone.",
@@ -832,7 +820,19 @@ const LOOKUP = {
       }
     ]
   },
-  "apply": {
+  "employed": {
+    "pos": "v.",
+    "en_def": "to make use of; to give work to someone.",
+    "cn_def": "運用；僱用",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to make use of; to give work to someone.",
+        "cn_def": "運用；僱用"
+      }
+    ]
+  },
+  "applied": {
     "pos": "v.",
     "en_def": "to bring into operation or use; to put a substance on a surface.",
     "cn_def": "應用；塗抹",
@@ -844,7 +844,7 @@ const LOOKUP = {
       }
     ]
   },
-  "applied": {
+  "apply": {
     "pos": "v.",
     "en_def": "to bring into operation or use; to put a substance on a surface.",
     "cn_def": "應用；塗抹",

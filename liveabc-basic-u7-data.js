@@ -2409,7 +2409,7 @@ const LOOKUP = {
       }
     ]
   },
-  "vehicles": {
+  "vehicle": {
     "pos": "n.",
     "en_def": "a thing used for transporting people or goods, especially on land.",
     "cn_def": "車輛；手段（媒介）",
@@ -2421,7 +2421,7 @@ const LOOKUP = {
       }
     ]
   },
-  "vehicle": {
+  "vehicles": {
     "pos": "n.",
     "en_def": "a thing used for transporting people or goods, especially on land.",
     "cn_def": "車輛；手段（媒介）",
@@ -2457,18 +2457,6 @@ const LOOKUP = {
       }
     ]
   },
-  "a vehicle for": {
-    "pos": "phr.",
-    "en_def": "a thing used to express, embody, or fulfill something.",
-    "cn_def": "達成...的手段/媒介",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "a thing used to express, embody, or fulfill something.",
-        "cn_def": "達成...的手段/媒介"
-      }
-    ]
-  },
   "vehicle for": {
     "pos": "phr.",
     "en_def": "a thing used to express, embody, or fulfill something.",
@@ -2481,7 +2469,19 @@ const LOOKUP = {
       }
     ]
   },
-  "depart from": {
+  "a vehicle for": {
+    "pos": "phr.",
+    "en_def": "a thing used to express, embody, or fulfill something.",
+    "cn_def": "達成...的手段/媒介",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "a thing used to express, embody, or fulfill something.",
+        "cn_def": "達成...的手段/媒介"
+      }
+    ]
+  },
+  "departed from": {
     "pos": "phr.",
     "en_def": "to leave a specific place.",
     "cn_def": "從...出發/離開",
@@ -2493,7 +2493,7 @@ const LOOKUP = {
       }
     ]
   },
-  "departed from": {
+  "depart from": {
     "pos": "phr.",
     "en_def": "to leave a specific place.",
     "cn_def": "從...出發/離開",
@@ -2846,7 +2846,7 @@ const LOOKUP = {
       }
     ]
   },
-  "reach a major milestone": {
+  "reach a milestone": {
     "pos": "phr.",
     "en_def": "to achieve a significant stage in a process.",
     "cn_def": "達到里程碑",
@@ -2858,7 +2858,7 @@ const LOOKUP = {
       }
     ]
   },
-  "reach a milestone": {
+  "reach a major milestone": {
     "pos": "phr.",
     "en_def": "to achieve a significant stage in a process.",
     "cn_def": "達到里程碑",
@@ -3012,7 +3012,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sightseeing": {
+  "sight-seeing / sightseeing": {
     "pos": "n.",
     "en_def": "The activity of visiting famous or interesting places, especially as a tourist.",
     "cn_def": "觀光、遊覽",
@@ -3024,7 +3024,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sight-seeing / sightseeing": {
+  "sightseeing": {
     "pos": "n.",
     "en_def": "The activity of visiting famous or interesting places, especially as a tourist.",
     "cn_def": "觀光、遊覽",
@@ -3120,7 +3120,7 @@ const LOOKUP = {
       }
     ]
   },
-  "commuter": {
+  "commuters": {
     "pos": "n.",
     "en_def": "a person who travels some distance to work on a regular basis.",
     "cn_def": "通勤者",
@@ -3132,7 +3132,7 @@ const LOOKUP = {
       }
     ]
   },
-  "commuters": {
+  "commuter": {
     "pos": "n.",
     "en_def": "a person who travels some distance to work on a regular basis.",
     "cn_def": "通勤者",
@@ -3168,7 +3168,7 @@ const LOOKUP = {
       }
     ]
   },
-  "fulfill": {
+  "fulfilled": {
     "pos": "v.",
     "en_def": "to bring to completion or reality; achieve or realize.",
     "cn_def": "實現；履行",
@@ -3180,7 +3180,7 @@ const LOOKUP = {
       }
     ]
   },
-  "fulfilled": {
+  "fulfill": {
     "pos": "v.",
     "en_def": "to bring to completion or reality; achieve or realize.",
     "cn_def": "實現；履行",
@@ -3552,6 +3552,18 @@ const LOOKUP = {
       }
     ]
   },
+  "abandon": {
+    "pos": "v.",
+    "en_def": "to cease to support or look after; desert.",
+    "cn_def": "放棄；拋棄",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to cease to support or look after; desert.",
+        "cn_def": "放棄；拋棄"
+      }
+    ]
+  },
   "abandoned": {
     "pos": "v.",
     "en_def": "to cease to support or look after; desert.",
@@ -3569,15 +3581,20 @@ const LOOKUP = {
       }
     ]
   },
-  "abandon": {
+  "desert": {
     "pos": "v.",
-    "en_def": "to cease to support or look after; desert.",
-    "cn_def": "放棄；拋棄",
+    "en_def": "to leave a person, place, or organization in a way that is considered disloyal.",
+    "cn_def": "離棄；擅離職守",
     "combined": [
       {
         "pos": "v.",
-        "en_def": "to cease to support or look after; desert.",
-        "cn_def": "放棄；拋棄"
+        "en_def": "to leave a person, place, or organization in a way that is considered disloyal.",
+        "cn_def": "離棄；擅離職守"
+      },
+      {
+        "pos": "n.",
+        "en_def": "A large, dry area of land with very little water or plants, usually covered with sand.",
+        "cn_def": "沙漠"
       }
     ]
   },
@@ -3595,23 +3612,6 @@ const LOOKUP = {
         "pos": "adj.",
         "en_def": "Empty of people; with no one there.",
         "cn_def": "荒涼的、空無一人的、被遺棄的"
-      }
-    ]
-  },
-  "desert": {
-    "pos": "v.",
-    "en_def": "to leave a person, place, or organization in a way that is considered disloyal.",
-    "cn_def": "離棄；擅離職守",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to leave a person, place, or organization in a way that is considered disloyal.",
-        "cn_def": "離棄；擅離職守"
-      },
-      {
-        "pos": "n.",
-        "en_def": "A large, dry area of land with very little water or plants, usually covered with sand.",
-        "cn_def": "沙漠"
       }
     ]
   },
@@ -3848,7 +3848,7 @@ const LOOKUP = {
       }
     ]
   },
-  "is always blessed with": {
+  "be blessed with": {
     "pos": "phr.",
     "en_def": "to have a lot of a good or desirable thing.",
     "cn_def": "有幸擁有...",
@@ -3860,7 +3860,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be blessed with": {
+  "is always blessed with": {
     "pos": "phr.",
     "en_def": "to have a lot of a good or desirable thing.",
     "cn_def": "有幸擁有...",

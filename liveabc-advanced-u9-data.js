@@ -1518,7 +1518,7 @@ const LOOKUP = {
       }
     ]
   },
-  "conservationist": {
+  "conservationists": {
     "pos": "n.",
     "en_def": "a person who works to protect the environment and wildlife",
     "cn_def": "保育人士",
@@ -1530,7 +1530,7 @@ const LOOKUP = {
       }
     ]
   },
-  "conservationists": {
+  "conservationist": {
     "pos": "n.",
     "en_def": "a person who works to protect the environment and wildlife",
     "cn_def": "保育人士",
@@ -1590,18 +1590,6 @@ const LOOKUP = {
       }
     ]
   },
-  "poses a threat to": {
-    "pos": "phr.",
-    "en_def": "to create a dangerous or risky situation for a person or object",
-    "cn_def": "對...造成威脅",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "to create a dangerous or risky situation for a person or object",
-        "cn_def": "對...造成威脅"
-      }
-    ]
-  },
   "pose a threat to": {
     "pos": "phr.",
     "en_def": "to create a dangerous or risky situation for a person or object",
@@ -1614,7 +1602,19 @@ const LOOKUP = {
       }
     ]
   },
-  "persist": {
+  "poses a threat to": {
+    "pos": "phr.",
+    "en_def": "to create a dangerous or risky situation for a person or object",
+    "cn_def": "對...造成威脅",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to create a dangerous or risky situation for a person or object",
+        "cn_def": "對...造成威脅"
+      }
+    ]
+  },
+  "persisted": {
     "pos": "v.",
     "en_def": "to continue firmly in a course of action despite difficulty or opposition",
     "cn_def": "堅持；持續存在",
@@ -1626,7 +1626,7 @@ const LOOKUP = {
       }
     ]
   },
-  "persisted": {
+  "persist": {
     "pos": "v.",
     "en_def": "to continue firmly in a course of action despite difficulty or opposition",
     "cn_def": "堅持；持續存在",
@@ -1715,7 +1715,7 @@ const LOOKUP = {
       }
     ]
   },
-  "neglected to": {
+  "neglect to v": {
     "pos": "phr.",
     "en_def": "to fail to perform a necessary action due to carelessness",
     "cn_def": "忘記/疏忽去做某事",
@@ -1727,7 +1727,7 @@ const LOOKUP = {
       }
     ]
   },
-  "neglect to v": {
+  "neglected to": {
     "pos": "phr.",
     "en_def": "to fail to perform a necessary action due to carelessness",
     "cn_def": "忘記/疏忽去做某事",
@@ -1751,7 +1751,7 @@ const LOOKUP = {
       }
     ]
   },
-  "restrictions": {
+  "restriction": {
     "pos": "n.",
     "en_def": "a rule or regulation that limits what you can do or what is allowed",
     "cn_def": "限制",
@@ -1763,7 +1763,7 @@ const LOOKUP = {
       }
     ]
   },
-  "restriction": {
+  "restrictions": {
     "pos": "n.",
     "en_def": "a rule or regulation that limits what you can do or what is allowed",
     "cn_def": "限制",
@@ -1876,18 +1876,6 @@ const LOOKUP = {
       }
     ]
   },
-  "campaigned": {
-    "pos": "v.",
-    "en_def": "to organize a series of operations or events to achieve a specific social goal",
-    "cn_def": "辦活動；發起運動",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to organize a series of operations or events to achieve a specific social goal",
-        "cn_def": "辦活動；發起運動"
-      }
-    ]
-  },
   "campaign": {
     "pos": "v.",
     "en_def": "to organize a series of operations or events to achieve a specific social goal",
@@ -1905,6 +1893,18 @@ const LOOKUP = {
       }
     ]
   },
+  "campaigned": {
+    "pos": "v.",
+    "en_def": "to organize a series of operations or events to achieve a specific social goal",
+    "cn_def": "辦活動；發起運動",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to organize a series of operations or events to achieve a specific social goal",
+        "cn_def": "辦活動；發起運動"
+      }
+    ]
+  },
   "ad campaign": {
     "pos": "n.",
     "en_def": "a planned series of advertisements that have a single message",
@@ -1917,7 +1917,7 @@ const LOOKUP = {
       }
     ]
   },
-  "promotional campaign": {
+  "promotional campaigns": {
     "pos": "n.",
     "en_def": "a series of activities to increase sales of a product or service",
     "cn_def": "促銷活動",
@@ -1929,7 +1929,7 @@ const LOOKUP = {
       }
     ]
   },
-  "promotional campaigns": {
+  "promotional campaign": {
     "pos": "n.",
     "en_def": "a series of activities to increase sales of a product or service",
     "cn_def": "促銷活動",
@@ -2095,7 +2095,7 @@ const LOOKUP = {
       }
     ]
   },
-  "keep something to a minimum": {
+  "keep your travel expenses to a minimum": {
     "pos": "phr.",
     "en_def": "to limit the amount or size of an object as much as possible",
     "cn_def": "將...控制在最低限度",
@@ -2107,7 +2107,7 @@ const LOOKUP = {
       }
     ]
   },
-  "keep your travel expenses to a minimum": {
+  "keep something to a minimum": {
     "pos": "phr.",
     "en_def": "to limit the amount or size of an object as much as possible",
     "cn_def": "將...控制在最低限度",
@@ -2179,7 +2179,7 @@ const LOOKUP = {
       }
     ]
   },
-  "regulation": {
+  "regulations": {
     "pos": "n.",
     "en_def": "an official rule made by a government or organization to control behavior",
     "cn_def": "規定；法規",
@@ -2191,7 +2191,7 @@ const LOOKUP = {
       }
     ]
   },
-  "regulations": {
+  "regulation": {
     "pos": "n.",
     "en_def": "an official rule made by a government or organization to control behavior",
     "cn_def": "規定；法規",
@@ -2458,7 +2458,7 @@ const LOOKUP = {
       }
     ]
   },
-  "go down the drain": {
+  "down the drain": {
     "pos": "phr.",
     "en_def": "to be completely wasted, destroyed, or lost without any benefit",
     "cn_def": "付諸流水；泡湯",
@@ -2470,7 +2470,7 @@ const LOOKUP = {
       }
     ]
   },
-  "down the drain": {
+  "go down the drain": {
     "pos": "phr.",
     "en_def": "to be completely wasted, destroyed, or lost without any benefit",
     "cn_def": "付諸流水；泡湯",
@@ -2506,7 +2506,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pollutant": {
+  "pollutants": {
     "pos": "n.",
     "en_def": "a substance that pollutes something, especially water or the atmosphere",
     "cn_def": "污染物（可數名詞）",
@@ -2518,7 +2518,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pollutants": {
+  "pollutant": {
     "pos": "n.",
     "en_def": "a substance that pollutes something, especially water or the atmosphere",
     "cn_def": "污染物（可數名詞）",

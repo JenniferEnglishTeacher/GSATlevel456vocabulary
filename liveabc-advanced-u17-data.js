@@ -1293,7 +1293,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be vulnerable to": {
+  "vulnerable to": {
     "pos": "phr.",
     "en_def": "to be in a weak position where you can easily be hurt, attacked, or damaged",
     "cn_def": "易受...傷害的",
@@ -1305,7 +1305,7 @@ const LOOKUP = {
       }
     ]
   },
-  "vulnerable to": {
+  "be vulnerable to": {
     "pos": "phr.",
     "en_def": "to be in a weak position where you can easily be hurt, attacked, or damaged",
     "cn_def": "易受...傷害的",
@@ -1718,7 +1718,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be sensitive to": {
+  "be highly sensitive to": {
     "pos": "phr.",
     "en_def": "to be easily affected or influenced by a specific physical or emotional stimulus",
     "cn_def": "對...敏感的",
@@ -1730,7 +1730,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be highly sensitive to": {
+  "be sensitive to": {
     "pos": "phr.",
     "en_def": "to be easily affected or influenced by a specific physical or emotional stimulus",
     "cn_def": "對...敏感的",

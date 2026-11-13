@@ -2023,7 +2023,7 @@ const LOOKUP = {
       }
     ]
   },
-  "circumstance": {
+  "circumstances": {
     "pos": "n.",
     "en_def": "A fact or condition connected with or relevant to an event or action.",
     "cn_def": "情況；環境",
@@ -2035,7 +2035,7 @@ const LOOKUP = {
       }
     ]
   },
-  "circumstances": {
+  "circumstance": {
     "pos": "n.",
     "en_def": "A fact or condition connected with or relevant to an event or action.",
     "cn_def": "情況；環境",
@@ -2503,7 +2503,7 @@ const LOOKUP = {
       }
     ]
   },
-  "marine mammals": {
+  "marine mammal": {
     "pos": "phr.",
     "en_def": "A mammal that lives in the ocean or depends on the ocean for its food.",
     "cn_def": "海洋哺乳動物",
@@ -2515,7 +2515,7 @@ const LOOKUP = {
       }
     ]
   },
-  "marine mammal": {
+  "marine mammals": {
     "pos": "phr.",
     "en_def": "A mammal that lives in the ocean or depends on the ocean for its food.",
     "cn_def": "海洋哺乳動物",

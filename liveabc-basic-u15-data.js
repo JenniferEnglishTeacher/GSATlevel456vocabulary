@@ -2641,7 +2641,7 @@ const LOOKUP = {
       }
     ]
   },
-  "fall head over heels for": {
+  "fell head over heels for": {
     "pos": "phr.",
     "en_def": "To fall deeply and completely in love with someone.",
     "cn_def": "徹底愛上、為...神魂顛倒",
@@ -2653,7 +2653,7 @@ const LOOKUP = {
       }
     ]
   },
-  "fell head over heels for": {
+  "fall head over heels for": {
     "pos": "phr.",
     "en_def": "To fall deeply and completely in love with someone.",
     "cn_def": "徹底愛上、為...神魂顛倒",
@@ -3133,18 +3133,6 @@ const LOOKUP = {
       }
     ]
   },
-  "tricked": {
-    "pos": "v. / n.",
-    "en_def": "a cunning or skillful act or scheme intended to deceive or outwit someone.",
-    "cn_def": "欺騙；詭計",
-    "combined": [
-      {
-        "pos": "v. / n.",
-        "en_def": "a cunning or skillful act or scheme intended to deceive or outwit someone.",
-        "cn_def": "欺騙；詭計"
-      }
-    ]
-  },
   "trick": {
     "pos": "v. / n.",
     "en_def": "a cunning or skillful act or scheme intended to deceive or outwit someone.",
@@ -3159,6 +3147,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "A clever action used to deceive someone, either as a joke or a scam.",
         "cn_def": "把戲、詭計、惡作劇"
+      }
+    ]
+  },
+  "tricked": {
+    "pos": "v. / n.",
+    "en_def": "a cunning or skillful act or scheme intended to deceive or outwit someone.",
+    "cn_def": "欺騙；詭計",
+    "combined": [
+      {
+        "pos": "v. / n.",
+        "en_def": "a cunning or skillful act or scheme intended to deceive or outwit someone.",
+        "cn_def": "欺騙；詭計"
       }
     ]
   },
@@ -3210,7 +3210,7 @@ const LOOKUP = {
       }
     ]
   },
-  "act naively": {
+  "act so naively": {
     "pos": "phr.",
     "en_def": "to behave in a foolishly simple or gullible way.",
     "cn_def": "表現得天真",
@@ -3222,7 +3222,7 @@ const LOOKUP = {
       }
     ]
   },
-  "act so naively": {
+  "act naively": {
     "pos": "phr.",
     "en_def": "to behave in a foolishly simple or gullible way.",
     "cn_def": "表現得天真",
@@ -3525,7 +3525,7 @@ const LOOKUP = {
       }
     ]
   },
-  "suffered a devastating defeat": {
+  "suffer a defeat": {
     "pos": "phr.",
     "en_def": "to lose in a battle, contest, or election.",
     "cn_def": "遭受失敗",
@@ -3537,7 +3537,7 @@ const LOOKUP = {
       }
     ]
   },
-  "suffer a defeat": {
+  "suffered a devastating defeat": {
     "pos": "phr.",
     "en_def": "to lose in a battle, contest, or election.",
     "cn_def": "遭受失敗",
@@ -3883,7 +3883,7 @@ const LOOKUP = {
       }
     ]
   },
-  "keep her company": {
+  "keep someone company": {
     "pos": "phr.",
     "en_def": "To spend time with someone so that they are not alone.",
     "cn_def": "陪伴某人",
@@ -3895,7 +3895,7 @@ const LOOKUP = {
       }
     ]
   },
-  "keep someone company": {
+  "keep her company": {
     "pos": "phr.",
     "en_def": "To spend time with someone so that they are not alone.",
     "cn_def": "陪伴某人",
@@ -3979,7 +3979,7 @@ const LOOKUP = {
       }
     ]
   },
-  "manage to v": {
+  "managed to finish": {
     "pos": "phr.",
     "en_def": "To succeed in doing something difficult, especially after trying hard.",
     "cn_def": "設法做到...、成功做到...",
@@ -3991,7 +3991,7 @@ const LOOKUP = {
       }
     ]
   },
-  "managed to finish": {
+  "manage to v": {
     "pos": "phr.",
     "en_def": "To succeed in doing something difficult, especially after trying hard.",
     "cn_def": "設法做到...、成功做到...",

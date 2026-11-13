@@ -1813,18 +1813,6 @@ const LOOKUP = {
       }
     ]
   },
-  "captured": {
-    "pos": "v.",
-    "en_def": "to catch a person or animal, or to take distinct control of a place",
-    "cn_def": "捕捉；捕獲；佔領",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to catch a person or animal, or to take distinct control of a place",
-        "cn_def": "捕捉；捕獲；佔領"
-      }
-    ]
-  },
   "capture": {
     "pos": "v.",
     "en_def": "to catch a person or animal, or to take distinct control of a place",
@@ -1837,7 +1825,19 @@ const LOOKUP = {
       }
     ]
   },
-  "captured the children's imagination": {
+  "captured": {
+    "pos": "v.",
+    "en_def": "to catch a person or animal, or to take distinct control of a place",
+    "cn_def": "捕捉；捕獲；佔領",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to catch a person or animal, or to take distinct control of a place",
+        "cn_def": "捕捉；捕獲；佔領"
+      }
+    ]
+  },
+  "capture somebody's imagination": {
     "pos": "phr.",
     "en_def": "to interpret or stimulate someone's creative thoughts strongly",
     "cn_def": "擄獲某人的想像力；吸引住某人",
@@ -1849,7 +1849,7 @@ const LOOKUP = {
       }
     ]
   },
-  "capture somebody's imagination": {
+  "captured the children's imagination": {
     "pos": "phr.",
     "en_def": "to interpret or stimulate someone's creative thoughts strongly",
     "cn_def": "擄獲某人的想像力；吸引住某人",
@@ -1969,7 +1969,7 @@ const LOOKUP = {
       }
     ]
   },
-  "excels in": {
+  "excel in": {
     "pos": "v.",
     "en_def": "to be exceptionally good at or proficient in an activity or subject",
     "cn_def": "擅長；勝過他人",
@@ -1981,7 +1981,7 @@ const LOOKUP = {
       }
     ]
   },
-  "excel in": {
+  "excels in": {
     "pos": "v.",
     "en_def": "to be exceptionally good at or proficient in an activity or subject",
     "cn_def": "擅長；勝過他人",
@@ -2137,7 +2137,7 @@ const LOOKUP = {
       }
     ]
   },
-  "compete with": {
+  "compete with / against": {
     "pos": "phr.",
     "en_def": "to struggle against a specific rival or opponent to achieve a goal",
     "cn_def": "與...競爭",
@@ -2149,7 +2149,7 @@ const LOOKUP = {
       }
     ]
   },
-  "compete with / against": {
+  "compete with": {
     "pos": "phr.",
     "en_def": "to struggle against a specific rival or opponent to achieve a goal",
     "cn_def": "與...競爭",

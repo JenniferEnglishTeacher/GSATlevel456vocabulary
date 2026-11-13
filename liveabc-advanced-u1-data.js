@@ -2017,7 +2017,7 @@ const LOOKUP = {
       }
     ]
   },
-  "in ...order": {
+  "in perfect order": {
     "pos": "phr.",
     "en_def": "the arrangement or disposition of people or things in relation to each other.",
     "cn_def": "以..的順序",
@@ -2029,7 +2029,7 @@ const LOOKUP = {
       }
     ]
   },
-  "in perfect order": {
+  "in ...order": {
     "pos": "phr.",
     "en_def": "the arrangement or disposition of people or things in relation to each other.",
     "cn_def": "以..的順序",
@@ -2202,7 +2202,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be vulnerable to": {
+  "vulnerable to": {
     "pos": "v. phr.",
     "en_def": "Weak and easily hurt, damaged, or attacked physically, emotionally, or systematically.",
     "cn_def": "易受…傷害的、脆弱的、易受攻擊的",
@@ -2214,7 +2214,7 @@ const LOOKUP = {
       }
     ]
   },
-  "vulnerable to": {
+  "be vulnerable to": {
     "pos": "v. phr.",
     "en_def": "Weak and easily hurt, damaged, or attacked physically, emotionally, or systematically.",
     "cn_def": "易受…傷害的、脆弱的、易受攻擊的",

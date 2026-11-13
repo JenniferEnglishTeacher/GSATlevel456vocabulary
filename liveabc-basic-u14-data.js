@@ -2189,7 +2189,7 @@ const LOOKUP = {
       }
     ]
   },
-  "inserted": {
+  "insert": {
     "pos": "v.",
     "en_def": "to place, fit, or thrust something into another thing.",
     "cn_def": "插入",
@@ -2201,7 +2201,7 @@ const LOOKUP = {
       }
     ]
   },
-  "insert": {
+  "inserted": {
     "pos": "v.",
     "en_def": "to place, fit, or thrust something into another thing.",
     "cn_def": "插入",

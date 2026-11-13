@@ -1590,18 +1590,6 @@ const LOOKUP = {
       }
     ]
   },
-  "fade": {
-    "pos": "v.",
-    "en_def": "to gradually grow faint and disappear.",
-    "cn_def": "褪色；消退",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to gradually grow faint and disappear.",
-        "cn_def": "褪色；消退"
-      }
-    ]
-  },
   "faded": {
     "pos": "v.",
     "en_def": "to gradually grow faint and disappear.",
@@ -1614,7 +1602,19 @@ const LOOKUP = {
       }
     ]
   },
-  "fade away": {
+  "fade": {
+    "pos": "v.",
+    "en_def": "to gradually grow faint and disappear.",
+    "cn_def": "褪色；消退",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to gradually grow faint and disappear.",
+        "cn_def": "褪色；消退"
+      }
+    ]
+  },
+  "faded away": {
     "pos": "phr.",
     "en_def": "to gradually disappear completely.",
     "cn_def": "逐漸消失",
@@ -1626,7 +1626,7 @@ const LOOKUP = {
       }
     ]
   },
-  "faded away": {
+  "fade away": {
     "pos": "phr.",
     "en_def": "to gradually disappear completely.",
     "cn_def": "逐漸消失",
@@ -2210,7 +2210,7 @@ const LOOKUP = {
       }
     ]
   },
-  "renewed": {
+  "renew": {
     "pos": "v.",
     "en_def": "to resume an activity after an interruption; to re-establish.",
     "cn_def": "更新；重新燃起",
@@ -2222,7 +2222,7 @@ const LOOKUP = {
       }
     ]
   },
-  "renew": {
+  "renewed": {
     "pos": "v.",
     "en_def": "to resume an activity after an interruption; to re-establish.",
     "cn_def": "更新；重新燃起",

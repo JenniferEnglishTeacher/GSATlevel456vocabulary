@@ -1133,6 +1133,18 @@ const MCQS = [
 ];
 
 const LOOKUP = {
+  "spied": {
+    "pos": "v.",
+    "en_def": "to watch someone or something secretly, often to discover confidential information",
+    "cn_def": "暗中監視；看見",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to watch someone or something secretly, often to discover confidential information",
+        "cn_def": "暗中監視；看見"
+      }
+    ]
+  },
   "spy": {
     "pos": "v.",
     "en_def": "to watch someone or something secretly, often to discover confidential information",
@@ -1150,18 +1162,6 @@ const LOOKUP = {
       }
     ]
   },
-  "spied": {
-    "pos": "v.",
-    "en_def": "to watch someone or something secretly, often to discover confidential information",
-    "cn_def": "暗中監視；看見",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to watch someone or something secretly, often to discover confidential information",
-        "cn_def": "暗中監視；看見"
-      }
-    ]
-  },
   "spooky": {
     "pos": "adj.",
     "en_def": "strange and frightening in a way that suggests the presence of ghosts",
@@ -1174,7 +1174,7 @@ const LOOKUP = {
       }
     ]
   },
-  "scared": {
+  "scare": {
     "pos": "v.",
     "en_def": "to frighten a person or animal suddenly, making them feel afraid",
     "cn_def": "驚嚇；嚇跑",
@@ -1186,7 +1186,7 @@ const LOOKUP = {
       }
     ]
   },
-  "scare": {
+  "scared": {
     "pos": "v.",
     "en_def": "to frighten a person or animal suddenly, making them feel afraid",
     "cn_def": "驚嚇；嚇跑",
@@ -1424,6 +1424,18 @@ const LOOKUP = {
       }
     ]
   },
+  "coded": {
+    "pos": "v.",
+    "en_def": "to write computer programs or software using a system of technical laws",
+    "cn_def": "編寫代碼；寫程式",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to write computer programs or software using a system of technical laws",
+        "cn_def": "編寫代碼；寫程式"
+      }
+    ]
+  },
   "code": {
     "pos": "v.",
     "en_def": "to write computer programs or software using a system of technical laws",
@@ -1441,19 +1453,7 @@ const LOOKUP = {
       }
     ]
   },
-  "coded": {
-    "pos": "v.",
-    "en_def": "to write computer programs or software using a system of technical laws",
-    "cn_def": "編寫代碼；寫程式",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to write computer programs or software using a system of technical laws",
-        "cn_def": "編寫代碼；寫程式"
-      }
-    ]
-  },
-  "assurances": {
+  "assurance": {
     "pos": "n.",
     "en_def": "a positive declaration intended to give confidence or remove doubt",
     "cn_def": "保證；擔保",
@@ -1465,7 +1465,7 @@ const LOOKUP = {
       }
     ]
   },
-  "assurance": {
+  "assurances": {
     "pos": "n.",
     "en_def": "a positive declaration intended to give confidence or remove doubt",
     "cn_def": "保證；擔保",
@@ -1513,7 +1513,7 @@ const LOOKUP = {
       }
     ]
   },
-  "deleted": {
+  "delete": {
     "pos": "v.",
     "en_def": "to remove or erase written text or electronic data completely from a system",
     "cn_def": "刪除",
@@ -1525,7 +1525,7 @@ const LOOKUP = {
       }
     ]
   },
-  "delete": {
+  "deleted": {
     "pos": "v.",
     "en_def": "to remove or erase written text or electronic data completely from a system",
     "cn_def": "刪除",
@@ -1717,7 +1717,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be aware of": {
+  "be fully aware of": {
     "pos": "phr.",
     "en_def": "to have knowledge, understanding, or realization of a specific fact or situation",
     "cn_def": "察覺到...；知道...",
@@ -1729,7 +1729,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be fully aware of": {
+  "be aware of": {
     "pos": "phr.",
     "en_def": "to have knowledge, understanding, or realization of a specific fact or situation",
     "cn_def": "察覺到...；知道...",
@@ -1801,7 +1801,7 @@ const LOOKUP = {
       }
     ]
   },
-  "precaution": {
+  "precautions": {
     "pos": "n.",
     "en_def": "a measure taken in advance to prevent something dangerous or unpleasant from happening",
     "cn_def": "預防措施；防範",
@@ -1813,7 +1813,7 @@ const LOOKUP = {
       }
     ]
   },
-  "precautions": {
+  "precaution": {
     "pos": "n.",
     "en_def": "a measure taken in advance to prevent something dangerous or unpleasant from happening",
     "cn_def": "預防措施；防範",
@@ -1849,18 +1849,6 @@ const LOOKUP = {
       }
     ]
   },
-  "take measures": {
-    "pos": "phr.",
-    "en_def": "to perform specific official actions or steps in order to achieve a particular goal or solve a problem",
-    "cn_def": "採取措施",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "to perform specific official actions or steps in order to achieve a particular goal or solve a problem",
-        "cn_def": "採取措施"
-      }
-    ]
-  },
   "take strict measures": {
     "pos": "phr.",
     "en_def": "to perform specific official actions or steps in order to achieve a particular goal or solve a problem",
@@ -1873,7 +1861,19 @@ const LOOKUP = {
       }
     ]
   },
-  "take immediate action": {
+  "take measures": {
+    "pos": "phr.",
+    "en_def": "to perform specific official actions or steps in order to achieve a particular goal or solve a problem",
+    "cn_def": "採取措施",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to perform specific official actions or steps in order to achieve a particular goal or solve a problem",
+        "cn_def": "採取措施"
+      }
+    ]
+  },
+  "take action": {
     "pos": "phr.",
     "en_def": "to do something officially or practically to deal with a severe situation or solve an issue",
     "cn_def": "採取行動",
@@ -1885,7 +1885,7 @@ const LOOKUP = {
       }
     ]
   },
-  "take action": {
+  "take immediate action": {
     "pos": "phr.",
     "en_def": "to do something officially or practically to deal with a severe situation or solve an issue",
     "cn_def": "採取行動",
@@ -1921,7 +1921,7 @@ const LOOKUP = {
       }
     ]
   },
-  "privacy settings": {
+  "privacy setting": {
     "pos": "n.",
     "en_def": "electronic controls that let users restrict who can see their social media data",
     "cn_def": "隱私設定",
@@ -1933,7 +1933,7 @@ const LOOKUP = {
       }
     ]
   },
-  "privacy setting": {
+  "privacy settings": {
     "pos": "n.",
     "en_def": "electronic controls that let users restrict who can see their social media data",
     "cn_def": "隱私設定",

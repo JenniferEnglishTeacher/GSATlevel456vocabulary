@@ -1514,7 +1514,7 @@ const LOOKUP = {
       }
     ]
   },
-  "recommends students to": {
+  "recommend somebody to v": {
     "pos": "phr.",
     "en_def": "to advise someone to do a specific action",
     "cn_def": "建議某人去做某事",
@@ -1526,7 +1526,7 @@ const LOOKUP = {
       }
     ]
   },
-  "recommend somebody to v": {
+  "recommends students to": {
     "pos": "phr.",
     "en_def": "to advise someone to do a specific action",
     "cn_def": "建議某人去做某事",
@@ -1550,7 +1550,7 @@ const LOOKUP = {
       }
     ]
   },
-  "recommend that s (should) vr": {
+  "recommended that": {
     "pos": "phr.",
     "en_def": "to suggest that someone ought to perform a specific action",
     "cn_def": "建議某人應該做某事",
@@ -1562,7 +1562,7 @@ const LOOKUP = {
       }
     ]
   },
-  "recommended that": {
+  "recommend that s (should) vr": {
     "pos": "phr.",
     "en_def": "to suggest that someone ought to perform a specific action",
     "cn_def": "建議某人應該做某事",
@@ -1831,7 +1831,7 @@ const LOOKUP = {
       }
     ]
   },
-  "fascinated us with": {
+  "fascinate someone with": {
     "pos": "phr.",
     "en_def": "to strongly interest another person using a specific thing",
     "cn_def": "用...使某人著迷",
@@ -1843,7 +1843,7 @@ const LOOKUP = {
       }
     ]
   },
-  "fascinate someone with": {
+  "fascinated us with": {
     "pos": "phr.",
     "en_def": "to strongly interest another person using a specific thing",
     "cn_def": "用...使某人著迷",
@@ -1932,7 +1932,7 @@ const LOOKUP = {
       }
     ]
   },
-  "overlooks": {
+  "overlook": {
     "pos": "v.",
     "en_def": "to have a view of something from above; to fail to notice something",
     "cn_def": "俯瞰；忽略；漏看",
@@ -1944,7 +1944,7 @@ const LOOKUP = {
       }
     ]
   },
-  "overlook": {
+  "overlooks": {
     "pos": "v.",
     "en_def": "to have a view of something from above; to fail to notice something",
     "cn_def": "俯瞰；忽略；漏看",
@@ -2016,7 +2016,7 @@ const LOOKUP = {
       }
     ]
   },
-  "masterpieces": {
+  "masterpiece": {
     "pos": "n.",
     "en_def": "a work of outstanding artistry, skill, or workmanship",
     "cn_def": "傑作；名作",
@@ -2028,7 +2028,7 @@ const LOOKUP = {
       }
     ]
   },
-  "masterpiece": {
+  "masterpieces": {
     "pos": "n.",
     "en_def": "a work of outstanding artistry, skill, or workmanship",
     "cn_def": "傑作；名作",
@@ -2064,18 +2064,6 @@ const LOOKUP = {
       }
     ]
   },
-  "ornament": {
-    "pos": "n.",
-    "en_def": "an object that is used as a decoration in a room or garden",
-    "cn_def": "裝飾品",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "an object that is used as a decoration in a room or garden",
-        "cn_def": "裝飾品"
-      }
-    ]
-  },
   "ornaments": {
     "pos": "n.",
     "en_def": "an object that is used as a decoration in a room or garden",
@@ -2088,15 +2076,15 @@ const LOOKUP = {
       }
     ]
   },
-  "afforded": {
-    "pos": "v.",
-    "en_def": "to have enough money or time to be able to do something",
-    "cn_def": "負擔得起；提供",
+  "ornament": {
+    "pos": "n.",
+    "en_def": "an object that is used as a decoration in a room or garden",
+    "cn_def": "裝飾品",
     "combined": [
       {
-        "pos": "v.",
-        "en_def": "to have enough money or time to be able to do something",
-        "cn_def": "負擔得起；提供"
+        "pos": "n.",
+        "en_def": "an object that is used as a decoration in a room or garden",
+        "cn_def": "裝飾品"
       }
     ]
   },
@@ -2112,7 +2100,19 @@ const LOOKUP = {
       }
     ]
   },
-  "afford to v": {
+  "afforded": {
+    "pos": "v.",
+    "en_def": "to have enough money or time to be able to do something",
+    "cn_def": "負擔得起；提供",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to have enough money or time to be able to do something",
+        "cn_def": "負擔得起；提供"
+      }
+    ]
+  },
+  "afford to": {
     "pos": "phr.",
     "en_def": "to be able to spend money or time on an action without serious trouble",
     "cn_def": "負擔得起去（做某事）",
@@ -2124,7 +2124,7 @@ const LOOKUP = {
       }
     ]
   },
-  "afford to": {
+  "afford to v": {
     "pos": "phr.",
     "en_def": "to be able to spend money or time on an action without serious trouble",
     "cn_def": "負擔得起去（做某事）",
@@ -2244,7 +2244,7 @@ const LOOKUP = {
       }
     ]
   },
-  "raw material": {
+  "raw materials": {
     "pos": "n.",
     "en_def": "basic material from which a product is made",
     "cn_def": "原物料；原料",
@@ -2256,7 +2256,7 @@ const LOOKUP = {
       }
     ]
   },
-  "raw materials": {
+  "raw material": {
     "pos": "n.",
     "en_def": "basic material from which a product is made",
     "cn_def": "原物料；原料",
@@ -2280,7 +2280,7 @@ const LOOKUP = {
       }
     ]
   },
-  "translate into": {
+  "translate mp3 files into": {
     "pos": "phr.",
     "en_def": "to express words or text in another language or format",
     "cn_def": "翻譯成...；轉化為",
@@ -2292,7 +2292,7 @@ const LOOKUP = {
       }
     ]
   },
-  "translate mp3 files into": {
+  "translate into": {
     "pos": "phr.",
     "en_def": "to express words or text in another language or format",
     "cn_def": "翻譯成...；轉化為",
@@ -2398,18 +2398,6 @@ const LOOKUP = {
       }
     ]
   },
-  "accompany": {
-    "pos": "v.",
-    "en_def": "to go somewhere with someone as a companion",
-    "cn_def": "陪同；伴隨",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to go somewhere with someone as a companion",
-        "cn_def": "陪同；伴隨"
-      }
-    ]
-  },
   "accompanies": {
     "pos": "v.",
     "en_def": "to go somewhere with someone as a companion",
@@ -2422,7 +2410,19 @@ const LOOKUP = {
       }
     ]
   },
-  "keep my grandmother company": {
+  "accompany": {
+    "pos": "v.",
+    "en_def": "to go somewhere with someone as a companion",
+    "cn_def": "陪同；伴隨",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to go somewhere with someone as a companion",
+        "cn_def": "陪同；伴隨"
+      }
+    ]
+  },
+  "keep company": {
     "pos": "phr.",
     "en_def": "to spend time with someone so that they do not feel lonely",
     "cn_def": "陪伴；做伴",
@@ -2434,7 +2434,7 @@ const LOOKUP = {
       }
     ]
   },
-  "keep company": {
+  "keep my grandmother company": {
     "pos": "phr.",
     "en_def": "to spend time with someone so that they do not feel lonely",
     "cn_def": "陪伴；做伴",

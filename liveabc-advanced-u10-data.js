@@ -1730,18 +1730,6 @@ const LOOKUP = {
       }
     ]
   },
-  "ancestor": {
-    "pos": "n.",
-    "en_def": "a person from whom one is descended, typically more remote than a grandparent",
-    "cn_def": "祖先",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a person from whom one is descended, typically more remote than a grandparent",
-        "cn_def": "祖先"
-      }
-    ]
-  },
   "ancestors": {
     "pos": "n.",
     "en_def": "a person from whom one is descended, typically more remote than a grandparent",
@@ -1754,7 +1742,19 @@ const LOOKUP = {
       }
     ]
   },
-  "descendant": {
+  "ancestor": {
+    "pos": "n.",
+    "en_def": "a person from whom one is descended, typically more remote than a grandparent",
+    "cn_def": "祖先",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a person from whom one is descended, typically more remote than a grandparent",
+        "cn_def": "祖先"
+      }
+    ]
+  },
+  "descendants": {
     "pos": "n.",
     "en_def": "a person who is related to a particular ancestor who lived in the past",
     "cn_def": "後代；子孫",
@@ -1766,7 +1766,7 @@ const LOOKUP = {
       }
     ]
   },
-  "descendants": {
+  "descendant": {
     "pos": "n.",
     "en_def": "a person who is related to a particular ancestor who lived in the past",
     "cn_def": "後代；子孫",
@@ -1850,7 +1850,7 @@ const LOOKUP = {
       }
     ]
   },
-  "had a keen eye for": {
+  "have a keen eye / have a keen eye for": {
     "pos": "phr.",
     "en_def": "to possess an exceptional ability to notice, detect, or evaluate small details or quality",
     "cn_def": "具有敏銳的眼光",
@@ -1862,7 +1862,7 @@ const LOOKUP = {
       }
     ]
   },
-  "have a keen eye / have a keen eye for": {
+  "had a keen eye for": {
     "pos": "phr.",
     "en_def": "to possess an exceptional ability to notice, detect, or evaluate small details or quality",
     "cn_def": "具有敏銳的眼光",
@@ -1922,7 +1922,7 @@ const LOOKUP = {
       }
     ]
   },
-  "was very eager to": {
+  "be eager to v": {
     "pos": "phr.",
     "en_def": "to feel intense enthusiasm or impatience to perform a specific action or achieve a goal",
     "cn_def": "渴望做某事",
@@ -1934,7 +1934,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be eager to v": {
+  "was very eager to": {
     "pos": "phr.",
     "en_def": "to feel intense enthusiasm or impatience to perform a specific action or achieve a goal",
     "cn_def": "渴望做某事",
@@ -2035,7 +2035,7 @@ const LOOKUP = {
       }
     ]
   },
-  "is thoroughly dedicated to": {
+  "be dedicated to": {
     "pos": "phr.",
     "en_def": "giving a lot of time and energy to a specific task, purpose, or noble cause",
     "cn_def": "致力於...；奉獻於...",
@@ -2047,7 +2047,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be dedicated to": {
+  "is thoroughly dedicated to": {
     "pos": "phr.",
     "en_def": "giving a lot of time and energy to a specific task, purpose, or noble cause",
     "cn_def": "致力於...；奉獻於...",
@@ -2083,7 +2083,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be devoted to": {
+  "is completely devoted to": {
     "pos": "phr.",
     "en_def": "feeling or showing deep affection, loyalty, or entire time for a particular person or goal",
     "cn_def": "深愛...；全心投入於...",
@@ -2095,7 +2095,7 @@ const LOOKUP = {
       }
     ]
   },
-  "is completely devoted to": {
+  "be devoted to": {
     "pos": "phr.",
     "en_def": "feeling or showing deep affection, loyalty, or entire time for a particular person or goal",
     "cn_def": "深愛...；全心投入於...",
@@ -2273,7 +2273,7 @@ const LOOKUP = {
       }
     ]
   },
-  "nutrients": {
+  "nutrient": {
     "pos": "n.",
     "en_def": "a substance that provides nourishment essential for growth and the maintenance of life",
     "cn_def": "營養素；養分",
@@ -2285,7 +2285,7 @@ const LOOKUP = {
       }
     ]
   },
-  "nutrient": {
+  "nutrients": {
     "pos": "n.",
     "en_def": "a substance that provides nourishment essential for growth and the maintenance of life",
     "cn_def": "營養素；養分",
@@ -2573,7 +2573,7 @@ const LOOKUP = {
       }
     ]
   },
-  "detect": {
+  "detected": {
     "pos": "v.",
     "en_def": "to discover or notice the presence of something hidden or faint",
     "cn_def": "察覺；偵測到",
@@ -2585,7 +2585,7 @@ const LOOKUP = {
       }
     ]
   },
-  "detected": {
+  "detect": {
     "pos": "v.",
     "en_def": "to discover or notice the presence of something hidden or faint",
     "cn_def": "察覺；偵測到",
@@ -2741,7 +2741,7 @@ const LOOKUP = {
       }
     ]
   },
-  "galaxy": {
+  "galaxies": {
     "pos": "n.",
     "en_def": "a system of millions or billions of stars, together with gas and dust, held by gravitational attraction",
     "cn_def": "星系",
@@ -2753,7 +2753,7 @@ const LOOKUP = {
       }
     ]
   },
-  "galaxies": {
+  "galaxy": {
     "pos": "n.",
     "en_def": "a system of millions or billions of stars, together with gas and dust, held by gravitational attraction",
     "cn_def": "星系",

@@ -1211,6 +1211,65 @@ window.VOCAB_ZONES = {
   },
   "blurb": "words & collocations by part 各部分單字與搭配詞"
  },
+ "kb": {
+  "book": "liveabc24",
+  "prefix": "kb",
+  "tag": "LiveABC2-4 B",
+  "name": "LiveABC Level 2–4 Basic",
+  "short": "Basic",
+  "num": "B",
+  "levelLabel": "LiveABC 2-4 Basic",
+  "cls": "hot",
+  "family": false,
+  "headLabel": "",
+  "tile": "LiveABC Level 2–4 · Basic",
+  "unitName": "Unit",
+  "data": "kb-dashboard-data.js",
+  "global": "KB_DASHBOARD_UNITS",
+  "page": "kb-unit{u}.html",
+  "quiz": "liveabc24-basic-u{u}.html",
+  "units": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ],
+  "names": {
+   "1": "credit – worm",
+   "2": "jewelry – odds",
+   "3": "sting – electricity",
+   "4": "preserve – die out",
+   "5": "tame – increasing",
+   "6": "fake – be suspicious of",
+   "7": "consider – scented",
+   "8": "efficient – regulate",
+   "9": "arrival – launch",
+   "10": "comfort – pretend",
+   "11": "wonder – dare to V",
+   "12": "landmark – be diagnosed with",
+   "13": "character – prime",
+   "14": "amaze – indistinguishable",
+   "15": "risk – communicator",
+   "16": "perfume – acclaim",
+   "17": "specific – scratch",
+   "18": "cinema – emerge"
+  },
+  "blurb": "words & phrases by unit 各單元單字片語"
+ },
  "j": {
   "book": "j2000",
   "prefix": "j",
@@ -1987,6 +2046,13 @@ window.VOCAB_BOOKS = [
    "t22",
    "t23",
    "t24"
+  ]
+ },
+ {
+  "id": "liveabc24",
+  "name": "LiveABC Level 2–4",
+  "zones": [
+   "kb"
   ]
  },
  {

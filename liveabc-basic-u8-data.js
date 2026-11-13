@@ -2414,7 +2414,7 @@ const LOOKUP = {
       }
     ]
   },
-  "destroyed": {
+  "destroy": {
     "pos": "v.",
     "en_def": "to put an end to the existence of something by damaging or attacking it.",
     "cn_def": "摧毀",
@@ -2426,7 +2426,7 @@ const LOOKUP = {
       }
     ]
   },
-  "destroy": {
+  "destroyed": {
     "pos": "v.",
     "en_def": "to put an end to the existence of something by damaging or attacking it.",
     "cn_def": "摧毀",
@@ -2479,7 +2479,7 @@ const LOOKUP = {
       }
     ]
   },
-  "deal... damage": {
+  "deal massive damage": {
     "pos": "phr.",
     "en_def": "To cause harm or damage to someone or something, often used in games or combat contexts.",
     "cn_def": "造成…傷害、施加…破壞",
@@ -2491,7 +2491,7 @@ const LOOKUP = {
       }
     ]
   },
-  "deal massive damage": {
+  "deal... damage": {
     "pos": "phr.",
     "en_def": "To cause harm or damage to someone or something, often used in games or combat contexts.",
     "cn_def": "造成…傷害、施加…破壞",
@@ -2873,7 +2873,7 @@ const LOOKUP = {
       }
     ]
   },
-  "inject": {
+  "injected": {
     "pos": "v.",
     "en_def": "to drive or force a liquid into a person's body with a syringe.",
     "cn_def": "注射；注入",
@@ -2885,7 +2885,7 @@ const LOOKUP = {
       }
     ]
   },
-  "injected": {
+  "inject": {
     "pos": "v.",
     "en_def": "to drive or force a liquid into a person's body with a syringe.",
     "cn_def": "注射；注入",

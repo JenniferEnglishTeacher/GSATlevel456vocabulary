@@ -1976,7 +1976,7 @@ const LOOKUP = {
       }
     ]
   },
-  "excel": {
+  "excels": {
     "pos": "v.",
     "en_def": "to be exceptionally good at or proficient in an activity or subject.",
     "cn_def": "擅長；突出",
@@ -1988,7 +1988,7 @@ const LOOKUP = {
       }
     ]
   },
-  "excels": {
+  "excel": {
     "pos": "v.",
     "en_def": "to be exceptionally good at or proficient in an activity or subject.",
     "cn_def": "擅長；突出",
@@ -2048,7 +2048,7 @@ const LOOKUP = {
       }
     ]
   },
-  "perceived the dark neighborhood as": {
+  "perceive as": {
     "pos": "phr.",
     "en_def": "to interpret or look on someone or something in a particular way.",
     "cn_def": "視為...",
@@ -2060,7 +2060,7 @@ const LOOKUP = {
       }
     ]
   },
-  "perceive as": {
+  "perceived the dark neighborhood as": {
     "pos": "phr.",
     "en_def": "to interpret or look on someone or something in a particular way.",
     "cn_def": "視為...",
@@ -2459,7 +2459,7 @@ const LOOKUP = {
       }
     ]
   },
-  "show/express gratitude to sb": {
+  "show gratitude to": {
     "pos": "v. phr.",
     "en_def": "To display or say out loud your thankfulness to someone for their support or help.",
     "cn_def": "向某人表達謝意/感激",
@@ -2471,7 +2471,7 @@ const LOOKUP = {
       }
     ]
   },
-  "show gratitude to": {
+  "show/express gratitude to sb": {
     "pos": "v. phr.",
     "en_def": "To display or say out loud your thankfulness to someone for their support or help.",
     "cn_def": "向某人表達謝意/感激",

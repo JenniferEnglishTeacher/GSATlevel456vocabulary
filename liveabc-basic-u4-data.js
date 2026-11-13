@@ -2035,7 +2035,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ferry": {
+  "ferries": {
     "pos": "n.",
     "en_def": "A boat or ship for conveying passengers and goods.",
     "cn_def": "渡輪",
@@ -2047,7 +2047,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ferries": {
+  "ferry": {
     "pos": "n.",
     "en_def": "A boat or ship for conveying passengers and goods.",
     "cn_def": "渡輪",
@@ -2215,7 +2215,7 @@ const LOOKUP = {
       }
     ]
   },
-  "civilian": {
+  "civilians": {
     "pos": "n.",
     "en_def": "A person not in the armed services or the police force.",
     "cn_def": "平民",
@@ -2227,7 +2227,7 @@ const LOOKUP = {
       }
     ]
   },
-  "civilians": {
+  "civilian": {
     "pos": "n.",
     "en_def": "A person not in the armed services or the police force.",
     "cn_def": "平民",
@@ -2275,7 +2275,7 @@ const LOOKUP = {
       }
     ]
   },
-  "broaden": {
+  "broadened": {
     "pos": "v.",
     "en_def": "To become larger; to expand to encompass more people, ideas, or things.",
     "cn_def": "擴展；拓寬",
@@ -2287,7 +2287,7 @@ const LOOKUP = {
       }
     ]
   },
-  "broadened": {
+  "broaden": {
     "pos": "v.",
     "en_def": "To become larger; to expand to encompass more people, ideas, or things.",
     "cn_def": "擴展；拓寬",
@@ -2479,7 +2479,7 @@ const LOOKUP = {
       }
     ]
   },
-  "out of my budget": {
+  "out of one's budget": {
     "pos": "phr.",
     "en_def": "Costing more money than someone can afford to spend.",
     "cn_def": "超出某人的預算",
@@ -2491,7 +2491,7 @@ const LOOKUP = {
       }
     ]
   },
-  "out of one's budget": {
+  "out of my budget": {
     "pos": "phr.",
     "en_def": "Costing more money than someone can afford to spend.",
     "cn_def": "超出某人的預算",
@@ -2527,18 +2527,6 @@ const LOOKUP = {
       }
     ]
   },
-  "broaden one's horizons": {
-    "pos": "phr.",
-    "en_def": "To expand one's range of interests, activities, and knowledge.",
-    "cn_def": "拓展某人的視野",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "To expand one's range of interests, activities, and knowledge.",
-        "cn_def": "拓展某人的視野"
-      }
-    ]
-  },
   "broaden your horizons": {
     "pos": "phr.",
     "en_def": "To expand one's range of interests, activities, and knowledge.",
@@ -2551,7 +2539,19 @@ const LOOKUP = {
       }
     ]
   },
-  "broaden her knowledge": {
+  "broaden one's horizons": {
+    "pos": "phr.",
+    "en_def": "To expand one's range of interests, activities, and knowledge.",
+    "cn_def": "拓展某人的視野",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "To expand one's range of interests, activities, and knowledge.",
+        "cn_def": "拓展某人的視野"
+      }
+    ]
+  },
+  "broaden one's knowledge": {
     "pos": "phr.",
     "en_def": "To increase what one knows about a subject.",
     "cn_def": "增廣見聞；擴充知識",
@@ -2563,7 +2563,7 @@ const LOOKUP = {
       }
     ]
   },
-  "broaden one's knowledge": {
+  "broaden her knowledge": {
     "pos": "phr.",
     "en_def": "To increase what one knows about a subject.",
     "cn_def": "增廣見聞；擴充知識",
@@ -2611,7 +2611,7 @@ const LOOKUP = {
       }
     ]
   },
-  "take in": {
+  "take it all in": {
     "pos": "phr. v.",
     "en_def": "To fully understand or absorb something heard or seen; to deceive.",
     "cn_def": "吸收；領會；欺騙",
@@ -2623,7 +2623,7 @@ const LOOKUP = {
       }
     ]
   },
-  "take it all in": {
+  "take in": {
     "pos": "phr. v.",
     "en_def": "To fully understand or absorb something heard or seen; to deceive.",
     "cn_def": "吸收；領會；欺騙",
@@ -2683,7 +2683,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be steeped in": {
+  "steeped in": {
     "pos": "phr.",
     "en_def": "To have a lot of a particular quality or be heavily influenced by something.",
     "cn_def": "充滿著...；沉浸於...",
@@ -2695,7 +2695,7 @@ const LOOKUP = {
       }
     ]
   },
-  "steeped in": {
+  "be steeped in": {
     "pos": "phr.",
     "en_def": "To have a lot of a particular quality or be heavily influenced by something.",
     "cn_def": "充滿著...；沉浸於...",

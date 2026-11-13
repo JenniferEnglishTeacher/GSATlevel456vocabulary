@@ -3261,7 +3261,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be satisfied with": {
+  "be completely satisfied with": {
     "pos": "phr.",
     "en_def": "to feel content, pleased, or happy with a specific outcome, service, or object",
     "cn_def": "對...感到滿意",
@@ -3273,7 +3273,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be completely satisfied with": {
+  "be satisfied with": {
     "pos": "phr.",
     "en_def": "to feel content, pleased, or happy with a specific outcome, service, or object",
     "cn_def": "對...感到滿意",
@@ -3321,7 +3321,7 @@ const LOOKUP = {
       }
     ]
   },
-  "to their satisfaction": {
+  "to one's satisfaction": {
     "pos": "phr.",
     "en_def": "in a way that makes a choice person feel completely pleased, content, or happy",
     "cn_def": "令某人滿意地",
@@ -3333,7 +3333,7 @@ const LOOKUP = {
       }
     ]
   },
-  "to one's satisfaction": {
+  "to their satisfaction": {
     "pos": "phr.",
     "en_def": "in a way that makes a choice person feel completely pleased, content, or happy",
     "cn_def": "令某人滿意地",
@@ -3694,7 +3694,7 @@ const LOOKUP = {
       }
     ]
   },
-  "politician": {
+  "politicians": {
     "pos": "n.",
     "en_def": "a person who is professionally involved in politics, especially as an elected official",
     "cn_def": "政治家；政客",
@@ -3706,7 +3706,7 @@ const LOOKUP = {
       }
     ]
   },
-  "politicians": {
+  "politician": {
     "pos": "n.",
     "en_def": "a person who is professionally involved in politics, especially as an elected official",
     "cn_def": "政治家；政客",
@@ -4266,18 +4266,6 @@ const LOOKUP = {
       }
     ]
   },
-  "insulted": {
-    "pos": "v.",
-    "en_def": "to speak to or treat someone with disrespect or offensive language",
-    "cn_def": "侮辱；羞辱",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to speak to or treat someone with disrespect or offensive language",
-        "cn_def": "侮辱；羞辱"
-      }
-    ]
-  },
   "insult": {
     "pos": "v.",
     "en_def": "to speak to or treat someone with disrespect or offensive language",
@@ -4292,6 +4280,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a disrespectful or highly offensive remark or action that causes hurt feelings",
         "cn_def": "侮辱；無禮的話"
+      }
+    ]
+  },
+  "insulted": {
+    "pos": "v.",
+    "en_def": "to speak to or treat someone with disrespect or offensive language",
+    "cn_def": "侮辱；羞辱",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to speak to or treat someone with disrespect or offensive language",
+        "cn_def": "侮辱；羞辱"
       }
     ]
   },
@@ -4552,7 +4552,7 @@ const LOOKUP = {
       }
     ]
   },
-  "publications": {
+  "publication": {
     "pos": "n.",
     "en_def": "the act of publishing a book or magazine, or the approved copy itself",
     "cn_def": "出版物；發行",
@@ -4564,7 +4564,7 @@ const LOOKUP = {
       }
     ]
   },
-  "publication": {
+  "publications": {
     "pos": "n.",
     "en_def": "the act of publishing a book or magazine, or the approved copy itself",
     "cn_def": "出版物；發行",
@@ -4905,7 +4905,7 @@ const LOOKUP = {
       }
     ]
   },
-  "intend to v": {
+  "intends to": {
     "pos": "phr.",
     "en_def": "to plan or purpose to perform a specific action or achieve a milestone in the future",
     "cn_def": "打算做...（後接原形動詞）",
@@ -4917,7 +4917,7 @@ const LOOKUP = {
       }
     ]
   },
-  "intends to": {
+  "intend to v": {
     "pos": "phr.",
     "en_def": "to plan or purpose to perform a specific action or achieve a milestone in the future",
     "cn_def": "打算做...（後接原形動詞）",

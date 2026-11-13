@@ -3200,7 +3200,7 @@ const LOOKUP = {
       }
     ]
   },
-  "revolves": {
+  "revolve": {
     "pos": "v.",
     "en_def": "to move in a circle on a central axis.",
     "cn_def": "旋轉；圍繞",
@@ -3212,7 +3212,7 @@ const LOOKUP = {
       }
     ]
   },
-  "revolve": {
+  "revolves": {
     "pos": "v.",
     "en_def": "to move in a circle on a central axis.",
     "cn_def": "旋轉；圍繞",
@@ -3618,7 +3618,7 @@ const LOOKUP = {
       }
     ]
   },
-  "faced with": {
+  "be faced with": {
     "pos": "v. phr.",
     "en_def": "To have to deal with a difficult situation, problem, or choice.",
     "cn_def": "面臨…、面對…（通常指困難、挑戰）",
@@ -3630,7 +3630,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be faced with": {
+  "faced with": {
     "pos": "v. phr.",
     "en_def": "To have to deal with a difficult situation, problem, or choice.",
     "cn_def": "面臨…、面對…（通常指困難、挑戰）",
@@ -3808,18 +3808,6 @@ const LOOKUP = {
       }
     ]
   },
-  "be engaged to sb": {
-    "pos": "v. phr.",
-    "en_def": "Having formally agreed to marry a specific person in the future.",
-    "cn_def": "與某人訂婚",
-    "combined": [
-      {
-        "pos": "v. phr.",
-        "en_def": "Having formally agreed to marry a specific person in the future.",
-        "cn_def": "與某人訂婚"
-      }
-    ]
-  },
   "engaged to": {
     "pos": "v. phr.",
     "en_def": "Having formally agreed to marry a specific person in the future.",
@@ -3832,7 +3820,19 @@ const LOOKUP = {
       }
     ]
   },
-  "engaged in": {
+  "be engaged to sb": {
+    "pos": "v. phr.",
+    "en_def": "Having formally agreed to marry a specific person in the future.",
+    "cn_def": "與某人訂婚",
+    "combined": [
+      {
+        "pos": "v. phr.",
+        "en_def": "Having formally agreed to marry a specific person in the future.",
+        "cn_def": "與某人訂婚"
+      }
+    ]
+  },
+  "be engaged in": {
     "pos": "v. phr.",
     "en_def": "To be deeply busy, occupied, or involved in a specific activity or situation.",
     "cn_def": "正從事於…、忙於…、參與…",
@@ -3844,7 +3844,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be engaged in": {
+  "engaged in": {
     "pos": "v. phr.",
     "en_def": "To be deeply busy, occupied, or involved in a specific activity or situation.",
     "cn_def": "正從事於…、忙於…、參與…",
@@ -4192,7 +4192,7 @@ const LOOKUP = {
       }
     ]
   },
-  "wandered": {
+  "wander": {
     "pos": "v.",
     "en_def": "to walk or move in a leisurely, casual, or aimless way.",
     "cn_def": "漫遊；徘徊",
@@ -4204,7 +4204,7 @@ const LOOKUP = {
       }
     ]
   },
-  "wander": {
+  "wandered": {
     "pos": "v.",
     "en_def": "to walk or move in a leisurely, casual, or aimless way.",
     "cn_def": "漫遊；徘徊",
@@ -4449,7 +4449,7 @@ const LOOKUP = {
       }
     ]
   },
-  "have completely free access to": {
+  "have access to": {
     "pos": "phr.",
     "en_def": "to have the right or opportunity to use something.",
     "cn_def": "有權限使用...",
@@ -4461,7 +4461,7 @@ const LOOKUP = {
       }
     ]
   },
-  "have access to": {
+  "have completely free access to": {
     "pos": "phr.",
     "en_def": "to have the right or opportunity to use something.",
     "cn_def": "有權限使用...",
@@ -4773,7 +4773,7 @@ const LOOKUP = {
       }
     ]
   },
-  "creative": {
+  "creatively": {
     "pos": "adj.",
     "en_def": "relating to or involving the imagination or original ideas, especially in the production of an artistic work.",
     "cn_def": "有創意的",
@@ -4785,7 +4785,7 @@ const LOOKUP = {
       }
     ]
   },
-  "creatively": {
+  "creative": {
     "pos": "adj.",
     "en_def": "relating to or involving the imagination or original ideas, especially in the production of an artistic work.",
     "cn_def": "有創意的",
@@ -4833,7 +4833,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be skeptical about": {
+  "be highly skeptical about": {
     "pos": "phr.",
     "en_def": "to have doubts regarding something.",
     "cn_def": "對...感到懷疑",
@@ -4845,7 +4845,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be highly skeptical about": {
+  "be skeptical about": {
     "pos": "phr.",
     "en_def": "to have doubts regarding something.",
     "cn_def": "對...感到懷疑",
@@ -4910,7 +4910,7 @@ const LOOKUP = {
       }
     ]
   },
-  "distinguished from": {
+  "distinguish from": {
     "pos": "phr.",
     "en_def": "to show how one thing is different from another.",
     "cn_def": "區別",
@@ -4922,7 +4922,7 @@ const LOOKUP = {
       }
     ]
   },
-  "distinguish from": {
+  "distinguished from": {
     "pos": "phr.",
     "en_def": "to show how one thing is different from another.",
     "cn_def": "區別",
@@ -4982,7 +4982,7 @@ const LOOKUP = {
       }
     ]
   },
-  "make a huge difference": {
+  "make a difference": {
     "pos": "v. phr.",
     "en_def": "To have a significant effect, improvement, or influence on a person, situation, or thing.",
     "cn_def": "產生影響、有關係、起作用",
@@ -4994,7 +4994,7 @@ const LOOKUP = {
       }
     ]
   },
-  "make a difference": {
+  "make a huge difference": {
     "pos": "v. phr.",
     "en_def": "To have a significant effect, improvement, or influence on a person, situation, or thing.",
     "cn_def": "產生影響、有關係、起作用",

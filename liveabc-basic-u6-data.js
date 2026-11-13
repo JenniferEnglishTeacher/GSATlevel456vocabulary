@@ -2246,7 +2246,7 @@ const LOOKUP = {
       }
     ]
   },
-  "badly needed": {
+  "need badly": {
     "pos": "phr.",
     "en_def": "to require something very much or urgently.",
     "cn_def": "迫切需要",
@@ -2258,7 +2258,7 @@ const LOOKUP = {
       }
     ]
   },
-  "need badly": {
+  "badly needed": {
     "pos": "phr.",
     "en_def": "to require something very much or urgently.",
     "cn_def": "迫切需要",
@@ -2299,7 +2299,7 @@ const LOOKUP = {
       }
     ]
   },
-  "do no harm to": {
+  "done no harm to": {
     "pos": "phr.",
     "en_def": "to be completely safe and cause no damage or injury.",
     "cn_def": "不對...造成傷害",
@@ -2311,7 +2311,7 @@ const LOOKUP = {
       }
     ]
   },
-  "done no harm to": {
+  "do no harm to": {
     "pos": "phr.",
     "en_def": "to be completely safe and cause no damage or injury.",
     "cn_def": "不對...造成傷害",
@@ -2587,7 +2587,7 @@ const LOOKUP = {
       }
     ]
   },
-  "at the top of one's lungs": {
+  "at the top of their lungs": {
     "pos": "phr.",
     "en_def": "as loudly as one's voice will allow.",
     "cn_def": "聲嘶力竭地",
@@ -2599,7 +2599,7 @@ const LOOKUP = {
       }
     ]
   },
-  "at the top of their lungs": {
+  "at the top of one's lungs": {
     "pos": "phr.",
     "en_def": "as loudly as one's voice will allow.",
     "cn_def": "聲嘶力竭地",
@@ -2719,18 +2719,6 @@ const LOOKUP = {
       }
     ]
   },
-  "associate ..with..": {
-    "pos": "phr.",
-    "en_def": "to make a mental connection between two things.",
-    "cn_def": "把A和B聯想在一起",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "to make a mental connection between two things.",
-        "cn_def": "把A和B聯想在一起"
-      }
-    ]
-  },
   "associate eating cold ice cream with": {
     "pos": "phr.",
     "en_def": "to make a mental connection between two things.",
@@ -2743,7 +2731,19 @@ const LOOKUP = {
       }
     ]
   },
-  "is closely associated with": {
+  "associate ..with..": {
+    "pos": "phr.",
+    "en_def": "to make a mental connection between two things.",
+    "cn_def": "把A和B聯想在一起",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to make a mental connection between two things.",
+        "cn_def": "把A和B聯想在一起"
+      }
+    ]
+  },
+  "be associated with": {
     "pos": "adj.",
     "en_def": "connected with something else.",
     "cn_def": "相關的",
@@ -2755,7 +2755,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be associated with": {
+  "is closely associated with": {
     "pos": "adj.",
     "en_def": "connected with something else.",
     "cn_def": "相關的",
@@ -2914,7 +2914,7 @@ const LOOKUP = {
       }
     ]
   },
-  "minerals": {
+  "mineral": {
     "pos": "n.",
     "en_def": "a solid naturally occurring inorganic substance.",
     "cn_def": "礦物質",
@@ -2926,7 +2926,7 @@ const LOOKUP = {
       }
     ]
   },
-  "mineral": {
+  "minerals": {
     "pos": "n.",
     "en_def": "a solid naturally occurring inorganic substance.",
     "cn_def": "礦物質",
@@ -2962,7 +2962,7 @@ const LOOKUP = {
       }
     ]
   },
-  "lightened": {
+  "lighten": {
     "pos": "v.",
     "en_def": "to make or become lighter in weight, pressure, or severity.",
     "cn_def": "減輕；變亮",
@@ -2974,7 +2974,7 @@ const LOOKUP = {
       }
     ]
   },
-  "lighten": {
+  "lightened": {
     "pos": "v.",
     "en_def": "to make or become lighter in weight, pressure, or severity.",
     "cn_def": "減輕；變亮",
@@ -3368,7 +3368,7 @@ const LOOKUP = {
       }
     ]
   },
-  "go too far": {
+  "went too far": {
     "pos": "phr.",
     "en_def": "to exceed the limits of what is reasonable or acceptable.",
     "cn_def": "做得太過分",
@@ -3380,7 +3380,7 @@ const LOOKUP = {
       }
     ]
   },
-  "went too far": {
+  "go too far": {
     "pos": "phr.",
     "en_def": "to exceed the limits of what is reasonable or acceptable.",
     "cn_def": "做得太過分",
@@ -3416,7 +3416,7 @@ const LOOKUP = {
       }
     ]
   },
-  "overload": {
+  "overloaded": {
     "pos": "v.",
     "en_def": "to load with too great a burden or cargo.",
     "cn_def": "超載；負荷過多",
@@ -3428,7 +3428,7 @@ const LOOKUP = {
       }
     ]
   },
-  "overloaded": {
+  "overload": {
     "pos": "v.",
     "en_def": "to load with too great a burden or cargo.",
     "cn_def": "超載；負荷過多",
@@ -3464,7 +3464,7 @@ const LOOKUP = {
       }
     ]
   },
-  "was overwhelmed with": {
+  "be overwhelmed with": {
     "pos": "phr.",
     "en_def": "To receive or be faced with a huge number of physical things at once.",
     "cn_def": "被大量（某物）淹沒、收到多到無法應付的（某物）",
@@ -3481,7 +3481,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be overwhelmed with": {
+  "was overwhelmed with": {
     "pos": "phr.",
     "en_def": "To receive or be faced with a huge number of physical things at once.",
     "cn_def": "被大量（某物）淹沒、收到多到無法應付的（某物）",

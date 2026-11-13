@@ -110,7 +110,7 @@
   Object.entries(ZONES).forEach(([id, z]) => (window[z.global] || []).forEach(u => u.cards.forEach((c, i) => cards.set(`${z.prefix}-${u.unit}:${i}`, { ...c, zone: id, level: z.tag, name: z.name, unit: u.unit }))));
   document.addEventListener("DOMContentLoaded", () => {
     const sel = document.querySelector("#fLevel");
-    sel.replaceChildren(new Option("All 全部", ""), ...Object.entries(ZONES).map(([id, z]) => new Option(z.book === "liveabc35" ? "LiveABC " + z.short : z.book === "level3" ? "Level 3 " + z.short : z.short, id)));
+    sel.replaceChildren(new Option("All 全部", ""), ...Object.entries(ZONES).map(([id, z]) => new Option(z.book === "liveabc35" ? "LiveABC 3–5 " + z.short : z.book === "liveabc24" ? "LiveABC 2–4 " + z.short : z.book === "level3" ? "Level 3 " + z.short : z.short, id)));
   });
 
   const el = (tag, text, cls) => { const e = document.createElement(tag); if (text != null) e.textContent = text; if (cls) e.className = cls; return e; };

@@ -1169,7 +1169,7 @@ const LOOKUP = {
       }
     ]
   },
-  "discarded": {
+  "discard": {
     "pos": "v.",
     "en_def": "to throw something away because it is useless, broken, or no longer wanted",
     "cn_def": "丟棄；拋棄",
@@ -1181,7 +1181,7 @@ const LOOKUP = {
       }
     ]
   },
-  "discard": {
+  "discarded": {
     "pos": "v.",
     "en_def": "to throw something away because it is useless, broken, or no longer wanted",
     "cn_def": "丟棄；拋棄",
@@ -1205,6 +1205,18 @@ const LOOKUP = {
       }
     ]
   },
+  "issues": {
+    "pos": "n.",
+    "en_def": "an important topic or problem for debate; a particular edition of a magazine",
+    "cn_def": "議題；（刊物的）期號",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "an important topic or problem for debate; a particular edition of a magazine",
+        "cn_def": "議題；（刊物的）期號"
+      }
+    ]
+  },
   "issue": {
     "pos": "n.",
     "en_def": "an important topic or problem for debate; a particular edition of a magazine",
@@ -1219,18 +1231,6 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to officially produce, give out, or publish something for the public",
         "cn_def": "發行；發布；核發"
-      }
-    ]
-  },
-  "issues": {
-    "pos": "n.",
-    "en_def": "an important topic or problem for debate; a particular edition of a magazine",
-    "cn_def": "議題；（刊物的）期號",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "an important topic or problem for debate; a particular edition of a magazine",
-        "cn_def": "議題；（刊物的）期號"
       }
     ]
   },
@@ -1270,7 +1270,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ton": {
+  "tons": {
     "pos": "n.",
     "en_def": "a unit of weight equal to 1,000 kilograms; a very large amount",
     "cn_def": "噸；大量",
@@ -1282,7 +1282,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tons": {
+  "ton": {
     "pos": "n.",
     "en_def": "a unit of weight equal to 1,000 kilograms; a very large amount",
     "cn_def": "噸；大量",
@@ -1347,7 +1347,7 @@ const LOOKUP = {
       }
     ]
   },
-  "exclude": {
+  "excludes": {
     "pos": "v.",
     "en_def": "to deliberately prevent someone or something from entering a place or group",
     "cn_def": "排除；不包括",
@@ -1359,7 +1359,7 @@ const LOOKUP = {
       }
     ]
   },
-  "excludes": {
+  "exclude": {
     "pos": "v.",
     "en_def": "to deliberately prevent someone or something from entering a place or group",
     "cn_def": "排除；不包括",
@@ -1467,18 +1467,6 @@ const LOOKUP = {
       }
     ]
   },
-  "emission": {
-    "pos": "n.",
-    "en_def": "the production and discharge of something, especially gas or radiation",
-    "cn_def": "排放；排放物",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "the production and discharge of something, especially gas or radiation",
-        "cn_def": "排放；排放物"
-      }
-    ]
-  },
   "emissions": {
     "pos": "n.",
     "en_def": "the production and discharge of something, especially gas or radiation",
@@ -1491,7 +1479,19 @@ const LOOKUP = {
       }
     ]
   },
-  "intend to v": {
+  "emission": {
+    "pos": "n.",
+    "en_def": "the production and discharge of something, especially gas or radiation",
+    "cn_def": "排放；排放物",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "the production and discharge of something, especially gas or radiation",
+        "cn_def": "排放；排放物"
+      }
+    ]
+  },
+  "intend": {
     "pos": "v.",
     "en_def": "to have a plan or purpose in mind when performing an action",
     "cn_def": "打算；企圖",
@@ -1503,7 +1503,7 @@ const LOOKUP = {
       }
     ]
   },
-  "intend": {
+  "intend to v": {
     "pos": "v.",
     "en_def": "to have a plan or purpose in mind when performing an action",
     "cn_def": "打算；企圖",
@@ -1599,7 +1599,7 @@ const LOOKUP = {
       }
     ]
   },
-  "initiate": {
+  "initiated": {
     "pos": "v.",
     "en_def": "to cause a process or action to begin officially or formally",
     "cn_def": "開始；發起；創始",
@@ -1611,7 +1611,7 @@ const LOOKUP = {
       }
     ]
   },
-  "initiated": {
+  "initiate": {
     "pos": "v.",
     "en_def": "to cause a process or action to begin officially or formally",
     "cn_def": "開始；發起；創始",
@@ -1647,7 +1647,7 @@ const LOOKUP = {
       }
     ]
   },
-  "inspected": {
+  "inspect": {
     "pos": "v.",
     "en_def": "to look at something carefully, especially to check its quality or safety",
     "cn_def": "檢查；視察",
@@ -1659,7 +1659,7 @@ const LOOKUP = {
       }
     ]
   },
-  "inspect": {
+  "inspected": {
     "pos": "v.",
     "en_def": "to look at something carefully, especially to check its quality or safety",
     "cn_def": "檢查；視察",
@@ -1707,7 +1707,7 @@ const LOOKUP = {
       }
     ]
   },
-  "reflect on / upon": {
+  "reflect on": {
     "pos": "phr.",
     "en_def": "to think deeply and carefully about a past experience or decision",
     "cn_def": "認真思考；反省",
@@ -1719,7 +1719,7 @@ const LOOKUP = {
       }
     ]
   },
-  "reflect on": {
+  "reflect on / upon": {
     "pos": "phr.",
     "en_def": "to think deeply and carefully about a past experience or decision",
     "cn_def": "認真思考；反省",
@@ -1897,18 +1897,6 @@ const LOOKUP = {
       }
     ]
   },
-  "tempt": {
-    "pos": "v.",
-    "en_def": "to entice or try to invite someone to do something, especially something wrong",
-    "cn_def": "誘惑；引誘",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to entice or try to invite someone to do something, especially something wrong",
-        "cn_def": "誘惑；引誘"
-      }
-    ]
-  },
   "tempted": {
     "pos": "v.",
     "en_def": "to entice or try to invite someone to do something, especially something wrong",
@@ -1921,7 +1909,19 @@ const LOOKUP = {
       }
     ]
   },
-  "tempted to": {
+  "tempt": {
+    "pos": "v.",
+    "en_def": "to entice or try to invite someone to do something, especially something wrong",
+    "cn_def": "誘惑；引誘",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to entice or try to invite someone to do something, especially something wrong",
+        "cn_def": "誘惑；引誘"
+      }
+    ]
+  },
+  "be tempted to": {
     "pos": "phr.",
     "en_def": "to feel a strong desire to do something, especially something unwise",
     "cn_def": "很想做...；受誘惑去做...",
@@ -1933,7 +1933,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be tempted to": {
+  "tempted to": {
     "pos": "phr.",
     "en_def": "to feel a strong desire to do something, especially something unwise",
     "cn_def": "很想做...；受誘惑去做...",
@@ -1969,18 +1969,6 @@ const LOOKUP = {
       }
     ]
   },
-  "guidelines": {
-    "pos": "n.",
-    "en_def": "a general rule, principle, or piece of advice that guides behavior",
-    "cn_def": "指導方針；準則",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a general rule, principle, or piece of advice that guides behavior",
-        "cn_def": "指導方針；準則"
-      }
-    ]
-  },
   "guideline": {
     "pos": "n.",
     "en_def": "a general rule, principle, or piece of advice that guides behavior",
@@ -1993,7 +1981,19 @@ const LOOKUP = {
       }
     ]
   },
-  "gobbled": {
+  "guidelines": {
+    "pos": "n.",
+    "en_def": "a general rule, principle, or piece of advice that guides behavior",
+    "cn_def": "指導方針；準則",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a general rule, principle, or piece of advice that guides behavior",
+        "cn_def": "指導方針；準則"
+      }
+    ]
+  },
+  "gobble": {
     "pos": "v.",
     "en_def": "to eat something hurriedly and noisily, like an aggressive animal",
     "cn_def": "狼吞虎嚥",
@@ -2005,7 +2005,7 @@ const LOOKUP = {
       }
     ]
   },
-  "gobble": {
+  "gobbled": {
     "pos": "v.",
     "en_def": "to eat something hurriedly and noisily, like an aggressive animal",
     "cn_def": "狼吞虎嚥",

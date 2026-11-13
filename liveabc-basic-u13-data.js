@@ -1976,7 +1976,7 @@ const LOOKUP = {
       }
     ]
   },
-  "take another twist": {
+  "took another twist": {
     "pos": "phr.",
     "en_def": "to have a new, unexpected development.",
     "cn_def": "出現另一個轉折",
@@ -1988,7 +1988,7 @@ const LOOKUP = {
       }
     ]
   },
-  "took another twist": {
+  "take another twist": {
     "pos": "phr.",
     "en_def": "to have a new, unexpected development.",
     "cn_def": "出現另一個轉折",
@@ -2264,7 +2264,7 @@ const LOOKUP = {
       }
     ]
   },
-  "put emphasis on": {
+  "puts great emphasis on": {
     "pos": "phr.",
     "en_def": "to give special attention or importance to something.",
     "cn_def": "把重點放在...",
@@ -2276,7 +2276,7 @@ const LOOKUP = {
       }
     ]
   },
-  "puts great emphasis on": {
+  "put emphasis on": {
     "pos": "phr.",
     "en_def": "to give special attention or importance to something.",
     "cn_def": "把重點放在...",
@@ -2670,7 +2670,7 @@ const LOOKUP = {
       }
     ]
   },
-  "self-esteem": {
+  "self-esteem-self-esteem": {
     "pos": "n. [U]",
     "en_def": "The feeling of being satisfied with your own character, abilities, and value; self-respect.",
     "cn_def": "自尊（心）",
@@ -2682,7 +2682,7 @@ const LOOKUP = {
       }
     ]
   },
-  "self-esteem-self-esteem": {
+  "self-esteem": {
     "pos": "n. [U]",
     "en_def": "The feeling of being satisfied with your own character, abilities, and value; self-respect.",
     "cn_def": "自尊（心）",
@@ -2754,7 +2754,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be disappointed in": {
+  "is deeply disappointed in": {
     "pos": "phr.",
     "en_def": "to feel sadness or displeasure toward someone.",
     "cn_def": "對(某人)感到失望",
@@ -2766,7 +2766,7 @@ const LOOKUP = {
       }
     ]
   },
-  "is deeply disappointed in": {
+  "be disappointed in": {
     "pos": "phr.",
     "en_def": "to feel sadness or displeasure toward someone.",
     "cn_def": "對(某人)感到失望",

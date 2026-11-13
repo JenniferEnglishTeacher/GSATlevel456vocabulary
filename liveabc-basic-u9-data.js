@@ -2445,7 +2445,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bloom": {
+  "blooming": {
     "pos": "v. / n.",
     "en_def": "to produce flowers; a flower, especially one cultivated for its beauty.",
     "cn_def": "開花；花朵",
@@ -2457,7 +2457,7 @@ const LOOKUP = {
       }
     ]
   },
-  "blooming": {
+  "bloom": {
     "pos": "v. / n.",
     "en_def": "to produce flowers; a flower, especially one cultivated for its beauty.",
     "cn_def": "開花；花朵",
@@ -2493,7 +2493,7 @@ const LOOKUP = {
       }
     ]
   },
-  "thriving": {
+  "blooming / thriving": {
     "pos": "adj.",
     "en_def": "producing flowers; flourishing.",
     "cn_def": "盛開的；繁榮的",
@@ -2505,7 +2505,7 @@ const LOOKUP = {
       }
     ]
   },
-  "blooming / thriving": {
+  "thriving": {
     "pos": "adj.",
     "en_def": "producing flowers; flourishing.",
     "cn_def": "盛開的；繁榮的",
@@ -2673,18 +2673,6 @@ const LOOKUP = {
       }
     ]
   },
-  "view...as": {
-    "pos": "phr.",
-    "en_def": "To think about or consider someone or something in a particular way.",
-    "cn_def": "把…視為、將…看作",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "To think about or consider someone or something in a particular way.",
-        "cn_def": "把…視為、將…看作"
-      }
-    ]
-  },
   "view mistakes as": {
     "pos": "phr.",
     "en_def": "To think about or consider someone or something in a particular way.",
@@ -2697,7 +2685,19 @@ const LOOKUP = {
       }
     ]
   },
-  "see...as": {
+  "view...as": {
+    "pos": "phr.",
+    "en_def": "To think about or consider someone or something in a particular way.",
+    "cn_def": "把…視為、將…看作",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "To think about or consider someone or something in a particular way.",
+        "cn_def": "把…視為、將…看作"
+      }
+    ]
+  },
+  "see their parents as": {
     "pos": "phr.",
     "en_def": "To consider or regard someone or something in a specific way.",
     "cn_def": "把…看作、將…視為",
@@ -2709,7 +2709,7 @@ const LOOKUP = {
       }
     ]
   },
-  "see their parents as": {
+  "see...as": {
     "pos": "phr.",
     "en_def": "To consider or regard someone or something in a specific way.",
     "cn_def": "把…看作、將…視為",
@@ -2817,6 +2817,18 @@ const LOOKUP = {
       }
     ]
   },
+  "attach": {
+    "pos": "v.",
+    "en_def": "to fasten or join one thing to another.",
+    "cn_def": "貼上；附加",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to fasten or join one thing to another.",
+        "cn_def": "貼上；附加"
+      }
+    ]
+  },
   "attached": {
     "pos": "v.",
     "en_def": "to fasten or join one thing to another.",
@@ -2831,18 +2843,6 @@ const LOOKUP = {
         "pos": "adj.",
         "en_def": "joined, fastened, or connected to something.",
         "cn_def": "附上的；依戀的"
-      }
-    ]
-  },
-  "attach": {
-    "pos": "v.",
-    "en_def": "to fasten or join one thing to another.",
-    "cn_def": "貼上；附加",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to fasten or join one thing to another.",
-        "cn_def": "貼上；附加"
       }
     ]
   },
@@ -2935,7 +2935,7 @@ const LOOKUP = {
       }
     ]
   },
-  "has an excellent reputation for": {
+  "have a reputation for": {
     "pos": "phr.",
     "en_def": "to be known for a particular quality or characteristic.",
     "cn_def": "以...聞名/有...的名聲",
@@ -2947,7 +2947,7 @@ const LOOKUP = {
       }
     ]
   },
-  "have a reputation for": {
+  "has an excellent reputation for": {
     "pos": "phr.",
     "en_def": "to be known for a particular quality or characteristic.",
     "cn_def": "以...聞名/有...的名聲",
@@ -3055,7 +3055,7 @@ const LOOKUP = {
       }
     ]
   },
-  "originated from": {
+  "originate from": {
     "pos": "phr.",
     "en_def": "To come from a particular place, time, or situation; to have a specific beginning.",
     "cn_def": "源自、發源於",
@@ -3067,7 +3067,7 @@ const LOOKUP = {
       }
     ]
   },
-  "originate from": {
+  "originated from": {
     "pos": "phr.",
     "en_def": "To come from a particular place, time, or situation; to have a specific beginning.",
     "cn_def": "源自、發源於",
@@ -3377,7 +3377,7 @@ const LOOKUP = {
       }
     ]
   },
-  "convey": {
+  "conveyed": {
     "pos": "v.",
     "en_def": "to make an idea, impression, or feeling known or understandable to someone.",
     "cn_def": "傳達",
@@ -3389,7 +3389,7 @@ const LOOKUP = {
       }
     ]
   },
-  "conveyed": {
+  "convey": {
     "pos": "v.",
     "en_def": "to make an idea, impression, or feeling known or understandable to someone.",
     "cn_def": "傳達",

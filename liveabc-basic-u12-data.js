@@ -1654,7 +1654,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pests": {
+  "pest": {
     "pos": "n.",
     "en_def": "a destructive insect or other animal that attacks crops, food, livestock, etc.",
     "cn_def": "害蟲；有害動物",
@@ -1666,7 +1666,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pest": {
+  "pests": {
     "pos": "n.",
     "en_def": "a destructive insect or other animal that attacks crops, food, livestock, etc.",
     "cn_def": "害蟲；有害動物",
@@ -1813,6 +1813,18 @@ const LOOKUP = {
       }
     ]
   },
+  "swapped": {
+    "pos": "v.",
+    "en_def": "to take part in an exchange of.",
+    "cn_def": "交換",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to take part in an exchange of.",
+        "cn_def": "交換"
+      }
+    ]
+  },
   "swap": {
     "pos": "v.",
     "en_def": "to take part in an exchange of.",
@@ -1826,18 +1838,6 @@ const LOOKUP = {
       {
         "pos": "n.",
         "en_def": "an act of exchanging one thing for another.",
-        "cn_def": "交換"
-      }
-    ]
-  },
-  "swapped": {
-    "pos": "v.",
-    "en_def": "to take part in an exchange of.",
-    "cn_def": "交換",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to take part in an exchange of.",
         "cn_def": "交換"
       }
     ]

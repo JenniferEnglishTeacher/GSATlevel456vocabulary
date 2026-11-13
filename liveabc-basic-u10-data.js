@@ -2274,7 +2274,7 @@ const LOOKUP = {
       }
     ]
   },
-  "aging": {
+  "ageing / aging": {
     "pos": "adj.",
     "en_def": "Becoming older, or showing signs of growing old.",
     "cn_def": "變老的、高齡化的、老化的",
@@ -2286,7 +2286,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ageing / aging": {
+  "aging": {
     "pos": "adj.",
     "en_def": "Becoming older, or showing signs of growing old.",
     "cn_def": "變老的、高齡化的、老化的",
@@ -2430,7 +2430,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ban ...from": {
+  "ban private vehicles from": {
     "pos": "phr.",
     "en_def": "to officially or legally forbid someone from doing something, entering a place, or using a service",
     "cn_def": "禁止...做...",
@@ -2442,7 +2442,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ban private vehicles from": {
+  "ban ...from": {
     "pos": "phr.",
     "en_def": "to officially or legally forbid someone from doing something, entering a place, or using a service",
     "cn_def": "禁止...做...",
@@ -2502,7 +2502,7 @@ const LOOKUP = {
       }
     ]
   },
-  "inhibit the logistics workers from": {
+  "inhibit...from": {
     "pos": "phr.",
     "en_def": "to prevent, slow down, or hinder someone or something from making progress or developing naturally",
     "cn_def": "阻礙...做...；抑制...",
@@ -2514,7 +2514,7 @@ const LOOKUP = {
       }
     ]
   },
-  "inhibit...from": {
+  "inhibit the logistics workers from": {
     "pos": "phr.",
     "en_def": "to prevent, slow down, or hinder someone or something from making progress or developing naturally",
     "cn_def": "阻礙...做...；抑制...",
@@ -3167,7 +3167,7 @@ const LOOKUP = {
       }
     ]
   },
-  "transform": {
+  "transformed": {
     "pos": "v.",
     "en_def": "to make a thorough or dramatic change in the form, appearance, or character of.",
     "cn_def": "改變；改造",
@@ -3179,7 +3179,7 @@ const LOOKUP = {
       }
     ]
   },
-  "transformed": {
+  "transform": {
     "pos": "v.",
     "en_def": "to make a thorough or dramatic change in the form, appearance, or character of.",
     "cn_def": "改變；改造",
@@ -3472,7 +3472,7 @@ const LOOKUP = {
       }
     ]
   },
-  "relieve tension": {
+  "relieve the terrible physical tension": {
     "pos": "phr.",
     "en_def": "to reduce mental or emotional strain.",
     "cn_def": "緩解緊張",
@@ -3484,7 +3484,7 @@ const LOOKUP = {
       }
     ]
   },
-  "relieve the terrible physical tension": {
+  "relieve tension": {
     "pos": "phr.",
     "en_def": "to reduce mental or emotional strain.",
     "cn_def": "緩解緊張",

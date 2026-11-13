@@ -5,7 +5,7 @@ import json, random, re, sys
 R = json.load(open(sys.argv[1], encoding="utf8"))
 BE = {"is", "are", "was", "were", "be", "been", "being", "am"}
 MODAL = {"will", "would", "should", "can", "could", "may", "might", "must", "to", "shall", "not"}
-PLACEHOLDER = {"sth", "sb", "somebody", "something", "someone", "n", "v", "ving", "v-ing", "one's", "oneself", "...", "…"}
+PLACEHOLDER = {"sth", "sb", "somebody", "something", "someone", "n", "v", "ving", "v-ing", "one's", "oneself", "...", "…", "a...", "a…"}
 norm = lambda t: re.sub(r"\s+", " ", str(t).replace("’", "'")).strip()
 BLANKS = re.compile(r"_{3,}(?:\s+_{3,})*")
 # Sentences whose blanks are split and whose example sentence is worded differently: the text that fills the joined blank.
@@ -14,7 +14,9 @@ MANUAL = {("basic", 1, "be exposed to"): "are constantly exposed to", ("basic", 
 
 
 try:
-    from liveabc_manual import ANSWERS, SENTENCES, CN     # hand-checked answers, rewritten sentences, missing translations
+    BOOK = next((a[7:] for a in sys.argv if a.startswith("--book=")), "3-5")      # "3-5" or "2-4"
+    _m = __import__("liveabc_manual" if BOOK == "3-5" else "liveabc" + BOOK.replace("-", "") + "_manual")
+    ANSWERS, SENTENCES, CN = _m.ANSWERS, _m.SENTENCES, _m.CN     # hand-checked answers, rewritten sentences, missing translations
 except ImportError:
     ANSWERS, SENTENCES, CN = {}, {}, {}
 REVIEW = "--review" in sys.argv
@@ -204,12 +206,24 @@ for lv, units in R.items():
                 cn = re.sub(r"(?:完全|高度|極其|極度|絕對|徹底|深深|重度)地?(?=[^，。、])", "", cn)
             sent = re.sub(r"\b([A-Za-z]{4,}) \1\b", r"\1", re.sub(r"\s+([,.;:!?])", r"\1", cleaned))
             cn = cn or CN.get((lv, int(u), key), "")
-            if (lv, int(u), key) in SENTENCES:
-                if SENTENCES[(lv, int(u), key)] is None:
+            mkey = (lv, int(u), key) if (lv, int(u), key) in SENTENCES or (lv, int(u), key) in ANSWERS else (lv, int(u), len(entries))
+            sent = re.sub(r"(_{3,})(?!(?:s|es|ies|ed|d|ing)\b)(?=[A-Za-z])", r"\1 ", sent) if BOOK != "3-5" else sent      # "__________children"
+            if mkey in SENTENCES:
+                if SENTENCES[mkey] is None:
                     continue
-                sent, cn = SENTENCES[(lv, int(u), key)]
+                sent, cn = SENTENCES[mkey]
             info = d["DEFS"].get(key) or {}
             base = re.sub(r"__\d+$", "", key)
+            if BOOK != "3-5" and info.get("word"):        # LiveABC 2-4 keys: credit_card, tame_2 (the word is in DEFS)
+                base = norm(info["word"]).replace("…", "...")
+                base = re.sub(r"\s*\((?:n|v|adj|adv)\)$", "", base)
+                base = re.sub(r"\s*\((?:n|v|adj|adv)\.?\)", "", base)
+                if "Industrial Revolution" not in base:      # stray capitals: "gain Weight", "A Blessing in Disguise"
+                    base = re.sub(r"\b[A-Z][a-z]+\b", lambda m: m.group(0).lower(), base)
+                base = re.sub(r"\s*=\s*", " / ", base)
+                vf2 = re.fullmatch(r"([a-z]+)\s*[-–]\s*([a-z]+)\s*[-–]\s*([a-z]+)", base)
+                if vf2:                                   # "lie - lay-lain", "sting–stung–stung"
+                    base = f"{vf2.group(1)} ({vf2.group(1)}, {vf2.group(2)}, {vf2.group(3)})"
             fm = re.search(r"\(([^)]*,[^)]*)\)", base)                      # "withdraw (withdraw, withdrew, withdrawn)"
             forms = fm.group(1).replace(", ", " / ") if fm else ""
             word = norm(re.sub(r"\([^)]*,[^)]*\)", "", base))
@@ -221,7 +235,7 @@ for lv, units in R.items():
             word = word.replace("showexpress", "show/express").replace("withto", "with/to")
             kw = [w for w in re.split(r"\s+", re.sub(r"\.{2,}|…|\(.*?\)", " ", word)) if w]
             parts = BLANKS.split(sent)
-            ex = norm(info.get("ex", ""))
+            ex = norm(info.get("ex", "")) if BOOK == "3-5" else ""     # the 2-4 examples only repeat the headword
             K = [w for w in kw if w.lower() not in PLACEHOLDER and not re.fullmatch(r"[AB]", w)]
             if len(parts) == 1:
                 m = re.search(r"\b" + re.escape(word) + r"\b", sent)
@@ -294,8 +308,8 @@ for lv, units in R.items():
             first = ans.split(" ")[0] if ans else ""
             is_verb = info.get("cat") == "v" or (info.get("cat") == "phr" and norm(info.get("en", "")).lower().startswith("to ") and first.lower() == (K[0].lower() if K else "") and first.lower() not in {"in", "on", "at", "by", "for", "with", "to", "of", "as", "a", "an", "the", "out", "under", "beyond"})
             guess = None
-            if (lv, int(u), key) in ANSWERS:
-                ans = ANSWERS[(lv, int(u), key)]
+            if mkey in ANSWERS:
+                ans = ANSWERS[mkey]
             elif is_verb and first and first.lower() == K[0].lower() and first.lower() not in BE:
                 form, sure = verb_form(one)
                 new = (conj(first, form) + ans[len(first):]) if form != "base" else ans
@@ -318,7 +332,7 @@ for lv, units in R.items():
                 continue
             seen.add((word.lower(), one))
             e = {"word": word, "pos": re.sub(r"[()]", "", info.get("pos", "")).strip() or info.get("cat", ""), "cat": info.get("cat", ""),
-                 "cn_def": norm(info.get("cn", "")), "en_def": norm(info.get("en", "")), "sentence": one, "cn": cn}
+                 "cn_def": norm(info.get("cn", "")), "en_def": "" if info.get("en", "").startswith("a vocabulary item meaning") else re.sub(r":\.$", ".", norm(info.get("en", ""))), "sentence": one, "cn": cn}
             if forms:
                 e["forms"] = forms
             if ans != word:
@@ -348,7 +362,7 @@ for lv, units in R.items():
         for e in entries:
             e.pop("cat", None)
         theme = f'{entries[0]["word"]} – {entries[-1]["word"]}'
-        out[lv][u] = {"generated": True, "theme": theme, "QUIZ_CONFIG": {"groupName": f"LiveABC 3-5 {lv.title()} U{u} - {theme}", "gasEndpoint": GAS},
+        out[lv][u] = {"generated": True, "theme": theme, "QUIZ_CONFIG": {"groupName": f"LiveABC {BOOK} {lv.title()} U{u} - {theme}", "gasEndpoint": GAS},
                       "VOCAB": entries, "MCQS": mcqs, "LOOKUP": lookup, "EXTRA_GLOSSES": {}}
     print(lv, "units", len(out[lv]), "entries", sum(len(g["VOCAB"]) for g in out[lv].values()), [len(g["VOCAB"]) for g in out[lv].values()])
 json.dump(out, open(sys.argv[2], "w", encoding="utf8"), ensure_ascii=False)

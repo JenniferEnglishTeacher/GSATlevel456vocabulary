@@ -1531,18 +1531,6 @@ const LOOKUP = {
       }
     ]
   },
-  "a fire drill / fire drill": {
-    "pos": "n.",
-    "en_def": "a practice period practicing the exact actions to take if a dangerous building catch fire",
-    "cn_def": "消防演習",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a practice period practicing the exact actions to take if a dangerous building catch fire",
-        "cn_def": "消防演習"
-      }
-    ]
-  },
   "a fire drill": {
     "pos": "n.",
     "en_def": "a practice period practicing the exact actions to take if a dangerous building catch fire",
@@ -1555,7 +1543,19 @@ const LOOKUP = {
       }
     ]
   },
-  "electric drill": {
+  "a fire drill / fire drill": {
+    "pos": "n.",
+    "en_def": "a practice period practicing the exact actions to take if a dangerous building catch fire",
+    "cn_def": "消防演習",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a practice period practicing the exact actions to take if a dangerous building catch fire",
+        "cn_def": "消防演習"
+      }
+    ]
+  },
+  "electric drill / power drill": {
     "pos": "n.",
     "en_def": "a hand-held tool with a rotating cutting tip used for making holes in hard substances",
     "cn_def": "電鑽",
@@ -1567,7 +1567,7 @@ const LOOKUP = {
       }
     ]
   },
-  "electric drill / power drill": {
+  "electric drill": {
     "pos": "n.",
     "en_def": "a hand-held tool with a rotating cutting tip used for making holes in hard substances",
     "cn_def": "電鑽",
@@ -1673,7 +1673,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be occupied with": {
+  "be fully occupied with": {
     "pos": "phr.",
     "en_def": "to be exceptionally busy with, completely focused on, or deeply engaged in a specific task",
     "cn_def": "忙於...；專注於...",
@@ -1685,7 +1685,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be fully occupied with": {
+  "be occupied with": {
     "pos": "phr.",
     "en_def": "to be exceptionally busy with, completely focused on, or deeply engaged in a specific task",
     "cn_def": "忙於...；專注於...",
@@ -1750,7 +1750,7 @@ const LOOKUP = {
       }
     ]
   },
-  "recited": {
+  "recite": {
     "pos": "v.",
     "en_def": "to repeat aloud a piece of text or a poem from memory before an audience",
     "cn_def": "朗誦；背誦",
@@ -1762,7 +1762,7 @@ const LOOKUP = {
       }
     ]
   },
-  "recite": {
+  "recited": {
     "pos": "v.",
     "en_def": "to repeat aloud a piece of text or a poem from memory before an audience",
     "cn_def": "朗誦；背誦",
@@ -1846,18 +1846,6 @@ const LOOKUP = {
       }
     ]
   },
-  "retain": {
-    "pos": "v.",
-    "en_def": "to continue to have something; to keep in mind or possess securely",
-    "cn_def": "保留；保持；記住",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to continue to have something; to keep in mind or possess securely",
-        "cn_def": "保留；保持；記住"
-      }
-    ]
-  },
   "retained": {
     "pos": "v.",
     "en_def": "to continue to have something; to keep in mind or possess securely",
@@ -1870,7 +1858,19 @@ const LOOKUP = {
       }
     ]
   },
-  "retain complex vocabulary memory": {
+  "retain": {
+    "pos": "v.",
+    "en_def": "to continue to have something; to keep in mind or possess securely",
+    "cn_def": "保留；保持；記住",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to continue to have something; to keep in mind or possess securely",
+        "cn_def": "保留；保持；記住"
+      }
+    ]
+  },
+  "retain memory": {
     "pos": "phr.",
     "en_def": "to continue to keep, hold, or remember pieces of information or past experiences over time",
     "cn_def": "保留記憶；記住",
@@ -1882,7 +1882,7 @@ const LOOKUP = {
       }
     ]
   },
-  "retain memory": {
+  "retain complex vocabulary memory": {
     "pos": "phr.",
     "en_def": "to continue to keep, hold, or remember pieces of information or past experiences over time",
     "cn_def": "保留記憶；記住",
@@ -2062,7 +2062,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be crammed with": {
+  "crammed with": {
     "pos": "phr.",
     "en_def": "to be completely filled or crowded with a large number of people or objects",
     "cn_def": "擠滿了...；塞滿了...",
@@ -2074,7 +2074,7 @@ const LOOKUP = {
       }
     ]
   },
-  "crammed with": {
+  "be crammed with": {
     "pos": "phr.",
     "en_def": "to be completely filled or crowded with a large number of people or objects",
     "cn_def": "擠滿了...；塞滿了...",
@@ -2134,7 +2134,7 @@ const LOOKUP = {
       }
     ]
   },
-  "laid the foundations for": {
+  "lay the foundations for": {
     "pos": "phr.",
     "en_def": "to create a reliable basic structure that allows future developments to succeed",
     "cn_def": "為...奠定基礎",
@@ -2146,7 +2146,7 @@ const LOOKUP = {
       }
     ]
   },
-  "lay the foundations for": {
+  "laid the foundations for": {
     "pos": "phr.",
     "en_def": "to create a reliable basic structure that allows future developments to succeed",
     "cn_def": "為...奠定基礎",

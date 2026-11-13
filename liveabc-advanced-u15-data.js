@@ -1449,7 +1449,7 @@ const LOOKUP = {
       }
     ]
   },
-  "protect our valuable crops from": {
+  "protect from": {
     "pos": "phr.",
     "en_def": "to provide safety and prevent harm from a specific physical threat",
     "cn_def": "保護...免受...",
@@ -1461,7 +1461,7 @@ const LOOKUP = {
       }
     ]
   },
-  "protect from": {
+  "protect our valuable crops from": {
     "pos": "phr.",
     "en_def": "to provide safety and prevent harm from a specific physical threat",
     "cn_def": "保護...免受...",
@@ -1584,7 +1584,7 @@ const LOOKUP = {
       }
     ]
   },
-  "keep somebody awake": {
+  "kept me awake": {
     "pos": "phr.",
     "en_def": "to cause a person to remain awake, preventing them from falling asleep",
     "cn_def": "讓某人保持清醒",
@@ -1596,7 +1596,7 @@ const LOOKUP = {
       }
     ]
   },
-  "kept me awake": {
+  "keep somebody awake": {
     "pos": "phr.",
     "en_def": "to cause a person to remain awake, preventing them from falling asleep",
     "cn_def": "讓某人保持清醒",
@@ -1620,7 +1620,7 @@ const LOOKUP = {
       }
     ]
   },
-  "awoke linda to": {
+  "awake to": {
     "pos": "phr.",
     "en_def": "to become fully aware of a specific reality, danger, or opportunity",
     "cn_def": "意識到...",
@@ -1632,7 +1632,7 @@ const LOOKUP = {
       }
     ]
   },
-  "awake to": {
+  "awoke linda to": {
     "pos": "phr.",
     "en_def": "to become fully aware of a specific reality, danger, or opportunity",
     "cn_def": "意識到...",
@@ -1692,7 +1692,7 @@ const LOOKUP = {
       }
     ]
   },
-  "developed a fondness for": {
+  "develop a fondness for": {
     "pos": "phr.",
     "en_def": "to gradually begin to like a specific thing or activity over time",
     "cn_def": "培養對...的喜愛",
@@ -1704,7 +1704,7 @@ const LOOKUP = {
       }
     ]
   },
-  "develop a fondness for": {
+  "developed a fondness for": {
     "pos": "phr.",
     "en_def": "to gradually begin to like a specific thing or activity over time",
     "cn_def": "培養對...的喜愛",
@@ -1776,18 +1776,6 @@ const LOOKUP = {
       }
     ]
   },
-  "victim": {
-    "pos": "n.",
-    "en_def": "a person harmed, injured, or killed as a result of a crime, accident, or event",
-    "cn_def": "受害者",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a person harmed, injured, or killed as a result of a crime, accident, or event",
-        "cn_def": "受害者"
-      }
-    ]
-  },
   "victims": {
     "pos": "n.",
     "en_def": "a person harmed, injured, or killed as a result of a crime, accident, or event",
@@ -1800,7 +1788,19 @@ const LOOKUP = {
       }
     ]
   },
-  "fall victim to": {
+  "victim": {
+    "pos": "n.",
+    "en_def": "a person harmed, injured, or killed as a result of a crime, accident, or event",
+    "cn_def": "受害者",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a person harmed, injured, or killed as a result of a crime, accident, or event",
+        "cn_def": "受害者"
+      }
+    ]
+  },
+  "fell victim to": {
     "pos": "phr.",
     "en_def": "to be harmed, destroyed, or severely affected by a bad situation",
     "cn_def": "成為...的受害者",
@@ -1812,7 +1812,7 @@ const LOOKUP = {
       }
     ]
   },
-  "fell victim to": {
+  "fall victim to": {
     "pos": "phr.",
     "en_def": "to be harmed, destroyed, or severely affected by a bad situation",
     "cn_def": "成為...的受害者",
@@ -1884,18 +1884,6 @@ const LOOKUP = {
       }
     ]
   },
-  "brakes": {
-    "pos": "n.",
-    "en_def": "a mechanical device for slowing or stopping a moving vehicle or wheel",
-    "cn_def": "煞車",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a mechanical device for slowing or stopping a moving vehicle or wheel",
-        "cn_def": "煞車"
-      }
-    ]
-  },
   "brake": {
     "pos": "n.",
     "en_def": "a mechanical device for slowing or stopping a moving vehicle or wheel",
@@ -1910,6 +1898,18 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to slow down or stop a moving vehicle by using a mechanical device",
         "cn_def": "踩煞車；減速"
+      }
+    ]
+  },
+  "brakes": {
+    "pos": "n.",
+    "en_def": "a mechanical device for slowing or stopping a moving vehicle or wheel",
+    "cn_def": "煞車",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a mechanical device for slowing or stopping a moving vehicle or wheel",
+        "cn_def": "煞車"
       }
     ]
   },
@@ -1973,7 +1973,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tend to": {
+  "tend to v": {
     "pos": "phr.",
     "en_def": "to be likely to behave in a particular way or have a specific characteristic",
     "cn_def": "傾向於...；往往會...",
@@ -1985,7 +1985,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tend to v": {
+  "tend to": {
     "pos": "phr.",
     "en_def": "to be likely to behave in a particular way or have a specific characteristic",
     "cn_def": "傾向於...；往往會...",
@@ -2062,7 +2062,7 @@ const LOOKUP = {
       }
     ]
   },
-  "scanned": {
+  "scan": {
     "pos": "v.",
     "en_def": "to look at something carefully to find a feature, or to use an electronic device to gather data",
     "cn_def": "掃描；細看；瀏覽",
@@ -2074,7 +2074,7 @@ const LOOKUP = {
       }
     ]
   },
-  "scan": {
+  "scanned": {
     "pos": "v.",
     "en_def": "to look at something carefully to find a feature, or to use an electronic device to gather data",
     "cn_def": "掃描；細看；瀏覽",
@@ -2122,6 +2122,18 @@ const LOOKUP = {
       }
     ]
   },
+  "substitute...for": {
+    "pos": "v.",
+    "en_def": "to use a person or object in place of another for a specific purpose",
+    "cn_def": "代替；替換",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to use a person or object in place of another for a specific purpose",
+        "cn_def": "代替；替換"
+      }
+    ]
+  },
   "substitute": {
     "pos": "v.",
     "en_def": "to use a person or object in place of another for a specific purpose",
@@ -2139,18 +2151,6 @@ const LOOKUP = {
       }
     ]
   },
-  "substitute...for": {
-    "pos": "v.",
-    "en_def": "to use a person or object in place of another for a specific purpose",
-    "cn_def": "代替；替換",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to use a person or object in place of another for a specific purpose",
-        "cn_def": "代替；替換"
-      }
-    ]
-  },
   "substitutes": {
     "pos": "n.",
     "en_def": "a person or thing acting or used in place of another",
@@ -2163,7 +2163,7 @@ const LOOKUP = {
       }
     ]
   },
-  "warn": {
+  "warned": {
     "pos": "v.",
     "en_def": "to inform someone in advance of an impending danger, threat, or problem",
     "cn_def": "警告；提醒",
@@ -2175,7 +2175,7 @@ const LOOKUP = {
       }
     ]
   },
-  "warned": {
+  "warn": {
     "pos": "v.",
     "en_def": "to inform someone in advance of an impending danger, threat, or problem",
     "cn_def": "警告；提醒",
@@ -2300,7 +2300,7 @@ const LOOKUP = {
       }
     ]
   },
-  "grabbed": {
+  "grab": {
     "pos": "v.",
     "en_def": "to take hold of something suddenly and roughly or forcefully",
     "cn_def": "抓取；奪取",
@@ -2312,7 +2312,7 @@ const LOOKUP = {
       }
     ]
   },
-  "grab": {
+  "grabbed": {
     "pos": "v.",
     "en_def": "to take hold of something suddenly and roughly or forcefully",
     "cn_def": "抓取；奪取",
@@ -2384,18 +2384,6 @@ const LOOKUP = {
       }
     ]
   },
-  "committed": {
-    "pos": "v.",
-    "en_def": "to perform an illegal act or a crime; to pledge or bind oneself to a certain course",
-    "cn_def": "犯（罪）；承擔義務；致力於",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to perform an illegal act or a crime; to pledge or bind oneself to a certain course",
-        "cn_def": "犯（罪）；承擔義務；致力於"
-      }
-    ]
-  },
   "commit": {
     "pos": "v.",
     "en_def": "to perform an illegal act or a crime; to pledge or bind oneself to a certain course",
@@ -2408,7 +2396,19 @@ const LOOKUP = {
       }
     ]
   },
-  "commit a crime": {
+  "committed": {
+    "pos": "v.",
+    "en_def": "to perform an illegal act or a crime; to pledge or bind oneself to a certain course",
+    "cn_def": "犯（罪）；承擔義務；致力於",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to perform an illegal act or a crime; to pledge or bind oneself to a certain course",
+        "cn_def": "犯（罪）；承擔義務；致力於"
+      }
+    ]
+  },
+  "committed a crime": {
     "pos": "phr.",
     "en_def": "to perform an action that violates the official laws of a country",
     "cn_def": "犯罪",
@@ -2420,7 +2420,7 @@ const LOOKUP = {
       }
     ]
   },
-  "committed a crime": {
+  "commit a crime": {
     "pos": "phr.",
     "en_def": "to perform an action that violates the official laws of a country",
     "cn_def": "犯罪",
@@ -2444,18 +2444,6 @@ const LOOKUP = {
       }
     ]
   },
-  "committed himself to": {
-    "pos": "phr.",
-    "en_def": "to pledge your time, energy, or loyalty completely to a specific task or person",
-    "cn_def": "讓自己致力於...",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "to pledge your time, energy, or loyalty completely to a specific task or person",
-        "cn_def": "讓自己致力於..."
-      }
-    ]
-  },
   "commit oneself to": {
     "pos": "phr.",
     "en_def": "to pledge your time, energy, or loyalty completely to a specific task or person",
@@ -2468,7 +2456,19 @@ const LOOKUP = {
       }
     ]
   },
-  "be committed to": {
+  "committed himself to": {
+    "pos": "phr.",
+    "en_def": "to pledge your time, energy, or loyalty completely to a specific task or person",
+    "cn_def": "讓自己致力於...",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to pledge your time, energy, or loyalty completely to a specific task or person",
+        "cn_def": "讓自己致力於..."
+      }
+    ]
+  },
+  "committed to": {
     "pos": "phr.",
     "en_def": "to be completely loyal to a specific plan, relationship, or course of action",
     "cn_def": "致力於...；有堅定承諾的",
@@ -2480,7 +2480,7 @@ const LOOKUP = {
       }
     ]
   },
-  "committed to": {
+  "be committed to": {
     "pos": "phr.",
     "en_def": "to be completely loyal to a specific plan, relationship, or course of action",
     "cn_def": "致力於...；有堅定承諾的",
@@ -2516,7 +2516,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be devoted to": {
+  "devoted to": {
     "pos": "phr.",
     "en_def": "to give all or most of your time, affection, or resources to a choice cause",
     "cn_def": "傾注於...；深愛...",
@@ -2528,7 +2528,7 @@ const LOOKUP = {
       }
     ]
   },
-  "devoted to": {
+  "be devoted to": {
     "pos": "phr.",
     "en_def": "to give all or most of your time, affection, or resources to a choice cause",
     "cn_def": "傾注於...；深愛...",

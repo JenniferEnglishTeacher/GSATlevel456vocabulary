@@ -2398,7 +2398,7 @@ const LOOKUP = {
       }
     ]
   },
-  "deserves": {
+  "deserve": {
     "pos": "v.",
     "en_def": "to be worthy of or earned a specific treatment, reward, or punishment due to actions",
     "cn_def": "值得；應得",
@@ -2410,7 +2410,7 @@ const LOOKUP = {
       }
     ]
   },
-  "deserve": {
+  "deserves": {
     "pos": "v.",
     "en_def": "to be worthy of or earned a specific treatment, reward, or punishment due to actions",
     "cn_def": "值得；應得",
@@ -2530,18 +2530,6 @@ const LOOKUP = {
       }
     ]
   },
-  "wages": {
-    "pos": "n.",
-    "en_def": "a person who works for a regular wage, especially as the main support of a family",
-    "cn_def": "靠薪資生活的人",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a person who works for a regular wage, especially as the main support of a family",
-        "cn_def": "靠薪資生活的人"
-      }
-    ]
-  },
   "wage earner": {
     "pos": "n.",
     "en_def": "a person who works for a regular wage, especially as the main support of a family",
@@ -2554,7 +2542,19 @@ const LOOKUP = {
       }
     ]
   },
-  "salaries": {
+  "wages": {
+    "pos": "n.",
+    "en_def": "a person who works for a regular wage, especially as the main support of a family",
+    "cn_def": "靠薪資生活的人",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a person who works for a regular wage, especially as the main support of a family",
+        "cn_def": "靠薪資生活的人"
+      }
+    ]
+  },
+  "salary": {
     "pos": "n.",
     "en_def": "a fixed regular payment, typically paid on a monthly basis to professional workers",
     "cn_def": "薪水（通常指固定月薪或年薪）",
@@ -2566,7 +2566,7 @@ const LOOKUP = {
       }
     ]
   },
-  "salary": {
+  "salaries": {
     "pos": "n.",
     "en_def": "a fixed regular payment, typically paid on a monthly basis to professional workers",
     "cn_def": "薪水（通常指固定月薪或年薪）",
@@ -2626,7 +2626,7 @@ const LOOKUP = {
       }
     ]
   },
-  "make profit": {
+  "make profit / make a profit": {
     "pos": "phr.",
     "en_def": "to earn more money than you spend on producing, buying, or selling goods or services",
     "cn_def": "獲利；賺取利潤",
@@ -2638,7 +2638,7 @@ const LOOKUP = {
       }
     ]
   },
-  "make profit / make a profit": {
+  "make profit": {
     "pos": "phr.",
     "en_def": "to earn more money than you spend on producing, buying, or selling goods or services",
     "cn_def": "獲利；賺取利潤",
@@ -2811,7 +2811,7 @@ const LOOKUP = {
       }
     ]
   },
-  "protesters": {
+  "protester": {
     "pos": "n.",
     "en_def": "a person who publicly demonstrates to object to a specific policy or rule",
     "cn_def": "抗議者",
@@ -2823,7 +2823,7 @@ const LOOKUP = {
       }
     ]
   },
-  "protester": {
+  "protesters": {
     "pos": "n.",
     "en_def": "a person who publicly demonstrates to object to a specific policy or rule",
     "cn_def": "抗議者",
@@ -2864,7 +2864,7 @@ const LOOKUP = {
       }
     ]
   },
-  "demonstrator": {
+  "demonstrators": {
     "pos": "n.",
     "en_def": "a person who takes part in a public protest meeting or march",
     "cn_def": "示威者",
@@ -2876,7 +2876,7 @@ const LOOKUP = {
       }
     ]
   },
-  "demonstrators": {
+  "demonstrator": {
     "pos": "n.",
     "en_def": "a person who takes part in a public protest meeting or march",
     "cn_def": "示威者",
@@ -3181,7 +3181,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bumped": {
+  "bump": {
     "pos": "v.",
     "en_def": "to knock or run into something with a jolt; to upgrade someone's status",
     "cn_def": "碰撞；升等",
@@ -3193,7 +3193,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bump": {
+  "bumped": {
     "pos": "v.",
     "en_def": "to knock or run into something with a jolt; to upgrade someone's status",
     "cn_def": "碰撞；升等",
@@ -3318,7 +3318,7 @@ const LOOKUP = {
       }
     ]
   },
-  "yielded my seat on the train to": {
+  "yield one's seat to": {
     "pos": "phr.",
     "en_def": "to give up your seat on a bus or train to a person who needs it more",
     "cn_def": "讓座給...",
@@ -3330,7 +3330,7 @@ const LOOKUP = {
       }
     ]
   },
-  "yield one's seat to": {
+  "yielded my seat on the train to": {
     "pos": "phr.",
     "en_def": "to give up your seat on a bus or train to a person who needs it more",
     "cn_def": "讓座給...",

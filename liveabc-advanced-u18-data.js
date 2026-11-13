@@ -1661,7 +1661,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pray": {
+  "prayed": {
     "pos": "v.",
     "en_def": "to speak to a god or a holy power to give thanks or ask for help",
     "cn_def": "祈禱；祈求",
@@ -1673,7 +1673,7 @@ const LOOKUP = {
       }
     ]
   },
-  "prayed": {
+  "pray": {
     "pos": "v.",
     "en_def": "to speak to a god or a holy power to give thanks or ask for help",
     "cn_def": "祈禱；祈求",
@@ -1959,7 +1959,7 @@ const LOOKUP = {
       }
     ]
   },
-  "religious belief": {
+  "religious beliefs": {
     "pos": "n.",
     "en_def": "a firm spiritual conviction or faith that is based on a specific religion",
     "cn_def": "宗教信仰",
@@ -1971,7 +1971,7 @@ const LOOKUP = {
       }
     ]
   },
-  "religious beliefs": {
+  "religious belief": {
     "pos": "n.",
     "en_def": "a firm spiritual conviction or faith that is based on a specific religion",
     "cn_def": "宗教信仰",
@@ -2113,7 +2113,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tactic": {
+  "tactics": {
     "pos": "n.",
     "en_def": "a specific action or method planned to achieve a short-term goal",
     "cn_def": "戰術；策略；手法",
@@ -2125,7 +2125,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tactics": {
+  "tactic": {
     "pos": "n.",
     "en_def": "a specific action or method planned to achieve a short-term goal",
     "cn_def": "戰術；策略；手法",
@@ -2315,18 +2315,6 @@ const LOOKUP = {
       }
     ]
   },
-  "particles": {
-    "pos": "n.",
-    "en_def": "a minute portion of matter; a very small piece of something",
-    "cn_def": "微粒；顆粒",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a minute portion of matter; a very small piece of something",
-        "cn_def": "微粒；顆粒"
-      }
-    ]
-  },
   "particle": {
     "pos": "n.",
     "en_def": "a minute portion of matter; a very small piece of something",
@@ -2339,7 +2327,19 @@ const LOOKUP = {
       }
     ]
   },
-  "dust particles": {
+  "particles": {
+    "pos": "n.",
+    "en_def": "a minute portion of matter; a very small piece of something",
+    "cn_def": "微粒；顆粒",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a minute portion of matter; a very small piece of something",
+        "cn_def": "微粒；顆粒"
+      }
+    ]
+  },
+  "dust particle": {
     "pos": "n.",
     "en_def": "a tiny speck of dry solid matter floating around in the atmosphere",
     "cn_def": "灰塵微粒",
@@ -2351,7 +2351,7 @@ const LOOKUP = {
       }
     ]
   },
-  "dust particle": {
+  "dust particles": {
     "pos": "n.",
     "en_def": "a tiny speck of dry solid matter floating around in the atmosphere",
     "cn_def": "灰塵微粒",
@@ -2522,7 +2522,7 @@ const LOOKUP = {
       }
     ]
   },
-  "come to the realization": {
+  "came to the realization": {
     "pos": "phr.",
     "en_def": "to gradually understand or become aware of a specific fact or situation",
     "cn_def": "意識到；明白",
@@ -2534,7 +2534,7 @@ const LOOKUP = {
       }
     ]
   },
-  "came to the realization": {
+  "come to the realization": {
     "pos": "phr.",
     "en_def": "to gradually understand or become aware of a specific fact or situation",
     "cn_def": "意識到；明白",
@@ -2594,7 +2594,7 @@ const LOOKUP = {
       }
     ]
   },
-  "unfeasible / infeasible": {
+  "unfeasible": {
     "pos": "adj.",
     "en_def": "not practical or convenient; impossible to achieve successfully under a specific framework",
     "cn_def": "不可行的",
@@ -2606,7 +2606,7 @@ const LOOKUP = {
       }
     ]
   },
-  "unfeasible": {
+  "unfeasible / infeasible": {
     "pos": "adj.",
     "en_def": "not practical or convenient; impossible to achieve successfully under a specific framework",
     "cn_def": "不可行的",

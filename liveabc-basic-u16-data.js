@@ -3812,23 +3812,6 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "collapsed": {
-    "pos": "v.",
-    "en_def": "to fall down or give way suddenly.",
-    "cn_def": "倒塌；崩潰",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to fall down or give way suddenly.",
-        "cn_def": "倒塌；崩潰"
-      },
-      {
-        "pos": "phr.",
-        "en_def": "A person suddenly falling down and often becoming unconscious because they are very sick, exhausted, or weak.",
-        "cn_def": "（人）暈倒、不支倒地"
-      }
-    ]
-  },
   "collapse": {
     "pos": "v.",
     "en_def": "to fall down or give way suddenly.",
@@ -3848,6 +3831,23 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "To suddenly fall down, cave in, or fail completely due to weakness, damage, or illness.",
         "cn_def": "倒塌、崩潰、暈倒"
+      }
+    ]
+  },
+  "collapsed": {
+    "pos": "v.",
+    "en_def": "to fall down or give way suddenly.",
+    "cn_def": "倒塌；崩潰",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to fall down or give way suddenly.",
+        "cn_def": "倒塌；崩潰"
+      },
+      {
+        "pos": "phr.",
+        "en_def": "A person suddenly falling down and often becoming unconscious because they are very sick, exhausted, or weak.",
+        "cn_def": "（人）暈倒、不支倒地"
       }
     ]
   },
@@ -3875,7 +3875,7 @@ const LOOKUP = {
       }
     ]
   },
-  "a building collapses": {
+  "a building collapsed": {
     "pos": "phr.",
     "en_def": "A structure suddenly falling down or caving in because of an earthquake, weak foundation, or severe damage.",
     "cn_def": "建築物倒塌",
@@ -3887,7 +3887,7 @@ const LOOKUP = {
       }
     ]
   },
-  "a building collapsed": {
+  "a building collapses": {
     "pos": "phr.",
     "en_def": "A structure suddenly falling down or caving in because of an earthquake, weak foundation, or severe damage.",
     "cn_def": "建築物倒塌",
@@ -4168,7 +4168,7 @@ const LOOKUP = {
       }
     ]
   },
-  "is fully equipped with": {
+  "be equipped with": {
     "pos": "phr.",
     "en_def": "to be provided with a particular feature or equipment.",
     "cn_def": "配備有...",
@@ -4180,7 +4180,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be equipped with": {
+  "is fully equipped with": {
     "pos": "phr.",
     "en_def": "to be provided with a particular feature or equipment.",
     "cn_def": "配備有...",
@@ -4490,6 +4490,18 @@ const LOOKUP = {
       }
     ]
   },
+  "spill": {
+    "pos": "v.",
+    "en_def": "to cause or allow liquid to flow over the edge of its container.",
+    "cn_def": "灑出",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to cause or allow liquid to flow over the edge of its container.",
+        "cn_def": "灑出"
+      }
+    ]
+  },
   "spilled": {
     "pos": "v.",
     "en_def": "to cause or allow liquid to flow over the edge of its container.",
@@ -4504,18 +4516,6 @@ const LOOKUP = {
         "pos": "adj. / v.",
         "en_def": "(Of a liquid) accidentally poured or flowed out from a container onto a surface.",
         "cn_def": "潑灑出來的、流出的"
-      }
-    ]
-  },
-  "spill": {
-    "pos": "v.",
-    "en_def": "to cause or allow liquid to flow over the edge of its container.",
-    "cn_def": "灑出",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to cause or allow liquid to flow over the edge of its container.",
-        "cn_def": "灑出"
       }
     ]
   },
@@ -4764,7 +4764,7 @@ const LOOKUP = {
       }
     ]
   },
-  "replace ... with": {
+  "replace the white sugar with": {
     "pos": "v. phr.",
     "en_def": "To put a new person or thing in the place of an old or broken one.",
     "cn_def": "用…取代/替換…",
@@ -4776,7 +4776,7 @@ const LOOKUP = {
       }
     ]
   },
-  "replace the white sugar with": {
+  "replace ... with": {
     "pos": "v. phr.",
     "en_def": "To put a new person or thing in the place of an old or broken one.",
     "cn_def": "用…取代/替換…",
@@ -4812,7 +4812,7 @@ const LOOKUP = {
       }
     ]
   },
-  "substitute": {
+  "substitutes": {
     "pos": "n. [C]",
     "en_def": "A person or thing that is used or takes the place of another.",
     "cn_def": "替代品、代替者",
@@ -4824,7 +4824,7 @@ const LOOKUP = {
       }
     ]
   },
-  "substitutes": {
+  "substitute": {
     "pos": "n. [C]",
     "en_def": "A person or thing that is used or takes the place of another.",
     "cn_def": "替代品、代替者",
@@ -5538,7 +5538,7 @@ const LOOKUP = {
       }
     ]
   },
-  "publications": {
+  "publication": {
     "pos": "n.",
     "en_def": "the preparation and issuing of a book, journal, piece of music, or other work for public sale.",
     "cn_def": "出版物；發行",
@@ -5550,7 +5550,7 @@ const LOOKUP = {
       }
     ]
   },
-  "publication": {
+  "publications": {
     "pos": "n.",
     "en_def": "the preparation and issuing of a book, journal, piece of music, or other work for public sale.",
     "cn_def": "出版物；發行",
@@ -5954,7 +5954,7 @@ const LOOKUP = {
       }
     ]
   },
-  "intend to v": {
+  "intend to": {
     "pos": "v. phr.",
     "en_def": "To plan or design to perform a specific action.",
     "cn_def": "打算做…、計畫做…",
@@ -5966,7 +5966,7 @@ const LOOKUP = {
       }
     ]
   },
-  "intend to": {
+  "intend to v": {
     "pos": "v. phr.",
     "en_def": "To plan or design to perform a specific action.",
     "cn_def": "打算做…、計畫做…",
@@ -6014,7 +6014,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tend to": {
+  "tend to v": {
     "pos": "v. phr.",
     "en_def": "To be likely to behave in a particular way or have a certain characteristic.",
     "cn_def": "往往會…、傾向於做…",
@@ -6026,7 +6026,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tend to v": {
+  "tend to": {
     "pos": "v. phr.",
     "en_def": "To be likely to behave in a particular way or have a certain characteristic.",
     "cn_def": "往往會…、傾向於做…",
@@ -6074,18 +6074,6 @@ const LOOKUP = {
       }
     ]
   },
-  "is likely to": {
-    "pos": "phr.",
-    "en_def": "Probable or expected to happen or do something.",
-    "cn_def": "很有可能…",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "Probable or expected to happen or do something.",
-        "cn_def": "很有可能…"
-      }
-    ]
-  },
   "be likely to v": {
     "pos": "phr.",
     "en_def": "Probable or expected to happen or do something.",
@@ -6098,15 +6086,15 @@ const LOOKUP = {
       }
     ]
   },
-  "is prone to": {
+  "is likely to": {
     "pos": "phr.",
-    "en_def": "Likely to suffer from, do, or experience something negative or unpleasant.",
-    "cn_def": "易於…的、往往會…（通常指負面事物）",
+    "en_def": "Probable or expected to happen or do something.",
+    "cn_def": "很有可能…",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "Likely to suffer from, do, or experience something negative or unpleasant.",
-        "cn_def": "易於…的、往往會…（通常指負面事物）"
+        "en_def": "Probable or expected to happen or do something.",
+        "cn_def": "很有可能…"
       }
     ]
   },
@@ -6122,7 +6110,19 @@ const LOOKUP = {
       }
     ]
   },
-  "be inclined to v": {
+  "is prone to": {
+    "pos": "phr.",
+    "en_def": "Likely to suffer from, do, or experience something negative or unpleasant.",
+    "cn_def": "易於…的、往往會…（通常指負面事物）",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "Likely to suffer from, do, or experience something negative or unpleasant.",
+        "cn_def": "易於…的、往往會…（通常指負面事物）"
+      }
+    ]
+  },
+  "is inclined to": {
     "pos": "phr.",
     "en_def": "Feeling willing or likely to do something or think in a particular way.",
     "cn_def": "傾向於…、想要…、頗有…的意願",
@@ -6134,7 +6134,7 @@ const LOOKUP = {
       }
     ]
   },
-  "is inclined to": {
+  "be inclined to v": {
     "pos": "phr.",
     "en_def": "Feeling willing or likely to do something or think in a particular way.",
     "cn_def": "傾向於…、想要…、頗有…的意願",

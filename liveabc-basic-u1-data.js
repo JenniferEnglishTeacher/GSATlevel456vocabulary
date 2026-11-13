@@ -1904,7 +1904,7 @@ const LOOKUP = {
       }
     ]
   },
-  "vanish into thin air": {
+  "vanished into thin air": {
     "pos": "phr.",
     "en_def": "To disappear suddenly and completely without leaving a trace.",
     "cn_def": "憑空消失",
@@ -1916,7 +1916,7 @@ const LOOKUP = {
       }
     ]
   },
-  "vanished into thin air": {
+  "vanish into thin air": {
     "pos": "phr.",
     "en_def": "To disappear suddenly and completely without leaving a trace.",
     "cn_def": "憑空消失",
@@ -2288,7 +2288,7 @@ const LOOKUP = {
       }
     ]
   },
-  "emerge": {
+  "emerged": {
     "pos": "v.",
     "en_def": "To move out of or away from something and come into view.",
     "cn_def": "出現；浮現",
@@ -2300,7 +2300,7 @@ const LOOKUP = {
       }
     ]
   },
-  "emerged": {
+  "emerge": {
     "pos": "v.",
     "en_def": "To move out of or away from something and come into view.",
     "cn_def": "出現；浮現",
@@ -2360,7 +2360,7 @@ const LOOKUP = {
       }
     ]
   },
-  "manifests": {
+  "manifest": {
     "pos": "v.",
     "en_def": "To display or show a quality or feeling by one's acts or appearance.",
     "cn_def": "展現；顯露",
@@ -2372,7 +2372,7 @@ const LOOKUP = {
       }
     ]
   },
-  "manifest": {
+  "manifests": {
     "pos": "v.",
     "en_def": "To display or show a quality or feeling by one's acts or appearance.",
     "cn_def": "展現；顯露",
@@ -2468,7 +2468,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be exposed to": {
+  "are constantly exposed to": {
     "pos": "phr.",
     "en_def": "To be put in a situation where one is not protected from something dangerous.",
     "cn_def": "暴露於...；接觸到...",
@@ -2480,7 +2480,7 @@ const LOOKUP = {
       }
     ]
   },
-  "are constantly exposed to": {
+  "be exposed to": {
     "pos": "phr.",
     "en_def": "To be put in a situation where one is not protected from something dangerous.",
     "cn_def": "暴露於...；接觸到...",
@@ -2720,7 +2720,7 @@ const LOOKUP = {
       }
     ]
   },
-  "threaten": {
+  "threatened": {
     "pos": "v.",
     "en_def": "To state one's intention to take hostile action against someone.",
     "cn_def": "威脅",
@@ -2732,7 +2732,7 @@ const LOOKUP = {
       }
     ]
   },
-  "threatened": {
+  "threaten": {
     "pos": "v.",
     "en_def": "To state one's intention to take hostile action against someone.",
     "cn_def": "威脅",
@@ -2768,7 +2768,7 @@ const LOOKUP = {
       }
     ]
   },
-  "threatens to": {
+  "threaten to v": {
     "pos": "phr.",
     "en_def": "To seem likely to produce an unpleasant or unwelcome result.",
     "cn_def": "威脅將要；有...的危險",
@@ -2780,7 +2780,7 @@ const LOOKUP = {
       }
     ]
   },
-  "threaten to v": {
+  "threatens to": {
     "pos": "phr.",
     "en_def": "To seem likely to produce an unpleasant or unwelcome result.",
     "cn_def": "威脅將要；有...的危險",
@@ -2804,7 +2804,7 @@ const LOOKUP = {
       }
     ]
   },
-  "poses a threat to": {
+  "pose a threat to": {
     "pos": "phr.",
     "en_def": "To present a danger or risk to someone or something.",
     "cn_def": "對...構成威脅",
@@ -2816,7 +2816,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pose a threat to": {
+  "poses a threat to": {
     "pos": "phr.",
     "en_def": "To present a danger or risk to someone or something.",
     "cn_def": "對...構成威脅",
@@ -2900,7 +2900,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be destined to": {
+  "is destined to": {
     "pos": "phr.",
     "en_def": "To be certain to do something or to happen in the future.",
     "cn_def": "注定要",
@@ -2912,7 +2912,7 @@ const LOOKUP = {
       }
     ]
   },
-  "is destined to": {
+  "be destined to": {
     "pos": "phr.",
     "en_def": "To be certain to do something or to happen in the future.",
     "cn_def": "注定要",
