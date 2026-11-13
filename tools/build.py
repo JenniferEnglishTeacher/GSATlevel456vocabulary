@@ -5,7 +5,7 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113z"
+V = "20261114a"
 d = json.load(open(DATA, encoding="utf8"))
 J = json.load(open(os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k.json"), encoding="utf8"))  # 國中小基礎2000字 groups
 EXTRA = os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k_extra.json")  # groups converted by tools/convert_g.py
@@ -299,6 +299,14 @@ if os.path.exists(ADV800_FILE):
     adv800_zone = emit_zone("h", "國中小進階800字", "國中小進階800字", "Unit", {int(k): v for k, v in ADV800.items()},
                             lambda g: f"adv800-unit{g}", "國中小進階800字 單字練習", "H_DASHBOARD_UNITS")
 
+# 4000 Essential English Words, 2nd edition (zones "w3", later "w4"/"w5"): 30 units of 20 words per book (tools/ee4000_convert.py)
+EE_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "ee4000.json")
+ee_zones = {}
+if os.path.exists(EE_FILE):
+    for bk, G in json.load(open(EE_FILE, encoding="utf8")).items():
+        ee_zones[bk] = emit_zone(f"w{bk}", f"4000 Essential Words Book {bk}", f"4000 Essential Words Book {bk}", "Unit", {int(k): v for k, v in G.items()},
+                                 lambda g, bk=bk: f"ee4000-b{bk}-unit{g}", f"4000 Essential English Words Book {bk} 單字練習", f"W{bk}_DASHBOARD_UNITS")
+
 # AWL Sublists 1–10 (zones "a1".."a10"): each sublist split into parts of about 20 entries by tools/awl_convert.py
 AWL_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "awl.json")
 AWL = json.load(open(AWL_FILE, encoding="utf8")) if os.path.exists(AWL_FILE) else {}
@@ -411,6 +419,18 @@ if adv800_zone:
     }
     at = max(i for i, b in enumerate(books) if b["id"] in ("e1200", "j2000")) + 1
     books.insert(at, {"id": "adv800", "name": "國中小進階800字", "zones": ["h"]})
+for n, bk in enumerate(sorted(ee_zones)):
+    order, unit_names = ee_zones[bk]
+    zones[f"w{bk}"] = {
+        "book": "ee4000", "prefix": f"w{bk}", "tag": f"4000 B{bk}", "name": f"4000 Essential Words Book {bk}", "short": f"Book {bk}", "num": bk,
+        "levelLabel": f"4000 Essential B{bk}", "cls": CLS3[n % 3], "family": False, "headLabel": "", "tile": f"4000 Essential English Words · Book {bk}",
+        "unitName": "Unit", "data": f"w{bk}-dashboard-data.js", "global": f"W{bk}_DASHBOARD_UNITS", "page": f"w{bk}-unit{{u}}.html",
+        "quiz": f"ee4000-b{bk}-unit{{u}}.html",
+        "units": order, "names": {str(g): unit_names[g] for g in order}, "blurb": "20 words per unit 每單元 20 字",
+    }
+if ee_zones:
+    at = max(i for i, b in enumerate(books) if b["id"] in ("adv800", "e1200", "j2000")) + 1
+    books.insert(at, {"id": "ee4000", "name": "4000 Essential Words", "zones": [f"w{bk}" for bk in sorted(ee_zones)]})
 if awl_zones:
     books.append({"id": "awl", "name": "AWL 學術單字 Sublist 1–10", "zones": [f"a{n}" for n in awl_zones]})
 zones = {z: zones[z] for b in books for z in b["zones"]}

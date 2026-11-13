@@ -1,0 +1,3602 @@
+[
+{
+"unit": 1,
+"w": "acre",
+"pos": "n.",
+"cn": "英畝"
+},
+{
+"unit": 1,
+"w": "afterlife",
+"pos": "n.",
+"cn": "來生"
+},
+{
+"unit": 1,
+"w": "archaeology",
+"pos": "n.",
+"cn": "考古學"
+},
+{
+"unit": 1,
+"w": "chamber",
+"pos": "n.",
+"cn": "房間；會議室"
+},
+{
+"unit": 1,
+"w": "channel",
+"pos": "n.",
+"cn": "頻道；水道"
+},
+{
+"unit": 1,
+"w": "core",
+"pos": "n.",
+"cn": "核心"
+},
+{
+"unit": 1,
+"w": "corridor",
+"pos": "n.",
+"cn": "走廊"
+},
+{
+"unit": 1,
+"w": "distinct",
+"pos": "adj.",
+"cn": "截然不同的；明顯的"
+},
+{
+"unit": 1,
+"w": "elite",
+"pos": "adj.",
+"cn": "菁英的"
+},
+{
+"unit": 1,
+"w": "engineer",
+"pos": "v.",
+"cn": "設計；建造"
+},
+{
+"unit": 1,
+"w": "found",
+"pos": "v.",
+"cn": "創立；建立"
+},
+{
+"unit": 1,
+"w": "gap",
+"pos": "n.",
+"cn": "縫隙；缺口"
+},
+{
+"unit": 1,
+"w": "glory",
+"pos": "n.",
+"cn": "榮耀；壯麗"
+},
+{
+"unit": 1,
+"w": "interior",
+"pos": "n.",
+"cn": "內部"
+},
+{
+"unit": 1,
+"w": "lion",
+"pos": "n.",
+"cn": "獅子"
+},
+{
+"unit": 1,
+"w": "role",
+"pos": "n.",
+"cn": "角色；職責"
+},
+{
+"unit": 1,
+"w": "royal",
+"pos": "adj.",
+"cn": "皇室的"
+},
+{
+"unit": 1,
+"w": "sole",
+"pos": "adj.",
+"cn": "唯一的"
+},
+{
+"unit": 1,
+"w": "stairs",
+"pos": "n.",
+"cn": "樓梯"
+},
+{
+"unit": 1,
+"w": "surface",
+"pos": "n.",
+"cn": "表面"
+},
+{
+"unit": 2,
+"w": "agreement",
+"pos": "n.",
+"cn": "協議；同意"
+},
+{
+"unit": 2,
+"w": "arise",
+"pos": "v.",
+"cn": "出現；發生"
+},
+{
+"unit": 2,
+"w": "benefactor",
+"pos": "n.",
+"cn": "恩人；捐助者"
+},
+{
+"unit": 2,
+"w": "blacksmith",
+"pos": "n.",
+"cn": "鐵匠"
+},
+{
+"unit": 2,
+"w": "chimney",
+"pos": "n.",
+"cn": "煙囪"
+},
+{
+"unit": 2,
+"w": "compensate",
+"pos": "v.",
+"cn": "補償；賠償"
+},
+{
+"unit": 2,
+"w": "encounter",
+"pos": "v.",
+"cn": "遭遇；邂逅"
+},
+{
+"unit": 2,
+"w": "exceed",
+"pos": "v.",
+"cn": "超過；超出"
+},
+{
+"unit": 2,
+"w": "forge",
+"pos": "v.",
+"cn": "鍛造；締造"
+},
+{
+"unit": 2,
+"w": "humble",
+"pos": "adj.",
+"cn": "謙虛的"
+},
+{
+"unit": 2,
+"w": "iron",
+"pos": "n.",
+"cn": "鐵"
+},
+{
+"unit": 2,
+"w": "ladder",
+"pos": "n.",
+"cn": "梯子"
+},
+{
+"unit": 2,
+"w": "modest",
+"pos": "adj.",
+"cn": "謙遜的；適度的"
+},
+{
+"unit": 2,
+"w": "occupy",
+"pos": "v.",
+"cn": "佔據；居住"
+},
+{
+"unit": 2,
+"w": "penny",
+"pos": "n.",
+"cn": "便士；一分錢"
+},
+{
+"unit": 2,
+"w": "preach",
+"pos": "v.",
+"cn": "說教；佈道"
+},
+{
+"unit": 2,
+"w": "prosper",
+"pos": "v.",
+"cn": "繁榮；成功"
+},
+{
+"unit": 2,
+"w": "province",
+"pos": "n.",
+"cn": "省"
+},
+{
+"unit": 2,
+"w": "satisfaction",
+"pos": "n.",
+"cn": "滿意；滿足"
+},
+{
+"unit": 2,
+"w": "sustain",
+"pos": "v.",
+"cn": "維持；支撐"
+},
+{
+"unit": 3,
+"w": "acquire",
+"pos": "v.",
+"cn": "獲得；取得"
+},
+{
+"unit": 3,
+"w": "awkward",
+"pos": "adj.",
+"cn": "尷尬的；笨拙的"
+},
+{
+"unit": 3,
+"w": "caretaker",
+"pos": "n.",
+"cn": "照顧者；看護"
+},
+{
+"unit": 3,
+"w": "deceive",
+"pos": "v.",
+"cn": "欺騙"
+},
+{
+"unit": 3,
+"w": "discourage",
+"pos": "v.",
+"cn": "勸阻；使氣餒"
+},
+{
+"unit": 3,
+"w": "fake",
+"pos": "adj.",
+"cn": "假冒的；偽造的"
+},
+{
+"unit": 3,
+"w": "hatred",
+"pos": "n.",
+"cn": "仇恨；憎恨"
+},
+{
+"unit": 3,
+"w": "hut",
+"pos": "n.",
+"cn": "茅屋；小屋"
+},
+{
+"unit": 3,
+"w": "inferior",
+"pos": "adj.",
+"cn": "較差的；次等的"
+},
+{
+"unit": 3,
+"w": "lodge",
+"pos": "n.",
+"cn": "山林小屋"
+},
+{
+"unit": 3,
+"w": "neglect",
+"pos": "v.",
+"cn": "忽視；疏忽"
+},
+{
+"unit": 3,
+"w": "newcomer",
+"pos": "n.",
+"cn": "新來的人；新手"
+},
+{
+"unit": 3,
+"w": "offense",
+"pos": "n.",
+"cn": "罪過；冒犯"
+},
+{
+"unit": 3,
+"w": "overlook",
+"pos": "v.",
+"cn": "忽略；俯瞰"
+},
+{
+"unit": 3,
+"w": "repay",
+"pos": "v.",
+"cn": "償還；報答"
+},
+{
+"unit": 3,
+"w": "ridiculous",
+"pos": "adj.",
+"cn": "可笑的；荒謬的"
+},
+{
+"unit": 3,
+"w": "satisfactory",
+"pos": "adj.",
+"cn": "令人滿意的"
+},
+{
+"unit": 3,
+"w": "shepherd",
+"pos": "n.",
+"cn": "牧羊人"
+},
+{
+"unit": 3,
+"w": "venture",
+"pos": "v.",
+"cn": "冒險"
+},
+{
+"unit": 3,
+"w": "wheat",
+"pos": "n.",
+"cn": "小麥"
+},
+{
+"unit": 4,
+"w": "alley",
+"pos": "n.",
+"cn": "小巷；弄"
+},
+{
+"unit": 4,
+"w": "ax",
+"pos": "n.",
+"cn": "斧頭"
+},
+{
+"unit": 4,
+"w": "bunch",
+"pos": "n.",
+"cn": "一串；一束"
+},
+{
+"unit": 4,
+"w": "chore",
+"pos": "n.",
+"cn": "雜務；家事"
+},
+{
+"unit": 4,
+"w": "decent",
+"pos": "adj.",
+"cn": "體面的；相當好的"
+},
+{
+"unit": 4,
+"w": "disgraceful",
+"pos": "adj.",
+"cn": "可恥的；不光彩的"
+},
+{
+"unit": 4,
+"w": "elbow",
+"pos": "n.",
+"cn": "手肘"
+},
+{
+"unit": 4,
+"w": "grateful",
+"pos": "adj.",
+"cn": "感激的"
+},
+{
+"unit": 4,
+"w": "irritate",
+"pos": "v.",
+"cn": "激怒；刺激"
+},
+{
+"unit": 4,
+"w": "kid",
+"pos": "v.",
+"cn": "戲弄；開玩笑"
+},
+{
+"unit": 4,
+"w": "loose",
+"pos": "adj.",
+"cn": "鬆的；鬆散的"
+},
+{
+"unit": 4,
+"w": "offend",
+"pos": "v.",
+"cn": "冒犯"
+},
+{
+"unit": 4,
+"w": "overnight",
+"pos": "adv.",
+"cn": "在夜間的；徹夜"
+},
+{
+"unit": 4,
+"w": "persist",
+"pos": "v.",
+"cn": "堅持"
+},
+{
+"unit": 4,
+"w": "pine",
+"pos": "n.",
+"cn": "松樹"
+},
+{
+"unit": 4,
+"w": "scar",
+"pos": "n.",
+"cn": "疤痕"
+},
+{
+"unit": 4,
+"w": "sensation",
+"pos": "n.",
+"cn": "感覺；知覺"
+},
+{
+"unit": 4,
+"w": "sled",
+"pos": "n.",
+"cn": "雪橇"
+},
+{
+"unit": 4,
+"w": "tease",
+"pos": "v.",
+"cn": "嘲笑；戲弄"
+},
+{
+"unit": 4,
+"w": "valentine",
+"pos": "n.",
+"cn": "情人"
+},
+{
+"unit": 5,
+"w": "acquaint",
+"pos": "v.",
+"cn": "使熟悉；使認識"
+},
+{
+"unit": 5,
+"w": "cemetery",
+"pos": "n.",
+"cn": "墓地"
+},
+{
+"unit": 5,
+"w": "creature",
+"pos": "n.",
+"cn": "生物"
+},
+{
+"unit": 5,
+"w": "curse",
+"pos": "v.",
+"cn": "詛咒"
+},
+{
+"unit": 5,
+"w": "disguise",
+"pos": "n.",
+"cn": "偽裝；假扮"
+},
+{
+"unit": 5,
+"w": "fancy",
+"pos": "adj.",
+"cn": "華麗的；精緻的"
+},
+{
+"unit": 5,
+"w": "flashlight",
+"pos": "n.",
+"cn": "手電筒"
+},
+{
+"unit": 5,
+"w": "hood",
+"pos": "n.",
+"cn": "兜帽；頭巾"
+},
+{
+"unit": 5,
+"w": "inhabitant",
+"pos": "n.",
+"cn": "居民"
+},
+{
+"unit": 5,
+"w": "nourish",
+"pos": "v.",
+"cn": "滋養；養育"
+},
+{
+"unit": 5,
+"w": "pirate",
+"pos": "n.",
+"cn": "海盜"
+},
+{
+"unit": 5,
+"w": "publication",
+"pos": "n.",
+"cn": "出版物"
+},
+{
+"unit": 5,
+"w": "riddle",
+"pos": "n.",
+"cn": "謎語"
+},
+{
+"unit": 5,
+"w": "rot",
+"pos": "v.",
+"cn": "腐爛"
+},
+{
+"unit": 5,
+"w": "shortly",
+"pos": "adv.",
+"cn": "不久；很快"
+},
+{
+"unit": 5,
+"w": "skeleton",
+"pos": "n.",
+"cn": "骨骼；骷髏"
+},
+{
+"unit": 5,
+"w": "spoil",
+"pos": "v.",
+"cn": "變質；破壞"
+},
+{
+"unit": 5,
+"w": "starve",
+"pos": "v.",
+"cn": "挨餓"
+},
+{
+"unit": 5,
+"w": "thrill",
+"pos": "n.",
+"cn": "興奮；刺激"
+},
+{
+"unit": 5,
+"w": "wicked",
+"pos": "adj.",
+"cn": "邪惡的；缺德的"
+},
+{
+"unit": 6,
+"w": "alert",
+"pos": "v.",
+"cn": "警告；提醒"
+},
+{
+"unit": 6,
+"w": "broadcast",
+"pos": "n.",
+"cn": "廣播節目；播出"
+},
+{
+"unit": 6,
+"w": "bulletin",
+"pos": "n.",
+"cn": "公報；快報"
+},
+{
+"unit": 6,
+"w": "bump",
+"pos": "n.",
+"cn": "腫塊；隆起"
+},
+{
+"unit": 6,
+"w": "chop",
+"pos": "v.",
+"cn": "砍；劈；切碎"
+},
+{
+"unit": 6,
+"w": "closet",
+"pos": "n.",
+"cn": "壁櫥；衣櫥"
+},
+{
+"unit": 6,
+"w": "console",
+"pos": "v.",
+"cn": "安慰"
+},
+{
+"unit": 6,
+"w": "district",
+"pos": "n.",
+"cn": "區域；地區"
+},
+{
+"unit": 6,
+"w": "drawer",
+"pos": "n.",
+"cn": "抽屜"
+},
+{
+"unit": 6,
+"w": "endure",
+"pos": "v.",
+"cn": "忍受；忍耐"
+},
+{
+"unit": 6,
+"w": "execute",
+"pos": "v.",
+"cn": "處決；執行"
+},
+{
+"unit": 6,
+"w": "grasp",
+"pos": "v.",
+"cn": "抓緊；握住"
+},
+{
+"unit": 6,
+"w": "rear",
+"pos": "n.",
+"cn": "後部；背面"
+},
+{
+"unit": 6,
+"w": "senator",
+"pos": "n.",
+"cn": "參議員"
+},
+{
+"unit": 6,
+"w": "skull",
+"pos": "n.",
+"cn": "頭骨；顱骨"
+},
+{
+"unit": 6,
+"w": "stir",
+"pos": "v.",
+"cn": "攪拌"
+},
+{
+"unit": 6,
+"w": "tap",
+"pos": "v.",
+"cn": "輕敲；輕拍"
+},
+{
+"unit": 6,
+"w": "tremendous",
+"pos": "adj.",
+"cn": "巨大的；極好的"
+},
+{
+"unit": 6,
+"w": "underneath",
+"pos": "prep.",
+"cn": "在...底下；在下面"
+},
+{
+"unit": 6,
+"w": "worm",
+"pos": "n.",
+"cn": "蠕蟲；蟲"
+},
+{
+"unit": 7,
+"w": "abandon",
+"pos": "v.",
+"cn": "拋棄；放棄"
+},
+{
+"unit": 7,
+"w": "ambitious",
+"pos": "adj.",
+"cn": "有野心的；有抱負的"
+},
+{
+"unit": 7,
+"w": "bark",
+"pos": "v.",
+"cn": "吠叫"
+},
+{
+"unit": 7,
+"w": "bay",
+"pos": "n.",
+"cn": "海灣"
+},
+{
+"unit": 7,
+"w": "brilliant",
+"pos": "adj.",
+"cn": "聰穎的；傑出的"
+},
+{
+"unit": 7,
+"w": "chin",
+"pos": "n.",
+"cn": "下巴"
+},
+{
+"unit": 7,
+"w": "complaint",
+"pos": "n.",
+"cn": "抱怨；投訴"
+},
+{
+"unit": 7,
+"w": "deaf",
+"pos": "adj.",
+"cn": "聾的"
+},
+{
+"unit": 7,
+"w": "enthusiastic",
+"pos": "adj.",
+"cn": "熱情的；熱心的"
+},
+{
+"unit": 7,
+"w": "expedition",
+"pos": "n.",
+"cn": "遠征；探險"
+},
+{
+"unit": 7,
+"w": "horizon",
+"pos": "n.",
+"cn": "地平線；視野"
+},
+{
+"unit": 7,
+"w": "loyal",
+"pos": "adj.",
+"cn": "忠誠的；忠實的"
+},
+{
+"unit": 7,
+"w": "mayor",
+"pos": "n.",
+"cn": "市長"
+},
+{
+"unit": 7,
+"w": "mutual",
+"pos": "adj.",
+"cn": "相互的；共同的"
+},
+{
+"unit": 7,
+"w": "overweight",
+"pos": "adj.",
+"cn": "超重的；過胖的"
+},
+{
+"unit": 7,
+"w": "refuge",
+"pos": "n.",
+"cn": "避難所；庇護所"
+},
+{
+"unit": 7,
+"w": "restore",
+"pos": "v.",
+"cn": "恢復；修復"
+},
+{
+"unit": 7,
+"w": "rub",
+"pos": "v.",
+"cn": "摩擦；揉搓"
+},
+{
+"unit": 7,
+"w": "senses",
+"pos": "n.",
+"cn": "感官；感覺"
+},
+{
+"unit": 7,
+"w": "veterinarian",
+"pos": "n.",
+"cn": "獸醫"
+},
+{
+"unit": 8,
+"w": "anniversary",
+"pos": "n.",
+"cn": "週年紀念日"
+},
+{
+"unit": 8,
+"w": "arithmetic",
+"pos": "n.",
+"cn": "算術"
+},
+{
+"unit": 8,
+"w": "ashamed",
+"pos": "adj.",
+"cn": "羞愧的；慚愧的"
+},
+{
+"unit": 8,
+"w": "burst",
+"pos": "v.",
+"cn": "爆發；爆裂"
+},
+{
+"unit": 8,
+"w": "carpenter",
+"pos": "n.",
+"cn": "木匠"
+},
+{
+"unit": 8,
+"w": "coal",
+"pos": "n.",
+"cn": "煤炭"
+},
+{
+"unit": 8,
+"w": "couch",
+"pos": "n.",
+"cn": "沙發"
+},
+{
+"unit": 8,
+"w": "drip",
+"pos": "v.",
+"cn": "滴下"
+},
+{
+"unit": 8,
+"w": "elegant",
+"pos": "adj.",
+"cn": "優雅的；高雅的"
+},
+{
+"unit": 8,
+"w": "fabric",
+"pos": "n.",
+"cn": "布料；織物"
+},
+{
+"unit": 8,
+"w": "highlands",
+"pos": "n.",
+"cn": "高地"
+},
+{
+"unit": 8,
+"w": "ivory",
+"pos": "n.",
+"cn": "象牙"
+},
+{
+"unit": 8,
+"w": "mill",
+"pos": "n.",
+"cn": "磨坊；工廠"
+},
+{
+"unit": 8,
+"w": "needle",
+"pos": "n.",
+"cn": "針"
+},
+{
+"unit": 8,
+"w": "polish",
+"pos": "v.",
+"cn": "擦亮；磨光"
+},
+{
+"unit": 8,
+"w": "sew",
+"pos": "v.",
+"cn": "縫紉"
+},
+{
+"unit": 8,
+"w": "shed",
+"pos": "n.",
+"cn": "棚子；小屋"
+},
+{
+"unit": 8,
+"w": "thread",
+"pos": "n.",
+"cn": "線"
+},
+{
+"unit": 8,
+"w": "trim",
+"pos": "v.",
+"cn": "修剪"
+},
+{
+"unit": 8,
+"w": "upwards",
+"pos": "adv.",
+"cn": "向上地"
+},
+{
+"unit": 9,
+"w": "ally",
+"pos": "n.",
+"cn": "盟友；支持者"
+},
+{
+"unit": 9,
+"w": "boast",
+"pos": "v.",
+"cn": "吹噓；自誇"
+},
+{
+"unit": 9,
+"w": "bounce",
+"pos": "v.",
+"cn": "彈起；反彈"
+},
+{
+"unit": 9,
+"w": "bully",
+"pos": "n.",
+"cn": "惡霸；欺凌者"
+},
+{
+"unit": 9,
+"w": "carbohydrate",
+"pos": "n.",
+"cn": "碳水化合物"
+},
+{
+"unit": 9,
+"w": "crawl",
+"pos": "v.",
+"cn": "爬行"
+},
+{
+"unit": 9,
+"w": "defeat",
+"pos": "v.",
+"cn": "擊敗；戰勝"
+},
+{
+"unit": 9,
+"w": "dial",
+"pos": "n.",
+"cn": "錶盤；刻度盤"
+},
+{
+"unit": 9,
+"w": "dominant",
+"pos": "adj.",
+"cn": "佔優勢的；支配的"
+},
+{
+"unit": 9,
+"w": "entire",
+"pos": "adj.",
+"cn": "整個的；全部的"
+},
+{
+"unit": 9,
+"w": "mercy",
+"pos": "n.",
+"cn": "仁慈；寬恕"
+},
+{
+"unit": 9,
+"w": "nod",
+"pos": "v.",
+"cn": "點頭"
+},
+{
+"unit": 9,
+"w": "opponent",
+"pos": "n.",
+"cn": "對手；敵手"
+},
+{
+"unit": 9,
+"w": "quarrel",
+"pos": "v.",
+"cn": "爭吵；吵架"
+},
+{
+"unit": 9,
+"w": "rival",
+"pos": "n.",
+"cn": "競爭對手"
+},
+{
+"unit": 9,
+"w": "sore",
+"pos": "adj.",
+"cn": "痠痛的；疼痛的"
+},
+{
+"unit": 9,
+"w": "sting",
+"pos": "v.",
+"cn": "叮；刺"
+},
+{
+"unit": 9,
+"w": "strain",
+"pos": "v.",
+"cn": "使勁；盡力"
+},
+{
+"unit": 9,
+"w": "torture",
+"pos": "n.",
+"cn": "折磨；酷刑"
+},
+{
+"unit": 9,
+"w": "wrestle",
+"pos": "v.",
+"cn": "摔角；扭打"
+},
+{
+"unit": 10,
+"w": "absence",
+"pos": "n.",
+"cn": "缺席；不在"
+},
+{
+"unit": 10,
+"w": "aloud",
+"pos": "adv.",
+"cn": "大聲地"
+},
+{
+"unit": 10,
+"w": "bald",
+"pos": "adj.",
+"cn": "禿頭的"
+},
+{
+"unit": 10,
+"w": "blanket",
+"pos": "n.",
+"cn": "毯子"
+},
+{
+"unit": 10,
+"w": "creep",
+"pos": "v.",
+"cn": "爬行；悄悄移動"
+},
+{
+"unit": 10,
+"w": "divorce",
+"pos": "n.",
+"cn": "離婚"
+},
+{
+"unit": 10,
+"w": "imitate",
+"pos": "v.",
+"cn": "模仿"
+},
+{
+"unit": 10,
+"w": "infant",
+"pos": "n.",
+"cn": "嬰兒"
+},
+{
+"unit": 10,
+"w": "kidnap",
+"pos": "v.",
+"cn": "綁架"
+},
+{
+"unit": 10,
+"w": "nap",
+"pos": "n.",
+"cn": "小睡；午覺"
+},
+{
+"unit": 10,
+"w": "nowhere",
+"pos": "adv.",
+"cn": "無處；到處都沒有"
+},
+{
+"unit": 10,
+"w": "pat",
+"pos": "v.",
+"cn": "輕拍"
+},
+{
+"unit": 10,
+"w": "relief",
+"pos": "n.",
+"cn": "寬慰；解脫"
+},
+{
+"unit": 10,
+"w": "reproduce",
+"pos": "v.",
+"cn": "複製；重現"
+},
+{
+"unit": 10,
+"w": "rhyme",
+"pos": "n.",
+"cn": "押韻；童謠"
+},
+{
+"unit": 10,
+"w": "suck",
+"pos": "v.",
+"cn": "吸吮"
+},
+{
+"unit": 10,
+"w": "urgent",
+"pos": "adj.",
+"cn": "緊急的；急迫的"
+},
+{
+"unit": 10,
+"w": "vanish",
+"pos": "v.",
+"cn": "消失；突然不見"
+},
+{
+"unit": 10,
+"w": "wagon",
+"pos": "n.",
+"cn": "四輪馬車；推車"
+},
+{
+"unit": 10,
+"w": "wrinkle",
+"pos": "n.",
+"cn": "皺紋"
+},
+{
+"unit": 11,
+"w": "architecture",
+"pos": "n.",
+"cn": "建築學；建築風格"
+},
+{
+"unit": 11,
+"w": "basket",
+"pos": "n.",
+"cn": "籃子"
+},
+{
+"unit": 11,
+"w": "bloom",
+"pos": "v.",
+"cn": "開花"
+},
+{
+"unit": 11,
+"w": "canoe",
+"pos": "n.",
+"cn": "獨木舟"
+},
+{
+"unit": 11,
+"w": "carpet",
+"pos": "n.",
+"cn": "地毯"
+},
+{
+"unit": 11,
+"w": "cousin",
+"pos": "n.",
+"cn": "堂(表)兄弟姊妹"
+},
+{
+"unit": 11,
+"w": "desk",
+"pos": "n.",
+"cn": "書桌；辦公桌"
+},
+{
+"unit": 11,
+"w": "gallery",
+"pos": "n.",
+"cn": "畫廊；美術館"
+},
+{
+"unit": 11,
+"w": "guest",
+"pos": "n.",
+"cn": "客人；賓客"
+},
+{
+"unit": 11,
+"w": "host",
+"pos": "v.",
+"cn": "主人；東道主"
+},
+{
+"unit": 11,
+"w": "July",
+"pos": "n.",
+"cn": "七月"
+},
+{
+"unit": 11,
+"w": "modern",
+"pos": "adj.",
+"cn": "現代的"
+},
+{
+"unit": 11,
+"w": "museum",
+"pos": "n.",
+"cn": "博物館"
+},
+{
+"unit": 11,
+"w": "pink",
+"pos": "adj.",
+"cn": "粉紅色(的)"
+},
+{
+"unit": 11,
+"w": "plane",
+"pos": "n.",
+"cn": "飛機"
+},
+{
+"unit": 11,
+"w": "refrigerator",
+"pos": "n.",
+"cn": "冰箱"
+},
+{
+"unit": 11,
+"w": "temperature",
+"pos": "n.",
+"cn": "溫度"
+},
+{
+"unit": 11,
+"w": "theater",
+"pos": "n.",
+"cn": "戲院；劇院"
+},
+{
+"unit": 11,
+"w": "upper",
+"pos": "adj.",
+"cn": "上面的；較高的"
+},
+{
+"unit": 11,
+"w": "welcome",
+"pos": "v.",
+"cn": "歡迎"
+},
+{
+"unit": 12,
+"w": "anticipate",
+"pos": "v.",
+"cn": "預期；期待"
+},
+{
+"unit": 12,
+"w": "barrel",
+"pos": "n.",
+"cn": "桶子"
+},
+{
+"unit": 12,
+"w": "beam",
+"pos": "n.",
+"cn": "樑；橫樑"
+},
+{
+"unit": 12,
+"w": "casual",
+"pos": "adj.",
+"cn": "休閒的；隨便的"
+},
+{
+"unit": 12,
+"w": "caution",
+"pos": "n.",
+"cn": "謹慎；小心"
+},
+{
+"unit": 12,
+"w": "contrary",
+"pos": "adj.",
+"cn": "相反的；對立的"
+},
+{
+"unit": 12,
+"w": "deliberate",
+"pos": "adj.",
+"cn": "故意的；蓄意的"
+},
+{
+"unit": 12,
+"w": "dissolve",
+"pos": "v.",
+"cn": "溶解"
+},
+{
+"unit": 12,
+"w": "explode",
+"pos": "v.",
+"cn": "爆炸"
+},
+{
+"unit": 12,
+"w": "fasten",
+"pos": "v.",
+"cn": "繫緊；固定"
+},
+{
+"unit": 12,
+"w": "germ",
+"pos": "n.",
+"cn": "細菌；病菌"
+},
+{
+"unit": 12,
+"w": "kit",
+"pos": "n.",
+"cn": "成套工具；裝備"
+},
+{
+"unit": 12,
+"w": "puff",
+"pos": "n.",
+"cn": "一陣 (煙；氣)"
+},
+{
+"unit": 12,
+"w": "rag",
+"pos": "n.",
+"cn": "抹布；破布"
+},
+{
+"unit": 12,
+"w": "scatter",
+"pos": "v.",
+"cn": "散播；撒"
+},
+{
+"unit": 12,
+"w": "scent",
+"pos": "n.",
+"cn": "香味；氣味"
+},
+{
+"unit": 12,
+"w": "steel",
+"pos": "n.",
+"cn": "鋼鐵"
+},
+{
+"unit": 12,
+"w": "swift",
+"pos": "adj.",
+"cn": "迅速的；敏捷的"
+},
+{
+"unit": 12,
+"w": "toss",
+"pos": "v.",
+"cn": "拋；擲"
+},
+{
+"unit": 12,
+"w": "triumph",
+"pos": "n.",
+"cn": "勝利；巨大成功"
+},
+{
+"unit": 13,
+"w": "aboard",
+"pos": "prep.",
+"cn": "在(船；飛機；車)上"
+},
+{
+"unit": 13,
+"w": "bitter",
+"pos": "adj.",
+"cn": "苦悶的；憤怒的；苦的"
+},
+{
+"unit": 13,
+"w": "bullet",
+"pos": "n.",
+"cn": "子彈"
+},
+{
+"unit": 13,
+"w": "devil",
+"pos": "n.",
+"cn": "魔鬼；惡魔"
+},
+{
+"unit": 13,
+"w": "drift",
+"pos": "v.",
+"cn": "漂流；漂移"
+},
+{
+"unit": 13,
+"w": "enforce",
+"pos": "v.",
+"cn": "執行；強制"
+},
+{
+"unit": 13,
+"w": "fountain",
+"pos": "n.",
+"cn": "噴泉"
+},
+{
+"unit": 13,
+"w": "harbor",
+"pos": "n.",
+"cn": "港口"
+},
+{
+"unit": 13,
+"w": "inhabit",
+"pos": "n.",
+"cn": "居住於；棲息"
+},
+{
+"unit": 13,
+"w": "march",
+"pos": "v.",
+"cn": "行軍；齊步走"
+},
+{
+"unit": 13,
+"w": "millionaire",
+"pos": "n.",
+"cn": "百萬富翁"
+},
+{
+"unit": 13,
+"w": "port",
+"pos": "n.",
+"cn": "港口；口岸"
+},
+{
+"unit": 13,
+"w": "sheriff",
+"pos": "n.",
+"cn": "警長"
+},
+{
+"unit": 13,
+"w": "startle",
+"pos": "v.",
+"cn": "使驚嚇"
+},
+{
+"unit": 13,
+"w": "sweat",
+"pos": "v.",
+"cn": "流汗"
+},
+{
+"unit": 13,
+"w": "trigger",
+"pos": "n.",
+"cn": "板機；觸發器"
+},
+{
+"unit": 13,
+"w": "unify",
+"pos": "v.",
+"cn": "統一；聯合"
+},
+{
+"unit": 13,
+"w": "vessel",
+"pos": "n.",
+"cn": "船艦；血管"
+},
+{
+"unit": 13,
+"w": "voyage",
+"pos": "n.",
+"cn": "航行；旅程"
+},
+{
+"unit": 13,
+"w": "worship",
+"pos": "v.",
+"cn": "崇拜；敬仰"
+},
+{
+"unit": 14,
+"w": "apprentice",
+"pos": "n.",
+"cn": "學徒"
+},
+{
+"unit": 14,
+"w": "assure",
+"pos": "v.",
+"cn": "向...保證；確保"
+},
+{
+"unit": 14,
+"w": "bandage",
+"pos": "n.",
+"cn": "繃帶"
+},
+{
+"unit": 14,
+"w": "bleed",
+"pos": "v.",
+"cn": "流血"
+},
+{
+"unit": 14,
+"w": "bond",
+"pos": "v.",
+"cn": "建立關係；結合"
+},
+{
+"unit": 14,
+"w": "chef",
+"pos": "n.",
+"cn": "主廚；廚師"
+},
+{
+"unit": 14,
+"w": "crown",
+"pos": "n.",
+"cn": "皇冠"
+},
+{
+"unit": 14,
+"w": "departure",
+"pos": "n.",
+"cn": "出發；離開"
+},
+{
+"unit": 14,
+"w": "diligent",
+"pos": "adj.",
+"cn": "勤奮的；勤勉的"
+},
+{
+"unit": 14,
+"w": "emperor",
+"pos": "n.",
+"cn": "皇帝"
+},
+{
+"unit": 14,
+"w": "fiber",
+"pos": "n.",
+"cn": "纖維"
+},
+{
+"unit": 14,
+"w": "horrible",
+"pos": "adj.",
+"cn": "可怕的；極糟的"
+},
+{
+"unit": 14,
+"w": "impolite",
+"pos": "adj.",
+"cn": "不禮貌的"
+},
+{
+"unit": 14,
+"w": "kneel",
+"pos": "v.",
+"cn": "跪下"
+},
+{
+"unit": 14,
+"w": "luxury",
+"pos": "n.",
+"cn": "奢侈(品)"
+},
+{
+"unit": 14,
+"w": "massive",
+"pos": "adj.",
+"cn": "巨大的"
+},
+{
+"unit": 14,
+"w": "panic",
+"pos": "v.",
+"cn": "恐慌"
+},
+{
+"unit": 14,
+"w": "priority",
+"pos": "n.",
+"cn": "優先考慮的事"
+},
+{
+"unit": 14,
+"w": "robe",
+"pos": "n.",
+"cn": "長袍；浴袍"
+},
+{
+"unit": 14,
+"w": "scold",
+"pos": "v.",
+"cn": "責罵"
+},
+{
+"unit": 15,
+"w": "affair",
+"pos": "n.",
+"cn": "事務；事件"
+},
+{
+"unit": 15,
+"w": "assembly",
+"pos": "n.",
+"cn": "集會；大會"
+},
+{
+"unit": 15,
+"w": "bless",
+"pos": "v.",
+"cn": "祝福；賜福"
+},
+{
+"unit": 15,
+"w": "cereal",
+"pos": "n.",
+"cn": "穀片；麥片"
+},
+{
+"unit": 15,
+"w": "cheerful",
+"pos": "adj.",
+"cn": "興高采烈的；愉快的"
+},
+{
+"unit": 15,
+"w": "diameter",
+"pos": "n.",
+"cn": "直徑"
+},
+{
+"unit": 15,
+"w": "exploit",
+"pos": "v.",
+"cn": "剝削；利用"
+},
+{
+"unit": 15,
+"w": "famine",
+"pos": "n.",
+"cn": "饑荒"
+},
+{
+"unit": 15,
+"w": "harvest",
+"pos": "n.",
+"cn": "收穫；收成"
+},
+{
+"unit": 15,
+"w": "merry",
+"pos": "adj.",
+"cn": "歡樂的；愉快的"
+},
+{
+"unit": 15,
+"w": "nut",
+"pos": "n.",
+"cn": "堅果"
+},
+{
+"unit": 15,
+"w": "pardon",
+"pos": "v.",
+"cn": "原諒；寬恕"
+},
+{
+"unit": 15,
+"w": "pharaoh",
+"pos": "n.",
+"cn": "法老"
+},
+{
+"unit": 15,
+"w": "ripe",
+"pos": "adj.",
+"cn": "成熟的"
+},
+{
+"unit": 15,
+"w": "roast",
+"pos": "v.",
+"cn": "烘烤"
+},
+{
+"unit": 15,
+"w": "routine",
+"pos": "n.",
+"cn": "慣例；常規"
+},
+{
+"unit": 15,
+"w": "scheme",
+"pos": "n.",
+"cn": "計畫；陰謀"
+},
+{
+"unit": 15,
+"w": "slim",
+"pos": "adj.",
+"cn": "苗條的；微薄的"
+},
+{
+"unit": 15,
+"w": "stove",
+"pos": "n.",
+"cn": "爐子"
+},
+{
+"unit": 15,
+"w": "theft",
+"pos": "n.",
+"cn": "偷竊；盜竊"
+},
+{
+"unit": 16,
+"w": "adolescent",
+"pos": "n.",
+"cn": "青少年"
+},
+{
+"unit": 16,
+"w": "aptitude",
+"pos": "n.",
+"cn": "天資；才能"
+},
+{
+"unit": 16,
+"w": "compliment",
+"pos": "v.",
+"cn": "讚美；恭維"
+},
+{
+"unit": 16,
+"w": "hinder",
+"pos": "v.",
+"cn": "阻礙；妨礙"
+},
+{
+"unit": 16,
+"w": "journalism",
+"pos": "n.",
+"cn": "新聞業"
+},
+{
+"unit": 16,
+"w": "jury",
+"pos": "n.",
+"cn": "陪審團"
+},
+{
+"unit": 16,
+"w": "justice",
+"pos": "n.",
+"cn": "正義；公平"
+},
+{
+"unit": 16,
+"w": "liberty",
+"pos": "n.",
+"cn": "自由"
+},
+{
+"unit": 16,
+"w": "literary",
+"pos": "adj.",
+"cn": "文學的"
+},
+{
+"unit": 16,
+"w": "pharmacy",
+"pos": "n.",
+"cn": "藥局；藥房"
+},
+{
+"unit": 16,
+"w": "pill",
+"pos": "n.",
+"cn": "藥丸"
+},
+{
+"unit": 16,
+"w": "presume",
+"pos": "v.",
+"cn": "假定；推測"
+},
+{
+"unit": 16,
+"w": "privacy",
+"pos": "n.",
+"cn": "隱私"
+},
+{
+"unit": 16,
+"w": "punishment",
+"pos": "n.",
+"cn": "懲罰"
+},
+{
+"unit": 16,
+"w": "sensible",
+"pos": "adj.",
+"cn": "明智的；講理的"
+},
+{
+"unit": 16,
+"w": "slice",
+"pos": "n.",
+"cn": "薄片；一片"
+},
+{
+"unit": 16,
+"w": "sorrow",
+"pos": "n.",
+"cn": "悲傷；哀痛"
+},
+{
+"unit": 16,
+"w": "straw",
+"pos": "n.",
+"cn": "吸管"
+},
+{
+"unit": 16,
+"w": "swell",
+"pos": "v.",
+"cn": "腫脹；膨脹"
+},
+{
+"unit": 16,
+"w": "tidy",
+"pos": "adj.",
+"cn": "整潔的"
+},
+{
+"unit": 17,
+"w": "affection",
+"pos": "n.",
+"cn": "喜愛；感情"
+},
+{
+"unit": 17,
+"w": "agency",
+"pos": "n.",
+"cn": "代理機構；代辦處"
+},
+{
+"unit": 17,
+"w": "ash",
+"pos": "n.",
+"cn": "灰燼"
+},
+{
+"unit": 17,
+"w": "confine",
+"pos": "v.",
+"cn": "限制；禁閉"
+},
+{
+"unit": 17,
+"w": "dismiss",
+"pos": "v.",
+"cn": "摒棄；不理會"
+},
+{
+"unit": 17,
+"w": "erupt",
+"pos": "v.",
+"cn": "(火山) 爆發"
+},
+{
+"unit": 17,
+"w": "fate",
+"pos": "n.",
+"cn": "命運"
+},
+{
+"unit": 17,
+"w": "lava",
+"pos": "n.",
+"cn": "熔岩"
+},
+{
+"unit": 17,
+"w": "miserable",
+"pos": "adj.",
+"cn": "悲慘的；痛苦的"
+},
+{
+"unit": 17,
+"w": "navigate",
+"pos": "v.",
+"cn": "航行；導航"
+},
+{
+"unit": 17,
+"w": "originate",
+"pos": "v.",
+"cn": "發源；起源"
+},
+{
+"unit": 17,
+"w": "remainder",
+"pos": "n.",
+"cn": "剩餘物；餘下部分"
+},
+{
+"unit": 17,
+"w": "retrieve",
+"pos": "v.",
+"cn": "取回；尋回"
+},
+{
+"unit": 17,
+"w": "shallow",
+"pos": "adj.",
+"cn": "淺的"
+},
+{
+"unit": 17,
+"w": "slope",
+"pos": "n.",
+"cn": "斜坡"
+},
+{
+"unit": 17,
+"w": "span",
+"pos": "v.",
+"cn": "跨越；橫跨"
+},
+{
+"unit": 17,
+"w": "superstition",
+"pos": "n.",
+"cn": "迷信"
+},
+{
+"unit": 17,
+"w": "sympathy",
+"pos": "n.",
+"cn": "同情心"
+},
+{
+"unit": 17,
+"w": "vibrate",
+"pos": "v.",
+"cn": "震動"
+},
+{
+"unit": 17,
+"w": "wander",
+"pos": "v.",
+"cn": "漫遊；徘徊"
+},
+{
+"unit": 18,
+"w": "armor",
+"pos": "n.",
+"cn": "盔甲"
+},
+{
+"unit": 18,
+"w": "blaze",
+"pos": "v.",
+"cn": "熊熊燃燒"
+},
+{
+"unit": 18,
+"w": "boom",
+"pos": "v.",
+"cn": "發出轟隆聲"
+},
+{
+"unit": 18,
+"w": "cliff",
+"pos": "n.",
+"cn": "懸崖"
+},
+{
+"unit": 18,
+"w": "flame",
+"pos": "n.",
+"cn": "火焰"
+},
+{
+"unit": 18,
+"w": "independence",
+"pos": "n.",
+"cn": "獨立"
+},
+{
+"unit": 18,
+"w": "invasion",
+"pos": "n.",
+"cn": "入侵"
+},
+{
+"unit": 18,
+"w": "knight",
+"pos": "n.",
+"cn": "騎士"
+},
+{
+"unit": 18,
+"w": "lightning",
+"pos": "n.",
+"cn": "閃電"
+},
+{
+"unit": 18,
+"w": "rebel",
+"pos": "n.",
+"cn": "叛亂者；反抗者"
+},
+{
+"unit": 18,
+"w": "retreat",
+"pos": "v.",
+"cn": "撤退"
+},
+{
+"unit": 18,
+"w": "revolution",
+"pos": "n.",
+"cn": "革命"
+},
+{
+"unit": 18,
+"w": "spear",
+"pos": "n.",
+"cn": "長矛"
+},
+{
+"unit": 18,
+"w": "steep",
+"pos": "adj.",
+"cn": "陡峭的"
+},
+{
+"unit": 18,
+"w": "summit",
+"pos": "n.",
+"cn": "頂峰"
+},
+{
+"unit": 18,
+"w": "thunder",
+"pos": "n.",
+"cn": "雷聲"
+},
+{
+"unit": 18,
+"w": "troops",
+"pos": "n.",
+"cn": "軍隊；部隊"
+},
+{
+"unit": 18,
+"w": "warrior",
+"pos": "n.",
+"cn": "戰士"
+},
+{
+"unit": 18,
+"w": "withdraw",
+"pos": "v.",
+"cn": "撤退；退出"
+},
+{
+"unit": 18,
+"w": "yield",
+"pos": "v.",
+"cn": "屈服；讓出"
+},
+{
+"unit": 19,
+"w": "bench",
+"pos": "n.",
+"cn": "長椅"
+},
+{
+"unit": 19,
+"w": "daisy",
+"pos": "n.",
+"cn": "雛菊"
+},
+{
+"unit": 19,
+"w": "dispute",
+"pos": "n.",
+"cn": "爭論；糾紛"
+},
+{
+"unit": 19,
+"w": "empty",
+"pos": "adj.",
+"cn": "空的"
+},
+{
+"unit": 19,
+"w": "horror",
+"pos": "n.",
+"cn": "恐懼"
+},
+{
+"unit": 19,
+"w": "incident",
+"pos": "n.",
+"cn": "事件"
+},
+{
+"unit": 19,
+"w": "mist",
+"pos": "n.",
+"cn": "薄霧"
+},
+{
+"unit": 19,
+"w": "object",
+"pos": "n.",
+"cn": "物體；物品"
+},
+{
+"unit": 19,
+"w": "orphan",
+"pos": "n.",
+"cn": "孤兒"
+},
+{
+"unit": 19,
+"w": "plot",
+"pos": "v.",
+"cn": "密謀"
+},
+{
+"unit": 19,
+"w": "pregnant",
+"pos": "adj.",
+"cn": "懷孕的"
+},
+{
+"unit": 19,
+"w": "rage",
+"pos": "n.",
+"cn": "憤怒；狂暴"
+},
+{
+"unit": 19,
+"w": "revenge",
+"pos": "n.",
+"cn": "報復"
+},
+{
+"unit": 19,
+"w": "shame",
+"pos": "n.",
+"cn": "羞恥；慚愧"
+},
+{
+"unit": 19,
+"w": "sigh",
+"pos": "v.",
+"cn": "嘆氣"
+},
+{
+"unit": 19,
+"w": "sneak",
+"pos": "v.",
+"cn": "偷偷地走"
+},
+{
+"unit": 19,
+"w": "spare",
+"pos": "v.",
+"cn": "撥出；騰出"
+},
+{
+"unit": 19,
+"w": "stem",
+"pos": "n.",
+"cn": "莖"
+},
+{
+"unit": 19,
+"w": "supper",
+"pos": "n.",
+"cn": "晚餐"
+},
+{
+"unit": 19,
+"w": "tender",
+"pos": "adj.",
+"cn": "柔軟的；嫩的"
+},
+{
+"unit": 20,
+"w": "beneath",
+"pos": "prep.",
+"cn": "在...之下"
+},
+{
+"unit": 20,
+"w": "cub",
+"pos": "n.",
+"cn": "幼獸 (如熊、獅等)"
+},
+{
+"unit": 20,
+"w": "dawn",
+"pos": "n.",
+"cn": "黎明；破曉"
+},
+{
+"unit": 20,
+"w": "dissatisfied",
+"pos": "adj.",
+"cn": "不滿意的"
+},
+{
+"unit": 20,
+"w": "ease",
+"pos": "n.",
+"cn": "容易；輕鬆"
+},
+{
+"unit": 20,
+"w": "evident",
+"pos": "adj.",
+"cn": "明顯的；明白的"
+},
+{
+"unit": 20,
+"w": "hail",
+"pos": "n.",
+"cn": "冰雹"
+},
+{
+"unit": 20,
+"w": "howl",
+"pos": "v.",
+"cn": "嚎叫"
+},
+{
+"unit": 20,
+"w": "leap",
+"pos": "v.",
+"cn": "跳躍"
+},
+{
+"unit": 20,
+"w": "magnificent",
+"pos": "adj.",
+"cn": "壯麗的；宏偉的"
+},
+{
+"unit": 20,
+"w": "necessity",
+"pos": "n.",
+"cn": "必需品"
+},
+{
+"unit": 20,
+"w": "outcome",
+"pos": "n.",
+"cn": "結果；後果"
+},
+{
+"unit": 20,
+"w": "pile",
+"pos": "n.",
+"cn": "一堆"
+},
+{
+"unit": 20,
+"w": "profound",
+"pos": "adj.",
+"cn": "深奧的；深刻的"
+},
+{
+"unit": 20,
+"w": "seize",
+"pos": "v.",
+"cn": "抓住；奪取"
+},
+{
+"unit": 20,
+"w": "squeeze",
+"pos": "v.",
+"cn": "擠壓；緊抱"
+},
+{
+"unit": 20,
+"w": "supreme",
+"pos": "adj.",
+"cn": "至高的；最高的"
+},
+{
+"unit": 20,
+"w": "terrific",
+"pos": "adj.",
+"cn": "極好的"
+},
+{
+"unit": 20,
+"w": "trait",
+"pos": "n.",
+"cn": "特徵；特點"
+},
+{
+"unit": 20,
+"w": "vital",
+"pos": "adj.",
+"cn": "攸關生命的；極重要的"
+},
+{
+"unit": 21,
+"w": "attack",
+"pos": "v.",
+"cn": "攻擊"
+},
+{
+"unit": 21,
+"w": "breast",
+"pos": "n.",
+"cn": "乳房"
+},
+{
+"unit": 21,
+"w": "cancer",
+"pos": "n.",
+"cn": "癌症"
+},
+{
+"unit": 21,
+"w": "cancerous",
+"pos": "adj.",
+"cn": "癌的；癌細胞的"
+},
+{
+"unit": 21,
+"w": "cell",
+"pos": "n.",
+"cn": "細胞"
+},
+{
+"unit": 21,
+"w": "cigarette",
+"pos": "n.",
+"cn": "香煙"
+},
+{
+"unit": 21,
+"w": "code",
+"pos": "n.",
+"cn": "密碼；代碼"
+},
+{
+"unit": 21,
+"w": "cure",
+"pos": "n.",
+"cn": "治療；解藥"
+},
+{
+"unit": 21,
+"w": "destruction",
+"pos": "n.",
+"cn": "破壞；毀滅"
+},
+{
+"unit": 21,
+"w": "DNA",
+"pos": "n.",
+"cn": "去氧核糖核酸 (DNA)"
+},
+{
+"unit": 21,
+"w": "extensive",
+"pos": "adj.",
+"cn": "廣泛的；大規模的"
+},
+{
+"unit": 21,
+"w": "female",
+"pos": "adj.",
+"cn": "女性的；雌性的"
+},
+{
+"unit": 21,
+"w": "furthermore",
+"pos": "adv.",
+"cn": "此外；而且"
+},
+{
+"unit": 21,
+"w": "gene",
+"pos": "n.",
+"cn": "基因"
+},
+{
+"unit": 21,
+"w": "inherit",
+"pos": "v.",
+"cn": "遺傳；繼承"
+},
+{
+"unit": 21,
+"w": "link",
+"pos": "n.",
+"cn": "連結；關聯"
+},
+{
+"unit": 21,
+"w": "male",
+"pos": "adj.",
+"cn": "男性的；雄性的"
+},
+{
+"unit": 21,
+"w": "population",
+"pos": "n.",
+"cn": "人口；群體"
+},
+{
+"unit": 21,
+"w": "result",
+"pos": "n.",
+"cn": "結果"
+},
+{
+"unit": 21,
+"w": "sugar",
+"pos": "n.",
+"cn": "糖"
+},
+{
+"unit": 22,
+"w": "accommodate",
+"pos": "v.",
+"cn": "容納；提供住宿"
+},
+{
+"unit": 22,
+"w": "circus",
+"pos": "n.",
+"cn": "馬戲團"
+},
+{
+"unit": 22,
+"w": "coincide",
+"pos": "v.",
+"cn": "同時發生"
+},
+{
+"unit": 22,
+"w": "commission",
+"pos": "v.",
+"cn": "委託"
+},
+{
+"unit": 22,
+"w": "dose",
+"pos": "n.",
+"cn": "(藥物的) 劑量"
+},
+{
+"unit": 22,
+"w": "dye",
+"pos": "v.",
+"cn": "染色"
+},
+{
+"unit": 22,
+"w": "extent",
+"pos": "n.",
+"cn": "程度；範圍"
+},
+{
+"unit": 22,
+"w": "gender",
+"pos": "n.",
+"cn": "性別"
+},
+{
+"unit": 22,
+"w": "headline",
+"pos": "n.",
+"cn": "標題；頭條"
+},
+{
+"unit": 22,
+"w": "informal",
+"pos": "adj.",
+"cn": "非正式的"
+},
+{
+"unit": 22,
+"w": "inquire",
+"pos": "v.",
+"cn": "詢問；調查"
+},
+{
+"unit": 22,
+"w": "messenger",
+"pos": "n.",
+"cn": "使者；信差"
+},
+{
+"unit": 22,
+"w": "peer",
+"pos": "v.",
+"cn": "凝視；端詳"
+},
+{
+"unit": 22,
+"w": "portrait",
+"pos": "n.",
+"cn": "肖像；畫像"
+},
+{
+"unit": 22,
+"w": "pose",
+"pos": "v.",
+"cn": "擺姿勢"
+},
+{
+"unit": 22,
+"w": "ranch",
+"pos": "n.",
+"cn": "牧場"
+},
+{
+"unit": 22,
+"w": "steer",
+"pos": "v.",
+"cn": "駕駛；操縱"
+},
+{
+"unit": 22,
+"w": "stripe",
+"pos": "n.",
+"cn": "條紋"
+},
+{
+"unit": 22,
+"w": "tame",
+"pos": "adj.",
+"cn": "溫馴的"
+},
+{
+"unit": 22,
+"w": "tempt",
+"pos": "v.",
+"cn": "引誘；誘惑"
+},
+{
+"unit": 23,
+"w": "ban",
+"pos": "v.",
+"cn": "禁止"
+},
+{
+"unit": 23,
+"w": "cautious",
+"pos": "adj.",
+"cn": "謹慎的；小心的"
+},
+{
+"unit": 23,
+"w": "confess",
+"pos": "v.",
+"cn": "坦白；承認"
+},
+{
+"unit": 23,
+"w": "cottage",
+"pos": "n.",
+"cn": "村舍；小屋"
+},
+{
+"unit": 23,
+"w": "daytime",
+"pos": "n.",
+"cn": "白天"
+},
+{
+"unit": 23,
+"w": "desperate",
+"pos": "adj.",
+"cn": "絕望的；拼命的"
+},
+{
+"unit": 23,
+"w": "exhausting",
+"pos": "adj.",
+"cn": "令人筋疲力盡的"
+},
+{
+"unit": 23,
+"w": "fade",
+"pos": "v.",
+"cn": "褪色；逐漸消失"
+},
+{
+"unit": 23,
+"w": "fierce",
+"pos": "adj.",
+"cn": "兇猛的；猛烈的"
+},
+{
+"unit": 23,
+"w": "gamble",
+"pos": "v.",
+"cn": "賭博"
+},
+{
+"unit": 23,
+"w": "lawn",
+"pos": "n.",
+"cn": "草坪；草地"
+},
+{
+"unit": 23,
+"w": "mow",
+"pos": "v.",
+"cn": "割 (草)"
+},
+{
+"unit": 23,
+"w": "outlaw",
+"pos": "n.",
+"cn": "逃犯；歹徒"
+},
+{
+"unit": 23,
+"w": "prospect",
+"pos": "n.",
+"cn": "展望；前景"
+},
+{
+"unit": 23,
+"w": "purse",
+"pos": "n.",
+"cn": "女用手提包；錢包"
+},
+{
+"unit": 23,
+"w": "rod",
+"pos": "n.",
+"cn": "竿；棍棒"
+},
+{
+"unit": 23,
+"w": "seldom",
+"pos": "adv.",
+"cn": "很少；不常"
+},
+{
+"unit": 23,
+"w": "shave",
+"pos": "v.",
+"cn": "刮鬍子"
+},
+{
+"unit": 23,
+"w": "terrified",
+"pos": "adj.",
+"cn": "極度恐懼的"
+},
+{
+"unit": 23,
+"w": "wizard",
+"pos": "n.",
+"cn": "巫師；魔法師"
+},
+{
+"unit": 24,
+"w": "abroad",
+"pos": "adv.",
+"cn": "在國外；到國外"
+},
+{
+"unit": 24,
+"w": "airline",
+"pos": "n.",
+"cn": "航空公司"
+},
+{
+"unit": 24,
+"w": "audience",
+"pos": "n.",
+"cn": "觀眾；聽眾"
+},
+{
+"unit": 24,
+"w": "bargain",
+"pos": "n.",
+"cn": "便宜貨；交易"
+},
+{
+"unit": 24,
+"w": "brief",
+"pos": "adj.",
+"cn": "短暫的；簡短的"
+},
+{
+"unit": 24,
+"w": "currency",
+"pos": "n.",
+"cn": "貨幣"
+},
+{
+"unit": 24,
+"w": "data",
+"pos": "n.",
+"cn": "資料；數據"
+},
+{
+"unit": 24,
+"w": "domestic",
+"pos": "adj.",
+"cn": "國內的；家庭的"
+},
+{
+"unit": 24,
+"w": "draft",
+"pos": "n.",
+"cn": "草稿"
+},
+{
+"unit": 24,
+"w": "gather",
+"pos": "v.",
+"cn": "聚集；收集"
+},
+{
+"unit": 24,
+"w": "hobby",
+"pos": "n.",
+"cn": "嗜好"
+},
+{
+"unit": 24,
+"w": "income",
+"pos": "n.",
+"cn": "收入；所得"
+},
+{
+"unit": 24,
+"w": "jet",
+"pos": "n.",
+"cn": "噴射機"
+},
+{
+"unit": 24,
+"w": "maximum",
+"pos": "adj.",
+"cn": "最大值(的)；極大值"
+},
+{
+"unit": 24,
+"w": "official",
+"pos": "adj.",
+"cn": "官方的；正式的"
+},
+{
+"unit": 24,
+"w": "recommend",
+"pos": "v.",
+"cn": "推薦；建議"
+},
+{
+"unit": 24,
+"w": "refer",
+"pos": "v.",
+"cn": "提及；參考"
+},
+{
+"unit": 24,
+"w": "remote",
+"pos": "adj.",
+"cn": "遙遠的；偏僻的"
+},
+{
+"unit": 24,
+"w": "sleepless",
+"pos": "adj.",
+"cn": "失眠的；不眠的"
+},
+{
+"unit": 24,
+"w": "volume",
+"pos": "n.",
+"cn": "音量；體積；總量"
+},
+{
+"unit": 25,
+"w": "circulate",
+"pos": "v.",
+"cn": "循環；流通"
+},
+{
+"unit": 25,
+"w": "consequent",
+"pos": "adj.",
+"cn": "隨之發生的；作為結果的"
+},
+{
+"unit": 25,
+"w": "derive",
+"pos": "v.",
+"cn": "源自；取得"
+},
+{
+"unit": 25,
+"w": "drown",
+"pos": "v.",
+"cn": "溺水；淹死"
+},
+{
+"unit": 25,
+"w": "dynasty",
+"pos": "n.",
+"cn": "朝代；王朝"
+},
+{
+"unit": 25,
+"w": "fraction",
+"pos": "n.",
+"cn": "小部分；分數"
+},
+{
+"unit": 25,
+"w": "frost",
+"pos": "n.",
+"cn": "霜"
+},
+{
+"unit": 25,
+"w": "illusion",
+"pos": "n.",
+"cn": "幻覺；錯覺"
+},
+{
+"unit": 25,
+"w": "invade",
+"pos": "v.",
+"cn": "入侵；侵略"
+},
+{
+"unit": 25,
+"w": "lieutenant",
+"pos": "n.",
+"cn": "中尉；副官"
+},
+{
+"unit": 25,
+"w": "marine",
+"pos": "adj.",
+"cn": "海洋的；海事的"
+},
+{
+"unit": 25,
+"w": "merit",
+"pos": "n.",
+"cn": "優點；價值"
+},
+{
+"unit": 25,
+"w": "navy",
+"pos": "n.",
+"cn": "海軍"
+},
+{
+"unit": 25,
+"w": "polar",
+"pos": "adj.",
+"cn": "極地的；兩極的"
+},
+{
+"unit": 25,
+"w": "ray",
+"pos": "n.",
+"cn": "光線"
+},
+{
+"unit": 25,
+"w": "resign",
+"pos": "v.",
+"cn": "辭職；放棄"
+},
+{
+"unit": 25,
+"w": "suicide",
+"pos": "n.",
+"cn": "自殺"
+},
+{
+"unit": 25,
+"w": "tremble",
+"pos": "v.",
+"cn": "發抖；震顫"
+},
+{
+"unit": 25,
+"w": "underlying",
+"pos": "adj.",
+"cn": "潛在的；根本的"
+},
+{
+"unit": 25,
+"w": "via",
+"pos": "prep.",
+"cn": "經由；透過"
+},
+{
+"unit": 26,
+"w": "alter",
+"pos": "v.",
+"cn": "改變"
+},
+{
+"unit": 26,
+"w": "aside",
+"pos": "adv.",
+"cn": "到旁邊"
+},
+{
+"unit": 26,
+"w": "autumn",
+"pos": "n.",
+"cn": "秋天"
+},
+{
+"unit": 26,
+"w": "blend",
+"pos": "v.",
+"cn": "混合"
+},
+{
+"unit": 26,
+"w": "collapse",
+"pos": "v.",
+"cn": "倒塌"
+},
+{
+"unit": 26,
+"w": "crush",
+"pos": "v.",
+"cn": "壓碎"
+},
+{
+"unit": 26,
+"w": "curve",
+"pos": "v.",
+"cn": "彎曲"
+},
+{
+"unit": 26,
+"w": "disgusting",
+"pos": "adj.",
+"cn": "令人作嘔的"
+},
+{
+"unit": 26,
+"w": "drain",
+"pos": "n.",
+"cn": "排水管"
+},
+{
+"unit": 26,
+"w": "embrace",
+"pos": "v.",
+"cn": "擁抱"
+},
+{
+"unit": 26,
+"w": "envy",
+"pos": "v.",
+"cn": "羨慕；嫉妒"
+},
+{
+"unit": 26,
+"w": "fireworks",
+"pos": "n.",
+"cn": "煙火"
+},
+{
+"unit": 26,
+"w": "flour",
+"pos": "n.",
+"cn": "麵粉"
+},
+{
+"unit": 26,
+"w": "fuse",
+"pos": "n.",
+"cn": "引信；導火線"
+},
+{
+"unit": 26,
+"w": "ginger",
+"pos": "n.",
+"cn": "薑"
+},
+{
+"unit": 26,
+"w": "jealous",
+"pos": "adj.",
+"cn": "嫉妒的"
+},
+{
+"unit": 26,
+"w": "paste",
+"pos": "n.",
+"cn": "糊狀物；漿糊"
+},
+{
+"unit": 26,
+"w": "receipt",
+"pos": "n.",
+"cn": "收據"
+},
+{
+"unit": 26,
+"w": "wipe",
+"pos": "v.",
+"cn": "擦拭"
+},
+{
+"unit": 26,
+"w": "wire",
+"pos": "n.",
+"cn": "電線；金屬線"
+},
+{
+"unit": 27,
+"w": "acknowledge",
+"pos": "v.",
+"cn": "承認；認可"
+},
+{
+"unit": 27,
+"w": "ambassador",
+"pos": "n.",
+"cn": "大使"
+},
+{
+"unit": 27,
+"w": "blonde",
+"pos": "n.",
+"cn": "金髮的人"
+},
+{
+"unit": 27,
+"w": "conquer",
+"pos": "v.",
+"cn": "征服"
+},
+{
+"unit": 27,
+"w": "drag",
+"pos": "v.",
+"cn": "拖；拉"
+},
+{
+"unit": 27,
+"w": "exaggerate",
+"pos": "v.",
+"cn": "誇大"
+},
+{
+"unit": 27,
+"w": "heritage",
+"pos": "n.",
+"cn": "遺產；傳統"
+},
+{
+"unit": 27,
+"w": "insult",
+"pos": "v.",
+"cn": "侮辱"
+},
+{
+"unit": 27,
+"w": "meanwhile",
+"pos": "adv.",
+"cn": "同時"
+},
+{
+"unit": 27,
+"w": "necklace",
+"pos": "n.",
+"cn": "項鍊"
+},
+{
+"unit": 27,
+"w": "noble",
+"pos": "n.",
+"cn": "貴族"
+},
+{
+"unit": 27,
+"w": "precious",
+"pos": "adj.",
+"cn": "珍貴的"
+},
+{
+"unit": 27,
+"w": "prejudice",
+"pos": "n.",
+"cn": "偏見"
+},
+{
+"unit": 27,
+"w": "rumor",
+"pos": "n.",
+"cn": "謠言"
+},
+{
+"unit": 27,
+"w": "sin",
+"pos": "n.",
+"cn": "罪惡"
+},
+{
+"unit": 27,
+"w": "spectacle",
+"pos": "n.",
+"cn": "奇觀；壯觀"
+},
+{
+"unit": 27,
+"w": "stack",
+"pos": "n.",
+"cn": "堆；一疊"
+},
+{
+"unit": 27,
+"w": "suspicious",
+"pos": "adj.",
+"cn": "可疑的；多疑的"
+},
+{
+"unit": 27,
+"w": "tin",
+"pos": "n.",
+"cn": "錫"
+},
+{
+"unit": 27,
+"w": "vase",
+"pos": "n.",
+"cn": "花瓶"
+},
+{
+"unit": 28,
+"w": "ache",
+"pos": "v.",
+"cn": "疼痛"
+},
+{
+"unit": 28,
+"w": "arctic",
+"pos": "adj.",
+"cn": "北極的"
+},
+{
+"unit": 28,
+"w": "canal",
+"pos": "n.",
+"cn": "運河"
+},
+{
+"unit": 28,
+"w": "chemist",
+"pos": "n.",
+"cn": "化學家；藥劑師"
+},
+{
+"unit": 28,
+"w": "chill",
+"pos": "n.",
+"cn": "寒意"
+},
+{
+"unit": 28,
+"w": "congress",
+"pos": "n.",
+"cn": "國會"
+},
+{
+"unit": 28,
+"w": "dairy",
+"pos": "adj.",
+"cn": "乳製品的"
+},
+{
+"unit": 28,
+"w": "descend",
+"pos": "v.",
+"cn": "下降"
+},
+{
+"unit": 28,
+"w": "grocer",
+"pos": "n.",
+"cn": "雜貨商"
+},
+{
+"unit": 28,
+"w": "hesitate",
+"pos": "v.",
+"cn": "猶豫"
+},
+{
+"unit": 28,
+"w": "institution",
+"pos": "n.",
+"cn": "機構"
+},
+{
+"unit": 28,
+"w": "jog",
+"pos": "v.",
+"cn": "慢跑"
+},
+{
+"unit": 28,
+"w": "merchant",
+"pos": "n.",
+"cn": "商人"
+},
+{
+"unit": 28,
+"w": "poke",
+"pos": "v.",
+"cn": "戳"
+},
+{
+"unit": 28,
+"w": "postpone",
+"pos": "v.",
+"cn": "延期"
+},
+{
+"unit": 28,
+"w": "splash",
+"pos": "v.",
+"cn": "濺；潑"
+},
+{
+"unit": 28,
+"w": "stubborn",
+"pos": "adj.",
+"cn": "固執的"
+},
+{
+"unit": 28,
+"w": "suburb",
+"pos": "n.",
+"cn": "郊區"
+},
+{
+"unit": 28,
+"w": "tide",
+"pos": "n.",
+"cn": "潮汐"
+},
+{
+"unit": 28,
+"w": "tragedy",
+"pos": "n.",
+"cn": "悲劇"
+},
+{
+"unit": 29,
+"w": "bomb",
+"pos": "n.",
+"cn": "炸彈"
+},
+{
+"unit": 29,
+"w": "certificate",
+"pos": "n.",
+"cn": "證書"
+},
+{
+"unit": 29,
+"w": "circumstance",
+"pos": "n.",
+"cn": "情況"
+},
+{
+"unit": 29,
+"w": "coffin",
+"pos": "n.",
+"cn": "棺材"
+},
+{
+"unit": 29,
+"w": "cope",
+"pos": "v.",
+"cn": "應付；處理"
+},
+{
+"unit": 29,
+"w": "criticism",
+"pos": "n.",
+"cn": "批評"
+},
+{
+"unit": 29,
+"w": "devastate",
+"pos": "v.",
+"cn": "摧毀"
+},
+{
+"unit": 29,
+"w": "frown",
+"pos": "v.",
+"cn": "皺眉"
+},
+{
+"unit": 29,
+"w": "gaze",
+"pos": "v.",
+"cn": "凝視"
+},
+{
+"unit": 29,
+"w": "glance",
+"pos": "v.",
+"cn": "瞥見"
+},
+{
+"unit": 29,
+"w": "grief",
+"pos": "n.",
+"cn": "悲傷"
+},
+{
+"unit": 29,
+"w": "groom",
+"pos": "n.",
+"cn": "新郎"
+},
+{
+"unit": 29,
+"w": "license",
+"pos": "n.",
+"cn": "執照"
+},
+{
+"unit": 29,
+"w": "microscope",
+"pos": "n.",
+"cn": "顯微鏡"
+},
+{
+"unit": 29,
+"w": "nuclear",
+"pos": "adj.",
+"cn": "核能的"
+},
+{
+"unit": 29,
+"w": "portray",
+"pos": "v.",
+"cn": "描繪"
+},
+{
+"unit": 29,
+"w": "rotate",
+"pos": "v.",
+"cn": "旋轉"
+},
+{
+"unit": 29,
+"w": "souvenir",
+"pos": "n.",
+"cn": "紀念品"
+},
+{
+"unit": 29,
+"w": "submarine",
+"pos": "n.",
+"cn": "潛水艇"
+},
+{
+"unit": 29,
+"w": "trace",
+"pos": "v.",
+"cn": "追蹤；描繪"
+},
+{
+"unit": 30,
+"w": "coastline",
+"pos": "n.",
+"cn": "海岸線"
+},
+{
+"unit": 30,
+"w": "deter",
+"pos": "v.",
+"cn": "阻止；威懾"
+},
+{
+"unit": 30,
+"w": "devise",
+"pos": "v.",
+"cn": "設計；發明"
+},
+{
+"unit": 30,
+"w": "distance",
+"pos": "n.",
+"cn": "距離"
+},
+{
+"unit": 30,
+"w": "expertise",
+"pos": "n.",
+"cn": "專業知識"
+},
+{
+"unit": 30,
+"w": "fracture",
+"pos": "n.",
+"cn": "骨折；破裂"
+},
+{
+"unit": 30,
+"w": "headache",
+"pos": "n.",
+"cn": "頭痛"
+},
+{
+"unit": 30,
+"w": "implement",
+"pos": "v.",
+"cn": "實施；執行"
+},
+{
+"unit": 30,
+"w": "insight",
+"pos": "n.",
+"cn": "洞察力"
+},
+{
+"unit": 30,
+"w": "limb",
+"pos": "n.",
+"cn": "樹枝；肢體"
+},
+{
+"unit": 30,
+"w": "might",
+"pos": "n.",
+"cn": "力量"
+},
+{
+"unit": 30,
+"w": "optimism",
+"pos": "n.",
+"cn": "樂觀"
+},
+{
+"unit": 30,
+"w": "proficient",
+"pos": "adj.",
+"cn": "精通的"
+},
+{
+"unit": 30,
+"w": "raft",
+"pos": "n.",
+"cn": "木筏"
+},
+{
+"unit": 30,
+"w": "ridge",
+"pos": "n.",
+"cn": "山脊"
+},
+{
+"unit": 30,
+"w": "shoulder",
+"pos": "n.",
+"cn": "肩膀"
+},
+{
+"unit": 30,
+"w": "shove",
+"pos": "v.",
+"cn": "推擠"
+},
+{
+"unit": 30,
+"w": "spouse",
+"pos": "n.",
+"cn": "配偶"
+},
+{
+"unit": 30,
+"w": "thrust",
+"pos": "v.",
+"cn": "猛推"
+},
+{
+"unit": 30,
+"w": "tolerate",
+"pos": "v.",
+"cn": "忍受"
+}
+]

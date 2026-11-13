@@ -1,6 +1,6 @@
 # GSATlevel456vocabulary
 
-Vocabulary Board — 學測6000字 Level 4 · 5 · 6 (word-family edition) · LiveABC Level 3–5 (Basic / Advanced) · 2001–3000字 LiveABC Level 3 · LiveABC Level 2–4 · 國中小基礎2000字 · 國中小1200字 · 國中小進階800字 · 捷進全民英檢初級單字書 · AWL Sublists 1–10
+Vocabulary Board — 學測6000字 Level 4 · 5 · 6 (word-family edition) · LiveABC Level 3–5 (Basic / Advanced) · 2001–3000字 LiveABC Level 3 · LiveABC Level 2–4 · 國中小基礎2000字 · 國中小1200字 · 國中小進階800字 · 4000 Essential Words (Book 3) · 捷進全民英檢初級單字書 · AWL Sublists 1–10
 
 Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 
@@ -23,4 +23,5 @@ Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 | `kb-unitN.html` + `-data.js`, `liveabc24-basic-uN.html` + `-data.js` + `-app.js`, `kb-dashboard-data.js` | LiveABC Level 2–4 Basic, Unit N (Advanced uses `ka-` / `liveabc24-advanced-`): flashcards + MCQ practice, online quiz, dashboard data. Built by `tools/liveabc_convert.py --book=2-4` with the hand-checked answers in `tools/liveabc24_manual.py` |
 | `e-unitN.html` + `-data.js`, `e1200-unitN.html` + `-data.js` + `-app.js`, `e-dashboard-data.js` | 國中小1200字, Unit N (39 themed units, 1,331 words): flashcards + MCQ practice, online quiz, dashboard data. Built by `tools/e1200_convert.py` from the Q&A worksheet docx; English definitions are hand-written in `tools/defs/`; multiple-choice questions are hand-written two-sentence items in `tools/mcq/` where a unit has them, otherwise generated (same sentence + a Chinese hint + same-part-of-speech options). `tools/vocab_extra.py` loads both |
 | `h-unitN.html` + `-data.js`, `adv800-unitN.html` + `-data.js` + `-app.js`, `h-dashboard-data.js` | 國中小進階800字, Unit N (40 alphabetical units, 804 words): flashcards + MCQ practice, online quiz, dashboard data. Built by `tools/adv800_convert.py` from the word sheet (xlsx); inflected answers are listed by hand in that script, and the multiple-choice questions are generated like the 1200 book |
+| `wB-unitN.html` + `-data.js`, `ee4000-bB-unitN.html` + `-data.js` + `-app.js`, `wB-dashboard-data.js` | 4000 Essential English Words (2nd ed.) Book B, Unit N (Book 3: 30 units, 600 words): flashcards + MCQ practice, online quiz, dashboard data. Built by `tools/ee4000_convert.py` from the word list in `tools/ee4000/bB_words.json`; the definitions, sentences and translations in `tools/ee4000/bB_*.txt` were written for this site (the book's own text is not used) |
 | `aS-unitP.html` + `aS-unitP-data.js`, `awlS-partP.html` + `-data.js` + `-app.js`, `aS-dashboard-data.js` | AWL Sublist S, Part P: flashcards + MCQ practice, online quiz, and dashboard data |

@@ -1,0 +1,105 @@
+#11
+architecture | the style and design of buildings; the work of designing them | The city is famous for its old ____, with stone churches and tall towers. | 這座城市以古老的建築聞名，有石造教堂和高塔。
+basket | a container made of thin sticks, used for carrying things | She carried the apples home from the farm in a ____. | 她用籃子把蘋果從農場提回家。
+bloom | (of a plant) to produce flowers | The cherry trees in the park ____ for only two weeks every spring. | 公園裡的櫻花樹每年春天只開花兩週。
+canoe | a long, narrow, light boat that you move with a paddle | We paddled a ____ slowly down the quiet river. | 我們划著獨木舟在平靜的河上緩緩前進。
+carpet | a thick, soft cover for a floor | The baby likes to crawl on the soft ____ in the living room. | 寶寶喜歡在客廳柔軟的地毯上爬。
+cousin | a child of your aunt or uncle | My ____ Amy is the daughter of my mother's sister. | 我的表妹艾美是我阿姨的女兒。
+desk | a table where you sit to write, study, or work | The student sat at her ____ and opened her textbook. | 那位學生坐在書桌前，打開課本。
+gallery | a room or building where people can look at art | The ____ is showing paintings by young artists from Taiwan this month. | 這間畫廊本月展出台灣年輕藝術家的畫作。
+guest | a person who is invited to your home or to a party | We cleaned the house because an important ____ was coming for dinner. | 我們打掃了房子，因為有位重要的客人要來吃晚餐。
+host | a person who invites guests and takes care of them | The ____ of the party welcomed everyone at the door with a drink. | 派對的主人在門口拿著飲料歡迎每個人。
+July | the seventh month of the year | In Taiwan, the summer vacation begins in ____ and ends in August. | 在台灣，暑假從七月開始，八月結束。
+modern | of the present time; using new ideas or styles | The old factory was turned into a ____ office building with glass walls. | 那座舊工廠被改建成有玻璃牆的現代辦公大樓。
+museum | a building where people can see important old or interesting things | We saw dinosaur bones and ancient tools at the history ____. | 我們在歷史博物館看到恐龍骨頭和古代工具。
+pink | having a color between red and white | The little girl wore a ____ dress, the color of a light rose. | 小女孩穿著一件淡玫瑰色的粉紅洋裝。
+plane | a flying vehicle with wings and engines | Our ____ took off at nine and landed in Tokyo three hours later. | 我們的飛機九點起飛，三小時後降落東京。
+refrigerator | a machine that keeps food and drinks cold | Put the milk back in the ____, or it will go bad. | 把牛奶放回冰箱，不然會壞掉。
+temperature | how hot or cold something is | The ____ dropped to five degrees last night, so we turned on the heater. | 昨晚氣溫降到五度，所以我們開了暖氣。
+theater | a building where people watch plays or movies | We bought tickets to see a play at the ____ on Saturday night. | 我們買了票，週六晚上要去劇院看戲。
+upper | in a higher position than something else | The bedrooms are on the ____ floor, and the kitchen is downstairs. | 臥室在樓上，廚房在樓下。
+welcome | to greet someone in a friendly way when they arrive | The whole family stood at the door to ____ the visitors from Japan. | 全家人站在門口歡迎來自日本的訪客。
+#12
+anticipate | to think that something will probably happen | We ____ heavy traffic on the holiday, so we will leave very early. | 我們預期假日會塞車，所以會很早出發。
+barrel | a large round container for liquids such as oil or wine | The farmer stores rainwater in a big wooden ____ beside his house. | 農夫把雨水儲存在屋旁的大木桶裡。
+beam | a long, heavy piece of wood or metal that supports a roof | A thick wooden ____ holds up the roof of the old farmhouse. | 一根粗木樑支撐著老農舍的屋頂。
+casual | relaxed and not formal | You can wear ____ clothes like jeans and a T-shirt to the party. | 你可以穿牛仔褲和T恤這類休閒服去參加派對。
+caution | great care taken to avoid danger | Please drive with ____ on icy roads in winter. | 冬天在結冰的路上請小心駕駛。
+contrary | completely different or opposite | The two scientists hold ____ views, so they never agree on anything. | 這兩位科學家持相反的看法，所以從來沒有意見一致過。
+deliberate | done on purpose, not by accident | The fire was not an accident; it was a ____ act by an angry worker. | 那場火不是意外，而是一名憤怒員工的蓄意行為。
+dissolve | to mix with a liquid and become part of it | Stir the tea until the sugar begins to ____ in the hot water. | 攪拌茶，直到糖開始溶解在熱水裡。
+explode | to burst suddenly with a loud noise | The police moved everyone away before the bomb could ____. | 警方在炸彈爆炸前把所有人疏散。
+fasten | to close or join two parts of something firmly | Please ____ your seat belt before the plane takes off. | 飛機起飛前請繫好安全帶。
+germ | a very small living thing that can make you sick | Wash your hands with soap, because one ____ can make you ill. | 用肥皂洗手，因為一個病菌就可能讓你生病。
+kit | a set of tools or things that you need for a special purpose | Every car should carry a first-aid ____ with bandages and medicine. | 每輛車都應該放一個裝有繃帶和藥品的急救箱。
+puff | a small amount of smoke, wind, or air | A ____ of smoke came out of the chimney and floated into the sky. | 一陣煙從煙囪冒出來，飄向天空。
+rag | a small piece of old cloth used for cleaning | He wiped the oil off his hands with an old ____. | 他用一塊舊抹布把手上的油擦掉。
+scatter | to throw or drop things over a wide area | The farmer began to ____ seeds over the field by hand. | 農夫開始用手把種子撒在田裡。
+scent | a pleasant smell | The ____ of fresh roses filled the whole room. | 新鮮玫瑰的香味充滿整個房間。
+steel | a very strong metal made from iron | The bridge is built of ____, so it can carry thousands of heavy trucks. | 這座橋是用鋼建造的，所以能承載數千輛重型卡車。
+swift | moving or happening very quickly | With one ____ movement, the cat caught the mouse. | 那隻貓一個迅速的動作就抓住了老鼠。
+toss | to throw something lightly | Please ____ me the keys; I can catch them from here. | 請把鑰匙丟給我，我從這裡接得到。
+triumph | a great success or victory | Winning the gold medal was the greatest ____ of her life. | 贏得金牌是她一生中最大的勝利。
+#13
+aboard | on or onto a ship, plane, bus, or train | All the passengers were ____ the ship when it left the harbor. | 船離港時，所有乘客都已在船上。
+bitter | feeling angry and unhappy for a long time; having a sharp taste | He is still ____ about losing his job three years ago. | 他對三年前失業一事至今仍憤憤不平。
+bullet | a small piece of metal that is shot from a gun | The doctor removed a ____ from the soldier's leg. | 醫生從士兵的腿裡取出一顆子彈。
+devil | a powerful evil spirit | In the old story, a man sold his soul to the ____ for money. | 在那個古老的故事裡，有個人為了錢把靈魂賣給魔鬼。
+drift | to be carried slowly by wind or water | We turned off the engine and let the boat ____ down the river. | 我們關掉引擎，讓船順流漂下。
+enforce | to make people obey a law or rule | The job of the police is to ____ the law and keep people safe. | 警察的工作是執行法律並保護人民安全。
+fountain | a structure that sends water up into the air | Children were playing in the water of the ____ in the middle of the park. | 孩子們在公園中央噴泉的水裡玩耍。
+harbor | a safe area of water where ships can stay | Dozens of fishing boats returned to the ____ before the storm arrived. | 數十艘漁船在暴風雨來臨前回到港口。
+inhabit | to live in a place | Polar bears ____ the cold lands around the North Pole. | 北極熊棲息在北極周圍的寒冷土地上。
+march | to walk with regular steps like a soldier | The soldiers ____ through the city center on National Day every year. | 士兵們每年國慶日都在市中心行進。
+millionaire | a person who has a million dollars or more | He became a ____ at thirty after selling his computer company. | 他賣掉電腦公司後，三十歲就成了百萬富翁。
+port | a town or city where ships arrive and leave | Kaohsiung is the largest ____ in Taiwan, and ships from all over the world stop there. | 高雄是台灣最大的港口，世界各地的船都在那裡停靠。
+sheriff | the chief police officer of an area in the United States | The ____ of the small town caught the bank robbers by himself. | 小鎮的警長獨自抓到銀行搶匪。
+startle | to surprise or frighten someone suddenly | Don't walk up behind me so quietly; you always ____ me. | 別那麼安靜地走到我背後，你總是嚇到我。
+sweat | to lose water through your skin because you are hot or nervous | I always ____ a lot when I run in the summer heat. | 夏天在高溫下跑步時，我總是流很多汗。
+trigger | the part of a gun that you pull to fire it | The hunter aimed carefully at the target and pulled the ____. | 獵人仔細瞄準目標，然後扣下扳機。
+unify | to join people or parts together to make one | The new leader hopes to ____ the country after years of fighting. | 新領導人希望在多年爭戰後統一國家。
+vessel | a large ship or boat | The huge ____ can carry more than five thousand cars across the ocean. | 這艘巨大的船艦能載運五千多輛車橫越海洋。
+voyage | a long journey by ship or in space | The ____ from England to America took two months in those days. | 在那個年代，從英國到美國的航程要花兩個月。
+worship | to show great respect and love for a god | People come to this temple to ____ the goddess of the sea. | 人們來這座廟敬拜海上女神。
+#14
+apprentice | a young person who works for a skilled person in order to learn a job | The baker's ____ gets up at four every morning to learn how to make bread. | 麵包師的學徒每天早上四點起床學做麵包。
+assure | to tell someone that something is certainly true | I ____ you that the dog is friendly and will not bite. | 我向你保證這隻狗很友善，不會咬人。
+bandage | a long piece of cloth that is wrapped around a wound | The nurse cleaned the cut and wrapped a ____ around his arm. | 護士清理了傷口，並在他手臂上包紮繃帶。
+bleed | to lose blood from a cut | Press hard on the cut, or it will continue to ____. | 用力壓住傷口，不然會繼續流血。
+bond | to develop a close relationship with someone | Reading stories together helps parents ____ with their children. | 一起讀故事有助於父母和孩子建立親密關係。
+chef | a professional cook, especially the head cook in a restaurant | The ____ at this hotel has cooked for presidents and movie stars. | 這家飯店的主廚曾為總統和電影明星做過菜。
+crown | a circle of gold and jewels that a king or queen wears on the head | The queen wore a golden ____ with a hundred diamonds on it. | 女王戴著一頂鑲有一百顆鑽石的金色皇冠。
+departure | the act of leaving a place | Our ____ was delayed for two hours because of the thick fog. | 由於濃霧，我們的出發時間延後了兩小時。
+diligent | working hard and carefully | The ____ student reviews her notes every night and never misses homework. | 那位勤奮的學生每晚複習筆記，從不缺交作業。
+emperor | the man who rules a group of countries | The Chinese ____ lived in a huge palace called the Forbidden City. | 中國的皇帝住在一座叫紫禁城的巨大宮殿裡。
+fiber | the part of plants in food that helps your body digest; a thin thread | Vegetables and fruit are rich in ____, which keeps your stomach healthy. | 蔬菜和水果富含纖維，能讓你的腸胃保持健康。
+horrible | very bad or unpleasant | The milk had gone bad and had a ____ smell. | 牛奶壞了，有一股可怕的味道。
+impolite | not polite; rude | It is ____ to talk loudly on your phone in a library. | 在圖書館大聲講電話是不禮貌的。
+kneel | to go down on your knees | In some churches, people ____ on the floor when they pray. | 在某些教堂裡，人們禱告時會跪在地上。
+luxury | something expensive that you enjoy but do not really need | A private swimming pool is a ____ that most families cannot afford. | 私人游泳池是大多數家庭負擔不起的奢侈品。
+massive | very large and heavy | A ____ rock fell from the mountain and blocked the whole road. | 一塊巨大的岩石從山上落下，擋住了整條路。
+panic | to suddenly feel so afraid that you cannot think clearly | If there is a fire, do not ____; walk calmly to the nearest exit. | 如果發生火災，不要恐慌，冷靜地走向最近的出口。
+priority | the thing that is most important and must be done first | The safety of the children is our first ____ on every school trip. | 每次校外教學，孩子的安全都是我們的第一優先。
+robe | a long, loose piece of clothing | After his bath, he put on a soft white ____ and sat by the fire. | 洗完澡後，他穿上柔軟的白色浴袍，坐在火爐旁。
+scold | to speak angrily to someone because they did something wrong | Parents often ____ their children for staying up too late. | 父母常因孩子熬夜而責罵他們。
+#15
+affair | an event or a matter that people talk about or deal with | The wedding was a small family ____ with only twenty guests. | 那場婚禮是只有二十位賓客的小型家庭聚會。
+assembly | a meeting of a large group of people for a special purpose | The principal spoke to all the students at the morning ____ in the gym. | 校長在體育館的朝會上對全體學生講話。
+bless | to ask God to protect someone or something | The priest raised his hand to ____ the newly married couple. | 神父舉起手為這對新婚夫婦祝福。
+cereal | a breakfast food made from grain, usually eaten with milk | I eat a bowl of ____ with cold milk every morning. | 我每天早上吃一碗加冰牛奶的麥片。
+cheerful | happy and showing it | The nurse's ____ smile made all the sick children feel better. | 護士愉快的笑容讓所有生病的孩子感覺好多了。
+diameter | a straight line across a circle through its center | The round table is two meters in ____, so ten people can sit at it. | 這張圓桌直徑兩公尺，可以坐十個人。
+exploit | to treat someone unfairly in order to get money or an advantage | Some factory owners ____ poor workers by paying them very little. | 有些工廠老闆用極低的工資剝削貧窮的工人。
+famine | a time when many people have very little food and may die | Millions of people died in the ____ when no rain fell for three years. | 三年沒下雨，數百萬人死於那場饑荒。
+harvest | the time when crops are gathered; the crops that are gathered | Farmers are very busy during the rice ____ in autumn. | 秋天稻米收成期間，農民非常忙碌。
+merry | happy and full of fun | We wish you a ____ Christmas and a happy New Year! | 祝你聖誕快樂、新年快樂！
+nut | a dry fruit with a hard shell and a seed inside that you can eat | The squirrel cracked the ____ open with its sharp teeth. | 松鼠用銳利的牙齒把堅果咬開。
+pardon | to forgive someone for something | Please ____ me for stepping on your foot; I did not see you. | 請原諒我踩到你的腳，我沒看到你。
+pharaoh | a king of ancient Egypt | The ____ ordered thousands of workers to build a pyramid for his tomb. | 法老下令數千名工人為他建造金字塔作為陵墓。
+ripe | (of fruit) fully grown and ready to eat | Don't eat the green bananas; wait until they are ____ and yellow. | 別吃青香蕉，等它們成熟變黃再吃。
+roast | to cook food in an oven or over a fire | We will ____ a whole chicken in the oven for dinner tonight. | 我們今晚要用烤箱烤一整隻雞當晚餐。
+routine | the usual way and order in which you do things | Brushing my teeth and reading are part of my bedtime ____. | 刷牙和閱讀是我睡前例行事務的一部分。
+scheme | a clever plan, often a secret or dishonest one | The two men thought of a ____ to steal money from the bank. | 那兩個人想出一個從銀行偷錢的陰謀。
+slim | thin in an attractive way | She stays ____ by swimming every morning and eating healthy food. | 她靠每天早上游泳和吃健康的食物保持苗條。
+stove | a piece of kitchen equipment used for cooking | Mom put a pot of soup on the ____ and turned on the gas. | 媽媽把一鍋湯放在爐子上，然後開瓦斯。
+theft | the crime of stealing something | He reported the ____ of his bicycle to the police. | 他向警方報案說他的腳踏車被偷了。
