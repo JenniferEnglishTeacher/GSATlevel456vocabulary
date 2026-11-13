@@ -292,10 +292,10 @@ const MCQS = [
   {
     "q": "In Taiwan, the summer vacation begins in ______ and ends in August.",
     "options": [
-      "Carpet",
+      "carpet",
       "July",
-      "Museum",
-      "Temperature"
+      "museum",
+      "temperature"
     ],
     "answer": 1,
     "cn": "在台灣，暑假從七月開始，八月結束。",

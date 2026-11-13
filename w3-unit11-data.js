@@ -501,7 +501,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "Carpet"
+      "text": "carpet"
      },
      {
       "letter": "B",
@@ -509,11 +509,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "Museum"
+      "text": "museum"
      },
      {
       "letter": "D",
-      "text": "Temperature"
+      "text": "temperature"
      }
     ],
     "answer": "B",

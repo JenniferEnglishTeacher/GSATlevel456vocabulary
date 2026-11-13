@@ -478,7 +478,7 @@ window.FLASHCARD_UNITS = {
     "options": [
      {
       "letter": "A",
-      "text": "Cancer"
+      "text": "cancer"
      },
      {
       "letter": "B",
@@ -486,11 +486,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "Cigarette"
+      "text": "cigarette"
      },
      {
       "letter": "D",
-      "text": "Result"
+      "text": "result"
      }
     ],
     "answer": "B",

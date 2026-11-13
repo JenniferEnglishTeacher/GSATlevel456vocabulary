@@ -280,10 +280,10 @@ const MCQS = [
   {
     "q": "The police used ______ from a hair to find out who the thief was.",
     "options": [
-      "Cancer",
+      "cancer",
       "DNA",
-      "Cigarette",
-      "Result"
+      "cigarette",
+      "result"
     ],
     "answer": 1,
     "cn": "警方利用一根頭髮上的DNA查出小偷是誰。",
