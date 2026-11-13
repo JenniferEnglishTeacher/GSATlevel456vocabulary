@@ -1495,7 +1495,7 @@ const LOOKUP = {
       }
     ]
   },
-  "settler": {
+  "settlers": {
     "pos": "n.",
     "en_def": "a person who arrives in a new region to build homes.",
     "cn_def": "移居者、開拓者",
@@ -1507,7 +1507,7 @@ const LOOKUP = {
       }
     ]
   },
-  "settlers": {
+  "settler": {
     "pos": "n.",
     "en_def": "a person who arrives in a new region to build homes.",
     "cn_def": "移居者、開拓者",

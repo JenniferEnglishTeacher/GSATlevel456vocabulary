@@ -1598,18 +1598,6 @@ const LOOKUP = {
       }
     ]
   },
-  "balloons": {
-    "pos": "n.",
-    "en_def": "a small rubber bag that becomes large when filled with air.",
-    "cn_def": "氣球",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a small rubber bag that becomes large when filled with air.",
-        "cn_def": "氣球"
-      }
-    ]
-  },
   "balloon": {
     "pos": "n.",
     "en_def": "a small rubber bag that becomes large when filled with air.",
@@ -1627,6 +1615,18 @@ const LOOKUP = {
       }
     ]
   },
+  "balloons": {
+    "pos": "n.",
+    "en_def": "a small rubber bag that becomes large when filled with air.",
+    "cn_def": "氣球",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a small rubber bag that becomes large when filled with air.",
+        "cn_def": "氣球"
+      }
+    ]
+  },
   "ballooned": {
     "pos": "v.",
     "en_def": "to quickly become very large or swell out.",
@@ -1639,7 +1639,7 @@ const LOOKUP = {
       }
     ]
   },
-  "weave / wove / woven": {
+  "weave": {
     "pos": "v.",
     "en_def": "to make cloth by crossing threads over and under each other.",
     "cn_def": "編織",
@@ -1651,7 +1651,7 @@ const LOOKUP = {
       }
     ]
   },
-  "weave": {
+  "weave / wove / woven": {
     "pos": "v.",
     "en_def": "to make cloth by crossing threads over and under each other.",
     "cn_def": "編織",
@@ -2000,18 +2000,6 @@ const LOOKUP = {
       }
     ]
   },
-  "adults": {
-    "pos": "n.",
-    "en_def": "a person or animal that is fully grown up.",
-    "cn_def": "成人",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a person or animal that is fully grown up.",
-        "cn_def": "成人"
-      }
-    ]
-  },
   "adult": {
     "pos": "n.",
     "en_def": "a person or animal that is fully grown up.",
@@ -2026,6 +2014,18 @@ const LOOKUP = {
         "pos": "adj.",
         "en_def": "fully developed or suitable only for grown ups.",
         "cn_def": "成年的、成熟的"
+      }
+    ]
+  },
+  "adults": {
+    "pos": "n.",
+    "en_def": "a person or animal that is fully grown up.",
+    "cn_def": "成人",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a person or animal that is fully grown up.",
+        "cn_def": "成人"
       }
     ]
   },

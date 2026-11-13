@@ -1509,7 +1509,7 @@ const LOOKUP = {
       }
     ]
   },
-  "begged for": {
+  "beg for": {
     "pos": "phr.",
     "en_def": "to ask with massive emotion for mercy or food.",
     "cn_def": "乞求…",
@@ -1521,7 +1521,7 @@ const LOOKUP = {
       }
     ]
   },
-  "beg for": {
+  "begged for": {
     "pos": "phr.",
     "en_def": "to ask with massive emotion for mercy or food.",
     "cn_def": "乞求…",
@@ -1730,7 +1730,7 @@ const LOOKUP = {
       }
     ]
   },
-  "working in advertising": {
+  "work in advertising": {
     "pos": "phr.",
     "en_def": "to hold a job position designing market ads.",
     "cn_def": "從事廣告業",
@@ -1742,7 +1742,7 @@ const LOOKUP = {
       }
     ]
   },
-  "work in advertising": {
+  "working in advertising": {
     "pos": "phr.",
     "en_def": "to hold a job position designing market ads.",
     "cn_def": "從事廣告業",
@@ -2088,7 +2088,7 @@ const LOOKUP = {
       }
     ]
   },
-  "suit": {
+  "suits": {
     "pos": "v.",
     "en_def": "to look right on someone or match their needs.",
     "cn_def": "適合、相配",
@@ -2100,7 +2100,7 @@ const LOOKUP = {
       }
     ]
   },
-  "suits": {
+  "suit": {
     "pos": "v.",
     "en_def": "to look right on someone or match their needs.",
     "cn_def": "適合、相配",

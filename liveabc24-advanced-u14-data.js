@@ -1152,18 +1152,6 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "assured": {
-    "pos": "v.",
-    "en_def": "to promise someone that something is definitely true.",
-    "cn_def": "向…保證、使確信",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to promise someone that something is definitely true.",
-        "cn_def": "向…保證、使確信"
-      }
-    ]
-  },
   "assure": {
     "pos": "v.",
     "en_def": "to promise someone that something is definitely true.",
@@ -1178,6 +1166,18 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to make a positive outcome certain to happen.",
         "cn_def": "確保、保障"
+      }
+    ]
+  },
+  "assured": {
+    "pos": "v.",
+    "en_def": "to promise someone that something is definitely true.",
+    "cn_def": "向…保證、使確信",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to promise someone that something is definitely true.",
+        "cn_def": "向…保證、使確信"
       }
     ]
   },
@@ -1253,7 +1253,7 @@ const LOOKUP = {
       }
     ]
   },
-  "destroyed": {
+  "destroy": {
     "pos": "v.",
     "en_def": "to damage something so badly that it cannot be fixed.",
     "cn_def": "破壞、毀滅",
@@ -1265,7 +1265,7 @@ const LOOKUP = {
       }
     ]
   },
-  "destroy": {
+  "destroyed": {
     "pos": "v.",
     "en_def": "to damage something so badly that it cannot be fixed.",
     "cn_def": "破壞、毀滅",
@@ -1301,18 +1301,6 @@ const LOOKUP = {
       }
     ]
   },
-  "damage": {
-    "pos": "v.",
-    "en_def": "to harm an item; a loss in value or beauty.",
-    "cn_def": "損害、損壞",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to harm an item; a loss in value or beauty.",
-        "cn_def": "損害、損壞"
-      }
-    ]
-  },
   "damaged": {
     "pos": "v.",
     "en_def": "to harm an item; a loss in value or beauty.",
@@ -1325,7 +1313,19 @@ const LOOKUP = {
       }
     ]
   },
-  "ruin": {
+  "damage": {
+    "pos": "v.",
+    "en_def": "to harm an item; a loss in value or beauty.",
+    "cn_def": "損害、損壞",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to harm an item; a loss in value or beauty.",
+        "cn_def": "損害、損壞"
+      }
+    ]
+  },
+  "ruined": {
     "pos": "v.",
     "en_def": "to completely spoil or destroy a plan or dish.",
     "cn_def": "毀掉、搞砸",
@@ -1337,7 +1337,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ruined": {
+  "ruin": {
     "pos": "v.",
     "en_def": "to completely spoil or destroy a plan or dish.",
     "cn_def": "毀掉、搞砸",
@@ -1397,18 +1397,6 @@ const LOOKUP = {
       }
     ]
   },
-  "searched": {
-    "pos": "v.",
-    "en_def": "to look carefully across an area to find an item.",
-    "cn_def": "搜尋、搜查",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to look carefully across an area to find an item.",
-        "cn_def": "搜尋、搜查"
-      }
-    ]
-  },
   "search": {
     "pos": "v.",
     "en_def": "to look carefully across an area to find an item.",
@@ -1422,6 +1410,18 @@ const LOOKUP = {
       {
         "pos": "n.",
         "en_def": "an active process of hunting for a missing target.",
+        "cn_def": "搜尋、搜查"
+      }
+    ]
+  },
+  "searched": {
+    "pos": "v.",
+    "en_def": "to look carefully across an area to find an item.",
+    "cn_def": "搜尋、搜查",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to look carefully across an area to find an item.",
         "cn_def": "搜尋、搜查"
       }
     ]
@@ -1587,7 +1587,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bore witness to": {
+  "bear witness to": {
     "pos": "phr.",
     "en_def": "to show clear proof that a baseline fact is true.",
     "cn_def": "證明、見證",
@@ -1599,7 +1599,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bear witness to": {
+  "bore witness to": {
     "pos": "phr.",
     "en_def": "to show clear proof that a baseline fact is true.",
     "cn_def": "證明、見證",

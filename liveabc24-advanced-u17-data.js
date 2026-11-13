@@ -1670,7 +1670,7 @@ const LOOKUP = {
       }
     ]
   },
-  "turn out": {
+  "turned out": {
     "pos": "phr.",
     "en_def": "to arrive or assemble at an event to participate.",
     "cn_def": "出席、結果是",
@@ -1682,7 +1682,7 @@ const LOOKUP = {
       }
     ]
   },
-  "turned out": {
+  "turn out": {
     "pos": "phr.",
     "en_def": "to arrive or assemble at an event to participate.",
     "cn_def": "出席、結果是",
@@ -1706,7 +1706,7 @@ const LOOKUP = {
       }
     ]
   },
-  "admire": {
+  "admired": {
     "pos": "v.",
     "en_def": "to respect and approve of someone's talents or skill.",
     "cn_def": "欽佩、欣賞、讚賞",
@@ -1718,7 +1718,7 @@ const LOOKUP = {
       }
     ]
   },
-  "admired": {
+  "admire": {
     "pos": "v.",
     "en_def": "to respect and approve of someone's talents or skill.",
     "cn_def": "欽佩、欣賞、讚賞",
@@ -1968,18 +1968,6 @@ const LOOKUP = {
       }
     ]
   },
-  "decoration": {
-    "pos": "n.",
-    "en_def": "items added to a room to make it look attractive.",
-    "cn_def": "裝飾品、裝飾",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "items added to a room to make it look attractive.",
-        "cn_def": "裝飾品、裝飾"
-      }
-    ]
-  },
   "decorations": {
     "pos": "n.",
     "en_def": "items added to a room to make it look attractive.",
@@ -1992,7 +1980,19 @@ const LOOKUP = {
       }
     ]
   },
-  "decorating": {
+  "decoration": {
+    "pos": "n.",
+    "en_def": "items added to a room to make it look attractive.",
+    "cn_def": "裝飾品、裝飾",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "items added to a room to make it look attractive.",
+        "cn_def": "裝飾品、裝飾"
+      }
+    ]
+  },
+  "decorate": {
     "pos": "v.",
     "en_def": "to paint or add festive items to a bedroom space.",
     "cn_def": "裝飾、布置",
@@ -2004,7 +2004,7 @@ const LOOKUP = {
       }
     ]
   },
-  "decorate": {
+  "decorating": {
     "pos": "v.",
     "en_def": "to paint or add festive items to a bedroom space.",
     "cn_def": "裝飾、布置",
@@ -2451,7 +2451,7 @@ const LOOKUP = {
       }
     ]
   },
-  "adjustments": {
+  "adjustment": {
     "pos": "n.",
     "en_def": "a small modification made to a setting or machine.",
     "cn_def": "調整",
@@ -2463,7 +2463,7 @@ const LOOKUP = {
       }
     ]
   },
-  "adjustment": {
+  "adjustments": {
     "pos": "n.",
     "en_def": "a small modification made to a setting or machine.",
     "cn_def": "調整",
@@ -2547,7 +2547,7 @@ const LOOKUP = {
       }
     ]
   },
-  "surrounded": {
+  "surround": {
     "pos": "v.",
     "en_def": "to move all the way around an entry to close it in.",
     "cn_def": "環繞、圍繞",
@@ -2559,7 +2559,7 @@ const LOOKUP = {
       }
     ]
   },
-  "surround": {
+  "surrounded": {
     "pos": "v.",
     "en_def": "to move all the way around an entry to close it in.",
     "cn_def": "環繞、圍繞",

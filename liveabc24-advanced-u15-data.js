@@ -1471,7 +1471,7 @@ const LOOKUP = {
       }
     ]
   },
-  "requirements": {
+  "requirement": {
     "pos": "n.",
     "en_def": "a mandatory baseline spec needed to enter a club.",
     "cn_def": "必要條件、要求",
@@ -1483,7 +1483,7 @@ const LOOKUP = {
       }
     ]
   },
-  "requirement": {
+  "requirements": {
     "pos": "n.",
     "en_def": "a mandatory baseline spec needed to enter a club.",
     "cn_def": "必要條件、要求",
@@ -1507,7 +1507,7 @@ const LOOKUP = {
       }
     ]
   },
-  "received": {
+  "receive": {
     "pos": "v.",
     "en_def": "to accept or take an item passed to you.",
     "cn_def": "收到、接受",
@@ -1519,7 +1519,7 @@ const LOOKUP = {
       }
     ]
   },
-  "receive": {
+  "received": {
     "pos": "v.",
     "en_def": "to accept or take an item passed to you.",
     "cn_def": "收到、接受",
@@ -1767,7 +1767,7 @@ const LOOKUP = {
       }
     ]
   },
-  "steal / stole / stolen": {
+  "stole": {
     "pos": "v.",
     "en_def": "to take an asset without permission secretly.",
     "cn_def": "偷竊、竊取",
@@ -1779,7 +1779,7 @@ const LOOKUP = {
       }
     ]
   },
-  "stole": {
+  "steal / stole / stolen": {
     "pos": "v.",
     "en_def": "to take an asset without permission secretly.",
     "cn_def": "偷竊、竊取",

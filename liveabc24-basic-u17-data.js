@@ -1414,18 +1414,6 @@ const LOOKUP = {
       }
     ]
   },
-  "demonstrator": {
-    "pos": "n.",
-    "en_def": "a person who takes part in a public protest",
-    "cn_def": "示威者",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a person who takes part in a public protest",
-        "cn_def": "示威者"
-      }
-    ]
-  },
   "demonstrators": {
     "pos": "n.",
     "en_def": "a person who takes part in a public protest",
@@ -1438,15 +1426,15 @@ const LOOKUP = {
       }
     ]
   },
-  "scratched": {
-    "pos": "v.",
-    "en_def": "to rub or cut a surface or your skin with something sharp",
-    "cn_def": "抓;擦傷;刮擦聲",
+  "demonstrator": {
+    "pos": "n.",
+    "en_def": "a person who takes part in a public protest",
+    "cn_def": "示威者",
     "combined": [
       {
-        "pos": "v.",
-        "en_def": "to rub or cut a surface or your skin with something sharp",
-        "cn_def": "抓;擦傷;刮擦聲"
+        "pos": "n.",
+        "en_def": "a person who takes part in a public protest",
+        "cn_def": "示威者"
       }
     ]
   },
@@ -1463,6 +1451,18 @@ const LOOKUP = {
       {
         "pos": "n.",
         "en_def": "a small cut or mark made by something sharp",
+        "cn_def": "抓;擦傷;刮擦聲"
+      }
+    ]
+  },
+  "scratched": {
+    "pos": "v.",
+    "en_def": "to rub or cut a surface or your skin with something sharp",
+    "cn_def": "抓;擦傷;刮擦聲",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to rub or cut a surface or your skin with something sharp",
         "cn_def": "抓;擦傷;刮擦聲"
       }
     ]

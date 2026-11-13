@@ -866,7 +866,7 @@ const LOOKUP = {
       }
     ]
   },
-  "cheer up": {
+  "cheer her up": {
     "pos": "phr.",
     "en_def": "to become happier or make someone feel happier.",
     "cn_def": "高興起來；振作起來",
@@ -878,7 +878,7 @@ const LOOKUP = {
       }
     ]
   },
-  "cheer her up": {
+  "cheer up": {
     "pos": "phr.",
     "en_def": "to become happier or make someone feel happier.",
     "cn_def": "高興起來；振作起來",
@@ -1193,7 +1193,7 @@ const LOOKUP = {
       }
     ]
   },
-  "aimed at": {
+  "aim at": {
     "pos": "phr.",
     "en_def": "to be intended for a particular purpose, person, or group.",
     "cn_def": "以……為目標",
@@ -1205,7 +1205,7 @@ const LOOKUP = {
       }
     ]
   },
-  "aim at": {
+  "aimed at": {
     "pos": "phr.",
     "en_def": "to be intended for a particular purpose, person, or group.",
     "cn_def": "以……為目標",
@@ -1229,7 +1229,7 @@ const LOOKUP = {
       }
     ]
   },
-  "reach her goal": {
+  "reach a goal": {
     "pos": "phr.",
     "en_def": "to successfully achieve something one has been trying to do.",
     "cn_def": "達成目標",
@@ -1241,7 +1241,7 @@ const LOOKUP = {
       }
     ]
   },
-  "reach a goal": {
+  "reach her goal": {
     "pos": "phr.",
     "en_def": "to successfully achieve something one has been trying to do.",
     "cn_def": "達成目標",

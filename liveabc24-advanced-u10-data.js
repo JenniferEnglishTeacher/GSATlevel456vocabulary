@@ -1770,7 +1770,7 @@ const LOOKUP = {
       }
     ]
   },
-  "situate": {
+  "situated": {
     "pos": "v.",
     "en_def": "to build or place something in a specific spot.",
     "cn_def": "使位於、處於",
@@ -1782,7 +1782,7 @@ const LOOKUP = {
       }
     ]
   },
-  "situated": {
+  "situate": {
     "pos": "v.",
     "en_def": "to build or place something in a specific spot.",
     "cn_def": "使位於、處於",
@@ -2480,7 +2480,7 @@ const LOOKUP = {
       }
     ]
   },
-  "conclude": {
+  "concluded": {
     "pos": "v.",
     "en_def": "to judge or decide something after checking facts.",
     "cn_def": "斷定、推斷出",
@@ -2497,7 +2497,7 @@ const LOOKUP = {
       }
     ]
   },
-  "concluded": {
+  "conclude": {
     "pos": "v.",
     "en_def": "to judge or decide something after checking facts.",
     "cn_def": "斷定、推斷出",

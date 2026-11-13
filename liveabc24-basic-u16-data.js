@@ -868,7 +868,7 @@ const LOOKUP = {
       }
     ]
   },
-  "expand/widen/broaden sb.'s horizons": {
+  "broaden": {
     "pos": "n.",
     "en_def": "to help someone learn about and experience more new things",
     "cn_def": "拓展視野;廣見聞",
@@ -880,7 +880,7 @@ const LOOKUP = {
       }
     ]
   },
-  "broaden": {
+  "expand/widen/broaden sb.'s horizons": {
     "pos": "n.",
     "en_def": "to help someone learn about and experience more new things",
     "cn_def": "拓展視野;廣見聞",
@@ -1228,7 +1228,7 @@ const LOOKUP = {
       }
     ]
   },
-  "deliver": {
+  "delivered": {
     "pos": "v.",
     "en_def": "to take goods or letters to a place; to give a speech",
     "cn_def": "提供;運送;投遞",
@@ -1240,7 +1240,7 @@ const LOOKUP = {
       }
     ]
   },
-  "delivered": {
+  "deliver": {
     "pos": "v.",
     "en_def": "to take goods or letters to a place; to give a speech",
     "cn_def": "提供;運送;投遞",
@@ -1300,18 +1300,6 @@ const LOOKUP = {
       }
     ]
   },
-  "pheromones": {
-    "pos": "n.",
-    "en_def": "a chemical that an animal produces to send signals to others of its kind",
-    "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a chemical that an animal produces to send signals to others of its kind",
-        "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)"
-      }
-    ]
-  },
   "pheromone": {
     "pos": "n.",
     "en_def": "a chemical that an animal produces to send signals to others of its kind",
@@ -1324,7 +1312,19 @@ const LOOKUP = {
       }
     ]
   },
-  "acclaim": {
+  "pheromones": {
+    "pos": "n.",
+    "en_def": "a chemical that an animal produces to send signals to others of its kind",
+    "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a chemical that an animal produces to send signals to others of its kind",
+        "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)"
+      }
+    ]
+  },
+  "acclaimed": {
     "pos": "v.",
     "en_def": "to praise someone or something publicly",
     "cn_def": "為...歡呼;稱讚",
@@ -1336,7 +1336,7 @@ const LOOKUP = {
       }
     ]
   },
-  "acclaimed": {
+  "acclaim": {
     "pos": "v.",
     "en_def": "to praise someone or something publicly",
     "cn_def": "為...歡呼;稱讚",

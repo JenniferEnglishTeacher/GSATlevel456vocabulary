@@ -1237,7 +1237,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be connected to": {
+  "be connected to/with": {
     "pos": "phr.",
     "en_def": "to be joined or linked to something or someone",
     "cn_def": "與...有連結/關係",
@@ -1249,7 +1249,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be connected to/with": {
+  "be connected to": {
     "pos": "phr.",
     "en_def": "to be joined or linked to something or someone",
     "cn_def": "與...有連結/關係",

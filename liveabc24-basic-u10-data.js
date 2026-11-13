@@ -1344,18 +1344,6 @@ const LOOKUP = {
       }
     ]
   },
-  "claims": {
-    "pos": "v.",
-    "en_def": "to say that something is true, although it has not been proved",
-    "cn_def": "聲稱；宣稱",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to say that something is true, although it has not been proved",
-        "cn_def": "聲稱；宣稱"
-      }
-    ]
-  },
   "claim": {
     "pos": "v.",
     "en_def": "to say that something is true, although it has not been proved",
@@ -1370,6 +1358,18 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to ask for something, especially money, because you have a right to it",
         "cn_def": "要求；索賠"
+      }
+    ]
+  },
+  "claims": {
+    "pos": "v.",
+    "en_def": "to say that something is true, although it has not been proved",
+    "cn_def": "聲稱；宣稱",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to say that something is true, although it has not been proved",
+        "cn_def": "聲稱；宣稱"
       }
     ]
   },
@@ -1505,7 +1505,7 @@ const LOOKUP = {
       }
     ]
   },
-  "beliefs": {
+  "belief": {
     "pos": "n.",
     "en_def": "a strong feeling that something is true or right",
     "cn_def": "信仰；信念",
@@ -1517,7 +1517,7 @@ const LOOKUP = {
       }
     ]
   },
-  "belief": {
+  "beliefs": {
     "pos": "n.",
     "en_def": "a strong feeling that something is true or right",
     "cn_def": "信仰；信念",
@@ -1582,7 +1582,7 @@ const LOOKUP = {
       }
     ]
   },
-  "effects": {
+  "effect": {
     "pos": "n.",
     "en_def": "a change that one thing causes in another",
     "cn_def": "影響；效果",
@@ -1594,7 +1594,7 @@ const LOOKUP = {
       }
     ]
   },
-  "effect": {
+  "effects": {
     "pos": "n.",
     "en_def": "a change that one thing causes in another",
     "cn_def": "影響；效果",
@@ -1866,18 +1866,6 @@ const LOOKUP = {
       }
     ]
   },
-  "sense of responsibility": {
-    "pos": "phr.",
-    "en_def": "the feeling that you must do your duty and can be trusted",
-    "cn_def": "責任感",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "the feeling that you must do your duty and can be trusted",
-        "cn_def": "責任感"
-      }
-    ]
-  },
   "a sense of responsibility": {
     "pos": "phr.",
     "en_def": "the feeling that you must do your duty and can be trusted",
@@ -1890,15 +1878,15 @@ const LOOKUP = {
       }
     ]
   },
-  "sense of humor": {
+  "sense of responsibility": {
     "pos": "phr.",
-    "en_def": "the ability to find things funny or make people laugh",
-    "cn_def": "幽默感",
+    "en_def": "the feeling that you must do your duty and can be trusted",
+    "cn_def": "責任感",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "the ability to find things funny or make people laugh",
-        "cn_def": "幽默感"
+        "en_def": "the feeling that you must do your duty and can be trusted",
+        "cn_def": "責任感"
       }
     ]
   },
@@ -1914,7 +1902,19 @@ const LOOKUP = {
       }
     ]
   },
-  "a sense of achievement": {
+  "sense of humor": {
+    "pos": "phr.",
+    "en_def": "the ability to find things funny or make people laugh",
+    "cn_def": "幽默感",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "the ability to find things funny or make people laugh",
+        "cn_def": "幽默感"
+      }
+    ]
+  },
+  "sense of achievement": {
     "pos": "phr.",
     "en_def": "a proud feeling that you have done something difficult well",
     "cn_def": "成就感",
@@ -1926,7 +1926,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sense of achievement": {
+  "a sense of achievement": {
     "pos": "phr.",
     "en_def": "a proud feeling that you have done something difficult well",
     "cn_def": "成就感",
@@ -2027,7 +2027,7 @@ const LOOKUP = {
       }
     ]
   },
-  "blessing in disguise": {
+  "a blessing in disguise": {
     "pos": "phr.",
     "en_def": "something that seems bad at first but brings a good result later",
     "cn_def": "塞翁失馬焉知非福",
@@ -2039,7 +2039,7 @@ const LOOKUP = {
       }
     ]
   },
-  "a blessing in disguise": {
+  "blessing in disguise": {
     "pos": "phr.",
     "en_def": "something that seems bad at first but brings a good result later",
     "cn_def": "塞翁失馬焉知非福",

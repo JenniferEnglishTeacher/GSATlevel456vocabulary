@@ -1263,7 +1263,7 @@ const LOOKUP = {
       }
     ]
   },
-  "to his grief": {
+  "to one's grief": {
     "pos": "phr.",
     "en_def": "used to say that something makes someone very sad",
     "cn_def": "令某人悲傷",
@@ -1275,7 +1275,7 @@ const LOOKUP = {
       }
     ]
   },
-  "to one's grief": {
+  "to his grief": {
     "pos": "phr.",
     "en_def": "used to say that something makes someone very sad",
     "cn_def": "令某人悲傷",
@@ -1412,18 +1412,6 @@ const LOOKUP = {
       }
     ]
   },
-  "feel like + ving": {
-    "pos": "phr.",
-    "en_def": "to want to do something",
-    "cn_def": "想要做某事",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "to want to do something",
-        "cn_def": "想要做某事"
-      }
-    ]
-  },
   "feel like": {
     "pos": "phr.",
     "en_def": "to want to do something",
@@ -1438,6 +1426,18 @@ const LOOKUP = {
         "pos": "phr.",
         "en_def": "to seem to be something; to give the impression of",
         "cn_def": "像是"
+      }
+    ]
+  },
+  "feel like + ving": {
+    "pos": "phr.",
+    "en_def": "to want to do something",
+    "cn_def": "想要做某事",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to want to do something",
+        "cn_def": "想要做某事"
       }
     ]
   },
@@ -1513,7 +1513,7 @@ const LOOKUP = {
       }
     ]
   },
-  "diagnosed": {
+  "diagnose": {
     "pos": "v.",
     "en_def": "to find out and say what illness someone has",
     "cn_def": "診斷",
@@ -1525,7 +1525,7 @@ const LOOKUP = {
       }
     ]
   },
-  "diagnose": {
+  "diagnosed": {
     "pos": "v.",
     "en_def": "to find out and say what illness someone has",
     "cn_def": "診斷",
@@ -1561,7 +1561,7 @@ const LOOKUP = {
       }
     ]
   },
-  "diagnosed with": {
+  "be diagnosed with": {
     "pos": "phr.",
     "en_def": "to be told by a doctor that you have a particular illness",
     "cn_def": "被診斷出患有...",
@@ -1573,7 +1573,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be diagnosed with": {
+  "diagnosed with": {
     "pos": "phr.",
     "en_def": "to be told by a doctor that you have a particular illness",
     "cn_def": "被診斷出患有...",

@@ -2022,7 +2022,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ingredient": {
+  "ingredients": {
     "pos": "n.",
     "en_def": "one of the foods or items that a mixture contains.",
     "cn_def": "原料、成分、配料",
@@ -2034,7 +2034,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ingredients": {
+  "ingredient": {
     "pos": "n.",
     "en_def": "one of the foods or items that a mixture contains.",
     "cn_def": "原料、成分、配料",
@@ -2082,7 +2082,7 @@ const LOOKUP = {
       }
     ]
   },
-  "differs from": {
+  "differ from": {
     "pos": "phr.",
     "en_def": "to showcase distinct features compared to another.",
     "cn_def": "與…不同",
@@ -2094,7 +2094,7 @@ const LOOKUP = {
       }
     ]
   },
-  "differ from": {
+  "differs from": {
     "pos": "phr.",
     "en_def": "to showcase distinct features compared to another.",
     "cn_def": "與…不同",
@@ -2450,7 +2450,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pay attention to her": {
+  "pay attention to someone": {
     "pos": "phr.",
     "en_def": "to listen closely to an individual's speech.",
     "cn_def": "注意某人",
@@ -2462,7 +2462,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pay attention to someone": {
+  "pay attention to her": {
     "pos": "phr.",
     "en_def": "to listen closely to an individual's speech.",
     "cn_def": "注意某人",
@@ -2558,6 +2558,18 @@ const LOOKUP = {
       }
     ]
   },
+  "contents": {
+    "pos": "n.",
+    "en_def": "the elements or objects held inside a container.",
+    "cn_def": "內容物、目錄",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "the elements or objects held inside a container.",
+        "cn_def": "內容物、目錄"
+      }
+    ]
+  },
   "content": {
     "pos": "n.",
     "en_def": "the elements or objects held inside a container.",
@@ -2577,18 +2589,6 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to make someone feel satisfied or pacified.",
         "cn_def": "使滿足、使滿意"
-      }
-    ]
-  },
-  "contents": {
-    "pos": "n.",
-    "en_def": "the elements or objects held inside a container.",
-    "cn_def": "內容物、目錄",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "the elements or objects held inside a container.",
-        "cn_def": "內容物、目錄"
       }
     ]
   },
@@ -2616,7 +2616,7 @@ const LOOKUP = {
       }
     ]
   },
-  "to their hearts' content": {
+  "to one's heart's content": {
     "pos": "phr.",
     "en_def": "doing an activity as much as your mind wants.",
     "cn_def": "盡情地、心滿意足地",
@@ -2628,7 +2628,7 @@ const LOOKUP = {
       }
     ]
   },
-  "to one's heart's content": {
+  "to their hearts' content": {
     "pos": "phr.",
     "en_def": "doing an activity as much as your mind wants.",
     "cn_def": "盡情地、心滿意足地",
@@ -2748,7 +2748,7 @@ const LOOKUP = {
       }
     ]
   },
-  "preference": {
+  "preferences": {
     "pos": "n.",
     "en_def": "a greater liking for one alternative over another.",
     "cn_def": "偏好、優先權",
@@ -2760,7 +2760,7 @@ const LOOKUP = {
       }
     ]
   },
-  "preferences": {
+  "preference": {
     "pos": "n.",
     "en_def": "a greater liking for one alternative over another.",
     "cn_def": "偏好、優先權",
@@ -2868,7 +2868,7 @@ const LOOKUP = {
       }
     ]
   },
-  "arrange": {
+  "arranging": {
     "pos": "v.",
     "en_def": "to position items neatly or organize a plan.",
     "cn_def": "排列、安排、佈置",
@@ -2880,7 +2880,7 @@ const LOOKUP = {
       }
     ]
   },
-  "arranging": {
+  "arrange": {
     "pos": "v.",
     "en_def": "to position items neatly or organize a plan.",
     "cn_def": "排列、安排、佈置",

@@ -922,6 +922,18 @@ const LOOKUP = {
       }
     ]
   },
+  "at a ...rate / speed": {
+    "pos": "phr.",
+    "en_def": "at a particular speed",
+    "cn_def": "以...的速度",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "at a particular speed",
+        "cn_def": "以...的速度"
+      }
+    ]
+  },
   "rate": {
     "pos": "phr.",
     "en_def": "at a particular speed",
@@ -941,18 +953,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a fixed amount of money that is charged or paid for something",
         "cn_def": "費用"
-      }
-    ]
-  },
-  "at a ...rate / speed": {
-    "pos": "phr.",
-    "en_def": "at a particular speed",
-    "cn_def": "以...的速度",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "at a particular speed",
-        "cn_def": "以...的速度"
       }
     ]
   },

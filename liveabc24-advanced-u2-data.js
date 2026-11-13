@@ -1051,7 +1051,7 @@ const LOOKUP = {
       }
     ]
   },
-  "go the extra mile": {
+  "goes the extra mile": {
     "pos": "phr.",
     "en_def": "to make more effort than expected.",
     "cn_def": "額外努力",
@@ -1063,7 +1063,7 @@ const LOOKUP = {
       }
     ]
   },
-  "goes the extra mile": {
+  "go the extra mile": {
     "pos": "phr.",
     "en_def": "to make more effort than expected.",
     "cn_def": "額外努力",
@@ -1359,18 +1359,6 @@ const LOOKUP = {
       }
     ]
   },
-  "polishes": {
-    "pos": "v.",
-    "en_def": "to rub something until it shines.",
-    "cn_def": "擦亮",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to rub something until it shines.",
-        "cn_def": "擦亮"
-      }
-    ]
-  },
   "polish": {
     "pos": "v.",
     "en_def": "to rub something until it shines.",
@@ -1390,6 +1378,18 @@ const LOOKUP = {
         "pos": "phr.",
         "en_def": "to improve skills through practice.",
         "cn_def": "改進技能"
+      }
+    ]
+  },
+  "polishes": {
+    "pos": "v.",
+    "en_def": "to rub something until it shines.",
+    "cn_def": "擦亮",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to rub something until it shines.",
+        "cn_def": "擦亮"
       }
     ]
   },
@@ -1441,18 +1441,6 @@ const LOOKUP = {
       }
     ]
   },
-  "tell something apart": {
-    "pos": "phr.",
-    "en_def": "to recognize the difference between two similar things.",
-    "cn_def": "分辨",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "to recognize the difference between two similar things.",
-        "cn_def": "分辨"
-      }
-    ]
-  },
   "tell the twins apart": {
     "pos": "phr.",
     "en_def": "to recognize the difference between two similar things.",
@@ -1465,7 +1453,19 @@ const LOOKUP = {
       }
     ]
   },
-  "keep the chemicals apart": {
+  "tell something apart": {
+    "pos": "phr.",
+    "en_def": "to recognize the difference between two similar things.",
+    "cn_def": "分辨",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to recognize the difference between two similar things.",
+        "cn_def": "分辨"
+      }
+    ]
+  },
+  "keep something apart": {
     "pos": "phr.",
     "en_def": "to keep things separated from each other.",
     "cn_def": "使...分開",
@@ -1477,7 +1477,7 @@ const LOOKUP = {
       }
     ]
   },
-  "keep something apart": {
+  "keep the chemicals apart": {
     "pos": "phr.",
     "en_def": "to keep things separated from each other.",
     "cn_def": "使...分開",
@@ -1537,7 +1537,7 @@ const LOOKUP = {
       }
     ]
   },
-  "combine different flavors with": {
+  "combine a with b": {
     "pos": "phr.",
     "en_def": "to join one thing with another thing.",
     "cn_def": "將A與B結合",
@@ -1549,7 +1549,7 @@ const LOOKUP = {
       }
     ]
   },
-  "combine a with b": {
+  "combine different flavors with": {
     "pos": "phr.",
     "en_def": "to join one thing with another thing.",
     "cn_def": "將A與B結合",

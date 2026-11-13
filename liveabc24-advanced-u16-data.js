@@ -1157,18 +1157,6 @@ const LOOKUP = {
       }
     ]
   },
-  "is similar to": {
-    "pos": "phr.",
-    "en_def": "one object looks or behaves like a separate counterpart.",
-    "cn_def": "A與B相似",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "one object looks or behaves like a separate counterpart.",
-        "cn_def": "A與B相似"
-      }
-    ]
-  },
   "a is similar to b": {
     "pos": "phr.",
     "en_def": "one object looks or behaves like a separate counterpart.",
@@ -1181,7 +1169,19 @@ const LOOKUP = {
       }
     ]
   },
-  "are similar in": {
+  "is similar to": {
+    "pos": "phr.",
+    "en_def": "one object looks or behaves like a separate counterpart.",
+    "cn_def": "A與B相似",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "one object looks or behaves like a separate counterpart.",
+        "cn_def": "A與B相似"
+      }
+    ]
+  },
+  "be similar in": {
     "pos": "phr.",
     "en_def": "sharing matching metrics within an explicit category.",
     "cn_def": "在…方面相似",
@@ -1193,7 +1193,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be similar in": {
+  "are similar in": {
     "pos": "phr.",
     "en_def": "sharing matching metrics within an explicit category.",
     "cn_def": "在…方面相似",
@@ -1258,7 +1258,7 @@ const LOOKUP = {
       }
     ]
   },
-  "investigate": {
+  "investigating": {
     "pos": "v.",
     "en_def": "to carefully examine a crime or problem to find facts.",
     "cn_def": "調查、審查",
@@ -1270,7 +1270,7 @@ const LOOKUP = {
       }
     ]
   },
-  "investigating": {
+  "investigate": {
     "pos": "v.",
     "en_def": "to carefully examine a crime or problem to find facts.",
     "cn_def": "調查、審查",
@@ -1378,7 +1378,7 @@ const LOOKUP = {
       }
     ]
   },
-  "grinned": {
+  "grin / grinned / grinned": {
     "pos": "v.",
     "en_def": "to smile widely, often showing your teeth.",
     "cn_def": "露齒而笑",
@@ -1390,7 +1390,7 @@ const LOOKUP = {
       }
     ]
   },
-  "grin / grinned / grinned": {
+  "grinned": {
     "pos": "v.",
     "en_def": "to smile widely, often showing your teeth.",
     "cn_def": "露齒而笑",
@@ -1498,7 +1498,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tickle": {
+  "tickled": {
     "pos": "v.",
     "en_def": "to touch someone lightly to make them laugh or wiggle.",
     "cn_def": "搔癢、使發癢",
@@ -1510,7 +1510,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tickled": {
+  "tickle": {
     "pos": "v.",
     "en_def": "to touch someone lightly to make them laugh or wiggle.",
     "cn_def": "搔癢、使發癢",
@@ -1640,7 +1640,7 @@ const LOOKUP = {
       }
     ]
   },
-  "stressed out": {
+  "be stressed out": {
     "pos": "phr.",
     "en_def": "feeling completely crushed by taking on excess duties.",
     "cn_def": "壓力過大的、筋疲力竭的",
@@ -1652,7 +1652,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be stressed out": {
+  "stressed out": {
     "pos": "phr.",
     "en_def": "feeling completely crushed by taking on excess duties.",
     "cn_def": "壓力過大的、筋疲力竭的",

@@ -1343,6 +1343,18 @@ const LOOKUP = {
       }
     ]
   },
+  "is characteristic of": {
+    "pos": "phr.",
+    "en_def": "to be typical of a person or thing",
+    "cn_def": "是…的特徵",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to be typical of a person or thing",
+        "cn_def": "是…的特徵"
+      }
+    ]
+  },
   "be characteristic of": {
     "pos": "phr.",
     "en_def": "to be typical of a person or thing",
@@ -1355,15 +1367,15 @@ const LOOKUP = {
       }
     ]
   },
-  "is characteristic of": {
-    "pos": "phr.",
-    "en_def": "to be typical of a person or thing",
-    "cn_def": "是…的特徵",
+  "sparked": {
+    "pos": "v.",
+    "en_def": "to cause something such as an argument or interest to start",
+    "cn_def": "引發",
     "combined": [
       {
-        "pos": "phr.",
-        "en_def": "to be typical of a person or thing",
-        "cn_def": "是…的特徵"
+        "pos": "v.",
+        "en_def": "to cause something such as an argument or interest to start",
+        "cn_def": "引發"
       }
     ]
   },
@@ -1391,18 +1403,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a small flash of light",
         "cn_def": "閃光"
-      }
-    ]
-  },
-  "sparked": {
-    "pos": "v.",
-    "en_def": "to cause something such as an argument or interest to start",
-    "cn_def": "引發",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to cause something such as an argument or interest to start",
-        "cn_def": "引發"
       }
     ]
   },
@@ -1584,18 +1584,6 @@ const LOOKUP = {
       }
     ]
   },
-  "illustrated": {
-    "pos": "v.",
-    "en_def": "to add pictures to a book or magazine",
-    "cn_def": "畫插圖",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to add pictures to a book or magazine",
-        "cn_def": "畫插圖"
-      }
-    ]
-  },
   "illustrate": {
     "pos": "v.",
     "en_def": "to add pictures to a book or magazine",
@@ -1610,6 +1598,18 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to make the meaning of something clearer by using examples or pictures",
         "cn_def": "圖示，解說"
+      }
+    ]
+  },
+  "illustrated": {
+    "pos": "v.",
+    "en_def": "to add pictures to a book or magazine",
+    "cn_def": "畫插圖",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to add pictures to a book or magazine",
+        "cn_def": "畫插圖"
       }
     ]
   },
@@ -1678,18 +1678,6 @@ const LOOKUP = {
       }
     ]
   },
-  "revisions": {
-    "pos": "n.",
-    "en_def": "a change made to correct or improve something written",
-    "cn_def": "修訂",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a change made to correct or improve something written",
-        "cn_def": "修訂"
-      }
-    ]
-  },
   "revision": {
     "pos": "n.",
     "en_def": "a change made to correct or improve something written",
@@ -1702,7 +1690,19 @@ const LOOKUP = {
       }
     ]
   },
-  "modify": {
+  "revisions": {
+    "pos": "n.",
+    "en_def": "a change made to correct or improve something written",
+    "cn_def": "修訂",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a change made to correct or improve something written",
+        "cn_def": "修訂"
+      }
+    ]
+  },
+  "modified": {
     "pos": "v.",
     "en_def": "to change something slightly to improve it or make it more suitable",
     "cn_def": "修改",
@@ -1714,7 +1714,7 @@ const LOOKUP = {
       }
     ]
   },
-  "modified": {
+  "modify": {
     "pos": "v.",
     "en_def": "to change something slightly to improve it or make it more suitable",
     "cn_def": "修改",
@@ -1738,7 +1738,7 @@ const LOOKUP = {
       }
     ]
   },
-  "modifications": {
+  "modification": {
     "pos": "n.",
     "en_def": "a small change made to improve something",
     "cn_def": "修改",
@@ -1750,7 +1750,7 @@ const LOOKUP = {
       }
     ]
   },
-  "modification": {
+  "modifications": {
     "pos": "n.",
     "en_def": "a small change made to improve something",
     "cn_def": "修改",
@@ -1861,7 +1861,7 @@ const LOOKUP = {
       }
     ]
   },
-  "give voice to": {
+  "gives voice to": {
     "pos": "phr.",
     "en_def": "to express a feeling or opinion",
     "cn_def": "表達",
@@ -1873,7 +1873,7 @@ const LOOKUP = {
       }
     ]
   },
-  "gives voice to": {
+  "give voice to": {
     "pos": "phr.",
     "en_def": "to express a feeling or opinion",
     "cn_def": "表達",
@@ -1909,7 +1909,7 @@ const LOOKUP = {
       }
     ]
   },
-  "voice one's opinion": {
+  "voice your opinion": {
     "pos": "phr.",
     "en_def": "to say what you think about something",
     "cn_def": "發表意見",
@@ -1921,7 +1921,7 @@ const LOOKUP = {
       }
     ]
   },
-  "voice your opinion": {
+  "voice one's opinion": {
     "pos": "phr.",
     "en_def": "to say what you think about something",
     "cn_def": "發表意見",
@@ -1993,18 +1993,6 @@ const LOOKUP = {
       }
     ]
   },
-  "prove": {
-    "pos": "v.",
-    "en_def": "to use facts to show that something is true",
-    "cn_def": "證明",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to use facts to show that something is true",
-        "cn_def": "證明"
-      }
-    ]
-  },
   "proved": {
     "pos": "v.",
     "en_def": "to use facts to show that something is true",
@@ -2019,6 +2007,18 @@ const LOOKUP = {
         "pos": "adj.",
         "en_def": "shown by facts to be true",
         "cn_def": "被證明的"
+      }
+    ]
+  },
+  "prove": {
+    "pos": "v.",
+    "en_def": "to use facts to show that something is true",
+    "cn_def": "證明",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to use facts to show that something is true",
+        "cn_def": "證明"
       }
     ]
   },
@@ -2051,7 +2051,7 @@ const LOOKUP = {
       }
     ]
   },
-  "made a comment on": {
+  "make a comment on": {
     "pos": "phr.",
     "en_def": "to say what you think about something",
     "cn_def": "對…作評論",
@@ -2063,7 +2063,7 @@ const LOOKUP = {
       }
     ]
   },
-  "make a comment on": {
+  "made a comment on": {
     "pos": "phr.",
     "en_def": "to say what you think about something",
     "cn_def": "對…作評論",
@@ -2195,7 +2195,7 @@ const LOOKUP = {
       }
     ]
   },
-  "interpretations": {
+  "interpretation": {
     "pos": "n.",
     "en_def": "an explanation or opinion of what something means",
     "cn_def": "解釋",
@@ -2207,7 +2207,7 @@ const LOOKUP = {
       }
     ]
   },
-  "interpretation": {
+  "interpretations": {
     "pos": "n.",
     "en_def": "an explanation or opinion of what something means",
     "cn_def": "解釋",

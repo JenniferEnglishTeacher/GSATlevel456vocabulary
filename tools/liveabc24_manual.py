@@ -35,6 +35,8 @@ _ADV = {
     1: {2: "dependence", 6: "imaginations", 46: "gadgets"},
     2: {5: "extras", 19: "tasks", 22: "dragging his feet", 32: "polish", 33: "nail polish", 37: "sets her apart", 45: "baggage", 49: "wrinkles"},
     3: {49: "burst", 50: "burst", 53: "burst into"},
+    6: {15: "lost her appetite", 65: "admitted", 85: "met her match", 111: "upset", 122: "prefer", 123: "prefers to"},
+    7: {38: "make up for", 56: "originate", 57: "originated in", 66: "had no desire to"},
     8: {2: "can't resist", 9: "differ", 20: "smoothed his shirt", 32: "unfold", 41: "pay attention to her", 49: "contents", 54: "to their hearts' content",
         66: "prefer", 96: "describe"},
     9: {15: "need"},
@@ -63,3 +65,9 @@ SENTENCES = {
     (B, 15, 0): (f"He decided to {U} a large portion of his savings by investing in a volatile market.", "他決定冒險把大部分積蓄投資在波動的市場上。"),
     (B, 16, 37): (f"A water {U} is made of two hydrogen atoms and one oxygen atom.", "一個水分子由兩個氫原子和一個氧原子組成。"),
 }
+SENTENCES.update({
+    ("advanced", 6, 122): (f"Most students in the survey {U} group discussions to individual presentations.", "調查中的大多數學生喜歡小組討論甚於個人演講。"),
+    ("advanced", 6, 65): (f"Only students with a valid school ID will be {U} to the examination hall on the day of the final test.", '只有持有效學生證的學生才會在期末考試當天被准許進入考場。'),
+    ("advanced", 7, 38): (f"Although the new employee lacked experience, her enthusiasm and hard work helped {U} {U} {U} her low efficiency in the early weeks.",
+                          "雖然這位新員工缺乏經驗，但她的熱情和努力在最初幾週彌補了效率上的不足。"),
+})

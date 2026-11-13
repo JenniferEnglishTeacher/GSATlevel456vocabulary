@@ -1677,18 +1677,6 @@ const LOOKUP = {
       }
     ]
   },
-  "arrive in": {
-    "pos": "phr.",
-    "en_def": "to reach a country or city",
-    "cn_def": "到達某國某城市",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "to reach a country or city",
-        "cn_def": "到達某國某城市"
-      }
-    ]
-  },
   "arrive in country/city": {
     "pos": "phr.",
     "en_def": "to reach a country or city",
@@ -1701,15 +1689,15 @@ const LOOKUP = {
       }
     ]
   },
-  "arrive at": {
+  "arrive in": {
     "pos": "phr.",
-    "en_def": "to reach a building or a particular place",
-    "cn_def": "到達某地",
+    "en_def": "to reach a country or city",
+    "cn_def": "到達某國某城市",
     "combined": [
       {
         "pos": "phr.",
-        "en_def": "to reach a building or a particular place",
-        "cn_def": "到達某地"
+        "en_def": "to reach a country or city",
+        "cn_def": "到達某國某城市"
       }
     ]
   },
@@ -1725,7 +1713,19 @@ const LOOKUP = {
       }
     ]
   },
-  "century": {
+  "arrive at": {
+    "pos": "phr.",
+    "en_def": "to reach a building or a particular place",
+    "cn_def": "到達某地",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to reach a building or a particular place",
+        "cn_def": "到達某地"
+      }
+    ]
+  },
+  "the ...century": {
     "pos": "n.",
     "en_def": "a period of one hundred years",
     "cn_def": "世紀",
@@ -1737,7 +1737,7 @@ const LOOKUP = {
       }
     ]
   },
-  "the ...century": {
+  "century": {
     "pos": "n.",
     "en_def": "a period of one hundred years",
     "cn_def": "世紀",
@@ -1761,18 +1761,6 @@ const LOOKUP = {
       }
     ]
   },
-  "release a hostage": {
-    "pos": "phr.",
-    "en_def": "to set free a person who has been held prisoner",
-    "cn_def": "釋放人質",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "to set free a person who has been held prisoner",
-        "cn_def": "釋放人質"
-      }
-    ]
-  },
   "release the hostage": {
     "pos": "phr.",
     "en_def": "to set free a person who has been held prisoner",
@@ -1785,7 +1773,19 @@ const LOOKUP = {
       }
     ]
   },
-  "release a single/video/product": {
+  "release a hostage": {
+    "pos": "phr.",
+    "en_def": "to set free a person who has been held prisoner",
+    "cn_def": "釋放人質",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to set free a person who has been held prisoner",
+        "cn_def": "釋放人質"
+      }
+    ]
+  },
+  "release a single": {
     "pos": "phr.",
     "en_def": "to make a song, film or product available for people to buy or see",
     "cn_def": "發行單曲/視頻/產品",
@@ -1797,7 +1797,7 @@ const LOOKUP = {
       }
     ]
   },
-  "release a single": {
+  "release a single/video/product": {
     "pos": "phr.",
     "en_def": "to make a song, film or product available for people to buy or see",
     "cn_def": "發行單曲/視頻/產品",
@@ -1821,7 +1821,7 @@ const LOOKUP = {
       }
     ]
   },
-  "release stress": {
+  "release stress/ pressure": {
     "pos": "phr.",
     "en_def": "to get rid of feelings of worry or tension",
     "cn_def": "釋放壓力",
@@ -1833,7 +1833,7 @@ const LOOKUP = {
       }
     ]
   },
-  "release stress/ pressure": {
+  "release stress": {
     "pos": "phr.",
     "en_def": "to get rid of feelings of worry or tension",
     "cn_def": "釋放壓力",
@@ -1874,7 +1874,7 @@ const LOOKUP = {
       }
     ]
   },
-  "mobile device / portable device": {
+  "mobile device": {
     "pos": "n.",
     "en_def": "a small computer, such as a phone or tablet, that you can carry with you",
     "cn_def": "行動裝置",
@@ -1886,7 +1886,7 @@ const LOOKUP = {
       }
     ]
   },
-  "mobile device": {
+  "mobile device / portable device": {
     "pos": "n.",
     "en_def": "a small computer, such as a phone or tablet, that you can carry with you",
     "cn_def": "行動裝置",
@@ -2370,7 +2370,7 @@ const LOOKUP = {
       }
     ]
   },
-  "digits": {
+  "digit": {
     "pos": "n.",
     "en_def": "any of the numbers from 0 to 9",
     "cn_def": "數字",
@@ -2382,7 +2382,7 @@ const LOOKUP = {
       }
     ]
   },
-  "digit": {
+  "digits": {
     "pos": "n.",
     "en_def": "any of the numbers from 0 to 9",
     "cn_def": "數字",
@@ -2529,18 +2529,6 @@ const LOOKUP = {
       }
     ]
   },
-  "developing country": {
-    "pos": "phr.",
-    "en_def": "a poorer country that is building up its industry and economy",
-    "cn_def": "發展中國家",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "a poorer country that is building up its industry and economy",
-        "cn_def": "發展中國家"
-      }
-    ]
-  },
   "developing countries": {
     "pos": "phr.",
     "en_def": "a poorer country that is building up its industry and economy",
@@ -2553,7 +2541,19 @@ const LOOKUP = {
       }
     ]
   },
-  "developed countries": {
+  "developing country": {
+    "pos": "phr.",
+    "en_def": "a poorer country that is building up its industry and economy",
+    "cn_def": "發展中國家",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "a poorer country that is building up its industry and economy",
+        "cn_def": "發展中國家"
+      }
+    ]
+  },
+  "developed country": {
     "pos": "phr.",
     "en_def": "a rich country with many industries and a high standard of living",
     "cn_def": "已開發國家",
@@ -2565,7 +2565,7 @@ const LOOKUP = {
       }
     ]
   },
-  "developed country": {
+  "developed countries": {
     "pos": "phr.",
     "en_def": "a rich country with many industries and a high standard of living",
     "cn_def": "已開發國家",

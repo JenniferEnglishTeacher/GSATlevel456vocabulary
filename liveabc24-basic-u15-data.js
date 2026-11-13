@@ -952,7 +952,7 @@ const LOOKUP = {
       }
     ]
   },
-  "creator": {
+  "creators": {
     "pos": "n.",
     "en_def": "a person who has made or invented something",
     "cn_def": "創造者",
@@ -964,7 +964,7 @@ const LOOKUP = {
       }
     ]
   },
-  "creators": {
+  "creator": {
     "pos": "n.",
     "en_def": "a person who has made or invented something",
     "cn_def": "創造者",
@@ -1084,7 +1084,7 @@ const LOOKUP = {
       }
     ]
   },
-  "in favor of": {
+  "be in favor of": {
     "pos": "phr.",
     "en_def": "to support or approve of an idea or plan",
     "cn_def": "支持",
@@ -1096,7 +1096,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be in favor of": {
+  "in favor of": {
     "pos": "phr.",
     "en_def": "to support or approve of an idea or plan",
     "cn_def": "支持",
@@ -1144,7 +1144,7 @@ const LOOKUP = {
       }
     ]
   },
-  "refuses": {
+  "refuse": {
     "pos": "v.",
     "en_def": "to say that you will not do or accept something",
     "cn_def": "拒絕",
@@ -1156,7 +1156,7 @@ const LOOKUP = {
       }
     ]
   },
-  "refuse": {
+  "refuses": {
     "pos": "v.",
     "en_def": "to say that you will not do or accept something",
     "cn_def": "拒絕",
@@ -1180,18 +1180,6 @@ const LOOKUP = {
       }
     ]
   },
-  "reject": {
-    "pos": "v.",
-    "en_def": "to refuse to accept, use or believe something",
-    "cn_def": "拒絕",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to refuse to accept, use or believe something",
-        "cn_def": "拒絕"
-      }
-    ]
-  },
   "rejected": {
     "pos": "v.",
     "en_def": "to refuse to accept, use or believe something",
@@ -1204,7 +1192,19 @@ const LOOKUP = {
       }
     ]
   },
-  "declined": {
+  "reject": {
+    "pos": "v.",
+    "en_def": "to refuse to accept, use or believe something",
+    "cn_def": "拒絕",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to refuse to accept, use or believe something",
+        "cn_def": "拒絕"
+      }
+    ]
+  },
+  "decline": {
     "pos": "v.",
     "en_def": "to become smaller, fewer or weaker",
     "cn_def": "下降",
@@ -1221,7 +1221,7 @@ const LOOKUP = {
       }
     ]
   },
-  "decline": {
+  "declined": {
     "pos": "v.",
     "en_def": "to become smaller, fewer or weaker",
     "cn_def": "下降",
@@ -1286,7 +1286,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sense / notice / realize": {
+  "sensed": {
     "pos": "v.",
     "en_def": "to feel or become aware of something",
     "cn_def": "察覺，感覺到",
@@ -1298,7 +1298,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sensed": {
+  "sense / notice / realize": {
     "pos": "v.",
     "en_def": "to feel or become aware of something",
     "cn_def": "察覺，感覺到",

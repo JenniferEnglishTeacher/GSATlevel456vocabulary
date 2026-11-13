@@ -1115,7 +1115,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be (put) in danger": {
+  "was in danger": {
     "pos": "phr.",
     "en_def": "to be in a situation where harm or death is possible",
     "cn_def": "處於危險中",
@@ -1127,7 +1127,7 @@ const LOOKUP = {
       }
     ]
   },
-  "was in danger": {
+  "be (put) in danger": {
     "pos": "phr.",
     "en_def": "to be in a situation where harm or death is possible",
     "cn_def": "處於危險中",
@@ -1151,7 +1151,7 @@ const LOOKUP = {
       }
     ]
   },
-  "put the passengers in danger": {
+  "put ... in danger": {
     "pos": "phr.",
     "en_def": "to cause someone or something to be at risk of harm",
     "cn_def": "使...處於危險中",
@@ -1163,7 +1163,7 @@ const LOOKUP = {
       }
     ]
   },
-  "put ... in danger": {
+  "put the passengers in danger": {
     "pos": "phr.",
     "en_def": "to cause someone or something to be at risk of harm",
     "cn_def": "使...處於危險中",
@@ -1319,18 +1319,6 @@ const LOOKUP = {
       }
     ]
   },
-  "produces": {
-    "pos": "v.",
-    "en_def": "to make or grow something, especially in large amounts",
-    "cn_def": "生產；製造",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to make or grow something, especially in large amounts",
-        "cn_def": "生產；製造"
-      }
-    ]
-  },
   "produce": {
     "pos": "v.",
     "en_def": "to make or grow something, especially in large amounts",
@@ -1345,6 +1333,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "fresh fruit and vegetables grown on farms",
         "cn_def": "農產品；產物"
+      }
+    ]
+  },
+  "produces": {
+    "pos": "v.",
+    "en_def": "to make or grow something, especially in large amounts",
+    "cn_def": "生產；製造",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to make or grow something, especially in large amounts",
+        "cn_def": "生產；製造"
       }
     ]
   },
@@ -1420,7 +1420,7 @@ const LOOKUP = {
       }
     ]
   },
-  "harsh comments": {
+  "harsh comment": {
     "pos": "phr.",
     "en_def": "an unkind and severe remark that criticizes someone",
     "cn_def": "刻薄的評論；嚴厲的批評",
@@ -1432,7 +1432,7 @@ const LOOKUP = {
       }
     ]
   },
-  "harsh comment": {
+  "harsh comments": {
     "pos": "phr.",
     "en_def": "an unkind and severe remark that criticizes someone",
     "cn_def": "刻薄的評論；嚴厲的批評",
@@ -1456,18 +1456,6 @@ const LOOKUP = {
       }
     ]
   },
-  "chemicals": {
-    "pos": "n.",
-    "en_def": "a substance made or used in chemistry",
-    "cn_def": "化學製品；化學藥品",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a substance made or used in chemistry",
-        "cn_def": "化學製品；化學藥品"
-      }
-    ]
-  },
   "chemical": {
     "pos": "n.",
     "en_def": "a substance made or used in chemistry",
@@ -1485,15 +1473,15 @@ const LOOKUP = {
       }
     ]
   },
-  "properties": {
+  "chemicals": {
     "pos": "n.",
-    "en_def": "a quality or feature that a substance or thing has",
-    "cn_def": "特性；性能",
+    "en_def": "a substance made or used in chemistry",
+    "cn_def": "化學製品；化學藥品",
     "combined": [
       {
         "pos": "n.",
-        "en_def": "a quality or feature that a substance or thing has",
-        "cn_def": "特性；性能"
+        "en_def": "a substance made or used in chemistry",
+        "cn_def": "化學製品；化學藥品"
       }
     ]
   },
@@ -1506,6 +1494,30 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a quality or feature that a substance or thing has",
         "cn_def": "特性；性能"
+      }
+    ]
+  },
+  "properties": {
+    "pos": "n.",
+    "en_def": "a quality or feature that a substance or thing has",
+    "cn_def": "特性；性能",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a quality or feature that a substance or thing has",
+        "cn_def": "特性；性能"
+      }
+    ]
+  },
+  "caused": {
+    "pos": "v.",
+    "en_def": "to make something happen, especially something bad",
+    "cn_def": "引起；導致",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to make something happen, especially something bad",
+        "cn_def": "引起；導致"
       }
     ]
   },
@@ -1523,18 +1535,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "the person or thing that makes something happen",
         "cn_def": "原因；起因"
-      }
-    ]
-  },
-  "caused": {
-    "pos": "v.",
-    "en_def": "to make something happen, especially something bad",
-    "cn_def": "引起；導致",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to make something happen, especially something bad",
-        "cn_def": "引起；導致"
       }
     ]
   },
@@ -1735,7 +1735,7 @@ const LOOKUP = {
       }
     ]
   },
-  "prevent ... from": {
+  "prevent children from": {
     "pos": "phr.",
     "en_def": "to stop someone from doing something or stop something from happening to them",
     "cn_def": "預防...免於",
@@ -1747,7 +1747,7 @@ const LOOKUP = {
       }
     ]
   },
-  "prevent children from": {
+  "prevent ... from": {
     "pos": "phr.",
     "en_def": "to stop someone from doing something or stop something from happening to them",
     "cn_def": "預防...免於",

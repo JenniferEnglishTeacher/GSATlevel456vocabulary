@@ -892,7 +892,7 @@ const LOOKUP = {
       }
     ]
   },
-  "intend to v": {
+  "intend to": {
     "pos": "phr.",
     "en_def": "to plan to do something",
     "cn_def": "打算",
@@ -904,7 +904,7 @@ const LOOKUP = {
       }
     ]
   },
-  "intend to": {
+  "intend to v": {
     "pos": "phr.",
     "en_def": "to plan to do something",
     "cn_def": "打算",
@@ -1173,7 +1173,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ranging from clothing to": {
+  "ranging from": {
     "pos": "phr.",
     "en_def": "including everything between two stated limits",
     "cn_def": "範圍從…到…",
@@ -1185,7 +1185,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ranging from": {
+  "ranging from clothing to": {
     "pos": "phr.",
     "en_def": "including everything between two stated limits",
     "cn_def": "範圍從…到…",

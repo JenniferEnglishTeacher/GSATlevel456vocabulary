@@ -1217,7 +1217,7 @@ const LOOKUP = {
       }
     ]
   },
-  "chemicals": {
+  "chemical": {
     "pos": "n.",
     "en_def": "a substance made or used in chemistry",
     "cn_def": "化學製品、化學物質",
@@ -1229,7 +1229,7 @@ const LOOKUP = {
       }
     ]
   },
-  "chemical": {
+  "chemicals": {
     "pos": "n.",
     "en_def": "a substance made or used in chemistry",
     "cn_def": "化學製品、化學物質",
@@ -1289,7 +1289,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ingredient": {
+  "ingredients": {
     "pos": "n.",
     "en_def": "one of the foods that you use to make a dish",
     "cn_def": "(烹調的) 原料、成分、要素",
@@ -1301,7 +1301,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ingredients": {
+  "ingredient": {
     "pos": "n.",
     "en_def": "one of the foods that you use to make a dish",
     "cn_def": "(烹調的) 原料、成分、要素",
@@ -1361,7 +1361,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be connected to": {
+  "is connected to": {
     "pos": "phr.",
     "en_def": "to be joined or linked directly to something",
     "cn_def": "與...有連結 (偏實體/直接)",
@@ -1373,7 +1373,7 @@ const LOOKUP = {
       }
     ]
   },
-  "is connected to": {
+  "be connected to": {
     "pos": "phr.",
     "en_def": "to be joined or linked directly to something",
     "cn_def": "與...有連結 (偏實體/直接)",

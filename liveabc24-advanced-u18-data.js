@@ -1649,7 +1649,7 @@ const LOOKUP = {
       }
     ]
   },
-  "occur to somebody": {
+  "occurred to": {
     "pos": "phr.",
     "en_def": "a sudden thought or idea entering an agent's mind.",
     "cn_def": "某人想到…",
@@ -1661,7 +1661,7 @@ const LOOKUP = {
       }
     ]
   },
-  "occurred to": {
+  "occur to somebody": {
     "pos": "phr.",
     "en_def": "a sudden thought or idea entering an agent's mind.",
     "cn_def": "某人想到…",
@@ -2079,7 +2079,7 @@ const LOOKUP = {
       }
     ]
   },
-  "overreacted": {
+  "overreact": {
     "pos": "v.",
     "en_def": "to show an excess, yelling panic stance over minor news.",
     "cn_def": "反應過度",
@@ -2091,7 +2091,7 @@ const LOOKUP = {
       }
     ]
   },
-  "overreact": {
+  "overreacted": {
     "pos": "v.",
     "en_def": "to show an excess, yelling panic stance over minor news.",
     "cn_def": "反應過度",

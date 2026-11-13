@@ -905,18 +905,6 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "dependent on": {
-    "pos": "adj.",
-    "en_def": "needing someone or something for support or help.",
-    "cn_def": "依賴的",
-    "combined": [
-      {
-        "pos": "adj.",
-        "en_def": "needing someone or something for support or help.",
-        "cn_def": "依賴的"
-      }
-    ]
-  },
   "be dependent on": {
     "pos": "adj.",
     "en_def": "needing someone or something for support or help.",
@@ -929,15 +917,15 @@ const LOOKUP = {
       }
     ]
   },
-  "be independent from": {
+  "dependent on": {
     "pos": "adj.",
-    "en_def": "not controlled by or needing help from someone or something.",
-    "cn_def": "獨立的",
+    "en_def": "needing someone or something for support or help.",
+    "cn_def": "依賴的",
     "combined": [
       {
         "pos": "adj.",
-        "en_def": "not controlled by or needing help from someone or something.",
-        "cn_def": "獨立的"
+        "en_def": "needing someone or something for support or help.",
+        "cn_def": "依賴的"
       }
     ]
   },
@@ -953,7 +941,19 @@ const LOOKUP = {
       }
     ]
   },
-  "dependence": {
+  "be independent from": {
+    "pos": "adj.",
+    "en_def": "not controlled by or needing help from someone or something.",
+    "cn_def": "獨立的",
+    "combined": [
+      {
+        "pos": "adj.",
+        "en_def": "not controlled by or needing help from someone or something.",
+        "cn_def": "獨立的"
+      }
+    ]
+  },
+  "dependence on": {
     "pos": "n.",
     "en_def": "the state of needing or relying on someone or something.",
     "cn_def": "依賴",
@@ -965,7 +965,7 @@ const LOOKUP = {
       }
     ]
   },
-  "dependence on": {
+  "dependence": {
     "pos": "n.",
     "en_def": "the state of needing or relying on someone or something.",
     "cn_def": "依賴",

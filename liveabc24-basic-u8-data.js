@@ -625,7 +625,7 @@ const LOOKUP = {
       }
     ]
   },
-  "object": {
+  "objects": {
     "pos": "n.",
     "en_def": "a thing that can be seen or touched.",
     "cn_def": "物體",
@@ -637,7 +637,7 @@ const LOOKUP = {
       }
     ]
   },
-  "objects": {
+  "object": {
     "pos": "n.",
     "en_def": "a thing that can be seen or touched.",
     "cn_def": "物體",

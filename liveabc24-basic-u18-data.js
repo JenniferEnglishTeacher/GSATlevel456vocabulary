@@ -1431,7 +1431,7 @@ const LOOKUP = {
       }
     ]
   },
-  "hardship": {
+  "hardships": {
     "pos": "n.",
     "en_def": "a situation that is difficult and unpleasant, especially because you lack money or food",
     "cn_def": "艱難",
@@ -1443,7 +1443,7 @@ const LOOKUP = {
       }
     ]
   },
-  "hardships": {
+  "hardship": {
     "pos": "n.",
     "en_def": "a situation that is difficult and unpleasant, especially because you lack money or food",
     "cn_def": "艱難",

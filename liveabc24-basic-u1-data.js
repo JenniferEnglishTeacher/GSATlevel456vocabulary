@@ -1356,7 +1356,7 @@ const LOOKUP = {
       }
     ]
   },
-  "category": {
+  "categories": {
     "pos": "n.",
     "en_def": "a group of people or things that are similar in some way",
     "cn_def": "類別；種類",
@@ -1368,7 +1368,7 @@ const LOOKUP = {
       }
     ]
   },
-  "categories": {
+  "category": {
     "pos": "n.",
     "en_def": "a group of people or things that are similar in some way",
     "cn_def": "類別；種類",

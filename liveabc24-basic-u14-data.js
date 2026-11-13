@@ -1399,7 +1399,7 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "amazed": {
+  "amaze": {
     "pos": "v.",
     "en_def": "to surprise someone very much",
     "cn_def": "使驚訝；使驚奇",
@@ -1411,7 +1411,7 @@ const LOOKUP = {
       }
     ]
   },
-  "amaze": {
+  "amazed": {
     "pos": "v.",
     "en_def": "to surprise someone very much",
     "cn_def": "使驚訝；使驚奇",
@@ -1925,18 +1925,6 @@ const LOOKUP = {
       }
     ]
   },
-  "minerals": {
-    "pos": "n.",
-    "en_def": "a natural substance such as iron or calcium that your body needs to stay healthy",
-    "cn_def": "礦物質",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a natural substance such as iron or calcium that your body needs to stay healthy",
-        "cn_def": "礦物質"
-      }
-    ]
-  },
   "mineral": {
     "pos": "n.",
     "en_def": "a natural substance such as iron or calcium that your body needs to stay healthy",
@@ -1949,7 +1937,19 @@ const LOOKUP = {
       }
     ]
   },
-  "vitamins": {
+  "minerals": {
+    "pos": "n.",
+    "en_def": "a natural substance such as iron or calcium that your body needs to stay healthy",
+    "cn_def": "礦物質",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a natural substance such as iron or calcium that your body needs to stay healthy",
+        "cn_def": "礦物質"
+      }
+    ]
+  },
+  "vitamin": {
     "pos": "n.",
     "en_def": "a natural substance in food that you need in small amounts to stay healthy",
     "cn_def": "維生素",
@@ -1961,7 +1961,7 @@ const LOOKUP = {
       }
     ]
   },
-  "vitamin": {
+  "vitamins": {
     "pos": "n.",
     "en_def": "a natural substance in food that you need in small amounts to stay healthy",
     "cn_def": "維生素",
@@ -2009,7 +2009,7 @@ const LOOKUP = {
       }
     ]
   },
-  "nutrient": {
+  "nutrients": {
     "pos": "n.",
     "en_def": "a substance that living things need in order to live and grow",
     "cn_def": "營養素",
@@ -2021,7 +2021,7 @@ const LOOKUP = {
       }
     ]
   },
-  "nutrients": {
+  "nutrient": {
     "pos": "n.",
     "en_def": "a substance that living things need in order to live and grow",
     "cn_def": "營養素",
@@ -2093,7 +2093,7 @@ const LOOKUP = {
       }
     ]
   },
-  "based": {
+  "base": {
     "pos": "v.",
     "en_def": "to use something as the starting point or reason for something else",
     "cn_def": "基地；基礎；基於",
@@ -2105,7 +2105,7 @@ const LOOKUP = {
       }
     ]
   },
-  "base": {
+  "based": {
     "pos": "v.",
     "en_def": "to use something as the starting point or reason for something else",
     "cn_def": "基地；基礎；基於",
@@ -2240,7 +2240,7 @@ const LOOKUP = {
       }
     ]
   },
-  "on a diet": {
+  "be on a diet": {
     "pos": "phr.",
     "en_def": "to be eating less or only certain foods in order to lose weight",
     "cn_def": "在節食中；在戒食中",
@@ -2252,7 +2252,7 @@ const LOOKUP = {
       }
     ]
   },
-  "be on a diet": {
+  "on a diet": {
     "pos": "phr.",
     "en_def": "to be eating less or only certain foods in order to lose weight",
     "cn_def": "在節食中；在戒食中",
