@@ -170,282 +170,282 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "She was tired; ______, she went to bed early.【因此，所以】",
+    "q": "It rained all day. ______, the baseball game was canceled.",
     "options": [
-      "downtown",
-      "therefore",
-      "especially",
-      "nearly"
+      "Suddenly",
+      "Therefore",
+      "Especially",
+      "Hardly"
     ],
     "answer": 1,
     "cn": "她很累，因此，她很早就上床睡覺了。",
     "vocabIndex": 0
   },
   {
-    "q": "The ______ stole her purse.【小偷】",
+    "q": "A ______ broke into our house last night and took our TV.",
     "options": [
-      "towel",
-      "tour",
-      "thief",
-      "tower"
+      "tiger",
+      "tourist",
+      "tower",
+      "thief"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "小偷偷了她的錢包。",
     "vocabIndex": 1
   },
   {
-    "q": "His ______ on the subject were very insightful.【思想，想法】",
+    "q": "Please write down your ______ about the book. What do you think of it?",
     "options": [
       "thoughts",
-      "tourists",
-      "tournament",
-      "towel"
+      "throats",
+      "towels",
+      "towers"
     ],
     "answer": 0,
     "cn": "他對這個話題的想法非常深刻。",
     "vocabIndex": 2
   },
   {
-    "q": "He has a sore ______.【喉嚨，咽喉】",
+    "q": "I have a sore ______. It hurts when I swallow.",
     "options": [
-      "towel",
-      "toothpaste",
-      "tour",
-      "throat"
+      "tongue",
+      "thunder",
+      "throat",
+      "title"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "他喉嚨痛。",
     "vocabIndex": 3
   },
   {
-    "q": "The ______ scared the children.【雷，雷聲】",
+    "q": "We saw lightning and then heard loud ______. The dog was scared.",
     "options": [
+      "throat",
+      "toast",
       "title",
-      "thunder",
-      "toothpaste",
-      "thief"
+      "thunder"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "雷聲嚇到了孩子們。",
     "vocabIndex": 4
   },
   {
-    "q": "Her room is always ______.【整潔的，井井有條的】",
+    "q": "Please keep your room ______. Put your clothes and books away.",
     "options": [
-      "total",
-      "latest",
       "tidy",
-      "perfect"
+      "total",
+      "talkative",
+      "terrific"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "她的房間總是很整潔。",
     "vocabIndex": 5
   },
   {
-    "q": "The ______ is an endangered species.【老虎】",
+    "q": "A ______ is a big wild cat with orange and black stripes.",
     "options": [
-      "tour",
-      "toothpaste",
-      "track",
-      "tiger"
+      "thief",
+      "tourist",
+      "tiger",
+      "tower"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "老虎是一種瀕危物種。",
     "vocabIndex": 6
   },
   {
-    "q": "The book's ______ is \"Great Expectations.\"【標題，稱號】",
+    "q": "What is the ______ of the book you are reading? Is it \"Harry Potter\"?",
     "options": [
+      "toast",
       "title",
       "tongue",
-      "throat",
-      "toothbrush"
+      "towel"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "這本書的標題是《遠大前程》。",
     "vocabIndex": 7
   },
   {
-    "q": "She had ______ for breakfast.【吐司，烤麵包片】",
+    "q": "I had two pieces of ______ with butter for breakfast.",
     "options": [
-      "tournament",
-      "tour",
-      "track",
-      "toast"
+      "toffee",
+      "thunder",
+      "toast",
+      "title"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "她早餐吃了烤麵包片。",
     "vocabIndex": 8
   },
   {
-    "q": "She bought some ______ at the candy store.【太妃糖】",
+    "q": "I bought a bag of ______ at the candy store. It is sweet and sticky.",
     "options": [
       "toffee",
-      "tiger",
-      "tower",
-      "towel"
+      "thunder",
+      "toast",
+      "title"
     ],
     "answer": 0,
     "cn": "她在糖果店買了一些太妃糖。",
     "vocabIndex": 9
   },
   {
-    "q": "He burnt his ______ on the hot soup.【舌頭，語言】",
+    "q": "The soup was too hot, and I burned my ______. Now I can't taste anything.",
     "options": [
-      "track",
+      "title",
       "tongue",
       "towel",
-      "toffee"
+      "tower"
     ],
     "answer": 1,
     "cn": "他舌頭被熱湯燙到了。",
     "vocabIndex": 10
   },
   {
-    "q": "She forgot her ______ at home.【牙刷】",
+    "q": "I brush my teeth with a ______ every morning and night.",
     "options": [
-      "track",
-      "toffee",
-      "toothbrush",
-      "tour"
+      "towel",
+      "toothpaste",
+      "tower",
+      "toothbrush"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她忘了帶牙刷。",
     "vocabIndex": 11
   },
   {
-    "q": "The ______ is almost finished.【牙膏】",
+    "q": "Put some ______ on your toothbrush and brush your teeth for two minutes.",
     "options": [
-      "thief",
-      "towel",
-      "tiger",
-      "toothpaste"
+      "toffee",
+      "toast",
+      "toothpaste",
+      "thunder"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "牙膏快用完了。",
     "vocabIndex": 12
   },
   {
-    "q": "The ______ cost is $50.【總的，全部的】",
+    "q": "The ______ cost of the trip is ten thousand dollars. That includes everything.",
     "options": [
-      "tidy",
       "total",
-      "pale",
-      "tropical"
+      "tidy",
+      "talkative",
+      "terrific"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "總費用是50美元。",
     "vocabIndex": 13
   },
   {
-    "q": "They went on a ______ of Europe.【旅行，巡演】",
+    "q": "We took a bus ______ of the city. We saw all the famous places in one day.",
     "options": [
-      "toffee",
-      "toothpaste",
+      "towel",
       "tour",
-      "throat"
+      "tower",
+      "track"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "他們去歐洲旅行。",
     "vocabIndex": 14
   },
   {
-    "q": "The city is full of ______.【遊客】",
+    "q": "Many ______ visit Taipei 101 every day. They come from all over the world.",
     "options": [
-      "tourists",
-      "thoughts",
-      "tongue",
-      "tiger"
+      "thieves",
+      "tigers",
+      "towers",
+      "tourists"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "這個城市充滿了遊客。",
     "vocabIndex": 15
   },
   {
-    "q": "He participated in a chess ______.【比賽，錦標賽】",
+    "q": "Sixteen teams are playing in the basketball ______. The winner gets a big prize.",
     "options": [
-      "throat",
-      "towel",
-      "title",
-      "tournament"
+      "toothpaste",
+      "tournament",
+      "thunder",
+      "tongue"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他參加了一個西洋棋比賽。",
     "vocabIndex": 16
   },
   {
-    "q": "She dried her hands with a ______.【毛巾】",
+    "q": "After the shower, I dried myself with a ______.",
     "options": [
-      "toast",
-      "toothpaste",
-      "towel",
-      "tour"
+      "tower",
+      "track",
+      "title",
+      "towel"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她用毛巾擦乾了手。",
     "vocabIndex": 17
   },
   {
-    "q": "The Eiffel ______ is a famous landmark.【塔，塔樓】",
+    "q": "Tokyo ______ is 333 meters tall. You can see the whole city from the top.",
     "options": [
+      "Towel",
+      "Track",
       "tower",
-      "track",
-      "tournament",
-      "toothbrush"
+      "Title"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "艾菲爾鐵塔是一個著名的地標。",
     "vocabIndex": 18
   },
   {
-    "q": "They ran around the ______.【軌道，跑道】",
+    "q": "The runners ran four times around the ______.",
     "options": [
-      "tower",
       "track",
-      "toffee",
-      "towel"
+      "towel",
+      "tower",
+      "tongue"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "他們在跑道上跑步。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "downtown": {
+  "suddenly": {
     "pos": "adv.",
-    "en_def": "in the center of a city",
-    "cn_def": "市中心"
+    "en_def": "quickly and when you do not expect it",
+    "cn_def": "突然地，忽然"
+  },
+  "therefore": {
+    "pos": "adv.",
+    "en_def": "so; for that reason",
+    "cn_def": "因此，所以"
   },
   "especially": {
     "pos": "adv.",
     "en_def": "more than others; more than usual",
     "cn_def": "特別地，尤其"
   },
-  "latest": {
-    "pos": "adj.",
-    "en_def": "the newest",
-    "cn_def": "最新的，最近的"
-  },
-  "nearly": {
+  "hardly": {
     "pos": "adv.",
-    "en_def": "almost",
-    "cn_def": "幾乎，差不多"
+    "en_def": "almost not",
+    "cn_def": "幾乎不，勉強地"
   },
-  "pale": {
-    "pos": "adj.",
-    "en_def": "having a light or white face, often because you are sick",
-    "cn_def": "蒼白的，淡色的"
+  "tiger": {
+    "pos": "n.",
+    "en_def": "a big wild cat with orange fur and black stripes",
+    "cn_def": "老虎"
   },
-  "perfect": {
-    "pos": "adj.",
-    "en_def": "so good that it cannot be better",
-    "cn_def": "完美的，理想的"
+  "tourist": {
+    "pos": "n.",
+    "en_def": "a person who visits a place for fun",
+    "cn_def": "遊客"
   },
-  "therefore": {
-    "pos": "adv.",
-    "en_def": "so; for that reason",
-    "cn_def": "因此，所以"
+  "tower": {
+    "pos": "n.",
+    "en_def": "a very tall, thin building",
+    "cn_def": "塔，塔樓"
   },
   "thief": {
     "pos": "n.",
@@ -457,25 +457,35 @@ const LOOKUP = {
     "en_def": "an idea in your mind",
     "cn_def": "思想，想法"
   },
-  "throat": {
+  "throats": {
     "pos": "n.",
     "en_def": "the part inside your neck that food and air go down",
     "cn_def": "喉嚨，咽喉"
+  },
+  "towels": {
+    "pos": "n.",
+    "en_def": "a piece of cloth that you use to dry yourself",
+    "cn_def": "毛巾"
+  },
+  "towers": {
+    "pos": "n.",
+    "en_def": "a very tall, thin building",
+    "cn_def": "塔，塔樓"
+  },
+  "tongue": {
+    "pos": "n.",
+    "en_def": "the soft part inside your mouth that you taste and speak with",
+    "cn_def": "舌頭，語言"
   },
   "thunder": {
     "pos": "n.",
     "en_def": "the loud sound in the sky during a storm",
     "cn_def": "雷，雷聲"
   },
-  "tidy": {
-    "pos": "adj.",
-    "en_def": "clean, with everything in the right place",
-    "cn_def": "整潔的，井井有條的"
-  },
-  "tiger": {
+  "throat": {
     "pos": "n.",
-    "en_def": "a big wild cat with orange fur and black stripes",
-    "cn_def": "老虎"
+    "en_def": "the part inside your neck that food and air go down",
+    "cn_def": "喉嚨，咽喉"
   },
   "title": {
     "pos": "n.",
@@ -487,35 +497,65 @@ const LOOKUP = {
     "en_def": "a piece of bread heated until it is brown",
     "cn_def": "吐司，烤麵包片"
   },
-  "toffee": {
-    "pos": "n.",
-    "en_def": "a hard, sticky brown candy made from sugar and butter",
-    "cn_def": "太妃糖"
-  },
-  "tongue": {
-    "pos": "n.",
-    "en_def": "the soft part inside your mouth that you taste and speak with",
-    "cn_def": "舌頭，語言"
-  },
-  "toothbrush": {
-    "pos": "n.",
-    "en_def": "a small brush for cleaning your teeth",
-    "cn_def": "牙刷"
-  },
-  "toothpaste": {
-    "pos": "n.",
-    "en_def": "the soft cream you put on a toothbrush to clean your teeth",
-    "cn_def": "牙膏"
+  "tidy": {
+    "pos": "adj.",
+    "en_def": "clean, with everything in the right place",
+    "cn_def": "整潔的，井井有條的"
   },
   "total": {
     "pos": "adj.",
     "en_def": "with everything added together",
     "cn_def": "總的，全部的"
   },
+  "talkative": {
+    "pos": "adj.",
+    "en_def": "liking to talk a lot",
+    "cn_def": "健談的，話多的"
+  },
+  "terrific": {
+    "pos": "adj.",
+    "en_def": "very, very good",
+    "cn_def": "極好的，極度的"
+  },
+  "towel": {
+    "pos": "n.",
+    "en_def": "a piece of cloth that you use to dry yourself",
+    "cn_def": "毛巾"
+  },
+  "toffee": {
+    "pos": "n.",
+    "en_def": "a hard, sticky brown candy made from sugar and butter",
+    "cn_def": "太妃糖"
+  },
+  "toothpaste": {
+    "pos": "n.",
+    "en_def": "the soft cream you put on a toothbrush to clean your teeth",
+    "cn_def": "牙膏"
+  },
+  "toothbrush": {
+    "pos": "n.",
+    "en_def": "a small brush for cleaning your teeth",
+    "cn_def": "牙刷"
+  },
   "tour": {
     "pos": "n.",
     "en_def": "a trip to see many places",
     "cn_def": "旅行，巡演"
+  },
+  "track": {
+    "pos": "n.",
+    "en_def": "a round path for running races",
+    "cn_def": "軌道，跑道"
+  },
+  "thieves": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "小偷"
+  },
+  "tigers": {
+    "pos": "n.",
+    "en_def": "a big wild cat with orange fur and black stripes",
+    "cn_def": "老虎"
   },
   "tourists": {
     "pos": "n.",
@@ -526,26 +566,6 @@ const LOOKUP = {
     "pos": "n.",
     "en_def": "a set of games to find the best player or team",
     "cn_def": "比賽，錦標賽"
-  },
-  "towel": {
-    "pos": "n.",
-    "en_def": "a piece of cloth that you use to dry yourself",
-    "cn_def": "毛巾"
-  },
-  "tower": {
-    "pos": "n.",
-    "en_def": "a very tall, thin building",
-    "cn_def": "塔，塔樓"
-  },
-  "track": {
-    "pos": "n.",
-    "en_def": "a round path for running races",
-    "cn_def": "軌道，跑道"
-  },
-  "tropical": {
-    "pos": "adj.",
-    "en_def": "from or in the hottest parts of the world",
-    "cn_def": "熱帶的，炎熱的"
   }
 };
 

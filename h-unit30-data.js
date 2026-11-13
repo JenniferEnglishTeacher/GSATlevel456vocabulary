@@ -267,15 +267,15 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "The ball is made of __________.【橡膠，橡皮】",
+    "question": "Car tires are made of __________. It is strong, and it can bend.",
     "options": [
      {
       "letter": "A",
-      "text": "sailor"
+      "text": "sand"
      },
      {
       "letter": "B",
-      "text": "rubber"
+      "text": "seafood"
      },
      {
       "letter": "C",
@@ -283,14 +283,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "scene"
+      "text": "rubber"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 0
    },
    {
-    "question": "It is __________ to interrupt someone while they are speaking.【無禮的，粗魯的】",
+    "question": "It is __________ to point at people. Please don't do that.",
     "options": [
      {
       "letter": "A",
@@ -298,45 +298,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "violent"
+      "text": "selfish"
      },
      {
       "letter": "C",
-      "text": "female"
-     },
-     {
-      "letter": "D",
       "text": "rude"
-     }
-    ],
-    "answer": "D",
-    "vi": 1
-   },
-   {
-    "question": "The storm __________ their picnic plans.【毀壞，破壞】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "rush"
-     },
-     {
-      "letter": "B",
-      "text": "searching"
-     },
-     {
-      "letter": "C",
-      "text": "ruined"
      },
      {
       "letter": "D",
-      "text": "satisfy"
+      "text": "similar"
      }
     ],
     "answer": "C",
+    "vi": 1
+   },
+   {
+    "question": "The heavy rain __________ our picnic. All the food got wet, and we had to go home.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rushed"
+     },
+     {
+      "letter": "B",
+      "text": "ruined"
+     },
+     {
+      "letter": "C",
+      "text": "satisfied"
+     },
+     {
+      "letter": "D",
+      "text": "searched"
+     }
+    ],
+    "answer": "B",
     "vi": 2
    },
    {
-    "question": "She had to __________ to catch the bus.【衝，趕緊】",
+    "question": "You don't have to __________. We still have a lot of time before the train leaves.",
     "options": [
      {
       "letter": "A",
@@ -344,22 +344,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "satisfy"
+      "text": "ruin"
      },
      {
       "letter": "C",
-      "text": "searching"
+      "text": "satisfy"
      },
      {
       "letter": "D",
-      "text": "ruined"
+      "text": "seek"
      }
     ],
     "answer": "A",
     "vi": 3
    },
    {
-    "question": "The __________ navigated the ship through the storm.【水手，海員】",
+    "question": "The __________ worked on a big ship. He traveled across the sea to many countries.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "scientist"
+     },
+     {
+      "letter": "B",
+      "text": "secret"
+     },
+     {
+      "letter": "C",
+      "text": "sailor"
+     },
+     {
+      "letter": "D",
+      "text": "saucer"
+     }
+    ],
+    "answer": "C",
+    "vi": 4
+   },
+   {
+    "question": "The clerk gave me a free __________ of the new ice cream. It was just one small spoon.",
     "options": [
      {
       "letter": "A",
@@ -367,45 +390,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "sand"
+      "text": "saucer"
      },
      {
       "letter": "C",
-      "text": "saucer"
+      "text": "scarf"
      },
      {
       "letter": "D",
       "text": "sailor"
      }
     ],
-    "answer": "D",
-    "vi": 4
-   },
-   {
-    "question": "She gave me a __________ of the product.【樣品，範例】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "saucer"
-     },
-     {
-      "letter": "B",
-      "text": "sample"
-     },
-     {
-      "letter": "C",
-      "text": "section"
-     },
-     {
-      "letter": "D",
-      "text": "sand"
-     }
-    ],
-    "answer": "B",
+    "answer": "A",
     "vi": 5
    },
    {
-    "question": "The beach is covered with white __________.【沙，沙灘】",
+    "question": "The children are building a castle with __________ on the beach.",
     "options": [
      {
       "letter": "A",
@@ -413,126 +413,57 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "scenery"
+      "text": "seafood"
      },
      {
       "letter": "C",
+      "text": "scenery"
+     },
+     {
+      "letter": "D",
       "text": "sand"
-     },
-     {
-      "letter": "D",
-      "text": "seafood"
-     }
-    ],
-    "answer": "C",
-    "vi": 6
-   },
-   {
-    "question": "The meal was enough to __________ everyone's hunger.【滿足，使滿意】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "satisfy"
-     },
-     {
-      "letter": "B",
-      "text": "rush"
-     },
-     {
-      "letter": "C",
-      "text": "searching"
-     },
-     {
-      "letter": "D",
-      "text": "seeking"
-     }
-    ],
-    "answer": "A",
-    "vi": 7
-   },
-   {
-    "question": "She placed the cup on the __________.【茶碟，托盤】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "rubber"
-     },
-     {
-      "letter": "B",
-      "text": "saucer"
-     },
-     {
-      "letter": "C",
-      "text": "score"
-     },
-     {
-      "letter": "D",
-      "text": "sample"
-     }
-    ],
-    "answer": "B",
-    "vi": 8
-   },
-   {
-    "question": "She wrapped a warm __________ around her neck.【圍巾】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "scenery"
-     },
-     {
-      "letter": "B",
-      "text": "saucer"
-     },
-     {
-      "letter": "C",
-      "text": "seafood"
-     },
-     {
-      "letter": "D",
-      "text": "scarf"
      }
     ],
     "answer": "D",
-    "vi": 9
+    "vi": 6
    },
    {
-    "question": "The movie has a beautiful __________.【場景，景象】",
+    "question": "Nothing can __________ him. He is never happy with what he has.",
     "options": [
      {
       "letter": "A",
-      "text": "scenery"
+      "text": "rush"
      },
      {
       "letter": "B",
-      "text": "score"
+      "text": "satisfy"
      },
      {
       "letter": "C",
-      "text": "scene"
+      "text": "ruin"
      },
      {
       "letter": "D",
-      "text": "sample"
+      "text": "search"
      }
     ],
-    "answer": "C",
-    "vi": 10
+    "answer": "B",
+    "vi": 7
    },
    {
-    "question": "The __________ from the top of the hill is breathtaking.【風景】",
+    "question": "She put the cup back on its __________.",
     "options": [
      {
       "letter": "A",
-      "text": "scenery"
+      "text": "saucer"
      },
      {
       "letter": "B",
-      "text": "scientist"
+      "text": "scarf"
      },
      {
       "letter": "C",
-      "text": "scarf"
+      "text": "score"
      },
      {
       "letter": "D",
@@ -540,18 +471,87 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "A",
-    "vi": 11
+    "vi": 8
    },
    {
-    "question": "She is a renowned __________.【科學家】",
+    "question": "It is cold outside. Wear a __________ around your neck.",
     "options": [
      {
       "letter": "A",
-      "text": "rubber"
+      "text": "saucer"
      },
      {
       "letter": "B",
+      "text": "scarf"
+     },
+     {
+      "letter": "C",
+      "text": "score"
+     },
+     {
+      "letter": "D",
+      "text": "sample"
+     }
+    ],
+    "answer": "B",
+    "vi": 9
+   },
+   {
+    "question": "The first __________ of the movie is in a school. Then the story moves to a beach.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "saucer"
+     },
+     {
+      "letter": "B",
+      "text": "scarf"
+     },
+     {
+      "letter": "C",
+      "text": "scene"
+     },
+     {
+      "letter": "D",
+      "text": "sand"
+     }
+    ],
+    "answer": "C",
+    "vi": 10
+   },
+   {
+    "question": "The mountain __________ here is beautiful. Many people come to take pictures of it.",
+    "options": [
+     {
+      "letter": "A",
       "text": "seafood"
+     },
+     {
+      "letter": "B",
+      "text": "rubber"
+     },
+     {
+      "letter": "C",
+      "text": "sand"
+     },
+     {
+      "letter": "D",
+      "text": "scenery"
+     }
+    ],
+    "answer": "D",
+    "vi": 11
+   },
+   {
+    "question": "Marie Curie was a famous __________. She worked in a lab and won two Nobel Prizes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sailor"
+     },
+     {
+      "letter": "B",
+      "text": "saucer"
      },
      {
       "letter": "C",
@@ -559,83 +559,83 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "scenery"
+      "text": "secret"
      }
     ],
     "answer": "C",
     "vi": 12
    },
    {
-    "question": "He got a high __________ on the test.【分數，得分】",
+    "question": "The final __________ of the game was 3 to 1. Our team won.",
     "options": [
      {
       "letter": "A",
-      "text": "scene"
+      "text": "scarf"
      },
      {
       "letter": "B",
+      "text": "saucer"
+     },
+     {
+      "letter": "C",
+      "text": "secret"
+     },
+     {
+      "letter": "D",
       "text": "score"
-     },
-     {
-      "letter": "C",
-      "text": "sand"
-     },
-     {
-      "letter": "D",
-      "text": "section"
-     }
-    ],
-    "answer": "B",
-    "vi": 13
-   },
-   {
-    "question": "The restaurant is famous for its __________.【海鮮，海產品】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "seafood"
-     },
-     {
-      "letter": "B",
-      "text": "scene"
-     },
-     {
-      "letter": "C",
-      "text": "sand"
-     },
-     {
-      "letter": "D",
-      "text": "scenery"
-     }
-    ],
-    "answer": "A",
-    "vi": 14
-   },
-   {
-    "question": "They are __________ for a new manager.【搜索，尋找】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "seeking"
-     },
-     {
-      "letter": "B",
-      "text": "satisfy"
-     },
-     {
-      "letter": "C",
-      "text": "rush"
-     },
-     {
-      "letter": "D",
-      "text": "searching"
      }
     ],
     "answer": "D",
+    "vi": 13
+   },
+   {
+    "question": "I love __________, like fish, shrimp, and crab.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "scenery"
+     },
+     {
+      "letter": "B",
+      "text": "seafood"
+     },
+     {
+      "letter": "C",
+      "text": "rubber"
+     },
+     {
+      "letter": "D",
+      "text": "sand"
+     }
+    ],
+    "answer": "B",
+    "vi": 14
+   },
+   {
+    "question": "The police are __________ for the lost child. They are looking everywhere.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "searching"
+     },
+     {
+      "letter": "B",
+      "text": "rushing"
+     },
+     {
+      "letter": "C",
+      "text": "ruining"
+     },
+     {
+      "letter": "D",
+      "text": "satisfying"
+     }
+    ],
+    "answer": "A",
     "vi": 15
    },
    {
-    "question": "He is a __________ school teacher.【次要的，中等的】",
+    "question": "After elementary school, students go to __________ school.",
     "options": [
      {
       "letter": "A",
@@ -643,22 +643,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "impossible"
-     },
-     {
-      "letter": "C",
       "text": "secondary"
      },
      {
+      "letter": "C",
+      "text": "selfish"
+     },
+     {
       "letter": "D",
-      "text": "golden"
+      "text": "similar"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 16
    },
    {
-    "question": "She told me a __________.【秘密】",
+    "question": "Don't tell anyone about the party. It is a __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "score"
+     },
+     {
+      "letter": "B",
+      "text": "scarf"
+     },
+     {
+      "letter": "C",
+      "text": "secret"
+     },
+     {
+      "letter": "D",
+      "text": "sample"
+     }
+    ],
+    "answer": "C",
+    "vi": 17
+   },
+   {
+    "question": "The sports __________ of the newspaper is on page ten.",
     "options": [
      {
       "letter": "A",
@@ -666,67 +689,44 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "scientist"
+      "text": "scarf"
      },
      {
       "letter": "C",
-      "text": "seafood"
+      "text": "sailor"
      },
      {
       "letter": "D",
       "text": "section"
-     }
-    ],
-    "answer": "A",
-    "vi": 17
-   },
-   {
-    "question": "This __________ of the book is very interesting.【部分，部門】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "saucer"
-     },
-     {
-      "letter": "B",
-      "text": "section"
-     },
-     {
-      "letter": "C",
-      "text": "seafood"
-     },
-     {
-      "letter": "D",
-      "text": "rubber"
-     }
-    ],
-    "answer": "B",
-    "vi": 18
-   },
-   {
-    "question": "He is __________ a new job.【尋找，追求】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "searching"
-     },
-     {
-      "letter": "B",
-      "text": "ruined"
-     },
-     {
-      "letter": "C",
-      "text": "satisfy"
-     },
-     {
-      "letter": "D",
-      "text": "seeking"
      }
     ],
     "answer": "D",
+    "vi": 18
+   },
+   {
+    "question": "He lost his job last month, so he is __________ a new one now.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "seeking"
+     },
+     {
+      "letter": "B",
+      "text": "ruining"
+     },
+     {
+      "letter": "C",
+      "text": "rushing"
+     },
+     {
+      "letter": "D",
+      "text": "satisfying"
+     }
+    ],
+    "answer": "A",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"female":["being a woman or a girl","女性的"],"golden":["very happy and special; having the color of gold","金色的，極好的"],"impossible":["not able to happen or be done","不可能的"],"rubber":["strong material that bends and bounces, used for balls and tires","橡膠，橡皮"],"rude":["not polite","無禮的，粗魯的"],"ruined":["to spoil or destroy something completely","毀壞，破壞"],"rush":["to go or do something very quickly","衝，趕緊"],"sailor":["a person who works on a ship","水手，海員"],"sample":["a small amount of something that shows what the rest is like","樣品，範例"],"sand":["very small grains of rock on beaches and in deserts","沙，沙灘"],"satisfy":["to give someone what they want or need","滿足，使滿意"],"saucer":["a small plate that goes under a cup","茶碟，托盤"],"scarf":["a long piece of cloth that you wear around your neck","圍巾"],"scene":["one part of a movie or play that happens in one place","場景，景象"],"scenery":["the beautiful things in nature that you see in a place","風景"],"scientist":["a person who studies science","科學家"],"score":["the number of points you get on a test or in a game","分數，得分"],"seafood":["fish and other sea animals that people eat","海鮮，海產品"],"searching":["to look carefully for someone or something","搜索，尋找"],"secondary":["(of a school) for students from about 12 to 18 years old","次要的，中等的"],"secret":["something that you do not want other people to know","秘密"],"section":["one of the parts of something","部分，部門"],"seeking":["to try to find or get something","尋找，追求"],"violent":["very strong and dangerous","暴力的，猛烈的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"sand":["very small grains of rock on beaches and in deserts","沙，沙灘"],"seafood":["fish and other sea animals that people eat","海鮮，海產品"],"scenery":["the beautiful things in nature that you see in a place","風景"],"rubber":["strong material that bends and bounces, used for balls and tires","橡膠，橡皮"],"secondary":["(of a school) for students from about 12 to 18 years old","次要的，中等的"],"selfish":["thinking only about yourself, not about others","自私的，自利的"],"rude":["not polite","無禮的，粗魯的"],"similar":["almost the same","相似的，類似的"],"rushed":["to go or do something very quickly","衝，趕緊"],"ruined":["to spoil or destroy something completely","毀壞，破壞"],"satisfied":["to give someone what they want or need","滿足，使滿意"],"searched":["to look carefully for someone or something","搜索，尋找"],"rush":["to go or do something very quickly","衝，趕緊"],"ruin":["to spoil or destroy something completely","毀壞，破壞"],"satisfy":["to give someone what they want or need","滿足，使滿意"],"seek":["to try to find or get something","尋找，追求"],"scientist":["a person who studies science","科學家"],"secret":["something that you do not want other people to know","秘密"],"sailor":["a person who works on a ship","水手，海員"],"saucer":["a small plate that goes under a cup","茶碟，托盤"],"sample":["a small amount of something that shows what the rest is like","樣品，範例"],"scarf":["a long piece of cloth that you wear around your neck","圍巾"],"search":["to look carefully for someone or something","搜索，尋找"],"score":["the number of points you get on a test or in a game","分數，得分"],"scene":["one part of a movie or play that happens in one place","場景，景象"],"searching":["to look carefully for someone or something","搜索，尋找"],"rushing":["to go or do something very quickly","衝，趕緊"],"ruining":["to spoil or destroy something completely","毀壞，破壞"],"satisfying":["to give someone what they want or need","滿足，使滿意"],"section":["one of the parts of something","部分，部門"],"seeking":["to try to find or get something","尋找，追求"]});

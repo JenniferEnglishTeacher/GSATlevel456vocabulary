@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "She received a __________ portion of dessert.【雙倍的，雙重的】",
+    "question": "I am very hungry. I'd like a __________ hamburger with two pieces of beef, please.",
     "options": [
      {
       "letter": "A",
@@ -275,7 +275,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "considerate"
+      "text": "daily"
      },
      {
       "letter": "C",
@@ -283,60 +283,60 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "unhappy"
+      "text": "dizzy"
      }
     ],
     "answer": "C",
     "vi": 0
    },
    {
-    "question": "There is no __________ about his abilities.【疑問，懷疑】",
+    "question": "There is no __________ that she will win. She is the best player on the team.",
     "options": [
      {
       "letter": "A",
-      "text": "dove"
+      "text": "duty"
      },
      {
       "letter": "B",
+      "text": "drama"
+     },
+     {
+      "letter": "C",
+      "text": "edge"
+     },
+     {
+      "letter": "D",
       "text": "doubt"
-     },
-     {
-      "letter": "C",
-      "text": "edge"
-     },
-     {
-      "letter": "D",
-      "text": "drugstore"
-     }
-    ],
-    "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "He bought a chocolate __________.【甜甜圈】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "edge"
-     },
-     {
-      "letter": "B",
-      "text": "dryer"
-     },
-     {
-      "letter": "C",
-      "text": "ease"
-     },
-     {
-      "letter": "D",
-      "text": "doughnut"
      }
     ],
     "answer": "D",
+    "vi": 1
+   },
+   {
+    "question": "I had a chocolate __________ and a cup of coffee. I love this sweet round cake with a hole in it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dumpling"
+     },
+     {
+      "letter": "B",
+      "text": "doughnut"
+     },
+     {
+      "letter": "C",
+      "text": "dragon"
+     },
+     {
+      "letter": "D",
+      "text": "dryer"
+     }
+    ],
+    "answer": "B",
     "vi": 2
    },
    {
-    "question": "A white __________ is a symbol of peace.【鴿子】",
+    "question": "A white __________ flew over the church. This bird is a sign of peace.",
     "options": [
      {
       "letter": "A",
@@ -344,7 +344,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "eagle"
+      "text": "dragon"
      },
      {
       "letter": "C",
@@ -352,14 +352,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "edge"
+      "text": "drama"
      }
     ],
     "answer": "A",
     "vi": 3
    },
    {
-    "question": "She heard noises coming from __________.【在樓下】",
+    "question": "My bedroom is on the second floor. The kitchen is __________, on the first floor.",
     "options": [
      {
       "letter": "A",
@@ -367,53 +367,53 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "downstairs"
+      "text": "especially"
      },
      {
       "letter": "C",
-      "text": "overseas"
-     },
-     {
-      "letter": "D",
-      "text": "besides"
-     }
-    ],
-    "answer": "B",
-    "vi": 4
-   },
-   {
-    "question": "They live in a __________ apartment.【市中心】",
-    "options": [
-     {
-      "letter": "A",
       "text": "downstairs"
      },
      {
-      "letter": "B",
+      "letter": "D",
       "text": "everywhere"
-     },
-     {
-      "letter": "C",
-      "text": "downtown"
-     },
-     {
-      "letter": "D",
-      "text": "nearly"
      }
     ],
     "answer": "C",
-    "vi": 5
+    "vi": 4
    },
    {
-    "question": "The legend tells of a fearsome __________.【龍】",
+    "question": "We live in the country, but my father works __________, in the busiest part of the city.",
     "options": [
      {
       "letter": "A",
-      "text": "education"
+      "text": "downstairs"
      },
      {
       "letter": "B",
+      "text": "especially"
+     },
+     {
+      "letter": "C",
+      "text": "backward"
+     },
+     {
+      "letter": "D",
+      "text": "downtown"
+     }
+    ],
+    "answer": "D",
+    "vi": 5
+   },
+   {
+    "question": "In Chinese stories, the __________ is a strong and lucky animal that can fly.",
+    "options": [
+     {
+      "letter": "A",
       "text": "dove"
+     },
+     {
+      "letter": "B",
+      "text": "dragon"
      },
      {
       "letter": "C",
@@ -421,49 +421,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "dragon"
+      "text": "dumpling"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 6
    },
    {
-    "question": "She loves watching __________ on TV.【戲劇，劇本】",
+    "question": "My mother loves Korean __________. She watches the love story on TV every night.",
     "options": [
      {
       "letter": "A",
-      "text": "dramas"
+      "text": "drama"
      },
      {
       "letter": "B",
-      "text": "earrings"
+      "text": "duty"
      },
      {
       "letter": "C",
-      "text": "efforts"
+      "text": "edge"
      },
      {
       "letter": "D",
-      "text": "dumplings"
+      "text": "effort"
      }
     ],
     "answer": "A",
     "vi": 7
    },
    {
-    "question": "She went to the __________ to buy some medicine.【藥房】",
+    "question": "I have a headache. I am going to the __________ to buy some medicine.",
     "options": [
      {
       "letter": "A",
-      "text": "doubt"
+      "text": "dryer"
      },
      {
       "letter": "B",
-      "text": "dove"
+      "text": "drama"
      },
      {
       "letter": "C",
-      "text": "doughnut"
+      "text": "edge"
      },
      {
       "letter": "D",
@@ -474,11 +474,11 @@ window.FLASHCARD_UNITS = {
     "vi": 8
    },
    {
-    "question": "She put the clothes in the __________.【烘乾機】",
+    "question": "After washing the clothes, put them in the __________. They will be warm and dry in an hour.",
     "options": [
      {
       "letter": "A",
-      "text": "doughnut"
+      "text": "drugstore"
      },
      {
       "letter": "B",
@@ -486,18 +486,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "dove"
+      "text": "drama"
      },
      {
       "letter": "D",
-      "text": "dragon"
+      "text": "dove"
      }
     ],
     "answer": "B",
     "vi": 9
    },
    {
-    "question": "It was a __________ mistake to make.【啞的，愚蠢的】",
+    "question": "It was __________ of me to forget my keys again. I am so silly sometimes!",
     "options": [
      {
       "letter": "A",
@@ -505,7 +505,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "electric"
+      "text": "daily"
      },
      {
       "letter": "C",
@@ -513,14 +513,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "positive"
+      "text": "dizzy"
      }
     ],
     "answer": "C",
     "vi": 10
    },
    {
-    "question": "They made pork __________ for dinner.【餃子】",
+    "question": "We made pork __________ for dinner. We put meat inside each one and boiled them.",
     "options": [
      {
       "letter": "A",
@@ -528,49 +528,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "efforts"
+      "text": "doughnuts"
      },
      {
       "letter": "C",
-      "text": "dramas"
+      "text": "earrings"
      },
      {
       "letter": "D",
-      "text": "earrings"
+      "text": "dragons"
      }
     ],
     "answer": "A",
     "vi": 11
    },
    {
-    "question": "It is your __________ to finish the task.【責任，義務】",
+    "question": "It is a student's __________ to study hard. It is something every student must do.",
     "options": [
      {
       "letter": "A",
-      "text": "ease"
+      "text": "doubt"
      },
      {
       "letter": "B",
-      "text": "education"
+      "text": "edge"
      },
      {
       "letter": "C",
-      "text": "dove"
+      "text": "duty"
      },
      {
       "letter": "D",
-      "text": "duty"
+      "text": "ease"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 12
    },
    {
-    "question": "The __________ soared high in the sky.【鷹】",
+    "question": "An __________ is a big bird with strong wings. It can see a rabbit from high up in the sky.",
     "options": [
      {
       "letter": "A",
-      "text": "dove"
+      "text": "edge"
      },
      {
       "letter": "B",
@@ -578,41 +578,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "ease"
+      "text": "effort"
      },
      {
       "letter": "D",
-      "text": "education"
+      "text": "earring"
      }
     ],
     "answer": "B",
     "vi": 13
    },
    {
-    "question": "He works hard to __________ a living.【賺取，獲得】",
+    "question": "My brother works at a restaurant to __________ money. He gets 180 dollars an hour.",
     "options": [
      {
       "letter": "A",
-      "text": "solve"
+      "text": "elect"
      },
      {
       "letter": "B",
-      "text": "increase"
+      "text": "employ"
      },
      {
       "letter": "C",
-      "text": "earn"
+      "text": "envy"
      },
      {
       "letter": "D",
-      "text": "design"
+      "text": "earn"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 14
    },
    {
-    "question": "She wore diamond __________.【耳環】",
+    "question": "She wore a pair of gold __________. They looked beautiful on her ears.",
     "options": [
      {
       "letter": "A",
@@ -620,26 +620,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "dramas"
+      "text": "dumplings"
      },
      {
       "letter": "C",
-      "text": "efforts"
+      "text": "eagles"
      },
      {
       "letter": "D",
-      "text": "dumplings"
+      "text": "doughnuts"
      }
     ],
     "answer": "A",
     "vi": 15
    },
    {
-    "question": "He completed the task with __________.【容易，舒適】",
+    "question": "She is a great swimmer. She won the race with __________.",
     "options": [
      {
       "letter": "A",
-      "text": "doughnut"
+      "text": "edge"
      },
      {
       "letter": "B",
@@ -647,30 +647,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "dragon"
+      "text": "effort"
      },
      {
       "letter": "D",
-      "text": "drugstore"
+      "text": "duty"
      }
     ],
     "answer": "B",
     "vi": 16
    },
    {
-    "question": "She sat on the __________ of the bed.【邊緣】",
+    "question": "Don't stand at the __________ of the platform. You may fall onto the rails.",
     "options": [
      {
       "letter": "A",
-      "text": "eagle"
+      "text": "ease"
      },
      {
       "letter": "B",
-      "text": "doughnut"
+      "text": "effort"
      },
      {
       "letter": "C",
-      "text": "doubt"
+      "text": "duty"
      },
      {
       "letter": "D",
@@ -681,7 +681,7 @@ window.FLASHCARD_UNITS = {
     "vi": 17
    },
    {
-    "question": "She values the importance of __________.【教育】",
+    "question": "Every child should get a good __________. That is why we need good schools and teachers.",
     "options": [
      {
       "letter": "A",
@@ -689,38 +689,38 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ease"
+      "text": "edge"
      },
      {
       "letter": "C",
-      "text": "duty"
+      "text": "eagle"
      },
      {
       "letter": "D",
-      "text": "eagle"
+      "text": "ease"
      }
     ],
     "answer": "A",
     "vi": 18
    },
    {
-    "question": "His __________ paid off in the end.【努力，成就】",
+    "question": "It takes a lot of time and __________ to learn a language. You have to work hard every day.",
     "options": [
      {
       "letter": "A",
-      "text": "earrings"
+      "text": "edge"
      },
      {
       "letter": "B",
-      "text": "dramas"
+      "text": "ease"
      },
      {
       "letter": "C",
-      "text": "efforts"
+      "text": "effort"
      },
      {
       "letter": "D",
-      "text": "dumplings"
+      "text": "eagle"
      }
     ],
     "answer": "C",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"besides":["in addition to","除了...之外"],"considerate":["always thinking about what other people need or feel","體貼的"],"design":["to plan and draw how something will look","設計，構思"],"double":["two times as much or as many","雙倍的，雙重的"],"doubt":["a feeling of not being sure","疑問，懷疑"],"doughnut":["a small, sweet, round cake with a hole in the middle","甜甜圈"],"dove":["a white bird that is a sign of peace","鴿子"],"downstairs":["on or to a lower floor of a building","在樓下"],"downtown":["in the center of a city","市中心"],"dragon":["a big animal in stories that has wings and can breathe fire","龍"],"dramas":["a serious story acted on TV or in a theater","戲劇，劇本"],"drugstore":["a store that sells medicine","藥房"],"dryer":["a machine that makes wet clothes dry","烘乾機"],"dumb":["stupid; silly","啞的，愚蠢的"],"dumplings":["a small piece of dough with meat or vegetables inside","餃子"],"duty":["something that you must do because it is your job or it is right","責任，義務"],"eagle":["a very big, strong bird that catches small animals","鷹"],"earn":["to get money by working","賺取，獲得"],"earrings":["pretty things that people wear on their ears","耳環"],"ease":["being able to do something with no difficulty","容易，舒適"],"edge":["the outside end or side of something","邊緣"],"education":["teaching and learning, usually at school","教育"],"efforts":["hard work that you do to get something done","努力，成就"],"electric":["using electricity to work","電的，電動的"],"everywhere":["in all places","到處"],"increase":["to make something bigger in number or amount","增加，增長"],"nearly":["almost","幾乎，差不多"],"overseas":["in or to a country across the sea","海外，國外"],"positive":["thinking about the good side of things","積極的，正面的"],"solve":["to find the answer to a problem","解決，解答"],"unhappy":["not happy","不快樂的，不滿意的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dumb":["stupid; silly","啞的，愚蠢的"],"daily":["happening or coming out every day","每日的，日常的"],"double":["two times as much or as many","雙倍的，雙重的"],"dizzy":["feeling that everything is turning around you","頭暈的"],"duty":["something that you must do because it is your job or it is right","責任，義務"],"drama":["a serious story acted on TV or in a theater","戲劇，劇本"],"edge":["the outside end or side of something","邊緣"],"doubt":["a feeling of not being sure","疑問，懷疑"],"dumpling":["a small piece of dough with meat or vegetables inside","餃子"],"doughnut":["a small, sweet, round cake with a hole in the middle","甜甜圈"],"dragon":["a big animal in stories that has wings and can breathe fire","龍"],"dryer":["a machine that makes wet clothes dry","烘乾機"],"dove":["a white bird that is a sign of peace","鴿子"],"downtown":["in the center of a city","市中心"],"especially":["more than others; more than usual","特別地，尤其"],"downstairs":["on or to a lower floor of a building","在樓下"],"everywhere":["in all places","到處"],"backward":["toward the back","向後地"],"eagle":["a very big, strong bird that catches small animals","鷹"],"effort":["hard work that you do to get something done","努力，成就"],"drugstore":["a store that sells medicine","藥房"],"dumplings":["a small piece of dough with meat or vegetables inside","餃子"],"doughnuts":["a small, sweet, round cake with a hole in the middle","甜甜圈"],"earrings":["pretty things that people wear on their ears","耳環"],"dragons":["a big animal in stories that has wings and can breathe fire","龍"],"ease":["being able to do something with no difficulty","容易，舒適"],"earring":["","耳環"],"elect":["to choose someone for a job by voting","選舉，選擇"],"employ":["to give someone a job and pay them","雇用"],"envy":["to wish you had what someone else has","嫉妒，羨慕"],"earn":["to get money by working","賺取，獲得"],"eagles":["a very big, strong bird that catches small animals","鷹"],"education":["teaching and learning, usually at school","教育"]});

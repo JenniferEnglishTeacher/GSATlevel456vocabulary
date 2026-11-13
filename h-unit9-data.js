@@ -267,199 +267,15 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "We left at __________.【黎明，拂曉】",
+    "question": "The farmers get up at __________ and start working when the sun comes up.",
     "options": [
      {
       "letter": "A",
-      "text": "dessert"
-     },
-     {
-      "letter": "B",
-      "text": "decision"
-     },
-     {
-      "letter": "C",
-      "text": "dawn"
-     },
-     {
-      "letter": "D",
-      "text": "department"
-     }
-    ],
-    "answer": "C",
-    "vi": 0
-   },
-   {
-    "question": "He has been __________ since birth.【聾的，失聰的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "silent"
-     },
-     {
-      "letter": "B",
-      "text": "personal"
-     },
-     {
-      "letter": "C",
-      "text": "major"
-     },
-     {
-      "letter": "D",
-      "text": "deaf"
-     }
-    ],
-    "answer": "D",
-    "vi": 1
-   },
-   {
-    "question": "They had a heated __________ about politics.【辯論，討論】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "desire"
-     },
-     {
-      "letter": "B",
-      "text": "debate"
-     },
-     {
-      "letter": "C",
-      "text": "dessert"
-     },
-     {
-      "letter": "D",
       "text": "desert"
-     }
-    ],
-    "answer": "B",
-    "vi": 2
-   },
-   {
-    "question": "It was a difficult __________.【決定，判斷】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "decision"
      },
      {
       "letter": "B",
-      "text": "desire"
-     },
-     {
-      "letter": "C",
-      "text": "dessert"
-     },
-     {
-      "letter": "D",
-      "text": "deer"
-     }
-    ],
-    "answer": "A",
-    "vi": 3
-   },
-   {
-    "question": "They __________ the room for the party.【裝飾】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "delivered"
-     },
-     {
-      "letter": "B",
-      "text": "decorated"
-     },
-     {
-      "letter": "C",
-      "text": "dialed"
-     },
-     {
-      "letter": "D",
-      "text": "decreased"
-     }
-    ],
-    "answer": "B",
-    "vi": 4
-   },
-   {
-    "question": "The population has __________ significantly.【減少】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dialed"
-     },
-     {
-      "letter": "B",
-      "text": "decorated"
-     },
-     {
-      "letter": "C",
-      "text": "delivered"
-     },
-     {
-      "letter": "D",
-      "text": "decreased"
-     }
-    ],
-    "answer": "D",
-    "vi": 5
-   },
-   {
-    "question": "How would you __________ success?【定義，解釋】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "design"
-     },
-     {
-      "letter": "B",
-      "text": "develop"
-     },
-     {
-      "letter": "C",
-      "text": "define"
-     },
-     {
-      "letter": "D",
-      "text": "depend"
-     }
-    ],
-    "answer": "C",
-    "vi": 6
-   },
-   {
-    "question": "We saw a __________ in the forest.【鹿】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "deer"
-     },
-     {
-      "letter": "B",
-      "text": "department"
-     },
-     {
-      "letter": "C",
-      "text": "debate"
-     },
-     {
-      "letter": "D",
       "text": "dawn"
-     }
-    ],
-    "answer": "A",
-    "vi": 7
-   },
-   {
-    "question": "She has a __________ in mathematics.【程度，學位】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dawn"
-     },
-     {
-      "letter": "B",
-      "text": "deer"
      },
      {
       "letter": "C",
@@ -470,34 +286,34 @@ window.FLASHCARD_UNITS = {
       "text": "dessert"
      }
     ],
-    "answer": "C",
-    "vi": 8
+    "answer": "B",
+    "vi": 0
    },
    {
-    "question": "The mail is __________ daily.【遞送，傳遞】",
+    "question": "The old man is __________, so he can't hear you. You have to write down what you want to say.",
     "options": [
      {
       "letter": "A",
-      "text": "delivered"
+      "text": "deaf"
      },
      {
       "letter": "B",
-      "text": "dialed"
+      "text": "dizzy"
      },
      {
       "letter": "C",
-      "text": "decreased"
+      "text": "daily"
      },
      {
       "letter": "D",
-      "text": "decorated"
+      "text": "diligent"
      }
     ],
     "answer": "A",
-    "vi": 9
+    "vi": 1
    },
    {
-    "question": "She works in the marketing __________.【部門，系】",
+    "question": "The two teams had a __________ about school uniforms. One side was for them, and the other was against them.",
     "options": [
      {
       "letter": "A",
@@ -505,45 +321,206 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "dawn"
+      "text": "desert"
      },
      {
       "letter": "C",
-      "text": "debate"
+      "text": "dessert"
      },
      {
       "letter": "D",
-      "text": "department"
+      "text": "debate"
      }
     ],
     "answer": "D",
-    "vi": 10
+    "vi": 2
    },
    {
-    "question": "You can __________ on me for help.【依賴，依靠】",
+    "question": "It is hard to choose between the two schools. I have to make a __________ by Friday.",
     "options": [
      {
       "letter": "A",
-      "text": "develop"
+      "text": "desert"
      },
      {
       "letter": "B",
-      "text": "depend"
+      "text": "dessert"
      },
      {
       "letter": "C",
-      "text": "describe"
+      "text": "decision"
      },
      {
       "letter": "D",
-      "text": "design"
+      "text": "deer"
+     }
+    ],
+    "answer": "C",
+    "vi": 3
+   },
+   {
+    "question": "Let's __________ the room with balloons and flowers for Mom's birthday party.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "decrease"
+     },
+     {
+      "letter": "B",
+      "text": "decorate"
+     },
+     {
+      "letter": "C",
+      "text": "deliver"
+     },
+     {
+      "letter": "D",
+      "text": "dial"
      }
     ],
     "answer": "B",
-    "vi": 11
+    "vi": 4
    },
    {
-    "question": "Can you __________ what happened?【描述，形容】",
+    "question": "The number of students __________ from fifty to thirty. Twenty of them left the school.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "decorated"
+     },
+     {
+      "letter": "B",
+      "text": "delivered"
+     },
+     {
+      "letter": "C",
+      "text": "decreased"
+     },
+     {
+      "letter": "D",
+      "text": "designed"
+     }
+    ],
+    "answer": "C",
+    "vi": 5
+   },
+   {
+    "question": "It is hard to __________ the word \"love.\" Can you tell me what it means?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "define"
+     },
+     {
+      "letter": "B",
+      "text": "deliver"
+     },
+     {
+      "letter": "C",
+      "text": "decorate"
+     },
+     {
+      "letter": "D",
+      "text": "dial"
+     }
+    ],
+    "answer": "A",
+    "vi": 6
+   },
+   {
+    "question": "We saw a __________ in the forest. It had long legs and big horns, and it ran away quickly.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "desert"
+     },
+     {
+      "letter": "B",
+      "text": "degree"
+     },
+     {
+      "letter": "C",
+      "text": "dawn"
+     },
+     {
+      "letter": "D",
+      "text": "deer"
+     }
+    ],
+    "answer": "D",
+    "vi": 7
+   },
+   {
+    "question": "My sister studied for four years and got a __________ in English from National Taiwan University.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "deer"
+     },
+     {
+      "letter": "B",
+      "text": "degree"
+     },
+     {
+      "letter": "C",
+      "text": "desert"
+     },
+     {
+      "letter": "D",
+      "text": "dessert"
+     }
+    ],
+    "answer": "B",
+    "vi": 8
+   },
+   {
+    "question": "The mailman __________ letters to our house every morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "decorates"
+     },
+     {
+      "letter": "B",
+      "text": "describes"
+     },
+     {
+      "letter": "C",
+      "text": "designs"
+     },
+     {
+      "letter": "D",
+      "text": "delivers"
+     }
+    ],
+    "answer": "D",
+    "vi": 9
+   },
+   {
+    "question": "Mr. Lin works in the sales __________ of a big company. There are twenty people on his team.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "desert"
+     },
+     {
+      "letter": "B",
+      "text": "dessert"
+     },
+     {
+      "letter": "C",
+      "text": "department"
+     },
+     {
+      "letter": "D",
+      "text": "dawn"
+     }
+    ],
+    "answer": "C",
+    "vi": 10
+   },
+   {
+    "question": "You can __________ on Amy. She always does what she says she will do.",
     "options": [
      {
       "letter": "A",
@@ -551,11 +528,34 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "design"
+      "text": "describe"
      },
      {
       "letter": "C",
-      "text": "define"
+      "text": "decorate"
+     },
+     {
+      "letter": "D",
+      "text": "deliver"
+     }
+    ],
+    "answer": "A",
+    "vi": 11
+   },
+   {
+    "question": "Can you __________ the man you saw? Was he tall or short? What was he wearing?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "depend"
+     },
+     {
+      "letter": "B",
+      "text": "decorate"
+     },
+     {
+      "letter": "C",
+      "text": "dial"
      },
      {
       "letter": "D",
@@ -566,7 +566,7 @@ window.FLASHCARD_UNITS = {
     "vi": 12
    },
    {
-    "question": "The Sahara is the largest __________ in the world.【沙漠】",
+    "question": "It almost never rains in the __________. You can see only sand for miles.",
     "options": [
      {
       "letter": "A",
@@ -574,91 +574,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "desert"
-     },
-     {
-      "letter": "C",
-      "text": "department"
-     },
-     {
-      "letter": "D",
-      "text": "dawn"
-     }
-    ],
-    "answer": "B",
-    "vi": 13
-   },
-   {
-    "question": "She wants to __________ her own clothes.【設計，構思】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "design"
-     },
-     {
-      "letter": "B",
-      "text": "develop"
-     },
-     {
-      "letter": "C",
-      "text": "detect"
-     },
-     {
-      "letter": "D",
-      "text": "define"
-     }
-    ],
-    "answer": "A",
-    "vi": 14
-   },
-   {
-    "question": "He has a strong __________ to succeed.【欲望，渴望】",
-    "options": [
-     {
-      "letter": "A",
       "text": "degree"
      },
      {
-      "letter": "B",
-      "text": "department"
-     },
-     {
       "letter": "C",
-      "text": "desire"
+      "text": "desert"
      },
      {
       "letter": "D",
-      "text": "dessert"
+      "text": "department"
      }
     ],
     "answer": "C",
-    "vi": 15
+    "vi": 13
    },
    {
-    "question": "They had ice cream for __________.【甜點】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dawn"
-     },
-     {
-      "letter": "B",
-      "text": "dessert"
-     },
-     {
-      "letter": "C",
-      "text": "department"
-     },
-     {
-      "letter": "D",
-      "text": "desert"
-     }
-    ],
-    "answer": "B",
-    "vi": 16
-   },
-   {
-    "question": "The test can __________ even the smallest errors.【察覺，偵測】",
+    "question": "Lisa wants to __________ clothes. She draws new dresses in her notebook every day.",
     "options": [
      {
       "letter": "A",
@@ -666,7 +597,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "describe"
+      "text": "design"
+     },
+     {
+      "letter": "C",
+      "text": "dial"
+     },
+     {
+      "letter": "D",
+      "text": "decrease"
+     }
+    ],
+    "answer": "B",
+    "vi": 14
+   },
+   {
+    "question": "He has a strong __________ to win. He practices for six hours every day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "desire"
+     },
+     {
+      "letter": "B",
+      "text": "desert"
+     },
+     {
+      "letter": "C",
+      "text": "deer"
+     },
+     {
+      "letter": "D",
+      "text": "dessert"
+     }
+    ],
+    "answer": "A",
+    "vi": 15
+   },
+   {
+    "question": "After dinner, we had ice cream for __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "desert"
+     },
+     {
+      "letter": "B",
+      "text": "degree"
+     },
+     {
+      "letter": "C",
+      "text": "dessert"
+     },
+     {
+      "letter": "D",
+      "text": "dawn"
+     }
+    ],
+    "answer": "C",
+    "vi": 16
+   },
+   {
+    "question": "Dogs can __________ smells that people can't. That is why the police use them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "decorate"
+     },
+     {
+      "letter": "B",
+      "text": "detect"
      },
      {
       "letter": "C",
@@ -674,59 +674,59 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "detect"
+      "text": "dial"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 17
    },
    {
-    "question": "The company plans to __________ a new product.【發展，開發】",
+    "question": "The company plans to __________ a new phone. It will take two years to make it.",
     "options": [
      {
       "letter": "A",
-      "text": "develop"
+      "text": "depend"
      },
      {
       "letter": "B",
-      "text": "describe"
+      "text": "dial"
      },
      {
       "letter": "C",
-      "text": "define"
+      "text": "decrease"
      },
      {
       "letter": "D",
-      "text": "detect"
+      "text": "develop"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 18
    },
    {
-    "question": "He __________ the wrong number by mistake.【撥號】",
+    "question": "I __________ the wrong number and called a stranger by mistake.",
     "options": [
      {
       "letter": "A",
-      "text": "delivered"
-     },
-     {
-      "letter": "B",
-      "text": "decreased"
-     },
-     {
-      "letter": "C",
       "text": "dialed"
      },
      {
-      "letter": "D",
+      "letter": "B",
       "text": "decorated"
+     },
+     {
+      "letter": "C",
+      "text": "described"
+     },
+     {
+      "letter": "D",
+      "text": "designed"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dawn":["the time of day when the sun comes up","黎明，拂曉"],"deaf":["not able to hear","聾的，失聰的"],"debate":["a talk in which people give different opinions about something","辯論，討論"],"decision":["a choice that you make after thinking","決定，判斷"],"decorated":["to make a place look nice by putting pretty things in it","裝飾"],"decreased":["to become smaller in number or amount","減少"],"define":["to say what a word or idea means","定義，解釋"],"deer":["a wild animal that runs fast; the male has horns like branches","鹿"],"degree":["a paper that a university gives you when you finish your studies","程度，學位"],"delivered":["to take letters or things to a person or place","遞送，傳遞"],"department":["one part of a company, school, or store","部門，系"],"depend":["(with \"on\") to trust someone to help you; to need someone","依賴，依靠"],"describe":["to say what someone or something is like","描述，形容"],"desert":["a very dry place with a lot of sand and few plants","沙漠"],"design":["to plan and draw how something will look","設計，構思"],"desire":["a strong wish","欲望，渴望"],"dessert":["sweet food that you eat at the end of a meal","甜點"],"detect":["to find or notice something that is hard to see","察覺，偵測"],"develop":["to make something new and better over time","發展，開發"],"dialed":["to press the numbers on a phone to call someone","撥號"],"major":["very big or important","主要的，重要的"],"personal":["belonging to you; your own","個人的，私人的"],"silent":["not speaking; making no sound","沉默的，安靜的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"desert":["a very dry place with a lot of sand and few plants","沙漠"],"dawn":["the time of day when the sun comes up","黎明，拂曉"],"degree":["a paper that a university gives you when you finish your studies","程度，學位"],"dessert":["sweet food that you eat at the end of a meal","甜點"],"deaf":["not able to hear","聾的，失聰的"],"dizzy":["feeling that everything is turning around you","頭暈的"],"daily":["happening or coming out every day","每日的，日常的"],"diligent":["working hard and carefully","勤勉的，勤奮的"],"deer":["a wild animal that runs fast; the male has horns like branches","鹿"],"debate":["a talk in which people give different opinions about something","辯論，討論"],"decision":["a choice that you make after thinking","決定，判斷"],"decrease":["to become smaller in number or amount","減少"],"decorate":["to make a place look nice by putting pretty things in it","裝飾"],"deliver":["to take letters or things to a person or place","遞送，傳遞"],"dial":["to press the numbers on a phone to call someone","撥號"],"decorated":["to make a place look nice by putting pretty things in it","裝飾"],"delivered":["to take letters or things to a person or place","遞送，傳遞"],"decreased":["to become smaller in number or amount","減少"],"designed":["to plan and draw how something will look","設計，構思"],"define":["to say what a word or idea means","定義，解釋"],"decorates":["to make a place look nice by putting pretty things in it","裝飾"],"describes":["to say what someone or something is like","描述，形容"],"designs":["to plan and draw how something will look","設計，構思"],"delivers":["to take letters or things to a person or place","遞送，傳遞"],"department":["one part of a company, school, or store","部門，系"],"depend":["(with \"on\") to trust someone to help you; to need someone","依賴，依靠"],"describe":["to say what someone or something is like","描述，形容"],"design":["to plan and draw how something will look","設計，構思"],"desire":["a strong wish","欲望，渴望"],"detect":["to find or notice something that is hard to see","察覺，偵測"],"develop":["to make something new and better over time","發展，開發"],"dialed":["to press the numbers on a phone to call someone","撥號"],"described":["to say what someone or something is like","描述，形容"]});

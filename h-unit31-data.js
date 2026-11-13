@@ -267,19 +267,42 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "It __________ that she is not coming.【似乎，看來】",
+    "question": "It __________ that nobody is home. All the lights are off.",
     "options": [
      {
       "letter": "A",
-      "text": "seems"
+      "text": "serves"
      },
      {
       "letter": "B",
-      "text": "serve"
+      "text": "shoots"
      },
      {
       "letter": "C",
-      "text": "shoot"
+      "text": "seems"
+     },
+     {
+      "letter": "D",
+      "text": "shuts"
+     }
+    ],
+    "answer": "C",
+    "vi": 0
+   },
+   {
+    "question": "The coach __________ the ten best players for the team.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "selected"
+     },
+     {
+      "letter": "B",
+      "text": "served"
+     },
+     {
+      "letter": "C",
+      "text": "shot"
      },
      {
       "letter": "D",
@@ -287,33 +310,10 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "She was __________ to represent the team.【選擇，挑選】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "seems"
-     },
-     {
-      "letter": "B",
-      "text": "shut"
-     },
-     {
-      "letter": "C",
-      "text": "selected"
-     },
-     {
-      "letter": "D",
-      "text": "shoot"
-     }
-    ],
-    "answer": "C",
     "vi": 1
    },
    {
-    "question": "It is __________ to think only of yourself.【自私的，自利的】",
+    "question": "Don't be __________. Share your toys with your little brother.",
     "options": [
      {
       "letter": "A",
@@ -321,11 +321,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "silly"
+      "text": "similar"
      },
      {
       "letter": "C",
-      "text": "similar"
+      "text": "secondary"
      },
      {
       "letter": "D",
@@ -336,11 +336,11 @@ window.FLASHCARD_UNITS = {
     "vi": 2
    },
    {
-    "question": "This __________ will end in June.【學期】",
+    "question": "The first __________ of the school year starts in September and ends in January.",
     "options": [
      {
       "letter": "A",
-      "text": "shore"
+      "text": "sense"
      },
      {
       "letter": "B",
@@ -348,7 +348,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "silver"
+      "text": "servant"
      },
      {
       "letter": "D",
@@ -359,30 +359,30 @@ window.FLASHCARD_UNITS = {
     "vi": 3
    },
    {
-    "question": "He has a good __________ of humor.【感覺，意識】",
+    "question": "He has a good __________ of humor. He always makes us laugh.",
     "options": [
      {
       "letter": "A",
-      "text": "servant"
+      "text": "sense"
      },
      {
       "letter": "B",
-      "text": "semester"
+      "text": "sheet"
      },
      {
       "letter": "C",
-      "text": "shark"
+      "text": "shelf"
      },
      {
       "letter": "D",
-      "text": "sense"
+      "text": "shore"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 4
    },
    {
-    "question": "The __________ prepared dinner for the guests.【佣人，僕人】",
+    "question": "In the old days, rich families had a __________ to cook and clean for them.",
     "options": [
      {
       "letter": "A",
@@ -394,87 +394,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "servant"
+      "text": "semester"
      },
      {
       "letter": "D",
-      "text": "silence"
+      "text": "servant"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 5
    },
    {
-    "question": "They will __________ dinner at 6 PM.【服務，提供】",
+    "question": "This restaurant doesn't __________ breakfast. It opens at eleven for lunch.",
     "options": [
      {
       "letter": "A",
-      "text": "serve"
+      "text": "seem"
      },
      {
       "letter": "B",
-      "text": "shut"
-     },
-     {
-      "letter": "C",
       "text": "shoot"
      },
      {
+      "letter": "C",
+      "text": "serve"
+     },
+     {
       "letter": "D",
-      "text": "selected"
+      "text": "sink"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 6
    },
    {
-    "question": "We __________ go to the park tomorrow.【將要，應該】",
+    "question": "__________ we dance? The music is so nice.",
     "options": [
      {
       "letter": "A",
-      "text": "used to"
+      "text": "Seem"
      },
      {
       "letter": "B",
-      "text": "shall"
+      "text": "Shall"
      },
      {
       "letter": "C",
-      "text": "vacation"
+      "text": "Serve"
      },
      {
       "letter": "D",
-      "text": "air conditioner"
+      "text": "Shut"
      }
     ],
     "answer": "B",
     "vi": 7
    },
    {
-    "question": "They saw a __________ while diving.【鯊魚】",
+    "question": "A __________ is a big, dangerous fish with very sharp teeth.",
     "options": [
      {
       "letter": "A",
-      "text": "sense"
+      "text": "shrimp"
      },
      {
       "letter": "B",
-      "text": "shelf"
+      "text": "servant"
      },
      {
       "letter": "C",
-      "text": "silver"
+      "text": "shark"
      },
      {
       "letter": "D",
-      "text": "shark"
+      "text": "sheet"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 8
    },
    {
-    "question": "She put clean __________ on the bed.【床單，紙張】",
+    "question": "The hotel changes the __________ on the beds every day.",
     "options": [
      {
       "letter": "A",
@@ -482,45 +482,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "shrimp"
+      "text": "shelves"
      },
      {
       "letter": "C",
-      "text": "shelf"
+      "text": "shores"
      },
      {
       "letter": "D",
-      "text": "sense"
+      "text": "sharks"
      }
     ],
     "answer": "A",
     "vi": 9
    },
    {
-    "question": "The books are on the top __________.【架子，擱板】",
+    "question": "Please put the book back on the __________ after you read it.",
     "options": [
      {
       "letter": "A",
-      "text": "shore"
+      "text": "sheet"
      },
      {
       "letter": "B",
-      "text": "shark"
+      "text": "shore"
      },
      {
       "letter": "C",
-      "text": "shelf"
+      "text": "shark"
      },
      {
       "letter": "D",
-      "text": "semester"
+      "text": "shelf"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 10
    },
    {
-    "question": "He wants to __________ a documentary film.【射擊，拍攝】",
+    "question": "The police officer told the man, \"Put down your gun, or I will __________!\"",
     "options": [
      {
       "letter": "A",
@@ -532,45 +532,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "shut"
+      "text": "seem"
      },
      {
       "letter": "D",
-      "text": "selected"
+      "text": "select"
      }
     ],
     "answer": "B",
     "vi": 11
    },
    {
-    "question": "They walked along the __________.【岸，海岸】",
+    "question": "We walked along the __________ and looked for pretty shells by the water.",
     "options": [
      {
       "letter": "A",
-      "text": "shark"
-     },
-     {
-      "letter": "B",
-      "text": "shrimp"
-     },
-     {
-      "letter": "C",
       "text": "shore"
-     },
-     {
-      "letter": "D",
-      "text": "semester"
-     }
-    ],
-    "answer": "C",
-    "vi": 12
-   },
-   {
-    "question": "She made a delicious __________ dish.【蝦】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "servant"
      },
      {
       "letter": "B",
@@ -578,45 +555,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "silver"
+      "text": "sheet"
      },
      {
       "letter": "D",
-      "text": "shrimp"
-     }
-    ],
-    "answer": "D",
-    "vi": 13
-   },
-   {
-    "question": "Please __________ the door behind you.【關閉，停止】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "shut"
-     },
-     {
-      "letter": "B",
-      "text": "serve"
-     },
-     {
-      "letter": "C",
-      "text": "shoot"
-     },
-     {
-      "letter": "D",
-      "text": "selected"
+      "text": "silence"
      }
     ],
     "answer": "A",
-    "vi": 14
+    "vi": 12
    },
    {
-    "question": "The room fell into complete __________.【沉默，寂靜】",
+    "question": "A __________ is a small sea animal. It turns pink when it is cooked.",
     "options": [
      {
       "letter": "A",
-      "text": "semester"
+      "text": "shark"
+     },
+     {
+      "letter": "B",
+      "text": "shore"
+     },
+     {
+      "letter": "C",
+      "text": "shrimp"
+     },
+     {
+      "letter": "D",
+      "text": "shelf"
+     }
+    ],
+    "answer": "C",
+    "vi": 13
+   },
+   {
+    "question": "Please __________ the door. It is cold outside.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "serve"
+     },
+     {
+      "letter": "B",
+      "text": "shoot"
+     },
+     {
+      "letter": "C",
+      "text": "select"
+     },
+     {
+      "letter": "D",
+      "text": "shut"
+     }
+    ],
+    "answer": "D",
+    "vi": 14
+   },
+   {
+    "question": "The students waited in __________ for the test to begin. Nobody said a word.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "silver"
      },
      {
       "letter": "B",
@@ -624,18 +624,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "shark"
+      "text": "shore"
      },
      {
       "letter": "D",
-      "text": "silver"
+      "text": "sense"
      }
     ],
     "answer": "B",
     "vi": 15
    },
    {
-    "question": "He remained __________ during the meeting.【沉默的，安靜的】",
+    "question": "Everyone was __________ when the principal walked in. You could hear a pin drop.",
     "options": [
      {
       "letter": "A",
@@ -643,7 +643,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "silly"
+      "text": "similar"
      },
      {
       "letter": "C",
@@ -651,22 +651,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "similar"
+      "text": "secondary"
      }
     ],
     "answer": "C",
     "vi": 16
    },
    {
-    "question": "It was a __________ mistake to make.【愚蠢的，糊塗的】",
+    "question": "Don't ask __________ questions. Of course fish can swim!",
     "options": [
      {
       "letter": "A",
-      "text": "similar"
+      "text": "silent"
      },
      {
       "letter": "B",
-      "text": "silly"
+      "text": "similar"
      },
      {
       "letter": "C",
@@ -674,14 +674,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "silent"
+      "text": "silly"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 17
    },
    {
-    "question": "The necklace is made of __________.【銀】",
+    "question": "This spoon is made of __________. The gray-white metal is very shiny.",
     "options": [
      {
       "letter": "A",
@@ -689,11 +689,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "shark"
+      "text": "silence"
      },
      {
       "letter": "C",
-      "text": "servant"
+      "text": "shrimp"
      },
      {
       "letter": "D",
@@ -704,15 +704,15 @@ window.FLASHCARD_UNITS = {
     "vi": 18
    },
    {
-    "question": "They have __________ interests.【相似的，類似的】",
+    "question": "The two sisters look very __________, but they are not exactly the same.",
     "options": [
      {
       "letter": "A",
-      "text": "silly"
+      "text": "selfish"
      },
      {
       "letter": "B",
-      "text": "selfish"
+      "text": "similar"
      },
      {
       "letter": "C",
@@ -720,13 +720,13 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "similar"
+      "text": "silly"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"seems":["to look or feel like something is true","似乎，看來"],"selected":["to choose someone or something carefully","選擇，挑選"],"selfish":["thinking only about yourself, not about others","自私的，自利的"],"semester":["one of the two parts of a school year","學期"],"sense":["an understanding or feeling about something, as in \"a sense of humor\"","感覺，意識"],"servant":["a person who works in another person's house","佣人，僕人"],"serve":["to give food or drinks to people","服務，提供"],"shall":["used with \"I\" or \"we\" to talk about the future","將要，應該"],"shark":["a big, dangerous fish with sharp teeth","鯊魚"],"sheets":["a big piece of thin cloth that you put on a bed","床單，紙張"],"shelf":["a flat board on a wall or in a closet for putting things on","架子，擱板"],"shoot":["to make a movie or take photos; to fire a gun","射擊，拍攝"],"shore":["the land along the edge of a sea or lake","岸，海岸"],"shrimp":["a small pink sea animal with a soft shell and many legs","蝦"],"shut":["to close something","關閉，停止"],"silence":["a time when there is no sound","沉默，寂靜"],"silent":["not speaking; making no sound","沉默的，安靜的"],"silly":["not smart or serious; foolish","愚蠢的，糊塗的"],"silver":["a shiny gray-white metal used for rings and coins","銀"],"similar":["almost the same","相似的，類似的"],"vacation":["a time when you do not go to school or work","假期，休假"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"serves":["to give food or drinks to people","服務，提供"],"shoots":["to make a movie or take photos; to fire a gun","射擊，拍攝"],"seems":["to look or feel like something is true","似乎，看來"],"shuts":["to close something","關閉，停止"],"selected":["to choose someone or something carefully","選擇，挑選"],"served":["to give food or drinks to people","服務，提供"],"shot":["","射擊"],"shut":["to close something","關閉，停止"],"silent":["not speaking; making no sound","沉默的，安靜的"],"similar":["almost the same","相似的，類似的"],"secondary":["(of a school) for students from about 12 to 18 years old","次要的，中等的"],"selfish":["thinking only about yourself, not about others","自私的，自利的"],"sense":["an understanding or feeling about something, as in \"a sense of humor\"","感覺，意識"],"semester":["one of the two parts of a school year","學期"],"servant":["a person who works in another person's house","佣人，僕人"],"shelf":["a flat board on a wall or in a closet for putting things on","架子，擱板"],"sheet":["a big piece of thin cloth that you put on a bed","床單，紙張"],"shore":["the land along the edge of a sea or lake","岸，海岸"],"shark":["a big, dangerous fish with sharp teeth","鯊魚"],"shrimp":["a small pink sea animal with a soft shell and many legs","蝦"],"seem":["to look or feel like something is true","似乎，看來"],"shoot":["to make a movie or take photos; to fire a gun","射擊，拍攝"],"serve":["to give food or drinks to people","服務，提供"],"sink":["to go down under water","下沉，沉沒"],"shall":["used with \"I\" or \"we\" to talk about the future","將要，應該"],"sheets":["a big piece of thin cloth that you put on a bed","床單，紙張"],"shelves":["","架子"],"shores":["the land along the edge of a sea or lake","岸，海岸"],"sharks":["a big, dangerous fish with sharp teeth","鯊魚"],"select":["to choose someone or something carefully","選擇，挑選"],"silence":["a time when there is no sound","沉默，寂靜"],"silver":["a shiny gray-white metal used for rings and coins","銀"],"silly":["not smart or serious; foolish","愚蠢的，糊塗的"]});

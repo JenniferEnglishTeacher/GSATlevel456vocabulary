@@ -171,59 +171,59 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "He visited his ______.【叔叔，舅舅】",
+    "q": "My mother's brother is my ______.",
     "options": [
-      "uncle",
-      "vacuum",
+      "uniform",
       "universe",
-      "village"
+      "visitor",
+      "uncle"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "他拜訪了他的叔叔。",
     "vocabIndex": 0
   },
   {
-    "q": "She ______ the important words.【在...下面劃線，強調】",
+    "q": "Please ______ the important words in the sentence with your pen.",
     "options": [
-      "divided",
-      "underlined",
-      "succeed",
-      "wrapped"
+      "vote",
+      "wake",
+      "underline",
+      "wave"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "她在重要詞語下劃了線。",
     "vocabIndex": 1
   },
   {
-    "q": "She bought new ______.【內衣，底褲】",
+    "q": "You wear ______ under your pants and shirt.",
     "options": [
-      "universe",
-      "vase",
-      "vacation",
-      "underwear"
+      "uniform",
+      "underwear",
+      "vacuum",
+      "vase"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "她買了新內衣。",
     "vocabIndex": 2
   },
   {
-    "q": "He is ______ with his job.【不快樂的，不滿意的】",
+    "q": "The boy looks ______. I think he lost his toy.",
     "options": [
-      "useful",
-      "violent",
       "unhappy",
-      "usual"
+      "useful",
+      "usual",
+      "various"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他對他的工作不滿意。",
     "vocabIndex": 3
   },
   {
-    "q": "She wears a ______ to school.【制服】",
+    "q": "All the students at this school wear a white and blue ______.",
     "options": [
-      "uncle",
-      "value",
-      "underwear",
+      "universe",
+      "vacuum",
+      "valley",
       "uniform"
     ],
     "answer": 3,
@@ -231,31 +231,31 @@ const MCQS = [
     "vocabIndex": 4
   },
   {
-    "q": "The ______ is vast and mysterious.【宇宙，天地】",
+    "q": "There are billions of stars in the ______. The earth is only a very small part of it.",
     "options": [
-      "vacuum",
-      "universe",
+      "uniform",
       "valley",
-      "value"
+      "universe",
+      "village"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "宇宙是廣闊而神秘的。",
     "vocabIndex": 5
   },
   {
-    "q": "She ______ live in New York.【曾經，習慣於】",
+    "q": "I ______ live in Tainan, but now I live in Taipei.",
     "options": [
       "shall",
-      "toffee",
       "used to",
-      "male"
+      "have to",
+      "want to"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她曾經住在紐約。",
     "vocabIndex": 6
   },
   {
-    "q": "This tool is very ______.【有用的，有幫助的】",
+    "q": "A cellphone is very ______. You can use it to call people, take photos, and find information.",
     "options": [
       "useful",
       "unhappy",
@@ -267,197 +267,152 @@ const MCQS = [
     "vocabIndex": 7
   },
   {
-    "q": "She arrived at the ______ time.【通常的，平常的】",
+    "q": "I got up at six, as ______. I do that every day.",
     "options": [
-      "unhappy",
-      "usual",
-      "violent",
-      "useful"
-    ],
-    "answer": 1,
-    "cn": "她在平常的時間到達。",
-    "vocabIndex": 8
-  },
-  {
-    "q": "They went on a family ______.【假期，休假】",
-    "options": [
-      "underwear",
-      "village",
-      "vacation",
-      "vase"
-    ],
-    "answer": 2,
-    "cn": "他們去家庭度假。",
-    "vocabIndex": 9
-  },
-  {
-    "q": "She used a ______ to clean the carpet.【真空，吸塵器】",
-    "options": [
-      "village",
-      "vase",
-      "value",
-      "vacuum"
-    ],
-    "answer": 3,
-    "cn": "她用吸塵器清潔地毯。",
-    "vocabIndex": 10
-  },
-  {
-    "q": "They hiked through the ______.【山谷，溪谷】",
-    "options": [
-      "valley",
-      "underwear",
-      "uniform",
-      "village"
-    ],
-    "answer": 0,
-    "cn": "他們徒步穿越山谷。",
-    "vocabIndex": 11
-  },
-  {
-    "q": "She placed a high ______ on honesty.【價值，重要性】",
-    "options": [
-      "universe",
-      "vacuum",
-      "underwear",
-      "value"
-    ],
-    "answer": 3,
-    "cn": "她非常重視誠實。",
-    "vocabIndex": 12
-  },
-  {
-    "q": "The store sells ______ types of bread.【各種各樣的】",
-    "options": [
-      "unhappy",
+      "useful",
       "various",
       "violent",
       "usual"
     ],
+    "answer": 3,
+    "cn": "她在平常的時間到達。",
+    "vocabIndex": 8
+  },
+  {
+    "q": "We are going to Japan for our summer ______. We will stay there for a week.",
+    "options": [
+      "vacation",
+      "vacuum",
+      "valley",
+      "value"
+    ],
+    "answer": 0,
+    "cn": "他們去家庭度假。",
+    "vocabIndex": 9
+  },
+  {
+    "q": "The floor is dirty. Use the ______ to clean it.",
+    "options": [
+      "vase",
+      "vacuum",
+      "valley",
+      "vehicle"
+    ],
     "answer": 1,
+    "cn": "她用吸塵器清潔地毯。",
+    "vocabIndex": 10
+  },
+  {
+    "q": "The village is in a ______ between two high mountains.",
+    "options": [
+      "vase",
+      "value",
+      "valley",
+      "vacuum"
+    ],
+    "answer": 2,
+    "cn": "他們徒步穿越山谷。",
+    "vocabIndex": 11
+  },
+  {
+    "q": "Parents should teach their children the ______ of money. It is not easy to make it.",
+    "options": [
+      "valley",
+      "value",
+      "vase",
+      "village"
+    ],
+    "answer": 1,
+    "cn": "她非常重視誠實。",
+    "vocabIndex": 12
+  },
+  {
+    "q": "The store sells ______ kinds of fruit: apples, bananas, grapes, and many more.",
+    "options": [
+      "unhappy",
+      "usual",
+      "various",
+      "violent"
+    ],
+    "answer": 2,
     "cn": "這家商店出售各種麵包。",
     "vocabIndex": 13
   },
   {
-    "q": "She arranged flowers in the ______.【花瓶】",
+    "q": "She put the flowers in a ______ with some water.",
     "options": [
-      "vacation",
+      "valley",
+      "value",
       "vehicle",
-      "vase",
-      "universe"
+      "vase"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她在花瓶裡插花。",
     "vocabIndex": 14
   },
   {
-    "q": "She grows her own ______.【蔬菜】",
+    "q": "You should eat more ______, like carrots and cabbage.",
     "options": [
       "vegetables",
-      "visitors",
-      "vacuum",
-      "uniform"
+      "vehicles",
+      "villages",
+      "visitors"
     ],
     "answer": 0,
     "cn": "她自己種蔬菜。",
     "vocabIndex": 15
   },
   {
-    "q": "They bought a new ______.【車輛，交通工具】",
+    "q": "Cars, buses, and trucks are all ______.",
     "options": [
-      "universe",
-      "valley",
-      "vehicle",
-      "vacuum"
+      "vegetables",
+      "vehicles",
+      "villages",
+      "valleys"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "他們買了一輛新車。",
     "vocabIndex": 16
   },
   {
-    "q": "They live in a small ______.【村莊】",
+    "q": "My grandparents live in a small ______ in the mountains. Only fifty people live there.",
     "options": [
-      "vehicle",
-      "vacuum",
+      "village",
       "vase",
-      "village"
+      "vacuum",
+      "value"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他們住在一個小村莊裡。",
     "vocabIndex": 17
   },
   {
-    "q": "The storm was very ______.【暴力的，猛烈的】",
+    "q": "The movie is too ______ for children. There is a lot of fighting and killing in it.",
     "options": [
-      "violent",
-      "unhappy",
+      "useful",
       "usual",
-      "useful"
+      "violent",
+      "various"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "暴風雨非常猛烈。",
     "vocabIndex": 18
   },
   {
-    "q": "The museum had many ______ last week.【訪客，參觀者】",
+    "q": "The museum has more than one thousand ______ every day.",
     "options": [
-      "vegetables",
-      "visitors",
-      "vacuum",
-      "uncle"
+      "vehicles",
+      "villages",
+      "vases",
+      "visitors"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "上週博物館有很多參觀者。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "divided": {
-    "pos": "v.",
-    "en_def": "to cut or break something into parts",
-    "cn_def": "分開，劃分"
-  },
-  "male": {
-    "pos": "adj.",
-    "en_def": "being a man or a boy",
-    "cn_def": "男性的"
-  },
-  "shall": {
-    "pos": "aux.",
-    "en_def": "used with \"I\" or \"we\" to talk about the future",
-    "cn_def": "將要，應該"
-  },
-  "succeed": {
-    "pos": "v.",
-    "en_def": "to do well and get what you wanted",
-    "cn_def": "成功，繼承"
-  },
-  "toffee": {
-    "pos": "n.",
-    "en_def": "a hard, sticky brown candy made from sugar and butter",
-    "cn_def": "太妃糖"
-  },
-  "uncle": {
-    "pos": "n.",
-    "en_def": "the brother of your father or mother",
-    "cn_def": "叔叔，舅舅"
-  },
-  "underlined": {
-    "pos": "v.",
-    "en_def": "to draw a line under a word",
-    "cn_def": "在...下面劃線，強調"
-  },
-  "underwear": {
-    "pos": "n.",
-    "en_def": "clothes that you wear next to your skin under other clothes",
-    "cn_def": "內衣，底褲"
-  },
-  "unhappy": {
-    "pos": "adj.",
-    "en_def": "not happy",
-    "cn_def": "不快樂的，不滿意的"
-  },
   "uniform": {
     "pos": "n.",
     "en_def": "special clothes that all students or workers in one place wear",
@@ -468,10 +423,55 @@ const LOOKUP = {
     "en_def": "all of space, with all the stars and planets",
     "cn_def": "宇宙，天地"
   },
-  "used to": {
-    "pos": "aux.",
-    "en_def": "did something often in the past, but not now",
-    "cn_def": "曾經，習慣於"
+  "visitor": {
+    "pos": "n.",
+    "en_def": "a person who comes to see a place or a person",
+    "cn_def": "訪客，參觀者"
+  },
+  "uncle": {
+    "pos": "n.",
+    "en_def": "the brother of your father or mother",
+    "cn_def": "叔叔，舅舅"
+  },
+  "vote": {
+    "pos": "v.",
+    "en_def": "to choose someone in an election by marking a paper",
+    "cn_def": "投票，選舉"
+  },
+  "wake": {
+    "pos": "v.",
+    "en_def": "to stop sleeping",
+    "cn_def": "醒來，喚醒"
+  },
+  "underline": {
+    "pos": "v.",
+    "en_def": "to draw a line under a word",
+    "cn_def": "在...下面劃線，強調"
+  },
+  "wave": {
+    "pos": "v.",
+    "en_def": "to move your hand in the air to say hello or good-bye",
+    "cn_def": "揮手，波動"
+  },
+  "underwear": {
+    "pos": "n.",
+    "en_def": "clothes that you wear next to your skin under other clothes",
+    "cn_def": "內衣，底褲"
+  },
+  "vacuum": {
+    "pos": "n.",
+    "en_def": "a machine that cleans floors by pulling in dust",
+    "cn_def": "真空，吸塵器"
+  },
+  "vase": {
+    "pos": "n.",
+    "en_def": "a tall container for flowers",
+    "cn_def": "花瓶"
+  },
+  "unhappy": {
+    "pos": "adj.",
+    "en_def": "not happy",
+    "cn_def": "不快樂的，不滿意的"
   },
   "useful": {
     "pos": "adj.",
@@ -483,65 +483,90 @@ const LOOKUP = {
     "en_def": "normal; happening most of the time",
     "cn_def": "通常的，平常的"
   },
-  "vacation": {
-    "pos": "n.",
-    "en_def": "a time when you do not go to school or work",
-    "cn_def": "假期，休假"
-  },
-  "vacuum": {
-    "pos": "n.",
-    "en_def": "a machine that cleans floors by pulling in dust",
-    "cn_def": "真空，吸塵器"
+  "various": {
+    "pos": "adj.",
+    "en_def": "many different",
+    "cn_def": "各種各樣的"
   },
   "valley": {
     "pos": "n.",
     "en_def": "the low land between hills or mountains",
     "cn_def": "山谷，溪谷"
   },
-  "value": {
-    "pos": "n.",
-    "en_def": "how important or useful something is",
-    "cn_def": "價值，重要性"
-  },
-  "various": {
-    "pos": "adj.",
-    "en_def": "many different",
-    "cn_def": "各種各樣的"
-  },
-  "vase": {
-    "pos": "n.",
-    "en_def": "a tall container for flowers",
-    "cn_def": "花瓶"
-  },
-  "vegetables": {
-    "pos": "n.",
-    "en_def": "a plant that people eat, like carrots and cabbage",
-    "cn_def": "蔬菜"
-  },
-  "vehicle": {
-    "pos": "n.",
-    "en_def": "a machine like a car, bus, or truck that carries people or things",
-    "cn_def": "車輛，交通工具"
-  },
   "village": {
     "pos": "n.",
     "en_def": "a very small town in the country",
     "cn_def": "村莊"
+  },
+  "shall": {
+    "pos": "aux.",
+    "en_def": "used with \"I\" or \"we\" to talk about the future",
+    "cn_def": "將要，應該"
+  },
+  "used to": {
+    "pos": "aux.",
+    "en_def": "did something often in the past, but not now",
+    "cn_def": "曾經，習慣於"
+  },
+  "have to": {
+    "pos": "aux.",
+    "en_def": "",
+    "cn_def": "必須"
+  },
+  "want to": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "想要"
   },
   "violent": {
     "pos": "adj.",
     "en_def": "very strong and dangerous",
     "cn_def": "暴力的，猛烈的"
   },
+  "vacation": {
+    "pos": "n.",
+    "en_def": "a time when you do not go to school or work",
+    "cn_def": "假期，休假"
+  },
+  "value": {
+    "pos": "n.",
+    "en_def": "how important or useful something is",
+    "cn_def": "價值，重要性"
+  },
+  "vehicle": {
+    "pos": "n.",
+    "en_def": "a machine like a car, bus, or truck that carries people or things",
+    "cn_def": "車輛，交通工具"
+  },
+  "vegetables": {
+    "pos": "n.",
+    "en_def": "a plant that people eat, like carrots and cabbage",
+    "cn_def": "蔬菜"
+  },
+  "vehicles": {
+    "pos": "n.",
+    "en_def": "a machine like a car, bus, or truck that carries people or things",
+    "cn_def": "車輛，交通工具"
+  },
+  "villages": {
+    "pos": "n.",
+    "en_def": "a very small town in the country",
+    "cn_def": "村莊"
+  },
   "visitors": {
     "pos": "n.",
     "en_def": "a person who comes to see a place or a person",
     "cn_def": "訪客，參觀者"
   },
-  "wrapped": {
-    "pos": "v.",
-    "en_def": "to cover something with paper or cloth",
-    "cn_def": "包裝，裹"
+  "valleys": {
+    "pos": "n.",
+    "en_def": "the low land between hills or mountains",
+    "cn_def": "山谷，溪谷"
+  },
+  "vases": {
+    "pos": "n.",
+    "en_def": "a tall container for flowers",
+    "cn_def": "花瓶"
   }
 };
 

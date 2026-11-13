@@ -170,155 +170,155 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "The room was warm thanks to the ______.【加熱器，暖氣】",
+    "q": "It is cold in this room. Please turn on the ______.",
     "options": [
-      "heater",
-      "hero",
+      "helicopter",
       "highway",
-      "humor"
+      "hole",
+      "heater"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "由於暖氣房間很暖和。",
     "vocabIndex": 0
   },
   {
-    "q": "They were rescued by a ______.【直升機】",
+    "q": "A ______ flew over the mountain and saved the two lost hikers. It doesn't need a runway to land.",
     "options": [
-      "hero",
-      "hip",
-      "honesty",
-      "helicopter"
+      "heater",
+      "highway",
+      "helicopter",
+      "hippo"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "他們被直升機救了。",
     "vocabIndex": 1
   },
   {
-    "q": "He is considered a national ______.【英雄】",
+    "q": "The firefighter saved three children from the fire. Everyone calls him a ______.",
     "options": [
-      "hip",
-      "honesty",
       "hero",
-      "host"
+      "host",
+      "hippo",
+      "hole"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他被認為是國家的英雄。",
     "vocabIndex": 2
   },
   {
-    "q": "They drove along the ______.【高速公路】",
+    "q": "We drove on the ______ from Taipei to Taichung. Cars can go 110 kilometers an hour on it.",
     "options": [
-      "hippo",
+      "heater",
       "highway",
-      "helicopter",
-      "humor"
+      "hole",
+      "hip"
     ],
     "answer": 1,
     "cn": "他們沿著高速公路駕車。",
     "vocabIndex": 3
   },
   {
-    "q": "She has a tattoo on her ______.【臀部，髖部】",
+    "q": "Grandma fell down and hurt her ______. Now she can't sit or walk well.",
     "options": [
       "hole",
-      "helicopter",
-      "honesty",
-      "hip"
+      "host",
+      "hip",
+      "hero"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "她的臀部有一個刺青。",
     "vocabIndex": 4
   },
   {
-    "q": "They saw a ______ at the zoo.【河馬】",
+    "q": "A ______ is a very big, heavy animal. It spends the day in rivers in Africa.",
     "options": [
       "hero",
-      "hippo",
-      "housework",
-      "hip"
+      "host",
+      "hip",
+      "hippo"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "他們在動物園看到了一隻河馬。",
     "vocabIndex": 5
   },
   {
-    "q": "The company plans to ______ new employees.【雇用】",
+    "q": "The restaurant is very busy, so the boss wants to ______ two more waiters.",
     "options": [
       "hire",
+      "hop",
       "hug",
-      "hopped",
-      "create"
+      "ignore"
     ],
     "answer": 0,
     "cn": "公司計劃雇用新員工。",
     "vocabIndex": 6
   },
   {
-    "q": "There is a ______ in the wall.【洞，孔】",
+    "q": "There is a ______ in my sock. I can see my toe through it.",
     "options": [
-      "highway",
-      "housework",
+      "hip",
       "hole",
-      "humor"
+      "host",
+      "hero"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "牆上有一個洞。",
     "vocabIndex": 7
   },
   {
-    "q": "She felt ______ during her first week at college.【想家的】",
+    "q": "Lisa felt ______ during her first month in America. She missed her family every day.",
     "options": [
-      "homesick",
-      "human",
       "humid",
-      "humble"
+      "humorous",
+      "horrible",
+      "homesick"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "她在大學的第一周感到想家。",
     "vocabIndex": 8
   },
   {
-    "q": "______ is the best policy.【誠實】",
+    "q": "I like his ______. He always tells the truth, even when it is hard.",
     "options": [
-      "Housework",
-      "Hip",
-      "Humor",
-      "Honesty"
+      "hunger",
+      "humor",
+      "honesty",
+      "housework"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "誠實是最好的政策。",
     "vocabIndex": 9
   },
   {
-    "q": "The rabbit ______ away quickly.【跳躍，單腳跳】",
+    "q": "The rabbit ______ across the grass and disappeared into a hole.",
     "options": [
-      "hug",
       "hopped",
-      "hire",
-      "excited"
+      "hired",
+      "hugged",
+      "ignored"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "兔子迅速跳走了。",
     "vocabIndex": 10
   },
   {
-    "q": "It was a ______ experience.【可怕的，糟糕的】",
+    "q": "The food was ______. It was cold and tasted so bad that nobody could finish it.",
     "options": [
-      "homesick",
       "humble",
       "horrible",
-      "humid"
+      "homesick",
+      "human"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "這是一個可怕的經歷。",
     "vocabIndex": 11
   },
   {
-    "q": "He was the ______ of the party.【主人，主持人】",
+    "q": "Mr. Wang was the ______ of the party. He welcomed all the guests at the door of his house.",
     "options": [
-      "heater",
-      "housework",
-      "highway",
+      "hero",
+      "hippo",
+      "hole",
       "host"
     ],
     "answer": 3,
@@ -326,206 +326,221 @@ const MCQS = [
     "vocabIndex": 12
   },
   {
-    "q": "She spends her weekends doing ______.【家務】",
+    "q": "Dad does the ______ on weekends. He cleans the floor, washes the clothes, and cooks.",
     "options": [
-      "heater",
-      "hero",
       "housework",
-      "honesty"
+      "honesty",
+      "humor",
+      "hunger"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "她周末做家務。",
     "vocabIndex": 13
   },
   {
-    "q": "She gave him a warm ______.【擁抱】",
+    "q": "When I got home, my mother gave me a big ______. She held me in her arms for a long time.",
     "options": [
+      "hole",
       "hug",
-      "hire",
-      "hopped",
-      "skate"
+      "hip",
+      "host"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "她給了他一個溫暖的擁抱。",
     "vocabIndex": 14
   },
   {
-    "q": "It is ______ nature to make mistakes.【人類的，人性的】",
+    "q": "It is ______ nature to want to be loved. All people are like that.",
     "options": [
-      "homesick",
+      "humid",
+      "horrible",
       "human",
-      "humble",
-      "horrible"
+      "homesick"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "犯錯是人之常情。",
     "vocabIndex": 15
   },
   {
-    "q": "He is very ______ about his achievements.【謙虛的，卑微的】",
+    "q": "He is a famous singer, but he is very ______. He never says he is better than others.",
     "options": [
-      "homesick",
-      "humid",
       "humble",
-      "horrible"
+      "humid",
+      "horrible",
+      "homesick"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他對自己的成就非常謙虛。",
     "vocabIndex": 16
   },
   {
-    "q": "The weather is very ______ today.【潮濕的，濕熱的】",
+    "q": "Taiwan is hot and ______ in summer. The air feels wet, and clothes dry slowly.",
     "options": [
       "humble",
-      "human",
-      "horrible",
-      "humid"
+      "humid",
+      "humorous",
+      "human"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "今天的天氣非常潮濕。",
     "vocabIndex": 17
   },
   {
-    "q": "He has a great sense of ______.【幽默】",
+    "q": "Our teacher has a good sense of ______. He makes us laugh in every class.",
     "options": [
+      "honesty",
+      "hunger",
       "humor",
-      "heater",
-      "hero",
-      "highway"
+      "housework"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他很有幽默感。",
     "vocabIndex": 18
   },
   {
-    "q": "She told a very ______ story.【幽默的】",
+    "q": "The speaker told many ______ stories. Everyone in the room laughed out loud.",
     "options": [
       "humid",
-      "humorous",
-      "human",
-      "homesick"
+      "homesick",
+      "horrible",
+      "humorous"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她講了一個非常幽默的故事。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "create": {
-    "pos": "v.",
-    "en_def": "to make something new",
-    "cn_def": "創造"
-  },
-  "excited": {
-    "pos": "v.",
-    "en_def": "to make someone feel very happy and interested",
-    "cn_def": "使興奮，使激動"
-  },
-  "heater": {
-    "pos": "n.",
-    "en_def": "a machine that makes a room warm",
-    "cn_def": "加熱器，暖氣"
-  },
   "helicopter": {
     "pos": "n.",
     "en_def": "a flying machine with big blades that turn on top",
     "cn_def": "直升機"
-  },
-  "hero": {
-    "pos": "n.",
-    "en_def": "a brave person that many people love and respect",
-    "cn_def": "英雄"
   },
   "highway": {
     "pos": "n.",
     "en_def": "a wide road for cars to travel fast between cities",
     "cn_def": "高速公路"
   },
-  "hip": {
+  "hole": {
     "pos": "n.",
-    "en_def": "the side of your body between your waist and the top of your leg",
-    "cn_def": "臀部，髖部"
+    "en_def": "an empty space or opening in something",
+    "cn_def": "洞，孔"
+  },
+  "heater": {
+    "pos": "n.",
+    "en_def": "a machine that makes a room warm",
+    "cn_def": "加熱器，暖氣"
   },
   "hippo": {
     "pos": "n.",
     "en_def": "a big, heavy animal with short legs that lives in rivers in Africa",
     "cn_def": "河馬"
   },
-  "hire": {
-    "pos": "v.",
-    "en_def": "to give someone a job",
-    "cn_def": "雇用"
-  },
-  "hole": {
+  "hero": {
     "pos": "n.",
-    "en_def": "an empty space or opening in something",
-    "cn_def": "洞，孔"
-  },
-  "homesick": {
-    "pos": "adj.",
-    "en_def": "sad because you are away from home",
-    "cn_def": "想家的"
-  },
-  "honesty": {
-    "pos": "n.",
-    "en_def": "always telling the truth",
-    "cn_def": "誠實"
-  },
-  "hopped": {
-    "pos": "v.",
-    "en_def": "to move by making short, quick jumps",
-    "cn_def": "跳躍，單腳跳"
-  },
-  "horrible": {
-    "pos": "adj.",
-    "en_def": "very bad",
-    "cn_def": "可怕的，糟糕的"
+    "en_def": "a brave person that many people love and respect",
+    "cn_def": "英雄"
   },
   "host": {
     "pos": "n.",
     "en_def": "the person who invites guests to a party",
     "cn_def": "主人，主持人"
   },
-  "housework": {
+  "hip": {
     "pos": "n.",
-    "en_def": "work at home like cleaning, washing, and cooking",
-    "cn_def": "家務"
+    "en_def": "the side of your body between your waist and the top of your leg",
+    "cn_def": "臀部，髖部"
+  },
+  "hire": {
+    "pos": "v.",
+    "en_def": "to give someone a job",
+    "cn_def": "雇用"
+  },
+  "hop": {
+    "pos": "v.",
+    "en_def": "to move by making short, quick jumps",
+    "cn_def": "跳躍，單腳跳"
   },
   "hug": {
     "pos": "v.",
     "en_def": "holding someone in your arms to show love",
     "cn_def": "擁抱"
   },
-  "human": {
-    "pos": "adj.",
-    "en_def": "of people; that all people have",
-    "cn_def": "人類的，人性的"
-  },
-  "humble": {
-    "pos": "adj.",
-    "en_def": "not thinking or saying that you are better than others",
-    "cn_def": "謙虛的，卑微的"
+  "ignore": {
+    "pos": "v.",
+    "en_def": "to act as if you do not see or hear someone or something",
+    "cn_def": "忽視"
   },
   "humid": {
     "pos": "adj.",
     "en_def": "(of weather) warm and wet",
     "cn_def": "潮濕的，濕熱的"
   },
-  "humor": {
-    "pos": "n.",
-    "en_def": "being able to see or say what is funny",
-    "cn_def": "幽默"
-  },
   "humorous": {
     "pos": "adj.",
     "en_def": "funny; making people laugh",
     "cn_def": "幽默的"
   },
-  "skate": {
+  "horrible": {
+    "pos": "adj.",
+    "en_def": "very bad",
+    "cn_def": "可怕的，糟糕的"
+  },
+  "homesick": {
+    "pos": "adj.",
+    "en_def": "sad because you are away from home",
+    "cn_def": "想家的"
+  },
+  "hunger": {
+    "pos": "n.",
+    "en_def": "the feeling of needing food; not having enough food",
+    "cn_def": "飢餓"
+  },
+  "humor": {
+    "pos": "n.",
+    "en_def": "being able to see or say what is funny",
+    "cn_def": "幽默"
+  },
+  "honesty": {
+    "pos": "n.",
+    "en_def": "always telling the truth",
+    "cn_def": "誠實"
+  },
+  "housework": {
+    "pos": "n.",
+    "en_def": "work at home like cleaning, washing, and cooking",
+    "cn_def": "家務"
+  },
+  "hopped": {
     "pos": "v.",
-    "en_def": "to move on ice wearing special shoes",
-    "cn_def": "滑冰，溜冰"
+    "en_def": "to move by making short, quick jumps",
+    "cn_def": "跳躍，單腳跳"
+  },
+  "hired": {
+    "pos": "v.",
+    "en_def": "to give someone a job",
+    "cn_def": "雇用"
+  },
+  "hugged": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "擁抱"
+  },
+  "ignored": {
+    "pos": "v.",
+    "en_def": "to act as if you do not see or hear someone or something",
+    "cn_def": "忽視"
+  },
+  "humble": {
+    "pos": "adj.",
+    "en_def": "not thinking or saying that you are better than others",
+    "cn_def": "謙虛的，卑微的"
+  },
+  "human": {
+    "pos": "adj.",
+    "en_def": "of people; that all people have",
+    "cn_def": "人類的，人性的"
   }
 };
 

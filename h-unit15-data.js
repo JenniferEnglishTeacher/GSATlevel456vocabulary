@@ -267,11 +267,11 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "She gave a __________ opinion about the matter.【坦率的】",
+    "question": "To be __________, I don't like your new haircut. I am just telling you the truth.",
     "options": [
      {
       "letter": "A",
-      "text": "gentle"
+      "text": "freezing"
      },
      {
       "letter": "B",
@@ -279,45 +279,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
+      "text": "gentle"
+     },
+     {
+      "letter": "D",
       "text": "frank"
-     },
-     {
-      "letter": "D",
-      "text": "freezing"
-     }
-    ],
-    "answer": "C",
-    "vi": 0
-   },
-   {
-    "question": "They fought for their __________.【自由】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "god"
-     },
-     {
-      "letter": "B",
-      "text": "furniture"
-     },
-     {
-      "letter": "C",
-      "text": "gentleman"
-     },
-     {
-      "letter": "D",
-      "text": "freedom"
      }
     ],
     "answer": "D",
-    "vi": 1
+    "vi": 0
    },
    {
-    "question": "She put the ice cream in the __________.【冷凍庫】",
+    "question": "The bird flew out of the cage and enjoyed its __________ in the sky.",
     "options": [
      {
       "letter": "A",
-      "text": "geography"
+      "text": "freedom"
      },
      {
       "letter": "B",
@@ -325,22 +302,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "freedom"
+      "text": "furniture"
      },
      {
       "letter": "D",
-      "text": "gentleman"
+      "text": "geography"
+     }
+    ],
+    "answer": "A",
+    "vi": 1
+   },
+   {
+    "question": "Put the ice cream in the __________ right away, or it will turn into water.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "freedom"
+     },
+     {
+      "letter": "B",
+      "text": "freezer"
+     },
+     {
+      "letter": "C",
+      "text": "furniture"
+     },
+     {
+      "letter": "D",
+      "text": "garage"
      }
     ],
     "answer": "B",
     "vi": 2
    },
    {
-    "question": "It was __________ outside last night.【冰凍的，極冷的】",
+    "question": "It is __________ outside! The temperature is below zero. Put on your coat and gloves.",
     "options": [
      {
       "letter": "A",
-      "text": "freezing"
+      "text": "frank"
      },
      {
       "letter": "B",
@@ -348,30 +348,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "frank"
+      "text": "freezing"
      },
      {
       "letter": "D",
       "text": "gentle"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 3
    },
    {
-    "question": "Their __________ has lasted for years.【友誼】",
+    "question": "Our __________ began in elementary school. We have been best friends for ten years.",
     "options": [
      {
       "letter": "A",
-      "text": "garage"
+      "text": "freedom"
      },
      {
       "letter": "B",
-      "text": "god"
+      "text": "furniture"
      },
      {
       "letter": "C",
-      "text": "gentleman"
+      "text": "geography"
      },
      {
       "letter": "D",
@@ -382,11 +382,11 @@ window.FLASHCARD_UNITS = {
     "vi": 4
    },
    {
-    "question": "The loud noise __________ the children.【使害怕】",
+    "question": "The loud thunder __________ the little girl. She ran to her mother and cried.",
     "options": [
      {
       "letter": "A",
-      "text": "gathered"
+      "text": "gained"
      },
      {
       "letter": "B",
@@ -394,187 +394,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "gain"
+      "text": "gathered"
      },
      {
       "letter": "D",
-      "text": "ruined"
+      "text": "forgave"
      }
     ],
     "answer": "B",
     "vi": 5
    },
    {
-    "question": "They played __________ in the park.【飛盤】",
+    "question": "We threw a __________ to each other in the park. The dog jumped up and caught it.",
     "options": [
      {
       "letter": "A",
-      "text": "Goal"
-     },
-     {
-      "letter": "B",
-      "text": "Friendship"
-     },
-     {
-      "letter": "C",
       "text": "Frisbee"
      },
      {
-      "letter": "D",
-      "text": "Garage"
-     }
-    ],
-    "answer": "C",
-    "vi": 6
-   },
-   {
-    "question": "They bought new __________ for the living room.【家具】",
-    "options": [
-     {
-      "letter": "A",
+      "letter": "B",
       "text": "furniture"
-     },
-     {
-      "letter": "B",
-      "text": "Frisbee"
-     },
-     {
-      "letter": "C",
-      "text": "god"
-     },
-     {
-      "letter": "D",
-      "text": "friendship"
-     }
-    ],
-    "answer": "A",
-    "vi": 7
-   },
-   {
-    "question": "She managed to __________ the trust of her colleagues.【獲得，增加】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "gathered"
-     },
-     {
-      "letter": "B",
-      "text": "gain"
-     },
-     {
-      "letter": "C",
-      "text": "frightened"
-     },
-     {
-      "letter": "D",
-      "text": "expect"
-     }
-    ],
-    "answer": "B",
-    "vi": 8
-   },
-   {
-    "question": "He parked his car in the __________.【車庫】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "geography"
-     },
-     {
-      "letter": "B",
-      "text": "Frisbee"
-     },
-     {
-      "letter": "C",
-      "text": "gentleman"
-     },
-     {
-      "letter": "D",
-      "text": "garage"
-     }
-    ],
-    "answer": "D",
-    "vi": 9
-   },
-   {
-    "question": "They __________ around the table for dinner.【聚集，收集】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "frightened"
-     },
-     {
-      "letter": "B",
-      "text": "gain"
-     },
-     {
-      "letter": "C",
-      "text": "gathered"
-     },
-     {
-      "letter": "D",
-      "text": "completed"
-     }
-    ],
-    "answer": "C",
-    "vi": 10
-   },
-   {
-    "question": "She has a __________ idea of how the system works.【一般的，總的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "general"
-     },
-     {
-      "letter": "B",
-      "text": "gentle"
-     },
-     {
-      "letter": "C",
-      "text": "frank"
-     },
-     {
-      "letter": "D",
-      "text": "freezing"
-     }
-    ],
-    "answer": "A",
-    "vi": 11
-   },
-   {
-    "question": "He is very __________ with his time.【慷慨的，大方的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "frank"
-     },
-     {
-      "letter": "B",
-      "text": "general"
-     },
-     {
-      "letter": "C",
-      "text": "generous"
-     },
-     {
-      "letter": "D",
-      "text": "freezing"
-     }
-    ],
-    "answer": "C",
-    "vi": 12
-   },
-   {
-    "question": "He is considered a musical __________.【天才】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "god"
-     },
-     {
-      "letter": "B",
-      "text": "geography"
      },
      {
       "letter": "C",
@@ -585,15 +424,107 @@ window.FLASHCARD_UNITS = {
       "text": "genius"
      }
     ],
-    "answer": "D",
-    "vi": 13
+    "answer": "A",
+    "vi": 6
    },
    {
-    "question": "She has a __________ touch when handling animals.【溫和的，文雅的】",
+    "question": "We bought some new __________ for the living room: a sofa, a table, and two chairs.",
     "options": [
      {
       "letter": "A",
-      "text": "gentle"
+      "text": "freedom"
+     },
+     {
+      "letter": "B",
+      "text": "friendship"
+     },
+     {
+      "letter": "C",
+      "text": "furniture"
+     },
+     {
+      "letter": "D",
+      "text": "geography"
+     }
+    ],
+    "answer": "C",
+    "vi": 7
+   },
+   {
+    "question": "You will __________ weight if you eat too much fast food and never exercise.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "gather"
+     },
+     {
+      "letter": "B",
+      "text": "frighten"
+     },
+     {
+      "letter": "C",
+      "text": "forgive"
+     },
+     {
+      "letter": "D",
+      "text": "gain"
+     }
+    ],
+    "answer": "D",
+    "vi": 8
+   },
+   {
+    "question": "Dad parks his car in the __________ next to our house every night.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "garage"
+     },
+     {
+      "letter": "B",
+      "text": "freezer"
+     },
+     {
+      "letter": "C",
+      "text": "gesture"
+     },
+     {
+      "letter": "D",
+      "text": "goal"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "The students __________ in the gym to listen to the principal's speech.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "gained"
+     },
+     {
+      "letter": "B",
+      "text": "frightened"
+     },
+     {
+      "letter": "C",
+      "text": "gathered"
+     },
+     {
+      "letter": "D",
+      "text": "forgave"
+     }
+    ],
+    "answer": "C",
+    "vi": 10
+   },
+   {
+    "question": "I don't know the details. I only have a __________ idea of the plan.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "frank"
      },
      {
       "letter": "B",
@@ -601,132 +532,201 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "frank"
-     },
-     {
-      "letter": "D",
       "text": "generous"
-     }
-    ],
-    "answer": "A",
-    "vi": 14
-   },
-   {
-    "question": "He is a true __________.【紳士】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "friendship"
-     },
-     {
-      "letter": "B",
-      "text": "gentleman"
-     },
-     {
-      "letter": "C",
-      "text": "freedom"
      },
      {
       "letter": "D",
-      "text": "geography"
+      "text": "gentle"
      }
     ],
     "answer": "B",
-    "vi": 15
+    "vi": 11
    },
    {
-    "question": "She is studying __________ in school.【地理學】",
+    "question": "Mr. Wang is very __________. He gave a lot of money to help poor children.",
     "options": [
      {
       "letter": "A",
-      "text": "gentleman"
+      "text": "freezing"
      },
      {
       "letter": "B",
-      "text": "gesture"
+      "text": "general"
      },
      {
       "letter": "C",
-      "text": "geography"
+      "text": "generous"
      },
      {
       "letter": "D",
-      "text": "friendship"
+      "text": "frank"
      }
     ],
     "answer": "C",
-    "vi": 16
+    "vi": 12
    },
    {
-    "question": "He made a kind __________ to help her.【手勢，姿勢】",
+    "question": "Mozart was a __________. He started writing music when he was only five.",
     "options": [
      {
       "letter": "A",
+      "text": "gentleman"
+     },
+     {
+      "letter": "B",
+      "text": "genius"
+     },
+     {
+      "letter": "C",
       "text": "gesture"
-     },
-     {
-      "letter": "B",
-      "text": "freedom"
-     },
-     {
-      "letter": "C",
-      "text": "gentleman"
-     },
-     {
-      "letter": "D",
-      "text": "garage"
-     }
-    ],
-    "answer": "A",
-    "vi": 17
-   },
-   {
-    "question": "His main __________ is to finish the project on time.【目標，球門】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "geography"
-     },
-     {
-      "letter": "B",
-      "text": "gentleman"
-     },
-     {
-      "letter": "C",
-      "text": "garage"
      },
      {
       "letter": "D",
       "text": "goal"
      }
     ],
-    "answer": "D",
-    "vi": 18
+    "answer": "B",
+    "vi": 13
    },
    {
-    "question": "They prayed to their __________.【神】",
+    "question": "Be __________ with the baby. Hold her softly and carefully.",
     "options": [
      {
       "letter": "A",
-      "text": "freezer"
+      "text": "frank"
      },
      {
       "letter": "B",
-      "text": "god"
+      "text": "general"
      },
      {
       "letter": "C",
+      "text": "freezing"
+     },
+     {
+      "letter": "D",
+      "text": "gentle"
+     }
+    ],
+    "answer": "D",
+    "vi": 14
+   },
+   {
+    "question": "Mr. Lin is a real __________. He always opens the door for others and speaks politely.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "gentleman"
+     },
+     {
+      "letter": "B",
+      "text": "genius"
+     },
+     {
+      "letter": "C",
+      "text": "gesture"
+     },
+     {
+      "letter": "D",
+      "text": "garage"
+     }
+    ],
+    "answer": "A",
+    "vi": 15
+   },
+   {
+    "question": "In __________ class, we learn about countries, mountains, rivers, and seas.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "freedom"
+     },
+     {
+      "letter": "B",
       "text": "friendship"
+     },
+     {
+      "letter": "C",
+      "text": "furniture"
+     },
+     {
+      "letter": "D",
+      "text": "geography"
+     }
+    ],
+    "answer": "D",
+    "vi": 16
+   },
+   {
+    "question": "He raised his hand as a __________ to say \"stop.\"",
+    "options": [
+     {
+      "letter": "A",
+      "text": "genius"
+     },
+     {
+      "letter": "B",
+      "text": "goal"
+     },
+     {
+      "letter": "C",
+      "text": "gesture"
+     },
+     {
+      "letter": "D",
+      "text": "garage"
+     }
+    ],
+    "answer": "C",
+    "vi": 17
+   },
+   {
+    "question": "My __________ is to pass the exam and get into a good senior high school.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "god"
+     },
+     {
+      "letter": "B",
+      "text": "goal"
+     },
+     {
+      "letter": "C",
+      "text": "garage"
+     },
+     {
+      "letter": "D",
+      "text": "gesture"
+     }
+    ],
+    "answer": "B",
+    "vi": 18
+   },
+   {
+    "question": "In the old stories of Greece, Zeus was the __________ of the sky.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "god"
+     },
+     {
+      "letter": "B",
+      "text": "goal"
+     },
+     {
+      "letter": "C",
+      "text": "genius"
      },
      {
       "letter": "D",
       "text": "gentleman"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"completed":["to finish something","完成，完整的"],"expect":["to think that something will happen","期望，預期"],"frank":["saying what you really think; honest","坦率的"],"freedom":["being able to do, say, and think what you want","自由"],"freezer":["a machine that keeps food very cold and hard like ice","冷凍庫"],"freezing":["very, very cold","冰凍的，極冷的"],"friendship":["the feeling between people who are friends","友誼"],"frightened":["to make someone afraid","使害怕"],"frisbee":["a flat plastic plate that people throw to each other for fun","飛盤"],"furniture":["tables, chairs, beds, and other big things in a house","家具"],"gain":["to get something that you want or need","獲得，增加"],"garage":["a building where you keep a car","車庫"],"gathered":["to come together in a group","聚集，收集"],"general":["not exact or full of details; about the main things only","一般的，總的"],"generous":["happy to give money, help, or time to others","慷慨的，大方的"],"genius":["a person who is much smarter or better at something than other people","天才"],"gentle":["soft, kind, and careful","溫和的，文雅的"],"gentleman":["a man who is polite and kind to others","紳士"],"geography":["the study of the countries, mountains, and seas of the world","地理學"],"gesture":["something you do to show how you feel; a movement of the hand","手勢，姿勢"],"goal":["something that you want to do or reach in the future","目標，球門"],"god":["one of the beings that people pray to","神"],"ruined":["to spoil or destroy something completely","毀壞，破壞"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"freezing":["very, very cold","冰凍的，極冷的"],"general":["not exact or full of details; about the main things only","一般的，總的"],"gentle":["soft, kind, and careful","溫和的，文雅的"],"frank":["saying what you really think; honest","坦率的"],"freedom":["being able to do, say, and think what you want","自由"],"freezer":["a machine that keeps food very cold and hard like ice","冷凍庫"],"furniture":["tables, chairs, beds, and other big things in a house","家具"],"geography":["the study of the countries, mountains, and seas of the world","地理學"],"garage":["a building where you keep a car","車庫"],"generous":["happy to give money, help, or time to others","慷慨的，大方的"],"friendship":["the feeling between people who are friends","友誼"],"gained":["to get something that you want or need","獲得，增加"],"frightened":["to make someone afraid","使害怕"],"gathered":["to come together in a group","聚集，收集"],"forgave":["","原諒"],"frisbee":["a flat plastic plate that people throw to each other for fun","飛盤"],"genius":["a person who is much smarter or better at something than other people","天才"],"gather":["to come together in a group","聚集，收集"],"frighten":["to make someone afraid","使害怕"],"forgive":["to stop being angry with someone for something they did","原諒，寬恕"],"gain":["to get something that you want or need","獲得，增加"],"gesture":["something you do to show how you feel; a movement of the hand","手勢，姿勢"],"goal":["something that you want to do or reach in the future","目標，球門"],"gentleman":["a man who is polite and kind to others","紳士"],"god":["one of the beings that people pray to","神"]});

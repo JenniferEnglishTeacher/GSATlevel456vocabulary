@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "This is my __________ opinion.【個人的，私人的】",
+    "question": "Please don't read my diary. It is very __________.",
     "options": [
      {
       "letter": "A",
@@ -275,68 +275,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "positive"
-     },
-     {
-      "letter": "C",
       "text": "plain"
      },
      {
-      "letter": "D",
+      "letter": "C",
       "text": "pleasant"
+     },
+     {
+      "letter": "D",
+      "text": "positive"
      }
     ],
     "answer": "A",
     "vi": 0
    },
    {
-    "question": "He is studying __________.【物理學】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "position"
-     },
-     {
-      "letter": "B",
-      "text": "poison"
-     },
-     {
-      "letter": "C",
-      "text": "pigeon"
-     },
-     {
-      "letter": "D",
-      "text": "physics"
-     }
-    ],
-    "answer": "D",
-    "vi": 1
-   },
-   {
-    "question": "The __________ flew away.【鴿子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "poem"
-     },
-     {
-      "letter": "B",
-      "text": "pigeon"
-     },
-     {
-      "letter": "C",
-      "text": "pile"
-     },
-     {
-      "letter": "D",
-      "text": "population"
-     }
-    ],
-    "answer": "B",
-    "vi": 2
-   },
-   {
-    "question": "There is a __________ of books on the table.【堆，堆積】",
+    "question": "In __________ class, we learn about light, sound, and how things move.",
     "options": [
      {
       "letter": "A",
@@ -344,22 +298,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "poem"
+      "text": "population"
      },
      {
       "letter": "C",
-      "text": "pile"
+      "text": "physics"
      },
      {
       "letter": "D",
-      "text": "platform"
+      "text": "poison"
      }
     ],
     "answer": "C",
+    "vi": 1
+   },
+   {
+    "question": "There are many __________ in the park. These gray birds eat bread from people's hands.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pillows"
+     },
+     {
+      "letter": "B",
+      "text": "poems"
+     },
+     {
+      "letter": "C",
+      "text": "piles"
+     },
+     {
+      "letter": "D",
+      "text": "pigeons"
+     }
+    ],
+    "answer": "D",
+    "vi": 2
+   },
+   {
+    "question": "There is a __________ of dirty clothes on the floor. Please put them in the washing machine.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pillow"
+     },
+     {
+      "letter": "B",
+      "text": "pile"
+     },
+     {
+      "letter": "C",
+      "text": "poem"
+     },
+     {
+      "letter": "D",
+      "text": "potato"
+     }
+    ],
+    "answer": "B",
     "vi": 3
    },
    {
-    "question": "She lay her head on the __________.【枕頭】",
+    "question": "I can't sleep without a soft __________ under my head.",
     "options": [
      {
       "letter": "A",
@@ -367,11 +367,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "platform"
+      "text": "poem"
      },
      {
       "letter": "C",
-      "text": "poem"
+      "text": "platform"
      },
      {
       "letter": "D",
@@ -382,80 +382,80 @@ window.FLASHCARD_UNITS = {
     "vi": 4
    },
    {
-    "question": "She likes to eat fresh __________.【鳳梨，菠蘿】",
+    "question": "A __________ is a sweet yellow fruit with rough skin. Taiwan grows a lot of them.",
     "options": [
      {
       "letter": "A",
-      "text": "pigeon"
+      "text": "pineapple"
      },
      {
       "letter": "B",
+      "text": "potato"
+     },
+     {
+      "letter": "C",
       "text": "pillow"
      },
      {
-      "letter": "C",
-      "text": "pineapple"
-     },
-     {
       "letter": "D",
-      "text": "potato"
-     }
-    ],
-    "answer": "C",
-    "vi": 5
-   },
-   {
-    "question": "She wore a __________ dress.【樸素的，平凡的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "plain"
-     },
-     {
-      "letter": "B",
-      "text": "positive"
-     },
-     {
-      "letter": "C",
-      "text": "pleasant"
-     },
-     {
-      "letter": "D",
-      "text": "personal"
+      "text": "pigeon"
      }
     ],
     "answer": "A",
-    "vi": 6
+    "vi": 5
    },
    {
-    "question": "The train arrived at the __________.【平台，月台】",
+    "question": "She wore a __________ white shirt. It had no pictures or words on it.",
     "options": [
      {
       "letter": "A",
-      "text": "pile"
+      "text": "personal"
      },
      {
       "letter": "B",
-      "text": "platform"
+      "text": "plain"
      },
      {
       "letter": "C",
-      "text": "pop music"
+      "text": "pleased"
      },
      {
       "letter": "D",
-      "text": "pineapple"
+      "text": "positive"
      }
     ],
     "answer": "B",
-    "vi": 7
+    "vi": 6
    },
    {
-    "question": "They had a __________ evening together.【愉快的，令人愉快的】",
+    "question": "The train to Kaohsiung leaves from __________ two. Please wait behind the yellow line.",
     "options": [
      {
       "letter": "A",
-      "text": "positive"
+      "text": "pillow"
+     },
+     {
+      "letter": "B",
+      "text": "poison"
+     },
+     {
+      "letter": "C",
+      "text": "platform"
+     },
+     {
+      "letter": "D",
+      "text": "position"
+     }
+    ],
+    "answer": "C",
+    "vi": 7
+   },
+   {
+    "question": "It was a __________ day. The weather was nice, and we enjoyed our picnic.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pleased"
      },
      {
       "letter": "B",
@@ -463,41 +463,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "pleasant"
-     },
-     {
-      "letter": "D",
-      "text": "plain"
-     }
-    ],
-    "answer": "C",
-    "vi": 8
-   },
-   {
-    "question": "She was __________ with the results.【高興的，滿意的】",
-    "options": [
-     {
-      "letter": "A",
       "text": "plain"
      },
      {
-      "letter": "B",
-      "text": "positive"
-     },
-     {
-      "letter": "C",
-      "text": "pleasant"
-     },
-     {
       "letter": "D",
-      "text": "pleased"
+      "text": "pleasant"
      }
     ],
     "answer": "D",
+    "vi": 8
+   },
+   {
+    "question": "The teacher was __________ with our work. She gave everyone a good grade.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pleasant"
+     },
+     {
+      "letter": "B",
+      "text": "pleased"
+     },
+     {
+      "letter": "C",
+      "text": "plain"
+     },
+     {
+      "letter": "D",
+      "text": "personal"
+     }
+    ],
+    "answer": "B",
     "vi": 9
    },
    {
-    "question": "He bought a book __________ a pen.【加上，此外】",
+    "question": "Three __________ four is seven.",
     "options": [
      {
       "letter": "A",
@@ -520,42 +520,42 @@ window.FLASHCARD_UNITS = {
     "vi": 10
    },
    {
-    "question": "She wrote a beautiful __________.【詩】",
+    "question": "The student wrote a short __________ about love. It has only four lines.",
     "options": [
      {
       "letter": "A",
-      "text": "pineapple"
+      "text": "pile"
      },
      {
       "letter": "B",
+      "text": "pillow"
+     },
+     {
+      "letter": "C",
       "text": "poem"
      },
      {
-      "letter": "C",
-      "text": "poison"
-     },
-     {
       "letter": "D",
-      "text": "platform"
+      "text": "potato"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 11
    },
    {
-    "question": "The mushrooms contain a deadly __________.【毒藥，毒素】",
+    "question": "Don't eat that mushroom. It has __________ in it and can kill you.",
     "options": [
      {
       "letter": "A",
-      "text": "population"
+      "text": "physics"
      },
      {
       "letter": "B",
-      "text": "pop music"
+      "text": "pollution"
      },
      {
       "letter": "C",
-      "text": "potato"
+      "text": "position"
      },
      {
       "letter": "D",
@@ -566,57 +566,57 @@ window.FLASHCARD_UNITS = {
     "vi": 12
    },
    {
-    "question": "Factories __________ the air with smoke.【污染】",
+    "question": "Cars and factories __________ the air. That is why the sky is gray.",
     "options": [
      {
       "letter": "A",
+      "text": "pardon"
+     },
+     {
+      "letter": "B",
+      "text": "pause"
+     },
+     {
+      "letter": "C",
       "text": "pollute"
      },
      {
-      "letter": "B",
-      "text": "omit"
-     },
-     {
-      "letter": "C",
-      "text": "hug"
-     },
-     {
       "letter": "D",
-      "text": "repair"
-     }
-    ],
-    "answer": "A",
-    "vi": 13
-   },
-   {
-    "question": "The city is facing severe air __________.【污染】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "position"
-     },
-     {
-      "letter": "B",
-      "text": "poison"
-     },
-     {
-      "letter": "C",
-      "text": "pollution"
-     },
-     {
-      "letter": "D",
-      "text": "population"
+      "text": "obey"
      }
     ],
     "answer": "C",
-    "vi": 14
+    "vi": 13
    },
    {
-    "question": "She loves listening to __________.【流行音樂】",
+    "question": "Air __________ is a big problem in this city. Many people wear masks outside.",
     "options": [
      {
       "letter": "A",
-      "text": "pigeon"
+      "text": "pollution"
+     },
+     {
+      "letter": "B",
+      "text": "population"
+     },
+     {
+      "letter": "C",
+      "text": "position"
+     },
+     {
+      "letter": "D",
+      "text": "physics"
+     }
+    ],
+    "answer": "A",
+    "vi": 14
+   },
+   {
+    "question": "My sister loves __________. She listens to the newest songs every day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pollution"
      },
      {
       "letter": "B",
@@ -624,18 +624,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "position"
+      "text": "population"
      },
      {
       "letter": "D",
-      "text": "potato"
+      "text": "physics"
      }
     ],
     "answer": "B",
     "vi": 15
    },
    {
-    "question": "The __________ of the city is growing rapidly.【人口】",
+    "question": "The __________ of Taiwan is about twenty-three million.",
     "options": [
      {
       "letter": "A",
@@ -643,34 +643,34 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "potato"
+      "text": "pollution"
      },
      {
       "letter": "C",
-      "text": "pop music"
+      "text": "position"
      },
      {
       "letter": "D",
-      "text": "platform"
+      "text": "poison"
      }
     ],
     "answer": "A",
     "vi": 16
    },
    {
-    "question": "He applied for a management __________.【位置，職位】",
+    "question": "He got a __________ as a manager at the bank. He starts his new job next month.",
     "options": [
      {
       "letter": "A",
-      "text": "potato"
+      "text": "pollution"
      },
      {
       "letter": "B",
-      "text": "pop music"
+      "text": "population"
      },
      {
       "letter": "C",
-      "text": "pineapple"
+      "text": "poison"
      },
      {
       "letter": "D",
@@ -681,15 +681,15 @@ window.FLASHCARD_UNITS = {
     "vi": 17
    },
    {
-    "question": "She has a __________ outlook on life.【積極的，正面的】",
+    "question": "Stay __________. Things will get better soon.",
     "options": [
      {
       "letter": "A",
-      "text": "plain"
+      "text": "personal"
      },
      {
       "letter": "B",
-      "text": "personal"
+      "text": "plain"
      },
      {
       "letter": "C",
@@ -697,30 +697,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "pleasant"
+      "text": "pleased"
      }
     ],
     "answer": "C",
     "vi": 18
    },
    {
-    "question": "She made a __________ salad.【馬鈴薯，土豆】",
+    "question": "French fries are made from __________.",
     "options": [
      {
       "letter": "A",
-      "text": "pop music"
+      "text": "pineapples"
      },
      {
       "letter": "B",
-      "text": "potato"
+      "text": "potatoes"
      },
      {
       "letter": "C",
-      "text": "platform"
+      "text": "pillows"
      },
      {
       "letter": "D",
-      "text": "position"
+      "text": "poems"
      }
     ],
     "answer": "B",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"against":["not agreeing with something","反對，對抗"],"beyond":["on the far side of something","超過，在...之外"],"hug":["holding someone in your arms to show love","擁抱"],"minus":["below zero; made smaller by a number","減，負的"],"omit":["to leave something out","省略，忽略"],"personal":["belonging to you; your own","個人的，私人的"],"physics":["the study of heat, light, sound, and how things move","物理學"],"pigeon":["a gray bird that often lives in cities","鴿子"],"pile":["many things lying one on top of another","堆，堆積"],"pillow":["a soft thing that you put your head on in bed","枕頭"],"pineapple":["a big, sweet tropical fruit that is yellow inside and has a rough skin","鳳梨，菠蘿"],"plain":["simple, with no pattern or decoration","樸素的，平凡的"],"platform":["the place in a station where you get on and off trains","平台，月台"],"pleasant":["nice and enjoyable","愉快的，令人愉快的"],"pleased":["happy about something","高興的，滿意的"],"plus":["and also; added to","加上，此外"],"poem":["a piece of writing in short lines, often with words that rhyme","詩"],"poison":["something that can kill you or make you very sick if you eat or drink it","毒藥，毒素"],"pollute":["to make air, water, or land dirty","污染"],"pollution":["dirty air, water, or land","污染"],"population":["the number of people who live in a place","人口"],"position":["a job in a company","位置，職位"],"positive":["thinking about the good side of things","積極的，正面的"],"potato":["a round brown or yellow vegetable that grows under the ground","馬鈴薯，土豆"],"repair":["to fix something that is broken","修理，修補"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"personal":["belonging to you; your own","個人的，私人的"],"plain":["simple, with no pattern or decoration","樸素的，平凡的"],"pleasant":["nice and enjoyable","愉快的，令人愉快的"],"positive":["thinking about the good side of things","積極的，正面的"],"pollution":["dirty air, water, or land","污染"],"population":["the number of people who live in a place","人口"],"physics":["the study of heat, light, sound, and how things move","物理學"],"poison":["something that can kill you or make you very sick if you eat or drink it","毒藥，毒素"],"pillows":["a soft thing that you put your head on in bed","枕頭"],"poems":["a piece of writing in short lines, often with words that rhyme","詩"],"piles":["many things lying one on top of another","堆，堆積"],"pigeons":["a gray bird that often lives in cities","鴿子"],"pillow":["a soft thing that you put your head on in bed","枕頭"],"pile":["many things lying one on top of another","堆，堆積"],"poem":["a piece of writing in short lines, often with words that rhyme","詩"],"potato":["a round brown or yellow vegetable that grows under the ground","馬鈴薯，土豆"],"platform":["the place in a station where you get on and off trains","平台，月台"],"pineapple":["a big, sweet tropical fruit that is yellow inside and has a rough skin","鳳梨，菠蘿"],"pigeon":["a gray bird that often lives in cities","鴿子"],"pleased":["happy about something","高興的，滿意的"],"position":["a job in a company","位置，職位"],"plus":["and also; added to","加上，此外"],"minus":["below zero; made smaller by a number","減，負的"],"against":["not agreeing with something","反對，對抗"],"beyond":["on the far side of something","超過，在...之外"],"pardon":["to forgive someone","原諒，寬恕"],"pause":["to stop for a short time","暫停，中止"],"pollute":["to make air, water, or land dirty","污染"],"obey":["to do what someone tells you to do","服從，遵守"],"pineapples":["a big, sweet tropical fruit that is yellow inside and has a rough skin","鳳梨，菠蘿"],"potatoes":["a round brown or yellow vegetable that grows under the ground","馬鈴薯，土豆"]});

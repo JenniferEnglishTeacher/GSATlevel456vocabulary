@@ -267,30 +267,7 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "They are working to end __________.【飢餓】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hunger"
-     },
-     {
-      "letter": "B",
-      "text": "importance"
-     },
-     {
-      "letter": "C",
-      "text": "ink"
-     },
-     {
-      "letter": "D",
-      "text": "information"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "The __________ tracked the deer through the forest.【獵人】",
+    "question": "Many children in poor countries die of __________. They don't have enough food to eat.",
     "options": [
      {
       "letter": "A",
@@ -298,91 +275,114 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "hunter"
-     },
-     {
-      "letter": "C",
-      "text": "influence"
-     },
-     {
-      "letter": "D",
       "text": "ink"
-     }
-    ],
-    "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "She decided to __________ his rude comments.【忽視】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "imagine"
-     },
-     {
-      "letter": "B",
-      "text": "indicate"
      },
      {
       "letter": "C",
-      "text": "ignore"
+      "text": "hunger"
      },
      {
       "letter": "D",
-      "text": "improve"
+      "text": "influence"
      }
     ],
     "answer": "C",
-    "vi": 2
+    "vi": 0
    },
    {
-    "question": "He has been __________ for a week.【生病的】",
+    "question": "The __________ went into the forest with his gun to look for wild pigs.",
     "options": [
      {
       "letter": "A",
-      "text": "independent"
+      "text": "hunger"
      },
      {
       "letter": "B",
-      "text": "impossible"
+      "text": "income"
      },
      {
       "letter": "C",
-      "text": "impolite"
+      "text": "inch"
      },
      {
       "letter": "D",
-      "text": "ill"
+      "text": "hunter"
      }
     ],
     "answer": "D",
-    "vi": 3
+    "vi": 1
    },
    {
-    "question": "Can you __________ a world without music?【想像】",
+    "question": "If someone says bad things about you, just __________ them. Don't listen or answer.",
     "options": [
      {
       "letter": "A",
-      "text": "indicate"
-     },
-     {
-      "letter": "B",
       "text": "ignore"
      },
      {
+      "letter": "B",
+      "text": "improve"
+     },
+     {
       "letter": "C",
-      "text": "imagine"
+      "text": "include"
      },
      {
       "letter": "D",
       "text": "increase"
      }
     ],
-    "answer": "C",
+    "answer": "A",
+    "vi": 2
+   },
+   {
+    "question": "Ben is __________ today, so he can't come to school. He has a fever.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "impolite"
+     },
+     {
+      "letter": "B",
+      "text": "ill"
+     },
+     {
+      "letter": "C",
+      "text": "impossible"
+     },
+     {
+      "letter": "D",
+      "text": "independent"
+     }
+    ],
+    "answer": "B",
+    "vi": 3
+   },
+   {
+    "question": "Close your eyes and __________ you are on a beach. Can you see the blue sea in your mind?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "improve"
+     },
+     {
+      "letter": "B",
+      "text": "include"
+     },
+     {
+      "letter": "C",
+      "text": "insist"
+     },
+     {
+      "letter": "D",
+      "text": "imagine"
+     }
+    ],
+    "answer": "D",
     "vi": 4
    },
    {
-    "question": "It is __________ to interrupt someone while they are speaking.【不禮貌的】",
+    "question": "It is __________ to talk with your mouth full. Please finish your food first.",
     "options": [
      {
       "letter": "A",
@@ -405,57 +405,57 @@ window.FLASHCARD_UNITS = {
     "vi": 5
    },
    {
-    "question": "He understands the __________ of education.【重要性】",
+    "question": "The teacher talked about the __________ of sleep. Students need eight hours every night.",
     "options": [
      {
       "letter": "A",
-      "text": "importance"
-     },
-     {
-      "letter": "B",
       "text": "income"
      },
      {
+      "letter": "B",
+      "text": "influence"
+     },
+     {
       "letter": "C",
-      "text": "hunter"
+      "text": "importance"
      },
      {
       "letter": "D",
-      "text": "influence"
+      "text": "information"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 6
    },
    {
-    "question": "It is __________ to finish this work in one day.【不可能的】",
+    "question": "It is __________ for people to live without water. Nobody can do it.",
     "options": [
      {
       "letter": "A",
-      "text": "ill"
+      "text": "impossible"
      },
      {
       "letter": "B",
-      "text": "independent"
-     },
-     {
-      "letter": "C",
       "text": "impolite"
      },
      {
+      "letter": "C",
+      "text": "ill"
+     },
+     {
       "letter": "D",
-      "text": "impossible"
+      "text": "independent"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 7
    },
    {
-    "question": "She wants to __________ her English skills.【改善，改進】",
+    "question": "I want to __________ my English, so I read and listen to it every day.",
     "options": [
      {
       "letter": "A",
-      "text": "imagine"
+      "text": "ignore"
      },
      {
       "letter": "B",
@@ -463,41 +463,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "ignore"
+      "text": "include"
      },
      {
       "letter": "D",
-      "text": "increase"
+      "text": "indicate"
      }
     ],
     "answer": "B",
     "vi": 8
    },
    {
-    "question": "The price __________ breakfast.【包含】",
+    "question": "The price of the room __________ breakfast. You don't have to pay more for it.",
     "options": [
      {
       "letter": "A",
-      "text": "insisted"
+      "text": "improves"
      },
      {
       "letter": "B",
-      "text": "inspired"
+      "text": "ignores"
      },
      {
       "letter": "C",
-      "text": "includes"
+      "text": "insists"
      },
      {
       "letter": "D",
-      "text": "ignore"
+      "text": "includes"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 9
    },
    {
-    "question": "His __________ has increased this year.【收入】",
+    "question": "Mr. Lin has a high __________. He makes two hundred thousand dollars a month.",
     "options": [
      {
       "letter": "A",
@@ -505,22 +505,114 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "influence"
+      "text": "hunger"
      },
      {
       "letter": "C",
-      "text": "importance"
+      "text": "ink"
      },
      {
       "letter": "D",
-      "text": "hunger"
+      "text": "inch"
      }
     ],
     "answer": "A",
     "vi": 10
    },
    {
-    "question": "The screen measures 24 __________.【英寸】",
+    "question": "This TV screen is fifty __________ wide. One of them is about 2.5 centimeters.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "incomes"
+     },
+     {
+      "letter": "B",
+      "text": "hunters"
+     },
+     {
+      "letter": "C",
+      "text": "inches"
+     },
+     {
+      "letter": "D",
+      "text": "influences"
+     }
+    ],
+    "answer": "C",
+    "vi": 11
+   },
+   {
+    "question": "The store wants to __________ its prices. A cup of coffee will go from fifty to sixty dollars.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ignore"
+     },
+     {
+      "letter": "B",
+      "text": "increase"
+     },
+     {
+      "letter": "C",
+      "text": "imagine"
+     },
+     {
+      "letter": "D",
+      "text": "inspire"
+     }
+    ],
+    "answer": "B",
+    "vi": 12
+   },
+   {
+    "question": "Amy is very __________. She lives alone and does everything by herself.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "independent"
+     },
+     {
+      "letter": "B",
+      "text": "impolite"
+     },
+     {
+      "letter": "C",
+      "text": "impossible"
+     },
+     {
+      "letter": "D",
+      "text": "ill"
+     }
+    ],
+    "answer": "A",
+    "vi": 13
+   },
+   {
+    "question": "The dark clouds __________ that it will rain soon.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "include"
+     },
+     {
+      "letter": "B",
+      "text": "improve"
+     },
+     {
+      "letter": "C",
+      "text": "indicate"
+     },
+     {
+      "letter": "D",
+      "text": "inspire"
+     }
+    ],
+    "answer": "C",
+    "vi": 14
+   },
+   {
+    "question": "Parents have a strong __________ on their children. Kids often think and act like them.",
     "options": [
      {
       "letter": "A",
@@ -528,103 +620,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "hunger"
+      "text": "ink"
      },
      {
       "letter": "C",
-      "text": "information"
-     },
-     {
-      "letter": "D",
-      "text": "inches"
-     }
-    ],
-    "answer": "D",
-    "vi": 11
-   },
-   {
-    "question": "The company plans to __________ its production.【增加，增長】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "improve"
-     },
-     {
-      "letter": "B",
-      "text": "increase"
-     },
-     {
-      "letter": "C",
-      "text": "indicate"
-     },
-     {
-      "letter": "D",
-      "text": "ignore"
-     }
-    ],
-    "answer": "B",
-    "vi": 12
-   },
-   {
-    "question": "She is a very __________ person.【獨立的，自主的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "ill"
-     },
-     {
-      "letter": "B",
-      "text": "impossible"
-     },
-     {
-      "letter": "C",
-      "text": "independent"
-     },
-     {
-      "letter": "D",
-      "text": "impolite"
-     }
-    ],
-    "answer": "C",
-    "vi": 13
-   },
-   {
-    "question": "The results __________ that the treatment is effective.【表明，指出】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "indicate"
-     },
-     {
-      "letter": "B",
-      "text": "improve"
-     },
-     {
-      "letter": "C",
-      "text": "ignore"
-     },
-     {
-      "letter": "D",
-      "text": "increase"
-     }
-    ],
-    "answer": "A",
-    "vi": 14
-   },
-   {
-    "question": "Her parents had a big __________ on her career choice.【影響】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "information"
-     },
-     {
-      "letter": "B",
-      "text": "hunger"
-     },
-     {
-      "letter": "C",
-      "text": "hunter"
+      "text": "inch"
      },
      {
       "letter": "D",
@@ -635,42 +635,19 @@ window.FLASHCARD_UNITS = {
     "vi": 15
    },
    {
-    "question": "We need more __________ before making a decision.【資訊，消息】",
+    "question": "I need more __________ about the trip. What time do we leave, and how much does it cost?",
     "options": [
      {
       "letter": "A",
-      "text": "information"
-     },
-     {
-      "letter": "B",
-      "text": "influence"
-     },
-     {
-      "letter": "C",
-      "text": "hunter"
-     },
-     {
-      "letter": "D",
-      "text": "ink"
-     }
-    ],
-    "answer": "A",
-    "vi": 16
-   },
-   {
-    "question": "The pen ran out of __________.【墨水】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "influence"
-     },
-     {
-      "letter": "B",
       "text": "ink"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "information"
+     },
+     {
+      "letter": "C",
+      "text": "hunger"
      },
      {
       "letter": "D",
@@ -678,18 +655,41 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "B",
-    "vi": 17
+    "vi": 16
    },
    {
-    "question": "She __________ on paying for her own meal.【堅持，強調】",
+    "question": "My pen is out of __________. Can I borrow yours to finish this letter?",
     "options": [
      {
       "letter": "A",
-      "text": "inspired"
+      "text": "income"
      },
      {
       "letter": "B",
-      "text": "imagine"
+      "text": "inch"
+     },
+     {
+      "letter": "C",
+      "text": "hunger"
+     },
+     {
+      "letter": "D",
+      "text": "ink"
+     }
+    ],
+    "answer": "D",
+    "vi": 17
+   },
+   {
+    "question": "I said I could walk home, but Dad __________ on driving me. He wouldn't take no for an answer.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "included"
+     },
+     {
+      "letter": "B",
+      "text": "improved"
      },
      {
       "letter": "C",
@@ -697,36 +697,36 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "includes"
+      "text": "increased"
      }
     ],
     "answer": "C",
     "vi": 18
    },
    {
-    "question": "His speech __________ everyone in the audience.【激勵，啟發】",
+    "question": "The teacher's story __________ us to work harder. We all wanted to be like the man in it.",
     "options": [
      {
       "letter": "A",
-      "text": "insisted"
+      "text": "inspired"
      },
      {
       "letter": "B",
-      "text": "improve"
+      "text": "ignored"
      },
      {
       "letter": "C",
-      "text": "increase"
+      "text": "included"
      },
      {
       "letter": "D",
-      "text": "inspired"
+      "text": "insisted"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hunger":["the feeling of needing food; not having enough food","飢餓"],"hunter":["a person who catches or kills wild animals","獵人"],"ignore":["to act as if you do not see or hear someone or something","忽視"],"ill":["sick","生病的"],"imagine":["to make a picture of something in your mind","想像"],"impolite":["not polite; rude","不禮貌的"],"importance":["how important something is","重要性"],"impossible":["not able to happen or be done","不可能的"],"improve":["to make something better; to get better","改善，改進"],"includes":["to have something as one of its parts","包含"],"income":["the money that a person gets from work","收入"],"inches":["a small unit of length; about 2.5 centimeters","英寸"],"increase":["to make something bigger in number or amount","增加，增長"],"independent":["able to do things by yourself, without help","獨立的，自主的"],"indicate":["to show that something is true","表明，指出"],"influence":["the power to change how someone thinks or acts","影響"],"information":["facts about someone or something","資訊，消息"],"ink":["the colored liquid inside a pen","墨水"],"insisted":["to say strongly that you want to do something","堅持，強調"],"inspired":["to make someone feel that they want to do something good","激勵，啟發"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"income":["the money that a person gets from work","收入"],"ink":["the colored liquid inside a pen","墨水"],"hunger":["the feeling of needing food; not having enough food","飢餓"],"influence":["the power to change how someone thinks or acts","影響"],"inch":["a small unit of length; about 2.5 centimeters","英寸"],"hunter":["a person who catches or kills wild animals","獵人"],"ignore":["to act as if you do not see or hear someone or something","忽視"],"improve":["to make something better; to get better","改善，改進"],"include":["to have something as one of its parts","包含"],"increase":["to make something bigger in number or amount","增加，增長"],"impolite":["not polite; rude","不禮貌的"],"ill":["sick","生病的"],"impossible":["not able to happen or be done","不可能的"],"independent":["able to do things by yourself, without help","獨立的，自主的"],"insist":["to say strongly that you want to do something","堅持，強調"],"imagine":["to make a picture of something in your mind","想像"],"importance":["how important something is","重要性"],"information":["facts about someone or something","資訊，消息"],"indicate":["to show that something is true","表明，指出"],"improves":["to make something better; to get better","改善，改進"],"ignores":["to act as if you do not see or hear someone or something","忽視"],"insists":["to say strongly that you want to do something","堅持，強調"],"includes":["to have something as one of its parts","包含"],"incomes":["the money that a person gets from work","收入"],"hunters":["a person who catches or kills wild animals","獵人"],"inches":["a small unit of length; about 2.5 centimeters","英寸"],"influences":["the power to change how someone thinks or acts","影響"],"inspire":["to make someone feel that they want to do something good","激勵，啟發"],"included":["to have something as one of its parts","包含"],"improved":["to make something better; to get better","改善，改進"],"insisted":["to say strongly that you want to do something","堅持，強調"],"increased":["to make something bigger in number or amount","增加，增長"],"inspired":["to make someone feel that they want to do something good","激勵，啟發"],"ignored":["to act as if you do not see or hear someone or something","忽視"]});

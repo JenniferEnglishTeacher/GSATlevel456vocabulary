@@ -267,15 +267,15 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "It was a __________ experience.【痛苦的，疼痛的】",
+    "question": "My broken arm is very __________. I can't sleep at night.",
     "options": [
      {
       "letter": "A",
-      "text": "painful"
+      "text": "peaceful"
      },
      {
       "letter": "B",
-      "text": "pale"
+      "text": "painful"
      },
      {
       "letter": "C",
@@ -283,152 +283,152 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "peaceful"
+      "text": "pale"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 0
    },
    {
-    "question": "The __________ is working on a new piece.【畫家，油漆工】",
+    "question": "The __________ is making a picture of the mountains. He uses a brush and many colors.",
     "options": [
      {
       "letter": "A",
-      "text": "partner"
-     },
-     {
-      "letter": "B",
-      "text": "painter"
-     },
-     {
-      "letter": "C",
-      "text": "pepper"
-     },
-     {
-      "letter": "D",
-      "text": "peace"
-     }
-    ],
-    "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "She wore her favorite __________.【睡衣】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pattern"
-     },
-     {
-      "letter": "B",
-      "text": "period"
-     },
-     {
-      "letter": "C",
-      "text": "partner"
-     },
-     {
-      "letter": "D",
-      "text": "pajamas"
-     }
-    ],
-    "answer": "D",
-    "vi": 2
-   },
-   {
-    "question": "He looked very __________ after being sick.【蒼白的，淡色的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "peaceful"
-     },
-     {
-      "letter": "B",
-      "text": "perfect"
-     },
-     {
-      "letter": "C",
-      "text": "pale"
-     },
-     {
-      "letter": "D",
-      "text": "painful"
-     }
-    ],
-    "answer": "C",
-    "vi": 3
-   },
-   {
-    "question": "She fried the eggs in a __________.【平底鍋，盆】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "painter"
-     },
-     {
-      "letter": "B",
-      "text": "pan"
-     },
-     {
-      "letter": "C",
       "text": "passenger"
      },
      {
-      "letter": "D",
-      "text": "panda"
-     }
-    ],
-    "answer": "B",
-    "vi": 4
-   },
-   {
-    "question": "The __________ is a symbol of China.【熊貓】",
-    "options": [
-     {
-      "letter": "A",
+      "letter": "B",
       "text": "partner"
      },
      {
-      "letter": "B",
-      "text": "period"
-     },
-     {
       "letter": "C",
-      "text": "path"
+      "text": "patient"
      },
      {
       "letter": "D",
-      "text": "panda"
+      "text": "painter"
      }
     ],
     "answer": "D",
-    "vi": 5
+    "vi": 1
    },
    {
-    "question": "She asked him to __________ her mistake.【原諒，寬恕】",
+    "question": "I put on my __________ and went to bed at ten.",
     "options": [
      {
       "letter": "A",
-      "text": "paused"
+      "text": "pans"
      },
      {
       "letter": "B",
-      "text": "gain"
+      "text": "paths"
      },
      {
       "letter": "C",
-      "text": "pardon"
+      "text": "pajamas"
      },
      {
       "letter": "D",
-      "text": "develop"
+      "text": "parrots"
      }
     ],
     "answer": "C",
+    "vi": 2
+   },
+   {
+    "question": "You look __________. Your face is white. Are you sick?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pale"
+     },
+     {
+      "letter": "B",
+      "text": "painful"
+     },
+     {
+      "letter": "C",
+      "text": "peaceful"
+     },
+     {
+      "letter": "D",
+      "text": "perfect"
+     }
+    ],
+    "answer": "A",
+    "vi": 3
+   },
+   {
+    "question": "Dad fried two eggs in a __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "path"
+     },
+     {
+      "letter": "B",
+      "text": "parrot"
+     },
+     {
+      "letter": "C",
+      "text": "panda"
+     },
+     {
+      "letter": "D",
+      "text": "pan"
+     }
+    ],
+    "answer": "D",
+    "vi": 4
+   },
+   {
+    "question": "A __________ is a black and white bear from China. It loves to eat bamboo.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "parrot"
+     },
+     {
+      "letter": "B",
+      "text": "painter"
+     },
+     {
+      "letter": "C",
+      "text": "panda"
+     },
+     {
+      "letter": "D",
+      "text": "partner"
+     }
+    ],
+    "answer": "C",
+    "vi": 5
+   },
+   {
+    "question": "Please __________ me for being late. The bus didn't come on time.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pause"
+     },
+     {
+      "letter": "B",
+      "text": "pardon"
+     },
+     {
+      "letter": "C",
+      "text": "obey"
+     },
+     {
+      "letter": "D",
+      "text": "offer"
+     }
+    ],
+    "answer": "B",
     "vi": 6
    },
    {
-    "question": "There is a __________ behind the building.【停車場】",
+    "question": "The supermarket has a big __________. You can leave your car there for free.",
     "options": [
      {
       "letter": "A",
@@ -436,34 +436,34 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "pan"
+      "text": "pattern"
      },
      {
       "letter": "C",
-      "text": "pepper"
+      "text": "period"
      },
      {
       "letter": "D",
-      "text": "passenger"
+      "text": "path"
      }
     ],
     "answer": "A",
     "vi": 7
    },
    {
-    "question": "The __________ can mimic human speech.【鸚鵡】",
+    "question": "My __________ can say \"hello\" and \"good-bye.\" It is a very smart bird.",
     "options": [
      {
       "letter": "A",
-      "text": "period"
+      "text": "panda"
      },
      {
       "letter": "B",
-      "text": "passenger"
+      "text": "painter"
      },
      {
       "letter": "C",
-      "text": "partner"
+      "text": "passenger"
      },
      {
       "letter": "D",
@@ -474,15 +474,84 @@ window.FLASHCARD_UNITS = {
     "vi": 8
    },
    {
-    "question": "She is my business __________.【夥伴，搭檔】",
+    "question": "Amy is my dance __________. We always practice together.",
     "options": [
      {
       "letter": "A",
-      "text": "pattern"
+      "text": "partner"
      },
      {
       "letter": "B",
-      "text": "period"
+      "text": "pattern"
+     },
+     {
+      "letter": "C",
+      "text": "path"
+     },
+     {
+      "letter": "D",
+      "text": "pepper"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "There were forty __________ on the bus. The driver told them to sit down.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "patterns"
+     },
+     {
+      "letter": "B",
+      "text": "peppers"
+     },
+     {
+      "letter": "C",
+      "text": "passengers"
+     },
+     {
+      "letter": "D",
+      "text": "periods"
+     }
+    ],
+    "answer": "C",
+    "vi": 10
+   },
+   {
+    "question": "We walked along a small __________ through the forest. Cars can't use it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pan"
+     },
+     {
+      "letter": "B",
+      "text": "path"
+     },
+     {
+      "letter": "C",
+      "text": "pattern"
+     },
+     {
+      "letter": "D",
+      "text": "peace"
+     }
+    ],
+    "answer": "B",
+    "vi": 11
+   },
+   {
+    "question": "The doctor is seeing a __________ now. The sick man has a high fever.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "painter"
+     },
+     {
+      "letter": "B",
+      "text": "passenger"
      },
      {
       "letter": "C",
@@ -490,87 +559,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "pepper"
-     }
-    ],
-    "answer": "C",
-    "vi": 9
-   },
-   {
-    "question": "The __________ boarded the bus.【乘客】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "passenger"
-     },
-     {
-      "letter": "B",
-      "text": "peace"
-     },
-     {
-      "letter": "C",
-      "text": "period"
-     },
-     {
-      "letter": "D",
-      "text": "parking lot"
-     }
-    ],
-    "answer": "A",
-    "vi": 10
-   },
-   {
-    "question": "They walked along the garden __________.【小路，路徑】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "painter"
-     },
-     {
-      "letter": "B",
-      "text": "path"
-     },
-     {
-      "letter": "C",
       "text": "patient"
-     },
-     {
-      "letter": "D",
-      "text": "panda"
      }
     ],
-    "answer": "B",
-    "vi": 11
-   },
-   {
-    "question": "The doctor treated the __________.【病人，耐心的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "patient"
-     },
-     {
-      "letter": "B",
-      "text": "period"
-     },
-     {
-      "letter": "C",
-      "text": "path"
-     },
-     {
-      "letter": "D",
-      "text": "peace"
-     }
-    ],
-    "answer": "A",
+    "answer": "D",
     "vi": 12
    },
    {
-    "question": "The dress has a beautiful floral __________.【圖案，模式】",
+    "question": "I like the __________ on your dress. The little blue flowers are very pretty.",
     "options": [
      {
       "letter": "A",
-      "text": "painter"
+      "text": "path"
      },
      {
       "letter": "B",
@@ -578,49 +578,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "passenger"
+      "text": "pepper"
      },
      {
       "letter": "D",
-      "text": "pepper"
+      "text": "peace"
      }
     ],
     "answer": "B",
     "vi": 13
    },
    {
-    "question": "She __________ to catch her breath.【暫停，中止】",
+    "question": "The speaker __________ for a moment to drink some water. Then he went on.",
     "options": [
      {
       "letter": "A",
-      "text": "pardon"
+      "text": "paused"
      },
      {
       "letter": "B",
-      "text": "ruined"
+      "text": "pardoned"
      },
      {
       "letter": "C",
-      "text": "decorated"
+      "text": "obeyed"
      },
      {
       "letter": "D",
-      "text": "paused"
+      "text": "offered"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 14
    },
    {
-    "question": "They prayed for __________.【和平，安寧】",
+    "question": "After the long war, the two countries finally lived in __________.",
     "options": [
      {
       "letter": "A",
-      "text": "patient"
+      "text": "pepper"
      },
      {
       "letter": "B",
-      "text": "period"
+      "text": "pattern"
      },
      {
       "letter": "C",
@@ -628,18 +628,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "painter"
+      "text": "path"
      }
     ],
     "answer": "C",
     "vi": 15
    },
    {
-    "question": "It was a __________ evening.【和平的，安靜的】",
+    "question": "It is quiet and __________ in the country. There are no cars or loud noises.",
     "options": [
      {
       "letter": "A",
-      "text": "peaceful"
+      "text": "painful"
      },
      {
       "letter": "B",
@@ -651,18 +651,64 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "painful"
+      "text": "peaceful"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 16
    },
    {
-    "question": "She added some __________ to the soup.【胡椒，辣椒】",
+    "question": "The soup needs a little salt and __________.",
     "options": [
      {
       "letter": "A",
+      "text": "pepper"
+     },
+     {
+      "letter": "B",
+      "text": "peace"
+     },
+     {
+      "letter": "C",
+      "text": "pattern"
+     },
+     {
+      "letter": "D",
       "text": "path"
+     }
+    ],
+    "answer": "A",
+    "vi": 17
+   },
+   {
+    "question": "Your answers are all right. You got a __________ score: 100!",
+    "options": [
+     {
+      "letter": "A",
+      "text": "painful"
+     },
+     {
+      "letter": "B",
+      "text": "perfect"
+     },
+     {
+      "letter": "C",
+      "text": "pale"
+     },
+     {
+      "letter": "D",
+      "text": "peaceful"
+     }
+    ],
+    "answer": "B",
+    "vi": 18
+   },
+   {
+    "question": "We have math in the first __________ and English in the second.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pattern"
      },
      {
       "letter": "B",
@@ -670,57 +716,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "patient"
-     },
-     {
-      "letter": "D",
-      "text": "parrot"
-     }
-    ],
-    "answer": "B",
-    "vi": 17
-   },
-   {
-    "question": "She has a __________ record.【完美的，理想的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pale"
-     },
-     {
-      "letter": "B",
-      "text": "peaceful"
-     },
-     {
-      "letter": "C",
-      "text": "painful"
-     },
-     {
-      "letter": "D",
-      "text": "perfect"
-     }
-    ],
-    "answer": "D",
-    "vi": 18
-   },
-   {
-    "question": "This is the final __________ of the course.【時期，句號】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "panda"
-     },
-     {
-      "letter": "B",
-      "text": "parrot"
-     },
-     {
-      "letter": "C",
       "text": "period"
      },
      {
       "letter": "D",
-      "text": "pan"
+      "text": "path"
      }
     ],
     "answer": "C",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"decorated":["to make a place look nice by putting pretty things in it","裝飾"],"develop":["to make something new and better over time","發展，開發"],"gain":["to get something that you want or need","獲得，增加"],"painful":["making you feel pain or very sad","痛苦的，疼痛的"],"painter":["a person who paints pictures or walls","畫家，油漆工"],"pajamas":["soft clothes that you wear in bed","睡衣"],"pale":["having a light or white face, often because you are sick","蒼白的，淡色的"],"pan":["a flat metal dish with a handle for cooking","平底鍋，盆"],"panda":["a big black and white bear from China","熊貓"],"pardon":["to forgive someone","原諒，寬恕"],"parrot":["a colorful bird that can copy what people say","鸚鵡"],"partner":["a person you work or do something with","夥伴，搭檔"],"passenger":["a person riding in a bus, train, car, or plane who is not the driver","乘客"],"path":["a small road for walking","小路，路徑"],"patient":["a person who is being treated by a doctor","病人，耐心的"],"pattern":["shapes, lines, or colors that repeat on cloth or paper","圖案，模式"],"paused":["to stop for a short time","暫停，中止"],"peace":["a time when there is no war or fighting","和平，安寧"],"peaceful":["quiet and calm","和平的，安靜的"],"pepper":["a black or white powder that makes food taste hot","胡椒，辣椒"],"perfect":["so good that it cannot be better","完美的，理想的"],"period":["a length of time; one part of a course","時期，句號"],"ruined":["to spoil or destroy something completely","毀壞，破壞"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"peaceful":["quiet and calm","和平的，安靜的"],"painful":["making you feel pain or very sad","痛苦的，疼痛的"],"perfect":["so good that it cannot be better","完美的，理想的"],"pale":["having a light or white face, often because you are sick","蒼白的，淡色的"],"passenger":["a person riding in a bus, train, car, or plane who is not the driver","乘客"],"partner":["a person you work or do something with","夥伴，搭檔"],"patient":["a person who is being treated by a doctor","病人，耐心的"],"painter":["a person who paints pictures or walls","畫家，油漆工"],"pans":["a flat metal dish with a handle for cooking","平底鍋，盆"],"paths":["a small road for walking","小路，路徑"],"pajamas":["","睡衣"],"parrots":["a colorful bird that can copy what people say","鸚鵡"],"path":["a small road for walking","小路，路徑"],"parrot":["a colorful bird that can copy what people say","鸚鵡"],"panda":["a big black and white bear from China","熊貓"],"pan":["a flat metal dish with a handle for cooking","平底鍋，盆"],"pause":["to stop for a short time","暫停，中止"],"pardon":["to forgive someone","原諒，寬恕"],"obey":["to do what someone tells you to do","服從，遵守"],"offer":["to say that you will do something for someone or give them something","提供，提議"],"pattern":["shapes, lines, or colors that repeat on cloth or paper","圖案，模式"],"period":["a length of time; one part of a course","時期，句號"],"pepper":["a black or white powder that makes food taste hot","胡椒，辣椒"],"patterns":["shapes, lines, or colors that repeat on cloth or paper","圖案，模式"],"peppers":["a black or white powder that makes food taste hot","胡椒，辣椒"],"passengers":["a person riding in a bus, train, car, or plane who is not the driver","乘客"],"periods":["a length of time; one part of a course","時期，句號"],"peace":["a time when there is no war or fighting","和平，安寧"],"paused":["to stop for a short time","暫停，中止"],"pardoned":["","原諒"],"obeyed":["to do what someone tells you to do","服從，遵守"],"offered":["to say that you will do something for someone or give them something","提供，提議"]});

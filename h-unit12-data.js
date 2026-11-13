@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "She took care of her __________ brother.【年長的】",
+    "question": "My __________ sister is three years older than I am. She is in college now.",
     "options": [
      {
       "letter": "A",
@@ -290,19 +290,19 @@ window.FLASHCARD_UNITS = {
     "vi": 0
    },
    {
-    "question": "They __________ her as the new president.【選舉，選擇】",
+    "question": "The students will __________ a class leader tomorrow. Everyone has one vote.",
     "options": [
      {
       "letter": "A",
-      "text": "embarrassed"
+      "text": "embarrass"
      },
      {
       "letter": "B",
-      "text": "emphasized"
+      "text": "employ"
      },
      {
       "letter": "C",
-      "text": "elected"
+      "text": "elect"
      },
      {
       "letter": "D",
@@ -313,122 +313,122 @@ window.FLASHCARD_UNITS = {
     "vi": 1
    },
    {
-    "question": "They bought an __________ car.【電的，電動的】",
+    "question": "An __________ car doesn't need gas. You just plug it in at night.",
     "options": [
      {
       "letter": "A",
-      "text": "empty"
-     },
-     {
-      "letter": "B",
       "text": "electric"
      },
      {
+      "letter": "B",
+      "text": "elder"
+     },
+     {
       "letter": "C",
-      "text": "energetic"
+      "text": "empty"
      },
      {
       "letter": "D",
       "text": "equal"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 2
    },
    {
-    "question": "His comments __________ her.【使尷尬】",
+    "question": "Please don't __________ me in front of my friends. Don't show them my baby photos!",
     "options": [
      {
       "letter": "A",
-      "text": "embarrassed"
+      "text": "elect"
      },
      {
       "letter": "B",
-      "text": "emphasized"
+      "text": "embarrass"
      },
      {
       "letter": "C",
-      "text": "elected"
+      "text": "employ"
      },
      {
       "letter": "D",
-      "text": "envy"
-     }
-    ],
-    "answer": "A",
-    "vi": 3
-   },
-   {
-    "question": "She couldn't hide her __________.【情感，情緒】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "enemies"
-     },
-     {
-      "letter": "B",
-      "text": "emotions"
-     },
-     {
-      "letter": "C",
-      "text": "errors"
-     },
-     {
-      "letter": "D",
-      "text": "engine"
+      "text": "emphasize"
      }
     ],
     "answer": "B",
-    "vi": 4
+    "vi": 3
    },
    {
-    "question": "The teacher __________ the importance of studying hard.【強調】",
+    "question": "Boys often hide their __________. They don't like to show that they are sad or afraid.",
     "options": [
      {
       "letter": "A",
-      "text": "elected"
+      "text": "engines"
      },
      {
       "letter": "B",
-      "text": "embarrassed"
+      "text": "entrances"
      },
      {
       "letter": "C",
-      "text": "employ"
+      "text": "emotions"
      },
      {
       "letter": "D",
-      "text": "emphasized"
-     }
-    ],
-    "answer": "D",
-    "vi": 5
-   },
-   {
-    "question": "The company plans to __________ 100 new workers.【雇用】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "envy"
-     },
-     {
-      "letter": "B",
-      "text": "embarrassed"
-     },
-     {
-      "letter": "C",
-      "text": "employ"
-     },
-     {
-      "letter": "D",
-      "text": "elected"
+      "text": "errors"
      }
     ],
     "answer": "C",
+    "vi": 4
+   },
+   {
+    "question": "The teacher __________ the word \"important\" three times. She wanted us to remember it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "elected"
+     },
+     {
+      "letter": "B",
+      "text": "emphasized"
+     },
+     {
+      "letter": "C",
+      "text": "employed"
+     },
+     {
+      "letter": "D",
+      "text": "envied"
+     }
+    ],
+    "answer": "B",
+    "vi": 5
+   },
+   {
+    "question": "The new factory will __________ five hundred workers. Many people will have jobs.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "elect"
+     },
+     {
+      "letter": "B",
+      "text": "embarrass"
+     },
+     {
+      "letter": "C",
+      "text": "envy"
+     },
+     {
+      "letter": "D",
+      "text": "employ"
+     }
+    ],
+    "answer": "D",
     "vi": 6
    },
    {
-    "question": "The room was completely __________.【空的，無人的】",
+    "question": "The bottle is __________. There is no water in it.",
     "options": [
      {
       "letter": "A",
@@ -440,7 +440,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "energetic"
+      "text": "elder"
      },
      {
       "letter": "D",
@@ -451,19 +451,19 @@ window.FLASHCARD_UNITS = {
     "vi": 7
    },
    {
-    "question": "He made many __________ during the war.【敵人】",
+    "question": "The two countries were __________ during the war. Now they are good friends.",
     "options": [
      {
       "letter": "A",
-      "text": "emotions"
+      "text": "engines"
      },
      {
       "letter": "B",
-      "text": "errors"
+      "text": "entrances"
      },
      {
       "letter": "C",
-      "text": "environment"
+      "text": "events"
      },
      {
       "letter": "D",
@@ -474,57 +474,34 @@ window.FLASHCARD_UNITS = {
     "vi": 8
    },
    {
-    "question": "She is always so __________.【精力充沛的】",
+    "question": "The children are so __________. They have been running and playing for three hours.",
     "options": [
      {
       "letter": "A",
-      "text": "equal"
+      "text": "empty"
      },
      {
       "letter": "B",
-      "text": "elder"
-     },
-     {
-      "letter": "C",
       "text": "energetic"
      },
      {
+      "letter": "C",
+      "text": "elder"
+     },
+     {
       "letter": "D",
-      "text": "empty"
+      "text": "electric"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 9
    },
    {
-    "question": "He has a lot of __________ for his age.【能量，精力】",
+    "question": "I am too tired to cook. I have no __________ left after a long day of work.",
     "options": [
      {
       "letter": "A",
-      "text": "energy"
-     },
-     {
-      "letter": "B",
-      "text": "environment"
-     },
-     {
-      "letter": "C",
-      "text": "entrance"
-     },
-     {
-      "letter": "D",
-      "text": "event"
-     }
-    ],
-    "answer": "A",
-    "vi": 10
-   },
-   {
-    "question": "The car's __________ is very powerful.【引擎，發動機】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "event"
+      "text": "enemy"
      },
      {
       "letter": "B",
@@ -532,53 +509,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "environment"
-     },
-     {
-      "letter": "D",
-      "text": "entrance"
-     }
-    ],
-    "answer": "B",
-    "vi": 11
-   },
-   {
-    "question": "The __________ to the building is around the corner.【入口】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "engine"
-     },
-     {
-      "letter": "B",
       "text": "energy"
      },
      {
-      "letter": "C",
-      "text": "entrance"
-     },
-     {
       "letter": "D",
-      "text": "event"
+      "text": "entrance"
      }
     ],
     "answer": "C",
-    "vi": 12
+    "vi": 10
    },
    {
-    "question": "We need to protect the __________.【環境】",
+    "question": "The car's __________ is making a strange noise. I think we need to take it to the garage.",
     "options": [
      {
       "letter": "A",
-      "text": "environment"
+      "text": "engine"
      },
      {
       "letter": "B",
-      "text": "energy"
+      "text": "enemy"
      },
      {
       "letter": "C",
-      "text": "engine"
+      "text": "energy"
      },
      {
       "letter": "D",
@@ -586,56 +540,102 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "A",
-    "vi": 13
+    "vi": 11
    },
    {
-    "question": "She couldn't help but __________ her friend's success.【嫉妒，羨慕】",
+    "question": "I will wait for you at the __________ of the zoo. Let's go in together.",
     "options": [
      {
       "letter": "A",
-      "text": "employ"
+      "text": "engine"
      },
      {
       "letter": "B",
-      "text": "embarrassed"
+      "text": "entrance"
      },
      {
       "letter": "C",
-      "text": "elected"
+      "text": "enemy"
      },
      {
       "letter": "D",
-      "text": "envy"
-     }
-    ],
-    "answer": "D",
-    "vi": 14
-   },
-   {
-    "question": "All people are created __________.【平等的，相等的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "elder"
-     },
-     {
-      "letter": "B",
-      "text": "equal"
-     },
-     {
-      "letter": "C",
-      "text": "electric"
-     },
-     {
-      "letter": "D",
-      "text": "energetic"
+      "text": "error"
      }
     ],
     "answer": "B",
+    "vi": 12
+   },
+   {
+    "question": "We must protect the __________. Don't throw trash into rivers or cut down too many trees.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "entrance"
+     },
+     {
+      "letter": "B",
+      "text": "engine"
+     },
+     {
+      "letter": "C",
+      "text": "enemy"
+     },
+     {
+      "letter": "D",
+      "text": "environment"
+     }
+    ],
+    "answer": "D",
+    "vi": 13
+   },
+   {
+    "question": "I __________ you! You are going to Japan for two weeks, and I have to stay home.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "envy"
+     },
+     {
+      "letter": "B",
+      "text": "elect"
+     },
+     {
+      "letter": "C",
+      "text": "employ"
+     },
+     {
+      "letter": "D",
+      "text": "embarrass"
+     }
+    ],
+    "answer": "A",
+    "vi": 14
+   },
+   {
+    "question": "One plus three is __________ to two plus two.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "empty"
+     },
+     {
+      "letter": "B",
+      "text": "elder"
+     },
+     {
+      "letter": "C",
+      "text": "equal"
+     },
+     {
+      "letter": "D",
+      "text": "electric"
+     }
+    ],
+    "answer": "C",
     "vi": 15
    },
    {
-    "question": "The document contained several __________.【錯誤】",
+    "question": "There are three spelling __________ in your writing. Please check and fix them.",
     "options": [
      {
       "letter": "A",
@@ -643,22 +643,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "enemies"
+      "text": "events"
      },
      {
       "letter": "C",
-      "text": "emotions"
+      "text": "engines"
      },
      {
       "letter": "D",
-      "text": "engine"
+      "text": "enemies"
      }
     ],
     "answer": "A",
     "vi": 16
    },
    {
-    "question": "She loves all fruit, __________ strawberries.【特別地，尤其】",
+    "question": "I love fruit, __________ strawberries. I can eat a whole box of them.",
     "options": [
      {
       "letter": "A",
@@ -666,45 +666,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "forward"
-     },
-     {
-      "letter": "C",
       "text": "especially"
      },
      {
-      "letter": "D",
-      "text": "suddenly"
-     }
-    ],
-    "answer": "C",
-    "vi": 17
-   },
-   {
-    "question": "The concert was a major __________.【事件，活動】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "entrance"
-     },
-     {
-      "letter": "B",
-      "text": "event"
-     },
-     {
       "letter": "C",
-      "text": "engine"
+      "text": "downstairs"
      },
      {
       "letter": "D",
-      "text": "energy"
+      "text": "backward"
      }
     ],
     "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "The school sports day is a big __________. All the parents come to watch.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "error"
+     },
+     {
+      "letter": "B",
+      "text": "enemy"
+     },
+     {
+      "letter": "C",
+      "text": "event"
+     },
+     {
+      "letter": "D",
+      "text": "engine"
+     }
+    ],
+    "answer": "C",
     "vi": 18
    },
    {
-    "question": "There were flowers __________.【到處】",
+    "question": "I looked __________ for my keys, in every room and every bag, but I couldn't find them.",
     "options": [
      {
       "letter": "A",
@@ -712,11 +712,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "therefore"
+      "text": "downtown"
      },
      {
       "letter": "C",
-      "text": "rather"
+      "text": "forward"
      },
      {
       "letter": "D",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"elder":["older (of two people in a family)","年長的"],"elected":["to choose someone for a job by voting","選舉，選擇"],"electric":["using electricity to work","電的，電動的"],"embarrassed":["to make someone feel shy or silly in front of other people","使尷尬"],"emotions":["a strong feeling, like love, fear, or anger","情感，情緒"],"emphasized":["to say that something is very important","強調"],"employ":["to give someone a job and pay them","雇用"],"empty":["with nothing or nobody inside","空的，無人的"],"enemies":["a person who hates you or fights against you","敵人"],"energetic":["very active; full of energy","精力充沛的"],"energy":["the power to be active and do a lot without getting tired","能量，精力"],"engine":["the part of a car or machine that makes it move","引擎，發動機"],"entrance":["the door or gate where you go into a place","入口"],"environment":["the air, water, and land around us","環境"],"envy":["to wish you had what someone else has","嫉妒，羨慕"],"equal":["the same in size, number, or value","平等的，相等的"],"errors":["a mistake","錯誤"],"especially":["more than others; more than usual","特別地，尤其"],"event":["something important that happens","事件，活動"],"everywhere":["in all places","到處"],"forward":["toward the front","向前"],"rather":["more willingly (used with \"would\")","寧願，倒不如說"],"suddenly":["quickly and when you do not expect it","突然地，忽然"],"therefore":["so; for that reason","因此，所以"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"empty":["with nothing or nobody inside","空的，無人的"],"electric":["using electricity to work","電的，電動的"],"equal":["the same in size, number, or value","平等的，相等的"],"elder":["older (of two people in a family)","年長的"],"embarrass":["to make someone feel shy or silly in front of other people","使尷尬"],"employ":["to give someone a job and pay them","雇用"],"elect":["to choose someone for a job by voting","選舉，選擇"],"envy":["to wish you had what someone else has","嫉妒，羨慕"],"emphasize":["to say that something is very important","強調"],"engines":["the part of a car or machine that makes it move","引擎，發動機"],"entrances":["the door or gate where you go into a place","入口"],"emotions":["a strong feeling, like love, fear, or anger","情感，情緒"],"errors":["a mistake","錯誤"],"elected":["to choose someone for a job by voting","選舉，選擇"],"emphasized":["to say that something is very important","強調"],"employed":["to give someone a job and pay them","雇用"],"envied":["","嫉妒"],"events":["something important that happens","事件，活動"],"enemies":["a person who hates you or fights against you","敵人"],"energetic":["very active; full of energy","精力充沛的"],"enemy":["a person who hates you or fights against you","敵人"],"engine":["the part of a car or machine that makes it move","引擎，發動機"],"energy":["the power to be active and do a lot without getting tired","能量，精力"],"entrance":["the door or gate where you go into a place","入口"],"event":["something important that happens","事件，活動"],"error":["a mistake","錯誤"],"environment":["the air, water, and land around us","環境"],"everywhere":["in all places","到處"],"especially":["more than others; more than usual","特別地，尤其"],"downstairs":["on or to a lower floor of a building","在樓下"],"backward":["toward the back","向後地"],"downtown":["in the center of a city","市中心"],"forward":["toward the front","向前"]});

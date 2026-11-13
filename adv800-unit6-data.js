@@ -170,47 +170,47 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "She is very ______ at solving puzzles.【聰明的，靈巧的】",
+    "q": "The ______ boy fixed the broken radio by himself. He learns everything very quickly.",
     "options": [
-      "confident",
       "colorful",
+      "confident",
       "clever",
-      "diligent"
+      "careless"
     ],
     "answer": 2,
     "cn": "她在解謎方面很聰明。",
     "vocabIndex": 0
   },
   {
-    "q": "The ______ here is warm and humid.【氣候，風氣】",
+    "q": "Taiwan has a warm, wet ______. It is hot in summer and seldom snows in winter.",
     "options": [
-      "coast",
       "climate",
-      "cocoa",
-      "company"
+      "closet",
+      "coin",
+      "comment"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "這裡的氣候溫暖潮濕。",
     "vocabIndex": 1
   },
   {
-    "q": "She hung her clothes neatly in the ______.【壁櫥】",
+    "q": "Lisa hangs her dresses and coats in the ______ in her bedroom.",
     "options": [
+      "coast",
       "closet",
-      "company",
-      "concern",
-      "comment"
+      "coin",
+      "climate"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "她把衣服整齊地掛在壁櫥裡。",
     "vocabIndex": 2
   },
   {
-    "q": "The basketball team has a new ______.【教練，客車】",
+    "q": "Our basketball ______ makes us practice for two hours every day. He teaches us how to win.",
     "options": [
-      "coin",
       "coast",
-      "cola",
+      "coin",
+      "closet",
       "coach"
     ],
     "answer": 3,
@@ -218,70 +218,70 @@ const MCQS = [
     "vocabIndex": 3
   },
   {
-    "q": "They walked along the ______.【海岸】",
+    "q": "We drove along the east ______ and looked at the blue sea all the way.",
     "options": [
       "coast",
-      "comment",
-      "concern",
-      "cockroach"
+      "closet",
+      "coin",
+      "college"
     ],
     "answer": 0,
     "cn": "他們沿著海岸散步。",
     "vocabIndex": 4
   },
   {
-    "q": "There is a ______ in the kitchen.【蟑螂】",
+    "q": "I saw a brown ______ run across the kitchen floor last night. I hate that insect!",
     "options": [
-      "cocoa",
-      "cockroach",
-      "completion",
-      "coast"
+      "coach",
+      "coin",
+      "comment",
+      "cockroach"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "廚房裡有一隻蟑螂。",
     "vocabIndex": 5
   },
   {
-    "q": "She made a cup of hot ______ for breakfast.【可可，巧克力飲料】",
+    "q": "On cold winter nights, I like to drink a cup of hot ______. It tastes like chocolate.",
     "options": [
-      "cockroach",
       "cola",
-      "completion",
-      "cocoa"
+      "coin",
+      "cocoa",
+      "cotton"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "她為早餐做了一杯熱可可。",
     "vocabIndex": 6
   },
   {
-    "q": "He dropped a ______ into the vending machine.【硬幣】",
+    "q": "I put a ten-dollar ______ into the machine and got a bottle of water.",
     "options": [
       "coach",
-      "cola",
       "coin",
-      "closet"
+      "coast",
+      "comment"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "他在自動販賣機裡投了一枚硬幣。",
     "vocabIndex": 7
   },
   {
-    "q": "She ordered a ______ with her meal.【可樂】",
+    "q": "I'd like a hamburger and a large ______ with ice, please. I love sweet drinks with bubbles.",
     "options": [
       "cola",
+      "cocoa",
       "coin",
-      "concern",
-      "cocoa"
+      "coast"
     ],
     "answer": 0,
     "cn": "她點了一瓶可樂和她的餐。",
     "vocabIndex": 8
   },
   {
-    "q": "He is a freshman at ______.【大學，學院】",
+    "q": "My sister finished senior high school last year. She is studying English at ______ now.",
     "options": [
-      "completion",
-      "coast",
+      "company",
+      "climate",
       "closet",
       "college"
     ],
@@ -290,119 +290,119 @@ const MCQS = [
     "vocabIndex": 9
   },
   {
-    "q": "The garden is full of ______ flowers.【色彩鮮艷的】",
+    "q": "The garden is full of ______ flowers: red, yellow, pink, and purple.",
     "options": [
+      "clever",
       "confident",
       "colorful",
-      "clever",
-      "sincere"
+      "careless"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "花園裡滿是色彩鮮艷的花朵。",
     "vocabIndex": 10
   },
   {
-    "q": "The officer ______ the troops to advance.【命令，指揮】",
+    "q": "The captain ______ his men to stop. They all stood still at once.",
     "options": [
-      "completed",
-      "complain",
+      "compared",
       "commanded",
-      "compare"
+      "complained",
+      "completed"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "軍官命令部隊前進。",
     "vocabIndex": 11
   },
   {
-    "q": "She made a ______ about the movie.【評論，意見】",
+    "q": "The teacher wrote a nice ______ on my report: \"Great job! Your writing is getting better.\"",
     "options": [
       "comment",
-      "concern",
-      "college",
-      "coast"
+      "company",
+      "coast",
+      "coin"
     ],
     "answer": 0,
     "cn": "她對這部電影發表了評論。",
     "vocabIndex": 12
   },
   {
-    "q": "He works for a multinational ______.【公司】",
+    "q": "My father works for a computer ______. It has five hundred workers and sells phones, too.",
     "options": [
-      "completion",
-      "cocoa",
+      "comment",
+      "coast",
       "company",
-      "comment"
+      "climate"
     ],
     "answer": 2,
     "cn": "他在一家跨國公司工作。",
     "vocabIndex": 13
   },
   {
-    "q": "It is interesting to ______ the two theories.【比較】",
+    "q": "Before you buy a phone, ______ the prices at different stores. One may be much cheaper.",
     "options": [
       "complain",
-      "compare",
-      "commanded",
-      "completed"
+      "command",
+      "complete",
+      "compare"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "比較這兩個理論是很有趣的。",
     "vocabIndex": 14
   },
   {
-    "q": "Customers often ______ about the service.【抱怨】",
+    "q": "The neighbors often ______ about the noise from our dog. They say they can't sleep.",
     "options": [
       "compare",
-      "commanded",
-      "completed",
-      "complain"
+      "complain",
+      "command",
+      "complete"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "顧客經常抱怨服務。",
     "vocabIndex": 15
   },
   {
-    "q": "She ______ the assignment on time.【完成，完整的】",
+    "q": "You must ______ the test in fifty minutes. Don't leave any questions without answers.",
     "options": [
-      "commanded",
-      "compare",
-      "completed",
-      "complain"
+      "complain",
+      "command",
+      "complete",
+      "compare"
     ],
     "answer": 2,
     "cn": "她按時完成了作業。",
     "vocabIndex": 16
   },
   {
-    "q": "The ______ of the project took two years.【完成，結束】",
+    "q": "The ______ of the new bridge will take two more years. People can't wait to use it.",
     "options": [
-      "completion",
-      "company",
       "concern",
-      "cocoa"
+      "completion",
+      "comment",
+      "climate"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "專案的完成花了兩年時間。",
     "vocabIndex": 17
   },
   {
-    "q": "Her main ______ is her child's safety.【擔心，關心】",
+    "q": "The mother's biggest ______ is her son's health. He has been sick for a month.",
     "options": [
-      "cola",
       "concern",
-      "comment",
-      "coast"
+      "completion",
+      "coast",
+      "coin"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "她主要擔心的是孩子的安全。",
     "vocabIndex": 18
   },
   {
-    "q": "He feels ______ about his abilities.【自信的】",
+    "q": "Amy practiced her speech fifty times, so she feels ______. She knows she will do well.",
     "options": [
       "colorful",
-      "clever",
-      "maximum",
+      "careless",
+      "bitter",
       "confident"
     ],
     "answer": 3,
@@ -412,10 +412,25 @@ const MCQS = [
 ];
 
 const LOOKUP = {
+  "colorful": {
+    "pos": "adj.",
+    "en_def": "having many bright colors",
+    "cn_def": "色彩鮮艷的"
+  },
+  "confident": {
+    "pos": "adj.",
+    "en_def": "sure that you can do something well",
+    "cn_def": "自信的"
+  },
   "clever": {
     "pos": "adj.",
     "en_def": "smart; quick to learn and understand",
     "cn_def": "聰明的，靈巧的"
+  },
+  "careless": {
+    "pos": "adj.",
+    "en_def": "not thinking about what you are doing, so you make mistakes",
+    "cn_def": "粗心的"
   },
   "climate": {
     "pos": "n.",
@@ -427,67 +442,67 @@ const LOOKUP = {
     "en_def": "a small room or tall box for keeping clothes",
     "cn_def": "壁櫥"
   },
-  "coach": {
-    "pos": "n.",
-    "en_def": "a person who teaches and trains a sports team",
-    "cn_def": "教練，客車"
-  },
-  "coast": {
-    "pos": "n.",
-    "en_def": "the land next to the sea",
-    "cn_def": "海岸"
-  },
-  "cockroach": {
-    "pos": "n.",
-    "en_def": "a brown insect that lives in dirty or warm places in houses",
-    "cn_def": "蟑螂"
-  },
-  "cocoa": {
-    "pos": "n.",
-    "en_def": "a hot drink made from chocolate powder",
-    "cn_def": "可可，巧克力飲料"
-  },
   "coin": {
     "pos": "n.",
     "en_def": "a piece of money made of metal",
     "cn_def": "硬幣"
-  },
-  "cola": {
-    "pos": "n.",
-    "en_def": "a sweet brown drink with bubbles",
-    "cn_def": "可樂"
-  },
-  "college": {
-    "pos": "n.",
-    "en_def": "a school where people study after high school",
-    "cn_def": "大學，學院"
-  },
-  "colorful": {
-    "pos": "adj.",
-    "en_def": "having many bright colors",
-    "cn_def": "色彩鮮艷的"
-  },
-  "commanded": {
-    "pos": "v.",
-    "en_def": "to tell someone that they must do something",
-    "cn_def": "命令，指揮"
   },
   "comment": {
     "pos": "n.",
     "en_def": "something you say that gives your opinion",
     "cn_def": "評論，意見"
   },
+  "coast": {
+    "pos": "n.",
+    "en_def": "the land next to the sea",
+    "cn_def": "海岸"
+  },
+  "coach": {
+    "pos": "n.",
+    "en_def": "a person who teaches and trains a sports team",
+    "cn_def": "教練，客車"
+  },
+  "college": {
+    "pos": "n.",
+    "en_def": "a school where people study after high school",
+    "cn_def": "大學，學院"
+  },
+  "cockroach": {
+    "pos": "n.",
+    "en_def": "a brown insect that lives in dirty or warm places in houses",
+    "cn_def": "蟑螂"
+  },
+  "cola": {
+    "pos": "n.",
+    "en_def": "a sweet brown drink with bubbles",
+    "cn_def": "可樂"
+  },
+  "cocoa": {
+    "pos": "n.",
+    "en_def": "a hot drink made from chocolate powder",
+    "cn_def": "可可，巧克力飲料"
+  },
+  "cotton": {
+    "pos": "n.",
+    "en_def": "soft white material from a plant, used to make clothes",
+    "cn_def": "棉花"
+  },
   "company": {
     "pos": "n.",
     "en_def": "a group of people who work together to make or sell things",
     "cn_def": "公司"
   },
-  "compare": {
+  "compared": {
     "pos": "v.",
     "en_def": "to look at two things to see how they are the same or different",
     "cn_def": "比較"
   },
-  "complain": {
+  "commanded": {
+    "pos": "v.",
+    "en_def": "to tell someone that they must do something",
+    "cn_def": "命令，指揮"
+  },
+  "complained": {
     "pos": "v.",
     "en_def": "to say that you are not happy about something",
     "cn_def": "抱怨"
@@ -497,35 +512,40 @@ const LOOKUP = {
     "en_def": "to finish something",
     "cn_def": "完成，完整的"
   },
-  "completion": {
-    "pos": "n.",
-    "en_def": "the act of finishing something",
-    "cn_def": "完成，結束"
+  "complain": {
+    "pos": "v.",
+    "en_def": "to say that you are not happy about something",
+    "cn_def": "抱怨"
+  },
+  "command": {
+    "pos": "v.",
+    "en_def": "to tell someone that they must do something",
+    "cn_def": "命令，指揮"
+  },
+  "complete": {
+    "pos": "v.",
+    "en_def": "to finish something",
+    "cn_def": "完成，完整的"
+  },
+  "compare": {
+    "pos": "v.",
+    "en_def": "to look at two things to see how they are the same or different",
+    "cn_def": "比較"
   },
   "concern": {
     "pos": "n.",
     "en_def": "something that you worry or care about",
     "cn_def": "擔心，關心"
   },
-  "confident": {
-    "pos": "adj.",
-    "en_def": "sure that you can do something well",
-    "cn_def": "自信的"
+  "completion": {
+    "pos": "n.",
+    "en_def": "the act of finishing something",
+    "cn_def": "完成，結束"
   },
-  "diligent": {
+  "bitter": {
     "pos": "adj.",
-    "en_def": "working hard and carefully",
-    "cn_def": "勤勉的，勤奮的"
-  },
-  "maximum": {
-    "pos": "adj.",
-    "en_def": "the largest that is possible or allowed",
-    "cn_def": "最大的，最高的"
-  },
-  "sincere": {
-    "pos": "adj.",
-    "en_def": "really meaning what you say; honest",
-    "cn_def": "真誠的，誠懇的"
+    "en_def": "having a strong taste that is not sweet, like black coffee",
+    "cn_def": "苦的，痛苦的"
   }
 };
 

@@ -175,215 +175,215 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "The instructions ______ me.【使困惑，混淆】",
+    "q": "The two road signs ______ drivers. One says \"turn left,\" and the other says \"turn right.\"",
     "options": [
+      "continue",
       "control",
       "confuse",
-      "consider",
-      "continue"
+      "cough"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "這些說明讓我很困惑。",
     "vocabIndex": 0
   },
   {
-    "q": "______ on your new job!【祝賀，恭喜】",
+    "q": "\"______ on winning first prize!\" \"Thank you. I am so happy.\"",
     "options": [
+      "Conversations",
       "Congratulations",
-      "Contact lenses",
-      "Crayons",
-      "Crab"
+      "Contracts",
+      "Couples"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "恭喜你找到新工作！",
     "vocabIndex": 1
   },
   {
-    "q": "Please ______ my proposal carefully.【考慮】",
+    "q": "Please ______ my idea carefully. Think about it for a few days before you answer.",
     "options": [
-      "continue",
-      "confuse",
+      "consider",
       "cough",
-      "consider"
+      "confuse",
+      "continue"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "請仔細考慮我的建議。",
     "vocabIndex": 2
   },
   {
-    "q": "He is always ______ of others' feelings.【體貼的】",
+    "q": "Tom is very ______. He always thinks about what other people need.",
     "options": [
-      "peaceful",
-      "maximum",
-      "considerate",
-      "necessary"
+      "crowded",
+      "cruel",
+      "careless",
+      "considerate"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "他總是體貼別人的感受。",
     "vocabIndex": 3
   },
   {
-    "q": "She wears ______ instead of glasses.【隱形眼鏡】",
+    "q": "I don't like wearing glasses, so I wear ______. I put them on my eyes every morning.",
     "options": [
-      "congratulations",
-      "crayons",
-      "convenience store",
-      "contact lenses"
+      "convenience stores",
+      "cowboys",
+      "contact lenses",
+      "crayons"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "她戴隱形眼鏡而不是眼鏡。",
     "vocabIndex": 4
   },
   {
-    "q": "Let's ______ our discussion after lunch.【繼續】",
+    "q": "Let's stop for lunch now. We will ______ the meeting at two o'clock.",
     "options": [
       "continue",
-      "consider",
       "confuse",
-      "cough"
+      "cough",
+      "control"
     ],
     "answer": 0,
     "cn": "午飯後我們繼續討論。",
     "vocabIndex": 5
   },
   {
-    "q": "He signed a ______ with the new company.【合約】",
+    "q": "The basketball player signed a three-year ______ with the team. He will get ten million dollars.",
     "options": [
-      "cop",
-      "contract",
       "conversation",
-      "cowboy"
+      "contract",
+      "couple",
+      "court"
     ],
     "answer": 1,
     "cn": "他與新公司簽訂了合約。",
     "vocabIndex": 6
   },
   {
-    "q": "You need to ______ your emotions better.【控制】",
+    "q": "The teacher can't ______ the noisy class. The students won't sit down or be quiet.",
     "options": [
       "cough",
       "continue",
-      "control",
-      "consider"
+      "consider",
+      "control"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "你需要更好地控制你的情緒。",
     "vocabIndex": 7
   },
   {
-    "q": "There is a ______ on every corner.【便利商店】",
+    "q": "I bought a bottle of water at the ______ on the corner. It is open twenty-four hours a day.",
     "options": [
-      "couple",
-      "cop",
-      "court",
-      "convenience store"
+      "conversation",
+      "contact lens",
+      "convenience store",
+      "court"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "每個街角都有一家便利商店。",
     "vocabIndex": 8
   },
   {
-    "q": "They had a long ______ about their plans.【會話，對話】",
+    "q": "I had a long ______ with my teacher about my future. We talked for an hour.",
     "options": [
+      "contract",
       "conversation",
-      "crab",
-      "cowboy",
-      "convenience store"
+      "cotton",
+      "corn"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "他們就計劃進行了長時間的對話。",
     "vocabIndex": 9
   },
   {
-    "q": "The ______ caught the thief.【警察】",
+    "q": "A ______ stopped the driver for going too fast. He gave the man a ticket.",
     "options": [
       "crab",
       "couple",
-      "cop",
-      "conversation"
+      "cowboy",
+      "cop"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "警察抓住了小偷。",
     "vocabIndex": 10
   },
   {
-    "q": "She likes to eat ______ on the cob.【玉米】",
+    "q": "Popcorn is made from ______. This yellow vegetable is also good in soup.",
     "options": [
-      "convenience store",
       "corn",
-      "couple",
-      "cowboy"
+      "cotton",
+      "court",
+      "courage"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "她喜歡吃玉米棒子。",
     "vocabIndex": 11
   },
   {
-    "q": "The shirt is made of 100% ______.【棉花】",
+    "q": "This T-shirt is made of ______. It is soft and cool to wear in summer.",
     "options": [
-      "crab",
-      "couple",
-      "cotton",
-      "contract"
+      "corn",
+      "court",
+      "courage",
+      "cotton"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "這件襯衫是100%棉的。",
     "vocabIndex": 12
   },
   {
-    "q": "He started to ______ after inhaling the smoke.【咳嗽】",
+    "q": "Cover your mouth when you ______. Other people don't want to catch your cold.",
     "options": [
       "consider",
-      "cough",
       "continue",
+      "cough",
       "control"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "他吸入煙霧後開始咳嗽。",
     "vocabIndex": 13
   },
   {
-    "q": "The young ______ moved into a new apartment.【一對，夫婦】",
+    "q": "The young ______ got married last month. They are very much in love.",
     "options": [
-      "cowboy",
-      "cop",
-      "courage",
-      "couple"
+      "couple",
+      "contract",
+      "court",
+      "crab"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "這對年輕夫婦搬進了一間新公寓。",
     "vocabIndex": 14
   },
   {
-    "q": "It takes a lot of ______ to speak in public.【勇氣】",
+    "q": "It takes ______ to speak in front of five hundred people. I was afraid, but I did it.",
     "options": [
+      "cotton",
       "courage",
-      "cop",
-      "couple",
-      "conversation"
+      "corn",
+      "court"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "在公共場合講話需要很大的勇氣。",
     "vocabIndex": 15
   },
   {
-    "q": "The case was brought to ______.【法庭，球場】",
+    "q": "The players ran onto the basketball ______, and the game began.",
     "options": [
-      "cop",
-      "court",
       "couple",
-      "corn"
+      "cotton",
+      "court",
+      "contract"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "這個案子被提到了法庭。",
     "vocabIndex": 16
   },
   {
-    "q": "He dressed up as a ______ for the party.【牛仔】",
+    "q": "In the movie, the ______ rides a horse and wears a big hat. He takes care of cows.",
     "options": [
+      "cop",
       "crab",
-      "cotton",
-      "courage",
+      "couple",
       "cowboy"
     ],
     "answer": 3,
@@ -391,24 +391,24 @@ const MCQS = [
     "vocabIndex": 17
   },
   {
-    "q": "They caught a large ______ by the shore.【螃蟹】",
+    "q": "A ______ has a hard shell and ten legs. It walks sideways on the beach.",
     "options": [
-      "couple",
-      "conversation",
+      "cop",
       "crab",
-      "convenience store"
+      "cowboy",
+      "crayon"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "他們在岸邊抓到了一隻大螃蟹。",
     "vocabIndex": 18
   },
   {
-    "q": "She drew a picture with ______.【蠟筆】",
+    "q": "The little girl drew a picture with her ______. She used the red, blue, and green ones.",
     "options": [
       "crayons",
-      "congratulations",
-      "contact lenses",
-      "crab"
+      "crabs",
+      "couples",
+      "courts"
     ],
     "answer": 0,
     "cn": "她用蠟筆畫了一幅畫。",
@@ -417,120 +417,165 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "confuse": {
-    "pos": "v.",
-    "en_def": "to make someone unable to understand",
-    "cn_def": "使困惑，混淆"
-  },
-  "congratulations": {
-    "pos": "n.",
-    "en_def": "words you say to someone when something good happens to them",
-    "cn_def": "祝賀，恭喜"
-  },
-  "consider": {
-    "pos": "v.",
-    "en_def": "to think about something carefully",
-    "cn_def": "考慮"
-  },
-  "considerate": {
-    "pos": "adj.",
-    "en_def": "always thinking about what other people need or feel",
-    "cn_def": "體貼的"
-  },
-  "contact lenses": {
-    "pos": "n.",
-    "en_def": "a small round piece of plastic you put on your eye to see better",
-    "cn_def": "隱形眼鏡"
-  },
   "continue": {
     "pos": "v.",
     "en_def": "to keep doing something; to not stop",
     "cn_def": "繼續"
-  },
-  "contract": {
-    "pos": "n.",
-    "en_def": "a paper that two people or companies sign to agree on something",
-    "cn_def": "合約"
   },
   "control": {
     "pos": "v.",
     "en_def": "to have the power to make something do what you want",
     "cn_def": "控制"
   },
-  "convenience store": {
-    "pos": "n.",
-    "en_def": "a small shop that is open all day and night",
-    "cn_def": "便利商店"
-  },
-  "conversation": {
-    "pos": "n.",
-    "en_def": "a talk between two or more people",
-    "cn_def": "會話，對話"
-  },
-  "cop": {
-    "pos": "n.",
-    "en_def": "a police officer",
-    "cn_def": "警察"
-  },
-  "corn": {
-    "pos": "n.",
-    "en_def": "a tall plant with yellow seeds that people eat",
-    "cn_def": "玉米"
-  },
-  "cotton": {
-    "pos": "n.",
-    "en_def": "soft white material from a plant, used to make clothes",
-    "cn_def": "棉花"
+  "confuse": {
+    "pos": "v.",
+    "en_def": "to make someone unable to understand",
+    "cn_def": "使困惑，混淆"
   },
   "cough": {
     "pos": "v.",
     "en_def": "to push air out of your throat with a sudden, rough sound",
     "cn_def": "咳嗽"
   },
-  "couple": {
+  "conversations": {
+    "pos": "n.",
+    "en_def": "a talk between two or more people",
+    "cn_def": "會話，對話"
+  },
+  "congratulations": {
+    "pos": "n.",
+    "en_def": "words you say to someone when something good happens to them",
+    "cn_def": "祝賀，恭喜"
+  },
+  "contracts": {
+    "pos": "n.",
+    "en_def": "a paper that two people or companies sign to agree on something",
+    "cn_def": "合約"
+  },
+  "couples": {
     "pos": "n.",
     "en_def": "two people who are married or in love",
     "cn_def": "一對，夫婦"
   },
-  "courage": {
-    "pos": "n.",
-    "en_def": "being brave when you are afraid",
-    "cn_def": "勇氣"
+  "consider": {
+    "pos": "v.",
+    "en_def": "to think about something carefully",
+    "cn_def": "考慮"
   },
-  "court": {
-    "pos": "n.",
-    "en_def": "the place where a judge decides if someone broke the law",
-    "cn_def": "法庭，球場"
+  "crowded": {
+    "pos": "adj.",
+    "en_def": "full of people",
+    "cn_def": "擁擠的"
   },
-  "cowboy": {
+  "cruel": {
+    "pos": "adj.",
+    "en_def": "making people or animals suffer; very unkind",
+    "cn_def": "殘酷的，無情的"
+  },
+  "careless": {
+    "pos": "adj.",
+    "en_def": "not thinking about what you are doing, so you make mistakes",
+    "cn_def": "粗心的"
+  },
+  "considerate": {
+    "pos": "adj.",
+    "en_def": "always thinking about what other people need or feel",
+    "cn_def": "體貼的"
+  },
+  "convenience stores": {
+    "pos": "n.",
+    "en_def": "a small shop that is open all day and night",
+    "cn_def": "便利商店"
+  },
+  "cowboys": {
     "pos": "n.",
     "en_def": "a man who rides a horse and takes care of cows",
     "cn_def": "牛仔"
   },
-  "crab": {
+  "contact lenses": {
     "pos": "n.",
-    "en_def": "a sea animal with a hard shell and ten legs that walks sideways",
-    "cn_def": "螃蟹"
+    "en_def": "a small round piece of plastic you put on your eye to see better",
+    "cn_def": "隱形眼鏡"
   },
   "crayons": {
     "pos": "n.",
     "en_def": "a stick of colored wax for drawing",
     "cn_def": "蠟筆"
   },
-  "maximum": {
-    "pos": "adj.",
-    "en_def": "the largest that is possible or allowed",
-    "cn_def": "最大的，最高的"
+  "conversation": {
+    "pos": "n.",
+    "en_def": "a talk between two or more people",
+    "cn_def": "會話，對話"
   },
-  "necessary": {
-    "pos": "adj.",
-    "en_def": "needed; that you must have or do",
-    "cn_def": "必要的"
+  "contract": {
+    "pos": "n.",
+    "en_def": "a paper that two people or companies sign to agree on something",
+    "cn_def": "合約"
   },
-  "peaceful": {
-    "pos": "adj.",
-    "en_def": "quiet and calm",
-    "cn_def": "和平的，安靜的"
+  "couple": {
+    "pos": "n.",
+    "en_def": "two people who are married or in love",
+    "cn_def": "一對，夫婦"
+  },
+  "court": {
+    "pos": "n.",
+    "en_def": "the place where a judge decides if someone broke the law",
+    "cn_def": "法庭，球場"
+  },
+  "contact lens": {
+    "pos": "n.",
+    "en_def": "a small round piece of plastic you put on your eye to see better",
+    "cn_def": "隱形眼鏡"
+  },
+  "convenience store": {
+    "pos": "n.",
+    "en_def": "a small shop that is open all day and night",
+    "cn_def": "便利商店"
+  },
+  "cotton": {
+    "pos": "n.",
+    "en_def": "soft white material from a plant, used to make clothes",
+    "cn_def": "棉花"
+  },
+  "corn": {
+    "pos": "n.",
+    "en_def": "a tall plant with yellow seeds that people eat",
+    "cn_def": "玉米"
+  },
+  "crab": {
+    "pos": "n.",
+    "en_def": "a sea animal with a hard shell and ten legs that walks sideways",
+    "cn_def": "螃蟹"
+  },
+  "cowboy": {
+    "pos": "n.",
+    "en_def": "a man who rides a horse and takes care of cows",
+    "cn_def": "牛仔"
+  },
+  "cop": {
+    "pos": "n.",
+    "en_def": "a police officer",
+    "cn_def": "警察"
+  },
+  "courage": {
+    "pos": "n.",
+    "en_def": "being brave when you are afraid",
+    "cn_def": "勇氣"
+  },
+  "crayon": {
+    "pos": "n.",
+    "en_def": "a stick of colored wax for drawing",
+    "cn_def": "蠟筆"
+  },
+  "crabs": {
+    "pos": "n.",
+    "en_def": "a sea animal with a hard shell and ten legs that walks sideways",
+    "cn_def": "螃蟹"
+  },
+  "courts": {
+    "pos": "n.",
+    "en_def": "the place where a judge decides if someone broke the law",
+    "cn_def": "法庭，球場"
   }
 };
 

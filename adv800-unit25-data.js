@@ -171,107 +171,107 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "It was a ______ experience.【痛苦的，疼痛的】",
+    "q": "My broken arm is very ______. I can't sleep at night.",
     "options": [
+      "peaceful",
       "painful",
-      "pale",
       "perfect",
-      "peaceful"
+      "pale"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "這是一個痛苦的經歷。",
     "vocabIndex": 0
   },
   {
-    "q": "The ______ is working on a new piece.【畫家，油漆工】",
+    "q": "The ______ is making a picture of the mountains. He uses a brush and many colors.",
     "options": [
+      "passenger",
       "partner",
-      "painter",
-      "pepper",
-      "peace"
+      "patient",
+      "painter"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "畫家正在創作一幅新作品。",
     "vocabIndex": 1
   },
   {
-    "q": "She wore her favorite ______.【睡衣】",
+    "q": "I put on my ______ and went to bed at ten.",
     "options": [
-      "pattern",
-      "period",
-      "partner",
-      "pajamas"
+      "pans",
+      "paths",
+      "pajamas",
+      "parrots"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "她穿著她最喜歡的睡衣。",
     "vocabIndex": 2
   },
   {
-    "q": "He looked very ______ after being sick.【蒼白的，淡色的】",
+    "q": "You look ______. Your face is white. Are you sick?",
     "options": [
-      "peaceful",
-      "perfect",
       "pale",
-      "painful"
+      "painful",
+      "peaceful",
+      "perfect"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他病後看起來很蒼白。",
     "vocabIndex": 3
   },
   {
-    "q": "She fried the eggs in a ______.【平底鍋，盆】",
+    "q": "Dad fried two eggs in a ______.",
     "options": [
-      "painter",
-      "pan",
-      "passenger",
-      "panda"
+      "path",
+      "parrot",
+      "panda",
+      "pan"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她用平底鍋煎蛋。",
     "vocabIndex": 4
   },
   {
-    "q": "The ______ is a symbol of China.【熊貓】",
+    "q": "A ______ is a black and white bear from China. It loves to eat bamboo.",
     "options": [
-      "partner",
-      "period",
-      "path",
-      "panda"
+      "parrot",
+      "painter",
+      "panda",
+      "partner"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "熊貓是中國的象徵。",
     "vocabIndex": 5
   },
   {
-    "q": "She asked him to ______ her mistake.【原諒，寬恕】",
+    "q": "Please ______ me for being late. The bus didn't come on time.",
     "options": [
-      "paused",
-      "gain",
+      "pause",
       "pardon",
-      "develop"
+      "obey",
+      "offer"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她請求他原諒她的錯誤。",
     "vocabIndex": 6
   },
   {
-    "q": "There is a ______ behind the building.【停車場】",
+    "q": "The supermarket has a big ______. You can leave your car there for free.",
     "options": [
       "parking lot",
-      "pan",
-      "pepper",
-      "passenger"
+      "pattern",
+      "period",
+      "path"
     ],
     "answer": 0,
     "cn": "建築物後面有一個停車場。",
     "vocabIndex": 7
   },
   {
-    "q": "The ______ can mimic human speech.【鸚鵡】",
+    "q": "My ______ can say \"hello\" and \"good-bye.\" It is a very smart bird.",
     "options": [
-      "period",
+      "panda",
+      "painter",
       "passenger",
-      "partner",
       "parrot"
     ],
     "answer": 3,
@@ -279,132 +279,132 @@ const MCQS = [
     "vocabIndex": 8
   },
   {
-    "q": "She is my business ______.【夥伴，搭檔】",
+    "q": "Amy is my dance ______. We always practice together.",
     "options": [
-      "pattern",
-      "period",
       "partner",
+      "pattern",
+      "path",
       "pepper"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "她是我的商業夥伴。",
     "vocabIndex": 9
   },
   {
-    "q": "The ______ boarded the bus.【乘客】",
+    "q": "There were forty ______ on the bus. The driver told them to sit down.",
     "options": [
-      "passenger",
-      "peace",
-      "period",
-      "parking lot"
+      "patterns",
+      "peppers",
+      "passengers",
+      "periods"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "乘客上了公車。",
     "vocabIndex": 10
   },
   {
-    "q": "They walked along the garden ______.【小路，路徑】",
+    "q": "We walked along a small ______ through the forest. Cars can't use it.",
     "options": [
-      "painter",
+      "pan",
       "path",
-      "patient",
-      "panda"
+      "pattern",
+      "peace"
     ],
     "answer": 1,
     "cn": "他們沿著花園的小路散步。",
     "vocabIndex": 11
   },
   {
-    "q": "The doctor treated the ______.【病人，耐心的】",
+    "q": "The doctor is seeing a ______ now. The sick man has a high fever.",
     "options": [
-      "patient",
-      "period",
-      "path",
-      "peace"
+      "painter",
+      "passenger",
+      "partner",
+      "patient"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "醫生治療病人。",
     "vocabIndex": 12
   },
   {
-    "q": "The dress has a beautiful floral ______.【圖案，模式】",
+    "q": "I like the ______ on your dress. The little blue flowers are very pretty.",
     "options": [
-      "painter",
+      "path",
       "pattern",
-      "passenger",
-      "pepper"
+      "pepper",
+      "peace"
     ],
     "answer": 1,
     "cn": "這件連衣裙有一個美麗的花卉圖案。",
     "vocabIndex": 13
   },
   {
-    "q": "She ______ to catch her breath.【暫停，中止】",
+    "q": "The speaker ______ for a moment to drink some water. Then he went on.",
     "options": [
-      "pardon",
-      "ruined",
-      "decorated",
-      "paused"
+      "paused",
+      "pardoned",
+      "obeyed",
+      "offered"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "她停下來喘口氣。",
     "vocabIndex": 14
   },
   {
-    "q": "They prayed for ______.【和平，安寧】",
+    "q": "After the long war, the two countries finally lived in ______.",
     "options": [
-      "patient",
-      "period",
+      "pepper",
+      "pattern",
       "peace",
-      "painter"
+      "path"
     ],
     "answer": 2,
     "cn": "他們祈求和平。",
     "vocabIndex": 15
   },
   {
-    "q": "It was a ______ evening.【和平的，安靜的】",
+    "q": "It is quiet and ______ in the country. There are no cars or loud noises.",
     "options": [
-      "peaceful",
+      "painful",
       "pale",
       "perfect",
-      "painful"
+      "peaceful"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "那是一個平靜的夜晚。",
     "vocabIndex": 16
   },
   {
-    "q": "She added some ______ to the soup.【胡椒，辣椒】",
+    "q": "The soup needs a little salt and ______.",
     "options": [
-      "path",
       "pepper",
-      "patient",
-      "parrot"
+      "peace",
+      "pattern",
+      "path"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "她在湯裡加了一些胡椒。",
     "vocabIndex": 17
   },
   {
-    "q": "She has a ______ record.【完美的，理想的】",
+    "q": "Your answers are all right. You got a ______ score: 100!",
     "options": [
-      "pale",
-      "peaceful",
       "painful",
-      "perfect"
+      "perfect",
+      "pale",
+      "peaceful"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "她有一個完美的記錄。",
     "vocabIndex": 18
   },
   {
-    "q": "This is the final ______ of the course.【時期，句號】",
+    "q": "We have math in the first ______ and English in the second.",
     "options": [
-      "panda",
-      "parrot",
+      "pattern",
+      "pepper",
       "period",
-      "pan"
+      "path"
     ],
     "answer": 2,
     "cn": "這是課程的最後一個階段。",
@@ -413,125 +413,170 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "decorated": {
-    "pos": "v.",
-    "en_def": "to make a place look nice by putting pretty things in it",
-    "cn_def": "裝飾"
-  },
-  "develop": {
-    "pos": "v.",
-    "en_def": "to make something new and better over time",
-    "cn_def": "發展，開發"
-  },
-  "gain": {
-    "pos": "v.",
-    "en_def": "to get something that you want or need",
-    "cn_def": "獲得，增加"
+  "peaceful": {
+    "pos": "adj.",
+    "en_def": "quiet and calm",
+    "cn_def": "和平的，安靜的"
   },
   "painful": {
     "pos": "adj.",
     "en_def": "making you feel pain or very sad",
     "cn_def": "痛苦的，疼痛的"
   },
-  "painter": {
-    "pos": "n.",
-    "en_def": "a person who paints pictures or walls",
-    "cn_def": "畫家，油漆工"
-  },
-  "pajamas": {
-    "pos": "n.",
-    "en_def": "soft clothes that you wear in bed",
-    "cn_def": "睡衣"
+  "perfect": {
+    "pos": "adj.",
+    "en_def": "so good that it cannot be better",
+    "cn_def": "完美的，理想的"
   },
   "pale": {
     "pos": "adj.",
     "en_def": "having a light or white face, often because you are sick",
     "cn_def": "蒼白的，淡色的"
   },
-  "pan": {
+  "passenger": {
     "pos": "n.",
-    "en_def": "a flat metal dish with a handle for cooking",
-    "cn_def": "平底鍋，盆"
-  },
-  "panda": {
-    "pos": "n.",
-    "en_def": "a big black and white bear from China",
-    "cn_def": "熊貓"
-  },
-  "pardon": {
-    "pos": "v.",
-    "en_def": "to forgive someone",
-    "cn_def": "原諒，寬恕"
-  },
-  "parking lot": {
-    "pos": "n.",
-    "en_def": "an open place where people leave their cars",
-    "cn_def": "停車場"
-  },
-  "parrot": {
-    "pos": "n.",
-    "en_def": "a colorful bird that can copy what people say",
-    "cn_def": "鸚鵡"
+    "en_def": "a person riding in a bus, train, car, or plane who is not the driver",
+    "cn_def": "乘客"
   },
   "partner": {
     "pos": "n.",
     "en_def": "a person you work or do something with",
     "cn_def": "夥伴，搭檔"
   },
-  "passenger": {
+  "patient": {
     "pos": "n.",
-    "en_def": "a person riding in a bus, train, car, or plane who is not the driver",
-    "cn_def": "乘客"
+    "en_def": "a person who is being treated by a doctor",
+    "cn_def": "病人，耐心的"
+  },
+  "painter": {
+    "pos": "n.",
+    "en_def": "a person who paints pictures or walls",
+    "cn_def": "畫家，油漆工"
+  },
+  "pans": {
+    "pos": "n.",
+    "en_def": "a flat metal dish with a handle for cooking",
+    "cn_def": "平底鍋，盆"
+  },
+  "paths": {
+    "pos": "n.",
+    "en_def": "a small road for walking",
+    "cn_def": "小路，路徑"
+  },
+  "pajamas": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "睡衣"
+  },
+  "parrots": {
+    "pos": "n.",
+    "en_def": "a colorful bird that can copy what people say",
+    "cn_def": "鸚鵡"
   },
   "path": {
     "pos": "n.",
     "en_def": "a small road for walking",
     "cn_def": "小路，路徑"
   },
-  "patient": {
+  "parrot": {
     "pos": "n.",
-    "en_def": "a person who is being treated by a doctor",
-    "cn_def": "病人，耐心的"
+    "en_def": "a colorful bird that can copy what people say",
+    "cn_def": "鸚鵡"
+  },
+  "panda": {
+    "pos": "n.",
+    "en_def": "a big black and white bear from China",
+    "cn_def": "熊貓"
+  },
+  "pan": {
+    "pos": "n.",
+    "en_def": "a flat metal dish with a handle for cooking",
+    "cn_def": "平底鍋，盆"
+  },
+  "pause": {
+    "pos": "v.",
+    "en_def": "to stop for a short time",
+    "cn_def": "暫停，中止"
+  },
+  "pardon": {
+    "pos": "v.",
+    "en_def": "to forgive someone",
+    "cn_def": "原諒，寬恕"
+  },
+  "obey": {
+    "pos": "v.",
+    "en_def": "to do what someone tells you to do",
+    "cn_def": "服從，遵守"
+  },
+  "offer": {
+    "pos": "v.",
+    "en_def": "to say that you will do something for someone or give them something",
+    "cn_def": "提供，提議"
+  },
+  "parking lot": {
+    "pos": "n.",
+    "en_def": "an open place where people leave their cars",
+    "cn_def": "停車場"
   },
   "pattern": {
     "pos": "n.",
     "en_def": "shapes, lines, or colors that repeat on cloth or paper",
     "cn_def": "圖案，模式"
   },
-  "paused": {
-    "pos": "v.",
-    "en_def": "to stop for a short time",
-    "cn_def": "暫停，中止"
-  },
-  "peace": {
+  "period": {
     "pos": "n.",
-    "en_def": "a time when there is no war or fighting",
-    "cn_def": "和平，安寧"
-  },
-  "peaceful": {
-    "pos": "adj.",
-    "en_def": "quiet and calm",
-    "cn_def": "和平的，安靜的"
+    "en_def": "a length of time; one part of a course",
+    "cn_def": "時期，句號"
   },
   "pepper": {
     "pos": "n.",
     "en_def": "a black or white powder that makes food taste hot",
     "cn_def": "胡椒，辣椒"
   },
-  "perfect": {
-    "pos": "adj.",
-    "en_def": "so good that it cannot be better",
-    "cn_def": "完美的，理想的"
+  "patterns": {
+    "pos": "n.",
+    "en_def": "shapes, lines, or colors that repeat on cloth or paper",
+    "cn_def": "圖案，模式"
   },
-  "period": {
+  "peppers": {
+    "pos": "n.",
+    "en_def": "a black or white powder that makes food taste hot",
+    "cn_def": "胡椒，辣椒"
+  },
+  "passengers": {
+    "pos": "n.",
+    "en_def": "a person riding in a bus, train, car, or plane who is not the driver",
+    "cn_def": "乘客"
+  },
+  "periods": {
     "pos": "n.",
     "en_def": "a length of time; one part of a course",
     "cn_def": "時期，句號"
   },
-  "ruined": {
+  "peace": {
+    "pos": "n.",
+    "en_def": "a time when there is no war or fighting",
+    "cn_def": "和平，安寧"
+  },
+  "paused": {
     "pos": "v.",
-    "en_def": "to spoil or destroy something completely",
-    "cn_def": "毀壞，破壞"
+    "en_def": "to stop for a short time",
+    "cn_def": "暫停，中止"
+  },
+  "pardoned": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "原諒"
+  },
+  "obeyed": {
+    "pos": "v.",
+    "en_def": "to do what someone tells you to do",
+    "cn_def": "服從，遵守"
+  },
+  "offered": {
+    "pos": "v.",
+    "en_def": "to say that you will do something for someone or give them something",
+    "cn_def": "提供，提議"
   }
 };
 

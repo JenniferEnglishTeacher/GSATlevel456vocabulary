@@ -170,155 +170,155 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "The ______ of the dancers was graceful.【運動，動作】",
+    "q": "The dancer's every ______ was beautiful. She moved her arms like a bird.",
     "options": [
-      "nest",
       "movement",
-      "napkin",
-      "net"
+      "nation",
+      "necklace",
+      "needle"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "舞者的動作很優美。",
     "vocabIndex": 0
   },
   {
-    "q": "They took the ______ to get to the city center.【地鐵】",
+    "q": "I take the ______ to work every day. The trains come every five minutes.",
     "options": [
-      "MRT",
-      "Nephew",
-      "Nation",
-      "Necklace"
+      "nest",
+      "net",
+      "necklace",
+      "MRT"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "他們乘地鐵去市中心。",
     "vocabIndex": 1
   },
   {
-    "q": "He is a talented ______.【音樂家，樂師】",
+    "q": "Jay Chou is a famous ______. He writes songs and plays the piano.",
     "options": [
-      "nation",
-      "necklace",
-      "MRT",
-      "musician"
+      "nephew",
+      "niece",
+      "musician",
+      "napkin"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "他是一位有才華的音樂家。",
     "vocabIndex": 2
   },
   {
-    "q": "She placed a ______ on her lap before eating.【餐巾】",
+    "q": "He cleaned his mouth with a ______ after eating the hamburger.",
     "options": [
-      "musician",
-      "net",
+      "needle",
       "napkin",
-      "needle"
+      "necklace",
+      "nest"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她在吃飯前把餐巾放在腿上。",
     "vocabIndex": 3
   },
   {
-    "q": "The path was very ______.【狹窄的，有限的】",
+    "q": "The street is too ______ for a bus. Only bikes and small cars can go through it.",
     "options": [
-      "necessary",
-      "negative",
+      "narrow",
       "natural",
-      "narrow"
+      "naughty",
+      "nervous"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "這條路很狹窄。",
     "vocabIndex": 4
   },
   {
-    "q": "They are proud of their ______.【國家】",
+    "q": "The whole ______ was happy when its team won the gold medal.",
     "options": [
-      "nation",
       "napkin",
+      "nation",
       "needle",
-      "movement"
+      "net"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "他們為自己的國家感到自豪。",
     "vocabIndex": 5
   },
   {
-    "q": "She prefers to use ______ ingredients.【自然的，天然的】",
+    "q": "This juice is ______. Nothing is added to the fresh fruit.",
     "options": [
-      "necessary",
-      "natural",
       "narrow",
-      "negative"
+      "naughty",
+      "nervous",
+      "natural"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她喜歡使用天然成分。",
     "vocabIndex": 6
   },
   {
-    "q": "The child was very ______.【淘氣的，不聽話的】",
+    "q": "The ______ boy drew on the wall and broke two cups. His mother was angry.",
     "options": [
-      "necessary",
       "narrow",
+      "natural",
       "naughty",
-      "natural"
+      "negative"
     ],
     "answer": 2,
     "cn": "這個孩子很淘氣。",
     "vocabIndex": 7
   },
   {
-    "q": "It is ______ time to go.【幾乎，差不多】",
+    "q": "It is ______ midnight. It is 11:55 now.",
     "options": [
-      "neither",
-      "rather",
+      "nearly",
       "especially",
-      "nearly"
+      "forward",
+      "hardly"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "差不多該走了。",
     "vocabIndex": 8
   },
   {
-    "q": "It is ______ to drink water every day.【必要的】",
+    "q": "It is ______ to wear a helmet when you ride a scooter. It is the law.",
     "options": [
-      "necessary",
-      "negative",
+      "narrow",
       "naughty",
-      "natural"
+      "necessary",
+      "nervous"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "每天喝水是必要的。",
     "vocabIndex": 9
   },
   {
-    "q": "She wore a beautiful ______.【項鍊】",
+    "q": "She wore a gold ______ around her neck.",
     "options": [
-      "net",
-      "necklace",
-      "nation",
-      "napkin"
+      "napkin",
+      "needle",
+      "nest",
+      "necklace"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她戴了一條漂亮的項鍊。",
     "vocabIndex": 10
   },
   {
-    "q": "The ______ on the record player is broken.【針】",
+    "q": "Grandma used a ______ and thread to fix the hole in my shirt.",
     "options": [
-      "necklace",
-      "nest",
+      "napkin",
       "needle",
-      "napkin"
+      "necklace",
+      "nest"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "唱片機的針壞了。",
     "vocabIndex": 11
   },
   {
-    "q": "He had a ______ attitude towards the project.【否定的，消極的】",
+    "q": "Don't be so ______. Try to see the good side of things.",
     "options": [
       "negative",
+      "narrow",
       "natural",
-      "naughty",
       "necessary"
     ],
     "answer": 0,
@@ -326,47 +326,47 @@ const MCQS = [
     "vocabIndex": 12
   },
   {
-    "q": "______ of the answers is correct.【也不，既不】",
+    "q": "______ of my parents can drive. We always take the bus.",
     "options": [
+      "None",
       "Nearly",
-      "Hardly",
-      "Especially",
-      "Neither"
+      "Neither",
+      "Hardly"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "這兩個答案都不正確。",
     "vocabIndex": 13
   },
   {
-    "q": "She bought a gift for her ______.【姪子，外甥】",
+    "q": "My sister's son is my ______. He is five years old.",
     "options": [
-      "MRT",
+      "niece",
       "musician",
-      "nephew",
-      "napkin"
+      "nation",
+      "nephew"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她為她的姪子買了一份禮物。",
     "vocabIndex": 14
   },
   {
-    "q": "She felt ______ before the exam.【緊張的，不安的】",
+    "q": "I always feel ______ before a test. My hands get cold and wet.",
     "options": [
       "narrow",
       "nervous",
-      "naughty",
-      "negative"
+      "natural",
+      "necessary"
     ],
     "answer": 1,
     "cn": "她考試前感到緊張。",
     "vocabIndex": 15
   },
   {
-    "q": "The bird built a ______ in the tree.【巢，窩】",
+    "q": "The bird built a ______ in the tree. There are three eggs in it.",
     "options": [
-      "movement",
+      "net",
       "needle",
-      "MRT",
+      "napkin",
       "nest"
     ],
     "answer": 3,
@@ -374,36 +374,36 @@ const MCQS = [
     "vocabIndex": 16
   },
   {
-    "q": "He caught a fish with a ______.【網】",
+    "q": "The fisherman threw his ______ into the sea and caught a lot of fish.",
     "options": [
-      "necklace",
-      "MRT",
+      "nest",
       "net",
-      "nation"
+      "needle",
+      "napkin"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "他用網抓了一條魚。",
     "vocabIndex": 17
   },
   {
-    "q": "She took her ______ to the zoo.【姪女，外甥女】",
+    "q": "My brother's daughter is my ______. She is a cute little girl.",
     "options": [
-      "movement",
+      "nephew",
+      "musician",
       "niece",
-      "napkin",
-      "MRT"
+      "nation"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "她帶她的姪女去動物園。",
     "vocabIndex": 18
   },
   {
-    "q": "She ______ in agreement.【點頭，打瞌睡】",
+    "q": "I asked if she wanted some tea, and she ______ her head to say yes.",
     "options": [
       "nodded",
-      "wished",
-      "regretted",
-      "damaged"
+      "measured",
+      "mixed",
+      "locked"
     ],
     "answer": 0,
     "cn": "她點頭表示同意。",
@@ -412,30 +412,50 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "damaged": {
-    "pos": "v.",
-    "en_def": "to break or hurt something so it is not as good as before",
-    "cn_def": "損害，破壞"
-  },
-  "especially": {
-    "pos": "adv.",
-    "en_def": "more than others; more than usual",
-    "cn_def": "特別地，尤其"
-  },
-  "hardly": {
-    "pos": "adv.",
-    "en_def": "almost not",
-    "cn_def": "幾乎不，勉強地"
-  },
   "movement": {
     "pos": "n.",
     "en_def": "the way someone or something moves",
     "cn_def": "運動，動作"
   },
+  "nation": {
+    "pos": "n.",
+    "en_def": "a country and its people",
+    "cn_def": "國家"
+  },
+  "necklace": {
+    "pos": "n.",
+    "en_def": "a pretty chain that you wear around your neck",
+    "cn_def": "項鍊"
+  },
+  "needle": {
+    "pos": "n.",
+    "en_def": "a thin, sharp piece of metal, used for sewing or in a record player",
+    "cn_def": "針"
+  },
+  "nest": {
+    "pos": "n.",
+    "en_def": "the home a bird makes for its eggs",
+    "cn_def": "巢，窩"
+  },
+  "net": {
+    "pos": "n.",
+    "en_def": "material with many holes, used for catching fish",
+    "cn_def": "網"
+  },
   "mrt": {
     "pos": "n.",
     "en_def": "the fast train system in a city like Taipei",
     "cn_def": "地鐵"
+  },
+  "nephew": {
+    "pos": "n.",
+    "en_def": "the son of your brother or sister",
+    "cn_def": "姪子，外甥"
+  },
+  "niece": {
+    "pos": "n.",
+    "en_def": "the daughter of your brother or sister",
+    "cn_def": "姪女，外甥女"
   },
   "musician": {
     "pos": "n.",
@@ -452,11 +472,6 @@ const LOOKUP = {
     "en_def": "not wide",
     "cn_def": "狹窄的，有限的"
   },
-  "nation": {
-    "pos": "n.",
-    "en_def": "a country and its people",
-    "cn_def": "國家"
-  },
   "natural": {
     "pos": "adj.",
     "en_def": "from nature; not made by people",
@@ -467,80 +482,70 @@ const LOOKUP = {
     "en_def": "(of a child) behaving badly",
     "cn_def": "淘氣的，不聽話的"
   },
-  "nearly": {
-    "pos": "adv.",
-    "en_def": "almost",
-    "cn_def": "幾乎，差不多"
-  },
-  "necessary": {
+  "nervous": {
     "pos": "adj.",
-    "en_def": "needed; that you must have or do",
-    "cn_def": "必要的"
-  },
-  "necklace": {
-    "pos": "n.",
-    "en_def": "a pretty chain that you wear around your neck",
-    "cn_def": "項鍊"
-  },
-  "needle": {
-    "pos": "n.",
-    "en_def": "a thin, sharp piece of metal, used for sewing or in a record player",
-    "cn_def": "針"
+    "en_def": "worried and a little afraid",
+    "cn_def": "緊張的，不安的"
   },
   "negative": {
     "pos": "adj.",
     "en_def": "seeing only the bad side; saying \"no\"",
     "cn_def": "否定的，消極的"
   },
+  "nearly": {
+    "pos": "adv.",
+    "en_def": "almost",
+    "cn_def": "幾乎，差不多"
+  },
+  "especially": {
+    "pos": "adv.",
+    "en_def": "more than others; more than usual",
+    "cn_def": "特別地，尤其"
+  },
+  "forward": {
+    "pos": "adv.",
+    "en_def": "toward the front",
+    "cn_def": "向前"
+  },
+  "hardly": {
+    "pos": "adv.",
+    "en_def": "almost not",
+    "cn_def": "幾乎不，勉強地"
+  },
+  "necessary": {
+    "pos": "adj.",
+    "en_def": "needed; that you must have or do",
+    "cn_def": "必要的"
+  },
+  "none": {
+    "pos": "pron.",
+    "en_def": "not any; not one",
+    "cn_def": "沒有一個"
+  },
   "neither": {
     "pos": "adv.",
     "en_def": "not one and not the other of two",
     "cn_def": "也不，既不"
-  },
-  "nephew": {
-    "pos": "n.",
-    "en_def": "the son of your brother or sister",
-    "cn_def": "姪子，外甥"
-  },
-  "nervous": {
-    "pos": "adj.",
-    "en_def": "worried and a little afraid",
-    "cn_def": "緊張的，不安的"
-  },
-  "nest": {
-    "pos": "n.",
-    "en_def": "the home a bird makes for its eggs",
-    "cn_def": "巢，窩"
-  },
-  "net": {
-    "pos": "n.",
-    "en_def": "material with many holes, used for catching fish",
-    "cn_def": "網"
-  },
-  "niece": {
-    "pos": "n.",
-    "en_def": "the daughter of your brother or sister",
-    "cn_def": "姪女，外甥女"
   },
   "nodded": {
     "pos": "v.",
     "en_def": "to move your head up and down to say \"yes\"",
     "cn_def": "點頭，打瞌睡"
   },
-  "rather": {
-    "pos": "adv.",
-    "en_def": "more willingly (used with \"would\")",
-    "cn_def": "寧願，倒不如說"
-  },
-  "regretted": {
+  "measured": {
     "pos": "v.",
-    "en_def": "to feel sorry about something you did or did not do",
-    "cn_def": "後悔，遺憾"
+    "en_def": "to find out how long, big, or heavy something is",
+    "cn_def": "測量，衡量"
   },
-  "wished": {
+  "mixed": {
     "pos": "v.",
-    "en_def": "to hope for something",
-    "cn_def": "希望，祝願"
+    "en_def": "to put different things together and stir them",
+    "cn_def": "混合，攪拌"
+  },
+  "locked": {
+    "pos": "v.",
+    "en_def": "to close something with a key",
+    "cn_def": "鎖住"
   }
 };
 

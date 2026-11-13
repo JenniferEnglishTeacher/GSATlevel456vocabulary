@@ -267,7 +267,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "She drank a __________ of water.【公升】",
+    "question": "I drink one __________ of water every day. That is about four glasses.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "loaf"
+     },
+     {
+      "letter": "B",
+      "text": "locker"
+     },
+     {
+      "letter": "C",
+      "text": "lot"
+     },
+     {
+      "letter": "D",
+      "text": "liter"
+     }
+    ],
+    "answer": "D",
+    "vi": 0
+   },
+   {
+    "question": "Mom bought a __________ of bread at the bakery. We will cut it and make sandwiches.",
     "options": [
      {
       "letter": "A",
@@ -275,45 +298,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "loser"
-     },
-     {
-      "letter": "C",
-      "text": "manner"
-     },
-     {
-      "letter": "D",
-      "text": "manager"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "He bought a __________ of bread.【一條麵包】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "locker"
-     },
-     {
-      "letter": "B",
-      "text": "mall"
-     },
-     {
-      "letter": "C",
       "text": "loaf"
      },
      {
+      "letter": "C",
+      "text": "locker"
+     },
+     {
       "letter": "D",
-      "text": "master"
+      "text": "mall"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 1
    },
    {
-    "question": "They visited the __________ market.【當地的，本地的】",
+    "question": "We ate at a small __________ restaurant. The people who live in the town love it.",
     "options": [
      {
       "letter": "A",
@@ -321,68 +321,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "local"
+      "text": "male"
      },
      {
       "letter": "C",
-      "text": "male"
+      "text": "local"
      },
      {
       "letter": "D",
       "text": "marvelous"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 2
    },
    {
-    "question": "She __________ the door before leaving.【鎖住】",
+    "question": "Don't forget to __________ the door when you leave. Take your key with you.",
     "options": [
      {
       "letter": "A",
+      "text": "lock"
+     },
+     {
+      "letter": "B",
       "text": "marry"
      },
      {
-      "letter": "B",
-      "text": "rubbed"
-     },
-     {
       "letter": "C",
-      "text": "hopped"
+      "text": "lift"
      },
      {
       "letter": "D",
-      "text": "locked"
+      "text": "lick"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 3
    },
    {
-    "question": "He put his books in the __________.【置物櫃】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "master"
-     },
-     {
-      "letter": "B",
-      "text": "manager"
-     },
-     {
-      "letter": "C",
-      "text": "locker"
-     },
-     {
-      "letter": "D",
-      "text": "mango"
-     }
-    ],
-    "answer": "C",
-    "vi": 4
-   },
-   {
-    "question": "He felt like a __________ after losing the game.【失敗者】",
+    "question": "I keep my books and sports shoes in my __________ at school. Only I have the key.",
     "options": [
      {
       "letter": "A",
@@ -390,26 +367,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "master"
+      "text": "liter"
      },
      {
       "letter": "C",
-      "text": "mall"
+      "text": "loaf"
      },
      {
       "letter": "D",
-      "text": "mango"
+      "text": "locker"
      }
     ],
-    "answer": "A",
-    "vi": 5
+    "answer": "D",
+    "vi": 4
    },
    {
-    "question": "There are a __________ of books on the shelf.【許多，大量】",
+    "question": "Nobody wants to be a __________. Everyone wants to win the game.",
     "options": [
      {
       "letter": "A",
-      "text": "magician"
+      "text": "locker"
+     },
+     {
+      "letter": "B",
+      "text": "manager"
+     },
+     {
+      "letter": "C",
+      "text": "loser"
+     },
+     {
+      "letter": "D",
+      "text": "master"
+     }
+    ],
+    "answer": "C",
+    "vi": 5
+   },
+   {
+    "question": "There are a __________ of people in the park today. It is hard to find a seat.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "loaf"
      },
      {
       "letter": "B",
@@ -417,7 +417,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "locker"
+      "text": "liter"
      },
      {
       "letter": "D",
@@ -428,122 +428,30 @@ window.FLASHCARD_UNITS = {
     "vi": 6
    },
    {
-    "question": "She subscribes to a fashion __________.【雜誌】",
+    "question": "I read a fashion __________ every month. It has many pictures of new clothes.",
     "options": [
      {
       "letter": "A",
-      "text": "loser"
+      "text": "magazine"
      },
      {
       "letter": "B",
-      "text": "mat"
-     },
-     {
-      "letter": "C",
-      "text": "mall"
-     },
-     {
-      "letter": "D",
-      "text": "magazine"
-     }
-    ],
-    "answer": "D",
-    "vi": 7
-   },
-   {
-    "question": "The __________ performed amazing tricks.【魔術師】",
-    "options": [
-     {
-      "letter": "A",
       "text": "magician"
      },
      {
-      "letter": "B",
-      "text": "mat"
-     },
-     {
       "letter": "C",
-      "text": "mango"
+      "text": "manager"
      },
      {
       "letter": "D",
-      "text": "manner"
+      "text": "mango"
      }
     ],
     "answer": "A",
-    "vi": 8
+    "vi": 7
    },
    {
-    "question": "She played a __________ role in the project.【主要的，重要的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "local"
-     },
-     {
-      "letter": "B",
-      "text": "major"
-     },
-     {
-      "letter": "C",
-      "text": "male"
-     },
-     {
-      "letter": "D",
-      "text": "marvelous"
-     }
-    ],
-    "answer": "B",
-    "vi": 9
-   },
-   {
-    "question": "The __________ employees are outnumbered by the female employees.【男性的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "local"
-     },
-     {
-      "letter": "B",
-      "text": "major"
-     },
-     {
-      "letter": "C",
-      "text": "male"
-     },
-     {
-      "letter": "D",
-      "text": "marvelous"
-     }
-    ],
-    "answer": "C",
-    "vi": 10
-   },
-   {
-    "question": "They spent the afternoon shopping at the __________.【購物中心】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "magazine"
-     },
-     {
-      "letter": "B",
-      "text": "master"
-     },
-     {
-      "letter": "C",
-      "text": "mango"
-     },
-     {
-      "letter": "D",
-      "text": "mall"
-     }
-    ],
-    "answer": "D",
-    "vi": 11
-   },
-   {
-    "question": "The __________ called for a meeting with the staff.【經理】",
+    "question": "The __________ pulled a rabbit out of his hat. The children loved his tricks.",
     "options": [
      {
       "letter": "A",
@@ -551,76 +459,168 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "mall"
+      "text": "master"
      },
      {
       "letter": "C",
-      "text": "manner"
+      "text": "magazine"
      },
      {
       "letter": "D",
-      "text": "lot"
+      "text": "magician"
+     }
+    ],
+    "answer": "D",
+    "vi": 8
+   },
+   {
+    "question": "Rice is a __________ food in Asia. Most people eat it every day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "major"
+     },
+     {
+      "letter": "B",
+      "text": "male"
+     },
+     {
+      "letter": "C",
+      "text": "local"
+     },
+     {
+      "letter": "D",
+      "text": "marvelous"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "A __________ lion has long hair around its head, but a female lion doesn't.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "major"
+     },
+     {
+      "letter": "B",
+      "text": "male"
+     },
+     {
+      "letter": "C",
+      "text": "local"
+     },
+     {
+      "letter": "D",
+      "text": "marvelous"
+     }
+    ],
+    "answer": "B",
+    "vi": 10
+   },
+   {
+    "question": "We went shopping at the __________. There are more than two hundred stores in the building.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "mat"
+     },
+     {
+      "letter": "B",
+      "text": "mass"
+     },
+     {
+      "letter": "C",
+      "text": "mall"
+     },
+     {
+      "letter": "D",
+      "text": "loaf"
+     }
+    ],
+    "answer": "C",
+    "vi": 11
+   },
+   {
+    "question": "The __________ of the store told the clerks to work faster. He is their boss.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "manager"
+     },
+     {
+      "letter": "B",
+      "text": "magician"
+     },
+     {
+      "letter": "C",
+      "text": "loser"
+     },
+     {
+      "letter": "D",
+      "text": "mango"
      }
     ],
     "answer": "A",
     "vi": 12
    },
    {
-    "question": "She bought a ripe __________ at the market.【芒果】",
+    "question": "A __________ is a sweet yellow fruit. Mango ice is very popular in Taiwan in summer.",
     "options": [
      {
       "letter": "A",
+      "text": "magazine"
+     },
+     {
+      "letter": "B",
+      "text": "mall"
+     },
+     {
+      "letter": "C",
       "text": "mat"
      },
      {
-      "letter": "B",
+      "letter": "D",
       "text": "mango"
-     },
-     {
-      "letter": "C",
-      "text": "loaf"
-     },
-     {
-      "letter": "D",
-      "text": "manager"
-     }
-    ],
-    "answer": "B",
-    "vi": 13
-   },
-   {
-    "question": "His __________ of speaking is very polite.【方式，態度】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "loaf"
-     },
-     {
-      "letter": "B",
-      "text": "master"
-     },
-     {
-      "letter": "C",
-      "text": "manager"
-     },
-     {
-      "letter": "D",
-      "text": "manner"
      }
     ],
     "answer": "D",
-    "vi": 14
+    "vi": 13
    },
    {
-    "question": "They plan to __________ next year.【結婚】",
+    "question": "She spoke in a friendly __________, so everyone felt relaxed.",
     "options": [
      {
       "letter": "A",
-      "text": "locked"
+      "text": "mall"
      },
      {
       "letter": "B",
-      "text": "hire"
+      "text": "manner"
+     },
+     {
+      "letter": "C",
+      "text": "mango"
+     },
+     {
+      "letter": "D",
+      "text": "mat"
+     }
+    ],
+    "answer": "B",
+    "vi": 14
+   },
+   {
+    "question": "Tom loves Lisa very much. He wants to __________ her next year.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lock"
+     },
+     {
+      "letter": "B",
+      "text": "lift"
      },
      {
       "letter": "C",
@@ -628,14 +628,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "ignore"
+      "text": "lack"
      }
     ],
     "answer": "C",
     "vi": 15
    },
    {
-    "question": "They had a __________ time on their vacation.【奇妙的，極好的】",
+    "question": "We had a __________ time in Japan. Everything was great.",
     "options": [
      {
       "letter": "A",
@@ -658,15 +658,15 @@ window.FLASHCARD_UNITS = {
     "vi": 16
    },
    {
-    "question": "There was a __________ of people at the concert.【大量，團，塊】",
+    "question": "A __________ of dark clouds covered the sky before the storm.",
     "options": [
      {
       "letter": "A",
-      "text": "locker"
+      "text": "mall"
      },
      {
       "letter": "B",
-      "text": "manner"
+      "text": "mat"
      },
      {
       "letter": "C",
@@ -674,14 +674,37 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "mall"
+      "text": "mango"
      }
     ],
     "answer": "C",
     "vi": 17
    },
    {
-    "question": "He is a __________ of martial arts.【主人，大師】",
+    "question": "Mr. Chen is a kung fu __________. He has taught it for forty years.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "loser"
+     },
+     {
+      "letter": "B",
+      "text": "mall"
+     },
+     {
+      "letter": "C",
+      "text": "mango"
+     },
+     {
+      "letter": "D",
+      "text": "master"
+     }
+    ],
+    "answer": "D",
+    "vi": 18
+   },
+   {
+    "question": "Please clean your shoes on the __________ before you come into the house.",
     "options": [
      {
       "letter": "A",
@@ -689,44 +712,21 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "master"
+      "text": "mat"
      },
      {
       "letter": "C",
-      "text": "loaf"
+      "text": "mass"
      },
      {
       "letter": "D",
-      "text": "manager"
+      "text": "lot"
      }
     ],
     "answer": "B",
-    "vi": 18
-   },
-   {
-    "question": "She placed a __________ at the entrance.【墊子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "magazine"
-     },
-     {
-      "letter": "B",
-      "text": "locker"
-     },
-     {
-      "letter": "C",
-      "text": "lot"
-     },
-     {
-      "letter": "D",
-      "text": "mat"
-     }
-    ],
-    "answer": "D",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hire":["to give someone a job","雇用"],"hopped":["to move by making short, quick jumps","跳躍，單腳跳"],"ignore":["to act as if you do not see or hear someone or something","忽視"],"liter":["a unit for measuring liquid; a little more than four cups","公升"],"loaf":["bread baked in one big piece","一條麵包"],"local":["of or in the place where you live or are","當地的，本地的"],"locked":["to close something with a key","鎖住"],"locker":["a small metal closet with a lock, used at school or a gym","置物櫃"],"loser":["a person who does not win","失敗者"],"lot":["a large number or amount","許多，大量"],"magazine":["a thin book with pictures and stories that comes out every week or month","雜誌"],"magician":["a person who does magic tricks","魔術師"],"major":["very big or important","主要的，重要的"],"male":["being a man or a boy","男性的"],"mall":["a very big building with many stores inside","購物中心"],"manager":["a person who is in charge of a store, team, or office","經理"],"mango":["a sweet tropical fruit that is yellow inside","芒果"],"manner":["the way in which you do something","方式，態度"],"marry":["to become someone's husband or wife","結婚"],"marvelous":["very, very good; wonderful","奇妙的，極好的"],"mass":["a large number or amount of something together","大量，團，塊"],"master":["a person who is very good at doing something","主人，大師"],"mat":["a small piece of thick cloth on the floor","墊子"],"rubbed":["to press and move your hand or a cloth back and forth on something","擦，摩擦"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"loaf":["bread baked in one big piece","一條麵包"],"locker":["a small metal closet with a lock, used at school or a gym","置物櫃"],"lot":["a large number or amount","許多，大量"],"liter":["a unit for measuring liquid; a little more than four cups","公升"],"mall":["a very big building with many stores inside","購物中心"],"major":["very big or important","主要的，重要的"],"male":["being a man or a boy","男性的"],"local":["of or in the place where you live or are","當地的，本地的"],"marvelous":["very, very good; wonderful","奇妙的，極好的"],"lock":["to close something with a key","鎖住"],"marry":["to become someone's husband or wife","結婚"],"lift":["to move something up","舉起，抬起"],"lick":["to move your tongue over something","舔"],"loser":["a person who does not win","失敗者"],"manager":["a person who is in charge of a store, team, or office","經理"],"master":["a person who is very good at doing something","主人，大師"],"mat":["a small piece of thick cloth on the floor","墊子"],"magazine":["a thin book with pictures and stories that comes out every week or month","雜誌"],"magician":["a person who does magic tricks","魔術師"],"mango":["a sweet tropical fruit that is yellow inside","芒果"],"mass":["a large number or amount of something together","大量，團，塊"],"manner":["the way in which you do something","方式，態度"],"lack":["to not have something, or not have enough of it","缺乏，缺少"]});

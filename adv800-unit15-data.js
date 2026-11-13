@@ -173,59 +173,59 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "She gave a ______ opinion about the matter.【坦率的】",
+    "q": "To be ______, I don't like your new haircut. I am just telling you the truth.",
     "options": [
-      "gentle",
+      "freezing",
       "general",
-      "frank",
-      "freezing"
+      "gentle",
+      "frank"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她對這件事給出了坦率的意見。",
     "vocabIndex": 0
   },
   {
-    "q": "They fought for their ______.【自由】",
+    "q": "The bird flew out of the cage and enjoyed its ______ in the sky.",
     "options": [
-      "god",
+      "freedom",
+      "freezer",
       "furniture",
-      "gentleman",
-      "freedom"
+      "geography"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他們為自由而戰。",
     "vocabIndex": 1
   },
   {
-    "q": "She put the ice cream in the ______.【冷凍庫】",
+    "q": "Put the ice cream in the ______ right away, or it will turn into water.",
     "options": [
-      "geography",
-      "freezer",
       "freedom",
-      "gentleman"
+      "freezer",
+      "furniture",
+      "garage"
     ],
     "answer": 1,
     "cn": "她把冰淇淋放在冷凍庫裡。",
     "vocabIndex": 2
   },
   {
-    "q": "It was ______ outside last night.【冰凍的，極冷的】",
+    "q": "It is ______ outside! The temperature is below zero. Put on your coat and gloves.",
     "options": [
-      "freezing",
-      "generous",
       "frank",
+      "generous",
+      "freezing",
       "gentle"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "昨晚外面很冷。",
     "vocabIndex": 3
   },
   {
-    "q": "Their ______ has lasted for years.【友誼】",
+    "q": "Our ______ began in elementary school. We have been best friends for ten years.",
     "options": [
-      "garage",
-      "god",
-      "gentleman",
+      "freedom",
+      "furniture",
+      "geography",
       "friendship"
     ],
     "answer": 3,
@@ -233,197 +233,202 @@ const MCQS = [
     "vocabIndex": 4
   },
   {
-    "q": "The loud noise ______ the children.【使害怕】",
+    "q": "The loud thunder ______ the little girl. She ran to her mother and cried.",
     "options": [
-      "gathered",
+      "gained",
       "frightened",
-      "gain",
-      "ruined"
+      "gathered",
+      "forgave"
     ],
     "answer": 1,
     "cn": "巨大的聲音嚇到了孩子們。",
     "vocabIndex": 5
   },
   {
-    "q": "They played ______ in the park.【飛盤】",
+    "q": "We threw a ______ to each other in the park. The dog jumped up and caught it.",
     "options": [
-      "Goal",
-      "Friendship",
       "Frisbee",
-      "Garage"
+      "furniture",
+      "garage",
+      "genius"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他們在公園裡玩飛盤。",
     "vocabIndex": 6
   },
   {
-    "q": "They bought new ______ for the living room.【家具】",
+    "q": "We bought some new ______ for the living room: a sofa, a table, and two chairs.",
     "options": [
+      "freedom",
+      "friendship",
       "furniture",
-      "Frisbee",
-      "god",
-      "friendship"
+      "geography"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他們為客廳買了新家具。",
     "vocabIndex": 7
   },
   {
-    "q": "She managed to ______ the trust of her colleagues.【獲得，增加】",
+    "q": "You will ______ weight if you eat too much fast food and never exercise.",
     "options": [
-      "gathered",
-      "gain",
-      "frightened",
-      "expect"
+      "gather",
+      "frighten",
+      "forgive",
+      "gain"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她設法贏得了同事的信任。",
     "vocabIndex": 8
   },
   {
-    "q": "He parked his car in the ______.【車庫】",
+    "q": "Dad parks his car in the ______ next to our house every night.",
     "options": [
-      "geography",
-      "Frisbee",
-      "gentleman",
-      "garage"
+      "garage",
+      "freezer",
+      "gesture",
+      "goal"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他把車停在車庫裡。",
     "vocabIndex": 9
   },
   {
-    "q": "They ______ around the table for dinner.【聚集，收集】",
+    "q": "The students ______ in the gym to listen to the principal's speech.",
     "options": [
+      "gained",
       "frightened",
-      "gain",
       "gathered",
-      "completed"
+      "forgave"
     ],
     "answer": 2,
     "cn": "他們聚集在桌子旁吃晚飯。",
     "vocabIndex": 10
   },
   {
-    "q": "She has a ______ idea of how the system works.【一般的，總的】",
-    "options": [
-      "general",
-      "gentle",
-      "frank",
-      "freezing"
-    ],
-    "answer": 0,
-    "cn": "她大致了解系統的運作方式。",
-    "vocabIndex": 11
-  },
-  {
-    "q": "He is very ______ with his time.【慷慨的，大方的】",
+    "q": "I don't know the details. I only have a ______ idea of the plan.",
     "options": [
       "frank",
       "general",
       "generous",
-      "freezing"
+      "gentle"
+    ],
+    "answer": 1,
+    "cn": "她大致了解系統的運作方式。",
+    "vocabIndex": 11
+  },
+  {
+    "q": "Mr. Wang is very ______. He gave a lot of money to help poor children.",
+    "options": [
+      "freezing",
+      "general",
+      "generous",
+      "frank"
     ],
     "answer": 2,
     "cn": "他很慷慨地付出他的時間。",
     "vocabIndex": 12
   },
   {
-    "q": "He is considered a musical ______.【天才】",
+    "q": "Mozart was a ______. He started writing music when he was only five.",
     "options": [
-      "god",
-      "geography",
-      "garage",
-      "genius"
+      "gentleman",
+      "genius",
+      "gesture",
+      "goal"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他被認為是音樂天才。",
     "vocabIndex": 13
   },
   {
-    "q": "She has a ______ touch when handling animals.【溫和的，文雅的】",
+    "q": "Be ______ with the baby. Hold her softly and carefully.",
     "options": [
-      "gentle",
-      "general",
       "frank",
-      "generous"
+      "general",
+      "freezing",
+      "gentle"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "她對待動物時很溫柔。",
     "vocabIndex": 14
   },
   {
-    "q": "He is a true ______.【紳士】",
+    "q": "Mr. Lin is a real ______. He always opens the door for others and speaks politely.",
     "options": [
-      "friendship",
       "gentleman",
-      "freedom",
-      "geography"
+      "genius",
+      "gesture",
+      "garage"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "他是一位真正的紳士。",
     "vocabIndex": 15
   },
   {
-    "q": "She is studying ______ in school.【地理學】",
+    "q": "In ______ class, we learn about countries, mountains, rivers, and seas.",
     "options": [
-      "gentleman",
-      "gesture",
-      "geography",
-      "friendship"
+      "freedom",
+      "friendship",
+      "furniture",
+      "geography"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她在學校學習地理。",
     "vocabIndex": 16
   },
   {
-    "q": "He made a kind ______ to help her.【手勢，姿勢】",
+    "q": "He raised his hand as a ______ to say \"stop.\"",
     "options": [
+      "genius",
+      "goal",
       "gesture",
-      "freedom",
-      "gentleman",
       "garage"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他做了一個友好的手勢來幫助她。",
     "vocabIndex": 17
   },
   {
-    "q": "His main ______ is to finish the project on time.【目標，球門】",
+    "q": "My ______ is to pass the exam and get into a good senior high school.",
     "options": [
-      "geography",
-      "gentleman",
+      "god",
+      "goal",
       "garage",
-      "goal"
+      "gesture"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他的主要目標是按時完成專案。",
     "vocabIndex": 18
   },
   {
-    "q": "They prayed to their ______.【神】",
+    "q": "In the old stories of Greece, Zeus was the ______ of the sky.",
     "options": [
-      "freezer",
       "god",
-      "friendship",
+      "goal",
+      "genius",
       "gentleman"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "他們向他們的神祈禱。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "completed": {
-    "pos": "v.",
-    "en_def": "to finish something",
-    "cn_def": "完成，完整的"
+  "freezing": {
+    "pos": "adj.",
+    "en_def": "very, very cold",
+    "cn_def": "冰凍的，極冷的"
   },
-  "expect": {
-    "pos": "v.",
-    "en_def": "to think that something will happen",
-    "cn_def": "期望，預期"
+  "general": {
+    "pos": "adj.",
+    "en_def": "not exact or full of details; about the main things only",
+    "cn_def": "一般的，總的"
+  },
+  "gentle": {
+    "pos": "adj.",
+    "en_def": "soft, kind, and careful",
+    "cn_def": "溫和的，文雅的"
   },
   "frank": {
     "pos": "adj.",
@@ -440,75 +445,80 @@ const LOOKUP = {
     "en_def": "a machine that keeps food very cold and hard like ice",
     "cn_def": "冷凍庫"
   },
-  "freezing": {
-    "pos": "adj.",
-    "en_def": "very, very cold",
-    "cn_def": "冰凍的，極冷的"
-  },
-  "friendship": {
-    "pos": "n.",
-    "en_def": "the feeling between people who are friends",
-    "cn_def": "友誼"
-  },
-  "frightened": {
-    "pos": "v.",
-    "en_def": "to make someone afraid",
-    "cn_def": "使害怕"
-  },
-  "frisbee": {
-    "pos": "n.",
-    "en_def": "a flat plastic plate that people throw to each other for fun",
-    "cn_def": "飛盤"
-  },
   "furniture": {
     "pos": "n.",
     "en_def": "tables, chairs, beds, and other big things in a house",
     "cn_def": "家具"
   },
-  "gain": {
-    "pos": "v.",
-    "en_def": "to get something that you want or need",
-    "cn_def": "獲得，增加"
+  "geography": {
+    "pos": "n.",
+    "en_def": "the study of the countries, mountains, and seas of the world",
+    "cn_def": "地理學"
   },
   "garage": {
     "pos": "n.",
     "en_def": "a building where you keep a car",
     "cn_def": "車庫"
   },
+  "generous": {
+    "pos": "adj.",
+    "en_def": "happy to give money, help, or time to others",
+    "cn_def": "慷慨的，大方的"
+  },
+  "friendship": {
+    "pos": "n.",
+    "en_def": "the feeling between people who are friends",
+    "cn_def": "友誼"
+  },
+  "gained": {
+    "pos": "v.",
+    "en_def": "to get something that you want or need",
+    "cn_def": "獲得，增加"
+  },
+  "frightened": {
+    "pos": "v.",
+    "en_def": "to make someone afraid",
+    "cn_def": "使害怕"
+  },
   "gathered": {
     "pos": "v.",
     "en_def": "to come together in a group",
     "cn_def": "聚集，收集"
   },
-  "general": {
-    "pos": "adj.",
-    "en_def": "not exact or full of details; about the main things only",
-    "cn_def": "一般的，總的"
+  "forgave": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "原諒"
   },
-  "generous": {
-    "pos": "adj.",
-    "en_def": "happy to give money, help, or time to others",
-    "cn_def": "慷慨的，大方的"
+  "frisbee": {
+    "pos": "n.",
+    "en_def": "a flat plastic plate that people throw to each other for fun",
+    "cn_def": "飛盤"
   },
   "genius": {
     "pos": "n.",
     "en_def": "a person who is much smarter or better at something than other people",
     "cn_def": "天才"
   },
-  "gentle": {
-    "pos": "adj.",
-    "en_def": "soft, kind, and careful",
-    "cn_def": "溫和的，文雅的"
+  "gather": {
+    "pos": "v.",
+    "en_def": "to come together in a group",
+    "cn_def": "聚集，收集"
   },
-  "gentleman": {
-    "pos": "n.",
-    "en_def": "a man who is polite and kind to others",
-    "cn_def": "紳士"
+  "frighten": {
+    "pos": "v.",
+    "en_def": "to make someone afraid",
+    "cn_def": "使害怕"
   },
-  "geography": {
-    "pos": "n.",
-    "en_def": "the study of the countries, mountains, and seas of the world",
-    "cn_def": "地理學"
+  "forgive": {
+    "pos": "v.",
+    "en_def": "to stop being angry with someone for something they did",
+    "cn_def": "原諒，寬恕"
+  },
+  "gain": {
+    "pos": "v.",
+    "en_def": "to get something that you want or need",
+    "cn_def": "獲得，增加"
   },
   "gesture": {
     "pos": "n.",
@@ -520,15 +530,15 @@ const LOOKUP = {
     "en_def": "something that you want to do or reach in the future",
     "cn_def": "目標，球門"
   },
+  "gentleman": {
+    "pos": "n.",
+    "en_def": "a man who is polite and kind to others",
+    "cn_def": "紳士"
+  },
   "god": {
     "pos": "n.",
     "en_def": "one of the beings that people pray to",
     "cn_def": "神"
-  },
-  "ruined": {
-    "pos": "v.",
-    "en_def": "to spoil or destroy something completely",
-    "cn_def": "毀壞，破壞"
   }
 };
 

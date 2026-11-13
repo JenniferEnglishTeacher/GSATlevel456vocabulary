@@ -170,23 +170,23 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "______ of the students knew the answer.【沒有一個】",
+    "q": "______ of the students could answer the question. It was too hard for all thirty of them.",
     "options": [
-      "None",
       "Oneself",
-      "Steam",
-      "Pollute"
+      "None",
+      "Neither",
+      "Nearly"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "沒有一個學生知道答案。",
     "vocabIndex": 0
   },
   {
-    "q": "She is writing a new ______.【小說】",
+    "q": "I am reading a long ______. The story is about a boy who can do magic.",
     "options": [
-      "object",
-      "owner",
-      "ox",
+      "nut",
+      "onion",
+      "oven",
       "novel"
     ],
     "answer": 3,
@@ -194,191 +194,191 @@ const MCQS = [
     "vocabIndex": 1
   },
   {
-    "q": "He likes to eat ______.【堅果】",
+    "q": "Squirrels love to eat ______. They break the hard shells with their teeth.",
     "options": [
-      "overpass",
-      "ox",
       "nuts",
-      "onion"
+      "novels",
+      "ovens",
+      "objects"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他喜歡吃堅果。",
     "vocabIndex": 2
   },
   {
-    "q": "Dogs are trained to ______ commands.【服從，遵守】",
+    "q": "Students must ______ the school rules. They can't be late or fight.",
     "options": [
+      "offer",
       "omit",
       "obey",
-      "offered",
-      "bathe"
+      "pardon"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "狗被訓練服從命令。",
     "vocabIndex": 3
   },
   {
-    "q": "The ______ on the table is a rare artifact.【物體，目標】",
+    "q": "What is that strange ______ in the sky? Is it a bird or a plane?",
     "options": [
-      "oven",
-      "novel",
-      "object",
-      "onion"
+      "opinion",
+      "onion",
+      "owner",
+      "object"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "桌上的物體是一件罕見的文物。",
     "vocabIndex": 4
   },
   {
-    "q": "They sailed across the ______.【海洋】",
+    "q": "The Pacific ______ is the biggest sea in the world.",
     "options": [
-      "pain",
-      "operation",
-      "oven",
-      "ocean"
+      "Oven",
+      "ocean",
+      "Onion",
+      "Object"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他們航行穿越了海洋。",
     "vocabIndex": 5
   },
   {
-    "q": "He ______ to help with the work.【提供，提議】",
+    "q": "The young man ______ his seat to an old woman on the bus.",
     "options": [
       "offered",
-      "omit",
-      "obey",
-      "dialed"
+      "obeyed",
+      "omitted",
+      "paused"
     ],
     "answer": 0,
     "cn": "他提出幫助工作。",
     "vocabIndex": 6
   },
   {
-    "q": "You can ______ the last question.【省略，忽略】",
+    "q": "Don't ______ any words when you copy the sentence. Write every one of them.",
     "options": [
       "obey",
+      "offer",
       "omit",
-      "offered",
-      "design"
+      "pardon"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你可以省略最後一個問題。",
     "vocabIndex": 7
   },
   {
-    "q": "It is important to take care of ______.【自己】",
+    "q": "It is hard to see ______ as others do.",
     "options": [
-      "none",
-      "pronounce",
       "oneself",
-      "rush"
+      "none",
+      "neither",
+      "nobody"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "照顧好自己很重要。",
     "vocabIndex": 8
   },
   {
-    "q": "She chopped an ______.【洋蔥】",
+    "q": "Cutting an ______ always makes me cry.",
     "options": [
-      "opinion",
-      "ocean",
-      "object",
-      "onion"
+      "oven",
+      "onion",
+      "ox",
+      "object"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "她切了一個洋蔥。",
     "vocabIndex": 9
   },
   {
-    "q": "The ______ was successful.【操作，手術】",
+    "q": "The doctor did an ______ on my grandfather's heart. It took six hours.",
     "options": [
+      "opinion",
+      "onion",
       "operation",
-      "ocean",
-      "novel",
-      "ox"
+      "owner"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "手術很成功。",
     "vocabIndex": 10
   },
   {
-    "q": "She asked for his ______.【意見，看法】",
+    "q": "In my ______, this is the best restaurant in town. What do you think?",
     "options": [
-      "ox",
-      "opinion",
+      "operation",
+      "onion",
       "oven",
-      "owner"
+      "opinion"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她徵求他的意見。",
     "vocabIndex": 11
   },
   {
-    "q": "He is just an ______ person.【普通的，平凡的】",
+    "q": "It was just an ______ day. Nothing special happened.",
     "options": [
+      "ordinary",
       "overweight",
-      "total",
-      "latter",
-      "ordinary"
+      "overseas",
+      "pale"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他只是一個普通人。",
     "vocabIndex": 12
   },
   {
-    "q": "She baked the cake in the ______.【烤箱】",
+    "q": "She put the cake in the ______ and baked it for forty minutes.",
     "options": [
+      "onion",
       "oven",
-      "ox",
-      "object",
-      "novel"
+      "ocean",
+      "object"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "她在烤箱裡烤蛋糕。",
     "vocabIndex": 13
   },
   {
-    "q": "They crossed the street using the ______.【天橋】",
+    "q": "Don't run across the busy road. Use the ______ and walk over the cars.",
     "options": [
-      "nuts",
+      "oven",
       "onion",
-      "overpass",
-      "object"
+      "owner",
+      "overpass"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "他們用天橋過街。",
     "vocabIndex": 14
   },
   {
-    "q": "He plans to study ______.【海外，國外】",
+    "q": "My brother works ______. He has lived in Japan for five years.",
     "options": [
-      "besides",
-      "overseas",
       "downstairs",
-      "nearly"
+      "everywhere",
+      "overseas",
+      "hardly"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "他計劃去國外學習。",
     "vocabIndex": 15
   },
   {
-    "q": "The doctor advised him to lose weight because he is ______.【超重的，過重的】",
+    "q": "The doctor says my dog is ______. It weighs too much and needs more exercise.",
     "options": [
-      "overweight",
       "ordinary",
-      "energetic",
-      "necessary"
+      "overweight",
+      "painful",
+      "pale"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "醫生建議他減肥，因為他超重。",
     "vocabIndex": 16
   },
   {
-    "q": "She is the ______ of the restaurant.【所有者】",
+    "q": "Who is the ______ of this car? It is parked in front of my door.",
     "options": [
-      "ox",
-      "object",
       "onion",
+      "oven",
+      "ocean",
       "owner"
     ],
     "answer": 3,
@@ -386,81 +386,66 @@ const MCQS = [
     "vocabIndex": 17
   },
   {
-    "q": "The ______ pulled the cart.【牛，公牛】",
+    "q": "The farmer used an ______ to pull the cart. It is a big, strong animal like a cow.",
     "options": [
-      "novel",
-      "opinion",
       "ox",
-      "ocean"
+      "oven",
+      "onion",
+      "owner"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "牛拉了車。",
     "vocabIndex": 18
   },
   {
-    "q": "He felt a sharp ______ in his back.【疼痛】",
+    "q": "I have a ______ in my back. It hurts when I sit down.",
     "options": [
-      "opinion",
+      "novel",
+      "nut",
       "pain",
-      "operation",
-      "ox"
+      "owner"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "他感到背部劇烈疼痛。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "bathe": {
-    "pos": "v.",
-    "en_def": "to wash your body in a bath",
-    "cn_def": "洗澡"
+  "oneself": {
+    "pos": "pron.",
+    "en_def": "a person's own self",
+    "cn_def": "自己"
   },
-  "besides": {
+  "none": {
+    "pos": "pron.",
+    "en_def": "not any; not one",
+    "cn_def": "沒有一個"
+  },
+  "neither": {
     "pos": "adv.",
-    "en_def": "in addition to",
-    "cn_def": "除了...之外"
-  },
-  "design": {
-    "pos": "v.",
-    "en_def": "to plan and draw how something will look",
-    "cn_def": "設計，構思"
-  },
-  "dialed": {
-    "pos": "v.",
-    "en_def": "to press the numbers on a phone to call someone",
-    "cn_def": "撥號"
-  },
-  "downstairs": {
-    "pos": "adv.",
-    "en_def": "on or to a lower floor of a building",
-    "cn_def": "在樓下"
-  },
-  "energetic": {
-    "pos": "adj.",
-    "en_def": "very active; full of energy",
-    "cn_def": "精力充沛的"
-  },
-  "latter": {
-    "pos": "adj.",
-    "en_def": "nearer to the end; the second of two",
-    "cn_def": "後者的，較後的"
+    "en_def": "not one and not the other of two",
+    "cn_def": "也不，既不"
   },
   "nearly": {
     "pos": "adv.",
     "en_def": "almost",
     "cn_def": "幾乎，差不多"
   },
-  "necessary": {
-    "pos": "adj.",
-    "en_def": "needed; that you must have or do",
-    "cn_def": "必要的"
+  "nut": {
+    "pos": "n.",
+    "en_def": "a hard dry fruit with a shell, like a peanut",
+    "cn_def": "堅果"
   },
-  "none": {
-    "pos": "pron.",
-    "en_def": "not any; not one",
-    "cn_def": "沒有一個"
+  "onion": {
+    "pos": "n.",
+    "en_def": "a round vegetable with a strong smell that can make you cry",
+    "cn_def": "洋蔥"
+  },
+  "oven": {
+    "pos": "n.",
+    "en_def": "the box-shaped part of a stove where you bake food",
+    "cn_def": "烤箱"
   },
   "novel": {
     "pos": "n.",
@@ -472,10 +457,50 @@ const LOOKUP = {
     "en_def": "a hard dry fruit with a shell, like a peanut",
     "cn_def": "堅果"
   },
+  "novels": {
+    "pos": "n.",
+    "en_def": "a long story in a book about people who are not real",
+    "cn_def": "小說"
+  },
+  "ovens": {
+    "pos": "n.",
+    "en_def": "the box-shaped part of a stove where you bake food",
+    "cn_def": "烤箱"
+  },
+  "objects": {
+    "pos": "n.",
+    "en_def": "a thing that you can see and touch",
+    "cn_def": "物體，目標"
+  },
+  "offer": {
+    "pos": "v.",
+    "en_def": "to say that you will do something for someone or give them something",
+    "cn_def": "提供，提議"
+  },
+  "omit": {
+    "pos": "v.",
+    "en_def": "to leave something out",
+    "cn_def": "省略，忽略"
+  },
   "obey": {
     "pos": "v.",
     "en_def": "to do what someone tells you to do",
     "cn_def": "服從，遵守"
+  },
+  "pardon": {
+    "pos": "v.",
+    "en_def": "to forgive someone",
+    "cn_def": "原諒，寬恕"
+  },
+  "opinion": {
+    "pos": "n.",
+    "en_def": "what you think about something",
+    "cn_def": "意見，看法"
+  },
+  "owner": {
+    "pos": "n.",
+    "en_def": "the person that something belongs to",
+    "cn_def": "所有者"
   },
   "object": {
     "pos": "n.",
@@ -492,95 +517,85 @@ const LOOKUP = {
     "en_def": "to say that you will do something for someone or give them something",
     "cn_def": "提供，提議"
   },
-  "omit": {
+  "obeyed": {
     "pos": "v.",
-    "en_def": "to leave something out",
-    "cn_def": "省略，忽略"
+    "en_def": "to do what someone tells you to do",
+    "cn_def": "服從，遵守"
   },
-  "oneself": {
+  "omitted": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "省略"
+  },
+  "paused": {
+    "pos": "v.",
+    "en_def": "to stop for a short time",
+    "cn_def": "暫停，中止"
+  },
+  "nobody": {
     "pos": "pron.",
-    "en_def": "a person's own self",
-    "cn_def": "自己"
-  },
-  "onion": {
-    "pos": "n.",
-    "en_def": "a round vegetable with a strong smell that can make you cry",
-    "cn_def": "洋蔥"
-  },
-  "operation": {
-    "pos": "n.",
-    "en_def": "when a doctor cuts into a body to fix something inside",
-    "cn_def": "操作，手術"
-  },
-  "opinion": {
-    "pos": "n.",
-    "en_def": "what you think about something",
-    "cn_def": "意見，看法"
-  },
-  "ordinary": {
-    "pos": "adj.",
-    "en_def": "normal; not special",
-    "cn_def": "普通的，平凡的"
-  },
-  "oven": {
-    "pos": "n.",
-    "en_def": "the box-shaped part of a stove where you bake food",
-    "cn_def": "烤箱"
-  },
-  "overpass": {
-    "pos": "n.",
-    "en_def": "a bridge that takes a road or path over another road",
-    "cn_def": "天橋"
-  },
-  "overseas": {
-    "pos": "adv.",
-    "en_def": "in or to a country across the sea",
-    "cn_def": "海外，國外"
-  },
-  "overweight": {
-    "pos": "adj.",
-    "en_def": "too heavy or fat",
-    "cn_def": "超重的，過重的"
-  },
-  "owner": {
-    "pos": "n.",
-    "en_def": "the person that something belongs to",
-    "cn_def": "所有者"
+    "en_def": "",
+    "cn_def": "沒有人"
   },
   "ox": {
     "pos": "n.",
     "en_def": "a big, strong male cow that pulls heavy things",
     "cn_def": "牛，公牛"
   },
+  "operation": {
+    "pos": "n.",
+    "en_def": "when a doctor cuts into a body to fix something inside",
+    "cn_def": "操作，手術"
+  },
+  "ordinary": {
+    "pos": "adj.",
+    "en_def": "normal; not special",
+    "cn_def": "普通的，平凡的"
+  },
+  "overweight": {
+    "pos": "adj.",
+    "en_def": "too heavy or fat",
+    "cn_def": "超重的，過重的"
+  },
+  "overseas": {
+    "pos": "adv.",
+    "en_def": "in or to a country across the sea",
+    "cn_def": "海外，國外"
+  },
+  "pale": {
+    "pos": "adj.",
+    "en_def": "having a light or white face, often because you are sick",
+    "cn_def": "蒼白的，淡色的"
+  },
+  "overpass": {
+    "pos": "n.",
+    "en_def": "a bridge that takes a road or path over another road",
+    "cn_def": "天橋"
+  },
+  "downstairs": {
+    "pos": "adv.",
+    "en_def": "on or to a lower floor of a building",
+    "cn_def": "在樓下"
+  },
+  "everywhere": {
+    "pos": "adv.",
+    "en_def": "in all places",
+    "cn_def": "到處"
+  },
+  "hardly": {
+    "pos": "adv.",
+    "en_def": "almost not",
+    "cn_def": "幾乎不，勉強地"
+  },
+  "painful": {
+    "pos": "adj.",
+    "en_def": "making you feel pain or very sad",
+    "cn_def": "痛苦的，疼痛的"
+  },
   "pain": {
     "pos": "n.",
     "en_def": "the feeling you have when part of your body hurts",
     "cn_def": "疼痛"
-  },
-  "pollute": {
-    "pos": "v.",
-    "en_def": "to make air, water, or land dirty",
-    "cn_def": "污染"
-  },
-  "pronounce": {
-    "pos": "v.",
-    "en_def": "to make the sound of a word or letter",
-    "cn_def": "發音，宣佈"
-  },
-  "rush": {
-    "pos": "v.",
-    "en_def": "to go or do something very quickly",
-    "cn_def": "衝，趕緊"
-  },
-  "steam": {
-    "pos": "n.",
-    "en_def": "the hot white gas that comes from boiling water",
-    "cn_def": "蒸汽"
-  },
-  "total": {
-    "pos": "adj.",
-    "en_def": "with everything added together",
-    "cn_def": "總的，全部的"
   }
 };
 

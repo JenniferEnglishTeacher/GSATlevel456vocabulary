@@ -267,15 +267,15 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "She is very __________ at solving puzzles.【聰明的，靈巧的】",
+    "question": "The __________ boy fixed the broken radio by himself. He learns everything very quickly.",
     "options": [
      {
       "letter": "A",
-      "text": "confident"
+      "text": "colorful"
      },
      {
       "letter": "B",
-      "text": "colorful"
+      "text": "confident"
      },
      {
       "letter": "C",
@@ -283,49 +283,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "diligent"
+      "text": "careless"
      }
     ],
     "answer": "C",
     "vi": 0
    },
    {
-    "question": "The __________ here is warm and humid.【氣候，風氣】",
+    "question": "Taiwan has a warm, wet __________. It is hot in summer and seldom snows in winter.",
     "options": [
      {
       "letter": "A",
-      "text": "coast"
-     },
-     {
-      "letter": "B",
       "text": "climate"
      },
      {
-      "letter": "C",
-      "text": "cocoa"
-     },
-     {
-      "letter": "D",
-      "text": "company"
-     }
-    ],
-    "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "She hung her clothes neatly in the __________.【壁櫥】",
-    "options": [
-     {
-      "letter": "A",
+      "letter": "B",
       "text": "closet"
      },
      {
-      "letter": "B",
-      "text": "company"
-     },
-     {
       "letter": "C",
-      "text": "concern"
+      "text": "coin"
      },
      {
       "letter": "D",
@@ -333,22 +310,45 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "A",
-    "vi": 2
+    "vi": 1
    },
    {
-    "question": "The basketball team has a new __________.【教練，客車】",
+    "question": "Lisa hangs her dresses and coats in the __________ in her bedroom.",
     "options": [
      {
       "letter": "A",
-      "text": "coin"
-     },
-     {
-      "letter": "B",
       "text": "coast"
      },
      {
+      "letter": "B",
+      "text": "closet"
+     },
+     {
       "letter": "C",
-      "text": "cola"
+      "text": "coin"
+     },
+     {
+      "letter": "D",
+      "text": "climate"
+     }
+    ],
+    "answer": "B",
+    "vi": 2
+   },
+   {
+    "question": "Our basketball __________ makes us practice for two hours every day. He teaches us how to win.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "coast"
+     },
+     {
+      "letter": "B",
+      "text": "coin"
+     },
+     {
+      "letter": "C",
+      "text": "closet"
      },
      {
       "letter": "D",
@@ -359,7 +359,7 @@ window.FLASHCARD_UNITS = {
     "vi": 3
    },
    {
-    "question": "They walked along the __________.【海岸】",
+    "question": "We drove along the east __________ and looked at the blue sea all the way.",
     "options": [
      {
       "letter": "A",
@@ -367,68 +367,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "comment"
+      "text": "closet"
      },
      {
       "letter": "C",
-      "text": "concern"
+      "text": "coin"
      },
      {
       "letter": "D",
-      "text": "cockroach"
+      "text": "college"
      }
     ],
     "answer": "A",
     "vi": 4
    },
    {
-    "question": "There is a __________ in the kitchen.【蟑螂】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cocoa"
-     },
-     {
-      "letter": "B",
-      "text": "cockroach"
-     },
-     {
-      "letter": "C",
-      "text": "completion"
-     },
-     {
-      "letter": "D",
-      "text": "coast"
-     }
-    ],
-    "answer": "B",
-    "vi": 5
-   },
-   {
-    "question": "She made a cup of hot __________ for breakfast.【可可，巧克力飲料】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cockroach"
-     },
-     {
-      "letter": "B",
-      "text": "cola"
-     },
-     {
-      "letter": "C",
-      "text": "completion"
-     },
-     {
-      "letter": "D",
-      "text": "cocoa"
-     }
-    ],
-    "answer": "D",
-    "vi": 6
-   },
-   {
-    "question": "He dropped a __________ into the vending machine.【硬幣】",
+    "question": "I saw a brown __________ run across the kitchen floor last night. I hate that insect!",
     "options": [
      {
       "letter": "A",
@@ -436,22 +390,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "cola"
-     },
-     {
-      "letter": "C",
       "text": "coin"
      },
      {
+      "letter": "C",
+      "text": "comment"
+     },
+     {
       "letter": "D",
-      "text": "closet"
+      "text": "cockroach"
      }
     ],
-    "answer": "C",
-    "vi": 7
+    "answer": "D",
+    "vi": 5
    },
    {
-    "question": "She ordered a __________ with her meal.【可樂】",
+    "question": "On cold winter nights, I like to drink a cup of hot __________. It tastes like chocolate.",
     "options": [
      {
       "letter": "A",
@@ -463,26 +417,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "concern"
+      "text": "cocoa"
      },
      {
       "letter": "D",
+      "text": "cotton"
+     }
+    ],
+    "answer": "C",
+    "vi": 6
+   },
+   {
+    "question": "I put a ten-dollar __________ into the machine and got a bottle of water.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "coach"
+     },
+     {
+      "letter": "B",
+      "text": "coin"
+     },
+     {
+      "letter": "C",
+      "text": "coast"
+     },
+     {
+      "letter": "D",
+      "text": "comment"
+     }
+    ],
+    "answer": "B",
+    "vi": 7
+   },
+   {
+    "question": "I'd like a hamburger and a large __________ with ice, please. I love sweet drinks with bubbles.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cola"
+     },
+     {
+      "letter": "B",
       "text": "cocoa"
+     },
+     {
+      "letter": "C",
+      "text": "coin"
+     },
+     {
+      "letter": "D",
+      "text": "coast"
      }
     ],
     "answer": "A",
     "vi": 8
    },
    {
-    "question": "He is a freshman at __________.【大學，學院】",
+    "question": "My sister finished senior high school last year. She is studying English at __________ now.",
     "options": [
      {
       "letter": "A",
-      "text": "completion"
+      "text": "company"
      },
      {
       "letter": "B",
-      "text": "coast"
+      "text": "climate"
      },
      {
       "letter": "C",
@@ -497,53 +497,53 @@ window.FLASHCARD_UNITS = {
     "vi": 9
    },
    {
-    "question": "The garden is full of __________ flowers.【色彩鮮艷的】",
+    "question": "The garden is full of __________ flowers: red, yellow, pink, and purple.",
     "options": [
      {
       "letter": "A",
-      "text": "confident"
-     },
-     {
-      "letter": "B",
-      "text": "colorful"
-     },
-     {
-      "letter": "C",
       "text": "clever"
      },
      {
-      "letter": "D",
-      "text": "sincere"
-     }
-    ],
-    "answer": "B",
-    "vi": 10
-   },
-   {
-    "question": "The officer __________ the troops to advance.【命令，指揮】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "completed"
-     },
-     {
       "letter": "B",
-      "text": "complain"
+      "text": "confident"
      },
      {
       "letter": "C",
-      "text": "commanded"
+      "text": "colorful"
      },
      {
       "letter": "D",
-      "text": "compare"
+      "text": "careless"
      }
     ],
     "answer": "C",
+    "vi": 10
+   },
+   {
+    "question": "The captain __________ his men to stop. They all stood still at once.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "compared"
+     },
+     {
+      "letter": "B",
+      "text": "commanded"
+     },
+     {
+      "letter": "C",
+      "text": "complained"
+     },
+     {
+      "letter": "D",
+      "text": "completed"
+     }
+    ],
+    "answer": "B",
     "vi": 11
    },
    {
-    "question": "She made a __________ about the movie.【評論，意見】",
+    "question": "The teacher wrote a nice __________ on my report: \"Great job! Your writing is getting better.\"",
     "options": [
      {
       "letter": "A",
@@ -551,30 +551,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "concern"
+      "text": "company"
      },
      {
       "letter": "C",
-      "text": "college"
+      "text": "coast"
      },
      {
       "letter": "D",
-      "text": "coast"
+      "text": "coin"
      }
     ],
     "answer": "A",
     "vi": 12
    },
    {
-    "question": "He works for a multinational __________.【公司】",
+    "question": "My father works for a computer __________. It has five hundred workers and sells phones, too.",
     "options": [
      {
       "letter": "A",
-      "text": "completion"
+      "text": "comment"
      },
      {
       "letter": "B",
-      "text": "cocoa"
+      "text": "coast"
      },
      {
       "letter": "C",
@@ -582,14 +582,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "comment"
+      "text": "climate"
      }
     ],
     "answer": "C",
     "vi": 13
    },
    {
-    "question": "It is interesting to __________ the two theories.【比較】",
+    "question": "Before you buy a phone, __________ the prices at different stores. One may be much cheaper.",
     "options": [
      {
       "letter": "A",
@@ -597,99 +597,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "compare"
+      "text": "command"
      },
      {
       "letter": "C",
-      "text": "commanded"
+      "text": "complete"
      },
      {
       "letter": "D",
-      "text": "completed"
-     }
-    ],
-    "answer": "B",
-    "vi": 14
-   },
-   {
-    "question": "Customers often __________ about the service.【抱怨】",
-    "options": [
-     {
-      "letter": "A",
       "text": "compare"
-     },
-     {
-      "letter": "B",
-      "text": "commanded"
-     },
-     {
-      "letter": "C",
-      "text": "completed"
-     },
-     {
-      "letter": "D",
-      "text": "complain"
      }
     ],
     "answer": "D",
-    "vi": 15
+    "vi": 14
    },
    {
-    "question": "She __________ the assignment on time.【完成，完整的】",
+    "question": "The neighbors often __________ about the noise from our dog. They say they can't sleep.",
     "options": [
      {
       "letter": "A",
-      "text": "commanded"
-     },
-     {
-      "letter": "B",
       "text": "compare"
      },
      {
+      "letter": "B",
+      "text": "complain"
+     },
+     {
       "letter": "C",
-      "text": "completed"
+      "text": "command"
      },
      {
       "letter": "D",
+      "text": "complete"
+     }
+    ],
+    "answer": "B",
+    "vi": 15
+   },
+   {
+    "question": "You must __________ the test in fifty minutes. Don't leave any questions without answers.",
+    "options": [
+     {
+      "letter": "A",
       "text": "complain"
+     },
+     {
+      "letter": "B",
+      "text": "command"
+     },
+     {
+      "letter": "C",
+      "text": "complete"
+     },
+     {
+      "letter": "D",
+      "text": "compare"
      }
     ],
     "answer": "C",
     "vi": 16
    },
    {
-    "question": "The __________ of the project took two years.【完成，結束】",
+    "question": "The __________ of the new bridge will take two more years. People can't wait to use it.",
     "options": [
      {
       "letter": "A",
+      "text": "concern"
+     },
+     {
+      "letter": "B",
       "text": "completion"
-     },
-     {
-      "letter": "B",
-      "text": "company"
-     },
-     {
-      "letter": "C",
-      "text": "concern"
-     },
-     {
-      "letter": "D",
-      "text": "cocoa"
-     }
-    ],
-    "answer": "A",
-    "vi": 17
-   },
-   {
-    "question": "Her main __________ is her child's safety.【擔心，關心】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cola"
-     },
-     {
-      "letter": "B",
-      "text": "concern"
      },
      {
       "letter": "C",
@@ -697,14 +674,37 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "coast"
+      "text": "climate"
      }
     ],
     "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "The mother's biggest __________ is her son's health. He has been sick for a month.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "concern"
+     },
+     {
+      "letter": "B",
+      "text": "completion"
+     },
+     {
+      "letter": "C",
+      "text": "coast"
+     },
+     {
+      "letter": "D",
+      "text": "coin"
+     }
+    ],
+    "answer": "A",
     "vi": 18
    },
    {
-    "question": "He feels __________ about his abilities.【自信的】",
+    "question": "Amy practiced her speech fifty times, so she feels __________. She knows she will do well.",
     "options": [
      {
       "letter": "A",
@@ -712,11 +712,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "clever"
+      "text": "careless"
      },
      {
       "letter": "C",
-      "text": "maximum"
+      "text": "bitter"
      },
      {
       "letter": "D",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"clever":["smart; quick to learn and understand","聰明的，靈巧的"],"climate":["the usual weather of a place","氣候，風氣"],"closet":["a small room or tall box for keeping clothes","壁櫥"],"coach":["a person who teaches and trains a sports team","教練，客車"],"coast":["the land next to the sea","海岸"],"cockroach":["a brown insect that lives in dirty or warm places in houses","蟑螂"],"cocoa":["a hot drink made from chocolate powder","可可，巧克力飲料"],"coin":["a piece of money made of metal","硬幣"],"cola":["a sweet brown drink with bubbles","可樂"],"college":["a school where people study after high school","大學，學院"],"colorful":["having many bright colors","色彩鮮艷的"],"commanded":["to tell someone that they must do something","命令，指揮"],"comment":["something you say that gives your opinion","評論，意見"],"company":["a group of people who work together to make or sell things","公司"],"compare":["to look at two things to see how they are the same or different","比較"],"complain":["to say that you are not happy about something","抱怨"],"completed":["to finish something","完成，完整的"],"completion":["the act of finishing something","完成，結束"],"concern":["something that you worry or care about","擔心，關心"],"confident":["sure that you can do something well","自信的"],"diligent":["working hard and carefully","勤勉的，勤奮的"],"maximum":["the largest that is possible or allowed","最大的，最高的"],"sincere":["really meaning what you say; honest","真誠的，誠懇的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"colorful":["having many bright colors","色彩鮮艷的"],"confident":["sure that you can do something well","自信的"],"clever":["smart; quick to learn and understand","聰明的，靈巧的"],"careless":["not thinking about what you are doing, so you make mistakes","粗心的"],"climate":["the usual weather of a place","氣候，風氣"],"closet":["a small room or tall box for keeping clothes","壁櫥"],"coin":["a piece of money made of metal","硬幣"],"comment":["something you say that gives your opinion","評論，意見"],"coast":["the land next to the sea","海岸"],"coach":["a person who teaches and trains a sports team","教練，客車"],"college":["a school where people study after high school","大學，學院"],"cockroach":["a brown insect that lives in dirty or warm places in houses","蟑螂"],"cola":["a sweet brown drink with bubbles","可樂"],"cocoa":["a hot drink made from chocolate powder","可可，巧克力飲料"],"cotton":["soft white material from a plant, used to make clothes","棉花"],"company":["a group of people who work together to make or sell things","公司"],"compared":["to look at two things to see how they are the same or different","比較"],"commanded":["to tell someone that they must do something","命令，指揮"],"complained":["to say that you are not happy about something","抱怨"],"completed":["to finish something","完成，完整的"],"complain":["to say that you are not happy about something","抱怨"],"command":["to tell someone that they must do something","命令，指揮"],"complete":["to finish something","完成，完整的"],"compare":["to look at two things to see how they are the same or different","比較"],"concern":["something that you worry or care about","擔心，關心"],"completion":["the act of finishing something","完成，結束"],"bitter":["having a strong taste that is not sweet, like black coffee","苦的，痛苦的"]});

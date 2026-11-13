@@ -267,7 +267,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "The __________ went out during the storm.【力量，電力】",
+    "question": "The storm cut off the __________. We had no lights for two days.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "powder"
+     },
+     {
+      "letter": "B",
+      "text": "pressure"
+     },
+     {
+      "letter": "C",
+      "text": "power"
+     },
+     {
+      "letter": "D",
+      "text": "progress"
+     }
+    ],
+    "answer": "C",
+    "vi": 0
+   },
+   {
+    "question": "Mix the milk __________ with warm water for the baby.",
     "options": [
      {
       "letter": "A",
@@ -275,7 +298,122 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "powder"
+     },
+     {
+      "letter": "C",
+      "text": "pressure"
+     },
+     {
+      "letter": "D",
+      "text": "progress"
+     }
+    ],
+    "answer": "B",
+    "vi": 1
+   },
+   {
+    "question": "The teacher __________ Amy for her good work. She said, \"Well done!\"",
+    "options": [
+     {
+      "letter": "A",
+      "text": "praised"
+     },
+     {
+      "letter": "B",
+      "text": "printed"
+     },
+     {
+      "letter": "C",
+      "text": "produced"
+     },
+     {
+      "letter": "D",
+      "text": "punished"
+     }
+    ],
+    "answer": "A",
+    "vi": 2
+   },
+   {
+    "question": "Time is __________. Don't waste it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "private"
+     },
+     {
+      "letter": "B",
+      "text": "primary"
+     },
+     {
+      "letter": "C",
+      "text": "plain"
+     },
+     {
+      "letter": "D",
+      "text": "precious"
+     }
+    ],
+    "answer": "D",
+    "vi": 3
+   },
+   {
+    "question": "The __________ of the U.S.A. lives in the White House.",
+    "options": [
+     {
+      "letter": "A",
       "text": "priest"
+     },
+     {
+      "letter": "B",
+      "text": "prince"
+     },
+     {
+      "letter": "C",
+      "text": "president"
+     },
+     {
+      "letter": "D",
+      "text": "professor"
+     }
+    ],
+    "answer": "C",
+    "vi": 4
+   },
+   {
+    "question": "Students are under a lot of __________ before big exams. They worry and can't sleep.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "powder"
+     },
+     {
+      "letter": "B",
+      "text": "progress"
+     },
+     {
+      "letter": "C",
+      "text": "project"
+     },
+     {
+      "letter": "D",
+      "text": "pressure"
+     }
+    ],
+    "answer": "D",
+    "vi": 5
+   },
+   {
+    "question": "The __________ spoke to the people in the church on Sunday morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "priest"
+     },
+     {
+      "letter": "B",
+      "text": "prince"
      },
      {
       "letter": "C",
@@ -283,68 +421,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "pressure"
+      "text": "professor"
      }
     ],
     "answer": "A",
-    "vi": 0
+    "vi": 6
    },
    {
-    "question": "She added cocoa __________ to the recipe.【粉末】",
+    "question": "My __________ goal this year is to pass the exam. Nothing is more important.",
     "options": [
      {
       "letter": "A",
-      "text": "pressure"
-     },
-     {
-      "letter": "B",
-      "text": "power"
-     },
-     {
-      "letter": "C",
-      "text": "professor"
-     },
-     {
-      "letter": "D",
-      "text": "powder"
-     }
-    ],
-    "answer": "D",
-    "vi": 1
-   },
-   {
-    "question": "The teacher __________ the students for their hard work.【讚美，表揚】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "produces"
-     },
-     {
-      "letter": "B",
-      "text": "praised"
-     },
-     {
-      "letter": "C",
-      "text": "print"
-     },
-     {
-      "letter": "D",
-      "text": "dialed"
-     }
-    ],
-    "answer": "B",
-    "vi": 2
-   },
-   {
-    "question": "This ring is very __________ to her.【珍貴的，寶貴的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "primary"
-     },
-     {
-      "letter": "B",
       "text": "private"
+     },
+     {
+      "letter": "B",
+      "text": "primary"
      },
      {
       "letter": "C",
@@ -352,129 +444,83 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "careless"
+      "text": "plain"
      }
     ],
-    "answer": "C",
-    "vi": 3
+    "answer": "B",
+    "vi": 7
    },
    {
-    "question": "The __________ gave a speech at the ceremony.【總統，主席】",
+    "question": "The king's son is the __________. He will be the king one day.",
     "options": [
      {
       "letter": "A",
-      "text": "power"
+      "text": "princess"
      },
      {
       "letter": "B",
-      "text": "prince"
+      "text": "priest"
      },
      {
       "letter": "C",
-      "text": "project"
+      "text": "prince"
      },
      {
       "letter": "D",
       "text": "president"
-     }
-    ],
-    "answer": "D",
-    "vi": 4
-   },
-   {
-    "question": "She felt a lot of __________ to succeed.【壓力，壓迫】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "priest"
-     },
-     {
-      "letter": "B",
-      "text": "pressure"
-     },
-     {
-      "letter": "C",
-      "text": "production"
-     },
-     {
-      "letter": "D",
-      "text": "principal"
-     }
-    ],
-    "answer": "B",
-    "vi": 5
-   },
-   {
-    "question": "The __________ led the congregation in prayer.【神父，牧師】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "powder"
-     },
-     {
-      "letter": "B",
-      "text": "principal"
-     },
-     {
-      "letter": "C",
-      "text": "priest"
-     },
-     {
-      "letter": "D",
-      "text": "production"
-     }
-    ],
-    "answer": "C",
-    "vi": 6
-   },
-   {
-    "question": "Her __________ concern is her child's safety.【主要的，初級的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "primary"
-     },
-     {
-      "letter": "B",
-      "text": "private"
-     },
-     {
-      "letter": "C",
-      "text": "precious"
-     },
-     {
-      "letter": "D",
-      "text": "intelligent"
-     }
-    ],
-    "answer": "A",
-    "vi": 7
-   },
-   {
-    "question": "The __________ will inherit the throne.【王子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "production"
-     },
-     {
-      "letter": "B",
-      "text": "power"
-     },
-     {
-      "letter": "C",
-      "text": "prince"
-     },
-     {
-      "letter": "D",
-      "text": "project"
      }
     ],
     "answer": "C",
     "vi": 8
    },
    {
-    "question": "The __________ wore a beautiful gown.【公主】",
+    "question": "The king's daughter is the __________. She lives in the castle.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "prince"
+     },
+     {
+      "letter": "B",
+      "text": "priest"
+     },
+     {
+      "letter": "C",
+      "text": "professor"
+     },
+     {
+      "letter": "D",
+      "text": "princess"
+     }
+    ],
+    "answer": "D",
+    "vi": 9
+   },
+   {
+    "question": "The __________ of our school gave a speech to all the teachers and students.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "principle"
+     },
+     {
+      "letter": "B",
+      "text": "principal"
+     },
+     {
+      "letter": "C",
+      "text": "printer"
+     },
+     {
+      "letter": "D",
+      "text": "project"
+     }
+    ],
+    "answer": "B",
+    "vi": 10
+   },
+   {
+    "question": "He is a man of strong __________. He never lies or cheats.",
     "options": [
      {
       "letter": "A",
@@ -482,22 +528,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "princess"
+      "text": "printers"
      },
      {
       "letter": "C",
-      "text": "progress"
+      "text": "projects"
      },
      {
       "letter": "D",
-      "text": "priest"
+      "text": "powders"
+     }
+    ],
+    "answer": "A",
+    "vi": 11
+   },
+   {
+    "question": "Please __________ ten copies of this report for the meeting.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "praise"
+     },
+     {
+      "letter": "B",
+      "text": "print"
+     },
+     {
+      "letter": "C",
+      "text": "produce"
+     },
+     {
+      "letter": "D",
+      "text": "punish"
      }
     ],
     "answer": "B",
-    "vi": 9
+    "vi": 12
    },
    {
-    "question": "The __________ of the school is very strict.【校長】",
+    "question": "The __________ is out of paper, so I can't print my homework.",
     "options": [
      {
       "letter": "A",
@@ -505,7 +574,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "professor"
+      "text": "priest"
      },
      {
       "letter": "C",
@@ -513,137 +582,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "project"
-     }
-    ],
-    "answer": "A",
-    "vi": 10
-   },
-   {
-    "question": "He lives by strong moral __________.【原則，信條】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "princess"
-     },
-     {
-      "letter": "B",
-      "text": "progress"
-     },
-     {
-      "letter": "C",
-      "text": "professor"
-     },
-     {
-      "letter": "D",
-      "text": "principles"
+      "text": "printer"
      }
     ],
     "answer": "D",
-    "vi": 11
-   },
-   {
-    "question": "She needs to __________ the documents.【打印，印刷】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "produces"
-     },
-     {
-      "letter": "B",
-      "text": "praised"
-     },
-     {
-      "letter": "C",
-      "text": "print"
-     },
-     {
-      "letter": "D",
-      "text": "hug"
-     }
-    ],
-    "answer": "C",
-    "vi": 12
-   },
-   {
-    "question": "The __________ is out of ink.【印表機】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "printer"
-     },
-     {
-      "letter": "B",
-      "text": "project"
-     },
-     {
-      "letter": "C",
-      "text": "pressure"
-     },
-     {
-      "letter": "D",
-      "text": "production"
-     }
-    ],
-    "answer": "A",
     "vi": 13
    },
    {
-    "question": "They had a __________ conversation.【私人的，私密的】",
+    "question": "This is a __________ room. Only family members can come in.",
     "options": [
      {
       "letter": "A",
-      "text": "primary"
-     },
-     {
-      "letter": "B",
-      "text": "private"
-     },
-     {
-      "letter": "C",
       "text": "precious"
      },
      {
-      "letter": "D",
-      "text": "greedy"
-     }
-    ],
-    "answer": "B",
-    "vi": 14
-   },
-   {
-    "question": "The factory __________ thousands of cars each year.【生產，製造】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "praised"
-     },
-     {
       "letter": "B",
-      "text": "print"
+      "text": "primary"
      },
      {
       "letter": "C",
-      "text": "includes"
+      "text": "private"
      },
      {
       "letter": "D",
-      "text": "produces"
+      "text": "positive"
      }
     ],
-    "answer": "D",
-    "vi": 15
+    "answer": "C",
+    "vi": 14
    },
    {
-    "question": "The film is currently in __________.【生產，製作】",
+    "question": "This factory __________ five hundred cars a day.",
     "options": [
      {
       "letter": "A",
-      "text": "professor"
+      "text": "produces"
      },
      {
       "letter": "B",
-      "text": "printer"
+      "text": "praises"
+     },
+     {
+      "letter": "C",
+      "text": "prints"
+     },
+     {
+      "letter": "D",
+      "text": "punishes"
+     }
+    ],
+    "answer": "A",
+    "vi": 15
+   },
+   {
+    "question": "The __________ of the new phone will begin next month. The factory is ready.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pressure"
+     },
+     {
+      "letter": "B",
+      "text": "powder"
      },
      {
       "letter": "C",
@@ -651,14 +651,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "power"
+      "text": "principal"
      }
     ],
     "answer": "C",
     "vi": 16
    },
    {
-    "question": "She is a __________ of biology.【教授】",
+    "question": "Dr. Lin is a __________ at National Taiwan University. He teaches physics there.",
     "options": [
      {
       "letter": "A",
@@ -666,11 +666,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "printer"
+      "text": "prince"
      },
      {
       "letter": "C",
-      "text": "powder"
+      "text": "printer"
      },
      {
       "letter": "D",
@@ -681,11 +681,11 @@ window.FLASHCARD_UNITS = {
     "vi": 17
    },
    {
-    "question": "The project is making good __________.【進步，進展】",
+    "question": "Amy is making good __________ in English. Her grades are getting better.",
     "options": [
      {
       "letter": "A",
-      "text": "principles"
+      "text": "powder"
      },
      {
       "letter": "B",
@@ -693,18 +693,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "princess"
+      "text": "pressure"
      },
      {
       "letter": "D",
-      "text": "principal"
+      "text": "power"
      }
     ],
     "answer": "B",
     "vi": 18
    },
    {
-    "question": "They are working on a new __________.【專案，計劃】",
+    "question": "Our group is working on a science __________ about plants. We must finish it by Friday.",
     "options": [
      {
       "letter": "A",
@@ -712,15 +712,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "president"
+      "text": "powder"
      },
      {
       "letter": "C",
-      "text": "power"
+      "text": "pressure"
      },
      {
       "letter": "D",
-      "text": "printer"
+      "text": "prince"
      }
     ],
     "answer": "A",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"careless":["not thinking about what you are doing, so you make mistakes","粗心的"],"dialed":["to press the numbers on a phone to call someone","撥號"],"greedy":["wanting more money or food than you need","貪婪的"],"hug":["holding someone in your arms to show love","擁抱"],"includes":["to have something as one of its parts","包含"],"intelligent":["smart; able to learn and understand quickly","聰明的，智慧的"],"power":["electricity","力量，電力"],"powder":["something dry in very small pieces, like flour","粉末"],"praised":["to say good things about someone or something","讚美，表揚"],"precious":["very special and important to you; worth a lot","珍貴的，寶貴的"],"president":["the leader of a country or a company","總統，主席"],"pressure":["a feeling of worry because you must do a lot or do well","壓力，壓迫"],"priest":["a person who leads people in prayer in a church","神父，牧師"],"primary":["main; most important","主要的，初級的"],"prince":["the son of a king or queen","王子"],"princess":["the daughter of a king or queen","公主"],"principal":["the head of a school","校長"],"principles":["a rule or idea about what is right that you live by","原則，信條"],"print":["to put words or pictures on paper with a machine","打印，印刷"],"printer":["a machine that puts words and pictures from a computer on paper","印表機"],"private":["only for one person or a small group; not public","私人的，私密的"],"produces":["to make or grow something","生產，製造"],"production":["the work of making something, like cars or a film","生產，製作"],"professor":["a teacher at a university","教授"],"progress":["getting better or moving forward","進步，進展"],"project":["a big piece of work that is planned carefully","專案，計劃"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"powder":["something dry in very small pieces, like flour","粉末"],"pressure":["a feeling of worry because you must do a lot or do well","壓力，壓迫"],"power":["electricity","力量，電力"],"progress":["getting better or moving forward","進步，進展"],"praised":["to say good things about someone or something","讚美，表揚"],"printed":["to put words or pictures on paper with a machine","打印，印刷"],"produced":["to make or grow something","生產，製造"],"punished":["to make someone suffer because they did something wrong","懲罰，處罰"],"private":["only for one person or a small group; not public","私人的，私密的"],"primary":["main; most important","主要的，初級的"],"plain":["simple, with no pattern or decoration","樸素的，平凡的"],"precious":["very special and important to you; worth a lot","珍貴的，寶貴的"],"priest":["a person who leads people in prayer in a church","神父，牧師"],"prince":["the son of a king or queen","王子"],"president":["the leader of a country or a company","總統，主席"],"professor":["a teacher at a university","教授"],"project":["a big piece of work that is planned carefully","專案，計劃"],"printer":["a machine that puts words and pictures from a computer on paper","印表機"],"princess":["the daughter of a king or queen","公主"],"principle":["a rule or idea about what is right that you live by","原則，信條"],"principal":["the head of a school","校長"],"principles":["a rule or idea about what is right that you live by","原則，信條"],"printers":["a machine that puts words and pictures from a computer on paper","印表機"],"projects":["a big piece of work that is planned carefully","專案，計劃"],"powders":["something dry in very small pieces, like flour","粉末"],"praise":["to say good things about someone or something","讚美，表揚"],"print":["to put words or pictures on paper with a machine","打印，印刷"],"produce":["to make or grow something","生產，製造"],"punish":["to make someone suffer because they did something wrong","懲罰，處罰"],"positive":["thinking about the good side of things","積極的，正面的"],"produces":["to make or grow something","生產，製造"],"praises":["to say good things about someone or something","讚美，表揚"],"prints":["to put words or pictures on paper with a machine","打印，印刷"],"punishes":["to make someone suffer because they did something wrong","懲罰，處罰"],"production":["the work of making something, like cars or a film","生產，製作"]});

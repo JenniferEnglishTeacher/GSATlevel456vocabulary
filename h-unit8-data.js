@@ -267,30 +267,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "She put some __________ in her coffee.【奶油，乳霜】",
+    "question": "Would you like some __________ in your coffee? It makes the coffee white and smooth.",
     "options": [
      {
       "letter": "A",
-      "text": "cream"
+      "text": "crime"
      },
      {
       "letter": "B",
-      "text": "customer"
+      "text": "crowd"
      },
      {
       "letter": "C",
-      "text": "custom"
+      "text": "curve"
      },
      {
       "letter": "D",
-      "text": "danger"
+      "text": "cream"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 0
    },
    {
-    "question": "He wants to __________ a new game.【創造】",
+    "question": "The artist wants to __________ something new. Nobody has seen anything like it before.",
     "options": [
      {
       "letter": "A",
@@ -298,68 +298,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "damaged"
-     },
-     {
-      "letter": "C",
-      "text": "avoid"
-     },
-     {
-      "letter": "D",
       "text": "create"
-     }
-    ],
-    "answer": "D",
-    "vi": 1
-   },
-   {
-    "question": "She paid with her __________.【信用卡】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "danger"
-     },
-     {
-      "letter": "B",
-      "text": "credit card"
      },
      {
       "letter": "C",
-      "text": "culture"
+      "text": "damage"
      },
      {
       "letter": "D",
-      "text": "curtain"
+      "text": "cough"
      }
     ],
     "answer": "B",
-    "vi": 2
+    "vi": 1
    },
    {
-    "question": "He was arrested for __________.【罪行，犯罪】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "customer"
-     },
-     {
-      "letter": "B",
-      "text": "cream"
-     },
-     {
-      "letter": "C",
-      "text": "crime"
-     },
-     {
-      "letter": "D",
-      "text": "curve"
-     }
-    ],
-    "answer": "C",
-    "vi": 3
-   },
-   {
-    "question": "A large __________ gathered at the concert.【人群】",
+    "question": "I didn't have any cash, so I paid with my __________.",
     "options": [
      {
       "letter": "A",
@@ -367,7 +321,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "curtain"
+     },
+     {
+      "letter": "C",
       "text": "credit card"
+     },
+     {
+      "letter": "D",
+      "text": "custom"
+     }
+    ],
+    "answer": "C",
+    "vi": 2
+   },
+   {
+    "question": "Stealing is a __________. The police will catch you and put you in jail.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "crime"
+     },
+     {
+      "letter": "B",
+      "text": "cream"
      },
      {
       "letter": "C",
@@ -375,14 +352,37 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "cream"
+      "text": "curve"
      }
     ],
     "answer": "A",
+    "vi": 3
+   },
+   {
+    "question": "A big __________ of fans waited outside the hotel to see the singer. There were thousands of people.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cream"
+     },
+     {
+      "letter": "B",
+      "text": "crowd"
+     },
+     {
+      "letter": "C",
+      "text": "curtain"
+     },
+     {
+      "letter": "D",
+      "text": "curve"
+     }
+    ],
+    "answer": "B",
     "vi": 4
    },
    {
-    "question": "The train was very __________ during rush hour.【擁擠的】",
+    "question": "The bus was so __________ that I couldn't find a seat. People were standing everywhere.",
     "options": [
      {
       "letter": "A",
@@ -405,76 +405,76 @@ window.FLASHCARD_UNITS = {
     "vi": 5
    },
    {
-    "question": "It was __________ to leave the dog outside in the cold.【殘酷的，無情的】",
+    "question": "It is __________ to hit a dog. Animals feel pain, too.",
     "options": [
      {
       "letter": "A",
-      "text": "daily"
+      "text": "crowded"
      },
      {
       "letter": "B",
-      "text": "cruel"
+      "text": "curious"
      },
      {
       "letter": "C",
-      "text": "current"
+      "text": "cruel"
      },
      {
       "letter": "D",
-      "text": "crowded"
+      "text": "current"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 6
    },
    {
-    "question": "The lioness protected her __________.【幼獸，年輕人】",
+    "question": "The mother bear has two __________. The babies follow her everywhere.",
     "options": [
      {
       "letter": "A",
-      "text": "danger"
-     },
-     {
-      "letter": "B",
-      "text": "crowd"
-     },
-     {
-      "letter": "C",
       "text": "cubs"
      },
      {
+      "letter": "B",
+      "text": "crowds"
+     },
+     {
+      "letter": "C",
+      "text": "curtains"
+     },
+     {
       "letter": "D",
-      "text": "curve"
+      "text": "customs"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 7
    },
    {
-    "question": "Japanese __________ is known for its traditions.【文化】",
+    "question": "I am interested in Japanese __________. I love the food, the art, and the old festivals.",
     "options": [
      {
       "letter": "A",
-      "text": "culture"
+      "text": "curtain"
      },
      {
       "letter": "B",
-      "text": "curve"
+      "text": "culture"
      },
      {
       "letter": "C",
-      "text": "crime"
+      "text": "cream"
      },
      {
       "letter": "D",
-      "text": "cream"
+      "text": "curve"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 8
    },
    {
-    "question": "They are working to __________ the disease.【治癒】",
+    "question": "Doctors are trying to find a way to __________ the disease. Many sick people are waiting.",
     "options": [
      {
       "letter": "A",
@@ -482,195 +482,195 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "damaged"
+      "text": "damage"
      },
      {
       "letter": "C",
-      "text": "skate"
+      "text": "cure"
      },
      {
       "letter": "D",
-      "text": "cure"
+      "text": "cough"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 9
    },
    {
-    "question": "She was __________ about the new neighbors.【好奇的】",
+    "question": "Children are __________ about everything. They ask \"why\" all day long.",
     "options": [
      {
       "letter": "A",
-      "text": "current"
-     },
-     {
-      "letter": "B",
       "text": "curious"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "cruel"
+     },
+     {
+      "letter": "C",
+      "text": "crowded"
      },
      {
       "letter": "D",
       "text": "daily"
-     }
-    ],
-    "answer": "B",
-    "vi": 10
-   },
-   {
-    "question": "The __________ situation is difficult.【當前的，現行的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cruel"
-     },
-     {
-      "letter": "B",
-      "text": "daily"
-     },
-     {
-      "letter": "C",
-      "text": "current"
-     },
-     {
-      "letter": "D",
-      "text": "curious"
-     }
-    ],
-    "answer": "C",
-    "vi": 11
-   },
-   {
-    "question": "She closed the __________ before going to bed.【窗簾，幕】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "credit card"
-     },
-     {
-      "letter": "B",
-      "text": "curve"
-     },
-     {
-      "letter": "C",
-      "text": "cream"
-     },
-     {
-      "letter": "D",
-      "text": "curtain"
-     }
-    ],
-    "answer": "D",
-    "vi": 12
-   },
-   {
-    "question": "The road follows the __________ of the hill.【曲線，彎曲】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "curve"
-     },
-     {
-      "letter": "B",
-      "text": "culture"
-     },
-     {
-      "letter": "C",
-      "text": "custom"
-     },
-     {
-      "letter": "D",
-      "text": "credit card"
      }
     ],
     "answer": "A",
-    "vi": 13
+    "vi": 10
    },
    {
-    "question": "It is a local __________ to celebrate the festival with fireworks.【風俗，習慣】",
+    "question": "Who is the __________ president of the U.S.A.? I only know the one before.",
     "options": [
      {
       "letter": "A",
-      "text": "crowd"
-     },
-     {
-      "letter": "B",
-      "text": "crime"
-     },
-     {
-      "letter": "C",
-      "text": "custom"
-     },
-     {
-      "letter": "D",
-      "text": "curve"
-     }
-    ],
-    "answer": "C",
-    "vi": 14
-   },
-   {
-    "question": "The __________ was satisfied with the service.【顧客】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "danger"
-     },
-     {
-      "letter": "B",
-      "text": "customer"
-     },
-     {
-      "letter": "C",
-      "text": "curve"
-     },
-     {
-      "letter": "D",
-      "text": "culture"
-     }
-    ],
-    "answer": "B",
-    "vi": 15
-   },
-   {
-    "question": "She reads the __________ newspaper every morning.【每日的，日常的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "current"
-     },
-     {
-      "letter": "B",
       "text": "cruel"
      },
      {
+      "letter": "B",
+      "text": "crowded"
+     },
+     {
       "letter": "C",
+      "text": "curious"
+     },
+     {
+      "letter": "D",
+      "text": "current"
+     }
+    ],
+    "answer": "D",
+    "vi": 11
+   },
+   {
+    "question": "Please close the __________. The sun is shining through the window into my eyes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "customs"
+     },
+     {
+      "letter": "B",
+      "text": "crowds"
+     },
+     {
+      "letter": "C",
+      "text": "curtains"
+     },
+     {
+      "letter": "D",
+      "text": "curves"
+     }
+    ],
+    "answer": "C",
+    "vi": 12
+   },
+   {
+    "question": "Slow down! There is a sharp __________ in the road ahead, and you can't see around it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cream"
+     },
+     {
+      "letter": "B",
+      "text": "curve"
+     },
+     {
+      "letter": "C",
+      "text": "crowd"
+     },
+     {
+      "letter": "D",
+      "text": "custom"
+     }
+    ],
+    "answer": "B",
+    "vi": 13
+   },
+   {
+    "question": "Giving red envelopes at Chinese New Year is an old __________ in Taiwan.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "curve"
+     },
+     {
+      "letter": "B",
+      "text": "cream"
+     },
+     {
+      "letter": "C",
+      "text": "danger"
+     },
+     {
+      "letter": "D",
+      "text": "custom"
+     }
+    ],
+    "answer": "D",
+    "vi": 14
+   },
+   {
+    "question": "The store is full of __________ today because everything is on sale.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "customers"
+     },
+     {
+      "letter": "B",
+      "text": "curtains"
+     },
+     {
+      "letter": "C",
+      "text": "curves"
+     },
+     {
+      "letter": "D",
+      "text": "cubs"
+     }
+    ],
+    "answer": "A",
+    "vi": 15
+   },
+   {
+    "question": "Exercise is part of my __________ life. I run in the park every morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cruel"
+     },
+     {
+      "letter": "B",
       "text": "daily"
+     },
+     {
+      "letter": "C",
+      "text": "crowded"
      },
      {
       "letter": "D",
       "text": "curious"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 16
    },
    {
-    "question": "The storm __________ several houses.【損害，破壞】",
+    "question": "The typhoon __________ many houses. Some roofs and windows were broken.",
     "options": [
      {
       "letter": "A",
-      "text": "create"
+      "text": "created"
      },
      {
       "letter": "B",
-      "text": "cure"
+      "text": "cured"
      },
      {
       "letter": "C",
-      "text": "commanded"
+      "text": "coughed"
      },
      {
       "letter": "D",
@@ -681,30 +681,30 @@ window.FLASHCARD_UNITS = {
     "vi": 17
    },
    {
-    "question": "She is a professional __________.【舞者，舞蹈家】",
+    "question": "Lisa is a great __________. She moves beautifully to the music on the stage.",
     "options": [
      {
       "letter": "A",
-      "text": "custom"
+      "text": "customer"
      },
      {
       "letter": "B",
+      "text": "danger"
+     },
+     {
+      "letter": "C",
       "text": "dancer"
      },
      {
-      "letter": "C",
-      "text": "crime"
-     },
-     {
       "letter": "D",
-      "text": "danger"
+      "text": "curtain"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 18
    },
    {
-    "question": "He was in great __________ during the storm.【危險】",
+    "question": "The sign says \"__________! Deep water.\" Don't swim here.",
     "options": [
      {
       "letter": "A",
@@ -712,15 +712,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "custom"
+      "text": "Dancer"
      },
      {
       "letter": "C",
-      "text": "curtain"
+      "text": "Custom"
      },
      {
       "letter": "D",
-      "text": "curve"
+      "text": "Culture"
      }
     ],
     "answer": "A",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"avoid":["to stay away from something; to try not to do something","避免"],"commanded":["to tell someone that they must do something","命令，指揮"],"cream":["the thick, white, fatty part of milk","奶油，乳霜"],"create":["to make something new","創造"],"crime":["something that is against the law","罪行，犯罪"],"crowd":["a large group of people in one place","人群"],"crowded":["full of people","擁擠的"],"cruel":["making people or animals suffer; very unkind","殘酷的，無情的"],"cubs":["a baby lion, bear, or tiger","幼獸，年輕人"],"culture":["the way of life, art, and ideas of a group of people","文化"],"cure":["to make a sick person well again; to make a sickness go away","治癒"],"curious":["wanting to know or learn about something","好奇的"],"current":["happening now","當前的，現行的"],"curtain":["a piece of cloth that hangs in front of a window","窗簾，幕"],"curve":["a line or shape that bends","曲線，彎曲"],"custom":["something that people in a place have done for a long time","風俗，習慣"],"customer":["a person who buys something from a store","顧客"],"daily":["happening or coming out every day","每日的，日常的"],"damaged":["to break or hurt something so it is not as good as before","損害，破壞"],"dancer":["a person who dances","舞者，舞蹈家"],"danger":["the chance that someone will be hurt or killed","危險"],"skate":["to move on ice wearing special shoes","滑冰，溜冰"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"crime":["something that is against the law","罪行，犯罪"],"crowd":["a large group of people in one place","人群"],"curve":["a line or shape that bends","曲線，彎曲"],"cream":["the thick, white, fatty part of milk","奶油，乳霜"],"cure":["to make a sick person well again; to make a sickness go away","治癒"],"create":["to make something new","創造"],"damage":["to break or hurt something so it is not as good as before","損害，破壞"],"cough":["to push air out of your throat with a sudden, rough sound","咳嗽"],"curtain":["a piece of cloth that hangs in front of a window","窗簾，幕"],"custom":["something that people in a place have done for a long time","風俗，習慣"],"culture":["the way of life, art, and ideas of a group of people","文化"],"cruel":["making people or animals suffer; very unkind","殘酷的，無情的"],"curious":["wanting to know or learn about something","好奇的"],"daily":["happening or coming out every day","每日的，日常的"],"crowded":["full of people","擁擠的"],"current":["happening now","當前的，現行的"],"cubs":["a baby lion, bear, or tiger","幼獸，年輕人"],"crowds":["a large group of people in one place","人群"],"curtains":["a piece of cloth that hangs in front of a window","窗簾，幕"],"customs":["something that people in a place have done for a long time","風俗，習慣"],"curves":["a line or shape that bends","曲線，彎曲"],"danger":["the chance that someone will be hurt or killed","危險"],"customers":["a person who buys something from a store","顧客"],"created":["to make something new","創造"],"cured":["to make a sick person well again; to make a sickness go away","治癒"],"coughed":["","咳嗽"],"damaged":["to break or hurt something so it is not as good as before","損害，破壞"],"customer":["a person who buys something from a store","顧客"],"dancer":["a person who dances","舞者，舞蹈家"]});

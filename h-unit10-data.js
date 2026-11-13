@@ -267,80 +267,34 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "She received a __________ ring for her birthday.【鑽石】",
+    "question": "He gave her a __________ ring when he asked her to marry him. The stone was very bright.",
     "options": [
      {
       "letter": "A",
-      "text": "diet"
-     },
-     {
-      "letter": "B",
-      "text": "diamond"
-     },
-     {
-      "letter": "C",
-      "text": "dolphin"
-     },
-     {
-      "letter": "D",
-      "text": "dodge ball"
-     }
-    ],
-    "answer": "B",
-    "vi": 0
-   },
-   {
-    "question": "She writes in her __________ every night.【日記】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dinosaur"
-     },
-     {
-      "letter": "B",
-      "text": "donkey"
-     },
-     {
-      "letter": "C",
       "text": "diary"
      },
      {
-      "letter": "D",
-      "text": "distance"
-     }
-    ],
-    "answer": "C",
-    "vi": 1
-   },
-   {
-    "question": "She is on a strict __________.【飲食，節食】",
-    "options": [
-     {
-      "letter": "A",
+      "letter": "B",
       "text": "diet"
      },
      {
-      "letter": "B",
-      "text": "dinosaur"
-     },
-     {
       "letter": "C",
-      "text": "distance"
+      "text": "donkey"
      },
      {
       "letter": "D",
-      "text": "discussion"
+      "text": "diamond"
      }
     ],
-    "answer": "A",
-    "vi": 2
+    "answer": "D",
+    "vi": 0
    },
    {
-    "question": "There is a big __________ between the two plans.【差異，區別】",
+    "question": "Amy writes in her __________ every night. She puts down everything that happened that day.",
     "options": [
      {
       "letter": "A",
-      "text": "discussion"
+      "text": "diary"
      },
      {
       "letter": "B",
@@ -348,68 +302,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "distance"
-     },
-     {
-      "letter": "D",
-      "text": "difference"
-     }
-    ],
-    "answer": "D",
-    "vi": 3
-   },
-   {
-    "question": "He had __________ solving the problem.【困難，難題】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "distance"
-     },
-     {
-      "letter": "B",
-      "text": "difficulty"
-     },
-     {
-      "letter": "C",
       "text": "diet"
      },
      {
       "letter": "D",
-      "text": "dinosaur"
-     }
-    ],
-    "answer": "B",
-    "vi": 4
-   },
-   {
-    "question": "She is a very __________ student.【勤勉的，勤奮的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "diligent"
-     },
-     {
-      "letter": "B",
-      "text": "dizzy"
-     },
-     {
-      "letter": "C",
-      "text": "calm"
-     },
-     {
-      "letter": "D",
-      "text": "evil"
+      "text": "distance"
      }
     ],
     "answer": "A",
-    "vi": 5
+    "vi": 1
    },
    {
-    "question": "The museum has a new __________ exhibit.【恐龍】",
+    "question": "I am on a __________. I am trying to lose five kilograms, so I can't eat cake.",
     "options": [
      {
       "letter": "A",
-      "text": "donkey"
+      "text": "diary"
+     },
+     {
+      "letter": "B",
+      "text": "diet"
+     },
+     {
+      "letter": "C",
+      "text": "diamond"
+     },
+     {
+      "letter": "D",
+      "text": "dolphin"
+     }
+    ],
+    "answer": "B",
+    "vi": 2
+   },
+   {
+    "question": "What is the __________ between these two phones? They look the same to me.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "difficulty"
+     },
+     {
+      "letter": "B",
+      "text": "direction"
+     },
+     {
+      "letter": "C",
+      "text": "difference"
+     },
+     {
+      "letter": "D",
+      "text": "discussion"
+     }
+    ],
+    "answer": "C",
+    "vi": 3
+   },
+   {
+    "question": "The old man has __________ walking. He needs a stick to help him.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "difference"
      },
      {
       "letter": "B",
@@ -417,41 +371,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
+      "text": "direction"
+     },
+     {
+      "letter": "D",
+      "text": "difficulty"
+     }
+    ],
+    "answer": "D",
+    "vi": 4
+   },
+   {
+    "question": "Ben is a __________ student. He studies hard every day and never forgets his homework.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dizzy"
+     },
+     {
+      "letter": "B",
+      "text": "diligent"
+     },
+     {
+      "letter": "C",
+      "text": "deaf"
+     },
+     {
+      "letter": "D",
+      "text": "daily"
+     }
+    ],
+    "answer": "B",
+    "vi": 5
+   },
+   {
+    "question": "The __________ was a very big animal. It lived on the earth millions of years ago.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dolphin"
+     },
+     {
+      "letter": "B",
+      "text": "donkey"
+     },
+     {
+      "letter": "C",
       "text": "dinosaur"
      },
      {
       "letter": "D",
-      "text": "diplomat"
+      "text": "diamond"
      }
     ],
     "answer": "C",
     "vi": 6
    },
    {
-    "question": "He is a well-known __________.【外交官】",
+    "question": "Mr. Wang is a __________. He works for Taiwan in an office in Japan.",
     "options": [
      {
       "letter": "A",
-      "text": "diamond"
+      "text": "diplomat"
      },
      {
       "letter": "B",
-      "text": "discussion"
-     },
-     {
-      "letter": "C",
       "text": "dinosaur"
      },
      {
+      "letter": "C",
+      "text": "dolphin"
+     },
+     {
       "letter": "D",
-      "text": "diplomat"
+      "text": "donkey"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 7
    },
    {
-    "question": "She __________ the play with great skill.【指導，指揮】",
+    "question": "He __________ three movies last year. He told all the actors what to do.",
     "options": [
      {
       "letter": "A",
@@ -463,26 +463,118 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "directed"
+      "text": "discussed"
      },
      {
       "letter": "D",
-      "text": "discovered"
+      "text": "directed"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 8
    },
    {
-    "question": "We need to follow the __________ to find the place.【方向，指導】",
+    "question": "I am lost. Can you give me __________ to the train station?",
     "options": [
      {
       "letter": "A",
-      "text": "diet"
+      "text": "directions"
      },
      {
       "letter": "B",
-      "text": "directions"
+      "text": "differences"
+     },
+     {
+      "letter": "C",
+      "text": "distances"
+     },
+     {
+      "letter": "D",
+      "text": "dinosaurs"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "The magician waved his hand, and the rabbit __________. Nobody could see it anymore.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "discovered"
+     },
+     {
+      "letter": "B",
+      "text": "discussed"
+     },
+     {
+      "letter": "C",
+      "text": "disappeared"
+     },
+     {
+      "letter": "D",
+      "text": "divided"
+     }
+    ],
+    "answer": "C",
+    "vi": 10
+   },
+   {
+    "question": "Scientists __________ a new star last month. Nobody knew about it before.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "disappeared"
+     },
+     {
+      "letter": "B",
+      "text": "discovered"
+     },
+     {
+      "letter": "C",
+      "text": "divided"
+     },
+     {
+      "letter": "D",
+      "text": "discussed"
+     }
+    ],
+    "answer": "B",
+    "vi": 11
+   },
+   {
+    "question": "Let's __________ the plan at the meeting. Everyone can say what they think.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "disappear"
+     },
+     {
+      "letter": "B",
+      "text": "divide"
+     },
+     {
+      "letter": "C",
+      "text": "discuss"
+     },
+     {
+      "letter": "D",
+      "text": "direct"
+     }
+    ],
+    "answer": "C",
+    "vi": 12
+   },
+   {
+    "question": "We had a long __________ about where to go for the class trip. Everyone gave an idea.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "discussion"
+     },
+     {
+      "letter": "B",
+      "text": "distance"
      },
      {
       "letter": "C",
@@ -490,183 +582,91 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "difference"
-     }
-    ],
-    "answer": "B",
-    "vi": 9
-   },
-   {
-    "question": "The sun __________ behind the clouds.【消失，不見】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "divided"
-     },
-     {
-      "letter": "B",
-      "text": "directed"
-     },
-     {
-      "letter": "C",
-      "text": "discovered"
-     },
-     {
-      "letter": "D",
-      "text": "disappeared"
-     }
-    ],
-    "answer": "D",
-    "vi": 10
-   },
-   {
-    "question": "They __________ a new species of bird.【發現，找到】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "discovered"
-     },
-     {
-      "letter": "B",
-      "text": "directed"
-     },
-     {
-      "letter": "C",
-      "text": "divided"
-     },
-     {
-      "letter": "D",
-      "text": "disappeared"
+      "text": "dinosaur"
      }
     ],
     "answer": "A",
-    "vi": 11
+    "vi": 13
    },
    {
-    "question": "Let's __________ the plan in detail.【討論，商議】",
+    "question": "The __________ from my home to school is two kilometers. I walk it in thirty minutes.",
     "options": [
      {
       "letter": "A",
-      "text": "directed"
+      "text": "difference"
      },
      {
       "letter": "B",
-      "text": "discuss"
-     },
-     {
-      "letter": "C",
-      "text": "divided"
-     },
-     {
-      "letter": "D",
-      "text": "discovered"
-     }
-    ],
-    "answer": "B",
-    "vi": 12
-   },
-   {
-    "question": "The __________ was very productive.【討論，商談】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "diary"
-     },
-     {
-      "letter": "B",
-      "text": "difficulty"
-     },
-     {
-      "letter": "C",
       "text": "distance"
+     },
+     {
+      "letter": "C",
+      "text": "difficulty"
      },
      {
       "letter": "D",
       "text": "discussion"
      }
     ],
-    "answer": "D",
-    "vi": 13
-   },
-   {
-    "question": "The __________ between the two cities is 100 miles.【距離】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dodge ball"
-     },
-     {
-      "letter": "B",
-      "text": "diet"
-     },
-     {
-      "letter": "C",
-      "text": "distance"
-     },
-     {
-      "letter": "D",
-      "text": "diplomat"
-     }
-    ],
-    "answer": "C",
+    "answer": "B",
     "vi": 14
    },
    {
-    "question": "The cake was __________ into eight pieces.【分開，劃分】",
+    "question": "Mom will __________ the cake into eight pieces. Each of us can have one.",
     "options": [
      {
       "letter": "A",
-      "text": "divided"
+      "text": "discuss"
      },
      {
       "letter": "B",
-      "text": "disappeared"
+      "text": "discover"
      },
      {
       "letter": "C",
-      "text": "directed"
+      "text": "disappear"
      },
      {
       "letter": "D",
-      "text": "discovered"
+      "text": "divide"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 15
    },
    {
-    "question": "She felt __________ after riding the roller coaster.【頭暈的】",
+    "question": "I feel __________ after going around and around. Everything seems to be moving.",
     "options": [
      {
       "letter": "A",
-      "text": "diligent"
-     },
-     {
-      "letter": "B",
       "text": "dizzy"
      },
      {
+      "letter": "B",
+      "text": "diligent"
+     },
+     {
       "letter": "C",
-      "text": "humid"
+      "text": "deaf"
      },
      {
       "letter": "D",
-      "text": "usual"
+      "text": "daily"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 16
    },
    {
-    "question": "They played __________ during gym class.【躲避球】",
+    "question": "We played __________ in PE class. I got hit by the ball, so I was out.",
     "options": [
      {
       "letter": "A",
-      "text": "difference"
+      "text": "diamond"
      },
      {
       "letter": "B",
-      "text": "diamond"
+      "text": "diary"
      },
      {
       "letter": "C",
@@ -674,59 +674,59 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "difficulty"
+      "text": "diet"
      }
     ],
     "answer": "C",
     "vi": 17
    },
    {
-    "question": "The __________ jumped out of the water.【海豚】",
+    "question": "A __________ is a smart sea animal. It can jump out of the water and play with a ball.",
     "options": [
      {
       "letter": "A",
-      "text": "diplomat"
-     },
-     {
-      "letter": "B",
-      "text": "dinosaur"
-     },
-     {
-      "letter": "C",
       "text": "donkey"
      },
      {
-      "letter": "D",
+      "letter": "B",
       "text": "dolphin"
+     },
+     {
+      "letter": "C",
+      "text": "dinosaur"
+     },
+     {
+      "letter": "D",
+      "text": "diplomat"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 18
    },
    {
-    "question": "The __________ carried the heavy load up the hill.【驢】",
+    "question": "A __________ looks like a small horse with long ears. Farmers use it to carry heavy things.",
     "options": [
      {
       "letter": "A",
-      "text": "donkey"
+      "text": "dolphin"
      },
      {
       "letter": "B",
-      "text": "diplomat"
-     },
-     {
-      "letter": "C",
       "text": "dinosaur"
      },
      {
+      "letter": "C",
+      "text": "diamond"
+     },
+     {
       "letter": "D",
-      "text": "difficulty"
+      "text": "donkey"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"calm":["quiet and not worried or excited","冷靜的，平靜的"],"diamond":["a very hard, clear, expensive stone used in rings","鑽石"],"diary":["a book in which you write what happens every day","日記"],"diet":["a plan to eat less or only some foods, to lose weight","飲食，節食"],"difference":["the way in which two things are not the same","差異，區別"],"difficulty":["a problem; something that is hard to do","困難，難題"],"diligent":["working hard and carefully","勤勉的，勤奮的"],"dinosaur":["a very big animal that lived millions of years ago","恐龍"],"diplomat":["a person who works for his or her country in another country","外交官"],"directed":["to tell actors what to do in a play or movie","指導，指揮"],"directions":["words that tell you how to get to a place or how to do something","方向，指導"],"disappeared":["to go away so that no one can see it","消失，不見"],"discovered":["to find something for the first time","發現，找到"],"discuss":["to talk about something with other people","討論，商議"],"discussion":["a talk about something","討論，商談"],"distance":["how far it is between two places","距離"],"divided":["to cut or break something into parts","分開，劃分"],"dizzy":["feeling that everything is turning around you","頭暈的"],"dolphin":["a smart sea animal that looks like a big fish and jumps out of the water","海豚"],"donkey":["an animal like a small horse with long ears","驢"],"evil":["very bad and wanting to hurt people","邪惡的，壞的"],"humid":["(of weather) warm and wet","潮濕的，濕熱的"],"usual":["normal; happening most of the time","通常的，平常的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"diary":["a book in which you write what happens every day","日記"],"diet":["a plan to eat less or only some foods, to lose weight","飲食，節食"],"donkey":["an animal like a small horse with long ears","驢"],"diamond":["a very hard, clear, expensive stone used in rings","鑽石"],"distance":["how far it is between two places","距離"],"dolphin":["a smart sea animal that looks like a big fish and jumps out of the water","海豚"],"difficulty":["a problem; something that is hard to do","困難，難題"],"direction":["words that tell you how to get to a place or how to do something","方向，指導"],"difference":["the way in which two things are not the same","差異，區別"],"discussion":["a talk about something","討論，商談"],"dizzy":["feeling that everything is turning around you","頭暈的"],"diligent":["working hard and carefully","勤勉的，勤奮的"],"deaf":["not able to hear","聾的，失聰的"],"daily":["happening or coming out every day","每日的，日常的"],"dinosaur":["a very big animal that lived millions of years ago","恐龍"],"diplomat":["a person who works for his or her country in another country","外交官"],"disappeared":["to go away so that no one can see it","消失，不見"],"divided":["to cut or break something into parts","分開，劃分"],"discussed":["to talk about something with other people","討論，商議"],"directed":["to tell actors what to do in a play or movie","指導，指揮"],"directions":["words that tell you how to get to a place or how to do something","方向，指導"],"differences":["the way in which two things are not the same","差異，區別"],"distances":["how far it is between two places","距離"],"dinosaurs":["a very big animal that lived millions of years ago","恐龍"],"discovered":["to find something for the first time","發現，找到"],"disappear":["to go away so that no one can see it","消失，不見"],"divide":["to cut or break something into parts","分開，劃分"],"discuss":["to talk about something with other people","討論，商議"],"direct":["to tell actors what to do in a play or movie","指導，指揮"],"discover":["to find something for the first time","發現，找到"]});

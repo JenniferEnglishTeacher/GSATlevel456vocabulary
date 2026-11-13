@@ -174,67 +174,67 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "She put some ______ in her coffee.【奶油，乳霜】",
+    "q": "Would you like some ______ in your coffee? It makes the coffee white and smooth.",
     "options": [
-      "cream",
-      "customer",
-      "custom",
-      "danger"
+      "crime",
+      "crowd",
+      "curve",
+      "cream"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "她在咖啡裡加了些奶油。",
     "vocabIndex": 0
   },
   {
-    "q": "He wants to ______ a new game.【創造】",
+    "q": "The artist wants to ______ something new. Nobody has seen anything like it before.",
     "options": [
       "cure",
-      "damaged",
-      "avoid",
-      "create"
+      "create",
+      "damage",
+      "cough"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他想創造一個新遊戲。",
     "vocabIndex": 1
   },
   {
-    "q": "She paid with her ______.【信用卡】",
+    "q": "I didn't have any cash, so I paid with my ______.",
     "options": [
-      "danger",
+      "crowd",
+      "curtain",
       "credit card",
-      "culture",
-      "curtain"
+      "custom"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "她用信用卡支付了。",
     "vocabIndex": 2
   },
   {
-    "q": "He was arrested for ______.【罪行，犯罪】",
+    "q": "Stealing is a ______. The police will catch you and put you in jail.",
     "options": [
-      "customer",
-      "cream",
       "crime",
+      "cream",
+      "culture",
       "curve"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他因犯罪被逮捕。",
     "vocabIndex": 3
   },
   {
-    "q": "A large ______ gathered at the concert.【人群】",
+    "q": "A big ______ of fans waited outside the hotel to see the singer. There were thousands of people.",
     "options": [
+      "cream",
       "crowd",
-      "credit card",
-      "culture",
-      "cream"
+      "curtain",
+      "curve"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "音樂會聚集了一大群人。",
     "vocabIndex": 4
   },
   {
-    "q": "The train was very ______ during rush hour.【擁擠的】",
+    "q": "The bus was so ______ that I couldn't find a seat. People were standing everywhere.",
     "options": [
       "cruel",
       "curious",
@@ -246,143 +246,143 @@ const MCQS = [
     "vocabIndex": 5
   },
   {
-    "q": "It was ______ to leave the dog outside in the cold.【殘酷的，無情的】",
+    "q": "It is ______ to hit a dog. Animals feel pain, too.",
     "options": [
-      "daily",
+      "crowded",
+      "curious",
       "cruel",
-      "current",
-      "crowded"
+      "current"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "把狗留在寒冷的外面是很殘酷的。",
     "vocabIndex": 6
   },
   {
-    "q": "The lioness protected her ______.【幼獸，年輕人】",
+    "q": "The mother bear has two ______. The babies follow her everywhere.",
     "options": [
-      "danger",
-      "crowd",
       "cubs",
-      "curve"
+      "crowds",
+      "curtains",
+      "customs"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "母獅保護她的幼崽。",
     "vocabIndex": 7
   },
   {
-    "q": "Japanese ______ is known for its traditions.【文化】",
+    "q": "I am interested in Japanese ______. I love the food, the art, and the old festivals.",
     "options": [
+      "curtain",
       "culture",
-      "curve",
-      "crime",
-      "cream"
+      "cream",
+      "curve"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "日本文化以其傳統著稱。",
     "vocabIndex": 8
   },
   {
-    "q": "They are working to ______ the disease.【治癒】",
+    "q": "Doctors are trying to find a way to ______ the disease. Many sick people are waiting.",
     "options": [
       "create",
-      "damaged",
-      "skate",
-      "cure"
+      "damage",
+      "cure",
+      "cough"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "他們正在努力治癒這種疾病。",
     "vocabIndex": 9
   },
   {
-    "q": "She was ______ about the new neighbors.【好奇的】",
+    "q": "Children are ______ about everything. They ask \"why\" all day long.",
     "options": [
-      "current",
       "curious",
       "cruel",
+      "crowded",
       "daily"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "她對新鄰居感到好奇。",
     "vocabIndex": 10
   },
   {
-    "q": "The ______ situation is difficult.【當前的，現行的】",
+    "q": "Who is the ______ president of the U.S.A.? I only know the one before.",
     "options": [
       "cruel",
-      "daily",
-      "current",
-      "curious"
+      "crowded",
+      "curious",
+      "current"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "當前的情況很困難。",
     "vocabIndex": 11
   },
   {
-    "q": "She closed the ______ before going to bed.【窗簾，幕】",
+    "q": "Please close the ______. The sun is shining through the window into my eyes.",
     "options": [
-      "credit card",
-      "curve",
-      "cream",
-      "curtain"
+      "customs",
+      "crowds",
+      "curtains",
+      "curves"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "她睡前拉上了窗簾。",
     "vocabIndex": 12
   },
   {
-    "q": "The road follows the ______ of the hill.【曲線，彎曲】",
+    "q": "Slow down! There is a sharp ______ in the road ahead, and you can't see around it.",
     "options": [
+      "cream",
       "curve",
-      "culture",
-      "custom",
-      "credit card"
+      "crowd",
+      "custom"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "道路沿著山坡蜿蜒。",
     "vocabIndex": 13
   },
   {
-    "q": "It is a local ______ to celebrate the festival with fireworks.【風俗，習慣】",
+    "q": "Giving red envelopes at Chinese New Year is an old ______ in Taiwan.",
     "options": [
-      "crowd",
-      "crime",
-      "custom",
-      "curve"
+      "curve",
+      "cream",
+      "danger",
+      "custom"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "這是當地用煙花慶祝節日的習俗。",
     "vocabIndex": 14
   },
   {
-    "q": "The ______ was satisfied with the service.【顧客】",
+    "q": "The store is full of ______ today because everything is on sale.",
     "options": [
-      "danger",
-      "customer",
-      "curve",
-      "culture"
+      "customers",
+      "curtains",
+      "curves",
+      "cubs"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "顧客對服務很滿意。",
     "vocabIndex": 15
   },
   {
-    "q": "She reads the ______ newspaper every morning.【每日的，日常的】",
+    "q": "Exercise is part of my ______ life. I run in the park every morning.",
     "options": [
-      "current",
       "cruel",
       "daily",
+      "crowded",
       "curious"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她每天早上讀日報。",
     "vocabIndex": 16
   },
   {
-    "q": "The storm ______ several houses.【損害，破壞】",
+    "q": "The typhoon ______ many houses. Some roofs and windows were broken.",
     "options": [
-      "create",
-      "cure",
-      "commanded",
+      "created",
+      "cured",
+      "coughed",
       "damaged"
     ],
     "answer": 3,
@@ -390,24 +390,24 @@ const MCQS = [
     "vocabIndex": 17
   },
   {
-    "q": "She is a professional ______.【舞者，舞蹈家】",
+    "q": "Lisa is a great ______. She moves beautifully to the music on the stage.",
     "options": [
-      "custom",
+      "customer",
+      "danger",
       "dancer",
-      "crime",
-      "danger"
+      "curtain"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "她是一名專業舞者。",
     "vocabIndex": 18
   },
   {
-    "q": "He was in great ______ during the storm.【危險】",
+    "q": "The sign says \"______! Deep water.\" Don't swim here.",
     "options": [
       "danger",
-      "custom",
-      "curtain",
-      "curve"
+      "Dancer",
+      "Custom",
+      "Culture"
     ],
     "answer": 0,
     "cn": "他在暴風雨中處於極大的危險中。",
@@ -416,31 +416,6 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "avoid": {
-    "pos": "v.",
-    "en_def": "to stay away from something; to try not to do something",
-    "cn_def": "避免"
-  },
-  "commanded": {
-    "pos": "v.",
-    "en_def": "to tell someone that they must do something",
-    "cn_def": "命令，指揮"
-  },
-  "cream": {
-    "pos": "n.",
-    "en_def": "the thick, white, fatty part of milk",
-    "cn_def": "奶油，乳霜"
-  },
-  "create": {
-    "pos": "v.",
-    "en_def": "to make something new",
-    "cn_def": "創造"
-  },
-  "credit card": {
-    "pos": "n.",
-    "en_def": "a plastic card you use to buy things now and pay later",
-    "cn_def": "信用卡"
-  },
   "crime": {
     "pos": "n.",
     "en_def": "something that is against the law",
@@ -451,85 +426,145 @@ const LOOKUP = {
     "en_def": "a large group of people in one place",
     "cn_def": "人群"
   },
-  "crowded": {
-    "pos": "adj.",
-    "en_def": "full of people",
-    "cn_def": "擁擠的"
-  },
-  "cruel": {
-    "pos": "adj.",
-    "en_def": "making people or animals suffer; very unkind",
-    "cn_def": "殘酷的，無情的"
-  },
-  "cubs": {
+  "curve": {
     "pos": "n.",
-    "en_def": "a baby lion, bear, or tiger",
-    "cn_def": "幼獸，年輕人"
+    "en_def": "a line or shape that bends",
+    "cn_def": "曲線，彎曲"
   },
-  "culture": {
+  "cream": {
     "pos": "n.",
-    "en_def": "the way of life, art, and ideas of a group of people",
-    "cn_def": "文化"
+    "en_def": "the thick, white, fatty part of milk",
+    "cn_def": "奶油，乳霜"
   },
   "cure": {
     "pos": "v.",
     "en_def": "to make a sick person well again; to make a sickness go away",
     "cn_def": "治癒"
   },
-  "curious": {
-    "pos": "adj.",
-    "en_def": "wanting to know or learn about something",
-    "cn_def": "好奇的"
+  "create": {
+    "pos": "v.",
+    "en_def": "to make something new",
+    "cn_def": "創造"
   },
-  "current": {
-    "pos": "adj.",
-    "en_def": "happening now",
-    "cn_def": "當前的，現行的"
+  "damage": {
+    "pos": "v.",
+    "en_def": "to break or hurt something so it is not as good as before",
+    "cn_def": "損害，破壞"
+  },
+  "cough": {
+    "pos": "v.",
+    "en_def": "to push air out of your throat with a sudden, rough sound",
+    "cn_def": "咳嗽"
   },
   "curtain": {
     "pos": "n.",
     "en_def": "a piece of cloth that hangs in front of a window",
     "cn_def": "窗簾，幕"
   },
-  "curve": {
+  "credit card": {
     "pos": "n.",
-    "en_def": "a line or shape that bends",
-    "cn_def": "曲線，彎曲"
+    "en_def": "a plastic card you use to buy things now and pay later",
+    "cn_def": "信用卡"
   },
   "custom": {
     "pos": "n.",
     "en_def": "something that people in a place have done for a long time",
     "cn_def": "風俗，習慣"
   },
-  "customer": {
+  "culture": {
     "pos": "n.",
-    "en_def": "a person who buys something from a store",
-    "cn_def": "顧客"
+    "en_def": "the way of life, art, and ideas of a group of people",
+    "cn_def": "文化"
+  },
+  "cruel": {
+    "pos": "adj.",
+    "en_def": "making people or animals suffer; very unkind",
+    "cn_def": "殘酷的，無情的"
+  },
+  "curious": {
+    "pos": "adj.",
+    "en_def": "wanting to know or learn about something",
+    "cn_def": "好奇的"
   },
   "daily": {
     "pos": "adj.",
     "en_def": "happening or coming out every day",
     "cn_def": "每日的，日常的"
   },
-  "damaged": {
-    "pos": "v.",
-    "en_def": "to break or hurt something so it is not as good as before",
-    "cn_def": "損害，破壞"
+  "crowded": {
+    "pos": "adj.",
+    "en_def": "full of people",
+    "cn_def": "擁擠的"
   },
-  "dancer": {
+  "current": {
+    "pos": "adj.",
+    "en_def": "happening now",
+    "cn_def": "當前的，現行的"
+  },
+  "cubs": {
     "pos": "n.",
-    "en_def": "a person who dances",
-    "cn_def": "舞者，舞蹈家"
+    "en_def": "a baby lion, bear, or tiger",
+    "cn_def": "幼獸，年輕人"
+  },
+  "crowds": {
+    "pos": "n.",
+    "en_def": "a large group of people in one place",
+    "cn_def": "人群"
+  },
+  "curtains": {
+    "pos": "n.",
+    "en_def": "a piece of cloth that hangs in front of a window",
+    "cn_def": "窗簾，幕"
+  },
+  "customs": {
+    "pos": "n.",
+    "en_def": "something that people in a place have done for a long time",
+    "cn_def": "風俗，習慣"
+  },
+  "curves": {
+    "pos": "n.",
+    "en_def": "a line or shape that bends",
+    "cn_def": "曲線，彎曲"
   },
   "danger": {
     "pos": "n.",
     "en_def": "the chance that someone will be hurt or killed",
     "cn_def": "危險"
   },
-  "skate": {
+  "customers": {
+    "pos": "n.",
+    "en_def": "a person who buys something from a store",
+    "cn_def": "顧客"
+  },
+  "created": {
     "pos": "v.",
-    "en_def": "to move on ice wearing special shoes",
-    "cn_def": "滑冰，溜冰"
+    "en_def": "to make something new",
+    "cn_def": "創造"
+  },
+  "cured": {
+    "pos": "v.",
+    "en_def": "to make a sick person well again; to make a sickness go away",
+    "cn_def": "治癒"
+  },
+  "coughed": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "咳嗽"
+  },
+  "damaged": {
+    "pos": "v.",
+    "en_def": "to break or hurt something so it is not as good as before",
+    "cn_def": "損害，破壞"
+  },
+  "customer": {
+    "pos": "n.",
+    "en_def": "a person who buys something from a store",
+    "cn_def": "顧客"
+  },
+  "dancer": {
+    "pos": "n.",
+    "en_def": "a person who dances",
+    "cn_def": "舞者，舞蹈家"
   }
 };
 

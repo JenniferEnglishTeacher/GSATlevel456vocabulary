@@ -267,34 +267,34 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "They spent the __________ day at the beach.【整個的，全部的】",
+    "question": "I was so hungry that I ate the __________ pizza. There was nothing left.",
     "options": [
      {
       "letter": "A",
-      "text": "whole"
+      "text": "well-known"
      },
      {
       "letter": "B",
-      "text": "alike"
+      "text": "violent"
      },
      {
       "letter": "C",
-      "text": "classical"
+      "text": "various"
      },
      {
       "letter": "D",
-      "text": "greedy"
+      "text": "whole"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 0
    },
    {
-    "question": "His __________ is a doctor.【妻子】",
+    "question": "Mr. Lin and his __________ have been married for thirty years.",
     "options": [
      {
       "letter": "A",
-      "text": "wire"
+      "text": "wife"
      },
      {
       "letter": "B",
@@ -302,87 +302,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "wife"
+      "text": "wizard"
      },
      {
       "letter": "D",
       "text": "writer"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 1
    },
    {
-    "question": "The park is home to various __________.【野生動物】",
+    "question": "You can see a lot of __________ in this forest, like deer, monkeys, and birds.",
     "options": [
      {
       "letter": "A",
-      "text": "wire"
-     },
-     {
-      "letter": "B",
-      "text": "worm"
-     },
-     {
-      "letter": "C",
       "text": "wool"
      },
      {
-      "letter": "D",
-      "text": "wildlife"
-     }
-    ],
-    "answer": "D",
-    "vi": 2
-   },
-   {
-    "question": "She opened the __________ to let in some fresh air.【窗戶】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wildlife"
-     },
-     {
       "letter": "B",
-      "text": "window"
+      "text": "wildlife"
      },
      {
       "letter": "C",
-      "text": "wrist"
+      "text": "wire"
      },
      {
       "letter": "D",
-      "text": "wife"
+      "text": "youth"
      }
     ],
     "answer": "B",
-    "vi": 3
+    "vi": 2
    },
    {
-    "question": "She was the __________ of the contest.【贏家，優勝者】",
+    "question": "Please open the __________. It is hot in here, and we need some fresh air.",
     "options": [
      {
       "letter": "A",
-      "text": "winner"
-     },
-     {
-      "letter": "B",
-      "text": "window"
-     },
-     {
-      "letter": "C",
       "text": "wire"
      },
      {
+      "letter": "B",
+      "text": "wrist"
+     },
+     {
+      "letter": "C",
+      "text": "window"
+     },
+     {
       "letter": "D",
-      "text": "wool"
+      "text": "wound"
      }
     ],
-    "answer": "A",
+    "answer": "C",
+    "vi": 3
+   },
+   {
+    "question": "The __________ of the race gets a gold medal.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wizard"
+     },
+     {
+      "letter": "B",
+      "text": "writer"
+     },
+     {
+      "letter": "C",
+      "text": "worm"
+     },
+     {
+      "letter": "D",
+      "text": "winner"
+     }
+    ],
+    "answer": "D",
     "vi": 4
    },
    {
-    "question": "He __________ the table clean.【擦，抹】",
+    "question": "The waiter __________ the table with a wet cloth.",
     "options": [
      {
       "letter": "A",
@@ -390,7 +390,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "wrapped"
+      "text": "worried"
      },
      {
       "letter": "C",
@@ -398,18 +398,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "worries"
+      "text": "wrapped"
      }
     ],
     "answer": "C",
     "vi": 5
    },
    {
-    "question": "The electrician fixed the __________.【電線，金屬線】",
+    "question": "Don't touch that __________. There is electricity in it.",
     "options": [
      {
       "letter": "A",
-      "text": "wizard"
+      "text": "wool"
      },
      {
       "letter": "B",
@@ -417,41 +417,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "wrist"
+      "text": "worm"
      },
      {
       "letter": "D",
-      "text": "wife"
+      "text": "wrist"
      }
     ],
     "answer": "B",
     "vi": 6
    },
    {
-    "question": "She __________ for happiness and health.【希望，祝願】",
+    "question": "I __________ I could fly like a bird.",
     "options": [
      {
       "letter": "A",
-      "text": "wrapped"
+      "text": "wish"
      },
      {
       "letter": "B",
-      "text": "wiped"
+      "text": "wipe"
      },
      {
       "letter": "C",
-      "text": "worries"
+      "text": "worry"
      },
      {
       "letter": "D",
-      "text": "wished"
+      "text": "wrap"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 7
    },
    {
-    "question": "The __________ cast a spell.【巫師，魔法師】",
+    "question": "In the story, the old __________ uses magic to turn a frog into a prince.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "winner"
+     },
+     {
+      "letter": "B",
+      "text": "writer"
+     },
+     {
+      "letter": "C",
+      "text": "wizard"
+     },
+     {
+      "letter": "D",
+      "text": "worm"
+     }
+    ],
+    "answer": "C",
+    "vi": 8
+   },
+   {
+    "question": "This sweater is made of __________. It comes from sheep, and it is very warm.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wool"
+     },
+     {
+      "letter": "B",
+      "text": "wire"
+     },
+     {
+      "letter": "C",
+      "text": "worm"
+     },
+     {
+      "letter": "D",
+      "text": "wound"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "Please do the exercises on page 15 of your __________.",
     "options": [
      {
       "letter": "A",
@@ -459,7 +505,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "yard"
+      "text": "wound"
+     },
+     {
+      "letter": "C",
+      "text": "wrist"
+     },
+     {
+      "letter": "D",
+      "text": "workbook"
+     }
+    ],
+    "answer": "D",
+    "vi": 10
+   },
+   {
+    "question": "Birds eat __________. These small, long animals live in the ground.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wires"
+     },
+     {
+      "letter": "B",
+      "text": "worms"
+     },
+     {
+      "letter": "C",
+      "text": "wrists"
+     },
+     {
+      "letter": "D",
+      "text": "wounds"
+     }
+    ],
+    "answer": "B",
+    "vi": 11
+   },
+   {
+    "question": "Don't __________. Everything will be fine.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wipe"
+     },
+     {
+      "letter": "B",
+      "text": "wrap"
+     },
+     {
+      "letter": "C",
+      "text": "worry"
+     },
+     {
+      "letter": "D",
+      "text": "wish"
+     }
+    ],
+    "answer": "C",
+    "vi": 12
+   },
+   {
+    "question": "The soldier had a deep __________ in his leg. The doctor cleaned and covered it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wound"
+     },
+     {
+      "letter": "B",
+      "text": "wrist"
      },
      {
       "letter": "C",
@@ -467,210 +582,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "writer"
+      "text": "wool"
      }
     ],
     "answer": "A",
-    "vi": 8
-   },
-   {
-    "question": "The sweater is made of __________.【羊毛，毛線】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "worm"
-     },
-     {
-      "letter": "B",
-      "text": "wildlife"
-     },
-     {
-      "letter": "C",
-      "text": "wool"
-     },
-     {
-      "letter": "D",
-      "text": "wizard"
-     }
-    ],
-    "answer": "C",
-    "vi": 9
-   },
-   {
-    "question": "The students completed the exercises in their __________.【練習簿，作業本】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wife"
-     },
-     {
-      "letter": "B",
-      "text": "workbooks"
-     },
-     {
-      "letter": "C",
-      "text": "wool"
-     },
-     {
-      "letter": "D",
-      "text": "youth"
-     }
-    ],
-    "answer": "B",
-    "vi": 10
-   },
-   {
-    "question": "The bird ate the __________.【蟲，蠕蟲】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wound"
-     },
-     {
-      "letter": "B",
-      "text": "wizard"
-     },
-     {
-      "letter": "C",
-      "text": "wife"
-     },
-     {
-      "letter": "D",
-      "text": "worm"
-     }
-    ],
-    "answer": "D",
-    "vi": 11
-   },
-   {
-    "question": "She always __________ about her exams.【擔心，煩惱】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "worries"
-     },
-     {
-      "letter": "B",
-      "text": "wrapped"
-     },
-     {
-      "letter": "C",
-      "text": "wiped"
-     },
-     {
-      "letter": "D",
-      "text": "wished"
-     }
-    ],
-    "answer": "A",
-    "vi": 12
-   },
-   {
-    "question": "He had a deep __________ on his arm.【傷口，創傷】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wildlife"
-     },
-     {
-      "letter": "B",
-      "text": "window"
-     },
-     {
-      "letter": "C",
-      "text": "wound"
-     },
-     {
-      "letter": "D",
-      "text": "winner"
-     }
-    ],
-    "answer": "C",
     "vi": 13
    },
    {
-    "question": "She __________ the gift with colorful paper.【包裝，裹】",
+    "question": "Please __________ the present in pretty paper. It is for my mother.",
     "options": [
      {
       "letter": "A",
-      "text": "wished"
+      "text": "wipe"
      },
      {
       "letter": "B",
-      "text": "wrapped"
+      "text": "worry"
      },
      {
       "letter": "C",
-      "text": "wiped"
+      "text": "wish"
      },
      {
       "letter": "D",
-      "text": "worries"
+      "text": "wrap"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 14
    },
    {
-    "question": "She wore a bracelet on her __________.【手腕】",
+    "question": "She wears a watch on her left __________.",
     "options": [
      {
       "letter": "A",
-      "text": "youth"
+      "text": "wound"
      },
      {
       "letter": "B",
-      "text": "winner"
-     },
-     {
-      "letter": "C",
-      "text": "wife"
-     },
-     {
-      "letter": "D",
       "text": "wrist"
-     }
-    ],
-    "answer": "D",
-    "vi": 15
-   },
-   {
-    "question": "He is a famous __________.【作家，作者】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wizard"
-     },
-     {
-      "letter": "B",
-      "text": "youth"
      },
      {
       "letter": "C",
-      "text": "writer"
-     },
-     {
-      "letter": "D",
-      "text": "winner"
-     }
-    ],
-    "answer": "C",
-    "vi": 16
-   },
-   {
-    "question": "They played in the __________.【院子，庭院】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "zebra"
-     },
-     {
-      "letter": "B",
-      "text": "yard"
-     },
-     {
-      "letter": "C",
-      "text": "winner"
+      "text": "wire"
      },
      {
       "letter": "D",
@@ -678,37 +632,14 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "B",
-    "vi": 17
+    "vi": 15
    },
    {
-    "question": "He spent his __________ in the countryside.【青年，年輕】",
+    "question": "Mark Twain was a famous American __________. He wrote many great books.",
     "options": [
      {
       "letter": "A",
-      "text": "wrist"
-     },
-     {
-      "letter": "B",
-      "text": "worm"
-     },
-     {
-      "letter": "C",
-      "text": "wife"
-     },
-     {
-      "letter": "D",
-      "text": "youth"
-     }
-    ],
-    "answer": "D",
-    "vi": 18
-   },
-   {
-    "question": "The __________ has black and white stripes.【斑馬】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "zebra"
+      "text": "writer"
      },
      {
       "letter": "B",
@@ -716,7 +647,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "window"
+      "text": "winner"
      },
      {
       "letter": "D",
@@ -724,9 +655,78 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "A",
+    "vi": 16
+   },
+   {
+    "question": "The children are playing in the __________ behind the house.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "youth"
+     },
+     {
+      "letter": "B",
+      "text": "wrist"
+     },
+     {
+      "letter": "C",
+      "text": "yard"
+     },
+     {
+      "letter": "D",
+      "text": "wound"
+     }
+    ],
+    "answer": "C",
+    "vi": 17
+   },
+   {
+    "question": "In his __________, my grandfather was a good runner. Now he is eighty and walks slowly.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "yard"
+     },
+     {
+      "letter": "B",
+      "text": "youth"
+     },
+     {
+      "letter": "C",
+      "text": "wrist"
+     },
+     {
+      "letter": "D",
+      "text": "wool"
+     }
+    ],
+    "answer": "B",
+    "vi": 18
+   },
+   {
+    "question": "A __________ looks like a horse with black and white stripes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "worm"
+     },
+     {
+      "letter": "B",
+      "text": "wizard"
+     },
+     {
+      "letter": "C",
+      "text": "writer"
+     },
+     {
+      "letter": "D",
+      "text": "zebra"
+     }
+    ],
+    "answer": "D",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"alike":["almost the same","相似的，一樣地"],"classical":["(of music) serious and written long ago, like Mozart's","古典的，經典的"],"greedy":["wanting more money or food than you need","貪婪的"],"whole":["all of something","整個的，全部的"],"wife":["the woman a man is married to","妻子"],"wildlife":["animals and plants that live in nature","野生動物"],"window":["an opening with glass in a wall that lets in light and air","窗戶"],"winner":["the person who wins a game or a race","贏家，優勝者"],"wiped":["to clean or dry something with a cloth","擦，抹"],"wire":["a long, thin piece of metal that carries electricity","電線，金屬線"],"wished":["to hope for something","希望，祝願"],"wizard":["a man in stories who can do magic","巫師，魔法師"],"wool":["the soft, thick hair of sheep, used to make sweaters","羊毛，毛線"],"workbooks":["a book with exercises for students to do","練習簿，作業本"],"worm":["a small, long, soft animal with no legs that lives in the ground","蟲，蠕蟲"],"worries":["to feel afraid that something bad may happen","擔心，煩惱"],"wound":["a cut or hole in your body that hurts","傷口，創傷"],"wrapped":["to cover something with paper or cloth","包裝，裹"],"wrist":["the part of your body between your hand and your arm","手腕"],"writer":["a person who writes books or stories","作家，作者"],"yard":["a piece of ground next to a house","院子，庭院"],"youth":["the time when a person is young","青年，年輕"],"zebra":["an animal like a horse with black and white stripes","斑馬"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"well-known":["known by many people; famous","著名的，知名的"],"violent":["very strong and dangerous","暴力的，猛烈的"],"various":["many different","各種各樣的"],"whole":["all of something","整個的，全部的"],"wife":["the woman a man is married to","妻子"],"winner":["the person who wins a game or a race","贏家，優勝者"],"wizard":["a man in stories who can do magic","巫師，魔法師"],"writer":["a person who writes books or stories","作家，作者"],"wool":["the soft, thick hair of sheep, used to make sweaters","羊毛，毛線"],"wildlife":["animals and plants that live in nature","野生動物"],"wire":["a long, thin piece of metal that carries electricity","電線，金屬線"],"youth":["the time when a person is young","青年，年輕"],"wrist":["the part of your body between your hand and your arm","手腕"],"window":["an opening with glass in a wall that lets in light and air","窗戶"],"wound":["a cut or hole in your body that hurts","傷口，創傷"],"worm":["a small, long, soft animal with no legs that lives in the ground","蟲，蠕蟲"],"wished":["to hope for something","希望，祝願"],"worried":["to feel afraid that something bad may happen","擔心，煩惱"],"wiped":["to clean or dry something with a cloth","擦，抹"],"wrapped":["to cover something with paper or cloth","包裝，裹"],"wish":["to hope for something","希望，祝願"],"wipe":["to clean or dry something with a cloth","擦，抹"],"worry":["to feel afraid that something bad may happen","擔心，煩惱"],"wrap":["to cover something with paper or cloth","包裝，裹"],"workbook":["a book with exercises for students to do","練習簿，作業本"],"wires":["a long, thin piece of metal that carries electricity","電線，金屬線"],"worms":["a small, long, soft animal with no legs that lives in the ground","蟲，蠕蟲"],"wrists":["the part of your body between your hand and your arm","手腕"],"wounds":["a cut or hole in your body that hurts","傷口，創傷"],"yard":["a piece of ground next to a house","院子，庭院"],"zebra":["an animal like a horse with black and white stripes","斑馬"]});

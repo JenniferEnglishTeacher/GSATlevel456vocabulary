@@ -170,352 +170,392 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "The ball is made of ______.【橡膠，橡皮】",
+    "q": "Car tires are made of ______. It is strong, and it can bend.",
     "options": [
-      "sailor",
-      "rubber",
+      "sand",
+      "seafood",
       "scenery",
-      "scene"
+      "rubber"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "這個球是橡膠做的。",
     "vocabIndex": 0
   },
   {
-    "q": "It is ______ to interrupt someone while they are speaking.【無禮的，粗魯的】",
+    "q": "It is ______ to point at people. Please don't do that.",
     "options": [
       "secondary",
-      "violent",
-      "female",
-      "rude"
+      "selfish",
+      "rude",
+      "similar"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "打斷別人說話是不禮貌的。",
     "vocabIndex": 1
   },
   {
-    "q": "The storm ______ their picnic plans.【毀壞，破壞】",
+    "q": "The heavy rain ______ our picnic. All the food got wet, and we had to go home.",
     "options": [
-      "rush",
-      "searching",
+      "rushed",
       "ruined",
-      "satisfy"
+      "satisfied",
+      "searched"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "暴風雨破壞了他們的野餐計劃。",
     "vocabIndex": 2
   },
   {
-    "q": "She had to ______ to catch the bus.【衝，趕緊】",
+    "q": "You don't have to ______. We still have a lot of time before the train leaves.",
     "options": [
       "rush",
+      "ruin",
       "satisfy",
-      "searching",
-      "ruined"
+      "seek"
     ],
     "answer": 0,
     "cn": "她不得不趕緊去趕公車。",
     "vocabIndex": 3
   },
   {
-    "q": "The ______ navigated the ship through the storm.【水手，海員】",
+    "q": "The ______ worked on a big ship. He traveled across the sea to many countries.",
     "options": [
-      "sample",
-      "sand",
-      "saucer",
-      "sailor"
+      "scientist",
+      "secret",
+      "sailor",
+      "saucer"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "水手駕船穿越暴風雨。",
     "vocabIndex": 4
   },
   {
-    "q": "She gave me a ______ of the product.【樣品，範例】",
+    "q": "The clerk gave me a free ______ of the new ice cream. It was just one small spoon.",
     "options": [
-      "saucer",
       "sample",
-      "section",
-      "sand"
+      "saucer",
+      "scarf",
+      "sailor"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "她給了我一個產品樣品。",
     "vocabIndex": 5
   },
   {
-    "q": "The beach is covered with white ______.【沙，沙灘】",
+    "q": "The children are building a castle with ______ on the beach.",
     "options": [
       "rubber",
+      "seafood",
       "scenery",
-      "sand",
-      "seafood"
+      "sand"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "海灘上覆蓋著白色的沙。",
     "vocabIndex": 6
   },
   {
-    "q": "The meal was enough to ______ everyone's hunger.【滿足，使滿意】",
+    "q": "Nothing can ______ him. He is never happy with what he has.",
     "options": [
-      "satisfy",
       "rush",
-      "searching",
-      "seeking"
+      "satisfy",
+      "ruin",
+      "search"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "這頓飯足以滿足每個人的飢餓。",
     "vocabIndex": 7
   },
   {
-    "q": "She placed the cup on the ______.【茶碟，托盤】",
+    "q": "She put the cup back on its ______.",
     "options": [
-      "rubber",
       "saucer",
+      "scarf",
       "score",
-      "sample"
+      "secret"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "她把杯子放在茶碟上。",
     "vocabIndex": 8
   },
   {
-    "q": "She wrapped a warm ______ around her neck.【圍巾】",
+    "q": "It is cold outside. Wear a ______ around your neck.",
     "options": [
-      "scenery",
       "saucer",
-      "seafood",
-      "scarf"
+      "scarf",
+      "score",
+      "sample"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "她把一條暖和的圍巾圍在脖子上。",
     "vocabIndex": 9
   },
   {
-    "q": "The movie has a beautiful ______.【場景，景象】",
+    "q": "The first ______ of the movie is in a school. Then the story moves to a beach.",
     "options": [
-      "scenery",
-      "score",
+      "saucer",
+      "scarf",
       "scene",
-      "sample"
+      "sand"
     ],
     "answer": 2,
     "cn": "這部電影有一個美麗的場景。",
     "vocabIndex": 10
   },
   {
-    "q": "The ______ from the top of the hill is breathtaking.【風景】",
+    "q": "The mountain ______ here is beautiful. Many people come to take pictures of it.",
     "options": [
-      "scenery",
-      "scientist",
-      "scarf",
-      "secret"
+      "seafood",
+      "rubber",
+      "sand",
+      "scenery"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "山頂的風景令人驚嘆。",
     "vocabIndex": 11
   },
   {
-    "q": "She is a renowned ______.【科學家】",
+    "q": "Marie Curie was a famous ______. She worked in a lab and won two Nobel Prizes.",
     "options": [
-      "rubber",
-      "seafood",
+      "sailor",
+      "saucer",
       "scientist",
-      "scenery"
+      "secret"
     ],
     "answer": 2,
     "cn": "她是一位著名的科學家。",
     "vocabIndex": 12
   },
   {
-    "q": "He got a high ______ on the test.【分數，得分】",
+    "q": "The final ______ of the game was 3 to 1. Our team won.",
     "options": [
-      "scene",
-      "score",
-      "sand",
-      "section"
+      "scarf",
+      "saucer",
+      "secret",
+      "score"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "他在考試中得了高分。",
     "vocabIndex": 13
   },
   {
-    "q": "The restaurant is famous for its ______.【海鮮，海產品】",
+    "q": "I love ______, like fish, shrimp, and crab.",
     "options": [
+      "scenery",
       "seafood",
-      "scene",
-      "sand",
-      "scenery"
+      "rubber",
+      "sand"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "這家餐廳以其海鮮著稱。",
     "vocabIndex": 14
   },
   {
-    "q": "They are ______ for a new manager.【搜索，尋找】",
+    "q": "The police are ______ for the lost child. They are looking everywhere.",
     "options": [
-      "seeking",
-      "satisfy",
-      "rush",
-      "searching"
+      "searching",
+      "rushing",
+      "ruining",
+      "satisfying"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他們正在尋找一位新經理。",
     "vocabIndex": 15
   },
   {
-    "q": "He is a ______ school teacher.【次要的，中等的】",
+    "q": "After elementary school, students go to ______ school.",
     "options": [
       "rude",
-      "impossible",
       "secondary",
-      "golden"
+      "selfish",
+      "similar"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "他是一名中學教師。",
     "vocabIndex": 16
   },
   {
-    "q": "She told me a ______.【秘密】",
+    "q": "Don't tell anyone about the party. It is a ______.",
     "options": [
+      "score",
+      "scarf",
       "secret",
-      "scientist",
-      "seafood",
-      "section"
+      "sample"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "她告訴了我一個秘密。",
     "vocabIndex": 17
   },
   {
-    "q": "This ______ of the book is very interesting.【部分，部門】",
+    "q": "The sports ______ of the newspaper is on page ten.",
     "options": [
-      "saucer",
-      "section",
-      "seafood",
-      "rubber"
+      "secret",
+      "scarf",
+      "sailor",
+      "section"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "這本書的這部分非常有趣。",
     "vocabIndex": 18
   },
   {
-    "q": "He is ______ a new job.【尋找，追求】",
+    "q": "He lost his job last month, so he is ______ a new one now.",
     "options": [
-      "searching",
-      "ruined",
-      "satisfy",
-      "seeking"
+      "seeking",
+      "ruining",
+      "rushing",
+      "satisfying"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他正在尋找新工作。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "female": {
-    "pos": "adj.",
-    "en_def": "being a woman or a girl",
-    "cn_def": "女性的"
-  },
-  "golden": {
-    "pos": "adj.",
-    "en_def": "very happy and special; having the color of gold",
-    "cn_def": "金色的，極好的"
-  },
-  "impossible": {
-    "pos": "adj.",
-    "en_def": "not able to happen or be done",
-    "cn_def": "不可能的"
-  },
-  "rubber": {
-    "pos": "n.",
-    "en_def": "strong material that bends and bounces, used for balls and tires",
-    "cn_def": "橡膠，橡皮"
-  },
-  "rude": {
-    "pos": "adj.",
-    "en_def": "not polite",
-    "cn_def": "無禮的，粗魯的"
-  },
-  "ruined": {
-    "pos": "v.",
-    "en_def": "to spoil or destroy something completely",
-    "cn_def": "毀壞，破壞"
-  },
-  "rush": {
-    "pos": "v.",
-    "en_def": "to go or do something very quickly",
-    "cn_def": "衝，趕緊"
-  },
-  "sailor": {
-    "pos": "n.",
-    "en_def": "a person who works on a ship",
-    "cn_def": "水手，海員"
-  },
-  "sample": {
-    "pos": "n.",
-    "en_def": "a small amount of something that shows what the rest is like",
-    "cn_def": "樣品，範例"
-  },
   "sand": {
     "pos": "n.",
     "en_def": "very small grains of rock on beaches and in deserts",
     "cn_def": "沙，沙灘"
-  },
-  "satisfy": {
-    "pos": "v.",
-    "en_def": "to give someone what they want or need",
-    "cn_def": "滿足，使滿意"
-  },
-  "saucer": {
-    "pos": "n.",
-    "en_def": "a small plate that goes under a cup",
-    "cn_def": "茶碟，托盤"
-  },
-  "scarf": {
-    "pos": "n.",
-    "en_def": "a long piece of cloth that you wear around your neck",
-    "cn_def": "圍巾"
-  },
-  "scene": {
-    "pos": "n.",
-    "en_def": "one part of a movie or play that happens in one place",
-    "cn_def": "場景，景象"
-  },
-  "scenery": {
-    "pos": "n.",
-    "en_def": "the beautiful things in nature that you see in a place",
-    "cn_def": "風景"
-  },
-  "scientist": {
-    "pos": "n.",
-    "en_def": "a person who studies science",
-    "cn_def": "科學家"
-  },
-  "score": {
-    "pos": "n.",
-    "en_def": "the number of points you get on a test or in a game",
-    "cn_def": "分數，得分"
   },
   "seafood": {
     "pos": "n.",
     "en_def": "fish and other sea animals that people eat",
     "cn_def": "海鮮，海產品"
   },
-  "searching": {
-    "pos": "v.",
-    "en_def": "to look carefully for someone or something",
-    "cn_def": "搜索，尋找"
+  "scenery": {
+    "pos": "n.",
+    "en_def": "the beautiful things in nature that you see in a place",
+    "cn_def": "風景"
+  },
+  "rubber": {
+    "pos": "n.",
+    "en_def": "strong material that bends and bounces, used for balls and tires",
+    "cn_def": "橡膠，橡皮"
   },
   "secondary": {
     "pos": "adj.",
     "en_def": "(of a school) for students from about 12 to 18 years old",
     "cn_def": "次要的，中等的"
   },
+  "selfish": {
+    "pos": "adj.",
+    "en_def": "thinking only about yourself, not about others",
+    "cn_def": "自私的，自利的"
+  },
+  "rude": {
+    "pos": "adj.",
+    "en_def": "not polite",
+    "cn_def": "無禮的，粗魯的"
+  },
+  "similar": {
+    "pos": "adj.",
+    "en_def": "almost the same",
+    "cn_def": "相似的，類似的"
+  },
+  "rushed": {
+    "pos": "v.",
+    "en_def": "to go or do something very quickly",
+    "cn_def": "衝，趕緊"
+  },
+  "ruined": {
+    "pos": "v.",
+    "en_def": "to spoil or destroy something completely",
+    "cn_def": "毀壞，破壞"
+  },
+  "satisfied": {
+    "pos": "v.",
+    "en_def": "to give someone what they want or need",
+    "cn_def": "滿足，使滿意"
+  },
+  "searched": {
+    "pos": "v.",
+    "en_def": "to look carefully for someone or something",
+    "cn_def": "搜索，尋找"
+  },
+  "rush": {
+    "pos": "v.",
+    "en_def": "to go or do something very quickly",
+    "cn_def": "衝，趕緊"
+  },
+  "ruin": {
+    "pos": "v.",
+    "en_def": "to spoil or destroy something completely",
+    "cn_def": "毀壞，破壞"
+  },
+  "satisfy": {
+    "pos": "v.",
+    "en_def": "to give someone what they want or need",
+    "cn_def": "滿足，使滿意"
+  },
+  "seek": {
+    "pos": "v.",
+    "en_def": "to try to find or get something",
+    "cn_def": "尋找，追求"
+  },
+  "scientist": {
+    "pos": "n.",
+    "en_def": "a person who studies science",
+    "cn_def": "科學家"
+  },
   "secret": {
     "pos": "n.",
     "en_def": "something that you do not want other people to know",
     "cn_def": "秘密"
+  },
+  "sailor": {
+    "pos": "n.",
+    "en_def": "a person who works on a ship",
+    "cn_def": "水手，海員"
+  },
+  "saucer": {
+    "pos": "n.",
+    "en_def": "a small plate that goes under a cup",
+    "cn_def": "茶碟，托盤"
+  },
+  "sample": {
+    "pos": "n.",
+    "en_def": "a small amount of something that shows what the rest is like",
+    "cn_def": "樣品，範例"
+  },
+  "scarf": {
+    "pos": "n.",
+    "en_def": "a long piece of cloth that you wear around your neck",
+    "cn_def": "圍巾"
+  },
+  "search": {
+    "pos": "v.",
+    "en_def": "to look carefully for someone or something",
+    "cn_def": "搜索，尋找"
+  },
+  "score": {
+    "pos": "n.",
+    "en_def": "the number of points you get on a test or in a game",
+    "cn_def": "分數，得分"
+  },
+  "scene": {
+    "pos": "n.",
+    "en_def": "one part of a movie or play that happens in one place",
+    "cn_def": "場景，景象"
+  },
+  "searching": {
+    "pos": "v.",
+    "en_def": "to look carefully for someone or something",
+    "cn_def": "搜索，尋找"
+  },
+  "rushing": {
+    "pos": "v.",
+    "en_def": "to go or do something very quickly",
+    "cn_def": "衝，趕緊"
+  },
+  "ruining": {
+    "pos": "v.",
+    "en_def": "to spoil or destroy something completely",
+    "cn_def": "毀壞，破壞"
+  },
+  "satisfying": {
+    "pos": "v.",
+    "en_def": "to give someone what they want or need",
+    "cn_def": "滿足，使滿意"
   },
   "section": {
     "pos": "n.",
@@ -526,11 +566,6 @@ const LOOKUP = {
     "pos": "v.",
     "en_def": "to try to find or get something",
     "cn_def": "尋找，追求"
-  },
-  "violent": {
-    "pos": "adj.",
-    "en_def": "very strong and dangerous",
-    "cn_def": "暴力的，猛烈的"
   }
 };
 

@@ -267,30 +267,7 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "He gave a __________ apology.【真誠的，誠懇的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sneaky"
-     },
-     {
-      "letter": "B",
-      "text": "sincere"
-     },
-     {
-      "letter": "C",
-      "text": "single"
-     },
-     {
-      "letter": "D",
-      "text": "slender"
-     }
-    ],
-    "answer": "B",
-    "vi": 0
-   },
-   {
-    "question": "She is a __________ mother.【單一的，單身的】",
+    "question": "His apology was __________. He really felt sorry for what he did.",
     "options": [
      {
       "letter": "A",
@@ -302,68 +279,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
+      "text": "sleepy"
+     },
+     {
+      "letter": "D",
       "text": "sincere"
-     },
-     {
-      "letter": "D",
-      "text": "sneaky"
-     }
-    ],
-    "answer": "A",
-    "vi": 1
-   },
-   {
-    "question": "The boat began to __________.【下沉，沉沒】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "skate"
-     },
-     {
-      "letter": "B",
-      "text": "skiing"
-     },
-     {
-      "letter": "C",
-      "text": "beat"
-     },
-     {
-      "letter": "D",
-      "text": "sink"
      }
     ],
     "answer": "D",
-    "vi": 2
+    "vi": 0
    },
    {
-    "question": "They like to __________ in the winter.【滑冰，溜冰】",
+    "question": "My uncle is forty and still __________. He doesn't have a wife.",
     "options": [
      {
       "letter": "A",
-      "text": "sink"
+      "text": "sincere"
      },
      {
       "letter": "B",
-      "text": "skiing"
+      "text": "single"
      },
      {
       "letter": "C",
-      "text": "skate"
+      "text": "sleepy"
      },
      {
       "letter": "D",
-      "text": "serve"
+      "text": "skillful"
+     }
+    ],
+    "answer": "B",
+    "vi": 1
+   },
+   {
+    "question": "A stone will __________ in water, but a piece of wood won't.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "skate"
+     },
+     {
+      "letter": "B",
+      "text": "ski"
+     },
+     {
+      "letter": "C",
+      "text": "sink"
+     },
+     {
+      "letter": "D",
+      "text": "solve"
      }
     ],
     "answer": "C",
-    "vi": 3
+    "vi": 2
    },
    {
-    "question": "He went __________ in the mountains.【滑雪】",
+    "question": "In winter, the lake turns to ice, and children __________ on it.",
     "options": [
      {
       "letter": "A",
-      "text": "skiing"
+      "text": "skate"
      },
      {
       "letter": "B",
@@ -371,18 +348,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "skate"
+      "text": "solve"
      },
      {
       "letter": "D",
-      "text": "searching"
+      "text": "steal"
      }
     ],
     "answer": "A",
+    "vi": 3
+   },
+   {
+    "question": "We went __________ in the snowy mountains of Japan last winter.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sinking"
+     },
+     {
+      "letter": "B",
+      "text": "skiing"
+     },
+     {
+      "letter": "C",
+      "text": "solving"
+     },
+     {
+      "letter": "D",
+      "text": "stealing"
+     }
+    ],
+    "answer": "B",
     "vi": 4
    },
    {
-    "question": "She has great culinary __________.【技能，本領】",
+    "question": "Reading and writing are important __________. Students learn them at school.",
     "options": [
      {
       "letter": "A",
@@ -390,7 +390,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "skills"
+      "text": "snails"
      },
      {
       "letter": "C",
@@ -398,83 +398,60 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "sneakers"
-     }
-    ],
-    "answer": "B",
-    "vi": 5
-   },
-   {
-    "question": "He is very __________ with his hands.【熟練的，靈巧的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "social"
-     },
-     {
-      "letter": "B",
-      "text": "sneaky"
-     },
-     {
-      "letter": "C",
-      "text": "skillful"
-     },
-     {
-      "letter": "D",
-      "text": "sincere"
-     }
-    ],
-    "answer": "C",
-    "vi": 6
-   },
-   {
-    "question": "She has fair __________.【皮膚，外皮】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "society"
-     },
-     {
-      "letter": "B",
-      "text": "snail"
-     },
-     {
-      "letter": "C",
-      "text": "soap"
-     },
-     {
-      "letter": "D",
-      "text": "skin"
+      "text": "skills"
      }
     ],
     "answer": "D",
-    "vi": 7
+    "vi": 5
    },
    {
-    "question": "The stray dog looked very __________.【瘦的，皮包骨的】",
+    "question": "The __________ cook can cut vegetables very fast and make beautiful dishes.",
     "options": [
      {
       "letter": "A",
-      "text": "sleepy"
+      "text": "skillful"
      },
      {
       "letter": "B",
-      "text": "single"
+      "text": "sleepy"
      },
      {
       "letter": "C",
-      "text": "skinny"
+      "text": "single"
      },
      {
       "letter": "D",
-      "text": "sneaky"
+      "text": "social"
+     }
+    ],
+    "answer": "A",
+    "vi": 6
+   },
+   {
+    "question": "The baby's __________ is very soft. Too much sun is bad for it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "slice"
+     },
+     {
+      "letter": "B",
+      "text": "soap"
+     },
+     {
+      "letter": "C",
+      "text": "skin"
+     },
+     {
+      "letter": "D",
+      "text": "snail"
      }
     ],
     "answer": "C",
-    "vi": 8
+    "vi": 7
    },
    {
-    "question": "She felt __________ after the long day.【想睡的，困倦的】",
+    "question": "The street dog is __________ because it doesn't get enough food. You can see its bones.",
     "options": [
      {
       "letter": "A",
@@ -491,25 +468,48 @@ window.FLASHCARD_UNITS = {
      {
       "letter": "D",
       "text": "social"
+     }
+    ],
+    "answer": "A",
+    "vi": 8
+   },
+   {
+    "question": "I went to bed very late last night, so I feel __________ now. I can't keep my eyes open.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "skinny"
+     },
+     {
+      "letter": "B",
+      "text": "sleepy"
+     },
+     {
+      "letter": "C",
+      "text": "single"
+     },
+     {
+      "letter": "D",
+      "text": "sincere"
      }
     ],
     "answer": "B",
     "vi": 9
    },
    {
-    "question": "She has a __________ figure.【苗條的，纖細的】",
+    "question": "The dancer has long, __________ legs. She looks beautiful on the stage.",
     "options": [
      {
       "letter": "A",
-      "text": "single"
+      "text": "sleepy"
      },
      {
       "letter": "B",
-      "text": "sneaky"
+      "text": "sincere"
      },
      {
       "letter": "C",
-      "text": "skillful"
+      "text": "sneaky"
      },
      {
       "letter": "D",
@@ -520,34 +520,34 @@ window.FLASHCARD_UNITS = {
     "vi": 10
    },
    {
-    "question": "She cut the bread into thick __________.【薄片，切片】",
+    "question": "Would you like a __________ of pizza? I cut it into eight.",
     "options": [
      {
       "letter": "A",
-      "text": "slices"
+      "text": "snail"
      },
      {
       "letter": "B",
-      "text": "skills"
+      "text": "soap"
      },
      {
       "letter": "C",
-      "text": "slippers"
+      "text": "slice"
      },
      {
       "letter": "D",
-      "text": "sneakers"
+      "text": "skin"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 11
    },
    {
-    "question": "She wore __________ around the house.【拖鞋】",
+    "question": "Take off your shoes and put on these __________. We wear them inside the house.",
     "options": [
      {
       "letter": "A",
-      "text": "slices"
+      "text": "slippers"
      },
      {
       "letter": "B",
@@ -555,22 +555,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "skills"
+      "text": "snails"
      },
      {
       "letter": "D",
-      "text": "slippers"
+      "text": "slices"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 12
    },
    {
-    "question": "The __________ moved slowly across the ground.【蝸牛】",
+    "question": "A __________ carries its shell on its back and moves very slowly.",
     "options": [
      {
       "letter": "A",
-      "text": "society"
+      "text": "slice"
      },
      {
       "letter": "B",
@@ -582,60 +582,60 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "skin"
+      "text": "snowman"
      }
     ],
     "answer": "B",
     "vi": 13
    },
    {
-    "question": "He bought a new pair of __________.【運動鞋，球鞋】",
+    "question": "You need a pair of __________ for PE class. You can't run in those shoes.",
     "options": [
      {
       "letter": "A",
-      "text": "sneakers"
-     },
-     {
-      "letter": "B",
       "text": "slippers"
      },
      {
+      "letter": "B",
+      "text": "snails"
+     },
+     {
       "letter": "C",
-      "text": "skills"
+      "text": "sneakers"
      },
      {
       "letter": "D",
       "text": "slices"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 14
    },
    {
-    "question": "He took a __________ glance at the answers.【鬼鬼祟祟的，偷偷摸摸的】",
+    "question": "The __________ boy took a cookie when his mother was not looking.",
     "options": [
      {
       "letter": "A",
-      "text": "skinny"
+      "text": "sincere"
      },
      {
       "letter": "B",
-      "text": "skillful"
+      "text": "sleepy"
      },
      {
       "letter": "C",
-      "text": "sneaky"
+      "text": "social"
      },
      {
       "letter": "D",
-      "text": "slender"
+      "text": "sneaky"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 15
    },
    {
-    "question": "The children built a __________ in the yard.【雪人】",
+    "question": "The children made a __________ in the yard. They gave it a carrot for a nose.",
     "options": [
      {
       "letter": "A",
@@ -643,11 +643,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "skin"
+      "text": "snail"
      },
      {
       "letter": "C",
-      "text": "society"
+      "text": "slice"
      },
      {
       "letter": "D",
@@ -658,53 +658,7 @@ window.FLASHCARD_UNITS = {
     "vi": 16
    },
    {
-    "question": "She washed her hands with __________.【肥皂】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "society"
-     },
-     {
-      "letter": "B",
-      "text": "snowman"
-     },
-     {
-      "letter": "C",
-      "text": "skin"
-     },
-     {
-      "letter": "D",
-      "text": "soap"
-     }
-    ],
-    "answer": "D",
-    "vi": 17
-   },
-   {
-    "question": "He is very __________ and enjoys meeting new people.【社會的，社交的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sincere"
-     },
-     {
-      "letter": "B",
-      "text": "social"
-     },
-     {
-      "letter": "C",
-      "text": "single"
-     },
-     {
-      "letter": "D",
-      "text": "sleepy"
-     }
-    ],
-    "answer": "B",
-    "vi": 18
-   },
-   {
-    "question": "They studied the structure of __________.【社會】",
+    "question": "Wash your hands with __________ and water before you eat.",
     "options": [
      {
       "letter": "A",
@@ -716,11 +670,57 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "society"
+      "text": "slice"
      },
      {
       "letter": "D",
       "text": "snail"
+     }
+    ],
+    "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "Amy is very __________. She loves meeting new people and going to parties.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sleepy"
+     },
+     {
+      "letter": "B",
+      "text": "single"
+     },
+     {
+      "letter": "C",
+      "text": "skinny"
+     },
+     {
+      "letter": "D",
+      "text": "social"
+     }
+    ],
+    "answer": "D",
+    "vi": 18
+   },
+   {
+    "question": "We should all work together to make our __________ a better place to live.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "soap"
+     },
+     {
+      "letter": "B",
+      "text": "slice"
+     },
+     {
+      "letter": "C",
+      "text": "society"
+     },
+     {
+      "letter": "D",
+      "text": "skin"
      }
     ],
     "answer": "C",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"beat":["to hit again and again; to make a regular sound","擊打，跳動"],"searching":["to look carefully for someone or something","搜索，尋找"],"serve":["to give food or drinks to people","服務，提供"],"sincere":["really meaning what you say; honest","真誠的，誠懇的"],"single":["not married; only one","單一的，單身的"],"sink":["to go down under water","下沉，沉沒"],"skate":["to move on ice wearing special shoes","滑冰，溜冰"],"skiing":["to move over snow on two long, thin boards","滑雪"],"skills":["something that you can do well because you have practiced","技能，本領"],"skillful":["good at doing something","熟練的，靈巧的"],"skin":["the outside cover of your body","皮膚，外皮"],"skinny":["very thin","瘦的，皮包骨的"],"sleepy":["tired and wanting to sleep","想睡的，困倦的"],"slender":["thin in a nice way","苗條的，纖細的"],"slices":["a thin flat piece cut from something","薄片，切片"],"slippers":["soft shoes that you wear inside the house","拖鞋"],"snail":["a small animal with a shell on its back that moves very slowly","蝸牛"],"sneakers":["soft shoes for running and sports","運動鞋，球鞋"],"sneaky":["doing things in a secret way that is not honest","鬼鬼祟祟的，偷偷摸摸的"],"snowman":["a figure of a person made of snow","雪人"],"soap":["something that you use with water to wash your hands and body","肥皂"],"social":["liking to be with other people","社會的，社交的"],"society":["all the people who live together in a country or area","社會"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"single":["not married; only one","單一的，單身的"],"skinny":["very thin","瘦的，皮包骨的"],"sleepy":["tired and wanting to sleep","想睡的，困倦的"],"sincere":["really meaning what you say; honest","真誠的，誠懇的"],"skillful":["good at doing something","熟練的，靈巧的"],"skate":["to move on ice wearing special shoes","滑冰，溜冰"],"ski":["to move over snow on two long, thin boards","滑雪"],"sink":["to go down under water","下沉，沉沒"],"solve":["to find the answer to a problem","解決，解答"],"steal":["to take something that is not yours","偷竊，盜取"],"sinking":["to go down under water","下沉，沉沒"],"skiing":["to move over snow on two long, thin boards","滑雪"],"solving":["to find the answer to a problem","解決，解答"],"stealing":["to take something that is not yours","偷竊，盜取"],"slices":["a thin flat piece cut from something","薄片，切片"],"snails":["a small animal with a shell on its back that moves very slowly","蝸牛"],"slippers":["soft shoes that you wear inside the house","拖鞋"],"skills":["something that you can do well because you have practiced","技能，本領"],"social":["liking to be with other people","社會的，社交的"],"slice":["a thin flat piece cut from something","薄片，切片"],"soap":["something that you use with water to wash your hands and body","肥皂"],"skin":["the outside cover of your body","皮膚，外皮"],"snail":["a small animal with a shell on its back that moves very slowly","蝸牛"],"sneaky":["doing things in a secret way that is not honest","鬼鬼祟祟的，偷偷摸摸的"],"slender":["thin in a nice way","苗條的，纖細的"],"sneakers":["soft shoes for running and sports","運動鞋，球鞋"],"snowman":["a figure of a person made of snow","雪人"],"society":["all the people who live together in a country or area","社會"]});

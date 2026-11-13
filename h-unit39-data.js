@@ -267,34 +267,172 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "She has a wide __________.【詞彙，詞彙量】",
+    "question": "Reading English books can help you build your __________. You will learn many new words.",
     "options": [
      {
       "letter": "A",
-      "text": "weekend"
+      "text": "volleyball"
      },
      {
       "letter": "B",
-      "text": "waiter"
+      "text": "vocabulary"
      },
      {
       "letter": "C",
-      "text": "vocabulary"
+      "text": "wealth"
      },
      {
       "letter": "D",
       "text": "weather"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 0
    },
    {
-    "question": "They played __________ on the beach.【排球】",
+    "question": "We played __________ on the beach. We hit the ball over the net with our hands.",
     "options": [
      {
       "letter": "A",
-      "text": "weekend"
+      "text": "volleyball"
+     },
+     {
+      "letter": "B",
+      "text": "vocabulary"
+     },
+     {
+      "letter": "C",
+      "text": "wedding"
+     },
+     {
+      "letter": "D",
+      "text": "weight"
+     }
+    ],
+    "answer": "A",
+    "vi": 1
+   },
+   {
+    "question": "Amy works as a __________ at the hospital on weekends. She doesn't get any money for it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "waiter"
+     },
+     {
+      "letter": "B",
+      "text": "whale"
+     },
+     {
+      "letter": "C",
+      "text": "volunteer"
+     },
+     {
+      "letter": "D",
+      "text": "weapon"
+     }
+    ],
+    "answer": "C",
+    "vi": 2
+   },
+   {
+    "question": "In Taiwan, people can __________ for the president when they are twenty years old.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wake"
+     },
+     {
+      "letter": "B",
+      "text": "wave"
+     },
+     {
+      "letter": "C",
+      "text": "whisper"
+     },
+     {
+      "letter": "D",
+      "text": "vote"
+     }
+    ],
+    "answer": "D",
+    "vi": 3
+   },
+   {
+    "question": "The __________ brought us the menu and took our order.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "waiter"
+     },
+     {
+      "letter": "B",
+      "text": "whale"
+     },
+     {
+      "letter": "C",
+      "text": "wheel"
+     },
+     {
+      "letter": "D",
+      "text": "wallet"
+     }
+    ],
+    "answer": "A",
+    "vi": 4
+   },
+   {
+    "question": "Please __________ me up at six tomorrow. I have to catch an early train.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "vote"
+     },
+     {
+      "letter": "B",
+      "text": "wave"
+     },
+     {
+      "letter": "C",
+      "text": "whisper"
+     },
+     {
+      "letter": "D",
+      "text": "wake"
+     }
+    ],
+    "answer": "D",
+    "vi": 5
+   },
+   {
+    "question": "I can't find my __________. All my money and cards are in it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "waiter"
+     },
+     {
+      "letter": "B",
+      "text": "wallet"
+     },
+     {
+      "letter": "C",
+      "text": "whale"
+     },
+     {
+      "letter": "D",
+      "text": "wheel"
+     }
+    ],
+    "answer": "B",
+    "vi": 6
+   },
+   {
+    "question": "Watching TV all day is a __________ of time. You should do something useful.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wealth"
      },
      {
       "letter": "B",
@@ -302,168 +440,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "wealth"
-     },
-     {
-      "letter": "D",
-      "text": "volleyball"
-     }
-    ],
-    "answer": "D",
-    "vi": 1
-   },
-   {
-    "question": "She works as a __________.【志願者，義工】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wallet"
-     },
-     {
-      "letter": "B",
-      "text": "volunteer"
-     },
-     {
-      "letter": "C",
-      "text": "wealth"
-     },
-     {
-      "letter": "D",
-      "text": "waste"
-     }
-    ],
-    "answer": "B",
-    "vi": 2
-   },
-   {
-    "question": "They will __________ in the election tomorrow.【投票，選舉】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "vote"
-     },
-     {
-      "letter": "B",
-      "text": "wake"
-     },
-     {
-      "letter": "C",
-      "text": "whispered"
-     },
-     {
-      "letter": "D",
-      "text": "waved"
-     }
-    ],
-    "answer": "A",
-    "vi": 3
-   },
-   {
-    "question": "The __________ took their order.【服務生，侍者】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "whale"
-     },
-     {
-      "letter": "B",
       "text": "waste"
      },
      {
-      "letter": "C",
-      "text": "weapon"
-     },
-     {
       "letter": "D",
-      "text": "waiter"
-     }
-    ],
-    "answer": "D",
-    "vi": 4
-   },
-   {
-    "question": "She likes to __________ up early.【醒來，喚醒】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "vote"
-     },
-     {
-      "letter": "B",
-      "text": "waved"
-     },
-     {
-      "letter": "C",
-      "text": "wake"
-     },
-     {
-      "letter": "D",
-      "text": "whispered"
+      "text": "wedding"
      }
     ],
     "answer": "C",
-    "vi": 5
-   },
-   {
-    "question": "He forgot his __________ at home.【錢包，皮夾】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "volunteer"
-     },
-     {
-      "letter": "B",
-      "text": "wallet"
-     },
-     {
-      "letter": "C",
-      "text": "whale"
-     },
-     {
-      "letter": "D",
-      "text": "weekend"
-     }
-    ],
-    "answer": "B",
-    "vi": 6
-   },
-   {
-    "question": "It is a __________ of time to argue about it.【浪費，廢物】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "waste"
-     },
-     {
-      "letter": "B",
-      "text": "volleyball"
-     },
-     {
-      "letter": "C",
-      "text": "weekend"
-     },
-     {
-      "letter": "D",
-      "text": "weather"
-     }
-    ],
-    "answer": "A",
     "vi": 7
    },
    {
-    "question": "They visited a beautiful __________.【瀑布】",
+    "question": "We visited a beautiful __________ in the mountains. The water falls from fifty meters up.",
     "options": [
      {
       "letter": "A",
-      "text": "volleyball"
+      "text": "weapon"
      },
      {
       "letter": "B",
-      "text": "weekend"
+      "text": "wedding"
      },
      {
       "letter": "C",
-      "text": "weather"
+      "text": "wallet"
      },
      {
       "letter": "D",
@@ -474,7 +474,7 @@ window.FLASHCARD_UNITS = {
     "vi": 8
    },
    {
-    "question": "She __________ goodbye to her friend.【揮手，波動】",
+    "question": "She __________ good-bye to her friends from the train window.",
     "options": [
      {
       "letter": "A",
@@ -482,91 +482,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "whispered"
+      "text": "voted"
      },
      {
       "letter": "C",
-      "text": "wake"
+      "text": "whispered"
      },
      {
       "letter": "D",
-      "text": "vote"
+      "text": "woke"
      }
     ],
     "answer": "A",
     "vi": 9
    },
    {
-    "question": "The soldier carried a __________.【武器】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wallet"
-     },
-     {
-      "letter": "B",
-      "text": "waste"
-     },
-     {
-      "letter": "C",
-      "text": "weapon"
-     },
-     {
-      "letter": "D",
-      "text": "weather"
-     }
-    ],
-    "answer": "C",
-    "vi": 10
-   },
-   {
-    "question": "He accumulated great __________.【財富，富裕】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "waterfall"
-     },
-     {
-      "letter": "B",
-      "text": "wealth"
-     },
-     {
-      "letter": "C",
-      "text": "volleyball"
-     },
-     {
-      "letter": "D",
-      "text": "volunteer"
-     }
-    ],
-    "answer": "B",
-    "vi": 11
-   },
-   {
-    "question": "The __________ is nice today.【天氣，氣候】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "weekend"
-     },
-     {
-      "letter": "B",
-      "text": "wealth"
-     },
-     {
-      "letter": "C",
-      "text": "volunteer"
-     },
-     {
-      "letter": "D",
-      "text": "weather"
-     }
-    ],
-    "answer": "D",
-    "vi": 12
-   },
-   {
-    "question": "They attended a beautiful __________.【婚禮】",
+    "question": "A gun is a dangerous __________. Children must never touch one.",
     "options": [
      {
       "letter": "A",
@@ -574,53 +505,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "waterfall"
+      "text": "whale"
      },
      {
       "letter": "C",
+      "text": "weapon"
+     },
+     {
+      "letter": "D",
+      "text": "wheel"
+     }
+    ],
+    "answer": "C",
+    "vi": 10
+   },
+   {
+    "question": "He is a man of great __________. He owns ten buildings in Taipei.",
+    "options": [
+     {
+      "letter": "A",
       "text": "weather"
      },
      {
-      "letter": "D",
-      "text": "weapon"
-     }
-    ],
-    "answer": "A",
-    "vi": 13
-   },
-   {
-    "question": "They have plans for the __________.【週末】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "waste"
-     },
-     {
       "letter": "B",
-      "text": "weekend"
-     },
-     {
-      "letter": "C",
-      "text": "weapon"
-     },
-     {
-      "letter": "D",
-      "text": "whale"
-     }
-    ],
-    "answer": "B",
-    "vi": 14
-   },
-   {
-    "question": "She is trying to lose __________.【重量，體重】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "weapon"
-     },
-     {
-      "letter": "B",
-      "text": "volleyball"
+      "text": "wealth"
      },
      {
       "letter": "C",
@@ -631,46 +539,138 @@ window.FLASHCARD_UNITS = {
       "text": "waste"
      }
     ],
-    "answer": "C",
-    "vi": 15
+    "answer": "B",
+    "vi": 11
    },
    {
-    "question": "He is a __________ author.【著名的，知名的】",
+    "question": "The __________ is nice today. It is sunny and warm.",
     "options": [
      {
       "letter": "A",
-      "text": "independent"
+      "text": "wealth"
      },
      {
       "letter": "B",
-      "text": "well-known"
+      "text": "weight"
      },
      {
       "letter": "C",
-      "text": "local"
+      "text": "wedding"
      },
      {
       "letter": "D",
-      "text": "former"
+      "text": "weather"
      }
     ],
-    "answer": "B",
-    "vi": 16
+    "answer": "D",
+    "vi": 12
    },
    {
-    "question": "They saw a __________ during their boat trip.【鯨魚】",
+    "question": "My sister is getting married. Her __________ will be next Saturday.",
     "options": [
      {
       "letter": "A",
-      "text": "wallet"
+      "text": "weapon"
      },
      {
       "letter": "B",
-      "text": "waste"
+      "text": "weather"
      },
      {
       "letter": "C",
-      "text": "weapon"
+      "text": "wedding"
+     },
+     {
+      "letter": "D",
+      "text": "weight"
+     }
+    ],
+    "answer": "C",
+    "vi": 13
+   },
+   {
+    "question": "I don't work on the __________. I usually stay home on Saturday and Sunday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "weekend"
+     },
+     {
+      "letter": "B",
+      "text": "wedding"
+     },
+     {
+      "letter": "C",
+      "text": "weather"
+     },
+     {
+      "letter": "D",
+      "text": "weight"
+     }
+    ],
+    "answer": "A",
+    "vi": 14
+   },
+   {
+    "question": "The doctor told him to lose __________. He is ten kilograms too heavy.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wealth"
+     },
+     {
+      "letter": "B",
+      "text": "weight"
+     },
+     {
+      "letter": "C",
+      "text": "waste"
+     },
+     {
+      "letter": "D",
+      "text": "weather"
+     }
+    ],
+    "answer": "B",
+    "vi": 15
+   },
+   {
+    "question": "The singer is __________ all over Asia. Almost everyone has heard of her.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "well-known"
+     },
+     {
+      "letter": "B",
+      "text": "talkative"
+     },
+     {
+      "letter": "C",
+      "text": "tropical"
+     },
+     {
+      "letter": "D",
+      "text": "violent"
+     }
+    ],
+    "answer": "A",
+    "vi": 16
+   },
+   {
+    "question": "The __________ is the biggest animal in the sea.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wheel"
+     },
+     {
+      "letter": "B",
+      "text": "waiter"
+     },
+     {
+      "letter": "C",
+      "text": "wallet"
      },
      {
       "letter": "D",
@@ -681,38 +681,38 @@ window.FLASHCARD_UNITS = {
     "vi": 17
    },
    {
-    "question": "The car needs new __________.【輪子】",
+    "question": "A car has four __________. A bicycle has only two.",
     "options": [
      {
       "letter": "A",
+      "text": "whales"
+     },
+     {
+      "letter": "B",
       "text": "wheels"
      },
      {
-      "letter": "B",
-      "text": "volleyball"
-     },
-     {
       "letter": "C",
-      "text": "weapon"
+      "text": "wallets"
      },
      {
       "letter": "D",
-      "text": "wallet"
+      "text": "weddings"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 18
    },
    {
-    "question": "She __________ a secret to her friend.【耳語，低聲說】",
+    "question": "\"Don't tell anyone,\" she __________ in my ear. She spoke very quietly.",
     "options": [
      {
       "letter": "A",
-      "text": "waved"
+      "text": "voted"
      },
      {
       "letter": "B",
-      "text": "vote"
+      "text": "waved"
      },
      {
       "letter": "C",
@@ -720,7 +720,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "wake"
+      "text": "woke"
      }
     ],
     "answer": "C",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"former":["having been something in the past, but not now","以前的，前者的"],"independent":["able to do things by yourself, without help","獨立的，自主的"],"local":["of or in the place where you live or are","當地的，本地的"],"vocabulary":["all the words that a person knows","詞彙，詞彙量"],"volleyball":["a game in which two teams hit a big ball over a high net with their hands","排球"],"volunteer":["a person who works to help others without being paid","志願者，義工"],"vote":["to choose someone in an election by marking a paper","投票，選舉"],"waiter":["a man who brings food to people in a restaurant","服務生，侍者"],"wake":["to stop sleeping","醒來，喚醒"],"wallet":["a small flat case for carrying money and cards","錢包，皮夾"],"waste":["a bad use of time, money, or things","浪費，廢物"],"waterfall":["a place where a river falls from a high place","瀑布"],"waved":["to move your hand in the air to say hello or good-bye","揮手，波動"],"weapon":["a thing used for fighting, like a gun or a knife","武器"],"wealth":["a large amount of money and things that someone owns","財富，富裕"],"weather":["how hot, cold, wet, or dry it is outside","天氣，氣候"],"wedding":["the ceremony in which two people get married","婚禮"],"weekend":["Saturday and Sunday","週末"],"weight":["how heavy someone or something is","重量，體重"],"well-known":["known by many people; famous","著名的，知名的"],"whale":["a very, very big sea animal that looks like a fish","鯨魚"],"wheels":["a round thing under a car or bike that turns to make it move","輪子"],"whispered":["to speak in a very quiet voice","耳語，低聲說"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"volleyball":["a game in which two teams hit a big ball over a high net with their hands","排球"],"vocabulary":["all the words that a person knows","詞彙，詞彙量"],"wealth":["a large amount of money and things that someone owns","財富，富裕"],"weather":["how hot, cold, wet, or dry it is outside","天氣，氣候"],"wedding":["the ceremony in which two people get married","婚禮"],"weight":["how heavy someone or something is","重量，體重"],"waiter":["a man who brings food to people in a restaurant","服務生，侍者"],"whale":["a very, very big sea animal that looks like a fish","鯨魚"],"volunteer":["a person who works to help others without being paid","志願者，義工"],"weapon":["a thing used for fighting, like a gun or a knife","武器"],"wake":["to stop sleeping","醒來，喚醒"],"wave":["to move your hand in the air to say hello or good-bye","揮手，波動"],"whisper":["to speak in a very quiet voice","耳語，低聲說"],"vote":["to choose someone in an election by marking a paper","投票，選舉"],"wheel":["a round thing under a car or bike that turns to make it move","輪子"],"wallet":["a small flat case for carrying money and cards","錢包，皮夾"],"waste":["a bad use of time, money, or things","浪費，廢物"],"waterfall":["a place where a river falls from a high place","瀑布"],"waved":["to move your hand in the air to say hello or good-bye","揮手，波動"],"voted":["to choose someone in an election by marking a paper","投票，選舉"],"whispered":["to speak in a very quiet voice","耳語，低聲說"],"woke":["","醒來"],"weekend":["Saturday and Sunday","週末"],"well-known":["known by many people; famous","著名的，知名的"],"talkative":["liking to talk a lot","健談的，話多的"],"tropical":["from or in the hottest parts of the world","熱帶的，炎熱的"],"violent":["very strong and dangerous","暴力的，猛烈的"],"whales":["a very, very big sea animal that looks like a fish","鯨魚"],"wheels":["a round thing under a car or bike that turns to make it move","輪子"],"wallets":["a small flat case for carrying money and cards","錢包，皮夾"],"weddings":["the ceremony in which two people get married","婚禮"]});

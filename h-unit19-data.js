@@ -267,53 +267,53 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "She made __________ noodles for lunch.【即時的，瞬間的】",
+    "question": "I didn't have time to cook, so I ate __________ noodles. They were ready in three minutes.",
     "options": [
      {
       "letter": "A",
-      "text": "intelligent"
+      "text": "jealous"
      },
      {
       "letter": "B",
-      "text": "instant"
-     },
-     {
-      "letter": "C",
       "text": "international"
      },
      {
+      "letter": "C",
+      "text": "instant"
+     },
+     {
       "letter": "D",
-      "text": "jealous"
+      "text": "intelligent"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 0
    },
    {
-    "question": "She plays several musical __________.【樂器，工具】",
+    "question": "The piano is my favorite musical __________. I have played it for five years.",
     "options": [
      {
       "letter": "A",
-      "text": "kingdom"
-     },
-     {
-      "letter": "B",
       "text": "invitation"
      },
      {
+      "letter": "B",
+      "text": "instrument"
+     },
+     {
       "letter": "C",
-      "text": "ketchup"
+      "text": "iron"
      },
      {
       "letter": "D",
-      "text": "instruments"
+      "text": "jam"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 1
    },
    {
-    "question": "She is one of the most __________ students in the class.【聰明的，智慧的】",
+    "question": "Dolphins are very __________ animals. They can learn many things quickly.",
     "options": [
      {
       "letter": "A",
@@ -336,7 +336,7 @@ window.FLASHCARD_UNITS = {
     "vi": 2
    },
    {
-    "question": "The city hosts an __________ film festival every year.【國際的】",
+    "question": "English is an __________ language. People in many countries use it.",
     "options": [
      {
       "letter": "A",
@@ -344,164 +344,95 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "jealous"
+     },
+     {
+      "letter": "C",
       "text": "intelligent"
      },
      {
-      "letter": "C",
+      "letter": "D",
       "text": "international"
-     },
-     {
-      "letter": "D",
-      "text": "jealous"
-     }
-    ],
-    "answer": "C",
-    "vi": 3
-   },
-   {
-    "question": "Please don't __________ me while I'm speaking.【打斷，中斷】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "invented"
-     },
-     {
-      "letter": "B",
-      "text": "introduced"
-     },
-     {
-      "letter": "C",
-      "text": "provide"
-     },
-     {
-      "letter": "D",
-      "text": "interrupt"
      }
     ],
     "answer": "D",
+    "vi": 3
+   },
+   {
+    "question": "Please don't __________ me when I am talking. Wait until I finish.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "interrupt"
+     },
+     {
+      "letter": "B",
+      "text": "introduce"
+     },
+     {
+      "letter": "C",
+      "text": "invent"
+     },
+     {
+      "letter": "D",
+      "text": "inspire"
+     }
+    ],
+    "answer": "A",
     "vi": 4
    },
    {
-    "question": "She __________ him to her parents.【介紹，引入】",
+    "question": "Let me __________ my friend to you. This is Amy, and she is from Tainan.",
     "options": [
      {
       "letter": "A",
-      "text": "introduced"
-     },
-     {
-      "letter": "B",
-      "text": "invented"
-     },
-     {
-      "letter": "C",
       "text": "interrupt"
      },
      {
+      "letter": "B",
+      "text": "invent"
+     },
+     {
+      "letter": "C",
+      "text": "insist"
+     },
+     {
       "letter": "D",
-      "text": "licked"
+      "text": "introduce"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 5
    },
    {
-    "question": "He __________ a new type of computer.【發明，創造】",
+    "question": "Edison __________ the light bulb. Nobody had made one before him.",
     "options": [
      {
       "letter": "A",
+      "text": "interrupted"
+     },
+     {
+      "letter": "B",
       "text": "introduced"
      },
      {
-      "letter": "B",
+      "letter": "C",
       "text": "invented"
      },
      {
-      "letter": "C",
-      "text": "interrupt"
-     },
-     {
       "letter": "D",
-      "text": "supported"
-     }
-    ],
-    "answer": "B",
-    "vi": 6
-   },
-   {
-    "question": "She received an __________ to the wedding.【邀請，請帖】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "iron"
-     },
-     {
-      "letter": "B",
-      "text": "jam"
-     },
-     {
-      "letter": "C",
-      "text": "invitation"
-     },
-     {
-      "letter": "D",
-      "text": "jeep"
+      "text": "insisted"
      }
     ],
     "answer": "C",
-    "vi": 7
+    "vi": 6
    },
    {
-    "question": "She needs to use the __________ to press her clothes.【鐵，熨斗】",
+    "question": "I got an __________ to Lisa's wedding. It will be on May 20 at the Grand Hotel.",
     "options": [
      {
       "letter": "A",
-      "text": "iron"
-     },
-     {
-      "letter": "B",
-      "text": "kingdom"
-     },
-     {
-      "letter": "C",
-      "text": "jeep"
-     },
-     {
-      "letter": "D",
-      "text": "journalist"
-     }
-    ],
-    "answer": "A",
-    "vi": 8
-   },
-   {
-    "question": "She spread __________ on her toast.【果醬，堵塞】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "journalist"
-     },
-     {
-      "letter": "B",
-      "text": "jam"
-     },
-     {
-      "letter": "C",
-      "text": "kangaroo"
-     },
-     {
-      "letter": "D",
-      "text": "kingdom"
-     }
-    ],
-    "answer": "B",
-    "vi": 9
-   },
-   {
-    "question": "He enjoys listening to __________.【爵士樂】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "kingdom"
+      "text": "instrument"
      },
      {
       "letter": "B",
@@ -509,7 +440,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
+      "text": "iron"
+     },
+     {
+      "letter": "D",
+      "text": "ink"
+     }
+    ],
+    "answer": "B",
+    "vi": 7
+   },
+   {
+    "question": "Your shirt is not flat. Use the __________ to press it before you go to the interview.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "jam"
+     },
+     {
+      "letter": "B",
       "text": "jeep"
+     },
+     {
+      "letter": "C",
+      "text": "iron"
+     },
+     {
+      "letter": "D",
+      "text": "judge"
+     }
+    ],
+    "answer": "C",
+    "vi": 8
+   },
+   {
+    "question": "I like to put strawberry __________ on my toast. It is sweet and red.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "jam"
+     },
+     {
+      "letter": "B",
+      "text": "iron"
+     },
+     {
+      "letter": "C",
+      "text": "jazz"
+     },
+     {
+      "letter": "D",
+      "text": "jeep"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "My father loves __________. He often listens to this kind of American music at night.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "jam"
+     },
+     {
+      "letter": "B",
+      "text": "jeep"
+     },
+     {
+      "letter": "C",
+      "text": "iron"
      },
      {
       "letter": "D",
@@ -520,7 +520,7 @@ window.FLASHCARD_UNITS = {
     "vi": 10
    },
    {
-    "question": "He was __________ of his brother's success.【嫉妒的】",
+    "question": "Amy was __________ when her little brother got all the attention. She wanted it, too.",
     "options": [
      {
       "letter": "A",
@@ -528,172 +528,103 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "intelligent"
-     },
-     {
-      "letter": "C",
       "text": "jealous"
      },
      {
-      "letter": "D",
+      "letter": "C",
       "text": "international"
+     },
+     {
+      "letter": "D",
+      "text": "intelligent"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 11
    },
    {
-    "question": "They drove a __________ through the desert.【吉普車】",
+    "question": "We drove a __________ up the mountain road. A small car can't go on such a bad road.",
     "options": [
      {
       "letter": "A",
-      "text": "kilometer"
+      "text": "jeep"
      },
      {
       "letter": "B",
-      "text": "jazz"
-     },
-     {
-      "letter": "C",
       "text": "jam"
      },
      {
+      "letter": "C",
+      "text": "jazz"
+     },
+     {
       "letter": "D",
-      "text": "jeep"
+      "text": "judge"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 12
    },
    {
-    "question": "She works as a __________ for the local newspaper.【記者】",
+    "question": "The __________ wrote a story about the fire for the newspaper.",
     "options": [
      {
       "letter": "A",
-      "text": "journalist"
-     },
-     {
-      "letter": "B",
-      "text": "jazz"
-     },
-     {
-      "letter": "C",
       "text": "judge"
      },
      {
-      "letter": "D",
-      "text": "iron"
-     }
-    ],
-    "answer": "A",
-    "vi": 13
-   },
-   {
-    "question": "The __________ sentenced him to five years in prison.【法官，裁判】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "iron"
-     },
-     {
       "letter": "B",
-      "text": "judge"
-     },
-     {
-      "letter": "C",
-      "text": "kingdom"
-     },
-     {
-      "letter": "D",
-      "text": "kilometer"
-     }
-    ],
-    "answer": "B",
-    "vi": 14
-   },
-   {
-    "question": "They saw a __________ at the wildlife park.【袋鼠】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "jazz"
-     },
-     {
-      "letter": "B",
-      "text": "jeep"
-     },
-     {
-      "letter": "C",
       "text": "kangaroo"
      },
      {
-      "letter": "D",
-      "text": "journalist"
-     }
-    ],
-    "answer": "C",
-    "vi": 15
-   },
-   {
-    "question": "He added __________ to his burger.【番茄醬】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "ketchup"
-     },
-     {
-      "letter": "B",
+      "letter": "C",
       "text": "kingdom"
      },
      {
-      "letter": "C",
-      "text": "kindergarten"
-     },
-     {
       "letter": "D",
-      "text": "jazz"
-     }
-    ],
-    "answer": "A",
-    "vi": 16
-   },
-   {
-    "question": "They ran a 5 __________ race.【公里】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "iron"
-     },
-     {
-      "letter": "B",
-      "text": "jam"
-     },
-     {
-      "letter": "C",
-      "text": "judge"
-     },
-     {
-      "letter": "D",
-      "text": "kilometer"
+      "text": "journalist"
      }
     ],
     "answer": "D",
-    "vi": 17
+    "vi": 13
    },
    {
-    "question": "She teaches at a __________.【幼兒園】",
+    "question": "The __________ said the man must go to prison for three years.",
     "options": [
      {
       "letter": "A",
-      "text": "kangaroo"
+      "text": "journalist"
      },
      {
       "letter": "B",
-      "text": "kindergarten"
+      "text": "kangaroo"
      },
      {
       "letter": "C",
-      "text": "jazz"
+      "text": "judge"
+     },
+     {
+      "letter": "D",
+      "text": "jeep"
+     }
+    ],
+    "answer": "C",
+    "vi": 14
+   },
+   {
+    "question": "A __________ carries its baby in a pocket on its stomach. It lives in Australia.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "journalist"
+     },
+     {
+      "letter": "B",
+      "text": "kangaroo"
+     },
+     {
+      "letter": "C",
+      "text": "judge"
      },
      {
       "letter": "D",
@@ -701,32 +632,101 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "B",
-    "vi": 18
+    "vi": 15
    },
    {
-    "question": "The lion is known as the king of the __________.【王國】",
+    "question": "I always put __________ on my fries. I love this red tomato sauce.",
     "options": [
      {
       "letter": "A",
-      "text": "judge"
+      "text": "jazz"
      },
      {
       "letter": "B",
-      "text": "journalist"
+      "text": "jeep"
      },
      {
       "letter": "C",
+      "text": "iron"
+     },
+     {
+      "letter": "D",
+      "text": "ketchup"
+     }
+    ],
+    "answer": "D",
+    "vi": 16
+   },
+   {
+    "question": "The school is two __________ from my house. That is two thousand meters.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "kangaroos"
+     },
+     {
+      "letter": "B",
+      "text": "kingdoms"
+     },
+     {
+      "letter": "C",
+      "text": "kilometers"
+     },
+     {
+      "letter": "D",
+      "text": "judges"
+     }
+    ],
+    "answer": "C",
+    "vi": 17
+   },
+   {
+    "question": "My little sister is five years old. She goes to __________, not elementary school.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "kindergarten"
+     },
+     {
+      "letter": "B",
       "text": "kingdom"
+     },
+     {
+      "letter": "C",
+      "text": "ketchup"
      },
      {
       "letter": "D",
       "text": "jazz"
      }
     ],
-    "answer": "C",
+    "answer": "A",
+    "vi": 18
+   },
+   {
+    "question": "Long ago, a king and a queen ruled a small __________ by the sea.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "kindergarten"
+     },
+     {
+      "letter": "B",
+      "text": "kingdom"
+     },
+     {
+      "letter": "C",
+      "text": "ketchup"
+     },
+     {
+      "letter": "D",
+      "text": "kilometer"
+     }
+    ],
+    "answer": "B",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"instant":["(of food) very quick and easy to make","即時的，瞬間的"],"instruments":["a thing you play to make music, like a piano or guitar","樂器，工具"],"intelligent":["smart; able to learn and understand quickly","聰明的，智慧的"],"international":["for or between many countries","國際的"],"interrupt":["to stop someone while they are speaking","打斷，中斷"],"introduced":["to tell people each other's names when they meet for the first time","介紹，引入"],"invented":["to make or think of something that did not exist before","發明，創造"],"invitation":["a card or words asking someone to come to a party or event","邀請，請帖"],"iron":["a hot tool that you move over clothes to make them flat","鐵，熨斗"],"jam":["a sweet food made from fruit and sugar that you put on bread","果醬，堵塞"],"jazz":["a kind of music with a strong beat, first played in the U.S.A.","爵士樂"],"jealous":["unhappy because someone has what you want","嫉妒的"],"jeep":["a small, strong car that can go on bad roads","吉普車"],"journalist":["a person who writes news stories","記者"],"judge":["the person in a court who decides how to punish someone","法官，裁判"],"kangaroo":["an animal from Australia that jumps and carries its baby in a pocket","袋鼠"],"ketchup":["a thick red sauce made from tomatoes","番茄醬"],"kilometer":["a unit of length; it is 1,000 meters","公里"],"kindergarten":["a school for very young children","幼兒園"],"kingdom":["a country that has a king or queen; a world of one kind of living thing","王國"],"licked":["to move your tongue over something","舔"],"provide":["to give someone what they need","提供，供給"],"supported":["to agree with and help someone","支持，支援"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"jealous":["unhappy because someone has what you want","嫉妒的"],"international":["for or between many countries","國際的"],"instant":["(of food) very quick and easy to make","即時的，瞬間的"],"intelligent":["smart; able to learn and understand quickly","聰明的，智慧的"],"invitation":["a card or words asking someone to come to a party or event","邀請，請帖"],"instrument":["a thing you play to make music, like a piano or guitar","樂器，工具"],"iron":["a hot tool that you move over clothes to make them flat","鐵，熨斗"],"jam":["a sweet food made from fruit and sugar that you put on bread","果醬，堵塞"],"interrupt":["to stop someone while they are speaking","打斷，中斷"],"introduce":["to tell people each other's names when they meet for the first time","介紹，引入"],"invent":["to make or think of something that did not exist before","發明，創造"],"inspire":["to make someone feel that they want to do something good","激勵，啟發"],"insist":["to say strongly that you want to do something","堅持，強調"],"interrupted":["to stop someone while they are speaking","打斷，中斷"],"introduced":["to tell people each other's names when they meet for the first time","介紹，引入"],"invented":["to make or think of something that did not exist before","發明，創造"],"insisted":["to say strongly that you want to do something","堅持，強調"],"ink":["the colored liquid inside a pen","墨水"],"jeep":["a small, strong car that can go on bad roads","吉普車"],"judge":["the person in a court who decides how to punish someone","法官，裁判"],"jazz":["a kind of music with a strong beat, first played in the U.S.A.","爵士樂"],"kangaroo":["an animal from Australia that jumps and carries its baby in a pocket","袋鼠"],"kingdom":["a country that has a king or queen; a world of one kind of living thing","王國"],"journalist":["a person who writes news stories","記者"],"ketchup":["a thick red sauce made from tomatoes","番茄醬"],"kangaroos":["an animal from Australia that jumps and carries its baby in a pocket","袋鼠"],"kingdoms":["a country that has a king or queen; a world of one kind of living thing","王國"],"kilometers":["a unit of length; it is 1,000 meters","公里"],"judges":["the person in a court who decides how to punish someone","法官，裁判"],"kindergarten":["a school for very young children","幼兒園"],"kilometer":["a unit of length; it is 1,000 meters","公里"]});

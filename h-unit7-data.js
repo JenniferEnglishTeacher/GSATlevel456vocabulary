@@ -267,130 +267,61 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "The instructions __________ me.【使困惑，混淆】",
+    "question": "The two road signs __________ drivers. One says \"turn left,\" and the other says \"turn right.\"",
     "options": [
      {
       "letter": "A",
+      "text": "continue"
+     },
+     {
+      "letter": "B",
       "text": "control"
      },
      {
-      "letter": "B",
+      "letter": "C",
       "text": "confuse"
      },
      {
-      "letter": "C",
-      "text": "consider"
-     },
-     {
       "letter": "D",
-      "text": "continue"
-     }
-    ],
-    "answer": "B",
-    "vi": 0
-   },
-   {
-    "question": "__________ on your new job!【祝賀，恭喜】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Congratulations"
-     },
-     {
-      "letter": "B",
-      "text": "Contact lenses"
-     },
-     {
-      "letter": "C",
-      "text": "Crayons"
-     },
-     {
-      "letter": "D",
-      "text": "Crab"
-     }
-    ],
-    "answer": "A",
-    "vi": 1
-   },
-   {
-    "question": "Please __________ my proposal carefully.【考慮】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "continue"
-     },
-     {
-      "letter": "B",
-      "text": "confuse"
-     },
-     {
-      "letter": "C",
       "text": "cough"
-     },
-     {
-      "letter": "D",
-      "text": "consider"
-     }
-    ],
-    "answer": "D",
-    "vi": 2
-   },
-   {
-    "question": "He is always __________ of others' feelings.【體貼的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "peaceful"
-     },
-     {
-      "letter": "B",
-      "text": "maximum"
-     },
-     {
-      "letter": "C",
-      "text": "considerate"
-     },
-     {
-      "letter": "D",
-      "text": "necessary"
      }
     ],
     "answer": "C",
-    "vi": 3
+    "vi": 0
    },
    {
-    "question": "She wears __________ instead of glasses.【隱形眼鏡】",
+    "question": "\"__________ on winning first prize!\" \"Thank you. I am so happy.\"",
     "options": [
      {
       "letter": "A",
-      "text": "congratulations"
+      "text": "Conversations"
      },
      {
       "letter": "B",
-      "text": "crayons"
+      "text": "Congratulations"
      },
      {
       "letter": "C",
-      "text": "convenience store"
+      "text": "Contracts"
      },
      {
       "letter": "D",
-      "text": "contact lenses"
+      "text": "Couples"
      }
     ],
-    "answer": "D",
-    "vi": 4
+    "answer": "B",
+    "vi": 1
    },
    {
-    "question": "Let's __________ our discussion after lunch.【繼續】",
+    "question": "Please __________ my idea carefully. Think about it for a few days before you answer.",
     "options": [
      {
       "letter": "A",
-      "text": "continue"
+      "text": "consider"
      },
      {
       "letter": "B",
-      "text": "consider"
+      "text": "cough"
      },
      {
       "letter": "C",
@@ -398,18 +329,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
+      "text": "continue"
+     }
+    ],
+    "answer": "A",
+    "vi": 2
+   },
+   {
+    "question": "Tom is very __________. He always thinks about what other people need.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "crowded"
+     },
+     {
+      "letter": "B",
+      "text": "cruel"
+     },
+     {
+      "letter": "C",
+      "text": "careless"
+     },
+     {
+      "letter": "D",
+      "text": "considerate"
+     }
+    ],
+    "answer": "D",
+    "vi": 3
+   },
+   {
+    "question": "I don't like wearing glasses, so I wear __________. I put them on my eyes every morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "convenience stores"
+     },
+     {
+      "letter": "B",
+      "text": "cowboys"
+     },
+     {
+      "letter": "C",
+      "text": "contact lenses"
+     },
+     {
+      "letter": "D",
+      "text": "crayons"
+     }
+    ],
+    "answer": "C",
+    "vi": 4
+   },
+   {
+    "question": "Let's stop for lunch now. We will __________ the meeting at two o'clock.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "continue"
+     },
+     {
+      "letter": "B",
+      "text": "confuse"
+     },
+     {
+      "letter": "C",
       "text": "cough"
+     },
+     {
+      "letter": "D",
+      "text": "control"
      }
     ],
     "answer": "A",
     "vi": 5
    },
    {
-    "question": "He signed a __________ with the new company.【合約】",
+    "question": "The basketball player signed a three-year __________ with the team. He will get ten million dollars.",
     "options": [
      {
       "letter": "A",
-      "text": "cop"
+      "text": "conversation"
      },
      {
       "letter": "B",
@@ -417,18 +417,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "conversation"
+      "text": "couple"
      },
      {
       "letter": "D",
-      "text": "cowboy"
+      "text": "court"
      }
     ],
     "answer": "B",
     "vi": 6
    },
    {
-    "question": "You need to __________ your emotions better.【控制】",
+    "question": "The teacher can't __________ the noisy class. The students won't sit down or be quiet.",
     "options": [
      {
       "letter": "A",
@@ -440,26 +440,95 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "control"
+      "text": "consider"
      },
      {
       "letter": "D",
-      "text": "consider"
+      "text": "control"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 7
    },
    {
-    "question": "There is a __________ on every corner.【便利商店】",
+    "question": "I bought a bottle of water at the __________ on the corner. It is open twenty-four hours a day.",
     "options": [
      {
       "letter": "A",
-      "text": "couple"
+      "text": "conversation"
      },
      {
       "letter": "B",
+      "text": "contact lens"
+     },
+     {
+      "letter": "C",
+      "text": "convenience store"
+     },
+     {
+      "letter": "D",
+      "text": "court"
+     }
+    ],
+    "answer": "C",
+    "vi": 8
+   },
+   {
+    "question": "I had a long __________ with my teacher about my future. We talked for an hour.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "contract"
+     },
+     {
+      "letter": "B",
+      "text": "conversation"
+     },
+     {
+      "letter": "C",
+      "text": "cotton"
+     },
+     {
+      "letter": "D",
+      "text": "corn"
+     }
+    ],
+    "answer": "B",
+    "vi": 9
+   },
+   {
+    "question": "A __________ stopped the driver for going too fast. He gave the man a ticket.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "crab"
+     },
+     {
+      "letter": "B",
+      "text": "couple"
+     },
+     {
+      "letter": "C",
+      "text": "cowboy"
+     },
+     {
+      "letter": "D",
       "text": "cop"
+     }
+    ],
+    "answer": "D",
+    "vi": 10
+   },
+   {
+    "question": "Popcorn is made from __________. This yellow vegetable is also good in soup.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "corn"
+     },
+     {
+      "letter": "B",
+      "text": "cotton"
      },
      {
       "letter": "C",
@@ -467,95 +536,118 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "convenience store"
-     }
-    ],
-    "answer": "D",
-    "vi": 8
-   },
-   {
-    "question": "They had a long __________ about their plans.【會話，對話】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "conversation"
-     },
-     {
-      "letter": "B",
-      "text": "crab"
-     },
-     {
-      "letter": "C",
-      "text": "cowboy"
-     },
-     {
-      "letter": "D",
-      "text": "convenience store"
+      "text": "courage"
      }
     ],
     "answer": "A",
-    "vi": 9
-   },
-   {
-    "question": "The __________ caught the thief.【警察】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "crab"
-     },
-     {
-      "letter": "B",
-      "text": "couple"
-     },
-     {
-      "letter": "C",
-      "text": "cop"
-     },
-     {
-      "letter": "D",
-      "text": "conversation"
-     }
-    ],
-    "answer": "C",
-    "vi": 10
-   },
-   {
-    "question": "She likes to eat __________ on the cob.【玉米】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "convenience store"
-     },
-     {
-      "letter": "B",
-      "text": "corn"
-     },
-     {
-      "letter": "C",
-      "text": "couple"
-     },
-     {
-      "letter": "D",
-      "text": "cowboy"
-     }
-    ],
-    "answer": "B",
     "vi": 11
    },
    {
-    "question": "The shirt is made of 100% __________.【棉花】",
+    "question": "This T-shirt is made of __________. It is soft and cool to wear in summer.",
     "options": [
      {
       "letter": "A",
-      "text": "crab"
+      "text": "corn"
      },
      {
       "letter": "B",
-      "text": "couple"
+      "text": "court"
      },
      {
       "letter": "C",
+      "text": "courage"
+     },
+     {
+      "letter": "D",
       "text": "cotton"
+     }
+    ],
+    "answer": "D",
+    "vi": 12
+   },
+   {
+    "question": "Cover your mouth when you __________. Other people don't want to catch your cold.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "consider"
+     },
+     {
+      "letter": "B",
+      "text": "continue"
+     },
+     {
+      "letter": "C",
+      "text": "cough"
+     },
+     {
+      "letter": "D",
+      "text": "control"
+     }
+    ],
+    "answer": "C",
+    "vi": 13
+   },
+   {
+    "question": "The young __________ got married last month. They are very much in love.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "couple"
+     },
+     {
+      "letter": "B",
+      "text": "contract"
+     },
+     {
+      "letter": "C",
+      "text": "court"
+     },
+     {
+      "letter": "D",
+      "text": "crab"
+     }
+    ],
+    "answer": "A",
+    "vi": 14
+   },
+   {
+    "question": "It takes __________ to speak in front of five hundred people. I was afraid, but I did it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cotton"
+     },
+     {
+      "letter": "B",
+      "text": "courage"
+     },
+     {
+      "letter": "C",
+      "text": "corn"
+     },
+     {
+      "letter": "D",
+      "text": "court"
+     }
+    ],
+    "answer": "B",
+    "vi": 15
+   },
+   {
+    "question": "The players ran onto the basketball __________, and the game began.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "couple"
+     },
+     {
+      "letter": "B",
+      "text": "cotton"
+     },
+     {
+      "letter": "C",
+      "text": "court"
      },
      {
       "letter": "D",
@@ -563,114 +655,22 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "C",
-    "vi": 12
-   },
-   {
-    "question": "He started to __________ after inhaling the smoke.【咳嗽】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "consider"
-     },
-     {
-      "letter": "B",
-      "text": "cough"
-     },
-     {
-      "letter": "C",
-      "text": "continue"
-     },
-     {
-      "letter": "D",
-      "text": "control"
-     }
-    ],
-    "answer": "B",
-    "vi": 13
-   },
-   {
-    "question": "The young __________ moved into a new apartment.【一對，夫婦】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cowboy"
-     },
-     {
-      "letter": "B",
-      "text": "cop"
-     },
-     {
-      "letter": "C",
-      "text": "courage"
-     },
-     {
-      "letter": "D",
-      "text": "couple"
-     }
-    ],
-    "answer": "D",
-    "vi": 14
-   },
-   {
-    "question": "It takes a lot of __________ to speak in public.【勇氣】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "courage"
-     },
-     {
-      "letter": "B",
-      "text": "cop"
-     },
-     {
-      "letter": "C",
-      "text": "couple"
-     },
-     {
-      "letter": "D",
-      "text": "conversation"
-     }
-    ],
-    "answer": "A",
-    "vi": 15
-   },
-   {
-    "question": "The case was brought to __________.【法庭，球場】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cop"
-     },
-     {
-      "letter": "B",
-      "text": "court"
-     },
-     {
-      "letter": "C",
-      "text": "couple"
-     },
-     {
-      "letter": "D",
-      "text": "corn"
-     }
-    ],
-    "answer": "B",
     "vi": 16
    },
    {
-    "question": "He dressed up as a __________ for the party.【牛仔】",
+    "question": "In the movie, the __________ rides a horse and wears a big hat. He takes care of cows.",
     "options": [
      {
       "letter": "A",
-      "text": "crab"
+      "text": "cop"
      },
      {
       "letter": "B",
-      "text": "cotton"
+      "text": "crab"
      },
      {
       "letter": "C",
-      "text": "courage"
+      "text": "couple"
      },
      {
       "letter": "D",
@@ -681,30 +681,30 @@ window.FLASHCARD_UNITS = {
     "vi": 17
    },
    {
-    "question": "They caught a large __________ by the shore.【螃蟹】",
+    "question": "A __________ has a hard shell and ten legs. It walks sideways on the beach.",
     "options": [
      {
       "letter": "A",
-      "text": "couple"
+      "text": "cop"
      },
      {
       "letter": "B",
-      "text": "conversation"
-     },
-     {
-      "letter": "C",
       "text": "crab"
      },
      {
+      "letter": "C",
+      "text": "cowboy"
+     },
+     {
       "letter": "D",
-      "text": "convenience store"
+      "text": "crayon"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 18
    },
    {
-    "question": "She drew a picture with __________.【蠟筆】",
+    "question": "The little girl drew a picture with her __________. She used the red, blue, and green ones.",
     "options": [
      {
       "letter": "A",
@@ -712,15 +712,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "congratulations"
+      "text": "crabs"
      },
      {
       "letter": "C",
-      "text": "contact lenses"
+      "text": "couples"
      },
      {
       "letter": "D",
-      "text": "crab"
+      "text": "courts"
      }
     ],
     "answer": "A",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"confuse":["to make someone unable to understand","使困惑，混淆"],"congratulations":["words you say to someone when something good happens to them","祝賀，恭喜"],"consider":["to think about something carefully","考慮"],"considerate":["always thinking about what other people need or feel","體貼的"],"continue":["to keep doing something; to not stop","繼續"],"contract":["a paper that two people or companies sign to agree on something","合約"],"control":["to have the power to make something do what you want","控制"],"conversation":["a talk between two or more people","會話，對話"],"cop":["a police officer","警察"],"corn":["a tall plant with yellow seeds that people eat","玉米"],"cotton":["soft white material from a plant, used to make clothes","棉花"],"cough":["to push air out of your throat with a sudden, rough sound","咳嗽"],"couple":["two people who are married or in love","一對，夫婦"],"courage":["being brave when you are afraid","勇氣"],"court":["the place where a judge decides if someone broke the law","法庭，球場"],"cowboy":["a man who rides a horse and takes care of cows","牛仔"],"crab":["a sea animal with a hard shell and ten legs that walks sideways","螃蟹"],"crayons":["a stick of colored wax for drawing","蠟筆"],"maximum":["the largest that is possible or allowed","最大的，最高的"],"necessary":["needed; that you must have or do","必要的"],"peaceful":["quiet and calm","和平的，安靜的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"continue":["to keep doing something; to not stop","繼續"],"control":["to have the power to make something do what you want","控制"],"confuse":["to make someone unable to understand","使困惑，混淆"],"cough":["to push air out of your throat with a sudden, rough sound","咳嗽"],"conversations":["a talk between two or more people","會話，對話"],"congratulations":["words you say to someone when something good happens to them","祝賀，恭喜"],"contracts":["a paper that two people or companies sign to agree on something","合約"],"couples":["two people who are married or in love","一對，夫婦"],"consider":["to think about something carefully","考慮"],"crowded":["full of people","擁擠的"],"cruel":["making people or animals suffer; very unkind","殘酷的，無情的"],"careless":["not thinking about what you are doing, so you make mistakes","粗心的"],"considerate":["always thinking about what other people need or feel","體貼的"],"cowboys":["a man who rides a horse and takes care of cows","牛仔"],"crayons":["a stick of colored wax for drawing","蠟筆"],"conversation":["a talk between two or more people","會話，對話"],"contract":["a paper that two people or companies sign to agree on something","合約"],"couple":["two people who are married or in love","一對，夫婦"],"court":["the place where a judge decides if someone broke the law","法庭，球場"],"cotton":["soft white material from a plant, used to make clothes","棉花"],"corn":["a tall plant with yellow seeds that people eat","玉米"],"crab":["a sea animal with a hard shell and ten legs that walks sideways","螃蟹"],"cowboy":["a man who rides a horse and takes care of cows","牛仔"],"cop":["a police officer","警察"],"courage":["being brave when you are afraid","勇氣"],"crayon":["a stick of colored wax for drawing","蠟筆"],"crabs":["a sea animal with a hard shell and ten legs that walks sideways","螃蟹"],"courts":["the place where a judge decides if someone broke the law","法庭，球場"]});

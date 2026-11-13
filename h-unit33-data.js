@@ -267,99 +267,99 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "She ordered a __________ with her meal.【汽水，蘇打水】",
+    "question": "I'd like a cold __________ with my pizza. I love sweet drinks with bubbles.",
     "options": [
      {
       "letter": "A",
-      "text": "spaghetti"
+      "text": "speech"
      },
      {
       "letter": "B",
-      "text": "stationery"
+      "text": "steam"
      },
      {
       "letter": "C",
-      "text": "softball"
+      "text": "soda"
      },
      {
       "letter": "D",
-      "text": "soda"
+      "text": "step"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 0
    },
    {
-    "question": "The pillow is very __________.【柔軟的，溫和的】",
+    "question": "This pillow is very __________. I love to put my head on it.",
     "options": [
      {
       "letter": "A",
-      "text": "soft"
-     },
-     {
-      "letter": "B",
       "text": "sour"
      },
      {
+      "letter": "B",
+      "text": "stingy"
+     },
+     {
       "letter": "C",
-      "text": "golden"
+      "text": "stormy"
      },
      {
       "letter": "D",
-      "text": "general"
+      "text": "soft"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 1
    },
    {
-    "question": "She prefers __________ to alcohol.【軟飲料，非酒精飲料】",
+    "question": "Children can't drink beer, but they can have __________ like cola or juice.",
     "options": [
      {
       "letter": "A",
-      "text": "spaghetti"
+      "text": "soy sauces"
      },
      {
       "letter": "B",
-      "text": "soft drink"
+      "text": "soft drinks"
      },
      {
       "letter": "C",
-      "text": "spot"
+      "text": "speeches"
      },
      {
       "letter": "D",
-      "text": "speaker"
+      "text": "steps"
      }
     ],
     "answer": "B",
     "vi": 2
    },
    {
-    "question": "They played __________ in the park.【壘球】",
+    "question": "The girls played __________ on the field. One of them hit the ball very far.",
     "options": [
      {
       "letter": "A",
-      "text": "stationery"
-     },
-     {
-      "letter": "B",
-      "text": "step"
-     },
-     {
-      "letter": "C",
       "text": "softball"
      },
      {
+      "letter": "B",
+      "text": "spaghetti"
+     },
+     {
+      "letter": "C",
+      "text": "stationery"
+     },
+     {
       "letter": "D",
-      "text": "soda"
+      "text": "soy sauce"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 3
    },
    {
-    "question": "Can you __________ this math problem?【解決，解答】",
+    "question": "This math problem is very hard. Can you help me __________ it?",
     "options": [
      {
       "letter": "A",
@@ -371,7 +371,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "serve"
+      "text": "sink"
      },
      {
       "letter": "D",
@@ -382,30 +382,30 @@ window.FLASHCARD_UNITS = {
     "vi": 4
    },
    {
-    "question": "She believes in the immortality of the __________.【靈魂，精神】",
+    "question": "Some people believe that the __________ lives on after the body dies.",
     "options": [
      {
       "letter": "A",
-      "text": "stationery"
-     },
-     {
-      "letter": "B",
       "text": "soul"
      },
      {
+      "letter": "B",
+      "text": "speed"
+     },
+     {
       "letter": "C",
-      "text": "soft drink"
+      "text": "step"
      },
      {
       "letter": "D",
       "text": "steam"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 5
    },
    {
-    "question": "The milk tasted __________.【酸的，不愉快的】",
+    "question": "This lemon juice is too __________. Please add some sugar.",
     "options": [
      {
       "letter": "A",
@@ -413,7 +413,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "dumb"
+      "text": "stingy"
      },
      {
       "letter": "C",
@@ -421,26 +421,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "stingy"
+      "text": "straight"
      }
     ],
     "answer": "C",
     "vi": 6
    },
    {
-    "question": "She added __________ to the dish.【醬油】",
+    "question": "Dip the dumplings in __________. This dark, salty sauce makes them taste better.",
     "options": [
      {
       "letter": "A",
-      "text": "soy sauce"
+      "text": "softball"
      },
      {
       "letter": "B",
-      "text": "soul"
+      "text": "soy sauce"
      },
      {
       "letter": "C",
-      "text": "speech"
+      "text": "stationery"
+     },
+     {
+      "letter": "D",
+      "text": "steam"
+     }
+    ],
+    "answer": "B",
+    "vi": 7
+   },
+   {
+    "question": "We had __________ with tomato sauce for dinner at the Italian restaurant.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "softball"
+     },
+     {
+      "letter": "B",
+      "text": "stationery"
+     },
+     {
+      "letter": "C",
+      "text": "spaghetti"
+     },
+     {
+      "letter": "D",
+      "text": "steam"
+     }
+    ],
+    "answer": "C",
+    "vi": 8
+   },
+   {
+    "question": "The __________ talked about his trip to Africa. Everyone listened to him carefully.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "speaker"
+     },
+     {
+      "letter": "B",
+      "text": "speed"
+     },
+     {
+      "letter": "C",
+      "text": "steam"
      },
      {
       "letter": "D",
@@ -448,68 +494,22 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "A",
-    "vi": 7
-   },
-   {
-    "question": "She made __________ for dinner.【義大利麵】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "soft drink"
-     },
-     {
-      "letter": "B",
-      "text": "spaghetti"
-     },
-     {
-      "letter": "C",
-      "text": "soy sauce"
-     },
-     {
-      "letter": "D",
-      "text": "speaker"
-     }
-    ],
-    "answer": "B",
-    "vi": 8
-   },
-   {
-    "question": "The __________ gave an inspiring talk.【演講者，揚聲器】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "soy sauce"
-     },
-     {
-      "letter": "B",
-      "text": "step"
-     },
-     {
-      "letter": "C",
-      "text": "speaker"
-     },
-     {
-      "letter": "D",
-      "text": "state"
-     }
-    ],
-    "answer": "C",
     "vi": 9
    },
    {
-    "question": "He prepared a __________ for the conference.【演講，講話】",
+    "question": "The principal gave a __________ to the students. He talked for twenty minutes.",
     "options": [
      {
       "letter": "A",
-      "text": "soft drink"
+      "text": "speed"
      },
      {
       "letter": "B",
-      "text": "steam"
+      "text": "spot"
      },
      {
       "letter": "C",
-      "text": "stationery"
+      "text": "steam"
      },
      {
       "letter": "D",
@@ -520,30 +520,30 @@ window.FLASHCARD_UNITS = {
     "vi": 10
    },
    {
-    "question": "The car's top __________ is 120 mph.【速度】",
+    "question": "The train runs at a __________ of 300 kilometers an hour.",
     "options": [
      {
       "letter": "A",
-      "text": "speed"
+      "text": "speech"
      },
      {
       "letter": "B",
-      "text": "speaker"
+      "text": "speed"
      },
      {
       "letter": "C",
-      "text": "spirit"
+      "text": "spot"
      },
      {
       "letter": "D",
-      "text": "soda"
+      "text": "step"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 11
    },
    {
-    "question": "She showed great __________ during the competition.【精神，靈魂】",
+    "question": "We lost the game, but our team showed great __________. We never gave up.",
     "options": [
      {
       "letter": "A",
@@ -551,91 +551,91 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "speaker"
+      "text": "step"
      },
      {
       "letter": "C",
       "text": "spirit"
-     },
-     {
-      "letter": "D",
-      "text": "soul"
-     }
-    ],
-    "answer": "C",
-    "vi": 12
-   },
-   {
-    "question": "They found a perfect __________ for a picnic.【地點，斑點】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "speaker"
-     },
-     {
-      "letter": "B",
-      "text": "soda"
-     },
-     {
-      "letter": "C",
-      "text": "step"
      },
      {
       "letter": "D",
       "text": "spot"
      }
     ],
-    "answer": "D",
-    "vi": 13
+    "answer": "C",
+    "vi": 12
    },
    {
-    "question": "The news of the event quickly __________.【展開，傳播】",
+    "question": "This is a good __________ for a picnic. Let's sit here under the tree.",
     "options": [
      {
       "letter": "A",
-      "text": "steal"
+      "text": "spot"
      },
      {
       "letter": "B",
-      "text": "spread"
+      "text": "speed"
      },
      {
       "letter": "C",
-      "text": "solve"
+      "text": "steam"
      },
      {
       "letter": "D",
-      "text": "wake"
-     }
-    ],
-    "answer": "B",
-    "vi": 14
-   },
-   {
-    "question": "He is in a __________ of confusion.【狀態，州】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "state"
-     },
-     {
-      "letter": "B",
-      "text": "spirit"
-     },
-     {
-      "letter": "C",
-      "text": "soul"
-     },
-     {
-      "letter": "D",
-      "text": "soda"
+      "text": "speech"
      }
     ],
     "answer": "A",
+    "vi": 13
+   },
+   {
+    "question": "The fire __________ quickly from the kitchen to the other rooms.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "solved"
+     },
+     {
+      "letter": "B",
+      "text": "stole"
+     },
+     {
+      "letter": "C",
+      "text": "sank"
+     },
+     {
+      "letter": "D",
+      "text": "spread"
+     }
+    ],
+    "answer": "D",
+    "vi": 14
+   },
+   {
+    "question": "California is the biggest __________ in the U.S.A. by population.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "step"
+     },
+     {
+      "letter": "B",
+      "text": "state"
+     },
+     {
+      "letter": "C",
+      "text": "steam"
+     },
+     {
+      "letter": "D",
+      "text": "spot"
+     }
+    ],
+    "answer": "B",
     "vi": 15
    },
    {
-    "question": "She bought some new __________ for school.【文具】",
+    "question": "I bought some __________, like pens, paper, and envelopes, at the bookstore.",
     "options": [
      {
       "letter": "A",
@@ -643,7 +643,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "soda"
+      "text": "softball"
      },
      {
       "letter": "C",
@@ -658,75 +658,75 @@ window.FLASHCARD_UNITS = {
     "vi": 16
    },
    {
-    "question": "Someone tried to __________ his bike.【偷竊，盜取】",
+    "question": "Someone tried to __________ my bike, so now I always lock it.",
     "options": [
      {
       "letter": "A",
-      "text": "spread"
-     },
-     {
-      "letter": "B",
       "text": "steal"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "solve"
      },
      {
-      "letter": "D",
-      "text": "handle"
-     }
-    ],
-    "answer": "B",
-    "vi": 17
-   },
-   {
-    "question": "The pot was full of __________.【蒸汽】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "steam"
-     },
-     {
-      "letter": "B",
-      "text": "soda"
-     },
-     {
       "letter": "C",
-      "text": "speech"
+      "text": "spread"
      },
      {
       "letter": "D",
-      "text": "soy sauce"
+      "text": "sink"
      }
     ],
     "answer": "A",
-    "vi": 18
+    "vi": 17
    },
    {
-    "question": "He took a __________ forward.【步驟，步伐】",
+    "question": "The water is boiling. You can see white __________ coming out of the pot.",
     "options": [
      {
       "letter": "A",
-      "text": "soul"
+      "text": "speed"
      },
      {
       "letter": "B",
-      "text": "steam"
+      "text": "spot"
      },
      {
       "letter": "C",
-      "text": "step"
+      "text": "steam"
      },
      {
       "letter": "D",
-      "text": "speaker"
+      "text": "step"
      }
     ],
     "answer": "C",
+    "vi": 18
+   },
+   {
+    "question": "The baby took her first __________ today. She will be walking soon.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "spot"
+     },
+     {
+      "letter": "B",
+      "text": "step"
+     },
+     {
+      "letter": "C",
+      "text": "steam"
+     },
+     {
+      "letter": "D",
+      "text": "speed"
+     }
+    ],
+    "answer": "B",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dumb":["stupid; silly","啞的，愚蠢的"],"general":["not exact or full of details; about the main things only","一般的，總的"],"golden":["very happy and special; having the color of gold","金色的，極好的"],"handle":["to take care of a problem or a situation","處理，操作"],"serve":["to give food or drinks to people","服務，提供"],"soda":["a sweet drink with bubbles","汽水，蘇打水"],"soft":["not hard; nice to touch","柔軟的，溫和的"],"softball":["a game like baseball with a bigger, softer ball","壘球"],"solve":["to find the answer to a problem","解決，解答"],"soul":["the part of a person that some people believe lives on after death","靈魂，精神"],"sour":["having a taste like a lemon; (of milk) gone bad","酸的，不愉快的"],"spaghetti":["long thin noodles from Italy","義大利麵"],"speaker":["a person who gives a talk","演講者，揚聲器"],"speech":["a talk that someone gives to a group of people","演講，講話"],"speed":["how fast something moves","速度"],"spirit":["brave and strong feelings; the will to keep trying","精神，靈魂"],"spot":["a place","地點，斑點"],"spread":["to move and reach more and more people or places","展開，傳播"],"state":["the condition that someone or something is in","狀態，州"],"stationery":["paper, pens, and other things for writing","文具"],"steal":["to take something that is not yours","偷竊，盜取"],"steam":["the hot white gas that comes from boiling water","蒸汽"],"step":["one movement of your foot when you walk","步驟，步伐"],"stingy":["not willing to spend or give money","吝嗇的，小氣的"],"wake":["to stop sleeping","醒來，喚醒"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"speech":["a talk that someone gives to a group of people","演講，講話"],"steam":["the hot white gas that comes from boiling water","蒸汽"],"soda":["a sweet drink with bubbles","汽水，蘇打水"],"step":["one movement of your foot when you walk","步驟，步伐"],"sour":["having a taste like a lemon; (of milk) gone bad","酸的，不愉快的"],"stingy":["not willing to spend or give money","吝嗇的，小氣的"],"stormy":["with strong wind and heavy rain","暴風雨的，猛烈的"],"soft":["not hard; nice to touch","柔軟的，溫和的"],"speeches":["a talk that someone gives to a group of people","演講，講話"],"steps":["one movement of your foot when you walk","步驟，步伐"],"softball":["a game like baseball with a bigger, softer ball","壘球"],"spaghetti":["long thin noodles from Italy","義大利麵"],"stationery":["paper, pens, and other things for writing","文具"],"spread":["to move and reach more and more people or places","展開，傳播"],"steal":["to take something that is not yours","偷竊，盜取"],"sink":["to go down under water","下沉，沉沒"],"solve":["to find the answer to a problem","解決，解答"],"soul":["the part of a person that some people believe lives on after death","靈魂，精神"],"speed":["how fast something moves","速度"],"straight":["not bending or turning","直的，直接的"],"speaker":["a person who gives a talk","演講者，揚聲器"],"spot":["a place","地點，斑點"],"spirit":["brave and strong feelings; the will to keep trying","精神，靈魂"],"solved":["to find the answer to a problem","解決，解答"],"stole":["","偷"],"sank":["","下沉"],"state":["the condition that someone or something is in","狀態，州"]});

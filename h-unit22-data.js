@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "They won the soccer __________.【比賽，火柴】",
+    "question": "We watched a tennis __________ on TV. The two players played for three hours.",
     "options": [
      {
       "letter": "A",
@@ -275,49 +275,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "memory"
+      "text": "mirror"
      },
      {
       "letter": "C",
-      "text": "monster"
-     },
-     {
-      "letter": "D",
       "text": "match"
-     }
-    ],
-    "answer": "D",
-    "vi": 0
-   },
-   {
-    "question": "The __________ capacity of the hall is 500 people.【最大的，最高的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "minor"
-     },
-     {
-      "letter": "B",
-      "text": "positive"
-     },
-     {
-      "letter": "C",
-      "text": "maximum"
      },
      {
       "letter": "D",
-      "text": "empty"
+      "text": "method"
      }
     ],
     "answer": "C",
-    "vi": 1
+    "vi": 0
    },
    {
-    "question": "The __________ of the word is unclear.【意義，意思】",
+    "question": "The __________ speed on this highway is 110 kilometers an hour. You must not go faster.",
     "options": [
      {
       "letter": "A",
-      "text": "meters"
+      "text": "maximum"
+     },
+     {
+      "letter": "B",
+      "text": "minor"
+     },
+     {
+      "letter": "C",
+      "text": "major"
+     },
+     {
+      "letter": "D",
+      "text": "male"
+     }
+    ],
+    "answer": "A",
+    "vi": 1
+   },
+   {
+    "question": "What is the __________ of this word? I don't understand it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "memory"
      },
      {
       "letter": "B",
@@ -325,156 +325,110 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "match"
-     },
-     {
-      "letter": "D",
-      "text": "mosquito"
-     }
-    ],
-    "answer": "B",
-    "vi": 2
-   },
-   {
-    "question": "They __________ the length of the room.【測量，衡量】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "measured"
-     },
-     {
-      "letter": "B",
-      "text": "mixed"
-     },
-     {
-      "letter": "C",
-      "text": "divided"
-     },
-     {
-      "letter": "D",
-      "text": "whispered"
-     }
-    ],
-    "answer": "A",
-    "vi": 3
-   },
-   {
-    "question": "He works as a car __________.【技工，機械師】",
-    "options": [
-     {
-      "letter": "A",
       "text": "metal"
-     },
-     {
-      "letter": "B",
-      "text": "mosquito"
-     },
-     {
-      "letter": "C",
-      "text": "memory"
-     },
-     {
-      "letter": "D",
-      "text": "mechanic"
-     }
-    ],
-    "answer": "D",
-    "vi": 4
-   },
-   {
-    "question": "She has a good __________.【記憶，回憶】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "microwave"
-     },
-     {
-      "letter": "B",
-      "text": "model"
-     },
-     {
-      "letter": "C",
-      "text": "memory"
-     },
-     {
-      "letter": "D",
-      "text": "mirror"
-     }
-    ],
-    "answer": "C",
-    "vi": 5
-   },
-   {
-    "question": "She left a __________ on his phone.【信息，訊息】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "mirror"
-     },
-     {
-      "letter": "B",
-      "text": "message"
-     },
-     {
-      "letter": "C",
-      "text": "midnight"
-     },
-     {
-      "letter": "D",
-      "text": "model"
-     }
-    ],
-    "answer": "B",
-    "vi": 6
-   },
-   {
-    "question": "The table is made of __________.【金屬】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "metal"
-     },
-     {
-      "letter": "B",
-      "text": "mirror"
-     },
-     {
-      "letter": "C",
-      "text": "memory"
      },
      {
       "letter": "D",
       "text": "motion"
      }
     ],
-    "answer": "A",
-    "vi": 7
+    "answer": "B",
+    "vi": 2
    },
    {
-    "question": "The room is 5 __________ long.【公尺，計量器】",
+    "question": "Use a ruler to __________ the desk. How long is it?",
     "options": [
      {
       "letter": "A",
-      "text": "mosquito"
+      "text": "mix"
      },
      {
       "letter": "B",
-      "text": "microwave"
+      "text": "marry"
      },
      {
       "letter": "C",
-      "text": "mirror"
+      "text": "lock"
      },
      {
       "letter": "D",
-      "text": "meters"
+      "text": "measure"
      }
     ],
     "answer": "D",
-    "vi": 8
+    "vi": 3
    },
    {
-    "question": "They developed a new __________ for testing the product.【方法，方式】",
+    "question": "My car broke down, so I took it to a __________. He fixed it in two hours.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "monster"
+     },
+     {
+      "letter": "B",
+      "text": "model"
+     },
+     {
+      "letter": "C",
+      "text": "mechanic"
+     },
+     {
+      "letter": "D",
+      "text": "mosquito"
+     }
+    ],
+    "answer": "C",
+    "vi": 4
+   },
+   {
+    "question": "Grandpa has a good __________. He can still remember the names of all his classmates.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "memory"
+     },
+     {
+      "letter": "B",
+      "text": "meaning"
+     },
+     {
+      "letter": "C",
+      "text": "metal"
+     },
+     {
+      "letter": "D",
+      "text": "method"
+     }
+    ],
+    "answer": "A",
+    "vi": 5
+   },
+   {
+    "question": "Amy is not home. Can I take a __________ for her? I will tell her you called.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "mirror"
+     },
+     {
+      "letter": "B",
+      "text": "meter"
+     },
+     {
+      "letter": "C",
+      "text": "metal"
+     },
+     {
+      "letter": "D",
+      "text": "message"
+     }
+    ],
+    "answer": "D",
+    "vi": 6
+   },
+   {
+    "question": "Gold and iron are two kinds of __________. They are hard and shiny.",
     "options": [
      {
       "letter": "A",
@@ -482,22 +436,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "motion"
+      "text": "metal"
      },
      {
       "letter": "C",
-      "text": "midnight"
+      "text": "message"
      },
      {
       "letter": "D",
-      "text": "match"
+      "text": "motion"
+     }
+    ],
+    "answer": "B",
+    "vi": 7
+   },
+   {
+    "question": "The swimming pool is fifty __________ long. I can swim across it in one minute.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "meters"
+     },
+     {
+      "letter": "B",
+      "text": "methods"
+     },
+     {
+      "letter": "C",
+      "text": "mirrors"
+     },
+     {
+      "letter": "D",
+      "text": "models"
      }
     ],
     "answer": "A",
+    "vi": 8
+   },
+   {
+    "question": "This is a good __________ for learning new words. Many students use it this way.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "metal"
+     },
+     {
+      "letter": "B",
+      "text": "mirror"
+     },
+     {
+      "letter": "C",
+      "text": "method"
+     },
+     {
+      "letter": "D",
+      "text": "midnight"
+     }
+    ],
+    "answer": "C",
     "vi": 9
    },
    {
-    "question": "She heated the food in the __________.【微波爐】",
+    "question": "Put the cold pizza in the __________ for one minute. It will be hot again.",
     "options": [
      {
       "letter": "A",
@@ -505,45 +505,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "microwave"
+      "text": "meter"
      },
      {
       "letter": "C",
-      "text": "mechanic"
-     },
-     {
-      "letter": "D",
-      "text": "monster"
-     }
-    ],
-    "answer": "B",
-    "vi": 10
-   },
-   {
-    "question": "The train arrived at __________.【午夜】",
-    "options": [
-     {
-      "letter": "A",
       "text": "model"
      },
      {
-      "letter": "B",
-      "text": "match"
+      "letter": "D",
+      "text": "microwave"
+     }
+    ],
+    "answer": "D",
+    "vi": 10
+   },
+   {
+    "question": "I went to bed at __________. It was twelve o'clock at night.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "method"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "midnight"
      },
      {
+      "letter": "C",
+      "text": "metal"
+     },
+     {
       "letter": "D",
-      "text": "memory"
+      "text": "motion"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 11
    },
    {
-    "question": "He suffered only __________ injuries in the accident.【較小的，次要的】",
+    "question": "Don't worry. It is only a __________ problem. We can fix it in five minutes.",
     "options": [
      {
       "letter": "A",
@@ -555,18 +555,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "stingy"
+      "text": "major"
      },
      {
       "letter": "D",
-      "text": "instant"
+      "text": "marvelous"
      }
     ],
     "answer": "A",
     "vi": 12
    },
    {
-    "question": "The temperature is __________ 5 degrees.【減，負的】",
+    "question": "Ten __________ three is seven.",
     "options": [
      {
       "letter": "A",
@@ -578,22 +578,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "beyond"
+      "text": "minus"
      },
      {
       "letter": "D",
-      "text": "minus"
+      "text": "beyond"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 13
    },
    {
-    "question": "She looked at herself in the __________.【鏡子】",
+    "question": "She looked at herself in the __________ and brushed her hair.",
     "options": [
      {
       "letter": "A",
-      "text": "metal"
+      "text": "microwave"
      },
      {
       "letter": "B",
@@ -601,45 +601,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "motion"
+      "text": "model"
      },
      {
       "letter": "D",
-      "text": "mechanic"
+      "text": "meter"
      }
     ],
     "answer": "B",
     "vi": 14
    },
    {
-    "question": "She __________ the ingredients together.【混合，攪拌】",
+    "question": "__________ the eggs and sugar together in a bowl with a spoon.",
     "options": [
      {
       "letter": "A",
-      "text": "measured"
+      "text": "Measure"
      },
      {
       "letter": "B",
-      "text": "invented"
+      "text": "Marry"
      },
      {
       "letter": "C",
-      "text": "mixed"
+      "text": "Lock"
      },
      {
       "letter": "D",
-      "text": "insisted"
+      "text": "mix"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 15
    },
    {
-    "question": "He built a __________ of the airplane.【模型，模特】",
+    "question": "The boy made a __________ of a plane with paper and wood. It looks like a real one.",
     "options": [
      {
       "letter": "A",
-      "text": "monster"
+      "text": "mirror"
      },
      {
       "letter": "B",
@@ -647,72 +647,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "memory"
+      "text": "monster"
      },
      {
       "letter": "D",
-      "text": "method"
+      "text": "mosquito"
      }
     ],
     "answer": "B",
     "vi": 16
    },
    {
-    "question": "The children were afraid of the __________.【怪物】",
+    "question": "The child was afraid that a __________ lived under his bed. He thought it was big and ugly.",
     "options": [
      {
       "letter": "A",
-      "text": "monster"
-     },
-     {
-      "letter": "B",
-      "text": "mechanic"
-     },
-     {
-      "letter": "C",
-      "text": "mosquito"
-     },
-     {
-      "letter": "D",
-      "text": "memory"
-     }
-    ],
-    "answer": "A",
-    "vi": 17
-   },
-   {
-    "question": "She was bitten by a __________.【蚊子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "match"
-     },
-     {
-      "letter": "B",
       "text": "mirror"
      },
      {
+      "letter": "B",
+      "text": "model"
+     },
+     {
       "letter": "C",
-      "text": "memory"
+      "text": "meter"
      },
      {
       "letter": "D",
-      "text": "mosquito"
+      "text": "monster"
      }
     ],
     "answer": "D",
-    "vi": 18
+    "vi": 17
    },
    {
-    "question": "The __________ of the boat made her feel sick.【運動，動作】",
+    "question": "A __________ bit me on the arm last night. Now I have a red spot there.",
     "options": [
      {
       "letter": "A",
-      "text": "memory"
+      "text": "mosquito"
      },
      {
       "letter": "B",
-      "text": "microwave"
+      "text": "monster"
+     },
+     {
+      "letter": "C",
+      "text": "model"
+     },
+     {
+      "letter": "D",
+      "text": "mechanic"
+     }
+    ],
+    "answer": "A",
+    "vi": 18
+   },
+   {
+    "question": "The __________ of the ship on the sea made me feel sick.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "metal"
+     },
+     {
+      "letter": "B",
+      "text": "method"
      },
      {
       "letter": "C",
@@ -720,7 +720,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "match"
+      "text": "midnight"
      }
     ],
     "answer": "C",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"against":["not agreeing with something","反對，對抗"],"beyond":["on the far side of something","超過，在...之外"],"divided":["to cut or break something into parts","分開，劃分"],"empty":["with nothing or nobody inside","空的，無人的"],"insisted":["to say strongly that you want to do something","堅持，強調"],"instant":["(of food) very quick and easy to make","即時的，瞬間的"],"invented":["to make or think of something that did not exist before","發明，創造"],"match":["a game between two players or teams","比賽，火柴"],"maximum":["the largest that is possible or allowed","最大的，最高的"],"meaning":["the idea that a word or sign shows","意義，意思"],"measured":["to find out how long, big, or heavy something is","測量，衡量"],"mechanic":["a person who fixes cars or machines","技工，機械師"],"memory":["the power to remember things","記憶，回憶"],"message":["words that you send or leave for someone","信息，訊息"],"metal":["a hard, shiny material like iron or gold","金屬"],"meters":["a unit of length; it is 100 centimeters","公尺，計量器"],"method":["a way of doing something","方法，方式"],"microwave":["a machine that heats food very quickly","微波爐"],"midnight":["twelve o'clock at night","午夜"],"minor":["small; not very serious","較小的，次要的"],"minus":["below zero; made smaller by a number","減，負的"],"mirror":["a piece of glass in which you can see yourself","鏡子"],"mixed":["to put different things together and stir them","混合，攪拌"],"model":["a small copy of something, like a plane or a building","模型，模特"],"monster":["a big, ugly, scary animal in stories","怪物"],"mosquito":["a small flying insect that bites people and drinks blood","蚊子"],"motion":["the act of moving","運動，動作"],"plus":["and also; added to","加上，此外"],"positive":["thinking about the good side of things","積極的，正面的"],"stingy":["not willing to spend or give money","吝嗇的，小氣的"],"whispered":["to speak in a very quiet voice","耳語，低聲說"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"metal":["a hard, shiny material like iron or gold","金屬"],"mirror":["a piece of glass in which you can see yourself","鏡子"],"match":["a game between two players or teams","比賽，火柴"],"method":["a way of doing something","方法，方式"],"maximum":["the largest that is possible or allowed","最大的，最高的"],"minor":["small; not very serious","較小的，次要的"],"major":["very big or important","主要的，重要的"],"male":["being a man or a boy","男性的"],"memory":["the power to remember things","記憶，回憶"],"meaning":["the idea that a word or sign shows","意義，意思"],"motion":["the act of moving","運動，動作"],"mix":["to put different things together and stir them","混合，攪拌"],"marry":["to become someone's husband or wife","結婚"],"lock":["to close something with a key","鎖住"],"measure":["to find out how long, big, or heavy something is","測量，衡量"],"monster":["a big, ugly, scary animal in stories","怪物"],"model":["a small copy of something, like a plane or a building","模型，模特"],"mechanic":["a person who fixes cars or machines","技工，機械師"],"mosquito":["a small flying insect that bites people and drinks blood","蚊子"],"meter":["a unit of length; it is 100 centimeters","公尺，計量器"],"message":["words that you send or leave for someone","信息，訊息"],"meters":["a unit of length; it is 100 centimeters","公尺，計量器"],"methods":["a way of doing something","方法，方式"],"mirrors":["a piece of glass in which you can see yourself","鏡子"],"models":["a small copy of something, like a plane or a building","模型，模特"],"midnight":["twelve o'clock at night","午夜"],"microwave":["a machine that heats food very quickly","微波爐"],"marvelous":["very, very good; wonderful","奇妙的，極好的"],"plus":["and also; added to","加上，此外"],"against":["not agreeing with something","反對，對抗"],"minus":["below zero; made smaller by a number","減，負的"],"beyond":["on the far side of something","超過，在...之外"]});

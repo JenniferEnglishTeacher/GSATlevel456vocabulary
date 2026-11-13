@@ -267,7 +267,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "The __________ played with a ball of yarn.【小貓】",
+    "question": "Our cat had a baby. The little __________ is only two weeks old.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "kitten"
+     },
+     {
+      "letter": "B",
+      "text": "koala"
+     },
+     {
+      "letter": "C",
+      "text": "lamb"
+     },
+     {
+      "letter": "D",
+      "text": "leaf"
+     }
+    ],
+    "answer": "A",
+    "vi": 0
+   },
+   {
+    "question": "A __________ lives in trees in Australia. It looks like a small gray bear.",
     "options": [
      {
       "letter": "A",
@@ -279,53 +302,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "lady"
-     },
-     {
-      "letter": "D",
-      "text": "lantern"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "They saw a __________ sleeping in a tree.【無尾熊】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "law"
-     },
-     {
-      "letter": "B",
-      "text": "liquid"
-     },
-     {
-      "letter": "C",
       "text": "koala"
      },
      {
       "letter": "D",
-      "text": "leaf"
+      "text": "lady"
      }
     ],
     "answer": "C",
     "vi": 1
    },
    {
-    "question": "They __________ the resources to complete the project.【缺乏，缺少】",
+    "question": "Many poor families __________ money for food. They don't have enough to eat.",
     "options": [
      {
       "letter": "A",
-      "text": "laid"
+      "text": "lay"
      },
      {
       "letter": "B",
-      "text": "licked"
+      "text": "lick"
      },
      {
       "letter": "C",
-      "text": "lifted"
+      "text": "lift"
      },
      {
       "letter": "D",
@@ -336,11 +336,11 @@ window.FLASHCARD_UNITS = {
     "vi": 2
    },
    {
-    "question": "She is a kind and elegant __________.【女士，小姐】",
+    "question": "The old __________ thanked the boy for helping her cross the street. She gave him a smile.",
     "options": [
      {
       "letter": "A",
-      "text": "law"
+      "text": "lamb"
      },
      {
       "letter": "B",
@@ -348,22 +348,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "lettuce"
+      "text": "leaf"
      },
      {
       "letter": "D",
-      "text": "leaf"
+      "text": "lid"
      }
     ],
     "answer": "B",
     "vi": 3
    },
    {
-    "question": "They had roast __________ for dinner.【羔羊，羊肉】",
+    "question": "The mother sheep is feeding her baby. The little __________ is white and soft.",
     "options": [
      {
       "letter": "A",
-      "text": "liquid"
+      "text": "kitten"
      },
      {
       "letter": "B",
@@ -375,37 +375,37 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "lid"
+      "text": "lady"
      }
     ],
     "answer": "C",
     "vi": 4
    },
    {
-    "question": "They carried a __________ during the night walk.【燈籠，提燈】",
+    "question": "The child carried a paper __________ with a light inside on the night of the festival.",
     "options": [
      {
       "letter": "A",
-      "text": "liquid"
+      "text": "lettuce"
      },
      {
       "letter": "B",
-      "text": "link"
+      "text": "lantern"
      },
      {
       "letter": "C",
-      "text": "limit"
+      "text": "liquid"
      },
      {
       "letter": "D",
-      "text": "lantern"
+      "text": "limit"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 5
    },
    {
-    "question": "She is wearing the __________ fashion.【最新的，最近的】",
+    "question": "Have you seen the __________ movie by this actor? It just came out last Friday.",
     "options": [
      {
       "letter": "A",
@@ -413,80 +413,80 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "likely"
-     },
-     {
-      "letter": "C",
       "text": "latter"
      },
      {
+      "letter": "C",
+      "text": "likely"
+     },
+     {
       "letter": "D",
-      "text": "daily"
+      "text": "local"
      }
     ],
     "answer": "A",
     "vi": 6
    },
    {
-    "question": "The __________ half of the year is usually busier.【後者的，較後的】",
+    "question": "I have a dog and a cat. The former is big, and the __________ is small.",
     "options": [
      {
       "letter": "A",
-      "text": "likely"
-     },
-     {
-      "letter": "B",
-      "text": "latter"
-     },
-     {
-      "letter": "C",
       "text": "latest"
      },
      {
+      "letter": "B",
+      "text": "likely"
+     },
+     {
+      "letter": "C",
+      "text": "local"
+     },
+     {
       "letter": "D",
-      "text": "international"
+      "text": "latter"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 7
    },
    {
-    "question": "He studied __________ at university.【法律，法規】",
+    "question": "You must not drive after drinking. It is against the __________.",
     "options": [
      {
       "letter": "A",
+      "text": "leaf"
+     },
+     {
+      "letter": "B",
       "text": "law"
      },
      {
-      "letter": "B",
+      "letter": "C",
       "text": "lid"
      },
      {
-      "letter": "C",
-      "text": "lamb"
-     },
-     {
       "letter": "D",
-      "text": "liquid"
+      "text": "link"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 8
    },
    {
-    "question": "She __________ the book on the table.【放置，躺下】",
+    "question": "She __________ the baby on the bed and covered him with a blanket.",
     "options": [
      {
       "letter": "A",
-      "text": "lack"
-     },
-     {
-      "letter": "B",
       "text": "licked"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "lifted"
+     },
+     {
+      "letter": "C",
+      "text": "lacked"
      },
      {
       "letter": "D",
@@ -497,53 +497,53 @@ window.FLASHCARD_UNITS = {
     "vi": 9
    },
    {
-    "question": "The __________ fell from the tree.【樹葉，葉子】",
+    "question": "In fall, the __________ turn yellow and fall from the trees.",
     "options": [
      {
       "letter": "A",
-      "text": "kitten"
+      "text": "lids"
      },
      {
       "letter": "B",
-      "text": "link"
+      "text": "limits"
      },
      {
       "letter": "C",
-      "text": "leaf"
+      "text": "leaves"
      },
      {
       "letter": "D",
-      "text": "lady"
+      "text": "links"
      }
     ],
     "answer": "C",
     "vi": 10
    },
    {
-    "question": "She added __________ to her sandwich.【生菜】",
+    "question": "Put some __________ and a piece of tomato in the sandwich. I like green vegetables.",
     "options": [
      {
       "letter": "A",
-      "text": "law"
-     },
-     {
-      "letter": "B",
       "text": "lettuce"
      },
      {
+      "letter": "B",
+      "text": "lightning"
+     },
+     {
       "letter": "C",
-      "text": "leaf"
+      "text": "liquid"
      },
      {
       "letter": "D",
-      "text": "lamb"
+      "text": "law"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 11
    },
    {
-    "question": "The cat __________ its paw.【舔】",
+    "question": "The dog __________ my hand with its wet tongue.",
     "options": [
      {
       "letter": "A",
@@ -551,7 +551,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "laid"
+      "text": "lacked"
      },
      {
       "letter": "C",
@@ -559,18 +559,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "lack"
+      "text": "laid"
      }
     ],
     "answer": "C",
     "vi": 12
    },
    {
-    "question": "She put the __________ on the pot.【蓋子】",
+    "question": "Put the __________ on the pot so that the soup stays hot.",
     "options": [
      {
       "letter": "A",
-      "text": "lamb"
+      "text": "leaf"
      },
      {
       "letter": "B",
@@ -578,26 +578,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "lettuce"
+      "text": "link"
      },
      {
       "letter": "D",
-      "text": "link"
+      "text": "law"
      }
     ],
     "answer": "B",
     "vi": 13
    },
    {
-    "question": "He __________ the heavy box.【舉起，抬起】",
+    "question": "This box is too heavy. I can't __________ it off the floor.",
     "options": [
      {
       "letter": "A",
-      "text": "licked"
+      "text": "lift"
      },
      {
       "letter": "B",
-      "text": "laid"
+      "text": "lick"
      },
      {
       "letter": "C",
@@ -605,60 +605,60 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "lifted"
-     }
-    ],
-    "answer": "D",
-    "vi": 14
-   },
-   {
-    "question": "The __________ lit up the sky.【閃電】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "lightning"
-     },
-     {
-      "letter": "B",
-      "text": "lantern"
-     },
-     {
-      "letter": "C",
-      "text": "lid"
-     },
-     {
-      "letter": "D",
-      "text": "lady"
+      "text": "lay"
      }
     ],
     "answer": "A",
-    "vi": 15
+    "vi": 14
    },
    {
-    "question": "It is __________ to rain tomorrow.【很可能的】",
+    "question": "We saw __________ in the sky, and then we heard thunder. A storm was coming.",
     "options": [
      {
       "letter": "A",
-      "text": "latter"
+      "text": "lettuce"
      },
      {
       "letter": "B",
-      "text": "latest"
+      "text": "liquid"
      },
      {
       "letter": "C",
-      "text": "equal"
+      "text": "law"
      },
      {
       "letter": "D",
-      "text": "likely"
+      "text": "lightning"
      }
     ],
     "answer": "D",
+    "vi": 15
+   },
+   {
+    "question": "It is __________ to rain this afternoon. The sky is very dark.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "latest"
+     },
+     {
+      "letter": "B",
+      "text": "likely"
+     },
+     {
+      "letter": "C",
+      "text": "latter"
+     },
+     {
+      "letter": "D",
+      "text": "local"
+     }
+    ],
+    "answer": "B",
     "vi": 16
    },
    {
-    "question": "The speed __________ is 60 mph.【限制，界限】",
+    "question": "The speed __________ on this road is fifty kilometers an hour. Don't drive faster than that.",
     "options": [
      {
       "letter": "A",
@@ -666,45 +666,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "limit"
+      "text": "lid"
      },
      {
       "letter": "C",
-      "text": "law"
+      "text": "leaf"
+     },
+     {
+      "letter": "D",
+      "text": "limit"
+     }
+    ],
+    "answer": "D",
+    "vi": 17
+   },
+   {
+    "question": "Doctors say there is a __________ between smoking and many diseases. One leads to the other.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "limit"
+     },
+     {
+      "letter": "B",
+      "text": "lid"
+     },
+     {
+      "letter": "C",
+      "text": "link"
      },
      {
       "letter": "D",
       "text": "leaf"
      }
     ],
-    "answer": "B",
-    "vi": 17
-   },
-   {
-    "question": "There is a direct __________ between diet and health.【連接，聯繫】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "law"
-     },
-     {
-      "letter": "B",
-      "text": "lantern"
-     },
-     {
-      "letter": "C",
-      "text": "link"
-     },
-     {
-      "letter": "D",
-      "text": "lid"
-     }
-    ],
     "answer": "C",
     "vi": 18
    },
    {
-    "question": "Water is a __________ at room temperature.【液體】",
+    "question": "Water is a __________. When it gets very cold, it turns into ice.",
     "options": [
      {
       "letter": "A",
@@ -712,7 +712,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "law"
+      "text": "limit"
      },
      {
       "letter": "C",
@@ -720,7 +720,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "lantern"
+      "text": "law"
      }
     ],
     "answer": "A",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"daily":["happening or coming out every day","每日的，日常的"],"equal":["the same in size, number, or value","平等的，相等的"],"international":["for or between many countries","國際的"],"kitten":["a baby cat","小貓"],"koala":["a gray animal from Australia that lives in trees and looks like a small bear","無尾熊"],"lack":["to not have something, or not have enough of it","缺乏，缺少"],"lady":["a polite word for a woman","女士，小姐"],"lamb":["a baby sheep; meat from a young sheep","羔羊，羊肉"],"lantern":["a light inside a paper or glass cover that you can carry","燈籠，提燈"],"latest":["the newest","最新的，最近的"],"latter":["nearer to the end; the second of two","後者的，較後的"],"law":["the rules of a country; the study of these rules","法律，法規"],"laid":["to put something down carefully","放置，躺下"],"leaf":["one of the flat green parts of a tree or plant","樹葉，葉子"],"lettuce":["a vegetable with big green leaves, used in salads","生菜"],"licked":["to move your tongue over something","舔"],"lid":["a cover for a pot, cup, or box","蓋子"],"lifted":["to move something up","舉起，抬起"],"lightning":["a bright light in the sky during a storm","閃電"],"likely":["expected to happen","很可能的"],"limit":["the highest number or amount that is allowed","限制，界限"],"link":["a connection between two things","連接，聯繫"],"liquid":["something that flows, like water or milk","液體"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"kitten":["a baby cat","小貓"],"koala":["a gray animal from Australia that lives in trees and looks like a small bear","無尾熊"],"lamb":["a baby sheep; meat from a young sheep","羔羊，羊肉"],"leaf":["one of the flat green parts of a tree or plant","樹葉，葉子"],"lady":["a polite word for a woman","女士，小姐"],"lay":["to put something down carefully","放置，躺下"],"lick":["to move your tongue over something","舔"],"lift":["to move something up","舉起，抬起"],"lack":["to not have something, or not have enough of it","缺乏，缺少"],"lid":["a cover for a pot, cup, or box","蓋子"],"lettuce":["a vegetable with big green leaves, used in salads","生菜"],"lantern":["a light inside a paper or glass cover that you can carry","燈籠，提燈"],"liquid":["something that flows, like water or milk","液體"],"limit":["the highest number or amount that is allowed","限制，界限"],"latest":["the newest","最新的，最近的"],"latter":["nearer to the end; the second of two","後者的，較後的"],"likely":["expected to happen","很可能的"],"local":["of or in the place where you live or are","當地的，本地的"],"law":["the rules of a country; the study of these rules","法律，法規"],"link":["a connection between two things","連接，聯繫"],"licked":["to move your tongue over something","舔"],"lifted":["to move something up","舉起，抬起"],"lacked":["to not have something, or not have enough of it","缺乏，缺少"],"laid":["to put something down carefully","放置，躺下"],"lids":["a cover for a pot, cup, or box","蓋子"],"limits":["the highest number or amount that is allowed","限制，界限"],"leaves":["one of the flat green parts of a tree or plant","樹葉，葉子"],"links":["a connection between two things","連接，聯繫"],"lightning":["a bright light in the sky during a storm","閃電"]});

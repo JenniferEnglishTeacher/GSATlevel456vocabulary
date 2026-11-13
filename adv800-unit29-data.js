@@ -180,59 +180,59 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "They ______ old newspapers.【回收，再利用】",
+    "q": "We should ______ paper, glass, and plastic bottles. They can be made into new things.",
     "options": [
       "recycle",
-      "rent",
+      "regret",
       "remind",
-      "revise"
+      "respect"
     ],
     "answer": 0,
     "cn": "他們回收舊報紙。",
     "vocabIndex": 0
   },
   {
-    "q": "She ______ to answer the question.【拒絕，不接受】",
+    "q": "I asked him to help me, but he ______. He said he was too busy.",
     "options": [
-      "rubbed",
       "regretted",
-      "refused",
-      "robbed"
+      "reminded",
+      "repaired",
+      "refused"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她拒絕回答這個問題。",
     "vocabIndex": 1
   },
   {
-    "q": "He ______ his decision to quit his job.【後悔，遺憾】",
+    "q": "I ______ saying those bad words to my mother. I feel very sorry now.",
     "options": [
-      "rubbed",
-      "robbed",
-      "rejected",
-      "regretted"
+      "recycle",
+      "regret",
+      "remind",
+      "repair"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他後悔辭職的決定。",
     "vocabIndex": 2
   },
   {
-    "q": "He goes for a ______ check-up every year.【定期的，規則的】",
+    "q": "Ben is a ______ customer at this restaurant. He eats here every Friday.",
     "options": [
+      "rare",
       "responsible",
       "regular",
-      "rude",
-      "fantastic"
+      "rude"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "他每年定期體檢。",
     "vocabIndex": 3
   },
   {
-    "q": "She ______ his marriage proposal.【拒絕，不接受】",
+    "q": "Amy asked for the job, but the company ______ her. They said no.",
     "options": [
-      "robbed",
-      "regretted",
-      "rubbed",
+      "reminded",
+      "repaired",
+      "returned",
       "rejected"
     ],
     "answer": 3,
@@ -240,59 +240,59 @@ const MCQS = [
     "vocabIndex": 4
   },
   {
-    "q": "Can you ______ me to call my mom later?【提醒，使想起】",
+    "q": "Please ______ me to call Grandma tonight. I often forget.",
     "options": [
       "remind",
-      "rent",
-      "return",
-      "respect"
+      "regret",
+      "recycle",
+      "repair"
     ],
     "answer": 0,
     "cn": "你能提醒我等會兒打電話給我媽媽嗎？",
     "vocabIndex": 5
   },
   {
-    "q": "They decided to ______ an apartment.【租用，租賃】",
+    "q": "We don't own this apartment. We ______ it for twenty thousand dollars a month.",
     "options": [
-      "return",
-      "recycle",
+      "remind",
       "rent",
-      "remind"
+      "regret",
+      "respect"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "他們決定租一間公寓。",
     "vocabIndex": 6
   },
   {
-    "q": "The mechanic will ______ the car.【修理，修補】",
+    "q": "The roof has a hole in it. We need someone to ______ it before it rains.",
     "options": [
-      "respect",
+      "remind",
+      "regret",
       "repair",
-      "review",
-      "rise"
+      "rent"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "技工將修理這輛車。",
     "vocabIndex": 7
   },
   {
-    "q": "They ______ her for her hard work.【尊敬，尊重】",
+    "q": "We should ______ our parents and teachers. We should listen to them and be polite.",
     "options": [
+      "recycle",
       "respect",
-      "rise",
       "repair",
       "rent"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "他們尊敬她的辛勤工作。",
     "vocabIndex": 8
   },
   {
-    "q": "He is ______ for the project.【負責任的】",
+    "q": "Who is ______ for this mess? Who left all these dirty dishes here?",
     "options": [
       "regular",
-      "ill",
-      "fair",
+      "rare",
+      "rude",
       "responsible"
     ],
     "answer": 3,
@@ -300,59 +300,59 @@ const MCQS = [
     "vocabIndex": 9
   },
   {
-    "q": "The ______ of the experiment was surprising.【結果，效果】",
+    "q": "He studied very hard. As a ______, he got the highest score in the class.",
     "options": [
-      "roof",
       "role",
+      "roof",
       "result",
-      "roller skating"
+      "rubber"
     ],
     "answer": 2,
     "cn": "實驗結果令人驚訝。",
     "vocabIndex": 10
   },
   {
-    "q": "She will ______ from her trip next week.【返回，歸還】",
+    "q": "I have to ______ these books to the library by Friday.",
     "options": [
-      "respect",
       "return",
-      "revise",
-      "recycle"
+      "remind",
+      "regret",
+      "respect"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "她將在下週從旅行中返回。",
     "vocabIndex": 11
   },
   {
-    "q": "The committee will ______ the proposal.【審查，回顧】",
+    "q": "Let's ______ Lesson 5 before the test. We need to go over the words again.",
     "options": [
+      "rent",
+      "rob",
       "review",
-      "repair",
-      "rise",
-      "rent"
+      "rub"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "委員會將審查這個提案。",
     "vocabIndex": 12
   },
   {
-    "q": "She needs to ______ her essay before submitting it.【修改，修訂】",
+    "q": "Your report has some mistakes. Please ______ it and give it to me again.",
     "options": [
-      "return",
-      "review",
+      "rent",
       "revise",
+      "rob",
       "rise"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她需要在提交前修改她的文章。",
     "vocabIndex": 13
   },
   {
-    "q": "The sun will ______ at 6 AM.【上升，升起】",
+    "q": "Prices will ______ next month. A lunch box will go from eighty to ninety dollars.",
     "options": [
+      "rob",
+      "rub",
       "rent",
-      "revise",
-      "respect",
       "rise"
     ],
     "answer": 3,
@@ -360,147 +360,187 @@ const MCQS = [
     "vocabIndex": 14
   },
   {
-    "q": "The bank was ______ last night.【搶劫，剝奪】",
+    "q": "Two men with guns ______ the bank yesterday. They took one million dollars.",
     "options": [
-      "refused",
       "robbed",
+      "rented",
       "rubbed",
-      "regretted"
+      "reviewed"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "銀行昨晚被搶劫了。",
     "vocabIndex": 15
   },
   {
-    "q": "She played a leading ______ in the movie.【角色，作用】",
+    "q": "The actor played the ______ of a king in the movie.",
     "options": [
-      "role",
       "roof",
       "result",
-      "roller skating"
+      "role",
+      "rubber"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "她在電影中扮演了主要角色。",
     "vocabIndex": 16
   },
   {
-    "q": "She enjoys ______ in the park.【滾軸溜冰鞋】",
+    "q": "The children enjoy ______ in the park. They wear shoes with small wheels.",
     "options": [
-      "roof",
+      "recycling",
       "roller skating",
-      "role",
-      "result"
+      "repairing",
+      "renting"
     ],
     "answer": 1,
     "cn": "她喜歡在公園裡滾軸溜冰。",
     "vocabIndex": 17
   },
   {
-    "q": "They need to repair the ______.【屋頂】",
+    "q": "The cat climbed onto the ______ of the house and couldn't get down.",
     "options": [
-      "result",
+      "roof",
       "role",
-      "roller skating",
-      "roof"
+      "result",
+      "rubber"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他們需要修理屋頂。",
     "vocabIndex": 18
   },
   {
-    "q": "She ______ the stain out of the fabric.【擦，摩擦】",
+    "q": "The little boy was sleepy. He ______ his eyes with his hands.",
     "options": [
-      "regretted",
       "robbed",
-      "rubbed",
-      "rejected"
+      "rented",
+      "returned",
+      "rubbed"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她把污漬從布料上擦掉。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "fair": {
-    "pos": "adj.",
-    "en_def": "treating everyone in the same, right way",
-    "cn_def": "公平的，合理的"
-  },
-  "fantastic": {
-    "pos": "adj.",
-    "en_def": "very, very good",
-    "cn_def": "極好的，奇異的"
-  },
-  "ill": {
-    "pos": "adj.",
-    "en_def": "sick",
-    "cn_def": "生病的"
-  },
   "recycle": {
     "pos": "v.",
     "en_def": "to use old paper, glass, or plastic again to make new things",
     "cn_def": "回收，再利用"
   },
-  "refused": {
-    "pos": "v.",
-    "en_def": "to say no; to say that you will not do something",
-    "cn_def": "拒絕，不接受"
-  },
-  "regretted": {
+  "regret": {
     "pos": "v.",
     "en_def": "to feel sorry about something you did or did not do",
     "cn_def": "後悔，遺憾"
-  },
-  "regular": {
-    "pos": "adj.",
-    "en_def": "happening again and again at the same times",
-    "cn_def": "定期的，規則的"
-  },
-  "rejected": {
-    "pos": "v.",
-    "en_def": "to say no to something that is offered",
-    "cn_def": "拒絕，不接受"
   },
   "remind": {
     "pos": "v.",
     "en_def": "to help someone remember something",
     "cn_def": "提醒，使想起"
   },
-  "rent": {
+  "respect": {
     "pos": "v.",
-    "en_def": "to pay money to live in or use something that belongs to someone else",
-    "cn_def": "租用，租賃"
+    "en_def": "to think very well of someone",
+    "cn_def": "尊敬，尊重"
+  },
+  "regretted": {
+    "pos": "v.",
+    "en_def": "to feel sorry about something you did or did not do",
+    "cn_def": "後悔，遺憾"
+  },
+  "reminded": {
+    "pos": "v.",
+    "en_def": "to help someone remember something",
+    "cn_def": "提醒，使想起"
+  },
+  "repaired": {
+    "pos": "v.",
+    "en_def": "to fix something that is broken",
+    "cn_def": "修理，修補"
+  },
+  "refused": {
+    "pos": "v.",
+    "en_def": "to say no; to say that you will not do something",
+    "cn_def": "拒絕，不接受"
   },
   "repair": {
     "pos": "v.",
     "en_def": "to fix something that is broken",
     "cn_def": "修理，修補"
   },
-  "respect": {
-    "pos": "v.",
-    "en_def": "to think very well of someone",
-    "cn_def": "尊敬，尊重"
+  "rare": {
+    "pos": "adj.",
+    "en_def": "not seen or found very often",
+    "cn_def": "稀有的，罕見的"
   },
   "responsible": {
     "pos": "adj.",
     "en_def": "having the job or duty of taking care of something",
     "cn_def": "負責任的"
   },
+  "regular": {
+    "pos": "adj.",
+    "en_def": "happening again and again at the same times",
+    "cn_def": "定期的，規則的"
+  },
+  "rude": {
+    "pos": "adj.",
+    "en_def": "not polite",
+    "cn_def": "無禮的，粗魯的"
+  },
+  "returned": {
+    "pos": "v.",
+    "en_def": "to come back or go back to a place",
+    "cn_def": "返回，歸還"
+  },
+  "rejected": {
+    "pos": "v.",
+    "en_def": "to say no to something that is offered",
+    "cn_def": "拒絕，不接受"
+  },
+  "rent": {
+    "pos": "v.",
+    "en_def": "to pay money to live in or use something that belongs to someone else",
+    "cn_def": "租用，租賃"
+  },
+  "role": {
+    "pos": "n.",
+    "en_def": "the part that someone plays in a movie or in a group",
+    "cn_def": "角色，作用"
+  },
+  "roof": {
+    "pos": "n.",
+    "en_def": "the top cover of a building",
+    "cn_def": "屋頂"
+  },
   "result": {
     "pos": "n.",
     "en_def": "something that happens because of another thing",
     "cn_def": "結果，效果"
+  },
+  "rubber": {
+    "pos": "n.",
+    "en_def": "strong material that bends and bounces, used for balls and tires",
+    "cn_def": "橡膠，橡皮"
   },
   "return": {
     "pos": "v.",
     "en_def": "to come back or go back to a place",
     "cn_def": "返回，歸還"
   },
+  "rob": {
+    "pos": "v.",
+    "en_def": "to take money or things from a person or place by force",
+    "cn_def": "搶劫，剝奪"
+  },
   "review": {
     "pos": "v.",
     "en_def": "to look at something again carefully",
     "cn_def": "審查，回顧"
+  },
+  "rub": {
+    "pos": "v.",
+    "en_def": "to press and move your hand or a cloth back and forth on something",
+    "cn_def": "擦，摩擦"
   },
   "revise": {
     "pos": "v.",
@@ -517,30 +557,40 @@ const LOOKUP = {
     "en_def": "to take money or things from a person or place by force",
     "cn_def": "搶劫，剝奪"
   },
-  "role": {
-    "pos": "n.",
-    "en_def": "the part that someone plays in a movie or in a group",
-    "cn_def": "角色，作用"
-  },
-  "roller skating": {
-    "pos": "n.",
-    "en_def": "to move on shoes that have small wheels",
-    "cn_def": "滾軸溜冰鞋"
-  },
-  "roof": {
-    "pos": "n.",
-    "en_def": "the top cover of a building",
-    "cn_def": "屋頂"
+  "rented": {
+    "pos": "v.",
+    "en_def": "to pay money to live in or use something that belongs to someone else",
+    "cn_def": "租用，租賃"
   },
   "rubbed": {
     "pos": "v.",
     "en_def": "to press and move your hand or a cloth back and forth on something",
     "cn_def": "擦，摩擦"
   },
-  "rude": {
-    "pos": "adj.",
-    "en_def": "not polite",
-    "cn_def": "無禮的，粗魯的"
+  "reviewed": {
+    "pos": "v.",
+    "en_def": "to look at something again carefully",
+    "cn_def": "審查，回顧"
+  },
+  "recycling": {
+    "pos": "v.",
+    "en_def": "to use old paper, glass, or plastic again to make new things",
+    "cn_def": "回收，再利用"
+  },
+  "roller skating": {
+    "pos": "n.",
+    "en_def": "to move on shoes that have small wheels",
+    "cn_def": "滾軸溜冰鞋"
+  },
+  "repairing": {
+    "pos": "v.",
+    "en_def": "to fix something that is broken",
+    "cn_def": "修理，修補"
+  },
+  "renting": {
+    "pos": "v.",
+    "en_def": "to pay money to live in or use something that belongs to someone else",
+    "cn_def": "租用，租賃"
   }
 };
 

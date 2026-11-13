@@ -267,7 +267,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "The room was warm thanks to the __________.【加熱器，暖氣】",
+    "question": "It is cold in this room. Please turn on the __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "helicopter"
+     },
+     {
+      "letter": "B",
+      "text": "highway"
+     },
+     {
+      "letter": "C",
+      "text": "hole"
+     },
+     {
+      "letter": "D",
+      "text": "heater"
+     }
+    ],
+    "answer": "D",
+    "vi": 0
+   },
+   {
+    "question": "A __________ flew over the mountain and saved the two lost hikers. It doesn't need a runway to land.",
     "options": [
      {
       "letter": "A",
@@ -275,72 +298,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "hero"
-     },
-     {
-      "letter": "C",
       "text": "highway"
      },
      {
-      "letter": "D",
-      "text": "humor"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "They were rescued by a __________.【直升機】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hero"
-     },
-     {
-      "letter": "B",
-      "text": "hip"
-     },
-     {
       "letter": "C",
-      "text": "honesty"
-     },
-     {
-      "letter": "D",
       "text": "helicopter"
-     }
-    ],
-    "answer": "D",
-    "vi": 1
-   },
-   {
-    "question": "He is considered a national __________.【英雄】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hip"
-     },
-     {
-      "letter": "B",
-      "text": "honesty"
-     },
-     {
-      "letter": "C",
-      "text": "hero"
      },
      {
       "letter": "D",
-      "text": "host"
+      "text": "hippo"
      }
     ],
     "answer": "C",
-    "vi": 2
+    "vi": 1
    },
    {
-    "question": "They drove along the __________.【高速公路】",
+    "question": "The firefighter saved three children from the fire. Everyone calls him a __________.",
     "options": [
      {
       "letter": "A",
+      "text": "hero"
+     },
+     {
+      "letter": "B",
+      "text": "host"
+     },
+     {
+      "letter": "C",
       "text": "hippo"
+     },
+     {
+      "letter": "D",
+      "text": "hole"
+     }
+    ],
+    "answer": "A",
+    "vi": 2
+   },
+   {
+    "question": "We drove on the __________ from Taipei to Taichung. Cars can go 110 kilometers an hour on it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "heater"
      },
      {
       "letter": "B",
@@ -348,18 +348,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "helicopter"
+      "text": "hole"
      },
      {
       "letter": "D",
-      "text": "humor"
+      "text": "hip"
      }
     ],
     "answer": "B",
     "vi": 3
    },
    {
-    "question": "She has a tattoo on her __________.【臀部，髖部】",
+    "question": "Grandma fell down and hurt her __________. Now she can't sit or walk well.",
     "options": [
      {
       "letter": "A",
@@ -367,22 +367,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "helicopter"
+      "text": "host"
      },
      {
       "letter": "C",
-      "text": "honesty"
+      "text": "hip"
      },
      {
       "letter": "D",
-      "text": "hip"
+      "text": "hero"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 4
    },
    {
-    "question": "They saw a __________ at the zoo.【河馬】",
+    "question": "A __________ is a very big, heavy animal. It spends the day in rivers in Africa.",
     "options": [
      {
       "letter": "A",
@@ -390,22 +390,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "hippo"
+      "text": "host"
      },
      {
       "letter": "C",
-      "text": "housework"
+      "text": "hip"
      },
      {
       "letter": "D",
-      "text": "hip"
+      "text": "hippo"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 5
    },
    {
-    "question": "The company plans to __________ new employees.【雇用】",
+    "question": "The restaurant is very busy, so the boss wants to __________ two more waiters.",
     "options": [
      {
       "letter": "A",
@@ -413,298 +413,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "hug"
+      "text": "hop"
      },
      {
       "letter": "C",
-      "text": "hopped"
+      "text": "hug"
      },
      {
       "letter": "D",
-      "text": "create"
+      "text": "ignore"
      }
     ],
     "answer": "A",
     "vi": 6
    },
    {
-    "question": "There is a __________ in the wall.【洞，孔】",
+    "question": "There is a __________ in my sock. I can see my toe through it.",
     "options": [
      {
       "letter": "A",
-      "text": "highway"
+      "text": "hip"
      },
      {
       "letter": "B",
-      "text": "housework"
-     },
-     {
-      "letter": "C",
       "text": "hole"
      },
      {
+      "letter": "C",
+      "text": "host"
+     },
+     {
       "letter": "D",
-      "text": "humor"
+      "text": "hero"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 7
    },
    {
-    "question": "She felt __________ during her first week at college.【想家的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "homesick"
-     },
-     {
-      "letter": "B",
-      "text": "human"
-     },
-     {
-      "letter": "C",
-      "text": "humid"
-     },
-     {
-      "letter": "D",
-      "text": "humble"
-     }
-    ],
-    "answer": "A",
-    "vi": 8
-   },
-   {
-    "question": "__________ is the best policy.【誠實】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Housework"
-     },
-     {
-      "letter": "B",
-      "text": "Hip"
-     },
-     {
-      "letter": "C",
-      "text": "Humor"
-     },
-     {
-      "letter": "D",
-      "text": "Honesty"
-     }
-    ],
-    "answer": "D",
-    "vi": 9
-   },
-   {
-    "question": "The rabbit __________ away quickly.【跳躍，單腳跳】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hug"
-     },
-     {
-      "letter": "B",
-      "text": "hopped"
-     },
-     {
-      "letter": "C",
-      "text": "hire"
-     },
-     {
-      "letter": "D",
-      "text": "excited"
-     }
-    ],
-    "answer": "B",
-    "vi": 10
-   },
-   {
-    "question": "It was a __________ experience.【可怕的，糟糕的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "homesick"
-     },
-     {
-      "letter": "B",
-      "text": "humble"
-     },
-     {
-      "letter": "C",
-      "text": "horrible"
-     },
-     {
-      "letter": "D",
-      "text": "humid"
-     }
-    ],
-    "answer": "C",
-    "vi": 11
-   },
-   {
-    "question": "He was the __________ of the party.【主人，主持人】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "heater"
-     },
-     {
-      "letter": "B",
-      "text": "housework"
-     },
-     {
-      "letter": "C",
-      "text": "highway"
-     },
-     {
-      "letter": "D",
-      "text": "host"
-     }
-    ],
-    "answer": "D",
-    "vi": 12
-   },
-   {
-    "question": "She spends her weekends doing __________.【家務】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "heater"
-     },
-     {
-      "letter": "B",
-      "text": "hero"
-     },
-     {
-      "letter": "C",
-      "text": "housework"
-     },
-     {
-      "letter": "D",
-      "text": "honesty"
-     }
-    ],
-    "answer": "C",
-    "vi": 13
-   },
-   {
-    "question": "She gave him a warm __________.【擁抱】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hug"
-     },
-     {
-      "letter": "B",
-      "text": "hire"
-     },
-     {
-      "letter": "C",
-      "text": "hopped"
-     },
-     {
-      "letter": "D",
-      "text": "skate"
-     }
-    ],
-    "answer": "A",
-    "vi": 14
-   },
-   {
-    "question": "It is __________ nature to make mistakes.【人類的，人性的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "homesick"
-     },
-     {
-      "letter": "B",
-      "text": "human"
-     },
-     {
-      "letter": "C",
-      "text": "humble"
-     },
-     {
-      "letter": "D",
-      "text": "horrible"
-     }
-    ],
-    "answer": "B",
-    "vi": 15
-   },
-   {
-    "question": "He is very __________ about his achievements.【謙虛的，卑微的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "homesick"
-     },
-     {
-      "letter": "B",
-      "text": "humid"
-     },
-     {
-      "letter": "C",
-      "text": "humble"
-     },
-     {
-      "letter": "D",
-      "text": "horrible"
-     }
-    ],
-    "answer": "C",
-    "vi": 16
-   },
-   {
-    "question": "The weather is very __________ today.【潮濕的，濕熱的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "humble"
-     },
-     {
-      "letter": "B",
-      "text": "human"
-     },
-     {
-      "letter": "C",
-      "text": "horrible"
-     },
-     {
-      "letter": "D",
-      "text": "humid"
-     }
-    ],
-    "answer": "D",
-    "vi": 17
-   },
-   {
-    "question": "He has a great sense of __________.【幽默】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "humor"
-     },
-     {
-      "letter": "B",
-      "text": "heater"
-     },
-     {
-      "letter": "C",
-      "text": "hero"
-     },
-     {
-      "letter": "D",
-      "text": "highway"
-     }
-    ],
-    "answer": "A",
-    "vi": 18
-   },
-   {
-    "question": "She told a very __________ story.【幽默的】",
+    "question": "Lisa felt __________ during her first month in America. She missed her family every day.",
     "options": [
      {
       "letter": "A",
@@ -716,6 +463,167 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
+      "text": "horrible"
+     },
+     {
+      "letter": "D",
+      "text": "homesick"
+     }
+    ],
+    "answer": "D",
+    "vi": 8
+   },
+   {
+    "question": "I like his __________. He always tells the truth, even when it is hard.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hunger"
+     },
+     {
+      "letter": "B",
+      "text": "humor"
+     },
+     {
+      "letter": "C",
+      "text": "honesty"
+     },
+     {
+      "letter": "D",
+      "text": "housework"
+     }
+    ],
+    "answer": "C",
+    "vi": 9
+   },
+   {
+    "question": "The rabbit __________ across the grass and disappeared into a hole.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hopped"
+     },
+     {
+      "letter": "B",
+      "text": "hired"
+     },
+     {
+      "letter": "C",
+      "text": "hugged"
+     },
+     {
+      "letter": "D",
+      "text": "ignored"
+     }
+    ],
+    "answer": "A",
+    "vi": 10
+   },
+   {
+    "question": "The food was __________. It was cold and tasted so bad that nobody could finish it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "humble"
+     },
+     {
+      "letter": "B",
+      "text": "horrible"
+     },
+     {
+      "letter": "C",
+      "text": "homesick"
+     },
+     {
+      "letter": "D",
+      "text": "human"
+     }
+    ],
+    "answer": "B",
+    "vi": 11
+   },
+   {
+    "question": "Mr. Wang was the __________ of the party. He welcomed all the guests at the door of his house.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hero"
+     },
+     {
+      "letter": "B",
+      "text": "hippo"
+     },
+     {
+      "letter": "C",
+      "text": "hole"
+     },
+     {
+      "letter": "D",
+      "text": "host"
+     }
+    ],
+    "answer": "D",
+    "vi": 12
+   },
+   {
+    "question": "Dad does the __________ on weekends. He cleans the floor, washes the clothes, and cooks.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "housework"
+     },
+     {
+      "letter": "B",
+      "text": "honesty"
+     },
+     {
+      "letter": "C",
+      "text": "humor"
+     },
+     {
+      "letter": "D",
+      "text": "hunger"
+     }
+    ],
+    "answer": "A",
+    "vi": 13
+   },
+   {
+    "question": "When I got home, my mother gave me a big __________. She held me in her arms for a long time.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hole"
+     },
+     {
+      "letter": "B",
+      "text": "hug"
+     },
+     {
+      "letter": "C",
+      "text": "hip"
+     },
+     {
+      "letter": "D",
+      "text": "host"
+     }
+    ],
+    "answer": "B",
+    "vi": 14
+   },
+   {
+    "question": "It is __________ nature to want to be loved. All people are like that.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "humid"
+     },
+     {
+      "letter": "B",
+      "text": "horrible"
+     },
+     {
+      "letter": "C",
       "text": "human"
      },
      {
@@ -723,10 +631,102 @@ window.FLASHCARD_UNITS = {
       "text": "homesick"
      }
     ],
+    "answer": "C",
+    "vi": 15
+   },
+   {
+    "question": "He is a famous singer, but he is very __________. He never says he is better than others.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "humble"
+     },
+     {
+      "letter": "B",
+      "text": "humid"
+     },
+     {
+      "letter": "C",
+      "text": "horrible"
+     },
+     {
+      "letter": "D",
+      "text": "homesick"
+     }
+    ],
+    "answer": "A",
+    "vi": 16
+   },
+   {
+    "question": "Taiwan is hot and __________ in summer. The air feels wet, and clothes dry slowly.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "humble"
+     },
+     {
+      "letter": "B",
+      "text": "humid"
+     },
+     {
+      "letter": "C",
+      "text": "humorous"
+     },
+     {
+      "letter": "D",
+      "text": "human"
+     }
+    ],
     "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "Our teacher has a good sense of __________. He makes us laugh in every class.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "honesty"
+     },
+     {
+      "letter": "B",
+      "text": "hunger"
+     },
+     {
+      "letter": "C",
+      "text": "humor"
+     },
+     {
+      "letter": "D",
+      "text": "housework"
+     }
+    ],
+    "answer": "C",
+    "vi": 18
+   },
+   {
+    "question": "The speaker told many __________ stories. Everyone in the room laughed out loud.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "humid"
+     },
+     {
+      "letter": "B",
+      "text": "homesick"
+     },
+     {
+      "letter": "C",
+      "text": "horrible"
+     },
+     {
+      "letter": "D",
+      "text": "humorous"
+     }
+    ],
+    "answer": "D",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"create":["to make something new","創造"],"excited":["to make someone feel very happy and interested","使興奮，使激動"],"heater":["a machine that makes a room warm","加熱器，暖氣"],"helicopter":["a flying machine with big blades that turn on top","直升機"],"hero":["a brave person that many people love and respect","英雄"],"highway":["a wide road for cars to travel fast between cities","高速公路"],"hip":["the side of your body between your waist and the top of your leg","臀部，髖部"],"hippo":["a big, heavy animal with short legs that lives in rivers in Africa","河馬"],"hire":["to give someone a job","雇用"],"hole":["an empty space or opening in something","洞，孔"],"homesick":["sad because you are away from home","想家的"],"honesty":["always telling the truth","誠實"],"hopped":["to move by making short, quick jumps","跳躍，單腳跳"],"horrible":["very bad","可怕的，糟糕的"],"host":["the person who invites guests to a party","主人，主持人"],"housework":["work at home like cleaning, washing, and cooking","家務"],"hug":["holding someone in your arms to show love","擁抱"],"human":["of people; that all people have","人類的，人性的"],"humble":["not thinking or saying that you are better than others","謙虛的，卑微的"],"humid":["(of weather) warm and wet","潮濕的，濕熱的"],"humor":["being able to see or say what is funny","幽默"],"humorous":["funny; making people laugh","幽默的"],"skate":["to move on ice wearing special shoes","滑冰，溜冰"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"helicopter":["a flying machine with big blades that turn on top","直升機"],"highway":["a wide road for cars to travel fast between cities","高速公路"],"hole":["an empty space or opening in something","洞，孔"],"heater":["a machine that makes a room warm","加熱器，暖氣"],"hippo":["a big, heavy animal with short legs that lives in rivers in Africa","河馬"],"hero":["a brave person that many people love and respect","英雄"],"host":["the person who invites guests to a party","主人，主持人"],"hip":["the side of your body between your waist and the top of your leg","臀部，髖部"],"hire":["to give someone a job","雇用"],"hop":["to move by making short, quick jumps","跳躍，單腳跳"],"hug":["holding someone in your arms to show love","擁抱"],"ignore":["to act as if you do not see or hear someone or something","忽視"],"humid":["(of weather) warm and wet","潮濕的，濕熱的"],"humorous":["funny; making people laugh","幽默的"],"horrible":["very bad","可怕的，糟糕的"],"homesick":["sad because you are away from home","想家的"],"hunger":["the feeling of needing food; not having enough food","飢餓"],"humor":["being able to see or say what is funny","幽默"],"honesty":["always telling the truth","誠實"],"housework":["work at home like cleaning, washing, and cooking","家務"],"hopped":["to move by making short, quick jumps","跳躍，單腳跳"],"hired":["to give someone a job","雇用"],"hugged":["","擁抱"],"ignored":["to act as if you do not see or hear someone or something","忽視"],"humble":["not thinking or saying that you are better than others","謙虛的，卑微的"],"human":["of people; that all people have","人類的，人性的"]});

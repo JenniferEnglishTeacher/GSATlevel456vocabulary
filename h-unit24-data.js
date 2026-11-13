@@ -267,42 +267,42 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "__________ of the students knew the answer.【沒有一個】",
+    "question": "__________ of the students could answer the question. It was too hard for all thirty of them.",
     "options": [
      {
       "letter": "A",
-      "text": "None"
-     },
-     {
-      "letter": "B",
       "text": "Oneself"
      },
      {
+      "letter": "B",
+      "text": "None"
+     },
+     {
       "letter": "C",
-      "text": "Steam"
+      "text": "Neither"
      },
      {
       "letter": "D",
-      "text": "Pollute"
+      "text": "Nearly"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 0
    },
    {
-    "question": "She is writing a new __________.【小說】",
+    "question": "I am reading a long __________. The story is about a boy who can do magic.",
     "options": [
      {
       "letter": "A",
-      "text": "object"
+      "text": "nut"
      },
      {
       "letter": "B",
-      "text": "owner"
+      "text": "onion"
      },
      {
       "letter": "C",
-      "text": "ox"
+      "text": "oven"
      },
      {
       "letter": "D",
@@ -313,99 +313,99 @@ window.FLASHCARD_UNITS = {
     "vi": 1
    },
    {
-    "question": "He likes to eat __________.【堅果】",
+    "question": "Squirrels love to eat __________. They break the hard shells with their teeth.",
     "options": [
      {
       "letter": "A",
-      "text": "overpass"
-     },
-     {
-      "letter": "B",
-      "text": "ox"
-     },
-     {
-      "letter": "C",
       "text": "nuts"
      },
      {
+      "letter": "B",
+      "text": "novels"
+     },
+     {
+      "letter": "C",
+      "text": "ovens"
+     },
+     {
       "letter": "D",
-      "text": "onion"
+      "text": "objects"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 2
    },
    {
-    "question": "Dogs are trained to __________ commands.【服從，遵守】",
+    "question": "Students must __________ the school rules. They can't be late or fight.",
     "options": [
      {
       "letter": "A",
+      "text": "offer"
+     },
+     {
+      "letter": "B",
       "text": "omit"
      },
      {
-      "letter": "B",
+      "letter": "C",
       "text": "obey"
      },
      {
-      "letter": "C",
-      "text": "offered"
-     },
-     {
       "letter": "D",
-      "text": "bathe"
-     }
-    ],
-    "answer": "B",
-    "vi": 3
-   },
-   {
-    "question": "The __________ on the table is a rare artifact.【物體，目標】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "oven"
-     },
-     {
-      "letter": "B",
-      "text": "novel"
-     },
-     {
-      "letter": "C",
-      "text": "object"
-     },
-     {
-      "letter": "D",
-      "text": "onion"
+      "text": "pardon"
      }
     ],
     "answer": "C",
-    "vi": 4
+    "vi": 3
    },
    {
-    "question": "They sailed across the __________.【海洋】",
+    "question": "What is that strange __________ in the sky? Is it a bird or a plane?",
     "options": [
      {
       "letter": "A",
-      "text": "pain"
+      "text": "opinion"
      },
      {
       "letter": "B",
-      "text": "operation"
+      "text": "onion"
      },
      {
       "letter": "C",
-      "text": "oven"
+      "text": "owner"
      },
      {
       "letter": "D",
-      "text": "ocean"
+      "text": "object"
      }
     ],
     "answer": "D",
+    "vi": 4
+   },
+   {
+    "question": "The Pacific __________ is the biggest sea in the world.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Oven"
+     },
+     {
+      "letter": "B",
+      "text": "ocean"
+     },
+     {
+      "letter": "C",
+      "text": "Onion"
+     },
+     {
+      "letter": "D",
+      "text": "Object"
+     }
+    ],
+    "answer": "B",
     "vi": 5
    },
    {
-    "question": "He __________ to help with the work.【提供，提議】",
+    "question": "The young man __________ his seat to an old woman on the bus.",
     "options": [
      {
       "letter": "A",
@@ -413,22 +413,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "omit"
+      "text": "obeyed"
      },
      {
       "letter": "C",
-      "text": "obey"
+      "text": "omitted"
      },
      {
       "letter": "D",
-      "text": "dialed"
+      "text": "paused"
      }
     ],
     "answer": "A",
     "vi": 6
    },
    {
-    "question": "You can __________ the last question.【省略，忽略】",
+    "question": "Don't __________ any words when you copy the sentence. Write every one of them.",
     "options": [
      {
       "letter": "A",
@@ -436,45 +436,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "offer"
+     },
+     {
+      "letter": "C",
       "text": "omit"
      },
      {
-      "letter": "C",
-      "text": "offered"
-     },
-     {
       "letter": "D",
-      "text": "design"
-     }
-    ],
-    "answer": "B",
-    "vi": 7
-   },
-   {
-    "question": "It is important to take care of __________.【自己】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "none"
-     },
-     {
-      "letter": "B",
-      "text": "pronounce"
-     },
-     {
-      "letter": "C",
-      "text": "oneself"
-     },
-     {
-      "letter": "D",
-      "text": "rush"
+      "text": "pardon"
      }
     ],
     "answer": "C",
+    "vi": 7
+   },
+   {
+    "question": "It is hard to see __________ as others do.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "oneself"
+     },
+     {
+      "letter": "B",
+      "text": "none"
+     },
+     {
+      "letter": "C",
+      "text": "neither"
+     },
+     {
+      "letter": "D",
+      "text": "nobody"
+     }
+    ],
+    "answer": "A",
     "vi": 8
    },
    {
-    "question": "She chopped an __________.【洋蔥】",
+    "question": "Cutting an __________ always makes me cry.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "oven"
+     },
+     {
+      "letter": "B",
+      "text": "onion"
+     },
+     {
+      "letter": "C",
+      "text": "ox"
+     },
+     {
+      "letter": "D",
+      "text": "object"
+     }
+    ],
+    "answer": "B",
+    "vi": 9
+   },
+   {
+    "question": "The doctor did an __________ on my grandfather's heart. It took six hours.",
     "options": [
      {
       "letter": "A",
@@ -482,22 +505,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ocean"
+      "text": "onion"
      },
      {
       "letter": "C",
-      "text": "object"
+      "text": "operation"
      },
      {
       "letter": "D",
-      "text": "onion"
+      "text": "owner"
      }
     ],
-    "answer": "D",
-    "vi": 9
+    "answer": "C",
+    "vi": 10
    },
    {
-    "question": "The __________ was successful.【操作，手術】",
+    "question": "In my __________, this is the best restaurant in town. What do you think?",
     "options": [
      {
       "letter": "A",
@@ -505,30 +528,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ocean"
-     },
-     {
-      "letter": "C",
-      "text": "novel"
-     },
-     {
-      "letter": "D",
-      "text": "ox"
-     }
-    ],
-    "answer": "A",
-    "vi": 10
-   },
-   {
-    "question": "She asked for his __________.【意見，看法】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "ox"
-     },
-     {
-      "letter": "B",
-      "text": "opinion"
+      "text": "onion"
      },
      {
       "letter": "C",
@@ -536,37 +536,60 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "owner"
-     }
-    ],
-    "answer": "B",
-    "vi": 11
-   },
-   {
-    "question": "He is just an __________ person.【普通的，平凡的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "overweight"
-     },
-     {
-      "letter": "B",
-      "text": "total"
-     },
-     {
-      "letter": "C",
-      "text": "latter"
-     },
-     {
-      "letter": "D",
-      "text": "ordinary"
+      "text": "opinion"
      }
     ],
     "answer": "D",
+    "vi": 11
+   },
+   {
+    "question": "It was just an __________ day. Nothing special happened.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ordinary"
+     },
+     {
+      "letter": "B",
+      "text": "overweight"
+     },
+     {
+      "letter": "C",
+      "text": "overseas"
+     },
+     {
+      "letter": "D",
+      "text": "pale"
+     }
+    ],
+    "answer": "A",
     "vi": 12
    },
    {
-    "question": "She baked the cake in the __________.【烤箱】",
+    "question": "She put the cake in the __________ and baked it for forty minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "onion"
+     },
+     {
+      "letter": "B",
+      "text": "oven"
+     },
+     {
+      "letter": "C",
+      "text": "ocean"
+     },
+     {
+      "letter": "D",
+      "text": "object"
+     }
+    ],
+    "answer": "B",
+    "vi": 13
+   },
+   {
+    "question": "Don't run across the busy road. Use the __________ and walk over the cars.",
     "options": [
      {
       "letter": "A",
@@ -574,103 +597,80 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ox"
-     },
-     {
-      "letter": "C",
-      "text": "object"
-     },
-     {
-      "letter": "D",
-      "text": "novel"
-     }
-    ],
-    "answer": "A",
-    "vi": 13
-   },
-   {
-    "question": "They crossed the street using the __________.【天橋】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "nuts"
-     },
-     {
-      "letter": "B",
       "text": "onion"
      },
      {
       "letter": "C",
-      "text": "overpass"
+      "text": "owner"
      },
      {
       "letter": "D",
-      "text": "object"
+      "text": "overpass"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 14
    },
    {
-    "question": "He plans to study __________.【海外，國外】",
+    "question": "My brother works __________. He has lived in Japan for five years.",
     "options": [
      {
       "letter": "A",
-      "text": "besides"
-     },
-     {
-      "letter": "B",
-      "text": "overseas"
-     },
-     {
-      "letter": "C",
       "text": "downstairs"
      },
      {
+      "letter": "B",
+      "text": "everywhere"
+     },
+     {
+      "letter": "C",
+      "text": "overseas"
+     },
+     {
       "letter": "D",
-      "text": "nearly"
+      "text": "hardly"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 15
    },
    {
-    "question": "The doctor advised him to lose weight because he is __________.【超重的，過重的】",
+    "question": "The doctor says my dog is __________. It weighs too much and needs more exercise.",
     "options": [
      {
       "letter": "A",
-      "text": "overweight"
-     },
-     {
-      "letter": "B",
       "text": "ordinary"
      },
      {
+      "letter": "B",
+      "text": "overweight"
+     },
+     {
       "letter": "C",
-      "text": "energetic"
+      "text": "painful"
      },
      {
       "letter": "D",
-      "text": "necessary"
+      "text": "pale"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 16
    },
    {
-    "question": "She is the __________ of the restaurant.【所有者】",
+    "question": "Who is the __________ of this car? It is parked in front of my door.",
     "options": [
      {
       "letter": "A",
-      "text": "ox"
+      "text": "onion"
      },
      {
       "letter": "B",
-      "text": "object"
+      "text": "oven"
      },
      {
       "letter": "C",
-      "text": "onion"
+      "text": "ocean"
      },
      {
       "letter": "D",
@@ -681,7 +681,30 @@ window.FLASHCARD_UNITS = {
     "vi": 17
    },
    {
-    "question": "The __________ pulled the cart.【牛，公牛】",
+    "question": "The farmer used an __________ to pull the cart. It is a big, strong animal like a cow.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ox"
+     },
+     {
+      "letter": "B",
+      "text": "oven"
+     },
+     {
+      "letter": "C",
+      "text": "onion"
+     },
+     {
+      "letter": "D",
+      "text": "owner"
+     }
+    ],
+    "answer": "A",
+    "vi": 18
+   },
+   {
+    "question": "I have a __________ in my back. It hurts when I sit down.",
     "options": [
      {
       "letter": "A",
@@ -689,44 +712,21 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "opinion"
+      "text": "nut"
      },
      {
       "letter": "C",
-      "text": "ox"
-     },
-     {
-      "letter": "D",
-      "text": "ocean"
-     }
-    ],
-    "answer": "C",
-    "vi": 18
-   },
-   {
-    "question": "He felt a sharp __________ in his back.【疼痛】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "opinion"
-     },
-     {
-      "letter": "B",
       "text": "pain"
      },
      {
-      "letter": "C",
-      "text": "operation"
-     },
-     {
       "letter": "D",
-      "text": "ox"
+      "text": "owner"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bathe":["to wash your body in a bath","洗澡"],"besides":["in addition to","除了...之外"],"design":["to plan and draw how something will look","設計，構思"],"dialed":["to press the numbers on a phone to call someone","撥號"],"downstairs":["on or to a lower floor of a building","在樓下"],"energetic":["very active; full of energy","精力充沛的"],"latter":["nearer to the end; the second of two","後者的，較後的"],"nearly":["almost","幾乎，差不多"],"necessary":["needed; that you must have or do","必要的"],"none":["not any; not one","沒有一個"],"novel":["a long story in a book about people who are not real","小說"],"nuts":["a hard dry fruit with a shell, like a peanut","堅果"],"obey":["to do what someone tells you to do","服從，遵守"],"object":["a thing that you can see and touch","物體，目標"],"ocean":["a very big sea","海洋"],"offered":["to say that you will do something for someone or give them something","提供，提議"],"omit":["to leave something out","省略，忽略"],"oneself":["a person's own self","自己"],"onion":["a round vegetable with a strong smell that can make you cry","洋蔥"],"operation":["when a doctor cuts into a body to fix something inside","操作，手術"],"opinion":["what you think about something","意見，看法"],"ordinary":["normal; not special","普通的，平凡的"],"oven":["the box-shaped part of a stove where you bake food","烤箱"],"overpass":["a bridge that takes a road or path over another road","天橋"],"overseas":["in or to a country across the sea","海外，國外"],"overweight":["too heavy or fat","超重的，過重的"],"owner":["the person that something belongs to","所有者"],"ox":["a big, strong male cow that pulls heavy things","牛，公牛"],"pain":["the feeling you have when part of your body hurts","疼痛"],"pollute":["to make air, water, or land dirty","污染"],"pronounce":["to make the sound of a word or letter","發音，宣佈"],"rush":["to go or do something very quickly","衝，趕緊"],"steam":["the hot white gas that comes from boiling water","蒸汽"],"total":["with everything added together","總的，全部的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"oneself":["a person's own self","自己"],"none":["not any; not one","沒有一個"],"neither":["not one and not the other of two","也不，既不"],"nearly":["almost","幾乎，差不多"],"nut":["a hard dry fruit with a shell, like a peanut","堅果"],"onion":["a round vegetable with a strong smell that can make you cry","洋蔥"],"oven":["the box-shaped part of a stove where you bake food","烤箱"],"novel":["a long story in a book about people who are not real","小說"],"nuts":["a hard dry fruit with a shell, like a peanut","堅果"],"novels":["a long story in a book about people who are not real","小說"],"ovens":["the box-shaped part of a stove where you bake food","烤箱"],"objects":["a thing that you can see and touch","物體，目標"],"offer":["to say that you will do something for someone or give them something","提供，提議"],"omit":["to leave something out","省略，忽略"],"obey":["to do what someone tells you to do","服從，遵守"],"pardon":["to forgive someone","原諒，寬恕"],"opinion":["what you think about something","意見，看法"],"owner":["the person that something belongs to","所有者"],"object":["a thing that you can see and touch","物體，目標"],"ocean":["a very big sea","海洋"],"offered":["to say that you will do something for someone or give them something","提供，提議"],"obeyed":["to do what someone tells you to do","服從，遵守"],"omitted":["","省略"],"paused":["to stop for a short time","暫停，中止"],"nobody":["","沒有人"],"ox":["a big, strong male cow that pulls heavy things","牛，公牛"],"operation":["when a doctor cuts into a body to fix something inside","操作，手術"],"ordinary":["normal; not special","普通的，平凡的"],"overweight":["too heavy or fat","超重的，過重的"],"overseas":["in or to a country across the sea","海外，國外"],"pale":["having a light or white face, often because you are sick","蒼白的，淡色的"],"overpass":["a bridge that takes a road or path over another road","天橋"],"downstairs":["on or to a lower floor of a building","在樓下"],"everywhere":["in all places","到處"],"hardly":["almost not","幾乎不，勉強地"],"painful":["making you feel pain or very sad","痛苦的，疼痛的"],"pain":["the feeling you have when part of your body hurts","疼痛"]});

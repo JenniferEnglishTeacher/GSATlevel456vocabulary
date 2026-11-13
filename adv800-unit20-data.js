@@ -173,35 +173,35 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "The ______ played with a ball of yarn.【小貓】",
+    "q": "Our cat had a baby. The little ______ is only two weeks old.",
     "options": [
       "kitten",
+      "koala",
       "lamb",
-      "lady",
-      "lantern"
+      "leaf"
     ],
     "answer": 0,
     "cn": "小貓玩了一個毛線球。",
     "vocabIndex": 0
   },
   {
-    "q": "They saw a ______ sleeping in a tree.【無尾熊】",
+    "q": "A ______ lives in trees in Australia. It looks like a small gray bear.",
     "options": [
-      "law",
-      "liquid",
+      "kitten",
+      "lamb",
       "koala",
-      "leaf"
+      "lady"
     ],
     "answer": 2,
     "cn": "他們看到一隻無尾熊在樹上睡覺。",
     "vocabIndex": 1
   },
   {
-    "q": "They ______ the resources to complete the project.【缺乏，缺少】",
+    "q": "Many poor families ______ money for food. They don't have enough to eat.",
     "options": [
-      "laid",
-      "licked",
-      "lifted",
+      "lay",
+      "lick",
+      "lift",
       "lack"
     ],
     "answer": 3,
@@ -209,83 +209,83 @@ const MCQS = [
     "vocabIndex": 2
   },
   {
-    "q": "She is a kind and elegant ______.【女士，小姐】",
+    "q": "The old ______ thanked the boy for helping her cross the street. She gave him a smile.",
     "options": [
-      "law",
+      "lamb",
       "lady",
-      "lettuce",
-      "leaf"
+      "leaf",
+      "lid"
     ],
     "answer": 1,
     "cn": "她是一位善良而優雅的女士。",
     "vocabIndex": 3
   },
   {
-    "q": "They had roast ______ for dinner.【羔羊，羊肉】",
+    "q": "The mother sheep is feeding her baby. The little ______ is white and soft.",
     "options": [
-      "liquid",
+      "kitten",
       "koala",
       "lamb",
-      "lid"
+      "lady"
     ],
     "answer": 2,
     "cn": "他們晚餐吃了烤羊肉。",
     "vocabIndex": 4
   },
   {
-    "q": "They carried a ______ during the night walk.【燈籠，提燈】",
+    "q": "The child carried a paper ______ with a light inside on the night of the festival.",
     "options": [
+      "lettuce",
+      "lantern",
       "liquid",
-      "link",
-      "limit",
-      "lantern"
+      "limit"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他們在夜間散步時提著燈籠。",
     "vocabIndex": 5
   },
   {
-    "q": "She is wearing the ______ fashion.【最新的，最近的】",
+    "q": "Have you seen the ______ movie by this actor? It just came out last Friday.",
     "options": [
       "latest",
-      "likely",
       "latter",
-      "daily"
+      "likely",
+      "local"
     ],
     "answer": 0,
     "cn": "她穿著最新的時尚。",
     "vocabIndex": 6
   },
   {
-    "q": "The ______ half of the year is usually busier.【後者的，較後的】",
+    "q": "I have a dog and a cat. The former is big, and the ______ is small.",
     "options": [
-      "likely",
-      "latter",
       "latest",
-      "international"
+      "likely",
+      "local",
+      "latter"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "年後半部分通常比較忙。",
     "vocabIndex": 7
   },
   {
-    "q": "He studied ______ at university.【法律，法規】",
+    "q": "You must not drive after drinking. It is against the ______.",
     "options": [
+      "leaf",
       "law",
       "lid",
-      "lamb",
-      "liquid"
+      "link"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "他在大學學習法律。",
     "vocabIndex": 8
   },
   {
-    "q": "She ______ the book on the table.【放置，躺下】",
+    "q": "She ______ the baby on the bed and covered him with a blanket.",
     "options": [
-      "lack",
       "licked",
       "lifted",
+      "lacked",
       "laid"
     ],
     "answer": 3,
@@ -293,120 +293,120 @@ const MCQS = [
     "vocabIndex": 9
   },
   {
-    "q": "The ______ fell from the tree.【樹葉，葉子】",
+    "q": "In fall, the ______ turn yellow and fall from the trees.",
     "options": [
-      "kitten",
-      "link",
-      "leaf",
-      "lady"
+      "lids",
+      "limits",
+      "leaves",
+      "links"
     ],
     "answer": 2,
     "cn": "樹葉從樹上掉下來。",
     "vocabIndex": 10
   },
   {
-    "q": "She added ______ to her sandwich.【生菜】",
+    "q": "Put some ______ and a piece of tomato in the sandwich. I like green vegetables.",
     "options": [
-      "law",
       "lettuce",
-      "leaf",
-      "lamb"
+      "lightning",
+      "liquid",
+      "law"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "她在三明治裡加了生菜。",
     "vocabIndex": 11
   },
   {
-    "q": "The cat ______ its paw.【舔】",
+    "q": "The dog ______ my hand with its wet tongue.",
     "options": [
       "lifted",
-      "laid",
+      "lacked",
       "licked",
-      "lack"
+      "laid"
     ],
     "answer": 2,
     "cn": "貓舔了舔爪子。",
     "vocabIndex": 12
   },
   {
-    "q": "She put the ______ on the pot.【蓋子】",
+    "q": "Put the ______ on the pot so that the soup stays hot.",
     "options": [
-      "lamb",
+      "leaf",
       "lid",
-      "lettuce",
-      "link"
+      "link",
+      "law"
     ],
     "answer": 1,
     "cn": "她把蓋子蓋在鍋上。",
     "vocabIndex": 13
   },
   {
-    "q": "He ______ the heavy box.【舉起，抬起】",
+    "q": "This box is too heavy. I can't ______ it off the floor.",
     "options": [
-      "licked",
-      "laid",
+      "lift",
+      "lick",
       "lack",
-      "lifted"
+      "lay"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他舉起了重箱子。",
     "vocabIndex": 14
   },
   {
-    "q": "The ______ lit up the sky.【閃電】",
+    "q": "We saw ______ in the sky, and then we heard thunder. A storm was coming.",
     "options": [
-      "lightning",
-      "lantern",
-      "lid",
-      "lady"
+      "lettuce",
+      "liquid",
+      "law",
+      "lightning"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "閃電照亮了天空。",
     "vocabIndex": 15
   },
   {
-    "q": "It is ______ to rain tomorrow.【很可能的】",
+    "q": "It is ______ to rain this afternoon. The sky is very dark.",
     "options": [
-      "latter",
       "latest",
-      "equal",
-      "likely"
+      "likely",
+      "latter",
+      "local"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "明天很可能會下雨。",
     "vocabIndex": 16
   },
   {
-    "q": "The speed ______ is 60 mph.【限制，界限】",
+    "q": "The speed ______ on this road is fifty kilometers an hour. Don't drive faster than that.",
     "options": [
       "link",
-      "limit",
-      "law",
-      "leaf"
+      "lid",
+      "leaf",
+      "limit"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "限速是每小時60英里。",
     "vocabIndex": 17
   },
   {
-    "q": "There is a direct ______ between diet and health.【連接，聯繫】",
+    "q": "Doctors say there is a ______ between smoking and many diseases. One leads to the other.",
     "options": [
-      "law",
-      "lantern",
+      "limit",
+      "lid",
       "link",
-      "lid"
+      "leaf"
     ],
     "answer": 2,
     "cn": "飲食和健康之間有直接聯繫。",
     "vocabIndex": 18
   },
   {
-    "q": "Water is a ______ at room temperature.【液體】",
+    "q": "Water is a ______. When it gets very cold, it turns into ice.",
     "options": [
       "liquid",
-      "law",
+      "limit",
       "link",
-      "lantern"
+      "law"
     ],
     "answer": 0,
     "cn": "水在室溫下是液體。",
@@ -415,21 +415,6 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "daily": {
-    "pos": "adj.",
-    "en_def": "happening or coming out every day",
-    "cn_def": "每日的，日常的"
-  },
-  "equal": {
-    "pos": "adj.",
-    "en_def": "the same in size, number, or value",
-    "cn_def": "平等的，相等的"
-  },
-  "international": {
-    "pos": "adj.",
-    "en_def": "for or between many countries",
-    "cn_def": "國際的"
-  },
   "kitten": {
     "pos": "n.",
     "en_def": "a baby cat",
@@ -440,25 +425,65 @@ const LOOKUP = {
     "en_def": "a gray animal from Australia that lives in trees and looks like a small bear",
     "cn_def": "無尾熊"
   },
-  "lack": {
-    "pos": "v.",
-    "en_def": "to not have something, or not have enough of it",
-    "cn_def": "缺乏，缺少"
+  "lamb": {
+    "pos": "n.",
+    "en_def": "a baby sheep; meat from a young sheep",
+    "cn_def": "羔羊，羊肉"
+  },
+  "leaf": {
+    "pos": "n.",
+    "en_def": "one of the flat green parts of a tree or plant",
+    "cn_def": "樹葉，葉子"
   },
   "lady": {
     "pos": "n.",
     "en_def": "a polite word for a woman",
     "cn_def": "女士，小姐"
   },
-  "lamb": {
+  "lay": {
+    "pos": "v.",
+    "en_def": "to put something down carefully",
+    "cn_def": "放置，躺下"
+  },
+  "lick": {
+    "pos": "v.",
+    "en_def": "to move your tongue over something",
+    "cn_def": "舔"
+  },
+  "lift": {
+    "pos": "v.",
+    "en_def": "to move something up",
+    "cn_def": "舉起，抬起"
+  },
+  "lack": {
+    "pos": "v.",
+    "en_def": "to not have something, or not have enough of it",
+    "cn_def": "缺乏，缺少"
+  },
+  "lid": {
     "pos": "n.",
-    "en_def": "a baby sheep; meat from a young sheep",
-    "cn_def": "羔羊，羊肉"
+    "en_def": "a cover for a pot, cup, or box",
+    "cn_def": "蓋子"
+  },
+  "lettuce": {
+    "pos": "n.",
+    "en_def": "a vegetable with big green leaves, used in salads",
+    "cn_def": "生菜"
   },
   "lantern": {
     "pos": "n.",
     "en_def": "a light inside a paper or glass cover that you can carry",
     "cn_def": "燈籠，提燈"
+  },
+  "liquid": {
+    "pos": "n.",
+    "en_def": "something that flows, like water or milk",
+    "cn_def": "液體"
+  },
+  "limit": {
+    "pos": "n.",
+    "en_def": "the highest number or amount that is allowed",
+    "cn_def": "限制，界限"
   },
   "latest": {
     "pos": "adj.",
@@ -470,65 +495,70 @@ const LOOKUP = {
     "en_def": "nearer to the end; the second of two",
     "cn_def": "後者的，較後的"
   },
-  "law": {
-    "pos": "n.",
-    "en_def": "the rules of a country; the study of these rules",
-    "cn_def": "法律，法規"
-  },
-  "laid": {
-    "pos": "v.",
-    "en_def": "to put something down carefully",
-    "cn_def": "放置，躺下"
-  },
-  "leaf": {
-    "pos": "n.",
-    "en_def": "one of the flat green parts of a tree or plant",
-    "cn_def": "樹葉，葉子"
-  },
-  "lettuce": {
-    "pos": "n.",
-    "en_def": "a vegetable with big green leaves, used in salads",
-    "cn_def": "生菜"
-  },
-  "licked": {
-    "pos": "v.",
-    "en_def": "to move your tongue over something",
-    "cn_def": "舔"
-  },
-  "lid": {
-    "pos": "n.",
-    "en_def": "a cover for a pot, cup, or box",
-    "cn_def": "蓋子"
-  },
-  "lifted": {
-    "pos": "v.",
-    "en_def": "to move something up",
-    "cn_def": "舉起，抬起"
-  },
-  "lightning": {
-    "pos": "n.",
-    "en_def": "a bright light in the sky during a storm",
-    "cn_def": "閃電"
-  },
   "likely": {
     "pos": "adj.",
     "en_def": "expected to happen",
     "cn_def": "很可能的"
   },
-  "limit": {
+  "local": {
+    "pos": "adj.",
+    "en_def": "of or in the place where you live or are",
+    "cn_def": "當地的，本地的"
+  },
+  "law": {
     "pos": "n.",
-    "en_def": "the highest number or amount that is allowed",
-    "cn_def": "限制，界限"
+    "en_def": "the rules of a country; the study of these rules",
+    "cn_def": "法律，法規"
   },
   "link": {
     "pos": "n.",
     "en_def": "a connection between two things",
     "cn_def": "連接，聯繫"
   },
-  "liquid": {
+  "licked": {
+    "pos": "v.",
+    "en_def": "to move your tongue over something",
+    "cn_def": "舔"
+  },
+  "lifted": {
+    "pos": "v.",
+    "en_def": "to move something up",
+    "cn_def": "舉起，抬起"
+  },
+  "lacked": {
+    "pos": "v.",
+    "en_def": "to not have something, or not have enough of it",
+    "cn_def": "缺乏，缺少"
+  },
+  "laid": {
+    "pos": "v.",
+    "en_def": "to put something down carefully",
+    "cn_def": "放置，躺下"
+  },
+  "lids": {
     "pos": "n.",
-    "en_def": "something that flows, like water or milk",
-    "cn_def": "液體"
+    "en_def": "a cover for a pot, cup, or box",
+    "cn_def": "蓋子"
+  },
+  "limits": {
+    "pos": "n.",
+    "en_def": "the highest number or amount that is allowed",
+    "cn_def": "限制，界限"
+  },
+  "leaves": {
+    "pos": "n.",
+    "en_def": "one of the flat green parts of a tree or plant",
+    "cn_def": "樹葉，葉子"
+  },
+  "links": {
+    "pos": "n.",
+    "en_def": "a connection between two things",
+    "cn_def": "連接，聯繫"
+  },
+  "lightning": {
+    "pos": "n.",
+    "en_def": "a bright light in the sky during a storm",
+    "cn_def": "閃電"
   }
 };
 

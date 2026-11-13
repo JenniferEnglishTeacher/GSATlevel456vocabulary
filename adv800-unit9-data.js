@@ -173,155 +173,155 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "We left at ______.【黎明，拂曉】",
+    "q": "The farmers get up at ______ and start working when the sun comes up.",
     "options": [
-      "dessert",
-      "decision",
+      "desert",
       "dawn",
-      "department"
+      "degree",
+      "dessert"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "我們在黎明時出發。",
     "vocabIndex": 0
   },
   {
-    "q": "He has been ______ since birth.【聾的，失聰的】",
+    "q": "The old man is ______, so he can't hear you. You have to write down what you want to say.",
     "options": [
-      "silent",
-      "personal",
-      "major",
-      "deaf"
+      "deaf",
+      "dizzy",
+      "daily",
+      "diligent"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他自出生起就失聰。",
     "vocabIndex": 1
   },
   {
-    "q": "They had a heated ______ about politics.【辯論，討論】",
+    "q": "The two teams had a ______ about school uniforms. One side was for them, and the other was against them.",
     "options": [
-      "desire",
-      "debate",
+      "deer",
+      "desert",
       "dessert",
-      "desert"
+      "debate"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "他們就政治問題進行了激烈辯論。",
     "vocabIndex": 2
   },
   {
-    "q": "It was a difficult ______.【決定，判斷】",
+    "q": "It is hard to choose between the two schools. I have to make a ______ by Friday.",
     "options": [
-      "decision",
-      "desire",
+      "desert",
       "dessert",
+      "decision",
       "deer"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "這是一個困難的決定。",
     "vocabIndex": 3
   },
   {
-    "q": "They ______ the room for the party.【裝飾】",
+    "q": "Let's ______ the room with balloons and flowers for Mom's birthday party.",
     "options": [
-      "delivered",
-      "decorated",
-      "dialed",
-      "decreased"
+      "decrease",
+      "decorate",
+      "deliver",
+      "dial"
     ],
     "answer": 1,
     "cn": "他們為派對裝飾了房間。",
     "vocabIndex": 4
   },
   {
-    "q": "The population has ______ significantly.【減少】",
+    "q": "The number of students ______ from fifty to thirty. Twenty of them left the school.",
     "options": [
-      "dialed",
       "decorated",
       "delivered",
-      "decreased"
+      "decreased",
+      "designed"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "人口顯著減少。",
     "vocabIndex": 5
   },
   {
-    "q": "How would you ______ success?【定義，解釋】",
+    "q": "It is hard to ______ the word \"love.\" Can you tell me what it means?",
     "options": [
-      "design",
-      "develop",
       "define",
-      "depend"
+      "deliver",
+      "decorate",
+      "dial"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你會如何定義成功？",
     "vocabIndex": 6
   },
   {
-    "q": "We saw a ______ in the forest.【鹿】",
+    "q": "We saw a ______ in the forest. It had long legs and big horns, and it ran away quickly.",
     "options": [
-      "deer",
-      "department",
-      "debate",
-      "dawn"
+      "desert",
+      "degree",
+      "dawn",
+      "deer"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "我們在森林裡看到一隻鹿。",
     "vocabIndex": 7
   },
   {
-    "q": "She has a ______ in mathematics.【程度，學位】",
+    "q": "My sister studied for four years and got a ______ in English from National Taiwan University.",
     "options": [
-      "dawn",
       "deer",
       "degree",
+      "desert",
       "dessert"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她擁有數學學位。",
     "vocabIndex": 8
   },
   {
-    "q": "The mail is ______ daily.【遞送，傳遞】",
+    "q": "The mailman ______ letters to our house every morning.",
     "options": [
-      "delivered",
-      "dialed",
-      "decreased",
-      "decorated"
+      "decorates",
+      "describes",
+      "designs",
+      "delivers"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "郵件每日遞送。",
     "vocabIndex": 9
   },
   {
-    "q": "She works in the marketing ______.【部門，系】",
+    "q": "Mr. Lin works in the sales ______ of a big company. There are twenty people on his team.",
     "options": [
-      "deer",
-      "dawn",
-      "debate",
-      "department"
+      "desert",
+      "dessert",
+      "department",
+      "dawn"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "她在市場部工作。",
     "vocabIndex": 10
   },
   {
-    "q": "You can ______ on me for help.【依賴，依靠】",
+    "q": "You can ______ on Amy. She always does what she says she will do.",
     "options": [
-      "develop",
       "depend",
       "describe",
-      "design"
+      "decorate",
+      "deliver"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你可以依賴我來幫助。",
     "vocabIndex": 11
   },
   {
-    "q": "Can you ______ what happened?【描述，形容】",
+    "q": "Can you ______ the man you saw? Was he tall or short? What was he wearing?",
     "options": [
       "depend",
-      "design",
-      "define",
+      "decorate",
+      "dial",
       "describe"
     ],
     "answer": 3,
@@ -329,101 +329,136 @@ const MCQS = [
     "vocabIndex": 12
   },
   {
-    "q": "The Sahara is the largest ______ in the world.【沙漠】",
+    "q": "It almost never rains in the ______. You can see only sand for miles.",
     "options": [
       "dessert",
+      "degree",
       "desert",
-      "department",
-      "dawn"
+      "department"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "撒哈拉是世界上最大的沙漠。",
     "vocabIndex": 13
   },
   {
-    "q": "She wants to ______ her own clothes.【設計，構思】",
+    "q": "Lisa wants to ______ clothes. She draws new dresses in her notebook every day.",
     "options": [
+      "depend",
       "design",
-      "develop",
-      "detect",
-      "define"
+      "dial",
+      "decrease"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "她想設計自己的衣服。",
     "vocabIndex": 14
   },
   {
-    "q": "He has a strong ______ to succeed.【欲望，渴望】",
+    "q": "He has a strong ______ to win. He practices for six hours every day.",
     "options": [
-      "degree",
-      "department",
       "desire",
+      "desert",
+      "deer",
       "dessert"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他有強烈的成功渴望。",
     "vocabIndex": 15
   },
   {
-    "q": "They had ice cream for ______.【甜點】",
+    "q": "After dinner, we had ice cream for ______.",
     "options": [
-      "dawn",
+      "desert",
+      "degree",
       "dessert",
-      "department",
-      "desert"
+      "dawn"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "他們吃冰淇淋當甜點。",
     "vocabIndex": 16
   },
   {
-    "q": "The test can ______ even the smallest errors.【察覺，偵測】",
+    "q": "Dogs can ______ smells that people can't. That is why the police use them.",
     "options": [
-      "depend",
-      "describe",
+      "decorate",
+      "detect",
       "design",
-      "detect"
+      "dial"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "測試可以偵測到最小的錯誤。",
     "vocabIndex": 17
   },
   {
-    "q": "The company plans to ______ a new product.【發展，開發】",
+    "q": "The company plans to ______ a new phone. It will take two years to make it.",
     "options": [
-      "develop",
-      "describe",
-      "define",
-      "detect"
+      "depend",
+      "dial",
+      "decrease",
+      "develop"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "公司計劃開發一種新產品。",
     "vocabIndex": 18
   },
   {
-    "q": "He ______ the wrong number by mistake.【撥號】",
+    "q": "I ______ the wrong number and called a stranger by mistake.",
     "options": [
-      "delivered",
-      "decreased",
       "dialed",
-      "decorated"
+      "decorated",
+      "described",
+      "designed"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他錯誤地撥錯了號碼。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
+  "desert": {
+    "pos": "n.",
+    "en_def": "a very dry place with a lot of sand and few plants",
+    "cn_def": "沙漠"
+  },
   "dawn": {
     "pos": "n.",
     "en_def": "the time of day when the sun comes up",
     "cn_def": "黎明，拂曉"
   },
+  "degree": {
+    "pos": "n.",
+    "en_def": "a paper that a university gives you when you finish your studies",
+    "cn_def": "程度，學位"
+  },
+  "dessert": {
+    "pos": "n.",
+    "en_def": "sweet food that you eat at the end of a meal",
+    "cn_def": "甜點"
+  },
   "deaf": {
     "pos": "adj.",
     "en_def": "not able to hear",
     "cn_def": "聾的，失聰的"
+  },
+  "dizzy": {
+    "pos": "adj.",
+    "en_def": "feeling that everything is turning around you",
+    "cn_def": "頭暈的"
+  },
+  "daily": {
+    "pos": "adj.",
+    "en_def": "happening or coming out every day",
+    "cn_def": "每日的，日常的"
+  },
+  "diligent": {
+    "pos": "adj.",
+    "en_def": "working hard and carefully",
+    "cn_def": "勤勉的，勤奮的"
+  },
+  "deer": {
+    "pos": "n.",
+    "en_def": "a wild animal that runs fast; the male has horns like branches",
+    "cn_def": "鹿"
   },
   "debate": {
     "pos": "n.",
@@ -435,32 +470,67 @@ const LOOKUP = {
     "en_def": "a choice that you make after thinking",
     "cn_def": "決定，判斷"
   },
+  "decrease": {
+    "pos": "v.",
+    "en_def": "to become smaller in number or amount",
+    "cn_def": "減少"
+  },
+  "decorate": {
+    "pos": "v.",
+    "en_def": "to make a place look nice by putting pretty things in it",
+    "cn_def": "裝飾"
+  },
+  "deliver": {
+    "pos": "v.",
+    "en_def": "to take letters or things to a person or place",
+    "cn_def": "遞送，傳遞"
+  },
+  "dial": {
+    "pos": "v.",
+    "en_def": "to press the numbers on a phone to call someone",
+    "cn_def": "撥號"
+  },
   "decorated": {
     "pos": "v.",
     "en_def": "to make a place look nice by putting pretty things in it",
     "cn_def": "裝飾"
+  },
+  "delivered": {
+    "pos": "v.",
+    "en_def": "to take letters or things to a person or place",
+    "cn_def": "遞送，傳遞"
   },
   "decreased": {
     "pos": "v.",
     "en_def": "to become smaller in number or amount",
     "cn_def": "減少"
   },
+  "designed": {
+    "pos": "v.",
+    "en_def": "to plan and draw how something will look",
+    "cn_def": "設計，構思"
+  },
   "define": {
     "pos": "v.",
     "en_def": "to say what a word or idea means",
     "cn_def": "定義，解釋"
   },
-  "deer": {
-    "pos": "n.",
-    "en_def": "a wild animal that runs fast; the male has horns like branches",
-    "cn_def": "鹿"
+  "decorates": {
+    "pos": "v.",
+    "en_def": "to make a place look nice by putting pretty things in it",
+    "cn_def": "裝飾"
   },
-  "degree": {
-    "pos": "n.",
-    "en_def": "a paper that a university gives you when you finish your studies",
-    "cn_def": "程度，學位"
+  "describes": {
+    "pos": "v.",
+    "en_def": "to say what someone or something is like",
+    "cn_def": "描述，形容"
   },
-  "delivered": {
+  "designs": {
+    "pos": "v.",
+    "en_def": "to plan and draw how something will look",
+    "cn_def": "設計，構思"
+  },
+  "delivers": {
     "pos": "v.",
     "en_def": "to take letters or things to a person or place",
     "cn_def": "遞送，傳遞"
@@ -480,11 +550,6 @@ const LOOKUP = {
     "en_def": "to say what someone or something is like",
     "cn_def": "描述，形容"
   },
-  "desert": {
-    "pos": "n.",
-    "en_def": "a very dry place with a lot of sand and few plants",
-    "cn_def": "沙漠"
-  },
   "design": {
     "pos": "v.",
     "en_def": "to plan and draw how something will look",
@@ -494,11 +559,6 @@ const LOOKUP = {
     "pos": "n.",
     "en_def": "a strong wish",
     "cn_def": "欲望，渴望"
-  },
-  "dessert": {
-    "pos": "n.",
-    "en_def": "sweet food that you eat at the end of a meal",
-    "cn_def": "甜點"
   },
   "detect": {
     "pos": "v.",
@@ -515,20 +575,10 @@ const LOOKUP = {
     "en_def": "to press the numbers on a phone to call someone",
     "cn_def": "撥號"
   },
-  "major": {
-    "pos": "adj.",
-    "en_def": "very big or important",
-    "cn_def": "主要的，重要的"
-  },
-  "personal": {
-    "pos": "adj.",
-    "en_def": "belonging to you; your own",
-    "cn_def": "個人的，私人的"
-  },
-  "silent": {
-    "pos": "adj.",
-    "en_def": "not speaking; making no sound",
-    "cn_def": "沉默的，安靜的"
+  "described": {
+    "pos": "v.",
+    "en_def": "to say what someone or something is like",
+    "cn_def": "描述，形容"
   }
 };
 

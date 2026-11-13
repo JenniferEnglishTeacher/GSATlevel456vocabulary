@@ -170,240 +170,240 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "They won the soccer ______.【比賽，火柴】",
+    "q": "We watched a tennis ______ on TV. The two players played for three hours.",
     "options": [
       "metal",
-      "memory",
-      "monster",
-      "match"
+      "mirror",
+      "match",
+      "method"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "他們贏得了足球比賽。",
     "vocabIndex": 0
   },
   {
-    "q": "The ______ capacity of the hall is 500 people.【最大的，最高的】",
+    "q": "The ______ speed on this highway is 110 kilometers an hour. You must not go faster.",
     "options": [
-      "minor",
-      "positive",
       "maximum",
-      "empty"
+      "minor",
+      "major",
+      "male"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "大廳的最大容量是500人。",
     "vocabIndex": 1
   },
   {
-    "q": "The ______ of the word is unclear.【意義，意思】",
+    "q": "What is the ______ of this word? I don't understand it.",
     "options": [
-      "meters",
+      "memory",
       "meaning",
-      "match",
-      "mosquito"
+      "metal",
+      "motion"
     ],
     "answer": 1,
     "cn": "這個詞的意思不清楚。",
     "vocabIndex": 2
   },
   {
-    "q": "They ______ the length of the room.【測量，衡量】",
+    "q": "Use a ruler to ______ the desk. How long is it?",
     "options": [
-      "measured",
-      "mixed",
-      "divided",
-      "whispered"
+      "mix",
+      "marry",
+      "lock",
+      "measure"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "他們測量了房間的長度。",
     "vocabIndex": 3
   },
   {
-    "q": "He works as a car ______.【技工，機械師】",
+    "q": "My car broke down, so I took it to a ______. He fixed it in two hours.",
     "options": [
-      "metal",
-      "mosquito",
-      "memory",
-      "mechanic"
+      "monster",
+      "model",
+      "mechanic",
+      "mosquito"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "他是一名汽車技工。",
     "vocabIndex": 4
   },
   {
-    "q": "She has a good ______.【記憶，回憶】",
+    "q": "Grandpa has a good ______. He can still remember the names of all his classmates.",
     "options": [
-      "microwave",
-      "model",
       "memory",
-      "mirror"
+      "meaning",
+      "metal",
+      "method"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "她的記憶力很好。",
     "vocabIndex": 5
   },
   {
-    "q": "She left a ______ on his phone.【信息，訊息】",
+    "q": "Amy is not home. Can I take a ______ for her? I will tell her you called.",
     "options": [
       "mirror",
-      "message",
-      "midnight",
-      "model"
+      "meter",
+      "metal",
+      "message"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她在他的手機上留了訊息。",
     "vocabIndex": 6
   },
   {
-    "q": "The table is made of ______.【金屬】",
+    "q": "Gold and iron are two kinds of ______. They are hard and shiny.",
     "options": [
+      "method",
       "metal",
-      "mirror",
-      "memory",
+      "message",
       "motion"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "這張桌子是金屬製成的。",
     "vocabIndex": 7
   },
   {
-    "q": "The room is 5 ______ long.【公尺，計量器】",
+    "q": "The swimming pool is fifty ______ long. I can swim across it in one minute.",
     "options": [
-      "mosquito",
-      "microwave",
-      "mirror",
-      "meters"
+      "meters",
+      "methods",
+      "mirrors",
+      "models"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "這個房間長5公尺。",
     "vocabIndex": 8
   },
   {
-    "q": "They developed a new ______ for testing the product.【方法，方式】",
+    "q": "This is a good ______ for learning new words. Many students use it this way.",
     "options": [
+      "metal",
+      "mirror",
       "method",
-      "motion",
-      "midnight",
-      "match"
+      "midnight"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他們開發了一種新的產品測試方法。",
     "vocabIndex": 9
   },
   {
-    "q": "She heated the food in the ______.【微波爐】",
+    "q": "Put the cold pizza in the ______ for one minute. It will be hot again.",
     "options": [
       "mirror",
-      "microwave",
-      "mechanic",
-      "monster"
+      "meter",
+      "model",
+      "microwave"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她用微波爐加熱食物。",
     "vocabIndex": 10
   },
   {
-    "q": "The train arrived at ______.【午夜】",
+    "q": "I went to bed at ______. It was twelve o'clock at night.",
     "options": [
-      "model",
-      "match",
+      "method",
       "midnight",
-      "memory"
+      "metal",
+      "motion"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "火車在午夜到達。",
     "vocabIndex": 11
   },
   {
-    "q": "He suffered only ______ injuries in the accident.【較小的，次要的】",
+    "q": "Don't worry. It is only a ______ problem. We can fix it in five minutes.",
     "options": [
       "minor",
       "maximum",
-      "stingy",
-      "instant"
+      "major",
+      "marvelous"
     ],
     "answer": 0,
     "cn": "他在事故中只受了輕傷。",
     "vocabIndex": 12
   },
   {
-    "q": "The temperature is ______ 5 degrees.【減，負的】",
+    "q": "Ten ______ three is seven.",
     "options": [
       "plus",
       "against",
-      "beyond",
-      "minus"
+      "minus",
+      "beyond"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "溫度是零下5度。",
     "vocabIndex": 13
   },
   {
-    "q": "She looked at herself in the ______.【鏡子】",
+    "q": "She looked at herself in the ______ and brushed her hair.",
     "options": [
-      "metal",
+      "microwave",
       "mirror",
-      "motion",
-      "mechanic"
+      "model",
+      "meter"
     ],
     "answer": 1,
     "cn": "她照了照鏡子。",
     "vocabIndex": 14
   },
   {
-    "q": "She ______ the ingredients together.【混合，攪拌】",
+    "q": "______ the eggs and sugar together in a bowl with a spoon.",
     "options": [
-      "measured",
-      "invented",
-      "mixed",
-      "insisted"
+      "Measure",
+      "Marry",
+      "Lock",
+      "mix"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她把材料混合在一起。",
     "vocabIndex": 15
   },
   {
-    "q": "He built a ______ of the airplane.【模型，模特】",
+    "q": "The boy made a ______ of a plane with paper and wood. It looks like a real one.",
     "options": [
-      "monster",
+      "mirror",
       "model",
-      "memory",
-      "method"
+      "monster",
+      "mosquito"
     ],
     "answer": 1,
     "cn": "他製作了一個飛機模型。",
     "vocabIndex": 16
   },
   {
-    "q": "The children were afraid of the ______.【怪物】",
+    "q": "The child was afraid that a ______ lived under his bed. He thought it was big and ugly.",
     "options": [
-      "monster",
-      "mechanic",
-      "mosquito",
-      "memory"
+      "mirror",
+      "model",
+      "meter",
+      "monster"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "孩子們害怕那個怪物。",
     "vocabIndex": 17
   },
   {
-    "q": "She was bitten by a ______.【蚊子】",
+    "q": "A ______ bit me on the arm last night. Now I have a red spot there.",
     "options": [
-      "match",
-      "mirror",
-      "memory",
-      "mosquito"
+      "mosquito",
+      "monster",
+      "model",
+      "mechanic"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "她被蚊子咬了。",
     "vocabIndex": 18
   },
   {
-    "q": "The ______ of the boat made her feel sick.【運動，動作】",
+    "q": "The ______ of the ship on the sea made me feel sick.",
     "options": [
-      "memory",
-      "microwave",
+      "metal",
+      "method",
       "motion",
-      "match"
+      "midnight"
     ],
     "answer": 2,
     "cn": "船的運動讓她感到噁心。",
@@ -412,160 +412,165 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "against": {
-    "pos": "prep.",
-    "en_def": "not agreeing with something",
-    "cn_def": "反對，對抗"
-  },
-  "beyond": {
-    "pos": "prep.",
-    "en_def": "on the far side of something",
-    "cn_def": "超過，在...之外"
-  },
-  "divided": {
-    "pos": "v.",
-    "en_def": "to cut or break something into parts",
-    "cn_def": "分開，劃分"
-  },
-  "empty": {
-    "pos": "adj.",
-    "en_def": "with nothing or nobody inside",
-    "cn_def": "空的，無人的"
-  },
-  "insisted": {
-    "pos": "v.",
-    "en_def": "to say strongly that you want to do something",
-    "cn_def": "堅持，強調"
-  },
-  "instant": {
-    "pos": "adj.",
-    "en_def": "(of food) very quick and easy to make",
-    "cn_def": "即時的，瞬間的"
-  },
-  "invented": {
-    "pos": "v.",
-    "en_def": "to make or think of something that did not exist before",
-    "cn_def": "發明，創造"
-  },
-  "match": {
-    "pos": "n.",
-    "en_def": "a game between two players or teams",
-    "cn_def": "比賽，火柴"
-  },
-  "maximum": {
-    "pos": "adj.",
-    "en_def": "the largest that is possible or allowed",
-    "cn_def": "最大的，最高的"
-  },
-  "meaning": {
-    "pos": "n.",
-    "en_def": "the idea that a word or sign shows",
-    "cn_def": "意義，意思"
-  },
-  "measured": {
-    "pos": "v.",
-    "en_def": "to find out how long, big, or heavy something is",
-    "cn_def": "測量，衡量"
-  },
-  "mechanic": {
-    "pos": "n.",
-    "en_def": "a person who fixes cars or machines",
-    "cn_def": "技工，機械師"
-  },
-  "memory": {
-    "pos": "n.",
-    "en_def": "the power to remember things",
-    "cn_def": "記憶，回憶"
-  },
-  "message": {
-    "pos": "n.",
-    "en_def": "words that you send or leave for someone",
-    "cn_def": "信息，訊息"
-  },
   "metal": {
     "pos": "n.",
     "en_def": "a hard, shiny material like iron or gold",
     "cn_def": "金屬"
-  },
-  "meters": {
-    "pos": "n.",
-    "en_def": "a unit of length; it is 100 centimeters",
-    "cn_def": "公尺，計量器"
-  },
-  "method": {
-    "pos": "n.",
-    "en_def": "a way of doing something",
-    "cn_def": "方法，方式"
-  },
-  "microwave": {
-    "pos": "n.",
-    "en_def": "a machine that heats food very quickly",
-    "cn_def": "微波爐"
-  },
-  "midnight": {
-    "pos": "n.",
-    "en_def": "twelve o'clock at night",
-    "cn_def": "午夜"
-  },
-  "minor": {
-    "pos": "adj.",
-    "en_def": "small; not very serious",
-    "cn_def": "較小的，次要的"
-  },
-  "minus": {
-    "pos": "prep.",
-    "en_def": "below zero; made smaller by a number",
-    "cn_def": "減，負的"
   },
   "mirror": {
     "pos": "n.",
     "en_def": "a piece of glass in which you can see yourself",
     "cn_def": "鏡子"
   },
-  "mixed": {
-    "pos": "v.",
-    "en_def": "to put different things together and stir them",
-    "cn_def": "混合，攪拌"
-  },
-  "model": {
+  "match": {
     "pos": "n.",
-    "en_def": "a small copy of something, like a plane or a building",
-    "cn_def": "模型，模特"
+    "en_def": "a game between two players or teams",
+    "cn_def": "比賽，火柴"
   },
-  "monster": {
+  "method": {
     "pos": "n.",
-    "en_def": "a big, ugly, scary animal in stories",
-    "cn_def": "怪物"
+    "en_def": "a way of doing something",
+    "cn_def": "方法，方式"
   },
-  "mosquito": {
+  "maximum": {
+    "pos": "adj.",
+    "en_def": "the largest that is possible or allowed",
+    "cn_def": "最大的，最高的"
+  },
+  "minor": {
+    "pos": "adj.",
+    "en_def": "small; not very serious",
+    "cn_def": "較小的，次要的"
+  },
+  "major": {
+    "pos": "adj.",
+    "en_def": "very big or important",
+    "cn_def": "主要的，重要的"
+  },
+  "male": {
+    "pos": "adj.",
+    "en_def": "being a man or a boy",
+    "cn_def": "男性的"
+  },
+  "memory": {
     "pos": "n.",
-    "en_def": "a small flying insect that bites people and drinks blood",
-    "cn_def": "蚊子"
+    "en_def": "the power to remember things",
+    "cn_def": "記憶，回憶"
+  },
+  "meaning": {
+    "pos": "n.",
+    "en_def": "the idea that a word or sign shows",
+    "cn_def": "意義，意思"
   },
   "motion": {
     "pos": "n.",
     "en_def": "the act of moving",
     "cn_def": "運動，動作"
   },
+  "mix": {
+    "pos": "v.",
+    "en_def": "to put different things together and stir them",
+    "cn_def": "混合，攪拌"
+  },
+  "marry": {
+    "pos": "v.",
+    "en_def": "to become someone's husband or wife",
+    "cn_def": "結婚"
+  },
+  "lock": {
+    "pos": "v.",
+    "en_def": "to close something with a key",
+    "cn_def": "鎖住"
+  },
+  "measure": {
+    "pos": "v.",
+    "en_def": "to find out how long, big, or heavy something is",
+    "cn_def": "測量，衡量"
+  },
+  "monster": {
+    "pos": "n.",
+    "en_def": "a big, ugly, scary animal in stories",
+    "cn_def": "怪物"
+  },
+  "model": {
+    "pos": "n.",
+    "en_def": "a small copy of something, like a plane or a building",
+    "cn_def": "模型，模特"
+  },
+  "mechanic": {
+    "pos": "n.",
+    "en_def": "a person who fixes cars or machines",
+    "cn_def": "技工，機械師"
+  },
+  "mosquito": {
+    "pos": "n.",
+    "en_def": "a small flying insect that bites people and drinks blood",
+    "cn_def": "蚊子"
+  },
+  "meter": {
+    "pos": "n.",
+    "en_def": "a unit of length; it is 100 centimeters",
+    "cn_def": "公尺，計量器"
+  },
+  "message": {
+    "pos": "n.",
+    "en_def": "words that you send or leave for someone",
+    "cn_def": "信息，訊息"
+  },
+  "meters": {
+    "pos": "n.",
+    "en_def": "a unit of length; it is 100 centimeters",
+    "cn_def": "公尺，計量器"
+  },
+  "methods": {
+    "pos": "n.",
+    "en_def": "a way of doing something",
+    "cn_def": "方法，方式"
+  },
+  "mirrors": {
+    "pos": "n.",
+    "en_def": "a piece of glass in which you can see yourself",
+    "cn_def": "鏡子"
+  },
+  "models": {
+    "pos": "n.",
+    "en_def": "a small copy of something, like a plane or a building",
+    "cn_def": "模型，模特"
+  },
+  "midnight": {
+    "pos": "n.",
+    "en_def": "twelve o'clock at night",
+    "cn_def": "午夜"
+  },
+  "microwave": {
+    "pos": "n.",
+    "en_def": "a machine that heats food very quickly",
+    "cn_def": "微波爐"
+  },
+  "marvelous": {
+    "pos": "adj.",
+    "en_def": "very, very good; wonderful",
+    "cn_def": "奇妙的，極好的"
+  },
   "plus": {
     "pos": "prep.",
     "en_def": "and also; added to",
     "cn_def": "加上，此外"
   },
-  "positive": {
-    "pos": "adj.",
-    "en_def": "thinking about the good side of things",
-    "cn_def": "積極的，正面的"
+  "against": {
+    "pos": "prep.",
+    "en_def": "not agreeing with something",
+    "cn_def": "反對，對抗"
   },
-  "stingy": {
-    "pos": "adj.",
-    "en_def": "not willing to spend or give money",
-    "cn_def": "吝嗇的，小氣的"
+  "minus": {
+    "pos": "prep.",
+    "en_def": "below zero; made smaller by a number",
+    "cn_def": "減，負的"
   },
-  "whispered": {
-    "pos": "v.",
-    "en_def": "to speak in a very quiet voice",
-    "cn_def": "耳語，低聲說"
+  "beyond": {
+    "pos": "prep.",
+    "en_def": "on the far side of something",
+    "cn_def": "超過，在...之外"
   }
 };
 

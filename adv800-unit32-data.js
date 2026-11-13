@@ -173,131 +173,131 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "He gave a ______ apology.【真誠的，誠懇的】",
+    "q": "His apology was ______. He really felt sorry for what he did.",
     "options": [
-      "sneaky",
-      "sincere",
       "single",
-      "slender"
+      "skinny",
+      "sleepy",
+      "sincere"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "他真誠地道歉。",
     "vocabIndex": 0
   },
   {
-    "q": "She is a ______ mother.【單一的，單身的】",
+    "q": "My uncle is forty and still ______. He doesn't have a wife.",
     "options": [
-      "single",
-      "skinny",
       "sincere",
-      "sneaky"
+      "single",
+      "sleepy",
+      "skillful"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "她是一位單親媽媽。",
     "vocabIndex": 1
   },
   {
-    "q": "The boat began to ______.【下沉，沉沒】",
+    "q": "A stone will ______ in water, but a piece of wood won't.",
     "options": [
       "skate",
-      "skiing",
-      "beat",
-      "sink"
+      "ski",
+      "sink",
+      "solve"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "船開始下沉。",
     "vocabIndex": 2
   },
   {
-    "q": "They like to ______ in the winter.【滑冰，溜冰】",
+    "q": "In winter, the lake turns to ice, and children ______ on it.",
     "options": [
-      "sink",
-      "skiing",
       "skate",
-      "serve"
+      "sink",
+      "solve",
+      "steal"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他們喜歡冬天滑冰。",
     "vocabIndex": 3
   },
   {
-    "q": "He went ______ in the mountains.【滑雪】",
+    "q": "We went ______ in the snowy mountains of Japan last winter.",
     "options": [
+      "sinking",
       "skiing",
-      "sink",
-      "skate",
-      "searching"
+      "solving",
+      "stealing"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "他去山上滑雪。",
     "vocabIndex": 4
   },
   {
-    "q": "She has great culinary ______.【技能，本領】",
+    "q": "Reading and writing are important ______. Students learn them at school.",
     "options": [
       "slices",
-      "skills",
+      "snails",
       "slippers",
-      "sneakers"
+      "skills"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她有很棒的烹飪技能。",
     "vocabIndex": 5
   },
   {
-    "q": "He is very ______ with his hands.【熟練的，靈巧的】",
+    "q": "The ______ cook can cut vegetables very fast and make beautiful dishes.",
     "options": [
-      "social",
-      "sneaky",
       "skillful",
-      "sincere"
+      "sleepy",
+      "single",
+      "social"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他的手很靈巧。",
     "vocabIndex": 6
   },
   {
-    "q": "She has fair ______.【皮膚，外皮】",
+    "q": "The baby's ______ is very soft. Too much sun is bad for it.",
     "options": [
-      "society",
-      "snail",
+      "slice",
       "soap",
-      "skin"
+      "skin",
+      "snail"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "她的皮膚很白皙。",
     "vocabIndex": 7
   },
   {
-    "q": "The stray dog looked very ______.【瘦的，皮包骨的】",
-    "options": [
-      "sleepy",
-      "single",
-      "skinny",
-      "sneaky"
-    ],
-    "answer": 2,
-    "cn": "那隻流浪狗看起來很瘦。",
-    "vocabIndex": 8
-  },
-  {
-    "q": "She felt ______ after the long day.【想睡的，困倦的】",
+    "q": "The street dog is ______ because it doesn't get enough food. You can see its bones.",
     "options": [
       "skinny",
       "sleepy",
       "sincere",
       "social"
     ],
+    "answer": 0,
+    "cn": "那隻流浪狗看起來很瘦。",
+    "vocabIndex": 8
+  },
+  {
+    "q": "I went to bed very late last night, so I feel ______ now. I can't keep my eyes open.",
+    "options": [
+      "skinny",
+      "sleepy",
+      "single",
+      "sincere"
+    ],
     "answer": 1,
     "cn": "經過漫長的一天，她感到很困倦。",
     "vocabIndex": 9
   },
   {
-    "q": "She has a ______ figure.【苗條的，纖細的】",
+    "q": "The dancer has long, ______ legs. She looks beautiful on the stage.",
     "options": [
-      "single",
+      "sleepy",
+      "sincere",
       "sneaky",
-      "skillful",
       "slender"
     ],
     "answer": 3,
@@ -305,71 +305,71 @@ const MCQS = [
     "vocabIndex": 10
   },
   {
-    "q": "She cut the bread into thick ______.【薄片，切片】",
+    "q": "Would you like a ______ of pizza? I cut it into eight.",
     "options": [
-      "slices",
-      "skills",
-      "slippers",
-      "sneakers"
+      "snail",
+      "soap",
+      "slice",
+      "skin"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "她把麵包切成厚片。",
     "vocabIndex": 11
   },
   {
-    "q": "She wore ______ around the house.【拖鞋】",
+    "q": "Take off your shoes and put on these ______. We wear them inside the house.",
     "options": [
-      "slices",
+      "slippers",
       "sneakers",
-      "skills",
-      "slippers"
+      "snails",
+      "slices"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "她在家裡穿拖鞋。",
     "vocabIndex": 12
   },
   {
-    "q": "The ______ moved slowly across the ground.【蝸牛】",
+    "q": "A ______ carries its shell on its back and moves very slowly.",
     "options": [
-      "society",
+      "slice",
       "snail",
       "soap",
-      "skin"
+      "snowman"
     ],
     "answer": 1,
     "cn": "蝸牛慢慢地在地上爬行。",
     "vocabIndex": 13
   },
   {
-    "q": "He bought a new pair of ______.【運動鞋，球鞋】",
+    "q": "You need a pair of ______ for PE class. You can't run in those shoes.",
     "options": [
-      "sneakers",
       "slippers",
-      "skills",
+      "snails",
+      "sneakers",
       "slices"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他買了一雙新運動鞋。",
     "vocabIndex": 14
   },
   {
-    "q": "He took a ______ glance at the answers.【鬼鬼祟祟的，偷偷摸摸的】",
+    "q": "The ______ boy took a cookie when his mother was not looking.",
     "options": [
-      "skinny",
-      "skillful",
-      "sneaky",
-      "slender"
+      "sincere",
+      "sleepy",
+      "social",
+      "sneaky"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "他偷偷看了一眼答案。",
     "vocabIndex": 15
   },
   {
-    "q": "The children built a ______ in the yard.【雪人】",
+    "q": "The children made a ______ in the yard. They gave it a carrot for a nose.",
     "options": [
       "snowman",
-      "skin",
-      "society",
+      "snail",
+      "slice",
       "soap"
     ],
     "answer": 0,
@@ -377,36 +377,36 @@ const MCQS = [
     "vocabIndex": 16
   },
   {
-    "q": "She washed her hands with ______.【肥皂】",
+    "q": "Wash your hands with ______ and water before you eat.",
     "options": [
-      "society",
-      "snowman",
       "skin",
-      "soap"
+      "soap",
+      "slice",
+      "snail"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "她用肥皂洗手。",
     "vocabIndex": 17
   },
   {
-    "q": "He is very ______ and enjoys meeting new people.【社會的，社交的】",
+    "q": "Amy is very ______. She loves meeting new people and going to parties.",
     "options": [
-      "sincere",
-      "social",
+      "sleepy",
       "single",
-      "sleepy"
+      "skinny",
+      "social"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "他很擅長社交，喜歡結識新朋友。",
     "vocabIndex": 18
   },
   {
-    "q": "They studied the structure of ______.【社會】",
+    "q": "We should all work together to make our ______ a better place to live.",
     "options": [
-      "skin",
       "soap",
+      "slice",
       "society",
-      "snail"
+      "skin"
     ],
     "answer": 2,
     "cn": "他們研究社會結構。",
@@ -415,60 +415,10 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "beat": {
-    "pos": "v.",
-    "en_def": "to hit again and again; to make a regular sound",
-    "cn_def": "擊打，跳動"
-  },
-  "searching": {
-    "pos": "v.",
-    "en_def": "to look carefully for someone or something",
-    "cn_def": "搜索，尋找"
-  },
-  "serve": {
-    "pos": "v.",
-    "en_def": "to give food or drinks to people",
-    "cn_def": "服務，提供"
-  },
-  "sincere": {
-    "pos": "adj.",
-    "en_def": "really meaning what you say; honest",
-    "cn_def": "真誠的，誠懇的"
-  },
   "single": {
     "pos": "adj.",
     "en_def": "not married; only one",
     "cn_def": "單一的，單身的"
-  },
-  "sink": {
-    "pos": "v.",
-    "en_def": "to go down under water",
-    "cn_def": "下沉，沉沒"
-  },
-  "skate": {
-    "pos": "v.",
-    "en_def": "to move on ice wearing special shoes",
-    "cn_def": "滑冰，溜冰"
-  },
-  "skiing": {
-    "pos": "v.",
-    "en_def": "to move over snow on two long, thin boards",
-    "cn_def": "滑雪"
-  },
-  "skills": {
-    "pos": "n.",
-    "en_def": "something that you can do well because you have practiced",
-    "cn_def": "技能，本領"
-  },
-  "skillful": {
-    "pos": "adj.",
-    "en_def": "good at doing something",
-    "cn_def": "熟練的，靈巧的"
-  },
-  "skin": {
-    "pos": "n.",
-    "en_def": "the outside cover of your body",
-    "cn_def": "皮膚，外皮"
   },
   "skinny": {
     "pos": "adj.",
@@ -480,50 +430,125 @@ const LOOKUP = {
     "en_def": "tired and wanting to sleep",
     "cn_def": "想睡的，困倦的"
   },
-  "slender": {
+  "sincere": {
     "pos": "adj.",
-    "en_def": "thin in a nice way",
-    "cn_def": "苗條的，纖細的"
+    "en_def": "really meaning what you say; honest",
+    "cn_def": "真誠的，誠懇的"
+  },
+  "skillful": {
+    "pos": "adj.",
+    "en_def": "good at doing something",
+    "cn_def": "熟練的，靈巧的"
+  },
+  "skate": {
+    "pos": "v.",
+    "en_def": "to move on ice wearing special shoes",
+    "cn_def": "滑冰，溜冰"
+  },
+  "ski": {
+    "pos": "v.",
+    "en_def": "to move over snow on two long, thin boards",
+    "cn_def": "滑雪"
+  },
+  "sink": {
+    "pos": "v.",
+    "en_def": "to go down under water",
+    "cn_def": "下沉，沉沒"
+  },
+  "solve": {
+    "pos": "v.",
+    "en_def": "to find the answer to a problem",
+    "cn_def": "解決，解答"
+  },
+  "steal": {
+    "pos": "v.",
+    "en_def": "to take something that is not yours",
+    "cn_def": "偷竊，盜取"
+  },
+  "sinking": {
+    "pos": "v.",
+    "en_def": "to go down under water",
+    "cn_def": "下沉，沉沒"
+  },
+  "skiing": {
+    "pos": "v.",
+    "en_def": "to move over snow on two long, thin boards",
+    "cn_def": "滑雪"
+  },
+  "solving": {
+    "pos": "v.",
+    "en_def": "to find the answer to a problem",
+    "cn_def": "解決，解答"
+  },
+  "stealing": {
+    "pos": "v.",
+    "en_def": "to take something that is not yours",
+    "cn_def": "偷竊，盜取"
   },
   "slices": {
     "pos": "n.",
     "en_def": "a thin flat piece cut from something",
     "cn_def": "薄片，切片"
   },
+  "snails": {
+    "pos": "n.",
+    "en_def": "a small animal with a shell on its back that moves very slowly",
+    "cn_def": "蝸牛"
+  },
   "slippers": {
     "pos": "n.",
     "en_def": "soft shoes that you wear inside the house",
     "cn_def": "拖鞋"
   },
-  "snail": {
+  "skills": {
     "pos": "n.",
-    "en_def": "a small animal with a shell on its back that moves very slowly",
-    "cn_def": "蝸牛"
+    "en_def": "something that you can do well because you have practiced",
+    "cn_def": "技能，本領"
   },
-  "sneakers": {
-    "pos": "n.",
-    "en_def": "soft shoes for running and sports",
-    "cn_def": "運動鞋，球鞋"
-  },
-  "sneaky": {
+  "social": {
     "pos": "adj.",
-    "en_def": "doing things in a secret way that is not honest",
-    "cn_def": "鬼鬼祟祟的，偷偷摸摸的"
+    "en_def": "liking to be with other people",
+    "cn_def": "社會的，社交的"
   },
-  "snowman": {
+  "slice": {
     "pos": "n.",
-    "en_def": "a figure of a person made of snow",
-    "cn_def": "雪人"
+    "en_def": "a thin flat piece cut from something",
+    "cn_def": "薄片，切片"
   },
   "soap": {
     "pos": "n.",
     "en_def": "something that you use with water to wash your hands and body",
     "cn_def": "肥皂"
   },
-  "social": {
+  "skin": {
+    "pos": "n.",
+    "en_def": "the outside cover of your body",
+    "cn_def": "皮膚，外皮"
+  },
+  "snail": {
+    "pos": "n.",
+    "en_def": "a small animal with a shell on its back that moves very slowly",
+    "cn_def": "蝸牛"
+  },
+  "sneaky": {
     "pos": "adj.",
-    "en_def": "liking to be with other people",
-    "cn_def": "社會的，社交的"
+    "en_def": "doing things in a secret way that is not honest",
+    "cn_def": "鬼鬼祟祟的，偷偷摸摸的"
+  },
+  "slender": {
+    "pos": "adj.",
+    "en_def": "thin in a nice way",
+    "cn_def": "苗條的，纖細的"
+  },
+  "sneakers": {
+    "pos": "n.",
+    "en_def": "soft shoes for running and sports",
+    "cn_def": "運動鞋，球鞋"
+  },
+  "snowman": {
+    "pos": "n.",
+    "en_def": "a figure of a person made of snow",
+    "cn_def": "雪人"
   },
   "society": {
     "pos": "n.",

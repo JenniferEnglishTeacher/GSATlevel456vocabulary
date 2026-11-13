@@ -170,107 +170,107 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "She has a wide ______.【詞彙，詞彙量】",
+    "q": "Reading English books can help you build your ______. You will learn many new words.",
     "options": [
-      "weekend",
-      "waiter",
+      "volleyball",
       "vocabulary",
+      "wealth",
       "weather"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她的詞彙量很大。",
     "vocabIndex": 0
   },
   {
-    "q": "They played ______ on the beach.【排球】",
+    "q": "We played ______ on the beach. We hit the ball over the net with our hands.",
     "options": [
-      "weekend",
-      "weight",
-      "wealth",
-      "volleyball"
+      "volleyball",
+      "vocabulary",
+      "wedding",
+      "weight"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他們在海灘上打排球。",
     "vocabIndex": 1
   },
   {
-    "q": "She works as a ______.【志願者，義工】",
+    "q": "Amy works as a ______ at the hospital on weekends. She doesn't get any money for it.",
     "options": [
-      "wallet",
+      "waiter",
+      "whale",
       "volunteer",
-      "wealth",
-      "waste"
+      "weapon"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "她做志願者工作。",
     "vocabIndex": 2
   },
   {
-    "q": "They will ______ in the election tomorrow.【投票，選舉】",
+    "q": "In Taiwan, people can ______ for the president when they are twenty years old.",
     "options": [
-      "vote",
       "wake",
-      "whispered",
-      "waved"
+      "wave",
+      "whisper",
+      "vote"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "他們明天將在選舉中投票。",
     "vocabIndex": 3
   },
   {
-    "q": "The ______ took their order.【服務生，侍者】",
+    "q": "The ______ brought us the menu and took our order.",
     "options": [
+      "waiter",
       "whale",
-      "waste",
-      "weapon",
-      "waiter"
+      "wheel",
+      "wallet"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "服務生接了他們的點菜。",
     "vocabIndex": 4
   },
   {
-    "q": "She likes to ______ up early.【醒來，喚醒】",
+    "q": "Please ______ me up at six tomorrow. I have to catch an early train.",
     "options": [
       "vote",
-      "waved",
-      "wake",
-      "whispered"
+      "wave",
+      "whisper",
+      "wake"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她喜歡早起。",
     "vocabIndex": 5
   },
   {
-    "q": "He forgot his ______ at home.【錢包，皮夾】",
+    "q": "I can't find my ______. All my money and cards are in it.",
     "options": [
-      "volunteer",
+      "waiter",
       "wallet",
       "whale",
-      "weekend"
+      "wheel"
     ],
     "answer": 1,
     "cn": "他把錢包忘在家裡了。",
     "vocabIndex": 6
   },
   {
-    "q": "It is a ______ of time to argue about it.【浪費，廢物】",
+    "q": "Watching TV all day is a ______ of time. You should do something useful.",
     "options": [
+      "wealth",
+      "weight",
       "waste",
-      "volleyball",
-      "weekend",
-      "weather"
+      "wedding"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "為這個爭論是浪費時間。",
     "vocabIndex": 7
   },
   {
-    "q": "They visited a beautiful ______.【瀑布】",
+    "q": "We visited a beautiful ______ in the mountains. The water falls from fifty meters up.",
     "options": [
-      "volleyball",
-      "weekend",
-      "weather",
+      "weapon",
+      "wedding",
+      "wallet",
       "waterfall"
     ],
     "answer": 3,
@@ -278,47 +278,47 @@ const MCQS = [
     "vocabIndex": 8
   },
   {
-    "q": "She ______ goodbye to her friend.【揮手，波動】",
+    "q": "She ______ good-bye to her friends from the train window.",
     "options": [
       "waved",
+      "voted",
       "whispered",
-      "wake",
-      "vote"
+      "woke"
     ],
     "answer": 0,
     "cn": "她揮手告別她的朋友。",
     "vocabIndex": 9
   },
   {
-    "q": "The soldier carried a ______.【武器】",
+    "q": "A gun is a dangerous ______. Children must never touch one.",
     "options": [
-      "wallet",
-      "waste",
+      "wedding",
+      "whale",
       "weapon",
-      "weather"
+      "wheel"
     ],
     "answer": 2,
     "cn": "士兵攜帶了一把武器。",
     "vocabIndex": 10
   },
   {
-    "q": "He accumulated great ______.【財富，富裕】",
+    "q": "He is a man of great ______. He owns ten buildings in Taipei.",
     "options": [
-      "waterfall",
+      "weather",
       "wealth",
-      "volleyball",
-      "volunteer"
+      "weight",
+      "waste"
     ],
     "answer": 1,
     "cn": "他積累了大量財富。",
     "vocabIndex": 11
   },
   {
-    "q": "The ______ is nice today.【天氣，氣候】",
+    "q": "The ______ is nice today. It is sunny and warm.",
     "options": [
-      "weekend",
       "wealth",
-      "volunteer",
+      "weight",
+      "wedding",
       "weather"
     ],
     "answer": 3,
@@ -326,59 +326,59 @@ const MCQS = [
     "vocabIndex": 12
   },
   {
-    "q": "They attended a beautiful ______.【婚禮】",
+    "q": "My sister is getting married. Her ______ will be next Saturday.",
     "options": [
-      "wedding",
-      "waterfall",
+      "weapon",
       "weather",
-      "weapon"
+      "wedding",
+      "weight"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他們參加了一場美麗的婚禮。",
     "vocabIndex": 13
   },
   {
-    "q": "They have plans for the ______.【週末】",
+    "q": "I don't work on the ______. I usually stay home on Saturday and Sunday.",
     "options": [
-      "waste",
       "weekend",
-      "weapon",
-      "whale"
+      "wedding",
+      "weather",
+      "weight"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "他們有週末的計劃。",
     "vocabIndex": 14
   },
   {
-    "q": "She is trying to lose ______.【重量，體重】",
+    "q": "The doctor told him to lose ______. He is ten kilograms too heavy.",
     "options": [
-      "weapon",
-      "volleyball",
+      "wealth",
       "weight",
-      "waste"
+      "waste",
+      "weather"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她在努力減肥。",
     "vocabIndex": 15
   },
   {
-    "q": "He is a ______ author.【著名的，知名的】",
+    "q": "The singer is ______ all over Asia. Almost everyone has heard of her.",
     "options": [
-      "independent",
       "well-known",
-      "local",
-      "former"
+      "talkative",
+      "tropical",
+      "violent"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "他是一位著名的作家。",
     "vocabIndex": 16
   },
   {
-    "q": "They saw a ______ during their boat trip.【鯨魚】",
+    "q": "The ______ is the biggest animal in the sea.",
     "options": [
+      "wheel",
+      "waiter",
       "wallet",
-      "waste",
-      "weapon",
       "whale"
     ],
     "answer": 3,
@@ -386,24 +386,24 @@ const MCQS = [
     "vocabIndex": 17
   },
   {
-    "q": "The car needs new ______.【輪子】",
+    "q": "A car has four ______. A bicycle has only two.",
     "options": [
+      "whales",
       "wheels",
-      "volleyball",
-      "weapon",
-      "wallet"
+      "wallets",
+      "weddings"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "這輛車需要新輪胎。",
     "vocabIndex": 18
   },
   {
-    "q": "She ______ a secret to her friend.【耳語，低聲說】",
+    "q": "\"Don't tell anyone,\" she ______ in my ear. She spoke very quietly.",
     "options": [
+      "voted",
       "waved",
-      "vote",
       "whispered",
-      "wake"
+      "woke"
     ],
     "answer": 2,
     "cn": "她對她的朋友低聲說了一個秘密。",
@@ -412,50 +412,80 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "former": {
-    "pos": "adj.",
-    "en_def": "having been something in the past, but not now",
-    "cn_def": "以前的，前者的"
-  },
-  "independent": {
-    "pos": "adj.",
-    "en_def": "able to do things by yourself, without help",
-    "cn_def": "獨立的，自主的"
-  },
-  "local": {
-    "pos": "adj.",
-    "en_def": "of or in the place where you live or are",
-    "cn_def": "當地的，本地的"
+  "volleyball": {
+    "pos": "n.",
+    "en_def": "a game in which two teams hit a big ball over a high net with their hands",
+    "cn_def": "排球"
   },
   "vocabulary": {
     "pos": "n.",
     "en_def": "all the words that a person knows",
     "cn_def": "詞彙，詞彙量"
   },
-  "volleyball": {
+  "wealth": {
     "pos": "n.",
-    "en_def": "a game in which two teams hit a big ball over a high net with their hands",
-    "cn_def": "排球"
+    "en_def": "a large amount of money and things that someone owns",
+    "cn_def": "財富，富裕"
   },
-  "volunteer": {
+  "weather": {
     "pos": "n.",
-    "en_def": "a person who works to help others without being paid",
-    "cn_def": "志願者，義工"
+    "en_def": "how hot, cold, wet, or dry it is outside",
+    "cn_def": "天氣，氣候"
   },
-  "vote": {
-    "pos": "v.",
-    "en_def": "to choose someone in an election by marking a paper",
-    "cn_def": "投票，選舉"
+  "wedding": {
+    "pos": "n.",
+    "en_def": "the ceremony in which two people get married",
+    "cn_def": "婚禮"
+  },
+  "weight": {
+    "pos": "n.",
+    "en_def": "how heavy someone or something is",
+    "cn_def": "重量，體重"
   },
   "waiter": {
     "pos": "n.",
     "en_def": "a man who brings food to people in a restaurant",
     "cn_def": "服務生，侍者"
   },
+  "whale": {
+    "pos": "n.",
+    "en_def": "a very, very big sea animal that looks like a fish",
+    "cn_def": "鯨魚"
+  },
+  "volunteer": {
+    "pos": "n.",
+    "en_def": "a person who works to help others without being paid",
+    "cn_def": "志願者，義工"
+  },
+  "weapon": {
+    "pos": "n.",
+    "en_def": "a thing used for fighting, like a gun or a knife",
+    "cn_def": "武器"
+  },
   "wake": {
     "pos": "v.",
     "en_def": "to stop sleeping",
     "cn_def": "醒來，喚醒"
+  },
+  "wave": {
+    "pos": "v.",
+    "en_def": "to move your hand in the air to say hello or good-bye",
+    "cn_def": "揮手，波動"
+  },
+  "whisper": {
+    "pos": "v.",
+    "en_def": "to speak in a very quiet voice",
+    "cn_def": "耳語，低聲說"
+  },
+  "vote": {
+    "pos": "v.",
+    "en_def": "to choose someone in an election by marking a paper",
+    "cn_def": "投票，選舉"
+  },
+  "wheel": {
+    "pos": "n.",
+    "en_def": "a round thing under a car or bike that turns to make it move",
+    "cn_def": "輪子"
   },
   "wallet": {
     "pos": "n.",
@@ -477,42 +507,47 @@ const LOOKUP = {
     "en_def": "to move your hand in the air to say hello or good-bye",
     "cn_def": "揮手，波動"
   },
-  "weapon": {
-    "pos": "n.",
-    "en_def": "a thing used for fighting, like a gun or a knife",
-    "cn_def": "武器"
+  "voted": {
+    "pos": "v.",
+    "en_def": "to choose someone in an election by marking a paper",
+    "cn_def": "投票，選舉"
   },
-  "wealth": {
-    "pos": "n.",
-    "en_def": "a large amount of money and things that someone owns",
-    "cn_def": "財富，富裕"
+  "whispered": {
+    "pos": "v.",
+    "en_def": "to speak in a very quiet voice",
+    "cn_def": "耳語，低聲說"
   },
-  "weather": {
-    "pos": "n.",
-    "en_def": "how hot, cold, wet, or dry it is outside",
-    "cn_def": "天氣，氣候"
-  },
-  "wedding": {
-    "pos": "n.",
-    "en_def": "the ceremony in which two people get married",
-    "cn_def": "婚禮"
+  "woke": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "醒來"
   },
   "weekend": {
     "pos": "n.",
     "en_def": "Saturday and Sunday",
     "cn_def": "週末"
   },
-  "weight": {
-    "pos": "n.",
-    "en_def": "how heavy someone or something is",
-    "cn_def": "重量，體重"
-  },
   "well-known": {
     "pos": "adj.",
     "en_def": "known by many people; famous",
     "cn_def": "著名的，知名的"
   },
-  "whale": {
+  "talkative": {
+    "pos": "adj.",
+    "en_def": "liking to talk a lot",
+    "cn_def": "健談的，話多的"
+  },
+  "tropical": {
+    "pos": "adj.",
+    "en_def": "from or in the hottest parts of the world",
+    "cn_def": "熱帶的，炎熱的"
+  },
+  "violent": {
+    "pos": "adj.",
+    "en_def": "very strong and dangerous",
+    "cn_def": "暴力的，猛烈的"
+  },
+  "whales": {
     "pos": "n.",
     "en_def": "a very, very big sea animal that looks like a fish",
     "cn_def": "鯨魚"
@@ -522,10 +557,15 @@ const LOOKUP = {
     "en_def": "a round thing under a car or bike that turns to make it move",
     "cn_def": "輪子"
   },
-  "whispered": {
-    "pos": "v.",
-    "en_def": "to speak in a very quiet voice",
-    "cn_def": "耳語，低聲說"
+  "wallets": {
+    "pos": "n.",
+    "en_def": "a small flat case for carrying money and cards",
+    "cn_def": "錢包，皮夾"
+  },
+  "weddings": {
+    "pos": "n.",
+    "en_def": "the ceremony in which two people get married",
+    "cn_def": "婚禮"
   }
 };
 

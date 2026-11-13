@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "They __________ old newspapers.【回收，再利用】",
+    "question": "We should __________ paper, glass, and plastic bottles. They can be made into new things.",
     "options": [
      {
       "letter": "A",
@@ -275,7 +275,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "rent"
+      "text": "regret"
      },
      {
       "letter": "C",
@@ -283,95 +283,95 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "revise"
+      "text": "respect"
      }
     ],
     "answer": "A",
     "vi": 0
    },
    {
-    "question": "She __________ to answer the question.【拒絕，不接受】",
+    "question": "I asked him to help me, but he __________. He said he was too busy.",
     "options": [
      {
       "letter": "A",
-      "text": "rubbed"
-     },
-     {
-      "letter": "B",
       "text": "regretted"
      },
      {
+      "letter": "B",
+      "text": "reminded"
+     },
+     {
       "letter": "C",
+      "text": "repaired"
+     },
+     {
+      "letter": "D",
       "text": "refused"
-     },
-     {
-      "letter": "D",
-      "text": "robbed"
-     }
-    ],
-    "answer": "C",
-    "vi": 1
-   },
-   {
-    "question": "He __________ his decision to quit his job.【後悔，遺憾】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "rubbed"
-     },
-     {
-      "letter": "B",
-      "text": "robbed"
-     },
-     {
-      "letter": "C",
-      "text": "rejected"
-     },
-     {
-      "letter": "D",
-      "text": "regretted"
      }
     ],
     "answer": "D",
-    "vi": 2
+    "vi": 1
    },
    {
-    "question": "He goes for a __________ check-up every year.【定期的，規則的】",
+    "question": "I __________ saying those bad words to my mother. I feel very sorry now.",
     "options": [
      {
       "letter": "A",
-      "text": "responsible"
+      "text": "recycle"
      },
      {
       "letter": "B",
-      "text": "regular"
+      "text": "regret"
      },
      {
       "letter": "C",
-      "text": "rude"
+      "text": "remind"
      },
      {
       "letter": "D",
-      "text": "fantastic"
+      "text": "repair"
      }
     ],
     "answer": "B",
-    "vi": 3
+    "vi": 2
    },
    {
-    "question": "She __________ his marriage proposal.【拒絕，不接受】",
+    "question": "Ben is a __________ customer at this restaurant. He eats here every Friday.",
     "options": [
      {
       "letter": "A",
-      "text": "robbed"
+      "text": "rare"
      },
      {
       "letter": "B",
-      "text": "regretted"
+      "text": "responsible"
      },
      {
       "letter": "C",
-      "text": "rubbed"
+      "text": "regular"
+     },
+     {
+      "letter": "D",
+      "text": "rude"
+     }
+    ],
+    "answer": "C",
+    "vi": 3
+   },
+   {
+    "question": "Amy asked for the job, but the company __________ her. They said no.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "reminded"
+     },
+     {
+      "letter": "B",
+      "text": "repaired"
+     },
+     {
+      "letter": "C",
+      "text": "returned"
      },
      {
       "letter": "D",
@@ -382,7 +382,7 @@ window.FLASHCARD_UNITS = {
     "vi": 4
    },
    {
-    "question": "Can you __________ me to call my mom later?【提醒，使想起】",
+    "question": "Please __________ me to call Grandma tonight. I often forget.",
     "options": [
      {
       "letter": "A",
@@ -390,76 +390,53 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "rent"
+      "text": "regret"
      },
      {
       "letter": "C",
-      "text": "return"
+      "text": "recycle"
      },
      {
       "letter": "D",
-      "text": "respect"
+      "text": "repair"
      }
     ],
     "answer": "A",
     "vi": 5
    },
    {
-    "question": "They decided to __________ an apartment.【租用，租賃】",
+    "question": "We don't own this apartment. We __________ it for twenty thousand dollars a month.",
     "options": [
      {
       "letter": "A",
-      "text": "return"
+      "text": "remind"
      },
      {
       "letter": "B",
-      "text": "recycle"
-     },
-     {
-      "letter": "C",
       "text": "rent"
      },
      {
-      "letter": "D",
-      "text": "remind"
-     }
-    ],
-    "answer": "C",
-    "vi": 6
-   },
-   {
-    "question": "The mechanic will __________ the car.【修理，修補】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "respect"
-     },
-     {
-      "letter": "B",
-      "text": "repair"
-     },
-     {
       "letter": "C",
-      "text": "review"
+      "text": "regret"
      },
      {
       "letter": "D",
-      "text": "rise"
+      "text": "respect"
      }
     ],
     "answer": "B",
-    "vi": 7
+    "vi": 6
    },
    {
-    "question": "They __________ her for her hard work.【尊敬，尊重】",
+    "question": "The roof has a hole in it. We need someone to __________ it before it rains.",
     "options": [
      {
       "letter": "A",
-      "text": "respect"
+      "text": "remind"
      },
      {
       "letter": "B",
-      "text": "rise"
+      "text": "regret"
      },
      {
       "letter": "C",
@@ -470,11 +447,34 @@ window.FLASHCARD_UNITS = {
       "text": "rent"
      }
     ],
-    "answer": "A",
+    "answer": "C",
+    "vi": 7
+   },
+   {
+    "question": "We should __________ our parents and teachers. We should listen to them and be polite.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "recycle"
+     },
+     {
+      "letter": "B",
+      "text": "respect"
+     },
+     {
+      "letter": "C",
+      "text": "repair"
+     },
+     {
+      "letter": "D",
+      "text": "rent"
+     }
+    ],
+    "answer": "B",
     "vi": 8
    },
    {
-    "question": "He is __________ for the project.【負責任的】",
+    "question": "Who is __________ for this mess? Who left all these dirty dishes here?",
     "options": [
      {
       "letter": "A",
@@ -482,11 +482,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "ill"
+      "text": "rare"
      },
      {
       "letter": "C",
-      "text": "fair"
+      "text": "rude"
      },
      {
       "letter": "D",
@@ -497,15 +497,15 @@ window.FLASHCARD_UNITS = {
     "vi": 9
    },
    {
-    "question": "The __________ of the experiment was surprising.【結果，效果】",
+    "question": "He studied very hard. As a __________, he got the highest score in the class.",
     "options": [
      {
       "letter": "A",
-      "text": "roof"
+      "text": "role"
      },
      {
       "letter": "B",
-      "text": "role"
+      "text": "roof"
      },
      {
       "letter": "C",
@@ -513,83 +513,60 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "roller skating"
+      "text": "rubber"
      }
     ],
     "answer": "C",
     "vi": 10
    },
    {
-    "question": "She will __________ from her trip next week.【返回，歸還】",
+    "question": "I have to __________ these books to the library by Friday.",
     "options": [
      {
       "letter": "A",
-      "text": "respect"
-     },
-     {
-      "letter": "B",
       "text": "return"
      },
      {
-      "letter": "C",
-      "text": "revise"
-     },
-     {
-      "letter": "D",
-      "text": "recycle"
-     }
-    ],
-    "answer": "B",
-    "vi": 11
-   },
-   {
-    "question": "The committee will __________ the proposal.【審查，回顧】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "review"
-     },
-     {
       "letter": "B",
-      "text": "repair"
+      "text": "remind"
      },
      {
       "letter": "C",
-      "text": "rise"
+      "text": "regret"
      },
      {
       "letter": "D",
-      "text": "rent"
+      "text": "respect"
      }
     ],
     "answer": "A",
-    "vi": 12
+    "vi": 11
    },
    {
-    "question": "She needs to __________ her essay before submitting it.【修改，修訂】",
+    "question": "Let's __________ Lesson 5 before the test. We need to go over the words again.",
     "options": [
      {
       "letter": "A",
-      "text": "return"
+      "text": "rent"
      },
      {
       "letter": "B",
-      "text": "review"
+      "text": "rob"
      },
      {
       "letter": "C",
-      "text": "revise"
+      "text": "review"
      },
      {
       "letter": "D",
-      "text": "rise"
+      "text": "rub"
      }
     ],
     "answer": "C",
-    "vi": 13
+    "vi": 12
    },
    {
-    "question": "The sun will __________ at 6 AM.【上升，升起】",
+    "question": "Your report has some mistakes. Please __________ it and give it to me again.",
     "options": [
      {
       "letter": "A",
@@ -601,7 +578,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "respect"
+      "text": "rob"
+     },
+     {
+      "letter": "D",
+      "text": "rise"
+     }
+    ],
+    "answer": "B",
+    "vi": 13
+   },
+   {
+    "question": "Prices will __________ next month. A lunch box will go from eighty to ninety dollars.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rob"
+     },
+     {
+      "letter": "B",
+      "text": "rub"
+     },
+     {
+      "letter": "C",
+      "text": "rent"
      },
      {
       "letter": "D",
@@ -612,15 +612,15 @@ window.FLASHCARD_UNITS = {
     "vi": 14
    },
    {
-    "question": "The bank was __________ last night.【搶劫，剝奪】",
+    "question": "Two men with guns __________ the bank yesterday. They took one million dollars.",
     "options": [
      {
       "letter": "A",
-      "text": "refused"
+      "text": "robbed"
      },
      {
       "letter": "B",
-      "text": "robbed"
+      "text": "rented"
      },
      {
       "letter": "C",
@@ -628,37 +628,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "regretted"
-     }
-    ],
-    "answer": "B",
-    "vi": 15
-   },
-   {
-    "question": "She played a leading __________ in the movie.【角色，作用】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "role"
-     },
-     {
-      "letter": "B",
-      "text": "roof"
-     },
-     {
-      "letter": "C",
-      "text": "result"
-     },
-     {
-      "letter": "D",
-      "text": "roller skating"
+      "text": "reviewed"
      }
     ],
     "answer": "A",
-    "vi": 16
+    "vi": 15
    },
    {
-    "question": "She enjoys __________ in the park.【滾軸溜冰鞋】",
+    "question": "The actor played the __________ of a king in the movie.",
     "options": [
      {
       "letter": "A",
@@ -666,7 +643,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "roller skating"
+      "text": "result"
      },
      {
       "letter": "C",
@@ -674,18 +651,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "result"
+      "text": "rubber"
+     }
+    ],
+    "answer": "C",
+    "vi": 16
+   },
+   {
+    "question": "The children enjoy __________ in the park. They wear shoes with small wheels.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "recycling"
+     },
+     {
+      "letter": "B",
+      "text": "roller skating"
+     },
+     {
+      "letter": "C",
+      "text": "repairing"
+     },
+     {
+      "letter": "D",
+      "text": "renting"
      }
     ],
     "answer": "B",
     "vi": 17
    },
    {
-    "question": "They need to repair the __________.【屋頂】",
+    "question": "The cat climbed onto the __________ of the house and couldn't get down.",
     "options": [
      {
       "letter": "A",
-      "text": "result"
+      "text": "roof"
      },
      {
       "letter": "B",
@@ -693,40 +693,40 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "roller skating"
+      "text": "result"
      },
      {
       "letter": "D",
-      "text": "roof"
+      "text": "rubber"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 18
    },
    {
-    "question": "She __________ the stain out of the fabric.【擦，摩擦】",
+    "question": "The little boy was sleepy. He __________ his eyes with his hands.",
     "options": [
      {
       "letter": "A",
-      "text": "regretted"
-     },
-     {
-      "letter": "B",
       "text": "robbed"
      },
      {
+      "letter": "B",
+      "text": "rented"
+     },
+     {
       "letter": "C",
-      "text": "rubbed"
+      "text": "returned"
      },
      {
       "letter": "D",
-      "text": "rejected"
+      "text": "rubbed"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"fair":["treating everyone in the same, right way","公平的，合理的"],"fantastic":["very, very good","極好的，奇異的"],"ill":["sick","生病的"],"recycle":["to use old paper, glass, or plastic again to make new things","回收，再利用"],"refused":["to say no; to say that you will not do something","拒絕，不接受"],"regretted":["to feel sorry about something you did or did not do","後悔，遺憾"],"regular":["happening again and again at the same times","定期的，規則的"],"rejected":["to say no to something that is offered","拒絕，不接受"],"remind":["to help someone remember something","提醒，使想起"],"rent":["to pay money to live in or use something that belongs to someone else","租用，租賃"],"repair":["to fix something that is broken","修理，修補"],"respect":["to think very well of someone","尊敬，尊重"],"responsible":["having the job or duty of taking care of something","負責任的"],"result":["something that happens because of another thing","結果，效果"],"return":["to come back or go back to a place","返回，歸還"],"review":["to look at something again carefully","審查，回顧"],"revise":["to change a piece of writing to make it better","修改，修訂"],"rise":["to go up","上升，升起"],"robbed":["to take money or things from a person or place by force","搶劫，剝奪"],"role":["the part that someone plays in a movie or in a group","角色，作用"],"roof":["the top cover of a building","屋頂"],"rubbed":["to press and move your hand or a cloth back and forth on something","擦，摩擦"],"rude":["not polite","無禮的，粗魯的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"recycle":["to use old paper, glass, or plastic again to make new things","回收，再利用"],"regret":["to feel sorry about something you did or did not do","後悔，遺憾"],"remind":["to help someone remember something","提醒，使想起"],"respect":["to think very well of someone","尊敬，尊重"],"regretted":["to feel sorry about something you did or did not do","後悔，遺憾"],"reminded":["to help someone remember something","提醒，使想起"],"repaired":["to fix something that is broken","修理，修補"],"refused":["to say no; to say that you will not do something","拒絕，不接受"],"repair":["to fix something that is broken","修理，修補"],"rare":["not seen or found very often","稀有的，罕見的"],"responsible":["having the job or duty of taking care of something","負責任的"],"regular":["happening again and again at the same times","定期的，規則的"],"rude":["not polite","無禮的，粗魯的"],"returned":["to come back or go back to a place","返回，歸還"],"rejected":["to say no to something that is offered","拒絕，不接受"],"rent":["to pay money to live in or use something that belongs to someone else","租用，租賃"],"role":["the part that someone plays in a movie or in a group","角色，作用"],"roof":["the top cover of a building","屋頂"],"result":["something that happens because of another thing","結果，效果"],"rubber":["strong material that bends and bounces, used for balls and tires","橡膠，橡皮"],"return":["to come back or go back to a place","返回，歸還"],"rob":["to take money or things from a person or place by force","搶劫，剝奪"],"review":["to look at something again carefully","審查，回顧"],"rub":["to press and move your hand or a cloth back and forth on something","擦，摩擦"],"revise":["to change a piece of writing to make it better","修改，修訂"],"rise":["to go up","上升，升起"],"robbed":["to take money or things from a person or place by force","搶劫，剝奪"],"rented":["to pay money to live in or use something that belongs to someone else","租用，租賃"],"rubbed":["to press and move your hand or a cloth back and forth on something","擦，摩擦"],"reviewed":["to look at something again carefully","審查，回顧"],"recycling":["to use old paper, glass, or plastic again to make new things","回收，再利用"],"repairing":["to fix something that is broken","修理，修補"],"renting":["to pay money to live in or use something that belongs to someone else","租用，租賃"]});

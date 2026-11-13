@@ -170,215 +170,215 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "The ______ went out during the storm.【力量，電力】",
+    "q": "The storm cut off the ______. We had no lights for two days.",
     "options": [
+      "powder",
+      "pressure",
       "power",
-      "priest",
-      "printer",
-      "pressure"
+      "progress"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "暴風雨期間停電了。",
     "vocabIndex": 0
   },
   {
-    "q": "She added cocoa ______ to the recipe.【粉末】",
+    "q": "Mix the milk ______ with warm water for the baby.",
     "options": [
-      "pressure",
       "power",
-      "professor",
-      "powder"
+      "powder",
+      "pressure",
+      "progress"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "她在食譜裡加了可可粉。",
     "vocabIndex": 1
   },
   {
-    "q": "The teacher ______ the students for their hard work.【讚美，表揚】",
+    "q": "The teacher ______ Amy for her good work. She said, \"Well done!\"",
     "options": [
-      "produces",
       "praised",
-      "print",
-      "dialed"
+      "printed",
+      "produced",
+      "punished"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "老師表揚了學生們的努力。",
     "vocabIndex": 2
   },
   {
-    "q": "This ring is very ______ to her.【珍貴的，寶貴的】",
+    "q": "Time is ______. Don't waste it.",
     "options": [
-      "primary",
       "private",
-      "precious",
-      "careless"
+      "primary",
+      "plain",
+      "precious"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "這枚戒指對她來說非常珍貴。",
     "vocabIndex": 3
   },
   {
-    "q": "The ______ gave a speech at the ceremony.【總統，主席】",
+    "q": "The ______ of the U.S.A. lives in the White House.",
     "options": [
-      "power",
+      "priest",
       "prince",
-      "project",
-      "president"
+      "president",
+      "professor"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "總統在儀式上發表了演講。",
     "vocabIndex": 4
   },
   {
-    "q": "She felt a lot of ______ to succeed.【壓力，壓迫】",
+    "q": "Students are under a lot of ______ before big exams. They worry and can't sleep.",
     "options": [
-      "priest",
-      "pressure",
-      "production",
-      "principal"
+      "powder",
+      "progress",
+      "project",
+      "pressure"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她感到很大的成功壓力。",
     "vocabIndex": 5
   },
   {
-    "q": "The ______ led the congregation in prayer.【神父，牧師】",
+    "q": "The ______ spoke to the people in the church on Sunday morning.",
     "options": [
-      "powder",
-      "principal",
       "priest",
-      "production"
+      "prince",
+      "printer",
+      "professor"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "神父帶領會眾祈禱。",
     "vocabIndex": 6
   },
   {
-    "q": "Her ______ concern is her child's safety.【主要的，初級的】",
+    "q": "My ______ goal this year is to pass the exam. Nothing is more important.",
     "options": [
-      "primary",
       "private",
+      "primary",
       "precious",
-      "intelligent"
+      "plain"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "她主要關心的是孩子的安全。",
     "vocabIndex": 7
   },
   {
-    "q": "The ______ will inherit the throne.【王子】",
+    "q": "The king's son is the ______. He will be the king one day.",
     "options": [
-      "production",
-      "power",
+      "princess",
+      "priest",
       "prince",
-      "project"
+      "president"
     ],
     "answer": 2,
     "cn": "王子將繼承王位。",
     "vocabIndex": 8
   },
   {
-    "q": "The ______ wore a beautiful gown.【公主】",
+    "q": "The king's daughter is the ______. She lives in the castle.",
     "options": [
-      "principles",
-      "princess",
-      "progress",
-      "priest"
+      "prince",
+      "priest",
+      "professor",
+      "princess"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "公主穿著美麗的禮服。",
     "vocabIndex": 9
   },
   {
-    "q": "The ______ of the school is very strict.【校長】",
+    "q": "The ______ of our school gave a speech to all the teachers and students.",
     "options": [
+      "principle",
       "principal",
-      "professor",
-      "president",
+      "printer",
       "project"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "學校的校長非常嚴格。",
     "vocabIndex": 10
   },
   {
-    "q": "He lives by strong moral ______.【原則，信條】",
+    "q": "He is a man of strong ______. He never lies or cheats.",
     "options": [
-      "princess",
-      "progress",
-      "professor",
-      "principles"
+      "principles",
+      "printers",
+      "projects",
+      "powders"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他遵循強烈的道德原則生活。",
     "vocabIndex": 11
   },
   {
-    "q": "She needs to ______ the documents.【打印，印刷】",
+    "q": "Please ______ ten copies of this report for the meeting.",
     "options": [
-      "produces",
-      "praised",
+      "praise",
       "print",
-      "hug"
+      "produce",
+      "punish"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她需要打印文件。",
     "vocabIndex": 12
   },
   {
-    "q": "The ______ is out of ink.【印表機】",
+    "q": "The ______ is out of paper, so I can't print my homework.",
     "options": [
-      "printer",
-      "project",
-      "pressure",
-      "production"
+      "principal",
+      "priest",
+      "president",
+      "printer"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "印表機沒墨水了。",
     "vocabIndex": 13
   },
   {
-    "q": "They had a ______ conversation.【私人的，私密的】",
+    "q": "This is a ______ room. Only family members can come in.",
     "options": [
+      "precious",
       "primary",
       "private",
-      "precious",
-      "greedy"
+      "positive"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "他們進行了一次私密的對話。",
     "vocabIndex": 14
   },
   {
-    "q": "The factory ______ thousands of cars each year.【生產，製造】",
+    "q": "This factory ______ five hundred cars a day.",
     "options": [
-      "praised",
-      "print",
-      "includes",
-      "produces"
+      "produces",
+      "praises",
+      "prints",
+      "punishes"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "工廠每年生產數千輛汽車。",
     "vocabIndex": 15
   },
   {
-    "q": "The film is currently in ______.【生產，製作】",
+    "q": "The ______ of the new phone will begin next month. The factory is ready.",
     "options": [
-      "professor",
-      "printer",
+      "pressure",
+      "powder",
       "production",
-      "power"
+      "principal"
     ],
     "answer": 2,
     "cn": "這部電影目前正在製作中。",
     "vocabIndex": 16
   },
   {
-    "q": "She is a ______ of biology.【教授】",
+    "q": "Dr. Lin is a ______ at National Taiwan University. He teaches physics there.",
     "options": [
       "priest",
+      "prince",
       "printer",
-      "powder",
       "professor"
     ],
     "answer": 3,
@@ -386,24 +386,24 @@ const MCQS = [
     "vocabIndex": 17
   },
   {
-    "q": "The project is making good ______.【進步，進展】",
+    "q": "Amy is making good ______ in English. Her grades are getting better.",
     "options": [
-      "principles",
+      "powder",
       "progress",
-      "princess",
-      "principal"
+      "pressure",
+      "power"
     ],
     "answer": 1,
     "cn": "專案進展順利。",
     "vocabIndex": 18
   },
   {
-    "q": "They are working on a new ______.【專案，計劃】",
+    "q": "Our group is working on a science ______ about plants. We must finish it by Friday.",
     "options": [
       "project",
-      "president",
-      "power",
-      "printer"
+      "powder",
+      "pressure",
+      "prince"
     ],
     "answer": 0,
     "cn": "他們正在進行一個新專案。",
@@ -412,85 +412,105 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "careless": {
-    "pos": "adj.",
-    "en_def": "not thinking about what you are doing, so you make mistakes",
-    "cn_def": "粗心的"
-  },
-  "dialed": {
-    "pos": "v.",
-    "en_def": "to press the numbers on a phone to call someone",
-    "cn_def": "撥號"
-  },
-  "greedy": {
-    "pos": "adj.",
-    "en_def": "wanting more money or food than you need",
-    "cn_def": "貪婪的"
-  },
-  "hug": {
-    "pos": "v.",
-    "en_def": "holding someone in your arms to show love",
-    "cn_def": "擁抱"
-  },
-  "includes": {
-    "pos": "v.",
-    "en_def": "to have something as one of its parts",
-    "cn_def": "包含"
-  },
-  "intelligent": {
-    "pos": "adj.",
-    "en_def": "smart; able to learn and understand quickly",
-    "cn_def": "聰明的，智慧的"
-  },
-  "power": {
-    "pos": "n.",
-    "en_def": "electricity",
-    "cn_def": "力量，電力"
-  },
   "powder": {
     "pos": "n.",
     "en_def": "something dry in very small pieces, like flour",
     "cn_def": "粉末"
-  },
-  "praised": {
-    "pos": "v.",
-    "en_def": "to say good things about someone or something",
-    "cn_def": "讚美，表揚"
-  },
-  "precious": {
-    "pos": "adj.",
-    "en_def": "very special and important to you; worth a lot",
-    "cn_def": "珍貴的，寶貴的"
-  },
-  "president": {
-    "pos": "n.",
-    "en_def": "the leader of a country or a company",
-    "cn_def": "總統，主席"
   },
   "pressure": {
     "pos": "n.",
     "en_def": "a feeling of worry because you must do a lot or do well",
     "cn_def": "壓力，壓迫"
   },
-  "priest": {
+  "power": {
     "pos": "n.",
-    "en_def": "a person who leads people in prayer in a church",
-    "cn_def": "神父，牧師"
+    "en_def": "electricity",
+    "cn_def": "力量，電力"
+  },
+  "progress": {
+    "pos": "n.",
+    "en_def": "getting better or moving forward",
+    "cn_def": "進步，進展"
+  },
+  "praised": {
+    "pos": "v.",
+    "en_def": "to say good things about someone or something",
+    "cn_def": "讚美，表揚"
+  },
+  "printed": {
+    "pos": "v.",
+    "en_def": "to put words or pictures on paper with a machine",
+    "cn_def": "打印，印刷"
+  },
+  "produced": {
+    "pos": "v.",
+    "en_def": "to make or grow something",
+    "cn_def": "生產，製造"
+  },
+  "punished": {
+    "pos": "v.",
+    "en_def": "to make someone suffer because they did something wrong",
+    "cn_def": "懲罰，處罰"
+  },
+  "private": {
+    "pos": "adj.",
+    "en_def": "only for one person or a small group; not public",
+    "cn_def": "私人的，私密的"
   },
   "primary": {
     "pos": "adj.",
     "en_def": "main; most important",
     "cn_def": "主要的，初級的"
   },
+  "plain": {
+    "pos": "adj.",
+    "en_def": "simple, with no pattern or decoration",
+    "cn_def": "樸素的，平凡的"
+  },
+  "precious": {
+    "pos": "adj.",
+    "en_def": "very special and important to you; worth a lot",
+    "cn_def": "珍貴的，寶貴的"
+  },
+  "priest": {
+    "pos": "n.",
+    "en_def": "a person who leads people in prayer in a church",
+    "cn_def": "神父，牧師"
+  },
   "prince": {
     "pos": "n.",
     "en_def": "the son of a king or queen",
     "cn_def": "王子"
   },
+  "president": {
+    "pos": "n.",
+    "en_def": "the leader of a country or a company",
+    "cn_def": "總統，主席"
+  },
+  "professor": {
+    "pos": "n.",
+    "en_def": "a teacher at a university",
+    "cn_def": "教授"
+  },
+  "project": {
+    "pos": "n.",
+    "en_def": "a big piece of work that is planned carefully",
+    "cn_def": "專案，計劃"
+  },
+  "printer": {
+    "pos": "n.",
+    "en_def": "a machine that puts words and pictures from a computer on paper",
+    "cn_def": "印表機"
+  },
   "princess": {
     "pos": "n.",
     "en_def": "the daughter of a king or queen",
     "cn_def": "公主"
+  },
+  "principle": {
+    "pos": "n.",
+    "en_def": "a rule or idea about what is right that you live by",
+    "cn_def": "原則，信條"
   },
   "principal": {
     "pos": "n.",
@@ -502,45 +522,70 @@ const LOOKUP = {
     "en_def": "a rule or idea about what is right that you live by",
     "cn_def": "原則，信條"
   },
+  "printers": {
+    "pos": "n.",
+    "en_def": "a machine that puts words and pictures from a computer on paper",
+    "cn_def": "印表機"
+  },
+  "projects": {
+    "pos": "n.",
+    "en_def": "a big piece of work that is planned carefully",
+    "cn_def": "專案，計劃"
+  },
+  "powders": {
+    "pos": "n.",
+    "en_def": "something dry in very small pieces, like flour",
+    "cn_def": "粉末"
+  },
+  "praise": {
+    "pos": "v.",
+    "en_def": "to say good things about someone or something",
+    "cn_def": "讚美，表揚"
+  },
   "print": {
     "pos": "v.",
     "en_def": "to put words or pictures on paper with a machine",
     "cn_def": "打印，印刷"
   },
-  "printer": {
-    "pos": "n.",
-    "en_def": "a machine that puts words and pictures from a computer on paper",
-    "cn_def": "印表機"
+  "produce": {
+    "pos": "v.",
+    "en_def": "to make or grow something",
+    "cn_def": "生產，製造"
   },
-  "private": {
+  "punish": {
+    "pos": "v.",
+    "en_def": "to make someone suffer because they did something wrong",
+    "cn_def": "懲罰，處罰"
+  },
+  "positive": {
     "pos": "adj.",
-    "en_def": "only for one person or a small group; not public",
-    "cn_def": "私人的，私密的"
+    "en_def": "thinking about the good side of things",
+    "cn_def": "積極的，正面的"
   },
   "produces": {
     "pos": "v.",
     "en_def": "to make or grow something",
     "cn_def": "生產，製造"
   },
+  "praises": {
+    "pos": "v.",
+    "en_def": "to say good things about someone or something",
+    "cn_def": "讚美，表揚"
+  },
+  "prints": {
+    "pos": "v.",
+    "en_def": "to put words or pictures on paper with a machine",
+    "cn_def": "打印，印刷"
+  },
+  "punishes": {
+    "pos": "v.",
+    "en_def": "to make someone suffer because they did something wrong",
+    "cn_def": "懲罰，處罰"
+  },
   "production": {
     "pos": "n.",
     "en_def": "the work of making something, like cars or a film",
     "cn_def": "生產，製作"
-  },
-  "professor": {
-    "pos": "n.",
-    "en_def": "a teacher at a university",
-    "cn_def": "教授"
-  },
-  "progress": {
-    "pos": "n.",
-    "en_def": "getting better or moving forward",
-    "cn_def": "進步，進展"
-  },
-  "project": {
-    "pos": "n.",
-    "en_def": "a big piece of work that is planned carefully",
-    "cn_def": "專案，計劃"
   }
 };
 

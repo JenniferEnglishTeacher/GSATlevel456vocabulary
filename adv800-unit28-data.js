@@ -170,59 +170,59 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "She made a ______ to help him.【承諾，保證】",
+    "q": "I made a ______ to my mom that I would come home before ten. I must keep it.",
     "options": [
-      "purpose",
-      "puzzle",
-      "record",
-      "promise"
+      "pump",
+      "purse",
+      "promise",
+      "puzzle"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "她承諾幫助他。",
     "vocabIndex": 0
   },
   {
-    "q": "Can you ______ this word correctly?【發音，宣佈】",
+    "q": "How do you ______ this word? I can't say it correctly.",
     "options": [
-      "provide",
-      "realize",
+      "protect",
       "pronounce",
-      "protect"
+      "provide",
+      "punish"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你能正確發音這個詞嗎？",
     "vocabIndex": 1
   },
   {
-    "q": "The laws are designed to ______ the environment.【保護，防護】",
+    "q": "Wear a hat to ______ your head from the strong sun.",
     "options": [
-      "protect",
-      "realize",
+      "pronounce",
       "provide",
-      "recover"
+      "quit",
+      "protect"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "法律旨在保護環境。",
     "vocabIndex": 2
   },
   {
-    "q": "The school will ______ all the necessary materials.【提供，供給】",
+    "q": "The school will ______ lunch for all the students on the trip. They don't need to bring food.",
     "options": [
-      "protect",
       "provide",
+      "protect",
       "pronounce",
-      "recover"
+      "punish"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "學校將提供所有必要的材料。",
     "vocabIndex": 3
   },
   {
-    "q": "The water ______ is broken.【泵，打氣筒】",
+    "q": "My bike tires are flat. I need a ______ to put air into them.",
     "options": [
-      "railroad",
-      "purpose",
-      "raincoat",
+      "purse",
+      "puzzle",
+      "promise",
       "pump"
     ],
     "answer": 3,
@@ -230,71 +230,71 @@ const MCQS = [
     "vocabIndex": 4
   },
   {
-    "q": "He was ______ for breaking the rules.【懲罰，處罰】",
+    "q": "The teacher ______ Tom for cheating on the test. He had to stay after school for a week.",
     "options": [
+      "protected",
       "punished",
-      "received",
-      "quit",
-      "recover"
+      "provided",
+      "pronounced"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "他因違反規定而受到懲罰。",
     "vocabIndex": 5
   },
   {
-    "q": "The main ______ of the meeting is to discuss the budget.【目的，意圖】",
+    "q": "The ______ of this meeting is to plan the school trip. That is why we are all here.",
     "options": [
-      "railway",
-      "record",
       "purpose",
-      "pump"
+      "purse",
+      "pump",
+      "puzzle"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "會議的主要目的是討論預算。",
     "vocabIndex": 6
   },
   {
-    "q": "She keeps her keys in her ______.【錢包，手提包】",
+    "q": "She took some money out of her ______ and paid for the dress.",
     "options": [
+      "pump",
       "puzzle",
       "purse",
-      "record",
-      "raincoat"
+      "promise"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "她把鑰匙放在手提包裡。",
     "vocabIndex": 7
   },
   {
-    "q": "They enjoyed solving the ______.【拼圖，謎題】",
+    "q": "This ______ has one thousand pieces. It took me three days to put them all together.",
     "options": [
-      "puzzle",
-      "rectangle",
       "purse",
-      "record"
+      "puzzle",
+      "pump",
+      "promise"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "他們喜歡解謎題。",
     "vocabIndex": 8
   },
   {
-    "q": "He decided to ______ his job.【辭職，放棄】",
+    "q": "My father wants to ______ smoking. He knows it is bad for his health.",
     "options": [
-      "recover",
       "quit",
+      "protect",
       "provide",
-      "protect"
+      "pronounce"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "他決定辭職。",
     "vocabIndex": 9
   },
   {
-    "q": "The train travels along the ______.【鐵路】",
+    "q": "The children must not play on the ______. A train may come at any time.",
     "options": [
-      "pump",
-      "purse",
-      "promise",
+      "raincoat",
+      "rectangle",
+      "record",
       "railroad"
     ],
     "answer": 3,
@@ -302,10 +302,10 @@ const MCQS = [
     "vocabIndex": 10
   },
   {
-    "q": "They built a new ______.【鐵路，鐵道】",
+    "q": "They are building a new ______ between the two cities. Trains will run on it next year.",
     "options": [
-      "record",
-      "railroad",
+      "raincoat",
+      "rectangle",
       "railway",
       "purse"
     ],
@@ -314,178 +314,188 @@ const MCQS = [
     "vocabIndex": 11
   },
   {
-    "q": "She wore a ______ because it was raining.【雨衣】",
+    "q": "It is raining hard. Put on your ______ before you ride your bike to school.",
     "options": [
-      "raincoat",
-      "puzzle",
-      "railroad",
-      "promise"
+      "record",
+      "rectangle",
+      "railway",
+      "raincoat"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "因為下雨，她穿了一件雨衣。",
     "vocabIndex": 12
   },
   {
-    "q": "This species of bird is very ______.【稀有的，罕見的】",
+    "q": "Pandas are ______ animals. There are only about two thousand of them in the wild.",
     "options": [
-      "natural",
+      "regular",
       "rare",
-      "central",
-      "pale"
+      "responsible",
+      "rude"
     ],
     "answer": 1,
     "cn": "這種鳥類非常罕見。",
     "vocabIndex": 13
   },
   {
-    "q": "I would ______ stay home than go out.【寧願，倒不如說】",
+    "q": "I don't want to go out tonight. I would ______ stay home and read.",
     "options": [
+      "rather",
       "hardly",
-      "backward",
-      "therefore",
-      "rather"
+      "nearly",
+      "especially"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "我寧願待在家裡也不願出去。",
     "vocabIndex": 14
   },
   {
-    "q": "She didn't ______ the danger she was in.【意識到，實現】",
+    "q": "I didn't ______ it was so late. I thought it was only eight o'clock.",
     "options": [
-      "provide",
-      "pronounce",
+      "receive",
+      "recover",
       "realize",
-      "quit"
+      "recycle"
     ],
     "answer": 2,
     "cn": "她沒有意識到自己所處的危險。",
     "vocabIndex": 15
   },
   {
-    "q": "She ______ a gift from her friend.【收到，接受】",
+    "q": "I ______ a birthday card from my friend in the mail yesterday.",
     "options": [
-      "punished",
       "received",
-      "recover",
-      "protect"
+      "realized",
+      "recovered",
+      "recycled"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "她收到了一份來自朋友的禮物。",
     "vocabIndex": 16
   },
   {
-    "q": "She keeps a ______ of all her expenses.【記錄，唱片】",
+    "q": "The teacher keeps a ______ of every student's test scores in her notebook.",
     "options": [
-      "purpose",
+      "raincoat",
+      "rectangle",
       "purse",
-      "record",
-      "rectangle"
+      "record"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她記錄所有的開支。",
     "vocabIndex": 17
   },
   {
-    "q": "He is expected to ______ from his illness soon.【恢復，痊癒】",
+    "q": "It took Grandpa two months to ______ from his illness. He is healthy again now.",
     "options": [
+      "receive",
       "recover",
-      "provide",
-      "protect",
-      "quit"
+      "realize",
+      "recycle"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "他預計很快會從疾病中康復。",
     "vocabIndex": 18
   },
   {
-    "q": "She drew a ______ on the paper.【長方形】",
+    "q": "A door has the shape of a ______. It has two long sides and two short sides.",
     "options": [
       "record",
-      "purpose",
-      "promise",
-      "rectangle"
+      "raincoat",
+      "rectangle",
+      "railroad"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "她在紙上畫了一個長方形。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "backward": {
-    "pos": "adv.",
-    "en_def": "toward the back",
-    "cn_def": "向後地"
-  },
-  "central": {
-    "pos": "adj.",
-    "en_def": "in the middle; for the whole building",
-    "cn_def": "中央的，核心的"
-  },
-  "hardly": {
-    "pos": "adv.",
-    "en_def": "almost not",
-    "cn_def": "幾乎不，勉強地"
-  },
-  "natural": {
-    "pos": "adj.",
-    "en_def": "from nature; not made by people",
-    "cn_def": "自然的，天然的"
-  },
-  "pale": {
-    "pos": "adj.",
-    "en_def": "having a light or white face, often because you are sick",
-    "cn_def": "蒼白的，淡色的"
-  },
-  "promise": {
-    "pos": "n.",
-    "en_def": "words that say you will surely do something",
-    "cn_def": "承諾，保證"
-  },
-  "pronounce": {
-    "pos": "v.",
-    "en_def": "to make the sound of a word or letter",
-    "cn_def": "發音，宣佈"
-  },
-  "protect": {
-    "pos": "v.",
-    "en_def": "to keep someone or something safe",
-    "cn_def": "保護，防護"
-  },
-  "provide": {
-    "pos": "v.",
-    "en_def": "to give someone what they need",
-    "cn_def": "提供，供給"
-  },
   "pump": {
     "pos": "n.",
     "en_def": "a machine that moves water, air, or gas",
     "cn_def": "泵，打氣筒"
-  },
-  "punished": {
-    "pos": "v.",
-    "en_def": "to make someone suffer because they did something wrong",
-    "cn_def": "懲罰，處罰"
-  },
-  "purpose": {
-    "pos": "n.",
-    "en_def": "the reason for doing something",
-    "cn_def": "目的，意圖"
   },
   "purse": {
     "pos": "n.",
     "en_def": "a small bag in which a woman carries money and keys",
     "cn_def": "錢包，手提包"
   },
+  "promise": {
+    "pos": "n.",
+    "en_def": "words that say you will surely do something",
+    "cn_def": "承諾，保證"
+  },
   "puzzle": {
     "pos": "n.",
     "en_def": "a game or question that is hard to work out",
     "cn_def": "拼圖，謎題"
   },
+  "protect": {
+    "pos": "v.",
+    "en_def": "to keep someone or something safe",
+    "cn_def": "保護，防護"
+  },
+  "pronounce": {
+    "pos": "v.",
+    "en_def": "to make the sound of a word or letter",
+    "cn_def": "發音，宣佈"
+  },
+  "provide": {
+    "pos": "v.",
+    "en_def": "to give someone what they need",
+    "cn_def": "提供，供給"
+  },
+  "punish": {
+    "pos": "v.",
+    "en_def": "to make someone suffer because they did something wrong",
+    "cn_def": "懲罰，處罰"
+  },
   "quit": {
     "pos": "v.",
     "en_def": "to leave a job or stop doing something",
     "cn_def": "辭職，放棄"
+  },
+  "protected": {
+    "pos": "v.",
+    "en_def": "to keep someone or something safe",
+    "cn_def": "保護，防護"
+  },
+  "punished": {
+    "pos": "v.",
+    "en_def": "to make someone suffer because they did something wrong",
+    "cn_def": "懲罰，處罰"
+  },
+  "provided": {
+    "pos": "v.",
+    "en_def": "to give someone what they need",
+    "cn_def": "提供，供給"
+  },
+  "pronounced": {
+    "pos": "v.",
+    "en_def": "to make the sound of a word or letter",
+    "cn_def": "發音，宣佈"
+  },
+  "purpose": {
+    "pos": "n.",
+    "en_def": "the reason for doing something",
+    "cn_def": "目的，意圖"
+  },
+  "raincoat": {
+    "pos": "n.",
+    "en_def": "a coat that keeps you dry in the rain",
+    "cn_def": "雨衣"
+  },
+  "rectangle": {
+    "pos": "n.",
+    "en_def": "a shape with four straight sides, two long and two short",
+    "cn_def": "長方形"
+  },
+  "record": {
+    "pos": "n.",
+    "en_def": "written information that is kept so people can look at it later",
+    "cn_def": "記錄，唱片"
   },
   "railroad": {
     "pos": "n.",
@@ -497,50 +507,85 @@ const LOOKUP = {
     "en_def": "the metal tracks that trains run on",
     "cn_def": "鐵路，鐵道"
   },
-  "raincoat": {
-    "pos": "n.",
-    "en_def": "a coat that keeps you dry in the rain",
-    "cn_def": "雨衣"
+  "regular": {
+    "pos": "adj.",
+    "en_def": "happening again and again at the same times",
+    "cn_def": "定期的，規則的"
   },
   "rare": {
     "pos": "adj.",
     "en_def": "not seen or found very often",
     "cn_def": "稀有的，罕見的"
   },
+  "responsible": {
+    "pos": "adj.",
+    "en_def": "having the job or duty of taking care of something",
+    "cn_def": "負責任的"
+  },
+  "rude": {
+    "pos": "adj.",
+    "en_def": "not polite",
+    "cn_def": "無禮的，粗魯的"
+  },
   "rather": {
     "pos": "adv.",
     "en_def": "more willingly (used with \"would\")",
     "cn_def": "寧願，倒不如說"
   },
-  "realize": {
-    "pos": "v.",
-    "en_def": "to suddenly know or understand something",
-    "cn_def": "意識到，實現"
+  "hardly": {
+    "pos": "adv.",
+    "en_def": "almost not",
+    "cn_def": "幾乎不，勉強地"
   },
-  "received": {
+  "nearly": {
+    "pos": "adv.",
+    "en_def": "almost",
+    "cn_def": "幾乎，差不多"
+  },
+  "especially": {
+    "pos": "adv.",
+    "en_def": "more than others; more than usual",
+    "cn_def": "特別地，尤其"
+  },
+  "receive": {
     "pos": "v.",
     "en_def": "to get something that someone gives or sends you",
     "cn_def": "收到，接受"
-  },
-  "record": {
-    "pos": "n.",
-    "en_def": "written information that is kept so people can look at it later",
-    "cn_def": "記錄，唱片"
   },
   "recover": {
     "pos": "v.",
     "en_def": "to get well again after being sick",
     "cn_def": "恢復，痊癒"
   },
-  "rectangle": {
-    "pos": "n.",
-    "en_def": "a shape with four straight sides, two long and two short",
-    "cn_def": "長方形"
+  "realize": {
+    "pos": "v.",
+    "en_def": "to suddenly know or understand something",
+    "cn_def": "意識到，實現"
   },
-  "therefore": {
-    "pos": "adv.",
-    "en_def": "so; for that reason",
-    "cn_def": "因此，所以"
+  "recycle": {
+    "pos": "v.",
+    "en_def": "to use old paper, glass, or plastic again to make new things",
+    "cn_def": "回收，再利用"
+  },
+  "received": {
+    "pos": "v.",
+    "en_def": "to get something that someone gives or sends you",
+    "cn_def": "收到，接受"
+  },
+  "realized": {
+    "pos": "v.",
+    "en_def": "to suddenly know or understand something",
+    "cn_def": "意識到，實現"
+  },
+  "recovered": {
+    "pos": "v.",
+    "en_def": "to get well again after being sick",
+    "cn_def": "恢復，痊癒"
+  },
+  "recycled": {
+    "pos": "v.",
+    "en_def": "to use old paper, glass, or plastic again to make new things",
+    "cn_def": "回收，再利用"
   }
 };
 

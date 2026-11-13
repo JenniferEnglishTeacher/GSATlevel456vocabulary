@@ -267,11 +267,103 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "He visited his __________.【叔叔，舅舅】",
+    "question": "My mother's brother is my __________.",
     "options": [
      {
       "letter": "A",
+      "text": "uniform"
+     },
+     {
+      "letter": "B",
+      "text": "universe"
+     },
+     {
+      "letter": "C",
+      "text": "visitor"
+     },
+     {
+      "letter": "D",
       "text": "uncle"
+     }
+    ],
+    "answer": "D",
+    "vi": 0
+   },
+   {
+    "question": "Please __________ the important words in the sentence with your pen.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "vote"
+     },
+     {
+      "letter": "B",
+      "text": "wake"
+     },
+     {
+      "letter": "C",
+      "text": "underline"
+     },
+     {
+      "letter": "D",
+      "text": "wave"
+     }
+    ],
+    "answer": "C",
+    "vi": 1
+   },
+   {
+    "question": "You wear __________ under your pants and shirt.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "uniform"
+     },
+     {
+      "letter": "B",
+      "text": "underwear"
+     },
+     {
+      "letter": "C",
+      "text": "vacuum"
+     },
+     {
+      "letter": "D",
+      "text": "vase"
+     }
+    ],
+    "answer": "B",
+    "vi": 2
+   },
+   {
+    "question": "The boy looks __________. I think he lost his toy.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "unhappy"
+     },
+     {
+      "letter": "B",
+      "text": "useful"
+     },
+     {
+      "letter": "C",
+      "text": "usual"
+     },
+     {
+      "letter": "D",
+      "text": "various"
+     }
+    ],
+    "answer": "A",
+    "vi": 3
+   },
+   {
+    "question": "All the students at this school wear a white and blue __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "universe"
      },
      {
       "letter": "B",
@@ -279,99 +371,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "universe"
-     },
-     {
-      "letter": "D",
-      "text": "village"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "She __________ the important words.【在...下面劃線，強調】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "divided"
-     },
-     {
-      "letter": "B",
-      "text": "underlined"
-     },
-     {
-      "letter": "C",
-      "text": "succeed"
-     },
-     {
-      "letter": "D",
-      "text": "wrapped"
-     }
-    ],
-    "answer": "B",
-    "vi": 1
-   },
-   {
-    "question": "She bought new __________.【內衣，底褲】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "universe"
-     },
-     {
-      "letter": "B",
-      "text": "vase"
-     },
-     {
-      "letter": "C",
-      "text": "vacation"
-     },
-     {
-      "letter": "D",
-      "text": "underwear"
-     }
-    ],
-    "answer": "D",
-    "vi": 2
-   },
-   {
-    "question": "He is __________ with his job.【不快樂的，不滿意的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "useful"
-     },
-     {
-      "letter": "B",
-      "text": "violent"
-     },
-     {
-      "letter": "C",
-      "text": "unhappy"
-     },
-     {
-      "letter": "D",
-      "text": "usual"
-     }
-    ],
-    "answer": "C",
-    "vi": 3
-   },
-   {
-    "question": "She wears a __________ to school.【制服】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "uncle"
-     },
-     {
-      "letter": "B",
-      "text": "value"
-     },
-     {
-      "letter": "C",
-      "text": "underwear"
+      "text": "valley"
      },
      {
       "letter": "D",
@@ -382,30 +382,30 @@ window.FLASHCARD_UNITS = {
     "vi": 4
    },
    {
-    "question": "The __________ is vast and mysterious.【宇宙，天地】",
+    "question": "There are billions of stars in the __________. The earth is only a very small part of it.",
     "options": [
      {
       "letter": "A",
-      "text": "vacuum"
+      "text": "uniform"
      },
      {
       "letter": "B",
-      "text": "universe"
-     },
-     {
-      "letter": "C",
       "text": "valley"
      },
      {
+      "letter": "C",
+      "text": "universe"
+     },
+     {
       "letter": "D",
-      "text": "value"
+      "text": "village"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 5
    },
    {
-    "question": "She __________ live in New York.【曾經，習慣於】",
+    "question": "I __________ live in Tainan, but now I live in Taipei.",
     "options": [
      {
       "letter": "A",
@@ -413,22 +413,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "toffee"
-     },
-     {
-      "letter": "C",
       "text": "used to"
      },
      {
+      "letter": "C",
+      "text": "have to"
+     },
+     {
       "letter": "D",
-      "text": "male"
+      "text": "want to"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 6
    },
    {
-    "question": "This tool is very __________.【有用的，有幫助的】",
+    "question": "A cellphone is very __________. You can use it to call people, take photos, and find information.",
     "options": [
      {
       "letter": "A",
@@ -451,126 +451,11 @@ window.FLASHCARD_UNITS = {
     "vi": 7
    },
    {
-    "question": "She arrived at the __________ time.【通常的，平常的】",
+    "question": "I got up at six, as __________. I do that every day.",
     "options": [
      {
       "letter": "A",
-      "text": "unhappy"
-     },
-     {
-      "letter": "B",
-      "text": "usual"
-     },
-     {
-      "letter": "C",
-      "text": "violent"
-     },
-     {
-      "letter": "D",
       "text": "useful"
-     }
-    ],
-    "answer": "B",
-    "vi": 8
-   },
-   {
-    "question": "They went on a family __________.【假期，休假】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "underwear"
-     },
-     {
-      "letter": "B",
-      "text": "village"
-     },
-     {
-      "letter": "C",
-      "text": "vacation"
-     },
-     {
-      "letter": "D",
-      "text": "vase"
-     }
-    ],
-    "answer": "C",
-    "vi": 9
-   },
-   {
-    "question": "She used a __________ to clean the carpet.【真空，吸塵器】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "village"
-     },
-     {
-      "letter": "B",
-      "text": "vase"
-     },
-     {
-      "letter": "C",
-      "text": "value"
-     },
-     {
-      "letter": "D",
-      "text": "vacuum"
-     }
-    ],
-    "answer": "D",
-    "vi": 10
-   },
-   {
-    "question": "They hiked through the __________.【山谷，溪谷】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "valley"
-     },
-     {
-      "letter": "B",
-      "text": "underwear"
-     },
-     {
-      "letter": "C",
-      "text": "uniform"
-     },
-     {
-      "letter": "D",
-      "text": "village"
-     }
-    ],
-    "answer": "A",
-    "vi": 11
-   },
-   {
-    "question": "She placed a high __________ on honesty.【價值，重要性】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "universe"
-     },
-     {
-      "letter": "B",
-      "text": "vacuum"
-     },
-     {
-      "letter": "C",
-      "text": "underwear"
-     },
-     {
-      "letter": "D",
-      "text": "value"
-     }
-    ],
-    "answer": "D",
-    "vi": 12
-   },
-   {
-    "question": "The store sells __________ types of bread.【各種各樣的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "unhappy"
      },
      {
       "letter": "B",
@@ -585,11 +470,11 @@ window.FLASHCARD_UNITS = {
       "text": "usual"
      }
     ],
-    "answer": "B",
-    "vi": 13
+    "answer": "D",
+    "vi": 8
    },
    {
-    "question": "She arranged flowers in the __________.【花瓶】",
+    "question": "We are going to Japan for our summer __________. We will stay there for a week.",
     "options": [
      {
       "letter": "A",
@@ -597,57 +482,57 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "vehicle"
-     },
-     {
-      "letter": "C",
-      "text": "vase"
-     },
-     {
-      "letter": "D",
-      "text": "universe"
-     }
-    ],
-    "answer": "C",
-    "vi": 14
-   },
-   {
-    "question": "She grows her own __________.【蔬菜】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "vegetables"
-     },
-     {
-      "letter": "B",
-      "text": "visitors"
-     },
-     {
-      "letter": "C",
       "text": "vacuum"
      },
      {
-      "letter": "D",
-      "text": "uniform"
-     }
-    ],
-    "answer": "A",
-    "vi": 15
-   },
-   {
-    "question": "They bought a new __________.【車輛，交通工具】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "universe"
-     },
-     {
-      "letter": "B",
+      "letter": "C",
       "text": "valley"
      },
      {
+      "letter": "D",
+      "text": "value"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "The floor is dirty. Use the __________ to clean it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "vase"
+     },
+     {
+      "letter": "B",
+      "text": "vacuum"
+     },
+     {
       "letter": "C",
+      "text": "valley"
+     },
+     {
+      "letter": "D",
       "text": "vehicle"
+     }
+    ],
+    "answer": "B",
+    "vi": 10
+   },
+   {
+    "question": "The village is in a __________ between two high mountains.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "vase"
+     },
+     {
+      "letter": "B",
+      "text": "value"
+     },
+     {
+      "letter": "C",
+      "text": "valley"
      },
      {
       "letter": "D",
@@ -655,18 +540,18 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "C",
-    "vi": 16
+    "vi": 11
    },
    {
-    "question": "They live in a small __________.【村莊】",
+    "question": "Parents should teach their children the __________ of money. It is not easy to make it.",
     "options": [
      {
       "letter": "A",
-      "text": "vehicle"
+      "text": "valley"
      },
      {
       "letter": "B",
-      "text": "vacuum"
+      "text": "value"
      },
      {
       "letter": "C",
@@ -677,34 +562,57 @@ window.FLASHCARD_UNITS = {
       "text": "village"
      }
     ],
-    "answer": "D",
-    "vi": 17
+    "answer": "B",
+    "vi": 12
    },
    {
-    "question": "The storm was very __________.【暴力的，猛烈的】",
+    "question": "The store sells __________ kinds of fruit: apples, bananas, grapes, and many more.",
     "options": [
      {
       "letter": "A",
-      "text": "violent"
-     },
-     {
-      "letter": "B",
       "text": "unhappy"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "usual"
      },
      {
+      "letter": "C",
+      "text": "various"
+     },
+     {
       "letter": "D",
-      "text": "useful"
+      "text": "violent"
      }
     ],
-    "answer": "A",
-    "vi": 18
+    "answer": "C",
+    "vi": 13
    },
    {
-    "question": "The museum had many __________ last week.【訪客，參觀者】",
+    "question": "She put the flowers in a __________ with some water.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "valley"
+     },
+     {
+      "letter": "B",
+      "text": "value"
+     },
+     {
+      "letter": "C",
+      "text": "vehicle"
+     },
+     {
+      "letter": "D",
+      "text": "vase"
+     }
+    ],
+    "answer": "D",
+    "vi": 14
+   },
+   {
+    "question": "You should eat more __________, like carrots and cabbage.",
     "options": [
      {
       "letter": "A",
@@ -712,7 +620,53 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "vehicles"
+     },
+     {
+      "letter": "C",
+      "text": "villages"
+     },
+     {
+      "letter": "D",
       "text": "visitors"
+     }
+    ],
+    "answer": "A",
+    "vi": 15
+   },
+   {
+    "question": "Cars, buses, and trucks are all __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "vegetables"
+     },
+     {
+      "letter": "B",
+      "text": "vehicles"
+     },
+     {
+      "letter": "C",
+      "text": "villages"
+     },
+     {
+      "letter": "D",
+      "text": "valleys"
+     }
+    ],
+    "answer": "B",
+    "vi": 16
+   },
+   {
+    "question": "My grandparents live in a small __________ in the mountains. Only fifty people live there.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "village"
+     },
+     {
+      "letter": "B",
+      "text": "vase"
      },
      {
       "letter": "C",
@@ -720,13 +674,59 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "uncle"
+      "text": "value"
      }
     ],
-    "answer": "B",
+    "answer": "A",
+    "vi": 17
+   },
+   {
+    "question": "The movie is too __________ for children. There is a lot of fighting and killing in it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "useful"
+     },
+     {
+      "letter": "B",
+      "text": "usual"
+     },
+     {
+      "letter": "C",
+      "text": "violent"
+     },
+     {
+      "letter": "D",
+      "text": "various"
+     }
+    ],
+    "answer": "C",
+    "vi": 18
+   },
+   {
+    "question": "The museum has more than one thousand __________ every day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "vehicles"
+     },
+     {
+      "letter": "B",
+      "text": "villages"
+     },
+     {
+      "letter": "C",
+      "text": "vases"
+     },
+     {
+      "letter": "D",
+      "text": "visitors"
+     }
+    ],
+    "answer": "D",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"divided":["to cut or break something into parts","分開，劃分"],"male":["being a man or a boy","男性的"],"shall":["used with \"I\" or \"we\" to talk about the future","將要，應該"],"succeed":["to do well and get what you wanted","成功，繼承"],"toffee":["a hard, sticky brown candy made from sugar and butter","太妃糖"],"uncle":["the brother of your father or mother","叔叔，舅舅"],"underlined":["to draw a line under a word","在...下面劃線，強調"],"underwear":["clothes that you wear next to your skin under other clothes","內衣，底褲"],"unhappy":["not happy","不快樂的，不滿意的"],"uniform":["special clothes that all students or workers in one place wear","制服"],"universe":["all of space, with all the stars and planets","宇宙，天地"],"useful":["helping you to do something","有用的，有幫助的"],"usual":["normal; happening most of the time","通常的，平常的"],"vacation":["a time when you do not go to school or work","假期，休假"],"vacuum":["a machine that cleans floors by pulling in dust","真空，吸塵器"],"valley":["the low land between hills or mountains","山谷，溪谷"],"value":["how important or useful something is","價值，重要性"],"various":["many different","各種各樣的"],"vase":["a tall container for flowers","花瓶"],"vegetables":["a plant that people eat, like carrots and cabbage","蔬菜"],"vehicle":["a machine like a car, bus, or truck that carries people or things","車輛，交通工具"],"village":["a very small town in the country","村莊"],"violent":["very strong and dangerous","暴力的，猛烈的"],"visitors":["a person who comes to see a place or a person","訪客，參觀者"],"wrapped":["to cover something with paper or cloth","包裝，裹"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"uniform":["special clothes that all students or workers in one place wear","制服"],"universe":["all of space, with all the stars and planets","宇宙，天地"],"visitor":["a person who comes to see a place or a person","訪客，參觀者"],"uncle":["the brother of your father or mother","叔叔，舅舅"],"vote":["to choose someone in an election by marking a paper","投票，選舉"],"wake":["to stop sleeping","醒來，喚醒"],"underline":["to draw a line under a word","在...下面劃線，強調"],"wave":["to move your hand in the air to say hello or good-bye","揮手，波動"],"underwear":["clothes that you wear next to your skin under other clothes","內衣，底褲"],"vacuum":["a machine that cleans floors by pulling in dust","真空，吸塵器"],"vase":["a tall container for flowers","花瓶"],"unhappy":["not happy","不快樂的，不滿意的"],"useful":["helping you to do something","有用的，有幫助的"],"usual":["normal; happening most of the time","通常的，平常的"],"various":["many different","各種各樣的"],"valley":["the low land between hills or mountains","山谷，溪谷"],"village":["a very small town in the country","村莊"],"shall":["used with \"I\" or \"we\" to talk about the future","將要，應該"],"violent":["very strong and dangerous","暴力的，猛烈的"],"vacation":["a time when you do not go to school or work","假期，休假"],"value":["how important or useful something is","價值，重要性"],"vehicle":["a machine like a car, bus, or truck that carries people or things","車輛，交通工具"],"vegetables":["a plant that people eat, like carrots and cabbage","蔬菜"],"vehicles":["a machine like a car, bus, or truck that carries people or things","車輛，交通工具"],"villages":["a very small town in the country","村莊"],"visitors":["a person who comes to see a place or a person","訪客，參觀者"],"valleys":["the low land between hills or mountains","山谷，溪谷"],"vases":["a tall container for flowers","花瓶"]});

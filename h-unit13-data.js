@@ -267,80 +267,80 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "The villain in the story is truly __________.【邪惡的，壞的】",
+    "question": "In the story, the __________ queen wants to kill the princess. She is a very bad woman.",
     "options": [
      {
       "letter": "A",
+      "text": "fair"
+     },
+     {
+      "letter": "B",
       "text": "fancy"
      },
      {
-      "letter": "B",
-      "text": "fantastic"
+      "letter": "C",
+      "text": "extra"
      },
      {
-      "letter": "C",
+      "letter": "D",
       "text": "evil"
-     },
-     {
-      "letter": "D",
-      "text": "female"
-     }
-    ],
-    "answer": "C",
-    "vi": 0
-   },
-   {
-    "question": "She is studying for her final __________.【考試】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fashion"
-     },
-     {
-      "letter": "B",
-      "text": "fee"
-     },
-     {
-      "letter": "C",
-      "text": "fear"
-     },
-     {
-      "letter": "D",
-      "text": "exam"
      }
     ],
     "answer": "D",
-    "vi": 1
+    "vi": 0
    },
    {
-    "question": "The news __________ everyone.【使興奮，使激動】",
+    "question": "We have a big __________ next week. I have to study math and English every night.",
     "options": [
      {
       "letter": "A",
-      "text": "excited"
+      "text": "exam"
      },
      {
       "letter": "B",
-      "text": "exist"
+      "text": "exit"
      },
      {
       "letter": "C",
-      "text": "expect"
+      "text": "fee"
      },
      {
       "letter": "D",
-      "text": "express"
+      "text": "fence"
      }
     ],
     "answer": "A",
-    "vi": 2
+    "vi": 1
    },
    {
-    "question": "Do you believe that ghosts __________?【存在】",
+    "question": "The news about the trip __________ the children. They couldn't stop talking about it.",
     "options": [
      {
       "letter": "A",
-      "text": "expect"
+      "text": "existed"
+     },
+     {
+      "letter": "B",
+      "text": "expected"
+     },
+     {
+      "letter": "C",
+      "text": "excited"
+     },
+     {
+      "letter": "D",
+      "text": "expressed"
+     }
+    ],
+    "answer": "C",
+    "vi": 2
+   },
+   {
+    "question": "Do you think ghosts __________? I don't believe they are real.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "excite"
      },
      {
       "letter": "B",
@@ -348,114 +348,91 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "express"
+      "text": "expect"
      },
      {
       "letter": "D",
-      "text": "excited"
+      "text": "express"
      }
     ],
     "answer": "B",
     "vi": 3
    },
    {
-    "question": "Please use the nearest __________ in case of emergency.【出口】",
+    "question": "When the fire started, everyone ran to the __________ and got out of the building safely.",
     "options": [
      {
       "letter": "A",
-      "text": "fence"
-     },
-     {
-      "letter": "B",
-      "text": "fashion"
-     },
-     {
-      "letter": "C",
       "text": "exit"
      },
      {
-      "letter": "D",
-      "text": "fear"
-     }
-    ],
-    "answer": "C",
-    "vi": 4
-   },
-   {
-    "question": "We __________ good results from the project.【期望，預期】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "expect"
-     },
-     {
       "letter": "B",
-      "text": "exist"
+      "text": "exam"
      },
      {
       "letter": "C",
-      "text": "express"
+      "text": "fee"
      },
      {
       "letter": "D",
-      "text": "excited"
+      "text": "fashion"
      }
     ],
     "answer": "A",
-    "vi": 5
+    "vi": 4
    },
    {
-    "question": "She found it difficult to __________ her feelings.【表達，表現】",
+    "question": "We __________ about thirty guests at the party tonight. We made enough food for them.",
     "options": [
      {
       "letter": "A",
-      "text": "expect"
-     },
-     {
-      "letter": "B",
-      "text": "express"
-     },
-     {
-      "letter": "C",
       "text": "exist"
      },
      {
+      "letter": "B",
+      "text": "expect"
+     },
+     {
+      "letter": "C",
+      "text": "excite"
+     },
+     {
       "letter": "D",
-      "text": "excited"
+      "text": "express"
      }
     ],
     "answer": "B",
-    "vi": 6
+    "vi": 5
    },
    {
-    "question": "He asked for __________ help with his homework.【額外的，附加的】",
+    "question": "It is hard for him to __________ his feelings. He never says \"I love you.\"",
     "options": [
      {
       "letter": "A",
-      "text": "fancy"
+      "text": "exist"
      },
      {
       "letter": "B",
-      "text": "fair"
+      "text": "expect"
      },
      {
       "letter": "C",
-      "text": "fantastic"
+      "text": "excite"
      },
      {
       "letter": "D",
-      "text": "extra"
+      "text": "express"
      }
     ],
     "answer": "D",
-    "vi": 7
+    "vi": 6
    },
    {
-    "question": "She always tries to be __________.【公平的，合理的】",
+    "question": "I have an __________ pen. You can use it if you forgot yours.",
     "options": [
      {
       "letter": "A",
-      "text": "fantastic"
+      "text": "evil"
      },
      {
       "letter": "B",
@@ -467,18 +444,64 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
+      "text": "false"
+     }
+    ],
+    "answer": "C",
+    "vi": 7
+   },
+   {
+    "question": "It is not __________! My brother got two cookies, but I got only one.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "false"
+     },
+     {
+      "letter": "B",
+      "text": "fair"
+     },
+     {
+      "letter": "C",
       "text": "fancy"
+     },
+     {
+      "letter": "D",
+      "text": "female"
      }
     ],
     "answer": "B",
     "vi": 8
    },
    {
-    "question": "The statement he made was __________.【錯誤的，假的】",
+    "question": "\"The sun goes around the earth.\" Is this true or __________?",
     "options": [
      {
       "letter": "A",
-      "text": "fantastic"
+      "text": "fair"
+     },
+     {
+      "letter": "B",
+      "text": "fancy"
+     },
+     {
+      "letter": "C",
+      "text": "extra"
+     },
+     {
+      "letter": "D",
+      "text": "false"
+     }
+    ],
+    "answer": "D",
+    "vi": 9
+   },
+   {
+    "question": "We ate at a __________ restaurant last night. It was beautiful, but the food was very expensive.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fancy"
      },
      {
       "letter": "B",
@@ -490,29 +513,6 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "extra"
-     }
-    ],
-    "answer": "C",
-    "vi": 9
-   },
-   {
-    "question": "She wore a __________ dress to the party.【花俏的，昂貴的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fancy"
-     },
-     {
-      "letter": "B",
-      "text": "evil"
-     },
-     {
-      "letter": "C",
-      "text": "fair"
-     },
-     {
-      "letter": "D",
       "text": "female"
      }
     ],
@@ -520,30 +520,76 @@ window.FLASHCARD_UNITS = {
     "vi": 10
    },
    {
-    "question": "They had a __________ time at the amusement park.【極好的，奇異的】",
+    "question": "The show was __________! It was the best one I have ever seen.",
     "options": [
      {
       "letter": "A",
-      "text": "fair"
+      "text": "false"
      },
      {
       "letter": "B",
-      "text": "extra"
+      "text": "female"
      },
      {
       "letter": "C",
-      "text": "fancy"
+      "text": "fantastic"
      },
      {
       "letter": "D",
-      "text": "fantastic"
+      "text": "evil"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 11
    },
    {
-    "question": "She is very interested in __________.【時尚，流行】",
+    "question": "Lisa is interested in __________. She always wears the newest kinds of clothes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fault"
+     },
+     {
+      "letter": "B",
+      "text": "fear"
+     },
+     {
+      "letter": "C",
+      "text": "fence"
+     },
+     {
+      "letter": "D",
+      "text": "fashion"
+     }
+    ],
+    "answer": "D",
+    "vi": 12
+   },
+   {
+    "question": "It is my __________ that we are late. I got up too late this morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fashion"
+     },
+     {
+      "letter": "B",
+      "text": "fault"
+     },
+     {
+      "letter": "C",
+      "text": "fee"
+     },
+     {
+      "letter": "D",
+      "text": "fence"
+     }
+    ],
+    "answer": "B",
+    "vi": 13
+   },
+   {
+    "question": "She has a __________ of dogs. She runs away when she sees one.",
     "options": [
      {
       "letter": "A",
@@ -551,26 +597,118 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "exam"
+      "text": "fence"
      },
      {
       "letter": "C",
-      "text": "fashion"
+      "text": "fear"
      },
      {
       "letter": "D",
-      "text": "fear"
+      "text": "fashion"
      }
     ],
     "answer": "C",
-    "vi": 12
+    "vi": 14
    },
    {
-    "question": "It was not her __________ that the meeting was delayed.【錯誤，缺點】",
+    "question": "The entrance __________ for the museum is 100 dollars. Children can get in for free.",
     "options": [
      {
       "letter": "A",
-      "text": "exam"
+      "text": "fee"
+     },
+     {
+      "letter": "B",
+      "text": "fear"
+     },
+     {
+      "letter": "C",
+      "text": "fault"
+     },
+     {
+      "letter": "D",
+      "text": "fence"
+     }
+    ],
+    "answer": "A",
+    "vi": 15
+   },
+   {
+    "question": "I have a strange __________ that someone is following us.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fee"
+     },
+     {
+      "letter": "B",
+      "text": "fence"
+     },
+     {
+      "letter": "C",
+      "text": "film"
+     },
+     {
+      "letter": "D",
+      "text": "feeling"
+     }
+    ],
+    "answer": "D",
+    "vi": 16
+   },
+   {
+    "question": "A __________ lion doesn't have long hair around her head. Only the males do.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fair"
+     },
+     {
+      "letter": "B",
+      "text": "female"
+     },
+     {
+      "letter": "C",
+      "text": "false"
+     },
+     {
+      "letter": "D",
+      "text": "fancy"
+     }
+    ],
+    "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "The farmer built a __________ around his field to keep the cows in.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fee"
+     },
+     {
+      "letter": "B",
+      "text": "fear"
+     },
+     {
+      "letter": "C",
+      "text": "fence"
+     },
+     {
+      "letter": "D",
+      "text": "film"
+     }
+    ],
+    "answer": "C",
+    "vi": 18
+   },
+   {
+    "question": "We watched a __________ about dinosaurs at the theater last night. It was two hours long.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "film"
      },
      {
       "letter": "B",
@@ -585,148 +723,10 @@ window.FLASHCARD_UNITS = {
       "text": "fault"
      }
     ],
-    "answer": "D",
-    "vi": 13
-   },
-   {
-    "question": "He has a __________ of heights.【恐懼，害怕】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "exit"
-     },
-     {
-      "letter": "B",
-      "text": "fear"
-     },
-     {
-      "letter": "C",
-      "text": "fence"
-     },
-     {
-      "letter": "D",
-      "text": "exam"
-     }
-    ],
-    "answer": "B",
-    "vi": 14
-   },
-   {
-    "question": "The entrance __________ is $10.【費用，酬金】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fee"
-     },
-     {
-      "letter": "B",
-      "text": "fence"
-     },
-     {
-      "letter": "C",
-      "text": "fear"
-     },
-     {
-      "letter": "D",
-      "text": "exit"
-     }
-    ],
     "answer": "A",
-    "vi": 15
-   },
-   {
-    "question": "She has a warm __________ towards her old friends.【感覺，感情】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fence"
-     },
-     {
-      "letter": "B",
-      "text": "fear"
-     },
-     {
-      "letter": "C",
-      "text": "exit"
-     },
-     {
-      "letter": "D",
-      "text": "feeling"
-     }
-    ],
-    "answer": "D",
-    "vi": 16
-   },
-   {
-    "question": "The __________ employees were given equal opportunities.【女性的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "extra"
-     },
-     {
-      "letter": "B",
-      "text": "female"
-     },
-     {
-      "letter": "C",
-      "text": "false"
-     },
-     {
-      "letter": "D",
-      "text": "fantastic"
-     }
-    ],
-    "answer": "B",
-    "vi": 17
-   },
-   {
-    "question": "They built a __________ around their garden.【圍欄】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fence"
-     },
-     {
-      "letter": "B",
-      "text": "exam"
-     },
-     {
-      "letter": "C",
-      "text": "exit"
-     },
-     {
-      "letter": "D",
-      "text": "fashion"
-     }
-    ],
-    "answer": "A",
-    "vi": 18
-   },
-   {
-    "question": "They watched a __________ together.【影片，電影】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fence"
-     },
-     {
-      "letter": "B",
-      "text": "fee"
-     },
-     {
-      "letter": "C",
-      "text": "film"
-     },
-     {
-      "letter": "D",
-      "text": "fashion"
-     }
-    ],
-    "answer": "C",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"evil":["very bad and wanting to hurt people","邪惡的，壞的"],"exam":["an important test at school","考試"],"excited":["to make someone feel very happy and interested","使興奮，使激動"],"exist":["to be real; to be in the world","存在"],"exit":["a door you use to leave a building","出口"],"expect":["to think that something will happen","期望，預期"],"express":["to show a feeling or idea with words or actions","表達，表現"],"extra":["more than usual","額外的，附加的"],"fair":["treating everyone in the same, right way","公平的，合理的"],"false":["not true; not correct","錯誤的，假的"],"fancy":["special and expensive; not simple","花俏的，昂貴的"],"fantastic":["very, very good","極好的，奇異的"],"fashion":["the kind of clothes that are popular at a certain time","時尚，流行"],"fault":["a mistake that you are to blame for","錯誤，缺點"],"fear":["the feeling you have when you are afraid","恐懼，害怕"],"fee":["money you pay to enter a place or to get a service","費用，酬金"],"feeling":["something that you feel inside, like love or anger","感覺，感情"],"female":["being a woman or a girl","女性的"],"fence":["a wall made of wood or wire around a garden or field","圍欄"],"film":["a movie","影片，電影"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"fair":["treating everyone in the same, right way","公平的，合理的"],"fancy":["special and expensive; not simple","花俏的，昂貴的"],"extra":["more than usual","額外的，附加的"],"evil":["very bad and wanting to hurt people","邪惡的，壞的"],"exam":["an important test at school","考試"],"exit":["a door you use to leave a building","出口"],"fee":["money you pay to enter a place or to get a service","費用，酬金"],"fence":["a wall made of wood or wire around a garden or field","圍欄"],"existed":["","存在"],"expected":["to think that something will happen","期望，預期"],"excited":["","使興奮"],"expressed":["to show a feeling or idea with words or actions","表達，表現"],"excite":["to make someone feel very happy and interested","使興奮，使激動"],"exist":["to be real; to be in the world","存在"],"expect":["to think that something will happen","期望，預期"],"express":["to show a feeling or idea with words or actions","表達，表現"],"fashion":["the kind of clothes that are popular at a certain time","時尚，流行"],"false":["not true; not correct","錯誤的，假的"],"female":["being a woman or a girl","女性的"],"fantastic":["very, very good","極好的，奇異的"],"fault":["a mistake that you are to blame for","錯誤，缺點"],"fear":["the feeling you have when you are afraid","恐懼，害怕"],"film":["a movie","影片，電影"],"feeling":["something that you feel inside, like love or anger","感覺，感情"]});

@@ -179,7 +179,7 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "She took care of her ______ brother.【年長的】",
+    "q": "My ______ sister is three years older than I am. She is in college now.",
     "options": [
       "empty",
       "electric",
@@ -191,11 +191,11 @@ const MCQS = [
     "vocabIndex": 0
   },
   {
-    "q": "They ______ her as the new president.【選舉，選擇】",
+    "q": "The students will ______ a class leader tomorrow. Everyone has one vote.",
     "options": [
-      "embarrassed",
-      "emphasized",
-      "elected",
+      "embarrass",
+      "employ",
+      "elect",
       "envy"
     ],
     "answer": 2,
@@ -203,71 +203,71 @@ const MCQS = [
     "vocabIndex": 1
   },
   {
-    "q": "They bought an ______ car.【電的，電動的】",
+    "q": "An ______ car doesn't need gas. You just plug it in at night.",
     "options": [
-      "empty",
       "electric",
-      "energetic",
+      "elder",
+      "empty",
       "equal"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "他們買了一輛電動車。",
     "vocabIndex": 2
   },
   {
-    "q": "His comments ______ her.【使尷尬】",
+    "q": "Please don't ______ me in front of my friends. Don't show them my baby photos!",
     "options": [
-      "embarrassed",
-      "emphasized",
-      "elected",
-      "envy"
+      "elect",
+      "embarrass",
+      "employ",
+      "emphasize"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "他的評論讓她很尷尬。",
     "vocabIndex": 3
   },
   {
-    "q": "She couldn't hide her ______.【情感，情緒】",
+    "q": "Boys often hide their ______. They don't like to show that they are sad or afraid.",
     "options": [
-      "enemies",
+      "engines",
+      "entrances",
       "emotions",
-      "errors",
-      "engine"
+      "errors"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "她無法掩飾她的情感。",
     "vocabIndex": 4
   },
   {
-    "q": "The teacher ______ the importance of studying hard.【強調】",
+    "q": "The teacher ______ the word \"important\" three times. She wanted us to remember it.",
     "options": [
       "elected",
-      "embarrassed",
-      "employ",
-      "emphasized"
+      "emphasized",
+      "employed",
+      "envied"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "老師強調努力學習的重要性。",
     "vocabIndex": 5
   },
   {
-    "q": "The company plans to ______ 100 new workers.【雇用】",
+    "q": "The new factory will ______ five hundred workers. Many people will have jobs.",
     "options": [
+      "elect",
+      "embarrass",
       "envy",
-      "embarrassed",
-      "employ",
-      "elected"
+      "employ"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "公司計劃雇用100名新員工。",
     "vocabIndex": 6
   },
   {
-    "q": "The room was completely ______.【空的，無人的】",
+    "q": "The bottle is ______. There is no water in it.",
     "options": [
       "empty",
       "electric",
-      "energetic",
+      "elder",
       "equal"
     ],
     "answer": 0,
@@ -275,11 +275,11 @@ const MCQS = [
     "vocabIndex": 7
   },
   {
-    "q": "He made many ______ during the war.【敵人】",
+    "q": "The two countries were ______ during the war. Now they are good friends.",
     "options": [
-      "emotions",
-      "errors",
-      "environment",
+      "engines",
+      "entrances",
+      "events",
       "enemies"
     ],
     "answer": 3,
@@ -287,131 +287,131 @@ const MCQS = [
     "vocabIndex": 8
   },
   {
-    "q": "She is always so ______.【精力充沛的】",
+    "q": "The children are so ______. They have been running and playing for three hours.",
     "options": [
-      "equal",
-      "elder",
+      "empty",
       "energetic",
-      "empty"
+      "elder",
+      "electric"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她總是這麼精力充沛。",
     "vocabIndex": 9
   },
   {
-    "q": "He has a lot of ______ for his age.【能量，精力】",
+    "q": "I am too tired to cook. I have no ______ left after a long day of work.",
     "options": [
+      "enemy",
+      "engine",
       "energy",
-      "environment",
-      "entrance",
-      "event"
+      "entrance"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他這個年紀精力很充沛。",
     "vocabIndex": 10
   },
   {
-    "q": "The car's ______ is very powerful.【引擎，發動機】",
+    "q": "The car's ______ is making a strange noise. I think we need to take it to the garage.",
     "options": [
-      "event",
       "engine",
-      "environment",
-      "entrance"
+      "enemy",
+      "energy",
+      "event"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "這輛車的引擎非常強大。",
     "vocabIndex": 11
   },
   {
-    "q": "The ______ to the building is around the corner.【入口】",
+    "q": "I will wait for you at the ______ of the zoo. Let's go in together.",
     "options": [
       "engine",
-      "energy",
       "entrance",
-      "event"
+      "enemy",
+      "error"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "建築物的入口在拐角處。",
     "vocabIndex": 12
   },
   {
-    "q": "We need to protect the ______.【環境】",
+    "q": "We must protect the ______. Don't throw trash into rivers or cut down too many trees.",
     "options": [
-      "environment",
-      "energy",
+      "entrance",
       "engine",
-      "event"
+      "enemy",
+      "environment"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "我們需要保護環境。",
     "vocabIndex": 13
   },
   {
-    "q": "She couldn't help but ______ her friend's success.【嫉妒，羨慕】",
+    "q": "I ______ you! You are going to Japan for two weeks, and I have to stay home.",
     "options": [
+      "envy",
+      "elect",
       "employ",
-      "embarrassed",
-      "elected",
-      "envy"
+      "embarrass"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "她忍不住嫉妒她朋友的成功。",
     "vocabIndex": 14
   },
   {
-    "q": "All people are created ______.【平等的，相等的】",
+    "q": "One plus three is ______ to two plus two.",
     "options": [
+      "empty",
       "elder",
       "equal",
-      "electric",
-      "energetic"
+      "electric"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "所有人都是平等的。",
     "vocabIndex": 15
   },
   {
-    "q": "The document contained several ______.【錯誤】",
+    "q": "There are three spelling ______ in your writing. Please check and fix them.",
     "options": [
       "errors",
-      "enemies",
-      "emotions",
-      "engine"
+      "events",
+      "engines",
+      "enemies"
     ],
     "answer": 0,
     "cn": "文件中包含幾個錯誤。",
     "vocabIndex": 16
   },
   {
-    "q": "She loves all fruit, ______ strawberries.【特別地，尤其】",
+    "q": "I love fruit, ______ strawberries. I can eat a whole box of them.",
     "options": [
       "everywhere",
-      "forward",
       "especially",
-      "suddenly"
+      "downstairs",
+      "backward"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她喜歡所有的水果，特別是草莓。",
     "vocabIndex": 17
   },
   {
-    "q": "The concert was a major ______.【事件，活動】",
+    "q": "The school sports day is a big ______. All the parents come to watch.",
     "options": [
-      "entrance",
+      "error",
+      "enemy",
       "event",
-      "engine",
-      "energy"
+      "engine"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "音樂會是一個重要事件。",
     "vocabIndex": 18
   },
   {
-    "q": "There were flowers ______.【到處】",
+    "q": "I looked ______ for my keys, in every room and every bag, but I couldn't find them.",
     "options": [
       "especially",
-      "therefore",
-      "rather",
+      "downtown",
+      "forward",
       "everywhere"
     ],
     "answer": 3,
@@ -421,45 +421,95 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "elder": {
+  "empty": {
     "pos": "adj.",
-    "en_def": "older (of two people in a family)",
-    "cn_def": "年長的"
-  },
-  "elected": {
-    "pos": "v.",
-    "en_def": "to choose someone for a job by voting",
-    "cn_def": "選舉，選擇"
+    "en_def": "with nothing or nobody inside",
+    "cn_def": "空的，無人的"
   },
   "electric": {
     "pos": "adj.",
     "en_def": "using electricity to work",
     "cn_def": "電的，電動的"
   },
-  "embarrassed": {
+  "equal": {
+    "pos": "adj.",
+    "en_def": "the same in size, number, or value",
+    "cn_def": "平等的，相等的"
+  },
+  "elder": {
+    "pos": "adj.",
+    "en_def": "older (of two people in a family)",
+    "cn_def": "年長的"
+  },
+  "embarrass": {
     "pos": "v.",
     "en_def": "to make someone feel shy or silly in front of other people",
     "cn_def": "使尷尬"
-  },
-  "emotions": {
-    "pos": "n.",
-    "en_def": "a strong feeling, like love, fear, or anger",
-    "cn_def": "情感，情緒"
-  },
-  "emphasized": {
-    "pos": "v.",
-    "en_def": "to say that something is very important",
-    "cn_def": "強調"
   },
   "employ": {
     "pos": "v.",
     "en_def": "to give someone a job and pay them",
     "cn_def": "雇用"
   },
-  "empty": {
-    "pos": "adj.",
-    "en_def": "with nothing or nobody inside",
-    "cn_def": "空的，無人的"
+  "elect": {
+    "pos": "v.",
+    "en_def": "to choose someone for a job by voting",
+    "cn_def": "選舉，選擇"
+  },
+  "envy": {
+    "pos": "v.",
+    "en_def": "to wish you had what someone else has",
+    "cn_def": "嫉妒，羨慕"
+  },
+  "emphasize": {
+    "pos": "v.",
+    "en_def": "to say that something is very important",
+    "cn_def": "強調"
+  },
+  "engines": {
+    "pos": "n.",
+    "en_def": "the part of a car or machine that makes it move",
+    "cn_def": "引擎，發動機"
+  },
+  "entrances": {
+    "pos": "n.",
+    "en_def": "the door or gate where you go into a place",
+    "cn_def": "入口"
+  },
+  "emotions": {
+    "pos": "n.",
+    "en_def": "a strong feeling, like love, fear, or anger",
+    "cn_def": "情感，情緒"
+  },
+  "errors": {
+    "pos": "n.",
+    "en_def": "a mistake",
+    "cn_def": "錯誤"
+  },
+  "elected": {
+    "pos": "v.",
+    "en_def": "to choose someone for a job by voting",
+    "cn_def": "選舉，選擇"
+  },
+  "emphasized": {
+    "pos": "v.",
+    "en_def": "to say that something is very important",
+    "cn_def": "強調"
+  },
+  "employed": {
+    "pos": "v.",
+    "en_def": "to give someone a job and pay them",
+    "cn_def": "雇用"
+  },
+  "envied": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "嫉妒"
+  },
+  "events": {
+    "pos": "n.",
+    "en_def": "something important that happens",
+    "cn_def": "事件，活動"
   },
   "enemies": {
     "pos": "n.",
@@ -471,75 +521,70 @@ const LOOKUP = {
     "en_def": "very active; full of energy",
     "cn_def": "精力充沛的"
   },
-  "energy": {
+  "enemy": {
     "pos": "n.",
-    "en_def": "the power to be active and do a lot without getting tired",
-    "cn_def": "能量，精力"
+    "en_def": "a person who hates you or fights against you",
+    "cn_def": "敵人"
   },
   "engine": {
     "pos": "n.",
     "en_def": "the part of a car or machine that makes it move",
     "cn_def": "引擎，發動機"
   },
+  "energy": {
+    "pos": "n.",
+    "en_def": "the power to be active and do a lot without getting tired",
+    "cn_def": "能量，精力"
+  },
   "entrance": {
     "pos": "n.",
     "en_def": "the door or gate where you go into a place",
     "cn_def": "入口"
-  },
-  "environment": {
-    "pos": "n.",
-    "en_def": "the air, water, and land around us",
-    "cn_def": "環境"
-  },
-  "envy": {
-    "pos": "v.",
-    "en_def": "to wish you had what someone else has",
-    "cn_def": "嫉妒，羨慕"
-  },
-  "equal": {
-    "pos": "adj.",
-    "en_def": "the same in size, number, or value",
-    "cn_def": "平等的，相等的"
-  },
-  "errors": {
-    "pos": "n.",
-    "en_def": "a mistake",
-    "cn_def": "錯誤"
-  },
-  "especially": {
-    "pos": "adv.",
-    "en_def": "more than others; more than usual",
-    "cn_def": "特別地，尤其"
   },
   "event": {
     "pos": "n.",
     "en_def": "something important that happens",
     "cn_def": "事件，活動"
   },
+  "error": {
+    "pos": "n.",
+    "en_def": "a mistake",
+    "cn_def": "錯誤"
+  },
+  "environment": {
+    "pos": "n.",
+    "en_def": "the air, water, and land around us",
+    "cn_def": "環境"
+  },
   "everywhere": {
     "pos": "adv.",
     "en_def": "in all places",
     "cn_def": "到處"
   },
+  "especially": {
+    "pos": "adv.",
+    "en_def": "more than others; more than usual",
+    "cn_def": "特別地，尤其"
+  },
+  "downstairs": {
+    "pos": "adv.",
+    "en_def": "on or to a lower floor of a building",
+    "cn_def": "在樓下"
+  },
+  "backward": {
+    "pos": "adv.",
+    "en_def": "toward the back",
+    "cn_def": "向後地"
+  },
+  "downtown": {
+    "pos": "adv.",
+    "en_def": "in the center of a city",
+    "cn_def": "市中心"
+  },
   "forward": {
     "pos": "adv.",
     "en_def": "toward the front",
     "cn_def": "向前"
-  },
-  "rather": {
-    "pos": "adv.",
-    "en_def": "more willingly (used with \"would\")",
-    "cn_def": "寧願，倒不如說"
-  },
-  "suddenly": {
-    "pos": "adv.",
-    "en_def": "quickly and when you do not expect it",
-    "cn_def": "突然地，忽然"
-  },
-  "therefore": {
-    "pos": "adv.",
-    "en_def": "so; for that reason",
-    "cn_def": "因此，所以"
   }
 };
 

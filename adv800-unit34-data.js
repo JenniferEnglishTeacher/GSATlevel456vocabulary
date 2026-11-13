@@ -170,342 +170,342 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "He is too ______ to donate money.【吝嗇的，小氣的】",
+    "q": "Mr. Lin is rich but ______. He never spends any money on his friends.",
     "options": [
       "stormy",
+      "straight",
       "stingy",
-      "super",
-      "straight"
+      "super"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "他太吝嗇了，不願捐錢。",
     "vocabIndex": 0
   },
   {
-    "q": "She had a ______ after eating too much.【胃痛】",
+    "q": "I ate too much ice cream, and now I have a ______.",
     "options": [
-      "straw",
-      "stream",
-      "style",
-      "stomachache"
+      "stomachache",
+      "storm",
+      "stove",
+      "straw"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "她吃太多後胃痛。",
     "vocabIndex": 1
   },
   {
-    "q": "He threw a ______ into the pond.【石頭，寶石】",
+    "q": "The boy threw a small ______ into the lake.",
     "options": [
-      "stone",
-      "straw",
       "storm",
-      "stove"
+      "style",
+      "suit",
+      "stone"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "他向池塘裡扔了一塊石頭。",
     "vocabIndex": 2
   },
   {
-    "q": "The ______ caused a lot of damage.【暴風雨，風暴】",
+    "q": "The ______ last night was terrible. The wind and rain broke many trees.",
     "options": [
-      "stream",
-      "subway",
+      "stove",
       "storm",
-      "stove"
+      "straw",
+      "suit"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "暴風雨造成了很大損失。",
     "vocabIndex": 3
   },
   {
-    "q": "It was a ______ night.【暴風雨的，猛烈的】",
+    "q": "It was a dark and ______ night. The wind was strong, and the rain was heavy.",
     "options": [
-      "super",
-      "straight",
       "stingy",
-      "stormy"
+      "straight",
+      "stormy",
+      "super"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "那是一個暴風雨之夜。",
     "vocabIndex": 4
   },
   {
-    "q": "She cooked the meal on the ______.【火爐，爐灶】",
+    "q": "Mom put the pot on the ______ and turned on the gas to cook the soup.",
     "options": [
-      "stove",
-      "supper",
       "storm",
-      "stone"
+      "stream",
+      "straw",
+      "stove"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "她在爐灶上做飯。",
     "vocabIndex": 5
   },
   {
-    "q": "The road is ______.【直的，直接的】",
+    "q": "Draw a ______ line with your ruler.",
     "options": [
-      "such",
-      "super",
       "straight",
-      "stormy"
+      "stingy",
+      "stormy",
+      "super"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "這條路是直的。",
     "vocabIndex": 6
   },
   {
-    "q": "She drank her juice with a ______.【稻草，吸管】",
+    "q": "I drank my juice through a ______.",
     "options": [
-      "stove",
+      "stream",
       "straw",
-      "suit",
-      "stone"
+      "stove",
+      "suit"
     ],
     "answer": 1,
     "cn": "她用吸管喝果汁。",
     "vocabIndex": 7
   },
   {
-    "q": "They followed the path along the ______.【小溪，溪流】",
+    "q": "A small ______ runs through the forest. We can cross the water in two steps.",
     "options": [
-      "stomachache",
-      "stone",
+      "stove",
       "straw",
-      "stream"
+      "stream",
+      "style"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "他們沿著小溪走。",
     "vocabIndex": 8
   },
   {
-    "q": "The workers decided to ______.【打擊，罷工】",
+    "q": "The bus drivers want more pay, so they are going to ______ next week. There will be no buses.",
     "options": [
+      "succeed",
       "strike",
       "suggest",
-      "succeed",
-      "consider"
+      "support"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "工人們決定罷工。",
     "vocabIndex": 9
   },
   {
-    "q": "She has a unique fashion ______.【風格，樣式】",
+    "q": "I like your hair ______. It looks great on you.",
     "options": [
-      "suit",
+      "stream",
       "stove",
-      "style",
-      "subway"
+      "storm",
+      "style"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她有獨特的時尚風格。",
     "vocabIndex": 10
   },
   {
-    "q": "They took the ______ to the museum.【地鐵】",
+    "q": "In New York, many people take the ______ to work. The trains run under the city.",
     "options": [
-      "stomachache",
       "subway",
       "stove",
+      "stream",
       "supper"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "他們乘地鐵去博物館。",
     "vocabIndex": 11
   },
   {
-    "q": "She hopes to ______ in her career.【成功，繼承】",
+    "q": "If you work hard, you will ______. You will get what you want.",
     "options": [
-      "suggest",
       "strike",
+      "suggest",
       "succeed",
-      "measured"
+      "swallow"
     ],
     "answer": 2,
     "cn": "她希望在職業生涯中取得成功。",
     "vocabIndex": 12
   },
   {
-    "q": "His hard work led to his ______.【成功】",
+    "q": "The party was a great ______. Everyone had a good time.",
     "options": [
-      "success",
-      "stream",
       "stove",
-      "suit"
+      "straw",
+      "stream",
+      "success"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "他的努力導致了他的成功。",
     "vocabIndex": 13
   },
   {
-    "q": "She is ______ a kind person.【這樣的，如此的】",
+    "q": "She is ______ a nice girl that everyone likes her.",
     "options": [
       "stingy",
       "such",
-      "straight",
-      "super"
+      "super",
+      "straight"
     ],
     "answer": 1,
     "cn": "她是一個這樣善良的人。",
     "vocabIndex": 14
   },
   {
-    "q": "The lights went out ______.【突然地，忽然】",
+    "q": "We were having a picnic. ______, it started to rain, and we all ran to the car.",
     "options": [
-      "rather",
-      "hardly",
-      "neither",
-      "suddenly"
+      "Suddenly",
+      "Therefore",
+      "Especially",
+      "Hardly"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "燈突然熄滅了。",
     "vocabIndex": 15
   },
   {
-    "q": "I ______ we go to the movies.【建議，提議】",
+    "q": "I ______ that we take a taxi. It is too far to walk.",
     "options": [
-      "suggest",
       "strike",
+      "suggest",
       "succeed",
-      "interrupt"
+      "swallow"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "我建議我們去看電影。",
     "vocabIndex": 16
   },
   {
-    "q": "He wore a ______ to the interview.【套裝，西裝】",
+    "q": "He wore a black ______ and a tie to the job interview.",
     "options": [
-      "storm",
-      "style",
+      "stove",
+      "straw",
       "suit",
-      "straw"
+      "stream"
     ],
     "answer": 2,
     "cn": "他穿著西裝去面試。",
     "vocabIndex": 17
   },
   {
-    "q": "She is a ______ student.【超級的，極好的】",
+    "q": "We had a ______ time at the beach. It was the best day of the summer.",
     "options": [
-      "such",
-      "super",
+      "stingy",
       "stormy",
-      "straight"
+      "straight",
+      "super"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她是一個超級學生。",
     "vocabIndex": 18
   },
   {
-    "q": "They had a light ______ before bed.【晚餐】",
+    "q": "We had fish and rice for ______ last night. Then we watched TV and went to bed.",
     "options": [
-      "stomachache",
-      "subway",
+      "supper",
       "style",
-      "supper"
+      "stream",
+      "stone"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "他們在睡前吃了一頓輕晚餐。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "consider": {
-    "pos": "v.",
-    "en_def": "to think about something carefully",
-    "cn_def": "考慮"
-  },
-  "hardly": {
-    "pos": "adv.",
-    "en_def": "almost not",
-    "cn_def": "幾乎不，勉強地"
-  },
-  "interrupt": {
-    "pos": "v.",
-    "en_def": "to stop someone while they are speaking",
-    "cn_def": "打斷，中斷"
-  },
-  "measured": {
-    "pos": "v.",
-    "en_def": "to find out how long, big, or heavy something is",
-    "cn_def": "測量，衡量"
-  },
-  "neither": {
-    "pos": "adv.",
-    "en_def": "not one and not the other of two",
-    "cn_def": "也不，既不"
-  },
-  "rather": {
-    "pos": "adv.",
-    "en_def": "more willingly (used with \"would\")",
-    "cn_def": "寧願，倒不如說"
-  },
-  "stingy": {
-    "pos": "adj.",
-    "en_def": "not willing to spend or give money",
-    "cn_def": "吝嗇的，小氣的"
-  },
-  "stomachache": {
-    "pos": "n.",
-    "en_def": "a pain in your stomach",
-    "cn_def": "胃痛"
-  },
-  "stone": {
-    "pos": "n.",
-    "en_def": "a small piece of rock",
-    "cn_def": "石頭，寶石"
-  },
-  "storm": {
-    "pos": "n.",
-    "en_def": "very bad weather with strong wind and heavy rain",
-    "cn_def": "暴風雨，風暴"
-  },
   "stormy": {
     "pos": "adj.",
     "en_def": "with strong wind and heavy rain",
     "cn_def": "暴風雨的，猛烈的"
-  },
-  "stove": {
-    "pos": "n.",
-    "en_def": "a machine in the kitchen for cooking food",
-    "cn_def": "火爐，爐灶"
   },
   "straight": {
     "pos": "adj.",
     "en_def": "not bending or turning",
     "cn_def": "直的，直接的"
   },
+  "stingy": {
+    "pos": "adj.",
+    "en_def": "not willing to spend or give money",
+    "cn_def": "吝嗇的，小氣的"
+  },
+  "super": {
+    "pos": "adj.",
+    "en_def": "very, very good",
+    "cn_def": "超級的，極好的"
+  },
+  "stomachache": {
+    "pos": "n.",
+    "en_def": "a pain in your stomach",
+    "cn_def": "胃痛"
+  },
+  "storm": {
+    "pos": "n.",
+    "en_def": "very bad weather with strong wind and heavy rain",
+    "cn_def": "暴風雨，風暴"
+  },
+  "stove": {
+    "pos": "n.",
+    "en_def": "a machine in the kitchen for cooking food",
+    "cn_def": "火爐，爐灶"
+  },
   "straw": {
     "pos": "n.",
     "en_def": "a thin tube for drinking",
     "cn_def": "稻草，吸管"
-  },
-  "stream": {
-    "pos": "n.",
-    "en_def": "a small river",
-    "cn_def": "小溪，溪流"
-  },
-  "strike": {
-    "pos": "v.",
-    "en_def": "to stop working because you want more pay or better conditions",
-    "cn_def": "打擊，罷工"
   },
   "style": {
     "pos": "n.",
     "en_def": "a way of dressing or doing something",
     "cn_def": "風格，樣式"
   },
-  "subway": {
+  "suit": {
     "pos": "n.",
-    "en_def": "a train system that runs under a city",
-    "cn_def": "地鐵"
+    "en_def": "a jacket and pants or a skirt made of the same cloth",
+    "cn_def": "套裝，西裝"
+  },
+  "stone": {
+    "pos": "n.",
+    "en_def": "a small piece of rock",
+    "cn_def": "石頭，寶石"
+  },
+  "stream": {
+    "pos": "n.",
+    "en_def": "a small river",
+    "cn_def": "小溪，溪流"
   },
   "succeed": {
     "pos": "v.",
     "en_def": "to do well and get what you wanted",
     "cn_def": "成功，繼承"
+  },
+  "strike": {
+    "pos": "v.",
+    "en_def": "to stop working because you want more pay or better conditions",
+    "cn_def": "打擊，罷工"
+  },
+  "suggest": {
+    "pos": "v.",
+    "en_def": "to tell someone an idea about what to do",
+    "cn_def": "建議，提議"
+  },
+  "support": {
+    "pos": "v.",
+    "en_def": "to agree with and help someone",
+    "cn_def": "支持，支援"
+  },
+  "subway": {
+    "pos": "n.",
+    "en_def": "a train system that runs under a city",
+    "cn_def": "地鐵"
+  },
+  "supper": {
+    "pos": "n.",
+    "en_def": "a meal that you eat in the evening",
+    "cn_def": "晚餐"
+  },
+  "swallow": {
+    "pos": "v.",
+    "en_def": "to make food or drink go down your throat",
+    "cn_def": "吞下，嚥下"
   },
   "success": {
     "pos": "n.",
@@ -522,25 +522,20 @@ const LOOKUP = {
     "en_def": "quickly and when you do not expect it",
     "cn_def": "突然地，忽然"
   },
-  "suggest": {
-    "pos": "v.",
-    "en_def": "to tell someone an idea about what to do",
-    "cn_def": "建議，提議"
+  "therefore": {
+    "pos": "adv.",
+    "en_def": "so; for that reason",
+    "cn_def": "因此，所以"
   },
-  "suit": {
-    "pos": "n.",
-    "en_def": "a jacket and pants or a skirt made of the same cloth",
-    "cn_def": "套裝，西裝"
+  "especially": {
+    "pos": "adv.",
+    "en_def": "more than others; more than usual",
+    "cn_def": "特別地，尤其"
   },
-  "super": {
-    "pos": "adj.",
-    "en_def": "very, very good",
-    "cn_def": "超級的，極好的"
-  },
-  "supper": {
-    "pos": "n.",
-    "en_def": "a meal that you eat in the evening",
-    "cn_def": "晚餐"
+  "hardly": {
+    "pos": "adv.",
+    "en_def": "almost not",
+    "cn_def": "幾乎不，勉強地"
   }
 };
 

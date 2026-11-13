@@ -171,58 +171,58 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "The ______ decision will be made tomorrow.【最後的，決定性的】",
+    "q": "This is the ______ game of the year. The winner will be the champion.",
     "options": [
       "former",
-      "fit",
-      "foolish",
-      "final"
+      "foggy",
+      "final",
+      "foolish"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "最終決定將在明天作出。",
     "vocabIndex": 0
   },
   {
-    "q": "These shoes ______ perfectly.【合適的，健康的】",
+    "q": "These shoes don't ______ me. They are too small for my feet.",
     "options": [
-      "final",
-      "former",
-      "fit",
-      "foggy"
+      "focus",
+      "forgive",
+      "frighten",
+      "fit"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "這雙鞋非常合適。",
     "vocabIndex": 1
   },
   {
-    "q": "They raised the national ______.【旗幟】",
+    "q": "The ______ of the U.S.A. has stars and stripes on it. It is red, white, and blue.",
     "options": [
       "flag",
-      "flight",
-      "flu",
-      "flute"
+      "flute",
+      "fog",
+      "form"
     ],
     "answer": 0,
     "cn": "他們升起了國旗。",
     "vocabIndex": 2
   },
   {
-    "q": "She used a ______ to find her way in the dark.【手電筒】",
+    "q": "It is dark in the cave. Turn on your ______ so we can see.",
     "options": [
       "flight",
       "flashlight",
       "flour",
-      "flat tire"
+      "flute"
     ],
     "answer": 1,
     "cn": "她用手電筒在黑暗中找路。",
     "vocabIndex": 3
   },
   {
-    "q": "He had a ______ on his way to work.【爆胎】",
+    "q": "My bike has a ______. There is no air in the front wheel, so I can't ride it.",
     "options": [
       "flag",
-      "flight",
+      "flute",
       "flat tire",
       "form"
     ],
@@ -231,83 +231,83 @@ const MCQS = [
     "vocabIndex": 4
   },
   {
-    "q": "Their ______ was delayed due to bad weather.【飛行，航班】",
+    "q": "Our ______ to Tokyo leaves at ten. We have to be at the airport by eight.",
     "options": [
       "flour",
-      "form",
-      "flute",
-      "flight"
+      "flight",
+      "flu",
+      "fog"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他們的航班因天氣惡劣而延誤。",
     "vocabIndex": 5
   },
   {
-    "q": "She used ______ to bake the cake.【麵粉】",
+    "q": "We need ______, eggs, and sugar to make a cake.",
     "options": [
-      "flute",
-      "flour",
+      "flu",
+      "fog",
       "flag",
-      "forest"
+      "flour"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她用麵粉烤蛋糕。",
     "vocabIndex": 6
   },
   {
-    "q": "He caught the ______ last week.【流感】",
+    "q": "Ben has the ______. He has a fever and a bad cough, so he is staying in bed.",
     "options": [
       "flu",
-      "flashlight",
-      "football",
-      "fog"
+      "flag",
+      "flute",
+      "form"
     ],
     "answer": 0,
     "cn": "他上週得了流感。",
     "vocabIndex": 7
   },
   {
-    "q": "She plays the ______ in the school band.【長笛】",
+    "q": "Lisa plays the ______ in the school band. She blows into it to make music.",
     "options": [
-      "fog",
-      "flat tire",
+      "flag",
       "flute",
-      "flight"
+      "flour",
+      "form"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她在校樂隊裡吹長笛。",
     "vocabIndex": 8
   },
   {
-    "q": "You need to ______ on your studies.【集中，專注】",
+    "q": "Turn off the TV and ______ on your homework. You can't do two things at once.",
     "options": [
-      "forgive",
       "focus",
-      "express",
-      "discuss"
+      "forgive",
+      "fit",
+      "frighten"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你需要專注於學習。",
     "vocabIndex": 9
   },
   {
-    "q": "The ______ was so thick that we couldn't see the road.【霧】",
+    "q": "The ______ was so thick this morning that the drivers couldn't see the road.",
     "options": [
+      "flag",
+      "flu",
       "fog",
-      "form",
-      "flour",
-      "flu"
+      "form"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "霧太濃了，我們看不見路。",
     "vocabIndex": 10
   },
   {
-    "q": "It was a cold and ______ morning.【有霧的，模糊的】",
+    "q": "It was a ______ morning. We couldn't see the mountains at all.",
     "options": [
+      "final",
       "former",
       "formal",
-      "final",
       "foggy"
     ],
     "answer": 3,
@@ -315,47 +315,47 @@ const MCQS = [
     "vocabIndex": 11
   },
   {
-    "q": "It was ______ to make such a mistake.【愚蠢的】",
+    "q": "It was ______ of you to swim alone in the sea. You could have died.",
     "options": [
       "final",
+      "formal",
       "foolish",
-      "fit",
-      "foggy"
+      "former"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "犯這樣的錯誤真是愚蠢。",
     "vocabIndex": 12
   },
   {
-    "q": "He enjoys playing ______ with his friends.【足球】",
+    "q": "American ______ is a popular sport in the U.S.A. Players run with the ball in their hands.",
     "options": [
-      "fog",
       "flute",
       "football",
-      "flight"
+      "forest",
+      "flour"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "他喜歡和朋友一起踢足球。",
     "vocabIndex": 13
   },
   {
-    "q": "They went for a hike in the ______.【森林】",
+    "q": "Many wild animals live in the ______. It is full of tall trees.",
     "options": [
       "forest",
-      "flute",
-      "flu",
-      "flour"
+      "flag",
+      "form",
+      "flight"
     ],
     "answer": 0,
     "cn": "他們在森林裡遠足。",
     "vocabIndex": 14
   },
   {
-    "q": "She decided to ______ him for his mistake.【原諒，寬恕】",
+    "q": "I am sorry I broke your cup. Please ______ me.",
     "options": [
       "focus",
-      "sink",
-      "serve",
+      "fit",
+      "frighten",
       "forgive"
     ],
     "answer": 3,
@@ -363,21 +363,21 @@ const MCQS = [
     "vocabIndex": 15
   },
   {
-    "q": "Please fill out this ______.【形式，表格】",
+    "q": "Please fill out this ______. Write your name, address, and phone number on it.",
     "options": [
+      "flag",
+      "fog",
       "form",
-      "flute",
-      "flour",
-      "flight"
+      "flu"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "請填寫這張表格。",
     "vocabIndex": 16
   },
   {
-    "q": "The event was very ______.【正式的】",
+    "q": "You should wear ______ clothes, like a suit and a tie, to the job interview.",
     "options": [
-      "fit",
+      "foggy",
       "formal",
       "final",
       "foolish"
@@ -387,23 +387,23 @@ const MCQS = [
     "vocabIndex": 17
   },
   {
-    "q": "He is a ______ president of the club.【以前的，前者的】",
+    "q": "Mr. Lin is a ______ teacher at our school. He left two years ago.",
     "options": [
-      "final",
-      "foolish",
       "former",
-      "fit"
+      "foggy",
+      "final",
+      "formal"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他是該俱樂部的前任主席。",
     "vocabIndex": 18
   },
   {
-    "q": "She took a step ______.【向前】",
+    "q": "Please take one step ______. I can't see you from here.",
     "options": [
-      "nearly",
-      "neither",
-      "hardly",
+      "everywhere",
+      "especially",
+      "downtown",
       "forward"
     ],
     "answer": 3,
@@ -413,20 +413,40 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "discuss": {
-    "pos": "v.",
-    "en_def": "to talk about something with other people",
-    "cn_def": "討論，商議"
+  "former": {
+    "pos": "adj.",
+    "en_def": "having been something in the past, but not now",
+    "cn_def": "以前的，前者的"
   },
-  "express": {
-    "pos": "v.",
-    "en_def": "to show a feeling or idea with words or actions",
-    "cn_def": "表達，表現"
+  "foggy": {
+    "pos": "adj.",
+    "en_def": "with a lot of fog",
+    "cn_def": "有霧的，模糊的"
   },
   "final": {
     "pos": "adj.",
     "en_def": "last",
     "cn_def": "最後的，決定性的"
+  },
+  "foolish": {
+    "pos": "adj.",
+    "en_def": "not wise; silly",
+    "cn_def": "愚蠢的"
+  },
+  "focus": {
+    "pos": "v.",
+    "en_def": "to give all your attention to one thing",
+    "cn_def": "集中，專注"
+  },
+  "forgive": {
+    "pos": "v.",
+    "en_def": "to stop being angry with someone for something they did",
+    "cn_def": "原諒，寬恕"
+  },
+  "frighten": {
+    "pos": "v.",
+    "en_def": "to make someone afraid",
+    "cn_def": "使害怕"
   },
   "fit": {
     "pos": "adj.",
@@ -438,55 +458,50 @@ const LOOKUP = {
     "en_def": "a piece of cloth with colors and shapes that stands for a country",
     "cn_def": "旗幟"
   },
-  "flashlight": {
-    "pos": "n.",
-    "en_def": "a small light that you carry in your hand",
-    "cn_def": "手電筒"
-  },
-  "flat tire": {
-    "pos": "n.",
-    "en_def": "a wheel on a car or bike that has lost its air",
-    "cn_def": "爆胎"
-  },
-  "flight": {
-    "pos": "n.",
-    "en_def": "a trip in a plane",
-    "cn_def": "飛行，航班"
-  },
-  "flour": {
-    "pos": "n.",
-    "en_def": "white powder made from wheat, used to make bread and cakes",
-    "cn_def": "麵粉"
-  },
-  "flu": {
-    "pos": "n.",
-    "en_def": "a sickness like a very bad cold, with a fever",
-    "cn_def": "流感"
-  },
   "flute": {
     "pos": "n.",
     "en_def": "a long, thin musical instrument that you blow into",
     "cn_def": "長笛"
-  },
-  "focus": {
-    "pos": "v.",
-    "en_def": "to give all your attention to one thing",
-    "cn_def": "集中，專注"
   },
   "fog": {
     "pos": "n.",
     "en_def": "thick cloud near the ground that is hard to see through",
     "cn_def": "霧"
   },
-  "foggy": {
-    "pos": "adj.",
-    "en_def": "with a lot of fog",
-    "cn_def": "有霧的，模糊的"
+  "form": {
+    "pos": "n.",
+    "en_def": "a paper with spaces where you write information",
+    "cn_def": "形式，表格"
   },
-  "foolish": {
+  "flight": {
+    "pos": "n.",
+    "en_def": "a trip in a plane",
+    "cn_def": "飛行，航班"
+  },
+  "flashlight": {
+    "pos": "n.",
+    "en_def": "a small light that you carry in your hand",
+    "cn_def": "手電筒"
+  },
+  "flour": {
+    "pos": "n.",
+    "en_def": "white powder made from wheat, used to make bread and cakes",
+    "cn_def": "麵粉"
+  },
+  "flat tire": {
+    "pos": "n.",
+    "en_def": "a wheel on a car or bike that has lost its air",
+    "cn_def": "爆胎"
+  },
+  "flu": {
+    "pos": "n.",
+    "en_def": "a sickness like a very bad cold, with a fever",
+    "cn_def": "流感"
+  },
+  "formal": {
     "pos": "adj.",
-    "en_def": "not wise; silly",
-    "cn_def": "愚蠢的"
+    "en_def": "serious and following rules; not relaxed",
+    "cn_def": "正式的"
   },
   "football": {
     "pos": "n.",
@@ -498,55 +513,25 @@ const LOOKUP = {
     "en_def": "a large area of land covered with trees",
     "cn_def": "森林"
   },
-  "forgive": {
-    "pos": "v.",
-    "en_def": "to stop being angry with someone for something they did",
-    "cn_def": "原諒，寬恕"
+  "everywhere": {
+    "pos": "adv.",
+    "en_def": "in all places",
+    "cn_def": "到處"
   },
-  "form": {
-    "pos": "n.",
-    "en_def": "a paper with spaces where you write information",
-    "cn_def": "形式，表格"
+  "especially": {
+    "pos": "adv.",
+    "en_def": "more than others; more than usual",
+    "cn_def": "特別地，尤其"
   },
-  "formal": {
-    "pos": "adj.",
-    "en_def": "serious and following rules; not relaxed",
-    "cn_def": "正式的"
-  },
-  "former": {
-    "pos": "adj.",
-    "en_def": "having been something in the past, but not now",
-    "cn_def": "以前的，前者的"
+  "downtown": {
+    "pos": "adv.",
+    "en_def": "in the center of a city",
+    "cn_def": "市中心"
   },
   "forward": {
     "pos": "adv.",
     "en_def": "toward the front",
     "cn_def": "向前"
-  },
-  "hardly": {
-    "pos": "adv.",
-    "en_def": "almost not",
-    "cn_def": "幾乎不，勉強地"
-  },
-  "nearly": {
-    "pos": "adv.",
-    "en_def": "almost",
-    "cn_def": "幾乎，差不多"
-  },
-  "neither": {
-    "pos": "adv.",
-    "en_def": "not one and not the other of two",
-    "cn_def": "也不，既不"
-  },
-  "serve": {
-    "pos": "v.",
-    "en_def": "to give food or drinks to people",
-    "cn_def": "服務，提供"
-  },
-  "sink": {
-    "pos": "v.",
-    "en_def": "to go down under water",
-    "cn_def": "下沉，沉沒"
   }
 };
 

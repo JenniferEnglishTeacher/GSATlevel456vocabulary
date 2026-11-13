@@ -267,237 +267,237 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Her family __________ her decision.【支持，支援】",
+    "question": "My parents __________ my plan to study music. They say they will help me.",
     "options": [
      {
       "letter": "A",
-      "text": "sweeps"
+      "text": "swallow"
      },
      {
       "letter": "B",
-      "text": "survive"
+      "text": "sweep"
      },
      {
       "letter": "C",
-      "text": "supported"
+      "text": "survive"
      },
      {
       "letter": "D",
-      "text": "swallow"
+      "text": "support"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 0
    },
    {
-    "question": "They managed to __________ the disaster.【存活，生存】",
+    "question": "People can't __________ without water for more than a few days.",
     "options": [
      {
       "letter": "A",
-      "text": "survive"
+      "text": "support"
      },
      {
       "letter": "B",
-      "text": "swallow"
+      "text": "sweep"
      },
      {
       "letter": "C",
-      "text": "supported"
+      "text": "survive"
      },
      {
       "letter": "D",
-      "text": "sweeps"
+      "text": "swallow"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 1
    },
    {
-    "question": "He had to __________ the medicine quickly.【吞下，嚥下】",
+    "question": "My throat hurts. It is hard for me to __________ food.",
     "options": [
      {
       "letter": "A",
-      "text": "survive"
+      "text": "support"
      },
      {
       "letter": "B",
-      "text": "supported"
+      "text": "swallow"
      },
      {
       "letter": "C",
-      "text": "sweeps"
+      "text": "sweep"
      },
      {
       "letter": "D",
-      "text": "swallow"
+      "text": "survive"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 2
    },
    {
-    "question": "They saw a __________ swimming in the lake.【天鵝】",
+    "question": "A __________ is a big white bird with a long neck. It swims on the lake.",
     "options": [
      {
       "letter": "A",
-      "text": "textbook"
-     },
-     {
-      "letter": "B",
       "text": "swan"
      },
      {
+      "letter": "B",
+      "text": "tank"
+     },
+     {
       "letter": "C",
-      "text": "swimsuit"
+      "text": "tent"
      },
      {
       "letter": "D",
-      "text": "talent"
+      "text": "teapot"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 3
    },
    {
-    "question": "She __________ the floor every morning.【打掃，清掃】",
+    "question": "Grandma __________ the floor with a broom every morning.",
     "options": [
      {
       "letter": "A",
+      "text": "swallows"
+     },
+     {
+      "letter": "B",
+      "text": "supports"
+     },
+     {
+      "letter": "C",
       "text": "sweeps"
      },
      {
-      "letter": "B",
-      "text": "survive"
-     },
-     {
-      "letter": "C",
-      "text": "swallow"
-     },
-     {
       "letter": "D",
-      "text": "supported"
+      "text": "survives"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 4
    },
    {
-    "question": "She bought a new __________.【泳衣】",
+    "question": "I am going to the beach. I need to bring my __________ and a towel.",
     "options": [
      {
       "letter": "A",
-      "text": "term"
-     },
-     {
-      "letter": "B",
-      "text": "swimsuit"
-     },
-     {
-      "letter": "C",
-      "text": "temperature"
-     },
-     {
-      "letter": "D",
-      "text": "tank"
-     }
-    ],
-    "answer": "B",
-    "vi": 5
-   },
-   {
-    "question": "The heart is a __________ of love.【符號，象徵】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "swan"
-     },
-     {
-      "letter": "B",
-      "text": "tent"
-     },
-     {
-      "letter": "C",
       "text": "teapot"
      },
      {
-      "letter": "D",
-      "text": "symbol"
-     }
-    ],
-    "answer": "D",
-    "vi": 6
-   },
-   {
-    "question": "The new __________ is very efficient.【系統，體系】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "tent"
-     },
-     {
       "letter": "B",
-      "text": "swan"
-     },
-     {
-      "letter": "C",
-      "text": "system"
-     },
-     {
-      "letter": "D",
-      "text": "teapot"
-     }
-    ],
-    "answer": "C",
-    "vi": 7
-   },
-   {
-    "question": "They enjoy playing __________.【乒乓球，桌球】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "table tennis"
-     },
-     {
-      "letter": "B",
-      "text": "system"
-     },
-     {
-      "letter": "C",
       "text": "textbook"
      },
      {
-      "letter": "D",
-      "text": "swan"
-     }
-    ],
-    "answer": "A",
-    "vi": 8
-   },
-   {
-    "question": "She has a natural __________ for singing.【才能，天賦】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "term"
-     },
-     {
-      "letter": "B",
+      "letter": "C",
       "text": "tangerine"
      },
      {
+      "letter": "D",
+      "text": "swimsuit"
+     }
+    ],
+    "answer": "D",
+    "vi": 5
+   },
+   {
+    "question": "The heart is a __________ of love.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "system"
+     },
+     {
+      "letter": "B",
+      "text": "symbol"
+     },
+     {
       "letter": "C",
-      "text": "talent"
+      "text": "tank"
      },
      {
       "letter": "D",
+      "text": "tent"
+     }
+    ],
+    "answer": "B",
+    "vi": 6
+   },
+   {
+    "question": "The city has a good bus __________. You can get anywhere easily.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "system"
+     },
+     {
+      "letter": "B",
+      "text": "symbol"
+     },
+     {
+      "letter": "C",
+      "text": "swan"
+     },
+     {
+      "letter": "D",
+      "text": "tear"
+     }
+    ],
+    "answer": "A",
+    "vi": 7
+   },
+   {
+    "question": "We play __________ with a small white ball and a low net on a table.",
+    "options": [
+     {
+      "letter": "A",
       "text": "temperature"
+     },
+     {
+      "letter": "B",
+      "text": "talent"
+     },
+     {
+      "letter": "C",
+      "text": "table tennis"
+     },
+     {
+      "letter": "D",
+      "text": "tangerine"
      }
     ],
     "answer": "C",
+    "vi": 8
+   },
+   {
+    "question": "Amy has a __________ for music. She can play any song after hearing it once.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "talent"
+     },
+     {
+      "letter": "B",
+      "text": "tank"
+     },
+     {
+      "letter": "C",
+      "text": "tent"
+     },
+     {
+      "letter": "D",
+      "text": "term"
+     }
+    ],
+    "answer": "A",
     "vi": 9
    },
    {
-    "question": "He is very __________.【健談的，話多的】",
+    "question": "Ben is very __________. He never stops talking in class.",
     "options": [
      {
       "letter": "A",
@@ -509,30 +509,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "false"
+      "text": "tidy"
      },
      {
       "letter": "D",
-      "text": "diligent"
+      "text": "total"
      }
     ],
     "answer": "B",
     "vi": 10
    },
    {
-    "question": "She peeled a __________.【橘子】",
+    "question": "A __________ looks like a small orange. It is easy to peel.",
     "options": [
      {
       "letter": "A",
-      "text": "tear"
-     },
-     {
-      "letter": "B",
       "text": "teapot"
      },
      {
+      "letter": "B",
+      "text": "tent"
+     },
+     {
       "letter": "C",
-      "text": "textbook"
+      "text": "tank"
      },
      {
       "letter": "D",
@@ -543,76 +543,76 @@ window.FLASHCARD_UNITS = {
     "vi": 11
    },
    {
-    "question": "The fish are swimming in the __________.【坦克，油箱】",
+    "question": "There are ten fish in the __________. I feed them and change the water every week.",
     "options": [
      {
       "letter": "A",
-      "text": "symbol"
-     },
-     {
-      "letter": "B",
-      "text": "tank"
-     },
-     {
-      "letter": "C",
       "text": "tent"
      },
      {
-      "letter": "D",
-      "text": "temperature"
-     }
-    ],
-    "answer": "B",
-    "vi": 12
-   },
-   {
-    "question": "She poured tea from the __________.【茶壺】",
-    "options": [
-     {
-      "letter": "A",
+      "letter": "B",
       "text": "tear"
      },
      {
-      "letter": "B",
-      "text": "tangerine"
-     },
-     {
       "letter": "C",
-      "text": "teapot"
-     },
-     {
-      "letter": "D",
-      "text": "swimsuit"
-     }
-    ],
-    "answer": "C",
-    "vi": 13
-   },
-   {
-    "question": "She wiped away a __________.【眼淚】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "tear"
-     },
-     {
-      "letter": "B",
-      "text": "textbook"
-     },
-     {
-      "letter": "C",
-      "text": "tangerine"
+      "text": "tank"
      },
      {
       "letter": "D",
       "text": "term"
      }
     ],
+    "answer": "C",
+    "vi": 12
+   },
+   {
+    "question": "Grandpa put some tea leaves and hot water in the __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "tent"
+     },
+     {
+      "letter": "B",
+      "text": "teapot"
+     },
+     {
+      "letter": "C",
+      "text": "tank"
+     },
+     {
+      "letter": "D",
+      "text": "textbook"
+     }
+    ],
+    "answer": "B",
+    "vi": 13
+   },
+   {
+    "question": "The sad movie made her cry. There were __________ in her eyes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "tears"
+     },
+     {
+      "letter": "B",
+      "text": "tents"
+     },
+     {
+      "letter": "C",
+      "text": "tanks"
+     },
+     {
+      "letter": "D",
+      "text": "terms"
+     }
+    ],
     "answer": "A",
     "vi": 14
    },
    {
-    "question": "The __________ today is very high.【溫度，氣溫】",
+    "question": "The __________ is thirty-five degrees today. It is very hot.",
     "options": [
      {
       "letter": "A",
@@ -620,11 +620,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "teapot"
+      "text": "symbol"
      },
      {
       "letter": "C",
-      "text": "tent"
+      "text": "system"
      },
      {
       "letter": "D",
@@ -635,98 +635,98 @@ window.FLASHCARD_UNITS = {
     "vi": 15
    },
    {
-    "question": "They set up a __________ in the forest.【帳篷】",
+    "question": "We slept in a __________ by the lake when we went camping.",
     "options": [
      {
       "letter": "A",
-      "text": "swan"
-     },
-     {
-      "letter": "B",
-      "text": "tent"
-     },
-     {
-      "letter": "C",
-      "text": "talent"
-     },
-     {
-      "letter": "D",
       "text": "tank"
-     }
-    ],
-    "answer": "B",
-    "vi": 16
-   },
-   {
-    "question": "The __________ will end next month.【期限，學期】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "tent"
      },
      {
       "letter": "B",
-      "text": "temperature"
+      "text": "teapot"
      },
      {
       "letter": "C",
-      "text": "term"
+      "text": "tent"
      },
      {
       "letter": "D",
-      "text": "teapot"
+      "text": "term"
      }
     ],
     "answer": "C",
-    "vi": 17
+    "vi": 16
    },
    {
-    "question": "She did a __________ job on the project.【極好的，極度的】",
+    "question": "The school __________ ends in June. Then the summer vacation begins.",
     "options": [
      {
       "letter": "A",
-      "text": "talkative"
-     },
-     {
-      "letter": "B",
-      "text": "humid"
-     },
-     {
-      "letter": "C",
-      "text": "alike"
-     },
-     {
-      "letter": "D",
-      "text": "terrific"
-     }
-    ],
-    "answer": "D",
-    "vi": 18
-   },
-   {
-    "question": "He forgot his __________ at home.【課本，教科書】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "textbook"
-     },
-     {
-      "letter": "B",
-      "text": "symbol"
-     },
-     {
-      "letter": "C",
       "text": "tent"
      },
      {
+      "letter": "B",
+      "text": "term"
+     },
+     {
+      "letter": "C",
+      "text": "tank"
+     },
+     {
       "letter": "D",
-      "text": "teapot"
+      "text": "tear"
+     }
+    ],
+    "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "You did a __________ job! Everyone loved your speech.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "terrific"
+     },
+     {
+      "letter": "B",
+      "text": "talkative"
+     },
+     {
+      "letter": "C",
+      "text": "tidy"
+     },
+     {
+      "letter": "D",
+      "text": "total"
      }
     ],
     "answer": "A",
+    "vi": 18
+   },
+   {
+    "question": "Please open your English __________ to page 20. We will read Lesson 3.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "swimsuit"
+     },
+     {
+      "letter": "B",
+      "text": "teapot"
+     },
+     {
+      "letter": "C",
+      "text": "tangerine"
+     },
+     {
+      "letter": "D",
+      "text": "textbook"
+     }
+    ],
+    "answer": "D",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"alike":["almost the same","相似的，一樣地"],"diligent":["working hard and carefully","勤勉的，勤奮的"],"false":["not true; not correct","錯誤的，假的"],"humid":["(of weather) warm and wet","潮濕的，濕熱的"],"supported":["to agree with and help someone","支持，支援"],"survive":["to stay alive after something dangerous","存活，生存"],"swallow":["to make food or drink go down your throat","吞下，嚥下"],"swan":["a big white bird with a long neck that lives on lakes","天鵝"],"sweeps":["to clean a floor with a broom","打掃，清掃"],"swimsuit":["clothes that you wear for swimming","泳衣"],"symbol":["a picture or thing that stands for an idea","符號，象徵"],"system":["a group of parts or machines that work together","系統，體系"],"talent":["a natural skill for doing something well","才能，天賦"],"talkative":["liking to talk a lot","健談的，話多的"],"tangerine":["a small sweet orange that is easy to peel","橘子"],"tank":["a big container for water or fish","坦克，油箱"],"teapot":["a pot for making and pouring tea","茶壺"],"tear":["a drop of water that comes from your eye when you cry","眼淚"],"temperature":["how hot or cold something is","溫度，氣溫"],"tent":["a small house made of cloth that you sleep in when you camp","帳篷"],"term":["one part of a school year","期限，學期"],"terrific":["very, very good","極好的，極度的"],"textbook":["a book that students use in class to study a subject","課本，教科書"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"swallow":["to make food or drink go down your throat","吞下，嚥下"],"sweep":["to clean a floor with a broom","打掃，清掃"],"survive":["to stay alive after something dangerous","存活，生存"],"support":["to agree with and help someone","支持，支援"],"swan":["a big white bird with a long neck that lives on lakes","天鵝"],"tank":["a big container for water or fish","坦克，油箱"],"tent":["a small house made of cloth that you sleep in when you camp","帳篷"],"teapot":["a pot for making and pouring tea","茶壺"],"swallows":["to make food or drink go down your throat","吞下，嚥下"],"supports":["to agree with and help someone","支持，支援"],"sweeps":["to clean a floor with a broom","打掃，清掃"],"survives":["to stay alive after something dangerous","存活，生存"],"textbook":["a book that students use in class to study a subject","課本，教科書"],"tangerine":["a small sweet orange that is easy to peel","橘子"],"swimsuit":["clothes that you wear for swimming","泳衣"],"system":["a group of parts or machines that work together","系統，體系"],"symbol":["a picture or thing that stands for an idea","符號，象徵"],"tear":["a drop of water that comes from your eye when you cry","眼淚"],"temperature":["how hot or cold something is","溫度，氣溫"],"talent":["a natural skill for doing something well","才能，天賦"],"term":["one part of a school year","期限，學期"],"terrific":["very, very good","極好的，極度的"],"talkative":["liking to talk a lot","健談的，話多的"],"tidy":["clean, with everything in the right place","整潔的，井井有條的"],"total":["with everything added together","總的，全部的"],"tears":["a drop of water that comes from your eye when you cry","眼淚"],"tents":["a small house made of cloth that you sleep in when you camp","帳篷"],"tanks":["a big container for water or fish","坦克，油箱"],"terms":["one part of a school year","期限，學期"]});

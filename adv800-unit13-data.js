@@ -173,131 +173,131 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "The villain in the story is truly ______.【邪惡的，壞的】",
+    "q": "In the story, the ______ queen wants to kill the princess. She is a very bad woman.",
     "options": [
+      "fair",
       "fancy",
-      "fantastic",
-      "evil",
-      "female"
+      "extra",
+      "evil"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "故事中的反派真是邪惡。",
     "vocabIndex": 0
   },
   {
-    "q": "She is studying for her final ______.【考試】",
+    "q": "We have a big ______ next week. I have to study math and English every night.",
     "options": [
-      "fashion",
+      "exam",
+      "exit",
       "fee",
-      "fear",
-      "exam"
+      "fence"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "她在為期末考試學習。",
     "vocabIndex": 1
   },
   {
-    "q": "The news ______ everyone.【使興奮，使激動】",
+    "q": "The news about the trip ______ the children. They couldn't stop talking about it.",
     "options": [
+      "existed",
+      "expected",
       "excited",
-      "exist",
-      "expect",
-      "express"
+      "expressed"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "這個消息讓大家很興奮。",
     "vocabIndex": 2
   },
   {
-    "q": "Do you believe that ghosts ______?【存在】",
+    "q": "Do you think ghosts ______? I don't believe they are real.",
     "options": [
-      "expect",
+      "excite",
       "exist",
-      "express",
-      "excited"
+      "expect",
+      "express"
     ],
     "answer": 1,
     "cn": "你相信鬼存在嗎？",
     "vocabIndex": 3
   },
   {
-    "q": "Please use the nearest ______ in case of emergency.【出口】",
+    "q": "When the fire started, everyone ran to the ______ and got out of the building safely.",
     "options": [
-      "fence",
-      "fashion",
       "exit",
-      "fear"
+      "exam",
+      "fee",
+      "fashion"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "遇到緊急情況請使用最近的出口。",
     "vocabIndex": 4
   },
   {
-    "q": "We ______ good results from the project.【期望，預期】",
+    "q": "We ______ about thirty guests at the party tonight. We made enough food for them.",
     "options": [
-      "expect",
       "exist",
-      "express",
-      "excited"
+      "expect",
+      "excite",
+      "express"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "我們期望這個專案有好的結果。",
     "vocabIndex": 5
   },
   {
-    "q": "She found it difficult to ______ her feelings.【表達，表現】",
+    "q": "It is hard for him to ______ his feelings. He never says \"I love you.\"",
     "options": [
-      "expect",
-      "express",
       "exist",
-      "excited"
+      "expect",
+      "excite",
+      "express"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她發現很難表達她的感受。",
     "vocabIndex": 6
   },
   {
-    "q": "He asked for ______ help with his homework.【額外的，附加的】",
+    "q": "I have an ______ pen. You can use it if you forgot yours.",
     "options": [
-      "fancy",
+      "evil",
       "fair",
-      "fantastic",
-      "extra"
+      "extra",
+      "false"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "他請求額外的作業幫助。",
     "vocabIndex": 7
   },
   {
-    "q": "She always tries to be ______.【公平的，合理的】",
+    "q": "It is not ______! My brother got two cookies, but I got only one.",
     "options": [
-      "fantastic",
+      "false",
       "fair",
-      "extra",
-      "fancy"
+      "fancy",
+      "female"
     ],
     "answer": 1,
     "cn": "她總是努力做到公平。",
     "vocabIndex": 8
   },
   {
-    "q": "The statement he made was ______.【錯誤的，假的】",
+    "q": "\"The sun goes around the earth.\" Is this true or ______?",
     "options": [
-      "fantastic",
       "fair",
-      "false",
-      "extra"
+      "fancy",
+      "extra",
+      "false"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "他所做的聲明是錯誤的。",
     "vocabIndex": 9
   },
   {
-    "q": "She wore a ______ dress to the party.【花俏的，昂貴的】",
+    "q": "We ate at a ______ restaurant last night. It was beautiful, but the food was very expensive.",
     "options": [
       "fancy",
-      "evil",
       "fair",
+      "false",
       "female"
     ],
     "answer": 0,
@@ -305,71 +305,71 @@ const MCQS = [
     "vocabIndex": 10
   },
   {
-    "q": "They had a ______ time at the amusement park.【極好的，奇異的】",
+    "q": "The show was ______! It was the best one I have ever seen.",
     "options": [
-      "fair",
-      "extra",
-      "fancy",
-      "fantastic"
+      "false",
+      "female",
+      "fantastic",
+      "evil"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "他們在遊樂園玩得很開心。",
     "vocabIndex": 11
   },
   {
-    "q": "She is very interested in ______.【時尚，流行】",
+    "q": "Lisa is interested in ______. She always wears the newest kinds of clothes.",
     "options": [
-      "fee",
-      "exam",
-      "fashion",
-      "fear"
+      "fault",
+      "fear",
+      "fence",
+      "fashion"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她對時尚很感興趣。",
     "vocabIndex": 12
   },
   {
-    "q": "It was not her ______ that the meeting was delayed.【錯誤，缺點】",
+    "q": "It is my ______ that we are late. I got up too late this morning.",
     "options": [
-      "exam",
-      "fence",
+      "fashion",
+      "fault",
       "fee",
-      "fault"
+      "fence"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "會議延誤不是她的錯。",
     "vocabIndex": 13
   },
   {
-    "q": "He has a ______ of heights.【恐懼，害怕】",
-    "options": [
-      "exit",
-      "fear",
-      "fence",
-      "exam"
-    ],
-    "answer": 1,
-    "cn": "他恐高。",
-    "vocabIndex": 14
-  },
-  {
-    "q": "The entrance ______ is $10.【費用，酬金】",
+    "q": "She has a ______ of dogs. She runs away when she sees one.",
     "options": [
       "fee",
       "fence",
       "fear",
-      "exit"
+      "fashion"
+    ],
+    "answer": 2,
+    "cn": "他恐高。",
+    "vocabIndex": 14
+  },
+  {
+    "q": "The entrance ______ for the museum is 100 dollars. Children can get in for free.",
+    "options": [
+      "fee",
+      "fear",
+      "fault",
+      "fence"
     ],
     "answer": 0,
     "cn": "入場費是10美元。",
     "vocabIndex": 15
   },
   {
-    "q": "She has a warm ______ towards her old friends.【感覺，感情】",
+    "q": "I have a strange ______ that someone is following us.",
     "options": [
+      "fee",
       "fence",
-      "fear",
-      "exit",
+      "film",
       "feeling"
     ],
     "answer": 3,
@@ -377,44 +377,59 @@ const MCQS = [
     "vocabIndex": 16
   },
   {
-    "q": "The ______ employees were given equal opportunities.【女性的】",
+    "q": "A ______ lion doesn't have long hair around her head. Only the males do.",
     "options": [
-      "extra",
+      "fair",
       "female",
       "false",
-      "fantastic"
+      "fancy"
     ],
     "answer": 1,
     "cn": "女性員工獲得了平等的機會。",
     "vocabIndex": 17
   },
   {
-    "q": "They built a ______ around their garden.【圍欄】",
+    "q": "The farmer built a ______ around his field to keep the cows in.",
     "options": [
+      "fee",
+      "fear",
       "fence",
-      "exam",
-      "exit",
-      "fashion"
+      "film"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他們在花園周圍建了一個圍欄。",
     "vocabIndex": 18
   },
   {
-    "q": "They watched a ______ together.【影片，電影】",
+    "q": "We watched a ______ about dinosaurs at the theater last night. It was two hours long.",
     "options": [
+      "film",
       "fence",
       "fee",
-      "film",
-      "fashion"
+      "fault"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "他們一起看了一部電影。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
+  "fair": {
+    "pos": "adj.",
+    "en_def": "treating everyone in the same, right way",
+    "cn_def": "公平的，合理的"
+  },
+  "fancy": {
+    "pos": "adj.",
+    "en_def": "special and expensive; not simple",
+    "cn_def": "花俏的，昂貴的"
+  },
+  "extra": {
+    "pos": "adj.",
+    "en_def": "more than usual",
+    "cn_def": "額外的，附加的"
+  },
   "evil": {
     "pos": "adj.",
     "en_def": "very bad and wanting to hurt people",
@@ -425,7 +440,42 @@ const LOOKUP = {
     "en_def": "an important test at school",
     "cn_def": "考試"
   },
+  "exit": {
+    "pos": "n.",
+    "en_def": "a door you use to leave a building",
+    "cn_def": "出口"
+  },
+  "fee": {
+    "pos": "n.",
+    "en_def": "money you pay to enter a place or to get a service",
+    "cn_def": "費用，酬金"
+  },
+  "fence": {
+    "pos": "n.",
+    "en_def": "a wall made of wood or wire around a garden or field",
+    "cn_def": "圍欄"
+  },
+  "existed": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "存在"
+  },
+  "expected": {
+    "pos": "v.",
+    "en_def": "to think that something will happen",
+    "cn_def": "期望，預期"
+  },
   "excited": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "使興奮"
+  },
+  "expressed": {
+    "pos": "v.",
+    "en_def": "to show a feeling or idea with words or actions",
+    "cn_def": "表達，表現"
+  },
+  "excite": {
     "pos": "v.",
     "en_def": "to make someone feel very happy and interested",
     "cn_def": "使興奮，使激動"
@@ -434,11 +484,6 @@ const LOOKUP = {
     "pos": "v.",
     "en_def": "to be real; to be in the world",
     "cn_def": "存在"
-  },
-  "exit": {
-    "pos": "n.",
-    "en_def": "a door you use to leave a building",
-    "cn_def": "出口"
   },
   "expect": {
     "pos": "v.",
@@ -450,35 +495,25 @@ const LOOKUP = {
     "en_def": "to show a feeling or idea with words or actions",
     "cn_def": "表達，表現"
   },
-  "extra": {
-    "pos": "adj.",
-    "en_def": "more than usual",
-    "cn_def": "額外的，附加的"
-  },
-  "fair": {
-    "pos": "adj.",
-    "en_def": "treating everyone in the same, right way",
-    "cn_def": "公平的，合理的"
+  "fashion": {
+    "pos": "n.",
+    "en_def": "the kind of clothes that are popular at a certain time",
+    "cn_def": "時尚，流行"
   },
   "false": {
     "pos": "adj.",
     "en_def": "not true; not correct",
     "cn_def": "錯誤的，假的"
   },
-  "fancy": {
+  "female": {
     "pos": "adj.",
-    "en_def": "special and expensive; not simple",
-    "cn_def": "花俏的，昂貴的"
+    "en_def": "being a woman or a girl",
+    "cn_def": "女性的"
   },
   "fantastic": {
     "pos": "adj.",
     "en_def": "very, very good",
     "cn_def": "極好的，奇異的"
-  },
-  "fashion": {
-    "pos": "n.",
-    "en_def": "the kind of clothes that are popular at a certain time",
-    "cn_def": "時尚，流行"
   },
   "fault": {
     "pos": "n.",
@@ -490,30 +525,15 @@ const LOOKUP = {
     "en_def": "the feeling you have when you are afraid",
     "cn_def": "恐懼，害怕"
   },
-  "fee": {
+  "film": {
     "pos": "n.",
-    "en_def": "money you pay to enter a place or to get a service",
-    "cn_def": "費用，酬金"
+    "en_def": "a movie",
+    "cn_def": "影片，電影"
   },
   "feeling": {
     "pos": "n.",
     "en_def": "something that you feel inside, like love or anger",
     "cn_def": "感覺，感情"
-  },
-  "female": {
-    "pos": "adj.",
-    "en_def": "being a woman or a girl",
-    "cn_def": "女性的"
-  },
-  "fence": {
-    "pos": "n.",
-    "en_def": "a wall made of wood or wire around a garden or field",
-    "cn_def": "圍欄"
-  },
-  "film": {
-    "pos": "n.",
-    "en_def": "a movie",
-    "cn_def": "影片，電影"
   }
 };
 

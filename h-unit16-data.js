@@ -267,30 +267,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "The ring is made of pure __________.【金，黃金】",
+    "question": "The ring is made of __________. This yellow metal is very expensive.",
     "options": [
      {
       "letter": "A",
-      "text": "hammer"
+      "text": "golf"
      },
      {
       "letter": "B",
-      "text": "haircut"
+      "text": "gun"
      },
      {
       "letter": "C",
-      "text": "guest"
+      "text": "gold"
      },
      {
       "letter": "D",
-      "text": "gold"
+      "text": "hall"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 0
    },
    {
-    "question": "They spent a __________ weekend at the beach.【金色的，極好的】",
+    "question": "The sun was going down, and the sky turned a beautiful __________ color.",
     "options": [
      {
       "letter": "A",
@@ -302,49 +302,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "talkative"
+      "text": "humble"
      },
      {
       "letter": "D",
-      "text": "considerate"
+      "text": "humid"
      }
     ],
     "answer": "A",
     "vi": 1
    },
    {
-    "question": "He enjoys playing __________ on weekends.【高爾夫球】",
+    "question": "My father plays __________ on weekends. He hits a small white ball into holes on a big green field.",
     "options": [
      {
       "letter": "A",
-      "text": "hairdresser"
+      "text": "gold"
+     },
+     {
+      "letter": "B",
+      "text": "golf"
+     },
+     {
+      "letter": "C",
+      "text": "gun"
+     },
+     {
+      "letter": "D",
+      "text": "hall"
+     }
+    ],
+    "answer": "B",
+    "vi": 2
+   },
+   {
+    "question": "The __________ will build a new hospital in our city next year. The president said so on TV.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "guest"
      },
      {
       "letter": "B",
       "text": "hammer"
-     },
-     {
-      "letter": "C",
-      "text": "golf"
-     },
-     {
-      "letter": "D",
-      "text": "gold"
-     }
-    ],
-    "answer": "C",
-    "vi": 2
-   },
-   {
-    "question": "The __________ is working on new policies.【政府】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "haircut"
-     },
-     {
-      "letter": "B",
-      "text": "government"
      },
      {
       "letter": "C",
@@ -352,37 +352,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "hammer"
+      "text": "government"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 3
    },
    {
-    "question": "She is very proud of her __________.【孫女】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hairdresser"
-     },
-     {
-      "letter": "B",
-      "text": "gun"
-     },
-     {
-      "letter": "C",
-      "text": "granddaughter"
-     },
-     {
-      "letter": "D",
-      "text": "haircut"
-     }
-    ],
-    "answer": "C",
-    "vi": 4
-   },
-   {
-    "question": "He took his __________ fishing.【孫子】",
+    "question": "Mrs. Lin loves her __________. The little girl is her son's only child.",
     "options": [
      {
       "letter": "A",
@@ -390,22 +367,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "government"
+      "text": "granddaughter"
      },
      {
       "letter": "C",
-      "text": "hanger"
+      "text": "guest"
      },
      {
       "letter": "D",
-      "text": "handkerchief"
+      "text": "guide"
      }
     ],
-    "answer": "A",
+    "answer": "B",
+    "vi": 4
+   },
+   {
+    "question": "The old man taught his __________ how to fish. The boy is his daughter's son.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "granddaughter"
+     },
+     {
+      "letter": "B",
+      "text": "hairdresser"
+     },
+     {
+      "letter": "C",
+      "text": "guest"
+     },
+     {
+      "letter": "D",
+      "text": "grandson"
+     }
+    ],
+    "answer": "D",
     "vi": 5
    },
    {
-    "question": "He is too __________ to share his wealth.【貪婪的】",
+    "question": "Don't be so __________. You already have five cookies, and you still want more!",
     "options": [
      {
       "letter": "A",
@@ -413,68 +413,114 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "humble"
+     },
+     {
+      "letter": "C",
       "text": "greedy"
      },
      {
-      "letter": "C",
-      "text": "formal"
-     },
-     {
       "letter": "D",
-      "text": "rude"
-     }
-    ],
-    "answer": "B",
-    "vi": 6
-   },
-   {
-    "question": "She __________ everyone with a smile.【問候，迎接】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "handle"
-     },
-     {
-      "letter": "B",
-      "text": "guard"
-     },
-     {
-      "letter": "C",
-      "text": "hopped"
-     },
-     {
-      "letter": "D",
-      "text": "greeted"
-     }
-    ],
-    "answer": "D",
-    "vi": 7
-   },
-   {
-    "question": "The soldiers __________ the entrance.【保衛，守護】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "handle"
-     },
-     {
-      "letter": "B",
-      "text": "greeted"
-     },
-     {
-      "letter": "C",
-      "text": "guard"
-     },
-     {
-      "letter": "D",
-      "text": "forgive"
+      "text": "homesick"
      }
     ],
     "answer": "C",
+    "vi": 6
+   },
+   {
+    "question": "The teacher __________ the students at the door with a smile and said, \"Good morning!\"",
+    "options": [
+     {
+      "letter": "A",
+      "text": "greeted"
+     },
+     {
+      "letter": "B",
+      "text": "guarded"
+     },
+     {
+      "letter": "C",
+      "text": "handled"
+     },
+     {
+      "letter": "D",
+      "text": "hired"
+     }
+    ],
+    "answer": "A",
+    "vi": 7
+   },
+   {
+    "question": "Two big dogs __________ the house at night. They bark when a stranger comes near.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "greet"
+     },
+     {
+      "letter": "B",
+      "text": "handle"
+     },
+     {
+      "letter": "C",
+      "text": "hire"
+     },
+     {
+      "letter": "D",
+      "text": "guard"
+     }
+    ],
+    "answer": "D",
     "vi": 8
    },
    {
-    "question": "We have a special __________ tonight.【客人】",
+    "question": "We have ten __________ coming for dinner tonight. We need more chairs and plates.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "guests"
+     },
+     {
+      "letter": "B",
+      "text": "guides"
+     },
+     {
+      "letter": "C",
+      "text": "guns"
+     },
+     {
+      "letter": "D",
+      "text": "halls"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "The tour __________ showed us around the old city and told us its history.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "guest"
+     },
+     {
+      "letter": "B",
+      "text": "gun"
+     },
+     {
+      "letter": "C",
+      "text": "guide"
+     },
+     {
+      "letter": "D",
+      "text": "hanger"
+     }
+    ],
+    "answer": "C",
+    "vi": 10
+   },
+   {
+    "question": "The police officer carries a __________. He only uses it when he is in great danger.",
     "options": [
      {
       "letter": "A",
@@ -482,7 +528,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "guest"
+      "text": "gun"
      },
      {
       "letter": "C",
@@ -490,60 +536,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "hairdresser"
+      "text": "hanger"
      }
     ],
     "answer": "B",
-    "vi": 9
-   },
-   {
-    "question": "The tour __________ showed us around the city.【導遊，指導】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "guide"
-     },
-     {
-      "letter": "B",
-      "text": "hairdresser"
-     },
-     {
-      "letter": "C",
-      "text": "granddaughter"
-     },
-     {
-      "letter": "D",
-      "text": "handkerchief"
-     }
-    ],
-    "answer": "A",
-    "vi": 10
-   },
-   {
-    "question": "He was shot with a __________.【槍】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "government"
-     },
-     {
-      "letter": "B",
-      "text": "haircut"
-     },
-     {
-      "letter": "C",
-      "text": "gold"
-     },
-     {
-      "letter": "D",
-      "text": "gun"
-     }
-    ],
-    "answer": "D",
     "vi": 11
    },
    {
-    "question": "She got a new __________ yesterday.【理髮，髮型】",
+    "question": "Your hair is too long. You need a __________ before school starts next week.",
     "options": [
      {
       "letter": "A",
@@ -551,30 +551,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "granddaughter"
+      "text": "hammer"
      },
      {
       "letter": "C",
-      "text": "gun"
+      "text": "hanger"
      },
      {
       "letter": "D",
-      "text": "government"
+      "text": "hall"
      }
     ],
     "answer": "A",
     "vi": 12
    },
    {
-    "question": "She is a professional __________.【理髮師，美容師】",
+    "question": "The __________ washed, cut, and dried my mother's hair. It took one hour.",
     "options": [
      {
       "letter": "A",
-      "text": "handkerchief"
+      "text": "guide"
      },
      {
       "letter": "B",
-      "text": "gun"
+      "text": "guest"
      },
      {
       "letter": "C",
@@ -582,151 +582,151 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "gold"
+      "text": "granddaughter"
      }
     ],
     "answer": "C",
     "vi": 13
    },
    {
-    "question": "They met in the main __________.【大廳，走廊】",
+    "question": "The meeting will be in the school __________. It is big enough for five hundred people.",
     "options": [
      {
       "letter": "A",
-      "text": "guest"
+      "text": "hammer"
      },
      {
       "letter": "B",
-      "text": "hammer"
+      "text": "hall"
+     },
+     {
+      "letter": "C",
+      "text": "hanger"
+     },
+     {
+      "letter": "D",
+      "text": "haircut"
+     }
+    ],
+    "answer": "B",
+    "vi": 14
+   },
+   {
+    "question": "Dad hit the nail into the wall with a __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hanger"
+     },
+     {
+      "letter": "B",
+      "text": "handkerchief"
      },
      {
       "letter": "C",
       "text": "haircut"
+     },
+     {
+      "letter": "D",
+      "text": "hammer"
+     }
+    ],
+    "answer": "D",
+    "vi": 15
+   },
+   {
+    "question": "He took a __________ out of his pocket and dried his eyes with it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hammer"
+     },
+     {
+      "letter": "B",
+      "text": "hanger"
+     },
+     {
+      "letter": "C",
+      "text": "handkerchief"
      },
      {
       "letter": "D",
       "text": "hall"
      }
     ],
-    "answer": "D",
-    "vi": 14
-   },
-   {
-    "question": "He used a __________ to fix the fence.【錘子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "haircut"
-     },
-     {
-      "letter": "B",
-      "text": "hammer"
-     },
-     {
-      "letter": "C",
-      "text": "gold"
-     },
-     {
-      "letter": "D",
-      "text": "hanger"
-     }
-    ],
-    "answer": "B",
-    "vi": 15
-   },
-   {
-    "question": "He gave her a clean __________.【手帕】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "gun"
-     },
-     {
-      "letter": "B",
-      "text": "hammer"
-     },
-     {
-      "letter": "C",
-      "text": "hanger"
-     },
-     {
-      "letter": "D",
-      "text": "handkerchief"
-     }
-    ],
-    "answer": "D",
+    "answer": "C",
     "vi": 16
    },
    {
-    "question": "She knows how to __________ difficult situations.【處理，操作】",
+    "question": "This problem is too big for me. I don't know how to __________ it by myself.",
     "options": [
      {
       "letter": "A",
+      "text": "greet"
+     },
+     {
+      "letter": "B",
       "text": "handle"
      },
      {
-      "letter": "B",
+      "letter": "C",
       "text": "guard"
      },
      {
-      "letter": "C",
-      "text": "greeted"
-     },
-     {
       "letter": "D",
-      "text": "bother"
-     }
-    ],
-    "answer": "A",
-    "vi": 17
-   },
-   {
-    "question": "She hung her coat on a __________.【衣架】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "golf"
-     },
-     {
-      "letter": "B",
-      "text": "haircut"
-     },
-     {
-      "letter": "C",
-      "text": "hanger"
-     },
-     {
-      "letter": "D",
-      "text": "handkerchief"
-     }
-    ],
-    "answer": "C",
-    "vi": 18
-   },
-   {
-    "question": "He can __________ believe what happened.【幾乎不，勉強地】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "backward"
-     },
-     {
-      "letter": "B",
-      "text": "hardly"
-     },
-     {
-      "letter": "C",
-      "text": "downtown"
-     },
-     {
-      "letter": "D",
-      "text": "neither"
+      "text": "hop"
      }
     ],
     "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "Take off your coat and put it on a __________ in the closet.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hammer"
+     },
+     {
+      "letter": "B",
+      "text": "handkerchief"
+     },
+     {
+      "letter": "C",
+      "text": "haircut"
+     },
+     {
+      "letter": "D",
+      "text": "hanger"
+     }
+    ],
+    "answer": "D",
+    "vi": 18
+   },
+   {
+    "question": "I was so tired that I could __________ keep my eyes open. I almost fell asleep in class.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hardly"
+     },
+     {
+      "letter": "B",
+      "text": "especially"
+     },
+     {
+      "letter": "C",
+      "text": "forward"
+     },
+     {
+      "letter": "D",
+      "text": "everywhere"
+     }
+    ],
+    "answer": "A",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"backward":["toward the back","向後地"],"bother":["to make someone stop what they are doing; to annoy","打擾，煩擾"],"considerate":["always thinking about what other people need or feel","體貼的"],"downtown":["in the center of a city","市中心"],"forgive":["to stop being angry with someone for something they did","原諒，寬恕"],"formal":["serious and following rules; not relaxed","正式的"],"gold":["a yellow metal that is worth a lot of money","金，黃金"],"golden":["very happy and special; having the color of gold","金色的，極好的"],"golf":["a game in which you hit a small white ball into holes with a long stick","高爾夫球"],"government":["the group of people who rule a country","政府"],"granddaughter":["the daughter of your son or daughter","孫女"],"grandson":["the son of your son or daughter","孫子"],"greedy":["wanting more money or food than you need","貪婪的"],"greeted":["to say hello to someone","問候，迎接"],"guard":["to watch a place to keep it safe","保衛，守護"],"guest":["a person who is invited to a home or a show","客人"],"guide":["a person who shows visitors around a place","導遊，指導"],"gun":["a weapon that shoots bullets","槍"],"haircut":["when someone cuts your hair; the way your hair is cut","理髮，髮型"],"hairdresser":["a person whose job is to cut and style hair","理髮師，美容師"],"hall":["a big room for meetings or events; the space inside the front door","大廳，走廊"],"hammer":["a tool with a heavy metal head for hitting nails","錘子"],"handkerchief":["a small piece of cloth for cleaning your nose or drying your eyes","手帕"],"handle":["to take care of a problem or a situation","處理，操作"],"hanger":["a piece of plastic or wood that you hang clothes on","衣架"],"hardly":["almost not","幾乎不，勉強地"],"hopped":["to move by making short, quick jumps","跳躍，單腳跳"],"neither":["not one and not the other of two","也不，既不"],"rude":["not polite","無禮的，粗魯的"],"talkative":["liking to talk a lot","健談的，話多的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"golf":["a game in which you hit a small white ball into holes with a long stick","高爾夫球"],"gun":["a weapon that shoots bullets","槍"],"gold":["a yellow metal that is worth a lot of money","金，黃金"],"hall":["a big room for meetings or events; the space inside the front door","大廳，走廊"],"golden":["very happy and special; having the color of gold","金色的，極好的"],"greedy":["wanting more money or food than you need","貪婪的"],"humble":["not thinking or saying that you are better than others","謙虛的，卑微的"],"humid":["(of weather) warm and wet","潮濕的，濕熱的"],"guest":["a person who is invited to a home or a show","客人"],"hammer":["a tool with a heavy metal head for hitting nails","錘子"],"hanger":["a piece of plastic or wood that you hang clothes on","衣架"],"government":["the group of people who rule a country","政府"],"grandson":["the son of your son or daughter","孫子"],"granddaughter":["the daughter of your son or daughter","孫女"],"guide":["a person who shows visitors around a place","導遊，指導"],"hairdresser":["a person whose job is to cut and style hair","理髮師，美容師"],"homesick":["sad because you are away from home","想家的"],"greeted":["to say hello to someone","問候，迎接"],"guarded":["to watch a place to keep it safe","保衛，守護"],"handled":["to take care of a problem or a situation","處理，操作"],"hired":["to give someone a job","雇用"],"greet":["to say hello to someone","問候，迎接"],"handle":["to take care of a problem or a situation","處理，操作"],"hire":["to give someone a job","雇用"],"guard":["to watch a place to keep it safe","保衛，守護"],"guests":["a person who is invited to a home or a show","客人"],"guides":["a person who shows visitors around a place","導遊，指導"],"guns":["a weapon that shoots bullets","槍"],"halls":["a big room for meetings or events; the space inside the front door","大廳，走廊"],"haircut":["when someone cuts your hair; the way your hair is cut","理髮，髮型"],"handkerchief":["a small piece of cloth for cleaning your nose or drying your eyes","手帕"],"hop":["to move by making short, quick jumps","跳躍，單腳跳"],"hardly":["almost not","幾乎不，勉強地"],"especially":["more than others; more than usual","特別地，尤其"],"forward":["toward the front","向前"],"everywhere":["in all places","到處"]});

@@ -176,397 +176,427 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "The ring is made of pure ______.【金，黃金】",
+    "q": "The ring is made of ______. This yellow metal is very expensive.",
     "options": [
-      "hammer",
-      "haircut",
-      "guest",
-      "gold"
+      "golf",
+      "gun",
+      "gold",
+      "hall"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "這枚戒指是純金製成的。",
     "vocabIndex": 0
   },
   {
-    "q": "They spent a ______ weekend at the beach.【金色的，極好的】",
+    "q": "The sun was going down, and the sky turned a beautiful ______ color.",
     "options": [
       "golden",
       "greedy",
-      "talkative",
-      "considerate"
+      "humble",
+      "humid"
     ],
     "answer": 0,
     "cn": "他們在海灘度過了一個美好的週末。",
     "vocabIndex": 1
   },
   {
-    "q": "He enjoys playing ______ on weekends.【高爾夫球】",
+    "q": "My father plays ______ on weekends. He hits a small white ball into holes on a big green field.",
     "options": [
-      "hairdresser",
-      "hammer",
+      "gold",
       "golf",
-      "gold"
+      "gun",
+      "hall"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "他喜歡在週末打高爾夫球。",
     "vocabIndex": 2
   },
   {
-    "q": "The ______ is working on new policies.【政府】",
+    "q": "The ______ will build a new hospital in our city next year. The president said so on TV.",
     "options": [
-      "haircut",
-      "government",
+      "guest",
+      "hammer",
       "hanger",
-      "hammer"
+      "government"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "政府正在制定新政策。",
     "vocabIndex": 3
   },
   {
-    "q": "She is very proud of her ______.【孫女】",
+    "q": "Mrs. Lin loves her ______. The little girl is her son's only child.",
     "options": [
-      "hairdresser",
-      "gun",
+      "grandson",
       "granddaughter",
-      "haircut"
+      "guest",
+      "guide"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她為她的孫女感到自豪。",
     "vocabIndex": 4
   },
   {
-    "q": "He took his ______ fishing.【孫子】",
+    "q": "The old man taught his ______ how to fish. The boy is his daughter's son.",
     "options": [
-      "grandson",
-      "government",
-      "hanger",
-      "handkerchief"
+      "granddaughter",
+      "hairdresser",
+      "guest",
+      "grandson"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "他帶他的孫子去釣魚。",
     "vocabIndex": 5
   },
   {
-    "q": "He is too ______ to share his wealth.【貪婪的】",
+    "q": "Don't be so ______. You already have five cookies, and you still want more!",
     "options": [
       "golden",
+      "humble",
       "greedy",
-      "formal",
-      "rude"
+      "homesick"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "他太貪婪了，不願分享他的財富。",
     "vocabIndex": 6
   },
   {
-    "q": "She ______ everyone with a smile.【問候，迎接】",
+    "q": "The teacher ______ the students at the door with a smile and said, \"Good morning!\"",
     "options": [
-      "handle",
-      "guard",
-      "hopped",
-      "greeted"
+      "greeted",
+      "guarded",
+      "handled",
+      "hired"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "她微笑著迎接每一個人。",
     "vocabIndex": 7
   },
   {
-    "q": "The soldiers ______ the entrance.【保衛，守護】",
+    "q": "Two big dogs ______ the house at night. They bark when a stranger comes near.",
     "options": [
+      "greet",
       "handle",
-      "greeted",
-      "guard",
-      "forgive"
+      "hire",
+      "guard"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "士兵守衛著入口。",
     "vocabIndex": 8
   },
   {
-    "q": "We have a special ______ tonight.【客人】",
+    "q": "We have ten ______ coming for dinner tonight. We need more chairs and plates.",
     "options": [
-      "guide",
-      "guest",
-      "hall",
-      "hairdresser"
+      "guests",
+      "guides",
+      "guns",
+      "halls"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "我們今晚有一位特別的客人。",
     "vocabIndex": 9
   },
   {
-    "q": "The tour ______ showed us around the city.【導遊，指導】",
+    "q": "The tour ______ showed us around the old city and told us its history.",
     "options": [
+      "guest",
+      "gun",
       "guide",
-      "hairdresser",
-      "granddaughter",
-      "handkerchief"
+      "hanger"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "導遊帶我們遊覽了城市。",
     "vocabIndex": 10
   },
   {
-    "q": "He was shot with a ______.【槍】",
+    "q": "The police officer carries a ______. He only uses it when he is in great danger.",
     "options": [
-      "government",
-      "haircut",
-      "gold",
-      "gun"
+      "guide",
+      "gun",
+      "hall",
+      "hanger"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他被槍擊中了。",
     "vocabIndex": 11
   },
   {
-    "q": "She got a new ______ yesterday.【理髮，髮型】",
+    "q": "Your hair is too long. You need a ______ before school starts next week.",
     "options": [
       "haircut",
-      "granddaughter",
-      "gun",
-      "government"
+      "hammer",
+      "hanger",
+      "hall"
     ],
     "answer": 0,
     "cn": "她昨天剪了一個新髮型。",
     "vocabIndex": 12
   },
   {
-    "q": "She is a professional ______.【理髮師，美容師】",
+    "q": "The ______ washed, cut, and dried my mother's hair. It took one hour.",
     "options": [
-      "handkerchief",
-      "gun",
+      "guide",
+      "guest",
       "hairdresser",
-      "gold"
+      "granddaughter"
     ],
     "answer": 2,
     "cn": "她是一名專業的理髮師。",
     "vocabIndex": 13
   },
   {
-    "q": "They met in the main ______.【大廳，走廊】",
+    "q": "The meeting will be in the school ______. It is big enough for five hundred people.",
     "options": [
-      "guest",
       "hammer",
-      "haircut",
-      "hall"
+      "hall",
+      "hanger",
+      "haircut"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他們在主大廳見面。",
     "vocabIndex": 14
   },
   {
-    "q": "He used a ______ to fix the fence.【錘子】",
+    "q": "Dad hit the nail into the wall with a ______.",
     "options": [
+      "hanger",
+      "handkerchief",
       "haircut",
-      "hammer",
-      "gold",
-      "hanger"
+      "hammer"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "他用錘子修理圍欄。",
     "vocabIndex": 15
   },
   {
-    "q": "He gave her a clean ______.【手帕】",
+    "q": "He took a ______ out of his pocket and dried his eyes with it.",
     "options": [
-      "gun",
       "hammer",
       "hanger",
-      "handkerchief"
+      "handkerchief",
+      "hall"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "他給了她一條乾淨的手帕。",
     "vocabIndex": 16
   },
   {
-    "q": "She knows how to ______ difficult situations.【處理，操作】",
+    "q": "This problem is too big for me. I don't know how to ______ it by myself.",
     "options": [
+      "greet",
       "handle",
       "guard",
-      "greeted",
-      "bother"
+      "hop"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "她知道如何處理困難的情況。",
     "vocabIndex": 17
   },
   {
-    "q": "She hung her coat on a ______.【衣架】",
+    "q": "Take off your coat and put it on a ______ in the closet.",
     "options": [
-      "golf",
+      "hammer",
+      "handkerchief",
       "haircut",
-      "hanger",
-      "handkerchief"
+      "hanger"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她把外套掛在衣架上。",
     "vocabIndex": 18
   },
   {
-    "q": "He can ______ believe what happened.【幾乎不，勉強地】",
+    "q": "I was so tired that I could ______ keep my eyes open. I almost fell asleep in class.",
     "options": [
-      "backward",
       "hardly",
-      "downtown",
-      "neither"
+      "especially",
+      "forward",
+      "everywhere"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "他幾乎不敢相信發生了什麼。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "backward": {
-    "pos": "adv.",
-    "en_def": "toward the back",
-    "cn_def": "向後地"
-  },
-  "bother": {
-    "pos": "v.",
-    "en_def": "to make someone stop what they are doing; to annoy",
-    "cn_def": "打擾，煩擾"
-  },
-  "considerate": {
-    "pos": "adj.",
-    "en_def": "always thinking about what other people need or feel",
-    "cn_def": "體貼的"
-  },
-  "downtown": {
-    "pos": "adv.",
-    "en_def": "in the center of a city",
-    "cn_def": "市中心"
-  },
-  "forgive": {
-    "pos": "v.",
-    "en_def": "to stop being angry with someone for something they did",
-    "cn_def": "原諒，寬恕"
-  },
-  "formal": {
-    "pos": "adj.",
-    "en_def": "serious and following rules; not relaxed",
-    "cn_def": "正式的"
-  },
-  "gold": {
-    "pos": "n.",
-    "en_def": "a yellow metal that is worth a lot of money",
-    "cn_def": "金，黃金"
-  },
-  "golden": {
-    "pos": "adj.",
-    "en_def": "very happy and special; having the color of gold",
-    "cn_def": "金色的，極好的"
-  },
   "golf": {
     "pos": "n.",
     "en_def": "a game in which you hit a small white ball into holes with a long stick",
     "cn_def": "高爾夫球"
-  },
-  "government": {
-    "pos": "n.",
-    "en_def": "the group of people who rule a country",
-    "cn_def": "政府"
-  },
-  "granddaughter": {
-    "pos": "n.",
-    "en_def": "the daughter of your son or daughter",
-    "cn_def": "孫女"
-  },
-  "grandson": {
-    "pos": "n.",
-    "en_def": "the son of your son or daughter",
-    "cn_def": "孫子"
-  },
-  "greedy": {
-    "pos": "adj.",
-    "en_def": "wanting more money or food than you need",
-    "cn_def": "貪婪的"
-  },
-  "greeted": {
-    "pos": "v.",
-    "en_def": "to say hello to someone",
-    "cn_def": "問候，迎接"
-  },
-  "guard": {
-    "pos": "v.",
-    "en_def": "to watch a place to keep it safe",
-    "cn_def": "保衛，守護"
-  },
-  "guest": {
-    "pos": "n.",
-    "en_def": "a person who is invited to a home or a show",
-    "cn_def": "客人"
-  },
-  "guide": {
-    "pos": "n.",
-    "en_def": "a person who shows visitors around a place",
-    "cn_def": "導遊，指導"
   },
   "gun": {
     "pos": "n.",
     "en_def": "a weapon that shoots bullets",
     "cn_def": "槍"
   },
-  "haircut": {
+  "gold": {
     "pos": "n.",
-    "en_def": "when someone cuts your hair; the way your hair is cut",
-    "cn_def": "理髮，髮型"
-  },
-  "hairdresser": {
-    "pos": "n.",
-    "en_def": "a person whose job is to cut and style hair",
-    "cn_def": "理髮師，美容師"
+    "en_def": "a yellow metal that is worth a lot of money",
+    "cn_def": "金，黃金"
   },
   "hall": {
     "pos": "n.",
     "en_def": "a big room for meetings or events; the space inside the front door",
     "cn_def": "大廳，走廊"
   },
+  "golden": {
+    "pos": "adj.",
+    "en_def": "very happy and special; having the color of gold",
+    "cn_def": "金色的，極好的"
+  },
+  "greedy": {
+    "pos": "adj.",
+    "en_def": "wanting more money or food than you need",
+    "cn_def": "貪婪的"
+  },
+  "humble": {
+    "pos": "adj.",
+    "en_def": "not thinking or saying that you are better than others",
+    "cn_def": "謙虛的，卑微的"
+  },
+  "humid": {
+    "pos": "adj.",
+    "en_def": "(of weather) warm and wet",
+    "cn_def": "潮濕的，濕熱的"
+  },
+  "guest": {
+    "pos": "n.",
+    "en_def": "a person who is invited to a home or a show",
+    "cn_def": "客人"
+  },
   "hammer": {
     "pos": "n.",
     "en_def": "a tool with a heavy metal head for hitting nails",
     "cn_def": "錘子"
-  },
-  "handkerchief": {
-    "pos": "n.",
-    "en_def": "a small piece of cloth for cleaning your nose or drying your eyes",
-    "cn_def": "手帕"
-  },
-  "handle": {
-    "pos": "v.",
-    "en_def": "to take care of a problem or a situation",
-    "cn_def": "處理，操作"
   },
   "hanger": {
     "pos": "n.",
     "en_def": "a piece of plastic or wood that you hang clothes on",
     "cn_def": "衣架"
   },
+  "government": {
+    "pos": "n.",
+    "en_def": "the group of people who rule a country",
+    "cn_def": "政府"
+  },
+  "grandson": {
+    "pos": "n.",
+    "en_def": "the son of your son or daughter",
+    "cn_def": "孫子"
+  },
+  "granddaughter": {
+    "pos": "n.",
+    "en_def": "the daughter of your son or daughter",
+    "cn_def": "孫女"
+  },
+  "guide": {
+    "pos": "n.",
+    "en_def": "a person who shows visitors around a place",
+    "cn_def": "導遊，指導"
+  },
+  "hairdresser": {
+    "pos": "n.",
+    "en_def": "a person whose job is to cut and style hair",
+    "cn_def": "理髮師，美容師"
+  },
+  "homesick": {
+    "pos": "adj.",
+    "en_def": "sad because you are away from home",
+    "cn_def": "想家的"
+  },
+  "greeted": {
+    "pos": "v.",
+    "en_def": "to say hello to someone",
+    "cn_def": "問候，迎接"
+  },
+  "guarded": {
+    "pos": "v.",
+    "en_def": "to watch a place to keep it safe",
+    "cn_def": "保衛，守護"
+  },
+  "handled": {
+    "pos": "v.",
+    "en_def": "to take care of a problem or a situation",
+    "cn_def": "處理，操作"
+  },
+  "hired": {
+    "pos": "v.",
+    "en_def": "to give someone a job",
+    "cn_def": "雇用"
+  },
+  "greet": {
+    "pos": "v.",
+    "en_def": "to say hello to someone",
+    "cn_def": "問候，迎接"
+  },
+  "handle": {
+    "pos": "v.",
+    "en_def": "to take care of a problem or a situation",
+    "cn_def": "處理，操作"
+  },
+  "hire": {
+    "pos": "v.",
+    "en_def": "to give someone a job",
+    "cn_def": "雇用"
+  },
+  "guard": {
+    "pos": "v.",
+    "en_def": "to watch a place to keep it safe",
+    "cn_def": "保衛，守護"
+  },
+  "guests": {
+    "pos": "n.",
+    "en_def": "a person who is invited to a home or a show",
+    "cn_def": "客人"
+  },
+  "guides": {
+    "pos": "n.",
+    "en_def": "a person who shows visitors around a place",
+    "cn_def": "導遊，指導"
+  },
+  "guns": {
+    "pos": "n.",
+    "en_def": "a weapon that shoots bullets",
+    "cn_def": "槍"
+  },
+  "halls": {
+    "pos": "n.",
+    "en_def": "a big room for meetings or events; the space inside the front door",
+    "cn_def": "大廳，走廊"
+  },
+  "haircut": {
+    "pos": "n.",
+    "en_def": "when someone cuts your hair; the way your hair is cut",
+    "cn_def": "理髮，髮型"
+  },
+  "handkerchief": {
+    "pos": "n.",
+    "en_def": "a small piece of cloth for cleaning your nose or drying your eyes",
+    "cn_def": "手帕"
+  },
+  "hop": {
+    "pos": "v.",
+    "en_def": "to move by making short, quick jumps",
+    "cn_def": "跳躍，單腳跳"
+  },
   "hardly": {
     "pos": "adv.",
     "en_def": "almost not",
     "cn_def": "幾乎不，勉強地"
   },
-  "hopped": {
-    "pos": "v.",
-    "en_def": "to move by making short, quick jumps",
-    "cn_def": "跳躍，單腳跳"
-  },
-  "neither": {
+  "especially": {
     "pos": "adv.",
-    "en_def": "not one and not the other of two",
-    "cn_def": "也不，既不"
+    "en_def": "more than others; more than usual",
+    "cn_def": "特別地，尤其"
   },
-  "rude": {
-    "pos": "adj.",
-    "en_def": "not polite",
-    "cn_def": "無禮的，粗魯的"
+  "forward": {
+    "pos": "adv.",
+    "en_def": "toward the front",
+    "cn_def": "向前"
   },
-  "talkative": {
-    "pos": "adj.",
-    "en_def": "liking to talk a lot",
-    "cn_def": "健談的，話多的"
+  "everywhere": {
+    "pos": "adv.",
+    "en_def": "in all places",
+    "cn_def": "到處"
   }
 };
 

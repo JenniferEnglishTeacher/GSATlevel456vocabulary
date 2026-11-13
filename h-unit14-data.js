@@ -267,7 +267,7 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "The __________ decision will be made tomorrow.【最後的，決定性的】",
+    "question": "This is the __________ game of the year. The winner will be the champion.",
     "options": [
      {
       "letter": "A",
@@ -275,45 +275,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "fit"
-     },
-     {
-      "letter": "C",
-      "text": "foolish"
-     },
-     {
-      "letter": "D",
-      "text": "final"
-     }
-    ],
-    "answer": "D",
-    "vi": 0
-   },
-   {
-    "question": "These shoes __________ perfectly.【合適的，健康的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "final"
-     },
-     {
-      "letter": "B",
-      "text": "former"
-     },
-     {
-      "letter": "C",
-      "text": "fit"
-     },
-     {
-      "letter": "D",
       "text": "foggy"
+     },
+     {
+      "letter": "C",
+      "text": "final"
+     },
+     {
+      "letter": "D",
+      "text": "foolish"
      }
     ],
     "answer": "C",
+    "vi": 0
+   },
+   {
+    "question": "These shoes don't __________ me. They are too small for my feet.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "focus"
+     },
+     {
+      "letter": "B",
+      "text": "forgive"
+     },
+     {
+      "letter": "C",
+      "text": "frighten"
+     },
+     {
+      "letter": "D",
+      "text": "fit"
+     }
+    ],
+    "answer": "D",
     "vi": 1
    },
    {
-    "question": "They raised the national __________.【旗幟】",
+    "question": "The __________ of the U.S.A. has stars and stripes on it. It is red, white, and blue.",
     "options": [
      {
       "letter": "A",
@@ -321,22 +321,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "flight"
+      "text": "flute"
      },
      {
       "letter": "C",
-      "text": "flu"
+      "text": "fog"
      },
      {
       "letter": "D",
-      "text": "flute"
+      "text": "form"
      }
     ],
     "answer": "A",
     "vi": 2
    },
    {
-    "question": "She used a __________ to find her way in the dark.【手電筒】",
+    "question": "It is dark in the cave. Turn on your __________ so we can see.",
     "options": [
      {
       "letter": "A",
@@ -352,14 +352,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "flat tire"
+      "text": "flute"
      }
     ],
     "answer": "B",
     "vi": 3
    },
    {
-    "question": "He had a __________ on his way to work.【爆胎】",
+    "question": "My bike has a __________. There is no air in the front wheel, so I can't ride it.",
     "options": [
      {
       "letter": "A",
@@ -367,7 +367,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "flight"
+      "text": "flute"
      },
      {
       "letter": "C",
@@ -382,7 +382,7 @@ window.FLASHCARD_UNITS = {
     "vi": 4
    },
    {
-    "question": "Their __________ was delayed due to bad weather.【飛行，航班】",
+    "question": "Our __________ to Tokyo leaves at ten. We have to be at the airport by eight.",
     "options": [
      {
       "letter": "A",
@@ -390,30 +390,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "form"
+      "text": "flight"
      },
      {
       "letter": "C",
-      "text": "flute"
+      "text": "flu"
      },
      {
       "letter": "D",
-      "text": "flight"
+      "text": "fog"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 5
    },
    {
-    "question": "She used __________ to bake the cake.【麵粉】",
+    "question": "We need __________, eggs, and sugar to make a cake.",
     "options": [
      {
       "letter": "A",
-      "text": "flute"
+      "text": "flu"
      },
      {
       "letter": "B",
-      "text": "flour"
+      "text": "fog"
      },
      {
       "letter": "C",
@@ -421,14 +421,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "forest"
+      "text": "flour"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 6
    },
    {
-    "question": "He caught the __________ last week.【流感】",
+    "question": "Ben has the __________. He has a fever and a bad cough, so he is staying in bed.",
     "options": [
      {
       "letter": "A",
@@ -436,30 +436,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "flashlight"
-     },
-     {
-      "letter": "C",
-      "text": "football"
-     },
-     {
-      "letter": "D",
-      "text": "fog"
-     }
-    ],
-    "answer": "A",
-    "vi": 7
-   },
-   {
-    "question": "She plays the __________ in the school band.【長笛】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fog"
-     },
-     {
-      "letter": "B",
-      "text": "flat tire"
+      "text": "flag"
      },
      {
       "letter": "C",
@@ -467,45 +444,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "flight"
-     }
-    ],
-    "answer": "C",
-    "vi": 8
-   },
-   {
-    "question": "You need to __________ on your studies.【集中，專注】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "forgive"
-     },
-     {
-      "letter": "B",
-      "text": "focus"
-     },
-     {
-      "letter": "C",
-      "text": "express"
-     },
-     {
-      "letter": "D",
-      "text": "discuss"
-     }
-    ],
-    "answer": "B",
-    "vi": 9
-   },
-   {
-    "question": "The __________ was so thick that we couldn't see the road.【霧】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fog"
-     },
-     {
-      "letter": "B",
       "text": "form"
+     }
+    ],
+    "answer": "A",
+    "vi": 7
+   },
+   {
+    "question": "Lisa plays the __________ in the school band. She blows into it to make music.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "flag"
+     },
+     {
+      "letter": "B",
+      "text": "flute"
      },
      {
       "letter": "C",
@@ -513,26 +467,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "flu"
+      "text": "form"
      }
     ],
-    "answer": "A",
-    "vi": 10
+    "answer": "B",
+    "vi": 8
    },
    {
-    "question": "It was a cold and __________ morning.【有霧的，模糊的】",
+    "question": "Turn off the TV and __________ on your homework. You can't do two things at once.",
     "options": [
      {
       "letter": "A",
-      "text": "former"
+      "text": "focus"
      },
      {
       "letter": "B",
-      "text": "formal"
+      "text": "forgive"
      },
      {
       "letter": "C",
+      "text": "fit"
+     },
+     {
+      "letter": "D",
+      "text": "frighten"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "The __________ was so thick this morning that the drivers couldn't see the road.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "flag"
+     },
+     {
+      "letter": "B",
+      "text": "flu"
+     },
+     {
+      "letter": "C",
+      "text": "fog"
+     },
+     {
+      "letter": "D",
+      "text": "form"
+     }
+    ],
+    "answer": "C",
+    "vi": 10
+   },
+   {
+    "question": "It was a __________ morning. We couldn't see the mountains at all.",
+    "options": [
+     {
+      "letter": "A",
       "text": "final"
+     },
+     {
+      "letter": "B",
+      "text": "former"
+     },
+     {
+      "letter": "C",
+      "text": "formal"
      },
      {
       "letter": "D",
@@ -543,7 +543,7 @@ window.FLASHCARD_UNITS = {
     "vi": 11
    },
    {
-    "question": "It was __________ to make such a mistake.【愚蠢的】",
+    "question": "It was __________ of you to swim alone in the sea. You could have died.",
     "options": [
      {
       "letter": "A",
@@ -551,45 +551,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "formal"
+     },
+     {
+      "letter": "C",
       "text": "foolish"
      },
      {
-      "letter": "C",
-      "text": "fit"
-     },
-     {
       "letter": "D",
-      "text": "foggy"
-     }
-    ],
-    "answer": "B",
-    "vi": 12
-   },
-   {
-    "question": "He enjoys playing __________ with his friends.【足球】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fog"
-     },
-     {
-      "letter": "B",
-      "text": "flute"
-     },
-     {
-      "letter": "C",
-      "text": "football"
-     },
-     {
-      "letter": "D",
-      "text": "flight"
+      "text": "former"
      }
     ],
     "answer": "C",
+    "vi": 12
+   },
+   {
+    "question": "American __________ is a popular sport in the U.S.A. Players run with the ball in their hands.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "flute"
+     },
+     {
+      "letter": "B",
+      "text": "football"
+     },
+     {
+      "letter": "C",
+      "text": "forest"
+     },
+     {
+      "letter": "D",
+      "text": "flour"
+     }
+    ],
+    "answer": "B",
     "vi": 13
    },
    {
-    "question": "They went for a hike in the __________.【森林】",
+    "question": "Many wild animals live in the __________. It is full of tall trees.",
     "options": [
      {
       "letter": "A",
@@ -597,22 +597,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "flute"
+      "text": "flag"
      },
      {
       "letter": "C",
-      "text": "flu"
+      "text": "form"
      },
      {
       "letter": "D",
-      "text": "flour"
+      "text": "flight"
      }
     ],
     "answer": "A",
     "vi": 14
    },
    {
-    "question": "She decided to __________ him for his mistake.【原諒，寬恕】",
+    "question": "I am sorry I broke your cup. Please __________ me.",
     "options": [
      {
       "letter": "A",
@@ -620,11 +620,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "sink"
+      "text": "fit"
      },
      {
       "letter": "C",
-      "text": "serve"
+      "text": "frighten"
      },
      {
       "letter": "D",
@@ -635,34 +635,34 @@ window.FLASHCARD_UNITS = {
     "vi": 15
    },
    {
-    "question": "Please fill out this __________.【形式，表格】",
+    "question": "Please fill out this __________. Write your name, address, and phone number on it.",
     "options": [
      {
       "letter": "A",
-      "text": "form"
+      "text": "flag"
      },
      {
       "letter": "B",
-      "text": "flute"
+      "text": "fog"
      },
      {
       "letter": "C",
-      "text": "flour"
+      "text": "form"
      },
      {
       "letter": "D",
-      "text": "flight"
+      "text": "flu"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 16
    },
    {
-    "question": "The event was very __________.【正式的】",
+    "question": "You should wear __________ clothes, like a suit and a tie, to the job interview.",
     "options": [
      {
       "letter": "A",
-      "text": "fit"
+      "text": "foggy"
      },
      {
       "letter": "B",
@@ -681,42 +681,42 @@ window.FLASHCARD_UNITS = {
     "vi": 17
    },
    {
-    "question": "He is a __________ president of the club.【以前的，前者的】",
+    "question": "Mr. Lin is a __________ teacher at our school. He left two years ago.",
     "options": [
      {
       "letter": "A",
-      "text": "final"
-     },
-     {
-      "letter": "B",
-      "text": "foolish"
-     },
-     {
-      "letter": "C",
       "text": "former"
      },
      {
-      "letter": "D",
-      "text": "fit"
-     }
-    ],
-    "answer": "C",
-    "vi": 18
-   },
-   {
-    "question": "She took a step __________.【向前】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "nearly"
-     },
-     {
       "letter": "B",
-      "text": "neither"
+      "text": "foggy"
      },
      {
       "letter": "C",
-      "text": "hardly"
+      "text": "final"
+     },
+     {
+      "letter": "D",
+      "text": "formal"
+     }
+    ],
+    "answer": "A",
+    "vi": 18
+   },
+   {
+    "question": "Please take one step __________. I can't see you from here.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "everywhere"
+     },
+     {
+      "letter": "B",
+      "text": "especially"
+     },
+     {
+      "letter": "C",
+      "text": "downtown"
      },
      {
       "letter": "D",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"discuss":["to talk about something with other people","討論，商議"],"express":["to show a feeling or idea with words or actions","表達，表現"],"final":["last","最後的，決定性的"],"fit":["to be the right size for someone","合適的，健康的"],"flag":["a piece of cloth with colors and shapes that stands for a country","旗幟"],"flashlight":["a small light that you carry in your hand","手電筒"],"flight":["a trip in a plane","飛行，航班"],"flour":["white powder made from wheat, used to make bread and cakes","麵粉"],"flu":["a sickness like a very bad cold, with a fever","流感"],"flute":["a long, thin musical instrument that you blow into","長笛"],"focus":["to give all your attention to one thing","集中，專注"],"fog":["thick cloud near the ground that is hard to see through","霧"],"foggy":["with a lot of fog","有霧的，模糊的"],"foolish":["not wise; silly","愚蠢的"],"football":["a game in which two teams kick a ball; soccer","足球"],"forest":["a large area of land covered with trees","森林"],"forgive":["to stop being angry with someone for something they did","原諒，寬恕"],"form":["a paper with spaces where you write information","形式，表格"],"formal":["serious and following rules; not relaxed","正式的"],"former":["having been something in the past, but not now","以前的，前者的"],"forward":["toward the front","向前"],"hardly":["almost not","幾乎不，勉強地"],"nearly":["almost","幾乎，差不多"],"neither":["not one and not the other of two","也不，既不"],"serve":["to give food or drinks to people","服務，提供"],"sink":["to go down under water","下沉，沉沒"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"former":["having been something in the past, but not now","以前的，前者的"],"foggy":["with a lot of fog","有霧的，模糊的"],"final":["last","最後的，決定性的"],"foolish":["not wise; silly","愚蠢的"],"focus":["to give all your attention to one thing","集中，專注"],"forgive":["to stop being angry with someone for something they did","原諒，寬恕"],"frighten":["to make someone afraid","使害怕"],"fit":["to be the right size for someone","合適的，健康的"],"flag":["a piece of cloth with colors and shapes that stands for a country","旗幟"],"flute":["a long, thin musical instrument that you blow into","長笛"],"fog":["thick cloud near the ground that is hard to see through","霧"],"form":["a paper with spaces where you write information","形式，表格"],"flight":["a trip in a plane","飛行，航班"],"flashlight":["a small light that you carry in your hand","手電筒"],"flour":["white powder made from wheat, used to make bread and cakes","麵粉"],"flu":["a sickness like a very bad cold, with a fever","流感"],"formal":["serious and following rules; not relaxed","正式的"],"football":["a game in which two teams kick a ball; soccer","足球"],"forest":["a large area of land covered with trees","森林"],"everywhere":["in all places","到處"],"especially":["more than others; more than usual","特別地，尤其"],"downtown":["in the center of a city","市中心"],"forward":["toward the front","向前"]});

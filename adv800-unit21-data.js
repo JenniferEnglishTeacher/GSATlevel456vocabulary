@@ -170,83 +170,83 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "She drank a ______ of water.【公升】",
+    "q": "I drink one ______ of water every day. That is about four glasses.",
     "options": [
-      "liter",
-      "loser",
-      "manner",
-      "manager"
+      "loaf",
+      "locker",
+      "lot",
+      "liter"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "她喝了一公升水。",
     "vocabIndex": 0
   },
   {
-    "q": "He bought a ______ of bread.【一條麵包】",
+    "q": "Mom bought a ______ of bread at the bakery. We will cut it and make sandwiches.",
     "options": [
-      "locker",
-      "mall",
+      "liter",
       "loaf",
-      "master"
+      "locker",
+      "mall"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "他買了一條麵包。",
     "vocabIndex": 1
   },
   {
-    "q": "They visited the ______ market.【當地的，本地的】",
+    "q": "We ate at a small ______ restaurant. The people who live in the town love it.",
     "options": [
       "major",
-      "local",
       "male",
+      "local",
       "marvelous"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "他們參觀了當地市場。",
     "vocabIndex": 2
   },
   {
-    "q": "She ______ the door before leaving.【鎖住】",
+    "q": "Don't forget to ______ the door when you leave. Take your key with you.",
     "options": [
+      "lock",
       "marry",
-      "rubbed",
-      "hopped",
-      "locked"
+      "lift",
+      "lick"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "她離開前鎖上了門。",
     "vocabIndex": 3
   },
   {
-    "q": "He put his books in the ______.【置物櫃】",
+    "q": "I keep my books and sports shoes in my ______ at school. Only I have the key.",
     "options": [
-      "master",
-      "manager",
-      "locker",
-      "mango"
+      "loser",
+      "liter",
+      "loaf",
+      "locker"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "他把書放在置物櫃裡。",
     "vocabIndex": 4
   },
   {
-    "q": "He felt like a ______ after losing the game.【失敗者】",
+    "q": "Nobody wants to be a ______. Everyone wants to win the game.",
     "options": [
+      "locker",
+      "manager",
       "loser",
-      "master",
-      "mall",
-      "mango"
+      "master"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他輸了比賽後感到像個失敗者。",
     "vocabIndex": 5
   },
   {
-    "q": "There are a ______ of books on the shelf.【許多，大量】",
+    "q": "There are a ______ of people in the park today. It is hard to find a seat.",
     "options": [
-      "magician",
+      "loaf",
       "lot",
-      "locker",
+      "liter",
       "mat"
     ],
     "answer": 1,
@@ -254,115 +254,115 @@ const MCQS = [
     "vocabIndex": 6
   },
   {
-    "q": "She subscribes to a fashion ______.【雜誌】",
+    "q": "I read a fashion ______ every month. It has many pictures of new clothes.",
     "options": [
-      "loser",
-      "mat",
-      "mall",
-      "magazine"
+      "magazine",
+      "magician",
+      "manager",
+      "mango"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "她訂閱了一本時尚雜誌。",
     "vocabIndex": 7
   },
   {
-    "q": "The ______ performed amazing tricks.【魔術師】",
+    "q": "The ______ pulled a rabbit out of his hat. The children loved his tricks.",
     "options": [
-      "magician",
-      "mat",
-      "mango",
-      "manner"
+      "manager",
+      "master",
+      "magazine",
+      "magician"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "魔術師表演了驚人的把戲。",
     "vocabIndex": 8
   },
   {
-    "q": "She played a ______ role in the project.【主要的，重要的】",
+    "q": "Rice is a ______ food in Asia. Most people eat it every day.",
     "options": [
-      "local",
       "major",
       "male",
+      "local",
       "marvelous"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "她在這個專案中扮演了重要角色。",
     "vocabIndex": 9
   },
   {
-    "q": "The ______ employees are outnumbered by the female employees.【男性的】",
+    "q": "A ______ lion has long hair around its head, but a female lion doesn't.",
     "options": [
-      "local",
       "major",
       "male",
+      "local",
       "marvelous"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "男性員工數量少於女性員工。",
     "vocabIndex": 10
   },
   {
-    "q": "They spent the afternoon shopping at the ______.【購物中心】",
+    "q": "We went shopping at the ______. There are more than two hundred stores in the building.",
     "options": [
-      "magazine",
-      "master",
-      "mango",
-      "mall"
+      "mat",
+      "mass",
+      "mall",
+      "loaf"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "他們在購物中心購物了整個下午。",
     "vocabIndex": 11
   },
   {
-    "q": "The ______ called for a meeting with the staff.【經理】",
+    "q": "The ______ of the store told the clerks to work faster. He is their boss.",
     "options": [
       "manager",
-      "mall",
-      "manner",
-      "lot"
+      "magician",
+      "loser",
+      "mango"
     ],
     "answer": 0,
     "cn": "經理召集員工開會。",
     "vocabIndex": 12
   },
   {
-    "q": "She bought a ripe ______ at the market.【芒果】",
+    "q": "A ______ is a sweet yellow fruit. Mango ice is very popular in Taiwan in summer.",
     "options": [
+      "magazine",
+      "mall",
       "mat",
-      "mango",
-      "loaf",
-      "manager"
+      "mango"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她在市場買了一個熟芒果。",
     "vocabIndex": 13
   },
   {
-    "q": "His ______ of speaking is very polite.【方式，態度】",
+    "q": "She spoke in a friendly ______, so everyone felt relaxed.",
     "options": [
-      "loaf",
-      "master",
-      "manager",
-      "manner"
+      "mall",
+      "manner",
+      "mango",
+      "mat"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他的說話方式非常禮貌。",
     "vocabIndex": 14
   },
   {
-    "q": "They plan to ______ next year.【結婚】",
+    "q": "Tom loves Lisa very much. He wants to ______ her next year.",
     "options": [
-      "locked",
-      "hire",
+      "lock",
+      "lift",
       "marry",
-      "ignore"
+      "lack"
     ],
     "answer": 2,
     "cn": "他們計劃明年結婚。",
     "vocabIndex": 15
   },
   {
-    "q": "They had a ______ time on their vacation.【奇妙的，極好的】",
+    "q": "We had a ______ time in Japan. Everything was great.",
     "options": [
       "marvelous",
       "male",
@@ -374,103 +374,68 @@ const MCQS = [
     "vocabIndex": 16
   },
   {
-    "q": "There was a ______ of people at the concert.【大量，團，塊】",
+    "q": "A ______ of dark clouds covered the sky before the storm.",
     "options": [
-      "locker",
-      "manner",
+      "mall",
+      "mat",
       "mass",
-      "mall"
+      "mango"
     ],
     "answer": 2,
     "cn": "音樂會上有大量人群。",
     "vocabIndex": 17
   },
   {
-    "q": "He is a ______ of martial arts.【主人，大師】",
+    "q": "Mr. Chen is a kung fu ______. He has taught it for forty years.",
     "options": [
+      "loser",
       "mall",
-      "master",
-      "loaf",
-      "manager"
+      "mango",
+      "master"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "他是武術大師。",
     "vocabIndex": 18
   },
   {
-    "q": "She placed a ______ at the entrance.【墊子】",
+    "q": "Please clean your shoes on the ______ before you come into the house.",
     "options": [
-      "magazine",
-      "locker",
-      "lot",
-      "mat"
+      "mall",
+      "mat",
+      "mass",
+      "lot"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "她在入口處放了一塊墊子。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "hire": {
-    "pos": "v.",
-    "en_def": "to give someone a job",
-    "cn_def": "雇用"
-  },
-  "hopped": {
-    "pos": "v.",
-    "en_def": "to move by making short, quick jumps",
-    "cn_def": "跳躍，單腳跳"
-  },
-  "ignore": {
-    "pos": "v.",
-    "en_def": "to act as if you do not see or hear someone or something",
-    "cn_def": "忽視"
-  },
-  "liter": {
-    "pos": "n.",
-    "en_def": "a unit for measuring liquid; a little more than four cups",
-    "cn_def": "公升"
-  },
   "loaf": {
     "pos": "n.",
     "en_def": "bread baked in one big piece",
     "cn_def": "一條麵包"
-  },
-  "local": {
-    "pos": "adj.",
-    "en_def": "of or in the place where you live or are",
-    "cn_def": "當地的，本地的"
-  },
-  "locked": {
-    "pos": "v.",
-    "en_def": "to close something with a key",
-    "cn_def": "鎖住"
   },
   "locker": {
     "pos": "n.",
     "en_def": "a small metal closet with a lock, used at school or a gym",
     "cn_def": "置物櫃"
   },
-  "loser": {
-    "pos": "n.",
-    "en_def": "a person who does not win",
-    "cn_def": "失敗者"
-  },
   "lot": {
     "pos": "n.",
     "en_def": "a large number or amount",
     "cn_def": "許多，大量"
   },
-  "magazine": {
+  "liter": {
     "pos": "n.",
-    "en_def": "a thin book with pictures and stories that comes out every week or month",
-    "cn_def": "雜誌"
+    "en_def": "a unit for measuring liquid; a little more than four cups",
+    "cn_def": "公升"
   },
-  "magician": {
+  "mall": {
     "pos": "n.",
-    "en_def": "a person who does magic tricks",
-    "cn_def": "魔術師"
+    "en_def": "a very big building with many stores inside",
+    "cn_def": "購物中心"
   },
   "major": {
     "pos": "adj.",
@@ -482,40 +447,45 @@ const LOOKUP = {
     "en_def": "being a man or a boy",
     "cn_def": "男性的"
   },
-  "mall": {
-    "pos": "n.",
-    "en_def": "a very big building with many stores inside",
-    "cn_def": "購物中心"
-  },
-  "manager": {
-    "pos": "n.",
-    "en_def": "a person who is in charge of a store, team, or office",
-    "cn_def": "經理"
-  },
-  "mango": {
-    "pos": "n.",
-    "en_def": "a sweet tropical fruit that is yellow inside",
-    "cn_def": "芒果"
-  },
-  "manner": {
-    "pos": "n.",
-    "en_def": "the way in which you do something",
-    "cn_def": "方式，態度"
-  },
-  "marry": {
-    "pos": "v.",
-    "en_def": "to become someone's husband or wife",
-    "cn_def": "結婚"
+  "local": {
+    "pos": "adj.",
+    "en_def": "of or in the place where you live or are",
+    "cn_def": "當地的，本地的"
   },
   "marvelous": {
     "pos": "adj.",
     "en_def": "very, very good; wonderful",
     "cn_def": "奇妙的，極好的"
   },
-  "mass": {
+  "lock": {
+    "pos": "v.",
+    "en_def": "to close something with a key",
+    "cn_def": "鎖住"
+  },
+  "marry": {
+    "pos": "v.",
+    "en_def": "to become someone's husband or wife",
+    "cn_def": "結婚"
+  },
+  "lift": {
+    "pos": "v.",
+    "en_def": "to move something up",
+    "cn_def": "舉起，抬起"
+  },
+  "lick": {
+    "pos": "v.",
+    "en_def": "to move your tongue over something",
+    "cn_def": "舔"
+  },
+  "loser": {
     "pos": "n.",
-    "en_def": "a large number or amount of something together",
-    "cn_def": "大量，團，塊"
+    "en_def": "a person who does not win",
+    "cn_def": "失敗者"
+  },
+  "manager": {
+    "pos": "n.",
+    "en_def": "a person who is in charge of a store, team, or office",
+    "cn_def": "經理"
   },
   "master": {
     "pos": "n.",
@@ -527,10 +497,35 @@ const LOOKUP = {
     "en_def": "a small piece of thick cloth on the floor",
     "cn_def": "墊子"
   },
-  "rubbed": {
+  "magazine": {
+    "pos": "n.",
+    "en_def": "a thin book with pictures and stories that comes out every week or month",
+    "cn_def": "雜誌"
+  },
+  "magician": {
+    "pos": "n.",
+    "en_def": "a person who does magic tricks",
+    "cn_def": "魔術師"
+  },
+  "mango": {
+    "pos": "n.",
+    "en_def": "a sweet tropical fruit that is yellow inside",
+    "cn_def": "芒果"
+  },
+  "mass": {
+    "pos": "n.",
+    "en_def": "a large number or amount of something together",
+    "cn_def": "大量，團，塊"
+  },
+  "manner": {
+    "pos": "n.",
+    "en_def": "the way in which you do something",
+    "cn_def": "方式，態度"
+  },
+  "lack": {
     "pos": "v.",
-    "en_def": "to press and move your hand or a cloth back and forth on something",
-    "cn_def": "擦，摩擦"
+    "en_def": "to not have something, or not have enough of it",
+    "cn_def": "缺乏，缺少"
   }
 };
 

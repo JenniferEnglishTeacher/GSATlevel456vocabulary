@@ -267,7 +267,30 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "The __________ of the dancers was graceful.【運動，動作】",
+    "question": "The dancer's every __________ was beautiful. She moved her arms like a bird.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "movement"
+     },
+     {
+      "letter": "B",
+      "text": "nation"
+     },
+     {
+      "letter": "C",
+      "text": "necklace"
+     },
+     {
+      "letter": "D",
+      "text": "needle"
+     }
+    ],
+    "answer": "A",
+    "vi": 0
+   },
+   {
+    "question": "I take the __________ to work every day. The trains come every five minutes.",
     "options": [
      {
       "letter": "A",
@@ -275,118 +298,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "movement"
-     },
-     {
-      "letter": "C",
-      "text": "napkin"
-     },
-     {
-      "letter": "D",
       "text": "net"
-     }
-    ],
-    "answer": "B",
-    "vi": 0
-   },
-   {
-    "question": "They took the __________ to get to the city center.【地鐵】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "MRT"
-     },
-     {
-      "letter": "B",
-      "text": "Nephew"
      },
      {
       "letter": "C",
-      "text": "Nation"
-     },
-     {
-      "letter": "D",
-      "text": "Necklace"
-     }
-    ],
-    "answer": "A",
-    "vi": 1
-   },
-   {
-    "question": "He is a talented __________.【音樂家，樂師】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "nation"
-     },
-     {
-      "letter": "B",
       "text": "necklace"
      },
      {
-      "letter": "C",
-      "text": "MRT"
-     },
-     {
       "letter": "D",
-      "text": "musician"
+      "text": "MRT"
      }
     ],
     "answer": "D",
-    "vi": 2
+    "vi": 1
    },
    {
-    "question": "She placed a __________ on her lap before eating.【餐巾】",
+    "question": "Jay Chou is a famous __________. He writes songs and plays the piano.",
     "options": [
      {
       "letter": "A",
-      "text": "musician"
+      "text": "nephew"
      },
      {
       "letter": "B",
-      "text": "net"
+      "text": "niece"
      },
      {
       "letter": "C",
-      "text": "napkin"
+      "text": "musician"
      },
      {
       "letter": "D",
-      "text": "needle"
+      "text": "napkin"
      }
     ],
     "answer": "C",
-    "vi": 3
+    "vi": 2
    },
    {
-    "question": "The path was very __________.【狹窄的，有限的】",
+    "question": "He cleaned his mouth with a __________ after eating the hamburger.",
     "options": [
      {
       "letter": "A",
-      "text": "necessary"
-     },
-     {
-      "letter": "B",
-      "text": "negative"
-     },
-     {
-      "letter": "C",
-      "text": "natural"
-     },
-     {
-      "letter": "D",
-      "text": "narrow"
-     }
-    ],
-    "answer": "D",
-    "vi": 4
-   },
-   {
-    "question": "They are proud of their __________.【國家】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "nation"
+      "text": "needle"
      },
      {
       "letter": "B",
@@ -394,49 +348,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "needle"
+      "text": "necklace"
      },
      {
       "letter": "D",
-      "text": "movement"
+      "text": "nest"
      }
     ],
-    "answer": "A",
-    "vi": 5
+    "answer": "B",
+    "vi": 3
    },
    {
-    "question": "She prefers to use __________ ingredients.【自然的，天然的】",
+    "question": "The street is too __________ for a bus. Only bikes and small cars can go through it.",
     "options": [
      {
       "letter": "A",
-      "text": "necessary"
+      "text": "narrow"
      },
      {
       "letter": "B",
       "text": "natural"
-     },
-     {
-      "letter": "C",
-      "text": "narrow"
-     },
-     {
-      "letter": "D",
-      "text": "negative"
-     }
-    ],
-    "answer": "B",
-    "vi": 6
-   },
-   {
-    "question": "The child was very __________.【淘氣的，不聽話的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "necessary"
-     },
-     {
-      "letter": "B",
-      "text": "narrow"
      },
      {
       "letter": "C",
@@ -444,106 +375,175 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
+      "text": "nervous"
+     }
+    ],
+    "answer": "A",
+    "vi": 4
+   },
+   {
+    "question": "The whole __________ was happy when its team won the gold medal.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "napkin"
+     },
+     {
+      "letter": "B",
+      "text": "nation"
+     },
+     {
+      "letter": "C",
+      "text": "needle"
+     },
+     {
+      "letter": "D",
+      "text": "net"
+     }
+    ],
+    "answer": "B",
+    "vi": 5
+   },
+   {
+    "question": "This juice is __________. Nothing is added to the fresh fruit.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "narrow"
+     },
+     {
+      "letter": "B",
+      "text": "naughty"
+     },
+     {
+      "letter": "C",
+      "text": "nervous"
+     },
+     {
+      "letter": "D",
       "text": "natural"
+     }
+    ],
+    "answer": "D",
+    "vi": 6
+   },
+   {
+    "question": "The __________ boy drew on the wall and broke two cups. His mother was angry.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "narrow"
+     },
+     {
+      "letter": "B",
+      "text": "natural"
+     },
+     {
+      "letter": "C",
+      "text": "naughty"
+     },
+     {
+      "letter": "D",
+      "text": "negative"
      }
     ],
     "answer": "C",
     "vi": 7
    },
    {
-    "question": "It is __________ time to go.【幾乎，差不多】",
+    "question": "It is __________ midnight. It is 11:55 now.",
     "options": [
      {
       "letter": "A",
-      "text": "neither"
+      "text": "nearly"
      },
      {
       "letter": "B",
-      "text": "rather"
-     },
-     {
-      "letter": "C",
       "text": "especially"
      },
      {
-      "letter": "D",
-      "text": "nearly"
-     }
-    ],
-    "answer": "D",
-    "vi": 8
-   },
-   {
-    "question": "It is __________ to drink water every day.【必要的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "necessary"
-     },
-     {
-      "letter": "B",
-      "text": "negative"
-     },
-     {
       "letter": "C",
-      "text": "naughty"
+      "text": "forward"
      },
      {
       "letter": "D",
-      "text": "natural"
+      "text": "hardly"
      }
     ],
     "answer": "A",
-    "vi": 9
+    "vi": 8
    },
    {
-    "question": "She wore a beautiful __________.【項鍊】",
+    "question": "It is __________ to wear a helmet when you ride a scooter. It is the law.",
     "options": [
      {
       "letter": "A",
-      "text": "net"
+      "text": "narrow"
      },
      {
       "letter": "B",
-      "text": "necklace"
+      "text": "naughty"
      },
      {
       "letter": "C",
-      "text": "nation"
+      "text": "necessary"
      },
      {
       "letter": "D",
-      "text": "napkin"
-     }
-    ],
-    "answer": "B",
-    "vi": 10
-   },
-   {
-    "question": "The __________ on the record player is broken.【針】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "necklace"
-     },
-     {
-      "letter": "B",
-      "text": "nest"
-     },
-     {
-      "letter": "C",
-      "text": "needle"
-     },
-     {
-      "letter": "D",
-      "text": "napkin"
+      "text": "nervous"
      }
     ],
     "answer": "C",
+    "vi": 9
+   },
+   {
+    "question": "She wore a gold __________ around her neck.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "napkin"
+     },
+     {
+      "letter": "B",
+      "text": "needle"
+     },
+     {
+      "letter": "C",
+      "text": "nest"
+     },
+     {
+      "letter": "D",
+      "text": "necklace"
+     }
+    ],
+    "answer": "D",
+    "vi": 10
+   },
+   {
+    "question": "Grandma used a __________ and thread to fix the hole in my shirt.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "napkin"
+     },
+     {
+      "letter": "B",
+      "text": "needle"
+     },
+     {
+      "letter": "C",
+      "text": "necklace"
+     },
+     {
+      "letter": "D",
+      "text": "nest"
+     }
+    ],
+    "answer": "B",
     "vi": 11
    },
    {
-    "question": "He had a __________ attitude towards the project.【否定的，消極的】",
+    "question": "Don't be so __________. Try to see the good side of things.",
     "options": [
      {
       "letter": "A",
@@ -551,11 +551,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "natural"
+      "text": "narrow"
      },
      {
       "letter": "C",
-      "text": "naughty"
+      "text": "natural"
      },
      {
       "letter": "D",
@@ -566,34 +566,34 @@ window.FLASHCARD_UNITS = {
     "vi": 12
    },
    {
-    "question": "__________ of the answers is correct.【也不，既不】",
+    "question": "__________ of my parents can drive. We always take the bus.",
     "options": [
      {
       "letter": "A",
-      "text": "Nearly"
+      "text": "None"
      },
      {
       "letter": "B",
-      "text": "Hardly"
+      "text": "Nearly"
      },
      {
       "letter": "C",
-      "text": "Especially"
+      "text": "Neither"
      },
      {
       "letter": "D",
-      "text": "Neither"
+      "text": "Hardly"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 13
    },
    {
-    "question": "She bought a gift for her __________.【姪子，外甥】",
+    "question": "My sister's son is my __________. He is five years old.",
     "options": [
      {
       "letter": "A",
-      "text": "MRT"
+      "text": "niece"
      },
      {
       "letter": "B",
@@ -601,18 +601,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "nephew"
+      "text": "nation"
      },
      {
       "letter": "D",
-      "text": "napkin"
+      "text": "nephew"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 14
    },
    {
-    "question": "She felt __________ before the exam.【緊張的，不安的】",
+    "question": "I always feel __________ before a test. My hands get cold and wet.",
     "options": [
      {
       "letter": "A",
@@ -624,22 +624,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "naughty"
+      "text": "natural"
      },
      {
       "letter": "D",
-      "text": "negative"
+      "text": "necessary"
      }
     ],
     "answer": "B",
     "vi": 15
    },
    {
-    "question": "The bird built a __________ in the tree.【巢，窩】",
+    "question": "The bird built a __________ in the tree. There are three eggs in it.",
     "options": [
      {
       "letter": "A",
-      "text": "movement"
+      "text": "net"
      },
      {
       "letter": "B",
@@ -647,7 +647,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "MRT"
+      "text": "napkin"
      },
      {
       "letter": "D",
@@ -658,19 +658,42 @@ window.FLASHCARD_UNITS = {
     "vi": 16
    },
    {
-    "question": "He caught a fish with a __________.【網】",
+    "question": "The fisherman threw his __________ into the sea and caught a lot of fish.",
     "options": [
      {
       "letter": "A",
-      "text": "necklace"
+      "text": "nest"
      },
      {
       "letter": "B",
-      "text": "MRT"
+      "text": "net"
      },
      {
       "letter": "C",
-      "text": "net"
+      "text": "needle"
+     },
+     {
+      "letter": "D",
+      "text": "napkin"
+     }
+    ],
+    "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "My brother's daughter is my __________. She is a cute little girl.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "nephew"
+     },
+     {
+      "letter": "B",
+      "text": "musician"
+     },
+     {
+      "letter": "C",
+      "text": "niece"
      },
      {
       "letter": "D",
@@ -678,33 +701,10 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "C",
-    "vi": 17
-   },
-   {
-    "question": "She took her __________ to the zoo.【姪女，外甥女】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "movement"
-     },
-     {
-      "letter": "B",
-      "text": "niece"
-     },
-     {
-      "letter": "C",
-      "text": "napkin"
-     },
-     {
-      "letter": "D",
-      "text": "MRT"
-     }
-    ],
-    "answer": "B",
     "vi": 18
    },
    {
-    "question": "She __________ in agreement.【點頭，打瞌睡】",
+    "question": "I asked if she wanted some tea, and she __________ her head to say yes.",
     "options": [
      {
       "letter": "A",
@@ -712,15 +712,15 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "wished"
+      "text": "measured"
      },
      {
       "letter": "C",
-      "text": "regretted"
+      "text": "mixed"
      },
      {
       "letter": "D",
-      "text": "damaged"
+      "text": "locked"
      }
     ],
     "answer": "A",
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"damaged":["to break or hurt something so it is not as good as before","損害，破壞"],"especially":["more than others; more than usual","特別地，尤其"],"hardly":["almost not","幾乎不，勉強地"],"movement":["the way someone or something moves","運動，動作"],"mrt":["the fast train system in a city like Taipei","地鐵"],"musician":["a person who plays or writes music","音樂家，樂師"],"napkin":["a piece of cloth or paper for cleaning your mouth and hands at meals","餐巾"],"narrow":["not wide","狹窄的，有限的"],"nation":["a country and its people","國家"],"natural":["from nature; not made by people","自然的，天然的"],"naughty":["(of a child) behaving badly","淘氣的，不聽話的"],"nearly":["almost","幾乎，差不多"],"necessary":["needed; that you must have or do","必要的"],"necklace":["a pretty chain that you wear around your neck","項鍊"],"needle":["a thin, sharp piece of metal, used for sewing or in a record player","針"],"negative":["seeing only the bad side; saying \"no\"","否定的，消極的"],"neither":["not one and not the other of two","也不，既不"],"nephew":["the son of your brother or sister","姪子，外甥"],"nervous":["worried and a little afraid","緊張的，不安的"],"nest":["the home a bird makes for its eggs","巢，窩"],"net":["material with many holes, used for catching fish","網"],"niece":["the daughter of your brother or sister","姪女，外甥女"],"nodded":["to move your head up and down to say \"yes\"","點頭，打瞌睡"],"rather":["more willingly (used with \"would\")","寧願，倒不如說"],"regretted":["to feel sorry about something you did or did not do","後悔，遺憾"],"wished":["to hope for something","希望，祝願"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"movement":["the way someone or something moves","運動，動作"],"nation":["a country and its people","國家"],"necklace":["a pretty chain that you wear around your neck","項鍊"],"needle":["a thin, sharp piece of metal, used for sewing or in a record player","針"],"nest":["the home a bird makes for its eggs","巢，窩"],"net":["material with many holes, used for catching fish","網"],"mrt":["the fast train system in a city like Taipei","地鐵"],"nephew":["the son of your brother or sister","姪子，外甥"],"niece":["the daughter of your brother or sister","姪女，外甥女"],"musician":["a person who plays or writes music","音樂家，樂師"],"napkin":["a piece of cloth or paper for cleaning your mouth and hands at meals","餐巾"],"narrow":["not wide","狹窄的，有限的"],"natural":["from nature; not made by people","自然的，天然的"],"naughty":["(of a child) behaving badly","淘氣的，不聽話的"],"nervous":["worried and a little afraid","緊張的，不安的"],"negative":["seeing only the bad side; saying \"no\"","否定的，消極的"],"nearly":["almost","幾乎，差不多"],"especially":["more than others; more than usual","特別地，尤其"],"forward":["toward the front","向前"],"hardly":["almost not","幾乎不，勉強地"],"necessary":["needed; that you must have or do","必要的"],"none":["not any; not one","沒有一個"],"neither":["not one and not the other of two","也不，既不"],"nodded":["to move your head up and down to say \"yes\"","點頭，打瞌睡"],"measured":["to find out how long, big, or heavy something is","測量，衡量"],"mixed":["to put different things together and stir them","混合，攪拌"],"locked":["to close something with a key","鎖住"]});

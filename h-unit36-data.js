@@ -267,53 +267,53 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "She was tired; __________, she went to bed early.【因此，所以】",
+    "question": "It rained all day. __________, the baseball game was canceled.",
     "options": [
      {
       "letter": "A",
-      "text": "downtown"
+      "text": "Suddenly"
      },
      {
       "letter": "B",
-      "text": "therefore"
+      "text": "Therefore"
      },
      {
       "letter": "C",
-      "text": "especially"
+      "text": "Especially"
      },
      {
       "letter": "D",
-      "text": "nearly"
+      "text": "Hardly"
      }
     ],
     "answer": "B",
     "vi": 0
    },
    {
-    "question": "The __________ stole her purse.【小偷】",
+    "question": "A __________ broke into our house last night and took our TV.",
     "options": [
      {
       "letter": "A",
-      "text": "towel"
+      "text": "tiger"
      },
      {
       "letter": "B",
-      "text": "tour"
+      "text": "tourist"
      },
      {
       "letter": "C",
-      "text": "thief"
+      "text": "tower"
      },
      {
       "letter": "D",
-      "text": "tower"
+      "text": "thief"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 1
    },
    {
-    "question": "His __________ on the subject were very insightful.【思想，想法】",
+    "question": "Please write down your __________ about the book. What do you think of it?",
     "options": [
      {
       "letter": "A",
@@ -321,49 +321,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "tourists"
+      "text": "throats"
      },
      {
       "letter": "C",
-      "text": "tournament"
+      "text": "towels"
      },
      {
       "letter": "D",
-      "text": "towel"
+      "text": "towers"
      }
     ],
     "answer": "A",
     "vi": 2
    },
    {
-    "question": "He has a sore __________.【喉嚨，咽喉】",
+    "question": "I have a sore __________. It hurts when I swallow.",
     "options": [
      {
       "letter": "A",
-      "text": "towel"
-     },
-     {
-      "letter": "B",
-      "text": "toothpaste"
-     },
-     {
-      "letter": "C",
-      "text": "tour"
-     },
-     {
-      "letter": "D",
-      "text": "throat"
-     }
-    ],
-    "answer": "D",
-    "vi": 3
-   },
-   {
-    "question": "The __________ scared the children.【雷，雷聲】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "title"
+      "text": "tongue"
      },
      {
       "letter": "B",
@@ -371,110 +348,110 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "toothpaste"
-     },
-     {
-      "letter": "D",
-      "text": "thief"
-     }
-    ],
-    "answer": "B",
-    "vi": 4
-   },
-   {
-    "question": "Her room is always __________.【整潔的，井井有條的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "total"
-     },
-     {
-      "letter": "B",
-      "text": "latest"
-     },
-     {
-      "letter": "C",
-      "text": "tidy"
-     },
-     {
-      "letter": "D",
-      "text": "perfect"
-     }
-    ],
-    "answer": "C",
-    "vi": 5
-   },
-   {
-    "question": "The __________ is an endangered species.【老虎】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "tour"
-     },
-     {
-      "letter": "B",
-      "text": "toothpaste"
-     },
-     {
-      "letter": "C",
-      "text": "track"
-     },
-     {
-      "letter": "D",
-      "text": "tiger"
-     }
-    ],
-    "answer": "D",
-    "vi": 6
-   },
-   {
-    "question": "The book's __________ is \"Great Expectations.\"【標題，稱號】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "title"
-     },
-     {
-      "letter": "B",
-      "text": "tongue"
-     },
-     {
-      "letter": "C",
       "text": "throat"
      },
      {
       "letter": "D",
-      "text": "toothbrush"
+      "text": "title"
      }
     ],
-    "answer": "A",
-    "vi": 7
+    "answer": "C",
+    "vi": 3
    },
    {
-    "question": "She had __________ for breakfast.【吐司，烤麵包片】",
+    "question": "We saw lightning and then heard loud __________. The dog was scared.",
     "options": [
      {
       "letter": "A",
-      "text": "tournament"
+      "text": "throat"
      },
      {
       "letter": "B",
-      "text": "tour"
+      "text": "toast"
      },
      {
       "letter": "C",
-      "text": "track"
+      "text": "title"
      },
      {
       "letter": "D",
-      "text": "toast"
+      "text": "thunder"
      }
     ],
     "answer": "D",
-    "vi": 8
+    "vi": 4
    },
    {
-    "question": "She bought some __________ at the candy store.【太妃糖】",
+    "question": "Please keep your room __________. Put your clothes and books away.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "tidy"
+     },
+     {
+      "letter": "B",
+      "text": "total"
+     },
+     {
+      "letter": "C",
+      "text": "talkative"
+     },
+     {
+      "letter": "D",
+      "text": "terrific"
+     }
+    ],
+    "answer": "A",
+    "vi": 5
+   },
+   {
+    "question": "A __________ is a big wild cat with orange and black stripes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "thief"
+     },
+     {
+      "letter": "B",
+      "text": "tourist"
+     },
+     {
+      "letter": "C",
+      "text": "tiger"
+     },
+     {
+      "letter": "D",
+      "text": "tower"
+     }
+    ],
+    "answer": "C",
+    "vi": 6
+   },
+   {
+    "question": "What is the __________ of the book you are reading? Is it \"Harry Potter\"?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "toast"
+     },
+     {
+      "letter": "B",
+      "text": "title"
+     },
+     {
+      "letter": "C",
+      "text": "tongue"
+     },
+     {
+      "letter": "D",
+      "text": "towel"
+     }
+    ],
+    "answer": "B",
+    "vi": 7
+   },
+   {
+    "question": "I had two pieces of __________ with butter for breakfast.",
     "options": [
      {
       "letter": "A",
@@ -482,26 +459,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "tiger"
+      "text": "thunder"
      },
      {
       "letter": "C",
-      "text": "tower"
+      "text": "toast"
      },
      {
       "letter": "D",
-      "text": "towel"
+      "text": "title"
+     }
+    ],
+    "answer": "C",
+    "vi": 8
+   },
+   {
+    "question": "I bought a bag of __________ at the candy store. It is sweet and sticky.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "toffee"
+     },
+     {
+      "letter": "B",
+      "text": "thunder"
+     },
+     {
+      "letter": "C",
+      "text": "toast"
+     },
+     {
+      "letter": "D",
+      "text": "title"
      }
     ],
     "answer": "A",
     "vi": 9
    },
    {
-    "question": "He burnt his __________ on the hot soup.【舌頭，語言】",
+    "question": "The soup was too hot, and I burned my __________. Now I can't taste anything.",
     "options": [
      {
       "letter": "A",
-      "text": "track"
+      "text": "title"
      },
      {
       "letter": "B",
@@ -513,83 +513,37 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "toffee"
+      "text": "tower"
      }
     ],
     "answer": "B",
     "vi": 10
    },
    {
-    "question": "She forgot her __________ at home.【牙刷】",
+    "question": "I brush my teeth with a __________ every morning and night.",
     "options": [
      {
       "letter": "A",
-      "text": "track"
-     },
-     {
-      "letter": "B",
-      "text": "toffee"
-     },
-     {
-      "letter": "C",
-      "text": "toothbrush"
-     },
-     {
-      "letter": "D",
-      "text": "tour"
-     }
-    ],
-    "answer": "C",
-    "vi": 11
-   },
-   {
-    "question": "The __________ is almost finished.【牙膏】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "thief"
-     },
-     {
-      "letter": "B",
       "text": "towel"
      },
      {
+      "letter": "B",
+      "text": "toothpaste"
+     },
+     {
       "letter": "C",
-      "text": "tiger"
+      "text": "tower"
      },
      {
       "letter": "D",
-      "text": "toothpaste"
+      "text": "toothbrush"
      }
     ],
     "answer": "D",
-    "vi": 12
+    "vi": 11
    },
    {
-    "question": "The __________ cost is $50.【總的，全部的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "tidy"
-     },
-     {
-      "letter": "B",
-      "text": "total"
-     },
-     {
-      "letter": "C",
-      "text": "pale"
-     },
-     {
-      "letter": "D",
-      "text": "tropical"
-     }
-    ],
-    "answer": "B",
-    "vi": 13
-   },
-   {
-    "question": "They went on a __________ of Europe.【旅行，巡演】",
+    "question": "Put some __________ on your toothbrush and brush your teeth for two minutes.",
     "options": [
      {
       "letter": "A",
@@ -597,53 +551,122 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "toast"
+     },
+     {
+      "letter": "C",
       "text": "toothpaste"
      },
      {
-      "letter": "C",
-      "text": "tour"
-     },
-     {
       "letter": "D",
-      "text": "throat"
+      "text": "thunder"
      }
     ],
     "answer": "C",
-    "vi": 14
+    "vi": 12
    },
    {
-    "question": "The city is full of __________.【遊客】",
+    "question": "The __________ cost of the trip is ten thousand dollars. That includes everything.",
     "options": [
      {
       "letter": "A",
-      "text": "tourists"
+      "text": "total"
      },
      {
       "letter": "B",
-      "text": "thoughts"
+      "text": "tidy"
      },
      {
       "letter": "C",
-      "text": "tongue"
+      "text": "talkative"
      },
      {
       "letter": "D",
-      "text": "tiger"
+      "text": "terrific"
      }
     ],
     "answer": "A",
-    "vi": 15
+    "vi": 13
    },
    {
-    "question": "He participated in a chess __________.【比賽，錦標賽】",
+    "question": "We took a bus __________ of the city. We saw all the famous places in one day.",
     "options": [
      {
       "letter": "A",
-      "text": "throat"
+      "text": "towel"
      },
      {
       "letter": "B",
-      "text": "towel"
+      "text": "tour"
+     },
+     {
+      "letter": "C",
+      "text": "tower"
+     },
+     {
+      "letter": "D",
+      "text": "track"
+     }
+    ],
+    "answer": "B",
+    "vi": 14
+   },
+   {
+    "question": "Many __________ visit Taipei 101 every day. They come from all over the world.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "thieves"
+     },
+     {
+      "letter": "B",
+      "text": "tigers"
+     },
+     {
+      "letter": "C",
+      "text": "towers"
+     },
+     {
+      "letter": "D",
+      "text": "tourists"
+     }
+    ],
+    "answer": "D",
+    "vi": 15
+   },
+   {
+    "question": "Sixteen teams are playing in the basketball __________. The winner gets a big prize.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "toothpaste"
+     },
+     {
+      "letter": "B",
+      "text": "tournament"
+     },
+     {
+      "letter": "C",
+      "text": "thunder"
+     },
+     {
+      "letter": "D",
+      "text": "tongue"
+     }
+    ],
+    "answer": "B",
+    "vi": 16
+   },
+   {
+    "question": "After the shower, I dried myself with a __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "tower"
+     },
+     {
+      "letter": "B",
+      "text": "track"
      },
      {
       "letter": "C",
@@ -651,82 +674,59 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "tournament"
+      "text": "towel"
      }
     ],
     "answer": "D",
-    "vi": 16
-   },
-   {
-    "question": "She dried her hands with a __________.【毛巾】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "toast"
-     },
-     {
-      "letter": "B",
-      "text": "toothpaste"
-     },
-     {
-      "letter": "C",
-      "text": "towel"
-     },
-     {
-      "letter": "D",
-      "text": "tour"
-     }
-    ],
-    "answer": "C",
     "vi": 17
    },
    {
-    "question": "The Eiffel __________ is a famous landmark.【塔，塔樓】",
+    "question": "Tokyo __________ is 333 meters tall. You can see the whole city from the top.",
     "options": [
      {
       "letter": "A",
-      "text": "tower"
+      "text": "Towel"
      },
      {
       "letter": "B",
-      "text": "track"
+      "text": "Track"
      },
      {
       "letter": "C",
-      "text": "tournament"
+      "text": "tower"
      },
      {
       "letter": "D",
-      "text": "toothbrush"
+      "text": "Title"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 18
    },
    {
-    "question": "They ran around the __________.【軌道，跑道】",
+    "question": "The runners ran four times around the __________.",
     "options": [
      {
       "letter": "A",
-      "text": "tower"
-     },
-     {
-      "letter": "B",
       "text": "track"
      },
      {
+      "letter": "B",
+      "text": "towel"
+     },
+     {
       "letter": "C",
-      "text": "toffee"
+      "text": "tower"
      },
      {
       "letter": "D",
-      "text": "towel"
+      "text": "tongue"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"downtown":["in the center of a city","市中心"],"especially":["more than others; more than usual","特別地，尤其"],"latest":["the newest","最新的，最近的"],"nearly":["almost","幾乎，差不多"],"pale":["having a light or white face, often because you are sick","蒼白的，淡色的"],"perfect":["so good that it cannot be better","完美的，理想的"],"therefore":["so; for that reason","因此，所以"],"thief":["a person who steals things","小偷"],"thoughts":["an idea in your mind","思想，想法"],"throat":["the part inside your neck that food and air go down","喉嚨，咽喉"],"thunder":["the loud sound in the sky during a storm","雷，雷聲"],"tidy":["clean, with everything in the right place","整潔的，井井有條的"],"tiger":["a big wild cat with orange fur and black stripes","老虎"],"title":["the name of a book, movie, or song","標題，稱號"],"toast":["a piece of bread heated until it is brown","吐司，烤麵包片"],"toffee":["a hard, sticky brown candy made from sugar and butter","太妃糖"],"tongue":["the soft part inside your mouth that you taste and speak with","舌頭，語言"],"toothbrush":["a small brush for cleaning your teeth","牙刷"],"toothpaste":["the soft cream you put on a toothbrush to clean your teeth","牙膏"],"total":["with everything added together","總的，全部的"],"tour":["a trip to see many places","旅行，巡演"],"tourists":["a person who visits a place for fun","遊客"],"tournament":["a set of games to find the best player or team","比賽，錦標賽"],"towel":["a piece of cloth that you use to dry yourself","毛巾"],"tower":["a very tall, thin building","塔，塔樓"],"track":["a round path for running races","軌道，跑道"],"tropical":["from or in the hottest parts of the world","熱帶的，炎熱的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"suddenly":["quickly and when you do not expect it","突然地，忽然"],"therefore":["so; for that reason","因此，所以"],"especially":["more than others; more than usual","特別地，尤其"],"hardly":["almost not","幾乎不，勉強地"],"tiger":["a big wild cat with orange fur and black stripes","老虎"],"tourist":["a person who visits a place for fun","遊客"],"tower":["a very tall, thin building","塔，塔樓"],"thief":["a person who steals things","小偷"],"thoughts":["an idea in your mind","思想，想法"],"throats":["the part inside your neck that food and air go down","喉嚨，咽喉"],"towels":["a piece of cloth that you use to dry yourself","毛巾"],"towers":["a very tall, thin building","塔，塔樓"],"tongue":["the soft part inside your mouth that you taste and speak with","舌頭，語言"],"thunder":["the loud sound in the sky during a storm","雷，雷聲"],"throat":["the part inside your neck that food and air go down","喉嚨，咽喉"],"title":["the name of a book, movie, or song","標題，稱號"],"toast":["a piece of bread heated until it is brown","吐司，烤麵包片"],"tidy":["clean, with everything in the right place","整潔的，井井有條的"],"total":["with everything added together","總的，全部的"],"talkative":["liking to talk a lot","健談的，話多的"],"terrific":["very, very good","極好的，極度的"],"towel":["a piece of cloth that you use to dry yourself","毛巾"],"toffee":["a hard, sticky brown candy made from sugar and butter","太妃糖"],"toothpaste":["the soft cream you put on a toothbrush to clean your teeth","牙膏"],"toothbrush":["a small brush for cleaning your teeth","牙刷"],"tour":["a trip to see many places","旅行，巡演"],"track":["a round path for running races","軌道，跑道"],"thieves":["","小偷"],"tigers":["a big wild cat with orange fur and black stripes","老虎"],"tourists":["a person who visits a place for fun","遊客"],"tournament":["a set of games to find the best player or team","比賽，錦標賽"]});

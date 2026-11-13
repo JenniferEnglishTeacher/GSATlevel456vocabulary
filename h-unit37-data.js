@@ -267,11 +267,103 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "They established a __________ agreement.【貿易，交易】",
+    "question": "__________ between the two countries is growing. They buy and sell more to each other every year.",
     "options": [
      {
       "letter": "A",
+      "text": "Trap"
+     },
+     {
+      "letter": "B",
+      "text": "trade"
+     },
+     {
+      "letter": "C",
+      "text": "Truth"
+     },
+     {
+      "letter": "D",
+      "text": "Tub"
+     }
+    ],
+    "answer": "B",
+    "vi": 0
+   },
+   {
+    "question": "Eating moon cakes on the Moon Festival is a Chinese __________. People have done it for a long time.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "traffic"
+     },
+     {
+      "letter": "B",
+      "text": "trap"
+     },
+     {
+      "letter": "C",
+      "text": "triangle"
+     },
+     {
+      "letter": "D",
+      "text": "tradition"
+     }
+    ],
+    "answer": "D",
+    "vi": 1
+   },
+   {
+    "question": "There was a lot of __________ this morning. The cars on the road could hardly move.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "tradition"
+     },
+     {
+      "letter": "B",
+      "text": "treasure"
+     },
+     {
+      "letter": "C",
+      "text": "traffic"
+     },
+     {
+      "letter": "D",
+      "text": "truth"
+     }
+    ],
+    "answer": "C",
+    "vi": 2
+   },
+   {
+    "question": "We took the __________ to Hualien. The ride on the rails took three hours.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "train"
+     },
+     {
+      "letter": "B",
+      "text": "trap"
+     },
+     {
+      "letter": "C",
+      "text": "tub"
+     },
+     {
+      "letter": "D",
       "text": "turkey"
+     }
+    ],
+    "answer": "A",
+    "vi": 3
+   },
+   {
+    "question": "The farmer set a __________ to catch the mice in his kitchen.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "train"
      },
      {
       "letter": "B",
@@ -279,179 +371,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "triangle"
+      "text": "trade"
      },
      {
       "letter": "D",
-      "text": "trade"
+      "text": "trap"
      }
     ],
     "answer": "D",
-    "vi": 0
-   },
-   {
-    "question": "It is a family __________.【傳統，慣例】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "tradition"
-     },
-     {
-      "letter": "B",
-      "text": "trick"
-     },
-     {
-      "letter": "C",
-      "text": "T-shirt"
-     },
-     {
-      "letter": "D",
-      "text": "umbrella"
-     }
-    ],
-    "answer": "A",
-    "vi": 1
-   },
-   {
-    "question": "The __________ was very heavy this morning.【交通，車流】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "treasure"
-     },
-     {
-      "letter": "B",
-      "text": "traffic"
-     },
-     {
-      "letter": "C",
-      "text": "trade"
-     },
-     {
-      "letter": "D",
-      "text": "trick"
-     }
-    ],
-    "answer": "B",
-    "vi": 2
-   },
-   {
-    "question": "He took the __________ to work.【火車，訓練】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "turkey"
-     },
-     {
-      "letter": "B",
-      "text": "trade"
-     },
-     {
-      "letter": "C",
-      "text": "train"
-     },
-     {
-      "letter": "D",
-      "text": "traffic"
-     }
-    ],
-    "answer": "C",
-    "vi": 3
-   },
-   {
-    "question": "They set a __________ to catch the mouse.【陷阱，圈套】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "train"
-     },
-     {
-      "letter": "B",
-      "text": "trap"
-     },
-     {
-      "letter": "C",
-      "text": "trick"
-     },
-     {
-      "letter": "D",
-      "text": "truth"
-     }
-    ],
-    "answer": "B",
     "vi": 4
    },
    {
-    "question": "They found buried __________.【財寶，珍寶】",
+    "question": "The pirates hid their __________ on an island. It was a box of gold and silver.",
     "options": [
      {
       "letter": "A",
-      "text": "treasure"
+      "text": "traffic"
      },
      {
       "letter": "B",
-      "text": "turkey"
-     },
-     {
-      "letter": "C",
       "text": "truth"
      },
      {
-      "letter": "D",
-      "text": "tradition"
-     }
-    ],
-    "answer": "A",
-    "vi": 5
-   },
-   {
-    "question": "She __________ her friends to dinner.【對待，治療】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "trusts"
-     },
-     {
-      "letter": "B",
-      "text": "licked"
-     },
-     {
       "letter": "C",
-      "text": "barked"
+      "text": "treasure"
      },
      {
       "letter": "D",
-      "text": "treated"
-     }
-    ],
-    "answer": "D",
-    "vi": 6
-   },
-   {
-    "question": "She drew a __________ on the paper.【三角形】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "trap"
-     },
-     {
-      "letter": "B",
-      "text": "umbrella"
-     },
-     {
-      "letter": "C",
-      "text": "triangle"
-     },
-     {
-      "letter": "D",
-      "text": "train"
+      "text": "trade"
      }
     ],
     "answer": "C",
+    "vi": 5
+   },
+   {
+    "question": "It was my birthday, so my uncle __________ me to a big dinner. He paid for everything.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "treated"
+     },
+     {
+      "letter": "B",
+      "text": "trusted"
+     },
+     {
+      "letter": "C",
+      "text": "supported"
+     },
+     {
+      "letter": "D",
+      "text": "swallowed"
+     }
+    ],
+    "answer": "A",
+    "vi": 6
+   },
+   {
+    "question": "A __________ has three sides and three corners.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "turtle"
+     },
+     {
+      "letter": "B",
+      "text": "triangle"
+     },
+     {
+      "letter": "C",
+      "text": "turkey"
+     },
+     {
+      "letter": "D",
+      "text": "trap"
+     }
+    ],
+    "answer": "B",
     "vi": 7
    },
    {
-    "question": "He played a __________ on his brother.【把戲，詭計】",
+    "question": "The boys played a __________ on their sister. They put a toy snake in her bed.",
     "options": [
      {
       "letter": "A",
@@ -459,34 +459,34 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "trade"
+      "text": "train"
      },
      {
       "letter": "C",
-      "text": "turtle"
+      "text": "tub"
      },
      {
       "letter": "D",
-      "text": "umbrella"
+      "text": "trade"
      }
     ],
     "answer": "A",
     "vi": 8
    },
    {
-    "question": "The __________ were deployed to the front line.【部隊，軍隊】",
+    "question": "The president sent __________ to help people after the earthquake. The soldiers worked day and night.",
     "options": [
      {
       "letter": "A",
-      "text": "trousers"
+      "text": "traps"
      },
      {
       "letter": "B",
-      "text": "treasure"
+      "text": "tubs"
      },
      {
       "letter": "C",
-      "text": "train"
+      "text": "turtles"
      },
      {
       "letter": "D",
@@ -497,7 +497,7 @@ window.FLASHCARD_UNITS = {
     "vi": 9
    },
    {
-    "question": "They went on a vacation to a __________ island.【熱帶的，炎熱的】",
+    "question": "Bananas and mangoes are __________ fruits. They grow in hot places.",
     "options": [
      {
       "letter": "A",
@@ -509,26 +509,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "soft"
+      "text": "tidy"
      },
      {
       "letter": "D",
-      "text": "overweight"
+      "text": "total"
      }
     ],
     "answer": "B",
     "vi": 10
    },
    {
-    "question": "He bought a new pair of __________.【褲子，長褲】",
+    "question": "He wore a white shirt and black __________.",
     "options": [
      {
       "letter": "A",
-      "text": "troops"
+      "text": "T-shirts"
      },
      {
       "letter": "B",
-      "text": "trick"
+      "text": "turtles"
      },
      {
       "letter": "C",
@@ -536,83 +536,37 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "turkey"
+      "text": "triangles"
      }
     ],
     "answer": "C",
     "vi": 11
    },
    {
-    "question": "She __________ him completely.【信任，依賴】",
+    "question": "I __________ Amy. She has never lied to me.",
     "options": [
      {
       "letter": "A",
-      "text": "treated"
+      "text": "treat"
      },
      {
       "letter": "B",
-      "text": "aims"
+      "text": "trust"
      },
      {
       "letter": "C",
-      "text": "produces"
+      "text": "support"
      },
      {
       "letter": "D",
-      "text": "trusts"
-     }
-    ],
-    "answer": "D",
-    "vi": 12
-   },
-   {
-    "question": "She always tells the __________.【真相，事實】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "trade"
-     },
-     {
-      "letter": "B",
-      "text": "truth"
-     },
-     {
-      "letter": "C",
-      "text": "turkey"
-     },
-     {
-      "letter": "D",
-      "text": "trick"
+      "text": "sweep"
      }
     ],
     "answer": "B",
-    "vi": 13
+    "vi": 12
    },
    {
-    "question": "He wore a white __________.【T恤衫】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "T-shirt"
-     },
-     {
-      "letter": "B",
-      "text": "Triangle"
-     },
-     {
-      "letter": "C",
-      "text": "Turkey"
-     },
-     {
-      "letter": "D",
-      "text": "Treasure"
-     }
-    ],
-    "answer": "A",
-    "vi": 14
-   },
-   {
-    "question": "She filled the __________ with water.【浴缸，桶】",
+    "question": "Please tell me the __________. Did you break the window?",
     "options": [
      {
       "letter": "A",
@@ -620,22 +574,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "triangle"
+      "text": "trap"
      },
      {
       "letter": "C",
-      "text": "tub"
+      "text": "trade"
      },
      {
       "letter": "D",
-      "text": "tradition"
+      "text": "tub"
      }
     ],
-    "answer": "C",
-    "vi": 15
+    "answer": "A",
+    "vi": 13
    },
    {
-    "question": "They cooked a __________ for Thanksgiving.【火雞】",
+    "question": "It is hot today, so I am wearing a __________ and shorts.",
     "options": [
      {
       "letter": "A",
@@ -647,30 +601,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "tradition"
+      "text": "tub"
      },
      {
       "letter": "D",
-      "text": "trade"
+      "text": "T-shirt"
+     }
+    ],
+    "answer": "D",
+    "vi": 14
+   },
+   {
+    "question": "I filled the __________ with hot water and took a long bath.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "trap"
+     },
+     {
+      "letter": "B",
+      "text": "train"
+     },
+     {
+      "letter": "C",
+      "text": "tub"
+     },
+     {
+      "letter": "D",
+      "text": "truth"
+     }
+    ],
+    "answer": "C",
+    "vi": 15
+   },
+   {
+    "question": "Americans eat __________ on Thanksgiving. It is a big bird like a chicken.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "turkey"
+     },
+     {
+      "letter": "B",
+      "text": "turtle"
+     },
+     {
+      "letter": "C",
+      "text": "trap"
+     },
+     {
+      "letter": "D",
+      "text": "tub"
      }
     ],
     "answer": "A",
     "vi": 16
    },
    {
-    "question": "The __________ swam slowly in the pond.【烏龜】",
+    "question": "A __________ has a hard shell and walks slowly. It can live for more than one hundred years.",
     "options": [
      {
       "letter": "A",
-      "text": "trade"
+      "text": "turkey"
      },
      {
       "letter": "B",
-      "text": "treasure"
+      "text": "trap"
      },
      {
       "letter": "C",
-      "text": "trick"
+      "text": "train"
      },
      {
       "letter": "D",
@@ -681,7 +681,7 @@ window.FLASHCARD_UNITS = {
     "vi": 17
    },
    {
-    "question": "The building is very __________.【醜陋的，難看的】",
+    "question": "Nobody liked the __________ duck in the story. But it became a beautiful swan.",
     "options": [
      {
       "letter": "A",
@@ -689,44 +689,44 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "male"
-     },
-     {
-      "letter": "C",
       "text": "ugly"
      },
      {
-      "letter": "D",
-      "text": "bitter"
-     }
-    ],
-    "answer": "C",
-    "vi": 18
-   },
-   {
-    "question": "She took an __________ because it was raining.【雨傘】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "train"
-     },
-     {
-      "letter": "B",
-      "text": "umbrella"
-     },
-     {
       "letter": "C",
-      "text": "turkey"
+      "text": "tidy"
      },
      {
       "letter": "D",
-      "text": "T-shirt"
+      "text": "total"
      }
     ],
     "answer": "B",
+    "vi": 18
+   },
+   {
+    "question": "It is raining. Take an __________ with you.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "uncle"
+     },
+     {
+      "letter": "B",
+      "text": "uniform"
+     },
+     {
+      "letter": "C",
+      "text": "umbrella"
+     },
+     {
+      "letter": "D",
+      "text": "universe"
+     }
+    ],
+    "answer": "C",
     "vi": 19
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"aims":["to try or plan to do something","瞄準，目標"],"barked":["(of a dog) to make a short loud sound","吠叫"],"bitter":["having a strong taste that is not sweet, like black coffee","苦的，痛苦的"],"licked":["to move your tongue over something","舔"],"male":["being a man or a boy","男性的"],"overweight":["too heavy or fat","超重的，過重的"],"produces":["to make or grow something","生產，製造"],"soft":["not hard; nice to touch","柔軟的，溫和的"],"trade":["buying and selling things between people or countries","貿易，交易"],"tradition":["something that a family or group has done for a long time","傳統，慣例"],"traffic":["all the cars, buses, and motorcycles moving on the roads","交通，車流"],"train":["a line of cars that moves along rails and carries people","火車，訓練"],"trap":["a thing for catching animals","陷阱，圈套"],"treasure":["gold, silver, and other things that are worth a lot of money","財寶，珍寶"],"treated":["to pay for someone's food or drink","對待，治療"],"triangle":["a shape with three straight sides","三角形"],"trick":["something you do to fool someone for fun","把戲，詭計"],"troops":["soldiers in a large group","部隊，軍隊"],"tropical":["from or in the hottest parts of the world","熱帶的，炎熱的"],"trousers":["clothing that covers your legs; pants","褲子，長褲"],"trusts":["to believe that someone is good and honest","信任，依賴"],"truth":["what is true; the real facts","真相，事實"],"t-shirt":["a shirt with short sleeves and no buttons","T恤衫"],"tub":["a big container that you fill with water to wash your body","浴缸，桶"],"turkey":["a big farm bird that people eat at Thanksgiving","火雞"],"turtle":["an animal with a hard shell on its back that moves slowly","烏龜"],"ugly":["not nice to look at","醜陋的，難看的"],"umbrella":["a thing you hold over your head to stay dry in the rain","雨傘"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"trap":["a thing for catching animals","陷阱，圈套"],"trade":["buying and selling things between people or countries","貿易，交易"],"truth":["what is true; the real facts","真相，事實"],"tub":["a big container that you fill with water to wash your body","浴缸，桶"],"traffic":["all the cars, buses, and motorcycles moving on the roads","交通，車流"],"triangle":["a shape with three straight sides","三角形"],"tradition":["something that a family or group has done for a long time","傳統，慣例"],"treasure":["gold, silver, and other things that are worth a lot of money","財寶，珍寶"],"train":["a line of cars that moves along rails and carries people","火車，訓練"],"turkey":["a big farm bird that people eat at Thanksgiving","火雞"],"treated":["to pay for someone's food or drink","對待，治療"],"trusted":["to believe that someone is good and honest","信任，依賴"],"supported":["to agree with and help someone","支持，支援"],"swallowed":["to make food or drink go down your throat","吞下，嚥下"],"turtle":["an animal with a hard shell on its back that moves slowly","烏龜"],"trick":["something you do to fool someone for fun","把戲，詭計"],"traps":["a thing for catching animals","陷阱，圈套"],"tubs":["a big container that you fill with water to wash your body","浴缸，桶"],"turtles":["an animal with a hard shell on its back that moves slowly","烏龜"],"troops":["soldiers in a large group","部隊，軍隊"],"ugly":["not nice to look at","醜陋的，難看的"],"tropical":["from or in the hottest parts of the world","熱帶的，炎熱的"],"tidy":["clean, with everything in the right place","整潔的，井井有條的"],"total":["with everything added together","總的，全部的"],"t-shirts":["a shirt with short sleeves and no buttons","T恤衫"],"trousers":["clothing that covers your legs; pants","褲子，長褲"],"triangles":["a shape with three straight sides","三角形"],"treat":["to pay for someone's food or drink","對待，治療"],"trust":["to believe that someone is good and honest","信任，依賴"],"support":["to agree with and help someone","支持，支援"],"sweep":["to clean a floor with a broom","打掃，清掃"],"t-shirt":["a shirt with short sleeves and no buttons","T恤衫"],"uncle":["the brother of your father or mother","叔叔，舅舅"],"uniform":["special clothes that all students or workers in one place wear","制服"],"umbrella":["a thing you hold over your head to stay dry in the rain","雨傘"],"universe":["all of space, with all the stars and planets","宇宙，天地"]});

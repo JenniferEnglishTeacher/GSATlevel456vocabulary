@@ -174,143 +174,143 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Her family ______ her decision.【支持，支援】",
+    "q": "My parents ______ my plan to study music. They say they will help me.",
     "options": [
-      "sweeps",
+      "swallow",
+      "sweep",
       "survive",
-      "supported",
-      "swallow"
+      "support"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "她的家人支持她的決定。",
     "vocabIndex": 0
   },
   {
-    "q": "They managed to ______ the disaster.【存活，生存】",
+    "q": "People can't ______ without water for more than a few days.",
     "options": [
+      "support",
+      "sweep",
       "survive",
-      "swallow",
-      "supported",
-      "sweeps"
+      "swallow"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他們設法在災難中倖存下來。",
     "vocabIndex": 1
   },
   {
-    "q": "He had to ______ the medicine quickly.【吞下，嚥下】",
+    "q": "My throat hurts. It is hard for me to ______ food.",
     "options": [
-      "survive",
-      "supported",
-      "sweeps",
-      "swallow"
+      "support",
+      "swallow",
+      "sweep",
+      "survive"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他不得不迅速吞下藥。",
     "vocabIndex": 2
   },
   {
-    "q": "They saw a ______ swimming in the lake.【天鵝】",
+    "q": "A ______ is a big white bird with a long neck. It swims on the lake.",
     "options": [
-      "textbook",
       "swan",
-      "swimsuit",
-      "talent"
+      "tank",
+      "tent",
+      "teapot"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "他們看到一隻天鵝在湖裡游泳。",
     "vocabIndex": 3
   },
   {
-    "q": "She ______ the floor every morning.【打掃，清掃】",
+    "q": "Grandma ______ the floor with a broom every morning.",
     "options": [
+      "swallows",
+      "supports",
       "sweeps",
-      "survive",
-      "swallow",
-      "supported"
+      "survives"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "她每天早上掃地。",
     "vocabIndex": 4
   },
   {
-    "q": "She bought a new ______.【泳衣】",
+    "q": "I am going to the beach. I need to bring my ______ and a towel.",
     "options": [
-      "term",
-      "swimsuit",
-      "temperature",
-      "tank"
+      "teapot",
+      "textbook",
+      "tangerine",
+      "swimsuit"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她買了一件新泳衣。",
     "vocabIndex": 5
   },
   {
-    "q": "The heart is a ______ of love.【符號，象徵】",
+    "q": "The heart is a ______ of love.",
     "options": [
-      "swan",
-      "tent",
-      "teapot",
-      "symbol"
+      "system",
+      "symbol",
+      "tank",
+      "tent"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "心形是愛的象徵。",
     "vocabIndex": 6
   },
   {
-    "q": "The new ______ is very efficient.【系統，體系】",
+    "q": "The city has a good bus ______. You can get anywhere easily.",
     "options": [
-      "tent",
-      "swan",
       "system",
-      "teapot"
+      "symbol",
+      "swan",
+      "tear"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "新系統非常高效。",
     "vocabIndex": 7
   },
   {
-    "q": "They enjoy playing ______.【乒乓球，桌球】",
+    "q": "We play ______ with a small white ball and a low net on a table.",
     "options": [
+      "temperature",
+      "talent",
       "table tennis",
-      "system",
-      "textbook",
-      "swan"
+      "tangerine"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他們喜歡打乒乓球。",
     "vocabIndex": 8
   },
   {
-    "q": "She has a natural ______ for singing.【才能，天賦】",
+    "q": "Amy has a ______ for music. She can play any song after hearing it once.",
     "options": [
-      "term",
-      "tangerine",
       "talent",
-      "temperature"
+      "tank",
+      "tent",
+      "term"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "她有天生的唱歌天賦。",
     "vocabIndex": 9
   },
   {
-    "q": "He is very ______.【健談的，話多的】",
+    "q": "Ben is very ______. He never stops talking in class.",
     "options": [
       "terrific",
       "talkative",
-      "false",
-      "diligent"
+      "tidy",
+      "total"
     ],
     "answer": 1,
     "cn": "他很健談。",
     "vocabIndex": 10
   },
   {
-    "q": "She peeled a ______.【橘子】",
+    "q": "A ______ looks like a small orange. It is easy to peel.",
     "options": [
-      "tear",
       "teapot",
-      "textbook",
+      "tent",
+      "tank",
       "tangerine"
     ],
     "answer": 3,
@@ -318,47 +318,47 @@ const MCQS = [
     "vocabIndex": 11
   },
   {
-    "q": "The fish are swimming in the ______.【坦克，油箱】",
+    "q": "There are ten fish in the ______. I feed them and change the water every week.",
     "options": [
-      "symbol",
-      "tank",
       "tent",
-      "temperature"
+      "tear",
+      "tank",
+      "term"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "魚在魚缸裡游泳。",
     "vocabIndex": 12
   },
   {
-    "q": "She poured tea from the ______.【茶壺】",
+    "q": "Grandpa put some tea leaves and hot water in the ______.",
     "options": [
-      "tear",
-      "tangerine",
+      "tent",
       "teapot",
-      "swimsuit"
+      "tank",
+      "textbook"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "她從茶壺裡倒茶。",
     "vocabIndex": 13
   },
   {
-    "q": "She wiped away a ______.【眼淚】",
+    "q": "The sad movie made her cry. There were ______ in her eyes.",
     "options": [
-      "tear",
-      "textbook",
-      "tangerine",
-      "term"
+      "tears",
+      "tents",
+      "tanks",
+      "terms"
     ],
     "answer": 0,
     "cn": "她擦掉了眼淚。",
     "vocabIndex": 14
   },
   {
-    "q": "The ______ today is very high.【溫度，氣溫】",
+    "q": "The ______ is thirty-five degrees today. It is very hot.",
     "options": [
       "talent",
-      "teapot",
-      "tent",
+      "symbol",
+      "system",
       "temperature"
     ],
     "answer": 3,
@@ -366,145 +366,140 @@ const MCQS = [
     "vocabIndex": 15
   },
   {
-    "q": "They set up a ______ in the forest.【帳篷】",
+    "q": "We slept in a ______ by the lake when we went camping.",
     "options": [
-      "swan",
+      "tank",
+      "teapot",
       "tent",
-      "talent",
-      "tank"
+      "term"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "他們在森林裡搭了個帳篷。",
     "vocabIndex": 16
   },
   {
-    "q": "The ______ will end next month.【期限，學期】",
+    "q": "The school ______ ends in June. Then the summer vacation begins.",
     "options": [
       "tent",
-      "temperature",
       "term",
-      "teapot"
+      "tank",
+      "tear"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "這個學期將在下個月結束。",
     "vocabIndex": 17
   },
   {
-    "q": "She did a ______ job on the project.【極好的，極度的】",
+    "q": "You did a ______ job! Everyone loved your speech.",
     "options": [
+      "terrific",
       "talkative",
-      "humid",
-      "alike",
-      "terrific"
+      "tidy",
+      "total"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "她在這個專案上做得很出色。",
     "vocabIndex": 18
   },
   {
-    "q": "He forgot his ______ at home.【課本，教科書】",
+    "q": "Please open your English ______ to page 20. We will read Lesson 3.",
     "options": [
-      "textbook",
-      "symbol",
-      "tent",
-      "teapot"
+      "swimsuit",
+      "teapot",
+      "tangerine",
+      "textbook"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "他把課本忘在家裡了。",
     "vocabIndex": 19
   }
 ];
 
 const LOOKUP = {
-  "alike": {
-    "pos": "adj./adv.",
-    "en_def": "almost the same",
-    "cn_def": "相似的，一樣地"
-  },
-  "diligent": {
-    "pos": "adj.",
-    "en_def": "working hard and carefully",
-    "cn_def": "勤勉的，勤奮的"
-  },
-  "false": {
-    "pos": "adj.",
-    "en_def": "not true; not correct",
-    "cn_def": "錯誤的，假的"
-  },
-  "humid": {
-    "pos": "adj.",
-    "en_def": "(of weather) warm and wet",
-    "cn_def": "潮濕的，濕熱的"
-  },
-  "supported": {
+  "swallow": {
     "pos": "v.",
-    "en_def": "to agree with and help someone",
-    "cn_def": "支持，支援"
+    "en_def": "to make food or drink go down your throat",
+    "cn_def": "吞下，嚥下"
+  },
+  "sweep": {
+    "pos": "v.",
+    "en_def": "to clean a floor with a broom",
+    "cn_def": "打掃，清掃"
   },
   "survive": {
     "pos": "v.",
     "en_def": "to stay alive after something dangerous",
     "cn_def": "存活，生存"
   },
-  "swallow": {
+  "support": {
     "pos": "v.",
-    "en_def": "to make food or drink go down your throat",
-    "cn_def": "吞下，嚥下"
+    "en_def": "to agree with and help someone",
+    "cn_def": "支持，支援"
   },
   "swan": {
     "pos": "n.",
     "en_def": "a big white bird with a long neck that lives on lakes",
     "cn_def": "天鵝"
   },
+  "tank": {
+    "pos": "n.",
+    "en_def": "a big container for water or fish",
+    "cn_def": "坦克，油箱"
+  },
+  "tent": {
+    "pos": "n.",
+    "en_def": "a small house made of cloth that you sleep in when you camp",
+    "cn_def": "帳篷"
+  },
+  "teapot": {
+    "pos": "n.",
+    "en_def": "a pot for making and pouring tea",
+    "cn_def": "茶壺"
+  },
+  "swallows": {
+    "pos": "v.",
+    "en_def": "to make food or drink go down your throat",
+    "cn_def": "吞下，嚥下"
+  },
+  "supports": {
+    "pos": "v.",
+    "en_def": "to agree with and help someone",
+    "cn_def": "支持，支援"
+  },
   "sweeps": {
     "pos": "v.",
     "en_def": "to clean a floor with a broom",
     "cn_def": "打掃，清掃"
   },
-  "swimsuit": {
-    "pos": "n.",
-    "en_def": "clothes that you wear for swimming",
-    "cn_def": "泳衣"
+  "survives": {
+    "pos": "v.",
+    "en_def": "to stay alive after something dangerous",
+    "cn_def": "存活，生存"
   },
-  "symbol": {
+  "textbook": {
     "pos": "n.",
-    "en_def": "a picture or thing that stands for an idea",
-    "cn_def": "符號，象徵"
-  },
-  "system": {
-    "pos": "n.",
-    "en_def": "a group of parts or machines that work together",
-    "cn_def": "系統，體系"
-  },
-  "table tennis": {
-    "pos": "n.",
-    "en_def": "a game in which players hit a small light ball over a net on a table",
-    "cn_def": "乒乓球，桌球"
-  },
-  "talent": {
-    "pos": "n.",
-    "en_def": "a natural skill for doing something well",
-    "cn_def": "才能，天賦"
-  },
-  "talkative": {
-    "pos": "adj.",
-    "en_def": "liking to talk a lot",
-    "cn_def": "健談的，話多的"
+    "en_def": "a book that students use in class to study a subject",
+    "cn_def": "課本，教科書"
   },
   "tangerine": {
     "pos": "n.",
     "en_def": "a small sweet orange that is easy to peel",
     "cn_def": "橘子"
   },
-  "tank": {
+  "swimsuit": {
     "pos": "n.",
-    "en_def": "a big container for water or fish",
-    "cn_def": "坦克，油箱"
+    "en_def": "clothes that you wear for swimming",
+    "cn_def": "泳衣"
   },
-  "teapot": {
+  "system": {
     "pos": "n.",
-    "en_def": "a pot for making and pouring tea",
-    "cn_def": "茶壺"
+    "en_def": "a group of parts or machines that work together",
+    "cn_def": "系統，體系"
+  },
+  "symbol": {
+    "pos": "n.",
+    "en_def": "a picture or thing that stands for an idea",
+    "cn_def": "符號，象徵"
   },
   "tear": {
     "pos": "n.",
@@ -516,10 +511,15 @@ const LOOKUP = {
     "en_def": "how hot or cold something is",
     "cn_def": "溫度，氣溫"
   },
-  "tent": {
+  "talent": {
     "pos": "n.",
-    "en_def": "a small house made of cloth that you sleep in when you camp",
-    "cn_def": "帳篷"
+    "en_def": "a natural skill for doing something well",
+    "cn_def": "才能，天賦"
+  },
+  "table tennis": {
+    "pos": "n.",
+    "en_def": "a game in which players hit a small light ball over a net on a table",
+    "cn_def": "乒乓球，桌球"
   },
   "term": {
     "pos": "n.",
@@ -531,10 +531,40 @@ const LOOKUP = {
     "en_def": "very, very good",
     "cn_def": "極好的，極度的"
   },
-  "textbook": {
+  "talkative": {
+    "pos": "adj.",
+    "en_def": "liking to talk a lot",
+    "cn_def": "健談的，話多的"
+  },
+  "tidy": {
+    "pos": "adj.",
+    "en_def": "clean, with everything in the right place",
+    "cn_def": "整潔的，井井有條的"
+  },
+  "total": {
+    "pos": "adj.",
+    "en_def": "with everything added together",
+    "cn_def": "總的，全部的"
+  },
+  "tears": {
     "pos": "n.",
-    "en_def": "a book that students use in class to study a subject",
-    "cn_def": "課本，教科書"
+    "en_def": "a drop of water that comes from your eye when you cry",
+    "cn_def": "眼淚"
+  },
+  "tents": {
+    "pos": "n.",
+    "en_def": "a small house made of cloth that you sleep in when you camp",
+    "cn_def": "帳篷"
+  },
+  "tanks": {
+    "pos": "n.",
+    "en_def": "a big container for water or fish",
+    "cn_def": "坦克，油箱"
+  },
+  "terms": {
+    "pos": "n.",
+    "en_def": "one part of a school year",
+    "cn_def": "期限，學期"
   }
 };
 
