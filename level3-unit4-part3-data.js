@@ -432,18 +432,6 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "glanced": {
-    "pos": "v.",
-    "en_def": "to take a brief or hurried look at someone or something",
-    "cn_def": "瞥一眼；匆匆一瞥（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to take a brief or hurried look at someone or something",
-        "cn_def": "瞥一眼；匆匆一瞥（動詞）"
-      }
-    ]
-  },
   "glance": {
     "pos": "v.",
     "en_def": "to take a brief or hurried look at someone or something",
@@ -458,6 +446,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a brief or hurried look",
         "cn_def": "一瞥；短暫的注視（可數）"
+      }
+    ]
+  },
+  "glanced": {
+    "pos": "v.",
+    "en_def": "to take a brief or hurried look at someone or something",
+    "cn_def": "瞥一眼；匆匆一瞥（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to take a brief or hurried look at someone or something",
+        "cn_def": "瞥一眼；匆匆一瞥（動詞）"
       }
     ]
   },

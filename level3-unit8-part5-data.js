@@ -364,7 +364,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tends": {
+  "tend": {
     "pos": "v.",
     "en_def": "to be likely to behave in a particular way; to care for or look after someone or something",
     "cn_def": "傾向於；往往會；照顧；照料（動詞）",
@@ -376,7 +376,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tend": {
+  "tends": {
     "pos": "v.",
     "en_def": "to be likely to behave in a particular way; to care for or look after someone or something",
     "cn_def": "傾向於；往往會；照顧；照料（動詞）",

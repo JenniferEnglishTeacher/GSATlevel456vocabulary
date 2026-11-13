@@ -491,7 +491,7 @@ const LOOKUP = {
       }
     ]
   },
-  "cradle to grave": {
+  "from cradle to grave": {
     "pos": "phr.",
     "en_def": "from birth to death; throughout the entirety of one's life",
     "cn_def": "從生到死；終生（片語）",
@@ -503,7 +503,7 @@ const LOOKUP = {
       }
     ]
   },
-  "from cradle to grave": {
+  "cradle to grave": {
     "pos": "phr.",
     "en_def": "from birth to death; throughout the entirety of one's life",
     "cn_def": "從生到死；終生（片語）",

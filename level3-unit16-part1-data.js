@@ -443,7 +443,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bamboo shoots": {
+  "bamboo shoot": {
     "pos": "n.phr.",
     "en_def": "the edible young sprout of the bamboo plant, used as a vegetable in cooking",
     "cn_def": "竹筍（可數）",
@@ -455,7 +455,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bamboo shoot": {
+  "bamboo shoots": {
     "pos": "n.phr.",
     "en_def": "the edible young sprout of the bamboo plant, used as a vegetable in cooking",
     "cn_def": "竹筍（可數）",

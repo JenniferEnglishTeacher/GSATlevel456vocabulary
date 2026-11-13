@@ -504,7 +504,7 @@ const LOOKUP = {
       }
     ]
   },
-  "travelers": {
+  "traveler": {
     "pos": "n.",
     "en_def": "a person who is traveling or who often travels",
     "cn_def": "旅客；旅行者（可數名詞）",
@@ -516,7 +516,7 @@ const LOOKUP = {
       }
     ]
   },
-  "traveler": {
+  "travelers": {
     "pos": "n.",
     "en_def": "a person who is traveling or who often travels",
     "cn_def": "旅客；旅行者（可數名詞）",

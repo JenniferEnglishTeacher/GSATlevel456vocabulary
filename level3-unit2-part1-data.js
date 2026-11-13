@@ -495,7 +495,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bleed sb. dry": {
+  "bled the small company dry": {
     "pos": "v.phr.",
     "en_def": "to drain someone of all their money, financial resources, or strength",
     "cn_def": "榨乾某人的血汗錢；使某人傾家蕩產",
@@ -507,7 +507,7 @@ const LOOKUP = {
       }
     ]
   },
-  "bled the small company dry": {
+  "bleed sb. dry": {
     "pos": "v.phr.",
     "en_def": "to drain someone of all their money, financial resources, or strength",
     "cn_def": "榨乾某人的血汗錢；使某人傾家蕩產",

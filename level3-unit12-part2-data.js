@@ -455,6 +455,18 @@ const LOOKUP = {
       }
     ]
   },
+  "crashed": {
+    "pos": "v.",
+    "en_def": "to collide violently with an obstacle; of a computer to fail suddenly",
+    "cn_def": "撞毀；墜毀；（電腦）當機（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to collide violently with an obstacle; of a computer to fail suddenly",
+        "cn_def": "撞毀；墜毀；（電腦）當機（動詞）"
+      }
+    ]
+  },
   "crash": {
     "pos": "v.",
     "en_def": "to collide violently with an obstacle; of a computer to fail suddenly",
@@ -469,18 +481,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a violent collision or impact; a sudden economic collapse or loud noise",
         "cn_def": "撞車事故；墜機；暴跌；轟隆聲（可數）"
-      }
-    ]
-  },
-  "crashed": {
-    "pos": "v.",
-    "en_def": "to collide violently with an obstacle; of a computer to fail suddenly",
-    "cn_def": "撞毀；墜毀；（電腦）當機（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to collide violently with an obstacle; of a computer to fail suddenly",
-        "cn_def": "撞毀；墜毀；（電腦）當機（動詞）"
       }
     ]
   },

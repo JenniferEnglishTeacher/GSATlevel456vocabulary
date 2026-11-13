@@ -444,7 +444,7 @@ const LOOKUP = {
       }
     ]
   },
-  "fade": {
+  "faded": {
     "pos": "v.",
     "en_def": "to gradually grow faint and disappear, or to lose brightness, vivid color, or vitality",
     "cn_def": "褪色；漸漸消逝；變微弱（動詞）",
@@ -456,7 +456,7 @@ const LOOKUP = {
       }
     ]
   },
-  "faded": {
+  "fade": {
     "pos": "v.",
     "en_def": "to gradually grow faint and disappear, or to lose brightness, vivid color, or vitality",
     "cn_def": "褪色；漸漸消逝；變微弱（動詞）",
@@ -480,6 +480,18 @@ const LOOKUP = {
       }
     ]
   },
+  "folded": {
+    "pos": "v.",
+    "en_def": "to bend something over on itself so that one part of it covers another",
+    "cn_def": "摺疊；對摺；交叉雙臂（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to bend something over on itself so that one part of it covers another",
+        "cn_def": "摺疊；對摺；交叉雙臂（動詞）"
+      }
+    ]
+  },
   "fold": {
     "pos": "v.",
     "en_def": "to bend something over on itself so that one part of it covers another",
@@ -494,18 +506,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a form or shape produced by the turning over of a layer of a material on itself",
         "cn_def": "摺痕；摺層；起伏（可數）"
-      }
-    ]
-  },
-  "folded": {
-    "pos": "v.",
-    "en_def": "to bend something over on itself so that one part of it covers another",
-    "cn_def": "摺疊；對摺；交叉雙臂（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to bend something over on itself so that one part of it covers another",
-        "cn_def": "摺疊；對摺；交叉雙臂（動詞）"
       }
     ]
   },
@@ -550,7 +550,7 @@ const LOOKUP = {
       }
     ]
   },
-  "limbs": {
+  "limb": {
     "pos": "n.",
     "en_def": "an arm or leg of a person or four-legged animal, or a large branch of a tree",
     "cn_def": "肢體；手足；大樹枝（可數）",
@@ -562,7 +562,7 @@ const LOOKUP = {
       }
     ]
   },
-  "limb": {
+  "limbs": {
     "pos": "n.",
     "en_def": "an arm or leg of a person or four-legged animal, or a large branch of a tree",
     "cn_def": "肢體；手足；大樹枝（可數）",

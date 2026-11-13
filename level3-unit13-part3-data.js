@@ -423,6 +423,18 @@ const MCQS = [
 ];
 
 const LOOKUP = {
+  "licked": {
+    "pos": "v.",
+    "en_def": "to pass the tongue over a surface; to overcome or defeat",
+    "cn_def": "舔；舐；克服解決（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to pass the tongue over a surface; to overcome or defeat",
+        "cn_def": "舔；舐；克服解決（動詞）"
+      }
+    ]
+  },
   "lick": {
     "pos": "v.",
     "en_def": "to pass the tongue over a surface; to overcome or defeat",
@@ -437,18 +449,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "an act of passing the tongue over something; a tiny amount; a stroke",
         "cn_def": "舔；一小點；少許（可數）"
-      }
-    ]
-  },
-  "licked": {
-    "pos": "v.",
-    "en_def": "to pass the tongue over a surface; to overcome or defeat",
-    "cn_def": "舔；舐；克服解決（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to pass the tongue over a surface; to overcome or defeat",
-        "cn_def": "舔；舐；克服解決（動詞）"
       }
     ]
   },

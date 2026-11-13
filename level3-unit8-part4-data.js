@@ -448,7 +448,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pour": {
+  "poured": {
     "pos": "v.",
     "en_def": "to flow rapidly in a steady stream; to rain heavily; to serve a drink",
     "cn_def": "倒（液體）；傾盆降雨；湧入",
@@ -460,7 +460,7 @@ const LOOKUP = {
       }
     ]
   },
-  "poured": {
+  "pour": {
     "pos": "v.",
     "en_def": "to flow rapidly in a steady stream; to rain heavily; to serve a drink",
     "cn_def": "倒（液體）；傾盆降雨；湧入",

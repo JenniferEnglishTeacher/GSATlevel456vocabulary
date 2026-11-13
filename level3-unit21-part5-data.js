@@ -384,7 +384,7 @@ const LOOKUP = {
       }
     ]
   },
-  "weapons": {
+  "weapon": {
     "pos": "n.",
     "en_def": "a thing designed or used for inflicting bodily harm or physical damage",
     "cn_def": "武器；手段",
@@ -396,7 +396,7 @@ const LOOKUP = {
       }
     ]
   },
-  "weapon": {
+  "weapons": {
     "pos": "n.",
     "en_def": "a thing designed or used for inflicting bodily harm or physical damage",
     "cn_def": "武器；手段",

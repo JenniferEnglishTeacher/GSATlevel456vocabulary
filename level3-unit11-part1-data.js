@@ -444,6 +444,18 @@ const LOOKUP = {
       }
     ]
   },
+  "arrested": {
+    "pos": "v.",
+    "en_def": "to seize someone by legal authority and take them into custody",
+    "cn_def": "逮捕；拘捕（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to seize someone by legal authority and take them into custody",
+        "cn_def": "逮捕；拘捕（動詞）"
+      }
+    ]
+  },
   "arrest": {
     "pos": "v.",
     "en_def": "to seize someone by legal authority and take them into custody",
@@ -458,18 +470,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "the action of seizing someone to take them into legal custody",
         "cn_def": "逮捕；拘留（可數/不可數）"
-      }
-    ]
-  },
-  "arrested": {
-    "pos": "v.",
-    "en_def": "to seize someone by legal authority and take them into custody",
-    "cn_def": "逮捕；拘捕（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to seize someone by legal authority and take them into custody",
-        "cn_def": "逮捕；拘捕（動詞）"
       }
     ]
   },

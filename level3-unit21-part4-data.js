@@ -424,7 +424,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sins": {
+  "sin": {
     "pos": "n./v.",
     "en_def": "an immoral act considered a transgression against divine law",
     "cn_def": "罪過；罪惡 (n.)；犯罪；背離道德 (v.)",
@@ -436,7 +436,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sin": {
+  "sins": {
     "pos": "n./v.",
     "en_def": "an immoral act considered a transgression against divine law",
     "cn_def": "罪過；罪惡 (n.)；犯罪；背離道德 (v.)",

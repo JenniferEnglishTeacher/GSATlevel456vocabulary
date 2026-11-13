@@ -457,7 +457,7 @@ const LOOKUP = {
       }
     ]
   },
-  "stool": {
+  "stools": {
     "pos": "n.",
     "en_def": "a backless, armless single seat supported on legs or a central pedestal",
     "cn_def": "凳子；高腳凳（可數）",
@@ -469,7 +469,7 @@ const LOOKUP = {
       }
     ]
   },
-  "stools": {
+  "stool": {
     "pos": "n.",
     "en_def": "a backless, armless single seat supported on legs or a central pedestal",
     "cn_def": "凳子；高腳凳（可數）",
@@ -541,7 +541,7 @@ const LOOKUP = {
       }
     ]
   },
-  "troop": {
+  "troops": {
     "pos": "n.",
     "en_def": "soldiers or armed forces; a group of people or animals of a specified kind",
     "cn_def": "軍隊；部隊（常用複數 troops）；一群",
@@ -553,7 +553,7 @@ const LOOKUP = {
       }
     ]
   },
-  "troops": {
+  "troop": {
     "pos": "n.",
     "en_def": "soldiers or armed forces; a group of people or animals of a specified kind",
     "cn_def": "軍隊；部隊（常用複數 troops）；一群",

@@ -464,6 +464,18 @@ const LOOKUP = {
       }
     ]
   },
+  "flashed": {
+    "pos": "v.",
+    "en_def": "to shine with a sudden bright light, or to move very quickly",
+    "cn_def": "閃爍；閃光；掠過（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to shine with a sudden bright light, or to move very quickly",
+        "cn_def": "閃爍；閃光；掠過（動詞）"
+      }
+    ]
+  },
   "flash": {
     "pos": "v.",
     "en_def": "to shine with a sudden bright light, or to move very quickly",
@@ -478,18 +490,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a sudden brief burst of bright light or a very short time",
         "cn_def": "閃光；一瞬間（名詞）"
-      }
-    ]
-  },
-  "flashed": {
-    "pos": "v.",
-    "en_def": "to shine with a sudden bright light, or to move very quickly",
-    "cn_def": "閃爍；閃光；掠過（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to shine with a sudden bright light, or to move very quickly",
-        "cn_def": "閃爍；閃光；掠過（動詞）"
       }
     ]
   },

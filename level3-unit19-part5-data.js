@@ -405,7 +405,7 @@ const LOOKUP = {
       }
     ]
   },
-  "survivors": {
+  "survivor": {
     "pos": "n.",
     "en_def": "a person who survives a disaster, accident, or serious illness",
     "cn_def": "生還者；倖存者（可數）",
@@ -417,7 +417,7 @@ const LOOKUP = {
       }
     ]
   },
-  "survivor": {
+  "survivors": {
     "pos": "n.",
     "en_def": "a person who survives a disaster, accident, or serious illness",
     "cn_def": "生還者；倖存者（可數）",
@@ -465,7 +465,7 @@ const LOOKUP = {
       }
     ]
   },
-  "youngsters": {
+  "youngster": {
     "pos": "n.",
     "en_def": "a child, young person, or youth",
     "cn_def": "年輕人；少年；兒童（可數）",
@@ -477,7 +477,7 @@ const LOOKUP = {
       }
     ]
   },
-  "youngster": {
+  "youngsters": {
     "pos": "n.",
     "en_def": "a child, young person, or youth",
     "cn_def": "年輕人；少年；兒童（可數）",

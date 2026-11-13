@@ -482,6 +482,18 @@ const LOOKUP = {
       }
     ]
   },
+  "roared": {
+    "pos": "v.",
+    "en_def": "to make a full, deep, prolonged cry; to move making a loud noise",
+    "cn_def": "吼叫；咆哮；轟鳴疾馳（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to make a full, deep, prolonged cry; to move making a loud noise",
+        "cn_def": "吼叫；咆哮；轟鳴疾馳（動詞）"
+      }
+    ]
+  },
   "roar": {
     "pos": "v.",
     "en_def": "to make a full, deep, prolonged cry; to move making a loud noise",
@@ -496,18 +508,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a full, deep, prolonged cry uttered by a lion or person; a loud sound",
         "cn_def": "吼聲；轟鳴聲；呼嘯（可數）"
-      }
-    ]
-  },
-  "roared": {
-    "pos": "v.",
-    "en_def": "to make a full, deep, prolonged cry; to move making a loud noise",
-    "cn_def": "吼叫；咆哮；轟鳴疾馳（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to make a full, deep, prolonged cry; to move making a loud noise",
-        "cn_def": "吼叫；咆哮；轟鳴疾馳（動詞）"
       }
     ]
   },

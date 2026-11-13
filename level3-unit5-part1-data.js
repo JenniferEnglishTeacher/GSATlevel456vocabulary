@@ -484,7 +484,7 @@ const LOOKUP = {
       }
     ]
   },
-  "advertiser": {
+  "advertisers": {
     "pos": "n.",
     "en_def": "a person or company that pays for advertisements to promote products",
     "cn_def": "廣告商；廣告主（可數）",
@@ -496,7 +496,7 @@ const LOOKUP = {
       }
     ]
   },
-  "advertisers": {
+  "advertiser": {
     "pos": "n.",
     "en_def": "a person or company that pays for advertisements to promote products",
     "cn_def": "廣告商；廣告主（可數）",
@@ -645,18 +645,6 @@ const LOOKUP = {
       }
     ]
   },
-  "awoke": {
-    "pos": "v.",
-    "en_def": "to stop sleeping or cause someone to stop sleeping",
-    "cn_def": "醒來；喚起；使意識到（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to stop sleeping or cause someone to stop sleeping",
-        "cn_def": "醒來；喚起；使意識到（動詞）"
-      }
-    ]
-  },
   "awake": {
     "pos": "v.",
     "en_def": "to stop sleeping or cause someone to stop sleeping",
@@ -671,6 +659,18 @@ const LOOKUP = {
         "pos": "adj.",
         "en_def": "not asleep; conscious and alert",
         "cn_def": "清醒的；沒睡著的"
+      }
+    ]
+  },
+  "awoke": {
+    "pos": "v.",
+    "en_def": "to stop sleeping or cause someone to stop sleeping",
+    "cn_def": "醒來；喚起；使意識到（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to stop sleeping or cause someone to stop sleeping",
+        "cn_def": "醒來；喚起；使意識到（動詞）"
       }
     ]
   },
@@ -734,7 +734,7 @@ const LOOKUP = {
       }
     ]
   },
-  "berry": {
+  "berries": {
     "pos": "n.",
     "en_def": "a small round juicy fruit without a stone or pit",
     "cn_def": "漿果；莓果（可數名詞）",
@@ -746,7 +746,7 @@ const LOOKUP = {
       }
     ]
   },
-  "berries": {
+  "berry": {
     "pos": "n.",
     "en_def": "a small round juicy fruit without a stone or pit",
     "cn_def": "漿果；莓果（可數名詞）",

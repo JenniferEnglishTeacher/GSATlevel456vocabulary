@@ -500,6 +500,18 @@ const LOOKUP = {
       }
     ]
   },
+  "brakes": {
+    "pos": "n.",
+    "en_def": "a device for slowing or stopping a moving vehicle, typically by friction",
+    "cn_def": "煞車；制動器（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a device for slowing or stopping a moving vehicle, typically by friction",
+        "cn_def": "煞車；制動器（可數）"
+      }
+    ]
+  },
   "brake": {
     "pos": "n.",
     "en_def": "a device for slowing or stopping a moving vehicle, typically by friction",
@@ -514,18 +526,6 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to slow down or stop a vehicle using a brake",
         "cn_def": "煞車；減速（動詞）"
-      }
-    ]
-  },
-  "brakes": {
-    "pos": "n.",
-    "en_def": "a device for slowing or stopping a moving vehicle, typically by friction",
-    "cn_def": "煞車；制動器（可數）",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a device for slowing or stopping a moving vehicle, typically by friction",
-        "cn_def": "煞車；制動器（可數）"
       }
     ]
   },

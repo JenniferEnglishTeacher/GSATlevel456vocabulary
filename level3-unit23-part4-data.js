@@ -448,7 +448,7 @@ const LOOKUP = {
       }
     ]
   },
-  "vanished": {
+  "vanish": {
     "pos": "v.",
     "en_def": "to disappear suddenly and completely",
     "cn_def": "消失；滅絕；不翼而飛",
@@ -460,7 +460,7 @@ const LOOKUP = {
       }
     ]
   },
-  "vanish": {
+  "vanished": {
     "pos": "v.",
     "en_def": "to disappear suddenly and completely",
     "cn_def": "消失；滅絕；不翼而飛",

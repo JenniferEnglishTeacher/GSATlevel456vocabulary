@@ -426,7 +426,7 @@ const LOOKUP = {
       }
     ]
   },
-  "fireworks": {
+  "firework": {
     "pos": "n.",
     "en_def": "a device containing gunpowder and other chemicals that explodes to produce lights and smoke",
     "cn_def": "煙火；煙花（通常複數 fireworks）",
@@ -438,7 +438,7 @@ const LOOKUP = {
       }
     ]
   },
-  "firework": {
+  "fireworks": {
     "pos": "n.",
     "en_def": "a device containing gunpowder and other chemicals that explodes to produce lights and smoke",
     "cn_def": "煙火；煙花（通常複數 fireworks）",
@@ -462,7 +462,7 @@ const LOOKUP = {
       }
     ]
   },
-  "kilometers": {
+  "kilometer": {
     "pos": "n.",
     "en_def": "a metric unit of measurement equal to 1,000 meters (approx. 0.62 miles)",
     "cn_def": "公里；千米（可數，縮寫 km）",
@@ -474,7 +474,7 @@ const LOOKUP = {
       }
     ]
   },
-  "kilometer": {
+  "kilometers": {
     "pos": "n.",
     "en_def": "a metric unit of measurement equal to 1,000 meters (approx. 0.62 miles)",
     "cn_def": "公里；千米（可數，縮寫 km）",

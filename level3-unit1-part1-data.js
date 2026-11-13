@@ -525,18 +525,6 @@ const LOOKUP = {
       }
     ]
   },
-  "advised": {
-    "pos": "v.",
-    "en_def": "to offer suggestions or recommendations about what to do [advise, advised, advised]",
-    "cn_def": "建議；勸告（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to offer suggestions or recommendations about what to do [advise, advised, advised]",
-        "cn_def": "建議；勸告（動詞）"
-      }
-    ]
-  },
   "advise": {
     "pos": "v.",
     "en_def": "to offer suggestions or recommendations about what to do [advise, advised, advised]",
@@ -551,6 +539,18 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to formally inform or notify someone of a fact [advise, advised, advised]",
         "cn_def": "正式通知；告知"
+      }
+    ]
+  },
+  "advised": {
+    "pos": "v.",
+    "en_def": "to offer suggestions or recommendations about what to do [advise, advised, advised]",
+    "cn_def": "建議；勸告（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to offer suggestions or recommendations about what to do [advise, advised, advised]",
+        "cn_def": "建議；勸告（動詞）"
       }
     ]
   },

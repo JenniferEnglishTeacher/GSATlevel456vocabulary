@@ -441,7 +441,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pat oneself on the back": {
+  "pat yourself on the back": {
     "pos": "v.phr.",
     "en_def": "to praise or congratulate oneself for an achievement or good deed",
     "cn_def": "自我稱讚；為自己感到自豪",
@@ -453,7 +453,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pat yourself on the back": {
+  "pat oneself on the back": {
     "pos": "v.phr.",
     "en_def": "to praise or congratulate oneself for an achievement or good deed",
     "cn_def": "自我稱讚；為自己感到自豪",
@@ -482,7 +482,7 @@ const LOOKUP = {
       }
     ]
   },
-  "peanuts": {
+  "peanut": {
     "pos": "n.",
     "en_def": "an oval edible seed that develops in pods underground and is used for snacks and oil",
     "cn_def": "花生；花生米（可數）",
@@ -494,7 +494,7 @@ const LOOKUP = {
       }
     ]
   },
-  "peanut": {
+  "peanuts": {
     "pos": "n.",
     "en_def": "an oval edible seed that develops in pods underground and is used for snacks and oil",
     "cn_def": "花生；花生米（可數）",

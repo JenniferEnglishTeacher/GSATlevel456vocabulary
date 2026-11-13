@@ -457,18 +457,6 @@ const LOOKUP = {
       }
     ]
   },
-  "gambled": {
-    "pos": "v.",
-    "en_def": "to play games of chance for money; to take risky actions in hope of success",
-    "cn_def": "賭博；冒險；孤注一擲（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to play games of chance for money; to take risky actions in hope of success",
-        "cn_def": "賭博；冒險；孤注一擲（動詞）"
-      }
-    ]
-  },
   "gamble": {
     "pos": "v.",
     "en_def": "to play games of chance for money; to take risky actions in hope of success",
@@ -483,6 +471,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "an act of gambling; a risky undertaking with an uncertain outcome",
         "cn_def": "賭博；投機；高風險的冒險嘗試（可數）"
+      }
+    ]
+  },
+  "gambled": {
+    "pos": "v.",
+    "en_def": "to play games of chance for money; to take risky actions in hope of success",
+    "cn_def": "賭博；冒險；孤注一擲（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to play games of chance for money; to take risky actions in hope of success",
+        "cn_def": "賭博；冒險；孤注一擲（動詞）"
       }
     ]
   },

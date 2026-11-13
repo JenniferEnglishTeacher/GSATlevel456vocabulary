@@ -430,7 +430,7 @@ const LOOKUP = {
       }
     ]
   },
-  "columns": {
+  "column": {
     "pos": "n.",
     "en_def": "an upright pillar; a vertical division of a page; a regular article in a paper",
     "cn_def": "石柱；柱狀物；（報紙）專欄；縱列（可數）",
@@ -442,7 +442,7 @@ const LOOKUP = {
       }
     ]
   },
-  "column": {
+  "columns": {
     "pos": "n.",
     "en_def": "an upright pillar; a vertical division of a page; a regular article in a paper",
     "cn_def": "石柱；柱狀物；（報紙）專欄；縱列（可數）",

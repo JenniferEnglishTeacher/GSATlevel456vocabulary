@@ -423,7 +423,7 @@ const LOOKUP = {
       }
     ]
   },
-  "hanger": {
+  "hangers": {
     "pos": "n.",
     "en_def": "a curved piece of wood, plastic, or wire with a hook, used for hanging clothes",
     "cn_def": "衣架（可數）",
@@ -435,7 +435,7 @@ const LOOKUP = {
       }
     ]
   },
-  "hangers": {
+  "hanger": {
     "pos": "n.",
     "en_def": "a curved piece of wood, plastic, or wire with a hook, used for hanging clothes",
     "cn_def": "衣架（可數）",
@@ -471,7 +471,7 @@ const LOOKUP = {
       }
     ]
   },
-  "jewels": {
+  "jewel": {
     "pos": "n.",
     "en_def": "a precious stone, typically a single crystal, or a highly valued thing",
     "cn_def": "寶石；珠寶；珍貴之物（可數）",
@@ -483,7 +483,7 @@ const LOOKUP = {
       }
     ]
   },
-  "jewel": {
+  "jewels": {
     "pos": "n.",
     "en_def": "a precious stone, typically a single crystal, or a highly valued thing",
     "cn_def": "寶石；珠寶；珍貴之物（可數）",

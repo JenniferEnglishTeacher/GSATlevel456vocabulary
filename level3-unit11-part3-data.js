@@ -400,6 +400,18 @@ const MCQS = [
 ];
 
 const LOOKUP = {
+  "leaped": {
+    "pos": "v.",
+    "en_def": "to jump or spring a long way, to a great height, or with great force",
+    "cn_def": "跳躍；躍過；跳入（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to jump or spring a long way, to a great height, or with great force",
+        "cn_def": "跳躍；躍過；跳入（動詞）"
+      }
+    ]
+  },
   "leap": {
     "pos": "v.",
     "en_def": "to jump or spring a long way, to a great height, or with great force",
@@ -417,18 +429,6 @@ const LOOKUP = {
       }
     ]
   },
-  "leaped": {
-    "pos": "v.",
-    "en_def": "to jump or spring a long way, to a great height, or with great force",
-    "cn_def": "跳躍；躍過；跳入（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to jump or spring a long way, to a great height, or with great force",
-        "cn_def": "跳躍；躍過；跳入（動詞）"
-      }
-    ]
-  },
   "lettuce": {
     "pos": "n.",
     "en_def": "a cultivated plant with large green leaves, eaten raw in salads",
@@ -441,7 +441,7 @@ const LOOKUP = {
       }
     ]
   },
-  "lilies": {
+  "lily": {
     "pos": "n.",
     "en_def": "a bulbous plant with large, trumpet-shaped, typically fragrant flowers",
     "cn_def": "百合花（可數）",
@@ -453,7 +453,7 @@ const LOOKUP = {
       }
     ]
   },
-  "lily": {
+  "lilies": {
     "pos": "n.",
     "en_def": "a bulbous plant with large, trumpet-shaped, typically fragrant flowers",
     "cn_def": "百合花（可數）",
@@ -506,7 +506,7 @@ const LOOKUP = {
       }
     ]
   },
-  "necessity": {
+  "necessities": {
     "pos": "n.",
     "en_def": "the fact of being required or indispensable; an essential thing",
     "cn_def": "必然性；必要原則；必需品（可數/不可數）",
@@ -518,7 +518,7 @@ const LOOKUP = {
       }
     ]
   },
-  "necessities": {
+  "necessity": {
     "pos": "n.",
     "en_def": "the fact of being required or indispensable; an essential thing",
     "cn_def": "必然性；必要原則；必需品（可數/不可數）",

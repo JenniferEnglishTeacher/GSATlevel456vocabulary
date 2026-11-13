@@ -509,18 +509,6 @@ const LOOKUP = {
       }
     ]
   },
-  "banged": {
-    "pos": "v.",
-    "en_def": "to strike or put down forcefully and noisily",
-    "cn_def": "猛撞；重擊；發出砰然巨響",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to strike or put down forcefully and noisily",
-        "cn_def": "猛撞；重擊；發出砰然巨響"
-      }
-    ]
-  },
   "bang": {
     "pos": "v.",
     "en_def": "to strike or put down forcefully and noisily",
@@ -535,6 +523,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a sudden loud, sharp noise",
         "cn_def": "砰然巨響；猛擊（可數）"
+      }
+    ]
+  },
+  "banged": {
+    "pos": "v.",
+    "en_def": "to strike or put down forcefully and noisily",
+    "cn_def": "猛撞；重擊；發出砰然巨響",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to strike or put down forcefully and noisily",
+        "cn_def": "猛撞；重擊；發出砰然巨響"
       }
     ]
   },
@@ -586,7 +586,7 @@ const LOOKUP = {
       }
     ]
   },
-  "captured the imagination": {
+  "capture one's imagination": {
     "pos": "v.phr.",
     "en_def": "to fascinate someone or stimulate their creativity and interest",
     "cn_def": "引起某人的高度興趣；激發某人的想像力",
@@ -598,7 +598,7 @@ const LOOKUP = {
       }
     ]
   },
-  "capture one's imagination": {
+  "captured the imagination": {
     "pos": "v.phr.",
     "en_def": "to fascinate someone or stimulate their creativity and interest",
     "cn_def": "引起某人的高度興趣；激發某人的想像力",

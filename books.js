@@ -512,13 +512,15 @@ window.VOCAB_ZONES = {
    1,
    2,
    3,
-   4
+   4,
+   5
   ],
   "names": {
    "1": "acceptable – connection",
    "2": "decade – impressive",
    "3": "juicy – pitch in",
-   "4": "practical – scare"
+   "4": "practical – scare",
+   "5": "scissors – varied"
   },
   "blurb": "words & collocations by part 各部分單字與搭配詞"
  },
@@ -937,12 +939,14 @@ window.VOCAB_ZONES = {
   "quiz": "level3-unit16-part{u}.html",
   "units": [
    1,
+   2,
    3,
    4,
    5
   ],
   "names": {
    "1": "bamboo – dim",
+   "2": "dine – frequent",
    "3": "greenhouse – mob",
    "4": "monster – shrimp",
    "5": "sorrow – unity"

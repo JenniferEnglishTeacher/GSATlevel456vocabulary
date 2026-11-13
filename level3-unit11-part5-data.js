@@ -396,7 +396,7 @@ const LOOKUP = {
       }
     ]
   },
-  "scientists": {
+  "scientist": {
     "pos": "n.",
     "en_def": "a person who is studying or has expert knowledge of one or more of the natural sciences",
     "cn_def": "科學家（可數）",
@@ -408,7 +408,7 @@ const LOOKUP = {
       }
     ]
   },
-  "scientist": {
+  "scientists": {
     "pos": "n.",
     "en_def": "a person who is studying or has expert knowledge of one or more of the natural sciences",
     "cn_def": "科學家（可數）",
@@ -437,18 +437,6 @@ const LOOKUP = {
       }
     ]
   },
-  "sighed": {
-    "pos": "v.",
-    "en_def": "to emit a long, deep, audible breath expressing sadness, relief, or tiredness",
-    "cn_def": "嘆氣；嘆息（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to emit a long, deep, audible breath expressing sadness, relief, or tiredness",
-        "cn_def": "嘆氣；嘆息（動詞）"
-      }
-    ]
-  },
   "sigh": {
     "pos": "v.",
     "en_def": "to emit a long, deep, audible breath expressing sadness, relief, or tiredness",
@@ -466,6 +454,18 @@ const LOOKUP = {
       }
     ]
   },
+  "sighed": {
+    "pos": "v.",
+    "en_def": "to emit a long, deep, audible breath expressing sadness, relief, or tiredness",
+    "cn_def": "嘆氣；嘆息（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to emit a long, deep, audible breath expressing sadness, relief, or tiredness",
+        "cn_def": "嘆氣；嘆息（動詞）"
+      }
+    ]
+  },
   "slender": {
     "pos": "adj.",
     "en_def": "gracefully thin, slim, or delicate; small in degree or amount",
@@ -478,7 +478,7 @@ const LOOKUP = {
       }
     ]
   },
-  "surrounded": {
+  "surround": {
     "pos": "v.",
     "en_def": "to be all around someone or something; to encircle",
     "cn_def": "包圍；環繞；圍住（動詞）",
@@ -490,7 +490,7 @@ const LOOKUP = {
       }
     ]
   },
-  "surround": {
+  "surrounded": {
     "pos": "v.",
     "en_def": "to be all around someone or something; to encircle",
     "cn_def": "包圍；環繞；圍住（動詞）",

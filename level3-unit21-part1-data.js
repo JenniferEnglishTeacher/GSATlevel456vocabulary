@@ -399,7 +399,7 @@ const LOOKUP = {
       }
     ]
   },
-  "cheeks": {
+  "cheek": {
     "pos": "n.",
     "en_def": "either side of the face below the eye and above the jaw",
     "cn_def": "臉頰；面頰",
@@ -411,7 +411,7 @@ const LOOKUP = {
       }
     ]
   },
-  "cheek": {
+  "cheeks": {
     "pos": "n.",
     "en_def": "either side of the face below the eye and above the jaw",
     "cn_def": "臉頰；面頰",

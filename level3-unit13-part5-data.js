@@ -485,7 +485,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tide sb. over": {
+  "tide me over": {
     "pos": "v.phr.",
     "en_def": "to help someone through a difficult period, especially with food or money",
     "cn_def": "幫助某人度過難關（特別是金錢或食物）",
@@ -497,7 +497,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tide me over": {
+  "tide sb. over": {
     "pos": "v.phr.",
     "en_def": "to help someone through a difficult period, especially with food or money",
     "cn_def": "幫助某人度過難關（特別是金錢或食物）",

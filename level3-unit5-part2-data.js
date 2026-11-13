@@ -448,7 +448,7 @@ const LOOKUP = {
       }
     ]
   },
-  "clowning around": {
+  "clown around": {
     "pos": "v.phr.",
     "en_def": "to behave in a silly or playful way instead of being serious",
     "cn_def": "胡鬧；嬉鬧；扮小丑作怪",
@@ -460,7 +460,7 @@ const LOOKUP = {
       }
     ]
   },
-  "clown around": {
+  "clowning around": {
     "pos": "v.phr.",
     "en_def": "to behave in a silly or playful way instead of being serious",
     "cn_def": "胡鬧；嬉鬧；扮小丑作怪",
@@ -508,7 +508,7 @@ const LOOKUP = {
       }
     ]
   },
-  "concluded": {
+  "conclude": {
     "pos": "v.",
     "en_def": "to bring or come to an end; to arrive at an opinion by reasoning",
     "cn_def": "結束；斷定；締結（動詞）",
@@ -520,7 +520,7 @@ const LOOKUP = {
       }
     ]
   },
-  "conclude": {
+  "concluded": {
     "pos": "v.",
     "en_def": "to bring or come to an end; to arrive at an opinion by reasoning",
     "cn_def": "結束；斷定；締結（動詞）",
@@ -549,7 +549,7 @@ const LOOKUP = {
       }
     ]
   },
-  "drowned": {
+  "drown": {
     "pos": "v.",
     "en_def": "to die through submersion in and inhalation of water; to overwhelm with sound",
     "cn_def": "淹死；溺斃；（聲音）淹沒",
@@ -561,7 +561,7 @@ const LOOKUP = {
       }
     ]
   },
-  "drown": {
+  "drowned": {
     "pos": "v.",
     "en_def": "to die through submersion in and inhalation of water; to overwhelm with sound",
     "cn_def": "淹死；溺斃；（聲音）淹沒",

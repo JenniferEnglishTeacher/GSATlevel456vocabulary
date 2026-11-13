@@ -435,6 +435,18 @@ const LOOKUP = {
       }
     ]
   },
+  "grinned": {
+    "pos": "v.",
+    "en_def": "to smile broadly, showing one's teeth",
+    "cn_def": "露齒而笑；咧嘴笑（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to smile broadly, showing one's teeth",
+        "cn_def": "露齒而笑；咧嘴笑（動詞）"
+      }
+    ]
+  },
   "grin": {
     "pos": "v.",
     "en_def": "to smile broadly, showing one's teeth",
@@ -449,18 +461,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a broad smile showing the teeth",
         "cn_def": "露齒微笑；咧嘴的笑容（可數）"
-      }
-    ]
-  },
-  "grinned": {
-    "pos": "v.",
-    "en_def": "to smile broadly, showing one's teeth",
-    "cn_def": "露齒而笑；咧嘴笑（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to smile broadly, showing one's teeth",
-        "cn_def": "露齒而笑；咧嘴笑（動詞）"
       }
     ]
   },

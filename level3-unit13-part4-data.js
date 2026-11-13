@@ -448,7 +448,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sausages": {
+  "sausage": {
     "pos": "n.",
     "en_def": "minced meat seasoned and stuffed into a cylindrical casing",
     "cn_def": "香腸；臘腸（可數/不可數）",
@@ -460,7 +460,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sausage": {
+  "sausages": {
     "pos": "n.",
     "en_def": "minced meat seasoned and stuffed into a cylindrical casing",
     "cn_def": "香腸；臘腸（可數/不可數）",
@@ -484,18 +484,6 @@ const LOOKUP = {
       }
     ]
   },
-  "slaves": {
-    "pos": "n.",
-    "en_def": "a person who is the legal property of another and is forced to obey them",
-    "cn_def": "奴隸；苦工（可數）",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a person who is the legal property of another and is forced to obey them",
-        "cn_def": "奴隸；苦工（可數）"
-      }
-    ]
-  },
   "slave": {
     "pos": "n.",
     "en_def": "a person who is the legal property of another and is forced to obey them",
@@ -510,6 +498,18 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to work excessively hard like a slave",
         "cn_def": "做苦工；辛勤苦幹（動詞）"
+      }
+    ]
+  },
+  "slaves": {
+    "pos": "n.",
+    "en_def": "a person who is the legal property of another and is forced to obey them",
+    "cn_def": "奴隸；苦工（可數）",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a person who is the legal property of another and is forced to obey them",
+        "cn_def": "奴隸；苦工（可數）"
       }
     ]
   },

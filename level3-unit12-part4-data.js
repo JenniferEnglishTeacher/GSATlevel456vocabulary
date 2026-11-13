@@ -476,7 +476,7 @@ const LOOKUP = {
       }
     ]
   },
-  "resource": {
+  "resources": {
     "pos": "n.",
     "en_def": "a stock or supply of money, materials, staff, and other assets drawn on by people",
     "cn_def": "資源；財力；物力（可數，常用複數）",
@@ -488,7 +488,7 @@ const LOOKUP = {
       }
     ]
   },
-  "resources": {
+  "resource": {
     "pos": "n.",
     "en_def": "a stock or supply of money, materials, staff, and other assets drawn on by people",
     "cn_def": "資源；財力；物力（可數，常用複數）",

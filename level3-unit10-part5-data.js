@@ -396,7 +396,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tourist": {
+  "tourists": {
     "pos": "n.",
     "en_def": "a person who is traveling or visiting a place for pleasure",
     "cn_def": "觀光客；遊客（可數）",
@@ -408,7 +408,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tourists": {
+  "tourist": {
     "pos": "n.",
     "en_def": "a person who is traveling or visiting a place for pleasure",
     "cn_def": "觀光客；遊客（可數）",

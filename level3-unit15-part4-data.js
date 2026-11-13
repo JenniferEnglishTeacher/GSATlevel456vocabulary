@@ -535,7 +535,7 @@ const LOOKUP = {
       }
     ]
   },
-  "trend": {
+  "trends": {
     "pos": "n.",
     "en_def": "a general direction in which something is developing or changing; a prevailing fashion",
     "cn_def": "趨勢；潮流；動向（可數）",
@@ -547,7 +547,7 @@ const LOOKUP = {
       }
     ]
   },
-  "trends": {
+  "trend": {
     "pos": "n.",
     "en_def": "a general direction in which something is developing or changing; a prevailing fashion",
     "cn_def": "趨勢；潮流；動向（可數）",

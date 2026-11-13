@@ -481,7 +481,7 @@ const LOOKUP = {
       }
     ]
   },
-  "rain on one's parade": {
+  "rain on your parade": {
     "pos": "v.phr.",
     "en_def": "to spoil someone's pleasure, plans, or excitement",
     "cn_def": "潑冷水；掃某人的興；煞風景（成語）",
@@ -493,7 +493,7 @@ const LOOKUP = {
       }
     ]
   },
-  "rain on your parade": {
+  "rain on one's parade": {
     "pos": "v.phr.",
     "en_def": "to spoil someone's pleasure, plans, or excitement",
     "cn_def": "潑冷水；掃某人的興；煞風景（成語）",

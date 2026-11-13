@@ -529,7 +529,7 @@ const LOOKUP = {
       }
     ]
   },
-  "restrict": {
+  "restricts": {
     "pos": "v.",
     "en_def": "to put a limit on; to keep under control or within bounds",
     "cn_def": "限制；約束（動詞）",
@@ -541,7 +541,7 @@ const LOOKUP = {
       }
     ]
   },
-  "restricts": {
+  "restrict": {
     "pos": "v.",
     "en_def": "to put a limit on; to keep under control or within bounds",
     "cn_def": "限制；約束（動詞）",

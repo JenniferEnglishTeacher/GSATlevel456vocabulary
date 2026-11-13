@@ -486,7 +486,7 @@ const LOOKUP = {
       }
     ]
   },
-  "log on": {
+  "log on / in": {
     "pos": "v.phr.",
     "en_def": "to connect to a computer system or network by entering a username and password",
     "cn_def": "登入；連線到系統（動詞片語）",
@@ -498,7 +498,7 @@ const LOOKUP = {
       }
     ]
   },
-  "log on / in": {
+  "log on": {
     "pos": "v.phr.",
     "en_def": "to connect to a computer system or network by entering a username and password",
     "cn_def": "登入；連線到系統（動詞片語）",

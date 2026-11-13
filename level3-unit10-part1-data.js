@@ -552,18 +552,6 @@ const LOOKUP = {
       }
     ]
   },
-  "bumped": {
-    "pos": "v.",
-    "en_def": "to collide with something; to hit against an obstacle",
-    "cn_def": "碰；撞；顛簸行進（動詞）",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to collide with something; to hit against an obstacle",
-        "cn_def": "碰；撞；顛簸行進（動詞）"
-      }
-    ]
-  },
   "bump": {
     "pos": "v.",
     "en_def": "to collide with something; to hit against an obstacle",
@@ -578,6 +566,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "a light blow or collision; a raised swelling on the skin caused by a blow",
         "cn_def": "碰撞；腫塊；隆起處（可數）"
+      }
+    ]
+  },
+  "bumped": {
+    "pos": "v.",
+    "en_def": "to collide with something; to hit against an obstacle",
+    "cn_def": "碰；撞；顛簸行進（動詞）",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to collide with something; to hit against an obstacle",
+        "cn_def": "碰；撞；顛簸行進（動詞）"
       }
     ]
   },

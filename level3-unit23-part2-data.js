@@ -436,7 +436,7 @@ const LOOKUP = {
       }
     ]
   },
-  "expectation": {
+  "expectations": {
     "pos": "n.",
     "en_def": "a strong belief that something will happen or be achieved in the future",
     "cn_def": "期望；期待；預期",
@@ -448,7 +448,7 @@ const LOOKUP = {
       }
     ]
   },
-  "expectations": {
+  "expectation": {
     "pos": "n.",
     "en_def": "a strong belief that something will happen or be achieved in the future",
     "cn_def": "期望；期待；預期",
@@ -508,7 +508,7 @@ const LOOKUP = {
       }
     ]
   },
-  "fare": {
+  "fares": {
     "pos": "n./v.",
     "en_def": "the money paid for travel on public transport; to perform or progress",
     "cn_def": "車資；票價 (n.)；進展；應付 (v.)",
@@ -520,7 +520,7 @@ const LOOKUP = {
       }
     ]
   },
-  "fares": {
+  "fare": {
     "pos": "n./v.",
     "en_def": "the money paid for travel on public transport; to perform or progress",
     "cn_def": "車資；票價 (n.)；進展；應付 (v.)",
