@@ -748,153 +748,153 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: Who is Mr. Brown? — A: He is our English teacher. He is an __________ from New York.【美國人】",
+    "question": "Mr. Smith is an __________. He was born in New York, but he lives in Taipei now.",
     "options": [
      {
       "letter": "A",
-      "text": "Report"
-     },
-     {
-      "letter": "B",
       "text": "American"
      },
      {
-      "letter": "C",
-      "text": "Tip"
-     },
-     {
-      "letter": "D",
-      "text": "Program"
-     }
-    ],
-    "answer": "B",
-    "vi": 0
-   },
-   {
-    "question": "Q: Who are those people at the night market? — A: They are __________. They come from Japan and Korea.【外國人】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "tricks"
-     },
-     {
       "letter": "B",
-      "text": "jokes"
+      "text": "age"
      },
      {
       "letter": "C",
-      "text": "foreigners"
+      "text": "idea"
      },
      {
       "letter": "D",
-      "text": "interests"
-     }
-    ],
-    "answer": "C",
-    "vi": 1
-   },
-   {
-    "question": "Q: Who is that tall boy? — A: He is Tom, our team __________. Everyone listens to him.【領導者；隊長】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "leader"
-     },
-     {
-      "letter": "B",
-      "text": "pleasure"
-     },
-     {
-      "letter": "C",
-      "text": "sale"
-     },
-     {
-      "letter": "D",
-      "text": "god"
+      "text": "error"
      }
     ],
     "answer": "A",
-    "vi": 2
+    "vi": 0
    },
    {
-    "question": "Q: Does Amy join the music club? — A: Yes, she does. She is a __________ of the club.【成員；會員】",
+    "question": "Many __________ visit Taiwan every year. They come from Japan, Korea, America, and other countries.",
     "options": [
      {
       "letter": "A",
-      "text": "chance"
+      "text": "members"
      },
      {
       "letter": "B",
-      "text": "kind"
+      "text": "foreigners"
      },
      {
       "letter": "C",
-      "text": "service"
+      "text": "leaders"
      },
      {
       "letter": "D",
-      "text": "member"
+      "text": "players"
+     }
+    ],
+    "answer": "B",
+    "vi": 1
+   },
+   {
+    "question": "Amy is the __________ of our group. She tells us what to do and helps us work together.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "foreigner"
+     },
+     {
+      "letter": "B",
+      "text": "prize"
+     },
+     {
+      "letter": "C",
+      "text": "leader"
+     },
+     {
+      "letter": "D",
+      "text": "habit"
+     }
+    ],
+    "answer": "C",
+    "vi": 2
+   },
+   {
+    "question": "Our basketball club has twenty __________. We all meet and practice every Friday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "prizes"
+     },
+     {
+      "letter": "B",
+      "text": "habits"
+     },
+     {
+      "letter": "C",
+      "text": "rules"
+     },
+     {
+      "letter": "D",
+      "text": "members"
      }
     ],
     "answer": "D",
     "vi": 3
    },
    {
-    "question": "Q: Who are those boys in the park? — A: They are basketball __________. They play every Sunday.【球員；選手】",
+    "question": "There are five __________ on a basketball team. They all run fast and jump high.",
     "options": [
      {
       "letter": "A",
-      "text": "mistakes"
-     },
-     {
-      "letter": "B",
       "text": "players"
      },
      {
+      "letter": "B",
+      "text": "foreigners"
+     },
+     {
       "letter": "C",
-      "text": "cheers"
+      "text": "prizes"
      },
      {
       "letter": "D",
-      "text": "tricks"
+      "text": "topics"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 4
    },
    {
-    "question": "Q: What does your brother do after school? — A: He plays the drums in a __________.【樂團】",
+    "question": "My brother plays the drums in a rock __________. They have a show this Saturday night.",
     "options": [
      {
       "letter": "A",
-      "text": "tip"
+      "text": "prize"
      },
      {
       "letter": "B",
-      "text": "club"
+      "text": "band"
      },
      {
       "letter": "C",
-      "text": "group"
+      "text": "habit"
      },
      {
       "letter": "D",
-      "text": "band"
+      "text": "reason"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 5
    },
    {
-    "question": "Q: What club do you join? — A: I join the English __________.【社團】",
+    "question": "I joined the school chess __________. We meet and play every Wednesday after class.",
     "options": [
      {
       "letter": "A",
-      "text": "party"
+      "text": "prize"
      },
      {
       "letter": "B",
-      "text": "experience"
+      "text": "reason"
      },
      {
       "letter": "C",
@@ -902,95 +902,95 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "member"
+      "text": "age"
      }
     ],
     "answer": "C",
     "vi": 6
    },
    {
-    "question": "Q: Who do you study with? — A: I study with my friends. We have a study __________.【團體；小組】",
+    "question": "The teacher put us into __________ of four. Each one has to make a poster together.",
     "options": [
      {
       "letter": "A",
-      "text": "group"
+      "text": "prizes"
      },
      {
       "letter": "B",
-      "text": "matter"
+      "text": "habits"
      },
      {
       "letter": "C",
-      "text": "American"
+      "text": "voices"
      },
      {
       "letter": "D",
-      "text": "god"
+      "text": "group"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 7
    },
    {
-    "question": "Q: Who do people pray to in the church? — A: They pray to __________.【上帝；神】",
+    "question": "Many people go to church on Sunday to pray to __________. They believe He made the world.",
     "options": [
      {
       "letter": "A",
-      "text": "Order"
+      "text": "Eve"
      },
      {
       "letter": "B",
-      "text": "Band"
-     },
-     {
-      "letter": "C",
       "text": "God"
      },
      {
-      "letter": "D",
-      "text": "Reason"
-     }
-    ],
-    "answer": "C",
-    "vi": 8
-   },
-   {
-    "question": "Q: Does Lisa have a chance to go to Japan? — A: Yes, she does. She has a __________ to visit her aunt there.【機會】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sentence"
-     },
-     {
-      "letter": "B",
-      "text": "chance"
-     },
-     {
       "letter": "C",
-      "text": "club"
+      "text": "Age"
      },
      {
       "letter": "D",
-      "text": "mind"
+      "text": "Fun"
      }
     ],
     "answer": "B",
-    "vi": 9
+    "vi": 8
    },
    {
-    "question": "Q: What do we have for lunch? — A: We have two __________: noodles or rice.【選擇】",
+    "question": "This is your last __________ to pass the test. If you fail again, you can't try another time.",
     "options": [
      {
       "letter": "A",
-      "text": "players"
+      "text": "habit"
      },
      {
       "letter": "B",
-      "text": "interests"
+      "text": "voice"
      },
      {
       "letter": "C",
-      "text": "cheers"
+      "text": "chance"
+     },
+     {
+      "letter": "D",
+      "text": "age"
+     }
+    ],
+    "answer": "C",
+    "vi": 9
+   },
+   {
+    "question": "You have two __________: you can stay home or come with us. Which one do you want?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "voices"
+     },
+     {
+      "letter": "B",
+      "text": "prizes"
+     },
+     {
+      "letter": "C",
+      "text": "ages"
      },
      {
       "letter": "D",
@@ -1001,7 +1001,7 @@ window.FLASHCARD_UNITS = {
     "vi": 10
    },
    {
-    "question": "Q: How can we make Mom happy on Mother's Day? — A: I have a good __________. Let's make a cake for her.【主意；想法】",
+    "question": "I have a good __________! Let's have a picnic by the river this Sunday.",
     "options": [
      {
       "letter": "A",
@@ -1009,34 +1009,34 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "subject"
+      "text": "habit"
      },
      {
       "letter": "C",
-      "text": "tip"
+      "text": "voice"
      },
      {
       "letter": "D",
-      "text": "pleasure"
+      "text": "age"
      }
     ],
     "answer": "A",
     "vi": 11
    },
    {
-    "question": "Q: Does your dad get up early every day? — A: Yes, he does. It's his good __________.【習慣】",
+    "question": "Ben has a bad __________. He bites his nails when he is nervous.",
     "options": [
      {
       "letter": "A",
-      "text": "trouble"
+      "text": "prize"
      },
      {
       "letter": "B",
-      "text": "interview"
+      "text": "chance"
      },
      {
       "letter": "C",
-      "text": "sale"
+      "text": "voice"
      },
      {
       "letter": "D",
@@ -1047,30 +1047,7 @@ window.FLASHCARD_UNITS = {
     "vi": 12
    },
    {
-    "question": "Q: Does your mom cook well? — A: Yes, she does. She has a lot of __________ in cooking.【經驗】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sight"
-     },
-     {
-      "letter": "B",
-      "text": "error"
-     },
-     {
-      "letter": "C",
-      "text": "experience"
-     },
-     {
-      "letter": "D",
-      "text": "eve"
-     }
-    ],
-    "answer": "C",
-    "vi": 13
-   },
-   {
-    "question": "Q: Do you need help with your homework? — A: Yes, I do. I have __________ with the math questions.【麻煩；困難】",
+    "question": "Mr. Lin has ten years of __________ as a teacher, so he knows how to help students learn.",
     "options": [
      {
       "letter": "A",
@@ -1078,57 +1055,80 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "program"
+      "text": "fun"
      },
      {
       "letter": "C",
-      "text": "sale"
+      "text": "experience"
      },
      {
       "letter": "D",
-      "text": "American"
+      "text": "sight"
      }
     ],
-    "answer": "A",
-    "vi": 14
+    "answer": "C",
+    "vi": 13
    },
    {
-    "question": "Q: Does Ben get 100 on the test? — A: No, he doesn't. He makes two __________.【錯誤】",
+    "question": "Ben is in __________ again. He broke the classroom window with a ball.",
     "options": [
      {
       "letter": "A",
-      "text": "cheers"
+      "text": "fun"
      },
      {
       "letter": "B",
-      "text": "mistakes"
+      "text": "trouble"
      },
      {
       "letter": "C",
-      "text": "players"
+      "text": "age"
      },
      {
       "letter": "D",
-      "text": "foreigners"
+      "text": "sight"
      }
     ],
     "answer": "B",
-    "vi": 15
+    "vi": 14
    },
    {
-    "question": "Q: Is your answer right? — A: No, it isn't. There is an __________ in it.【錯誤】",
+    "question": "I made three __________ on the spelling test. I wrote the wrong letters in those words.",
     "options": [
      {
       "letter": "A",
-      "text": "level"
+      "text": "mistakes"
      },
      {
       "letter": "B",
-      "text": "American"
+      "text": "prizes"
      },
      {
       "letter": "C",
-      "text": "tip"
+      "text": "parties"
+     },
+     {
+      "letter": "D",
+      "text": "voices"
+     }
+    ],
+    "answer": "A",
+    "vi": 15
+   },
+   {
+    "question": "The computer says there is an __________. Something is wrong, and I can't open the file.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "age"
+     },
+     {
+      "letter": "B",
+      "text": "idea"
+     },
+     {
+      "letter": "C",
+      "text": "excuse"
      },
      {
       "letter": "D",
@@ -1139,80 +1139,11 @@ window.FLASHCARD_UNITS = {
     "vi": 16
    },
    {
-    "question": "Q: Why does Tom come late again? — A: He says he gets up late. That's not a good __________.【藉口】",
+    "question": "\"The bus was late\" is his __________ every time. He never says the real reason.",
     "options": [
      {
       "letter": "A",
-      "text": "habit"
-     },
-     {
-      "letter": "B",
-      "text": "American"
-     },
-     {
-      "letter": "C",
-      "text": "excuse"
-     },
-     {
-      "letter": "D",
-      "text": "fun"
-     }
-    ],
-    "answer": "C",
-    "vi": 17
-   },
-   {
-    "question": "Q: Why do you study English every day? — A: I want to talk to people from other countries. That's my __________.【理由；原因】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "member"
-     },
-     {
-      "letter": "B",
-      "text": "reason"
-     },
-     {
-      "letter": "C",
-      "text": "trouble"
-     },
-     {
-      "letter": "D",
-      "text": "habit"
-     }
-    ],
-    "answer": "B",
-    "vi": 18
-   },
-   {
-    "question": "Q: Does your grandpa read the newspaper without glasses? — A: No, he doesn't. He has poor __________.【視力】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sight"
-     },
-     {
-      "letter": "B",
-      "text": "club"
-     },
-     {
-      "letter": "C",
-      "text": "band"
-     },
-     {
-      "letter": "D",
-      "text": "fun"
-     }
-    ],
-    "answer": "A",
-    "vi": 19
-   },
-   {
-    "question": "Q: Does Amy sing well? — A: Yes, she does. She has a beautiful __________.【聲音；嗓音】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "way"
+      "text": "prize"
      },
      {
       "letter": "B",
@@ -1220,110 +1151,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "birthday"
-     },
-     {
-      "letter": "D",
-      "text": "matter"
-     }
-    ],
-    "answer": "B",
-    "vi": 20
-   },
-   {
-    "question": "Q: What does Ms. Lin have this afternoon? — A: She has a __________ with other teachers.【會議】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "party"
-     },
-     {
-      "letter": "B",
-      "text": "reason"
-     },
-     {
-      "letter": "C",
-      "text": "meeting"
-     },
-     {
-      "letter": "D",
-      "text": "action"
-     }
-    ],
-    "answer": "C",
-    "vi": 21
-   },
-   {
-    "question": "Q: What do you have on Saturday? — A: We have a birthday __________ for Amy.【派對】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "party"
-     },
-     {
-      "letter": "B",
-      "text": "leader"
-     },
-     {
-      "letter": "C",
       "text": "excuse"
      },
      {
       "letter": "D",
-      "text": "mind"
+      "text": "age"
      }
     ],
-    "answer": "A",
-    "vi": 22
+    "answer": "C",
+    "vi": 17
    },
    {
-    "question": "Q: Where does your sister go today? — A: She goes to a big company. She has a job __________.【面試；採訪】",
+    "question": "What is the __________ for your being late? Did you miss the bus?",
     "options": [
      {
       "letter": "A",
-      "text": "leader"
+      "text": "prize"
      },
      {
       "letter": "B",
-      "text": "club"
-     },
-     {
-      "letter": "C",
-      "text": "mind"
-     },
-     {
-      "letter": "D",
-      "text": "interview"
-     }
-    ],
-    "answer": "D",
-    "vi": 23
-   },
-   {
-    "question": "Q: What do you need to write for English class? — A: I need to write a book __________.【報告；報導】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "report"
-     },
-     {
-      "letter": "B",
-      "text": "matter"
-     },
-     {
-      "letter": "C",
-      "text": "club"
-     },
-     {
-      "letter": "D",
       "text": "reason"
+     },
+     {
+      "letter": "C",
+      "text": "voice"
+     },
+     {
+      "letter": "D",
+      "text": "age"
      }
     ],
-    "answer": "A",
-    "vi": 24
+    "answer": "B",
+    "vi": 18
    },
    {
-    "question": "Q: Why do so many people go to the store today? — A: There is a big __________. Everything is cheap.【特價；出售】",
+    "question": "Grandpa's __________ is not good now. He can't read the newspaper without his glasses.",
     "options": [
      {
       "letter": "A",
@@ -1331,26 +1193,164 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "fact"
+      "text": "voice"
      },
      {
       "letter": "C",
-      "text": "sale"
+      "text": "age"
      },
      {
       "letter": "D",
-      "text": "mind"
+      "text": "dream"
      }
     ],
-    "answer": "C",
-    "vi": 25
+    "answer": "A",
+    "vi": 19
    },
    {
-    "question": "Q: What does Tom get in the race? — A: He gets first __________. It's a new bike.【獎品；獎】",
+    "question": "The singer has a beautiful __________. Everyone loves to hear her sing.",
     "options": [
      {
       "letter": "A",
-      "text": "chance"
+      "text": "sight"
+     },
+     {
+      "letter": "B",
+      "text": "age"
+     },
+     {
+      "letter": "C",
+      "text": "voice"
+     },
+     {
+      "letter": "D",
+      "text": "tip"
+     }
+    ],
+    "answer": "C",
+    "vi": 20
+   },
+   {
+    "question": "The teachers have a __________ at four today. They will sit together and talk about the school trip.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "prize"
+     },
+     {
+      "letter": "B",
+      "text": "tip"
+     },
+     {
+      "letter": "C",
+      "text": "smile"
+     },
+     {
+      "letter": "D",
+      "text": "meeting"
+     }
+    ],
+    "answer": "D",
+    "vi": 21
+   },
+   {
+    "question": "We are having a birthday __________ for Amy on Saturday. There will be cake, games, and music.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "party"
+     },
+     {
+      "letter": "B",
+      "text": "tip"
+     },
+     {
+      "letter": "C",
+      "text": "sight"
+     },
+     {
+      "letter": "D",
+      "text": "reason"
+     }
+    ],
+    "answer": "A",
+    "vi": 22
+   },
+   {
+    "question": "I have a job __________ at the bank tomorrow. The boss will ask me a lot of questions.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "prize"
+     },
+     {
+      "letter": "B",
+      "text": "interview"
+     },
+     {
+      "letter": "C",
+      "text": "smile"
+     },
+     {
+      "letter": "D",
+      "text": "joke"
+     }
+    ],
+    "answer": "B",
+    "vi": 23
+   },
+   {
+    "question": "We have to write a __________ about animals for science class. Mine is about pandas, and it is three pages long.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "tip"
+     },
+     {
+      "letter": "B",
+      "text": "smile"
+     },
+     {
+      "letter": "C",
+      "text": "report"
+     },
+     {
+      "letter": "D",
+      "text": "prize"
+     }
+    ],
+    "answer": "C",
+    "vi": 24
+   },
+   {
+    "question": "The department store is having a big __________ this week. Everything is thirty percent off.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sale"
+     },
+     {
+      "letter": "B",
+      "text": "tip"
+     },
+     {
+      "letter": "C",
+      "text": "joke"
+     },
+     {
+      "letter": "D",
+      "text": "dream"
+     }
+    ],
+    "answer": "A",
+    "vi": 25
+   },
+   {
+    "question": "Lisa won first __________ in the singing contest. She got a new bike.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "tip"
      },
      {
       "letter": "B",
@@ -1362,26 +1362,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "interview"
+      "text": "habit"
      }
     ],
     "answer": "B",
     "vi": 26
    },
    {
-    "question": "Q: Do we need to pay for dinner tonight? — A: No, we don't. It's Dad's __________.【請客】",
+    "question": "Put your wallet away. Dinner is my __________ tonight, so you don't have to pay.",
     "options": [
      {
       "letter": "A",
-      "text": "prize"
+      "text": "tip"
      },
      {
       "letter": "B",
-      "text": "voice"
+      "text": "rule"
      },
      {
       "letter": "C",
-      "text": "error"
+      "text": "age"
      },
      {
       "letter": "D",
@@ -1392,7 +1392,30 @@ window.FLASHCARD_UNITS = {
     "vi": 27
    },
    {
-    "question": "Q: What does Dad give the waiter? — A: He gives him a __________.【小費】",
+    "question": "The waiter was very nice, so my dad left him a one-hundred-dollar __________ on the table.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rule"
+     },
+     {
+      "letter": "B",
+      "text": "prize"
+     },
+     {
+      "letter": "C",
+      "text": "tip"
+     },
+     {
+      "letter": "D",
+      "text": "joke"
+     }
+    ],
+    "answer": "C",
+    "vi": 28
+   },
+   {
+    "question": "The waiter wrote down our __________: two steaks and one salad.",
     "options": [
      {
       "letter": "A",
@@ -1404,76 +1427,53 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "prize"
+      "text": "age"
      },
      {
       "letter": "D",
       "text": "rule"
      }
     ],
-    "answer": "B",
-    "vi": 28
-   },
-   {
-    "question": "Q: What does the waiter say? — A: He says, \"May I take your __________?\"【點餐；訂單】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "birthday"
-     },
-     {
-      "letter": "B",
-      "text": "prize"
-     },
-     {
-      "letter": "C",
-      "text": "order"
-     },
-     {
-      "letter": "D",
-      "text": "American"
-     }
-    ],
-    "answer": "C",
+    "answer": "A",
     "vi": 29
    },
    {
-    "question": "Q: Do you like this restaurant? — A: Yes, I do. The food is good, and the __________ is great, too.【服務】",
+    "question": "The food is good at this restaurant, but the __________ is slow. The waiters take too long.",
     "options": [
      {
       "letter": "A",
+      "text": "age"
+     },
+     {
+      "letter": "B",
       "text": "service"
      },
      {
-      "letter": "B",
-      "text": "chance"
-     },
-     {
       "letter": "C",
-      "text": "birthday"
+      "text": "sight"
      },
      {
       "letter": "D",
-      "text": "sentence"
+      "text": "dream"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 30
    },
    {
-    "question": "Q: What do you do on Chinese New Year's __________? — A: We eat a big dinner with our family.【前夕】",
+    "question": "On Chinese New Year's __________, the whole family eats a big dinner together and stays up late.",
     "options": [
      {
       "letter": "A",
-      "text": "Treat"
+      "text": "Age"
      },
      {
       "letter": "B",
-      "text": "Chance"
+      "text": "Fun"
      },
      {
       "letter": "C",
-      "text": "Group"
+      "text": "Tip"
      },
      {
       "letter": "D",
@@ -1484,214 +1484,30 @@ window.FLASHCARD_UNITS = {
     "vi": 31
    },
    {
-    "question": "Q: What's your grandma's __________? — A: She is seventy years old.【年齡】",
+    "question": "Children can start school at the __________ of six. My brother is five, so he has to wait a year.",
     "options": [
      {
       "letter": "A",
-      "text": "party"
-     },
-     {
-      "letter": "B",
-      "text": "sight"
-     },
-     {
-      "letter": "C",
       "text": "age"
      },
      {
-      "letter": "D",
-      "text": "band"
-     }
-    ],
-    "answer": "C",
-    "vi": 32
-   },
-   {
-    "question": "Q: When is your __________? — A: It's on May 5th.【生日】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "subject"
-     },
-     {
       "letter": "B",
-      "text": "idea"
+      "text": "tip"
      },
      {
       "letter": "C",
-      "text": "American"
-     },
-     {
-      "letter": "D",
-      "text": "birthday"
-     }
-    ],
-    "answer": "D",
-    "vi": 33
-   },
-   {
-    "question": "Q: What's your sister's __________? — A: She wants to be a singer.【夢想】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dream"
-     },
-     {
-      "letter": "B",
-      "text": "trouble"
-     },
-     {
-      "letter": "C",
-      "text": "age"
-     },
-     {
-      "letter": "D",
-      "text": "group"
-     }
-    ],
-    "answer": "A",
-    "vi": 34
-   },
-   {
-    "question": "Q: What __________ does Ben have? — A: He likes reading and playing chess.【興趣】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "jokes"
-     },
-     {
-      "letter": "B",
-      "text": "interests"
-     },
-     {
-      "letter": "C",
-      "text": "stories"
-     },
-     {
-      "letter": "D",
-      "text": "choices"
-     }
-    ],
-    "answer": "B",
-    "vi": 35
-   },
-   {
-    "question": "Q: What's your favorite __________? — A: It's math.【科目】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "trouble"
-     },
-     {
-      "letter": "B",
-      "text": "American"
-     },
-     {
-      "letter": "C",
-      "text": "idea"
-     },
-     {
-      "letter": "D",
-      "text": "subject"
-     }
-    ],
-    "answer": "D",
-    "vi": 36
-   },
-   {
-    "question": "Q: What's the __________ of today's class? — A: It's animals.【主題；話題】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "smile"
-     },
-     {
-      "letter": "B",
-      "text": "report"
-     },
-     {
-      "letter": "C",
-      "text": "topic"
-     },
-     {
-      "letter": "D",
-      "text": "order"
-     }
-    ],
-    "answer": "C",
-    "vi": 37
-   },
-   {
-    "question": "Q: What does this __________ mean? — A: It means \"happy.\"【字；單字】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "word"
-     },
-     {
-      "letter": "B",
-      "text": "pleasure"
-     },
-     {
-      "letter": "C",
-      "text": "matter"
-     },
-     {
-      "letter": "D",
-      "text": "reason"
-     }
-    ],
-    "answer": "A",
-    "vi": 38
-   },
-   {
-    "question": "Q: What's the first __________ on page 10? — A: It's \"Tom has a cat.\"【句子】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "sale"
-     },
-     {
-      "letter": "B",
-      "text": "sentence"
-     },
-     {
-      "letter": "C",
-      "text": "experience"
-     },
-     {
-      "letter": "D",
-      "text": "club"
-     }
-    ],
-    "answer": "B",
-    "vi": 39
-   },
-   {
-    "question": "Q: What's the __________ to the station? — A: Go straight and turn left.【道路；方法】",
-    "options": [
-     {
-      "letter": "A",
       "text": "rule"
      },
      {
-      "letter": "B",
-      "text": "fun"
-     },
-     {
-      "letter": "C",
-      "text": "way"
-     },
-     {
       "letter": "D",
-      "text": "group"
+      "text": "joke"
      }
     ],
-    "answer": "C",
-    "vi": 40
+    "answer": "A",
+    "vi": 32
    },
    {
-    "question": "Q: What's the __________? — A: I have a headache.【事情；問題】",
+    "question": "Today is my __________. I am thirteen years old now, and my friends are giving me a party.",
     "options": [
      {
       "letter": "A",
@@ -1699,99 +1515,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "level"
+      "text": "voice"
      },
      {
       "letter": "C",
+      "text": "birthday"
+     },
+     {
+      "letter": "D",
+      "text": "rule"
+     }
+    ],
+    "answer": "C",
+    "vi": 33
+   },
+   {
+    "question": "My __________ is to be a doctor. I hope it will come true one day.",
+    "options": [
+     {
+      "letter": "A",
       "text": "age"
      },
      {
-      "letter": "D",
-      "text": "matter"
-     }
-    ],
-    "answer": "D",
-    "vi": 41
-   },
-   {
-    "question": "Q: What __________ of music do you like? — A: I like pop music.【種類】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "party"
-     },
-     {
       "letter": "B",
-      "text": "kind"
+      "text": "tip"
      },
      {
       "letter": "C",
-      "text": "band"
+      "text": "sight"
      },
      {
       "letter": "D",
-      "text": "order"
+      "text": "dream"
+     }
+    ],
+    "answer": "D",
+    "vi": 34
+   },
+   {
+    "question": "My two main __________ are music and sports. I spend all my free time on them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ages"
+     },
+     {
+      "letter": "B",
+      "text": "interests"
+     },
+     {
+      "letter": "C",
+      "text": "tips"
+     },
+     {
+      "letter": "D",
+      "text": "voices"
      }
     ],
     "answer": "B",
-    "vi": 42
+    "vi": 35
    },
    {
-    "question": "Q: What's the __________ of this book? — A: It's easy. Children can read it.【程度；等級】",
+    "question": "Math is my favorite __________ at school. I also like science and English.",
     "options": [
      {
       "letter": "A",
-      "text": "level"
+      "text": "sentence"
      },
      {
       "letter": "B",
-      "text": "reason"
-     },
-     {
-      "letter": "C",
-      "text": "god"
-     },
-     {
-      "letter": "D",
-      "text": "service"
-     }
-    ],
-    "answer": "A",
-    "vi": 43
-   },
-   {
-    "question": "Q: You look worried. What's on your __________? — A: I'm worried about the math test.【頭腦；心思】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "matter"
-     },
-     {
-      "letter": "B",
-      "text": "program"
-     },
-     {
-      "letter": "C",
-      "text": "order"
-     },
-     {
-      "letter": "D",
-      "text": "mind"
-     }
-    ],
-    "answer": "D",
-    "vi": 44
-   },
-   {
-    "question": "Q: What's the first __________ in your class? — A: Don't be late for class.【規則】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fun"
-     },
-     {
-      "letter": "B",
-      "text": "rule"
+      "text": "joke"
      },
      {
       "letter": "C",
@@ -1799,95 +1592,302 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "group"
-     }
-    ],
-    "answer": "B",
-    "vi": 45
-   },
-   {
-    "question": "Q: Does your brother like __________ movies? — A: Yes, he does. He watches them every weekend.【動作；行動】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "reason"
-     },
-     {
-      "letter": "B",
-      "text": "error"
-     },
-     {
-      "letter": "C",
-      "text": "action"
-     },
-     {
-      "letter": "D",
-      "text": "topic"
+      "text": "tip"
      }
     ],
     "answer": "C",
-    "vi": 46
+    "vi": 36
    },
    {
-    "question": "Q: Do you and your friends have a good time at the beach? — A: Yes, we do. We have a lot of __________.【樂趣；好玩的事】",
+    "question": "The __________ of today's talk is \"How to Stay Healthy.\" The speaker will talk about food and exercise.",
     "options": [
      {
       "letter": "A",
-      "text": "fun"
+      "text": "tip"
      },
      {
       "letter": "B",
-      "text": "sale"
+      "text": "smile"
      },
      {
       "letter": "C",
-      "text": "topic"
+      "text": "age"
      },
      {
       "letter": "D",
-      "text": "chance"
+      "text": "topic"
+     }
+    ],
+    "answer": "D",
+    "vi": 37
+   },
+   {
+    "question": "What does this __________ mean? I can't find it in my dictionary.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "word"
+     },
+     {
+      "letter": "B",
+      "text": "smile"
+     },
+     {
+      "letter": "C",
+      "text": "tip"
+     },
+     {
+      "letter": "D",
+      "text": "age"
      }
     ],
     "answer": "A",
-    "vi": 47
+    "vi": 38
    },
    {
-    "question": "Q: Does Uncle Jack like to make people laugh? — A: Yes, he does. He tells funny __________.【笑話】",
+    "question": "Please make a __________ with the word \"happy,\" like \"I am happy today.\"",
     "options": [
      {
       "letter": "A",
-      "text": "foreigners"
+      "text": "smile"
      },
      {
       "letter": "B",
-      "text": "jokes"
+      "text": "sentence"
      },
      {
       "letter": "C",
-      "text": "mistakes"
+      "text": "tip"
      },
      {
       "letter": "D",
-      "text": "tricks"
+      "text": "level"
      }
     ],
     "answer": "B",
-    "vi": 48
+    "vi": 39
    },
    {
-    "question": "Q: Do the children like books? — A: Yes, they do. They love __________ about animals.【故事】",
+    "question": "Can you tell me the __________ to the station? I think I am lost.",
     "options": [
      {
       "letter": "A",
-      "text": "foreigners"
+      "text": "rule"
      },
      {
       "letter": "B",
-      "text": "jokes"
+      "text": "joke"
      },
      {
       "letter": "C",
-      "text": "interests"
+      "text": "fact"
+     },
+     {
+      "letter": "D",
+      "text": "way"
+     }
+    ],
+    "answer": "D",
+    "vi": 40
+   },
+   {
+    "question": "What's the __________ with you? You look sad today.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rule"
+     },
+     {
+      "letter": "B",
+      "text": "matter"
+     },
+     {
+      "letter": "C",
+      "text": "joke"
+     },
+     {
+      "letter": "D",
+      "text": "level"
+     }
+    ],
+    "answer": "B",
+    "vi": 41
+   },
+   {
+    "question": "What __________ of music do you like, pop or rock?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "kind"
+     },
+     {
+      "letter": "B",
+      "text": "level"
+     },
+     {
+      "letter": "C",
+      "text": "rule"
+     },
+     {
+      "letter": "D",
+      "text": "fact"
+     }
+    ],
+    "answer": "A",
+    "vi": 42
+   },
+   {
+    "question": "This book is too hard for me. I need one at an easier __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "joke"
+     },
+     {
+      "letter": "B",
+      "text": "smile"
+     },
+     {
+      "letter": "C",
+      "text": "level"
+     },
+     {
+      "letter": "D",
+      "text": "fact"
+     }
+    ],
+    "answer": "C",
+    "vi": 43
+   },
+   {
+    "question": "I can't make up my __________. Should I buy the red one or the blue one?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "mind"
+     },
+     {
+      "letter": "B",
+      "text": "rule"
+     },
+     {
+      "letter": "C",
+      "text": "joke"
+     },
+     {
+      "letter": "D",
+      "text": "fact"
+     }
+    ],
+    "answer": "A",
+    "vi": 44
+   },
+   {
+    "question": "We must follow the school __________. For example, we can't use cellphones in class.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "jokes"
+     },
+     {
+      "letter": "B",
+      "text": "smiles"
+     },
+     {
+      "letter": "C",
+      "text": "rules"
+     },
+     {
+      "letter": "D",
+      "text": "facts"
+     }
+    ],
+    "answer": "C",
+    "vi": 45
+   },
+   {
+    "question": "The firefighters took __________ right away. They put out the fire in ten minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "joy"
+     },
+     {
+      "letter": "B",
+      "text": "fun"
+     },
+     {
+      "letter": "C",
+      "text": "fact"
+     },
+     {
+      "letter": "D",
+      "text": "action"
+     }
+    ],
+    "answer": "D",
+    "vi": 46
+   },
+   {
+    "question": "The party was a lot of __________. We played games, sang songs, and laughed all night.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fact"
+     },
+     {
+      "letter": "B",
+      "text": "fun"
+     },
+     {
+      "letter": "C",
+      "text": "rule"
+     },
+     {
+      "letter": "D",
+      "text": "level"
+     }
+    ],
+    "answer": "B",
+    "vi": 47
+   },
+   {
+    "question": "Uncle Ben tells funny __________. We always laugh when he comes to dinner.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "jokes"
+     },
+     {
+      "letter": "B",
+      "text": "rules"
+     },
+     {
+      "letter": "C",
+      "text": "facts"
+     },
+     {
+      "letter": "D",
+      "text": "levels"
+     }
+    ],
+    "answer": "A",
+    "vi": 48
+   },
+   {
+    "question": "Grandma tells us __________ about her childhood before bed. My favorite one is about her dog.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rules"
+     },
+     {
+      "letter": "B",
+      "text": "levels"
+     },
+     {
+      "letter": "C",
+      "text": "cheers"
      },
      {
       "letter": "D",
@@ -1898,65 +1898,19 @@ window.FLASHCARD_UNITS = {
     "vi": 49
    },
    {
-    "question": "Q: What TV __________ does your dad like? — A: He likes sports shows.【節目】",
+    "question": "My favorite TV __________ is on at eight every Friday. It is a singing show.",
     "options": [
      {
       "letter": "A",
+      "text": "joke"
+     },
+     {
+      "letter": "B",
       "text": "program"
      },
      {
-      "letter": "B",
-      "text": "rule"
-     },
-     {
       "letter": "C",
-      "text": "leader"
-     },
-     {
-      "letter": "D",
-      "text": "matter"
-     }
-    ],
-    "answer": "A",
-    "vi": 50
-   },
-   {
-    "question": "Q: Do your classmates like April Fools' Day? — A: Yes, they do. They play __________ on their friends.【惡作劇；把戲】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "players"
-     },
-     {
-      "letter": "B",
-      "text": "mistakes"
-     },
-     {
-      "letter": "C",
-      "text": "tricks"
-     },
-     {
-      "letter": "D",
-      "text": "cheers"
-     }
-    ],
-    "answer": "C",
-    "vi": 51
-   },
-   {
-    "question": "Q: Do the students like their new teacher? — A: Yes, they do. She has a sweet __________.【微笑】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "interview"
-     },
-     {
-      "letter": "B",
       "text": "smile"
-     },
-     {
-      "letter": "C",
-      "text": "order"
      },
      {
       "letter": "D",
@@ -1964,64 +1918,18 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "B",
-    "vi": 52
+    "vi": 50
    },
    {
-    "question": "Q: How does Grandma feel when she sees the baby? — A: She is full of __________.【歡樂；喜悅】",
+    "question": "On April Fools' Day, students play __________ on their friends and teachers.",
     "options": [
      {
       "letter": "A",
-      "text": "joy"
+      "text": "rules"
      },
      {
       "letter": "B",
-      "text": "service"
-     },
-     {
-      "letter": "C",
-      "text": "experience"
-     },
-     {
-      "letter": "D",
-      "text": "error"
-     }
-    ],
-    "answer": "A",
-    "vi": 53
-   },
-   {
-    "question": "Q: Thank you for helping me. — A: It's my __________.【榮幸；愉快】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "voice"
-     },
-     {
-      "letter": "B",
-      "text": "joy"
-     },
-     {
-      "letter": "C",
-      "text": "pleasure"
-     },
-     {
-      "letter": "D",
-      "text": "chance"
-     }
-    ],
-    "answer": "C",
-    "vi": 54
-   },
-   {
-    "question": "Q: What do the fans do at the game? — A: They give loud __________ for the team.【歡呼；喝采】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "foreigners"
-     },
-     {
-      "letter": "B",
-      "text": "stories"
+      "text": "facts"
      },
      {
       "letter": "C",
@@ -2029,22 +1937,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "cheers"
+      "text": "smiles"
      }
     ],
-    "answer": "D",
-    "vi": 55
+    "answer": "C",
+    "vi": 51
    },
    {
-    "question": "Q: Does Tom know a lot about koalas? — A: Yes, he does. He knows a fun __________: koalas sleep 20 hours a day.【事實】",
+    "question": "The baby has a sweet __________ on her face. She looks so happy.",
     "options": [
      {
       "letter": "A",
-      "text": "leader"
+      "text": "joke"
      },
      {
       "letter": "B",
-      "text": "god"
+      "text": "rule"
      },
      {
       "letter": "C",
@@ -2052,13 +1960,105 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "mind"
+      "text": "smile"
+     }
+    ],
+    "answer": "D",
+    "vi": 52
+   },
+   {
+    "question": "The children shouted with __________ when they saw the snow. They were so happy.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rule"
+     },
+     {
+      "letter": "B",
+      "text": "joy"
+     },
+     {
+      "letter": "C",
+      "text": "fact"
+     },
+     {
+      "letter": "D",
+      "text": "level"
+     }
+    ],
+    "answer": "B",
+    "vi": 53
+   },
+   {
+    "question": "\"Thank you for your help.\" \"It was my __________. I was happy to do it.\"",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pleasure"
+     },
+     {
+      "letter": "B",
+      "text": "rule"
+     },
+     {
+      "letter": "C",
+      "text": "joke"
+     },
+     {
+      "letter": "D",
+      "text": "level"
+     }
+    ],
+    "answer": "A",
+    "vi": 54
+   },
+   {
+    "question": "The fans gave three loud __________ for the winning team.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rules"
+     },
+     {
+      "letter": "B",
+      "text": "facts"
+     },
+     {
+      "letter": "C",
+      "text": "cheers"
+     },
+     {
+      "letter": "D",
+      "text": "jokes"
      }
     ],
     "answer": "C",
+    "vi": 55
+   },
+   {
+    "question": "The earth goes around the sun. This is a __________, not just an idea.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fact"
+     },
+     {
+      "letter": "B",
+      "text": "joke"
+     },
+     {
+      "letter": "C",
+      "text": "rule"
+     },
+     {
+      "letter": "D",
+      "text": "smile"
+     }
+    ],
+    "answer": "A",
     "vi": 56
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"kind":["nice and helpful to other people","親切的"],"order":["to ask for food or drinks in a restaurant","點餐"],"band":["a group of people who play music together","樂團"],"american":["a person from the United States","美國人"],"foreigners":["a person from another country","外國人"],"leader":["the person who a group follows","領導者；隊長"],"member":["one of the people in a group or club","成員；會員"],"players":["a person who plays a game or a sport","球員；選手"],"club":["a group of people who meet to do something they all like","社團"],"group":["a number of people or things that are together","團體；小組"],"god":["the one who some people believe made the world and pray to","上帝；神"],"chance":["a time when you can do something","機會"],"choices":["one of the things that you can choose","選擇"],"idea":["a thought or a plan in your mind","主意；想法"],"habit":["something that you do often, without thinking","習慣"],"experience":["something that happened to you; what you learn from doing things","經驗"],"trouble":["problems or difficulties","麻煩；困難"],"mistakes":["something you do or write that is wrong","錯誤"],"error":["a mistake","錯誤"],"excuse":["a reason you give to explain why you did something wrong","藉口"],"reason":["why something happens or why someone does something","理由；原因"],"sight":["the power to see","視力"],"voice":["the sound you make when you speak or sing","聲音；嗓音"],"meeting":["a time when people come together to talk about something","會議"],"party":["a time when people come together to eat, play, and have fun","派對"],"interview":["a meeting where someone asks you questions, often for a job","面試；採訪"],"report":["something you write or say to tell people about what you learned or saw","報告；報導"],"sale":["a time when a store sells things at lower prices","特價；出售"],"prize":["something you get when you win","獎品；獎"],"treat":["something nice that someone buys for you","請客"],"tip":["extra money you give to a waiter or a driver to say thank you","小費"],"service":["the help that workers in a store or restaurant give you","服務"],"eve":["the day or night before a special day","前夕"],"age":["how old someone is","年齡"],"birthday":["the day of the year when you were born","生日"],"dream":["something you hope for very much; what you see in your sleep","夢想"],"interests":["something you like to do or learn about","興趣"],"subject":["something you study at school, like math or English","科目"],"topic":["what people talk or write about","主題；話題"],"word":["a group of letters that means something","字；單字"],"sentence":["a group of words that starts with a big letter and ends with a period","句子"],"way":["a road to a place; how you do something","道路；方法"],"matter":["something that you need to think or talk about; a problem","事情；問題"],"level":["how good you are at something; how high something is","程度；等級"],"mind":["the part of you that thinks and remembers","頭腦；心思"],"rule":["something that tells you what you must or must not do","規則"],"action":["something that you do; moving and doing things","動作；行動"],"fun":["something that makes you happy; a good time","樂趣；好玩的事"],"jokes":["a short, funny story that makes people laugh","笑話"],"stories":["words that tell about people and things that happened, real or not real","故事"],"program":["a show on TV or the radio","節目"],"tricks":["something you do to fool or surprise someone for fun","惡作劇；把戲"],"smile":["the happy look on your face when the ends of your mouth go up","微笑"],"joy":["a feeling of being very happy","歡樂；喜悅"],"pleasure":["a feeling of being happy to do something","榮幸；愉快"],"cheers":["a loud, happy shout for a team or a player","歡呼；喝采"],"fact":["something that is true","事實"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"american":["a person from the United States","美國人"],"age":["how old someone is","年齡"],"idea":["a thought or a plan in your mind","主意；想法"],"error":["a mistake","錯誤"],"members":["one of the people in a group or club","成員；會員"],"foreigners":["a person from another country","外國人"],"leaders":["the person who a group follows","領導者；隊長"],"players":["a person who plays a game or a sport","球員；選手"],"foreigner":["a person from another country","外國人"],"prize":["something you get when you win","獎品；獎"],"leader":["the person who a group follows","領導者；隊長"],"habit":["something that you do often, without thinking","習慣"],"prizes":["something you get when you win","獎品；獎"],"habits":["something that you do often, without thinking","習慣"],"rules":["something that tells you what you must or must not do","規則"],"topics":["what people talk or write about","主題；話題"],"band":["a group of people who play music together","樂團"],"reason":["why something happens or why someone does something","理由；原因"],"club":["a group of people who meet to do something they all like","社團"],"voices":["the sound you make when you speak or sing","聲音；嗓音"],"group":["a number of people or things that are together","團體；小組"],"eve":["","前夕"],"god":["the one who some people believe made the world and pray to","上帝；神"],"fun":["something that makes you happy; a good time","樂趣；好玩的事"],"voice":["the sound you make when you speak or sing","聲音；嗓音"],"chance":["a time when you can do something","機會"],"ages":["","年齡"],"choices":["one of the things that you can choose","選擇"],"trouble":["problems or difficulties","麻煩；困難"],"experience":["something that happened to you; what you learn from doing things","經驗"],"sight":["the power to see","視力"],"mistakes":["something you do or write that is wrong","錯誤"],"parties":["a time when people come together to eat, play, and have fun","派對"],"excuse":["a reason you give to explain why you did something wrong","藉口"],"dream":["something you hope for very much; what you see in your sleep","夢想"],"tip":["extra money you give to a waiter or a driver to say thank you","小費"],"smile":["the happy look on your face when the ends of your mouth go up","微笑"],"meeting":["a time when people come together to talk about something","會議"],"party":["a time when people come together to eat, play, and have fun","派對"],"interview":["a meeting where someone asks you questions, often for a job","面試；採訪"],"joke":["a short, funny story that makes people laugh","笑話"],"report":["something you write or say to tell people about what you learned or saw","報告；報導"],"sale":["a time when a store sells things at lower prices","特價；出售"],"rule":["something that tells you what you must or must not do","規則"],"treat":["something nice that someone buys for you","請客"],"order":["to ask for food or drinks in a restaurant","點餐"],"service":["the help that workers in a store or restaurant give you","服務"],"birthday":["the day of the year when you were born","生日"],"interests":["something you like to do or learn about","興趣"],"tips":["extra money you give to a waiter or a driver to say thank you","小費"],"sentence":["a group of words that starts with a big letter and ends with a period","句子"],"subject":["something you study at school, like math or English","科目"],"topic":["what people talk or write about","主題；話題"],"word":["a group of letters that means something","字；單字"],"level":["how good you are at something; how high something is","程度；等級"],"fact":["something that is true","事實"],"way":["a road to a place; how you do something","道路；方法"],"matter":["something that you need to think or talk about; a problem","事情；問題"],"kind":["nice and helpful to other people","親切的"],"mind":["the part of you that thinks and remembers","頭腦；心思"],"jokes":["a short, funny story that makes people laugh","笑話"],"smiles":["the happy look on your face when the ends of your mouth go up","微笑"],"facts":["something that is true","事實"],"joy":["a feeling of being very happy","歡樂；喜悅"],"action":["something that you do; moving and doing things","動作；行動"],"levels":["how good you are at something; how high something is","程度；等級"],"cheers":["a loud, happy shout for a team or a player","歡呼；喝采"],"stories":["words that tell about people and things that happened, real or not real","故事"],"program":["a show on TV or the radio","節目"],"tricks":["something you do to fool or surprise someone for fun","惡作劇；把戲"],"pleasure":["a feeling of being happy to do something","榮幸；愉快"]});

@@ -459,71 +459,71 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: Does Lisa care about her friends? — A: Yes, she does. She ______ about them a lot.【關心；在乎】",
+    "q": "Mr. Lin ______ about his students. He always asks how they are doing.",
     "options": [
+      "owns",
       "cares",
-      "visits",
-      "wakes",
-      "owns"
+      "prays",
+      "sells"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "麗莎關心她的朋友嗎？ — 是的，她非常關心他們。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: What do you and your friends do on weekends? — A: We ______ playing basketball.【喜愛；享受】",
+    "q": "I ______ playing basketball with my friends. It is a lot of fun.",
     "options": [
-      "let",
-      "deal",
-      "enjoy",
-      "found"
+      "own",
+      "pray",
+      "sell",
+      "enjoy"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "你和朋友週末做什麼？ — 我們喜歡打籃球。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: Does your uncle have a farm? — A: Yes, he does. He ______ a big farm in the country.【擁有】",
+    "q": "Mr. Wang ______ three houses and two cars. He is very rich.",
     "options": [
+      "owns",
+      "cares",
       "prays",
-      "visits",
-      "means",
-      "owns"
+      "wakes"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你叔叔有農場嗎？ — 有，他在鄉下擁有一座大農場。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: What does Grandma do at the temple? — A: She ______ for our family.【祈禱；拜拜】",
+    "q": "Grandma goes to the temple and ______ for the family's health.",
     "options": [
       "owns",
+      "sells",
       "prays",
-      "leads",
-      "starts"
+      "wakes"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "奶奶在廟裡做什麼？ — 她為我們家祈福。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: When do you go to bed? — A: At ten. I ______ for eight hours.【睡覺】",
+    "q": "Most people ______ for seven or eight hours every night.",
     "options": [
-      "deal",
-      "decide",
       "sleep",
-      "stay"
+      "pray",
+      "sell",
+      "share"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你幾點上床？ — 十點，我睡八個小時。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: What do you do on rainy days? — A: I ______ at home and read.【停留；待】",
+    "q": "It is raining hard. Let's ______ home and watch a movie.",
     "options": [
-      "excuse",
-      "laid",
-      "got",
+      "sell",
+      "share",
+      "lead",
       "stay"
     ],
     "answer": 3,
@@ -531,59 +531,59 @@ const MCQS = [
     "vocabIndex": 5
   },
   {
-    "q": "Q: What does Ben do on Sundays? — A: He ______ his grandparents.【拜訪；參觀】",
+    "q": "Lisa ______ her grandparents in Tainan every summer. She stays with them for two weeks.",
     "options": [
-      "visits",
       "wakes",
-      "starts",
-      "prays"
+      "visits",
+      "means",
+      "sells"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "班星期日做什麼？ — 他去探望祖父母。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: When does your brother get up? — A: He ______ up at six every day.【醒來】",
+    "q": "My dad ______ up at five thirty every morning. Then he goes jogging.",
     "options": [
-      "means",
+      "stays",
+      "keeps",
       "wakes",
-      "visits",
-      "cares"
+      "leads"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你哥哥幾點起床？ — 他每天六點醒來。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: Do you know the word \"glad\"? — A: Yes, I do. It ______ \"happy.\"【意思是】",
+    "q": "The word \"huge\" ______ \"very big.\"",
     "options": [
+      "keeps",
       "means",
-      "wakes",
-      "prays",
-      "visits"
+      "sells",
+      "leads"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你知道 glad 這個字嗎？ — 知道，它的意思是「高興」。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: What do the people at the market do? — A: They ______ fruit and vegetables.【賣】",
+    "q": "They ______ fresh fruit and vegetables at that store. The prices are low.",
     "options": [
-      "thank",
       "sell",
-      "decide",
-      "sent"
+      "pray",
+      "sleep",
+      "stay"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "市場裡的人做什麼？ — 他們賣水果和蔬菜。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: Where does Mom put the milk? — A: She ______ it in the fridge.【保存；保持】",
+    "q": "Amy ______ all her old letters in a box under her bed. She never throws them away.",
     "options": [
-      "leads",
+      "prays",
+      "wakes",
       "dates",
-      "owns",
       "keeps"
     ],
     "answer": 3,
@@ -591,191 +591,191 @@ const MCQS = [
     "vocabIndex": 10
   },
   {
-    "q": "Q: What does the team leader do on the trip? — A: He ______ the way.【帶領；引導】",
+    "q": "The teacher ______ the students to the playground. They walk behind her in a line.",
     "options": [
-      "keeps",
+      "sells",
       "wakes",
       "leads",
-      "dates"
+      "means"
     ],
     "answer": 2,
     "cn": "旅行時隊長做什麼？ — 他帶路。",
     "vocabIndex": 11
   },
   {
-    "q": "Q: What do you do with your cookies? — A: I ______ them with my friends.【分享】",
+    "q": "I only have one cookie. Let's ______ it. You take half, and I take half.",
     "options": [
-      "please",
-      "share",
-      "expect",
-      "try"
+      "sell",
+      "pray",
+      "lead",
+      "share"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你怎麼處理你的餅乾？ — 我和朋友分享。",
     "vocabIndex": 12
   },
   {
-    "q": "Q: Do you and your sister spend all your money? — A: No, we don't. We ______ it to buy a bike.【存（錢）；救】",
+    "q": "I ______ fifty dollars every week. I put the money in a box because I want to buy a bike.",
     "options": [
-      "welcome",
-      "laid",
       "save",
-      "try"
+      "pray",
+      "lead",
+      "date"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你和妹妹會把錢都花光嗎？ — 不會，我們存錢買腳踏車。",
     "vocabIndex": 13
   },
   {
-    "q": "Q: When does your first class begin? — A: It ______ at eight.【開始】",
+    "q": "School ______ at eight in the morning and ends at four in the afternoon.",
     "options": [
+      "sells",
       "starts",
-      "means",
       "prays",
-      "owns"
+      "keeps"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你的第一堂課幾點開始？ — 它八點開始。",
     "vocabIndex": 14
   },
   {
-    "q": "Q: Does your big sister have a boyfriend? — A: Yes, she does. She ______ Tom. They go to the movies on Saturdays.【和…約會】",
+    "q": "My brother has a girlfriend now. He ______ her every weekend.",
     "options": [
+      "sells",
       "owns",
-      "visits",
-      "keeps",
-      "dates"
+      "dates",
+      "means"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "你姊姊有男朋友嗎？ — 有，她和湯姆約會，他們星期六去看電影。",
     "vocabIndex": 15
   },
   {
-    "q": "Q: Do you think you can do well on the test? — A: Yes, I do. I ______ to get a good grade.【期待；預期】",
+    "q": "We ______ about fifty people at the party. We need a lot of food and drinks.",
     "options": [
-      "expect",
-      "please",
-      "gave",
-      "treat"
+      "pray",
+      "sleep",
+      "share",
+      "expect"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "你覺得你考試會考好嗎？ — 會，我期待拿到好成績。",
     "vocabIndex": 16
   },
   {
-    "q": "Q: What is Grandpa doing in the park? — A: He is ______ on a bench.【坐】",
+    "q": "The students are ______ on their chairs and listening to the teacher.",
     "options": [
-      "uploading",
+      "sitting",
       "lying",
-      "downloading",
-      "sitting"
+      "hopping",
+      "filling"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "爺爺在公園做什麼？ — 他正坐在長椅上。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: What is the cat doing? — A: It is ______ in the sun.【躺】",
+    "q": "The cat is ______ on the sofa. It is sleeping in the warm sun.",
     "options": [
-      "waiting",
+      "sitting",
+      "planning",
       "lying",
-      "hopping",
-      "downloading"
+      "filling"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "那隻貓在做什麼？ — 牠正躺在陽光下。",
     "vocabIndex": 18
   },
   {
-    "q": "Q: What are the kids doing behind the door? — A: They are ______ from their mom.【躲藏；隱藏】",
+    "q": "The little boy is ______ behind the door. His sister can't find him.",
     "options": [
-      "waiting",
-      "showing",
+      "planning",
       "hiding",
-      "planning"
+      "filling",
+      "uploading"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "孩子們在門後做什麼？ — 他們正在躲媽媽。",
     "vocabIndex": 19
   },
   {
-    "q": "Q: What is the rabbit doing in the garden? — A: It is ______ around.【跳；單腳跳】",
+    "q": "The rabbit is ______ across the grass on its strong back legs.",
     "options": [
-      "preparing",
-      "hiding",
-      "sitting",
-      "hopping"
+      "filling",
+      "planning",
+      "hopping",
+      "showing"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "兔子在花園裡做什麼？ — 牠正在跳來跳去。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: What are you doing at the bus stop? — A: I'm ______ for the bus.【等待】",
+    "q": "We are ______ for the bus. It should come in five minutes.",
     "options": [
-      "preparing",
       "waiting",
-      "lying",
-      "downloading"
+      "filling",
+      "hopping",
+      "showing"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你在公車站做什麼？ — 我正在等公車。",
     "vocabIndex": 21
   },
   {
-    "q": "Q: What is Mom doing in the kitchen? — A: She is ______ dinner.【準備】",
+    "q": "Mom is ______ dinner in the kitchen. She is washing and cutting vegetables.",
     "options": [
-      "preparing",
-      "filling",
+      "hopping",
+      "hiding",
       "waiting",
-      "hopping"
+      "preparing"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "媽媽在廚房做什麼？ — 她正在準備晚餐。",
     "vocabIndex": 22
   },
   {
-    "q": "Q: What are your parents doing? — A: They are ______ a trip to Japan.【計畫】",
+    "q": "We are ______ a trip to Japan. We need to decide where to go and what to see.",
     "options": [
       "hopping",
-      "hiding",
       "planning",
-      "uploading"
+      "filling",
+      "hiding"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你爸媽在做什麼？ — 他們正在計畫去日本旅行。",
     "vocabIndex": 23
   },
   {
-    "q": "Q: What is Dad doing with the bottle? — A: He is ______ it with water.【裝滿】",
+    "q": "Dad is ______ the bottle with water. It is almost full now.",
     "options": [
       "filling",
-      "uploading",
-      "preparing",
-      "waiting"
+      "planning",
+      "hopping",
+      "showing"
     ],
     "answer": 0,
     "cn": "爸爸在用瓶子做什麼？ — 他正在把它裝滿水。",
     "vocabIndex": 24
   },
   {
-    "q": "Q: What is Amy doing? — A: She is ______ her new bike to her friends.【給…看；展示】",
+    "q": "Amy is ______ her new phone to her friends. Everyone wants to look at it.",
     "options": [
-      "lying",
+      "filling",
+      "hopping",
       "showing",
-      "hiding",
-      "sitting"
+      "waiting"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "艾美在做什麼？ — 她正在給朋友看她的新腳踏車。",
     "vocabIndex": 25
   },
   {
-    "q": "Q: What is your sister doing on the computer? — A: She is ______ her photos to the Internet.【上傳】",
+    "q": "I am ______ my photos to the Internet so that my friends can see them.",
     "options": [
-      "planning",
       "hopping",
-      "lying",
+      "hiding",
+      "filling",
       "uploading"
     ],
     "answer": 3,
@@ -783,410 +783,415 @@ const MCQS = [
     "vocabIndex": 26
   },
   {
-    "q": "Q: What is Ben doing with his cellphone? — A: He is ______ a new game.【下載】",
+    "q": "Ben is ______ a new game from the Internet onto his phone.",
     "options": [
-      "lying",
-      "planning",
+      "hopping",
       "downloading",
+      "hiding",
       "filling"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "班在用手機做什麼？ — 他正在下載一個新遊戲。",
     "vocabIndex": 27
   },
   {
-    "q": "Q: Where was your key? — A: I ______ it under the bed.【找到】",
+    "q": "I looked for my keys everywhere. Finally, I ______ them under the sofa.",
     "options": [
-      "share",
-      "laid",
-      "expect",
-      "found"
+      "found",
+      "sent",
+      "invited",
+      "joined"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你的鑰匙在哪裡？ — 我在床底下找到它。",
     "vocabIndex": 28
   },
   {
-    "q": "Q: What was your birthday present? — A: I ______ a new watch.【得到；收到】",
+    "q": "I ______ a letter from my friend in Japan yesterday. I was happy to read it.",
     "options": [
-      "stay",
-      "got",
-      "sleep",
-      "sell"
+      "fell",
+      "died",
+      "lied",
+      "got"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "你的生日禮物是什麼？ — 我收到一支新手錶。",
     "vocabIndex": 29
   },
   {
-    "q": "Q: What did Tom do on Mother's Day? — A: He ______ his mom a card.【給】",
+    "q": "My parents ______ me a watch for my birthday last year. I wear it every day.",
     "options": [
-      "enjoy",
-      "nod",
+      "fell",
       "gave",
-      "treat"
+      "joined",
+      "reached"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "湯姆在母親節做了什麼？ — 他給媽媽一張卡片。",
     "vocabIndex": 30
   },
   {
-    "q": "Q: What did you do at the post office yesterday? — A: I ______ a letter to my grandma.【寄；送】",
+    "q": "I ______ an e-mail to my teacher last night. She answered this morning.",
     "options": [
+      "fell",
+      "reached",
       "sent",
-      "got",
-      "excuse",
-      "share"
+      "died"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你昨天在郵局做了什麼？ — 我寄了一封信給奶奶。",
     "vocabIndex": 31
   },
   {
-    "q": "Q: Who did Lisa ask to her party last week? — A: She ______ all her classmates.【邀請】",
+    "q": "Amy ______ all her classmates to her birthday party last Saturday.",
     "options": [
-      "happened",
-      "lied",
       "reached",
-      "invited"
+      "invited",
+      "fell",
+      "happened"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "麗莎上週請誰去她的派對？ — 她邀請了全班同學。",
     "vocabIndex": 32
   },
   {
-    "q": "Q: Did Ben become a club member last year? — A: Yes, he did. He ______ the music club.【加入】",
+    "q": "I ______ the school basketball team last month. Now I practice with them every day.",
     "options": [
-      "joined",
+      "fell",
       "happened",
       "died",
-      "disappeared"
+      "joined"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "班去年有成為社團成員嗎？ — 有，他加入了音樂社。",
     "vocabIndex": 33
   },
   {
-    "q": "Q: When did you get to the top of the mountain? — A: We ______ the top at noon.【到達；伸手拿到】",
+    "q": "We ______ the top of the mountain at noon. We were tired but happy.",
     "options": [
-      "invited",
-      "joined",
       "reached",
-      "disappeared"
+      "invited",
+      "sent",
+      "lied"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你們什麼時候到山頂的？ — 我們中午到達山頂。",
     "vocabIndex": 34
   },
   {
-    "q": "Q: Why did you go to the nurse's office yesterday? — A: I ______ down on the playground.【跌倒；落下】",
+    "q": "The boy ______ off his bike and hurt his knee yesterday.",
     "options": [
-      "try",
+      "sent",
+      "joined",
       "fell",
-      "explain",
-      "stay"
+      "found"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你昨天為什麼去保健室？ — 我在操場上跌倒了。",
     "vocabIndex": 35
   },
   {
-    "q": "Q: What's wrong with your knee? — A: I ______ it in PE class yesterday.【弄傷；受傷】",
+    "q": "I ______ my leg when I played soccer yesterday. I can't walk well now.",
     "options": [
-      "try",
-      "decide",
-      "treat",
-      "hurt"
+      "sent",
+      "hurt",
+      "joined",
+      "invited"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "你的膝蓋怎麼了？ — 我昨天上體育課時弄傷了它。",
     "vocabIndex": 36
   },
   {
-    "q": "Q: What ______ to your bike last night? — A: A car hit it.【發生】",
+    "q": "What ______ to your arm? Did you fall down?",
     "options": [
-      "joined",
       "reached",
+      "joined",
       "happened",
-      "disappeared"
+      "invited"
     ],
     "answer": 2,
     "cn": "你的腳踏車昨晚發生了什麼事？ — 被一輛車撞了。",
     "vocabIndex": 37
   },
   {
-    "q": "Q: Do you still have your fish? — A: No, I don't. It ______ last week.【死】",
+    "q": "Our old dog ______ last week. We were all very sad.",
     "options": [
-      "died",
+      "reached",
+      "joined",
+      "sent",
+      "died"
+    ],
+    "answer": 3,
+    "cn": "你還有養那條魚嗎？ — 沒有，牠上週死了。",
+    "vocabIndex": 38
+  },
+  {
+    "q": "The sun ______ behind the clouds, and the sky turned gray.",
+    "options": [
+      "disappeared",
       "invited",
       "joined",
       "lied"
     ],
     "answer": 0,
-    "cn": "你還有養那條魚嗎？ — 沒有，牠上週死了。",
-    "vocabIndex": 38
-  },
-  {
-    "q": "Q: Where is the cake on the table? — A: I don't know. It ______ this morning!【消失】",
-    "options": [
-      "died",
-      "disappeared",
-      "happened",
-      "joined"
-    ],
-    "answer": 1,
     "cn": "桌上的蛋糕在哪裡？ — 我不知道，它今天早上不見了！",
     "vocabIndex": 39
   },
   {
-    "q": "Q: What did the hen do this morning? — A: It ______ two eggs.【下（蛋）；放置】",
+    "q": "The hen ______ three eggs this morning.",
     "options": [
-      "laid",
-      "hurt",
-      "let",
-      "gave"
+      "lied",
+      "fell",
+      "died",
+      "laid"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "那隻母雞今天早上做了什麼？ — 牠下了兩顆蛋。",
     "vocabIndex": 40
   },
   {
-    "q": "Q: Why is Mom angry with Tom? — A: Because he ______ to her yesterday.【說謊】",
+    "q": "Tom ______ to his mother. He said he was at the library, but he was at the park.",
     "options": [
-      "happened",
-      "disappeared",
-      "died",
-      "lied"
+      "laid",
+      "lied",
+      "fell",
+      "reached"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "媽媽為什麼生湯姆的氣？ — 因為他昨天對她說謊。",
     "vocabIndex": 41
   },
   {
-    "q": "Q: Will you buy the red bag or the blue bag? — A: I don't know. I will ______ later.【決定】",
+    "q": "I can't ______ which dress to buy. I like both the red one and the blue one.",
     "options": [
-      "laid",
-      "sleep",
       "decide",
-      "enjoy"
+      "deal",
+      "treat",
+      "raise"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你會買紅色還是藍色的包包？ — 我不知道，我等一下再決定。",
     "vocabIndex": 42
   },
   {
-    "q": "Q: Who will help with this problem? — A: Don't worry. I will ______ with it.【處理（deal with）】",
+    "q": "This is a big problem. How should we ______ with it?",
     "options": [
-      "found",
+      "decide",
+      "treat",
       "deal",
-      "stay",
-      "sell"
+      "thank"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "誰會幫忙處理這個問題？ — 別擔心，我會處理。",
     "vocabIndex": 43
   },
   {
-    "q": "Q: Will the teacher talk about the new words tomorrow? — A: Yes, she will. She will ______ them to us.【解釋】",
+    "q": "I don't understand this math problem. Can you ______ it to me?",
     "options": [
-      "decide",
-      "got",
-      "try",
-      "explain"
+      "explain",
+      "raise",
+      "please",
+      "welcome"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "老師明天會講新單字嗎？ — 會，她會跟我們解釋。",
     "vocabIndex": 44
   },
   {
-    "q": "Q: What will you do for your mom on her birthday? — A: I will ______ her to dinner.【請客；對待】",
+    "q": "It's my birthday, so let me ______ you to dinner. I will pay.",
     "options": [
+      "raise",
       "treat",
       "nod",
-      "thank",
-      "fell"
+      "stop"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "媽媽生日那天你會為她做什麼？ — 我會請她吃晚餐。",
     "vocabIndex": 45
   },
   {
-    "q": "Q: What will you do if you know the answer? — A: I will ______ my hand.【舉起；養育】",
+    "q": "If you know the answer, please ______ your hand.",
     "options": [
-      "expect",
-      "raise",
-      "stop",
-      "explain"
+      "treat",
+      "thank",
+      "welcome",
+      "raise"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "如果你知道答案你會做什麼？ — 我會舉手。",
     "vocabIndex": 46
   },
   {
-    "q": "Q: Can you ______ everyone? — A: No, I can't. That's too hard.【使高興；取悅】",
+    "q": "It is not easy to ______ my boss. He is never happy with our work.",
     "options": [
-      "sent",
-      "decide",
+      "raise",
+      "nod",
       "please",
-      "share"
+      "stop"
     ],
     "answer": 2,
     "cn": "你能讓每個人都高興嗎？ — 不行，那太難了。",
     "vocabIndex": 47
   },
   {
-    "q": "Q: What do you say when someone helps you? — A: ______ you very much.【感謝】",
+    "q": "I want to ______ you for your help. I couldn't have done it without you.",
     "options": [
-      "Nod",
-      "Gave",
-      "Got",
-      "Thank"
+      "thank",
+      "raise",
+      "nod",
+      "stop"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "有人幫你時你會說什麼？ — 非常謝謝你。",
     "vocabIndex": 48
   },
   {
-    "q": "Q: What does the teacher say to the new students? — A: She says, \"______ to our school!\"【歡迎】",
+    "q": "Let's ______ our new classmate, Amy, with a big hand.",
     "options": [
+      "raise",
       "welcome",
-      "deal",
-      "let",
-      "hurt"
+      "stop",
+      "nod"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "老師對新生說什麼？ — 她說：「歡迎來到我們學校！」",
     "vocabIndex": 49
   },
   {
-    "q": "Q: How do you ask a stranger for help? — A: ______ me. Can you help me?【原諒（Excuse me.）】",
+    "q": "______ me. Can you tell me the way to the station?",
     "options": [
-      "Expect",
-      "Let",
-      "Excuse",
-      "Share"
+      "Thank",
+      "Please",
+      "Welcome",
+      "Excuse"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "你怎麼向陌生人求助？ — 不好意思，你可以幫我嗎？",
     "vocabIndex": 50
   },
   {
-    "q": "Q: My dog is sick. I'm so sad. — A: ______! It will be OK.【打起精神；振作】",
+    "q": "______! You lost today, but you will do better next time.",
     "options": [
-      "Take the MRT",
+      "Wake up",
+      "Hurry up",
       "Cheer up",
-      "A lot of",
-      "A few"
+      "Stand up"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "我的狗生病了，我好難過。 — 打起精神！會沒事的。",
     "vocabIndex": 51
   },
   {
-    "q": "Q: Can you say \"yes\" without words? — A: Yes, I can. I can ______ my head.【點頭】",
+    "q": "People ______ their heads when they agree. They move their heads up and down.",
     "options": [
+      "raise",
       "nod",
-      "stay",
-      "sent",
-      "share"
+      "stop",
+      "try"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你可以不說話表示「是」嗎？ — 可以，我可以點頭。",
     "vocabIndex": 52
   },
   {
-    "q": "Q: The light is red. Can we cross the street? — A: No. ______! Wait for the green light.【停止；停】",
+    "q": "The traffic light is red. You must ______ your car and wait.",
     "options": [
-      "Gave",
-      "Fell",
-      "Stop",
-      "Deal"
+      "stop",
+      "nod",
+      "try",
+      "thank"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "紅燈了，我們可以過馬路嗎？ — 不行，停！等綠燈。",
     "vocabIndex": 53
   },
   {
-    "q": "Q: Can I have some of your cake? — A: Sure. ______ it. It's yummy.【嘗試；試】",
+    "q": "I don't know if I can do it, but I will ______ my best.",
     "options": [
-      "Let",
-      "Try",
-      "Share",
-      "Gave"
+      "nod",
+      "let",
+      "stop",
+      "try"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "我可以吃一點你的蛋糕嗎？ — 當然，試試看，很好吃。",
     "vocabIndex": 54
   },
   {
-    "q": "Q: Mom, can you help me with this heavy box? — A: Sure. ______ me carry it for you.【讓】",
+    "q": "Please ______ me help you with those bags. They look very heavy.",
     "options": [
-      "Explain",
-      "Decide",
-      "Please",
-      "Let"
+      "try",
+      "nod",
+      "let",
+      "stop"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "媽，你可以幫我搬這個重箱子嗎？ — 當然，讓我幫你搬。",
     "vocabIndex": 55
   }
 ];
 
 const LOOKUP = {
-  "a lot of": {
-    "pos": "phr.",
-    "en_def": "a large number or amount of",
-    "cn_def": "許多的"
-  },
-  "a few": {
-    "pos": "phr.",
-    "en_def": "a small number of (things you can count)",
-    "cn_def": "一些；幾個（可數）"
-  },
-  "explain": {
+  "owns": {
     "pos": "v.",
-    "en_def": "to tell someone about something so they can understand it",
-    "cn_def": "解釋"
-  },
-  "take the mrt": {
-    "pos": "phr.",
-    "en_def": "to travel on the city's fast trains",
-    "cn_def": "搭捷運"
-  },
-  "excuse": {
-    "pos": "n.",
-    "en_def": "a reason you give to explain why you did something wrong",
-    "cn_def": "藉口"
-  },
-  "treat": {
-    "pos": "n.",
-    "en_def": "something nice that someone buys for you",
-    "cn_def": "請客"
+    "en_def": "to have something that is yours",
+    "cn_def": "擁有"
   },
   "cares": {
     "pos": "v.",
     "en_def": "to think that someone or something is important",
     "cn_def": "關心；在乎"
   },
-  "enjoy": {
-    "pos": "v.",
-    "en_def": "to like doing something",
-    "cn_def": "喜愛；享受"
-  },
-  "owns": {
-    "pos": "v.",
-    "en_def": "to have something that is yours",
-    "cn_def": "擁有"
-  },
   "prays": {
     "pos": "v.",
     "en_def": "to talk to God or the gods",
     "cn_def": "祈禱；拜拜"
   },
+  "sells": {
+    "pos": "v.",
+    "en_def": "to give something to someone for money",
+    "cn_def": "賣"
+  },
+  "own": {
+    "pos": "v.",
+    "en_def": "to have something that is yours",
+    "cn_def": "擁有"
+  },
+  "pray": {
+    "pos": "v.",
+    "en_def": "to talk to God or the gods",
+    "cn_def": "祈禱；拜拜"
+  },
+  "sell": {
+    "pos": "v.",
+    "en_def": "to give something to someone for money",
+    "cn_def": "賣"
+  },
+  "enjoy": {
+    "pos": "v.",
+    "en_def": "to like doing something",
+    "cn_def": "喜愛；享受"
+  },
+  "wakes": {
+    "pos": "v.",
+    "en_def": "to stop sleeping",
+    "cn_def": "醒來"
+  },
   "sleep": {
     "pos": "v.",
     "en_def": "to rest with your eyes closed, as you do at night",
     "cn_def": "睡覺"
+  },
+  "share": {
+    "pos": "v.",
+    "en_def": "to let someone have or use part of what you have",
+    "cn_def": "分享"
+  },
+  "lead": {
+    "pos": "v.",
+    "en_def": "to go in front and show the way",
+    "cn_def": "帶領；引導"
   },
   "stay": {
     "pos": "v.",
@@ -1198,20 +1203,15 @@ const LOOKUP = {
     "en_def": "to go to see a person or a place",
     "cn_def": "拜訪；參觀"
   },
-  "wakes": {
-    "pos": "v.",
-    "en_def": "to stop sleeping",
-    "cn_def": "醒來"
-  },
   "means": {
     "pos": "v.",
     "en_def": "to have the same idea as another word; to say",
     "cn_def": "意思是"
   },
-  "sell": {
+  "stays": {
     "pos": "v.",
-    "en_def": "to give something to someone for money",
-    "cn_def": "賣"
+    "en_def": "to not leave a place",
+    "cn_def": "停留；待"
   },
   "keeps": {
     "pos": "v.",
@@ -1223,25 +1223,25 @@ const LOOKUP = {
     "en_def": "to go in front and show the way",
     "cn_def": "帶領；引導"
   },
-  "share": {
+  "dates": {
     "pos": "v.",
-    "en_def": "to let someone have or use part of what you have",
-    "cn_def": "分享"
+    "en_def": "to go out with a boyfriend or girlfriend",
+    "cn_def": "和…約會"
   },
   "save": {
     "pos": "v.",
     "en_def": "to keep money and not spend it; to take someone out of danger",
     "cn_def": "存（錢）；救"
   },
+  "date": {
+    "pos": "v.",
+    "en_def": "to go out with a boyfriend or girlfriend",
+    "cn_def": "和…約會"
+  },
   "starts": {
     "pos": "v.",
     "en_def": "to begin",
     "cn_def": "開始"
-  },
-  "dates": {
-    "pos": "v.",
-    "en_def": "to go out with a boyfriend or girlfriend",
-    "cn_def": "和…約會"
   },
   "expect": {
     "pos": "v.",
@@ -1255,18 +1255,38 @@ const LOOKUP = {
   },
   "lying": {
     "pos": "v.",
-    "en_def": "to have your body flat on a bed or on the ground",
+    "en_def": "",
     "cn_def": "躺"
+  },
+  "hopping": {
+    "pos": "v.",
+    "en_def": "to make short, quick jumps",
+    "cn_def": "跳；單腳跳"
+  },
+  "filling": {
+    "pos": "v.",
+    "en_def": "to put so much into something that there is no more space",
+    "cn_def": "裝滿"
+  },
+  "planning": {
+    "pos": "v.",
+    "en_def": "to think about what you will do and how to do it",
+    "cn_def": "計畫"
   },
   "hiding": {
     "pos": "v.",
     "en_def": "to go where no one can see or find you",
     "cn_def": "躲藏；隱藏"
   },
-  "hopping": {
+  "uploading": {
     "pos": "v.",
-    "en_def": "to make short, quick jumps",
-    "cn_def": "跳；單腳跳"
+    "en_def": "to send a file or photo from your computer or phone to the Internet",
+    "cn_def": "上傳"
+  },
+  "showing": {
+    "pos": "v.",
+    "en_def": "to let someone see something",
+    "cn_def": "給…看；展示"
   },
   "waiting": {
     "pos": "v.",
@@ -1278,26 +1298,6 @@ const LOOKUP = {
     "en_def": "to make something ready",
     "cn_def": "準備"
   },
-  "planning": {
-    "pos": "v.",
-    "en_def": "to think about what you will do and how to do it",
-    "cn_def": "計畫"
-  },
-  "filling": {
-    "pos": "v.",
-    "en_def": "to put so much into something that there is no more space",
-    "cn_def": "裝滿"
-  },
-  "showing": {
-    "pos": "v.",
-    "en_def": "to let someone see something",
-    "cn_def": "給…看；展示"
-  },
-  "uploading": {
-    "pos": "v.",
-    "en_def": "to send a file or photo from your computer or phone to the Internet",
-    "cn_def": "上傳"
-  },
   "downloading": {
     "pos": "v.",
     "en_def": "to get a file or game from the Internet onto your computer or phone",
@@ -1307,16 +1307,6 @@ const LOOKUP = {
     "pos": "v.",
     "en_def": "to see or get something after you look for it",
     "cn_def": "找到"
-  },
-  "got": {
-    "pos": "v.",
-    "en_def": "to be given something",
-    "cn_def": "得到；收到"
-  },
-  "gave": {
-    "pos": "v.",
-    "en_def": "to let someone have something",
-    "cn_def": "給"
   },
   "sent": {
     "pos": "v.",
@@ -1333,30 +1323,45 @@ const LOOKUP = {
     "en_def": "to become a member of a group or club",
     "cn_def": "加入"
   },
-  "reached": {
-    "pos": "v.",
-    "en_def": "to get to a place",
-    "cn_def": "到達；伸手拿到"
-  },
   "fell": {
     "pos": "v.",
     "en_def": "to drop down to the ground",
     "cn_def": "跌倒；落下"
   },
-  "hurt": {
+  "died": {
     "pos": "v.",
-    "en_def": "to make part of the body feel pain",
-    "cn_def": "弄傷；受傷"
+    "en_def": "to stop living",
+    "cn_def": "死"
+  },
+  "lied": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "說謊"
+  },
+  "got": {
+    "pos": "v.",
+    "en_def": "to be given something",
+    "cn_def": "得到；收到"
+  },
+  "gave": {
+    "pos": "v.",
+    "en_def": "to let someone have something",
+    "cn_def": "給"
+  },
+  "reached": {
+    "pos": "v.",
+    "en_def": "to get to a place",
+    "cn_def": "到達；伸手拿到"
   },
   "happened": {
     "pos": "v.",
     "en_def": "to take place",
     "cn_def": "發生"
   },
-  "died": {
+  "hurt": {
     "pos": "v.",
-    "en_def": "to stop living",
-    "cn_def": "死"
+    "en_def": "to make part of the body feel pain",
+    "cn_def": "弄傷；受傷"
   },
   "disappeared": {
     "pos": "v.",
@@ -1368,11 +1373,6 @@ const LOOKUP = {
     "en_def": "(of a bird) to make an egg come out",
     "cn_def": "下（蛋）；放置"
   },
-  "lied": {
-    "pos": "v.",
-    "en_def": "to say something that is not true",
-    "cn_def": "說謊"
-  },
   "decide": {
     "pos": "v.",
     "en_def": "to choose what to do after thinking",
@@ -1383,30 +1383,35 @@ const LOOKUP = {
     "en_def": "(with \"with\") to take care of a problem",
     "cn_def": "處理（deal with）"
   },
+  "treat": {
+    "pos": "n.",
+    "en_def": "something nice that someone buys for you",
+    "cn_def": "請客"
+  },
   "raise": {
     "pos": "v.",
     "en_def": "to lift something up; to take care of a child until he or she grows up",
     "cn_def": "舉起；養育"
-  },
-  "please": {
-    "pos": "v.",
-    "en_def": "to make someone happy",
-    "cn_def": "使高興；取悅"
   },
   "thank": {
     "pos": "v.",
     "en_def": "to tell someone you are glad for what they did",
     "cn_def": "感謝"
   },
+  "explain": {
+    "pos": "v.",
+    "en_def": "to tell someone about something so they can understand it",
+    "cn_def": "解釋"
+  },
+  "please": {
+    "pos": "int.",
+    "en_def": "",
+    "cn_def": "請"
+  },
   "welcome": {
     "pos": "v.",
     "en_def": "to say hello in a friendly way to someone who comes",
     "cn_def": "歡迎"
-  },
-  "cheer up": {
-    "pos": "phr.",
-    "en_def": "to become happier; to stop feeling sad",
-    "cn_def": "打起精神；振作"
   },
   "nod": {
     "pos": "v.",
@@ -1417,6 +1422,31 @@ const LOOKUP = {
     "pos": "v.",
     "en_def": "to not move or not do something anymore",
     "cn_def": "停止；停"
+  },
+  "excuse": {
+    "pos": "n.",
+    "en_def": "a reason you give to explain why you did something wrong",
+    "cn_def": "藉口"
+  },
+  "wake up": {
+    "pos": "phr.",
+    "en_def": "",
+    "cn_def": "醒來"
+  },
+  "hurry up": {
+    "pos": "phr.",
+    "en_def": "",
+    "cn_def": "趕快"
+  },
+  "cheer up": {
+    "pos": "phr.",
+    "en_def": "to become happier; to stop feeling sad",
+    "cn_def": "打起精神；振作"
+  },
+  "stand up": {
+    "pos": "phr.",
+    "en_def": "",
+    "cn_def": "站起來"
   },
   "try": {
     "pos": "v.",

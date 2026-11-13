@@ -325,143 +325,143 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: How often does Amy walk to school? — A: She ______ walks to school. She lives near it.【總是】",
+    "q": "Lisa is never late. She ______ comes to school on time.",
     "options": [
-      "perhaps",
-      "yes",
-      "sometimes",
-      "always"
+      "seldom",
+      "never",
+      "always",
+      "twice"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "艾美多常走路上學？ — 她總是走路上學，她住在學校附近。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: How often do you get up at seven? — A: I ______ get up at seven.【通常】",
+    "q": "I ______ walk to school, but today I took the bus because of the rain.",
     "options": [
-      "no",
-      "badly",
-      "usually",
-      "twice"
+      "never",
+      "twice",
+      "abroad",
+      "usually"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "你多常七點起床？ — 我通常七點起床。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: How often do your grandparents visit you? — A: They ______ visit us. They come every weekend.【時常】",
+    "q": "I ______ go to the library, about three or four times a week.",
     "options": [
-      "maybe",
+      "never",
       "often",
-      "together",
-      "just"
+      "seldom",
+      "twice"
     ],
     "answer": 1,
     "cn": "你的祖父母多常來看你？ — 他們常常來看我們，每個週末都來。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: How often do you and your friends play basketball? — A: We ______ play basketball after school.【有時候】",
+    "q": "I usually have rice for dinner, but ______ I have noodles.",
     "options": [
       "sometimes",
-      "perhaps",
-      "always",
-      "yes"
+      "never",
+      "twice",
+      "abroad"
     ],
     "answer": 0,
     "cn": "你和朋友多常打籃球？ — 我們有時候放學後打籃球。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: How often do you eat fast food? — A: I ______ eat it. I eat it once a month.【很少】",
+    "q": "Ben ______ eats candy. He only has some once or twice a year.",
     "options": [
-      "not",
+      "always",
+      "often",
       "seldom",
-      "away",
-      "probably"
+      "usually"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你多常吃速食？ — 我很少吃，一個月吃一次。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: How often do your parents drink coffee? — A: They ______ drink coffee. They drink tea.【從不】",
+    "q": "I have ______ been to Japan. I hope to go there for the first time next year.",
     "options": [
-      "twice",
-      "maybe",
+      "always",
       "never",
-      "OK"
+      "often",
+      "twice"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你爸媽多常喝咖啡？ — 他們從不喝咖啡，他們喝茶。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: Does Lisa ______ cook dinner? — A: Yes, she does. She cooks on Sundays.【曾經；有時】",
+    "q": "Have you ______ seen a panda? Yes, I saw one at the zoo last year.",
     "options": [
-      "again",
-      "seldom",
-      "only",
-      "ever"
+      "ever",
+      "never",
+      "twice",
+      "badly"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "麗莎有時會煮晚餐嗎？ — 會，她星期天會煮。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: How often do you brush your teeth? — A: I brush my teeth ______ a day.【兩次】",
+    "q": "I brush my teeth ______ a day, once in the morning and once at night.",
     "options": [
-      "twice",
-      "very",
-      "even",
-      "never"
+      "never",
+      "ever",
+      "badly",
+      "twice"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "你多常刷牙？ — 我一天刷兩次牙。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: How does Ben sing? — A: He sings ______, but he enjoys singing.【差勁地】",
+    "q": "Our team played ______ today, so we lost the game 0 to 5.",
     "options": [
-      "seldom",
-      "actually",
+      "together",
+      "again",
       "badly",
-      "least"
+      "abroad"
     ],
     "answer": 2,
     "cn": "班唱歌唱得怎麼樣？ — 他唱得很差，但他很喜歡唱歌。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: How do you and your brother go to school? — A: We walk to school ______.【一起】",
+    "q": "My family always eats dinner ______. We sit at one big table and talk.",
     "options": [
+      "abroad",
       "together",
-      "even",
-      "usually",
-      "probably"
+      "badly",
+      "ahead"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你和你弟弟怎麼上學？ — 我們一起走路上學。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: What do you say when you can't hear the teacher? — A: I say, \"Can you say it ______, please?\"【再一次】",
+    "q": "I didn't hear you. Could you say that ______, please?",
     "options": [
-      "really",
       "again",
-      "no",
+      "abroad",
+      "badly",
       "ahead"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你聽不清楚老師說話時會說什麼？ — 我會說：「可以請您再說一次嗎？」",
     "vocabIndex": 10
   },
   {
-    "q": "Q: Where does your cousin study? — A: She studies ______. She is in Canada now.【在國外】",
+    "q": "My sister is studying ______. She has been in America for two years.",
     "options": [
-      "even",
-      "too",
-      "badly",
+      "together",
+      "again",
+      "ahead",
       "abroad"
     ],
     "answer": 3,
@@ -469,23 +469,23 @@ const MCQS = [
     "vocabIndex": 11
   },
   {
-    "q": "Q: Is your dad at home this week? — A: No, he isn't. He is ______ on a trip.【離開；不在】",
+    "q": "Go ______! I don't want to talk to you now.",
     "options": [
       "away",
-      "either",
-      "usually",
-      "least"
+      "together",
+      "again",
+      "twice"
     ],
     "answer": 0,
     "cn": "你爸爸這週在家嗎？ — 不在，他出門旅行了。",
     "vocabIndex": 12
   },
   {
-    "q": "Q: How do I get to the train station? — A: Go straight ______. It's on your left.【向前；在前方】",
+    "q": "Go straight ______ for two blocks. The bank is on your left.",
     "options": [
-      "yet",
+      "together",
       "ahead",
-      "only",
+      "again",
       "abroad"
     ],
     "answer": 1,
@@ -493,23 +493,23 @@ const MCQS = [
     "vocabIndex": 13
   },
   {
-    "q": "Q: Where does Mom keep the cookies? — A: She keeps them ______ in the kitchen. Let's look for them!【某處】",
+    "q": "I can't find my keys. I left them ______ in the house, but I don't know where.",
     "options": [
-      "still",
-      "actually",
+      "together",
+      "again",
       "somewhere",
-      "least"
+      "abroad"
     ],
     "answer": 2,
     "cn": "媽媽把餅乾放在哪裡？ — 她放在廚房的某個地方，我們去找吧！",
     "vocabIndex": 14
   },
   {
-    "q": "Q: What does your mother do? — A: She is a nurse. She ______ teaches English at night.【也】",
+    "q": "My sister can play the piano. She can ______ play the guitar.",
     "options": [
-      "actually",
-      "somewhere",
-      "just",
+      "either",
+      "yet",
+      "too",
       "also"
     ],
     "answer": 3,
@@ -517,47 +517,47 @@ const MCQS = [
     "vocabIndex": 15
   },
   {
-    "q": "Q: I like dogs. Do you like dogs? — A: Yes, I do. I like dogs, ______.【也】",
+    "q": "I like ice cream, and my brother likes it, ______.",
     "options": [
-      "together",
       "too",
-      "again",
-      "twice"
+      "either",
+      "also",
+      "yet"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "我喜歡狗，你喜歡狗嗎？ — 喜歡，我也喜歡狗。",
     "vocabIndex": 16
   },
   {
-    "q": "Q: Ben doesn't like tea. Does his sister like tea? — A: No, she doesn't. She doesn't like tea, ______.【也（不）】",
+    "q": "I don't like coffee, and my sister doesn't like it, ______.",
     "options": [
+      "too",
+      "also",
       "either",
-      "least",
-      "really",
-      "actually"
+      "still"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "班不喜歡茶，他妹妹喜歡茶嗎？ — 不喜歡，她也不喜歡茶。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: Does your grandpa work? He is seventy. — A: Yes, he does. He ______ works on his farm.【仍然】",
+    "q": "It is eleven o'clock at night, but Dad is ______ working in his office.",
     "options": [
-      "no",
-      "actually",
+      "yet",
       "still",
-      "quite"
+      "either",
+      "too"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你爺爺還在工作嗎？他七十歲了。 — 是的，他仍然在他的農場工作。",
     "vocabIndex": 18
   },
   {
-    "q": "Q: Does your little brother go to school? — A: No, he doesn't. He doesn't go to school ______. He is four.【還（沒）】",
+    "q": "I haven't finished my homework ______. I need thirty more minutes.",
     "options": [
-      "quite",
-      "together",
+      "still",
       "too",
+      "either",
       "yet"
     ],
     "answer": 3,
@@ -565,23 +565,23 @@ const MCQS = [
     "vocabIndex": 19
   },
   {
-    "q": "Q: Do you want a big lunch? — A: No, I don't. I ______ want a sandwich.【只是；只】",
+    "q": "I don't want a big meal. I ______ want a sandwich and a glass of water.",
     "options": [
       "yet",
+      "either",
       "just",
-      "finally",
-      "abroad"
+      "too"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你午餐想吃很多嗎？ — 不，我只想要一個三明治。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: How do the cookies taste? — A: They taste ______ good. Can I have more?【非常】",
+    "q": "This box is ______ heavy. I can't lift it by myself.",
     "options": [
-      "maybe",
-      "ever",
-      "together",
+      "yet",
+      "either",
+      "twice",
       "very"
     ],
     "answer": 3,
@@ -589,71 +589,71 @@ const MCQS = [
     "vocabIndex": 21
   },
   {
-    "q": "Q: Do you like the new puppy? — A: Yes, I do. It's ______ cute!【如此地；好】",
+    "q": "The movie was ______ boring that I fell asleep in the theater.",
     "options": [
+      "very",
       "so",
-      "OK",
-      "somewhere",
-      "usually"
+      "quite",
+      "really"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你喜歡這隻新小狗嗎？ — 喜歡，牠好可愛！",
     "vocabIndex": 22
   },
   {
-    "q": "Q: Is the math test hard? — A: No, it isn't. It's ______ easy.【相當】",
+    "q": "The test was ______ easy, but not very easy. I got eighty points.",
     "options": [
-      "still",
-      "really",
       "quite",
-      "finally"
+      "yet",
+      "either",
+      "twice"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "數學考試難嗎？ — 不難，相當簡單。",
     "vocabIndex": 23
   },
   {
-    "q": "Q: Do your parents like the new house? — A: Yes, they do. They ______ like the big garden.【真地】",
+    "q": "Do you ______ want to quit the team? Please think about it again.",
     "options": [
-      "really",
-      "often",
+      "very",
       "yet",
-      "very"
+      "really",
+      "either"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你爸媽喜歡新房子嗎？ — 喜歡，他們真的很喜歡那個大花園。",
     "vocabIndex": 24
   },
   {
-    "q": "Q: Does the movie start soon? — A: Yes, it does. It's ______ seven o'clock.【幾乎；差不多】",
+    "q": "It is ______ ten o'clock. It is 9:58 now, so we have to hurry.",
     "options": [
-      "never",
-      "then",
+      "even",
       "almost",
+      "yet",
       "either"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "電影快開始了嗎？ — 是的，差不多七點了。",
     "vocabIndex": 25
   },
   {
-    "q": "Q: Does Tom run fast? — A: Yes, he does. He runs ______ faster than his big brother.【甚至；更】",
+    "q": "This question is so easy that ______ a little child can answer it.",
     "options": [
-      "either",
       "even",
-      "often",
-      "badly"
+      "almost",
+      "yet",
+      "either"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "湯姆跑得快嗎？ — 快，他甚至跑得比他哥哥還快。",
     "vocabIndex": 26
   },
   {
-    "q": "Q: How many pens do you have? — A: I ______ have one pen. Can I borrow one?【只有；僅】",
+    "q": "I ______ have ten dollars, so I can't buy the fifty-dollar lunch box.",
     "options": [
       "either",
-      "also",
-      "actually",
+      "yet",
+      "too",
       "only"
     ],
     "answer": 3,
@@ -661,154 +661,164 @@ const MCQS = [
     "vocabIndex": 27
   },
   {
-    "q": "Q: Which bag do you want to buy? — A: I want the ______ expensive one. It's $100.【最不】",
+    "q": "This is the ______ expensive phone in the store. It is cheaper than all the others.",
     "options": [
-      "also",
       "least",
-      "still",
+      "most",
+      "very",
       "quite"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你想買哪一個包包？ — 我要最便宜的那個，一百元。",
     "vocabIndex": 28
   },
   {
-    "q": "Q: Does Amy know the answer? — A: ______ she does. Let's ask her.【也許】",
+    "q": "______ it will rain tomorrow. I am not sure, so take an umbrella with you.",
     "options": [
-      "OK",
-      "Ever",
-      "Then",
-      "Maybe"
+      "Never",
+      "Twice",
+      "Maybe",
+      "Together"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "艾美知道答案嗎？ — 也許她知道，我們問她吧。",
     "vocabIndex": 29
   },
   {
-    "q": "Q: What do you want to do this weekend? — A: ______ we can go to the zoo.【或許】",
+    "q": "______ you are right. I am not sure, but let me think about it again.",
     "options": [
-      "Always",
-      "Yes",
+      "Twice",
       "Perhaps",
-      "Sometimes"
+      "Together",
+      "Abroad"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你這個週末想做什麼？ — 或許我們可以去動物園。",
     "vocabIndex": 30
   },
   {
-    "q": "Q: Do we need an umbrella today? — A: Yes, we do. It will ______ rain this afternoon.【很可能】",
+    "q": "It will ______ rain this afternoon. Look at those dark clouds in the sky.",
     "options": [
-      "probably",
-      "ahead",
-      "yet",
-      "quite"
+      "maybe",
+      "twice",
+      "abroad",
+      "probably"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "我們今天需要帶傘嗎？ — 需要，今天下午很可能會下雨。",
     "vocabIndex": 31
   },
   {
-    "q": "Q: Does Mr. Smith come from America? — A: No, he doesn't. ______, he comes from Canada.【事實上】",
+    "q": "He looks very young, but he is ______ fifty years old.",
     "options": [
-      "Too",
-      "Least",
-      "Actually",
-      "Either"
+      "twice",
+      "actually",
+      "together",
+      "abroad"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "史密斯先生來自美國嗎？ — 不是，事實上，他來自加拿大。",
     "vocabIndex": 32
   },
   {
-    "q": "Q: What do you do after school? — A: I do my homework first, and ______ I play games.【然後；那時】",
+    "q": "First, wash the rice. ______, put it in the pot with some water.",
     "options": [
-      "then",
-      "quite",
-      "ever",
-      "either"
+      "Never",
+      "Twice",
+      "Abroad",
+      "Then"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "你放學後做什麼？ — 我先寫功課，然後玩遊戲。",
     "vocabIndex": 33
   },
   {
-    "q": "Q: How long does Tom wait for the bus? — A: He waits for thirty minutes, and the bus ______ comes.【終於；最後】",
+    "q": "After we waited for two hours, the bus ______ came.",
     "options": [
-      "no",
-      "either",
-      "quite",
-      "finally"
+      "twice",
+      "abroad",
+      "finally",
+      "together"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "湯姆等公車等多久？ — 他等了三十分鐘，公車終於來了。",
     "vocabIndex": 34
   },
   {
-    "q": "Q: Do you like apples? — A: ______, I do. They are sweet.【是；對】",
+    "q": "\"Do you like dogs?\" \"______, I do. I have two at home.\"",
     "options": [
-      "Always",
       "Yes",
-      "Perhaps",
-      "Sometimes"
+      "No",
+      "Not",
+      "Never"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你喜歡蘋果嗎？ — 是的，我喜歡，它們很甜。",
     "vocabIndex": 35
   },
   {
-    "q": "Q: Does Lisa have a pet? — A: ______, she doesn't. Her mom doesn't like animals.【不；沒有】",
+    "q": "\"Are you a student?\" \"______, I'm not. I'm a teacher.\"",
     "options": [
-      "Only",
-      "Usually",
+      "Yes",
       "No",
+      "Not",
       "OK"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "麗莎有養寵物嗎？ — 沒有，她媽媽不喜歡動物。",
     "vocabIndex": 36
   },
   {
-    "q": "Q: Does Ben like math? — A: No, he does ______. He likes English.【不（否定）】",
+    "q": "I am ______ hungry now. I just had a big lunch.",
     "options": [
-      "not",
-      "too",
-      "seldom",
-      "quite"
+      "no",
+      "yes",
+      "twice",
+      "not"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "班喜歡數學嗎？ — 不，他不喜歡，他喜歡英文。",
     "vocabIndex": 37
   },
   {
-    "q": "Q: Can I sit here? — A: ______. Sit down, please.【好；可以】",
+    "q": "\"Can I borrow your pen?\" \"______. Here you are.\"",
     "options": [
+      "OK",
+      "No",
       "Not",
-      "Together",
-      "Yet",
-      "OK"
+      "Never"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "我可以坐這裡嗎？ — 好，請坐。",
     "vocabIndex": 38
   }
 ];
 
 const LOOKUP = {
-  "ok": {
-    "pos": "adj.",
-    "en_def": "all right; fine",
-    "cn_def": "沒問題的"
+  "seldom": {
+    "pos": "adv.",
+    "en_def": "not often",
+    "cn_def": "很少"
   },
-  "only": {
-    "pos": "adj.",
-    "en_def": "with no other one of the same kind",
-    "cn_def": "唯一的"
+  "never": {
+    "pos": "adv.",
+    "en_def": "not at any time",
+    "cn_def": "從不"
   },
   "always": {
     "pos": "adv.",
     "en_def": "every time; all the time",
     "cn_def": "總是"
+  },
+  "twice": {
+    "pos": "adv.",
+    "en_def": "two times",
+    "cn_def": "兩次"
+  },
+  "abroad": {
+    "pos": "adv.",
+    "en_def": "in or to another country",
+    "cn_def": "在國外"
   },
   "usually": {
     "pos": "adv.",
@@ -825,25 +835,10 @@ const LOOKUP = {
     "en_def": "on some days or times, but not always",
     "cn_def": "有時候"
   },
-  "seldom": {
-    "pos": "adv.",
-    "en_def": "not often",
-    "cn_def": "很少"
-  },
-  "never": {
-    "pos": "adv.",
-    "en_def": "not at any time",
-    "cn_def": "從不"
-  },
   "ever": {
     "pos": "adv.",
     "en_def": "at any time",
     "cn_def": "曾經；有時"
-  },
-  "twice": {
-    "pos": "adv.",
-    "en_def": "two times",
-    "cn_def": "兩次"
   },
   "badly": {
     "pos": "adv.",
@@ -860,50 +855,45 @@ const LOOKUP = {
     "en_def": "one more time",
     "cn_def": "再一次"
   },
-  "abroad": {
+  "ahead": {
     "pos": "adv.",
-    "en_def": "in or to another country",
-    "cn_def": "在國外"
+    "en_def": "in front; forward",
+    "cn_def": "向前；在前方"
   },
   "away": {
     "pos": "adv.",
     "en_def": "not here; in another place",
     "cn_def": "離開；不在"
   },
-  "ahead": {
-    "pos": "adv.",
-    "en_def": "in front; forward",
-    "cn_def": "向前；在前方"
-  },
   "somewhere": {
     "pos": "adv.",
     "en_def": "in a place, but we do not know or say where",
     "cn_def": "某處"
-  },
-  "also": {
-    "pos": "adv.",
-    "en_def": "too; as well",
-    "cn_def": "也"
-  },
-  "too": {
-    "pos": "adv.",
-    "en_def": "also; as well",
-    "cn_def": "也"
   },
   "either": {
     "pos": "adv.",
     "en_def": "also (used with \"not\")",
     "cn_def": "也（不）"
   },
-  "still": {
-    "pos": "adv.",
-    "en_def": "continuing until now",
-    "cn_def": "仍然"
-  },
   "yet": {
     "pos": "adv.",
     "en_def": "up to now (used with \"not\")",
     "cn_def": "還（沒）"
+  },
+  "too": {
+    "pos": "adv.",
+    "en_def": "also; as well",
+    "cn_def": "也"
+  },
+  "also": {
+    "pos": "adv.",
+    "en_def": "too; as well",
+    "cn_def": "也"
+  },
+  "still": {
+    "pos": "adv.",
+    "en_def": "continuing until now",
+    "cn_def": "仍然"
   },
   "just": {
     "pos": "adv.",
@@ -930,20 +920,30 @@ const LOOKUP = {
     "en_def": "very; truly",
     "cn_def": "真地"
   },
-  "almost": {
-    "pos": "adv.",
-    "en_def": "nearly; not quite",
-    "cn_def": "幾乎；差不多"
-  },
   "even": {
     "pos": "adv.",
     "en_def": "used to make \"more\" or \"faster\" stronger; used to show surprise",
     "cn_def": "甚至；更"
   },
+  "almost": {
+    "pos": "adv.",
+    "en_def": "nearly; not quite",
+    "cn_def": "幾乎；差不多"
+  },
+  "only": {
+    "pos": "adj.",
+    "en_def": "with no other one of the same kind",
+    "cn_def": "唯一的"
+  },
   "least": {
     "pos": "adv.",
     "en_def": "less than all the others",
     "cn_def": "最不"
+  },
+  "most": {
+    "pos": "adv.",
+    "en_def": "",
+    "cn_def": "最"
   },
   "maybe": {
     "pos": "adv.",
@@ -989,6 +989,11 @@ const LOOKUP = {
     "pos": "adv.",
     "en_def": "a word that gives the opposite meaning",
     "cn_def": "不（否定）"
+  },
+  "ok": {
+    "pos": "adj.",
+    "en_def": "all right; fine",
+    "cn_def": "沒問題的"
   }
 };
 

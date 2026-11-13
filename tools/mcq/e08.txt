@@ -1,0 +1,116 @@
+#38
+bright | The sun is very ____ today. I need to wear my sunglasses when I go out. | dark | dirty | dead
+dark | It is ____ outside at night. You need a light to see the road. | bright | sharp | fresh
+dirty | Your hands are ____. Wash them with soap before you eat. | tidy | sharp | thick
+tidy | Amy's room is always clean and ____. Everything is in the right place. | dirty | sharp | dead
+dead | The flowers are ____ because nobody gave them water for two weeks. | fresh | sharp | thick
+sharp | Be careful with that knife. It is very ____ and can cut your finger. | thick | fresh | tidy
+thick | This dictionary is very ____. It has more than two thousand pages. | sharp | fresh | dead
+fresh | These vegetables are ____. The farmer picked them from the field this morning. | dead | sharp | thick
+terrible | The weather was ____ yesterday. It rained all day, and the wind was very strong. | great | fine | wonderful
+great | We had a ____ time at the party. Everyone laughed and danced all night. | terrible | strange | quiet
+fine | "How are you today?" "I'm ____, thank you. And you?" | terrible | loud | strange
+loud | The music is too ____. Please turn it down, because my ears hurt. | quiet | fine | strange
+noisy | The classroom is very ____ because all the students are talking and laughing at the same time. | quiet | fine | fresh
+quiet | Please be ____ in the library. People are reading and studying here. | noisy | loud | strange
+strange | I heard a ____ noise in the kitchen last night. I didn't know what it was, so I was scared. | quiet | fine | easy
+wonderful | Thank you for the ____ dinner. Everything was delicious, and we had a very good time. | terrible | strange | noisy
+easy | The test was very ____. Everyone in the class got 100. | hard | wrong | strange
+simple | The rules of this game are ____. Even a five-year-old child can understand them. | wrong | hard | loud
+hard | The math problem is too ____ for me. I have tried for an hour, but I still can't answer it. | easy | simple | safe
+correct | Your answer is ____. You got it right, so you get ten points. | wrong | hard | same
+right | You are ____. Taipei 101 is the tallest building in Taiwan. I was wrong about that. | free | safe | same
+wrong | I am sorry. I think you have the ____ number. There is no Tom here. | right | correct | true
+true | Is it ____ that you are moving to Japan? Yes, we are leaving next month. | wrong | safe | free
+real | This is not a toy gun. It is a ____ one, so don't touch it. | free | same | wrong
+safe | Don't swim in this river. It is not ____ because the water is deep and fast. | free | same | true
+free | You don't have to pay for the drinks. They are ____ today. | safe | same | real
+same | Amy and I are in the ____ class. We sit next to each other. | different | free | safe
+different | The two brothers look very ____. One is tall and thin, but the other is short and fat. | same | free | safe
+common | Chen and Lin are very ____ family names in Taiwan. Millions of people have them. | foreign | lucky | public
+public | This is a ____ library. Everyone in the city can come in and read the books. | lucky | foreign | serious
+foreign | I want to learn a ____ language, like Japanese or French. | lucky | public | common
+lucky | I was ____ to find my lost wallet. All my money was still in it. | foreign | public | serious
+helpful | The clerk was very ____. She showed me where everything was and carried my bags. | serious | modern | magic
+useful | A dictionary is very ____ when you learn English. You can look up new words in it. | serious | lucky | magic
+convenient | It is very ____ to live near an MRT station. You can go anywhere quickly and easily. | serious | magic | foreign
+excellent | Lisa is an ____ student. She gets the best grades in her class. | important | interesting | easy
+serious | The car accident was very ____. Five people were badly hurt and taken to the hospital. | lucky | helpful | modern
+magic | The man did a ____ trick. He pulled a rabbit out of an empty hat! | serious | modern | convenient
+pop | My sister loves ____ music. She listens to the newest songs by young singers every day. | serious | magic | convenient
+modern | This is a ____ building with a lot of glass. It was built only last year. | serious | magic | lucky
+difficult | It is ____ to learn Chinese characters. Many foreigners take years to do it. | popular | special | dangerous
+dangerous | It is ____ to play on the street. A car may hit you. | popular | special | interesting
+interesting | This book is very ____. I can't stop reading it. | dangerous | difficult | important
+important | It is ____ to eat breakfast. Your body needs food to start the day. | dangerous | popular | difficult
+popular | This singer is very ____ in Asia. Millions of young people love her songs. | dangerous | difficult | important
+special | Today is a ____ day. It is my parents' twentieth wedding anniversary. | dangerous | difficult | popular
+newer | My phone is ____ than yours. I bought it last week, but you bought yours two years ago. | older | shorter | taller
+latest | Have you heard the singer's ____ song? It just came out yesterday. | oldest | longest | tallest
+able | After a year of practice, Ben is ____ to swim 500 meters without stopping. | afraid | sorry | glad
+afraid | Many children are ____ of the dark. They can't sleep without a light. | able | glad | sure
+scared | I was so ____ when I saw the snake that I couldn't move or shout. | ready | glad | sure
+glad | I am ____ to see you again. It has been a long time! | sorry | afraid | able
+sorry | I am ____ I broke your cup. I will buy you a new one. | glad | sure | ready
+sure | Are you ____ this is the right bus? I don't want to get on the wrong one. | sorry | glad | afraid
+surprised | I was ____ to see my old friend at the party. I didn't know he was in Taipei. | ready | able | sure
+ready | Dinner is ____. Please come to the table now. | sorry | afraid | sure
+OK | "Is it ____ if I sit here?" "Sure. Nobody is using this chair." | sorry | afraid | able
+possible | Is it ____ to get to the airport in twenty minutes? No, it is too far. | favorite | dear | national
+favorite | Pizza is my ____ food. I like it more than anything else. | possible | dear | present
+own | I don't share a room with my sister now. I have my ____ room. | else | only | enough
+only | Ben is the ____ boy in the dance club. All the other members are girls. | else | own | enough
+other | I have two brothers. One is a doctor, and the ____ one is a teacher. | else | own | enough
+else | I want a hamburger and a Coke. I don't want anything ____. | own | only | main
+enough | We have five people but only four chairs. There are not ____ chairs for everyone. | else | own | main
+main | Rice is the ____ food in Taiwan. People eat it at almost every meal. | else | dear | present
+national | October 10 is the ____ holiday of the R.O.C. The whole country celebrates it. | dear | present | else
+American | The hamburger is a famous ____ food. People in the U.S.A. eat a lot of them. | dear | present | else
+present | All thirty students are ____ today. Nobody is absent. | dear | main | national
+Dear | "____ Grandma, how are you? I miss you very much," Amy wrote at the top of her letter. | Main | Present | National
+#39
+always | Lisa is never late. She ____ comes to school on time. | seldom | never | twice
+usually | I ____ walk to school, but today I took the bus because of the rain. | never | twice | abroad
+often | I ____ go to the library, about three or four times a week. | never | seldom | twice
+sometimes | I usually have rice for dinner, but ____ I have noodles. | never | twice | abroad
+seldom | Ben ____ eats candy. He only has some once or twice a year. | always | often | usually
+never | I have ____ been to Japan. I hope to go there for the first time next year. | always | often | twice
+ever | Have you ____ seen a panda? Yes, I saw one at the zoo last year. | never | twice | badly
+twice | I brush my teeth ____ a day, once in the morning and once at night. | never | ever | badly
+badly | Our team played ____ today, so we lost the game 0 to 5. | together | again | abroad
+together | My family always eats dinner ____. We sit at one big table and talk. | abroad | badly | ahead
+again | I didn't hear you. Could you say that ____, please? | abroad | badly | ahead
+abroad | My sister is studying ____. She has been in America for two years. | together | again | ahead
+away | Go ____! I don't want to talk to you now. | together | again | twice
+ahead | Go straight ____ for two blocks. The bank is on your left. | together | again | abroad
+somewhere | I can't find my keys. I left them ____ in the house, but I don't know where. | together | again | abroad
+also | My sister can play the piano. She can ____ play the guitar. | either | yet | too
+too | I like ice cream, and my brother likes it, ____. | either | also | yet
+either | I don't like coffee, and my sister doesn't like it, ____. | too | also | still
+still | It is eleven o'clock at night, but Dad is ____ working in his office. | yet | either | too
+yet | I haven't finished my homework ____. I need thirty more minutes. | still | too | either
+just | I don't want a big meal. I ____ want a sandwich and a glass of water. | yet | either | too
+very | This box is ____ heavy. I can't lift it by myself. | yet | either | twice
+so | The movie was ____ boring that I fell asleep in the theater. | very | quite | really
+quite | The test was ____ easy, but not very easy. I got eighty points. | yet | either | twice
+really | Do you ____ want to quit the team? Please think about it again. | very | yet | either
+almost | It is ____ ten o'clock. It is 9:58 now, so we have to hurry. | even | yet | either
+even | This question is so easy that ____ a little child can answer it. | almost | yet | either
+only | I ____ have ten dollars, so I can't buy the fifty-dollar lunch box. | either | yet | too
+least | This is the ____ expensive phone in the store. It is cheaper than all the others. | most | very | quite
+Maybe | ____ it will rain tomorrow. I am not sure, so take an umbrella with you. | Never | Twice | Together
+Perhaps | ____ you are right. I am not sure, but let me think about it again. | Twice | Together | Abroad
+probably | It will ____ rain this afternoon. Look at those dark clouds in the sky. | maybe | twice | abroad
+actually | He looks very young, but he is ____ fifty years old. | twice | together | abroad
+Then | First, wash the rice. ____, put it in the pot with some water. | Never | Twice | Abroad
+finally | After we waited for two hours, the bus ____ came. | twice | abroad | together
+Yes | "Do you like dogs?" "____, I do. I have two at home." | No | Not | Never
+No | "Are you a student?" "____, I'm not. I'm a teacher." | Yes | Not | OK
+not | I am ____ hungry now. I just had a big lunch. | no | yes | twice
+OK | "Can I borrow your pen?" "____. Here you are." | No | Not | Never
+@ older = adj. 較舊的；較老的
+@ oldest = adj. 最舊的；最老的
+@ longest = adj. 最長的
+@ tallest = adj. 最高的
+@ taller = adj. 較高的
+@ most = adv. 最

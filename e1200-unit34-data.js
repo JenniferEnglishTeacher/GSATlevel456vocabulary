@@ -466,131 +466,131 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: Who is Mr. Brown? — A: He is our English teacher. He is an ______ from New York.【美國人】",
+    "q": "Mr. Smith is an ______. He was born in New York, but he lives in Taipei now.",
     "options": [
-      "Report",
       "American",
-      "Tip",
-      "Program"
+      "age",
+      "idea",
+      "error"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "布朗先生是誰？ — 他是我們的英文老師，他是來自紐約的美國人。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: Who are those people at the night market? — A: They are ______. They come from Japan and Korea.【外國人】",
+    "q": "Many ______ visit Taiwan every year. They come from Japan, Korea, America, and other countries.",
     "options": [
-      "tricks",
-      "jokes",
+      "members",
       "foreigners",
-      "interests"
+      "leaders",
+      "players"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "夜市裡那些人是誰？ — 他們是外國人，來自日本和韓國。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: Who is that tall boy? — A: He is Tom, our team ______. Everyone listens to him.【領導者；隊長】",
+    "q": "Amy is the ______ of our group. She tells us what to do and helps us work together.",
     "options": [
+      "foreigner",
+      "prize",
       "leader",
-      "pleasure",
-      "sale",
-      "god"
+      "habit"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "那個高高的男孩是誰？ — 他是湯姆，我們的隊長，大家都聽他的。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: Does Amy join the music club? — A: Yes, she does. She is a ______ of the club.【成員；會員】",
+    "q": "Our basketball club has twenty ______. We all meet and practice every Friday.",
     "options": [
-      "chance",
-      "kind",
-      "service",
-      "member"
+      "prizes",
+      "habits",
+      "rules",
+      "members"
     ],
     "answer": 3,
     "cn": "艾美有參加音樂社嗎？ — 有，她是社團的成員。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: Who are those boys in the park? — A: They are basketball ______. They play every Sunday.【球員；選手】",
+    "q": "There are five ______ on a basketball team. They all run fast and jump high.",
     "options": [
-      "mistakes",
       "players",
-      "cheers",
-      "tricks"
+      "foreigners",
+      "prizes",
+      "topics"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "公園裡那些男孩是誰？ — 他們是籃球員，他們每個星期日都打球。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: What does your brother do after school? — A: He plays the drums in a ______.【樂團】",
+    "q": "My brother plays the drums in a rock ______. They have a show this Saturday night.",
     "options": [
-      "tip",
-      "club",
-      "group",
-      "band"
+      "prize",
+      "band",
+      "habit",
+      "reason"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "你哥哥放學後做什麼？ — 他在一個樂團裡打鼓。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: What club do you join? — A: I join the English ______.【社團】",
+    "q": "I joined the school chess ______. We meet and play every Wednesday after class.",
     "options": [
-      "party",
-      "experience",
+      "prize",
+      "reason",
       "club",
-      "member"
+      "age"
     ],
     "answer": 2,
     "cn": "你參加什麼社團？ — 我參加英文社。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: Who do you study with? — A: I study with my friends. We have a study ______.【團體；小組】",
+    "q": "The teacher put us into ______ of four. Each one has to make a poster together.",
     "options": [
-      "group",
-      "matter",
-      "American",
-      "god"
+      "prizes",
+      "habits",
+      "voices",
+      "group"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "你和誰一起讀書？ — 我和朋友們一起讀書，我們有一個讀書小組。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: Who do people pray to in the church? — A: They pray to ______.【上帝；神】",
+    "q": "Many people go to church on Sunday to pray to ______. They believe He made the world.",
     "options": [
-      "Order",
-      "Band",
+      "Eve",
       "God",
-      "Reason"
+      "Age",
+      "Fun"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "人們在教堂裡向誰禱告？ — 他們向上帝禱告。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: Does Lisa have a chance to go to Japan? — A: Yes, she does. She has a ______ to visit her aunt there.【機會】",
+    "q": "This is your last ______ to pass the test. If you fail again, you can't try another time.",
     "options": [
-      "sentence",
+      "habit",
+      "voice",
       "chance",
-      "club",
-      "mind"
+      "age"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "麗莎有機會去日本嗎？ — 有，她有機會去那裡拜訪她的阿姨。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: What do we have for lunch? — A: We have two ______: noodles or rice.【選擇】",
+    "q": "You have two ______: you can stay home or come with us. Which one do you want?",
     "options": [
-      "players",
-      "interests",
-      "cheers",
+      "voices",
+      "prizes",
+      "ages",
       "choices"
     ],
     "answer": 3,
@@ -598,23 +598,23 @@ const MCQS = [
     "vocabIndex": 10
   },
   {
-    "q": "Q: How can we make Mom happy on Mother's Day? — A: I have a good ______. Let's make a cake for her.【主意；想法】",
+    "q": "I have a good ______! Let's have a picnic by the river this Sunday.",
     "options": [
       "idea",
-      "subject",
-      "tip",
-      "pleasure"
+      "habit",
+      "voice",
+      "age"
     ],
     "answer": 0,
     "cn": "母親節我們要怎麼讓媽媽開心？ — 我有一個好主意，我們來為她做一個蛋糕吧。",
     "vocabIndex": 11
   },
   {
-    "q": "Q: Does your dad get up early every day? — A: Yes, he does. It's his good ______.【習慣】",
+    "q": "Ben has a bad ______. He bites his nails when he is nervous.",
     "options": [
-      "trouble",
-      "interview",
-      "sale",
+      "prize",
+      "chance",
+      "voice",
       "habit"
     ],
     "answer": 3,
@@ -622,47 +622,47 @@ const MCQS = [
     "vocabIndex": 12
   },
   {
-    "q": "Q: Does your mom cook well? — A: Yes, she does. She has a lot of ______ in cooking.【經驗】",
+    "q": "Mr. Lin has ten years of ______ as a teacher, so he knows how to help students learn.",
     "options": [
-      "sight",
-      "error",
+      "trouble",
+      "fun",
       "experience",
-      "eve"
+      "sight"
     ],
     "answer": 2,
     "cn": "你媽媽很會煮飯嗎？ — 是的，她有很多煮飯的經驗。",
     "vocabIndex": 13
   },
   {
-    "q": "Q: Do you need help with your homework? — A: Yes, I do. I have ______ with the math questions.【麻煩；困難】",
+    "q": "Ben is in ______ again. He broke the classroom window with a ball.",
     "options": [
+      "fun",
       "trouble",
-      "program",
-      "sale",
-      "American"
+      "age",
+      "sight"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你的功課需要幫忙嗎？ — 需要，我數學題目有困難。",
     "vocabIndex": 14
   },
   {
-    "q": "Q: Does Ben get 100 on the test? — A: No, he doesn't. He makes two ______.【錯誤】",
+    "q": "I made three ______ on the spelling test. I wrote the wrong letters in those words.",
     "options": [
-      "cheers",
       "mistakes",
-      "players",
-      "foreigners"
+      "prizes",
+      "parties",
+      "voices"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "班考試考一百分嗎？ — 沒有，他犯了兩個錯誤。",
     "vocabIndex": 15
   },
   {
-    "q": "Q: Is your answer right? — A: No, it isn't. There is an ______ in it.【錯誤】",
+    "q": "The computer says there is an ______. Something is wrong, and I can't open the file.",
     "options": [
-      "level",
-      "American",
-      "tip",
+      "age",
+      "idea",
+      "excuse",
       "error"
     ],
     "answer": 3,
@@ -670,131 +670,131 @@ const MCQS = [
     "vocabIndex": 16
   },
   {
-    "q": "Q: Why does Tom come late again? — A: He says he gets up late. That's not a good ______.【藉口】",
+    "q": "\"The bus was late\" is his ______ every time. He never says the real reason.",
     "options": [
-      "habit",
-      "American",
+      "prize",
+      "voice",
       "excuse",
-      "fun"
+      "age"
     ],
     "answer": 2,
     "cn": "湯姆為什麼又遲到了？ — 他說他太晚起床，那不是個好藉口。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: Why do you study English every day? — A: I want to talk to people from other countries. That's my ______.【理由；原因】",
+    "q": "What is the ______ for your being late? Did you miss the bus?",
     "options": [
-      "member",
+      "prize",
       "reason",
-      "trouble",
-      "habit"
+      "voice",
+      "age"
     ],
     "answer": 1,
     "cn": "你為什麼每天讀英文？ — 我想和其他國家的人說話，那就是我的理由。",
     "vocabIndex": 18
   },
   {
-    "q": "Q: Does your grandpa read the newspaper without glasses? — A: No, he doesn't. He has poor ______.【視力】",
+    "q": "Grandpa's ______ is not good now. He can't read the newspaper without his glasses.",
     "options": [
       "sight",
-      "club",
-      "band",
-      "fun"
+      "voice",
+      "age",
+      "dream"
     ],
     "answer": 0,
     "cn": "你爺爺不戴眼鏡看報紙嗎？ — 不，他視力不好。",
     "vocabIndex": 19
   },
   {
-    "q": "Q: Does Amy sing well? — A: Yes, she does. She has a beautiful ______.【聲音；嗓音】",
+    "q": "The singer has a beautiful ______. Everyone loves to hear her sing.",
     "options": [
-      "way",
+      "sight",
+      "age",
       "voice",
-      "birthday",
-      "matter"
+      "tip"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "艾美唱歌好聽嗎？ — 好聽，她有美妙的嗓音。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: What does Ms. Lin have this afternoon? — A: She has a ______ with other teachers.【會議】",
+    "q": "The teachers have a ______ at four today. They will sit together and talk about the school trip.",
     "options": [
-      "party",
-      "reason",
-      "meeting",
-      "action"
+      "prize",
+      "tip",
+      "smile",
+      "meeting"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "林老師今天下午有什麼事？ — 她和其他老師有一個會議。",
     "vocabIndex": 21
   },
   {
-    "q": "Q: What do you have on Saturday? — A: We have a birthday ______ for Amy.【派對】",
+    "q": "We are having a birthday ______ for Amy on Saturday. There will be cake, games, and music.",
     "options": [
       "party",
-      "leader",
-      "excuse",
-      "mind"
+      "tip",
+      "sight",
+      "reason"
     ],
     "answer": 0,
     "cn": "你們星期六有什麼活動？ — 我們要為艾美辦一個生日派對。",
     "vocabIndex": 22
   },
   {
-    "q": "Q: Where does your sister go today? — A: She goes to a big company. She has a job ______.【面試；採訪】",
+    "q": "I have a job ______ at the bank tomorrow. The boss will ask me a lot of questions.",
     "options": [
-      "leader",
-      "club",
-      "mind",
-      "interview"
+      "prize",
+      "interview",
+      "smile",
+      "joke"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "你姊姊今天去哪裡？ — 她去一家大公司，她有一個工作面試。",
     "vocabIndex": 23
   },
   {
-    "q": "Q: What do you need to write for English class? — A: I need to write a book ______.【報告；報導】",
+    "q": "We have to write a ______ about animals for science class. Mine is about pandas, and it is three pages long.",
     "options": [
+      "tip",
+      "smile",
       "report",
-      "matter",
-      "club",
-      "reason"
+      "prize"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "英文課你需要寫什麼？ — 我需要寫一份讀書報告。",
     "vocabIndex": 24
   },
   {
-    "q": "Q: Why do so many people go to the store today? — A: There is a big ______. Everything is cheap.【特價；出售】",
+    "q": "The department store is having a big ______ this week. Everything is thirty percent off.",
     "options": [
-      "sight",
-      "fact",
       "sale",
-      "mind"
+      "tip",
+      "joke",
+      "dream"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "今天為什麼這麼多人去那家店？ — 有大特價，所有東西都很便宜。",
     "vocabIndex": 25
   },
   {
-    "q": "Q: What does Tom get in the race? — A: He gets first ______. It's a new bike.【獎品；獎】",
+    "q": "Lisa won first ______ in the singing contest. She got a new bike.",
     "options": [
-      "chance",
+      "tip",
       "prize",
       "age",
-      "interview"
+      "habit"
     ],
     "answer": 1,
     "cn": "湯姆在賽跑中得到什麼？ — 他得到第一名的獎品，是一輛新腳踏車。",
     "vocabIndex": 26
   },
   {
-    "q": "Q: Do we need to pay for dinner tonight? — A: No, we don't. It's Dad's ______.【請客】",
+    "q": "Put your wallet away. Dinner is my ______ tonight, so you don't have to pay.",
     "options": [
-      "prize",
-      "voice",
-      "error",
+      "tip",
+      "rule",
+      "age",
       "treat"
     ],
     "answer": 3,
@@ -802,47 +802,47 @@ const MCQS = [
     "vocabIndex": 27
   },
   {
-    "q": "Q: What does Dad give the waiter? — A: He gives him a ______.【小費】",
+    "q": "The waiter was very nice, so my dad left him a one-hundred-dollar ______ on the table.",
     "options": [
-      "order",
-      "tip",
+      "rule",
       "prize",
-      "rule"
+      "tip",
+      "joke"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "爸爸給服務生什麼？ — 他給他小費。",
     "vocabIndex": 28
   },
   {
-    "q": "Q: What does the waiter say? — A: He says, \"May I take your ______?\"【點餐；訂單】",
+    "q": "The waiter wrote down our ______: two steaks and one salad.",
     "options": [
-      "birthday",
-      "prize",
       "order",
-      "American"
+      "tip",
+      "age",
+      "rule"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "服務生說什麼？ — 他說：「我可以幫您點餐嗎？」",
     "vocabIndex": 29
   },
   {
-    "q": "Q: Do you like this restaurant? — A: Yes, I do. The food is good, and the ______ is great, too.【服務】",
+    "q": "The food is good at this restaurant, but the ______ is slow. The waiters take too long.",
     "options": [
+      "age",
       "service",
-      "chance",
-      "birthday",
-      "sentence"
+      "sight",
+      "dream"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你喜歡這家餐廳嗎？ — 喜歡，食物很好吃，服務也很棒。",
     "vocabIndex": 30
   },
   {
-    "q": "Q: What do you do on Chinese New Year's ______? — A: We eat a big dinner with our family.【前夕】",
+    "q": "On Chinese New Year's ______, the whole family eats a big dinner together and stays up late.",
     "options": [
-      "Treat",
-      "Chance",
-      "Group",
+      "Age",
+      "Fun",
+      "Tip",
       "Eve"
     ],
     "answer": 3,
@@ -850,215 +850,215 @@ const MCQS = [
     "vocabIndex": 31
   },
   {
-    "q": "Q: What's your grandma's ______? — A: She is seventy years old.【年齡】",
+    "q": "Children can start school at the ______ of six. My brother is five, so he has to wait a year.",
     "options": [
-      "party",
-      "sight",
       "age",
-      "band"
+      "tip",
+      "rule",
+      "joke"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你奶奶幾歲？ — 她七十歲。",
     "vocabIndex": 32
   },
   {
-    "q": "Q: When is your ______? — A: It's on May 5th.【生日】",
+    "q": "Today is my ______. I am thirteen years old now, and my friends are giving me a party.",
     "options": [
-      "subject",
-      "idea",
-      "American",
-      "birthday"
+      "habit",
+      "voice",
+      "birthday",
+      "rule"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "你的生日是什麼時候？ — 在五月五日。",
     "vocabIndex": 33
   },
   {
-    "q": "Q: What's your sister's ______? — A: She wants to be a singer.【夢想】",
+    "q": "My ______ is to be a doctor. I hope it will come true one day.",
     "options": [
-      "dream",
-      "trouble",
       "age",
-      "group"
+      "tip",
+      "sight",
+      "dream"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "你姊姊的夢想是什麼？ — 她想當歌手。",
     "vocabIndex": 34
   },
   {
-    "q": "Q: What ______ does Ben have? — A: He likes reading and playing chess.【興趣】",
+    "q": "My two main ______ are music and sports. I spend all my free time on them.",
     "options": [
-      "jokes",
+      "ages",
       "interests",
-      "stories",
-      "choices"
+      "tips",
+      "voices"
     ],
     "answer": 1,
     "cn": "班有什麼興趣？ — 他喜歡閱讀和下西洋棋。",
     "vocabIndex": 35
   },
   {
-    "q": "Q: What's your favorite ______? — A: It's math.【科目】",
+    "q": "Math is my favorite ______ at school. I also like science and English.",
     "options": [
-      "trouble",
-      "American",
-      "idea",
-      "subject"
+      "sentence",
+      "joke",
+      "subject",
+      "tip"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "你最喜歡的科目是什麼？ — 是數學。",
     "vocabIndex": 36
   },
   {
-    "q": "Q: What's the ______ of today's class? — A: It's animals.【主題；話題】",
+    "q": "The ______ of today's talk is \"How to Stay Healthy.\" The speaker will talk about food and exercise.",
     "options": [
+      "tip",
       "smile",
-      "report",
-      "topic",
-      "order"
+      "age",
+      "topic"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "今天上課的主題是什麼？ — 是動物。",
     "vocabIndex": 37
   },
   {
-    "q": "Q: What does this ______ mean? — A: It means \"happy.\"【字；單字】",
+    "q": "What does this ______ mean? I can't find it in my dictionary.",
     "options": [
       "word",
-      "pleasure",
-      "matter",
-      "reason"
+      "smile",
+      "tip",
+      "age"
     ],
     "answer": 0,
     "cn": "這個字是什麼意思？ — 它的意思是「快樂的」。",
     "vocabIndex": 38
   },
   {
-    "q": "Q: What's the first ______ on page 10? — A: It's \"Tom has a cat.\"【句子】",
+    "q": "Please make a ______ with the word \"happy,\" like \"I am happy today.\"",
     "options": [
-      "sale",
+      "smile",
       "sentence",
-      "experience",
-      "club"
+      "tip",
+      "level"
     ],
     "answer": 1,
     "cn": "第十頁的第一個句子是什麼？ — 是「湯姆有一隻貓」。",
     "vocabIndex": 39
   },
   {
-    "q": "Q: What's the ______ to the station? — A: Go straight and turn left.【道路；方法】",
+    "q": "Can you tell me the ______ to the station? I think I am lost.",
     "options": [
       "rule",
-      "fun",
-      "way",
-      "group"
+      "joke",
+      "fact",
+      "way"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "去車站的路怎麼走？ — 直走然後左轉。",
     "vocabIndex": 40
   },
   {
-    "q": "Q: What's the ______? — A: I have a headache.【事情；問題】",
+    "q": "What's the ______ with you? You look sad today.",
     "options": [
-      "habit",
-      "level",
-      "age",
-      "matter"
+      "rule",
+      "matter",
+      "joke",
+      "level"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "怎麼了？ — 我頭痛。",
     "vocabIndex": 41
   },
   {
-    "q": "Q: What ______ of music do you like? — A: I like pop music.【種類】",
+    "q": "What ______ of music do you like, pop or rock?",
     "options": [
-      "party",
       "kind",
-      "band",
-      "order"
+      "level",
+      "rule",
+      "fact"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你喜歡哪一種音樂？ — 我喜歡流行音樂。",
     "vocabIndex": 42
   },
   {
-    "q": "Q: What's the ______ of this book? — A: It's easy. Children can read it.【程度；等級】",
+    "q": "This book is too hard for me. I need one at an easier ______.",
     "options": [
+      "joke",
+      "smile",
       "level",
-      "reason",
-      "god",
-      "service"
+      "fact"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "這本書的程度如何？ — 很簡單，小孩子都能讀。",
     "vocabIndex": 43
   },
   {
-    "q": "Q: You look worried. What's on your ______? — A: I'm worried about the math test.【頭腦；心思】",
+    "q": "I can't make up my ______. Should I buy the red one or the blue one?",
     "options": [
-      "matter",
-      "program",
-      "order",
-      "mind"
+      "mind",
+      "rule",
+      "joke",
+      "fact"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你看起來很擔心，你在想什麼？ — 我在擔心數學考試。",
     "vocabIndex": 44
   },
   {
-    "q": "Q: What's the first ______ in your class? — A: Don't be late for class.【規則】",
+    "q": "We must follow the school ______. For example, we can't use cellphones in class.",
     "options": [
-      "fun",
-      "rule",
-      "subject",
-      "group"
+      "jokes",
+      "smiles",
+      "rules",
+      "facts"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你們班的第一條規則是什麼？ — 上課不要遲到。",
     "vocabIndex": 45
   },
   {
-    "q": "Q: Does your brother like ______ movies? — A: Yes, he does. He watches them every weekend.【動作；行動】",
+    "q": "The firefighters took ______ right away. They put out the fire in ten minutes.",
     "options": [
-      "reason",
-      "error",
-      "action",
-      "topic"
+      "joy",
+      "fun",
+      "fact",
+      "action"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "你哥哥喜歡動作片嗎？ — 喜歡，他每個週末都看。",
     "vocabIndex": 46
   },
   {
-    "q": "Q: Do you and your friends have a good time at the beach? — A: Yes, we do. We have a lot of ______.【樂趣；好玩的事】",
+    "q": "The party was a lot of ______. We played games, sang songs, and laughed all night.",
     "options": [
+      "fact",
       "fun",
-      "sale",
-      "topic",
-      "chance"
+      "rule",
+      "level"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你和朋友們在海灘玩得開心嗎？ — 開心，我們玩得很愉快。",
     "vocabIndex": 47
   },
   {
-    "q": "Q: Does Uncle Jack like to make people laugh? — A: Yes, he does. He tells funny ______.【笑話】",
+    "q": "Uncle Ben tells funny ______. We always laugh when he comes to dinner.",
     "options": [
-      "foreigners",
       "jokes",
-      "mistakes",
-      "tricks"
+      "rules",
+      "facts",
+      "levels"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "傑克叔叔喜歡逗人笑嗎？ — 喜歡，他會講好笑的笑話。",
     "vocabIndex": 48
   },
   {
-    "q": "Q: Do the children like books? — A: Yes, they do. They love ______ about animals.【故事】",
+    "q": "Grandma tells us ______ about her childhood before bed. My favorite one is about her dog.",
     "options": [
-      "foreigners",
-      "jokes",
-      "interests",
+      "rules",
+      "levels",
+      "cheers",
       "stories"
     ],
     "answer": 3,
@@ -1066,206 +1066,276 @@ const MCQS = [
     "vocabIndex": 49
   },
   {
-    "q": "Q: What TV ______ does your dad like? — A: He likes sports shows.【節目】",
+    "q": "My favorite TV ______ is on at eight every Friday. It is a singing show.",
     "options": [
+      "joke",
       "program",
-      "rule",
-      "leader",
-      "matter"
+      "smile",
+      "rule"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你爸爸喜歡什麼電視節目？ — 他喜歡運動節目。",
     "vocabIndex": 50
   },
   {
-    "q": "Q: Do your classmates like April Fools' Day? — A: Yes, they do. They play ______ on their friends.【惡作劇；把戲】",
+    "q": "On April Fools' Day, students play ______ on their friends and teachers.",
     "options": [
-      "players",
-      "mistakes",
+      "rules",
+      "facts",
       "tricks",
-      "cheers"
+      "smiles"
     ],
     "answer": 2,
     "cn": "你的同學們喜歡愚人節嗎？ — 喜歡，他們會對朋友惡作劇。",
     "vocabIndex": 51
   },
   {
-    "q": "Q: Do the students like their new teacher? — A: Yes, they do. She has a sweet ______.【微笑】",
+    "q": "The baby has a sweet ______ on her face. She looks so happy.",
     "options": [
-      "interview",
-      "smile",
-      "order",
-      "rule"
+      "joke",
+      "rule",
+      "fact",
+      "smile"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "學生們喜歡他們的新老師嗎？ — 喜歡，她有甜美的笑容。",
     "vocabIndex": 52
   },
   {
-    "q": "Q: How does Grandma feel when she sees the baby? — A: She is full of ______.【歡樂；喜悅】",
+    "q": "The children shouted with ______ when they saw the snow. They were so happy.",
     "options": [
+      "rule",
       "joy",
-      "service",
-      "experience",
-      "error"
+      "fact",
+      "level"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "奶奶看到寶寶時感覺如何？ — 她充滿了喜悅。",
     "vocabIndex": 53
   },
   {
-    "q": "Q: Thank you for helping me. — A: It's my ______.【榮幸；愉快】",
+    "q": "\"Thank you for your help.\" \"It was my ______. I was happy to do it.\"",
     "options": [
-      "voice",
-      "joy",
       "pleasure",
-      "chance"
+      "rule",
+      "joke",
+      "level"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "謝謝你幫我。 — 這是我的榮幸。（不客氣）",
     "vocabIndex": 54
   },
   {
-    "q": "Q: What do the fans do at the game? — A: They give loud ______ for the team.【歡呼；喝采】",
+    "q": "The fans gave three loud ______ for the winning team.",
     "options": [
-      "foreigners",
-      "stories",
-      "tricks",
-      "cheers"
+      "rules",
+      "facts",
+      "cheers",
+      "jokes"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "球迷在比賽時做什麼？ — 他們為球隊大聲歡呼。",
     "vocabIndex": 55
   },
   {
-    "q": "Q: Does Tom know a lot about koalas? — A: Yes, he does. He knows a fun ______: koalas sleep 20 hours a day.【事實】",
+    "q": "The earth goes around the sun. This is a ______, not just an idea.",
     "options": [
-      "leader",
-      "god",
       "fact",
-      "mind"
+      "joke",
+      "rule",
+      "smile"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "湯姆對無尾熊很了解嗎？ — 是的，他知道一個有趣的事實：無尾熊一天睡二十個小時。",
     "vocabIndex": 56
   }
 ];
 
 const LOOKUP = {
-  "kind": {
-    "pos": "adj.",
-    "en_def": "nice and helpful to other people",
-    "cn_def": "親切的"
-  },
-  "order": {
-    "pos": "v.",
-    "en_def": "to ask for food or drinks in a restaurant",
-    "cn_def": "點餐"
-  },
-  "band": {
-    "pos": "n.",
-    "en_def": "a group of people who play music together",
-    "cn_def": "樂團"
-  },
   "american": {
     "pos": "n.",
     "en_def": "a person from the United States",
     "cn_def": "美國人"
   },
-  "foreigners": {
+  "age": {
     "pos": "n.",
-    "en_def": "a person from another country",
-    "cn_def": "外國人"
-  },
-  "leader": {
-    "pos": "n.",
-    "en_def": "the person who a group follows",
-    "cn_def": "領導者；隊長"
-  },
-  "member": {
-    "pos": "n.",
-    "en_def": "one of the people in a group or club",
-    "cn_def": "成員；會員"
-  },
-  "players": {
-    "pos": "n.",
-    "en_def": "a person who plays a game or a sport",
-    "cn_def": "球員；選手"
-  },
-  "club": {
-    "pos": "n.",
-    "en_def": "a group of people who meet to do something they all like",
-    "cn_def": "社團"
-  },
-  "group": {
-    "pos": "n.",
-    "en_def": "a number of people or things that are together",
-    "cn_def": "團體；小組"
-  },
-  "god": {
-    "pos": "n.",
-    "en_def": "the one who some people believe made the world and pray to",
-    "cn_def": "上帝；神"
-  },
-  "chance": {
-    "pos": "n.",
-    "en_def": "a time when you can do something",
-    "cn_def": "機會"
-  },
-  "choices": {
-    "pos": "n.",
-    "en_def": "one of the things that you can choose",
-    "cn_def": "選擇"
+    "en_def": "how old someone is",
+    "cn_def": "年齡"
   },
   "idea": {
     "pos": "n.",
     "en_def": "a thought or a plan in your mind",
     "cn_def": "主意；想法"
   },
-  "habit": {
-    "pos": "n.",
-    "en_def": "something that you do often, without thinking",
-    "cn_def": "習慣"
-  },
-  "experience": {
-    "pos": "n.",
-    "en_def": "something that happened to you; what you learn from doing things",
-    "cn_def": "經驗"
-  },
-  "trouble": {
-    "pos": "n.",
-    "en_def": "problems or difficulties",
-    "cn_def": "麻煩；困難"
-  },
-  "mistakes": {
-    "pos": "n.",
-    "en_def": "something you do or write that is wrong",
-    "cn_def": "錯誤"
-  },
   "error": {
     "pos": "n.",
     "en_def": "a mistake",
     "cn_def": "錯誤"
   },
-  "excuse": {
+  "members": {
     "pos": "n.",
-    "en_def": "a reason you give to explain why you did something wrong",
-    "cn_def": "藉口"
+    "en_def": "one of the people in a group or club",
+    "cn_def": "成員；會員"
+  },
+  "foreigners": {
+    "pos": "n.",
+    "en_def": "a person from another country",
+    "cn_def": "外國人"
+  },
+  "leaders": {
+    "pos": "n.",
+    "en_def": "the person who a group follows",
+    "cn_def": "領導者；隊長"
+  },
+  "players": {
+    "pos": "n.",
+    "en_def": "a person who plays a game or a sport",
+    "cn_def": "球員；選手"
+  },
+  "foreigner": {
+    "pos": "n.",
+    "en_def": "a person from another country",
+    "cn_def": "外國人"
+  },
+  "prize": {
+    "pos": "n.",
+    "en_def": "something you get when you win",
+    "cn_def": "獎品；獎"
+  },
+  "leader": {
+    "pos": "n.",
+    "en_def": "the person who a group follows",
+    "cn_def": "領導者；隊長"
+  },
+  "habit": {
+    "pos": "n.",
+    "en_def": "something that you do often, without thinking",
+    "cn_def": "習慣"
+  },
+  "prizes": {
+    "pos": "n.",
+    "en_def": "something you get when you win",
+    "cn_def": "獎品；獎"
+  },
+  "habits": {
+    "pos": "n.",
+    "en_def": "something that you do often, without thinking",
+    "cn_def": "習慣"
+  },
+  "rules": {
+    "pos": "n.",
+    "en_def": "something that tells you what you must or must not do",
+    "cn_def": "規則"
+  },
+  "topics": {
+    "pos": "n.",
+    "en_def": "what people talk or write about",
+    "cn_def": "主題；話題"
+  },
+  "band": {
+    "pos": "n.",
+    "en_def": "a group of people who play music together",
+    "cn_def": "樂團"
   },
   "reason": {
     "pos": "n.",
     "en_def": "why something happens or why someone does something",
     "cn_def": "理由；原因"
   },
-  "sight": {
+  "club": {
     "pos": "n.",
-    "en_def": "the power to see",
-    "cn_def": "視力"
+    "en_def": "a group of people who meet to do something they all like",
+    "cn_def": "社團"
+  },
+  "voices": {
+    "pos": "n.",
+    "en_def": "the sound you make when you speak or sing",
+    "cn_def": "聲音；嗓音"
+  },
+  "group": {
+    "pos": "n.",
+    "en_def": "a number of people or things that are together",
+    "cn_def": "團體；小組"
+  },
+  "eve": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "前夕"
+  },
+  "god": {
+    "pos": "n.",
+    "en_def": "the one who some people believe made the world and pray to",
+    "cn_def": "上帝；神"
+  },
+  "fun": {
+    "pos": "n.",
+    "en_def": "something that makes you happy; a good time",
+    "cn_def": "樂趣；好玩的事"
   },
   "voice": {
     "pos": "n.",
     "en_def": "the sound you make when you speak or sing",
     "cn_def": "聲音；嗓音"
+  },
+  "chance": {
+    "pos": "n.",
+    "en_def": "a time when you can do something",
+    "cn_def": "機會"
+  },
+  "ages": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "年齡"
+  },
+  "choices": {
+    "pos": "n.",
+    "en_def": "one of the things that you can choose",
+    "cn_def": "選擇"
+  },
+  "trouble": {
+    "pos": "n.",
+    "en_def": "problems or difficulties",
+    "cn_def": "麻煩；困難"
+  },
+  "experience": {
+    "pos": "n.",
+    "en_def": "something that happened to you; what you learn from doing things",
+    "cn_def": "經驗"
+  },
+  "sight": {
+    "pos": "n.",
+    "en_def": "the power to see",
+    "cn_def": "視力"
+  },
+  "mistakes": {
+    "pos": "n.",
+    "en_def": "something you do or write that is wrong",
+    "cn_def": "錯誤"
+  },
+  "parties": {
+    "pos": "n.",
+    "en_def": "a time when people come together to eat, play, and have fun",
+    "cn_def": "派對"
+  },
+  "excuse": {
+    "pos": "n.",
+    "en_def": "a reason you give to explain why you did something wrong",
+    "cn_def": "藉口"
+  },
+  "dream": {
+    "pos": "n.",
+    "en_def": "something you hope for very much; what you see in your sleep",
+    "cn_def": "夢想"
+  },
+  "tip": {
+    "pos": "n.",
+    "en_def": "extra money you give to a waiter or a driver to say thank you",
+    "cn_def": "小費"
+  },
+  "smile": {
+    "pos": "n.",
+    "en_def": "the happy look on your face when the ends of your mouth go up",
+    "cn_def": "微笑"
   },
   "meeting": {
     "pos": "n.",
@@ -1282,6 +1352,11 @@ const LOOKUP = {
     "en_def": "a meeting where someone asks you questions, often for a job",
     "cn_def": "面試；採訪"
   },
+  "joke": {
+    "pos": "n.",
+    "en_def": "a short, funny story that makes people laugh",
+    "cn_def": "笑話"
+  },
   "report": {
     "pos": "n.",
     "en_def": "something you write or say to tell people about what you learned or saw",
@@ -1292,50 +1367,45 @@ const LOOKUP = {
     "en_def": "a time when a store sells things at lower prices",
     "cn_def": "特價；出售"
   },
-  "prize": {
+  "rule": {
     "pos": "n.",
-    "en_def": "something you get when you win",
-    "cn_def": "獎品；獎"
+    "en_def": "something that tells you what you must or must not do",
+    "cn_def": "規則"
   },
   "treat": {
     "pos": "n.",
     "en_def": "something nice that someone buys for you",
     "cn_def": "請客"
   },
-  "tip": {
-    "pos": "n.",
-    "en_def": "extra money you give to a waiter or a driver to say thank you",
-    "cn_def": "小費"
+  "order": {
+    "pos": "v.",
+    "en_def": "to ask for food or drinks in a restaurant",
+    "cn_def": "點餐"
   },
   "service": {
     "pos": "n.",
     "en_def": "the help that workers in a store or restaurant give you",
     "cn_def": "服務"
   },
-  "eve": {
-    "pos": "n.",
-    "en_def": "the day or night before a special day",
-    "cn_def": "前夕"
-  },
-  "age": {
-    "pos": "n.",
-    "en_def": "how old someone is",
-    "cn_def": "年齡"
-  },
   "birthday": {
     "pos": "n.",
     "en_def": "the day of the year when you were born",
     "cn_def": "生日"
   },
-  "dream": {
-    "pos": "n.",
-    "en_def": "something you hope for very much; what you see in your sleep",
-    "cn_def": "夢想"
-  },
   "interests": {
     "pos": "n.",
     "en_def": "something you like to do or learn about",
     "cn_def": "興趣"
+  },
+  "tips": {
+    "pos": "n.",
+    "en_def": "extra money you give to a waiter or a driver to say thank you",
+    "cn_def": "小費"
+  },
+  "sentence": {
+    "pos": "n.",
+    "en_def": "a group of words that starts with a big letter and ends with a period",
+    "cn_def": "句子"
   },
   "subject": {
     "pos": "n.",
@@ -1352,10 +1422,15 @@ const LOOKUP = {
     "en_def": "a group of letters that means something",
     "cn_def": "字；單字"
   },
-  "sentence": {
+  "level": {
     "pos": "n.",
-    "en_def": "a group of words that starts with a big letter and ends with a period",
-    "cn_def": "句子"
+    "en_def": "how good you are at something; how high something is",
+    "cn_def": "程度；等級"
+  },
+  "fact": {
+    "pos": "n.",
+    "en_def": "something that is true",
+    "cn_def": "事實"
   },
   "way": {
     "pos": "n.",
@@ -1367,35 +1442,50 @@ const LOOKUP = {
     "en_def": "something that you need to think or talk about; a problem",
     "cn_def": "事情；問題"
   },
-  "level": {
-    "pos": "n.",
-    "en_def": "how good you are at something; how high something is",
-    "cn_def": "程度；等級"
+  "kind": {
+    "pos": "adj.",
+    "en_def": "nice and helpful to other people",
+    "cn_def": "親切的"
   },
   "mind": {
     "pos": "n.",
     "en_def": "the part of you that thinks and remembers",
     "cn_def": "頭腦；心思"
   },
-  "rule": {
+  "jokes": {
     "pos": "n.",
-    "en_def": "something that tells you what you must or must not do",
-    "cn_def": "規則"
+    "en_def": "a short, funny story that makes people laugh",
+    "cn_def": "笑話"
+  },
+  "smiles": {
+    "pos": "n.",
+    "en_def": "the happy look on your face when the ends of your mouth go up",
+    "cn_def": "微笑"
+  },
+  "facts": {
+    "pos": "n.",
+    "en_def": "something that is true",
+    "cn_def": "事實"
+  },
+  "joy": {
+    "pos": "n.",
+    "en_def": "a feeling of being very happy",
+    "cn_def": "歡樂；喜悅"
   },
   "action": {
     "pos": "n.",
     "en_def": "something that you do; moving and doing things",
     "cn_def": "動作；行動"
   },
-  "fun": {
+  "levels": {
     "pos": "n.",
-    "en_def": "something that makes you happy; a good time",
-    "cn_def": "樂趣；好玩的事"
+    "en_def": "how good you are at something; how high something is",
+    "cn_def": "程度；等級"
   },
-  "jokes": {
+  "cheers": {
     "pos": "n.",
-    "en_def": "a short, funny story that makes people laugh",
-    "cn_def": "笑話"
+    "en_def": "a loud, happy shout for a team or a player",
+    "cn_def": "歡呼；喝采"
   },
   "stories": {
     "pos": "n.",
@@ -1412,30 +1502,10 @@ const LOOKUP = {
     "en_def": "something you do to fool or surprise someone for fun",
     "cn_def": "惡作劇；把戲"
   },
-  "smile": {
-    "pos": "n.",
-    "en_def": "the happy look on your face when the ends of your mouth go up",
-    "cn_def": "微笑"
-  },
-  "joy": {
-    "pos": "n.",
-    "en_def": "a feeling of being very happy",
-    "cn_def": "歡樂；喜悅"
-  },
   "pleasure": {
     "pos": "n.",
     "en_def": "a feeling of being happy to do something",
     "cn_def": "榮幸；愉快"
-  },
-  "cheers": {
-    "pos": "n.",
-    "en_def": "a loud, happy shout for a team or a player",
-    "cn_def": "歡呼；喝采"
-  },
-  "fact": {
-    "pos": "n.",
-    "en_def": "something that is true",
-    "cn_def": "事實"
   }
 };
 

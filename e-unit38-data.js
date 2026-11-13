@@ -904,15 +904,15 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: How do the new classrooms look? — A: They look __________. They have big windows.【明亮的】",
+    "question": "The sun is very __________ today. I need to wear my sunglasses when I go out.",
     "options": [
      {
       "letter": "A",
-      "text": "dead"
+      "text": "dark"
      },
      {
       "letter": "B",
-      "text": "lucky"
+      "text": "dirty"
      },
      {
       "letter": "C",
@@ -920,26 +920,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "glad"
+      "text": "dead"
      }
     ],
     "answer": "C",
     "vi": 0
    },
    {
-    "question": "Q: How do the classrooms look at night? — A: They look __________. All the lights are off.【黑暗的】",
+    "question": "It is __________ outside at night. You need a light to see the road.",
     "options": [
      {
       "letter": "A",
-      "text": "important"
+      "text": "bright"
      },
      {
       "letter": "B",
-      "text": "special"
+      "text": "sharp"
      },
      {
       "letter": "C",
-      "text": "favorite"
+      "text": "fresh"
      },
      {
       "letter": "D",
@@ -950,107 +950,130 @@ window.FLASHCARD_UNITS = {
     "vi": 1
    },
    {
-    "question": "Q: How do your shoes look after the soccer game? — A: They look __________. There is mud on them.【骯髒的】",
+    "question": "Your hands are __________. Wash them with soap before you eat.",
     "options": [
      {
       "letter": "A",
-      "text": "tidy"
-     },
-     {
-      "letter": "B",
       "text": "dirty"
      },
      {
-      "letter": "C",
-      "text": "dear"
-     },
-     {
-      "letter": "D",
-      "text": "only"
-     }
-    ],
-    "answer": "B",
-    "vi": 2
-   },
-   {
-    "question": "Q: How does Amy's desk look? — A: It looks __________. Her books are in a row.【整潔的】",
-    "options": [
-     {
-      "letter": "A",
+      "letter": "B",
       "text": "tidy"
      },
      {
-      "letter": "B",
-      "text": "sorry"
-     },
-     {
       "letter": "C",
-      "text": "favorite"
+      "text": "sharp"
      },
      {
       "letter": "D",
-      "text": "correct"
+      "text": "thick"
      }
     ],
     "answer": "A",
-    "vi": 3
+    "vi": 2
    },
    {
-    "question": "Q: How do the flowers in the vase look? — A: They look __________. Nobody gave them water.【死的】",
+    "question": "Amy's room is always clean and __________. Everything is in the right place.",
     "options": [
      {
       "letter": "A",
-      "text": "helpful"
+      "text": "dirty"
      },
      {
       "letter": "B",
-      "text": "dead"
+      "text": "tidy"
      },
      {
       "letter": "C",
-      "text": "present"
+      "text": "sharp"
      },
      {
       "letter": "D",
-      "text": "great"
+      "text": "dead"
      }
     ],
     "answer": "B",
-    "vi": 4
+    "vi": 3
    },
    {
-    "question": "Q: How does the new knife look? — A: It looks __________. Be careful!【銳利的】",
+    "question": "The flowers are __________ because nobody gave them water for two weeks.",
     "options": [
      {
       "letter": "A",
-      "text": "national"
+      "text": "dead"
      },
      {
       "letter": "B",
-      "text": "other"
+      "text": "fresh"
      },
      {
       "letter": "C",
-      "text": "fine"
+      "text": "sharp"
      },
      {
       "letter": "D",
-      "text": "sharp"
+      "text": "thick"
      }
     ],
-    "answer": "D",
-    "vi": 5
+    "answer": "A",
+    "vi": 4
    },
    {
-    "question": "Q: How does the dictionary look? — A: It looks very __________. It has 2,000 pages.【厚的】",
+    "question": "Be careful with that knife. It is very __________ and can cut your finger.",
     "options": [
      {
       "letter": "A",
-      "text": "sorry"
+      "text": "thick"
      },
      {
       "letter": "B",
-      "text": "quiet"
+      "text": "fresh"
+     },
+     {
+      "letter": "C",
+      "text": "sharp"
+     },
+     {
+      "letter": "D",
+      "text": "tidy"
+     }
+    ],
+    "answer": "C",
+    "vi": 5
+   },
+   {
+    "question": "This dictionary is very __________. It has more than two thousand pages.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sharp"
+     },
+     {
+      "letter": "B",
+      "text": "thick"
+     },
+     {
+      "letter": "C",
+      "text": "fresh"
+     },
+     {
+      "letter": "D",
+      "text": "dead"
+     }
+    ],
+    "answer": "B",
+    "vi": 6
+   },
+   {
+    "question": "These vegetables are __________. The farmer picked them from the field this morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dead"
+     },
+     {
+      "letter": "B",
+      "text": "sharp"
      },
      {
       "letter": "C",
@@ -1061,88 +1084,19 @@ window.FLASHCARD_UNITS = {
       "text": "fresh"
      }
     ],
-    "answer": "C",
-    "vi": 6
-   },
-   {
-    "question": "Q: How do the vegetables at the market look? — A: They look __________. The farmers picked them this morning.【新鮮的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "fresh"
-     },
-     {
-      "letter": "B",
-      "text": "sorry"
-     },
-     {
-      "letter": "C",
-      "text": "national"
-     },
-     {
-      "letter": "D",
-      "text": "true"
-     }
-    ],
-    "answer": "A",
+    "answer": "D",
     "vi": 7
    },
    {
-    "question": "Q: How does the old milk smell? — A: It smells __________. Don't drink it!【很糟的】",
+    "question": "The weather was __________ yesterday. It rained all day, and the wind was very strong.",
     "options": [
      {
       "letter": "A",
-      "text": "glad"
-     },
-     {
-      "letter": "B",
-      "text": "wonderful"
-     },
-     {
-      "letter": "C",
-      "text": "same"
-     },
-     {
-      "letter": "D",
-      "text": "terrible"
-     }
-    ],
-    "answer": "D",
-    "vi": 8
-   },
-   {
-    "question": "Q: How do the cookies taste? — A: They taste __________! I want another one.【很棒的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "else"
-     },
-     {
-      "letter": "B",
       "text": "great"
      },
      {
-      "letter": "C",
-      "text": "other"
-     },
-     {
-      "letter": "D",
-      "text": "national"
-     }
-    ],
-    "answer": "B",
-    "vi": 9
-   },
-   {
-    "question": "Q: How do you feel today? — A: I feel __________, thank you.【很好的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "lucky"
-     },
-     {
       "letter": "B",
-      "text": "strange"
+      "text": "terrible"
      },
      {
       "letter": "C",
@@ -1150,41 +1104,87 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "easy"
+      "text": "wonderful"
      }
     ],
-    "answer": "C",
-    "vi": 10
+    "answer": "B",
+    "vi": 8
    },
    {
-    "question": "Q: How does the music next door sound? — A: It sounds very __________. I can't sleep.【大聲的】",
+    "question": "We had a __________ time at the party. Everyone laughed and danced all night.",
     "options": [
      {
       "letter": "A",
-      "text": "loud"
+      "text": "terrible"
      },
      {
       "letter": "B",
-      "text": "dead"
+      "text": "strange"
      },
      {
       "letter": "C",
-      "text": "tidy"
+      "text": "great"
      },
      {
       "letter": "D",
-      "text": "true"
+      "text": "quiet"
      }
     ],
-    "answer": "A",
-    "vi": 11
+    "answer": "C",
+    "vi": 9
    },
    {
-    "question": "Q: How do the kids in the classroom sound? — A: They sound __________. They are talking and laughing.【吵鬧的】",
+    "question": "\"How are you today?\" \"I'm __________, thank you. And you?\"",
     "options": [
      {
       "letter": "A",
-      "text": "wonderful"
+      "text": "fine"
+     },
+     {
+      "letter": "B",
+      "text": "terrible"
+     },
+     {
+      "letter": "C",
+      "text": "loud"
+     },
+     {
+      "letter": "D",
+      "text": "strange"
+     }
+    ],
+    "answer": "A",
+    "vi": 10
+   },
+   {
+    "question": "The music is too __________. Please turn it down, because my ears hurt.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "quiet"
+     },
+     {
+      "letter": "B",
+      "text": "fine"
+     },
+     {
+      "letter": "C",
+      "text": "strange"
+     },
+     {
+      "letter": "D",
+      "text": "loud"
+     }
+    ],
+    "answer": "D",
+    "vi": 11
+   },
+   {
+    "question": "The classroom is very __________ because all the students are talking and laughing at the same time.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "quiet"
      },
      {
       "letter": "B",
@@ -1192,49 +1192,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "free"
+      "text": "fine"
      },
      {
       "letter": "D",
-      "text": "dark"
+      "text": "fresh"
      }
     ],
     "answer": "B",
     "vi": 12
    },
    {
-    "question": "Q: How does the library sound? — A: It sounds __________. Everyone is reading.【安靜的】",
+    "question": "Please be __________ in the library. People are reading and studying here.",
     "options": [
      {
       "letter": "A",
-      "text": "sure"
+      "text": "quiet"
      },
      {
       "letter": "B",
-      "text": "public"
+      "text": "noisy"
      },
      {
       "letter": "C",
-      "text": "sorry"
+      "text": "loud"
      },
      {
       "letter": "D",
-      "text": "quiet"
+      "text": "strange"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 13
    },
    {
-    "question": "Q: How does the car sound today? — A: It sounds __________. Dad should check it.【奇怪的】",
+    "question": "I heard a __________ noise in the kitchen last night. I didn't know what it was, so I was scared.",
     "options": [
      {
       "letter": "A",
-      "text": "popular"
+      "text": "quiet"
      },
      {
       "letter": "B",
-      "text": "American"
+      "text": "fine"
      },
      {
       "letter": "C",
@@ -1242,267 +1242,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "else"
+      "text": "easy"
      }
     ],
     "answer": "C",
     "vi": 14
    },
    {
-    "question": "Q: How does Lisa's singing sound? — A: It sounds __________! She sings like a star.【極好的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wonderful"
-     },
-     {
-      "letter": "B",
-      "text": "newer"
-     },
-     {
-      "letter": "C",
-      "text": "magic"
-     },
-     {
-      "letter": "D",
-      "text": "convenient"
-     }
-    ],
-    "answer": "A",
-    "vi": 15
-   },
-   {
-    "question": "Q: Is the English test easy or hard? — A: It's __________. I can answer all the questions.【容易的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "enough"
-     },
-     {
-      "letter": "B",
-      "text": "modern"
-     },
-     {
-      "letter": "C",
-      "text": "easy"
-     },
-     {
-      "letter": "D",
-      "text": "simple"
-     }
-    ],
-    "answer": "C",
-    "vi": 16
-   },
-   {
-    "question": "Q: Is the game simple or difficult? — A: It's __________. Even my little brother can play it.【簡單的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "simple"
-     },
-     {
-      "letter": "B",
-      "text": "true"
-     },
-     {
-      "letter": "C",
-      "text": "sharp"
-     },
-     {
-      "letter": "D",
-      "text": "newer"
-     }
-    ],
-    "answer": "A",
-    "vi": 17
-   },
-   {
-    "question": "Q: Is the bread soft or hard? — A: It's __________. It's three days old.【困難的；硬的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dead"
-     },
-     {
-      "letter": "B",
-      "text": "same"
-     },
-     {
-      "letter": "C",
-      "text": "else"
-     },
-     {
-      "letter": "D",
-      "text": "hard"
-     }
-    ],
-    "answer": "D",
-    "vi": 18
-   },
-   {
-    "question": "Q: Is my answer correct or wrong? — A: It's __________. Good job!【正確的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "different"
-     },
-     {
-      "letter": "B",
-      "text": "correct"
-     },
-     {
-      "letter": "C",
-      "text": "foreign"
-     },
-     {
-      "letter": "D",
-      "text": "present"
-     }
-    ],
-    "answer": "B",
-    "vi": 19
-   },
-   {
-    "question": "Q: Is it right or wrong to help old people? — A: It's __________. We should help them.【對的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "important"
-     },
-     {
-      "letter": "B",
-      "text": "thick"
-     },
-     {
-      "letter": "C",
-      "text": "same"
-     },
-     {
-      "letter": "D",
-      "text": "right"
-     }
-    ],
-    "answer": "D",
-    "vi": 20
-   },
-   {
-    "question": "Q: Is \"Tom have a dog\" right or wrong? — A: It's __________. We say \"Tom has a dog.\"【錯誤的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wrong"
-     },
-     {
-      "letter": "B",
-      "text": "lucky"
-     },
-     {
-      "letter": "C",
-      "text": "fresh"
-     },
-     {
-      "letter": "D",
-      "text": "noisy"
-     }
-    ],
-    "answer": "A",
-    "vi": 21
-   },
-   {
-    "question": "Q: Is the story true or not? — A: It's __________. It happened to my grandpa.【真實的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "dear"
-     },
-     {
-      "letter": "B",
-      "text": "loud"
-     },
-     {
-      "letter": "C",
-      "text": "true"
-     },
-     {
-      "letter": "D",
-      "text": "wrong"
-     }
-    ],
-    "answer": "C",
-    "vi": 22
-   },
-   {
-    "question": "Q: Is that a real flower or a paper flower? — A: It's a __________ flower. It smells sweet.【真正的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pop"
-     },
-     {
-      "letter": "B",
-      "text": "real"
-     },
-     {
-      "letter": "C",
-      "text": "tidy"
-     },
-     {
-      "letter": "D",
-      "text": "wrong"
-     }
-    ],
-    "answer": "B",
-    "vi": 23
-   },
-   {
-    "question": "Q: Is it safe or dangerous to swim in this river? — A: It's __________. The water isn't deep.【安全的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wonderful"
-     },
-     {
-      "letter": "B",
-      "text": "wrong"
-     },
-     {
-      "letter": "C",
-      "text": "able"
-     },
-     {
-      "letter": "D",
-      "text": "safe"
-     }
-    ],
-    "answer": "D",
-    "vi": 24
-   },
-   {
-    "question": "Q: Is the ticket free or expensive? — A: It's __________. You don't have to pay.【免費的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "national"
-     },
-     {
-      "letter": "B",
-      "text": "right"
-     },
-     {
-      "letter": "C",
-      "text": "free"
-     },
-     {
-      "letter": "D",
-      "text": "simple"
-     }
-    ],
-    "answer": "C",
-    "vi": 25
-   },
-   {
-    "question": "Q: Are you and Ben in the same class or different classes? — A: We are in the __________ class.【相同的】",
+    "question": "Thank you for the __________ dinner. Everything was delicious, and we had a very good time.",
     "options": [
      {
       "letter": "A",
@@ -1510,45 +1257,137 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "same"
+      "text": "strange"
      },
      {
       "letter": "C",
-      "text": "sure"
-     },
-     {
-      "letter": "D",
-      "text": "sharp"
-     }
-    ],
-    "answer": "B",
-    "vi": 26
-   },
-   {
-    "question": "Q: Are the two pictures the same or different? — A: They are __________. One cat is black, and the other is white.【不同的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "different"
-     },
-     {
-      "letter": "B",
-      "text": "correct"
-     },
-     {
-      "letter": "C",
-      "text": "useful"
+      "text": "noisy"
      },
      {
       "letter": "D",
       "text": "wonderful"
      }
     ],
-    "answer": "A",
-    "vi": 27
+    "answer": "D",
+    "vi": 15
    },
    {
-    "question": "Q: Is \"Chen\" a common name or a special name in Taiwan? — A: It's a __________ name. Many people have it.【常見的】",
+    "question": "The test was very __________. Everyone in the class got 100.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hard"
+     },
+     {
+      "letter": "B",
+      "text": "easy"
+     },
+     {
+      "letter": "C",
+      "text": "wrong"
+     },
+     {
+      "letter": "D",
+      "text": "strange"
+     }
+    ],
+    "answer": "B",
+    "vi": 16
+   },
+   {
+    "question": "The rules of this game are __________. Even a five-year-old child can understand them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "simple"
+     },
+     {
+      "letter": "B",
+      "text": "wrong"
+     },
+     {
+      "letter": "C",
+      "text": "hard"
+     },
+     {
+      "letter": "D",
+      "text": "loud"
+     }
+    ],
+    "answer": "A",
+    "vi": 17
+   },
+   {
+    "question": "The math problem is too __________ for me. I have tried for an hour, but I still can't answer it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "easy"
+     },
+     {
+      "letter": "B",
+      "text": "simple"
+     },
+     {
+      "letter": "C",
+      "text": "hard"
+     },
+     {
+      "letter": "D",
+      "text": "safe"
+     }
+    ],
+    "answer": "C",
+    "vi": 18
+   },
+   {
+    "question": "Your answer is __________. You got it right, so you get ten points.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "wrong"
+     },
+     {
+      "letter": "B",
+      "text": "hard"
+     },
+     {
+      "letter": "C",
+      "text": "same"
+     },
+     {
+      "letter": "D",
+      "text": "correct"
+     }
+    ],
+    "answer": "D",
+    "vi": 19
+   },
+   {
+    "question": "You are __________. Taipei 101 is the tallest building in Taiwan. I was wrong about that.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "free"
+     },
+     {
+      "letter": "B",
+      "text": "right"
+     },
+     {
+      "letter": "C",
+      "text": "safe"
+     },
+     {
+      "letter": "D",
+      "text": "same"
+     }
+    ],
+    "answer": "B",
+    "vi": 20
+   },
+   {
+    "question": "I am sorry. I think you have the __________ number. There is no Tom here.",
     "options": [
      {
       "letter": "A",
@@ -1556,30 +1395,191 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "common"
+      "text": "correct"
      },
      {
       "letter": "C",
-      "text": "magic"
+      "text": "true"
      },
      {
       "letter": "D",
-      "text": "thick"
+      "text": "wrong"
      }
     ],
-    "answer": "B",
-    "vi": 28
+    "answer": "D",
+    "vi": 21
    },
    {
-    "question": "Q: Does your sister go to a public school or a private school? — A: She goes to a __________ school.【公立的】",
+    "question": "Is it __________ that you are moving to Japan? Yes, we are leaving next month.",
     "options": [
      {
       "letter": "A",
-      "text": "glad"
+      "text": "true"
      },
      {
       "letter": "B",
-      "text": "modern"
+      "text": "wrong"
+     },
+     {
+      "letter": "C",
+      "text": "safe"
+     },
+     {
+      "letter": "D",
+      "text": "free"
+     }
+    ],
+    "answer": "A",
+    "vi": 22
+   },
+   {
+    "question": "This is not a toy gun. It is a __________ one, so don't touch it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "free"
+     },
+     {
+      "letter": "B",
+      "text": "same"
+     },
+     {
+      "letter": "C",
+      "text": "real"
+     },
+     {
+      "letter": "D",
+      "text": "wrong"
+     }
+    ],
+    "answer": "C",
+    "vi": 23
+   },
+   {
+    "question": "Don't swim in this river. It is not __________ because the water is deep and fast.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "safe"
+     },
+     {
+      "letter": "B",
+      "text": "free"
+     },
+     {
+      "letter": "C",
+      "text": "same"
+     },
+     {
+      "letter": "D",
+      "text": "true"
+     }
+    ],
+    "answer": "A",
+    "vi": 24
+   },
+   {
+    "question": "You don't have to pay for the drinks. They are __________ today.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "safe"
+     },
+     {
+      "letter": "B",
+      "text": "same"
+     },
+     {
+      "letter": "C",
+      "text": "free"
+     },
+     {
+      "letter": "D",
+      "text": "real"
+     }
+    ],
+    "answer": "C",
+    "vi": 25
+   },
+   {
+    "question": "Amy and I are in the __________ class. We sit next to each other.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "different"
+     },
+     {
+      "letter": "B",
+      "text": "same"
+     },
+     {
+      "letter": "C",
+      "text": "free"
+     },
+     {
+      "letter": "D",
+      "text": "safe"
+     }
+    ],
+    "answer": "B",
+    "vi": 26
+   },
+   {
+    "question": "The two brothers look very __________. One is tall and thin, but the other is short and fat.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "same"
+     },
+     {
+      "letter": "B",
+      "text": "free"
+     },
+     {
+      "letter": "C",
+      "text": "safe"
+     },
+     {
+      "letter": "D",
+      "text": "different"
+     }
+    ],
+    "answer": "D",
+    "vi": 27
+   },
+   {
+    "question": "Chen and Lin are very __________ family names in Taiwan. Millions of people have them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "common"
+     },
+     {
+      "letter": "B",
+      "text": "foreign"
+     },
+     {
+      "letter": "C",
+      "text": "lucky"
+     },
+     {
+      "letter": "D",
+      "text": "public"
+     }
+    ],
+    "answer": "A",
+    "vi": 28
+   },
+   {
+    "question": "This is a __________ library. Everyone in the city can come in and read the books.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lucky"
+     },
+     {
+      "letter": "B",
+      "text": "foreign"
      },
      {
       "letter": "C",
@@ -1587,26 +1587,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "national"
+      "text": "serious"
      }
     ],
     "answer": "C",
     "vi": 29
    },
    {
-    "question": "Q: Is Mr. Smith a Taiwanese teacher or a foreign teacher? — A: He is a __________ teacher. He comes from Canada.【外國的】",
+    "question": "I want to learn a __________ language, like Japanese or French.",
     "options": [
      {
       "letter": "A",
-      "text": "important"
+      "text": "lucky"
      },
      {
       "letter": "B",
-      "text": "possible"
+      "text": "public"
      },
      {
       "letter": "C",
-      "text": "same"
+      "text": "common"
      },
      {
       "letter": "D",
@@ -1617,42 +1617,42 @@ window.FLASHCARD_UNITS = {
     "vi": 30
    },
    {
-    "question": "Q: I won the first prize! — A: How __________ you are!【幸運的】",
+    "question": "I was __________ to find my lost wallet. All my money was still in it.",
     "options": [
      {
       "letter": "A",
+      "text": "foreign"
+     },
+     {
+      "letter": "B",
       "text": "lucky"
      },
      {
-      "letter": "B",
-      "text": "wrong"
-     },
-     {
       "letter": "C",
-      "text": "simple"
+      "text": "public"
      },
      {
       "letter": "D",
-      "text": "main"
+      "text": "serious"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 31
    },
    {
-    "question": "Q: Tom always helps the old lady carry her bags. — A: How __________ he is!【有幫助的】",
+    "question": "The clerk was very __________. She showed me where everything was and carried my bags.",
     "options": [
      {
       "letter": "A",
-      "text": "main"
+      "text": "serious"
      },
      {
       "letter": "B",
-      "text": "terrible"
+      "text": "modern"
      },
      {
       "letter": "C",
-      "text": "American"
+      "text": "magic"
      },
      {
       "letter": "D",
@@ -1663,7 +1663,7 @@ window.FLASHCARD_UNITS = {
     "vi": 32
    },
    {
-    "question": "Q: This dictionary has pictures and easy sentences. — A: How __________ it is!【有用的】",
+    "question": "A dictionary is very __________ when you learn English. You can look up new words in it.",
     "options": [
      {
       "letter": "A",
@@ -1671,68 +1671,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "sure"
+      "text": "serious"
      },
      {
       "letter": "C",
-      "text": "dead"
-     },
-     {
-      "letter": "D",
-      "text": "special"
-     }
-    ],
-    "answer": "A",
-    "vi": 33
-   },
-   {
-    "question": "Q: There is a supermarket next to my home. — A: How __________! You can buy food any time.【方便的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "helpful"
-     },
-     {
-      "letter": "B",
-      "text": "convenient"
-     },
-     {
-      "letter": "C",
-      "text": "newer"
+      "text": "lucky"
      },
      {
       "letter": "D",
       "text": "magic"
      }
     ],
-    "answer": "B",
-    "vi": 34
+    "answer": "A",
+    "vi": 33
    },
    {
-    "question": "Q: Amy got 100 on the math test. — A: What an __________ student she is!【極好的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "tidy"
-     },
-     {
-      "letter": "B",
-      "text": "dead"
-     },
-     {
-      "letter": "C",
-      "text": "excellent"
-     },
-     {
-      "letter": "D",
-      "text": "lucky"
-     }
-    ],
-    "answer": "C",
-    "vi": 35
-   },
-   {
-    "question": "Q: The typhoon broke many trees and houses. — A: How __________ it is!【嚴重的】",
+    "question": "It is very __________ to live near an MRT station. You can go anywhere quickly and easily.",
     "options": [
      {
       "letter": "A",
@@ -1740,76 +1694,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "dangerous"
-     },
-     {
-      "letter": "C",
-      "text": "easy"
-     },
-     {
-      "letter": "D",
-      "text": "quiet"
-     }
-    ],
-    "answer": "A",
-    "vi": 36
-   },
-   {
-    "question": "Q: The man turns a piece of paper into a bird. — A: What a cool __________ trick!【魔術的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "foreign"
-     },
-     {
-      "letter": "B",
-      "text": "noisy"
-     },
-     {
-      "letter": "C",
-      "text": "hard"
-     },
-     {
-      "letter": "D",
       "text": "magic"
-     }
-    ],
-    "answer": "D",
-    "vi": 37
-   },
-   {
-    "question": "Q: Listen! Everyone is singing this new song. — A: What a great __________ song!【流行的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "afraid"
-     },
-     {
-      "letter": "B",
-      "text": "pop"
      },
      {
       "letter": "C",
-      "text": "special"
+      "text": "convenient"
      },
      {
       "letter": "D",
-      "text": "possible"
+      "text": "foreign"
+     }
+    ],
+    "answer": "C",
+    "vi": 34
+   },
+   {
+    "question": "Lisa is an __________ student. She gets the best grades in her class.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "important"
+     },
+     {
+      "letter": "B",
+      "text": "excellent"
+     },
+     {
+      "letter": "C",
+      "text": "interesting"
+     },
+     {
+      "letter": "D",
+      "text": "easy"
      }
     ],
     "answer": "B",
-    "vi": 38
+    "vi": 35
    },
    {
-    "question": "Q: Look at the new train station. — A: What a __________ building!【現代的】",
+    "question": "The car accident was very __________. Five people were badly hurt and taken to the hospital.",
     "options": [
      {
       "letter": "A",
-      "text": "dark"
+      "text": "lucky"
      },
      {
       "letter": "B",
-      "text": "right"
+      "text": "helpful"
+     },
+     {
+      "letter": "C",
+      "text": "serious"
+     },
+     {
+      "letter": "D",
+      "text": "modern"
+     }
+    ],
+    "answer": "C",
+    "vi": 36
+   },
+   {
+    "question": "The man did a __________ trick. He pulled a rabbit out of an empty hat!",
+    "options": [
+     {
+      "letter": "A",
+      "text": "serious"
+     },
+     {
+      "letter": "B",
+      "text": "magic"
      },
      {
       "letter": "C",
@@ -1817,37 +1771,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "pop"
+      "text": "convenient"
      }
     ],
-    "answer": "C",
-    "vi": 39
+    "answer": "B",
+    "vi": 37
    },
    {
-    "question": "Q: Which subject do you think is more difficult, math or English? — A: Math is more __________ than English for me.【困難的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "difficult"
-     },
-     {
-      "letter": "B",
-      "text": "helpful"
-     },
-     {
-      "letter": "C",
-      "text": "true"
-     },
-     {
-      "letter": "D",
-      "text": "thick"
-     }
-    ],
-    "answer": "A",
-    "vi": 40
-   },
-   {
-    "question": "Q: Which animal does Ben think is more dangerous, a lion or a cat? — A: He thinks a lion is more __________ than a cat.【危險的】",
+    "question": "My sister loves __________ music. She listens to the newest songs by young singers every day.",
     "options": [
      {
       "letter": "A",
@@ -1855,306 +1786,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "other"
+      "text": "magic"
      },
      {
       "letter": "C",
-      "text": "dangerous"
-     },
-     {
-      "letter": "D",
-      "text": "helpful"
-     }
-    ],
-    "answer": "C",
-    "vi": 41
-   },
-   {
-    "question": "Q: Which does Lisa think is more interesting, comic books or movies? — A: She thinks comic books are more __________ than movies.【有趣的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "scared"
-     },
-     {
-      "letter": "B",
-      "text": "enough"
-     },
-     {
-      "letter": "C",
-      "text": "dirty"
-     },
-     {
-      "letter": "D",
-      "text": "interesting"
-     }
-    ],
-    "answer": "D",
-    "vi": 42
-   },
-   {
-    "question": "Q: What do you think is the most important thing in life? — A: I think health is the most __________ thing.【重要的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "simple"
-     },
-     {
-      "letter": "B",
-      "text": "important"
-     },
-     {
-      "letter": "C",
-      "text": "true"
-     },
-     {
-      "letter": "D",
-      "text": "lucky"
-     }
-    ],
-    "answer": "B",
-    "vi": 43
-   },
-   {
-    "question": "Q: Which sport is the most popular in your class? — A: Basketball is the most __________ of all.【受歡迎的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "OK"
-     },
-     {
-      "letter": "B",
-      "text": "loud"
-     },
-     {
-      "letter": "C",
-      "text": "ready"
-     },
-     {
-      "letter": "D",
-      "text": "popular"
-     }
-    ],
-    "answer": "D",
-    "vi": 44
-   },
-   {
-    "question": "Q: Which day is the most special to you? — A: My birthday is the most __________ day of the year.【特別的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "same"
-     },
-     {
-      "letter": "B",
-      "text": "real"
-     },
-     {
-      "letter": "C",
-      "text": "special"
-     },
-     {
-      "letter": "D",
-      "text": "main"
-     }
-    ],
-    "answer": "C",
-    "vi": 45
-   },
-   {
-    "question": "Q: Whose bike is newer, yours or Tom's? — A: Tom's bike is __________ than mine.【新的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "newer"
-     },
-     {
-      "letter": "B",
-      "text": "other"
-     },
-     {
-      "letter": "C",
-      "text": "main"
-     },
-     {
-      "letter": "D",
-      "text": "afraid"
-     }
-    ],
-    "answer": "A",
-    "vi": 46
-   },
-   {
-    "question": "Q: Does your brother have an old cellphone? — A: No, he doesn't. He has the __________ one. It came out last week.【最新的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "lucky"
-     },
-     {
-      "letter": "B",
-      "text": "latest"
-     },
-     {
-      "letter": "C",
-      "text": "real"
-     },
-     {
-      "letter": "D",
-      "text": "else"
-     }
-    ],
-    "answer": "B",
-    "vi": 47
-   },
-   {
-    "question": "Q: Is your baby brother able to walk? — A: Yes, he is. He is __________ to walk now.【能夠…的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "special"
-     },
-     {
-      "letter": "B",
-      "text": "same"
-     },
-     {
-      "letter": "C",
-      "text": "able"
-     },
-     {
-      "letter": "D",
-      "text": "common"
-     }
-    ],
-    "answer": "C",
-    "vi": 48
-   },
-   {
-    "question": "Q: Does Lisa like snakes? — A: No, she doesn't. She is __________ of them.【害怕的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "same"
-     },
-     {
-      "letter": "B",
-      "text": "afraid"
-     },
-     {
-      "letter": "C",
-      "text": "safe"
-     },
-     {
-      "letter": "D",
-      "text": "OK"
-     }
-    ],
-    "answer": "B",
-    "vi": 49
-   },
-   {
-    "question": "Q: Do you like the dark? — A: No, I don't. I'm __________ of the dark.【害怕的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "surprised"
-     },
-     {
-      "letter": "B",
-      "text": "possible"
-     },
-     {
-      "letter": "C",
-      "text": "difficult"
-     },
-     {
-      "letter": "D",
-      "text": "scared"
-     }
-    ],
-    "answer": "D",
-    "vi": 50
-   },
-   {
-    "question": "Q: How do you feel about your new school? — A: I'm __________ to be here. Everyone is friendly.【高興的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "glad"
-     },
-     {
-      "letter": "B",
-      "text": "able"
-     },
-     {
-      "letter": "C",
-      "text": "sure"
-     },
-     {
-      "letter": "D",
       "text": "convenient"
-     }
-    ],
-    "answer": "A",
-    "vi": 51
-   },
-   {
-    "question": "Q: What does Tom say when he is late? — A: He says, \"I'm __________ I'm late.\"【抱歉的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "free"
-     },
-     {
-      "letter": "B",
-      "text": "sorry"
-     },
-     {
-      "letter": "C",
-      "text": "fresh"
      },
      {
       "letter": "D",
-      "text": "different"
+      "text": "pop"
      }
     ],
-    "answer": "B",
-    "vi": 52
+    "answer": "D",
+    "vi": 38
    },
    {
-    "question": "Q: Does Ben know the answer? — A: Yes, he does. He is __________ it's \"C.\"【確定的】",
+    "question": "This is a __________ building with a lot of glass. It was built only last year.",
     "options": [
      {
       "letter": "A",
-      "text": "sure"
+      "text": "modern"
      },
      {
       "letter": "B",
-      "text": "ready"
-     },
-     {
-      "letter": "C",
-      "text": "other"
-     },
-     {
-      "letter": "D",
-      "text": "wonderful"
-     }
-    ],
-    "answer": "A",
-    "vi": 53
-   },
-   {
-    "question": "Q: How do your parents feel about your test? — A: They are __________. It's my first 100!【感到驚訝的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "scared"
-     },
-     {
-      "letter": "B",
-      "text": "fine"
+      "text": "serious"
      },
      {
       "letter": "C",
@@ -2162,72 +1817,417 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "surprised"
-     }
-    ],
-    "answer": "D",
-    "vi": 54
-   },
-   {
-    "question": "Q: Do the students have their books and pencils? — A: Yes, they do. They are __________ for class.【準備好的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "excellent"
-     },
-     {
-      "letter": "B",
-      "text": "useful"
-     },
-     {
-      "letter": "C",
-      "text": "ready"
-     },
-     {
-      "letter": "D",
-      "text": "wrong"
-     }
-    ],
-    "answer": "C",
-    "vi": 55
-   },
-   {
-    "question": "Q: Does your leg still hurt? — A: No, it doesn't. I'm __________ now.【沒問題的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "OK"
-     },
-     {
-      "letter": "B",
-      "text": "Helpful"
-     },
-     {
-      "letter": "C",
-      "text": "Pop"
-     },
-     {
-      "letter": "D",
-      "text": "Wonderful"
+      "text": "lucky"
      }
     ],
     "answer": "A",
-    "vi": 56
+    "vi": 39
    },
    {
-    "question": "Q: Is it possible to walk to the zoo from here? — A: Yes, it's __________, but it takes an hour.【可能的】",
+    "question": "It is __________ to learn Chinese characters. Many foreigners take years to do it.",
     "options": [
      {
       "letter": "A",
-      "text": "fresh"
+      "text": "popular"
      },
      {
       "letter": "B",
-      "text": "true"
+      "text": "difficult"
+     },
+     {
+      "letter": "C",
+      "text": "special"
+     },
+     {
+      "letter": "D",
+      "text": "dangerous"
+     }
+    ],
+    "answer": "B",
+    "vi": 40
+   },
+   {
+    "question": "It is __________ to play on the street. A car may hit you.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "popular"
+     },
+     {
+      "letter": "B",
+      "text": "special"
+     },
+     {
+      "letter": "C",
+      "text": "interesting"
+     },
+     {
+      "letter": "D",
+      "text": "dangerous"
+     }
+    ],
+    "answer": "D",
+    "vi": 41
+   },
+   {
+    "question": "This book is very __________. I can't stop reading it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "interesting"
+     },
+     {
+      "letter": "B",
+      "text": "dangerous"
+     },
+     {
+      "letter": "C",
+      "text": "difficult"
+     },
+     {
+      "letter": "D",
+      "text": "important"
+     }
+    ],
+    "answer": "A",
+    "vi": 42
+   },
+   {
+    "question": "It is __________ to eat breakfast. Your body needs food to start the day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dangerous"
+     },
+     {
+      "letter": "B",
+      "text": "popular"
+     },
+     {
+      "letter": "C",
+      "text": "important"
+     },
+     {
+      "letter": "D",
+      "text": "difficult"
+     }
+    ],
+    "answer": "C",
+    "vi": 43
+   },
+   {
+    "question": "This singer is very __________ in Asia. Millions of young people love her songs.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dangerous"
+     },
+     {
+      "letter": "B",
+      "text": "popular"
+     },
+     {
+      "letter": "C",
+      "text": "difficult"
+     },
+     {
+      "letter": "D",
+      "text": "important"
+     }
+    ],
+    "answer": "B",
+    "vi": 44
+   },
+   {
+    "question": "Today is a __________ day. It is my parents' twentieth wedding anniversary.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "special"
+     },
+     {
+      "letter": "B",
+      "text": "dangerous"
+     },
+     {
+      "letter": "C",
+      "text": "difficult"
+     },
+     {
+      "letter": "D",
+      "text": "popular"
+     }
+    ],
+    "answer": "A",
+    "vi": 45
+   },
+   {
+    "question": "My phone is __________ than yours. I bought it last week, but you bought yours two years ago.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "older"
+     },
+     {
+      "letter": "B",
+      "text": "shorter"
+     },
+     {
+      "letter": "C",
+      "text": "taller"
+     },
+     {
+      "letter": "D",
+      "text": "newer"
+     }
+    ],
+    "answer": "D",
+    "vi": 46
+   },
+   {
+    "question": "Have you heard the singer's __________ song? It just came out yesterday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "oldest"
+     },
+     {
+      "letter": "B",
+      "text": "longest"
+     },
+     {
+      "letter": "C",
+      "text": "latest"
+     },
+     {
+      "letter": "D",
+      "text": "tallest"
+     }
+    ],
+    "answer": "C",
+    "vi": 47
+   },
+   {
+    "question": "After a year of practice, Ben is __________ to swim 500 meters without stopping.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "able"
+     },
+     {
+      "letter": "B",
+      "text": "afraid"
+     },
+     {
+      "letter": "C",
+      "text": "sorry"
+     },
+     {
+      "letter": "D",
+      "text": "glad"
+     }
+    ],
+    "answer": "A",
+    "vi": 48
+   },
+   {
+    "question": "Many children are __________ of the dark. They can't sleep without a light.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "able"
+     },
+     {
+      "letter": "B",
+      "text": "glad"
+     },
+     {
+      "letter": "C",
+      "text": "sure"
+     },
+     {
+      "letter": "D",
+      "text": "afraid"
+     }
+    ],
+    "answer": "D",
+    "vi": 49
+   },
+   {
+    "question": "I was so __________ when I saw the snake that I couldn't move or shout.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ready"
+     },
+     {
+      "letter": "B",
+      "text": "glad"
+     },
+     {
+      "letter": "C",
+      "text": "scared"
+     },
+     {
+      "letter": "D",
+      "text": "sure"
+     }
+    ],
+    "answer": "C",
+    "vi": 50
+   },
+   {
+    "question": "I am __________ to see you again. It has been a long time!",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sorry"
+     },
+     {
+      "letter": "B",
+      "text": "glad"
+     },
+     {
+      "letter": "C",
+      "text": "afraid"
+     },
+     {
+      "letter": "D",
+      "text": "able"
+     }
+    ],
+    "answer": "B",
+    "vi": 51
+   },
+   {
+    "question": "I am __________ I broke your cup. I will buy you a new one.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "glad"
+     },
+     {
+      "letter": "B",
+      "text": "sure"
      },
      {
       "letter": "C",
       "text": "ready"
+     },
+     {
+      "letter": "D",
+      "text": "sorry"
+     }
+    ],
+    "answer": "D",
+    "vi": 52
+   },
+   {
+    "question": "Are you __________ this is the right bus? I don't want to get on the wrong one.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sure"
+     },
+     {
+      "letter": "B",
+      "text": "sorry"
+     },
+     {
+      "letter": "C",
+      "text": "glad"
+     },
+     {
+      "letter": "D",
+      "text": "afraid"
+     }
+    ],
+    "answer": "A",
+    "vi": 53
+   },
+   {
+    "question": "I was __________ to see my old friend at the party. I didn't know he was in Taipei.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "ready"
+     },
+     {
+      "letter": "B",
+      "text": "able"
+     },
+     {
+      "letter": "C",
+      "text": "surprised"
+     },
+     {
+      "letter": "D",
+      "text": "sure"
+     }
+    ],
+    "answer": "C",
+    "vi": 54
+   },
+   {
+    "question": "Dinner is __________. Please come to the table now.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sorry"
+     },
+     {
+      "letter": "B",
+      "text": "ready"
+     },
+     {
+      "letter": "C",
+      "text": "afraid"
+     },
+     {
+      "letter": "D",
+      "text": "sure"
+     }
+    ],
+    "answer": "B",
+    "vi": 55
+   },
+   {
+    "question": "\"Is it __________ if I sit here?\" \"Sure. Nobody is using this chair.\"",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sorry"
+     },
+     {
+      "letter": "B",
+      "text": "afraid"
+     },
+     {
+      "letter": "C",
+      "text": "OK"
+     },
+     {
+      "letter": "D",
+      "text": "able"
+     }
+    ],
+    "answer": "C",
+    "vi": 56
+   },
+   {
+    "question": "Is it __________ to get to the airport in twenty minutes? No, it is too far.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "favorite"
+     },
+     {
+      "letter": "B",
+      "text": "dear"
+     },
+     {
+      "letter": "C",
+      "text": "national"
      },
      {
       "letter": "D",
@@ -2238,245 +2238,15 @@ window.FLASHCARD_UNITS = {
     "vi": 57
    },
    {
-    "question": "Q: What fruit do you like best? — A: Strawberries. They are my __________ fruit.【最喜愛的】",
+    "question": "Pizza is my __________ food. I like it more than anything else.",
     "options": [
      {
       "letter": "A",
-      "text": "pop"
-     },
-     {
-      "letter": "B",
       "text": "favorite"
-     },
-     {
-      "letter": "C",
-      "text": "special"
-     },
-     {
-      "letter": "D",
-      "text": "possible"
-     }
-    ],
-    "answer": "B",
-    "vi": 58
-   },
-   {
-    "question": "Q: Do you and your brother share a room? — A: No, we don't. I have my __________ room.【自己的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "foreign"
      },
      {
       "letter": "B",
       "text": "possible"
-     },
-     {
-      "letter": "C",
-      "text": "own"
-     },
-     {
-      "letter": "D",
-      "text": "dead"
-     }
-    ],
-    "answer": "C",
-    "vi": 59
-   },
-   {
-    "question": "Q: Does Amy have any brothers or sisters? — A: No, she doesn't. She is an __________ child.【唯一的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "modern"
-     },
-     {
-      "letter": "B",
-      "text": "quiet"
-     },
-     {
-      "letter": "C",
-      "text": "dirty"
-     },
-     {
-      "letter": "D",
-      "text": "only"
-     }
-    ],
-    "answer": "D",
-    "vi": 60
-   },
-   {
-    "question": "Q: Do all the students go home after school? — A: No, they don't. Some go home, and the __________ students stay for clubs.【其他的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "useful"
-     },
-     {
-      "letter": "B",
-      "text": "other"
-     },
-     {
-      "letter": "C",
-      "text": "wonderful"
-     },
-     {
-      "letter": "D",
-      "text": "only"
-     }
-    ],
-    "answer": "B",
-    "vi": 61
-   },
-   {
-    "question": "Q: I want a hamburger. Do you want anything __________? — A: Yes. I want some fries, too.【別的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "else"
-     },
-     {
-      "letter": "B",
-      "text": "correct"
-     },
-     {
-      "letter": "C",
-      "text": "fresh"
-     },
-     {
-      "letter": "D",
-      "text": "bright"
-     }
-    ],
-    "answer": "A",
-    "vi": 62
-   },
-   {
-    "question": "Q: Does Ben have __________ money for the ticket? — A: No, he doesn't. He needs ten more dollars.【足夠的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "pop"
-     },
-     {
-      "letter": "B",
-      "text": "safe"
-     },
-     {
-      "letter": "C",
-      "text": "enough"
-     },
-     {
-      "letter": "D",
-      "text": "thick"
-     }
-    ],
-    "answer": "C",
-    "vi": 63
-   },
-   {
-    "question": "Q: Where do your parents wait for you after school? — A: They wait at the __________ gate of the school.【主要的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "simple"
-     },
-     {
-      "letter": "B",
-      "text": "easy"
-     },
-     {
-      "letter": "C",
-      "text": "fresh"
-     },
-     {
-      "letter": "D",
-      "text": "main"
-     }
-    ],
-    "answer": "D",
-    "vi": 64
-   },
-   {
-    "question": "Q: Why don't we go to school on October 10? — A: Because it's a __________ holiday.【國家的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wonderful"
-     },
-     {
-      "letter": "B",
-      "text": "favorite"
-     },
-     {
-      "letter": "C",
-      "text": "national"
-     },
-     {
-      "letter": "D",
-      "text": "strange"
-     }
-    ],
-    "answer": "C",
-    "vi": 65
-   },
-   {
-    "question": "Q: What kind of food does Tom like? — A: He likes __________ food, like hamburgers and hot dogs.【美國的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Latest"
-     },
-     {
-      "letter": "B",
-      "text": "American"
-     },
-     {
-      "letter": "C",
-      "text": "Own"
-     },
-     {
-      "letter": "D",
-      "text": "Ready"
-     }
-    ],
-    "answer": "B",
-    "vi": 66
-   },
-   {
-    "question": "Q: Does the teacher check who is here every morning? — A: Yes, she does. Today all thirty students are __________.【出席的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "present"
-     },
-     {
-      "letter": "B",
-      "text": "pop"
-     },
-     {
-      "letter": "C",
-      "text": "true"
-     },
-     {
-      "letter": "D",
-      "text": "newer"
-     }
-    ],
-    "answer": "A",
-    "vi": 67
-   },
-   {
-    "question": "Q: How does Lisa start her letter to her grandma? — A: She writes, \"__________ Grandma, …\"【親愛的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "wonderful"
-     },
-     {
-      "letter": "B",
-      "text": "helpful"
      },
      {
       "letter": "C",
@@ -2484,13 +2254,243 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "pop"
+      "text": "present"
+     }
+    ],
+    "answer": "A",
+    "vi": 58
+   },
+   {
+    "question": "I don't share a room with my sister now. I have my __________ room.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "else"
+     },
+     {
+      "letter": "B",
+      "text": "own"
+     },
+     {
+      "letter": "C",
+      "text": "only"
+     },
+     {
+      "letter": "D",
+      "text": "enough"
+     }
+    ],
+    "answer": "B",
+    "vi": 59
+   },
+   {
+    "question": "Ben is the __________ boy in the dance club. All the other members are girls.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "only"
+     },
+     {
+      "letter": "B",
+      "text": "else"
+     },
+     {
+      "letter": "C",
+      "text": "own"
+     },
+     {
+      "letter": "D",
+      "text": "enough"
+     }
+    ],
+    "answer": "A",
+    "vi": 60
+   },
+   {
+    "question": "I have two brothers. One is a doctor, and the __________ one is a teacher.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "else"
+     },
+     {
+      "letter": "B",
+      "text": "own"
+     },
+     {
+      "letter": "C",
+      "text": "enough"
+     },
+     {
+      "letter": "D",
+      "text": "other"
+     }
+    ],
+    "answer": "D",
+    "vi": 61
+   },
+   {
+    "question": "I want a hamburger and a Coke. I don't want anything __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "own"
+     },
+     {
+      "letter": "B",
+      "text": "only"
+     },
+     {
+      "letter": "C",
+      "text": "else"
+     },
+     {
+      "letter": "D",
+      "text": "main"
      }
     ],
     "answer": "C",
+    "vi": 62
+   },
+   {
+    "question": "We have five people but only four chairs. There are not __________ chairs for everyone.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "else"
+     },
+     {
+      "letter": "B",
+      "text": "enough"
+     },
+     {
+      "letter": "C",
+      "text": "own"
+     },
+     {
+      "letter": "D",
+      "text": "main"
+     }
+    ],
+    "answer": "B",
+    "vi": 63
+   },
+   {
+    "question": "Rice is the __________ food in Taiwan. People eat it at almost every meal.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "main"
+     },
+     {
+      "letter": "B",
+      "text": "else"
+     },
+     {
+      "letter": "C",
+      "text": "dear"
+     },
+     {
+      "letter": "D",
+      "text": "present"
+     }
+    ],
+    "answer": "A",
+    "vi": 64
+   },
+   {
+    "question": "October 10 is the __________ holiday of the R.O.C. The whole country celebrates it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dear"
+     },
+     {
+      "letter": "B",
+      "text": "national"
+     },
+     {
+      "letter": "C",
+      "text": "present"
+     },
+     {
+      "letter": "D",
+      "text": "else"
+     }
+    ],
+    "answer": "B",
+    "vi": 65
+   },
+   {
+    "question": "The hamburger is a famous __________ food. People in the U.S.A. eat a lot of them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dear"
+     },
+     {
+      "letter": "B",
+      "text": "present"
+     },
+     {
+      "letter": "C",
+      "text": "else"
+     },
+     {
+      "letter": "D",
+      "text": "American"
+     }
+    ],
+    "answer": "D",
+    "vi": 66
+   },
+   {
+    "question": "All thirty students are __________ today. Nobody is absent.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dear"
+     },
+     {
+      "letter": "B",
+      "text": "main"
+     },
+     {
+      "letter": "C",
+      "text": "present"
+     },
+     {
+      "letter": "D",
+      "text": "national"
+     }
+    ],
+    "answer": "C",
+    "vi": 67
+   },
+   {
+    "question": "\"__________ Grandma, how are you? I miss you very much,\" Amy wrote at the top of her letter.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Main"
+     },
+     {
+      "letter": "B",
+      "text": "Present"
+     },
+     {
+      "letter": "C",
+      "text": "National"
+     },
+     {
+      "letter": "D",
+      "text": "Dear"
+     }
+    ],
+    "answer": "D",
     "vi": 68
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"scared":["afraid of something","害怕的"],"present":["something you give to someone; a gift","禮物"],"right":["the side opposite to left","右邊"],"other":["the second of two; the ones that are left","其他的（人／物）"],"american":["a person from the United States","美國人"],"correct":["to make something right","改正"],"own":["to have something that is yours","擁有"],"bright":["full of light","明亮的"],"dark":["with little or no light","黑暗的"],"dirty":["not clean","骯髒的"],"tidy":["clean, with everything in the right place","整潔的"],"dead":["not living anymore","死的"],"sharp":["able to cut things easily","銳利的"],"thick":["big from one side to the other; not thin","厚的"],"fresh":["just made or picked; not old","新鮮的"],"terrible":["very bad","很糟的"],"great":["very good","很棒的"],"fine":["good; well","很好的"],"loud":["making a lot of sound","大聲的"],"noisy":["full of loud sounds","吵鬧的"],"quiet":["with little or no sound","安靜的"],"strange":["not usual; different in a way that is hard to understand","奇怪的"],"wonderful":["very, very good","極好的"],"easy":["not hard to do","容易的"],"simple":["easy to understand or do","簡單的"],"hard":["not easy; not soft","困難的；硬的"],"wrong":["not right; not correct","錯誤的"],"true":["right and not a lie","真實的"],"real":["not fake; not only in stories","真正的"],"safe":["not in danger","安全的"],"free":["costing no money","免費的"],"same":["not different","相同的"],"different":["not the same","不同的"],"common":["seen or happening often","常見的"],"public":["for all people to use","公立的"],"foreign":["from another country","外國的"],"lucky":["having good things happen to you by chance","幸運的"],"helpful":["willing to help; useful","有幫助的"],"useful":["helping you to do something","有用的"],"convenient":["easy to use or get to","方便的"],"excellent":["very, very good","極好的"],"serious":["very bad or important; not a joke","嚴重的"],"magic":["able to do things that seem impossible","魔術的"],"pop":["(of music) modern and liked by many young people","流行的"],"modern":["of the present time; new","現代的"],"difficult":["hard to do or understand","困難的"],"dangerous":["able to hurt you","危險的"],"interesting":["making you want to know more","有趣的"],"important":["having great meaning or value","重要的"],"popular":["liked by many people","受歡迎的"],"special":["different from others in a good way","特別的"],"newer":["just made or bought; not old","新的"],"latest":["the newest","最新的"],"able":["having the power or skill to do something","能夠…的"],"afraid":["feeling fear","害怕的"],"glad":["happy about something","高興的"],"sorry":["feeling bad about something you did","抱歉的"],"sure":["knowing that something is true","確定的"],"surprised":["feeling that you did not expect something","感到驚訝的"],"ready":["prepared to do something","準備好的"],"ok":["all right; fine","沒問題的"],"possible":["able to happen or be done","可能的"],"favorite":["liked the most","最喜愛的"],"only":["with no other one of the same kind","唯一的"],"else":["different; in addition","別的"],"enough":["as much or as many as you need","足夠的"],"main":["most important","主要的"],"national":["of a whole country","國家的"],"dear":["loved; used at the start of a letter","親愛的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dark":["with little or no light","黑暗的"],"dirty":["not clean","骯髒的"],"bright":["full of light","明亮的"],"dead":["not living anymore","死的"],"sharp":["able to cut things easily","銳利的"],"fresh":["just made or picked; not old","新鮮的"],"tidy":["clean, with everything in the right place","整潔的"],"thick":["big from one side to the other; not thin","厚的"],"great":["very good","很棒的"],"terrible":["very bad","很糟的"],"fine":["good; well","很好的"],"wonderful":["very, very good","極好的"],"strange":["not usual; different in a way that is hard to understand","奇怪的"],"quiet":["with little or no sound","安靜的"],"loud":["making a lot of sound","大聲的"],"noisy":["full of loud sounds","吵鬧的"],"easy":["not hard to do","容易的"],"hard":["not easy; not soft","困難的；硬的"],"wrong":["not right; not correct","錯誤的"],"simple":["easy to understand or do","簡單的"],"safe":["not in danger","安全的"],"same":["not different","相同的"],"correct":["to make something right","改正"],"free":["costing no money","免費的"],"right":["the side opposite to left","右邊"],"true":["right and not a lie","真實的"],"real":["not fake; not only in stories","真正的"],"different":["not the same","不同的"],"common":["seen or happening often","常見的"],"foreign":["from another country","外國的"],"lucky":["having good things happen to you by chance","幸運的"],"public":["for all people to use","公立的"],"serious":["very bad or important; not a joke","嚴重的"],"modern":["of the present time; new","現代的"],"magic":["able to do things that seem impossible","魔術的"],"helpful":["willing to help; useful","有幫助的"],"useful":["helping you to do something","有用的"],"convenient":["easy to use or get to","方便的"],"important":["having great meaning or value","重要的"],"excellent":["very, very good","極好的"],"interesting":["making you want to know more","有趣的"],"pop":["(of music) modern and liked by many young people","流行的"],"popular":["liked by many people","受歡迎的"],"difficult":["hard to do or understand","困難的"],"special":["different from others in a good way","特別的"],"dangerous":["able to hurt you","危險的"],"older":["","較舊的；較老的"],"shorter":["not tall; not long","矮的；短的"],"taller":["","較高的"],"newer":["just made or bought; not old","新的"],"oldest":["","最舊的；最老的"],"longest":["","最長的"],"latest":["the newest","最新的"],"tallest":["","最高的"],"able":["having the power or skill to do something","能夠…的"],"afraid":["feeling fear","害怕的"],"sorry":["","抱歉"],"glad":["happy about something","高興的"],"sure":["knowing that something is true","確定的"],"ready":["prepared to do something","準備好的"],"scared":["afraid of something","害怕的"],"surprised":["feeling that you did not expect something","感到驚訝的"],"ok":["all right; fine","沒問題的"],"favorite":["liked the most","最喜愛的"],"dear":["loved; used at the start of a letter","親愛的"],"national":["of a whole country","國家的"],"possible":["able to happen or be done","可能的"],"present":["something you give to someone; a gift","禮物"],"else":["different; in addition","別的"],"own":["to have something that is yours","擁有"],"only":["with no other one of the same kind","唯一的"],"enough":["as much or as many as you need","足夠的"],"other":["the second of two; the ones that are left","其他的（人／物）"],"main":["most important","主要的"],"american":["a person from the United States","美國人"]});

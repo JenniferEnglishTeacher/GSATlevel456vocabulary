@@ -722,88 +722,88 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: Where does the sun come up every morning? — A: It __________ in the east.【升起；上升】",
+    "question": "The sun __________ in the east every morning and goes down in the west.",
     "options": [
      {
       "letter": "A",
+      "text": "grows"
+     },
+     {
+      "letter": "B",
       "text": "rises"
      },
      {
-      "letter": "B",
+      "letter": "C",
+      "text": "plants"
+     },
+     {
+      "letter": "D",
       "text": "parks"
-     },
-     {
-      "letter": "C",
-      "text": "makes"
-     },
-     {
-      "letter": "D",
-      "text": "misses"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "Q: Do your grandparents have a farm? — A: Yes, they do. They __________ rice and vegetables.【種植；生長】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "touch"
-     },
-     {
-      "letter": "B",
-      "text": "grow"
-     },
-     {
-      "letter": "C",
-      "text": "smoke"
-     },
-     {
-      "letter": "D",
-      "text": "list"
      }
     ],
     "answer": "B",
-    "vi": 1
+    "vi": 0
    },
    {
-    "question": "Q: What do the students do on Arbor Day? — A: They __________ trees.【種植；栽種】",
+    "question": "Farmers in Tainan __________ rice and many kinds of fruit.",
     "options": [
      {
       "letter": "A",
-      "text": "began"
+      "text": "rise"
      },
      {
       "letter": "B",
-      "text": "smoke"
+      "text": "walk"
      },
      {
       "letter": "C",
-      "text": "plant"
+      "text": "grow"
      },
      {
       "letter": "D",
-      "text": "took"
+      "text": "park"
      }
     ],
     "answer": "C",
-    "vi": 2
+    "vi": 1
    },
    {
-    "question": "Q: What does your aunt do on weekends? — A: She __________ cakes and cookies.【製作；做】",
+    "question": "We will __________ some trees in the school garden on Tree Day.",
     "options": [
      {
       "letter": "A",
-      "text": "leaves"
+      "text": "plant"
      },
      {
       "letter": "B",
-      "text": "rises"
+      "text": "rise"
      },
      {
       "letter": "C",
-      "text": "parks"
+      "text": "walk"
+     },
+     {
+      "letter": "D",
+      "text": "call"
+     }
+    ],
+    "answer": "A",
+    "vi": 2
+   },
+   {
+    "question": "My mom __________ delicious cakes. She bakes one every Sunday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "uses"
+     },
+     {
+      "letter": "B",
+      "text": "helps"
+     },
+     {
+      "letter": "C",
+      "text": "walks"
      },
      {
       "letter": "D",
@@ -814,34 +814,34 @@ window.FLASHCARD_UNITS = {
     "vi": 3
    },
    {
-    "question": "Q: What do you use to cut paper? — A: I __________ scissors.【使用】",
+    "question": "You can __________ my pen if you don't have one.",
     "options": [
      {
       "letter": "A",
-      "text": "use"
+      "text": "rise"
      },
      {
       "letter": "B",
-      "text": "rest"
+      "text": "walk"
      },
      {
       "letter": "C",
-      "text": "grow"
+      "text": "use"
      },
      {
       "letter": "D",
-      "text": "meet"
+      "text": "grow"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 4
    },
    {
-    "question": "Q: How does Ben help his mom at home? — A: He __________ her wash the dishes.【幫忙】",
+    "question": "Ben often __________ his mother with the housework. He washes the dishes every night.",
     "options": [
      {
       "letter": "A",
-      "text": "calls"
+      "text": "uses"
      },
      {
       "letter": "B",
@@ -849,30 +849,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "rises"
+      "text": "grows"
      },
      {
       "letter": "D",
-      "text": "leaves"
+      "text": "rises"
      }
     ],
     "answer": "B",
     "vi": 5
    },
    {
-    "question": "Q: How do you and your sister go to school? — A: We __________ to school. It's near.【走路】",
+    "question": "I __________ to school every day. It takes me fifteen minutes on foot.",
     "options": [
      {
       "letter": "A",
-      "text": "shout"
+      "text": "rise"
      },
      {
       "letter": "B",
-      "text": "rest"
+      "text": "grow"
      },
      {
       "letter": "C",
-      "text": "use"
+      "text": "plant"
      },
      {
       "letter": "D",
@@ -883,84 +883,84 @@ window.FLASHCARD_UNITS = {
     "vi": 6
    },
    {
-    "question": "Q: When does your dad leave for work? — A: He __________ home at seven.【離開；出發】",
+    "question": "The train __________ at eight o'clock. If you are late, you will miss it.",
     "options": [
      {
       "letter": "A",
-      "text": "belongs"
-     },
-     {
-      "letter": "B",
-      "text": "misses"
-     },
-     {
-      "letter": "C",
       "text": "leaves"
      },
      {
+      "letter": "B",
+      "text": "parks"
+     },
+     {
+      "letter": "C",
+      "text": "grows"
+     },
+     {
       "letter": "D",
-      "text": "makes"
+      "text": "plants"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 7
    },
    {
-    "question": "Q: Where does your uncle put his car at night? — A: He __________ it in front of his house.【停（車）】",
+    "question": "My father __________ his car in front of our house every night.",
     "options": [
      {
       "letter": "A",
-      "text": "helps"
-     },
-     {
-      "letter": "B",
-      "text": "makes"
-     },
-     {
-      "letter": "C",
       "text": "leaves"
      },
      {
-      "letter": "D",
-      "text": "parks"
-     }
-    ],
-    "answer": "D",
-    "vi": 8
-   },
-   {
-    "question": "Q: What time do the stores on this street open? — A: They __________ at ten in the morning.【打開；開門（營業）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "walk"
-     },
-     {
       "letter": "B",
-      "text": "open"
+      "text": "parks"
      },
      {
       "letter": "C",
-      "text": "grow"
+      "text": "opens"
      },
      {
       "letter": "D",
-      "text": "sign"
+      "text": "calls"
      }
     ],
     "answer": "B",
-    "vi": 9
+    "vi": 8
    },
    {
-    "question": "Q: Where do you and your friends meet after school? — A: We __________ at the park.【和…見面；遇見】",
+    "question": "The store will __________ at ten in the morning. You can't go in before that.",
     "options": [
      {
       "letter": "A",
-      "text": "type"
+      "text": "meet"
      },
      {
       "letter": "B",
-      "text": "hurry"
+      "text": "call"
+     },
+     {
+      "letter": "C",
+      "text": "miss"
+     },
+     {
+      "letter": "D",
+      "text": "open"
+     }
+    ],
+    "answer": "D",
+    "vi": 9
+   },
+   {
+    "question": "Let's __________ at the station at nine tomorrow. I will wait for you there.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "open"
+     },
+     {
+      "letter": "B",
+      "text": "belong"
      },
      {
       "letter": "C",
@@ -968,14 +968,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "list"
+      "text": "allow"
      }
     ],
     "answer": "C",
     "vi": 10
    },
    {
-    "question": "Q: Does Lisa talk to her grandma every day? — A: Yes, she does. She __________ her every evening.【打電話（給）】",
+    "question": "Grandma __________ us on the phone every Sunday night. We talk for an hour.",
     "options": [
      {
       "letter": "A",
@@ -983,22 +983,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "parks"
+      "text": "opens"
      },
      {
       "letter": "C",
-      "text": "makes"
+      "text": "misses"
      },
      {
       "letter": "D",
-      "text": "helps"
+      "text": "parks"
      }
     ],
     "answer": "A",
     "vi": 11
    },
    {
-    "question": "Q: Does Grandpa often talk about his hometown? — A: Yes, he does. He __________ it very much.【想念；錯過】",
+    "question": "Lisa is studying in America now. She __________ her family in Taiwan very much.",
     "options": [
      {
       "letter": "A",
@@ -1006,103 +1006,103 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "misses"
+      "text": "allows"
      },
      {
       "letter": "C",
-      "text": "rises"
+      "text": "opens"
      },
      {
       "letter": "D",
-      "text": "belongs"
-     }
-    ],
-    "answer": "B",
-    "vi": 12
-   },
-   {
-    "question": "Q: Does this pen belong to you? — A: No, it doesn't. It __________ to Amy.【屬於】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "leaves"
-     },
-     {
-      "letter": "B",
       "text": "misses"
-     },
-     {
-      "letter": "C",
-      "text": "helps"
-     },
-     {
-      "letter": "D",
-      "text": "belongs"
      }
     ],
     "answer": "D",
+    "vi": 12
+   },
+   {
+    "question": "This bike __________ to Tom. His name is on it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "agrees"
+     },
+     {
+      "letter": "B",
+      "text": "belongs"
+     },
+     {
+      "letter": "C",
+      "text": "allows"
+     },
+     {
+      "letter": "D",
+      "text": "calls"
+     }
+    ],
+    "answer": "B",
     "vi": 13
    },
    {
-    "question": "Q: Tom says the movie is great. Do you __________ with him? — A: Yes, I do. I like it, too.【同意】",
+    "question": "I think the movie is great, but my sister doesn't __________ with me. She says it is boring.",
     "options": [
      {
       "letter": "A",
-      "text": "agree"
+      "text": "belong"
      },
      {
       "letter": "B",
-      "text": "meet"
-     },
-     {
-      "letter": "C",
-      "text": "paste"
-     },
-     {
-      "letter": "D",
-      "text": "put"
-     }
-    ],
-    "answer": "A",
-    "vi": 14
-   },
-   {
-    "question": "Q: Do your parents __________ you to play games at night? — A: No, they don't. I have to go to bed at ten.【允許】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "rest"
-     },
-     {
-      "letter": "B",
-      "text": "list"
-     },
-     {
-      "letter": "C",
       "text": "allow"
      },
      {
-      "letter": "D",
+      "letter": "C",
       "text": "agree"
+     },
+     {
+      "letter": "D",
+      "text": "open"
      }
     ],
     "answer": "C",
-    "vi": 15
+    "vi": 14
    },
    {
-    "question": "Q: What is your dog doing in the yard? — A: It is __________ after a ball.【跑】",
+    "question": "My parents don't __________ me to play computer games on school nights.",
     "options": [
      {
       "letter": "A",
-      "text": "holding"
+      "text": "allow"
      },
      {
       "letter": "B",
-      "text": "hitting"
+      "text": "agree"
      },
      {
       "letter": "C",
-      "text": "standing"
+      "text": "belong"
+     },
+     {
+      "letter": "D",
+      "text": "miss"
+     }
+    ],
+    "answer": "A",
+    "vi": 15
+   },
+   {
+    "question": "The children are __________ around the playground. They are very fast.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hanging"
+     },
+     {
+      "letter": "B",
+      "text": "mopping"
+     },
+     {
+      "letter": "C",
+      "text": "knocking"
      },
      {
       "letter": "D",
@@ -1113,111 +1113,111 @@ window.FLASHCARD_UNITS = {
     "vi": 16
    },
    {
-    "question": "Q: What are the kids doing in the bedroom? — A: They are __________ on the bed.【跳】",
+    "question": "The kids are __________ on the bed. They go up and down again and again.",
     "options": [
      {
       "letter": "A",
-      "text": "kicking"
+      "text": "mopping"
      },
      {
       "letter": "B",
+      "text": "knocking"
+     },
+     {
+      "letter": "C",
       "text": "jumping"
      },
      {
-      "letter": "C",
-      "text": "standing"
-     },
-     {
       "letter": "D",
-      "text": "laughing"
+      "text": "hanging"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 17
    },
    {
-    "question": "Q: What are the students doing at the bus stop? — A: They are __________ in line.【站；站立】",
+    "question": "There are no seats on the bus, so many people are __________.",
     "options": [
      {
       "letter": "A",
-      "text": "shaking"
-     },
-     {
-      "letter": "B",
-      "text": "holding"
-     },
-     {
-      "letter": "C",
       "text": "standing"
      },
      {
-      "letter": "D",
-      "text": "hitting"
-     }
-    ],
-    "answer": "C",
-    "vi": 18
-   },
-   {
-    "question": "Q: What is Tom doing on the playground? — A: He is __________ a ball.【踢】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "kicking"
-     },
-     {
       "letter": "B",
-      "text": "hitting"
+      "text": "mopping"
      },
      {
       "letter": "C",
-      "text": "running"
+      "text": "kissing"
      },
      {
       "letter": "D",
-      "text": "mopping"
+      "text": "hanging"
      }
     ],
     "answer": "A",
-    "vi": 19
+    "vi": 18
    },
    {
-    "question": "Q: What is the baseball player doing? — A: He is __________ the ball with a bat.【打；擊】",
+    "question": "The boys are __________ a ball on the soccer field.",
     "options": [
      {
       "letter": "A",
-      "text": "pushing"
+      "text": "mopping"
      },
      {
       "letter": "B",
-      "text": "holding"
-     },
-     {
-      "letter": "C",
-      "text": "hitting"
-     },
-     {
-      "letter": "D",
-      "text": "running"
-     }
-    ],
-    "answer": "C",
-    "vi": 20
-   },
-   {
-    "question": "Q: What are the two teams doing? — A: They are __________ a long rope.【拉】",
-    "options": [
-     {
-      "letter": "A",
       "text": "kicking"
      },
      {
+      "letter": "C",
+      "text": "hanging"
+     },
+     {
+      "letter": "D",
+      "text": "waving"
+     }
+    ],
+    "answer": "B",
+    "vi": 19
+   },
+   {
+    "question": "The player is __________ the ball with a bat. The ball flies far away.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hitting"
+     },
+     {
       "letter": "B",
-      "text": "running"
+      "text": "mopping"
      },
      {
       "letter": "C",
-      "text": "pushing"
+      "text": "kissing"
+     },
+     {
+      "letter": "D",
+      "text": "hanging"
+     }
+    ],
+    "answer": "A",
+    "vi": 20
+   },
+   {
+    "question": "The horse is __________ a heavy cart behind it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "mopping"
+     },
+     {
+      "letter": "B",
+      "text": "knocking"
+     },
+     {
+      "letter": "C",
+      "text": "laughing"
      },
      {
       "letter": "D",
@@ -1228,34 +1228,34 @@ window.FLASHCARD_UNITS = {
     "vi": 21
    },
    {
-    "question": "Q: What is Dad doing? — A: He is __________ his bike up the hill.【推】",
+    "question": "The man is __________ his broken car from behind. It moves slowly down the road.",
     "options": [
      {
       "letter": "A",
-      "text": "pushing"
+      "text": "hanging"
      },
      {
       "letter": "B",
-      "text": "mopping"
+      "text": "laughing"
      },
      {
       "letter": "C",
-      "text": "waving"
+      "text": "pushing"
      },
      {
       "letter": "D",
-      "text": "hitting"
+      "text": "waving"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 22
    },
    {
-    "question": "Q: What is Aunt May doing? — A: She is __________ her baby.【抱著；拿著】",
+    "question": "The mother is __________ her baby in her arms.",
     "options": [
      {
       "letter": "A",
-      "text": "pulling"
+      "text": "mopping"
      },
      {
       "letter": "B",
@@ -1263,41 +1263,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "kissing"
+      "text": "knocking"
      },
      {
       "letter": "D",
-      "text": "knocking"
+      "text": "kicking"
      }
     ],
     "answer": "B",
     "vi": 23
    },
    {
-    "question": "Q: What is Mom doing on the balcony? — A: She is __________ the clothes.【掛；懸掛】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "waving"
-     },
-     {
-      "letter": "B",
-      "text": "pushing"
-     },
-     {
-      "letter": "C",
-      "text": "hanging"
-     },
-     {
-      "letter": "D",
-      "text": "standing"
-     }
-    ],
-    "answer": "C",
-    "vi": 24
-   },
-   {
-    "question": "Q: What is Grandma doing in the kitchen? — A: She is __________ the floor.【拖（地）】",
+    "question": "Dad is __________ a picture on the wall. He needs a nail and a hammer.",
     "options": [
      {
       "letter": "A",
@@ -1305,7 +1282,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "hitting"
+      "text": "mopping"
      },
      {
       "letter": "C",
@@ -1313,106 +1290,83 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "mopping"
-     }
-    ],
-    "answer": "D",
-    "vi": 25
-   },
-   {
-    "question": "Q: What is that man doing? — A: He is __________ on the door.【敲】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "running"
-     },
-     {
-      "letter": "B",
-      "text": "knocking"
-     },
-     {
-      "letter": "C",
-      "text": "kicking"
-     },
-     {
-      "letter": "D",
-      "text": "standing"
-     }
-    ],
-    "answer": "B",
-    "vi": 26
-   },
-   {
-    "question": "Q: What are the two players doing after the game? — A: They are __________ hands.【搖動；握（手）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "shaking"
-     },
-     {
-      "letter": "B",
-      "text": "jumping"
-     },
-     {
-      "letter": "C",
       "text": "waving"
-     },
-     {
-      "letter": "D",
-      "text": "knocking"
      }
     ],
     "answer": "A",
-    "vi": 27
+    "vi": 24
    },
    {
-    "question": "Q: What is Lisa doing at the school gate? — A: She is __________ goodbye to her friends.【揮手】",
+    "question": "Mom is __________ the kitchen floor. Don't walk on it now, because it is wet.",
     "options": [
      {
       "letter": "A",
-      "text": "laughing"
+      "text": "hanging"
      },
      {
       "letter": "B",
-      "text": "waving"
+      "text": "knocking"
      },
      {
       "letter": "C",
-      "text": "standing"
+      "text": "mopping"
      },
      {
       "letter": "D",
-      "text": "pushing"
-     }
-    ],
-    "answer": "B",
-    "vi": 28
-   },
-   {
-    "question": "Q: What is the mother doing? — A: She is __________ her baby good night.【親吻】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "running"
-     },
-     {
-      "letter": "B",
-      "text": "pushing"
-     },
-     {
-      "letter": "C",
       "text": "kissing"
-     },
-     {
-      "letter": "D",
-      "text": "standing"
      }
     ],
     "answer": "C",
-    "vi": 29
+    "vi": 25
    },
    {
-    "question": "Q: Why are the students so noisy? — A: They are __________ at a funny joke.【笑】",
+    "question": "Someone is __________ on the door. Go and see who it is.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "mopping"
+     },
+     {
+      "letter": "B",
+      "text": "hanging"
+     },
+     {
+      "letter": "C",
+      "text": "laughing"
+     },
+     {
+      "letter": "D",
+      "text": "knocking"
+     }
+    ],
+    "answer": "D",
+    "vi": 26
+   },
+   {
+    "question": "The two men are __________ hands. They are happy to meet each other.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "mopping"
+     },
+     {
+      "letter": "B",
+      "text": "shaking"
+     },
+     {
+      "letter": "C",
+      "text": "hanging"
+     },
+     {
+      "letter": "D",
+      "text": "kicking"
+     }
+    ],
+    "answer": "B",
+    "vi": 27
+   },
+   {
+    "question": "Lisa is __________ good-bye to her friends from the bus window.",
     "options": [
      {
       "letter": "A",
@@ -1420,11 +1374,57 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "kicking"
+      "text": "mopping"
      },
      {
       "letter": "C",
-      "text": "hitting"
+      "text": "hanging"
+     },
+     {
+      "letter": "D",
+      "text": "kicking"
+     }
+    ],
+    "answer": "A",
+    "vi": 28
+   },
+   {
+    "question": "The mother is __________ her baby on the face.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "mopping"
+     },
+     {
+      "letter": "B",
+      "text": "kissing"
+     },
+     {
+      "letter": "C",
+      "text": "hanging"
+     },
+     {
+      "letter": "D",
+      "text": "knocking"
+     }
+    ],
+    "answer": "B",
+    "vi": 29
+   },
+   {
+    "question": "The movie is so funny that everyone in the theater is __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "mopping"
+     },
+     {
+      "letter": "B",
+      "text": "hanging"
+     },
+     {
+      "letter": "C",
+      "text": "knocking"
      },
      {
       "letter": "D",
@@ -1435,7 +1435,30 @@ window.FLASHCARD_UNITS = {
     "vi": 30
    },
    {
-    "question": "Q: What did you do last Sunday? — A: I __________ my dog to the park.【帶；拿】",
+    "question": "I __________ my little sister to the park yesterday. We played there for two hours.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "put"
+     },
+     {
+      "letter": "B",
+      "text": "threw"
+     },
+     {
+      "letter": "C",
+      "text": "took"
+     },
+     {
+      "letter": "D",
+      "text": "rolled"
+     }
+    ],
+    "answer": "C",
+    "vi": 31
+   },
+   {
+    "question": "I __________ my keys on the table last night, but they are not there now.",
     "options": [
      {
       "letter": "A",
@@ -1447,99 +1470,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "paste"
+      "text": "told"
      },
      {
       "letter": "D",
-      "text": "plant"
-     }
-    ],
-    "answer": "A",
-    "vi": 31
-   },
-   {
-    "question": "Q: Where did you put my book? — A: I __________ it on your desk.【放】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hand"
-     },
-     {
-      "letter": "B",
-      "text": "meet"
-     },
-     {
-      "letter": "C",
-      "text": "put"
-     },
-     {
-      "letter": "D",
-      "text": "threw"
-     }
-    ],
-    "answer": "C",
-    "vi": 32
-   },
-   {
-    "question": "Q: What did Tom do with the ball? — A: He __________ it to his dog.【丟；扔】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "threw"
-     },
-     {
-      "letter": "B",
-      "text": "allow"
-     },
-     {
-      "letter": "C",
-      "text": "touch"
-     },
-     {
-      "letter": "D",
-      "text": "walk"
-     }
-    ],
-    "answer": "A",
-    "vi": 33
-   },
-   {
-    "question": "Q: What happened to your ball? — A: It __________ down the hill.【滾動】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "appeared"
-     },
-     {
-      "letter": "B",
-      "text": "rolled"
-     },
-     {
-      "letter": "C",
-      "text": "moved"
-     },
-     {
-      "letter": "D",
-      "text": "hunted"
+      "text": "began"
      }
     ],
     "answer": "B",
-    "vi": 34
+    "vi": 32
    },
    {
-    "question": "Q: What did you do on the farm yesterday? — A: We __________ strawberries.【摘；撿】",
+    "question": "The boy __________ a stone into the river. It made a big sound.",
     "options": [
      {
       "letter": "A",
-      "text": "attacked"
+      "text": "told"
      },
      {
       "letter": "B",
-      "text": "hunted"
+      "text": "began"
      },
      {
       "letter": "C",
-      "text": "killed"
+      "text": "threw"
+     },
+     {
+      "letter": "D",
+      "text": "packed"
+     }
+    ],
+    "answer": "C",
+    "vi": 33
+   },
+   {
+    "question": "The ball __________ down the hill and into the river.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rolled"
+     },
+     {
+      "letter": "B",
+      "text": "told"
+     },
+     {
+      "letter": "C",
+      "text": "packed"
+     },
+     {
+      "letter": "D",
+      "text": "hunted"
+     }
+    ],
+    "answer": "A",
+    "vi": 34
+   },
+   {
+    "question": "We __________ apples from the trees on the farm last weekend.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rolled"
+     },
+     {
+      "letter": "B",
+      "text": "told"
+     },
+     {
+      "letter": "C",
+      "text": "began"
      },
      {
       "letter": "D",
@@ -1550,11 +1550,11 @@ window.FLASHCARD_UNITS = {
     "vi": 35
    },
    {
-    "question": "Q: Did you get ready for the trip last night? — A: Yes, I did. I __________ my bag.【打包；收拾（行李）】",
+    "question": "I __________ my bag for the trip last night. I put in clothes, shoes, and a camera.",
     "options": [
      {
       "letter": "A",
-      "text": "moved"
+      "text": "rolled"
      },
      {
       "letter": "B",
@@ -1562,41 +1562,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "killed"
+      "text": "hunted"
      },
      {
       "letter": "D",
-      "text": "rolled"
+      "text": "appeared"
      }
     ],
     "answer": "B",
     "vi": 36
    },
    {
-    "question": "Q: Did Amy's family move last year? — A: Yes, they did. They __________ to Taipei.【搬家；移動】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "rolled"
-     },
-     {
-      "letter": "B",
-      "text": "packed"
-     },
-     {
-      "letter": "C",
-      "text": "moved"
-     },
-     {
-      "letter": "D",
-      "text": "picked"
-     }
-    ],
-    "answer": "C",
-    "vi": 37
-   },
-   {
-    "question": "Q: What did Grandma do last night? — A: She __________ us a story.【告訴；講】",
+    "question": "My family __________ from Taipei to Tainan last year. We live in a new house now.",
     "options": [
      {
       "letter": "A",
@@ -1604,252 +1581,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "become"
+      "text": "picked"
      },
      {
       "letter": "C",
-      "text": "open"
-     },
-     {
-      "letter": "D",
-      "text": "began"
-     }
-    ],
-    "answer": "A",
-    "vi": 38
-   },
-   {
-    "question": "Q: When did the movie begin last night? — A: It __________ at seven.【開始】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "put"
-     },
-     {
-      "letter": "B",
-      "text": "sign"
-     },
-     {
-      "letter": "C",
-      "text": "agree"
-     },
-     {
-      "letter": "D",
-      "text": "began"
-     }
-    ],
-    "answer": "D",
-    "vi": 39
-   },
-   {
-    "question": "Q: Did you see a rainbow yesterday? — A: Yes, I did. It __________ after the rain.【出現】",
-    "options": [
-     {
-      "letter": "A",
       "text": "moved"
      },
      {
-      "letter": "B",
-      "text": "packed"
-     },
-     {
-      "letter": "C",
-      "text": "appeared"
-     },
-     {
       "letter": "D",
-      "text": "killed"
-     }
-    ],
-    "answer": "C",
-    "vi": 40
-   },
-   {
-    "question": "Q: What did people do for food long ago? — A: They __________ animals.【打獵】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "rolled"
-     },
-     {
-      "letter": "B",
-      "text": "hunted"
-     },
-     {
-      "letter": "C",
-      "text": "packed"
-     },
-     {
-      "letter": "D",
-      "text": "picked"
-     }
-    ],
-    "answer": "B",
-    "vi": 41
-   },
-   {
-    "question": "Q: What happened to your cat yesterday? — A: A big dog __________ it, but it's OK now.【攻擊】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "attacked"
-     },
-     {
-      "letter": "B",
-      "text": "rolled"
-     },
-     {
-      "letter": "C",
-      "text": "appeared"
-     },
-     {
-      "letter": "D",
-      "text": "picked"
-     }
-    ],
-    "answer": "A",
-    "vi": 42
-   },
-   {
-    "question": "Q: What did Dad do in the kitchen last night? — A: He __________ a big bug.【殺死】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "packed"
-     },
-     {
-      "letter": "B",
-      "text": "hunted"
-     },
-     {
-      "letter": "C",
-      "text": "attacked"
-     },
-     {
-      "letter": "D",
-      "text": "killed"
-     }
-    ],
-    "answer": "D",
-    "vi": 43
-   },
-   {
-    "question": "Q: Will your brother be a doctor? — A: Yes, he will. He will __________ a doctor next year.【成為；變成】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "become"
-     },
-     {
-      "letter": "B",
-      "text": "use"
-     },
-     {
-      "letter": "C",
-      "text": "list"
-     },
-     {
-      "letter": "D",
-      "text": "agree"
-     }
-    ],
-    "answer": "A",
-    "vi": 44
-   },
-   {
-    "question": "Q: What will you do after the long walk? — A: I will __________ at home.【休息】",
-    "options": [
-     {
-      "letter": "A",
       "text": "threw"
-     },
-     {
-      "letter": "B",
-      "text": "rest"
-     },
-     {
-      "letter": "C",
-      "text": "plant"
-     },
-     {
-      "letter": "D",
-      "text": "hand"
-     }
-    ],
-    "answer": "B",
-    "vi": 45
-   },
-   {
-    "question": "Q: What will you do before you go shopping? — A: I will __________ the things I need.【列出；列清單】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "type"
-     },
-     {
-      "letter": "B",
-      "text": "meet"
-     },
-     {
-      "letter": "C",
-      "text": "list"
-     },
-     {
-      "letter": "D",
-      "text": "touch"
      }
     ],
     "answer": "C",
-    "vi": 46
+    "vi": 37
    },
    {
-    "question": "Q: Will your mom look at your test? — A: Yes, she will. She will __________ her name on it.【簽（名）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "allow"
-     },
-     {
-      "letter": "B",
-      "text": "open"
-     },
-     {
-      "letter": "C",
-      "text": "shout"
-     },
-     {
-      "letter": "D",
-      "text": "sign"
-     }
-    ],
-    "answer": "D",
-    "vi": 47
-   },
-   {
-    "question": "Q: What will you do with these photos? — A: I will __________ them in my notebook.【黏貼】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "paste"
-     },
-     {
-      "letter": "B",
-      "text": "began"
-     },
-     {
-      "letter": "C",
-      "text": "sign"
-     },
-     {
-      "letter": "D",
-      "text": "rest"
-     }
-    ],
-    "answer": "A",
-    "vi": 48
-   },
-   {
-    "question": "Q: Can you __________ me the salt, please? — A: Sure. Here you are.【傳遞；拿給】",
+    "question": "Grandma __________ us a story about a king before bed last night.",
     "options": [
      {
       "letter": "A",
@@ -1861,18 +1608,248 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "hand"
+      "text": "moved"
      },
      {
       "letter": "D",
       "text": "told"
      }
     ],
-    "answer": "C",
-    "vi": 49
+    "answer": "D",
+    "vi": 38
    },
    {
-    "question": "Q: Can you __________ fast on the computer? — A: Yes, I can. I use it every day.【打字】",
+    "question": "The class __________ at eight o'clock and ended at nine.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "began"
+     },
+     {
+      "letter": "B",
+      "text": "told"
+     },
+     {
+      "letter": "C",
+      "text": "picked"
+     },
+     {
+      "letter": "D",
+      "text": "threw"
+     }
+    ],
+    "answer": "A",
+    "vi": 39
+   },
+   {
+    "question": "A rainbow __________ in the sky after the rain. Then it slowly went away.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "packed"
+     },
+     {
+      "letter": "B",
+      "text": "appeared"
+     },
+     {
+      "letter": "C",
+      "text": "hunted"
+     },
+     {
+      "letter": "D",
+      "text": "told"
+     }
+    ],
+    "answer": "B",
+    "vi": 40
+   },
+   {
+    "question": "Long ago, people __________ wild animals for food. They used sticks and stones.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "appeared"
+     },
+     {
+      "letter": "B",
+      "text": "rolled"
+     },
+     {
+      "letter": "C",
+      "text": "told"
+     },
+     {
+      "letter": "D",
+      "text": "hunted"
+     }
+    ],
+    "answer": "D",
+    "vi": 41
+   },
+   {
+    "question": "The dog __________ the mailman and bit his leg yesterday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "appeared"
+     },
+     {
+      "letter": "B",
+      "text": "packed"
+     },
+     {
+      "letter": "C",
+      "text": "attacked"
+     },
+     {
+      "letter": "D",
+      "text": "rolled"
+     }
+    ],
+    "answer": "C",
+    "vi": 42
+   },
+   {
+    "question": "The cat caught a mouse and __________ it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "killed"
+     },
+     {
+      "letter": "B",
+      "text": "appeared"
+     },
+     {
+      "letter": "C",
+      "text": "packed"
+     },
+     {
+      "letter": "D",
+      "text": "told"
+     }
+    ],
+    "answer": "A",
+    "vi": 43
+   },
+   {
+    "question": "I want to __________ a doctor when I grow up. I hope to help sick people.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rest"
+     },
+     {
+      "letter": "B",
+      "text": "become"
+     },
+     {
+      "letter": "C",
+      "text": "list"
+     },
+     {
+      "letter": "D",
+      "text": "sign"
+     }
+    ],
+    "answer": "B",
+    "vi": 44
+   },
+   {
+    "question": "You look tired. Sit down and __________ for a while.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sign"
+     },
+     {
+      "letter": "B",
+      "text": "paste"
+     },
+     {
+      "letter": "C",
+      "text": "type"
+     },
+     {
+      "letter": "D",
+      "text": "rest"
+     }
+    ],
+    "answer": "D",
+    "vi": 45
+   },
+   {
+    "question": "Please __________ the things you need to buy on a piece of paper.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rest"
+     },
+     {
+      "letter": "B",
+      "text": "hurry"
+     },
+     {
+      "letter": "C",
+      "text": "list"
+     },
+     {
+      "letter": "D",
+      "text": "smoke"
+     }
+    ],
+    "answer": "C",
+    "vi": 46
+   },
+   {
+    "question": "Please __________ your name at the bottom of the paper with a pen.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sign"
+     },
+     {
+      "letter": "B",
+      "text": "rest"
+     },
+     {
+      "letter": "C",
+      "text": "hurry"
+     },
+     {
+      "letter": "D",
+      "text": "shout"
+     }
+    ],
+    "answer": "A",
+    "vi": 47
+   },
+   {
+    "question": "Cut out the picture and __________ it in your notebook with glue.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rest"
+     },
+     {
+      "letter": "B",
+      "text": "paste"
+     },
+     {
+      "letter": "C",
+      "text": "hurry"
+     },
+     {
+      "letter": "D",
+      "text": "shout"
+     }
+    ],
+    "answer": "B",
+    "vi": 48
+   },
+   {
+    "question": "Could you __________ me the salt, please? I can't reach it.",
     "options": [
      {
       "letter": "A",
@@ -1884,64 +1861,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "allow"
+      "text": "smoke"
      },
      {
       "letter": "D",
-      "text": "shout"
-     }
-    ],
-    "answer": "B",
-    "vi": 50
-   },
-   {
-    "question": "Q: Can I finish my breakfast first? — A: No. __________ up! The bus is coming.【趕快；匆忙】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Meet"
-     },
-     {
-      "letter": "B",
-      "text": "Hand"
-     },
-     {
-      "letter": "C",
-      "text": "Grow"
-     },
-     {
-      "letter": "D",
-      "text": "Hurry"
+      "text": "hand"
      }
     ],
     "answer": "D",
-    "vi": 51
+    "vi": 49
    },
    {
-    "question": "Q: Can I hold the pot? — A: No! Don't __________ it. It's very hot.【碰；觸摸】",
+    "question": "I can __________ fifty words a minute on the computer.",
     "options": [
      {
       "letter": "A",
-      "text": "touch"
+      "text": "rest"
      },
      {
       "letter": "B",
-      "text": "meet"
+      "text": "smoke"
      },
      {
       "letter": "C",
-      "text": "shout"
+      "text": "type"
      },
      {
       "letter": "D",
-      "text": "agree"
+      "text": "paste"
      }
     ],
-    "answer": "A",
-    "vi": 52
+    "answer": "C",
+    "vi": 50
    },
    {
-    "question": "Q: Can we play here? — A: Yes, but don't __________. The baby is sleeping.【大叫；喊叫】",
+    "question": "__________ up, or we will be late for school! The bus is leaving in two minutes.",
     "options": [
      {
       "letter": "A",
@@ -1949,11 +1903,57 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "threw"
+      "text": "Rest"
      },
      {
       "letter": "C",
-      "text": "list"
+      "text": "Sign"
+     },
+     {
+      "letter": "D",
+      "text": "Paste"
+     }
+    ],
+    "answer": "A",
+    "vi": 51
+   },
+   {
+    "question": "Don't __________ the pot. It is very hot, and you will burn your fingers.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sign"
+     },
+     {
+      "letter": "B",
+      "text": "touch"
+     },
+     {
+      "letter": "C",
+      "text": "type"
+     },
+     {
+      "letter": "D",
+      "text": "shout"
+     }
+    ],
+    "answer": "B",
+    "vi": 52
+   },
+   {
+    "question": "You don't have to __________. I am right here, and I can hear you well.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rest"
+     },
+     {
+      "letter": "B",
+      "text": "paste"
+     },
+     {
+      "letter": "C",
+      "text": "sign"
      },
      {
       "letter": "D",
@@ -1964,15 +1964,15 @@ window.FLASHCARD_UNITS = {
     "vi": 53
    },
    {
-    "question": "Q: Can my uncle smoke in the restaurant? — A: No. Please don't __________ here.【抽菸】",
+    "question": "You can't __________ in this restaurant. It is bad for your health, too.",
     "options": [
      {
       "letter": "A",
-      "text": "list"
+      "text": "paste"
      },
      {
       "letter": "B",
-      "text": "agree"
+      "text": "type"
      },
      {
       "letter": "C",
@@ -1980,7 +1980,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "put"
+      "text": "sign"
      }
     ],
     "answer": "C",
@@ -1989,4 +1989,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"hand":["the part at the end of your arm that you hold things with","手"],"grow":["to get bigger or older","成長；長大"],"plant":["a living thing with leaves and roots, like a tree or a flower","植物"],"rises":["to go up","升起；上升"],"makes":["to build, cook, or create something","製作；做"],"use":["to do something with a tool or a thing","使用"],"helps":["to do something for someone to make their work easier","幫忙"],"walk":["to move on your feet","走路"],"leaves":["to go away from a place","離開；出發"],"parks":["to stop a car and leave it somewhere","停（車）"],"open":["to move a door or lid so that things can go in or out; to start business for the day","打開；開門（營業）"],"meet":["to see and talk to someone for the first time or at a planned time","和…見面；遇見"],"calls":["to talk to someone on the phone","打電話（給）"],"misses":["to feel sad because someone or something is not with you","想念；錯過"],"belongs":["to be owned by someone","屬於"],"agree":["to have the same idea as someone","同意"],"allow":["to let someone do something","允許"],"running":["to move very fast on your legs","跑"],"jumping":["to push your body up into the air with your legs","跳"],"standing":["to be on your feet, not sitting","站；站立"],"kicking":["to hit something with your foot","踢"],"hitting":["to strike something hard with your hand or a stick","打；擊"],"pulling":["to move something toward you","拉"],"pushing":["to move something away from you with your hands","推"],"holding":["to have something in your hands or arms","抱著；拿著"],"hanging":["to put something up high so that the bottom part is free","掛；懸掛"],"mopping":["to clean the floor with a wet cloth on a long stick","拖（地）"],"knocking":["to hit a door with your hand to make a sound","敲"],"shaking":["to move something quickly up and down or from side to side","搖動；握（手）"],"waving":["to move your hand in the air to say hello or good-bye","揮手"],"kissing":["to touch someone with your lips to show love","親吻"],"laughing":["to make a sound with your voice because something is funny","笑"],"took":["to carry something or go with someone to a place","帶；拿"],"put":["to move something to a place","放"],"threw":["to send something through the air with your hand","丟；扔"],"rolled":["to move by turning over and over, like a ball","滾動"],"picked":["to take fruit or flowers from a plant with your hand","摘；撿"],"packed":["to put things into a bag or a box","打包；收拾（行李）"],"moved":["to go to live in a new home; to go from one place to another","搬家；移動"],"told":["to say something to someone","告訴；講"],"began":["to start","開始"],"appeared":["to come out so people can see it","出現"],"hunted":["to look for and catch wild animals for food","打獵"],"attacked":["to try to hurt someone or something","攻擊"],"killed":["to make a person, animal, or plant die","殺死"],"become":["to start to be something","成為；變成"],"rest":["to stop working and relax","休息"],"list":["to write things down one after another","列出；列清單"],"sign":["to write your name on something","簽（名）"],"paste":["to stick something onto paper with glue","黏貼"],"type":["to write using a keyboard","打字"],"hurry":["to do something or go somewhere quickly","趕快；匆忙"],"touch":["to put your hand or finger on something","碰；觸摸"],"shout":["to say something in a very loud voice","大叫；喊叫"],"smoke":["to breathe in the smoke of a cigarette","抽菸"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"grows":["to get bigger or older","成長；長大"],"rises":["to go up","升起；上升"],"plants":["a living thing with leaves and roots, like a tree or a flower","植物"],"parks":["to stop a car and leave it somewhere","停（車）"],"rise":["to go up","升起；上升"],"walk":["to move on your feet","走路"],"grow":["to get bigger or older","成長；長大"],"park":["a place with grass and trees where people walk and play","公園"],"plant":["a living thing with leaves and roots, like a tree or a flower","植物"],"call":["to talk to someone on the phone","打電話（給）"],"uses":["to do something with a tool or a thing","使用"],"helps":["to do something for someone to make their work easier","幫忙"],"walks":["to move on your feet","走路"],"makes":["to build, cook, or create something","製作；做"],"use":["to do something with a tool or a thing","使用"],"leaves":["to go away from a place","離開；出發"],"opens":["to move a door or lid so that things can go in or out; to start business for the day","打開；開門（營業）"],"calls":["to talk to someone on the phone","打電話（給）"],"meet":["to see and talk to someone for the first time or at a planned time","和…見面；遇見"],"miss":["a word used before the family name of a girl or a woman who is not married","小姐"],"open":["to move a door or lid so that things can go in or out; to start business for the day","打開；開門（營業）"],"belong":["to be owned by someone","屬於"],"allow":["to let someone do something","允許"],"misses":["to feel sad because someone or something is not with you","想念；錯過"],"allows":["to let someone do something","允許"],"agrees":["to have the same idea as someone","同意"],"belongs":["to be owned by someone","屬於"],"agree":["to have the same idea as someone","同意"],"hanging":["to put something up high so that the bottom part is free","掛；懸掛"],"mopping":["to clean the floor with a wet cloth on a long stick","拖（地）"],"knocking":["to hit a door with your hand to make a sound","敲"],"running":["to move very fast on your legs","跑"],"jumping":["to push your body up into the air with your legs","跳"],"standing":["to be on your feet, not sitting","站；站立"],"kissing":["to touch someone with your lips to show love","親吻"],"kicking":["to hit something with your foot","踢"],"waving":["to move your hand in the air to say hello or good-bye","揮手"],"hitting":["to strike something hard with your hand or a stick","打；擊"],"laughing":["to make a sound with your voice because something is funny","笑"],"pulling":["to move something toward you","拉"],"pushing":["to move something away from you with your hands","推"],"holding":["to have something in your hands or arms","抱著；拿著"],"shaking":["to move something quickly up and down or from side to side","搖動；握（手）"],"put":["to move something to a place","放"],"threw":["to send something through the air with your hand","丟；扔"],"took":["to carry something or go with someone to a place","帶；拿"],"rolled":["to move by turning over and over, like a ball","滾動"],"told":["to say something to someone","告訴；講"],"began":["to start","開始"],"packed":["to put things into a bag or a box","打包；收拾（行李）"],"hunted":["to look for and catch wild animals for food","打獵"],"picked":["to take fruit or flowers from a plant with your hand","摘；撿"],"appeared":["to come out so people can see it","出現"],"moved":["to go to live in a new home; to go from one place to another","搬家；移動"],"attacked":["to try to hurt someone or something","攻擊"],"killed":["to make a person, animal, or plant die","殺死"],"rest":["to stop working and relax","休息"],"become":["to start to be something","成為；變成"],"list":["to write things down one after another","列出；列清單"],"sign":["to write your name on something","簽（名）"],"paste":["to stick something onto paper with glue","黏貼"],"type":["to write using a keyboard","打字"],"hurry":["to do something or go somewhere quickly","趕快；匆忙"],"smoke":["to breathe in the smoke of a cigarette","抽菸"],"shout":["to say something in a very loud voice","大叫；喊叫"],"hand":["the part at the end of your arm that you hold things with","手"],"touch":["to put your hand or finger on something","碰；觸摸"]});

@@ -637,9 +637,9 @@ const LOOKUP = {
     "cn_def": "一些"
   },
   "most": {
-    "pos": "pron.",
-    "en_def": "almost all of a group",
-    "cn_def": "大部分（的人／物）"
+    "pos": "adv.",
+    "en_def": "",
+    "cn_def": "最"
   },
   "part": {
     "pos": "n.",

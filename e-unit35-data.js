@@ -748,80 +748,126 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: How does your grandma feel today? — A: She __________ much better now.【覺得；感覺】",
+    "question": "Grandma was sick last week, but she __________ much better today. She is smiling and eating well.",
     "options": [
      {
       "letter": "A",
+      "text": "smells"
+     },
+     {
+      "letter": "B",
       "text": "feels"
      },
      {
-      "letter": "B",
-      "text": "feeds"
-     },
-     {
       "letter": "C",
-      "text": "guess"
+      "text": "tastes"
      },
      {
       "letter": "D",
-      "text": "collects"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "Q: How do the flowers in your garden smell? — A: They __________ sweet.【聞起來】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cheat"
-     },
-     {
-      "letter": "B",
-      "text": "smell"
-     },
-     {
-      "letter": "C",
-      "text": "correct"
-     },
-     {
-      "letter": "D",
-      "text": "check"
+      "text": "sounds"
      }
     ],
     "answer": "B",
-    "vi": 1
+    "vi": 0
    },
    {
-    "question": "Q: How does the new song sound? — A: It __________ great. I love it.【聽起來】",
+    "question": "These roses __________ so sweet! I can enjoy them with my eyes closed.",
     "options": [
      {
       "letter": "A",
-      "text": "feeds"
+      "text": "sound"
      },
      {
       "letter": "B",
-      "text": "guess"
+      "text": "know"
      },
      {
       "letter": "C",
-      "text": "sounds"
+      "text": "smell"
      },
      {
       "letter": "D",
-      "text": "knows"
+      "text": "hope"
      }
     ],
     "answer": "C",
-    "vi": 2
+    "vi": 1
    },
    {
-    "question": "Q: How do these cookies taste? — A: They __________ sweet and yummy.【嚐起來；品嚐】",
+    "question": "\"Let's go to the beach this Sunday.\" \"That __________ great! I love swimming.\"",
     "options": [
      {
       "letter": "A",
-      "text": "remember"
+      "text": "smells"
+     },
+     {
+      "letter": "B",
+      "text": "tastes"
+     },
+     {
+      "letter": "C",
+      "text": "minds"
+     },
+     {
+      "letter": "D",
+      "text": "sounds"
+     }
+    ],
+    "answer": "D",
+    "vi": 2
+   },
+   {
+    "question": "These cookies __________ too sweet. I think you put in too much sugar.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "taste"
+     },
+     {
+      "letter": "B",
+      "text": "sound"
+     },
+     {
+      "letter": "C",
+      "text": "believe"
+     },
+     {
+      "letter": "D",
+      "text": "hope"
+     }
+    ],
+    "answer": "A",
+    "vi": 3
+   },
+   {
+    "question": "Lisa __________ the answer to the question, so she raises her hand quickly.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hopes"
+     },
+     {
+      "letter": "B",
+      "text": "minds"
+     },
+     {
+      "letter": "C",
+      "text": "knows"
+     },
+     {
+      "letter": "D",
+      "text": "bows"
+     }
+    ],
+    "answer": "C",
+    "vi": 4
+   },
+   {
+    "question": "I can't __________ his name. I met him last year, but I forgot what he is called.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "believe"
      },
      {
       "letter": "B",
@@ -829,64 +875,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "close"
+      "text": "hate"
      },
      {
       "letter": "D",
-      "text": "taste"
+      "text": "remember"
      }
     ],
     "answer": "D",
-    "vi": 3
-   },
-   {
-    "question": "Q: Does Lisa have Tom's phone number? — A: Yes, she does. She __________ his number.【知道；認識】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "hates"
-     },
-     {
-      "letter": "B",
-      "text": "guess"
-     },
-     {
-      "letter": "C",
-      "text": "knows"
-     },
-     {
-      "letter": "D",
-      "text": "feels"
-     }
-    ],
-    "answer": "C",
-    "vi": 4
-   },
-   {
-    "question": "Q: Do you __________ my name? — A: Yes, I do. You're Lisa.【記得】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "mind"
-     },
-     {
-      "letter": "B",
-      "text": "remember"
-     },
-     {
-      "letter": "C",
-      "text": "broke"
-     },
-     {
-      "letter": "D",
-      "text": "cheat"
-     }
-    ],
-    "answer": "B",
     "vi": 5
    },
    {
-    "question": "Q: What do you say about this book? — A: I __________ it's very interesting.【想；認為】",
+    "question": "I __________ it will rain soon. Look at those dark clouds in the sky.",
     "options": [
      {
       "letter": "A",
@@ -894,91 +894,91 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "define"
+      "text": "hate"
      },
      {
       "letter": "C",
-      "text": "heard"
+      "text": "mind"
      },
      {
       "letter": "D",
-      "text": "check"
+      "text": "bow"
      }
     ],
     "answer": "A",
     "vi": 6
    },
    {
-    "question": "Q: Does Amy say ghosts are real? — A: No, she doesn't. She doesn't __________ in ghosts.【相信】",
+    "question": "I don't __________ you. That story can't be true!",
     "options": [
      {
       "letter": "A",
-      "text": "went"
+      "text": "wish"
      },
      {
       "letter": "B",
-      "text": "hope"
-     },
-     {
-      "letter": "C",
-      "text": "define"
-     },
-     {
-      "letter": "D",
       "text": "believe"
-     }
-    ],
-    "answer": "D",
-    "vi": 7
-   },
-   {
-    "question": "Q: Do you have any plans for tomorrow? — A: Yes. We want to go to the beach. I __________ it will be sunny.【希望】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "heard"
-     },
-     {
-      "letter": "B",
-      "text": "hope"
      },
      {
       "letter": "C",
-      "text": "taste"
+      "text": "mind"
      },
      {
       "letter": "D",
-      "text": "mind"
+      "text": "bow"
      }
     ],
     "answer": "B",
-    "vi": 8
+    "vi": 7
    },
    {
-    "question": "Q: What does your sister ask for on her birthday? — A: She __________ a new bike.【想要】",
+    "question": "I __________ you get well soon. We all miss you at school.",
     "options": [
      {
       "letter": "A",
-      "text": "likes"
+      "text": "hate"
      },
      {
       "letter": "B",
-      "text": "knows"
+      "text": "mind"
      },
      {
       "letter": "C",
-      "text": "wants"
+      "text": "hope"
      },
      {
       "letter": "D",
-      "text": "hates"
+      "text": "know"
      }
     ],
     "answer": "C",
+    "vi": 8
+   },
+   {
+    "question": "My little brother __________ a new bike for his birthday. He asks Mom for one every day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "minds"
+     },
+     {
+      "letter": "B",
+      "text": "bows"
+     },
+     {
+      "letter": "C",
+      "text": "knows"
+     },
+     {
+      "letter": "D",
+      "text": "wants"
+     }
+    ],
+    "answer": "D",
     "vi": 9
    },
    {
-    "question": "Q: What does Ben take to art class? — A: He __________ some color pens.【需要】",
+    "question": "This plant __________ water. Its leaves are dry and yellow.",
     "options": [
      {
       "letter": "A",
@@ -986,45 +986,45 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "feeds"
+      "text": "hates"
      },
      {
       "letter": "C",
-      "text": "wants"
+      "text": "minds"
      },
      {
       "letter": "D",
-      "text": "hates"
+      "text": "believes"
      }
     ],
     "answer": "A",
     "vi": 10
    },
    {
-    "question": "Q: What do you say to Tom on his birthday? — A: I say, \"I __________ you a happy birthday!\"【祝福；希望】",
+    "question": "I __________ you a happy birthday! Here is a present for you.",
     "options": [
      {
       "letter": "A",
-      "text": "cheat"
+      "text": "mind"
      },
      {
       "letter": "B",
-      "text": "saw"
+      "text": "wish"
      },
      {
       "letter": "C",
-      "text": "close"
+      "text": "hate"
      },
      {
       "letter": "D",
-      "text": "wish"
+      "text": "remember"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 11
    },
    {
-    "question": "Q: What does your brother do after school? — A: He __________ to play basketball. He plays every day.【喜歡】",
+    "question": "Amy __________ ice cream very much. She eats it every day in summer.",
     "options": [
      {
       "letter": "A",
@@ -1032,30 +1032,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "wants"
+      "text": "hates"
      },
      {
       "letter": "C",
-      "text": "guess"
+      "text": "minds"
      },
      {
       "letter": "D",
-      "text": "knows"
+      "text": "bows"
      }
     ],
     "answer": "A",
     "vi": 12
    },
    {
-    "question": "Q: Do your parents enjoy cooking? — A: Yes, they do. They __________ cooking.【喜愛；愛】",
+    "question": "I __________ my parents very much. They are the most important people in my life.",
     "options": [
      {
       "letter": "A",
-      "text": "came"
+      "text": "hate"
      },
      {
       "letter": "B",
-      "text": "heard"
+      "text": "mind"
      },
      {
       "letter": "C",
@@ -1063,18 +1063,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "worry"
+      "text": "bow"
      }
     ],
     "answer": "C",
     "vi": 13
    },
    {
-    "question": "Q: Does your cat enjoy water? — A: No, it doesn't. It __________ water.【討厭】",
+    "question": "My cat __________ water. It runs away when I try to give it a bath.",
     "options": [
      {
       "letter": "A",
-      "text": "feeds"
+      "text": "loves"
      },
      {
       "letter": "B",
@@ -1082,30 +1082,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "knows"
+      "text": "hopes"
      },
      {
       "letter": "D",
-      "text": "sounds"
+      "text": "wishes"
      }
     ],
     "answer": "B",
     "vi": 14
    },
    {
-    "question": "Q: Do you __________ if I sit here? — A: No, I don't. Please sit down.【介意】",
+    "question": "Do you __________ if I open the window? It is a little hot in here.",
     "options": [
      {
       "letter": "A",
-      "text": "choose"
+      "text": "bow"
      },
      {
       "letter": "B",
-      "text": "hope"
+      "text": "collect"
      },
      {
       "letter": "C",
-      "text": "brought"
+      "text": "feed"
      },
      {
       "letter": "D",
@@ -1116,34 +1116,34 @@ window.FLASHCARD_UNITS = {
     "vi": 15
    },
    {
-    "question": "Q: What do people in Japan do when they meet? — A: They __________ to each other.【鞠躬；敬禮】",
+    "question": "In Japan, people __________ when they meet. They bend their bodies forward to say hello.",
     "options": [
      {
       "letter": "A",
-      "text": "bow"
+      "text": "mind"
      },
      {
       "letter": "B",
-      "text": "surprise"
+      "text": "feed"
      },
      {
       "letter": "C",
-      "text": "check"
+      "text": "bow"
      },
      {
       "letter": "D",
-      "text": "cheat"
+      "text": "collect"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 16
    },
    {
-    "question": "Q: What does Uncle Jack do in his free time? — A: He __________ stamps.【收集】",
+    "question": "My grandpa __________ stamps. He has more than two thousand from fifty countries.",
     "options": [
      {
       "letter": "A",
-      "text": "likes"
+      "text": "feeds"
      },
      {
       "letter": "B",
@@ -1151,30 +1151,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "feels"
+      "text": "minds"
      },
      {
       "letter": "D",
-      "text": "needs"
+      "text": "bows"
      }
     ],
     "answer": "B",
     "vi": 17
    },
    {
-    "question": "Q: What does your sister do every morning? — A: She __________ the fish.【餵】",
+    "question": "Lisa __________ her dog twice a day. She gives it dog food and fresh water.",
     "options": [
      {
       "letter": "A",
-      "text": "wants"
+      "text": "collects"
      },
      {
       "letter": "B",
-      "text": "hates"
+      "text": "bows"
      },
      {
       "letter": "C",
-      "text": "collects"
+      "text": "hopes"
      },
      {
       "letter": "D",
@@ -1185,57 +1185,11 @@ window.FLASHCARD_UNITS = {
     "vi": 18
    },
    {
-    "question": "Q: What are the students doing? — A: They are __________ at the blackboard.【看（著）】",
+    "question": "The students are __________ at the blackboard. The teacher is writing new words on it.",
     "options": [
      {
       "letter": "A",
-      "text": "brushing"
-     },
-     {
-      "letter": "B",
-      "text": "digging"
-     },
-     {
-      "letter": "C",
       "text": "looking"
-     },
-     {
-      "letter": "D",
-      "text": "watching"
-     }
-    ],
-    "answer": "C",
-    "vi": 19
-   },
-   {
-    "question": "Q: What is Grandpa doing now? — A: He is __________ TV in the living room.【觀看；注視】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "frying"
-     },
-     {
-      "letter": "B",
-      "text": "crying"
-     },
-     {
-      "letter": "C",
-      "text": "looking"
-     },
-     {
-      "letter": "D",
-      "text": "watching"
-     }
-    ],
-    "answer": "D",
-    "vi": 20
-   },
-   {
-    "question": "Q: What is Amy doing in her room? — A: She is __________ to music.【聽】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "catching"
      },
      {
       "letter": "B",
@@ -1243,22 +1197,91 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "digging"
+      "text": "clapping"
      },
      {
       "letter": "D",
-      "text": "cutting"
+      "text": "digging"
+     }
+    ],
+    "answer": "A",
+    "vi": 19
+   },
+   {
+    "question": "We are __________ a baseball game on TV. Our team is winning now.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "listening"
+     },
+     {
+      "letter": "B",
+      "text": "digging"
+     },
+     {
+      "letter": "C",
+      "text": "watching"
+     },
+     {
+      "letter": "D",
+      "text": "frying"
+     }
+    ],
+    "answer": "C",
+    "vi": 20
+   },
+   {
+    "question": "Amy is __________ to music in her room. She has her earphones on.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "looking"
+     },
+     {
+      "letter": "B",
+      "text": "listening"
+     },
+     {
+      "letter": "C",
+      "text": "watching"
+     },
+     {
+      "letter": "D",
+      "text": "digging"
      }
     ],
     "answer": "B",
     "vi": 21
    },
    {
-    "question": "Q: What is Dad doing? — A: He is __________ a big box into the house.【搬；攜帶】",
+    "question": "The mailman is __________ a heavy bag of letters on his back.",
     "options": [
      {
       "letter": "A",
+      "text": "clapping"
+     },
+     {
+      "letter": "B",
+      "text": "crying"
+     },
+     {
+      "letter": "C",
+      "text": "digging"
+     },
+     {
+      "letter": "D",
       "text": "carrying"
+     }
+    ],
+    "answer": "D",
+    "vi": 22
+   },
+   {
+    "question": "The dog is good at __________ balls. It jumps up and gets them with its mouth.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "catching"
      },
      {
       "letter": "B",
@@ -1270,60 +1293,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "listening"
+      "text": "frying"
      }
     ],
     "answer": "A",
-    "vi": 22
-   },
-   {
-    "question": "Q: What is your dog doing in the park? — A: It is __________ a ball.【接住；抓】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "listening"
-     },
-     {
-      "letter": "B",
-      "text": "digging"
-     },
-     {
-      "letter": "C",
-      "text": "catching"
-     },
-     {
-      "letter": "D",
-      "text": "looking"
-     }
-    ],
-    "answer": "C",
     "vi": 23
    },
    {
-    "question": "Q: What are the fans doing? — A: They are __________ their hands for the team.【拍手】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "listening"
-     },
-     {
-      "letter": "B",
-      "text": "watching"
-     },
-     {
-      "letter": "C",
-      "text": "frying"
-     },
-     {
-      "letter": "D",
-      "text": "clapping"
-     }
-    ],
-    "answer": "D",
-    "vi": 24
-   },
-   {
-    "question": "Q: What is your brother doing in the bathroom? — A: He is __________ his teeth.【刷】",
+    "question": "The show was great. Everyone is standing up and __________ their hands.",
     "options": [
      {
       "letter": "A",
@@ -1331,68 +1308,91 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "listening"
+      "text": "cutting"
      },
      {
       "letter": "C",
-      "text": "watching"
+      "text": "clapping"
      },
      {
       "letter": "D",
       "text": "frying"
+     }
+    ],
+    "answer": "C",
+    "vi": 24
+   },
+   {
+    "question": "Ben is in the bathroom. He is __________ his teeth before bed.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "brushing"
+     },
+     {
+      "letter": "B",
+      "text": "clapping"
+     },
+     {
+      "letter": "C",
+      "text": "frying"
+     },
+     {
+      "letter": "D",
+      "text": "digging"
      }
     ],
     "answer": "A",
     "vi": 25
    },
    {
-    "question": "Q: What is Mom doing in the kitchen? — A: She is __________ vegetables.【切；剪】",
+    "question": "Mom is __________ the cake into eight pieces with a knife.",
     "options": [
      {
       "letter": "A",
-      "text": "clapping"
-     },
-     {
-      "letter": "B",
-      "text": "looking"
-     },
-     {
-      "letter": "C",
-      "text": "cutting"
-     },
-     {
-      "letter": "D",
-      "text": "crying"
-     }
-    ],
-    "answer": "C",
-    "vi": 26
-   },
-   {
-    "question": "Q: What is your uncle doing at the night market? — A: He is __________ chicken.【油炸；煎】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "brushing"
-     },
-     {
-      "letter": "B",
       "text": "frying"
      },
      {
-      "letter": "C",
+      "letter": "B",
       "text": "cutting"
      },
      {
+      "letter": "C",
+      "text": "digging"
+     },
+     {
       "letter": "D",
-      "text": "catching"
+      "text": "clapping"
      }
     ],
     "answer": "B",
+    "vi": 26
+   },
+   {
+    "question": "Dad is __________ two eggs in a pan with a little oil.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "digging"
+     },
+     {
+      "letter": "B",
+      "text": "clapping"
+     },
+     {
+      "letter": "C",
+      "text": "brushing"
+     },
+     {
+      "letter": "D",
+      "text": "frying"
+     }
+    ],
+    "answer": "D",
     "vi": 27
    },
    {
-    "question": "Q: What are the children doing on the beach? — A: They are __________ in the sand.【挖】",
+    "question": "The dog is __________ a hole in the yard. It wants to hide its bone there.",
     "options": [
      {
       "letter": "A",
@@ -1408,14 +1408,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "looking"
+      "text": "brushing"
      }
     ],
     "answer": "C",
     "vi": 28
    },
    {
-    "question": "Q: What is the baby doing? — A: She is __________. She is hungry.【哭】",
+    "question": "The baby is __________ loudly. I think she is hungry or tired.",
     "options": [
      {
       "letter": "A",
@@ -1423,22 +1423,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "listening"
+      "text": "clapping"
      },
      {
       "letter": "C",
-      "text": "carrying"
+      "text": "digging"
      },
      {
       "letter": "D",
-      "text": "looking"
+      "text": "frying"
      }
     ],
     "answer": "A",
     "vi": 29
    },
    {
-    "question": "Q: What are those two boys doing? — A: They are __________. Let's tell the teacher.【打架；爭吵】",
+    "question": "Those two boys are __________ again. One is pulling the other's hair. Please stop them!",
     "options": [
      {
       "letter": "A",
@@ -1446,114 +1446,114 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "brushing"
+      "text": "fighting"
      },
      {
       "letter": "C",
-      "text": "watching"
+      "text": "digging"
      },
      {
       "letter": "D",
-      "text": "fighting"
+      "text": "frying"
      }
     ],
-    "answer": "D",
+    "answer": "B",
     "vi": 30
    },
    {
-    "question": "Q: What did you do at the zoo yesterday? — A: I __________ a big elephant.【看見】",
+    "question": "I __________ a rainbow in the sky after the rain yesterday. It was beautiful.",
     "options": [
      {
       "letter": "A",
-      "text": "correct"
-     },
-     {
-      "letter": "B",
-      "text": "saw"
-     },
-     {
-      "letter": "C",
-      "text": "taste"
-     },
-     {
-      "letter": "D",
-      "text": "think"
-     }
-    ],
-    "answer": "B",
-    "vi": 31
-   },
-   {
-    "question": "Q: Why did you get up last night? — A: I __________ a strange noise outside.【聽見】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "love"
-     },
-     {
-      "letter": "B",
-      "text": "cover"
-     },
-     {
-      "letter": "C",
       "text": "heard"
      },
      {
-      "letter": "D",
-      "text": "mind"
-     }
-    ],
-    "answer": "C",
-    "vi": 32
-   },
-   {
-    "question": "Q: Did Amy look different yesterday? — A: Yes, she did. I __________ her new glasses.【注意到】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "finished"
-     },
-     {
       "letter": "B",
-      "text": "noticed"
-     },
-     {
-      "letter": "C",
-      "text": "ended"
-     },
-     {
-      "letter": "D",
-      "text": "dropped"
-     }
-    ],
-    "answer": "B",
-    "vi": 33
-   },
-   {
-    "question": "Q: Why did Tom buy lunch at school yesterday? — A: He __________ his lunch box at home.【忘記】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "correct"
-     },
-     {
-      "letter": "B",
-      "text": "check"
-     },
-     {
-      "letter": "C",
-      "text": "came"
-     },
-     {
-      "letter": "D",
       "text": "forgot"
+     },
+     {
+      "letter": "C",
+      "text": "dropped"
+     },
+     {
+      "letter": "D",
+      "text": "saw"
      }
     ],
     "answer": "D",
+    "vi": 31
+   },
+   {
+    "question": "I __________ a loud noise outside last night. It sounded like something fell.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "saw"
+     },
+     {
+      "letter": "B",
+      "text": "heard"
+     },
+     {
+      "letter": "C",
+      "text": "forgot"
+     },
+     {
+      "letter": "D",
+      "text": "brought"
+     }
+    ],
+    "answer": "B",
+    "vi": 32
+   },
+   {
+    "question": "I __________ that Amy had a new haircut this morning. Nobody else saw the change.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dropped"
+     },
+     {
+      "letter": "B",
+      "text": "ended"
+     },
+     {
+      "letter": "C",
+      "text": "brought"
+     },
+     {
+      "letter": "D",
+      "text": "noticed"
+     }
+    ],
+    "answer": "D",
+    "vi": 33
+   },
+   {
+    "question": "I __________ to bring my homework today. I left it on my desk at home.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "noticed"
+     },
+     {
+      "letter": "B",
+      "text": "finished"
+     },
+     {
+      "letter": "C",
+      "text": "forgot"
+     },
+     {
+      "letter": "D",
+      "text": "heard"
+     }
+    ],
+    "answer": "C",
     "vi": 34
    },
    {
-    "question": "Q: What did you do last Sunday? — A: I __________ to the beach with my family.【去】",
+    "question": "We __________ to the zoo last Sunday. We got there by bus at ten.",
     "options": [
      {
       "letter": "A",
@@ -1561,95 +1561,95 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "define"
+      "text": "came"
      },
      {
       "letter": "C",
-      "text": "remember"
+      "text": "brought"
      },
      {
       "letter": "D",
-      "text": "blow"
+      "text": "broke"
      }
     ],
     "answer": "A",
     "vi": 35
    },
    {
-    "question": "Q: Did Uncle Jack visit you yesterday? — A: Yes, he did. He __________ to our house for dinner.【來】",
+    "question": "My uncle __________ to our house for dinner last night. He arrived at six.",
     "options": [
      {
       "letter": "A",
-      "text": "blow"
+      "text": "went"
      },
      {
       "letter": "B",
-      "text": "remember"
+      "text": "dropped"
      },
      {
       "letter": "C",
-      "text": "came"
+      "text": "broke"
      },
      {
       "letter": "D",
-      "text": "mind"
+      "text": "came"
      }
     ],
-    "answer": "C",
+    "answer": "D",
     "vi": 36
    },
    {
-    "question": "Q: Did you have food for the picnic yesterday? — A: Yes, I did. I __________ some sandwiches.【帶來】",
+    "question": "Amy __________ a cake to the party yesterday. We all ate a piece.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "went"
+     },
+     {
+      "letter": "B",
+      "text": "came"
+     },
+     {
+      "letter": "C",
+      "text": "brought"
+     },
+     {
+      "letter": "D",
+      "text": "ended"
+     }
+    ],
+    "answer": "C",
+    "vi": 37
+   },
+   {
+    "question": "Tom __________ the window with his baseball yesterday. There was glass all over the floor.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "broke"
+     },
+     {
+      "letter": "B",
+      "text": "brought"
+     },
+     {
+      "letter": "C",
+      "text": "finished"
+     },
+     {
+      "letter": "D",
+      "text": "noticed"
+     }
+    ],
+    "answer": "A",
+    "vi": 38
+   },
+   {
+    "question": "I __________ my phone on the floor, and the screen broke.",
     "options": [
      {
       "letter": "A",
       "text": "brought"
-     },
-     {
-      "letter": "B",
-      "text": "broke"
-     },
-     {
-      "letter": "C",
-      "text": "cheat"
-     },
-     {
-      "letter": "D",
-      "text": "believe"
-     }
-    ],
-    "answer": "A",
-    "vi": 37
-   },
-   {
-    "question": "Q: What did Tom do yesterday? — A: He __________ the window with his ball.【打破】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cover"
-     },
-     {
-      "letter": "B",
-      "text": "love"
-     },
-     {
-      "letter": "C",
-      "text": "smell"
-     },
-     {
-      "letter": "D",
-      "text": "broke"
-     }
-    ],
-    "answer": "D",
-    "vi": 38
-   },
-   {
-    "question": "Q: What happened to your phone? — A: I __________ it on the floor yesterday.【（使）掉落】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "noticed"
      },
      {
       "letter": "B",
@@ -1661,64 +1661,64 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "ended"
+      "text": "noticed"
      }
     ],
     "answer": "B",
     "vi": 39
    },
    {
-    "question": "Q: Did Ben do his homework last night? — A: Yes, he did. He __________ it at nine.【完成】",
+    "question": "I __________ my homework at nine last night. Then I watched TV for an hour.",
     "options": [
      {
       "letter": "A",
-      "text": "noticed"
-     },
-     {
-      "letter": "B",
-      "text": "ended"
-     },
-     {
-      "letter": "C",
-      "text": "dropped"
-     },
-     {
-      "letter": "D",
-      "text": "finished"
-     }
-    ],
-    "answer": "D",
-    "vi": 40
-   },
-   {
-    "question": "Q: Was the movie long last night? — A: Yes. It __________ at eleven o'clock.【結束】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "ended"
-     },
-     {
-      "letter": "B",
-      "text": "noticed"
-     },
-     {
-      "letter": "C",
       "text": "finished"
      },
      {
-      "letter": "D",
+      "letter": "B",
       "text": "dropped"
+     },
+     {
+      "letter": "C",
+      "text": "broke"
+     },
+     {
+      "letter": "D",
+      "text": "heard"
      }
     ],
     "answer": "A",
-    "vi": 41
+    "vi": 40
    },
    {
-    "question": "Q: What will Dad do before the trip tomorrow? — A: He will __________ the car.【檢查】",
+    "question": "The movie __________ at eleven last night. We got home after midnight.",
     "options": [
      {
       "letter": "A",
-      "text": "brought"
+      "text": "dropped"
+     },
+     {
+      "letter": "B",
+      "text": "noticed"
+     },
+     {
+      "letter": "C",
+      "text": "forgot"
+     },
+     {
+      "letter": "D",
+      "text": "ended"
+     }
+    ],
+    "answer": "D",
+    "vi": 41
+   },
+   {
+    "question": "Please __________ your answers again before you hand in the test. You may find a mistake.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "guess"
      },
      {
       "letter": "B",
@@ -1726,26 +1726,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "mind"
+      "text": "cover"
      },
      {
       "letter": "D",
-      "text": "define"
+      "text": "cheat"
      }
     ],
     "answer": "B",
     "vi": 42
    },
    {
-    "question": "Q: What will you do with your mistakes? — A: I will __________ them.【改正】",
+    "question": "The teacher asked us to __________ our mistakes with a red pen.",
     "options": [
      {
       "letter": "A",
-      "text": "worry"
+      "text": "guess"
      },
      {
       "letter": "B",
-      "text": "close"
+      "text": "cover"
      },
      {
       "letter": "C",
@@ -1753,26 +1753,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "broke"
+      "text": "enter"
      }
     ],
     "answer": "C",
     "vi": 43
    },
    {
-    "question": "Q: Which cake will you have, chocolate or strawberry? — A: I will __________ the chocolate one.【選擇；挑選】",
+    "question": "There are three colors: red, blue, and green. You can __________ the one you like.",
     "options": [
      {
       "letter": "A",
-      "text": "cheat"
+      "text": "count"
      },
      {
       "letter": "B",
-      "text": "went"
+      "text": "cover"
      },
      {
       "letter": "C",
-      "text": "think"
+      "text": "copy"
      },
      {
       "letter": "D",
@@ -1783,30 +1783,30 @@ window.FLASHCARD_UNITS = {
     "vi": 44
    },
    {
-    "question": "Q: It will rain tomorrow. What will you do with your bike? — A: I will __________ it.【覆蓋；蓋住】",
+    "question": "It is cold. __________ the baby with a blanket, please.",
     "options": [
      {
       "letter": "A",
-      "text": "think"
+      "text": "Count"
      },
      {
       "letter": "B",
-      "text": "cover"
+      "text": "Copy"
      },
      {
       "letter": "C",
-      "text": "cheat"
+      "text": "cover"
      },
      {
       "letter": "D",
-      "text": "brought"
+      "text": "Guess"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 45
    },
    {
-    "question": "Q: What will you do for Mom's birthday tomorrow? — A: We will __________ her with a big cake.【使驚訝；給…驚喜】",
+    "question": "Let's __________ Mom with a birthday party. Don't tell her anything about it!",
     "options": [
      {
       "letter": "A",
@@ -1814,49 +1814,49 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "think"
+      "text": "cover"
      },
      {
       "letter": "C",
-      "text": "hope"
+      "text": "count"
      },
      {
       "letter": "D",
-      "text": "bow"
+      "text": "copy"
      }
     ],
     "answer": "A",
     "vi": 46
    },
    {
-    "question": "Q: Can you __________ my age? — A: Yes. I think you are thirteen.【猜】",
+    "question": "I have a present for you. Can you __________ what it is? You can try three times.",
     "options": [
      {
       "letter": "A",
-      "text": "hates"
+      "text": "copy"
      },
      {
       "letter": "B",
-      "text": "feels"
-     },
-     {
-      "letter": "C",
       "text": "guess"
      },
      {
+      "letter": "C",
+      "text": "cover"
+     },
+     {
       "letter": "D",
-      "text": "sounds"
+      "text": "enter"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 47
    },
    {
-    "question": "Q: Can you __________ this word in English? — A: Yes. \"Glad\" means \"happy.\"【解釋；給…下定義】",
+    "question": "Can you __________ this word for me? I don't know what it means.",
     "options": [
      {
       "letter": "A",
-      "text": "define"
+      "text": "count"
      },
      {
       "letter": "B",
@@ -1864,22 +1864,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "brought"
+      "text": "define"
      },
      {
       "letter": "D",
-      "text": "broke"
+      "text": "enter"
      }
     ],
-    "answer": "A",
+    "answer": "C",
     "vi": 48
    },
    {
-    "question": "Q: Can your little sister __________ to one hundred? — A: Yes, she can. She is very smart.【數；計算】",
+    "question": "Can your little sister __________ from one to ten? Yes, she knows her numbers.",
     "options": [
      {
       "letter": "A",
-      "text": "cheat"
+      "text": "copy"
      },
      {
       "letter": "B",
@@ -1887,53 +1887,53 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "broke"
+      "text": "cover"
      },
      {
       "letter": "D",
-      "text": "correct"
+      "text": "guess"
      }
     ],
     "answer": "B",
     "vi": 49
    },
    {
-    "question": "Q: I was sick yesterday. Can I __________ your notes? — A: Sure. Here you are.【抄寫；複製】",
+    "question": "Please __________ these sentences from the blackboard into your notebook.",
     "options": [
      {
       "letter": "A",
-      "text": "forgot"
-     },
-     {
-      "letter": "B",
-      "text": "remember"
-     },
-     {
-      "letter": "C",
       "text": "copy"
      },
      {
-      "letter": "D",
-      "text": "worry"
-     }
-    ],
-    "answer": "C",
-    "vi": 50
-   },
-   {
-    "question": "Q: It's cold. Can you __________ the window, please? — A: Sure.【關上】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "correct"
-     },
-     {
       "letter": "B",
-      "text": "mind"
+      "text": "guess"
      },
      {
       "letter": "C",
-      "text": "cheat"
+      "text": "cover"
+     },
+     {
+      "letter": "D",
+      "text": "count"
+     }
+    ],
+    "answer": "A",
+    "vi": 50
+   },
+   {
+    "question": "It is cold in here. Please __________ the window.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "enter"
+     },
+     {
+      "letter": "B",
+      "text": "follow"
+     },
+     {
+      "letter": "C",
+      "text": "guess"
      },
      {
       "letter": "D",
@@ -1944,7 +1944,7 @@ window.FLASHCARD_UNITS = {
     "vi": 51
    },
    {
-    "question": "Q: Can I come in? — A: Yes, but please knock before you __________ the room.【進入】",
+    "question": "Please knock on the door before you __________ my room.",
     "options": [
      {
       "letter": "A",
@@ -1952,45 +1952,22 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "remember"
+      "text": "close"
      },
      {
       "letter": "C",
-      "text": "went"
+      "text": "cover"
      },
      {
       "letter": "D",
-      "text": "surprise"
+      "text": "count"
      }
     ],
     "answer": "A",
     "vi": 52
    },
    {
-    "question": "Q: Can you show me the way to the library? — A: Sure. __________ me.【跟隨；遵循】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Smell"
-     },
-     {
-      "letter": "B",
-      "text": "Follow"
-     },
-     {
-      "letter": "C",
-      "text": "Worry"
-     },
-     {
-      "letter": "D",
-      "text": "Copy"
-     }
-    ],
-    "answer": "B",
-    "vi": 53
-   },
-   {
-    "question": "Q: Can I eat the cake now? — A: Not yet. Make a wish and __________ out the candles first.【吹】",
+    "question": "I will walk in front, and you __________ me. Don't get lost.",
     "options": [
      {
       "letter": "A",
@@ -1998,7 +1975,76 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "follow"
+     },
+     {
+      "letter": "C",
       "text": "cover"
+     },
+     {
+      "letter": "D",
+      "text": "count"
+     }
+    ],
+    "answer": "B",
+    "vi": 53
+   },
+   {
+    "question": "It is your birthday. Make a wish and __________ out the candles on the cake.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cheat"
+     },
+     {
+      "letter": "B",
+      "text": "worry"
+     },
+     {
+      "letter": "C",
+      "text": "count"
+     },
+     {
+      "letter": "D",
+      "text": "blow"
+     }
+    ],
+    "answer": "D",
+    "vi": 54
+   },
+   {
+    "question": "Don't __________ on the test. You must not look at other students' answers.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "blow"
+     },
+     {
+      "letter": "B",
+      "text": "worry"
+     },
+     {
+      "letter": "C",
+      "text": "cheat"
+     },
+     {
+      "letter": "D",
+      "text": "close"
+     }
+    ],
+    "answer": "C",
+    "vi": 55
+   },
+   {
+    "question": "Don't __________ about the test. You studied hard, so you will do well.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cheat"
+     },
+     {
+      "letter": "B",
+      "text": "worry"
      },
      {
       "letter": "C",
@@ -2006,59 +2052,13 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "wish"
+      "text": "close"
      }
     ],
-    "answer": "C",
-    "vi": 54
-   },
-   {
-    "question": "Q: Can I look at your answers? — A: No! Don't __________ on the test.【作弊；欺騙】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "love"
-     },
-     {
-      "letter": "B",
-      "text": "brought"
-     },
-     {
-      "letter": "C",
-      "text": "follow"
-     },
-     {
-      "letter": "D",
-      "text": "cheat"
-     }
-    ],
-    "answer": "D",
-    "vi": 55
-   },
-   {
-    "question": "Q: Can you help me? I can't find my dog. — A: Sure. Don't __________. We can find it.【擔心】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "broke"
-     },
-     {
-      "letter": "B",
-      "text": "saw"
-     },
-     {
-      "letter": "C",
-      "text": "worry"
-     },
-     {
-      "letter": "D",
-      "text": "love"
-     }
-    ],
-    "answer": "C",
+    "answer": "B",
     "vi": 56
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"blow":["(of wind or air) to move; to send air out of your mouth","吹"],"mind":["the part of you that thinks and remembers","頭腦；心思"],"feels":["to be happy, sad, sick, or well; to know something by touching","覺得；感覺"],"smell":["to have a good or bad air that your nose notices","聞起來"],"sounds":["to seem a certain way when you hear it","聽起來"],"taste":["to have a sweet, sour, or other flavor in your mouth; to try a little food","嚐起來；品嚐"],"knows":["to have something in your mind; to have met someone before","知道；認識"],"remember":["to keep something in your mind; to not forget","記得"],"think":["to use your mind; to have an idea about something","想；認為"],"believe":["to feel sure that something is true","相信"],"hope":["to want something good to happen","希望"],"wants":["to wish to have or do something","想要"],"needs":["to have to have something","需要"],"wish":["to say that you hope someone will have something good","祝福；希望"],"likes":["to think someone or something is nice or fun","喜歡"],"love":["to like someone or something very, very much","喜愛；愛"],"hates":["to not like someone or something at all","討厭"],"bow":["to bend your head or body forward to show respect","鞠躬；敬禮"],"collects":["to get and keep many things of the same kind as a hobby","收集"],"feeds":["to give food to a person or an animal","餵"],"looking":["to turn your eyes to see something","看（著）"],"watching":["to look at something for some time","觀看；注視"],"listening":["to try to hear something","聽"],"carrying":["to hold something and take it somewhere","搬；攜帶"],"catching":["to get and hold something that is moving","接住；抓"],"clapping":["to hit your hands together to make a sound","拍手"],"brushing":["to clean your teeth or tidy your hair with a brush","刷"],"cutting":["to use a knife or scissors to make pieces","切；剪"],"frying":["to cook food in hot oil","油炸；煎"],"digging":["to make a hole in the ground","挖"],"crying":["to have tears come from your eyes because you are sad or hurt","哭"],"fighting":["to hit each other or to shout angrily at each other","打架；爭吵"],"saw":["to notice something with your eyes","看見"],"heard":["to notice a sound with your ears","聽見"],"noticed":["to see or hear something and know that it is there","注意到"],"forgot":["to not remember","忘記"],"went":["to move from here to another place","去"],"came":["to move to the place where the speaker is","來"],"brought":["to take something or someone with you to a place","帶來"],"broke":["to make something go into pieces or stop working","打破"],"dropped":["to let something fall","（使）掉落"],"finished":["to do all of something, so no part is left","完成"],"ended":["to stop; to be over","結束"],"check":["to look at something to see if it is right","檢查"],"correct":["to make something right","改正"],"choose":["to pick the one you want","選擇；挑選"],"cover":["to put something over another thing","覆蓋；蓋住"],"surprise":["to do something that someone did not expect","使驚訝；給…驚喜"],"guess":["to give an answer when you are not sure","猜"],"define":["to say what a word means","解釋；給…下定義"],"count":["to say numbers in order; to find how many there are","數；計算"],"copy":["to write or make something that is the same as another thing","抄寫；複製"],"close":["to shut something","關上"],"enter":["to go into a place","進入"],"follow":["to go after someone; to do what someone or a rule says","跟隨；遵循"],"cheat":["to do something that is not fair to get a better score or to win","作弊；欺騙"],"worry":["to feel afraid that something bad may happen","擔心"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"smells":["to have a good or bad air that your nose notices","聞起來"],"feels":["to be happy, sad, sick, or well; to know something by touching","覺得；感覺"],"tastes":["to have a sweet, sour, or other flavor in your mouth; to try a little food","嚐起來；品嚐"],"sounds":["to seem a certain way when you hear it","聽起來"],"sound":["to seem a certain way when you hear it","聽起來"],"know":["to have something in your mind; to have met someone before","知道；認識"],"smell":["to have a good or bad air that your nose notices","聞起來"],"hope":["to want something good to happen","希望"],"minds":["the part of you that thinks and remembers","頭腦；心思"],"taste":["to have a sweet, sour, or other flavor in your mouth; to try a little food","嚐起來；品嚐"],"believe":["to feel sure that something is true","相信"],"hopes":["to make short, quick jumps","跳；單腳跳"],"knows":["to have something in your mind; to have met someone before","知道；認識"],"bows":["to bend your head or body forward to show respect","鞠躬；敬禮"],"hate":["to not like someone or something at all","討厭"],"remember":["to keep something in your mind; to not forget","記得"],"think":["to use your mind; to have an idea about something","想；認為"],"mind":["the part of you that thinks and remembers","頭腦；心思"],"bow":["to bend your head or body forward to show respect","鞠躬；敬禮"],"wish":["to say that you hope someone will have something good","祝福；希望"],"wants":["to wish to have or do something","想要"],"needs":["to have to have something","需要"],"hates":["to not like someone or something at all","討厭"],"believes":["to feel sure that something is true","相信"],"likes":["to think someone or something is nice or fun","喜歡"],"love":["to like someone or something very, very much","喜愛；愛"],"loves":["to like someone or something very, very much","喜愛；愛"],"wishes":["to say that you hope someone will have something good","祝福；希望"],"collect":["to get and keep many things of the same kind as a hobby","收集"],"feed":["to give food to a person or an animal","餵"],"feeds":["to give food to a person or an animal","餵"],"collects":["to get and keep many things of the same kind as a hobby","收集"],"looking":["to turn your eyes to see something","看（著）"],"listening":["to try to hear something","聽"],"clapping":["to hit your hands together to make a sound","拍手"],"digging":["to make a hole in the ground","挖"],"watching":["to look at something for some time","觀看；注視"],"frying":["to cook food in hot oil","油炸；煎"],"crying":["to have tears come from your eyes because you are sad or hurt","哭"],"carrying":["to hold something and take it somewhere","搬；攜帶"],"catching":["to get and hold something that is moving","接住；抓"],"brushing":["to clean your teeth or tidy your hair with a brush","刷"],"cutting":["to use a knife or scissors to make pieces","切；剪"],"fighting":["to hit each other or to shout angrily at each other","打架；爭吵"],"heard":["to notice a sound with your ears","聽見"],"forgot":["to not remember","忘記"],"dropped":["to let something fall","（使）掉落"],"saw":["to notice something with your eyes","看見"],"brought":["to take something or someone with you to a place","帶來"],"ended":["to stop; to be over","結束"],"noticed":["to see or hear something and know that it is there","注意到"],"finished":["to do all of something, so no part is left","完成"],"went":["to move from here to another place","去"],"came":["to move to the place where the speaker is","來"],"broke":["to make something go into pieces or stop working","打破"],"guess":["to give an answer when you are not sure","猜"],"check":["to look at something to see if it is right","檢查"],"cover":["to put something over another thing","覆蓋；蓋住"],"cheat":["to do something that is not fair to get a better score or to win","作弊；欺騙"],"correct":["to make something right","改正"],"enter":["to go into a place","進入"],"count":["to say numbers in order; to find how many there are","數；計算"],"copy":["to write or make something that is the same as another thing","抄寫；複製"],"choose":["to pick the one you want","選擇；挑選"],"surprise":["to do something that someone did not expect","使驚訝；給…驚喜"],"define":["to say what a word means","解釋；給…下定義"],"follow":["to go after someone; to do what someone or a rule says","跟隨；遵循"],"close":["to shut something","關上"],"worry":["to feel afraid that something bad may happen","擔心"],"blow":["(of wind or air) to move; to send air out of your mouth","吹"]});

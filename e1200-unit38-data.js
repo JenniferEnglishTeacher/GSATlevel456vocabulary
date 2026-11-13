@@ -562,23 +562,23 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: How do the new classrooms look? — A: They look ______. They have big windows.【明亮的】",
+    "q": "The sun is very ______ today. I need to wear my sunglasses when I go out.",
     "options": [
-      "dead",
-      "lucky",
+      "dark",
+      "dirty",
       "bright",
-      "glad"
+      "dead"
     ],
     "answer": 2,
     "cn": "新教室看起來怎麼樣？ — 看起來很明亮，它們有大窗戶。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: How do the classrooms look at night? — A: They look ______. All the lights are off.【黑暗的】",
+    "q": "It is ______ outside at night. You need a light to see the road.",
     "options": [
-      "important",
-      "special",
-      "favorite",
+      "bright",
+      "sharp",
+      "fresh",
       "dark"
     ],
     "answer": 3,
@@ -586,347 +586,347 @@ const MCQS = [
     "vocabIndex": 1
   },
   {
-    "q": "Q: How do your shoes look after the soccer game? — A: They look ______. There is mud on them.【骯髒的】",
+    "q": "Your hands are ______. Wash them with soap before you eat.",
     "options": [
-      "tidy",
       "dirty",
-      "dear",
-      "only"
+      "tidy",
+      "sharp",
+      "thick"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "足球賽後你的鞋子看起來怎樣？ — 看起來很髒，上面有泥巴。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: How does Amy's desk look? — A: It looks ______. Her books are in a row.【整潔的】",
+    "q": "Amy's room is always clean and ______. Everything is in the right place.",
     "options": [
+      "dirty",
       "tidy",
-      "sorry",
-      "favorite",
-      "correct"
+      "sharp",
+      "dead"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "艾美的書桌看起來怎樣？ — 看起來很整齊，她的書排成一排。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: How do the flowers in the vase look? — A: They look ______. Nobody gave them water.【死的】",
+    "q": "The flowers are ______ because nobody gave them water for two weeks.",
     "options": [
-      "helpful",
       "dead",
-      "present",
-      "great"
+      "fresh",
+      "sharp",
+      "thick"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "花瓶裡的花看起來怎樣？ — 看起來枯死了，沒有人給它們澆水。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: How does the new knife look? — A: It looks ______. Be careful!【銳利的】",
+    "q": "Be careful with that knife. It is very ______ and can cut your finger.",
     "options": [
-      "national",
-      "other",
-      "fine",
-      "sharp"
+      "thick",
+      "fresh",
+      "sharp",
+      "tidy"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "這把新刀看起來怎樣？ — 看起來很鋒利，小心！",
     "vocabIndex": 5
   },
   {
-    "q": "Q: How does the dictionary look? — A: It looks very ______. It has 2,000 pages.【厚的】",
+    "q": "This dictionary is very ______. It has more than two thousand pages.",
     "options": [
-      "sorry",
-      "quiet",
+      "sharp",
       "thick",
-      "fresh"
+      "fresh",
+      "dead"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "那本字典看起來怎樣？ — 看起來很厚，它有兩千頁。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: How do the vegetables at the market look? — A: They look ______. The farmers picked them this morning.【新鮮的】",
+    "q": "These vegetables are ______. The farmer picked them from the field this morning.",
     "options": [
-      "fresh",
-      "sorry",
-      "national",
-      "true"
+      "dead",
+      "sharp",
+      "thick",
+      "fresh"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "市場的蔬菜看起來怎樣？ — 看起來很新鮮，農夫今天早上採的。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: How does the old milk smell? — A: It smells ______. Don't drink it!【很糟的】",
+    "q": "The weather was ______ yesterday. It rained all day, and the wind was very strong.",
     "options": [
-      "glad",
-      "wonderful",
-      "same",
-      "terrible"
+      "great",
+      "terrible",
+      "fine",
+      "wonderful"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "那瓶過期的牛奶聞起來怎樣？ — 聞起來很糟，別喝！",
     "vocabIndex": 8
   },
   {
-    "q": "Q: How do the cookies taste? — A: They taste ______! I want another one.【很棒的】",
+    "q": "We had a ______ time at the party. Everyone laughed and danced all night.",
     "options": [
-      "else",
+      "terrible",
+      "strange",
       "great",
-      "other",
-      "national"
+      "quiet"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "這些餅乾吃起來怎樣？ — 很好吃！我還想再吃一塊。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: How do you feel today? — A: I feel ______, thank you.【很好的】",
+    "q": "\"How are you today?\" \"I'm ______, thank you. And you?\"",
     "options": [
-      "lucky",
-      "strange",
       "fine",
-      "easy"
+      "terrible",
+      "loud",
+      "strange"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你今天覺得怎樣？ — 我覺得很好，謝謝。",
     "vocabIndex": 10
   },
   {
-    "q": "Q: How does the music next door sound? — A: It sounds very ______. I can't sleep.【大聲的】",
+    "q": "The music is too ______. Please turn it down, because my ears hurt.",
     "options": [
-      "loud",
-      "dead",
-      "tidy",
-      "true"
+      "quiet",
+      "fine",
+      "strange",
+      "loud"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "隔壁的音樂聽起來怎樣？ — 聽起來很大聲，我睡不著。",
     "vocabIndex": 11
   },
   {
-    "q": "Q: How do the kids in the classroom sound? — A: They sound ______. They are talking and laughing.【吵鬧的】",
+    "q": "The classroom is very ______ because all the students are talking and laughing at the same time.",
     "options": [
-      "wonderful",
+      "quiet",
       "noisy",
-      "free",
-      "dark"
+      "fine",
+      "fresh"
     ],
     "answer": 1,
     "cn": "教室裡的孩子們聽起來怎樣？ — 聽起來很吵，他們在說笑。",
     "vocabIndex": 12
   },
   {
-    "q": "Q: How does the library sound? — A: It sounds ______. Everyone is reading.【安靜的】",
+    "q": "Please be ______ in the library. People are reading and studying here.",
     "options": [
-      "sure",
-      "public",
-      "sorry",
-      "quiet"
+      "quiet",
+      "noisy",
+      "loud",
+      "strange"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "圖書館聽起來怎樣？ — 聽起來很安靜，大家都在看書。",
     "vocabIndex": 13
   },
   {
-    "q": "Q: How does the car sound today? — A: It sounds ______. Dad should check it.【奇怪的】",
+    "q": "I heard a ______ noise in the kitchen last night. I didn't know what it was, so I was scared.",
     "options": [
-      "popular",
-      "American",
+      "quiet",
+      "fine",
       "strange",
-      "else"
+      "easy"
     ],
     "answer": 2,
     "cn": "車子今天聽起來怎樣？ — 聽起來怪怪的，爸爸應該檢查一下。",
     "vocabIndex": 14
   },
   {
-    "q": "Q: How does Lisa's singing sound? — A: It sounds ______! She sings like a star.【極好的】",
+    "q": "Thank you for the ______ dinner. Everything was delicious, and we had a very good time.",
     "options": [
-      "wonderful",
-      "newer",
-      "magic",
-      "convenient"
+      "terrible",
+      "strange",
+      "noisy",
+      "wonderful"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "麗莎的歌聲聽起來怎樣？ — 聽起來好極了！她唱得像明星一樣。",
     "vocabIndex": 15
   },
   {
-    "q": "Q: Is the English test easy or hard? — A: It's ______. I can answer all the questions.【容易的】",
+    "q": "The test was very ______. Everyone in the class got 100.",
     "options": [
-      "enough",
-      "modern",
+      "hard",
       "easy",
-      "simple"
+      "wrong",
+      "strange"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "英文考試簡單還是難？ — 很簡單，我每一題都會答。",
     "vocabIndex": 16
   },
   {
-    "q": "Q: Is the game simple or difficult? — A: It's ______. Even my little brother can play it.【簡單的】",
+    "q": "The rules of this game are ______. Even a five-year-old child can understand them.",
     "options": [
       "simple",
-      "true",
-      "sharp",
-      "newer"
+      "wrong",
+      "hard",
+      "loud"
     ],
     "answer": 0,
     "cn": "這個遊戲簡單還是困難？ — 很簡單，連我弟弟都會玩。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: Is the bread soft or hard? — A: It's ______. It's three days old.【困難的；硬的】",
+    "q": "The math problem is too ______ for me. I have tried for an hour, but I still can't answer it.",
     "options": [
-      "dead",
-      "same",
-      "else",
-      "hard"
+      "easy",
+      "simple",
+      "hard",
+      "safe"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "這麵包是軟的還是硬的？ — 是硬的，它放三天了。",
     "vocabIndex": 18
   },
   {
-    "q": "Q: Is my answer correct or wrong? — A: It's ______. Good job!【正確的】",
+    "q": "Your answer is ______. You got it right, so you get ten points.",
     "options": [
-      "different",
-      "correct",
-      "foreign",
-      "present"
+      "wrong",
+      "hard",
+      "same",
+      "correct"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "我的答案是對的還是錯的？ — 是正確的，做得好！",
     "vocabIndex": 19
   },
   {
-    "q": "Q: Is it right or wrong to help old people? — A: It's ______. We should help them.【對的】",
+    "q": "You are ______. Taipei 101 is the tallest building in Taiwan. I was wrong about that.",
     "options": [
-      "important",
-      "thick",
-      "same",
-      "right"
+      "free",
+      "right",
+      "safe",
+      "same"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "幫助老人是對的還是錯的？ — 是對的，我們應該幫助他們。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: Is \"Tom have a dog\" right or wrong? — A: It's ______. We say \"Tom has a dog.\"【錯誤的】",
+    "q": "I am sorry. I think you have the ______ number. There is no Tom here.",
     "options": [
-      "wrong",
-      "lucky",
-      "fresh",
-      "noisy"
+      "right",
+      "correct",
+      "true",
+      "wrong"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "「Tom have a dog」是對的還是錯的？ — 是錯的，要說「Tom has a dog」。",
     "vocabIndex": 21
   },
   {
-    "q": "Q: Is the story true or not? — A: It's ______. It happened to my grandpa.【真實的】",
+    "q": "Is it ______ that you are moving to Japan? Yes, we are leaving next month.",
     "options": [
-      "dear",
-      "loud",
       "true",
-      "wrong"
+      "wrong",
+      "safe",
+      "free"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "這個故事是真的嗎？ — 是真的，發生在我爺爺身上。",
     "vocabIndex": 22
   },
   {
-    "q": "Q: Is that a real flower or a paper flower? — A: It's a ______ flower. It smells sweet.【真正的】",
+    "q": "This is not a toy gun. It is a ______ one, so don't touch it.",
     "options": [
-      "pop",
+      "free",
+      "same",
       "real",
-      "tidy",
       "wrong"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "那是真花還是紙花？ — 是真花，聞起來很香。",
     "vocabIndex": 23
   },
   {
-    "q": "Q: Is it safe or dangerous to swim in this river? — A: It's ______. The water isn't deep.【安全的】",
+    "q": "Don't swim in this river. It is not ______ because the water is deep and fast.",
     "options": [
-      "wonderful",
-      "wrong",
-      "able",
-      "safe"
+      "safe",
+      "free",
+      "same",
+      "true"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "在這條河游泳安全還是危險？ — 很安全，水不深。",
     "vocabIndex": 24
   },
   {
-    "q": "Q: Is the ticket free or expensive? — A: It's ______. You don't have to pay.【免費的】",
+    "q": "You don't have to pay for the drinks. They are ______ today.",
     "options": [
-      "national",
-      "right",
+      "safe",
+      "same",
       "free",
-      "simple"
+      "real"
     ],
     "answer": 2,
     "cn": "票是免費的還是很貴？ — 是免費的，你不用付錢。",
     "vocabIndex": 25
   },
   {
-    "q": "Q: Are you and Ben in the same class or different classes? — A: We are in the ______ class.【相同的】",
+    "q": "Amy and I are in the ______ class. We sit next to each other.",
     "options": [
-      "terrible",
+      "different",
       "same",
-      "sure",
-      "sharp"
+      "free",
+      "safe"
     ],
     "answer": 1,
     "cn": "你和班同班還是不同班？ — 我們同一班。",
     "vocabIndex": 26
   },
   {
-    "q": "Q: Are the two pictures the same or different? — A: They are ______. One cat is black, and the other is white.【不同的】",
+    "q": "The two brothers look very ______. One is tall and thin, but the other is short and fat.",
     "options": [
-      "different",
-      "correct",
-      "useful",
-      "wonderful"
+      "same",
+      "free",
+      "safe",
+      "different"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "這兩張圖一樣還是不一樣？ — 不一樣，一隻貓是黑的，另一隻是白的。",
     "vocabIndex": 27
   },
   {
-    "q": "Q: Is \"Chen\" a common name or a special name in Taiwan? — A: It's a ______ name. Many people have it.【常見的】",
+    "q": "Chen and Lin are very ______ family names in Taiwan. Millions of people have them.",
     "options": [
-      "right",
       "common",
-      "magic",
-      "thick"
+      "foreign",
+      "lucky",
+      "public"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "「陳」在臺灣是常見還是特別的姓？ — 是常見的姓，很多人姓陳。",
     "vocabIndex": 28
   },
   {
-    "q": "Q: Does your sister go to a public school or a private school? — A: She goes to a ______ school.【公立的】",
+    "q": "This is a ______ library. Everyone in the city can come in and read the books.",
     "options": [
-      "glad",
-      "modern",
+      "lucky",
+      "foreign",
       "public",
-      "national"
+      "serious"
     ],
     "answer": 2,
     "cn": "你妹妹讀公立還是私立學校？ — 她讀公立學校。",
     "vocabIndex": 29
   },
   {
-    "q": "Q: Is Mr. Smith a Taiwanese teacher or a foreign teacher? — A: He is a ______ teacher. He comes from Canada.【外國的】",
+    "q": "I want to learn a ______ language, like Japanese or French.",
     "options": [
-      "important",
-      "possible",
-      "same",
+      "lucky",
+      "public",
+      "common",
       "foreign"
     ],
     "answer": 3,
@@ -934,23 +934,23 @@ const MCQS = [
     "vocabIndex": 30
   },
   {
-    "q": "Q: I won the first prize! — A: How ______ you are!【幸運的】",
+    "q": "I was ______ to find my lost wallet. All my money was still in it.",
     "options": [
+      "foreign",
       "lucky",
-      "wrong",
-      "simple",
-      "main"
+      "public",
+      "serious"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "我贏得頭獎了！ — 你真幸運！",
     "vocabIndex": 31
   },
   {
-    "q": "Q: Tom always helps the old lady carry her bags. — A: How ______ he is!【有幫助的】",
+    "q": "The clerk was very ______. She showed me where everything was and carried my bags.",
     "options": [
-      "main",
-      "terrible",
-      "American",
+      "serious",
+      "modern",
+      "magic",
       "helpful"
     ],
     "answer": 3,
@@ -958,299 +958,299 @@ const MCQS = [
     "vocabIndex": 32
   },
   {
-    "q": "Q: This dictionary has pictures and easy sentences. — A: How ______ it is!【有用的】",
+    "q": "A dictionary is very ______ when you learn English. You can look up new words in it.",
     "options": [
       "useful",
-      "sure",
-      "dead",
-      "special"
+      "serious",
+      "lucky",
+      "magic"
     ],
     "answer": 0,
     "cn": "這本字典有圖片和簡單的句子。 — 它真有用！",
     "vocabIndex": 33
   },
   {
-    "q": "Q: There is a supermarket next to my home. — A: How ______! You can buy food any time.【方便的】",
+    "q": "It is very ______ to live near an MRT station. You can go anywhere quickly and easily.",
     "options": [
-      "helpful",
+      "serious",
+      "magic",
       "convenient",
-      "newer",
-      "magic"
+      "foreign"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "我家隔壁有一家超市。 — 真方便！你隨時都能買食物。",
     "vocabIndex": 34
   },
   {
-    "q": "Q: Amy got 100 on the math test. — A: What an ______ student she is!【極好的】",
+    "q": "Lisa is an ______ student. She gets the best grades in her class.",
     "options": [
-      "tidy",
-      "dead",
+      "important",
       "excellent",
-      "lucky"
+      "interesting",
+      "easy"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "艾美數學考了一百分。 — 她真是個優秀的學生！",
     "vocabIndex": 35
   },
   {
-    "q": "Q: The typhoon broke many trees and houses. — A: How ______ it is!【嚴重的】",
+    "q": "The car accident was very ______. Five people were badly hurt and taken to the hospital.",
     "options": [
+      "lucky",
+      "helpful",
       "serious",
-      "dangerous",
-      "easy",
-      "quiet"
+      "modern"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "颱風弄壞了很多樹和房子。 — 真嚴重！",
     "vocabIndex": 36
   },
   {
-    "q": "Q: The man turns a piece of paper into a bird. — A: What a cool ______ trick!【魔術的】",
+    "q": "The man did a ______ trick. He pulled a rabbit out of an empty hat!",
     "options": [
-      "foreign",
-      "noisy",
-      "hard",
-      "magic"
+      "serious",
+      "magic",
+      "modern",
+      "convenient"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "那個人把一張紙變成一隻鳥。 — 好酷的魔術！",
     "vocabIndex": 37
   },
   {
-    "q": "Q: Listen! Everyone is singing this new song. — A: What a great ______ song!【流行的】",
+    "q": "My sister loves ______ music. She listens to the newest songs by young singers every day.",
     "options": [
-      "afraid",
-      "pop",
-      "special",
-      "possible"
+      "serious",
+      "magic",
+      "convenient",
+      "pop"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "聽！大家都在唱這首新歌。 — 好棒的流行歌！",
     "vocabIndex": 38
   },
   {
-    "q": "Q: Look at the new train station. — A: What a ______ building!【現代的】",
+    "q": "This is a ______ building with a lot of glass. It was built only last year.",
     "options": [
-      "dark",
-      "right",
       "modern",
-      "pop"
+      "serious",
+      "magic",
+      "lucky"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "看那個新火車站。 — 好現代化的建築！",
     "vocabIndex": 39
   },
   {
-    "q": "Q: Which subject do you think is more difficult, math or English? — A: Math is more ______ than English for me.【困難的】",
+    "q": "It is ______ to learn Chinese characters. Many foreigners take years to do it.",
     "options": [
+      "popular",
       "difficult",
-      "helpful",
-      "true",
-      "thick"
+      "special",
+      "dangerous"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你覺得數學和英文哪一科比較難？ — 對我來說數學比英文難。",
     "vocabIndex": 40
   },
   {
-    "q": "Q: Which animal does Ben think is more dangerous, a lion or a cat? — A: He thinks a lion is more ______ than a cat.【危險的】",
+    "q": "It is ______ to play on the street. A car may hit you.",
     "options": [
-      "serious",
-      "other",
-      "dangerous",
-      "helpful"
+      "popular",
+      "special",
+      "interesting",
+      "dangerous"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "班覺得獅子和貓哪一個比較危險？ — 他覺得獅子比貓危險。",
     "vocabIndex": 41
   },
   {
-    "q": "Q: Which does Lisa think is more interesting, comic books or movies? — A: She thinks comic books are more ______ than movies.【有趣的】",
+    "q": "This book is very ______. I can't stop reading it.",
     "options": [
-      "scared",
-      "enough",
-      "dirty",
-      "interesting"
+      "interesting",
+      "dangerous",
+      "difficult",
+      "important"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "麗莎覺得漫畫和電影哪個比較有趣？ — 她覺得漫畫比電影有趣。",
     "vocabIndex": 42
   },
   {
-    "q": "Q: What do you think is the most important thing in life? — A: I think health is the most ______ thing.【重要的】",
+    "q": "It is ______ to eat breakfast. Your body needs food to start the day.",
     "options": [
-      "simple",
+      "dangerous",
+      "popular",
       "important",
-      "true",
-      "lucky"
+      "difficult"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你覺得人生中最重要的是什麼？ — 我覺得健康是最重要的。",
     "vocabIndex": 43
   },
   {
-    "q": "Q: Which sport is the most popular in your class? — A: Basketball is the most ______ of all.【受歡迎的】",
+    "q": "This singer is very ______ in Asia. Millions of young people love her songs.",
     "options": [
-      "OK",
-      "loud",
-      "ready",
-      "popular"
+      "dangerous",
+      "popular",
+      "difficult",
+      "important"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "你們班最受歡迎的運動是什麼？ — 籃球是所有運動中最受歡迎的。",
     "vocabIndex": 44
   },
   {
-    "q": "Q: Which day is the most special to you? — A: My birthday is the most ______ day of the year.【特別的】",
+    "q": "Today is a ______ day. It is my parents' twentieth wedding anniversary.",
     "options": [
-      "same",
-      "real",
       "special",
-      "main"
+      "dangerous",
+      "difficult",
+      "popular"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "對你來說哪一天最特別？ — 我的生日是一年中最特別的一天。",
     "vocabIndex": 45
   },
   {
-    "q": "Q: Whose bike is newer, yours or Tom's? — A: Tom's bike is ______ than mine.【新的】",
+    "q": "My phone is ______ than yours. I bought it last week, but you bought yours two years ago.",
     "options": [
-      "newer",
-      "other",
-      "main",
-      "afraid"
+      "older",
+      "shorter",
+      "taller",
+      "newer"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "誰的腳踏車比較新，你的還是湯姆的？ — 湯姆的腳踏車比我的新。",
     "vocabIndex": 46
   },
   {
-    "q": "Q: Does your brother have an old cellphone? — A: No, he doesn't. He has the ______ one. It came out last week.【最新的】",
+    "q": "Have you heard the singer's ______ song? It just came out yesterday.",
     "options": [
-      "lucky",
+      "oldest",
+      "longest",
       "latest",
-      "real",
-      "else"
+      "tallest"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你哥哥的手機是舊的嗎？ — 不是，他有最新的那款，上週才推出。",
     "vocabIndex": 47
   },
   {
-    "q": "Q: Is your baby brother able to walk? — A: Yes, he is. He is ______ to walk now.【能夠…的】",
+    "q": "After a year of practice, Ben is ______ to swim 500 meters without stopping.",
     "options": [
-      "special",
-      "same",
       "able",
-      "common"
+      "afraid",
+      "sorry",
+      "glad"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你的小弟弟會走路了嗎？ — 會，他現在會走路了。",
     "vocabIndex": 48
   },
   {
-    "q": "Q: Does Lisa like snakes? — A: No, she doesn't. She is ______ of them.【害怕的】",
+    "q": "Many children are ______ of the dark. They can't sleep without a light.",
     "options": [
-      "same",
-      "afraid",
-      "safe",
-      "OK"
+      "able",
+      "glad",
+      "sure",
+      "afraid"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "麗莎喜歡蛇嗎？ — 不喜歡，她怕蛇。",
     "vocabIndex": 49
   },
   {
-    "q": "Q: Do you like the dark? — A: No, I don't. I'm ______ of the dark.【害怕的】",
+    "q": "I was so ______ when I saw the snake that I couldn't move or shout.",
     "options": [
-      "surprised",
-      "possible",
-      "difficult",
-      "scared"
+      "ready",
+      "glad",
+      "scared",
+      "sure"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "你喜歡黑暗嗎？ — 不喜歡，我怕黑。",
     "vocabIndex": 50
   },
   {
-    "q": "Q: How do you feel about your new school? — A: I'm ______ to be here. Everyone is friendly.【高興的】",
+    "q": "I am ______ to see you again. It has been a long time!",
     "options": [
+      "sorry",
       "glad",
-      "able",
-      "sure",
-      "convenient"
+      "afraid",
+      "able"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你覺得新學校怎麼樣？ — 我很高興來這裡，大家都很友善。",
     "vocabIndex": 51
   },
   {
-    "q": "Q: What does Tom say when he is late? — A: He says, \"I'm ______ I'm late.\"【抱歉的】",
+    "q": "I am ______ I broke your cup. I will buy you a new one.",
     "options": [
-      "free",
-      "sorry",
-      "fresh",
-      "different"
+      "glad",
+      "sure",
+      "ready",
+      "sorry"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "湯姆遲到時會說什麼？ — 他說：「抱歉我遲到了。」",
     "vocabIndex": 52
   },
   {
-    "q": "Q: Does Ben know the answer? — A: Yes, he does. He is ______ it's \"C.\"【確定的】",
+    "q": "Are you ______ this is the right bus? I don't want to get on the wrong one.",
     "options": [
       "sure",
-      "ready",
-      "other",
-      "wonderful"
+      "sorry",
+      "glad",
+      "afraid"
     ],
     "answer": 0,
     "cn": "班知道答案嗎？ — 知道，他確定是 C。",
     "vocabIndex": 53
   },
   {
-    "q": "Q: How do your parents feel about your test? — A: They are ______. It's my first 100!【感到驚訝的】",
+    "q": "I was ______ to see my old friend at the party. I didn't know he was in Taipei.",
     "options": [
-      "scared",
-      "fine",
-      "magic",
-      "surprised"
+      "ready",
+      "able",
+      "surprised",
+      "sure"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "你爸媽對你的考試有什麼感覺？ — 他們很驚訝，這是我第一次考一百分！",
     "vocabIndex": 54
   },
   {
-    "q": "Q: Do the students have their books and pencils? — A: Yes, they do. They are ______ for class.【準備好的】",
+    "q": "Dinner is ______. Please come to the table now.",
     "options": [
-      "excellent",
-      "useful",
+      "sorry",
       "ready",
-      "wrong"
+      "afraid",
+      "sure"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "學生們都帶書和鉛筆了嗎？ — 有，他們準備好上課了。",
     "vocabIndex": 55
   },
   {
-    "q": "Q: Does your leg still hurt? — A: No, it doesn't. I'm ______ now.【沒問題的】",
+    "q": "\"Is it ______ if I sit here?\" \"Sure. Nobody is using this chair.\"",
     "options": [
+      "sorry",
+      "afraid",
       "OK",
-      "Helpful",
-      "Pop",
-      "Wonderful"
+      "able"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你的腿還痛嗎？ — 不痛了，我現在沒事了。",
     "vocabIndex": 56
   },
   {
-    "q": "Q: Is it possible to walk to the zoo from here? — A: Yes, it's ______, but it takes an hour.【可能的】",
+    "q": "Is it ______ to get to the airport in twenty minutes? No, it is too far.",
     "options": [
-      "fresh",
-      "true",
-      "ready",
+      "favorite",
+      "dear",
+      "national",
       "possible"
     ],
     "answer": 3,
@@ -1258,180 +1258,140 @@ const MCQS = [
     "vocabIndex": 57
   },
   {
-    "q": "Q: What fruit do you like best? — A: Strawberries. They are my ______ fruit.【最喜愛的】",
+    "q": "Pizza is my ______ food. I like it more than anything else.",
     "options": [
-      "pop",
       "favorite",
-      "special",
-      "possible"
+      "possible",
+      "dear",
+      "present"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你最喜歡什麼水果？ — 草莓，它們是我最愛的水果。",
     "vocabIndex": 58
   },
   {
-    "q": "Q: Do you and your brother share a room? — A: No, we don't. I have my ______ room.【自己的】",
+    "q": "I don't share a room with my sister now. I have my ______ room.",
     "options": [
-      "foreign",
-      "possible",
+      "else",
       "own",
-      "dead"
+      "only",
+      "enough"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你和你哥哥共用一間房間嗎？ — 沒有，我有自己的房間。",
     "vocabIndex": 59
   },
   {
-    "q": "Q: Does Amy have any brothers or sisters? — A: No, she doesn't. She is an ______ child.【唯一的】",
+    "q": "Ben is the ______ boy in the dance club. All the other members are girls.",
     "options": [
-      "modern",
-      "quiet",
-      "dirty",
-      "only"
+      "only",
+      "else",
+      "own",
+      "enough"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "艾美有兄弟姊妹嗎？ — 沒有，她是獨生女。",
     "vocabIndex": 60
   },
   {
-    "q": "Q: Do all the students go home after school? — A: No, they don't. Some go home, and the ______ students stay for clubs.【其他的】",
+    "q": "I have two brothers. One is a doctor, and the ______ one is a teacher.",
     "options": [
-      "useful",
-      "other",
-      "wonderful",
-      "only"
+      "else",
+      "own",
+      "enough",
+      "other"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "所有學生放學都回家嗎？ — 不是，有些回家，其他學生留下來參加社團。",
     "vocabIndex": 61
   },
   {
-    "q": "Q: I want a hamburger. Do you want anything ______? — A: Yes. I want some fries, too.【別的】",
+    "q": "I want a hamburger and a Coke. I don't want anything ______.",
     "options": [
+      "own",
+      "only",
       "else",
-      "correct",
-      "fresh",
-      "bright"
+      "main"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "我要一個漢堡。你還要別的東西嗎？ — 要，我也想要一些薯條。",
     "vocabIndex": 62
   },
   {
-    "q": "Q: Does Ben have ______ money for the ticket? — A: No, he doesn't. He needs ten more dollars.【足夠的】",
+    "q": "We have five people but only four chairs. There are not ______ chairs for everyone.",
     "options": [
-      "pop",
-      "safe",
+      "else",
       "enough",
-      "thick"
+      "own",
+      "main"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "班有足夠的錢買票嗎？ — 沒有，他還需要十元。",
     "vocabIndex": 63
   },
   {
-    "q": "Q: Where do your parents wait for you after school? — A: They wait at the ______ gate of the school.【主要的】",
+    "q": "Rice is the ______ food in Taiwan. People eat it at almost every meal.",
     "options": [
-      "simple",
-      "easy",
-      "fresh",
-      "main"
+      "main",
+      "else",
+      "dear",
+      "present"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "放學後你爸媽在哪裡等你？ — 他們在學校大門等。",
     "vocabIndex": 64
   },
   {
-    "q": "Q: Why don't we go to school on October 10? — A: Because it's a ______ holiday.【國家的】",
+    "q": "October 10 is the ______ holiday of the R.O.C. The whole country celebrates it.",
     "options": [
-      "wonderful",
-      "favorite",
+      "dear",
       "national",
-      "strange"
+      "present",
+      "else"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "為什麼我們十月十日不用上學？ — 因為那天是國定假日。",
     "vocabIndex": 65
   },
   {
-    "q": "Q: What kind of food does Tom like? — A: He likes ______ food, like hamburgers and hot dogs.【美國的】",
+    "q": "The hamburger is a famous ______ food. People in the U.S.A. eat a lot of them.",
     "options": [
-      "Latest",
-      "American",
-      "Own",
-      "Ready"
+      "dear",
+      "present",
+      "else",
+      "American"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "湯姆喜歡哪種食物？ — 他喜歡美國食物，像漢堡和熱狗。",
     "vocabIndex": 66
   },
   {
-    "q": "Q: Does the teacher check who is here every morning? — A: Yes, she does. Today all thirty students are ______.【出席的】",
+    "q": "All thirty students are ______ today. Nobody is absent.",
     "options": [
+      "dear",
+      "main",
       "present",
-      "pop",
-      "true",
-      "newer"
+      "national"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "老師每天早上都會點名嗎？ — 會，今天三十個學生全部出席。",
     "vocabIndex": 67
   },
   {
-    "q": "Q: How does Lisa start her letter to her grandma? — A: She writes, \"______ Grandma, …\"【親愛的】",
+    "q": "\"______ Grandma, how are you? I miss you very much,\" Amy wrote at the top of her letter.",
     "options": [
-      "wonderful",
-      "helpful",
-      "dear",
-      "pop"
+      "Main",
+      "Present",
+      "National",
+      "Dear"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "麗莎寫信給奶奶時怎麼開頭？ — 她寫：「親愛的奶奶，……」",
     "vocabIndex": 68
   }
 ];
 
 const LOOKUP = {
-  "scared": {
-    "pos": "adj.",
-    "en_def": "afraid of something",
-    "cn_def": "害怕的"
-  },
-  "present": {
-    "pos": "n.",
-    "en_def": "something you give to someone; a gift",
-    "cn_def": "禮物"
-  },
-  "right": {
-    "pos": "n.",
-    "en_def": "the side opposite to left",
-    "cn_def": "右邊"
-  },
-  "other": {
-    "pos": "pron.",
-    "en_def": "the second of two; the ones that are left",
-    "cn_def": "其他的（人／物）"
-  },
-  "american": {
-    "pos": "n.",
-    "en_def": "a person from the United States",
-    "cn_def": "美國人"
-  },
-  "correct": {
-    "pos": "v.",
-    "en_def": "to make something right",
-    "cn_def": "改正"
-  },
-  "own": {
-    "pos": "v.",
-    "en_def": "to have something that is yours",
-    "cn_def": "擁有"
-  },
-  "bright": {
-    "pos": "adj.",
-    "en_def": "full of light",
-    "cn_def": "明亮的"
-  },
   "dark": {
     "pos": "adj.",
     "en_def": "with little or no light",
@@ -1442,10 +1402,10 @@ const LOOKUP = {
     "en_def": "not clean",
     "cn_def": "骯髒的"
   },
-  "tidy": {
+  "bright": {
     "pos": "adj.",
-    "en_def": "clean, with everything in the right place",
-    "cn_def": "整潔的"
+    "en_def": "full of light",
+    "cn_def": "明亮的"
   },
   "dead": {
     "pos": "adj.",
@@ -1457,30 +1417,50 @@ const LOOKUP = {
     "en_def": "able to cut things easily",
     "cn_def": "銳利的"
   },
-  "thick": {
-    "pos": "adj.",
-    "en_def": "big from one side to the other; not thin",
-    "cn_def": "厚的"
-  },
   "fresh": {
     "pos": "adj.",
     "en_def": "just made or picked; not old",
     "cn_def": "新鮮的"
   },
-  "terrible": {
+  "tidy": {
     "pos": "adj.",
-    "en_def": "very bad",
-    "cn_def": "很糟的"
+    "en_def": "clean, with everything in the right place",
+    "cn_def": "整潔的"
+  },
+  "thick": {
+    "pos": "adj.",
+    "en_def": "big from one side to the other; not thin",
+    "cn_def": "厚的"
   },
   "great": {
     "pos": "adj.",
     "en_def": "very good",
     "cn_def": "很棒的"
   },
+  "terrible": {
+    "pos": "adj.",
+    "en_def": "very bad",
+    "cn_def": "很糟的"
+  },
   "fine": {
     "pos": "adj.",
     "en_def": "good; well",
     "cn_def": "很好的"
+  },
+  "wonderful": {
+    "pos": "adj.",
+    "en_def": "very, very good",
+    "cn_def": "極好的"
+  },
+  "strange": {
+    "pos": "adj.",
+    "en_def": "not usual; different in a way that is hard to understand",
+    "cn_def": "奇怪的"
+  },
+  "quiet": {
+    "pos": "adj.",
+    "en_def": "with little or no sound",
+    "cn_def": "安靜的"
   },
   "loud": {
     "pos": "adj.",
@@ -1492,30 +1472,10 @@ const LOOKUP = {
     "en_def": "full of loud sounds",
     "cn_def": "吵鬧的"
   },
-  "quiet": {
-    "pos": "adj.",
-    "en_def": "with little or no sound",
-    "cn_def": "安靜的"
-  },
-  "strange": {
-    "pos": "adj.",
-    "en_def": "not usual; different in a way that is hard to understand",
-    "cn_def": "奇怪的"
-  },
-  "wonderful": {
-    "pos": "adj.",
-    "en_def": "very, very good",
-    "cn_def": "極好的"
-  },
   "easy": {
     "pos": "adj.",
     "en_def": "not hard to do",
     "cn_def": "容易的"
-  },
-  "simple": {
-    "pos": "adj.",
-    "en_def": "easy to understand or do",
-    "cn_def": "簡單的"
   },
   "hard": {
     "pos": "adj.",
@@ -1527,6 +1487,36 @@ const LOOKUP = {
     "en_def": "not right; not correct",
     "cn_def": "錯誤的"
   },
+  "simple": {
+    "pos": "adj.",
+    "en_def": "easy to understand or do",
+    "cn_def": "簡單的"
+  },
+  "safe": {
+    "pos": "adj.",
+    "en_def": "not in danger",
+    "cn_def": "安全的"
+  },
+  "same": {
+    "pos": "adj.",
+    "en_def": "not different",
+    "cn_def": "相同的"
+  },
+  "correct": {
+    "pos": "v.",
+    "en_def": "to make something right",
+    "cn_def": "改正"
+  },
+  "free": {
+    "pos": "adj.",
+    "en_def": "costing no money",
+    "cn_def": "免費的"
+  },
+  "right": {
+    "pos": "n.",
+    "en_def": "the side opposite to left",
+    "cn_def": "右邊"
+  },
   "true": {
     "pos": "adj.",
     "en_def": "right and not a lie",
@@ -1536,21 +1526,6 @@ const LOOKUP = {
     "pos": "adj.",
     "en_def": "not fake; not only in stories",
     "cn_def": "真正的"
-  },
-  "safe": {
-    "pos": "adj.",
-    "en_def": "not in danger",
-    "cn_def": "安全的"
-  },
-  "free": {
-    "pos": "adj.",
-    "en_def": "costing no money",
-    "cn_def": "免費的"
-  },
-  "same": {
-    "pos": "adj.",
-    "en_def": "not different",
-    "cn_def": "相同的"
   },
   "different": {
     "pos": "adj.",
@@ -1562,11 +1537,6 @@ const LOOKUP = {
     "en_def": "seen or happening often",
     "cn_def": "常見的"
   },
-  "public": {
-    "pos": "adj.",
-    "en_def": "for all people to use",
-    "cn_def": "公立的"
-  },
   "foreign": {
     "pos": "adj.",
     "en_def": "from another country",
@@ -1576,6 +1546,26 @@ const LOOKUP = {
     "pos": "adj.",
     "en_def": "having good things happen to you by chance",
     "cn_def": "幸運的"
+  },
+  "public": {
+    "pos": "adj.",
+    "en_def": "for all people to use",
+    "cn_def": "公立的"
+  },
+  "serious": {
+    "pos": "adj.",
+    "en_def": "very bad or important; not a joke",
+    "cn_def": "嚴重的"
+  },
+  "modern": {
+    "pos": "adj.",
+    "en_def": "of the present time; new",
+    "cn_def": "現代的"
+  },
+  "magic": {
+    "pos": "adj.",
+    "en_def": "able to do things that seem impossible",
+    "cn_def": "魔術的"
   },
   "helpful": {
     "pos": "adj.",
@@ -1592,70 +1582,85 @@ const LOOKUP = {
     "en_def": "easy to use or get to",
     "cn_def": "方便的"
   },
+  "important": {
+    "pos": "adj.",
+    "en_def": "having great meaning or value",
+    "cn_def": "重要的"
+  },
   "excellent": {
     "pos": "adj.",
     "en_def": "very, very good",
     "cn_def": "極好的"
-  },
-  "serious": {
-    "pos": "adj.",
-    "en_def": "very bad or important; not a joke",
-    "cn_def": "嚴重的"
-  },
-  "magic": {
-    "pos": "adj.",
-    "en_def": "able to do things that seem impossible",
-    "cn_def": "魔術的"
-  },
-  "pop": {
-    "pos": "adj.",
-    "en_def": "(of music) modern and liked by many young people",
-    "cn_def": "流行的"
-  },
-  "modern": {
-    "pos": "adj.",
-    "en_def": "of the present time; new",
-    "cn_def": "現代的"
-  },
-  "difficult": {
-    "pos": "adj.",
-    "en_def": "hard to do or understand",
-    "cn_def": "困難的"
-  },
-  "dangerous": {
-    "pos": "adj.",
-    "en_def": "able to hurt you",
-    "cn_def": "危險的"
   },
   "interesting": {
     "pos": "adj.",
     "en_def": "making you want to know more",
     "cn_def": "有趣的"
   },
-  "important": {
+  "pop": {
     "pos": "adj.",
-    "en_def": "having great meaning or value",
-    "cn_def": "重要的"
+    "en_def": "(of music) modern and liked by many young people",
+    "cn_def": "流行的"
   },
   "popular": {
     "pos": "adj.",
     "en_def": "liked by many people",
     "cn_def": "受歡迎的"
   },
+  "difficult": {
+    "pos": "adj.",
+    "en_def": "hard to do or understand",
+    "cn_def": "困難的"
+  },
   "special": {
     "pos": "adj.",
     "en_def": "different from others in a good way",
     "cn_def": "特別的"
+  },
+  "dangerous": {
+    "pos": "adj.",
+    "en_def": "able to hurt you",
+    "cn_def": "危險的"
+  },
+  "older": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "較舊的；較老的"
+  },
+  "shorter": {
+    "pos": "adj.",
+    "en_def": "not tall; not long",
+    "cn_def": "矮的；短的"
+  },
+  "taller": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "較高的"
   },
   "newer": {
     "pos": "adj.",
     "en_def": "just made or bought; not old",
     "cn_def": "新的"
   },
+  "oldest": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "最舊的；最老的"
+  },
+  "longest": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "最長的"
+  },
   "latest": {
     "pos": "adj.",
     "en_def": "the newest",
     "cn_def": "最新的"
+  },
+  "tallest": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "最高的"
   },
   "able": {
     "pos": "adj.",
@@ -1667,75 +1672,100 @@ const LOOKUP = {
     "en_def": "feeling fear",
     "cn_def": "害怕的"
   },
+  "sorry": {
+    "pos": "int.",
+    "en_def": "",
+    "cn_def": "抱歉"
+  },
   "glad": {
     "pos": "adj.",
     "en_def": "happy about something",
     "cn_def": "高興的"
-  },
-  "sorry": {
-    "pos": "adj.",
-    "en_def": "feeling bad about something you did",
-    "cn_def": "抱歉的"
   },
   "sure": {
     "pos": "adj.",
     "en_def": "knowing that something is true",
     "cn_def": "確定的"
   },
-  "surprised": {
-    "pos": "adj.",
-    "en_def": "feeling that you did not expect something",
-    "cn_def": "感到驚訝的"
-  },
   "ready": {
     "pos": "adj.",
     "en_def": "prepared to do something",
     "cn_def": "準備好的"
+  },
+  "scared": {
+    "pos": "adj.",
+    "en_def": "afraid of something",
+    "cn_def": "害怕的"
+  },
+  "surprised": {
+    "pos": "adj.",
+    "en_def": "feeling that you did not expect something",
+    "cn_def": "感到驚訝的"
   },
   "ok": {
     "pos": "adj.",
     "en_def": "all right; fine",
     "cn_def": "沒問題的"
   },
-  "possible": {
-    "pos": "adj.",
-    "en_def": "able to happen or be done",
-    "cn_def": "可能的"
-  },
   "favorite": {
     "pos": "adj.",
     "en_def": "liked the most",
     "cn_def": "最喜愛的"
   },
-  "only": {
+  "dear": {
     "pos": "adj.",
-    "en_def": "with no other one of the same kind",
-    "cn_def": "唯一的"
-  },
-  "else": {
-    "pos": "adj.",
-    "en_def": "different; in addition",
-    "cn_def": "別的"
-  },
-  "enough": {
-    "pos": "adj.",
-    "en_def": "as much or as many as you need",
-    "cn_def": "足夠的"
-  },
-  "main": {
-    "pos": "adj.",
-    "en_def": "most important",
-    "cn_def": "主要的"
+    "en_def": "loved; used at the start of a letter",
+    "cn_def": "親愛的"
   },
   "national": {
     "pos": "adj.",
     "en_def": "of a whole country",
     "cn_def": "國家的"
   },
-  "dear": {
+  "possible": {
     "pos": "adj.",
-    "en_def": "loved; used at the start of a letter",
-    "cn_def": "親愛的"
+    "en_def": "able to happen or be done",
+    "cn_def": "可能的"
+  },
+  "present": {
+    "pos": "n.",
+    "en_def": "something you give to someone; a gift",
+    "cn_def": "禮物"
+  },
+  "else": {
+    "pos": "adj.",
+    "en_def": "different; in addition",
+    "cn_def": "別的"
+  },
+  "own": {
+    "pos": "v.",
+    "en_def": "to have something that is yours",
+    "cn_def": "擁有"
+  },
+  "only": {
+    "pos": "adj.",
+    "en_def": "with no other one of the same kind",
+    "cn_def": "唯一的"
+  },
+  "enough": {
+    "pos": "adj.",
+    "en_def": "as much or as many as you need",
+    "cn_def": "足夠的"
+  },
+  "other": {
+    "pos": "pron.",
+    "en_def": "the second of two; the ones that are left",
+    "cn_def": "其他的（人／物）"
+  },
+  "main": {
+    "pos": "adj.",
+    "en_def": "most important",
+    "cn_def": "主要的"
+  },
+  "american": {
+    "pos": "n.",
+    "en_def": "a person from the United States",
+    "cn_def": "美國人"
   }
 };
 

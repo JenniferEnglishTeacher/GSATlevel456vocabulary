@@ -735,134 +735,134 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: Does Lisa care about her friends? — A: Yes, she does. She __________ about them a lot.【關心；在乎】",
+    "question": "Mr. Lin __________ about his students. He always asks how they are doing.",
     "options": [
      {
       "letter": "A",
+      "text": "owns"
+     },
+     {
+      "letter": "B",
       "text": "cares"
      },
      {
-      "letter": "B",
-      "text": "visits"
-     },
-     {
       "letter": "C",
-      "text": "wakes"
-     },
-     {
-      "letter": "D",
-      "text": "owns"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "Q: What do you and your friends do on weekends? — A: We __________ playing basketball.【喜愛；享受】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "let"
-     },
-     {
-      "letter": "B",
-      "text": "deal"
-     },
-     {
-      "letter": "C",
-      "text": "enjoy"
-     },
-     {
-      "letter": "D",
-      "text": "found"
-     }
-    ],
-    "answer": "C",
-    "vi": 1
-   },
-   {
-    "question": "Q: Does your uncle have a farm? — A: Yes, he does. He __________ a big farm in the country.【擁有】",
-    "options": [
-     {
-      "letter": "A",
       "text": "prays"
      },
      {
-      "letter": "B",
-      "text": "visits"
-     },
-     {
-      "letter": "C",
-      "text": "means"
-     },
-     {
       "letter": "D",
-      "text": "owns"
-     }
-    ],
-    "answer": "D",
-    "vi": 2
-   },
-   {
-    "question": "Q: What does Grandma do at the temple? — A: She __________ for our family.【祈禱；拜拜】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "owns"
-     },
-     {
-      "letter": "B",
-      "text": "prays"
-     },
-     {
-      "letter": "C",
-      "text": "leads"
-     },
-     {
-      "letter": "D",
-      "text": "starts"
+      "text": "sells"
      }
     ],
     "answer": "B",
-    "vi": 3
+    "vi": 0
    },
    {
-    "question": "Q: When do you go to bed? — A: At ten. I __________ for eight hours.【睡覺】",
+    "question": "I __________ playing basketball with my friends. It is a lot of fun.",
     "options": [
      {
       "letter": "A",
-      "text": "deal"
+      "text": "own"
      },
      {
       "letter": "B",
-      "text": "decide"
+      "text": "pray"
      },
      {
       "letter": "C",
-      "text": "sleep"
+      "text": "sell"
      },
      {
       "letter": "D",
-      "text": "stay"
+      "text": "enjoy"
      }
     ],
-    "answer": "C",
-    "vi": 4
+    "answer": "D",
+    "vi": 1
    },
    {
-    "question": "Q: What do you do on rainy days? — A: I __________ at home and read.【停留；待】",
+    "question": "Mr. Wang __________ three houses and two cars. He is very rich.",
     "options": [
      {
       "letter": "A",
-      "text": "excuse"
+      "text": "owns"
      },
      {
       "letter": "B",
-      "text": "laid"
+      "text": "cares"
      },
      {
       "letter": "C",
-      "text": "got"
+      "text": "prays"
+     },
+     {
+      "letter": "D",
+      "text": "wakes"
+     }
+    ],
+    "answer": "A",
+    "vi": 2
+   },
+   {
+    "question": "Grandma goes to the temple and __________ for the family's health.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "owns"
+     },
+     {
+      "letter": "B",
+      "text": "sells"
+     },
+     {
+      "letter": "C",
+      "text": "prays"
+     },
+     {
+      "letter": "D",
+      "text": "wakes"
+     }
+    ],
+    "answer": "C",
+    "vi": 3
+   },
+   {
+    "question": "Most people __________ for seven or eight hours every night.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sleep"
+     },
+     {
+      "letter": "B",
+      "text": "pray"
+     },
+     {
+      "letter": "C",
+      "text": "sell"
+     },
+     {
+      "letter": "D",
+      "text": "share"
+     }
+    ],
+    "answer": "A",
+    "vi": 4
+   },
+   {
+    "question": "It is raining hard. Let's __________ home and watch a movie.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sell"
+     },
+     {
+      "letter": "B",
+      "text": "share"
+     },
+     {
+      "letter": "C",
+      "text": "lead"
      },
      {
       "letter": "D",
@@ -873,57 +873,103 @@ window.FLASHCARD_UNITS = {
     "vi": 5
    },
    {
-    "question": "Q: What does Ben do on Sundays? — A: He __________ his grandparents.【拜訪；參觀】",
+    "question": "Lisa __________ her grandparents in Tainan every summer. She stays with them for two weeks.",
     "options": [
      {
       "letter": "A",
-      "text": "visits"
-     },
-     {
-      "letter": "B",
       "text": "wakes"
      },
      {
+      "letter": "B",
+      "text": "visits"
+     },
+     {
       "letter": "C",
-      "text": "starts"
+      "text": "means"
      },
      {
       "letter": "D",
-      "text": "prays"
+      "text": "sells"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 6
    },
    {
-    "question": "Q: When does your brother get up? — A: He __________ up at six every day.【醒來】",
+    "question": "My dad __________ up at five thirty every morning. Then he goes jogging.",
     "options": [
      {
       "letter": "A",
-      "text": "means"
+      "text": "stays"
      },
      {
       "letter": "B",
-      "text": "wakes"
+      "text": "keeps"
      },
      {
       "letter": "C",
-      "text": "visits"
+      "text": "wakes"
      },
      {
       "letter": "D",
-      "text": "cares"
+      "text": "leads"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 7
    },
    {
-    "question": "Q: Do you know the word \"glad\"? — A: Yes, I do. It __________ \"happy.\"【意思是】",
+    "question": "The word \"huge\" __________ \"very big.\"",
     "options": [
      {
       "letter": "A",
+      "text": "keeps"
+     },
+     {
+      "letter": "B",
       "text": "means"
+     },
+     {
+      "letter": "C",
+      "text": "sells"
+     },
+     {
+      "letter": "D",
+      "text": "leads"
+     }
+    ],
+    "answer": "B",
+    "vi": 8
+   },
+   {
+    "question": "They __________ fresh fruit and vegetables at that store. The prices are low.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sell"
+     },
+     {
+      "letter": "B",
+      "text": "pray"
+     },
+     {
+      "letter": "C",
+      "text": "sleep"
+     },
+     {
+      "letter": "D",
+      "text": "stay"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "Amy __________ all her old letters in a box under her bed. She never throws them away.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "prays"
      },
      {
       "letter": "B",
@@ -931,53 +977,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "prays"
-     },
-     {
-      "letter": "D",
-      "text": "visits"
-     }
-    ],
-    "answer": "A",
-    "vi": 8
-   },
-   {
-    "question": "Q: What do the people at the market do? — A: They __________ fruit and vegetables.【賣】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "thank"
-     },
-     {
-      "letter": "B",
-      "text": "sell"
-     },
-     {
-      "letter": "C",
-      "text": "decide"
-     },
-     {
-      "letter": "D",
-      "text": "sent"
-     }
-    ],
-    "answer": "B",
-    "vi": 9
-   },
-   {
-    "question": "Q: Where does Mom put the milk? — A: She __________ it in the fridge.【保存；保持】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "leads"
-     },
-     {
-      "letter": "B",
       "text": "dates"
-     },
-     {
-      "letter": "C",
-      "text": "owns"
      },
      {
       "letter": "D",
@@ -988,11 +988,11 @@ window.FLASHCARD_UNITS = {
     "vi": 10
    },
    {
-    "question": "Q: What does the team leader do on the trip? — A: He __________ the way.【帶領；引導】",
+    "question": "The teacher __________ the students to the playground. They walk behind her in a line.",
     "options": [
      {
       "letter": "A",
-      "text": "keeps"
+      "text": "sells"
      },
      {
       "letter": "B",
@@ -1004,68 +1004,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "dates"
+      "text": "means"
      }
     ],
     "answer": "C",
     "vi": 11
    },
    {
-    "question": "Q: What do you do with your cookies? — A: I __________ them with my friends.【分享】",
+    "question": "I only have one cookie. Let's __________ it. You take half, and I take half.",
     "options": [
      {
       "letter": "A",
-      "text": "please"
+      "text": "sell"
      },
      {
       "letter": "B",
-      "text": "share"
+      "text": "pray"
      },
      {
       "letter": "C",
-      "text": "expect"
+      "text": "lead"
      },
      {
       "letter": "D",
-      "text": "try"
+      "text": "share"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 12
    },
    {
-    "question": "Q: Do you and your sister spend all your money? — A: No, we don't. We __________ it to buy a bike.【存（錢）；救】",
+    "question": "I __________ fifty dollars every week. I put the money in a box because I want to buy a bike.",
     "options": [
      {
       "letter": "A",
-      "text": "welcome"
-     },
-     {
-      "letter": "B",
-      "text": "laid"
-     },
-     {
-      "letter": "C",
       "text": "save"
      },
      {
+      "letter": "B",
+      "text": "pray"
+     },
+     {
+      "letter": "C",
+      "text": "lead"
+     },
+     {
       "letter": "D",
-      "text": "try"
+      "text": "date"
      }
     ],
-    "answer": "C",
+    "answer": "A",
     "vi": 13
    },
    {
-    "question": "Q: When does your first class begin? — A: It __________ at eight.【開始】",
+    "question": "School __________ at eight in the morning and ends at four in the afternoon.",
     "options": [
      {
       "letter": "A",
-      "text": "starts"
+      "text": "sells"
      },
      {
       "letter": "B",
-      "text": "means"
+      "text": "starts"
      },
      {
       "letter": "C",
@@ -1073,87 +1073,64 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "owns"
+      "text": "keeps"
      }
     ],
-    "answer": "A",
+    "answer": "B",
     "vi": 14
    },
    {
-    "question": "Q: Does your big sister have a boyfriend? — A: Yes, she does. She __________ Tom. They go to the movies on Saturdays.【和…約會】",
+    "question": "My brother has a girlfriend now. He __________ her every weekend.",
     "options": [
      {
       "letter": "A",
+      "text": "sells"
+     },
+     {
+      "letter": "B",
       "text": "owns"
      },
      {
-      "letter": "B",
-      "text": "visits"
-     },
-     {
       "letter": "C",
-      "text": "keeps"
+      "text": "dates"
      },
      {
       "letter": "D",
-      "text": "dates"
+      "text": "means"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 15
    },
    {
-    "question": "Q: Do you think you can do well on the test? — A: Yes, I do. I __________ to get a good grade.【期待；預期】",
+    "question": "We __________ about fifty people at the party. We need a lot of food and drinks.",
     "options": [
      {
       "letter": "A",
-      "text": "expect"
+      "text": "pray"
      },
      {
       "letter": "B",
-      "text": "please"
+      "text": "sleep"
      },
      {
       "letter": "C",
-      "text": "gave"
+      "text": "share"
      },
      {
       "letter": "D",
-      "text": "treat"
+      "text": "expect"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 16
    },
    {
-    "question": "Q: What is Grandpa doing in the park? — A: He is __________ on a bench.【坐】",
+    "question": "The students are __________ on their chairs and listening to the teacher.",
     "options": [
      {
       "letter": "A",
-      "text": "uploading"
-     },
-     {
-      "letter": "B",
-      "text": "lying"
-     },
-     {
-      "letter": "C",
-      "text": "downloading"
-     },
-     {
-      "letter": "D",
       "text": "sitting"
-     }
-    ],
-    "answer": "D",
-    "vi": 17
-   },
-   {
-    "question": "Q: What is the cat doing? — A: It is __________ in the sun.【躺】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "waiting"
      },
      {
       "letter": "B",
@@ -1165,106 +1142,106 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "downloading"
-     }
-    ],
-    "answer": "B",
-    "vi": 18
-   },
-   {
-    "question": "Q: What are the kids doing behind the door? — A: They are __________ from their mom.【躲藏；隱藏】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "waiting"
-     },
-     {
-      "letter": "B",
-      "text": "showing"
-     },
-     {
-      "letter": "C",
-      "text": "hiding"
-     },
-     {
-      "letter": "D",
-      "text": "planning"
-     }
-    ],
-    "answer": "C",
-    "vi": 19
-   },
-   {
-    "question": "Q: What is the rabbit doing in the garden? — A: It is __________ around.【跳；單腳跳】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "preparing"
-     },
-     {
-      "letter": "B",
-      "text": "hiding"
-     },
-     {
-      "letter": "C",
-      "text": "sitting"
-     },
-     {
-      "letter": "D",
-      "text": "hopping"
-     }
-    ],
-    "answer": "D",
-    "vi": 20
-   },
-   {
-    "question": "Q: What are you doing at the bus stop? — A: I'm __________ for the bus.【等待】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "preparing"
-     },
-     {
-      "letter": "B",
-      "text": "waiting"
-     },
-     {
-      "letter": "C",
-      "text": "lying"
-     },
-     {
-      "letter": "D",
-      "text": "downloading"
-     }
-    ],
-    "answer": "B",
-    "vi": 21
-   },
-   {
-    "question": "Q: What is Mom doing in the kitchen? — A: She is __________ dinner.【準備】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "preparing"
-     },
-     {
-      "letter": "B",
       "text": "filling"
-     },
-     {
-      "letter": "C",
-      "text": "waiting"
-     },
-     {
-      "letter": "D",
-      "text": "hopping"
      }
     ],
     "answer": "A",
-    "vi": 22
+    "vi": 17
    },
    {
-    "question": "Q: What are your parents doing? — A: They are __________ a trip to Japan.【計畫】",
+    "question": "The cat is __________ on the sofa. It is sleeping in the warm sun.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sitting"
+     },
+     {
+      "letter": "B",
+      "text": "planning"
+     },
+     {
+      "letter": "C",
+      "text": "lying"
+     },
+     {
+      "letter": "D",
+      "text": "filling"
+     }
+    ],
+    "answer": "C",
+    "vi": 18
+   },
+   {
+    "question": "The little boy is __________ behind the door. His sister can't find him.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "planning"
+     },
+     {
+      "letter": "B",
+      "text": "hiding"
+     },
+     {
+      "letter": "C",
+      "text": "filling"
+     },
+     {
+      "letter": "D",
+      "text": "uploading"
+     }
+    ],
+    "answer": "B",
+    "vi": 19
+   },
+   {
+    "question": "The rabbit is __________ across the grass on its strong back legs.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "filling"
+     },
+     {
+      "letter": "B",
+      "text": "planning"
+     },
+     {
+      "letter": "C",
+      "text": "hopping"
+     },
+     {
+      "letter": "D",
+      "text": "showing"
+     }
+    ],
+    "answer": "C",
+    "vi": 20
+   },
+   {
+    "question": "We are __________ for the bus. It should come in five minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "waiting"
+     },
+     {
+      "letter": "B",
+      "text": "filling"
+     },
+     {
+      "letter": "C",
+      "text": "hopping"
+     },
+     {
+      "letter": "D",
+      "text": "showing"
+     }
+    ],
+    "answer": "A",
+    "vi": 21
+   },
+   {
+    "question": "Mom is __________ dinner in the kitchen. She is washing and cutting vegetables.",
     "options": [
      {
       "letter": "A",
@@ -1276,18 +1253,41 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "planning"
+      "text": "waiting"
      },
      {
       "letter": "D",
-      "text": "uploading"
+      "text": "preparing"
      }
     ],
-    "answer": "C",
+    "answer": "D",
+    "vi": 22
+   },
+   {
+    "question": "We are __________ a trip to Japan. We need to decide where to go and what to see.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hopping"
+     },
+     {
+      "letter": "B",
+      "text": "planning"
+     },
+     {
+      "letter": "C",
+      "text": "filling"
+     },
+     {
+      "letter": "D",
+      "text": "hiding"
+     }
+    ],
+    "answer": "B",
     "vi": 23
    },
    {
-    "question": "Q: What is Dad doing with the bottle? — A: He is __________ it with water.【裝滿】",
+    "question": "Dad is __________ the bottle with water. It is almost full now.",
     "options": [
      {
       "letter": "A",
@@ -1295,49 +1295,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "uploading"
+      "text": "planning"
      },
      {
       "letter": "C",
-      "text": "preparing"
+      "text": "hopping"
      },
      {
       "letter": "D",
-      "text": "waiting"
+      "text": "showing"
      }
     ],
     "answer": "A",
     "vi": 24
    },
    {
-    "question": "Q: What is Amy doing? — A: She is __________ her new bike to her friends.【給…看；展示】",
+    "question": "Amy is __________ her new phone to her friends. Everyone wants to look at it.",
     "options": [
      {
       "letter": "A",
-      "text": "lying"
-     },
-     {
-      "letter": "B",
-      "text": "showing"
-     },
-     {
-      "letter": "C",
-      "text": "hiding"
-     },
-     {
-      "letter": "D",
-      "text": "sitting"
-     }
-    ],
-    "answer": "B",
-    "vi": 25
-   },
-   {
-    "question": "Q: What is your sister doing on the computer? — A: She is __________ her photos to the Internet.【上傳】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "planning"
+      "text": "filling"
      },
      {
       "letter": "B",
@@ -1345,7 +1322,30 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "lying"
+      "text": "showing"
+     },
+     {
+      "letter": "D",
+      "text": "waiting"
+     }
+    ],
+    "answer": "C",
+    "vi": 25
+   },
+   {
+    "question": "I am __________ my photos to the Internet so that my friends can see them.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hopping"
+     },
+     {
+      "letter": "B",
+      "text": "hiding"
+     },
+     {
+      "letter": "C",
+      "text": "filling"
      },
      {
       "letter": "D",
@@ -1356,99 +1356,191 @@ window.FLASHCARD_UNITS = {
     "vi": 26
    },
    {
-    "question": "Q: What is Ben doing with his cellphone? — A: He is __________ a new game.【下載】",
+    "question": "Ben is __________ a new game from the Internet onto his phone.",
     "options": [
      {
       "letter": "A",
-      "text": "lying"
+      "text": "hopping"
      },
      {
       "letter": "B",
-      "text": "planning"
+      "text": "downloading"
      },
      {
       "letter": "C",
-      "text": "downloading"
+      "text": "hiding"
      },
      {
       "letter": "D",
       "text": "filling"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 27
    },
    {
-    "question": "Q: Where was your key? — A: I __________ it under the bed.【找到】",
+    "question": "I looked for my keys everywhere. Finally, I __________ them under the sofa.",
     "options": [
      {
       "letter": "A",
-      "text": "share"
+      "text": "found"
      },
      {
       "letter": "B",
-      "text": "laid"
+      "text": "sent"
      },
      {
       "letter": "C",
-      "text": "expect"
+      "text": "invited"
      },
      {
       "letter": "D",
-      "text": "found"
+      "text": "joined"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 28
    },
    {
-    "question": "Q: What was your birthday present? — A: I __________ a new watch.【得到；收到】",
+    "question": "I __________ a letter from my friend in Japan yesterday. I was happy to read it.",
     "options": [
      {
       "letter": "A",
-      "text": "stay"
+      "text": "fell"
      },
      {
       "letter": "B",
-      "text": "got"
+      "text": "died"
      },
      {
       "letter": "C",
-      "text": "sleep"
+      "text": "lied"
      },
      {
       "letter": "D",
-      "text": "sell"
+      "text": "got"
      }
     ],
-    "answer": "B",
+    "answer": "D",
     "vi": 29
    },
    {
-    "question": "Q: What did Tom do on Mother's Day? — A: He __________ his mom a card.【給】",
+    "question": "My parents __________ me a watch for my birthday last year. I wear it every day.",
     "options": [
      {
       "letter": "A",
-      "text": "enjoy"
+      "text": "fell"
      },
      {
       "letter": "B",
-      "text": "nod"
-     },
-     {
-      "letter": "C",
       "text": "gave"
      },
      {
+      "letter": "C",
+      "text": "joined"
+     },
+     {
       "letter": "D",
-      "text": "treat"
+      "text": "reached"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 30
    },
    {
-    "question": "Q: What did you do at the post office yesterday? — A: I __________ a letter to my grandma.【寄；送】",
+    "question": "I __________ an e-mail to my teacher last night. She answered this morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fell"
+     },
+     {
+      "letter": "B",
+      "text": "reached"
+     },
+     {
+      "letter": "C",
+      "text": "sent"
+     },
+     {
+      "letter": "D",
+      "text": "died"
+     }
+    ],
+    "answer": "C",
+    "vi": 31
+   },
+   {
+    "question": "Amy __________ all her classmates to her birthday party last Saturday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "reached"
+     },
+     {
+      "letter": "B",
+      "text": "invited"
+     },
+     {
+      "letter": "C",
+      "text": "fell"
+     },
+     {
+      "letter": "D",
+      "text": "happened"
+     }
+    ],
+    "answer": "B",
+    "vi": 32
+   },
+   {
+    "question": "I __________ the school basketball team last month. Now I practice with them every day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "fell"
+     },
+     {
+      "letter": "B",
+      "text": "happened"
+     },
+     {
+      "letter": "C",
+      "text": "died"
+     },
+     {
+      "letter": "D",
+      "text": "joined"
+     }
+    ],
+    "answer": "D",
+    "vi": 33
+   },
+   {
+    "question": "We __________ the top of the mountain at noon. We were tired but happy.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "reached"
+     },
+     {
+      "letter": "B",
+      "text": "invited"
+     },
+     {
+      "letter": "C",
+      "text": "sent"
+     },
+     {
+      "letter": "D",
+      "text": "lied"
+     }
+    ],
+    "answer": "A",
+    "vi": 34
+   },
+   {
+    "question": "The boy __________ off his bike and hurt his knee yesterday.",
     "options": [
      {
       "letter": "A",
@@ -1456,95 +1548,118 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "got"
-     },
-     {
-      "letter": "C",
-      "text": "excuse"
-     },
-     {
-      "letter": "D",
-      "text": "share"
-     }
-    ],
-    "answer": "A",
-    "vi": 31
-   },
-   {
-    "question": "Q: Who did Lisa ask to her party last week? — A: She __________ all her classmates.【邀請】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "happened"
-     },
-     {
-      "letter": "B",
-      "text": "lied"
-     },
-     {
-      "letter": "C",
-      "text": "reached"
-     },
-     {
-      "letter": "D",
-      "text": "invited"
-     }
-    ],
-    "answer": "D",
-    "vi": 32
-   },
-   {
-    "question": "Q: Did Ben become a club member last year? — A: Yes, he did. He __________ the music club.【加入】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "joined"
-     },
-     {
-      "letter": "B",
-      "text": "happened"
-     },
-     {
-      "letter": "C",
-      "text": "died"
-     },
-     {
-      "letter": "D",
-      "text": "disappeared"
-     }
-    ],
-    "answer": "A",
-    "vi": 33
-   },
-   {
-    "question": "Q: When did you get to the top of the mountain? — A: We __________ the top at noon.【到達；伸手拿到】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "invited"
-     },
-     {
-      "letter": "B",
       "text": "joined"
      },
      {
       "letter": "C",
-      "text": "reached"
+      "text": "fell"
      },
      {
       "letter": "D",
-      "text": "disappeared"
+      "text": "found"
      }
     ],
     "answer": "C",
-    "vi": 34
+    "vi": 35
    },
    {
-    "question": "Q: Why did you go to the nurse's office yesterday? — A: I __________ down on the playground.【跌倒；落下】",
+    "question": "I __________ my leg when I played soccer yesterday. I can't walk well now.",
     "options": [
      {
       "letter": "A",
-      "text": "try"
+      "text": "sent"
+     },
+     {
+      "letter": "B",
+      "text": "hurt"
+     },
+     {
+      "letter": "C",
+      "text": "joined"
+     },
+     {
+      "letter": "D",
+      "text": "invited"
+     }
+    ],
+    "answer": "B",
+    "vi": 36
+   },
+   {
+    "question": "What __________ to your arm? Did you fall down?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "reached"
+     },
+     {
+      "letter": "B",
+      "text": "joined"
+     },
+     {
+      "letter": "C",
+      "text": "happened"
+     },
+     {
+      "letter": "D",
+      "text": "invited"
+     }
+    ],
+    "answer": "C",
+    "vi": 37
+   },
+   {
+    "question": "Our old dog __________ last week. We were all very sad.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "reached"
+     },
+     {
+      "letter": "B",
+      "text": "joined"
+     },
+     {
+      "letter": "C",
+      "text": "sent"
+     },
+     {
+      "letter": "D",
+      "text": "died"
+     }
+    ],
+    "answer": "D",
+    "vi": 38
+   },
+   {
+    "question": "The sun __________ behind the clouds, and the sky turned gray.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "disappeared"
+     },
+     {
+      "letter": "B",
+      "text": "invited"
+     },
+     {
+      "letter": "C",
+      "text": "joined"
+     },
+     {
+      "letter": "D",
+      "text": "lied"
+     }
+    ],
+    "answer": "A",
+    "vi": 39
+   },
+   {
+    "question": "The hen __________ three eggs this morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lied"
      },
      {
       "letter": "B",
@@ -1552,156 +1667,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "explain"
+      "text": "died"
      },
      {
       "letter": "D",
-      "text": "stay"
-     }
-    ],
-    "answer": "B",
-    "vi": 35
-   },
-   {
-    "question": "Q: What's wrong with your knee? — A: I __________ it in PE class yesterday.【弄傷；受傷】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "try"
-     },
-     {
-      "letter": "B",
-      "text": "decide"
-     },
-     {
-      "letter": "C",
-      "text": "treat"
-     },
-     {
-      "letter": "D",
-      "text": "hurt"
+      "text": "laid"
      }
     ],
     "answer": "D",
-    "vi": 36
-   },
-   {
-    "question": "Q: What __________ to your bike last night? — A: A car hit it.【發生】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "joined"
-     },
-     {
-      "letter": "B",
-      "text": "reached"
-     },
-     {
-      "letter": "C",
-      "text": "happened"
-     },
-     {
-      "letter": "D",
-      "text": "disappeared"
-     }
-    ],
-    "answer": "C",
-    "vi": 37
-   },
-   {
-    "question": "Q: Do you still have your fish? — A: No, I don't. It __________ last week.【死】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "died"
-     },
-     {
-      "letter": "B",
-      "text": "invited"
-     },
-     {
-      "letter": "C",
-      "text": "joined"
-     },
-     {
-      "letter": "D",
-      "text": "lied"
-     }
-    ],
-    "answer": "A",
-    "vi": 38
-   },
-   {
-    "question": "Q: Where is the cake on the table? — A: I don't know. It __________ this morning!【消失】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "died"
-     },
-     {
-      "letter": "B",
-      "text": "disappeared"
-     },
-     {
-      "letter": "C",
-      "text": "happened"
-     },
-     {
-      "letter": "D",
-      "text": "joined"
-     }
-    ],
-    "answer": "B",
-    "vi": 39
-   },
-   {
-    "question": "Q: What did the hen do this morning? — A: It __________ two eggs.【下（蛋）；放置】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "laid"
-     },
-     {
-      "letter": "B",
-      "text": "hurt"
-     },
-     {
-      "letter": "C",
-      "text": "let"
-     },
-     {
-      "letter": "D",
-      "text": "gave"
-     }
-    ],
-    "answer": "A",
     "vi": 40
    },
    {
-    "question": "Q: Why is Mom angry with Tom? — A: Because he __________ to her yesterday.【說謊】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "happened"
-     },
-     {
-      "letter": "B",
-      "text": "disappeared"
-     },
-     {
-      "letter": "C",
-      "text": "died"
-     },
-     {
-      "letter": "D",
-      "text": "lied"
-     }
-    ],
-    "answer": "D",
-    "vi": 41
-   },
-   {
-    "question": "Q: Will you buy the red bag or the blue bag? — A: I don't know. I will __________ later.【決定】",
+    "question": "Tom __________ to his mother. He said he was at the library, but he was at the park.",
     "options": [
      {
       "letter": "A",
@@ -1709,26 +1686,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "sleep"
+      "text": "lied"
      },
      {
       "letter": "C",
-      "text": "decide"
+      "text": "fell"
      },
      {
       "letter": "D",
-      "text": "enjoy"
+      "text": "reached"
      }
     ],
-    "answer": "C",
-    "vi": 42
+    "answer": "B",
+    "vi": 41
    },
    {
-    "question": "Q: Who will help with this problem? — A: Don't worry. I will __________ with it.【處理（deal with）】",
+    "question": "I can't __________ which dress to buy. I like both the red one and the blue one.",
     "options": [
      {
       "letter": "A",
-      "text": "found"
+      "text": "decide"
      },
      {
       "letter": "B",
@@ -1736,18 +1713,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "stay"
+      "text": "treat"
      },
      {
       "letter": "D",
-      "text": "sell"
+      "text": "raise"
      }
     ],
-    "answer": "B",
-    "vi": 43
+    "answer": "A",
+    "vi": 42
    },
    {
-    "question": "Q: Will the teacher talk about the new words tomorrow? — A: Yes, she will. She will __________ them to us.【解釋】",
+    "question": "This is a big problem. How should we __________ with it?",
     "options": [
      {
       "letter": "A",
@@ -1755,49 +1732,26 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "got"
-     },
-     {
-      "letter": "C",
-      "text": "try"
-     },
-     {
-      "letter": "D",
-      "text": "explain"
-     }
-    ],
-    "answer": "D",
-    "vi": 44
-   },
-   {
-    "question": "Q: What will you do for your mom on her birthday? — A: I will __________ her to dinner.【請客；對待】",
-    "options": [
-     {
-      "letter": "A",
       "text": "treat"
      },
      {
-      "letter": "B",
-      "text": "nod"
-     },
-     {
       "letter": "C",
-      "text": "thank"
+      "text": "deal"
      },
      {
       "letter": "D",
-      "text": "fell"
+      "text": "thank"
      }
     ],
-    "answer": "A",
-    "vi": 45
+    "answer": "C",
+    "vi": 43
    },
    {
-    "question": "Q: What will you do if you know the answer? — A: I will __________ my hand.【舉起；養育】",
+    "question": "I don't understand this math problem. Can you __________ it to me?",
     "options": [
      {
       "letter": "A",
-      "text": "expect"
+      "text": "explain"
      },
      {
       "letter": "B",
@@ -1805,26 +1759,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "stop"
+      "text": "please"
      },
      {
       "letter": "D",
-      "text": "explain"
+      "text": "welcome"
      }
     ],
-    "answer": "B",
-    "vi": 46
+    "answer": "A",
+    "vi": 44
    },
    {
-    "question": "Q: Can you __________ everyone? — A: No, I can't. That's too hard.【使高興；取悅】",
+    "question": "It's my birthday, so let me __________ you to dinner. I will pay.",
     "options": [
      {
       "letter": "A",
-      "text": "sent"
+      "text": "raise"
      },
      {
       "letter": "B",
-      "text": "decide"
+      "text": "treat"
+     },
+     {
+      "letter": "C",
+      "text": "nod"
+     },
+     {
+      "letter": "D",
+      "text": "stop"
+     }
+    ],
+    "answer": "B",
+    "vi": 45
+   },
+   {
+    "question": "If you know the answer, please __________ your hand.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "treat"
+     },
+     {
+      "letter": "B",
+      "text": "thank"
+     },
+     {
+      "letter": "C",
+      "text": "welcome"
+     },
+     {
+      "letter": "D",
+      "text": "raise"
+     }
+    ],
+    "answer": "D",
+    "vi": 46
+   },
+   {
+    "question": "It is not easy to __________ my boss. He is never happy with our work.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "raise"
+     },
+     {
+      "letter": "B",
+      "text": "nod"
      },
      {
       "letter": "C",
@@ -1832,106 +1832,152 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "share"
+      "text": "stop"
      }
     ],
     "answer": "C",
     "vi": 47
    },
    {
-    "question": "Q: What do you say when someone helps you? — A: __________ you very much.【感謝】",
+    "question": "I want to __________ you for your help. I couldn't have done it without you.",
     "options": [
      {
       "letter": "A",
-      "text": "Nod"
+      "text": "thank"
      },
      {
       "letter": "B",
-      "text": "Gave"
+      "text": "raise"
      },
      {
       "letter": "C",
-      "text": "Got"
+      "text": "nod"
      },
      {
       "letter": "D",
-      "text": "Thank"
-     }
-    ],
-    "answer": "D",
-    "vi": 48
-   },
-   {
-    "question": "Q: What does the teacher say to the new students? — A: She says, \"__________ to our school!\"【歡迎】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "welcome"
-     },
-     {
-      "letter": "B",
-      "text": "deal"
-     },
-     {
-      "letter": "C",
-      "text": "let"
-     },
-     {
-      "letter": "D",
-      "text": "hurt"
+      "text": "stop"
      }
     ],
     "answer": "A",
-    "vi": 49
+    "vi": 48
    },
    {
-    "question": "Q: How do you ask a stranger for help? — A: __________ me. Can you help me?【原諒（Excuse me.）】",
+    "question": "Let's __________ our new classmate, Amy, with a big hand.",
     "options": [
      {
       "letter": "A",
-      "text": "Expect"
+      "text": "raise"
      },
      {
       "letter": "B",
-      "text": "Let"
+      "text": "welcome"
      },
      {
       "letter": "C",
-      "text": "Excuse"
+      "text": "stop"
      },
      {
       "letter": "D",
-      "text": "Share"
-     }
-    ],
-    "answer": "C",
-    "vi": 50
-   },
-   {
-    "question": "Q: My dog is sick. I'm so sad. — A: __________! It will be OK.【打起精神；振作】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Take the MRT"
-     },
-     {
-      "letter": "B",
-      "text": "Cheer up"
-     },
-     {
-      "letter": "C",
-      "text": "A lot of"
-     },
-     {
-      "letter": "D",
-      "text": "A few"
+      "text": "nod"
      }
     ],
     "answer": "B",
+    "vi": 49
+   },
+   {
+    "question": "__________ me. Can you tell me the way to the station?",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Thank"
+     },
+     {
+      "letter": "B",
+      "text": "Please"
+     },
+     {
+      "letter": "C",
+      "text": "Welcome"
+     },
+     {
+      "letter": "D",
+      "text": "Excuse"
+     }
+    ],
+    "answer": "D",
+    "vi": 50
+   },
+   {
+    "question": "__________! You lost today, but you will do better next time.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Wake up"
+     },
+     {
+      "letter": "B",
+      "text": "Hurry up"
+     },
+     {
+      "letter": "C",
+      "text": "Cheer up"
+     },
+     {
+      "letter": "D",
+      "text": "Stand up"
+     }
+    ],
+    "answer": "C",
     "vi": 51
    },
    {
-    "question": "Q: Can you say \"yes\" without words? — A: Yes, I can. I can __________ my head.【點頭】",
+    "question": "People __________ their heads when they agree. They move their heads up and down.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "raise"
+     },
+     {
+      "letter": "B",
+      "text": "nod"
+     },
+     {
+      "letter": "C",
+      "text": "stop"
+     },
+     {
+      "letter": "D",
+      "text": "try"
+     }
+    ],
+    "answer": "B",
+    "vi": 52
+   },
+   {
+    "question": "The traffic light is red. You must __________ your car and wait.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "stop"
+     },
+     {
+      "letter": "B",
+      "text": "nod"
+     },
+     {
+      "letter": "C",
+      "text": "try"
+     },
+     {
+      "letter": "D",
+      "text": "thank"
+     }
+    ],
+    "answer": "A",
+    "vi": 53
+   },
+   {
+    "question": "I don't know if I can do it, but I will __________ my best.",
     "options": [
      {
       "letter": "A",
@@ -1939,90 +1985,44 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "stay"
+      "text": "let"
      },
      {
       "letter": "C",
-      "text": "sent"
+      "text": "stop"
      },
      {
       "letter": "D",
-      "text": "share"
-     }
-    ],
-    "answer": "A",
-    "vi": 52
-   },
-   {
-    "question": "Q: The light is red. Can we cross the street? — A: No. __________! Wait for the green light.【停止；停】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Gave"
-     },
-     {
-      "letter": "B",
-      "text": "Fell"
-     },
-     {
-      "letter": "C",
-      "text": "Stop"
-     },
-     {
-      "letter": "D",
-      "text": "Deal"
-     }
-    ],
-    "answer": "C",
-    "vi": 53
-   },
-   {
-    "question": "Q: Can I have some of your cake? — A: Sure. __________ it. It's yummy.【嘗試；試】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Let"
-     },
-     {
-      "letter": "B",
-      "text": "Try"
-     },
-     {
-      "letter": "C",
-      "text": "Share"
-     },
-     {
-      "letter": "D",
-      "text": "Gave"
-     }
-    ],
-    "answer": "B",
-    "vi": 54
-   },
-   {
-    "question": "Q: Mom, can you help me with this heavy box? — A: Sure. __________ me carry it for you.【讓】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Explain"
-     },
-     {
-      "letter": "B",
-      "text": "Decide"
-     },
-     {
-      "letter": "C",
-      "text": "Please"
-     },
-     {
-      "letter": "D",
-      "text": "Let"
+      "text": "try"
      }
     ],
     "answer": "D",
+    "vi": 54
+   },
+   {
+    "question": "Please __________ me help you with those bags. They look very heavy.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "try"
+     },
+     {
+      "letter": "B",
+      "text": "nod"
+     },
+     {
+      "letter": "C",
+      "text": "let"
+     },
+     {
+      "letter": "D",
+      "text": "stop"
+     }
+    ],
+    "answer": "C",
     "vi": 55
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"explain":["to tell someone about something so they can understand it","解釋"],"excuse":["a reason you give to explain why you did something wrong","藉口"],"treat":["something nice that someone buys for you","請客"],"cares":["to think that someone or something is important","關心；在乎"],"enjoy":["to like doing something","喜愛；享受"],"owns":["to have something that is yours","擁有"],"prays":["to talk to God or the gods","祈禱；拜拜"],"sleep":["to rest with your eyes closed, as you do at night","睡覺"],"stay":["to not leave a place","停留；待"],"visits":["to go to see a person or a place","拜訪；參觀"],"wakes":["to stop sleeping","醒來"],"means":["to have the same idea as another word; to say","意思是"],"sell":["to give something to someone for money","賣"],"keeps":["to have something in one place; to not give or throw something away","保存；保持"],"leads":["to go in front and show the way","帶領；引導"],"share":["to let someone have or use part of what you have","分享"],"save":["to keep money and not spend it; to take someone out of danger","存（錢）；救"],"starts":["to begin","開始"],"dates":["to go out with a boyfriend or girlfriend","和…約會"],"expect":["to think that something will happen","期待；預期"],"sitting":["to rest on a chair or on the ground, not standing","坐"],"lying":["to have your body flat on a bed or on the ground","躺"],"hiding":["to go where no one can see or find you","躲藏；隱藏"],"hopping":["to make short, quick jumps","跳；單腳跳"],"waiting":["to stay in a place until someone comes or something happens","等待"],"preparing":["to make something ready","準備"],"planning":["to think about what you will do and how to do it","計畫"],"filling":["to put so much into something that there is no more space","裝滿"],"showing":["to let someone see something","給…看；展示"],"uploading":["to send a file or photo from your computer or phone to the Internet","上傳"],"downloading":["to get a file or game from the Internet onto your computer or phone","下載"],"found":["to see or get something after you look for it","找到"],"got":["to be given something","得到；收到"],"gave":["to let someone have something","給"],"sent":["to make a letter or package go to another place","寄；送"],"invited":["to ask someone to come to a party or a meal","邀請"],"joined":["to become a member of a group or club","加入"],"reached":["to get to a place","到達；伸手拿到"],"fell":["to drop down to the ground","跌倒；落下"],"hurt":["to make part of the body feel pain","弄傷；受傷"],"happened":["to take place","發生"],"died":["to stop living","死"],"disappeared":["to go away so that no one can see it","消失"],"laid":["(of a bird) to make an egg come out","下（蛋）；放置"],"lied":["to say something that is not true","說謊"],"decide":["to choose what to do after thinking","決定"],"deal":["(with \"with\") to take care of a problem","處理（deal with）"],"raise":["to lift something up; to take care of a child until he or she grows up","舉起；養育"],"please":["to make someone happy","使高興；取悅"],"thank":["to tell someone you are glad for what they did","感謝"],"welcome":["to say hello in a friendly way to someone who comes","歡迎"],"nod":["to move your head up and down to say \"yes\"","點頭"],"stop":["to not move or not do something anymore","停止；停"],"try":["to see if you can do something","嘗試；試"],"let":["to allow someone to do something","讓"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"owns":["to have something that is yours","擁有"],"cares":["to think that someone or something is important","關心；在乎"],"prays":["to talk to God or the gods","祈禱；拜拜"],"sells":["to give something to someone for money","賣"],"own":["to have something that is yours","擁有"],"pray":["to talk to God or the gods","祈禱；拜拜"],"sell":["to give something to someone for money","賣"],"enjoy":["to like doing something","喜愛；享受"],"wakes":["to stop sleeping","醒來"],"sleep":["to rest with your eyes closed, as you do at night","睡覺"],"share":["to let someone have or use part of what you have","分享"],"lead":["to go in front and show the way","帶領；引導"],"stay":["to not leave a place","停留；待"],"visits":["to go to see a person or a place","拜訪；參觀"],"means":["to have the same idea as another word; to say","意思是"],"stays":["to not leave a place","停留；待"],"keeps":["to have something in one place; to not give or throw something away","保存；保持"],"leads":["to go in front and show the way","帶領；引導"],"dates":["to go out with a boyfriend or girlfriend","和…約會"],"save":["to keep money and not spend it; to take someone out of danger","存（錢）；救"],"date":["to go out with a boyfriend or girlfriend","和…約會"],"starts":["to begin","開始"],"expect":["to think that something will happen","期待；預期"],"sitting":["to rest on a chair or on the ground, not standing","坐"],"lying":["","躺"],"hopping":["to make short, quick jumps","跳；單腳跳"],"filling":["to put so much into something that there is no more space","裝滿"],"planning":["to think about what you will do and how to do it","計畫"],"hiding":["to go where no one can see or find you","躲藏；隱藏"],"uploading":["to send a file or photo from your computer or phone to the Internet","上傳"],"showing":["to let someone see something","給…看；展示"],"waiting":["to stay in a place until someone comes or something happens","等待"],"preparing":["to make something ready","準備"],"downloading":["to get a file or game from the Internet onto your computer or phone","下載"],"found":["to see or get something after you look for it","找到"],"sent":["to make a letter or package go to another place","寄；送"],"invited":["to ask someone to come to a party or a meal","邀請"],"joined":["to become a member of a group or club","加入"],"fell":["to drop down to the ground","跌倒；落下"],"died":["to stop living","死"],"lied":["","說謊"],"got":["to be given something","得到；收到"],"gave":["to let someone have something","給"],"reached":["to get to a place","到達；伸手拿到"],"happened":["to take place","發生"],"hurt":["to make part of the body feel pain","弄傷；受傷"],"disappeared":["to go away so that no one can see it","消失"],"laid":["(of a bird) to make an egg come out","下（蛋）；放置"],"decide":["to choose what to do after thinking","決定"],"deal":["(with \"with\") to take care of a problem","處理（deal with）"],"treat":["something nice that someone buys for you","請客"],"raise":["to lift something up; to take care of a child until he or she grows up","舉起；養育"],"thank":["to tell someone you are glad for what they did","感謝"],"explain":["to tell someone about something so they can understand it","解釋"],"please":["","請"],"welcome":["to say hello in a friendly way to someone who comes","歡迎"],"nod":["to move your head up and down to say \"yes\"","點頭"],"stop":["to not move or not do something anymore","停止；停"],"excuse":["a reason you give to explain why you did something wrong","藉口"],"try":["to see if you can do something","嘗試；試"],"let":["to allow someone to do something","讓"]});

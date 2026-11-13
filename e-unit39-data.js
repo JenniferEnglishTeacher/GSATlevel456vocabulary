@@ -514,42 +514,19 @@ window.FLASHCARD_UNITS = {
   ],
   "quiz": [
    {
-    "question": "Q: How often does Amy walk to school? — A: She __________ walks to school. She lives near it.【總是】",
+    "question": "Lisa is never late. She __________ comes to school on time.",
     "options": [
      {
       "letter": "A",
-      "text": "perhaps"
+      "text": "seldom"
      },
      {
       "letter": "B",
-      "text": "yes"
+      "text": "never"
      },
      {
       "letter": "C",
-      "text": "sometimes"
-     },
-     {
-      "letter": "D",
       "text": "always"
-     }
-    ],
-    "answer": "D",
-    "vi": 0
-   },
-   {
-    "question": "Q: How often do you get up at seven? — A: I __________ get up at seven.【通常】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "no"
-     },
-     {
-      "letter": "B",
-      "text": "badly"
-     },
-     {
-      "letter": "C",
-      "text": "usually"
      },
      {
       "letter": "D",
@@ -557,14 +534,37 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "C",
-    "vi": 1
+    "vi": 0
    },
    {
-    "question": "Q: How often do your grandparents visit you? — A: They __________ visit us. They come every weekend.【時常】",
+    "question": "I __________ walk to school, but today I took the bus because of the rain.",
     "options": [
      {
       "letter": "A",
-      "text": "maybe"
+      "text": "never"
+     },
+     {
+      "letter": "B",
+      "text": "twice"
+     },
+     {
+      "letter": "C",
+      "text": "abroad"
+     },
+     {
+      "letter": "D",
+      "text": "usually"
+     }
+    ],
+    "answer": "D",
+    "vi": 1
+   },
+   {
+    "question": "I __________ go to the library, about three or four times a week.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "never"
      },
      {
       "letter": "B",
@@ -572,18 +572,18 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "together"
+      "text": "seldom"
      },
      {
       "letter": "D",
-      "text": "just"
+      "text": "twice"
      }
     ],
     "answer": "B",
     "vi": 2
    },
    {
-    "question": "Q: How often do you and your friends play basketball? — A: We __________ play basketball after school.【有時候】",
+    "question": "I usually have rice for dinner, but __________ I have noodles.",
     "options": [
      {
       "letter": "A",
@@ -591,122 +591,99 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "perhaps"
+      "text": "never"
      },
      {
       "letter": "C",
-      "text": "always"
+      "text": "twice"
      },
      {
       "letter": "D",
-      "text": "yes"
+      "text": "abroad"
      }
     ],
     "answer": "A",
     "vi": 3
    },
    {
-    "question": "Q: How often do you eat fast food? — A: I __________ eat it. I eat it once a month.【很少】",
+    "question": "Ben __________ eats candy. He only has some once or twice a year.",
     "options": [
      {
       "letter": "A",
-      "text": "not"
+      "text": "always"
      },
      {
       "letter": "B",
+      "text": "often"
+     },
+     {
+      "letter": "C",
       "text": "seldom"
      },
      {
-      "letter": "C",
-      "text": "away"
-     },
-     {
       "letter": "D",
-      "text": "probably"
-     }
-    ],
-    "answer": "B",
-    "vi": 4
-   },
-   {
-    "question": "Q: How often do your parents drink coffee? — A: They __________ drink coffee. They drink tea.【從不】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "twice"
-     },
-     {
-      "letter": "B",
-      "text": "maybe"
-     },
-     {
-      "letter": "C",
-      "text": "never"
-     },
-     {
-      "letter": "D",
-      "text": "OK"
+      "text": "usually"
      }
     ],
     "answer": "C",
+    "vi": 4
+   },
+   {
+    "question": "I have __________ been to Japan. I hope to go there for the first time next year.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "always"
+     },
+     {
+      "letter": "B",
+      "text": "never"
+     },
+     {
+      "letter": "C",
+      "text": "often"
+     },
+     {
+      "letter": "D",
+      "text": "twice"
+     }
+    ],
+    "answer": "B",
     "vi": 5
    },
    {
-    "question": "Q: Does Lisa __________ cook dinner? — A: Yes, she does. She cooks on Sundays.【曾經；有時】",
+    "question": "Have you __________ seen a panda? Yes, I saw one at the zoo last year.",
     "options": [
      {
       "letter": "A",
-      "text": "again"
+      "text": "ever"
      },
      {
       "letter": "B",
-      "text": "seldom"
+      "text": "never"
      },
      {
       "letter": "C",
-      "text": "only"
-     },
-     {
-      "letter": "D",
-      "text": "ever"
-     }
-    ],
-    "answer": "D",
-    "vi": 6
-   },
-   {
-    "question": "Q: How often do you brush your teeth? — A: I brush my teeth __________ a day.【兩次】",
-    "options": [
-     {
-      "letter": "A",
       "text": "twice"
      },
      {
-      "letter": "B",
-      "text": "very"
-     },
-     {
-      "letter": "C",
-      "text": "even"
-     },
-     {
       "letter": "D",
-      "text": "never"
+      "text": "badly"
      }
     ],
     "answer": "A",
-    "vi": 7
+    "vi": 6
    },
    {
-    "question": "Q: How does Ben sing? — A: He sings __________, but he enjoys singing.【差勁地】",
+    "question": "I brush my teeth __________ a day, once in the morning and once at night.",
     "options": [
      {
       "letter": "A",
-      "text": "seldom"
+      "text": "never"
      },
      {
       "letter": "B",
-      "text": "actually"
+      "text": "ever"
      },
      {
       "letter": "C",
@@ -714,14 +691,14 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "least"
+      "text": "twice"
      }
     ],
-    "answer": "C",
-    "vi": 8
+    "answer": "D",
+    "vi": 7
    },
    {
-    "question": "Q: How do you and your brother go to school? — A: We walk to school __________.【一起】",
+    "question": "Our team played __________ today, so we lost the game 0 to 5.",
     "options": [
      {
       "letter": "A",
@@ -729,34 +706,34 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "even"
-     },
-     {
-      "letter": "C",
-      "text": "usually"
-     },
-     {
-      "letter": "D",
-      "text": "probably"
-     }
-    ],
-    "answer": "A",
-    "vi": 9
-   },
-   {
-    "question": "Q: What do you say when you can't hear the teacher? — A: I say, \"Can you say it __________, please?\"【再一次】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "really"
-     },
-     {
-      "letter": "B",
       "text": "again"
      },
      {
       "letter": "C",
-      "text": "no"
+      "text": "badly"
+     },
+     {
+      "letter": "D",
+      "text": "abroad"
+     }
+    ],
+    "answer": "C",
+    "vi": 8
+   },
+   {
+    "question": "My family always eats dinner __________. We sit at one big table and talk.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "abroad"
+     },
+     {
+      "letter": "B",
+      "text": "together"
+     },
+     {
+      "letter": "C",
+      "text": "badly"
      },
      {
       "letter": "D",
@@ -764,22 +741,45 @@ window.FLASHCARD_UNITS = {
      }
     ],
     "answer": "B",
-    "vi": 10
+    "vi": 9
    },
    {
-    "question": "Q: Where does your cousin study? — A: She studies __________. She is in Canada now.【在國外】",
+    "question": "I didn't hear you. Could you say that __________, please?",
     "options": [
      {
       "letter": "A",
-      "text": "even"
+      "text": "again"
      },
      {
       "letter": "B",
-      "text": "too"
+      "text": "abroad"
      },
      {
       "letter": "C",
       "text": "badly"
+     },
+     {
+      "letter": "D",
+      "text": "ahead"
+     }
+    ],
+    "answer": "A",
+    "vi": 10
+   },
+   {
+    "question": "My sister is studying __________. She has been in America for two years.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "together"
+     },
+     {
+      "letter": "B",
+      "text": "again"
+     },
+     {
+      "letter": "C",
+      "text": "ahead"
      },
      {
       "letter": "D",
@@ -790,7 +790,7 @@ window.FLASHCARD_UNITS = {
     "vi": 11
    },
    {
-    "question": "Q: Is your dad at home this week? — A: No, he isn't. He is __________ on a trip.【離開；不在】",
+    "question": "Go __________! I don't want to talk to you now.",
     "options": [
      {
       "letter": "A",
@@ -798,99 +798,7 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "either"
-     },
-     {
-      "letter": "C",
-      "text": "usually"
-     },
-     {
-      "letter": "D",
-      "text": "least"
-     }
-    ],
-    "answer": "A",
-    "vi": 12
-   },
-   {
-    "question": "Q: How do I get to the train station? — A: Go straight __________. It's on your left.【向前；在前方】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "yet"
-     },
-     {
-      "letter": "B",
-      "text": "ahead"
-     },
-     {
-      "letter": "C",
-      "text": "only"
-     },
-     {
-      "letter": "D",
-      "text": "abroad"
-     }
-    ],
-    "answer": "B",
-    "vi": 13
-   },
-   {
-    "question": "Q: Where does Mom keep the cookies? — A: She keeps them __________ in the kitchen. Let's look for them!【某處】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "still"
-     },
-     {
-      "letter": "B",
-      "text": "actually"
-     },
-     {
-      "letter": "C",
-      "text": "somewhere"
-     },
-     {
-      "letter": "D",
-      "text": "least"
-     }
-    ],
-    "answer": "C",
-    "vi": 14
-   },
-   {
-    "question": "Q: What does your mother do? — A: She is a nurse. She __________ teaches English at night.【也】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "actually"
-     },
-     {
-      "letter": "B",
-      "text": "somewhere"
-     },
-     {
-      "letter": "C",
-      "text": "just"
-     },
-     {
-      "letter": "D",
-      "text": "also"
-     }
-    ],
-    "answer": "D",
-    "vi": 15
-   },
-   {
-    "question": "Q: I like dogs. Do you like dogs? — A: Yes, I do. I like dogs, __________.【也】",
-    "options": [
-     {
-      "letter": "A",
       "text": "together"
-     },
-     {
-      "letter": "B",
-      "text": "too"
      },
      {
       "letter": "C",
@@ -901,11 +809,57 @@ window.FLASHCARD_UNITS = {
       "text": "twice"
      }
     ],
-    "answer": "B",
-    "vi": 16
+    "answer": "A",
+    "vi": 12
    },
    {
-    "question": "Q: Ben doesn't like tea. Does his sister like tea? — A: No, she doesn't. She doesn't like tea, __________.【也（不）】",
+    "question": "Go straight __________ for two blocks. The bank is on your left.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "together"
+     },
+     {
+      "letter": "B",
+      "text": "ahead"
+     },
+     {
+      "letter": "C",
+      "text": "again"
+     },
+     {
+      "letter": "D",
+      "text": "abroad"
+     }
+    ],
+    "answer": "B",
+    "vi": 13
+   },
+   {
+    "question": "I can't find my keys. I left them __________ in the house, but I don't know where.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "together"
+     },
+     {
+      "letter": "B",
+      "text": "again"
+     },
+     {
+      "letter": "C",
+      "text": "somewhere"
+     },
+     {
+      "letter": "D",
+      "text": "abroad"
+     }
+    ],
+    "answer": "C",
+    "vi": 14
+   },
+   {
+    "question": "My sister can play the piano. She can __________ play the guitar.",
     "options": [
      {
       "letter": "A",
@@ -913,57 +867,103 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "least"
-     },
-     {
-      "letter": "C",
-      "text": "really"
-     },
-     {
-      "letter": "D",
-      "text": "actually"
-     }
-    ],
-    "answer": "A",
-    "vi": 17
-   },
-   {
-    "question": "Q: Does your grandpa work? He is seventy. — A: Yes, he does. He __________ works on his farm.【仍然】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "no"
-     },
-     {
-      "letter": "B",
-      "text": "actually"
-     },
-     {
-      "letter": "C",
-      "text": "still"
-     },
-     {
-      "letter": "D",
-      "text": "quite"
-     }
-    ],
-    "answer": "C",
-    "vi": 18
-   },
-   {
-    "question": "Q: Does your little brother go to school? — A: No, he doesn't. He doesn't go to school __________. He is four.【還（沒）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "quite"
-     },
-     {
-      "letter": "B",
-      "text": "together"
+      "text": "yet"
      },
      {
       "letter": "C",
       "text": "too"
+     },
+     {
+      "letter": "D",
+      "text": "also"
+     }
+    ],
+    "answer": "D",
+    "vi": 15
+   },
+   {
+    "question": "I like ice cream, and my brother likes it, __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "too"
+     },
+     {
+      "letter": "B",
+      "text": "either"
+     },
+     {
+      "letter": "C",
+      "text": "also"
+     },
+     {
+      "letter": "D",
+      "text": "yet"
+     }
+    ],
+    "answer": "A",
+    "vi": 16
+   },
+   {
+    "question": "I don't like coffee, and my sister doesn't like it, __________.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "too"
+     },
+     {
+      "letter": "B",
+      "text": "also"
+     },
+     {
+      "letter": "C",
+      "text": "either"
+     },
+     {
+      "letter": "D",
+      "text": "still"
+     }
+    ],
+    "answer": "C",
+    "vi": 17
+   },
+   {
+    "question": "It is eleven o'clock at night, but Dad is __________ working in his office.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "yet"
+     },
+     {
+      "letter": "B",
+      "text": "still"
+     },
+     {
+      "letter": "C",
+      "text": "either"
+     },
+     {
+      "letter": "D",
+      "text": "too"
+     }
+    ],
+    "answer": "B",
+    "vi": 18
+   },
+   {
+    "question": "I haven't finished my homework __________. I need thirty more minutes.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "still"
+     },
+     {
+      "letter": "B",
+      "text": "too"
+     },
+     {
+      "letter": "C",
+      "text": "either"
      },
      {
       "letter": "D",
@@ -974,7 +974,7 @@ window.FLASHCARD_UNITS = {
     "vi": 19
    },
    {
-    "question": "Q: Do you want a big lunch? — A: No, I don't. I __________ want a sandwich.【只是；只】",
+    "question": "I don't want a big meal. I __________ want a sandwich and a glass of water.",
     "options": [
      {
       "letter": "A",
@@ -982,34 +982,34 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
+      "text": "either"
+     },
+     {
+      "letter": "C",
       "text": "just"
      },
      {
-      "letter": "C",
-      "text": "finally"
-     },
-     {
       "letter": "D",
-      "text": "abroad"
+      "text": "too"
      }
     ],
-    "answer": "B",
+    "answer": "C",
     "vi": 20
    },
    {
-    "question": "Q: How do the cookies taste? — A: They taste __________ good. Can I have more?【非常】",
+    "question": "This box is __________ heavy. I can't lift it by myself.",
     "options": [
      {
       "letter": "A",
-      "text": "maybe"
+      "text": "yet"
      },
      {
       "letter": "B",
-      "text": "ever"
+      "text": "either"
      },
      {
       "letter": "C",
-      "text": "together"
+      "text": "twice"
      },
      {
       "letter": "D",
@@ -1020,38 +1020,15 @@ window.FLASHCARD_UNITS = {
     "vi": 21
    },
    {
-    "question": "Q: Do you like the new puppy? — A: Yes, I do. It's __________ cute!【如此地；好】",
+    "question": "The movie was __________ boring that I fell asleep in the theater.",
     "options": [
      {
       "letter": "A",
+      "text": "very"
+     },
+     {
+      "letter": "B",
       "text": "so"
-     },
-     {
-      "letter": "B",
-      "text": "OK"
-     },
-     {
-      "letter": "C",
-      "text": "somewhere"
-     },
-     {
-      "letter": "D",
-      "text": "usually"
-     }
-    ],
-    "answer": "A",
-    "vi": 22
-   },
-   {
-    "question": "Q: Is the math test hard? — A: No, it isn't. It's __________ easy.【相當】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "still"
-     },
-     {
-      "letter": "B",
-      "text": "really"
      },
      {
       "letter": "C",
@@ -1059,22 +1036,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "finally"
+      "text": "really"
      }
     ],
-    "answer": "C",
-    "vi": 23
+    "answer": "B",
+    "vi": 22
    },
    {
-    "question": "Q: Do your parents like the new house? — A: Yes, they do. They __________ like the big garden.【真地】",
+    "question": "The test was __________ easy, but not very easy. I got eighty points.",
     "options": [
      {
       "letter": "A",
-      "text": "really"
+      "text": "quite"
      },
      {
       "letter": "B",
-      "text": "often"
+      "text": "yet"
+     },
+     {
+      "letter": "C",
+      "text": "either"
+     },
+     {
+      "letter": "D",
+      "text": "twice"
+     }
+    ],
+    "answer": "A",
+    "vi": 23
+   },
+   {
+    "question": "Do you __________ want to quit the team? Please think about it again.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "very"
+     },
+     {
+      "letter": "B",
+      "text": "yet"
+     },
+     {
+      "letter": "C",
+      "text": "really"
+     },
+     {
+      "letter": "D",
+      "text": "either"
+     }
+    ],
+    "answer": "C",
+    "vi": 24
+   },
+   {
+    "question": "It is __________ ten o'clock. It is 9:58 now, so we have to hurry.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "even"
+     },
+     {
+      "letter": "B",
+      "text": "almost"
      },
      {
       "letter": "C",
@@ -1082,60 +1105,37 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "D",
-      "text": "very"
-     }
-    ],
-    "answer": "A",
-    "vi": 24
-   },
-   {
-    "question": "Q: Does the movie start soon? — A: Yes, it does. It's __________ seven o'clock.【幾乎；差不多】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "never"
-     },
-     {
-      "letter": "B",
-      "text": "then"
-     },
-     {
-      "letter": "C",
-      "text": "almost"
-     },
-     {
-      "letter": "D",
       "text": "either"
-     }
-    ],
-    "answer": "C",
-    "vi": 25
-   },
-   {
-    "question": "Q: Does Tom run fast? — A: Yes, he does. He runs __________ faster than his big brother.【甚至；更】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "either"
-     },
-     {
-      "letter": "B",
-      "text": "even"
-     },
-     {
-      "letter": "C",
-      "text": "often"
-     },
-     {
-      "letter": "D",
-      "text": "badly"
      }
     ],
     "answer": "B",
+    "vi": 25
+   },
+   {
+    "question": "This question is so easy that __________ a little child can answer it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "even"
+     },
+     {
+      "letter": "B",
+      "text": "almost"
+     },
+     {
+      "letter": "C",
+      "text": "yet"
+     },
+     {
+      "letter": "D",
+      "text": "either"
+     }
+    ],
+    "answer": "A",
     "vi": 26
    },
    {
-    "question": "Q: How many pens do you have? — A: I __________ have one pen. Can I borrow one?【只有；僅】",
+    "question": "I __________ have ten dollars, so I can't buy the fifty-dollar lunch box.",
     "options": [
      {
       "letter": "A",
@@ -1143,11 +1143,11 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "also"
+      "text": "yet"
      },
      {
       "letter": "C",
-      "text": "actually"
+      "text": "too"
      },
      {
       "letter": "D",
@@ -1158,145 +1158,214 @@ window.FLASHCARD_UNITS = {
     "vi": 27
    },
    {
-    "question": "Q: Which bag do you want to buy? — A: I want the __________ expensive one. It's $100.【最不】",
+    "question": "This is the __________ expensive phone in the store. It is cheaper than all the others.",
     "options": [
      {
       "letter": "A",
-      "text": "also"
-     },
-     {
-      "letter": "B",
       "text": "least"
      },
      {
+      "letter": "B",
+      "text": "most"
+     },
+     {
       "letter": "C",
-      "text": "still"
+      "text": "very"
      },
      {
       "letter": "D",
       "text": "quite"
      }
     ],
-    "answer": "B",
+    "answer": "A",
     "vi": 28
    },
    {
-    "question": "Q: Does Amy know the answer? — A: __________ she does. Let's ask her.【也許】",
+    "question": "__________ it will rain tomorrow. I am not sure, so take an umbrella with you.",
     "options": [
      {
       "letter": "A",
-      "text": "OK"
+      "text": "Never"
      },
      {
       "letter": "B",
-      "text": "Ever"
+      "text": "Twice"
      },
      {
       "letter": "C",
-      "text": "Then"
+      "text": "Maybe"
      },
      {
       "letter": "D",
-      "text": "Maybe"
+      "text": "Together"
      }
     ],
-    "answer": "D",
+    "answer": "C",
     "vi": 29
    },
    {
-    "question": "Q: What do you want to do this weekend? — A: __________ we can go to the zoo.【或許】",
+    "question": "__________ you are right. I am not sure, but let me think about it again.",
     "options": [
      {
       "letter": "A",
-      "text": "Always"
+      "text": "Twice"
      },
      {
       "letter": "B",
-      "text": "Yes"
-     },
-     {
-      "letter": "C",
       "text": "Perhaps"
      },
      {
+      "letter": "C",
+      "text": "Together"
+     },
+     {
       "letter": "D",
-      "text": "Sometimes"
+      "text": "Abroad"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 30
    },
    {
-    "question": "Q: Do we need an umbrella today? — A: Yes, we do. It will __________ rain this afternoon.【很可能】",
+    "question": "It will __________ rain this afternoon. Look at those dark clouds in the sky.",
     "options": [
      {
       "letter": "A",
-      "text": "probably"
+      "text": "maybe"
      },
      {
       "letter": "B",
-      "text": "ahead"
+      "text": "twice"
      },
      {
       "letter": "C",
-      "text": "yet"
+      "text": "abroad"
      },
      {
       "letter": "D",
-      "text": "quite"
+      "text": "probably"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 31
    },
    {
-    "question": "Q: Does Mr. Smith come from America? — A: No, he doesn't. __________, he comes from Canada.【事實上】",
+    "question": "He looks very young, but he is __________ fifty years old.",
     "options": [
      {
       "letter": "A",
-      "text": "Too"
+      "text": "twice"
      },
      {
       "letter": "B",
-      "text": "Least"
+      "text": "actually"
      },
      {
       "letter": "C",
-      "text": "Actually"
+      "text": "together"
      },
      {
       "letter": "D",
-      "text": "Either"
+      "text": "abroad"
      }
     ],
-    "answer": "C",
+    "answer": "B",
     "vi": 32
    },
    {
-    "question": "Q: What do you do after school? — A: I do my homework first, and __________ I play games.【然後；那時】",
+    "question": "First, wash the rice. __________, put it in the pot with some water.",
     "options": [
      {
       "letter": "A",
-      "text": "then"
+      "text": "Never"
      },
      {
       "letter": "B",
-      "text": "quite"
+      "text": "Twice"
      },
      {
       "letter": "C",
-      "text": "ever"
+      "text": "Abroad"
      },
      {
       "letter": "D",
-      "text": "either"
+      "text": "Then"
      }
     ],
-    "answer": "A",
+    "answer": "D",
     "vi": 33
    },
    {
-    "question": "Q: How long does Tom wait for the bus? — A: He waits for thirty minutes, and the bus __________ comes.【終於；最後】",
+    "question": "After we waited for two hours, the bus __________ came.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "twice"
+     },
+     {
+      "letter": "B",
+      "text": "abroad"
+     },
+     {
+      "letter": "C",
+      "text": "finally"
+     },
+     {
+      "letter": "D",
+      "text": "together"
+     }
+    ],
+    "answer": "C",
+    "vi": 34
+   },
+   {
+    "question": "\"Do you like dogs?\" \"__________, I do. I have two at home.\"",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Yes"
+     },
+     {
+      "letter": "B",
+      "text": "No"
+     },
+     {
+      "letter": "C",
+      "text": "Not"
+     },
+     {
+      "letter": "D",
+      "text": "Never"
+     }
+    ],
+    "answer": "A",
+    "vi": 35
+   },
+   {
+    "question": "\"Are you a student?\" \"__________, I'm not. I'm a teacher.\"",
+    "options": [
+     {
+      "letter": "A",
+      "text": "Yes"
+     },
+     {
+      "letter": "B",
+      "text": "No"
+     },
+     {
+      "letter": "C",
+      "text": "Not"
+     },
+     {
+      "letter": "D",
+      "text": "OK"
+     }
+    ],
+    "answer": "B",
+    "vi": 36
+   },
+   {
+    "question": "I am __________ hungry now. I just had a big lunch.",
     "options": [
      {
       "letter": "A",
@@ -1304,113 +1373,44 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "either"
+      "text": "yes"
      },
      {
       "letter": "C",
-      "text": "quite"
+      "text": "twice"
      },
      {
       "letter": "D",
-      "text": "finally"
+      "text": "not"
      }
     ],
     "answer": "D",
-    "vi": 34
-   },
-   {
-    "question": "Q: Do you like apples? — A: __________, I do. They are sweet.【是；對】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Always"
-     },
-     {
-      "letter": "B",
-      "text": "Yes"
-     },
-     {
-      "letter": "C",
-      "text": "Perhaps"
-     },
-     {
-      "letter": "D",
-      "text": "Sometimes"
-     }
-    ],
-    "answer": "B",
-    "vi": 35
-   },
-   {
-    "question": "Q: Does Lisa have a pet? — A: __________, she doesn't. Her mom doesn't like animals.【不；沒有】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "Only"
-     },
-     {
-      "letter": "B",
-      "text": "Usually"
-     },
-     {
-      "letter": "C",
-      "text": "No"
-     },
-     {
-      "letter": "D",
-      "text": "OK"
-     }
-    ],
-    "answer": "C",
-    "vi": 36
-   },
-   {
-    "question": "Q: Does Ben like math? — A: No, he does __________. He likes English.【不（否定）】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "not"
-     },
-     {
-      "letter": "B",
-      "text": "too"
-     },
-     {
-      "letter": "C",
-      "text": "seldom"
-     },
-     {
-      "letter": "D",
-      "text": "quite"
-     }
-    ],
-    "answer": "A",
     "vi": 37
    },
    {
-    "question": "Q: Can I sit here? — A: __________. Sit down, please.【好；可以】",
+    "question": "\"Can I borrow your pen?\" \"__________. Here you are.\"",
     "options": [
      {
       "letter": "A",
-      "text": "Not"
+      "text": "OK"
      },
      {
       "letter": "B",
-      "text": "Together"
+      "text": "No"
      },
      {
       "letter": "C",
-      "text": "Yet"
+      "text": "Not"
      },
      {
       "letter": "D",
-      "text": "OK"
+      "text": "Never"
      }
     ],
-    "answer": "D",
+    "answer": "A",
     "vi": 38
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"ok":["all right; fine","沒問題的"],"only":["with no other one of the same kind","唯一的"],"always":["every time; all the time","總是"],"usually":["most of the time","通常"],"often":["many times","時常"],"sometimes":["on some days or times, but not always","有時候"],"seldom":["not often","很少"],"never":["not at any time","從不"],"ever":["at any time","曾經；有時"],"twice":["two times","兩次"],"badly":["not well","差勁地"],"together":["with each other","一起"],"again":["one more time","再一次"],"abroad":["in or to another country","在國外"],"away":["not here; in another place","離開；不在"],"ahead":["in front; forward","向前；在前方"],"somewhere":["in a place, but we do not know or say where","某處"],"also":["too; as well","也"],"too":["also; as well","也"],"either":["also (used with \"not\")","也（不）"],"still":["continuing until now","仍然"],"yet":["up to now (used with \"not\")","還（沒）"],"just":["only","只是；只"],"very":["a lot; to a great degree","非常"],"so":["very; to such a degree","如此地；好"],"quite":["more than a little, but not very","相當"],"really":["very; truly","真地"],"almost":["nearly; not quite","幾乎；差不多"],"even":["used to make \"more\" or \"faster\" stronger; used to show surprise","甚至；更"],"least":["less than all the others","最不"],"maybe":["perhaps; it could be","也許"],"perhaps":["maybe; it could be","或許"],"probably":["very likely to be true or to happen","很可能"],"actually":["in fact; really","事實上"],"then":["after that; next","然後；那時"],"finally":["after a long time; at last","終於；最後"],"yes":["a word you say to agree or to answer \"that is right\"","是；對"],"no":["a word you say when you do not agree or do not want something","不；沒有"],"not":["a word that gives the opposite meaning","不（否定）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"seldom":["not often","很少"],"never":["not at any time","從不"],"always":["every time; all the time","總是"],"twice":["two times","兩次"],"abroad":["in or to another country","在國外"],"usually":["most of the time","通常"],"often":["many times","時常"],"sometimes":["on some days or times, but not always","有時候"],"ever":["at any time","曾經；有時"],"badly":["not well","差勁地"],"together":["with each other","一起"],"again":["one more time","再一次"],"ahead":["in front; forward","向前；在前方"],"away":["not here; in another place","離開；不在"],"somewhere":["in a place, but we do not know or say where","某處"],"either":["also (used with \"not\")","也（不）"],"yet":["up to now (used with \"not\")","還（沒）"],"too":["also; as well","也"],"also":["too; as well","也"],"still":["continuing until now","仍然"],"just":["only","只是；只"],"very":["a lot; to a great degree","非常"],"so":["very; to such a degree","如此地；好"],"quite":["more than a little, but not very","相當"],"really":["very; truly","真地"],"even":["used to make \"more\" or \"faster\" stronger; used to show surprise","甚至；更"],"almost":["nearly; not quite","幾乎；差不多"],"only":["with no other one of the same kind","唯一的"],"least":["less than all the others","最不"],"most":["","最"],"maybe":["perhaps; it could be","也許"],"perhaps":["maybe; it could be","或許"],"probably":["very likely to be true or to happen","很可能"],"actually":["in fact; really","事實上"],"then":["after that; next","然後；那時"],"finally":["after a long time; at last","終於；最後"],"yes":["a word you say to agree or to answer \"that is right\"","是；對"],"no":["a word you say when you do not agree or do not want something","不；沒有"],"not":["a word that gives the opposite meaning","不（否定）"],"ok":["all right; fine","沒問題的"]});

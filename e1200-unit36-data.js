@@ -450,47 +450,47 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: Where does the sun come up every morning? — A: It ______ in the east.【升起；上升】",
+    "q": "The sun ______ in the east every morning and goes down in the west.",
     "options": [
+      "grows",
       "rises",
-      "parks",
-      "makes",
-      "misses"
+      "plants",
+      "parks"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "太陽每天早上從哪裡出來？ — 它從東方升起。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: Do your grandparents have a farm? — A: Yes, they do. They ______ rice and vegetables.【種植；生長】",
+    "q": "Farmers in Tainan ______ rice and many kinds of fruit.",
     "options": [
-      "touch",
+      "rise",
+      "walk",
       "grow",
-      "smoke",
-      "list"
+      "park"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你的祖父母有農場嗎？ — 有，他們種稻米和蔬菜。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: What do the students do on Arbor Day? — A: They ______ trees.【種植；栽種】",
+    "q": "We will ______ some trees in the school garden on Tree Day.",
     "options": [
-      "began",
-      "smoke",
       "plant",
-      "took"
+      "rise",
+      "walk",
+      "call"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "學生們在植樹節做什麼？ — 他們種樹。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: What does your aunt do on weekends? — A: She ______ cakes and cookies.【製作；做】",
+    "q": "My mom ______ delicious cakes. She bakes one every Sunday.",
     "options": [
-      "leaves",
-      "rises",
-      "parks",
+      "uses",
+      "helps",
+      "walks",
       "makes"
     ],
     "answer": 3,
@@ -498,35 +498,35 @@ const MCQS = [
     "vocabIndex": 3
   },
   {
-    "q": "Q: What do you use to cut paper? — A: I ______ scissors.【使用】",
+    "q": "You can ______ my pen if you don't have one.",
     "options": [
+      "rise",
+      "walk",
       "use",
-      "rest",
-      "grow",
-      "meet"
+      "grow"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你用什麼剪紙？ — 我用剪刀。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: How does Ben help his mom at home? — A: He ______ her wash the dishes.【幫忙】",
+    "q": "Ben often ______ his mother with the housework. He washes the dishes every night.",
     "options": [
-      "calls",
+      "uses",
       "helps",
-      "rises",
-      "leaves"
+      "grows",
+      "rises"
     ],
     "answer": 1,
     "cn": "班在家怎麼幫媽媽？ — 他幫她洗碗。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: How do you and your sister go to school? — A: We ______ to school. It's near.【走路】",
+    "q": "I ______ to school every day. It takes me fifteen minutes on foot.",
     "options": [
-      "shout",
-      "rest",
-      "use",
+      "rise",
+      "grow",
+      "plant",
       "walk"
     ],
     "answer": 3,
@@ -534,119 +534,119 @@ const MCQS = [
     "vocabIndex": 6
   },
   {
-    "q": "Q: When does your dad leave for work? — A: He ______ home at seven.【離開；出發】",
+    "q": "The train ______ at eight o'clock. If you are late, you will miss it.",
     "options": [
-      "belongs",
-      "misses",
       "leaves",
-      "makes"
+      "parks",
+      "grows",
+      "plants"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你爸爸什麼時候去上班？ — 他七點離開家。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: Where does your uncle put his car at night? — A: He ______ it in front of his house.【停（車）】",
+    "q": "My father ______ his car in front of our house every night.",
     "options": [
-      "helps",
-      "makes",
       "leaves",
-      "parks"
+      "parks",
+      "opens",
+      "calls"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "你叔叔晚上把車放在哪裡？ — 他把車停在他家前面。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: What time do the stores on this street open? — A: They ______ at ten in the morning.【打開；開門（營業）】",
+    "q": "The store will ______ at ten in the morning. You can't go in before that.",
     "options": [
-      "walk",
-      "open",
-      "grow",
-      "sign"
+      "meet",
+      "call",
+      "miss",
+      "open"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "這條街的商店幾點開門？ — 它們早上十點開門。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: Where do you and your friends meet after school? — A: We ______ at the park.【和…見面；遇見】",
+    "q": "Let's ______ at the station at nine tomorrow. I will wait for you there.",
     "options": [
-      "type",
-      "hurry",
+      "open",
+      "belong",
       "meet",
-      "list"
+      "allow"
     ],
     "answer": 2,
     "cn": "你和朋友放學後在哪裡碰面？ — 我們在公園碰面。",
     "vocabIndex": 10
   },
   {
-    "q": "Q: Does Lisa talk to her grandma every day? — A: Yes, she does. She ______ her every evening.【打電話（給）】",
+    "q": "Grandma ______ us on the phone every Sunday night. We talk for an hour.",
     "options": [
       "calls",
-      "parks",
-      "makes",
-      "helps"
+      "opens",
+      "misses",
+      "parks"
     ],
     "answer": 0,
     "cn": "麗莎每天都和奶奶說話嗎？ — 是的，她每天晚上打電話給她。",
     "vocabIndex": 11
   },
   {
-    "q": "Q: Does Grandpa often talk about his hometown? — A: Yes, he does. He ______ it very much.【想念；錯過】",
+    "q": "Lisa is studying in America now. She ______ her family in Taiwan very much.",
     "options": [
       "calls",
-      "misses",
-      "rises",
-      "belongs"
+      "allows",
+      "opens",
+      "misses"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "爺爺常常談起他的家鄉嗎？ — 是的，他非常想念那裡。",
     "vocabIndex": 12
   },
   {
-    "q": "Q: Does this pen belong to you? — A: No, it doesn't. It ______ to Amy.【屬於】",
+    "q": "This bike ______ to Tom. His name is on it.",
     "options": [
-      "leaves",
-      "misses",
-      "helps",
-      "belongs"
+      "agrees",
+      "belongs",
+      "allows",
+      "calls"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "這支筆是你的嗎？ — 不是，它是艾美的。",
     "vocabIndex": 13
   },
   {
-    "q": "Q: Tom says the movie is great. Do you ______ with him? — A: Yes, I do. I like it, too.【同意】",
+    "q": "I think the movie is great, but my sister doesn't ______ with me. She says it is boring.",
     "options": [
+      "belong",
+      "allow",
       "agree",
-      "meet",
-      "paste",
-      "put"
+      "open"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "湯姆說這部電影很棒，你同意他嗎？ — 同意，我也喜歡。",
     "vocabIndex": 14
   },
   {
-    "q": "Q: Do your parents ______ you to play games at night? — A: No, they don't. I have to go to bed at ten.【允許】",
+    "q": "My parents don't ______ me to play computer games on school nights.",
     "options": [
-      "rest",
-      "list",
       "allow",
-      "agree"
+      "agree",
+      "belong",
+      "miss"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "你爸媽允許你晚上玩遊戲嗎？ — 不，他們不允許，我十點就得睡覺。",
     "vocabIndex": 15
   },
   {
-    "q": "Q: What is your dog doing in the yard? — A: It is ______ after a ball.【跑】",
+    "q": "The children are ______ around the playground. They are very fast.",
     "options": [
-      "holding",
-      "hitting",
-      "standing",
+      "hanging",
+      "mopping",
+      "knocking",
       "running"
     ],
     "answer": 3,
@@ -654,59 +654,59 @@ const MCQS = [
     "vocabIndex": 16
   },
   {
-    "q": "Q: What are the kids doing in the bedroom? — A: They are ______ on the bed.【跳】",
+    "q": "The kids are ______ on the bed. They go up and down again and again.",
     "options": [
-      "kicking",
+      "mopping",
+      "knocking",
       "jumping",
-      "standing",
-      "laughing"
+      "hanging"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "孩子們在臥室做什麼？ — 他們正在床上跳。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: What are the students doing at the bus stop? — A: They are ______ in line.【站；站立】",
+    "q": "There are no seats on the bus, so many people are ______.",
     "options": [
-      "shaking",
-      "holding",
       "standing",
-      "hitting"
+      "mopping",
+      "kissing",
+      "hanging"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "學生們在公車站做什麼？ — 他們正在排隊站著。",
     "vocabIndex": 18
   },
   {
-    "q": "Q: What is Tom doing on the playground? — A: He is ______ a ball.【踢】",
+    "q": "The boys are ______ a ball on the soccer field.",
     "options": [
+      "mopping",
       "kicking",
-      "hitting",
-      "running",
-      "mopping"
+      "hanging",
+      "waving"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "湯姆在操場上做什麼？ — 他正在踢球。",
     "vocabIndex": 19
   },
   {
-    "q": "Q: What is the baseball player doing? — A: He is ______ the ball with a bat.【打；擊】",
+    "q": "The player is ______ the ball with a bat. The ball flies far away.",
     "options": [
-      "pushing",
-      "holding",
       "hitting",
-      "running"
+      "mopping",
+      "kissing",
+      "hanging"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "那位棒球員在做什麼？ — 他正在用球棒擊球。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: What are the two teams doing? — A: They are ______ a long rope.【拉】",
+    "q": "The horse is ______ a heavy cart behind it.",
     "options": [
-      "kicking",
-      "running",
-      "pushing",
+      "mopping",
+      "knocking",
+      "laughing",
       "pulling"
     ],
     "answer": 3,
@@ -714,107 +714,107 @@ const MCQS = [
     "vocabIndex": 21
   },
   {
-    "q": "Q: What is Dad doing? — A: He is ______ his bike up the hill.【推】",
+    "q": "The man is ______ his broken car from behind. It moves slowly down the road.",
     "options": [
+      "hanging",
+      "laughing",
       "pushing",
-      "mopping",
-      "waving",
-      "hitting"
+      "waving"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "爸爸在做什麼？ — 他正把腳踏車推上山坡。",
     "vocabIndex": 22
   },
   {
-    "q": "Q: What is Aunt May doing? — A: She is ______ her baby.【抱著；拿著】",
+    "q": "The mother is ______ her baby in her arms.",
     "options": [
-      "pulling",
+      "mopping",
       "holding",
-      "kissing",
-      "knocking"
+      "knocking",
+      "kicking"
     ],
     "answer": 1,
     "cn": "梅阿姨在做什麼？ — 她正抱著她的寶寶。",
     "vocabIndex": 23
   },
   {
-    "q": "Q: What is Mom doing on the balcony? — A: She is ______ the clothes.【掛；懸掛】",
+    "q": "Dad is ______ a picture on the wall. He needs a nail and a hammer.",
     "options": [
-      "waving",
-      "pushing",
       "hanging",
-      "standing"
+      "mopping",
+      "laughing",
+      "waving"
     ],
-    "answer": 2,
+    "answer": 0,
     "cn": "媽媽在陽台做什麼？ — 她正在晾衣服。",
     "vocabIndex": 24
   },
   {
-    "q": "Q: What is Grandma doing in the kitchen? — A: She is ______ the floor.【拖（地）】",
+    "q": "Mom is ______ the kitchen floor. Don't walk on it now, because it is wet.",
     "options": [
       "hanging",
-      "hitting",
-      "laughing",
-      "mopping"
+      "knocking",
+      "mopping",
+      "kissing"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "奶奶在廚房做什麼？ — 她正在拖地。",
     "vocabIndex": 25
   },
   {
-    "q": "Q: What is that man doing? — A: He is ______ on the door.【敲】",
+    "q": "Someone is ______ on the door. Go and see who it is.",
     "options": [
-      "running",
-      "knocking",
-      "kicking",
-      "standing"
+      "mopping",
+      "hanging",
+      "laughing",
+      "knocking"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "那個男人在做什麼？ — 他正在敲門。",
     "vocabIndex": 26
   },
   {
-    "q": "Q: What are the two players doing after the game? — A: They are ______ hands.【搖動；握（手）】",
+    "q": "The two men are ______ hands. They are happy to meet each other.",
     "options": [
+      "mopping",
       "shaking",
-      "jumping",
-      "waving",
-      "knocking"
+      "hanging",
+      "kicking"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "比賽後兩位選手在做什麼？ — 他們正在握手。",
     "vocabIndex": 27
   },
   {
-    "q": "Q: What is Lisa doing at the school gate? — A: She is ______ goodbye to her friends.【揮手】",
+    "q": "Lisa is ______ good-bye to her friends from the bus window.",
     "options": [
-      "laughing",
       "waving",
-      "standing",
-      "pushing"
+      "mopping",
+      "hanging",
+      "kicking"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "麗莎在校門口做什麼？ — 她正在向朋友揮手道別。",
     "vocabIndex": 28
   },
   {
-    "q": "Q: What is the mother doing? — A: She is ______ her baby good night.【親吻】",
+    "q": "The mother is ______ her baby on the face.",
     "options": [
-      "running",
-      "pushing",
+      "mopping",
       "kissing",
-      "standing"
+      "hanging",
+      "knocking"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "那位媽媽在做什麼？ — 她正在親吻寶寶道晚安。",
     "vocabIndex": 29
   },
   {
-    "q": "Q: Why are the students so noisy? — A: They are ______ at a funny joke.【笑】",
+    "q": "The movie is so funny that everyone in the theater is ______.",
     "options": [
-      "waving",
-      "kicking",
-      "hitting",
+      "mopping",
+      "hanging",
+      "knocking",
       "laughing"
     ],
     "answer": 3,
@@ -822,59 +822,59 @@ const MCQS = [
     "vocabIndex": 30
   },
   {
-    "q": "Q: What did you do last Sunday? — A: I ______ my dog to the park.【帶；拿】",
+    "q": "I ______ my little sister to the park yesterday. We played there for two hours.",
     "options": [
-      "took",
       "put",
-      "paste",
-      "plant"
+      "threw",
+      "took",
+      "rolled"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你上星期日做了什麼？ — 我帶我的狗去公園。",
     "vocabIndex": 31
   },
   {
-    "q": "Q: Where did you put my book? — A: I ______ it on your desk.【放】",
+    "q": "I ______ my keys on the table last night, but they are not there now.",
     "options": [
-      "hand",
-      "meet",
+      "took",
       "put",
-      "threw"
+      "told",
+      "began"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你把我的書放在哪裡？ — 我把它放在你的書桌上。",
     "vocabIndex": 32
   },
   {
-    "q": "Q: What did Tom do with the ball? — A: He ______ it to his dog.【丟；扔】",
+    "q": "The boy ______ a stone into the river. It made a big sound.",
     "options": [
+      "told",
+      "began",
       "threw",
-      "allow",
-      "touch",
-      "walk"
+      "packed"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "湯姆把球怎麼了？ — 他把球丟給他的狗。",
     "vocabIndex": 33
   },
   {
-    "q": "Q: What happened to your ball? — A: It ______ down the hill.【滾動】",
+    "q": "The ball ______ down the hill and into the river.",
     "options": [
-      "appeared",
       "rolled",
-      "moved",
+      "told",
+      "packed",
       "hunted"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "你的球怎麼了？ — 它滾下山坡了。",
     "vocabIndex": 34
   },
   {
-    "q": "Q: What did you do on the farm yesterday? — A: We ______ strawberries.【摘；撿】",
+    "q": "We ______ apples from the trees on the farm last weekend.",
     "options": [
-      "attacked",
-      "hunted",
-      "killed",
+      "rolled",
+      "told",
+      "began",
       "picked"
     ],
     "answer": 3,
@@ -882,215 +882,215 @@ const MCQS = [
     "vocabIndex": 35
   },
   {
-    "q": "Q: Did you get ready for the trip last night? — A: Yes, I did. I ______ my bag.【打包；收拾（行李）】",
+    "q": "I ______ my bag for the trip last night. I put in clothes, shoes, and a camera.",
     "options": [
-      "moved",
+      "rolled",
       "packed",
-      "killed",
-      "rolled"
+      "hunted",
+      "appeared"
     ],
     "answer": 1,
     "cn": "你昨晚有為旅行做好準備嗎？ — 有，我打包好我的包包了。",
     "vocabIndex": 36
   },
   {
-    "q": "Q: Did Amy's family move last year? — A: Yes, they did. They ______ to Taipei.【搬家；移動】",
+    "q": "My family ______ from Taipei to Tainan last year. We live in a new house now.",
     "options": [
-      "rolled",
-      "packed",
+      "told",
+      "picked",
       "moved",
-      "picked"
+      "threw"
     ],
     "answer": 2,
     "cn": "艾美家去年搬家了嗎？ — 是的，他們搬到台北了。",
     "vocabIndex": 37
   },
   {
-    "q": "Q: What did Grandma do last night? — A: She ______ us a story.【告訴；講】",
+    "q": "Grandma ______ us a story about a king before bed last night.",
     "options": [
-      "told",
-      "become",
-      "open",
-      "began"
+      "took",
+      "put",
+      "moved",
+      "told"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "奶奶昨晚做了什麼？ — 她講了一個故事給我們聽。",
     "vocabIndex": 38
   },
   {
-    "q": "Q: When did the movie begin last night? — A: It ______ at seven.【開始】",
+    "q": "The class ______ at eight o'clock and ended at nine.",
     "options": [
-      "put",
-      "sign",
-      "agree",
-      "began"
+      "began",
+      "told",
+      "picked",
+      "threw"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "昨晚的電影幾點開始？ — 它七點開始。",
     "vocabIndex": 39
   },
   {
-    "q": "Q: Did you see a rainbow yesterday? — A: Yes, I did. It ______ after the rain.【出現】",
+    "q": "A rainbow ______ in the sky after the rain. Then it slowly went away.",
     "options": [
-      "moved",
       "packed",
       "appeared",
-      "killed"
+      "hunted",
+      "told"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "你昨天有看到彩虹嗎？ — 有，它在雨後出現。",
     "vocabIndex": 40
   },
   {
-    "q": "Q: What did people do for food long ago? — A: They ______ animals.【打獵】",
+    "q": "Long ago, people ______ wild animals for food. They used sticks and stones.",
     "options": [
+      "appeared",
       "rolled",
-      "hunted",
-      "packed",
-      "picked"
+      "told",
+      "hunted"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "很久以前人們怎麼取得食物？ — 他們打獵。",
     "vocabIndex": 41
   },
   {
-    "q": "Q: What happened to your cat yesterday? — A: A big dog ______ it, but it's OK now.【攻擊】",
+    "q": "The dog ______ the mailman and bit his leg yesterday.",
     "options": [
-      "attacked",
-      "rolled",
       "appeared",
-      "picked"
+      "packed",
+      "attacked",
+      "rolled"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "你的貓昨天怎麼了？ — 一隻大狗攻擊牠，但牠現在沒事了。",
     "vocabIndex": 42
   },
   {
-    "q": "Q: What did Dad do in the kitchen last night? — A: He ______ a big bug.【殺死】",
+    "q": "The cat caught a mouse and ______ it.",
     "options": [
+      "killed",
+      "appeared",
       "packed",
-      "hunted",
-      "attacked",
-      "killed"
+      "told"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "爸爸昨晚在廚房做了什麼？ — 他打死了一隻大蟲。",
     "vocabIndex": 43
   },
   {
-    "q": "Q: Will your brother be a doctor? — A: Yes, he will. He will ______ a doctor next year.【成為；變成】",
+    "q": "I want to ______ a doctor when I grow up. I hope to help sick people.",
     "options": [
+      "rest",
       "become",
-      "use",
       "list",
-      "agree"
+      "sign"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你哥哥會成為醫生嗎？ — 會，他明年會成為醫生。",
     "vocabIndex": 44
   },
   {
-    "q": "Q: What will you do after the long walk? — A: I will ______ at home.【休息】",
+    "q": "You look tired. Sit down and ______ for a while.",
     "options": [
-      "threw",
-      "rest",
-      "plant",
-      "hand"
+      "sign",
+      "paste",
+      "type",
+      "rest"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "走了很長的路之後你會做什麼？ — 我會在家休息。",
     "vocabIndex": 45
   },
   {
-    "q": "Q: What will you do before you go shopping? — A: I will ______ the things I need.【列出；列清單】",
+    "q": "Please ______ the things you need to buy on a piece of paper.",
     "options": [
-      "type",
-      "meet",
+      "rest",
+      "hurry",
       "list",
-      "touch"
+      "smoke"
     ],
     "answer": 2,
     "cn": "你去買東西之前會做什麼？ — 我會把需要的東西列出來。",
     "vocabIndex": 46
   },
   {
-    "q": "Q: Will your mom look at your test? — A: Yes, she will. She will ______ her name on it.【簽（名）】",
+    "q": "Please ______ your name at the bottom of the paper with a pen.",
     "options": [
-      "allow",
-      "open",
-      "shout",
-      "sign"
+      "sign",
+      "rest",
+      "hurry",
+      "shout"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "你媽媽會看你的考卷嗎？ — 會，她會在上面簽名。",
     "vocabIndex": 47
   },
   {
-    "q": "Q: What will you do with these photos? — A: I will ______ them in my notebook.【黏貼】",
+    "q": "Cut out the picture and ______ it in your notebook with glue.",
     "options": [
+      "rest",
       "paste",
-      "began",
-      "sign",
-      "rest"
+      "hurry",
+      "shout"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你會怎麼處理這些照片？ — 我會把它們貼在筆記本裡。",
     "vocabIndex": 48
   },
   {
-    "q": "Q: Can you ______ me the salt, please? — A: Sure. Here you are.【傳遞；拿給】",
+    "q": "Could you ______ me the salt, please? I can't reach it.",
     "options": [
-      "took",
-      "put",
-      "hand",
-      "told"
+      "rest",
+      "type",
+      "smoke",
+      "hand"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "你可以把鹽遞給我嗎？ — 當然，給你。",
     "vocabIndex": 49
   },
   {
-    "q": "Q: Can you ______ fast on the computer? — A: Yes, I can. I use it every day.【打字】",
+    "q": "I can ______ fifty words a minute on the computer.",
     "options": [
       "rest",
+      "smoke",
       "type",
-      "allow",
-      "shout"
+      "paste"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "你在電腦上打字很快嗎？ — 是的，我每天都用電腦。",
     "vocabIndex": 50
   },
   {
-    "q": "Q: Can I finish my breakfast first? — A: No. ______ up! The bus is coming.【趕快；匆忙】",
+    "q": "______ up, or we will be late for school! The bus is leaving in two minutes.",
     "options": [
-      "Meet",
-      "Hand",
-      "Grow",
-      "Hurry"
+      "hurry",
+      "Rest",
+      "Sign",
+      "Paste"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "我可以先吃完早餐嗎？ — 不行，快點！公車要來了。",
     "vocabIndex": 51
   },
   {
-    "q": "Q: Can I hold the pot? — A: No! Don't ______ it. It's very hot.【碰；觸摸】",
+    "q": "Don't ______ the pot. It is very hot, and you will burn your fingers.",
     "options": [
+      "sign",
       "touch",
-      "meet",
-      "shout",
-      "agree"
+      "type",
+      "shout"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "我可以拿那個鍋子嗎？ — 不行！別碰它，它很燙。",
     "vocabIndex": 52
   },
   {
-    "q": "Q: Can we play here? — A: Yes, but don't ______. The baby is sleeping.【大叫；喊叫】",
+    "q": "You don't have to ______. I am right here, and I can hear you well.",
     "options": [
-      "hurry",
-      "threw",
-      "list",
+      "rest",
+      "paste",
+      "sign",
       "shout"
     ],
     "answer": 3,
@@ -1098,12 +1098,12 @@ const MCQS = [
     "vocabIndex": 53
   },
   {
-    "q": "Q: Can my uncle smoke in the restaurant? — A: No. Please don't ______ here.【抽菸】",
+    "q": "You can't ______ in this restaurant. It is bad for your health, too.",
     "options": [
-      "list",
-      "agree",
+      "paste",
+      "type",
       "smoke",
-      "put"
+      "sign"
     ],
     "answer": 2,
     "cn": "我叔叔可以在餐廳裡抽菸嗎？ — 不行，請不要在這裡抽菸。",
@@ -1112,25 +1112,70 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "hand": {
+  "grows": {
+    "pos": "v.",
+    "en_def": "to get bigger or older",
+    "cn_def": "成長；長大"
+  },
+  "rises": {
+    "pos": "v.",
+    "en_def": "to go up",
+    "cn_def": "升起；上升"
+  },
+  "plants": {
     "pos": "n.",
-    "en_def": "the part at the end of your arm that you hold things with",
-    "cn_def": "手"
+    "en_def": "a living thing with leaves and roots, like a tree or a flower",
+    "cn_def": "植物"
+  },
+  "parks": {
+    "pos": "v.",
+    "en_def": "to stop a car and leave it somewhere",
+    "cn_def": "停（車）"
+  },
+  "rise": {
+    "pos": "v.",
+    "en_def": "to go up",
+    "cn_def": "升起；上升"
+  },
+  "walk": {
+    "pos": "v.",
+    "en_def": "to move on your feet",
+    "cn_def": "走路"
   },
   "grow": {
     "pos": "v.",
     "en_def": "to get bigger or older",
     "cn_def": "成長；長大"
   },
+  "park": {
+    "pos": "n.",
+    "en_def": "a place with grass and trees where people walk and play",
+    "cn_def": "公園"
+  },
   "plant": {
     "pos": "n.",
     "en_def": "a living thing with leaves and roots, like a tree or a flower",
     "cn_def": "植物"
   },
-  "rises": {
+  "call": {
     "pos": "v.",
-    "en_def": "to go up",
-    "cn_def": "升起；上升"
+    "en_def": "to talk to someone on the phone",
+    "cn_def": "打電話（給）"
+  },
+  "uses": {
+    "pos": "v.",
+    "en_def": "to do something with a tool or a thing",
+    "cn_def": "使用"
+  },
+  "helps": {
+    "pos": "v.",
+    "en_def": "to do something for someone to make their work easier",
+    "cn_def": "幫忙"
+  },
+  "walks": {
+    "pos": "v.",
+    "en_def": "to move on your feet",
+    "cn_def": "走路"
   },
   "makes": {
     "pos": "v.",
@@ -1142,45 +1187,60 @@ const LOOKUP = {
     "en_def": "to do something with a tool or a thing",
     "cn_def": "使用"
   },
-  "helps": {
-    "pos": "v.",
-    "en_def": "to do something for someone to make their work easier",
-    "cn_def": "幫忙"
-  },
-  "walk": {
-    "pos": "v.",
-    "en_def": "to move on your feet",
-    "cn_def": "走路"
-  },
   "leaves": {
     "pos": "v.",
     "en_def": "to go away from a place",
     "cn_def": "離開；出發"
   },
-  "parks": {
-    "pos": "v.",
-    "en_def": "to stop a car and leave it somewhere",
-    "cn_def": "停（車）"
-  },
-  "open": {
+  "opens": {
     "pos": "v.",
     "en_def": "to move a door or lid so that things can go in or out; to start business for the day",
     "cn_def": "打開；開門（營業）"
-  },
-  "meet": {
-    "pos": "v.",
-    "en_def": "to see and talk to someone for the first time or at a planned time",
-    "cn_def": "和…見面；遇見"
   },
   "calls": {
     "pos": "v.",
     "en_def": "to talk to someone on the phone",
     "cn_def": "打電話（給）"
   },
+  "meet": {
+    "pos": "v.",
+    "en_def": "to see and talk to someone for the first time or at a planned time",
+    "cn_def": "和…見面；遇見"
+  },
+  "miss": {
+    "pos": "n.",
+    "en_def": "a word used before the family name of a girl or a woman who is not married",
+    "cn_def": "小姐"
+  },
+  "open": {
+    "pos": "v.",
+    "en_def": "to move a door or lid so that things can go in or out; to start business for the day",
+    "cn_def": "打開；開門（營業）"
+  },
+  "belong": {
+    "pos": "v.",
+    "en_def": "to be owned by someone",
+    "cn_def": "屬於"
+  },
+  "allow": {
+    "pos": "v.",
+    "en_def": "to let someone do something",
+    "cn_def": "允許"
+  },
   "misses": {
     "pos": "v.",
     "en_def": "to feel sad because someone or something is not with you",
     "cn_def": "想念；錯過"
+  },
+  "allows": {
+    "pos": "v.",
+    "en_def": "to let someone do something",
+    "cn_def": "允許"
+  },
+  "agrees": {
+    "pos": "v.",
+    "en_def": "to have the same idea as someone",
+    "cn_def": "同意"
   },
   "belongs": {
     "pos": "v.",
@@ -1191,51 +1251,6 @@ const LOOKUP = {
     "pos": "v.",
     "en_def": "to have the same idea as someone",
     "cn_def": "同意"
-  },
-  "allow": {
-    "pos": "v.",
-    "en_def": "to let someone do something",
-    "cn_def": "允許"
-  },
-  "running": {
-    "pos": "v.",
-    "en_def": "to move very fast on your legs",
-    "cn_def": "跑"
-  },
-  "jumping": {
-    "pos": "v.",
-    "en_def": "to push your body up into the air with your legs",
-    "cn_def": "跳"
-  },
-  "standing": {
-    "pos": "v.",
-    "en_def": "to be on your feet, not sitting",
-    "cn_def": "站；站立"
-  },
-  "kicking": {
-    "pos": "v.",
-    "en_def": "to hit something with your foot",
-    "cn_def": "踢"
-  },
-  "hitting": {
-    "pos": "v.",
-    "en_def": "to strike something hard with your hand or a stick",
-    "cn_def": "打；擊"
-  },
-  "pulling": {
-    "pos": "v.",
-    "en_def": "to move something toward you",
-    "cn_def": "拉"
-  },
-  "pushing": {
-    "pos": "v.",
-    "en_def": "to move something away from you with your hands",
-    "cn_def": "推"
-  },
-  "holding": {
-    "pos": "v.",
-    "en_def": "to have something in your hands or arms",
-    "cn_def": "抱著；拿著"
   },
   "hanging": {
     "pos": "v.",
@@ -1252,30 +1267,65 @@ const LOOKUP = {
     "en_def": "to hit a door with your hand to make a sound",
     "cn_def": "敲"
   },
-  "shaking": {
+  "running": {
     "pos": "v.",
-    "en_def": "to move something quickly up and down or from side to side",
-    "cn_def": "搖動；握（手）"
+    "en_def": "to move very fast on your legs",
+    "cn_def": "跑"
   },
-  "waving": {
+  "jumping": {
     "pos": "v.",
-    "en_def": "to move your hand in the air to say hello or good-bye",
-    "cn_def": "揮手"
+    "en_def": "to push your body up into the air with your legs",
+    "cn_def": "跳"
+  },
+  "standing": {
+    "pos": "v.",
+    "en_def": "to be on your feet, not sitting",
+    "cn_def": "站；站立"
   },
   "kissing": {
     "pos": "v.",
     "en_def": "to touch someone with your lips to show love",
     "cn_def": "親吻"
   },
+  "kicking": {
+    "pos": "v.",
+    "en_def": "to hit something with your foot",
+    "cn_def": "踢"
+  },
+  "waving": {
+    "pos": "v.",
+    "en_def": "to move your hand in the air to say hello or good-bye",
+    "cn_def": "揮手"
+  },
+  "hitting": {
+    "pos": "v.",
+    "en_def": "to strike something hard with your hand or a stick",
+    "cn_def": "打；擊"
+  },
   "laughing": {
     "pos": "v.",
     "en_def": "to make a sound with your voice because something is funny",
     "cn_def": "笑"
   },
-  "took": {
+  "pulling": {
     "pos": "v.",
-    "en_def": "to carry something or go with someone to a place",
-    "cn_def": "帶；拿"
+    "en_def": "to move something toward you",
+    "cn_def": "拉"
+  },
+  "pushing": {
+    "pos": "v.",
+    "en_def": "to move something away from you with your hands",
+    "cn_def": "推"
+  },
+  "holding": {
+    "pos": "v.",
+    "en_def": "to have something in your hands or arms",
+    "cn_def": "抱著；拿著"
+  },
+  "shaking": {
+    "pos": "v.",
+    "en_def": "to move something quickly up and down or from side to side",
+    "cn_def": "搖動；握（手）"
   },
   "put": {
     "pos": "v.",
@@ -1287,25 +1337,15 @@ const LOOKUP = {
     "en_def": "to send something through the air with your hand",
     "cn_def": "丟；扔"
   },
+  "took": {
+    "pos": "v.",
+    "en_def": "to carry something or go with someone to a place",
+    "cn_def": "帶；拿"
+  },
   "rolled": {
     "pos": "v.",
     "en_def": "to move by turning over and over, like a ball",
     "cn_def": "滾動"
-  },
-  "picked": {
-    "pos": "v.",
-    "en_def": "to take fruit or flowers from a plant with your hand",
-    "cn_def": "摘；撿"
-  },
-  "packed": {
-    "pos": "v.",
-    "en_def": "to put things into a bag or a box",
-    "cn_def": "打包；收拾（行李）"
-  },
-  "moved": {
-    "pos": "v.",
-    "en_def": "to go to live in a new home; to go from one place to another",
-    "cn_def": "搬家；移動"
   },
   "told": {
     "pos": "v.",
@@ -1317,15 +1357,30 @@ const LOOKUP = {
     "en_def": "to start",
     "cn_def": "開始"
   },
-  "appeared": {
+  "packed": {
     "pos": "v.",
-    "en_def": "to come out so people can see it",
-    "cn_def": "出現"
+    "en_def": "to put things into a bag or a box",
+    "cn_def": "打包；收拾（行李）"
   },
   "hunted": {
     "pos": "v.",
     "en_def": "to look for and catch wild animals for food",
     "cn_def": "打獵"
+  },
+  "picked": {
+    "pos": "v.",
+    "en_def": "to take fruit or flowers from a plant with your hand",
+    "cn_def": "摘；撿"
+  },
+  "appeared": {
+    "pos": "v.",
+    "en_def": "to come out so people can see it",
+    "cn_def": "出現"
+  },
+  "moved": {
+    "pos": "v.",
+    "en_def": "to go to live in a new home; to go from one place to another",
+    "cn_def": "搬家；移動"
   },
   "attacked": {
     "pos": "v.",
@@ -1337,15 +1392,15 @@ const LOOKUP = {
     "en_def": "to make a person, animal, or plant die",
     "cn_def": "殺死"
   },
-  "become": {
-    "pos": "v.",
-    "en_def": "to start to be something",
-    "cn_def": "成為；變成"
-  },
   "rest": {
     "pos": "v.",
     "en_def": "to stop working and relax",
     "cn_def": "休息"
+  },
+  "become": {
+    "pos": "v.",
+    "en_def": "to start to be something",
+    "cn_def": "成為；變成"
   },
   "list": {
     "pos": "v.",
@@ -1372,20 +1427,25 @@ const LOOKUP = {
     "en_def": "to do something or go somewhere quickly",
     "cn_def": "趕快；匆忙"
   },
-  "touch": {
+  "smoke": {
     "pos": "v.",
-    "en_def": "to put your hand or finger on something",
-    "cn_def": "碰；觸摸"
+    "en_def": "to breathe in the smoke of a cigarette",
+    "cn_def": "抽菸"
   },
   "shout": {
     "pos": "v.",
     "en_def": "to say something in a very loud voice",
     "cn_def": "大叫；喊叫"
   },
-  "smoke": {
+  "hand": {
+    "pos": "n.",
+    "en_def": "the part at the end of your arm that you hold things with",
+    "cn_def": "手"
+  },
+  "touch": {
     "pos": "v.",
-    "en_def": "to breathe in the smoke of a cigarette",
-    "cn_def": "抽菸"
+    "en_def": "to put your hand or finger on something",
+    "cn_def": "碰；觸摸"
   }
 };
 
