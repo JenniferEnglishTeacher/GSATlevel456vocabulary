@@ -5,7 +5,7 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113h"
+V = "20261113i"
 d = json.load(open(DATA, encoding="utf8"))
 J = json.load(open(os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k.json"), encoding="utf8"))  # 國中小基礎2000字 groups
 EXTRA = os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k_extra.json")  # groups converted by tools/convert_g.py
@@ -268,6 +268,14 @@ for n in sorted(AWL, key=int):
                                   lambda g, n=n: f"awl{n}-part{g}", f"AWL 學術單字練習 Sublist {n}", f"A{n}_DASHBOARD_UNITS")
     awl_zones[n] = (order, part_names)
 
+# 高中 Level 3 (2001-3000字) (zones "t1".."t24"): one zone per unit, its parts converted by tools/l3_convert.py
+L3_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "l3.json")
+L3 = json.load(open(L3_FILE, encoding="utf8")) if os.path.exists(L3_FILE) else {}
+l3_zones = {}
+for n in sorted(L3, key=int):
+    l3_zones[n] = emit_zone(f"t{n}", f"Level 3 (2001–3000字) Unit {n}", f"Level 3 Unit {n}", "Part", {int(k): v for k, v in L3[n].items()},
+                            lambda g, n=n: f"level3-unit{n}-part{g}", f"高中 Level 3 單字練習 Unit {n}", f"T{n}_DASHBOARD_UNITS")
+
 # ---------------------------------------------------------------- books.js: the registry every page reads
 zones = {}
 for L, cls in ((4, ""), (5, "hot"), (6, "va")):
@@ -318,6 +326,17 @@ for lv, zid in (("basic", "lb"), ("advanced", "la")):
         }
 if lab_zones:
     books.insert(1, {"id": "liveabc35", "name": "LiveABC Level 3–5", "zones": [z for z in ("lb", "la") if z in zones]})
+CLS3 = ("", "hot", "va")
+for n, (order, part_names) in l3_zones.items():
+    zones[f"t{n}"] = {
+        "book": "level3", "prefix": f"t{n}", "tag": f"L3 U{n}", "name": f"Level 3 Unit {n}", "short": f"Unit {n}", "num": str(n),
+        "levelLabel": f"Level 3 U{n}", "cls": CLS3[(int(n) - 1) % 3], "family": False, "headLabel": "", "tile": f"2001–3000 字 Level 3 · Unit {n}",
+        "unitName": "Part", "data": f"t{n}-dashboard-data.js", "global": f"T{n}_DASHBOARD_UNITS", "page": f"t{n}-unit{{u}}.html",
+        "quiz": f"level3-unit{n}-part{{u}}.html",
+        "units": order, "names": {str(g): part_names[g] for g in order}, "blurb": "words & collocations by part 各部分單字與搭配詞",
+    }
+if l3_zones:
+    books.insert(2 if lab_zones else 1, {"id": "level3", "name": "2001–3000字 LiveABC Level 3", "zones": [f"t{n}" for n in l3_zones]})
 if awl_zones:
     books.append({"id": "awl", "name": "AWL 學術單字 Sublist 1–10", "zones": [f"a{n}" for n in awl_zones]})
 zones = {z: zones[z] for b in books for z in b["zones"]}

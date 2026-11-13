@@ -1,0 +1,27 @@
+"""Blanks checked by hand for l3_convert.py: (unit-part, grid row, sentence no) -> the text that fills the blank.
+Used where the worksheet sentence needs an inflected form (advised, followers) or prints part of the phrase itself."""
+MANUAL = {
+    ("1-1", 3, 0): "advised", ("1-2", 11, 0): "dawned", ("1-2", 12, 0): "dawned on", ("1-4", 15, 0): "shepherded",
+    ("1-5", 3, 0): "surveyed", ("1-5", 4, 0): "suspected", ("2-1", 2, 0): "bleeding", ("2-1", 3, 1): "bled the small company dry",
+    ("2-1", 15, 1): "communicate", ("2-2", 1, 1): "dare", ("2-2", 3, 0): "dashed", ("2-2", 11, 0): "followers", ("2-3", 4, 0): "jetted",
+    ("3-2", 7, 0): "erased", ("3-2", 12, 0): "impressed", ("3-3", 12, 1): "pitch in", ("4-3", 0, 0): "glanced", ("4-4", 6, 1): "ranked",
+    ("4-5", 3, 1): "separated", ("5-1", 7, 0): "amazed", ("5-1", 13, 0): "awoke", ("5-1", 15, 0): "awakened",
+    ("5-2", 2, 0): "clowning around", ("5-2", 6, 0): "concluded", ("5-2", 9, 0): "drowned", ("5-4", 2, 0): "napped",
+    ("5-4", 4, 1): "nicknamed", ("5-4", 9, 0): "splashing", ("5-5", 5, 0): "towed", ("6-1", 7, 1): "bubble", ("6-2", 0, 0): "dripped",
+    ("6-2", 6, 0): "echoed", ("6-3", 3, 1): "grinned", ("6-5", 5, 1): "suffering", ("7-1", 6, 1): "rise from the ashes",
+    ("7-1", 7, 0): "banged", ("7-1", 11, 0): "captured", ("7-1", 12, 0): "captured the imagination", ("7-2", 1, 0): "chops",
+    ("7-3", 1, 1): "hugged", ("7-3", 6, 0): "log on", ("7-4", 4, 1): "piled", ("8-2", 0, 0): "dragged", ("8-2", 2, 0): "dumplings",
+    ("8-2", 3, 1): "export", ("8-2", 7, 1): "hum", ("8-4", 0, 0): "parrots", ("8-4", 3, 0): "poured", ("8-4", 6, 1): "roast",
+    ("8-5", 1, 0): "tends", ("9-1", 3, 0): "right up your alley", ("9-3", 0, 1): "envy", ("10-1", 4, 1): "assume",
+    ("10-1", 10, 0): "bumped", ("10-3", 10, 0): "quoted", ("10-4", 1, 0): "robbed", ("10-5", 4, 0): "tuned", ("11-1", 1, 0): "arrested",
+    ("11-1", 13, 0): "dosed", ("11-2", 7, 0): "fancy", ("11-2", 9, 0): "gestured", ("11-2", 11, 0): "heaped", ("11-3", 0, 0): "leaped",
+    ("11-3", 6, 0): "loafing", ("11-4", 8, 0): "roared", ("11-5", 4, 0): "sighed", ("11-5", 7, 0): "surrounded",
+    ("12-1", 2, 1): "disapprove", ("12-2", 2, 0): "crashed", ("12-5", 1, 0): "stuffed", ("13-2", 7, 0): "hinted", ("13-3", 0, 0): "licked",
+    ("13-4", 1, 0): "rushed", ("13-5", 2, 1): "suck", ("14-1", 10, 0): "crowned", ("14-2", 2, 0): "flashed", ("14-2", 8, 1): "grab",
+    ("14-4", 2, 0): "recognized", ("15-1", 8, 0): "buzzing", ("15-2", 5, 1): "folded", ("15-3", 9, 0): "restricts",
+    ("15-4", 2, 0): "signaled", ("16-1", 3, 1): "customer", ("16-1", 10, 0): "crawling", ("16-1", 14, 0): "dimmed",
+    ("16-3", 11, 0): "mobbed", ("16-5", 3, 0): "stitched", ("16-5", 7, 1): "tower", ("17-5", 3, 0): "warned",
+    ("18-1", 6, 0): "bared its teeth", ("18-2", 8, 1): "confuse", ("18-3", 5, 0): "kilometers", ("18-4", 4, 1): "react",
+    ("20-1", 0, 1): "admire", ("20-3", 3, 1): "punched", ("20-3", 6, 0): "rocketed", ("20-4", 5, 1): "tailored",
+    ("20-4", 11, 0): "tutoring", ("23-1", 1, 0): "baggage claim", ("23-3", 10, 0): "poll", ("23-2", 10, 1): "gallon", ("23-2", 8, 0): "fares", ("23-3", 1, 1): "gangster", ("23-5", 4, 1): "wedding", ("23-2", 7, 2): "fairy tale",
+}
