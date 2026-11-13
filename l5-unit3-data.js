@@ -1331,7 +1331,8 @@ window.FLASHCARD_UNITS = {
       "text": "athlete"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Tainan is full of temples and old houses that were built hundreds of years ago. Students who study __________ often visit the city to learn from these beautiful buildings.",
@@ -1353,7 +1354,8 @@ window.FLASHCARD_UNITS = {
       "text": "autonomy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 1
    },
    {
     "question": "Twenty thousand fans filled the seats to watch the basketball final. When the home team won, the noise inside the __________ was so loud that people outside could hear it.",
@@ -1375,7 +1377,8 @@ window.FLASHCARD_UNITS = {
       "text": "arena"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "The teacher began the lesson with a short video about robots that can cook. It was a clever way to __________ the students' interest before she explained the science.",
@@ -1397,7 +1400,8 @@ window.FLASHCARD_UNITS = {
       "text": "attend"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 7
    },
    {
     "question": "The new bakery has more kinds of bread than I have ever seen in one place. With such an __________ of choices, it took us a long time to decide what to buy.",
@@ -1419,7 +1423,8 @@ window.FLASHCARD_UNITS = {
       "text": "attic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 10
    },
    {
     "question": "The new singer refused to shake hands with his fans and told reporters he was better than everyone else. Many people found him __________ and stopped buying his songs.",
@@ -1441,7 +1446,8 @@ window.FLASHCARD_UNITS = {
       "text": "arrogant"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 13
    },
    {
     "question": "Lisa always explains her ideas clearly, and everyone understands her the first time. Because she is so __________, the class chose her to speak at the graduation ceremony.",
@@ -1463,7 +1469,8 @@ window.FLASHCARD_UNITS = {
       "text": "arrogant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 16
    },
    {
     "question": "In the old story, a farmer walks to town with an animal that carries two heavy bags of salt. The __________ is slow and stubborn, but it never drops the bags.",
@@ -1485,7 +1492,8 @@ window.FLASHCARD_UNITS = {
       "text": "ass"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 20
    },
    {
     "question": "A man hit a taxi driver in the face after an argument about the fare. He was taken to the police station and charged with __________.",
@@ -1507,7 +1515,8 @@ window.FLASHCARD_UNITS = {
       "text": "assumption"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 23
    },
    {
     "question": "The boy kept saying that he had not broken the window, even when the teacher showed him the ball with his name on it. He continued to __________ that he was innocent.",
@@ -1529,7 +1538,8 @@ window.FLASHCARD_UNITS = {
       "text": "astonish"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 26
    },
    {
     "question": "After the typhoon, the farmers walked through their fields to see how many fruit trees had fallen. The government then sent officers to __________ the damage and decide how much help each farm would get.",
@@ -1551,7 +1561,8 @@ window.FLASHCARD_UNITS = {
       "text": "articulate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 30
    },
    {
     "question": "Kevin speaks Japanese, Korean, and English, and he never gets nervous in front of customers. His language skills are a real __________ to the hotel where he works.",
@@ -1573,7 +1584,8 @@ window.FLASHCARD_UNITS = {
       "text": "auction"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    },
    {
     "question": "Mark did not bring a jacket because he believed it would be warm all day. That __________ turned out to be wrong, and he shivered through the whole picnic.",
@@ -1595,7 +1607,8 @@ window.FLASHCARD_UNITS = {
       "text": "attribute"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "Nobody expected the quiet girl in the back row to win the speech contest. Her powerful voice and confident smile continued to __________ the judges from beginning to end.",
@@ -1617,7 +1630,8 @@ window.FLASHCARD_UNITS = {
       "text": "assault"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "Our school has a long history of success in running, jumping, and throwing events. Every spring, the __________ team travels to the national games and usually brings home several medals.",
@@ -1639,7 +1653,8 @@ window.FLASHCARD_UNITS = {
       "text": "architecture"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "Mr. Lee checks who is in class at the start of every lesson. Students whose __________ is below ninety percent are not allowed to join the end-of-year trip.",
@@ -1661,7 +1676,8 @@ window.FLASHCARD_UNITS = {
       "text": "assertion"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "Grandma keeps old photo albums and her wedding dress in the space under the roof. We climbed the ladder to the __________ and spent the whole afternoon looking through the boxes.",
@@ -1683,7 +1699,8 @@ window.FLASHCARD_UNITS = {
       "text": "attic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 52
    },
    {
     "question": "After the car accident, Mr. Chen did not know whether he should sign the papers the insurance company sent him. He decided to ask an __________ for legal advice first.",
@@ -1705,7 +1722,8 @@ window.FLASHCARD_UNITS = {
       "text": "architect"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "Grandpa is ninety years old but still walks five kilometers every morning. He likes to __________ his good health to simple food, early nights, and a cheerful heart.",
@@ -1727,7 +1745,8 @@ window.FLASHCARD_UNITS = {
       "text": "attribute"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 58
    },
    {
     "question": "The famous painter's last work was sold yesterday to the person who offered the most money. The __________ lasted only five minutes, but the final price was over ten million dollars.",
@@ -1749,7 +1768,8 @@ window.FLASHCARD_UNITS = {
       "text": "assault"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    },
    {
     "question": "The cashier cannot give you your money back for the broken toaster by herself. Only the store manager can __________ a refund, so please wait a moment while she calls him.",
@@ -1771,7 +1791,8 @@ window.FLASHCARD_UNITS = {
       "text": "astonish"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "In the past, the head office decided everything, from the menu to the music in each restaurant. Now each branch has more __________ and can choose its own dishes.",
@@ -1793,7 +1814,8 @@ window.FLASHCARD_UNITS = {
       "text": "autonomy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "When the lights went out and the stars appeared above the desert, nobody said a word. We all stood in __________ of the sky, which seemed to go on forever.",
@@ -1815,7 +1837,8 @@ window.FLASHCARD_UNITS = {
       "text": "assumption"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 74
    },
    {
     "question": "Dad built a small wooden house for the dog behind our home, next to the vegetable garden. On sunny days, the whole family eats lunch in the __________.",
@@ -1837,7 +1860,8 @@ window.FLASHCARD_UNITS = {
       "text": "auction"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "On election day, each voter goes into a small booth alone and marks a piece of paper. Then he or she folds the __________ and drops it into a locked box.",
@@ -1859,7 +1883,8 @@ window.FLASHCARD_UNITS = {
       "text": "attribute"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 83
    },
    {
     "question": "I saw the lights on in the office, so I thought someone was still working. It was wrong to __________ that, because the cleaner had simply forgotten to turn them off.",
@@ -1881,7 +1906,8 @@ window.FLASHCARD_UNITS = {
       "text": "assault"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 38
    },
    {
     "question": "The twelve-year-old boy finished the marathon in under four hours, faster than most adults. His coach said it was an __________ result for someone so young.",
@@ -1903,7 +1929,8 @@ window.FLASHCARD_UNITS = {
       "text": "astonishing"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 43
    },
    {
     "question": "Jenny trains in the pool for three hours every morning before school and competes all over Asia. As a professional __________, she has to be very careful about what she eats.",
@@ -1925,7 +1952,8 @@ window.FLASHCARD_UNITS = {
       "text": "architect"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 46
    },
    {
     "question": "From the top of the mountain, we could see the sea, the city, and three other mountains at the same time. The view was so __________ that nobody wanted to leave.",
@@ -1947,7 +1975,8 @@ window.FLASHCARD_UNITS = {
       "text": "arrogant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 76
    },
    {
     "question": "Only the principal can decide to close the school when a typhoon is coming. Teachers do not have the __________ to send students home by themselves.",
@@ -1969,7 +1998,8 @@ window.FLASHCARD_UNITS = {
       "text": "awe"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    }
   ]
  }

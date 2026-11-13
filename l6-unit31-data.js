@@ -1256,7 +1256,8 @@ window.FLASHCARD_UNITS = {
       "text": "remainder"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "We finished the test in only half an hour. The teacher let us read quietly for the __________ of the class, so the room was very peaceful.",
@@ -1278,7 +1279,8 @@ window.FLASHCARD_UNITS = {
       "text": "revival"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "This song has a slow beat and soft guitar sounds. It is __________ of the music my parents listened to when they were in college thirty years ago.",
@@ -1300,7 +1302,8 @@ window.FLASHCARD_UNITS = {
       "text": "reminiscent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 7
    },
    {
     "question": "Many people travel to this small town just to eat at one restaurant. Its __________ chef has cooked for presidents and movie stars from around the world.",
@@ -1322,7 +1325,8 @@ window.FLASHCARD_UNITS = {
       "text": "rigorous"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 11
    },
    {
     "question": "Rabbits can have many babies in a single year. Because they __________ so quickly, a farmer who starts with two may soon have more than fifty.",
@@ -1344,7 +1348,8 @@ window.FLASHCARD_UNITS = {
       "text": "reproduce"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "A turtle has dry skin with hard scales and lays its eggs on land. Like a snake or a lizard, it is a kind of __________.",
@@ -1366,7 +1371,8 @@ window.FLASHCARD_UNITS = {
       "text": "revolt"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 19
    },
    {
     "question": "Lisa has to do all the housework while her brother just plays games. She has started to __________ the way her parents treat the two of them.",
@@ -1388,7 +1394,8 @@ window.FLASHCARD_UNITS = {
       "text": "restore"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "My uncle moved to Japan for work ten years ago. He and his family now __________ in a quiet town near Osaka, and they visit Taiwan every summer.",
@@ -1410,7 +1417,8 @@ window.FLASHCARD_UNITS = {
       "text": "reproduce"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 25
    },
    {
     "question": "These new plastic bags do not break even when they are heavy with books. The material is strong and __________ to water, so rain cannot damage them.",
@@ -1432,7 +1440,8 @@ window.FLASHCARD_UNITS = {
       "text": "respective"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 29
    },
    {
     "question": "After the field trip, the three classes got off the bus together. Then the students walked back to their __________ classrooms to finish the day's lessons.",
@@ -1454,7 +1463,8 @@ window.FLASHCARD_UNITS = {
       "text": "respective"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 33
    },
    {
     "question": "The old theater in our town was almost falling down ten years ago. After a long and careful __________, it now looks beautiful again and holds concerts every weekend.",
@@ -1476,7 +1486,8 @@ window.FLASHCARD_UNITS = {
       "text": "revelation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 37
    },
    {
     "question": "The big dog jumped up when it saw the mail carrier. Its owner had to __________ it with both hands so that it would not run out of the gate.",
@@ -1498,7 +1509,8 @@ window.FLASHCARD_UNITS = {
       "text": "restrain"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "The customer was angry because his food came late and cold. Still, he showed great __________ and spoke to the waiter in a calm and polite voice.",
@@ -1520,7 +1532,8 @@ window.FLASHCARD_UNITS = {
       "text": "revolt"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "Tom's older sister said he was far too slow to win the race. \"At least I finished it,\" was his quick __________, and everyone at the dinner table laughed.",
@@ -1542,7 +1555,8 @@ window.FLASHCARD_UNITS = {
       "text": "reptile"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "The ball flew over the fence and landed in the neighbor's garden. Our dog ran there at once to __________ it and brought it back in its mouth.",
@@ -1564,7 +1578,8 @@ window.FLASHCARD_UNITS = {
       "text": "resent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "I always thought my grandmother was a quiet housewife. It was a real __________ to learn that she had flown planes for the army when she was young.",
@@ -1586,7 +1601,8 @@ window.FLASHCARD_UNITS = {
       "text": "revelation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "Twenty years ago, few young people cared about traditional puppet shows. Today the art is enjoying a __________, and tickets for the shows sell out quickly.",
@@ -1608,7 +1624,8 @@ window.FLASHCARD_UNITS = {
       "text": "revolution"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 55
    },
    {
     "question": "The old man fell into the cold water and stopped breathing. A young lifeguard worked hard to __________ him, and after a minute he opened his eyes.",
@@ -1630,7 +1647,8 @@ window.FLASHCARD_UNITS = {
       "text": "resist"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 56
    },
    {
     "question": "The king raised taxes again, and the farmers could not even buy rice. Finally they decided to __________ and marched to the palace with sticks and knives.",
@@ -1652,7 +1670,8 @@ window.FLASHCARD_UNITS = {
       "text": "revolve"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 59
    },
    {
     "question": "The Moon does not stay in one place in the sky. It takes about a month to __________ around the Earth, which is why its shape seems to change.",
@@ -1674,7 +1693,8 @@ window.FLASHCARD_UNITS = {
       "text": "revive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    },
    {
     "question": "Only the best students get into the medical school. The __________ program includes long hours in the lab and tests that are known to be very hard.",
@@ -1696,7 +1716,8 @@ window.FLASHCARD_UNITS = {
       "text": "residential"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 66
    },
    {
     "question": "The lake was completely still in the early morning. When a leaf fell from a tree, a small __________ moved slowly across the water and then disappeared.",
@@ -1718,7 +1739,8 @@ window.FLASHCARD_UNITS = {
       "text": "ripple"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 69
    },
    {
     "question": "The two teams have played against each other for fifty years. Their __________ is so strong that every game between them fills the stadium with noisy fans.",
@@ -1740,7 +1762,8 @@ window.FLASHCARD_UNITS = {
       "text": "reproduction"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 72
    },
    {
     "question": "There are no fences around the farm in the mountains. The cows __________ freely over the hills all day and come back on their own at sunset.",
@@ -1762,7 +1785,8 @@ window.FLASHCARD_UNITS = {
       "text": "restore"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "My grandfather is eighty years old, but he still works in his garden every day. He is so __________ that he can carry heavy bags of soil up the hill.",
@@ -1784,7 +1808,8 @@ window.FLASHCARD_UNITS = {
       "text": "resentful"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 79
    },
    {
     "question": "Workers were digging the ground for a new road near the river. They were surprised to find the __________ of an old house that was built five hundred years ago.",
@@ -1806,7 +1831,8 @@ window.FLASHCARD_UNITS = {
       "text": "rivalry"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 6
    },
    {
     "question": "A typhoon knocked down power lines across the whole town last night. Workers are now trying to __________ electricity so that families can cook dinner and turn on the lights.",
@@ -1828,7 +1854,8 @@ window.FLASHCARD_UNITS = {
       "text": "revolve"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 38
    },
    {
     "question": "The magician asked the children to watch his hands very closely. He promised to __________ the secret of the card trick at the end of the show.",
@@ -1850,7 +1877,8 @@ window.FLASHCARD_UNITS = {
       "text": "reveal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 52
    },
    {
     "question": "In 1789, the people of France were tired of their king and high prices. The __________ that followed changed the country and gave people new rights.",
@@ -1872,7 +1900,8 @@ window.FLASHCARD_UNITS = {
       "text": "reminiscence"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 62
    },
    {
     "question": "The school wanted students to wear uniforms even on hot summer days. The idea met with strong __________ from students, who asked for shorts and T-shirts instead.",
@@ -1894,7 +1923,8 @@ window.FLASHCARD_UNITS = {
       "text": "remainder"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    }
   ]
  }

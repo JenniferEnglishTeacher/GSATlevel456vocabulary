@@ -1301,7 +1301,8 @@ window.FLASHCARD_UNITS = {
       "text": "sponge"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The city marathon costs a lot of money to organize every year. This year a big bank became the main __________, so every runner got a free shirt with the bank's name.",
@@ -1323,7 +1324,8 @@ window.FLASHCARD_UNITS = {
       "text": "spouse"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "Our school band wants to travel to Japan for a music contest, but the trip is expensive. The teacher is asking local companies for __________ to help pay for the flights.",
@@ -1345,7 +1347,8 @@ window.FLASHCARD_UNITS = {
       "text": "stance"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "On this form you must write the name of the person you are married to. If you do not have a __________, just leave that line empty and go on to the next question.",
@@ -1367,7 +1370,8 @@ window.FLASHCARD_UNITS = {
       "text": "sponsor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "The national team coach has chosen 23 players for the World Cup. Only eleven of them can start each game, so the rest of the __________ will wait on the bench.",
@@ -1389,7 +1393,8 @@ window.FLASHCARD_UNITS = {
       "text": "squad"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 12
    },
    {
     "question": "Put the bread on top of the other things in the shopping bag. If you put it at the bottom, the heavy bottles will __________ it flat before we get home.",
@@ -1411,7 +1416,8 @@ window.FLASHCARD_UNITS = {
       "text": "stack"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "That box is too heavy to lift with your back bent like that. You should __________ down, hold it close to your body, and then push up with your legs.",
@@ -1433,7 +1439,8 @@ window.FLASHCARD_UNITS = {
       "text": "stink"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 19
    },
    {
     "question": "After the long war, the country changed its leader five times in three years. What people wanted most was __________, so that they could plan their lives again.",
@@ -1455,7 +1462,8 @@ window.FLASHCARD_UNITS = {
       "text": "stance"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "I have not had time to read the newspaper for two weeks. There is now a tall __________ of them on the kitchen table, and Mom wants me to recycle them all.",
@@ -1477,7 +1485,8 @@ window.FLASHCARD_UNITS = {
       "text": "stake"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 27
    },
    {
     "question": "Jack spilled grape juice on his white school shirt at lunch. His mother tried to wash it three times, but the purple __________ would not come out.",
@@ -1499,7 +1508,8 @@ window.FLASHCARD_UNITS = {
       "text": "stew"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 30
    },
    {
     "question": "The young tree was bending in the strong wind. Dad pushed a wooden __________ into the ground next to it and tied the tree to it with a rope.",
@@ -1521,7 +1531,8 @@ window.FLASHCARD_UNITS = {
       "text": "stall"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    },
    {
     "question": "The night market is full of places that sell food. My favorite __________ sells fried chicken, and there is always a long line of people waiting in front of it.",
@@ -1543,7 +1554,8 @@ window.FLASHCARD_UNITS = {
       "text": "stake"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    },
    {
     "question": "Some parents want the school to allow cellphones in class, and others do not. The principal has not yet taken a clear __________ on the question.",
@@ -1565,7 +1577,8 @@ window.FLASHCARD_UNITS = {
       "text": "stance"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 42
    },
    {
     "question": "The old man was reading quietly in the garden with his eyes half closed. Please walk up to him slowly so that you do not __________ him and make him drop his book.",
@@ -1587,7 +1600,8 @@ window.FLASHCARD_UNITS = {
       "text": "stock"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 45
    },
    {
     "question": "The doctor said the new medicine helped 80 percent of the patients. She showed us a __________ report with numbers and charts to prove that it really works.",
@@ -1609,7 +1623,8 @@ window.FLASHCARD_UNITS = {
       "text": "stereotypical"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "Riding a bicycle with no hands is dangerous. You cannot __________ it properly if you suddenly need to turn to avoid a dog or a hole in the road.",
@@ -1631,7 +1646,8 @@ window.FLASHCARD_UNITS = {
       "text": "stain"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 52
    },
    {
     "question": "Many people think that all boys love sports and all girls love dancing. This is just a __________, and it does not describe my brother or me at all.",
@@ -1653,7 +1669,8 @@ window.FLASHCARD_UNITS = {
       "text": "storage"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 56
    },
    {
     "question": "It was a freezing night, and we were all hungry when we got home. Grandma had a big pot of hot beef __________ with potatoes waiting for us on the stove.",
@@ -1675,7 +1692,8 @@ window.FLASHCARD_UNITS = {
       "text": "stew"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 59
    },
    {
     "question": "Babies learn a lot from colors, music, and soft toys. Doctors say these things __________ the brain and help children develop faster in their first year.",
@@ -1697,7 +1715,8 @@ window.FLASHCARD_UNITS = {
       "text": "stack"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    },
    {
     "question": "The government wanted people to spend more money in shops and restaurants. It gave every citizen 6,000 dollars as a __________ to help the economy grow again.",
@@ -1719,7 +1738,8 @@ window.FLASHCARD_UNITS = {
       "text": "stereotype"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    },
    {
     "question": "Someone left a bag of fish in the car on a hot afternoon. By evening the whole car had started to __________, and we had to drive with the windows open.",
@@ -1741,7 +1761,8 @@ window.FLASHCARD_UNITS = {
       "text": "stink"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "I wanted to buy the new phone at the store downtown, but they had already sold every one. The clerk said more would be in __________ next week.",
@@ -1763,7 +1784,8 @@ window.FLASHCARD_UNITS = {
       "text": "stall"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "Our new apartment is small, and we do not have room for the ski equipment. We rented a __________ space near the station to keep it until winter.",
@@ -1785,7 +1807,8 @@ window.FLASHCARD_UNITS = {
       "text": "stability"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 76
    },
    {
     "question": "The picture on the wall is hanging at an angle after the earthquake. Could you __________ it before the guests arrive, so the living room looks neat?",
@@ -1807,7 +1830,8 @@ window.FLASHCARD_UNITS = {
       "text": "stew"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "I thought the new washing machine would be hard to use, but I was wrong. The instructions were so __________ that I set it up in five minutes without any help.",
@@ -1829,7 +1853,8 @@ window.FLASHCARD_UNITS = {
       "text": "straightforward"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 80
    },
    {
     "question": "Do not climb that old ladder; two of its steps are broken. Use the new metal one, which is much more __________ and will not shake while you are on it.",
@@ -1851,7 +1876,8 @@ window.FLASHCARD_UNITS = {
       "text": "stinky"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 23
    },
    {
     "question": "My phone memory is almost full because of all the photos from the trip. I need to __________ them on the computer so I can take more pictures tomorrow.",
@@ -1873,7 +1899,8 @@ window.FLASHCARD_UNITS = {
       "text": "store"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 77
    },
    {
     "question": "Before the company builds the new factory, it must talk to everyone who will be affected. Each __________, from workers to nearby residents, will have a chance to speak.",
@@ -1895,7 +1922,8 @@ window.FLASHCARD_UNITS = {
       "text": "sponsor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "A car horn suddenly sounded right behind the sleeping dog. The __________ animal jumped up and ran across the yard before it understood what had happened.",
@@ -1917,7 +1945,8 @@ window.FLASHCARD_UNITS = {
       "text": "straight"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 46
    },
    {
     "question": "Our teacher asked us to find out how many students ride bikes to school. We collected the numbers from every class and put the __________ into a big chart.",
@@ -1939,7 +1968,8 @@ window.FLASHCARD_UNITS = {
       "text": "stimulus"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 49
    }
   ]
  }

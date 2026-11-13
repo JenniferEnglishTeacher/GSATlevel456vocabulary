@@ -1316,7 +1316,8 @@ window.FLASHCARD_UNITS = {
       "text": "facilitate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "All the teachers at our high school met in the hall after class on Monday. The __________ voted to start school thirty minutes later so that students can sleep more.",
@@ -1338,7 +1339,8 @@ window.FLASHCARD_UNITS = {
       "text": "forum"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "My little brother cannot stop reading books about dinosaurs. Stories about these giant animals __________ him so much that he wants to become a scientist one day.",
@@ -1360,7 +1362,8 @@ window.FLASHCARD_UNITS = {
       "text": "flip"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 6
    },
    {
     "question": "The nurses have been working twelve hours a day for a whole month. Many of them now feel such deep __________ that even a long weekend of sleep does not help.",
@@ -1382,7 +1385,8 @@ window.FLASHCARD_UNITS = {
       "text": "freight"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 11
    },
    {
     "question": "In the United States, each state can make some of its own laws. However, the __________ government in Washington makes the laws that every state in the country must follow.",
@@ -1404,7 +1408,8 @@ window.FLASHCARD_UNITS = {
       "text": "fluid"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 14
    },
    {
     "question": "Doctors say that fruit, vegetables, and whole grains keep your stomach healthy. These foods are rich in __________, which helps your body digest everything you eat.",
@@ -1426,7 +1431,8 @@ window.FLASHCARD_UNITS = {
       "text": "fiber"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 17
    },
    {
     "question": "The water from the old pipes in our house looks a little brown. My father installed a __________ under the sink, and now the water comes out clean and clear.",
@@ -1448,7 +1454,8 @@ window.FLASHCARD_UNITS = {
       "text": "fragment"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "The government needs money to build new hospitals and roads. Its new __________ plan will raise the tax on cigarettes and use that money for public projects.",
@@ -1470,7 +1477,8 @@ window.FLASHCARD_UNITS = {
       "text": "fascinated"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "Every morning before sunrise, dozens of fishing boats leave the small harbor together. The whole __________ comes back by noon with boxes of fresh fish to sell.",
@@ -1492,7 +1500,8 @@ window.FLASHCARD_UNITS = {
       "text": "fleet"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 27
    },
    {
     "question": "Yoga has made my body much easier to bend and stretch. After six months of practice, my __________ has improved so much that I can touch my toes easily.",
@@ -1514,7 +1523,8 @@ window.FLASHCARD_UNITS = {
       "text": "fatigue"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 30
    },
    {
     "question": "When bubbles appear on top of the pancake, it is time to turn it over. Use a wide tool to __________ it quickly so that the other side cooks to a golden brown.",
@@ -1536,7 +1546,8 @@ window.FLASHCARD_UNITS = {
       "text": "forge"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 34
    },
    {
     "question": "After two years in Canada, Mei speaks English easily and naturally. Her __________ is so good now that many people think she was born and raised there.",
@@ -1558,7 +1569,8 @@ window.FLASHCARD_UNITS = {
       "text": "frontier"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 38
    },
    {
     "question": "The nurse said my brother must drink a lot while he has a fever. Any __________ such as water, soup, or juice will help his body stay cool and recover.",
@@ -1580,7 +1592,8 @@ window.FLASHCARD_UNITS = {
       "text": "fragment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "The student did not want his parents to see his low test score. He tried to __________ his father's signature on the paper, but the teacher noticed the strange handwriting.",
@@ -1602,7 +1615,8 @@ window.FLASHCARD_UNITS = {
       "text": "flip"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "Every report must have a title, an introduction, three main parts, and a conclusion. The teacher wants us to follow this __________ so that all our work looks the same.",
@@ -1624,7 +1638,8 @@ window.FLASHCARD_UNITS = {
       "text": "fluid"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 48
    },
    {
     "question": "The city wants to build a new highway through the old neighborhood. Last night it held a public __________ where residents could share their opinions with the mayor.",
@@ -1646,7 +1661,8 @@ window.FLASHCARD_UNITS = {
       "text": "fraction"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "Reading stories aloud to young children every night is a wonderful habit. It can __________ a love of books that stays with them for the rest of their lives.",
@@ -1668,7 +1684,8 @@ window.FLASHCARD_UNITS = {
       "text": "foster"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 54
    },
    {
     "question": "Someone forgot a piece of fish in the refrigerator for two weeks. When I opened the door this morning, a __________ smell filled the whole kitchen at once.",
@@ -1690,7 +1707,8 @@ window.FLASHCARD_UNITS = {
       "text": "federal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 58
    },
    {
     "question": "In math class today, we learned about numbers like one half and three quarters. The teacher showed us how to add one __________ to another by finding a common bottom number.",
@@ -1712,7 +1730,8 @@ window.FLASHCARD_UNITS = {
       "text": "faculty"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    },
    {
     "question": "The scientists carefully dug around the cave floor for three days. At last, they found a small __________ of a bowl that people had used three thousand years ago.",
@@ -1734,7 +1753,8 @@ window.FLASHCARD_UNITS = {
       "text": "franchise"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 66
    },
    {
     "question": "Workers have finished the steel structure of the new library. Now that the __________ is ready, they will start adding the walls, the windows, and the roof.",
@@ -1756,7 +1776,8 @@ window.FLASHCARD_UNITS = {
       "text": "fraud"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 69
    },
    {
     "question": "My cousin wanted to open a coffee shop but did not know how to start. He bought a __________ from a famous company, so his shop now uses its name and menu.",
@@ -1778,7 +1799,8 @@ window.FLASHCARD_UNITS = {
       "text": "fragment"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 72
    },
    {
     "question": "The caller said he was a bank worker and asked Grandma for her card number. Luckily, she knew about this kind of __________ and hung up the phone at once.",
@@ -1800,7 +1822,8 @@ window.FLASHCARD_UNITS = {
       "text": "filter"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 75
    },
    {
     "question": "Ships arrive at the port every day carrying goods from all over the world. Trucks then take the __________ to stores and factories in every part of the island.",
@@ -1822,7 +1845,8 @@ window.FLASHCARD_UNITS = {
       "text": "freight"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "Two hundred years ago, families moved west to land where almost nobody lived. Life on the __________ was hard because they had to build and grow everything themselves.",
@@ -1844,7 +1868,8 @@ window.FLASHCARD_UNITS = {
       "text": "forum"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 83
    },
    {
     "question": "The museum guide told us how the famous painting was stolen and found twice. It was such a __________ story that nobody in the group wanted the tour to end.",
@@ -1866,7 +1891,8 @@ window.FLASHCARD_UNITS = {
       "text": "fascinating"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 7
    },
    {
     "question": "My manager does not mind when I start work, as long as I finish my tasks. She is very __________ about hours, so I can take my son to school first.",
@@ -1888,7 +1914,8 @@ window.FLASHCARD_UNITS = {
       "text": "fraudulent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "My uncle worked in Tokyo for ten years and still watches Japanese TV every night. He is so __________ in Japanese that people there think he is a local.",
@@ -1910,7 +1937,8 @@ window.FLASHCARD_UNITS = {
       "text": "foul"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 39
    },
    {
     "question": "The new sports center has an indoor pool, a gym, and three basketball courts. Students love this __________ because they can exercise even on rainy days.",
@@ -1932,7 +1960,8 @@ window.FLASHCARD_UNITS = {
       "text": "facility"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 1
    },
    {
     "question": "The painting was sold for millions of dollars to a rich collector. Later, experts proved it was a __________ that a clever artist had painted only thirty years ago.",
@@ -1954,7 +1983,8 @@ window.FLASHCARD_UNITS = {
       "text": "framework"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 46
    }
   ]
  }

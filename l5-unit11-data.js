@@ -1511,7 +1511,8 @@ window.FLASHCARD_UNITS = {
       "text": "deficit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "When you arrive from another country, you cannot leave the airport right away. First you must go through __________, where officers may check your bags for food or other illegal items.",
@@ -1533,7 +1534,8 @@ window.FLASHCARD_UNITS = {
       "text": "delegation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "Do not touch that small blue frog in the rain forest. Its skin is __________, and even a tiny amount of its poison can stop a person's heart.",
@@ -1555,7 +1557,8 @@ window.FLASHCARD_UNITS = {
       "text": "dense"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 9
    },
    {
     "question": "The storm knocked down trees and broke many windows along the street last night. This morning, city workers spent hours clearing away the __________ so that cars could pass.",
@@ -1577,7 +1580,8 @@ window.FLASHCARD_UNITS = {
       "text": "debris"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 14
    },
    {
     "question": "Nobody had heard of the young actress before last month. She made her __________ in a small movie, and now every director in the country wants to work with her.",
@@ -1599,7 +1603,8 @@ window.FLASHCARD_UNITS = {
       "text": "custody"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 17
    },
    {
     "question": "Do not leave the bananas on the table in this hot weather. They will begin to __________ in two or three days, and the whole kitchen will smell terrible.",
@@ -1621,7 +1626,8 @@ window.FLASHCARD_UNITS = {
       "text": "decay"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 21
    },
    {
     "question": "The man on the phone said he was calling from the bank and asked for my password. Luckily, I knew he was trying to __________ me, so I hung up at once.",
@@ -1643,7 +1649,8 @@ window.FLASHCARD_UNITS = {
       "text": "dedicate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 25
    },
    {
     "question": "The hotel was not fancy, but the room was clean and the bed was comfortable. For such a low price, it was a __________ place to spend the night.",
@@ -1665,7 +1672,8 @@ window.FLASHCARD_UNITS = {
       "text": "decent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 30
    },
    {
     "question": "The president stood in front of the cameras and read a short statement. In this __________, he promised that the country would stop using coal for electricity by 2040.",
@@ -1687,7 +1695,8 @@ window.FLASHCARD_UNITS = {
       "text": "deputy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "Fewer and fewer people are buying CDs these days. Sales have continued to __________ every year since most music fans started listening to their favorite songs online.",
@@ -1709,7 +1718,8 @@ window.FLASHCARD_UNITS = {
       "text": "deliberate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "Mother Teresa spent almost her whole life in India helping the poor and the sick. Few people have been willing to __________ so many years to others in this way.",
@@ -1731,7 +1741,8 @@ window.FLASHCARD_UNITS = {
       "text": "deceive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 43
    },
    {
     "question": "The trial began at nine o'clock this morning in a crowded courtroom. The __________ sat quietly next to his lawyer while the judge read the charges against him.",
@@ -1753,7 +1764,8 @@ window.FLASHCARD_UNITS = {
       "text": "delegate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "The school spent far more money on new computers this year than it had planned. To cover the __________, the principal has asked parents for donations.",
@@ -1775,7 +1787,8 @@ window.FLASHCARD_UNITS = {
       "text": "custody"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 52
    },
    {
     "question": "The sign clearly said that swimming in the river was not allowed. Still, a few teenagers chose to __________ the rule and jumped into the cold water.",
@@ -1797,7 +1810,8 @@ window.FLASHCARD_UNITS = {
       "text": "decline"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 56
    },
    {
     "question": "Thirty countries will take part in the world health meeting next month. Each one will send a __________ to speak for its people and vote on the new rules.",
@@ -1819,7 +1833,8 @@ window.FLASHCARD_UNITS = {
       "text": "delegate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 60
    },
    {
     "question": "A group of fifteen teachers from Korea visited our school yesterday. The __________ watched two English classes and then had lunch with our principal in the school garden.",
@@ -1841,7 +1856,8 @@ window.FLASHCARD_UNITS = {
       "text": "deployment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 61
    },
    {
     "question": "The player said he did not mean to kick his opponent. However, the video showed that the kick was __________, so he was sent off the field right away.",
@@ -1863,7 +1879,8 @@ window.FLASHCARD_UNITS = {
       "text": "dense"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "My grandfather believes that leaders should be chosen by the people, not by kings or soldiers. As a true __________, he has voted in every election for fifty years.",
@@ -1885,7 +1902,8 @@ window.FLASHCARD_UNITS = {
       "text": "deputy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 69
    },
    {
     "question": "Everyone saw Tom take the last piece of cake from the fridge. His __________ that he had eaten it only made his sister laugh even harder.",
@@ -1907,7 +1925,8 @@ window.FLASHCARD_UNITS = {
       "text": "decay"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 73
    },
    {
     "question": "More than seven million people live in Hong Kong, which is a very small place. Because of this high population __________, most families live in tall apartment buildings.",
@@ -1929,7 +1948,8 @@ window.FLASHCARD_UNITS = {
       "text": "deficit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 77
    },
    {
     "question": "Many old paintings in the museum __________ farmers working in the fields. The artists wanted to show how hard country life was two hundred years ago.",
@@ -1951,7 +1971,8 @@ window.FLASHCARD_UNITS = {
       "text": "decay"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 81
    },
    {
     "question": "Heavy rain has caused floods in three towns in the south. The government will __________ hundreds of soldiers to the area tonight to help move people to safe places.",
@@ -1973,7 +1994,8 @@ window.FLASHCARD_UNITS = {
       "text": "deploy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 84
    },
    {
     "question": "It has rained every single day for the past two weeks. Such gray weather can really __________ people, so many of my friends have been feeling sad and tired.",
@@ -1995,7 +2017,8 @@ window.FLASHCARD_UNITS = {
       "text": "dedicate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 88
    },
    {
     "question": "The police chief of the small town is in the hospital for a week. Until he returns, his __________ is in charge of the station and will handle all emergency calls.",
@@ -2017,7 +2040,8 @@ window.FLASHCARD_UNITS = {
       "text": "deputy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 92
    },
    {
     "question": "The English word \"piano\" comes from an Italian word. In fact, many words that we use every day __________ from Latin, Greek, or other old languages.",
@@ -2039,7 +2063,8 @@ window.FLASHCARD_UNITS = {
       "text": "decline"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 95
    },
    {
     "question": "Ms. Wang stays at school until six every evening to help students who need extra practice. Everyone agrees that she is the most __________ teacher we have ever had.",
@@ -2061,7 +2086,8 @@ window.FLASHCARD_UNITS = {
       "text": "defensive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "You are carrying fruit and meat in your suitcase. You must __________ these items on the form before you reach the airport officer, or you could be fined.",
@@ -2083,7 +2109,8 @@ window.FLASHCARD_UNITS = {
       "text": "derive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 35
    },
    {
     "question": "The restaurant's photos online looked wonderful, with huge dishes and fresh fish. Sadly, they were quite __________; the real meals were small and the fish was not fresh at all.",
@@ -2105,7 +2132,8 @@ window.FLASHCARD_UNITS = {
       "text": "decent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "I am sure Jack did not forget the meeting by accident. He __________ stayed away because he did not want to explain why his part of the project was late.",
@@ -2127,7 +2155,8 @@ window.FLASHCARD_UNITS = {
       "text": "deliberately"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 67
    },
    {
     "question": "In the 1930s, factories closed and millions of people in America lost their jobs. This period is now known as the Great __________, and it lasted almost ten years.",
@@ -2149,7 +2178,8 @@ window.FLASHCARD_UNITS = {
       "text": "declaration"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 91
    }
   ]
  }

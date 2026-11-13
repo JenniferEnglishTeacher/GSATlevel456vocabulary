@@ -1286,7 +1286,8 @@ window.FLASHCARD_UNITS = {
       "text": "soften"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The movie had a very sad ending, and the whole theater became quiet. The girl next to me began to __________ so loudly that her friend had to pass her some tissues.",
@@ -1308,7 +1309,8 @@ window.FLASHCARD_UNITS = {
       "text": "soar"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 3
    },
    {
     "question": "Mark had several glasses of wine at the wedding party last night. His wife, who stayed __________ the whole evening, drove the car home safely for everyone.",
@@ -1330,7 +1332,8 @@ window.FLASHCARD_UNITS = {
       "text": "sober"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 6
    },
    {
     "question": "The ice cream was frozen so hard that I could not put the spoon into it. Mom told me to leave it on the table for a while to let it __________.",
@@ -1352,7 +1355,8 @@ window.FLASHCARD_UNITS = {
       "text": "speculate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "Everyone else in the office took the day off for the holiday. Jenny was the __________ worker who came in, so she had to answer all the phone calls by herself.",
@@ -1374,7 +1378,8 @@ window.FLASHCARD_UNITS = {
       "text": "spicy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 13
    },
    {
     "question": "The band played together for most of the concert. Near the end, however, the drummer performed a three-minute __________ while the other members left the stage.",
@@ -1396,7 +1401,8 @@ window.FLASHCARD_UNITS = {
       "text": "spectrum"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 16
    },
    {
     "question": "The old factory machines could only do one simple job each. The new ones are far more __________ and can make ten different products with the help of a computer.",
@@ -1418,7 +1424,8 @@ window.FLASHCARD_UNITS = {
       "text": "spineless"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 20
    },
    {
     "question": "Kevin finished his first year at the university last June. Now he is a __________, and he has to choose his major before the second year ends.",
@@ -1440,7 +1447,8 @@ window.FLASHCARD_UNITS = {
       "text": "sophomore"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 24
    },
    {
     "question": "On our last day in Kyoto, we visited a small shop near the temple. I bought a paper fan as a __________ so that I could remember the trip when I got home.",
@@ -1462,7 +1470,8 @@ window.FLASHCARD_UNITS = {
       "text": "spectacle"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 28
    },
    {
     "question": "The island was ruled by a foreign country for almost a hundred years. In 1960 it finally won its __________ and could make its own laws without asking anyone.",
@@ -1484,7 +1493,8 @@ window.FLASHCARD_UNITS = {
       "text": "spectrum"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "My grandfather still works in his field every spring. He uses a small machine to __________ the rice seeds in neat rows, and by summer the field is green.",
@@ -1506,7 +1516,8 @@ window.FLASHCARD_UNITS = {
       "text": "specify"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "Our old apartment was so small that we could hardly move around. The new house is much more __________, and each child finally has a room of his own.",
@@ -1528,7 +1539,8 @@ window.FLASHCARD_UNITS = {
       "text": "spacious"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 38
    },
    {
     "question": "After I cleaned the windows with soap and water, the morning sun came through them. The glass began to __________ so brightly that it almost hurt my eyes.",
@@ -1550,7 +1562,8 @@ window.FLASHCARD_UNITS = {
       "text": "speculate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "My family doctor could not find out why my knee hurt every morning. She sent me to a __________ in sports injuries, who found the problem in ten minutes.",
@@ -1572,7 +1585,8 @@ window.FLASHCARD_UNITS = {
       "text": "sovereign"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "That small restaurant only has fish and shrimp on the menu. The owners __________ in seafood, and people say it is the best place in town.",
@@ -1594,7 +1608,8 @@ window.FLASHCARD_UNITS = {
       "text": "specialize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "Every town in Taiwan has a food that it is famous for. Sun cakes are the __________ of Taichung, and visitors always buy a few boxes to take home.",
@@ -1616,7 +1631,8 @@ window.FLASHCARD_UNITS = {
       "text": "specimen"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 47
    },
    {
     "question": "The invitation says the party starts in the evening, but it does not say when. Could you ask the host to __________ the exact time so we are not late?",
@@ -1638,7 +1654,8 @@ window.FLASHCARD_UNITS = {
       "text": "sob"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "The biology teacher keeps many insects in glass boxes in the lab. Today she showed us a rare butterfly __________ that was collected in the mountains fifty years ago.",
@@ -1660,7 +1677,8 @@ window.FLASHCARD_UNITS = {
       "text": "spectrum"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "We climbed for three hours in the dark to reach the top before sunrise. The view of the sun coming up over the sea of clouds was truly __________.",
@@ -1682,7 +1700,8 @@ window.FLASHCARD_UNITS = {
       "text": "spectacular"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 58
    },
    {
     "question": "The stadium was full for the final game of the season. Every __________ stood up and cheered when the home team scored the winning goal in the last minute.",
@@ -1704,7 +1723,8 @@ window.FLASHCARD_UNITS = {
       "text": "specialist"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 62
    },
    {
     "question": "In science class we shone white light through a glass prism. On the wall we saw a beautiful __________ of colors, from red at one end to violet at the other.",
@@ -1726,7 +1746,8 @@ window.FLASHCARD_UNITS = {
       "text": "spine"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 66
    },
    {
     "question": "Nobody knows why the school principal suddenly left her job last week. Students continue to __________ about the reason, but the school has not said a word.",
@@ -1748,7 +1769,8 @@ window.FLASHCARD_UNITS = {
       "text": "specialize"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 69
    },
    {
     "question": "A ball, an orange, and the moon all have the same basic shape. In our math class today we learned that this round shape is called a __________.",
@@ -1770,7 +1792,8 @@ window.FLASHCARD_UNITS = {
       "text": "sole"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "I ordered the red curry without knowing how hot it was. It was so __________ that my mouth burned, and I had to drink three glasses of water.",
@@ -1792,7 +1815,8 @@ window.FLASHCARD_UNITS = {
       "text": "spacious"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 77
    },
    {
     "question": "Sitting in a bad position for many hours can cause back problems. Doctors say you should keep your __________ straight when you work at a computer.",
@@ -1814,7 +1838,8 @@ window.FLASHCARD_UNITS = {
       "text": "spine"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 80
    },
    {
     "question": "Tom just finished junior high school and started at the senior high this September. As a __________, he still gets lost in the big building and often asks older students for help.",
@@ -1836,7 +1861,8 @@ window.FLASHCARD_UNITS = {
       "text": "junior"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 25
    },
    {
     "question": "\"Meet me somewhere downtown\" is not a clear plan at all. Please give me a __________ place and time, such as the MRT station exit at six o'clock.",
@@ -1858,7 +1884,8 @@ window.FLASHCARD_UNITS = {
       "text": "spicy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 52
    },
    {
     "question": "The famous actress has not appeared in public for two months. There has been a lot of __________ in the newspapers about whether she is sick, but nobody really knows.",
@@ -1880,7 +1907,8 @@ window.FLASHCARD_UNITS = {
       "text": "speculation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "Thousands of people stood along the river on New Year's Eve. The fireworks lit up the whole sky, and it was a __________ that none of us will ever forget.",
@@ -1902,7 +1930,8 @@ window.FLASHCARD_UNITS = {
       "text": "hemisphere"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 59
    },
    {
     "question": "The project failed, but it is unfair to blame one person. The result was not __________ the manager's fault; the whole team made mistakes along the way.",
@@ -1924,7 +1953,8 @@ window.FLASHCARD_UNITS = {
       "text": "spectacularly"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 15
    }
   ]
  }

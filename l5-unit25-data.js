@@ -1466,7 +1466,8 @@ window.FLASHCARD_UNITS = {
       "text": "pedestrian"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "Scientists use very powerful machines to study the smallest pieces of matter. A single __________ is far too tiny to see even with the best microscope in the school lab.",
@@ -1488,7 +1489,8 @@ window.FLASHCARD_UNITS = {
       "text": "patch"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "The picnic was cancelled for two different reasons. The heavy rain was __________ to blame, but the main problem was that half of the class had caught a bad cold.",
@@ -1510,7 +1512,8 @@ window.FLASHCARD_UNITS = {
       "text": "passionately"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "My cousin talks about old movies for hours and has watched some of them twenty times. She is so __________ about film that she wants to become a director.",
@@ -1532,7 +1535,8 @@ window.FLASHCARD_UNITS = {
       "text": "passionate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 12
    },
    {
     "question": "The bakery near our school sells warm, sweet things every morning before class. My favorite __________ is the one with apples inside and sugar on top.",
@@ -1554,7 +1558,8 @@ window.FLASHCARD_UNITS = {
       "text": "patent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 16
    },
    {
     "question": "There was a small hole in the knee of my favorite jeans. My grandmother sewed a colorful __________ over it, and now the jeans look even cooler than before.",
@@ -1576,7 +1581,8 @@ window.FLASHCARD_UNITS = {
       "text": "patch"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 20
    },
    {
     "question": "The young engineer invented a bottle that keeps drinks cold for two whole days. She applied for a __________ so that no other company could copy her idea.",
@@ -1598,7 +1604,8 @@ window.FLASHCARD_UNITS = {
       "text": "pension"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 25
    },
    {
     "question": "The puppy had been left in the rain all night and was shaking with cold. It looked so __________ that we could not leave it there, so we took it home.",
@@ -1620,7 +1627,8 @@ window.FLASHCARD_UNITS = {
       "text": "passionate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 29
    },
    {
     "question": "Two police officers walk around the night market every evening from seven until midnight. They __________ the area to make sure that visitors feel safe and shops are not robbed.",
@@ -1642,7 +1650,8 @@ window.FLASHCARD_UNITS = {
       "text": "perceive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "The small coffee shop has been open for thirty years in the same street. Mr. Huang is its oldest __________, and he has had breakfast there almost every day.",
@@ -1664,7 +1673,8 @@ window.FLASHCARD_UNITS = {
       "text": "participant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 38
    },
    {
     "question": "Hundreds of years ago, most people in Europe worked on land that belonged to rich lords. A __________ grew food for his family and gave part of it to the lord.",
@@ -1686,7 +1696,8 @@ window.FLASHCARD_UNITS = {
       "text": "performer"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    },
    {
     "question": "The road to the top of the hill was long and very steep. We had to __________ hard for twenty minutes, and our legs were burning when we finally reached the top.",
@@ -1708,7 +1719,8 @@ window.FLASHCARD_UNITS = {
       "text": "patch"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 44
    },
    {
     "question": "Cars must stop at the white lines when the light turns red here. A __________ who wants to cross the busy road should wait for the green walking sign first.",
@@ -1730,7 +1742,8 @@ window.FLASHCARD_UNITS = {
       "text": "patron"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "The walls of the old castle are more than two meters thick. Even the strongest cannon of that time could not __________ them, so the enemy never got inside.",
@@ -1752,7 +1765,8 @@ window.FLASHCARD_UNITS = {
       "text": "participate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 52
    },
    {
     "question": "My grandfather worked for the post office for forty years before he stopped working at sixty-five. Now he receives a monthly __________ from the government to live on.",
@@ -1774,7 +1788,8 @@ window.FLASHCARD_UNITS = {
       "text": "petition"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 56
    },
    {
     "question": "To the teacher, Ben seems lazy because he never raises his hand in class. However, his classmates __________ him very differently, as a quiet boy who helps everyone.",
@@ -1796,7 +1811,8 @@ window.FLASHCARD_UNITS = {
       "text": "perceive"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 60
    },
    {
     "question": "Many people think that Taiwan is always hot, but winters in the north can be cold and wet. Their __________ of the island's weather comes mostly from summer vacation photos.",
@@ -1818,7 +1834,8 @@ window.FLASHCARD_UNITS = {
       "text": "petition"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 61
    },
    {
     "question": "Every Saturday a young man plays the violin outside the MRT station. He is such a talented __________ that passing shoppers often stop for twenty minutes to listen.",
@@ -1840,7 +1857,8 @@ window.FLASHCARD_UNITS = {
       "text": "performer"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 64
    },
    {
     "question": "The doctor gave me some medicine for my cough and told me to rest for a week. She said I should come back if the cough and fever __________ after that.",
@@ -1862,7 +1880,8 @@ window.FLASHCARD_UNITS = {
       "text": "participate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "The hospital is building a new wing and needs more doctors, nurses, and office workers. Its __________ department will interview more than a hundred people next month.",
@@ -1884,7 +1903,8 @@ window.FLASHCARD_UNITS = {
       "text": "personnel"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "In the debate, Mark only talked about how the new rule helps teachers. The judges asked him to also consider the students' __________ before giving his final opinion.",
@@ -1906,7 +1926,8 @@ window.FLASHCARD_UNITS = {
       "text": "performance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 77
    },
    {
     "question": "Whenever we plan a trip, my brother says it will rain, the tickets will be sold out, and we will get lost. His __________ makes everyone tired before we even leave.",
@@ -1928,7 +1949,8 @@ window.FLASHCARD_UNITS = {
       "text": "persistence"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 81
    },
    {
     "question": "The students want the school to open the library on Saturdays. They wrote a __________ asking for the change, and more than five hundred people have already signed it.",
@@ -1950,7 +1972,8 @@ window.FLASHCARD_UNITS = {
       "text": "perspective"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 85
    },
    {
     "question": "The two sisters have not spoken for a week because one of them used the other's hairbrush. Their mother told them to stop fighting over such __________ things.",
@@ -1972,7 +1995,8 @@ window.FLASHCARD_UNITS = {
       "text": "pedestrian"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 88
    },
    {
     "question": "Babies usually cry a lot during their first three months, and then it slowly gets better. The doctor told the worried parents that this __________ would not last long.",
@@ -1994,7 +2018,8 @@ window.FLASHCARD_UNITS = {
       "text": "patch"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 92
    },
    {
     "question": "The school sports day is open to every student, not just the best athletes. Even if you cannot run fast, you can __________ in the tug-of-war or the relay.",
@@ -2016,7 +2041,8 @@ window.FLASHCARD_UNITS = {
       "text": "persist"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 1
    },
    {
     "question": "Since he was five, Leo has spent every free minute drawing comics in his notebook. His parents finally understood his __________ and signed him up for an art class.",
@@ -2038,7 +2064,8 @@ window.FLASHCARD_UNITS = {
       "text": "passion"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 14
    },
    {
     "question": "Amy failed her driving test three times, but she kept practicing every weekend. Her __________ effort finally paid off when she passed the test last month.",
@@ -2060,7 +2087,8 @@ window.FLASHCARD_UNITS = {
       "text": "partial"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 71
    },
    {
     "question": "The weather report said there was a small chance of rain on the day of the trip. My __________ brother immediately said we should cancel it because everything would go wrong.",
@@ -2082,7 +2110,8 @@ window.FLASHCARD_UNITS = {
       "text": "perceptive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 82
    },
    {
     "question": "There are many good restaurants on this street, but my mother always goes to the same one. She loves that __________ place because the owner remembers her favorite dish.",
@@ -2104,7 +2133,8 @@ window.FLASHCARD_UNITS = {
       "text": "particular"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 6
    }
   ]
  }

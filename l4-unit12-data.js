@@ -1496,7 +1496,8 @@ window.FLASHCARD_UNITS = {
       "text": "diplomat"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "Jenny broke her leg six months before the big race. With great __________, she practiced every day after it healed and finally finished the whole marathon.",
@@ -1518,7 +1519,8 @@ window.FLASHCARD_UNITS = {
       "text": "dignity"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "My grandmother cannot hear very well these days. The doctor gave her a small __________ to wear in her ear, and now she can follow our conversations.",
@@ -1540,7 +1542,8 @@ window.FLASHCARD_UNITS = {
       "text": "diploma"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "The students wanted to sell more cookies than last year. They sat down together to __________ a new plan that would bring more customers to their stand.",
@@ -1562,7 +1565,8 @@ window.FLASHCARD_UNITS = {
       "text": "devise"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 12
    },
    {
     "question": "Dr. Wang does not spend much time on hobbies or holidays. She prefers to __________ most of her free time to helping sick animals at the shelter.",
@@ -1584,7 +1588,8 @@ window.FLASHCARD_UNITS = {
       "text": "discourage"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 15
    },
    {
     "question": "I went out to the garden just after sunrise this morning. Every leaf and flower was covered with tiny drops of __________ that shone in the early light.",
@@ -1606,7 +1611,8 @@ window.FLASHCARD_UNITS = {
       "text": "dew"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 19
    },
    {
     "question": "The new bookshelf came in a box with thirty small pieces. Luckily, there was a clear __________ inside that showed us exactly where each piece should go.",
@@ -1628,7 +1634,8 @@ window.FLASHCARD_UNITS = {
       "text": "dewdrop"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 22
    },
    {
     "question": "My brother and I both love music, but our tastes __________ a lot. He listens to loud rock songs, while I prefer quiet piano music at night.",
@@ -1650,7 +1657,8 @@ window.FLASHCARD_UNITS = {
       "text": "detect"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 25
    },
    {
     "question": "You should not go swimming right after a big lunch. Your stomach needs about an hour to __________ the food before you do any hard exercise.",
@@ -1672,7 +1680,8 @@ window.FLASHCARD_UNITS = {
       "text": "discipline"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "My father still uses a watch with hands that move around a circle. I prefer a __________ one that shows the time in numbers, because it is easier to read quickly.",
@@ -1694,7 +1703,8 @@ window.FLASHCARD_UNITS = {
       "text": "disastrous"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "The old teacher lost his job after forty years at the school. Still, he left with __________, shaking hands with everyone and thanking them with a smile.",
@@ -1716,7 +1726,8 @@ window.FLASHCARD_UNITS = {
       "text": "dignity"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "Nobody in the class is smarter than Amy, but her secret is not talent. It is her __________: she studies two hours every single night without being told.",
@@ -1738,7 +1749,8 @@ window.FLASHCARD_UNITS = {
       "text": "discouragement"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 43
    },
    {
     "question": "Mr. Chen's shop is always clean, and every box is in the right place. He is a __________ worker who checks each shelf carefully before he goes home.",
@@ -1760,7 +1772,8 @@ window.FLASHCARD_UNITS = {
       "text": "disappointed"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 44
    },
    {
     "question": "After studying for three years at the cooking school, Kevin finished all his classes. Last Friday, he received his __________ and is now ready to work in a restaurant.",
@@ -1782,7 +1795,8 @@ window.FLASHCARD_UNITS = {
       "text": "digit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "Ms. Lin works for our government in a foreign country. As a __________, she meets leaders from other nations and helps the two countries understand each other.",
@@ -1804,7 +1818,8 @@ window.FLASHCARD_UNITS = {
       "text": "diplomat"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 50
    },
    {
     "question": "Mark lost the use of his legs in a car accident two years ago. His __________ has not stopped him, however, and he now plays basketball in a wheelchair.",
@@ -1826,7 +1841,8 @@ window.FLASHCARD_UNITS = {
       "text": "disadvantage"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 53
    },
    {
     "question": "Our basketball team is much shorter than the other team. That is a big __________, so we will have to run faster and pass the ball more quickly.",
@@ -1848,7 +1864,8 @@ window.FLASHCARD_UNITS = {
       "text": "disadvantage"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "Everyone at the party was waiting to see the famous singer. We did not want to __________ them, so we did not tell them she could not come until the end.",
@@ -1870,7 +1887,8 @@ window.FLASHCARD_UNITS = {
       "text": "devise"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 62
    },
    {
     "question": "A huge typhoon hit the small island last week. The storm was a terrible __________: it destroyed hundreds of homes and left thousands of people without clean water.",
@@ -1892,7 +1910,8 @@ window.FLASHCARD_UNITS = {
       "text": "disorder"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "The new coach is strict, and nobody is allowed to be late for practice. He believes that __________ is the first thing a young team must learn.",
@@ -1914,7 +1933,8 @@ window.FLASHCARD_UNITS = {
       "text": "discipline"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "The mountain is very high, and the path is dangerous in winter. The guides try to __________ tourists from climbing it until the snow melts in spring.",
@@ -1936,7 +1956,8 @@ window.FLASHCARD_UNITS = {
       "text": "encourage"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 75
    },
    {
     "question": "The spy did not want anyone to recognize her at the airport. She decided to __________ herself with a gray wig, thick glasses, and an old brown coat.",
@@ -1958,7 +1979,8 @@ window.FLASHCARD_UNITS = {
       "text": "disguise"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 80
    },
    {
     "question": "Lily opened the lunch box and found green mold all over the bread. She closed it quickly with __________ and threw the whole thing into the trash can.",
@@ -1980,7 +2002,8 @@ window.FLASHCARD_UNITS = {
       "text": "determination"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 84
    },
    {
     "question": "Peter kept coming to work late and sleeping at his desk. After three warnings, the manager finally had to __________ him and look for a new worker.",
@@ -2002,7 +2025,8 @@ window.FLASHCARD_UNITS = {
       "text": "digest"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 89
    },
    {
     "question": "My little brother's room is always a mess. Yesterday his clothes, books, and toys were all over the floor in total __________, and he could not find his shoes.",
@@ -2024,7 +2048,8 @@ window.FLASHCARD_UNITS = {
       "text": "diligence"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 93
    },
    {
     "question": "Tom failed the swimming test twice, but he did not give up. He is __________ to pass it next month, so he goes to the pool every morning before school.",
@@ -2046,7 +2071,8 @@ window.FLASHCARD_UNITS = {
       "text": "digital"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 7
    },
    {
     "question": "The two sisters were born on the same day, but they are not alike at all. Their hobbies, their friends, and even their favorite foods are completely __________.",
@@ -2068,7 +2094,8 @@ window.FLASHCARD_UNITS = {
       "text": "disastrous"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "The children had waited all month for the trip to the zoo. They were very __________ when the teacher said it was canceled because of the heavy rain.",
@@ -2090,7 +2117,8 @@ window.FLASHCARD_UNITS = {
       "text": "diligent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "Someone left a bag of fish in the classroom over the long weekend. When we opened the door on Monday, the smell was so __________ that we all ran outside.",
@@ -2112,7 +2140,8 @@ window.FLASHCARD_UNITS = {
       "text": "digital"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 86
    },
    {
     "question": "Our teacher never laughs at students who make mistakes in English. Instead, she tries to __________ us to keep talking, because practice is the only way to improve.",
@@ -2134,7 +2163,8 @@ window.FLASHCARD_UNITS = {
       "text": "dismiss"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 79
    }
   ]
  }

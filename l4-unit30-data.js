@@ -1196,7 +1196,8 @@ window.FLASHCARD_UNITS = {
       "text": "philosophy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "The salesman spoke so well that my mother bought a vacuum cleaner she did not need. His words were very __________, and she could not say no.",
@@ -1218,7 +1219,8 @@ window.FLASHCARD_UNITS = {
       "text": "poisonous"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 1
    },
    {
     "question": "Whenever we plan a picnic, Ken says it will rain and nobody will come. He is always so __________ that he takes the fun out of everything.",
@@ -1240,7 +1242,8 @@ window.FLASHCARD_UNITS = {
       "text": "physical"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "Small white insects are eating the leaves of every tomato plant in the garden. Dad says we need to get rid of this __________ before it spreads.",
@@ -1262,7 +1265,8 @@ window.FLASHCARD_UNITS = {
       "text": "pest"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "Hundreds of fireflies light up the river bank on summer nights. People come from far away to watch this amazing natural __________ with their own eyes.",
@@ -1284,7 +1288,8 @@ window.FLASHCARD_UNITS = {
       "text": "physician"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "Socrates spent his whole life asking people difficult questions about truth, goodness, and happiness. He is still remembered today as the greatest __________ of ancient Greece.",
@@ -1306,7 +1311,8 @@ window.FLASHCARD_UNITS = {
       "text": "philosopher"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 16
    },
    {
     "question": "Why are we here, and what makes a life good? These are __________ questions that people have been thinking about for more than two thousand years.",
@@ -1328,7 +1334,8 @@ window.FLASHCARD_UNITS = {
       "text": "pickled"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 17
    },
    {
     "question": "At university, my brother reads the works of Plato and Confucius every week. He says studying __________ has taught him how to think more clearly about life.",
@@ -1350,7 +1357,8 @@ window.FLASHCARD_UNITS = {
       "text": "physics"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "Lisa got a new camera for her birthday and now takes pictures everywhere she goes. She hopes to study __________ and work for a magazine one day.",
@@ -1372,7 +1380,8 @@ window.FLASHCARD_UNITS = {
       "text": "philosophy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 21
    },
    {
     "question": "Sitting in front of a computer all day is bad for your health. Doctors suggest at least thirty minutes of __________ activity, like running or swimming, every day.",
@@ -1394,7 +1403,8 @@ window.FLASHCARD_UNITS = {
       "text": "physical"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 26
    },
    {
     "question": "My grandfather has had a bad cough for two weeks and feels weak. Mom wants him to see a __________ tomorrow instead of just resting at home.",
@@ -1416,7 +1426,8 @@ window.FLASHCARD_UNITS = {
       "text": "physicist"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 30
    },
    {
     "question": "Dr. Wang studies how light moves and why objects fall. As a __________, she spends most of her time doing experiments in a laboratory at the university.",
@@ -1438,7 +1449,8 @@ window.FLASHCARD_UNITS = {
       "text": "physicist"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 31
    },
    {
     "question": "Our teacher dropped a feather and a coin at the same time to show how gravity works. I love __________ class because we do interesting experiments like this every week.",
@@ -1460,7 +1472,8 @@ window.FLASHCARD_UNITS = {
       "text": "popularity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 32
    },
    {
     "question": "Grandma keeps cabbage in big jars with salt and vinegar for a few weeks. The sour __________ she makes goes perfectly with a bowl of hot rice.",
@@ -1482,7 +1495,8 @@ window.FLASHCARD_UNITS = {
       "text": "plum"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 34
    },
    {
     "question": "Fifty years ago, almost nobody believed that computers could fit in a pocket. Steve Jobs was a __________ who helped turn that strange dream into something real.",
@@ -1504,7 +1518,8 @@ window.FLASHCARD_UNITS = {
       "text": "plumber"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 38
    },
    {
     "question": "After a week of heavy rain, the river is full and the fields are green. Water is __________ now, so farmers do not have to worry about their crops.",
@@ -1526,7 +1541,8 @@ window.FLASHCARD_UNITS = {
       "text": "possessive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    },
    {
     "question": "The novel is about a poor boy who becomes a king after many adventures. The __________ is exciting, but the ending is a little too easy to guess.",
@@ -1548,7 +1564,8 @@ window.FLASHCARD_UNITS = {
       "text": "pest"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 44
    },
    {
     "question": "This small, round fruit has purple skin and a hard seed in the center. Its sweet and sour taste makes it perfect for jam, and we call it a __________.",
@@ -1570,7 +1587,8 @@ window.FLASHCARD_UNITS = {
       "text": "plumber"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "Water keeps leaking from the pipe under the kitchen sink, and the floor is wet. We need a __________ to come and fix it as soon as possible.",
@@ -1592,7 +1610,8 @@ window.FLASHCARD_UNITS = {
       "text": "photographer"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 51
    },
    {
     "question": "Be careful when you walk in the long grass near the river. Some snakes there are __________, and one bite can send a person to the hospital.",
@@ -1614,7 +1633,8 @@ window.FLASHCARD_UNITS = {
       "text": "plentiful"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 54
    },
    {
     "question": "Grandpa's old car still looks new after twenty years. Every Sunday morning, he washes it carefully and then spends an hour trying to __________ it until it shines.",
@@ -1636,7 +1656,8 @@ window.FLASHCARD_UNITS = {
       "text": "persuade"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 58
    },
    {
     "question": "Ten years ago, few people outside Taiwan had heard of bubble tea. Today its __________ has spread around the world, and you can buy it in London and New York.",
@@ -1658,7 +1679,8 @@ window.FLASHCARD_UNITS = {
       "text": "portability"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 62
    },
    {
     "question": "This small speaker weighs less than a phone and runs on a battery for ten hours. Because it is so __________, I take it to the beach and on camping trips.",
@@ -1680,7 +1702,8 @@ window.FLASHCARD_UNITS = {
       "text": "portable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "In the new movie, the famous actor plays a kind doctor who works in a poor village. Critics say he is able to __________ the character with great warmth.",
@@ -1702,7 +1725,8 @@ window.FLASHCARD_UNITS = {
       "text": "possess"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "To be a good leader, a person needs more than a loud voice. He or she must also __________ patience, honesty, and the ability to listen to others.",
@@ -1724,7 +1748,8 @@ window.FLASHCARD_UNITS = {
       "text": "possess"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "My parents thought a trip to Japan would be too expensive. It took me a whole month to __________ them that we could travel cheaply by staying in small hotels.",
@@ -1746,7 +1771,8 @@ window.FLASHCARD_UNITS = {
       "text": "pioneer"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 2
    },
    {
     "question": "Our team lost the first two games, but the captain still smiles and says we will win the cup. Her __________ attitude keeps everyone trying hard.",
@@ -1768,7 +1794,8 @@ window.FLASHCARD_UNITS = {
       "text": "optimistic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 7
    },
    {
     "question": "The farmer put some __________ in the corner of the barn to kill the rats. He warned the children never to touch the small blue pills there.",
@@ -1790,7 +1817,8 @@ window.FLASHCARD_UNITS = {
       "text": "plum"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 55
    },
    {
     "question": "At the wedding, a man with two big cameras ran around taking pictures of every guest. The __________ promised that the photos would be ready in a week.",
@@ -1812,7 +1840,8 @@ window.FLASHCARD_UNITS = {
       "text": "physicist"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 23
    },
    {
     "question": "The police stopped the car and found a stolen laptop inside. The driver was arrested because he was in __________ of something that did not belong to him.",
@@ -1834,7 +1863,8 @@ window.FLASHCARD_UNITS = {
       "text": "persuasion"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    }
   ]
  }

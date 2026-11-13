@@ -1271,7 +1271,8 @@ window.FLASHCARD_UNITS = {
       "text": "coarse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "This towel feels rough and scratches my skin when I dry my face. The cloth is too __________, so I think we should buy a softer one for the baby.",
@@ -1293,7 +1294,8 @@ window.FLASHCARD_UNITS = {
       "text": "communal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "You cannot open this door just by pushing it. You have to enter a four-number __________ on the small box next to it, and only the teachers know the numbers.",
@@ -1315,7 +1317,8 @@ window.FLASHCARD_UNITS = {
       "text": "concept"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 6
    },
    {
     "question": "The old building was shaking badly during the earthquake last night. Luckily, everyone got out before the roof started to __________ onto the wet floor below.",
@@ -1337,7 +1340,8 @@ window.FLASHCARD_UNITS = {
       "text": "collapse"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 11
    },
    {
     "question": "My father has worked at the same bank for twenty years. He often has lunch with a __________ from his office, and they talk about their work and their families.",
@@ -1359,7 +1363,8 @@ window.FLASHCARD_UNITS = {
       "text": "composer"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 14
    },
    {
     "question": "The lock on my bike needs three numbers to open. I forgot the right __________, so I had to wait in the rain until my sister came to help me.",
@@ -1381,7 +1386,8 @@ window.FLASHCARD_UNITS = {
       "text": "combination"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 17
    },
    {
     "question": "I do not want to watch a sad or scary movie tonight. Let's choose a __________ instead, because I really need something that will make me laugh after this hard week.",
@@ -1403,7 +1409,8 @@ window.FLASHCARD_UNITS = {
       "text": "companion"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 21
    },
    {
     "question": "The soldiers waited quietly in the dark for their orders. At last, the __________ raised his hand and told them to move forward toward the river.",
@@ -1425,7 +1432,8 @@ window.FLASHCARD_UNITS = {
       "text": "commander"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 25
    },
    {
     "question": "I posted a photo of my new painting online last night. By this morning, more than fifty people had left a __________ under it, and most of them were very kind.",
@@ -1447,7 +1455,8 @@ window.FLASHCARD_UNITS = {
       "text": "commerce"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 29
    },
    {
     "question": "Hundreds of years ago, ships from many countries came to this port to buy tea and silk. This busy __________ made the city rich, and many beautiful houses were built here.",
@@ -1469,7 +1478,8 @@ window.FLASHCARD_UNITS = {
       "text": "clumsiness"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    },
    {
     "question": "The man said he was at home watching TV on the night of the robbery. The police have no proof that he did __________ the crime, so they let him go.",
@@ -1491,7 +1501,8 @@ window.FLASHCARD_UNITS = {
       "text": "collapse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "When my grandparents were young, letters took weeks to arrive. Today, __________ is much faster, and we can send a message across the world in one second.",
@@ -1513,7 +1524,8 @@ window.FLASHCARD_UNITS = {
       "text": "composition"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 43
    },
    {
     "question": "After the big flood, people from the whole __________ came to help. Neighbors shared food, cleaned the streets, and gave clothes to the families who had lost everything.",
@@ -1535,7 +1547,8 @@ window.FLASHCARD_UNITS = {
       "text": "commentary"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 47
    },
    {
     "question": "My grandmother lives alone, so last year she got a small dog. Now the dog goes everywhere with her, and she says he is the best __________ she has ever had.",
@@ -1557,7 +1570,8 @@ window.FLASHCARD_UNITS = {
       "text": "commander"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "More than a hundred students entered the school singing __________ this year. Only ten of them were chosen to perform in the final show next Friday.",
@@ -1579,7 +1593,8 @@ window.FLASHCARD_UNITS = {
       "text": "concentration"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "My sister hates losing at anything, even a simple game of cards. She is so __________ that she practices for hours just to beat her friends at table tennis.",
@@ -1601,7 +1616,8 @@ window.FLASHCARD_UNITS = {
       "text": "competitive"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 56
    },
    {
     "question": "Every __________ in the race must wear a large number on his or her shirt. This helps the judges know who finishes first, second, and third.",
@@ -1623,7 +1639,8 @@ window.FLASHCARD_UNITS = {
       "text": "commentator"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 57
    },
    {
     "question": "The plan for the party was simple at first: just pizza and a movie. Then my aunt tried to add dancing and games, which only served to __________ things.",
@@ -1645,7 +1662,8 @@ window.FLASHCARD_UNITS = {
       "text": "concentrate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 60
    },
    {
     "question": "Beethoven could not hear well in his later years. Even so, he continued to __________ beautiful music, and some of his greatest works were written during that time.",
@@ -1667,7 +1685,8 @@ window.FLASHCARD_UNITS = {
       "text": "compose"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 64
    },
    {
     "question": "Mozart wrote his first piece of music when he was only five years old. Many people around the world believe he was the greatest __________ who ever lived.",
@@ -1689,7 +1708,8 @@ window.FLASHCARD_UNITS = {
       "text": "commander"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 65
    },
    {
     "question": "For English class, we had to write a __________ about our dream job. I wrote three pages about becoming a doctor and helping children in poor countries.",
@@ -1711,7 +1731,8 @@ window.FLASHCARD_UNITS = {
       "text": "competition"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "The library is the best place for me to study. It is quiet there, so I can __________ on my reading without being disturbed by my noisy brothers.",
@@ -1733,7 +1754,8 @@ window.FLASHCARD_UNITS = {
       "text": "compose"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 69
    },
    {
     "question": "Playing the piano well takes more than fast fingers. It also needs great __________, because you must read the notes, count the beats, and listen to yourself at the same time.",
@@ -1755,7 +1777,8 @@ window.FLASHCARD_UNITS = {
       "text": "companionship"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "Before the age of five, most children do not understand the __________ of money. They do not know why a toy that costs 1,000 dollars is too expensive to buy.",
@@ -1777,7 +1800,8 @@ window.FLASHCARD_UNITS = {
       "text": "comedy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "The number of young children who cannot see the board clearly is growing. Eye doctors find this __________ and say that too much screen time may be the main reason.",
@@ -1799,7 +1823,8 @@ window.FLASHCARD_UNITS = {
       "text": "complicated"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 77
    },
    {
     "question": "Our school team is not very strong this year, but the players still want to __________ with the best teams in the city. They believe practice will make them better.",
@@ -1821,7 +1846,8 @@ window.FLASHCARD_UNITS = {
       "text": "complicate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 58
    },
    {
     "question": "The dog is well trained and listens to its owner at once. With one short __________, it sits, stays, or runs back to her side without any trouble.",
@@ -1843,7 +1869,8 @@ window.FLASHCARD_UNITS = {
       "text": "command"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 26
    },
    {
     "question": "The small farm used to grow vegetables only for the family. Now it has become a __________ business that sells fruit and jam to supermarkets all over the island.",
@@ -1865,7 +1892,8 @@ window.FLASHCARD_UNITS = {
       "text": "communal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 35
    },
    {
     "question": "The instructions for building this desk are long and very __________. There are over sixty steps, and some of the pictures do not match the words at all.",
@@ -1887,7 +1915,8 @@ window.FLASHCARD_UNITS = {
       "text": "complicated"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "When you travel to a country whose language you do not speak, do not worry too much. You can still __________ with people by using simple words, pictures, and hand signs.",
@@ -1909,7 +1938,8 @@ window.FLASHCARD_UNITS = {
       "text": "conceive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 44
    }
   ]
  }

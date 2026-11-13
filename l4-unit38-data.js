@@ -1436,7 +1436,8 @@ window.FLASHCARD_UNITS = {
       "text": "technician"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "My uncle broke his leg badly when he fell off his bike last week. The bone could not heal by itself, so he needed __________ to put a metal plate inside.",
@@ -1458,7 +1459,8 @@ window.FLASHCARD_UNITS = {
       "text": "surgery"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 1
    },
    {
     "question": "The soldiers had no food or water left, and the enemy had surrounded the fort for days. In the end, they had to __________ and walk out with their hands up.",
@@ -1480,7 +1482,8 @@ window.FLASHCARD_UNITS = {
       "text": "tolerate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "Our family moved from a big city to a quiet mountain town last month. It took me a while to get used to my new __________, with no traffic and only the sound of birds.",
@@ -1502,7 +1505,8 @@ window.FLASHCARD_UNITS = {
       "text": "telescope"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "A man in a long coat walked around the parking lot for an hour, looking into every car. The guard thought he was __________, so he called the police.",
@@ -1524,7 +1528,8 @@ window.FLASHCARD_UNITS = {
       "text": "suspicious"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 13
    },
    {
     "question": "The wind is getting stronger, and the typhoon will arrive tonight. Look at the tall trees outside; they have already started to __________ from side to side.",
@@ -1546,7 +1551,8 @@ window.FLASHCARD_UNITS = {
       "text": "suspect"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 18
    },
    {
     "question": "Say the word \"banana\" slowly and clap your hands once for each part of the word. You will clap three times, because the word has three parts, and each part is called a __________.",
@@ -1568,7 +1574,8 @@ window.FLASHCARD_UNITS = {
       "text": "suspect"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 22
    },
    {
     "question": "When I told my teacher that my dog had died, she did not just say \"sorry.\" She was so __________ that she sat with me and listened to my stories about him for an hour.",
@@ -1590,7 +1597,8 @@ window.FLASHCARD_UNITS = {
       "text": "sympathetic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 26
    },
    {
     "question": "After the big fire, hundreds of people sent cards and money to the families who lost their homes. They wanted to show their __________ for the people in trouble.",
@@ -1612,7 +1620,8 @@ window.FLASHCARD_UNITS = {
       "text": "tendency"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "The scientist did not just guess which medicine would work. She did a __________ study, testing each one in the same way and writing down every result.",
@@ -1634,7 +1643,8 @@ window.FLASHCARD_UNITS = {
       "text": "timid"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "Our internet stopped working yesterday, and nobody at home could fix it. This morning a __________ from the phone company came and found a broken wire.",
@@ -1656,7 +1666,8 @@ window.FLASHCARD_UNITS = {
       "text": "surgeon"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "Twenty years ago, few people had a camera, a map, and a music player in one pocket. The smartphone is one of the biggest __________ changes of our time.",
@@ -1678,7 +1689,8 @@ window.FLASHCARD_UNITS = {
       "text": "timid"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    },
    {
     "question": "Before the telephone was invented, people used electric signals sent along wires to send messages. This system was called the __________, and it was much faster than letters.",
@@ -1700,7 +1712,8 @@ window.FLASHCARD_UNITS = {
       "text": "timetable"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 43
    },
    {
     "question": "On a clear night, you can see the moon with your eyes, but not its mountains. If you look through a __________, however, you can see them very clearly.",
@@ -1722,7 +1735,8 @@ window.FLASHCARD_UNITS = {
       "text": "telegraph"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "My brother always leaves his homework until Sunday night and then stays up very late. He has a __________ to do everything at the last minute.",
@@ -1744,7 +1758,8 @@ window.FLASHCARD_UNITS = {
       "text": "terror"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 51
    },
    {
     "question": "The test results will be given out in five minutes, and nobody in the classroom is talking. Everyone is so __________ that you can hear the clock ticking.",
@@ -1766,7 +1781,8 @@ window.FLASHCARD_UNITS = {
       "text": "tolerant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "The two brothers have not spoken to each other since they fought over their father's house. There is still a lot of __________ between them at family dinners.",
@@ -1788,7 +1804,8 @@ window.FLASHCARD_UNITS = {
       "text": "sympathy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 56
    },
    {
     "question": "When the lights suddenly went out during the ghost story, the children screamed in __________. Some of them even ran out of the room to find their parents.",
@@ -1810,7 +1827,8 @@ window.FLASHCARD_UNITS = {
       "text": "theme"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 60
    },
    {
     "question": "This year our school festival is all about the ocean. Because that is the __________, every class is decorating its room with fish, waves, and ships.",
@@ -1832,7 +1850,8 @@ window.FLASHCARD_UNITS = {
       "text": "theme"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 65
    },
    {
     "question": "The doctor did not just look at my throat and send me home. She did a __________ check of my heart, blood, and eyes before she said I was healthy.",
@@ -1854,7 +1873,8 @@ window.FLASHCARD_UNITS = {
       "text": "tense"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 69
    },
    {
     "question": "When Amy heard that I was sick, she brought me hot soup and some medicine after school. It was very __________ of her to think of me like that.",
@@ -1876,7 +1896,8 @@ window.FLASHCARD_UNITS = {
       "text": "technological"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "My little sister laughs so hard that she can hardly breathe whenever I touch her feet lightly. She begs me to stop, but she loves it when I __________ her.",
@@ -1898,7 +1919,8 @@ window.FLASHCARD_UNITS = {
       "text": "sway"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 77
    },
    {
     "question": "We want to take the last train home tonight, but we are not sure what time it leaves. Let's check the __________ at the station before we go to dinner.",
@@ -1920,7 +1942,8 @@ window.FLASHCARD_UNITS = {
       "text": "timetable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 81
    },
    {
     "question": "The new girl in our class is very shy. She is so __________ that she did not say a word to anyone during her whole first week at school.",
@@ -1942,7 +1965,8 @@ window.FLASHCARD_UNITS = {
       "text": "tolerant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 85
    },
    {
     "question": "The hotel room was small and a little noisy, but it was clean and the bed was comfortable. For one night, the room was __________, so we did not complain.",
@@ -1964,7 +1988,8 @@ window.FLASHCARD_UNITS = {
       "text": "suspicious"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 89
    },
    {
     "question": "The police think the man in the gray jacket stole the bag, but they are not sure yet. They have asked the __________ to come to the station and answer some questions.",
@@ -1986,7 +2011,8 @@ window.FLASHCARD_UNITS = {
       "text": "technician"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 15
    },
    {
     "question": "When I asked the computer shop why my laptop was so slow, the clerk used many big words that I did not understand. The problem was too __________ for me.",
@@ -2008,7 +2034,8 @@ window.FLASHCARD_UNITS = {
       "text": "technical"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 37
    },
    {
     "question": "Our teacher is kind, but she will not __________ phones in class. If she sees one, she keeps it in her desk until the end of the week.",
@@ -2030,7 +2057,8 @@ window.FLASHCARD_UNITS = {
       "text": "sway"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 90
    },
    {
     "question": "Walking into a crowded party makes some people nervous. Jim is no exception, and he usually __________ stands by the door until a friend comes to talk to him.",
@@ -2052,7 +2080,8 @@ window.FLASHCARD_UNITS = {
       "text": "timidly"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 86
    },
    {
     "question": "Many of my classmates are shy, but not Lily. When the house next door caught fire, the __________ girl ran inside to carry out the neighbor's old dog.",
@@ -2074,7 +2103,8 @@ window.FLASHCARD_UNITS = {
       "text": "tense"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 88
    }
   ]
  }

@@ -263,10 +263,12 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
   <div class="arena" id="arena"></div>
 </div>
 
+<script src="tracker-config.js?v=20261113b"></script>
+<script src="tracker.js?v=20261113b"></script>
 <script src="vendor/xlsx.full.min.js"></script>
-<script src="l4-dashboard-data.js?v=20261113a"></script>
-<script src="l5-dashboard-data.js?v=20261113a"></script>
-<script src="l6-dashboard-data.js?v=20261113a"></script>
+<script src="l4-dashboard-data.js?v=20261113b"></script>
+<script src="l5-dashboard-data.js?v=20261113b"></script>
+<script src="l6-dashboard-data.js?v=20261113b"></script>
 <script>
 /* =========================================================
    DATA — the board's review list (localStorage), any zone
@@ -282,9 +284,13 @@ Object.entries(BOOKS).forEach(([book,cfg])=>cfg.units.forEach(u=>u.cards.forEach
 const POOL={};
 Object.keys(BOOKS).forEach(b=>{POOL[b]=[...lookup.values()].filter(c=>c.book===b);});
 
+// A teacher test link (review-arcade.html#set=4-1:3,4-2:7&label=Name) tests those words instead of the student's own list.
+const HASH=new URLSearchParams(location.hash.slice(1));
+const SET_KEYS=(HASH.get('set')||'').split(',').filter(k=>lookup.has(k)).slice(0,100);
+const SET_LABEL=(HASH.get('label')||'').slice(0,40);
 function loadReview(){
   const seen=new Set();
-  return readStore(STORE_KEY,[]).map(k=>lookup.get(k)).filter(c=>{if(!c||!c.w)return false;const w=c.w.toLowerCase();if(seen.has(w))return false;seen.add(w);return true;});
+  return (SET_KEYS.length?SET_KEYS:readStore(STORE_KEY,[])).map(k=>lookup.get(k)).filter(c=>{if(!c||!c.w)return false;const w=c.w.toLowerCase();if(seen.has(w))return false;seen.add(w);return true;});
 }
 
 /* =========================================================
@@ -516,7 +522,14 @@ document.addEventListener('keydown',e=>{
   if(!state.answered&&/^[1-4]$/.test(e.key)){const b=document.querySelectorAll('.opt')[+e.key-1];if(b)b.click();}
   else if(state.answered&&e.key==='Enter'&&document.activeElement!==$('#nextBtn')&&e.target.tagName!=='A'){e.preventDefault();$('#nextBtn').click();}
 });
+function reportRun(){
+  if(!window.GsatTracker||!state.log.length)return;
+  const levels=[...new Set(state.log.map(r=>r.card.book.slice(1)))].sort().join(',');
+  GsatTracker.logTest({type:SET_KEYS.length?'Teacher test':'Review game',level:levels,group:'',total:state.log.length,
+    correct:state.log.filter(r=>r.ok).length,wrong:state.log.filter(r=>!r.ok).map(r=>({w:r.card.w,key:r.card.key})),label:SET_LABEL});
+}
 function finish(){
+  reportRun();
   closeGame();
   $('#quiz').classList.add('hidden');$('#summary').classList.remove('hidden');
   $('#sTotal').textContent=state.log.length;$('#sRight').textContent=state.right;$('#sWrong').textContent=state.wrong;$('#sScore').textContent=state.score;
@@ -821,6 +834,11 @@ function gameSling(){
 buildSetup();renderPips();
 // The list can change in another tab (board / card pages): refresh the setup while it is showing.
 window.addEventListener('storage',e=>{if((e.key===STORE_KEY)&&!$('#setup').classList.contains('hidden')){location.reload();}});
+
+if(SET_KEYS.length){
+  document.querySelector('.brand h1 small').textContent='老師指定測驗 Teacher test'+(SET_LABEL?'：'+SET_LABEL:'')+'｜每答對 10 題進入一分鐘小遊戲';
+  document.querySelector('#setupTitle').childNodes[1].textContent='老師指定的單字 ';
+}
 </script>
 </body>
 </html>

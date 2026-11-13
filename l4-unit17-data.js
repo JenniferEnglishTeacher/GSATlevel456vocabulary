@@ -1451,7 +1451,8 @@ window.FLASHCARD_UNITS = {
       "text": "fluent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "It was snowing outside, and the little house was very cold. Grandpa put more wood into the __________ so that the children could warm their hands by the fire.",
@@ -1473,7 +1474,8 @@ window.FLASHCARD_UNITS = {
       "text": "frame"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "Jenny knows that her boss likes to hear nice things about himself. She tries to __________ him every morning by saying how smart and handsome he looks.",
@@ -1495,7 +1497,8 @@ window.FLASHCARD_UNITS = {
       "text": "forbid"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "My dog has been scratching his neck all day and cannot sleep. The vet looked closely at his fur and found a tiny __________ jumping around in it.",
@@ -1517,7 +1520,8 @@ window.FLASHCARD_UNITS = {
       "text": "foam"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 12
    },
    {
     "question": "Thick black smoke suddenly filled the shopping mall on Sunday afternoon. Hundreds of frightened people had to __________ the building as quickly as they could through the nearest exit.",
@@ -1539,7 +1543,8 @@ window.FLASHCARD_UNITS = {
       "text": "fortify"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 15
    },
    {
     "question": "Amy works from home and can start her day whenever she likes. She loves her __________ hours because she can take her kids to school first every morning.",
@@ -1561,7 +1566,8 @@ window.FLASHCARD_UNITS = {
       "text": "fluent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "Peter has lived in France since he was five years old. He is now __________ in French and often helps his parents talk to the neighbors and his teachers.",
@@ -1583,7 +1589,8 @@ window.FLASHCARD_UNITS = {
       "text": "flexible"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 23
    },
    {
     "question": "Some people forget to do one important thing after using the restroom. Please remember to __________ the toilet and wash your hands with soap before you leave.",
@@ -1605,7 +1612,8 @@ window.FLASHCARD_UNITS = {
       "text": "flush"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 27
    },
    {
     "question": "Dad poured the beer into the glass too quickly. White __________ rose to the top at once and ran down the side of the glass onto the table.",
@@ -1627,7 +1635,8 @@ window.FLASHCARD_UNITS = {
       "text": "frown"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "In our school, students are not allowed to bring snacks into the computer room. The rules __________ eating and drinking there because food can damage the keyboards.",
@@ -1649,7 +1658,8 @@ window.FLASHCARD_UNITS = {
       "text": "forecast"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 35
    },
    {
     "question": "We are planning a picnic by the river this Saturday. According to the weather __________, it will be sunny all day, so we do not need umbrellas.",
@@ -1671,7 +1681,8 @@ window.FLASHCARD_UNITS = {
       "text": "foundation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 38
    },
    {
     "question": "The geese flew over the lake in the cold early morning. They moved across the sky in a perfect V-shaped __________, with the strongest leader at the front.",
@@ -1693,7 +1704,8 @@ window.FLASHCARD_UNITS = {
       "text": "frequency"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "Finding the area of a triangle is easy if you remember one simple rule. Our teacher wrote the __________ on the board, and we used it to solve ten problems.",
@@ -1715,7 +1727,8 @@ window.FLASHCARD_UNITS = {
       "text": "formula"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 48
    },
    {
     "question": "Long ago, soldiers built a strong stone building on the hill to protect the town. Today, the old __________ is a popular place for tourists to take photos.",
@@ -1737,7 +1750,8 @@ window.FLASHCARD_UNITS = {
       "text": "foundation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    },
    {
     "question": "The bus I usually take broke down on the highway this morning. I was very __________ that I had left home early and caught the earlier one.",
@@ -1759,7 +1773,8 @@ window.FLASHCARD_UNITS = {
       "text": "fragile"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 54
    },
    {
     "question": "Scientists found something interesting in the rocks near the river last month. It was the __________ of a fish that lived there more than a million years ago.",
@@ -1781,7 +1796,8 @@ window.FLASHCARD_UNITS = {
       "text": "flea"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    },
    {
     "question": "The tall building must not fall down in an earthquake. Workers spent six months making its __________ strong and deep before they built the first floor.",
@@ -1803,7 +1819,8 @@ window.FLASHCARD_UNITS = {
       "text": "frequency"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "This famous coffee shop started as a small cart on the street forty years ago. Its __________, Mr. Lee, is now eighty and still visits the shop every morning.",
@@ -1825,7 +1842,8 @@ window.FLASHCARD_UNITS = {
       "text": "fortress"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "The box contains glasses and plates from my grandmother's kitchen. Everything inside is very __________, so please carry it with both hands and do not drop it.",
@@ -1847,7 +1865,8 @@ window.FLASHCARD_UNITS = {
       "text": "fragile"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 68
    },
    {
     "question": "This is the photo we took on the last day of our trip to Japan. I want to put it in a wooden __________ and hang it on my bedroom wall.",
@@ -1869,7 +1888,8 @@ window.FLASHCARD_UNITS = {
       "text": "formula"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 71
    },
    {
     "question": "Our city has added more buses on the busiest route. Now the __________ of buses has increased, and people wait only five minutes instead of twenty during rush hour.",
@@ -1891,7 +1911,8 @@ window.FLASHCARD_UNITS = {
       "text": "fragility"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 76
    },
    {
     "question": "Tom started university only last month and does not know many people yet. As a __________, he is still learning where every building and classroom is on the big campus.",
@@ -1913,7 +1934,8 @@ window.FLASHCARD_UNITS = {
       "text": "freshman"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 80
    },
    {
     "question": "The temperature dropped below zero last night in the mountains. This morning, the grass and the car windows were covered with white __________, and the road was slippery.",
@@ -1935,7 +1957,8 @@ window.FLASHCARD_UNITS = {
       "text": "fire"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 84
    },
    {
     "question": "Mom looked at my report card and did not say anything at first. Then she began to __________ when she saw that my math score was lower than last time.",
@@ -1957,7 +1980,8 @@ window.FLASHCARD_UNITS = {
       "text": "frown"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 88
    },
    {
     "question": "Lisa has tried to fix the old printer five times, but it still does not work. Problems like this really __________ her because she has no time to waste before the deadline.",
@@ -1979,7 +2003,8 @@ window.FLASHCARD_UNITS = {
       "text": "forecast"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 91
    },
    {
     "question": "Mr. Huang started selling bubble tea in Europe twenty years ago. He made a __________ from his business and now owns a big house by the sea.",
@@ -2001,7 +2026,8 @@ window.FLASHCARD_UNITS = {
       "text": "fossil"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "In May and June, it rains almost every afternoon in Taipei. Because showers are so __________ at that time, most people carry an umbrella everywhere they go.",
@@ -2023,7 +2049,8 @@ window.FLASHCARD_UNITS = {
       "text": "frequent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 77
    },
    {
     "question": "My cousin is getting married in a big hotel next Saturday. The wedding is a __________ event, so I need to wear a suit and tie instead of my jeans.",
@@ -2045,7 +2072,8 @@ window.FLASHCARD_UNITS = {
       "text": "frosty"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 46
    },
    {
     "question": "My mother always goes to the market at six in the morning. She says the fish and vegetables are __________ at that time, and the prices are lower too.",
@@ -2067,7 +2095,8 @@ window.FLASHCARD_UNITS = {
       "text": "fortunate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 81
    },
    {
     "question": "I have been waiting for the bus for almost an hour in the rain. Now I feel so __________ that I am thinking about walking all the way home.",
@@ -2089,7 +2118,8 @@ window.FLASHCARD_UNITS = {
       "text": "frustrated"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 92
    }
   ]
  }

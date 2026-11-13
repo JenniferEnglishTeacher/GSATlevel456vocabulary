@@ -1121,7 +1121,8 @@ window.FLASHCARD_UNITS = {
       "text": "expedition"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "The elevator can carry twelve people at most. If the number of people inside begins to __________ that limit, a loud sound will warn everyone to step out and wait.",
@@ -1143,7 +1144,8 @@ window.FLASHCARD_UNITS = {
       "text": "exclaim"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 3
    },
    {
     "question": "Most students in the class got around seventy points on the test. Jenny, however, got a perfect score, and the teacher praised her __________ work in front of everyone.",
@@ -1165,7 +1167,8 @@ window.FLASHCARD_UNITS = {
       "text": "exotic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "Eating a little chocolate now and then is fine for your health. However, __________ amounts of sugar every day can lead to serious problems like bad teeth and weight gain.",
@@ -1187,7 +1190,8 @@ window.FLASHCARD_UNITS = {
       "text": "extraordinary"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "When the lights came on, Amy saw all her friends standing in the living room. \"I can't believe you did this for me!\" she began to __________ with tears in her eyes.",
@@ -1209,7 +1213,8 @@ window.FLASHCARD_UNITS = {
       "text": "exclaim"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 12
    },
    {
     "question": "The team only has room for eleven players on the field. The coach had to __________ three boys from the final game, and they watched sadly from the side.",
@@ -1231,7 +1236,8 @@ window.FLASHCARD_UNITS = {
       "text": "fabricate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 15
    },
    {
     "question": "This new phone will not be sold in ordinary stores for the first month. The company is making it __________ to its own website, so you must order it online to get one.",
@@ -1253,7 +1259,8 @@ window.FLASHCARD_UNITS = {
       "text": "exclusive"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 16
    },
    {
     "question": "The students spent a month planning the school fair. On the big day, they had to __________ their plan carefully, setting up every booth and game before the gates opened.",
@@ -1275,7 +1282,8 @@ window.FLASHCARD_UNITS = {
       "text": "exile"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 20
    },
    {
     "question": "The plan for cleaning the beach sounded simple on paper. However, its __________ was difficult, because the wind was strong and half of the volunteers arrived late.",
@@ -1297,7 +1305,8 @@ window.FLASHCARD_UNITS = {
       "text": "exploration"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 22
    },
    {
     "question": "Ms. Chen makes the most important decisions at the company and manages hundreds of workers. As a senior __________, she often works late and travels abroad every month.",
@@ -1319,7 +1328,8 @@ window.FLASHCARD_UNITS = {
       "text": "explorer"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 23
    },
    {
     "question": "After the king lost the war, he was forced to leave the country and could never return. He lived in __________ in a foreign land until the day he died.",
@@ -1341,7 +1351,8 @@ window.FLASHCARD_UNITS = {
       "text": "expertise"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "Every year, the night market invites cooks from faraway countries. Visitors line up to taste __________ dishes made with fruits and spices that are not grown in Taiwan.",
@@ -1363,7 +1374,8 @@ window.FLASHCARD_UNITS = {
       "text": "exotic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 29
    },
    {
     "question": "The scientists packed warm clothes, tents, and food for sixty days. Their __________ to the frozen land of the South Pole would be long, cold, and full of danger.",
@@ -1385,7 +1397,8 @@ window.FLASHCARD_UNITS = {
       "text": "execution"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "Dr. Wu has studied earthquakes for over thirty years. Because of his great __________, the government asked him to check whether the old bridge was still safe to use.",
@@ -1407,7 +1420,8 @@ window.FLASHCARD_UNITS = {
       "text": "exploitation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 35
    },
    {
     "question": "The rules of the camp were written in large letters on a sign at the gate. They were so clear and __________ that no child could say later that they did not understand.",
@@ -1429,7 +1443,8 @@ window.FLASHCARD_UNITS = {
       "text": "exotic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    },
    {
     "question": "The factory pays its workers very little and makes them work twelve hours a day with no rest. People say the owner likes to __________ the poor who cannot find other jobs.",
@@ -1451,7 +1466,8 @@ window.FLASHCARD_UNITS = {
       "text": "exclaim"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 42
    },
    {
     "question": "Humans have sent machines to the bottom of the ocean, but there is still much we do not know. The __________ of the deep sea will take many more years of hard work.",
@@ -1473,7 +1489,8 @@ window.FLASHCARD_UNITS = {
       "text": "exploration"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "I was sick for a week and could not finish my science report on time. Luckily, the teacher gave me a three-day __________, so I handed it in on Friday instead.",
@@ -1495,7 +1512,8 @@ window.FLASHCARD_UNITS = {
       "text": "explorer"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 50
    },
    {
     "question": "The typhoon hit the east coast with strong winds and heavy rain for two days. It caused __________ damage to roads, farms, and houses across the whole area.",
@@ -1517,7 +1535,8 @@ window.FLASHCARD_UNITS = {
       "text": "explicit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    },
    {
     "question": "The old church looks dark and simple from the street outside. However, its __________ hides a beautiful hall inside, full of golden light and colored glass windows.",
@@ -1539,7 +1558,8 @@ window.FLASHCARD_UNITS = {
       "text": "excess"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "The doctor looked at the cut on the boy's arm and said it was not serious. It was only an __________ wound, so it would heal in a few days without any medicine.",
@@ -1561,7 +1581,8 @@ window.FLASHCARD_UNITS = {
       "text": "internal"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    },
    {
     "question": "Dinosaurs lived on Earth millions of years ago, but none of them are alive today. They became __________ long before the first humans ever walked on the planet.",
@@ -1583,7 +1604,8 @@ window.FLASHCARD_UNITS = {
       "text": "exceptional"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 61
    },
    {
     "question": "The little boy can do math problems that most adults find difficult. Everyone who meets him agrees that he has an __________ mind for a child of only six.",
@@ -1605,7 +1627,8 @@ window.FLASHCARD_UNITS = {
       "text": "extraordinary"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 64
    },
    {
     "question": "My aunt makes beautiful dresses by hand in her small shop. She chooses soft and colorful __________ from the market and spends days sewing each piece carefully.",
@@ -1627,7 +1650,8 @@ window.FLASHCARD_UNITS = {
       "text": "excess"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 67
    },
    {
     "question": "We spent the whole day at the beach, swimming and playing games in the warm sun. It was a __________ day, and nobody wanted to go home when evening came.",
@@ -1649,7 +1673,8 @@ window.FLASHCARD_UNITS = {
       "text": "explicit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "Grandpa likes to tell stories about the fish he caught when he was young. He always makes them bigger than they really were, so we know he likes to __________ a little.",
@@ -1671,7 +1696,8 @@ window.FLASHCARD_UNITS = {
       "text": "execute"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 1
    },
    {
     "question": "Students must wear uniforms to school every day of the week. The only __________ is Friday, when they can wear the T-shirts of their school clubs instead.",
@@ -1693,7 +1719,8 @@ window.FLASHCARD_UNITS = {
       "text": "exception"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 10
    },
    {
     "question": "The old town has many narrow streets and hidden shops that most tourists never find. We decided to __________ it on foot and found a tiny café in a quiet lane.",
@@ -1715,7 +1742,8 @@ window.FLASHCARD_UNITS = {
       "text": "exploit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 47
    },
    {
     "question": "The MRT line now ends at the edge of the city. The government plans to __________ it all the way to the airport so that travelers will not need a taxi.",
@@ -1737,7 +1765,8 @@ window.FLASHCARD_UNITS = {
       "text": "extend"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 52
    },
    {
     "question": "Fewer than one hundred of these birds are left in the wild. If people keep cutting down the forest, the birds will face __________ within twenty years.",
@@ -1759,7 +1788,8 @@ window.FLASHCARD_UNITS = {
       "text": "expertise"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 62
    }
   ]
  }

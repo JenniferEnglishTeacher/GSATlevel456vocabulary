@@ -1271,7 +1271,8 @@ window.FLASHCARD_UNITS = {
       "text": "literal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Old wooden houses with no fire alarms are dangerous. They are __________ to burn down quickly if a candle or a cigarette is left burning by accident.",
@@ -1293,7 +1294,8 @@ window.FLASHCARD_UNITS = {
       "text": "liable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "The animals had lived in small cages at the zoo for years. A group of workers was finally sent to __________ them and move them to a wide, open park.",
@@ -1315,7 +1317,8 @@ window.FLASHCARD_UNITS = {
       "text": "lodge"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "For fifty years the country was ruled by a foreign army. The people still celebrate their __________ every spring with flags, songs, and a big parade.",
@@ -1337,7 +1340,8 @@ window.FLASHCARD_UNITS = {
       "text": "literacy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 9
    },
    {
     "question": "Tom joined the army after college and did well in every test. Two years later he became a __________ and was put in charge of a group of thirty soldiers.",
@@ -1359,7 +1363,8 @@ window.FLASHCARD_UNITS = {
       "text": "tenant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 13
    },
    {
     "question": "My grandfather started collecting stamps when he was seven. It became a __________ interest, and even now at eighty-five he still buys new ones every single month.",
@@ -1381,7 +1386,8 @@ window.FLASHCARD_UNITS = {
       "text": "limp"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 17
    },
    {
     "question": "My schoolbag is so heavy that my shoulders hurt every day. The teacher said we could leave some of our books at school to __________ the load a little.",
@@ -1403,7 +1409,8 @@ window.FLASHCARD_UNITS = {
       "text": "lighten"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 22
    },
    {
     "question": "Sam hurt his left foot during the basketball game last night. Today he can only __________ slowly to class, and his coach told him to rest for a week.",
@@ -1425,7 +1432,8 @@ window.FLASHCARD_UNITS = {
       "text": "lighten"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "The huge ship can carry three thousand passengers across the ocean in great comfort. This modern __________ even has a theater, three pools, and a shopping street.",
@@ -1447,7 +1455,8 @@ window.FLASHCARD_UNITS = {
       "text": "locker"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 30
    },
    {
     "question": "The party ended at ten, but nobody wanted to go home. Many guests continued to __________ in the garden, talking and laughing until well after midnight.",
@@ -1469,7 +1478,8 @@ window.FLASHCARD_UNITS = {
       "text": "lighten"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 35
    },
    {
     "question": "This jacket looks thin, but it is warm enough for winter. It has a thick wool __________ inside that keeps the cold wind away from your body.",
@@ -1491,7 +1501,8 @@ window.FLASHCARD_UNITS = {
       "text": "logo"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 31
    },
    {
     "question": "The recipe says we need exactly one __________ of milk for the pudding. That is the same as one of those big bottles from the supermarket.",
@@ -1513,7 +1524,8 @@ window.FLASHCARD_UNITS = {
       "text": "liter"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 38
    },
    {
     "question": "A hundred years ago, most farmers in the area could not read or write. Free schools slowly changed that, and today the __________ rate is nearly one hundred percent.",
@@ -1535,7 +1547,8 @@ window.FLASHCARD_UNITS = {
       "text": "longitude"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    },
    {
     "question": "When Mom says \"I'm going to kill you,\" she does not really mean it. You should not take her words in their __________ sense; she is only a little angry.",
@@ -1557,7 +1570,8 @@ window.FLASHCARD_UNITS = {
       "text": "lonesome"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 42
    },
    {
     "question": "In the past, only rich families could send their children to school. Now almost every adult in the country is __________ and can read a newspaper without help.",
@@ -1579,7 +1593,8 @@ window.FLASHCARD_UNITS = {
       "text": "lifelong"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 43
    },
    {
     "question": "The farm has twenty cows, fifty sheep, and a few pigs. When the river rose, the farmer moved all the __________ to higher ground so that none would drown.",
@@ -1601,7 +1616,8 @@ window.FLASHCARD_UNITS = {
       "text": "lining"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "A small green animal with a long tail was sitting on the warm rock. When I moved closer, the __________ ran into a crack between the stones and disappeared.",
@@ -1623,7 +1639,8 @@ window.FLASHCARD_UNITS = {
       "text": "lieutenant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 51
    },
    {
     "question": "Students do not have to carry all their books home every day. Each of them has a small __________ with a key at school where they keep their things.",
@@ -1645,7 +1662,8 @@ window.FLASHCARD_UNITS = {
       "text": "loft"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "We did not want to sleep in a tent during the cold mountain trip. Instead we stayed in a warm wooden __________ run by a friendly old couple.",
@@ -1667,7 +1685,8 @@ window.FLASHCARD_UNITS = {
       "text": "lodge"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 59
    },
    {
     "question": "When she was twelve, Amy decided she would one day find a cure for cancer. Her teachers smiled at such a __________ goal, but she never gave it up.",
@@ -1689,7 +1708,8 @@ window.FLASHCARD_UNITS = {
       "text": "lethal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    },
    {
     "question": "You can recognize the coffee shop from far away even without reading its name. Its green round __________ is printed on every cup, bag, and store window.",
@@ -1711,7 +1731,8 @@ window.FLASHCARD_UNITS = {
       "text": "locker"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 66
    },
    {
     "question": "After his wife died, the old man spent most days sitting by the window. He felt __________ and sad, so his daughter bought him a small dog for company.",
@@ -1733,7 +1754,8 @@ window.FLASHCARD_UNITS = {
       "text": "lonesome"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 69
    },
    {
     "question": "People in this mountain village often live past one hundred. Scientists are studying their __________ and think the clean air and simple food may be the reasons.",
@@ -1755,7 +1777,8 @@ window.FLASHCARD_UNITS = {
       "text": "liability"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 74
    },
    {
     "question": "Taipei and Manila are both about 121 degrees east of the line that runs through Greenwich, England. Because they share nearly the same __________, their clocks show the same time.",
@@ -1777,7 +1800,8 @@ window.FLASHCARD_UNITS = {
       "text": "longevity"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 77
    },
    {
     "question": "My skin gets dry and itchy every winter. The doctor told me to put some __________ on my arms and legs after every shower to keep them soft.",
@@ -1799,7 +1823,8 @@ window.FLASHCARD_UNITS = {
       "text": "liter"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 80
    },
    {
     "question": "The famous statue in New York holds a torch high in the air. It was a gift from France and stands for the __________ that the new country promised its people.",
@@ -1821,7 +1846,8 @@ window.FLASHCARD_UNITS = {
       "text": "liberty"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 10
    },
    {
     "question": "Jenny moved to a city where she did not know anyone. At first she felt very __________, but after joining a dance class she soon made many new friends.",
@@ -1843,7 +1869,8 @@ window.FLASHCARD_UNITS = {
       "text": "lethal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 70
    },
    {
     "question": "The sign at the pool says \"No running,\" and the lifeguard means it __________. Last week he sent two boys home just for jogging along the side.",
@@ -1865,7 +1892,8 @@ window.FLASHCARD_UNITS = {
       "text": "lethally"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "My uncle eats fast food every day, never exercises, and sleeps only five hours a night. The doctor warned him that such a __________ could lead to serious health problems.",
@@ -1887,7 +1915,8 @@ window.FLASHCARD_UNITS = {
       "text": "lifestyle"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 20
    },
    {
     "question": "The meeting should have ended an hour ago, but the manager keeps adding new topics. Please do not __________ it any further; everyone is tired and hungry.",
@@ -1909,7 +1938,8 @@ window.FLASHCARD_UNITS = {
       "text": "lodge"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 76
    }
   ]
  }

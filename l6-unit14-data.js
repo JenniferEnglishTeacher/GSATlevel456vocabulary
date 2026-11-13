@@ -1346,7 +1346,8 @@ window.FLASHCARD_UNITS = {
       "text": "expiration"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "My library card is only good for one year from the day I got it. It will __________ at the end of this month, so I need to renew it this week.",
@@ -1368,7 +1369,8 @@ window.FLASHCARD_UNITS = {
       "text": "falter"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 1
    },
    {
     "question": "The tooth at the back of my mouth was broken and hurt all the time. The dentist said it could not be saved and decided to __________ it.",
@@ -1390,7 +1392,8 @@ window.FLASHCARD_UNITS = {
       "text": "fascinate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Mark's grades are good, but he never joins any clubs or teams after school. His teacher thinks a few __________ activities would help him make more friends.",
@@ -1412,7 +1415,8 @@ window.FLASHCARD_UNITS = {
       "text": "fireproof"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "Something small was hurting my eye while I was reading, so I looked in the mirror. It was just an __________ that had fallen onto my eye.",
@@ -1434,7 +1438,8 @@ window.FLASHCARD_UNITS = {
       "text": "eyelid"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "Grandpa fell asleep in his chair while watching the evening news. His head dropped forward little by little, and each __________ slowly closed over his tired eyes.",
@@ -1456,7 +1461,8 @@ window.FLASHCARD_UNITS = {
       "text": "fin"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "Amy sits in the front row, but she still cannot read the words on the board clearly. Her __________ has become worse, so she needs to see an eye doctor.",
@@ -1478,7 +1484,8 @@ window.FLASHCARD_UNITS = {
       "text": "faction"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "The story about the fox and the grapes has been told for over two thousand years. Like every __________, it is short and ends with a lesson for the reader.",
@@ -1500,7 +1507,8 @@ window.FLASHCARD_UNITS = {
       "text": "fable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 22
    },
    {
     "question": "The student council could not agree on where to hold the school dance. One __________ wanted the gym, while a smaller group insisted on the park by the river.",
@@ -1522,7 +1530,8 @@ window.FLASHCARD_UNITS = {
       "text": "fishery"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 25
    },
    {
     "question": "When my American cousin said it was eighty degrees outside, I thought she was joking. Then I remembered that people in her country use __________ instead of Celsius.",
@@ -1544,7 +1553,8 @@ window.FLASHCARD_UNITS = {
       "text": "extract"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 28
    },
    {
     "question": "Jenny was nervous when she began her speech in front of the whole school. Her voice started to __________ twice, but she took a deep breath and kept going.",
@@ -1566,7 +1576,8 @@ window.FLASHCARD_UNITS = {
       "text": "falter"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 32
    },
    {
     "question": "Mr. Wu has driven a taxi in Taipei for twenty-five years. His __________ with every small street means he never needs to look at a map.",
@@ -1588,7 +1599,8 @@ window.FLASHCARD_UNITS = {
       "text": "fascination"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 35
    },
    {
     "question": "Ever since he watched a movie about the moon landing, Leo reads everything about rockets. His __________ with space has lasted for more than three years now.",
@@ -1610,7 +1622,8 @@ window.FLASHCARD_UNITS = {
       "text": "engagement"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 40
    },
    {
     "question": "The students wanted to visit Japan for their class trip, but it would cost too much. The teacher said a two-day trip to Tainan was a more __________ plan.",
@@ -1632,7 +1645,8 @@ window.FLASHCARD_UNITS = {
       "text": "feasible"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 44
    },
    {
     "question": "After a week in bed with a high fever, Tom tried to stand up by himself. His legs felt so __________ that his mother had to hold his arm.",
@@ -1654,7 +1668,8 @@ window.FLASHCARD_UNITS = {
       "text": "fireproof"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "The little girl's room was painted soft pink and filled with flowers and lace. Her brother said it looked too __________ and refused to play in there.",
@@ -1676,7 +1691,8 @@ window.FLASHCARD_UNITS = {
       "text": "feminine"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 50
    },
    {
     "question": "For years the farmer grew the same crop in the same field without a rest. Slowly the __________ of the soil dropped, and his harvests became smaller each season.",
@@ -1698,7 +1714,8 @@ window.FLASHCARD_UNITS = {
       "text": "feasibility"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "The plants in our garden looked yellow and weak this spring. Dad bought a bag of __________ and mixed it into the soil, and now the leaves are dark green.",
@@ -1720,7 +1737,8 @@ window.FLASHCARD_UNITS = {
       "text": "eyelash"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 56
    },
    {
     "question": "Lily has been wearing a diamond ring for the past two weeks. Her __________ gave it to her when he asked her to marry him on her birthday.",
@@ -1742,7 +1760,8 @@ window.FLASHCARD_UNITS = {
       "text": "flake"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 60
    },
    {
     "question": "The swimmer saw something gray cutting through the water near the crowded beach. Everyone on the sand screamed when they realized it was the __________ of a shark.",
@@ -1764,7 +1783,8 @@ window.FLASHCARD_UNITS = {
       "text": "cracker"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "There is only a certain amount of oil under the ground, and we use more every year. Because this resource is __________, scientists are searching for cleaner kinds of energy.",
@@ -1786,7 +1806,8 @@ window.FLASHCARD_UNITS = {
       "text": "fertile"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "On the night before Chinese New Year, loud bangs filled our street for hours. My little cousin covered his ears each time a __________ went off outside our grandmother's shop.",
@@ -1808,7 +1829,8 @@ window.FLASHCARD_UNITS = {
       "text": "firecracker"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 72
    },
    {
     "question": "The bank keeps all important papers in a special metal box. Even if the building burns down, the box is __________, so the papers inside will be safe.",
@@ -1830,7 +1852,8 @@ window.FLASHCARD_UNITS = {
       "text": "finite"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "Most people in the small seaside town earn their living by catching fish. When the local __________ closed for three months, many families had no money for food.",
@@ -1852,7 +1875,8 @@ window.FLASHCARD_UNITS = {
       "text": "infinity"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 80
    },
    {
     "question": "The wall in the old classroom has not been painted for twenty years. Every time someone closes the door hard, a __________ of white paint falls to the floor.",
@@ -1874,7 +1898,8 @@ window.FLASHCARD_UNITS = {
       "text": "fin"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 84
    },
    {
     "question": "The land beside the river gets rich soil every time it floods. Because the fields are so __________, farmers there can grow three crops of rice a year.",
@@ -1896,7 +1921,8 @@ window.FLASHCARD_UNITS = {
       "text": "familiar"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "On a clear night in the mountains, you can see millions of stars above you. The dark sky seems __________, and it makes you feel very small.",
@@ -1918,7 +1944,8 @@ window.FLASHCARD_UNITS = {
       "text": "feasible"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "I heard a song on the radio this morning and could not stop humming it. The tune sounded __________, but I could not remember where I had heard it before.",
@@ -1940,7 +1967,8 @@ window.FLASHCARD_UNITS = {
       "text": "expired"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "Our class watched a film about how bees talk to each other by dancing. It was so __________ that nobody wanted to leave when the bell rang.",
@@ -1962,7 +1990,8 @@ window.FLASHCARD_UNITS = {
       "text": "feeble"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "I dropped my new phone into the swimming pool by accident yesterday. Luckily, it is __________, so it still works perfectly after I dried it with a towel.",
@@ -1984,7 +2013,8 @@ window.FLASHCARD_UNITS = {
       "text": "waterproof"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 77
    }
   ]
  }

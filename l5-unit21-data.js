@@ -1466,7 +1466,8 @@ window.FLASHCARD_UNITS = {
       "text": "legend"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "Our school basketball team is quite strong this year. It has joined the city __________, so every Saturday the players compete against a team from another school.",
@@ -1488,7 +1489,8 @@ window.FLASHCARD_UNITS = {
       "text": "lounge"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "The old doctor worked in the poor village for forty years and trained many young doctors. Even today, people there still talk about the __________ she left behind.",
@@ -1510,7 +1512,8 @@ window.FLASHCARD_UNITS = {
       "text": "liability"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "The __________ singer has sold more records than anyone else in the country. Even people who were born fifty years after her first song still know her name.",
@@ -1532,7 +1535,8 @@ window.FLASHCARD_UNITS = {
       "text": "legislative"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 11
    },
    {
     "question": "Many drivers still use their phones at the wheel, and accidents keep happening. Parents are asking the government to pass new __________ with much higher fines.",
@@ -1554,7 +1558,8 @@ window.FLASHCARD_UNITS = {
       "text": "masculinity"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "In Taiwan, laws are not made by the president alone. They must first be passed by the __________ body, whose members are elected by the people every four years.",
@@ -1576,7 +1581,8 @@ window.FLASHCARD_UNITS = {
       "text": "legislative"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 16
    },
    {
     "question": "The shop asked to see my ID card before it sold me the phone. I think that is a __________ request, because stolen credit cards are often used in stores.",
@@ -1598,7 +1604,8 @@ window.FLASHCARD_UNITS = {
       "text": "likely"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 20
    },
    {
     "question": "Grandpa walks very slowly on the icy road in winter. Grandma always holds his arm tightly, deeply worried __________ he should slip, fall, and break a bone.",
@@ -1620,7 +1627,8 @@ window.FLASHCARD_UNITS = {
       "text": "even if"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "The sign in the parking lot says that the owner accepts no __________ for stolen items. If you leave your laptop in the car and it disappears, that is your problem.",
@@ -1642,7 +1650,8 @@ window.FLASHCARD_UNITS = {
       "text": "liability"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 28
    },
    {
     "question": "Dark clouds are gathering over the mountains, and the wind is getting stronger. The weather report says there is a high __________ of heavy rain this evening.",
@@ -1664,7 +1673,8 @@ window.FLASHCARD_UNITS = {
       "text": "legacy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 32
    },
    {
     "question": "My father decided to stop eating late-night snacks to stay healthy. My mother did __________, and now the whole family goes to bed with an empty kitchen table.",
@@ -1686,7 +1696,8 @@ window.FLASHCARD_UNITS = {
       "text": "legitimately"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "Do not know how to tie your shoes? First make a __________ with one lace, then wrap the other lace around it and pull it through the small hole.",
@@ -1708,7 +1719,8 @@ window.FLASHCARD_UNITS = {
       "text": "loop"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 41
    },
    {
     "question": "Our plane was delayed for three hours because of the storm. We waited in the airport __________, where there were soft chairs and a small coffee shop.",
@@ -1730,7 +1742,8 @@ window.FLASHCARD_UNITS = {
       "text": "mansion"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "I found a hard __________ of sugar at the bottom of the old jar. Mom broke it into small pieces with a spoon before she used it to make tea.",
@@ -1752,7 +1765,8 @@ window.FLASHCARD_UNITS = {
       "text": "lump"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    },
    {
     "question": "Twenty years ago, few people had heard of electric cars. Today they have become part of the __________, and you can see them on almost every street.",
@@ -1774,7 +1788,8 @@ window.FLASHCARD_UNITS = {
       "text": "masculinity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 54
    },
    {
     "question": "The elevator in our building is closed this morning. A notice says that it needs regular __________ to make sure it is safe, so please use the stairs today.",
@@ -1796,7 +1811,8 @@ window.FLASHCARD_UNITS = {
       "text": "mandate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 58
    },
    {
     "question": "A whale lives in the sea, but it is not a fish. It is a __________, because it breathes air and feeds its babies with milk, just like a cow or a human.",
@@ -1818,7 +1834,8 @@ window.FLASHCARD_UNITS = {
       "text": "legislator"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 62
    },
    {
     "question": "The new mayor won more than seventy percent of the votes last Sunday. She says the people have given her a clear __________ to build more parks and bike lanes.",
@@ -1840,7 +1857,8 @@ window.FLASHCARD_UNITS = {
       "text": "massage"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 65
    },
    {
     "question": "Stress does not always show in the same way in everyone. In some people it may __________ itself as headaches, while in others it causes poor sleep or anger.",
@@ -1862,7 +1880,8 @@ window.FLASHCARD_UNITS = {
       "text": "massage"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "Some advertisements show very happy children playing with a new toy. They are trying to __________ young viewers into asking their parents for the same thing.",
@@ -1884,7 +1903,8 @@ window.FLASHCARD_UNITS = {
       "text": "manipulate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "The movie star lives in a huge __________ with twenty rooms and a swimming pool. However, she says the house often feels too quiet when she is there alone.",
@@ -1906,7 +1926,8 @@ window.FLASHCARD_UNITS = {
       "text": "league"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 77
    },
    {
     "question": "Plastic bags that end up in the ocean are a serious danger to __________ animals. Sea turtles often think the bags are jellyfish and eat them by mistake.",
@@ -1928,7 +1949,8 @@ window.FLASHCARD_UNITS = {
       "text": "marine"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 80
    },
    {
     "question": "In the past, a deep voice and a strong body were seen as __________ qualities that every man should have. Today, people's ideas about men have changed a lot.",
@@ -1950,7 +1972,8 @@ window.FLASHCARD_UNITS = {
       "text": "layered"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 84
    },
    {
     "question": "After running the full marathon, my uncle could hardly walk. He went to a small shop near the finish line for a one-hour __________ to relax his tired legs.",
@@ -1972,7 +1995,8 @@ window.FLASHCARD_UNITS = {
       "text": "legislature"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 87
    },
    {
     "question": "During the typhoon, a __________ rock rolled down onto the mountain road. The workers needed two whole days and a big machine to move it away.",
@@ -1994,7 +2018,8 @@ window.FLASHCARD_UNITS = {
       "text": "alike"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 91
    },
    {
     "question": "If you take care of your bicycle, it can last for many years. Oil the chain every month and check the tires often to __________ it in good condition.",
@@ -2016,7 +2041,8 @@ window.FLASHCARD_UNITS = {
       "text": "maintain"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 59
    },
    {
     "question": "According to an old __________ in our town, a dragon sleeps at the bottom of the lake. People say the water becomes warm every time the dragon breathes.",
@@ -2038,7 +2064,8 @@ window.FLASHCARD_UNITS = {
       "text": "layer"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "Wearing a helmet is __________ for everyone who rides a scooter in Taiwan. If the police see you without one, you will have to pay a fine of 500 dollars.",
@@ -2060,7 +2087,8 @@ window.FLASHCARD_UNITS = {
       "text": "feminine"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    },
    {
     "question": "The twins look so much __________ that even their own teachers sometimes mix them up. Things get even worse when they wear the same school uniform.",
@@ -2082,7 +2110,8 @@ window.FLASHCARD_UNITS = {
       "text": "likely"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 38
    },
    {
     "question": "Dolphins are not fish; they are __________ mammals that must come to the surface to breathe. They are also very smart and can learn dozens of hand signals.",
@@ -2104,7 +2133,8 @@ window.FLASHCARD_UNITS = {
       "text": "massive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 80
    }
   ]
  }

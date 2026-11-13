@@ -1436,7 +1436,8 @@ window.FLASHCARD_UNITS = {
       "text": "accumulate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "Everyone who joins the swimming club must follow the safety rules. If you do not __________ by them, the coach will not let you use the pool again.",
@@ -1458,7 +1459,8 @@ window.FLASHCARD_UNITS = {
       "text": "acclaim"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "The Amis people have lived in eastern Taiwan for a very long time. Every summer, visitors come to watch their __________ dances and listen to their old songs.",
@@ -1480,7 +1482,8 @@ window.FLASHCARD_UNITS = {
       "text": "accountable"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "In spring, many kinds of birds come back to the wetland. They __________ there because there is plenty of food, water, and safe places for their babies.",
@@ -1502,7 +1505,8 @@ window.FLASHCARD_UNITS = {
       "text": "administer"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "Little children cannot easily understand ideas like time and freedom. To them, such ideas are only an __________, so teachers use toys and pictures to explain them.",
@@ -1524,7 +1528,8 @@ window.FLASHCARD_UNITS = {
       "text": "abstraction"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "This year the weather was perfect for the farmers. There was an __________ of rice and fruit, so prices at the market went down a lot.",
@@ -1546,7 +1551,8 @@ window.FLASHCARD_UNITS = {
       "text": "addiction"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 19
    },
    {
     "question": "After high school, Jack wanted to become a pilot. He joined a flight __________, where he studied hard and practiced flying small planes every week for three years.",
@@ -1568,7 +1574,8 @@ window.FLASHCARD_UNITS = {
       "text": "acreage"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 23
    },
    {
     "question": "Amy wanted to make her plain black dress look more special. She added a silver belt as an __________, and everyone at the party said she looked great.",
@@ -1590,7 +1597,8 @@ window.FLASHCARD_UNITS = {
       "text": "accessory"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 27
    },
    {
     "question": "The young writer's first book sold millions of copies around the world. It won wide __________ from readers and critics, and she became famous almost overnight.",
@@ -1612,7 +1620,8 @@ window.FLASHCARD_UNITS = {
       "text": "acre"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 31
    },
    {
     "question": "The school must follow the new rules from the government. In __________ with these rules, all students have to wear masks when they feel sick at school.",
@@ -1634,7 +1643,8 @@ window.FLASHCARD_UNITS = {
       "text": "accordance"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 35
    },
    {
     "question": "The weather report says a big typhoon will hit the city tomorrow afternoon. Please plan __________ and stay at home instead of going out to the night market.",
@@ -1656,7 +1666,8 @@ window.FLASHCARD_UNITS = {
       "text": "abundantly"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 36
    },
    {
     "question": "The bus driver was driving too fast when the accident happened. He must be held __________ for all the injuries of the passengers on his bus.",
@@ -1678,7 +1689,8 @@ window.FLASHCARD_UNITS = {
       "text": "addictive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "My little sister puts ten dollars into her piggy bank every day. In a year, she will __________ enough money to buy the doll she has always wanted.",
@@ -1700,7 +1712,8 @@ window.FLASHCARD_UNITS = {
       "text": "abbreviate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "Nobody cleaned the old house for many years. When we finally opened the door, we found a thick __________ of dust on the floor and the furniture.",
@@ -1722,7 +1735,8 @@ window.FLASHCARD_UNITS = {
       "text": "accusation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 46
    },
    {
     "question": "Tom said that Mark had taken his new pen, but he had no proof. Mark was very angry about the __________ and asked the teacher to check the classroom video.",
@@ -1744,7 +1758,8 @@ window.FLASHCARD_UNITS = {
       "text": "adolescence"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 49
    },
    {
     "question": "My family moved from Taipei to a small village last year. It took us some time to __________ ourselves to the quiet nights and the long bus rides.",
@@ -1766,7 +1781,8 @@ window.FLASHCARD_UNITS = {
       "text": "accustom"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 53
    },
    {
     "question": "Many teenagers get red spots on their faces. The doctor said that washing your face twice a day can help prevent __________ and keep your skin healthy.",
@@ -1788,7 +1804,8 @@ window.FLASHCARD_UNITS = {
       "text": "accord"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 58
    },
    {
     "question": "Mr. Lin owns a large rice farm in the south of Taiwan. Every __________ of his land produces enough rice to feed a family for a whole year.",
@@ -1810,7 +1827,8 @@ window.FLASHCARD_UNITS = {
       "text": "accessory"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 61
    },
    {
     "question": "The famous cartoon is an __________ of an old Chinese story. The writers changed some parts so that young children could enjoy it and understand it more easily.",
@@ -1832,7 +1850,8 @@ window.FLASHCARD_UNITS = {
       "text": "adaptation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 64
    },
    {
     "question": "Ben plays computer games for more than ten hours a day. His parents are worried about his game __________ and want him to see a doctor for help.",
@@ -1854,7 +1873,8 @@ window.FLASHCARD_UNITS = {
       "text": "abstraction"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "This medicine is very strong and can be dangerous. Only a nurse is allowed to __________ it to the patients, and she must check the amount carefully.",
@@ -1876,7 +1896,8 @@ window.FLASHCARD_UNITS = {
       "text": "abound"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "Mrs. Wang has worked at the hospital for twenty years. Now she will __________ the whole children's center, so she is in charge of all the doctors and nurses there.",
@@ -1898,7 +1919,8 @@ window.FLASHCARD_UNITS = {
       "text": "abide"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "The __________ stood on the biggest ship and gave orders to the whole navy. All the sailors respected him because he had fought in many battles at sea.",
@@ -1920,7 +1942,8 @@ window.FLASHCARD_UNITS = {
       "text": "admiral"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "Many children grow taller very quickly between the ages of twelve and sixteen. During __________, their bodies and feelings change a lot, and they need more sleep.",
@@ -1942,7 +1965,8 @@ window.FLASHCARD_UNITS = {
       "text": "abundance"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 82
    },
    {
     "question": "The president does not know much about medicine. That is why he has an __________ group of doctors who tell him what to do when a new disease appears.",
@@ -1964,7 +1988,8 @@ window.FLASHCARD_UNITS = {
       "text": "accustomed"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 85
    },
    {
     "question": "The new library is not only useful but also beautiful. Many visitors come just to enjoy its __________ design, with big glass walls and a garden on the roof.",
@@ -1986,7 +2011,8 @@ window.FLASHCARD_UNITS = {
       "text": "accountable"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 90
    },
    {
     "question": "Taiwan gets a lot of rain in summer, and the mountains are full of trees. Thanks to the __________ water, farmers can grow rice two times a year.",
@@ -2008,7 +2034,8 @@ window.FLASHCARD_UNITS = {
       "text": "accountable"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 21
    },
    {
     "question": "Our new classmate moved here from Canada only two weeks ago. She is very __________, so she has already made many friends and learned to eat spicy food.",
@@ -2030,7 +2057,8 @@ window.FLASHCARD_UNITS = {
       "text": "adaptable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 67
    },
    {
     "question": "I could not decide which university to choose. I asked my teacher for __________, and she told me to think about what I really enjoy studying.",
@@ -2052,7 +2080,8 @@ window.FLASHCARD_UNITS = {
       "text": "acreage"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 89
    },
    {
     "question": "This new phone game is very easy to start but hard to stop. It is so __________ that some students play it all night and fall asleep in class.",
@@ -2074,7 +2103,8 @@ window.FLASHCARD_UNITS = {
       "text": "advisory"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    }
   ]
  }

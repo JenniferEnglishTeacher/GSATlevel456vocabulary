@@ -1331,7 +1331,8 @@ window.FLASHCARD_UNITS = {
       "text": "remarkable"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "Grandpa's knees hurt badly after he climbed the stairs. The doctor gave him some pills to __________ the pain and told him to rest for a few days.",
@@ -1353,7 +1354,8 @@ window.FLASHCARD_UNITS = {
       "text": "resign"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Tom does not like water, and he cannot swim at all. He was __________ to join us at the beach, but he finally came after we promised to stay near the shore.",
@@ -1375,7 +1377,8 @@ window.FLASHCARD_UNITS = {
       "text": "relevant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "Jenny was sad after the game because her team lost. Then her coach made a kind __________ about how hard she had played, and she felt much better.",
@@ -1397,7 +1400,8 @@ window.FLASHCARD_UNITS = {
       "text": "remedy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 13
    },
    {
     "question": "My grandmother is ninety years old, but she still walks five kilometers every morning. Everyone in our town says her good health is really __________ for someone her age.",
@@ -1419,7 +1423,8 @@ window.FLASHCARD_UNITS = {
       "text": "reluctant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 14
    },
    {
     "question": "I have had a sore throat since yesterday. My mother says warm honey water is the best __________ for it, so she made me a cup before I went to bed.",
@@ -1441,7 +1446,8 @@ window.FLASHCARD_UNITS = {
       "text": "resolution"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "My library card will stop working at the end of this month. I need to __________ it soon, or I will not be able to borrow any books during the summer.",
@@ -1463,7 +1469,8 @@ window.FLASHCARD_UNITS = {
       "text": "resist"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 22
    },
    {
     "question": "Learning to play the piano is not easy at first. It takes a lot of __________, because you must practice the same notes again and again until your fingers remember them.",
@@ -1485,7 +1492,8 @@ window.FLASHCARD_UNITS = {
       "text": "repetition"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 27
    },
    {
     "question": "The artist painted the busy night market with bright colors and happy faces. Many people say it is a true __________ of life in Taiwan, and they love it.",
@@ -1507,7 +1515,8 @@ window.FLASHCARD_UNITS = {
       "text": "resignation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "That small restaurant always has a long line outside its door. It has a great __________ for fresh fish, so people drive from far away just to eat there.",
@@ -1529,7 +1538,8 @@ window.FLASHCARD_UNITS = {
       "text": "reputation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 36
    },
    {
     "question": "A boy fell into the river while he was fishing with his friends. Luckily, a brave man jumped in to __________ him and brought him safely to the shore.",
@@ -1551,7 +1561,8 @@ window.FLASHCARD_UNITS = {
       "text": "restrict"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 40
    },
    {
     "question": "Scientists want to know why some people sleep better than others. They are doing __________ on hundreds of students, and the results will be shared next year.",
@@ -1573,7 +1584,8 @@ window.FLASHCARD_UNITS = {
       "text": "research"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 44
    },
    {
     "question": "My aunt works in a lab at the university. As a __________, she spends most of her day studying how plants grow in very dry places like deserts.",
@@ -1595,7 +1607,8 @@ window.FLASHCARD_UNITS = {
       "text": "reservation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "People often think Lily and her mother are sisters. They __________ each other so much that even their voices sound almost the same on the phone.",
@@ -1617,7 +1630,8 @@ window.FLASHCARD_UNITS = {
       "text": "resolve"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 49
    },
    {
     "question": "The new hot-pot restaurant is very popular on weekends. If you want a table on Saturday night, you had better make a __________ at least three days before.",
@@ -1639,7 +1653,8 @@ window.FLASHCARD_UNITS = {
       "text": "repetition"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 52
    },
    {
     "question": "Mr. Chen has worked at the bank for twenty years, but he is tired of the long hours. He plans to __________ next month and open a small tea shop.",
@@ -1661,7 +1676,8 @@ window.FLASHCARD_UNITS = {
       "text": "restore"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 57
    },
    {
     "question": "Our manager surprised everyone this morning. She walked into the office, handed her __________ to the boss, and said she would leave at the end of the week.",
@@ -1683,7 +1699,8 @@ window.FLASHCARD_UNITS = {
       "text": "resignation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 58
    },
    {
     "question": "The school wanted every student to wear a hat on sunny days. The new rule met with strong __________ because most students thought the hats looked silly.",
@@ -1705,7 +1722,8 @@ window.FLASHCARD_UNITS = {
       "text": "retention"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 61
    },
    {
     "question": "Every New Year, Dad says he will stop eating late-night snacks. He always makes the same __________, but he usually breaks it before the end of January.",
@@ -1727,7 +1745,8 @@ window.FLASHCARD_UNITS = {
       "text": "resolution"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 65
    },
    {
     "question": "The two brothers have been fighting over the computer for a week. Their mother told them to sit down, talk calmly, and __________ the problem by themselves.",
@@ -1749,7 +1768,8 @@ window.FLASHCARD_UNITS = {
       "text": "retain"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "Mr. Huang has run the same bookstore for forty years and has helped many poor students. Everyone in town sees him as a __________ man who can be trusted.",
@@ -1771,7 +1791,8 @@ window.FLASHCARD_UNITS = {
       "text": "repetitive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "In many Asian families, children do not call their parents by their first names. They use a more __________ way to speak, especially to grandparents and older relatives.",
@@ -1793,7 +1814,8 @@ window.FLASHCARD_UNITS = {
       "text": "renewable"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    },
    {
     "question": "The strong typhoon blew down many power lines last night. Workers are now trying hard to __________ electricity to the mountain villages before it gets dark again.",
@@ -1815,7 +1837,8 @@ window.FLASHCARD_UNITS = {
       "text": "resign"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 77
    },
    {
     "question": "You can bring only one bag onto the plane, and it must be under seven kilograms. If your bag is too heavy, this __________ means you will have to pay more.",
@@ -1837,7 +1860,8 @@ window.FLASHCARD_UNITS = {
       "text": "restriction"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 80
    },
    {
     "question": "My uncle moved to Canada thirty years ago. However, he still speaks Taiwanese at home, and he has managed to __________ many of the old habits he learned as a boy.",
@@ -1859,7 +1883,8 @@ window.FLASHCARD_UNITS = {
       "text": "rescue"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 84
    },
    {
     "question": "We could not find our dog anywhere after the storm. What a __________ it was when the neighbor called to say he was sleeping safely in her garage!",
@@ -1881,7 +1906,8 @@ window.FLASHCARD_UNITS = {
       "text": "resistance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "Our class won the school speech contest last month. Now Amy and I will __________ our school at the city contest, so we are practicing every afternoon.",
@@ -1903,7 +1929,8 @@ window.FLASHCARD_UNITS = {
       "text": "resolve"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 33
    },
    {
     "question": "The cake on the table looked and smelled wonderful. I tried to wait until dinner, but I could not __________ it and ate a big piece right away.",
@@ -1925,7 +1952,8 @@ window.FLASHCARD_UNITS = {
       "text": "retain"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 62
    },
    {
     "question": "The train to Hualien is always full on holidays. You should __________ your seats online today, or you may have to stand for three hours on the way there.",
@@ -1947,7 +1975,8 @@ window.FLASHCARD_UNITS = {
       "text": "reserve"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 53
    },
    {
     "question": "I'm sorry, but the line is very bad and I could not hear you. Could you please __________ the address slowly so that I can write it down?",
@@ -1969,7 +1998,8 @@ window.FLASHCARD_UNITS = {
       "text": "retain"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 28
    }
   ]
  }

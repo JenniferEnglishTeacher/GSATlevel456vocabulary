@@ -5,7 +5,7 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113a"
+V = "20261113b"
 d = json.load(open(DATA, encoding="utf8"))
 LEVELS = [4, 5, 6]
 BLANK = "__________"
@@ -64,6 +64,7 @@ for L in LEVELS:
                 "question": re.sub(r"_{3,}", BLANK, q["q"]),
                 "options": [{"letter": "ABCD"[j], "text": o} for j, o in enumerate(q["options"])],
                 "answer": "ABCD"[q["answer"]],
+                "vi": q.get("vocabIndex"),
             })
         title = f"學測6000字 Level {L} · Group {g}: {rng}"
         unit = {"title": title, "theme": rng, "cards": cards, "quiz": quiz}
@@ -117,6 +118,8 @@ for L in LEVELS:
   </main>
   <script src="l{L}-unit{g}-data.js?v={V}"></script>
   <script src="gsat-words.js?v={V}"></script>
+  <script src="tracker-config.js?v={V}"></script>
+  <script src="tracker.js?v={V}"></script>
   <script src="app.js?v={V}"></script>
 </body>
 </html>
@@ -130,15 +133,30 @@ for L in LEVELS:
         old = '<a href="index.html" class="back-home-link">← 所有單元 / All units</a>'
         assert old in page, base
         page = page.replace(old, f'<a href="index.html#l{L}" class="back-home-link">← 所有單元 / Unit Board</a> &nbsp;·&nbsp; <a href="l{L}-unit{g}.html" class="back-home-link">🗂 字卡 Flashcards</a>')
+        old = f'<script src="{base}-data.js"></script>'
+        assert old in page, base
+        page = page.replace(old, f'<script src="tracker-config.js?v={V}"></script>\n<script src="tracker.js?v={V}"></script>\n' + old)
         write(base + ".html", page)
-        for suffix in ("-data.js", "-app.js"):
-            shutil.copyfile(os.path.join(QUIZ, base + suffix), os.path.join(OUT, base + suffix))
+        shutil.copyfile(os.path.join(QUIZ, base + "-data.js"), os.path.join(OUT, base + "-data.js"))
+        qapp = open(os.path.join(QUIZ, base + "-app.js"), encoding="utf8").read()
+        old = "  const body = new URLSearchParams();"
+        assert qapp.count(old) == 1, base
+        # Also report this quiz to the progress tracker (time, name, level, group, accuracy, mistaken words).
+        qapp = qapp.replace(old, "  if (window.GsatTracker) GsatTracker.logQuiz(state, VOCAB, MCQS);\n" + old)
+        write(base + "-app.js", qapp)
     write(f"l{L}-dashboard-data.js", f"// Auto-generated for the Unit Board — 學測6000字 Level {L}\nwindow.L{L}_DASHBOARD_UNITS = {js(dash)};\n")
 
 write("gsat-words.js",
       "// Auto-generated: group names, and every headword -> [group, cardIndex, definition, chinese] per level\n"
       f"window.GSAT_COUNTS = {js(counts)};\nwindow.GSAT_GROUP_NAMES = {js(names)};\nwindow.GSAT_INDEX = {js(index)};\n")
 
+HERE = os.path.dirname(os.path.abspath(__file__))
+for name in ("tracker.js", "teacher.html"):
+    src = os.path.join(HERE, name)
+    if os.path.exists(src):
+        shutil.copyfile(src, os.path.join(OUT, name))
+if not os.path.exists(os.path.join(OUT, "tracker-config.js")):
+    write("tracker-config.js", "// Address of the teacher's Google Apps Script web app (ends with /exec). Leave empty to switch tracking off.\nwindow.GSAT_TRACKER_URL = \"\";\n")
 os.makedirs(os.path.join(OUT, "vendor"), exist_ok=True)
 shutil.copyfile(os.path.join(REF, "vendor", "xlsx.full.min.js"), os.path.join(OUT, "vendor", "xlsx.full.min.js"))
 
@@ -165,7 +183,13 @@ css += """
 .syn-chip.family-chip small { color: var(--muted); margin-left: 4px; }
 .head-tag { display: inline-block; margin-left: 8px; padding: 1px 8px; border-radius: 999px; background: #fff1bb; color: #7a5200; font-size: 12px; font-weight: 700; vertical-align: middle; }
 .card-counter { align-self: center; color: var(--muted); font-size: 14px; font-weight: 700; margin-left: 4px; }
-.quiz-link.recorded { background: #17202a; box-shadow: 0 8px 20px rgba(23, 32, 42, 0.25); }\n.quiz-link.recorded:hover { background: #000; }
+.quiz-link.recorded { background: #17202a; box-shadow: 0 8px 20px rgba(23, 32, 42, 0.25); }\n.quiz-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.quiz-sent { color: #3f7d4a; font-weight: 700; font-size: 14px; }
+.tracker-box { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); }
+.tracker-box b { color: var(--ink); }
+.tracker-box button { border: 0; background: none; color: var(--teal-dark); text-decoration: underline; cursor: pointer; font: inherit; padding: 0; }
+.teacher-link { display: block; margin: 28px 0 8px; text-align: center; color: var(--muted); font-size: 13px; }
+.quiz-link.recorded:hover { background: #000; }
 """
 write("styles.css", css)
 
@@ -377,6 +401,50 @@ function makeIllustration(card) {
 
 """)
 sub('<a class="arcade-link" href="review-arcade.html">', '<a class="arcade-link" href="review-arcade.html">')
+sub("""        state.quizAnswers[key] = option.letter;
+        renderQuiz();""", """        if (!(key in quizFirst)) quizFirst[key] = option.letter; // the first answer is the one reported to the teacher
+        state.quizAnswers[key] = option.letter;
+        renderQuiz();
+        sendQuizResult(false);""")
+sub("""      <div class="quiz-score" id="quizScore">0 / 0</div>""", """      <div class="quiz-tools"><button class="secondary-button" id="quizSend" type="button" hidden>Send result 送出成績</button><span class="quiz-sent" id="quizSentNote" hidden>✓ Sent to your teacher 成績已送出</span><div class="quiz-score" id="quizScore">0 / 0</div></div>""")
+sub("""  els.quizList = section.querySelector("#quizList");""", """  els.quizList = section.querySelector("#quizList");
+  section.querySelector("#quizSend").addEventListener("click", () => sendQuizResult(true));""")
+sub("""  els.quizScore.textContent = `${correctCount} / ${quiz.length}`;""", """  els.quizScore.textContent = `${correctCount} / ${quiz.length}`;
+  const tracking = Boolean(window.GsatTracker && GsatTracker.enabled);
+  const answeredCount = quiz.filter((_, i) => quizFirst[`${state.unit}-${i}`]).length;
+  const sendBtn = els.quizSection.querySelector("#quizSend");
+  const sentNote = els.quizSection.querySelector("#quizSentNote");
+  sendBtn.hidden = !tracking || Boolean(quizSent[state.unit]) || answeredCount === 0;
+  sendBtn.textContent = `Send result 送出成績 (${answeredCount}/${quiz.length})`;
+  sentNote.hidden = !quizSent[state.unit];""")
+sub("""function renderQuiz() {""", """// MCQ practice report: sent once per group, automatically when every question has been answered,
+// or earlier when the student presses "Send result". Accuracy uses the first answer to each question.
+const quizFirst = {};
+const quizSent = {};
+
+function sendQuizResult(force) {
+  if (!window.GsatTracker || !GsatTracker.enabled || quizSent[state.unit]) return;
+  const quiz = units[state.unit].quiz || [];
+  const answered = quiz.map((q, i) => ({ q, first: quizFirst[`${state.unit}-${i}`] })).filter(x => x.first);
+  if (!answered.length || (!force && answered.length < quiz.length)) return;
+  quizSent[state.unit] = true;
+  const list = cards();
+  const wrong = answered.filter(x => x.first !== x.q.answer).map(x => {
+    const text = (x.q.options.find(o => o.letter === x.q.answer) || {}).text || "";
+    const vi = Number.isInteger(x.q.vi) && list[x.q.vi] ? x.q.vi : list.findIndex(c => c.word === text);
+    return { w: vi >= 0 ? list[vi].word : text, key: vi >= 0 ? `${KEY_PREFIX}${state.unit}:${vi}` : "" };
+  });
+  GsatTracker.logTest({
+    type: answered.length < quiz.length ? `MCQ practice (${answered.length} of ${quiz.length} answered)` : "MCQ practice",
+    level: SETCFG.level, group: Number(state.unit),
+    total: answered.length, correct: answered.length - wrong.length, wrong
+  });
+  renderQuiz();
+}
+
+function renderQuiz() {""")
+sub("""    localStorage.setItem(REVIEW_KEY, JSON.stringify(list));""", """    localStorage.setItem(REVIEW_KEY, JSON.stringify(list));
+    if (window.GsatTracker) GsatTracker.reviewChanged();""")
 write("app.js", app)
 
 # ---------------------------------------------------------------- review arcade
@@ -416,6 +484,31 @@ asub("ex:'🔊 → 貪婪的；貪得無厭的'", "ex:'🔊 → 放棄；遺棄'
 for old, new in [("選要考哪幾本書的單字", "選要考哪幾個 Level 的單字"), ("清單裡沒有這本書的字", "清單裡沒有這個 Level 的字"), ("請至少選一本書。", "請至少選一個 Level。")]:
     assert old in arc, old
     arc = arc.replace(old, new)
+asub("""function loadReview(){
+  const seen=new Set();
+  return readStore(STORE_KEY,[]).map(""", """// A teacher test link (review-arcade.html#set=4-1:3,4-2:7&label=Name) tests those words instead of the student's own list.
+const HASH=new URLSearchParams(location.hash.slice(1));
+const SET_KEYS=(HASH.get('set')||'').split(',').filter(k=>lookup.has(k)).slice(0,100);
+const SET_LABEL=(HASH.get('label')||'').slice(0,40);
+function loadReview(){
+  const seen=new Set();
+  return (SET_KEYS.length?SET_KEYS:readStore(STORE_KEY,[])).map(""")
+asub("function finish(){", """function reportRun(){
+  if(!window.GsatTracker||!state.log.length)return;
+  const levels=[...new Set(state.log.map(r=>r.card.book.slice(1)))].sort().join(',');
+  GsatTracker.logTest({type:SET_KEYS.length?'Teacher test':'Review game',level:levels,group:'',total:state.log.length,
+    correct:state.log.filter(r=>r.ok).length,wrong:state.log.filter(r=>!r.ok).map(r=>({w:r.card.w,key:r.card.key})),label:SET_LABEL});
+}
+function finish(){
+  reportRun();""")
+asub('<script src="vendor/xlsx.full.min.js"></script>', f'<script src="tracker-config.js?v={V}"></script>\n<script src="tracker.js?v={V}"></script>\n<script src="vendor/xlsx.full.min.js"></script>')
+a = arc.rindex("</script>")
+arc = arc[:a] + """
+if(SET_KEYS.length){
+  document.querySelector('.brand h1 small').textContent='老師指定測驗 Teacher test'+(SET_LABEL?'：'+SET_LABEL:'')+'｜每答對 10 題進入一分鐘小遊戲';
+  document.querySelector('#setupTitle').childNodes[1].textContent='老師指定的單字 ';
+}
+""" + arc[a:]
 write("review-arcade.html", arc)
 
 total = sum(len(G["VOCAB"]) for G in d.values())

@@ -1,0 +1,202 @@
+// Student progress tracker for the 學測6000字 board.
+// Sends each finished self-test (MCQ practice, online quiz, review game, teacher test) and the student's ★ review list
+// to the teacher's Google Sheet through the Apps Script web app set in tracker-config.js.
+// If no web app address is set, nothing is asked and nothing is sent.
+(function () {
+  const ENDPOINT = String(window.GSAT_TRACKER_URL || "").trim();
+  const NAME_KEY = "gsat456-student-name";
+  const STORE_KEY = "gsat456-review-list";
+  const SYNCED_KEY = "gsat456-review-synced";
+  const QUEUE_KEY = "gsat456-tracker-queue";
+  const enabled = /^https:\/\/script\.google\.com\//.test(ENDPOINT);
+
+  const read = (key, fallback) => { try { return JSON.parse(localStorage.getItem(key) || "") ?? fallback; } catch (error) { return fallback; } };
+  const write = (key, value) => { try { localStorage.setItem(key, JSON.stringify(value)); } catch (error) { /* storage blocked */ } };
+
+  function getName() {
+    try { return (localStorage.getItem(NAME_KEY) || "").trim(); } catch (error) { return ""; }
+  }
+
+  function setName(name) {
+    const clean = String(name || "").trim().slice(0, 40);
+    if (!clean) return;
+    try { localStorage.setItem(NAME_KEY, clean); } catch (error) { /* storage blocked */ }
+    document.querySelectorAll("[data-tracker-name]").forEach(el => { el.textContent = clean; });
+  }
+
+  // ---------- Name dialog ----------
+  let askPromise = null;
+  function askName(force) {
+    const current = getName();
+    if (current && !force) return Promise.resolve(current);
+    if (askPromise) return askPromise;
+    askPromise = new Promise(resolve => {
+      const wrap = document.createElement("div");
+      wrap.setAttribute("role", "dialog");
+      wrap.setAttribute("aria-modal", "true");
+      wrap.style.cssText = "position:fixed;inset:0;z-index:9999;display:flex;align-items:center;justify-content:center;background:rgba(23,32,42,.55);padding:16px;font-family:Arial,'Noto Sans TC','Microsoft JhengHei',sans-serif";
+      wrap.innerHTML = `
+        <form style="background:#fff;border-radius:14px;padding:22px;max-width:380px;width:100%;box-shadow:0 18px 50px rgba(0,0,0,.3)">
+          <h2 style="margin:0 0 6px;font-size:20px;color:#17202a">Your name 你的姓名</h2>
+          <p style="margin:0 0 12px;color:#5d6b7a;font-size:14px;line-height:1.5">Your practice results and ★ review words are sent to your teacher under this name.<br>你的練習成績和 ★ 複習單字會用這個名字傳給老師。</p>
+          <input type="text" maxlength="40" autocomplete="name" placeholder="班級＋姓名，例如 201 王小明" style="width:100%;padding:10px 12px;font-size:16px;border:1px solid #d7dee7;border-radius:8px;box-sizing:border-box">
+          <div style="display:flex;gap:8px;justify-content:flex-end;margin-top:14px">
+            <button type="button" data-skip style="padding:9px 14px;border:1px solid #d7dee7;border-radius:8px;background:#fff;cursor:pointer;font-size:14px">Later 稍後</button>
+            <button type="submit" style="padding:9px 16px;border:0;border-radius:8px;background:#087f8c;color:#fff;font-weight:700;cursor:pointer;font-size:14px">OK 確定</button>
+          </div>
+        </form>`;
+      const input = wrap.querySelector("input");
+      input.value = current;
+      const done = value => { wrap.remove(); askPromise = null; resolve(value); };
+      wrap.querySelector("form").addEventListener("submit", event => {
+        event.preventDefault();
+        const value = input.value.trim();
+        if (!value) { input.focus(); return; }
+        setName(value);
+        done(value);
+        reviewChanged();
+      });
+      wrap.querySelector("[data-skip]").addEventListener("click", () => done(getName()));
+      document.body.append(wrap);
+      input.focus();
+    });
+    return askPromise;
+  }
+
+  // ---------- Sending (failed sends wait in a queue and go out on the next visit) ----------
+  function send(data) {
+    if (!enabled) return Promise.resolve(false);
+    return fetch(ENDPOINT, {
+      method: "POST", mode: "no-cors", keepalive: true,
+      headers: { "Content-Type": "text/plain;charset=utf-8" },
+      body: JSON.stringify(data)
+    }).then(() => true).catch(() => {
+      const queue = read(QUEUE_KEY, []);
+      queue.push(data);
+      write(QUEUE_KEY, queue.slice(-30));
+      return false;
+    });
+  }
+
+  function flushQueue() {
+    const queue = read(QUEUE_KEY, []);
+    if (!queue.length || !enabled) return;
+    write(QUEUE_KEY, []);
+    queue.forEach(item => send(item));
+  }
+
+  // ---------- Tests ----------
+  // info: { type, level, group, total, correct, wrong: [{ w, key }], label }
+  async function logTest(info) {
+    if (!enabled || !info || !info.total) return false;
+    const name = await askName(false);
+    if (!name) return false;
+    const seen = new Set();
+    const wrong = (info.wrong || []).filter(x => x && x.w && !seen.has(x.key || x.w) && seen.add(x.key || x.w));
+    return send({
+      kind: "test",
+      name,
+      type: info.type || "Practice",
+      level: info.level ?? "",
+      group: info.group ?? "",
+      total: info.total,
+      correct: info.correct,
+      accuracy: Math.round((info.correct / info.total) * 100),
+      wrongWords: wrong.map(x => x.w).join(", "),
+      wrongKeys: wrong.map(x => x.key).filter(Boolean).join(","),
+      label: info.label || "",
+      page: location.pathname.split("/").pop() || "index.html"
+    });
+  }
+
+  // Online quiz pages (levelN-groupGG.html): called from the quiz's own submit step with its state and data.
+  function logQuiz(state, vocab, mcqs) {
+    const match = location.pathname.match(/level(\d)-group(\d+)/);
+    if (!match || !state) return;
+    const level = Number(match[1]), group = Number(match[2]);
+    if (state.studentName) setName(state.studentName);
+    const tookP1 = state.mode !== "p2", tookP2 = state.mode !== "p1";
+    const keyOf = word => {
+      const i = vocab.findIndex(v => v.word === word || v.answer === word);
+      return { w: word, key: i >= 0 ? `${level}-${group}:${i}` : "" };
+    };
+    const p1Wrong = tookP1 ? state.p1WrongWords : [];
+    const p2Wrong = tookP2 ? state.p2WrongWords : [];
+    const total = (tookP1 ? vocab.length : 0) + (tookP2 ? mcqs.length : 0);
+    const correct = (tookP1 ? vocab.length - p1Wrong.length : 0) + (tookP2 ? state.p2Score : 0);
+    logTest({
+      type: `Online quiz${state.mode === "p1" ? " (spelling)" : state.mode === "p2" ? " (MCQ)" : " (spelling + MCQ)"}`,
+      level, group, total, correct,
+      wrong: [...p1Wrong, ...p2Wrong].map(keyOf)
+    });
+  }
+
+  // ---------- ★ review list ----------
+  const loaded = {};
+  function loadLevel(n) {
+    if (window[`L${n}_DASHBOARD_UNITS`]) return Promise.resolve();
+    if (!loaded[n]) {
+      loaded[n] = new Promise(resolve => {
+        const script = document.createElement("script");
+        script.src = `l${n}-dashboard-data.js`;
+        script.onload = script.onerror = () => resolve();
+        document.head.append(script);
+      });
+    }
+    return loaded[n];
+  }
+
+  async function wordsFor(keys) {
+    const levels = [...new Set(keys.map(k => k.split("-")[0]))].filter(n => /^[456]$/.test(n));
+    await Promise.all(levels.map(loadLevel));
+    const byLevel = {};
+    keys.forEach(key => {
+      const m = key.match(/^(\d)-(\d+):(\d+)$/);
+      if (!m) return;
+      const unit = (window[`L${m[1]}_DASHBOARD_UNITS`] || []).find(u => u.unit === Number(m[2]));
+      const card = unit && unit.cards[Number(m[3])];
+      if (card) (byLevel[m[1]] = byLevel[m[1]] || []).push(card.w);
+    });
+    return Object.keys(byLevel).sort().map(n => `L${n}: ${byLevel[n].join(", ")}`).join(" | ");
+  }
+
+  async function syncReview() {
+    if (!enabled) return;
+    const name = getName();
+    if (!name) return;
+    const keys = read(STORE_KEY, []).filter(k => typeof k === "string");
+    const signature = `${name}|${keys.join(",")}`;
+    if (read(SYNCED_KEY, "") === signature) return;
+    if (!keys.length && !read(SYNCED_KEY, "")) return; // never had a list: nothing to report
+    const words = await wordsFor(keys);
+    const ok = await send({ kind: "review", name, count: keys.length, words, keys: keys.join(",") });
+    if (ok) write(SYNCED_KEY, signature);
+  }
+
+  let syncTimer = null;
+  function reviewChanged() {
+    clearTimeout(syncTimer);
+    syncTimer = setTimeout(syncReview, 4000);
+  }
+
+  // ---------- Start ----------
+  function start() {
+    const stored = getName();
+    document.querySelectorAll("[data-tracker-name]").forEach(el => { el.textContent = stored || "—"; });
+    document.querySelectorAll("[data-tracker-box]").forEach(el => { el.hidden = !enabled; });
+    document.querySelectorAll("[data-tracker-change]").forEach(el => el.addEventListener("click", () => askName(true)));
+    const quizName = document.querySelector("#student-name-input");
+    if (quizName && stored && !quizName.value) quizName.value = stored;
+    if (!enabled) return;
+    if (!stored && document.body.hasAttribute("data-tracker-ask")) askName(false);
+    flushQueue();
+    setTimeout(syncReview, 3000);
+    window.addEventListener("storage", event => { if (event.key === STORE_KEY) reviewChanged(); });
+    document.addEventListener("visibilitychange", () => {
+      if (document.visibilityState === "hidden") { clearTimeout(syncTimer); syncReview(); }
+    });
+  }
+
+  window.GsatTracker = { enabled, getName, setName, askName, logTest, logQuiz, reviewChanged, syncReview };
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", start); else start();
+})();

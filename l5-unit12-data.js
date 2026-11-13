@@ -1361,7 +1361,8 @@ window.FLASHCARD_UNITS = {
       "text": "descend"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The essay was full of colors, sounds, and smells of the night market. The teacher praised its __________ language and read the best parts aloud to the class.",
@@ -1383,7 +1384,8 @@ window.FLASHCARD_UNITS = {
       "text": "diplomatic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "The farmers watched the sky every day, but no rain came for three months. Many of them were close to __________ as their crops slowly died in the fields.",
@@ -1405,7 +1407,8 @@ window.FLASHCARD_UNITS = {
       "text": "devotion"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "We got on the wrong bus this morning and ended up at the beach. Our real __________ was the science museum on the other side of the city.",
@@ -1427,7 +1430,8 @@ window.FLASHCARD_UNITS = {
       "text": "destination"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 14
    },
    {
     "question": "Some people think everything that happens to us is planned before we are born. My grandmother often says that it was her __________ to meet my grandfather on that train.",
@@ -1449,7 +1453,8 @@ window.FLASHCARD_UNITS = {
       "text": "discourse"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 17
    },
    {
     "question": "The earthquake lasted only forty seconds, but it knocked down hundreds of buildings. It was the most __________ one the island had seen in a hundred years.",
@@ -1471,7 +1476,8 @@ window.FLASHCARD_UNITS = {
       "text": "descriptive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 20
    },
    {
     "question": "Mrs. Lee has visited the old people's home every Sunday for twenty years. The city gave her an award for her __________ to the lonely people there.",
@@ -1493,7 +1499,8 @@ window.FLASHCARD_UNITS = {
       "text": "devotion"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 24
    },
    {
     "question": "The boy had a fever and a strange red mark on his arm. The doctor ran a few tests to __________ the problem before she gave him any medicine.",
@@ -1515,7 +1522,8 @@ window.FLASHCARD_UNITS = {
       "text": "digest"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "After the blood test, the family waited nervously for the results. Luckily, the __________ was only a mild infection, and Grandpa could go home the next day.",
@@ -1537,7 +1545,8 @@ window.FLASHCARD_UNITS = {
       "text": "destination"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "People in the north and the south of the country speak the same language. However, each region has its own __________, so some words sound quite different.",
@@ -1559,7 +1568,8 @@ window.FLASHCARD_UNITS = {
       "text": "diameter"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 32
    },
    {
     "question": "The children drew a big circle on the playground with chalk. It measured four meters across, so its __________ was twice as long as the tallest boy.",
@@ -1581,7 +1591,8 @@ window.FLASHCARD_UNITS = {
       "text": "devotion"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 35
    },
    {
     "question": "The baby has been crying for ten minutes, and she is not hungry. Check her __________; it is probably wet and needs to be changed right away.",
@@ -1603,7 +1614,8 @@ window.FLASHCARD_UNITS = {
       "text": "diaper"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 38
    },
    {
     "question": "Do not lie down right after a big dinner at night. A short walk after eating helps your __________ and keeps you from feeling heavy and sleepy.",
@@ -1625,7 +1637,8 @@ window.FLASHCARD_UNITS = {
       "text": "devotion"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "Amy's best friend asked her to lie to the teacher about the broken window. Now she faces a __________: protect her friend or tell the truth.",
@@ -1647,7 +1660,8 @@ window.FLASHCARD_UNITS = {
       "text": "directory"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "Living in a foreign country for a year changed how I see the world. It added a whole new __________ to my understanding of other people and their cultures.",
@@ -1669,7 +1683,8 @@ window.FLASHCARD_UNITS = {
       "text": "disruption"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "When the medicine started to work, the pain in her back began to __________. By the evening, she could sit up and eat dinner with the family.",
@@ -1691,7 +1706,8 @@ window.FLASHCARD_UNITS = {
       "text": "disclose"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "The two neighbors had argued about the fence for weeks. Mr. Chen found a __________ way to talk to both of them, and soon they agreed to share the cost.",
@@ -1713,7 +1729,8 @@ window.FLASHCARD_UNITS = {
       "text": "destructive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 54
    },
    {
     "question": "I need to call the school nurse, but I do not know her office number. Let me look it up in the __________ that lists every teacher and office in the building.",
@@ -1735,7 +1752,8 @@ window.FLASHCARD_UNITS = {
       "text": "directory"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 58
    },
    {
     "question": "My parents want me to study medicine, but I want to be a musician. They strongly __________ of my plan, so we argue about it almost every weekend.",
@@ -1757,7 +1775,8 @@ window.FLASHCARD_UNITS = {
       "text": "destroy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "The reporter knew the name of the person who had given her the secret papers. However, she refused to __________ it, even when the judge asked her in court.",
@@ -1779,7 +1798,8 @@ window.FLASHCARD_UNITS = {
       "text": "disclose"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 68
    },
    {
     "question": "There is a strong storm coming tonight with lots of lightning. You should __________ the computer and the TV from the wall so that they are not damaged.",
@@ -1801,7 +1821,8 @@ window.FLASHCARD_UNITS = {
       "text": "diagnose"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 72
    },
    {
     "question": "In the past, people discussed important issues in newspapers and town meetings. Today, much of this public __________ happens online, where anyone with a phone can join in.",
@@ -1823,7 +1844,8 @@ window.FLASHCARD_UNITS = {
       "text": "diaper"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 77
    },
    {
     "question": "Our school welcomes students from every country and every family background. Teachers must never __________ against anyone because of where they come from or what their parents do.",
@@ -1845,7 +1867,8 @@ window.FLASHCARD_UNITS = {
       "text": "descend"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 80
    },
    {
     "question": "Fifty years ago, women in many companies were paid less than men for the same job. Laws were passed to stop this kind of __________ in the workplace.",
@@ -1867,7 +1890,8 @@ window.FLASHCARD_UNITS = {
       "text": "discrimination"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 81
    },
    {
     "question": "The concert was going well until someone's phone rang loudly. The noise seemed to __________ the singer, and she had to start the song again from the beginning.",
@@ -1889,7 +1913,8 @@ window.FLASHCARD_UNITS = {
       "text": "describe"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 85
    },
    {
     "question": "The small boat had been lost at sea for three days without food or water. The sailors were __________ for help, so they waved their shirts at every passing plane.",
@@ -1911,7 +1936,8 @@ window.FLASHCARD_UNITS = {
       "text": "diagnostic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 12
    },
    {
     "question": "The old man showed us a photo of his great-great-grandfather, who built the first house in the village. He is proud to be a __________ of such a hard-working man.",
@@ -1933,7 +1959,8 @@ window.FLASHCARD_UNITS = {
       "text": "diplomat"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "Even after fifty years of marriage, Grandpa still brings Grandma flowers every Friday. Everyone in the family says he is the most __________ husband they know.",
@@ -1955,7 +1982,8 @@ window.FLASHCARD_UNITS = {
       "text": "disruptive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 27
    },
    {
     "question": "My aunt has lived in Paris, Tokyo, and Washington for her job. As a __________, she speaks for our country and meets with leaders from around the world.",
@@ -1977,7 +2005,8 @@ window.FLASHCARD_UNITS = {
       "text": "director"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 56
    },
    {
     "question": "Kevin keeps talking, throwing paper, and making jokes during the lesson. His __________ behavior makes it hard for the other students to listen to the teacher.",
@@ -1999,7 +2028,8 @@ window.FLASHCARD_UNITS = {
       "text": "devoted"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 87
    }
   ]
  }

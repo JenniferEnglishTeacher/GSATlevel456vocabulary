@@ -1421,7 +1421,8 @@ window.FLASHCARD_UNITS = {
       "text": "hamper"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "My uncle and his husband have been together for fifteen years. They got married in 2019, the first year that __________ couples could legally marry in Taiwan.",
@@ -1443,7 +1444,8 @@ window.FLASHCARD_UNITS = {
       "text": "gloomy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Taiwan has high mountains, flat plains, and a long, beautiful coastline. These __________ features make the small island a wonderful place for hiking, farming, and fishing.",
@@ -1465,7 +1467,8 @@ window.FLASHCARD_UNITS = {
       "text": "geographical"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "In math class today we studied circles, triangles, and squares. I like __________ because I can draw the shapes and see the answers with my own eyes.",
@@ -1487,7 +1490,8 @@ window.FLASHCARD_UNITS = {
       "text": "gospel"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "The guide pointed to a huge river of ice moving slowly down the mountain. He said the __________ has been getting smaller every year because the summers are warmer.",
@@ -1509,7 +1513,8 @@ window.FLASHCARD_UNITS = {
       "text": "gorilla"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 15
    },
    {
     "question": "Movie stars seem to live exciting lives full of parties and beautiful clothes. However, their __________ image hides long working hours and very little private time.",
@@ -1531,7 +1536,8 @@ window.FLASHCARD_UNITS = {
       "text": "gloomy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 18
    },
    {
     "question": "Paris is famous for fashion, art, and fine food. Every year millions of tourists are drawn to the city by the __________ of its streets, shops, and lights.",
@@ -1553,7 +1559,8 @@ window.FLASHCARD_UNITS = {
       "text": "gloom"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 19
    },
    {
     "question": "The night was dark and the sea was rough. Then the tired sailors saw a faint __________ of light from the lighthouse and knew they were finally safe.",
@@ -1575,7 +1582,8 @@ window.FLASHCARD_UNITS = {
       "text": "growl"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "The young birds have finally learned to fly. Watch how they open their wings wide and __________ smoothly over the valley without moving them at all.",
@@ -1597,7 +1605,8 @@ window.FLASHCARD_UNITS = {
       "text": "hack"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 26
    },
    {
     "question": "The little girl put on her mother's necklace in front of the mirror. The tiny diamonds began to __________ brightly under the warm light of the bedroom lamp.",
@@ -1619,7 +1628,8 @@ window.FLASHCARD_UNITS = {
       "text": "groan"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 30
    },
    {
     "question": "Our basketball team lost the final game by just one point. A deep __________ filled the school bus on the long, quiet ride home that evening.",
@@ -1641,7 +1651,8 @@ window.FLASHCARD_UNITS = {
       "text": "gloom"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 34
    },
    {
     "question": "The other team's striker kicked the ball hard toward the net. Luckily, our __________ jumped to the right at the last second and caught it with both hands.",
@@ -1663,7 +1674,8 @@ window.FLASHCARD_UNITS = {
       "text": "glacier"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 38
    },
    {
     "question": "The two companies had argued about the contract for months. Finally, as a sign of __________, the larger company offered its partner a free month of service.",
@@ -1685,7 +1697,8 @@ window.FLASHCARD_UNITS = {
       "text": "gloom"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 43
    },
    {
     "question": "At the zoo, we watched a huge black animal eating leaves behind the glass. The __________ looked at us calmly and then turned to care for its baby.",
@@ -1707,7 +1720,8 @@ window.FLASHCARD_UNITS = {
       "text": "glider"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "Every Sunday the choir at my grandmother's church sings with great energy. Their __________ songs are so joyful that even first-time visitors start to clap along.",
@@ -1729,7 +1743,8 @@ window.FLASHCARD_UNITS = {
       "text": "grapefruit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "This large yellow fruit looks like an orange but tastes much more sour. Many people eat half a __________ for breakfast because it has very little sugar.",
@@ -1751,7 +1766,8 @@ window.FLASHCARD_UNITS = {
       "text": "gorilla"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 54
    },
    {
     "question": "The farmer opened the gate early in the morning. His sheep walked slowly up the hill to __________ on the fresh green grass for the rest of the day.",
@@ -1773,7 +1789,8 @@ window.FLASHCARD_UNITS = {
       "text": "graze"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 58
    },
    {
     "question": "After fixing his old motorcycle, Jack's hands were black and dirty. He needed strong soap and hot water to wash all the __________ off his fingers before dinner.",
@@ -1795,7 +1812,8 @@ window.FLASHCARD_UNITS = {
       "text": "gleam"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    },
    {
     "question": "The teacher announced that there would be a big test on Friday. All the students began to __________ loudly, but she just smiled and continued the lesson.",
@@ -1817,7 +1835,8 @@ window.FLASHCARD_UNITS = {
       "text": "glide"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "Do not go near that big dog behind the fence. It will __________ at you and show its sharp teeth if you get too close to its yard.",
@@ -1839,7 +1858,8 @@ window.FLASHCARD_UNITS = {
       "text": "grease"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 69
    },
    {
     "question": "Grandpa thinks everything was cheaper and better when he was young. He likes to __________ about prices, but he still enjoys shopping at the market every morning.",
@@ -1861,7 +1881,8 @@ window.FLASHCARD_UNITS = {
       "text": "grumble"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 72
    },
    {
     "question": "Last week someone broke into the school's computer system and changed many students' grades. The police are now working hard to find the __________ who did it.",
@@ -1883,7 +1904,8 @@ window.FLASHCARD_UNITS = {
       "text": "glacier"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "The weather changed suddenly in the middle of the baseball game. Hard white balls of __________ fell from the sky and broke two car windows in the parking lot.",
@@ -1905,7 +1927,8 @@ window.FLASHCARD_UNITS = {
       "text": "glitter"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 81
    },
    {
     "question": "The mountain road was covered with fallen trees after the typhoon. The damage will __________ rescue work for several days, so the villagers must wait for help.",
@@ -1927,7 +1950,8 @@ window.FLASHCARD_UNITS = {
       "text": "hamper"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 86
    },
    {
     "question": "Peter is a fast runner, but he hurt his knee last week. The injury will be a serious __________ in the race against the top school teams on Saturday.",
@@ -1949,7 +1973,8 @@ window.FLASHCARD_UNITS = {
       "text": "glamour"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 89
    },
    {
     "question": "It has rained every day for two weeks, and the sky is always gray. The __________ weather makes everyone in the office feel tired and sad.",
@@ -1971,7 +1996,8 @@ window.FLASHCARD_UNITS = {
       "text": "gloomy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 35
    },
    {
     "question": "This light aircraft has long wings but no engine at all. The pilot of a __________ must use warm rising air to stay up in the sky for a long time.",
@@ -1993,7 +2019,8 @@ window.FLASHCARD_UNITS = {
       "text": "goalpost"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 28
    },
    {
     "question": "My brother did not sleep well last night because of the noise. He has been __________ all morning and shouted at me just for turning on the radio.",
@@ -2015,7 +2042,8 @@ window.FLASHCARD_UNITS = {
       "text": "glamorous"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 75
    },
    {
     "question": "Someone sent me an email that looked like it came from my bank. The police said criminals use such emails to __________ into people's online accounts.",
@@ -2037,7 +2065,8 @@ window.FLASHCARD_UNITS = {
       "text": "hack"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 77
    },
    {
     "question": "The night market food was delicious but very oily. After eating the fried chicken, my fingers were so __________ that I could not even hold my phone.",
@@ -2059,7 +2088,8 @@ window.FLASHCARD_UNITS = {
       "text": "gloomy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    }
   ]
  }

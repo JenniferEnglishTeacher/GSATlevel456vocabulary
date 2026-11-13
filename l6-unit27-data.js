@@ -1526,7 +1526,8 @@ window.FLASHCARD_UNITS = {
       "text": "pilgrim"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The children spent the afternoon by the river. They picked up every smooth, round __________ they could find and tried to make it jump across the water.",
@@ -1548,7 +1549,8 @@ window.FLASHCARD_UNITS = {
       "text": "pimple"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Mom hid our Christmas presents in her closet last night. My little brother wanted to __________ at them, but I told him to wait until the morning.",
@@ -1570,7 +1572,8 @@ window.FLASHCARD_UNITS = {
       "text": "pinch"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "Lisa sent her application to the university three weeks ago. Her case is still __________, so she checks her email every morning for the final answer.",
@@ -1592,7 +1595,8 @@ window.FLASHCARD_UNITS = {
       "text": "pending"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 13
    },
    {
     "question": "Hengchun is a long piece of land with the sea on three sides. From this __________, you can watch the sun rise over one sea and set over another.",
@@ -1614,7 +1618,8 @@ window.FLASHCARD_UNITS = {
       "text": "pharmacy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "Every evening, small birds fly to the electric wires outside my window. They __________ there in a long row and sing until the sun goes down.",
@@ -1636,7 +1641,8 @@ window.FLASHCARD_UNITS = {
       "text": "peek"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "The small boat was far from the shore when the storm began. The fishermen were in great __________ for two hours before the coast guard finally found them.",
@@ -1658,7 +1664,8 @@ window.FLASHCARD_UNITS = {
       "text": "peril"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 26
    },
    {
     "question": "There has been no rain for three months, and the river is almost dry. Thousands of fish will __________ if the hot, dry weather continues much longer.",
@@ -1680,7 +1687,8 @@ window.FLASHCARD_UNITS = {
       "text": "perch"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "Students may use a calculator during the math test. However, it is not __________ to use a phone, so please leave it in your bag outside the room.",
@@ -1702,7 +1710,8 @@ window.FLASHCARD_UNITS = {
       "text": "perishable"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 35
    },
    {
     "question": "Learning to swim was very hard for Amy at first. Her coach told her to __________ and not give up, and after three months she could swim fifty meters.",
@@ -1724,7 +1733,8 @@ window.FLASHCARD_UNITS = {
       "text": "pinch"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    },
    {
     "question": "Nobody believed the young inventor at first, and ten companies said no to her idea. Thanks to her __________, the eleventh company finally said yes last month.",
@@ -1746,7 +1756,8 @@ window.FLASHCARD_UNITS = {
       "text": "persistence"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 44
    },
    {
     "question": "The salesman called our office every single morning for two weeks. He was so __________ that the manager finally agreed to meet him on Friday afternoon.",
@@ -1768,7 +1779,8 @@ window.FLASHCARD_UNITS = {
       "text": "perishable"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "In Britain, people do not say 'gas' when they fill up their cars. They go to a station and buy __________, which has become more expensive this year.",
@@ -1790,7 +1802,8 @@ window.FLASHCARD_UNITS = {
       "text": "gravel"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 49
    },
    {
     "question": "Plastic bags, paint, and many medicines are made from the same thick black oil. This oil, called __________, is found deep under the ground and the sea.",
@@ -1812,7 +1825,8 @@ window.FLASHCARD_UNITS = {
       "text": "peninsula"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 50
    },
    {
     "question": "The doctor gave me a paper for some medicine. At the drugstore, the __________ read it carefully and told me to take one pill after each meal.",
@@ -1834,7 +1848,8 @@ window.FLASHCARD_UNITS = {
       "text": "playwright"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "After you see the doctor, you need to get your medicine. Take this paper to the __________ on the first floor, and the staff there will give it to you.",
@@ -1856,7 +1871,8 @@ window.FLASHCARD_UNITS = {
       "text": "pilgrimage"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "The famous __________ started playing at the age of four. Last night she gave a concert in Taipei, and her fingers moved across the keys faster than anyone could see.",
@@ -1878,7 +1894,8 @@ window.FLASHCARD_UNITS = {
       "text": "pickpocket"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 59
    },
    {
     "question": "Be careful with your bag on the crowded train. Last week a __________ took my friend's wallet, and she did not notice until she tried to buy lunch.",
@@ -1900,7 +1917,8 @@ window.FLASHCARD_UNITS = {
       "text": "playwright"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "Every spring, thousands of people walk for nine days behind the Mazu statue. Each __________ hopes that the long journey will bring good luck to the family.",
@@ -1922,7 +1940,8 @@ window.FLASHCARD_UNITS = {
       "text": "pilgrim"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 69
    },
    {
     "question": "Tom looked in the mirror on the morning of the school dance. There was a big red __________ right on his nose, and he almost decided to stay home.",
@@ -1944,7 +1963,8 @@ window.FLASHCARD_UNITS = {
       "text": "plow"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 73
    },
    {
     "question": "My little cousin wants my attention all the time. When I do not look at him, he likes to __________ my arm hard, and it really hurts.",
@@ -1966,7 +1986,8 @@ window.FLASHCARD_UNITS = {
       "text": "peek"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 77
    },
    {
     "question": "In the fourteenth century, a terrible disease spread across Europe. The __________ killed about one third of all the people living there in just a few years.",
@@ -1988,7 +2009,8 @@ window.FLASHCARD_UNITS = {
       "text": "peninsula"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 81
    },
    {
     "question": "We visited a large tea farm in Nantou last weekend. Workers at the __________ pick the leaves by hand every morning and dry them in the sun.",
@@ -2010,7 +2032,8 @@ window.FLASHCARD_UNITS = {
       "text": "prescription"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 85
    },
    {
     "question": "Shakespeare wrote more than thirty plays for the theater. He is the most famous __________ in English history, and his works are still performed all over the world today.",
@@ -2032,7 +2055,8 @@ window.FLASHCARD_UNITS = {
       "text": "playwright"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 90
    },
    {
     "question": "In the old days, farmers used a water buffalo to pull a heavy tool through the soil. Today, most farmers __________ their fields with a small machine instead.",
@@ -2054,7 +2078,8 @@ window.FLASHCARD_UNITS = {
       "text": "perch"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 95
    },
    {
     "question": "You cannot join the camping trip just because you want to. You need written __________ from your parents, and you must hand it in by Friday.",
@@ -2076,7 +2101,8 @@ window.FLASHCARD_UNITS = {
       "text": "permission"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 36
    },
    {
     "question": "Running a marathon with an injured knee is not easy. It took great __________ for him to finish, but he crossed the line after six long hours.",
@@ -2098,7 +2124,8 @@ window.FLASHCARD_UNITS = {
       "text": "pharmacy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "My back has hurt for more than a week, even after I rest. If the pain continues to __________, I will stop playing basketball and see a doctor.",
@@ -2120,7 +2147,8 @@ window.FLASHCARD_UNITS = {
       "text": "persist"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "My grandmother is very religious. Last month she went on a long __________ to a famous temple in the mountains to pray for my grandfather's health.",
@@ -2142,7 +2170,8 @@ window.FLASHCARD_UNITS = {
       "text": "peninsula"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 70
    },
    {
     "question": "Last winter, the flu spread very quickly through our city. During the __________, the hospital asked every visitor to wear a mask and wash their hands.",
@@ -2164,7 +2193,8 @@ window.FLASHCARD_UNITS = {
       "text": "plantation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 84
    }
   ]
  }

@@ -1496,7 +1496,8 @@ window.FLASHCARD_UNITS = {
       "text": "accompany"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "There is no doubt at all about her musical talent. She is an __________ genius at the piano, and every teacher she has ever met says the same thing.",
@@ -1518,7 +1519,8 @@ window.FLASHCARD_UNITS = {
       "text": "absolute"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "Dry soil can take in a large amount of water very quickly. After the heavy rain last night, the garden was able to __________ all of it in just one afternoon.",
@@ -1540,7 +1542,8 @@ window.FLASHCARD_UNITS = {
       "text": "acquire"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 7
    },
    {
     "question": "Love, justice, and freedom are ideas that you cannot see or touch. Such __________ words are often very hard for young children in elementary school to understand.",
@@ -1562,7 +1565,8 @@ window.FLASHCARD_UNITS = {
       "text": "abstract"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 11
    },
    {
     "question": "Besides sports and music, our school also cares a lot about study. Students on the basketball team must keep up their __________ work, or they cannot play in games.",
@@ -1584,7 +1588,8 @@ window.FLASHCARD_UNITS = {
       "text": "adequate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 15
    },
    {
     "question": "Mr. Brown has lived and worked in Taiwan for more than twenty years. However, you can still clearly hear his British __________ whenever he says certain words.",
@@ -1606,7 +1611,8 @@ window.FLASHCARD_UNITS = {
       "text": "accuracy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 19
    },
    {
     "question": "At first, almost nobody liked the new rule about school uniforms. Over time, however, the rule slowly won __________ from most of the students and even their parents.",
@@ -1628,7 +1634,8 @@ window.FLASHCARD_UNITS = {
       "text": "admiration"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 22
    },
    {
     "question": "The city library has a special room for old and rare books. Only teachers and researchers have __________ to it, and they must use a key card at the door.",
@@ -1650,7 +1657,8 @@ window.FLASHCARD_UNITS = {
       "text": "accent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "Nobody planned to break the classroom window during the game. The ball hit it by chance, so the damage was completely __________, and no one was blamed for it.",
@@ -1672,7 +1680,8 @@ window.FLASHCARD_UNITS = {
       "text": "abstract"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 33
    },
    {
     "question": "Grandpa should not go to the hospital alone because he gets confused easily. Could you __________ him there this afternoon and help him talk to the doctor?",
@@ -1694,7 +1703,8 @@ window.FLASHCARD_UNITS = {
       "text": "accomplish"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "The team worked day and night for three whole months. In the end, they were able to __________ their goal of building the new bridge before the summer rains came.",
@@ -1716,7 +1726,8 @@ window.FLASHCARD_UNITS = {
       "text": "adopt"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "My aunt is very good with numbers and loves keeping careful records. She works as an __________ and checks the money reports of a large company every month.",
@@ -1738,7 +1749,8 @@ window.FLASHCARD_UNITS = {
       "text": "accountant"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 45
    },
    {
     "question": "A good map must be correct in every small detail. Hikers in the mountains depend on its __________ to find the right path and get home safely before dark.",
@@ -1760,7 +1772,8 @@ window.FLASHCARD_UNITS = {
       "text": "acquisition"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 50
    },
    {
     "question": "You saw him standing near the lost bag, but that alone does not prove anything. Please do not __________ him of stealing it unless you have clear evidence.",
@@ -1782,7 +1795,8 @@ window.FLASHCARD_UNITS = {
       "text": "acquire"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "Be very careful when you work in the science lab this afternoon. The __________ in that brown bottle is strong enough to burn a hole in your clothes within seconds.",
@@ -1804,7 +1818,8 @@ window.FLASHCARD_UNITS = {
       "text": "accent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    },
    {
     "question": "I only met him once at a friend's birthday party last year. He is just an __________, so I do not know his phone number or even where he lives.",
@@ -1826,7 +1841,8 @@ window.FLASHCARD_UNITS = {
       "text": "addict"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 62
    },
    {
     "question": "The young player trained hard with the national team for two years. During that time, he was able to __________ many new skills that made him a much better player.",
@@ -1848,7 +1864,8 @@ window.FLASHCARD_UNITS = {
       "text": "abandon"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 66
    },
    {
     "question": "When my family moved to a cold northern country, we had to change many of our habits. It took us a whole year to __________ to the long, dark winters there.",
@@ -1870,7 +1887,8 @@ window.FLASHCARD_UNITS = {
       "text": "absorb"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 69
    },
    {
     "question": "He cannot go even one single day without playing video games. His friends worry about him and say that he has already become a real game __________.",
@@ -1892,7 +1910,8 @@ window.FLASHCARD_UNITS = {
       "text": "accountant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "The food for the three-day camping trip was carefully planned by the leader. The amount was __________ for ten people, and nobody went hungry during the trip.",
@@ -1914,7 +1933,8 @@ window.FLASHCARD_UNITS = {
       "text": "absolute"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 77
    },
    {
     "question": "The sound from the TV is too low for Grandma to hear from her chair. Can you __________ the volume a little so that she can enjoy her favorite show?",
@@ -1936,7 +1956,8 @@ window.FLASHCARD_UNITS = {
       "text": "adjust"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 80
    },
    {
     "question": "The young doctor stayed in the poor mountain village to help sick people for ten years. Everyone who knows her story agrees that her work is truly __________.",
@@ -1958,7 +1979,8 @@ window.FLASHCARD_UNITS = {
       "text": "absolute"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 85
    },
    {
     "question": "The students watched the famous scientist with great __________ as she walked onto the stage. They had read about her work and wanted to be just like her.",
@@ -1980,7 +2002,8 @@ window.FLASHCARD_UNITS = {
       "text": "admission"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 86
    },
    {
     "question": "The science museum is very popular with families on weekends. Tickets are cheap for adults, and __________ is completely free for children under the age of six.",
@@ -2002,7 +2025,8 @@ window.FLASHCARD_UNITS = {
       "text": "admission"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 89
    },
    {
     "question": "The company wants to save energy and protect the environment at the same time. It plans to __________ a new system that turns off all the lights automatically at night.",
@@ -2024,7 +2048,8 @@ window.FLASHCARD_UNITS = {
       "text": "abandon"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 94
    },
    {
     "question": "The new playground in the park is __________ to all children. There are special wide paths so that kids in wheelchairs can reach every area without any help.",
@@ -2046,7 +2071,8 @@ window.FLASHCARD_UNITS = {
       "text": "academic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "The test results are very important for the patient's treatment. The nurse checked the numbers twice to make sure that they were __________ before giving them to the doctor.",
@@ -2068,7 +2094,8 @@ window.FLASHCARD_UNITS = {
       "text": "accurate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "He did not want to say that he had made a serious mistake. Finally, however, he had to __________ in front of the whole class that the plan was his idea.",
@@ -2090,7 +2117,8 @@ window.FLASHCARD_UNITS = {
       "text": "accuse"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 91
    },
    {
     "question": "Running a full marathon at the age of seventy is not an easy thing to do. Everyone in the family was very proud of Grandpa's __________ when he crossed the line.",
@@ -2112,7 +2140,8 @@ window.FLASHCARD_UNITS = {
       "text": "accusation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "Many teenagers play online games until very late at night. Doctors warn that game __________ can hurt both their sleep and their school work in serious ways.",
@@ -2134,7 +2163,8 @@ window.FLASHCARD_UNITS = {
       "text": "addiction"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 75
    }
   ]
  }

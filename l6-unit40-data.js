@@ -1526,7 +1526,8 @@ window.FLASHCARD_UNITS = {
       "text": "workforce"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Mr. Chen could earn much more money in business, but he has taught in a small village school for thirty years. He says teaching is his true __________, not just a job.",
@@ -1548,7 +1549,8 @@ window.FLASHCARD_UNITS = {
       "text": "wardrobe"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "Ben does not enjoy sitting in a classroom reading textbooks all day. Instead, he chose a __________ high school where he can learn to fix cars and machines with his hands.",
@@ -1570,7 +1572,8 @@ window.FLASHCARD_UNITS = {
       "text": "wholesome"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 6
    },
    {
     "question": "The letters a, e, i, o, and u are different from b, c, and d. In English, each of these five letters is called a __________ and can be pronounced in several ways.",
@@ -1592,7 +1595,8 @@ window.FLASHCARD_UNITS = {
       "text": "walnut"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 10
    },
    {
     "question": "Our dog knows the sound of Dad's car very well. Every evening, as soon as the car turns into our street, he runs to the door and starts to __________ his tail happily.",
@@ -1614,7 +1618,8 @@ window.FLASHCARD_UNITS = {
       "text": "wrestle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 13
    },
    {
     "question": "My grandmother puts a lot of nuts in her cakes because she says they are good for the brain. Her favorite is the __________, which has a hard brown shell and a bitter-sweet taste.",
@@ -1636,7 +1641,8 @@ window.FLASHCARD_UNITS = {
       "text": "woodpecker"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 17
    },
    {
     "question": "After the operation, Grandpa could not go home right away. The nurses moved him to a quiet __________ on the fifth floor, where he shared a room with three other patients.",
@@ -1658,7 +1664,8 @@ window.FLASHCARD_UNITS = {
       "text": "ward"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 20
    },
    {
     "question": "Winter is coming, and I cannot find my warm coats anywhere. They are probably at the back of my __________, hanging behind all the summer dresses and T-shirts.",
@@ -1680,7 +1687,8 @@ window.FLASHCARD_UNITS = {
       "text": "ward"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "The police believed the stolen paintings were hidden in the house, but they could not simply walk in. They had to wait for a judge to sign a search __________ first.",
@@ -1702,7 +1710,8 @@ window.FLASHCARD_UNITS = {
       "text": "wrinkle"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 27
    },
    {
     "question": "My new phone stopped working only three months after I bought it. Luckily, it still had a one-year __________, so the shop repaired it for free within a week.",
@@ -1724,7 +1733,8 @@ window.FLASHCARD_UNITS = {
       "text": "wardrobe"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "We are going hiking next weekend, and the weather report says it may rain. Please make sure your jacket and boots are __________, or you will get cold and wet quickly.",
@@ -1746,7 +1756,8 @@ window.FLASHCARD_UNITS = {
       "text": "wooden"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 32
    },
    {
     "question": "The farmers worked in the hot fields from six in the morning until the sun went down. By dinner time, they were so __________ that they fell asleep at the table.",
@@ -1768,7 +1779,8 @@ window.FLASHCARD_UNITS = {
       "text": "wholesome"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "Early every morning, the fishing boats come back from the sea with their catch. Restaurant owners wait at the __________ to buy the freshest fish before the boats even finish unloading.",
@@ -1790,7 +1802,8 @@ window.FLASHCARD_UNITS = {
       "text": "wharf"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 41
    },
    {
     "question": "Grandpa keeps a special bottle of Scottish __________ in the cabinet, but he never drinks it alone. He only opens it on New Year's Eve when his old friends come to visit.",
@@ -1812,7 +1825,8 @@ window.FLASHCARD_UNITS = {
       "text": "walnut"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 44
    },
    {
     "question": "The night market sells T-shirts for only one hundred dollars each. The sellers can offer such low prices because they buy hundreds of shirts at __________ prices from the factory.",
@@ -1834,7 +1848,8 @@ window.FLASHCARD_UNITS = {
       "text": "waterproof"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 47
    },
    {
     "question": "Mom never lets us eat chips and candy for breakfast. She always prepares something __________, such as eggs, fresh fruit, and whole-grain bread, so we have energy for school.",
@@ -1856,7 +1871,8 @@ window.FLASHCARD_UNITS = {
       "text": "wholesome"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "Mrs. Wang's husband died in a car accident when she was only thirty-five. As a young __________, she had to work two jobs to raise her children by herself.",
@@ -1878,7 +1894,8 @@ window.FLASHCARD_UNITS = {
       "text": "wholesaler"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 56
    },
    {
     "question": "You must tell the police everything you saw that night, even the small details. It is against the law to __________ information during a serious investigation like this one.",
@@ -1900,7 +1917,8 @@ window.FLASHCARD_UNITS = {
       "text": "zoom"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 59
    },
    {
     "question": "The old folk song tells a sad story of a poor sailor. He loses his ship in a storm, his family forgets him, and the whole song is full of __________.",
@@ -1922,7 +1940,8 @@ window.FLASHCARD_UNITS = {
       "text": "yoga"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 62
    },
    {
     "question": "If you hear a quick knocking sound in the forest, look up at the trees. A __________ is probably using its strong beak to make a hole and find insects to eat.",
@@ -1944,7 +1963,8 @@ window.FLASHCARD_UNITS = {
       "text": "woodpecker"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "The factory used to employ about two thousand people in our town. Now machines do most of the work, and the __________ has dropped to fewer than five hundred workers.",
@@ -1966,7 +1986,8 @@ window.FLASHCARD_UNITS = {
       "text": "warranty"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "My two younger brothers love to fight for fun on the living room floor after dinner. Mom always tells them not to __________ near the glass table in case someone gets hurt.",
@@ -1988,7 +2009,8 @@ window.FLASHCARD_UNITS = {
       "text": "withhold"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "Grandma is proud of the lines on her face and refuses to hide them. She says each __________ comes from years of smiling, worrying, and loving her family.",
@@ -2010,7 +2032,8 @@ window.FLASHCARD_UNITS = {
       "text": "vowel"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "Jack has lived in a small, noisy apartment in Taipei for ten years. More and more, he has begun to __________ for the quiet green hills of the village where he grew up.",
@@ -2032,7 +2055,8 @@ window.FLASHCARD_UNITS = {
       "text": "yearn"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 84
    },
    {
     "question": "My aunt does not run or lift heavy weights to stay healthy. Instead, she practices __________ every morning, stretching slowly and breathing deeply to relax her body and mind.",
@@ -2054,7 +2078,8 @@ window.FLASHCARD_UNITS = {
       "text": "yogurt"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 88
    },
    {
     "question": "For breakfast, Lisa likes something cool and healthy instead of sweet cereal. She mixes a cup of plain __________ with honey and fresh strawberries, and it tastes delicious.",
@@ -2076,7 +2101,8 @@ window.FLASHCARD_UNITS = {
       "text": "whiskey"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 91
    },
    {
     "question": "The cars on the highway __________ past so fast that you can hardly see their colors. That is why there is a high fence to keep people from walking across it.",
@@ -2098,7 +2124,8 @@ window.FLASHCARD_UNITS = {
       "text": "zoom"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 95
    },
    {
     "question": "Our small bookshop does not buy books directly from each publisher. Instead, we order everything from a __________, who sells large numbers of books to many shops at once.",
@@ -2120,7 +2147,8 @@ window.FLASHCARD_UNITS = {
       "text": "wrestler"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 49
    },
    {
     "question": "After his wife passed away last spring, Mr. Lee had to learn to cook and clean by himself. The lonely __________ now invites his neighbors to dinner every Sunday evening.",
@@ -2142,7 +2170,8 @@ window.FLASHCARD_UNITS = {
       "text": "widower"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "Two nurses left the hospital last month, and nobody has been hired to replace them. The other nurses say their __________ has doubled, and they are too tired to care for patients well.",
@@ -2164,7 +2193,8 @@ window.FLASHCARD_UNITS = {
       "text": "workforce"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 73
    }
   ]
  }

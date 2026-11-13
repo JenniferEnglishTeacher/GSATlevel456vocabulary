@@ -1226,7 +1226,8 @@ window.FLASHCARD_UNITS = {
       "text": "identification"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The teacher found a lunch box in the classroom, but it had no name on it. She asked the students to help her __________ the owner by looking at the stickers.",
@@ -1248,7 +1249,8 @@ window.FLASHCARD_UNITS = {
       "text": "illustrate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 1
    },
    {
     "question": "\"Piece of cake\" does not really mean a kind of dessert. It is an __________ that English speakers use when they want to say something is very easy.",
@@ -1270,7 +1272,8 @@ window.FLASHCARD_UNITS = {
       "text": "infant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 5
    },
    {
     "question": "The machines in the factory have not been used since the company closed last year. They have stood __________ for months, and a thick layer of dust now covers everything.",
@@ -1292,7 +1295,8 @@ window.FLASHCARD_UNITS = {
       "text": "incredible"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "My sister has pictures of the singer all over her bedroom wall. He is her __________, and she dreams of seeing him at a concert one day.",
@@ -1314,7 +1318,8 @@ window.FLASHCARD_UNITS = {
       "text": "immigrant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 13
    },
    {
     "question": "Many people still believe that the sun goes around the earth. Such __________ is surprising today, when the facts are only one click away on the Internet.",
@@ -1336,7 +1341,8 @@ window.FLASHCARD_UNITS = {
       "text": "imagination"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 16
    },
    {
     "question": "Tom had never heard of the famous writer and did not know any of her books. His friends were surprised that he was so __________ about literature.",
@@ -1358,7 +1364,8 @@ window.FLASHCARD_UNITS = {
       "text": "incidental"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 17
    },
    {
     "question": "It is hard to understand how a heart works just from words. The doctor used a simple drawing to __________ how blood moves through the body.",
@@ -1380,7 +1387,8 @@ window.FLASHCARD_UNITS = {
       "text": "illustrate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 21
    },
    {
     "question": "The story is easy to follow because there is a picture on every page. Each colorful __________ shows the reader exactly what the words on that page describe.",
@@ -1402,7 +1410,8 @@ window.FLASHCARD_UNITS = {
       "text": "impression"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "Dragons and unicorns do not live anywhere in the real world. They are __________ animals that exist only in old stories, fantasy films, and the minds of children.",
@@ -1424,7 +1433,8 @@ window.FLASHCARD_UNITS = {
       "text": "idle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 25
    },
    {
     "question": "Instead of a normal birthday cake, Mia built a cake that looked like a castle with a chocolate river. Everyone said it was the most __________ dessert they had ever seen.",
@@ -1446,7 +1456,8 @@ window.FLASHCARD_UNITS = {
       "text": "implicit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "My little brother likes to copy everything I do. When I wave my hand, he waves too, and he tries to __________ the way I talk and laugh.",
@@ -1468,7 +1479,8 @@ window.FLASHCARD_UNITS = {
       "text": "impose"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "The painting in the hotel looks like a famous work by Van Gogh, but it is not real. It is only an __________ made by a local art student.",
@@ -1490,7 +1502,8 @@ window.FLASHCARD_UNITS = {
       "text": "imitation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 32
    },
    {
     "question": "Mr. Nguyen came to Taiwan from Vietnam twenty years ago and now owns a restaurant here. As an __________ who started with nothing, he worked hard to give his children a better life.",
@@ -1512,7 +1525,8 @@ window.FLASHCARD_UNITS = {
       "text": "infant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 35
    },
    {
     "question": "Life was hard in their small village, and there were few jobs. So the family decided to __________ to Canada, where they hoped to start a new life.",
@@ -1534,7 +1548,8 @@ window.FLASHCARD_UNITS = {
       "text": "immigrate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 36
    },
    {
     "question": "When we landed in Tokyo, we had to stand in a long line for almost an hour. The officers at __________ checked every passport before letting people into the country.",
@@ -1556,7 +1571,8 @@ window.FLASHCARD_UNITS = {
       "text": "imagination"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "The new MRT line opened last year, and now far fewer people drive into the city. It has had a big __________ on traffic and on the air quality downtown.",
@@ -1578,7 +1594,8 @@ window.FLASHCARD_UNITS = {
       "text": "idol"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    },
    {
     "question": "Mom did not say that I had to clean my room right now. However, the way she looked at the mess seemed to __________ that she wanted it done today.",
@@ -1600,7 +1617,8 @@ window.FLASHCARD_UNITS = {
       "text": "idolize"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "Too many cars are coming into the old town, and the narrow streets are always full. The city plans to __________ a fee on every car that enters during the day.",
@@ -1622,7 +1640,8 @@ window.FLASHCARD_UNITS = {
       "text": "impose"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    },
    {
     "question": "Jack arrived late for his first day of work and forgot the manager's name. He made a bad __________ on everyone, but he worked hard to change it later.",
@@ -1644,7 +1663,8 @@ window.FLASHCARD_UNITS = {
       "text": "imitation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "Two students got into a fight in the hallway yesterday, and one of them broke his glasses. The principal wants to talk to everyone who saw the __________.",
@@ -1666,7 +1686,8 @@ window.FLASHCARD_UNITS = {
       "text": "idiom"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    },
    {
     "question": "The summer camp costs 8,000 dollars, and that price covers everything. It pays for the bus, all the meals, and the hotel room, __________ a hot breakfast every morning.",
@@ -1688,7 +1709,8 @@ window.FLASHCARD_UNITS = {
       "text": "including"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 62
    },
    {
     "question": "The young swimmer broke the world record by almost two seconds at the age of fifteen. Everyone agreed it was an __________ result for someone so young.",
@@ -1710,7 +1732,8 @@ window.FLASHCARD_UNITS = {
       "text": "infantile"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "The sky is getting dark, and the wind has suddenly turned cold. These are a clear __________ that a storm will reach the city within the next hour.",
@@ -1732,7 +1755,8 @@ window.FLASHCARD_UNITS = {
       "text": "impact"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    },
    {
     "question": "The baby is only three months old, so she cannot sit up or hold a spoon yet. Taking care of an __________ is a full-time job for her tired parents.",
@@ -1754,7 +1778,8 @@ window.FLASHCARD_UNITS = {
       "text": "idol"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 76
    },
    {
     "question": "Close your eyes and think of a quiet beach with warm sand and blue water. Can you __________ how relaxing it would be to spend a whole week there?",
@@ -1776,7 +1801,8 @@ window.FLASHCARD_UNITS = {
       "text": "indicate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "Amy practiced her speech twenty times before the contest. She wanted to __________ the judges with her clear voice and confident smile, and she won first prize.",
@@ -1798,7 +1824,8 @@ window.FLASHCARD_UNITS = {
       "text": "impose"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "The new library has five floors, a garden on the roof, and more than a million books. Visitors agree that it is the most __________ building in the city.",
@@ -1820,7 +1847,8 @@ window.FLASHCARD_UNITS = {
       "text": "idle"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 55
    },
    {
     "question": "The ticket price is 500 dollars, and you get a lot for your money. It will __________ a drink, a snack, and a free poster of the film.",
@@ -1842,7 +1870,8 @@ window.FLASHCARD_UNITS = {
       "text": "include"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    },
    {
     "question": "Some boys at school say rude things to make others angry. The best thing you can do is to __________ them, because they will stop when nobody listens.",
@@ -1864,7 +1893,8 @@ window.FLASHCARD_UNITS = {
       "text": "imitate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    }
   ]
  }

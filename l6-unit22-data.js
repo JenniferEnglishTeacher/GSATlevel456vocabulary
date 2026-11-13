@@ -1601,7 +1601,8 @@ window.FLASHCARD_UNITS = {
       "text": "manuscript"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The pond in the park looks empty and quiet in winter. But in summer it is covered with big pink __________ flowers, and people come early to take photos of them.",
@@ -1623,7 +1624,8 @@ window.FLASHCARD_UNITS = {
       "text": "lullaby"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "Attention, please! The school's new __________ is so powerful that students at the far end of the playground can hear every word of the morning announcements clearly.",
@@ -1645,7 +1647,8 @@ window.FLASHCARD_UNITS = {
       "text": "loudspeaker"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "Many young people want to become YouTubers these days. They think it is a __________ job, but in fact only a small number of them make a lot of money.",
@@ -1667,7 +1670,8 @@ window.FLASHCARD_UNITS = {
       "text": "lush"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 13
    },
    {
     "question": "The baby would not stop crying at midnight. His mother picked him up and sang a soft __________ until he closed his eyes and fell asleep in her arms.",
@@ -1689,7 +1693,8 @@ window.FLASHCARD_UNITS = {
       "text": "loudspeaker"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 17
    },
    {
     "question": "Chinese New Year does not fall on the same date every year. That is because it follows the __________ calendar, which is based on the moon, not the sun.",
@@ -1711,7 +1716,8 @@ window.FLASHCARD_UNITS = {
       "text": "lunar"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 21
    },
    {
     "question": "Shops in the night market often give out free samples. They hope the taste of the food will __________ hungry visitors to stop and buy a whole bag.",
@@ -1733,7 +1739,8 @@ window.FLASHCARD_UNITS = {
       "text": "meditate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 25
    },
    {
     "question": "It rained almost every day in May. By June the hills around our town were __________ and green, and the grass grew so fast that it had to be cut every week.",
@@ -1755,7 +1762,8 @@ window.FLASHCARD_UNITS = {
       "text": "medieval"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 30
    },
    {
     "question": "\"Excuse me, __________, I think you dropped your wallet near the ticket machine.\" The young man quickly picked it up and handed it to the surprised woman.",
@@ -1777,7 +1785,8 @@ window.FLASHCARD_UNITS = {
       "text": "lottery"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    },
    {
     "question": "The letters on the medicine bottle are too small for my grandfather to read. He uses a special glass to __________ them so he can see the words clearly.",
@@ -1799,7 +1808,8 @@ window.FLASHCARD_UNITS = {
       "text": "magnify"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 39
    },
    {
     "question": "In the old tale, a dragon keeps a beautiful young __________ locked in a tower. A brave prince climbs the high tower at night and carries her to safety.",
@@ -1821,7 +1831,8 @@ window.FLASHCARD_UNITS = {
       "text": "knight"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "Green Island is a small island off the east coast of Taiwan. A boat takes visitors back to the __________ in about fifty minutes when the sea is calm.",
@@ -1843,7 +1854,8 @@ window.FLASHCARD_UNITS = {
       "text": "mastery"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 49
    },
    {
     "question": "We reached the top of the mountain just before sunrise. The view of the __________ peaks rising above a sea of clouds made everyone stop talking and stare.",
@@ -1865,7 +1877,8 @@ window.FLASHCARD_UNITS = {
       "text": "lucrative"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 54
    },
    {
     "question": "Standing under the giant waterfall, we felt very small. Its power and __________ were so great that we forgot to take pictures and simply watched the falling water.",
@@ -1887,7 +1900,8 @@ window.FLASHCARD_UNITS = {
       "text": "mastery"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 55
    },
    {
     "question": "The famous novel almost never got published. The writer sent her __________ to twelve different publishers before one finally agreed to print the book in 1997.",
@@ -1909,7 +1923,8 @@ window.FLASHCARD_UNITS = {
       "text": "lullaby"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 58
    },
    {
     "question": "Every autumn, thousands of tourists drive to the mountains of Taichung. They go there to see the __________ leaves turn bright red and gold before they fall.",
@@ -1931,7 +1946,8 @@ window.FLASHCARD_UNITS = {
       "text": "maple"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    },
    {
     "question": "The new sports center is beautiful inside and out. Sadly, the ugly parking lot in front of it will __________ the view from the main road.",
@@ -1953,7 +1969,8 @@ window.FLASHCARD_UNITS = {
       "text": "mediate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "The teacher tried a new way of teaching grammar this semester. However, the students' test scores showed only a __________ improvement of two or three points.",
@@ -1975,7 +1992,8 @@ window.FLASHCARD_UNITS = {
       "text": "marginal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 72
    },
    {
     "question": "Jackie Chan is famous all over the world. He learned __________ arts as a child in Hong Kong, and he does most of his own fighting scenes in his movies.",
@@ -1997,7 +2015,8 @@ window.FLASHCARD_UNITS = {
       "text": "medieval"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 77
    },
    {
     "question": "The Taipei 101 building was the tallest in the world when it opened. Even today, visitors call it a __________ of engineering because it can stand firm in strong typhoons.",
@@ -2019,7 +2038,8 @@ window.FLASHCARD_UNITS = {
       "text": "margin"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 82
    },
    {
     "question": "Lisa has practiced Japanese for an hour every single day since junior high. Her __________ of the language is so complete that people in Tokyo often think she grew up there.",
@@ -2041,7 +2061,8 @@ window.FLASHCARD_UNITS = {
       "text": "meditation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 86
    },
    {
     "question": "The two neighbors argued about the fence for months. In the end, they asked the village chief to __________ and help them reach an agreement both sides could accept.",
@@ -2063,7 +2084,8 @@ window.FLASHCARD_UNITS = {
       "text": "mar"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 91
    },
    {
     "question": "The old castle on the hill was built in the twelfth century. Its thick stone walls and tall towers give visitors a clear picture of life in __________ times.",
@@ -2085,7 +2107,8 @@ window.FLASHCARD_UNITS = {
       "text": "lucrative"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 96
    },
    {
     "question": "My aunt always looks calm, even in busy weeks. Every morning she sits quietly on a cushion to __________ for twenty minutes before she starts her day.",
@@ -2107,7 +2130,8 @@ window.FLASHCARD_UNITS = {
       "text": "mar"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 100
    },
    {
     "question": "Many people feel stressed because of work and exams. Some doctors now suggest daily __________, which teaches you to sit still, breathe slowly, and clear your mind.",
@@ -2129,7 +2153,8 @@ window.FLASHCARD_UNITS = {
       "text": "majesty"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 101
    },
    {
     "question": "From the top of the hotel, we could see the whole bay. The __________ view at sunset, with the sky turning pink and gold, was worth the long climb.",
@@ -2151,7 +2176,8 @@ window.FLASHCARD_UNITS = {
       "text": "marginal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "The company and the workers could not agree about pay. A __________ from outside was invited to listen to both sides and help them find a middle way.",
@@ -2173,7 +2199,8 @@ window.FLASHCARD_UNITS = {
       "text": "loudspeaker"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 92
    },
    {
     "question": "Thanks for inviting us to your beach house last weekend. We had a __________ time swimming, cooking seafood, and watching the stars from the roof at night.",
@@ -2195,7 +2222,8 @@ window.FLASHCARD_UNITS = {
       "text": "marvelous"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 84
    },
    {
     "question": "Leonardo da Vinci painted the Mona Lisa over many years. Today the painting is seen as a __________, and millions of people visit Paris just to see it.",
@@ -2217,7 +2245,8 @@ window.FLASHCARD_UNITS = {
       "text": "manuscript"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 90
    },
    {
     "question": "Please do not tell me how the movie ends! I am going to watch it with my cousins on Saturday, and you will __________ it for all of us.",
@@ -2239,7 +2268,8 @@ window.FLASHCARD_UNITS = {
       "text": "spoil"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 69
    }
   ]
  }

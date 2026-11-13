@@ -1556,7 +1556,8 @@ window.FLASHCARD_UNITS = {
       "text": "outlaw"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "Ever since he saw that movie about space, Tom can think of nothing else. Thoughts of rockets and planets __________ him day and night, and he even dreams about them.",
@@ -1578,7 +1579,8 @@ window.FLASHCARD_UNITS = {
       "text": "obsess"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 5
    },
    {
     "question": "Grandpa refuses to use a smartphone no matter what we say. He is so __________ that he still writes letters by hand and mails them at the post office.",
@@ -1600,7 +1602,8 @@ window.FLASHCARD_UNITS = {
       "text": "organic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "Snow is very rare in Taipei, so people get excited when it falls on the mountains. A white Yangmingshan is a special __________ that happens only once every few years.",
@@ -1622,7 +1625,8 @@ window.FLASHCARD_UNITS = {
       "text": "ordeal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 13
    },
    {
     "question": "This sea animal has eight long arms and no bones at all. An __________ can squeeze its soft body through a hole that is smaller than a coin.",
@@ -1644,7 +1648,8 @@ window.FLASHCARD_UNITS = {
       "text": "organizer"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "Something in the trash can has gone bad. The terrible __________ fills the whole kitchen, so please take the bag outside right now before the guests arrive.",
@@ -1666,7 +1671,8 @@ window.FLASHCARD_UNITS = {
       "text": "odor"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 22
    },
    {
     "question": "Taiwan wants to make more clean energy from the wind. Dozens of __________ wind turbines now stand in the sea near Changhua, far away from people's homes.",
@@ -1688,7 +1694,8 @@ window.FLASHCARD_UNITS = {
       "text": "obligatory"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "A mother cat usually has four to six kittens at one time. She feeds and protects her __________ for about two months before they can live on their own.",
@@ -1710,7 +1717,8 @@ window.FLASHCARD_UNITS = {
       "text": "operator"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 30
    },
    {
     "question": "The new MRT line is finished, but the trains are not running yet. The system will become fully __________ in March, when all the safety tests are complete.",
@@ -1732,7 +1740,8 @@ window.FLASHCARD_UNITS = {
       "text": "organic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "In the story, the cruel king takes all the farmers' rice and makes them work without pay. The people finally rise up because they will not let him __________ them any longer.",
@@ -1754,7 +1763,8 @@ window.FLASHCARD_UNITS = {
       "text": "obsess"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 39
    },
    {
     "question": "For thirty years, the people of that country could not speak freely or choose their leaders. Many families escaped to other lands to get away from this __________.",
@@ -1776,7 +1786,8 @@ window.FLASHCARD_UNITS = {
       "text": "oppression"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "The hikers were lost in the cold mountains for three days without food. When rescuers finally found them, they were weak but glad the terrible __________ was over.",
@@ -1798,7 +1809,8 @@ window.FLASHCARD_UNITS = {
       "text": "orphanage"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "When the fire alarm rang, nobody pushed or ran. The students left the building in an __________ line, and the teachers counted them outside in less than five minutes.",
@@ -1820,7 +1832,8 @@ window.FLASHCARD_UNITS = {
       "text": "orderly"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 47
    },
    {
     "question": "More than two thousand runners joined the charity race last Sunday. The __________ of the event thanked the volunteers who gave out water and cheered along the road.",
@@ -1842,7 +1855,8 @@ window.FLASHCARD_UNITS = {
       "text": "operator"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 52
    },
    {
     "question": "It is easy to get lost in the big night market. Use the tall red temple gate to __________ yourself, and remember that the MRT station is right behind it.",
@@ -1864,7 +1878,8 @@ window.FLASHCARD_UNITS = {
       "text": "adorn"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 57
    },
    {
     "question": "The new museum hall shows art from China, Japan, and Korea. Visitors can see beautiful __________ paintings, silk fans, and pottery that are several hundred years old.",
@@ -1886,7 +1901,8 @@ window.FLASHCARD_UNITS = {
       "text": "obligatory"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 58
    },
    {
     "question": "Bubble tea is now sold all over the world. However, many people do not know that this popular drink did not __________ in Japan but in Taiwan in the 1980s.",
@@ -1908,7 +1924,8 @@ window.FLASHCARD_UNITS = {
       "text": "originate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 62
    },
    {
     "question": "Our Christmas tree looks beautiful this year. Mom hung a shiny little glass __________ on every branch, and Dad put a gold star on the very top.",
@@ -1930,7 +1947,8 @@ window.FLASHCARD_UNITS = {
       "text": "ounce"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "After the earthquake, many children lost both of their parents. A kind doctor opened an __________ where these children could live, eat, and go to school together.",
@@ -1952,7 +1970,8 @@ window.FLASHCARD_UNITS = {
       "text": "operation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 72
    },
    {
     "question": "Dr. Wang does not believe in strange new cures sold on the Internet. He always chooses __________ treatments, such as medicine and rest, that doctors have trusted for many years.",
@@ -1974,7 +1993,8 @@ window.FLASHCARD_UNITS = {
       "text": "obsessive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "The American recipe measures butter in a unit we do not use in Taiwan. One __________ is about 28 grams, so eight of them make a little more than 220 grams.",
@@ -1996,7 +2016,8 @@ window.FLASHCARD_UNITS = {
       "text": "pound"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 80
    },
    {
     "question": "More than a hundred students had a fever and stayed home last week. Because of the flu __________, the school closed for three days and cleaned every classroom.",
@@ -2018,7 +2039,8 @@ window.FLASHCARD_UNITS = {
       "text": "outing"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 84
    },
    {
     "question": "Lily loves parties and talks to everyone she meets. She is so __________ that she already made ten new friends on the first day of summer camp.",
@@ -2040,7 +2062,8 @@ window.FLASHCARD_UNITS = {
       "text": "orthodox"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 88
    },
    {
     "question": "Our class is going to the zoo next Friday. Please bring a lunch box and a hat for the __________, and remember to hand in the permission slip tomorrow.",
@@ -2062,7 +2085,8 @@ window.FLASHCARD_UNITS = {
       "text": "outing"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 93
    },
    {
     "question": "In the old Western movie, a man with a black hat robs three banks and runs away on his horse. The sheriff chases the __________ across the desert for weeks.",
@@ -2084,7 +2108,8 @@ window.FLASHCARD_UNITS = {
       "text": "orphan"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 97
    },
    {
     "question": "Parents must send their children to school; it is not a choice. In Taiwan, this legal __________ lasts until the child finishes junior high at about fifteen.",
@@ -2106,7 +2131,8 @@ window.FLASHCARD_UNITS = {
       "text": "orientation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 3
    },
    {
     "question": "Nobody is sure where the game of chess first began. Some say its __________ is in India, while others believe it started in Persia about 1,500 years ago.",
@@ -2128,7 +2154,8 @@ window.FLASHCARD_UNITS = {
       "text": "odor"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "Mr. Lin is leaving our school at the end of the year. Our class wants to __________ a farewell party for him, so we need to choose a date and a place.",
@@ -2150,7 +2177,8 @@ window.FLASHCARD_UNITS = {
       "text": "organize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 53
    },
    {
     "question": "You can park your scooter here without worry. It is completely __________ to leave it in this space, because the city painted these lines for two-wheeled vehicles.",
@@ -2172,7 +2200,8 @@ window.FLASHCARD_UNITS = {
       "text": "oppressive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 100
    },
    {
     "question": "We planned to meet at the train station at six o'clock. However, the __________ plan changed when Jack called to say he had to work late, so we met at seven.",
@@ -2194,7 +2223,8 @@ window.FLASHCARD_UNITS = {
       "text": "obsessive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 65
    }
   ]
  }

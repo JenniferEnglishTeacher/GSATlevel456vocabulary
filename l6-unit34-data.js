@@ -1256,7 +1256,8 @@ window.FLASHCARD_UNITS = {
       "text": "sparrow"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Tom read his sister's messages while she was in the shower and then pretended he knew nothing. She was angry and told him it was a very __________ thing to do.",
@@ -1278,7 +1279,8 @@ window.FLASHCARD_UNITS = {
       "text": "sociable"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "Every time my brother walks past the flowers in the garden, his nose starts to itch. He will usually __________ five or six times before he can stop.",
@@ -1300,7 +1302,8 @@ window.FLASHCARD_UNITS = {
       "text": "snore"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "My father makes a loud noise through his nose every night when he sleeps. My mother cannot rest because he will __________ so loudly that the walls almost shake.",
@@ -1322,7 +1325,8 @@ window.FLASHCARD_UNITS = {
       "text": "snore"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 11
    },
    {
     "question": "Amy loves parties and can talk to anyone she meets for hours. Her friends all say she is the most __________ person in the whole class.",
@@ -1344,7 +1348,8 @@ window.FLASHCARD_UNITS = {
       "text": "sorrowful"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 14
    },
    {
     "question": "In this political system, the government owns the big factories and shares the money equally among all the people. Our history teacher said this idea is called __________.",
@@ -1366,7 +1371,8 @@ window.FLASHCARD_UNITS = {
       "text": "socialism"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 18
    },
    {
     "question": "Mr. Lee believes that the government should give everyone free doctors and free schools for their children. A person who holds this view is often called a __________.",
@@ -1388,7 +1394,8 @@ window.FLASHCARD_UNITS = {
       "text": "sparrow"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 19
    },
    {
     "question": "After moving to a new city, Peter did not know anyone at all. His doctor told him to join a club so that he could __________ and make some friends.",
@@ -1410,7 +1417,8 @@ window.FLASHCARD_UNITS = {
       "text": "soothe"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 21
    },
    {
     "question": "Linda wants to understand why some neighborhoods are rich while others stay poor for many years. For this reason, she decided to study __________ at the university.",
@@ -1432,7 +1440,8 @@ window.FLASHCARD_UNITS = {
       "text": "sovereignty"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 23
    },
    {
     "question": "Nobody laughed or talked during the ceremony for the soldiers who died in the war. Everyone stood in __________ silence while the flag was slowly lowered.",
@@ -1454,7 +1463,8 @@ window.FLASHCARD_UNITS = {
       "text": "sneaky"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 26
    },
    {
     "question": "When the factory cut everyone's pay, the workers decided to stand together and refused to go back. Their strong __________ finally made the boss change his mind.",
@@ -1476,7 +1486,8 @@ window.FLASHCARD_UNITS = {
       "text": "spectacle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "The old painter lives alone on a small island and talks to very few people. He says a __________ life gives him the quiet he needs to work.",
@@ -1498,7 +1509,8 @@ window.FLASHCARD_UNITS = {
       "text": "solitary"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 33
    },
    {
     "question": "After a long, noisy week at the office, Mark drives to a quiet lake every weekend. He says the __________ there helps him think clearly again.",
@@ -1520,7 +1532,8 @@ window.FLASHCARD_UNITS = {
       "text": "spaceship"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "The baby cried for almost an hour and nothing seemed to help. Finally, the father put on some soft music to __________ her, and she slowly fell asleep.",
@@ -1542,7 +1555,8 @@ window.FLASHCARD_UNITS = {
       "text": "sneak"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 37
    },
    {
     "question": "The little girl's dog died last week, and she has not smiled since then. Her teacher noticed the __________ look on her face during class today.",
@@ -1564,7 +1578,8 @@ window.FLASHCARD_UNITS = {
       "text": "sorrowful"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "A country that makes its own laws and is not controlled by any other nation is called __________. Other countries should respect its right to decide things for itself.",
@@ -1586,7 +1601,8 @@ window.FLASHCARD_UNITS = {
       "text": "solitary"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 44
    },
    {
     "question": "Scientists sent a new machine into space to take pictures of Mars. The __________ will travel for seven months before it finally reaches the red planet.",
@@ -1608,7 +1624,8 @@ window.FLASHCARD_UNITS = {
       "text": "sportswoman"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 47
    },
    {
     "question": "The famous actress made her first movie at the age of twenty and her last one at eighty. Her career covered a __________ of sixty years.",
@@ -1630,7 +1647,8 @@ window.FLASHCARD_UNITS = {
       "text": "span"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "A small brown bird landed on our table at the outdoor café and picked up some bread. My little sister was so happy to see a __________ so close.",
@@ -1652,7 +1670,8 @@ window.FLASHCARD_UNITS = {
       "text": "spokesperson"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 55
    },
    {
     "question": "Thousands of colorful fireworks lit up the sky above the river on New Year's Eve. It was a wonderful __________ that nobody in the city will forget.",
@@ -1674,7 +1693,8 @@ window.FLASHCARD_UNITS = {
       "text": "solitude"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 58
    },
    {
     "question": "The stairs inside the old lighthouse go around and around a center pole all the way to the top. Climbing the __________ steps made me feel dizzy.",
@@ -1696,7 +1716,8 @@ window.FLASHCARD_UNITS = {
       "text": "sovereign"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 63
    },
    {
     "question": "The old palace has gold ceilings, huge paintings, and shining marble floors in every single room. Visitors are always amazed by the __________ of the building.",
@@ -1718,7 +1739,8 @@ window.FLASHCARD_UNITS = {
       "text": "splendor"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 67
    },
    {
     "question": "The company did not want its boss to answer questions from reporters directly. Instead, a __________ read a short statement about the accident to the press.",
@@ -1740,7 +1762,8 @@ window.FLASHCARD_UNITS = {
       "text": "sportsman"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 71
    },
    {
     "question": "We did not plan to go to the beach at all yesterday. The trip was completely __________; one minute we were at home, and the next we were on the bus.",
@@ -1762,7 +1785,8 @@ window.FLASHCARD_UNITS = {
       "text": "spiral"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 75
    },
    {
     "question": "Although his team lost the final, Kevin walked over to shake hands with every player on the other side. Everyone agreed he is a true __________.",
@@ -1784,7 +1808,8 @@ window.FLASHCARD_UNITS = {
       "text": "spokesman"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 78
    },
    {
     "question": "More than fifty thousand people filled the stadium to watch the final game. Every __________ stood up and cheered when the home team scored the winning goal.",
@@ -1806,7 +1831,8 @@ window.FLASHCARD_UNITS = {
       "text": "sociologist"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 62
    },
    {
     "question": "The two boys did not have tickets, so they tried to walk quietly through the back door of the theater. The manager saw them trying to __________ in and stopped them.",
@@ -1828,7 +1854,8 @@ window.FLASHCARD_UNITS = {
       "text": "sneeze"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "The view from the top of the mountain was amazing, with rivers and tiny villages far below us. It was the most __________ sight I have ever seen.",
@@ -1850,7 +1877,8 @@ window.FLASHCARD_UNITS = {
       "text": "spectacular"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "The young runner won three gold medals at the Asian Games last month. Now this __________ is a hero to thousands of girls who want to be like her.",
@@ -1872,7 +1900,8 @@ window.FLASHCARD_UNITS = {
       "text": "spectacle"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 79
    },
    {
     "question": "The coach does not care only about winning. He praised the boy who stopped running to help an injured player, saying that true __________ matters more than any medal.",
@@ -1894,7 +1923,8 @@ window.FLASHCARD_UNITS = {
       "text": "sociology"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 80
    }
   ]
  }

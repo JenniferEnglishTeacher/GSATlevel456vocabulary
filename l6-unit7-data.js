@@ -1421,7 +1421,8 @@ window.FLASHCARD_UNITS = {
       "text": "comet"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The little metal part that holds my necklace together is broken, so it keeps falling off. I need to take it to the shop to get a new __________.",
@@ -1443,7 +1444,8 @@ window.FLASHCARD_UNITS = {
       "text": "clasp"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 3
    },
    {
     "question": "The plane was ready, but it could not leave the ground yet. The pilot had to wait for __________ from the control tower before taking off.",
@@ -1465,7 +1467,8 @@ window.FLASHCARD_UNITS = {
       "text": "collision"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 6
    },
    {
     "question": "The last ten minutes of the movie were the most exciting part. Everyone in the dark theater held their breath as the story finally reached its __________.",
@@ -1487,7 +1490,8 @@ window.FLASHCARD_UNITS = {
       "text": "climax"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 10
    },
    {
     "question": "To close the water bottle tightly, you must turn the cap to the right. Turn it __________, the same way the hands of a clock move, until it stops.",
@@ -1509,7 +1513,8 @@ window.FLASHCARD_UNITS = {
       "text": "commonly"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 14
    },
    {
     "question": "Scientists made an exact copy of a sheep from one of its cells in 1996. The animal was the first __________ of an adult animal in history.",
@@ -1531,7 +1536,8 @@ window.FLASHCARD_UNITS = {
       "text": "clam"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 18
    },
    {
     "question": "The old factory shut its doors forever last month, and two hundred people lost their jobs. The __________ was a hard blow to the small town.",
@@ -1553,7 +1559,8 @@ window.FLASHCARD_UNITS = {
       "text": "closure"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 22
    },
    {
     "question": "No party won more than half the seats in the election last week. Three smaller parties will now form a __________ and run the government together.",
@@ -1575,7 +1582,8 @@ window.FLASHCARD_UNITS = {
       "text": "collision"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 26
    },
    {
     "question": "The island is famous for its long, beautiful edge along the sea. Visitors can bike along the __________ for fifty kilometers and see cliffs and white beaches.",
@@ -1597,7 +1605,8 @@ window.FLASHCARD_UNITS = {
       "text": "clasp"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 29
    },
    {
     "question": "Two cars hit each other at the crossing this morning because one driver did not stop at the red light. Luckily, nobody was hurt in the __________.",
@@ -1619,7 +1628,8 @@ window.FLASHCARD_UNITS = {
       "text": "comprehension"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 33
    },
    {
     "question": "Words like \"kids\" and \"gonna\" are fine when you talk with friends. However, such __________ words do not belong in a formal letter to a company.",
@@ -1641,7 +1651,8 @@ window.FLASHCARD_UNITS = {
       "text": "colloquial"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 37
    },
    {
     "question": "Last night, a bright light with a long white tail moved slowly across the sky. The newspaper said the __________ would not return for another seventy years.",
@@ -1663,7 +1674,8 @@ window.FLASHCARD_UNITS = {
       "text": "compass"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "Thirty years ago, a phone that could take photos was something amazing. Today, such a phone is so __________ that even young children find it quite boring.",
@@ -1685,7 +1697,8 @@ window.FLASHCARD_UNITS = {
       "text": "coastal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "Many countries that were once ruled by Britain still work together today. Every four years, the member nations of the __________ hold their own big sports games.",
@@ -1707,7 +1720,8 @@ window.FLASHCARD_UNITS = {
       "text": "compilation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "Amy was shy and said almost nothing during her first month at the new school. Now she is much more __________ and talks happily to everyone in class.",
@@ -1729,7 +1743,8 @@ window.FLASHCARD_UNITS = {
       "text": "clockwise"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 51
    },
    {
     "question": "After years of fighting, the two countries finally stopped the war. Since then, the people have enjoyed a period of __________ peace, although small problems still happen.",
@@ -1751,7 +1766,8 @@ window.FLASHCARD_UNITS = {
       "text": "comprehensive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "The hikers lost the path when thick fog covered the mountain. Thanks to a map and a __________, they found their way north and got back to camp.",
@@ -1773,7 +1789,8 @@ window.FLASHCARD_UNITS = {
       "text": "coalition"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    },
    {
     "question": "Our class wants to make a book of the best recipes from every student's family. We will __________ all the recipes and print them before the school fair.",
@@ -1795,7 +1812,8 @@ window.FLASHCARD_UNITS = {
       "text": "compile"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    },
    {
     "question": "The white rice goes very well with the spicy chicken, and the cool cucumber makes the meal even better. All three dishes __________ one another perfectly.",
@@ -1817,7 +1835,8 @@ window.FLASHCARD_UNITS = {
       "text": "clone"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 67
    },
    {
     "question": "After two weeks of walking in the sun, Tom's face turned golden brown. His friends at school said his new __________ made him look healthy and strong.",
@@ -1839,7 +1858,8 @@ window.FLASHCARD_UNITS = {
       "text": "compiler"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 71
    },
    {
     "question": "The doctor did not just listen to my heart; she checked my eyes, blood, and lungs as well. It was the most __________ check-up I have ever had.",
@@ -1861,7 +1881,8 @@ window.FLASHCARD_UNITS = {
       "text": "comparable"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "The students had to find the total cost of the trip, including train tickets, food, and hotel rooms. They used a laptop to __________ the final number.",
@@ -1883,7 +1904,8 @@ window.FLASHCARD_UNITS = {
       "text": "compute"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "Until last year, the library wrote every book's name on a paper card. Now that the library has decided to __________ its records, we can search for books online.",
@@ -1905,7 +1927,8 @@ window.FLASHCARD_UNITS = {
       "text": "clasp"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 83
    },
    {
     "question": "The old soldier still remembers the men who fought beside him fifty years ago. He visits the grave of each __________ every year on the same day.",
@@ -1927,7 +1950,8 @@ window.FLASHCARD_UNITS = {
       "text": "clam"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 86
    },
    {
     "question": "The workers wanted a big pay rise, but the company said it had no money. In the end, each side made a __________, and the strike ended the next day.",
@@ -1949,7 +1973,8 @@ window.FLASHCARD_UNITS = {
       "text": "clock"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 89
    },
    {
     "question": "The two boats were moving too fast in the narrow river. Everyone on the bridge shouted when they saw them about to __________ with each other.",
@@ -1971,7 +1996,8 @@ window.FLASHCARD_UNITS = {
       "text": "compile"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 34
    },
    {
     "question": "Our town has only eight thousand people, while the city next to us has two million. Life here is __________ quiet, and most people know each other.",
@@ -1993,7 +2019,8 @@ window.FLASHCARD_UNITS = {
       "text": "comparatively"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 56
    },
    {
     "question": "Lisa is good at planning, and her sister is good at talking to people. Their __________ skills are the reason why their small shop has done so well.",
@@ -2015,7 +2042,8 @@ window.FLASHCARD_UNITS = {
       "text": "coastal"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 69
    },
    {
     "question": "The player was unhappy with the referee, but he knew the other team was better. After the game, he had to __________ that his team had lost fairly.",
@@ -2037,7 +2065,8 @@ window.FLASHCARD_UNITS = {
       "text": "computerize"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 91
    },
    {
     "question": "Making an exact copy of a living animal is now possible in a laboratory. However, many people around the world believe that human __________ should never be allowed.",
@@ -2059,7 +2088,8 @@ window.FLASHCARD_UNITS = {
       "text": "clearance"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    }
   ]
  }

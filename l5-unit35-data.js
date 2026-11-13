@@ -1346,7 +1346,8 @@ window.FLASHCARD_UNITS = {
       "text": "strap"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "Look, there is a long piece of hair on your black sweater. That __________ must have come from the white cat that sat on your lap at the party.",
@@ -1368,7 +1369,8 @@ window.FLASHCARD_UNITS = {
       "text": "strand"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 5
    },
    {
     "question": "My camera bag is heavy, so I cannot hold it in my hand for very long. Luckily, it has a wide __________ that I can put over my shoulder.",
@@ -1390,7 +1392,8 @@ window.FLASHCARD_UNITS = {
       "text": "substance"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "The company did not choose the location of its new store by chance. It was a __________ decision made after studying where young people like to shop.",
@@ -1412,7 +1415,8 @@ window.FLASHCARD_UNITS = {
       "text": "strategic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 12
    },
    {
     "question": "The young actress wore a bright red dress to the school party. Her __________ look made everyone in the room turn around and stare at her.",
@@ -1434,7 +1438,8 @@ window.FLASHCARD_UNITS = {
       "text": "submissive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 16
    },
    {
     "question": "The old building shook badly during last week's earthquake. Engineers must now carefully check it for __________ damage before anyone is allowed to go back inside.",
@@ -1456,7 +1461,8 @@ window.FLASHCARD_UNITS = {
       "text": "structural"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 21
    },
    {
     "question": "Be careful when you walk down these old stone steps at night. They are uneven, and many visitors __________ and hurt their knees in the dark.",
@@ -1478,7 +1484,8 @@ window.FLASHCARD_UNITS = {
       "text": "submit"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 25
    },
    {
     "question": "This wooden chair was made by my grandfather sixty years ago, and it is still in perfect condition. It is so __________ that even three children can stand on it.",
@@ -1500,7 +1507,8 @@ window.FLASHCARD_UNITS = {
       "text": "strategic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 29
    },
    {
     "question": "The science fair is next Monday, and the judges need time to read every report. Please __________ your report to Ms. Lin before three o'clock this Friday.",
@@ -1522,7 +1530,8 @@ window.FLASHCARD_UNITS = {
       "text": "substitute"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "The first part of the movie was slow and a little boring. However, the __________ scenes were full of action, and nobody in the theater wanted to leave.",
@@ -1544,7 +1553,8 @@ window.FLASHCARD_UNITS = {
       "text": "superior"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "Rice prices fell so low this year that farmers could not make enough money to live. The government gave each of them a __________ to help cover their costs.",
@@ -1566,7 +1576,8 @@ window.FLASHCARD_UNITS = {
       "text": "suite"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    },
    {
     "question": "The company made a lot more money this year than last year. Because of this __________ profit, every worker will receive a bonus equal to one month's pay.",
@@ -1588,7 +1599,8 @@ window.FLASHCARD_UNITS = {
       "text": "structural"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "Our English teacher broke her leg and cannot come to school for a month. A __________ will teach our class until she is well enough to return.",
@@ -1610,7 +1622,8 @@ window.FLASHCARD_UNITS = {
       "text": "supervisor"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 46
    },
    {
     "question": "The two paintings look exactly the same at first. If you look closely, however, there is a __________ difference in the color of the sky that most people never notice.",
@@ -1632,7 +1645,8 @@ window.FLASHCARD_UNITS = {
       "text": "sturdy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "My aunt lives about forty minutes from the center of Taipei. Her __________ neighborhood is quiet, and every house there has a small garden and a parking space.",
@@ -1654,7 +1668,8 @@ window.FLASHCARD_UNITS = {
       "text": "supreme"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "Mr. Wang will retire from his job as school principal at the end of this year. The school board has not yet decided who his __________ will be.",
@@ -1676,7 +1691,8 @@ window.FLASHCARD_UNITS = {
       "text": "strategist"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 57
    },
    {
     "question": "For their tenth wedding anniversary, my parents stayed at a famous hotel by the sea. Their __________ had two bedrooms, a living room, and a view of the beach.",
@@ -1698,7 +1714,8 @@ window.FLASHCARD_UNITS = {
       "text": "strand"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 62
    },
    {
     "question": "The dinner at the new restaurant was __________. Every dish tasted wonderful, the service was quick and friendly, and we are already planning our next visit.",
@@ -1720,7 +1737,8 @@ window.FLASHCARD_UNITS = {
       "text": "subsequent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 65
    },
    {
     "question": "Many people in Taiwan avoid the number four because it sounds like the word for death. This old __________ is why some buildings do not have a fourth floor.",
@@ -1742,7 +1760,8 @@ window.FLASHCARD_UNITS = {
       "text": "succession"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "The chemistry lab can be dangerous for students who are not careful. A teacher must __________ every experiment and make sure that everyone follows the safety rules.",
@@ -1764,7 +1783,8 @@ window.FLASHCARD_UNITS = {
       "text": "stumble"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    },
    {
     "question": "The swimming pool rules are very clear about young children. Kids under ten may not enter the water without the __________ of a parent or another adult.",
@@ -1786,7 +1806,8 @@ window.FLASHCARD_UNITS = {
       "text": "supervision"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "I have been working at this company for only two weeks. When I have a question about my work, I always ask my __________ , who sits at the desk next to mine.",
@@ -1808,7 +1829,8 @@ window.FLASHCARD_UNITS = {
       "text": "successor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "This medicine is __________ good for a cold, but I took it for a week and still felt terrible. Maybe it does not work as well as the advertisement says.",
@@ -1830,7 +1852,8 @@ window.FLASHCARD_UNITS = {
       "text": "subtly"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 77
    },
    {
     "question": "In this country, the president has the most powerful position in the government. However, even the president must follow the final decisions of the __________ court.",
@@ -1852,7 +1875,8 @@ window.FLASHCARD_UNITS = {
       "text": "striking"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 81
    },
    {
     "question": "The bakery made far too much bread this morning, and many loaves were still on the shelves at closing time. The owner gave the __________ to a homeless shelter.",
@@ -1874,7 +1898,8 @@ window.FLASHCARD_UNITS = {
       "text": "surplus"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 85
    },
    {
     "question": "Our basketball coach spent the whole evening watching videos of the other team. He wants to prepare a good __________ so that we can beat them on Saturday.",
@@ -1896,7 +1921,8 @@ window.FLASHCARD_UNITS = {
       "text": "structure"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 13
    },
    {
     "question": "The workers at the factory are angry because they have not had a pay raise in five years. They have decided to go on __________ starting next Monday morning.",
@@ -1918,7 +1944,8 @@ window.FLASHCARD_UNITS = {
       "text": "strike"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 17
    },
    {
     "question": "The bridge was built two hundred years ago, but it is still used by cars every day. Its strong stone __________ has survived many floods and earthquakes.",
@@ -1940,7 +1967,8 @@ window.FLASHCARD_UNITS = {
       "text": "superiority"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 22
    },
    {
     "question": "In many European countries, the government pays part of the cost of university. It is cheaper for students because the state helps to __________ their education.",
@@ -1962,7 +1990,8 @@ window.FLASHCARD_UNITS = {
       "text": "subsidize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "My grandmother is very __________ about numbers and colors. She will not wear white to a wedding, and she refuses to live in a house with the number four.",
@@ -1984,7 +2013,8 @@ window.FLASHCARD_UNITS = {
       "text": "sturdy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    }
   ]
  }

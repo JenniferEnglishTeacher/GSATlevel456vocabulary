@@ -558,6 +558,7 @@ function submitResults() {
     part2wrongMCQWords: tookP2 ? `${state.p2Score}/${MCQS.length}${state.p2WrongWords.length ? " — " + state.p2WrongWords.join(", ") : ""}${state.gameScores.length ? " | game: " + state.gameScores.join(", ") : ""}` : "(not taken)",
     lookUpWords: Array.from(state.lookedUpWords).join(", ")
   };
+  if (window.GsatTracker) GsatTracker.logQuiz(state, VOCAB, MCQS);
   const body = new URLSearchParams();
   body.append("payload", JSON.stringify(payload));
   fetch(QUIZ_CONFIG.gasEndpoint, { method: "POST", mode: "no-cors", headers: { "Content-Type": "application/x-www-form-urlencoded" }, body: body.toString() })

@@ -1556,7 +1556,8 @@ window.FLASHCARD_UNITS = {
       "text": "boost"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "To welcome the visiting team from Japan, our class made a long piece of cloth with 'Welcome, Friends!' painted on it. We hung the __________ above the school gate.",
@@ -1578,7 +1579,8 @@ window.FLASHCARD_UNITS = {
       "text": "banner"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "Nothing grows on the rocky hill behind the village, not even grass. The land is so __________ that the farmers gave up trying to plant anything there years ago.",
@@ -1600,7 +1602,8 @@ window.FLASHCARD_UNITS = {
       "text": "beneficial"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "Grandma took thirty cookies out of the oven, and they were gone in ten minutes. She laughed and said she would have to bake another __________ before the guests arrived.",
@@ -1622,7 +1625,8 @@ window.FLASHCARD_UNITS = {
       "text": "blast"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 11
    },
    {
     "question": "The captain was the only player who went up to the stage. He accepted the gold cup on __________ of the whole team and thanked the fans for their support.",
@@ -1644,7 +1648,8 @@ window.FLASHCARD_UNITS = {
       "text": "bonus"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 14
    },
    {
     "question": "Before you get off the bus, please look under your seat and in the rack above you. Every year, passengers leave umbrellas, phones, and other __________ behind.",
@@ -1666,7 +1671,8 @@ window.FLASHCARD_UNITS = {
       "text": "boredom"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 17
    },
    {
     "question": "Mr. Huang taught music at our school for forty years and knew every student by name. When the __________ teacher retired, hundreds of former students came to say thank you.",
@@ -1688,7 +1694,8 @@ window.FLASHCARD_UNITS = {
       "text": "biased"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 21
    },
    {
     "question": "Walking to school instead of taking the bus saves money and keeps you fit. Doctors say thirty minutes of walking a day is __________ to both the heart and the mind.",
@@ -1710,7 +1717,8 @@ window.FLASHCARD_UNITS = {
       "text": "bored"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "Amy told her best friend a secret and asked her to keep it. She never thought her friend would __________ her by posting the secret online for everyone to read.",
@@ -1732,7 +1740,8 @@ window.FLASHCARD_UNITS = {
       "text": "guard"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "The sign on the farm gate shows a picture of a large dog with sharp teeth. Under the picture it says that visitors should __________ of the dog, so we stayed outside the fence.",
@@ -1754,7 +1763,8 @@ window.FLASHCARD_UNITS = {
       "text": "beware"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 33
    },
    {
     "question": "The judge gave the first prize to his own nephew even though another student's painting was clearly better. Many parents complained about his __________ after the contest.",
@@ -1776,7 +1786,8 @@ window.FLASHCARD_UNITS = {
       "text": "bonus"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 37
    },
    {
     "question": "Several people wanted the old painting, so each one offered more money than the last. In the end, the highest __________ came from a museum in Taichung.",
@@ -1798,7 +1809,8 @@ window.FLASHCARD_UNITS = {
       "text": "bolt"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    },
    {
     "question": "In science class we learned that every living thing is made of cells. The teacher said that cells are the basic __________ units of plants, animals, and people.",
@@ -1820,7 +1832,8 @@ window.FLASHCARD_UNITS = {
       "text": "bored"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 46
    },
    {
     "question": "The man walked into the bank wearing a bathrobe and carrying a live chicken under his arm. Everyone stared at him because his behavior was so __________.",
@@ -1842,7 +1855,8 @@ window.FLASHCARD_UNITS = {
       "text": "blurred"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "A gas pipe under the street exploded early this morning. The __________ was so powerful that it broke windows in the shops nearby and woke up the whole neighborhood.",
@@ -1864,7 +1878,8 @@ window.FLASHCARD_UNITS = {
       "text": "blur"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "I forgot my glasses at home this morning. Without them, the words on the whiteboard were just a __________, and I could not copy the notes.",
@@ -1886,7 +1901,8 @@ window.FLASHCARD_UNITS = {
       "text": "blur"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 58
    },
    {
     "question": "When the teacher read Tom's poem aloud, everyone turned to look at him. His face went red, and he tried to hide his __________ behind his book.",
@@ -1908,7 +1924,8 @@ window.FLASHCARD_UNITS = {
       "text": "bias"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    },
    {
     "question": "The movie star never goes anywhere alone because crowds of fans follow her everywhere. A tall __________ walks beside her to keep people from getting too close.",
@@ -1930,7 +1947,8 @@ window.FLASHCARD_UNITS = {
       "text": "bodyguard"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "The loud fireworks frightened the horse in the field. It suddenly tried to __________ toward the road, and the farmer had to run after it to catch it.",
@@ -1952,7 +1970,8 @@ window.FLASHCARD_UNITS = {
       "text": "bore"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 70
    },
    {
     "question": "The company made a lot of money this year, so the boss wanted to thank his workers. Every employee received a __________ of one month's pay before the New Year holiday.",
@@ -1974,7 +1993,8 @@ window.FLASHCARD_UNITS = {
       "text": "booth"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "Ten years ago, this town had only one hotel and a few restaurants. Then the tourist __________ began, and now there are more than fifty hotels along the beach.",
@@ -1996,7 +2016,8 @@ window.FLASHCARD_UNITS = {
       "text": "boom"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "Our team lost the first three games, and the players felt terrible. Winning the fourth game helped to __________ their confidence, and they played much better after that.",
@@ -2018,7 +2039,8 @@ window.FLASHCARD_UNITS = {
       "text": "ban"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 84
    },
    {
     "question": "At the school fair, every club had its own small table with a sign. Our __________ sold homemade cookies and lemonade, and we earned two thousand dollars for the trip.",
@@ -2040,7 +2062,8 @@ window.FLASHCARD_UNITS = {
       "text": "banner"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 88
    },
    {
     "question": "The train ride to Kaohsiung took almost five hours, and there was nothing to see but rice fields. To fight the __________, we played cards and told jokes.",
@@ -2062,7 +2085,8 @@ window.FLASHCARD_UNITS = {
       "text": "benefit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 92
    },
    {
     "question": "We are at the airport waiting for our flight to Japan. The plane __________ for Tokyo will leave from gate twelve in about forty minutes, so let's go now.",
@@ -2084,7 +2108,8 @@ window.FLASHCARD_UNITS = {
       "text": "bizarre"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 98
    },
    {
     "question": "Living next to the MRT station has one big advantage. The greatest __________ is that I can sleep an extra half hour every morning and still get to school on time.",
@@ -2106,7 +2131,8 @@ window.FLASHCARD_UNITS = {
       "text": "boredom"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 25
    },
    {
     "question": "Jack sold the team's secret plans to the other school before the big game. His teammates called it an act of __________ and refused to speak to him again.",
@@ -2128,7 +2154,8 @@ window.FLASHCARD_UNITS = {
       "text": "betrayal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 31
    },
    {
     "question": "Today we used a microscope to look at tiny plants and animals in a drop of pond water. It was the most interesting __________ lesson we have had this year.",
@@ -2150,7 +2177,8 @@ window.FLASHCARD_UNITS = {
       "text": "boom"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "The lecture lasted three hours, and the speaker read every word from his notes. By the end, the students were so __________ that half of them were asleep.",
@@ -2172,7 +2200,8 @@ window.FLASHCARD_UNITS = {
       "text": "beloved"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 94
    },
    {
     "question": "I took a photo of the bird, but my hand moved at the wrong moment. The picture came out so __________ that you cannot even tell what kind of bird it is.",
@@ -2194,7 +2223,8 @@ window.FLASHCARD_UNITS = {
       "text": "blurred"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 60
    }
   ]
  }

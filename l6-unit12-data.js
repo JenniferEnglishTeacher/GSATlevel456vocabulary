@@ -1301,7 +1301,8 @@ window.FLASHCARD_UNITS = {
       "text": "doom"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "My university is three hours away from home by train. So I live in a __________ on campus during the week and go back to see my family on weekends.",
@@ -1323,7 +1324,8 @@ window.FLASHCARD_UNITS = {
       "text": "dwelling"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "The company has lost money for three years in a row. If this __________ trend continues, the owners will have to close two of their five factories.",
@@ -1345,7 +1347,8 @@ window.FLASHCARD_UNITS = {
       "text": "dual"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 9
    },
    {
     "question": "The old cat likes the warm spot by the window in the afternoon. She will __________ there for hours, opening one eye only when she hears the food bag.",
@@ -1367,7 +1370,8 @@ window.FLASHCARD_UNITS = {
       "text": "elevate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 14
    },
    {
     "question": "The doctor said my uncle's heart was in serious danger. He had to make __________ changes right away: no more smoking, no more late nights, and exercise every day.",
@@ -1389,7 +1393,8 @@ window.FLASHCARD_UNITS = {
       "text": "dormant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 18
    },
    {
     "question": "Why is it so cold in this room? There must be a __________ coming from under the door, so let us put a towel there to block it.",
@@ -1411,7 +1416,8 @@ window.FLASHCARD_UNITS = {
       "text": "dawn"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 21
    },
    {
     "question": "Your clean clothes are not on the bed anymore. I put your socks and T-shirts in the top drawer of the __________ in your room this morning.",
@@ -1433,7 +1439,8 @@ window.FLASHCARD_UNITS = {
       "text": "dressing"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 25
    },
    {
     "question": "This salad tastes a little plain by itself. Add some of the __________ in the small bottle; it is made of olive oil, lemon, and a bit of honey.",
@@ -1455,7 +1462,8 @@ window.FLASHCARD_UNITS = {
       "text": "doubt"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 26
    },
    {
     "question": "This small machine does two jobs at the same time. Because of its __________ function, it can heat the room in winter and cool it in the hot summer months.",
@@ -1477,7 +1485,8 @@ window.FLASHCARD_UNITS = {
       "text": "dual"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 31
    },
    {
     "question": "The website says you can learn to speak French in only three days. Most teachers are __________ about this promise and tell students not to pay for it.",
@@ -1499,7 +1508,8 @@ window.FLASHCARD_UNITS = {
       "text": "inedible"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "The flight to London takes about fourteen hours. Please keep your seat belt fastened for the __________ of the flight whenever you are not walking around.",
@@ -1521,7 +1531,8 @@ window.FLASHCARD_UNITS = {
       "text": "elevation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 39
    },
    {
     "question": "The sky was turning orange and the birds were flying home. We had to leave the beach at __________ because the park gates close as soon as it gets dark.",
@@ -1543,7 +1554,8 @@ window.FLASHCARD_UNITS = {
       "text": "dwelling"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 43
    },
    {
     "question": "In the famous fairy tale, Snow White runs away into the forest. There she meets seven little men, and each __________ has a different personality and name.",
@@ -1565,7 +1577,8 @@ window.FLASHCARD_UNITS = {
       "text": "dwarf"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 47
    },
    {
     "question": "Thousands of years ago, people did not build houses yet. They had to __________ in caves, where the thick rock walls kept them safe from wind and wild animals.",
@@ -1587,7 +1600,8 @@ window.FLASHCARD_UNITS = {
       "text": "draft"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    },
    {
     "question": "Archaeologists found something interesting under the parking lot last week. It was a stone __________ from a thousand years ago, with a fireplace and three small rooms.",
@@ -1609,7 +1623,8 @@ window.FLASHCARD_UNITS = {
       "text": "dresser"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 52
    },
    {
     "question": "Mr. Lee is a little different from the other teachers. He is quite __________: he rides a very old bicycle, wears a bow tie every day, and sings in class.",
@@ -1631,7 +1646,8 @@ window.FLASHCARD_UNITS = {
       "text": "downward"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "Something strange will happen in the sky next Tuesday afternoon. During the __________, the moon will pass in front of the sun and the day will become dark for two minutes.",
@@ -1653,7 +1669,8 @@ window.FLASHCARD_UNITS = {
       "text": "elevation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 58
    },
    {
     "question": "Our teacher took us to a farm to learn about wild plants. She showed us which leaves and berries are __________ and which ones can make you very sick.",
@@ -1675,7 +1692,8 @@ window.FLASHCARD_UNITS = {
       "text": "eccentric"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    },
    {
     "question": "Today's newspaper has a strong opinion on the front page. The __________ says the government should spend more money on school lunches instead of new roads.",
@@ -1697,7 +1715,8 @@ window.FLASHCARD_UNITS = {
       "text": "editorial"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 65
    },
    {
     "question": "The lights in the kitchen keep going on and off by themselves. Dad says we should call an __________ instead of trying to fix the old wires ourselves, because it could be dangerous.",
@@ -1719,7 +1738,8 @@ window.FLASHCARD_UNITS = {
       "text": "editor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "The nurse looked at my swollen foot after the basketball game. She told me to __________ it on two pillows tonight so that the swelling would go down by morning.",
@@ -1741,7 +1761,8 @@ window.FLASHCARD_UNITS = {
       "text": "elevate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 75
    },
    {
     "question": "My grandfather left Ireland at the age of twenty with only one suitcase. He was a typical __________ of his time, hoping to find a better life across the ocean.",
@@ -1763,7 +1784,8 @@ window.FLASHCARD_UNITS = {
       "text": "electrician"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 79
    },
    {
     "question": "Life in the village was hard, and there were no jobs for young people. In the end, my parents decided to __________ to Canada and start a new life there.",
@@ -1785,7 +1807,8 @@ window.FLASHCARD_UNITS = {
       "text": "elevate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 80
    },
    {
     "question": "After the factory closed, almost half of the town's families moved abroad. This wave of __________ left the schools half empty and many shops without customers.",
@@ -1807,7 +1830,8 @@ window.FLASHCARD_UNITS = {
       "text": "emigration"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 81
    },
    {
     "question": "I bought these boots five years ago and wear them every winter. They were expensive, but they are so __________ that they still look almost new.",
@@ -1829,7 +1853,8 @@ window.FLASHCARD_UNITS = {
       "text": "edible"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "The typhoon knocked down several power lines last night. Our whole street had no __________ for ten hours, so we could not even charge our phones.",
@@ -1851,7 +1876,8 @@ window.FLASHCARD_UNITS = {
       "text": "dressing"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    },
    {
     "question": "Amy wrote a great story about the school garden for the newspaper. The __________ liked it so much that he put it on the front page of this week's issue.",
@@ -1873,7 +1899,8 @@ window.FLASHCARD_UNITS = {
       "text": "dweller"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    },
    {
     "question": "Grandma's knees hurt when she climbs stairs. Luckily, the new apartment building has an __________, so she can get to the eighth floor without any pain.",
@@ -1895,7 +1922,8 @@ window.FLASHCARD_UNITS = {
       "text": "elevator"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 76
    },
    {
     "question": "Do not take this cold medicine right before school. It can make you __________, and you might fall asleep in the middle of your math class.",
@@ -1917,7 +1945,8 @@ window.FLASHCARD_UNITS = {
       "text": "drastic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 17
    },
    {
     "question": "The fishermen leave the harbor very early every day. They go out before __________, when the sky is still dark and the streets of the town are empty.",
@@ -1939,7 +1968,8 @@ window.FLASHCARD_UNITS = {
       "text": "doom"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    }
   ]
  }

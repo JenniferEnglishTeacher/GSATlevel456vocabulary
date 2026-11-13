@@ -1151,7 +1151,8 @@ window.FLASHCARD_UNITS = {
       "text": "vanity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The theater was dark, and we could not find our seats. A young worker with a flashlight came to __________ us down the aisle to the fifth row.",
@@ -1173,7 +1174,8 @@ window.FLASHCARD_UNITS = {
       "text": "veto"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "Mom bought a new set of spoons, knives, and forks for the kitchen. She says every __________ must be washed and put back in the drawer right after dinner.",
@@ -1195,7 +1197,8 @@ window.FLASHCARD_UNITS = {
       "text": "vaccine"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "We planned the picnic for weeks, but it rained all day, and the food was left at home. The whole trip was an __________ failure from beginning to end.",
@@ -1217,7 +1220,8 @@ window.FLASHCARD_UNITS = {
       "text": "utter"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 11
    },
    {
     "question": "Fifty years ago, many children became sick with this disease every year. Today, almost no one gets it because every baby receives a __________ against it before the age of two.",
@@ -1239,7 +1243,8 @@ window.FLASHCARD_UNITS = {
       "text": "vapor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "The ice cream shop sells many flavors, like chocolate, mango, and green tea. However, simple __________ is still the most popular choice with both children and adults.",
@@ -1261,7 +1266,8 @@ window.FLASHCARD_UNITS = {
       "text": "vanilla"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 19
    },
    {
     "question": "The old actor refuses to tell anyone his real age and dyes his hair black every month. His __________ makes his friends laugh, but he does not seem to care.",
@@ -1283,7 +1289,8 @@ window.FLASHCARD_UNITS = {
       "text": "vigor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 22
    },
    {
     "question": "On cold mornings, you can see your breath when you talk outside. The warm __________ from your mouth meets the cold air and turns into a small white cloud.",
@@ -1305,7 +1312,8 @@ window.FLASHCARD_UNITS = {
       "text": "vice"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 26
    },
    {
     "question": "The bride walked slowly down the aisle in a long white dress. A thin white __________ covered her face until the moment the groom gently lifted it.",
@@ -1327,7 +1335,8 @@ window.FLASHCARD_UNITS = {
       "text": "veil"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 30
    },
    {
     "question": "The theater's old curtains are made of a soft, thick cloth that feels smooth when you touch it. The deep red __________ shines beautifully under the stage lights.",
@@ -1349,7 +1358,8 @@ window.FLASHCARD_UNITS = {
       "text": "vanilla"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "Mr. Lin teaches math, coaches the swimming team, and plays the guitar in the school band. He is the most __________ teacher we have ever had at our school.",
@@ -1371,7 +1381,8 @@ window.FLASHCARD_UNITS = {
       "text": "vain"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 37
    },
    {
     "question": "Our dog has not eaten anything for two days and just lies on the floor. We are taking him to the __________ this afternoon to find out what is wrong.",
@@ -1393,7 +1404,8 @@ window.FLASHCARD_UNITS = {
       "text": "victor"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 40
    },
    {
     "question": "Most of the lawmakers voted for the new tax law last week. However, the president used his __________ to stop it, so the law will not take effect this year.",
@@ -1415,7 +1427,8 @@ window.FLASHCARD_UNITS = {
       "text": "vice"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 44
    },
    {
     "question": "I set my phone to silent mode during the class. It did not ring, but I felt it __________ in my pocket when my mother sent me a message.",
@@ -1437,7 +1450,8 @@ window.FLASHCARD_UNITS = {
       "text": "vibrate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 47
    },
    {
     "question": "Our apartment is right next to the MRT line. Every time a train passes, we feel a slight __________ in the floor, and the glasses in the cupboard make a soft sound.",
@@ -1459,7 +1473,8 @@ window.FLASHCARD_UNITS = {
       "text": "vanity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 48
    },
    {
     "question": "Grandpa has smoked for fifty years, and he knows it is bad for his health. He says it is his only __________, and he has tried to quit many times.",
@@ -1481,7 +1496,8 @@ window.FLASHCARD_UNITS = {
       "text": "veil"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "The two boxers fought hard for twelve long rounds. In the end, the judges chose the younger man as the __________, and he lifted the golden belt above his head.",
@@ -1503,7 +1519,8 @@ window.FLASHCARD_UNITS = {
       "text": "villain"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 54
    },
    {
     "question": "My grandfather is eighty-five, but he still walks five kilometers every morning before breakfast. He works in his garden with the __________ of a man half his age.",
@@ -1525,7 +1542,8 @@ window.FLASHCARD_UNITS = {
       "text": "vigor"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "Walking slowly in the park is good, but it is not enough to lose weight. Doctors say you need __________ exercise, like running or swimming, that makes your heart beat fast.",
@@ -1547,7 +1565,8 @@ window.FLASHCARD_UNITS = {
       "text": "virgin"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 58
    },
    {
     "question": "The rich businessman spends every August at his large house by the sea in Italy. The __________ has twelve bedrooms, a private beach, and a swimming pool.",
@@ -1569,7 +1588,8 @@ window.FLASHCARD_UNITS = {
       "text": "vineyard"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 60
    },
    {
     "question": "In the movie, a man with a black cape tries to steal all the water in the city. The __________ almost wins, but the hero stops him in the last ten minutes.",
@@ -1591,7 +1611,8 @@ window.FLASHCARD_UNITS = {
       "text": "villain"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    },
    {
     "question": "Grapes do not grow on trees like apples or oranges. They grow on a long, thin __________ that climbs up a wooden frame in the farmer's field.",
@@ -1613,7 +1634,8 @@ window.FLASHCARD_UNITS = {
       "text": "velvet"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 66
    },
    {
     "question": "The farmer grows thousands of grape plants on the sunny hillside. Every autumn, workers pick the grapes in his __________ and make them into sweet red wine.",
@@ -1635,7 +1657,8 @@ window.FLASHCARD_UNITS = {
       "text": "village"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "Amy has practiced her instrument for three hours every day since she was five. Now she is the best __________ in the school orchestra and often plays solos at concerts.",
@@ -1657,7 +1680,8 @@ window.FLASHCARD_UNITS = {
       "text": "veterinarian"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "No roads or houses have ever been built in this part of the mountains. Scientists love to study the __________ forest there because nature has never been touched by humans.",
@@ -1679,7 +1703,8 @@ window.FLASHCARD_UNITS = {
       "text": "vain"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    },
    {
     "question": "Mrs. Chen got a phone call from the hospital during the meeting. The message was __________, so she left the office immediately without even taking her coat.",
@@ -1701,7 +1726,8 @@ window.FLASHCARD_UNITS = {
       "text": "vain"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 2
    },
    {
     "question": "I left a glass of water on the balcony under the hot sun. By evening, half of the water had disappeared because it had begun to __________ into the air.",
@@ -1723,7 +1749,8 @@ window.FLASHCARD_UNITS = {
       "text": "evaporate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 28
    },
    {
     "question": "Our basketball team had lost every game this season until last night. The players cried with joy after their first __________, and the coach bought everyone a big dinner.",
@@ -1745,7 +1772,8 @@ window.FLASHCARD_UNITS = {
       "text": "utensil"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "My grandparents live in a quiet place in the mountains with only about two hundred people. The __________ has one small school, one temple, and no convenience store.",
@@ -1767,7 +1795,8 @@ window.FLASHCARD_UNITS = {
       "text": "vapor"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 61
    },
    {
     "question": "The dog behind that gate barks and shows its sharp teeth at everyone who walks by. It looks so __________ that even the mailman is afraid to go near it.",
@@ -1789,7 +1818,8 @@ window.FLASHCARD_UNITS = {
       "text": "utter"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    }
   ]
  }

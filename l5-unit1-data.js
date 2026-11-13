@@ -1421,7 +1421,8 @@ window.FLASHCARD_UNITS = {
       "text": "adorable"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "Students have complained for years about the rule that bans phones at lunchtime. This month the school finally decided to __________ the old rule, and everyone cheered loudly.",
@@ -1443,7 +1444,8 @@ window.FLASHCARD_UNITS = {
       "text": "adore"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "The law on ending a pregnancy is different in every country. In some places __________ is allowed in the first few months, while in others it is not allowed at all.",
@@ -1465,7 +1467,8 @@ window.FLASHCARD_UNITS = {
       "text": "accounting"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "We were enjoying the movie when the screen suddenly went black. The __________ ending left everyone confused, because we never found out what happened to the hero.",
@@ -1487,7 +1490,8 @@ window.FLASHCARD_UNITS = {
       "text": "abrupt"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 11
    },
    {
     "question": "My little brother said he wanted to walk to Japan during the summer vacation. We all laughed because the idea was so __________ that it could never be done.",
@@ -1509,7 +1513,8 @@ window.FLASHCARD_UNITS = {
       "text": "acknowledged"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "The island gets rain almost every week of the year. Because water is so __________ there, the farmers can grow rice three times a year without any trouble.",
@@ -1531,7 +1536,8 @@ window.FLASHCARD_UNITS = {
       "text": "abundant"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 18
    },
    {
     "question": "The man kicked his dog and left it outside without food for days. His neighbors reported the __________ to the police, and the animal was taken to a shelter.",
@@ -1553,7 +1559,8 @@ window.FLASHCARD_UNITS = {
       "text": "access"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "The road was empty, and the traffic light had just turned green. The driver pressed the pedal and began to __________, leaving the other cars far behind.",
@@ -1575,7 +1582,8 @@ window.FLASHCARD_UNITS = {
       "text": "acknowledge"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "The new MRT station has elevators and wide gates at every entrance. It is now fully __________ to people in wheelchairs and parents pushing baby strollers.",
@@ -1597,7 +1605,8 @@ window.FLASHCARD_UNITS = {
       "text": "adoring"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 31
    },
    {
     "question": "The hotel is small, but it has enough rooms for a whole school trip. It can __________ sixty students and six teachers at the same time without any problem.",
@@ -1619,7 +1628,8 @@ window.FLASHCARD_UNITS = {
       "text": "advocate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "We are flying to Tokyo next month, but we have not booked a place to stay yet. Could you help me find cheap __________ near the train station for three nights?",
@@ -1641,7 +1651,8 @@ window.FLASHCARD_UNITS = {
       "text": "accommodation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 39
    },
    {
     "question": "After years of fighting, the two countries finally agreed to stop the war. Their leaders signed a peace __________ in front of reporters from all over the world.",
@@ -1663,7 +1674,8 @@ window.FLASHCARD_UNITS = {
       "text": "adoration"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "My cousin loves numbers and is very careful with money. She studied __________ at university and now checks the books of a large company every month.",
@@ -1685,7 +1697,8 @@ window.FLASHCARD_UNITS = {
       "text": "abolition"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 47
    },
    {
     "question": "The company kept saying there was nothing wrong with its new car. After many accidents, however, it finally had to __________ that the brakes had a serious problem.",
@@ -1707,7 +1720,8 @@ window.FLASHCARD_UNITS = {
       "text": "abort"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "New workers at the factory do not start work on their first day. Instead, the manager uses that day to __________ them with the safety rules and the machines.",
@@ -1729,7 +1743,8 @@ window.FLASHCARD_UNITS = {
       "text": "accommodate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 57
    },
    {
     "question": "Babies learn to speak without any lessons or textbooks. Scientists say that language __________ happens naturally when young children hear people talking around them every single day.",
@@ -1751,7 +1766,8 @@ window.FLASHCARD_UNITS = {
       "text": "acquisition"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "She has spent ten years fighting to protect the forest from being cut down. As an __________, she organizes marches and speaks to the government about the problem.",
@@ -1773,7 +1789,8 @@ window.FLASHCARD_UNITS = {
       "text": "acquaintance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 65
    },
    {
     "question": "The pain in his chest came suddenly and was so strong that he could not stand. The doctor said it was an __________ problem and sent him into surgery at once.",
@@ -1795,7 +1812,8 @@ window.FLASHCARD_UNITS = {
       "text": "accommodating"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 70
    },
    {
     "question": "The school __________ has decided to make some changes next year. Classes will start later in the morning, and lunch break will be ten minutes longer.",
@@ -1817,7 +1835,8 @@ window.FLASHCARD_UNITS = {
       "text": "administration"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "Teachers at our school do more than just teach. They also spend hours on __________ work, such as filling in forms and writing reports for the government.",
@@ -1839,7 +1858,8 @@ window.FLASHCARD_UNITS = {
       "text": "adverse"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "The hospital needs someone to manage its staff, money, and daily plans. It hired a new __________ who used to run a large company in Taichung for ten years.",
@@ -1861,7 +1881,8 @@ window.FLASHCARD_UNITS = {
       "text": "acquaintance"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "Teenagers between thirteen and eighteen often want more freedom from their parents. Doctors say an __________ needs both independence and clear rules to grow up well.",
@@ -1883,7 +1904,8 @@ window.FLASHCARD_UNITS = {
       "text": "advocate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "My grandmother has twelve grandchildren, and she treats every one of us like a treasure. We all __________ her because she is kind, funny, and always ready to listen.",
@@ -1905,7 +1927,8 @@ window.FLASHCARD_UNITS = {
       "text": "abolish"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 81
    },
    {
     "question": "The new medicine helps many patients, but it can also cause headaches and sleep problems. Doctors must warn every patient about these possible __________ effects before they begin.",
@@ -1927,7 +1950,8 @@ window.FLASHCARD_UNITS = {
       "text": "adverse"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 85
    },
    {
     "question": "Many health experts believe that children should spend less time on screens. They __________ at least one hour of outdoor play every day for every child.",
@@ -1949,7 +1973,8 @@ window.FLASHCARD_UNITS = {
       "text": "acquire"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 89
    },
    {
     "question": "Most students feel a little nervous before a big test, and that is nothing to worry about. Such feelings are completely __________ and usually go away once the test begins.",
@@ -1971,7 +1996,8 @@ window.FLASHCARD_UNITS = {
       "text": "adverse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 1
    },
    {
     "question": "The city wants more people to ride bicycles instead of driving cars. It plans to __________ fifty new bike lanes over the next two years to make riding safer.",
@@ -1993,7 +2019,8 @@ window.FLASHCARD_UNITS = {
       "text": "acquire"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    },
    {
     "question": "Our library card lets students use many things on campus for free. With it, we have __________ to the swimming pool, the computer room, and the music practice rooms.",
@@ -2015,7 +2042,8 @@ window.FLASHCARD_UNITS = {
       "text": "activism"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "My grandfather is eighty years old, but he never sits still for long. He stays __________ by walking in the park every morning and gardening in the afternoon.",
@@ -2037,7 +2065,8 @@ window.FLASHCARD_UNITS = {
       "text": "acute"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "Our host family in Canada did everything they could to make us feel at home. They were so __________ that they even cooked Taiwanese food for us on the last night.",
@@ -2059,7 +2088,8 @@ window.FLASHCARD_UNITS = {
       "text": "abusive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    }
   ]
  }

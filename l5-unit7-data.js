@@ -1286,7 +1286,8 @@ window.FLASHCARD_UNITS = {
       "text": "coherent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "I was talking about my old friend Jim this morning. Then, by pure __________, he called me from Canada for the first time in five years.",
@@ -1308,7 +1309,8 @@ window.FLASHCARD_UNITS = {
       "text": "compassion"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "The new bridge was designed by engineers from Taiwan and Japan working together. It is a fine example of successful __________ between the two countries, and both sides are proud of it.",
@@ -1330,7 +1332,8 @@ window.FLASHCARD_UNITS = {
       "text": "commentary"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "Cleaning the river was not the work of one person or one group. It was a __________ effort by the whole town, from schoolchildren to shop owners.",
@@ -1352,7 +1355,8 @@ window.FLASHCARD_UNITS = {
       "text": "compact"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "Mr. Huang has over three thousand old coins from forty countries. As a serious __________, he spends every weekend looking for rare ones at flea markets.",
@@ -1374,7 +1378,8 @@ window.FLASHCARD_UNITS = {
       "text": "collector"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "This red-brick building was put up by the Japanese government in 1920. Today it is one of the best-kept __________ buildings in the city and is open to visitors.",
@@ -1396,7 +1401,8 @@ window.FLASHCARD_UNITS = {
       "text": "compassionate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 19
    },
    {
     "question": "Every Sunday, I turn to page ten of the newspaper first. My favorite __________ writes about food there, and her articles always make me feel hungry.",
@@ -1418,7 +1424,8 @@ window.FLASHCARD_UNITS = {
       "text": "commissioner"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 23
    },
    {
     "question": "Too many people in the city are throwing trash into the river. To __________ this problem, the government has put cameras along the bank and raised the fines.",
@@ -1440,7 +1447,8 @@ window.FLASHCARD_UNITS = {
       "text": "combat"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 27
    },
    {
     "question": "Jack can make anyone laugh with his funny stories and faces. After college, he became a __________ and now performs in clubs all over the country.",
@@ -1462,7 +1470,8 @@ window.FLASHCARD_UNITS = {
       "text": "commentator"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 30
    },
    {
     "question": "I could not watch the basketball final on TV because I was on the bus. Luckily, I listened to the live radio __________ and followed every play.",
@@ -1484,7 +1493,8 @@ window.FLASHCARD_UNITS = {
       "text": "compensation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "During the baseball game, a former player sat next to the announcer. As the __________, he explained to the viewers at home why each pitch worked or failed.",
@@ -1506,7 +1516,8 @@ window.FLASHCARD_UNITS = {
       "text": "commentator"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 35
    },
    {
     "question": "Lisa sells houses for a living, but she does not get a regular salary. Instead, she earns a __________ of three percent on every house that she sells.",
@@ -1528,7 +1539,8 @@ window.FLASHCARD_UNITS = {
       "text": "commitment"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "Being on the swimming team means practice at six every morning, even in winter. It takes real __________ to get up that early for a whole year.",
@@ -1550,7 +1562,8 @@ window.FLASHCARD_UNITS = {
       "text": "compatibility"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "Oil, rice, and coffee are bought and sold every day on the world market. When the price of such a __________ goes up, everything else gets more expensive too.",
@@ -1572,7 +1585,8 @@ window.FLASHCARD_UNITS = {
       "text": "column"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "In this political system, the government owns all the land and factories, and no one is allowed to run a private business. This system is called __________.",
@@ -1594,7 +1608,8 @@ window.FLASHCARD_UNITS = {
       "text": "comparison"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    },
    {
     "question": "For forty years, the country was ruled by a single party that owned every farm and factory. People in the West called it a __________ state.",
@@ -1616,7 +1631,8 @@ window.FLASHCARD_UNITS = {
       "text": "communist"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 52
    },
    {
     "question": "My aunt lives in Taoyuan but works in Taipei. She has to __________ by train every morning and evening, which takes her about an hour each way.",
@@ -1638,7 +1654,8 @@ window.FLASHCARD_UNITS = {
       "text": "compel"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "The seven o'clock train is always full of people going to work in the city. Every __________ on it seems to be reading the news or sleeping.",
@@ -1660,7 +1677,8 @@ window.FLASHCARD_UNITS = {
       "text": "comedian"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 56
    },
    {
     "question": "My new camera is so __________ that it fits in my shirt pocket. Still, it takes photos that are as clear as my father's big, heavy one.",
@@ -1682,7 +1700,8 @@ window.FLASHCARD_UNITS = {
       "text": "comic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 59
    },
    {
     "question": "The two laptops cost about the same and have almost the same speed and screen. Since they are __________ in every way, just choose the color you like.",
@@ -1704,7 +1723,8 @@ window.FLASHCARD_UNITS = {
       "text": "incompatible"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    },
    {
     "question": "The old doctor never charged poor families for their visits. Everyone in the village loved him for his __________ toward people who were sick and had no money.",
@@ -1726,7 +1746,8 @@ window.FLASHCARD_UNITS = {
       "text": "coherence"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    },
    {
     "question": "When the new student cried on her first day, Amy sat with her and shared her lunch. The teacher praised Amy for being so __________ to someone she had just met.",
@@ -1748,7 +1769,8 @@ window.FLASHCARD_UNITS = {
       "text": "compact"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "I bought a new printer, but it does not work with my old computer at all. The shop said the two machines are not __________ and offered me a different model.",
@@ -1770,7 +1792,8 @@ window.FLASHCARD_UNITS = {
       "text": "coherent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    },
    {
     "question": "The heavy snow closed every road out of the village. The bad weather may __________ the school to cancel classes for the rest of the week.",
@@ -1792,7 +1815,8 @@ window.FLASHCARD_UNITS = {
       "text": "compel"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 76
    },
    {
     "question": "Our flight was delayed for nine hours because of a storm. The airline promised to __________ every passenger with a free meal, a hotel room, and some money.",
@@ -1814,7 +1838,8 @@ window.FLASHCARD_UNITS = {
       "text": "commission"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 80
    },
    {
     "question": "Mr. Lin broke his leg at work when a heavy box fell on him. The company paid him __________ to cover his hospital bills and the months he could not work.",
@@ -1836,7 +1861,8 @@ window.FLASHCARD_UNITS = {
       "text": "commentary"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 81
    },
    {
     "question": "Most young people who break the law do it only once. However, a few of them go on to __________ more serious crimes when they grow older.",
@@ -1858,7 +1884,8 @@ window.FLASHCARD_UNITS = {
       "text": "compel"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 43
    },
    {
     "question": "In Taiwan, every child must go to school from the age of six to fifteen. Parents who do not send their children to school can be fined, because education is __________.",
@@ -1880,7 +1907,8 @@ window.FLASHCARD_UNITS = {
       "text": "compulsory"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "My grandmother has been buying teapots for fifty years. Her __________ now fills three large glass cabinets, and some pieces are worth a lot of money.",
@@ -1902,7 +1930,8 @@ window.FLASHCARD_UNITS = {
       "text": "colony"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 18
    },
    {
     "question": "Before you buy a new phone, do not just pick the first one you see. You should __________ at least three models in price and quality before you decide.",
@@ -1924,7 +1953,8 @@ window.FLASHCARD_UNITS = {
       "text": "commute"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    }
   ]
  }

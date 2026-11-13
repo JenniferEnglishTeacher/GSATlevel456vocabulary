@@ -1481,7 +1481,8 @@ window.FLASHCARD_UNITS = {
       "text": "prosecution"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "Sailboats do not need gas to move across the water. Instead, the wind fills the sails and helps __________ the boat forward, sometimes at a very fast speed.",
@@ -1503,7 +1504,8 @@ window.FLASHCARD_UNITS = {
       "text": "publicize"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "Poems use short lines and rhyme, so they are easy to remember. Stories and newspaper articles, however, are written in __________, which looks just like everyday speech.",
@@ -1525,7 +1527,8 @@ window.FLASHCARD_UNITS = {
       "text": "radius"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "The police caught the man who had stolen money from three old people. Now the court will __________ him, and he may go to prison for several years.",
@@ -1547,7 +1550,8 @@ window.FLASHCARD_UNITS = {
       "text": "propel"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 12
    },
    {
     "question": "The university opens its doors every spring to high school seniors who are thinking of studying there. These __________ students can visit classes and talk with professors.",
@@ -1569,7 +1573,8 @@ window.FLASHCARD_UNITS = {
       "text": "radioactive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 16
    },
    {
     "question": "Before a company sells a new car, it builds one to test first. Engineers drive this __________ for months to find problems and fix them before the real cars are made.",
@@ -1591,7 +1596,8 @@ window.FLASHCARD_UNITS = {
       "text": "proverb"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "My grandmother often says, \"The early bird catches the worm.\" This old __________ means that people who start early usually get the best chances in school and at work.",
@@ -1613,7 +1619,8 @@ window.FLASHCARD_UNITS = {
       "text": "prose"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "Taiwan is a small island, but some countries are divided into many large areas. In Canada, each __________ government decides how its own schools and hospitals are run.",
@@ -1635,7 +1642,8 @@ window.FLASHCARD_UNITS = {
       "text": "prospective"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "The new coach has not been given a full contract yet. He has only a __________ one for six months, and the club will decide later whether to keep him.",
@@ -1657,7 +1665,8 @@ window.FLASHCARD_UNITS = {
       "text": "radiant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "Some doctors treat broken bones, and others treat hearts. My aunt chose __________ as her field because she wanted to help people whose minds are sick, not their bodies.",
@@ -1679,7 +1688,8 @@ window.FLASHCARD_UNITS = {
       "text": "psychiatry"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 36
    },
    {
     "question": "The woman on TV says she can read people's minds and see the future. Many people do not believe she really has __________ powers, but her show is very popular.",
@@ -1701,7 +1711,8 @@ window.FLASHCARD_UNITS = {
       "text": "pure"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 40
    },
    {
     "question": "After the car accident, Tom was afraid to drive and had bad dreams every night. His doctor suggested __________, and talking to a trained listener every week slowly helped him.",
@@ -1723,7 +1734,8 @@ window.FLASHCARD_UNITS = {
       "text": "radiation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 44
    },
    {
     "question": "Our school is holding a charity concert next month, but few people know about it yet. We need to __________ the event with posters and online videos so more tickets are sold.",
@@ -1745,7 +1757,8 @@ window.FLASHCARD_UNITS = {
       "text": "propel"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "The old bus made a strange noise when the driver started the engine. Then a black __________ of smoke came out of the back, and everyone had to get off.",
@@ -1767,7 +1780,8 @@ window.FLASHCARD_UNITS = {
       "text": "puff"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 53
    },
    {
     "question": "Mr. Chen has taught at our school for twenty years, and he has never once been late. He is so __________ that students set their watches by his arrival.",
@@ -1789,7 +1803,8 @@ window.FLASHCARD_UNITS = {
       "text": "radiant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 57
    },
    {
     "question": "The water in the river is too dirty to drink. The new machine in the village can __________ it in a few minutes, so children no longer get sick from drinking it.",
@@ -1811,7 +1826,8 @@ window.FLASHCARD_UNITS = {
       "text": "shake"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 61
    },
    {
     "question": "Gold rings are often mixed with other metals to make them stronger. This ring, however, is 24K, which means its __________ is almost one hundred percent, so it costs much more.",
@@ -1833,7 +1849,8 @@ window.FLASHCARD_UNITS = {
       "text": "purity"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 62
    },
    {
     "question": "The little boy was so scared of the thunder that he hid under the bed. We could see him __________ with fear until the storm finally passed.",
@@ -1855,7 +1872,8 @@ window.FLASHCARD_UNITS = {
       "text": "puff"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "Mary speaks English very well, but she cannot teach at a public school yet. She still needs a teaching __________, which takes a year of study and an exam.",
@@ -1877,7 +1895,8 @@ window.FLASHCARD_UNITS = {
       "text": "qualification"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "Lisa just heard that she won first prize in the art contest. She looked __________ with joy as she ran across the playground to tell her best friend.",
@@ -1899,7 +1918,8 @@ window.FLASHCARD_UNITS = {
       "text": "impure"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 76
    },
    {
     "question": "The stone walls of the old house get very hot in the afternoon sun. Long after sunset, they still __________ warmth, so the cats sleep against them at night.",
@@ -1921,7 +1941,8 @@ window.FLASHCARD_UNITS = {
       "text": "radiate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 77
    },
    {
     "question": "Nuclear power plants produce waste that stays dangerous for thousands of years. This __________ material must be kept deep underground, far away from people and their drinking water.",
@@ -1943,7 +1964,8 @@ window.FLASHCARD_UNITS = {
       "text": "radiant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 81
    },
    {
     "question": "In winter, my grandmother makes a hot soup with pork bones and a big white vegetable. She says the __________ makes the soup sweet and keeps us warm.",
@@ -1965,7 +1987,8 @@ window.FLASHCARD_UNITS = {
       "text": "puff"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 85
    },
    {
     "question": "The line from the center of a circle to its edge is five centimeters long. If the __________ is five, then the line all the way across the circle is ten.",
@@ -1987,7 +2010,8 @@ window.FLASHCARD_UNITS = {
       "text": "diameter"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 88
    },
    {
     "question": "My cousin does not sing; instead, he speaks his words very fast to a strong beat. He writes his own __________ songs about life in the city and performs them in cafes.",
@@ -2009,7 +2033,8 @@ window.FLASHCARD_UNITS = {
       "text": "prose"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 92
    },
    {
     "question": "Drivers often look at their phones at red lights, and this causes many accidents. The new law will __________ the use of phones while driving, with a heavy fine.",
@@ -2031,7 +2056,8 @@ window.FLASHCARD_UNITS = {
       "text": "prohibit"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 1
    },
    {
     "question": "A famous singer posted a photo of the small noodle shop online last week. The free __________ brought hundreds of new customers, and now there is a line every day.",
@@ -2053,7 +2079,8 @@ window.FLASHCARD_UNITS = {
       "text": "purification"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 50
    },
    {
     "question": "Our basketball team has won five games in a row this season. If we win just one more, we will __________ for the national finals in Kaohsiung next month.",
@@ -2075,7 +2102,8 @@ window.FLASHCARD_UNITS = {
       "text": "publicize"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    },
    {
     "question": "Workers at the nuclear plant wear special suits and check their health every month. These rules protect them from __________, which can cause serious illness over many years.",
@@ -2097,7 +2125,8 @@ window.FLASHCARD_UNITS = {
       "text": "radiation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 78
    },
    {
     "question": "Many students feel too worried to sleep well before big exams. The school __________ meets with them, listens to their fears, and teaches them simple ways to relax.",
@@ -2119,7 +2148,8 @@ window.FLASHCARD_UNITS = {
       "text": "prosecutor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    }
   ]
  }

@@ -1316,7 +1316,8 @@ window.FLASHCARD_UNITS = {
       "text": "trek"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The ancient king fought too many wars and built too many palaces. By the end of his life, the royal __________ was empty, and the people had to pay higher taxes.",
@@ -1338,7 +1339,8 @@ window.FLASHCARD_UNITS = {
       "text": "twilight"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "The village has no road, so cars cannot reach it. Visitors have to make a long __________ on foot through the forest, which takes at least six hours.",
@@ -1360,7 +1362,8 @@ window.FLASHCARD_UNITS = {
       "text": "trek"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 9
    },
    {
     "question": "Jenny and her brother stopped talking to each other for a week. The fight started over a __________: he had eaten the last cookie in the box.",
@@ -1382,7 +1385,8 @@ window.FLASHCARD_UNITS = {
       "text": "trillion"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "A million is a one followed by six zeros, and a billion has nine zeros. A __________ is even bigger, with twelve zeros, and it is used for a country's total debt.",
@@ -1404,7 +1408,8 @@ window.FLASHCARD_UNITS = {
       "text": "trillion"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 16
    },
    {
     "question": "Chiayi is famous for a tall monument that stands on an imaginary line around the earth. This line is called the __________ of Cancer, and it marks the northern edge of the hot zone.",
@@ -1426,7 +1431,8 @@ window.FLASHCARD_UNITS = {
       "text": "turmoil"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "Grandpa took me fishing in the cold mountain stream last Sunday. We caught three __________ in the morning and fried them for lunch on a small stove.",
@@ -1448,7 +1454,8 @@ window.FLASHCARD_UNITS = {
       "text": "trout"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 24
    },
    {
     "question": "Mrs. Lee is one of the people who make the big decisions about the museum's money. As a __________, she must make sure the funds are used wisely for the public.",
@@ -1470,7 +1477,8 @@ window.FLASHCARD_UNITS = {
       "text": "treasury"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 27
    },
    {
     "question": "Your shirt is hanging out, and the school photo will be taken in five minutes. Please __________ it into your pants so that you look neat in the picture.",
@@ -1492,7 +1500,8 @@ window.FLASHCARD_UNITS = {
       "text": "trek"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "The president suddenly died, and three different men claimed to be the new leader. The country was in __________ for months, and nobody knew who was really in charge.",
@@ -1514,7 +1523,8 @@ window.FLASHCARD_UNITS = {
       "text": "treasury"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "We finished our picnic just as the sun went down behind the hills. In the soft __________, the sky turned pink and purple before it finally became dark.",
@@ -1536,7 +1546,8 @@ window.FLASHCARD_UNITS = {
       "text": "twilight"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 37
    },
    {
     "question": "Far from the lights of the city, the night sky looks completely different. Thousands of tiny stars __________ above you, and you can even see the Milky Way.",
@@ -1558,7 +1569,8 @@ window.FLASHCARD_UNITS = {
       "text": "unveil"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    },
    {
     "question": "All twelve members of the jury agreed that the man was not guilty. Because the decision was __________, the judge let him go home that same afternoon.",
@@ -1580,7 +1592,8 @@ window.FLASHCARD_UNITS = {
       "text": "unconditional"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 45
    },
    {
     "question": "Even when their son failed his exams and lost his job, his parents never stopped supporting him. Their love for him was __________, and he knew it.",
@@ -1602,7 +1615,8 @@ window.FLASHCARD_UNITS = {
       "text": "trustworthy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "Our team thinks the other school is weak because it is small. The coach warned us not to __________ them, because small teams often play with great heart.",
@@ -1624,7 +1638,8 @@ window.FLASHCARD_UNITS = {
       "text": "unify"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 52
    },
    {
     "question": "The old wooden floor looked dirty and gray. However, when the workers pulled up the carpet, they found beautiful white stones __________ that had been hidden for fifty years.",
@@ -1646,7 +1661,8 @@ window.FLASHCARD_UNITS = {
       "text": "underneath"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 56
    },
    {
     "question": "The road in front of the station is very busy, and there is no traffic light. The city built an __________ so that people can walk safely under the road to the other side.",
@@ -1668,7 +1684,8 @@ window.FLASHCARD_UNITS = {
       "text": "overpass"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    },
    {
     "question": "The school anniversary is only two weeks away, and everyone is busy. Preparations are already __________, with students painting signs and practicing their dances every afternoon.",
@@ -1690,7 +1707,8 @@ window.FLASHCARD_UNITS = {
       "text": "unified"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    },
    {
     "question": "For forty years, East and West Germany were two separate countries with a wall between them. In 1990, the __________ of the two sides finally made them one nation again.",
@@ -1712,7 +1730,8 @@ window.FLASHCARD_UNITS = {
       "text": "treasury"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 66
    },
    {
     "question": "After the long war, the north and the south of the country still hated each other. The new president promised to __________ the people and build one strong nation.",
@@ -1734,7 +1753,8 @@ window.FLASHCARD_UNITS = {
       "text": "transplant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "The phone company has kept its new model a secret for months. Tomorrow, it will finally __________ the phone at a big show, and reporters from all over the world will be there.",
@@ -1756,7 +1776,8 @@ window.FLASHCARD_UNITS = {
       "text": "unveil"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "My back hurts because I bend over my desk all day. The doctor said I should sit in an __________ position with my shoulders back and my feet flat on the floor.",
@@ -1778,7 +1799,8 @@ window.FLASHCARD_UNITS = {
       "text": "unconditional"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 74
    },
    {
     "question": "The farmers could no longer pay the heavy taxes the king demanded. They picked up their tools as weapons, and the __________ quickly spread from village to village.",
@@ -1800,7 +1822,8 @@ window.FLASHCARD_UNITS = {
       "text": "underpass"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "The store's sales have grown every month since it opened last year. The chart shows a clear __________ line, so the owner plans to open a second store soon.",
@@ -1822,7 +1845,8 @@ window.FLASHCARD_UNITS = {
       "text": "upward"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 81
    },
    {
     "question": "The old map showed a small island with a red cross on it. The children were sure that a pirate had buried his __________ there hundreds of years ago.",
@@ -1844,7 +1868,8 @@ window.FLASHCARD_UNITS = {
       "text": "trek"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 6
    },
    {
     "question": "Kenting is in the far south of Taiwan, where it is hot all year. Its __________ weather makes it a perfect place for swimming even in the middle of winter.",
@@ -1866,7 +1891,8 @@ window.FLASHCARD_UNITS = {
       "text": "trifling"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 22
    },
    {
     "question": "Linda has kept every secret I have ever told her. I can __________ her completely, so she is the first person I call when something goes wrong.",
@@ -1888,7 +1914,8 @@ window.FLASHCARD_UNITS = {
       "text": "trek"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 28
    },
    {
     "question": "Nobody knows exactly how many people came to the concert in the park. The police __________ that about fifty thousand fans were there, but the number could be higher.",
@@ -1910,7 +1937,8 @@ window.FLASHCARD_UNITS = {
       "text": "transplant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "The sky in the east was turning pink, and the birds began to sing. The fishermen set out to sea at __________, long before most people in the town woke up.",
@@ -1932,7 +1960,8 @@ window.FLASHCARD_UNITS = {
       "text": "uprising"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 40
    },
    {
     "question": "Every member of the club wanted Amy to be the new president. They __________ voted for her, and nobody at the meeting even suggested another name for the job.",
@@ -1954,7 +1983,8 @@ window.FLASHCARD_UNITS = {
       "text": "unconditionally"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 46
    }
   ]
  }

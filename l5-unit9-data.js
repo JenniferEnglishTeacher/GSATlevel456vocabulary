@@ -1286,7 +1286,8 @@ window.FLASHCARD_UNITS = {
       "text": "conservation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "It has not stopped raining since last Monday, and today is already Sunday. Seven __________ days of rain have left the streets flooded and the farmers very worried.",
@@ -1308,7 +1309,8 @@ window.FLASHCARD_UNITS = {
       "text": "consecutive"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "The six club members talked for two hours about where to hold the summer party. They finally reached a __________ and agreed to have it at the beach.",
@@ -1330,7 +1332,8 @@ window.FLASHCARD_UNITS = {
       "text": "conviction"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 7
    },
    {
     "question": "Students under eighteen cannot join the mountain-climbing trip by themselves. Each of them must bring a letter showing their parents' __________ before the school will accept them.",
@@ -1352,7 +1355,8 @@ window.FLASHCARD_UNITS = {
       "text": "consumption"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 10
    },
    {
     "question": "Thousands of sea turtles used to lay eggs on this beach every summer. Thanks to the __________ work of local groups, the number is now slowly growing again.",
@@ -1374,7 +1378,8 @@ window.FLASHCARD_UNITS = {
       "text": "contention"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 14
    },
    {
     "question": "My neighbor always carries my grandmother's heavy bags up the stairs for her. He is such a __________ young man that everyone in the building likes him.",
@@ -1396,7 +1401,8 @@ window.FLASHCARD_UNITS = {
       "text": "consecutive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 19
    },
    {
     "question": "The government wanted to stop people from speaking freely on the Internet. However, the court said the new law was not __________ and ordered the government to drop it.",
@@ -1418,7 +1424,8 @@ window.FLASHCARD_UNITS = {
       "text": "contagious"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "We wanted to travel for a whole month, but we only had ten days of holiday. Time was the biggest __________ on our plans, so we chose Japan instead of Europe.",
@@ -1440,7 +1447,8 @@ window.FLASHCARD_UNITS = {
       "text": "consumption"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "My mother was worried about the pain in her back. She made an appointment for a __________ with a doctor, who explained what the problem was and how to treat it.",
@@ -1462,7 +1470,8 @@ window.FLASHCARD_UNITS = {
       "text": "contemplation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "Doctors say teenagers in Taiwan drink far too much bubble tea. The __________ of sugary drinks has doubled in ten years, and more young people are becoming overweight.",
@@ -1484,7 +1493,8 @@ window.FLASHCARD_UNITS = {
       "text": "consumption"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 35
    },
    {
     "question": "Amy had a bad cold last week, and now three of her friends are sick too. The doctor said the illness is very __________ and told her to stay home.",
@@ -1506,7 +1516,8 @@ window.FLASHCARD_UNITS = {
       "text": "contemporary"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 39
    },
    {
     "question": "The old factory poured dirty water into the river for years. Scientists found that the chemicals had started to __________ the drinking water of two villages nearby.",
@@ -1528,7 +1539,8 @@ window.FLASHCARD_UNITS = {
       "text": "contemplate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "Grandpa likes to sit alone by the window every evening. He says it gives him time to __________ his long life and the many things he has seen.",
@@ -1550,7 +1562,8 @@ window.FLASHCARD_UNITS = {
       "text": "contemplate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "The museum used to show only paintings from hundreds of years ago. Now its new hall is full of __________ art made by young artists who are still alive today.",
@@ -1572,7 +1585,8 @@ window.FLASHCARD_UNITS = {
       "text": "consecutive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 49
    },
    {
     "question": "The rich man laughed at the poor farmers and called them lazy and stupid. His words were full of __________, and the villagers never forgot how he treated them.",
@@ -1594,7 +1608,8 @@ window.FLASHCARD_UNITS = {
       "text": "continent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 53
    },
    {
     "question": "The company says the fire started because of an old machine. However, the workers __________ that the real cause was the broken fire alarm nobody had fixed.",
@@ -1616,7 +1631,8 @@ window.FLASHCARD_UNITS = {
       "text": "consume"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 56
    },
    {
     "question": "Our hotel in Paris did not serve eggs or bacon in the morning. Instead, we had a simple __________ breakfast of bread, butter, jam, and a cup of coffee.",
@@ -1638,7 +1654,8 @@ window.FLASHCARD_UNITS = {
       "text": "continental"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 60
    },
    {
     "question": "My parents want to add a new bathroom to our house this summer. They are meeting a __________ tomorrow to ask how much the building work will cost.",
@@ -1660,7 +1677,8 @@ window.FLASHCARD_UNITS = {
       "text": "consumer"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 63
    },
    {
     "question": "The witness said he was at home, but a video shows him at the bank that night. The lawyer pointed out this __________ and asked him to explain it.",
@@ -1682,7 +1700,8 @@ window.FLASHCARD_UNITS = {
       "text": "consumption"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "The city wants to build a tall hotel next to the old temple. The plan is very __________, and people have been arguing about it in the newspapers for months.",
@@ -1704,7 +1723,8 @@ window.FLASHCARD_UNITS = {
       "text": "considerate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "The school decided to end the music class to save money. The decision caused great __________, and more than two hundred parents came to the meeting to complain.",
@@ -1726,7 +1746,8 @@ window.FLASHCARD_UNITS = {
       "text": "conviction"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 71
    },
    {
     "question": "The old train station has not been used for twenty years. Its __________ into a public library will begin next month and should be finished within three years.",
@@ -1748,7 +1769,8 @@ window.FLASHCARD_UNITS = {
       "text": "contamination"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "Our garage is full of old boxes that nobody ever opens. Dad plans to __________ it into a small workshop where he can fix bicycles on weekends.",
@@ -1770,7 +1792,8 @@ window.FLASHCARD_UNITS = {
       "text": "contend"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "The police found the stolen money in the man's car, along with his fingerprints on the bank door. With such strong evidence, the court was able to __________ him quickly.",
@@ -1792,7 +1815,8 @@ window.FLASHCARD_UNITS = {
       "text": "convict"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "The young lawyer spoke about protecting the river with great passion. Her strong __________ that nature must be saved moved everyone in the room, even the factory owners.",
@@ -1814,7 +1838,8 @@ window.FLASHCARD_UNITS = {
       "text": "consultation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 80
    },
    {
     "question": "The city has not had rain for two months, and the lake is getting low. Everyone is asked to __________ water by taking shorter showers and not washing cars.",
@@ -1836,7 +1861,8 @@ window.FLASHCARD_UNITS = {
       "text": "conserve"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "Before you buy a new phone, it is a good idea to ask people who know a lot about them. You can also __________ online reviews to compare different models.",
@@ -1858,7 +1884,8 @@ window.FLASHCARD_UNITS = {
       "text": "consume"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 32
    },
    {
     "question": "The singer was happy to join the famous music company. She signed a two-year __________ last week, and her first album will come out next spring.",
@@ -1880,7 +1907,8 @@ window.FLASHCARD_UNITS = {
       "text": "contract"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 64
    },
    {
     "question": "Prices in the city have gone up a lot this year. A smart __________ now shops at night markets and small stores because things there are cheaper than in big malls.",
@@ -1902,7 +1930,8 @@ window.FLASHCARD_UNITS = {
       "text": "consultant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 37
    },
    {
     "question": "Big trucks need a lot of fuel to carry heavy goods across the country. One truck can __________ more gas in a single day than my small car uses in a month.",
@@ -1924,7 +1953,8 @@ window.FLASHCARD_UNITS = {
       "text": "conserve"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 36
    }
   ]
  }

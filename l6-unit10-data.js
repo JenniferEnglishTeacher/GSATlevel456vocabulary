@@ -1301,7 +1301,8 @@ window.FLASHCARD_UNITS = {
       "text": "descent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The new shoes looked perfect in the store. At home, however, I found a small __________ in the left one, so I took them back the next day.",
@@ -1323,7 +1324,8 @@ window.FLASHCARD_UNITS = {
       "text": "direction"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "The teacher told the boy to sit down three times. In an act of open __________, he stayed standing and looked straight at her without saying a word.",
@@ -1345,7 +1347,8 @@ window.FLASHCARD_UNITS = {
       "text": "dictation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "Scientists still do not know exactly what killed the dinosaurs. There is no __________ answer yet, but most of them believe a huge rock from space hit the Earth.",
@@ -1367,7 +1370,8 @@ window.FLASHCARD_UNITS = {
       "text": "dental"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "Candy and soda can hurt your teeth over time. That is why our school nurse gives every class a __________ check in September to find problems early.",
@@ -1389,7 +1393,8 @@ window.FLASHCARD_UNITS = {
       "text": "diesel"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 17
    },
    {
     "question": "The campers used too much water on the first day. If they continue like this, they will __________ their supply long before the trip ends on Sunday.",
@@ -1411,7 +1416,8 @@ window.FLASHCARD_UNITS = {
       "text": "deplete"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 21
    },
    {
     "question": "Some parents take away their children's phones as a punishment. However, you should never __________ a child of food or sleep, because that can harm their health.",
@@ -1433,7 +1439,8 @@ window.FLASHCARD_UNITS = {
       "text": "direct"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 25
    },
    {
     "question": "The hikers reached the top of the mountain at noon. Their __________ was much faster, and they were back in the village before the sun went down.",
@@ -1455,7 +1462,8 @@ window.FLASHCARD_UNITS = {
       "text": "diabetes"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 29
    },
    {
     "question": "Nobody likes a person who lies to his friends. In fact, most people __________ liars and will stop trusting them after they are caught just once.",
@@ -1477,7 +1485,8 @@ window.FLASHCARD_UNITS = {
       "text": "descend"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 33
    },
    {
     "question": "Even as a child, Mei could play the piano without lessons. Everyone in town said she was __________ to become a famous musician one day, and they were right.",
@@ -1499,7 +1508,8 @@ window.FLASHCARD_UNITS = {
       "text": "defiant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 36
    },
    {
     "question": "This jacket is perfect for the changing spring weather. When it gets warm in the afternoon, you can simply __________ the sleeves and wear it like a vest.",
@@ -1521,7 +1531,8 @@ window.FLASHCARD_UNITS = {
       "text": "detach"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "The man ran out of the shop without paying for the watch. The guards were able to __________ him until the police arrived ten minutes later.",
@@ -1543,7 +1554,8 @@ window.FLASHCARD_UNITS = {
       "text": "deprive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "Jack forgot his homework three times this week. As a result, he has to stay after school for __________ tomorrow and finish all of it in the classroom.",
@@ -1565,7 +1577,8 @@ window.FLASHCARD_UNITS = {
       "text": "direction"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "Many small shops now have cameras near the door. The owners hope the cameras will __________ people from stealing, even if they cannot catch every thief.",
@@ -1587,7 +1600,8 @@ window.FLASHCARD_UNITS = {
       "text": "deter"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    },
    {
     "question": "My favorite white shirt had a big coffee stain on it this morning. I washed it twice with strong __________, and now the stain is almost gone.",
@@ -1609,7 +1623,8 @@ window.FLASHCARD_UNITS = {
       "text": "descent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 53
    },
    {
     "question": "We have not eaten anything since breakfast. Look at how fast the boys __________ their lunch boxes; they are too hungry even to talk to each other.",
@@ -1631,7 +1646,8 @@ window.FLASHCARD_UNITS = {
       "text": "detain"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 56
    },
    {
     "question": "My grandfather cannot eat cake at family parties anymore. He has __________, so he must be very careful about how much sugar he eats every day.",
@@ -1653,7 +1669,8 @@ window.FLASHCARD_UNITS = {
       "text": "dictatorship"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 59
    },
    {
     "question": "The manager's hand was hurt, so he could not type. He had to __________ the whole letter to his assistant, who wrote down every word for him.",
@@ -1675,7 +1692,8 @@ window.FLASHCARD_UNITS = {
       "text": "dictate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 62
    },
    {
     "question": "Listen carefully and do not look at your book. In this __________ exercise, I will read each sentence twice, and you must write exactly what you hear.",
@@ -1697,7 +1715,8 @@ window.FLASHCARD_UNITS = {
       "text": "diplomacy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "In that country, there has been no election for forty years. One __________ has held all the power, and anyone who speaks against him is sent to prison.",
@@ -1719,7 +1738,8 @@ window.FLASHCARD_UNITS = {
       "text": "director"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "For many years, the people of that nation had no right to vote. After the fall of the __________, they finally chose their own leaders in a free election.",
@@ -1741,7 +1761,8 @@ window.FLASHCARD_UNITS = {
       "text": "detention"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 65
    },
    {
     "question": "Be careful at the gas station tonight. Dad's new truck runs on __________, not gasoline, so make sure you choose the right pump before you start.",
@@ -1763,7 +1784,8 @@ window.FLASHCARD_UNITS = {
       "text": "detergent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 68
    },
    {
     "question": "The twins look exactly alike, even to their own teachers at school. Their mother, however, can always __________ between them by the small mark under Amy's left eye.",
@@ -1785,7 +1807,8 @@ window.FLASHCARD_UNITS = {
       "text": "differentiate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "The two countries almost went to war over the small island. Thanks to months of careful __________, their leaders finally agreed to share the fishing waters.",
@@ -1807,7 +1830,8 @@ window.FLASHCARD_UNITS = {
       "text": "detachment"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 76
    },
    {
     "question": "All the teachers received an email from the principal yesterday. The new __________ says that students must put their phones in a box before each class begins.",
@@ -1829,7 +1853,8 @@ window.FLASHCARD_UNITS = {
       "text": "deterrent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 80
    },
    {
     "question": "The toy car stopped working after only one day. The store clerk checked it, said the battery was __________, and gave us a new one for free without any questions.",
@@ -1851,7 +1876,8 @@ window.FLASHCARD_UNITS = {
       "text": "dental"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "I did not understand the word \"curfew\" in the story. So I looked up its __________ in the dictionary and found out it means a time when people must stay home.",
@@ -1873,7 +1899,8 @@ window.FLASHCARD_UNITS = {
       "text": "definition"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 14
    },
    {
     "question": "This old house was built by a rich merchant two hundred years ago. Today his __________, a quiet old lady, still lives there and shows visitors the family photos.",
@@ -1895,7 +1922,8 @@ window.FLASHCARD_UNITS = {
       "text": "detainee"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 32
    },
    {
     "question": "My uncle works for the government in another country far away. As a __________, he helps Taiwanese travelers who lose their passports or get into trouble abroad.",
@@ -1917,7 +1945,8 @@ window.FLASHCARD_UNITS = {
       "text": "diplomat"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 77
    },
    {
     "question": "I have had a bad toothache for three days. My mother made an appointment with the __________ for tomorrow morning, so I hope the pain will stop soon.",
@@ -1939,7 +1968,8 @@ window.FLASHCARD_UNITS = {
       "text": "director"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 18
    }
   ]
  }

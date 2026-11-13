@@ -1256,7 +1256,8 @@ window.FLASHCARD_UNITS = {
       "text": "intention"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "Babies learn to talk by listening and copying the people around them. That is why doctors tell parents to __________ with their children as much as possible every day.",
@@ -1278,7 +1279,8 @@ window.FLASHCARD_UNITS = {
       "text": "investigate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "Online classes are useful, but students often miss their friends. The __________ between classmates in a real classroom helps them learn how to work with other people.",
@@ -1300,7 +1302,8 @@ window.FLASHCARD_UNITS = {
       "text": "interaction"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 6
    },
    {
     "question": "My brother is old enough to choose his own clothes and friends. My mother tries not to __________ in his life, although she sometimes worries about his choices.",
@@ -1322,7 +1325,8 @@ window.FLASHCARD_UNITS = {
       "text": "interpret"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "Jack finished the beginner's English book last year and now reads short novels. His teacher moved him to the __________ class, which is harder but not yet advanced.",
@@ -1344,7 +1348,8 @@ window.FLASHCARD_UNITS = {
       "text": "intermediate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 12
    },
    {
     "question": "The old poem is written in a strange and difficult style. Even our teacher says that people can __________ its last line in several different ways.",
@@ -1366,7 +1371,8 @@ window.FLASHCARD_UNITS = {
       "text": "isolate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 15
    },
    {
     "question": "The speaker had to stop five times because people kept walking in late. After each __________, she had to find her place and start the sentence again.",
@@ -1388,7 +1394,8 @@ window.FLASHCARD_UNITS = {
       "text": "intention"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 19
    },
    {
     "question": "Mary and Jane have known each other since they were three years old. They are such __________ friends that they can often finish each other's sentences.",
@@ -1410,7 +1417,8 @@ window.FLASHCARD_UNITS = {
       "text": "isolated"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "The experienced doctor could not explain how she knew the boy was seriously ill. She said it was simply her __________, and the tests later proved she was right.",
@@ -1432,7 +1440,8 @@ window.FLASHCARD_UNITS = {
       "text": "interpretation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "In the history book, we read that a powerful army crossed the river in the year 1200. They planned to __________ the small kingdom and take its gold.",
@@ -1454,7 +1463,8 @@ window.FLASHCARD_UNITS = {
       "text": "invade"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 29
    },
    {
     "question": "Many soldiers from a foreign country entered the island in 1624 and built a fort by the sea. This __________ changed the lives of the people who lived there.",
@@ -1476,7 +1486,8 @@ window.FLASHCARD_UNITS = {
       "text": "invention"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 30
    },
    {
     "question": "Before the washing machine, people spent hours cleaning clothes by hand. This clever __________ saved families a lot of time and hard work every single week.",
@@ -1498,7 +1509,8 @@ window.FLASHCARD_UNITS = {
       "text": "isolation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 33
    },
    {
     "question": "My uncle wants his money to grow instead of just sitting in the bank. He has decided to __________ some of it in a small company that makes electric bikes.",
@@ -1520,7 +1532,8 @@ window.FLASHCARD_UNITS = {
       "text": "interrupt"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "A valuable painting disappeared from the city museum last night. The police have started an __________ and are now talking to everyone who worked there yesterday.",
@@ -1542,7 +1555,8 @@ window.FLASHCARD_UNITS = {
       "text": "invention"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "Learning a language is not only about memorizing words. It will also __________ a lot of listening, speaking, and making mistakes in front of other people.",
@@ -1564,7 +1578,8 @@ window.FLASHCARD_UNITS = {
       "text": "isolate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "Some of the chickens on the farm became sick last week. The farmer had to __________ them from the healthy ones so that the disease would not spread.",
@@ -1586,7 +1601,8 @@ window.FLASHCARD_UNITS = {
       "text": "isolate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    },
    {
     "question": "After the storm, the small village lost all its roads and phone lines. For a whole week, the people lived in complete __________ from the rest of the island.",
@@ -1608,7 +1624,8 @@ window.FLASHCARD_UNITS = {
       "text": "invention"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "Too much homework is a hot topic among students and parents these days. The school will hold a meeting next week to discuss this __________ with everyone.",
@@ -1630,7 +1647,8 @@ window.FLASHCARD_UNITS = {
       "text": "knob"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 53
    },
    {
     "question": "When Tina saw her sister's new bicycle, she felt unhappy and did not want to talk. Her mother told her that __________ is a normal feeling, but it should not control her.",
@@ -1652,7 +1670,8 @@ window.FLASHCARD_UNITS = {
       "text": "intimacy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 56
    },
    {
     "question": "David loves science so much that he reads about space every night. He is a __________ student who always asks questions and stays after class to learn more.",
@@ -1674,7 +1693,8 @@ window.FLASHCARD_UNITS = {
       "text": "involved"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 60
    },
    {
     "question": "I would like a cup of hot tea after walking in the cold. Please fill the __________ with water and put it on the stove for a few minutes.",
@@ -1696,7 +1716,8 @@ window.FLASHCARD_UNITS = {
       "text": "investor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "The floor was wet, and the old woman had dropped her keys under the table. A young man stopped to __________ down and pick them up for her.",
@@ -1718,7 +1739,8 @@ window.FLASHCARD_UNITS = {
       "text": "issue"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "The water in the shower was too hot this morning. I turned the __________ to the left, but the water did not get cooler at all.",
@@ -1740,7 +1762,8 @@ window.FLASHCARD_UNITS = {
       "text": "kettle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "Picking fruit in the fields under the hot sun is hard __________. The workers start at five in the morning and rest only when the sun is at its highest.",
@@ -1762,7 +1785,8 @@ window.FLASHCARD_UNITS = {
       "text": "labor"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "Scientists test new medicines many times before they are sold to the public. Most of these tests are done on small animals in a __________, not in a hospital.",
@@ -1784,7 +1808,8 @@ window.FLASHCARD_UNITS = {
       "text": "knob"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 78
    },
    {
     "question": "The young engineer wanted a machine that could wash dishes and dry them at the same time. Since no such machine existed, he decided to __________ one himself.",
@@ -1806,7 +1831,8 @@ window.FLASHCARD_UNITS = {
       "text": "isolate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 34
    },
    {
     "question": "Kevin always gets angry when his classmates get higher scores than he does. His teacher told him that being __________ of others will not help him do better.",
@@ -1828,7 +1854,8 @@ window.FLASHCARD_UNITS = {
       "text": "intimate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "Several students became sick after lunch on the same day. The school asked a doctor to __________ the problem, and he soon found that the milk was bad.",
@@ -1850,7 +1877,8 @@ window.FLASHCARD_UNITS = {
       "text": "invade"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "It is rude to start talking while another person is still speaking. Please wait until your friend has finished, and do not __________ her in the middle of a sentence.",
@@ -1872,7 +1900,8 @@ window.FLASHCARD_UNITS = {
       "text": "invent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "My father bought a small piece of land near the beach ten years ago. It turned out to be a wise __________, because the land is now worth ten times the price.",
@@ -1894,7 +1923,8 @@ window.FLASHCARD_UNITS = {
       "text": "investment"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 38
    }
   ]
  }

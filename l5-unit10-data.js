@@ -1316,7 +1316,8 @@ window.FLASHCARD_UNITS = {
       "text": "corrupt"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The song was written by a young singer, and she owns all the rights to it. A company that uses it in a TV ad without paying her is breaking __________ law.",
@@ -1338,7 +1339,8 @@ window.FLASHCARD_UNITS = {
       "text": "copyright"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "Our team has many good players, but one person matters more than anyone else. Lisa is the __________ of the team, and we always play badly when she is absent.",
@@ -1360,7 +1362,8 @@ window.FLASHCARD_UNITS = {
       "text": "crystal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "After working in a small family shop for years, Mr. Wu joined a large company. He found the __________ world very different, with long meetings and strict dress rules.",
@@ -1382,7 +1385,8 @@ window.FLASHCARD_UNITS = {
       "text": "corporate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 13
    },
    {
     "question": "The little bakery on our street was sold last year. It now belongs to a big __________ that owns more than three hundred shops around the country.",
@@ -1404,7 +1408,8 @@ window.FLASHCARD_UNITS = {
       "text": "correlation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 14
    },
    {
     "question": "Scientists studied two thousand students over three years. They found a clear __________ between the hours the students slept and the grades they got on tests.",
@@ -1426,7 +1431,8 @@ window.FLASHCARD_UNITS = {
       "text": "corporation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 17
    },
    {
     "question": "The TV station sent a reporter to Japan when the earthquake happened. The __________ spoke to us live from the street while the buildings were still shaking.",
@@ -1448,7 +1454,8 @@ window.FLASHCARD_UNITS = {
       "text": "counselor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 20
    },
    {
     "question": "Our classroom is on the third floor, at the far end of the building. Walk down the long __________ past the library, and you will find our door on the left.",
@@ -1470,7 +1477,8 @@ window.FLASHCARD_UNITS = {
       "text": "creek"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 24
    },
    {
     "question": "The police found that the official had taken money from several builders. Because he was __________, the city allowed many unsafe buildings to go up near the river.",
@@ -1492,7 +1500,8 @@ window.FLASHCARD_UNITS = {
       "text": "courteous"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 27
    },
    {
     "question": "The new mayor promised to clean up the city government. Within a month, three officials were arrested for taking money, and the fight against __________ had begun.",
@@ -1514,7 +1523,8 @@ window.FLASHCARD_UNITS = {
       "text": "coordination"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 29
    },
    {
     "question": "Peter did not know which university to choose, so he asked his uncle for advice. His uncle's wise __________ helped him make the best decision for his future.",
@@ -1536,7 +1546,8 @@ window.FLASHCARD_UNITS = {
       "text": "currency"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 31
    },
    {
     "question": "Many students feel stressed before the big exams in January. The school __________ talks with them one by one and helps them plan their study time.",
@@ -1558,7 +1569,8 @@ window.FLASHCARD_UNITS = {
       "text": "coordinator"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 34
    },
    {
     "question": "The hotel staff carried our heavy bags to the room and brought hot tea for Grandma. They were so __________ that we wrote a thank-you letter when we got home.",
@@ -1580,7 +1592,8 @@ window.FLASHCARD_UNITS = {
       "text": "corrupt"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 36
    },
    {
     "question": "The typhoon was the biggest news story of the week. Every TV channel gave it full __________, and the same pictures of flooded streets were shown all evening.",
@@ -1602,7 +1615,8 @@ window.FLASHCARD_UNITS = {
       "text": "cuisine"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    },
    {
     "question": "The newspaper printed a story about a fire that never actually happened. After that, it lost much of its __________, and many readers stopped buying it.",
@@ -1624,7 +1638,8 @@ window.FLASHCARD_UNITS = {
       "text": "courtesy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 44
    },
    {
     "question": "Behind my grandmother's house there is a small stream with clear water. In summer, the children love to catch tiny fish in the __________ all afternoon.",
@@ -1646,7 +1661,8 @@ window.FLASHCARD_UNITS = {
       "text": "creek"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 48
    },
    {
     "question": "A computer virus got into the bank's system last Friday. It was able to __________ the whole network, and customers could not get their money for two days.",
@@ -1668,7 +1684,8 @@ window.FLASHCARD_UNITS = {
       "text": "correlate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "The scholarship is not given to the students with the highest grades. The most important __________ is financial need, so even average students can apply for it.",
@@ -1690,7 +1707,8 @@ window.FLASHCARD_UNITS = {
       "text": "currency"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 55
    },
    {
     "question": "The judges will choose the best poster in the art contest next week. They will use three __________: a clear message, bright colors, and original ideas.",
@@ -1712,7 +1730,8 @@ window.FLASHCARD_UNITS = {
       "text": "criteria"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 56
    },
    {
     "question": "The last ten minutes of the final game were very important. Everyone in the stadium stood up during those __________ minutes, and our team scored the winning goal.",
@@ -1734,7 +1753,8 @@ window.FLASHCARD_UNITS = {
       "text": "courteous"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 59
    },
    {
     "question": "The children built a small boat out of old boards and some rope. It looked very __________, but to everyone's surprise it actually floated on the lake.",
@@ -1756,7 +1776,8 @@ window.FLASHCARD_UNITS = {
       "text": "crude"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    },
    {
     "question": "My grandparents are taking a holiday on a large ship next month. During the two-week __________, they will visit a different port in Japan almost every day.",
@@ -1778,7 +1799,8 @@ window.FLASHCARD_UNITS = {
       "text": "corridor"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "The guide shone her flashlight on the cave walls, and they sparkled like ice. The walls were covered with a layer of white __________ that had formed over thousands of years.",
@@ -1800,7 +1822,8 @@ window.FLASHCARD_UNITS = {
       "text": "corridor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "Thai food is famous for its mix of sweet, sour, and spicy flavors. When we visited Bangkok, we tried the local __________ at a different night market every evening.",
@@ -1822,7 +1845,8 @@ window.FLASHCARD_UNITS = {
       "text": "cuisine"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 75
    },
    {
     "question": "Before flying to Korea, Dad went to the bank to change some money. He wanted to have the local __________ ready so we could buy snacks as soon as we landed.",
@@ -1844,7 +1868,8 @@ window.FLASHCARD_UNITS = {
       "text": "copyright"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "Starting next year, every senior high school student will take a computer programming class. The new __________ also adds more hours of English and art classes.",
@@ -1866,7 +1891,8 @@ window.FLASHCARD_UNITS = {
       "text": "corporation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 82
    },
    {
     "question": "On a crowded bus, you should let older people get on before you. It is common __________ to give up your seat to someone who needs it more than you do.",
@@ -1888,7 +1914,8 @@ window.FLASHCARD_UNITS = {
       "text": "corruption"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "The boy said he missed class because he was sick, but his teacher had seen him at the game center. His excuse was simply not __________.",
@@ -1910,7 +1937,8 @@ window.FLASHCARD_UNITS = {
       "text": "credible"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 45
    },
    {
     "question": "Please check your ticket before you sit down in the theater. The number on your ticket should __________ to the seat number printed on the wall.",
@@ -1932,7 +1960,8 @@ window.FLASHCARD_UNITS = {
       "text": "cripple"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 21
    },
    {
     "question": "Dancing well is not only about moving your feet to the music. It also needs good __________ between your eyes, arms, and legs, which takes years of practice.",
@@ -1954,7 +1983,8 @@ window.FLASHCARD_UNITS = {
       "text": "coverage"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 2
    }
   ]
  }

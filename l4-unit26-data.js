@@ -1451,7 +1451,8 @@ window.FLASHCARD_UNITS = {
       "text": "memorize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "Hundreds of years ago, a rich __________ from this town sailed to India to buy tea and spices. He later sold them for a high price in Europe.",
@@ -1473,7 +1474,8 @@ window.FLASHCARD_UNITS = {
       "text": "miner"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "The little boy broke his neighbor's window with a baseball, but the old man did not get angry. He showed great __________ and only asked the boy to be more careful.",
@@ -1495,7 +1497,8 @@ window.FLASHCARD_UNITS = {
       "text": "misfortune"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "When the famous singer was a child, her family was very poor. Her first concert ticket cost a __________ fifty dollars, but today a ticket can cost thousands.",
@@ -1517,7 +1520,8 @@ window.FLASHCARD_UNITS = {
       "text": "mere"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 13
    },
    {
     "question": "Each of the three plans has its own __________, so the committee could not decide quickly. They will meet again next week to compare them more carefully.",
@@ -1539,7 +1543,8 @@ window.FLASHCARD_UNITS = {
       "text": "mercy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 16
    },
    {
     "question": "In ancient China, a __________ would ride a horse for days to carry the emperor's letters to faraway cities. Some of them even rode through the night.",
@@ -1561,7 +1566,8 @@ window.FLASHCARD_UNITS = {
       "text": "millionaire"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "My sister's desk is so __________ that she can never find her pencils or her homework. There are papers, cups, and snack bags all over it.",
@@ -1583,7 +1589,8 @@ window.FLASHCARD_UNITS = {
       "text": "messy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 24
    },
    {
     "question": "A drop of pond water looks clear to our eyes. However, when we look at it under a __________, we can see hundreds of tiny living things swimming around.",
@@ -1605,7 +1612,8 @@ window.FLASHCARD_UNITS = {
       "text": "mineral"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "Do not worry too much about the new medicine; the doctor said its side effects are very __________. You may feel a little sleepy, but that is all.",
@@ -1627,7 +1635,8 @@ window.FLASHCARD_UNITS = {
       "text": "messy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 33
    },
    {
     "question": "Two hundred years ago, farmers in this village carried their wheat to the old __________ by the river. The large stone wheels inside turned the wheat into flour.",
@@ -1649,7 +1658,8 @@ window.FLASHCARD_UNITS = {
       "text": "mill"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 37
    },
    {
     "question": "Mr. Lin started his bakery with only one small shop and three workers. Thirty years later, he owns sixty shops around Taiwan and has become a __________.",
@@ -1671,7 +1681,8 @@ window.FLASHCARD_UNITS = {
       "text": "miller"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "Every day the __________ went deep under the mountain to dig for coal. When he came home at night, his face and hands were always black with dust.",
@@ -1693,7 +1704,8 @@ window.FLASHCARD_UNITS = {
       "text": "messenger"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "Our island does not have much coal, iron, or oil under its ground. Because every important __________ must come from other countries, prices often go up and down.",
@@ -1715,7 +1727,8 @@ window.FLASHCARD_UNITS = {
       "text": "monitor"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 46
    },
    {
     "question": "The sign on the ride says that children must be at least 120 centimeters tall. My cousin is only 115 centimeters, so he does not meet the __________ height.",
@@ -1737,7 +1750,8 @@ window.FLASHCARD_UNITS = {
       "text": "moderate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 50
    },
    {
     "question": "The education __________ visited our school yesterday morning and talked with students about the new English program. She promised that every classroom would get new computers.",
@@ -1759,7 +1773,8 @@ window.FLASHCARD_UNITS = {
       "text": "merchant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 55
    },
    {
     "question": "This morning, the government's __________ of health announced several new rules for restaurants. From now on, every cook must wear a mask and gloves while preparing food.",
@@ -1781,7 +1796,8 @@ window.FLASHCARD_UNITS = {
       "text": "microscope"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 56
    },
    {
     "question": "The twins are always up to some kind of __________. Yesterday they hid their father's car keys in the freezer and laughed as he searched the whole house.",
@@ -1803,7 +1819,8 @@ window.FLASHCARD_UNITS = {
       "text": "mischief"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 60
    },
    {
     "question": "It rained all week during our trip to Japan, and I caught a bad cold on the second day. I felt so __________ that I just wanted to go home.",
@@ -1825,7 +1842,8 @@ window.FLASHCARD_UNITS = {
       "text": "moderate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "Mr. Chen lost his job in March, and then his house was damaged by a typhoon in July. After so much __________, his friends decided to help him start again.",
@@ -1847,7 +1865,8 @@ window.FLASHCARD_UNITS = {
       "text": "mischief"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    },
    {
     "question": "The picture of the hotel on the website looked beautiful, but the real place was old and dirty. Many customers said the photos were used to __________ them.",
@@ -1869,7 +1888,8 @@ window.FLASHCARD_UNITS = {
       "text": "moderate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "I did not say that I hated your cooking; I only said the soup was a little salty. Please do not __________ me again like you did last time.",
@@ -1891,7 +1911,8 @@ window.FLASHCARD_UNITS = {
       "text": "minimize"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 77
    },
    {
     "question": "You do not need to run ten kilometers every day to stay healthy. Doctors say that __________ exercise, like a thirty-minute walk, is good enough for most people.",
@@ -1913,7 +1934,8 @@ window.FLASHCARD_UNITS = {
       "text": "moderate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 82
    },
    {
     "question": "Even after winning the gold medal, Amy never talks about how great she is. She is so __________ that she always thanks her coach and teammates first.",
@@ -1935,7 +1957,8 @@ window.FLASHCARD_UNITS = {
       "text": "misleading"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 86
    },
    {
     "question": "Although Mr. Wu is one of the richest men in the city, he drives an old car and wears simple clothes. People respect him for his __________.",
@@ -1957,7 +1980,8 @@ window.FLASHCARD_UNITS = {
       "text": "mining"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 87
    },
    {
     "question": "The nurse put a small machine on my finger to __________ my heart rate during the night. If anything changed, the machine would make a loud sound.",
@@ -1979,7 +2003,8 @@ window.FLASHCARD_UNITS = {
       "text": "monitor"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 91
    },
    {
     "question": "I was not angry with you at the party last night; I was __________ tired after working twelve hours, nothing more. I am sorry if I seemed unfriendly.",
@@ -2001,7 +2026,8 @@ window.FLASHCARD_UNITS = {
       "text": "unfortunately"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 14
    },
    {
     "question": "The old judge was known as a __________ man. He often gave young people who made their first mistake a second chance instead of sending them to jail.",
@@ -2023,7 +2049,8 @@ window.FLASHCARD_UNITS = {
       "text": "misleading"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 11
    },
    {
     "question": "The news title said the actor was \"badly hurt,\" but he only had a small cut on his hand. Many readers complained that the title was __________.",
@@ -2045,7 +2072,8 @@ window.FLASHCARD_UNITS = {
       "text": "mischievous"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "There was a __________ about the time of the meeting. Half of the team came at nine o'clock, while the others thought it started at ten.",
@@ -2067,7 +2095,8 @@ window.FLASHCARD_UNITS = {
       "text": "merit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "Wearing a helmet cannot stop every accident, but it can __________ the damage to your head if you fall off your scooter. That is why the law requires it.",
@@ -2089,7 +2118,8 @@ window.FLASHCARD_UNITS = {
       "text": "mislead"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 52
    }
   ]
  }

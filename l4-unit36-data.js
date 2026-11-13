@@ -1631,7 +1631,8 @@ window.FLASHCARD_UNITS = {
       "text": "socket"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The city put a large stone __________ of a lion in front of the new library. Many children like to climb on it and take pictures with their parents.",
@@ -1653,7 +1654,8 @@ window.FLASHCARD_UNITS = {
       "text": "skyscraper"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "Grandpa keeps his money in the bank instead of at home. He says a bank is much more __________ than a box under the bed, where a thief could easily find it.",
@@ -1675,7 +1677,8 @@ window.FLASHCARD_UNITS = {
       "text": "shady"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "The dog saw a piece of meat fall from the table. Before anyone could stop him, he jumped up to __________ it and ran out of the kitchen as fast as he could.",
@@ -1697,7 +1700,8 @@ window.FLASHCARD_UNITS = {
       "text": "seize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 14
    },
    {
     "question": "Two hundred years ago, nobody lived in this green valley at all. The first __________ arrived by boat, cut down trees, and built a simple wooden house by the river for his family.",
@@ -1719,7 +1723,8 @@ window.FLASHCARD_UNITS = {
       "text": "sculptor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 18
    },
    {
     "question": "The storm last night was the worst in twenty years. The damage was so __________ that many families still have no electricity or clean water this morning.",
@@ -1741,7 +1746,8 @@ window.FLASHCARD_UNITS = {
       "text": "slight"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "There is a hole in my school uniform, and I have no money to buy a new one. Could you teach me how to __________ it with a needle and some thread?",
@@ -1763,7 +1769,8 @@ window.FLASHCARD_UNITS = {
       "text": "shift"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "It is thirty-five degrees outside, and the sun is very strong. Let's sit under that big tree, where the __________ will keep us cool while we eat our lunch.",
@@ -1785,7 +1792,8 @@ window.FLASHCARD_UNITS = {
       "text": "shade"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 30
    },
    {
     "question": "Sunburn can make your skin red and painful for days. On hot summer days, it is better to walk on the __________ side of the street than in the hot sun.",
@@ -1807,7 +1815,8 @@ window.FLASHCARD_UNITS = {
       "text": "significant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "Some people throw their dogs out on the street when the animals get old or sick. Most of us agree that such __________ behavior should be punished by law.",
@@ -1829,7 +1838,8 @@ window.FLASHCARD_UNITS = {
       "text": "secure"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "Jack has not cut the hair on his face for two weeks, and his boss is not happy about it. He needs to __________ before the important meeting tomorrow morning.",
@@ -1851,7 +1861,8 @@ window.FLASHCARD_UNITS = {
       "text": "sketch"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    },
    {
     "question": "The rain was so heavy that the hikers could not keep walking. They found a small cave in the mountain and used it as a __________ until the sky cleared.",
@@ -1873,7 +1884,8 @@ window.FLASHCARD_UNITS = {
       "text": "slogan"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "This sofa is in the way, and we cannot open the door all the way. Could you help me __________ it a little to the left, so the door can open?",
@@ -1895,7 +1907,8 @@ window.FLASHCARD_UNITS = {
       "text": "sew"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "Our first day in Tokyo was not for work but for fun. We spent the whole day __________, and we saw the famous tower, two temples, and a big fish market.",
@@ -1917,7 +1930,8 @@ window.FLASHCARD_UNITS = {
       "text": "sightseeing"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 55
    },
    {
     "question": "The bank cannot give you the money until the form is complete. Please write your name clearly, and then put your __________ on the line at the bottom of the page.",
@@ -1939,7 +1953,8 @@ window.FLASHCARD_UNITS = {
       "text": "software"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 60
    },
    {
     "question": "Our teacher said the small island looks unimportant on the map, but it has great __________ for the country. Many of the fish we eat come from the sea around it.",
@@ -1961,7 +1976,8 @@ window.FLASHCARD_UNITS = {
       "text": "sincerity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 64
    },
    {
     "question": "Anyone can say \"I'm sorry,\" but not everyone means it. When Mike said sorry to his sister, we could all hear the __________ in his voice, and she forgave him.",
@@ -1983,7 +1999,8 @@ window.FLASHCARD_UNITS = {
       "text": "significance"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 69
    },
    {
     "question": "In English, we say \"one child\" but \"two children.\" When you talk about only one person or thing, you must use the __________ form of the noun, not the plural.",
@@ -2005,7 +2022,8 @@ window.FLASHCARD_UNITS = {
       "text": "secure"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "The new shopping mall will open next year. Right now the __________ is just an empty field with a big sign, but the workers will start building next month.",
@@ -2027,7 +2045,8 @@ window.FLASHCARD_UNITS = {
       "text": "shift"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 79
    },
    {
     "question": "The artist did not have much time before the sun went down. She quickly drew a simple __________ of the old bridge and planned to finish the painting at home.",
@@ -2049,7 +2068,8 @@ window.FLASHCARD_UNITS = {
       "text": "settlement"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 83
    },
    {
     "question": "Taipei 101 was once the tallest building in the world. From the top of this __________, you can see the whole city, the mountains, and even the sea on a clear day.",
@@ -2071,7 +2091,8 @@ window.FLASHCARD_UNITS = {
       "text": "skyscraper"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 87
    },
    {
     "question": "The doctor said my brother's leg is going to be fine. He has only a __________ injury, so he just needs to rest for two days and he can play basketball again.",
@@ -2093,7 +2114,8 @@ window.FLASHCARD_UNITS = {
       "text": "shameful"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 91
    },
    {
     "question": "Many people remember the shoe company's TV ad from years ago. Its three-word __________ was so simple and strong that people still say it when they want to encourage friends.",
@@ -2115,7 +2137,8 @@ window.FLASHCARD_UNITS = {
       "text": "slogan"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 95
    },
    {
     "question": "My phone battery is almost dead, and I need to call my mother. Is there a __________ in this coffee shop where I can plug in my charger for a few minutes?",
@@ -2137,7 +2160,8 @@ window.FLASHCARD_UNITS = {
       "text": "shade"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 99
    },
    {
     "question": "The computer itself is fine, but it cannot do anything useful yet. We still need to install the right __________ so that we can write reports and send e-mails.",
@@ -2159,7 +2183,8 @@ window.FLASHCARD_UNITS = {
       "text": "software"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 103
    },
    {
     "question": "People who have done something wrong usually try to hide it. However, when Tim broke the window, he felt so __________ that he went straight to the teacher and told her everything.",
@@ -2181,7 +2206,8 @@ window.FLASHCARD_UNITS = {
       "text": "sincere"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 39
    },
    {
     "question": "Our teacher did not want the class to feel too stressed. She told us that forgetting one word in a speech is a very small mistake and nothing to worry about, because it is __________.",
@@ -2203,7 +2229,8 @@ window.FLASHCARD_UNITS = {
       "text": "insignificant"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 68
    },
    {
     "question": "After the war, two families lived in the same old house for months. Finally they reached a friendly __________, and one family moved to the house next door.",
@@ -2225,7 +2252,8 @@ window.FLASHCARD_UNITS = {
       "text": "seizure"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 21
    },
    {
     "question": "A famous actress will visit our school next week to give a talk. The students are standing outside the gate to __________ for a petition asking her to stay for lunch.",
@@ -2247,7 +2275,8 @@ window.FLASHCARD_UNITS = {
       "text": "shout slogans"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    },
    {
     "question": "My aunt knows how to make clothes by hand, but it takes her days. With her new __________, she can finish a simple dress in one afternoon.",
@@ -2269,7 +2298,8 @@ window.FLASHCARD_UNITS = {
       "text": "security guard"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 28
    }
   ]
  }

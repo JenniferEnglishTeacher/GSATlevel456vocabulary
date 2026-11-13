@@ -1346,7 +1346,8 @@ window.FLASHCARD_UNITS = {
       "text": "council"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The store was busy, and a long line of people were waiting to pay. I put my drinks on the __________ and took out my wallet to find some coins.",
@@ -1368,7 +1369,8 @@ window.FLASHCARD_UNITS = {
       "text": "cube"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "The young man jumped into the cold river to save a drowning child he did not even know. Everyone agreed that it was a truly __________ act.",
@@ -1390,7 +1392,8 @@ window.FLASHCARD_UNITS = {
       "text": "crunchy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "Holding the door open for an old lady does not take much time. Small acts of __________ like this make life more pleasant for everyone around us.",
@@ -1412,7 +1415,8 @@ window.FLASHCARD_UNITS = {
       "text": "cruelty"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 14
    },
    {
     "question": "When the big dog barked, Jack hid behind his little sister instead of protecting her. His friends laughed and called him a __________ for the rest of the day.",
@@ -1434,7 +1438,8 @@ window.FLASHCARD_UNITS = {
       "text": "creator"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 18
    },
    {
     "question": "Do not pour hot water into that old cup. There is already a thin __________ on one side, and the heat may break the cup into pieces.",
@@ -1456,7 +1461,8 @@ window.FLASHCARD_UNITS = {
       "text": "crack"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 21
    },
    {
     "question": "Grandpa makes beautiful chairs and tables with his own hands, using tools his father gave him. He learned this __________ when he was only twelve years old.",
@@ -1478,7 +1484,8 @@ window.FLASHCARD_UNITS = {
       "text": "courtesy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 26
    },
    {
     "question": "Every painting in this room was made by students under the age of ten. Visitors are often surprised to learn that each __________ took only one afternoon.",
@@ -1500,7 +1507,8 @@ window.FLASHCARD_UNITS = {
       "text": "crunch"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "Instead of giving us a test, our teacher asked us to design a new game. She said the project would show our __________ better than any exam could.",
@@ -1522,7 +1530,8 @@ window.FLASHCARD_UNITS = {
       "text": "curiosity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 32
    },
    {
     "question": "The children did not want to wake their mother, who was sleeping on the sofa. They decided to __________ quietly past her and go out to play.",
@@ -1544,7 +1553,8 @@ window.FLASHCARD_UNITS = {
       "text": "counter"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 37
    },
    {
     "question": "Ms. Lin watches every new movie as soon as it comes out. As a film __________, she writes about them in the newspaper so readers know which ones are worth seeing.",
@@ -1566,7 +1576,8 @@ window.FLASHCARD_UNITS = {
       "text": "critic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "Joe always points out what is wrong with other people's ideas but never offers any of his own. His classmates find him too __________ to work with.",
@@ -1588,7 +1599,8 @@ window.FLASHCARD_UNITS = {
       "text": "curious"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "The singer worked hard on her new album, but many people said it was boring. She tried not to let the __________ hurt her, and she kept writing songs.",
@@ -1610,7 +1622,8 @@ window.FLASHCARD_UNITS = {
       "text": "curiosity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "You have never cooked a meal in your life, so it is unfair to complain about your mother's food. Do not __________ others for things you cannot do yourself.",
@@ -1632,7 +1645,8 @@ window.FLASHCARD_UNITS = {
       "text": "cushion"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 43
    },
    {
     "question": "The farmer kept his horses in a dark, dirty barn and never gave them enough food. The police took the animals away because of his __________.",
@@ -1654,7 +1668,8 @@ window.FLASHCARD_UNITS = {
       "text": "cruelty"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "I do not like soft cookies that fall apart in my hand. I prefer the __________ kind that makes a loud sound when I bite into it.",
@@ -1676,7 +1691,8 @@ window.FLASHCARD_UNITS = {
       "text": "curvy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 50
    },
    {
     "question": "Do not sit on that paper bag, or you will __________ the fresh bread inside it. Put the bag on the seat next to you instead.",
@@ -1698,7 +1714,8 @@ window.FLASHCARD_UNITS = {
       "text": "crush"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 53
    },
    {
     "question": "My little brother built a tall tower with wooden blocks, each one having six equal square sides. He said he needed one more __________ to finish it.",
@@ -1720,7 +1737,8 @@ window.FLASHCARD_UNITS = {
       "text": "curl"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 57
    },
    {
     "question": "The actors waited quietly behind the stage for the right moment. When the music stopped, that was their __________ to walk out and begin the play.",
@@ -1742,7 +1760,8 @@ window.FLASHCARD_UNITS = {
       "text": "counter"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 61
    },
    {
     "question": "The __________ fox pretended to be hurt so that the hens would come closer to help. Then it quickly caught the nearest one and ran away.",
@@ -1764,7 +1783,8 @@ window.FLASHCARD_UNITS = {
       "text": "curly"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 65
    },
    {
     "question": "Little Amy keeps asking why the sky is blue, why birds can fly, and where the sun goes at night. Her __________ makes her a wonderful science student.",
@@ -1786,7 +1806,8 @@ window.FLASHCARD_UNITS = {
       "text": "cruelty"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "My mother's hair is straight, but mine starts to __________ as soon as it gets wet. That is why I always carry a hat on rainy days.",
@@ -1808,7 +1829,8 @@ window.FLASHCARD_UNITS = {
       "text": "cube"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 73
    },
    {
     "question": "In the old story, an angry witch places a __________ on the castle. Everyone inside falls asleep for one hundred years until a brave prince finally arrives.",
@@ -1830,7 +1852,8 @@ window.FLASHCARD_UNITS = {
       "text": "cube"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 77
    },
    {
     "question": "The road to the top of the mountain is not straight at all. Drivers must slow down at every sharp __________, especially when the ground is wet.",
@@ -1852,7 +1875,8 @@ window.FLASHCARD_UNITS = {
       "text": "craft"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 80
    },
    {
     "question": "The wooden chairs in Grandma's kitchen are hard and uncomfortable. She put a soft __________ on each one so that guests can sit for a long time.",
@@ -1874,7 +1898,8 @@ window.FLASHCARD_UNITS = {
       "text": "cube"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 85
    },
    {
     "question": "The new student was too shy to join the school play. His teacher's warm words gave him the __________ to try, and he ended up loving the stage.",
@@ -1896,7 +1921,8 @@ window.FLASHCARD_UNITS = {
       "text": "cowardice"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 10
    },
    {
     "question": "My cousin never follows the usual way of doing things. She is so __________ that she made a lamp out of old bottles and a bicycle wheel.",
@@ -1918,7 +1944,8 @@ window.FLASHCARD_UNITS = {
       "text": "creative"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 34
    },
    {
     "question": "The forest was very dark and quiet, and strange sounds came from behind the trees. The children felt it was too __________ and hurried back to the camp.",
@@ -1940,7 +1967,8 @@ window.FLASHCARD_UNITS = {
       "text": "crunchy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 39
    },
    {
     "question": "The hotel clerk greeted us with a warm smile and answered every question patiently. We were really impressed by how __________ everyone at the front desk was.",
@@ -1962,7 +1990,8 @@ window.FLASHCARD_UNITS = {
       "text": "curved"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "Many animals live in the rain forest, and scientists still find new ones every year. Last month, they discovered a tiny __________ that glows in the dark.",
@@ -1984,7 +2013,8 @@ window.FLASHCARD_UNITS = {
       "text": "creature"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 36
    }
   ]
  }

@@ -1391,7 +1391,8 @@ window.FLASHCARD_UNITS = {
       "text": "overall"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "During the election, people from other countries came to watch how the votes were counted. Each __________ wrote a report saying whether the process was fair and honest.",
@@ -1413,7 +1414,8 @@ window.FLASHCARD_UNITS = {
       "text": "observer"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "Our school team is small and has never won a single game this season. The __________ of beating the champions tomorrow are low, but we will still try our best.",
@@ -1435,7 +1437,8 @@ window.FLASHCARD_UNITS = {
       "text": "offering"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "Before the big exam, my grandmother went to the temple with fruit and flowers. She placed her __________ on the table in front of the god and prayed for my success.",
@@ -1457,7 +1460,8 @@ window.FLASHCARD_UNITS = {
       "text": "orchard"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 12
    },
    {
     "question": "In Italy, people cook almost everything with oil made from a small green or black fruit. The __________ grows on trees that can live for hundreds of years in the dry hills.",
@@ -1479,7 +1483,8 @@ window.FLASHCARD_UNITS = {
       "text": "opponent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 16
    },
    {
     "question": "The new MRT line was finished last month, but the trains are not running yet. Engineers say the line will be fully __________ by the end of March after safety tests.",
@@ -1501,7 +1506,8 @@ window.FLASHCARD_UNITS = {
       "text": "optimistic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 19
    },
    {
     "question": "In the final match, Lily played against a girl who had won the cup three times before. Although her __________ was strong, Lily stayed calm and won in the last set.",
@@ -1523,7 +1529,8 @@ window.FLASHCARD_UNITS = {
       "text": "opponent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 23
    },
    {
     "question": "The city wants to build a tall hotel right next to the old temple. The plan has met strong __________ from local people, who fear it will destroy the quiet neighborhood.",
@@ -1545,7 +1552,8 @@ window.FLASHCARD_UNITS = {
       "text": "originality"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 24
    },
    {
     "question": "The restaurant offers either rice or noodles with every meal. Most of the students __________ for the noodles because the bowl is bigger and comes with more vegetables.",
@@ -1567,7 +1575,8 @@ window.FLASHCARD_UNITS = {
       "text": "observe"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 28
    },
    {
     "question": "Even after losing his job, my uncle kept smiling and said something better would come soon. His __________ helped the whole family stay calm during those difficult months.",
@@ -1589,7 +1598,8 @@ window.FLASHCARD_UNITS = {
       "text": "opposition"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 33
    },
    {
     "question": "Everyone in the class must take the English and math exams in June. The music test, however, is __________, so students can decide for themselves whether to take it.",
@@ -1611,7 +1621,8 @@ window.FLASHCARD_UNITS = {
       "text": "optional"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 29
    },
    {
     "question": "Every autumn my family drives to a farm in Taichung to pick fruit ourselves. The __________ there has hundreds of pear trees, and we always come home with full baskets.",
@@ -1633,7 +1644,8 @@ window.FLASHCARD_UNITS = {
       "text": "overhead"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 37
    },
    {
     "question": "A single drop of pond water may look empty to your eyes. Under a microscope, however, you can see that every tiny __________ in it is swimming, eating, and growing.",
@@ -1655,7 +1667,8 @@ window.FLASHCARD_UNITS = {
       "text": "outfit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    },
    {
     "question": "Most of the paintings in the show copied famous styles, so the judges were not impressed. Only Mia's work showed real __________, and that is why she won first prize.",
@@ -1677,7 +1690,8 @@ window.FLASHCARD_UNITS = {
       "text": "observation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 44
    },
    {
     "question": "For the school dance, Jenny spent weeks choosing a dress, shoes, and a matching bag. When she finally walked in, everyone agreed that her whole __________ looked perfect.",
@@ -1699,7 +1713,8 @@ window.FLASHCARD_UNITS = {
       "text": "organ"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 49
    },
    {
     "question": "My brand-name sneakers cost half the normal price because I did not buy them in a department store. I got them at an __________ outside the city that sells last year's styles.",
@@ -1721,7 +1736,8 @@ window.FLASHCARD_UNITS = {
       "text": "opponent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 52
    },
    {
     "question": "The factory bought two new machines and hired twenty more workers this spring. As a result, its monthly __________ of bicycles has almost doubled since last year.",
@@ -1743,7 +1759,8 @@ window.FLASHCARD_UNITS = {
       "text": "origin"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 56
    },
    {
     "question": "Although Mr. Lin has lived in the village for ten years, some old families still do not trust him. To them he is still an __________ who came from the city.",
@@ -1765,7 +1782,8 @@ window.FLASHCARD_UNITS = {
       "text": "overseer"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    },
    {
     "question": "Our team lost two games this season, but we won eight and played well in all of them. The __________ result is much better than anyone expected in September.",
@@ -1787,7 +1805,8 @@ window.FLASHCARD_UNITS = {
       "text": "overall"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 64
    },
    {
     "question": "We were lying on the beach at night when a bright light suddenly moved across the sky. A plane was flying __________, and its red lights blinked among the stars.",
@@ -1809,7 +1828,8 @@ window.FLASHCARD_UNITS = {
       "text": "originally"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 67
    },
    {
     "question": "Mrs. Wang does not cook in the restaurant kitchen herself anymore. Instead, she is paid to __________ the work of ten cooks and make sure every dish is perfect.",
@@ -1831,7 +1851,8 @@ window.FLASHCARD_UNITS = {
       "text": "oversee"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "The truck in front of us was moving so slowly that we would miss the train. My father waited for a straight part of the road to __________ it safely.",
@@ -1853,7 +1874,8 @@ window.FLASHCARD_UNITS = {
       "text": "operate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "The young man was found guilty last year, but new video evidence shows he was not there. His lawyer hopes the higher court will __________ the decision next month.",
@@ -1875,7 +1897,8 @@ window.FLASHCARD_UNITS = {
       "text": "overtake"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "After the famous singer posted about the little bakery, thousands of customers arrived on the same day. The orders began to __________ the small staff, so the shop closed early.",
@@ -1897,7 +1920,8 @@ window.FLASHCARD_UNITS = {
       "text": "outfit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 82
    },
    {
     "question": "Train tracks are built as two long lines that never meet, no matter how far they go. In math class, we call lines like these __________ lines.",
@@ -1919,7 +1943,8 @@ window.FLASHCARD_UNITS = {
       "text": "overhead"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 86
    },
    {
     "question": "Scientists sat quietly in the forest for three weeks with their cameras ready. They wanted to __________ how the wild monkeys share food without being noticed by the animals.",
@@ -1941,7 +1966,8 @@ window.FLASHCARD_UNITS = {
       "text": "observe"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 5
    },
    {
     "question": "The doctor said my grandfather's heart is getting stronger every week. She is __________ that he will be able to walk home from the hospital by the end of the month.",
@@ -1963,7 +1989,8 @@ window.FLASHCARD_UNITS = {
       "text": "optional"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "The museum shows a copy of the famous painting because the real one is too valuable to move. The __________ work is kept in a locked room in Paris.",
@@ -1985,7 +2012,8 @@ window.FLASHCARD_UNITS = {
       "text": "overall"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 45
    },
    {
     "question": "These vegetables cost a little more than the ones in the supermarket. The farmer grows them without any chemicals, which is why he can call them __________.",
@@ -2007,7 +2035,8 @@ window.FLASHCARD_UNITS = {
       "text": "optional"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "When you check your essay, read it slowly and more than once. It is easy to __________ small spelling mistakes if you only look at it quickly before handing it in.",
@@ -2029,7 +2058,8 @@ window.FLASHCARD_UNITS = {
       "text": "overlook"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    }
   ]
  }

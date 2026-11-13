@@ -1466,7 +1466,8 @@ window.FLASHCARD_UNITS = {
       "text": "judicial"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Many new students from other countries join our school every year. Teachers try hard to help them __________ into the class so that they quickly make friends and feel at home.",
@@ -1488,7 +1489,8 @@ window.FLASHCARD_UNITS = {
       "text": "integrate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 3
    },
    {
     "question": "The city has people from many different cultures living side by side. Good schools and fair jobs are the keys to the __________ of newcomers into local society.",
@@ -1510,7 +1512,8 @@ window.FLASHCARD_UNITS = {
       "text": "irony"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Everyone in the office trusts Mr. Lin because he always tells the truth, even when it costs him money. People say he is a man of great __________.",
@@ -1532,7 +1535,8 @@ window.FLASHCARD_UNITS = {
       "text": "intent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "The rain was light in the morning, but it began to __________ in the afternoon. By evening, water was running down the streets like small rivers.",
@@ -1554,7 +1558,8 @@ window.FLASHCARD_UNITS = {
       "text": "justify"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 11
    },
    {
     "question": "The man walked into the bank with a toy gun, but he never asked for money. The judge decided that he had no real __________ to hurt anyone.",
@@ -1576,7 +1581,8 @@ window.FLASHCARD_UNITS = {
       "text": "interval"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 16
    },
    {
     "question": "The students were able to plan and finish their whole science project by themselves. Their teacher was very proud that they succeeded without any __________ from adults.",
@@ -1598,7 +1604,8 @@ window.FLASHCARD_UNITS = {
       "text": "journalism"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "From the outside, the little house looks old and plain. However, the __________ is bright and modern, with white walls, new furniture, and a large kitchen.",
@@ -1620,7 +1627,8 @@ window.FLASHCARD_UNITS = {
       "text": "lawsuit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 26
    },
    {
     "question": "The poem does not clearly say what the dark bird stands for. Every student in class had a different __________ of its meaning, and the teacher liked all of them.",
@@ -1642,7 +1650,8 @@ window.FLASHCARD_UNITS = {
       "text": "intervention"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 30
    },
    {
     "question": "The nurse told my grandfather to take his medicine three times a day. He should take one pill at an __________ of about eight hours, not all at once.",
@@ -1664,7 +1673,8 @@ window.FLASHCARD_UNITS = {
       "text": "intent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "The two boys were about to start a fight in the hallway. Thanks to the quick __________ of a teacher, nobody got hurt and both boys calmed down.",
@@ -1686,7 +1696,8 @@ window.FLASHCARD_UNITS = {
       "text": "intervention"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 38
    },
    {
     "question": "The fire burned down the whole warehouse in one night. An __________ from the insurance company came the next day to find out how it had started.",
@@ -1708,7 +1719,8 @@ window.FLASHCARD_UNITS = {
       "text": "interpreter"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "The fire station itself caught fire last night while all the firefighters were out helping others. Many people on the news could not help noticing the __________.",
@@ -1730,7 +1742,8 @@ window.FLASHCARD_UNITS = {
       "text": "interference"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 47
    },
    {
     "question": "Amy loves asking people questions and writing true stories about their lives. She plans to study __________ at university and then work for a big newspaper someday.",
@@ -1752,7 +1765,8 @@ window.FLASHCARD_UNITS = {
       "text": "judgment"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "After the earthquake, a __________ from a TV station traveled to the mountain village. She interviewed the families there and reported their stories to the whole country.",
@@ -1774,7 +1788,8 @@ window.FLASHCARD_UNITS = {
       "text": "journalist"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 52
    },
    {
     "question": "In many countries, the courts work separately from the government. This independent __________ system helps make sure that every person is treated fairly under the law.",
@@ -1796,7 +1811,8 @@ window.FLASHCARD_UNITS = {
       "text": "intense"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "It is very hot today, so Mom made a big __________ of cold lemon tea. She put it on the table so everyone could pour a glass whenever they wanted.",
@@ -1818,7 +1834,8 @@ window.FLASHCARD_UNITS = {
       "text": "jury"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 60
    },
    {
     "question": "Twelve ordinary people sat quietly in the courtroom and listened to every word. At the end of the trial, the __________ would decide whether the man was guilty.",
@@ -1840,7 +1857,8 @@ window.FLASHCARD_UNITS = {
       "text": "lawmaker"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "Kevin was late for the meeting again, and this time he had no good reason. He tried to __________ his lateness by blaming the traffic, but nobody believed him.",
@@ -1862,7 +1880,8 @@ window.FLASHCARD_UNITS = {
       "text": "integrate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 67
    },
    {
     "question": "The boy who broke the shop window is only fourteen years old. His case will be heard in a special __________ court, not in the court for adults.",
@@ -1884,7 +1903,8 @@ window.FLASHCARD_UNITS = {
       "text": "juvenile"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 72
    },
    {
     "question": "The rich man hired two bodyguards to protect his young daughter. He was afraid that someone might __________ her and ask for a large amount of money.",
@@ -1906,7 +1926,8 @@ window.FLASHCARD_UNITS = {
       "text": "intervene"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 76
    },
    {
     "question": "The air conditioner in my apartment stopped working last week. I called my __________ right away, and he sent someone to fix it the next morning.",
@@ -1928,7 +1949,8 @@ window.FLASHCARD_UNITS = {
       "text": "juror"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "The doctor used a __________ to remove the small dark spot on my aunt's face. The light was very bright, but the whole thing took only a few minutes.",
@@ -1950,7 +1972,8 @@ window.FLASHCARD_UNITS = {
       "text": "interval"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 83
    },
    {
     "question": "Many parents want the school day to start later. They wrote letters to every __________ in the city, hoping that a new law would be passed soon.",
@@ -1972,7 +1995,8 @@ window.FLASHCARD_UNITS = {
       "text": "interpreter"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 87
    },
    {
     "question": "The company sold toys that were not safe for small children. Several angry parents joined together and filed a __________ against it to get their money back.",
@@ -1994,7 +2018,8 @@ window.FLASHCARD_UNITS = {
       "text": "judgment"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 92
    },
    {
     "question": "The __________ heat in July made it hard to stay outside for more than ten minutes. Everyone in the city stayed indoors with the air conditioner on.",
@@ -2016,7 +2041,8 @@ window.FLASHCARD_UNITS = {
       "text": "intense"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 12
    },
    {
     "question": "My Japanese friend does not speak any Chinese, and my grandmother cannot speak Japanese at all. During dinner, I had to __________ everything they said to each other.",
@@ -2038,7 +2064,8 @@ window.FLASHCARD_UNITS = {
       "text": "justify"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 31
    },
    {
     "question": "Someone stole money from the lockers in the gym last Friday. The school has asked the police to __________ the case and find out who did it.",
@@ -2060,7 +2087,8 @@ window.FLASHCARD_UNITS = {
       "text": "investigate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 43
    },
    {
     "question": "I did not __________ to break your cup, Grandma. I was only trying to reach the sugar on the top shelf when my arm hit it.",
@@ -2082,7 +2110,8 @@ window.FLASHCARD_UNITS = {
       "text": "interfere"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "The thief who stole from the old lady was finally caught and sent to prison last week. Her family felt that __________ had been done at last.",
@@ -2104,7 +2133,8 @@ window.FLASHCARD_UNITS = {
       "text": "justice"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    }
   ]
  }

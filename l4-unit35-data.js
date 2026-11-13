@@ -1421,7 +1421,8 @@ window.FLASHCARD_UNITS = {
       "text": "retire"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The soldiers were losing the battle, and more enemy trucks were coming. Their leader ordered them to __________ to the hills and wait for help to arrive.",
@@ -1443,7 +1444,8 @@ window.FLASHCARD_UNITS = {
       "text": "retire"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "My mother has not seen her high school classmates for twenty years. Next month they will have a big __________ at a hotel, and she is very excited.",
@@ -1465,7 +1467,8 @@ window.FLASHCARD_UNITS = {
       "text": "riddle"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "The man in the movie lost his farm because of a rich businessman. He spent ten years planning his __________ and finally made the businessman lose everything.",
@@ -1487,7 +1490,8 @@ window.FLASHCARD_UNITS = {
       "text": "rhythm"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 12
    },
    {
     "question": "Your essay has some good ideas, but the second paragraph is hard to follow. Please __________ it tonight and give me the new version tomorrow morning.",
@@ -1509,7 +1513,8 @@ window.FLASHCARD_UNITS = {
       "text": "revise"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 16
    },
    {
     "question": "The first edition of the dictionary had many spelling mistakes. After a careful __________, the new edition is much better, and schools are buying it again.",
@@ -1531,7 +1536,8 @@ window.FLASHCARD_UNITS = {
       "text": "reunion"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 17
    },
    {
     "question": "Two hundred years ago, the people of the country were tired of their cruel king. They started a __________, and after many battles the king lost his power.",
@@ -1553,7 +1559,8 @@ window.FLASHCARD_UNITS = {
       "text": "robbery"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "Before the washing machine, people spent hours washing clothes by hand. This __________ invention changed daily life and gave families a lot of free time every week.",
@@ -1575,7 +1582,8 @@ window.FLASHCARD_UNITS = {
       "text": "rusty"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 21
    },
    {
     "question": "A little boy found a wallet with a lot of money inside and took it to the police. The owner gave him a __________ of two thousand dollars to thank him.",
@@ -1597,7 +1605,8 @@ window.FLASHCARD_UNITS = {
       "text": "riddle"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "Children remember words more easily when they sound alike at the end. That is why many songs for little kids are written in __________, like \"cat\" and \"hat.\"",
@@ -1619,7 +1628,8 @@ window.FLASHCARD_UNITS = {
       "text": "riddle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 30
    },
    {
     "question": "The dancers could not keep up with the music at first. Then the drummer played a slower, steady __________, and everyone moved together perfectly across the stage.",
@@ -1641,7 +1651,8 @@ window.FLASHCARD_UNITS = {
       "text": "rhythm"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 33
    },
    {
     "question": "\"What has a face and two hands but no arms or legs?\" my sister asked. I thought about her __________ for a long time before I answered, \"A clock!\"",
@@ -1663,7 +1674,8 @@ window.FLASHCARD_UNITS = {
       "text": "reward"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 37
    },
    {
     "question": "A man with a mask ran into the bank and shouted at everyone to lie down. The __________ took a bag of money, but the police caught him an hour later.",
@@ -1685,7 +1697,8 @@ window.FLASHCARD_UNITS = {
       "text": "robber"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "My grandparents met on a train fifty years ago and fell in love at first sight. Their __________ is a story that everyone in our family loves to hear.",
@@ -1707,7 +1720,8 @@ window.FLASHCARD_UNITS = {
       "text": "reunion"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 44
    },
    {
     "question": "There are two ways to drive to the beach from here. The highway is faster, but the __________ along the coast has a much better view of the sea.",
@@ -1729,7 +1743,8 @@ window.FLASHCARD_UNITS = {
       "text": "route"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 48
    },
    {
     "question": "Please do not tell me how the movie ends. I have not seen it yet, and I do not want you to __________ it for me before Saturday.",
@@ -1751,7 +1766,8 @@ window.FLASHCARD_UNITS = {
       "text": "reward"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 52
    },
    {
     "question": "My uncle moved from Taipei to a small village in the mountains. He says __________ life is quiet and simple, but he has to drive an hour to see a doctor.",
@@ -1773,7 +1789,8 @@ window.FLASHCARD_UNITS = {
       "text": "rural"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "We found an old bicycle behind the house that nobody had used for years. It was so __________ that the wheels would not turn at all.",
@@ -1795,7 +1812,8 @@ window.FLASHCARD_UNITS = {
       "text": "rural"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 60
    },
    {
     "question": "My parents worked two jobs for many years so that I could study abroad. I will never forget the __________ they made for my education and my future.",
@@ -1817,7 +1835,8 @@ window.FLASHCARD_UNITS = {
       "text": "reward"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "Scientists can see a typhoon forming far out in the ocean days before it arrives. Pictures taken by a __________ high above the earth make this possible.",
@@ -1839,7 +1858,8 @@ window.FLASHCARD_UNITS = {
       "text": "scene"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 68
    },
    {
     "question": "My grandmother spent three weeks making a sweater for me. When I put it on and it fit perfectly, she smiled with great __________ at her work.",
@@ -1861,7 +1881,8 @@ window.FLASHCARD_UNITS = {
       "text": "scarcity"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 72
    },
    {
     "question": "The old man spoke in a very low voice, and the room was full of noise. We could __________ hear a word he said, so we moved closer to him.",
@@ -1883,7 +1904,8 @@ window.FLASHCARD_UNITS = {
       "text": "satisfactorily"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 78
    },
    {
     "question": "The train ride along the east coast takes three hours. Nobody minds the long trip, because the __________ of mountains and ocean from the window is so beautiful.",
@@ -1905,7 +1927,8 @@ window.FLASHCARD_UNITS = {
       "text": "route"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 82
    },
    {
     "question": "I broke my mother's favorite cup this morning. She did not __________ me, because she could see that it was an accident and I was already sorry.",
@@ -1927,7 +1950,8 @@ window.FLASHCARD_UNITS = {
       "text": "scoop"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 86
    },
    {
     "question": "The ice cream shop near the beach sells thirty flavors. You can get one __________ for forty dollars or two for seventy, and the cone is free.",
@@ -1949,7 +1973,8 @@ window.FLASHCARD_UNITS = {
       "text": "scoop"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 89
    },
    {
     "question": "For their anniversary, Jack cooked dinner and lit candles all around the room. His wife said it was the most __________ evening they had ever had together.",
@@ -1971,7 +1996,8 @@ window.FLASHCARD_UNITS = {
       "text": "revolutionary"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 45
    },
    {
     "question": "The students worked on the science project for a whole month. Their teacher was very __________ with the result and gave the whole group full marks.",
@@ -1993,7 +2019,8 @@ window.FLASHCARD_UNITS = {
       "text": "retired"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "Two men with masks walked into the small store at midnight. They tried to __________ the clerk, but he pressed the alarm button and they ran away.",
@@ -2015,7 +2042,8 @@ window.FLASHCARD_UNITS = {
       "text": "reward"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    },
    {
     "question": "It has not rained on the island for three months. Fresh water is now __________, so every family can only use it for cooking and drinking.",
@@ -2037,7 +2065,8 @@ window.FLASHCARD_UNITS = {
       "text": "revised"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 79
    },
    {
     "question": "There was a car accident on the corner of our street this morning. The police arrived at the __________ in five minutes and helped the drivers out.",
@@ -2059,7 +2088,8 @@ window.FLASHCARD_UNITS = {
       "text": "scoop"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 83
    }
   ]
  }

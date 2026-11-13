@@ -1346,7 +1346,8 @@ window.FLASHCARD_UNITS = {
       "text": "encyclopedia"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "Building a hospital in the poor mountain area took the doctors ten years of hard work. Everyone agreed it was a noble __________ that changed thousands of lives.",
@@ -1368,7 +1369,8 @@ window.FLASHCARD_UNITS = {
       "text": "examinee"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "A rich former student gave the school a large sum of money that will be kept forever. The __________ pays for new books and free lunches every year.",
@@ -1390,7 +1392,8 @@ window.FLASHCARD_UNITS = {
       "text": "eternity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 6
    },
    {
     "question": "A marathon is not about running fast for a short time. It tests a runner's __________, since he or she must keep going for over forty kilometers without stopping.",
@@ -1412,7 +1415,8 @@ window.FLASHCARD_UNITS = {
       "text": "esteem"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 10
    },
    {
     "question": "The photos from our trip looked a little dark on the computer. My sister used an app to __________ the colors, and now the beach looks bright and beautiful.",
@@ -1434,7 +1438,8 @@ window.FLASHCARD_UNITS = {
       "text": "exempt"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 14
    },
    {
     "question": "I have read the new school rules three times, but I still do not understand them. Could you __________ me about what we are actually allowed to do at lunch?",
@@ -1456,7 +1461,8 @@ window.FLASHCARD_UNITS = {
       "text": "enlighten"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 18
    },
    {
     "question": "Traveling to other countries does more than give you nice photos. Meeting people with different customs can __________ your life and help you see your own culture in a new way.",
@@ -1478,7 +1484,8 @@ window.FLASHCARD_UNITS = {
       "text": "exceed"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 21
    },
    {
     "question": "The cooking class for beginners starts next Monday evening, and there are only five seats left. If you want to join, you should __________ before Friday afternoon.",
@@ -1500,7 +1507,8 @@ window.FLASHCARD_UNITS = {
       "text": "endure"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "In our class, the girls' team had ten players while the boys' team had only six. The teacher moved two girls over to __________ the numbers before the game started.",
@@ -1522,7 +1530,8 @@ window.FLASHCARD_UNITS = {
       "text": "escort"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 27
    },
    {
     "question": "Many parents believe that high test scores mean their children are smart. However, teachers often warn that we should not simply __________ good grades with real intelligence.",
@@ -1544,7 +1553,8 @@ window.FLASHCARD_UNITS = {
       "text": "equate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 31
    },
    {
     "question": "The movie star arrived at the theater, and hundreds of fans pushed forward to touch her. Four guards had to __________ her safely through the crowd to the front door.",
@@ -1566,7 +1576,8 @@ window.FLASHCARD_UNITS = {
       "text": "equalize"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "Dr. Wang has treated poor patients for free for thirty years. Because of this kindness, she is held in great __________ by everyone in our small town.",
@@ -1588,7 +1599,8 @@ window.FLASHCARD_UNITS = {
       "text": "enrollment"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "Waiting outside the dentist's office made me very nervous. It only took fifteen minutes, but to me it felt like an __________ before the nurse finally called my name.",
@@ -1610,7 +1622,8 @@ window.FLASHCARD_UNITS = {
       "text": "endowment"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 42
    },
    {
     "question": "Smoke began to fill the first floor of the building, and the fire alarm went off. The teachers quickly helped to __________ all the students to the playground outside.",
@@ -1632,7 +1645,8 @@ window.FLASHCARD_UNITS = {
       "text": "evacuate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 45
    },
    {
     "question": "Most trees in the park lose their leaves and look bare in winter. The pine trees, however, are __________, so they stay green all year round, even in January.",
@@ -1654,7 +1668,8 @@ window.FLASHCARD_UNITS = {
       "text": "exclusive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "Every time I smell fresh bread, I always think of my grandmother's small kitchen. A simple smell like that can __________ warm memories from many years ago.",
@@ -1676,7 +1691,8 @@ window.FLASHCARD_UNITS = {
       "text": "enroll"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    },
    {
     "question": "The listening test will begin at exactly nine o'clock. Each __________ must put away all phones and write his or her name on the answer sheet first.",
@@ -1698,7 +1714,8 @@ window.FLASHCARD_UNITS = {
       "text": "escort"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 54
    },
    {
     "question": "For the speaking test, you will sit alone in a small room with one teacher. The __________ will ask you questions about your hobbies and then give you a score.",
@@ -1720,7 +1737,8 @@ window.FLASHCARD_UNITS = {
       "text": "endeavor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "Tom is not very good at sports or music, but he reads everything he can find. Teachers say that students who __________ at history like Tom should enter the national contest.",
@@ -1742,7 +1760,8 @@ window.FLASHCARD_UNITS = {
       "text": "exert"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 59
    },
    {
     "question": "The whole novel is more than five hundred pages long, so we did not read all of it. Instead, our teacher gave us a short __________ from the most exciting chapter.",
@@ -1764,7 +1783,8 @@ window.FLASHCARD_UNITS = {
       "text": "equation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 63
    },
    {
     "question": "Doctors say a little salt is necessary for the body. However, an __________ of salt in your food can raise your blood pressure and harm your heart over time.",
@@ -1786,7 +1806,8 @@ window.FLASHCARD_UNITS = {
       "text": "esteem"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 66
    },
    {
     "question": "Only boys were allowed to join the school's robot club for many years. Parents complained about the __________ of girls, and the rule was finally changed last fall.",
@@ -1808,7 +1829,8 @@ window.FLASHCARD_UNITS = {
       "text": "exclusion"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "Students who scored above ninety on last year's test do not need to take it again. They are __________ from the exam and may go home early that day.",
@@ -1830,7 +1852,8 @@ window.FLASHCARD_UNITS = {
       "text": "enduring"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 75
    },
    {
     "question": "Grandpa just had an operation on his knee last week. The doctor told him not to __________ himself too much, so he only takes short, slow walks in the garden.",
@@ -1852,7 +1875,8 @@ window.FLASHCARD_UNITS = {
       "text": "enlighten"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 79
    },
    {
     "question": "The city spent much more on new roads this year than it had planned. Because of this huge __________, there is little money left for parks and libraries.",
@@ -1874,7 +1898,8 @@ window.FLASHCARD_UNITS = {
       "text": "expenditure"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 83
    },
    {
     "question": "The sign on the highway clearly says the speed limit is one hundred kilometers an hour. Drivers who __________ this limit will receive a heavy fine in the mail.",
@@ -1896,7 +1921,8 @@ window.FLASHCARD_UNITS = {
       "text": "exclude"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 70
    },
    {
     "question": "Playing games for an hour after homework is fine. However, sitting in front of a screen for eight hours every day is clearly __________ and bad for your eyes.",
@@ -1918,7 +1944,8 @@ window.FLASHCARD_UNITS = {
       "text": "excessive"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 69
    },
    {
     "question": "In the past, women in many countries could not vote or own land. People fought for many years so that men and women could finally enjoy __________ under the law.",
@@ -1940,7 +1967,8 @@ window.FLASHCARD_UNITS = {
       "text": "enrollment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 29
    },
    {
     "question": "This beach belongs to the hotel, and only people staying there may use it. Because it is __________, it is never crowded, even during the busy summer holidays.",
@@ -1962,7 +1990,8 @@ window.FLASHCARD_UNITS = {
       "text": "enriched"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "In the old story, the king searched everywhere for a magic drink that would stop him from growing old. He wanted __________ life, but he never found it.",
@@ -1984,7 +2013,8 @@ window.FLASHCARD_UNITS = {
       "text": "evergreen"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 43
    }
   ]
  }

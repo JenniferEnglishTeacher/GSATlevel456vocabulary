@@ -1541,7 +1541,8 @@ window.FLASHCARD_UNITS = {
       "text": "hydrogen"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The three singers have very different voices, but together they sound beautiful. Their songs are famous all over Asia for the perfect __________ of high and low notes.",
@@ -1563,7 +1564,8 @@ window.FLASHCARD_UNITS = {
       "text": "harmony"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "The winter in that northern town is long and very cold, with strong winds and heavy snow. Living in such __________ weather is hard for old people.",
@@ -1585,7 +1587,8 @@ window.FLASHCARD_UNITS = {
       "text": "humid"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 9
    },
    {
     "question": "Jenny had only five minutes before the train left. In her __________, she forgot her phone on the kitchen table and could not call anyone when she arrived.",
@@ -1607,7 +1610,8 @@ window.FLASHCARD_UNITS = {
       "text": "hive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 13
    },
    {
     "question": "The sky is getting dark, and it looks like a storm is coming. We should __________ our steps if we want to get home before the heavy rain starts.",
@@ -1629,7 +1633,8 @@ window.FLASHCARD_UNITS = {
       "text": "hesitate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 14
    },
    {
     "question": "The two families have not spoken to each other for fifty years because of an old fight over land. Such deep __________ is hard for the young people to understand.",
@@ -1651,7 +1656,8 @@ window.FLASHCARD_UNITS = {
       "text": "humanity"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 19
    },
    {
     "question": "Look at that big bird flying high above the field! It is a __________, and it is watching for a mouse or a small rabbit to catch for its dinner.",
@@ -1673,7 +1679,8 @@ window.FLASHCARD_UNITS = {
       "text": "hawk"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 23
    },
    {
     "question": "The mountain road was blocked by a landslide, so no cars or trucks could reach the village. A __________ had to fly in food and medicine for the people there.",
@@ -1695,7 +1702,8 @@ window.FLASHCARD_UNITS = {
       "text": "hurricane"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "Our bus stopped on the country road for ten minutes. A large __________ of cows was slowly crossing in front of us, and the farmer walked behind them with a stick.",
@@ -1717,7 +1725,8 @@ window.FLASHCARD_UNITS = {
       "text": "hive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 30
    },
    {
     "question": "When the teacher asked who would like to give a speech first, Mark raised his hand without any __________. He loves speaking in front of people.",
@@ -1739,7 +1748,8 @@ window.FLASHCARD_UNITS = {
       "text": "hatred"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "Thousands of bees fly in and out of the wooden box under the tree. Inside this __________, they make sweet honey that the farmer sells at the market.",
@@ -1761,7 +1771,8 @@ window.FLASHCARD_UNITS = {
       "text": "hose"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 39
    },
    {
     "question": "Mr. Lin left Vietnam forty years ago and now lives in Taipei. He still misses his __________ and goes back to visit his old friends every two or three years.",
@@ -1783,7 +1794,8 @@ window.FLASHCARD_UNITS = {
       "text": "honeymoon"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "Tim and Amy got married last Saturday. The next day they flew to Bali for their __________, and they will stay at a beautiful beach hotel for two weeks.",
@@ -1805,7 +1817,8 @@ window.FLASHCARD_UNITS = {
       "text": "honeymoon"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 47
    },
    {
     "question": "Your coat is lying on the floor, and it is getting dirty. Please hang it on the __________ behind the door, where everyone else keeps their jackets and bags.",
@@ -1827,7 +1840,8 @@ window.FLASHCARD_UNITS = {
       "text": "hawk"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "We sat quietly on the beach as the evening came. The sun slowly went down below the __________, and the sky changed from gold to deep purple.",
@@ -1849,7 +1863,8 @@ window.FLASHCARD_UNITS = {
       "text": "hurricane"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 56
    },
    {
     "question": "The pictures of the burning forest and the dead animals will __________ many people. However, the TV station believes everyone needs to see how serious the problem is.",
@@ -1871,7 +1886,8 @@ window.FLASHCARD_UNITS = {
       "text": "hesitate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 60
    },
    {
     "question": "The plants in the garden are dry because it has not rained for two weeks. Please connect the __________ to the tap and water them before the sun gets too hot.",
@@ -1893,7 +1909,8 @@ window.FLASHCARD_UNITS = {
       "text": "hose"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "My grandparents, my parents, my two sisters, and I all live together in one big house. With eight people in the __________, dinner time is always noisy and fun.",
@@ -1915,7 +1932,8 @@ window.FLASHCARD_UNITS = {
       "text": "humanity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 69
    },
    {
     "question": "Both of my parents work until seven every evening. On Sundays, the whole family shares the __________: Dad cleans the floor, Mom cooks, and I wash all the clothes.",
@@ -1937,7 +1955,8 @@ window.FLASHCARD_UNITS = {
       "text": "hesitation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 73
    },
    {
     "question": "Dr. Chen spent thirty years treating poor patients in Africa for free. People around the world praised his great love for __________ and gave him a peace prize.",
@@ -1959,7 +1978,8 @@ window.FLASHCARD_UNITS = {
       "text": "hydrogen"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 77
    },
    {
     "question": "In Taiwan, the air is very wet in summer, and clothes take days to dry. Because of the high __________, many families use a special machine to keep their rooms dry.",
@@ -1981,7 +2001,8 @@ window.FLASHCARD_UNITS = {
       "text": "hesitation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 82
    },
    {
     "question": "A very strong storm with winds over 200 kilometers an hour hit the coast of Florida last night. The __________ destroyed hundreds of houses and knocked down many trees.",
@@ -2003,7 +2024,8 @@ window.FLASHCARD_UNITS = {
       "text": "helicopter"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 86
    },
    {
     "question": "The theater was full of noisy students before the play began. Then the lights went off, and a sudden __________ fell over the whole room as the curtain opened.",
@@ -2025,7 +2047,8 @@ window.FLASHCARD_UNITS = {
       "text": "hush"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 89
    },
    {
     "question": "Water is made of two different gases. One of them is oxygen, which we breathe, and the other is __________, the lightest gas in the whole universe.",
@@ -2047,7 +2070,8 @@ window.FLASHCARD_UNITS = {
       "text": "humidity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 93
    },
    {
     "question": "The two shirts look exactly the same in color, size, and style. In fact, they are __________ except for the small price tags, which show that one costs twice as much.",
@@ -2069,7 +2093,8 @@ window.FLASHCARD_UNITS = {
       "text": "identical"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 96
    },
    {
     "question": "If you do not understand something in my class, you are always welcome to ask. Please do not __________ to raise your hand, even if the question seems silly.",
@@ -2091,7 +2116,8 @@ window.FLASHCARD_UNITS = {
       "text": "horrify"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "Taipei in July is hot and __________. My shirt gets wet with sweat after I walk only ten minutes, and the air feels heavy and sticky all day.",
@@ -2113,7 +2139,8 @@ window.FLASHCARD_UNITS = {
       "text": "homesick"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 83
    },
    {
     "question": "The food at that new restaurant was __________. The soup was cold, the rice was hard, and the chicken smelled so bad that we could not eat it.",
@@ -2135,7 +2162,8 @@ window.FLASHCARD_UNITS = {
       "text": "identical"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "Peter bought the first house he saw without checking the roof or the pipes. His friends warned him that such a __________ decision could cost him a lot of money later.",
@@ -2157,7 +2185,8 @@ window.FLASHCARD_UNITS = {
       "text": "hasty"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 16
    },
    {
     "question": "This is Lisa's first month studying in Canada, far away from her family in Tainan. She feels __________ every night and often looks at old photos of her mother's cooking.",
@@ -2179,7 +2208,8 @@ window.FLASHCARD_UNITS = {
       "text": "horrified"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 44
    }
   ]
  }

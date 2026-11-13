@@ -1256,7 +1256,8 @@ window.FLASHCARD_UNITS = {
       "text": "threshold"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "I had never been on a roller coaster before last Saturday. The ride was so fast that I still remember the __________ of racing down the first big hill.",
@@ -1278,7 +1279,8 @@ window.FLASHCARD_UNITS = {
       "text": "toll"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "My brother only likes books about detectives and dangerous killers. He read the whole __________ in one night because he had to find out who did it.",
@@ -1300,7 +1302,8 @@ window.FLASHCARD_UNITS = {
       "text": "tournament"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "Hundreds of new families have moved into the area in the past two years. Because of all these new customers, the small shops along the street now __________ .",
@@ -1322,7 +1325,8 @@ window.FLASHCARD_UNITS = {
       "text": "betray"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "The old king died last month after ruling the country for forty years. His oldest daughter will now sit on the __________ and become the first queen in a century.",
@@ -1344,7 +1348,8 @@ window.FLASHCARD_UNITS = {
       "text": "trait"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 12
    },
    {
     "question": "A rocket is very heavy, and it needs a huge amount of power to leave the ground. Its engines must produce enough __________ to push it up into the sky.",
@@ -1366,7 +1371,8 @@ window.FLASHCARD_UNITS = {
       "text": "tin"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "Please read each sentence on the form carefully before you answer. If you agree with a sentence, put a __________ in the small box next to it.",
@@ -1388,7 +1394,8 @@ window.FLASHCARD_UNITS = {
       "text": "trait"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "Grandpa is making the bathroom floor look new again. He is covering it with small blue and white pieces, and each __________ must be placed very carefully.",
@@ -1410,7 +1417,8 @@ window.FLASHCARD_UNITS = {
       "text": "tin"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "Thousands of years ago, people did not have iron tools yet. They mixed copper with __________ to make bronze, which was strong enough for knives and swords.",
@@ -1432,7 +1440,8 @@ window.FLASHCARD_UNITS = {
       "text": "tin"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 26
    },
    {
     "question": "It costs forty dollars to drive across the new bridge, but the old road is free. Many drivers still take the old road because they do not want to pay the __________ .",
@@ -1454,7 +1463,8 @@ window.FLASHCARD_UNITS = {
       "text": "tick"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 29
    },
    {
     "question": "The electricity went out during the storm, and the whole house was dark. Luckily, Dad found a __________ in the kitchen drawer so that we could see.",
@@ -1476,7 +1486,8 @@ window.FLASHCARD_UNITS = {
       "text": "torch"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 34
    },
    {
     "question": "The older boys hid Jimmy's shoes and laughed at him every day after school. For a whole year, going to school was a daily __________ for the poor boy.",
@@ -1498,7 +1509,8 @@ window.FLASHCARD_UNITS = {
       "text": "tournament"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "Sixteen teams from all over Asia will come to Taipei next month to play basketball. The winner of each game goes on to the next round of the __________ .",
@@ -1520,7 +1532,8 @@ window.FLASHCARD_UNITS = {
       "text": "threshold"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    },
    {
     "question": "Do not burn plastic bags or old batteries in your backyard. The smoke they produce is __________ , and breathing it can make people and animals very sick.",
@@ -1542,7 +1555,8 @@ window.FLASHCARD_UNITS = {
       "text": "transparent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 43
    },
    {
     "question": "My grandfather never gives up, even when a job is very difficult. I hope I have the same __________ , because it has helped him succeed in his life.",
@@ -1564,7 +1578,8 @@ window.FLASHCARD_UNITS = {
       "text": "trait"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 47
    },
    {
     "question": "During the war, the officer secretly gave his country's plans to the enemy. When the truth came out, everyone in the army called him a __________ .",
@@ -1586,7 +1601,8 @@ window.FLASHCARD_UNITS = {
       "text": "thriller"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 50
    },
    {
     "question": "I bought a new phone with my credit card yesterday afternoon. When I checked my bank app last night, the __________ was already there with the shop's name.",
@@ -1608,7 +1624,8 @@ window.FLASHCARD_UNITS = {
       "text": "transit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "Ten years ago, this part of the city was full of empty factories and broken windows. Today it has parks, cafes, and new apartments. What a __________ !",
@@ -1630,7 +1647,8 @@ window.FLASHCARD_UNITS = {
       "text": "transformation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "Our plane stopped in Hong Kong for three hours before flying on to London. Passengers in __________ did not need a visa, but we had to stay inside the airport.",
@@ -1652,7 +1670,8 @@ window.FLASHCARD_UNITS = {
       "text": "tribute"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 60
    },
    {
     "question": "Moving from a small village to a big city was not easy for my family. The __________ took almost a year, but now we all enjoy living here.",
@@ -1674,7 +1693,8 @@ window.FLASHCARD_UNITS = {
       "text": "throne"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 63
    },
    {
     "question": "Doctors say that washing your hands often is the best way to stay healthy during flu season. It helps to stop the __________ of the virus from one person to another.",
@@ -1696,7 +1716,8 @@ window.FLASHCARD_UNITS = {
       "text": "torment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 66
    },
    {
     "question": "The new office building has walls made entirely of glass. They are so __________ that people walking by on the street can see the workers at their desks.",
@@ -1718,7 +1739,8 @@ window.FLASHCARD_UNITS = {
       "text": "transparent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "The big fire destroyed the family's home and everything in it. The children still have bad dreams about that night, and doctors say it may take years to recover from the __________ .",
@@ -1740,7 +1762,8 @@ window.FLASHCARD_UNITS = {
       "text": "threshold"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 73
    },
    {
     "question": "The two countries fought for five long years. Finally, their leaders met in Paris and signed a __________ that ended the war and opened the borders again.",
@@ -1762,7 +1785,8 @@ window.FLASHCARD_UNITS = {
       "text": "torch"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 76
    },
    {
     "question": "The famous singer died last spring after fifty years of making music. Last night, dozens of artists sang her best songs on stage as a __________ to her life and work.",
@@ -1784,7 +1808,8 @@ window.FLASHCARD_UNITS = {
       "text": "tile"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "The old train station was dark and dirty, and nobody liked to wait there. The city plans to __________ it into a bright shopping center with restaurants and a cinema.",
@@ -1806,7 +1831,8 @@ window.FLASHCARD_UNITS = {
       "text": "transform"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 58
    },
    {
     "question": "The new radio tower on the hill is very powerful. It can __________ music and news to every village in the valley, even those that are far away.",
@@ -1828,7 +1854,8 @@ window.FLASHCARD_UNITS = {
       "text": "tile"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 67
    },
    {
     "question": "I told Amy my biggest secret because she promised not to tell anyone. The next day, the whole class knew. I cannot believe she would __________ me like that.",
@@ -1850,7 +1877,8 @@ window.FLASHCARD_UNITS = {
       "text": "tick"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "The last five minutes of the game were so __________ that nobody in the stadium sat down. Our team scored the winning goal with only two seconds left.",
@@ -1872,7 +1900,8 @@ window.FLASHCARD_UNITS = {
       "text": "toxic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "The charity publishes a report every year showing exactly how it spends its money. Donors trust it because of this __________ , and they keep giving generously.",
@@ -1894,7 +1923,8 @@ window.FLASHCARD_UNITS = {
       "text": "torment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    }
   ]
  }

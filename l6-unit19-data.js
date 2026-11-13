@@ -1481,7 +1481,8 @@ window.FLASHCARD_UNITS = {
       "text": "inhabitant"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The workers were paid less than half of what they were promised. They felt this was a great __________, so they went to the newspaper to tell their story.",
@@ -1503,7 +1504,8 @@ window.FLASHCARD_UNITS = {
       "text": "intersection"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "Our city is far away from the sea, so it never has beach weather. In __________ areas like ours, summers are much hotter and drier than along the coast.",
@@ -1525,7 +1527,8 @@ window.FLASHCARD_UNITS = {
       "text": "numerous"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "Nobody could count all the fish in the sea or all the leaves in the forest. In the same way, there are __________ stars in the sky on a clear night.",
@@ -1547,7 +1550,8 @@ window.FLASHCARD_UNITS = {
       "text": "invaluable"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "I am not sure whether the museum is open on Monday. Let me call the front desk and __________ about the opening hours before we drive all the way there.",
@@ -1569,7 +1573,8 @@ window.FLASHCARD_UNITS = {
       "text": "intervene"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 16
    },
    {
     "question": "My aunt kept saying we had to try her new cake before leaving. At her __________, we each ate a big piece even though we had just finished dinner.",
@@ -1591,7 +1596,8 @@ window.FLASHCARD_UNITS = {
       "text": "insistence"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 20
    },
    {
     "question": "Nobody taught the baby bird how to build a nest. The skill is __________; it is born knowing exactly what to do without ever watching another bird.",
@@ -1613,7 +1619,8 @@ window.FLASHCARD_UNITS = {
       "text": "intrusive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "The doctor says my grandfather eats too much salty food. He must lower his daily salt __________ to about five grams, or his blood pressure will keep rising.",
@@ -1635,7 +1642,8 @@ window.FLASHCARD_UNITS = {
       "text": "intersection"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 28
    },
    {
     "question": "Grandma is eighty years old, but she still finishes a hard crossword puzzle every morning. Her sharp __________ surprises everyone, including the young doctors at the hospital.",
@@ -1657,7 +1665,8 @@ window.FLASHCARD_UNITS = {
       "text": "intrusion"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "The two leaders do not speak the same language. An __________ sat between them at the meeting and turned every sentence into the other person's language right away.",
@@ -1679,7 +1688,8 @@ window.FLASHCARD_UNITS = {
       "text": "islander"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "The accident happened where Main Street crosses Park Road. The city has now put a traffic light at that busy __________ so that cars have to stop before crossing.",
@@ -1701,7 +1711,8 @@ window.FLASHCARD_UNITS = {
       "text": "intonation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    },
    {
     "question": "Two customers began shouting at each other in the restaurant. The manager had to __________ quickly and calm them down before the argument turned into a real fight.",
@@ -1723,7 +1734,8 @@ window.FLASHCARD_UNITS = {
       "text": "intervene"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 45
    },
    {
     "question": "The old couple still hold hands when they walk in the park after fifty years together. The __________ between them is clear to anyone who sees them.",
@@ -1745,7 +1757,8 @@ window.FLASHCARD_UNITS = {
       "text": "irritation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 49
    },
    {
     "question": "The big boy stood very close to the little kid and spoke in a loud, angry voice. He was trying to __________ him into handing over his new phone.",
@@ -1767,7 +1780,8 @@ window.FLASHCARD_UNITS = {
       "text": "intrigue"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 53
    },
    {
     "question": "In English, your voice usually goes up at the end of a yes-no question. If you use the wrong __________, people may think you are making a statement instead.",
@@ -1789,7 +1803,8 @@ window.FLASHCARD_UNITS = {
       "text": "intonation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "The locked door in the old house had no key anywhere. The mystery began to __________ the children, and they happily spent every afternoon trying to find out what was inside.",
@@ -1811,7 +1826,8 @@ window.FLASHCARD_UNITS = {
       "text": "intimidate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 61
    },
    {
     "question": "I know you are busy with your guests right now. I am sorry to __________, but your car is blocking the gate and the neighbor needs to leave.",
@@ -1833,7 +1849,8 @@ window.FLASHCARD_UNITS = {
       "text": "intersect"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 65
    },
    {
     "question": "The alarm went off at two in the morning, and the police arrived within minutes. They caught the __________ hiding behind the garage with a bag of stolen jewelry.",
@@ -1855,7 +1872,8 @@ window.FLASHCARD_UNITS = {
       "text": "inhabitant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 66
    },
    {
     "question": "Mr. Wang has worked at the factory for thirty years and knows every machine. His experience was __________ when the new workers could not fix the broken line.",
@@ -1877,7 +1895,8 @@ window.FLASHCARD_UNITS = {
       "text": "invaluable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "You can set your watch by Mr. Chen. He __________ arrives at the office at eight o'clock sharp, and nobody can remember a day when he was late.",
@@ -1899,7 +1918,8 @@ window.FLASHCARD_UNITS = {
       "text": "ironically"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "The store manager counts every item on the shelves at the end of each month. The __________ shows which products sold well and which ones need to be ordered.",
@@ -1921,7 +1941,8 @@ window.FLASHCARD_UNITS = {
       "text": "irony"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 80
    },
    {
     "question": "The doctor always tells his patients to exercise and eat vegetables. It is __________ that he himself eats fast food every day and has not exercised in years.",
@@ -1943,7 +1964,8 @@ window.FLASHCARD_UNITS = {
       "text": "ironic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 85
    },
    {
     "question": "Dad has not slept well for three nights because of the baby. He is very __________ this morning, so do not ask him for money until he has had his coffee.",
@@ -1965,7 +1987,8 @@ window.FLASHCARD_UNITS = {
       "text": "intimate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 88
    },
    {
     "question": "My little sister keeps clicking her pen while I am studying for the test. The small noise really begins to __________ me after an hour, and I cannot concentrate.",
@@ -1987,7 +2010,8 @@ window.FLASHCARD_UNITS = {
       "text": "intrigue"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 89
    },
    {
     "question": "In the old poem, the sailor dreams of a green __________ with white sand and tall palm trees. It is a tiny place in the middle of the warm sea.",
@@ -2009,7 +2033,8 @@ window.FLASHCARD_UNITS = {
       "text": "intersection"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 93
    },
    {
     "question": "Crows can use sticks as tools and remember human faces for years. Some scientists say their __________ is almost equal to that of a seven-year-old child.",
@@ -2031,7 +2056,8 @@ window.FLASHCARD_UNITS = {
       "text": "intimacy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "Our grandmother speaks only Hakka, and the new doctor does not understand it. Could you __________ for her during the visit so she knows what medicine to take?",
@@ -2053,7 +2079,8 @@ window.FLASHCARD_UNITS = {
       "text": "insist"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "The two countries were about to go to war over the small island. Only the quick __________ of the United Nations stopped the fighting before it began.",
@@ -2075,7 +2102,8 @@ window.FLASHCARD_UNITS = {
       "text": "intrusion"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "Please lock the door of the hotel room when you go out to the beach. Thieves often look for __________ things like cameras, watches, and laptops left in rooms.",
@@ -2097,7 +2125,8 @@ window.FLASHCARD_UNITS = {
       "text": "valuable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "The man who wrote a famous book about saving money lost all of his own money in one year. The __________ of the story made it very popular on the internet.",
@@ -2119,7 +2148,8 @@ window.FLASHCARD_UNITS = {
       "text": "intrusion"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 86
    }
   ]
  }

@@ -1226,7 +1226,8 @@ window.FLASHCARD_UNITS = {
       "text": "elegant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The sound comes from only one side now. My left __________ stopped working on the train this morning, so I could only hear the music in one ear.",
@@ -1248,7 +1249,8 @@ window.FLASHCARD_UNITS = {
       "text": "element"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "The news says fewer people have jobs this year and prices keep going up. Many families are worried about these __________ problems and are spending less money.",
@@ -1270,7 +1272,8 @@ window.FLASHCARD_UNITS = {
       "text": "economic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 6
    },
    {
     "question": "This small car uses very little gas and is cheap to repair. It is a much more __________ choice for a student than the big sports car.",
@@ -1292,7 +1295,8 @@ window.FLASHCARD_UNITS = {
       "text": "electronic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 7
    },
    {
     "question": "Lisa wants to understand why prices rise and how countries become rich. She plans to study __________ at a university after she finishes high school next year.",
@@ -1314,7 +1318,8 @@ window.FLASHCARD_UNITS = {
       "text": "economics"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "Dr. Wang studies how money moves around the world and writes reports about it. As a famous __________, he is often invited to talk about prices on TV.",
@@ -1336,7 +1341,8 @@ window.FLASHCARD_UNITS = {
       "text": "engineer"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "More tourists visited Taiwan this year, and factories sold many products abroad. Because of this, the country's __________ grew much faster than most experts had expected last spring.",
@@ -1358,7 +1364,8 @@ window.FLASHCARD_UNITS = {
       "text": "embassy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 10
    },
    {
     "question": "The new machine can pack two hundred boxes an hour, while the old one did only fifty. The factory manager is very pleased with its __________ and plans to buy another one.",
@@ -1380,7 +1387,8 @@ window.FLASHCARD_UNITS = {
       "text": "emergence"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 13
    },
    {
     "question": "These sports pants are made of a special material. They stretch when you bend your knees and then return to their shape, because the cloth is very __________.",
@@ -1402,7 +1410,8 @@ window.FLASHCARD_UNITS = {
       "text": "elastic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 17
    },
    {
     "question": "Jason loves taking apart old radios and phones to see how they work inside. He wants to study __________ at a technical school and learn how the small parts inside these devices work.",
@@ -1424,7 +1433,8 @@ window.FLASHCARD_UNITS = {
       "text": "enforcement"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 21
    },
    {
     "question": "Grandma wore a long silk dress and pearl earrings to my sister's wedding. Everyone said she looked very __________, like a queen from a beautiful old movie.",
@@ -1446,7 +1456,8 @@ window.FLASHCARD_UNITS = {
       "text": "economical"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 26
    },
    {
     "question": "My little brother is only seven years old and has just started reading. He goes to an __________ school near our home and comes back at four every day.",
@@ -1468,7 +1479,8 @@ window.FLASHCARD_UNITS = {
       "text": "elementary"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 29
    },
    {
     "question": "There are too many mistakes in your essay, such as wrong spelling and missing words. Please read it again carefully and __________ all the errors before you hand it in.",
@@ -1490,7 +1502,8 @@ window.FLASHCARD_UNITS = {
       "text": "endanger"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 32
    },
    {
     "question": "This bookstore does not have the novel I want, and the clerk says it is sold out. I guess I will have to look __________, maybe at the big store downtown.",
@@ -1512,7 +1525,8 @@ window.FLASHCARD_UNITS = {
       "text": "elegantly"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "Mom, please don't show my friends the video of me singing in the bathtub when I was three. It will really __________ me in front of everyone.",
@@ -1534,7 +1548,8 @@ window.FLASHCARD_UNITS = {
       "text": "endanger"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 38
    },
    {
     "question": "Kevin is going to study in France for a year and needs a student visa. He has to bring his passport and photos to the French __________ next Monday.",
@@ -1556,7 +1571,8 @@ window.FLASHCARD_UNITS = {
       "text": "enclosure"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "It rained hard all morning, and the sky was dark and gray. Around noon, the sun finally began to __________ from behind the clouds, and the children ran outside to play.",
@@ -1578,7 +1594,8 @@ window.FLASHCARD_UNITS = {
       "text": "enclose"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "Our English teacher believes that speaking is more important than grammar rules. She puts great __________ on conversation, so we talk in pairs for half of every class.",
@@ -1600,7 +1617,8 @@ window.FLASHCARD_UNITS = {
       "text": "emphasis"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    },
    {
     "question": "Two thousand years ago, Rome ruled many lands around the Mediterranean Sea. This great __________ had one leader, one army, and roads that connected all its cities.",
@@ -1622,7 +1640,8 @@ window.FLASHCARD_UNITS = {
       "text": "embassy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 52
    },
    {
     "question": "I am sending you the application form for the summer camp today. Please fill it out, __________ a recent photo of yourself, and mail everything back before May 10.",
@@ -1644,7 +1663,8 @@ window.FLASHCARD_UNITS = {
       "text": "eliminate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 56
    },
    {
     "question": "Be careful if you hike alone in the mountains at dawn. You may __________ wild animals such as monkeys or snakes, so stay on the main trail and make some noise.",
@@ -1666,7 +1686,8 @@ window.FLASHCARD_UNITS = {
       "text": "encounter"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 60
    },
    {
     "question": "Many drivers look at their phones while they are driving. This bad habit can __________ the lives of other people on the road, not just their own.",
@@ -1688,7 +1709,8 @@ window.FLASHCARD_UNITS = {
       "text": "emerge"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "The soldiers walked for three days through snow and freezing wind without much food. They had to __________ great pain, but nobody gave up or turned back.",
@@ -1710,7 +1732,8 @@ window.FLASHCARD_UNITS = {
       "text": "enclose"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 68
    },
    {
     "question": "The school has a new rule that students cannot use phones in class. Teachers will __________ it strictly, and anyone who breaks it will lose the phone for a week.",
@@ -1732,7 +1755,8 @@ window.FLASHCARD_UNITS = {
       "text": "encounter"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "Peter has always enjoyed building model bridges and fixing broken machines at home. It is no surprise that he chose to study __________ at a university this fall.",
@@ -1754,7 +1778,8 @@ window.FLASHCARD_UNITS = {
       "text": "economics"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 76
    },
    {
     "question": "Taking the MRT is faster than driving during rush hour, and you never have to look for parking. It is the most __________ way to get to work in Taipei.",
@@ -1776,7 +1801,8 @@ window.FLASHCARD_UNITS = {
       "text": "embarrassing"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 14
    },
    {
     "question": "I waved and shouted hello to a man I thought was my uncle at the station. When he turned around, it was a stranger, and I felt very __________.",
@@ -1798,7 +1824,8 @@ window.FLASHCARD_UNITS = {
       "text": "embarrassed"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "Grandpa suddenly fell down in the kitchen and could not stand up. In an __________ like this, call 119 right away and stay calm until the ambulance arrives.",
@@ -1820,7 +1847,8 @@ window.FLASHCARD_UNITS = {
       "text": "economy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "The new bridge across the river is 2 kilometers long and took five years to build. The __________ who designed it studied for many years to make it strong and safe.",
@@ -1842,7 +1870,8 @@ window.FLASHCARD_UNITS = {
       "text": "economist"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 77
    },
    {
     "question": "Only about 500 Formosan black bears are left in the mountains of our island. They are an __________ animal, so hunting them is strictly against the law in Taiwan.",
@@ -1864,7 +1893,8 @@ window.FLASHCARD_UNITS = {
       "text": "elementary"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    }
   ]
  }

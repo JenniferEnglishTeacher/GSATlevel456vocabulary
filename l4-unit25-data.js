@@ -1181,7 +1181,8 @@ window.FLASHCARD_UNITS = {
       "text": "loyalty"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "If you want to save money for a trip, eating out every day does not make sense. The __________ thing to do is to cook at home more often.",
@@ -1203,7 +1204,8 @@ window.FLASHCARD_UNITS = {
       "text": "logical"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 1
    },
    {
     "question": "The screw on the chair is so tight that I cannot turn it with my fingers. Could you __________ it a little with this tool so I can take the leg off?",
@@ -1225,7 +1227,8 @@ window.FLASHCARD_UNITS = {
       "text": "measure"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "I would not go to that restaurant again if I were you. The service was __________, the soup was cold, and we waited almost an hour for our noodles.",
@@ -1247,7 +1250,8 @@ window.FLASHCARD_UNITS = {
       "text": "magnetic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "Even when the team lost ten games in a row, Peter never stopped going to the stadium. He is the most __________ fan I have ever met.",
@@ -1269,7 +1273,8 @@ window.FLASHCARD_UNITS = {
       "text": "loyal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 11
    },
    {
     "question": "The old dog waited at the train station for his owner every day for years, even after the man died. People were deeply moved by his __________.",
@@ -1291,7 +1296,8 @@ window.FLASHCARD_UNITS = {
       "text": "margin"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "The new cruise ship has a theater, three swimming pools, and rooms with private balconies. It is the most __________ ship that has ever sailed from Keelung.",
@@ -1313,7 +1319,8 @@ window.FLASHCARD_UNITS = {
       "text": "manual"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "When my parents were children, they ate meat only on special days. For their family, a chicken dinner was a real __________, not an everyday meal.",
@@ -1335,7 +1342,8 @@ window.FLASHCARD_UNITS = {
       "text": "memorial"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 16
    },
    {
     "question": "The factory was very noisy because hundreds of machines were running at the same time. Workers must wear ear protection when the __________ is turned on.",
@@ -1357,7 +1365,8 @@ window.FLASHCARD_UNITS = {
       "text": "machinery"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 19
    },
    {
     "question": "The small black strip on the back of the card holds all your bank information. Do not put the card near a __________ object, or the data may be destroyed.",
@@ -1379,7 +1388,8 @@ window.FLASHCARD_UNITS = {
       "text": "measurable"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 23
    },
    {
     "question": "We climbed for six hours to reach the top of Jade Mountain before sunrise. The __________ view of the sea of clouds made all our tiredness disappear.",
@@ -1401,7 +1411,8 @@ window.FLASHCARD_UNITS = {
       "text": "magnificent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 27
    },
    {
     "question": "Lily is only fourteen, so her mother does not allow her to wear __________ to school. She can only use it when she performs in the school play.",
@@ -1423,7 +1434,8 @@ window.FLASHCARD_UNITS = {
       "text": "margin"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 30
    },
    {
     "question": "I could not figure out how to set the clock on the new oven. In the end, I found the answer on page twelve of the __________ that came in the box.",
@@ -1445,7 +1457,8 @@ window.FLASHCARD_UNITS = {
       "text": "magnet"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "This small company started with only five workers in a garage. Today it has a huge factory and is able to __________ ten thousand bicycles every month.",
@@ -1467,7 +1480,8 @@ window.FLASHCARD_UNITS = {
       "text": "manufacture"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "My laptop stopped working only two months after I bought it. The shop told me to contact the __________ directly, since the company promises free repairs for one year.",
@@ -1489,7 +1503,8 @@ window.FLASHCARD_UNITS = {
       "text": "magnet"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "Uncle Ben runs ten kilometers every morning before work. Next month he will take part in a __________ for the first time and try to finish all forty-two kilometers.",
@@ -1511,7 +1526,8 @@ window.FLASHCARD_UNITS = {
       "text": "measurement"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "The two candidates received almost the same number of votes in the election. In the end, Mr. Chen won by a very small __________ of only fifty votes.",
@@ -1533,7 +1549,8 @@ window.FLASHCARD_UNITS = {
       "text": "mechanism"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 48
    },
    {
     "question": "When the two boys started fighting, Kevin did not join in or run away. Instead, he calmly separated them and showed a __________ far beyond his twelve years.",
@@ -1555,7 +1572,8 @@ window.FLASHCARD_UNITS = {
       "text": "luxury"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "This elevator is small and old, so it cannot carry too many people at once. The __________ weight it can hold is 600 kilograms, or about eight adults.",
@@ -1577,7 +1595,8 @@ window.FLASHCARD_UNITS = {
       "text": "marginal"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 57
    },
    {
     "question": "After the new reading program started, teachers wanted to know whether it was really working. By June, there was a __________ improvement in the students' test scores.",
@@ -1599,7 +1618,8 @@ window.FLASHCARD_UNITS = {
       "text": "luxurious"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 61
    },
    {
     "question": "Because of the heavy rain, the river might rise over its banks tonight. As a safety __________, the city has asked people living nearby to move to the school gym.",
@@ -1621,7 +1641,8 @@ window.FLASHCARD_UNITS = {
       "text": "manual"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 62
    },
    {
     "question": "On the way to Hualien, our car suddenly made a strange noise and stopped. Luckily, a __________ from a nearby garage came and fixed the engine in an hour.",
@@ -1643,7 +1664,8 @@ window.FLASHCARD_UNITS = {
       "text": "mechanic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "The flight to Tokyo was delayed for three hours this morning. The airline said that a __________ problem with one of the engines had to be repaired before takeoff.",
@@ -1665,7 +1687,8 @@ window.FLASHCARD_UNITS = {
       "text": "manual"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 67
    },
    {
     "question": "For our last day of senior high school, the teachers prepared a surprise party with music and old photos. It was a truly __________ evening that none of us will forget.",
@@ -1687,7 +1710,8 @@ window.FLASHCARD_UNITS = {
       "text": "marginal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 71
    },
    {
     "question": "Every year on this day, people gather at the stone __________ in the park. They bring flowers to remember the workers who died building the railway a century ago.",
@@ -1709,7 +1733,8 @@ window.FLASHCARD_UNITS = {
       "text": "mechanism"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 72
    },
    {
     "question": "Jason lost a lot of weight after he started running every day. Now all his old jeans are so __________ that he needs a belt to keep them up.",
@@ -1731,7 +1756,8 @@ window.FLASHCARD_UNITS = {
       "text": "lousy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 5
    },
    {
     "question": "Although Amy is the youngest in our group, she always stays calm and thinks before she speaks. Everyone agrees that she is more __________ than most adults.",
@@ -1753,7 +1779,8 @@ window.FLASHCARD_UNITS = {
       "text": "magnetic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "Grandpa is eighty-five, but he can still tell you the name of every classmate from elementary school. His __________ for names and faces is much better than mine, and I am only sixteen!",
@@ -1775,7 +1802,8 @@ window.FLASHCARD_UNITS = {
       "text": "maturity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "My little cousin loves playing with the small toy that sticks to the refrigerator door. He does not understand why the __________ holds on to metal but not to wood.",
@@ -1797,7 +1825,8 @@ window.FLASHCARD_UNITS = {
       "text": "magnet"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 24
    },
    {
     "question": "Detectives do not guess who the thief is; they look at every piece of evidence carefully. Then they think __________ about what must have happened step by step.",
@@ -1819,7 +1848,8 @@ window.FLASHCARD_UNITS = {
       "text": "loosely"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 2
    }
   ]
  }

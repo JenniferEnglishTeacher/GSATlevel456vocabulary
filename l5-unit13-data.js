@@ -1271,7 +1271,8 @@ window.FLASHCARD_UNITS = {
       "text": "embrace"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Many people use the words \"weather\" and \"climate\" as if they mean the same thing. However, scientists make a clear __________ between the two in their reports.",
@@ -1293,7 +1294,8 @@ window.FLASHCARD_UNITS = {
       "text": "distraction"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "You can tell this bakery's bread from any other in town with your eyes closed. It has a __________ smell of butter and honey that fills the whole street.",
@@ -1315,7 +1317,8 @@ window.FLASHCARD_UNITS = {
       "text": "domestic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "Please put your phone away during our family dinner tonight. The messages keep making noise, and they __________ everyone at the table from the conversation with Grandma.",
@@ -1337,7 +1340,8 @@ window.FLASHCARD_UNITS = {
       "text": "dissolve"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 10
    },
    {
     "question": "Members of the group believe that all people should share what they own equally. This __________ guides every decision they make about money, work, and family life.",
@@ -1359,7 +1363,8 @@ window.FLASHCARD_UNITS = {
       "text": "doorway"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 14
    },
    {
     "question": "Before you can open a bank account, you must show who you are. Bring an official __________ with your photo on it, such as your ID card or passport.",
@@ -1381,7 +1386,8 @@ window.FLASHCARD_UNITS = {
       "text": "document"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 17
    },
    {
     "question": "Last night we watched a ninety-minute film about real lions in Africa. The __________ followed one family of lions for a whole year and showed how they hunt.",
@@ -1403,7 +1409,8 @@ window.FLASHCARD_UNITS = {
       "text": "ecosystem"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "Twenty years ago, only experts with expensive cameras could take good photos. Today, photography is no longer the __________ of professionals; anyone with a phone can do it.",
@@ -1425,7 +1432,8 @@ window.FLASHCARD_UNITS = {
       "text": "domain"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 23
    },
    {
     "question": "The new stadium has a huge round roof that covers the whole field. Thanks to this __________, baseball games can go on even when it rains heavily.",
@@ -1447,7 +1455,8 @@ window.FLASHCARD_UNITS = {
       "text": "driveway"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "The flood left hundreds of families without food or clean clothes. Our school is asking everyone to __________ rice, blankets, and anything else that could help.",
@@ -1469,7 +1478,8 @@ window.FLASHCARD_UNITS = {
       "text": "elaborate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 30
    },
    {
     "question": "A kind businessman gave two million dollars to the children's hospital last week. With this __________, the hospital will buy new beds and build a playroom.",
@@ -1491,7 +1501,8 @@ window.FLASHCARD_UNITS = {
       "text": "doorway"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 31
    },
    {
     "question": "Someone has been sending money to the orphanage every month for ten years. Nobody knows who this generous __________ is, because the letters are never signed.",
@@ -1513,7 +1524,8 @@ window.FLASHCARD_UNITS = {
       "text": "driver"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 32
    },
    {
     "question": "The puppy did not want to go out into the rain. It just stood in the __________ and looked back at me, waiting for me to pick it up.",
@@ -1535,7 +1547,8 @@ window.FLASHCARD_UNITS = {
       "text": "ego"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 36
    },
    {
     "question": "To make the buns, mix the flour, water, and a little salt in a big bowl. Then knead the __________ with your hands until it is soft and smooth.",
@@ -1557,7 +1570,8 @@ window.FLASHCARD_UNITS = {
       "text": "drought"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "The hotel room was dirty, the bed was hard, and the air conditioner did not work. It was the most __________ night I have ever spent on a trip.",
@@ -1579,7 +1593,8 @@ window.FLASHCARD_UNITS = {
       "text": "eloquent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "Mr. Wang washes his car every Sunday morning. He parks it in the __________ in front of his garage and uses the garden hose to clean it.",
@@ -1601,7 +1616,8 @@ window.FLASHCARD_UNITS = {
       "text": "dome"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 49
    },
    {
     "question": "It has not rained in the south for almost five months, and the rivers are nearly empty. Because of the __________, farmers cannot plant rice this season.",
@@ -1623,7 +1639,8 @@ window.FLASHCARD_UNITS = {
       "text": "drought"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 54
    },
    {
     "question": "A factory let dirty water run into the lake for years, and most of the fish died. Scientists call it the worst __________ disaster in the area's history.",
@@ -1645,7 +1662,8 @@ window.FLASHCARD_UNITS = {
       "text": "eloquent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    },
    {
     "question": "My cousin studies how plants, animals, and people in a forest depend on one another. She says __________ is the science that helps us protect nature.",
@@ -1667,7 +1685,8 @@ window.FLASHCARD_UNITS = {
       "text": "ecology"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 59
    },
    {
     "question": "A pond is home to fish, frogs, insects, and many water plants. If one of them disappears, the whole __________ can change in ways that are hard to predict.",
@@ -1689,7 +1708,8 @@ window.FLASHCARD_UNITS = {
       "text": "documentary"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 60
    },
    {
     "question": "Jason always talks about how smart and handsome he is. His big __________ makes it hard for him to admit that he is ever wrong about anything.",
@@ -1711,7 +1731,8 @@ window.FLASHCARD_UNITS = {
       "text": "ego"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 64
    },
    {
     "question": "The wedding cake had seven levels, hundreds of sugar flowers, and tiny golden birds on top. It was so __________ that the guests took photos for ten minutes before anyone cut it.",
@@ -1733,7 +1754,8 @@ window.FLASHCARD_UNITS = {
       "text": "domestic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 67
    },
    {
     "question": "The free English camp is only for students who are fifteen or older. My brother is just fourteen, so he is not __________ to join it this summer.",
@@ -1755,7 +1777,8 @@ window.FLASHCARD_UNITS = {
       "text": "distinct"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "The student spoke for only three minutes about saving the old trees in the park. Her speech was so __________ that even the mayor stood up and clapped.",
@@ -1777,7 +1800,8 @@ window.FLASHCARD_UNITS = {
       "text": "domestic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "After two years of working abroad, Lily finally came home. Her parents ran across the airport to __________ her, and all three of them cried with joy.",
@@ -1799,7 +1823,8 @@ window.FLASHCARD_UNITS = {
       "text": "dread"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 79
    },
    {
     "question": "The two brands of orange juice come in bottles of the same shape and color. Without reading the labels, it is almost impossible to __________ one from the other.",
@@ -1821,7 +1846,8 @@ window.FLASHCARD_UNITS = {
       "text": "distinguish"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 6
    },
    {
     "question": "I cannot finish my homework in the living room because the TV is always on. It is a constant __________, so I now study in the quiet kitchen instead.",
@@ -1843,7 +1869,8 @@ window.FLASHCARD_UNITS = {
       "text": "solution"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "Every year my little sister cries before her visit to the dentist. She really does __________ the sound of the drill, even though it has never hurt her.",
@@ -1865,7 +1892,8 @@ window.FLASHCARD_UNITS = {
       "text": "dread"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "The old man had never been to school, but he could tell stories that made the whole village laugh and cry. People came from far away just to enjoy his __________.",
@@ -1887,7 +1915,8 @@ window.FLASHCARD_UNITS = {
       "text": "ego"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "Dr. Huang spends every summer counting the frogs and birds in the wetland near our town. As an __________, she wants to know whether the new road has hurt them.",
@@ -1909,7 +1938,8 @@ window.FLASHCARD_UNITS = {
       "text": "ecology"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 61
    }
   ]
  }

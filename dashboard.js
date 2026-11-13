@@ -46,6 +46,7 @@ function loadMarked() {
 
 function saveMarked() {
   try { localStorage.setItem(STORE_KEY, JSON.stringify(marked)); } catch (error) { /* private mode: list lasts for this visit */ }
+  if (window.GsatTracker) GsatTracker.reviewChanged();
 }
 
 function speak(text) {

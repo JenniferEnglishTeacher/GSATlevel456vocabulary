@@ -1451,7 +1451,8 @@ window.FLASHCARD_UNITS = {
       "text": "ridiculous"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "My family wants to spend a week by the sea this summer. We found a beach __________ with a swimming pool, a seafood restaurant, and rooms that look out over the water.",
@@ -1473,7 +1474,8 @@ window.FLASHCARD_UNITS = {
       "text": "resort"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 5
    },
    {
     "question": "Our class asked two hundred students what time they go to bed on school nights. Almost every __________ said that they stay up past eleven o'clock.",
@@ -1495,7 +1497,8 @@ window.FLASHCARD_UNITS = {
       "text": "rival"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "The baseball game was stopped for forty minutes because of heavy rain. When the sky cleared, the players returned to the field, and the game was able to __________.",
@@ -1517,7 +1520,8 @@ window.FLASHCARD_UNITS = {
       "text": "reverse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 14
    },
    {
     "question": "My aunt has sold clothes in shops for twenty years, first as a worker and now as a manager. She says a job in __________ is hard because the hours are so long.",
@@ -1539,7 +1543,8 @@ window.FLASHCARD_UNITS = {
       "text": "rhetoric"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 17
    },
    {
     "question": "Fewer tourists visited the island this year because of the typhoons. As a result, the hotels and restaurants there earned much less __________ than they did last summer.",
@@ -1561,7 +1566,8 @@ window.FLASHCARD_UNITS = {
       "text": "rhetoric"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 21
    },
    {
     "question": "The parking space behind the shop is very narrow, and there is a wall on each side. My father had to __________ the car slowly three times before he got it in.",
@@ -1583,7 +1589,8 @@ window.FLASHCARD_UNITS = {
       "text": "resume"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "The candidate gave a long speech full of beautiful words about hope and change. However, many voters felt it was just __________ because he never said what he would actually do.",
@@ -1605,7 +1612,8 @@ window.FLASHCARD_UNITS = {
       "text": "ritual"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "Tom fell hard on the ice while he was skating last weekend. The doctor looked at the X-ray and told him that he had broken a __________ on his left side.",
@@ -1627,7 +1635,8 @@ window.FLASHCARD_UNITS = {
       "text": "ridge"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 32
    },
    {
     "question": "We climbed for three hours through the forest before the trees finally ended. From the top of the __________, we could see the sea on both sides of the island.",
@@ -1649,7 +1658,8 @@ window.FLASHCARD_UNITS = {
       "text": "rib"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 35
    },
    {
     "question": "The shop is selling a plain white T-shirt for ten thousand dollars just because a famous singer wore one. I think that price is completely __________.",
@@ -1671,7 +1681,8 @@ window.FLASHCARD_UNITS = {
       "text": "reversible"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 38
    },
    {
     "question": "The old farmer keeps a long __________ by the door, but he never shoots any animals. He fires it into the air only to scare away wild pigs that eat his corn.",
@@ -1693,7 +1704,8 @@ window.FLASHCARD_UNITS = {
       "text": "rifle"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 42
    },
    {
     "question": "Our old principal never changed a rule, no matter what the students or teachers said. His __________ way of thinking made many people unhappy at the school.",
@@ -1715,7 +1727,8 @@ window.FLASHCARD_UNITS = {
       "text": "saintly"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "The ball hit the __________ of the basket and bounced high into the air. Everyone held their breath, and then it dropped through the net just as the final whistle blew.",
@@ -1737,7 +1750,8 @@ window.FLASHCARD_UNITS = {
       "text": "rod"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 49
    },
    {
     "question": "When the price of rice doubled for the second time in a month, angry crowds filled the streets. The protest soon turned into a __________, and shops were burned.",
@@ -1759,7 +1773,8 @@ window.FLASHCARD_UNITS = {
       "text": "ritual"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 52
    },
    {
     "question": "This book is very old, and its pages are thin and dry. Please turn them slowly and gently so that you do not __________ any of them by accident.",
@@ -1781,7 +1796,8 @@ window.FLASHCARD_UNITS = {
       "text": "rip"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 56
    },
    {
     "question": "The river looks calm, but it runs very fast under the surface after heavy rain. Swimming there is too __________, so the town has put up warning signs on the bank.",
@@ -1803,7 +1819,8 @@ window.FLASHCARD_UNITS = {
       "text": "rigid"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 61
    },
    {
     "question": "Every morning before school, my grandmother lights three sticks of incense and bows to the family altar. This small __________ has been part of her life for sixty years.",
@@ -1825,7 +1842,8 @@ window.FLASHCARD_UNITS = {
       "text": "ritual"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "Our school and the one across the river have played each other in basketball for thirty years. Beating our biggest __________ is the one game every player dreams of.",
@@ -1847,7 +1865,8 @@ window.FLASHCARD_UNITS = {
       "text": "respondent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "Grandpa sat quietly by the lake for the whole afternoon, holding a long thin __________ over the water. By evening he had caught three fish for our dinner.",
@@ -1869,7 +1888,8 @@ window.FLASHCARD_UNITS = {
       "text": "saddle"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "This mountain is __________ to the local tribe, who believe their ancestors live on its peak. Visitors must stay quiet and may not climb the highest rock.",
@@ -1891,7 +1911,8 @@ window.FLASHCARD_UNITS = {
       "text": "sacred"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 77
    },
    {
     "question": "The horse was ready, but the girl could not get on because the __________ was loose. Her father tightened the straps, and then she rode off across the field.",
@@ -1913,7 +1934,8 @@ window.FLASHCARD_UNITS = {
       "text": "rod"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 81
    },
    {
     "question": "Mrs. Lin cooks dinner for three old people on our street every day and never asks for anything in return. Everyone in the neighborhood says she is a real __________.",
@@ -1935,7 +1957,8 @@ window.FLASHCARD_UNITS = {
       "text": "rival"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 85
    },
    {
     "question": "The __________ swim thousands of kilometers from the ocean back to the river where they were born. Bears wait by the water to catch them as they jump upstream.",
@@ -1957,7 +1980,8 @@ window.FLASHCARD_UNITS = {
       "text": "salmon"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 89
    },
    {
     "question": "My sister wants a new hairstyle before the school dance on Saturday. She has booked a seat at the hair __________ near the station for Friday afternoon.",
@@ -1979,7 +2003,8 @@ window.FLASHCARD_UNITS = {
       "text": "ridge"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 92
    },
    {
     "question": "I sent an email to the museum last week to ask about the opening hours on holidays. They did not __________ to my message, so I will call them this afternoon instead.",
@@ -2001,7 +2026,8 @@ window.FLASHCARD_UNITS = {
       "text": "rival"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 10
    },
    {
     "question": "The two brothers always tried to beat each other, in sports, in grades, and even in cooking. Their friendly __________ pushed both of them to work harder.",
@@ -2023,7 +2049,8 @@ window.FLASHCARD_UNITS = {
       "text": "rivalry"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "To pay for her son's university fees, my aunt worked two jobs for five years. She was willing to __________ her own free time so that he could have a better future.",
@@ -2045,7 +2072,8 @@ window.FLASHCARD_UNITS = {
       "text": "resume"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "Our team was losing by twenty points with only five minutes left in the game. Then, in an amazing __________, we scored eight times in a row and won.",
@@ -2067,7 +2095,8 @@ window.FLASHCARD_UNITS = {
       "text": "resumption"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 28
    },
    {
     "question": "Riding a scooter without a helmet may feel cool, but a fall can hurt your head badly. Wearing one greatly lowers the __________ of a serious injury.",
@@ -2089,7 +2118,8 @@ window.FLASHCARD_UNITS = {
       "text": "rod"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    }
   ]
  }

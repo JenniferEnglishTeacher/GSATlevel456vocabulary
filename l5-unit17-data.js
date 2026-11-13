@@ -1496,7 +1496,8 @@ window.FLASHCARD_UNITS = {
       "text": "gravity"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The runner crossed the finish line and fell to the ground. He could only __________ for air for a full minute before he was able to speak.",
@@ -1518,7 +1519,8 @@ window.FLASHCARD_UNITS = {
       "text": "grill"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 3
    },
    {
     "question": "Every year on my grandmother's birthday, all my uncles, aunts, and cousins come to her house. It is the biggest family __________ of the year for us.",
@@ -1540,7 +1542,8 @@ window.FLASHCARD_UNITS = {
       "text": "grievance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 7
    },
    {
     "question": "The city built hundreds of solar panels on the roofs of its schools. Together they __________ enough power to light every classroom during the day for free.",
@@ -1562,7 +1565,8 @@ window.FLASHCARD_UNITS = {
       "text": "generate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 11
    },
    {
     "question": "When the storm knocked out the power last night, our neighbors still had lights. They had bought a small __________ that runs on gasoline a few months ago.",
@@ -1584,7 +1588,8 @@ window.FLASHCARD_UNITS = {
       "text": "hazard"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "Both my mother and my grandmother have red hair, and so do I. The doctor says this is a __________ feature passed down in our family.",
@@ -1606,7 +1611,8 @@ window.FLASHCARD_UNITS = {
       "text": "gorgeous"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 16
    },
    {
     "question": "My cousin studies how traits like eye color pass from parents to their children. Her subject at university is called __________, and she really loves it.",
@@ -1628,7 +1634,8 @@ window.FLASHCARD_UNITS = {
       "text": "gravity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 17
    },
    {
     "question": "Horror, comedy, romance, and science fiction are all different types of movies. Which __________ do you and your friends enjoy watching most when you relax on weekends?",
@@ -1650,7 +1657,8 @@ window.FLASHCARD_UNITS = {
       "text": "gasp"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 21
    },
    {
     "question": "The students kept talking even after the teacher asked for silence. She turned around to __________ at them angrily, and the room became quiet at once.",
@@ -1672,7 +1680,8 @@ window.FLASHCARD_UNITS = {
       "text": "generate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 24
    },
    {
     "question": "It has rained for seven days without stopping, and the sky is always dark gray. Such __________ weather makes people feel sad and tired all day.",
@@ -1694,7 +1703,8 @@ window.FLASHCARD_UNITS = {
       "text": "graphic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "The bride walked slowly into the hall in a long white dress covered with tiny flowers. Everyone at the wedding agreed that she looked absolutely __________.",
@@ -1716,7 +1726,8 @@ window.FLASHCARD_UNITS = {
       "text": "gorgeous"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 32
    },
    {
     "question": "The young researcher needed money to continue her study of plastic in the ocean. Luckily, the government decided to __________ her two million dollars for it.",
@@ -1738,7 +1749,8 @@ window.FLASHCARD_UNITS = {
       "text": "gasp"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 35
    },
    {
     "question": "The war movie shows injured soldiers and blood in a very clear and detailed way. Because of these __________ scenes, children are not allowed to see it.",
@@ -1760,7 +1772,8 @@ window.FLASHCARD_UNITS = {
       "text": "greedy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 40
    },
    {
     "question": "When you throw a ball into the air, it always comes back down to the ground. This happens because of a natural force that we call __________.",
@@ -1782,7 +1795,8 @@ window.FLASHCARD_UNITS = {
       "text": "glare"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 45
    },
    {
     "question": "The rich man already owned ten houses, but he still wanted more and more. In the end, his __________ made him lose all of his old friends.",
@@ -1804,7 +1818,8 @@ window.FLASHCARD_UNITS = {
       "text": "greed"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 50
    },
    {
     "question": "My neighbor's dog died last week after fifteen years together with her. She still needs time to __________, so we visit her often and listen quietly.",
@@ -1826,7 +1841,8 @@ window.FLASHCARD_UNITS = {
       "text": "grill"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "Tonight we are having a barbecue in the backyard for the Moon Festival. Dad will __________ the corn and chicken while we set the table outside.",
@@ -1848,7 +1864,8 @@ window.FLASHCARD_UNITS = {
       "text": "grill"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 58
    },
    {
     "question": "The news about the factory closing was very bad for the small town. The mayor looked __________ as he explained that two thousand jobs would be lost.",
@@ -1870,7 +1887,8 @@ window.FLASHCARD_UNITS = {
       "text": "genetic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 62
    },
    {
     "question": "The wind was so strong on the bridge that my hat almost flew away. I had to __________ the railing with both hands to stay steady.",
@@ -1892,7 +1910,8 @@ window.FLASHCARD_UNITS = {
       "text": "grieve"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 65
    },
    {
     "question": "Before tax and insurance are taken away, Mr. Lin earns eighty thousand dollars a month. This __________ amount is much higher than what he takes home.",
@@ -1914,7 +1933,8 @@ window.FLASHCARD_UNITS = {
       "text": "grilled"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 70
    },
    {
     "question": "The hospital has a clear __________ on hand washing for all workers. Every nurse must wash their hands for at least twenty seconds before touching a patient.",
@@ -1936,7 +1956,8 @@ window.FLASHCARD_UNITS = {
       "text": "guideline"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 75
    },
    {
     "question": "Eating too much fried food can upset your stomach and make you feel sick. Doctors say that yogurt and fresh vegetables help keep your __________ healthy.",
@@ -1958,7 +1979,8 @@ window.FLASHCARD_UNITS = {
       "text": "haul"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 79
    },
    {
     "question": "Pandas live in cool, wet mountain forests where bamboo grows very thickly. When people cut down these forests, the pandas there lose their natural __________ forever.",
@@ -1980,7 +2002,8 @@ window.FLASHCARD_UNITS = {
       "text": "habitat"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 84
    },
    {
     "question": "The old sofa was too heavy for one person to carry down the stairs. My brother and I had to __________ it together, step by step.",
@@ -2002,7 +2025,8 @@ window.FLASHCARD_UNITS = {
       "text": "gasp"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 89
    },
    {
     "question": "There are many broken bottles and sharp pieces of metal on the beach. These things are a real __________ to children who play there with bare feet.",
@@ -2024,7 +2048,8 @@ window.FLASHCARD_UNITS = {
       "text": "guidance"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 93
    },
    {
     "question": "The chemicals in this bottle can burn your skin and hurt your eyes. Always wear gloves and glasses when handling such __________ materials in the science lab.",
@@ -2046,7 +2071,8 @@ window.FLASHCARD_UNITS = {
       "text": "gloomy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 94
    },
    {
     "question": "Hundreds of people began to __________ in front of the city hall at noon today. They wanted to show their strong support for the new park plan.",
@@ -2068,7 +2094,8 @@ window.FLASHCARD_UNITS = {
       "text": "grill"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "My little brother always takes the biggest piece of cake and three cookies at once. Mom tells him not to be so __________ at the table.",
@@ -2090,7 +2117,8 @@ window.FLASHCARD_UNITS = {
       "text": "greedy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "When her grandfather passed away, Amy cried for days and could not eat anything. It took many months for her deep __________ to slowly fade away.",
@@ -2112,7 +2140,8 @@ window.FLASHCARD_UNITS = {
       "text": "generator"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 54
    },
    {
     "question": "I started reading the mystery novel at nine o'clock and could not put it down. The story was so __________ that I finished it at two in the morning.",
@@ -2134,7 +2163,8 @@ window.FLASHCARD_UNITS = {
       "text": "gross"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 68
    }
   ]
  }

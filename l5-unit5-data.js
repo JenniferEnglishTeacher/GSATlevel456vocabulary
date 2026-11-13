@@ -1406,7 +1406,8 @@ window.FLASHCARD_UNITS = {
       "text": "boundary"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "Mike has trained in the gym every day since he was twelve. Now he is a professional __________ who has won fifteen fights and lost only two.",
@@ -1428,7 +1429,8 @@ window.FLASHCARD_UNITS = {
       "text": "bully"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "For many years, doctors could not find a way to treat the disease. Then last month, a team in Japan made a big __________ that may save many lives.",
@@ -1450,7 +1452,8 @@ window.FLASHCARD_UNITS = {
       "text": "burial"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "Mr. Lin looked very busy as he hurried out of the office. He was carrying a black __________ full of papers for the important meeting downtown.",
@@ -1472,7 +1475,8 @@ window.FLASHCARD_UNITS = {
       "text": "canvas"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 13
    },
    {
     "question": "In the ancient world, people made their tools, cups, and weapons from a strong brown metal. This metal, called __________, was made by mixing copper and tin together.",
@@ -1494,7 +1498,8 @@ window.FLASHCARD_UNITS = {
       "text": "canvas"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 17
    },
    {
     "question": "I don't need to buy anything at the mall today. I just want to __________ around the shops for an hour and see what new clothes they have.",
@@ -1516,7 +1521,8 @@ window.FLASHCARD_UNITS = {
       "text": "gamble"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 21
    },
    {
     "question": "Amy fell down the stairs yesterday but did not break any bones. She only has a large purple __________ on her arm, which should disappear in a week.",
@@ -1538,7 +1544,8 @@ window.FLASHCARD_UNITS = {
       "text": "bruise"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 25
    },
    {
     "question": "Our team did a lot of work on the project last week. In fact, the __________ of the report was already written before our teacher even gave us the deadline.",
@@ -1560,7 +1567,8 @@ window.FLASHCARD_UNITS = {
       "text": "breakdown"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 28
    },
    {
     "question": "The big boy pushed the smaller kids and took their money every day. Finally, the teacher stopped the __________ and called his parents to the school.",
@@ -1582,7 +1590,8 @@ window.FLASHCARD_UNITS = {
       "text": "bureaucrat"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "Heavy rain is expected all over the island this weekend. The weather __________ has warned everyone living near the river to move to higher ground before Saturday night.",
@@ -1604,7 +1613,8 @@ window.FLASHCARD_UNITS = {
       "text": "cathedral"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "My father wanted to open a small shop, but he had to fill out twenty forms and wait four months. He said the city's __________ was slow and painful.",
@@ -1626,7 +1636,8 @@ window.FLASHCARD_UNITS = {
       "text": "capability"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 37
    },
    {
     "question": "After the old king died, thousands of people came to say goodbye. His __________ took place on a hill outside the city, where his parents also lie.",
@@ -1648,7 +1659,8 @@ window.FLASHCARD_UNITS = {
       "text": "burial"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 41
    },
    {
     "question": "My mother needs two kilograms of fresh pork for dinner tonight. She asked me to stop at the __________ on my way home and pick it up.",
@@ -1670,7 +1682,8 @@ window.FLASHCARD_UNITS = {
       "text": "bureaucrat"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 45
    },
    {
     "question": "Milk, cheese, and small fish are very good for growing children. They contain a lot of __________, which the body needs to build strong bones and teeth.",
@@ -1692,7 +1705,8 @@ window.FLASHCARD_UNITS = {
       "text": "bronze"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "A hundred years ago, farmers in this area had no water for their fields in summer. So they dug a long __________ to bring water from the river to the land.",
@@ -1714,7 +1728,8 @@ window.FLASHCARD_UNITS = {
       "text": "boundary"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 52
    },
    {
     "question": "The painter bought some new brushes and colors at the art shop. She also needed a large piece of __________ to paint her next picture on.",
@@ -1736,7 +1751,8 @@ window.FLASHCARD_UNITS = {
       "text": "calcium"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "This new computer can do things our old one could never do. It has the __________ to translate a whole book into ten languages in less than a minute.",
@@ -1758,7 +1774,8 @@ window.FLASHCARD_UNITS = {
       "text": "celebrity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    },
    {
     "question": "Diamonds are hard and shiny, while the black part of a pencil is soft and dull. Surprisingly, both of them are made of the same element, __________.",
@@ -1780,7 +1797,8 @@ window.FLASHCARD_UNITS = {
       "text": "carbon"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 62
    },
    {
     "question": "Every February, the streets of Rio fill with music, dancing, and people in colorful costumes. The famous __________ lasts for five days and attracts millions of visitors.",
@@ -1802,7 +1820,8 @@ window.FLASHCARD_UNITS = {
       "text": "casino"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "Uncle Bob went to Las Vegas with a thousand dollars in his pocket. He spent all night in a __________ and came home with nothing but a sad story.",
@@ -1824,7 +1843,8 @@ window.FLASHCARD_UNITS = {
       "text": "casino"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "This huge church in the center of the old city took two hundred years to build. Today, the __________ is the most famous building in the whole country.",
@@ -1846,7 +1866,8 @@ window.FLASHCARD_UNITS = {
       "text": "casino"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "The mountain road is narrow, and there are no lights at night. Drivers should use great __________ when they go around the sharp corners after dark.",
@@ -1868,7 +1889,8 @@ window.FLASHCARD_UNITS = {
       "text": "capability"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 78
    },
    {
     "question": "Grandpa never drives faster than fifty kilometers an hour, even on an empty highway. He is a very __________ driver who always checks his mirrors twice.",
@@ -1890,7 +1912,8 @@ window.FLASHCARD_UNITS = {
       "text": "bronze"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "After her first movie became a big hit, Lisa could not walk down the street without being noticed. She had suddenly become a __________, and fans followed her everywhere.",
@@ -1912,7 +1935,8 @@ window.FLASHCARD_UNITS = {
       "text": "celebrity"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 84
    },
    {
     "question": "On Tomb Sweeping Day, my family drives to the hills outside the city. We clean our grandparents' graves at the __________ and leave fresh flowers and fruit.",
@@ -1934,7 +1958,8 @@ window.FLASHCARD_UNITS = {
       "text": "canal"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 88
    },
    {
     "question": "Our new assistant learned the whole computer system in just two days. She is clearly a __________ worker, and the boss already wants to give her more responsibility.",
@@ -1956,7 +1981,8 @@ window.FLASHCARD_UNITS = {
       "text": "cautious"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 59
    },
    {
     "question": "There might be a typhoon this weekend, so we moved all the flower pots inside. It is just a __________ in case the wind gets very strong.",
@@ -1978,7 +2004,8 @@ window.FLASHCARD_UNITS = {
       "text": "celebration"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 83
    },
    {
     "question": "My parents have been married for twenty-five years today. Tonight the whole family will __________ at a nice restaurant with a big cake and lots of photos.",
@@ -2000,7 +2027,8 @@ window.FLASHCARD_UNITS = {
       "text": "browse"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 85
    },
    {
     "question": "The principal's speech this morning was only three minutes long. After such a __________ talk, the students were surprised to be sent back to class so soon.",
@@ -2022,7 +2050,8 @@ window.FLASHCARD_UNITS = {
       "text": "brief"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 14
    },
    {
     "question": "Grandpa lost his house many years ago because he could not stop playing cards for money. Now he warns us never to __________ even one dollar.",
@@ -2044,7 +2073,8 @@ window.FLASHCARD_UNITS = {
       "text": "bruise"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 71
    }
   ]
  }

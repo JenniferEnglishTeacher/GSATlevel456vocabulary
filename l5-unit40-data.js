@@ -1196,7 +1196,8 @@ window.FLASHCARD_UNITS = {
       "text": "wither"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "For my birthday, my aunt gave me a five-hundred-dollar __________ for the bookstore. I can use it to buy any books I like before the end of the year.",
@@ -1218,7 +1219,8 @@ window.FLASHCARD_UNITS = {
       "text": "yacht"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 3
    },
    {
     "question": "After failing the math test again, Peter made a __________ to himself. He promised to study for at least two hours every night until the final exam.",
@@ -1240,7 +1242,8 @@ window.FLASHCARD_UNITS = {
       "text": "vow"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 6
    },
    {
     "question": "Old people and small children are more __________ to the flu than other people. That is why doctors tell them to get a flu shot every autumn.",
@@ -1262,7 +1265,8 @@ window.FLASHCARD_UNITS = {
       "text": "witty"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "The online shop keeps all its products in a huge __________ outside the city. When you order something, workers there pack it and send it out by truck.",
@@ -1284,7 +1288,8 @@ window.FLASHCARD_UNITS = {
       "text": "whine"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 12
    },
    {
     "question": "In the old legend, a brave young __________ fought a huge dragon with only a sword. He saved the village, and the king gave him a castle as a reward.",
@@ -1306,7 +1311,8 @@ window.FLASHCARD_UNITS = {
       "text": "windshield"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 15
    },
    {
     "question": "Be __________ of strangers who call you and say you have won a prize. Many of them are trying to get your bank information and steal your money.",
@@ -1328,7 +1334,8 @@ window.FLASHCARD_UNITS = {
       "text": "worthy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "I heard a __________ noise from the kitchen at midnight. It sounded like someone was talking, but when I turned on the light, nobody was there.",
@@ -1350,7 +1357,8 @@ window.FLASHCARD_UNITS = {
       "text": "weird"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 21
    },
    {
     "question": "I have no interest __________ in horror movies. Please don't ask me to watch one with you, because I will have bad dreams for a week.",
@@ -1372,7 +1380,8 @@ window.FLASHCARD_UNITS = {
       "text": "vulnerable"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "After my grandfather broke his leg, he couldn't walk for two months. We pushed him around the park in a __________ every afternoon so he could get some fresh air.",
@@ -1394,7 +1403,8 @@ window.FLASHCARD_UNITS = {
       "text": "workshop"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 28
    },
    {
     "question": "The hiker has been missing for three days. The police are still trying to find out his __________ , and many volunteers are searching the mountain to help.",
@@ -1416,7 +1426,8 @@ window.FLASHCARD_UNITS = {
       "text": "yield"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 31
    },
    {
     "question": "My sister loves spicy food, __________ I can't eat even a little chili without drinking three glasses of water. We never order the same dishes at restaurants.",
@@ -1438,7 +1449,8 @@ window.FLASHCARD_UNITS = {
       "text": "wherever"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 34
    },
    {
     "question": "Please don't __________ about the homework every single night. Just start doing it, because if you keep complaining, it will take you even longer to finish.",
@@ -1460,7 +1472,8 @@ window.FLASHCARD_UNITS = {
       "text": "vow"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 38
    },
    {
     "question": "Smartphones are now __________ among elementary school students. In some classes in Taipei, almost every child has one, and many parents are very worried about it.",
@@ -1482,7 +1495,8 @@ window.FLASHCARD_UNITS = {
       "text": "widespread"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 41
    },
    {
     "question": "The actor playing the old king wore a long white __________ and a fake beard. Nobody in the audience could tell that he was only seventeen years old.",
@@ -1504,7 +1518,8 @@ window.FLASHCARD_UNITS = {
       "text": "whine"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "The hikers spent five days in the __________ without seeing a road, a house, or another person. They had to carry all their food and water on their backs.",
@@ -1526,7 +1541,8 @@ window.FLASHCARD_UNITS = {
       "text": "workshop"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "The national park protects all kinds of __________ , including black bears, monkeys, and rare birds. Visitors are not allowed to feed or touch the wild animals.",
@@ -1548,7 +1564,8 @@ window.FLASHCARD_UNITS = {
       "text": "wildlife"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 48
    },
    {
     "question": "A small stone hit our car on the highway and made a long crack in the __________ . Dad could hardly see the road, so he drove slowly to the repair shop.",
@@ -1570,7 +1587,8 @@ window.FLASHCARD_UNITS = {
       "text": "wheelchair"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 52
    },
    {
     "question": "I forgot to water the plants on my balcony while I was on vacation. When I came back, all the flowers had started to __________ and turn brown.",
@@ -1592,7 +1610,8 @@ window.FLASHCARD_UNITS = {
       "text": "yield"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "Our English teacher is very __________ . She always makes clever little jokes about grammar, and even students who hate English laugh during her lessons every day.",
@@ -1614,7 +1633,8 @@ window.FLASHCARD_UNITS = {
       "text": "vulnerable"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    },
    {
     "question": "Our teachers attended a two-day __________ on using AI in the classroom during winter vacation. They learned new teaching ideas and practiced them in small groups.",
@@ -1636,7 +1656,8 @@ window.FLASHCARD_UNITS = {
       "text": "workshop"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "Every spring, thousands of people walk for nine days to __________ Mazu, the goddess of the sea. They visit many temples along the way and pray for good luck.",
@@ -1658,7 +1679,8 @@ window.FLASHCARD_UNITS = {
       "text": "vomit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "Volunteering at the animal shelter is hard work, and I don't get paid. But it is __________ , because I have helped many dogs find a new home.",
@@ -1680,7 +1702,8 @@ window.FLASHCARD_UNITS = {
       "text": "worthwhile"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 67
    },
    {
     "question": "The firefighter ran into the burning building three times to save a family. His brave actions are __________ of our respect, and the mayor will give him a medal.",
@@ -1702,7 +1725,8 @@ window.FLASHCARD_UNITS = {
       "text": "widespread"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    },
    {
     "question": "The rich businessman spent the whole summer sailing around the Greek islands. He and his family lived on his private __________ and swam in the sea every day.",
@@ -1724,7 +1748,8 @@ window.FLASHCARD_UNITS = {
       "text": "whine"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 71
    },
    {
     "question": "This farm is small, but the soil is very rich, and there is plenty of rain. It can __________ more than two tons of rice every year.",
@@ -1746,7 +1771,8 @@ window.FLASHCARD_UNITS = {
       "text": "vomit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "Signs at the beach tell swimmers to __________ of strong waves. Last summer, two people were pulled out to sea when a strong typhoon was coming.",
@@ -1768,7 +1794,8 @@ window.FLASHCARD_UNITS = {
       "text": "yield"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    },
    {
     "question": "My grandmother always cooks my favorite beef soup __________ I visit her. Even on hot summer days, there is a big bowl waiting for me on the table.",
@@ -1790,7 +1817,8 @@ window.FLASHCARD_UNITS = {
       "text": "whether"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 36
    },
    {
     "question": "The comedian is famous for his quick __________ . No matter what question people in the audience ask, he always has a funny answer ready in a second.",
@@ -1812,7 +1840,8 @@ window.FLASHCARD_UNITS = {
       "text": "wig"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 59
    },
    {
     "question": "English is __________ used in international business. That is why many companies in Taiwan want to hire workers who can speak and write it really well.",
@@ -1834,7 +1863,8 @@ window.FLASHCARD_UNITS = {
       "text": "widely"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 42
    }
   ]
  }

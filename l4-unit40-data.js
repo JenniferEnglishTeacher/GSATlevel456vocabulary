@@ -1586,7 +1586,8 @@ window.FLASHCARD_UNITS = {
       "text": "voyage"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The firefighters worked hard for three hours to save the old house. However, all their work was __________, and the building burned to the ground before midnight.",
@@ -1608,7 +1609,8 @@ window.FLASHCARD_UNITS = {
       "text": "vital"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "The desert in that country is so big that it takes days to cross it by car. Travelers say the __________ sand seems to go on forever under the hot sun.",
@@ -1630,7 +1632,8 @@ window.FLASHCARD_UNITS = {
       "text": "vegetarian"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "My sister stopped eating meat and fish two years ago. As a __________, she now orders tofu, beans, and vegetables whenever our family eats at a restaurant.",
@@ -1652,7 +1655,8 @@ window.FLASHCARD_UNITS = {
       "text": "wizard"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 11
    },
    {
     "question": "A large ship was sailing near the island when the storm hit. The coast guard reached the __________ just in time and saved all twenty people on board.",
@@ -1674,7 +1678,8 @@ window.FLASHCARD_UNITS = {
       "text": "virtue"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 15
    },
    {
     "question": "The sign says that cars must not park in front of the hospital gate. Drivers who __________ this rule will get a ticket, and their cars may be towed away.",
@@ -1696,7 +1701,8 @@ window.FLASHCARD_UNITS = {
       "text": "withdraw"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 18
    },
    {
     "question": "The driver was going 90 kilometers an hour in a school zone. The police officer stopped him and said that such a serious __________ would cost him a lot of money.",
@@ -1718,7 +1724,8 @@ window.FLASHCARD_UNITS = {
       "text": "yawn"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 19
    },
    {
     "question": "My grandfather always told the truth, even when it was hard for him to do so. He believed that honesty was the greatest __________ a person could ever have.",
@@ -1740,7 +1747,8 @@ window.FLASHCARD_UNITS = {
       "text": "virtue"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 24
    },
    {
     "question": "Many students were absent from school this week with high fevers and bad coughs. The doctor said a new __________ was spreading quickly through the whole city.",
@@ -1762,7 +1770,8 @@ window.FLASHCARD_UNITS = {
       "text": "voyage"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "Words alone can be hard to remember during a long lecture. Pictures and charts give students __________ help, so the teacher always puts some on the screen.",
@@ -1784,7 +1793,8 @@ window.FLASHCARD_UNITS = {
       "text": "vacant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 32
    },
    {
     "question": "Water is the most important thing to carry when you hike in the mountains. It is __________ to drink enough, because the body loses water quickly in the heat.",
@@ -1806,7 +1816,8 @@ window.FLASHCARD_UNITS = {
       "text": "visible"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "Nobody is forced to join the Saturday clean-up at the park. It is completely __________, but more than fifty students still signed up to help this week.",
@@ -1828,7 +1839,8 @@ window.FLASHCARD_UNITS = {
       "text": "voluntary"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 41
    },
    {
     "question": "After the big earthquake, many people lost their homes and had nothing to eat. A kind __________ from Taipei drove down every weekend to cook hot meals for them.",
@@ -1850,7 +1862,8 @@ window.FLASHCARD_UNITS = {
       "text": "vegetarian"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "Hundreds of years ago, wooden ships took many months to cross the ocean. Many sailors became sick during the long __________, and some of them never returned home.",
@@ -1872,7 +1885,8 @@ window.FLASHCARD_UNITS = {
       "text": "voyage"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 47
    },
    {
     "question": "The baby had finally fallen asleep after crying for an hour. Her mother asked everyone to speak softly so that the noise would not __________ her again.",
@@ -1894,7 +1908,8 @@ window.FLASHCARD_UNITS = {
       "text": "wreck"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    },
    {
     "question": "Our school has put all the important information online. Parents can visit the __________ to check the exam dates, the lunch menu, and the latest school news.",
@@ -1916,7 +1931,8 @@ window.FLASHCARD_UNITS = {
       "text": "vacancy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 56
    },
    {
     "question": "The government gives money to families that cannot pay for food and housing. This __________ system helps poor children stay in school instead of going to work.",
@@ -1938,7 +1954,8 @@ window.FLASHCARD_UNITS = {
       "text": "voyage"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    },
    {
     "question": "Grandpa secretly put an extra piece of cake on my plate when Grandma was not looking. Then he gave me a quick __________ so that I would keep his little secret.",
@@ -1960,7 +1977,8 @@ window.FLASHCARD_UNITS = {
       "text": "wit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "The talk show host can make a joke about almost anything in just a few seconds. His quick __________ makes the audience laugh from the beginning to the end.",
@@ -1982,7 +2000,8 @@ window.FLASHCARD_UNITS = {
       "text": "youth"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "In the story, a woman with magic powers lives in a dark forest. The __________ turns a lost prince into a frog, and only true love can break the spell.",
@@ -2004,7 +2023,8 @@ window.FLASHCARD_UNITS = {
       "text": "volunteer"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    },
    {
     "question": "In the movie, an old man with a long white beard teaches the boy how to use magic. The kind __________ gives him a special wand and a book of spells.",
@@ -2026,7 +2046,8 @@ window.FLASHCARD_UNITS = {
       "text": "vegetarian"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 73
    },
    {
     "question": "I only have a few coins in my pocket, and the night market does not take cards. Let me stop at the bank to __________ some cash before we go.",
@@ -2048,7 +2069,8 @@ window.FLASHCARD_UNITS = {
       "text": "withdraw"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 76
    },
    {
     "question": "The police want to know exactly how the accident happened on Main Street. They are looking for a __________ who saw the truck hit the motorcycle and drive away.",
@@ -2070,7 +2092,8 @@ window.FLASHCARD_UNITS = {
       "text": "vitamin"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 81
    },
    {
     "question": "My father goes to the gym near our house every morning before work. A thirty-minute __________ gives him energy for the whole day and helps him stay healthy.",
@@ -2092,7 +2115,8 @@ window.FLASHCARD_UNITS = {
       "text": "workplace"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 85
    },
    {
     "question": "Happy workers usually do better jobs than unhappy ones. That is why many companies now try to make the __________ comfortable, with good lighting and quiet areas.",
@@ -2114,7 +2138,8 @@ window.FLASHCARD_UNITS = {
       "text": "yawn"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 88
    },
    {
     "question": "The storm was so strong that it pushed several fishing boats onto the rocks. The waves continued to __________ the boats all night, leaving nothing but broken wood.",
@@ -2136,7 +2161,8 @@ window.FLASHCARD_UNITS = {
       "text": "wreck"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 92
    },
    {
     "question": "The speech had already lasted more than an hour, and the room was warm. Many students began to __________ and look at the clock on the wall.",
@@ -2158,7 +2184,8 @@ window.FLASHCARD_UNITS = {
       "text": "withdraw"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 97
    },
    {
     "question": "My grandmother is seventy-five, but she still dances every weekend and laughs all the time. Her __________ energy surprises everyone who meets her for the first time.",
@@ -2180,7 +2207,8 @@ window.FLASHCARD_UNITS = {
       "text": "youthful"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 100
    },
    {
     "question": "The scientist said she could see a clear picture of the future in her mind. She closed her eyes to __________ the day when clean energy would power every home.",
@@ -2202,7 +2230,8 @@ window.FLASHCARD_UNITS = {
       "text": "wreck"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "Thousands of fans ran into the streets after the team won the final game. Sadly, the celebration turned __________, and several shop windows were broken by midnight.",
@@ -2224,7 +2253,8 @@ window.FLASHCARD_UNITS = {
       "text": "violent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 22
    }
   ]
  }

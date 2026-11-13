@@ -1631,7 +1631,8 @@ window.FLASHCARD_UNITS = {
       "text": "navigate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "The dog sat by the door for days after its owner moved away. Its __________ eyes and low cries made everyone in the family want to hug it.",
@@ -1653,7 +1654,8 @@ window.FLASHCARD_UNITS = {
       "text": "nearsighted"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 1
    },
    {
     "question": "The grass in our front yard has grown almost as tall as my knees. Dad says I have to __________ it this weekend before the neighbors start to complain.",
@@ -1675,7 +1677,8 @@ window.FLASHCARD_UNITS = {
       "text": "mow"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 6
    },
    {
     "question": "Many famous painters had one special person who inspired them. For Picasso, each woman he loved became a __________ who appeared again and again in his pictures.",
@@ -1697,7 +1700,8 @@ window.FLASHCARD_UNITS = {
       "text": "nostril"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 10
    },
    {
     "question": "My uncle stopped shaving above his lip two months ago. Now he has a thick black __________ that makes him look at least ten years older.",
@@ -1719,7 +1723,8 @@ window.FLASHCARD_UNITS = {
       "text": "oath"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "The little boy was so shocked by the loud fireworks that he could not say anything. He stood __________ for a whole minute before he finally started to cry.",
@@ -1741,7 +1746,8 @@ window.FLASHCARD_UNITS = {
       "text": "nosy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 19
    },
    {
     "question": "Mom asks me about my homework at least ten times every evening. I wish she would not __________ me so much and would trust me to finish it on my own.",
@@ -1763,7 +1769,8 @@ window.FLASHCARD_UNITS = {
       "text": "mourn"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "The documentary about sea turtles has beautiful pictures but no actors. A famous singer was invited to __________ the film, and her warm voice explains everything we see.",
@@ -1785,7 +1792,8 @@ window.FLASHCARD_UNITS = {
       "text": "nourish"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "In this novel, the story is told by a young girl. Because the __________ is only ten years old, readers see the war through a child's eyes.",
@@ -1807,7 +1815,8 @@ window.FLASHCARD_UNITS = {
       "text": "navigator"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "In the 1930s, many people in Europe believed their own country was better than every other. This strong __________ led to fear of foreigners and, in the end, to war.",
@@ -1829,7 +1838,8 @@ window.FLASHCARD_UNITS = {
       "text": "navigation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 32
    },
    {
     "question": "Long ago, sailors had no GPS or radio on their ships. At night they had to __________ by the stars, and a cloudy sky could leave them lost at sea.",
@@ -1851,7 +1861,8 @@ window.FLASHCARD_UNITS = {
       "text": "mow"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "Halfway across the ocean, the ship's computer suddenly stopped working. Without its __________ system, the captain had to use a paper map and a compass to find the port.",
@@ -1873,7 +1884,8 @@ window.FLASHCARD_UNITS = {
       "text": "navigation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 39
    },
    {
     "question": "I can read my book without any trouble, but the words on the board look like a gray cloud. The doctor says I am __________ and need glasses for class.",
@@ -1895,7 +1907,8 @@ window.FLASHCARD_UNITS = {
       "text": "notorious"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 43
    },
    {
     "question": "In the United States, people use several small coins in everyday shopping. A __________ is worth five cents, and it is a little bigger than the one-cent coin.",
@@ -1917,7 +1930,8 @@ window.FLASHCARD_UNITS = {
       "text": "nickel"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 48
    },
    {
     "question": "The horse had just finished a long race in the cold morning. Steam came out of each __________ as it breathed hard, and its sides moved up and down.",
@@ -1939,7 +1953,8 @@ window.FLASHCARD_UNITS = {
       "text": "nucleus"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 53
    },
    {
     "question": "The new school rules have a few small changes this year. The most __________ one is that students may now use their phones during the lunch break.",
@@ -1961,7 +1976,8 @@ window.FLASHCARD_UNITS = {
       "text": "naval"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "Nobody likes to drive across the old bridge in the morning. It is __________ for traffic jams, so many people leave home half an hour early to avoid it.",
@@ -1983,7 +1999,8 @@ window.FLASHCARD_UNITS = {
       "text": "naval"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 62
    },
    {
     "question": "After a week in the hospital, Grandma was too weak to eat much. Mom made a soft rice soup with chicken to __________ her until she grew strong again.",
@@ -2005,7 +2022,8 @@ window.FLASHCARD_UNITS = {
       "text": "mow"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 67
    },
    {
     "question": "It was my first time ever on a surfboard. As a __________, I fell into the water again and again, while the other surfers rode wave after wave.",
@@ -2027,7 +2045,8 @@ window.FLASHCARD_UNITS = {
       "text": "narrator"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 73
    },
    {
     "question": "In science class today we learned that every atom has a center. This __________ is extremely small, but it holds almost all of the weight of the atom.",
@@ -2049,7 +2068,8 @@ window.FLASHCARD_UNITS = {
       "text": "nucleus"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 78
    },
    {
     "question": "The old painting shows a young woman standing by a river without any clothes on. Some visitors feel shy in front of __________ figures, but the museum guide says it is normal in art.",
@@ -2071,7 +2091,8 @@ window.FLASHCARD_UNITS = {
       "text": "nearsighted"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 83
    },
    {
     "question": "Lisa showed a love of drawing when she was only three. Her parents decided to __________ this interest by buying her paints and sending her to a weekend art class.",
@@ -2093,7 +2114,8 @@ window.FLASHCARD_UNITS = {
       "text": "mow"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 87
    },
    {
     "question": "The travelers had crossed hot, dry sand for three days. Then, far away, they saw green trees and water—an __________ where they could finally rest and drink.",
@@ -2115,7 +2137,8 @@ window.FLASHCARD_UNITS = {
       "text": "oasis"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 92
    },
    {
     "question": "Before the new mayor could start work, there was a short ceremony. She placed her hand on a book and took an __________ to serve the city honestly.",
@@ -2137,7 +2160,8 @@ window.FLASHCARD_UNITS = {
       "text": "oatmeal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 96
    },
    {
     "question": "My grandmother says a hot breakfast is the best way to start a cold day. She cooks a bowl of __________ with milk and honey for me every winter morning.",
@@ -2159,7 +2183,8 @@ window.FLASHCARD_UNITS = {
       "text": "oatmeal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 102
    },
    {
     "question": "Newborn babies cannot eat rice or vegetables yet. During the first six months of life, milk gives them all the __________ their small bodies need to grow.",
@@ -2181,7 +2206,8 @@ window.FLASHCARD_UNITS = {
       "text": "nationalism"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "Potato chips and soda may taste good, but they are not a healthy lunch. Eggs, fruit, and brown rice are far more __________ and will keep you full longer.",
@@ -2203,7 +2229,8 @@ window.FLASHCARD_UNITS = {
       "text": "nutritious"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "This swimming class is for people who have never been in a pool. The teacher goes slowly, so a __________ like me does not feel embarrassed at all.",
@@ -2225,7 +2252,8 @@ window.FLASHCARD_UNITS = {
       "text": "navigator"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "The movie does not tell its story in order. Its __________ jumps between 1950 and today, which can be confusing the first time you watch it.",
@@ -2247,7 +2275,8 @@ window.FLASHCARD_UNITS = {
       "text": "nutrition"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 30
    },
    {
     "question": "After Grandfather passed away, the family did not go out for a week. During this time of __________, neighbors quietly brought food to the house every evening.",
@@ -2269,7 +2298,8 @@ window.FLASHCARD_UNITS = {
       "text": "navigation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    }
   ]
  }

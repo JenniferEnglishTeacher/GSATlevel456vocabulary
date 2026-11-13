@@ -1421,7 +1421,8 @@ window.FLASHCARD_UNITS = {
       "text": "circuit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Nobody can tell you exactly what the weather will be like next month. We can only guess, because there is no __________ about such things so far ahead.",
@@ -1443,7 +1444,8 @@ window.FLASHCARD_UNITS = {
       "text": "recognition"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "Jenny finished the first-aid course at the Red Cross last month. She now has a __________ that proves she knows how to help someone who stops breathing.",
@@ -1465,7 +1467,8 @@ window.FLASHCARD_UNITS = {
       "text": "citation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "When the fire alarm rang during lunch, hundreds of students ran toward the doors at the same time. There was total __________ in the hall for several minutes.",
@@ -1487,7 +1490,8 @@ window.FLASHCARD_UNITS = {
       "text": "certainty"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 13
    },
    {
     "question": "The hospital is a very busy and noisy place most of the time. However, there is a small, quiet __________ on the second floor where families can go to pray.",
@@ -1509,7 +1513,8 @@ window.FLASHCARD_UNITS = {
       "text": "chapel"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 16
    },
    {
     "question": "People often __________ my hometown as a sleepy little place where nothing ever happens. In fact, it has a busy night market and a great music festival every summer.",
@@ -1531,7 +1536,8 @@ window.FLASHCARD_UNITS = {
       "text": "clarify"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    },
    {
     "question": "This small restaurant is always full on weekends. The __________ learned to cook in Japan for ten years, and now people wait in line for his fresh fish dishes.",
@@ -1553,7 +1559,8 @@ window.FLASHCARD_UNITS = {
       "text": "chef"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 25
    },
    {
     "question": "My sister loves singing with other people. Every Thursday after school, she practices with the school __________, which has forty members and will perform at the Christmas concert.",
@@ -1575,7 +1582,8 @@ window.FLASHCARD_UNITS = {
       "text": "cluster"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 29
    },
    {
     "question": "Ben just started learning the guitar last month. He has learned one new __________ every week, and now he can play some simple pop songs with them.",
@@ -1597,7 +1605,8 @@ window.FLASHCARD_UNITS = {
       "text": "chore"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 33
    },
    {
     "question": "Everyone in my family has a job to do at home every day. Washing the dishes after dinner is my __________, and my brother takes out the trash.",
@@ -1619,7 +1628,8 @@ window.FLASHCARD_UNITS = {
       "text": "chore"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 36
    },
    {
     "question": "My grandmother has had the same back pain for more than ten years. The doctor says it is __________ and that she will need to live with it carefully.",
@@ -1641,7 +1651,8 @@ window.FLASHCARD_UNITS = {
       "text": "civic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 39
    },
    {
     "question": "The baby has big round cheeks and fat little arms. Everyone who sees him in the park wants to pick up such a __________ and happy little child.",
@@ -1663,7 +1674,8 @@ window.FLASHCARD_UNITS = {
       "text": "clinical"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 42
    },
    {
     "question": "Mom cut the big piece of beef into smaller pieces for the soup. Each __________ was about the size of an egg, so it would cook in half an hour.",
@@ -1685,7 +1697,8 @@ window.FLASHCARD_UNITS = {
       "text": "chord"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 46
    },
    {
     "question": "The lamp does not turn on even with a new bulb. The electrician said a wire was broken, so the __________ was not complete and no electricity could flow.",
@@ -1707,7 +1720,8 @@ window.FLASHCARD_UNITS = {
       "text": "certificate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 49
    },
    {
     "question": "You cannot just say that the medicine works without any proof. In your report, you must __________ at least two studies that show the same result.",
@@ -1729,7 +1743,8 @@ window.FLASHCARD_UNITS = {
       "text": "cite"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 54
    },
    {
     "question": "Maria has lived and worked in Taiwan for more than ten years. She passed the language test last spring and finally received her __________ this month.",
@@ -1751,7 +1766,8 @@ window.FLASHCARD_UNITS = {
       "text": "cognition"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "Voting in elections and keeping public parks clean are the duties of every person in a city. Our teacher says that these are the __________ responsibilities that all of us share.",
@@ -1773,7 +1789,8 @@ window.FLASHCARD_UNITS = {
       "text": "civic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "Mr. Wang explains even the hardest math problems in simple steps. Thanks to the __________ of his teaching, every student in the class understands the lesson.",
@@ -1795,7 +1812,8 @@ window.FLASHCARD_UNITS = {
       "text": "chaos"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 65
    },
    {
     "question": "In the sentence \"We stayed inside because it was raining,\" there are two parts. The second __________ tells us the reason why we did not go out.",
@@ -1817,7 +1835,8 @@ window.FLASHCARD_UNITS = {
       "text": "chunk"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 69
    },
    {
     "question": "The little monkey was afraid of the strangers at the zoo. It continued to __________ to its mother's back and would not let go for a long time.",
@@ -1839,7 +1858,8 @@ window.FLASHCARD_UNITS = {
       "text": "clarify"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    },
    {
     "question": "Medical students read many books in their first three years. After that, they begin their __________ training in big hospitals, where they learn by seeing real patients.",
@@ -1861,7 +1881,8 @@ window.FLASHCARD_UNITS = {
       "text": "clinical"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 75
    },
    {
     "question": "From the top of the hill, we could see the whole valley. A small __________ of red-roofed houses stood by the river, with a church in the middle.",
@@ -1883,7 +1904,8 @@ window.FLASHCARD_UNITS = {
       "text": "certainty"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "The police dog smelled something strange in the man's suitcase at the airport. Inside, they found two kilograms of __________ hidden under his clothes, and the man was arrested at once.",
@@ -1905,7 +1927,8 @@ window.FLASHCARD_UNITS = {
       "text": "cognition"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 81
    },
    {
     "question": "The old man died peacefully at the age of ninety-five. At the funeral, his sons carried the wooden __________ slowly out of the church to the cemetery.",
@@ -1927,7 +1950,8 @@ window.FLASHCARD_UNITS = {
       "text": "chapel"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 85
    },
    {
     "question": "Reading, doing puzzles, and learning new skills keep the brain active. Doctors say these activities can slow down the loss of __________ abilities in old age.",
@@ -1949,7 +1973,8 @@ window.FLASHCARD_UNITS = {
       "text": "civic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 89
    },
    {
     "question": "I checked the door twice before we left the house this morning. I am completely __________ that it was locked, so please stop worrying about it.",
@@ -1971,7 +1996,8 @@ window.FLASHCARD_UNITS = {
       "text": "certain"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 5
    },
    {
     "question": "The first day of the sale was crazy. People pushed and shouted, and the shop was so __________ that the manager had to close the doors for an hour.",
@@ -1993,7 +2019,8 @@ window.FLASHCARD_UNITS = {
       "text": "circular"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "I am not sure what the teacher wants us to do for homework. Could you __________ whether we should write one page or two for the book report?",
@@ -2015,7 +2042,8 @@ window.FLASHCARD_UNITS = {
       "text": "cite"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "I had not seen my cousin for almost ten years. When he walked into the room, I did not __________ him at first because he had grown a beard.",
@@ -2037,7 +2065,8 @@ window.FLASHCARD_UNITS = {
       "text": "characterize"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 91
    },
    {
     "question": "To vote in the election next month, you must be over eighteen years old. You must also be a __________ of this country, not just a visitor or a student.",
@@ -2059,7 +2088,8 @@ window.FLASHCARD_UNITS = {
       "text": "character"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 58
    }
   ]
  }

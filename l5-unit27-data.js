@@ -1301,7 +1301,8 @@ window.FLASHCARD_UNITS = {
       "text": "proportion"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "My father bought health insurance for the whole family last year. Every month he pays a __________ of about three thousand dollars to the company, which covers most of our hospital bills.",
@@ -1323,7 +1324,8 @@ window.FLASHCARD_UNITS = {
       "text": "projection"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 3
    },
    {
     "question": "I have had a bad cough for more than a week. The doctor said she would __________ some medicine for me, and I should take it three times a day after meals.",
@@ -1345,7 +1347,8 @@ window.FLASHCARD_UNITS = {
       "text": "prohibit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 7
    },
    {
     "question": "This medicine is very strong, so you cannot simply buy it at a drugstore. You must first see a doctor and bring his written __________ to the pharmacy.",
@@ -1367,7 +1370,8 @@ window.FLASHCARD_UNITS = {
       "text": "proclamation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "Mr. Wang led the country for eight years, and most people say he did a good job. During his __________, the economy grew and many new schools were built.",
@@ -1389,7 +1393,8 @@ window.FLASHCARD_UNITS = {
       "text": "prosecution"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 11
    },
    {
     "question": "The country will choose its new leader in January. Both __________ candidates have been traveling around the island every day to shake hands and talk to voters.",
@@ -1411,7 +1416,8 @@ window.FLASHCARD_UNITS = {
       "text": "prone"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 12
    },
    {
     "question": "The lights in Mr. Lin's office are still on, and his car is in the parking lot. __________, he is still working on the report that is due tomorrow morning.",
@@ -1433,7 +1439,8 @@ window.FLASHCARD_UNITS = {
       "text": "profoundly"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 15
    },
    {
     "question": "You said that you were going to the library after school, and you are not home yet. I __________ that you are still there, so I will keep your dinner warm.",
@@ -1455,7 +1462,8 @@ window.FLASHCARD_UNITS = {
       "text": "prescribe"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 16
    },
    {
     "question": "The two neighbors argued about the broken wall for weeks. In the end, good sense will __________, and they will probably agree to share the cost of fixing it.",
@@ -1477,7 +1485,8 @@ window.FLASHCARD_UNITS = {
       "text": "prohibit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 19
    },
    {
     "question": "The eagle flew in wide circles high above the field for almost an hour. It was watching for any small __________, such as a mouse or a rabbit, moving in the grass.",
@@ -1499,7 +1508,8 @@ window.FLASHCARD_UNITS = {
       "text": "prey"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 23
    },
    {
     "question": "Students cannot use the school hall for a concert whenever they like. They must get __________ permission from the principal at least one week before the event.",
@@ -1521,7 +1531,8 @@ window.FLASHCARD_UNITS = {
       "text": "prone"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 27
    },
    {
     "question": "The war had lasted for ten long years, and the people were tired. When the king stepped onto the balcony to __________ peace, the crowd cheered for several minutes.",
@@ -1543,7 +1554,8 @@ window.FLASHCARD_UNITS = {
       "text": "prosecute"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 31
    },
    {
     "question": "The factory bought new machines and trained the workers to use them. Since then, its __________ has gone up by twenty percent, and the products are of better quality.",
@@ -1565,7 +1577,8 @@ window.FLASHCARD_UNITS = {
       "text": "projection"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    },
    {
     "question": "The school newspaper wanted students to know more about the new principal. It printed a short __________ of her, with her hobbies and the schools where she had taught before.",
@@ -1587,7 +1600,8 @@ window.FLASHCARD_UNITS = {
       "text": "profile"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 39
    },
    {
     "question": "Mr. Lee was my teacher for only one year, but I will never forget him. He had a __________ influence on my life, and I became a teacher because of him.",
@@ -1609,7 +1623,8 @@ window.FLASHCARD_UNITS = {
       "text": "prone"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 43
    },
    {
     "question": "This school is very different from the ones I attended before. Its __________ teachers let students choose their own projects and almost never give any homework on weekends.",
@@ -1631,7 +1646,8 @@ window.FLASHCARD_UNITS = {
       "text": "progressive"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "Too many people have been hurt by fireworks in the city center. The new law will __________ them in all public areas, and anyone caught will pay a heavy fine.",
@@ -1653,7 +1669,8 @@ window.FLASHCARD_UNITS = {
       "text": "prolong"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 52
    },
    {
     "question": "The city government has studied how many babies are born each year. Its latest __________ shows that the number of children in local schools will fall by ten percent by 2040.",
@@ -1675,7 +1692,8 @@ window.FLASHCARD_UNITS = {
       "text": "proportion"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "Grandpa walks for an hour every morning and eats a lot of vegetables. His doctor says these habits may __________ his life by several years, so he never misses a day.",
@@ -1697,7 +1715,8 @@ window.FLASHCARD_UNITS = {
       "text": "prolong"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 60
    },
    {
     "question": "My brother sits in front of a computer for ten hours every day. People like him are __________ to back pain, so he should stand up and stretch every hour.",
@@ -1719,7 +1738,8 @@ window.FLASHCARD_UNITS = {
       "text": "prevailing"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    },
    {
     "question": "During the war, the government controlled every newspaper and radio station. It used __________ to make people believe that the enemy was weak and victory was near.",
@@ -1741,7 +1761,8 @@ window.FLASHCARD_UNITS = {
       "text": "proportion"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 66
    },
    {
     "question": "In the old story, a wise man warned the king that a great flood was coming. Nobody believed the __________ until the rain began and did not stop for forty days.",
@@ -1763,7 +1784,8 @@ window.FLASHCARD_UNITS = {
       "text": "prosecutor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "Our school has about one thousand students, and most of them do not take the bus. A large __________ of them ride bicycles, so the bike parking area is full by eight o'clock.",
@@ -1785,7 +1807,8 @@ window.FLASHCARD_UNITS = {
       "text": "premise"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "The man said he had never been inside the shop on the night of the robbery. However, the __________ showed the jury a video of him taking money from the cash register.",
@@ -1807,7 +1830,8 @@ window.FLASHCARD_UNITS = {
       "text": "propaganda"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "The children could hardly sleep on Friday night. The __________ of spending a whole week at the beach with their cousins was simply too exciting for them.",
@@ -1829,7 +1853,8 @@ window.FLASHCARD_UNITS = {
       "text": "prospect"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 81
    },
    {
     "question": "Hundreds of years ago, an old woman said that a child born in winter would become king. Her __________ came true when the baby prince was born in a snowstorm.",
@@ -1851,7 +1876,8 @@ window.FLASHCARD_UNITS = {
       "text": "prosecution"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "You have a test tomorrow, a report due on Friday, and a basketball game tonight. You need to __________ these things and start with the one that matters most.",
@@ -1873,7 +1899,8 @@ window.FLASHCARD_UNITS = {
       "text": "prioritize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 30
    },
    {
     "question": "Many students at our school have been coughing and sneezing this week. Colds are especially __________ in winter, so please wash your hands often and keep warm.",
@@ -1895,7 +1922,8 @@ window.FLASHCARD_UNITS = {
       "text": "presidential"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 22
    },
    {
     "question": "The teacher wanted to show us a short movie about volcanoes this morning. Unfortunately, the __________ in our classroom was broken, so she just described the pictures to us.",
@@ -1917,7 +1945,8 @@ window.FLASHCARD_UNITS = {
       "text": "projector"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 59
    },
    {
     "question": "This farm in Tainan is not very big, but the soil is rich and the weather is warm. Every year it can __________ enough rice to feed five hundred families.",
@@ -1939,7 +1968,8 @@ window.FLASHCARD_UNITS = {
       "text": "prescribe"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 36
    }
   ]
  }

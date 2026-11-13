@@ -1316,7 +1316,8 @@ window.FLASHCARD_UNITS = {
       "text": "archaeological"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "Before he became a famous chef, Mr. Chen worked as an __________ in a small restaurant. He washed dishes and watched the old cook carefully for three years.",
@@ -1338,7 +1339,8 @@ window.FLASHCARD_UNITS = {
       "text": "astronaut"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "I don't know the exact number of people at the concert. The __________ number is five thousand, but there may be a few more or a few less.",
@@ -1360,7 +1362,8 @@ window.FLASHCARD_UNITS = {
       "text": "approximate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "My cousin loves digging and finding old things from the past. She plans to study __________ in college so that she can learn about ancient cities and people.",
@@ -1382,7 +1385,8 @@ window.FLASHCARD_UNITS = {
       "text": "aviation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 12
    },
    {
     "question": "The library keeps old newspapers from the past one hundred years. If you want to read them, you must ask for help to enter the __________ in the basement.",
@@ -1404,7 +1408,8 @@ window.FLASHCARD_UNITS = {
       "text": "auditorium"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 15
    },
    {
     "question": "Before calculators became common, shopkeepers had to add and subtract numbers in their heads. They were very good at __________ and could count money very quickly.",
@@ -1426,7 +1431,8 @@ window.FLASHCARD_UNITS = {
       "text": "arithmetic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 18
    },
    {
     "question": "The hot-air balloon slowly began to __________ into the sky. Soon the people and houses on the ground looked as small as toys to the passengers in the basket.",
@@ -1448,7 +1454,8 @@ window.FLASHCARD_UNITS = {
       "text": "audit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 21
    },
    {
     "question": "Many young people in this village __________ to become doctors. They study very hard because they want to help the sick people in their hometown one day.",
@@ -1470,7 +1477,8 @@ window.FLASHCARD_UNITS = {
       "text": "aspire"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 25
    },
    {
     "question": "The police found out that a group of men were planning to __________ the president. They caught the men before they could fire a single shot.",
@@ -1492,7 +1500,8 @@ window.FLASHCARD_UNITS = {
       "text": "archive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 29
    },
    {
     "question": "My little brother sometimes has trouble breathing, especially when the air is dirty. He has __________, so he always carries his medicine with him when he goes out to play.",
@@ -1514,7 +1523,8 @@ window.FLASHCARD_UNITS = {
       "text": "archive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "The letter was sent to the wrong address and never arrived. It went __________ somewhere in the mail, so my grandmother never got my birthday card.",
@@ -1536,7 +1546,8 @@ window.FLASHCARD_UNITS = {
       "text": "awfully"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 35
    },
    {
     "question": "Since he was a child, Tom has dreamed of flying into space. He trains very hard because he wants to become an __________ and walk on the moon one day.",
@@ -1558,7 +1569,8 @@ window.FLASHCARD_UNITS = {
       "text": "attendant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 39
    },
    {
     "question": "The __________ spent the whole night looking through her big telescope. She was the first person to find the new star, so it was named after her.",
@@ -1580,7 +1592,8 @@ window.FLASHCARD_UNITS = {
       "text": "archaeologist"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "I love looking at the stars and the moon at night. That is why I joined the __________ club, where we learn about planets and use telescopes every Friday.",
@@ -1602,7 +1615,8 @@ window.FLASHCARD_UNITS = {
       "text": "aviation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 43
    },
    {
     "question": "Jenny practiced the piano for four hours every day. Because of her hard work, she was finally able to __________ her goal of playing in a national concert.",
@@ -1624,7 +1638,8 @@ window.FLASHCARD_UNITS = {
       "text": "attain"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "On the plane, a flight __________ brought us drinks and blankets. She also showed us what to do if there was an emergency during the flight.",
@@ -1646,7 +1661,8 @@ window.FLASHCARD_UNITS = {
       "text": "astronomer"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 50
    },
    {
     "question": "Every year, a group of experts checks the company's money records. This year the __________ found some serious mistakes, so the manager had to explain them.",
@@ -1668,7 +1684,8 @@ window.FLASHCARD_UNITS = {
       "text": "audit"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 54
    },
    {
     "question": "All the students and parents gathered in the school __________ for the graduation ceremony. There were more than one thousand seats, and every one of them was full.",
@@ -1690,7 +1707,8 @@ window.FLASHCARD_UNITS = {
       "text": "attendant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 57
    },
    {
     "question": "The driver turned the wheel quickly to the left. He was able to __________ a serious accident, and nobody on the bus was hurt at all.",
@@ -1712,7 +1730,8 @@ window.FLASHCARD_UNITS = {
       "text": "attain"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 61
    },
    {
     "question": "My uncle has worked for an airline for thirty years. He knows a lot about __________, and he often tells me stories about the history of airplanes.",
@@ -1734,7 +1753,8 @@ window.FLASHCARD_UNITS = {
       "text": "astronomy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 64
    },
    {
     "question": "We went to the top of Taipei 101 last weekend. The view of the whole city at night was __________, and we took hundreds of pictures.",
@@ -1756,7 +1776,8 @@ window.FLASHCARD_UNITS = {
       "text": "approximate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 67
    },
    {
     "question": "The doctor is busy with another patient right now. Please sit down and wait __________, and the nurse will call your name when it is your turn.",
@@ -1778,7 +1799,8 @@ window.FLASHCARD_UNITS = {
       "text": "awfully"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    },
    {
     "question": "My uncle is forty years old and has never been married. He is still a __________, but he says he is happy living alone with his two cats.",
@@ -1800,7 +1822,8 @@ window.FLASHCARD_UNITS = {
       "text": "bachelor"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 76
    },
    {
     "question": "Farmers are the __________ of this small country. Without their hard work, people in the cities would not have enough rice and vegetables to eat every day.",
@@ -1822,7 +1845,8 @@ window.FLASHCARD_UNITS = {
       "text": "badge"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 80
    },
    {
     "question": "Every worker at the hospital must wear a name __________ on his or her shirt. It helps patients and visitors know who they are talking to.",
@@ -1844,7 +1868,8 @@ window.FLASHCARD_UNITS = {
       "text": "archive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 83
    },
    {
     "question": "The high-speed train from Taipei to Kaohsiung takes __________ two hours. It may be a few minutes faster or slower, depending on the weather that day.",
@@ -1866,7 +1891,8 @@ window.FLASHCARD_UNITS = {
       "text": "awhile"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "Ever since she was a little girl, Mary has wanted to help animals. Her greatest __________ is to become a vet and open her own animal hospital in the countryside.",
@@ -1888,7 +1914,8 @@ window.FLASHCARD_UNITS = {
       "text": "aspiration"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 27
    },
    {
     "question": "The price of houses in the city center is __________. Even people with good jobs cannot afford to buy a small apartment there, so many young people live with their parents.",
@@ -1910,7 +1937,8 @@ window.FLASHCARD_UNITS = {
       "text": "asthmatic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "Our teacher takes __________ at the beginning of every class. If you are late more than three times, your parents will receive a phone call from the school.",
@@ -1932,7 +1960,8 @@ window.FLASHCARD_UNITS = {
       "text": "aviation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "The __________ laughed loudly at the funny parts of the play. When it ended, they all stood up and clapped for the actors for five minutes.",
@@ -1954,7 +1983,8 @@ window.FLASHCARD_UNITS = {
       "text": "backbone"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    }
   ]
  }

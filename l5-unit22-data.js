@@ -1481,7 +1481,8 @@ window.FLASHCARD_UNITS = {
       "text": "milestone"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "My back hurt every morning because my bed was too soft. Last month I bought a much harder __________, and now I sleep well and wake up without any pain.",
@@ -1503,7 +1504,8 @@ window.FLASHCARD_UNITS = {
       "text": "molecule"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "The pizza will take about thirty minutes to arrive at our door. In the __________, let's set the table and find a movie that everyone in the family wants to watch.",
@@ -1525,7 +1527,8 @@ window.FLASHCARD_UNITS = {
       "text": "meantime"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "The old clock in the hall stopped working last week. The repairman opened the back and found that a tiny wheel inside the __________ had broken into two pieces.",
@@ -1547,7 +1550,8 @@ window.FLASHCARD_UNITS = {
       "text": "milestone"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 11
    },
    {
     "question": "Grandpa has to take his heart __________ at the same time every morning. The doctor said that missing even one day could be very dangerous for him.",
@@ -1569,7 +1573,8 @@ window.FLASHCARD_UNITS = {
       "text": "migration"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 16
    },
    {
     "question": "When Amy started her first job, an older worker patiently helped her learn everything. She still calls him her __________ and thanks him for her success today.",
@@ -1591,7 +1596,8 @@ window.FLASHCARD_UNITS = {
       "text": "master"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    },
    {
     "question": "Two small banks in our town were losing money every year. Last spring they decided to __________ into one larger bank so that they could share their costs.",
@@ -1613,7 +1619,8 @@ window.FLASHCARD_UNITS = {
       "text": "modify"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 23
    },
    {
     "question": "When the poet calls life \"a long and winding road,\" she does not mean a real road. She is using a __________ to describe the many changes in a person's life.",
@@ -1635,7 +1642,8 @@ window.FLASHCARD_UNITS = {
       "text": "milestone"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "More than seven million people live in the Taipei __________ area. Every morning, trains and buses bring thousands of workers in from the towns around the city.",
@@ -1657,7 +1665,8 @@ window.FLASHCARD_UNITS = {
       "text": "miniature"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "The phone rang in the __________ of our family dinner, and Dad was annoyed. However, it turned out to be good news from my aunt who lives in Canada.",
@@ -1679,7 +1688,8 @@ window.FLASHCARD_UNITS = {
       "text": "mission"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "Every autumn, thousands of birds fly south from Siberia to spend the winter in Taiwan. Scientists follow this __________ to learn how the birds find their way.",
@@ -1701,7 +1711,8 @@ window.FLASHCARD_UNITS = {
       "text": "migration"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 38
    },
    {
     "question": "Last Friday the small shop sold its one-millionth cup of bubble tea. The owner called it an important __________ and gave every worker a day off to celebrate.",
@@ -1723,7 +1734,8 @@ window.FLASHCARD_UNITS = {
       "text": "mattress"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "The museum shows a __________ model of the old city. It is so small that the tallest tower in the whole model is only as high as a pencil on your desk.",
@@ -1745,7 +1757,8 @@ window.FLASHCARD_UNITS = {
       "text": "mocking"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 46
    },
    {
     "question": "The storm was strong, but the damage to our house was __________. Only two roof tiles fell off during the night, and nothing inside the house was broken.",
@@ -1767,7 +1780,8 @@ window.FLASHCARD_UNITS = {
       "text": "mortal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 50
    },
    {
     "question": "Wearing a seat belt cannot stop an accident from happening on the road. However, it can greatly __________ the chance of serious injury if your car crashes.",
@@ -1789,7 +1803,8 @@ window.FLASHCARD_UNITS = {
       "text": "minimize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "My grandmother grows __________ in a pot by the kitchen window. She picks a few fresh leaves to put in her tea, and they give the drink a cool, sweet taste.",
@@ -1811,7 +1826,8 @@ window.FLASHCARD_UNITS = {
       "text": "mode"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 56
    },
    {
     "question": "Dr. Mackay came to Taiwan as a __________ more than a hundred years ago. Besides teaching people about his religion, he also opened schools and a hospital.",
@@ -1833,7 +1849,8 @@ window.FLASHCARD_UNITS = {
       "text": "mentor"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 60
    },
    {
     "question": "The old man fell off his bike and hurt his leg very badly. We could hear him __________ in pain while we waited for the ambulance to arrive at the park.",
@@ -1855,7 +1872,8 @@ window.FLASHCARD_UNITS = {
       "text": "merge"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "Next week we will take a __________ exam that looks exactly like the real test. It will not count toward our grades, but it shows us what we still need to study.",
@@ -1877,7 +1895,8 @@ window.FLASHCARD_UNITS = {
       "text": "moral"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    },
    {
     "question": "My phone was in silent __________ during the movie, so I did not hear my mom calling me. When I got home two hours later, she was really worried about me.",
@@ -1899,7 +1918,8 @@ window.FLASHCARD_UNITS = {
       "text": "midst"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 73
    },
    {
     "question": "The chef's new dish was too spicy for most of the customers. He decided to __________ the recipe by using fewer chili peppers and adding a little honey.",
@@ -1921,7 +1941,8 @@ window.FLASHCARD_UNITS = {
       "text": "mock"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 77
    },
    {
     "question": "Water is made of tiny parts that are much too small for our eyes to see. Each __________ has two hydrogen atoms that are joined to one oxygen atom.",
@@ -1943,7 +1964,8 @@ window.FLASHCARD_UNITS = {
       "text": "molecule"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 81
    },
    {
     "question": "For many years only one company was allowed to sell electricity in the country. Its __________ finally ended when the government let other companies enter the market.",
@@ -1965,7 +1987,8 @@ window.FLASHCARD_UNITS = {
       "text": "migration"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 84
    },
    {
     "question": "Some people think it is fine to download movies for free from the Internet. Others say it is a question of __________, because the people who made the film get nothing.",
@@ -1987,7 +2010,8 @@ window.FLASHCARD_UNITS = {
       "text": "morality"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 87
    },
    {
     "question": "Clean water and vaccines have saved millions of young lives around the world. In the past fifty years, child __________ has dropped sharply in most countries.",
@@ -2009,7 +2033,8 @@ window.FLASHCARD_UNITS = {
       "text": "morality"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 92
    },
    {
     "question": "Lying to your friends might help you avoid trouble today, but it is not the __________ thing to do. Sooner or later, they will find out the truth anyway.",
@@ -2031,7 +2056,8 @@ window.FLASHCARD_UNITS = {
       "text": "mortal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 88
    },
    {
     "question": "The sun began to __________ from behind the dark clouds after the storm. Soon the whole beach was bright again, and the children ran back into the water.",
@@ -2053,7 +2079,8 @@ window.FLASHCARD_UNITS = {
       "text": "emerge"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 26
    },
    {
     "question": "The astronauts spent six months on the space station studying how plants grow without gravity. Their __________ ended safely when their ship landed in the desert.",
@@ -2075,7 +2102,8 @@ window.FLASHCARD_UNITS = {
       "text": "mode"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 62
    },
    {
     "question": "It took my cousin almost three years to __________ the difficult piano piece that he loved. Now he can play the whole thing without even looking at the music.",
@@ -2097,7 +2125,8 @@ window.FLASHCARD_UNITS = {
       "text": "moan"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 1
    },
    {
     "question": "Jane is studying very hard at university because she wants to become a doctor. She hopes to finish her __________ training and then work in a small village hospital.",
@@ -2119,7 +2148,8 @@ window.FLASHCARD_UNITS = {
       "text": "medical"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 19
    }
   ]
  }

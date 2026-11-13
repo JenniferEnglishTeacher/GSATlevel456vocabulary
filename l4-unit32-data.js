@@ -1196,7 +1196,8 @@ window.FLASHCARD_UNITS = {
       "text": "proposal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The hospital answered the phone right away and sent an ambulance in only five minutes. Thanks to their __________ action, the old man's life was saved last night.",
@@ -1218,7 +1219,8 @@ window.FLASHCARD_UNITS = {
       "text": "psychological"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "Many students can spell the word \"comfortable\" correctly. However, their __________ of it is often wrong because they try to say every single letter in the word.",
@@ -1240,7 +1242,8 @@ window.FLASHCARD_UNITS = {
       "text": "prosperity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "Our class wants a longer lunch break. We wrote a __________ to the principal explaining our idea, and she will give us an answer next week.",
@@ -1262,7 +1265,8 @@ window.FLASHCARD_UNITS = {
       "text": "radar"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 13
    },
    {
     "question": "A new high-speed train station opened in the town two years ago. Since then, hotels and restaurants there have begun to __________ as more visitors come.",
@@ -1284,7 +1288,8 @@ window.FLASHCARD_UNITS = {
       "text": "prosper"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 18
    },
    {
     "question": "The country was very poor fifty years ago, but today its people enjoy good jobs and nice homes. Its __________ comes mostly from the computer industry.",
@@ -1306,7 +1311,8 @@ window.FLASHCARD_UNITS = {
       "text": "rainfall"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 19
    },
    {
     "question": "My uncle owns three restaurants and a hotel near the beach. He is the most __________ person in our family, but he still works hard every day.",
@@ -1328,7 +1334,8 @@ window.FLASHCARD_UNITS = {
       "text": "outrageous"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 20
    },
    {
     "question": "Eggs, fish, meat, and beans help your body build strong muscles. Doctors say that growing teenagers need to eat enough __________ every single day to stay healthy.",
@@ -1350,7 +1357,8 @@ window.FLASHCARD_UNITS = {
       "text": "radar"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 23
    },
    {
     "question": "The company wanted to build a big factory right next to the elementary school. Hundreds of parents gathered outside the city hall to __________ against the plan.",
@@ -1372,7 +1380,8 @@ window.FLASHCARD_UNITS = {
       "text": "publish"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 26
    },
    {
     "question": "The young player lost the big game and did not want to leave his room for days. His coach said the problem was __________, not physical.",
@@ -1394,7 +1403,8 @@ window.FLASHCARD_UNITS = {
       "text": "psychological"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 30
    },
    {
     "question": "Emma felt sad and worried for months after she moved to a new city. Her doctor suggested that she talk with a __________ about her feelings.",
@@ -1416,7 +1426,8 @@ window.FLASHCARD_UNITS = {
       "text": "publisher"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "Why do people buy things they do not need? Why do we forget names so quickly? If these questions interest you, you may enjoy studying __________.",
@@ -1438,7 +1449,8 @@ window.FLASHCARD_UNITS = {
       "text": "prosperity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 32
    },
    {
     "question": "The scientist worked on her report for three long years. After its __________ in a famous magazine, doctors around the world began to use her ideas.",
@@ -1460,7 +1472,8 @@ window.FLASHCARD_UNITS = {
       "text": "pursuit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 36
    },
    {
     "question": "The new movie did not need to spend money on advertising. It got a lot of free __________ because two famous singers talked about it on TV.",
@@ -1482,7 +1495,8 @@ window.FLASHCARD_UNITS = {
       "text": "publicity"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 37
    },
    {
     "question": "Jenny has written stories since she was ten years old. Her dream is to __________ a book one day so that people everywhere can read her stories.",
@@ -1504,7 +1518,8 @@ window.FLASHCARD_UNITS = {
       "text": "pursue"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 38
    },
    {
     "question": "A __________ is a company that turns a writer's words into real books. It pays for the printing and then sells the finished books to bookstores.",
@@ -1526,7 +1541,8 @@ window.FLASHCARD_UNITS = {
       "text": "psychologist"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    },
    {
     "question": "Kevin has loved cooking since he was a child. Now he plans to __________ his dream of becoming a chef by studying at a cooking school in France.",
@@ -1548,7 +1564,8 @@ window.FLASHCARD_UNITS = {
       "text": "protest"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 43
    },
    {
     "question": "Some people work day and night just to get rich. However, in their __________ of more money, they often forget about their family and their own health.",
@@ -1570,7 +1587,8 @@ window.FLASHCARD_UNITS = {
       "text": "pursuit"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 45
    },
    {
     "question": "My brother and I had a big __________ about who should wash the dishes. In the end, Mom was angry at both of us and washed them herself.",
@@ -1592,7 +1610,8 @@ window.FLASHCARD_UNITS = {
       "text": "raisin"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "The nights in the mountains are much colder than in the city. Grandma put a thick __________ on my bed so that I would not feel cold.",
@@ -1614,7 +1633,8 @@ window.FLASHCARD_UNITS = {
       "text": "quotation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 52
    },
    {
     "question": "\"Practice makes perfect\" is a famous __________ that our English teacher writes on the board every week. She wants us to practice speaking English every single day.",
@@ -1636,7 +1656,8 @@ window.FLASHCARD_UNITS = {
       "text": "quotation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 56
    },
    {
     "question": "The airport uses __________ to watch the sky and know where every plane is. Without it, planes would not be able to land safely at night.",
@@ -1658,7 +1679,8 @@ window.FLASHCARD_UNITS = {
       "text": "protein"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 60
    },
    {
     "question": "When the man found that someone had hit his new car and driven away, he shouted and kicked the wall. He was shaking with __________ for an hour.",
@@ -1680,7 +1702,8 @@ window.FLASHCARD_UNITS = {
       "text": "rainfall"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "It did not rain for three months in the south this year. The low __________ has dried up the rivers, and farmers cannot water their fields.",
@@ -1702,7 +1725,8 @@ window.FLASHCARD_UNITS = {
       "text": "rainfall"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "A __________ is a grape that has been dried in the sun until it becomes small, sweet, and brown. People often put them in bread, cookies, and cereal.",
@@ -1724,7 +1748,8 @@ window.FLASHCARD_UNITS = {
       "text": "quilt"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "Students who finish the reading program will get a small prize. The school hopes this will __________ reading and get more children to open books during the summer vacation.",
@@ -1746,7 +1771,8 @@ window.FLASHCARD_UNITS = {
       "text": "promote"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 2
    },
    {
     "question": "Before you give a speech, you should learn how to __________ all the difficult words. If you say them wrong, people in the audience may not understand you.",
@@ -1768,7 +1794,8 @@ window.FLASHCARD_UNITS = {
       "text": "publicize"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 10
    },
    {
     "question": "Our team worked for six months on the new shopping app. Finally, our boss said she was ready to __________ the plan to the company president next Monday.",
@@ -1790,7 +1817,8 @@ window.FLASHCARD_UNITS = {
       "text": "quarrel"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "The restaurant charged us 300 dollars for a small glass of water that cost nothing to make. Everyone at the table agreed that the price was __________.",
@@ -1812,7 +1840,8 @@ window.FLASHCARD_UNITS = {
       "text": "prosperous"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 69
    },
    {
     "question": "The weather in Keelung is very different from the weather in Taichung. It is __________ most of the year, so people there always carry an umbrella in their bags.",
@@ -1834,7 +1863,8 @@ window.FLASHCARD_UNITS = {
       "text": "promotional"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    }
   ]
  }

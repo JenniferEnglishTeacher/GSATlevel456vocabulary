@@ -1436,7 +1436,8 @@ window.FLASHCARD_UNITS = {
       "text": "sheriff"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "Be careful with that old mirror when you carry it downstairs. If you drop it, the glass will __________ into hundreds of sharp pieces that are hard to clean up.",
@@ -1458,7 +1459,8 @@ window.FLASHCARD_UNITS = {
       "text": "shiver"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "Every spring my dog loses a lot of hair, and I find it all over the sofa. Many animals __________ their winter coats when the weather starts to get warm.",
@@ -1480,7 +1482,8 @@ window.FLASHCARD_UNITS = {
       "text": "shed"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 7
    },
    {
     "question": "Nobody planned to meet at the train station that day. It was by __________ chance that I ran into my old teacher, whom I had not seen for ten years.",
@@ -1502,7 +1505,8 @@ window.FLASHCARD_UNITS = {
       "text": "shattered"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 11
    },
    {
     "question": "In the small town in the movie, there is no big police station. One brave __________ and his helper keep the peace and chase the bad guys on horseback.",
@@ -1524,7 +1528,8 @@ window.FLASHCARD_UNITS = {
       "text": "sheriff"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 14
    },
    {
     "question": "The sun was very strong at the beach this afternoon. Mom held up a big towel to __________ the baby from the heat while we set up the umbrella.",
@@ -1546,7 +1551,8 @@ window.FLASHCARD_UNITS = {
       "text": "shatter"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 17
    },
    {
     "question": "The swimming pool water was much colder than we expected. After only five minutes, the children climbed out and began to __________ until we wrapped them in warm towels.",
@@ -1568,7 +1574,8 @@ window.FLASHCARD_UNITS = {
       "text": "shuttle"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 21
    },
    {
     "question": "It has not rained in the south for three months. Because of the water __________, people there can only use water for a few hours each day.",
@@ -1590,7 +1597,8 @@ window.FLASHCARD_UNITS = {
       "text": "slot"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "The concert crowd was moving toward the stage, and everyone wanted to be in front. People began to __________ each other, and a girl fell and hurt her arm.",
@@ -1612,7 +1620,8 @@ window.FLASHCARD_UNITS = {
       "text": "shove"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 29
    },
    {
     "question": "I asked Tom if he knew why our teacher was absent today. He did not say a word and only answered with a __________ of his shoulders, so I guess he had no idea.",
@@ -1634,7 +1643,8 @@ window.FLASHCARD_UNITS = {
       "text": "slap"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "You do not need a taxi to get from the airport to the hotel. A free __________ leaves from Gate 3 every fifteen minutes and takes you right to the front door.",
@@ -1656,7 +1666,8 @@ window.FLASHCARD_UNITS = {
       "text": "shuttle"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 35
    },
    {
     "question": "Lisa is the only child in her family, so she never had to share a room. Her friend Amy, on the other hand, has a younger __________ who borrows her clothes without asking.",
@@ -1678,7 +1689,8 @@ window.FLASHCARD_UNITS = {
       "text": "sheriff"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 40
    },
    {
     "question": "The enemy soldiers surrounded the castle and let nobody go in or out. After a __________ of six months, the hungry people inside finally opened the gates and gave up.",
@@ -1700,7 +1712,8 @@ window.FLASHCARD_UNITS = {
       "text": "skeleton"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 43
    },
    {
     "question": "The museum has a complete set of dinosaur bones from head to tail. The giant __________ stands in the main hall and is taller than a two-story house.",
@@ -1722,7 +1735,8 @@ window.FLASHCARD_UNITS = {
       "text": "shield"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 46
    },
    {
     "question": "A helmet is the most important thing to wear when you ride a bike. In a fall, it protects your __________ and the brain inside it from serious injury.",
@@ -1744,7 +1758,8 @@ window.FLASHCARD_UNITS = {
       "text": "skeleton"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 50
    },
    {
     "question": "Grandpa fell asleep in his chair after lunch. Please close the door gently and do not __________ it, or the loud noise will wake him up right away.",
@@ -1766,7 +1781,8 @@ window.FLASHCARD_UNITS = {
       "text": "slap"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 53
    },
    {
     "question": "A mosquito landed on my arm while I was reading in the garden. I tried to __________ it with my hand, but it flew away before I could hit it.",
@@ -1788,7 +1804,8 @@ window.FLASHCARD_UNITS = {
       "text": "sniff"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "Long ago, some people were bought and sold like animals and forced to work without pay. Today __________ is against the law in every country in the world.",
@@ -1810,7 +1827,8 @@ window.FLASHCARD_UNITS = {
       "text": "shortage"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 60
    },
    {
     "question": "The drink machine does not take paper money. Put your coins into the __________ at the top, then press the button for the drink you want.",
@@ -1832,7 +1850,8 @@ window.FLASHCARD_UNITS = {
       "text": "slot"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 64
    },
    {
     "question": "The firefighters could not open the locked front door of the burning house. They had to __________ a window with an axe to get inside and save the family.",
@@ -1854,7 +1873,8 @@ window.FLASHCARD_UNITS = {
       "text": "shrug"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 69
    },
    {
     "question": "The air in the city was gray and smelled of car exhaust all week. The __________ was so thick that doctors told old people and children to stay indoors.",
@@ -1876,7 +1896,8 @@ window.FLASHCARD_UNITS = {
       "text": "slot"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 73
    },
    {
     "question": "Watch your bag carefully in the crowded night market. Thieves on motorcycles sometimes __________ purses from women's shoulders and ride away before anyone can stop them.",
@@ -1898,7 +1919,8 @@ window.FLASHCARD_UNITS = {
       "text": "shuttle"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 77
    },
    {
     "question": "Jack was not allowed to go out after ten o'clock on school nights. Last night he tried to __________ out of the house quietly, but his mother heard the door.",
@@ -1920,7 +1942,8 @@ window.FLASHCARD_UNITS = {
       "text": "sneak"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 81
    },
    {
     "question": "Dogs have a much better sense of smell than people do. At the airport, a police dog will __________ every suitcase to find things that should not be there.",
@@ -1942,7 +1965,8 @@ window.FLASHCARD_UNITS = {
       "text": "shiver"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 86
    },
    {
     "question": "These dried beans are too hard to cook right away. You should __________ them in a bowl of water for at least eight hours before you put them in the pot.",
@@ -1964,7 +1988,8 @@ window.FLASHCARD_UNITS = {
       "text": "snatch"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 90
    },
    {
     "question": "If you walk along the main road, it takes twenty minutes to get to school. Take the __________ through the park instead, and you will be there in ten.",
@@ -1986,7 +2011,8 @@ window.FLASHCARD_UNITS = {
       "text": "shortcut"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 28
    },
    {
     "question": "My brother hid the TV remote so I could not change the channel during his game. That was a __________ trick, and I made him promise never to do it again.",
@@ -2008,7 +2034,8 @@ window.FLASHCARD_UNITS = {
       "text": "smoggy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 83
    },
    {
     "question": "The speech was supposed to last an hour, but the meeting started very late. The speaker had to __________ it to twenty minutes so that everyone could leave on time.",
@@ -2030,7 +2057,8 @@ window.FLASHCARD_UNITS = {
       "text": "shatter"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "Heavy rain was falling as we drove home on the highway last night. Dad turned the wipers to high speed so he could see through the __________ clearly.",
@@ -2052,7 +2080,8 @@ window.FLASHCARD_UNITS = {
       "text": "skeleton"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    },
    {
     "question": "There is only one piece of cake left, and both children want it. Mom told them to __________ it, so she cut it into two equal pieces.",
@@ -2074,7 +2103,8 @@ window.FLASHCARD_UNITS = {
       "text": "shove"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 1
    }
   ]
  }

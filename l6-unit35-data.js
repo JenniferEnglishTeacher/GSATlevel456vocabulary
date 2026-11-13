@@ -1406,7 +1406,8 @@ window.FLASHCARD_UNITS = {
       "text": "starvation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "When the young singer walked onto the dark stage, a bright light suddenly shone on her face. She stood in the __________ and sang her first song.",
@@ -1428,7 +1429,8 @@ window.FLASHCARD_UNITS = {
       "text": "strait"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Peter failed his first English test, but his teacher told him that she still believed in him. Her kind words seemed to __________ him to study harder, and he passed the next one.",
@@ -1450,7 +1452,8 @@ window.FLASHCARD_UNITS = {
       "text": "stun"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "After the earthquake, the doctors worked all night long to keep the badly injured man alive. By early morning, they were finally able to __________ his heart rate.",
@@ -1472,7 +1475,8 @@ window.FLASHCARD_UNITS = {
       "text": "stroll"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "The runner was so tired at the end of the marathon that he could hardly stand up. He began to __________ toward the finish line like a sleepy man.",
@@ -1494,7 +1498,8 @@ window.FLASHCARD_UNITS = {
       "text": "stagger"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 16
    },
    {
     "question": "People in most Asian countries eat rice with almost every meal. It is the __________ food of the region, just as bread is in many parts of Europe.",
@@ -1516,7 +1521,8 @@ window.FLASHCARD_UNITS = {
       "text": "stylish"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "There was no rain for six months, and the grass and crops all died. Thousands of farm animals died of __________ because there was nothing left to eat.",
@@ -1538,7 +1544,8 @@ window.FLASHCARD_UNITS = {
       "text": "stature"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 25
    },
    {
     "question": "The old leader was respected by both political parties because he always put the country before himself. People still call him the greatest __________ in our history.",
@@ -1560,7 +1567,8 @@ window.FLASHCARD_UNITS = {
       "text": "stylist"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 29
    },
    {
     "question": "A tree fell across the tracks during the storm last night. The train stayed __________ for almost an hour until workers were able to move it away.",
@@ -1582,7 +1590,8 @@ window.FLASHCARD_UNITS = {
       "text": "stationary"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 33
    },
    {
     "question": "On the first day of school, every new student receives a bag with notebooks, pencils, and a ruler. The school buys this __________ from a shop near the gate.",
@@ -1604,7 +1613,8 @@ window.FLASHCARD_UNITS = {
       "text": "stimulus"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 37
    },
    {
     "question": "Although the basketball player is small in __________, he is faster than everyone else on the court. The taller players can never catch him when he runs.",
@@ -1626,7 +1636,8 @@ window.FLASHCARD_UNITS = {
       "text": "statute"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 40
    },
    {
     "question": "Under a new __________ passed last month, every restaurant must show its prices clearly on the menu. Shops that break this law will have to pay a fine.",
@@ -1648,7 +1659,8 @@ window.FLASHCARD_UNITS = {
       "text": "stroller"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 44
    },
    {
     "question": "Mr. Lin married a woman who already had a young son from her first marriage. He loves the boy and treats his __________ just like his own children.",
@@ -1670,7 +1682,8 @@ window.FLASHCARD_UNITS = {
       "text": "stapler"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 47
    },
    {
     "question": "After my parents got divorced, my mother married a kind man named Mr. Wang. He is my __________, and he taught me how to ride a bike.",
@@ -1692,7 +1705,8 @@ window.FLASHCARD_UNITS = {
       "text": "stepsister"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 48
    },
    {
     "question": "In many old stories, the woman who marries a girl's father after her mother dies is cruel. In real life, however, a __________ can be very loving.",
@@ -1714,7 +1728,8 @@ window.FLASHCARD_UNITS = {
       "text": "sportswoman"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 49
    },
    {
     "question": "Babies learn faster when parents talk, sing, and play with them every day. Doctors say that young children need this kind of __________ to grow well.",
@@ -1736,7 +1751,8 @@ window.FLASHCARD_UNITS = {
       "text": "starvation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 53
    },
    {
     "question": "Ships must move slowly through this narrow area of sea between the two islands. The water in the __________ is shallow, and rocks are hard to see at night.",
@@ -1758,7 +1774,8 @@ window.FLASHCARD_UNITS = {
       "text": "strait"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "Too many rules can stop students from thinking of new ideas on their own. The art teacher believes that giving them strict directions will only __________ their creativity.",
@@ -1780,7 +1797,8 @@ window.FLASHCARD_UNITS = {
       "text": "stabilize"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    },
    {
     "question": "A thin dog with no collar followed us home from the park yesterday. It was clearly a __________ animal, so we gave it food and called the shelter.",
@@ -1802,7 +1820,8 @@ window.FLASHCARD_UNITS = {
       "text": "statutory"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "My brother is very tall and takes long steps when he walks. With his long __________, he crosses the field in half the time it takes me.",
@@ -1824,7 +1843,8 @@ window.FLASHCARD_UNITS = {
       "text": "stutter"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 67
    },
    {
     "question": "After dinner every day, my grandparents like to take a slow, relaxed walk along the river. This short evening __________ helps them relax and sleep better at night.",
@@ -1846,7 +1866,8 @@ window.FLASHCARD_UNITS = {
       "text": "stroll"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "Nobody expected the small school to close so suddenly. The news seemed to __________ the teachers, and none of them could say a word for a minute.",
@@ -1868,7 +1889,8 @@ window.FLASHCARD_UNITS = {
       "text": "stroll"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 75
    },
    {
     "question": "When the teacher asked the nervous boy to read aloud, he had trouble saying the first words. He began to __________ and his face turned red.",
@@ -1890,7 +1912,8 @@ window.FLASHCARD_UNITS = {
       "text": "strangle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 79
    },
    {
     "question": "My aunt always wears clothes that look fashionable and attractive, and people often ask where she shops. Even in simple jeans and a white shirt, she looks very __________.",
@@ -1912,7 +1935,8 @@ window.FLASHCARD_UNITS = {
       "text": "stylish"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 83
    },
    {
     "question": "Whether a painting is beautiful or not depends on each person's own feelings and taste. Judging art is always __________, so there is never a single right answer.",
@@ -1934,7 +1958,8 @@ window.FLASHCARD_UNITS = {
       "text": "stunned"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 88
    },
    {
     "question": "My parents want me to find a job with a regular salary that will not change from month to month. They think a __________ income is the most important thing.",
@@ -1956,7 +1981,8 @@ window.FLASHCARD_UNITS = {
       "text": "stable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 13
    },
    {
     "question": "Many small birds cannot find any food in winter when deep snow covers the ground for weeks. My grandmother puts seeds outside every morning so that they will not __________.",
@@ -1978,7 +2004,8 @@ window.FLASHCARD_UNITS = {
       "text": "stagger"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "From the hotel balcony we could see the whole bay and the mountains turning gold at sunset. The view was so __________ that nobody wanted to go inside.",
@@ -2000,7 +2027,8 @@ window.FLASHCARD_UNITS = {
       "text": "stunning"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 78
    },
    {
     "question": "Hotels and restaurants in the beach towns have been almost empty since the pandemic began. The government hopes that a new long holiday will __________ tourism and bring visitors back.",
@@ -2022,7 +2050,8 @@ window.FLASHCARD_UNITS = {
       "text": "stutter"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 54
    },
    {
     "question": "My sister wanted a new haircut for the hot summer, so she went to a famous salon. The __________ suggested a short style, and she loved the result.",
@@ -2044,7 +2073,8 @@ window.FLASHCARD_UNITS = {
       "text": "stepchild"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 87
    }
   ]
  }

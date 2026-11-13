@@ -1361,7 +1361,8 @@ window.FLASHCARD_UNITS = {
       "text": "grief"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "My sister spent three months looking for the perfect dress for her wedding. She finally chose a long white __________ with tiny flowers sewn on the sleeves.",
@@ -1383,7 +1384,8 @@ window.FLASHCARD_UNITS = {
       "text": "gown"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "The dancer moved across the stage so lightly that she seemed to float on air. Everyone in the audience was amazed by her beauty and __________.",
@@ -1405,7 +1407,8 @@ window.FLASHCARD_UNITS = {
       "text": "grief"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "Swans look heavy and slow when they walk on land. However, when they move across the water, they are the most __________ birds you will ever see.",
@@ -1427,7 +1430,8 @@ window.FLASHCARD_UNITS = {
       "text": "greasy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "Even after losing the final match, the tennis star smiled and shook hands with the winner. Reporters praised her for being so __________ and polite in defeat.",
@@ -1449,7 +1453,8 @@ window.FLASHCARD_UNITS = {
       "text": "handwritten"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 10
    },
    {
     "question": "After four years of hard work, Lisa will finish university next June. Her whole family is flying in from Canada to attend her __________ and celebrate with her.",
@@ -1471,7 +1476,8 @@ window.FLASHCARD_UNITS = {
       "text": "guarantee"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 14
    },
    {
     "question": "Kevin knows thousands of English words, but his sentences are often hard to understand. His teacher says he should spend more time studying __________ and less on vocabulary.",
@@ -1493,7 +1499,8 @@ window.FLASHCARD_UNITS = {
       "text": "handwriting"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 19
    },
    {
     "question": "Your essay has interesting ideas and a clear structure, which I really like. However, there are several __________ mistakes, such as wrong verb tenses, that you need to fix.",
@@ -1515,7 +1522,8 @@ window.FLASHCARD_UNITS = {
       "text": "graceful"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    },
    {
     "question": "The science teacher asked us to measure the temperature every hour for a whole day. Then we drew a __________ to show how it rose in the afternoon and fell at night.",
@@ -1537,7 +1545,8 @@ window.FLASHCARD_UNITS = {
       "text": "gulf"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 23
    },
    {
     "question": "When I was sick in the hospital, my best friend visited me every single day. I am so __________ to her that I do not know how to thank her enough.",
@@ -1559,7 +1568,8 @@ window.FLASHCARD_UNITS = {
       "text": "guilty"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 28
    },
    {
     "question": "The old man had no family, so the neighbors took turns bringing him dinner every evening. To show his __________, he carved a small wooden bird for each of them.",
@@ -1581,7 +1591,8 @@ window.FLASHCARD_UNITS = {
       "text": "grammar"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 29
    },
    {
     "question": "The doctor came out of the operating room with a serious look on his face. He told the family that the patient's condition was __________ and that they should stay close.",
@@ -1603,7 +1614,8 @@ window.FLASHCARD_UNITS = {
       "text": "grave"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 34
    },
    {
     "question": "Jack ate three pieces of fried chicken with his fingers and then touched his phone. Now the screen is so __________ that he can hardly see the words on it.",
@@ -1625,7 +1637,8 @@ window.FLASHCARD_UNITS = {
       "text": "grateful"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 39
    },
    {
     "question": "In Japan, people bow when they meet, while in France friends often kiss each other on the cheek. Every culture has its own special __________ for saying hello.",
@@ -1647,7 +1660,8 @@ window.FLASHCARD_UNITS = {
       "text": "graduation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 42
    },
    {
     "question": "Mrs. Lee's dog had been with her for sixteen years before it died last month. Her __________ was so deep that she could not even look at its empty bed.",
@@ -1669,7 +1683,8 @@ window.FLASHCARD_UNITS = {
       "text": "grief"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "My grandfather never buys coffee powder from the supermarket because he says it has no smell. Every morning, he likes to __________ the beans himself before he makes a cup.",
@@ -1691,7 +1706,8 @@ window.FLASHCARD_UNITS = {
       "text": "greet"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "Studying hard for a test does not always mean you will get a perfect score. Still, good preparation can __________ that you will not be surprised by any of the questions.",
@@ -1713,7 +1729,8 @@ window.FLASHCARD_UNITS = {
       "text": "guarantee"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 55
    },
    {
     "question": "Amy's parents died in a car accident when she was only five years old. Her aunt became her __________ and took care of her until she finished college.",
@@ -1735,7 +1752,8 @@ window.FLASHCARD_UNITS = {
       "text": "guard"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 60
    },
    {
     "question": "Ben broke his mother's favorite cup and hid the pieces in the trash without telling her. For days, the __________ made him unable to look her in the eye.",
@@ -1757,7 +1775,8 @@ window.FLASHCARD_UNITS = {
       "text": "guilt"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 65
    },
    {
     "question": "After a long trial, the judge read the final decision to the court. The man was found __________ of stealing money from the company and was sent to prison.",
@@ -1779,7 +1798,8 @@ window.FLASHCARD_UNITS = {
       "text": "gracious"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 66
    },
    {
     "question": "Hundreds of fishing boats go out from the small port every morning. They catch fish in the warm, shallow waters of the __________ and return before the sun sets.",
@@ -1801,7 +1821,8 @@ window.FLASHCARD_UNITS = {
       "text": "graveyard"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 69
    },
    {
     "question": "Peter is late for class almost every day, and his excuses are always the same. The teacher is tired of his __________ lateness and has called his parents.",
@@ -1823,7 +1844,8 @@ window.FLASHCARD_UNITS = {
       "text": "grave"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 72
    },
    {
     "question": "The train was moving fast when the driver suddenly saw a cow standing on the tracks. He hit the brakes, and the train came to a __________ just in time.",
@@ -1845,7 +1867,8 @@ window.FLASHCARD_UNITS = {
       "text": "gulf"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 77
    },
    {
     "question": "I found an old letter in my grandmother's drawer, but I could not read most of it. Her __________ was so small and curly that the words looked like little waves.",
@@ -1867,7 +1890,8 @@ window.FLASHCARD_UNITS = {
       "text": "greeting"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 81
    },
    {
     "question": "Mr. Huang grew up in a poor village where there was often not enough food. He says the __________ of those years taught him never to waste anything.",
@@ -1889,7 +1913,8 @@ window.FLASHCARD_UNITS = {
       "text": "hardship"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 84
    },
    {
     "question": "My brother is in his last year of high school, and he studies very hard every night. He hopes to __________ with top grades and get into a good university.",
@@ -1911,7 +1936,8 @@ window.FLASHCARD_UNITS = {
       "text": "grind"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 15
    },
    {
     "question": "In our school, the principal stands at the gate every morning at seven thirty. He likes to __________ each student with a smile and a friendly hello.",
@@ -1933,7 +1959,8 @@ window.FLASHCARD_UNITS = {
       "text": "greet"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 44
    },
    {
     "question": "Lily checks her phone the moment she wakes up, even before she gets out of bed. She knows this is a bad __________, but she finds it very hard to stop.",
@@ -1955,7 +1982,8 @@ window.FLASHCARD_UNITS = {
       "text": "grief"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 73
    },
    {
     "question": "When the famous singer died suddenly at the age of thirty, fans around the world were shocked. Thousands gathered outside his home to __________ together and light candles.",
@@ -1977,7 +2005,8 @@ window.FLASHCARD_UNITS = {
       "text": "guard"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "The fog was so thick on the mountain road this morning that drivers turned on their lights. Even then, they could __________ see the car in front of them.",
@@ -1999,7 +2028,8 @@ window.FLASHCARD_UNITS = {
       "text": "gravely"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 87
    }
   ]
  }

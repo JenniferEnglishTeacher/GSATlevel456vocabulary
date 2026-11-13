@@ -1256,7 +1256,8 @@ window.FLASHCARD_UNITS = {
       "text": "privacy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "I want to send this heavy box of books to my cousin in Canada. The clerk said the __________ would cost more than the books themselves.",
@@ -1278,7 +1279,8 @@ window.FLASHCARD_UNITS = {
       "text": "postage"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 5
    },
    {
     "question": "The old bridge has cracks in it, and heavy trucks still cross it every day. Engineers warned the city about the __________ danger before someone gets hurt.",
@@ -1300,7 +1302,8 @@ window.FLASHCARD_UNITS = {
       "text": "primitive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "The new watch is never late, not even by a second. Scientists need such __________ tools when they measure the speed of light in their experiments.",
@@ -1322,7 +1325,8 @@ window.FLASHCARD_UNITS = {
       "text": "prime"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 13
    },
    {
     "question": "Weather reports are much better than they were fifty years ago. Today scientists can __________ a typhoon's path several days before it reaches the island of Taiwan.",
@@ -1344,7 +1348,8 @@ window.FLASHCARD_UNITS = {
       "text": "predict"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 17
    },
    {
     "question": "Last month, the old fisherman said we would have a very wet summer. His __________ came true, because it has rained almost every day since June.",
@@ -1366,7 +1371,8 @@ window.FLASHCARD_UNITS = {
       "text": "presentation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 18
    },
    {
     "question": "During the nine months before her baby was born, my aunt ate carefully and walked every day. Her doctor said she had a very healthy __________.",
@@ -1388,7 +1394,8 @@ window.FLASHCARD_UNITS = {
       "text": "pregnancy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 22
    },
    {
     "question": "Mrs. Chen is going to have a baby in March, so her stomach is getting bigger. Since she is __________, she should not carry heavy boxes at work.",
@@ -1410,7 +1417,8 @@ window.FLASHCARD_UNITS = {
       "text": "prominent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 23
    },
    {
     "question": "Each group has to stand in front of the class and explain its science project. Our __________ will use ten slides and a short video to show our results.",
@@ -1432,7 +1440,8 @@ window.FLASHCARD_UNITS = {
       "text": "prevention"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 25
    },
    {
     "question": "The 300-year-old temple is in danger of falling down. The city has spent millions of dollars on the __________ of this important and beautiful historical building.",
@@ -1454,7 +1463,8 @@ window.FLASHCARD_UNITS = {
       "text": "prediction"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 29
    },
    {
     "question": "Before there were refrigerators, people used salt and sunlight to keep fish from going bad. These old ways to __________ food are still used in some villages.",
@@ -1476,7 +1486,8 @@ window.FLASHCARD_UNITS = {
       "text": "prevent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 30
    },
    {
     "question": "Washing your hands often and wearing a mask on the bus can stop many illnesses before they start. Doctors always say that __________ is better than cure.",
@@ -1498,7 +1509,8 @@ window.FLASHCARD_UNITS = {
       "text": "prevention"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 33
    },
    {
     "question": "Our restaurant is on the busiest corner of the night market, right next to the MRT exit. This __________ location brings us hundreds of customers every evening.",
@@ -1520,7 +1532,8 @@ window.FLASHCARD_UNITS = {
       "text": "pregnant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 37
    },
    {
     "question": "Thousands of years ago, people lived in caves and made tools from stones and bones. Life in those __________ times was hard, and few people lived past forty.",
@@ -1542,7 +1555,8 @@ window.FLASHCARD_UNITS = {
       "text": "professional"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "With exams only two weeks away, Linda has stopped watching TV and playing games. Right now, studying is her top __________, and everything else can wait.",
@@ -1564,7 +1578,8 @@ window.FLASHCARD_UNITS = {
       "text": "prediction"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "My little sister reads my diary and tells my parents everything I write. I wish she would respect my __________ and stay out of my room.",
@@ -1586,7 +1601,8 @@ window.FLASHCARD_UNITS = {
       "text": "postage"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 49
    },
    {
     "question": "Only the top three students in each grade may use the special reading room. Jenny says it is a great __________ to study in such a quiet place.",
@@ -1608,7 +1624,8 @@ window.FLASHCARD_UNITS = {
       "text": "privilege"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 53
    },
    {
     "question": "Before the flight, the passengers must check in, show their passports, and put their bags through a machine. This __________ takes about an hour at a busy airport.",
@@ -1630,7 +1647,8 @@ window.FLASHCARD_UNITS = {
       "text": "preservation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 56
    },
    {
     "question": "The teacher waited until the room was completely quiet. Then she told us to __________ with the test and reminded us that we had only forty minutes.",
@@ -1652,7 +1670,8 @@ window.FLASHCARD_UNITS = {
       "text": "preserve"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 57
    },
    {
     "question": "I finished my homework, cleaned my room, and read fifty pages of a book before noon. It was the most __________ morning I have had all year.",
@@ -1674,7 +1693,8 @@ window.FLASHCARD_UNITS = {
       "text": "pregnant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 61
    },
    {
     "question": "Teaching is hard work, but my aunt says she would never do anything else. She loves her __________ because she can watch her students grow year after year.",
@@ -1696,7 +1716,8 @@ window.FLASHCARD_UNITS = {
       "text": "postage"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "Joe used to play basketball only on weekends with his friends. Now he gets paid to play for a team in the city, so he is a __________ player.",
@@ -1718,7 +1739,8 @@ window.FLASHCARD_UNITS = {
       "text": "precise"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 67
    },
    {
     "question": "My uncle opened a small bubble tea shop near the university two years ago. The business has been so __________ that he is now opening a second shop.",
@@ -1740,7 +1762,8 @@ window.FLASHCARD_UNITS = {
       "text": "profitable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "Dr. Lee has written five books and is often invited to speak on television about science. She is one of the most __________ scientists in Taiwan today.",
@@ -1762,7 +1785,8 @@ window.FLASHCARD_UNITS = {
       "text": "precise"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "Kevin is only fifteen, but he already plays the violin better than most adults. His teacher says he is the most __________ young musician she has ever taught.",
@@ -1784,7 +1808,8 @@ window.FLASHCARD_UNITS = {
       "text": "primitive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "A good doctor needs more than knowledge from books. He or she must also __________ the patience to listen carefully to every patient's story, no matter how long it is.",
@@ -1806,7 +1831,8 @@ window.FLASHCARD_UNITS = {
       "text": "preserve"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 2
    },
    {
     "question": "The new fence around the pool is nearly two meters high and has a lock on the gate. It is there to __________ small children from falling into the water.",
@@ -1828,7 +1854,8 @@ window.FLASHCARD_UNITS = {
       "text": "produce"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "This beach belongs to the hotel, and only its guests may use it. Because it is __________, you will not see the crowds that fill the public beaches.",
@@ -1850,7 +1877,8 @@ window.FLASHCARD_UNITS = {
       "text": "private"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 50
    },
    {
     "question": "The students bought cookies for 100 dollars and sold them at the school fair for 250. They gave the __________ of 150 dollars to an animal shelter.",
@@ -1872,7 +1900,8 @@ window.FLASHCARD_UNITS = {
       "text": "priority"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    },
    {
     "question": "Dad was angry when I came home two hours late last Saturday. Before he let me go out again, I had to __________ that I would be back before ten.",
@@ -1894,7 +1923,8 @@ window.FLASHCARD_UNITS = {
       "text": "prevent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 79
    }
   ]
  }

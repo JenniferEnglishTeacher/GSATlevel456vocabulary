@@ -1421,7 +1421,8 @@ window.FLASHCARD_UNITS = {
       "text": "tilt"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The concert hall was full on Saturday night. The orchestra played a long __________ by Mozart, and the audience clapped for almost five minutes when it ended.",
@@ -1443,7 +1444,8 @@ window.FLASHCARD_UNITS = {
       "text": "symphony"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "\"Big\" and \"large\" have almost the same meaning. When you write, you can use one as a __________ for the other so that your essay does not repeat the same word.",
@@ -1465,7 +1467,8 @@ window.FLASHCARD_UNITS = {
       "text": "transcript"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 7
    },
    {
     "question": "This shirt looks like silk, but it was not made from any natural material. It is made of __________ fibers, which is why it costs only two hundred dollars.",
@@ -1487,7 +1490,8 @@ window.FLASHCARD_UNITS = {
       "text": "synthetic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 10
    },
    {
     "question": "Grandma makes the best pancakes in our family. She always serves them with butter and warm maple __________, which she pours over the top until they are sweet and sticky.",
@@ -1509,7 +1513,8 @@ window.FLASHCARD_UNITS = {
       "text": "tempo"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 14
    },
    {
     "question": "Jason spent the whole week swimming and playing volleyball at the beach. When he came back to school, his deep brown __________ showed everyone where he had been.",
@@ -1531,7 +1536,8 @@ window.FLASHCARD_UNITS = {
       "text": "torrent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 17
    },
    {
     "question": "Copying three pages of new words into my notebook took me the whole evening. It was a __________ task, and I almost fell asleep twice before I finished it.",
@@ -1553,7 +1559,8 @@ window.FLASHCARD_UNITS = {
       "text": "tanned"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 22
    },
    {
     "question": "Thanks to the Internet and mobile phones, people can now talk to friends on the other side of the world in seconds. The __________ industry has changed our lives completely.",
@@ -1575,7 +1582,8 @@ window.FLASHCARD_UNITS = {
       "text": "tenancy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 25
    },
    {
     "question": "I went to the bank this morning to put some money into my account. The __________ behind the counter counted the bills carefully and gave me a receipt.",
@@ -1597,7 +1605,8 @@ window.FLASHCARD_UNITS = {
       "text": "landlord"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "The dancers kept falling behind the music during practice. The teacher asked the band to play at a slower __________ so that everyone could follow the steps more easily.",
@@ -1619,7 +1628,8 @@ window.FLASHCARD_UNITS = {
       "text": "transcript"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 33
    },
    {
     "question": "Mr. Lin owns a small apartment near the train station and rents it out. His new __________ is a quiet college student who always pays the rent on the first day of the month.",
@@ -1641,7 +1651,8 @@ window.FLASHCARD_UNITS = {
       "text": "landlord"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "We have talked about going camping next month, but nothing is fixed yet. The plan is still __________, so do not buy any food or equipment until we decide for sure.",
@@ -1663,7 +1674,8 @@ window.FLASHCARD_UNITS = {
       "text": "tentative"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 41
    },
    {
     "question": "The restaurant on the hill has a lovely outdoor area with tables and flowers. In summer, most guests prefer to sit on the __________ and enjoy the view of the city lights.",
@@ -1685,7 +1697,8 @@ window.FLASHCARD_UNITS = {
       "text": "token"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "This old factory used to make cloth for clothes and curtains. Today, the __________ business has mostly moved overseas, and the building is now an art center.",
@@ -1707,7 +1720,8 @@ window.FLASHCARD_UNITS = {
       "text": "transmission"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "The town's only factory closed down in 2010 because of the bad economy. Shortly __________, most of the young workers moved to Taipei to look for new jobs.",
@@ -1729,7 +1743,8 @@ window.FLASHCARD_UNITS = {
       "text": "thereby"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 52
    },
    {
     "question": "The baby felt very hot, and his face was red. His mother took out a __________ and found that his temperature was over thirty-nine degrees, so she called the doctor.",
@@ -1751,7 +1766,8 @@ window.FLASHCARD_UNITS = {
       "text": "thermometer"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 56
    },
    {
     "question": "The sun is shining right on the TV screen, so we cannot see the picture clearly. Could you __________ the screen a little toward the wall to block the light?",
@@ -1773,7 +1789,8 @@ window.FLASHCARD_UNITS = {
       "text": "tiptoe"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    },
    {
     "question": "The baby finally fell asleep after crying for an hour. Her parents had to __________ out of the room very slowly so that the sound of their steps would not wake her.",
@@ -1795,7 +1812,8 @@ window.FLASHCARD_UNITS = {
       "text": "tire"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "My neighbor talks about his new car every time I meet him in the elevator. It has become really __________, and now I try to take the stairs instead.",
@@ -1817,7 +1835,8 @@ window.FLASHCARD_UNITS = {
       "text": "tentative"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 66
    },
    {
     "question": "The video game machines in the arcade do not take coins. You have to buy a __________ at the front counter first and then put it into the machine to play.",
@@ -1839,7 +1858,8 @@ window.FLASHCARD_UNITS = {
       "text": "tempo"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 71
    },
    {
     "question": "The sky turned dark green, and a huge spinning cloud came down from above. The __________ destroyed twenty houses in the small town before it disappeared ten minutes later.",
@@ -1861,7 +1881,8 @@ window.FLASHCARD_UNITS = {
       "text": "tenant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "It had rained for three days without stopping. The small stream behind our school became a wild __________ that carried away branches, rocks, and even a parked bicycle.",
@@ -1883,7 +1904,8 @@ window.FLASHCARD_UNITS = {
       "text": "torrent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "The famous shoe company has a special sign that appears on every product it makes. No other business is allowed to use this __________ without the company's permission.",
@@ -1905,7 +1927,8 @@ window.FLASHCARD_UNITS = {
       "text": "transcript"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 82
    },
    {
     "question": "Peter wants to study at a university in Australia next year. The school asked him to send an official __________ showing all the grades he received in senior high school.",
@@ -1927,7 +1950,8 @@ window.FLASHCARD_UNITS = {
       "text": "transcript"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 86
    },
    {
     "question": "Dengue fever is a serious illness in southern Taiwan during the summer. Mosquitoes __________ the disease from one person to another, so people should clear away any standing water.",
@@ -1949,7 +1973,8 @@ window.FLASHCARD_UNITS = {
       "text": "tiptoe"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 90
    },
    {
     "question": "When Mr. Wang's house burned down, people in the neighborhood brought food and clothes. Their __________ helped the family get through the hardest week of their lives.",
@@ -1971,7 +1996,8 @@ window.FLASHCARD_UNITS = {
       "text": "sympathy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 2
    },
    {
     "question": "The bridge was damaged in the earthquake, so engineers built a smaller one next to it. This __________ bridge will be used for six months until the real one is repaired.",
@@ -1993,7 +2019,8 @@ window.FLASHCARD_UNITS = {
       "text": "tedious"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 35
    },
    {
     "question": "Our kitchen tap has been leaking for three days, and the floor is always wet. We should call the __________ today and ask him to send someone to fix it.",
@@ -2015,7 +2042,8 @@ window.FLASHCARD_UNITS = {
       "text": "storyteller"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 38
    },
    {
     "question": "Tom did not study at all for the math test and played games every night. It is __________ no surprise that he got the lowest score in the whole class.",
@@ -2037,7 +2065,8 @@ window.FLASHCARD_UNITS = {
       "text": "thereby"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 55
    },
    {
     "question": "Doctors say the new virus spreads easily when people cough or sneeze in crowded rooms. Wearing a mask can greatly reduce the __________ of the virus from one person to another.",
@@ -2059,7 +2088,8 @@ window.FLASHCARD_UNITS = {
       "text": "communication"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 91
    }
   ]
  }

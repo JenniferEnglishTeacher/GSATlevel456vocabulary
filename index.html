@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>學測6000字 Vocabulary Board · Level 4–6</title>
-  <link rel="stylesheet" href="styles.css?v=20261113a">
+  <link rel="stylesheet" href="styles.css?v=20261113b">
 </head>
-<body>
+<body data-tracker-ask>
   <main class="app-shell board-shell">
     <header class="board-hero">
       <p class="eyebrow">教育部高中學測 6000 字 · Level 4 · Level 5 · Level 6 · Word Family 詞族版</p>
@@ -32,6 +32,7 @@
 
     <div class="review-bar" id="reviewBar">
       <div class="review-count"><span id="reviewCount">0</span> word(s) on my review list <span class="zh">我的複習清單</span></div>
+      <span class="tracker-box" data-tracker-box hidden>👤 <b data-tracker-name>—</b> <button type="button" data-tracker-change>Change name 改名字</button></span>
       <div class="review-actions">
         <label class="search-box"><span>Find</span><input id="wordSearch" type="search" placeholder="Search a word…" autocomplete="off"></label>
         <button class="primary-button arcade-button" id="arcadeReview" type="button" disabled title="Quiz yourself on your review list — a mini-game every 10 correct answers 用複習清單出題，每答對 10 題玩小遊戲">🎮 Test my words 闖關測驗</button>
@@ -66,11 +67,14 @@
       </div>
       <div class="unit-board" id="board-l6"><p class="board-loading">Loading… 載入中…</p></div>
     </section>
+    <a class="teacher-link" href="teacher.html">Teacher 教師專用</a>
   </main>
-  <script src="l4-dashboard-data.js?v=20261113a"></script>
-  <script src="l5-dashboard-data.js?v=20261113a"></script>
-  <script src="l6-dashboard-data.js?v=20261113a"></script>
+  <script src="l4-dashboard-data.js?v=20261113b"></script>
+  <script src="l5-dashboard-data.js?v=20261113b"></script>
+  <script src="l6-dashboard-data.js?v=20261113b"></script>
+  <script src="tracker-config.js?v=20261113b"></script>
+  <script src="tracker.js?v=20261113b"></script>
   <script src="vendor/xlsx.full.min.js"></script>
-  <script src="dashboard.js?v=20261113a"></script>
+  <script src="dashboard.js?v=20261113b"></script>
 </body>
 </html>

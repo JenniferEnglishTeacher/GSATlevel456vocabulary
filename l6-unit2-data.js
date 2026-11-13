@@ -1436,7 +1436,8 @@ window.FLASHCARD_UNITS = {
       "text": "analytical"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "The hospital in our town is an __________ of a big university hospital in Taipei. Its doctors often go to Taipei to learn new skills from the teachers there.",
@@ -1458,7 +1459,8 @@ window.FLASHCARD_UNITS = {
       "text": "affiliate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "At the end of the meeting, the manager stood up to speak. He wanted to __________ that no workers would lose their jobs this year, and everyone looked relieved.",
@@ -1480,7 +1482,8 @@ window.FLASHCARD_UNITS = {
       "text": "amplify"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "Keep the cookies in an __________ box after you open the bag. If air gets in, they will become soft and lose their taste in a day or two.",
@@ -1502,7 +1505,8 @@ window.FLASHCARD_UNITS = {
       "text": "analytical"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 12
    },
    {
     "question": "The little boy could not breathe because a piece of candy was stuck in his throat. The nurse quickly cleared his __________, and soon he began to cry loudly.",
@@ -1524,7 +1528,8 @@ window.FLASHCARD_UNITS = {
       "text": "airway"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "In math class this year, we use letters like x and y instead of only numbers. Many students find __________ difficult at first, but it becomes easier with practice.",
@@ -1546,7 +1551,8 @@ window.FLASHCARD_UNITS = {
       "text": "alligator"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 18
    },
    {
     "question": "The new boss shouts at his workers and never listens to their ideas. If he keeps doing this, he will __________ everyone in the office, and many people may quit.",
@@ -1568,7 +1574,8 @@ window.FLASHCARD_UNITS = {
       "text": "align"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 21
    },
    {
     "question": "Before you hang the pictures on the wall, use a ruler to check them. You should __________ them carefully so that they are all at the same height.",
@@ -1590,7 +1597,8 @@ window.FLASHCARD_UNITS = {
       "text": "animate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 25
    },
    {
     "question": "The woman told the police that her neighbor had stolen her bike. It is easy to __________ such things, but it is much harder to prove them.",
@@ -1612,7 +1620,8 @@ window.FLASHCARD_UNITS = {
       "text": "allege"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 29
    },
    {
     "question": "We took a boat trip through the wetlands in Florida. Suddenly a huge __________ opened its mouth and showed its sharp teeth, so everyone on the boat screamed.",
@@ -1634,7 +1643,8 @@ window.FLASHCARD_UNITS = {
       "text": "algebra"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 33
    },
    {
     "question": "The air is very thin at the top of Jade Mountain. At such a high __________, some climbers get headaches and must walk very slowly and drink lots of water.",
@@ -1656,7 +1666,8 @@ window.FLASHCARD_UNITS = {
       "text": "affiliate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 36
    },
    {
     "question": "Please put empty soda cans in the blue recycling bin. They are made of __________, which can be melted down and used again to make new cans.",
@@ -1678,7 +1689,8 @@ window.FLASHCARD_UNITS = {
       "text": "aluminum"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 39
    },
    {
     "question": "The teacher's question could be understood in two different ways. Because of this __________, half of the class gave one answer and the other half gave another.",
@@ -1700,7 +1712,8 @@ window.FLASHCARD_UNITS = {
       "text": "applause"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 42
    },
    {
     "question": "The firefighter stayed calm __________ all the smoke and noise. He quickly found the little girl and carried her safely out of the burning building on the third floor.",
@@ -1722,7 +1735,8 @@ window.FLASHCARD_UNITS = {
       "text": "amongst"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 46
    },
    {
     "question": "The singer kept singing __________ the heavy rain at the outdoor concert. Her fans were very wet, but they did not leave until the very last song.",
@@ -1744,7 +1758,8 @@ window.FLASHCARD_UNITS = {
       "text": "amongst"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "The old man's voice is too soft for everyone in the hall to hear. We need a microphone to __________ his voice so that the people at the back can hear him.",
@@ -1766,7 +1781,8 @@ window.FLASHCARD_UNITS = {
       "text": "amplify"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 52
    },
    {
     "question": "The teacher said the heart works like a water pump in a house. This simple __________ helped all the students understand how blood moves around the human body.",
@@ -1788,7 +1804,8 @@ window.FLASHCARD_UNITS = {
       "text": "altitude"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 56
    },
    {
     "question": "Lisa is good at finding patterns in numbers and solving hard problems step by step. With her __________ mind, she wants to become a scientist in the future.",
@@ -1810,7 +1827,8 @@ window.FLASHCARD_UNITS = {
       "text": "airtight"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 59
    },
    {
     "question": "The fishermen did not want their boat to move away during the night. They dropped the heavy __________ into the sea before they went to sleep inside the boat.",
@@ -1832,7 +1850,8 @@ window.FLASHCARD_UNITS = {
       "text": "antonym"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "The new teacher tells funny stories and plays games in class. She knows how to __________ even the quietest students, and now they all love to speak English.",
@@ -1854,7 +1873,8 @@ window.FLASHCARD_UNITS = {
       "text": "animate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 68
    },
    {
     "question": "The people next door played loud music until three in the morning. To our great __________, they did the same thing again the following night, so we called the police.",
@@ -1876,7 +1896,8 @@ window.FLASHCARD_UNITS = {
       "text": "alignment"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    },
    {
     "question": "Before every baseball game in the stadium, all the players and fans stand up quietly. They sing the national __________ together, and then the first player walks onto the field.",
@@ -1898,7 +1919,8 @@ window.FLASHCARD_UNITS = {
       "text": "airway"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 76
    },
    {
     "question": "The doctor said my throat was infected by bacteria. She gave me an __________ and told me to take one pill three times a day for a week.",
@@ -1920,7 +1942,8 @@ window.FLASHCARD_UNITS = {
       "text": "algebra"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 79
    },
    {
     "question": "The children could not sleep on Christmas Eve. They were full of __________, waiting to open the presents under the tree the next morning with their parents.",
@@ -1942,7 +1965,8 @@ window.FLASHCARD_UNITS = {
       "text": "anticipation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 83
    },
    {
     "question": "Our English teacher says that 'hot' and 'cold' have opposite meanings. In other words, 'cold' is the __________ of 'hot', just as 'short' is the opposite of 'tall'.",
@@ -1964,7 +1988,8 @@ window.FLASHCARD_UNITS = {
       "text": "analogy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 87
    },
    {
     "question": "When the little girl finished playing the piano, the whole audience stood up from their seats. They began to __________ loudly, and some people even shouted 'Bravo!'",
@@ -1986,7 +2011,8 @@ window.FLASHCARD_UNITS = {
       "text": "align"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 90
    },
    {
     "question": "The police caught the __________ thief near the train station. However, he says he is innocent, and the judge has not made a decision about the case yet.",
@@ -2008,7 +2034,8 @@ window.FLASHCARD_UNITS = {
       "text": "affectionate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 30
    },
    {
     "question": "The speech was short but very moving. When the student finished, there was a long round of __________, and her parents had tears in their eyes.",
@@ -2030,7 +2057,8 @@ window.FLASHCARD_UNITS = {
       "text": "alignment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 91
    },
    {
     "question": "The sign said 'No parking here,' but it was not clear where 'here' was. Because the sign was so __________, many drivers got tickets by mistake.",
@@ -2052,7 +2080,8 @@ window.FLASHCARD_UNITS = {
       "text": "airtight"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 43
    },
    {
     "question": "My little brother keeps asking me the same question again and again. It is really __________, especially when I am trying to finish my math homework before dinner.",
@@ -2074,7 +2103,8 @@ window.FLASHCARD_UNITS = {
       "text": "analytical"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    }
   ]
  }

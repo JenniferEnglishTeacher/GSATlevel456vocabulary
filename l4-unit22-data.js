@@ -1271,7 +1271,8 @@ window.FLASHCARD_UNITS = {
       "text": "insult"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "A bowl of noodles cost 50 dollars when my mother was young. Today the very same bowl costs 120 dollars because of so many years of __________.",
@@ -1293,7 +1294,8 @@ window.FLASHCARD_UNITS = {
       "text": "inflation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "Thousands of young people copy the singer's clothes and hairstyle. She is one of the most __________ stars in Asia, and companies pay her to wear their products.",
@@ -1315,7 +1317,8 @@ window.FLASHCARD_UNITS = {
       "text": "informative"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 7
    },
    {
     "question": "The science video explains how rainbows form in a very clear way. It is so __________ that our English teacher now shows it to every single class.",
@@ -1337,7 +1340,8 @@ window.FLASHCARD_UNITS = {
       "text": "instinctive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 11
    },
    {
     "question": "My grandmother never follows a recipe when she cooks. She just adds one fresh __________ after another until the soup tastes exactly the way she wants it to.",
@@ -1359,7 +1363,8 @@ window.FLASHCARD_UNITS = {
       "text": "inspection"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 15
    },
    {
     "question": "Nobody liked the new school uniform when it was first shown. After a few months, however, this __________ feeling slowly changed, and most students stopped complaining about it.",
@@ -1381,7 +1386,8 @@ window.FLASHCARD_UNITS = {
       "text": "intentional"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 18
    },
    {
     "question": "Do not run near the swimming pool. The floor is very wet, and you could easily fall down and __________ yourself before the lifeguard can help you.",
@@ -1403,7 +1409,8 @@ window.FLASHCARD_UNITS = {
       "text": "injure"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 23
    },
    {
     "question": "The man said he was at home when the store was robbed. His neighbor saw him at home that night, and this fact finally helped prove his __________.",
@@ -1425,7 +1432,8 @@ window.FLASHCARD_UNITS = {
       "text": "inflation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "Before the system can print your report card, your teacher must type in all your grades. If there is a mistake in the __________, the report will be wrong.",
@@ -1447,7 +1455,8 @@ window.FLASHCARD_UNITS = {
       "text": "instinct"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 31
    },
    {
     "question": "The parking machine is easy to use. Just __________ a ten-dollar coin into the small hole at the top, and a paper ticket will come out below.",
@@ -1469,7 +1478,8 @@ window.FLASHCARD_UNITS = {
       "text": "insert"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 34
    },
    {
     "question": "Every year, a team from the city checks the kitchen of each restaurant. A restaurant that fails this __________ must close until the problems are fixed.",
@@ -1491,7 +1501,8 @@ window.FLASHCARD_UNITS = {
       "text": "intensity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 37
    },
    {
     "question": "The writer gets most of her ideas from walking along the beach early in the morning. She often says that the sea has always been her greatest __________.",
@@ -1513,7 +1524,8 @@ window.FLASHCARD_UNITS = {
       "text": "instruction"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "The young runner lost both legs in an accident but still finished a marathon. His amazing story continues to __________ many people who have already given up hope.",
@@ -1535,7 +1547,8 @@ window.FLASHCARD_UNITS = {
       "text": "inflate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "Our old classroom gets very hot in summer. The school has finally decided to __________ new air conditioners in every room before the next school year begins.",
@@ -1557,7 +1570,8 @@ window.FLASHCARD_UNITS = {
       "text": "initiate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 46
    },
    {
     "question": "Nobody taught the baby sea turtles where to go. As soon as they came out of their eggs on the beach, they ran straight to the ocean by __________.",
@@ -1579,7 +1593,8 @@ window.FLASHCARD_UNITS = {
       "text": "insult"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 49
    },
    {
     "question": "The new workers do not know how to use the machine yet. The manager will __________ them step by step for a week before they start working alone.",
@@ -1601,7 +1616,8 @@ window.FLASHCARD_UNITS = {
       "text": "instruct"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 53
    },
    {
     "question": "I want to learn how to swim this summer. The pool near my house has a new __________ who teaches small classes for beginners every Saturday morning.",
@@ -1623,7 +1639,8 @@ window.FLASHCARD_UNITS = {
       "text": "installment"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "Calling your classmate a stupid pig is not a joke. It is an __________ that can really hurt his feelings, so please say sorry to him.",
@@ -1645,7 +1662,8 @@ window.FLASHCARD_UNITS = {
       "text": "inflation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 58
    },
    {
     "question": "My uncle's car was badly damaged in a crash last week. Luckily, he had bought __________ for the car, so the company paid for most of the repairs.",
@@ -1667,7 +1685,8 @@ window.FLASHCARD_UNITS = {
       "text": "intelligence"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 61
    },
    {
     "question": "Chess is not just a game for fun. It is also an __________ activity that trains your brain to think ahead and to solve difficult problems.",
@@ -1689,7 +1708,8 @@ window.FLASHCARD_UNITS = {
       "text": "infectious"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 65
    },
    {
     "question": "Crows can use small sticks to get food out of a bottle. Scientists say this clever trick shows that these birds have a very high level of __________.",
@@ -1711,7 +1731,8 @@ window.FLASHCARD_UNITS = {
       "text": "infection"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 69
    },
    {
     "question": "We __________ to leave for the airport at six tomorrow morning. If we start any later, we may get stuck in traffic and miss our flight.",
@@ -1733,7 +1754,8 @@ window.FLASHCARD_UNITS = {
       "text": "inspect"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "The sun was so __________ at the beach that my skin turned red in less than an hour. Next time I will bring an umbrella and sunscreen.",
@@ -1755,7 +1777,8 @@ window.FLASHCARD_UNITS = {
       "text": "intense"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 78
    },
    {
     "question": "The storm hit the small island with great __________ last night. Tall trees fell across the roads, and many old houses near the sea lost their roofs.",
@@ -1777,7 +1800,8 @@ window.FLASHCARD_UNITS = {
       "text": "inspiration"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "Lisa has only one month before she moves to Canada. She is taking an __________ English course that meets for six hours every day, even on weekends.",
@@ -1799,7 +1823,8 @@ window.FLASHCARD_UNITS = {
       "text": "intellectual"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 80
    },
    {
     "question": "Parents' daily habits can strongly __________ their children. If a father reads a book every night, his kids are much more likely to enjoy reading too.",
@@ -1821,7 +1846,8 @@ window.FLASHCARD_UNITS = {
       "text": "influence"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "The school will close tomorrow because of the typhoon. Teachers will __________ all the parents by text message tonight so that nobody comes to school by mistake.",
@@ -1843,7 +1869,8 @@ window.FLASHCARD_UNITS = {
       "text": "insure"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 12
    },
    {
     "question": "The soccer player fell hard and could not stand up. The doctor said the __________ to his knee was serious, and he would miss the rest of the season.",
@@ -1865,7 +1892,8 @@ window.FLASHCARD_UNITS = {
       "text": "inflation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "The police thought the boy had broken the window. Later a video from a nearby shop showed he was __________, so they said sorry to him and his family.",
@@ -1887,7 +1915,8 @@ window.FLASHCARD_UNITS = {
       "text": "innocent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 28
    },
    {
     "question": "My little sister is very __________ for her age. She could read whole storybooks at four, and now she solves math problems from my high school textbook.",
@@ -1909,7 +1938,8 @@ window.FLASHCARD_UNITS = {
       "text": "infectious"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    }
   ]
  }

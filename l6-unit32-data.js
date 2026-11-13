@@ -1301,7 +1301,8 @@ window.FLASHCARD_UNITS = {
       "text": "scrape"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Only three nurses work in this small clinic at night. They take the late night shift in __________, so each of them works only two nights a week.",
@@ -1323,7 +1324,8 @@ window.FLASHCARD_UNITS = {
       "text": "rotation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 1
    },
    {
     "question": "The hotel by the lake has welcomed many famous guests. Kings and queens from several countries have stayed there, and the staff are used to serving __________.",
@@ -1345,7 +1347,8 @@ window.FLASHCARD_UNITS = {
       "text": "serving"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 5
    },
    {
     "question": "The garbage truck comes to our street at seven every evening. When you hear its music, please carry the bags of __________ out to the corner quickly.",
@@ -1367,7 +1370,8 @@ window.FLASHCARD_UNITS = {
       "text": "rubbish"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "The road along the east coast goes through high mountains and deep valleys. The land is so __________ that it took workers twenty years to finish the highway.",
@@ -1389,7 +1393,8 @@ window.FLASHCARD_UNITS = {
       "text": "serene"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 12
    },
    {
     "question": "The company closed its factory one week before Chinese New Year. Many people called the boss __________ for sending five hundred workers home without any warning.",
@@ -1411,7 +1416,8 @@ window.FLASHCARD_UNITS = {
       "text": "serial"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 15
    },
    {
     "question": "On the army base, every young soldier must show respect to the officers. When an officer walks past, the soldiers stop and __________ him at once.",
@@ -1433,7 +1439,8 @@ window.FLASHCARD_UNITS = {
       "text": "salute"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 18
    },
    {
     "question": "The flood filled the first floor of the house with mud. The family worked all day to __________ their photos and papers, but most were ruined.",
@@ -1455,7 +1462,8 @@ window.FLASHCARD_UNITS = {
       "text": "scorn"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 21
    },
    {
     "question": "Thousands of people lived in the camp after the earthquake. Doctors asked for clean toilets and running water first, because poor __________ makes people sick quickly.",
@@ -1477,7 +1485,8 @@ window.FLASHCARD_UNITS = {
       "text": "serenity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "The hikers saw a bear with two cubs on the mountain path. They backed away slowly, knowing that a mother bear can make a __________ attack to protect her babies.",
@@ -1499,7 +1508,8 @@ window.FLASHCARD_UNITS = {
       "text": "seductive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 28
    },
    {
     "question": "We drove along the coast instead of taking the fast highway. The __________ road took an hour longer, but we stopped many times to enjoy the sea view.",
@@ -1521,7 +1531,8 @@ window.FLASHCARD_UNITS = {
       "text": "scenic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 32
    },
    {
     "question": "The old farmer looked at the city boy's soft white hands. His eyes were full of __________, for he was sure the boy would quit after one day of work.",
@@ -1543,7 +1554,8 @@ window.FLASHCARD_UNITS = {
       "text": "servant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 36
    },
    {
     "question": "It snowed heavily last night, and the car is covered with ice. Dad has to __________ the windows clean before he can see well enough to drive to work.",
@@ -1565,7 +1577,8 @@ window.FLASHCARD_UNITS = {
       "text": "scrutinize"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 40
    },
    {
     "question": "The chair makes a noise because one of its screws is loose. Please get the __________ from the toolbox so that I can tighten the screw.",
@@ -1587,7 +1600,8 @@ window.FLASHCARD_UNITS = {
       "text": "sanitizer"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 44
    },
    {
     "question": "Many teenagers stay on their phones late into the night. They __________ through short videos and friends' photos for hours, and then they cannot fall asleep.",
@@ -1609,7 +1623,8 @@ window.FLASHCARD_UNITS = {
       "text": "salvage"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "A newspaper reported that the mayor took several expensive trips paid for by the city. Since then, every single dollar he spends has come under close __________.",
@@ -1631,7 +1646,8 @@ window.FLASHCARD_UNITS = {
       "text": "scrutiny"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "The stone lion outside the city hall is a popular place for photos. A famous __________ spent two years making it from one huge block of stone.",
@@ -1653,7 +1669,8 @@ window.FLASHCARD_UNITS = {
       "text": "sergeant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "I was eating a sandwich on the beach when a white bird flew down. The __________ took the bread out of my hand and flew away over the sea.",
@@ -1675,7 +1692,8 @@ window.FLASHCARD_UNITS = {
       "text": "scrape"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 57
    },
    {
     "question": "Shops use bright signs and low prices to catch our attention. These clever tricks __________ many people into buying things that they do not really need every day.",
@@ -1697,7 +1715,8 @@ window.FLASHCARD_UNITS = {
       "text": "rotate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    },
    {
     "question": "This university receives thousands of applications every year, but it accepts only a few hundred students. It is one of the most __________ schools in the country.",
@@ -1719,7 +1738,8 @@ window.FLASHCARD_UNITS = {
       "text": "selective"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    },
    {
     "question": "We reached the mountain lake just after sunrise. The water was so __________ that we could see the snowy peaks reflected in it like a mirror.",
@@ -1741,7 +1761,8 @@ window.FLASHCARD_UNITS = {
       "text": "ruthless"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "A police officer visited our class last week to talk about staying safe online. The __________ told us never to share our home address or photos with strangers.",
@@ -1763,7 +1784,8 @@ window.FLASHCARD_UNITS = {
       "text": "scrutiny"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 70
    },
    {
     "question": "More than twenty homes in the same area were robbed within six months. The police believe one __________ thief did all of them and are checking cameras.",
@@ -1785,7 +1807,8 @@ window.FLASHCARD_UNITS = {
       "text": "seductive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "Every Sunday the priest speaks to the people in the church for twenty minutes. Last week his __________ was about forgiving people who have hurt us.",
@@ -1807,7 +1830,8 @@ window.FLASHCARD_UNITS = {
       "text": "screwdriver"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 77
    },
    {
     "question": "My little sister eats only a small bowl of rice at dinner. One __________ is enough for her, but my teenage brother always asks for three.",
@@ -1829,7 +1853,8 @@ window.FLASHCARD_UNITS = {
       "text": "rubbish"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 80
    },
    {
     "question": "Taroko Gorge is one of the most beautiful places in Taiwan. Visitors often stop every few minutes to take photos of the __________, with its high cliffs and clear river.",
@@ -1851,7 +1876,8 @@ window.FLASHCARD_UNITS = {
       "text": "seduction"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 33
    },
    {
     "question": "The teacher gave us a reading list with thirty books on it. We must __________ three of them and write a short report on each one by May.",
@@ -1873,7 +1899,8 @@ window.FLASHCARD_UNITS = {
       "text": "savage"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "The new restaurant near our school has a special offer this month. They will __________ free dessert to anyone who shows an ID card with a birthday that day.",
@@ -1895,7 +1922,8 @@ window.FLASHCARD_UNITS = {
       "text": "scrutinize"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 81
    },
    {
     "question": "In the middle of the park stands a bronze figure of a mother holding her baby. People often leave flowers beside the __________ on Mother's Day.",
@@ -1917,7 +1945,8 @@ window.FLASHCARD_UNITS = {
       "text": "sculpture"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 55
    },
    {
     "question": "My sister started watching a new drama on Friday night. She finished the whole __________ of twelve episodes in one weekend and now wants the next season.",
@@ -1939,7 +1968,8 @@ window.FLASHCARD_UNITS = {
       "text": "servant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 75
    }
   ]
  }

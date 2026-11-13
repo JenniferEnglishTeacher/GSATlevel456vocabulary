@@ -1541,7 +1541,8 @@ window.FLASHCARD_UNITS = {
       "text": "realistic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The young prince did not want to follow his father's orders anymore. He decided to __________ against the king and led his own army into the city.",
@@ -1563,7 +1564,8 @@ window.FLASHCARD_UNITS = {
       "text": "reflect"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "I know I have met that woman somewhere before, but I cannot __________ her name at all. Maybe she was one of my teachers in elementary school.",
@@ -1585,7 +1587,8 @@ window.FLASHCARD_UNITS = {
       "text": "recall"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 10
    },
    {
     "question": "After the wedding at the church, all the guests went to a hotel for the __________. There was a big dinner, music, and dancing until midnight.",
@@ -1607,7 +1610,8 @@ window.FLASHCARD_UNITS = {
       "text": "regulation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 14
    },
    {
     "question": "My grandmother never writes down how she makes her famous soup. She says the __________ is in her head, and she just adds a little of this and a little of that.",
@@ -1629,7 +1633,8 @@ window.FLASHCARD_UNITS = {
       "text": "rebellion"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "The new phone can unlock itself as soon as it sees your face. This face __________ technology works even when you are wearing glasses or a hat.",
@@ -1651,7 +1656,8 @@ window.FLASHCARD_UNITS = {
       "text": "recreation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "Grandpa broke his leg in January, and the doctors said he would need a long time to get better. Luckily, his __________ was faster than anyone expected.",
@@ -1673,7 +1679,8 @@ window.FLASHCARD_UNITS = {
       "text": "registration"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 29
    },
    {
     "question": "Our town has very few places for fun on weekends. The mayor promised to build a park and a swimming pool for __________ so that families have somewhere to go.",
@@ -1695,7 +1702,8 @@ window.FLASHCARD_UNITS = {
       "text": "refuge"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "Do not throw that newspaper into the trash can. We should __________ paper, glass, and plastic so that they can be used to make new things.",
@@ -1717,7 +1725,8 @@ window.FLASHCARD_UNITS = {
       "text": "refuse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "The school started serving more vegetables and less fried food at lunch. After one year, there was a clear __________ in the number of overweight students.",
@@ -1739,7 +1748,8 @@ window.FLASHCARD_UNITS = {
       "text": "rejection"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "If you are not sure how to use a word, you can __________ to a dictionary. It will show you the meaning and give you some example sentences.",
@@ -1761,7 +1771,8 @@ window.FLASHCARD_UNITS = {
       "text": "regulate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 46
    },
    {
     "question": "I want to apply for the summer job at the bookstore. The manager asked me to bring a __________ from a teacher who knows my work well.",
@@ -1783,7 +1794,8 @@ window.FLASHCARD_UNITS = {
       "text": "refusal"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 47
    },
    {
     "question": "The lake was so still in the early morning that it looked like a big mirror. The water seemed to __________ the mountains so clearly that we took many photos.",
@@ -1805,7 +1817,8 @@ window.FLASHCARD_UNITS = {
       "text": "recycle"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "The little boy saw a strange child looking at him from the shop window. Then he laughed, because he realized it was only his own __________.",
@@ -1827,7 +1840,8 @@ window.FLASHCARD_UNITS = {
       "text": "reflection"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 54
    },
    {
     "question": "Many people say the old tax system is unfair because poor families pay too much. The new government promises a big __________ of the system next year.",
@@ -1849,7 +1863,8 @@ window.FLASHCARD_UNITS = {
       "text": "recall"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 59
    },
    {
     "question": "A __________ is a person who has to leave his or her home country because of war or danger. Many of them now live in tents near the border and need food.",
@@ -1871,7 +1886,8 @@ window.FLASHCARD_UNITS = {
       "text": "referee"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 63
    },
    {
     "question": "The jacket I bought online was the wrong size, and the store did not have a bigger one. I sent it back and got a full __________ within a week.",
@@ -1893,7 +1909,8 @@ window.FLASHCARD_UNITS = {
       "text": "regard"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "We invited Tom to join our hiking trip next weekend, but he said no right away. His quick __________ surprised us, because he usually loves the mountains.",
@@ -1915,7 +1932,8 @@ window.FLASHCARD_UNITS = {
       "text": "refusal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 72
    },
    {
     "question": "The teacher sent an email to every parent __________ the school trip next month. It explains the date, the cost, and what the children should bring.",
@@ -1937,7 +1955,8 @@ window.FLASHCARD_UNITS = {
       "text": "in receipt of"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "If you want to join the English club, you have to __________ at the office before Friday. Write your name and class on the list on the desk.",
@@ -1959,7 +1978,8 @@ window.FLASHCARD_UNITS = {
       "text": "refund"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 81
    },
    {
     "question": "Online __________ for the city marathon starts on March 1 and ends on March 15. Runners who sign up early will get a free T-shirt and a water bottle.",
@@ -1981,7 +2001,8 @@ window.FLASHCARD_UNITS = {
       "text": "relaxation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 82
    },
    {
     "question": "The air conditioner in this room is smart. It can __________ the temperature by itself, turning off when the room is cool and starting again when it gets hot.",
@@ -2003,7 +2024,8 @@ window.FLASHCARD_UNITS = {
       "text": "register"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 87
    },
    {
     "question": "There is a new __________ at the swimming pool. Everyone must take a shower before getting into the water, or the lifeguard will ask them to leave.",
@@ -2025,7 +2047,8 @@ window.FLASHCARD_UNITS = {
       "text": "refund"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 88
    },
    {
     "question": "Peter wrote to ten companies asking for a job, but all of them said no. After so much __________, he almost gave up looking for work.",
@@ -2047,7 +2070,8 @@ window.FLASHCARD_UNITS = {
       "text": "recovery"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 93
    },
    {
     "question": "My mother works ten hours a day at the hospital. On Sundays she needs some __________, so she reads in the garden and does not answer her phone.",
@@ -2069,7 +2093,8 @@ window.FLASHCARD_UNITS = {
       "text": "relaxation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 97
    },
    {
     "question": "It has been twenty years since I last saw my old friend. Will I still be able to __________ him when he walks into the coffee shop today?",
@@ -2091,7 +2116,8 @@ window.FLASHCARD_UNITS = {
       "text": "relax"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 26
    },
    {
     "question": "The doctor told my father to lose weight and __________ the amount of salt in his food. Now he eats more vegetables and less fried chicken.",
@@ -2113,7 +2139,8 @@ window.FLASHCARD_UNITS = {
       "text": "regulate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 43
    },
    {
     "question": "You have studied for six hours without stopping. Why don't you __________ for a while, listen to some music, and then continue when you feel better?",
@@ -2135,7 +2162,8 @@ window.FLASHCARD_UNITS = {
       "text": "relax"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 98
    },
    {
     "question": "The company offered Lisa a job in Taipei with a high salary. However, she decided to __________ the offer because she did not want to leave her hometown.",
@@ -2157,7 +2185,8 @@ window.FLASHCARD_UNITS = {
       "text": "refund"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 73
    },
    {
     "question": "My brother never does what my parents ask him to do. He comes home late, plays loud music at night, and argues about everything. He is very __________.",
@@ -2179,7 +2208,8 @@ window.FLASHCARD_UNITS = {
       "text": "rebellious"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 9
    }
   ]
  }

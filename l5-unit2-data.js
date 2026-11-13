@@ -1466,7 +1466,8 @@ window.FLASHCARD_UNITS = {
       "text": "agony"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "Before the meeting begins, the class leader hands out a sheet listing the topics we will discuss. The first thing on the __________ is the Christmas party.",
@@ -1488,7 +1489,8 @@ window.FLASHCARD_UNITS = {
       "text": "alliance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "The two dogs stared at each other and showed their teeth. Their owners pulled them apart quickly, because such __________ often ends in a fight that hurts both animals.",
@@ -1510,7 +1512,8 @@ window.FLASHCARD_UNITS = {
       "text": "anticipation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "The soccer player fell to the ground holding his leg and could not stop screaming. He was clearly in __________, so the coach called for a doctor at once.",
@@ -1532,7 +1535,8 @@ window.FLASHCARD_UNITS = {
       "text": "agenda"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 14
    },
    {
     "question": "Most families in this part of the island grow rice, tea, or fruit. Because the area is mainly __________, many young people leave for the city to find other jobs.",
@@ -1554,7 +1558,8 @@ window.FLASHCARD_UNITS = {
       "text": "allergic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "The supermarket was crowded, and a man had left his shopping cart in the middle of the __________. Nobody could get past it to reach the milk and eggs.",
@@ -1576,7 +1581,8 @@ window.FLASHCARD_UNITS = {
       "text": "aisle"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 21
    },
    {
     "question": "The sign at the party said that beer and wine were only for adults. Teenagers were given juice and tea instead of __________ drinks, and nobody complained about it.",
@@ -1598,7 +1604,8 @@ window.FLASHCARD_UNITS = {
       "text": "ample"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "In the science-fiction movie, a strange creature with green skin lands in a farmer's field. The __________ cannot speak English, so it talks to the children with pictures.",
@@ -1620,7 +1627,8 @@ window.FLASHCARD_UNITS = {
       "text": "ally"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "Every time Amy eats shrimp, her skin turns red and she finds it hard to breathe. The doctor told her she is __________ to seafood and must avoid it completely.",
@@ -1642,7 +1650,8 @@ window.FLASHCARD_UNITS = {
       "text": "alcoholic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    },
    {
     "question": "My little brother cannot drink milk or eat cheese without getting a stomachache. Because of his __________, Mom always checks the list of ingredients on every package.",
@@ -1664,7 +1673,8 @@ window.FLASHCARD_UNITS = {
       "text": "allergy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 35
    },
    {
     "question": "Three small coffee shops on our street could not compete with the big chain store alone. They formed an __________ and now buy their beans together at a lower price.",
@@ -1686,7 +1696,8 @@ window.FLASHCARD_UNITS = {
       "text": "amendment"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "The school has received a large gift from a former student. The principal must now decide how to __________ the money among the library, the sports teams, and the music club.",
@@ -1708,7 +1719,8 @@ window.FLASHCARD_UNITS = {
       "text": "alter"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 43
    },
    {
     "question": "Britain has been a close __________ of the United States for many years. When one country is in trouble, the other sends soldiers and supplies to help.",
@@ -1730,7 +1742,8 @@ window.FLASHCARD_UNITS = {
       "text": "aggressor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    },
    {
     "question": "The small fishing boat moved slowly toward the harbor. A police boat pulled up __________ and ordered the captain to stop so that the officers could check his papers.",
@@ -1752,7 +1765,8 @@ window.FLASHCARD_UNITS = {
       "text": "alongside"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "The wedding dress was a little too long for the bride. The tailor promised to __________ it before Saturday so that she would not trip while walking down the aisle.",
@@ -1774,7 +1788,8 @@ window.FLASHCARD_UNITS = {
       "text": "amend"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "Our class has PE on Monday, Wednesday, and Friday, and art on the other days. Because the two subjects are taught on __________ days, we never have both in one day.",
@@ -1796,7 +1811,8 @@ window.FLASHCARD_UNITS = {
       "text": "agonizing"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 54
    },
    {
     "question": "Many drivers think the fine for using a phone while driving is too low. Lawmakers now plan to __________ the law so that the fine will be three times higher.",
@@ -1818,7 +1834,8 @@ window.FLASHCARD_UNITS = {
       "text": "anticipate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 59
    },
    {
     "question": "Don't worry about the meeting room being too small. It has __________ space for fifty people, and there are extra chairs in the hallway if we need them.",
@@ -1840,7 +1857,8 @@ window.FLASHCARD_UNITS = {
       "text": "ample"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 62
    },
    {
     "question": "Mr. Wang studies the stock market all day and writes reports about which companies will do well. As a financial __________, he is often invited to speak on television.",
@@ -1862,7 +1880,8 @@ window.FLASHCARD_UNITS = {
       "text": "ally"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 65
    },
    {
     "question": "Someone left a bag of money at the door of the orphanage last night with a note that said, 'For the children.' The __________ giver did not sign the note.",
@@ -1884,7 +1903,8 @@ window.FLASHCARD_UNITS = {
       "text": "anonymous"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "The restaurant prepared food for one hundred guests, but three hundred people came to the opening. The owner did not __________ such a large crowd, and the kitchen ran out of rice.",
@@ -1906,7 +1926,8 @@ window.FLASHCARD_UNITS = {
       "text": "allocate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "This wooden chair looks old, but it is not worth much because it was made only twenty years ago. A real __________ should be at least one hundred years old.",
@@ -1928,7 +1949,8 @@ window.FLASHCARD_UNITS = {
       "text": "appliance"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 78
    },
    {
     "question": "When the young pianist finished the last note, the hall was silent for a second. Then the __________ was so loud and long that she came back to play one more piece.",
@@ -1950,7 +1972,8 @@ window.FLASHCARD_UNITS = {
       "text": "applause"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 82
    },
    {
     "question": "Our old refrigerator finally stopped working last night, and all the ice cream melted. Dad says it is the most important __________ in the kitchen, so we are buying a new one today.",
@@ -1972,7 +1995,8 @@ window.FLASHCARD_UNITS = {
       "text": "agenda"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 86
    },
    {
     "question": "Small children often leave their toys on the stairs and forget about them. Because they are __________ to do this, parents should check the stairs before walking down at night.",
@@ -1994,7 +2018,8 @@ window.FLASHCARD_UNITS = {
       "text": "alien"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 91
    },
    {
     "question": "Whenever my aunt visits, she hugs everyone and calls us by sweet nicknames. She is the most __________ person in our family, and the children love her for it.",
@@ -2016,7 +2041,8 @@ window.FLASHCARD_UNITS = {
       "text": "agricultural"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 1
    },
    {
     "question": "The highway was closed because of a landslide, and the trains were full. Our only __________ was to take the slow bus along the coast, which took five hours.",
@@ -2038,7 +2064,8 @@ window.FLASHCARD_UNITS = {
       "text": "alternative"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "Jenny could draw beautiful pictures of animals when she was only four years old. Her teacher noticed her natural __________ for art and suggested that she join the painting club.",
@@ -2060,7 +2087,8 @@ window.FLASHCARD_UNITS = {
       "text": "alteration"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 94
    },
    {
     "question": "The new manager shouted at the workers and never listened to their ideas. Within a month, his rude behavior began to __________ even the most loyal members of the staff.",
@@ -2082,7 +2110,8 @@ window.FLASHCARD_UNITS = {
       "text": "apply"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 32
    },
    {
     "question": "The children could hardly sleep on the night before the trip to the amusement park. They woke up at five in the morning, full of __________ for the roller coasters.",
@@ -2104,7 +2133,8 @@ window.FLASHCARD_UNITS = {
       "text": "agriculture"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 75
    }
   ]
  }

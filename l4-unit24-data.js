@@ -1541,7 +1541,8 @@ window.FLASHCARD_UNITS = {
       "text": "lean"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Visitors to Paris always want to see the Eiffel Tower first. It is the most famous __________ in the city, and you can see it from almost everywhere.",
@@ -1563,7 +1564,8 @@ window.FLASHCARD_UNITS = {
       "text": "landmark"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "We drove through the countryside for three hours yesterday. The __________ outside the window kept changing from rice fields to tea farms and finally to high green mountains.",
@@ -1585,7 +1587,8 @@ window.FLASHCARD_UNITS = {
       "text": "linen"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "The small restaurant was almost empty for the first few months. Its later success was __________ due to one food blogger who wrote about its beef noodles online.",
@@ -1607,7 +1610,8 @@ window.FLASHCARD_UNITS = {
       "text": "lawfully"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "The toy company has been working on a new robot dog for two years. It plans to __________ the product before Christmas so that parents can buy it as a gift.",
@@ -1629,7 +1633,8 @@ window.FLASHCARD_UNITS = {
       "text": "lengthen"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 16
    },
    {
     "question": "In this country, people can vote when they turn eighteen. It is also __________ for them to drive a car and sign a contract at that age.",
@@ -1651,7 +1656,8 @@ window.FLASHCARD_UNITS = {
       "text": "lean"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 20
    },
    {
     "question": "Grandpa's legs are not as strong as they used to be. He has to __________ on a stick when he walks to the park every morning.",
@@ -1673,7 +1679,8 @@ window.FLASHCARD_UNITS = {
       "text": "lean"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 26
    },
    {
     "question": "Dr. Lin has read thousands of books and speaks six languages. Everyone in town respects him as a __________ man and often asks him difficult questions about history.",
@@ -1695,7 +1702,8 @@ window.FLASHCARD_UNITS = {
       "text": "lawful"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 30
    },
    {
     "question": "The famous scientist is visiting our university next week. Her __________ on black holes will be held in the main hall, and all students are welcome to attend.",
@@ -1717,7 +1725,8 @@ window.FLASHCARD_UNITS = {
       "text": "legend"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "After finishing her master's degree, Amy did not want to work in a company. Instead, she became a __________ at a university and now teaches history to young students.",
@@ -1739,7 +1748,8 @@ window.FLASHCARD_UNITS = {
       "text": "liar"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 36
    },
    {
     "question": "Nobody knows whether the story of the dragon in the lake is true. It is only an old __________ that grandparents in the village tell their grandchildren at night.",
@@ -1761,7 +1771,8 @@ window.FLASHCARD_UNITS = {
       "text": "limitation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    },
    {
     "question": "We had no plans at all on the first day of our vacation. After a __________ breakfast on the balcony, we spent the whole morning reading by the pool.",
@@ -1783,7 +1794,8 @@ window.FLASHCARD_UNITS = {
       "text": "leisurely"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 44
    },
    {
     "question": "These curtains are too short for the tall windows in the living room. My mother will __________ them by adding a piece of cloth to the bottom.",
@@ -1805,7 +1817,8 @@ window.FLASHCARD_UNITS = {
       "text": "loan"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 49
    },
    {
     "question": "Tom said he finished his homework, but his notebook was completely empty. His teacher was very angry and told him never to be a __________ again.",
@@ -1827,7 +1840,8 @@ window.FLASHCARD_UNITS = {
       "text": "liar"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 54
    },
    {
     "question": "I could not find any books about Taiwanese birds on the shelves. The __________ typed a few words on her computer and quickly told me where to look.",
@@ -1849,7 +1863,8 @@ window.FLASHCARD_UNITS = {
       "text": "liar"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 59
    },
    {
     "question": "My brother passed his driving test last Friday. He will get his driver's __________ in a few days, and then he can finally drive to school by himself.",
@@ -1871,7 +1886,8 @@ window.FLASHCARD_UNITS = {
       "text": "license"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 62
    },
    {
     "question": "The little boy swam too far and started shouting for help. Luckily, the __________ jumped into the water right away and brought him safely back to the beach.",
@@ -1893,7 +1909,8 @@ window.FLASHCARD_UNITS = {
       "text": "lecturer"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "This small electric car is cheap and easy to park in the city. Its biggest __________, however, is that it cannot travel more than 150 kilometers on one charge.",
@@ -1915,7 +1932,8 @@ window.FLASHCARD_UNITS = {
       "text": "limitation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "Summer in Taiwan is hot and wet, so cotton shirts often feel sticky. Many people prefer clothes made of __________ because this cloth is light and dries quickly.",
@@ -1937,7 +1955,8 @@ window.FLASHCARD_UNITS = {
       "text": "lipstick"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 75
    },
    {
     "question": "Before the school dance, Lisa spent an hour getting ready in front of the mirror. She put on a little pink __________ to make her lips look brighter.",
@@ -1959,7 +1978,8 @@ window.FLASHCARD_UNITS = {
       "text": "liquid"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 78
    },
    {
     "question": "The sign on the store door says that customers must be at least eighteen years old. That is because the shop sells strong __________ such as whisky and rice wine.",
@@ -1981,7 +2001,8 @@ window.FLASHCARD_UNITS = {
       "text": "seafood"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 82
    },
    {
     "question": "Our English teacher started a club for students who love writing poems and stories. Every spring the club holds a __________ contest and prints the best works in a small book.",
@@ -2003,7 +2024,8 @@ window.FLASHCARD_UNITS = {
       "text": "lawful"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 86
    },
    {
     "question": "In this course, students read novels, poems, and plays from different countries. Through __________, they learn how people in other times and places thought and felt.",
@@ -2025,7 +2047,8 @@ window.FLASHCARD_UNITS = {
       "text": "leisure"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 87
    },
    {
     "question": "Mr. Wang wants to open a bakery, but he does not have enough money. He has asked the bank for a __________, which he will pay back over five years.",
@@ -2047,7 +2070,8 @@ window.FLASHCARD_UNITS = {
       "text": "loan"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 92
    },
    {
     "question": "At the seafood restaurant, my father ordered the most expensive dish on the menu. It was a huge red __________ with two big claws, served with butter sauce.",
@@ -2069,7 +2093,8 @@ window.FLASHCARD_UNITS = {
       "text": "linen"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 97
    },
    {
     "question": "Bruce Lee died more than fifty years ago, but people still watch his movies today. The __________ actor changed the way the world looked at kung fu forever.",
@@ -2091,7 +2116,8 @@ window.FLASHCARD_UNITS = {
       "text": "lengthy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "Only fifty people can join the trip to the island this weekend. Because the number of seats on the boat is __________, please sign up as early as you can.",
@@ -2113,7 +2139,8 @@ window.FLASHCARD_UNITS = {
       "text": "lawful"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "The movie was so scary that I could not sleep at all last night. I __________ jumped out of my seat when the ghost suddenly appeared on the screen.",
@@ -2135,7 +2162,8 @@ window.FLASHCARD_UNITS = {
       "text": "largely"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 91
    },
    {
     "question": "I forgot to bring my pencil case to school this morning, so I have nothing to write with. Could you __________ me a pen until the end of the test?",
@@ -2157,7 +2185,8 @@ window.FLASHCARD_UNITS = {
       "text": "lag"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 95
    },
    {
     "question": "The new bridge across the river is the longest in the country. Its total __________ is almost three kilometers, so it takes about forty minutes to walk across it.",
@@ -2179,7 +2208,8 @@ window.FLASHCARD_UNITS = {
       "text": "landmark"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 50
    }
   ]
  }

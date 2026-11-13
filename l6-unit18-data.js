@@ -1406,7 +1406,8 @@ window.FLASHCARD_UNITS = {
       "text": "humiliate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "I cannot explain why, but something tells me we should take the earlier train today. Let's follow my __________ and leave the house thirty minutes early.",
@@ -1428,7 +1429,8 @@ window.FLASHCARD_UNITS = {
       "text": "hygiene"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "Lisa wants to study in Canada, but she still needs to pass the English test. That is the last big __________ before her dream can finally come true.",
@@ -1450,7 +1452,8 @@ window.FLASHCARD_UNITS = {
       "text": "hurdle"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "My father's new car has a small gas engine and an electric motor. This __________ design uses much less fuel than our old car ever did.",
@@ -1472,7 +1475,8 @@ window.FLASHCARD_UNITS = {
       "text": "indignant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 12
    },
    {
     "question": "Always wash your hands before cooking and keep raw meat away from the fresh vegetables. Good kitchen __________ protects the whole family from getting sick in summer.",
@@ -1494,7 +1498,8 @@ window.FLASHCARD_UNITS = {
       "text": "hurdle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 16
    },
    {
     "question": "My uncle tells everyone that smoking is a terrible habit, but he smokes a pack a day himself. People call him a __________ behind his back.",
@@ -1516,7 +1521,8 @@ window.FLASHCARD_UNITS = {
       "text": "prisoner"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    },
    {
     "question": "The famous ship was sailing across the cold ocean at night. It hit a huge piece of floating ice, and this __________ sent it to the bottom of the sea.",
@@ -1538,7 +1544,8 @@ window.FLASHCARD_UNITS = {
       "text": "hurdle"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 23
    },
    {
     "question": "The street near our school is very dark at night, and students feel unsafe. The city will put up new lamps to __________ the whole road by next month.",
@@ -1560,7 +1567,8 @@ window.FLASHCARD_UNITS = {
       "text": "infer"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 27
    },
    {
     "question": "The sky turned black and the wind began to blow very hard. Everyone on the beach packed up quickly because a big storm was clearly __________.",
@@ -1582,7 +1590,8 @@ window.FLASHCARD_UNITS = {
       "text": "imminent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 31
    },
    {
     "question": "The fire could spread to the other buildings within minutes. It is __________ that everyone leaves right now and does not go back for their bags.",
@@ -1604,7 +1613,8 @@ window.FLASHCARD_UNITS = {
       "text": "indignant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "The palace in Beijing was home to Chinese emperors for five hundred years. Today millions of tourists visit the __________ city to see its golden roofs.",
@@ -1626,7 +1636,8 @@ window.FLASHCARD_UNITS = {
       "text": "inclusive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 37
    },
    {
     "question": "The manager never said directly that late workers would lose their bonus. However, the message was __________ in the way he looked at the clock every morning.",
@@ -1648,7 +1659,8 @@ window.FLASHCARD_UNITS = {
       "text": "implicit"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 41
    },
    {
     "question": "The new courthouse is a huge building with tall stone columns and a wide stairway. Its __________ front makes visitors feel small and quiet as they walk in.",
@@ -1670,7 +1682,8 @@ window.FLASHCARD_UNITS = {
       "text": "inclusive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "The man stole money from hundreds of old people. The judge decided to __________ him for twelve years so that he could not hurt anyone else.",
@@ -1692,7 +1705,8 @@ window.FLASHCARD_UNITS = {
       "text": "inhabit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 49
    },
    {
     "question": "I have heard both sides of the story about the broken window. To be honest, I __________ to believe my sister because she has never lied to me.",
@@ -1714,7 +1728,8 @@ window.FLASHCARD_UNITS = {
       "text": "incline"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 54
    },
    {
     "question": "Our new sports day has races for students in wheelchairs and games that everyone can join. The principal wants the event to be truly __________ this year.",
@@ -1736,7 +1751,8 @@ window.FLASHCARD_UNITS = {
       "text": "imminent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 58
    },
    {
     "question": "If you do not pay your credit card bill by the end of the month, the bank will charge you extra. You could __________ a fee of several hundred dollars.",
@@ -1758,7 +1774,8 @@ window.FLASHCARD_UNITS = {
       "text": "infer"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    },
    {
     "question": "The class was asked to vote on where to go for the school trip, but only five students answered. The teacher was sad about their __________.",
@@ -1780,7 +1797,8 @@ window.FLASHCARD_UNITS = {
       "text": "imprisonment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 65
    },
    {
     "question": "The waiter brought the wrong dish, and then the restaurant still charged us for it. My father was __________ and asked to speak to the manager at once.",
@@ -1802,7 +1820,8 @@ window.FLASHCARD_UNITS = {
       "text": "imposing"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "Some people get headaches when they look at bright screens for too long. Doctors say strong light and too little sleep can __________ this kind of pain.",
@@ -1824,7 +1843,8 @@ window.FLASHCARD_UNITS = {
       "text": "induce"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "Fifty years ago, most people in this area were farmers. The government helped the region __________, and today it is full of factories making computer parts.",
@@ -1846,7 +1866,8 @@ window.FLASHCARD_UNITS = {
       "text": "illuminate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "The doctor said my little brother's illness can spread easily to other children. Because it is so __________, he must stay home from school for a whole week.",
@@ -1868,7 +1889,8 @@ window.FLASHCARD_UNITS = {
       "text": "imperial"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 78
    },
    {
     "question": "The teacher did not say that she was angry, but she closed the book loudly and left. From this, the students could __________ that something was wrong.",
@@ -1890,7 +1912,8 @@ window.FLASHCARD_UNITS = {
       "text": "induce"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 82
    },
    {
     "question": "The typhoon brought strong winds and heavy rain to the east coast. It did not __________ much damage on the cities, but many small farms lost everything.",
@@ -1912,7 +1935,8 @@ window.FLASHCARD_UNITS = {
       "text": "infer"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 85
    },
    {
     "question": "The small island has no fresh water and no trees. Only a few kinds of birds __________ it, and no person has ever lived there for very long.",
@@ -1934,7 +1958,8 @@ window.FLASHCARD_UNITS = {
       "text": "illuminate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 88
    },
    {
     "question": "Tom forgot every word of his speech in front of the whole school. The __________ was so great that he did not want to come to class the next day.",
@@ -1956,7 +1981,8 @@ window.FLASHCARD_UNITS = {
       "text": "hygiene"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 1
    },
    {
     "question": "The politician gave a long speech about saving energy and then flew home in his own private jet. Many people were angry about such obvious __________.",
@@ -1978,7 +2004,8 @@ window.FLASHCARD_UNITS = {
       "text": "inference"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 21
    },
    {
     "question": "In reading class, we learn to understand what a writer means but does not say. Making a good __________ from small clues is a very important skill.",
@@ -2000,7 +2027,8 @@ window.FLASHCARD_UNITS = {
       "text": "inclination"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 83
    },
    {
     "question": "The sailors landed on an island with no houses, no roads, and no people. They were the first humans to set foot on this __________ place.",
@@ -2022,7 +2050,8 @@ window.FLASHCARD_UNITS = {
       "text": "uninhabited"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 91
    },
    {
     "question": "The factory poured dirty water into the river that the town drinks from. The news caused great __________ among the people, who marched to the city hall.",
@@ -2044,7 +2073,8 @@ window.FLASHCARD_UNITS = {
       "text": "inference"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 69
    }
   ]
  }

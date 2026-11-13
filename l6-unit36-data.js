@@ -1376,7 +1376,8 @@ window.FLASHCARD_UNITS = {
       "text": "subordinate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "My father used to pay for three newspapers every month, but now he reads the news on his phone for free. He no longer needs to __________ to any of them.",
@@ -1398,7 +1399,8 @@ window.FLASHCARD_UNITS = {
       "text": "summon"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "I pay a small amount of money every month to listen to songs without advertisements. The music app gives students a half-price __________, which saves me a lot.",
@@ -1420,7 +1422,8 @@ window.FLASHCARD_UNITS = {
       "text": "succession"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 6
    },
    {
     "question": "Bus tickets for students cost only eight dollars in our city because the government pays part of the price. The city decided to __________ the tickets two years ago.",
@@ -1442,7 +1445,8 @@ window.FLASHCARD_UNITS = {
       "text": "suppress"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "Our basketball team has lost its best players one after another since the season began in September. This __________ of injuries left the coach with only nine healthy players.",
@@ -1464,7 +1468,8 @@ window.FLASHCARD_UNITS = {
       "text": "succession"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 12
    },
    {
     "question": "It rained every single day during our trip to the mountains. After five __________ days of rain, we gave up and spent the rest of the holiday playing cards.",
@@ -1486,7 +1491,8 @@ window.FLASHCARD_UNITS = {
       "text": "superficial"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 14
    },
    {
     "question": "Firefighters say that smoke is often more dangerous than fire itself. People in a burning building can __________ from the smoke before the flames reach them.",
@@ -1508,7 +1514,8 @@ window.FLASHCARD_UNITS = {
       "text": "surge"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 17
    },
    {
     "question": "My bag was too heavy at the airport, so I had to take some books out of it. The worker said my __________ could not weigh more than twenty-three kilograms.",
@@ -1530,7 +1537,8 @@ window.FLASHCARD_UNITS = {
       "text": "summons"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 21
    },
    {
     "question": "After the fight in the playground, the principal wanted to talk to the three boys at once. He asked a teacher to __________ them to his office right away.",
@@ -1552,7 +1560,8 @@ window.FLASHCARD_UNITS = {
       "text": "summon"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 25
    },
    {
     "question": "The cut on my knee did not go deep, so the doctor said I would not need stitches. He called the wound __________ and told me to keep it clean.",
@@ -1574,7 +1583,8 @@ window.FLASHCARD_UNITS = {
       "text": "symbolic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "The heater in our apartment broke on the coldest night of the year. Luckily, the __________ of the building came up and fixed it within an hour.",
@@ -1596,7 +1606,8 @@ window.FLASHCARD_UNITS = {
       "text": "surgeon"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 33
    },
    {
     "question": "Our team led by twenty points before the first half was even over. Their __________ was so clear that the other coach called a time-out after five minutes.",
@@ -1618,7 +1629,8 @@ window.FLASHCARD_UNITS = {
       "text": "superiority"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 37
    },
    {
     "question": "My grandmother never lets anyone open an umbrella inside the house. She is very __________ and believes that doing so will bring bad luck to the family.",
@@ -1640,7 +1652,8 @@ window.FLASHCARD_UNITS = {
       "text": "symmetrical"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "My grandfather rarely goes outside during the winter, so he does not get much sunlight. His doctor suggested a vitamin D __________ to keep his bones strong.",
@@ -1662,7 +1675,8 @@ window.FLASHCARD_UNITS = {
       "text": "succession"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "When the people marched in the streets, the government sent soldiers to stop them by force. However, its attempt to __________ the protest only made more people join.",
@@ -1684,7 +1698,8 @@ window.FLASHCARD_UNITS = {
       "text": "symbolize"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 49
    },
    {
     "question": "After the movie's trailer went viral online, thousands of people rushed to buy tickets. The theater saw a sudden __________ in sales and added extra evening shows.",
@@ -1706,7 +1721,8 @@ window.FLASHCARD_UNITS = {
       "text": "suspense"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "The nurse put the clean tools on a white cloth while the doctor washed his hands. All of the __________ instruments must be perfectly clean before an operation.",
@@ -1728,7 +1744,8 @@ window.FLASHCARD_UNITS = {
       "text": "surgical"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "In Chinese, the family name comes before the given name. That is why Lin Mei-ling is called Ms. Lin in a letter, since Lin is her __________.",
@@ -1750,7 +1767,8 @@ window.FLASHCARD_UNITS = {
       "text": "suitcase"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 61
    },
    {
     "question": "The young swimmer is now only one second slower than her coach's old record. She hopes to __________ that record at the national games this summer and make him proud.",
@@ -1772,7 +1790,8 @@ window.FLASHCARD_UNITS = {
       "text": "supplement"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 65
    },
    {
     "question": "The movie does not tell you who stole the painting until the very last minute. The director keeps the audience in __________ for almost two hours.",
@@ -1794,7 +1813,8 @@ window.FLASHCARD_UNITS = {
       "text": "suffocation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 69
    },
    {
     "question": "The student was caught cheating on the final exam last week, and his parents were called in. As a punishment, he received a three-day __________ and could not come to school.",
@@ -1816,7 +1836,8 @@ window.FLASHCARD_UNITS = {
       "text": "succession"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "The hikers lost their way and walked into an area of very wet, soft ground. The mud in the __________ came up to their knees, and mosquitoes bit them everywhere.",
@@ -1838,7 +1859,8 @@ window.FLASHCARD_UNITS = {
       "text": "summons"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "A large group of bees suddenly flew out of the old tree near our picnic table. Everyone ran to the cars as the __________ moved across the field.",
@@ -1860,7 +1882,8 @@ window.FLASHCARD_UNITS = {
       "text": "surname"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 78
    },
    {
     "question": "In many countries, a white dove stands for peace. That is why these birds are often set free at the opening of the Olympic Games to __________ friendship between nations.",
@@ -1882,7 +1905,8 @@ window.FLASHCARD_UNITS = {
       "text": "symbolize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 82
    },
    {
     "question": "The old temple was built so that its left side is an exact copy of its right side. Visitors love the perfect __________ of the courtyard and the gates.",
@@ -1904,7 +1928,8 @@ window.FLASHCARD_UNITS = {
       "text": "suspension"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 86
    },
    {
     "question": "These running shoes cost more than the other brand, but they last twice as long and protect your knees. In my opinion, they are clearly __________.",
@@ -1926,7 +1951,8 @@ window.FLASHCARD_UNITS = {
       "text": "subordinate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 38
    },
    {
     "question": "Because of the typhoon, the school could not hold any classes outside for three days. The principal decided to __________ sports day until the weather was safe again.",
@@ -1948,7 +1974,8 @@ window.FLASHCARD_UNITS = {
       "text": "swarm"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    },
    {
     "question": "Around the world, a red heart stands for love between two people. You will see this __________ on cards and gifts everywhere in the shops during the month of February.",
@@ -1970,7 +1997,8 @@ window.FLASHCARD_UNITS = {
       "text": "symbol"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 83
    },
    {
     "question": "When the price of rice falls too low, farmers cannot cover their costs. The government then gives them money, and this __________ helps them keep their farms.",
@@ -1992,7 +2020,8 @@ window.FLASHCARD_UNITS = {
       "text": "surface"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "The doctor who cut open my uncle's knee explained everything to the family first. After the operation, the __________ called them to say it had gone well.",
@@ -2014,7 +2043,8 @@ window.FLASHCARD_UNITS = {
       "text": "superintendent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    }
   ]
  }

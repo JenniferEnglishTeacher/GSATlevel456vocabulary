@@ -1361,7 +1361,8 @@ window.FLASHCARD_UNITS = {
       "text": "usage"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "My grandfather never gets angry when the children make noise or break something by accident. He is the most __________ person I have ever known in my life.",
@@ -1383,7 +1384,8 @@ window.FLASHCARD_UNITS = {
       "text": "troublesome"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 1
    },
    {
     "question": "The library is a place for quiet study, so the rules there are very strict. The staff will not __________ loud talking or eating, and they will ask you to leave.",
@@ -1405,7 +1407,8 @@ window.FLASHCARD_UNITS = {
       "text": "tolerate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 2
    },
    {
     "question": "The famous king died more than two thousand years ago. His __________ was found under a hill last year, and the gold inside it surprised the whole world.",
@@ -1427,7 +1430,8 @@ window.FLASHCARD_UNITS = {
       "text": "twig"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "This animal can live for more than one hundred years and carries a hard shell on its back. The __________ moves very slowly, but it almost never gets sick.",
@@ -1449,7 +1453,8 @@ window.FLASHCARD_UNITS = {
       "text": "transfer"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 11
    },
    {
     "question": "Long ago, prisoners were often hurt badly to make them tell the truth. Today, most countries have laws against __________ because it is cruel and often gives false answers.",
@@ -1471,7 +1476,8 @@ window.FLASHCARD_UNITS = {
       "text": "torture"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 14
    },
    {
     "question": "A huge fire broke out in the old apartment building last night. Sadly, the __________ took the lives of three people and left many families without a home.",
@@ -1493,7 +1499,8 @@ window.FLASHCARD_UNITS = {
       "text": "translation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 18
    },
    {
     "question": "The young singer had just started to become famous. It was truly __________ that she died in a plane crash on the way to her very first concert abroad.",
@@ -1515,7 +1522,8 @@ window.FLASHCARD_UNITS = {
       "text": "tragic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 20
    },
    {
     "question": "My father's company is opening a new office in Taichung next year. The boss asked him to __________ there, so our family will have to move south soon.",
@@ -1537,7 +1545,8 @@ window.FLASHCARD_UNITS = {
       "text": "tremble"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 23
    },
    {
     "question": "The empty lot behind our school was full of trash for years. Last summer, the students worked together to __________ it into a beautiful garden with flowers and benches.",
@@ -1559,7 +1568,8 @@ window.FLASHCARD_UNITS = {
       "text": "urge"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 28
    },
    {
     "question": "Our new classmate from Vietnam does not understand much Chinese yet. The teacher asked me to __________ the homework instructions into English so that he could follow along.",
@@ -1581,7 +1591,8 @@ window.FLASHCARD_UNITS = {
       "text": "tumble"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 32
    },
    {
     "question": "I read a Japanese novel in Chinese last month. The __________ was so natural and smooth that I forgot the book was not written in Chinese in the first place.",
@@ -1603,7 +1614,8 @@ window.FLASHCARD_UNITS = {
       "text": "transportation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 33
    },
    {
     "question": "My aunt speaks English, French, and Chinese very well. She works as a __________ for a big publishing company, turning foreign books into Chinese for readers here.",
@@ -1625,7 +1637,8 @@ window.FLASHCARD_UNITS = {
       "text": "translator"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 34
    },
    {
     "question": "Taipei has a great system of buses and MRT trains. Because public __________ is so cheap and convenient, many people do not need to buy a car at all.",
@@ -1647,7 +1660,8 @@ window.FLASHCARD_UNITS = {
       "text": "tolerance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "It was so cold on the mountain that we could see our breath in the air. My hands began to __________, and I could hardly hold the cup of hot tea.",
@@ -1669,7 +1683,8 @@ window.FLASHCARD_UNITS = {
       "text": "transform"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 42
    },
    {
     "question": "The new bridge has saved people in the village a lot of time. It has made a __________ difference, cutting the trip to the city from two hours to thirty minutes.",
@@ -1691,7 +1706,8 @@ window.FLASHCARD_UNITS = {
       "text": "tribal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 46
    },
    {
     "question": "At the festival, the dancers wore colorful clothes made by their grandmothers. Their __________ songs and dances have been passed down from parents to children for hundreds of years.",
@@ -1713,7 +1729,8 @@ window.FLASHCARD_UNITS = {
       "text": "useless"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 49
    },
    {
     "question": "Nobody thought the small school team could beat the city champions. Their victory in the final game was a great __________ that the students will never forget.",
@@ -1735,7 +1752,8 @@ window.FLASHCARD_UNITS = {
       "text": "triumph"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 52
    },
    {
     "question": "The old washing machine stops in the middle of every wash and makes a loud noise. It has become so __________ that my mother wants to buy a new one.",
@@ -1757,7 +1775,8 @@ window.FLASHCARD_UNITS = {
       "text": "tremendous"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "The floor near the swimming pool was very wet. A little boy ran too fast, lost his balance, and began to __________ down the steps before his father caught him.",
@@ -1779,7 +1798,8 @@ window.FLASHCARD_UNITS = {
       "text": "urge"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "We needed something small and dry to start the campfire in the evening. Everyone went into the woods to look for a __________ or two under the trees.",
@@ -1801,7 +1821,8 @@ window.FLASHCARD_UNITS = {
       "text": "tribe"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "A smile means the same thing in every country around the world. It is a __________ sign of friendliness that everyone can understand without saying a word.",
@@ -1823,7 +1844,8 @@ window.FLASHCARD_UNITS = {
       "text": "universal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "Doctors __________ everyone to wear a mask when they have a cold. This simple habit protects the people around you and helps stop the illness from spreading.",
@@ -1845,7 +1867,8 @@ window.FLASHCARD_UNITS = {
       "text": "tremble"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "The man ran into the police station, shouting that his little daughter was missing. The officers knew the matter was __________ and started searching the area right away.",
@@ -1867,7 +1890,8 @@ window.FLASHCARD_UNITS = {
       "text": "useless"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "This dictionary does not just give the meaning of each word. It also explains common __________, showing you which words usually go together in a sentence.",
@@ -1889,7 +1913,8 @@ window.FLASHCARD_UNITS = {
       "text": "usage"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 82
    },
    {
     "question": "Scientists have discovered a new planet very far from the Earth. It is only one of billions of planets in the __________, and most of them are still unknown.",
@@ -1911,7 +1936,8 @@ window.FLASHCARD_UNITS = {
       "text": "tumble"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 71
    },
    {
     "question": "The new app lets you talk to people in other languages. It can __________ your words into English in just a second, which is great for travelers.",
@@ -1933,7 +1959,8 @@ window.FLASHCARD_UNITS = {
       "text": "tumble"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "The Amis people hold a big harvest festival every summer. Members of the __________ sing, dance, and share food to thank the gods for a good year.",
@@ -1955,7 +1982,8 @@ window.FLASHCARD_UNITS = {
       "text": "torture"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 50
    },
    {
     "question": "The bus accident this morning left many people hurt. The hospital __________ asked for blood, and hundreds of kind people came to help within a few hours.",
@@ -1977,7 +2005,8 @@ window.FLASHCARD_UNITS = {
       "text": "tragically"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 79
    },
    {
     "question": "My old phone is so slow that it takes a minute to open a simple message. It has become almost __________, so I will have to buy a new one soon.",
@@ -1999,7 +2028,8 @@ window.FLASHCARD_UNITS = {
       "text": "urgent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 87
    }
   ]
  }

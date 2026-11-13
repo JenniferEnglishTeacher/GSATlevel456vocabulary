@@ -1376,7 +1376,8 @@ window.FLASHCARD_UNITS = {
       "text": "motive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The police still do not understand why the man broke into the empty school at night. He took nothing, so his __________ for the crime remains a mystery.",
@@ -1398,7 +1399,8 @@ window.FLASHCARD_UNITS = {
       "text": "nominee"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "The hikers reached the base of the hill just after sunrise. They began to __________ the steep path slowly, stopping every few minutes to drink water and rest.",
@@ -1420,7 +1422,8 @@ window.FLASHCARD_UNITS = {
       "text": "mumble"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "Grandpa often speaks with his mouth half closed, so we cannot hear him well. Please do not __________ like that, and speak up clearly when you answer the teacher.",
@@ -1442,7 +1445,8 @@ window.FLASHCARD_UNITS = {
       "text": "mumble"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 13
    },
    {
     "question": "The city government opened a new swimming pool near the park last week. Anyone who lives in town can use this __________ pool for only fifty dollars a visit.",
@@ -1464,7 +1468,8 @@ window.FLASHCARD_UNITS = {
       "text": "muscular"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 17
    },
    {
     "question": "After two years of weight training at the gym, my brother looks very different. His arms and legs are now so __________ that his old shirts no longer fit him.",
@@ -1486,7 +1491,8 @@ window.FLASHCARD_UNITS = {
       "text": "naive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 20
    },
    {
     "question": "I like my hot dog with a lot of yellow sauce that tastes a little hot and sour. Could you please pass me the __________ before I take my first bite?",
@@ -1508,7 +1514,8 @@ window.FLASHCARD_UNITS = {
       "text": "muscle"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "Many people believe that eating carrots gives you perfect eyesight at night. Doctors say this is only a __________, because carrots help your eyes but cannot make them perfect.",
@@ -1530,7 +1537,8 @@ window.FLASHCARD_UNITS = {
       "text": "norm"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 27
    },
    {
     "question": "Amy sent money to a stranger online because he promised to send her a free phone. It was __________ of her to trust someone she had never met.",
@@ -1552,7 +1560,8 @@ window.FLASHCARD_UNITS = {
       "text": "nutritious"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "The movie tells the story of a young girl who travels across the desert alone. Its simple but moving __________ kept the whole audience quiet until the final scene.",
@@ -1574,7 +1583,8 @@ window.FLASHCARD_UNITS = {
       "text": "obligation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    },
    {
     "question": "The milk had been left outside in the sun for three whole days. When I opened the bottle, a __________ smell filled the kitchen and made everyone run away.",
@@ -1596,7 +1606,8 @@ window.FLASHCARD_UNITS = {
       "text": "nasty"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 38
    },
    {
     "question": "The workers want higher pay, but the company says it cannot afford it right now. Both sides will meet again on Friday to continue the __________ and find a deal.",
@@ -1618,7 +1629,8 @@ window.FLASHCARD_UNITS = {
       "text": "mythology"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "During the fight between my two best friends, I refused to take either side. I tried to stay __________ so that both of them would still talk to me afterwards.",
@@ -1640,7 +1652,8 @@ window.FLASHCARD_UNITS = {
       "text": "muscular"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "Our class needs a new leader for the second half of the school year. The teacher asked us to __________ one classmate each, and then everyone will vote next Monday.",
@@ -1662,7 +1675,8 @@ window.FLASHCARD_UNITS = {
       "text": "nominate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 50
    },
    {
     "question": "The young actress was surprised when her name was read out on television this morning. Her first __________ for a major film award came after only two years of acting.",
@@ -1684,7 +1698,8 @@ window.FLASHCARD_UNITS = {
       "text": "nutrition"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "Five teachers were chosen as possible winners of this year's Best Teacher Award. Each __________ will give a short speech before the judges make their final choice tomorrow.",
@@ -1706,7 +1721,8 @@ window.FLASHCARD_UNITS = {
       "text": "negotiator"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 52
    },
    {
     "question": "This group gives free meals to poor children every weekend and never tries to make money. As a __________ organization, it depends completely on gifts from kind people.",
@@ -1728,7 +1744,8 @@ window.FLASHCARD_UNITS = {
       "text": "municipal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "In Japan, taking off your shoes before entering a house is simply what everyone does. Visitors should follow this __________ even if they are not used to it at home.",
@@ -1750,7 +1767,8 @@ window.FLASHCARD_UNITS = {
       "text": "motive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 59
    },
    {
     "question": "Since Kevin started practicing the piano every day, his playing has improved a lot. The change is so __________ that even his neighbors have asked him about it.",
@@ -1772,7 +1790,8 @@ window.FLASHCARD_UNITS = {
       "text": "naive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "The school will close tomorrow because a typhoon is coming to the island tonight. Teachers must __________ every parent by phone or message before six o'clock this evening.",
@@ -1794,7 +1813,8 @@ window.FLASHCARD_UNITS = {
       "text": "notify"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 69
    },
    {
     "question": "My little sister thinks that the moon follows our car wherever we drive at night. It is a sweet __________, but I will explain the real reason when she is older.",
@@ -1816,7 +1836,8 @@ window.FLASHCARD_UNITS = {
       "text": "mustard"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 72
    },
    {
     "question": "I looked for my keys in every room of the house for almost an hour. They were __________ to be found, until my dog walked in carrying them in his mouth.",
@@ -1838,7 +1859,8 @@ window.FLASHCARD_UNITS = {
       "text": "nowhere"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 75
    },
    {
     "question": "Plants need more than just water and sunlight to grow tall and strong. Good soil gives them every important __________ they need, which is why farmers add natural fertilizer.",
@@ -1860,7 +1882,8 @@ window.FLASHCARD_UNITS = {
       "text": "muscle"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 80
    },
    {
     "question": "The school nurse gave a talk about healthy eating to the whole class today. She said that good __________ in childhood helps students grow, learn faster, and stay healthy.",
@@ -1882,7 +1905,8 @@ window.FLASHCARD_UNITS = {
       "text": "negotiation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 81
    },
    {
     "question": "When you borrow a book from the library, you promise to bring it back on time. Returning it is your __________, not a favor you do for the librarian.",
@@ -1904,7 +1928,8 @@ window.FLASHCARD_UNITS = {
       "text": "obligation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 85
    },
    {
     "question": "Our coach never shouts at us when we lose a game. Instead, she tells funny stories and kind words to __________ us, so we always want to try harder.",
@@ -1926,7 +1951,8 @@ window.FLASHCARD_UNITS = {
       "text": "mortgage"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "Instant noodles are cheap and quick, but they do not give your body what it needs. A bowl of vegetables, eggs, and rice is a far more __________ meal.",
@@ -1948,7 +1974,8 @@ window.FLASHCARD_UNITS = {
       "text": "neutral"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 82
    },
    {
     "question": "The price tag on the old bicycle said three thousand dollars, which was too much for me. I decided to __________ with the seller, and we finally agreed on two thousand.",
@@ -1970,7 +1997,8 @@ window.FLASHCARD_UNITS = {
       "text": "negotiate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 42
    },
    {
     "question": "I did not know that my package had already arrived at the convenience store. Then I checked my phone and saw a __________ from the shipping company sent yesterday.",
@@ -1992,7 +2020,8 @@ window.FLASHCARD_UNITS = {
       "text": "obligation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "It is usually around thirty degrees in Taipei in July, but today it is only eighteen. Such __________ weather in summer has surprised everyone, including the weather reporters.",
@@ -2014,7 +2043,8 @@ window.FLASHCARD_UNITS = {
       "text": "normal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    }
   ]
  }

@@ -1256,7 +1256,8 @@ window.FLASHCARD_UNITS = {
       "text": "infect"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "I could not find the chapter about volcanoes in this thick science book. Then my teacher told me to look at the __________ at the back, which lists every topic in order.",
@@ -1278,7 +1279,8 @@ window.FLASHCARD_UNITS = {
       "text": "inning"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "We asked the waiter three times for water, but he just looked away and kept playing with his phone. His __________ attitude made us decide never to return.",
@@ -1300,7 +1302,8 @@ window.FLASHCARD_UNITS = {
       "text": "innovative"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "The Formosan black bear is found only in the mountains of Taiwan and nowhere else. Because it is __________ to the island, the government works hard to protect it.",
@@ -1322,7 +1325,8 @@ window.FLASHCARD_UNITS = {
       "text": "infected"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 12
    },
    {
     "question": "Farmers cannot grow rice without water, and fishermen cannot work without boats. For doctors and nurses, a clean and quiet hospital is just as __________ to their daily work.",
@@ -1344,7 +1348,8 @@ window.FLASHCARD_UNITS = {
       "text": "indispensable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "During the week, Lisa eats vegetables and runs every morning before school. On Sundays, however, she allows herself to __________ in a big bowl of ice cream.",
@@ -1366,7 +1371,8 @@ window.FLASHCARD_UNITS = {
       "text": "innovate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 19
    },
    {
     "question": "It rained heavily for five days, and the river rose higher every hour. By Friday afternoon, everyone in the small town knew that a flood was __________.",
@@ -1388,7 +1394,8 @@ window.FLASHCARD_UNITS = {
       "text": "institutional"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 23
    },
    {
     "question": "If you have the flu, please do not come to school until you feel better. You could easily __________ your classmates just by coughing near them.",
@@ -1410,7 +1417,8 @@ window.FLASHCARD_UNITS = {
       "text": "inherit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "My little brother asks \"why\" about everything from morning until night. My mother says that raising him requires __________ patience, because the questions never stop all day.",
@@ -1432,7 +1440,8 @@ window.FLASHCARD_UNITS = {
       "text": "infinite"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 30
    },
    {
     "question": "The earthquake broke roads, bridges, water pipes, and power lines all over the city. Repairing the __________ will take the government at least two years and a lot of money.",
@@ -1454,7 +1463,8 @@ window.FLASHCARD_UNITS = {
       "text": "inquiry"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 34
    },
    {
     "question": "Riding a bike on a busy road always carries some danger, no matter how careful you are. Because this risk is __________ in cycling, a helmet is a must.",
@@ -1476,7 +1486,8 @@ window.FLASHCARD_UNITS = {
       "text": "inherent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 38
    },
    {
     "question": "When Grandpa died, he left his small bookstore to my mother in his will. She decided to __________ the shop and keep it open for the whole neighborhood.",
@@ -1498,7 +1509,8 @@ window.FLASHCARD_UNITS = {
       "text": "inject"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "The students complained that the school had no recycling bins at all. So the principal decided to __________ a program that puts three bins in every classroom.",
@@ -1520,7 +1532,8 @@ window.FLASHCARD_UNITS = {
       "text": "indulge"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "Nobody told Jack to help, but he saw the old lady struggling with her bags and carried them home for her. His teacher praised him for showing __________.",
@@ -1542,7 +1555,8 @@ window.FLASHCARD_UNITS = {
       "text": "initiative"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "The patient needs this medicine in her blood right away, and pills would take too long. The nurse will __________ it into her arm with a thin needle.",
@@ -1564,7 +1578,8 @@ window.FLASHCARD_UNITS = {
       "text": "inherit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    },
    {
     "question": "Before traveling to the rainforest, you must visit a clinic to protect yourself from a dangerous fever. One __________ in the arm keeps you safe for ten years.",
@@ -1586,7 +1601,8 @@ window.FLASHCARD_UNITS = {
       "text": "indifference"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 52
    },
    {
     "question": "Our baseball team was losing three to one with only one chance left to bat. Then Tom hit a home run in the final __________, and we won the game.",
@@ -1608,7 +1624,8 @@ window.FLASHCARD_UNITS = {
       "text": "index"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "Twenty years ago, nobody could imagine carrying a computer, a camera, and a phone in one pocket. The smartphone was a huge __________ that changed daily life.",
@@ -1630,7 +1647,8 @@ window.FLASHCARD_UNITS = {
       "text": "inquiry"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    },
    {
     "question": "Instead of boring tests, our science teacher lets us build small robots to show what we have learned. Everyone in our class loves her __________ way of teaching.",
@@ -1652,7 +1670,8 @@ window.FLASHCARD_UNITS = {
       "text": "inevitable"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 59
    },
    {
     "question": "The hotel received a phone call from a school asking about prices for forty rooms in July. The manager answered the __________ and sent them a special offer.",
@@ -1674,7 +1693,8 @@ window.FLASHCARD_UNITS = {
       "text": "inquiry"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 62
    },
    {
     "question": "The weather report says a strong typhoon will hit the island tonight with huge waves. Only an __________ person would go surfing at the beach this evening.",
@@ -1696,7 +1716,8 @@ window.FLASHCARD_UNITS = {
       "text": "institutional"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 66
    },
    {
     "question": "Living with a farming family for a month taught me more than any book ever could. I gained real __________ into how hard it is to grow the rice we eat.",
@@ -1718,7 +1739,8 @@ window.FLASHCARD_UNITS = {
       "text": "infrastructure"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 70
    },
    {
     "question": "The school bought new air conditioners for every classroom this summer. Workers spent three whole days on the __________, so the rooms were cool when school began.",
@@ -1740,7 +1762,8 @@ window.FLASHCARD_UNITS = {
       "text": "installation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "After finishing her degree, Mei joined a research __________ in Hsinchu where scientists design computer chips. She says every day there feels like solving a puzzle.",
@@ -1762,7 +1785,8 @@ window.FLASHCARD_UNITS = {
       "text": "injection"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "This university was founded in 1899 and is the oldest in the city. As the most respected educational __________ in the area, it attracts students from all over Asia.",
@@ -1784,7 +1808,8 @@ window.FLASHCARD_UNITS = {
       "text": "inquiry"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 77
    },
    {
     "question": "Peter fell off his bike and got a deep cut on his knee, but he did not clean it. Two days later, the wound was red and swollen with a bad __________.",
@@ -1806,7 +1831,8 @@ window.FLASHCARD_UNITS = {
       "text": "indulgence"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 27
    },
    {
     "question": "My grandmother bought a new washing machine, but it is still sitting in its box. She is waiting for my uncle to come and __________ it this weekend.",
@@ -1828,7 +1854,8 @@ window.FLASHCARD_UNITS = {
       "text": "indulge"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "Our train to Hualien might be canceled because of the typhoon, but nobody is sure. I will call the station to __________ whether it is still running tonight.",
@@ -1850,7 +1877,8 @@ window.FLASHCARD_UNITS = {
       "text": "institute"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "If you keep eating fried chicken and never exercise, your health will suffer sooner or later. Such habits __________ lead to problems, no matter how young you are.",
@@ -1872,7 +1900,8 @@ window.FLASHCARD_UNITS = {
       "text": "indifferently"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "Twenty years ago this company made the best film cameras in the world, but it refused to change. Companies that do not __________ are soon left behind by newer ones.",
@@ -1894,7 +1923,8 @@ window.FLASHCARD_UNITS = {
       "text": "innovate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 60
    }
   ]
  }

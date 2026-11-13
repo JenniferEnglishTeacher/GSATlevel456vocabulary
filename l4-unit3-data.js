@@ -1301,7 +1301,8 @@ window.FLASHCARD_UNITS = {
       "text": "appropriate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The students want to hold a music festival in the school gym next month. They are waiting for the principal's __________ before they start selling tickets.",
@@ -1323,7 +1324,8 @@ window.FLASHCARD_UNITS = {
       "text": "assembly"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Our class went on a trip to see sharks, sea turtles, and colorful fish. The __________ was so big that it took three hours to see every tank.",
@@ -1345,7 +1347,8 @@ window.FLASHCARD_UNITS = {
       "text": "aquarium"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 9
    },
    {
     "question": "The old stone bridge is the most famous thing in the small town. Boats pass under its tall __________ every afternoon while tourists take photos from the bank.",
@@ -1367,7 +1370,8 @@ window.FLASHCARD_UNITS = {
       "text": "aspirin"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 12
    },
    {
     "question": "The trip to the mountains should go well if everyone follows the plan. If any problems __________ on the way, please call the teacher right away for help.",
@@ -1389,7 +1393,8 @@ window.FLASHCARD_UNITS = {
       "text": "assure"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 16
    },
    {
     "question": "The two countries fought for many years and spent millions on weapons. Last week they finally agreed to stop buying __________ and to talk about peace.",
@@ -1411,7 +1416,8 @@ window.FLASHCARD_UNITS = {
       "text": "aspirin"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    },
    {
     "question": "The flowers on the kitchen table looked fresh and very beautiful. I did not know they were __________ until I touched them and felt the plastic leaves.",
@@ -1433,7 +1439,8 @@ window.FLASHCARD_UNITS = {
       "text": "artificial"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 25
    },
    {
     "question": "My older sister can draw, paint, and even make small statues from clay. Everyone in the family says she is the most __________ person they know.",
@@ -1455,7 +1462,8 @@ window.FLASHCARD_UNITS = {
       "text": "athletic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "Tom shouted at his grandmother when she asked him to turn off the TV. Later, he felt so __________ that he cleaned her whole kitchen to say sorry.",
@@ -1477,7 +1485,8 @@ window.FLASHCARD_UNITS = {
       "text": "appropriate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "Living in a big city has good and bad sides. The cost of housing is the one __________ that worries my parents most when they think about moving.",
@@ -1499,7 +1508,8 @@ window.FLASHCARD_UNITS = {
       "text": "attraction"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "My father had a bad headache after working for ten hours. He took an __________ with a glass of water, and the pain went away in half an hour.",
@@ -1521,7 +1531,8 @@ window.FLASHCARD_UNITS = {
       "text": "attachment"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    },
    {
     "question": "The school trip to the science museum starts at eight o'clock tomorrow morning. All students must __________ in the playground before the buses arrive at the gate.",
@@ -1543,7 +1554,8 @@ window.FLASHCARD_UNITS = {
       "text": "assemble"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 43
    },
    {
     "question": "Every Monday morning, the whole school meets together in the big hall. During the __________, the principal makes announcements and gives prizes to the best classes.",
@@ -1565,7 +1577,8 @@ window.FLASHCARD_UNITS = {
       "text": "aquarium"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "Our teacher has a new plan for the group project. She will __________ each group a different country, and we must give a report about it next week.",
@@ -1587,7 +1600,8 @@ window.FLASHCARD_UNITS = {
       "text": "assign"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 47
    },
    {
     "question": "The old man could not read the small words on the ticket machine. He asked the station worker for __________, and she helped him buy a ticket.",
@@ -1609,7 +1623,8 @@ window.FLASHCARD_UNITS = {
       "text": "attraction"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 51
    },
    {
     "question": "In Taiwan, people give red envelopes at New Year. Most people __________ the color red with good luck, so brides also wear red dresses at weddings.",
@@ -1631,7 +1646,8 @@ window.FLASHCARD_UNITS = {
       "text": "approve"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "The parents of the students in our school wanted to help the school in some way. Their __________ raised enough money to buy a new computer for every classroom.",
@@ -1653,7 +1669,8 @@ window.FLASHCARD_UNITS = {
       "text": "atmosphere"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 58
    },
    {
     "question": "We were worried that the new phone might break easily. The shop gave us an __________ that it would be fixed for free within the first year.",
@@ -1675,7 +1692,8 @@ window.FLASHCARD_UNITS = {
       "text": "aspect"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    },
    {
     "question": "My mother was very nervous before my operation. The doctor tried to __________ her that it was simple and that I would be home in two days.",
@@ -1697,7 +1715,8 @@ window.FLASHCARD_UNITS = {
       "text": "assemble"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 61
    },
    {
     "question": "My brother runs every morning, plays basketball after school, and swims on weekends. He is the strongest and most __________ person in our whole big family.",
@@ -1719,7 +1738,8 @@ window.FLASHCARD_UNITS = {
       "text": "athletic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 65
    },
    {
     "question": "The little café near our school is warm and quiet, with soft music playing. Many students love its friendly __________ and go there to study after class.",
@@ -1741,7 +1761,8 @@ window.FLASHCARD_UNITS = {
       "text": "assistance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "Everything around us is made of very small pieces that we cannot see. Scientists call the smallest piece of a chemical element like gold or iron an __________.",
@@ -1763,7 +1784,8 @@ window.FLASHCARD_UNITS = {
       "text": "athlete"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    },
    {
     "question": "The first __________ bomb was used in 1945, and it destroyed a whole city in seconds. Since then, the whole world has worried about such terrible weapons.",
@@ -1785,7 +1807,8 @@ window.FLASHCARD_UNITS = {
       "text": "athletic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "The school office needs a picture of you for the student card. Please __________ a recent photo to the form before you hand it in to the office.",
@@ -1807,7 +1830,8 @@ window.FLASHCARD_UNITS = {
       "text": "assure"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "Taipei 101 is the most famous building in the city. It is a popular tourist __________, and the view from the top is wonderful at night.",
@@ -1829,7 +1853,8 @@ window.FLASHCARD_UNITS = {
       "text": "assembly"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 80
    },
    {
     "question": "The night market is full of cheap and tasty food. Its many small shops __________ thousands of visitors every weekend, especially in the hot summer months.",
@@ -1851,7 +1876,8 @@ window.FLASHCARD_UNITS = {
       "text": "arm"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 82
    },
    {
     "question": "The city wants to build a new park beside the river. The council will __________ the plan tonight if enough people come to the meeting to support it.",
@@ -1873,7 +1899,8 @@ window.FLASHCARD_UNITS = {
       "text": "associate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "The new library will have a glass roof and a garden on the top floor. The __________ showed us a model of it at the meeting yesterday.",
@@ -1895,7 +1922,8 @@ window.FLASHCARD_UNITS = {
       "text": "assistant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 14
    },
    {
     "question": "I could not open the file you sent with your email last night. Could you please send the report again in a new email as a PDF __________?",
@@ -1917,7 +1945,8 @@ window.FLASHCARD_UNITS = {
       "text": "attachment"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 76
    },
    {
     "question": "The young runner broke the national record in the 100-meter race last Sunday. She became the most famous young __________ in the whole country almost overnight.",
@@ -1939,7 +1968,8 @@ window.FLASHCARD_UNITS = {
       "text": "assistant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 66
    }
   ]
  }

@@ -1421,7 +1421,8 @@ window.FLASHCARD_UNITS = {
       "text": "bribe"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The company has lost money for five years in a row and owes the bank millions of dollars. Experts say it is now on the __________ of closing down forever.",
@@ -1443,7 +1444,8 @@ window.FLASHCARD_UNITS = {
       "text": "bureau"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Reading books about faraway countries helps you learn about ways of life different from your own. A year of travel abroad can also __________ your view of the whole world.",
@@ -1465,7 +1467,8 @@ window.FLASHCARD_UNITS = {
       "text": "bypass"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 7
    },
    {
     "question": "At the hotel desk, I picked up a small folded paper with photos of the island's beaches and prices for boat trips. The __________ made me want to see everything.",
@@ -1487,7 +1490,8 @@ window.FLASHCARD_UNITS = {
       "text": "brotherhood"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "Put the fish on the top shelf of the oven and turn the heat up high. Five minutes is enough to __________ it, so watch carefully or it will burn.",
@@ -1509,7 +1513,8 @@ window.FLASHCARD_UNITS = {
       "text": "caption"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "Behind the farmhouse, a small stream of clear water runs down from the hills. In summer, the children sit by the __________ and cool their feet.",
@@ -1531,7 +1536,8 @@ window.FLASHCARD_UNITS = {
       "text": "brook"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 18
    },
    {
     "question": "Grandma boils chicken bones with ginger for three hours to make soup for the whole family. She says a bowl of her hot __________ cures any cold.",
@@ -1553,7 +1559,8 @@ window.FLASHCARD_UNITS = {
       "text": "cardinal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 21
    },
    {
     "question": "The firefighters live and work together every day and would die for one another. This strong feeling of __________ is what keeps the team so close.",
@@ -1575,7 +1582,8 @@ window.FLASHCARD_UNITS = {
       "text": "bureaucracy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 24
    },
    {
     "question": "The old sofa is too large and heavy for one person to move by himself. Because it is so __________, we need a truck and three strong friends.",
@@ -1597,7 +1605,8 @@ window.FLASHCARD_UNITS = {
       "text": "broad"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 29
    },
    {
     "question": "I waited two hours at the city office, and then the man behind the desk said my form was wrong. That __________ sent me home for one missing stamp.",
@@ -1619,7 +1628,8 @@ window.FLASHCARD_UNITS = {
       "text": "bureaucrat"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 32
    },
    {
     "question": "There is always a traffic jam in the middle of the city after five o'clock. If you take the new road around the city, you can __________ the traffic completely.",
@@ -1641,7 +1651,8 @@ window.FLASHCARD_UNITS = {
       "text": "calculate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "Many students drink three cups of coffee a day to stay awake while they study. Doctors warn that too much __________ can cause headaches and poor sleep.",
@@ -1663,7 +1674,8 @@ window.FLASHCARD_UNITS = {
       "text": "carton"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 39
    },
    {
     "question": "The math problem has too many large numbers to do in my head. May I use a __________ to find the answer quickly before the class ends?",
@@ -1685,7 +1697,8 @@ window.FLASHCARD_UNITS = {
       "text": "cape"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 43
    },
    {
     "question": "My grandfather writes Chinese characters with a brush and black ink every morning. He says that practicing __________ teaches him patience as well as beautiful writing.",
@@ -1707,7 +1720,8 @@ window.FLASHCARD_UNITS = {
       "text": "captivity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 47
    },
    {
     "question": "The lighthouse stands on a piece of land that reaches far out into the sea. From the top of the __________, you can see ships coming from three directions.",
@@ -1729,7 +1743,8 @@ window.FLASHCARD_UNITS = {
       "text": "cashier"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "The doctor gave me small pills for my stomach, each one inside a smooth soft cover. I have to take one __________ with water after every meal.",
@@ -1751,7 +1766,8 @@ window.FLASHCARD_UNITS = {
       "text": "brook"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "Under the photo of the old bridge in the newspaper, there is one short line of words. The __________ tells readers when and where the picture was taken.",
@@ -1773,7 +1789,8 @@ window.FLASHCARD_UNITS = {
       "text": "caption"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 58
    },
    {
     "question": "The soldiers were caught by the enemy and kept in a camp for two years. Every __________ dreamed of the day he would see his family again.",
@@ -1795,7 +1812,8 @@ window.FLASHCARD_UNITS = {
       "text": "calligrapher"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    },
    {
     "question": "Tigers born in zoos usually cannot hunt because they have never had to find food. An animal that grows up in __________ often cannot live in the wild.",
@@ -1817,7 +1835,8 @@ window.FLASHCARD_UNITS = {
       "text": "brotherhood"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    },
    {
     "question": "We are moving to a new apartment next week, and we need boxes for all our books. The shop sells thick, strong __________ that is perfect for making boxes.",
@@ -1839,7 +1858,8 @@ window.FLASHCARD_UNITS = {
       "text": "broth"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    },
    {
     "question": "The old priest has served the church for fifty years and is loved by many. Next month, the Pope will make him a __________, one of the highest leaders of the Church.",
@@ -1861,7 +1881,8 @@ window.FLASHCARD_UNITS = {
       "text": "cardinal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "On the last day of school, the children ran across the field, laughing without a worry. Everyone looked so __________ and happy in the summer sun.",
@@ -1883,7 +1904,8 @@ window.FLASHCARD_UNITS = {
       "text": "bulky"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "Mr. Lin opens the school gates every morning and locks all the doors at night. As the __________, he also fixes broken lights and keeps the halls clean.",
@@ -1905,7 +1927,8 @@ window.FLASHCARD_UNITS = {
       "text": "bribe"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 81
    },
    {
     "question": "We only have two eggs left in the kitchen, and I want to make a cake tonight. Could you buy a __________ of eggs on your way home?",
@@ -1927,7 +1950,8 @@ window.FLASHCARD_UNITS = {
       "text": "brook"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 85
    },
    {
     "question": "After choosing a drink and some snacks, I went to the front of the store to pay. The __________ scanned my things and gave me the change.",
@@ -1949,7 +1973,8 @@ window.FLASHCARD_UNITS = {
       "text": "cashier"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 88
    },
    {
     "question": "The mayor took money from a building company and let it build on land that was not safe. He was sent to prison for __________ and lost everything.",
@@ -1971,7 +1996,8 @@ window.FLASHCARD_UNITS = {
       "text": "captivity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 2
    },
    {
     "question": "Getting a license for a small shop should take a day, but it took my uncle six months. Everyone complains about the slow, __________ system at the city office.",
@@ -1993,7 +2019,8 @@ window.FLASHCARD_UNITS = {
       "text": "decaffeinated"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "The older boys always help the younger ones carry their bags and tie their shoes. Their teacher praised them in class for showing such __________ care to the little ones.",
@@ -2015,7 +2042,8 @@ window.FLASHCARD_UNITS = {
       "text": "careless"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 27
    },
    {
     "question": "The kidnapped girl said the man gave her food and let her sleep but never opened the window. Police caught her __________ three days later at a bus station.",
@@ -2037,7 +2065,8 @@ window.FLASHCARD_UNITS = {
       "text": "captor"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 67
    },
    {
     "question": "I cannot sleep at night after drinking tea or coffee in the evening. Now I only buy __________ drinks after four o'clock, and I sleep much better.",
@@ -2059,7 +2088,8 @@ window.FLASHCARD_UNITS = {
       "text": "careful"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    }
   ]
  }

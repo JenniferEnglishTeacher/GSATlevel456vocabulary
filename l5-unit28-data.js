@@ -1466,7 +1466,8 @@ window.FLASHCARD_UNITS = {
       "text": "province"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "Read the whole contract carefully before you sign it. There is a __________ on the last page that lets the company raise the price after the first year.",
@@ -1488,7 +1489,8 @@ window.FLASHCARD_UNITS = {
       "text": "pyramid"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 3
    },
    {
     "question": "My little brother gets angry very easily these days. Please do not __________ him by hiding his toys again, or he will cry and Mom will blame both of us.",
@@ -1510,7 +1512,8 @@ window.FLASHCARD_UNITS = {
       "text": "provoke"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "The nurse put two fingers on my wrist and looked at her watch for a minute. She said my __________ was a little fast, probably because I was nervous about the test.",
@@ -1532,7 +1535,8 @@ window.FLASHCARD_UNITS = {
       "text": "rack"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "The concert tickets will go on sale at ten o'clock tomorrow morning. You can __________ them online, but you must print them out and bring them to the gate.",
@@ -1554,7 +1558,8 @@ window.FLASHCARD_UNITS = {
       "text": "rattle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 16
    },
    {
     "question": "The ancient Egyptians built huge stone buildings for their kings more than four thousand years ago. The largest __________ is still standing in the desert near Cairo today.",
@@ -1576,7 +1581,8 @@ window.FLASHCARD_UNITS = {
       "text": "pyramid"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 20
    },
    {
     "question": "Our basketball team has worked hard all year for this moment. If we win tomorrow's game, we will __________ for the national finals in Taipei next month.",
@@ -1598,7 +1604,8 @@ window.FLASHCARD_UNITS = {
       "text": "purchase"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 23
    },
    {
     "question": "In the story, a young knight leaves his village and travels for many years. His __________ is to find the magic sword that can save the kingdom from the dragon.",
@@ -1620,7 +1627,8 @@ window.FLASHCARD_UNITS = {
       "text": "ratio"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 28
    },
    {
     "question": "The hotel wants to know what its guests think about the service. Before you check out, please spend five minutes filling in this short __________ about your stay.",
@@ -1642,7 +1650,8 @@ window.FLASHCARD_UNITS = {
       "text": "questionnaire"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 32
    },
    {
     "question": "It was her first time to speak in front of three hundred people. Her hands began to __________ as she walked onto the stage, but her voice stayed clear and strong.",
@@ -1664,7 +1673,8 @@ window.FLASHCARD_UNITS = {
       "text": "radiate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 37
    },
    {
     "question": "Each salesperson at the car company must sell at least fifty cars a month. Those who reach their __________ early receive a special bonus at the end of the year.",
@@ -1686,7 +1696,8 @@ window.FLASHCARD_UNITS = {
       "text": "quest"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 40
    },
    {
     "question": "Some fans shouted hurtful words at the black football player during the match. After the game, he spoke bravely against __________ and asked the club to punish those fans.",
@@ -1708,7 +1719,8 @@ window.FLASHCARD_UNITS = {
       "text": "radiation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 43
    },
    {
     "question": "Your coat is dripping wet from the rain. Hang it on the __________ next to the door so that it can dry before you have to leave this evening.",
@@ -1730,7 +1742,8 @@ window.FLASHCARD_UNITS = {
       "text": "raid"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "Workers at the nuclear power plant have to wear special white suits all day. The suits protect their bodies from __________, which can cause serious illness over time.",
@@ -1752,7 +1765,8 @@ window.FLASHCARD_UNITS = {
       "text": "realism"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 52
    },
    {
     "question": "The new principal did not want to make small changes. Instead, she made __________ ones, such as starting school at nine and ending all tests on Mondays.",
@@ -1774,7 +1788,8 @@ window.FLASHCARD_UNITS = {
       "text": "radical"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 56
    },
    {
     "question": "The old man had no money and slept under the bridge every night. He wore a __________ coat with holes in both sleeves, so a kind woman gave him a new one.",
@@ -1796,7 +1811,8 @@ window.FLASHCARD_UNITS = {
       "text": "radical"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 59
    },
    {
     "question": "The police had watched the old warehouse for several weeks. At dawn on Monday, they made a surprise __________ and found hundreds of fake designer handbags inside.",
@@ -1818,7 +1834,8 @@ window.FLASHCARD_UNITS = {
       "text": "ratio"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 62
    },
    {
     "question": "These stairs are very steep, and the steps are still wet from the rain. Please hold on to the __________ with one hand as you walk down to the station.",
@@ -1840,7 +1857,8 @@ window.FLASHCARD_UNITS = {
       "text": "rack"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "Thousands of people gathered in front of the city hall on Saturday morning. The __________ was held to ask the mayor for cleaner air and safer streets for children.",
@@ -1862,7 +1880,8 @@ window.FLASHCARD_UNITS = {
       "text": "raid"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "My uncle keeps more than two hundred cows on his land in the hills. Every summer I spend two weeks at his __________ and learn to ride a horse.",
@@ -1884,7 +1903,8 @@ window.FLASHCARD_UNITS = {
       "text": "pyramid"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 74
    },
    {
     "question": "The teacher did not tell us who would answer the questions. She just picked five __________ names from the class list, so everyone had to be ready.",
@@ -1906,7 +1926,8 @@ window.FLASHCARD_UNITS = {
       "text": "ragged"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 77
    },
    {
     "question": "There are eighteen boys and twelve girls in our class this year. In other words, the __________ of boys to girls in the class is exactly three to two.",
@@ -1928,7 +1949,8 @@ window.FLASHCARD_UNITS = {
       "text": "ratio"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 80
    },
    {
     "question": "Your neighbor bought a second car, but that is no reason for you to do the same. When money is tight, it is not a __________ decision to spend so much.",
@@ -1950,7 +1972,8 @@ window.FLASHCARD_UNITS = {
       "text": "random"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 83
    },
    {
     "question": "The wind was very strong all night, and nobody in the house could sleep. It made the old windows __________ so loudly that we thought someone was knocking.",
@@ -1972,7 +1995,8 @@ window.FLASHCARD_UNITS = {
       "text": "provoke"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 87
    },
    {
     "question": "In the painting, you can see every wrinkle on the old farmer's face and every stone on the road. Many visitors admire its __________ and think it looks like a photograph.",
@@ -1994,7 +2018,8 @@ window.FLASHCARD_UNITS = {
       "text": "provision"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 91
    },
    {
     "question": "Tom has never run more than three kilometers in his life. His plan to finish a full marathon next month is not __________, so his coach told him to start with a 10K race.",
@@ -2016,7 +2041,8 @@ window.FLASHCARD_UNITS = {
       "text": "radical"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 92
    },
    {
     "question": "Safety in the swimming pool is extremely important. Only __________ teachers who have passed the lifeguard test are allowed to lead the swimming class for young children.",
@@ -2038,7 +2064,8 @@ window.FLASHCARD_UNITS = {
       "text": "radioactive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 25
    },
    {
     "question": "You do not need to buy food in the morning during the trip. The hotel will __________ a free breakfast for all guests from six thirty to nine o'clock every day.",
@@ -2060,7 +2087,8 @@ window.FLASHCARD_UNITS = {
       "text": "provoke"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 6
    },
    {
     "question": "In the movie, the hero jumps off a tall building and flies away without getting hurt. In __________, of course, nobody can do that, so please do not try it at home.",
@@ -2082,7 +2110,8 @@ window.FLASHCARD_UNITS = {
       "text": "reality"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 94
    },
    {
     "question": "I was so busy playing the new game that I forgot about everything else. I did not __________ how late it was until I looked at the clock and saw it was midnight.",
@@ -2104,7 +2133,8 @@ window.FLASHCARD_UNITS = {
       "text": "rationalize"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 95
    }
   ]
  }

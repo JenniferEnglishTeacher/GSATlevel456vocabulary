@@ -1346,7 +1346,8 @@ window.FLASHCARD_UNITS = {
       "text": "drift"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "Lemons and limes look very similar, but their tastes are quite __________. Most people can easily tell which is which after just one bite of each fruit.",
@@ -1368,7 +1369,8 @@ window.FLASHCARD_UNITS = {
       "text": "drowsy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 5
    },
    {
     "question": "The two paintings look almost the same to me. Only an expert can __________ the real one from the copy by looking closely at the brush marks.",
@@ -1390,7 +1392,8 @@ window.FLASHCARD_UNITS = {
       "text": "distinguish"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 6
    },
    {
     "question": "Professor Huang has written twenty books and won many important international prizes. He is the most __________ scientist that our university has ever had in its long history.",
@@ -1412,7 +1415,8 @@ window.FLASHCARD_UNITS = {
       "text": "disturbed"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 7
    },
    {
     "question": "The teacher brought a big box of new notebooks into the classroom. She asked two students to __________ them so that everyone would get one quickly.",
@@ -1434,7 +1438,8 @@ window.FLASHCARD_UNITS = {
       "text": "dispute"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 11
    },
    {
     "question": "The charity collected thousands of warm winter coats for poor families. The __________ of the coats will take place at the city hall this Saturday morning.",
@@ -1456,7 +1461,8 @@ window.FLASHCARD_UNITS = {
       "text": "diversity"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 12
    },
    {
     "question": "Mr. Wu runs a small noodle shop near the night market. Everyone in the __________ knows him, and many people have been eating there for twenty years.",
@@ -1478,7 +1484,8 @@ window.FLASHCARD_UNITS = {
       "text": "district"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "Dad is working on an important report in his study. Please play quietly in your room and do not __________ him until he comes out for dinner.",
@@ -1500,7 +1507,8 @@ window.FLASHCARD_UNITS = {
       "text": "drill"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 19
    },
    {
     "question": "Our school has students from Vietnam, Japan, the US, and many other countries. Because the class is so __________, we learn about a new culture almost every week.",
@@ -1522,7 +1530,8 @@ window.FLASHCARD_UNITS = {
       "text": "diverse"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 24
    },
    {
     "question": "Taiwan's night markets sell food from all over the world. This great __________ of choices is one big reason why foreign visitors love walking through them.",
@@ -1544,7 +1553,8 @@ window.FLASHCARD_UNITS = {
       "text": "durability"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 25
    },
    {
     "question": "Long ago, people believed that the king was chosen by the gods. They thought his power was __________, so nobody ever dared to question his orders.",
@@ -1566,7 +1576,8 @@ window.FLASHCARD_UNITS = {
       "text": "dusty"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 28
    },
    {
     "question": "Mr. and Mrs. Lee were married for fifteen years, but they argued almost every single day. After their __________, they both seemed much happier and calmer.",
@@ -1588,7 +1599,8 @@ window.FLASHCARD_UNITS = {
       "text": "distribution"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 32
    },
    {
     "question": "A ball suddenly flew toward Tim's head during the baseball game. He was able to __________ it just in time, so he was not hurt at all.",
@@ -1610,7 +1622,8 @@ window.FLASHCARD_UNITS = {
       "text": "dodge"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 36
    },
    {
     "question": "Red is clearly the __________ color in the new living room. The sofa, the curtains, and even the big rug are all different shades of red.",
@@ -1632,7 +1645,8 @@ window.FLASHCARD_UNITS = {
       "text": "dusty"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 40
    },
    {
     "question": "The tallest player on our team scores most of the points. He can __________ any game because nobody from the other side is able to stop him.",
@@ -1654,7 +1668,8 @@ window.FLASHCARD_UNITS = {
       "text": "drowse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    },
    {
     "question": "Your essay has some good ideas, but there are many mistakes in it. Fix them and write a second __________ before you hand in the final paper.",
@@ -1676,7 +1691,8 @@ window.FLASHCARD_UNITS = {
       "text": "draft"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 45
    },
    {
     "question": "Many students __________ the first day of a new school year. They worry about new teachers, harder classes, and whether they will be able to make new friends.",
@@ -1698,7 +1714,8 @@ window.FLASHCARD_UNITS = {
       "text": "dominate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 50
    },
    {
     "question": "The children forgot to hold on to their toy boat in the river. It began to __________ away slowly, and soon it was too far to reach.",
@@ -1720,7 +1737,8 @@ window.FLASHCARD_UNITS = {
       "text": "drift"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 54
    },
    {
     "question": "Grandpa wants to hang a heavy mirror on the brick wall. He needs an electric __________ to make the holes, because a hammer will not work.",
@@ -1742,7 +1760,8 @@ window.FLASHCARD_UNITS = {
       "text": "drift"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 59
    },
    {
     "question": "I only slept for four hours last night because of my homework. Now I feel so __________ in class that I can hardly keep my eyes open.",
@@ -1764,7 +1783,8 @@ window.FLASHCARD_UNITS = {
       "text": "dusty"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "This backpack is made of very strong material. It is so __________ that you can use it every day for years without any holes or broken straps.",
@@ -1786,7 +1806,8 @@ window.FLASHCARD_UNITS = {
       "text": "distinct"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    },
    {
     "question": "Nobody has cleaned the old storage room for more than a year. All the boxes are __________, and you will get dirty if you touch them.",
@@ -1808,7 +1829,8 @@ window.FLASHCARD_UNITS = {
       "text": "dynamic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    },
    {
     "question": "Lucy's hair is naturally black, but she wants a big change for the summer. She plans to __________ it light brown at the salon this weekend.",
@@ -1830,7 +1852,8 @@ window.FLASHCARD_UNITS = {
       "text": "dust"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 76
    },
    {
     "question": "Our new English teacher is full of energy and always has new ideas for games. Her __________ teaching style makes even the quiet students want to join in.",
@@ -1852,7 +1875,8 @@ window.FLASHCARD_UNITS = {
       "text": "dreadful"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 80
    },
    {
     "question": "The Great Wall was built and repaired over many centuries. Much of what we see today was built during the Ming __________, about five hundred years ago.",
@@ -1874,7 +1898,8 @@ window.FLASHCARD_UNITS = {
       "text": "drill"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 84
    },
    {
     "question": "The movie had several very scary scenes that stayed in my mind. It was so __________ that I could not fall asleep until three in the morning.",
@@ -1896,7 +1921,8 @@ window.FLASHCARD_UNITS = {
       "text": "dyed"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 21
    },
    {
     "question": "The food at the new restaurant was cold, and the waiter was rude to us. It was a __________ evening, and we will never go back there again.",
@@ -1918,7 +1944,8 @@ window.FLASHCARD_UNITS = {
       "text": "dominant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 52
    },
    {
     "question": "Many people use the words 'weather' and 'climate' to mean the same thing. However, there is a clear __________ between them, and scientists never mix them up.",
@@ -1940,7 +1967,8 @@ window.FLASHCARD_UNITS = {
       "text": "distinction"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 10
    },
    {
     "question": "The runners had to __________ heavy rain and cold wind for the whole marathon. Even so, most of them crossed the finish line with big smiles.",
@@ -1962,7 +1990,8 @@ window.FLASHCARD_UNITS = {
       "text": "distinguish"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "The concert will last about two hours without a break. Please turn off your phone for the whole __________ of the show so that others can enjoy the music.",
@@ -1984,7 +2013,8 @@ window.FLASHCARD_UNITS = {
       "text": "distribution"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 70
    }
   ]
  }

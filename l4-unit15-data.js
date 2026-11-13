@@ -1226,7 +1226,8 @@ window.FLASHCARD_UNITS = {
       "text": "evaluate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The new stadium can hold eighty thousand people, and it took five years to build. It is so __________ that you can see it from the highway ten kilometers away.",
@@ -1248,7 +1249,8 @@ window.FLASHCARD_UNITS = {
       "text": "ethnic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "The bus leaves for the museum at eight tomorrow morning. Please count the students twice to __________ that every student is on board before it drives away.",
@@ -1270,7 +1272,8 @@ window.FLASHCARD_UNITS = {
       "text": "exhibit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 7
    },
    {
     "question": "My uncle is the funniest person at every family dinner. He loves to __________ the children with magic tricks and silly songs until they cannot stop laughing.",
@@ -1292,7 +1295,8 @@ window.FLASHCARD_UNITS = {
       "text": "entertain"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 11
    },
    {
     "question": "When the teacher asked who wanted to join the science fair, every hand in the room went up at once. She was happy to see so much __________ for the project.",
@@ -1314,7 +1318,8 @@ window.FLASHCARD_UNITS = {
       "text": "equality"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 15
    },
    {
     "question": "In the past, only boys in the village could go to school. Today, people believe in __________, so girls and boys study in the same classroom and have the same chances.",
@@ -1336,7 +1341,8 @@ window.FLASHCARD_UNITS = {
       "text": "evidence"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 18
    },
    {
     "question": "Our school just received money from the government for the new computer room. It will be used to __________ the room with thirty laptops and a large screen.",
@@ -1358,7 +1364,8 @@ window.FLASHCARD_UNITS = {
       "text": "exaggerate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 23
    },
    {
     "question": "Before the Internet, people wrote letters and waited weeks for a reply. The smartphone started a new __________ in which friends can talk to each other at any moment.",
@@ -1380,7 +1387,8 @@ window.FLASHCARD_UNITS = {
       "text": "estimate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "You cannot enter the country without this small blue book. A passport is __________ for travel abroad, so check that yours is still good before you book the flight.",
@@ -1402,7 +1410,8 @@ window.FLASHCARD_UNITS = {
       "text": "exaggerated"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 30
    },
    {
     "question": "Mr. Lin and his friends wanted to help poor children in the mountains go to school. In 2010, they decided to __________ a charity that pays for the children's books and lunches.",
@@ -1424,7 +1433,8 @@ window.FLASHCARD_UNITS = {
       "text": "establish"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 34
    },
    {
     "question": "Nobody knows exactly how many people will come to the concert on Saturday. The people running the show __________ that about five thousand fans will fill the park if the weather is fine.",
@@ -1446,7 +1456,8 @@ window.FLASHCARD_UNITS = {
       "text": "explain"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "Taiwan is home to many different groups of people, such as the Amis, the Hakka, and the Atayal. Each __________ group has its own language, food, and festivals.",
@@ -1468,7 +1479,8 @@ window.FLASHCARD_UNITS = {
       "text": "evident"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 42
    },
    {
     "question": "At the end of every semester, students fill out a form about each class. The school uses these forms to __________ the teachers and help them improve their lessons.",
@@ -1490,7 +1502,8 @@ window.FLASHCARD_UNITS = {
       "text": "entertain"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "After the science fair, each judge wrote comments about every project. The students read this __________ carefully to find out what they could do better next year.",
@@ -1512,7 +1525,8 @@ window.FLASHCARD_UNITS = {
       "text": "expansion"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 46
    },
    {
     "question": "The team lost the first game and played badly in the second. Nobody expected their __________ win in the final, which made the whole school cheer for an hour.",
@@ -1534,7 +1548,8 @@ window.FLASHCARD_UNITS = {
       "text": "eventual"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    },
    {
     "question": "The police think the man stole the bicycle, but they cannot prove it yet. Without any __________, such as a photo or a witness, they have to let him go.",
@@ -1556,7 +1571,8 @@ window.FLASHCARD_UNITS = {
       "text": "exception"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 52
    },
    {
     "question": "Amy did not say a word at lunch, and she kept looking at her phone. It was __________ to all of us that something was wrong, so we asked her what had happened.",
@@ -1578,7 +1594,8 @@ window.FLASHCARD_UNITS = {
       "text": "evident"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 53
    },
    {
     "question": "Grandpa says the fish he caught was as long as his arm, but the photo shows a very small one. He always likes to __________ when he tells his fishing stories.",
@@ -1600,7 +1617,8 @@ window.FLASHCARD_UNITS = {
       "text": "evaluate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 56
    },
    {
     "question": "Students must wear the school uniform every day of the week. The only __________ is Sports Day, when everyone can come to school in a T-shirt and shorts.",
@@ -1622,7 +1640,8 @@ window.FLASHCARD_UNITS = {
       "text": "evidence"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 59
    },
    {
     "question": "The hike to the top of the mountain takes nine hours in the hot sun. It will __________ even strong walkers, so bring lots of water and start early in the morning.",
@@ -1644,7 +1663,8 @@ window.FLASHCARD_UNITS = {
       "text": "exhaust"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    },
    {
     "question": "The art museum downtown has just received fifty paintings from a famous French painter. It will __________ them in its main hall for three months starting next week.",
@@ -1666,7 +1686,8 @@ window.FLASHCARD_UNITS = {
       "text": "ensure"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 68
    },
    {
     "question": "The little bakery is so popular that customers often wait outside in a long line. The owner plans to __________ the shop by buying the empty store next door.",
@@ -1688,7 +1709,8 @@ window.FLASHCARD_UNITS = {
       "text": "expand"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "Ten years ago, this part of the city was all farms and small houses. The fast __________ of the city has filled the area with tall buildings and busy roads.",
@@ -1710,7 +1732,8 @@ window.FLASHCARD_UNITS = {
       "text": "evaluation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    },
    {
     "question": "Doctors are testing a new medicine for the flu on a small group of patients. It is still __________, so you cannot buy it at any drugstore yet.",
@@ -1732,7 +1755,8 @@ window.FLASHCARD_UNITS = {
       "text": "ethnic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "Jack came to class an hour late with mud all over his shoes. The teacher asked him for an __________, and he said his bike had fallen into the river.",
@@ -1754,7 +1778,8 @@ window.FLASHCARD_UNITS = {
       "text": "entertainment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 77
    },
    {
     "question": "Lisa stayed up all night finishing her report and then took three tests the next day. By the time she got home, she was so __________ that she fell asleep on the sofa.",
@@ -1776,7 +1801,8 @@ window.FLASHCARD_UNITS = {
       "text": "enormous"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 65
    },
    {
     "question": "We waited at the bus stop for almost an hour, but no bus came. We __________ gave up and walked home in the rain, arriving just before dinner.",
@@ -1798,7 +1824,8 @@ window.FLASHCARD_UNITS = {
       "text": "enormously"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "There is no cinema, no park, and no shopping mall in my grandmother's small town. Young people complain that there is nothing to do for __________ on weekends.",
@@ -1820,7 +1847,8 @@ window.FLASHCARD_UNITS = {
       "text": "entertainment"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 12
    },
    {
     "question": "Before we go camping, let's check that we have everything we need. The tent, the stove, and the sleeping bags are the most important __________ for the trip.",
@@ -1842,7 +1870,8 @@ window.FLASHCARD_UNITS = {
       "text": "entertainment"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "The students in the art club have been painting pictures of the sea all semester. Next month, their works will be shown in an __________ at the city library.",
@@ -1864,7 +1893,8 @@ window.FLASHCARD_UNITS = {
       "text": "establishment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 70
    }
   ]
  }

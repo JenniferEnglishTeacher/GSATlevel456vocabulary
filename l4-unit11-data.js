@@ -1331,7 +1331,8 @@ window.FLASHCARD_UNITS = {
       "text": "delicate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "Our teacher wants the book reports by Monday morning, and she will not accept late work. I must finish mine tonight because the __________ is so close.",
@@ -1353,7 +1354,8 @@ window.FLASHCARD_UNITS = {
       "text": "departure"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "The votes have all been counted, and the result is clear. The president of the club will stand up and __________ the winner in a few minutes.",
@@ -1375,7 +1377,8 @@ window.FLASHCARD_UNITS = {
       "text": "decorate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "Christmas is coming, and the shops downtown look really beautiful. Every window has colorful lights, a small tree, and some other kind of __________ to attract shoppers.",
@@ -1397,7 +1400,8 @@ window.FLASHCARD_UNITS = {
       "text": "definition"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 12
    },
    {
     "question": "The small island team surprised everyone at the tournament last week. They were able to __________ the national champions in the final game by only one point.",
@@ -1419,7 +1423,8 @@ window.FLASHCARD_UNITS = {
       "text": "defeat"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 16
    },
    {
     "question": "The goats on the farm are afraid of the wild dogs that come at night. The farmer bought two big dogs of his own to __________ the animals from them.",
@@ -1441,7 +1446,8 @@ window.FLASHCARD_UNITS = {
       "text": "depress"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "Our basketball coach always says that scoring is not everything. A strong __________ stops the other team from getting easy points, and that often decides close games.",
@@ -1463,7 +1469,8 @@ window.FLASHCARD_UNITS = {
       "text": "decoration"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 21
    },
    {
     "question": "The old castle was built on top of a high rock with the sea on three sides. Enemies could attack from only one direction, so it was easily __________.",
@@ -1485,7 +1492,8 @@ window.FLASHCARD_UNITS = {
       "text": "delicate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "Whenever anyone asks about his messy room, Mike crosses his arms and says it is none of their business. He gets __________ instead of just cleaning it.",
@@ -1507,7 +1515,8 @@ window.FLASHCARD_UNITS = {
       "text": "defensive"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 23
    },
    {
     "question": "We cannot order the train tickets until you decide. Please give me a __________ answer today, yes or no, because the price will go up again tomorrow.",
@@ -1529,7 +1538,8 @@ window.FLASHCARD_UNITS = {
       "text": "dependent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 27
    },
    {
     "question": "These paper flowers were made by hand and can break very easily. Please be very careful when you move them to the table, because they are extremely __________.",
@@ -1551,7 +1561,8 @@ window.FLASHCARD_UNITS = {
       "text": "defensive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 33
    },
    {
     "question": "The children shouted with __________ when their father brought home a little puppy. They spent the whole evening playing with it on the living room floor.",
@@ -1573,7 +1584,8 @@ window.FLASHCARD_UNITS = {
       "text": "defeat"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "We had a __________ evening at my aunt's house last Saturday. The food was wonderful, the music was lovely, and everyone laughed and talked until midnight.",
@@ -1595,7 +1607,8 @@ window.FLASHCARD_UNITS = {
       "text": "delightful"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 37
    },
    {
     "question": "The new phone is so popular that the store sold every one in two days. Because the __________ is so high, the company is making more as fast as it can.",
@@ -1617,7 +1630,8 @@ window.FLASHCARD_UNITS = {
       "text": "defeat"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 42
    },
    {
     "question": "Telling us the recipe is not enough; we want to see it done. Could you __________ how to fold the dumplings so we can follow each step?",
@@ -1639,7 +1653,8 @@ window.FLASHCARD_UNITS = {
       "text": "defeat"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 47
    },
    {
     "question": "At the science fair, a teacher used a bottle, some vinegar, and baking soda to make a small volcano. The __________ was so fun that we all tried it at home.",
@@ -1661,7 +1676,8 @@ window.FLASHCARD_UNITS = {
       "text": "desperation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 48
    },
    {
     "question": "The fog this morning was so __________ that I could not see the house across the street. Drivers had to turn on their lights and move very slowly.",
@@ -1683,7 +1699,8 @@ window.FLASHCARD_UNITS = {
       "text": "dense"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "Please be at the station by seven thirty. The train to Taitung will __________ at exactly eight, and it will not wait for anyone who is late.",
@@ -1705,7 +1722,8 @@ window.FLASHCARD_UNITS = {
       "text": "destroy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 54
    },
    {
     "question": "Everyone at the airport was looking up at the big screen. My flight's __________ time had been changed from nine to eleven because of the heavy storm.",
@@ -1727,7 +1745,8 @@ window.FLASHCARD_UNITS = {
       "text": "decoration"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "Baby kangaroos cannot find food or keep themselves warm on their own. For many months, they are completely __________ on their mothers for everything they need.",
@@ -1749,7 +1768,8 @@ window.FLASHCARD_UNITS = {
       "text": "definite"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 59
    },
    {
     "question": "After his best friend moved to another country, Jack stopped going out and hardly ever smiled. His parents worried that he was slowly falling into a deep __________.",
@@ -1771,7 +1791,8 @@ window.FLASHCARD_UNITS = {
       "text": "depression"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 65
    },
    {
     "question": "Lily worked at the animal shelter every weekend for a whole year without being paid. Students like her __________ the award for the kindest person in our school.",
@@ -1793,7 +1814,8 @@ window.FLASHCARD_UNITS = {
       "text": "depress"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "The family has not eaten a real meal in three days, and the baby is crying from hunger. They are __________ enough to ask strangers on the street for food.",
@@ -1815,7 +1837,8 @@ window.FLASHCARD_UNITS = {
       "text": "decorative"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "Thousands of fans waited outside the stadium for hours __________ the cold weather and the long line. They all wanted to see the singer's final concert.",
@@ -1837,7 +1860,8 @@ window.FLASHCARD_UNITS = {
       "text": "to the delight of"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "The big fire burned for two days before it was put out. The __________ was terrible, and more than fifty houses on the hill were completely gone.",
@@ -1859,7 +1883,8 @@ window.FLASHCARD_UNITS = {
       "text": "demonstration"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 84
    },
    {
     "question": "I know the right word, but I cannot explain what it means in simple English. Could you look up its __________ in the dictionary for me?",
@@ -1881,7 +1906,8 @@ window.FLASHCARD_UNITS = {
       "text": "declaration"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "My grandmother was __________ to hear that all of her grandchildren would come home for the Moon Festival. She was so happy that she started cooking three days early.",
@@ -1903,7 +1929,8 @@ window.FLASHCARD_UNITS = {
       "text": "undefeated"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 39
    },
    {
     "question": "A single careless cigarette can __________ a whole forest in just a few hours. That is why smoking is never allowed when you go camping in the mountains.",
@@ -1925,7 +1952,8 @@ window.FLASHCARD_UNITS = {
       "text": "destroy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 85
    },
    {
     "question": "Since she moved to Taichung for university, my sister has become much more __________. She now cooks her own meals, cleans her room, and manages her own money.",
@@ -1947,7 +1975,8 @@ window.FLASHCARD_UNITS = {
       "text": "desperate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "Being a doctor is a __________ job. You often have to work at night, and you must make quick decisions when someone's life is in danger.",
@@ -1969,7 +1998,8 @@ window.FLASHCARD_UNITS = {
       "text": "demanding"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 45
    }
   ]
  }

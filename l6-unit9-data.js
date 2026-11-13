@@ -1406,7 +1406,8 @@ window.FLASHCARD_UNITS = {
       "text": "cumulative"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Too many drivers in the city have been using their phones while driving. The police began a __________ last week, and more than three hundred drivers were fined in two days.",
@@ -1428,7 +1429,8 @@ window.FLASHCARD_UNITS = {
       "text": "cramp"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "I was hungry after school, but dinner was still an hour away. So I ate a thin, salty __________ with some cheese on top to keep my stomach quiet.",
@@ -1450,7 +1452,8 @@ window.FLASHCARD_UNITS = {
       "text": "cracker"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 7
    },
    {
     "question": "Jenny did not open her history book for the whole month. Now the exam is tomorrow, so she has to __________ all the dates and names into her head tonight.",
@@ -1472,7 +1475,8 @@ window.FLASHCARD_UNITS = {
       "text": "cultivate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 10
    },
    {
     "question": "During the last part of the race, Ken suddenly felt a sharp pain in his leg. He had to stop running because of the __________ and sit down until the muscle relaxed.",
@@ -1494,7 +1498,8 @@ window.FLASHCARD_UNITS = {
       "text": "crutch"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 14
    },
    {
     "question": "A large rock from space hit the desert thousands of years ago. Today you can still see the huge round __________ it left in the ground, which is almost a kilometer wide.",
@@ -1516,7 +1521,8 @@ window.FLASHCARD_UNITS = {
       "text": "crater"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 18
    },
    {
     "question": "The boy said a monkey had taken his homework, but nobody believed him. His story was not __________ because there are no monkeys anywhere near our school.",
@@ -1538,7 +1544,8 @@ window.FLASHCARD_UNITS = {
       "text": "cumulative"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 21
    },
    {
     "question": "Do not swim in this river, because a large __________ lives in the water near the bridge. Last year it attacked a cow that was drinking at the edge.",
@@ -1560,7 +1567,8 @@ window.FLASHCARD_UNITS = {
       "text": "cucumber"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 25
    },
    {
     "question": "The road in front of the school is very busy in the morning. Students should always use the __________ with the white lines, where cars have to stop for them.",
@@ -1582,7 +1590,8 @@ window.FLASHCARD_UNITS = {
       "text": "crossing"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 28
    },
    {
     "question": "After he broke his ankle playing basketball, Peter could not put any weight on his right foot. He walked with a __________ under each arm for six weeks.",
@@ -1604,7 +1613,8 @@ window.FLASHCARD_UNITS = {
       "text": "cucumber"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 33
    },
    {
     "question": "At the zoo, the mother lion lay in the sun while her little __________ played in the grass. It tried to catch its own tail and fell over again and again.",
@@ -1626,7 +1636,8 @@ window.FLASHCARD_UNITS = {
       "text": "cracker"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 36
    },
    {
     "question": "Mom cut a long green __________ into thin slices and put them in the salad. It tasted cool and fresh, which was perfect for such a hot summer evening.",
@@ -1648,7 +1659,8 @@ window.FLASHCARD_UNITS = {
       "text": "curry"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 39
    },
    {
     "question": "The land near the river was once wild, but the farmers worked hard for years. Now they __________ rice and vegetables there and sell them at the market every Sunday.",
@@ -1670,7 +1682,8 @@ window.FLASHCARD_UNITS = {
       "text": "cultivate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 42
    },
    {
     "question": "Eating one piece of cake will not hurt you, but doing it every single day will. The __________ effect of so much sugar over the years can be very bad for your health.",
@@ -1692,7 +1705,8 @@ window.FLASHCARD_UNITS = {
       "text": "cynical"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 46
    },
    {
     "question": "Our family spends too much money on food from restaurants every month. Dad says we must __________ this habit and cook at home at least five nights a week.",
@@ -1714,7 +1728,8 @@ window.FLASHCARD_UNITS = {
       "text": "deem"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "My parents have a strict rule that I must be home by ten o'clock at night. If I come back after this __________, I am not allowed to go out the next weekend.",
@@ -1736,7 +1751,8 @@ window.FLASHCARD_UNITS = {
       "text": "cramp"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 53
    },
    {
     "question": "For dinner, we had rice with a thick yellow __________ made with chicken, potatoes, and lots of spices. It was so hot that I drank three glasses of water.",
@@ -1758,7 +1774,8 @@ window.FLASHCARD_UNITS = {
       "text": "curry"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 56
    },
    {
     "question": "In Taiwan, it is __________ to give red envelopes with money to children at Chinese New Year. Almost every family follows this old tradition, and the kids love it.",
@@ -1780,7 +1797,8 @@ window.FLASHCARD_UNITS = {
       "text": "decisive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 60
    },
    {
     "question": "Uncle Joe believes that every politician only cares about money and power. His friends say he is too __________ and should give people a chance to prove him wrong.",
@@ -1802,7 +1820,8 @@ window.FLASHCARD_UNITS = {
       "text": "cozy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "The young singer walked onto the stage without any fear. Her powerful voice and beautiful dress were enough to __________ the judges, who gave her the top score.",
@@ -1824,7 +1843,8 @@ window.FLASHCARD_UNITS = {
       "text": "deem"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    },
    {
     "question": "The band turned the speakers up as high as they could go. The noise was so loud that it almost seemed to __________ us, and my ears were ringing for hours afterward.",
@@ -1846,7 +1866,8 @@ window.FLASHCARD_UNITS = {
       "text": "curb"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 72
    },
    {
     "question": "When the fire started, there was no time to think or talk. Luckily, our teacher was __________ and led us all out of the building through the back door in one minute.",
@@ -1868,7 +1889,8 @@ window.FLASHCARD_UNITS = {
       "text": "cozy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "Ms. Huang has taught in this small mountain school for thirty years, often without pay during hard times. The whole village admires her __________ to the children.",
@@ -1890,7 +1912,8 @@ window.FLASHCARD_UNITS = {
       "text": "deduction"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 81
    },
    {
     "question": "You were late for work three times this month. The company will __________ two hundred dollars from your pay for each day you were late, so please arrive on time.",
@@ -1912,7 +1935,8 @@ window.FLASHCARD_UNITS = {
       "text": "deem"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 85
    },
    {
     "question": "The old bridge was badly damaged in the earthquake last week. Engineers now __________ it too dangerous to use, so all cars must take the long road around the lake.",
@@ -1934,7 +1958,8 @@ window.FLASHCARD_UNITS = {
       "text": "deem"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 89
    },
    {
     "question": "Six of us shared one small hotel room on the school trip to Tainan. It was so __________ that we had to climb over each other's bags just to reach the bathroom.",
@@ -1956,7 +1981,8 @@ window.FLASHCARD_UNITS = {
       "text": "decisive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 16
    },
    {
     "question": "When the home team scored in the last second, the whole stadium jumped up and shouted. The noise was __________, and I could not hear my friend next to me.",
@@ -1978,7 +2004,8 @@ window.FLASHCARD_UNITS = {
       "text": "customary"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "Dr. Wu works twelve hours a day and often visits sick children at home on weekends. Everyone in town agrees that she is a truly __________ doctor.",
@@ -2000,7 +2027,8 @@ window.FLASHCARD_UNITS = {
       "text": "cumulative"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 83
    },
    {
     "question": "Grandpa never throws anything away, so his garage is full of old tools and boxes. Over fifty years, he has managed to __________ enough things to fill a small museum.",
@@ -2022,7 +2050,8 @@ window.FLASHCARD_UNITS = {
       "text": "deafen"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "The newspaper printed a story that later turned out to be completely false. Since then, it has lost its __________, and many readers no longer trust anything it says.",
@@ -2044,7 +2073,8 @@ window.FLASHCARD_UNITS = {
       "text": "credibility"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 22
    }
   ]
  }

@@ -1481,7 +1481,8 @@ window.FLASHCARD_UNITS = {
       "text": "refuge"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The front door of the bus is only for people who are getting on. If you want to get off, please walk to the __________ door and press the red button.",
@@ -1503,7 +1504,8 @@ window.FLASHCARD_UNITS = {
       "text": "reserved"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "My little sister was afraid of her first day at the new school. My mother tried to __________ her by saying that she would make new friends very soon.",
@@ -1525,7 +1527,8 @@ window.FLASHCARD_UNITS = {
       "text": "recite"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "The farmers were angry because the new tax took away half of their rice. Their anger soon turned into an open __________ against the king and his soldiers.",
@@ -1547,7 +1550,8 @@ window.FLASHCARD_UNITS = {
       "text": "rehearsal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 13
    },
    {
     "question": "Many shops in our town have closed in the past year, and lots of people have lost their jobs. Experts say the country is going through a serious __________.",
@@ -1569,7 +1573,8 @@ window.FLASHCARD_UNITS = {
       "text": "rebellion"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 17
    },
    {
     "question": "Every year the school gives a special prize to one student who helps others. This year's __________ is a boy who taught English to children in a mountain village.",
@@ -1591,7 +1596,8 @@ window.FLASHCARD_UNITS = {
       "text": "resident"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    },
    {
     "question": "Our teacher asked us to learn a short poem by heart for Friday. Each student will have to __________ it in front of the class without looking at the book.",
@@ -1613,7 +1619,8 @@ window.FLASHCARD_UNITS = {
       "text": "repay"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "I have never been to this part of the city before, and I do not know where to eat. Could you __________ a good restaurant that is not too expensive?",
@@ -1635,7 +1642,8 @@ window.FLASHCARD_UNITS = {
       "text": "reinforce"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 27
    },
    {
     "question": "To apply for the summer science camp, students need more than good grades. They must also hand in a letter of __________ written by one of their teachers.",
@@ -1657,7 +1665,8 @@ window.FLASHCARD_UNITS = {
       "text": "reinforcement"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "Our school volleyball team lost six players when they graduated last June. The coach is now trying to __________ some tall new members from the first-year classes.",
@@ -1679,7 +1688,8 @@ window.FLASHCARD_UNITS = {
       "text": "recruit"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 32
    },
    {
     "question": "The rain came down so hard that we could not see the road. We ran into a small temple and took __________ there until the storm finally passed.",
@@ -1701,7 +1711,8 @@ window.FLASHCARD_UNITS = {
       "text": "rent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "It was raining hard, and the roads were covered with water. The marathon runners kept going __________, and most of them finished the race wet but very happy.",
@@ -1723,7 +1734,8 @@ window.FLASHCARD_UNITS = {
       "text": "forcefully"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    },
    {
     "question": "Under the old __________, people were not allowed to say anything against the leaders. Newspapers that printed such ideas were closed, and their writers were put in prison.",
@@ -1745,7 +1757,8 @@ window.FLASHCARD_UNITS = {
       "text": "recital"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "The school play opens next Friday evening, and the actors still forget some of their lines. The director has called an extra __________ for tomorrow afternoon.",
@@ -1767,7 +1780,8 @@ window.FLASHCARD_UNITS = {
       "text": "rehearsal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    },
    {
     "question": "Engineers found that the old bridge was not strong enough for heavy trucks. They are adding thick steel bars to __________ it before the typhoon season begins.",
@@ -1789,7 +1803,8 @@ window.FLASHCARD_UNITS = {
       "text": "repay"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 52
    },
    {
     "question": "I always forget to bring my library books back on time. Now I set a __________ on my phone, and it rings two days before the books are due.",
@@ -1811,7 +1826,8 @@ window.FLASHCARD_UNITS = {
       "text": "recital"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 57
    },
    {
     "question": "The old factory beside the river had been empty for twenty years. Its __________ took six months, and the city then built a park with trees and a playground there.",
@@ -1833,7 +1849,8 @@ window.FLASHCARD_UNITS = {
       "text": "reception"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 61
    },
    {
     "question": "The storm knocked down power lines across the whole town. The lack of electricity was enough to __________ most shops and restaurants useless for the next two days.",
@@ -1855,7 +1872,8 @@ window.FLASHCARD_UNITS = {
       "text": "recruit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 65
    },
    {
     "question": "We did not want to carry our bikes on the train to the beach. Luckily, there is a bike __________ shop near the station, and the price is only fifty dollars an hour.",
@@ -1877,7 +1895,8 @@ window.FLASHCARD_UNITS = {
       "text": "rental"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 69
    },
    {
     "question": "My friend lent me two thousand dollars when I lost my wallet last month. I will __________ her as soon as I get my part-time job money this Friday.",
@@ -1899,7 +1918,8 @@ window.FLASHCARD_UNITS = {
       "text": "rehearse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "In 1912, China's last emperor left the throne after more than two thousand years of rule by kings. A new __________ government was set up, with a president instead of an emperor.",
@@ -1921,7 +1941,8 @@ window.FLASHCARD_UNITS = {
       "text": "republican"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 78
    },
    {
     "question": "People often stop my brother and me on the street and ask if we are twins. Although he is two years older, the __________ between us is really strong.",
@@ -1943,7 +1964,8 @@ window.FLASHCARD_UNITS = {
       "text": "recession"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 83
    },
    {
     "question": "It has not rained in the south for almost three months. The water level in the __________ is now very low, so the city has asked everyone to save water.",
@@ -1965,7 +1987,8 @@ window.FLASHCARD_UNITS = {
       "text": "reservoir"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 86
    },
    {
     "question": "This beautiful old house on the hill was once the __________ of a rich tea merchant and his large family. Today it is a museum that anyone can visit for free.",
@@ -1987,7 +2010,8 @@ window.FLASHCARD_UNITS = {
       "text": "regime"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 91
    },
    {
     "question": "A letter was sent to every __________ of the building about the water pipe repair. It says there will be no water on Saturday from nine in the morning until noon.",
@@ -2009,7 +2033,8 @@ window.FLASHCARD_UNITS = {
       "text": "recruiter"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 92
    },
    {
     "question": "My aunt moved to Japan after she got married fifteen years ago. She and her family now __________ in a quiet town about an hour from Tokyo by train.",
@@ -2031,7 +2056,8 @@ window.FLASHCARD_UNITS = {
       "text": "reside"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 94
    },
    {
     "question": "The music club will give a concert for the whole school next month. The members meet every day after class to __________ the songs until they sound perfect.",
@@ -2053,7 +2079,8 @@ window.FLASHCARD_UNITS = {
       "text": "repay"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 50
    },
    {
     "question": "The shoes I bought yesterday are too small, so I want to change them for a bigger size. The shop will only do it if I show them the __________.",
@@ -2075,7 +2102,8 @@ window.FLASHCARD_UNITS = {
       "text": "receipt"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 22
    },
    {
     "question": "That new Italian restaurant is very popular, especially on weekends. If you want to eat there this Saturday, you should __________ a table at least three days ahead.",
@@ -2097,7 +2125,8 @@ window.FLASHCARD_UNITS = {
       "text": "remind"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 87
    },
    {
     "question": "The school asked all students to keep their hair short and natural. My __________ cousin colored his hair bright blue the very next day just to show that he did not agree.",
@@ -2119,7 +2148,8 @@ window.FLASHCARD_UNITS = {
       "text": "removable"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 16
    }
   ]
  }

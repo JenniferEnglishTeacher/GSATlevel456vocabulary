@@ -1481,7 +1481,8 @@ window.FLASHCARD_UNITS = {
       "text": "procession"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The ice at the top and bottom of the earth is melting faster than before. Scientists say the __________ regions are warming twice as fast as the rest of the world.",
@@ -1503,7 +1504,8 @@ window.FLASHCARD_UNITS = {
       "text": "polar"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "The job offer sounds great, but it means moving far away from your family. Take a few days to __________ the decision carefully before you give them an answer.",
@@ -1525,7 +1527,8 @@ window.FLASHCARD_UNITS = {
       "text": "populate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "The little girl was too small to ride a big horse at the farm. Instead, the farmer let her sit on a gentle __________ and led it slowly around the yard.",
@@ -1547,7 +1550,8 @@ window.FLASHCARD_UNITS = {
       "text": "pony"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 11
    },
    {
     "question": "A hundred years ago, almost nobody lived in this dry valley. Today, thousands of families __________ the area because a new highway and a water system were built.",
@@ -1569,7 +1573,8 @@ window.FLASHCARD_UNITS = {
       "text": "precede"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 14
    },
    {
     "question": "Our suitcases were far too heavy to carry up the stairs at the old train station. Luckily, a __________ offered to take them to our platform for a small tip.",
@@ -1591,7 +1596,8 @@ window.FLASHCARD_UNITS = {
       "text": "president"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 19
    },
    {
     "question": "Many students sit bent over their phones for hours every day. Doctors warn that such bad __________ can cause back and neck pain while they are still young.",
@@ -1613,7 +1619,8 @@ window.FLASHCARD_UNITS = {
       "text": "posture"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 23
    },
    {
     "question": "This cough medicine is much stronger than the kind you buy at a regular store. It is so __________ that one small spoonful is enough for a whole day.",
@@ -1635,7 +1642,8 @@ window.FLASHCARD_UNITS = {
       "text": "precise"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "My uncle does not keep cows or pigs on his small farm. He only raises __________ such as chickens and ducks, and he sells their eggs at the Sunday market.",
@@ -1657,7 +1665,8 @@ window.FLASHCARD_UNITS = {
       "text": "pole"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "Every Sunday the old man stands in front of the church to talk about being kind to others. He has continued to __________ there for more than forty years.",
@@ -1679,7 +1688,8 @@ window.FLASHCARD_UNITS = {
       "text": "probe"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "At our school ceremony, nobody speaks before the flag is raised. The flag raising will __________ the principal's speech, and then the students will walk onto the stage one by one.",
@@ -1701,7 +1711,8 @@ window.FLASHCARD_UNITS = {
       "text": "preside"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 39
    },
    {
     "question": "No student has ever been allowed to bring a pet to school before. If the teacher says yes to Amy's rabbit, it will set a __________ that other students will surely follow.",
@@ -1723,7 +1734,8 @@ window.FLASHCARD_UNITS = {
       "text": "precedent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "A watch has many tiny parts that must fit together perfectly. Watchmakers work with great __________, because a mistake as small as a hair can stop the watch.",
@@ -1745,7 +1757,8 @@ window.FLASHCARD_UNITS = {
       "text": "privacy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "Ms. Lin became our school principal only last month. In her first speech, she thanked her __________, Mr. Wang, who had led the school for the past fifteen years.",
@@ -1767,7 +1780,8 @@ window.FLASHCARD_UNITS = {
       "text": "successor"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 48
    },
    {
     "question": "These stone tools were found deep inside a cave in the mountains. Scientists believe __________ people used them to cut meat long before anyone learned to write.",
@@ -1789,7 +1803,8 @@ window.FLASHCARD_UNITS = {
       "text": "prehistoric"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "The new movie has not been shown anywhere in the world yet. Hundreds of fans are waiting outside the theater for its __________ to see the stars arrive tonight.",
@@ -1811,7 +1826,8 @@ window.FLASHCARD_UNITS = {
       "text": "prevention"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "The chairman is sick, so he cannot come to the meeting this afternoon. The vice chairman will __________ instead and make sure every member gets a chance to speak.",
@@ -1833,7 +1849,8 @@ window.FLASHCARD_UNITS = {
       "text": "populate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 59
    },
    {
     "question": "Doctors and judges are respected almost everywhere in the world. Such jobs carry great __________ today, and many parents hope their children will choose one of them.",
@@ -1855,7 +1872,8 @@ window.FLASHCARD_UNITS = {
       "text": "posture"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "It is much cheaper to stop a disease than to treat it after people get sick. That is why the government spends money on __________ care like free health checks.",
@@ -1877,7 +1895,8 @@ window.FLASHCARD_UNITS = {
       "text": "potent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "The art show opens to the public on Saturday. Members of the museum were invited to a special __________ on Thursday night, so they could see the paintings first.",
@@ -1899,7 +1918,8 @@ window.FLASHCARD_UNITS = {
       "text": "precedent"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "This old vase was made for a king more than five hundred years ago. It is __________, so the museum keeps it behind thick glass with a guard nearby.",
@@ -1921,7 +1941,8 @@ window.FLASHCARD_UNITS = {
       "text": "private"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "For fifty years the railway was run by the government, and it lost money every year. Now the government plans to __________ it and sell it to a big company.",
@@ -1943,7 +1964,8 @@ window.FLASHCARD_UNITS = {
       "text": "privatize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "The small spacecraft left the earth more than seven years ago. Last week, the __________ finally reached the far planet and sent back its first clear pictures.",
@@ -1965,7 +1987,8 @@ window.FLASHCARD_UNITS = {
       "text": "procession"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 84
    },
    {
     "question": "Last night the temple held its yearly festival in our town. A long __________ of dancers, drummers, and lanterns moved slowly through the main street until midnight.",
@@ -1987,7 +2010,8 @@ window.FLASHCARD_UNITS = {
       "text": "population"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 88
    },
    {
     "question": "Students who want to study in Canada must take an English test first. The school needs proof of their language __________ before it will accept them as new students.",
@@ -2009,7 +2033,8 @@ window.FLASHCARD_UNITS = {
       "text": "proficiency"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 93
    },
    {
     "question": "Taipei is a very crowded city with more than two million people. Because of its large __________, the trains and buses are always full during the rush hour.",
@@ -2031,7 +2056,8 @@ window.FLASHCARD_UNITS = {
       "text": "premiere"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 15
    },
    {
     "question": "Many people get sick with the flu every winter. Washing your hands often and wearing a mask on the bus can help __________ the illness from spreading.",
@@ -2053,7 +2079,8 @@ window.FLASHCARD_UNITS = {
       "text": "pose"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 67
    },
    {
     "question": "Only one student in a thousand is accepted by this famous university. Getting into such a __________ school is a dream for many young people and their parents.",
@@ -2075,7 +2102,8 @@ window.FLASHCARD_UNITS = {
       "text": "imprecise"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "Never before had the town seen so much rain in a single day. The __________ storm flooded hundreds of homes and closed every school for a week.",
@@ -2097,7 +2125,8 @@ window.FLASHCARD_UNITS = {
       "text": "portable"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "The fire alarm rang during the exam, but it turned out to be a mistake. When everyone came back, the teacher told us to __________ with the test from where we had stopped.",
@@ -2119,7 +2148,8 @@ window.FLASHCARD_UNITS = {
       "text": "preside"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 89
    }
   ]
  }

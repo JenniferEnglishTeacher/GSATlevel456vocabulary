@@ -1286,7 +1286,8 @@ window.FLASHCARD_UNITS = {
       "text": "cowardly"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The article is five pages long, but the magazine only has room for one page. The editor asked the writer to __________ it so that only the most important ideas remain.",
@@ -1308,7 +1309,8 @@ window.FLASHCARD_UNITS = {
       "text": "conserve"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "Hundreds of years ago, several small states joined together to protect themselves from a powerful enemy. This __________ had one army, but each state still made its own laws.",
@@ -1330,7 +1332,8 @@ window.FLASHCARD_UNITS = {
       "text": "confederation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 7
    },
    {
     "question": "Mr. Lee was elected to represent our city in the national government last year. As a __________, he now spends most of his time in the capital making new laws.",
@@ -1352,7 +1355,8 @@ window.FLASHCARD_UNITS = {
       "text": "contestant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 11
    },
    {
     "question": "The powerful king sent his army across the sea to take the island by force. His __________ of the island was quick, and the people there had to follow his rules for a century.",
@@ -1374,7 +1378,8 @@ window.FLASHCARD_UNITS = {
       "text": "consolation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "Amy always finishes her homework carefully and checks every answer twice before handing it in. Her teachers say she is the most __________ student in the whole class.",
@@ -1396,7 +1401,8 @@ window.FLASHCARD_UNITS = {
       "text": "cowardly"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 18
    },
    {
     "question": "The town has had very little rain this year, and the river is low. The mayor asked everyone to __________ water by taking shorter showers and not washing their cars.",
@@ -1418,7 +1424,8 @@ window.FLASHCARD_UNITS = {
       "text": "condense"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 21
    },
    {
     "question": "Our team lost the final game by just one point, and everyone felt terrible. The only __________ was that we had played better than ever before and made many new friends.",
@@ -1440,7 +1447,8 @@ window.FLASHCARD_UNITS = {
       "text": "consolation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 25
    },
    {
     "question": "Lily cried for an hour after her cat died last night. Her best friend came over to __________ her, and they looked at old photos of the cat together.",
@@ -1462,7 +1470,8 @@ window.FLASHCARD_UNITS = {
       "text": "convene"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 26
    },
    {
     "question": "In English, the letters a, e, i, o, and u are vowels. Every other letter, such as b, k, or t, is called a __________, and most words contain both kinds.",
@@ -1484,7 +1493,8 @@ window.FLASHCARD_UNITS = {
       "text": "corpse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "The police found out that three workers had secretly planned together to steal money from the bank. The judge said that such a __________ was a serious crime and sent them to prison.",
@@ -1506,7 +1516,8 @@ window.FLASHCARD_UNITS = {
       "text": "conspiracy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 32
    },
    {
     "question": "The two brothers have argued about who should get the old family house for years. It is still the main point of __________ between them, and their mother is tired of the fighting.",
@@ -1528,7 +1539,8 @@ window.FLASHCARD_UNITS = {
       "text": "confederation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 36
    },
    {
     "question": "Fifty people signed up for the city singing competition this year. Each __________ gets three minutes on stage, and the judges will choose the best five for the final round.",
@@ -1550,7 +1562,8 @@ window.FLASHCARD_UNITS = {
       "text": "correspondent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 40
    },
    {
     "question": "The school has had five different principals in the past six years. Teachers hope the new one will stay longer, because the students need some __________ in their daily lives.",
@@ -1572,7 +1585,8 @@ window.FLASHCARD_UNITS = {
       "text": "consolation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 43
    },
    {
     "question": "In the morning, the manager said the shop would close at eight, but later he said nine. His second statement seemed to __________ his first one, so the workers were confused.",
@@ -1594,7 +1608,8 @@ window.FLASHCARD_UNITS = {
       "text": "condense"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "After the big storm, the mayor decided to __________ a special meeting of all the city leaders. They met the next morning to plan how to help families who had lost their homes.",
@@ -1616,7 +1631,8 @@ window.FLASHCARD_UNITS = {
       "text": "conserve"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    },
    {
     "question": "When we went diving near the island, we saw colorful fish swimming around bright pink and orange __________. Our guide told us not to touch it because it grows very slowly.",
@@ -1638,7 +1654,8 @@ window.FLASHCARD_UNITS = {
       "text": "consonant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "The police found a __________ in the river early this morning, and they are trying to find out who the dead man was. Nobody in the town has reported a missing person yet.",
@@ -1660,7 +1677,8 @@ window.FLASHCARD_UNITS = {
       "text": "coward"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    },
    {
     "question": "My grandmother keeps all the letters she and Grandpa wrote to each other before they were married. Their __________ lasted three years because he was working in another country.",
@@ -1682,7 +1700,8 @@ window.FLASHCARD_UNITS = {
       "text": "conquest"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 61
    },
    {
     "question": "The old car still runs perfectly, and the engine is in great condition. The scratches on the door are only __________ problems, so the price is still fair.",
@@ -1704,7 +1723,8 @@ window.FLASHCARD_UNITS = {
       "text": "cosmetic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "Many girls in my class spend a lot of money on lipstick, eye shadow, and face cream. My sister, however, never wears any __________ because she likes her natural look.",
@@ -1726,7 +1746,8 @@ window.FLASHCARD_UNITS = {
       "text": "continuity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "Our principal flew to Japan last week to visit a sister school in Osaka. She had a long talk with her Japanese __________ about how students in both countries learn English.",
@@ -1748,7 +1769,8 @@ window.FLASHCARD_UNITS = {
       "text": "counterpart"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "The pizza shop gave us a __________ with our order last week. If we bring it back before Sunday, we can get a second large pizza for half the price.",
@@ -1770,7 +1792,8 @@ window.FLASHCARD_UNITS = {
       "text": "coral"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "The old house is built around a small __________ with a stone fountain in the middle. On summer evenings, the family sits there under the stars and drinks tea.",
@@ -1792,7 +1815,8 @@ window.FLASHCARD_UNITS = {
       "text": "confederation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 78
    },
    {
     "question": "When the big boy started hitting the little kid, everyone just stood there and watched. Later, Tom felt it was __________ of him not to help, and he promised himself to be braver.",
@@ -1814,7 +1838,8 @@ window.FLASHCARD_UNITS = {
       "text": "cosmetic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 81
    },
    {
     "question": "Jack ran away as soon as he saw the small dog barking at him. His friends laughed and called him a __________, but he says he is just careful around animals.",
@@ -1836,7 +1861,8 @@ window.FLASHCARD_UNITS = {
       "text": "counterpart"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 82
    },
    {
     "question": "One doctor told my aunt to rest in bed, while another told her to exercise every day. Because the two pieces of advice were __________, she did not know what to do.",
@@ -1858,7 +1884,8 @@ window.FLASHCARD_UNITS = {
       "text": "contradictory"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    },
    {
     "question": "Maria was so afraid of water that she never went to the beach as a child. Last summer she finally decided to __________ her fear and signed up for swimming lessons.",
@@ -1880,7 +1907,8 @@ window.FLASHCARD_UNITS = {
       "text": "contend"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 16
    },
    {
     "question": "The numbers on your ticket should __________ with the numbers on the seat. If they do not match, please ask one of the workers in red shirts for help.",
@@ -1902,7 +1930,8 @@ window.FLASHCARD_UNITS = {
       "text": "contend"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    },
    {
     "question": "The forest is home to many rare birds and animals that live nowhere else. Scientists say the __________ of this land is important, so no new roads should be built there.",
@@ -1924,7 +1953,8 @@ window.FLASHCARD_UNITS = {
       "text": "conservation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 23
    }
   ]
  }

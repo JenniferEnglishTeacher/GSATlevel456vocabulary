@@ -1196,7 +1196,8 @@ window.FLASHCARD_UNITS = {
       "text": "catalogue"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "These shoes are too small for running but too sporty for the office. They do not really fit into any __________, so I do not know where to put them in the shop.",
@@ -1218,7 +1219,8 @@ window.FLASHCARD_UNITS = {
       "text": "charity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "The two countries have been fighting for almost three years. Many people around the world hope the war will __________ soon so that children can go back to school.",
@@ -1240,7 +1242,8 @@ window.FLASHCARD_UNITS = {
       "text": "chew"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 6
    },
    {
     "question": "My grandfather turns eighty next week, and the whole family is coming home. We are planning a big __________ with a cake, songs, and lots of his favorite dishes.",
@@ -1262,7 +1265,8 @@ window.FLASHCARD_UNITS = {
       "text": "clarification"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 10
    },
    {
     "question": "The old castle has a small hidden __________ behind the library wall. Long ago, the royal family used this secret room to keep their gold and important papers safe.",
@@ -1284,7 +1288,8 @@ window.FLASHCARD_UNITS = {
       "text": "chamber"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "Our volleyball team practiced every morning before school this year. All the hard work paid off when we won the city __________ and brought home the gold cup.",
@@ -1306,7 +1311,8 @@ window.FLASHCARD_UNITS = {
       "text": "circumstance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 18
    },
    {
     "question": "Being honest is the most important __________ of a good friend. If a person often lies to you, it is very hard to trust him or her with your secrets.",
@@ -1328,7 +1334,8 @@ window.FLASHCARD_UNITS = {
       "text": "celebration"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 22
    },
    {
     "question": "Instead of buying gifts this Christmas, my family gave money to a __________. It uses the money to buy food and blankets for people who live on the street.",
@@ -1350,7 +1357,8 @@ window.FLASHCARD_UNITS = {
       "text": "chemistry"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 26
    },
    {
     "question": "In today's __________ class, we learned why baking soda and vinegar make bubbles when you mix them. The teacher said it was a simple reaction between two substances.",
@@ -1372,7 +1380,8 @@ window.FLASHCARD_UNITS = {
       "text": "chemistry"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 29
    },
    {
     "question": "This gold ring belonged to my great-grandmother, and she gave it to my mother before she died. I will __________ it forever and never sell it, no matter what happens.",
@@ -1394,7 +1403,8 @@ window.FLASHCARD_UNITS = {
       "text": "chew"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 33
    },
    {
     "question": "The doctor says my brother eats far too fast. He should __________ each bite slowly and carefully, because this helps his stomach do its job and keeps him from feeling sick.",
@@ -1416,7 +1426,8 @@ window.FLASHCARD_UNITS = {
       "text": "claw"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "Do not let the baby play with those small buttons. If she puts one in her mouth, she could __________ on it and stop breathing, so please keep them far away from her.",
@@ -1438,7 +1449,8 @@ window.FLASHCARD_UNITS = {
       "text": "choke"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 40
    },
    {
     "question": "Not many people know all the words to the new pop song. However, everyone sings along loudly when the __________ comes, because it repeats the same easy line four times.",
@@ -1460,7 +1472,8 @@ window.FLASHCARD_UNITS = {
       "text": "charity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 43
    },
    {
     "question": "The new park has a large __________ pond in the middle. Children love running around its round edge, and in the center there is a fountain that lights up at night.",
@@ -1482,7 +1495,8 @@ window.FLASHCARD_UNITS = {
       "text": "charitable"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 47
    },
    {
     "question": "It is very hot in the classroom today, and the air feels heavy. Please open all the windows so that fresh air can __________ and everyone can think more clearly.",
@@ -1504,7 +1518,8 @@ window.FLASHCARD_UNITS = {
       "text": "categorize"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "Sitting in the same position for many hours is bad for your health. Doctors say that moving your legs often helps your blood __________ and keeps your feet from feeling cold.",
@@ -1526,7 +1541,8 @@ window.FLASHCARD_UNITS = {
       "text": "circulation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    },
    {
     "question": "The judge listened carefully to every detail of the story before making a decision. She said that in this unusual __________, the young man should not go to prison.",
@@ -1548,7 +1564,8 @@ window.FLASHCARD_UNITS = {
       "text": "charity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 52
    },
    {
     "question": "During the war, soldiers on both sides were told not to shoot at anyone who was not fighting. Sadly, one young __________ was still hurt while trying to escape from the city.",
@@ -1570,7 +1587,8 @@ window.FLASHCARD_UNITS = {
       "text": "chemist"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "Thousands of years ago, people living by the Nile River developed a rich __________. They built great buildings, invented a form of writing, and studied the stars.",
@@ -1592,7 +1610,8 @@ window.FLASHCARD_UNITS = {
       "text": "classification"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "Half of the class did not understand the rules for the group project. The teacher agreed to __________ them again, and this time she wrote the main points on the board.",
@@ -1614,7 +1633,8 @@ window.FLASHCARD_UNITS = {
       "text": "clarify"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "The fans of the two teams started shouting at each other after the game. The police arrived quickly to stop the __________ before anyone got seriously hurt.",
@@ -1636,7 +1656,8 @@ window.FLASHCARD_UNITS = {
       "text": "chamber"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 65
    },
    {
     "question": "At the museum, the animals are not placed in random order. Each one has a label that shows its scientific __________, so visitors can see which animals belong to the same group.",
@@ -1658,7 +1679,8 @@ window.FLASHCARD_UNITS = {
       "text": "celebration"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    },
    {
     "question": "The library has thousands of books, so you need a clear system to find them. Librarians __________ the books by subject and give each one a number on its spine.",
@@ -1680,7 +1702,8 @@ window.FLASHCARD_UNITS = {
       "text": "cease"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 69
    },
    {
     "question": "Our cat loves to sharpen her nails on the wooden chair legs. Yesterday she left a long deep mark on the table with one sharp __________, and Dad was not happy at all.",
@@ -1702,7 +1725,8 @@ window.FLASHCARD_UNITS = {
       "text": "chemical"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 72
    },
    {
     "question": "The road along the coast is beautiful but dangerous in some places. On one side, there is a tall __________ that drops straight down to the sea, so drive slowly and carefully.",
@@ -1724,7 +1748,8 @@ window.FLASHCARD_UNITS = {
       "text": "chamber"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 75
    },
    {
     "question": "My parents got married exactly twenty-five years ago today. To __________ this special day, my father is taking my mother to the small restaurant where they first met.",
@@ -1746,7 +1771,8 @@ window.FLASHCARD_UNITS = {
       "text": "clarify"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 11
    },
    {
     "question": "Do not drink water from that river, even if it looks clean. The factory nearby has been pouring a dangerous __________ into it for years, and the fish have all died.",
@@ -1768,7 +1794,8 @@ window.FLASHCARD_UNITS = {
       "text": "chemical"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 30
    },
    {
     "question": "The little boy in the story is poor and often hungry, but he never steals or lies. His strong __________ is the reason so many readers love this book.",
@@ -1790,7 +1817,8 @@ window.FLASHCARD_UNITS = {
       "text": "chamber"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 24
    },
    {
     "question": "The new school rule about phones is confusing, and students have many questions. Tomorrow the principal will give a __________ so that everyone knows exactly what is allowed.",
@@ -1812,7 +1840,8 @@ window.FLASHCARD_UNITS = {
       "text": "civilization"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    },
    {
     "question": "She has won the national swimming competition three years in a row. As the __________, she will carry the flag for our country at the big international games next summer.",
@@ -1834,7 +1863,8 @@ window.FLASHCARD_UNITS = {
       "text": "civilian"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 19
    }
   ]
  }

@@ -1631,7 +1631,8 @@ window.FLASHCARD_UNITS = {
       "text": "melancholy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "Our coach always says that winning starts in the head. Players with a strong __________ keep fighting even when they are far behind in the last minute.",
@@ -1653,7 +1654,8 @@ window.FLASHCARD_UNITS = {
       "text": "monotony"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "The movie was a big hit, so the company made money in other ways too. Shops sold __________ such as T-shirts, toys, and cups with the hero's face on them.",
@@ -1675,7 +1677,8 @@ window.FLASHCARD_UNITS = {
       "text": "monarchy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "The little girl loves stories about the sea. Her favorite one is about a __________ with a fish's tail who wants to live on land with humans.",
@@ -1697,7 +1700,8 @@ window.FLASHCARD_UNITS = {
       "text": "monarch"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 13
    },
    {
     "question": "A __________ from Vietnam works on my uncle's farm. He came to Taiwan three years ago, and he sends money home to his family every month.",
@@ -1719,7 +1723,8 @@ window.FLASHCARD_UNITS = {
       "text": "monarch"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 17
    },
    {
     "question": "Parrots are clever birds. They can __________ the sound of a ringing phone so well that their owners often run to answer a call that never came.",
@@ -1741,7 +1746,8 @@ window.FLASHCARD_UNITS = {
       "text": "mimic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 22
    },
    {
     "question": "Don't just stand in the corner with your phone at the party. Go and __________ with the other guests; you might make some new friends tonight.",
@@ -1763,7 +1769,8 @@ window.FLASHCARD_UNITS = {
       "text": "mimic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "The doctors said the old man might never walk again. But after six months of hard work, he made a __________ recovery and now jogs every morning.",
@@ -1785,7 +1792,8 @@ window.FLASHCARD_UNITS = {
       "text": "miraculous"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 32
    },
    {
     "question": "I cleaned out my school bag last night. Besides my books, I found a __________ collection of things: an old ticket, three pens, a hair clip, and some coins.",
@@ -1807,7 +1815,8 @@ window.FLASHCARD_UNITS = {
       "text": "monstrous"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 36
    },
    {
     "question": "My little brother is only six, but he loves playing tricks on people. Yesterday the __________ boy put a plastic spider in Grandma's teacup and waited for her to scream.",
@@ -1829,7 +1838,8 @@ window.FLASHCARD_UNITS = {
       "text": "moody"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 40
    },
    {
     "question": "The dog knew the sound of the car before anyone else did. It ran to the gate, wagging its tail, as its __________ stepped out and called its name.",
@@ -1851,7 +1861,8 @@ window.FLASHCARD_UNITS = {
       "text": "mermaid"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 44
    },
    {
     "question": "A strong typhoon hit the east coast last night. The government had to __________ thousands of soldiers to clear the roads and bring food to the villages.",
@@ -1873,7 +1884,8 @@ window.FLASHCARD_UNITS = {
       "text": "mobilize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    },
    {
     "question": "Fifty years ago, most people in the village farmed by hand and lived without power. The __________ of the area brought machines, paved roads, and electricity to every home.",
@@ -1895,7 +1907,8 @@ window.FLASHCARD_UNITS = {
       "text": "momentum"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "The train station was built almost a hundred years ago. The city will spend two years to __________ it with new elevators, screens, and a shopping area.",
@@ -1917,7 +1930,8 @@ window.FLASHCARD_UNITS = {
       "text": "modernize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 54
    },
    {
     "question": "At first only a few students joined the new recycling program at school. But it gained __________ after the principal joined in, and now every class takes part.",
@@ -1939,7 +1953,8 @@ window.FLASHCARD_UNITS = {
       "text": "mortality"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 59
    },
    {
     "question": "Thailand's king is loved by many of his people. As the country's __________, he appears at important ceremonies, but the government makes most of the real decisions.",
@@ -1961,7 +1976,8 @@ window.FLASHCARD_UNITS = {
       "text": "merchant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "Prices have been rising fast this year. The central bank changed its __________ policy and raised interest rates so that people would borrow and spend less.",
@@ -1983,7 +1999,8 @@ window.FLASHCARD_UNITS = {
       "text": "mortal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "Working on the factory line means doing the same small task hundreds of times a day. To escape the __________, Mr. Wu listens to podcasts while he works.",
@@ -2005,7 +2022,8 @@ window.FLASHCARD_UNITS = {
       "text": "mortality"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "The storm brought waves as tall as a five-story building. One __________ wave hit the harbor and carried three fishing boats all the way onto the main street.",
@@ -2027,7 +2045,8 @@ window.FLASHCARD_UNITS = {
       "text": "moody"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 77
    },
    {
     "question": "Nobody knows how my sister will act in the morning. She is so __________ that she may hug you one minute and shout at you the next.",
@@ -2049,7 +2068,8 @@ window.FLASHCARD_UNITS = {
       "text": "moody"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 81
    },
    {
     "question": "The team lost five games in a row, and the players looked sad and tired. To lift their __________, the coach invited everyone to a big dinner on Friday.",
@@ -2071,7 +2091,8 @@ window.FLASHCARD_UNITS = {
       "text": "mortality"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 85
    },
    {
     "question": "In the story, the gods live forever on the mountain. The people in the valley, however, are __________, and they grow old and die like all living things.",
@@ -2093,7 +2114,8 @@ window.FLASHCARD_UNITS = {
       "text": "monetary"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 90
    },
    {
     "question": "Having a baby last year changed my cousin's life completely. She says __________ is the hardest job she has ever had, but it is also the most rewarding one.",
@@ -2115,7 +2137,8 @@ window.FLASHCARD_UNITS = {
       "text": "mentality"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 94
    },
    {
     "question": "\"Never give up\" is written in big letters above the door of the gym. The coach says this __________ should guide every player, both on and off the court.",
@@ -2137,7 +2160,8 @@ window.FLASHCARD_UNITS = {
       "text": "mound"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 99
    },
    {
     "question": "The children spent the whole afternoon at the beach. They built a huge __________ of sand and then dug a hole in the middle to make a swimming pool for their toys.",
@@ -2159,7 +2183,8 @@ window.FLASHCARD_UNITS = {
       "text": "mermaid"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 103
    },
    {
     "question": "The bus slid off the wet road and fell into the river late at night. It was a __________ that all thirty passengers got out safely before it sank.",
@@ -2181,7 +2206,8 @@ window.FLASHCARD_UNITS = {
       "text": "mound"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 33
    },
    {
     "question": "The speaker talked for two hours without changing his voice even once. His flat, __________ tone made half of the audience fall asleep before he finished the talk.",
@@ -2203,7 +2229,8 @@ window.FLASHCARD_UNITS = {
       "text": "monotonous"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 74
    },
    {
     "question": "After the accident, my grandfather could not move around easily. The doctor gave him a walking stick to help him get some of his __________ back.",
@@ -2225,7 +2252,8 @@ window.FLASHCARD_UNITS = {
       "text": "momentum"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 52
    },
    {
     "question": "Long ago, there were no supermarkets in the village. Once a month a __________ came with a cart full of salt, cloth, and tea to sell to the farmers.",
@@ -2247,7 +2275,8 @@ window.FLASHCARD_UNITS = {
       "text": "migrant"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 9
    },
    {
     "question": "Babies learn to talk by listening to the people around them. They try to __________ the sounds they hear, and slowly those sounds turn into real words.",
@@ -2269,7 +2298,8 @@ window.FLASHCARD_UNITS = {
       "text": "modernize"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    }
   ]
  }

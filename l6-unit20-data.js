@@ -1496,7 +1496,8 @@ window.FLASHCARD_UNITS = {
       "text": "jingle"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The old stone church looks very green in summer. Thick __________ climbs all the way up its walls and even covers part of the tall front door.",
@@ -1518,7 +1519,8 @@ window.FLASHCARD_UNITS = {
       "text": "ivy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "My grandmother wears a smooth green ring that has been in our family for a hundred years. The __________ was cut by hand, and it feels cool even on hot days.",
@@ -1540,7 +1542,8 @@ window.FLASHCARD_UNITS = {
       "text": "ivy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "Mr. Lee comes to our school before anyone else every morning. As the __________, he unlocks the gates, cleans the toilets, and even fixes the broken chairs.",
@@ -1562,7 +1565,8 @@ window.FLASHCARD_UNITS = {
       "text": "landlady"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 12
    },
    {
     "question": "Every evening the garden fills with a sweet, light smell. It comes from the small white __________ flowers that open only after the sun goes down.",
@@ -1584,7 +1588,8 @@ window.FLASHCARD_UNITS = {
       "text": "jasmine"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 16
    },
    {
     "question": "Whenever the ice cream truck comes down our street, it plays the same short, happy tune. All the children know the __________ and start singing it right away.",
@@ -1606,7 +1611,8 @@ window.FLASHCARD_UNITS = {
       "text": "junction"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 19
    },
    {
     "question": "The horse was fast, but the man riding it was even more important to the win. The young __________ kept the horse calm and made his move at the perfect moment.",
@@ -1628,7 +1634,8 @@ window.FLASHCARD_UNITS = {
       "text": "jockey"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 22
    },
    {
     "question": "Uncle Ben laughs loudly, tells funny stories, and always has a smile for everyone. He is the most __________ person in our family, especially at Christmas dinner.",
@@ -1650,7 +1657,8 @@ window.FLASHCARD_UNITS = {
       "text": "lavish"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 25
    },
    {
     "question": "After ten long years apart, the brothers finally met again at the airport. It was a __________ moment, and even strangers nearby smiled as the two men hugged.",
@@ -1672,7 +1680,8 @@ window.FLASHCARD_UNITS = {
       "text": "lengthy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "The train line from Taipei splits into two here, one going east and one going south. Trains often wait at this __________ for a few minutes before moving on.",
@@ -1694,7 +1703,8 @@ window.FLASHCARD_UNITS = {
       "text": "landslide"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 33
    },
    {
     "question": "During the holiday, the whole family gathers at Grandma's house for a big dinner. It is the one time of year when we see all of our __________ together.",
@@ -1716,7 +1726,8 @@ window.FLASHCARD_UNITS = {
       "text": "layman"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 37
    },
    {
     "question": "The wood was wet after the storm, and the matches kept going out. It took the campers almost an hour to __________ a small fire for cooking.",
@@ -1738,7 +1749,8 @@ window.FLASHCARD_UNITS = {
       "text": "kindle"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 41
    },
    {
     "question": "Our tour guide has read hundreds of books about the city's past. She is so __________ that she can tell you the story behind almost every old building.",
@@ -1760,7 +1772,8 @@ window.FLASHCARD_UNITS = {
       "text": "lavish"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "The old man likes to talk about his childhood in the countryside. When he was a __________ of ten, he had to walk five kilometers to school every day.",
@@ -1782,7 +1795,8 @@ window.FLASHCARD_UNITS = {
       "text": "layman"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 50
    },
    {
     "question": "Mrs. Wang owns the building where we rent our apartment. Our __________ lives on the first floor and always reminds us when the rent is due.",
@@ -1804,7 +1818,8 @@ window.FLASHCARD_UNITS = {
       "text": "janitor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 53
    },
    {
     "question": "Heavy rain fell on the mountains for three days without stopping. On the fourth morning, a huge __________ of mud and rocks buried the only road to the village.",
@@ -1826,7 +1841,8 @@ window.FLASHCARD_UNITS = {
       "text": "junction"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "Places near the equator are hot all year, while places far to the north are cold. A city's __________ tells you how far north or south of the equator it is.",
@@ -1848,7 +1864,8 @@ window.FLASHCARD_UNITS = {
       "text": "latitude"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "The rich businessman spent millions of dollars on his daughter's wedding. The __________ party had a famous singer, fireworks, and a cake as tall as a man.",
@@ -1870,7 +1887,8 @@ window.FLASHCARD_UNITS = {
       "text": "lesser"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 65
    },
    {
     "question": "Dr. Chen is an expert, but his book is written for ordinary readers. Even a __________ with no science training can understand how the brain works after reading it.",
@@ -1892,7 +1910,8 @@ window.FLASHCARD_UNITS = {
       "text": "legislator"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 69
    },
    {
     "question": "The new supermarket is hard to shop in because the shelves are placed in a strange way. The __________ of the store needs to change so that customers can find things.",
@@ -1914,7 +1933,8 @@ window.FLASHCARD_UNITS = {
       "text": "layout"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "We rent our apartment for one year at a time. Our __________ ends in June, and the landlord wants to know if we will stay for another year.",
@@ -1936,7 +1956,8 @@ window.FLASHCARD_UNITS = {
       "text": "length"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 77
    },
    {
     "question": "Mr. Lin was elected last year and now spends most of his time in Taipei. As a __________, his job is to write and vote on new laws for the whole country.",
@@ -1958,7 +1979,8 @@ window.FLASHCARD_UNITS = {
       "text": "landlord"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 81
    },
    {
     "question": "The meeting was supposed to end at noon, but people kept bringing up new problems. After a __________ discussion of nearly four hours, we finally made a decision.",
@@ -1980,7 +2002,8 @@ window.FLASHCARD_UNITS = {
       "text": "joyous"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 86
    },
    {
     "question": "The two women have lived together as a couple for fifteen years and got married in 2020. They were among the first __________ couples to marry in Taiwan.",
@@ -2002,7 +2025,8 @@ window.FLASHCARD_UNITS = {
       "text": "lavish"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 90
    },
    {
     "question": "Many drivers were hurt on the mountain road last year. The city hopes the new lights and signs will __________ the number of accidents there this winter.",
@@ -2024,7 +2048,8 @@ window.FLASHCARD_UNITS = {
       "text": "kindle"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 94
    },
    {
     "question": "Tom has read every book about dinosaurs in the library. His __________ of the subject is so wide that even his science teacher asks him questions.",
@@ -2046,7 +2071,8 @@ window.FLASHCARD_UNITS = {
       "text": "latitude"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 46
    },
    {
     "question": "Many people were hurt by fireworks last New Year. The government is now preparing new __________ that will ban the sale of large fireworks to anyone under twenty.",
@@ -2068,7 +2094,8 @@ window.FLASHCARD_UNITS = {
       "text": "legislation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 82
    },
    {
     "question": "The two old friends had not talked for twenty years after a silly fight. A chance meeting at the market helped them __________ the friendship they once had.",
@@ -2090,7 +2117,8 @@ window.FLASHCARD_UNITS = {
       "text": "release"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 43
    },
    {
     "question": "Amy had failed the driving test twice before. When she finally passed on the third try, she was so __________ that she jumped up and hugged the examiner.",
@@ -2112,7 +2140,8 @@ window.FLASHCARD_UNITS = {
       "text": "lengthy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 32
    },
    {
     "question": "The hot water in our apartment stopped working yesterday. We called the __________, and he promised to send someone to fix the heater before the weekend.",
@@ -2134,7 +2163,8 @@ window.FLASHCARD_UNITS = {
       "text": "legislator"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 54
    }
   ]
  }

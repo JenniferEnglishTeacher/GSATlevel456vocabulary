@@ -1466,7 +1466,8 @@ window.FLASHCARD_UNITS = {
       "text": "poetic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "My uncle lives on a farm and often carries heavy bags of rice and tools. He drives an old __________ truck because a small car simply cannot hold everything.",
@@ -1488,7 +1489,8 @@ window.FLASHCARD_UNITS = {
       "text": "pier"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "We arrived at the seaside town just before sunset. Then we walked to the end of the long wooden __________ and watched the fishing boats come back to the harbor.",
@@ -1510,7 +1512,8 @@ window.FLASHCARD_UNITS = {
       "text": "porch"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "This temple was built more than two hundred years ago. Each stone __________ in the main hall is so thick that two people cannot put their arms around it.",
@@ -1532,7 +1535,8 @@ window.FLASHCARD_UNITS = {
       "text": "pillar"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 12
    },
    {
     "question": "The city gets its water from a lake in the mountains far away. A long underground __________ carries the water for over fifty kilometers to the homes in town.",
@@ -1554,7 +1558,8 @@ window.FLASHCARD_UNITS = {
       "text": "pillar"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 15
    },
    {
     "question": "The children's favorite story is about a ship that sails across the ocean looking for gold. A one-eyed __________ with a parrot on his shoulder is the captain.",
@@ -1576,7 +1581,8 @@ window.FLASHCARD_UNITS = {
       "text": "poet"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "The baseball game was very exciting until the last inning. Our __________ threw the ball so fast that the other team's best batter could not hit it even once.",
@@ -1598,7 +1604,8 @@ window.FLASHCARD_UNITS = {
       "text": "photographer"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "Before the new students join a class, the school needs to know their English level. Everyone takes a short __________ test, and the results decide which group they go into.",
@@ -1620,7 +1627,8 @@ window.FLASHCARD_UNITS = {
       "text": "preference"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 27
    },
    {
     "question": "The little girl has been missing for three days. Last night her parents made an emotional __________ on TV, asking anyone with information to call the police right away.",
@@ -1642,7 +1650,8 @@ window.FLASHCARD_UNITS = {
       "text": "prejudice"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 32
    },
    {
     "question": "The boy knew he had broken the rule by coming home late. He began to __________ with his mother, promising that it would never happen again if she did not tell Dad.",
@@ -1664,7 +1673,8 @@ window.FLASHCARD_UNITS = {
       "text": "plead"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 33
    },
    {
     "question": "The flood left hundreds of families without a home. During the TV program, many companies called in to __________ money and food to help these people start again.",
@@ -1686,7 +1696,8 @@ window.FLASHCARD_UNITS = {
       "text": "poke"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 36
    },
    {
     "question": "It was a very hot afternoon, and the lake looked cool and inviting. Without testing the water first, my brother decided to __________ into it from the top of the rock.",
@@ -1708,7 +1719,8 @@ window.FLASHCARD_UNITS = {
       "text": "plunge"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 39
    },
    {
     "question": "In English, we usually add -s to a noun to show more than one. However, some __________ forms are special and must be learned by heart, such as children, teeth, and mice.",
@@ -1730,7 +1742,8 @@ window.FLASHCARD_UNITS = {
       "text": "poetic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 43
    },
    {
     "question": "The writer describes the quiet village in a very beautiful way. Her __________ language makes the simple story of a farmer's life sound almost like a song.",
@@ -1752,7 +1765,8 @@ window.FLASHCARD_UNITS = {
       "text": "poetic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "The big dog is sleeping peacefully under the tree. Please do not __________ it with that long stick, or it may suddenly wake up angry and bite your hand.",
@@ -1774,7 +1788,8 @@ window.FLASHCARD_UNITS = {
       "text": "pledge"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 51
    },
    {
     "question": "My grandparents' house is small but very comfortable. On warm summer evenings, they like to sit on the front __________ and chat with the neighbors who walk by.",
@@ -1796,7 +1811,8 @@ window.FLASHCARD_UNITS = {
       "text": "porch"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 55
    },
    {
     "question": "Lisa wants to study design at the university next year. She is now putting her best drawings together in a __________ to show the teachers at her interview.",
@@ -1818,7 +1834,8 @@ window.FLASHCARD_UNITS = {
       "text": "pipeline"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 58
    },
    {
     "question": "Dr. Chen has run the small clinic on our street for over twenty years. As an experienced medical __________, she knows almost every family in the neighborhood.",
@@ -1840,7 +1857,8 @@ window.FLASHCARD_UNITS = {
       "text": "premier"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    },
    {
     "question": "A strong typhoon is expected to hit the island tomorrow. As a __________, the school has decided to close early so that every student can get home safely.",
@@ -1862,7 +1880,8 @@ window.FLASHCARD_UNITS = {
       "text": "preference"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 68
    },
    {
     "question": "The zebra must always stay alert while it drinks at the river. A lion is a dangerous __________ that can hide in the tall grass and attack in seconds.",
@@ -1884,7 +1903,8 @@ window.FLASHCARD_UNITS = {
       "text": "pirate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 73
    },
    {
     "question": "When we booked the hotel, the clerk asked about our room __________. We told her that we wanted a quiet room on a high floor with a view of the sea.",
@@ -1906,7 +1926,8 @@ window.FLASHCARD_UNITS = {
       "text": "preference"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 76
    },
    {
     "question": "Some people judge others before they even get to know them. Such __________ is unfair, because a person's skin color or hometown tells you nothing about his or her character.",
@@ -1928,7 +1949,8 @@ window.FLASHCARD_UNITS = {
       "text": "preference"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 81
    },
    {
     "question": "The scientists have just finished the first part of their study. These __________ results look promising, but they need two more years of research before they can be sure.",
@@ -1950,7 +1972,8 @@ window.FLASHCARD_UNITS = {
       "text": "plural"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 84
    },
    {
     "question": "Our team is winning by only one point, and there are still five minutes left. It is __________ to celebrate now, because the other side could still score and win the game.",
@@ -1972,7 +1995,8 @@ window.FLASHCARD_UNITS = {
       "text": "poetic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 87
    },
    {
     "question": "The heavy rain destroyed many bridges and homes in the south. Yesterday the __________ visited the area and promised that the government would help the people rebuild quickly.",
@@ -1994,7 +2018,8 @@ window.FLASHCARD_UNITS = {
       "text": "practitioner"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 92
    },
    {
     "question": "Everyone at the wedding wanted a picture with the happy couple. The __________ asked all the guests to stand closer together and smile before he took the final shot.",
@@ -2016,7 +2041,8 @@ window.FLASHCARD_UNITS = {
       "text": "pitcher"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 3
    },
    {
     "question": "My little sister does not like to study in a noisy place. She would __________ to do her homework in the quiet library rather than at home with the TV on.",
@@ -2038,7 +2064,8 @@ window.FLASHCARD_UNITS = {
       "text": "pledge"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 78
    },
    {
     "question": "Grandpa never buys anything without thinking about it for several days. He is very __________ with his money and always compares prices in three different shops first.",
@@ -2060,7 +2087,8 @@ window.FLASHCARD_UNITS = {
       "text": "poetic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    },
    {
     "question": "The smoke alarm in the kitchen has been beeping all night. We need to __________ its old batteries with new ones before it drives the whole family crazy.",
@@ -2082,7 +2110,8 @@ window.FLASHCARD_UNITS = {
       "text": "replace"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 30
    },
    {
     "question": "Li Bai lived more than one thousand years ago, but his works are still read today. Many people still consider him the greatest __________ in all of Chinese history.",
@@ -2104,7 +2133,8 @@ window.FLASHCARD_UNITS = {
       "text": "predator"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    }
   ]
  }

@@ -1286,7 +1286,8 @@ window.FLASHCARD_UNITS = {
       "text": "feast"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "Fireworks and gas tanks can blow up easily if they get too hot. Such __________ things must be kept far away from fire and stored in a cool place.",
@@ -1308,7 +1309,8 @@ window.FLASHCARD_UNITS = {
       "text": "fertile"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 1
    },
    {
     "question": "The newspaper reporter worked for months on the story. She wanted to __________ the dishonest company that was selling old meat as fresh to school kitchens.",
@@ -1330,7 +1332,8 @@ window.FLASHCARD_UNITS = {
       "text": "expose"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 5
    },
    {
     "question": "Lily spent the whole afternoon at the beach without a hat or sunscreen. Because of the long __________ to the strong sun, her face and arms were red and painful that night.",
@@ -1352,7 +1355,8 @@ window.FLASHCARD_UNITS = {
       "text": "fiction"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 6
    },
    {
     "question": "The museum is very popular during the summer vacation. The manager decided to __________ its opening hours so that visitors can stay until nine in the evening.",
@@ -1374,7 +1378,8 @@ window.FLASHCARD_UNITS = {
       "text": "finance"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "After the earthquake, the government sent people to check every bridge and school. They needed to know the full __________ of the damage before they could start repairs.",
@@ -1396,7 +1401,8 @@ window.FLASHCARD_UNITS = {
       "text": "extent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 10
    },
    {
     "question": "The new phone does not need a password to open it. It uses __________ recognition, so it unlocks as soon as the owner looks at the screen.",
@@ -1418,7 +1424,8 @@ window.FLASHCARD_UNITS = {
       "text": "fertile"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 15
    },
    {
     "question": "Our town has just opened a new sports __________ next to the park. It has an indoor swimming pool, a gym, and three badminton courts for everyone to use.",
@@ -1440,7 +1447,8 @@ window.FLASHCARD_UNITS = {
       "text": "fax"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 19
    },
    {
     "question": "Mr. Lin has worked for the same small company for thirty years. He stayed __________ to his boss even when bigger companies offered him much more money.",
@@ -1462,7 +1470,8 @@ window.FLASHCARD_UNITS = {
       "text": "fantastic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "Twenty years ago, nobody knew the name of this small night market. Today it enjoys great __________ because travel videos about its food have been watched all over the world.",
@@ -1484,7 +1493,8 @@ window.FLASHCARD_UNITS = {
       "text": "finance"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "Thank you so much for the birthday dinner last night. The food was __________, and everyone at the table said it was the best meal they had eaten this year.",
@@ -1506,7 +1516,8 @@ window.FLASHCARD_UNITS = {
       "text": "fantastic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 31
    },
    {
     "question": "In the story, a girl walks through a magic door and finds a land of talking animals and flying ships. Books like this are called __________, and children love them.",
@@ -1528,7 +1539,8 @@ window.FLASHCARD_UNITS = {
       "text": "feedback"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 32
    },
    {
     "question": "Our English teacher is moving to another city next month. The class is planning a __________ party for her, and we will all sign a big card to say goodbye.",
@@ -1550,7 +1562,8 @@ window.FLASHCARD_UNITS = {
       "text": "fiction"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "The plane will take off in five minutes. Please return to your seats, __________ your seat belts, and make sure your bags are under the seat in front of you.",
@@ -1572,7 +1585,8 @@ window.FLASHCARD_UNITS = {
       "text": "ferry"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    },
    {
     "question": "A truck hit a motorcycle on the highway early this morning. Sadly, the accident was __________, and the young rider died before the ambulance could reach the hospital.",
@@ -1594,7 +1608,8 @@ window.FLASHCARD_UNITS = {
       "text": "favorable"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "The farmers are happy about this spring's weather. The warm days and light rain are __________ for growing rice, so they expect a very good harvest in June.",
@@ -1616,7 +1631,8 @@ window.FLASHCARD_UNITS = {
       "text": "fatal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 46
    },
    {
     "question": "The office still has an old machine next to the printer. Some customers send their signed forms by __________ because they do not know how to scan and email them.",
@@ -1638,7 +1654,8 @@ window.FLASHCARD_UNITS = {
       "text": "fax"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "On Grandpa's eightieth birthday, the whole family came together at his house. Grandma cooked a huge __________ with fish, chicken, and twelve other dishes, and we ate for three hours.",
@@ -1660,7 +1677,8 @@ window.FLASHCARD_UNITS = {
       "text": "farewell"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "After the speech contest, the judges talked with each student for a few minutes. Their __________ helped me understand what I did well and what I should practice more.",
@@ -1682,7 +1700,8 @@ window.FLASHCARD_UNITS = {
       "text": "finance"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "There is no bridge between the small island and the city. People who live there take a __________ across the water every morning to go to work or school.",
@@ -1704,7 +1723,8 @@ window.FLASHCARD_UNITS = {
       "text": "fastener"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    },
    {
     "question": "The land along the river gets rich black soil every time the water rises. Because the ground is so __________, farmers there can grow three crops of vegetables a year.",
@@ -1726,7 +1746,8 @@ window.FLASHCARD_UNITS = {
       "text": "fictional"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 65
    },
    {
     "question": "Grandma cannot walk very well since she hurt her leg. Could you please go upstairs and __________ her glasses from the bedroom so she can read the newspaper?",
@@ -1748,7 +1769,8 @@ window.FLASHCARD_UNITS = {
       "text": "finance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "My brother only reads books about real events, like history and science. I prefer __________, because I enjoy stories about people and places that a writer has imagined.",
@@ -1770,7 +1792,8 @@ window.FLASHCARD_UNITS = {
       "text": "exposure"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    },
    {
     "question": "Do not try to touch the mother bear when she is with her babies. She can become very __________ and will attack anyone who comes too close to them.",
@@ -1792,7 +1815,8 @@ window.FLASHCARD_UNITS = {
       "text": "faithful"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 76
    },
    {
     "question": "My cousin is very good with numbers and loves to plan how money should be spent. She hopes to study __________ at university and work in a bank one day.",
@@ -1814,7 +1838,8 @@ window.FLASHCARD_UNITS = {
       "text": "finance"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "This small bakery has been selling the same pineapple cakes for sixty years. It is so __________ that tourists line up outside the door before it opens every morning.",
@@ -1836,7 +1861,8 @@ window.FLASHCARD_UNITS = {
       "text": "financial"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 28
    },
    {
     "question": "Mr. Wang lost his job when the factory closed last year. His family has had serious __________ problems since then, and they had to sell their car to pay the bills.",
@@ -1858,7 +1884,8 @@ window.FLASHCARD_UNITS = {
       "text": "financial"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 82
    },
    {
     "question": "Do not leave the spray can in your car on a hot summer day. The heat inside can make it __________, and the pieces could hurt someone badly.",
@@ -1880,7 +1907,8 @@ window.FLASHCARD_UNITS = {
       "text": "extend"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "The typhoon stayed over the island for two whole days. It caused __________ damage to farms and roads in the south, and thousands of fruit trees were destroyed.",
@@ -1902,7 +1930,8 @@ window.FLASHCARD_UNITS = {
       "text": "extensive"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 14
    },
    {
     "question": "Running away from your problems will not make them disappear. Sooner or later you will have to __________ them, so it is better to deal with them today.",
@@ -1924,7 +1953,8 @@ window.FLASHCARD_UNITS = {
       "text": "fax"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 16
    }
   ]
  }

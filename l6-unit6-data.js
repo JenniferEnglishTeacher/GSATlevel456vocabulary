@@ -1466,7 +1466,8 @@ window.FLASHCARD_UNITS = {
       "text": "cavity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "The dam broke after a week of heavy rain, and water covered three villages. It was the worst __________ the area had seen in fifty years, and thousands lost their homes.",
@@ -1488,7 +1489,8 @@ window.FLASHCARD_UNITS = {
       "text": "checkup"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "My aunt's small company will __________ our school party next Friday. She is going to bring sandwiches, fruit, and drinks for about two hundred students and teachers.",
@@ -1510,7 +1512,8 @@ window.FLASHCARD_UNITS = {
       "text": "cater"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 7
    },
    {
     "question": "Look at this green __________ eating the leaves of my cabbage plant. In a few weeks, it will build a cocoon and later turn into a beautiful butterfly.",
@@ -1532,7 +1535,8 @@ window.FLASHCARD_UNITS = {
       "text": "chestnut"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "The dentist looked at my back tooth and found a small __________ in it. She said I should eat less candy and brush my teeth more carefully every night.",
@@ -1554,7 +1558,8 @@ window.FLASHCARD_UNITS = {
       "text": "cavity"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "Mom asked me to wash some __________ and cut it into thin sticks for the salad. It is a long green vegetable that makes a loud crunchy sound when you eat it.",
@@ -1576,7 +1581,8 @@ window.FLASHCARD_UNITS = {
       "text": "chili"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 19
    },
    {
     "question": "Our biology teacher showed us a picture of a leaf under a microscope. She explained that every living thing is made of tiny parts, and this __________ structure can be seen clearly.",
@@ -1598,7 +1604,8 @@ window.FLASHCARD_UNITS = {
       "text": "catastrophic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 22
    },
    {
     "question": "In most countries, people measure temperature in degrees __________, and water boils at 100 degrees. In the United States, however, people usually use a different system for the weather and cooking.",
@@ -1620,7 +1627,8 @@ window.FLASHCARD_UNITS = {
       "text": "cholesterol"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 27
    },
    {
     "question": "The workers mixed sand, water, and __________ to make a strong gray paste. After it became hard, it held the bricks of the new wall tightly together.",
@@ -1642,7 +1650,8 @@ window.FLASHCARD_UNITS = {
       "text": "cement"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 30
    },
    {
     "question": "Every ten years, the government counts all the people living in the country. This __________ shows how many people live in each city and helps leaders plan schools and hospitals.",
@@ -1664,7 +1673,8 @@ window.FLASHCARD_UNITS = {
       "text": "catastrophe"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    },
    {
     "question": "My grandmother keeps her flowers in a beautiful __________ pot that she made herself at a pottery class. It is made of clay and was baked in a very hot oven.",
@@ -1686,7 +1696,8 @@ window.FLASHCARD_UNITS = {
       "text": "casual"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 37
    },
    {
     "question": "Before you can work as a lifeguard at the pool, a doctor must __________ that you are healthy. You also need to pass a swimming test in front of a judge.",
@@ -1708,7 +1719,8 @@ window.FLASHCARD_UNITS = {
       "text": "cater"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "Ms. Lin was chosen as the __________ of the parents' meeting last night. She welcomed everyone, kept the discussion moving, and made sure each person had a chance to speak.",
@@ -1730,7 +1742,8 @@ window.FLASHCARD_UNITS = {
       "text": "civilian"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 46
    },
    {
     "question": "When the clock struck twelve on New Year's Eve, Dad opened a bottle of __________. The cork flew across the room, and everyone laughed and raised their glasses.",
@@ -1752,7 +1765,8 @@ window.FLASHCARD_UNITS = {
       "text": "champagne"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "During the basketball game, hundreds of fans stood up and began to __________ the name of their favorite player again and again. The sound was so loud that the players could hardly hear the coach.",
@@ -1774,7 +1788,8 @@ window.FLASHCARD_UNITS = {
       "text": "chirp"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "Mr. Wang gives part of his money to poor children every month and never talks about it. Everyone in our town knows him as a kind and __________ man.",
@@ -1796,7 +1811,8 @@ window.FLASHCARD_UNITS = {
       "text": "charitable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "Even if you feel fine, you should visit the dentist twice a year for a __________. The doctor can find small problems early, before they become painful and expensive to fix.",
@@ -1818,7 +1834,8 @@ window.FLASHCARD_UNITS = {
       "text": "certificate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 62
    },
    {
     "question": "My uncle works as a __________ in a large laboratory near the city. He spends his days mixing different liquids and powders to create safer cleaning products for homes.",
@@ -1840,7 +1857,8 @@ window.FLASHCARD_UNITS = {
       "text": "civilian"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 66
    },
    {
     "question": "Grandpa's favorite winter snack is the roasted __________, a sweet brown nut cooked over hot stones at the night market. He always buys a warm bag of them on cold evenings.",
@@ -1862,7 +1880,8 @@ window.FLASHCARD_UNITS = {
       "text": "chestnut"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "Be careful with that red __________ in your noodles. It looks small, but it is very hot, and your mouth will burn for several minutes if you bite into it.",
@@ -1884,7 +1903,8 @@ window.FLASHCARD_UNITS = {
       "text": "cocoon"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "At the zoo, we watched a __________ use a stick to get honey out of a hole in a tree. The guide said this clever animal is one of our closest relatives.",
@@ -1906,7 +1926,8 @@ window.FLASHCARD_UNITS = {
       "text": "caterpillar"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 78
    },
    {
     "question": "Every morning at five, the little birds outside my window begin to __________ loudly. Their short, high sounds wake me up long before my alarm clock rings.",
@@ -1928,7 +1949,8 @@ window.FLASHCARD_UNITS = {
       "text": "certify"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 81
    },
    {
     "question": "The doctor told my father that his __________ level was too high after his blood test. He must eat less fried food and fewer eggs, and he should walk every day.",
@@ -1950,7 +1972,8 @@ window.FLASHCARD_UNITS = {
       "text": "cavity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 84
    },
    {
     "question": "Grandpa likes to sit on the porch after dinner and smoke a thick brown __________. Grandma always complains about the strong smell, so he never lights one inside the house.",
@@ -1972,7 +1995,8 @@ window.FLASHCARD_UNITS = {
       "text": "cell"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 88
    },
    {
     "question": "Long ago, the kings believed they could __________ the people of faraway lands by teaching them new laws, religion, and ways of living. Today, many people see this idea as wrong.",
@@ -1994,7 +2018,8 @@ window.FLASHCARD_UNITS = {
       "text": "civilize"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 91
    },
    {
     "question": "After finishing the three-month computer course, each student received a __________ with his or her name on it. Many of them put it in a frame and hung it on the wall.",
@@ -2016,7 +2041,8 @@ window.FLASHCARD_UNITS = {
       "text": "checkup"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "On Fridays, our office does not require suits or ties. Most workers wear __________ clothes such as jeans and T-shirts, which makes the whole place feel more relaxed.",
@@ -2038,7 +2064,8 @@ window.FLASHCARD_UNITS = {
       "text": "cellular"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 2
    },
    {
     "question": "The forest fire spread quickly in the strong wind and burned for ten days. The damage was __________: thousands of trees were lost, and many animals had nowhere to live.",
@@ -2060,7 +2087,8 @@ window.FLASHCARD_UNITS = {
       "text": "charitable"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "In today's __________ class, we mixed two clear liquids and watched them turn bright blue. Our teacher explained how different materials change when they meet each other.",
@@ -2082,7 +2110,8 @@ window.FLASHCARD_UNITS = {
       "text": "civilization"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 68
    },
    {
     "question": "The old city by the river was home to a great __________ thousands of years ago. Its people built tall stone temples, wrote on clay, and traded with faraway lands.",
@@ -2104,7 +2133,8 @@ window.FLASHCARD_UNITS = {
       "text": "charity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 94
    }
   ]
  }

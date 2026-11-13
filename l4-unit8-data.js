@@ -1226,7 +1226,8 @@ window.FLASHCARD_UNITS = {
       "text": "conservative"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "The orchestra stopped playing at once when the __________ put down his hands. He told the violins they were playing too fast and asked them to start again.",
@@ -1248,7 +1249,8 @@ window.FLASHCARD_UNITS = {
       "text": "consumer"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "Doctors from all over the world will meet in Taipei next week. At this three-day __________, they will share new ways to treat heart disease and cancer.",
@@ -1270,7 +1272,8 @@ window.FLASHCARD_UNITS = {
       "text": "constitution"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 9
    },
    {
     "question": "Nobody knew who had taken the money from the teacher's desk. Finally, a boy in the back row stood up to __________ that he had done it.",
@@ -1292,7 +1295,8 @@ window.FLASHCARD_UNITS = {
       "text": "confess"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 13
    },
    {
     "question": "Amy used to be afraid to speak English in class. After winning the speech contest, however, she has much more __________ and often raises her hand.",
@@ -1314,7 +1318,8 @@ window.FLASHCARD_UNITS = {
       "text": "consumption"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 17
    },
    {
     "question": "The signs at the airport were in a language we could not read. In all the __________, we got on the wrong bus and ended up at the sea instead of the hotel.",
@@ -1336,7 +1341,8 @@ window.FLASHCARD_UNITS = {
       "text": "conscience"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 23
    },
    {
     "question": "Lily just found out she passed the hardest exam in her school. Let's call her tonight to __________ her and ask how she wants to celebrate.",
@@ -1358,7 +1364,8 @@ window.FLASHCARD_UNITS = {
       "text": "consume"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 28
    },
    {
     "question": "In the United States, a new law cannot start with the president alone. It must first be passed by the national __________, where elected members vote on it.",
@@ -1380,7 +1387,8 @@ window.FLASHCARD_UNITS = {
       "text": "consumption"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 31
    },
    {
     "question": "The small army could not __________ the city because its walls were too high and thick. After three months, the soldiers gave up and went home.",
@@ -1402,7 +1410,8 @@ window.FLASHCARD_UNITS = {
       "text": "consult"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 35
    },
    {
     "question": "Nobody saw Mark break the vase, so he could have stayed quiet. Still, his __________ bothered him so much that he told his mother the truth that night.",
@@ -1424,7 +1433,8 @@ window.FLASHCARD_UNITS = {
       "text": "confidence"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 39
    },
    {
     "question": "Peter played video games all night instead of sleeping. As a __________, he fell asleep in class and missed the most important part of the lesson.",
@@ -1446,7 +1456,8 @@ window.FLASHCARD_UNITS = {
       "text": "consequence"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 43
    },
    {
     "question": "The typhoon brought heavy rain to the whole island for two days. The __________ flooding closed many roads, and students in three towns stayed home from school.",
@@ -1468,7 +1479,8 @@ window.FLASHCARD_UNITS = {
       "text": "confused"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 44
    },
    {
     "question": "My grandmother does not like new things or new ideas. She is quite __________, so she still writes letters by hand and refuses to use a smartphone.",
@@ -1490,7 +1502,8 @@ window.FLASHCARD_UNITS = {
       "text": "conscientious"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "Our school team does not __________ only of tall players. In fact, our shortest player is the one who scores the most points in every game.",
@@ -1512,7 +1525,8 @@ window.FLASHCARD_UNITS = {
       "text": "construct"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 53
    },
    {
     "question": "David has been a __________ student all year long. He gets about ninety points on every single test, never much higher and never much lower than that.",
@@ -1534,7 +1548,8 @@ window.FLASHCARD_UNITS = {
       "text": "congratulatory"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 54
    },
    {
     "question": "Students from other countries now __________ nearly one third of our class. Just ten years ago, there was only one foreign student in the whole school.",
@@ -1556,7 +1571,8 @@ window.FLASHCARD_UNITS = {
       "text": "consume"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 59
    },
    {
     "question": "Every citizen over twenty in our country can vote in elections. This right is written in the __________, the most important set of laws in the nation.",
@@ -1578,7 +1594,8 @@ window.FLASHCARD_UNITS = {
       "text": "conference"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 60
    },
    {
     "question": "The city wants to __________ a new bridge across the river. If the work starts next spring, drivers will be able to use it in about two years.",
@@ -1600,7 +1617,8 @@ window.FLASHCARD_UNITS = {
       "text": "confuse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 63
    },
    {
     "question": "The __________ of the new subway line has made the traffic much worse this year. Big trucks and loud machines fill the main street every day.",
@@ -1622,7 +1640,8 @@ window.FLASHCARD_UNITS = {
       "text": "construction"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 64
    },
    {
     "question": "My teacher did not just say my essay was bad. She gave me __________ advice, telling me exactly how to make each paragraph clearer and stronger.",
@@ -1644,7 +1663,8 @@ window.FLASHCARD_UNITS = {
       "text": "conscious"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 65
    },
    {
     "question": "Do not take any medicine for your stomach pain just because a friend suggested it. You should __________ a doctor first and then follow his advice carefully.",
@@ -1666,7 +1686,8 @@ window.FLASHCARD_UNITS = {
       "text": "consult"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 68
    },
    {
     "question": "Sales at the shoe company have dropped sharply this year. The company has hired a __________ to study the problem and tell them how to fix it.",
@@ -1688,7 +1709,8 @@ window.FLASHCARD_UNITS = {
       "text": "congressman"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "People in this city __________ a lot of electricity in summer. Almost every home and shop turns on the air conditioner from early morning until late at night.",
@@ -1710,7 +1732,8 @@ window.FLASHCARD_UNITS = {
       "text": "congratulate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    },
    {
     "question": "A smart __________ always reads the labels before buying food. She checks how much sugar and salt are inside and compares the prices of different brands.",
@@ -1732,7 +1755,8 @@ window.FLASHCARD_UNITS = {
       "text": "consumer"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "Put the rest of the soup in a glass __________ with a lid. If you keep it in the fridge, you can still eat it tomorrow for lunch.",
@@ -1754,7 +1778,8 @@ window.FLASHCARD_UNITS = {
       "text": "conscience"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 76
    },
    {
     "question": "The two sisters look almost the same and even wear the same glasses. It is easy to __________ them, so their new teacher often calls them by the wrong names.",
@@ -1776,7 +1801,8 @@ window.FLASHCARD_UNITS = {
       "text": "consult"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "The forest fire is getting closer to the houses at the bottom of the hill. Hundreds of firefighters are working hard to __________ it before morning.",
@@ -1798,7 +1824,8 @@ window.FLASHCARD_UNITS = {
       "text": "contain"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 77
    },
    {
     "question": "The scientists will __________ a study of one thousand teenagers. They want to find out how many hours a day young people spend looking at their phones.",
@@ -1820,7 +1847,8 @@ window.FLASHCARD_UNITS = {
       "text": "consume"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 6
    },
    {
     "question": "We get only a little rain in this area each year. That is why the government asks everyone to __________ water and fix any leaking taps right away.",
@@ -1842,7 +1870,8 @@ window.FLASHCARD_UNITS = {
       "text": "conquer"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    },
    {
     "question": "These two sisters look so much alike that even I get __________ sometimes. Yesterday, I said hello to Jenny and found out that it was actually Judy.",
@@ -1864,7 +1893,8 @@ window.FLASHCARD_UNITS = {
       "text": "confused"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 26
    }
   ]
  }

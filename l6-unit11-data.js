@@ -1271,7 +1271,8 @@ window.FLASHCARD_UNITS = {
       "text": "disable"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "We tried to bake a cake for Mom's birthday without a recipe. The result was __________: it was burnt on the outside and still wet in the middle.",
@@ -1293,7 +1294,8 @@ window.FLASHCARD_UNITS = {
       "text": "diverse"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "Nobody expected our small school team to win the national final. When the last whistle blew, the players just stood there in __________ for a full minute.",
@@ -1315,7 +1317,8 @@ window.FLASHCARD_UNITS = {
       "text": "diversity"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "These clothes are too small for me now, but they are still in good condition. Please do not __________ them; the charity shop downtown will give them to families who need them.",
@@ -1337,7 +1340,8 @@ window.FLASHCARD_UNITS = {
       "text": "disable"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "Grandpa's operation went very well yesterday. The doctor says the hospital will __________ him on Friday if he can walk to the end of the hall by himself.",
@@ -1359,7 +1363,8 @@ window.FLASHCARD_UNITS = {
       "text": "discharge"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "The famous painter never went to art school. He learned everything as a __________ of an old master, mixing colors and cleaning brushes for him for ten years.",
@@ -1381,7 +1386,8 @@ window.FLASHCARD_UNITS = {
       "text": "division"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "Three players were caught fighting after the game on Saturday. The league will hold a __________ meeting next week to decide how long they must sit out.",
@@ -1403,7 +1409,8 @@ window.FLASHCARD_UNITS = {
       "text": "distracting"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 22
    },
    {
     "question": "Customers were angry when they learned the truth about the company. The __________ that it had sold their phone numbers to other businesses was all over the news.",
@@ -1425,7 +1432,8 @@ window.FLASHCARD_UNITS = {
       "text": "discipline"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 25
    },
    {
     "question": "The dentist said the tooth would feel strange for a while. You may have some __________ when you eat cold things, but it should stop in a few days.",
@@ -1447,7 +1455,8 @@ window.FLASHCARD_UNITS = {
       "text": "dissent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 29
    },
    {
     "question": "I told Amy about the surprise party only because I trust her. She is very __________ and never repeats a secret, even when her friends beg her to.",
@@ -1469,7 +1478,8 @@ window.FLASHCARD_UNITS = {
       "text": "distressed"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 33
    },
    {
     "question": "The beach used to be the pride of our town. Now it is a __________, covered with bottles and plastic bags that tourists leave behind every summer.",
@@ -1491,7 +1501,8 @@ window.FLASHCARD_UNITS = {
       "text": "diversity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "All the students had prepared for the school fair for weeks. To their great __________, heavy rain forced the school to cancel it on the morning of the event.",
@@ -1513,7 +1524,8 @@ window.FLASHCARD_UNITS = {
       "text": "dismay"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 41
    },
    {
     "question": "The coach says every player on the team matters. Nobody is __________, so even the ones who sit on the bench must come to practice every day.",
@@ -1535,7 +1547,8 @@ window.FLASHCARD_UNITS = {
       "text": "disturbed"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "You do not need to wait in line at the pharmacy anymore. A new machine can __________ common medicines after you scan the paper from your doctor.",
@@ -1557,7 +1570,8 @@ window.FLASHCARD_UNITS = {
       "text": "divert"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 46
    },
    {
     "question": "The city wants to produce less trash at outdoor events. From next year, food stands at the festival may not use __________ plates or forks of any kind.",
@@ -1579,7 +1593,8 @@ window.FLASHCARD_UNITS = {
       "text": "disgraceful"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 50
    },
    {
     "question": "Old computers contain metals that can harm the environment. The safe __________ of this kind of waste is now the law in many countries, including Taiwan.",
@@ -1601,7 +1616,8 @@ window.FLASHCARD_UNITS = {
       "text": "disposal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "Do not just throw used batteries into the kitchen trash. You should __________ of them at the special box in the supermarket so they can be recycled.",
@@ -1623,7 +1639,8 @@ window.FLASHCARD_UNITS = {
       "text": "disturb"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 52
    },
    {
     "question": "Everyone on the committee seemed to like the new plan. The only __________ came from Mr. Wang, who worried that the budget was not big enough.",
@@ -1645,7 +1662,8 @@ window.FLASHCARD_UNITS = {
       "text": "dividend"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "I cannot study with my phone next to me. Every message is a __________ that pulls my eyes away from the book, so I leave it in another room.",
@@ -1667,7 +1685,8 @@ window.FLASHCARD_UNITS = {
       "text": "distraction"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 58
    },
    {
     "question": "The little girl had been separated from her mother at the night market. A police officer noticed her __________ and helped her find her family in ten minutes.",
@@ -1689,7 +1708,8 @@ window.FLASHCARD_UNITS = {
       "text": "disclosure"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 62
    },
    {
     "question": "The neighbors were having a loud party after midnight again. Mr. Chen finally called the police to report the __________ because his baby could not sleep.",
@@ -1711,7 +1731,8 @@ window.FLASHCARD_UNITS = {
       "text": "division"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "The shop used to sell only tea, but fewer people buy it now. The owner decided to __________ and now also sells coffee, cakes, and small gifts.",
@@ -1733,7 +1754,8 @@ window.FLASHCARD_UNITS = {
       "text": "diversify"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "The main road into town is closed for repairs this week. Drivers must follow the __________ through the hills, which adds twenty minutes to the trip.",
@@ -1755,7 +1777,8 @@ window.FLASHCARD_UNITS = {
       "text": "discharge"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 75
    },
    {
     "question": "The river often floods the village during typhoon season. Engineers plan to __________ part of the water into a new channel that leads straight to the sea.",
@@ -1777,7 +1800,8 @@ window.FLASHCARD_UNITS = {
       "text": "disable"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "My aunt bought shares in a bank ten years ago. Every year the bank pays her a __________, which she uses to take the whole family on a short trip.",
@@ -1799,7 +1823,8 @@ window.FLASHCARD_UNITS = {
       "text": "distraction"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 79
    },
    {
     "question": "Our school play was supposed to begin at seven. The evening turned into a __________ when the lights went out and the main actor forgot all his lines.",
@@ -1821,7 +1846,8 @@ window.FLASHCARD_UNITS = {
       "text": "discretion"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "The reporter knew the name of the secret witness. However, she refused to __________ it, even when the judge warned her she could go to jail.",
@@ -1843,7 +1869,8 @@ window.FLASHCARD_UNITS = {
       "text": "dispose"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "Dad has an important online meeting in the study right now. Please keep the TV quiet and do not __________ him until he opens the door.",
@@ -1865,7 +1892,8 @@ window.FLASHCARD_UNITS = {
       "text": "diversify"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "Water is something no living thing can do without. It is __________ for plants, animals, and people, which is why we must keep our rivers clean.",
@@ -1887,7 +1915,8 @@ window.FLASHCARD_UNITS = {
       "text": "distracted"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 47
    },
    {
     "question": "The new soldiers wake up at five and clean their rooms before breakfast. Strict __________ like this teaches them to follow orders quickly during an emergency.",
@@ -1909,7 +1938,8 @@ window.FLASHCARD_UNITS = {
       "text": "discipline"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 19
    }
   ]
  }

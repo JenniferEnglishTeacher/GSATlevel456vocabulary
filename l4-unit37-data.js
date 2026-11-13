@@ -1586,7 +1586,8 @@ window.FLASHCARD_UNITS = {
       "text": "stingy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Grandpa wants to plant some tomatoes in the backyard this weekend. He needs a __________ to dig a few deep holes in the hard ground before he can put the young plants in.",
@@ -1608,7 +1609,8 @@ window.FLASHCARD_UNITS = {
       "text": "spade"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "I locked my keys inside the house again this morning. Luckily, my neighbor keeps a __________ key for me, so I did not have to call someone to open the door.",
@@ -1630,7 +1632,8 @@ window.FLASHCARD_UNITS = {
       "text": "splendid"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 8
    },
    {
     "question": "Be careful with the fire when you camp in the forest. One small __________ can land on dry leaves and start a fire that burns for days.",
@@ -1652,7 +1655,8 @@ window.FLASHCARD_UNITS = {
       "text": "spark"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 13
    },
    {
     "question": "Long ago, people did not have guns to hunt animals. A hunter would hide quietly and throw a long, sharp __________ at a deer when it came close.",
@@ -1674,7 +1678,8 @@ window.FLASHCARD_UNITS = {
       "text": "submarine"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 17
    },
    {
     "question": "Scientists found a new kind of frog in the mountains last month. This tiny __________ is smaller than a coin and has never been seen anywhere else in the world.",
@@ -1696,7 +1701,8 @@ window.FLASHCARD_UNITS = {
       "text": "stroke"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 21
    },
    {
     "question": "Many people climb the mountain not to exercise but to visit the old temple at the top. For them, the trip is a __________ journey rather than a sports activity.",
@@ -1718,7 +1724,8 @@ window.FLASHCARD_UNITS = {
       "text": "striped"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 25
    },
    {
     "question": "From the top floor of the hotel we could see the whole harbor, with boats, bridges, and mountains behind. It was the most __________ view I have ever seen.",
@@ -1740,7 +1747,8 @@ window.FLASHCARD_UNITS = {
       "text": "spare"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 30
    },
    {
     "question": "There are only thirty-two students, but the gym is big enough for four games. Let's __________ the class into four teams of eight and play at the same time.",
@@ -1762,7 +1770,8 @@ window.FLASHCARD_UNITS = {
       "text": "split"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 34
    },
    {
     "question": "The cake is finished, but it looks a little plain. Before we serve it, let's __________ some sugar and chocolate pieces over the top to make it look pretty.",
@@ -1784,7 +1793,8 @@ window.FLASHCARD_UNITS = {
       "text": "strengthen"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    },
    {
     "question": "The police said the man used a kitchen knife in the fight last night. He tried to __________ his neighbor in the arm, but luckily the wound was not deep.",
@@ -1806,7 +1816,8 @@ window.FLASHCARD_UNITS = {
       "text": "spare"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 43
    },
    {
     "question": "Fewer and fewer babies are born in Taiwan every year. The latest __________ from the government show that the number of births dropped again last year, for the sixth time in a row.",
@@ -1828,7 +1839,8 @@ window.FLASHCARD_UNITS = {
       "text": "statistics"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 47
    },
    {
     "question": "In the past, having a car showed that a family was rich and important in the village. Today, however, a car is no longer a sign of high __________.",
@@ -1850,7 +1862,8 @@ window.FLASHCARD_UNITS = {
       "text": "stroke"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 51
    },
    {
     "question": "The flowers my mother bought will last longer if we take care of them. Cut the bottom of each __________ before you put the roses into the water.",
@@ -1872,7 +1885,8 @@ window.FLASHCARD_UNITS = {
       "text": "spade"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "My grandfather still has hundreds of old music records at home. Every Sunday afternoon he plays them on his __________ and sings along in the living room.",
@@ -1894,7 +1908,8 @@ window.FLASHCARD_UNITS = {
       "text": "sprinkler"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 59
    },
    {
     "question": "Mr. Lin has lots of money, but he never spends any of it. He is so __________ that he reuses the same tea bag three times before throwing it away.",
@@ -1916,7 +1931,8 @@ window.FLASHCARD_UNITS = {
       "text": "stingy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    },
    {
     "question": "It is cold today, and Mary is wearing a skirt to the party. She should put on a pair of warm __________ so that her legs do not freeze on the way.",
@@ -1938,7 +1954,8 @@ window.FLASHCARD_UNITS = {
       "text": "species"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 67
    },
    {
     "question": "Running and swimming are both good for the body. If you exercise three times a week, you will __________ your heart and feel much more energy during the day.",
@@ -1960,7 +1977,8 @@ window.FLASHCARD_UNITS = {
       "text": "stab"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "The flag of the United States has fifty white stars on a blue square. Next to the stars there are thirteen lines in red and white, and each __________ stands for one of the first states.",
@@ -1982,7 +2000,8 @@ window.FLASHCARD_UNITS = {
       "text": "spark"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "Nobody in our class is perfect, but the teacher says that is fine. She wants every student to __________ for improvement each day instead of comparing grades with others.",
@@ -2004,7 +2023,8 @@ window.FLASHCARD_UNITS = {
       "text": "strive"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "Grandpa suddenly could not move his left arm or speak clearly last night. The doctor said he had a __________ and must stay in the hospital for at least two weeks.",
@@ -2026,7 +2046,8 @@ window.FLASHCARD_UNITS = {
       "text": "spark"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 83
    },
    {
     "question": "The ship can travel for months without being seen. It moves deep under the sea, and the sailors inside the __________ cannot see the sun for weeks.",
@@ -2048,7 +2069,8 @@ window.FLASHCARD_UNITS = {
       "text": "submarine"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 87
    },
    {
     "question": "Mrs. Wang fell on the wet floor of the store and broke her arm. Her lawyer says she can __________ the store because nobody put up a warning sign.",
@@ -2070,7 +2092,8 @@ window.FLASHCARD_UNITS = {
       "text": "summarize"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 91
    },
    {
     "question": "We cannot decide where to go for the class trip this spring. If you have a good __________, please write it on a piece of paper and put it in the box.",
@@ -2092,7 +2115,8 @@ window.FLASHCARD_UNITS = {
       "text": "status"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 95
    },
    {
     "question": "The article is ten pages long, but we only have five minutes before the meeting. Can you __________ the main points for me in a few short sentences?",
@@ -2114,7 +2138,8 @@ window.FLASHCARD_UNITS = {
       "text": "strive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 100
    },
    {
     "question": "Our neighbor always gives more than people expect. Every Chinese New Year, she hands out red envelopes to every child on the street, and she never counts the money. She is really __________.",
@@ -2136,7 +2161,8 @@ window.FLASHCARD_UNITS = {
       "text": "spare"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 66
    },
    {
     "question": "My brother works at a bank, but he does not enjoy it. In his __________ he writes short stories and hopes to become a famous writer one day.",
@@ -2158,7 +2184,8 @@ window.FLASHCARD_UNITS = {
       "text": "split second"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "When my friends and I eat out together, nobody wants to pay for everyone. We usually __________ so that each person pays only for his or her own food.",
@@ -2180,7 +2207,8 @@ window.FLASHCARD_UNITS = {
       "text": "spark off"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 36
    },
    {
     "question": "The report on the new library is forty pages long, and the mayor is a busy man. His assistant wrote a one-page __________ of the main points for him to read on the train.",
@@ -2202,7 +2230,8 @@ window.FLASHCARD_UNITS = {
       "text": "strength"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 101
    },
    {
     "question": "The Formosan black bear is in danger of disappearing from Taiwan. Because it is an __________, anyone who hunts one can be sent to prison for several years.",
@@ -2224,7 +2253,8 @@ window.FLASHCARD_UNITS = {
       "text": "solar eclipse"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 22
    }
   ]
  }

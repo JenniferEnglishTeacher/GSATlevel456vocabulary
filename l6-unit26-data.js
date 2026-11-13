@@ -1571,7 +1571,8 @@ window.FLASHCARD_UNITS = {
       "text": "overlap"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "There are 25 girls and only 10 boys in our class this year. Because the girls __________ the boys, the teacher asked some girls to help move the heavy desks.",
@@ -1593,7 +1594,8 @@ window.FLASHCARD_UNITS = {
       "text": "paralyze"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "The factory secretly dumped poison into the river where children swim. When the news came out, it caused great __________ among the people of the whole town.",
@@ -1615,7 +1617,8 @@ window.FLASHCARD_UNITS = {
       "text": "overflow"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 10
    },
    {
     "question": "A small bottle of water at the concert cost three hundred dollars. Many fans said the price was __________ and decided to bring their own drinks next time.",
@@ -1637,7 +1640,8 @@ window.FLASHCARD_UNITS = {
       "text": "paralyzed"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 11
    },
    {
     "question": "The young runner did not just win the race by a second or two. It was an __________ victory, because she finished almost half a minute ahead of everyone else.",
@@ -1659,7 +1663,8 @@ window.FLASHCARD_UNITS = {
       "text": "overdone"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "The coach told us the rules on the very first day of practice. From the __________, we knew that anyone who missed training twice would leave the team.",
@@ -1681,7 +1686,8 @@ window.FLASHCARD_UNITS = {
       "text": "outlook"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 19
    },
    {
     "question": "My aunt does not like the noise and crowds of downtown Taipei. She lives on the __________ of the city, where the houses have gardens and the streets are quiet.",
@@ -1703,7 +1709,8 @@ window.FLASHCARD_UNITS = {
       "text": "outskirts"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 24
    },
    {
     "question": "Jenny smiled and chatted calmly with the judges before the contest. However, her __________ calm hid the simple fact that her heart was beating very fast inside.",
@@ -1725,7 +1732,8 @@ window.FLASHCARD_UNITS = {
       "text": "outright"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 28
    },
    {
     "question": "Exercise is good for you, but your body needs time to get used to it. If you __________ it in the first week, your legs will hurt so much that you may quit.",
@@ -1747,7 +1755,8 @@ window.FLASHCARD_UNITS = {
       "text": "outnumber"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 33
    },
    {
     "question": "Dad forgot that he had left the bathtub tap running. By the time he remembered, the water had started to __________ and was running across the bathroom floor.",
@@ -1769,7 +1778,8 @@ window.FLASHCARD_UNITS = {
       "text": "overwork"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "I was sitting behind two teachers on the bus this morning. I did not mean to listen, but I happened to __________ them say that the test will be moved to Friday.",
@@ -1791,7 +1801,8 @@ window.FLASHCARD_UNITS = {
       "text": "overhear"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 43
    },
    {
     "question": "My piano lesson is from four to five, and my swimming class starts at four thirty. Because the two classes __________, I have to choose one of them this semester.",
@@ -1813,7 +1824,8 @@ window.FLASHCARD_UNITS = {
       "text": "overdo"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 48
    },
    {
     "question": "Mr. Chen stayed at the office until midnight every day for three months. The doctor said that __________ was the cause of his headaches and told him to take a long rest.",
@@ -1835,7 +1847,8 @@ window.FLASHCARD_UNITS = {
       "text": "overflow"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 52
    },
    {
     "question": "This sea animal lives inside a hard shell in shallow water near the coast. Sometimes a small ball of sand inside an __________ slowly turns into a beautiful pearl.",
@@ -1857,7 +1870,8 @@ window.FLASHCARD_UNITS = {
       "text": "oyster"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "High above the earth there is a layer of special gas. This __________ protects us from the sun's most harmful rays, so scientists worry when chemicals damage it.",
@@ -1879,7 +1893,8 @@ window.FLASHCARD_UNITS = {
       "text": "pastime"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 62
    },
    {
     "question": "I like my coffee a little sweet, but not too sweet. Could you give me one __________ of sugar with the cup, please, and maybe a little milk as well?",
@@ -1901,7 +1916,8 @@ window.FLASHCARD_UNITS = {
       "text": "packet"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "The lake was calm, so we rented a small boat for an hour. We had to __________ hard with both arms to reach the little island in the middle.",
@@ -1923,7 +1939,8 @@ window.FLASHCARD_UNITS = {
       "text": "paralyze"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 71
    },
    {
     "question": "The new novel comes in two kinds. The hard one costs 600 dollars, but the __________ has a soft cover and costs only 350, so most students buy that one.",
@@ -1945,7 +1962,8 @@ window.FLASHCARD_UNITS = {
       "text": "paperback"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 76
    },
    {
     "question": "The more free time my brother has, the less homework he actually finishes. It is a strange __________, but our mother says she has seen it many times.",
@@ -1967,7 +1985,8 @@ window.FLASHCARD_UNITS = {
       "text": "patriot"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 80
    },
    {
     "question": "Heavy snow is expected tonight, and the roads will be very dangerous. Officials worry that the storm could __________ the whole city, so they asked everyone to stay home.",
@@ -1989,7 +2008,8 @@ window.FLASHCARD_UNITS = {
       "text": "paralyze"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 84
    },
    {
     "question": "In many countries, laws are not made by the president alone. A new law must first be discussed and passed by __________ before it can take effect.",
@@ -2011,7 +2031,8 @@ window.FLASHCARD_UNITS = {
       "text": "paperback"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 88
    },
    {
     "question": "Grandpa goes to the river every afternoon with his fishing rod. He rarely catches anything, but fishing has been his favorite __________ for more than forty years now.",
@@ -2033,7 +2054,8 @@ window.FLASHCARD_UNITS = {
       "text": "paradox"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 93
    },
    {
     "question": "The old man fought for his country when he was young and still raises the flag every morning. Everyone in town respects him as a true __________.",
@@ -2055,7 +2077,8 @@ window.FLASHCARD_UNITS = {
       "text": "paradox"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 98
    },
    {
     "question": "When the national team walked into the stadium, the crowd stood up and sang loudly. Thousands of fans waved flags, and the __________ feeling in the air was very strong.",
@@ -2077,7 +2100,8 @@ window.FLASHCARD_UNITS = {
       "text": "patriotic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 99
    },
    {
     "question": "Please read your essay one more time before you hand it in. It is easy to __________ small spelling mistakes when you have been writing for a long time.",
@@ -2099,7 +2123,8 @@ window.FLASHCARD_UNITS = {
       "text": "overflow"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 3
    },
    {
     "question": "This old bridge has been repaired __________ times since it was built in 1920. However, the stone base is still the original one, and it is as strong as ever.",
@@ -2121,7 +2146,8 @@ window.FLASHCARD_UNITS = {
       "text": "outright"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 9
    },
    {
     "question": "It rained without stopping for three days last week. The river rose over its banks, and the __________ covered all the farms and roads near the village.",
@@ -2143,7 +2169,8 @@ window.FLASHCARD_UNITS = {
       "text": "paradox"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 42
    },
    {
     "question": "My father never stops working, even on holidays. He answers emails at dinner and goes to the office on Sundays, so my mother calls him a __________.",
@@ -2165,7 +2192,8 @@ window.FLASHCARD_UNITS = {
       "text": "patriot"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 56
    },
    {
     "question": "Amy started baking bread on weekends last year. It began as a simple __________, but now she sells her bread to three cafes near her home every week.",
@@ -2187,7 +2215,8 @@ window.FLASHCARD_UNITS = {
       "text": "workload"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 95
    },
    {
     "question": "Lisa stood quietly outside her sister's door and listened to the phone call. Her mother told her that it is rude to __________ on other people's private conversations.",
@@ -2209,7 +2238,8 @@ window.FLASHCARD_UNITS = {
       "text": "overlap"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 47
    }
   ]
  }

@@ -1481,7 +1481,8 @@ window.FLASHCARD_UNITS = {
       "text": "relay"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The leaders of the two countries signed the trade agreement in Paris last month. However, each country's parliament must still __________ it before it can become law.",
@@ -1503,7 +1504,8 @@ window.FLASHCARD_UNITS = {
       "text": "rehearse"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "Amy was halfway to the airport when she checked her bag for her passport. The sudden __________ that she had left it at home made her heart sink.",
@@ -1525,7 +1527,8 @@ window.FLASHCARD_UNITS = {
       "text": "redundancy"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "The farmers planted the rice in March and watched it grow all spring. In late June, the whole village came out to __________ the golden crop before the rains.",
@@ -1547,7 +1550,8 @@ window.FLASHCARD_UNITS = {
       "text": "rejoice"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 13
    },
    {
     "question": "The young driver passed three cars on a narrow mountain road without looking. Such __________ driving nearly caused a crash with a bus coming from the other direction.",
@@ -1569,7 +1573,8 @@ window.FLASHCARD_UNITS = {
       "text": "reliable"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 17
    },
    {
     "question": "The traffic should be light this early on a Sunday morning. I __________ we can reach the beach in about two hours if we leave before seven.",
@@ -1591,7 +1596,8 @@ window.FLASHCARD_UNITS = {
       "text": "reckon"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 21
    },
    {
     "question": "The two brothers had a big fight five years ago and stopped talking to each other. At their mother's birthday dinner, they finally decided to __________ and shook hands.",
@@ -1613,7 +1619,8 @@ window.FLASHCARD_UNITS = {
       "text": "rehabilitate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 25
    },
    {
     "question": "The new park by the river is not just for walking. It has many __________ facilities, such as a swimming pool, a skating rink, and basketball courts for everyone.",
@@ -1635,7 +1642,8 @@ window.FLASHCARD_UNITS = {
       "text": "redundant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 29
    },
    {
     "question": "New machines now do most of the work at the car factory. Last week, the company announced the __________ of two hundred workers, who will lose their jobs in June.",
@@ -1657,7 +1665,8 @@ window.FLASHCARD_UNITS = {
       "text": "redundancy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 33
    },
    {
     "question": "The water near the island looks calm, but there are sharp rocks just under the surface. Last year a fishing boat hit the __________ and nearly sank.",
@@ -1679,7 +1688,8 @@ window.FLASHCARD_UNITS = {
       "text": "throne"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "Two players started pushing each other near the goal during the soccer game. The __________ blew his whistle, stopped the game, and showed both of them a yellow card.",
@@ -1701,7 +1711,8 @@ window.FLASHCARD_UNITS = {
       "text": "harvest"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "The government cannot decide by itself whether to lower the voting age to eighteen. In November, it will hold a __________ so that all citizens can vote on the question.",
@@ -1723,7 +1734,8 @@ window.FLASHCARD_UNITS = {
       "text": "refinery"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 46
    },
    {
     "question": "Oil that comes straight out of the ground cannot be used in cars. A factory near the harbor must __________ it first by removing the dirt and other unwanted parts.",
@@ -1745,7 +1757,8 @@ window.FLASHCARD_UNITS = {
       "text": "refine"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 50
    },
    {
     "question": "Drivers often cannot see people on bicycles at night until it is too late. That is why cyclists should wear __________ jackets that shine brightly in car headlights.",
@@ -1767,7 +1780,8 @@ window.FLASHCARD_UNITS = {
       "text": "redundant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 54
    },
    {
     "question": "We were hot and tired after walking up the mountain for three hours. A cold drink and a short rest by the stream helped __________ us for the walk back down.",
@@ -1789,7 +1803,8 @@ window.FLASHCARD_UNITS = {
       "text": "refute"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 58
    },
    {
     "question": "The meeting will last about two hours, so you may get hungry. Light __________ such as coffee, tea, and cookies will be served in the next room afterwards.",
@@ -1811,7 +1826,8 @@ window.FLASHCARD_UNITS = {
       "text": "refreshments"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 59
    },
    {
     "question": "Some people on the internet said the new medicine was dangerous. The doctor was able to __________ this claim by showing the results of ten years of careful tests.",
@@ -1833,7 +1849,8 @@ window.FLASHCARD_UNITS = {
       "text": "recreate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 63
    },
    {
     "question": "After the car accident, Mr. Wang could not walk at all for two months. The hospital has a special program to __________ patients like him until they can walk again.",
@@ -1855,7 +1872,8 @@ window.FLASHCARD_UNITS = {
       "text": "refine"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 67
    },
    {
     "question": "The school play is on Saturday night, and some actors still forget their lines. The teacher wants everyone to __________ every afternoon this week until it is perfect.",
@@ -1877,7 +1895,8 @@ window.FLASHCARD_UNITS = {
       "text": "rehearse"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "Queen Victoria became queen in 1837 and ruled Britain for more than sixty years. During her long __________, the country built railways and became very rich and powerful.",
@@ -1899,7 +1918,8 @@ window.FLASHCARD_UNITS = {
       "text": "rash"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 75
    },
    {
     "question": "Our town's baseball team has not won the championship in thirty years. If they win tonight, the whole town will __________ and people will dance in the streets.",
@@ -1921,7 +1941,8 @@ window.FLASHCARD_UNITS = {
       "text": "reckon"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 79
    },
    {
     "question": "On sports day, four runners from each class take turns running one part of the track. Our class won the 400-meter __________ by just one step at the finish line.",
@@ -1943,7 +1964,8 @@ window.FLASHCARD_UNITS = {
       "text": "rash"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 84
    },
    {
     "question": "It rained hard for five days without stopping even for an hour. The __________ rain made the river rise so high that the old bridge disappeared under the water.",
@@ -1965,7 +1987,8 @@ window.FLASHCARD_UNITS = {
       "text": "recreational"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 88
    },
    {
     "question": "Many people feel lost as soon as their phone battery dies. Doctors worry that our growing __________ on smartphones is making it harder for us to remember simple things.",
@@ -1987,7 +2010,8 @@ window.FLASHCARD_UNITS = {
       "text": "reliance"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 92
    },
    {
     "question": "Almost everyone on the small island works in a hotel, a restaurant, or a shop for visitors. The island is so __________ on tourists that a bad typhoon season hurts every family.",
@@ -2009,7 +2033,8 @@ window.FLASHCARD_UNITS = {
       "text": "reckless"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 93
    },
    {
     "question": "The actors practiced the play one last time on Friday night. During this final __________, two of them forgot their lines, but the teacher said the real show would be fine.",
@@ -2031,7 +2056,8 @@ window.FLASHCARD_UNITS = {
       "text": "recovery"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    },
    {
     "question": "My father's car is more than fifteen years old and does not go very fast. However, it is very __________, and it has never broken down on the road even once.",
@@ -2053,7 +2079,8 @@ window.FLASHCARD_UNITS = {
       "text": "recreational"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 95
    },
    {
     "question": "The lake was completely still early in the morning, with no wind at all. Its surface seemed to __________ every tree and cloud, just like a giant mirror.",
@@ -2075,7 +2102,8 @@ window.FLASHCARD_UNITS = {
       "text": "recreate"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "My father works twelve hours a day during the week and has almost no free time. Fishing by the lake on Sunday is his only form of __________.",
@@ -2097,7 +2125,8 @@ window.FLASHCARD_UNITS = {
       "text": "recreation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 30
    },
    {
     "question": "The factory bought new machines that can do the work of fifty people. As a result, many workers became __________ and had to look for jobs elsewhere.",
@@ -2119,7 +2148,8 @@ window.FLASHCARD_UNITS = {
       "text": "hasty"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    }
   ]
  }

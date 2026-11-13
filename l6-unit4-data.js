@@ -1496,7 +1496,8 @@ window.FLASHCARD_UNITS = {
       "text": "beverage"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "In the old movie, a wild __________ rides into the city on a horse and burns down the houses. He cannot read or write, and he does not follow any laws at all.",
@@ -1518,7 +1519,8 @@ window.FLASHCARD_UNITS = {
       "text": "bodyguard"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Our choir needs more men who can sing the lowest notes in the song. If your voice is deep, please try out for the __________ part on Monday afternoon.",
@@ -1540,7 +1542,8 @@ window.FLASHCARD_UNITS = {
       "text": "bass"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 7
    },
    {
     "question": "Huge waves hit the little boats again and again during the storm last night. The strong wind continued to __________ the small harbor until early this morning.",
@@ -1562,7 +1565,8 @@ window.FLASHCARD_UNITS = {
       "text": "boycott"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 11
    },
    {
     "question": "The streets near the station look grey and dirty, so the city wants to change that. Workers will plant trees and paint walls to __________ the whole area.",
@@ -1584,7 +1588,8 @@ window.FLASHCARD_UNITS = {
       "text": "brace"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "You will hear a short, high sound after my recorded message ends. Please wait for the __________ and then leave your name and phone number clearly.",
@@ -1606,7 +1611,8 @@ window.FLASHCARD_UNITS = {
       "text": "blaze"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    },
    {
     "question": "The famous night market is always crowded on Saturday nights. If you want a table at the popular seafood stand, you should order __________ by phone.",
@@ -1628,7 +1634,8 @@ window.FLASHCARD_UNITS = {
       "text": "bodily"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 23
    },
    {
     "question": "The airline gives every passenger a free drink during the flight. You may choose water, juice, coffee, or tea as your __________ after the plane takes off.",
@@ -1650,7 +1657,8 @@ window.FLASHCARD_UNITS = {
       "text": "booklet"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 27
    },
    {
     "question": "Japan and Taiwan signed a trade deal last week that only involves these two sides. Both leaders said the __________ agreement would help farmers in each country.",
@@ -1672,7 +1680,8 @@ window.FLASHCARD_UNITS = {
       "text": "battered"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 30
    },
    {
     "question": "The fire in the paper factory grew very quickly because of the strong wind. Firefighters from three towns needed five hours to put out the huge __________ completely.",
@@ -1694,7 +1703,8 @@ window.FLASHCARD_UNITS = {
       "text": "bleach"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 35
    },
    {
     "question": "The white shirts turned yellow after many washes, so Mom added a strong chemical to the water. She said a little __________ would make them white again.",
@@ -1716,7 +1726,8 @@ window.FLASHCARD_UNITS = {
       "text": "bleach"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 39
    },
    {
     "question": "You will easily find my sister in the photo of her class. She is the only girl with __________ hair, while all her classmates have black or brown hair.",
@@ -1738,7 +1749,8 @@ window.FLASHCARD_UNITS = {
       "text": "blunt"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "Oh no, the ink from my pen has spread into a big black spot on the page! Now I have to copy my homework again because of this ugly __________.",
@@ -1760,7 +1772,8 @@ window.FLASHCARD_UNITS = {
       "text": "boycott"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 45
    },
    {
     "question": "This knife cannot cut the bread well anymore because its edge is so thick and dull. It is too __________, so please sharpen it before dinner tonight.",
@@ -1782,7 +1795,8 @@ window.FLASHCARD_UNITS = {
       "text": "beautiful"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 49
    },
    {
     "question": "The doctor said that the boy's injuries are not serious and he will be fine soon. However, children need sleep, healthy food, and exercise to meet their basic __________ needs.",
@@ -1804,7 +1818,8 @@ window.FLASHCARD_UNITS = {
       "text": "bilateral"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 54
    },
    {
     "question": "At the entrance of the museum, every visitor receives a thin paper guide of about twenty pages. The __________ explains the history of each room in simple English.",
@@ -1826,7 +1841,8 @@ window.FLASHCARD_UNITS = {
       "text": "booklet"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 59
    },
    {
     "question": "The scared little girl ran to her mother and hid her face against her chest. Her mother held her close to her __________ until she stopped crying.",
@@ -1848,7 +1864,8 @@ window.FLASHCARD_UNITS = {
       "text": "boxing"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "The parade will travel along the widest street in the city this afternoon. Thousands of people are already standing under the trees on both sides of the __________.",
@@ -1870,7 +1887,8 @@ window.FLASHCARD_UNITS = {
       "text": "boulevard"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "My brother puts on thick gloves and hits a heavy bag for an hour every evening. He says __________ is the best sport for making your arms and heart strong.",
@@ -1892,7 +1910,8 @@ window.FLASHCARD_UNITS = {
       "text": "body"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 69
    },
    {
     "question": "The workers at the shoe factory are paid very little and work twelve hours a day. Many customers now refuse to buy the shoes and have joined the __________.",
@@ -1914,7 +1933,8 @@ window.FLASHCARD_UNITS = {
       "text": "boycott"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 74
    },
    {
     "question": "A strong typhoon will reach the island tomorrow morning, and the wind will be very dangerous. People living near the sea should __________ for heavy rain and high waves.",
@@ -1936,7 +1956,8 @@ window.FLASHCARD_UNITS = {
       "text": "blunt"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 77
    },
    {
     "question": "When girls grow older, their bodies start to change, and they need new kinds of clothes. Most mothers take their daughters shopping for a first __________ around age twelve.",
@@ -1958,7 +1979,8 @@ window.FLASHCARD_UNITS = {
       "text": "book"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 82
    },
    {
     "question": "The old bridge is only five meters from one side to the other, so two trucks cannot pass at the same time. The new bridge will have a __________ of twenty meters.",
@@ -1980,7 +2002,8 @@ window.FLASHCARD_UNITS = {
       "text": "bosom"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 85
    },
    {
     "question": "Our old car stopped working in the middle of the highway, and we could not start it again. Because of the __________, we missed the first hour of the concert.",
@@ -2002,7 +2025,8 @@ window.FLASHCARD_UNITS = {
       "text": "banquet"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 90
    },
    {
     "question": "Tom and Amy were together for three years, but last month they decided to end their relationship. After the __________, Tom moved to a new apartment near his office.",
@@ -2024,7 +2048,8 @@ window.FLASHCARD_UNITS = {
       "text": "breakup"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 94
    },
    {
     "question": "Reading books from other countries lets you see the world through different eyes. Teachers say that such reading can __________ a student's mind more than any test can.",
@@ -2046,7 +2071,8 @@ window.FLASHCARD_UNITS = {
       "text": "blot"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 88
    },
    {
     "question": "Grandpa never tries to make his words sound nice or polite. He told my cousin very __________ that his new haircut looked like a bird's nest.",
@@ -2068,7 +2094,8 @@ window.FLASHCARD_UNITS = {
       "text": "bodily"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 52
    },
    {
     "question": "The young fighter has won every match this year by hitting fast and moving quickly. Many experts believe this __________ will become a world champion within two years.",
@@ -2090,7 +2117,8 @@ window.FLASHCARD_UNITS = {
       "text": "bassist"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 70
    },
    {
     "question": "The company closed its factory in our town without asking the workers or the city government first. People are angry about this __________ decision that only one side made.",
@@ -2112,7 +2140,8 @@ window.FLASHCARD_UNITS = {
       "text": "unilateral"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 32
    },
    {
     "question": "It was so hot at noon that the road looked like it was melting. Under the __________ sun, the farmers rested in the shade and waited until four o'clock to work again.",
@@ -2134,7 +2163,8 @@ window.FLASHCARD_UNITS = {
       "text": "bodily"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    }
   ]
  }

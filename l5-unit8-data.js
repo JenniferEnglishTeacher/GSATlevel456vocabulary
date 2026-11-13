@@ -1331,7 +1331,8 @@ window.FLASHCARD_UNITS = {
       "text": "compliance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "We need someone who can fix the computer system quickly and correctly. Mr. Wang is very __________, so the boss asked him to take care of the problem.",
@@ -1353,7 +1354,8 @@ window.FLASHCARD_UNITS = {
       "text": "complex"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 1
    },
    {
     "question": "The new board game has over two hundred rules and takes hours to learn. Because of its __________, my little cousins gave up after only twenty minutes.",
@@ -1375,7 +1377,8 @@ window.FLASHCARD_UNITS = {
       "text": "complexity"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 5
    },
    {
     "question": "Every restaurant in the city is checked twice a year by health officers. Those that are not in __________ with the food safety rules may be closed down.",
@@ -1397,7 +1400,8 @@ window.FLASHCARD_UNITS = {
       "text": "confession"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 9
    },
    {
     "question": "The operation itself was simple and took less than an hour. However, an unexpected __________ appeared two days later, so the patient had to stay in the hospital longer.",
@@ -1419,7 +1423,8 @@ window.FLASHCARD_UNITS = {
       "text": "complication"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 14
    },
    {
     "question": "Amy wore her grandmother's old dress to the school dance. She received a __________ from almost everyone, and the teacher said it was the most beautiful dress there.",
@@ -1441,7 +1446,8 @@ window.FLASHCARD_UNITS = {
       "text": "conception"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 17
    },
    {
     "question": "The sign at the pool says that everyone must shower before swimming. Visitors who refuse to __________ with this rule will be asked to leave the pool.",
@@ -1463,7 +1469,8 @@ window.FLASHCARD_UNITS = {
       "text": "condemn"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 10
    },
    {
     "question": "The repair shop could not fix my old washing machine right away. One small __________ inside the motor was broken, and the new part had to be ordered from Japan.",
@@ -1485,7 +1492,8 @@ window.FLASHCARD_UNITS = {
       "text": "compliment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 21
    },
    {
     "question": "In chemistry class today we learned that salt is not a single element. It is a __________ made of two different elements, sodium and chlorine, joined together.",
@@ -1507,7 +1515,8 @@ window.FLASHCARD_UNITS = {
       "text": "concept"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 25
    },
    {
     "question": "The math teacher explained the new formula three times, but it was still too hard for me. I simply could not __________ how the numbers worked together.",
@@ -1529,7 +1538,8 @@ window.FLASHCARD_UNITS = {
       "text": "condemn"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 29
    },
    {
     "question": "The English test has two parts: listening and reading. In the reading __________ section, students read a short story and then answer ten questions about it.",
@@ -1551,7 +1561,8 @@ window.FLASHCARD_UNITS = {
       "text": "compliance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 30
    },
    {
     "question": "Our school band is quite large this year. It will __________ forty students, including ten who play the drums and fifteen who play different kinds of horns.",
@@ -1573,7 +1584,8 @@ window.FLASHCARD_UNITS = {
       "text": "confine"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "Jack wanted pizza for dinner, but his sister wanted noodles. In the end they reached a __________: pizza tonight, and noodles tomorrow when their parents come home.",
@@ -1595,7 +1607,8 @@ window.FLASHCARD_UNITS = {
       "text": "compromise"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 37
    },
    {
     "question": "You cannot choose whether or not to take this class. English is __________ for every student in the school, and you must pass it to graduate.",
@@ -1617,7 +1630,8 @@ window.FLASHCARD_UNITS = {
       "text": "confidential"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "The little boy broke his mother's favorite cup this morning. He tried to __________ the pieces under his bed, but she found them when she cleaned the room.",
@@ -1639,7 +1653,8 @@ window.FLASHCARD_UNITS = {
       "text": "confront"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "The two teams argued about whether the ball had crossed the line. After watching the video, the coach had to __________ that the other team had really scored.",
@@ -1661,7 +1676,8 @@ window.FLASHCARD_UNITS = {
       "text": "concede"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    },
    {
     "question": "Nobody at the company could think of a good way to sell the new drink. Then Mary was able to __________ a plan that doubled the sales within a month.",
@@ -1683,7 +1699,8 @@ window.FLASHCARD_UNITS = {
       "text": "confess"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 52
    },
    {
     "question": "Many people believe that scientists spend all day making exciting discoveries. This __________ is far from the truth, because most of their time is spent on slow, careful work.",
@@ -1705,7 +1722,8 @@ window.FLASHCARD_UNITS = {
       "text": "compliance"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "A factory was caught pouring dirty water into the river last week. Leaders from many countries were quick to __________ the company for hurting the environment.",
@@ -1727,7 +1745,8 @@ window.FLASHCARD_UNITS = {
       "text": "condemn"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "Scientists want to know how much sleep teenagers really get. They plan to __________ a large study of five thousand high school students across the country next year.",
@@ -1749,7 +1768,8 @@ window.FLASHCARD_UNITS = {
       "text": "conceal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 61
    },
    {
     "question": "The police questioned the man for six hours about the missing money. Finally, he gave a full __________ and told them where he had hidden every dollar.",
@@ -1771,7 +1791,8 @@ window.FLASHCARD_UNITS = {
       "text": "confession"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "This letter contains the test results of every student in the class. It is __________, so please do not show it to anyone except the teacher.",
@@ -1793,7 +1814,8 @@ window.FLASHCARD_UNITS = {
       "text": "compulsory"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 70
    },
    {
     "question": "The speech contest has strict time rules this year. Each speaker must __________ his or her talk to three minutes, or points will be taken away.",
@@ -1815,7 +1837,8 @@ window.FLASHCARD_UNITS = {
       "text": "conduct"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "Every new building in the city must pass a safety check before people can move in. Buildings that do not __________ to the rules must be fixed first.",
@@ -1837,7 +1860,8 @@ window.FLASHCARD_UNITS = {
       "text": "concede"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "Lisa has been avoiding her friend since their argument last week. Her mother told her it was time to __________ the problem and talk to her friend honestly.",
@@ -1859,7 +1883,8 @@ window.FLASHCARD_UNITS = {
       "text": "condemn"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 83
    },
    {
     "question": "Tom practiced his speech every evening for two weeks. By the day of the contest, he felt __________ that he could speak clearly without looking at his notes.",
@@ -1881,7 +1906,8 @@ window.FLASHCARD_UNITS = {
       "text": "confident"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 74
    },
    {
     "question": "My grandfather did not understand why anyone would pay to ride in a stranger's car. The __________ of sharing a ride through a phone app was new to him.",
@@ -1903,7 +1929,8 @@ window.FLASHCARD_UNITS = {
       "text": "concession"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "The orchestra fell silent as a woman in black walked onto the stage. The __________ raised her hands, and a moment later the beautiful music began.",
@@ -1925,7 +1952,8 @@ window.FLASHCARD_UNITS = {
       "text": "compound"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "Ben's mother found mud all over the clean kitchen floor. At first he blamed the dog, but later he had to __________ that he had walked in with dirty shoes.",
@@ -1947,7 +1975,8 @@ window.FLASHCARD_UNITS = {
       "text": "conform"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "More than one hundred runners will take part in the race this Sunday. My brother will __________ in the ten-kilometer event for the very first time.",
@@ -1969,7 +1998,8 @@ window.FLASHCARD_UNITS = {
       "text": "compose"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 3
    }
   ]
  }

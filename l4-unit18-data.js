@@ -1421,7 +1421,8 @@ window.FLASHCARD_UNITS = {
       "text": "generosity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "Mr. Wang promised his daughter a trip to Japan if she got into a good university. She did, so now he must __________ his promise and buy the tickets.",
@@ -1443,7 +1444,8 @@ window.FLASHCARD_UNITS = {
       "text": "frustrate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "This phone is ten years old, and the screen has a big crack across it. Still, it is __________, so my grandfather uses it to call us every Sunday.",
@@ -1465,7 +1467,8 @@ window.FLASHCARD_UNITS = {
       "text": "functional"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 9
    },
    {
     "question": "You cannot learn to write good essays before you know how to build a correct sentence. Grammar is a __________ skill that every language learner needs first.",
@@ -1487,7 +1490,8 @@ window.FLASHCARD_UNITS = {
       "text": "frustrating"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 13
    },
    {
     "question": "My grandmother passed away peacefully last week at the age of ninety-two. Over three hundred people came to her __________ to say goodbye and share their memories of her.",
@@ -1509,7 +1513,8 @@ window.FLASHCARD_UNITS = {
       "text": "gallery"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 17
    },
    {
     "question": "Someone scratched the side of Dad's new car in the parking lot and drove away without leaving a note. He was __________ when he saw the long white mark.",
@@ -1531,7 +1536,8 @@ window.FLASHCARD_UNITS = {
       "text": "furious"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 20
    },
    {
     "question": "The new apartment is empty except for a small refrigerator in the kitchen. We will need to __________ it with a bed, a table, and some chairs before we move in.",
@@ -1553,7 +1559,8 @@ window.FLASHCARD_UNITS = {
       "text": "glorify"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 24
    },
    {
     "question": "Riding a bike to school is good for your health and saves money on bus tickets. __________, it does not pollute the air like cars and scooters do.",
@@ -1575,7 +1582,8 @@ window.FLASHCARD_UNITS = {
       "text": "furthermore"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 28
    },
    {
     "question": "My aunt is an artist who paints pictures of old streets in Tainan. Next month, her works will be shown in a __________ in Taipei for the first time.",
@@ -1597,7 +1605,8 @@ window.FLASHCARD_UNITS = {
       "text": "gear"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "The baby would not take her eyes off the colorful toy hanging above her bed. Her mother followed her __________ and smiled at how much she loved it.",
@@ -1619,7 +1628,8 @@ window.FLASHCARD_UNITS = {
       "text": "gear"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    },
    {
     "question": "Before we go camping this weekend, please check that we have everything we need. Pack the tent, sleeping bags, flashlights, and other __________ in the car tonight.",
@@ -1641,7 +1651,8 @@ window.FLASHCARD_UNITS = {
       "text": "fund"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "In the past, only boys were expected to study science, and only girls learned to cook. Today, most schools teach every subject to students of either __________.",
@@ -1663,7 +1674,8 @@ window.FLASHCARD_UNITS = {
       "text": "gift"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 41
    },
    {
     "question": "Everyone in my family has very curly hair, from my grandfather down to my baby cousin. Scientists say a single __________ passed down through the family may be the reason.",
@@ -1685,7 +1697,8 @@ window.FLASHCARD_UNITS = {
       "text": "gene"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 44
    },
    {
     "question": "My grandparents grew up without television, my parents grew up without the Internet, and I cannot imagine life without a smartphone. Each __________ has lived in a very different world.",
@@ -1707,7 +1720,8 @@ window.FLASHCARD_UNITS = {
       "text": "gender"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 48
    },
    {
     "question": "After the earthquake, people from all over Taiwan sent food, clothes, and money to the victims. The whole country was moved by their __________ and kindness.",
@@ -1729,7 +1743,8 @@ window.FLASHCARD_UNITS = {
       "text": "fury"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "Mozart could play the piano at four and wrote his first piece of music at five. Many people believe he was the greatest musical __________ who ever lived.",
@@ -1751,7 +1766,8 @@ window.FLASHCARD_UNITS = {
       "text": "generator"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 57
    },
    {
     "question": "The watch in the night market looked exactly like the famous brand, but it cost only 500 dollars. A __________ one would cost at least fifty times more.",
@@ -1773,7 +1789,8 @@ window.FLASHCARD_UNITS = {
       "text": "fundamental"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 61
    },
    {
     "question": "Doctors tell us to wash our hands with soap before every meal. A tiny __________ on your fingers can make you sick if it gets into your mouth.",
@@ -1795,7 +1812,8 @@ window.FLASHCARD_UNITS = {
       "text": "germ"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 64
    },
    {
     "question": "Amy could read whole books when she was only three years old. Her teachers say she is a __________ child and should be given more difficult work than her classmates.",
@@ -1817,7 +1835,8 @@ window.FLASHCARD_UNITS = {
       "text": "furious"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 67
    },
    {
     "question": "The new shopping mall near the station has over five hundred stores and twenty restaurants. It is so __________ that we got lost twice trying to find the exit.",
@@ -1839,7 +1858,8 @@ window.FLASHCARD_UNITS = {
       "text": "fulfilling"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "The two little girls hid behind the sofa while their father pretended he could not find them. They tried to stay quiet, but they began to __________ when he walked past.",
@@ -1861,7 +1881,8 @@ window.FLASHCARD_UNITS = {
       "text": "glimpse"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 74
    },
    {
     "question": "My grandmother has a special soup she makes whenever someone in the family catches a cold. The secret is a lot of fresh __________, which makes your whole body feel warm.",
@@ -1883,7 +1904,8 @@ window.FLASHCARD_UNITS = {
       "text": "gingerbread"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 77
    },
    {
     "question": "The famous actor walked quickly from his car into the hotel, surrounded by bodyguards. The fans had waited outside for hours but only caught a __________ of him.",
@@ -1905,7 +1927,8 @@ window.FLASHCARD_UNITS = {
       "text": "gaze"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 81
    },
    {
     "question": "Thanks to the Internet, a video made by a student in Taiwan can be watched in Africa within minutes. News now travels around the __________ faster than ever before.",
@@ -1927,7 +1950,8 @@ window.FLASHCARD_UNITS = {
       "text": "globe"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 84
    },
    {
     "question": "Our school's baseball team had lost every game for five years. Last Saturday, they finally beat the best team in the city, and it was a __________ moment for everyone.",
@@ -1949,7 +1973,8 @@ window.FLASHCARD_UNITS = {
       "text": "furious"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 89
    },
    {
     "question": "I have explained the math problem to my brother three times, but he still does not understand. I am getting __________, and he is starting to cry.",
@@ -1971,7 +1996,8 @@ window.FLASHCARD_UNITS = {
       "text": "functional"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 2
    },
    {
     "question": "The dam on the river does more than just control floods during typhoon season. It also uses the falling water to __________ electricity for thousands of homes.",
@@ -1993,7 +2019,8 @@ window.FLASHCARD_UNITS = {
       "text": "fulfill"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "Fifty years ago, most companies sold their products only in their own country. Today, many brands have become __________, with factories and shops on every continent.",
@@ -2015,7 +2042,8 @@ window.FLASHCARD_UNITS = {
       "text": "generous"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 86
    },
    {
     "question": "Mr. Chen owns a small bakery, but every evening he gives the leftover bread to poor families nearby. His neighbors all say he is the most __________ man they know.",
@@ -2037,7 +2065,8 @@ window.FLASHCARD_UNITS = {
       "text": "generous"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 54
    },
    {
     "question": "The young runner trained in the rain and cold for four years to prepare for the Olympics. When she finally won the gold medal, the whole country shared in her __________.",
@@ -2059,7 +2088,8 @@ window.FLASHCARD_UNITS = {
       "text": "frustration"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 90
    }
   ]
  }

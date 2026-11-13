@@ -1511,7 +1511,8 @@ window.FLASHCARD_UNITS = {
       "text": "authentic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "Many shops near the temple sell cheap copies of old coins to tourists. If you want an __________ one, you should buy it from the museum shop instead.",
@@ -1533,7 +1534,8 @@ window.FLASHCARD_UNITS = {
       "text": "authentic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 5
    },
    {
     "question": "Only the school principal can decide whether classes will be canceled on a typhoon day. Teachers do not have the __________ to make that decision by themselves.",
@@ -1555,7 +1557,8 @@ window.FLASHCARD_UNITS = {
       "text": "autograph"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "The famous actor has written a book about his own life, from his poor childhood to his first movie. His __________ will be in bookstores next week.",
@@ -1577,7 +1580,8 @@ window.FLASHCARD_UNITS = {
       "text": "battery"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "After the concert, I waited by the back door for two hours. Finally, the singer came out and wrote her name on my ticket, and I kept her __________ for years.",
@@ -1599,7 +1603,8 @@ window.FLASHCARD_UNITS = {
       "text": "beggar"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 16
    },
    {
     "question": "The test results will be announced on the school website at nine o'clock tomorrow morning. Until then, all we can do is __________ the news and try to stay calm.",
@@ -1621,7 +1626,8 @@ window.FLASHCARD_UNITS = {
       "text": "await"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 19
    },
    {
     "question": "My grandfather lost most of his hair before he was forty. Now he is almost completely __________, so he always wears a hat to protect his head from the sun.",
@@ -1643,7 +1649,8 @@ window.FLASHCARD_UNITS = {
       "text": "authentic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "The dancers in this show stand on their toes and move very lightly to classical music. My sister has loved __________ since she saw her first performance at six.",
@@ -1665,7 +1672,8 @@ window.FLASHCARD_UNITS = {
       "text": "biography"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "Tom cut his hand badly while he was cooking dinner. His mother cleaned the wound and wrapped a clean __________ around it to stop the bleeding.",
@@ -1687,7 +1695,8 @@ window.FLASHCARD_UNITS = {
       "text": "bin"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "The small bookstore has lost money every month for the past two years. Its owner says the shop will be __________ by summer if sales do not improve soon.",
@@ -1709,7 +1718,8 @@ window.FLASHCARD_UNITS = {
       "text": "blooming"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 36
    },
    {
     "question": "I bought this warm jacket for only three hundred dollars at the end-of-season sale. It usually costs more than two thousand, so it was a real __________.",
@@ -1731,7 +1741,8 @@ window.FLASHCARD_UNITS = {
       "text": "blessing"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 40
    },
    {
     "question": "When the river rose, workers quickly built a wall of sandbags along the bank. This __________ kept the water out of the houses in the village all night.",
@@ -1753,7 +1764,8 @@ window.FLASHCARD_UNITS = {
       "text": "biography"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 44
    },
    {
     "question": "In the countryside, my grandmother does not use a shower in the morning. She fills a small metal __________ with warm water and washes her face by the door.",
@@ -1775,7 +1787,8 @@ window.FLASHCARD_UNITS = {
       "text": "blade"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "My new phone is great, but it has one problem. The __________ runs out after only half a day, so I have to carry a charger everywhere I go.",
@@ -1797,7 +1810,8 @@ window.FLASHCARD_UNITS = {
       "text": "blossom"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 51
    },
    {
     "question": "A thin old man sits outside the train station every day with an empty cup in his hand. Some kind people give the __________ coins or bread on their way to work.",
@@ -1819,7 +1833,8 @@ window.FLASHCARD_UNITS = {
       "text": "ballerina"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "Our teacher said the class was quiet, polite, and helpful during the whole museum trip. She was so happy with our __________ that she gave us a free afternoon.",
@@ -1841,7 +1856,8 @@ window.FLASHCARD_UNITS = {
       "text": "blessing"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 59
    },
    {
     "question": "Do not leave empty bottles and food boxes on the desks after lunch. Please put all of your waste in the __________ by the classroom door.",
@@ -1863,7 +1879,8 @@ window.FLASHCARD_UNITS = {
       "text": "bin"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 64
    },
    {
     "question": "This book tells the life story of a famous scientist, from her childhood in Poland to her prizes in Paris. It was written by someone who studied her for ten years, so it is a __________.",
@@ -1885,7 +1902,8 @@ window.FLASHCARD_UNITS = {
       "text": "barrier"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 68
    },
    {
     "question": "In science class this week, we learned how plants use sunlight to make food and how animals breathe. My favorite subject is __________ because it is all about living things.",
@@ -1907,7 +1925,8 @@ window.FLASHCARD_UNITS = {
       "text": "biology"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "Be careful when you wash this kitchen knife. The __________ is very sharp, and last week my brother cut his finger when he was cleaning it.",
@@ -1929,7 +1948,8 @@ window.FLASHCARD_UNITS = {
       "text": "battery"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 75
    },
    {
     "question": "To make this soup smooth, you cannot just put the vegetables in the pot. You need to __________ them with milk and butter until there are no large pieces left.",
@@ -1951,7 +1971,8 @@ window.FLASHCARD_UNITS = {
       "text": "blend"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "Having a healthy family and a warm home is something many people do not have. We should remember that these simple things are a great __________ in our lives.",
@@ -1973,7 +1994,8 @@ window.FLASHCARD_UNITS = {
       "text": "bargain"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 83
    },
    {
     "question": "The baby stared at the colorful toy for a long time without moving her eyes at all. Then she began to __________ quickly and laughed when the toy made a sound.",
@@ -1995,7 +2017,8 @@ window.FLASHCARD_UNITS = {
       "text": "blink"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 88
    },
    {
     "question": "The roses in our garden did not __________ at all last year because of the cold weather. This spring, however, they are full of beautiful red flowers again.",
@@ -2017,7 +2040,8 @@ window.FLASHCARD_UNITS = {
       "text": "await"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 91
    },
    {
     "question": "In early April, the hills around the lake turn pink and white for about two weeks. Thousands of visitors come to take pictures of the cherry __________.",
@@ -2039,7 +2063,8 @@ window.FLASHCARD_UNITS = {
       "text": "battery"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 95
    },
    {
     "question": "The old MRT station had no elevator, so people in wheelchairs could not use it. The city has now removed this __________ by building a new elevator at every exit.",
@@ -2061,7 +2086,8 @@ window.FLASHCARD_UNITS = {
       "text": "bargain"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 44
    },
    {
     "question": "The new boy in our class was very quiet in the first week. Now he has learned our jokes and joined the basketball team, so he has started to __________ in.",
@@ -2083,7 +2109,8 @@ window.FLASHCARD_UNITS = {
       "text": "bloom"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "Last year, the airline could not pay its workers or buy fuel for its planes. In the end, it announced its __________ and all of its flights were canceled.",
@@ -2105,7 +2132,8 @@ window.FLASHCARD_UNITS = {
       "text": "behavior"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 38
    },
    {
     "question": "Every seat in the hall was full, and people were even standing at the back. When the pianist finished, the whole __________ stood up and clapped for a long time.",
@@ -2127,7 +2155,8 @@ window.FLASHCARD_UNITS = {
       "text": "audience"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 3
    },
    {
     "question": "My little brother would not stop running around and shouting at the restaurant. My father gave him a serious look and told him to __________ himself at the table.",
@@ -2149,7 +2178,8 @@ window.FLASHCARD_UNITS = {
       "text": "blink"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    }
   ]
  }

@@ -1451,7 +1451,8 @@ window.FLASHCARD_UNITS = {
       "text": "boast"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The two sisters have shared a bedroom and a secret language since they were little. Their mother says that nothing can ever break the __________ between them.",
@@ -1473,7 +1474,8 @@ window.FLASHCARD_UNITS = {
       "text": "breed"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "Throw the ball hard at the wall and watch what happens. A good rubber ball will __________ right back into your hands, but a wet one will just drop.",
@@ -1495,7 +1497,8 @@ window.FLASHCARD_UNITS = {
       "text": "breed"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "For her birthday, Amy received a thin gold chain to wear on her wrist. She loves the __________ so much that she never takes it off, even when she swims.",
@@ -1517,7 +1520,8 @@ window.FLASHCARD_UNITS = {
       "text": "bracelet"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 12
    },
    {
     "question": "Some dogs are good at hunting, while others are better at guarding the house. Before you buy a puppy, learn about each __________ and what it needs.",
@@ -1539,7 +1543,8 @@ window.FLASHCARD_UNITS = {
       "text": "burglar"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 16
    },
    {
     "question": "Everyone at the wedding looked at the front of the room when the music started. The __________ was waiting there in a black suit for his bride to walk in.",
@@ -1561,7 +1566,8 @@ window.FLASHCARD_UNITS = {
       "text": "burglar"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    },
    {
     "question": "I spent all my money on a new bike and a concert ticket last week. Now I am __________, so I cannot even buy lunch until Friday.",
@@ -1583,7 +1589,8 @@ window.FLASHCARD_UNITS = {
       "text": "broke"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 25
    },
    {
     "question": "There is broken glass all over the kitchen floor. Get the __________ from behind the door and sweep it up before the baby crawls in here.",
@@ -1605,7 +1612,8 @@ window.FLASHCARD_UNITS = {
       "text": "cane"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 29
    },
    {
     "question": "The movie showed a king who killed anyone who disagreed with him. Many people left the theater because the fighting scenes were too __________ to watch.",
@@ -1627,7 +1635,8 @@ window.FLASHCARD_UNITS = {
       "text": "low-calorie"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 32
    },
    {
     "question": "The school office sends a short report to every family at the end of each week. This __________ tells parents about the tests and events coming up next week.",
@@ -1649,7 +1658,8 @@ window.FLASHCARD_UNITS = {
       "text": "cane"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 36
    },
    {
     "question": "While the family was away on holiday, someone climbed through a window and took the TV and some money. The police are still looking for the __________.",
@@ -1671,7 +1681,8 @@ window.FLASHCARD_UNITS = {
       "text": "groom"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    },
    {
     "question": "The kitchen looked much tidier after we put the cups and plates away. Now everything is stored neatly inside the big wooden __________ above the sink.",
@@ -1693,7 +1704,8 @@ window.FLASHCARD_UNITS = {
       "text": "cane"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 43
    },
    {
     "question": "Twelve of us are sharing the cost of the hotel room for two nights. Let me __________ how much each person has to pay so that it is fair.",
@@ -1715,7 +1727,8 @@ window.FLASHCARD_UNITS = {
       "text": "groom"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "I thought the trip would cost about two thousand dollars, but I forgot the train tickets. My first __________ was wrong, and the real cost was much higher.",
@@ -1737,7 +1750,8 @@ window.FLASHCARD_UNITS = {
       "text": "capacity"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "Runners need to know how much energy a meal gives them before a long race. On food packages, this energy is measured in a unit called the __________, and a candy bar has about 250.",
@@ -1759,7 +1773,8 @@ window.FLASHCARD_UNITS = {
       "text": "calculator"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "The city wants people to stop throwing trash into the river. It has started a __________ with posters, TV ads, and clean-up days to change people's habits.",
@@ -1781,7 +1796,8 @@ window.FLASHCARD_UNITS = {
       "text": "campaign"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 55
    },
    {
     "question": "Three people want to be the next class leader, and the vote is on Friday. Each __________ will give a short speech tomorrow to tell us why we should choose him or her.",
@@ -1803,7 +1819,8 @@ window.FLASHCARD_UNITS = {
       "text": "burglar"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 60
    },
    {
     "question": "Grandpa hurt his leg last winter and still cannot walk very well. He uses a wooden __________ to help him walk to the park every morning.",
@@ -1825,7 +1842,8 @@ window.FLASHCARD_UNITS = {
       "text": "calorie"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "The lake was calm and quiet in the early morning. We sat in a small narrow boat and used paddles to move the __________ slowly across the water.",
@@ -1847,7 +1865,8 @@ window.FLASHCARD_UNITS = {
       "text": "cargo"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "The new concert hall is much bigger than the old one. It has a __________ of three thousand people, so more fans can see their favorite singers.",
@@ -1869,7 +1888,8 @@ window.FLASHCARD_UNITS = {
       "text": "capacity"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 72
    },
    {
     "question": "Tokyo is the biggest city in Japan, and the government and the royal family are based there. It has been the __________ of the country for over 150 years.",
@@ -1891,7 +1911,8 @@ window.FLASHCARD_UNITS = {
       "text": "carrier"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 77
    },
    {
     "question": "Mr. Lin started with one small shop and now owns ten factories and a bank. People call him a successful __________ because he knows how to make money grow.",
@@ -1913,7 +1934,8 @@ window.FLASHCARD_UNITS = {
       "text": "candidate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "The big ship from Vietnam arrived at the port early this morning. Workers spent the whole day moving its __________ of rice and coffee onto waiting trucks.",
@@ -1935,7 +1957,8 @@ window.FLASHCARD_UNITS = {
       "text": "capacity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 83
    },
    {
     "question": "We sent the birthday gift to my cousin in Japan last Monday, but it has not arrived yet. The __________ says the package is still at the airport in Tokyo.",
@@ -1957,7 +1980,8 @@ window.FLASHCARD_UNITS = {
       "text": "candidate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 86
    },
    {
     "question": "My grandfather is very good with his hands and a small knife. He can __________ a tiny horse out of a piece of wood in less than an hour.",
@@ -1979,7 +2003,8 @@ window.FLASHCARD_UNITS = {
       "text": "bounce"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 91
    },
    {
     "question": "After the heavy rain, the old wooden bridge was not safe to cross anymore. Workers put a sign on it saying that the bridge was __________ and closed.",
@@ -2001,7 +2026,8 @@ window.FLASHCARD_UNITS = {
       "text": "boastful"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 28
    },
    {
     "question": "Our new class leader is only fifteen, but she plans events well and solves problems quickly. Everyone agrees that she is very __________ for her age.",
@@ -2023,7 +2049,8 @@ window.FLASHCARD_UNITS = {
       "text": "brutal"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 74
    },
    {
     "question": "The wedding was held in a small garden on a sunny afternoon. When the __________ walked in wearing a long white dress, her parents started to cry.",
@@ -2045,7 +2072,8 @@ window.FLASHCARD_UNITS = {
       "text": "bride"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 23
    },
    {
     "question": "Several homes on our street were entered and robbed while their owners were at work. Because of these cases of __________, the police now drive past every hour.",
@@ -2067,7 +2095,8 @@ window.FLASHCARD_UNITS = {
       "text": "breeding"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    },
    {
     "question": "The math test does not allow any electronic devices, so you will have to work out every answer on paper. You cannot bring a __________ into the room.",
@@ -2089,7 +2118,8 @@ window.FLASHCARD_UNITS = {
       "text": "calculator"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 49
    }
   ]
  }

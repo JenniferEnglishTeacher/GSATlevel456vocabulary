@@ -1286,7 +1286,8 @@ window.FLASHCARD_UNITS = {
       "text": "venture"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "I asked him how to get to the restaurant, but his directions were so __________ that we got lost twice. We arrived almost an hour late.",
@@ -1308,7 +1309,8 @@ window.FLASHCARD_UNITS = {
       "text": "vague"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 4
    },
    {
     "question": "Please check your passport carefully before you buy plane tickets. It must be __________ for at least six more months, or you cannot enter many countries.",
@@ -1330,7 +1332,8 @@ window.FLASHCARD_UNITS = {
       "text": "vocal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 7
    },
    {
     "question": "The weather in the mountains is very __________ . It can be sunny in the morning and stormy in the afternoon, so always remember to bring a raincoat.",
@@ -1352,7 +1355,8 @@ window.FLASHCARD_UNITS = {
       "text": "verbal"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 11
    },
    {
     "question": "In the desert, there is a huge __________ in temperature between day and night. It can be forty degrees at noon but almost zero after midnight.",
@@ -1374,7 +1378,8 @@ window.FLASHCARD_UNITS = {
       "text": "vendor"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "The nurse tied a band around my arm to find a good __________ . Then she took some blood for the test, and it only hurt for a second.",
@@ -1396,7 +1401,8 @@ window.FLASHCARD_UNITS = {
       "text": "venue"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 17
    },
    {
     "question": "On cold winter evenings, an old __________ sells hot sweet potatoes from a small cart outside our school. Many students buy one before they go home.",
@@ -1418,7 +1424,8 @@ window.FLASHCARD_UNITS = {
       "text": "volcano"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "Opening a bubble tea shop with her best friend was an exciting new __________ for Lisa. However, it also cost her all the money she had saved for ten years.",
@@ -1440,7 +1447,8 @@ window.FLASHCARD_UNITS = {
       "text": "verdict"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 23
    },
    {
     "question": "The school gym is being repaired this month. Therefore, the __________ for our school concert has been moved to the big cultural center near the train station.",
@@ -1462,7 +1470,8 @@ window.FLASHCARD_UNITS = {
       "text": "version"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 27
    },
    {
     "question": "The landlord only gave us a __________ promise to fix the roof. To be safe, we asked him to write it down on paper and sign it.",
@@ -1484,7 +1493,8 @@ window.FLASHCARD_UNITS = {
       "text": "verbal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 30
    },
    {
     "question": "After listening to both sides for three days, the judges finally made their decision. The __________ was that the driver was guilty of causing the accident.",
@@ -1506,7 +1516,8 @@ window.FLASHCARD_UNITS = {
       "text": "venture"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    },
    {
     "question": "The newest __________ of this computer game has better graphics and more levels. Sadly, my old laptop is far too slow to play it, so I need to buy a new one.",
@@ -1528,7 +1539,8 @@ window.FLASHCARD_UNITS = {
       "text": "verdict"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "Our English class had a debate on online shopping __________ shopping in stores. Most students said that buying things online is cheaper but much less fun.",
@@ -1550,7 +1562,8 @@ window.FLASHCARD_UNITS = {
       "text": "via"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    },
    {
     "question": "The climbers stood at the bottom of the cliff and looked up. The rock wall was almost __________ , and they wondered how anyone could reach the top.",
@@ -1572,7 +1585,8 @@ window.FLASHCARD_UNITS = {
       "text": "vertical"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 44
    },
    {
     "question": "My grandfather was a soldier for twenty years. As a war __________ , he still tells us exciting stories about his life in the army on Kinmen.",
@@ -1594,7 +1608,8 @@ window.FLASHCARD_UNITS = {
       "text": "vocalist"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "There are no direct flights from Taipei to Lisbon. We flew __________ Dubai and had to wait at the airport there for four hours before our next flight.",
@@ -1616,7 +1631,8 @@ window.FLASHCARD_UNITS = {
       "text": "via"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    },
    {
     "question": "Gas prices have gone up again this month. For many people, taking the MRT to work is a __________ way to save money and avoid traffic jams.",
@@ -1638,7 +1654,8 @@ window.FLASHCARD_UNITS = {
       "text": "vague"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 54
    },
    {
     "question": "A __________ dog bit the mailman on the leg yesterday. Now the owner must keep it on a leash and put a cover over its mouth when they go out.",
@@ -1660,7 +1677,8 @@ window.FLASHCARD_UNITS = {
       "text": "virtual"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "The final episode of the drama was watched by over two million people. It was a record, and the TV station thanked every __________ on its website.",
@@ -1682,7 +1700,8 @@ window.FLASHCARD_UNITS = {
       "text": "viewer"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "Try to see the problem from your parents' __________ . They are not trying to control you; they are just very worried because they love you so much.",
@@ -1704,7 +1723,8 @@ window.FLASHCARD_UNITS = {
       "text": "volcano"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 62
    },
    {
     "question": "These dumplings taste a little plain to me. Add some black __________ and a little soy sauce, and the sour taste will make them even more delicious.",
@@ -1726,7 +1746,8 @@ window.FLASHCARD_UNITS = {
       "text": "vinegar"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 66
    },
    {
     "question": "Our class couldn't travel to Paris, so we took a __________ tour of the Louvre online. We saw many famous paintings without ever leaving our classroom.",
@@ -1748,7 +1769,8 @@ window.FLASHCARD_UNITS = {
       "text": "verbal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "Taiwanese tourists can visit Japan for up to ninety days without a __________ . That is one reason why so many families travel there every summer vacation.",
@@ -1770,7 +1792,8 @@ window.FLASHCARD_UNITS = {
       "text": "verdict"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 73
    },
    {
     "question": "Many parents have been very __________ about the dangerous crossing near our school. They have written letters and called the city government again and again this year.",
@@ -1792,7 +1815,8 @@ window.FLASHCARD_UNITS = {
       "text": "vertical"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 76
    },
    {
     "question": "Smoke and hot rocks shot high into the sky when the __________ erupted. Thousands of people living near the mountain had to leave their homes quickly.",
@@ -1814,7 +1838,8 @@ window.FLASHCARD_UNITS = {
       "text": "venue"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 80
    },
    {
     "question": "The new phone looks __________ the same as last year's model. I really don't understand why it costs five thousand dollars more than the old one.",
@@ -1836,7 +1861,8 @@ window.FLASHCARD_UNITS = {
       "text": "verbally"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "I __________ remember visiting this beach when I was very young. I can see the blue water in my mind, but I can't remember who took me there.",
@@ -1858,7 +1884,8 @@ window.FLASHCARD_UNITS = {
       "text": "virtually"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "The night market near my house sells __________ kinds of snacks. You can find stinky tofu, bubble tea, grilled squid, and many other delicious things there.",
@@ -1880,7 +1907,8 @@ window.FLASHCARD_UNITS = {
       "text": "various"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "Scientists warned that the mountain could __________ at any moment. Everyone living nearby was told to pack their things and leave their homes within two hours.",
@@ -1902,7 +1930,8 @@ window.FLASHCARD_UNITS = {
       "text": "venture"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 83
    },
    {
     "question": "Hotel prices in Kenting __________ a lot from season to season. A room that costs eight thousand dollars in summer may cost only half that in winter.",
@@ -1924,7 +1953,8 @@ window.FLASHCARD_UNITS = {
       "text": "vacuum"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 14
    }
   ]
  }

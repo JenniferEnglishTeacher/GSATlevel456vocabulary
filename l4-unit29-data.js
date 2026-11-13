@@ -1361,7 +1361,8 @@ window.FLASHCARD_UNITS = {
       "text": "parachute"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "Amy used to be so afraid of speaking in public that her hands would shake. After a year of practice, she has finally __________ her fear and now enjoys giving speeches.",
@@ -1383,7 +1384,8 @@ window.FLASHCARD_UNITS = {
       "text": "overthrow"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "The teacher checked the essay quickly because she was in a hurry. As a result, she happened to __________ several spelling mistakes that she would normally have found.",
@@ -1405,7 +1407,8 @@ window.FLASHCARD_UNITS = {
       "text": "overlook"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 7
    },
    {
     "question": "The train trip from Taipei to Kaohsiung is short, but the one to Beijing is much longer. We took an __________ train and slept in small beds while it traveled through the dark.",
@@ -1427,7 +1430,8 @@ window.FLASHCARD_UNITS = {
       "text": "peculiar"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 10
    },
    {
     "question": "The king took all the land from the farmers and put anyone who complained in prison. In the end, the angry people rose up to __________ him and chose a new leader.",
@@ -1449,7 +1453,8 @@ window.FLASHCARD_UNITS = {
       "text": "penalize"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 13
    },
    {
     "question": "The air at the top of very high mountains is thin, so climbers often feel dizzy and tired. Many of them carry bottles of __________ to help them breathe.",
@@ -1471,7 +1476,8 @@ window.FLASHCARD_UNITS = {
       "text": "pasta"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 16
    },
    {
     "question": "Grandpa walks very slowly these days because his knees hurt. If you go to the market with him, you will have to move at his __________ and not rush.",
@@ -1493,7 +1499,8 @@ window.FLASHCARD_UNITS = {
       "text": "pace"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 20
    },
    {
     "question": "The singing contest will be judged by three people: a music teacher, a famous singer, and a radio host. This __________ will choose the winner after the final round.",
@@ -1515,7 +1522,8 @@ window.FLASHCARD_UNITS = {
       "text": "perfection"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "The soldier jumped out of the plane from three thousand meters. A few seconds later, he pulled a cord, and a huge __________ opened above him like a white cloud.",
@@ -1537,7 +1545,8 @@ window.FLASHCARD_UNITS = {
       "text": "parachute"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 28
    },
    {
     "question": "Your essay is good, but it is one long block of text, which is hard to read. Please start a new __________ each time you move to a different idea.",
@@ -1559,7 +1568,8 @@ window.FLASHCARD_UNITS = {
       "text": "perfume"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "The store would not give the customer all her money back for the broken fan. It offered only a __________ refund, so she got back about half of what she had paid.",
@@ -1581,7 +1591,8 @@ window.FLASHCARD_UNITS = {
       "text": "permanent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "In Ms. Lin's class, you cannot just sit quietly and listen. Active __________ in discussions and group work counts for thirty percent of your final grade.",
@@ -1603,7 +1614,8 @@ window.FLASHCARD_UNITS = {
       "text": "penalty"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    },
    {
     "question": "The two small bakeries used to compete with each other on the same street. Last year they formed a __________ and now run one bigger shop together.",
@@ -1625,7 +1637,8 @@ window.FLASHCARD_UNITS = {
       "text": "partnership"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 44
    },
    {
     "question": "Jack never asks questions or shares his ideas in class; he just sits and waits for the teacher to tell him everything. His __________ attitude worries his parents.",
@@ -1647,7 +1660,8 @@ window.FLASHCARD_UNITS = {
       "text": "partial"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "Lisa loves Italian food more than anything else. When we go out, she always orders a big plate of __________ with tomato sauce, cheese, and a glass of juice.",
@@ -1669,7 +1683,8 @@ window.FLASHCARD_UNITS = {
       "text": "paw"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 52
    },
    {
     "question": "Our cat came in from the garden after the rain and walked across the clean floor. Now there is a line of small dirty __________ prints leading to the sofa.",
@@ -1691,7 +1706,8 @@ window.FLASHCARD_UNITS = {
       "text": "panel"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 56
    },
    {
     "question": "When I opened the refrigerator this morning, there was a __________ smell that I had never noticed before. Later we found a rotten fish hidden at the back.",
@@ -1713,7 +1729,8 @@ window.FLASHCARD_UNITS = {
       "text": "permanent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 60
    },
    {
     "question": "The children were told not to look at the presents before Christmas morning. However, little Ben could not help trying to __________ through the keyhole of the closet.",
@@ -1735,7 +1752,8 @@ window.FLASHCARD_UNITS = {
       "text": "parachute"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 63
    },
    {
     "question": "Jenny did not want to look different from the other girls in her class, so she bought the same expensive shoes. Pressure from a __________ group can be very strong at that age.",
@@ -1757,7 +1775,8 @@ window.FLASHCARD_UNITS = {
       "text": "penalty"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "If you park your car in a space for disabled people, you will have to pay a __________ of twelve hundred dollars. The police may also tow your car away.",
@@ -1779,7 +1798,8 @@ window.FLASHCARD_UNITS = {
       "text": "penalty"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 69
    },
    {
     "question": "The test was really hard this time. Only twenty __________ of the students in our class passed it, so the teacher decided to teach the chapter again.",
@@ -1801,7 +1821,8 @@ window.FLASHCARD_UNITS = {
       "text": "panel"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 73
    },
    {
     "question": "Most of the people in this small town are over sixty-five years old. Because such a high __________ of them are elderly, the hospital is always full and the schools are getting smaller.",
@@ -1823,7 +1844,8 @@ window.FLASHCARD_UNITS = {
       "text": "percentage"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 74
    },
    {
     "question": "The chef has made this dish thousands of times over thirty years. Every plate he sends out is cooked to __________, and his customers never find anything wrong with it.",
@@ -1845,7 +1867,8 @@ window.FLASHCARD_UNITS = {
       "text": "participation"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 77
    },
    {
     "question": "When my mother walks into a room, you can always smell roses. She has worn the same __________ for twenty years, and my father buys her a new bottle every birthday.",
@@ -1867,7 +1890,8 @@ window.FLASHCARD_UNITS = {
       "text": "overcoat"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 82
    },
    {
     "question": "Ken worked at the company for a year on a short contract that ended every six months. Last week his boss finally offered him a __________ job with a higher salary.",
@@ -1889,7 +1913,8 @@ window.FLASHCARD_UNITS = {
       "text": "peculiar"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 85
    },
    {
     "question": "The city marathon is open to everyone, not just professional runners. Last year more than two thousand people decided to __________ in it, including my seventy-year-old grandmother.",
@@ -1911,7 +1936,8 @@ window.FLASHCARD_UNITS = {
       "text": "penalize"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "In today's English class, we are going to practice a short conversation about shopping. Please find a __________ and take turns being the customer and the shop clerk.",
@@ -1933,7 +1959,8 @@ window.FLASHCARD_UNITS = {
       "text": "photograph"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "The sky is blue, the sun is warm, and there is a gentle wind from the sea. It is a __________ day for a picnic, so let's call our friends and go.",
@@ -1955,7 +1982,8 @@ window.FLASHCARD_UNITS = {
       "text": "perfect"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 78
    },
    {
     "question": "The bridge is closed for repairs, but do not worry. The closure is only __________, and the workers say that cars will be able to use it again by Friday.",
@@ -1977,7 +2005,8 @@ window.FLASHCARD_UNITS = {
       "text": "passive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 88
    },
    {
     "question": "In this game, players who touch the ball with their hands break the rules. The referee will __________ them by giving a free kick to the other team.",
@@ -1999,7 +2028,8 @@ window.FLASHCARD_UNITS = {
       "text": "overlook"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    }
   ]
  }

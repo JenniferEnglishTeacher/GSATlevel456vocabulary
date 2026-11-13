@@ -322,6 +322,7 @@ function toggleRootsReview(realIndex) {
   }
   try {
     localStorage.setItem(REVIEW_KEY, JSON.stringify(list));
+    if (window.GsatTracker) GsatTracker.reviewChanged();
     if (SET === "roots") localStorage.setItem(ROOTS_REVIEW_CARDS, JSON.stringify(details));
   } catch (error) { /* private mode: nothing to save */ }
   renderWordList();
@@ -501,14 +502,40 @@ function createQuizSection() {
         <p class="eyebrow">Practice Test</p>
         <h2>MCQ Practice</h2>
       </div>
-      <div class="quiz-score" id="quizScore">0 / 0</div>
+      <div class="quiz-tools"><button class="secondary-button" id="quizSend" type="button" hidden>Send result 送出成績</button><span class="quiz-sent" id="quizSentNote" hidden>✓ Sent to your teacher 成績已送出</span><div class="quiz-score" id="quizScore">0 / 0</div></div>
     </div>
     <div class="quiz-list" id="quizList"></div>
   `;
   studyArea.insertAdjacentElement("afterend", section);
   els.quizSection = section;
   els.quizList = section.querySelector("#quizList");
+  section.querySelector("#quizSend").addEventListener("click", () => sendQuizResult(true));
   els.quizScore = section.querySelector("#quizScore");
+}
+
+// MCQ practice report: sent once per group, automatically when every question has been answered,
+// or earlier when the student presses "Send result". Accuracy uses the first answer to each question.
+const quizFirst = {};
+const quizSent = {};
+
+function sendQuizResult(force) {
+  if (!window.GsatTracker || !GsatTracker.enabled || quizSent[state.unit]) return;
+  const quiz = units[state.unit].quiz || [];
+  const answered = quiz.map((q, i) => ({ q, first: quizFirst[`${state.unit}-${i}`] })).filter(x => x.first);
+  if (!answered.length || (!force && answered.length < quiz.length)) return;
+  quizSent[state.unit] = true;
+  const list = cards();
+  const wrong = answered.filter(x => x.first !== x.q.answer).map(x => {
+    const text = (x.q.options.find(o => o.letter === x.q.answer) || {}).text || "";
+    const vi = Number.isInteger(x.q.vi) && list[x.q.vi] ? x.q.vi : list.findIndex(c => c.word === text);
+    return { w: vi >= 0 ? list[vi].word : text, key: vi >= 0 ? `${KEY_PREFIX}${state.unit}:${vi}` : "" };
+  });
+  GsatTracker.logTest({
+    type: answered.length < quiz.length ? `MCQ practice (${answered.length} of ${quiz.length} answered)` : "MCQ practice",
+    level: SETCFG.level, group: Number(state.unit),
+    total: answered.length, correct: answered.length - wrong.length, wrong
+  });
+  renderQuiz();
 }
 
 function renderQuiz() {
@@ -541,8 +568,10 @@ function renderQuiz() {
       if (answered && option.letter === question.answer) button.classList.add("correct");
       if (answered && option.letter === selected && selected !== question.answer) button.classList.add("wrong");
       button.addEventListener("click", () => {
+        if (!(key in quizFirst)) quizFirst[key] = option.letter; // the first answer is the one reported to the teacher
         state.quizAnswers[key] = option.letter;
         renderQuiz();
+        sendQuizResult(false);
       });
       optionWrap.append(button);
     });
@@ -561,6 +590,13 @@ function renderQuiz() {
   });
 
   els.quizScore.textContent = `${correctCount} / ${quiz.length}`;
+  const tracking = Boolean(window.GsatTracker && GsatTracker.enabled);
+  const answeredCount = quiz.filter((_, i) => quizFirst[`${state.unit}-${i}`]).length;
+  const sendBtn = els.quizSection.querySelector("#quizSend");
+  const sentNote = els.quizSection.querySelector("#quizSentNote");
+  sendBtn.hidden = !tracking || Boolean(quizSent[state.unit]) || answeredCount === 0;
+  sendBtn.textContent = `Send result 送出成績 (${answeredCount}/${quiz.length})`;
+  sentNote.hidden = !quizSent[state.unit];
 }
 
 // ---------- Barron's / Hot Words inside sample sentences ----------

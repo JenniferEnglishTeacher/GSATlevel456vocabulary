@@ -1451,7 +1451,8 @@ window.FLASHCARD_UNITS = {
       "text": "handicraft"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "A man kept following the girl home from school and sending her messages at night. Her parents called the police because nobody has the right to __________ another person.",
@@ -1473,7 +1474,8 @@ window.FLASHCARD_UNITS = {
       "text": "hover"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 4
    },
    {
     "question": "Pour the hot candy mixture onto the cold metal tray. In about ten minutes it will __________ into a shiny sheet that you can break into small pieces.",
@@ -1495,7 +1497,8 @@ window.FLASHCARD_UNITS = {
       "text": "harness"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "This small musical instrument fits easily in your pocket, and you play it by blowing into it. Cowboys in old movies often play the __________ around the fire.",
@@ -1517,7 +1520,8 @@ window.FLASHCARD_UNITS = {
       "text": "hostel"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 12
    },
    {
     "question": "The sun shines on this island almost every day of the year. Engineers plan to __________ this free energy with thousands of panels on the school roofs.",
@@ -1539,7 +1543,8 @@ window.FLASHCARD_UNITS = {
       "text": "harness"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 16
    },
    {
     "question": "Ten years have passed since the fire, but Mr. Lin still dreams about it almost every night. The memory continues to __________ him whenever he smells smoke.",
@@ -1561,7 +1566,8 @@ window.FLASHCARD_UNITS = {
       "text": "harmonize"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 20
    },
    {
     "question": "Many people on the MRT listen to music with these over their ears. If you wear __________, the passengers around you will not hear your songs at all.",
@@ -1583,7 +1589,8 @@ window.FLASHCARD_UNITS = {
       "text": "handicraft"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 25
    },
    {
     "question": "Fried chicken and sweet drinks are tasty, but they are bad for your body. Doctors suggest more __________ foods like fresh fruit, beans, and brown rice instead.",
@@ -1605,7 +1612,8 @@ window.FLASHCARD_UNITS = {
       "text": "healthful"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 29
    },
    {
     "question": "The hikers had walked for six hours in the cold wind and were very hungry. They were happy to find a __________ dinner of hot soup and rice waiting for them.",
@@ -1627,7 +1635,8 @@ window.FLASHCARD_UNITS = {
       "text": "hierarchical"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 33
    },
    {
     "question": "My neighbor does not like fences made of wood or metal. Instead, he planted a thick green __________ of small trees along the edge of his garden.",
@@ -1649,7 +1658,8 @@ window.FLASHCARD_UNITS = {
       "text": "harness"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 37
    },
    {
     "question": "The news that a typhoon was coming spread quickly through the village. Reports of the strong winds only served to __________ the fear of the fishermen's families.",
@@ -1671,7 +1681,8 @@ window.FLASHCARD_UNITS = {
       "text": "harass"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 41
    },
    {
     "question": "The equator divides the earth into two halves. Taiwan lies in the northern __________, so its seasons are the opposite of those in Australia and New Zealand.",
@@ -1693,7 +1704,8 @@ window.FLASHCARD_UNITS = {
       "text": "hemisphere"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 45
    },
    {
     "question": "A young man jumped into the cold river to save a drowning child last Sunday. The mayor praised his __________ act and gave him a medal in front of the town.",
@@ -1715,7 +1727,8 @@ window.FLASHCARD_UNITS = {
       "text": "hearty"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 49
    },
    {
     "question": "The police stopped a truck at the border and found white powder hidden inside the seats. Tests showed that it was __________, a very dangerous illegal drug.",
@@ -1737,7 +1750,8 @@ window.FLASHCARD_UNITS = {
       "text": "hedgehog"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "In the past, only a man and a woman could marry in Taiwan. Since 2019, same-sex couples have had the same right to marry as __________ couples.",
@@ -1759,7 +1773,8 @@ window.FLASHCARD_UNITS = {
       "text": "hearty"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    },
    {
     "question": "In the army, a soldier must obey a sergeant, a sergeant must obey a captain, and so on. This clear __________ makes sure that orders are followed quickly.",
@@ -1781,7 +1796,8 @@ window.FLASHCARD_UNITS = {
       "text": "hierarchy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "Two men with knives stood up during the flight and ordered the pilot to change course. Luckily, the passengers stopped them before they could __________ the plane.",
@@ -1803,7 +1819,8 @@ window.FLASHCARD_UNITS = {
       "text": "hover"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "Tom shouted for his team for the whole game last night. This morning his voice is so __________ that he can only whisper to his classmates.",
@@ -1825,7 +1842,8 @@ window.FLASHCARD_UNITS = {
       "text": "healthful"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "The new documentary follows three __________ couples in Taipei over ten long years. It shows how their daily lives changed after same-sex marriage became legal in 2019.",
@@ -1847,7 +1865,8 @@ window.FLASHCARD_UNITS = {
       "text": "homosexual"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 71
    },
    {
     "question": "The famous scientist never actually studied at our university. However, the school gave her an __________ degree last year to thank her for her great work on cancer.",
@@ -1869,7 +1888,8 @@ window.FLASHCARD_UNITS = {
       "text": "heroic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 75
    },
    {
     "question": "When we got lost in the mountains, a farmer's family invited us in for tea and dinner. We will never forget how __________ those kind people were.",
@@ -1891,7 +1911,8 @@ window.FLASHCARD_UNITS = {
       "text": "haunted"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "The hotel staff carried our bags, cooked our favorite dishes, and even remembered our birthdays. We thanked them warmly for their wonderful __________ before we left for home.",
@@ -1913,7 +1934,8 @@ window.FLASHCARD_UNITS = {
       "text": "hemisphere"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 80
    },
    {
     "question": "Grandma's cough got much worse over the weekend, and she could hardly breathe. The doctor decided to __________ her so that nurses could watch her day and night.",
@@ -1935,7 +1957,8 @@ window.FLASHCARD_UNITS = {
       "text": "hijack"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 83
    },
    {
     "question": "Students traveling around Europe usually cannot afford to stay in expensive hotels. Many of them stay at a cheap __________ where several travelers share one big room.",
@@ -1957,7 +1980,8 @@ window.FLASHCARD_UNITS = {
       "text": "harmonica"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 87
    },
    {
     "question": "The rescue helicopter could not land on the narrow mountain road. It had to __________ above the trees while a worker was lowered down on a rope.",
@@ -1979,7 +2003,8 @@ window.FLASHCARD_UNITS = {
       "text": "harden"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 91
    },
    {
     "question": "Nobody has lived in the old house on the hill for fifty years. The children in the village believe it is __________ and run past it quickly at night.",
@@ -2001,7 +2026,8 @@ window.FLASHCARD_UNITS = {
       "text": "hospitable"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 23
    },
    {
     "question": "In our choir, the high and low voices sing different notes at the same time. When they blend together in perfect __________, the sound is truly beautiful.",
@@ -2023,7 +2049,8 @@ window.FLASHCARD_UNITS = {
       "text": "hierarchy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 13
    },
    {
     "question": "The man on the plane demanded money and a flight to another country. After six long hours, the __________ finally gave up and let all the passengers go.",
@@ -2045,7 +2072,8 @@ window.FLASHCARD_UNITS = {
       "text": "hostess"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 66
    },
    {
     "question": "After the operation, Mrs. Wang wrote a long letter to the doctors and nurses. She wanted to give them her __________ thanks for saving her son's life.",
@@ -2067,7 +2095,8 @@ window.FLASHCARD_UNITS = {
       "text": "heartfelt"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 36
    },
    {
     "question": "Our team lost the final match by just one goal. However, the players never cheated or argued with the referee, so it was an __________ defeat.",
@@ -2089,7 +2118,8 @@ window.FLASHCARD_UNITS = {
       "text": "haunted"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 77
    }
   ]
  }

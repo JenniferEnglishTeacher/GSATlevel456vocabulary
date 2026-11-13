@@ -1466,7 +1466,8 @@ window.FLASHCARD_UNITS = {
       "text": "heir"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The only bridge to the village was badly damaged by the typhoon last night. The road is closed, and __________ all cars must use the longer route through the mountains this week.",
@@ -1488,7 +1489,8 @@ window.FLASHCARD_UNITS = {
       "text": "impulsively"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 5
    },
    {
     "question": "My grandmother never buys dried leaves from the supermarket for her cooking. She grows every __________ she needs, like basil and mint, on her own balcony.",
@@ -1510,7 +1512,8 @@ window.FLASHCARD_UNITS = {
       "text": "hockey"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 8
    },
    {
     "question": "The old temple was built three hundred years ago and still stands in the city center. The government protects it as part of the town's cultural __________.",
@@ -1532,7 +1535,8 @@ window.FLASHCARD_UNITS = {
       "text": "hypothesis"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 12
    },
    {
     "question": "The speaker wanted everyone to notice how serious water pollution has become. She used several shocking photos to __________ the problem in her talk to the class.",
@@ -1554,7 +1558,8 @@ window.FLASHCARD_UNITS = {
       "text": "implement"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 15
    },
    {
     "question": "My cousin in Canada plays a fast sport on ice, hitting a small black disk with a long stick. He has loved __________ since he was five years old.",
@@ -1576,7 +1581,8 @@ window.FLASHCARD_UNITS = {
       "text": "heritage"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 19
    },
    {
     "question": "Instead of keeping the money he found in the taxi, the driver spent hours finding its owner. Everyone agreed that this was a truly __________ thing to do.",
@@ -1598,7 +1604,8 @@ window.FLASHCARD_UNITS = {
       "text": "hypothetical"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 23
    },
    {
     "question": "To make a timeline, first draw a long flat line across the middle of your paper. This __________ line will show the years from left to right.",
@@ -1620,7 +1627,8 @@ window.FLASHCARD_UNITS = {
       "text": "horizontal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 28
    },
    {
     "question": "The doctor said the boy was much shorter than other children his age because his body made too little of a certain chemical. This __________ is what makes children grow.",
@@ -1642,7 +1650,8 @@ window.FLASHCARD_UNITS = {
       "text": "incentive"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 32
    },
    {
     "question": "The robbers kept a bank worker inside the building for six hours and refused to let her go. Luckily, the police rescued the __________ without anyone getting hurt.",
@@ -1664,7 +1673,8 @@ window.FLASHCARD_UNITS = {
       "text": "heir"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 35
    },
    {
     "question": "When the new family moved in, some neighbors refused to say hello and even complained about their car. This __________ attitude made the family feel very unwelcome.",
@@ -1686,7 +1696,8 @@ window.FLASHCARD_UNITS = {
       "text": "hostile"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 38
    },
    {
     "question": "The two players shouted at each other and refused to shake hands after the game. The referee was worried that such __________ might lead to a fight.",
@@ -1708,7 +1719,8 @@ window.FLASHCARD_UNITS = {
       "text": "heritage"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 39
    },
    {
     "question": "Many young workers cannot afford to rent an apartment near their offices in Taipei. The city has promised to build more cheap __________ for them next year.",
@@ -1730,7 +1742,8 @@ window.FLASHCARD_UNITS = {
       "text": "hockey"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 42
    },
    {
     "question": "Every night when the moon comes out, the neighbor's dog makes a long, loud, sad sound. It will __________ for hours unless its owner lets it inside.",
@@ -1752,7 +1765,8 @@ window.FLASHCARD_UNITS = {
       "text": "immunize"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 47
    },
    {
     "question": "Before the experiment, each student had to write down what they expected to happen and why. Then they did tests to find out whether their __________ was correct.",
@@ -1774,7 +1788,8 @@ window.FLASHCARD_UNITS = {
       "text": "heir"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    },
    {
     "question": "To open the camera on this phone, you do not need to type anything. Just tap the small gray __________ at the bottom of the screen with your finger.",
@@ -1796,7 +1811,8 @@ window.FLASHCARD_UNITS = {
       "text": "idiot"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 55
    },
    {
     "question": "The two political parties want very different things for the country, and they almost never agree. Their __________ is so different that they even fight over small rules.",
@@ -1818,7 +1834,8 @@ window.FLASHCARD_UNITS = {
       "text": "hockey"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 59
    },
    {
     "question": "I pushed the door for five minutes before I noticed the big sign that said \"PULL.\" I felt like such an __________ in front of all those people.",
@@ -1840,7 +1857,8 @@ window.FLASHCARD_UNITS = {
       "text": "heiress"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "The lines in this picture look like they are bending, but they are actually perfectly straight. Your eyes are being tricked by a clever optical __________.",
@@ -1862,7 +1880,8 @@ window.FLASHCARD_UNITS = {
       "text": "immunity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 66
    },
    {
     "question": "Building the new airport took ten years and more than a hundred thousand workers. The cost was __________, but the city believes it was worth it.",
@@ -1884,7 +1903,8 @@ window.FLASHCARD_UNITS = {
       "text": "idiotic"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 70
    },
    {
     "question": "Grandpa caught this disease when he was a little boy, and his body learned to fight it. That is why he is now __________ to it and never gets sick again.",
@@ -1906,7 +1926,8 @@ window.FLASHCARD_UNITS = {
       "text": "immune"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "The city council agreed on a plan to add bike lanes to twenty streets. Workers will begin to __________ the plan next month, starting with the roads near schools.",
@@ -1928,7 +1949,8 @@ window.FLASHCARD_UNITS = {
       "text": "howl"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 78
    },
    {
     "question": "The new tax will make it much more expensive for small shops to import goods. Owners are worried about what this __________ means for their businesses next year.",
@@ -1950,7 +1972,8 @@ window.FLASHCARD_UNITS = {
       "text": "hostage"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 82
    },
    {
     "question": "I did not plan to buy anything, but the red shoes in the window looked perfect. On a sudden __________, I walked in and paid for them without even trying them on.",
@@ -1972,7 +1995,8 @@ window.FLASHCARD_UNITS = {
       "text": "hypothesis"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 87
    },
    {
     "question": "The company wants its workers to come to the office by bus instead of by car. As an __________, it gives a free monthly bus ticket to anyone who does.",
@@ -1994,7 +2018,8 @@ window.FLASHCARD_UNITS = {
       "text": "incentive"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 92
    },
    {
     "question": "When Grandma passed away, she left her small farm and an old gold watch to my father. He decided to __________ the farm but give the watch to me.",
@@ -2016,7 +2041,8 @@ window.FLASHCARD_UNITS = {
       "text": "implement"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 2
    },
    {
     "question": "The city wants to thank the nurses who worked day and night during the outbreak. Next Sunday it will __________ them with a special ceremony in the park.",
@@ -2038,7 +2064,8 @@ window.FLASHCARD_UNITS = {
       "text": "honor"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 24
    },
    {
     "question": "Doctors say that sleeping eight hours, eating vegetables, and exercising help the body fight sickness. These habits build up your __________ against colds and the flu.",
@@ -2060,7 +2087,8 @@ window.FLASHCARD_UNITS = {
       "text": "hostility"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 74
    },
    {
     "question": "My sister never thinks before she acts, and yesterday she quit her job after one bad morning. Her __________ decisions often cause problems for the whole family.",
@@ -2082,7 +2110,8 @@ window.FLASHCARD_UNITS = {
       "text": "horizontal"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 88
    },
    {
     "question": "Almost every visitor to Taiwan takes a photo in front of Taipei 101. The tall green tower has become the most __________ building in the whole country.",
@@ -2104,7 +2133,8 @@ window.FLASHCARD_UNITS = {
       "text": "iconic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    }
   ]
  }

@@ -1256,7 +1256,8 @@ window.FLASHCARD_UNITS = {
       "text": "utilize"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 0
    },
    {
     "question": "Your hair is getting too long, and it almost covers your eyes. Why don't you go to the barber and ask him to __________ it a little?",
@@ -1278,7 +1279,8 @@ window.FLASHCARD_UNITS = {
       "text": "triple"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Last year only one hundred people came to the music festival. This year the organizers expect about three hundred, so the number of visitors will __________ .",
@@ -1300,7 +1302,8 @@ window.FLASHCARD_UNITS = {
       "text": "triple"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "Don't worry about such a __________ mistake as a missing comma. Your essay is really excellent, and the teacher will still give you a high score.",
@@ -1322,7 +1325,8 @@ window.FLASHCARD_UNITS = {
       "text": "unprecedented"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 13
    },
    {
     "question": "Our school's basketball team won the national championship last night. The players lifted the shining gold __________ high above their heads while their fans cheered loudly.",
@@ -1344,7 +1348,8 @@ window.FLASHCARD_UNITS = {
       "text": "tumor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 16
    },
    {
     "question": "Private universities are much more expensive than public ones. My brother works at a restaurant every weekend to help pay his __________ , which is over fifty thousand dollars a semester.",
@@ -1366,7 +1371,8 @@ window.FLASHCARD_UNITS = {
       "text": "trophy"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 19
    },
    {
     "question": "The doctor found a small __________ in my uncle's stomach during a health check. Luckily, it was removed early, and now he is completely healthy again.",
@@ -1388,7 +1394,8 @@ window.FLASHCARD_UNITS = {
       "text": "trim"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 22
    },
    {
     "question": "My mom made sandwiches for our picnic with bread, eggs, and fish from a can. My favorite was the __________ sandwich with a little lettuce and tomato.",
@@ -1410,7 +1417,8 @@ window.FLASHCARD_UNITS = {
       "text": "tuna"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 25
    },
    {
     "question": "Many young athletes dream of playing in the Olympics one day. For them, winning a gold medal there is the __________ goal of all their hard work.",
@@ -1432,7 +1440,8 @@ window.FLASHCARD_UNITS = {
       "text": "trivial"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "The reporter spent six months asking questions and reading old documents. Finally, she was able to __________ the truth about the company's secret plans to close the factory.",
@@ -1454,7 +1463,8 @@ window.FLASHCARD_UNITS = {
       "text": "triple"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 31
    },
    {
     "question": "My grandmother has had pain in her knee for many years. Next week she will __________ an operation, and the doctor says she will walk easily again.",
@@ -1476,7 +1486,8 @@ window.FLASHCARD_UNITS = {
       "text": "unlock"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 34
    },
    {
     "question": "My cousin is in her second year at National Taiwan University. As an __________ , she studies biology, but she hopes to go to graduate school in Japan later.",
@@ -1498,7 +1509,8 @@ window.FLASHCARD_UNITS = {
       "text": "unemployment"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 37
    },
    {
     "question": "When you read the article, please __________ every new word with a red pen. Later we will look up all of them in the dictionary together.",
@@ -1520,7 +1532,8 @@ window.FLASHCARD_UNITS = {
       "text": "unlock"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "The coach shouted at the young player every time he made a mistake. This began to __________ his confidence, and soon he was afraid to touch the ball.",
@@ -1542,7 +1555,8 @@ window.FLASHCARD_UNITS = {
       "text": "undermine"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 44
    },
    {
     "question": "Building a bridge across the wide river is a huge and expensive project. Only a very large company has enough money and workers to __________ such a job.",
@@ -1564,7 +1578,8 @@ window.FLASHCARD_UNITS = {
       "text": "trim"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "My little brother tied his shoelaces into a very tight knot. He tried for ten minutes but could not __________ them, so he asked Mom for help.",
@@ -1586,7 +1601,8 @@ window.FLASHCARD_UNITS = {
       "text": "update"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 50
    },
    {
     "question": "Jenny practices the piano four hours a day and has won many national prizes this year. She is __________ the most talented musician in our whole school.",
@@ -1608,7 +1624,8 @@ window.FLASHCARD_UNITS = {
       "text": "threefold"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "The big factory in our town closed last month, and two thousand workers lost their jobs. Now __________ is the biggest problem the town has ever faced.",
@@ -1630,7 +1647,8 @@ window.FLASHCARD_UNITS = {
       "text": "upgrade"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 57
    },
    {
     "question": "Before the hike, our guide asked us to __________ the large map and spread it out on the table. Then she showed us the safest way up the mountain.",
@@ -1652,7 +1670,8 @@ window.FLASHCARD_UNITS = {
       "text": "unfold"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "I forgot the password to my new phone this morning. Now I can't __________ it, so I can't read any messages or even call my parents.",
@@ -1674,7 +1693,8 @@ window.FLASHCARD_UNITS = {
       "text": "unfold"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "Nobody in the village had ever seen so much rain in a single day. The flood was __________ , and even the oldest farmers said nothing like it had happened before.",
@@ -1696,7 +1716,8 @@ window.FLASHCARD_UNITS = {
       "text": "trivial"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 67
    },
    {
     "question": "The app on your phone has some problems, and it keeps closing by itself. You should __________ it to the newest version, which fixes most of these problems.",
@@ -1718,7 +1739,8 @@ window.FLASHCARD_UNITS = {
       "text": "update"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "We bought economy tickets for our flight to Paris. At the airport, the airline kindly offered to __________ us to business class for free because the plane was full.",
@@ -1740,7 +1762,8 @@ window.FLASHCARD_UNITS = {
       "text": "trigger"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 73
    },
    {
     "question": "Our city's water company is owned by the government. It is a public __________ , so it must provide clean water to every home at a fair price.",
@@ -1762,7 +1785,8 @@ window.FLASHCARD_UNITS = {
       "text": "utility"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 76
    },
    {
     "question": "Our school has a large roof that gets lots of sunshine. The principal wants to __________ this space by putting solar panels on it to make electricity.",
@@ -1784,7 +1808,8 @@ window.FLASHCARD_UNITS = {
       "text": "trim"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 79
    },
    {
     "question": "My uncle has been __________ since his company closed in March. He sends out job applications every single day, but so far nobody has called him back.",
@@ -1806,7 +1831,8 @@ window.FLASHCARD_UNITS = {
       "text": "unprecedented"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    },
    {
     "question": "We argued for weeks about where to go for our family vacation. __________ , we decided to stay home and save the money for a new car.",
@@ -1828,7 +1854,8 @@ window.FLASHCARD_UNITS = {
       "text": "threefold"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 30
    },
    {
     "question": "Planning a wedding party for three hundred guests is a huge __________ . Many couples hire a professional planner to help them with everything from food to flowers.",
@@ -1850,7 +1877,8 @@ window.FLASHCARD_UNITS = {
       "text": "utilization"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 48
    },
    {
     "question": "My brother knows many strange facts, like how many bones a cat has. He loves __________ and always wins when our family plays quiz games at home.",
@@ -1872,7 +1900,8 @@ window.FLASHCARD_UNITS = {
       "text": "tuition"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 14
    },
    {
     "question": "After you take the clothes off the line, please __________ them neatly and put them in the closet. Don't just throw them on your bed like you always do.",
@@ -1894,7 +1923,8 @@ window.FLASHCARD_UNITS = {
       "text": "fold"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    }
   ]
  }

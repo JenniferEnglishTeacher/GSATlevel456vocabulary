@@ -1256,7 +1256,8 @@ window.FLASHCARD_UNITS = {
       "text": "shortage"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "The old man's coat had holes in both sleeves and most of its buttons were gone. Though his clothes were __________, he always smiled warmly at everyone.",
@@ -1278,7 +1279,8 @@ window.FLASHCARD_UNITS = {
       "text": "shabby"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 3
    },
    {
     "question": "The chef says a dull knife is more dangerous than a sharp one. Before cutting the vegetables, he always takes a minute to __________ his knives.",
@@ -1300,7 +1302,8 @@ window.FLASHCARD_UNITS = {
       "text": "shuffle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 6
    },
    {
     "question": "My father does not like using a razor with a blade because he often cuts himself. Last month he bought an electric __________, and now his mornings are easier.",
@@ -1322,7 +1325,8 @@ window.FLASHCARD_UNITS = {
       "text": "shutter"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 10
    },
    {
     "question": "The new phone takes great photos and has a big, bright screen. Its one __________ is the battery, which dies after only five hours of use.",
@@ -1344,7 +1348,8 @@ window.FLASHCARD_UNITS = {
       "text": "shriek"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 13
    },
    {
     "question": "Cutting down the whole forest will bring money quickly this year. However, the plan is __________, because the village will lose its clean water and its visitors.",
@@ -1366,7 +1371,8 @@ window.FLASHCARD_UNITS = {
       "text": "shortsighted"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 17
    },
    {
     "question": "These old bank letters have your account number printed on them. Please __________ them before you throw them away so that nobody can read the numbers.",
@@ -1388,7 +1394,8 @@ window.FLASHCARD_UNITS = {
       "text": "skim"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "We heard a loud __________ from the kitchen and ran in to see what was wrong. Mom was standing on a chair, pointing at a tiny gray mouse.",
@@ -1410,7 +1417,8 @@ window.FLASHCARD_UNITS = {
       "text": "shrub"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 24
    },
    {
     "question": "Grandma planted a row of small plants along the fence last spring. Each __________ is now covered with tiny pink flowers that the bees love to visit.",
@@ -1432,7 +1440,8 @@ window.FLASHCARD_UNITS = {
       "text": "shaver"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 27
    },
    {
     "question": "You got all the best cards in the last two rounds of the game. Let me __________ the cards properly this time before I give them out.",
@@ -1454,7 +1463,8 @@ window.FLASHCARD_UNITS = {
       "text": "shorten"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 30
    },
    {
     "question": "A strong typhoon will hit the island tonight. Shop owners along the street are closing every __________ and tying down their signs to protect their windows.",
@@ -1476,7 +1486,8 @@ window.FLASHCARD_UNITS = {
       "text": "shortage"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 34
    },
    {
     "question": "The Japanese garden has only white stones, a few trees, and a small pool. Its beauty lies in its __________, and visitors feel calm the moment they enter.",
@@ -1498,7 +1509,8 @@ window.FLASHCARD_UNITS = {
       "text": "shrubbery"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 38
    },
    {
     "question": "The new grammar rule was too hard for most of the class to understand. The teacher drew a picture to __________ it, and suddenly everyone got the idea.",
@@ -1520,7 +1532,8 @@ window.FLASHCARD_UNITS = {
       "text": "shred"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    },
    {
     "question": "People in the city heard only one loud bang last night. In fact, there were two explosions, but they were __________, so nobody could tell them apart.",
@@ -1542,7 +1555,8 @@ window.FLASHCARD_UNITS = {
       "text": "sly"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 43
    },
    {
     "question": "The advertisement says you can learn English in one week without any effort. I am very __________ about such promises, because learning a new language takes years.",
@@ -1564,7 +1578,8 @@ window.FLASHCARD_UNITS = {
       "text": "simple"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 46
    },
    {
     "question": "I only had ten minutes left before the history test this morning. I could just __________ the long chapter quickly, so I missed some important details in it.",
@@ -1586,7 +1601,8 @@ window.FLASHCARD_UNITS = {
       "text": "skim"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 50
    },
    {
     "question": "Teenagers often use words that their parents do not understand. This kind of __________ changes quickly, and a word that is popular now may sound old next year.",
@@ -1608,7 +1624,8 @@ window.FLASHCARD_UNITS = {
       "text": "simplification"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "The winter coats did not sell well, and spring is coming. The store will __________ its prices by half this weekend to clear out all of them.",
@@ -1630,7 +1647,8 @@ window.FLASHCARD_UNITS = {
       "text": "simplify"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "In the past, farmers in the village raised their own pigs. Before every big festival, they would __________ one and share the meat with their neighbors.",
@@ -1652,7 +1670,8 @@ window.FLASHCARD_UNITS = {
       "text": "slaughter"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "In the old story, a dragon lives in the mountains and burns the farms every night. The brave knight must __________ it before he can marry the princess.",
@@ -1674,7 +1693,8 @@ window.FLASHCARD_UNITS = {
       "text": "smuggle"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 64
    },
    {
     "question": "Your report has coffee stains on the first page, and the writing is hard to read. It is too __________, so please do it again more carefully.",
@@ -1696,7 +1716,8 @@ window.FLASHCARD_UNITS = {
       "text": "skeptical"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 67
    },
    {
     "question": "Many poor families in the big city live beside the dirty river. Their homes in the __________ are made of metal sheets and have no running water.",
@@ -1718,7 +1739,8 @@ window.FLASHCARD_UNITS = {
       "text": "setback"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 70
    },
    {
     "question": "Our baseball team has lost eight games in a row this month. The coach hopes the team will come out of this __________ before the playoffs begin.",
@@ -1740,7 +1762,8 @@ window.FLASHCARD_UNITS = {
       "text": "slump"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 73
    },
    {
     "question": "The __________ fox waited quietly until the farmer and his dog went inside for lunch. Then it walked into the yard and carried off the fattest chicken.",
@@ -1762,7 +1785,8 @@ window.FLASHCARD_UNITS = {
       "text": "shortsighted"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "The man hid two rare birds inside his jacket at the airport. He was trying to __________ them into the country, but the officers heard them singing.",
@@ -1784,7 +1808,8 @@ window.FLASHCARD_UNITS = {
       "text": "smuggle"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 79
    },
    {
     "question": "There were not enough eggs anywhere on the island last spring. Because of the __________, many breakfast shops raised their prices or even stopped selling egg sandwiches.",
@@ -1806,7 +1831,8 @@ window.FLASHCARD_UNITS = {
       "text": "slang"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 14
    },
    {
     "question": "The class lost two days of lessons because of the typhoon. The teacher decided to __________ the test from fifty questions to thirty to be fair.",
@@ -1828,7 +1854,8 @@ window.FLASHCARD_UNITS = {
       "text": "shriek"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 15
    },
    {
     "question": "My uncle never believes anything he reads online until he checks it in two newspapers. He is a real __________, and he teaches us to ask questions too.",
@@ -1850,7 +1877,8 @@ window.FLASHCARD_UNITS = {
       "text": "skeptic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 47
    },
    {
     "question": "Coast guards stopped a small boat near the harbor last night. The __________ had filled it with cigarettes that he planned to sell without paying any tax.",
@@ -1872,7 +1900,8 @@ window.FLASHCARD_UNITS = {
       "text": "shuffle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 80
    },
    {
     "question": "This cookie recipe needs only flour, sugar, butter, and an egg. It is so __________ that even my seven-year-old cousin can make it without any help.",
@@ -1894,7 +1923,8 @@ window.FLASHCARD_UNITS = {
       "text": "shabby"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 40
    }
   ]
  }

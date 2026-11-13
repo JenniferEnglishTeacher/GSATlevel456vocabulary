@@ -1556,7 +1556,8 @@ window.FLASHCARD_UNITS = {
       "text": "monument"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "The apartment is only a five-minute walk from the MRT station, and __________, the rent is much cheaper than the one we saw last week. I think we should take it.",
@@ -1578,7 +1579,8 @@ window.FLASHCARD_UNITS = {
       "text": "mutually"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Our coach always finds a way to __________ the team before a big game. He tells us stories about famous players who never gave up, and we feel ready to win.",
@@ -1600,7 +1602,8 @@ window.FLASHCARD_UNITS = {
       "text": "murder"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 8
    },
    {
     "question": "Amy's main __________ for getting up at five every morning is her dream of becoming a professional swimmer. She practices two hours before school every day.",
@@ -1622,7 +1625,8 @@ window.FLASHCARD_UNITS = {
       "text": "nationality"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "Taiwan is a very __________ island, with more than two hundred peaks above three thousand meters. That is why so many people here love hiking on weekends.",
@@ -1644,7 +1648,8 @@ window.FLASHCARD_UNITS = {
       "text": "needy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 13
    },
    {
     "question": "It rained heavily all night, so the path to the waterfall was very __________ this morning. Our shoes sank into the ground with every step we took.",
@@ -1666,7 +1671,8 @@ window.FLASHCARD_UNITS = {
       "text": "numerous"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 17
    },
    {
     "question": "The farmers in the mountains still use a __________ to carry heavy bags of tea down the narrow trail. The animal is strong and never slips on the rocks.",
@@ -1688,7 +1694,8 @@ window.FLASHCARD_UNITS = {
       "text": "nurse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 21
    },
    {
     "question": "The driver was taken to the hospital with __________ injuries after his car hit a tree. The doctors said he had broken his arm, two ribs, and his left leg.",
@@ -1710,7 +1717,8 @@ window.FLASHCARD_UNITS = {
       "text": "needless"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "After months of searching, the police finally caught the __________ in a small fishing village. He had killed a shop owner during a robbery last spring.",
@@ -1732,7 +1740,8 @@ window.FLASHCARD_UNITS = {
       "text": "murderer"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 28
    },
    {
     "question": "The baby was almost asleep, so her mother did not want to wake her. Every night she would lean close and __________ a soft goodnight into the little girl's ear.",
@@ -1754,7 +1763,8 @@ window.FLASHCARD_UNITS = {
       "text": "negotiate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "A good friendship is built on __________ respect between two people. Both of them have to listen carefully and care about each other's feelings, not just their own.",
@@ -1776,7 +1786,8 @@ window.FLASHCARD_UNITS = {
       "text": "mountainous"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 36
    },
    {
     "question": "A strange blue light appeared above the hill every night for a week. Nobody in the town could explain this __________ event, and many people were afraid.",
@@ -1798,7 +1809,8 @@ window.FLASHCARD_UNITS = {
       "text": "national"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 40
    },
    {
     "question": "Only two students in our class have ever been to Europe, __________ Tom and Jenny. Both of them went to France with their parents last summer.",
@@ -1820,7 +1832,8 @@ window.FLASHCARD_UNITS = {
       "text": "nowadays"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 44
    },
    {
     "question": "The form at the airport asks for your name, your date of birth, and your __________. If you are from Taiwan, you should write \"Taiwanese\" in the last blank.",
@@ -1842,7 +1855,8 @@ window.FLASHCARD_UNITS = {
       "text": "nationality"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 48
    },
    {
     "question": "Every winter, our school collects warm coats and blankets for __________ families in the mountains. Some of them cannot afford to buy heaters for their homes.",
@@ -1864,7 +1878,8 @@ window.FLASHCARD_UNITS = {
       "text": "mutual"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 53
    },
    {
     "question": "If you __________ your plants for two weeks in summer, they will dry out and die. Ask a neighbor to water them while you are away on vacation.",
@@ -1886,7 +1901,8 @@ window.FLASHCARD_UNITS = {
       "text": "nurse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 58
    },
    {
     "question": "The workers want higher pay, and the company wants to save money. Next week, both sides will __________ for three days and try to reach an agreement.",
@@ -1908,7 +1924,8 @@ window.FLASHCARD_UNITS = {
       "text": "negotiate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    },
    {
     "question": "The weather report said it would rain all day; __________, we decided to go to the beach anyway. Luckily, the sun came out at noon and we swam for hours.",
@@ -1930,7 +1947,8 @@ window.FLASHCARD_UNITS = {
       "text": "moreover"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 67
    },
    {
     "question": "After watching the horror movie, my little sister had a terrible __________. She woke up screaming at three in the morning and could not sleep again.",
@@ -1952,7 +1970,8 @@ window.FLASHCARD_UNITS = {
       "text": "nursery"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 71
    },
    {
     "question": "Giving his seat on the lifeboat to a woman and her baby was a truly __________ act. The young sailor died that night, but people still remember his kindness.",
@@ -1974,7 +1993,8 @@ window.FLASHCARD_UNITS = {
       "text": "noble"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 75
    },
    {
     "question": "My brother says that if you swallow a seed, a tree will grow in your stomach. Of course, that is complete __________, and he only wants to scare me.",
@@ -1996,7 +2016,8 @@ window.FLASHCARD_UNITS = {
       "text": "nationality"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 79
    },
    {
     "question": "Twenty years ago, almost everyone in Taiwan used cash for small purchases like a cup of coffee. __________, however, most people simply pay with a phone or a card.",
@@ -2018,7 +2039,8 @@ window.FLASHCARD_UNITS = {
       "text": "namely"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 84
    },
    {
     "question": "The old __________ power plant on the north coast will be closed next year. The government plans to build more wind farms along the coast to make electricity instead.",
@@ -2040,7 +2062,8 @@ window.FLASHCARD_UNITS = {
       "text": "noble"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 88
    },
    {
     "question": "The famous writer has received __________ prizes over the past twenty years. However, she says that letters from her young readers mean more to her than any award.",
@@ -2062,7 +2085,8 @@ window.FLASHCARD_UNITS = {
       "text": "negligent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 92
    },
    {
     "question": "My aunt works full-time, so she takes her two-year-old son to a __________ every morning at eight. The teachers there play games with the children and give them lunch.",
@@ -2084,7 +2108,8 @@ window.FLASHCARD_UNITS = {
       "text": "mudslide"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 97
    },
    {
     "question": "The police still do not understand the __________ for the robbery. The thief broke into the house but took only an old family photo and left all the money.",
@@ -2106,7 +2131,8 @@ window.FLASHCARD_UNITS = {
       "text": "nurse"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 11
    },
    {
     "question": "How the ancient people moved such huge stones without any machines is still a __________ to scientists today. Nobody has found a complete answer to this question yet.",
@@ -2128,7 +2154,8 @@ window.FLASHCARD_UNITS = {
       "text": "mystery"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 41
    },
    {
     "question": "The wet weather makes mosquitoes __________ very quickly. You should empty any pots or cans that hold rainwater so they have nowhere to lay their eggs.",
@@ -2150,7 +2177,8 @@ window.FLASHCARD_UNITS = {
       "text": "neglect"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 26
    },
    {
     "question": "Bringing an umbrella to the baseball game was a __________ decision. The sky turned dark in the third inning, and it poured for almost an hour.",
@@ -2172,7 +2200,8 @@ window.FLASHCARD_UNITS = {
       "text": "mutual"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 83
    },
    {
     "question": "Our school is holding an __________ food fair next month. Students from Vietnam, Japan, and France will cook dishes from their home countries for everyone to try.",
@@ -2194,7 +2223,8 @@ window.FLASHCARD_UNITS = {
       "text": "international"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 51
    }
   ]
  }

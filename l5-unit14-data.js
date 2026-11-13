@@ -1316,7 +1316,8 @@ window.FLASHCARD_UNITS = {
       "text": "errand"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "The famous singer appears in TV ads for a new sports drink. Many of her fans buy it just because she agreed to __________ the product and says she drinks it every morning.",
@@ -1338,7 +1339,8 @@ window.FLASHCARD_UNITS = {
       "text": "entitle"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 3
    },
    {
     "question": "Mr. Lin started with one small noodle shop near the train station. Twenty years later, his __________ has grown into a company with fifty restaurants all over the island.",
@@ -1360,7 +1362,8 @@ window.FLASHCARD_UNITS = {
       "text": "eternity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 6
    },
    {
     "question": "Our new coach is so __________ about soccer that he even comes to school early to set up the field. His excitement makes everyone on the team want to practice harder.",
@@ -1382,7 +1385,8 @@ window.FLASHCARD_UNITS = {
       "text": "enthusiastic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 9
    },
    {
     "question": "This ticket is special because it does more than let you into the concert. It will also __________ you to a free poster and a drink at the shop next to the main gate.",
@@ -1404,7 +1408,8 @@ window.FLASHCARD_UNITS = {
       "text": "erect"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 14
    },
    {
     "question": "The two small companies joined together at the beginning of this year. Now they work as one __________ with a new name, one office, and a single team of managers.",
@@ -1426,7 +1431,8 @@ window.FLASHCARD_UNITS = {
       "text": "errand"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "At only twenty-five, Amy owns three coffee shops and is planning a fourth one. People call her a successful young __________ because she built everything by herself.",
@@ -1448,7 +1454,8 @@ window.FLASHCARD_UNITS = {
       "text": "entrepreneur"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 21
    },
    {
     "question": "When Ben saw his classmate's brand-new bicycle, he felt a little __________. He wished his parents would buy him one just like it for his birthday next month.",
@@ -1470,7 +1477,8 @@ window.FLASHCARD_UNITS = {
       "text": "ethical"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "The old factory has been empty for years, but the mayor has big plans for it. She can already __________ a modern art museum with a café and a garden on the roof.",
@@ -1492,7 +1500,8 @@ window.FLASHCARD_UNITS = {
       "text": "equate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 29
    },
    {
     "question": "Last winter, the flu spread quickly through the whole city. Doctors called it an __________ because thousands of people got sick in just two short weeks.",
@@ -1514,7 +1523,8 @@ window.FLASHCARD_UNITS = {
       "text": "essence"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "I love this drama so much that I cannot stop watching it. There is only one __________ left this season, and I really want to know how the story ends.",
@@ -1536,7 +1546,8 @@ window.FLASHCARD_UNITS = {
       "text": "enterprise"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "In math class today, the teacher wrote 3x + 5 = 20 on the board. She asked us to solve the __________ and find the value of x before the end of the lesson.",
@@ -1558,7 +1569,8 @@ window.FLASHCARD_UNITS = {
       "text": "escalator"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 38
    },
    {
     "question": "Our teacher believes all students deserve a fair chance to succeed. In the name of __________, she gives extra lessons to those who need more help with reading.",
@@ -1580,7 +1592,8 @@ window.FLASHCARD_UNITS = {
       "text": "eternity"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 42
    },
    {
     "question": "A dollar is not worth the same amount in every country. In Taiwan, one US dollar is __________ to about thirty NT dollars, so prices here can look very large.",
@@ -1602,7 +1615,8 @@ window.FLASHCARD_UNITS = {
       "text": "enviable"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "The town wants to remember the brave firefighters who saved it from the great fire. Next year, it will __________ a tall stone monument in the middle of the park.",
@@ -1624,7 +1638,8 @@ window.FLASHCARD_UNITS = {
       "text": "evolve"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 49
    },
    {
     "question": "Mom was busy cooking dinner, so she asked me to do a quick __________ for her. I rode my bike to the store to buy some eggs and came back in ten minutes.",
@@ -1646,7 +1661,8 @@ window.FLASHCARD_UNITS = {
       "text": "eruption"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 52
    },
    {
     "question": "Smoke has been coming out of the mountain for three days. Scientists say the volcano could __________ at any time, so everyone nearby has moved to a safer town.",
@@ -1668,7 +1684,8 @@ window.FLASHCARD_UNITS = {
       "text": "entitle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 55
    },
    {
     "question": "The department store has moving stairs between every floor. If you do not want to wait for the elevator, just take the __________ up to the toy section on the fourth floor.",
@@ -1690,7 +1707,8 @@ window.FLASHCARD_UNITS = {
       "text": "escalator"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 59
    },
    {
     "question": "The movie is long and has many different characters and stories. However, the __________ of the whole film is simple: a boy learns to forgive his father.",
@@ -1712,7 +1730,8 @@ window.FLASHCARD_UNITS = {
       "text": "enthusiasm"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "When the rich old woman died, she had no children to leave her money to. She gave her whole __________, including her big house and land, to the children's hospital.",
@@ -1734,7 +1753,8 @@ window.FLASHCARD_UNITS = {
       "text": "episode"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "In the story, the two lovers promise to stay together forever. Their __________ love is tested many times, but nothing can ever make them leave each other.",
@@ -1756,7 +1776,8 @@ window.FLASHCARD_UNITS = {
       "text": "eternal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 72
    },
    {
     "question": "Nobody checks whether Tina finishes her work, but she always does it well and on time. Her boss says her strong work __________ is the reason she got promoted.",
@@ -1778,7 +1799,8 @@ window.FLASHCARD_UNITS = {
       "text": "entity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 75
    },
    {
     "question": "Some people say it is wrong to sell products tested on animals. Whether this is __________ or not is a hard question that scientists and the public still argue about.",
@@ -1800,7 +1822,8 @@ window.FLASHCARD_UNITS = {
       "text": "erect"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 76
    },
    {
     "question": "Birds did not always look the way they do now. Scientists believe their slow __________ from small dinosaurs took millions of years and countless tiny changes.",
@@ -1822,7 +1845,8 @@ window.FLASHCARD_UNITS = {
       "text": "escalation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 81
    },
    {
     "question": "Phones have changed a lot since the first one was made. They continue to __________ every year, and the newest models can do things nobody imagined before.",
@@ -1844,7 +1868,8 @@ window.FLASHCARD_UNITS = {
       "text": "evolve"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 82
    },
    {
     "question": "Old buses are bad for the air in big cities. They __________ thick black smoke that makes people cough, so the city is replacing them with electric buses.",
@@ -1866,7 +1891,8 @@ window.FLASHCARD_UNITS = {
       "text": "entitle"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 1
    },
    {
     "question": "The students jumped and cheered when they heard about the trip to the amusement park. The teacher was happy to see so much __________ for the plan.",
@@ -1888,7 +1914,8 @@ window.FLASHCARD_UNITS = {
       "text": "enthusiasm"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 10
    },
    {
     "question": "Grace is so beautiful and smart that other girls sometimes feel bad around her. However, she is kind to everyone, so their __________ soon turns into friendship.",
@@ -1910,7 +1937,8 @@ window.FLASHCARD_UNITS = {
       "text": "essence"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 25
    },
    {
     "question": "The volcano exploded early this morning and sent ash high into the sky. The __________ was so powerful that people heard the sound from a hundred kilometers away.",
@@ -1932,7 +1960,8 @@ window.FLASHCARD_UNITS = {
       "text": "eruption"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 57
    },
    {
     "question": "Many people say a good breakfast is the most important meal of the day. Eating well in the morning is __________ for students who need energy to study until noon.",
@@ -1954,7 +1983,8 @@ window.FLASHCARD_UNITS = {
       "text": "envious"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 65
    }
   ]
  }

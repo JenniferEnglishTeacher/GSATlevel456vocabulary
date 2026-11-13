@@ -1215,4 +1215,10 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .head-tag { display: inline-block; margin-left: 8px; padding: 1px 8px; border-radius: 999px; background: #fff1bb; color: #7a5200; font-size: 12px; font-weight: 700; vertical-align: middle; }
 .card-counter { align-self: center; color: var(--muted); font-size: 14px; font-weight: 700; margin-left: 4px; }
 .quiz-link.recorded { background: #17202a; box-shadow: 0 8px 20px rgba(23, 32, 42, 0.25); }
+.quiz-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.quiz-sent { color: #3f7d4a; font-weight: 700; font-size: 14px; }
+.tracker-box { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); }
+.tracker-box b { color: var(--ink); }
+.tracker-box button { border: 0; background: none; color: var(--teal-dark); text-decoration: underline; cursor: pointer; font: inherit; padding: 0; }
+.teacher-link { display: block; margin: 28px 0 8px; text-align: center; color: var(--muted); font-size: 13px; }
 .quiz-link.recorded:hover { background: #000; }

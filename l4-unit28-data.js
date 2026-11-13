@@ -1211,7 +1211,8 @@ window.FLASHCARD_UNITS = {
       "text": "nutritious"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "In the army, every soldier must follow orders at once without asking why. This kind of total __________ is necessary when lives depend on quick action.",
@@ -1233,7 +1234,8 @@ window.FLASHCARD_UNITS = {
       "text": "occupation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 4
    },
    {
     "question": "Max is the easiest dog I have ever trained. He is so __________ that he sits, stays, and comes back the moment I say the word.",
@@ -1255,7 +1257,8 @@ window.FLASHCARD_UNITS = {
       "text": "offensive"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "The teacher asked if anyone was against having the test on Monday instead of Friday. Nobody raised an __________, so the date was changed right away.",
@@ -1277,7 +1280,8 @@ window.FLASHCARD_UNITS = {
       "text": "objection"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 10
    },
    {
     "question": "Before we start the project, let us make sure everyone understands what we want to achieve. Our main __________ is to clean up the river by the end of the year.",
@@ -1299,7 +1303,8 @@ window.FLASHCARD_UNITS = {
       "text": "offense"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 11
    },
    {
     "question": "The doctor was not sure what was wrong with the little boy. She kept him in the hospital for one more night of careful __________ before deciding on any treatment.",
@@ -1321,7 +1326,8 @@ window.FLASHCARD_UNITS = {
       "text": "option"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 17
    },
    {
     "question": "Mary wants to study abroad, but her family does not have much money. For many students like her, the cost is the biggest __________ to their dreams.",
@@ -1343,7 +1349,8 @@ window.FLASHCARD_UNITS = {
       "text": "orbit"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 21
    },
    {
     "question": "You cannot drive a scooter in Taiwan just because you turned eighteen. First you have to pass two tests and __________ a license from the office.",
@@ -1365,7 +1372,8 @@ window.FLASHCARD_UNITS = {
       "text": "offend"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 24
    },
    {
     "question": "Grandpa is in very good health for a man of eighty. Apart from an __________ cold in winter, he has not seen a doctor in years.",
@@ -1387,7 +1395,8 @@ window.FLASHCARD_UNITS = {
       "text": "oval"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 27
    },
    {
     "question": "Please fill in every line on the form before you see the nurse. Besides your name and address, you also need to write your __________, such as teacher or driver.",
@@ -1409,7 +1418,8 @@ window.FLASHCARD_UNITS = {
       "text": "objection"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 31
    },
    {
     "question": "This old piano is too big for our small living room. It will __________ half of the space, and there will be no room left for the sofa.",
@@ -1431,7 +1441,8 @@ window.FLASHCARD_UNITS = {
       "text": "offend"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "Be careful when you make jokes about someone's hometown or family. Even if you do not mean to, you may __________ people and hurt their feelings.",
@@ -1453,7 +1464,8 @@ window.FLASHCARD_UNITS = {
       "text": "obtain"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 36
    },
    {
     "question": "Stealing from a store is not a small mistake that can simply be forgotten. It is a serious __________, and the police may take the person to court.",
@@ -1475,7 +1487,8 @@ window.FLASHCARD_UNITS = {
       "text": "orchestra"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 37
    },
    {
     "question": "The comedian's joke about women made many people in the audience angry. They found it __________ and some of them even walked out of the show.",
@@ -1497,7 +1510,8 @@ window.FLASHCARD_UNITS = {
       "text": "outstanding"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "My grandmother does not like modern pop music at all. She prefers Taiwanese __________, in which singers in beautiful costumes sing and tell old stories on stage.",
@@ -1519,7 +1533,8 @@ window.FLASHCARD_UNITS = {
       "text": "opera"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 42
    },
    {
     "question": "The city wants to build a tall hotel next to the quiet old temple. Many residents strongly __________ the plan and have signed a letter to the mayor.",
@@ -1541,7 +1556,8 @@ window.FLASHCARD_UNITS = {
       "text": "orbit"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 45
    },
    {
     "question": "All the tickets for the Saturday show are already sold out. Another __________ for the fans is to watch the concert live online, which costs much less anyway.",
@@ -1563,7 +1579,8 @@ window.FLASHCARD_UNITS = {
       "text": "option"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 50
    },
    {
     "question": "The new weather satellite was sent into space last week. It is now in __________ around the Earth and will send back pictures of typhoons every few hours.",
@@ -1585,7 +1602,8 @@ window.FLASHCARD_UNITS = {
       "text": "orchestra"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 54
    },
    {
     "question": "More than sixty musicians sat on the stage with their violins, flutes, and drums. When the conductor raised his hands, the whole __________ began to play.",
@@ -1607,7 +1625,8 @@ window.FLASHCARD_UNITS = {
       "text": "orientation"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "New students should come to school on August 28, two days before classes begin. At the __________, teachers will explain the rules and show everyone around the campus.",
@@ -1629,7 +1648,8 @@ window.FLASHCARD_UNITS = {
       "text": "occupation"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 61
    },
    {
     "question": "Tom lost both his parents in a car accident when he was only five. He grew up as an __________ in his uncle's home in the countryside.",
@@ -1651,7 +1671,8 @@ window.FLASHCARD_UNITS = {
       "text": "musician"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 64
    },
    {
     "question": "Remember to bring your student ID card to the exam tomorrow morning. __________, the teacher will not let you into the room, and you will miss the test.",
@@ -1673,7 +1694,8 @@ window.FLASHCARD_UNITS = {
       "text": "otherwise"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 67
    },
    {
     "question": "The two teams were equally strong, and the score was tied until the last minute. Nobody could guess the __________ of the game before the final whistle.",
@@ -1695,7 +1717,8 @@ window.FLASHCARD_UNITS = {
       "text": "option"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 70
    },
    {
     "question": "Lisa got the highest score in the whole country on the English test. Her teachers say she is the most __________ student they have taught in twenty years.",
@@ -1717,7 +1740,8 @@ window.FLASHCARD_UNITS = {
       "text": "oval"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 73
    },
    {
     "question": "This mirror is not round, and it is not square either. Its shape is __________, like an egg, so it looks a little longer than it is wide.",
@@ -1739,7 +1763,8 @@ window.FLASHCARD_UNITS = {
       "text": "optional"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 76
    },
    {
     "question": "Teenagers grow fast, so what they eat every day really matters. A school lunch with good __________ should include rice, vegetables, meat or fish, and some fruit.",
@@ -1761,7 +1786,8 @@ window.FLASHCARD_UNITS = {
       "text": "nutrition"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 1
    },
    {
     "question": "Every driver has to stop and wait when the traffic light turns red. If you do not __________ this simple rule, you may cause a serious accident.",
@@ -1783,7 +1809,8 @@ window.FLASHCARD_UNITS = {
       "text": "oppose"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 7
    },
    {
     "question": "For his science project, Ken spent a month watching the birds in the park. He wanted to __________ how they build their nests and feed their babies.",
@@ -1805,7 +1832,8 @@ window.FLASHCARD_UNITS = {
       "text": "observe"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 18
    },
    {
     "question": "You cannot miss the new bank when you walk down Main Street. It is on the __________ side of the road from the post office, right next to the bakery.",
@@ -1827,7 +1855,8 @@ window.FLASHCARD_UNITS = {
       "text": "outstanding"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "Students do not have to join the Saturday art class if they do not want to. It is __________, so only those who are interested need to sign up.",
@@ -1849,7 +1878,8 @@ window.FLASHCARD_UNITS = {
       "text": "obedient"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    }
   ]
  }

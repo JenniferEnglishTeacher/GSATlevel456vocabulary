@@ -1361,7 +1361,8 @@ window.FLASHCARD_UNITS = {
       "text": "ancestor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "The famous singer never talks to reporters directly. If you want to invite her to a show, you must first call her __________ and ask about her schedule.",
@@ -1383,7 +1384,8 @@ window.FLASHCARD_UNITS = {
       "text": "agent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 1
    },
    {
     "question": "Do not go near that big brown dog when it is eating its dinner. It becomes very __________ and may bite anyone who tries to touch its food bowl.",
@@ -1405,7 +1407,8 @@ window.FLASHCARD_UNITS = {
       "text": "annual"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 5
    },
    {
     "question": "Everyone in the office likes working with Mr. Wang. He is friendly and __________, and he never gets angry even when there are problems at work.",
@@ -1427,7 +1430,8 @@ window.FLASHCARD_UNITS = {
       "text": "apparent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 9
    },
    {
     "question": "Stores in Taiwan always check your ID card before selling beer or wine. By law, people under eighteen are not allowed to buy any kind of __________.",
@@ -1449,7 +1453,8 @@ window.FLASHCARD_UNITS = {
       "text": "allowance"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 14
    },
    {
     "question": "A lifeguard's job is not easy at all. He has to stay __________ for hours, because a swimmer can get into danger in only a few seconds.",
@@ -1471,7 +1476,8 @@ window.FLASHCARD_UNITS = {
       "text": "amateur"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "I want to buy a new video game, but I do not have enough money yet. My weekly __________ is only two hundred dollars, so I need to save for a month.",
@@ -1493,7 +1499,8 @@ window.FLASHCARD_UNITS = {
       "text": "allowance"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 22
    },
    {
     "question": "The main road up the mountain was closed because of a landslide. The police asked all the drivers to take an __________ road through the old town instead.",
@@ -1515,7 +1522,8 @@ window.FLASHCARD_UNITS = {
       "text": "amateur"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 27
    },
    {
     "question": "My uncle plays baseball with his friends every Sunday morning just for fun. He is not a professional player, only an __________ who loves the game very much.",
@@ -1537,7 +1545,8 @@ window.FLASHCARD_UNITS = {
       "text": "agent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 32
    },
    {
     "question": "The directions on the sign were __________, so half of the tourists turned left and the other half turned right. Nobody knew which way was correct.",
@@ -1559,7 +1568,8 @@ window.FLASHCARD_UNITS = {
       "text": "ambitious"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 35
    },
    {
     "question": "My older sister wants to be the youngest manager in her whole company. She is very __________ and works late almost every night to reach her goal.",
@@ -1581,7 +1591,8 @@ window.FLASHCARD_UNITS = {
       "text": "ambitious"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 38
    },
    {
     "question": "The baby was crying loudly at the next table in the restaurant. My brother tried to __________ her by making funny faces, and soon she was laughing instead.",
@@ -1603,7 +1614,8 @@ window.FLASHCARD_UNITS = {
       "text": "appoint"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 42
    },
    {
     "question": "The teacher looked carefully at every student's answer sheet. After a long __________ of the results, she found that most mistakes were in the listening part.",
@@ -1625,7 +1637,8 @@ window.FLASHCARD_UNITS = {
       "text": "anniversary"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 47
    },
    {
     "question": "The river water looked clean, but the scientists were not sure it was safe. They took samples back to the lab to __________ them more carefully.",
@@ -1647,7 +1660,8 @@ window.FLASHCARD_UNITS = {
       "text": "annoy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 48
    },
    {
     "question": "During the Tomb Sweeping Festival, my family goes back to the countryside. We clean the grave of every __________ and offer fruit and flowers to show our respect.",
@@ -1669,7 +1683,8 @@ window.FLASHCARD_UNITS = {
       "text": "analyst"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "My grandparents got married in a small church on June 10, 1976. Every year on that day, they celebrate their wedding __________ with a special dinner at home.",
@@ -1691,7 +1706,8 @@ window.FLASHCARD_UNITS = {
       "text": "ambition"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 54
    },
    {
     "question": "Please do not talk loudly on your phone in the library. It will __________ the people around you who are trying to read and study quietly.",
@@ -1713,7 +1729,8 @@ window.FLASHCARD_UNITS = {
       "text": "apply"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 57
    },
    {
     "question": "Our school holds a big sports day once every year in the middle of November. This __________ event is the one that students look forward to most.",
@@ -1735,7 +1752,8 @@ window.FLASHCARD_UNITS = {
       "text": "annual"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 61
    },
    {
     "question": "Before the big exam, many students cannot sleep well and feel sick. Teachers say that a little __________ is normal, but too much can hurt your score.",
@@ -1757,7 +1775,8 @@ window.FLASHCARD_UNITS = {
       "text": "agency"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 64
    },
    {
     "question": "We waited more than an hour for our food at the restaurant. The manager came to our table with an __________ and gave us free drinks.",
@@ -1779,7 +1798,8 @@ window.FLASHCARD_UNITS = {
       "text": "ancestry"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "Tom's face was red and he could not stop smiling. It was __________ to everyone in the room that he had received some very good news.",
@@ -1801,7 +1821,8 @@ window.FLASHCARD_UNITS = {
       "text": "apparent"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 72
    },
    {
     "question": "The new café near the station needs only two waiters, but many people want the job. The owner will interview every __________ before she makes her final decision.",
@@ -1823,7 +1844,8 @@ window.FLASHCARD_UNITS = {
       "text": "agent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 75
    },
    {
     "question": "If you want to join the summer English camp, you must fill out a form. Please send your __________ to the office before the end of this month.",
@@ -1845,7 +1867,8 @@ window.FLASHCARD_UNITS = {
       "text": "aggression"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 76
    },
    {
     "question": "The old manager will leave the company at the end of next month. The president plans to __________ Ms. Lin as the new manager because of her excellent work.",
@@ -1867,7 +1890,8 @@ window.FLASHCARD_UNITS = {
       "text": "appoint"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 81
    },
    {
     "question": "Our teacher stayed after school every day to help us prepare for the exam. We made her a big card to show our __________ for her hard work.",
@@ -1889,7 +1913,8 @@ window.FLASHCARD_UNITS = {
       "text": "apology"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 85
    },
    {
     "question": "Both sides talked for many hours about the price of the fruit and the shipping. At last, the two companies signed an __________ and shook hands happily.",
@@ -1911,7 +1936,8 @@ window.FLASHCARD_UNITS = {
       "text": "agenda"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 12
    },
    {
     "question": "My back tooth has hurt for three days now, and the pain is getting worse. I should call the dentist and make an __________ for tomorrow morning.",
@@ -1933,7 +1959,8 @@ window.FLASHCARD_UNITS = {
       "text": "appointment"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 82
    },
    {
     "question": "My mother always worries when I come home late without calling her first. Last night she looked very __________ because my phone was off for two hours.",
@@ -1955,7 +1982,8 @@ window.FLASHCARD_UNITS = {
       "text": "annual"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 65
    },
    {
     "question": "I broke my best friend's new headphones by accident yesterday afternoon. I know I should __________ to her today and offer to buy her a new pair.",
@@ -1977,7 +2005,8 @@ window.FLASHCARD_UNITS = {
       "text": "alternate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 69
    },
    {
     "question": "The speaker told a funny story about his first day at work. Everyone in the room found it so __________ that they laughed for several minutes.",
@@ -1999,7 +2028,8 @@ window.FLASHCARD_UNITS = {
       "text": "ambiguous"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 46
    }
   ]
  }

@@ -1301,7 +1301,8 @@ window.FLASHCARD_UNITS = {
       "text": "flaw"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 0
    },
    {
     "question": "After the new MRT station opened, more and more people came to the old street. Small shops and cafés there began to __________, and the owners were very happy.",
@@ -1323,7 +1324,8 @@ window.FLASHCARD_UNITS = {
       "text": "flunk"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 4
    },
    {
     "question": "Jason played games every night instead of studying for his history test. He was not surprised when he saw that he had managed to __________ it.",
@@ -1345,7 +1347,8 @@ window.FLASHCARD_UNITS = {
       "text": "fume"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 7
    },
    {
     "question": "The two chess players have faced each other in ten finals over the past five years. Each sees the other as his greatest __________ on the board.",
@@ -1367,7 +1370,8 @@ window.FLASHCARD_UNITS = {
       "text": "garment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 10
    },
    {
     "question": "My grandmother told me that a giant sleeps under the mountain near our village. Stories like this are part of the local __________ and are passed down for hundreds of years.",
@@ -1389,7 +1393,8 @@ window.FLASHCARD_UNITS = {
       "text": "folklore"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 13
    },
    {
     "question": "The team from Japan has won the championship five times in a row. They will be a truly __________ opponent, so our players must prepare very carefully.",
@@ -1411,7 +1416,8 @@ window.FLASHCARD_UNITS = {
       "text": "fragrant"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 17
    },
    {
     "question": "The class wants to raise money for the children's hospital, but nobody knows how to start. The teacher asked us to __________ a clear plan with dates and jobs for everyone.",
@@ -1433,7 +1439,8 @@ window.FLASHCARD_UNITS = {
       "text": "gallop"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 20
    },
    {
     "question": "Many young people leave the small fishing village to find jobs in the city. However, Mr. Lin says he will never __________ the place where he was born.",
@@ -1455,7 +1462,8 @@ window.FLASHCARD_UNITS = {
       "text": "fuse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 24
    },
    {
     "question": "The famous singer has not given a concert in Taiwan for ten years. Fans are so excited about her __________ show that tickets sold out in five minutes.",
@@ -1477,7 +1485,8 @@ window.FLASHCARD_UNITS = {
       "text": "fragile"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 27
    },
    {
     "question": "The old city wall was first built eight hundred years ago to keep enemies out. Workers added more stones each year to __________ it, and it still stands strong today.",
@@ -1499,7 +1508,8 @@ window.FLASHCARD_UNITS = {
       "text": "flunk"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 31
    },
    {
     "question": "On my uncle's farm, you can see chickens, ducks, and geese walking around freely. He sells the eggs of these __________ at the market every weekend.",
@@ -1521,7 +1531,8 @@ window.FLASHCARD_UNITS = {
       "text": "foe"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 35
    },
    {
     "question": "Ben fell off his bicycle on the way to school and could not move his arm. The doctor looked at the X-ray and found a small __________ in the bone.",
@@ -1543,7 +1554,8 @@ window.FLASHCARD_UNITS = {
       "text": "fuss"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 38
    },
    {
     "question": "My mother planted jasmine beside the front door last spring. In the evening, the sweet __________ of the flowers fills the whole house, and everyone loves it.",
@@ -1565,7 +1577,8 @@ window.FLASHCARD_UNITS = {
       "text": "fragrance"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 42
    },
    {
     "question": "Grandma was baking fresh bread when we got home from school this afternoon. The whole kitchen was warm and __________, so we ran straight to the table.",
@@ -1587,7 +1600,8 @@ window.FLASHCARD_UNITS = {
       "text": "furious"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 43
    },
    {
     "question": "Five minutes before the show, the main actress could not find her costume anywhere. She became __________ and ran around the dressing room shouting for help.",
@@ -1609,7 +1623,8 @@ window.FLASHCARD_UNITS = {
       "text": "frantic"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    },
    {
     "question": "My cousin reads every single article about new phones and lines up all night when a new model comes out. He is a real technology __________.",
@@ -1631,7 +1646,8 @@ window.FLASHCARD_UNITS = {
       "text": "fuse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 49
    },
    {
     "question": "We left for Kaohsiung at seven, but there was an accident near Taichung. Cars on the __________ moved so slowly that the trip took six hours instead of three.",
@@ -1653,7 +1669,8 @@ window.FLASHCARD_UNITS = {
       "text": "fortress"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 53
    },
    {
     "question": "Push a heavy box across a rough floor and it stops as soon as you let go. This happens because of __________ between the box and the floor.",
@@ -1675,7 +1692,8 @@ window.FLASHCARD_UNITS = {
       "text": "fragrance"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 57
    },
    {
     "question": "My sister borrowed my new jacket without asking and spilled coffee on it. I did not say a word, but I continued to __________ about it all evening.",
@@ -1697,7 +1715,8 @@ window.FLASHCARD_UNITS = {
       "text": "gallop"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 60
    },
    {
     "question": "The manager found out that a worker had been stealing money from the store for months. He shook with __________ and told the man to leave at once.",
@@ -1719,7 +1738,8 @@ window.FLASHCARD_UNITS = {
       "text": "fragrance"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 63
    },
    {
     "question": "All the lights in the house suddenly went off while we were watching TV. Dad opened the electric box and found that a __________ had blown.",
@@ -1741,7 +1761,8 @@ window.FLASHCARD_UNITS = {
       "text": "fuse"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 67
    },
    {
     "question": "It was only a tiny cut on his finger, but Tony cried and shouted for a doctor. His mother told him not to make such a __________ about nothing.",
@@ -1763,7 +1784,8 @@ window.FLASHCARD_UNITS = {
       "text": "foe"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 71
    },
    {
     "question": "The young horse stood quietly until the farmer opened the gate. Then it began to __________ across the field so fast that we could hardly follow it with our eyes.",
@@ -1785,7 +1807,8 @@ window.FLASHCARD_UNITS = {
       "text": "fortify"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 75
    },
    {
     "question": "In the old movie, a __________ in a black hat robs banks with his group of armed men. In the end, the police catch him after a long car chase.",
@@ -1807,7 +1830,8 @@ window.FLASHCARD_UNITS = {
       "text": "gangster"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 78
    },
    {
     "question": "This silk dress cost my aunt a lot of money, so she takes very good care of it. The label says the __________ must be washed by hand in cold water.",
@@ -1829,7 +1853,8 @@ window.FLASHCARD_UNITS = {
       "text": "fracture"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 81
    },
    {
     "question": "Dad told my brother to be home by ten, but he did not come back until two in the morning. Dad was __________ and took away his phone for a month.",
@@ -1851,7 +1876,8 @@ window.FLASHCARD_UNITS = {
       "text": "flawless"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 64
    },
    {
     "question": "The box contains old glass cups that my grandmother gave us. Please carry it slowly and carefully because the cups are very __________ and break easily.",
@@ -1873,7 +1899,8 @@ window.FLASHCARD_UNITS = {
       "text": "frantic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 41
    },
    {
     "question": "The pianist did not miss a single note during the whole concert. Critics called her performance __________, and the audience stood up and clapped for five minutes.",
@@ -1895,7 +1922,8 @@ window.FLASHCARD_UNITS = {
       "text": "forthcoming"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 1
    },
    {
     "question": "My little sister refuses to eat anything green, anything with sauce, or anything she has never seen before. She is such a __________ eater that dinner takes forever.",
@@ -1917,7 +1945,8 @@ window.FLASHCARD_UNITS = {
       "text": "fussy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 74
    },
    {
     "question": "In math class we learned how to find the area of a circle. Once you remember the __________, you only need the radius to get the answer.",
@@ -1939,7 +1968,8 @@ window.FLASHCARD_UNITS = {
       "text": "fracture"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 21
    }
   ]
  }

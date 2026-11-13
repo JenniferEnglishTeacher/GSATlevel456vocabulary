@@ -1271,7 +1271,8 @@ window.FLASHCARD_UNITS = {
       "text": "texture"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "Two students were caught fighting in the hallway after lunch. The principal decided to __________ both of them from school for three days as a punishment.",
@@ -1293,7 +1294,8 @@ window.FLASHCARD_UNITS = {
       "text": "tempt"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 5
    },
    {
     "question": "The small town has only one well, and it is drying up quickly. It can no longer __________ the hundreds of new families that have moved there this year.",
@@ -1315,7 +1317,8 @@ window.FLASHCARD_UNITS = {
       "text": "testify"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 10
    },
    {
     "question": "Cutting down the whole forest for wood will leave nothing for our grandchildren. We need a more __________ way to use the trees without destroying them.",
@@ -1337,7 +1340,8 @@ window.FLASHCARD_UNITS = {
       "text": "symbolic"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 11
    },
    {
     "question": "I do not like the sandwich my mother made for me today. Would you like to __________ lunches with me? I think you will enjoy the egg and cheese.",
@@ -1359,7 +1363,8 @@ window.FLASHCARD_UNITS = {
       "text": "swap"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 15
    },
    {
     "question": "The two leaders shook hands in front of the cameras after years of war. It was only a __________ act, but it gave people on both sides new hope for peace.",
@@ -1381,7 +1386,8 @@ window.FLASHCARD_UNITS = {
       "text": "theoretical"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "My brother has had a high fever and a sore throat since yesterday morning. The doctor says that a fever is the most common __________ of the flu and told him to rest at home.",
@@ -1403,7 +1409,8 @@ window.FLASHCARD_UNITS = {
       "text": "textile"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 22
    },
    {
     "question": "Some people feel sad and lonely for months after they stop working. Doctors say this group of feelings is so common that they have given it a name: retirement __________.",
@@ -1425,7 +1432,8 @@ window.FLASHCARD_UNITS = {
       "text": "syndrome"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 25
    },
    {
     "question": "Traffic in the city gets worse every year, and people are tired of waiting in their cars. The new mayor says she will __________ the problem by adding more buses.",
@@ -1447,7 +1455,8 @@ window.FLASHCARD_UNITS = {
       "text": "tempt"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 28
    },
    {
     "question": "Our coach has a clever __________ for beating stronger teams. He tells us to pass the ball quickly and never let the other players rest for even a minute.",
@@ -1469,7 +1478,8 @@ window.FLASHCARD_UNITS = {
       "text": "texture"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 32
    },
    {
     "question": "I put my earphones in my pocket without rolling them up this morning. Now the wires are a terrible __________ , and it will take ten minutes to untie them.",
@@ -1491,7 +1501,8 @@ window.FLASHCARD_UNITS = {
       "text": "tactic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 35
    },
    {
     "question": "The bakery puts its freshest cakes right in the window on purpose. The sweet smell and the beautiful colors __________ people to walk inside and buy something.",
@@ -1513,7 +1524,8 @@ window.FLASHCARD_UNITS = {
       "text": "terminate"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 39
    },
    {
     "question": "During the test, Mark could see the answers on Lisa's paper very clearly. He felt a strong __________ to copy them, but he decided to be honest and look away.",
@@ -1535,7 +1547,8 @@ window.FLASHCARD_UNITS = {
       "text": "testimony"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 40
    },
    {
     "question": "Our plane to Osaka leaves at nine, so we need to arrive at the airport early. Which __________ does the airline use? I want to make sure we go to the right building.",
@@ -1557,7 +1570,8 @@ window.FLASHCARD_UNITS = {
       "text": "terminal"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 44
    },
    {
     "question": "Big dogs __________ my little sister, so she always hides behind our mother when one comes near. We are trying to help her feel braver by visiting a friend's gentle puppy.",
@@ -1579,7 +1593,8 @@ window.FLASHCARD_UNITS = {
       "text": "sustain"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 49
    },
    {
     "question": "Mrs. Lin saw the car accident happen right in front of her shop. The lawyer has asked her to __________ in court next month about exactly what she saw that night.",
@@ -1601,7 +1616,8 @@ window.FLASHCARD_UNITS = {
       "text": "terminate"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 53
    },
    {
     "question": "This homemade bread has a wonderful __________. The outside is hard and crunchy, but the inside is so soft that it almost melts in your mouth.",
@@ -1623,7 +1639,8 @@ window.FLASHCARD_UNITS = {
       "text": "tactic"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 56
    },
    {
     "question": "More and more bicycles have been stolen near the train station this year. Because of this rise in __________ , the police have put new cameras around the parking area.",
@@ -1645,7 +1662,8 @@ window.FLASHCARD_UNITS = {
       "text": "theology"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 59
    },
    {
     "question": "My uncle wanted to understand the Bible more deeply and perhaps become a priest. He is now studying __________ at a famous old university in Europe.",
@@ -1667,7 +1685,8 @@ window.FLASHCARD_UNITS = {
       "text": "thesis"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 62
    },
    {
     "question": "The students learned a lot about how engines work from their textbooks. However, the lessons were too __________ , and nobody was able to fix a real motorcycle.",
@@ -1689,7 +1708,8 @@ window.FLASHCARD_UNITS = {
       "text": "terrified"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 65
    },
    {
     "question": "After the car accident, my aunt could not move her left arm very well. A __________ came to her house every week to help her exercise it until it was strong again.",
@@ -1711,7 +1731,8 @@ window.FLASHCARD_UNITS = {
       "text": "theologian"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 69
    },
    {
     "question": "My cousin was badly hurt in a bicycle accident last spring. After six months of __________ , he can finally walk without a stick and even run a little.",
@@ -1733,7 +1754,8 @@ window.FLASHCARD_UNITS = {
       "text": "therapy"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 70
    },
    {
     "question": "The company now turns off every computer and light at eight in the evening. It saves a lot of electricity and __________ cuts its power bill by almost a third.",
@@ -1755,7 +1777,8 @@ window.FLASHCARD_UNITS = {
       "text": "therefore"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 73
    },
    {
     "question": "My sister has been in the library every day for the past two months. She must hand in her master's __________ next week, and it is already over one hundred pages long.",
@@ -1777,7 +1800,8 @@ window.FLASHCARD_UNITS = {
       "text": "thesis"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 76
    },
    {
     "question": "The runner fell down in pain halfway through the race. The doctor said that she had pulled a muscle in her left __________ , just above the knee.",
@@ -1799,7 +1823,8 @@ window.FLASHCARD_UNITS = {
       "text": "terminal"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 80
    },
    {
     "question": "Our school asked all the students what they thought about the new lunch menu. According to the __________ , most of them want more fruit and less fried food.",
@@ -1821,7 +1846,8 @@ window.FLASHCARD_UNITS = {
       "text": "symbol"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 3
    },
    {
     "question": "In many countries, a red rose is a __________ of love. That is why so many people give roses to the person they love on Valentine's Day.",
@@ -1843,7 +1869,8 @@ window.FLASHCARD_UNITS = {
       "text": "symbol"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 19
    },
    {
     "question": "The company was not happy with the cleaning service because the offices were still dirty. They decided to __________ the contract at the end of this month.",
@@ -1865,7 +1892,8 @@ window.FLASHCARD_UNITS = {
       "text": "tempt"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 47
    },
    {
     "question": "The little boy was __________ when he saw the big dog running toward him. He screamed and climbed up onto the nearest table as fast as he could.",
@@ -1887,7 +1915,8 @@ window.FLASHCARD_UNITS = {
       "text": "terrified"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 50
    },
    {
     "question": "Nobody has proved yet why the bees are disappearing so quickly. The most popular __________ is that new chemicals used on farms are making them sick.",
@@ -1909,7 +1938,8 @@ window.FLASHCARD_UNITS = {
       "text": "therapy"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 66
    }
   ]
  }

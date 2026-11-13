@@ -1301,7 +1301,8 @@ window.FLASHCARD_UNITS = {
       "text": "contest"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 0
    },
    {
     "question": "My grandfather does not need a big house or a new car to be happy. Sitting in his garden with a cup of tea gives him complete __________.",
@@ -1323,7 +1324,8 @@ window.FLASHCARD_UNITS = {
       "text": "contentment"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 1
    },
    {
     "question": "Our school is holding an English speech __________ next month. The winner will get a trophy and go on to compete against students from other schools.",
@@ -1345,7 +1347,8 @@ window.FLASHCARD_UNITS = {
       "text": "context"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 6
    },
    {
     "question": "The word \"cool\" can mean \"a little cold\" or \"very good.\" You have to look at the __________, the words around it, to know which meaning is being used.",
@@ -1367,7 +1370,8 @@ window.FLASHCARD_UNITS = {
       "text": "contribution"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 10
    },
    {
     "question": "The __________ interruptions from my little brother made it hard to finish my homework. He came into my room every five minutes to ask a question.",
@@ -1389,7 +1393,8 @@ window.FLASHCARD_UNITS = {
       "text": "copper"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 14
    },
    {
     "question": "The heavy rain on the island has been __________ since Monday morning; it has not stopped for even one minute. The rivers are now dangerously high.",
@@ -1411,7 +1416,8 @@ window.FLASHCARD_UNITS = {
       "text": "conventional"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 15
    },
    {
     "question": "Everyone thought the test would be very hard this time. However, __________ to what we expected, the questions were easy, and most of us finished early.",
@@ -1433,7 +1439,8 @@ window.FLASHCARD_UNITS = {
       "text": "convenient"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 20
    },
    {
     "question": "The two sisters are very different. One is loud and loves parties, while the other is quiet and loves books, so there is a clear __________ between them.",
@@ -1455,7 +1462,8 @@ window.FLASHCARD_UNITS = {
       "text": "cottage"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 24
    },
    {
     "question": "Each student was asked to __________ one dollar to the class fund. With the money, we bought a new football and some books for the reading corner.",
@@ -1477,7 +1485,8 @@ window.FLASHCARD_UNITS = {
       "text": "converse"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 28
    },
    {
     "question": "Dr. Lee was given a medal for her great __________ to medicine. She found a new way to treat heart disease that has saved thousands of lives.",
@@ -1499,7 +1508,8 @@ window.FLASHCARD_UNITS = {
       "text": "correspondence"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 29
    },
    {
     "question": "I love the __________ of living near the subway station. I can get to school in ten minutes and go shopping without using a bus or a taxi.",
@@ -1521,7 +1531,8 @@ window.FLASHCARD_UNITS = {
       "text": "convenience"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 33
    },
    {
     "question": "In Taiwan, it is a __________ to give red envelopes with money to children at Chinese New Year. Most families have done this for hundreds of years.",
@@ -1543,7 +1554,8 @@ window.FLASHCARD_UNITS = {
       "text": "correspondent"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 39
    },
    {
     "question": "My grandmother is very __________ about food. She cooks rice and soup every single day and refuses to try pizza, hamburgers, or any other new dishes.",
@@ -1565,7 +1577,8 @@ window.FLASHCARD_UNITS = {
       "text": "cordless"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 40
    },
    {
     "question": "After only one year of study, Linda can already __________ with Japanese people easily. She talks about the weather, food, and her hobbies without any trouble.",
@@ -1587,7 +1600,8 @@ window.FLASHCARD_UNITS = {
       "text": "converse"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 44
    },
    {
     "question": "A good speaker does not only use words. She also uses her face and hands to __________ her feelings so that everyone in the room can understand her.",
@@ -1609,7 +1623,8 @@ window.FLASHCARD_UNITS = {
       "text": "contribute"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 48
    },
    {
     "question": "My parents did not want me to join the trip to Japan. It took me three weeks to __________ them that I was old enough to travel with my friends.",
@@ -1631,7 +1646,8 @@ window.FLASHCARD_UNITS = {
       "text": "continue"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 51
    },
    {
     "question": "If the two teams __________ instead of fighting, they can finish the project in one week. Working alone, each team would need at least a month.",
@@ -1653,7 +1669,8 @@ window.FLASHCARD_UNITS = {
       "text": "cooperate"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 56
    },
    {
     "question": "The school festival was a great success thanks to the __________ of students, teachers, and parents. Everyone did his or her part willingly and with a smile.",
@@ -1675,7 +1692,8 @@ window.FLASHCARD_UNITS = {
       "text": "contentment"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 57
    },
    {
     "question": "The new student is very __________ in class. Whenever the group needs help, she is the first to say yes and share the work with her classmates.",
@@ -1697,7 +1715,8 @@ window.FLASHCARD_UNITS = {
       "text": "continual"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 58
    },
    {
     "question": "When both of her parents got sick last month, Jane had to __________ with cooking, cleaning, and homework by herself. Luckily, her kind neighbors helped her.",
@@ -1719,7 +1738,8 @@ window.FLASHCARD_UNITS = {
       "text": "contest"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 62
    },
    {
     "question": "Most of the electric wires in your house are made of __________. This soft reddish-brown metal lets electricity pass through it very easily and does not cost much.",
@@ -1741,7 +1761,8 @@ window.FLASHCARD_UNITS = {
       "text": "copper"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 65
    },
    {
     "question": "The lamp will not turn on because its __________ is broken near the plug. Dad will buy a new one at the hardware store and connect it tonight.",
@@ -1763,7 +1784,8 @@ window.FLASHCARD_UNITS = {
       "text": "copper"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 68
    },
    {
     "question": "The number on your ticket should __________ to the number on your seat. If they are different, please ask a worker in the theater for help.",
@@ -1785,7 +1807,8 @@ window.FLASHCARD_UNITS = {
       "text": "converse"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 72
    },
    {
     "question": "For the school play, Amy will wear a long purple __________ and a gold crown. Her mother spent two whole weekends sewing it for her by hand.",
@@ -1807,7 +1830,8 @@ window.FLASHCARD_UNITS = {
       "text": "cord"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 78
    },
    {
     "question": "My grandparents live in a small stone __________ near the lake. It has only two rooms, but we love spending our summer holidays there every year.",
@@ -1829,7 +1853,8 @@ window.FLASHCARD_UNITS = {
       "text": "contest"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 82
    },
    {
     "question": "Each __________ in the cooking show has only thirty minutes to make a dish. The three judges then taste every dish and choose the best one.",
@@ -1851,7 +1876,8 @@ window.FLASHCARD_UNITS = {
       "text": "contestant"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 8
    },
    {
     "question": "Her excuse for being late again was not very __________. The teacher did not believe her and asked her to bring a note from her parents.",
@@ -1873,7 +1899,8 @@ window.FLASHCARD_UNITS = {
       "text": "continuous"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 54
    },
    {
     "question": "Our news channel's __________ in London will report live from outside the palace tomorrow morning. She has covered the royal family for more than ten years.",
@@ -1895,7 +1922,8 @@ window.FLASHCARD_UNITS = {
       "text": "contributor"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 76
    },
    {
     "question": "The airline said sorry for the __________ caused by the six-hour delay. Every passenger received a free meal and a hotel room for the night at no cost.",
@@ -1917,7 +1945,8 @@ window.FLASHCARD_UNITS = {
       "text": "continuity"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 38
    },
    {
     "question": "While we waited for the late train, my friend and I had a long __________ about our plans for the future. Two hours passed before we knew it.",
@@ -1939,7 +1968,8 @@ window.FLASHCARD_UNITS = {
       "text": "conversation"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 46
    }
   ]
  }

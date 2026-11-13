@@ -1511,7 +1511,8 @@ window.FLASHCARD_UNITS = {
       "text": "scanner"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 0
    },
    {
     "question": "Students no longer need to copy the homework from the board. They can simply __________ the QR code with their phones, and the full list appears on the screen.",
@@ -1533,7 +1534,8 @@ window.FLASHCARD_UNITS = {
       "text": "scrap"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 3
    },
    {
     "question": "The newspaper found out that the mayor had used city money to pay for his family's holidays. The __________ forced him to leave his job within a week.",
@@ -1555,7 +1557,8 @@ window.FLASHCARD_UNITS = {
       "text": "session"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 7
    },
    {
     "question": "When I was six, I fell off my bike and cut my chin on a rock. The cut healed, but I still have a small __________ there that shows when I smile.",
@@ -1577,7 +1580,8 @@ window.FLASHCARD_UNITS = {
       "text": "scent"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 10
    },
    {
     "question": "The teacher asked us to imagine what we would do if a typhoon hit during the school trip. In that __________, we agreed, the safest plan would be to stay in the hotel.",
@@ -1599,7 +1603,8 @@ window.FLASHCARD_UNITS = {
       "text": "scenario"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 14
    },
    {
     "question": "As soon as I opened the front door, I knew my mother was baking cookies. The sweet __________ of butter and sugar filled the whole house.",
@@ -1621,7 +1626,8 @@ window.FLASHCARD_UNITS = {
       "text": "scope"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 18
    },
    {
     "question": "To get more young people onto bicycles, the city has started a new __________. Anyone under eighteen can now rent a bike for free for the first thirty minutes.",
@@ -1643,7 +1649,8 @@ window.FLASHCARD_UNITS = {
       "text": "scandal"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 22
    },
    {
     "question": "Our science report should focus only on the plants in the school garden. Animals and insects are outside the __________ of this project, so please do not write about them.",
@@ -1665,7 +1672,8 @@ window.FLASHCARD_UNITS = {
       "text": "scrap"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 25
    },
    {
     "question": "Every day when the lunch bell rings, the students jump up at once. They __________ for the door because the line at the cafeteria gets long very quickly.",
@@ -1687,7 +1695,8 @@ window.FLASHCARD_UNITS = {
       "text": "scar"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 30
    },
    {
     "question": "I could not find my notebook, so I wrote the address on a small __________ of paper. By the time I got home, it had fallen out of my pocket somewhere.",
@@ -1709,7 +1718,8 @@ window.FLASHCARD_UNITS = {
       "text": "scheme"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 34
    },
    {
     "question": "The drama club will perform a play about a brave fisherman in December. The students must learn all their lines from the __________ before the first practice next week.",
@@ -1731,7 +1741,8 @@ window.FLASHCARD_UNITS = {
       "text": "script"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 39
    },
    {
     "question": "My cousin studied computer science and found a job as soon as she graduated. She says the technology __________ needs thousands of new workers every single year.",
@@ -1753,7 +1764,8 @@ window.FLASHCARD_UNITS = {
       "text": "setting"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 44
    },
    {
     "question": "The one-hour show is divided into four parts. My favorite __________ is the last one, in which a chef cooks a dish using only food from the local market.",
@@ -1775,7 +1787,8 @@ window.FLASHCARD_UNITS = {
       "text": "scrap"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 48
    },
    {
     "question": "Twenty teachers from different schools met at the university last Saturday. During the __________, they shared ideas on how to make English reading classes more fun.",
@@ -1797,7 +1810,8 @@ window.FLASHCARD_UNITS = {
       "text": "sequence"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 51
    },
    {
     "question": "Each state in the United States chooses two people to speak for it in the national government. A __________ serves for six years and may then run for election again.",
@@ -1819,7 +1833,8 @@ window.FLASHCARD_UNITS = {
       "text": "senator"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 54
    },
    {
     "question": "After I sat on my leg for an hour, it went completely numb. When I stood up, I felt a strange tingling __________ as the blood started to flow again.",
@@ -1841,7 +1856,8 @@ window.FLASHCARD_UNITS = {
       "text": "sequence"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 58
    },
    {
     "question": "The new smoke alarm reacts to even the smallest amount of smoke in the kitchen. Its __________ is so high that it rings whenever my father makes toast.",
@@ -1863,7 +1879,8 @@ window.FLASHCARD_UNITS = {
       "text": "sensitivity"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 63
    },
    {
     "question": "The lights in our school hallway turn on by themselves when someone walks past. A small __________ near the ceiling notices movement and switches them on.",
@@ -1885,7 +1902,8 @@ window.FLASHCARD_UNITS = {
       "text": "scanner"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 68
    },
    {
     "question": "Most people in the town were happy about the new park at first. However, public __________ changed quickly when they learned that two hundred old trees would be cut down.",
@@ -1907,7 +1925,8 @@ window.FLASHCARD_UNITS = {
       "text": "series"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 71
    },
    {
     "question": "This old teddy bear is dirty and missing one eye, and nobody would pay a dollar for it. Still, I keep it because it has great __________ value for me.",
@@ -1929,7 +1948,8 @@ window.FLASHCARD_UNITS = {
       "text": "sensitive"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 72
    },
    {
     "question": "To bake the cake correctly, you must follow the steps in the right __________. If you add the eggs before the butter and sugar, the cake will not rise.",
@@ -1951,7 +1971,8 @@ window.FLASHCARD_UNITS = {
       "text": "sequence"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 75
    },
    {
     "question": "There has been a __________ of small fires in the old market this month. The police believe they are connected and are looking for the same person.",
@@ -1973,7 +1994,8 @@ window.FLASHCARD_UNITS = {
       "text": "scrap"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 80
    },
    {
     "question": "Thousands of students tried to check their exam results at nine o'clock this morning. The school's __________ could not handle so many visitors, and the website stopped working.",
@@ -1995,7 +2017,8 @@ window.FLASHCARD_UNITS = {
       "text": "sensor"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 84
    },
    {
     "question": "Our basketball team has a big game against the champions next Saturday. The coach has added an extra practice __________ on Thursday evening to get us ready.",
@@ -2017,7 +2040,8 @@ window.FLASHCARD_UNITS = {
       "text": "session"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 89
    },
    {
     "question": "The story takes place in a small village by the sea in the 1920s. The author describes this __________ so well that readers can almost smell the salt in the air.",
@@ -2039,7 +2063,8 @@ window.FLASHCARD_UNITS = {
       "text": "sentiment"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 93
    },
    {
     "question": "My little brother cries whenever someone says even one unkind word to him. He is very __________ to criticism, so the family tries to be gentle with him.",
@@ -2061,7 +2086,8 @@ window.FLASHCARD_UNITS = {
       "text": "serial"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 65
    },
    {
     "question": "I needed to send a copy of my ID card to the office by email. The library has a __________ that puts the picture straight onto the computer in seconds.",
@@ -2083,7 +2109,8 @@ window.FLASHCARD_UNITS = {
       "text": "server"
      }
     ],
-    "answer": "C"
+    "answer": "C",
+    "vi": 6
    },
    {
     "question": "The small restaurant near our school is always full at lunchtime. It does not __________ expensive dishes, but the beef noodles are the best in town.",
@@ -2105,7 +2132,8 @@ window.FLASHCARD_UNITS = {
       "text": "scrap"
      }
     ],
-    "answer": "A"
+    "answer": "A",
+    "vi": 86
    },
    {
     "question": "The first movie about the young wizard was a big hit last year. The __________ comes out next month, and fans hope it will be just as exciting.",
@@ -2127,7 +2155,8 @@ window.FLASHCARD_UNITS = {
       "text": "sequel"
      }
     ],
-    "answer": "D"
+    "answer": "D",
+    "vi": 78
    },
    {
     "question": "The train from Hualien to Taitung runs between the mountains and the sea. Passengers love the __________, so many of them take photos through the windows.",
@@ -2149,7 +2178,8 @@ window.FLASHCARD_UNITS = {
       "text": "servant"
      }
     ],
-    "answer": "B"
+    "answer": "B",
+    "vi": 17
    }
   ]
  }
