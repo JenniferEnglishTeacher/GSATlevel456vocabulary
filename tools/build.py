@@ -5,7 +5,7 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113p"
+V = "20261113q"
 d = json.load(open(DATA, encoding="utf8"))
 J = json.load(open(os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k.json"), encoding="utf8"))  # 國中小基礎2000字 groups
 EXTRA = os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k_extra.json")  # groups converted by tools/convert_g.py
@@ -89,7 +89,17 @@ def patch_quiz_app(qapp, base):
     old = "  const body = new URLSearchParams();"
     assert qapp.count(old) == 1, base
     # Also report this quiz to the progress tracker (time, name, level, group, accuracy, mistaken words).
-    return qapp.replace(old, "  if (window.GsatTracker) GsatTracker.logQuiz(state, VOCAB, MCQS);\n" + old)
+    qapp = qapp.replace(old, "  if (window.GsatTracker) GsatTracker.logQuiz(state, VOCAB, MCQS);\n" + old)
+    # Chinese hints in a question are shown, not read aloud; "U.S.A." = "USA"; an entry may list other accepted spellings (alts).
+    for old, new_ in (("  const utter = new SpeechSynthesisUtterance(text);",
+                       "  text = String(text).replace(/【[^】]*】/g, \"\").replace(/_{3,}/g, \"blank\");\n  const utter = new SpeechSynthesisUtterance(text);"),
+                      ('const norm = s => s.toLowerCase().replace(/\\s+/g, " ").replace(/[.,!?]$/, "").trim();',
+                       'const norm = s => s.toLowerCase().replace(/\\./g, "").replace(/\\s+/g, " ").replace(/[,!?]$/, "").trim();'),
+                      ("const correct = norm(typed) === norm(target);",
+                       "const correct = [target].concat(v.alts || []).some(t => norm(typed) === norm(t));")):
+        assert qapp.count(old) == 1, (base, old)
+        qapp = qapp.replace(old, new_)
+    return qapp
 
 
 counts, names, index = {}, {}, {}
@@ -273,6 +283,14 @@ for lv, zid in (("basic", "kb"), ("advanced", "ka")):
         lab24_zones[lv] = emit_zone(zid, f"LiveABC Level 2–4 {lv.title()}", f"LiveABC 2–4 {lv.title()}", "Unit", {int(k): v for k, v in LAB24[lv].items()},
                                     lambda g, lv=lv: f"liveabc24-{lv}-u{g}", f"LiveABC Level 2–4 {lv.title()} 單字練習", f"{zid.upper()}_DASHBOARD_UNITS")
 
+# 國中小1200字 (zone "e"): 39 themed units from Jennifer's Q&A worksheet (tools/e1200_convert.py)
+E1200_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "e1200.json")
+e1200_zone = None
+if os.path.exists(E1200_FILE):
+    E1200 = json.load(open(E1200_FILE, encoding="utf8"))
+    e1200_zone = emit_zone("e", "國中小1200字", "國中小1200字", "Unit", {int(k): v for k, v in E1200.items()},
+                           lambda g: f"e1200-unit{g}", "國中小1200字 Q&A 單字練習", "E_DASHBOARD_UNITS")
+
 # AWL Sublists 1–10 (zones "a1".."a10"): each sublist split into parts of about 20 entries by tools/awl_convert.py
 AWL_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "awl.json")
 AWL = json.load(open(AWL_FILE, encoding="utf8")) if os.path.exists(AWL_FILE) else {}
@@ -365,6 +383,16 @@ for lv, zid in (("basic", "kb"), ("advanced", "ka")):
 if lab24_zones:
     at = next((i for i, b in enumerate(books) if b["id"] == "level3"), 0) + 1
     books.insert(at, {"id": "liveabc24", "name": "LiveABC Level 2–4", "zones": [z for z in ("kb", "ka") if z in zones]})
+if e1200_zone:
+    order, unit_names = e1200_zone
+    zones["e"] = {
+        "book": "e1200", "prefix": "e", "tag": "1200", "name": "國中小1200字", "short": "國中小 1200", "num": "1200", "levelLabel": "國中小1200",
+        "cls": "", "family": False, "headLabel": "", "tile": "國中小1200字 · 主題分類", "unitName": "Unit",
+        "data": "e-dashboard-data.js", "global": "E_DASHBOARD_UNITS", "page": "e-unit{u}.html", "quiz": "e1200-unit{u}.html",
+        "units": order, "names": {str(g): unit_names[g] for g in order}, "blurb": "Q&A sentences by theme 主題分類 Q&A 句型",
+    }
+    at = next((i for i, b in enumerate(books) if b["id"] == "j2000"), len(books) - 1) + 1
+    books.insert(at, {"id": "e1200", "name": "國中小1200字", "zones": ["e"]})
 if awl_zones:
     books.append({"id": "awl", "name": "AWL 學術單字 Sublist 1–10", "zones": [f"a{n}" for n in awl_zones]})
 zones = {z: zones[z] for b in books for z in b["zones"]}

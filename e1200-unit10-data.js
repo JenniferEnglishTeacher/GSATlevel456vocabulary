@@ -1,0 +1,1997 @@
+// Unit 10 Quiz Data: Food & Drinks 食物與飲料（第10區）
+// Converted for this site by the scripts in tools/.
+const QUIZ_CONFIG = {
+  "groupName": "國中小1200字 U10 - Food & Drinks",
+  "gasEndpoint": "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"
+};
+
+const VOCAB = [
+  {
+    "word": "hungry",
+    "pos": "adj.",
+    "cn_def": "飢餓的",
+    "en_def": "",
+    "sentence": "Q: What would you like to eat? — A: I'm very {{BLANK}}. I'd like a big bowl of noodles.",
+    "cn": "你想吃什麼？ — 我好餓，我想要一大碗麵。"
+  },
+  {
+    "word": "thirsty",
+    "pos": "adj.",
+    "cn_def": "口渴的",
+    "en_def": "",
+    "sentence": "Q: What would you like to drink? — A: I'm {{BLANK}}. I'd like a glass of water.",
+    "cn": "你想喝什麼？ — 我口渴了，我想要一杯水。"
+  },
+  {
+    "word": "full",
+    "pos": "adj.",
+    "cn_def": "飽的；滿的",
+    "en_def": "",
+    "sentence": "Q: Would you like some more cake? — A: No, thank you. I'm {{BLANK}}.",
+    "cn": "你想再吃一些蛋糕嗎？ — 不用了，謝謝，我吃飽了。"
+  },
+  {
+    "word": "menu",
+    "pos": "n.",
+    "cn_def": "菜單",
+    "en_def": "",
+    "sentence": "Q: What would you like to eat, sir? — A: Can I see the {{BLANK}}, please?",
+    "cn": "先生，您想吃什麼？ — 可以請你給我看一下菜單嗎？"
+  },
+  {
+    "word": "order",
+    "pos": "v.",
+    "cn_def": "點餐",
+    "en_def": "",
+    "sentence": "Q: Are you ready? What would you like? — A: I'd like to {{BLANK}} a pizza, please.",
+    "cn": "您準備好了嗎？您想要什麼？ — 我想要點一個披薩，謝謝。"
+  },
+  {
+    "word": "food",
+    "pos": "n.",
+    "cn_def": "食物",
+    "en_def": "",
+    "sentence": "Q: What would you like to eat tonight? — A: I'd like some Japanese {{BLANK}}.",
+    "cn": "你今晚想吃什麼？ — 我想吃一些日本料理（食物）。"
+  },
+  {
+    "word": "hamburger (burger)",
+    "pos": "n.",
+    "cn_def": "漢堡",
+    "en_def": "",
+    "sentence": "Q: What would you like for lunch? — A: I'd like a {{BLANK}}, please.",
+    "cn": "你午餐想吃什麼？ — 我想要一個漢堡，謝謝。",
+    "alts": [
+      "burger"
+    ]
+  },
+  {
+    "word": "fries (French fries)",
+    "pos": "n.",
+    "cn_def": "炸薯條",
+    "en_def": "",
+    "sentence": "Q: What would you like with your hamburger? — A: I'd like some French {{BLANK}}.",
+    "cn": "你的漢堡想配什麼？ — 我想要一些薯條。"
+  },
+  {
+    "word": "hot dog",
+    "pos": "n.",
+    "cn_def": "熱狗",
+    "en_def": "",
+    "sentence": "Q: What would Ben like to eat? — A: He'd like a {{BLANK}}.",
+    "cn": "班想吃什麼？ — 他想要一個熱狗。",
+    "nblanks": 2
+  },
+  {
+    "word": "pizza",
+    "pos": "n.",
+    "cn_def": "披薩",
+    "en_def": "",
+    "sentence": "Q: What would you like for dinner? — A: I'd like a big {{BLANK}} with cheese.",
+    "cn": "你晚餐想吃什麼？ — 我想要一個有起司的大披薩。"
+  },
+  {
+    "word": "ice cream",
+    "pos": "n.",
+    "cn_def": "冰淇淋",
+    "en_def": "",
+    "sentence": "Q: What would you like after dinner? — A: I'd like some chocolate {{BLANK}}.",
+    "cn": "晚餐後你想吃什麼？ — 我想要一些巧克力冰淇淋。",
+    "nblanks": 2
+  },
+  {
+    "word": "Coke",
+    "pos": "n.",
+    "cn_def": "可樂",
+    "en_def": "",
+    "sentence": "Q: What would you like to drink? — A: I'd like a {{BLANK}}, please.",
+    "cn": "你想喝什麼？ — 我想要一杯可樂，謝謝。"
+  },
+  {
+    "word": "ice",
+    "pos": "n.",
+    "cn_def": "冰",
+    "en_def": "",
+    "sentence": "Q: Would you like some water? — A: Yes, please. I'd like it with {{BLANK}}.",
+    "cn": "你想要一些水嗎？ — 好的，麻煩了。我想要加冰的。"
+  },
+  {
+    "word": "juice",
+    "pos": "n.",
+    "cn_def": "果汁",
+    "en_def": "",
+    "sentence": "Q: What would your sister like to drink? — A: She'd like a glass of apple {{BLANK}}.",
+    "cn": "你妹妹想喝什麼？ — 她想要一杯蘋果汁。"
+  },
+  {
+    "word": "tea",
+    "pos": "n.",
+    "cn_def": "茶",
+    "en_def": "",
+    "sentence": "Q: What would Grandma like to drink? — A: She'd like a cup of green {{BLANK}}.",
+    "cn": "奶奶想喝什麼？ — 她想要一杯綠茶。"
+  },
+  {
+    "word": "coffee",
+    "pos": "n.",
+    "cn_def": "咖啡",
+    "en_def": "",
+    "sentence": "Q: What would your dad like to drink? — A: He'd like a cup of hot {{BLANK}}.",
+    "cn": "你爸爸想喝什麼？ — 他想要一杯熱咖啡。"
+  },
+  {
+    "word": "fruit",
+    "pos": "n.",
+    "cn_def": "水果",
+    "en_def": "",
+    "sentence": "Q: Do you like apples and bananas? — A: Yes, I do. I like all kinds of {{BLANK}}.",
+    "cn": "你喜歡蘋果和香蕉嗎？ — 是的，我喜歡。我喜歡各種水果。"
+  },
+  {
+    "word": "apple",
+    "pos": "n.",
+    "cn_def": "蘋果",
+    "en_def": "",
+    "sentence": "Q: Does Tom like fruit? — A: Yes, he does. He eats an {{BLANK}} every day.",
+    "cn": "湯姆喜歡水果嗎？ — 是的，他喜歡。他每天吃一顆蘋果。"
+  },
+  {
+    "word": "orange",
+    "pos": "n.",
+    "cn_def": "柳橙",
+    "en_def": "",
+    "sentence": "Q: Do the kids like fruit juice? — A: Yes, they do. They like {{BLANK}} juice.",
+    "cn": "孩子們喜歡果汁嗎？ — 是的，他們喜歡。他們喜歡柳橙汁。"
+  },
+  {
+    "word": "banana (bananas)",
+    "pos": "n.",
+    "cn_def": "香蕉",
+    "en_def": "",
+    "sentence": "Q: Do monkeys like fruit? — A: Yes, they do. They love yellow {{BLANK}}.",
+    "cn": "猴子喜歡水果嗎？ — 是的，牠們喜歡。牠們很愛黃色的香蕉。"
+  },
+  {
+    "word": "grape (grapes)",
+    "pos": "n.",
+    "cn_def": "葡萄",
+    "en_def": "",
+    "sentence": "Q: Does your sister like purple fruit? — A: Yes, she does. She likes {{BLANK}} very much.",
+    "cn": "你妹妹喜歡紫色的水果嗎？ — 是的，她喜歡。她非常喜歡葡萄。"
+  },
+  {
+    "word": "guava (guavas)",
+    "pos": "n.",
+    "cn_def": "芭樂",
+    "en_def": "",
+    "sentence": "Q: Does Grandpa like Taiwanese fruit? — A: Yes, he does. He likes green {{BLANK}}.",
+    "cn": "爺爺喜歡台灣的水果嗎？ — 是的，他喜歡。他喜歡綠色的芭樂。"
+  },
+  {
+    "word": "papaya",
+    "pos": "n.",
+    "cn_def": "木瓜",
+    "en_def": "",
+    "sentence": "Q: Do your parents like fruit milk? — A: Yes, they do. They like {{BLANK}} milk.",
+    "cn": "你爸媽喜歡水果牛奶嗎？ — 是的，他們喜歡。他們喜歡木瓜牛奶。"
+  },
+  {
+    "word": "peach (peaches)",
+    "pos": "n.",
+    "cn_def": "桃子",
+    "en_def": "",
+    "sentence": "Q: Does Amy like soft and sweet fruit? — A: Yes, she does. She likes pink {{BLANK}}.",
+    "cn": "艾美喜歡軟軟甜甜的水果嗎？ — 是的，她喜歡。她喜歡粉紅色的桃子。"
+  },
+  {
+    "word": "pear (pears)",
+    "pos": "n.",
+    "cn_def": "梨子",
+    "en_def": "",
+    "sentence": "Q: Does your mom like apples? — A: No, she doesn't. She likes {{BLANK}}.",
+    "cn": "你媽媽喜歡蘋果嗎？ — 不，她不喜歡。她喜歡梨子。"
+  },
+  {
+    "word": "lemon",
+    "pos": "n.",
+    "cn_def": "檸檬",
+    "en_def": "",
+    "sentence": "Q: Does your dad like sweet tea? — A: No, he doesn't. He likes {{BLANK}} tea.",
+    "cn": "你爸爸喜歡甜的茶嗎？ — 不，他不喜歡。他喜歡檸檬茶。"
+  },
+  {
+    "word": "strawberry (strawberries)",
+    "pos": "n.",
+    "cn_def": "草莓",
+    "en_def": "",
+    "sentence": "Q: Do you like red fruit? — A: Yes, I do. I like {{BLANK}}.",
+    "cn": "你喜歡紅色的水果嗎？ — 是的，我喜歡。我喜歡草莓。"
+  },
+  {
+    "word": "watermelon",
+    "pos": "n.",
+    "cn_def": "西瓜",
+    "en_def": "",
+    "sentence": "Q: Does your brother like summer fruit? — A: Yes, he does. He likes {{BLANK}}. It's big and sweet.",
+    "cn": "你哥哥喜歡夏天的水果嗎？ — 是的，他喜歡。他喜歡西瓜，它又大又甜。"
+  },
+  {
+    "word": "tomato (tomatoes)",
+    "pos": "n.",
+    "cn_def": "番茄",
+    "en_def": "",
+    "sentence": "Q: Do you like red vegetables? — A: Yes, I do. I like {{BLANK}}.",
+    "cn": "你喜歡紅色的蔬菜嗎？ — 是的，我喜歡。我喜歡番茄。"
+  },
+  {
+    "word": "vegetable (vegetables)",
+    "pos": "n.",
+    "cn_def": "蔬菜",
+    "en_def": "",
+    "sentence": "Q: Does your little brother like green food? — A: No, he doesn't. He doesn't like {{BLANK}}.",
+    "cn": "你弟弟喜歡綠色的食物嗎？ — 不，他不喜歡。他不喜歡蔬菜。"
+  },
+  {
+    "word": "lettuce",
+    "pos": "n.",
+    "cn_def": "萵苣；生菜",
+    "en_def": "",
+    "sentence": "Q: Do rabbits like vegetables? — A: Yes, they do. They like {{BLANK}}.",
+    "cn": "兔子喜歡蔬菜嗎？ — 是的，牠們喜歡。牠們喜歡生菜。"
+  },
+  {
+    "word": "bean",
+    "pos": "n.",
+    "cn_def": "豆子",
+    "en_def": "",
+    "sentence": "Q: Does your grandma like sweet soup? — A: Yes, she does. She likes red {{BLANK}} soup.",
+    "cn": "你奶奶喜歡甜湯嗎？ — 是的，她喜歡。她喜歡紅豆湯。"
+  },
+  {
+    "word": "pumpkin",
+    "pos": "n.",
+    "cn_def": "南瓜",
+    "en_def": "",
+    "sentence": "Q: Do you like Halloween food? — A: Yes, I do. I like {{BLANK}} pie.",
+    "cn": "你喜歡萬聖節的食物嗎？ — 是的，我喜歡。我喜歡南瓜派。"
+  },
+  {
+    "word": "meat",
+    "pos": "n.",
+    "cn_def": "肉",
+    "en_def": "",
+    "sentence": "Q: Does your sister like beef and pork? — A: No, she doesn't. She doesn't like {{BLANK}}.",
+    "cn": "你姊姊喜歡牛肉和豬肉嗎？ — 不，她不喜歡。她不喜歡肉。"
+  },
+  {
+    "word": "beef",
+    "pos": "n.",
+    "cn_def": "牛肉",
+    "en_def": "",
+    "sentence": "Q: Do you like noodles? — A: Yes, I do. I like {{BLANK}} noodles.",
+    "cn": "你喜歡麵嗎？ — 是的，我喜歡。我喜歡牛肉麵。"
+  },
+  {
+    "word": "pork",
+    "pos": "n.",
+    "cn_def": "豬肉",
+    "en_def": "",
+    "sentence": "Q: Does Grandpa like meat? — A: Yes, he does. He likes {{BLANK}} with rice.",
+    "cn": "爺爺喜歡肉嗎？ — 是的，他喜歡。他喜歡豬肉配飯。"
+  },
+  {
+    "word": "chicken",
+    "pos": "n.",
+    "cn_def": "雞肉",
+    "en_def": "",
+    "sentence": "Q: Do your kids like fried food? — A: Yes, they do. They like fried {{BLANK}}.",
+    "cn": "你的孩子們喜歡炸的食物嗎？ — 是的，他們喜歡。他們喜歡炸雞。"
+  },
+  {
+    "word": "fish",
+    "pos": "n.",
+    "cn_def": "魚；魚肉",
+    "en_def": "",
+    "sentence": "Q: Does your cat like meat? — A: Yes, it does. But it likes {{BLANK}} best.",
+    "cn": "你的貓喜歡肉嗎？ — 是的，牠喜歡。但牠最喜歡魚。"
+  },
+  {
+    "word": "ham",
+    "pos": "n.",
+    "cn_def": "火腿",
+    "en_def": "",
+    "sentence": "Q: Do you like pizza? — A: Yes, I do. I like {{BLANK}} and cheese pizza.",
+    "cn": "你喜歡披薩嗎？ — 是的，我喜歡。我喜歡火腿起司披薩。"
+  },
+  {
+    "word": "cheese",
+    "pos": "n.",
+    "cn_def": "起司；乳酪",
+    "en_def": "",
+    "sentence": "Q: Does the little mouse like milk? — A: No, it doesn't. It likes {{BLANK}}.",
+    "cn": "那隻小老鼠喜歡牛奶嗎？ — 不，牠不喜歡。牠喜歡起司。"
+  },
+  {
+    "word": "chocolate",
+    "pos": "n.",
+    "cn_def": "巧克力",
+    "en_def": "",
+    "sentence": "Q: Do your sisters like sweet food? — A: Yes, they do. They like {{BLANK}} very much.",
+    "cn": "你的姊妹們喜歡甜食嗎？ — 是的，她們喜歡。她們非常喜歡巧克力。"
+  },
+  {
+    "word": "candy",
+    "pos": "n.",
+    "cn_def": "糖果",
+    "en_def": "",
+    "sentence": "Q: Does Ben like sweet food? — A: Yes, he does. He likes {{BLANK}}, but it's bad for his teeth.",
+    "cn": "班喜歡甜食嗎？ — 是的，他喜歡。他喜歡糖果，但糖果對他的牙齒不好。"
+  },
+  {
+    "word": "popcorn",
+    "pos": "n.",
+    "cn_def": "爆米花",
+    "en_def": "",
+    "sentence": "Q: Do you like movies? — A: Yes, I do. I like eating {{BLANK}} at the movies.",
+    "cn": "你喜歡電影嗎？ — 是的，我喜歡。我喜歡在看電影時吃爆米花。"
+  },
+  {
+    "word": "cake",
+    "pos": "n.",
+    "cn_def": "蛋糕",
+    "en_def": "",
+    "sentence": "Q: Does your mom like chocolate? — A: Yes, she does. She likes chocolate {{BLANK}}.",
+    "cn": "你媽媽喜歡巧克力嗎？ — 是的，她喜歡。她喜歡巧克力蛋糕。"
+  },
+  {
+    "word": "pie",
+    "pos": "n.",
+    "cn_def": "派",
+    "en_def": "",
+    "sentence": "Q: Do you like apples? — A: Yes, I do. I like apple {{BLANK}} best.",
+    "cn": "你喜歡蘋果嗎？ — 是的，我喜歡。我最喜歡蘋果派。"
+  },
+  {
+    "word": "bake",
+    "pos": "v.",
+    "cn_def": "烘烤",
+    "en_def": "",
+    "sentence": "Q: Do your grandparents like to make bread? — A: Yes, they do. They like to {{BLANK}} bread and cakes.",
+    "cn": "你的爺爺奶奶喜歡做麵包嗎？ — 是的，他們喜歡。他們喜歡烤麵包和蛋糕。"
+  },
+  {
+    "word": "cook",
+    "pos": "v.",
+    "cn_def": "煮飯；烹調",
+    "en_def": "",
+    "sentence": "Q: Does your dad like to work in the kitchen? — A: Yes, he does. He likes to {{BLANK}} dinner for us.",
+    "cn": "你爸爸喜歡在廚房工作嗎？ — 是的，他喜歡。他喜歡煮晚餐給我們吃。"
+  },
+  {
+    "word": "egg (eggs)",
+    "pos": "n.",
+    "cn_def": "蛋",
+    "en_def": "",
+    "sentence": "Q: How many {{BLANK}} does Mom need for the cake? — A: She needs three. She doesn't need any milk.",
+    "cn": "媽媽做蛋糕需要幾顆蛋？ — 她需要三顆，她不需要任何牛奶。"
+  },
+  {
+    "word": "bun (buns)",
+    "pos": "n.",
+    "cn_def": "小圓麵包；包子",
+    "en_def": "",
+    "sentence": "Q: How many {{BLANK}} do you want? — A: I want two. I'm very hungry.",
+    "cn": "你想要幾個小圓麵包？ — 我想要兩個，我很餓。"
+  },
+  {
+    "word": "dumpling (dumplings)",
+    "pos": "n.",
+    "cn_def": "水餃；湯圓",
+    "en_def": "",
+    "sentence": "Q: How many {{BLANK}} does Dad want? — A: He wants twenty! He has them for dinner.",
+    "cn": "爸爸想要幾顆水餃？ — 他想要二十顆！他晚餐要吃。"
+  },
+  {
+    "word": "cookie (cookies)",
+    "pos": "n.",
+    "cn_def": "餅乾",
+    "en_def": "",
+    "sentence": "Q: How many {{BLANK}} do the kids have? — A: They have ten. They want to share them.",
+    "cn": "孩子們有幾片餅乾？ — 他們有十片，他們想要分享。"
+  },
+  {
+    "word": "bread",
+    "pos": "n.",
+    "cn_def": "麵包",
+    "en_def": "",
+    "sentence": "Q: How much {{BLANK}} do we have? — A: We don't have any. Let's buy some.",
+    "cn": "我們有多少麵包？ — 我們一點都沒有了，我們去買一些吧。"
+  },
+  {
+    "word": "rice",
+    "pos": "n.",
+    "cn_def": "米飯",
+    "en_def": "",
+    "sentence": "Q: How much {{BLANK}} does your brother eat? — A: He eats three bowls every day.",
+    "cn": "你哥哥吃多少飯？ — 他每天吃三碗。"
+  },
+  {
+    "word": "salt",
+    "pos": "n.",
+    "cn_def": "鹽",
+    "en_def": "",
+    "sentence": "Q: How much {{BLANK}} does the soup need? — A: It needs a little.",
+    "cn": "這湯需要多少鹽？ — 它需要一點點。"
+  },
+  {
+    "word": "sugar",
+    "pos": "n.",
+    "cn_def": "糖",
+    "en_def": "",
+    "sentence": "Q: How much {{BLANK}} do you want in your coffee? — A: I don't want any, thanks.",
+    "cn": "你的咖啡裡要加多少糖？ — 我一點都不要，謝謝。"
+  },
+  {
+    "word": "oil",
+    "pos": "n.",
+    "cn_def": "油",
+    "en_def": "",
+    "sentence": "Q: How much {{BLANK}} does Mom need? — A: She needs a little. She is cooking eggs.",
+    "cn": "媽媽需要多少油？ — 她需要一點點，她正在煎蛋。"
+  },
+  {
+    "word": "butter",
+    "pos": "n.",
+    "cn_def": "奶油",
+    "en_def": "",
+    "sentence": "Q: Do we have any {{BLANK}}? — A: Yes, we have some. It's in the fridge.",
+    "cn": "我們有奶油嗎？ — 有，我們有一些，在冰箱裡。"
+  },
+  {
+    "word": "milk",
+    "pos": "n.",
+    "cn_def": "牛奶",
+    "en_def": "",
+    "sentence": "Q: How much {{BLANK}} does the baby drink? — A: She drinks three bottles a day.",
+    "cn": "這個寶寶喝多少牛奶？ — 她一天喝三瓶。"
+  },
+  {
+    "word": "water",
+    "pos": "n.",
+    "cn_def": "水",
+    "en_def": "",
+    "sentence": "Q: How many glasses of {{BLANK}} do you drink every day? — A: I drink eight glasses.",
+    "cn": "你每天喝幾杯水？ — 我喝八杯。"
+  },
+  {
+    "word": "soup",
+    "pos": "n.",
+    "cn_def": "湯",
+    "en_def": "",
+    "sentence": "Q: How does the {{BLANK}} taste? — A: It's good, but it needs more salt.",
+    "cn": "這湯嚐起來怎麼樣？ — 很好，但它需要多一點鹽。"
+  },
+  {
+    "word": "steak",
+    "pos": "n.",
+    "cn_def": "牛排",
+    "en_def": "",
+    "sentence": "Q: How does your {{BLANK}} taste? — A: It's great. I like beef.",
+    "cn": "你的牛排嚐起來怎麼樣？ — 很棒，我喜歡牛肉。"
+  },
+  {
+    "word": "salad",
+    "pos": "n.",
+    "cn_def": "沙拉",
+    "en_def": "",
+    "sentence": "Q: How does the {{BLANK}} taste? — A: It's fresh. It has lettuce and tomatoes.",
+    "cn": "這沙拉嚐起來怎麼樣？ — 很新鮮，裡面有生菜和番茄。"
+  },
+  {
+    "word": "delicious",
+    "pos": "adj.",
+    "cn_def": "美味的",
+    "en_def": "",
+    "sentence": "Q: How does Mom's beef soup taste? — A: It tastes {{BLANK}}.",
+    "cn": "媽媽的牛肉湯嚐起來怎麼樣？ — 它嚐起來很美味。"
+  },
+  {
+    "word": "yummy",
+    "pos": "adj.",
+    "cn_def": "好吃的",
+    "en_def": "",
+    "sentence": "Q: How do the cookies taste? — A: They're {{BLANK}}! I want more.",
+    "cn": "這些餅乾嚐起來怎麼樣？ — 它們好好吃！我還想要。"
+  },
+  {
+    "word": "sweet",
+    "pos": "adj.",
+    "cn_def": "甜的",
+    "en_def": "",
+    "sentence": "Q: How does the watermelon taste? — A: It tastes very {{BLANK}}.",
+    "cn": "這西瓜嚐起來怎麼樣？ — 它嚐起來很甜。"
+  },
+  {
+    "word": "hot",
+    "pos": "adj.",
+    "cn_def": "熱的；燙的；辣的",
+    "en_def": "",
+    "sentence": "Q: How do the noodles taste? — A: They're too {{BLANK}}. Wait a minute.",
+    "cn": "這些麵嚐起來怎麼樣？ — 它們太燙了，等一下吧。"
+  },
+  {
+    "word": "burn (burns)",
+    "pos": "v.",
+    "cn_def": "燒焦；燃燒",
+    "en_def": "",
+    "sentence": "Q: How does the toast taste? — A: It tastes bad. Dad often {{BLANK}} it.",
+    "cn": "這土司嚐起來怎麼樣？ — 嚐起來很糟，爸爸常常把它烤焦。"
+  },
+  {
+    "word": "breakfast",
+    "pos": "n.",
+    "cn_def": "早餐",
+    "en_def": "",
+    "sentence": "Q: What do you have for {{BLANK}}? — A: I have toast and milk every morning.",
+    "cn": "你早餐吃什麼？ — 我每天早上吃土司和喝牛奶。"
+  },
+  {
+    "word": "toast",
+    "pos": "n.",
+    "cn_def": "土司",
+    "en_def": "",
+    "sentence": "Q: What does Dad have for breakfast? — A: He has {{BLANK}} and coffee for breakfast.",
+    "cn": "爸爸早餐吃什麼？ — 他早餐吃土司、喝咖啡。"
+  },
+  {
+    "word": "drink",
+    "pos": "v.",
+    "cn_def": "喝",
+    "en_def": "",
+    "sentence": "Q: What do your kids have for breakfast? — A: They have bread, and they {{BLANK}} a glass of milk.",
+    "cn": "你的孩子們早餐吃什麼？ — 他們吃麵包，而且喝一杯牛奶。"
+  },
+  {
+    "word": "boil (boils)",
+    "pos": "v.",
+    "cn_def": "煮沸；水煮",
+    "en_def": "",
+    "sentence": "Q: What does Grandma have for breakfast? — A: She has two eggs. She {{BLANK}} them in water.",
+    "cn": "奶奶早餐吃什麼？ — 她吃兩顆蛋，她用水把蛋煮熟。"
+  },
+  {
+    "word": "lunch",
+    "pos": "n.",
+    "cn_def": "午餐",
+    "en_def": "",
+    "sentence": "Q: What does Amy have for {{BLANK}}? — A: She has rice and fish at noon.",
+    "cn": "艾美午餐吃什麼？ — 她中午吃飯和魚。"
+  },
+  {
+    "word": "sandwich",
+    "pos": "n.",
+    "cn_def": "三明治",
+    "en_def": "",
+    "sentence": "Q: What do you have for lunch? — A: I have a ham {{BLANK}} for lunch.",
+    "cn": "你午餐吃什麼？ — 我午餐吃火腿三明治。"
+  },
+  {
+    "word": "noodles",
+    "pos": "n.",
+    "cn_def": "麵條",
+    "en_def": "",
+    "sentence": "Q: What does your dad have for lunch? — A: He has beef {{BLANK}} for lunch.",
+    "cn": "你爸爸午餐吃什麼？ — 他午餐吃牛肉麵。"
+  },
+  {
+    "word": "eat (eats)",
+    "pos": "v.",
+    "cn_def": "吃",
+    "en_def": "",
+    "sentence": "Q: What does your brother have for dinner? — A: He {{BLANK}} rice and pork for dinner.",
+    "cn": "你哥哥晚餐吃什麼？ — 他晚餐吃飯和豬肉。"
+  },
+  {
+    "word": "dinner",
+    "pos": "n.",
+    "cn_def": "晚餐",
+    "en_def": "",
+    "sentence": "Q: What do your parents have for {{BLANK}}? — A: They have soup and steak in the evening.",
+    "cn": "你爸媽晚餐吃什麼？ — 他們晚上吃湯和牛排。"
+  },
+  {
+    "word": "meal",
+    "pos": "n.",
+    "cn_def": "一餐",
+    "en_def": "",
+    "sentence": "Q: What does your family have for dinner on Sundays? — A: We have a big {{BLANK}} together.",
+    "cn": "你們家星期天晚餐吃什麼？ — 我們一起吃一頓大餐。"
+  },
+  {
+    "word": "barbecue",
+    "pos": "n.",
+    "cn_def": "烤肉",
+    "en_def": "",
+    "sentence": "Q: What do you have for dinner on Moon Festival? — A: We have a {{BLANK}} with our neighbors.",
+    "cn": "中秋節你們晚餐吃什麼？ — 我們和鄰居一起烤肉。"
+  },
+  {
+    "word": "snack",
+    "pos": "n.",
+    "cn_def": "點心",
+    "en_def": "",
+    "sentence": "Q: What do you have after school? — A: I have a {{BLANK}}: some fruit and milk.",
+    "cn": "你放學後吃什麼？ — 我吃點心：一些水果和牛奶。"
+  }
+];
+
+const MCQS = [
+  {
+    "q": "Q: What would you like to eat? — A: I'm very ______. I'd like a big bowl of noodles.【飢餓的】",
+    "options": [
+      "yummy",
+      "sweet",
+      "full",
+      "hungry"
+    ],
+    "answer": 3,
+    "cn": "你想吃什麼？ — 我好餓，我想要一大碗麵。",
+    "vocabIndex": 0
+  },
+  {
+    "q": "Q: What would you like to drink? — A: I'm ______. I'd like a glass of water.【口渴的】",
+    "options": [
+      "full",
+      "thirsty",
+      "hot",
+      "hungry"
+    ],
+    "answer": 1,
+    "cn": "你想喝什麼？ — 我口渴了，我想要一杯水。",
+    "vocabIndex": 1
+  },
+  {
+    "q": "Q: Would you like some more cake? — A: No, thank you. I'm ______.【飽的；滿的】",
+    "options": [
+      "thirsty",
+      "yummy",
+      "full",
+      "hungry"
+    ],
+    "answer": 2,
+    "cn": "你想再吃一些蛋糕嗎？ — 不用了，謝謝，我吃飽了。",
+    "vocabIndex": 2
+  },
+  {
+    "q": "Q: What would you like to eat, sir? — A: Can I see the ______, please?【菜單】",
+    "options": [
+      "menu",
+      "pumpkin",
+      "Coke",
+      "cheese"
+    ],
+    "answer": 0,
+    "cn": "先生，您想吃什麼？ — 可以請你給我看一下菜單嗎？",
+    "vocabIndex": 3
+  },
+  {
+    "q": "Q: Are you ready? What would you like? — A: I'd like to ______ a pizza, please.【點餐】",
+    "options": [
+      "bake",
+      "drink",
+      "order",
+      "cook"
+    ],
+    "answer": 2,
+    "cn": "您準備好了嗎？您想要什麼？ — 我想要點一個披薩，謝謝。",
+    "vocabIndex": 4
+  },
+  {
+    "q": "Q: What would you like to eat tonight? — A: I'd like some Japanese ______.【食物】",
+    "options": [
+      "juice",
+      "food",
+      "hamburger",
+      "snack"
+    ],
+    "answer": 1,
+    "cn": "你今晚想吃什麼？ — 我想吃一些日本料理（食物）。",
+    "vocabIndex": 5
+  },
+  {
+    "q": "Q: What would you like for lunch? — A: I'd like a ______, please.【漢堡】",
+    "options": [
+      "popcorn",
+      "chocolate",
+      "milk",
+      "hamburger"
+    ],
+    "answer": 3,
+    "cn": "你午餐想吃什麼？ — 我想要一個漢堡，謝謝。",
+    "vocabIndex": 6
+  },
+  {
+    "q": "Q: What would you like with your hamburger? — A: I'd like some French ______.【炸薯條】",
+    "options": [
+      "fries",
+      "eggs",
+      "vegetables",
+      "tomatoes"
+    ],
+    "answer": 0,
+    "cn": "你的漢堡想配什麼？ — 我想要一些薯條。",
+    "vocabIndex": 7
+  },
+  {
+    "q": "Q: What would Ben like to eat? — A: He'd like a ______.【熱狗】",
+    "options": [
+      "menu",
+      "hot dog",
+      "oil",
+      "food"
+    ],
+    "answer": 1,
+    "cn": "班想吃什麼？ — 他想要一個熱狗。",
+    "vocabIndex": 8
+  },
+  {
+    "q": "Q: What would you like for dinner? — A: I'd like a big ______ with cheese.【披薩】",
+    "options": [
+      "toast",
+      "fish",
+      "pizza",
+      "water"
+    ],
+    "answer": 2,
+    "cn": "你晚餐想吃什麼？ — 我想要一個有起司的大披薩。",
+    "vocabIndex": 9
+  },
+  {
+    "q": "Q: What would you like after dinner? — A: I'd like some chocolate ______.【冰淇淋】",
+    "options": [
+      "rice",
+      "soup",
+      "hamburger",
+      "ice cream"
+    ],
+    "answer": 3,
+    "cn": "晚餐後你想吃什麼？ — 我想要一些巧克力冰淇淋。",
+    "vocabIndex": 10
+  },
+  {
+    "q": "Q: What would you like to drink? — A: I'd like a ______, please.【可樂】",
+    "options": [
+      "Coke",
+      "Hot dog",
+      "Pizza",
+      "Ice"
+    ],
+    "answer": 0,
+    "cn": "你想喝什麼？ — 我想要一杯可樂，謝謝。",
+    "vocabIndex": 11
+  },
+  {
+    "q": "Q: Would you like some water? — A: Yes, please. I'd like it with ______.【冰】",
+    "options": [
+      "barbecue",
+      "ice",
+      "candy",
+      "fruit"
+    ],
+    "answer": 1,
+    "cn": "你想要一些水嗎？ — 好的，麻煩了。我想要加冰的。",
+    "vocabIndex": 12
+  },
+  {
+    "q": "Q: What would your sister like to drink? — A: She'd like a glass of apple ______.【果汁】",
+    "options": [
+      "pie",
+      "pumpkin",
+      "snack",
+      "juice"
+    ],
+    "answer": 3,
+    "cn": "你妹妹想喝什麼？ — 她想要一杯蘋果汁。",
+    "vocabIndex": 13
+  },
+  {
+    "q": "Q: What would Grandma like to drink? — A: She'd like a cup of green ______.【茶】",
+    "options": [
+      "butter",
+      "chocolate",
+      "tea",
+      "steak"
+    ],
+    "answer": 2,
+    "cn": "奶奶想喝什麼？ — 她想要一杯綠茶。",
+    "vocabIndex": 14
+  },
+  {
+    "q": "Q: What would your dad like to drink? — A: He'd like a cup of hot ______.【咖啡】",
+    "options": [
+      "coffee",
+      "candy",
+      "pumpkin",
+      "fruit"
+    ],
+    "answer": 0,
+    "cn": "你爸爸想喝什麼？ — 他想要一杯熱咖啡。",
+    "vocabIndex": 15
+  },
+  {
+    "q": "Q: Do you like apples and bananas? — A: Yes, I do. I like all kinds of ______.【水果】",
+    "options": [
+      "butter",
+      "steak",
+      "cake",
+      "fruit"
+    ],
+    "answer": 3,
+    "cn": "你喜歡蘋果和香蕉嗎？ — 是的，我喜歡。我喜歡各種水果。",
+    "vocabIndex": 16
+  },
+  {
+    "q": "Q: Does Tom like fruit? — A: Yes, he does. He eats an ______ every day.【蘋果】",
+    "options": [
+      "apple",
+      "popcorn",
+      "toast",
+      "hamburger"
+    ],
+    "answer": 0,
+    "cn": "湯姆喜歡水果嗎？ — 是的，他喜歡。他每天吃一顆蘋果。",
+    "vocabIndex": 17
+  },
+  {
+    "q": "Q: Do the kids like fruit juice? — A: Yes, they do. They like ______ juice.【柳橙】",
+    "options": [
+      "ice",
+      "orange",
+      "dinner",
+      "pumpkin"
+    ],
+    "answer": 1,
+    "cn": "孩子們喜歡果汁嗎？ — 是的，他們喜歡。他們喜歡柳橙汁。",
+    "vocabIndex": 18
+  },
+  {
+    "q": "Q: Do monkeys like fruit? — A: Yes, they do. They love yellow ______.【香蕉】",
+    "options": [
+      "cookies",
+      "pears",
+      "bananas",
+      "vegetables"
+    ],
+    "answer": 2,
+    "cn": "猴子喜歡水果嗎？ — 是的，牠們喜歡。牠們很愛黃色的香蕉。",
+    "vocabIndex": 19
+  },
+  {
+    "q": "Q: Does your sister like purple fruit? — A: Yes, she does. She likes ______ very much.【葡萄】",
+    "options": [
+      "guavas",
+      "grapes",
+      "peaches",
+      "fries"
+    ],
+    "answer": 1,
+    "cn": "你妹妹喜歡紫色的水果嗎？ — 是的，她喜歡。她非常喜歡葡萄。",
+    "vocabIndex": 20
+  },
+  {
+    "q": "Q: Does Grandpa like Taiwanese fruit? — A: Yes, he does. He likes green ______.【芭樂】",
+    "options": [
+      "grapes",
+      "noodles",
+      "eggs",
+      "guavas"
+    ],
+    "answer": 3,
+    "cn": "爺爺喜歡台灣的水果嗎？ — 是的，他喜歡。他喜歡綠色的芭樂。",
+    "vocabIndex": 21
+  },
+  {
+    "q": "Q: Do your parents like fruit milk? — A: Yes, they do. They like ______ milk.【木瓜】",
+    "options": [
+      "papaya",
+      "soup",
+      "rice",
+      "butter"
+    ],
+    "answer": 0,
+    "cn": "你爸媽喜歡水果牛奶嗎？ — 是的，他們喜歡。他們喜歡木瓜牛奶。",
+    "vocabIndex": 22
+  },
+  {
+    "q": "Q: Does Amy like soft and sweet fruit? — A: Yes, she does. She likes pink ______.【桃子】",
+    "options": [
+      "grapes",
+      "eggs",
+      "peaches",
+      "strawberries"
+    ],
+    "answer": 2,
+    "cn": "艾美喜歡軟軟甜甜的水果嗎？ — 是的，她喜歡。她喜歡粉紅色的桃子。",
+    "vocabIndex": 23
+  },
+  {
+    "q": "Q: Does your mom like apples? — A: No, she doesn't. She likes ______.【梨子】",
+    "options": [
+      "noodles",
+      "guavas",
+      "grapes",
+      "pears"
+    ],
+    "answer": 3,
+    "cn": "你媽媽喜歡蘋果嗎？ — 不，她不喜歡。她喜歡梨子。",
+    "vocabIndex": 24
+  },
+  {
+    "q": "Q: Does your dad like sweet tea? — A: No, he doesn't. He likes ______ tea.【檸檬】",
+    "options": [
+      "lemon",
+      "popcorn",
+      "sandwich",
+      "watermelon"
+    ],
+    "answer": 0,
+    "cn": "你爸爸喜歡甜的茶嗎？ — 不，他不喜歡。他喜歡檸檬茶。",
+    "vocabIndex": 25
+  },
+  {
+    "q": "Q: Do you like red fruit? — A: Yes, I do. I like ______.【草莓】",
+    "options": [
+      "buns",
+      "pears",
+      "strawberries",
+      "vegetables"
+    ],
+    "answer": 2,
+    "cn": "你喜歡紅色的水果嗎？ — 是的，我喜歡。我喜歡草莓。",
+    "vocabIndex": 26
+  },
+  {
+    "q": "Q: Does your brother like summer fruit? — A: Yes, he does. He likes ______. It's big and sweet.【西瓜】",
+    "options": [
+      "snack",
+      "watermelon",
+      "coffee",
+      "lunch"
+    ],
+    "answer": 1,
+    "cn": "你哥哥喜歡夏天的水果嗎？ — 是的，他喜歡。他喜歡西瓜，它又大又甜。",
+    "vocabIndex": 27
+  },
+  {
+    "q": "Q: Do you like red vegetables? — A: Yes, I do. I like ______.【番茄】",
+    "options": [
+      "vegetables",
+      "pears",
+      "eggs",
+      "tomatoes"
+    ],
+    "answer": 3,
+    "cn": "你喜歡紅色的蔬菜嗎？ — 是的，我喜歡。我喜歡番茄。",
+    "vocabIndex": 28
+  },
+  {
+    "q": "Q: Does your little brother like green food? — A: No, he doesn't. He doesn't like ______.【蔬菜】",
+    "options": [
+      "vegetables",
+      "fries",
+      "guavas",
+      "dumplings"
+    ],
+    "answer": 0,
+    "cn": "你弟弟喜歡綠色的食物嗎？ — 不，他不喜歡。他不喜歡蔬菜。",
+    "vocabIndex": 29
+  },
+  {
+    "q": "Q: Do rabbits like vegetables? — A: Yes, they do. They like ______.【萵苣；生菜】",
+    "options": [
+      "coffee",
+      "cake",
+      "lettuce",
+      "butter"
+    ],
+    "answer": 2,
+    "cn": "兔子喜歡蔬菜嗎？ — 是的，牠們喜歡。牠們喜歡生菜。",
+    "vocabIndex": 30
+  },
+  {
+    "q": "Q: Does your grandma like sweet soup? — A: Yes, she does. She likes red ______ soup.【豆子】",
+    "options": [
+      "sugar",
+      "bean",
+      "salad",
+      "rice"
+    ],
+    "answer": 1,
+    "cn": "你奶奶喜歡甜湯嗎？ — 是的，她喜歡。她喜歡紅豆湯。",
+    "vocabIndex": 31
+  },
+  {
+    "q": "Q: Do you like Halloween food? — A: Yes, I do. I like ______ pie.【南瓜】",
+    "options": [
+      "toast",
+      "cake",
+      "beef",
+      "pumpkin"
+    ],
+    "answer": 3,
+    "cn": "你喜歡萬聖節的食物嗎？ — 是的，我喜歡。我喜歡南瓜派。",
+    "vocabIndex": 32
+  },
+  {
+    "q": "Q: Does your sister like beef and pork? — A: No, she doesn't. She doesn't like ______.【肉】",
+    "options": [
+      "orange",
+      "sugar",
+      "meat",
+      "lettuce"
+    ],
+    "answer": 2,
+    "cn": "你姊姊喜歡牛肉和豬肉嗎？ — 不，她不喜歡。她不喜歡肉。",
+    "vocabIndex": 33
+  },
+  {
+    "q": "Q: Do you like noodles? — A: Yes, I do. I like ______ noodles.【牛肉】",
+    "options": [
+      "coffee",
+      "beef",
+      "soup",
+      "tea"
+    ],
+    "answer": 1,
+    "cn": "你喜歡麵嗎？ — 是的，我喜歡。我喜歡牛肉麵。",
+    "vocabIndex": 34
+  },
+  {
+    "q": "Q: Does Grandpa like meat? — A: Yes, he does. He likes ______ with rice.【豬肉】",
+    "options": [
+      "pork",
+      "meat",
+      "pizza",
+      "chicken"
+    ],
+    "answer": 0,
+    "cn": "爺爺喜歡肉嗎？ — 是的，他喜歡。他喜歡豬肉配飯。",
+    "vocabIndex": 35
+  },
+  {
+    "q": "Q: Do your kids like fried food? — A: Yes, they do. They like fried ______.【雞肉】",
+    "options": [
+      "popcorn",
+      "lemon",
+      "chicken",
+      "hamburger"
+    ],
+    "answer": 2,
+    "cn": "你的孩子們喜歡炸的食物嗎？ — 是的，他們喜歡。他們喜歡炸雞。",
+    "vocabIndex": 36
+  },
+  {
+    "q": "Q: Does your cat like meat? — A: Yes, it does. But it likes ______ best.【魚；魚肉】",
+    "options": [
+      "popcorn",
+      "fish",
+      "milk",
+      "salad"
+    ],
+    "answer": 1,
+    "cn": "你的貓喜歡肉嗎？ — 是的，牠喜歡。但牠最喜歡魚。",
+    "vocabIndex": 37
+  },
+  {
+    "q": "Q: Do you like pizza? — A: Yes, I do. I like ______ and cheese pizza.【火腿】",
+    "options": [
+      "candy",
+      "rice",
+      "lunch",
+      "ham"
+    ],
+    "answer": 3,
+    "cn": "你喜歡披薩嗎？ — 是的，我喜歡。我喜歡火腿起司披薩。",
+    "vocabIndex": 38
+  },
+  {
+    "q": "Q: Does the little mouse like milk? — A: No, it doesn't. It likes ______.【起司；乳酪】",
+    "options": [
+      "cheese",
+      "juice",
+      "water",
+      "fish"
+    ],
+    "answer": 0,
+    "cn": "那隻小老鼠喜歡牛奶嗎？ — 不，牠不喜歡。牠喜歡起司。",
+    "vocabIndex": 39
+  },
+  {
+    "q": "Q: Do your sisters like sweet food? — A: Yes, they do. They like ______ very much.【巧克力】",
+    "options": [
+      "fish",
+      "salad",
+      "coffee",
+      "chocolate"
+    ],
+    "answer": 3,
+    "cn": "你的姊妹們喜歡甜食嗎？ — 是的，她們喜歡。她們非常喜歡巧克力。",
+    "vocabIndex": 40
+  },
+  {
+    "q": "Q: Does Ben like sweet food? — A: Yes, he does. He likes ______, but it's bad for his teeth.【糖果】",
+    "options": [
+      "tea",
+      "steak",
+      "candy",
+      "menu"
+    ],
+    "answer": 2,
+    "cn": "班喜歡甜食嗎？ — 是的，他喜歡。他喜歡糖果，但糖果對他的牙齒不好。",
+    "vocabIndex": 41
+  },
+  {
+    "q": "Q: Do you like movies? — A: Yes, I do. I like eating ______ at the movies.【爆米花】",
+    "options": [
+      "hot dog",
+      "popcorn",
+      "tea",
+      "cheese"
+    ],
+    "answer": 1,
+    "cn": "你喜歡電影嗎？ — 是的，我喜歡。我喜歡在看電影時吃爆米花。",
+    "vocabIndex": 42
+  },
+  {
+    "q": "Q: Does your mom like chocolate? — A: Yes, she does. She likes chocolate ______.【蛋糕】",
+    "options": [
+      "cake",
+      "ice",
+      "tea",
+      "snack"
+    ],
+    "answer": 0,
+    "cn": "你媽媽喜歡巧克力嗎？ — 是的，她喜歡。她喜歡巧克力蛋糕。",
+    "vocabIndex": 43
+  },
+  {
+    "q": "Q: Do you like apples? — A: Yes, I do. I like apple ______ best.【派】",
+    "options": [
+      "candy",
+      "lemon",
+      "pie",
+      "cheese"
+    ],
+    "answer": 2,
+    "cn": "你喜歡蘋果嗎？ — 是的，我喜歡。我最喜歡蘋果派。",
+    "vocabIndex": 44
+  },
+  {
+    "q": "Q: Do your grandparents like to make bread? — A: Yes, they do. They like to ______ bread and cakes.【烘烤】",
+    "options": [
+      "drink",
+      "bake",
+      "cook",
+      "order"
+    ],
+    "answer": 1,
+    "cn": "你的爺爺奶奶喜歡做麵包嗎？ — 是的，他們喜歡。他們喜歡烤麵包和蛋糕。",
+    "vocabIndex": 45
+  },
+  {
+    "q": "Q: Does your dad like to work in the kitchen? — A: Yes, he does. He likes to ______ dinner for us.【煮飯；烹調】",
+    "options": [
+      "cook",
+      "order",
+      "bake",
+      "drink"
+    ],
+    "answer": 0,
+    "cn": "你爸爸喜歡在廚房工作嗎？ — 是的，他喜歡。他喜歡煮晚餐給我們吃。",
+    "vocabIndex": 46
+  },
+  {
+    "q": "Q: How many ______ does Mom need for the cake? — A: She needs three. She doesn't need any milk.【蛋】",
+    "options": [
+      "cookies",
+      "noodles",
+      "pears",
+      "eggs"
+    ],
+    "answer": 3,
+    "cn": "媽媽做蛋糕需要幾顆蛋？ — 她需要三顆，她不需要任何牛奶。",
+    "vocabIndex": 47
+  },
+  {
+    "q": "Q: How many ______ do you want? — A: I want two. I'm very hungry.【小圓麵包；包子】",
+    "options": [
+      "buns",
+      "noodles",
+      "grapes",
+      "tomatoes"
+    ],
+    "answer": 0,
+    "cn": "你想要幾個小圓麵包？ — 我想要兩個，我很餓。",
+    "vocabIndex": 48
+  },
+  {
+    "q": "Q: How many ______ does Dad want? — A: He wants twenty! He has them for dinner.【水餃；湯圓】",
+    "options": [
+      "bananas",
+      "cookies",
+      "buns",
+      "dumplings"
+    ],
+    "answer": 3,
+    "cn": "爸爸想要幾顆水餃？ — 他想要二十顆！他晚餐要吃。",
+    "vocabIndex": 49
+  },
+  {
+    "q": "Q: How many ______ do the kids have? — A: They have ten. They want to share them.【餅乾】",
+    "options": [
+      "bananas",
+      "vegetables",
+      "cookies",
+      "peaches"
+    ],
+    "answer": 2,
+    "cn": "孩子們有幾片餅乾？ — 他們有十片，他們想要分享。",
+    "vocabIndex": 50
+  },
+  {
+    "q": "Q: How much ______ do we have? — A: We don't have any. Let's buy some.【麵包】",
+    "options": [
+      "orange",
+      "bread",
+      "popcorn",
+      "pumpkin"
+    ],
+    "answer": 1,
+    "cn": "我們有多少麵包？ — 我們一點都沒有了，我們去買一些吧。",
+    "vocabIndex": 51
+  },
+  {
+    "q": "Q: How much ______ does your brother eat? — A: He eats three bowls every day.【米飯】",
+    "options": [
+      "steak",
+      "meal",
+      "ice cream",
+      "rice"
+    ],
+    "answer": 3,
+    "cn": "你哥哥吃多少飯？ — 他每天吃三碗。",
+    "vocabIndex": 52
+  },
+  {
+    "q": "Q: How much ______ does the soup need? — A: It needs a little.【鹽】",
+    "options": [
+      "fruit",
+      "salt",
+      "breakfast",
+      "ice cream"
+    ],
+    "answer": 1,
+    "cn": "這湯需要多少鹽？ — 它需要一點點。",
+    "vocabIndex": 53
+  },
+  {
+    "q": "Q: How much ______ do you want in your coffee? — A: I don't want any, thanks.【糖】",
+    "options": [
+      "sugar",
+      "milk",
+      "cake",
+      "fish"
+    ],
+    "answer": 0,
+    "cn": "你的咖啡裡要加多少糖？ — 我一點都不要，謝謝。",
+    "vocabIndex": 54
+  },
+  {
+    "q": "Q: How much ______ does Mom need? — A: She needs a little. She is cooking eggs.【油】",
+    "options": [
+      "dinner",
+      "chicken",
+      "oil",
+      "ham"
+    ],
+    "answer": 2,
+    "cn": "媽媽需要多少油？ — 她需要一點點，她正在煎蛋。",
+    "vocabIndex": 55
+  },
+  {
+    "q": "Q: Do we have any ______? — A: Yes, we have some. It's in the fridge.【奶油】",
+    "options": [
+      "apple",
+      "food",
+      "menu",
+      "butter"
+    ],
+    "answer": 3,
+    "cn": "我們有奶油嗎？ — 有，我們有一些，在冰箱裡。",
+    "vocabIndex": 56
+  },
+  {
+    "q": "Q: How much ______ does the baby drink? — A: She drinks three bottles a day.【牛奶】",
+    "options": [
+      "fish",
+      "milk",
+      "hot dog",
+      "tea"
+    ],
+    "answer": 1,
+    "cn": "這個寶寶喝多少牛奶？ — 她一天喝三瓶。",
+    "vocabIndex": 57
+  },
+  {
+    "q": "Q: How many glasses of ______ do you drink every day? — A: I drink eight glasses.【水】",
+    "options": [
+      "water",
+      "candy",
+      "breakfast",
+      "dinner"
+    ],
+    "answer": 0,
+    "cn": "你每天喝幾杯水？ — 我喝八杯。",
+    "vocabIndex": 58
+  },
+  {
+    "q": "Q: How does the ______ taste? — A: It's good, but it needs more salt.【湯】",
+    "options": [
+      "apple",
+      "candy",
+      "soup",
+      "milk"
+    ],
+    "answer": 2,
+    "cn": "這湯嚐起來怎麼樣？ — 很好，但它需要多一點鹽。",
+    "vocabIndex": 59
+  },
+  {
+    "q": "Q: How does your ______ taste? — A: It's great. I like beef.【牛排】",
+    "options": [
+      "beef",
+      "rice",
+      "menu",
+      "steak"
+    ],
+    "answer": 3,
+    "cn": "你的牛排嚐起來怎麼樣？ — 很棒，我喜歡牛肉。",
+    "vocabIndex": 60
+  },
+  {
+    "q": "Q: How does the ______ taste? — A: It's fresh. It has lettuce and tomatoes.【沙拉】",
+    "options": [
+      "chicken",
+      "salad",
+      "sugar",
+      "lunch"
+    ],
+    "answer": 1,
+    "cn": "這沙拉嚐起來怎麼樣？ — 很新鮮，裡面有生菜和番茄。",
+    "vocabIndex": 61
+  },
+  {
+    "q": "Q: How does Mom's beef soup taste? — A: It tastes ______.【美味的】",
+    "options": [
+      "delicious",
+      "sweet",
+      "full",
+      "yummy"
+    ],
+    "answer": 0,
+    "cn": "媽媽的牛肉湯嚐起來怎麼樣？ — 它嚐起來很美味。",
+    "vocabIndex": 62
+  },
+  {
+    "q": "Q: How do the cookies taste? — A: They're ______! I want more.【好吃的】",
+    "options": [
+      "full",
+      "hot",
+      "yummy",
+      "thirsty"
+    ],
+    "answer": 2,
+    "cn": "這些餅乾嚐起來怎麼樣？ — 它們好好吃！我還想要。",
+    "vocabIndex": 63
+  },
+  {
+    "q": "Q: How does the watermelon taste? — A: It tastes very ______.【甜的】",
+    "options": [
+      "sweet",
+      "yummy",
+      "full",
+      "hungry"
+    ],
+    "answer": 0,
+    "cn": "這西瓜嚐起來怎麼樣？ — 它嚐起來很甜。",
+    "vocabIndex": 64
+  },
+  {
+    "q": "Q: How do the noodles taste? — A: They're too ______. Wait a minute.【熱的；燙的；辣的】",
+    "options": [
+      "yummy",
+      "hungry",
+      "thirsty",
+      "hot"
+    ],
+    "answer": 3,
+    "cn": "這些麵嚐起來怎麼樣？ — 它們太燙了，等一下吧。",
+    "vocabIndex": 65
+  },
+  {
+    "q": "Q: How does the toast taste? — A: It tastes bad. Dad often ______ it.【燒焦；燃燒】",
+    "options": [
+      "boils",
+      "eats",
+      "burns",
+      "drink"
+    ],
+    "answer": 2,
+    "cn": "這土司嚐起來怎麼樣？ — 嚐起來很糟，爸爸常常把它烤焦。",
+    "vocabIndex": 66
+  },
+  {
+    "q": "Q: What do you have for ______? — A: I have toast and milk every morning.【早餐】",
+    "options": [
+      "ham",
+      "breakfast",
+      "ice",
+      "bean"
+    ],
+    "answer": 1,
+    "cn": "你早餐吃什麼？ — 我每天早上吃土司和喝牛奶。",
+    "vocabIndex": 67
+  },
+  {
+    "q": "Q: What does Dad have for breakfast? — A: He has ______ and coffee for breakfast.【土司】",
+    "options": [
+      "toast",
+      "cake",
+      "pizza",
+      "breakfast"
+    ],
+    "answer": 0,
+    "cn": "爸爸早餐吃什麼？ — 他早餐吃土司、喝咖啡。",
+    "vocabIndex": 68
+  },
+  {
+    "q": "Q: What do your kids have for breakfast? — A: They have bread, and they ______ a glass of milk.【喝】",
+    "options": [
+      "order",
+      "cook",
+      "drink",
+      "bake"
+    ],
+    "answer": 2,
+    "cn": "你的孩子們早餐吃什麼？ — 他們吃麵包，而且喝一杯牛奶。",
+    "vocabIndex": 69
+  },
+  {
+    "q": "Q: What does Grandma have for breakfast? — A: She has two eggs. She ______ them in water.【煮沸；水煮】",
+    "options": [
+      "eats",
+      "boils",
+      "burns",
+      "bake"
+    ],
+    "answer": 1,
+    "cn": "奶奶早餐吃什麼？ — 她吃兩顆蛋，她用水把蛋煮熟。",
+    "vocabIndex": 70
+  },
+  {
+    "q": "Q: What does Amy have for ______? — A: She has rice and fish at noon.【午餐】",
+    "options": [
+      "soup",
+      "rice",
+      "milk",
+      "lunch"
+    ],
+    "answer": 3,
+    "cn": "艾美午餐吃什麼？ — 她中午吃飯和魚。",
+    "vocabIndex": 71
+  },
+  {
+    "q": "Q: What do you have for lunch? — A: I have a ham ______ for lunch.【三明治】",
+    "options": [
+      "hamburger",
+      "sandwich",
+      "menu",
+      "oil"
+    ],
+    "answer": 1,
+    "cn": "你午餐吃什麼？ — 我午餐吃火腿三明治。",
+    "vocabIndex": 72
+  },
+  {
+    "q": "Q: What does your dad have for lunch? — A: He has beef ______ for lunch.【麵條】",
+    "options": [
+      "pears",
+      "vegetables",
+      "noodles",
+      "grapes"
+    ],
+    "answer": 2,
+    "cn": "你爸爸午餐吃什麼？ — 他午餐吃牛肉麵。",
+    "vocabIndex": 73
+  },
+  {
+    "q": "Q: What does your brother have for dinner? — A: He ______ rice and pork for dinner.【吃】",
+    "options": [
+      "burns",
+      "boils",
+      "bake",
+      "eats"
+    ],
+    "answer": 3,
+    "cn": "你哥哥晚餐吃什麼？ — 他晚餐吃飯和豬肉。",
+    "vocabIndex": 74
+  },
+  {
+    "q": "Q: What do your parents have for ______? — A: They have soup and steak in the evening.【晚餐】",
+    "options": [
+      "dinner",
+      "lunch",
+      "juice",
+      "Coke"
+    ],
+    "answer": 0,
+    "cn": "你爸媽晚餐吃什麼？ — 他們晚上吃湯和牛排。",
+    "vocabIndex": 75
+  },
+  {
+    "q": "Q: What does your family have for dinner on Sundays? — A: We have a big ______ together.【一餐】",
+    "options": [
+      "ham",
+      "meal",
+      "oil",
+      "chicken"
+    ],
+    "answer": 1,
+    "cn": "你們家星期天晚餐吃什麼？ — 我們一起吃一頓大餐。",
+    "vocabIndex": 76
+  },
+  {
+    "q": "Q: What do you have for dinner on Moon Festival? — A: We have a ______ with our neighbors.【烤肉】",
+    "options": [
+      "hamburger",
+      "ham",
+      "barbecue",
+      "sandwich"
+    ],
+    "answer": 2,
+    "cn": "中秋節你們晚餐吃什麼？ — 我們和鄰居一起烤肉。",
+    "vocabIndex": 77
+  },
+  {
+    "q": "Q: What do you have after school? — A: I have a ______: some fruit and milk.【點心】",
+    "options": [
+      "menu",
+      "watermelon",
+      "milk",
+      "snack"
+    ],
+    "answer": 3,
+    "cn": "你放學後吃什麼？ — 我吃點心：一些水果和牛奶。",
+    "vocabIndex": 78
+  }
+];
+
+const LOOKUP = {
+  "hungry": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "飢餓的"
+  },
+  "thirsty": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "口渴的"
+  },
+  "full": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "飽的；滿的"
+  },
+  "menu": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "菜單"
+  },
+  "order": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "點餐"
+  },
+  "food": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "食物"
+  },
+  "hamburger": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "漢堡"
+  },
+  "fries": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "炸薯條"
+  },
+  "hot dog": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "熱狗"
+  },
+  "pizza": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "披薩"
+  },
+  "ice cream": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "冰淇淋"
+  },
+  "coke": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "可樂"
+  },
+  "ice": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "冰"
+  },
+  "juice": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "果汁"
+  },
+  "tea": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "茶"
+  },
+  "coffee": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "咖啡"
+  },
+  "fruit": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "水果"
+  },
+  "apple": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "蘋果"
+  },
+  "orange": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "柳橙"
+  },
+  "bananas": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "香蕉"
+  },
+  "grapes": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "葡萄"
+  },
+  "guavas": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "芭樂"
+  },
+  "papaya": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "木瓜"
+  },
+  "peaches": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "桃子"
+  },
+  "pears": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "梨子"
+  },
+  "lemon": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "檸檬"
+  },
+  "strawberries": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "草莓"
+  },
+  "watermelon": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "西瓜"
+  },
+  "tomatoes": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "番茄"
+  },
+  "vegetables": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "蔬菜"
+  },
+  "lettuce": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "萵苣；生菜"
+  },
+  "bean": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "豆子"
+  },
+  "pumpkin": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "南瓜"
+  },
+  "meat": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "肉"
+  },
+  "beef": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "牛肉"
+  },
+  "pork": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "豬肉"
+  },
+  "chicken": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "雞肉"
+  },
+  "fish": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "魚；魚肉"
+  },
+  "ham": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "火腿"
+  },
+  "cheese": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "起司；乳酪"
+  },
+  "chocolate": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "巧克力"
+  },
+  "candy": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "糖果"
+  },
+  "popcorn": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "爆米花"
+  },
+  "cake": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "蛋糕"
+  },
+  "pie": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "派"
+  },
+  "bake": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "烘烤"
+  },
+  "cook": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "煮飯；烹調"
+  },
+  "eggs": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "蛋"
+  },
+  "buns": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "小圓麵包；包子"
+  },
+  "dumplings": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "水餃；湯圓"
+  },
+  "cookies": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "餅乾"
+  },
+  "bread": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "麵包"
+  },
+  "rice": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "米飯"
+  },
+  "salt": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "鹽"
+  },
+  "sugar": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "糖"
+  },
+  "oil": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "油"
+  },
+  "butter": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "奶油"
+  },
+  "milk": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "牛奶"
+  },
+  "water": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "水"
+  },
+  "soup": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "湯"
+  },
+  "steak": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "牛排"
+  },
+  "salad": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "沙拉"
+  },
+  "delicious": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "美味的"
+  },
+  "yummy": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "好吃的"
+  },
+  "sweet": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "甜的"
+  },
+  "hot": {
+    "pos": "adj.",
+    "en_def": "",
+    "cn_def": "熱的；燙的；辣的"
+  },
+  "burns": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "燒焦；燃燒"
+  },
+  "breakfast": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "早餐"
+  },
+  "toast": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "土司"
+  },
+  "drink": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "喝"
+  },
+  "boils": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "煮沸；水煮"
+  },
+  "lunch": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "午餐"
+  },
+  "sandwich": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "三明治"
+  },
+  "noodles": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "麵條"
+  },
+  "eats": {
+    "pos": "v.",
+    "en_def": "",
+    "cn_def": "吃"
+  },
+  "dinner": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "晚餐"
+  },
+  "meal": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "一餐"
+  },
+  "barbecue": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "烤肉"
+  },
+  "snack": {
+    "pos": "n.",
+    "en_def": "",
+    "cn_def": "點心"
+  }
+};
+
+const EXTRA_GLOSSES = {};

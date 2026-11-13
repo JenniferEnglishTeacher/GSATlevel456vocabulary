@@ -42,6 +42,7 @@ function shuffleIndices(n) {
 function speak(text, rate) {
   if (!("speechSynthesis" in window)) return;
   window.speechSynthesis.cancel();
+  text = String(text).replace(/【[^】]*】/g, "").replace(/_{3,}/g, "blank");
   const utter = new SpeechSynthesisUtterance(text);
   utter.lang = "en-US";
   utter.rate = rate || 0.9;
@@ -158,9 +159,9 @@ function checkPart1Answer() {
     return;
   }
 
-  const norm = s => s.toLowerCase().replace(/\s+/g, " ").replace(/[.,!?]$/, "").trim();
+  const norm = s => s.toLowerCase().replace(/\./g, "").replace(/\s+/g, " ").replace(/[,!?]$/, "").trim();
   const target = v.answer || v.word;
-  const correct = norm(typed) === norm(target);
+  const correct = [target].concat(v.alts || []).some(t => norm(typed) === norm(t));
 
   if (correct) {
     feedback.className = "feedback-msg good";

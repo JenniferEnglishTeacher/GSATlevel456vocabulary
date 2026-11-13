@@ -1,0 +1,372 @@
+// 國中小1200字 Unit 11 (Tableware 餐具（第11區）) — flashcards + MCQ practice
+window.FLASHCARD_UNITS = {
+ "11": {
+  "title": "國中小1200字 · Unit 11: Tableware 餐具（第11區）",
+  "theme": "Tableware 餐具（第11區）",
+  "cards": [
+   {
+    "word": "chopsticks",
+    "answer": "chopsticks",
+    "pos": "n.",
+    "definition": "",
+    "chinese": "筷子",
+    "sentence": "Q: What do you use to eat noodles? — A: I use __________. They are easy for me.",
+    "translation": "你用什麼吃麵？ — 我用筷子，筷子對我來說很容易。",
+    "lookup": {
+     "english": "",
+     "chinese": "筷子"
+    }
+   },
+   {
+    "word": "spoon",
+    "answer": "spoon",
+    "pos": "n.",
+    "definition": "",
+    "chinese": "湯匙",
+    "sentence": "Q: What does your little brother use to eat soup? — A: He uses a __________.",
+    "translation": "你弟弟用什麼喝湯？ — 他用湯匙。",
+    "lookup": {
+     "english": "",
+     "chinese": "湯匙"
+    }
+   },
+   {
+    "word": "fork (forks)",
+    "answer": "forks",
+    "pos": "n.",
+    "definition": "",
+    "chinese": "叉子",
+    "sentence": "Q: Do your American friends use chopsticks? — A: No, they don't. They use __________.",
+    "translation": "你的美國朋友用筷子嗎？ — 不，他們不用，他們用叉子。",
+    "lookup": {
+     "english": "",
+     "chinese": "叉子"
+    }
+   },
+   {
+    "word": "knife",
+    "answer": "knife",
+    "pos": "n.",
+    "definition": "",
+    "chinese": "刀子",
+    "sentence": "Q: Does your dad use chopsticks to eat steak? — A: No, he doesn't. He uses a __________ and a fork.",
+    "translation": "你爸爸用筷子吃牛排嗎？ — 不，他不用，他用刀子和叉子。",
+    "lookup": {
+     "english": "",
+     "chinese": "刀子"
+    }
+   },
+   {
+    "word": "cup",
+    "answer": "cup",
+    "pos": "n.",
+    "definition": "",
+    "chinese": "茶杯；杯子",
+    "sentence": "Q: What does your mom use to drink coffee? — A: She uses a big __________.",
+    "translation": "你媽媽用什麼喝咖啡？ — 她用一個大杯子。",
+    "lookup": {
+     "english": "",
+     "chinese": "茶杯；杯子"
+    }
+   },
+   {
+    "word": "glass",
+    "answer": "glass",
+    "pos": "n.",
+    "definition": "",
+    "chinese": "玻璃杯",
+    "sentence": "Q: I'm thirsty. Can I have a __________ of water, please? — A: Sure. Here you are.",
+    "translation": "我口渴了，可以給我一杯水嗎？ — 當然，給你。",
+    "lookup": {
+     "english": "",
+     "chinese": "玻璃杯"
+    }
+   },
+   {
+    "word": "bowl",
+    "answer": "bowl",
+    "pos": "n.",
+    "definition": "",
+    "chinese": "碗",
+    "sentence": "Q: Mom, can I have a __________ of rice, please? — A: Sure. Here you are. It's hot!",
+    "translation": "媽，可以給我一碗飯嗎？ — 當然，給你，很燙喔！",
+    "lookup": {
+     "english": "",
+     "chinese": "碗"
+    }
+   },
+   {
+    "word": "plate",
+    "answer": "plate",
+    "pos": "n.",
+    "definition": "",
+    "chinese": "盤子",
+    "sentence": "Q: Can I have a __________, please? I want some cake. — A: Sure. Here's a clean one.",
+    "translation": "可以給我一個盤子嗎？我想吃一些蛋糕。 — 當然，這裡有一個乾淨的。",
+    "lookup": {
+     "english": "",
+     "chinese": "盤子"
+    }
+   },
+   {
+    "word": "dish",
+    "answer": "dish",
+    "pos": "n.",
+    "definition": "",
+    "chinese": "菜餚；盤子",
+    "sentence": "Q: Can I have this chicken __________, please? — A: Sure. Do you want rice with it?",
+    "translation": "我可以點這道雞肉料理嗎？ — 好的，您要配飯嗎？",
+    "lookup": {
+     "english": "",
+     "chinese": "菜餚；盤子"
+    }
+   },
+   {
+    "word": "lid",
+    "answer": "lid",
+    "pos": "n.",
+    "definition": "",
+    "chinese": "蓋子",
+    "sentence": "Q: Can I have a __________ for my cup, please? The tea is hot. — A: Of course. Put it on, and your tea stays hot.",
+    "translation": "可以給我一個杯蓋嗎？茶很燙。 — 當然可以，蓋上去，你的茶就會保溫。",
+    "lookup": {
+     "english": "",
+     "chinese": "蓋子"
+    }
+   }
+  ],
+  "quiz": [
+   {
+    "question": "Q: What do you use to eat noodles? — A: I use __________. They are easy for me.【筷子】",
+    "options": [
+     {
+      "letter": "A",
+      "text": "chopsticks"
+     },
+     {
+      "letter": "B",
+      "text": "glass"
+     },
+     {
+      "letter": "C",
+      "text": "forks"
+     },
+     {
+      "letter": "D",
+      "text": "cup"
+     }
+    ],
+    "answer": "A",
+    "vi": 0
+   },
+   {
+    "question": "Q: What does your little brother use to eat soup? — A: He uses a __________.【湯匙】",
+    "options": [
+     {
+      "letter": "A",
+      "text": "plate"
+     },
+     {
+      "letter": "B",
+      "text": "spoon"
+     },
+     {
+      "letter": "C",
+      "text": "lid"
+     },
+     {
+      "letter": "D",
+      "text": "dish"
+     }
+    ],
+    "answer": "B",
+    "vi": 1
+   },
+   {
+    "question": "Q: Do your American friends use chopsticks? — A: No, they don't. They use __________.【叉子】",
+    "options": [
+     {
+      "letter": "A",
+      "text": "chopsticks"
+     },
+     {
+      "letter": "B",
+      "text": "glass"
+     },
+     {
+      "letter": "C",
+      "text": "bowl"
+     },
+     {
+      "letter": "D",
+      "text": "forks"
+     }
+    ],
+    "answer": "D",
+    "vi": 2
+   },
+   {
+    "question": "Q: Does your dad use chopsticks to eat steak? — A: No, he doesn't. He uses a __________ and a fork.【刀子】",
+    "options": [
+     {
+      "letter": "A",
+      "text": "bowl"
+     },
+     {
+      "letter": "B",
+      "text": "plate"
+     },
+     {
+      "letter": "C",
+      "text": "knife"
+     },
+     {
+      "letter": "D",
+      "text": "cup"
+     }
+    ],
+    "answer": "C",
+    "vi": 3
+   },
+   {
+    "question": "Q: What does your mom use to drink coffee? — A: She uses a big __________.【茶杯；杯子】",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cup"
+     },
+     {
+      "letter": "B",
+      "text": "spoon"
+     },
+     {
+      "letter": "C",
+      "text": "lid"
+     },
+     {
+      "letter": "D",
+      "text": "bowl"
+     }
+    ],
+    "answer": "A",
+    "vi": 4
+   },
+   {
+    "question": "Q: I'm thirsty. Can I have a __________ of water, please? — A: Sure. Here you are.【玻璃杯】",
+    "options": [
+     {
+      "letter": "A",
+      "text": "forks"
+     },
+     {
+      "letter": "B",
+      "text": "glass"
+     },
+     {
+      "letter": "C",
+      "text": "chopsticks"
+     },
+     {
+      "letter": "D",
+      "text": "knife"
+     }
+    ],
+    "answer": "B",
+    "vi": 5
+   },
+   {
+    "question": "Q: Mom, can I have a __________ of rice, please? — A: Sure. Here you are. It's hot!【碗】",
+    "options": [
+     {
+      "letter": "A",
+      "text": "plate"
+     },
+     {
+      "letter": "B",
+      "text": "knife"
+     },
+     {
+      "letter": "C",
+      "text": "bowl"
+     },
+     {
+      "letter": "D",
+      "text": "lid"
+     }
+    ],
+    "answer": "C",
+    "vi": 6
+   },
+   {
+    "question": "Q: Can I have a __________, please? I want some cake. — A: Sure. Here's a clean one.【盤子】",
+    "options": [
+     {
+      "letter": "A",
+      "text": "dish"
+     },
+     {
+      "letter": "B",
+      "text": "knife"
+     },
+     {
+      "letter": "C",
+      "text": "spoon"
+     },
+     {
+      "letter": "D",
+      "text": "plate"
+     }
+    ],
+    "answer": "D",
+    "vi": 7
+   },
+   {
+    "question": "Q: Can I have this chicken __________, please? — A: Sure. Do you want rice with it?【菜餚；盤子】",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lid"
+     },
+     {
+      "letter": "B",
+      "text": "dish"
+     },
+     {
+      "letter": "C",
+      "text": "spoon"
+     },
+     {
+      "letter": "D",
+      "text": "bowl"
+     }
+    ],
+    "answer": "B",
+    "vi": 8
+   },
+   {
+    "question": "Q: Can I have a __________ for my cup, please? The tea is hot. — A: Of course. Put it on, and your tea stays hot.【蓋子】",
+    "options": [
+     {
+      "letter": "A",
+      "text": "lid"
+     },
+     {
+      "letter": "B",
+      "text": "cup"
+     },
+     {
+      "letter": "C",
+      "text": "spoon"
+     },
+     {
+      "letter": "D",
+      "text": "bowl"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   }
+  ]
+ }
+};
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"chopsticks":["","筷子"],"spoon":["","湯匙"],"forks":["","叉子"],"knife":["","刀子"],"cup":["","茶杯；杯子"],"glass":["","玻璃杯"],"bowl":["","碗"],"plate":["","盤子"],"dish":["","菜餚；盤子"],"lid":["","蓋子"]});
