@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "doctor (Dr.)",
     "answer": "doctor",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person whose job is to help sick people get well",
     "chinese": "醫生",
     "sentence": "Q: What does your mother do? — A: She is a __________. She works in a hospital.",
     "translation": "你媽媽是做什麼的？ — 她是醫生，她在醫院工作。",
     "lookup": {
-     "english": "",
+     "english": "a person whose job is to help sick people get well",
      "chinese": "醫生"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "nurse (nurses)",
     "answer": "nurses",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who takes care of sick people in a hospital",
     "chinese": "護士",
     "sentence": "Q: What do Amy's aunts do? — A: They are __________. They help sick people.",
     "translation": "艾美的阿姨們是做什麼的？ — 她們是護士，她們幫助生病的人。",
     "lookup": {
-     "english": "",
+     "english": "a person who takes care of sick people in a hospital",
      "chinese": "護士"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "dentist",
     "answer": "dentist",
     "pos": "n.",
-    "definition": "",
+    "definition": "a doctor who takes care of people's teeth",
     "chinese": "牙醫",
     "sentence": "Q: What does Mr. Lin do? — A: He is a __________. He checks people's teeth.",
     "translation": "林先生是做什麼的？ — 他是牙醫，他檢查人們的牙齒。",
     "lookup": {
-     "english": "",
+     "english": "a doctor who takes care of people's teeth",
      "chinese": "牙醫"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "housewife",
     "answer": "housewife",
     "pos": "n.",
-    "definition": "",
+    "definition": "a woman who stays home and takes care of her family and house",
     "chinese": "家庭主婦",
     "sentence": "Q: What does Ben's mom do? — A: She is a __________. She cooks and cleans at home.",
     "translation": "班的媽媽是做什麼的？ — 她是家庭主婦，她在家煮飯、打掃。",
     "lookup": {
-     "english": "",
+     "english": "a woman who stays home and takes care of her family and house",
      "chinese": "家庭主婦"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "job",
     "answer": "job",
     "pos": "n.",
-    "definition": "",
+    "definition": "the work that you do to get money",
     "chinese": "工作",
     "sentence": "Q: What do your parents do? — A: My dad is a teacher, and my mom has a new __________ at a bank.",
     "translation": "你爸媽是做什麼的？ — 我爸爸是老師，我媽媽在銀行有一份新工作。",
     "lookup": {
-     "english": "",
+     "english": "the work that you do to get money",
      "chinese": "工作"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "business",
     "answer": "business",
     "pos": "n.",
-    "definition": "",
+    "definition": "buying and selling things to make money",
     "chinese": "生意",
     "sentence": "Q: What do Tom's parents do? — A: They have a small __________. They sell shoes.",
     "translation": "湯姆的爸媽是做什麼的？ — 他們做小生意，他們賣鞋子。",
     "lookup": {
-     "english": "",
+     "english": "buying and selling things to make money",
      "chinese": "生意"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "businessman",
     "answer": "businessman",
     "pos": "n.",
-    "definition": "",
+    "definition": "a man who works in a company and buys and sells things",
     "chinese": "商人",
     "sentence": "Q: What does Mr. Wang do? — A: He is a __________. He often travels to other countries.",
     "translation": "王先生是做什麼的？ — 他是商人，他常常去其他國家。",
     "lookup": {
-     "english": "",
+     "english": "a man who works in a company and buys and sells things",
      "chinese": "商人"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "boss",
     "answer": "boss",
     "pos": "n.",
-    "definition": "",
+    "definition": "the person who tells workers what to do",
     "chinese": "老闆",
     "sentence": "Q: What does Ms. Chen do at the store? — A: She is the __________. She tells everyone what to do.",
     "translation": "陳女士在店裡做什麼？ — 她是老闆，她告訴每個人要做什麼。",
     "lookup": {
-     "english": "",
+     "english": "the person who tells workers what to do",
      "chinese": "老闆"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "actor",
     "answer": "actor",
     "pos": "n.",
-    "definition": "",
+    "definition": "a man who plays a part in a movie or a play",
     "chinese": "男演員",
     "sentence": "Q: What does Tom want to be? — A: He wants to be an __________. He wants to be in movies.",
     "translation": "湯姆想當什麼？ — 他想當男演員，他想演電影。",
     "lookup": {
-     "english": "",
+     "english": "a man who plays a part in a movie or a play",
      "chinese": "男演員"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "actress",
     "answer": "actress",
     "pos": "n.",
-    "definition": "",
+    "definition": "a woman who plays a part in a movie or a play",
     "chinese": "女演員",
     "sentence": "Q: What do you want to be, Amy? — A: I want to be an __________. I love to act on TV.",
     "translation": "艾美，你想當什麼？ — 我想當女演員，我喜歡在電視上演戲。",
     "lookup": {
-     "english": "",
+     "english": "a woman who plays a part in a movie or a play",
      "chinese": "女演員"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "singer (singers)",
     "answer": "singers",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who sings songs",
     "chinese": "歌手",
     "sentence": "Q: What do your sisters want to be? — A: They want to be __________. They sing very well.",
     "translation": "你的姊妹們想當什麼？ — 她們想當歌手，她們唱歌很好聽。",
     "lookup": {
-     "english": "",
+     "english": "a person who sings songs",
      "chinese": "歌手"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "writer",
     "answer": "writer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who writes books or stories",
     "chinese": "作家",
     "sentence": "Q: What does Kevin want to be? — A: He wants to be a __________. He likes to write stories.",
     "translation": "凱文想當什麼？ — 他想當作家，他喜歡寫故事。",
     "lookup": {
-     "english": "",
+     "english": "a person who writes books or stories",
      "chinese": "作家"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "reporter",
     "answer": "reporter",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who finds and tells the news",
     "chinese": "記者",
     "sentence": "Q: What do you want to be in the future? — A: I want to be a __________. I want to report the news on TV.",
     "translation": "你將來想當什麼？ — 我想當記者，我想在電視上報新聞。",
     "lookup": {
-     "english": "",
+     "english": "a person who finds and tells the news",
      "chinese": "記者"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "engineer",
     "answer": "engineer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who plans and builds machines, roads, or bridges",
     "chinese": "工程師",
     "sentence": "Q: What does your brother want to be? — A: He wants to be an __________. He likes computers and machines.",
     "translation": "你哥哥想當什麼？ — 他想當工程師，他喜歡電腦和機器。",
     "lookup": {
-     "english": "",
+     "english": "a person who plans and builds machines, roads, or bridges",
      "chinese": "工程師"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "lawyer (lawyers)",
     "answer": "lawyers",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who knows the law and helps people with it",
     "chinese": "律師",
     "sentence": "Q: What do Jenny and Lisa want to be? — A: They want to be __________ like their father.",
     "translation": "珍妮和麗莎想當什麼？ — 她們想像她們的爸爸一樣當律師。",
     "lookup": {
-     "english": "",
+     "english": "a person who knows the law and helps people with it",
      "chinese": "律師"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "soldier",
     "answer": "soldier",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who is in an army",
     "chinese": "軍人",
     "sentence": "Q: What does Peter want to be? — A: He wants to be a __________. He wants to keep our country safe.",
     "translation": "彼得想當什麼？ — 他想當軍人，他想保衛我們的國家安全。",
     "lookup": {
-     "english": "",
+     "english": "a person who is in an army",
      "chinese": "軍人"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "cowboy (cowboys)",
     "answer": "cowboys",
     "pos": "n.",
-    "definition": "",
+    "definition": "a man who rides a horse and takes care of cows",
     "chinese": "牛仔",
     "sentence": "Q: What do the boys want to be at the Halloween party? — A: They want to be __________. They wear big hats.",
     "translation": "男孩們在萬聖節派對上想扮成什麼？ — 他們想扮成牛仔，他們戴大帽子。",
     "lookup": {
-     "english": "",
+     "english": "a man who rides a horse and takes care of cows",
      "chinese": "牛仔"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "work (works)",
     "answer": "works",
     "pos": "v.",
-    "definition": "",
+    "definition": "to do a job",
     "chinese": "工作",
     "sentence": "Q: Where does your father work? — A: He __________ at a bank.",
     "translation": "你爸爸在哪裡工作？ — 他在銀行工作。",
     "lookup": {
-     "english": "",
+     "english": "to do a job",
      "chinese": "工作"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "farmer (farmers)",
     "answer": "farmers",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who grows food or keeps animals on a farm",
     "chinese": "農夫",
     "sentence": "Q: Where do __________ work? — A: They work on farms. They grow rice and vegetables.",
     "translation": "農夫在哪裡工作？ — 他們在農場工作，他們種稻米和蔬菜。",
     "lookup": {
-     "english": "",
+     "english": "a person who grows food or keeps animals on a farm",
      "chinese": "農夫"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "fisherman",
     "answer": "fisherman",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who catches fish as a job",
     "chinese": "漁夫",
     "sentence": "Q: Where does a __________ work? — A: He works on a boat at sea.",
     "translation": "漁夫在哪裡工作？ — 他在海上的船上工作。",
     "lookup": {
-     "english": "",
+     "english": "a person who catches fish as a job",
      "chinese": "漁夫"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "cook",
     "answer": "cook",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who makes food as a job",
     "chinese": "廚師",
     "sentence": "Q: Where does the __________ work? — A: She works in the kitchen of a restaurant.",
     "translation": "那位廚師在哪裡工作？ — 她在一家餐廳的廚房工作。",
     "lookup": {
-     "english": "",
+     "english": "a person who makes food as a job",
      "chinese": "廚師"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "waiter (waiters)",
     "answer": "waiters",
     "pos": "n.",
-    "definition": "",
+    "definition": "a man who brings food to people in a restaurant",
     "chinese": "男服務生",
     "sentence": "Q: Where do __________ work? — A: They work in restaurants. They bring food to people.",
     "translation": "男服務生在哪裡工作？ — 他們在餐廳工作，他們幫人送餐。",
     "lookup": {
-     "english": "",
+     "english": "a man who brings food to people in a restaurant",
      "chinese": "男服務生"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "waitress",
     "answer": "waitress",
     "pos": "n.",
-    "definition": "",
+    "definition": "a woman who brings food to people in a restaurant",
     "chinese": "女服務生",
     "sentence": "Q: Where does Mary's sister work? — A: She is a __________ at a coffee shop.",
     "translation": "瑪莉的姊姊在哪裡工作？ — 她在一家咖啡店當女服務生。",
     "lookup": {
-     "english": "",
+     "english": "a woman who brings food to people in a restaurant",
      "chinese": "女服務生"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "clerk (clerks)",
     "answer": "clerks",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who works in a store or an office",
     "chinese": "店員",
     "sentence": "Q: Where do Ken and his friend work? — A: They are __________ at a supermarket.",
     "translation": "肯和他的朋友在哪裡工作？ — 他們在一家超市當店員。",
     "lookup": {
-     "english": "",
+     "english": "a person who works in a store or an office",
      "chinese": "店員"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "secretary",
     "answer": "secretary",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who answers the phone and writes letters for a boss",
     "chinese": "秘書",
     "sentence": "Q: Where does Ms. Lee work? — A: She works in an office. She is a __________.",
     "translation": "李女士在哪裡工作？ — 她在辦公室工作，她是秘書。",
     "lookup": {
-     "english": "",
+     "english": "a person who answers the phone and writes letters for a boss",
      "chinese": "秘書"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "mailman (mail carrier)",
     "answer": "mailman",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who brings letters to people's homes",
     "chinese": "郵差",
     "sentence": "Q: What does a __________ do? — A: He brings letters to every home.",
     "translation": "郵差做什麼？ — 他把信送到每一戶人家。",
     "lookup": {
-     "english": "",
+     "english": "a person who brings letters to people's homes",
      "chinese": "郵差"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "police",
     "answer": "police",
     "pos": "n.",
-    "definition": "",
+    "definition": "the people whose job is to catch bad people and keep everyone safe",
     "chinese": "警察",
     "sentence": "Q: What do the __________ do? — A: They help people and keep our city safe.",
     "translation": "警察做什麼？ — 他們幫助人們，維護我們城市的安全。",
     "lookup": {
-     "english": "",
+     "english": "the people whose job is to catch bad people and keep everyone safe",
      "chinese": "警察"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "officer",
     "answer": "officer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person with an important job in the police or the army",
     "chinese": "警官；官員",
     "sentence": "Q: What does a police __________ do? — A: He helps people and catches bad men.",
     "translation": "警官做什麼？ — 他幫助人們、抓壞人。",
     "lookup": {
-     "english": "",
+     "english": "a person with an important job in the police or the army",
      "chinese": "警官；官員"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "driver (drivers)",
     "answer": "drivers",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who drives a car, bus, or taxi",
     "chinese": "駕駛人；司機",
     "sentence": "Q: What do bus __________ do? — A: They drive buses and take people to many places.",
     "translation": "公車司機做什麼？ — 他們開公車，載人們去很多地方。",
     "lookup": {
-     "english": "",
+     "english": "a person who drives a car, bus, or taxi",
      "chinese": "駕駛人；司機"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "salesman",
     "answer": "salesman",
     "pos": "n.",
-    "definition": "",
+    "definition": "a man whose job is to sell things",
     "chinese": "推銷員",
     "sentence": "Q: What does a __________ do? — A: He sells things to people.",
     "translation": "推銷員做什麼？ — 他把東西賣給人們。",
     "lookup": {
-     "english": "",
+     "english": "a man whose job is to sell things",
      "chinese": "推銷員"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "shopkeeper (shopkeepers)",
     "answer": "shopkeepers",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who owns a small store",
     "chinese": "店主",
     "sentence": "Q: What do __________ do? — A: They open their stores and sell things.",
     "translation": "店主做什麼？ — 他們開店、賣東西。",
     "lookup": {
-     "english": "",
+     "english": "a person who owns a small store",
      "chinese": "店主"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "worker (workers)",
     "answer": "workers",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who works, often in a factory",
     "chinese": "工人",
     "sentence": "Q: What do the __________ do at the factory? — A: They make toys.",
     "translation": "工人們在工廠做什麼？ — 他們製作玩具。",
     "lookup": {
-     "english": "",
+     "english": "a person who works, often in a factory",
      "chinese": "工人"
     }
    }
@@ -1161,4 +1161,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"doctor":["","醫生"],"grows":["","成長；長大"],"cook":["","煮飯；烹調"],"washes":["","清洗"],"nurses":["","護士"],"dentist":["","牙醫"],"housewife":["","家庭主婦"],"job":["","工作"],"business":["","生意"],"businessman":["","商人"],"boss":["","老闆"],"actor":["","男演員"],"actress":["","女演員"],"singers":["","歌手"],"writer":["","作家"],"reporter":["","記者"],"engineer":["","工程師"],"lawyers":["","律師"],"soldier":["","軍人"],"cowboys":["","牛仔"],"works":["","工作"],"farmers":["","農夫"],"fisherman":["","漁夫"],"waiters":["","男服務生"],"waitress":["","女服務生"],"clerks":["","店員"],"secretary":["","秘書"],"mailman":["","郵差"],"police":["","警察"],"officer":["","警官；官員"],"drivers":["","駕駛人；司機"],"salesman":["","推銷員"],"shopkeepers":["","店主"],"workers":["","工人"],"knows":["","知道；認識"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"doctor":["a person whose job is to help sick people get well","醫生"],"grows":["to get bigger or older","成長；長大"],"cook":["to make food ready to eat by heating it","煮飯；烹調"],"washes":["to clean something with water and soap","清洗"],"nurses":["a person who takes care of sick people in a hospital","護士"],"dentist":["a doctor who takes care of people's teeth","牙醫"],"housewife":["a woman who stays home and takes care of her family and house","家庭主婦"],"job":["the work that you do to get money","工作"],"business":["buying and selling things to make money","生意"],"businessman":["a man who works in a company and buys and sells things","商人"],"boss":["the person who tells workers what to do","老闆"],"actor":["a man who plays a part in a movie or a play","男演員"],"actress":["a woman who plays a part in a movie or a play","女演員"],"singers":["a person who sings songs","歌手"],"writer":["a person who writes books or stories","作家"],"reporter":["a person who finds and tells the news","記者"],"engineer":["a person who plans and builds machines, roads, or bridges","工程師"],"lawyers":["a person who knows the law and helps people with it","律師"],"soldier":["a person who is in an army","軍人"],"cowboys":["a man who rides a horse and takes care of cows","牛仔"],"works":["to do a job","工作"],"farmers":["a person who grows food or keeps animals on a farm","農夫"],"fisherman":["a person who catches fish as a job","漁夫"],"waiters":["a man who brings food to people in a restaurant","男服務生"],"waitress":["a woman who brings food to people in a restaurant","女服務生"],"clerks":["a person who works in a store or an office","店員"],"secretary":["a person who answers the phone and writes letters for a boss","秘書"],"mailman":["a person who brings letters to people's homes","郵差"],"police":["the people whose job is to catch bad people and keep everyone safe","警察"],"officer":["a person with an important job in the police or the army","警官；官員"],"drivers":["a person who drives a car, bus, or taxi","駕駛人；司機"],"salesman":["a man whose job is to sell things","推銷員"],"shopkeepers":["a person who owns a small store","店主"],"workers":["a person who works, often in a factory","工人"],"knows":["to have something in your mind; to have met someone before","知道；認識"]});

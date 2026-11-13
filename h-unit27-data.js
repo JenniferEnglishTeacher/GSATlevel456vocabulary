@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "power",
     "answer": "power",
     "pos": "n.",
-    "definition": "",
+    "definition": "electricity",
     "chinese": "力量，電力",
     "sentence": "The __________ went out during the storm.",
     "translation": "暴風雨期間停電了。",
     "lookup": {
-     "english": "",
+     "english": "electricity",
      "chinese": "力量，電力"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "powder",
     "answer": "powder",
     "pos": "n.",
-    "definition": "",
+    "definition": "something dry in very small pieces, like flour",
     "chinese": "粉末",
     "sentence": "She added cocoa __________ to the recipe.",
     "translation": "她在食譜裡加了可可粉。",
     "lookup": {
-     "english": "",
+     "english": "something dry in very small pieces, like flour",
      "chinese": "粉末"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "praise",
     "answer": "praised",
     "pos": "v.",
-    "definition": "",
+    "definition": "to say good things about someone or something",
     "chinese": "讚美，表揚",
     "sentence": "The teacher __________ the students for their hard work.",
     "translation": "老師表揚了學生們的努力。",
     "lookup": {
-     "english": "",
+     "english": "to say good things about someone or something",
      "chinese": "讚美，表揚"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "precious",
     "answer": "precious",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very special and important to you; worth a lot",
     "chinese": "珍貴的，寶貴的",
     "sentence": "This ring is very __________ to her.",
     "translation": "這枚戒指對她來說非常珍貴。",
     "lookup": {
-     "english": "",
+     "english": "very special and important to you; worth a lot",
      "chinese": "珍貴的，寶貴的"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "president",
     "answer": "president",
     "pos": "n.",
-    "definition": "",
+    "definition": "the leader of a country or a company",
     "chinese": "總統，主席",
     "sentence": "The __________ gave a speech at the ceremony.",
     "translation": "總統在儀式上發表了演講。",
     "lookup": {
-     "english": "",
+     "english": "the leader of a country or a company",
      "chinese": "總統，主席"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "pressure",
     "answer": "pressure",
     "pos": "n.",
-    "definition": "",
+    "definition": "a feeling of worry because you must do a lot or do well",
     "chinese": "壓力，壓迫",
     "sentence": "She felt a lot of __________ to succeed.",
     "translation": "她感到很大的成功壓力。",
     "lookup": {
-     "english": "",
+     "english": "a feeling of worry because you must do a lot or do well",
      "chinese": "壓力，壓迫"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "priest",
     "answer": "priest",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who leads people in prayer in a church",
     "chinese": "神父，牧師",
     "sentence": "The __________ led the congregation in prayer.",
     "translation": "神父帶領會眾祈禱。",
     "lookup": {
-     "english": "",
+     "english": "a person who leads people in prayer in a church",
      "chinese": "神父，牧師"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "primary",
     "answer": "primary",
     "pos": "adj.",
-    "definition": "",
+    "definition": "main; most important",
     "chinese": "主要的，初級的",
     "sentence": "Her __________ concern is her child's safety.",
     "translation": "她主要關心的是孩子的安全。",
     "lookup": {
-     "english": "",
+     "english": "main; most important",
      "chinese": "主要的，初級的"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "prince",
     "answer": "prince",
     "pos": "n.",
-    "definition": "",
+    "definition": "the son of a king or queen",
     "chinese": "王子",
     "sentence": "The __________ will inherit the throne.",
     "translation": "王子將繼承王位。",
     "lookup": {
-     "english": "",
+     "english": "the son of a king or queen",
      "chinese": "王子"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "princess",
     "answer": "princess",
     "pos": "n.",
-    "definition": "",
+    "definition": "the daughter of a king or queen",
     "chinese": "公主",
     "sentence": "The __________ wore a beautiful gown.",
     "translation": "公主穿著美麗的禮服。",
     "lookup": {
-     "english": "",
+     "english": "the daughter of a king or queen",
      "chinese": "公主"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "principal",
     "answer": "principal",
     "pos": "n.",
-    "definition": "",
+    "definition": "the head of a school",
     "chinese": "校長",
     "sentence": "The __________ of the school is very strict.",
     "translation": "學校的校長非常嚴格。",
     "lookup": {
-     "english": "",
+     "english": "the head of a school",
      "chinese": "校長"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "principle",
     "answer": "principles",
     "pos": "n.",
-    "definition": "",
+    "definition": "a rule or idea about what is right that you live by",
     "chinese": "原則，信條",
     "sentence": "He lives by strong moral __________.",
     "translation": "他遵循強烈的道德原則生活。",
     "lookup": {
-     "english": "",
+     "english": "a rule or idea about what is right that you live by",
      "chinese": "原則，信條"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "print",
     "answer": "print",
     "pos": "v.",
-    "definition": "",
+    "definition": "to put words or pictures on paper with a machine",
     "chinese": "打印，印刷",
     "sentence": "She needs to __________ the documents.",
     "translation": "她需要打印文件。",
     "lookup": {
-     "english": "",
+     "english": "to put words or pictures on paper with a machine",
      "chinese": "打印，印刷"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "printer",
     "answer": "printer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine that puts words and pictures from a computer on paper",
     "chinese": "印表機",
     "sentence": "The __________ is out of ink.",
     "translation": "印表機沒墨水了。",
     "lookup": {
-     "english": "",
+     "english": "a machine that puts words and pictures from a computer on paper",
      "chinese": "印表機"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "private",
     "answer": "private",
     "pos": "adj.",
-    "definition": "",
+    "definition": "only for one person or a small group; not public",
     "chinese": "私人的，私密的",
     "sentence": "They had a __________ conversation.",
     "translation": "他們進行了一次私密的對話。",
     "lookup": {
-     "english": "",
+     "english": "only for one person or a small group; not public",
      "chinese": "私人的，私密的"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "produce",
     "answer": "produces",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make or grow something",
     "chinese": "生產，製造",
     "sentence": "The factory __________ thousands of cars each year.",
     "translation": "工廠每年生產數千輛汽車。",
     "lookup": {
-     "english": "",
+     "english": "to make or grow something",
      "chinese": "生產，製造"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "production",
     "answer": "production",
     "pos": "n.",
-    "definition": "",
+    "definition": "the work of making something, like cars or a film",
     "chinese": "生產，製作",
     "sentence": "The film is currently in __________.",
     "translation": "這部電影目前正在製作中。",
     "lookup": {
-     "english": "",
+     "english": "the work of making something, like cars or a film",
      "chinese": "生產，製作"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "professor",
     "answer": "professor",
     "pos": "n.",
-    "definition": "",
+    "definition": "a teacher at a university",
     "chinese": "教授",
     "sentence": "She is a __________ of biology.",
     "translation": "她是一位生物學教授。",
     "lookup": {
-     "english": "",
+     "english": "a teacher at a university",
      "chinese": "教授"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "progress",
     "answer": "progress",
     "pos": "n.",
-    "definition": "",
+    "definition": "getting better or moving forward",
     "chinese": "進步，進展",
     "sentence": "The project is making good __________.",
     "translation": "專案進展順利。",
     "lookup": {
-     "english": "",
+     "english": "getting better or moving forward",
      "chinese": "進步，進展"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "project",
     "answer": "project",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big piece of work that is planned carefully",
     "chinese": "專案，計劃",
     "sentence": "They are working on a new __________.",
     "translation": "他們正在進行一個新專案。",
     "lookup": {
-     "english": "",
+     "english": "a big piece of work that is planned carefully",
      "chinese": "專案，計劃"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"careless":["","粗心的"],"dialed":["","撥號"],"greedy":["","貪婪的"],"hug":["","擁抱"],"includes":["","包含"],"intelligent":["","聰明的，智慧的"],"power":["","力量，電力"],"powder":["","粉末"],"praised":["","讚美，表揚"],"precious":["","珍貴的，寶貴的"],"president":["","總統，主席"],"pressure":["","壓力，壓迫"],"priest":["","神父，牧師"],"primary":["","主要的，初級的"],"prince":["","王子"],"princess":["","公主"],"principal":["","校長"],"principles":["","原則，信條"],"print":["","打印，印刷"],"printer":["","印表機"],"private":["","私人的，私密的"],"produces":["","生產，製造"],"production":["","生產，製作"],"professor":["","教授"],"progress":["","進步，進展"],"project":["","專案，計劃"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"careless":["not thinking about what you are doing, so you make mistakes","粗心的"],"dialed":["to press the numbers on a phone to call someone","撥號"],"greedy":["wanting more money or food than you need","貪婪的"],"hug":["holding someone in your arms to show love","擁抱"],"includes":["to have something as one of its parts","包含"],"intelligent":["smart; able to learn and understand quickly","聰明的，智慧的"],"power":["electricity","力量，電力"],"powder":["something dry in very small pieces, like flour","粉末"],"praised":["to say good things about someone or something","讚美，表揚"],"precious":["very special and important to you; worth a lot","珍貴的，寶貴的"],"president":["the leader of a country or a company","總統，主席"],"pressure":["a feeling of worry because you must do a lot or do well","壓力，壓迫"],"priest":["a person who leads people in prayer in a church","神父，牧師"],"primary":["main; most important","主要的，初級的"],"prince":["the son of a king or queen","王子"],"princess":["the daughter of a king or queen","公主"],"principal":["the head of a school","校長"],"principles":["a rule or idea about what is right that you live by","原則，信條"],"print":["to put words or pictures on paper with a machine","打印，印刷"],"printer":["a machine that puts words and pictures from a computer on paper","印表機"],"private":["only for one person or a small group; not public","私人的，私密的"],"produces":["to make or grow something","生產，製造"],"production":["the work of making something, like cars or a film","生產，製作"],"professor":["a teacher at a university","教授"],"progress":["getting better or moving forward","進步，進展"],"project":["a big piece of work that is planned carefully","專案，計劃"]});

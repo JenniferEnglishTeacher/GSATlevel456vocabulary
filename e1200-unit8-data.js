@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "time",
     "pos": "n.",
     "cn_def": "時間",
-    "en_def": "",
+    "en_def": "what we measure in minutes, hours, and days",
     "sentence": "Q: What time is it? — A: It's seven thirty. It's {{BLANK}} to go to school.",
     "cn": "現在幾點？ — 七點半，該去上學了。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "clock",
     "pos": "n.",
     "cn_def": "時鐘",
-    "en_def": "",
+    "en_def": "a thing on the wall or table that shows the time",
     "sentence": "Q: What time is it? — A: Look at the {{BLANK}} on the wall. It's five o'clock.",
     "cn": "現在幾點？ — 看牆上的時鐘，現在五點。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "watch",
     "pos": "n.",
     "cn_def": "手錶",
-    "en_def": "",
+    "en_def": "a small clock that you wear on your arm",
     "sentence": "Q: What time is it, Ben? — A: Let me look at my {{BLANK}}. It's four o'clock.",
     "cn": "班，現在幾點？ — 我看一下我的手錶，現在四點。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "o'clock",
     "pos": "adv.",
     "cn_def": "……點鐘",
-    "en_def": "",
+    "en_def": "a word used after a number to tell the hour",
     "sentence": "Q: What time is it now? — A: It's three {{BLANK}}. Let's go home.",
     "cn": "現在幾點？ — 三點整，我們回家吧。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "half",
     "pos": "n.",
     "cn_def": "一半；半小時",
-    "en_def": "",
+    "en_def": "one of two same-sized parts; thirty minutes",
     "sentence": "Q: What time is it now? — A: It's {{BLANK}} past six. Dinner is ready.",
     "cn": "現在幾點？ — 六點半，晚餐準備好了。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "quarter",
     "pos": "n.",
     "cn_def": "十五分鐘；四分之一",
-    "en_def": "",
+    "en_def": "one of four same-sized parts; fifteen minutes",
     "sentence": "Q: What time is it? — A: It's a {{BLANK}} past two. (2:15)",
     "cn": "現在幾點？ — 兩點十五分。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "past",
     "pos": "prep.",
     "cn_def": "（時間）超過；過了",
-    "en_def": "",
+    "en_def": "after (an hour), as in \"ten past eight\"",
     "sentence": "Q: What time is it? — A: It's ten {{BLANK}} eight. (8:10) We are late!",
     "cn": "現在幾點？ — 八點十分，我們遲到了！"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "a.m.",
     "pos": "abbr.",
     "cn_def": "上午（用在時間後）",
-    "en_def": "",
+    "en_def": "in the morning, before twelve noon",
     "sentence": "Q: What time is it in Taipei now? — A: It's 7 {{BLANK}} People are going to work.",
     "cn": "台北現在幾點？ — 上午七點，人們正要去上班。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "p.m.",
     "pos": "abbr.",
     "cn_def": "下午（用在時間後）",
-    "en_def": "",
+    "en_def": "in the afternoon or at night, after twelve noon",
     "sentence": "Q: What time is it? — A: It's 4 {{BLANK}} School is over.",
     "cn": "現在幾點？ — 下午四點，放學了。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "noon",
     "pos": "n.",
     "cn_def": "中午",
-    "en_def": "",
+    "en_def": "twelve o'clock in the middle of the day",
     "sentence": "Q: What time is it? — A: It's twelve. It's {{BLANK}}. Let's have lunch.",
     "cn": "現在幾點？ — 十二點，中午了，我們吃午餐吧。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "already",
     "pos": "adv.",
     "cn_def": "已經",
-    "en_def": "",
+    "en_def": "before now; earlier than you thought",
     "sentence": "Q: What time is it? — A: It's {{BLANK}} ten o'clock! Go to bed now.",
     "cn": "現在幾點？ — 已經十點了！現在去睡覺。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "hour",
     "pos": "n.",
     "cn_def": "小時",
-    "en_def": "",
+    "en_def": "sixty minutes",
     "sentence": "Q: What time is it? — A: It's eleven. We have one {{BLANK}} before lunch.",
     "cn": "現在幾點？ — 十一點，午餐前我們還有一個小時。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "minute (minutes)",
     "pos": "n.",
     "cn_def": "分鐘",
-    "en_def": "",
+    "en_def": "sixty seconds",
     "sentence": "Q: What time is it? — A: It's 7:55. The bus comes in five {{BLANK}}.",
     "cn": "現在幾點？ — 七點五十五分，公車五分鐘後來。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "second (seconds)",
     "pos": "n.",
     "cn_def": "秒",
-    "en_def": "",
+    "en_def": "a very short time; sixty of them make one minute",
     "sentence": "Q: What time is it? — A: It's 11:59:50. Only ten {{BLANK}} to the new year!",
     "cn": "現在幾點？ — 十一點五十九分五十秒，再十秒就新年了！"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "moment",
     "pos": "n.",
     "cn_def": "片刻；一會兒",
-    "en_def": "",
+    "en_def": "a very short time",
     "sentence": "Q: What time is it, Mom? — A: Wait a {{BLANK}}. I can't find my phone.",
     "cn": "媽，現在幾點？ — 等一下，我找不到我的手機。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "Monday",
     "pos": "n.",
     "cn_def": "星期一",
-    "en_def": "",
+    "en_def": "the day after Sunday",
     "sentence": "Q: What day is it today? — A: It's {{BLANK}}. A new week starts today.",
     "cn": "今天星期幾？ — 今天星期一，新的一週從今天開始。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "Wednesday",
     "pos": "n.",
     "cn_def": "星期三",
-    "en_def": "",
+    "en_def": "the day after Tuesday",
     "sentence": "Q: What day is it today? — A: It's {{BLANK}}. It's the middle of the week.",
     "cn": "今天星期幾？ — 今天星期三，是一週的中間。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "today",
     "pos": "n.",
     "cn_def": "今天",
-    "en_def": "",
+    "en_def": "this day",
     "sentence": "Q: What day is it today? — A: {{BLANK}} is Friday. We have a test.",
     "cn": "今天星期幾？ — 今天星期五，我們有考試。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "tomorrow",
     "pos": "n.",
     "cn_def": "明天",
-    "en_def": "",
+    "en_def": "the day after today",
     "sentence": "Q: What day is it today? — A: It's Friday. {{BLANK}} is Saturday. No school!",
     "cn": "今天星期幾？ — 今天星期五，明天星期六，不用上學！"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "yesterday",
     "pos": "n.",
     "cn_def": "昨天",
-    "en_def": "",
+    "en_def": "the day before today",
     "sentence": "Q: What day is it today? — A: It's Monday. {{BLANK}} was Sunday.",
     "cn": "今天星期幾？ — 今天星期一，昨天是星期日。"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "day",
     "pos": "n.",
     "cn_def": "日子；天",
-    "en_def": "",
+    "en_def": "twenty-four hours; the time when it is light",
     "sentence": "Q: What day is it today? — A: It's Sunday. It's my favorite {{BLANK}} of the week.",
     "cn": "今天星期幾？ — 今天星期日，這是我一週中最喜歡的一天。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "week",
     "pos": "n.",
     "cn_def": "星期；週",
-    "en_def": "",
+    "en_def": "seven days",
     "sentence": "Q: What day is it today? — A: It's Sunday. It's the first day of the {{BLANK}}.",
     "cn": "今天星期幾？ — 今天星期日，是一週的第一天。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "January",
     "pos": "n.",
     "cn_def": "一月",
-    "en_def": "",
+    "en_def": "the first month of the year",
     "sentence": "Q: When is New Year's Day? — A: It's on {{BLANK}} 1st.",
     "cn": "元旦是什麼時候？ — 在一月一日。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "February",
     "pos": "n.",
     "cn_def": "二月",
-    "en_def": "",
+    "en_def": "the second month of the year",
     "sentence": "Q: When is Valentine's Day? — A: It's on {{BLANK}} 14th.",
     "cn": "情人節是什麼時候？ — 在二月十四日。"
   },
@@ -202,7 +202,7 @@ const VOCAB = [
     "word": "March",
     "pos": "n.",
     "cn_def": "三月",
-    "en_def": "",
+    "en_def": "the third month of the year",
     "sentence": "Q: When is your sister's sixteenth birthday? — A: It's in {{BLANK}}. She wants a big cake.",
     "cn": "你姊姊的十六歲生日是什麼時候？ — 在三月，她想要一個大蛋糕。"
   },
@@ -210,7 +210,7 @@ const VOCAB = [
     "word": "April",
     "pos": "n.",
     "cn_def": "四月",
-    "en_def": "",
+    "en_def": "the fourth month of the year",
     "sentence": "Q: When is Children's Day in Taiwan? — A: It's on {{BLANK}} 4th.",
     "cn": "台灣的兒童節是什麼時候？ — 在四月四日。"
   },
@@ -218,7 +218,7 @@ const VOCAB = [
     "word": "May",
     "pos": "n.",
     "cn_def": "五月",
-    "en_def": "",
+    "en_def": "the fifth month of the year",
     "sentence": "Q: When is Mother's Day? — A: It's on the second Sunday in {{BLANK}}.",
     "cn": "母親節是什麼時候？ — 在五月的第二個星期日。"
   },
@@ -226,7 +226,7 @@ const VOCAB = [
     "word": "June",
     "pos": "n.",
     "cn_def": "六月",
-    "en_def": "",
+    "en_def": "the sixth month of the year",
     "sentence": "Q: When is the Dragon Boat Festival this year? — A: It's in {{BLANK}}. We eat rice dumplings.",
     "cn": "今年端午節是什麼時候？ — 在六月，我們吃粽子。"
   },
@@ -234,7 +234,7 @@ const VOCAB = [
     "word": "July",
     "pos": "n.",
     "cn_def": "七月",
-    "en_def": "",
+    "en_def": "the seventh month of the year",
     "sentence": "Q: When is your thirteenth birthday? — A: It's in {{BLANK}}, in the summer vacation.",
     "cn": "你的十三歲生日是什麼時候？ — 在七月，在暑假期間。"
   },
@@ -242,7 +242,7 @@ const VOCAB = [
     "word": "August",
     "pos": "n.",
     "cn_def": "八月",
-    "en_def": "",
+    "en_def": "the eighth month of the year",
     "sentence": "Q: When is Father's Day in Taiwan? — A: It's on {{BLANK}} 8th.",
     "cn": "台灣的父親節是什麼時候？ — 在八月八日。"
   },
@@ -250,7 +250,7 @@ const VOCAB = [
     "word": "September",
     "pos": "n.",
     "cn_def": "九月",
-    "en_def": "",
+    "en_def": "the ninth month of the year",
     "sentence": "Q: When is Teacher's Day? — A: It's on {{BLANK}} 28th.",
     "cn": "教師節是什麼時候？ — 在九月二十八日。"
   },
@@ -258,7 +258,7 @@ const VOCAB = [
     "word": "October",
     "pos": "n.",
     "cn_def": "十月",
-    "en_def": "",
+    "en_def": "the tenth month of the year",
     "sentence": "Q: When is Halloween? — A: It's on {{BLANK}} 31st.",
     "cn": "萬聖節是什麼時候？ — 在十月三十一日。"
   },
@@ -266,7 +266,7 @@ const VOCAB = [
     "word": "November",
     "pos": "n.",
     "cn_def": "十一月",
-    "en_def": "",
+    "en_def": "the eleventh month of the year",
     "sentence": "Q: When is Thanksgiving in America? — A: It's in {{BLANK}}. People eat a big dinner.",
     "cn": "美國的感恩節是什麼時候？ — 在十一月，人們吃一頓大餐。"
   },
@@ -274,7 +274,7 @@ const VOCAB = [
     "word": "December",
     "pos": "n.",
     "cn_def": "十二月",
-    "en_def": "",
+    "en_def": "the twelfth and last month of the year",
     "sentence": "Q: When is Christmas? — A: It's on {{BLANK}} 25th.",
     "cn": "聖誕節是什麼時候？ — 在十二月二十五日。"
   },
@@ -282,7 +282,7 @@ const VOCAB = [
     "word": "season",
     "pos": "n.",
     "cn_def": "季節",
-    "en_def": "",
+    "en_def": "one of the four parts of the year, such as spring or winter",
     "sentence": "Q: When is your birthday? — A: It's in summer. Summer is my favorite {{BLANK}}.",
     "cn": "你的生日是什麼時候？ — 在夏天，夏天是我最喜歡的季節。"
   },
@@ -290,7 +290,7 @@ const VOCAB = [
     "word": "spring",
     "pos": "n.",
     "cn_def": "春天",
-    "en_def": "",
+    "en_def": "the season after winter, when flowers start to grow",
     "sentence": "Q: When is Sports Day? — A: It's in {{BLANK}}, in April. The flowers are beautiful.",
     "cn": "運動會是什麼時候？ — 在春天，在四月。花很漂亮。"
   },
@@ -298,7 +298,7 @@ const VOCAB = [
     "word": "summer",
     "pos": "n.",
     "cn_def": "夏天",
-    "en_def": "",
+    "en_def": "the hottest season of the year",
     "sentence": "Q: When is your brother's eighteenth birthday? — A: It's in {{BLANK}}, in August. It's very hot.",
     "cn": "你哥哥的十八歲生日是什麼時候？ — 在夏天，在八月。天氣很熱。"
   },
@@ -306,7 +306,7 @@ const VOCAB = [
     "word": "autumn (fall)",
     "pos": "n.",
     "cn_def": "秋天",
-    "en_def": "",
+    "en_def": "the season after summer, when leaves fall from trees",
     "sentence": "Q: When is the Moon Festival? — A: It's in {{BLANK}}, in September or October.",
     "cn": "中秋節是什麼時候？ — 在秋天，在九月或十月。",
     "alts": [
@@ -317,7 +317,7 @@ const VOCAB = [
     "word": "winter",
     "pos": "n.",
     "cn_def": "冬天",
-    "en_def": "",
+    "en_def": "the coldest season of the year",
     "sentence": "Q: When is Chinese New Year? — A: It's in {{BLANK}}, in January or February.",
     "cn": "農曆新年是什麼時候？ — 在冬天，在一月或二月。"
   },
@@ -325,7 +325,7 @@ const VOCAB = [
     "word": "Saturday",
     "pos": "n.",
     "cn_def": "星期六",
-    "en_def": "",
+    "en_def": "the day after Friday",
     "sentence": "Q: What does Tom do on weekends? — A: He plays basketball on {{BLANK}} mornings.",
     "cn": "湯姆週末做什麼？ — 他星期六早上打籃球。"
   },
@@ -333,7 +333,7 @@ const VOCAB = [
     "word": "Sunday",
     "pos": "n.",
     "cn_def": "星期日",
-    "en_def": "",
+    "en_def": "the day after Saturday",
     "sentence": "Q: What do you and your family do on weekends? — A: We go to church on {{BLANK}}.",
     "cn": "你和你的家人週末做什麼？ — 我們星期日去教會。"
   },
@@ -341,7 +341,7 @@ const VOCAB = [
     "word": "weekend",
     "pos": "n.",
     "cn_def": "週末",
-    "en_def": "",
+    "en_def": "Saturday and Sunday",
     "sentence": "Q: What does your dad do on Saturdays? — A: He doesn't work on the {{BLANK}}. He sleeps late.",
     "cn": "你爸爸星期六做什麼？ — 他週末不用工作，他睡得很晚。"
   },
@@ -349,7 +349,7 @@ const VOCAB = [
     "word": "morning",
     "pos": "n.",
     "cn_def": "早上",
-    "en_def": "",
+    "en_def": "the early part of the day, before noon",
     "sentence": "Q: What does Amy do on Sundays? — A: She goes jogging in the park in the {{BLANK}}.",
     "cn": "艾美星期日做什麼？ — 她早上去公園慢跑。"
   },
@@ -357,7 +357,7 @@ const VOCAB = [
     "word": "afternoon",
     "pos": "n.",
     "cn_def": "下午",
-    "en_def": "",
+    "en_def": "the part of the day between noon and evening",
     "sentence": "Q: What do your classmates do on Fridays? — A: They play soccer in the {{BLANK}} after class.",
     "cn": "你的同學星期五做什麼？ — 他們下午下課後踢足球。"
   },
@@ -365,7 +365,7 @@ const VOCAB = [
     "word": "evening",
     "pos": "n.",
     "cn_def": "傍晚；晚上",
-    "en_def": "",
+    "en_def": "the part of the day between afternoon and night",
     "sentence": "Q: What does your mom do on Mondays? — A: She takes a cooking class in the {{BLANK}}, after dinner.",
     "cn": "你媽媽星期一做什麼？ — 她傍晚吃完晚餐後去上烹飪課。"
   },
@@ -373,7 +373,7 @@ const VOCAB = [
     "word": "night",
     "pos": "n.",
     "cn_def": "夜晚；晚上",
-    "en_def": "",
+    "en_def": "the time when it is dark and people sleep",
     "sentence": "Q: What do you do on Saturdays? — A: I watch movies with my family at {{BLANK}}.",
     "cn": "你星期六做什麼？ — 我晚上和家人一起看電影。"
   },
@@ -381,7 +381,7 @@ const VOCAB = [
     "word": "Tuesday",
     "pos": "n.",
     "cn_def": "星期二",
-    "en_def": "",
+    "en_def": "the day after Monday",
     "sentence": "Q: When does Lisa have art class? — A: She has art class on {{BLANK}}.",
     "cn": "麗莎什麼時候上美術課？ — 她星期二上美術課。"
   },
@@ -389,7 +389,7 @@ const VOCAB = [
     "word": "Thursday",
     "pos": "n.",
     "cn_def": "星期四",
-    "en_def": "",
+    "en_def": "the day after Wednesday",
     "sentence": "Q: When do you have music class? — A: I have music class on {{BLANK}}.",
     "cn": "你什麼時候上音樂課？ — 我星期四上音樂課。"
   },
@@ -397,7 +397,7 @@ const VOCAB = [
     "word": "Friday",
     "pos": "n.",
     "cn_def": "星期五",
-    "en_def": "",
+    "en_def": "the day after Thursday",
     "sentence": "Q: When do Ben and Tom have PE class? — A: They have PE class on {{BLANK}} afternoon.",
     "cn": "班和湯姆什麼時候上體育課？ — 他們星期五下午上體育課。"
   },
@@ -405,7 +405,7 @@ const VOCAB = [
     "word": "now",
     "pos": "adv.",
     "cn_def": "現在",
-    "en_def": "",
+    "en_def": "at this time",
     "sentence": "Q: When do we have math class? — A: We have it {{BLANK}}! Hurry up!",
     "cn": "我們什麼時候上數學課？ — 現在就是！快點！"
   },
@@ -413,7 +413,7 @@ const VOCAB = [
     "word": "soon",
     "pos": "adv.",
     "cn_def": "很快；不久",
-    "en_def": "",
+    "en_def": "a short time from now",
     "sentence": "Q: When does Tim have science class? — A: He has it {{BLANK}}, in five minutes.",
     "cn": "提姆什麼時候上自然課？ — 很快，再五分鐘就上了。"
   },
@@ -421,7 +421,7 @@ const VOCAB = [
     "word": "later",
     "pos": "adv.",
     "cn_def": "稍後；等一下",
-    "en_def": "",
+    "en_def": "at a time after now",
     "sentence": "Q: When does Amy have social studies class? — A: She has it {{BLANK}} today, after lunch.",
     "cn": "艾美什麼時候上社會課？ — 她今天稍後上，在午餐後。"
   },
@@ -429,7 +429,7 @@ const VOCAB = [
     "word": "early",
     "pos": "adv.",
     "cn_def": "早；早的",
-    "en_def": "",
+    "en_def": "before the usual time; near the start of the day",
     "sentence": "Q: When do the students have Chinese class? — A: They have it {{BLANK}} in the morning, at eight.",
     "cn": "學生們什麼時候上國文課？ — 他們早上很早就上，在八點。"
   },
@@ -437,7 +437,7 @@ const VOCAB = [
     "word": "late",
     "pos": "adv.",
     "cn_def": "晚；晚的",
-    "en_def": "",
+    "en_def": "after the usual time; near the end of the day",
     "sentence": "Q: When does your brother have English class? — A: He has it {{BLANK}} in the afternoon, at four o'clock.",
     "cn": "你弟弟什麼時候上英文課？ — 他下午很晚才上，在四點。"
   },
@@ -445,7 +445,7 @@ const VOCAB = [
     "word": "year",
     "pos": "n.",
     "cn_def": "年",
-    "en_def": "",
+    "en_def": "twelve months",
     "sentence": "Q: When does your family go to Japan? — A: We go there every {{BLANK}}, in July.",
     "cn": "你家什麼時候去日本？ — 我們每年七月去那裡。"
   },
@@ -453,7 +453,7 @@ const VOCAB = [
     "word": "month",
     "pos": "n.",
     "cn_def": "月；月份",
-    "en_def": "",
+    "en_def": "one of the twelve parts of a year",
     "sentence": "Q: When does your aunt visit you? — A: She visits us on the first day of every {{BLANK}}.",
     "cn": "你阿姨什麼時候來看你們？ — 她每個月的第一天來看我們。"
   },
@@ -461,7 +461,7 @@ const VOCAB = [
     "word": "once",
     "pos": "adv.",
     "cn_def": "一次",
-    "en_def": "",
+    "en_def": "one time",
     "sentence": "Q: How often does Grandma call you? — A: She calls me {{BLANK}} a week, on Sunday night.",
     "cn": "奶奶多久打電話給你一次？ — 她一週打一次，在星期日晚上。"
   },
@@ -469,7 +469,7 @@ const VOCAB = [
     "word": "tonight",
     "pos": "adv.",
     "cn_def": "今晚",
-    "en_def": "",
+    "en_def": "the night of today",
     "sentence": "Q: When do we have the party? — A: We have it {{BLANK}}, at seven o'clock.",
     "cn": "我們什麼時候開派對？ — 今晚，七點。"
   },
@@ -477,7 +477,7 @@ const VOCAB = [
     "word": "next",
     "pos": "adj.",
     "cn_def": "下一個的",
-    "en_def": "",
+    "en_def": "coming right after this one",
     "sentence": "Q: When is the English test? — A: It's {{BLANK}} Friday. Let's study together.",
     "cn": "英文考試是什麼時候？ — 下星期五，我們一起讀書吧。"
   },
@@ -485,7 +485,7 @@ const VOCAB = [
     "word": "last",
     "pos": "adj.",
     "cn_def": "上一個的；最近的",
-    "en_def": "",
+    "en_def": "the one before this one; most recent",
     "sentence": "Q: When was Ben's birthday party? — A: It was {{BLANK}} Sunday. It was fun.",
     "cn": "班的生日派對是什麼時候？ — 上星期日，很好玩。"
   },
@@ -493,7 +493,7 @@ const VOCAB = [
     "word": "ago",
     "pos": "adv.",
     "cn_def": "……以前",
-    "en_def": "",
+    "en_def": "before now; in the past",
     "sentence": "Q: When was Tom in Japan? — A: He was there two years {{BLANK}}.",
     "cn": "湯姆什麼時候在日本？ — 他兩年前在那裡。"
   },
@@ -501,7 +501,7 @@ const VOCAB = [
     "word": "future",
     "pos": "n.",
     "cn_def": "未來",
-    "en_def": "",
+    "en_def": "the time that will come after now",
     "sentence": "Q: When can people live on the moon? — A: Maybe in the {{BLANK}}.",
     "cn": "人們什麼時候可以住在月球上？ — 也許在未來。"
   }
@@ -1257,357 +1257,357 @@ const MCQS = [
 const LOOKUP = {
   "mr.": {
     "pos": "abbr.",
-    "en_def": "",
+    "en_def": "a word used before a man's family name",
     "cn_def": "先生（加姓）"
   },
   "mrs.": {
     "pos": "abbr.",
-    "en_def": "",
+    "en_def": "a word used before a married woman's family name",
     "cn_def": "太太"
   },
   "last": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "coming after all the others",
     "cn_def": "最後的"
   },
   "time": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "what we measure in minutes, hours, and days",
     "cn_def": "時間"
   },
   "clock": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing on the wall or table that shows the time",
     "cn_def": "時鐘"
   },
   "watch": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small clock that you wear on your arm",
     "cn_def": "手錶"
   },
   "o'clock": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "a word used after a number to tell the hour",
     "cn_def": "……點鐘"
   },
   "half": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of two same-sized parts; thirty minutes",
     "cn_def": "一半；半小時"
   },
   "quarter": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of four same-sized parts; fifteen minutes",
     "cn_def": "十五分鐘；四分之一"
   },
   "past": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "after (an hour), as in \"ten past eight\"",
     "cn_def": "（時間）超過；過了"
   },
   "a.m.": {
     "pos": "abbr.",
-    "en_def": "",
+    "en_def": "in the morning, before twelve noon",
     "cn_def": "上午（用在時間後）"
   },
   "p.m.": {
     "pos": "abbr.",
-    "en_def": "",
+    "en_def": "in the afternoon or at night, after twelve noon",
     "cn_def": "下午（用在時間後）"
   },
   "noon": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "twelve o'clock in the middle of the day",
     "cn_def": "中午"
   },
   "already": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "before now; earlier than you thought",
     "cn_def": "已經"
   },
   "hour": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "sixty minutes",
     "cn_def": "小時"
   },
   "minutes": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "sixty seconds",
     "cn_def": "分鐘"
   },
   "seconds": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a very short time; sixty of them make one minute",
     "cn_def": "秒"
   },
   "moment": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a very short time",
     "cn_def": "片刻；一會兒"
   },
   "monday": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the day after Sunday",
     "cn_def": "星期一"
   },
   "wednesday": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the day after Tuesday",
     "cn_def": "星期三"
   },
   "today": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "this day",
     "cn_def": "今天"
   },
   "tomorrow": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the day after today",
     "cn_def": "明天"
   },
   "yesterday": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the day before today",
     "cn_def": "昨天"
   },
   "day": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "twenty-four hours; the time when it is light",
     "cn_def": "日子；天"
   },
   "week": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "seven days",
     "cn_def": "星期；週"
   },
   "january": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the first month of the year",
     "cn_def": "一月"
   },
   "february": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the second month of the year",
     "cn_def": "二月"
   },
   "march": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the third month of the year",
     "cn_def": "三月"
   },
   "april": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the fourth month of the year",
     "cn_def": "四月"
   },
   "may": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the fifth month of the year",
     "cn_def": "五月"
   },
   "june": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the sixth month of the year",
     "cn_def": "六月"
   },
   "july": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the seventh month of the year",
     "cn_def": "七月"
   },
   "august": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the eighth month of the year",
     "cn_def": "八月"
   },
   "september": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the ninth month of the year",
     "cn_def": "九月"
   },
   "october": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the tenth month of the year",
     "cn_def": "十月"
   },
   "november": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the eleventh month of the year",
     "cn_def": "十一月"
   },
   "december": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the twelfth and last month of the year",
     "cn_def": "十二月"
   },
   "season": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of the four parts of the year, such as spring or winter",
     "cn_def": "季節"
   },
   "spring": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the season after winter, when flowers start to grow",
     "cn_def": "春天"
   },
   "summer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the hottest season of the year",
     "cn_def": "夏天"
   },
   "autumn": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the season after summer, when leaves fall from trees",
     "cn_def": "秋天"
   },
   "winter": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the coldest season of the year",
     "cn_def": "冬天"
   },
   "saturday": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the day after Friday",
     "cn_def": "星期六"
   },
   "sunday": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the day after Saturday",
     "cn_def": "星期日"
   },
   "weekend": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "Saturday and Sunday",
     "cn_def": "週末"
   },
   "morning": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the early part of the day, before noon",
     "cn_def": "早上"
   },
   "afternoon": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part of the day between noon and evening",
     "cn_def": "下午"
   },
   "evening": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part of the day between afternoon and night",
     "cn_def": "傍晚；晚上"
   },
   "night": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the time when it is dark and people sleep",
     "cn_def": "夜晚；晚上"
   },
   "tuesday": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the day after Monday",
     "cn_def": "星期二"
   },
   "thursday": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the day after Wednesday",
     "cn_def": "星期四"
   },
   "friday": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the day after Thursday",
     "cn_def": "星期五"
   },
   "now": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "at this time",
     "cn_def": "現在"
   },
   "soon": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "a short time from now",
     "cn_def": "很快；不久"
   },
   "later": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "at a time after now",
     "cn_def": "稍後；等一下"
   },
   "early": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "before the usual time; near the start of the day",
     "cn_def": "早；早的"
   },
   "late": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "after the usual time; near the end of the day",
     "cn_def": "晚；晚的"
   },
   "year": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "twelve months",
     "cn_def": "年"
   },
   "month": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of the twelve parts of a year",
     "cn_def": "月；月份"
   },
   "once": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "one time",
     "cn_def": "一次"
   },
   "tonight": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "the night of today",
     "cn_def": "今晚"
   },
   "next": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "coming right after this one",
     "cn_def": "下一個的"
   },
   "ago": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "before now; in the past",
     "cn_def": "……以前"
   },
   "future": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the time that will come after now",
     "cn_def": "未來"
   },
   "thirsty": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "wanting to drink",
     "cn_def": "口渴的"
   },
   "brown": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "the color of chocolate and wood",
     "cn_def": "棕色（的）"
   },
   "clear": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with no clouds; easy to see through",
     "cn_def": "晴朗的；清澈的"
   },
   "inside": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "in the inner part of something",
     "cn_def": "在…內部"
   },
   "behind": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "at the back of something",
     "cn_def": "在…後面"
   },
   "around": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "on all sides of something",
     "cn_def": "在…四周"
   },
   "sure": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "knowing that something is true",
     "cn_def": "確定的"
   }
 };

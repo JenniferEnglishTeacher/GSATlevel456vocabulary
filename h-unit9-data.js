@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "dawn",
     "answer": "dawn",
     "pos": "n.",
-    "definition": "",
+    "definition": "the time of day when the sun comes up",
     "chinese": "黎明，拂曉",
     "sentence": "We left at __________.",
     "translation": "我們在黎明時出發。",
     "lookup": {
-     "english": "",
+     "english": "the time of day when the sun comes up",
      "chinese": "黎明，拂曉"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "deaf",
     "answer": "deaf",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not able to hear",
     "chinese": "聾的，失聰的",
     "sentence": "He has been __________ since birth.",
     "translation": "他自出生起就失聰。",
     "lookup": {
-     "english": "",
+     "english": "not able to hear",
      "chinese": "聾的，失聰的"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "debate",
     "answer": "debate",
     "pos": "n.",
-    "definition": "",
+    "definition": "a talk in which people give different opinions about something",
     "chinese": "辯論，討論",
     "sentence": "They had a heated __________ about politics.",
     "translation": "他們就政治問題進行了激烈辯論。",
     "lookup": {
-     "english": "",
+     "english": "a talk in which people give different opinions about something",
      "chinese": "辯論，討論"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "decision",
     "answer": "decision",
     "pos": "n.",
-    "definition": "",
+    "definition": "a choice that you make after thinking",
     "chinese": "決定，判斷",
     "sentence": "It was a difficult __________.",
     "translation": "這是一個困難的決定。",
     "lookup": {
-     "english": "",
+     "english": "a choice that you make after thinking",
      "chinese": "決定，判斷"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "decorate",
     "answer": "decorated",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make a place look nice by putting pretty things in it",
     "chinese": "裝飾",
     "sentence": "They __________ the room for the party.",
     "translation": "他們為派對裝飾了房間。",
     "lookup": {
-     "english": "",
+     "english": "to make a place look nice by putting pretty things in it",
      "chinese": "裝飾"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "decrease",
     "answer": "decreased",
     "pos": "v.",
-    "definition": "",
+    "definition": "to become smaller in number or amount",
     "chinese": "減少",
     "sentence": "The population has __________ significantly.",
     "translation": "人口顯著減少。",
     "lookup": {
-     "english": "",
+     "english": "to become smaller in number or amount",
      "chinese": "減少"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "define",
     "answer": "define",
     "pos": "v.",
-    "definition": "",
+    "definition": "to say what a word or idea means",
     "chinese": "定義，解釋",
     "sentence": "How would you __________ success?",
     "translation": "你會如何定義成功？",
     "lookup": {
-     "english": "",
+     "english": "to say what a word or idea means",
      "chinese": "定義，解釋"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "deer",
     "answer": "deer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a wild animal that runs fast; the male has horns like branches",
     "chinese": "鹿",
     "sentence": "We saw a __________ in the forest.",
     "translation": "我們在森林裡看到一隻鹿。",
     "lookup": {
-     "english": "",
+     "english": "a wild animal that runs fast; the male has horns like branches",
      "chinese": "鹿"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "degree",
     "answer": "degree",
     "pos": "n.",
-    "definition": "",
+    "definition": "a paper that a university gives you when you finish your studies",
     "chinese": "程度，學位",
     "sentence": "She has a __________ in mathematics.",
     "translation": "她擁有數學學位。",
     "lookup": {
-     "english": "",
+     "english": "a paper that a university gives you when you finish your studies",
      "chinese": "程度，學位"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "deliver",
     "answer": "delivered",
     "pos": "v.",
-    "definition": "",
+    "definition": "to take letters or things to a person or place",
     "chinese": "遞送，傳遞",
     "sentence": "The mail is __________ daily.",
     "translation": "郵件每日遞送。",
     "lookup": {
-     "english": "",
+     "english": "to take letters or things to a person or place",
      "chinese": "遞送，傳遞"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "department",
     "answer": "department",
     "pos": "n.",
-    "definition": "",
+    "definition": "one part of a company, school, or store",
     "chinese": "部門，系",
     "sentence": "She works in the marketing __________.",
     "translation": "她在市場部工作。",
     "lookup": {
-     "english": "",
+     "english": "one part of a company, school, or store",
      "chinese": "部門，系"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "depend",
     "answer": "depend",
     "pos": "v.",
-    "definition": "",
+    "definition": "(with \"on\") to trust someone to help you; to need someone",
     "chinese": "依賴，依靠",
     "sentence": "You can __________ on me for help.",
     "translation": "你可以依賴我來幫助。",
     "lookup": {
-     "english": "",
+     "english": "(with \"on\") to trust someone to help you; to need someone",
      "chinese": "依賴，依靠"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "describe",
     "answer": "describe",
     "pos": "v.",
-    "definition": "",
+    "definition": "to say what someone or something is like",
     "chinese": "描述，形容",
     "sentence": "Can you __________ what happened?",
     "translation": "你能描述一下發生了什麼嗎？",
     "lookup": {
-     "english": "",
+     "english": "to say what someone or something is like",
      "chinese": "描述，形容"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "desert",
     "answer": "desert",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very dry place with a lot of sand and few plants",
     "chinese": "沙漠",
     "sentence": "The Sahara is the largest __________ in the world.",
     "translation": "撒哈拉是世界上最大的沙漠。",
     "lookup": {
-     "english": "",
+     "english": "a very dry place with a lot of sand and few plants",
      "chinese": "沙漠"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "design",
     "answer": "design",
     "pos": "v.",
-    "definition": "",
+    "definition": "to plan and draw how something will look",
     "chinese": "設計，構思",
     "sentence": "She wants to __________ her own clothes.",
     "translation": "她想設計自己的衣服。",
     "lookup": {
-     "english": "",
+     "english": "to plan and draw how something will look",
      "chinese": "設計，構思"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "desire",
     "answer": "desire",
     "pos": "n.",
-    "definition": "",
+    "definition": "a strong wish",
     "chinese": "欲望，渴望",
     "sentence": "He has a strong __________ to succeed.",
     "translation": "他有強烈的成功渴望。",
     "lookup": {
-     "english": "",
+     "english": "a strong wish",
      "chinese": "欲望，渴望"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "dessert",
     "answer": "dessert",
     "pos": "n.",
-    "definition": "",
+    "definition": "sweet food that you eat at the end of a meal",
     "chinese": "甜點",
     "sentence": "They had ice cream for __________.",
     "translation": "他們吃冰淇淋當甜點。",
     "lookup": {
-     "english": "",
+     "english": "sweet food that you eat at the end of a meal",
      "chinese": "甜點"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "detect",
     "answer": "detect",
     "pos": "v.",
-    "definition": "",
+    "definition": "to find or notice something that is hard to see",
     "chinese": "察覺，偵測",
     "sentence": "The test can __________ even the smallest errors.",
     "translation": "測試可以偵測到最小的錯誤。",
     "lookup": {
-     "english": "",
+     "english": "to find or notice something that is hard to see",
      "chinese": "察覺，偵測"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "develop",
     "answer": "develop",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make something new and better over time",
     "chinese": "發展，開發",
     "sentence": "The company plans to __________ a new product.",
     "translation": "公司計劃開發一種新產品。",
     "lookup": {
-     "english": "",
+     "english": "to make something new and better over time",
      "chinese": "發展，開發"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "dial",
     "answer": "dialed",
     "pos": "v.",
-    "definition": "",
+    "definition": "to press the numbers on a phone to call someone",
     "chinese": "撥號",
     "sentence": "He __________ the wrong number by mistake.",
     "translation": "他錯誤地撥錯了號碼。",
     "lookup": {
-     "english": "",
+     "english": "to press the numbers on a phone to call someone",
      "chinese": "撥號"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dawn":["","黎明，拂曉"],"deaf":["","聾的，失聰的"],"debate":["","辯論，討論"],"decision":["","決定，判斷"],"decorated":["","裝飾"],"decreased":["","減少"],"define":["","定義，解釋"],"deer":["","鹿"],"degree":["","程度，學位"],"delivered":["","遞送，傳遞"],"department":["","部門，系"],"depend":["","依賴，依靠"],"describe":["","描述，形容"],"desert":["","沙漠"],"design":["","設計，構思"],"desire":["","欲望，渴望"],"dessert":["","甜點"],"detect":["","察覺，偵測"],"develop":["","發展，開發"],"dialed":["","撥號"],"major":["","主要的，重要的"],"personal":["","個人的，私人的"],"silent":["","沉默的，安靜的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dawn":["the time of day when the sun comes up","黎明，拂曉"],"deaf":["not able to hear","聾的，失聰的"],"debate":["a talk in which people give different opinions about something","辯論，討論"],"decision":["a choice that you make after thinking","決定，判斷"],"decorated":["to make a place look nice by putting pretty things in it","裝飾"],"decreased":["to become smaller in number or amount","減少"],"define":["to say what a word or idea means","定義，解釋"],"deer":["a wild animal that runs fast; the male has horns like branches","鹿"],"degree":["a paper that a university gives you when you finish your studies","程度，學位"],"delivered":["to take letters or things to a person or place","遞送，傳遞"],"department":["one part of a company, school, or store","部門，系"],"depend":["(with \"on\") to trust someone to help you; to need someone","依賴，依靠"],"describe":["to say what someone or something is like","描述，形容"],"desert":["a very dry place with a lot of sand and few plants","沙漠"],"design":["to plan and draw how something will look","設計，構思"],"desire":["a strong wish","欲望，渴望"],"dessert":["sweet food that you eat at the end of a meal","甜點"],"detect":["to find or notice something that is hard to see","察覺，偵測"],"develop":["to make something new and better over time","發展，開發"],"dialed":["to press the numbers on a phone to call someone","撥號"],"major":["very big or important","主要的，重要的"],"personal":["belonging to you; your own","個人的，私人的"],"silent":["not speaking; making no sound","沉默的，安靜的"]});

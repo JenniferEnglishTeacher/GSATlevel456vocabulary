@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "personal",
     "answer": "personal",
     "pos": "adj.",
-    "definition": "",
+    "definition": "belonging to you; your own",
     "chinese": "個人的，私人的",
     "sentence": "This is my __________ opinion.",
     "translation": "這是我的個人意見。",
     "lookup": {
-     "english": "",
+     "english": "belonging to you; your own",
      "chinese": "個人的，私人的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "physics",
     "answer": "physics",
     "pos": "n.",
-    "definition": "",
+    "definition": "the study of heat, light, sound, and how things move",
     "chinese": "物理學",
     "sentence": "He is studying __________.",
     "translation": "他在學習物理。",
     "lookup": {
-     "english": "",
+     "english": "the study of heat, light, sound, and how things move",
      "chinese": "物理學"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "pigeon",
     "answer": "pigeon",
     "pos": "n.",
-    "definition": "",
+    "definition": "a gray bird that often lives in cities",
     "chinese": "鴿子",
     "sentence": "The __________ flew away.",
     "translation": "鴿子飛走了。",
     "lookup": {
-     "english": "",
+     "english": "a gray bird that often lives in cities",
      "chinese": "鴿子"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "pile",
     "answer": "pile",
     "pos": "n.",
-    "definition": "",
+    "definition": "many things lying one on top of another",
     "chinese": "堆，堆積",
     "sentence": "There is a __________ of books on the table.",
     "translation": "桌上有一堆書。",
     "lookup": {
-     "english": "",
+     "english": "many things lying one on top of another",
      "chinese": "堆，堆積"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "pillow",
     "answer": "pillow",
     "pos": "n.",
-    "definition": "",
+    "definition": "a soft thing that you put your head on in bed",
     "chinese": "枕頭",
     "sentence": "She lay her head on the __________.",
     "translation": "她把頭放在枕頭上。",
     "lookup": {
-     "english": "",
+     "english": "a soft thing that you put your head on in bed",
      "chinese": "枕頭"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "pineapple",
     "answer": "pineapple",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big, sweet tropical fruit that is yellow inside and has a rough skin",
     "chinese": "鳳梨，菠蘿",
     "sentence": "She likes to eat fresh __________.",
     "translation": "她喜歡吃新鮮的鳳梨。",
     "lookup": {
-     "english": "",
+     "english": "a big, sweet tropical fruit that is yellow inside and has a rough skin",
      "chinese": "鳳梨，菠蘿"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "plain",
     "answer": "plain",
     "pos": "adj.",
-    "definition": "",
+    "definition": "simple, with no pattern or decoration",
     "chinese": "樸素的，平凡的",
     "sentence": "She wore a __________ dress.",
     "translation": "她穿了一件樸素的連衣裙。",
     "lookup": {
-     "english": "",
+     "english": "simple, with no pattern or decoration",
      "chinese": "樸素的，平凡的"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "platform",
     "answer": "platform",
     "pos": "n.",
-    "definition": "",
+    "definition": "the place in a station where you get on and off trains",
     "chinese": "平台，月台",
     "sentence": "The train arrived at the __________.",
     "translation": "火車到達了月台。",
     "lookup": {
-     "english": "",
+     "english": "the place in a station where you get on and off trains",
      "chinese": "平台，月台"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "pleasant",
     "answer": "pleasant",
     "pos": "adj.",
-    "definition": "",
+    "definition": "nice and enjoyable",
     "chinese": "愉快的，令人愉快的",
     "sentence": "They had a __________ evening together.",
     "translation": "他們度過了一個愉快的晚上。",
     "lookup": {
-     "english": "",
+     "english": "nice and enjoyable",
      "chinese": "愉快的，令人愉快的"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "pleased",
     "answer": "pleased",
     "pos": "adj.",
-    "definition": "",
+    "definition": "happy about something",
     "chinese": "高興的，滿意的",
     "sentence": "She was __________ with the results.",
     "translation": "她對結果感到滿意。",
     "lookup": {
-     "english": "",
+     "english": "happy about something",
      "chinese": "高興的，滿意的"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "plus",
     "answer": "plus",
     "pos": "prep.",
-    "definition": "",
+    "definition": "and also; added to",
     "chinese": "加上，此外",
     "sentence": "He bought a book __________ a pen.",
     "translation": "他買了一本書加上一支筆。",
     "lookup": {
-     "english": "",
+     "english": "and also; added to",
      "chinese": "加上，此外"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "poem",
     "answer": "poem",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of writing in short lines, often with words that rhyme",
     "chinese": "詩",
     "sentence": "She wrote a beautiful __________.",
     "translation": "她寫了一首美麗的詩。",
     "lookup": {
-     "english": "",
+     "english": "a piece of writing in short lines, often with words that rhyme",
      "chinese": "詩"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "poison",
     "answer": "poison",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that can kill you or make you very sick if you eat or drink it",
     "chinese": "毒藥，毒素",
     "sentence": "The mushrooms contain a deadly __________.",
     "translation": "這些蘑菇含有致命的毒素。",
     "lookup": {
-     "english": "",
+     "english": "something that can kill you or make you very sick if you eat or drink it",
      "chinese": "毒藥，毒素"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "pollute",
     "answer": "pollute",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make air, water, or land dirty",
     "chinese": "污染",
     "sentence": "Factories __________ the air with smoke.",
     "translation": "工廠用煙霧污染空氣。",
     "lookup": {
-     "english": "",
+     "english": "to make air, water, or land dirty",
      "chinese": "污染"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "pollution",
     "answer": "pollution",
     "pos": "n.",
-    "definition": "",
+    "definition": "dirty air, water, or land",
     "chinese": "污染",
     "sentence": "The city is facing severe air __________.",
     "translation": "這個城市正面臨嚴重的空氣污染。",
     "lookup": {
-     "english": "",
+     "english": "dirty air, water, or land",
      "chinese": "污染"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "pop music",
     "answer": "pop music",
     "pos": "n.",
-    "definition": "",
+    "definition": "modern music that many young people like",
     "chinese": "流行音樂",
     "sentence": "She loves listening to __________.",
     "translation": "她喜歡聽流行音樂。",
     "lookup": {
-     "english": "",
+     "english": "modern music that many young people like",
      "chinese": "流行音樂"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "population",
     "answer": "population",
     "pos": "n.",
-    "definition": "",
+    "definition": "the number of people who live in a place",
     "chinese": "人口",
     "sentence": "The __________ of the city is growing rapidly.",
     "translation": "這個城市的人口正在迅速增長。",
     "lookup": {
-     "english": "",
+     "english": "the number of people who live in a place",
      "chinese": "人口"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "position",
     "answer": "position",
     "pos": "n.",
-    "definition": "",
+    "definition": "a job in a company",
     "chinese": "位置，職位",
     "sentence": "He applied for a management __________.",
     "translation": "他申請了一個管理職位。",
     "lookup": {
-     "english": "",
+     "english": "a job in a company",
      "chinese": "位置，職位"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "positive",
     "answer": "positive",
     "pos": "adj.",
-    "definition": "",
+    "definition": "thinking about the good side of things",
     "chinese": "積極的，正面的",
     "sentence": "She has a __________ outlook on life.",
     "translation": "她對生活持積極的態度。",
     "lookup": {
-     "english": "",
+     "english": "thinking about the good side of things",
      "chinese": "積極的，正面的"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "potato",
     "answer": "potato",
     "pos": "n.",
-    "definition": "",
+    "definition": "a round brown or yellow vegetable that grows under the ground",
     "chinese": "馬鈴薯，土豆",
     "sentence": "She made a __________ salad.",
     "translation": "她做了一份馬鈴薯沙拉。",
     "lookup": {
-     "english": "",
+     "english": "a round brown or yellow vegetable that grows under the ground",
      "chinese": "馬鈴薯，土豆"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"against":["","反對，對抗"],"beyond":["","超過，在...之外"],"hug":["","擁抱"],"minus":["","減，負的"],"omit":["","省略，忽略"],"personal":["","個人的，私人的"],"physics":["","物理學"],"pigeon":["","鴿子"],"pile":["","堆，堆積"],"pillow":["","枕頭"],"pineapple":["","鳳梨，菠蘿"],"plain":["","樸素的，平凡的"],"platform":["","平台，月台"],"pleasant":["","愉快的，令人愉快的"],"pleased":["","高興的，滿意的"],"plus":["","加上，此外"],"poem":["","詩"],"poison":["","毒藥，毒素"],"pollute":["","污染"],"pollution":["","污染"],"population":["","人口"],"position":["","位置，職位"],"positive":["","積極的，正面的"],"potato":["","馬鈴薯，土豆"],"repair":["","修理，修補"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"against":["not agreeing with something","反對，對抗"],"beyond":["on the far side of something","超過，在...之外"],"hug":["holding someone in your arms to show love","擁抱"],"minus":["below zero; made smaller by a number","減，負的"],"omit":["to leave something out","省略，忽略"],"personal":["belonging to you; your own","個人的，私人的"],"physics":["the study of heat, light, sound, and how things move","物理學"],"pigeon":["a gray bird that often lives in cities","鴿子"],"pile":["many things lying one on top of another","堆，堆積"],"pillow":["a soft thing that you put your head on in bed","枕頭"],"pineapple":["a big, sweet tropical fruit that is yellow inside and has a rough skin","鳳梨，菠蘿"],"plain":["simple, with no pattern or decoration","樸素的，平凡的"],"platform":["the place in a station where you get on and off trains","平台，月台"],"pleasant":["nice and enjoyable","愉快的，令人愉快的"],"pleased":["happy about something","高興的，滿意的"],"plus":["and also; added to","加上，此外"],"poem":["a piece of writing in short lines, often with words that rhyme","詩"],"poison":["something that can kill you or make you very sick if you eat or drink it","毒藥，毒素"],"pollute":["to make air, water, or land dirty","污染"],"pollution":["dirty air, water, or land","污染"],"population":["the number of people who live in a place","人口"],"position":["a job in a company","位置，職位"],"positive":["thinking about the good side of things","積極的，正面的"],"potato":["a round brown or yellow vegetable that grows under the ground","馬鈴薯，土豆"],"repair":["to fix something that is broken","修理，修補"]});

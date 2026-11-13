@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "seem",
     "answer": "seems",
     "pos": "v.",
-    "definition": "",
+    "definition": "to look or feel like something is true",
     "chinese": "似乎，看來",
     "sentence": "It __________ that she is not coming.",
     "translation": "看來她不會來了。",
     "lookup": {
-     "english": "",
+     "english": "to look or feel like something is true",
      "chinese": "似乎，看來"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "select",
     "answer": "selected",
     "pos": "v.",
-    "definition": "",
+    "definition": "to choose someone or something carefully",
     "chinese": "選擇，挑選",
     "sentence": "She was __________ to represent the team.",
     "translation": "她被選中代表隊伍。",
     "lookup": {
-     "english": "",
+     "english": "to choose someone or something carefully",
      "chinese": "選擇，挑選"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "selfish",
     "answer": "selfish",
     "pos": "adj.",
-    "definition": "",
+    "definition": "thinking only about yourself, not about others",
     "chinese": "自私的，自利的",
     "sentence": "It is __________ to think only of yourself.",
     "translation": "只考慮自己是自私的。",
     "lookup": {
-     "english": "",
+     "english": "thinking only about yourself, not about others",
      "chinese": "自私的，自利的"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "semester",
     "answer": "semester",
     "pos": "n.",
-    "definition": "",
+    "definition": "one of the two parts of a school year",
     "chinese": "學期",
     "sentence": "This __________ will end in June.",
     "translation": "這個學期將在六月結束。",
     "lookup": {
-     "english": "",
+     "english": "one of the two parts of a school year",
      "chinese": "學期"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "sense",
     "answer": "sense",
     "pos": "n.",
-    "definition": "",
+    "definition": "an understanding or feeling about something, as in \"a sense of humor\"",
     "chinese": "感覺，意識",
     "sentence": "He has a good __________ of humor.",
     "translation": "他很有幽默感。",
     "lookup": {
-     "english": "",
+     "english": "an understanding or feeling about something, as in \"a sense of humor\"",
      "chinese": "感覺，意識"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "servant",
     "answer": "servant",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who works in another person's house",
     "chinese": "佣人，僕人",
     "sentence": "The __________ prepared dinner for the guests.",
     "translation": "佣人為客人準備了晚餐。",
     "lookup": {
-     "english": "",
+     "english": "a person who works in another person's house",
      "chinese": "佣人，僕人"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "serve",
     "answer": "serve",
     "pos": "v.",
-    "definition": "",
+    "definition": "to give food or drinks to people",
     "chinese": "服務，提供",
     "sentence": "They will __________ dinner at 6 PM.",
     "translation": "他們將在晚上6點供應晚餐。",
     "lookup": {
-     "english": "",
+     "english": "to give food or drinks to people",
      "chinese": "服務，提供"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "shall",
     "answer": "shall",
     "pos": "aux.",
-    "definition": "",
+    "definition": "used with \"I\" or \"we\" to talk about the future",
     "chinese": "將要，應該",
     "sentence": "We __________ go to the park tomorrow.",
     "translation": "我們明天應該去公園。",
     "lookup": {
-     "english": "",
+     "english": "used with \"I\" or \"we\" to talk about the future",
      "chinese": "將要，應該"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "shark",
     "answer": "shark",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big, dangerous fish with sharp teeth",
     "chinese": "鯊魚",
     "sentence": "They saw a __________ while diving.",
     "translation": "他們潛水時看到了一條鯊魚。",
     "lookup": {
-     "english": "",
+     "english": "a big, dangerous fish with sharp teeth",
      "chinese": "鯊魚"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "sheet",
     "answer": "sheets",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big piece of thin cloth that you put on a bed",
     "chinese": "床單，紙張",
     "sentence": "She put clean __________ on the bed.",
     "translation": "她在床上鋪了乾淨的床單。",
     "lookup": {
-     "english": "",
+     "english": "a big piece of thin cloth that you put on a bed",
      "chinese": "床單，紙張"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "shelf",
     "answer": "shelf",
     "pos": "n.",
-    "definition": "",
+    "definition": "a flat board on a wall or in a closet for putting things on",
     "chinese": "架子，擱板",
     "sentence": "The books are on the top __________.",
     "translation": "書在最上面的架子上。",
     "lookup": {
-     "english": "",
+     "english": "a flat board on a wall or in a closet for putting things on",
      "chinese": "架子，擱板"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "shoot",
     "answer": "shoot",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make a movie or take photos; to fire a gun",
     "chinese": "射擊，拍攝",
     "sentence": "He wants to __________ a documentary film.",
     "translation": "他想拍一部紀錄片。",
     "lookup": {
-     "english": "",
+     "english": "to make a movie or take photos; to fire a gun",
      "chinese": "射擊，拍攝"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "shore",
     "answer": "shore",
     "pos": "n.",
-    "definition": "",
+    "definition": "the land along the edge of a sea or lake",
     "chinese": "岸，海岸",
     "sentence": "They walked along the __________.",
     "translation": "他們沿著海岸散步。",
     "lookup": {
-     "english": "",
+     "english": "the land along the edge of a sea or lake",
      "chinese": "岸，海岸"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "shrimp",
     "answer": "shrimp",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small pink sea animal with a soft shell and many legs",
     "chinese": "蝦",
     "sentence": "She made a delicious __________ dish.",
     "translation": "她做了一道美味的蝦菜。",
     "lookup": {
-     "english": "",
+     "english": "a small pink sea animal with a soft shell and many legs",
      "chinese": "蝦"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "shut",
     "answer": "shut",
     "pos": "v.",
-    "definition": "",
+    "definition": "to close something",
     "chinese": "關閉，停止",
     "sentence": "Please __________ the door behind you.",
     "translation": "請隨手關門。",
     "lookup": {
-     "english": "",
+     "english": "to close something",
      "chinese": "關閉，停止"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "silence",
     "answer": "silence",
     "pos": "n.",
-    "definition": "",
+    "definition": "a time when there is no sound",
     "chinese": "沉默，寂靜",
     "sentence": "The room fell into complete __________.",
     "translation": "房間陷入了完全的寂靜。",
     "lookup": {
-     "english": "",
+     "english": "a time when there is no sound",
      "chinese": "沉默，寂靜"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "silent",
     "answer": "silent",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not speaking; making no sound",
     "chinese": "沉默的，安靜的",
     "sentence": "He remained __________ during the meeting.",
     "translation": "他在會議上保持沉默。",
     "lookup": {
-     "english": "",
+     "english": "not speaking; making no sound",
      "chinese": "沉默的，安靜的"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "silly",
     "answer": "silly",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not smart or serious; foolish",
     "chinese": "愚蠢的，糊塗的",
     "sentence": "It was a __________ mistake to make.",
     "translation": "這是一個愚蠢的錯誤。",
     "lookup": {
-     "english": "",
+     "english": "not smart or serious; foolish",
      "chinese": "愚蠢的，糊塗的"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "silver",
     "answer": "silver",
     "pos": "n.",
-    "definition": "",
+    "definition": "a shiny gray-white metal used for rings and coins",
     "chinese": "銀",
     "sentence": "The necklace is made of __________.",
     "translation": "這條項鍊是銀製的。",
     "lookup": {
-     "english": "",
+     "english": "a shiny gray-white metal used for rings and coins",
      "chinese": "銀"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "similar",
     "answer": "similar",
     "pos": "adj.",
-    "definition": "",
+    "definition": "almost the same",
     "chinese": "相似的，類似的",
     "sentence": "They have __________ interests.",
     "translation": "他們有相似的興趣。",
     "lookup": {
-     "english": "",
+     "english": "almost the same",
      "chinese": "相似的，類似的"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"seems":["","似乎，看來"],"selected":["","選擇，挑選"],"selfish":["","自私的，自利的"],"semester":["","學期"],"sense":["","感覺，意識"],"servant":["","佣人，僕人"],"serve":["","服務，提供"],"shall":["","將要，應該"],"shark":["","鯊魚"],"sheets":["","床單，紙張"],"shelf":["","架子，擱板"],"shoot":["","射擊，拍攝"],"shore":["","岸，海岸"],"shrimp":["","蝦"],"shut":["","關閉，停止"],"silence":["","沉默，寂靜"],"silent":["","沉默的，安靜的"],"silly":["","愚蠢的，糊塗的"],"silver":["","銀"],"similar":["","相似的，類似的"],"vacation":["","假期，休假"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"seems":["to look or feel like something is true","似乎，看來"],"selected":["to choose someone or something carefully","選擇，挑選"],"selfish":["thinking only about yourself, not about others","自私的，自利的"],"semester":["one of the two parts of a school year","學期"],"sense":["an understanding or feeling about something, as in \"a sense of humor\"","感覺，意識"],"servant":["a person who works in another person's house","佣人，僕人"],"serve":["to give food or drinks to people","服務，提供"],"shall":["used with \"I\" or \"we\" to talk about the future","將要，應該"],"shark":["a big, dangerous fish with sharp teeth","鯊魚"],"sheets":["a big piece of thin cloth that you put on a bed","床單，紙張"],"shelf":["a flat board on a wall or in a closet for putting things on","架子，擱板"],"shoot":["to make a movie or take photos; to fire a gun","射擊，拍攝"],"shore":["the land along the edge of a sea or lake","岸，海岸"],"shrimp":["a small pink sea animal with a soft shell and many legs","蝦"],"shut":["to close something","關閉，停止"],"silence":["a time when there is no sound","沉默，寂靜"],"silent":["not speaking; making no sound","沉默的，安靜的"],"silly":["not smart or serious; foolish","愚蠢的，糊塗的"],"silver":["a shiny gray-white metal used for rings and coins","銀"],"similar":["almost the same","相似的，類似的"],"vacation":["a time when you do not go to school or work","假期，休假"]});

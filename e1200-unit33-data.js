@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "box",
     "pos": "n.",
     "cn_def": "盒子",
-    "en_def": "",
+    "en_def": "a container with flat sides, often made of paper or wood",
     "sentence": "Q: What's this, Mom? — A: It's a {{BLANK}}. Your birthday present is in it.",
     "cn": "媽，這是什麼？ — 這是一個盒子，你的生日禮物在裡面。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "case",
     "pos": "n.",
     "cn_def": "盒；箱；情形",
-    "en_def": "",
+    "en_def": "a box or container for keeping something in",
     "sentence": "Q: What's that on your desk? — A: It's my pencil {{BLANK}}. I keep my pens in it.",
     "cn": "你書桌上那是什麼？ — 那是我的鉛筆盒，我把筆放在裡面。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "can",
     "pos": "n.",
     "cn_def": "罐；罐頭",
-    "en_def": "",
+    "en_def": "a metal container for food or drinks",
     "sentence": "Q: What's that in your hand? — A: It's a {{BLANK}} of Coke. It's for my brother.",
     "cn": "你手上那是什麼？ — 那是一罐可樂，是給我弟弟的。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "bell",
     "pos": "n.",
     "cn_def": "鈴；鐘",
-    "en_def": "",
+    "en_def": "a metal thing that makes a ringing sound",
     "sentence": "Q: What's that sound? — A: It's the school {{BLANK}}. Class begins now.",
     "cn": "那是什麼聲音？ — 那是學校的鐘聲，現在要上課了。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "robot",
     "pos": "n.",
     "cn_def": "機器人",
-    "en_def": "",
+    "en_def": "a machine that can move and do some work like a person",
     "sentence": "Q: What's this? — A: It's a {{BLANK}}. It cleans the floor for us.",
     "cn": "這是什麼？ — 這是一個機器人，它幫我們掃地。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "tool",
     "pos": "n.",
     "cn_def": "工具",
-    "en_def": "",
+    "en_def": "a thing you hold in your hand to make or fix something",
     "sentence": "Q: What's that in Dad's hand? — A: It's a {{BLANK}}. He fixes his bike with it.",
     "cn": "爸爸手上那是什麼？ — 那是一個工具，他用它修腳踏車。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "nail (nails)",
     "pos": "n.",
     "cn_def": "釘子",
-    "en_def": "",
+    "en_def": "a thin, sharp piece of metal that you hit into wood",
     "sentence": "Q: What are these? — A: They are {{BLANK}}. Dad needs them to fix the chair.",
     "cn": "這些是什麼？ — 這些是釘子，爸爸需要它們來修椅子。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "pin (pins)",
     "pos": "n.",
     "cn_def": "大頭針；別針",
-    "en_def": "",
+    "en_def": "a very thin, sharp piece of metal for holding paper or cloth together",
     "sentence": "Q: What are those on the wall? — A: They are {{BLANK}}. They hold the pictures on the wall.",
     "cn": "牆上那些是什麼？ — 那些是大頭針，它們把圖片固定在牆上。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "rope",
     "pos": "n.",
     "cn_def": "繩子",
-    "en_def": "",
+    "en_def": "a very thick, strong string",
     "sentence": "Q: What's this? — A: It's a jump {{BLANK}}. We use it in PE class.",
     "cn": "這是什麼？ — 這是一條跳繩，我們在體育課用它。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "string",
     "pos": "n.",
     "cn_def": "線；細繩",
-    "en_def": "",
+    "en_def": "a thin line for tying things",
     "sentence": "Q: What's that? — A: It's a {{BLANK}}. I tie the box with it.",
     "cn": "那是什麼？ — 那是一條線，我用它綁盒子。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "swing",
     "pos": "n.",
     "cn_def": "鞦韆",
-    "en_def": "",
+    "en_def": "a seat that hangs from two ropes and moves forward and back",
     "sentence": "Q: What's that in the park? — A: It's a {{BLANK}}. The kids love to play on it.",
     "cn": "公園裡那是什麼？ — 那是一個鞦韆，小孩們很愛在上面玩。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "castle",
     "pos": "n.",
     "cn_def": "城堡",
-    "en_def": "",
+    "en_def": "a big, strong old building where a king or queen lived",
     "sentence": "Q: What's that on the hill? — A: It's an old {{BLANK}}. A king lived there.",
     "cn": "山丘上那是什麼？ — 那是一座古老的城堡，以前有一位國王住在那裡。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "rose (roses)",
     "pos": "n.",
     "cn_def": "玫瑰",
-    "en_def": "",
+    "en_def": "a flower with a sweet smell and sharp points on its stem",
     "sentence": "Q: What are those red ones in the garden? — A: They are {{BLANK}}. They smell sweet.",
     "cn": "花園裡那些紅色的是什麼？ — 它們是玫瑰，聞起來很香。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "cellphone",
     "pos": "n.",
     "cn_def": "手機",
-    "en_def": "",
+    "en_def": "a small phone that you can carry with you",
     "sentence": "Q: Does your brother have a phone? — A: Yes, he does. He has a new {{BLANK}}.",
     "cn": "你哥哥有電話嗎？ — 有，他有。他有一支新手機。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "screen",
     "pos": "n.",
     "cn_def": "螢幕",
-    "en_def": "",
+    "en_def": "the flat part of a TV, computer, or phone where you see pictures",
     "sentence": "Q: What does your mom need? — A: She needs a new {{BLANK}} for her phone. The old one is broken.",
     "cn": "你媽媽需要什麼？ — 她的手機需要一個新螢幕，舊的壞了。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "Internet (Net)",
     "pos": "n.",
     "cn_def": "網路",
-    "en_def": "",
+    "en_def": "the system that joins computers around the world",
     "sentence": "Q: Where do your classmates find the answers? — A: They find them on the {{BLANK}}.",
     "cn": "你的同學們在哪裡找到答案？ — 他們在網路上找到答案。",
     "alts": [
@@ -141,7 +141,7 @@ const VOCAB = [
     "word": "e-mail",
     "pos": "n.",
     "cn_def": "電子郵件",
-    "en_def": "",
+    "en_def": "a message sent from one computer or phone to another",
     "sentence": "Q: What does Tom write to his friend? — A: He writes an {{BLANK}} to him every week.",
     "cn": "湯姆寫什麼給他的朋友？ — 他每週寫一封電子郵件給他。"
   },
@@ -149,7 +149,7 @@ const VOCAB = [
     "word": "file",
     "pos": "n.",
     "cn_def": "檔案",
-    "en_def": "",
+    "en_def": "a set of information kept on a computer",
     "sentence": "Q: What do you need for your report? — A: I need this {{BLANK}} on my computer.",
     "cn": "你的報告需要什麼？ — 我需要電腦裡的這個檔案。"
   },
@@ -157,7 +157,7 @@ const VOCAB = [
     "word": "mail",
     "pos": "n.",
     "cn_def": "信件；郵件",
-    "en_def": "",
+    "en_def": "letters and packages that are sent to people",
     "sentence": "Q: What does the man from the post office bring? — A: He brings the {{BLANK}} to our house every day.",
     "cn": "郵局來的那個人帶來什麼？ — 他每天把信件送到我們家。"
   },
@@ -165,7 +165,7 @@ const VOCAB = [
     "word": "newspaper",
     "pos": "n.",
     "cn_def": "報紙",
-    "en_def": "",
+    "en_def": "large pieces of paper with news printed on them",
     "sentence": "Q: What does Grandpa read every morning? — A: He reads the {{BLANK}}.",
     "cn": "爺爺每天早上讀什麼？ — 他讀報紙。"
   },
@@ -173,7 +173,7 @@ const VOCAB = [
     "word": "news",
     "pos": "n.",
     "cn_def": "新聞；消息",
-    "en_def": "",
+    "en_def": "new information about things that have just happened",
     "sentence": "Q: What do your parents watch after dinner? — A: They watch the {{BLANK}} on TV.",
     "cn": "你爸媽晚餐後看什麼？ — 他們看電視新聞。"
   },
@@ -181,7 +181,7 @@ const VOCAB = [
     "word": "photo",
     "pos": "n.",
     "cn_def": "照片",
-    "en_def": "",
+    "en_def": "a picture you take with a camera",
     "sentence": "Q: What do you have on your desk? — A: I have a {{BLANK}} of my family.",
     "cn": "你書桌上有什麼？ — 我有一張全家福照片。"
   },
@@ -189,7 +189,7 @@ const VOCAB = [
     "word": "note",
     "pos": "n.",
     "cn_def": "字條；筆記",
-    "en_def": "",
+    "en_def": "a short message written on paper; words you write to help you remember",
     "sentence": "Q: What does Lisa have in her hand? — A: She has a {{BLANK}} from her friend. It says, \"Happy birthday!\"",
     "cn": "麗莎手上有什麼？ — 她有一張朋友給的字條，上面寫著「生日快樂！」"
   },
@@ -197,7 +197,7 @@ const VOCAB = [
     "word": "gift",
     "pos": "n.",
     "cn_def": "禮物",
-    "en_def": "",
+    "en_def": "something you give to someone; a present",
     "sentence": "Q: What does Amy have for her mom? — A: She has a {{BLANK}} for her. It's a pink bag.",
     "cn": "艾美有什麼要給她媽媽？ — 她有一份禮物要給她，是一個粉紅色的包包。"
   },
@@ -205,7 +205,7 @@ const VOCAB = [
     "word": "ticket (tickets)",
     "pos": "n.",
     "cn_def": "票",
-    "en_def": "",
+    "en_def": "a piece of paper that lets you go into a place or ride a train",
     "sentence": "Q: What do we need for the movie? — A: We need two {{BLANK}}. They are 250 dollars each.",
     "cn": "我們看電影需要什麼？ — 我們需要兩張票，每張 250 元。"
   },
@@ -213,7 +213,7 @@ const VOCAB = [
     "word": "metro",
     "pos": "n.",
     "cn_def": "捷運",
-    "en_def": "",
+    "en_def": "a fast train system in a city, often under the ground",
     "sentence": "Q: How do you and your family go to the zoo? — A: We take the {{BLANK}}. It's fast.",
     "cn": "你和家人怎麼去動物園？ — 我們搭捷運，很快。"
   },
@@ -221,7 +221,7 @@ const VOCAB = [
     "word": "set",
     "pos": "n.",
     "cn_def": "一套；一組",
-    "en_def": "",
+    "en_def": "a group of things that belong together",
     "sentence": "Q: What do you want for your birthday? — A: I want a {{BLANK}} of color pens.",
     "cn": "你生日想要什麼？ — 我想要一組彩色筆。"
   },
@@ -229,7 +229,7 @@ const VOCAB = [
     "word": "item (items)",
     "pos": "n.",
     "cn_def": "項目；品項",
-    "en_def": "",
+    "en_def": "one thing on a list or in a group",
     "sentence": "Q: What do you need to buy at the store? — A: I need to buy ten {{BLANK}} on this list.",
     "cn": "你需要在商店買什麼？ — 我需要買這張清單上的十個品項。"
   },
@@ -237,7 +237,7 @@ const VOCAB = [
     "word": "thing (things)",
     "pos": "n.",
     "cn_def": "東西；事情",
-    "en_def": "",
+    "en_def": "an object; something that happens or that you do",
     "sentence": "Q: What do you have in your bag? — A: I have many {{BLANK}} in it: books, pens, and a ruler.",
     "cn": "你的包包裡有什麼？ — 裡面有很多東西：書、筆和一把尺。"
   },
@@ -245,7 +245,7 @@ const VOCAB = [
     "word": "honey",
     "pos": "n.",
     "cn_def": "蜂蜜",
-    "en_def": "",
+    "en_def": "a sweet, thick food made by bees",
     "sentence": "Q: Is there any {{BLANK}} for my tea? — A: Yes, there is some in the bottle.",
     "cn": "有蜂蜜可以加在我的茶裡嗎？ — 有，瓶子裡有一些。"
   },
@@ -253,7 +253,7 @@ const VOCAB = [
     "word": "gas",
     "pos": "n.",
     "cn_def": "瓦斯；汽油",
-    "en_def": "",
+    "en_def": "something like air that burns for cooking; the liquid that makes cars go",
     "sentence": "Q: Is there any {{BLANK}} for cooking? — A: No, there isn't any. Dad has to buy some.",
     "cn": "有瓦斯可以煮飯嗎？ — 沒有，一點都沒有，爸爸必須去買一些。"
   },
@@ -261,7 +261,7 @@ const VOCAB = [
     "word": "power",
     "pos": "n.",
     "cn_def": "電力；力量",
-    "en_def": "",
+    "en_def": "electricity; the strength to do something",
     "sentence": "Q: Is there any light in the house? — A: No, there isn't. The {{BLANK}} is out.",
     "cn": "屋子裡有燈光嗎？ — 沒有，停電了。"
   },
@@ -269,7 +269,7 @@ const VOCAB = [
     "word": "garbage",
     "pos": "n.",
     "cn_def": "垃圾",
-    "en_def": "",
+    "en_def": "things that you throw away",
     "sentence": "Q: Is there any {{BLANK}} in the kitchen? — A: Yes, there is a lot. Please take it out.",
     "cn": "廚房裡有垃圾嗎？ — 有，有很多，請把它拿出去倒。"
   },
@@ -277,7 +277,7 @@ const VOCAB = [
     "word": "trash",
     "pos": "n.",
     "cn_def": "垃圾",
-    "en_def": "",
+    "en_def": "things that you throw away",
     "sentence": "Q: Is there any {{BLANK}} on the floor? — A: No, there isn't any. The room is clean.",
     "cn": "地板上有垃圾嗎？ — 沒有，一點都沒有，房間很乾淨。"
   },
@@ -285,7 +285,7 @@ const VOCAB = [
     "word": "mud",
     "pos": "n.",
     "cn_def": "泥巴",
-    "en_def": "",
+    "en_def": "wet, soft ground",
     "sentence": "Q: Is there any {{BLANK}} on your shoes? — A: Yes, there is. I played in the rain.",
     "cn": "你的鞋子上有泥巴嗎？ — 有，我在雨中玩了。"
   },
@@ -293,7 +293,7 @@ const VOCAB = [
     "word": "grass",
     "pos": "n.",
     "cn_def": "草",
-    "en_def": "",
+    "en_def": "the short green plant that covers the ground in parks and fields",
     "sentence": "Q: Is there any food for the sheep? — A: Yes, there is a lot of {{BLANK}} on the hill.",
     "cn": "有給綿羊吃的食物嗎？ — 有，山丘上有很多草。"
   },
@@ -301,7 +301,7 @@ const VOCAB = [
     "word": "space",
     "pos": "n.",
     "cn_def": "空間",
-    "en_def": "",
+    "en_def": "an empty place that you can use",
     "sentence": "Q: Is there any {{BLANK}} for a new desk? — A: No, there isn't. My room is too small.",
     "cn": "有空間放新書桌嗎？ — 沒有，我的房間太小了。"
   },
@@ -309,7 +309,7 @@ const VOCAB = [
     "word": "noise",
     "pos": "n.",
     "cn_def": "噪音；聲響",
-    "en_def": "",
+    "en_def": "a loud sound that is not nice to hear",
     "sentence": "Q: Is there any {{BLANK}} outside? — A: Yes, there is. The kids are playing ball.",
     "cn": "外面有噪音嗎？ — 有，小孩們在玩球。"
   },
@@ -317,7 +317,7 @@ const VOCAB = [
     "word": "fire",
     "pos": "n.",
     "cn_def": "火",
-    "en_def": "",
+    "en_def": "the hot, bright thing you see when something burns",
     "sentence": "Q: What is there on the beach? — A: There is a big {{BLANK}}. We are having a barbecue.",
     "cn": "海灘上有什麼？ — 有一大堆火，我們正在烤肉。"
   },
@@ -325,7 +325,7 @@ const VOCAB = [
     "word": "heat",
     "pos": "n.",
     "cn_def": "熱；熱度",
-    "en_def": "",
+    "en_def": "the feeling of something hot",
     "sentence": "Q: Why is it so hot today? — A: There is a lot of {{BLANK}} from the sun.",
     "cn": "今天為什麼這麼熱？ — 太陽的熱度很強。"
   },
@@ -333,7 +333,7 @@ const VOCAB = [
     "word": "ground",
     "pos": "n.",
     "cn_def": "地面",
-    "en_def": "",
+    "en_def": "the land under your feet",
     "sentence": "Q: What is there on the playground? — A: There is a ball on the {{BLANK}}.",
     "cn": "操場上有什麼？ — 地上有一顆球。"
   },
@@ -341,7 +341,7 @@ const VOCAB = [
     "word": "corner",
     "pos": "n.",
     "cn_def": "角落；轉角",
-    "en_def": "",
+    "en_def": "the place where two walls, lines, or streets meet",
     "sentence": "Q: Is there a store near here? — A: Yes, there is. There is one on the {{BLANK}}.",
     "cn": "這附近有商店嗎？ — 有，轉角就有一家。"
   },
@@ -349,7 +349,7 @@ const VOCAB = [
     "word": "bottom",
     "pos": "n.",
     "cn_def": "底部",
-    "en_def": "",
+    "en_def": "the lowest part of something",
     "sentence": "Q: Is there any water in the bottle? — A: Yes, there is a little at the {{BLANK}}.",
     "cn": "瓶子裡有水嗎？ — 有，底部有一點點。"
   },
@@ -357,7 +357,7 @@ const VOCAB = [
     "word": "center",
     "pos": "n.",
     "cn_def": "中心",
-    "en_def": "",
+    "en_def": "the middle of something",
     "sentence": "Q: Is there a park in the city? — A: Yes, there is. There is a big park in the {{BLANK}} of the city.",
     "cn": "城市裡有公園嗎？ — 有，市中心有一座大公園。"
   },
@@ -365,7 +365,7 @@ const VOCAB = [
     "word": "side (sides)",
     "pos": "n.",
     "cn_def": "邊；面；旁邊",
-    "en_def": "",
+    "en_def": "the left or right part of something; one of its surfaces",
     "sentence": "Q: Are there any stores on this road? — A: Yes, there are. There are stores on both {{BLANK}} of the road.",
     "cn": "這條路上有商店嗎？ — 有，路的兩邊都有商店。"
   },
@@ -373,7 +373,7 @@ const VOCAB = [
     "word": "seat",
     "pos": "n.",
     "cn_def": "座位",
-    "en_def": "",
+    "en_def": "something that you sit on",
     "sentence": "Q: Can I sit with you on the bus? — A: Sure. There is a free {{BLANK}} next to me.",
     "cn": "我可以在公車上跟你坐嗎？ — 當然，我旁邊有一個空位。"
   },
@@ -381,7 +381,7 @@ const VOCAB = [
     "word": "blank (blanks)",
     "pos": "n.",
     "cn_def": "空格",
-    "en_def": "",
+    "en_def": "an empty space where you write an answer",
     "sentence": "Q: How many questions are there on the test? — A: There are ten {{BLANK}}. Write a word in each one.",
     "cn": "考試有幾題？ — 有十個空格，每個空格寫一個字。"
   },
@@ -389,7 +389,7 @@ const VOCAB = [
     "word": "ghost",
     "pos": "n.",
     "cn_def": "鬼",
-    "en_def": "",
+    "en_def": "a dead person that some people believe they can see",
     "sentence": "Q: Why are you scared? — A: My brother says there is a {{BLANK}} in the old house.",
     "cn": "你為什麼害怕？ — 我哥哥說那間老房子裡有鬼。"
   },
@@ -397,7 +397,7 @@ const VOCAB = [
     "word": "tree",
     "pos": "n.",
     "cn_def": "樹",
-    "en_def": "",
+    "en_def": "a tall plant with branches and leaves",
     "sentence": "Q: What is there in your yard? — A: There is a big {{BLANK}}. Birds sing in it.",
     "cn": "你家院子裡有什麼？ — 有一棵大樹，鳥在上面唱歌。"
   },
@@ -405,7 +405,7 @@ const VOCAB = [
     "word": "root (roots)",
     "pos": "n.",
     "cn_def": "根",
-    "en_def": "",
+    "en_def": "the part of a plant that grows under the ground",
     "sentence": "Q: Why is that old plant so strong? — A: There are long {{BLANK}} under it.",
     "cn": "那棵老植物為什麼這麼強壯？ — 它下面有很長的根。"
   },
@@ -413,7 +413,7 @@ const VOCAB = [
     "word": "seed (seeds)",
     "pos": "n.",
     "cn_def": "種子",
-    "en_def": "",
+    "en_def": "the small hard thing that a new plant grows from",
     "sentence": "Q: What is there in the apple? — A: There are some {{BLANK}} in it.",
     "cn": "蘋果裡有什麼？ — 裡面有一些種子。"
   },
@@ -421,7 +421,7 @@ const VOCAB = [
     "word": "flower (flowers)",
     "pos": "n.",
     "cn_def": "花",
-    "en_def": "",
+    "en_def": "the colorful, pretty part of a plant",
     "sentence": "Q: What is there in the garden? — A: There are many {{BLANK}}. They are very beautiful.",
     "cn": "花園裡有什麼？ — 有很多花，它們很美。"
   },
@@ -429,7 +429,7 @@ const VOCAB = [
     "word": "rock (rocks)",
     "pos": "n.",
     "cn_def": "岩石",
-    "en_def": "",
+    "en_def": "a big, hard stone",
     "sentence": "Q: What is there in the river? — A: There are many big {{BLANK}}. Don't swim there.",
     "cn": "河裡有什麼？ — 有很多大岩石，不要在那裡游泳。"
   },
@@ -437,7 +437,7 @@ const VOCAB = [
     "word": "planet (planets)",
     "pos": "n.",
     "cn_def": "行星",
-    "en_def": "",
+    "en_def": "a very big round thing in space that moves around the sun",
     "sentence": "Q: Are there other worlds around the sun? — A: Yes, there are. There are eight {{BLANK}} around the sun.",
     "cn": "太陽周圍還有其他世界嗎？ — 有，太陽周圍有八顆行星。"
   }
@@ -1097,272 +1097,272 @@ const MCQS = [
 const LOOKUP = {
   "nails": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the hard part at the end of a finger or toe",
     "cn_def": "指甲"
   },
   "can": {
     "pos": "aux.",
-    "en_def": "",
+    "en_def": "to be able to do something",
     "cn_def": "能夠；會"
   },
   "box": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a container with flat sides, often made of paper or wood",
     "cn_def": "盒子"
   },
   "case": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a box or container for keeping something in",
     "cn_def": "盒；箱；情形"
   },
   "bell": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a metal thing that makes a ringing sound",
     "cn_def": "鈴；鐘"
   },
   "robot": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a machine that can move and do some work like a person",
     "cn_def": "機器人"
   },
   "tool": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing you hold in your hand to make or fix something",
     "cn_def": "工具"
   },
   "pins": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a very thin, sharp piece of metal for holding paper or cloth together",
     "cn_def": "大頭針；別針"
   },
   "rope": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a very thick, strong string",
     "cn_def": "繩子"
   },
   "string": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thin line for tying things",
     "cn_def": "線；細繩"
   },
   "swing": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a seat that hangs from two ropes and moves forward and back",
     "cn_def": "鞦韆"
   },
   "castle": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big, strong old building where a king or queen lived",
     "cn_def": "城堡"
   },
   "roses": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a flower with a sweet smell and sharp points on its stem",
     "cn_def": "玫瑰"
   },
   "cellphone": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small phone that you can carry with you",
     "cn_def": "手機"
   },
   "screen": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the flat part of a TV, computer, or phone where you see pictures",
     "cn_def": "螢幕"
   },
   "internet": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the system that joins computers around the world",
     "cn_def": "網路"
   },
   "e-mail": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a message sent from one computer or phone to another",
     "cn_def": "電子郵件"
   },
   "file": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a set of information kept on a computer",
     "cn_def": "檔案"
   },
   "mail": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "letters and packages that are sent to people",
     "cn_def": "信件；郵件"
   },
   "newspaper": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "large pieces of paper with news printed on them",
     "cn_def": "報紙"
   },
   "news": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "new information about things that have just happened",
     "cn_def": "新聞；消息"
   },
   "photo": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a picture you take with a camera",
     "cn_def": "照片"
   },
   "note": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a short message written on paper; words you write to help you remember",
     "cn_def": "字條；筆記"
   },
   "gift": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you give to someone; a present",
     "cn_def": "禮物"
   },
   "tickets": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a piece of paper that lets you go into a place or ride a train",
     "cn_def": "票"
   },
   "metro": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a fast train system in a city, often under the ground",
     "cn_def": "捷運"
   },
   "set": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a group of things that belong together",
     "cn_def": "一套；一組"
   },
   "items": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one thing on a list or in a group",
     "cn_def": "項目；品項"
   },
   "things": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an object; something that happens or that you do",
     "cn_def": "東西；事情"
   },
   "honey": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a sweet, thick food made by bees",
     "cn_def": "蜂蜜"
   },
   "gas": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something like air that burns for cooking; the liquid that makes cars go",
     "cn_def": "瓦斯；汽油"
   },
   "power": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "electricity; the strength to do something",
     "cn_def": "電力；力量"
   },
   "garbage": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "things that you throw away",
     "cn_def": "垃圾"
   },
   "trash": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "things that you throw away",
     "cn_def": "垃圾"
   },
   "mud": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "wet, soft ground",
     "cn_def": "泥巴"
   },
   "grass": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the short green plant that covers the ground in parks and fields",
     "cn_def": "草"
   },
   "space": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an empty place that you can use",
     "cn_def": "空間"
   },
   "noise": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a loud sound that is not nice to hear",
     "cn_def": "噪音；聲響"
   },
   "fire": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the hot, bright thing you see when something burns",
     "cn_def": "火"
   },
   "heat": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the feeling of something hot",
     "cn_def": "熱；熱度"
   },
   "ground": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the land under your feet",
     "cn_def": "地面"
   },
   "corner": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the place where two walls, lines, or streets meet",
     "cn_def": "角落；轉角"
   },
   "bottom": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the lowest part of something",
     "cn_def": "底部"
   },
   "center": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the middle of something",
     "cn_def": "中心"
   },
   "sides": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the left or right part of something; one of its surfaces",
     "cn_def": "邊；面；旁邊"
   },
   "seat": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that you sit on",
     "cn_def": "座位"
   },
   "blanks": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an empty space where you write an answer",
     "cn_def": "空格"
   },
   "ghost": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a dead person that some people believe they can see",
     "cn_def": "鬼"
   },
   "tree": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a tall plant with branches and leaves",
     "cn_def": "樹"
   },
   "roots": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part of a plant that grows under the ground",
     "cn_def": "根"
   },
   "seeds": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the small hard thing that a new plant grows from",
     "cn_def": "種子"
   },
   "flowers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the colorful, pretty part of a plant",
     "cn_def": "花"
   },
   "rocks": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big, hard stone",
     "cn_def": "岩石"
   },
   "planets": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a very big round thing in space that moves around the sun",
     "cn_def": "行星"
   }
 };

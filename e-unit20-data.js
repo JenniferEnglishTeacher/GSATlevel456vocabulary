@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "country",
     "answer": "country",
     "pos": "n.",
-    "definition": "",
+    "definition": "a land with its own people and government, like Japan",
     "chinese": "國家",
     "sentence": "Q: What __________ do you and your family come from? — A: We come from Taiwan.",
     "translation": "你和你的家人來自哪個國家？ — 我們來自臺灣。",
     "lookup": {
-     "english": "",
+     "english": "a land with its own people and government, like Japan",
      "chinese": "國家"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "Taiwan",
     "answer": "Taiwan",
     "pos": "n.",
-    "definition": "",
+    "definition": "an island country in East Asia; its biggest city is Taipei",
     "chinese": "臺灣",
     "sentence": "Q: Where are you from? — A: I'm from __________. I live in Taipei.",
     "translation": "你來自哪裡？ — 我來自臺灣，我住在臺北。",
     "lookup": {
-     "english": "",
+     "english": "an island country in East Asia; its biggest city is Taipei",
      "chinese": "臺灣"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "China",
     "answer": "China",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very big country in East Asia",
     "chinese": "中國",
     "sentence": "Q: Where does Mr. Li come from? — A: He comes from __________. He lives in Beijing now.",
     "translation": "李先生來自哪裡？ — 他來自中國，他現在住在北京。",
     "lookup": {
-     "english": "",
+     "english": "a very big country in East Asia",
      "chinese": "中國"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "America",
     "answer": "America",
     "pos": "n.",
-    "definition": "",
+    "definition": "a short name for the United States",
     "chinese": "美國",
     "sentence": "Q: Where is your English teacher from? — A: She's from __________. She's American.",
     "translation": "你的英文老師來自哪裡？ — 她來自美國，她是美國人。",
     "lookup": {
-     "english": "",
+     "english": "a short name for the United States",
      "chinese": "美國"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "world",
     "answer": "world",
     "pos": "n.",
-    "definition": "",
+    "definition": "the earth and all the countries and people on it",
     "chinese": "世界",
     "sentence": "Q: Where do your pen pals live? — A: They live in different countries around the __________.",
     "translation": "你的筆友們住在哪裡？ — 他們住在世界各地不同的國家。",
     "lookup": {
-     "english": "",
+     "english": "the earth and all the countries and people on it",
      "chinese": "世界"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "U.S.A. / USA",
     "answer": "U.S.A.",
     "pos": "n.",
-    "definition": "",
+    "definition": "the short name of the United States of America",
     "chinese": "美國（縮寫）",
     "sentence": "Q: Where does your cousin Ben live? — A: He lives in the __________ He lives in New York.",
     "translation": "你的堂哥班住在哪裡？ — 他住在美國，他住在紐約。",
     "lookup": {
-     "english": "",
+     "english": "the short name of the United States of America",
      "chinese": "美國（縮寫）"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "R.O.C. / ROC",
     "answer": "R.O.C.",
     "pos": "n.",
-    "definition": "",
+    "definition": "the short name of the Republic of China (Taiwan)",
     "chinese": "中華民國",
     "sentence": "Q: Does Lisa live in Japan? — A: No, she doesn't. She lives in Taiwan. Its other name is the __________",
     "translation": "莉莎住在日本嗎？ — 不，她不是。她住在臺灣，臺灣的另一個名字是中華民國。",
     "lookup": {
-     "english": "",
+     "english": "the short name of the Republic of China (Taiwan)",
      "chinese": "中華民國"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "Chinese",
     "answer": "Chinese",
     "pos": "n.",
-    "definition": "",
+    "definition": "the language people speak in Taiwan and China",
     "chinese": "中文",
     "sentence": "Q: What language do people in Taiwan speak? — A: They speak __________.",
     "translation": "臺灣的人說什麼語言？ — 他們說中文。",
     "lookup": {
-     "english": "",
+     "english": "the language people speak in Taiwan and China",
      "chinese": "中文"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "English",
     "answer": "English",
     "pos": "n.",
-    "definition": "",
+    "definition": "the language people speak in the U.S.A. and the U.K.",
     "chinese": "英語",
     "sentence": "Q: What language does your English teacher speak in class? — A: She speaks __________. She doesn't speak Chinese.",
     "translation": "你的英文老師上課說什麼語言？ — 她說英語，她不說中文。",
     "lookup": {
-     "english": "",
+     "english": "the language people speak in the U.S.A. and the U.K.",
      "chinese": "英語"
     }
    }
@@ -333,4 +333,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"chinese":["","中文；國文"],"english":["","英語"],"country":["","鄉村"],"taiwan":["","臺灣"],"china":["","中國"],"america":["","美國"],"world":["","世界"],"u.s.a.":["","美國（縮寫）"],"r.o.c.":["","中華民國"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"chinese":["the language people speak in Taiwan and China; a school subject","中文；國文"],"english":["the language people speak in the U.S.A. and the U.K.","英語"],"country":["land outside cities, with farms and fields","鄉村"],"taiwan":["an island country in East Asia; its biggest city is Taipei","臺灣"],"china":["a very big country in East Asia","中國"],"america":["a short name for the United States","美國"],"world":["the earth and all the countries and people on it","世界"],"u.s.a.":["the short name of the United States of America","美國（縮寫）"],"r.o.c.":["the short name of the Republic of China (Taiwan)","中華民國"]});

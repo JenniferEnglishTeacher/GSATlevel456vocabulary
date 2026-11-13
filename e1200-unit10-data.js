@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "hungry",
     "pos": "adj.",
     "cn_def": "飢餓的",
-    "en_def": "",
+    "en_def": "wanting to eat",
     "sentence": "Q: What would you like to eat? — A: I'm very {{BLANK}}. I'd like a big bowl of noodles.",
     "cn": "你想吃什麼？ — 我好餓，我想要一大碗麵。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "thirsty",
     "pos": "adj.",
     "cn_def": "口渴的",
-    "en_def": "",
+    "en_def": "wanting to drink",
     "sentence": "Q: What would you like to drink? — A: I'm {{BLANK}}. I'd like a glass of water.",
     "cn": "你想喝什麼？ — 我口渴了，我想要一杯水。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "full",
     "pos": "adj.",
     "cn_def": "飽的；滿的",
-    "en_def": "",
+    "en_def": "not able to eat more; having no more space inside",
     "sentence": "Q: Would you like some more cake? — A: No, thank you. I'm {{BLANK}}.",
     "cn": "你想再吃一些蛋糕嗎？ — 不用了，謝謝，我吃飽了。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "menu",
     "pos": "n.",
     "cn_def": "菜單",
-    "en_def": "",
+    "en_def": "a list of the food and drinks in a restaurant",
     "sentence": "Q: What would you like to eat, sir? — A: Can I see the {{BLANK}}, please?",
     "cn": "先生，您想吃什麼？ — 可以請你給我看一下菜單嗎？"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "order",
     "pos": "v.",
     "cn_def": "點餐",
-    "en_def": "",
+    "en_def": "to ask for food or drinks in a restaurant",
     "sentence": "Q: Are you ready? What would you like? — A: I'd like to {{BLANK}} a pizza, please.",
     "cn": "您準備好了嗎？您想要什麼？ — 我想要點一個披薩，謝謝。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "food",
     "pos": "n.",
     "cn_def": "食物",
-    "en_def": "",
+    "en_def": "things that people and animals eat",
     "sentence": "Q: What would you like to eat tonight? — A: I'd like some Japanese {{BLANK}}.",
     "cn": "你今晚想吃什麼？ — 我想吃一些日本料理（食物）。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "hamburger (burger)",
     "pos": "n.",
     "cn_def": "漢堡",
-    "en_def": "",
+    "en_def": "a round piece of cooked meat inside a bun",
     "sentence": "Q: What would you like for lunch? — A: I'd like a {{BLANK}}, please.",
     "cn": "你午餐想吃什麼？ — 我想要一個漢堡，謝謝。",
     "alts": [
@@ -69,7 +69,7 @@ const VOCAB = [
     "word": "fries (French fries)",
     "pos": "n.",
     "cn_def": "炸薯條",
-    "en_def": "",
+    "en_def": "long thin pieces of potato cooked in hot oil",
     "sentence": "Q: What would you like with your hamburger? — A: I'd like some French {{BLANK}}.",
     "cn": "你的漢堡想配什麼？ — 我想要一些薯條。"
   },
@@ -77,7 +77,7 @@ const VOCAB = [
     "word": "hot dog",
     "pos": "n.",
     "cn_def": "熱狗",
-    "en_def": "",
+    "en_def": "a long sausage inside a long bun",
     "sentence": "Q: What would Ben like to eat? — A: He'd like a {{BLANK}}.",
     "cn": "班想吃什麼？ — 他想要一個熱狗。",
     "nblanks": 2
@@ -86,7 +86,7 @@ const VOCAB = [
     "word": "pizza",
     "pos": "n.",
     "cn_def": "披薩",
-    "en_def": "",
+    "en_def": "a flat round bread with cheese, tomato, and meat on top",
     "sentence": "Q: What would you like for dinner? — A: I'd like a big {{BLANK}} with cheese.",
     "cn": "你晚餐想吃什麼？ — 我想要一個有起司的大披薩。"
   },
@@ -94,7 +94,7 @@ const VOCAB = [
     "word": "ice cream",
     "pos": "n.",
     "cn_def": "冰淇淋",
-    "en_def": "",
+    "en_def": "a sweet, cold food made from milk",
     "sentence": "Q: What would you like after dinner? — A: I'd like some chocolate {{BLANK}}.",
     "cn": "晚餐後你想吃什麼？ — 我想要一些巧克力冰淇淋。",
     "nblanks": 2
@@ -103,7 +103,7 @@ const VOCAB = [
     "word": "Coke",
     "pos": "n.",
     "cn_def": "可樂",
-    "en_def": "",
+    "en_def": "a sweet brown drink with bubbles",
     "sentence": "Q: What would you like to drink? — A: I'd like a {{BLANK}}, please.",
     "cn": "你想喝什麼？ — 我想要一杯可樂，謝謝。"
   },
@@ -111,7 +111,7 @@ const VOCAB = [
     "word": "ice",
     "pos": "n.",
     "cn_def": "冰",
-    "en_def": "",
+    "en_def": "water that is so cold it is hard",
     "sentence": "Q: Would you like some water? — A: Yes, please. I'd like it with {{BLANK}}.",
     "cn": "你想要一些水嗎？ — 好的，麻煩了。我想要加冰的。"
   },
@@ -119,7 +119,7 @@ const VOCAB = [
     "word": "juice",
     "pos": "n.",
     "cn_def": "果汁",
-    "en_def": "",
+    "en_def": "a drink made from fruit",
     "sentence": "Q: What would your sister like to drink? — A: She'd like a glass of apple {{BLANK}}.",
     "cn": "你妹妹想喝什麼？ — 她想要一杯蘋果汁。"
   },
@@ -127,7 +127,7 @@ const VOCAB = [
     "word": "tea",
     "pos": "n.",
     "cn_def": "茶",
-    "en_def": "",
+    "en_def": "a hot drink made with dried leaves and hot water",
     "sentence": "Q: What would Grandma like to drink? — A: She'd like a cup of green {{BLANK}}.",
     "cn": "奶奶想喝什麼？ — 她想要一杯綠茶。"
   },
@@ -135,7 +135,7 @@ const VOCAB = [
     "word": "coffee",
     "pos": "n.",
     "cn_def": "咖啡",
-    "en_def": "",
+    "en_def": "a hot brown drink that helps people wake up",
     "sentence": "Q: What would your dad like to drink? — A: He'd like a cup of hot {{BLANK}}.",
     "cn": "你爸爸想喝什麼？ — 他想要一杯熱咖啡。"
   },
@@ -143,7 +143,7 @@ const VOCAB = [
     "word": "fruit",
     "pos": "n.",
     "cn_def": "水果",
-    "en_def": "",
+    "en_def": "sweet food that grows on trees or plants, like apples and bananas",
     "sentence": "Q: Do you like apples and bananas? — A: Yes, I do. I like all kinds of {{BLANK}}.",
     "cn": "你喜歡蘋果和香蕉嗎？ — 是的，我喜歡。我喜歡各種水果。"
   },
@@ -151,7 +151,7 @@ const VOCAB = [
     "word": "apple",
     "pos": "n.",
     "cn_def": "蘋果",
-    "en_def": "",
+    "en_def": "a round fruit that is red, green, or yellow",
     "sentence": "Q: Does Tom like fruit? — A: Yes, he does. He eats an {{BLANK}} every day.",
     "cn": "湯姆喜歡水果嗎？ — 是的，他喜歡。他每天吃一顆蘋果。"
   },
@@ -159,7 +159,7 @@ const VOCAB = [
     "word": "orange",
     "pos": "n.",
     "cn_def": "柳橙",
-    "en_def": "",
+    "en_def": "a round, sweet fruit with a thick orange skin",
     "sentence": "Q: Do the kids like fruit juice? — A: Yes, they do. They like {{BLANK}} juice.",
     "cn": "孩子們喜歡果汁嗎？ — 是的，他們喜歡。他們喜歡柳橙汁。"
   },
@@ -167,7 +167,7 @@ const VOCAB = [
     "word": "banana (bananas)",
     "pos": "n.",
     "cn_def": "香蕉",
-    "en_def": "",
+    "en_def": "a long yellow fruit",
     "sentence": "Q: Do monkeys like fruit? — A: Yes, they do. They love yellow {{BLANK}}.",
     "cn": "猴子喜歡水果嗎？ — 是的，牠們喜歡。牠們很愛黃色的香蕉。"
   },
@@ -175,7 +175,7 @@ const VOCAB = [
     "word": "grape (grapes)",
     "pos": "n.",
     "cn_def": "葡萄",
-    "en_def": "",
+    "en_def": "a small round green or purple fruit that grows in bunches",
     "sentence": "Q: Does your sister like purple fruit? — A: Yes, she does. She likes {{BLANK}} very much.",
     "cn": "你妹妹喜歡紫色的水果嗎？ — 是的，她喜歡。她非常喜歡葡萄。"
   },
@@ -183,7 +183,7 @@ const VOCAB = [
     "word": "guava (guavas)",
     "pos": "n.",
     "cn_def": "芭樂",
-    "en_def": "",
+    "en_def": "a green fruit with many small seeds inside",
     "sentence": "Q: Does Grandpa like Taiwanese fruit? — A: Yes, he does. He likes green {{BLANK}}.",
     "cn": "爺爺喜歡台灣的水果嗎？ — 是的，他喜歡。他喜歡綠色的芭樂。"
   },
@@ -191,7 +191,7 @@ const VOCAB = [
     "word": "papaya",
     "pos": "n.",
     "cn_def": "木瓜",
-    "en_def": "",
+    "en_def": "a long fruit that is orange inside, with small black seeds",
     "sentence": "Q: Do your parents like fruit milk? — A: Yes, they do. They like {{BLANK}} milk.",
     "cn": "你爸媽喜歡水果牛奶嗎？ — 是的，他們喜歡。他們喜歡木瓜牛奶。"
   },
@@ -199,7 +199,7 @@ const VOCAB = [
     "word": "peach (peaches)",
     "pos": "n.",
     "cn_def": "桃子",
-    "en_def": "",
+    "en_def": "a soft, sweet, pink and yellow fruit with one big seed",
     "sentence": "Q: Does Amy like soft and sweet fruit? — A: Yes, she does. She likes pink {{BLANK}}.",
     "cn": "艾美喜歡軟軟甜甜的水果嗎？ — 是的，她喜歡。她喜歡粉紅色的桃子。"
   },
@@ -207,7 +207,7 @@ const VOCAB = [
     "word": "pear (pears)",
     "pos": "n.",
     "cn_def": "梨子",
-    "en_def": "",
+    "en_def": "a sweet fruit that is round at the bottom and thin at the top",
     "sentence": "Q: Does your mom like apples? — A: No, she doesn't. She likes {{BLANK}}.",
     "cn": "你媽媽喜歡蘋果嗎？ — 不，她不喜歡。她喜歡梨子。"
   },
@@ -215,7 +215,7 @@ const VOCAB = [
     "word": "lemon",
     "pos": "n.",
     "cn_def": "檸檬",
-    "en_def": "",
+    "en_def": "a yellow fruit that tastes sour",
     "sentence": "Q: Does your dad like sweet tea? — A: No, he doesn't. He likes {{BLANK}} tea.",
     "cn": "你爸爸喜歡甜的茶嗎？ — 不，他不喜歡。他喜歡檸檬茶。"
   },
@@ -223,7 +223,7 @@ const VOCAB = [
     "word": "strawberry (strawberries)",
     "pos": "n.",
     "cn_def": "草莓",
-    "en_def": "",
+    "en_def": "a small, soft red fruit with tiny seeds on it",
     "sentence": "Q: Do you like red fruit? — A: Yes, I do. I like {{BLANK}}.",
     "cn": "你喜歡紅色的水果嗎？ — 是的，我喜歡。我喜歡草莓。"
   },
@@ -231,7 +231,7 @@ const VOCAB = [
     "word": "watermelon",
     "pos": "n.",
     "cn_def": "西瓜",
-    "en_def": "",
+    "en_def": "a big fruit that is green outside and red inside",
     "sentence": "Q: Does your brother like summer fruit? — A: Yes, he does. He likes {{BLANK}}. It's big and sweet.",
     "cn": "你哥哥喜歡夏天的水果嗎？ — 是的，他喜歡。他喜歡西瓜，它又大又甜。"
   },
@@ -239,7 +239,7 @@ const VOCAB = [
     "word": "tomato (tomatoes)",
     "pos": "n.",
     "cn_def": "番茄",
-    "en_def": "",
+    "en_def": "a soft, round red fruit that people eat in salads",
     "sentence": "Q: Do you like red vegetables? — A: Yes, I do. I like {{BLANK}}.",
     "cn": "你喜歡紅色的蔬菜嗎？ — 是的，我喜歡。我喜歡番茄。"
   },
@@ -247,7 +247,7 @@ const VOCAB = [
     "word": "vegetable (vegetables)",
     "pos": "n.",
     "cn_def": "蔬菜",
-    "en_def": "",
+    "en_def": "a plant that people eat, like carrots and cabbage",
     "sentence": "Q: Does your little brother like green food? — A: No, he doesn't. He doesn't like {{BLANK}}.",
     "cn": "你弟弟喜歡綠色的食物嗎？ — 不，他不喜歡。他不喜歡蔬菜。"
   },
@@ -255,7 +255,7 @@ const VOCAB = [
     "word": "lettuce",
     "pos": "n.",
     "cn_def": "萵苣；生菜",
-    "en_def": "",
+    "en_def": "a vegetable with big green leaves, used in salads",
     "sentence": "Q: Do rabbits like vegetables? — A: Yes, they do. They like {{BLANK}}.",
     "cn": "兔子喜歡蔬菜嗎？ — 是的，牠們喜歡。牠們喜歡生菜。"
   },
@@ -263,7 +263,7 @@ const VOCAB = [
     "word": "bean",
     "pos": "n.",
     "cn_def": "豆子",
-    "en_def": "",
+    "en_def": "a small seed that people eat as a vegetable",
     "sentence": "Q: Does your grandma like sweet soup? — A: Yes, she does. She likes red {{BLANK}} soup.",
     "cn": "你奶奶喜歡甜湯嗎？ — 是的，她喜歡。她喜歡紅豆湯。"
   },
@@ -271,7 +271,7 @@ const VOCAB = [
     "word": "pumpkin",
     "pos": "n.",
     "cn_def": "南瓜",
-    "en_def": "",
+    "en_def": "a big round orange vegetable",
     "sentence": "Q: Do you like Halloween food? — A: Yes, I do. I like {{BLANK}} pie.",
     "cn": "你喜歡萬聖節的食物嗎？ — 是的，我喜歡。我喜歡南瓜派。"
   },
@@ -279,7 +279,7 @@ const VOCAB = [
     "word": "meat",
     "pos": "n.",
     "cn_def": "肉",
-    "en_def": "",
+    "en_def": "food that comes from animals",
     "sentence": "Q: Does your sister like beef and pork? — A: No, she doesn't. She doesn't like {{BLANK}}.",
     "cn": "你姊姊喜歡牛肉和豬肉嗎？ — 不，她不喜歡。她不喜歡肉。"
   },
@@ -287,7 +287,7 @@ const VOCAB = [
     "word": "beef",
     "pos": "n.",
     "cn_def": "牛肉",
-    "en_def": "",
+    "en_def": "meat from a cow",
     "sentence": "Q: Do you like noodles? — A: Yes, I do. I like {{BLANK}} noodles.",
     "cn": "你喜歡麵嗎？ — 是的，我喜歡。我喜歡牛肉麵。"
   },
@@ -295,7 +295,7 @@ const VOCAB = [
     "word": "pork",
     "pos": "n.",
     "cn_def": "豬肉",
-    "en_def": "",
+    "en_def": "meat from a pig",
     "sentence": "Q: Does Grandpa like meat? — A: Yes, he does. He likes {{BLANK}} with rice.",
     "cn": "爺爺喜歡肉嗎？ — 是的，他喜歡。他喜歡豬肉配飯。"
   },
@@ -303,7 +303,7 @@ const VOCAB = [
     "word": "chicken",
     "pos": "n.",
     "cn_def": "雞肉",
-    "en_def": "",
+    "en_def": "meat from a bird that lives on farms",
     "sentence": "Q: Do your kids like fried food? — A: Yes, they do. They like fried {{BLANK}}.",
     "cn": "你的孩子們喜歡炸的食物嗎？ — 是的，他們喜歡。他們喜歡炸雞。"
   },
@@ -311,7 +311,7 @@ const VOCAB = [
     "word": "fish",
     "pos": "n.",
     "cn_def": "魚；魚肉",
-    "en_def": "",
+    "en_def": "an animal that lives in water; its meat",
     "sentence": "Q: Does your cat like meat? — A: Yes, it does. But it likes {{BLANK}} best.",
     "cn": "你的貓喜歡肉嗎？ — 是的，牠喜歡。但牠最喜歡魚。"
   },
@@ -319,7 +319,7 @@ const VOCAB = [
     "word": "ham",
     "pos": "n.",
     "cn_def": "火腿",
-    "en_def": "",
+    "en_def": "salty meat from a pig's leg",
     "sentence": "Q: Do you like pizza? — A: Yes, I do. I like {{BLANK}} and cheese pizza.",
     "cn": "你喜歡披薩嗎？ — 是的，我喜歡。我喜歡火腿起司披薩。"
   },
@@ -327,7 +327,7 @@ const VOCAB = [
     "word": "cheese",
     "pos": "n.",
     "cn_def": "起司；乳酪",
-    "en_def": "",
+    "en_def": "a yellow or white food made from milk",
     "sentence": "Q: Does the little mouse like milk? — A: No, it doesn't. It likes {{BLANK}}.",
     "cn": "那隻小老鼠喜歡牛奶嗎？ — 不，牠不喜歡。牠喜歡起司。"
   },
@@ -335,7 +335,7 @@ const VOCAB = [
     "word": "chocolate",
     "pos": "n.",
     "cn_def": "巧克力",
-    "en_def": "",
+    "en_def": "a sweet brown food or candy",
     "sentence": "Q: Do your sisters like sweet food? — A: Yes, they do. They like {{BLANK}} very much.",
     "cn": "你的姊妹們喜歡甜食嗎？ — 是的，她們喜歡。她們非常喜歡巧克力。"
   },
@@ -343,7 +343,7 @@ const VOCAB = [
     "word": "candy",
     "pos": "n.",
     "cn_def": "糖果",
-    "en_def": "",
+    "en_def": "a small sweet food made with sugar",
     "sentence": "Q: Does Ben like sweet food? — A: Yes, he does. He likes {{BLANK}}, but it's bad for his teeth.",
     "cn": "班喜歡甜食嗎？ — 是的，他喜歡。他喜歡糖果，但糖果對他的牙齒不好。"
   },
@@ -351,7 +351,7 @@ const VOCAB = [
     "word": "popcorn",
     "pos": "n.",
     "cn_def": "爆米花",
-    "en_def": "",
+    "en_def": "a snack made from corn that people eat at the movies",
     "sentence": "Q: Do you like movies? — A: Yes, I do. I like eating {{BLANK}} at the movies.",
     "cn": "你喜歡電影嗎？ — 是的，我喜歡。我喜歡在看電影時吃爆米花。"
   },
@@ -359,7 +359,7 @@ const VOCAB = [
     "word": "cake",
     "pos": "n.",
     "cn_def": "蛋糕",
-    "en_def": "",
+    "en_def": "a sweet food that you bake, often for birthdays",
     "sentence": "Q: Does your mom like chocolate? — A: Yes, she does. She likes chocolate {{BLANK}}.",
     "cn": "你媽媽喜歡巧克力嗎？ — 是的，她喜歡。她喜歡巧克力蛋糕。"
   },
@@ -367,7 +367,7 @@ const VOCAB = [
     "word": "pie",
     "pos": "n.",
     "cn_def": "派",
-    "en_def": "",
+    "en_def": "a baked food with fruit or meat inside",
     "sentence": "Q: Do you like apples? — A: Yes, I do. I like apple {{BLANK}} best.",
     "cn": "你喜歡蘋果嗎？ — 是的，我喜歡。我最喜歡蘋果派。"
   },
@@ -375,7 +375,7 @@ const VOCAB = [
     "word": "bake",
     "pos": "v.",
     "cn_def": "烘烤",
-    "en_def": "",
+    "en_def": "to cook food like bread or cake in an oven",
     "sentence": "Q: Do your grandparents like to make bread? — A: Yes, they do. They like to {{BLANK}} bread and cakes.",
     "cn": "你的爺爺奶奶喜歡做麵包嗎？ — 是的，他們喜歡。他們喜歡烤麵包和蛋糕。"
   },
@@ -383,7 +383,7 @@ const VOCAB = [
     "word": "cook",
     "pos": "v.",
     "cn_def": "煮飯；烹調",
-    "en_def": "",
+    "en_def": "to make food ready to eat by heating it",
     "sentence": "Q: Does your dad like to work in the kitchen? — A: Yes, he does. He likes to {{BLANK}} dinner for us.",
     "cn": "你爸爸喜歡在廚房工作嗎？ — 是的，他喜歡。他喜歡煮晚餐給我們吃。"
   },
@@ -391,7 +391,7 @@ const VOCAB = [
     "word": "egg (eggs)",
     "pos": "n.",
     "cn_def": "蛋",
-    "en_def": "",
+    "en_def": "a round or oval food that comes from a hen",
     "sentence": "Q: How many {{BLANK}} does Mom need for the cake? — A: She needs three. She doesn't need any milk.",
     "cn": "媽媽做蛋糕需要幾顆蛋？ — 她需要三顆，她不需要任何牛奶。"
   },
@@ -399,7 +399,7 @@ const VOCAB = [
     "word": "bun (buns)",
     "pos": "n.",
     "cn_def": "小圓麵包；包子",
-    "en_def": "",
+    "en_def": "a small round bread",
     "sentence": "Q: How many {{BLANK}} do you want? — A: I want two. I'm very hungry.",
     "cn": "你想要幾個小圓麵包？ — 我想要兩個，我很餓。"
   },
@@ -407,7 +407,7 @@ const VOCAB = [
     "word": "dumpling (dumplings)",
     "pos": "n.",
     "cn_def": "水餃；湯圓",
-    "en_def": "",
+    "en_def": "a small piece of dough with meat or vegetables inside",
     "sentence": "Q: How many {{BLANK}} does Dad want? — A: He wants twenty! He has them for dinner.",
     "cn": "爸爸想要幾顆水餃？ — 他想要二十顆！他晚餐要吃。"
   },
@@ -415,7 +415,7 @@ const VOCAB = [
     "word": "cookie (cookies)",
     "pos": "n.",
     "cn_def": "餅乾",
-    "en_def": "",
+    "en_def": "a small, flat, sweet baked snack",
     "sentence": "Q: How many {{BLANK}} do the kids have? — A: They have ten. They want to share them.",
     "cn": "孩子們有幾片餅乾？ — 他們有十片，他們想要分享。"
   },
@@ -423,7 +423,7 @@ const VOCAB = [
     "word": "bread",
     "pos": "n.",
     "cn_def": "麵包",
-    "en_def": "",
+    "en_def": "a food made from flour and baked in an oven",
     "sentence": "Q: How much {{BLANK}} do we have? — A: We don't have any. Let's buy some.",
     "cn": "我們有多少麵包？ — 我們一點都沒有了，我們去買一些吧。"
   },
@@ -431,7 +431,7 @@ const VOCAB = [
     "word": "rice",
     "pos": "n.",
     "cn_def": "米飯",
-    "en_def": "",
+    "en_def": "small white grains that people cook and eat",
     "sentence": "Q: How much {{BLANK}} does your brother eat? — A: He eats three bowls every day.",
     "cn": "你哥哥吃多少飯？ — 他每天吃三碗。"
   },
@@ -439,7 +439,7 @@ const VOCAB = [
     "word": "salt",
     "pos": "n.",
     "cn_def": "鹽",
-    "en_def": "",
+    "en_def": "a white powder that makes food taste salty",
     "sentence": "Q: How much {{BLANK}} does the soup need? — A: It needs a little.",
     "cn": "這湯需要多少鹽？ — 它需要一點點。"
   },
@@ -447,7 +447,7 @@ const VOCAB = [
     "word": "sugar",
     "pos": "n.",
     "cn_def": "糖",
-    "en_def": "",
+    "en_def": "something white or brown that makes food sweet",
     "sentence": "Q: How much {{BLANK}} do you want in your coffee? — A: I don't want any, thanks.",
     "cn": "你的咖啡裡要加多少糖？ — 我一點都不要，謝謝。"
   },
@@ -455,7 +455,7 @@ const VOCAB = [
     "word": "oil",
     "pos": "n.",
     "cn_def": "油",
-    "en_def": "",
+    "en_def": "a thick liquid used for cooking",
     "sentence": "Q: How much {{BLANK}} does Mom need? — A: She needs a little. She is cooking eggs.",
     "cn": "媽媽需要多少油？ — 她需要一點點，她正在煎蛋。"
   },
@@ -463,7 +463,7 @@ const VOCAB = [
     "word": "butter",
     "pos": "n.",
     "cn_def": "奶油",
-    "en_def": "",
+    "en_def": "a soft yellow food made from milk that you put on bread",
     "sentence": "Q: Do we have any {{BLANK}}? — A: Yes, we have some. It's in the fridge.",
     "cn": "我們有奶油嗎？ — 有，我們有一些，在冰箱裡。"
   },
@@ -471,7 +471,7 @@ const VOCAB = [
     "word": "milk",
     "pos": "n.",
     "cn_def": "牛奶",
-    "en_def": "",
+    "en_def": "a white drink that comes from cows",
     "sentence": "Q: How much {{BLANK}} does the baby drink? — A: She drinks three bottles a day.",
     "cn": "這個寶寶喝多少牛奶？ — 她一天喝三瓶。"
   },
@@ -479,7 +479,7 @@ const VOCAB = [
     "word": "water",
     "pos": "n.",
     "cn_def": "水",
-    "en_def": "",
+    "en_def": "the clear liquid that we drink; it falls as rain",
     "sentence": "Q: How many glasses of {{BLANK}} do you drink every day? — A: I drink eight glasses.",
     "cn": "你每天喝幾杯水？ — 我喝八杯。"
   },
@@ -487,7 +487,7 @@ const VOCAB = [
     "word": "soup",
     "pos": "n.",
     "cn_def": "湯",
-    "en_def": "",
+    "en_def": "a hot liquid food that you eat with a spoon",
     "sentence": "Q: How does the {{BLANK}} taste? — A: It's good, but it needs more salt.",
     "cn": "這湯嚐起來怎麼樣？ — 很好，但它需要多一點鹽。"
   },
@@ -495,7 +495,7 @@ const VOCAB = [
     "word": "steak",
     "pos": "n.",
     "cn_def": "牛排",
-    "en_def": "",
+    "en_def": "a thick piece of meat, usually beef",
     "sentence": "Q: How does your {{BLANK}} taste? — A: It's great. I like beef.",
     "cn": "你的牛排嚐起來怎麼樣？ — 很棒，我喜歡牛肉。"
   },
@@ -503,7 +503,7 @@ const VOCAB = [
     "word": "salad",
     "pos": "n.",
     "cn_def": "沙拉",
-    "en_def": "",
+    "en_def": "a cold dish of vegetables like lettuce and tomatoes",
     "sentence": "Q: How does the {{BLANK}} taste? — A: It's fresh. It has lettuce and tomatoes.",
     "cn": "這沙拉嚐起來怎麼樣？ — 很新鮮，裡面有生菜和番茄。"
   },
@@ -511,7 +511,7 @@ const VOCAB = [
     "word": "delicious",
     "pos": "adj.",
     "cn_def": "美味的",
-    "en_def": "",
+    "en_def": "tasting very good",
     "sentence": "Q: How does Mom's beef soup taste? — A: It tastes {{BLANK}}.",
     "cn": "媽媽的牛肉湯嚐起來怎麼樣？ — 它嚐起來很美味。"
   },
@@ -519,7 +519,7 @@ const VOCAB = [
     "word": "yummy",
     "pos": "adj.",
     "cn_def": "好吃的",
-    "en_def": "",
+    "en_def": "tasting very good",
     "sentence": "Q: How do the cookies taste? — A: They're {{BLANK}}! I want more.",
     "cn": "這些餅乾嚐起來怎麼樣？ — 它們好好吃！我還想要。"
   },
@@ -527,7 +527,7 @@ const VOCAB = [
     "word": "sweet",
     "pos": "adj.",
     "cn_def": "甜的",
-    "en_def": "",
+    "en_def": "tasting like sugar",
     "sentence": "Q: How does the watermelon taste? — A: It tastes very {{BLANK}}.",
     "cn": "這西瓜嚐起來怎麼樣？ — 它嚐起來很甜。"
   },
@@ -535,7 +535,7 @@ const VOCAB = [
     "word": "hot",
     "pos": "adj.",
     "cn_def": "熱的；燙的；辣的",
-    "en_def": "",
+    "en_def": "having a high temperature; not cold; also spicy",
     "sentence": "Q: How do the noodles taste? — A: They're too {{BLANK}}. Wait a minute.",
     "cn": "這些麵嚐起來怎麼樣？ — 它們太燙了，等一下吧。"
   },
@@ -543,7 +543,7 @@ const VOCAB = [
     "word": "burn (burns)",
     "pos": "v.",
     "cn_def": "燒焦；燃燒",
-    "en_def": "",
+    "en_def": "to be on fire; to hurt or spoil something with fire or heat",
     "sentence": "Q: How does the toast taste? — A: It tastes bad. Dad often {{BLANK}} it.",
     "cn": "這土司嚐起來怎麼樣？ — 嚐起來很糟，爸爸常常把它烤焦。"
   },
@@ -551,7 +551,7 @@ const VOCAB = [
     "word": "breakfast",
     "pos": "n.",
     "cn_def": "早餐",
-    "en_def": "",
+    "en_def": "the first meal of the day, eaten in the morning",
     "sentence": "Q: What do you have for {{BLANK}}? — A: I have toast and milk every morning.",
     "cn": "你早餐吃什麼？ — 我每天早上吃土司和喝牛奶。"
   },
@@ -559,7 +559,7 @@ const VOCAB = [
     "word": "toast",
     "pos": "n.",
     "cn_def": "土司",
-    "en_def": "",
+    "en_def": "a piece of bread heated until it is brown",
     "sentence": "Q: What does Dad have for breakfast? — A: He has {{BLANK}} and coffee for breakfast.",
     "cn": "爸爸早餐吃什麼？ — 他早餐吃土司、喝咖啡。"
   },
@@ -567,7 +567,7 @@ const VOCAB = [
     "word": "drink",
     "pos": "v.",
     "cn_def": "喝",
-    "en_def": "",
+    "en_def": "to take water, milk, or juice into your mouth and body",
     "sentence": "Q: What do your kids have for breakfast? — A: They have bread, and they {{BLANK}} a glass of milk.",
     "cn": "你的孩子們早餐吃什麼？ — 他們吃麵包，而且喝一杯牛奶。"
   },
@@ -575,7 +575,7 @@ const VOCAB = [
     "word": "boil (boils)",
     "pos": "v.",
     "cn_def": "煮沸；水煮",
-    "en_def": "",
+    "en_def": "to heat water until it is very hot; to cook food in very hot water",
     "sentence": "Q: What does Grandma have for breakfast? — A: She has two eggs. She {{BLANK}} them in water.",
     "cn": "奶奶早餐吃什麼？ — 她吃兩顆蛋，她用水把蛋煮熟。"
   },
@@ -583,7 +583,7 @@ const VOCAB = [
     "word": "lunch",
     "pos": "n.",
     "cn_def": "午餐",
-    "en_def": "",
+    "en_def": "the meal you eat in the middle of the day",
     "sentence": "Q: What does Amy have for {{BLANK}}? — A: She has rice and fish at noon.",
     "cn": "艾美午餐吃什麼？ — 她中午吃飯和魚。"
   },
@@ -591,7 +591,7 @@ const VOCAB = [
     "word": "sandwich",
     "pos": "n.",
     "cn_def": "三明治",
-    "en_def": "",
+    "en_def": "two pieces of bread with meat, egg, or cheese between them",
     "sentence": "Q: What do you have for lunch? — A: I have a ham {{BLANK}} for lunch.",
     "cn": "你午餐吃什麼？ — 我午餐吃火腿三明治。"
   },
@@ -599,7 +599,7 @@ const VOCAB = [
     "word": "noodles",
     "pos": "n.",
     "cn_def": "麵條",
-    "en_def": "",
+    "en_def": "long thin pieces of food made from flour",
     "sentence": "Q: What does your dad have for lunch? — A: He has beef {{BLANK}} for lunch.",
     "cn": "你爸爸午餐吃什麼？ — 他午餐吃牛肉麵。"
   },
@@ -607,7 +607,7 @@ const VOCAB = [
     "word": "eat (eats)",
     "pos": "v.",
     "cn_def": "吃",
-    "en_def": "",
+    "en_def": "to put food in your mouth and swallow it",
     "sentence": "Q: What does your brother have for dinner? — A: He {{BLANK}} rice and pork for dinner.",
     "cn": "你哥哥晚餐吃什麼？ — 他晚餐吃飯和豬肉。"
   },
@@ -615,7 +615,7 @@ const VOCAB = [
     "word": "dinner",
     "pos": "n.",
     "cn_def": "晚餐",
-    "en_def": "",
+    "en_def": "the main meal of the day, usually eaten in the evening",
     "sentence": "Q: What do your parents have for {{BLANK}}? — A: They have soup and steak in the evening.",
     "cn": "你爸媽晚餐吃什麼？ — 他們晚上吃湯和牛排。"
   },
@@ -623,7 +623,7 @@ const VOCAB = [
     "word": "meal",
     "pos": "n.",
     "cn_def": "一餐",
-    "en_def": "",
+    "en_def": "the food you eat at one time, like breakfast or dinner",
     "sentence": "Q: What does your family have for dinner on Sundays? — A: We have a big {{BLANK}} together.",
     "cn": "你們家星期天晚餐吃什麼？ — 我們一起吃一頓大餐。"
   },
@@ -631,7 +631,7 @@ const VOCAB = [
     "word": "barbecue",
     "pos": "n.",
     "cn_def": "烤肉",
-    "en_def": "",
+    "en_def": "a meal or party where food is cooked outside over a fire",
     "sentence": "Q: What do you have for dinner on Moon Festival? — A: We have a {{BLANK}} with our neighbors.",
     "cn": "中秋節你們晚餐吃什麼？ — 我們和鄰居一起烤肉。"
   },
@@ -639,7 +639,7 @@ const VOCAB = [
     "word": "snack",
     "pos": "n.",
     "cn_def": "點心",
-    "en_def": "",
+    "en_def": "a small amount of food you eat between meals",
     "sentence": "Q: What do you have after school? — A: I have a {{BLANK}}: some fruit and milk.",
     "cn": "你放學後吃什麼？ — 我吃點心：一些水果和牛奶。"
   }
@@ -1599,397 +1599,397 @@ const MCQS = [
 const LOOKUP = {
   "hungry": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "wanting to eat",
     "cn_def": "飢餓的"
   },
   "thirsty": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "wanting to drink",
     "cn_def": "口渴的"
   },
   "full": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not able to eat more; having no more space inside",
     "cn_def": "飽的；滿的"
   },
   "menu": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a list of the food and drinks in a restaurant",
     "cn_def": "菜單"
   },
   "order": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to ask for food or drinks in a restaurant",
     "cn_def": "點餐"
   },
   "food": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "things that people and animals eat",
     "cn_def": "食物"
   },
   "hamburger": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a round piece of cooked meat inside a bun",
     "cn_def": "漢堡"
   },
   "fries": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "long thin pieces of potato cooked in hot oil",
     "cn_def": "炸薯條"
   },
   "hot dog": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a long sausage inside a long bun",
     "cn_def": "熱狗"
   },
   "pizza": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a flat round bread with cheese, tomato, and meat on top",
     "cn_def": "披薩"
   },
   "ice cream": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a sweet, cold food made from milk",
     "cn_def": "冰淇淋"
   },
   "coke": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a sweet brown drink with bubbles",
     "cn_def": "可樂"
   },
   "ice": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "water that is so cold it is hard",
     "cn_def": "冰"
   },
   "juice": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a drink made from fruit",
     "cn_def": "果汁"
   },
   "tea": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a hot drink made with dried leaves and hot water",
     "cn_def": "茶"
   },
   "coffee": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a hot brown drink that helps people wake up",
     "cn_def": "咖啡"
   },
   "fruit": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "sweet food that grows on trees or plants, like apples and bananas",
     "cn_def": "水果"
   },
   "apple": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a round fruit that is red, green, or yellow",
     "cn_def": "蘋果"
   },
   "orange": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a round, sweet fruit with a thick orange skin",
     "cn_def": "柳橙"
   },
   "bananas": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a long yellow fruit",
     "cn_def": "香蕉"
   },
   "grapes": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small round green or purple fruit that grows in bunches",
     "cn_def": "葡萄"
   },
   "guavas": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a green fruit with many small seeds inside",
     "cn_def": "芭樂"
   },
   "papaya": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a long fruit that is orange inside, with small black seeds",
     "cn_def": "木瓜"
   },
   "peaches": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a soft, sweet, pink and yellow fruit with one big seed",
     "cn_def": "桃子"
   },
   "pears": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a sweet fruit that is round at the bottom and thin at the top",
     "cn_def": "梨子"
   },
   "lemon": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a yellow fruit that tastes sour",
     "cn_def": "檸檬"
   },
   "strawberries": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small, soft red fruit with tiny seeds on it",
     "cn_def": "草莓"
   },
   "watermelon": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big fruit that is green outside and red inside",
     "cn_def": "西瓜"
   },
   "tomatoes": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a soft, round red fruit that people eat in salads",
     "cn_def": "番茄"
   },
   "vegetables": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a plant that people eat, like carrots and cabbage",
     "cn_def": "蔬菜"
   },
   "lettuce": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a vegetable with big green leaves, used in salads",
     "cn_def": "萵苣；生菜"
   },
   "bean": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small seed that people eat as a vegetable",
     "cn_def": "豆子"
   },
   "pumpkin": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big round orange vegetable",
     "cn_def": "南瓜"
   },
   "meat": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "food that comes from animals",
     "cn_def": "肉"
   },
   "beef": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "meat from a cow",
     "cn_def": "牛肉"
   },
   "pork": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "meat from a pig",
     "cn_def": "豬肉"
   },
   "chicken": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "meat from a bird that lives on farms",
     "cn_def": "雞肉"
   },
   "fish": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an animal that lives in water; its meat",
     "cn_def": "魚；魚肉"
   },
   "ham": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "salty meat from a pig's leg",
     "cn_def": "火腿"
   },
   "cheese": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a yellow or white food made from milk",
     "cn_def": "起司；乳酪"
   },
   "chocolate": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a sweet brown food or candy",
     "cn_def": "巧克力"
   },
   "candy": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small sweet food made with sugar",
     "cn_def": "糖果"
   },
   "popcorn": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a snack made from corn that people eat at the movies",
     "cn_def": "爆米花"
   },
   "cake": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a sweet food that you bake, often for birthdays",
     "cn_def": "蛋糕"
   },
   "pie": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a baked food with fruit or meat inside",
     "cn_def": "派"
   },
   "bake": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to cook food like bread or cake in an oven",
     "cn_def": "烘烤"
   },
   "cook": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make food ready to eat by heating it",
     "cn_def": "煮飯；烹調"
   },
   "eggs": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a round or oval food that comes from a hen",
     "cn_def": "蛋"
   },
   "buns": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small round bread",
     "cn_def": "小圓麵包；包子"
   },
   "dumplings": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small piece of dough with meat or vegetables inside",
     "cn_def": "水餃；湯圓"
   },
   "cookies": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small, flat, sweet baked snack",
     "cn_def": "餅乾"
   },
   "bread": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a food made from flour and baked in an oven",
     "cn_def": "麵包"
   },
   "rice": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "small white grains that people cook and eat",
     "cn_def": "米飯"
   },
   "salt": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a white powder that makes food taste salty",
     "cn_def": "鹽"
   },
   "sugar": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something white or brown that makes food sweet",
     "cn_def": "糖"
   },
   "oil": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thick liquid used for cooking",
     "cn_def": "油"
   },
   "butter": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a soft yellow food made from milk that you put on bread",
     "cn_def": "奶油"
   },
   "milk": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a white drink that comes from cows",
     "cn_def": "牛奶"
   },
   "water": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the clear liquid that we drink; it falls as rain",
     "cn_def": "水"
   },
   "soup": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a hot liquid food that you eat with a spoon",
     "cn_def": "湯"
   },
   "steak": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thick piece of meat, usually beef",
     "cn_def": "牛排"
   },
   "salad": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a cold dish of vegetables like lettuce and tomatoes",
     "cn_def": "沙拉"
   },
   "delicious": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "tasting very good",
     "cn_def": "美味的"
   },
   "yummy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "tasting very good",
     "cn_def": "好吃的"
   },
   "sweet": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "tasting like sugar",
     "cn_def": "甜的"
   },
   "hot": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having a high temperature; not cold; also spicy",
     "cn_def": "熱的；燙的；辣的"
   },
   "burns": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to be on fire; to hurt or spoil something with fire or heat",
     "cn_def": "燒焦；燃燒"
   },
   "breakfast": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the first meal of the day, eaten in the morning",
     "cn_def": "早餐"
   },
   "toast": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a piece of bread heated until it is brown",
     "cn_def": "土司"
   },
   "drink": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to take water, milk, or juice into your mouth and body",
     "cn_def": "喝"
   },
   "boils": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to heat water until it is very hot; to cook food in very hot water",
     "cn_def": "煮沸；水煮"
   },
   "lunch": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the meal you eat in the middle of the day",
     "cn_def": "午餐"
   },
   "sandwich": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "two pieces of bread with meat, egg, or cheese between them",
     "cn_def": "三明治"
   },
   "noodles": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "long thin pieces of food made from flour",
     "cn_def": "麵條"
   },
   "eats": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to put food in your mouth and swallow it",
     "cn_def": "吃"
   },
   "dinner": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the main meal of the day, usually eaten in the evening",
     "cn_def": "晚餐"
   },
   "meal": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the food you eat at one time, like breakfast or dinner",
     "cn_def": "一餐"
   },
   "barbecue": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a meal or party where food is cooked outside over a fire",
     "cn_def": "烤肉"
   },
   "snack": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small amount of food you eat between meals",
     "cn_def": "點心"
   }
 };

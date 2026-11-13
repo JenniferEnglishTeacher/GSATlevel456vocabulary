@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "clever",
     "pos": "adj.",
     "cn_def": "聰明的，靈巧的",
-    "en_def": "",
+    "en_def": "smart; quick to learn and understand",
     "sentence": "She is very {{BLANK}} at solving puzzles.",
     "cn": "她在解謎方面很聰明。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "climate",
     "pos": "n.",
     "cn_def": "氣候，風氣",
-    "en_def": "",
+    "en_def": "the usual weather of a place",
     "sentence": "The {{BLANK}} here is warm and humid.",
     "cn": "這裡的氣候溫暖潮濕。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "closet",
     "pos": "n.",
     "cn_def": "壁櫥",
-    "en_def": "",
+    "en_def": "a small room or tall box for keeping clothes",
     "sentence": "She hung her clothes neatly in the {{BLANK}}.",
     "cn": "她把衣服整齊地掛在壁櫥裡。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "coach",
     "pos": "n.",
     "cn_def": "教練，客車",
-    "en_def": "",
+    "en_def": "a person who teaches and trains a sports team",
     "sentence": "The basketball team has a new {{BLANK}}.",
     "cn": "籃球隊有了一個新教練。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "coast",
     "pos": "n.",
     "cn_def": "海岸",
-    "en_def": "",
+    "en_def": "the land next to the sea",
     "sentence": "They walked along the {{BLANK}}.",
     "cn": "他們沿著海岸散步。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "cockroach",
     "pos": "n.",
     "cn_def": "蟑螂",
-    "en_def": "",
+    "en_def": "a brown insect that lives in dirty or warm places in houses",
     "sentence": "There is a {{BLANK}} in the kitchen.",
     "cn": "廚房裡有一隻蟑螂。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "cocoa",
     "pos": "n.",
     "cn_def": "可可，巧克力飲料",
-    "en_def": "",
+    "en_def": "a hot drink made from chocolate powder",
     "sentence": "She made a cup of hot {{BLANK}} for breakfast.",
     "cn": "她為早餐做了一杯熱可可。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "coin",
     "pos": "n.",
     "cn_def": "硬幣",
-    "en_def": "",
+    "en_def": "a piece of money made of metal",
     "sentence": "He dropped a {{BLANK}} into the vending machine.",
     "cn": "他在自動販賣機裡投了一枚硬幣。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "cola",
     "pos": "n.",
     "cn_def": "可樂",
-    "en_def": "",
+    "en_def": "a sweet brown drink with bubbles",
     "sentence": "She ordered a {{BLANK}} with her meal.",
     "cn": "她點了一瓶可樂和她的餐。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "college",
     "pos": "n.",
     "cn_def": "大學，學院",
-    "en_def": "",
+    "en_def": "a school where people study after high school",
     "sentence": "He is a freshman at {{BLANK}}.",
     "cn": "他是大學一年級新生。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "colorful",
     "pos": "adj.",
     "cn_def": "色彩鮮艷的",
-    "en_def": "",
+    "en_def": "having many bright colors",
     "sentence": "The garden is full of {{BLANK}} flowers.",
     "cn": "花園裡滿是色彩鮮艷的花朵。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "command",
     "pos": "v.",
     "cn_def": "命令，指揮",
-    "en_def": "",
+    "en_def": "to tell someone that they must do something",
     "sentence": "The officer {{BLANK}} the troops to advance.",
     "cn": "軍官命令部隊前進。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "comment",
     "pos": "n.",
     "cn_def": "評論，意見",
-    "en_def": "",
+    "en_def": "something you say that gives your opinion",
     "sentence": "She made a {{BLANK}} about the movie.",
     "cn": "她對這部電影發表了評論。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "company",
     "pos": "n.",
     "cn_def": "公司",
-    "en_def": "",
+    "en_def": "a group of people who work together to make or sell things",
     "sentence": "He works for a multinational {{BLANK}}.",
     "cn": "他在一家跨國公司工作。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "compare",
     "pos": "v.",
     "cn_def": "比較",
-    "en_def": "",
+    "en_def": "to look at two things to see how they are the same or different",
     "sentence": "It is interesting to {{BLANK}} the two theories.",
     "cn": "比較這兩個理論是很有趣的。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "complain",
     "pos": "v.",
     "cn_def": "抱怨",
-    "en_def": "",
+    "en_def": "to say that you are not happy about something",
     "sentence": "Customers often {{BLANK}} about the service.",
     "cn": "顧客經常抱怨服務。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "complete",
     "pos": "v.",
     "cn_def": "完成，完整的",
-    "en_def": "",
+    "en_def": "to finish something",
     "sentence": "She {{BLANK}} the assignment on time.",
     "cn": "她按時完成了作業。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "completion",
     "pos": "n.",
     "cn_def": "完成，結束",
-    "en_def": "",
+    "en_def": "the act of finishing something",
     "sentence": "The {{BLANK}} of the project took two years.",
     "cn": "專案的完成花了兩年時間。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "concern",
     "pos": "n.",
     "cn_def": "擔心，關心",
-    "en_def": "",
+    "en_def": "something that you worry or care about",
     "sentence": "Her main {{BLANK}} is her child's safety.",
     "cn": "她主要擔心的是孩子的安全。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "confident",
     "pos": "adj.",
     "cn_def": "自信的",
-    "en_def": "",
+    "en_def": "sure that you can do something well",
     "sentence": "He feels {{BLANK}} about his abilities.",
     "cn": "他對自己的能力感到自信。"
   }
@@ -414,117 +414,117 @@ const MCQS = [
 const LOOKUP = {
   "clever": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "smart; quick to learn and understand",
     "cn_def": "聰明的，靈巧的"
   },
   "climate": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the usual weather of a place",
     "cn_def": "氣候，風氣"
   },
   "closet": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small room or tall box for keeping clothes",
     "cn_def": "壁櫥"
   },
   "coach": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who teaches and trains a sports team",
     "cn_def": "教練，客車"
   },
   "coast": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the land next to the sea",
     "cn_def": "海岸"
   },
   "cockroach": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a brown insect that lives in dirty or warm places in houses",
     "cn_def": "蟑螂"
   },
   "cocoa": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a hot drink made from chocolate powder",
     "cn_def": "可可，巧克力飲料"
   },
   "coin": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a piece of money made of metal",
     "cn_def": "硬幣"
   },
   "cola": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a sweet brown drink with bubbles",
     "cn_def": "可樂"
   },
   "college": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a school where people study after high school",
     "cn_def": "大學，學院"
   },
   "colorful": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having many bright colors",
     "cn_def": "色彩鮮艷的"
   },
   "commanded": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to tell someone that they must do something",
     "cn_def": "命令，指揮"
   },
   "comment": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you say that gives your opinion",
     "cn_def": "評論，意見"
   },
   "company": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a group of people who work together to make or sell things",
     "cn_def": "公司"
   },
   "compare": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to look at two things to see how they are the same or different",
     "cn_def": "比較"
   },
   "complain": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to say that you are not happy about something",
     "cn_def": "抱怨"
   },
   "completed": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to finish something",
     "cn_def": "完成，完整的"
   },
   "completion": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the act of finishing something",
     "cn_def": "完成，結束"
   },
   "concern": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that you worry or care about",
     "cn_def": "擔心，關心"
   },
   "confident": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "sure that you can do something well",
     "cn_def": "自信的"
   },
   "diligent": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "working hard and carefully",
     "cn_def": "勤勉的，勤奮的"
   },
   "maximum": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "the largest that is possible or allowed",
     "cn_def": "最大的，最高的"
   },
   "sincere": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "really meaning what you say; honest",
     "cn_def": "真誠的，誠懇的"
   }
 };

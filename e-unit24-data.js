@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "area",
     "answer": "area",
     "pos": "n.",
-    "definition": "",
+    "definition": "a part of a place, a city, or a country",
     "chinese": "地區",
     "sentence": "Q: Is this an old __________? — A: Yes, it is. There are many old houses near the station.",
     "translation": "這是一個老地區嗎？ — 是的，車站附近有很多老房子。",
     "lookup": {
-     "english": "",
+     "english": "a part of a place, a city, or a country",
      "chinese": "地區"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "hill",
     "answer": "hill",
     "pos": "n.",
-    "definition": "",
+    "definition": "a high piece of land, smaller than a mountain",
     "chinese": "小山",
     "sentence": "Q: What is there near your school? — A: There is a small __________ near my school. We often walk up it.",
     "translation": "你的學校附近有什麼？ — 我的學校附近有一座小山，我們常常走上去。",
     "lookup": {
-     "english": "",
+     "english": "a high piece of land, smaller than a mountain",
      "chinese": "小山"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "mountain (mountains)",
     "answer": "mountains",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very high piece of land",
     "chinese": "山",
     "sentence": "Q: Are there any mountains near Taipei? — A: Yes, there are. There are many high __________ near Taipei.",
     "translation": "台北附近有山嗎？ — 有，台北附近有很多高山。",
     "lookup": {
-     "english": "",
+     "english": "a very high piece of land",
      "chinese": "山"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "island (islands)",
     "answer": "islands",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of land with water all around it",
     "chinese": "島嶼",
     "sentence": "Q: What is there near Taiwan? — A: There are many small __________ near Taiwan, like Green Island.",
     "translation": "台灣附近有什麼？ — 台灣附近有很多小島，像是綠島。",
     "lookup": {
-     "english": "",
+     "english": "a piece of land with water all around it",
      "chinese": "島嶼"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "pond",
     "answer": "pond",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small area of water, smaller than a lake",
     "chinese": "池塘",
     "sentence": "Q: Is there a __________ in the park? — A: Yes, there is. There are many fish and frogs in it.",
     "translation": "公園裡有池塘嗎？ — 有，裡面有很多魚和青蛙。",
     "lookup": {
-     "english": "",
+     "english": "a small area of water, smaller than a lake",
      "chinese": "池塘"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "beach",
     "answer": "beach",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place with sand next to the sea",
     "chinese": "海灘",
     "sentence": "Q: What can you do at the __________? — A: I can play in the sand and swim in the sea.",
     "translation": "你在海灘可以做什麼？ — 我可以玩沙，也可以在海裡游泳。",
     "lookup": {
-     "english": "",
+     "english": "a place with sand next to the sea",
      "chinese": "海灘"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "sea",
     "answer": "sea",
     "pos": "n.",
-    "definition": "",
+    "definition": "the salt water that covers much of the earth",
     "chinese": "海",
     "sentence": "Q: What can your brother do in the __________? — A: He can swim and look at the fish.",
     "translation": "你哥哥在海裡可以做什麼？ — 他可以游泳和看魚。",
     "lookup": {
-     "english": "",
+     "english": "the salt water that covers much of the earth",
      "chinese": "海"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "pool",
     "answer": "pool",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place full of water for swimming",
     "chinese": "游泳池",
     "sentence": "Q: What can we do at the swimming __________? — A: We can swim and play in the water. But don't run there.",
     "translation": "我們在游泳池可以做什麼？ — 我們可以游泳、玩水，但不要在那裡跑。",
     "lookup": {
-     "english": "",
+     "english": "a place full of water for swimming",
      "chinese": "游泳池"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "river",
     "answer": "river",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long line of water that runs to the sea",
     "chinese": "河",
     "sentence": "Q: What does your grandpa do on Sundays? — A: He goes fishing by the __________.",
     "translation": "你爺爺星期天做什麼？ — 他去河邊釣魚。",
     "lookup": {
-     "english": "",
+     "english": "a long line of water that runs to the sea",
      "chinese": "河"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "bank",
     "answer": "bank",
     "pos": "n.",
-    "definition": "",
+    "definition": "the land along the side of a river",
     "chinese": "（河）岸；堤",
     "sentence": "Q: Where do you and your friends ride bikes? — A: We ride bikes along the river __________.",
     "translation": "你和你的朋友在哪裡騎腳踏車？ — 我們沿著河岸騎腳踏車。",
     "lookup": {
-     "english": "",
+     "english": "the land along the side of a river",
      "chinese": "（河）岸；堤"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "lake",
     "answer": "lake",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big area of water with land all around it",
     "chinese": "湖",
     "sentence": "Q: Where does Amy go on vacation? — A: She goes to Sun Moon __________. She takes a boat there.",
     "translation": "艾美放假去哪裡？ — 她去日月潭，她在那裡搭船。",
     "lookup": {
-     "english": "",
+     "english": "a big area of water with land all around it",
      "chinese": "湖"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "spring",
     "answer": "spring",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place where water comes up from under the ground",
     "chinese": "泉",
     "sentence": "Q: What do people do in Beitou in winter? — A: They take a bath in a hot __________.",
     "translation": "人們冬天在北投做什麼？ — 他們去泡溫泉。",
     "lookup": {
-     "english": "",
+     "english": "a place where water comes up from under the ground",
      "chinese": "泉"
     }
    }
@@ -441,4 +441,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"spring":["","春天"],"beach":["","海灘"],"pool":["","游泳池"],"bank":["","銀行"],"area":["","地區"],"hill":["","小山"],"mountains":["","山"],"islands":["","島嶼"],"pond":["","池塘"],"sea":["","海"],"river":["","河"],"lake":["","湖"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"spring":["the season after winter, when flowers start to grow","春天"],"beach":["a place with sand next to the sea","海灘"],"pool":["a place full of water for swimming","游泳池"],"bank":["a place where people keep their money","銀行"],"area":["a part of a place, a city, or a country","地區"],"hill":["a high piece of land, smaller than a mountain","小山"],"mountains":["a very high piece of land","山"],"islands":["a piece of land with water all around it","島嶼"],"pond":["a small area of water, smaller than a lake","池塘"],"sea":["the salt water that covers much of the earth","海"],"river":["a long line of water that runs to the sea","河"],"lake":["a big area of water with land all around it","湖"]});

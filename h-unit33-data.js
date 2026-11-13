@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "soda",
     "answer": "soda",
     "pos": "n.",
-    "definition": "",
+    "definition": "a sweet drink with bubbles",
     "chinese": "汽水，蘇打水",
     "sentence": "She ordered a __________ with her meal.",
     "translation": "她點了一杯汽水配餐。",
     "lookup": {
-     "english": "",
+     "english": "a sweet drink with bubbles",
      "chinese": "汽水，蘇打水"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "soft",
     "answer": "soft",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not hard; nice to touch",
     "chinese": "柔軟的，溫和的",
     "sentence": "The pillow is very __________.",
     "translation": "這個枕頭很柔軟。",
     "lookup": {
-     "english": "",
+     "english": "not hard; nice to touch",
      "chinese": "柔軟的，溫和的"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "soft drink",
     "answer": "soft drink",
     "pos": "n.",
-    "definition": "",
+    "definition": "a cold, sweet drink with no alcohol",
     "chinese": "軟飲料，非酒精飲料",
     "sentence": "She prefers __________ to alcohol.",
     "translation": "她更喜歡軟飲料而不是酒精飲料。",
     "lookup": {
-     "english": "",
+     "english": "a cold, sweet drink with no alcohol",
      "chinese": "軟飲料，非酒精飲料"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "softball",
     "answer": "softball",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game like baseball with a bigger, softer ball",
     "chinese": "壘球",
     "sentence": "They played __________ in the park.",
     "translation": "他們在公園裡打壘球。",
     "lookup": {
-     "english": "",
+     "english": "a game like baseball with a bigger, softer ball",
      "chinese": "壘球"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "solve",
     "answer": "solve",
     "pos": "v.",
-    "definition": "",
+    "definition": "to find the answer to a problem",
     "chinese": "解決，解答",
     "sentence": "Can you __________ this math problem?",
     "translation": "你能解答這個數學問題嗎？",
     "lookup": {
-     "english": "",
+     "english": "to find the answer to a problem",
      "chinese": "解決，解答"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "soul",
     "answer": "soul",
     "pos": "n.",
-    "definition": "",
+    "definition": "the part of a person that some people believe lives on after death",
     "chinese": "靈魂，精神",
     "sentence": "She believes in the immortality of the __________.",
     "translation": "她相信靈魂的不朽。",
     "lookup": {
-     "english": "",
+     "english": "the part of a person that some people believe lives on after death",
      "chinese": "靈魂，精神"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "sour",
     "answer": "sour",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having a taste like a lemon; (of milk) gone bad",
     "chinese": "酸的，不愉快的",
     "sentence": "The milk tasted __________.",
     "translation": "牛奶味道酸了。",
     "lookup": {
-     "english": "",
+     "english": "having a taste like a lemon; (of milk) gone bad",
      "chinese": "酸的，不愉快的"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "soy sauce",
     "answer": "soy sauce",
     "pos": "n.",
-    "definition": "",
+    "definition": "a dark, salty brown sauce used in Chinese cooking",
     "chinese": "醬油",
     "sentence": "She added __________ to the dish.",
     "translation": "她在菜裡加了醬油。",
     "lookup": {
-     "english": "",
+     "english": "a dark, salty brown sauce used in Chinese cooking",
      "chinese": "醬油"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "spaghetti",
     "answer": "spaghetti",
     "pos": "n.",
-    "definition": "",
+    "definition": "long thin noodles from Italy",
     "chinese": "義大利麵",
     "sentence": "She made __________ for dinner.",
     "translation": "她做了義大利麵作晚餐。",
     "lookup": {
-     "english": "",
+     "english": "long thin noodles from Italy",
      "chinese": "義大利麵"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "speaker",
     "answer": "speaker",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who gives a talk",
     "chinese": "演講者，揚聲器",
     "sentence": "The __________ gave an inspiring talk.",
     "translation": "演講者發表了一場鼓舞人心的演講。",
     "lookup": {
-     "english": "",
+     "english": "a person who gives a talk",
      "chinese": "演講者，揚聲器"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "speech",
     "answer": "speech",
     "pos": "n.",
-    "definition": "",
+    "definition": "a talk that someone gives to a group of people",
     "chinese": "演講，講話",
     "sentence": "He prepared a __________ for the conference.",
     "translation": "他為會議準備了一場演講。",
     "lookup": {
-     "english": "",
+     "english": "a talk that someone gives to a group of people",
      "chinese": "演講，講話"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "speed",
     "answer": "speed",
     "pos": "n.",
-    "definition": "",
+    "definition": "how fast something moves",
     "chinese": "速度",
     "sentence": "The car's top __________ is 120 mph.",
     "translation": "這輛車的最高速度是每小時120英里。",
     "lookup": {
-     "english": "",
+     "english": "how fast something moves",
      "chinese": "速度"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "spirit",
     "answer": "spirit",
     "pos": "n.",
-    "definition": "",
+    "definition": "brave and strong feelings; the will to keep trying",
     "chinese": "精神，靈魂",
     "sentence": "She showed great __________ during the competition.",
     "translation": "她在比賽中展現出極大的精神。",
     "lookup": {
-     "english": "",
+     "english": "brave and strong feelings; the will to keep trying",
      "chinese": "精神，靈魂"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "spot",
     "answer": "spot",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place",
     "chinese": "地點，斑點",
     "sentence": "They found a perfect __________ for a picnic.",
     "translation": "他們找到了一個完美的野餐地點。",
     "lookup": {
-     "english": "",
+     "english": "a place",
      "chinese": "地點，斑點"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "spread",
     "answer": "spread",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move and reach more and more people or places",
     "chinese": "展開，傳播",
     "sentence": "The news of the event quickly __________.",
     "translation": "事件的消息迅速傳開。",
     "lookup": {
-     "english": "",
+     "english": "to move and reach more and more people or places",
      "chinese": "展開，傳播"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "state",
     "answer": "state",
     "pos": "n.",
-    "definition": "",
+    "definition": "the condition that someone or something is in",
     "chinese": "狀態，州",
     "sentence": "He is in a __________ of confusion.",
     "translation": "他處於困惑狀態。",
     "lookup": {
-     "english": "",
+     "english": "the condition that someone or something is in",
      "chinese": "狀態，州"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "stationery",
     "answer": "stationery",
     "pos": "n.",
-    "definition": "",
+    "definition": "paper, pens, and other things for writing",
     "chinese": "文具",
     "sentence": "She bought some new __________ for school.",
     "translation": "她為學校買了一些新文具。",
     "lookup": {
-     "english": "",
+     "english": "paper, pens, and other things for writing",
      "chinese": "文具"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "steal",
     "answer": "steal",
     "pos": "v.",
-    "definition": "",
+    "definition": "to take something that is not yours",
     "chinese": "偷竊，盜取",
     "sentence": "Someone tried to __________ his bike.",
     "translation": "有人試圖偷他的自行車。",
     "lookup": {
-     "english": "",
+     "english": "to take something that is not yours",
      "chinese": "偷竊，盜取"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "steam",
     "answer": "steam",
     "pos": "n.",
-    "definition": "",
+    "definition": "the hot white gas that comes from boiling water",
     "chinese": "蒸汽",
     "sentence": "The pot was full of __________.",
     "translation": "鍋裡充滿了蒸汽。",
     "lookup": {
-     "english": "",
+     "english": "the hot white gas that comes from boiling water",
      "chinese": "蒸汽"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "step",
     "answer": "step",
     "pos": "n.",
-    "definition": "",
+    "definition": "one movement of your foot when you walk",
     "chinese": "步驟，步伐",
     "sentence": "He took a __________ forward.",
     "translation": "他向前邁了一步。",
     "lookup": {
-     "english": "",
+     "english": "one movement of your foot when you walk",
      "chinese": "步驟，步伐"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dumb":["","啞的，愚蠢的"],"general":["","一般的，總的"],"golden":["","金色的，極好的"],"handle":["","處理，操作"],"serve":["","服務，提供"],"soda":["","汽水，蘇打水"],"soft":["","柔軟的，溫和的"],"softball":["","壘球"],"solve":["","解決，解答"],"soul":["","靈魂，精神"],"sour":["","酸的，不愉快的"],"spaghetti":["","義大利麵"],"speaker":["","演講者，揚聲器"],"speech":["","演講，講話"],"speed":["","速度"],"spirit":["","精神，靈魂"],"spot":["","地點，斑點"],"spread":["","展開，傳播"],"state":["","狀態，州"],"stationery":["","文具"],"steal":["","偷竊，盜取"],"steam":["","蒸汽"],"step":["","步驟，步伐"],"stingy":["","吝嗇的，小氣的"],"wake":["","醒來，喚醒"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"dumb":["stupid; silly","啞的，愚蠢的"],"general":["not exact or full of details; about the main things only","一般的，總的"],"golden":["very happy and special; having the color of gold","金色的，極好的"],"handle":["to take care of a problem or a situation","處理，操作"],"serve":["to give food or drinks to people","服務，提供"],"soda":["a sweet drink with bubbles","汽水，蘇打水"],"soft":["not hard; nice to touch","柔軟的，溫和的"],"softball":["a game like baseball with a bigger, softer ball","壘球"],"solve":["to find the answer to a problem","解決，解答"],"soul":["the part of a person that some people believe lives on after death","靈魂，精神"],"sour":["having a taste like a lemon; (of milk) gone bad","酸的，不愉快的"],"spaghetti":["long thin noodles from Italy","義大利麵"],"speaker":["a person who gives a talk","演講者，揚聲器"],"speech":["a talk that someone gives to a group of people","演講，講話"],"speed":["how fast something moves","速度"],"spirit":["brave and strong feelings; the will to keep trying","精神，靈魂"],"spot":["a place","地點，斑點"],"spread":["to move and reach more and more people or places","展開，傳播"],"state":["the condition that someone or something is in","狀態，州"],"stationery":["paper, pens, and other things for writing","文具"],"steal":["to take something that is not yours","偷竊，盜取"],"steam":["the hot white gas that comes from boiling water","蒸汽"],"step":["one movement of your foot when you walk","步驟，步伐"],"stingy":["not willing to spend or give money","吝嗇的，小氣的"],"wake":["to stop sleeping","醒來，喚醒"]});

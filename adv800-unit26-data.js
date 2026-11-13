@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "personal",
     "pos": "adj.",
     "cn_def": "個人的，私人的",
-    "en_def": "",
+    "en_def": "belonging to you; your own",
     "sentence": "This is my {{BLANK}} opinion.",
     "cn": "這是我的個人意見。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "physics",
     "pos": "n.",
     "cn_def": "物理學",
-    "en_def": "",
+    "en_def": "the study of heat, light, sound, and how things move",
     "sentence": "He is studying {{BLANK}}.",
     "cn": "他在學習物理。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "pigeon",
     "pos": "n.",
     "cn_def": "鴿子",
-    "en_def": "",
+    "en_def": "a gray bird that often lives in cities",
     "sentence": "The {{BLANK}} flew away.",
     "cn": "鴿子飛走了。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "pile",
     "pos": "n.",
     "cn_def": "堆，堆積",
-    "en_def": "",
+    "en_def": "many things lying one on top of another",
     "sentence": "There is a {{BLANK}} of books on the table.",
     "cn": "桌上有一堆書。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "pillow",
     "pos": "n.",
     "cn_def": "枕頭",
-    "en_def": "",
+    "en_def": "a soft thing that you put your head on in bed",
     "sentence": "She lay her head on the {{BLANK}}.",
     "cn": "她把頭放在枕頭上。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "pineapple",
     "pos": "n.",
     "cn_def": "鳳梨，菠蘿",
-    "en_def": "",
+    "en_def": "a big, sweet tropical fruit that is yellow inside and has a rough skin",
     "sentence": "She likes to eat fresh {{BLANK}}.",
     "cn": "她喜歡吃新鮮的鳳梨。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "plain",
     "pos": "adj.",
     "cn_def": "樸素的，平凡的",
-    "en_def": "",
+    "en_def": "simple, with no pattern or decoration",
     "sentence": "She wore a {{BLANK}} dress.",
     "cn": "她穿了一件樸素的連衣裙。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "platform",
     "pos": "n.",
     "cn_def": "平台，月台",
-    "en_def": "",
+    "en_def": "the place in a station where you get on and off trains",
     "sentence": "The train arrived at the {{BLANK}}.",
     "cn": "火車到達了月台。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "pleasant",
     "pos": "adj.",
     "cn_def": "愉快的，令人愉快的",
-    "en_def": "",
+    "en_def": "nice and enjoyable",
     "sentence": "They had a {{BLANK}} evening together.",
     "cn": "他們度過了一個愉快的晚上。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "pleased",
     "pos": "adj.",
     "cn_def": "高興的，滿意的",
-    "en_def": "",
+    "en_def": "happy about something",
     "sentence": "She was {{BLANK}} with the results.",
     "cn": "她對結果感到滿意。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "plus",
     "pos": "prep.",
     "cn_def": "加上，此外",
-    "en_def": "",
+    "en_def": "and also; added to",
     "sentence": "He bought a book {{BLANK}} a pen.",
     "cn": "他買了一本書加上一支筆。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "poem",
     "pos": "n.",
     "cn_def": "詩",
-    "en_def": "",
+    "en_def": "a piece of writing in short lines, often with words that rhyme",
     "sentence": "She wrote a beautiful {{BLANK}}.",
     "cn": "她寫了一首美麗的詩。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "poison",
     "pos": "n.",
     "cn_def": "毒藥，毒素",
-    "en_def": "",
+    "en_def": "something that can kill you or make you very sick if you eat or drink it",
     "sentence": "The mushrooms contain a deadly {{BLANK}}.",
     "cn": "這些蘑菇含有致命的毒素。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "pollute",
     "pos": "v.",
     "cn_def": "污染",
-    "en_def": "",
+    "en_def": "to make air, water, or land dirty",
     "sentence": "Factories {{BLANK}} the air with smoke.",
     "cn": "工廠用煙霧污染空氣。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "pollution",
     "pos": "n.",
     "cn_def": "污染",
-    "en_def": "",
+    "en_def": "dirty air, water, or land",
     "sentence": "The city is facing severe air {{BLANK}}.",
     "cn": "這個城市正面臨嚴重的空氣污染。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "pop music",
     "pos": "n.",
     "cn_def": "流行音樂",
-    "en_def": "",
+    "en_def": "modern music that many young people like",
     "sentence": "She loves listening to {{BLANK}}.",
     "cn": "她喜歡聽流行音樂。",
     "nblanks": 2
@@ -139,7 +139,7 @@ const VOCAB = [
     "word": "population",
     "pos": "n.",
     "cn_def": "人口",
-    "en_def": "",
+    "en_def": "the number of people who live in a place",
     "sentence": "The {{BLANK}} of the city is growing rapidly.",
     "cn": "這個城市的人口正在迅速增長。"
   },
@@ -147,7 +147,7 @@ const VOCAB = [
     "word": "position",
     "pos": "n.",
     "cn_def": "位置，職位",
-    "en_def": "",
+    "en_def": "a job in a company",
     "sentence": "He applied for a management {{BLANK}}.",
     "cn": "他申請了一個管理職位。"
   },
@@ -155,7 +155,7 @@ const VOCAB = [
     "word": "positive",
     "pos": "adj.",
     "cn_def": "積極的，正面的",
-    "en_def": "",
+    "en_def": "thinking about the good side of things",
     "sentence": "She has a {{BLANK}} outlook on life.",
     "cn": "她對生活持積極的態度。"
   },
@@ -163,7 +163,7 @@ const VOCAB = [
     "word": "potato",
     "pos": "n.",
     "cn_def": "馬鈴薯，土豆",
-    "en_def": "",
+    "en_def": "a round brown or yellow vegetable that grows under the ground",
     "sentence": "She made a {{BLANK}} salad.",
     "cn": "她做了一份馬鈴薯沙拉。"
   }
@@ -415,132 +415,132 @@ const MCQS = [
 const LOOKUP = {
   "against": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "not agreeing with something",
     "cn_def": "反對，對抗"
   },
   "beyond": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "on the far side of something",
     "cn_def": "超過，在...之外"
   },
   "hug": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "holding someone in your arms to show love",
     "cn_def": "擁抱"
   },
   "minus": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "below zero; made smaller by a number",
     "cn_def": "減，負的"
   },
   "omit": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to leave something out",
     "cn_def": "省略，忽略"
   },
   "personal": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "belonging to you; your own",
     "cn_def": "個人的，私人的"
   },
   "physics": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the study of heat, light, sound, and how things move",
     "cn_def": "物理學"
   },
   "pigeon": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a gray bird that often lives in cities",
     "cn_def": "鴿子"
   },
   "pile": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "many things lying one on top of another",
     "cn_def": "堆，堆積"
   },
   "pillow": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a soft thing that you put your head on in bed",
     "cn_def": "枕頭"
   },
   "pineapple": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big, sweet tropical fruit that is yellow inside and has a rough skin",
     "cn_def": "鳳梨，菠蘿"
   },
   "plain": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "simple, with no pattern or decoration",
     "cn_def": "樸素的，平凡的"
   },
   "platform": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the place in a station where you get on and off trains",
     "cn_def": "平台，月台"
   },
   "pleasant": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "nice and enjoyable",
     "cn_def": "愉快的，令人愉快的"
   },
   "pleased": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "happy about something",
     "cn_def": "高興的，滿意的"
   },
   "plus": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "and also; added to",
     "cn_def": "加上，此外"
   },
   "poem": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a piece of writing in short lines, often with words that rhyme",
     "cn_def": "詩"
   },
   "poison": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that can kill you or make you very sick if you eat or drink it",
     "cn_def": "毒藥，毒素"
   },
   "pollute": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make air, water, or land dirty",
     "cn_def": "污染"
   },
   "pollution": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "dirty air, water, or land",
     "cn_def": "污染"
   },
   "pop music": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "modern music that many young people like",
     "cn_def": "流行音樂"
   },
   "population": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the number of people who live in a place",
     "cn_def": "人口"
   },
   "position": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a job in a company",
     "cn_def": "位置，職位"
   },
   "positive": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "thinking about the good side of things",
     "cn_def": "積極的，正面的"
   },
   "potato": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a round brown or yellow vegetable that grows under the ground",
     "cn_def": "馬鈴薯，土豆"
   },
   "repair": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to fix something that is broken",
     "cn_def": "修理，修補"
   }
 };

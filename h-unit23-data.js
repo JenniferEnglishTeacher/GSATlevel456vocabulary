@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "movement",
     "answer": "movement",
     "pos": "n.",
-    "definition": "",
+    "definition": "the way someone or something moves",
     "chinese": "運動，動作",
     "sentence": "The __________ of the dancers was graceful.",
     "translation": "舞者的動作很優美。",
     "lookup": {
-     "english": "",
+     "english": "the way someone or something moves",
      "chinese": "運動，動作"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "MRT",
     "answer": "MRT",
     "pos": "n.",
-    "definition": "",
+    "definition": "the fast train system in a city like Taipei",
     "chinese": "地鐵",
     "sentence": "They took the __________ to get to the city center.",
     "translation": "他們乘地鐵去市中心。",
     "lookup": {
-     "english": "",
+     "english": "the fast train system in a city like Taipei",
      "chinese": "地鐵"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "musician",
     "answer": "musician",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who plays or writes music",
     "chinese": "音樂家，樂師",
     "sentence": "He is a talented __________.",
     "translation": "他是一位有才華的音樂家。",
     "lookup": {
-     "english": "",
+     "english": "a person who plays or writes music",
      "chinese": "音樂家，樂師"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "napkin",
     "answer": "napkin",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of cloth or paper for cleaning your mouth and hands at meals",
     "chinese": "餐巾",
     "sentence": "She placed a __________ on her lap before eating.",
     "translation": "她在吃飯前把餐巾放在腿上。",
     "lookup": {
-     "english": "",
+     "english": "a piece of cloth or paper for cleaning your mouth and hands at meals",
      "chinese": "餐巾"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "narrow",
     "answer": "narrow",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not wide",
     "chinese": "狹窄的，有限的",
     "sentence": "The path was very __________.",
     "translation": "這條路很狹窄。",
     "lookup": {
-     "english": "",
+     "english": "not wide",
      "chinese": "狹窄的，有限的"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "nation",
     "answer": "nation",
     "pos": "n.",
-    "definition": "",
+    "definition": "a country and its people",
     "chinese": "國家",
     "sentence": "They are proud of their __________.",
     "translation": "他們為自己的國家感到自豪。",
     "lookup": {
-     "english": "",
+     "english": "a country and its people",
      "chinese": "國家"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "natural",
     "answer": "natural",
     "pos": "adj.",
-    "definition": "",
+    "definition": "from nature; not made by people",
     "chinese": "自然的，天然的",
     "sentence": "She prefers to use __________ ingredients.",
     "translation": "她喜歡使用天然成分。",
     "lookup": {
-     "english": "",
+     "english": "from nature; not made by people",
      "chinese": "自然的，天然的"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "naughty",
     "answer": "naughty",
     "pos": "adj.",
-    "definition": "",
+    "definition": "(of a child) behaving badly",
     "chinese": "淘氣的，不聽話的",
     "sentence": "The child was very __________.",
     "translation": "這個孩子很淘氣。",
     "lookup": {
-     "english": "",
+     "english": "(of a child) behaving badly",
      "chinese": "淘氣的，不聽話的"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "nearly",
     "answer": "nearly",
     "pos": "adv.",
-    "definition": "",
+    "definition": "almost",
     "chinese": "幾乎，差不多",
     "sentence": "It is __________ time to go.",
     "translation": "差不多該走了。",
     "lookup": {
-     "english": "",
+     "english": "almost",
      "chinese": "幾乎，差不多"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "necessary",
     "answer": "necessary",
     "pos": "adj.",
-    "definition": "",
+    "definition": "needed; that you must have or do",
     "chinese": "必要的",
     "sentence": "It is __________ to drink water every day.",
     "translation": "每天喝水是必要的。",
     "lookup": {
-     "english": "",
+     "english": "needed; that you must have or do",
      "chinese": "必要的"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "necklace",
     "answer": "necklace",
     "pos": "n.",
-    "definition": "",
+    "definition": "a pretty chain that you wear around your neck",
     "chinese": "項鍊",
     "sentence": "She wore a beautiful __________.",
     "translation": "她戴了一條漂亮的項鍊。",
     "lookup": {
-     "english": "",
+     "english": "a pretty chain that you wear around your neck",
      "chinese": "項鍊"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "needle",
     "answer": "needle",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thin, sharp piece of metal, used for sewing or in a record player",
     "chinese": "針",
     "sentence": "The __________ on the record player is broken.",
     "translation": "唱片機的針壞了。",
     "lookup": {
-     "english": "",
+     "english": "a thin, sharp piece of metal, used for sewing or in a record player",
      "chinese": "針"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "negative",
     "answer": "negative",
     "pos": "adj.",
-    "definition": "",
+    "definition": "seeing only the bad side; saying \"no\"",
     "chinese": "否定的，消極的",
     "sentence": "He had a __________ attitude towards the project.",
     "translation": "他對這個專案持消極態度。",
     "lookup": {
-     "english": "",
+     "english": "seeing only the bad side; saying \"no\"",
      "chinese": "否定的，消極的"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "neither",
     "answer": "Neither",
     "pos": "adv.",
-    "definition": "",
+    "definition": "not one and not the other of two",
     "chinese": "也不，既不",
     "sentence": "__________ of the answers is correct.",
     "translation": "這兩個答案都不正確。",
     "lookup": {
-     "english": "",
+     "english": "not one and not the other of two",
      "chinese": "也不，既不"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "nephew",
     "answer": "nephew",
     "pos": "n.",
-    "definition": "",
+    "definition": "the son of your brother or sister",
     "chinese": "姪子，外甥",
     "sentence": "She bought a gift for her __________.",
     "translation": "她為她的姪子買了一份禮物。",
     "lookup": {
-     "english": "",
+     "english": "the son of your brother or sister",
      "chinese": "姪子，外甥"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "nervous",
     "answer": "nervous",
     "pos": "adj.",
-    "definition": "",
+    "definition": "worried and a little afraid",
     "chinese": "緊張的，不安的",
     "sentence": "She felt __________ before the exam.",
     "translation": "她考試前感到緊張。",
     "lookup": {
-     "english": "",
+     "english": "worried and a little afraid",
      "chinese": "緊張的，不安的"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "nest",
     "answer": "nest",
     "pos": "n.",
-    "definition": "",
+    "definition": "the home a bird makes for its eggs",
     "chinese": "巢，窩",
     "sentence": "The bird built a __________ in the tree.",
     "translation": "鳥在樹上築了一個巢。",
     "lookup": {
-     "english": "",
+     "english": "the home a bird makes for its eggs",
      "chinese": "巢，窩"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "net",
     "answer": "net",
     "pos": "n.",
-    "definition": "",
+    "definition": "material with many holes, used for catching fish",
     "chinese": "網",
     "sentence": "He caught a fish with a __________.",
     "translation": "他用網抓了一條魚。",
     "lookup": {
-     "english": "",
+     "english": "material with many holes, used for catching fish",
      "chinese": "網"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "niece",
     "answer": "niece",
     "pos": "n.",
-    "definition": "",
+    "definition": "the daughter of your brother or sister",
     "chinese": "姪女，外甥女",
     "sentence": "She took her __________ to the zoo.",
     "translation": "她帶她的姪女去動物園。",
     "lookup": {
-     "english": "",
+     "english": "the daughter of your brother or sister",
      "chinese": "姪女，外甥女"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "nod",
     "answer": "nodded",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move your head up and down to say \"yes\"",
     "chinese": "點頭，打瞌睡",
     "sentence": "She __________ in agreement.",
     "translation": "她點頭表示同意。",
     "lookup": {
-     "english": "",
+     "english": "to move your head up and down to say \"yes\"",
      "chinese": "點頭，打瞌睡"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"damaged":["","損害，破壞"],"especially":["","特別地，尤其"],"hardly":["","幾乎不，勉強地"],"movement":["","運動，動作"],"mrt":["","地鐵"],"musician":["","音樂家，樂師"],"napkin":["","餐巾"],"narrow":["","狹窄的，有限的"],"nation":["","國家"],"natural":["","自然的，天然的"],"naughty":["","淘氣的，不聽話的"],"nearly":["","幾乎，差不多"],"necessary":["","必要的"],"necklace":["","項鍊"],"needle":["","針"],"negative":["","否定的，消極的"],"neither":["","也不，既不"],"nephew":["","姪子，外甥"],"nervous":["","緊張的，不安的"],"nest":["","巢，窩"],"net":["","網"],"niece":["","姪女，外甥女"],"nodded":["","點頭，打瞌睡"],"rather":["","寧願，倒不如說"],"regretted":["","後悔，遺憾"],"wished":["","希望，祝願"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"damaged":["to break or hurt something so it is not as good as before","損害，破壞"],"especially":["more than others; more than usual","特別地，尤其"],"hardly":["almost not","幾乎不，勉強地"],"movement":["the way someone or something moves","運動，動作"],"mrt":["the fast train system in a city like Taipei","地鐵"],"musician":["a person who plays or writes music","音樂家，樂師"],"napkin":["a piece of cloth or paper for cleaning your mouth and hands at meals","餐巾"],"narrow":["not wide","狹窄的，有限的"],"nation":["a country and its people","國家"],"natural":["from nature; not made by people","自然的，天然的"],"naughty":["(of a child) behaving badly","淘氣的，不聽話的"],"nearly":["almost","幾乎，差不多"],"necessary":["needed; that you must have or do","必要的"],"necklace":["a pretty chain that you wear around your neck","項鍊"],"needle":["a thin, sharp piece of metal, used for sewing or in a record player","針"],"negative":["seeing only the bad side; saying \"no\"","否定的，消極的"],"neither":["not one and not the other of two","也不，既不"],"nephew":["the son of your brother or sister","姪子，外甥"],"nervous":["worried and a little afraid","緊張的，不安的"],"nest":["the home a bird makes for its eggs","巢，窩"],"net":["material with many holes, used for catching fish","網"],"niece":["the daughter of your brother or sister","姪女，外甥女"],"nodded":["to move your head up and down to say \"yes\"","點頭，打瞌睡"],"rather":["more willingly (used with \"would\")","寧願，倒不如說"],"regretted":["to feel sorry about something you did or did not do","後悔，遺憾"],"wished":["to hope for something","希望，祝願"]});

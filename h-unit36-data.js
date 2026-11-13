@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "therefore",
     "answer": "therefore",
     "pos": "adv.",
-    "definition": "",
+    "definition": "so; for that reason",
     "chinese": "因此，所以",
     "sentence": "She was tired; __________, she went to bed early.",
     "translation": "她很累，因此，她很早就上床睡覺了。",
     "lookup": {
-     "english": "",
+     "english": "so; for that reason",
      "chinese": "因此，所以"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "thief",
     "answer": "thief",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who steals things",
     "chinese": "小偷",
     "sentence": "The __________ stole her purse.",
     "translation": "小偷偷了她的錢包。",
     "lookup": {
-     "english": "",
+     "english": "a person who steals things",
      "chinese": "小偷"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "thought",
     "answer": "thoughts",
     "pos": "n.",
-    "definition": "",
+    "definition": "an idea in your mind",
     "chinese": "思想，想法",
     "sentence": "His __________ on the subject were very insightful.",
     "translation": "他對這個話題的想法非常深刻。",
     "lookup": {
-     "english": "",
+     "english": "an idea in your mind",
      "chinese": "思想，想法"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "throat",
     "answer": "throat",
     "pos": "n.",
-    "definition": "",
+    "definition": "the part inside your neck that food and air go down",
     "chinese": "喉嚨，咽喉",
     "sentence": "He has a sore __________.",
     "translation": "他喉嚨痛。",
     "lookup": {
-     "english": "",
+     "english": "the part inside your neck that food and air go down",
      "chinese": "喉嚨，咽喉"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "thunder",
     "answer": "thunder",
     "pos": "n.",
-    "definition": "",
+    "definition": "the loud sound in the sky during a storm",
     "chinese": "雷，雷聲",
     "sentence": "The __________ scared the children.",
     "translation": "雷聲嚇到了孩子們。",
     "lookup": {
-     "english": "",
+     "english": "the loud sound in the sky during a storm",
      "chinese": "雷，雷聲"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "tidy",
     "answer": "tidy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "clean, with everything in the right place",
     "chinese": "整潔的，井井有條的",
     "sentence": "Her room is always __________.",
     "translation": "她的房間總是很整潔。",
     "lookup": {
-     "english": "",
+     "english": "clean, with everything in the right place",
      "chinese": "整潔的，井井有條的"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "tiger",
     "answer": "tiger",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big wild cat with orange fur and black stripes",
     "chinese": "老虎",
     "sentence": "The __________ is an endangered species.",
     "translation": "老虎是一種瀕危物種。",
     "lookup": {
-     "english": "",
+     "english": "a big wild cat with orange fur and black stripes",
      "chinese": "老虎"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "title",
     "answer": "title",
     "pos": "n.",
-    "definition": "",
+    "definition": "the name of a book, movie, or song",
     "chinese": "標題，稱號",
     "sentence": "The book's __________ is \"Great Expectations.\"",
     "translation": "這本書的標題是《遠大前程》。",
     "lookup": {
-     "english": "",
+     "english": "the name of a book, movie, or song",
      "chinese": "標題，稱號"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "toast",
     "answer": "toast",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of bread heated until it is brown",
     "chinese": "吐司，烤麵包片",
     "sentence": "She had __________ for breakfast.",
     "translation": "她早餐吃了烤麵包片。",
     "lookup": {
-     "english": "",
+     "english": "a piece of bread heated until it is brown",
      "chinese": "吐司，烤麵包片"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "toffee",
     "answer": "toffee",
     "pos": "n.",
-    "definition": "",
+    "definition": "a hard, sticky brown candy made from sugar and butter",
     "chinese": "太妃糖",
     "sentence": "She bought some __________ at the candy store.",
     "translation": "她在糖果店買了一些太妃糖。",
     "lookup": {
-     "english": "",
+     "english": "a hard, sticky brown candy made from sugar and butter",
      "chinese": "太妃糖"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "tongue",
     "answer": "tongue",
     "pos": "n.",
-    "definition": "",
+    "definition": "the soft part inside your mouth that you taste and speak with",
     "chinese": "舌頭，語言",
     "sentence": "He burnt his __________ on the hot soup.",
     "translation": "他舌頭被熱湯燙到了。",
     "lookup": {
-     "english": "",
+     "english": "the soft part inside your mouth that you taste and speak with",
      "chinese": "舌頭，語言"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "toothbrush",
     "answer": "toothbrush",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small brush for cleaning your teeth",
     "chinese": "牙刷",
     "sentence": "She forgot her __________ at home.",
     "translation": "她忘了帶牙刷。",
     "lookup": {
-     "english": "",
+     "english": "a small brush for cleaning your teeth",
      "chinese": "牙刷"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "toothpaste",
     "answer": "toothpaste",
     "pos": "n.",
-    "definition": "",
+    "definition": "the soft cream you put on a toothbrush to clean your teeth",
     "chinese": "牙膏",
     "sentence": "The __________ is almost finished.",
     "translation": "牙膏快用完了。",
     "lookup": {
-     "english": "",
+     "english": "the soft cream you put on a toothbrush to clean your teeth",
      "chinese": "牙膏"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "total",
     "answer": "total",
     "pos": "adj.",
-    "definition": "",
+    "definition": "with everything added together",
     "chinese": "總的，全部的",
     "sentence": "The __________ cost is $50.",
     "translation": "總費用是50美元。",
     "lookup": {
-     "english": "",
+     "english": "with everything added together",
      "chinese": "總的，全部的"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "tour",
     "answer": "tour",
     "pos": "n.",
-    "definition": "",
+    "definition": "a trip to see many places",
     "chinese": "旅行，巡演",
     "sentence": "They went on a __________ of Europe.",
     "translation": "他們去歐洲旅行。",
     "lookup": {
-     "english": "",
+     "english": "a trip to see many places",
      "chinese": "旅行，巡演"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "tourist",
     "answer": "tourists",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who visits a place for fun",
     "chinese": "遊客",
     "sentence": "The city is full of __________.",
     "translation": "這個城市充滿了遊客。",
     "lookup": {
-     "english": "",
+     "english": "a person who visits a place for fun",
      "chinese": "遊客"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "tournament",
     "answer": "tournament",
     "pos": "n.",
-    "definition": "",
+    "definition": "a set of games to find the best player or team",
     "chinese": "比賽，錦標賽",
     "sentence": "He participated in a chess __________.",
     "translation": "他參加了一個西洋棋比賽。",
     "lookup": {
-     "english": "",
+     "english": "a set of games to find the best player or team",
      "chinese": "比賽，錦標賽"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "towel",
     "answer": "towel",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of cloth that you use to dry yourself",
     "chinese": "毛巾",
     "sentence": "She dried her hands with a __________.",
     "translation": "她用毛巾擦乾了手。",
     "lookup": {
-     "english": "",
+     "english": "a piece of cloth that you use to dry yourself",
      "chinese": "毛巾"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "tower",
     "answer": "tower",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very tall, thin building",
     "chinese": "塔，塔樓",
     "sentence": "The Eiffel __________ is a famous landmark.",
     "translation": "艾菲爾鐵塔是一個著名的地標。",
     "lookup": {
-     "english": "",
+     "english": "a very tall, thin building",
      "chinese": "塔，塔樓"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "track",
     "answer": "track",
     "pos": "n.",
-    "definition": "",
+    "definition": "a round path for running races",
     "chinese": "軌道，跑道",
     "sentence": "They ran around the __________.",
     "translation": "他們在跑道上跑步。",
     "lookup": {
-     "english": "",
+     "english": "a round path for running races",
      "chinese": "軌道，跑道"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"downtown":["","市中心"],"especially":["","特別地，尤其"],"latest":["","最新的，最近的"],"nearly":["","幾乎，差不多"],"pale":["","蒼白的，淡色的"],"perfect":["","完美的，理想的"],"therefore":["","因此，所以"],"thief":["","小偷"],"thoughts":["","思想，想法"],"throat":["","喉嚨，咽喉"],"thunder":["","雷，雷聲"],"tidy":["","整潔的，井井有條的"],"tiger":["","老虎"],"title":["","標題，稱號"],"toast":["","吐司，烤麵包片"],"toffee":["","太妃糖"],"tongue":["","舌頭，語言"],"toothbrush":["","牙刷"],"toothpaste":["","牙膏"],"total":["","總的，全部的"],"tour":["","旅行，巡演"],"tourists":["","遊客"],"tournament":["","比賽，錦標賽"],"towel":["","毛巾"],"tower":["","塔，塔樓"],"track":["","軌道，跑道"],"tropical":["","熱帶的，炎熱的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"downtown":["in the center of a city","市中心"],"especially":["more than others; more than usual","特別地，尤其"],"latest":["the newest","最新的，最近的"],"nearly":["almost","幾乎，差不多"],"pale":["having a light or white face, often because you are sick","蒼白的，淡色的"],"perfect":["so good that it cannot be better","完美的，理想的"],"therefore":["so; for that reason","因此，所以"],"thief":["a person who steals things","小偷"],"thoughts":["an idea in your mind","思想，想法"],"throat":["the part inside your neck that food and air go down","喉嚨，咽喉"],"thunder":["the loud sound in the sky during a storm","雷，雷聲"],"tidy":["clean, with everything in the right place","整潔的，井井有條的"],"tiger":["a big wild cat with orange fur and black stripes","老虎"],"title":["the name of a book, movie, or song","標題，稱號"],"toast":["a piece of bread heated until it is brown","吐司，烤麵包片"],"toffee":["a hard, sticky brown candy made from sugar and butter","太妃糖"],"tongue":["the soft part inside your mouth that you taste and speak with","舌頭，語言"],"toothbrush":["a small brush for cleaning your teeth","牙刷"],"toothpaste":["the soft cream you put on a toothbrush to clean your teeth","牙膏"],"total":["with everything added together","總的，全部的"],"tour":["a trip to see many places","旅行，巡演"],"tourists":["a person who visits a place for fun","遊客"],"tournament":["a set of games to find the best player or team","比賽，錦標賽"],"towel":["a piece of cloth that you use to dry yourself","毛巾"],"tower":["a very tall, thin building","塔，塔樓"],"track":["a round path for running races","軌道，跑道"],"tropical":["from or in the hottest parts of the world","熱帶的，炎熱的"]});

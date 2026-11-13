@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "hobby",
     "answer": "hobby",
     "pos": "n.",
-    "definition": "",
+    "definition": "something you like to do in your free time",
     "chinese": "嗜好",
     "sentence": "Q: What's your __________? What do you like to do? — A: I like to take pictures in the park.",
     "translation": "你的嗜好是什麼？你喜歡做什麼？ — 我喜歡在公園拍照。",
     "lookup": {
-     "english": "",
+     "english": "something you like to do in your free time",
      "chinese": "嗜好"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "sing (singing)",
     "answer": "singing",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make music with your voice",
     "chinese": "唱歌",
     "sentence": "Q: What does Amy like to do? — A: She likes __________ in the music room.",
     "translation": "艾美喜歡做什麼？ — 她喜歡在音樂教室唱歌。",
     "lookup": {
-     "english": "",
+     "english": "to make music with your voice",
      "chinese": "唱歌"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "song (songs)",
     "answer": "songs",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of music with words that you sing",
     "chinese": "歌曲",
     "sentence": "Q: What do you like to do after school? — A: I like to sing English __________.",
     "translation": "你放學後喜歡做什麼？ — 我喜歡唱英文歌。",
     "lookup": {
-     "english": "",
+     "english": "a piece of music with words that you sing",
      "chinese": "歌曲"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "music",
     "answer": "music",
     "pos": "n.",
-    "definition": "",
+    "definition": "sounds that people sing or play and that are nice to hear",
     "chinese": "音樂",
     "sentence": "Q: Does Tina enjoy listening to __________? — A: Yes, she does. She listens to it every night.",
     "translation": "蒂娜喜歡聽音樂嗎？ — 是的，她喜歡。她每天晚上都聽。",
     "lookup": {
-     "english": "",
+     "english": "sounds that people sing or play and that are nice to hear",
      "chinese": "音樂"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "dance",
     "answer": "dance",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move your body to music",
     "chinese": "跳舞",
     "sentence": "Q: What do you and your sister like to do? — A: We like to __________ to pop music.",
     "translation": "你和你妹妹喜歡做什麼？ — 我們喜歡隨著流行音樂跳舞。",
     "lookup": {
-     "english": "",
+     "english": "to move your body to music",
      "chinese": "跳舞"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "draw (drawing)",
     "answer": "drawing",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make a picture with a pen or pencil",
     "chinese": "畫圖",
     "sentence": "Q: Does Ben enjoy __________? — A: Yes, he does. He has many pictures of cats in his notebook.",
     "translation": "班喜歡畫圖嗎？ — 是的，他喜歡。他的筆記本裡有很多貓的圖。",
     "lookup": {
-     "english": "",
+     "english": "to make a picture with a pen or pencil",
      "chinese": "畫圖"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "paint (painting)",
     "answer": "painting",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make a picture with wet colors and a brush",
     "chinese": "（用顏料）畫圖",
     "sentence": "Q: Do your parents enjoy __________? — A: No, they don't. They enjoy reading books.",
     "translation": "你爸媽喜歡畫畫嗎？ — 不，他們不喜歡。他們喜歡看書。",
     "lookup": {
-     "english": "",
+     "english": "to make a picture with wet colors and a brush",
      "chinese": "（用顏料）畫圖"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "cook",
     "answer": "cook",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make food ready to eat by heating it",
     "chinese": "煮飯；烹飪",
     "sentence": "Q: What does your father like to do on Sundays? — A: He likes to __________ dinner for us.",
     "translation": "你爸爸星期天喜歡做什麼？ — 他喜歡為我們煮晚餐。",
     "lookup": {
-     "english": "",
+     "english": "to make food ready to eat by heating it",
      "chinese": "煮飯；烹飪"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "movie (movies)",
     "answer": "movies",
     "pos": "n.",
-    "definition": "",
+    "definition": "a story with moving pictures that you watch in a theater or on TV",
     "chinese": "電影",
     "sentence": "Q: Do they enjoy watching __________? — A: Yes, they do. They go to the theater every weekend.",
     "translation": "他們喜歡看電影嗎？ — 是的，他們喜歡。他們每個週末都去戲院。",
     "lookup": {
-     "english": "",
+     "english": "a story with moving pictures that you watch in a theater or on TV",
      "chinese": "電影"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "comic",
     "answer": "comic",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having stories told in pictures",
     "chinese": "漫畫的",
     "sentence": "Q: What does Tom like to do on weekends? — A: He likes to read __________ books.",
     "translation": "湯姆週末喜歡做什麼？ — 他喜歡看漫畫書。",
     "lookup": {
-     "english": "",
+     "english": "having stories told in pictures",
      "chinese": "漫畫的"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "swim",
     "answer": "swim",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move through water using your arms and legs",
     "chinese": "游泳",
     "sentence": "Q: Can your brother __________? — A: Yes, he can. He goes to the pool every week.",
     "translation": "你哥哥會游泳嗎？ — 是的，他會。他每週都去游泳池。",
     "lookup": {
-     "english": "",
+     "english": "to move through water using your arms and legs",
      "chinese": "游泳"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "surf",
     "answer": "surf",
     "pos": "v.",
-    "definition": "",
+    "definition": "to ride on big waves in the sea on a board",
     "chinese": "衝浪",
     "sentence": "Q: Can you __________? — A: No, I can't. But I want to learn it at the beach.",
     "translation": "你會衝浪嗎？ — 不，我不會。但我想在海灘學。",
     "lookup": {
-     "english": "",
+     "english": "to ride on big waves in the sea on a board",
      "chinese": "衝浪"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "sail",
     "answer": "sail",
     "pos": "v.",
-    "definition": "",
+    "definition": "to travel on water in a boat",
     "chinese": "航行；駕船",
     "sentence": "Q: Can your uncle __________ a boat? — A: Yes, he can. He often takes us out on the lake.",
     "translation": "你叔叔會駕船嗎？ — 是的，他會。他常帶我們到湖上。",
     "lookup": {
-     "english": "",
+     "english": "to travel on water in a boat",
      "chinese": "航行；駕船"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "climb",
     "answer": "climb",
     "pos": "v.",
-    "definition": "",
+    "definition": "to go up something, like a tree or a mountain",
     "chinese": "爬；攀登",
     "sentence": "Q: Can Grandpa __________ the mountain? — A: Yes, he can. He is old, but he is strong.",
     "translation": "爺爺爬得上這座山嗎？ — 是的，他可以。他年紀大，但很強壯。",
     "lookup": {
-     "english": "",
+     "english": "to go up something, like a tree or a mountain",
      "chinese": "爬；攀登"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "run",
     "answer": "run",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move very fast on your legs",
     "chinese": "跑步",
     "sentence": "Q: Can the twins __________ fast? — A: Yes, they can. They are the fastest in our class.",
     "translation": "那對雙胞胎跑得快嗎？ — 是的，他們可以。他們是我們班跑最快的。",
     "lookup": {
-     "english": "",
+     "english": "to move very fast on your legs",
      "chinese": "跑步"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "piano",
     "answer": "piano",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big musical instrument with black and white keys",
     "chinese": "鋼琴",
     "sentence": "Q: Can Amy play the __________? — A: Yes, she can. She plays it very well.",
     "translation": "艾美會彈鋼琴嗎？ — 是的，她會。她彈得很好。",
     "lookup": {
-     "english": "",
+     "english": "a big musical instrument with black and white keys",
      "chinese": "鋼琴"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "violin",
     "answer": "violin",
     "pos": "n.",
-    "definition": "",
+    "definition": "a musical instrument with four strings that you hold under your chin",
     "chinese": "小提琴",
     "sentence": "Q: Can you play the __________? — A: No, I can't. But my sister can.",
     "translation": "你會拉小提琴嗎？ — 不，我不會。但我姊姊會。",
     "lookup": {
-     "english": "",
+     "english": "a musical instrument with four strings that you hold under your chin",
      "chinese": "小提琴"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "guitar",
     "answer": "guitar",
     "pos": "n.",
-    "definition": "",
+    "definition": "a musical instrument with six strings that you play with your fingers",
     "chinese": "吉他",
     "sentence": "Q: Can your father play the __________? — A: Yes, he can. He plays it and sings for us.",
     "translation": "你爸爸會彈吉他嗎？ — 是的，他會。他邊彈邊唱給我們聽。",
     "lookup": {
-     "english": "",
+     "english": "a musical instrument with six strings that you play with your fingers",
      "chinese": "吉他"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "drum (drums)",
     "answer": "drums",
     "pos": "n.",
-    "definition": "",
+    "definition": "a round musical instrument that you hit with sticks",
     "chinese": "鼓",
     "sentence": "Q: Can Tom play the __________? — A: No, he can't. But he wants to learn.",
     "translation": "湯姆會打鼓嗎？ — 不，他不會。但他想學。",
     "lookup": {
-     "english": "",
+     "english": "a round musical instrument that you hit with sticks",
      "chinese": "鼓"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "flute",
     "answer": "flute",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long, thin musical instrument that you blow into",
     "chinese": "長笛；笛子",
     "sentence": "Q: Can your cousins play the __________? — A: Yes, they can. They play it in music class.",
     "translation": "你的表姊妹們會吹長笛嗎？ — 是的，她們會。她們在音樂課吹。",
     "lookup": {
-     "english": "",
+     "english": "a long, thin musical instrument that you blow into",
      "chinese": "長笛；笛子"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "basketball",
     "answer": "basketball",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game in which players throw a big ball into a high net",
     "chinese": "籃球",
     "sentence": "Q: Let's play __________ after school. — A: OK! See you on the playground.",
     "translation": "我們放學後去打籃球吧。 — 好啊！操場見。",
     "lookup": {
-     "english": "",
+     "english": "a game in which players throw a big ball into a high net",
      "chinese": "籃球"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "baseball",
     "answer": "baseball",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game in which players hit a small ball with a bat and run",
     "chinese": "棒球",
     "sentence": "Q: Would you like to play __________ with us? — A: Sure. I have a new bat and a glove.",
     "translation": "你想和我們一起打棒球嗎？ — 當然。我有新的球棒和手套。",
     "lookup": {
-     "english": "",
+     "english": "a game in which players hit a small ball with a bat and run",
      "chinese": "棒球"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "soccer",
     "answer": "soccer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game in which players kick a ball into a goal",
     "chinese": "足球",
     "sentence": "Q: Let's play __________ in the park. — A: Good idea! Ben and Tom can come, too.",
     "translation": "我們去公園踢足球吧。 — 好主意！班和湯姆也可以來。",
     "lookup": {
-     "english": "",
+     "english": "a game in which players kick a ball into a goal",
      "chinese": "足球"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "tennis",
     "answer": "tennis",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game in which two or four players hit a small ball over a net",
     "chinese": "網球",
     "sentence": "Q: Would you like to play __________ with us this Saturday? — A: Sorry, I can't. I have math class.",
     "translation": "你這星期六想和我們一起打網球嗎？ — 抱歉，我不行。我有數學課。",
     "lookup": {
-     "english": "",
+     "english": "a game in which two or four players hit a small ball over a net",
      "chinese": "網球"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "badminton",
     "answer": "badminton",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game in which players hit a light thing with feathers over a high net",
     "chinese": "羽毛球",
     "sentence": "Q: Let's play __________ in the gym. — A: OK. It's too windy outside.",
     "translation": "我們在體育館打羽毛球吧。 — 好。外面風太大了。",
     "lookup": {
-     "english": "",
+     "english": "a game in which players hit a light thing with feathers over a high net",
      "chinese": "羽毛球"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "dodge ball",
     "answer": "dodge ball",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game in which players throw balls at each other and try not to get hit",
     "chinese": "躲避球",
     "sentence": "Q: Would you like to play __________ with us? — A: Yes, I'd love to. It's fun!",
     "translation": "你想跟我們一起玩躲避球嗎？ — 是的，我很樂意。好好玩！",
     "lookup": {
-     "english": "",
+     "english": "a game in which players throw balls at each other and try not to get hit",
      "chinese": "躲避球"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "frisbee",
     "answer": "frisbee",
     "pos": "n.",
-    "definition": "",
+    "definition": "a flat plastic ring or plate that people throw to each other for fun",
     "chinese": "飛盤",
     "sentence": "Q: Let's play __________ on the beach. — A: Great! I'll throw it to you first.",
     "translation": "我們在海灘玩飛盤吧。 — 太好了！我先丟給你。",
     "lookup": {
-     "english": "",
+     "english": "a flat plastic ring or plate that people throw to each other for fun",
      "chinese": "飛盤"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "chess",
     "answer": "chess",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game for two players with kings and queens on a board",
     "chinese": "西洋棋",
     "sentence": "Q: Would you like to play __________ with Grandpa and me? — A: Sure. But Grandpa is very good at it!",
     "translation": "你想和爺爺跟我一起下西洋棋嗎？ — 當然，但是爺爺很厲害！",
     "lookup": {
-     "english": "",
+     "english": "a game for two players with kings and queens on a board",
      "chinese": "西洋棋"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "ball",
     "answer": "ball",
     "pos": "n.",
-    "definition": "",
+    "definition": "a round thing that you throw, kick, or hit in games",
     "chinese": "球",
     "sentence": "Q: Let's play __________ in the yard. — A: OK. Throw it to me!",
     "translation": "我們在院子裡玩球吧。 — 好，丟給我！",
     "lookup": {
-     "english": "",
+     "english": "a round thing that you throw, kick, or hit in games",
      "chinese": "球"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "kite",
     "answer": "kite",
     "pos": "n.",
-    "definition": "",
+    "definition": "a toy made of paper or cloth that flies in the wind on a long string",
     "chinese": "風箏",
     "sentence": "Q: Would you like to fly a __________ with us? It's windy today. — A: Yes, I'd love to.",
     "translation": "你想和我們一起放風箏嗎？今天風很大。 — 是的，我很樂意。",
     "lookup": {
-     "english": "",
+     "english": "a toy made of paper or cloth that flies in the wind on a long string",
      "chinese": "風箏"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "camp (camping)",
     "answer": "camping",
     "pos": "v.",
-    "definition": "",
+    "definition": "to sleep outside in a tent",
     "chinese": "露營",
     "sentence": "Q: Would you like to go __________ with us this weekend? — A: Yes! Let's sleep under the stars.",
     "translation": "你這個週末想和我們一起去露營嗎？ — 好！我們來睡在星空下吧。",
     "lookup": {
-     "english": "",
+     "english": "to sleep outside in a tent",
      "chinese": "露營"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "picnic",
     "answer": "picnic",
     "pos": "n.",
-    "definition": "",
+    "definition": "a meal that you take and eat outside",
     "chinese": "野餐",
     "sentence": "Q: Would you like to have a __________ with us in the park? — A: Sure. I'll bring some sandwiches.",
     "translation": "你想和我們一起在公園野餐嗎？ — 當然。我會帶一些三明治。",
     "lookup": {
-     "english": "",
+     "english": "a meal that you take and eat outside",
      "chinese": "野餐"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "hike (hiking)",
     "answer": "hiking",
     "pos": "v.",
-    "definition": "",
+    "definition": "to take a long walk in the mountains or the country",
     "chinese": "健行",
     "sentence": "Q: Let's go __________ on the mountain tomorrow. — A: OK. Let's meet at seven in the morning.",
     "translation": "我們明天去山上健行吧。 — 好。我們早上七點見面。",
     "lookup": {
-     "english": "",
+     "english": "to take a long walk in the mountains or the country",
      "chinese": "健行"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "play (playing)",
     "answer": "playing",
     "pos": "v.",
-    "definition": "",
+    "definition": "to have fun with toys or games; to take part in a sport",
     "chinese": "玩；打（球）",
     "sentence": "Q: What are the children doing now? — A: They are __________ in the yard.",
     "translation": "孩子們現在在做什麼？ — 他們正在院子裡玩。",
     "lookup": {
-     "english": "",
+     "english": "to have fun with toys or games; to take part in a sport",
      "chinese": "玩；打（球）"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "game",
     "answer": "game",
     "pos": "n.",
-    "definition": "",
+    "definition": "something you play for fun, often with rules",
     "chinese": "遊戲；比賽",
     "sentence": "Q: What are you doing now? — A: I'm playing a computer __________ with my brother.",
     "translation": "你現在在做什麼？ — 我正在和弟弟玩電腦遊戲。",
     "lookup": {
-     "english": "",
+     "english": "something you play for fun, often with rules",
      "chinese": "遊戲；比賽"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "toy",
     "answer": "toy",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing for children to play with",
     "chinese": "玩具",
     "sentence": "Q: What is the baby doing now? — A: He is playing with his __________ car.",
     "translation": "寶寶現在在做什麼？ — 他正在玩他的玩具車。",
     "lookup": {
-     "english": "",
+     "english": "a thing for children to play with",
      "chinese": "玩具"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "doll (dolls)",
     "answer": "dolls",
     "pos": "n.",
-    "definition": "",
+    "definition": "a toy that looks like a baby or a small person",
     "chinese": "洋娃娃",
     "sentence": "Q: What is your little sister doing now? — A: She is playing with her __________.",
     "translation": "你妹妹現在在做什麼？ — 她正在玩她的洋娃娃。",
     "lookup": {
-     "english": "",
+     "english": "a toy that looks like a baby or a small person",
      "chinese": "洋娃娃"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "card",
     "answer": "card",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of thick paper with words or pictures on it",
     "chinese": "卡片",
     "sentence": "Q: What are you doing now, Amy? — A: I'm making a birthday __________ for Mom.",
     "translation": "艾美，你現在在做什麼？ — 我正在為媽媽做生日卡片。",
     "lookup": {
-     "english": "",
+     "english": "a piece of thick paper with words or pictures on it",
      "chinese": "卡片"
     }
    },
@@ -502,12 +502,12 @@ window.FLASHCARD_UNITS = {
     "word": "fish (fishing)",
     "answer": "fishing",
     "pos": "v.",
-    "definition": "",
+    "definition": "to try to catch fish",
     "chinese": "釣魚",
     "sentence": "Q: What are Dad and Uncle Ben doing now? — A: They are __________ by the river.",
     "translation": "爸爸和班叔叔現在在做什麼？ — 他們正在河邊釣魚。",
     "lookup": {
-     "english": "",
+     "english": "to try to catch fish",
      "chinese": "釣魚"
     }
    },
@@ -515,12 +515,12 @@ window.FLASHCARD_UNITS = {
     "word": "jog (jogging)",
     "answer": "jogging",
     "pos": "v.",
-    "definition": "",
+    "definition": "to run slowly for exercise",
     "chinese": "慢跑",
     "sentence": "Q: What is Mom doing now? — A: She is __________ in the park.",
     "translation": "媽媽現在在做什麼？ — 她正在公園慢跑。",
     "lookup": {
-     "english": "",
+     "english": "to run slowly for exercise",
      "chinese": "慢跑"
     }
    },
@@ -528,12 +528,12 @@ window.FLASHCARD_UNITS = {
     "word": "exercise",
     "answer": "exercise",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move your body to stay strong and healthy",
     "chinese": "運動",
     "sentence": "Q: How often do you __________? — A: Three times a week. It keeps me healthy.",
     "translation": "你多久運動一次？ — 一週三次。它讓我保持健康。",
     "lookup": {
-     "english": "",
+     "english": "to move your body to stay strong and healthy",
      "chinese": "運動"
     }
    },
@@ -541,12 +541,12 @@ window.FLASHCARD_UNITS = {
     "word": "sports",
     "answer": "sports",
     "pos": "n.",
-    "definition": "",
+    "definition": "games like basketball and tennis that people play for exercise and fun",
     "chinese": "運動",
     "sentence": "Q: How often does your brother play __________? — A: He plays every day after school.",
     "translation": "你哥哥多久做一次運動？ — 他每天放學後都運動。",
     "lookup": {
-     "english": "",
+     "english": "games like basketball and tennis that people play for exercise and fun",
      "chinese": "運動"
     }
    },
@@ -554,12 +554,12 @@ window.FLASHCARD_UNITS = {
     "word": "trip",
     "answer": "trip",
     "pos": "n.",
-    "definition": "",
+    "definition": "a visit to a place that is not near your home",
     "chinese": "（短程）旅行",
     "sentence": "Q: How often does your family take a __________? — A: We take one every summer.",
     "translation": "你們家多久去旅行一次？ — 我們每年夏天都去一次。",
     "lookup": {
-     "english": "",
+     "english": "a visit to a place that is not near your home",
      "chinese": "（短程）旅行"
     }
    },
@@ -567,12 +567,12 @@ window.FLASHCARD_UNITS = {
     "word": "band",
     "answer": "band",
     "pos": "n.",
-    "definition": "",
+    "definition": "a group of people who play music together",
     "chinese": "樂團",
     "sentence": "Q: How often does your __________ practice? — A: We practice twice a week, on Mondays and Fridays.",
     "translation": "你的樂團多久練習一次？ — 我們一週練習兩次，在星期一和星期五。",
     "lookup": {
-     "english": "",
+     "english": "a group of people who play music together",
      "chinese": "樂團"
     }
    },
@@ -580,12 +580,12 @@ window.FLASHCARD_UNITS = {
     "word": "team",
     "answer": "team",
     "pos": "n.",
-    "definition": "",
+    "definition": "a group of people who play or work together",
     "chinese": "隊；團隊",
     "sentence": "Q: How often do you and your __________ practice? — A: We practice on Tuesdays and Thursdays.",
     "translation": "你和你的隊友多久練習一次？ — 我們每星期二和星期四練習。",
     "lookup": {
-     "english": "",
+     "english": "a group of people who play or work together",
      "chinese": "隊；團隊"
     }
    },
@@ -593,12 +593,12 @@ window.FLASHCARD_UNITS = {
     "word": "stamp (stamps)",
     "answer": "stamps",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small piece of paper that you put on a letter before you mail it",
     "chinese": "郵票",
     "sentence": "Q: What does your grandpa usually do in his free time? — A: He usually collects __________ from different countries.",
     "translation": "你爺爺空閒時通常做什麼？ — 他通常收集各國的郵票。",
     "lookup": {
-     "english": "",
+     "english": "a small piece of paper that you put on a letter before you mail it",
      "chinese": "郵票"
     }
    },
@@ -606,12 +606,12 @@ window.FLASHCARD_UNITS = {
     "word": "fan",
     "answer": "fan",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who likes a singer, a team, or a sport very much",
     "chinese": "粉絲；狂熱愛好者",
     "sentence": "Q: What do you usually do in your free time? — A: I listen to my favorite singer. I'm a big __________ of her.",
     "translation": "你空閒時通常做什麼？ — 我聽我最喜歡的歌手的歌。我是她的超級粉絲。",
     "lookup": {
-     "english": "",
+     "english": "a person who likes a singer, a team, or a sport very much",
      "chinese": "粉絲；狂熱愛好者"
     }
    },
@@ -619,12 +619,12 @@ window.FLASHCARD_UNITS = {
     "word": "race",
     "answer": "race",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game to see who is the fastest",
     "chinese": "賽跑",
     "sentence": "Q: What do Tom and Ben usually do in their free time? — A: They practice running for the __________ on sports day.",
     "translation": "湯姆和班空閒時通常做什麼？ — 他們練跑步，準備運動會的賽跑。",
     "lookup": {
-     "english": "",
+     "english": "a game to see who is the fastest",
      "chinese": "賽跑"
     }
    },
@@ -632,12 +632,12 @@ window.FLASHCARD_UNITS = {
     "word": "win",
     "answer": "win",
     "pos": "v.",
-    "definition": "",
+    "definition": "to be the first or the best in a game or race",
     "chinese": "贏",
     "sentence": "Q: What does your sister usually do in her free time? — A: She practices the piano. She wants to __________ first prize.",
     "translation": "你姊姊空閒時通常做什麼？ — 她練鋼琴，她想得第一名。",
     "lookup": {
-     "english": "",
+     "english": "to be the first or the best in a game or race",
      "chinese": "贏"
     }
    },
@@ -645,12 +645,12 @@ window.FLASHCARD_UNITS = {
     "word": "lose",
     "answer": "lose",
     "pos": "v.",
-    "definition": "",
+    "definition": "to not win a game",
     "chinese": "輸",
     "sentence": "Q: What do you and your friends usually do in your free time? — A: We play basketball. Sometimes we __________, but we always have fun.",
     "translation": "你和朋友們空閒時通常做什麼？ — 我們打籃球。有時候我們會輸，但總是玩得很開心。",
     "lookup": {
-     "english": "",
+     "english": "to not win a game",
      "chinese": "輸"
     }
    }
@@ -1809,4 +1809,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"careful":["","仔細的"],"wise":["","明智的"],"heavier":["","重的"],"cook":["","煮飯；烹調"],"hobby":["","嗜好"],"singing":["","唱歌"],"songs":["","歌曲"],"music":["","音樂"],"dance":["","跳舞"],"drawing":["","畫圖"],"painting":["","（用顏料）畫圖"],"movies":["","電影"],"comic":["","漫畫的"],"swim":["","游泳"],"surf":["","衝浪"],"sail":["","航行；駕船"],"climb":["","爬；攀登"],"run":["","跑步"],"piano":["","鋼琴"],"violin":["","小提琴"],"guitar":["","吉他"],"drums":["","鼓"],"flute":["","長笛；笛子"],"basketball":["","籃球"],"baseball":["","棒球"],"soccer":["","足球"],"tennis":["","網球"],"badminton":["","羽毛球"],"frisbee":["","飛盤"],"chess":["","西洋棋"],"ball":["","球"],"kite":["","風箏"],"camping":["","露營"],"picnic":["","野餐"],"hiking":["","健行"],"playing":["","玩；打（球）"],"game":["","遊戲；比賽"],"toy":["","玩具"],"dolls":["","洋娃娃"],"card":["","卡片"],"fishing":["","釣魚"],"jogging":["","慢跑"],"exercise":["","運動"],"sports":["","運動"],"trip":["","（短程）旅行"],"band":["","樂團"],"team":["","隊；團隊"],"stamps":["","郵票"],"fan":["","粉絲；狂熱愛好者"],"race":["","賽跑"],"win":["","贏"],"lose":["","輸"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"careful":["thinking about what you do so you do not make mistakes","仔細的"],"wise":["knowing a lot and making good choices","明智的"],"heavier":["weighing a lot","重的"],"cook":["to make food ready to eat by heating it","煮飯；烹調"],"hobby":["something you like to do in your free time","嗜好"],"singing":["to make music with your voice","唱歌"],"songs":["a piece of music with words that you sing","歌曲"],"music":["sounds that people sing or play and that are nice to hear","音樂"],"dance":["to move your body to music","跳舞"],"drawing":["to make a picture with a pen or pencil","畫圖"],"painting":["to make a picture with wet colors and a brush","（用顏料）畫圖"],"movies":["a story with moving pictures that you watch in a theater or on TV","電影"],"comic":["having stories told in pictures","漫畫的"],"swim":["to move through water using your arms and legs","游泳"],"surf":["to ride on big waves in the sea on a board","衝浪"],"sail":["to travel on water in a boat","航行；駕船"],"climb":["to go up something, like a tree or a mountain","爬；攀登"],"run":["to move very fast on your legs","跑步"],"piano":["a big musical instrument with black and white keys","鋼琴"],"violin":["a musical instrument with four strings that you hold under your chin","小提琴"],"guitar":["a musical instrument with six strings that you play with your fingers","吉他"],"drums":["a round musical instrument that you hit with sticks","鼓"],"flute":["a long, thin musical instrument that you blow into","長笛；笛子"],"basketball":["a game in which players throw a big ball into a high net","籃球"],"baseball":["a game in which players hit a small ball with a bat and run","棒球"],"soccer":["a game in which players kick a ball into a goal","足球"],"tennis":["a game in which two or four players hit a small ball over a net","網球"],"badminton":["a game in which players hit a light thing with feathers over a high net","羽毛球"],"frisbee":["a flat plastic ring or plate that people throw to each other for fun","飛盤"],"chess":["a game for two players with kings and queens on a board","西洋棋"],"ball":["a round thing that you throw, kick, or hit in games","球"],"kite":["a toy made of paper or cloth that flies in the wind on a long string","風箏"],"camping":["to sleep outside in a tent","露營"],"picnic":["a meal that you take and eat outside","野餐"],"hiking":["to take a long walk in the mountains or the country","健行"],"playing":["to have fun with toys or games; to take part in a sport","玩；打（球）"],"game":["something you play for fun, often with rules","遊戲；比賽"],"toy":["a thing for children to play with","玩具"],"dolls":["a toy that looks like a baby or a small person","洋娃娃"],"card":["a piece of thick paper with words or pictures on it","卡片"],"fishing":["to try to catch fish","釣魚"],"jogging":["to run slowly for exercise","慢跑"],"exercise":["to move your body to stay strong and healthy","運動"],"sports":["games like basketball and tennis that people play for exercise and fun","運動"],"trip":["a visit to a place that is not near your home","（短程）旅行"],"band":["a group of people who play music together","樂團"],"team":["a group of people who play or work together","隊；團隊"],"stamps":["a small piece of paper that you put on a letter before you mail it","郵票"],"fan":["a person who likes a singer, a team, or a sport very much","粉絲；狂熱愛好者"],"race":["a game to see who is the fastest","賽跑"],"win":["to be the first or the best in a game or race","贏"],"lose":["to not win a game","輸"]});

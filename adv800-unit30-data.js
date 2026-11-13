@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "rubber",
     "pos": "n.",
     "cn_def": "橡膠，橡皮",
-    "en_def": "",
+    "en_def": "strong material that bends and bounces, used for balls and tires",
     "sentence": "The ball is made of {{BLANK}}.",
     "cn": "這個球是橡膠做的。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "rude",
     "pos": "adj.",
     "cn_def": "無禮的，粗魯的",
-    "en_def": "",
+    "en_def": "not polite",
     "sentence": "It is {{BLANK}} to interrupt someone while they are speaking.",
     "cn": "打斷別人說話是不禮貌的。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "ruin",
     "pos": "v.",
     "cn_def": "毀壞，破壞",
-    "en_def": "",
+    "en_def": "to spoil or destroy something completely",
     "sentence": "The storm {{BLANK}} their picnic plans.",
     "cn": "暴風雨破壞了他們的野餐計劃。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "rush",
     "pos": "v.",
     "cn_def": "衝，趕緊",
-    "en_def": "",
+    "en_def": "to go or do something very quickly",
     "sentence": "She had to {{BLANK}} to catch the bus.",
     "cn": "她不得不趕緊去趕公車。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "sailor",
     "pos": "n.",
     "cn_def": "水手，海員",
-    "en_def": "",
+    "en_def": "a person who works on a ship",
     "sentence": "The {{BLANK}} navigated the ship through the storm.",
     "cn": "水手駕船穿越暴風雨。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "sample",
     "pos": "n.",
     "cn_def": "樣品，範例",
-    "en_def": "",
+    "en_def": "a small amount of something that shows what the rest is like",
     "sentence": "She gave me a {{BLANK}} of the product.",
     "cn": "她給了我一個產品樣品。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "sand",
     "pos": "n.",
     "cn_def": "沙，沙灘",
-    "en_def": "",
+    "en_def": "very small grains of rock on beaches and in deserts",
     "sentence": "The beach is covered with white {{BLANK}}.",
     "cn": "海灘上覆蓋著白色的沙。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "satisfy",
     "pos": "v.",
     "cn_def": "滿足，使滿意",
-    "en_def": "",
+    "en_def": "to give someone what they want or need",
     "sentence": "The meal was enough to {{BLANK}} everyone's hunger.",
     "cn": "這頓飯足以滿足每個人的飢餓。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "saucer",
     "pos": "n.",
     "cn_def": "茶碟，托盤",
-    "en_def": "",
+    "en_def": "a small plate that goes under a cup",
     "sentence": "She placed the cup on the {{BLANK}}.",
     "cn": "她把杯子放在茶碟上。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "scarf",
     "pos": "n.",
     "cn_def": "圍巾",
-    "en_def": "",
+    "en_def": "a long piece of cloth that you wear around your neck",
     "sentence": "She wrapped a warm {{BLANK}} around her neck.",
     "cn": "她把一條暖和的圍巾圍在脖子上。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "scene",
     "pos": "n.",
     "cn_def": "場景，景象",
-    "en_def": "",
+    "en_def": "one part of a movie or play that happens in one place",
     "sentence": "The movie has a beautiful {{BLANK}}.",
     "cn": "這部電影有一個美麗的場景。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "scenery",
     "pos": "n.",
     "cn_def": "風景",
-    "en_def": "",
+    "en_def": "the beautiful things in nature that you see in a place",
     "sentence": "The {{BLANK}} from the top of the hill is breathtaking.",
     "cn": "山頂的風景令人驚嘆。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "scientist",
     "pos": "n.",
     "cn_def": "科學家",
-    "en_def": "",
+    "en_def": "a person who studies science",
     "sentence": "She is a renowned {{BLANK}}.",
     "cn": "她是一位著名的科學家。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "score",
     "pos": "n.",
     "cn_def": "分數，得分",
-    "en_def": "",
+    "en_def": "the number of points you get on a test or in a game",
     "sentence": "He got a high {{BLANK}} on the test.",
     "cn": "他在考試中得了高分。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "seafood",
     "pos": "n.",
     "cn_def": "海鮮，海產品",
-    "en_def": "",
+    "en_def": "fish and other sea animals that people eat",
     "sentence": "The restaurant is famous for its {{BLANK}}.",
     "cn": "這家餐廳以其海鮮著稱。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "search",
     "pos": "v.",
     "cn_def": "搜索，尋找",
-    "en_def": "",
+    "en_def": "to look carefully for someone or something",
     "sentence": "They are {{BLANK}} for a new manager.",
     "cn": "他們正在尋找一位新經理。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "secondary",
     "pos": "adj.",
     "cn_def": "次要的，中等的",
-    "en_def": "",
+    "en_def": "(of a school) for students from about 12 to 18 years old",
     "sentence": "He is a {{BLANK}} school teacher.",
     "cn": "他是一名中學教師。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "secret",
     "pos": "n.",
     "cn_def": "秘密",
-    "en_def": "",
+    "en_def": "something that you do not want other people to know",
     "sentence": "She told me a {{BLANK}}.",
     "cn": "她告訴了我一個秘密。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "section",
     "pos": "n.",
     "cn_def": "部分，部門",
-    "en_def": "",
+    "en_def": "one of the parts of something",
     "sentence": "This {{BLANK}} of the book is very interesting.",
     "cn": "這本書的這部分非常有趣。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "seek",
     "pos": "v.",
     "cn_def": "尋找，追求",
-    "en_def": "",
+    "en_def": "to try to find or get something",
     "sentence": "He is {{BLANK}} a new job.",
     "cn": "他正在尋找新工作。"
   }
@@ -414,122 +414,122 @@ const MCQS = [
 const LOOKUP = {
   "female": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "being a woman or a girl",
     "cn_def": "女性的"
   },
   "golden": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very happy and special; having the color of gold",
     "cn_def": "金色的，極好的"
   },
   "impossible": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not able to happen or be done",
     "cn_def": "不可能的"
   },
   "rubber": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "strong material that bends and bounces, used for balls and tires",
     "cn_def": "橡膠，橡皮"
   },
   "rude": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not polite",
     "cn_def": "無禮的，粗魯的"
   },
   "ruined": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to spoil or destroy something completely",
     "cn_def": "毀壞，破壞"
   },
   "rush": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to go or do something very quickly",
     "cn_def": "衝，趕緊"
   },
   "sailor": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who works on a ship",
     "cn_def": "水手，海員"
   },
   "sample": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small amount of something that shows what the rest is like",
     "cn_def": "樣品，範例"
   },
   "sand": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "very small grains of rock on beaches and in deserts",
     "cn_def": "沙，沙灘"
   },
   "satisfy": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to give someone what they want or need",
     "cn_def": "滿足，使滿意"
   },
   "saucer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small plate that goes under a cup",
     "cn_def": "茶碟，托盤"
   },
   "scarf": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a long piece of cloth that you wear around your neck",
     "cn_def": "圍巾"
   },
   "scene": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one part of a movie or play that happens in one place",
     "cn_def": "場景，景象"
   },
   "scenery": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the beautiful things in nature that you see in a place",
     "cn_def": "風景"
   },
   "scientist": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who studies science",
     "cn_def": "科學家"
   },
   "score": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the number of points you get on a test or in a game",
     "cn_def": "分數，得分"
   },
   "seafood": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "fish and other sea animals that people eat",
     "cn_def": "海鮮，海產品"
   },
   "searching": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to look carefully for someone or something",
     "cn_def": "搜索，尋找"
   },
   "secondary": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "(of a school) for students from about 12 to 18 years old",
     "cn_def": "次要的，中等的"
   },
   "secret": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that you do not want other people to know",
     "cn_def": "秘密"
   },
   "section": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of the parts of something",
     "cn_def": "部分，部門"
   },
   "seeking": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to try to find or get something",
     "cn_def": "尋找，追求"
   },
   "violent": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very strong and dangerous",
     "cn_def": "暴力的，猛烈的"
   }
 };

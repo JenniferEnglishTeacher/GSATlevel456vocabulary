@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "evil",
     "pos": "adj.",
     "cn_def": "邪惡的，壞的",
-    "en_def": "",
+    "en_def": "very bad and wanting to hurt people",
     "sentence": "The villain in the story is truly {{BLANK}}.",
     "cn": "故事中的反派真是邪惡。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "exam",
     "pos": "n.",
     "cn_def": "考試",
-    "en_def": "",
+    "en_def": "an important test at school",
     "sentence": "She is studying for her final {{BLANK}}.",
     "cn": "她在為期末考試學習。",
     "alts": [
@@ -29,7 +29,7 @@ const VOCAB = [
     "word": "excite",
     "pos": "v.",
     "cn_def": "使興奮，使激動",
-    "en_def": "",
+    "en_def": "to make someone feel very happy and interested",
     "sentence": "The news {{BLANK}} everyone.",
     "cn": "這個消息讓大家很興奮。"
   },
@@ -37,7 +37,7 @@ const VOCAB = [
     "word": "exist",
     "pos": "v.",
     "cn_def": "存在",
-    "en_def": "",
+    "en_def": "to be real; to be in the world",
     "sentence": "Do you believe that ghosts {{BLANK}}?",
     "cn": "你相信鬼存在嗎？"
   },
@@ -45,7 +45,7 @@ const VOCAB = [
     "word": "exit",
     "pos": "n.",
     "cn_def": "出口",
-    "en_def": "",
+    "en_def": "a door you use to leave a building",
     "sentence": "Please use the nearest {{BLANK}} in case of emergency.",
     "cn": "遇到緊急情況請使用最近的出口。"
   },
@@ -53,7 +53,7 @@ const VOCAB = [
     "word": "expect",
     "pos": "v.",
     "cn_def": "期望，預期",
-    "en_def": "",
+    "en_def": "to think that something will happen",
     "sentence": "We {{BLANK}} good results from the project.",
     "cn": "我們期望這個專案有好的結果。"
   },
@@ -61,7 +61,7 @@ const VOCAB = [
     "word": "express",
     "pos": "v.",
     "cn_def": "表達，表現",
-    "en_def": "",
+    "en_def": "to show a feeling or idea with words or actions",
     "sentence": "She found it difficult to {{BLANK}} her feelings.",
     "cn": "她發現很難表達她的感受。"
   },
@@ -69,7 +69,7 @@ const VOCAB = [
     "word": "extra",
     "pos": "adj.",
     "cn_def": "額外的，附加的",
-    "en_def": "",
+    "en_def": "more than usual",
     "sentence": "He asked for {{BLANK}} help with his homework.",
     "cn": "他請求額外的作業幫助。"
   },
@@ -77,7 +77,7 @@ const VOCAB = [
     "word": "fair",
     "pos": "adj.",
     "cn_def": "公平的，合理的",
-    "en_def": "",
+    "en_def": "treating everyone in the same, right way",
     "sentence": "She always tries to be {{BLANK}}.",
     "cn": "她總是努力做到公平。"
   },
@@ -85,7 +85,7 @@ const VOCAB = [
     "word": "false",
     "pos": "adj.",
     "cn_def": "錯誤的，假的",
-    "en_def": "",
+    "en_def": "not true; not correct",
     "sentence": "The statement he made was {{BLANK}}.",
     "cn": "他所做的聲明是錯誤的。"
   },
@@ -93,7 +93,7 @@ const VOCAB = [
     "word": "fancy",
     "pos": "adj.",
     "cn_def": "花俏的，昂貴的",
-    "en_def": "",
+    "en_def": "special and expensive; not simple",
     "sentence": "She wore a {{BLANK}} dress to the party.",
     "cn": "她穿著一件花俏的連衣裙去參加派對。"
   },
@@ -101,7 +101,7 @@ const VOCAB = [
     "word": "fantastic",
     "pos": "adj.",
     "cn_def": "極好的，奇異的",
-    "en_def": "",
+    "en_def": "very, very good",
     "sentence": "They had a {{BLANK}} time at the amusement park.",
     "cn": "他們在遊樂園玩得很開心。"
   },
@@ -109,7 +109,7 @@ const VOCAB = [
     "word": "fashion",
     "pos": "n.",
     "cn_def": "時尚，流行",
-    "en_def": "",
+    "en_def": "the kind of clothes that are popular at a certain time",
     "sentence": "She is very interested in {{BLANK}}.",
     "cn": "她對時尚很感興趣。"
   },
@@ -117,7 +117,7 @@ const VOCAB = [
     "word": "fault",
     "pos": "n.",
     "cn_def": "錯誤，缺點",
-    "en_def": "",
+    "en_def": "a mistake that you are to blame for",
     "sentence": "It was not her {{BLANK}} that the meeting was delayed.",
     "cn": "會議延誤不是她的錯。"
   },
@@ -125,7 +125,7 @@ const VOCAB = [
     "word": "fear",
     "pos": "n.",
     "cn_def": "恐懼，害怕",
-    "en_def": "",
+    "en_def": "the feeling you have when you are afraid",
     "sentence": "He has a {{BLANK}} of heights.",
     "cn": "他恐高。"
   },
@@ -133,7 +133,7 @@ const VOCAB = [
     "word": "fee",
     "pos": "n.",
     "cn_def": "費用，酬金",
-    "en_def": "",
+    "en_def": "money you pay to enter a place or to get a service",
     "sentence": "The entrance {{BLANK}} is $10.",
     "cn": "入場費是10美元。"
   },
@@ -141,7 +141,7 @@ const VOCAB = [
     "word": "feeling",
     "pos": "n.",
     "cn_def": "感覺，感情",
-    "en_def": "",
+    "en_def": "something that you feel inside, like love or anger",
     "sentence": "She has a warm {{BLANK}} towards her old friends.",
     "cn": "她對她的老朋友有一種溫暖的感覺。"
   },
@@ -149,7 +149,7 @@ const VOCAB = [
     "word": "female",
     "pos": "adj.",
     "cn_def": "女性的",
-    "en_def": "",
+    "en_def": "being a woman or a girl",
     "sentence": "The {{BLANK}} employees were given equal opportunities.",
     "cn": "女性員工獲得了平等的機會。"
   },
@@ -157,7 +157,7 @@ const VOCAB = [
     "word": "fence",
     "pos": "n.",
     "cn_def": "圍欄",
-    "en_def": "",
+    "en_def": "a wall made of wood or wire around a garden or field",
     "sentence": "They built a {{BLANK}} around their garden.",
     "cn": "他們在花園周圍建了一個圍欄。"
   },
@@ -165,7 +165,7 @@ const VOCAB = [
     "word": "film",
     "pos": "n.",
     "cn_def": "影片，電影",
-    "en_def": "",
+    "en_def": "a movie",
     "sentence": "They watched a {{BLANK}} together.",
     "cn": "他們一起看了一部電影。"
   }
@@ -417,102 +417,102 @@ const MCQS = [
 const LOOKUP = {
   "evil": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very bad and wanting to hurt people",
     "cn_def": "邪惡的，壞的"
   },
   "exam": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an important test at school",
     "cn_def": "考試"
   },
   "excited": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make someone feel very happy and interested",
     "cn_def": "使興奮，使激動"
   },
   "exist": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to be real; to be in the world",
     "cn_def": "存在"
   },
   "exit": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a door you use to leave a building",
     "cn_def": "出口"
   },
   "expect": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to think that something will happen",
     "cn_def": "期望，預期"
   },
   "express": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to show a feeling or idea with words or actions",
     "cn_def": "表達，表現"
   },
   "extra": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "more than usual",
     "cn_def": "額外的，附加的"
   },
   "fair": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "treating everyone in the same, right way",
     "cn_def": "公平的，合理的"
   },
   "false": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not true; not correct",
     "cn_def": "錯誤的，假的"
   },
   "fancy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "special and expensive; not simple",
     "cn_def": "花俏的，昂貴的"
   },
   "fantastic": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very, very good",
     "cn_def": "極好的，奇異的"
   },
   "fashion": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the kind of clothes that are popular at a certain time",
     "cn_def": "時尚，流行"
   },
   "fault": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a mistake that you are to blame for",
     "cn_def": "錯誤，缺點"
   },
   "fear": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the feeling you have when you are afraid",
     "cn_def": "恐懼，害怕"
   },
   "fee": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "money you pay to enter a place or to get a service",
     "cn_def": "費用，酬金"
   },
   "feeling": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that you feel inside, like love or anger",
     "cn_def": "感覺，感情"
   },
   "female": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "being a woman or a girl",
     "cn_def": "女性的"
   },
   "fence": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a wall made of wood or wire around a garden or field",
     "cn_def": "圍欄"
   },
   "film": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a movie",
     "cn_def": "影片，電影"
   }
 };

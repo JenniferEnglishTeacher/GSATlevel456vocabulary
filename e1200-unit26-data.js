@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "this",
     "pos": "det.",
     "cn_def": "這個",
-    "en_def": "",
+    "en_def": "the one that is here, near me",
     "sentence": "Q: What is {{BLANK}} in your hand? — A: It's a new watch. My grandpa gives it to me.",
     "cn": "你手上的這個是什麼？ — 它是一支新手錶，我爺爺送給我的。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "that",
     "pos": "det.",
     "cn_def": "那個",
-    "en_def": "",
+    "en_def": "the one that is there, not near me",
     "sentence": "Q: What is {{BLANK}} big building over there? — A: It's the new library. We read books there.",
     "cn": "那邊那棟大建築物是什麼？ — 它是新的圖書館，我們在那裡讀書。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "these",
     "pos": "det.",
     "cn_def": "這些",
-    "en_def": "",
+    "en_def": "the ones that are here, near me",
     "sentence": "Q: Do you like {{BLANK}} shoes? — A: Yes, I do. They are cute and comfortable.",
     "cn": "你喜歡這些（這雙）鞋子嗎？ — 是的，我喜歡。它們很可愛又舒適。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "those",
     "pos": "det.",
     "cn_def": "那些",
-    "en_def": "",
+    "en_def": "the ones that are there, not near me",
     "sentence": "Q: Does your sister want {{BLANK}} cookies over there? — A: Yes, she does. She loves cookies.",
     "cn": "你妹妹想要那邊那些餅乾嗎？ — 是的，她想要。她很愛餅乾。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "my",
     "pos": "det.",
     "cn_def": "我的",
-    "en_def": "",
+    "en_def": "belonging to me",
     "sentence": "Q: Whose eraser is this? — A: It's {{BLANK}} eraser. Thank you.",
     "cn": "這是誰的橡皮擦？ — 是我的橡皮擦，謝謝你。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "your",
     "pos": "det.",
     "cn_def": "你（們）的",
-    "en_def": "",
+    "en_def": "belonging to you",
     "sentence": "Q: Do you like {{BLANK}} new school, Amy? — A: Yes, I do. My classmates are very nice.",
     "cn": "艾美，你喜歡你的新學校嗎？ — 是的，我喜歡。我的同學們都很好。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "his",
     "pos": "det.",
     "cn_def": "他的",
-    "en_def": "",
+    "en_def": "belonging to him",
     "sentence": "Q: Whose bike is this? Is it Tom's? — A: Yes, it is. It's {{BLANK}} new bike. He rides it to school.",
     "cn": "這是誰的腳踏車？是湯姆的嗎？ — 是的，是他的新腳踏車，他騎它去上學。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "her",
     "pos": "det.",
     "cn_def": "她的",
-    "en_def": "",
+    "en_def": "belonging to her",
     "sentence": "Q: Does Amy do {{BLANK}} homework after dinner? — A: Yes, she does. She is a good student.",
     "cn": "艾美晚餐後寫她的功課嗎？ — 是的，她會。她是個好學生。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "its",
     "pos": "det.",
     "cn_def": "牠的；它的",
-    "en_def": "",
+    "en_def": "belonging to it",
     "sentence": "Q: Does your dog like {{BLANK}} new house? — A: Yes, it does. It sleeps in it every night.",
     "cn": "你的狗喜歡牠的新狗屋嗎？ — 是的，牠喜歡。牠每天晚上都睡在裡面。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "our",
     "pos": "det.",
     "cn_def": "我們的",
-    "en_def": "",
+    "en_def": "belonging to us",
     "sentence": "Q: Where do you and Ben have English class? — A: We have it in {{BLANK}} classroom.",
     "cn": "你和班在哪裡上英文課？ — 我們在我們的教室上課。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "their",
     "pos": "det.",
     "cn_def": "他們的",
-    "en_def": "",
+    "en_def": "belonging to them",
     "sentence": "Q: What do your parents do on Sundays? — A: They wash {{BLANK}} car together.",
     "cn": "你爸媽星期天做什麼？ — 他們一起洗他們的車。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "a / an",
     "pos": "art.",
     "cn_def": "一（個）",
-    "en_def": "",
+    "en_def": "one; used before a noun (an before a, e, i, o, u sounds)",
     "sentence": "Q: What does Ben want for lunch? — A: He wants {{BLANK}} apple and a hamburger.",
     "cn": "班午餐想吃什麼？— 他想要一顆蘋果和一個漢堡。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "the",
     "pos": "art.",
     "cn_def": "定冠詞（這；那）",
-    "en_def": "",
+    "en_def": "used before a noun when we know which one",
     "sentence": "Q: What do you see in the sky at night? — A: I see {{BLANK}} moon and many stars.",
     "cn": "你晚上在天空看到什麼？ — 我看到月亮和很多星星。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "every",
     "pos": "det.",
     "cn_def": "每一（個）的",
-    "en_def": "",
+    "en_def": "each one of a group; all",
     "sentence": "Q: How often does Lisa play tennis? — A: She plays tennis {{BLANK}} Sunday.",
     "cn": "麗莎多久打一次網球？ — 她每個星期天打網球。"
   }
@@ -294,92 +294,92 @@ const MCQS = [
 const LOOKUP = {
   "this": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "the one that is here, near me",
     "cn_def": "這個"
   },
   "that": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "the one that is there, not near me",
     "cn_def": "那個"
   },
   "these": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "the ones that are here, near me",
     "cn_def": "這些"
   },
   "those": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "the ones that are there, not near me",
     "cn_def": "那些"
   },
   "my": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "belonging to me",
     "cn_def": "我的"
   },
   "your": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "belonging to you",
     "cn_def": "你（們）的"
   },
   "his": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "belonging to him",
     "cn_def": "他的"
   },
   "her": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "belonging to her",
     "cn_def": "她的"
   },
   "its": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "belonging to it",
     "cn_def": "牠的；它的"
   },
   "our": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "belonging to us",
     "cn_def": "我們的"
   },
   "their": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "belonging to them",
     "cn_def": "他們的"
   },
   "an": {
     "pos": "art.",
-    "en_def": "",
+    "en_def": "one; used before a noun (an before a, e, i, o, u sounds)",
     "cn_def": "一（個）"
   },
   "the": {
     "pos": "art.",
-    "en_def": "",
+    "en_def": "used before a noun when we know which one",
     "cn_def": "定冠詞（這；那）"
   },
   "every": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "each one of a group; all",
     "cn_def": "每一（個）的"
   },
   "who": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "which person",
     "cn_def": "誰"
   },
   "of": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "belonging to; showing what something is about",
     "cn_def": "…的"
   },
   "abroad": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "in or to another country",
     "cn_def": "在國外"
   },
   "really": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "very; truly",
     "cn_def": "真地"
   }
 };

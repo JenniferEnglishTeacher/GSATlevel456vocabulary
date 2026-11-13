@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "time",
     "answer": "time",
     "pos": "n.",
-    "definition": "",
+    "definition": "what we measure in minutes, hours, and days",
     "chinese": "時間",
     "sentence": "Q: What time is it? — A: It's seven thirty. It's __________ to go to school.",
     "translation": "現在幾點？ — 七點半，該去上學了。",
     "lookup": {
-     "english": "",
+     "english": "what we measure in minutes, hours, and days",
      "chinese": "時間"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "clock",
     "answer": "clock",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing on the wall or table that shows the time",
     "chinese": "時鐘",
     "sentence": "Q: What time is it? — A: Look at the __________ on the wall. It's five o'clock.",
     "translation": "現在幾點？ — 看牆上的時鐘，現在五點。",
     "lookup": {
-     "english": "",
+     "english": "a thing on the wall or table that shows the time",
      "chinese": "時鐘"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "watch",
     "answer": "watch",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small clock that you wear on your arm",
     "chinese": "手錶",
     "sentence": "Q: What time is it, Ben? — A: Let me look at my __________. It's four o'clock.",
     "translation": "班，現在幾點？ — 我看一下我的手錶，現在四點。",
     "lookup": {
-     "english": "",
+     "english": "a small clock that you wear on your arm",
      "chinese": "手錶"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "o'clock",
     "answer": "o'clock",
     "pos": "adv.",
-    "definition": "",
+    "definition": "a word used after a number to tell the hour",
     "chinese": "……點鐘",
     "sentence": "Q: What time is it now? — A: It's three __________. Let's go home.",
     "translation": "現在幾點？ — 三點整，我們回家吧。",
     "lookup": {
-     "english": "",
+     "english": "a word used after a number to tell the hour",
      "chinese": "……點鐘"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "half",
     "answer": "half",
     "pos": "n.",
-    "definition": "",
+    "definition": "one of two same-sized parts; thirty minutes",
     "chinese": "一半；半小時",
     "sentence": "Q: What time is it now? — A: It's __________ past six. Dinner is ready.",
     "translation": "現在幾點？ — 六點半，晚餐準備好了。",
     "lookup": {
-     "english": "",
+     "english": "one of two same-sized parts; thirty minutes",
      "chinese": "一半；半小時"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "quarter",
     "answer": "quarter",
     "pos": "n.",
-    "definition": "",
+    "definition": "one of four same-sized parts; fifteen minutes",
     "chinese": "十五分鐘；四分之一",
     "sentence": "Q: What time is it? — A: It's a __________ past two. (2:15)",
     "translation": "現在幾點？ — 兩點十五分。",
     "lookup": {
-     "english": "",
+     "english": "one of four same-sized parts; fifteen minutes",
      "chinese": "十五分鐘；四分之一"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "past",
     "answer": "past",
     "pos": "prep.",
-    "definition": "",
+    "definition": "after (an hour), as in \"ten past eight\"",
     "chinese": "（時間）超過；過了",
     "sentence": "Q: What time is it? — A: It's ten __________ eight. (8:10) We are late!",
     "translation": "現在幾點？ — 八點十分，我們遲到了！",
     "lookup": {
-     "english": "",
+     "english": "after (an hour), as in \"ten past eight\"",
      "chinese": "（時間）超過；過了"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "a.m.",
     "answer": "a.m.",
     "pos": "abbr.",
-    "definition": "",
+    "definition": "in the morning, before twelve noon",
     "chinese": "上午（用在時間後）",
     "sentence": "Q: What time is it in Taipei now? — A: It's 7 __________ People are going to work.",
     "translation": "台北現在幾點？ — 上午七點，人們正要去上班。",
     "lookup": {
-     "english": "",
+     "english": "in the morning, before twelve noon",
      "chinese": "上午（用在時間後）"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "p.m.",
     "answer": "p.m.",
     "pos": "abbr.",
-    "definition": "",
+    "definition": "in the afternoon or at night, after twelve noon",
     "chinese": "下午（用在時間後）",
     "sentence": "Q: What time is it? — A: It's 4 __________ School is over.",
     "translation": "現在幾點？ — 下午四點，放學了。",
     "lookup": {
-     "english": "",
+     "english": "in the afternoon or at night, after twelve noon",
      "chinese": "下午（用在時間後）"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "noon",
     "answer": "noon",
     "pos": "n.",
-    "definition": "",
+    "definition": "twelve o'clock in the middle of the day",
     "chinese": "中午",
     "sentence": "Q: What time is it? — A: It's twelve. It's __________. Let's have lunch.",
     "translation": "現在幾點？ — 十二點，中午了，我們吃午餐吧。",
     "lookup": {
-     "english": "",
+     "english": "twelve o'clock in the middle of the day",
      "chinese": "中午"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "already",
     "answer": "already",
     "pos": "adv.",
-    "definition": "",
+    "definition": "before now; earlier than you thought",
     "chinese": "已經",
     "sentence": "Q: What time is it? — A: It's __________ ten o'clock! Go to bed now.",
     "translation": "現在幾點？ — 已經十點了！現在去睡覺。",
     "lookup": {
-     "english": "",
+     "english": "before now; earlier than you thought",
      "chinese": "已經"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "hour",
     "answer": "hour",
     "pos": "n.",
-    "definition": "",
+    "definition": "sixty minutes",
     "chinese": "小時",
     "sentence": "Q: What time is it? — A: It's eleven. We have one __________ before lunch.",
     "translation": "現在幾點？ — 十一點，午餐前我們還有一個小時。",
     "lookup": {
-     "english": "",
+     "english": "sixty minutes",
      "chinese": "小時"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "minute (minutes)",
     "answer": "minutes",
     "pos": "n.",
-    "definition": "",
+    "definition": "sixty seconds",
     "chinese": "分鐘",
     "sentence": "Q: What time is it? — A: It's 7:55. The bus comes in five __________.",
     "translation": "現在幾點？ — 七點五十五分，公車五分鐘後來。",
     "lookup": {
-     "english": "",
+     "english": "sixty seconds",
      "chinese": "分鐘"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "second (seconds)",
     "answer": "seconds",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very short time; sixty of them make one minute",
     "chinese": "秒",
     "sentence": "Q: What time is it? — A: It's 11:59:50. Only ten __________ to the new year!",
     "translation": "現在幾點？ — 十一點五十九分五十秒，再十秒就新年了！",
     "lookup": {
-     "english": "",
+     "english": "a very short time; sixty of them make one minute",
      "chinese": "秒"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "moment",
     "answer": "moment",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very short time",
     "chinese": "片刻；一會兒",
     "sentence": "Q: What time is it, Mom? — A: Wait a __________. I can't find my phone.",
     "translation": "媽，現在幾點？ — 等一下，我找不到我的手機。",
     "lookup": {
-     "english": "",
+     "english": "a very short time",
      "chinese": "片刻；一會兒"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "Monday",
     "answer": "Monday",
     "pos": "n.",
-    "definition": "",
+    "definition": "the day after Sunday",
     "chinese": "星期一",
     "sentence": "Q: What day is it today? — A: It's __________. A new week starts today.",
     "translation": "今天星期幾？ — 今天星期一，新的一週從今天開始。",
     "lookup": {
-     "english": "",
+     "english": "the day after Sunday",
      "chinese": "星期一"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "Wednesday",
     "answer": "Wednesday",
     "pos": "n.",
-    "definition": "",
+    "definition": "the day after Tuesday",
     "chinese": "星期三",
     "sentence": "Q: What day is it today? — A: It's __________. It's the middle of the week.",
     "translation": "今天星期幾？ — 今天星期三，是一週的中間。",
     "lookup": {
-     "english": "",
+     "english": "the day after Tuesday",
      "chinese": "星期三"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "today",
     "answer": "Today",
     "pos": "n.",
-    "definition": "",
+    "definition": "this day",
     "chinese": "今天",
     "sentence": "Q: What day is it today? — A: __________ is Friday. We have a test.",
     "translation": "今天星期幾？ — 今天星期五，我們有考試。",
     "lookup": {
-     "english": "",
+     "english": "this day",
      "chinese": "今天"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "tomorrow",
     "answer": "Tomorrow",
     "pos": "n.",
-    "definition": "",
+    "definition": "the day after today",
     "chinese": "明天",
     "sentence": "Q: What day is it today? — A: It's Friday. __________ is Saturday. No school!",
     "translation": "今天星期幾？ — 今天星期五，明天星期六，不用上學！",
     "lookup": {
-     "english": "",
+     "english": "the day after today",
      "chinese": "明天"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "yesterday",
     "answer": "Yesterday",
     "pos": "n.",
-    "definition": "",
+    "definition": "the day before today",
     "chinese": "昨天",
     "sentence": "Q: What day is it today? — A: It's Monday. __________ was Sunday.",
     "translation": "今天星期幾？ — 今天星期一，昨天是星期日。",
     "lookup": {
-     "english": "",
+     "english": "the day before today",
      "chinese": "昨天"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "day",
     "answer": "day",
     "pos": "n.",
-    "definition": "",
+    "definition": "twenty-four hours; the time when it is light",
     "chinese": "日子；天",
     "sentence": "Q: What day is it today? — A: It's Sunday. It's my favorite __________ of the week.",
     "translation": "今天星期幾？ — 今天星期日，這是我一週中最喜歡的一天。",
     "lookup": {
-     "english": "",
+     "english": "twenty-four hours; the time when it is light",
      "chinese": "日子；天"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "week",
     "answer": "week",
     "pos": "n.",
-    "definition": "",
+    "definition": "seven days",
     "chinese": "星期；週",
     "sentence": "Q: What day is it today? — A: It's Sunday. It's the first day of the __________.",
     "translation": "今天星期幾？ — 今天星期日，是一週的第一天。",
     "lookup": {
-     "english": "",
+     "english": "seven days",
      "chinese": "星期；週"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "January",
     "answer": "January",
     "pos": "n.",
-    "definition": "",
+    "definition": "the first month of the year",
     "chinese": "一月",
     "sentence": "Q: When is New Year's Day? — A: It's on __________ 1st.",
     "translation": "元旦是什麼時候？ — 在一月一日。",
     "lookup": {
-     "english": "",
+     "english": "the first month of the year",
      "chinese": "一月"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "February",
     "answer": "February",
     "pos": "n.",
-    "definition": "",
+    "definition": "the second month of the year",
     "chinese": "二月",
     "sentence": "Q: When is Valentine's Day? — A: It's on __________ 14th.",
     "translation": "情人節是什麼時候？ — 在二月十四日。",
     "lookup": {
-     "english": "",
+     "english": "the second month of the year",
      "chinese": "二月"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "March",
     "answer": "March",
     "pos": "n.",
-    "definition": "",
+    "definition": "the third month of the year",
     "chinese": "三月",
     "sentence": "Q: When is your sister's sixteenth birthday? — A: It's in __________. She wants a big cake.",
     "translation": "你姊姊的十六歲生日是什麼時候？ — 在三月，她想要一個大蛋糕。",
     "lookup": {
-     "english": "",
+     "english": "the third month of the year",
      "chinese": "三月"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "April",
     "answer": "April",
     "pos": "n.",
-    "definition": "",
+    "definition": "the fourth month of the year",
     "chinese": "四月",
     "sentence": "Q: When is Children's Day in Taiwan? — A: It's on __________ 4th.",
     "translation": "台灣的兒童節是什麼時候？ — 在四月四日。",
     "lookup": {
-     "english": "",
+     "english": "the fourth month of the year",
      "chinese": "四月"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "May",
     "answer": "May",
     "pos": "n.",
-    "definition": "",
+    "definition": "the fifth month of the year",
     "chinese": "五月",
     "sentence": "Q: When is Mother's Day? — A: It's on the second Sunday in __________.",
     "translation": "母親節是什麼時候？ — 在五月的第二個星期日。",
     "lookup": {
-     "english": "",
+     "english": "the fifth month of the year",
      "chinese": "五月"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "June",
     "answer": "June",
     "pos": "n.",
-    "definition": "",
+    "definition": "the sixth month of the year",
     "chinese": "六月",
     "sentence": "Q: When is the Dragon Boat Festival this year? — A: It's in __________. We eat rice dumplings.",
     "translation": "今年端午節是什麼時候？ — 在六月，我們吃粽子。",
     "lookup": {
-     "english": "",
+     "english": "the sixth month of the year",
      "chinese": "六月"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "July",
     "answer": "July",
     "pos": "n.",
-    "definition": "",
+    "definition": "the seventh month of the year",
     "chinese": "七月",
     "sentence": "Q: When is your thirteenth birthday? — A: It's in __________, in the summer vacation.",
     "translation": "你的十三歲生日是什麼時候？ — 在七月，在暑假期間。",
     "lookup": {
-     "english": "",
+     "english": "the seventh month of the year",
      "chinese": "七月"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "August",
     "answer": "August",
     "pos": "n.",
-    "definition": "",
+    "definition": "the eighth month of the year",
     "chinese": "八月",
     "sentence": "Q: When is Father's Day in Taiwan? — A: It's on __________ 8th.",
     "translation": "台灣的父親節是什麼時候？ — 在八月八日。",
     "lookup": {
-     "english": "",
+     "english": "the eighth month of the year",
      "chinese": "八月"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "September",
     "answer": "September",
     "pos": "n.",
-    "definition": "",
+    "definition": "the ninth month of the year",
     "chinese": "九月",
     "sentence": "Q: When is Teacher's Day? — A: It's on __________ 28th.",
     "translation": "教師節是什麼時候？ — 在九月二十八日。",
     "lookup": {
-     "english": "",
+     "english": "the ninth month of the year",
      "chinese": "九月"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "October",
     "answer": "October",
     "pos": "n.",
-    "definition": "",
+    "definition": "the tenth month of the year",
     "chinese": "十月",
     "sentence": "Q: When is Halloween? — A: It's on __________ 31st.",
     "translation": "萬聖節是什麼時候？ — 在十月三十一日。",
     "lookup": {
-     "english": "",
+     "english": "the tenth month of the year",
      "chinese": "十月"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "November",
     "answer": "November",
     "pos": "n.",
-    "definition": "",
+    "definition": "the eleventh month of the year",
     "chinese": "十一月",
     "sentence": "Q: When is Thanksgiving in America? — A: It's in __________. People eat a big dinner.",
     "translation": "美國的感恩節是什麼時候？ — 在十一月，人們吃一頓大餐。",
     "lookup": {
-     "english": "",
+     "english": "the eleventh month of the year",
      "chinese": "十一月"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "December",
     "answer": "December",
     "pos": "n.",
-    "definition": "",
+    "definition": "the twelfth and last month of the year",
     "chinese": "十二月",
     "sentence": "Q: When is Christmas? — A: It's on __________ 25th.",
     "translation": "聖誕節是什麼時候？ — 在十二月二十五日。",
     "lookup": {
-     "english": "",
+     "english": "the twelfth and last month of the year",
      "chinese": "十二月"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "season",
     "answer": "season",
     "pos": "n.",
-    "definition": "",
+    "definition": "one of the four parts of the year, such as spring or winter",
     "chinese": "季節",
     "sentence": "Q: When is your birthday? — A: It's in summer. Summer is my favorite __________.",
     "translation": "你的生日是什麼時候？ — 在夏天，夏天是我最喜歡的季節。",
     "lookup": {
-     "english": "",
+     "english": "one of the four parts of the year, such as spring or winter",
      "chinese": "季節"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "spring",
     "answer": "spring",
     "pos": "n.",
-    "definition": "",
+    "definition": "the season after winter, when flowers start to grow",
     "chinese": "春天",
     "sentence": "Q: When is Sports Day? — A: It's in __________, in April. The flowers are beautiful.",
     "translation": "運動會是什麼時候？ — 在春天，在四月。花很漂亮。",
     "lookup": {
-     "english": "",
+     "english": "the season after winter, when flowers start to grow",
      "chinese": "春天"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "summer",
     "answer": "summer",
     "pos": "n.",
-    "definition": "",
+    "definition": "the hottest season of the year",
     "chinese": "夏天",
     "sentence": "Q: When is your brother's eighteenth birthday? — A: It's in __________, in August. It's very hot.",
     "translation": "你哥哥的十八歲生日是什麼時候？ — 在夏天，在八月。天氣很熱。",
     "lookup": {
-     "english": "",
+     "english": "the hottest season of the year",
      "chinese": "夏天"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "autumn (fall)",
     "answer": "autumn",
     "pos": "n.",
-    "definition": "",
+    "definition": "the season after summer, when leaves fall from trees",
     "chinese": "秋天",
     "sentence": "Q: When is the Moon Festival? — A: It's in __________, in September or October.",
     "translation": "中秋節是什麼時候？ — 在秋天，在九月或十月。",
     "lookup": {
-     "english": "",
+     "english": "the season after summer, when leaves fall from trees",
      "chinese": "秋天"
     }
    },
@@ -502,12 +502,12 @@ window.FLASHCARD_UNITS = {
     "word": "winter",
     "answer": "winter",
     "pos": "n.",
-    "definition": "",
+    "definition": "the coldest season of the year",
     "chinese": "冬天",
     "sentence": "Q: When is Chinese New Year? — A: It's in __________, in January or February.",
     "translation": "農曆新年是什麼時候？ — 在冬天，在一月或二月。",
     "lookup": {
-     "english": "",
+     "english": "the coldest season of the year",
      "chinese": "冬天"
     }
    },
@@ -515,12 +515,12 @@ window.FLASHCARD_UNITS = {
     "word": "Saturday",
     "answer": "Saturday",
     "pos": "n.",
-    "definition": "",
+    "definition": "the day after Friday",
     "chinese": "星期六",
     "sentence": "Q: What does Tom do on weekends? — A: He plays basketball on __________ mornings.",
     "translation": "湯姆週末做什麼？ — 他星期六早上打籃球。",
     "lookup": {
-     "english": "",
+     "english": "the day after Friday",
      "chinese": "星期六"
     }
    },
@@ -528,12 +528,12 @@ window.FLASHCARD_UNITS = {
     "word": "Sunday",
     "answer": "Sunday",
     "pos": "n.",
-    "definition": "",
+    "definition": "the day after Saturday",
     "chinese": "星期日",
     "sentence": "Q: What do you and your family do on weekends? — A: We go to church on __________.",
     "translation": "你和你的家人週末做什麼？ — 我們星期日去教會。",
     "lookup": {
-     "english": "",
+     "english": "the day after Saturday",
      "chinese": "星期日"
     }
    },
@@ -541,12 +541,12 @@ window.FLASHCARD_UNITS = {
     "word": "weekend",
     "answer": "weekend",
     "pos": "n.",
-    "definition": "",
+    "definition": "Saturday and Sunday",
     "chinese": "週末",
     "sentence": "Q: What does your dad do on Saturdays? — A: He doesn't work on the __________. He sleeps late.",
     "translation": "你爸爸星期六做什麼？ — 他週末不用工作，他睡得很晚。",
     "lookup": {
-     "english": "",
+     "english": "Saturday and Sunday",
      "chinese": "週末"
     }
    },
@@ -554,12 +554,12 @@ window.FLASHCARD_UNITS = {
     "word": "morning",
     "answer": "morning",
     "pos": "n.",
-    "definition": "",
+    "definition": "the early part of the day, before noon",
     "chinese": "早上",
     "sentence": "Q: What does Amy do on Sundays? — A: She goes jogging in the park in the __________.",
     "translation": "艾美星期日做什麼？ — 她早上去公園慢跑。",
     "lookup": {
-     "english": "",
+     "english": "the early part of the day, before noon",
      "chinese": "早上"
     }
    },
@@ -567,12 +567,12 @@ window.FLASHCARD_UNITS = {
     "word": "afternoon",
     "answer": "afternoon",
     "pos": "n.",
-    "definition": "",
+    "definition": "the part of the day between noon and evening",
     "chinese": "下午",
     "sentence": "Q: What do your classmates do on Fridays? — A: They play soccer in the __________ after class.",
     "translation": "你的同學星期五做什麼？ — 他們下午下課後踢足球。",
     "lookup": {
-     "english": "",
+     "english": "the part of the day between noon and evening",
      "chinese": "下午"
     }
    },
@@ -580,12 +580,12 @@ window.FLASHCARD_UNITS = {
     "word": "evening",
     "answer": "evening",
     "pos": "n.",
-    "definition": "",
+    "definition": "the part of the day between afternoon and night",
     "chinese": "傍晚；晚上",
     "sentence": "Q: What does your mom do on Mondays? — A: She takes a cooking class in the __________, after dinner.",
     "translation": "你媽媽星期一做什麼？ — 她傍晚吃完晚餐後去上烹飪課。",
     "lookup": {
-     "english": "",
+     "english": "the part of the day between afternoon and night",
      "chinese": "傍晚；晚上"
     }
    },
@@ -593,12 +593,12 @@ window.FLASHCARD_UNITS = {
     "word": "night",
     "answer": "night",
     "pos": "n.",
-    "definition": "",
+    "definition": "the time when it is dark and people sleep",
     "chinese": "夜晚；晚上",
     "sentence": "Q: What do you do on Saturdays? — A: I watch movies with my family at __________.",
     "translation": "你星期六做什麼？ — 我晚上和家人一起看電影。",
     "lookup": {
-     "english": "",
+     "english": "the time when it is dark and people sleep",
      "chinese": "夜晚；晚上"
     }
    },
@@ -606,12 +606,12 @@ window.FLASHCARD_UNITS = {
     "word": "Tuesday",
     "answer": "Tuesday",
     "pos": "n.",
-    "definition": "",
+    "definition": "the day after Monday",
     "chinese": "星期二",
     "sentence": "Q: When does Lisa have art class? — A: She has art class on __________.",
     "translation": "麗莎什麼時候上美術課？ — 她星期二上美術課。",
     "lookup": {
-     "english": "",
+     "english": "the day after Monday",
      "chinese": "星期二"
     }
    },
@@ -619,12 +619,12 @@ window.FLASHCARD_UNITS = {
     "word": "Thursday",
     "answer": "Thursday",
     "pos": "n.",
-    "definition": "",
+    "definition": "the day after Wednesday",
     "chinese": "星期四",
     "sentence": "Q: When do you have music class? — A: I have music class on __________.",
     "translation": "你什麼時候上音樂課？ — 我星期四上音樂課。",
     "lookup": {
-     "english": "",
+     "english": "the day after Wednesday",
      "chinese": "星期四"
     }
    },
@@ -632,12 +632,12 @@ window.FLASHCARD_UNITS = {
     "word": "Friday",
     "answer": "Friday",
     "pos": "n.",
-    "definition": "",
+    "definition": "the day after Thursday",
     "chinese": "星期五",
     "sentence": "Q: When do Ben and Tom have PE class? — A: They have PE class on __________ afternoon.",
     "translation": "班和湯姆什麼時候上體育課？ — 他們星期五下午上體育課。",
     "lookup": {
-     "english": "",
+     "english": "the day after Thursday",
      "chinese": "星期五"
     }
    },
@@ -645,12 +645,12 @@ window.FLASHCARD_UNITS = {
     "word": "now",
     "answer": "now",
     "pos": "adv.",
-    "definition": "",
+    "definition": "at this time",
     "chinese": "現在",
     "sentence": "Q: When do we have math class? — A: We have it __________! Hurry up!",
     "translation": "我們什麼時候上數學課？ — 現在就是！快點！",
     "lookup": {
-     "english": "",
+     "english": "at this time",
      "chinese": "現在"
     }
    },
@@ -658,12 +658,12 @@ window.FLASHCARD_UNITS = {
     "word": "soon",
     "answer": "soon",
     "pos": "adv.",
-    "definition": "",
+    "definition": "a short time from now",
     "chinese": "很快；不久",
     "sentence": "Q: When does Tim have science class? — A: He has it __________, in five minutes.",
     "translation": "提姆什麼時候上自然課？ — 很快，再五分鐘就上了。",
     "lookup": {
-     "english": "",
+     "english": "a short time from now",
      "chinese": "很快；不久"
     }
    },
@@ -671,12 +671,12 @@ window.FLASHCARD_UNITS = {
     "word": "later",
     "answer": "later",
     "pos": "adv.",
-    "definition": "",
+    "definition": "at a time after now",
     "chinese": "稍後；等一下",
     "sentence": "Q: When does Amy have social studies class? — A: She has it __________ today, after lunch.",
     "translation": "艾美什麼時候上社會課？ — 她今天稍後上，在午餐後。",
     "lookup": {
-     "english": "",
+     "english": "at a time after now",
      "chinese": "稍後；等一下"
     }
    },
@@ -684,12 +684,12 @@ window.FLASHCARD_UNITS = {
     "word": "early",
     "answer": "early",
     "pos": "adv.",
-    "definition": "",
+    "definition": "before the usual time; near the start of the day",
     "chinese": "早；早的",
     "sentence": "Q: When do the students have Chinese class? — A: They have it __________ in the morning, at eight.",
     "translation": "學生們什麼時候上國文課？ — 他們早上很早就上，在八點。",
     "lookup": {
-     "english": "",
+     "english": "before the usual time; near the start of the day",
      "chinese": "早；早的"
     }
    },
@@ -697,12 +697,12 @@ window.FLASHCARD_UNITS = {
     "word": "late",
     "answer": "late",
     "pos": "adv.",
-    "definition": "",
+    "definition": "after the usual time; near the end of the day",
     "chinese": "晚；晚的",
     "sentence": "Q: When does your brother have English class? — A: He has it __________ in the afternoon, at four o'clock.",
     "translation": "你弟弟什麼時候上英文課？ — 他下午很晚才上，在四點。",
     "lookup": {
-     "english": "",
+     "english": "after the usual time; near the end of the day",
      "chinese": "晚；晚的"
     }
    },
@@ -710,12 +710,12 @@ window.FLASHCARD_UNITS = {
     "word": "year",
     "answer": "year",
     "pos": "n.",
-    "definition": "",
+    "definition": "twelve months",
     "chinese": "年",
     "sentence": "Q: When does your family go to Japan? — A: We go there every __________, in July.",
     "translation": "你家什麼時候去日本？ — 我們每年七月去那裡。",
     "lookup": {
-     "english": "",
+     "english": "twelve months",
      "chinese": "年"
     }
    },
@@ -723,12 +723,12 @@ window.FLASHCARD_UNITS = {
     "word": "month",
     "answer": "month",
     "pos": "n.",
-    "definition": "",
+    "definition": "one of the twelve parts of a year",
     "chinese": "月；月份",
     "sentence": "Q: When does your aunt visit you? — A: She visits us on the first day of every __________.",
     "translation": "你阿姨什麼時候來看你們？ — 她每個月的第一天來看我們。",
     "lookup": {
-     "english": "",
+     "english": "one of the twelve parts of a year",
      "chinese": "月；月份"
     }
    },
@@ -736,12 +736,12 @@ window.FLASHCARD_UNITS = {
     "word": "once",
     "answer": "once",
     "pos": "adv.",
-    "definition": "",
+    "definition": "one time",
     "chinese": "一次",
     "sentence": "Q: How often does Grandma call you? — A: She calls me __________ a week, on Sunday night.",
     "translation": "奶奶多久打電話給你一次？ — 她一週打一次，在星期日晚上。",
     "lookup": {
-     "english": "",
+     "english": "one time",
      "chinese": "一次"
     }
    },
@@ -749,12 +749,12 @@ window.FLASHCARD_UNITS = {
     "word": "tonight",
     "answer": "tonight",
     "pos": "adv.",
-    "definition": "",
+    "definition": "the night of today",
     "chinese": "今晚",
     "sentence": "Q: When do we have the party? — A: We have it __________, at seven o'clock.",
     "translation": "我們什麼時候開派對？ — 今晚，七點。",
     "lookup": {
-     "english": "",
+     "english": "the night of today",
      "chinese": "今晚"
     }
    },
@@ -762,12 +762,12 @@ window.FLASHCARD_UNITS = {
     "word": "next",
     "answer": "next",
     "pos": "adj.",
-    "definition": "",
+    "definition": "coming right after this one",
     "chinese": "下一個的",
     "sentence": "Q: When is the English test? — A: It's __________ Friday. Let's study together.",
     "translation": "英文考試是什麼時候？ — 下星期五，我們一起讀書吧。",
     "lookup": {
-     "english": "",
+     "english": "coming right after this one",
      "chinese": "下一個的"
     }
    },
@@ -775,12 +775,12 @@ window.FLASHCARD_UNITS = {
     "word": "last",
     "answer": "last",
     "pos": "adj.",
-    "definition": "",
+    "definition": "the one before this one; most recent",
     "chinese": "上一個的；最近的",
     "sentence": "Q: When was Ben's birthday party? — A: It was __________ Sunday. It was fun.",
     "translation": "班的生日派對是什麼時候？ — 上星期日，很好玩。",
     "lookup": {
-     "english": "",
+     "english": "the one before this one; most recent",
      "chinese": "上一個的；最近的"
     }
    },
@@ -788,12 +788,12 @@ window.FLASHCARD_UNITS = {
     "word": "ago",
     "answer": "ago",
     "pos": "adv.",
-    "definition": "",
+    "definition": "before now; in the past",
     "chinese": "……以前",
     "sentence": "Q: When was Tom in Japan? — A: He was there two years __________.",
     "translation": "湯姆什麼時候在日本？ — 他兩年前在那裡。",
     "lookup": {
-     "english": "",
+     "english": "before now; in the past",
      "chinese": "……以前"
     }
    },
@@ -801,12 +801,12 @@ window.FLASHCARD_UNITS = {
     "word": "future",
     "answer": "future",
     "pos": "n.",
-    "definition": "",
+    "definition": "the time that will come after now",
     "chinese": "未來",
     "sentence": "Q: When can people live on the moon? — A: Maybe in the __________.",
     "translation": "人們什麼時候可以住在月球上？ — 也許在未來。",
     "lookup": {
-     "english": "",
+     "english": "the time that will come after now",
      "chinese": "未來"
     }
    }
@@ -2241,4 +2241,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"mr.":["","先生（加姓）"],"mrs.":["","太太"],"last":["","最後的"],"time":["","時間"],"clock":["","時鐘"],"watch":["","手錶"],"o'clock":["","……點鐘"],"half":["","一半；半小時"],"quarter":["","十五分鐘；四分之一"],"past":["","（時間）超過；過了"],"a.m.":["","上午（用在時間後）"],"p.m.":["","下午（用在時間後）"],"noon":["","中午"],"already":["","已經"],"hour":["","小時"],"minutes":["","分鐘"],"seconds":["","秒"],"moment":["","片刻；一會兒"],"monday":["","星期一"],"wednesday":["","星期三"],"today":["","今天"],"tomorrow":["","明天"],"yesterday":["","昨天"],"day":["","日子；天"],"week":["","星期；週"],"january":["","一月"],"february":["","二月"],"march":["","三月"],"april":["","四月"],"may":["","五月"],"june":["","六月"],"july":["","七月"],"august":["","八月"],"september":["","九月"],"october":["","十月"],"november":["","十一月"],"december":["","十二月"],"season":["","季節"],"spring":["","春天"],"summer":["","夏天"],"autumn":["","秋天"],"winter":["","冬天"],"saturday":["","星期六"],"sunday":["","星期日"],"weekend":["","週末"],"morning":["","早上"],"afternoon":["","下午"],"evening":["","傍晚；晚上"],"night":["","夜晚；晚上"],"tuesday":["","星期二"],"thursday":["","星期四"],"friday":["","星期五"],"now":["","現在"],"soon":["","很快；不久"],"later":["","稍後；等一下"],"early":["","早；早的"],"late":["","晚；晚的"],"year":["","年"],"month":["","月；月份"],"once":["","一次"],"tonight":["","今晚"],"next":["","下一個的"],"ago":["","……以前"],"future":["","未來"],"thirsty":["","口渴的"],"brown":["","棕色（的）"],"clear":["","晴朗的；清澈的"],"inside":["","在…內部"],"behind":["","在…後面"],"around":["","在…四周"],"sure":["","確定的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"mr.":["a word used before a man's family name","先生（加姓）"],"mrs.":["a word used before a married woman's family name","太太"],"last":["coming after all the others","最後的"],"time":["what we measure in minutes, hours, and days","時間"],"clock":["a thing on the wall or table that shows the time","時鐘"],"watch":["a small clock that you wear on your arm","手錶"],"o'clock":["a word used after a number to tell the hour","……點鐘"],"half":["one of two same-sized parts; thirty minutes","一半；半小時"],"quarter":["one of four same-sized parts; fifteen minutes","十五分鐘；四分之一"],"past":["after (an hour), as in \"ten past eight\"","（時間）超過；過了"],"a.m.":["in the morning, before twelve noon","上午（用在時間後）"],"p.m.":["in the afternoon or at night, after twelve noon","下午（用在時間後）"],"noon":["twelve o'clock in the middle of the day","中午"],"already":["before now; earlier than you thought","已經"],"hour":["sixty minutes","小時"],"minutes":["sixty seconds","分鐘"],"seconds":["a very short time; sixty of them make one minute","秒"],"moment":["a very short time","片刻；一會兒"],"monday":["the day after Sunday","星期一"],"wednesday":["the day after Tuesday","星期三"],"today":["this day","今天"],"tomorrow":["the day after today","明天"],"yesterday":["the day before today","昨天"],"day":["twenty-four hours; the time when it is light","日子；天"],"week":["seven days","星期；週"],"january":["the first month of the year","一月"],"february":["the second month of the year","二月"],"march":["the third month of the year","三月"],"april":["the fourth month of the year","四月"],"may":["the fifth month of the year","五月"],"june":["the sixth month of the year","六月"],"july":["the seventh month of the year","七月"],"august":["the eighth month of the year","八月"],"september":["the ninth month of the year","九月"],"october":["the tenth month of the year","十月"],"november":["the eleventh month of the year","十一月"],"december":["the twelfth and last month of the year","十二月"],"season":["one of the four parts of the year, such as spring or winter","季節"],"spring":["the season after winter, when flowers start to grow","春天"],"summer":["the hottest season of the year","夏天"],"autumn":["the season after summer, when leaves fall from trees","秋天"],"winter":["the coldest season of the year","冬天"],"saturday":["the day after Friday","星期六"],"sunday":["the day after Saturday","星期日"],"weekend":["Saturday and Sunday","週末"],"morning":["the early part of the day, before noon","早上"],"afternoon":["the part of the day between noon and evening","下午"],"evening":["the part of the day between afternoon and night","傍晚；晚上"],"night":["the time when it is dark and people sleep","夜晚；晚上"],"tuesday":["the day after Monday","星期二"],"thursday":["the day after Wednesday","星期四"],"friday":["the day after Thursday","星期五"],"now":["at this time","現在"],"soon":["a short time from now","很快；不久"],"later":["at a time after now","稍後；等一下"],"early":["before the usual time; near the start of the day","早；早的"],"late":["after the usual time; near the end of the day","晚；晚的"],"year":["twelve months","年"],"month":["one of the twelve parts of a year","月；月份"],"once":["one time","一次"],"tonight":["the night of today","今晚"],"next":["coming right after this one","下一個的"],"ago":["before now; in the past","……以前"],"future":["the time that will come after now","未來"],"thirsty":["wanting to drink","口渴的"],"brown":["the color of chocolate and wood","棕色（的）"],"clear":["with no clouds; easy to see through","晴朗的；清澈的"],"inside":["in the inner part of something","在…內部"],"behind":["at the back of something","在…後面"],"around":["on all sides of something","在…四周"],"sure":["knowing that something is true","確定的"]});

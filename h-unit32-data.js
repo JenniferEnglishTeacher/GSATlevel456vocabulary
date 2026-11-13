@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "sincere",
     "answer": "sincere",
     "pos": "adj.",
-    "definition": "",
+    "definition": "really meaning what you say; honest",
     "chinese": "真誠的，誠懇的",
     "sentence": "He gave a __________ apology.",
     "translation": "他真誠地道歉。",
     "lookup": {
-     "english": "",
+     "english": "really meaning what you say; honest",
      "chinese": "真誠的，誠懇的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "single",
     "answer": "single",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not married; only one",
     "chinese": "單一的，單身的",
     "sentence": "She is a __________ mother.",
     "translation": "她是一位單親媽媽。",
     "lookup": {
-     "english": "",
+     "english": "not married; only one",
      "chinese": "單一的，單身的"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "sink",
     "answer": "sink",
     "pos": "v.",
-    "definition": "",
+    "definition": "to go down under water",
     "chinese": "下沉，沉沒",
     "sentence": "The boat began to __________.",
     "translation": "船開始下沉。",
     "lookup": {
-     "english": "",
+     "english": "to go down under water",
      "chinese": "下沉，沉沒"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "skate",
     "answer": "skate",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move on ice wearing special shoes",
     "chinese": "滑冰，溜冰",
     "sentence": "They like to __________ in the winter.",
     "translation": "他們喜歡冬天滑冰。",
     "lookup": {
-     "english": "",
+     "english": "to move on ice wearing special shoes",
      "chinese": "滑冰，溜冰"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "ski",
     "answer": "skiing",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move over snow on two long, thin boards",
     "chinese": "滑雪",
     "sentence": "He went __________ in the mountains.",
     "translation": "他去山上滑雪。",
     "lookup": {
-     "english": "",
+     "english": "to move over snow on two long, thin boards",
      "chinese": "滑雪"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "skill",
     "answer": "skills",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that you can do well because you have practiced",
     "chinese": "技能，本領",
     "sentence": "She has great culinary __________.",
     "translation": "她有很棒的烹飪技能。",
     "lookup": {
-     "english": "",
+     "english": "something that you can do well because you have practiced",
      "chinese": "技能，本領"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "skillful",
     "answer": "skillful",
     "pos": "adj.",
-    "definition": "",
+    "definition": "good at doing something",
     "chinese": "熟練的，靈巧的",
     "sentence": "He is very __________ with his hands.",
     "translation": "他的手很靈巧。",
     "lookup": {
-     "english": "",
+     "english": "good at doing something",
      "chinese": "熟練的，靈巧的"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "skin",
     "answer": "skin",
     "pos": "n.",
-    "definition": "",
+    "definition": "the outside cover of your body",
     "chinese": "皮膚，外皮",
     "sentence": "She has fair __________.",
     "translation": "她的皮膚很白皙。",
     "lookup": {
-     "english": "",
+     "english": "the outside cover of your body",
      "chinese": "皮膚，外皮"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "skinny",
     "answer": "skinny",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very thin",
     "chinese": "瘦的，皮包骨的",
     "sentence": "The stray dog looked very __________.",
     "translation": "那隻流浪狗看起來很瘦。",
     "lookup": {
-     "english": "",
+     "english": "very thin",
      "chinese": "瘦的，皮包骨的"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "sleepy",
     "answer": "sleepy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "tired and wanting to sleep",
     "chinese": "想睡的，困倦的",
     "sentence": "She felt __________ after the long day.",
     "translation": "經過漫長的一天，她感到很困倦。",
     "lookup": {
-     "english": "",
+     "english": "tired and wanting to sleep",
      "chinese": "想睡的，困倦的"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "slender",
     "answer": "slender",
     "pos": "adj.",
-    "definition": "",
+    "definition": "thin in a nice way",
     "chinese": "苗條的，纖細的",
     "sentence": "She has a __________ figure.",
     "translation": "她的身材很苗條。",
     "lookup": {
-     "english": "",
+     "english": "thin in a nice way",
      "chinese": "苗條的，纖細的"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "slice",
     "answer": "slices",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thin flat piece cut from something",
     "chinese": "薄片，切片",
     "sentence": "She cut the bread into thick __________.",
     "translation": "她把麵包切成厚片。",
     "lookup": {
-     "english": "",
+     "english": "a thin flat piece cut from something",
      "chinese": "薄片，切片"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "slippers",
     "answer": "slippers",
     "pos": "n.",
-    "definition": "",
+    "definition": "soft shoes that you wear inside the house",
     "chinese": "拖鞋",
     "sentence": "She wore __________ around the house.",
     "translation": "她在家裡穿拖鞋。",
     "lookup": {
-     "english": "",
+     "english": "soft shoes that you wear inside the house",
      "chinese": "拖鞋"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "snail",
     "answer": "snail",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small animal with a shell on its back that moves very slowly",
     "chinese": "蝸牛",
     "sentence": "The __________ moved slowly across the ground.",
     "translation": "蝸牛慢慢地在地上爬行。",
     "lookup": {
-     "english": "",
+     "english": "a small animal with a shell on its back that moves very slowly",
      "chinese": "蝸牛"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "sneakers",
     "answer": "sneakers",
     "pos": "n.",
-    "definition": "",
+    "definition": "soft shoes for running and sports",
     "chinese": "運動鞋，球鞋",
     "sentence": "He bought a new pair of __________.",
     "translation": "他買了一雙新運動鞋。",
     "lookup": {
-     "english": "",
+     "english": "soft shoes for running and sports",
      "chinese": "運動鞋，球鞋"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "sneaky",
     "answer": "sneaky",
     "pos": "adj.",
-    "definition": "",
+    "definition": "doing things in a secret way that is not honest",
     "chinese": "鬼鬼祟祟的，偷偷摸摸的",
     "sentence": "He took a __________ glance at the answers.",
     "translation": "他偷偷看了一眼答案。",
     "lookup": {
-     "english": "",
+     "english": "doing things in a secret way that is not honest",
      "chinese": "鬼鬼祟祟的，偷偷摸摸的"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "snowman",
     "answer": "snowman",
     "pos": "n.",
-    "definition": "",
+    "definition": "a figure of a person made of snow",
     "chinese": "雪人",
     "sentence": "The children built a __________ in the yard.",
     "translation": "孩子們在院子裡堆了一個雪人。",
     "lookup": {
-     "english": "",
+     "english": "a figure of a person made of snow",
      "chinese": "雪人"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "soap",
     "answer": "soap",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that you use with water to wash your hands and body",
     "chinese": "肥皂",
     "sentence": "She washed her hands with __________.",
     "translation": "她用肥皂洗手。",
     "lookup": {
-     "english": "",
+     "english": "something that you use with water to wash your hands and body",
      "chinese": "肥皂"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "social",
     "answer": "social",
     "pos": "adj.",
-    "definition": "",
+    "definition": "liking to be with other people",
     "chinese": "社會的，社交的",
     "sentence": "He is very __________ and enjoys meeting new people.",
     "translation": "他很擅長社交，喜歡結識新朋友。",
     "lookup": {
-     "english": "",
+     "english": "liking to be with other people",
      "chinese": "社會的，社交的"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "society",
     "answer": "society",
     "pos": "n.",
-    "definition": "",
+    "definition": "all the people who live together in a country or area",
     "chinese": "社會",
     "sentence": "They studied the structure of __________.",
     "translation": "他們研究社會結構。",
     "lookup": {
-     "english": "",
+     "english": "all the people who live together in a country or area",
      "chinese": "社會"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"beat":["","擊打，跳動"],"searching":["","搜索，尋找"],"serve":["","服務，提供"],"sincere":["","真誠的，誠懇的"],"single":["","單一的，單身的"],"sink":["","下沉，沉沒"],"skate":["","滑冰，溜冰"],"skiing":["","滑雪"],"skills":["","技能，本領"],"skillful":["","熟練的，靈巧的"],"skin":["","皮膚，外皮"],"skinny":["","瘦的，皮包骨的"],"sleepy":["","想睡的，困倦的"],"slender":["","苗條的，纖細的"],"slices":["","薄片，切片"],"slippers":["","拖鞋"],"snail":["","蝸牛"],"sneakers":["","運動鞋，球鞋"],"sneaky":["","鬼鬼祟祟的，偷偷摸摸的"],"snowman":["","雪人"],"soap":["","肥皂"],"social":["","社會的，社交的"],"society":["","社會"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"beat":["to hit again and again; to make a regular sound","擊打，跳動"],"searching":["to look carefully for someone or something","搜索，尋找"],"serve":["to give food or drinks to people","服務，提供"],"sincere":["really meaning what you say; honest","真誠的，誠懇的"],"single":["not married; only one","單一的，單身的"],"sink":["to go down under water","下沉，沉沒"],"skate":["to move on ice wearing special shoes","滑冰，溜冰"],"skiing":["to move over snow on two long, thin boards","滑雪"],"skills":["something that you can do well because you have practiced","技能，本領"],"skillful":["good at doing something","熟練的，靈巧的"],"skin":["the outside cover of your body","皮膚，外皮"],"skinny":["very thin","瘦的，皮包骨的"],"sleepy":["tired and wanting to sleep","想睡的，困倦的"],"slender":["thin in a nice way","苗條的，纖細的"],"slices":["a thin flat piece cut from something","薄片，切片"],"slippers":["soft shoes that you wear inside the house","拖鞋"],"snail":["a small animal with a shell on its back that moves very slowly","蝸牛"],"sneakers":["soft shoes for running and sports","運動鞋，球鞋"],"sneaky":["doing things in a secret way that is not honest","鬼鬼祟祟的，偷偷摸摸的"],"snowman":["a figure of a person made of snow","雪人"],"soap":["something that you use with water to wash your hands and body","肥皂"],"social":["liking to be with other people","社會的，社交的"],"society":["all the people who live together in a country or area","社會"]});

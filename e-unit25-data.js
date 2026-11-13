@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "lion",
     "answer": "lion",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big wild cat; the male has long hair around its head",
     "chinese": "獅子",
     "sentence": "Q: What animal is it? It is the king of the animals. — A: It's a __________. It has a big head and a lot of hair.",
     "translation": "這是什麼動物？牠是萬獸之王。 — 牠是獅子，牠有大大的頭和很多毛。",
     "lookup": {
-     "english": "",
+     "english": "a big wild cat; the male has long hair around its head",
      "chinese": "獅子"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "tiger",
     "answer": "tiger",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big wild cat with orange fur and black stripes",
     "chinese": "老虎",
     "sentence": "Q: What animal is it? It has black and orange lines. — A: It's a __________. It can run very fast.",
     "translation": "這是什麼動物？牠身上有黑色和橘色的條紋。 — 牠是老虎，牠可以跑得很快。",
     "lookup": {
-     "english": "",
+     "english": "a big wild cat with orange fur and black stripes",
      "chinese": "老虎"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "bear",
     "answer": "bear",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big, strong wild animal with thick fur",
     "chinese": "熊",
     "sentence": "Q: What animal is it? It is big and brown. It likes honey. — A: It's a __________. Don't go near it.",
     "translation": "這是什麼動物？牠又大又是棕色的，牠喜歡蜂蜜。 — 牠是熊，不要靠近牠。",
     "lookup": {
-     "english": "",
+     "english": "a big, strong wild animal with thick fur",
      "chinese": "熊"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "fox",
     "answer": "fox",
     "pos": "n.",
-    "definition": "",
+    "definition": "a wild animal like a small dog with a big thick tail",
     "chinese": "狐狸",
     "sentence": "Q: What animal is it? It looks like a dog, and it is very smart. — A: It's a __________. It has a big tail.",
     "translation": "這是什麼動物？牠看起來像狗，而且很聰明。 — 牠是狐狸，牠有一條大尾巴。",
     "lookup": {
-     "english": "",
+     "english": "a wild animal like a small dog with a big thick tail",
      "chinese": "狐狸"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "elephant",
     "answer": "elephant",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very big gray animal with a long nose and big ears",
     "chinese": "大象",
     "sentence": "Q: What animal is it? It has a long nose and big ears. — A: It's an __________. It is very big and heavy.",
     "translation": "這是什麼動物？牠有長鼻子和大耳朵。 — 牠是大象，牠又大又重。",
     "lookup": {
-     "english": "",
+     "english": "a very big gray animal with a long nose and big ears",
      "chinese": "大象"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "hippo",
     "answer": "hippo",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big, heavy animal with short legs that lives in rivers in Africa",
     "chinese": "河馬",
     "sentence": "Q: What animal is it? It has a big mouth and lives in the river. — A: It's a __________. It is fat and heavy.",
     "translation": "這是什麼動物？牠有一張大嘴巴，住在河裡。 — 牠是河馬，牠又胖又重。",
     "lookup": {
-     "english": "",
+     "english": "a big, heavy animal with short legs that lives in rivers in Africa",
      "chinese": "河馬"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "zebra (zebras)",
     "answer": "zebras",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal like a horse with black and white stripes",
     "chinese": "斑馬",
     "sentence": "Q: What animals are they? They are black and white. — A: They are __________. They look like horses.",
     "translation": "這些是什麼動物？牠們是黑白相間的。 — 牠們是斑馬，牠們看起來像馬。",
     "lookup": {
-     "english": "",
+     "english": "an animal like a horse with black and white stripes",
      "chinese": "斑馬"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "monkey (monkeys)",
     "answer": "monkeys",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal with a long tail that climbs trees",
     "chinese": "猴子",
     "sentence": "Q: What animals are they? They like bananas. — A: They are __________. They can climb trees.",
     "translation": "這些是什麼動物？牠們喜歡香蕉。 — 牠們是猴子，牠們會爬樹。",
     "lookup": {
-     "english": "",
+     "english": "an animal with a long tail that climbs trees",
      "chinese": "猴子"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "kangaroo",
     "answer": "kangaroo",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal from Australia that jumps and carries its baby in a pocket",
     "chinese": "袋鼠",
     "sentence": "Q: What animal is it? It can jump very high. — A: It's a __________. It has a baby in its pocket.",
     "translation": "這是什麼動物？牠可以跳得很高。 — 牠是袋鼠，牠的口袋裡有一隻寶寶。",
     "lookup": {
-     "english": "",
+     "english": "an animal from Australia that jumps and carries its baby in a pocket",
      "chinese": "袋鼠"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "koala",
     "answer": "koala",
     "pos": "n.",
-    "definition": "",
+    "definition": "a gray animal from Australia that lives in trees and looks like a small bear",
     "chinese": "無尾熊",
     "sentence": "Q: What animal is it? It sleeps in the tree all day. — A: It's a __________. It looks like a little bear.",
     "translation": "這是什麼動物？牠整天在樹上睡覺。 — 牠是無尾熊，牠看起來像一隻小熊。",
     "lookup": {
-     "english": "",
+     "english": "a gray animal from Australia that lives in trees and looks like a small bear",
      "chinese": "無尾熊"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "dragon",
     "answer": "dragon",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big animal in stories that has wings and can breathe fire",
     "chinese": "龍",
     "sentence": "Q: What animal is it? It can fly, and it is in many Chinese stories. — A: It's a __________. It isn't a real animal.",
     "translation": "這是什麼動物？牠會飛，而且出現在很多中國故事裡。 — 牠是龍，牠不是真的動物。",
     "lookup": {
-     "english": "",
+     "english": "a big animal in stories that has wings and can breathe fire",
      "chinese": "龍"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "rabbit",
     "answer": "rabbit",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small animal with long ears that hops",
     "chinese": "兔子",
     "sentence": "Q: What does a __________ look like? — A: It has long ears and a short tail. It eats vegetables.",
     "translation": "兔子長什麼樣子？ — 牠有長耳朵和短尾巴，牠吃蔬菜。",
     "lookup": {
-     "english": "",
+     "english": "a small animal with long ears that hops",
      "chinese": "兔子"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "tail",
     "answer": "tail",
     "pos": "n.",
-    "definition": "",
+    "definition": "the long part at the back end of an animal's body",
     "chinese": "尾巴",
     "sentence": "Q: What does your dog look like? — A: It's white, and it has a long __________.",
     "translation": "你的狗長什麼樣子？ — 牠是白色的，有一條長尾巴。",
     "lookup": {
-     "english": "",
+     "english": "the long part at the back end of an animal's body",
      "chinese": "尾巴"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "mouse (mice)",
     "answer": "mice",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very small animal with a long tail that likes cheese",
     "chinese": "老鼠",
     "sentence": "Q: What do __________ look like? — A: They are small and gray. They have long tails.",
     "translation": "老鼠長什麼樣子？ — 牠們小小的、灰色的，有長長的尾巴。",
     "lookup": {
-     "english": "",
+     "english": "a very small animal with a long tail that likes cheese",
      "chinese": "老鼠"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "rat (rats)",
     "answer": "rats",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal like a mouse, but bigger",
     "chinese": "（大）老鼠",
     "sentence": "Q: What do __________ look like? — A: They look like big mice. They are dirty.",
     "translation": "大老鼠長什麼樣子？ — 牠們看起來像大隻的老鼠，牠們很髒。",
     "lookup": {
-     "english": "",
+     "english": "an animal like a mouse, but bigger",
      "chinese": "（大）老鼠"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "cow",
     "answer": "cow",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big farm animal that gives us milk",
     "chinese": "母牛",
     "sentence": "Q: What does a __________ look like? — A: It is black and white. It gives us milk.",
     "translation": "母牛長什麼樣子？ — 牠是黑白色的，牠給我們牛奶。",
     "lookup": {
-     "english": "",
+     "english": "a big farm animal that gives us milk",
      "chinese": "母牛"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "ox",
     "answer": "ox",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big, strong male cow that pulls heavy things on a farm",
     "chinese": "公牛",
     "sentence": "Q: What does an __________ look like? — A: It is big and strong. It helps farmers.",
     "translation": "公牛長什麼樣子？ — 牠又大又強壯，牠幫助農夫。",
     "lookup": {
-     "english": "",
+     "english": "a big, strong male cow that pulls heavy things on a farm",
      "chinese": "公牛"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "horse (horses)",
     "answer": "horses",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big animal that people ride",
     "chinese": "馬",
     "sentence": "Q: What do __________ look like? — A: They are tall, and they have long legs. They run fast.",
     "translation": "馬長什麼樣子？ — 牠們很高，有長長的腿，牠們跑得很快。",
     "lookup": {
-     "english": "",
+     "english": "a big animal that people ride",
      "chinese": "馬"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "pig",
     "answer": "pig",
     "pos": "n.",
-    "definition": "",
+    "definition": "a fat farm animal with a flat nose and a short tail",
     "chinese": "豬",
     "sentence": "Q: What does a __________ look like? — A: It is pink and fat. It has a short tail.",
     "translation": "豬長什麼樣子？ — 牠是粉紅色的、胖胖的，有一條短尾巴。",
     "lookup": {
-     "english": "",
+     "english": "a fat farm animal with a flat nose and a short tail",
      "chinese": "豬"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "goat (goats)",
     "answer": "goats",
     "pos": "n.",
-    "definition": "",
+    "definition": "a farm animal with horns and a little beard",
     "chinese": "山羊",
     "sentence": "Q: What do __________ look like? — A: They are white. They live on the hill and eat grass.",
     "translation": "山羊長什麼樣子？ — 牠們是白色的，牠們住在山丘上吃草。",
     "lookup": {
-     "english": "",
+     "english": "a farm animal with horns and a little beard",
      "chinese": "山羊"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "sheep (sheep)",
     "answer": "sheep",
     "pos": "n.",
-    "definition": "",
+    "definition": "a farm animal with thick wool",
     "chinese": "綿羊",
     "sentence": "Q: What do __________ look like? — A: They are white and soft. They eat grass on the farm.",
     "translation": "綿羊長什麼樣子？ — 牠們白白的、軟軟的，在農場吃草。",
     "lookup": {
-     "english": "",
+     "english": "a farm animal with thick wool",
      "chinese": "綿羊"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "bird (birds)",
     "answer": "birds",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal with wings and feathers",
     "chinese": "鳥",
     "sentence": "Q: Can __________ fly? — A: Yes, they can. They fly in the sky.",
     "translation": "鳥會飛嗎？ — 會，牠們在天空飛。",
     "lookup": {
-     "english": "",
+     "english": "an animal with wings and feathers",
      "chinese": "鳥"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "bat",
     "answer": "bat",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small animal like a mouse with wings that flies at night",
     "chinese": "蝙蝠",
     "sentence": "Q: Can a __________ fly? — A: Yes, it can. It flies at night.",
     "translation": "蝙蝠會飛嗎？ — 會，牠在晚上飛。",
     "lookup": {
-     "english": "",
+     "english": "a small animal like a mouse with wings that flies at night",
      "chinese": "蝙蝠"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "bee (bees)",
     "answer": "bees",
     "pos": "n.",
-    "definition": "",
+    "definition": "a yellow and black insect that makes honey",
     "chinese": "蜜蜂",
     "sentence": "Q: Can __________ fly? — A: Yes, they can. They make honey.",
     "translation": "蜜蜂會飛嗎？ — 會，牠們會製造蜂蜜。",
     "lookup": {
-     "english": "",
+     "english": "a yellow and black insect that makes honey",
      "chinese": "蜜蜂"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "butterfly",
     "answer": "butterfly",
     "pos": "n.",
-    "definition": "",
+    "definition": "an insect with big, colorful wings",
     "chinese": "蝴蝶",
     "sentence": "Q: Can the __________ fly? — A: Yes, it can. It is flying over the flowers.",
     "translation": "這隻蝴蝶會飛嗎？ — 會，牠正在花朵上方飛。",
     "lookup": {
-     "english": "",
+     "english": "an insect with big, colorful wings",
      "chinese": "蝴蝶"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "duck",
     "answer": "duck",
     "pos": "n.",
-    "definition": "",
+    "definition": "a bird that swims and says \"quack\"",
     "chinese": "鴨",
     "sentence": "Q: Can a __________ swim? — A: Yes, it can. It swims in the pond.",
     "translation": "鴨子會游泳嗎？ — 會，牠在池塘裡游泳。",
     "lookup": {
-     "english": "",
+     "english": "a bird that swims and says \"quack\"",
      "chinese": "鴨"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "goose (geese)",
     "answer": "geese",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big bird like a duck with a long neck",
     "chinese": "鵝",
     "sentence": "Q: Can __________ swim? — A: Yes, they can. They swim in the lake.",
     "translation": "鵝會游泳嗎？ — 會，牠們在湖裡游泳。",
     "lookup": {
-     "english": "",
+     "english": "a big bird like a duck with a long neck",
      "chinese": "鵝"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "fish (fish)",
     "answer": "fish",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal that lives and swims in water",
     "chinese": "魚",
     "sentence": "Q: Can __________ fly? — A: No, they can't. But they can swim.",
     "translation": "魚會飛嗎？ — 不會，但是牠們會游泳。",
     "lookup": {
-     "english": "",
+     "english": "an animal that lives and swims in water",
      "chinese": "魚"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "frog",
     "answer": "frog",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small green animal that jumps and lives near water",
     "chinese": "青蛙",
     "sentence": "Q: Can a __________ swim? — A: Yes, it can. It can jump, too.",
     "translation": "青蛙會游泳嗎？ — 會，牠也會跳。",
     "lookup": {
-     "english": "",
+     "english": "a small green animal that jumps and lives near water",
      "chinese": "青蛙"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "turtle",
     "answer": "turtle",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal with a hard shell on its back that moves slowly",
     "chinese": "烏龜",
     "sentence": "Q: Can a __________ run fast? — A: No, it can't. It walks very slowly.",
     "translation": "烏龜可以跑得很快嗎？ — 不行，牠走得很慢。",
     "lookup": {
-     "english": "",
+     "english": "an animal with a hard shell on its back that moves slowly",
      "chinese": "烏龜"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "snake",
     "answer": "snake",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long, thin animal with no legs",
     "chinese": "蛇",
     "sentence": "Q: Can a __________ walk? — A: No, it can't. It has no legs.",
     "translation": "蛇會走路嗎？ — 不會，牠沒有腳。",
     "lookup": {
-     "english": "",
+     "english": "a long, thin animal with no legs",
      "chinese": "蛇"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "insect",
     "answer": "insect",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very small animal with six legs, like an ant or a bee",
     "chinese": "昆蟲",
     "sentence": "Q: How many legs does an __________ have? — A: It has six legs.",
     "translation": "昆蟲有幾隻腳？ — 牠有六隻腳。",
     "lookup": {
-     "english": "",
+     "english": "a very small animal with six legs, like an ant or a bee",
      "chinese": "昆蟲"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "ant (ants)",
     "answer": "ants",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very small insect that lives in big groups",
     "chinese": "螞蟻",
     "sentence": "Q: How many legs do __________ have? — A: They have six legs. They are insects.",
     "translation": "螞蟻有幾隻腳？ — 牠們有六隻腳，牠們是昆蟲。",
     "lookup": {
-     "english": "",
+     "english": "a very small insect that lives in big groups",
      "chinese": "螞蟻"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "bug (bugs)",
     "answer": "bugs",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small insect",
     "chinese": "小蟲",
     "sentence": "Q: How many legs do they have? — A: These little __________ have six legs.",
     "translation": "牠們有幾隻腳？ — 這些小蟲有六隻腳。",
     "lookup": {
-     "english": "",
+     "english": "a small insect",
      "chinese": "小蟲"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "spider",
     "answer": "spider",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small animal with eight legs that makes a web",
     "chinese": "蜘蛛",
     "sentence": "Q: How many legs does a __________ have? — A: It has eight legs. It isn't an insect.",
     "translation": "蜘蛛有幾隻腳？ — 牠有八隻腳，牠不是昆蟲。",
     "lookup": {
-     "english": "",
+     "english": "a small animal with eight legs that makes a web",
      "chinese": "蜘蛛"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "chicken (chickens)",
     "answer": "chickens",
     "pos": "n.",
-    "definition": "",
+    "definition": "a farm bird that people keep for eggs and meat",
     "chinese": "雞；小雞",
     "sentence": "Q: How many legs do __________ have? — A: They have two legs. They can't fly well.",
     "translation": "雞有幾隻腳？ — 牠們有兩隻腳，牠們飛不太好。",
     "lookup": {
-     "english": "",
+     "english": "a farm bird that people keep for eggs and meat",
      "chinese": "雞；小雞"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "hen (hens)",
     "answer": "hens",
     "pos": "n.",
-    "definition": "",
+    "definition": "a female chicken",
     "chinese": "母雞",
     "sentence": "Q: How many hens does your grandpa have? — A: He has ten __________. They give us eggs.",
     "translation": "你爺爺有幾隻母雞？ — 他有十隻母雞，牠們給我們蛋。",
     "lookup": {
-     "english": "",
+     "english": "a female chicken",
      "chinese": "母雞"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "animal",
     "answer": "animal",
     "pos": "n.",
-    "definition": "",
+    "definition": "a living thing that can move, like a dog, a bird, or a fish",
     "chinese": "動物",
     "sentence": "Q: What __________ do you like best? — A: I like dogs best. They are friendly.",
     "translation": "你最喜歡什麼動物？ — 我最喜歡狗，牠們很友善。",
     "lookup": {
-     "english": "",
+     "english": "a living thing that can move, like a dog, a bird, or a fish",
      "chinese": "動物"
     }
    },
@@ -502,12 +502,12 @@ window.FLASHCARD_UNITS = {
     "word": "pet",
     "answer": "pet",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal that you keep at home",
     "chinese": "寵物",
     "sentence": "Q: Do you have a __________? — A: Yes, I do. I have a little cat.",
     "translation": "你有養寵物嗎？ — 有，我養了一隻小貓。",
     "lookup": {
-     "english": "",
+     "english": "an animal that you keep at home",
      "chinese": "寵物"
     }
    },
@@ -515,12 +515,12 @@ window.FLASHCARD_UNITS = {
     "word": "cat (cats)",
     "answer": "cats",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small pet animal that says \"meow\"",
     "chinese": "貓",
     "sentence": "Q: What animal does your sister like? — A: She likes __________. She has a black one.",
     "translation": "你姊姊喜歡什麼動物？ — 她喜歡貓，她有一隻黑貓。",
     "lookup": {
-     "english": "",
+     "english": "a small pet animal that says \"meow\"",
      "chinese": "貓"
     }
    },
@@ -528,12 +528,12 @@ window.FLASHCARD_UNITS = {
     "word": "dog",
     "answer": "dog",
     "pos": "n.",
-    "definition": "",
+    "definition": "a pet animal that barks",
     "chinese": "狗",
     "sentence": "Q: Does Tom have a pet? — A: Yes, he does. He has a __________. It's very friendly.",
     "translation": "湯姆有養寵物嗎？ — 有，他養了一隻狗，牠很友善。",
     "lookup": {
-     "english": "",
+     "english": "a pet animal that barks",
      "chinese": "狗"
     }
    },
@@ -541,12 +541,12 @@ window.FLASHCARD_UNITS = {
     "word": "puppy",
     "answer": "puppy",
     "pos": "n.",
-    "definition": "",
+    "definition": "a baby dog",
     "chinese": "小狗",
     "sentence": "Q: Does Amy like her new __________? — A: Yes, she does. It's very cute.",
     "translation": "艾美喜歡她的新小狗嗎？ — 喜歡，牠非常可愛。",
     "lookup": {
-     "english": "",
+     "english": "a baby dog",
      "chinese": "小狗"
     }
    },
@@ -554,12 +554,12 @@ window.FLASHCARD_UNITS = {
     "word": "cage",
     "answer": "cage",
     "pos": "n.",
-    "definition": "",
+    "definition": "a box made of bars for keeping birds or animals in",
     "chinese": "籠子",
     "sentence": "Q: Where do you keep your bird? — A: I keep it in a __________.",
     "translation": "你把你的鳥養在哪裡？ — 我把牠養在籠子裡。",
     "lookup": {
-     "english": "",
+     "english": "a box made of bars for keeping birds or animals in",
      "chinese": "籠子"
     }
    },
@@ -567,12 +567,12 @@ window.FLASHCARD_UNITS = {
     "word": "bite",
     "answer": "bite",
     "pos": "v.",
-    "definition": "",
+    "definition": "to cut something with your teeth",
     "chinese": "咬",
     "sentence": "Q: Does your dog __________? — A: No, it doesn't. It never bites people.",
     "translation": "你的狗會咬人嗎？ — 不會，牠從不咬人。",
     "lookup": {
-     "english": "",
+     "english": "to cut something with your teeth",
      "chinese": "咬"
     }
    }
@@ -1593,4 +1593,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"fish":["","魚；魚肉"],"cook":["","煮飯；烹調"],"run":["","跑步"],"lion":["","獅子"],"tiger":["","老虎"],"bear":["","熊"],"fox":["","狐狸"],"elephant":["","大象"],"hippo":["","河馬"],"zebras":["","斑馬"],"monkeys":["","猴子"],"kangaroo":["","袋鼠"],"koala":["","無尾熊"],"dragon":["","龍"],"rabbit":["","兔子"],"tail":["","尾巴"],"mice":["","老鼠"],"rats":["","（大）老鼠"],"cow":["","母牛"],"ox":["","公牛"],"horses":["","馬"],"pig":["","豬"],"goats":["","山羊"],"sheep":["","綿羊"],"birds":["","鳥"],"bat":["","蝙蝠"],"bees":["","蜜蜂"],"butterfly":["","蝴蝶"],"duck":["","鴨"],"geese":["","鵝"],"frog":["","青蛙"],"turtle":["","烏龜"],"snake":["","蛇"],"insect":["","昆蟲"],"ants":["","螞蟻"],"bugs":["","小蟲"],"spider":["","蜘蛛"],"chickens":["","雞；小雞"],"hens":["","母雞"],"animal":["","動物"],"pet":["","寵物"],"cats":["","貓"],"dog":["","狗"],"puppy":["","小狗"],"cage":["","籠子"],"bite":["","咬"],"fell":["","跌倒；落下"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"fish":["an animal that lives in water; its meat","魚；魚肉"],"cook":["to make food ready to eat by heating it","煮飯；烹調"],"run":["to move very fast on your legs","跑步"],"lion":["a big wild cat; the male has long hair around its head","獅子"],"tiger":["a big wild cat with orange fur and black stripes","老虎"],"bear":["a big, strong wild animal with thick fur","熊"],"fox":["a wild animal like a small dog with a big thick tail","狐狸"],"elephant":["a very big gray animal with a long nose and big ears","大象"],"hippo":["a big, heavy animal with short legs that lives in rivers in Africa","河馬"],"zebras":["an animal like a horse with black and white stripes","斑馬"],"monkeys":["an animal with a long tail that climbs trees","猴子"],"kangaroo":["an animal from Australia that jumps and carries its baby in a pocket","袋鼠"],"koala":["a gray animal from Australia that lives in trees and looks like a small bear","無尾熊"],"dragon":["a big animal in stories that has wings and can breathe fire","龍"],"rabbit":["a small animal with long ears that hops","兔子"],"tail":["the long part at the back end of an animal's body","尾巴"],"mice":["a very small animal with a long tail that likes cheese","老鼠"],"rats":["an animal like a mouse, but bigger","（大）老鼠"],"cow":["a big farm animal that gives us milk","母牛"],"ox":["a big, strong male cow that pulls heavy things on a farm","公牛"],"horses":["a big animal that people ride","馬"],"pig":["a fat farm animal with a flat nose and a short tail","豬"],"goats":["a farm animal with horns and a little beard","山羊"],"sheep":["a farm animal with thick wool","綿羊"],"birds":["an animal with wings and feathers","鳥"],"bat":["a small animal like a mouse with wings that flies at night","蝙蝠"],"bees":["a yellow and black insect that makes honey","蜜蜂"],"butterfly":["an insect with big, colorful wings","蝴蝶"],"duck":["a bird that swims and says \"quack\"","鴨"],"geese":["a big bird like a duck with a long neck","鵝"],"frog":["a small green animal that jumps and lives near water","青蛙"],"turtle":["an animal with a hard shell on its back that moves slowly","烏龜"],"snake":["a long, thin animal with no legs","蛇"],"insect":["a very small animal with six legs, like an ant or a bee","昆蟲"],"ants":["a very small insect that lives in big groups","螞蟻"],"bugs":["a small insect","小蟲"],"spider":["a small animal with eight legs that makes a web","蜘蛛"],"chickens":["a farm bird that people keep for eggs and meat","雞；小雞"],"hens":["a female chicken","母雞"],"animal":["a living thing that can move, like a dog, a bird, or a fish","動物"],"pet":["an animal that you keep at home","寵物"],"cats":["a small pet animal that says \"meow\"","貓"],"dog":["a pet animal that barks","狗"],"puppy":["a baby dog","小狗"],"cage":["a box made of bars for keeping birds or animals in","籠子"],"bite":["to cut something with your teeth","咬"],"fell":["to drop down to the ground","跌倒；落下"]});

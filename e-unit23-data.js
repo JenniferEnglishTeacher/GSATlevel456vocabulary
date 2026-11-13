@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "weather",
     "answer": "weather",
     "pos": "n.",
-    "definition": "",
+    "definition": "how hot, cold, wet, or dry it is outside",
     "chinese": "天氣",
     "sentence": "Q: How's the __________ today? — A: It's nice. Let's go out and play.",
     "translation": "今天天氣如何？ — 天氣很好，我們出去玩吧。",
     "lookup": {
-     "english": "",
+     "english": "how hot, cold, wet, or dry it is outside",
      "chinese": "天氣"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "sunny",
     "answer": "sunny",
     "pos": "adj.",
-    "definition": "",
+    "definition": "bright with a lot of sun",
     "chinese": "晴朗的",
     "sentence": "Q: How's the weather in Kaohsiung today? — A: It's __________. Let's go to the beach.",
     "translation": "高雄今天天氣如何？ — 天氣晴朗，我們去海邊吧。",
     "lookup": {
-     "english": "",
+     "english": "bright with a lot of sun",
      "chinese": "晴朗的"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "clear",
     "answer": "clear",
     "pos": "adj.",
-    "definition": "",
+    "definition": "with no clouds; easy to see through",
     "chinese": "晴朗的；清澈的",
     "sentence": "Q: How's the weather this morning? — A: It's __________. We can see Taipei 101 from here.",
     "translation": "今天早上天氣如何？ — 天氣晴朗，我們從這裡就看得到台北101。",
     "lookup": {
-     "english": "",
+     "english": "with no clouds; easy to see through",
      "chinese": "晴朗的；清澈的"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "cloudy",
     "answer": "cloudy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "with many clouds in the sky",
     "chinese": "多雲的",
     "sentence": "Q: How's the weather in Taichung? — A: It's __________ and gray.",
     "translation": "台中天氣如何？ — 多雲、灰灰的。",
     "lookup": {
-     "english": "",
+     "english": "with many clouds in the sky",
      "chinese": "多雲的"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "rainy",
     "answer": "rainy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "with a lot of rain",
     "chinese": "下雨的",
     "sentence": "Q: How's the weather today, Mom? — A: It's __________. Take your umbrella.",
     "translation": "媽，今天天氣如何？ — 在下雨，帶你的雨傘。",
     "lookup": {
-     "english": "",
+     "english": "with a lot of rain",
      "chinese": "下雨的"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "windy",
     "answer": "windy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "with a lot of wind",
     "chinese": "多風的",
     "sentence": "Q: How's the weather at the beach? — A: It's __________. Let's fly a kite.",
     "translation": "海邊天氣如何？ — 風很大，我們來放風箏吧。",
     "lookup": {
-     "english": "",
+     "english": "with a lot of wind",
      "chinese": "多風的"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "snowy",
     "answer": "snowy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "with a lot of snow",
     "chinese": "下雪的",
     "sentence": "Q: How's the weather in Japan today? — A: It's __________. The mountains are all white.",
     "translation": "日本今天天氣如何？ — 在下雪，山都變成白色的了。",
     "lookup": {
-     "english": "",
+     "english": "with a lot of snow",
      "chinese": "下雪的"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "hot",
     "answer": "hot",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having a high temperature; not cold",
     "chinese": "熱的",
     "sentence": "Q: What's the weather like in Taiwan in summer? — A: It's very __________. We often go swimming.",
     "translation": "台灣夏天的天氣怎麼樣？ — 非常熱，我們常常去游泳。",
     "lookup": {
-     "english": "",
+     "english": "having a high temperature; not cold",
      "chinese": "熱的"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "warm",
     "answer": "warm",
     "pos": "adj.",
-    "definition": "",
+    "definition": "a little hot, in a nice way",
     "chinese": "溫暖的",
     "sentence": "Q: What's the weather like in spring? — A: It's __________. Many flowers come out.",
     "translation": "春天的天氣怎麼樣？ — 很溫暖，很多花都開了。",
     "lookup": {
-     "english": "",
+     "english": "a little hot, in a nice way",
      "chinese": "溫暖的"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "cool",
     "answer": "cool",
     "pos": "adj.",
-    "definition": "",
+    "definition": "a little cold, in a nice way",
     "chinese": "涼爽的",
     "sentence": "Q: What's the weather like in fall? — A: It's __________. It's a good time for hiking.",
     "translation": "秋天的天氣怎麼樣？ — 很涼爽，是健行的好時節。",
     "lookup": {
-     "english": "",
+     "english": "a little cold, in a nice way",
      "chinese": "涼爽的"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "cold",
     "answer": "cold",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having a low temperature; not hot",
     "chinese": "寒冷的",
     "sentence": "Q: What's the weather like here in winter? — A: It's __________. Wear your coat.",
     "translation": "這裡冬天的天氣怎麼樣？ — 很冷，穿上你的大衣。",
     "lookup": {
-     "english": "",
+     "english": "having a low temperature; not hot",
      "chinese": "寒冷的"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "dry",
     "answer": "dry",
     "pos": "adj.",
-    "definition": "",
+    "definition": "with no water or rain; not wet",
     "chinese": "乾的；乾燥的",
     "sentence": "Q: What's the weather like in Tainan in fall? — A: It's __________. There isn't much water in the river.",
     "translation": "台南秋天的天氣怎麼樣？ — 很乾燥，河裡沒什麼水。",
     "lookup": {
-     "english": "",
+     "english": "with no water or rain; not wet",
      "chinese": "乾的；乾燥的"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "wet",
     "answer": "wet",
     "pos": "adj.",
-    "definition": "",
+    "definition": "covered with water; not dry",
     "chinese": "濕的",
     "sentence": "Q: What's the weather like in Keelung in winter? — A: It's very __________. People always carry umbrellas.",
     "translation": "基隆冬天的天氣怎麼樣？ — 很潮濕，人們總是帶著雨傘。",
     "lookup": {
-     "english": "",
+     "english": "covered with water; not dry",
      "chinese": "濕的"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "rain",
     "answer": "rain",
     "pos": "v.",
-    "definition": "",
+    "definition": "when water falls from the clouds",
     "chinese": "下雨",
     "sentence": "Q: Does it often __________ in Keelung? — A: Yes, it does. Take an umbrella with you.",
     "translation": "基隆常常下雨嗎？ — 是的，常常下。帶把傘吧。",
     "lookup": {
-     "english": "",
+     "english": "when water falls from the clouds",
      "chinese": "下雨"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "shower",
     "answer": "shower",
     "pos": "n.",
-    "definition": "",
+    "definition": "a short rain; washing your body under falling water",
     "chinese": "陣雨；淋浴",
     "sentence": "Q: Is it going to rain today? — A: Yes, it is. There's going to be a __________ this afternoon.",
     "translation": "今天會下雨嗎？ — 會，今天下午會有一場陣雨。",
     "lookup": {
-     "english": "",
+     "english": "a short rain; washing your body under falling water",
      "chinese": "陣雨；淋浴"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "cloud (clouds)",
     "answer": "clouds",
     "pos": "n.",
-    "definition": "",
+    "definition": "a white or gray thing in the sky that rain falls from",
     "chinese": "雲",
     "sentence": "Q: Is it going to rain? — A: Maybe. Look at those dark __________.",
     "translation": "會下雨嗎？ — 也許會，看那些烏雲。",
     "lookup": {
-     "english": "",
+     "english": "a white or gray thing in the sky that rain falls from",
      "chinese": "雲"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "rainbow",
     "answer": "rainbow",
     "pos": "n.",
-    "definition": "",
+    "definition": "a curve of many colors in the sky after rain",
     "chinese": "彩虹",
     "sentence": "Q: Is it going to rain again? — A: No, it isn't. Look! There is a __________ over the mountain.",
     "translation": "又要下雨了嗎？ — 不會。看！山上有一道彩虹。",
     "lookup": {
-     "english": "",
+     "english": "a curve of many colors in the sky after rain",
      "chinese": "彩虹"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "snow",
     "answer": "snow",
     "pos": "v.",
-    "definition": "",
+    "definition": "when soft white ice falls from the sky",
     "chinese": "下雪",
     "sentence": "Q: Does it __________ in Taipei in winter? — A: No, it doesn't. But it sometimes does on high mountains.",
     "translation": "台北冬天會下雪嗎？ — 不會，但是高山上有時候會。",
     "lookup": {
-     "english": "",
+     "english": "when soft white ice falls from the sky",
      "chinese": "下雪"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "wind",
     "answer": "wind",
     "pos": "n.",
-    "definition": "",
+    "definition": "air that moves outside",
     "chinese": "風",
     "sentence": "Q: Do we need to close the windows? — A: Yes, we do. The __________ is very strong.",
     "translation": "我們需要關窗戶嗎？ — 需要，風很強。",
     "lookup": {
-     "english": "",
+     "english": "air that moves outside",
      "chinese": "風"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "blow",
     "answer": "blow",
     "pos": "v.",
-    "definition": "",
+    "definition": "(of wind or air) to move; to send air out of your mouth",
     "chinese": "吹",
     "sentence": "Q: Does the wind __________ hard here in winter? — A: Yes, it does. Wear your coat.",
     "translation": "這裡冬天風吹得很強嗎？ — 是的，穿上你的大衣。",
     "lookup": {
-     "english": "",
+     "english": "(of wind or air) to move; to send air out of your mouth",
      "chinese": "吹"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "typhoon",
     "answer": "typhoon",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very strong storm with heavy wind and rain",
     "chinese": "颱風",
     "sentence": "Q: Is a __________ going to come tomorrow? — A: Yes, it is. There is no school tomorrow.",
     "translation": "明天颱風要來嗎？ — 是的，明天停課。",
     "lookup": {
-     "english": "",
+     "english": "a very strong storm with heavy wind and rain",
      "chinese": "颱風"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "earthquake",
     "answer": "earthquake",
     "pos": "n.",
-    "definition": "",
+    "definition": "a time when the ground shakes suddenly",
     "chinese": "地震",
     "sentence": "Q: Is it an __________? The house is shaking! — A: Yes, it is! Get under the table.",
     "translation": "是地震嗎？房子在搖！ — 是的！躲到桌子底下。",
     "lookup": {
-     "english": "",
+     "english": "a time when the ground shakes suddenly",
      "chinese": "地震"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "sun",
     "answer": "sun",
     "pos": "n.",
-    "definition": "",
+    "definition": "the big bright thing in the sky that gives us light and heat in the day",
     "chinese": "太陽",
     "sentence": "Q: Where does the __________ come up? — A: It comes up in the east.",
     "translation": "太陽從哪裡升起？ — 它從東方升起。",
     "lookup": {
-     "english": "",
+     "english": "the big bright thing in the sky that gives us light and heat in the day",
      "chinese": "太陽"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "shine (shines)",
     "answer": "shines",
     "pos": "v.",
-    "definition": "",
+    "definition": "to give out bright light",
     "chinese": "照耀",
     "sentence": "Q: What does the sun do in the day? — A: It __________ and gives us light.",
     "translation": "太陽白天做什麼？ — 它照耀著，給我們光。",
     "lookup": {
-     "english": "",
+     "english": "to give out bright light",
      "chinese": "照耀"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "moon",
     "answer": "moon",
     "pos": "n.",
-    "definition": "",
+    "definition": "the big round thing that shines in the sky at night",
     "chinese": "月亮",
     "sentence": "Q: When do you see the __________? — A: I see it at night. Sometimes it's round.",
     "translation": "你什麼時候看得到月亮？ — 我在晚上看到它，它有時候是圓的。",
     "lookup": {
-     "english": "",
+     "english": "the big round thing that shines in the sky at night",
      "chinese": "月亮"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "star (stars)",
     "answer": "stars",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small bright point of light in the sky at night",
     "chinese": "星星",
     "sentence": "Q: What do you see in the sky at night? — A: I see many bright __________.",
     "translation": "你晚上在天空看到什麼？ — 我看到很多明亮的星星。",
     "lookup": {
-     "english": "",
+     "english": "a small bright point of light in the sky at night",
      "chinese": "星星"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "sky",
     "answer": "sky",
     "pos": "n.",
-    "definition": "",
+    "definition": "the space above us where we see clouds, the sun, and stars",
     "chinese": "天空",
     "sentence": "Q: Where do birds fly? — A: They fly in the __________.",
     "translation": "鳥在哪裡飛？ — 牠們在天空飛。",
     "lookup": {
-     "english": "",
+     "english": "the space above us where we see clouds, the sun, and stars",
      "chinese": "天空"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "earth",
     "answer": "earth",
     "pos": "n.",
-    "definition": "",
+    "definition": "the planet that we live on",
     "chinese": "地球",
     "sentence": "Q: Where do we live? — A: We live on the __________. It is round.",
     "translation": "我們住在哪裡？ — 我們住在地球上，它是圓的。",
     "lookup": {
-     "english": "",
+     "english": "the planet that we live on",
      "chinese": "地球"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "air",
     "answer": "air",
     "pos": "n.",
-    "definition": "",
+    "definition": "what we breathe; it is all around us",
     "chinese": "空氣",
     "sentence": "Q: What do people and animals need? — A: They need __________, water and food.",
     "translation": "人和動物需要什麼？ — 他們需要空氣、水和食物。",
     "lookup": {
-     "english": "",
+     "english": "what we breathe; it is all around us",
      "chinese": "空氣"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "plant (plants)",
     "answer": "plants",
     "pos": "n.",
-    "definition": "",
+    "definition": "a living thing with leaves and roots, like a tree or a flower",
     "chinese": "植物",
     "sentence": "Q: What do __________ need? — A: They need water and light.",
     "translation": "植物需要什麼？ — 它們需要水和光。",
     "lookup": {
-     "english": "",
+     "english": "a living thing with leaves and roots, like a tree or a flower",
      "chinese": "植物"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "nature",
     "answer": "nature",
     "pos": "n.",
-    "definition": "",
+    "definition": "trees, animals, rivers, and everything not made by people",
     "chinese": "自然；大自然",
     "sentence": "Q: Does your father love __________? — A: Yes, he does. He often goes to the mountains.",
     "translation": "你爸爸熱愛大自然嗎？ — 是的，他常常去山上。",
     "lookup": {
-     "english": "",
+     "english": "trees, animals, rivers, and everything not made by people",
      "chinese": "自然；大自然"
     }
    }
@@ -1125,4 +1125,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cool":["","涼爽的"],"cold":["","感冒"],"hot":["","熱的；燙的；辣的"],"weather":["","天氣"],"sunny":["","晴朗的"],"clear":["","晴朗的；清澈的"],"cloudy":["","多雲的"],"rainy":["","下雨的"],"windy":["","多風的"],"snowy":["","下雪的"],"warm":["","溫暖的"],"dry":["","乾的；乾燥的"],"wet":["","濕的"],"rain":["","下雨"],"shower":["","陣雨；淋浴"],"clouds":["","雲"],"rainbow":["","彩虹"],"snow":["","下雪"],"wind":["","風"],"blow":["","吹"],"typhoon":["","颱風"],"earthquake":["","地震"],"sun":["","太陽"],"shines":["","照耀"],"moon":["","月亮"],"stars":["","星星"],"sky":["","天空"],"earth":["","地球"],"air":["","空氣"],"plants":["","植物"],"nature":["","自然；大自然"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"cool":["a little cold; also very good and fun","涼爽的"],"cold":["a common sickness that makes you cough and sneeze","感冒"],"hot":["having a high temperature; not cold; also spicy","熱的；燙的；辣的"],"weather":["how hot, cold, wet, or dry it is outside","天氣"],"sunny":["bright with a lot of sun","晴朗的"],"clear":["with no clouds; easy to see through","晴朗的；清澈的"],"cloudy":["with many clouds in the sky","多雲的"],"rainy":["with a lot of rain","下雨的"],"windy":["with a lot of wind","多風的"],"snowy":["with a lot of snow","下雪的"],"warm":["a little hot, in a nice way","溫暖的"],"dry":["with no water or rain; not wet","乾的；乾燥的"],"wet":["covered with water; not dry","濕的"],"rain":["when water falls from the clouds","下雨"],"shower":["a short rain; washing your body under falling water","陣雨；淋浴"],"clouds":["a white or gray thing in the sky that rain falls from","雲"],"rainbow":["a curve of many colors in the sky after rain","彩虹"],"snow":["when soft white ice falls from the sky","下雪"],"wind":["air that moves outside","風"],"blow":["(of wind or air) to move; to send air out of your mouth","吹"],"typhoon":["a very strong storm with heavy wind and rain","颱風"],"earthquake":["a time when the ground shakes suddenly","地震"],"sun":["the big bright thing in the sky that gives us light and heat in the day","太陽"],"shines":["to give out bright light","照耀"],"moon":["the big round thing that shines in the sky at night","月亮"],"stars":["a small bright point of light in the sky at night","星星"],"sky":["the space above us where we see clouds, the sun, and stars","天空"],"earth":["the planet that we live on","地球"],"air":["what we breathe; it is all around us","空氣"],"plants":["a living thing with leaves and roots, like a tree or a flower","植物"],"nature":["trees, animals, rivers, and everything not made by people","自然；大自然"]});

@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "match",
     "pos": "n.",
     "cn_def": "比賽，火柴",
-    "en_def": "",
+    "en_def": "a game between two players or teams",
     "sentence": "They won the soccer {{BLANK}}.",
     "cn": "他們贏得了足球比賽。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "maximum",
     "pos": "adj.",
     "cn_def": "最大的，最高的",
-    "en_def": "",
+    "en_def": "the largest that is possible or allowed",
     "sentence": "The {{BLANK}} capacity of the hall is 500 people.",
     "cn": "大廳的最大容量是500人。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "meaning",
     "pos": "n.",
     "cn_def": "意義，意思",
-    "en_def": "",
+    "en_def": "the idea that a word or sign shows",
     "sentence": "The {{BLANK}} of the word is unclear.",
     "cn": "這個詞的意思不清楚。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "measure",
     "pos": "v.",
     "cn_def": "測量，衡量",
-    "en_def": "",
+    "en_def": "to find out how long, big, or heavy something is",
     "sentence": "They {{BLANK}} the length of the room.",
     "cn": "他們測量了房間的長度。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "mechanic",
     "pos": "n.",
     "cn_def": "技工，機械師",
-    "en_def": "",
+    "en_def": "a person who fixes cars or machines",
     "sentence": "He works as a car {{BLANK}}.",
     "cn": "他是一名汽車技工。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "memory",
     "pos": "n.",
     "cn_def": "記憶，回憶",
-    "en_def": "",
+    "en_def": "the power to remember things",
     "sentence": "She has a good {{BLANK}}.",
     "cn": "她的記憶力很好。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "message",
     "pos": "n.",
     "cn_def": "信息，訊息",
-    "en_def": "",
+    "en_def": "words that you send or leave for someone",
     "sentence": "She left a {{BLANK}} on his phone.",
     "cn": "她在他的手機上留了訊息。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "metal",
     "pos": "n.",
     "cn_def": "金屬",
-    "en_def": "",
+    "en_def": "a hard, shiny material like iron or gold",
     "sentence": "The table is made of {{BLANK}}.",
     "cn": "這張桌子是金屬製成的。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "meter",
     "pos": "n.",
     "cn_def": "公尺，計量器",
-    "en_def": "",
+    "en_def": "a unit of length; it is 100 centimeters",
     "sentence": "The room is 5 {{BLANK}} long.",
     "cn": "這個房間長5公尺。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "method",
     "pos": "n.",
     "cn_def": "方法，方式",
-    "en_def": "",
+    "en_def": "a way of doing something",
     "sentence": "They developed a new {{BLANK}} for testing the product.",
     "cn": "他們開發了一種新的產品測試方法。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "microwave",
     "pos": "n.",
     "cn_def": "微波爐",
-    "en_def": "",
+    "en_def": "a machine that heats food very quickly",
     "sentence": "She heated the food in the {{BLANK}}.",
     "cn": "她用微波爐加熱食物。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "midnight",
     "pos": "n.",
     "cn_def": "午夜",
-    "en_def": "",
+    "en_def": "twelve o'clock at night",
     "sentence": "The train arrived at {{BLANK}}.",
     "cn": "火車在午夜到達。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "minor",
     "pos": "adj.",
     "cn_def": "較小的，次要的",
-    "en_def": "",
+    "en_def": "small; not very serious",
     "sentence": "He suffered only {{BLANK}} injuries in the accident.",
     "cn": "他在事故中只受了輕傷。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "minus",
     "pos": "prep.",
     "cn_def": "減，負的",
-    "en_def": "",
+    "en_def": "below zero; made smaller by a number",
     "sentence": "The temperature is {{BLANK}} 5 degrees.",
     "cn": "溫度是零下5度。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "mirror",
     "pos": "n.",
     "cn_def": "鏡子",
-    "en_def": "",
+    "en_def": "a piece of glass in which you can see yourself",
     "sentence": "She looked at herself in the {{BLANK}}.",
     "cn": "她照了照鏡子。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "mix",
     "pos": "v.",
     "cn_def": "混合，攪拌",
-    "en_def": "",
+    "en_def": "to put different things together and stir them",
     "sentence": "She {{BLANK}} the ingredients together.",
     "cn": "她把材料混合在一起。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "model",
     "pos": "n.",
     "cn_def": "模型，模特",
-    "en_def": "",
+    "en_def": "a small copy of something, like a plane or a building",
     "sentence": "He built a {{BLANK}} of the airplane.",
     "cn": "他製作了一個飛機模型。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "monster",
     "pos": "n.",
     "cn_def": "怪物",
-    "en_def": "",
+    "en_def": "a big, ugly, scary animal in stories",
     "sentence": "The children were afraid of the {{BLANK}}.",
     "cn": "孩子們害怕那個怪物。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "mosquito",
     "pos": "n.",
     "cn_def": "蚊子",
-    "en_def": "",
+    "en_def": "a small flying insect that bites people and drinks blood",
     "sentence": "She was bitten by a {{BLANK}}.",
     "cn": "她被蚊子咬了。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "motion",
     "pos": "n.",
     "cn_def": "運動，動作",
-    "en_def": "",
+    "en_def": "the act of moving",
     "sentence": "The {{BLANK}} of the boat made her feel sick.",
     "cn": "船的運動讓她感到噁心。"
   }
@@ -414,157 +414,157 @@ const MCQS = [
 const LOOKUP = {
   "against": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "not agreeing with something",
     "cn_def": "反對，對抗"
   },
   "beyond": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "on the far side of something",
     "cn_def": "超過，在...之外"
   },
   "divided": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to cut or break something into parts",
     "cn_def": "分開，劃分"
   },
   "empty": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with nothing or nobody inside",
     "cn_def": "空的，無人的"
   },
   "insisted": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to say strongly that you want to do something",
     "cn_def": "堅持，強調"
   },
   "instant": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "(of food) very quick and easy to make",
     "cn_def": "即時的，瞬間的"
   },
   "invented": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make or think of something that did not exist before",
     "cn_def": "發明，創造"
   },
   "match": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a game between two players or teams",
     "cn_def": "比賽，火柴"
   },
   "maximum": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "the largest that is possible or allowed",
     "cn_def": "最大的，最高的"
   },
   "meaning": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the idea that a word or sign shows",
     "cn_def": "意義，意思"
   },
   "measured": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to find out how long, big, or heavy something is",
     "cn_def": "測量，衡量"
   },
   "mechanic": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who fixes cars or machines",
     "cn_def": "技工，機械師"
   },
   "memory": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the power to remember things",
     "cn_def": "記憶，回憶"
   },
   "message": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "words that you send or leave for someone",
     "cn_def": "信息，訊息"
   },
   "metal": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a hard, shiny material like iron or gold",
     "cn_def": "金屬"
   },
   "meters": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a unit of length; it is 100 centimeters",
     "cn_def": "公尺，計量器"
   },
   "method": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a way of doing something",
     "cn_def": "方法，方式"
   },
   "microwave": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a machine that heats food very quickly",
     "cn_def": "微波爐"
   },
   "midnight": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "twelve o'clock at night",
     "cn_def": "午夜"
   },
   "minor": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "small; not very serious",
     "cn_def": "較小的，次要的"
   },
   "minus": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "below zero; made smaller by a number",
     "cn_def": "減，負的"
   },
   "mirror": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a piece of glass in which you can see yourself",
     "cn_def": "鏡子"
   },
   "mixed": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to put different things together and stir them",
     "cn_def": "混合，攪拌"
   },
   "model": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small copy of something, like a plane or a building",
     "cn_def": "模型，模特"
   },
   "monster": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big, ugly, scary animal in stories",
     "cn_def": "怪物"
   },
   "mosquito": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small flying insect that bites people and drinks blood",
     "cn_def": "蚊子"
   },
   "motion": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the act of moving",
     "cn_def": "運動，動作"
   },
   "plus": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "and also; added to",
     "cn_def": "加上，此外"
   },
   "positive": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "thinking about the good side of things",
     "cn_def": "積極的，正面的"
   },
   "stingy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not willing to spend or give money",
     "cn_def": "吝嗇的，小氣的"
   },
   "whispered": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to speak in a very quiet voice",
     "cn_def": "耳語，低聲說"
   }
 };

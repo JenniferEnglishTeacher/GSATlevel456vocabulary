@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "soda",
     "pos": "n.",
     "cn_def": "汽水，蘇打水",
-    "en_def": "",
+    "en_def": "a sweet drink with bubbles",
     "sentence": "She ordered a {{BLANK}} with her meal.",
     "cn": "她點了一杯汽水配餐。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "soft",
     "pos": "adj.",
     "cn_def": "柔軟的，溫和的",
-    "en_def": "",
+    "en_def": "not hard; nice to touch",
     "sentence": "The pillow is very {{BLANK}}.",
     "cn": "這個枕頭很柔軟。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "soft drink",
     "pos": "n.",
     "cn_def": "軟飲料，非酒精飲料",
-    "en_def": "",
+    "en_def": "a cold, sweet drink with no alcohol",
     "sentence": "She prefers {{BLANK}} to alcohol.",
     "cn": "她更喜歡軟飲料而不是酒精飲料。",
     "nblanks": 2
@@ -35,7 +35,7 @@ const VOCAB = [
     "word": "softball",
     "pos": "n.",
     "cn_def": "壘球",
-    "en_def": "",
+    "en_def": "a game like baseball with a bigger, softer ball",
     "sentence": "They played {{BLANK}} in the park.",
     "cn": "他們在公園裡打壘球。"
   },
@@ -43,7 +43,7 @@ const VOCAB = [
     "word": "solve",
     "pos": "v.",
     "cn_def": "解決，解答",
-    "en_def": "",
+    "en_def": "to find the answer to a problem",
     "sentence": "Can you {{BLANK}} this math problem?",
     "cn": "你能解答這個數學問題嗎？"
   },
@@ -51,7 +51,7 @@ const VOCAB = [
     "word": "soul",
     "pos": "n.",
     "cn_def": "靈魂，精神",
-    "en_def": "",
+    "en_def": "the part of a person that some people believe lives on after death",
     "sentence": "She believes in the immortality of the {{BLANK}}.",
     "cn": "她相信靈魂的不朽。"
   },
@@ -59,7 +59,7 @@ const VOCAB = [
     "word": "sour",
     "pos": "adj.",
     "cn_def": "酸的，不愉快的",
-    "en_def": "",
+    "en_def": "having a taste like a lemon; (of milk) gone bad",
     "sentence": "The milk tasted {{BLANK}}.",
     "cn": "牛奶味道酸了。"
   },
@@ -67,7 +67,7 @@ const VOCAB = [
     "word": "soy sauce",
     "pos": "n.",
     "cn_def": "醬油",
-    "en_def": "",
+    "en_def": "a dark, salty brown sauce used in Chinese cooking",
     "sentence": "She added {{BLANK}} to the dish.",
     "cn": "她在菜裡加了醬油。",
     "nblanks": 2
@@ -76,7 +76,7 @@ const VOCAB = [
     "word": "spaghetti",
     "pos": "n.",
     "cn_def": "義大利麵",
-    "en_def": "",
+    "en_def": "long thin noodles from Italy",
     "sentence": "She made {{BLANK}} for dinner.",
     "cn": "她做了義大利麵作晚餐。"
   },
@@ -84,7 +84,7 @@ const VOCAB = [
     "word": "speaker",
     "pos": "n.",
     "cn_def": "演講者，揚聲器",
-    "en_def": "",
+    "en_def": "a person who gives a talk",
     "sentence": "The {{BLANK}} gave an inspiring talk.",
     "cn": "演講者發表了一場鼓舞人心的演講。"
   },
@@ -92,7 +92,7 @@ const VOCAB = [
     "word": "speech",
     "pos": "n.",
     "cn_def": "演講，講話",
-    "en_def": "",
+    "en_def": "a talk that someone gives to a group of people",
     "sentence": "He prepared a {{BLANK}} for the conference.",
     "cn": "他為會議準備了一場演講。"
   },
@@ -100,7 +100,7 @@ const VOCAB = [
     "word": "speed",
     "pos": "n.",
     "cn_def": "速度",
-    "en_def": "",
+    "en_def": "how fast something moves",
     "sentence": "The car's top {{BLANK}} is 120 mph.",
     "cn": "這輛車的最高速度是每小時120英里。"
   },
@@ -108,7 +108,7 @@ const VOCAB = [
     "word": "spirit",
     "pos": "n.",
     "cn_def": "精神，靈魂",
-    "en_def": "",
+    "en_def": "brave and strong feelings; the will to keep trying",
     "sentence": "She showed great {{BLANK}} during the competition.",
     "cn": "她在比賽中展現出極大的精神。"
   },
@@ -116,7 +116,7 @@ const VOCAB = [
     "word": "spot",
     "pos": "n.",
     "cn_def": "地點，斑點",
-    "en_def": "",
+    "en_def": "a place",
     "sentence": "They found a perfect {{BLANK}} for a picnic.",
     "cn": "他們找到了一個完美的野餐地點。"
   },
@@ -124,7 +124,7 @@ const VOCAB = [
     "word": "spread",
     "pos": "v.",
     "cn_def": "展開，傳播",
-    "en_def": "",
+    "en_def": "to move and reach more and more people or places",
     "sentence": "The news of the event quickly {{BLANK}}.",
     "cn": "事件的消息迅速傳開。"
   },
@@ -132,7 +132,7 @@ const VOCAB = [
     "word": "state",
     "pos": "n.",
     "cn_def": "狀態，州",
-    "en_def": "",
+    "en_def": "the condition that someone or something is in",
     "sentence": "He is in a {{BLANK}} of confusion.",
     "cn": "他處於困惑狀態。"
   },
@@ -140,7 +140,7 @@ const VOCAB = [
     "word": "stationery",
     "pos": "n.",
     "cn_def": "文具",
-    "en_def": "",
+    "en_def": "paper, pens, and other things for writing",
     "sentence": "She bought some new {{BLANK}} for school.",
     "cn": "她為學校買了一些新文具。"
   },
@@ -148,7 +148,7 @@ const VOCAB = [
     "word": "steal",
     "pos": "v.",
     "cn_def": "偷竊，盜取",
-    "en_def": "",
+    "en_def": "to take something that is not yours",
     "sentence": "Someone tried to {{BLANK}} his bike.",
     "cn": "有人試圖偷他的自行車。"
   },
@@ -156,7 +156,7 @@ const VOCAB = [
     "word": "steam",
     "pos": "n.",
     "cn_def": "蒸汽",
-    "en_def": "",
+    "en_def": "the hot white gas that comes from boiling water",
     "sentence": "The pot was full of {{BLANK}}.",
     "cn": "鍋裡充滿了蒸汽。"
   },
@@ -164,7 +164,7 @@ const VOCAB = [
     "word": "step",
     "pos": "n.",
     "cn_def": "步驟，步伐",
-    "en_def": "",
+    "en_def": "one movement of your foot when you walk",
     "sentence": "He took a {{BLANK}} forward.",
     "cn": "他向前邁了一步。"
   }
@@ -416,137 +416,137 @@ const MCQS = [
 const LOOKUP = {
   "dumb": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "stupid; silly",
     "cn_def": "啞的，愚蠢的"
   },
   "general": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not exact or full of details; about the main things only",
     "cn_def": "一般的，總的"
   },
   "golden": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very happy and special; having the color of gold",
     "cn_def": "金色的，極好的"
   },
   "handle": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to take care of a problem or a situation",
     "cn_def": "處理，操作"
   },
   "serve": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to give food or drinks to people",
     "cn_def": "服務，提供"
   },
   "soda": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a sweet drink with bubbles",
     "cn_def": "汽水，蘇打水"
   },
   "soft": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not hard; nice to touch",
     "cn_def": "柔軟的，溫和的"
   },
   "soft drink": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a cold, sweet drink with no alcohol",
     "cn_def": "軟飲料，非酒精飲料"
   },
   "softball": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a game like baseball with a bigger, softer ball",
     "cn_def": "壘球"
   },
   "solve": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to find the answer to a problem",
     "cn_def": "解決，解答"
   },
   "soul": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part of a person that some people believe lives on after death",
     "cn_def": "靈魂，精神"
   },
   "sour": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having a taste like a lemon; (of milk) gone bad",
     "cn_def": "酸的，不愉快的"
   },
   "soy sauce": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a dark, salty brown sauce used in Chinese cooking",
     "cn_def": "醬油"
   },
   "spaghetti": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "long thin noodles from Italy",
     "cn_def": "義大利麵"
   },
   "speaker": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who gives a talk",
     "cn_def": "演講者，揚聲器"
   },
   "speech": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a talk that someone gives to a group of people",
     "cn_def": "演講，講話"
   },
   "speed": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "how fast something moves",
     "cn_def": "速度"
   },
   "spirit": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "brave and strong feelings; the will to keep trying",
     "cn_def": "精神，靈魂"
   },
   "spot": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a place",
     "cn_def": "地點，斑點"
   },
   "spread": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to move and reach more and more people or places",
     "cn_def": "展開，傳播"
   },
   "state": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the condition that someone or something is in",
     "cn_def": "狀態，州"
   },
   "stationery": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "paper, pens, and other things for writing",
     "cn_def": "文具"
   },
   "steal": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to take something that is not yours",
     "cn_def": "偷竊，盜取"
   },
   "steam": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the hot white gas that comes from boiling water",
     "cn_def": "蒸汽"
   },
   "step": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one movement of your foot when you walk",
     "cn_def": "步驟，步伐"
   },
   "stingy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not willing to spend or give money",
     "cn_def": "吝嗇的，小氣的"
   },
   "wake": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to stop sleeping",
     "cn_def": "醒來，喚醒"
   }
 };

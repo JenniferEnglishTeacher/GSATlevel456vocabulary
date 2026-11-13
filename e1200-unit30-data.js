@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "in",
     "pos": "prep.",
     "cn_def": "在…裡面",
-    "en_def": "",
+    "en_def": "inside a place or a thing",
     "sentence": "Q: Where is your cat? — A: It's {{BLANK}} the box.",
     "cn": "你的貓在哪裡？ — 牠在箱子裡。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "inside",
     "pos": "prep.",
     "cn_def": "在…內部",
-    "en_def": "",
+    "en_def": "in the inner part of something",
     "sentence": "Q: Where do the children play on rainy days? — A: They play {{BLANK}} the house.",
     "cn": "下雨天孩子們在哪裡玩？ — 他們在屋子裡面玩。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "outside",
     "pos": "prep.",
     "cn_def": "在…外面",
-    "en_def": "",
+    "en_def": "not in a building or a room; on the outer side",
     "sentence": "Q: Where does your dog sleep? — A: It sleeps {{BLANK}} the house, in the yard.",
     "cn": "你的狗睡在哪裡？ — 牠睡在屋外的院子裡。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "on",
     "pos": "prep.",
     "cn_def": "在…上面",
-    "en_def": "",
+    "en_def": "touching the top of something",
     "sentence": "Q: Where are my books? — A: They are {{BLANK}} the desk.",
     "cn": "我的書在哪裡？ — 它們在書桌上。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "above",
     "pos": "prep.",
     "cn_def": "在…上方",
-    "en_def": "",
+    "en_def": "higher than something, not touching it",
     "sentence": "Q: Where is the clock? — A: It's on the wall, {{BLANK}} the door.",
     "cn": "時鐘在哪裡？ — 在牆上，門的上方。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "over",
     "pos": "prep.",
     "cn_def": "在…正上方；越過",
-    "en_def": "",
+    "en_def": "right above something; across the top of something",
     "sentence": "Q: Where does Mom hang the lamp? — A: She hangs it {{BLANK}} the table.",
     "cn": "媽媽把燈掛在哪裡？ — 她把燈掛在桌子正上方。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "under",
     "pos": "prep.",
     "cn_def": "在…下面",
-    "en_def": "",
+    "en_def": "lower than something; with something on top",
     "sentence": "Q: Where are my shoes? — A: They are {{BLANK}} the bed.",
     "cn": "我的鞋子在哪裡？ — 它們在床底下。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "below",
     "pos": "prep.",
     "cn_def": "在…下方",
-    "en_def": "",
+    "en_def": "in a lower place than something",
     "sentence": "Q: Where do you write your name? — A: I write it {{BLANK}} the picture.",
     "cn": "你把名字寫在哪裡？ — 我寫在圖片下方。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "behind",
     "pos": "prep.",
     "cn_def": "在…後面",
-    "en_def": "",
+    "en_def": "at the back of something",
     "sentence": "Q: Where is the dog? — A: It's {{BLANK}} the door.",
     "cn": "狗在哪裡？ — 牠在門後面。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "beside",
     "pos": "prep.",
     "cn_def": "在…旁邊",
-    "en_def": "",
+    "en_def": "next to; at the side of",
     "sentence": "Q: Where does Amy sit in class? — A: She sits {{BLANK}} me.",
     "cn": "艾美上課坐在哪裡？ — 她坐在我旁邊。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "near",
     "pos": "prep.",
     "cn_def": "在…附近",
-    "en_def": "",
+    "en_def": "not far from",
     "sentence": "Q: Where do your grandparents live? — A: They live {{BLANK}} the park.",
     "cn": "你的爺爺奶奶住在哪裡？ — 他們住在公園附近。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "between",
     "pos": "prep.",
     "cn_def": "在…之間",
-    "en_def": "",
+    "en_def": "in the middle of two people or things",
     "sentence": "Q: Where is the bank? — A: It's {{BLANK}} the post office and the hospital.",
     "cn": "銀行在哪裡？ — 在郵局和醫院之間。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "around",
     "pos": "prep.",
     "cn_def": "在…四周",
-    "en_def": "",
+    "en_def": "on all sides of something",
     "sentence": "Q: Where do the students sit? — A: They sit {{BLANK}} the table.",
     "cn": "學生們坐在哪裡？ — 他們圍坐在桌子四周。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "at",
     "pos": "prep.",
     "cn_def": "在（時間點）",
-    "en_def": "",
+    "en_def": "used to show an exact time or place",
     "sentence": "Q: What time does Ben get up? — A: He gets up {{BLANK}} seven o'clock.",
     "cn": "班幾點起床？ — 他七點起床。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "before",
     "pos": "prep.",
     "cn_def": "在…之前",
-    "en_def": "",
+    "en_def": "earlier than",
     "sentence": "Q: When do you do your homework? — A: I do it {{BLANK}} dinner.",
     "cn": "你什麼時候寫功課？ — 我在晚餐前寫。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "after",
     "pos": "prep.",
     "cn_def": "在…之後",
-    "en_def": "",
+    "en_def": "later than",
     "sentence": "Q: When does your sister play the piano? — A: She plays it {{BLANK}} school.",
     "cn": "你妹妹什麼時候彈鋼琴？ — 她放學後彈。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "during",
     "pos": "prep.",
     "cn_def": "在…期間",
-    "en_def": "",
+    "en_def": "all through a time",
     "sentence": "Q: When do you visit your grandma? — A: I visit her {{BLANK}} the summer vacation.",
     "cn": "你什麼時候去看奶奶？ — 我暑假期間去看她。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "from",
     "pos": "prep.",
     "cn_def": "從",
-    "en_def": "",
+    "en_def": "starting at a place or a time",
     "sentence": "Q: When does Mr. Lin work? — A: He works {{BLANK}} Monday to Friday.",
     "cn": "林先生什麼時候上班？ — 他從星期一工作到星期五。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "until",
     "pos": "prep.",
     "cn_def": "直到",
-    "en_def": "",
+    "en_def": "up to a time",
     "sentence": "Q: How long do you stay at school? — A: I stay at school {{BLANK}} five o'clock.",
     "cn": "你在學校待多久？ — 我在學校待到五點。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "since",
     "pos": "prep.",
     "cn_def": "自從",
-    "en_def": "",
+    "en_def": "from a time in the past up to now",
     "sentence": "Q: How long has your family lived in Taipei? — A: We have lived here {{BLANK}} 2020.",
     "cn": "你們家住在台北多久了？ — 我們從2020年就住在這裡。"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "to",
     "pos": "prep.",
     "cn_def": "到；往",
-    "en_def": "",
+    "en_def": "in the direction of a place",
     "sentence": "Q: Where does your brother go every morning? — A: He goes {{BLANK}} school by bus.",
     "cn": "你哥哥每天早上去哪裡？ — 他搭公車去學校。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "into",
     "pos": "prep.",
     "cn_def": "進入…之內",
-    "en_def": "",
+    "en_def": "to the inside of something",
     "sentence": "Q: What does the cat do? — A: It jumps {{BLANK}} the box.",
     "cn": "那隻貓在做什麼？ — 牠跳進箱子裡。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "out (out of)",
     "pos": "adv.",
     "cn_def": "向外；在外",
-    "en_def": "",
+    "en_def": "away from the inside of a place",
     "sentence": "Q: Where do the kids run when the bell rings? — A: They run {{BLANK}} of the classroom.",
     "cn": "鐘響時孩子們跑去哪裡？ — 他們跑出教室。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "off",
     "pos": "prep.",
     "cn_def": "離開；脫掉",
-    "en_def": "",
+    "en_def": "away from; no longer on your body",
     "sentence": "Q: What do you do at the door? — A: I take {{BLANK}} my shoes.",
     "cn": "你在門口做什麼？ — 我脫掉鞋子。"
   },
@@ -202,7 +202,7 @@ const VOCAB = [
     "word": "up",
     "pos": "prep.",
     "cn_def": "向上",
-    "en_def": "",
+    "en_def": "to a higher place",
     "sentence": "Q: Where does the monkey go? — A: It climbs {{BLANK}} the tree.",
     "cn": "猴子去哪裡？ — 牠爬上樹。"
   },
@@ -210,7 +210,7 @@ const VOCAB = [
     "word": "down",
     "pos": "prep.",
     "cn_def": "向下",
-    "en_def": "",
+    "en_def": "to a lower place",
     "sentence": "Q: What do the kids do on the slide? — A: They go {{BLANK}} the slide.",
     "cn": "孩子們在溜滑梯上做什麼？ — 他們溜下溜滑梯。"
   },
@@ -218,7 +218,7 @@ const VOCAB = [
     "word": "along",
     "pos": "prep.",
     "cn_def": "沿著",
-    "en_def": "",
+    "en_def": "from one end of a road or river toward the other",
     "sentence": "Q: Where does Grandpa walk every evening? — A: He walks {{BLANK}} the river.",
     "cn": "爺爺每天傍晚在哪裡散步？ — 他沿著河邊散步。"
   },
@@ -226,7 +226,7 @@ const VOCAB = [
     "word": "across",
     "pos": "prep.",
     "cn_def": "橫越；在…對面",
-    "en_def": "",
+    "en_def": "from one side to the other side of something",
     "sentence": "Q: How do I get to the bank? — A: Walk {{BLANK}} the street. It's next to the park.",
     "cn": "我要怎麼去銀行？ — 過馬路，它在公園旁邊。"
   },
@@ -234,7 +234,7 @@ const VOCAB = [
     "word": "through",
     "pos": "prep.",
     "cn_def": "穿過",
-    "en_def": "",
+    "en_def": "in one side of something and out the other side",
     "sentence": "Q: Does Amy walk {{BLANK}} the park to school? — A: Yes, she does. It's a short way.",
     "cn": "艾美穿過公園走路上學嗎？ — 是的，那是一條近路。"
   },
@@ -242,7 +242,7 @@ const VOCAB = [
     "word": "about",
     "pos": "prep.",
     "cn_def": "關於",
-    "en_def": "",
+    "en_def": "on the subject of",
     "sentence": "Q: What do your friends often talk {{BLANK}}? — A: They often talk about soccer.",
     "cn": "你的朋友們常聊什麼？ — 他們常聊足球。"
   },
@@ -250,7 +250,7 @@ const VOCAB = [
     "word": "for",
     "pos": "prep.",
     "cn_def": "為了；給",
-    "en_def": "",
+    "en_def": "meant to be given to or used by someone",
     "sentence": "Q: Who is this gift {{BLANK}}? — A: It's for my dad. His birthday is tomorrow.",
     "cn": "這份禮物是給誰的？ — 是給我爸爸的，明天是他生日。"
   },
@@ -258,7 +258,7 @@ const VOCAB = [
     "word": "of",
     "pos": "prep.",
     "cn_def": "…的",
-    "en_def": "",
+    "en_def": "belonging to; showing what something is about",
     "sentence": "Q: What is this a picture {{BLANK}}? — A: It's a picture of my family.",
     "cn": "這是一張什麼的照片？ — 這是一張我家人的照片。"
   },
@@ -266,7 +266,7 @@ const VOCAB = [
     "word": "with",
     "pos": "prep.",
     "cn_def": "和；用",
-    "en_def": "",
+    "en_def": "together; using something",
     "sentence": "Q: Who does Amy go to the park {{BLANK}}? — A: She goes there with her dog.",
     "cn": "艾美和誰去公園？ — 她和她的狗去那裡。"
   },
@@ -274,7 +274,7 @@ const VOCAB = [
     "word": "without",
     "pos": "prep.",
     "cn_def": "沒有",
-    "en_def": "",
+    "en_def": "not having something",
     "sentence": "Q: Does Grandpa read {{BLANK}} his glasses? — A: No, he doesn't. He can't see without them.",
     "cn": "爺爺不戴眼鏡看書嗎？ — 不，他不會。沒有眼鏡他看不見。"
   },
@@ -282,7 +282,7 @@ const VOCAB = [
     "word": "like",
     "pos": "prep.",
     "cn_def": "像；如",
-    "en_def": "",
+    "en_def": "almost the same as",
     "sentence": "Q: What does this candy taste {{BLANK}}? — A: It tastes like strawberries.",
     "cn": "這顆糖吃起來像什麼？ — 它吃起來像草莓。"
   },
@@ -290,7 +290,7 @@ const VOCAB = [
     "word": "by",
     "pos": "prep.",
     "cn_def": "藉著；搭乘",
-    "en_def": "",
+    "en_def": "using a kind of transportation",
     "sentence": "Q: How do you go to Tainan? — A: We go there {{BLANK}} train.",
     "cn": "你們怎麼去台南？ — 我們搭火車去。"
   },
@@ -298,7 +298,7 @@ const VOCAB = [
     "word": "than",
     "pos": "prep.",
     "cn_def": "比",
-    "en_def": "",
+    "en_def": "used when you compare two people or things",
     "sentence": "Q: Who is taller, you or your brother? — A: My brother is taller {{BLANK}} me.",
     "cn": "你和你哥哥誰比較高？ — 我哥哥比我高。"
   },
@@ -306,7 +306,7 @@ const VOCAB = [
     "word": "except",
     "pos": "prep.",
     "cn_def": "除了…之外",
-    "en_def": "",
+    "en_def": "but not; not including",
     "sentence": "Q: Do all your classmates like PE? — A: Yes, they do. Everyone likes PE {{BLANK}} Tom.",
     "cn": "你所有同學都喜歡體育課嗎？ — 是的。除了湯姆，大家都喜歡體育課。"
   }
@@ -774,207 +774,207 @@ const MCQS = [
 const LOOKUP = {
   "now": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "at this time",
     "cn_def": "現在"
   },
   "late": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "after the usual time; near the end of the day",
     "cn_def": "晚；晚的"
   },
   "in": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "inside a place or a thing",
     "cn_def": "在…裡面"
   },
   "inside": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "in the inner part of something",
     "cn_def": "在…內部"
   },
   "outside": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "not in a building or a room; on the outer side",
     "cn_def": "在…外面"
   },
   "on": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "touching the top of something",
     "cn_def": "在…上面"
   },
   "above": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "higher than something, not touching it",
     "cn_def": "在…上方"
   },
   "over": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "right above something; across the top of something",
     "cn_def": "在…正上方；越過"
   },
   "under": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "lower than something; with something on top",
     "cn_def": "在…下面"
   },
   "below": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "in a lower place than something",
     "cn_def": "在…下方"
   },
   "behind": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "at the back of something",
     "cn_def": "在…後面"
   },
   "beside": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "next to; at the side of",
     "cn_def": "在…旁邊"
   },
   "near": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "not far from",
     "cn_def": "在…附近"
   },
   "between": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "in the middle of two people or things",
     "cn_def": "在…之間"
   },
   "around": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "on all sides of something",
     "cn_def": "在…四周"
   },
   "at": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "used to show an exact time or place",
     "cn_def": "在（時間點）"
   },
   "before": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "earlier than",
     "cn_def": "在…之前"
   },
   "after": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "later than",
     "cn_def": "在…之後"
   },
   "during": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "all through a time",
     "cn_def": "在…期間"
   },
   "from": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "starting at a place or a time",
     "cn_def": "從"
   },
   "until": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "up to a time",
     "cn_def": "直到"
   },
   "since": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "from a time in the past up to now",
     "cn_def": "自從"
   },
   "to": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "in the direction of a place",
     "cn_def": "到；往"
   },
   "into": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "to the inside of something",
     "cn_def": "進入…之內"
   },
   "out": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "away from the inside of a place",
     "cn_def": "向外；在外"
   },
   "off": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "away from; no longer on your body",
     "cn_def": "離開；脫掉"
   },
   "up": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "to a higher place",
     "cn_def": "向上"
   },
   "down": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "to a lower place",
     "cn_def": "向下"
   },
   "along": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "from one end of a road or river toward the other",
     "cn_def": "沿著"
   },
   "across": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "from one side to the other side of something",
     "cn_def": "橫越；在…對面"
   },
   "through": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "in one side of something and out the other side",
     "cn_def": "穿過"
   },
   "about": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "on the subject of",
     "cn_def": "關於"
   },
   "for": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "meant to be given to or used by someone",
     "cn_def": "為了；給"
   },
   "of": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "belonging to; showing what something is about",
     "cn_def": "…的"
   },
   "with": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "together; using something",
     "cn_def": "和；用"
   },
   "without": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "not having something",
     "cn_def": "沒有"
   },
   "like": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "almost the same as",
     "cn_def": "像；如"
   },
   "by": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "using a kind of transportation",
     "cn_def": "藉著；搭乘"
   },
   "than": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "used when you compare two people or things",
     "cn_def": "比"
   },
   "except": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "but not; not including",
     "cn_def": "除了…之外"
   },
   "actually": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "in fact; really",
     "cn_def": "事實上"
   }
 };

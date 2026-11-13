@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "clever",
     "answer": "clever",
     "pos": "adj.",
-    "definition": "",
+    "definition": "smart; quick to learn and understand",
     "chinese": "聰明的，靈巧的",
     "sentence": "She is very __________ at solving puzzles.",
     "translation": "她在解謎方面很聰明。",
     "lookup": {
-     "english": "",
+     "english": "smart; quick to learn and understand",
      "chinese": "聰明的，靈巧的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "climate",
     "answer": "climate",
     "pos": "n.",
-    "definition": "",
+    "definition": "the usual weather of a place",
     "chinese": "氣候，風氣",
     "sentence": "The __________ here is warm and humid.",
     "translation": "這裡的氣候溫暖潮濕。",
     "lookup": {
-     "english": "",
+     "english": "the usual weather of a place",
      "chinese": "氣候，風氣"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "closet",
     "answer": "closet",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small room or tall box for keeping clothes",
     "chinese": "壁櫥",
     "sentence": "She hung her clothes neatly in the __________.",
     "translation": "她把衣服整齊地掛在壁櫥裡。",
     "lookup": {
-     "english": "",
+     "english": "a small room or tall box for keeping clothes",
      "chinese": "壁櫥"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "coach",
     "answer": "coach",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who teaches and trains a sports team",
     "chinese": "教練，客車",
     "sentence": "The basketball team has a new __________.",
     "translation": "籃球隊有了一個新教練。",
     "lookup": {
-     "english": "",
+     "english": "a person who teaches and trains a sports team",
      "chinese": "教練，客車"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "coast",
     "answer": "coast",
     "pos": "n.",
-    "definition": "",
+    "definition": "the land next to the sea",
     "chinese": "海岸",
     "sentence": "They walked along the __________.",
     "translation": "他們沿著海岸散步。",
     "lookup": {
-     "english": "",
+     "english": "the land next to the sea",
      "chinese": "海岸"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "cockroach",
     "answer": "cockroach",
     "pos": "n.",
-    "definition": "",
+    "definition": "a brown insect that lives in dirty or warm places in houses",
     "chinese": "蟑螂",
     "sentence": "There is a __________ in the kitchen.",
     "translation": "廚房裡有一隻蟑螂。",
     "lookup": {
-     "english": "",
+     "english": "a brown insect that lives in dirty or warm places in houses",
      "chinese": "蟑螂"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "cocoa",
     "answer": "cocoa",
     "pos": "n.",
-    "definition": "",
+    "definition": "a hot drink made from chocolate powder",
     "chinese": "可可，巧克力飲料",
     "sentence": "She made a cup of hot __________ for breakfast.",
     "translation": "她為早餐做了一杯熱可可。",
     "lookup": {
-     "english": "",
+     "english": "a hot drink made from chocolate powder",
      "chinese": "可可，巧克力飲料"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "coin",
     "answer": "coin",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of money made of metal",
     "chinese": "硬幣",
     "sentence": "He dropped a __________ into the vending machine.",
     "translation": "他在自動販賣機裡投了一枚硬幣。",
     "lookup": {
-     "english": "",
+     "english": "a piece of money made of metal",
      "chinese": "硬幣"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "cola",
     "answer": "cola",
     "pos": "n.",
-    "definition": "",
+    "definition": "a sweet brown drink with bubbles",
     "chinese": "可樂",
     "sentence": "She ordered a __________ with her meal.",
     "translation": "她點了一瓶可樂和她的餐。",
     "lookup": {
-     "english": "",
+     "english": "a sweet brown drink with bubbles",
      "chinese": "可樂"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "college",
     "answer": "college",
     "pos": "n.",
-    "definition": "",
+    "definition": "a school where people study after high school",
     "chinese": "大學，學院",
     "sentence": "He is a freshman at __________.",
     "translation": "他是大學一年級新生。",
     "lookup": {
-     "english": "",
+     "english": "a school where people study after high school",
      "chinese": "大學，學院"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "colorful",
     "answer": "colorful",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having many bright colors",
     "chinese": "色彩鮮艷的",
     "sentence": "The garden is full of __________ flowers.",
     "translation": "花園裡滿是色彩鮮艷的花朵。",
     "lookup": {
-     "english": "",
+     "english": "having many bright colors",
      "chinese": "色彩鮮艷的"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "command",
     "answer": "commanded",
     "pos": "v.",
-    "definition": "",
+    "definition": "to tell someone that they must do something",
     "chinese": "命令，指揮",
     "sentence": "The officer __________ the troops to advance.",
     "translation": "軍官命令部隊前進。",
     "lookup": {
-     "english": "",
+     "english": "to tell someone that they must do something",
      "chinese": "命令，指揮"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "comment",
     "answer": "comment",
     "pos": "n.",
-    "definition": "",
+    "definition": "something you say that gives your opinion",
     "chinese": "評論，意見",
     "sentence": "She made a __________ about the movie.",
     "translation": "她對這部電影發表了評論。",
     "lookup": {
-     "english": "",
+     "english": "something you say that gives your opinion",
      "chinese": "評論，意見"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "company",
     "answer": "company",
     "pos": "n.",
-    "definition": "",
+    "definition": "a group of people who work together to make or sell things",
     "chinese": "公司",
     "sentence": "He works for a multinational __________.",
     "translation": "他在一家跨國公司工作。",
     "lookup": {
-     "english": "",
+     "english": "a group of people who work together to make or sell things",
      "chinese": "公司"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "compare",
     "answer": "compare",
     "pos": "v.",
-    "definition": "",
+    "definition": "to look at two things to see how they are the same or different",
     "chinese": "比較",
     "sentence": "It is interesting to __________ the two theories.",
     "translation": "比較這兩個理論是很有趣的。",
     "lookup": {
-     "english": "",
+     "english": "to look at two things to see how they are the same or different",
      "chinese": "比較"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "complain",
     "answer": "complain",
     "pos": "v.",
-    "definition": "",
+    "definition": "to say that you are not happy about something",
     "chinese": "抱怨",
     "sentence": "Customers often __________ about the service.",
     "translation": "顧客經常抱怨服務。",
     "lookup": {
-     "english": "",
+     "english": "to say that you are not happy about something",
      "chinese": "抱怨"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "complete",
     "answer": "completed",
     "pos": "v.",
-    "definition": "",
+    "definition": "to finish something",
     "chinese": "完成，完整的",
     "sentence": "She __________ the assignment on time.",
     "translation": "她按時完成了作業。",
     "lookup": {
-     "english": "",
+     "english": "to finish something",
      "chinese": "完成，完整的"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "completion",
     "answer": "completion",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of finishing something",
     "chinese": "完成，結束",
     "sentence": "The __________ of the project took two years.",
     "translation": "專案的完成花了兩年時間。",
     "lookup": {
-     "english": "",
+     "english": "the act of finishing something",
      "chinese": "完成，結束"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "concern",
     "answer": "concern",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that you worry or care about",
     "chinese": "擔心，關心",
     "sentence": "Her main __________ is her child's safety.",
     "translation": "她主要擔心的是孩子的安全。",
     "lookup": {
-     "english": "",
+     "english": "something that you worry or care about",
      "chinese": "擔心，關心"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "confident",
     "answer": "confident",
     "pos": "adj.",
-    "definition": "",
+    "definition": "sure that you can do something well",
     "chinese": "自信的",
     "sentence": "He feels __________ about his abilities.",
     "translation": "他對自己的能力感到自信。",
     "lookup": {
-     "english": "",
+     "english": "sure that you can do something well",
      "chinese": "自信的"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"clever":["","聰明的，靈巧的"],"climate":["","氣候，風氣"],"closet":["","壁櫥"],"coach":["","教練，客車"],"coast":["","海岸"],"cockroach":["","蟑螂"],"cocoa":["","可可，巧克力飲料"],"coin":["","硬幣"],"cola":["","可樂"],"college":["","大學，學院"],"colorful":["","色彩鮮艷的"],"commanded":["","命令，指揮"],"comment":["","評論，意見"],"company":["","公司"],"compare":["","比較"],"complain":["","抱怨"],"completed":["","完成，完整的"],"completion":["","完成，結束"],"concern":["","擔心，關心"],"confident":["","自信的"],"diligent":["","勤勉的，勤奮的"],"maximum":["","最大的，最高的"],"sincere":["","真誠的，誠懇的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"clever":["smart; quick to learn and understand","聰明的，靈巧的"],"climate":["the usual weather of a place","氣候，風氣"],"closet":["a small room or tall box for keeping clothes","壁櫥"],"coach":["a person who teaches and trains a sports team","教練，客車"],"coast":["the land next to the sea","海岸"],"cockroach":["a brown insect that lives in dirty or warm places in houses","蟑螂"],"cocoa":["a hot drink made from chocolate powder","可可，巧克力飲料"],"coin":["a piece of money made of metal","硬幣"],"cola":["a sweet brown drink with bubbles","可樂"],"college":["a school where people study after high school","大學，學院"],"colorful":["having many bright colors","色彩鮮艷的"],"commanded":["to tell someone that they must do something","命令，指揮"],"comment":["something you say that gives your opinion","評論，意見"],"company":["a group of people who work together to make or sell things","公司"],"compare":["to look at two things to see how they are the same or different","比較"],"complain":["to say that you are not happy about something","抱怨"],"completed":["to finish something","完成，完整的"],"completion":["the act of finishing something","完成，結束"],"concern":["something that you worry or care about","擔心，關心"],"confident":["sure that you can do something well","自信的"],"diligent":["working hard and carefully","勤勉的，勤奮的"],"maximum":["the largest that is possible or allowed","最大的，最高的"],"sincere":["really meaning what you say; honest","真誠的，誠懇的"]});

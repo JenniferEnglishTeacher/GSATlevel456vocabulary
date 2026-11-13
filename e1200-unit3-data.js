@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "head",
     "pos": "n.",
     "cn_def": "頭",
-    "en_def": "",
+    "en_def": "the top part of your body with your eyes, nose, and mouth",
     "sentence": "Q: What's wrong, Tom? — A: My {{BLANK}} hurts. I didn't sleep well.",
     "cn": "湯姆，怎麼了？ — 我的頭好痛，我沒睡好。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "eye",
     "pos": "n.",
     "cn_def": "眼睛",
-    "en_def": "",
+    "en_def": "the part of your face that you see with",
     "sentence": "Q: What's wrong? — A: My {{BLANK}} hurt. I played games too long.",
     "cn": "怎麼了？ — 我的眼睛好痛，我玩遊戲玩太久了。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "ear",
     "pos": "n.",
     "cn_def": "耳朵",
-    "en_def": "",
+    "en_def": "the part of your head that you hear with",
     "sentence": "Q: What's wrong, Amy? — A: My {{BLANK}} hurts. The music is too loud.",
     "cn": "艾美，怎麼了？ — 我的耳朵好痛，音樂太大聲了。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "tooth (teeth)",
     "pos": "n.",
     "cn_def": "牙齒",
-    "en_def": "",
+    "en_def": "one of the hard white things in your mouth for biting food",
     "sentence": "Q: What's wrong? — A: My {{BLANK}} hurt. I ate too much candy.",
     "cn": "怎麼了？ — 我的牙齒好痛，我吃太多糖果了。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "throat",
     "pos": "n.",
     "cn_def": "喉嚨",
-    "en_def": "",
+    "en_def": "the part inside your neck that food and air go down",
     "sentence": "Q: What's wrong with Lisa? — A: Her {{BLANK}} hurts. She can't sing today.",
     "cn": "麗莎怎麼了？ — 她的喉嚨痛，她今天不能唱歌。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "neck",
     "pos": "n.",
     "cn_def": "脖子",
-    "en_def": "",
+    "en_def": "the part of your body between your head and shoulders",
     "sentence": "Q: What's wrong, Dad? — A: My {{BLANK}} hurts. I can't turn my head.",
     "cn": "爸爸，怎麼了？ — 我的脖子好痛，我不能轉頭。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "shoulder",
     "pos": "n.",
     "cn_def": "肩膀",
-    "en_def": "",
+    "en_def": "the part of your body between your neck and your arm",
     "sentence": "Q: What's wrong? — A: My {{BLANK}} hurt. My schoolbag is too heavy.",
     "cn": "怎麼了？ — 我的肩膀好痛，我的書包太重了。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "arm",
     "pos": "n.",
     "cn_def": "手臂",
-    "en_def": "",
+    "en_def": "the long part of your body between your shoulder and hand",
     "sentence": "Q: What's wrong with Ben? — A: His {{BLANK}} hurts. He fell off his bike.",
     "cn": "班怎麼了？ — 他的手臂受傷了，他從腳踏車上摔下來。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "back",
     "pos": "n.",
     "cn_def": "背",
-    "en_def": "",
+    "en_def": "the part of your body opposite your chest and stomach",
     "sentence": "Q: What's wrong, Grandpa? — A: My {{BLANK}} hurts. I carried a big box.",
     "cn": "爺爺，怎麼了？ — 我的背好痛，我搬了一個大箱子。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "stomach",
     "pos": "n.",
     "cn_def": "胃",
-    "en_def": "",
+    "en_def": "the part of your body where food goes after you eat it",
     "sentence": "Q: What's wrong? — A: My {{BLANK}} hurts. I ate too much ice cream.",
     "cn": "怎麼了？ — 我的胃好痛，我吃了太多冰淇淋。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "leg",
     "pos": "n.",
     "cn_def": "腿",
-    "en_def": "",
+    "en_def": "the long part of your body that you stand and walk on",
     "sentence": "Q: What's wrong, Mom? — A: My {{BLANK}} hurt. I walked for three hours.",
     "cn": "媽媽，怎麼了？ — 我的腿好痛，我走了三個小時。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "knee",
     "pos": "n.",
     "cn_def": "膝蓋",
-    "en_def": "",
+    "en_def": "the middle part of your leg where it bends",
     "sentence": "Q: What's wrong with Tom? — A: His {{BLANK}} hurts. He fell down in the park.",
     "cn": "湯姆怎麼了？ — 他的膝蓋受傷了，他在公園跌倒了。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "foot (feet)",
     "pos": "n.",
     "cn_def": "腳",
-    "en_def": "",
+    "en_def": "the part at the end of your leg that you stand on",
     "sentence": "Q: What's wrong? — A: My {{BLANK}} hurt. My new shoes are too small.",
     "cn": "怎麼了？ — 我的腳好痛，我的新鞋太小了。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "toe",
     "pos": "n.",
     "cn_def": "腳趾",
-    "en_def": "",
+    "en_def": "one of the five small parts at the end of your foot",
     "sentence": "Q: What's wrong, Ken? — A: My {{BLANK}} hurts. I kicked the door.",
     "cn": "肯，怎麼了？ — 我的腳趾好痛，我踢到門了。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "hand",
     "pos": "n.",
     "cn_def": "手",
-    "en_def": "",
+    "en_def": "the part at the end of your arm that you hold things with",
     "sentence": "Q: Mom, can I eat now? — A: Wash your {{BLANK}} first, or you will get sick.",
     "cn": "媽媽，我現在可以吃了嗎？ — 先洗手，不然你會生病。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "finger",
     "pos": "n.",
     "cn_def": "手指",
-    "en_def": "",
+    "en_def": "one of the five long parts of your hand",
     "sentence": "Q: I just played with the dog. — A: Wash your {{BLANK}}, and they will be clean again.",
     "cn": "我剛剛跟狗玩。 — 洗洗你的手指，這樣它們就會再變乾淨。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "nail",
     "pos": "n.",
     "cn_def": "指甲",
-    "en_def": "",
+    "en_def": "the hard part at the end of a finger or toe",
     "sentence": "Q: Are my hands dirty? — A: Yes. Cut your {{BLANK}}, and your hands will look clean.",
     "cn": "我的手很髒嗎？ — 是的。剪剪指甲，這樣你的手看起來就會很乾淨。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "face",
     "pos": "n.",
     "cn_def": "臉",
-    "en_def": "",
+    "en_def": "the front part of your head",
     "sentence": "Q: I just got up. I am still tired. — A: Wash your {{BLANK}}, and you will wake up.",
     "cn": "我剛起床，還很睏。 — 洗把臉，這樣你就會清醒了。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "hair",
     "pos": "n.",
     "cn_def": "頭髮",
-    "en_def": "",
+    "en_def": "the thin soft things that grow on your head",
     "sentence": "Q: I played soccer all afternoon. — A: Wash your {{BLANK}} tonight, or it will smell bad.",
     "cn": "我踢了一整個下午的足球。 — 今晚要洗頭髮，不然會很臭。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "mouth",
     "pos": "n.",
     "cn_def": "嘴巴",
-    "en_def": "",
+    "en_def": "the part of your face that you eat and speak with",
     "sentence": "Q: My hands are dirty. Can I eat this cookie? — A: Don't touch your {{BLANK}} with dirty hands, or you will get sick.",
     "cn": "我的手很髒，我可以吃這塊餅乾嗎？ — 不要用髒手碰嘴巴，不然你會生病。"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "lip",
     "pos": "n.",
     "cn_def": "嘴唇",
-    "en_def": "",
+    "en_def": "one of the two soft edges of your mouth",
     "sentence": "Q: Ouch! My mouth hurts. — A: Don't bite your {{BLANK}}, or they will hurt more.",
     "cn": "哎唷！我的嘴巴好痛。 — 不要咬嘴唇，不然會更痛。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "nose",
     "pos": "n.",
     "cn_def": "鼻子",
-    "en_def": "",
+    "en_def": "the part of your face that you smell and breathe with",
     "sentence": "Q: Mr. Lee, Ken is doing something bad! — A: Ken, don't pick your {{BLANK}} in class, or your classmates will laugh at you.",
     "cn": "李老師，肯在做壞事！ — 肯，上課不要挖鼻孔，不然同學會笑你。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "body",
     "pos": "n.",
     "cn_def": "身體",
-    "en_def": "",
+    "en_def": "all the parts of a person or an animal",
     "sentence": "Q: I'm so tired after the game. — A: Wash your {{BLANK}}, and you will sleep well tonight.",
     "cn": "比賽完我好累。 — 洗個澡，這樣你今晚就會睡得好。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "heart",
     "pos": "n.",
     "cn_def": "心",
-    "en_def": "",
+    "en_def": "the part inside your chest that sends blood around your body",
     "sentence": "Q: I just ran for ten minutes. — A: Touch your {{BLANK}}, and you can feel it beating fast.",
     "cn": "我剛剛跑了十分鐘。 — 摸摸你的心臟，這樣你就能感覺到它跳得很快。"
   }
@@ -202,287 +202,287 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "Q: What's wrong, Tom? — A: My ______ hurts. I didn't sleep well.【頭】",
+    "q": "You must wear a hat on your ______ when the sun is strong. If you don't, you may feel sick after an hour outside.",
     "options": [
-      "hair",
-      "body",
-      "head",
-      "ear"
+      "knee",
+      "stomach",
+      "finger",
+      "head"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "湯姆，怎麼了？ — 我的頭好痛，我沒睡好。",
     "vocabIndex": 0
   },
   {
-    "q": "Q: What's wrong? — A: My ______ hurt. I played games too long.【眼睛】",
+    "q": "Close your ______ and don't look. I have a birthday present for you, and I want it to be a surprise.",
     "options": [
+      "ears",
       "eyes",
-      "nails",
-      "shoulders",
-      "hands"
+      "knees",
+      "toes"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "怎麼了？ — 我的眼睛好痛，我玩遊戲玩太久了。",
     "vocabIndex": 1
   },
   {
-    "q": "Q: What's wrong, Amy? — A: My ______ hurts. The music is too loud.【耳朵】",
+    "q": "The music is too loud, and it hurts my ______. Please turn it down, or I won't hear anything tomorrow.",
     "options": [
-      "feet",
-      "toe",
-      "stomach",
-      "ear"
+      "knees",
+      "toes",
+      "ears",
+      "nails"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "艾美，怎麼了？ — 我的耳朵好痛，音樂太大聲了。",
     "vocabIndex": 2
   },
   {
-    "q": "Q: What's wrong? — A: My ______ hurt. I ate too much candy.【牙齒】",
+    "q": "You should brush your ______ after every meal. If you don't, you will have to see the dentist very soon.",
     "options": [
-      "mouth",
       "teeth",
-      "face",
-      "nose"
+      "eyes",
+      "shoulders",
+      "knees"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "怎麼了？ — 我的牙齒好痛，我吃太多糖果了。",
     "vocabIndex": 3
   },
   {
-    "q": "Q: What's wrong with Lisa? — A: Her ______ hurts. She can't sing today.【喉嚨】",
+    "q": "I have a sore ______, so it hurts when I eat or drink. I can't sing or talk loudly today.",
     "options": [
-      "throat",
       "knee",
-      "body",
-      "toe"
+      "finger",
+      "toe",
+      "throat"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "麗莎怎麼了？ — 她的喉嚨痛，她今天不能唱歌。",
     "vocabIndex": 4
   },
   {
-    "q": "Q: What's wrong, Dad? — A: My ______ hurts. I can't turn my head.【脖子】",
+    "q": "The goose has a long ______, so it can find food under the water. Its head goes down, and its tail goes up.",
     "options": [
-      "feet",
-      "body",
+      "finger",
       "knee",
-      "neck"
+      "neck",
+      "nail"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "爸爸，怎麼了？ — 我的脖子好痛，我不能轉頭。",
     "vocabIndex": 5
   },
   {
-    "q": "Q: What's wrong? — A: My ______ hurt. My schoolbag is too heavy.【肩膀】",
+    "q": "The little boy can't see the show, so his dad puts him on his ______. Now the boy is higher than everyone.",
     "options": [
-      "fingers",
       "shoulders",
-      "hands",
-      "eyes"
+      "toes",
+      "fingers",
+      "lips"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "怎麼了？ — 我的肩膀好痛，我的書包太重了。",
     "vocabIndex": 6
   },
   {
-    "q": "Q: What's wrong with Ben? — A: His ______ hurts. He fell off his bike.【手臂】",
+    "q": "Tom fell off his bike and broke his left ______. Now he can't write or carry his schoolbag with that hand.",
     "options": [
-      "mouth",
-      "neck",
+      "ear",
       "arm",
-      "ear"
+      "lip",
+      "toe"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "班怎麼了？ — 他的手臂受傷了，他從腳踏車上摔下來。",
     "vocabIndex": 7
   },
   {
-    "q": "Q: What's wrong, Grandpa? — A: My ______ hurts. I carried a big box.【背】",
+    "q": "Grandpa carried heavy boxes all day, and now his ______ hurts. He can't stand up straight, so he is lying in bed.",
     "options": [
+      "ear",
+      "nose",
       "back",
-      "teeth",
-      "face",
       "hair"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "爺爺，怎麼了？ — 我的背好痛，我搬了一個大箱子。",
     "vocabIndex": 8
   },
   {
-    "q": "Q: What's wrong? — A: My ______ hurts. I ate too much ice cream.【胃】",
+    "q": "I ate too much ice cream, and now my ______ hurts. I don't want any dinner tonight. I just want to lie down.",
     "options": [
-      "back",
       "stomach",
-      "nose",
-      "throat"
+      "knee",
+      "shoulder",
+      "ear"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "怎麼了？ — 我的胃好痛，我吃了太多冰淇淋。",
     "vocabIndex": 9
   },
   {
-    "q": "Q: What's wrong, Mom? — A: My ______ hurt. I walked for three hours.【腿】",
+    "q": "A spider has eight ______, but an ant has only six. They both walk very fast on them.",
     "options": [
-      "lips",
-      "fingers",
-      "legs",
-      "hands"
+      "heads",
+      "noses",
+      "mouths",
+      "legs"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "媽媽，怎麼了？ — 我的腿好痛，我走了三個小時。",
     "vocabIndex": 10
   },
   {
-    "q": "Q: What's wrong with Tom? — A: His ______ hurts. He fell down in the park.【膝蓋】",
+    "q": "Ben fell down on the playground and hurt his ______. Now he can't bend his leg, and it is hard for him to walk.",
     "options": [
-      "arm",
-      "body",
-      "throat",
-      "knee"
+      "ear",
+      "knee",
+      "lip",
+      "finger"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "湯姆怎麼了？ — 他的膝蓋受傷了，他在公園跌倒了。",
     "vocabIndex": 11
   },
   {
-    "q": "Q: What's wrong? — A: My ______ hurt. My new shoes are too small.【腳】",
+    "q": "These shoes are too small for my ______. My toes hurt when I walk, so I need a bigger size.",
     "options": [
-      "feet",
-      "throat",
-      "arm",
-      "body"
+      "hands",
+      "ears",
+      "knees",
+      "feet"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "怎麼了？ — 我的腳好痛，我的新鞋太小了。",
     "vocabIndex": 12
   },
   {
-    "q": "Q: What's wrong, Ken? — A: My ______ hurts. I kicked the door.【腳趾】",
+    "q": "You have five ______ on each foot. Can you move them inside your shoes? Mine always feel cold in winter.",
     "options": [
-      "neck",
-      "head",
-      "toe",
-      "back"
+      "fingers",
+      "ears",
+      "toes",
+      "teeth"
     ],
     "answer": 2,
     "cn": "肯，怎麼了？ — 我的腳趾好痛，我踢到門了。",
     "vocabIndex": 13
   },
   {
-    "q": "Q: Mom, can I eat now? — A: Wash your ______ first, or you will get sick.【手】",
+    "q": "Wash your ______ with soap before you eat. They touch many dirty things, like doors and money, every day.",
     "options": [
-      "nails",
-      "eyes",
-      "shoulders",
-      "hands"
+      "hands",
+      "knees",
+      "ears",
+      "shoulders"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "媽媽，我現在可以吃了嗎？ — 先洗手，不然你會生病。",
     "vocabIndex": 14
   },
   {
-    "q": "Q: I just played with the dog. — A: Wash your ______, and they will be clean again.【手指】",
+    "q": "Lisa wears a gold ring on her ______. Her husband gave it to her on the day they got married.",
     "options": [
-      "legs",
-      "fingers",
-      "hands",
-      "shoulders"
+      "knee",
+      "finger",
+      "tooth",
+      "shoulder"
     ],
     "answer": 1,
     "cn": "我剛剛跟狗玩。 — 洗洗你的手指，這樣它們就會再變乾淨。",
     "vocabIndex": 15
   },
   {
-    "q": "Q: Are my hands dirty? — A: Yes. Cut your ______, and your hands will look clean.【指甲】",
+    "q": "Your ______ are too long. Please cut them tonight, or you may hurt someone when you play basketball.",
     "options": [
-      "lips",
+      "ears",
       "legs",
-      "shoulders",
-      "nails"
+      "nails",
+      "lips"
     ],
-    "answer": 3,
+    "answer": 2,
     "cn": "我的手很髒嗎？ — 是的。剪剪指甲，這樣你的手看起來就會很乾淨。",
     "vocabIndex": 16
   },
   {
-    "q": "Q: I just got up. I am still tired. — A: Wash your ______, and you will wake up.【臉】",
+    "q": "Wash your ______ every morning when you get up. Then your eyes will open, and you will not feel sleepy.",
     "options": [
-      "face",
+      "back",
       "heart",
-      "neck",
-      "mouth"
+      "throat",
+      "face"
     ],
-    "answer": 0,
+    "answer": 3,
     "cn": "我剛起床，還很睏。 — 洗把臉，這樣你就會清醒了。",
     "vocabIndex": 17
   },
   {
-    "q": "Q: I played soccer all afternoon. — A: Wash your ______ tonight, or it will smell bad.【頭髮】",
+    "q": "My sister has long black ______. She brushes it every morning, and she washes it every two days.",
     "options": [
-      "face",
-      "mouth",
+      "teeth",
       "hair",
-      "stomach"
+      "nails",
+      "legs"
     ],
-    "answer": 2,
+    "answer": 1,
     "cn": "我踢了一整個下午的足球。 — 今晚要洗頭髮，不然會很臭。",
     "vocabIndex": 18
   },
   {
-    "q": "Q: My hands are dirty. Can I eat this cookie? — A: Don't touch your ______ with dirty hands, or you will get sick.【嘴巴】",
+    "q": "Don't talk with food in your ______. It is not polite, and nobody can understand what you are saying.",
     "options": [
-      "back",
       "mouth",
-      "arm",
-      "stomach"
+      "ear",
+      "nose",
+      "hand"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "我的手很髒，我可以吃這塊餅乾嗎？ — 不要用髒手碰嘴巴，不然你會生病。",
     "vocabIndex": 19
   },
   {
-    "q": "Q: Ouch! My mouth hurts. — A: Don't bite your ______, or they will hurt more.【嘴唇】",
+    "q": "In winter, the cold wind makes my ______ dry. It hurts when I smile or eat, so I drink a lot of water.",
     "options": [
-      "fingers",
-      "eyes",
+      "teeth",
+      "nails",
       "lips",
-      "hands"
+      "knees"
     ],
     "answer": 2,
     "cn": "哎唷！我的嘴巴好痛。 — 不要咬嘴唇，不然會更痛。",
     "vocabIndex": 20
   },
   {
-    "q": "Q: Mr. Lee, Ken is doing something bad! — A: Ken, don't pick your ______ in class, or your classmates will laugh at you.【鼻子】",
+    "q": "I have a cold, so I can't smell anything with my ______. Even this delicious pizza smells like nothing to me.",
     "options": [
-      "body",
       "nose",
       "ear",
-      "throat"
+      "knee",
+      "finger"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "李老師，肯在做壞事！ — 肯，上課不要挖鼻孔，不然同學會笑你。",
     "vocabIndex": 21
   },
   {
-    "q": "Q: I'm so tired after the game. — A: Wash your ______, and you will sleep well tonight.【身體】",
+    "q": "Swimming is good for your whole ______. It makes your arms, legs, back, and heart strong.",
     "options": [
+      "finger",
       "body",
-      "neck",
-      "toe",
-      "knee"
+      "nose",
+      "hair"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "比賽完我好累。 — 洗個澡，這樣你今晚就會睡得好。",
     "vocabIndex": 22
   },
   {
-    "q": "Q: I just ran for ten minutes. — A: Touch your ______, and you can feel it beating fast.【心】",
+    "q": "After running for thirty minutes, I can feel my ______ beating very fast. I need to sit down and rest.",
     "options": [
-      "ear",
-      "arm",
-      "toe",
+      "hair",
+      "nail",
+      "nose",
       "heart"
     ],
     "answer": 3,
@@ -492,125 +492,185 @@ const MCQS = [
 ];
 
 const LOOKUP = {
+  "knee": {
+    "pos": "n.",
+    "en_def": "the middle part of your leg where it bends",
+    "cn_def": "膝蓋"
+  },
+  "stomach": {
+    "pos": "n.",
+    "en_def": "the part of your body where food goes after you eat it",
+    "cn_def": "胃"
+  },
+  "finger": {
+    "pos": "n.",
+    "en_def": "one of the five long parts of your hand",
+    "cn_def": "手指"
+  },
   "head": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the top part of your body with your eyes, nose, and mouth",
     "cn_def": "頭"
+  },
+  "ears": {
+    "pos": "n.",
+    "en_def": "the part of your head that you hear with",
+    "cn_def": "耳朵"
   },
   "eyes": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part of your face that you see with",
     "cn_def": "眼睛"
   },
-  "ear": {
+  "knees": {
     "pos": "n.",
-    "en_def": "",
-    "cn_def": "耳朵"
+    "en_def": "the middle part of your leg where it bends",
+    "cn_def": "膝蓋"
+  },
+  "toes": {
+    "pos": "prep.",
+    "en_def": "in the direction of a place",
+    "cn_def": "到；往"
+  },
+  "nails": {
+    "pos": "n.",
+    "en_def": "the hard part at the end of a finger or toe",
+    "cn_def": "指甲"
   },
   "teeth": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of the hard white things in your mouth for biting food",
     "cn_def": "牙齒"
+  },
+  "shoulders": {
+    "pos": "n.",
+    "en_def": "the part of your body between your neck and your arm",
+    "cn_def": "肩膀"
+  },
+  "toe": {
+    "pos": "n.",
+    "en_def": "one of the five small parts at the end of your foot",
+    "cn_def": "腳趾"
   },
   "throat": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part inside your neck that food and air go down",
     "cn_def": "喉嚨"
   },
   "neck": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part of your body between your head and shoulders",
     "cn_def": "脖子"
   },
-  "shoulders": {
+  "nail": {
     "pos": "n.",
-    "en_def": "",
-    "cn_def": "肩膀"
-  },
-  "arm": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "手臂"
-  },
-  "back": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "背"
-  },
-  "stomach": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "胃"
-  },
-  "legs": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "腿"
-  },
-  "knee": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "膝蓋"
-  },
-  "feet": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "腳"
-  },
-  "toe": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "腳趾"
-  },
-  "hands": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "手"
+    "en_def": "the hard part at the end of a finger or toe",
+    "cn_def": "指甲"
   },
   "fingers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of the five long parts of your hand",
     "cn_def": "手指"
-  },
-  "nails": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "指甲"
-  },
-  "face": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "臉"
-  },
-  "hair": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "頭髮"
-  },
-  "mouth": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "嘴巴"
   },
   "lips": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of the two soft edges of your mouth",
+    "cn_def": "嘴唇"
+  },
+  "ear": {
+    "pos": "n.",
+    "en_def": "the part of your head that you hear with",
+    "cn_def": "耳朵"
+  },
+  "arm": {
+    "pos": "n.",
+    "en_def": "the long part of your body between your shoulder and hand",
+    "cn_def": "手臂"
+  },
+  "lip": {
+    "pos": "n.",
+    "en_def": "one of the two soft edges of your mouth",
     "cn_def": "嘴唇"
   },
   "nose": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part of your face that you smell and breathe with",
     "cn_def": "鼻子"
   },
-  "body": {
+  "back": {
     "pos": "n.",
-    "en_def": "",
-    "cn_def": "身體"
+    "en_def": "the part of your body opposite your chest and stomach",
+    "cn_def": "背"
+  },
+  "hair": {
+    "pos": "n.",
+    "en_def": "the thin soft things that grow on your head",
+    "cn_def": "頭髮"
+  },
+  "shoulder": {
+    "pos": "n.",
+    "en_def": "the part of your body between your neck and your arm",
+    "cn_def": "肩膀"
+  },
+  "heads": {
+    "pos": "n.",
+    "en_def": "the top part of your body with your eyes, nose, and mouth",
+    "cn_def": "頭"
+  },
+  "noses": {
+    "pos": "n.",
+    "en_def": "the part of your face that you smell and breathe with",
+    "cn_def": "鼻子"
+  },
+  "mouths": {
+    "pos": "n.",
+    "en_def": "the part of your face that you eat and speak with",
+    "cn_def": "嘴巴"
+  },
+  "legs": {
+    "pos": "n.",
+    "en_def": "the long part of your body that you stand and walk on",
+    "cn_def": "腿"
+  },
+  "hands": {
+    "pos": "n.",
+    "en_def": "the part at the end of your arm that you hold things with",
+    "cn_def": "手"
+  },
+  "feet": {
+    "pos": "n.",
+    "en_def": "the part at the end of your leg that you stand on",
+    "cn_def": "腳"
+  },
+  "tooth": {
+    "pos": "n.",
+    "en_def": "one of the hard white things in your mouth for biting food",
+    "cn_def": "牙齒"
   },
   "heart": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part inside your chest that sends blood around your body",
     "cn_def": "心"
+  },
+  "face": {
+    "pos": "n.",
+    "en_def": "the front part of your head",
+    "cn_def": "臉"
+  },
+  "mouth": {
+    "pos": "n.",
+    "en_def": "the part of your face that you eat and speak with",
+    "cn_def": "嘴巴"
+  },
+  "hand": {
+    "pos": "n.",
+    "en_def": "the part at the end of your arm that you hold things with",
+    "cn_def": "手"
+  },
+  "body": {
+    "pos": "n.",
+    "en_def": "all the parts of a person or an animal",
+    "cn_def": "身體"
   }
 };
 

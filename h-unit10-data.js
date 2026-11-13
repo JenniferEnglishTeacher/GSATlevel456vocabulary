@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "diamond",
     "answer": "diamond",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very hard, clear, expensive stone used in rings",
     "chinese": "鑽石",
     "sentence": "She received a __________ ring for her birthday.",
     "translation": "她生日收到了鑽石戒指。",
     "lookup": {
-     "english": "",
+     "english": "a very hard, clear, expensive stone used in rings",
      "chinese": "鑽石"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "diary",
     "answer": "diary",
     "pos": "n.",
-    "definition": "",
+    "definition": "a book in which you write what happens every day",
     "chinese": "日記",
     "sentence": "She writes in her __________ every night.",
     "translation": "她每晚都寫日記。",
     "lookup": {
-     "english": "",
+     "english": "a book in which you write what happens every day",
      "chinese": "日記"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "diet",
     "answer": "diet",
     "pos": "n.",
-    "definition": "",
+    "definition": "a plan to eat less or only some foods, to lose weight",
     "chinese": "飲食，節食",
     "sentence": "She is on a strict __________.",
     "translation": "她在嚴格節食。",
     "lookup": {
-     "english": "",
+     "english": "a plan to eat less or only some foods, to lose weight",
      "chinese": "飲食，節食"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "difference",
     "answer": "difference",
     "pos": "n.",
-    "definition": "",
+    "definition": "the way in which two things are not the same",
     "chinese": "差異，區別",
     "sentence": "There is a big __________ between the two plans.",
     "translation": "這兩個計劃之間有很大的差異。",
     "lookup": {
-     "english": "",
+     "english": "the way in which two things are not the same",
      "chinese": "差異，區別"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "difficulty",
     "answer": "difficulty",
     "pos": "n.",
-    "definition": "",
+    "definition": "a problem; something that is hard to do",
     "chinese": "困難，難題",
     "sentence": "He had __________ solving the problem.",
     "translation": "他解決這個問題有困難。",
     "lookup": {
-     "english": "",
+     "english": "a problem; something that is hard to do",
      "chinese": "困難，難題"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "diligent",
     "answer": "diligent",
     "pos": "adj.",
-    "definition": "",
+    "definition": "working hard and carefully",
     "chinese": "勤勉的，勤奮的",
     "sentence": "She is a very __________ student.",
     "translation": "她是個非常勤奮的學生。",
     "lookup": {
-     "english": "",
+     "english": "working hard and carefully",
      "chinese": "勤勉的，勤奮的"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "dinosaur",
     "answer": "dinosaur",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very big animal that lived millions of years ago",
     "chinese": "恐龍",
     "sentence": "The museum has a new __________ exhibit.",
     "translation": "博物館有一個新的恐龍展覽。",
     "lookup": {
-     "english": "",
+     "english": "a very big animal that lived millions of years ago",
      "chinese": "恐龍"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "diplomat",
     "answer": "diplomat",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who works for his or her country in another country",
     "chinese": "外交官",
     "sentence": "He is a well-known __________.",
     "translation": "他是一位著名的外交官。",
     "lookup": {
-     "english": "",
+     "english": "a person who works for his or her country in another country",
      "chinese": "外交官"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "direct",
     "answer": "directed",
     "pos": "v.",
-    "definition": "",
+    "definition": "to tell actors what to do in a play or movie",
     "chinese": "指導，指揮",
     "sentence": "She __________ the play with great skill.",
     "translation": "她很熟練地指導了這齣戲。",
     "lookup": {
-     "english": "",
+     "english": "to tell actors what to do in a play or movie",
      "chinese": "指導，指揮"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "direction",
     "answer": "directions",
     "pos": "n.",
-    "definition": "",
+    "definition": "words that tell you how to get to a place or how to do something",
     "chinese": "方向，指導",
     "sentence": "We need to follow the __________ to find the place.",
     "translation": "我們需要按照指示找到那個地方。",
     "lookup": {
-     "english": "",
+     "english": "words that tell you how to get to a place or how to do something",
      "chinese": "方向，指導"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "disappear",
     "answer": "disappeared",
     "pos": "v.",
-    "definition": "",
+    "definition": "to go away so that no one can see it",
     "chinese": "消失，不見",
     "sentence": "The sun __________ behind the clouds.",
     "translation": "太陽消失在雲層後面。",
     "lookup": {
-     "english": "",
+     "english": "to go away so that no one can see it",
      "chinese": "消失，不見"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "discover",
     "answer": "discovered",
     "pos": "v.",
-    "definition": "",
+    "definition": "to find something for the first time",
     "chinese": "發現，找到",
     "sentence": "They __________ a new species of bird.",
     "translation": "他們發現了一個新鳥種。",
     "lookup": {
-     "english": "",
+     "english": "to find something for the first time",
      "chinese": "發現，找到"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "discuss",
     "answer": "discuss",
     "pos": "v.",
-    "definition": "",
+    "definition": "to talk about something with other people",
     "chinese": "討論，商議",
     "sentence": "Let's __________ the plan in detail.",
     "translation": "我們詳細討論一下這個計劃。",
     "lookup": {
-     "english": "",
+     "english": "to talk about something with other people",
      "chinese": "討論，商議"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "discussion",
     "answer": "discussion",
     "pos": "n.",
-    "definition": "",
+    "definition": "a talk about something",
     "chinese": "討論，商談",
     "sentence": "The __________ was very productive.",
     "translation": "這次討論非常有成效。",
     "lookup": {
-     "english": "",
+     "english": "a talk about something",
      "chinese": "討論，商談"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "distance",
     "answer": "distance",
     "pos": "n.",
-    "definition": "",
+    "definition": "how far it is between two places",
     "chinese": "距離",
     "sentence": "The __________ between the two cities is 100 miles.",
     "translation": "這兩個城市之間的距離是100英里。",
     "lookup": {
-     "english": "",
+     "english": "how far it is between two places",
      "chinese": "距離"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "divide",
     "answer": "divided",
     "pos": "v.",
-    "definition": "",
+    "definition": "to cut or break something into parts",
     "chinese": "分開，劃分",
     "sentence": "The cake was __________ into eight pieces.",
     "translation": "蛋糕被分成八塊。",
     "lookup": {
-     "english": "",
+     "english": "to cut or break something into parts",
      "chinese": "分開，劃分"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "dizzy",
     "answer": "dizzy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "feeling that everything is turning around you",
     "chinese": "頭暈的",
     "sentence": "She felt __________ after riding the roller coaster.",
     "translation": "她坐過山車後感到頭暈。",
     "lookup": {
-     "english": "",
+     "english": "feeling that everything is turning around you",
      "chinese": "頭暈的"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "dodge ball",
     "answer": "dodge ball",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game in which players throw balls at each other and try not to get hit",
     "chinese": "躲避球",
     "sentence": "They played __________ during gym class.",
     "translation": "他們在體育課上玩躲避球。",
     "lookup": {
-     "english": "",
+     "english": "a game in which players throw balls at each other and try not to get hit",
      "chinese": "躲避球"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "dolphin",
     "answer": "dolphin",
     "pos": "n.",
-    "definition": "",
+    "definition": "a smart sea animal that looks like a big fish and jumps out of the water",
     "chinese": "海豚",
     "sentence": "The __________ jumped out of the water.",
     "translation": "海豚跳出了水面。",
     "lookup": {
-     "english": "",
+     "english": "a smart sea animal that looks like a big fish and jumps out of the water",
      "chinese": "海豚"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "donkey",
     "answer": "donkey",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal like a small horse with long ears",
     "chinese": "驢",
     "sentence": "The __________ carried the heavy load up the hill.",
     "translation": "驢把重物背上山。",
     "lookup": {
-     "english": "",
+     "english": "an animal like a small horse with long ears",
      "chinese": "驢"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"calm":["","冷靜的，平靜的"],"diamond":["","鑽石"],"diary":["","日記"],"diet":["","飲食，節食"],"difference":["","差異，區別"],"difficulty":["","困難，難題"],"diligent":["","勤勉的，勤奮的"],"dinosaur":["","恐龍"],"diplomat":["","外交官"],"directed":["","指導，指揮"],"directions":["","方向，指導"],"disappeared":["","消失，不見"],"discovered":["","發現，找到"],"discuss":["","討論，商議"],"discussion":["","討論，商談"],"distance":["","距離"],"divided":["","分開，劃分"],"dizzy":["","頭暈的"],"dolphin":["","海豚"],"donkey":["","驢"],"evil":["","邪惡的，壞的"],"humid":["","潮濕的，濕熱的"],"usual":["","通常的，平常的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"calm":["quiet and not worried or excited","冷靜的，平靜的"],"diamond":["a very hard, clear, expensive stone used in rings","鑽石"],"diary":["a book in which you write what happens every day","日記"],"diet":["a plan to eat less or only some foods, to lose weight","飲食，節食"],"difference":["the way in which two things are not the same","差異，區別"],"difficulty":["a problem; something that is hard to do","困難，難題"],"diligent":["working hard and carefully","勤勉的，勤奮的"],"dinosaur":["a very big animal that lived millions of years ago","恐龍"],"diplomat":["a person who works for his or her country in another country","外交官"],"directed":["to tell actors what to do in a play or movie","指導，指揮"],"directions":["words that tell you how to get to a place or how to do something","方向，指導"],"disappeared":["to go away so that no one can see it","消失，不見"],"discovered":["to find something for the first time","發現，找到"],"discuss":["to talk about something with other people","討論，商議"],"discussion":["a talk about something","討論，商談"],"distance":["how far it is between two places","距離"],"divided":["to cut or break something into parts","分開，劃分"],"dizzy":["feeling that everything is turning around you","頭暈的"],"dolphin":["a smart sea animal that looks like a big fish and jumps out of the water","海豚"],"donkey":["an animal like a small horse with long ears","驢"],"evil":["very bad and wanting to hurt people","邪惡的，壞的"],"humid":["(of weather) warm and wet","潮濕的，濕熱的"],"usual":["normal; happening most of the time","通常的，平常的"]});

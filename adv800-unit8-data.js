@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "cream",
     "pos": "n.",
     "cn_def": "奶油，乳霜",
-    "en_def": "",
+    "en_def": "the thick, white, fatty part of milk",
     "sentence": "She put some {{BLANK}} in her coffee.",
     "cn": "她在咖啡裡加了些奶油。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "create",
     "pos": "v.",
     "cn_def": "創造",
-    "en_def": "",
+    "en_def": "to make something new",
     "sentence": "He wants to {{BLANK}} a new game.",
     "cn": "他想創造一個新遊戲。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "credit card",
     "pos": "n.",
     "cn_def": "信用卡",
-    "en_def": "",
+    "en_def": "a plastic card you use to buy things now and pay later",
     "sentence": "She paid with her {{BLANK}}.",
     "cn": "她用信用卡支付了。",
     "nblanks": 2
@@ -35,7 +35,7 @@ const VOCAB = [
     "word": "crime",
     "pos": "n.",
     "cn_def": "罪行，犯罪",
-    "en_def": "",
+    "en_def": "something that is against the law",
     "sentence": "He was arrested for {{BLANK}}.",
     "cn": "他因犯罪被逮捕。"
   },
@@ -43,7 +43,7 @@ const VOCAB = [
     "word": "crowd",
     "pos": "n.",
     "cn_def": "人群",
-    "en_def": "",
+    "en_def": "a large group of people in one place",
     "sentence": "A large {{BLANK}} gathered at the concert.",
     "cn": "音樂會聚集了一大群人。"
   },
@@ -51,7 +51,7 @@ const VOCAB = [
     "word": "crowded",
     "pos": "adj.",
     "cn_def": "擁擠的",
-    "en_def": "",
+    "en_def": "full of people",
     "sentence": "The train was very {{BLANK}} during rush hour.",
     "cn": "高峰時段火車非常擁擠。"
   },
@@ -59,7 +59,7 @@ const VOCAB = [
     "word": "cruel",
     "pos": "adj.",
     "cn_def": "殘酷的，無情的",
-    "en_def": "",
+    "en_def": "making people or animals suffer; very unkind",
     "sentence": "It was {{BLANK}} to leave the dog outside in the cold.",
     "cn": "把狗留在寒冷的外面是很殘酷的。"
   },
@@ -67,7 +67,7 @@ const VOCAB = [
     "word": "cub",
     "pos": "n.",
     "cn_def": "幼獸，年輕人",
-    "en_def": "",
+    "en_def": "a baby lion, bear, or tiger",
     "sentence": "The lioness protected her {{BLANK}}.",
     "cn": "母獅保護她的幼崽。",
     "alts": [
@@ -78,7 +78,7 @@ const VOCAB = [
     "word": "culture",
     "pos": "n.",
     "cn_def": "文化",
-    "en_def": "",
+    "en_def": "the way of life, art, and ideas of a group of people",
     "sentence": "Japanese {{BLANK}} is known for its traditions.",
     "cn": "日本文化以其傳統著稱。"
   },
@@ -86,7 +86,7 @@ const VOCAB = [
     "word": "cure",
     "pos": "v.",
     "cn_def": "治癒",
-    "en_def": "",
+    "en_def": "to make a sick person well again; to make a sickness go away",
     "sentence": "They are working to {{BLANK}} the disease.",
     "cn": "他們正在努力治癒這種疾病。"
   },
@@ -94,7 +94,7 @@ const VOCAB = [
     "word": "curious",
     "pos": "adj.",
     "cn_def": "好奇的",
-    "en_def": "",
+    "en_def": "wanting to know or learn about something",
     "sentence": "She was {{BLANK}} about the new neighbors.",
     "cn": "她對新鄰居感到好奇。"
   },
@@ -102,7 +102,7 @@ const VOCAB = [
     "word": "current",
     "pos": "adj.",
     "cn_def": "當前的，現行的",
-    "en_def": "",
+    "en_def": "happening now",
     "sentence": "The {{BLANK}} situation is difficult.",
     "cn": "當前的情況很困難。"
   },
@@ -110,7 +110,7 @@ const VOCAB = [
     "word": "curtain",
     "pos": "n.",
     "cn_def": "窗簾，幕",
-    "en_def": "",
+    "en_def": "a piece of cloth that hangs in front of a window",
     "sentence": "She closed the {{BLANK}} before going to bed.",
     "cn": "她睡前拉上了窗簾。"
   },
@@ -118,7 +118,7 @@ const VOCAB = [
     "word": "curve",
     "pos": "n.",
     "cn_def": "曲線，彎曲",
-    "en_def": "",
+    "en_def": "a line or shape that bends",
     "sentence": "The road follows the {{BLANK}} of the hill.",
     "cn": "道路沿著山坡蜿蜒。"
   },
@@ -126,7 +126,7 @@ const VOCAB = [
     "word": "custom",
     "pos": "n.",
     "cn_def": "風俗，習慣",
-    "en_def": "",
+    "en_def": "something that people in a place have done for a long time",
     "sentence": "It is a local {{BLANK}} to celebrate the festival with fireworks.",
     "cn": "這是當地用煙花慶祝節日的習俗。"
   },
@@ -134,7 +134,7 @@ const VOCAB = [
     "word": "customer",
     "pos": "n.",
     "cn_def": "顧客",
-    "en_def": "",
+    "en_def": "a person who buys something from a store",
     "sentence": "The {{BLANK}} was satisfied with the service.",
     "cn": "顧客對服務很滿意。"
   },
@@ -142,7 +142,7 @@ const VOCAB = [
     "word": "daily",
     "pos": "adj.",
     "cn_def": "每日的，日常的",
-    "en_def": "",
+    "en_def": "happening or coming out every day",
     "sentence": "She reads the {{BLANK}} newspaper every morning.",
     "cn": "她每天早上讀日報。"
   },
@@ -150,7 +150,7 @@ const VOCAB = [
     "word": "damage",
     "pos": "v.",
     "cn_def": "損害，破壞",
-    "en_def": "",
+    "en_def": "to break or hurt something so it is not as good as before",
     "sentence": "The storm {{BLANK}} several houses.",
     "cn": "暴風雨損壞了幾座房屋。"
   },
@@ -158,7 +158,7 @@ const VOCAB = [
     "word": "dancer",
     "pos": "n.",
     "cn_def": "舞者，舞蹈家",
-    "en_def": "",
+    "en_def": "a person who dances",
     "sentence": "She is a professional {{BLANK}}.",
     "cn": "她是一名專業舞者。"
   },
@@ -166,7 +166,7 @@ const VOCAB = [
     "word": "danger",
     "pos": "n.",
     "cn_def": "危險",
-    "en_def": "",
+    "en_def": "the chance that someone will be hurt or killed",
     "sentence": "He was in great {{BLANK}} during the storm.",
     "cn": "他在暴風雨中處於極大的危險中。"
   }
@@ -418,117 +418,117 @@ const MCQS = [
 const LOOKUP = {
   "avoid": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to stay away from something; to try not to do something",
     "cn_def": "避免"
   },
   "commanded": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to tell someone that they must do something",
     "cn_def": "命令，指揮"
   },
   "cream": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the thick, white, fatty part of milk",
     "cn_def": "奶油，乳霜"
   },
   "create": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make something new",
     "cn_def": "創造"
   },
   "credit card": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a plastic card you use to buy things now and pay later",
     "cn_def": "信用卡"
   },
   "crime": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that is against the law",
     "cn_def": "罪行，犯罪"
   },
   "crowd": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a large group of people in one place",
     "cn_def": "人群"
   },
   "crowded": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "full of people",
     "cn_def": "擁擠的"
   },
   "cruel": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "making people or animals suffer; very unkind",
     "cn_def": "殘酷的，無情的"
   },
   "cubs": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a baby lion, bear, or tiger",
     "cn_def": "幼獸，年輕人"
   },
   "culture": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the way of life, art, and ideas of a group of people",
     "cn_def": "文化"
   },
   "cure": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make a sick person well again; to make a sickness go away",
     "cn_def": "治癒"
   },
   "curious": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "wanting to know or learn about something",
     "cn_def": "好奇的"
   },
   "current": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "happening now",
     "cn_def": "當前的，現行的"
   },
   "curtain": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a piece of cloth that hangs in front of a window",
     "cn_def": "窗簾，幕"
   },
   "curve": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a line or shape that bends",
     "cn_def": "曲線，彎曲"
   },
   "custom": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that people in a place have done for a long time",
     "cn_def": "風俗，習慣"
   },
   "customer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who buys something from a store",
     "cn_def": "顧客"
   },
   "daily": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "happening or coming out every day",
     "cn_def": "每日的，日常的"
   },
   "damaged": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to break or hurt something so it is not as good as before",
     "cn_def": "損害，破壞"
   },
   "dancer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who dances",
     "cn_def": "舞者，舞蹈家"
   },
   "danger": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the chance that someone will be hurt or killed",
     "cn_def": "危險"
   },
   "skate": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to move on ice wearing special shoes",
     "cn_def": "滑冰，溜冰"
   }
 };

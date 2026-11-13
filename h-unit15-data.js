@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "frank",
     "answer": "frank",
     "pos": "adj.",
-    "definition": "",
+    "definition": "saying what you really think; honest",
     "chinese": "坦率的",
     "sentence": "She gave a __________ opinion about the matter.",
     "translation": "她對這件事給出了坦率的意見。",
     "lookup": {
-     "english": "",
+     "english": "saying what you really think; honest",
      "chinese": "坦率的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "freedom",
     "answer": "freedom",
     "pos": "n.",
-    "definition": "",
+    "definition": "being able to do, say, and think what you want",
     "chinese": "自由",
     "sentence": "They fought for their __________.",
     "translation": "他們為自由而戰。",
     "lookup": {
-     "english": "",
+     "english": "being able to do, say, and think what you want",
      "chinese": "自由"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "freezer",
     "answer": "freezer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine that keeps food very cold and hard like ice",
     "chinese": "冷凍庫",
     "sentence": "She put the ice cream in the __________.",
     "translation": "她把冰淇淋放在冷凍庫裡。",
     "lookup": {
-     "english": "",
+     "english": "a machine that keeps food very cold and hard like ice",
      "chinese": "冷凍庫"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "freezing",
     "answer": "freezing",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very, very cold",
     "chinese": "冰凍的，極冷的",
     "sentence": "It was __________ outside last night.",
     "translation": "昨晚外面很冷。",
     "lookup": {
-     "english": "",
+     "english": "very, very cold",
      "chinese": "冰凍的，極冷的"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "friendship",
     "answer": "friendship",
     "pos": "n.",
-    "definition": "",
+    "definition": "the feeling between people who are friends",
     "chinese": "友誼",
     "sentence": "Their __________ has lasted for years.",
     "translation": "他們的友誼已持續多年。",
     "lookup": {
-     "english": "",
+     "english": "the feeling between people who are friends",
      "chinese": "友誼"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "frighten",
     "answer": "frightened",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make someone afraid",
     "chinese": "使害怕",
     "sentence": "The loud noise __________ the children.",
     "translation": "巨大的聲音嚇到了孩子們。",
     "lookup": {
-     "english": "",
+     "english": "to make someone afraid",
      "chinese": "使害怕"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "Frisbee",
     "answer": "Frisbee",
     "pos": "n.",
-    "definition": "",
+    "definition": "a flat plastic plate that people throw to each other for fun",
     "chinese": "飛盤",
     "sentence": "They played __________ in the park.",
     "translation": "他們在公園裡玩飛盤。",
     "lookup": {
-     "english": "",
+     "english": "a flat plastic plate that people throw to each other for fun",
      "chinese": "飛盤"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "furniture",
     "answer": "furniture",
     "pos": "n.",
-    "definition": "",
+    "definition": "tables, chairs, beds, and other big things in a house",
     "chinese": "家具",
     "sentence": "They bought new __________ for the living room.",
     "translation": "他們為客廳買了新家具。",
     "lookup": {
-     "english": "",
+     "english": "tables, chairs, beds, and other big things in a house",
      "chinese": "家具"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "gain",
     "answer": "gain",
     "pos": "v.",
-    "definition": "",
+    "definition": "to get something that you want or need",
     "chinese": "獲得，增加",
     "sentence": "She managed to __________ the trust of her colleagues.",
     "translation": "她設法贏得了同事的信任。",
     "lookup": {
-     "english": "",
+     "english": "to get something that you want or need",
      "chinese": "獲得，增加"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "garage",
     "answer": "garage",
     "pos": "n.",
-    "definition": "",
+    "definition": "a building where you keep a car",
     "chinese": "車庫",
     "sentence": "He parked his car in the __________.",
     "translation": "他把車停在車庫裡。",
     "lookup": {
-     "english": "",
+     "english": "a building where you keep a car",
      "chinese": "車庫"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "gather",
     "answer": "gathered",
     "pos": "v.",
-    "definition": "",
+    "definition": "to come together in a group",
     "chinese": "聚集，收集",
     "sentence": "They __________ around the table for dinner.",
     "translation": "他們聚集在桌子旁吃晚飯。",
     "lookup": {
-     "english": "",
+     "english": "to come together in a group",
      "chinese": "聚集，收集"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "general",
     "answer": "general",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not exact or full of details; about the main things only",
     "chinese": "一般的，總的",
     "sentence": "She has a __________ idea of how the system works.",
     "translation": "她大致了解系統的運作方式。",
     "lookup": {
-     "english": "",
+     "english": "not exact or full of details; about the main things only",
      "chinese": "一般的，總的"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "generous",
     "answer": "generous",
     "pos": "adj.",
-    "definition": "",
+    "definition": "happy to give money, help, or time to others",
     "chinese": "慷慨的，大方的",
     "sentence": "He is very __________ with his time.",
     "translation": "他很慷慨地付出他的時間。",
     "lookup": {
-     "english": "",
+     "english": "happy to give money, help, or time to others",
      "chinese": "慷慨的，大方的"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "genius",
     "answer": "genius",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who is much smarter or better at something than other people",
     "chinese": "天才",
     "sentence": "He is considered a musical __________.",
     "translation": "他被認為是音樂天才。",
     "lookup": {
-     "english": "",
+     "english": "a person who is much smarter or better at something than other people",
      "chinese": "天才"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "gentle",
     "answer": "gentle",
     "pos": "adj.",
-    "definition": "",
+    "definition": "soft, kind, and careful",
     "chinese": "溫和的，文雅的",
     "sentence": "She has a __________ touch when handling animals.",
     "translation": "她對待動物時很溫柔。",
     "lookup": {
-     "english": "",
+     "english": "soft, kind, and careful",
      "chinese": "溫和的，文雅的"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "gentleman",
     "answer": "gentleman",
     "pos": "n.",
-    "definition": "",
+    "definition": "a man who is polite and kind to others",
     "chinese": "紳士",
     "sentence": "He is a true __________.",
     "translation": "他是一位真正的紳士。",
     "lookup": {
-     "english": "",
+     "english": "a man who is polite and kind to others",
      "chinese": "紳士"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "geography",
     "answer": "geography",
     "pos": "n.",
-    "definition": "",
+    "definition": "the study of the countries, mountains, and seas of the world",
     "chinese": "地理學",
     "sentence": "She is studying __________ in school.",
     "translation": "她在學校學習地理。",
     "lookup": {
-     "english": "",
+     "english": "the study of the countries, mountains, and seas of the world",
      "chinese": "地理學"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "gesture",
     "answer": "gesture",
     "pos": "n.",
-    "definition": "",
+    "definition": "something you do to show how you feel; a movement of the hand",
     "chinese": "手勢，姿勢",
     "sentence": "He made a kind __________ to help her.",
     "translation": "他做了一個友好的手勢來幫助她。",
     "lookup": {
-     "english": "",
+     "english": "something you do to show how you feel; a movement of the hand",
      "chinese": "手勢，姿勢"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "goal",
     "answer": "goal",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that you want to do or reach in the future",
     "chinese": "目標，球門",
     "sentence": "His main __________ is to finish the project on time.",
     "translation": "他的主要目標是按時完成專案。",
     "lookup": {
-     "english": "",
+     "english": "something that you want to do or reach in the future",
      "chinese": "目標，球門"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "god",
     "answer": "god",
     "pos": "n.",
-    "definition": "",
+    "definition": "one of the beings that people pray to",
     "chinese": "神",
     "sentence": "They prayed to their __________.",
     "translation": "他們向他們的神祈禱。",
     "lookup": {
-     "english": "",
+     "english": "one of the beings that people pray to",
      "chinese": "神"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"completed":["","完成，完整的"],"expect":["","期望，預期"],"frank":["","坦率的"],"freedom":["","自由"],"freezer":["","冷凍庫"],"freezing":["","冰凍的，極冷的"],"friendship":["","友誼"],"frightened":["","使害怕"],"frisbee":["","飛盤"],"furniture":["","家具"],"gain":["","獲得，增加"],"garage":["","車庫"],"gathered":["","聚集，收集"],"general":["","一般的，總的"],"generous":["","慷慨的，大方的"],"genius":["","天才"],"gentle":["","溫和的，文雅的"],"gentleman":["","紳士"],"geography":["","地理學"],"gesture":["","手勢，姿勢"],"goal":["","目標，球門"],"god":["","神"],"ruined":["","毀壞，破壞"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"completed":["to finish something","完成，完整的"],"expect":["to think that something will happen","期望，預期"],"frank":["saying what you really think; honest","坦率的"],"freedom":["being able to do, say, and think what you want","自由"],"freezer":["a machine that keeps food very cold and hard like ice","冷凍庫"],"freezing":["very, very cold","冰凍的，極冷的"],"friendship":["the feeling between people who are friends","友誼"],"frightened":["to make someone afraid","使害怕"],"frisbee":["a flat plastic plate that people throw to each other for fun","飛盤"],"furniture":["tables, chairs, beds, and other big things in a house","家具"],"gain":["to get something that you want or need","獲得，增加"],"garage":["a building where you keep a car","車庫"],"gathered":["to come together in a group","聚集，收集"],"general":["not exact or full of details; about the main things only","一般的，總的"],"generous":["happy to give money, help, or time to others","慷慨的，大方的"],"genius":["a person who is much smarter or better at something than other people","天才"],"gentle":["soft, kind, and careful","溫和的，文雅的"],"gentleman":["a man who is polite and kind to others","紳士"],"geography":["the study of the countries, mountains, and seas of the world","地理學"],"gesture":["something you do to show how you feel; a movement of the hand","手勢，姿勢"],"goal":["something that you want to do or reach in the future","目標，球門"],"god":["one of the beings that people pray to","神"],"ruined":["to spoil or destroy something completely","毀壞，破壞"]});

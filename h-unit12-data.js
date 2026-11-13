@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "elder",
     "answer": "elder",
     "pos": "adj.",
-    "definition": "",
+    "definition": "older (of two people in a family)",
     "chinese": "年長的",
     "sentence": "She took care of her __________ brother.",
     "translation": "她照顧她的哥哥。",
     "lookup": {
-     "english": "",
+     "english": "older (of two people in a family)",
      "chinese": "年長的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "elect",
     "answer": "elected",
     "pos": "v.",
-    "definition": "",
+    "definition": "to choose someone for a job by voting",
     "chinese": "選舉，選擇",
     "sentence": "They __________ her as the new president.",
     "translation": "他們選舉她為新總統。",
     "lookup": {
-     "english": "",
+     "english": "to choose someone for a job by voting",
      "chinese": "選舉，選擇"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "electric",
     "answer": "electric",
     "pos": "adj.",
-    "definition": "",
+    "definition": "using electricity to work",
     "chinese": "電的，電動的",
     "sentence": "They bought an __________ car.",
     "translation": "他們買了一輛電動車。",
     "lookup": {
-     "english": "",
+     "english": "using electricity to work",
      "chinese": "電的，電動的"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "embarrass",
     "answer": "embarrassed",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make someone feel shy or silly in front of other people",
     "chinese": "使尷尬",
     "sentence": "His comments __________ her.",
     "translation": "他的評論讓她很尷尬。",
     "lookup": {
-     "english": "",
+     "english": "to make someone feel shy or silly in front of other people",
      "chinese": "使尷尬"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "emotion",
     "answer": "emotions",
     "pos": "n.",
-    "definition": "",
+    "definition": "a strong feeling, like love, fear, or anger",
     "chinese": "情感，情緒",
     "sentence": "She couldn't hide her __________.",
     "translation": "她無法掩飾她的情感。",
     "lookup": {
-     "english": "",
+     "english": "a strong feeling, like love, fear, or anger",
      "chinese": "情感，情緒"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "emphasize",
     "answer": "emphasized",
     "pos": "v.",
-    "definition": "",
+    "definition": "to say that something is very important",
     "chinese": "強調",
     "sentence": "The teacher __________ the importance of studying hard.",
     "translation": "老師強調努力學習的重要性。",
     "lookup": {
-     "english": "",
+     "english": "to say that something is very important",
      "chinese": "強調"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "employ",
     "answer": "employ",
     "pos": "v.",
-    "definition": "",
+    "definition": "to give someone a job and pay them",
     "chinese": "雇用",
     "sentence": "The company plans to __________ 100 new workers.",
     "translation": "公司計劃雇用100名新員工。",
     "lookup": {
-     "english": "",
+     "english": "to give someone a job and pay them",
      "chinese": "雇用"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "empty",
     "answer": "empty",
     "pos": "adj.",
-    "definition": "",
+    "definition": "with nothing or nobody inside",
     "chinese": "空的，無人的",
     "sentence": "The room was completely __________.",
     "translation": "房間完全空了。",
     "lookup": {
-     "english": "",
+     "english": "with nothing or nobody inside",
      "chinese": "空的，無人的"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "enemy",
     "answer": "enemies",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who hates you or fights against you",
     "chinese": "敵人",
     "sentence": "He made many __________ during the war.",
     "translation": "他在戰爭中結下了許多仇敵。",
     "lookup": {
-     "english": "",
+     "english": "a person who hates you or fights against you",
      "chinese": "敵人"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "energetic",
     "answer": "energetic",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very active; full of energy",
     "chinese": "精力充沛的",
     "sentence": "She is always so __________.",
     "translation": "她總是這麼精力充沛。",
     "lookup": {
-     "english": "",
+     "english": "very active; full of energy",
      "chinese": "精力充沛的"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "energy",
     "answer": "energy",
     "pos": "n.",
-    "definition": "",
+    "definition": "the power to be active and do a lot without getting tired",
     "chinese": "能量，精力",
     "sentence": "He has a lot of __________ for his age.",
     "translation": "他這個年紀精力很充沛。",
     "lookup": {
-     "english": "",
+     "english": "the power to be active and do a lot without getting tired",
      "chinese": "能量，精力"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "engine",
     "answer": "engine",
     "pos": "n.",
-    "definition": "",
+    "definition": "the part of a car or machine that makes it move",
     "chinese": "引擎，發動機",
     "sentence": "The car's __________ is very powerful.",
     "translation": "這輛車的引擎非常強大。",
     "lookup": {
-     "english": "",
+     "english": "the part of a car or machine that makes it move",
      "chinese": "引擎，發動機"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "entrance",
     "answer": "entrance",
     "pos": "n.",
-    "definition": "",
+    "definition": "the door or gate where you go into a place",
     "chinese": "入口",
     "sentence": "The __________ to the building is around the corner.",
     "translation": "建築物的入口在拐角處。",
     "lookup": {
-     "english": "",
+     "english": "the door or gate where you go into a place",
      "chinese": "入口"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "environment",
     "answer": "environment",
     "pos": "n.",
-    "definition": "",
+    "definition": "the air, water, and land around us",
     "chinese": "環境",
     "sentence": "We need to protect the __________.",
     "translation": "我們需要保護環境。",
     "lookup": {
-     "english": "",
+     "english": "the air, water, and land around us",
      "chinese": "環境"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "envy",
     "answer": "envy",
     "pos": "v.",
-    "definition": "",
+    "definition": "to wish you had what someone else has",
     "chinese": "嫉妒，羨慕",
     "sentence": "She couldn't help but __________ her friend's success.",
     "translation": "她忍不住嫉妒她朋友的成功。",
     "lookup": {
-     "english": "",
+     "english": "to wish you had what someone else has",
      "chinese": "嫉妒，羨慕"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "equal",
     "answer": "equal",
     "pos": "adj.",
-    "definition": "",
+    "definition": "the same in size, number, or value",
     "chinese": "平等的，相等的",
     "sentence": "All people are created __________.",
     "translation": "所有人都是平等的。",
     "lookup": {
-     "english": "",
+     "english": "the same in size, number, or value",
      "chinese": "平等的，相等的"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "error",
     "answer": "errors",
     "pos": "n.",
-    "definition": "",
+    "definition": "a mistake",
     "chinese": "錯誤",
     "sentence": "The document contained several __________.",
     "translation": "文件中包含幾個錯誤。",
     "lookup": {
-     "english": "",
+     "english": "a mistake",
      "chinese": "錯誤"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "especially",
     "answer": "especially",
     "pos": "adv.",
-    "definition": "",
+    "definition": "more than others; more than usual",
     "chinese": "特別地，尤其",
     "sentence": "She loves all fruit, __________ strawberries.",
     "translation": "她喜歡所有的水果，特別是草莓。",
     "lookup": {
-     "english": "",
+     "english": "more than others; more than usual",
      "chinese": "特別地，尤其"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "event",
     "answer": "event",
     "pos": "n.",
-    "definition": "",
+    "definition": "something important that happens",
     "chinese": "事件，活動",
     "sentence": "The concert was a major __________.",
     "translation": "音樂會是一個重要事件。",
     "lookup": {
-     "english": "",
+     "english": "something important that happens",
      "chinese": "事件，活動"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "everywhere",
     "answer": "everywhere",
     "pos": "adv.",
-    "definition": "",
+    "definition": "in all places",
     "chinese": "到處",
     "sentence": "There were flowers __________.",
     "translation": "到處都是花。",
     "lookup": {
-     "english": "",
+     "english": "in all places",
      "chinese": "到處"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"elder":["","年長的"],"elected":["","選舉，選擇"],"electric":["","電的，電動的"],"embarrassed":["","使尷尬"],"emotions":["","情感，情緒"],"emphasized":["","強調"],"employ":["","雇用"],"empty":["","空的，無人的"],"enemies":["","敵人"],"energetic":["","精力充沛的"],"energy":["","能量，精力"],"engine":["","引擎，發動機"],"entrance":["","入口"],"environment":["","環境"],"envy":["","嫉妒，羨慕"],"equal":["","平等的，相等的"],"errors":["","錯誤"],"especially":["","特別地，尤其"],"event":["","事件，活動"],"everywhere":["","到處"],"forward":["","向前"],"rather":["","寧願，倒不如說"],"suddenly":["","突然地，忽然"],"therefore":["","因此，所以"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"elder":["older (of two people in a family)","年長的"],"elected":["to choose someone for a job by voting","選舉，選擇"],"electric":["using electricity to work","電的，電動的"],"embarrassed":["to make someone feel shy or silly in front of other people","使尷尬"],"emotions":["a strong feeling, like love, fear, or anger","情感，情緒"],"emphasized":["to say that something is very important","強調"],"employ":["to give someone a job and pay them","雇用"],"empty":["with nothing or nobody inside","空的，無人的"],"enemies":["a person who hates you or fights against you","敵人"],"energetic":["very active; full of energy","精力充沛的"],"energy":["the power to be active and do a lot without getting tired","能量，精力"],"engine":["the part of a car or machine that makes it move","引擎，發動機"],"entrance":["the door or gate where you go into a place","入口"],"environment":["the air, water, and land around us","環境"],"envy":["to wish you had what someone else has","嫉妒，羨慕"],"equal":["the same in size, number, or value","平等的，相等的"],"errors":["a mistake","錯誤"],"especially":["more than others; more than usual","特別地，尤其"],"event":["something important that happens","事件，活動"],"everywhere":["in all places","到處"],"forward":["toward the front","向前"],"rather":["more willingly (used with \"would\")","寧願，倒不如說"],"suddenly":["quickly and when you do not expect it","突然地，忽然"],"therefore":["so; for that reason","因此，所以"]});

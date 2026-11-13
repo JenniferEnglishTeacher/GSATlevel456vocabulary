@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "final",
     "pos": "adj.",
     "cn_def": "最後的，決定性的",
-    "en_def": "",
+    "en_def": "last",
     "sentence": "The {{BLANK}} decision will be made tomorrow.",
     "cn": "最終決定將在明天作出。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "fit",
     "pos": "adj.",
     "cn_def": "合適的，健康的",
-    "en_def": "",
+    "en_def": "to be the right size for someone",
     "sentence": "These shoes {{BLANK}} perfectly.",
     "cn": "這雙鞋非常合適。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "flag",
     "pos": "n.",
     "cn_def": "旗幟",
-    "en_def": "",
+    "en_def": "a piece of cloth with colors and shapes that stands for a country",
     "sentence": "They raised the national {{BLANK}}.",
     "cn": "他們升起了國旗。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "flashlight",
     "pos": "n.",
     "cn_def": "手電筒",
-    "en_def": "",
+    "en_def": "a small light that you carry in your hand",
     "sentence": "She used a {{BLANK}} to find her way in the dark.",
     "cn": "她用手電筒在黑暗中找路。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "flat tire",
     "pos": "n.",
     "cn_def": "爆胎",
-    "en_def": "",
+    "en_def": "a wheel on a car or bike that has lost its air",
     "sentence": "He had a {{BLANK}} on his way to work.",
     "cn": "他上班途中遇到了爆胎。",
     "nblanks": 2
@@ -51,7 +51,7 @@ const VOCAB = [
     "word": "flight",
     "pos": "n.",
     "cn_def": "飛行，航班",
-    "en_def": "",
+    "en_def": "a trip in a plane",
     "sentence": "Their {{BLANK}} was delayed due to bad weather.",
     "cn": "他們的航班因天氣惡劣而延誤。"
   },
@@ -59,7 +59,7 @@ const VOCAB = [
     "word": "flour",
     "pos": "n.",
     "cn_def": "麵粉",
-    "en_def": "",
+    "en_def": "white powder made from wheat, used to make bread and cakes",
     "sentence": "She used {{BLANK}} to bake the cake.",
     "cn": "她用麵粉烤蛋糕。"
   },
@@ -67,7 +67,7 @@ const VOCAB = [
     "word": "flu",
     "pos": "n.",
     "cn_def": "流感",
-    "en_def": "",
+    "en_def": "a sickness like a very bad cold, with a fever",
     "sentence": "He caught the {{BLANK}} last week.",
     "cn": "他上週得了流感。"
   },
@@ -75,7 +75,7 @@ const VOCAB = [
     "word": "flute",
     "pos": "n.",
     "cn_def": "長笛",
-    "en_def": "",
+    "en_def": "a long, thin musical instrument that you blow into",
     "sentence": "She plays the {{BLANK}} in the school band.",
     "cn": "她在校樂隊裡吹長笛。"
   },
@@ -83,7 +83,7 @@ const VOCAB = [
     "word": "focus",
     "pos": "v.",
     "cn_def": "集中，專注",
-    "en_def": "",
+    "en_def": "to give all your attention to one thing",
     "sentence": "You need to {{BLANK}} on your studies.",
     "cn": "你需要專注於學習。"
   },
@@ -91,7 +91,7 @@ const VOCAB = [
     "word": "fog",
     "pos": "n.",
     "cn_def": "霧",
-    "en_def": "",
+    "en_def": "thick cloud near the ground that is hard to see through",
     "sentence": "The {{BLANK}} was so thick that we couldn't see the road.",
     "cn": "霧太濃了，我們看不見路。"
   },
@@ -99,7 +99,7 @@ const VOCAB = [
     "word": "foggy",
     "pos": "adj.",
     "cn_def": "有霧的，模糊的",
-    "en_def": "",
+    "en_def": "with a lot of fog",
     "sentence": "It was a cold and {{BLANK}} morning.",
     "cn": "那是一個寒冷而有霧的早晨。"
   },
@@ -107,7 +107,7 @@ const VOCAB = [
     "word": "foolish",
     "pos": "adj.",
     "cn_def": "愚蠢的",
-    "en_def": "",
+    "en_def": "not wise; silly",
     "sentence": "It was {{BLANK}} to make such a mistake.",
     "cn": "犯這樣的錯誤真是愚蠢。"
   },
@@ -115,7 +115,7 @@ const VOCAB = [
     "word": "football",
     "pos": "n.",
     "cn_def": "足球",
-    "en_def": "",
+    "en_def": "a game in which two teams kick a ball; soccer",
     "sentence": "He enjoys playing {{BLANK}} with his friends.",
     "cn": "他喜歡和朋友一起踢足球。"
   },
@@ -123,7 +123,7 @@ const VOCAB = [
     "word": "forest",
     "pos": "n.",
     "cn_def": "森林",
-    "en_def": "",
+    "en_def": "a large area of land covered with trees",
     "sentence": "They went for a hike in the {{BLANK}}.",
     "cn": "他們在森林裡遠足。"
   },
@@ -131,7 +131,7 @@ const VOCAB = [
     "word": "forgive",
     "pos": "v.",
     "cn_def": "原諒，寬恕",
-    "en_def": "",
+    "en_def": "to stop being angry with someone for something they did",
     "sentence": "She decided to {{BLANK}} him for his mistake.",
     "cn": "她決定原諒他的錯誤。"
   },
@@ -139,7 +139,7 @@ const VOCAB = [
     "word": "form",
     "pos": "n.",
     "cn_def": "形式，表格",
-    "en_def": "",
+    "en_def": "a paper with spaces where you write information",
     "sentence": "Please fill out this {{BLANK}}.",
     "cn": "請填寫這張表格。"
   },
@@ -147,7 +147,7 @@ const VOCAB = [
     "word": "formal",
     "pos": "adj.",
     "cn_def": "正式的",
-    "en_def": "",
+    "en_def": "serious and following rules; not relaxed",
     "sentence": "The event was very {{BLANK}}.",
     "cn": "這個活動非常正式。"
   },
@@ -155,7 +155,7 @@ const VOCAB = [
     "word": "former",
     "pos": "adj.",
     "cn_def": "以前的，前者的",
-    "en_def": "",
+    "en_def": "having been something in the past, but not now",
     "sentence": "He is a {{BLANK}} president of the club.",
     "cn": "他是該俱樂部的前任主席。"
   },
@@ -163,7 +163,7 @@ const VOCAB = [
     "word": "forward",
     "pos": "adv.",
     "cn_def": "向前",
-    "en_def": "",
+    "en_def": "toward the front",
     "sentence": "She took a step {{BLANK}}.",
     "cn": "她向前走了一步。"
   }
@@ -415,137 +415,137 @@ const MCQS = [
 const LOOKUP = {
   "discuss": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to talk about something with other people",
     "cn_def": "討論，商議"
   },
   "express": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to show a feeling or idea with words or actions",
     "cn_def": "表達，表現"
   },
   "final": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "last",
     "cn_def": "最後的，決定性的"
   },
   "fit": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "to be the right size for someone",
     "cn_def": "合適的，健康的"
   },
   "flag": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a piece of cloth with colors and shapes that stands for a country",
     "cn_def": "旗幟"
   },
   "flashlight": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small light that you carry in your hand",
     "cn_def": "手電筒"
   },
   "flat tire": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a wheel on a car or bike that has lost its air",
     "cn_def": "爆胎"
   },
   "flight": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a trip in a plane",
     "cn_def": "飛行，航班"
   },
   "flour": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "white powder made from wheat, used to make bread and cakes",
     "cn_def": "麵粉"
   },
   "flu": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a sickness like a very bad cold, with a fever",
     "cn_def": "流感"
   },
   "flute": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a long, thin musical instrument that you blow into",
     "cn_def": "長笛"
   },
   "focus": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to give all your attention to one thing",
     "cn_def": "集中，專注"
   },
   "fog": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "thick cloud near the ground that is hard to see through",
     "cn_def": "霧"
   },
   "foggy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with a lot of fog",
     "cn_def": "有霧的，模糊的"
   },
   "foolish": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not wise; silly",
     "cn_def": "愚蠢的"
   },
   "football": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a game in which two teams kick a ball; soccer",
     "cn_def": "足球"
   },
   "forest": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a large area of land covered with trees",
     "cn_def": "森林"
   },
   "forgive": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to stop being angry with someone for something they did",
     "cn_def": "原諒，寬恕"
   },
   "form": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a paper with spaces where you write information",
     "cn_def": "形式，表格"
   },
   "formal": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "serious and following rules; not relaxed",
     "cn_def": "正式的"
   },
   "former": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having been something in the past, but not now",
     "cn_def": "以前的，前者的"
   },
   "forward": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "toward the front",
     "cn_def": "向前"
   },
   "hardly": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "almost not",
     "cn_def": "幾乎不，勉強地"
   },
   "nearly": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "almost",
     "cn_def": "幾乎，差不多"
   },
   "neither": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "not one and not the other of two",
     "cn_def": "也不，既不"
   },
   "serve": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to give food or drinks to people",
     "cn_def": "服務，提供"
   },
   "sink": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to go down under water",
     "cn_def": "下沉，沉沒"
   }
 };

@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "power",
     "pos": "n.",
     "cn_def": "力量，電力",
-    "en_def": "",
+    "en_def": "electricity",
     "sentence": "The {{BLANK}} went out during the storm.",
     "cn": "暴風雨期間停電了。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "powder",
     "pos": "n.",
     "cn_def": "粉末",
-    "en_def": "",
+    "en_def": "something dry in very small pieces, like flour",
     "sentence": "She added cocoa {{BLANK}} to the recipe.",
     "cn": "她在食譜裡加了可可粉。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "praise",
     "pos": "v.",
     "cn_def": "讚美，表揚",
-    "en_def": "",
+    "en_def": "to say good things about someone or something",
     "sentence": "The teacher {{BLANK}} the students for their hard work.",
     "cn": "老師表揚了學生們的努力。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "precious",
     "pos": "adj.",
     "cn_def": "珍貴的，寶貴的",
-    "en_def": "",
+    "en_def": "very special and important to you; worth a lot",
     "sentence": "This ring is very {{BLANK}} to her.",
     "cn": "這枚戒指對她來說非常珍貴。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "president",
     "pos": "n.",
     "cn_def": "總統，主席",
-    "en_def": "",
+    "en_def": "the leader of a country or a company",
     "sentence": "The {{BLANK}} gave a speech at the ceremony.",
     "cn": "總統在儀式上發表了演講。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "pressure",
     "pos": "n.",
     "cn_def": "壓力，壓迫",
-    "en_def": "",
+    "en_def": "a feeling of worry because you must do a lot or do well",
     "sentence": "She felt a lot of {{BLANK}} to succeed.",
     "cn": "她感到很大的成功壓力。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "priest",
     "pos": "n.",
     "cn_def": "神父，牧師",
-    "en_def": "",
+    "en_def": "a person who leads people in prayer in a church",
     "sentence": "The {{BLANK}} led the congregation in prayer.",
     "cn": "神父帶領會眾祈禱。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "primary",
     "pos": "adj.",
     "cn_def": "主要的，初級的",
-    "en_def": "",
+    "en_def": "main; most important",
     "sentence": "Her {{BLANK}} concern is her child's safety.",
     "cn": "她主要關心的是孩子的安全。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "prince",
     "pos": "n.",
     "cn_def": "王子",
-    "en_def": "",
+    "en_def": "the son of a king or queen",
     "sentence": "The {{BLANK}} will inherit the throne.",
     "cn": "王子將繼承王位。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "princess",
     "pos": "n.",
     "cn_def": "公主",
-    "en_def": "",
+    "en_def": "the daughter of a king or queen",
     "sentence": "The {{BLANK}} wore a beautiful gown.",
     "cn": "公主穿著美麗的禮服。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "principal",
     "pos": "n.",
     "cn_def": "校長",
-    "en_def": "",
+    "en_def": "the head of a school",
     "sentence": "The {{BLANK}} of the school is very strict.",
     "cn": "學校的校長非常嚴格。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "principle",
     "pos": "n.",
     "cn_def": "原則，信條",
-    "en_def": "",
+    "en_def": "a rule or idea about what is right that you live by",
     "sentence": "He lives by strong moral {{BLANK}}.",
     "cn": "他遵循強烈的道德原則生活。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "print",
     "pos": "v.",
     "cn_def": "打印，印刷",
-    "en_def": "",
+    "en_def": "to put words or pictures on paper with a machine",
     "sentence": "She needs to {{BLANK}} the documents.",
     "cn": "她需要打印文件。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "printer",
     "pos": "n.",
     "cn_def": "印表機",
-    "en_def": "",
+    "en_def": "a machine that puts words and pictures from a computer on paper",
     "sentence": "The {{BLANK}} is out of ink.",
     "cn": "印表機沒墨水了。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "private",
     "pos": "adj.",
     "cn_def": "私人的，私密的",
-    "en_def": "",
+    "en_def": "only for one person or a small group; not public",
     "sentence": "They had a {{BLANK}} conversation.",
     "cn": "他們進行了一次私密的對話。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "produce",
     "pos": "v.",
     "cn_def": "生產，製造",
-    "en_def": "",
+    "en_def": "to make or grow something",
     "sentence": "The factory {{BLANK}} thousands of cars each year.",
     "cn": "工廠每年生產數千輛汽車。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "production",
     "pos": "n.",
     "cn_def": "生產，製作",
-    "en_def": "",
+    "en_def": "the work of making something, like cars or a film",
     "sentence": "The film is currently in {{BLANK}}.",
     "cn": "這部電影目前正在製作中。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "professor",
     "pos": "n.",
     "cn_def": "教授",
-    "en_def": "",
+    "en_def": "a teacher at a university",
     "sentence": "She is a {{BLANK}} of biology.",
     "cn": "她是一位生物學教授。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "progress",
     "pos": "n.",
     "cn_def": "進步，進展",
-    "en_def": "",
+    "en_def": "getting better or moving forward",
     "sentence": "The project is making good {{BLANK}}.",
     "cn": "專案進展順利。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "project",
     "pos": "n.",
     "cn_def": "專案，計劃",
-    "en_def": "",
+    "en_def": "a big piece of work that is planned carefully",
     "sentence": "They are working on a new {{BLANK}}.",
     "cn": "他們正在進行一個新專案。"
   }
@@ -414,132 +414,132 @@ const MCQS = [
 const LOOKUP = {
   "careless": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not thinking about what you are doing, so you make mistakes",
     "cn_def": "粗心的"
   },
   "dialed": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to press the numbers on a phone to call someone",
     "cn_def": "撥號"
   },
   "greedy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "wanting more money or food than you need",
     "cn_def": "貪婪的"
   },
   "hug": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "holding someone in your arms to show love",
     "cn_def": "擁抱"
   },
   "includes": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to have something as one of its parts",
     "cn_def": "包含"
   },
   "intelligent": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "smart; able to learn and understand quickly",
     "cn_def": "聰明的，智慧的"
   },
   "power": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "electricity",
     "cn_def": "力量，電力"
   },
   "powder": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something dry in very small pieces, like flour",
     "cn_def": "粉末"
   },
   "praised": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to say good things about someone or something",
     "cn_def": "讚美，表揚"
   },
   "precious": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very special and important to you; worth a lot",
     "cn_def": "珍貴的，寶貴的"
   },
   "president": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the leader of a country or a company",
     "cn_def": "總統，主席"
   },
   "pressure": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a feeling of worry because you must do a lot or do well",
     "cn_def": "壓力，壓迫"
   },
   "priest": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who leads people in prayer in a church",
     "cn_def": "神父，牧師"
   },
   "primary": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "main; most important",
     "cn_def": "主要的，初級的"
   },
   "prince": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the son of a king or queen",
     "cn_def": "王子"
   },
   "princess": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the daughter of a king or queen",
     "cn_def": "公主"
   },
   "principal": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the head of a school",
     "cn_def": "校長"
   },
   "principles": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a rule or idea about what is right that you live by",
     "cn_def": "原則，信條"
   },
   "print": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to put words or pictures on paper with a machine",
     "cn_def": "打印，印刷"
   },
   "printer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a machine that puts words and pictures from a computer on paper",
     "cn_def": "印表機"
   },
   "private": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "only for one person or a small group; not public",
     "cn_def": "私人的，私密的"
   },
   "produces": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make or grow something",
     "cn_def": "生產，製造"
   },
   "production": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the work of making something, like cars or a film",
     "cn_def": "生產，製作"
   },
   "professor": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a teacher at a university",
     "cn_def": "教授"
   },
   "progress": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "getting better or moving forward",
     "cn_def": "進步，進展"
   },
   "project": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big piece of work that is planned carefully",
     "cn_def": "專案，計劃"
   }
 };

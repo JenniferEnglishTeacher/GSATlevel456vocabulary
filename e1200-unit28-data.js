@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "who",
     "pos": "pron.",
     "cn_def": "誰",
-    "en_def": "",
+    "en_def": "which person",
     "sentence": "Q: {{BLANK}} is that tall girl? — A: She is my cousin, Amy.",
     "cn": "那個高個子女孩是誰？ — 她是我的表妹艾美。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "how",
     "pos": "adv.",
     "cn_def": "如何；怎麼樣",
-    "en_def": "",
+    "en_def": "in what way; in what condition",
     "sentence": "Q: {{BLANK}} is your grandma today? — A: She is much better, thank you.",
     "cn": "你奶奶今天好嗎？ — 她好多了，謝謝你。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "what",
     "pos": "pron.",
     "cn_def": "什麼",
-    "en_def": "",
+    "en_def": "which thing",
     "sentence": "Q: {{BLANK}} do you usually do after school? — A: I usually play basketball with my friends.",
     "cn": "你放學後通常做什麼？ — 我通常和朋友打籃球。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "where",
     "pos": "adv.",
     "cn_def": "哪裡；何處",
-    "en_def": "",
+    "en_def": "in or to which place",
     "sentence": "Q: {{BLANK}} does your uncle live? — A: He lives in Kaohsiung. He works at a hospital there.",
     "cn": "你叔叔住在哪裡？ — 他住在高雄，他在那裡的一家醫院工作。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "when",
     "pos": "adv.",
     "cn_def": "什麼時候；何時",
-    "en_def": "",
+    "en_def": "at what time",
     "sentence": "Q: {{BLANK}} do you get up on Sundays? — A: I get up at nine. I don't go to school on Sundays.",
     "cn": "你星期天什麼時候起床？ — 我九點起床。我星期天不用上學。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "why",
     "pos": "adv.",
     "cn_def": "為什麼",
-    "en_def": "",
+    "en_def": "for what reason",
     "sentence": "Q: {{BLANK}} does Tom look sad? — A: Because he can't find his dog.",
     "cn": "湯姆為什麼看起來很難過？ — 因為他找不到他的狗。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "whose",
     "pos": "det.",
     "cn_def": "誰的",
-    "en_def": "",
+    "en_def": "belonging to which person",
     "sentence": "Q: {{BLANK}} notebook is this? Is it yours? — A: No, it isn't. It's Ben's. His name is on it.",
     "cn": "這是誰的筆記本？是你的嗎？ — 不，不是。是班的，上面有他的名字。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "which",
     "pos": "det.",
     "cn_def": "哪一個",
-    "en_def": "",
+    "en_def": "what one of two or more",
     "sentence": "Q: {{BLANK}} bike do you like, the red one or the blue one? — A: I like the blue one. It's really cool.",
     "cn": "你喜歡哪一輛腳踏車，紅色的還是藍色的？ — 我喜歡藍色那輛，它真的很酷。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "whether",
     "pos": "conj.",
     "cn_def": "是否",
-    "en_def": "",
+    "en_def": "if (something is true) or not",
     "sentence": "Q: Does Ben like coffee? — A: I don't know {{BLANK}} he likes it. Let's ask him.",
     "cn": "班喜歡咖啡嗎？ — 我不知道他是否喜歡。我們問問他吧。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "while",
     "pos": "conj.",
     "cn_def": "當…的時候",
-    "en_def": "",
+    "en_def": "during the time that",
     "sentence": "Q: What does your mom do in the evening? — A: She watches TV {{BLANK}} I do my homework.",
     "cn": "你媽媽晚上做什麼？ — 我寫功課的時候，她在看電視。"
   }
@@ -214,102 +214,102 @@ const MCQS = [
 const LOOKUP = {
   "some": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "a number or amount of something, not all",
     "cn_def": "一些"
   },
   "both": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "the two; one and also the other",
     "cn_def": "兩者都"
   },
   "those": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "the ones that are there, not near me",
     "cn_def": "那些"
   },
   "my": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "belonging to me",
     "cn_def": "我的"
   },
   "her": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "belonging to her",
     "cn_def": "她的"
   },
   "yourself": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "the person I am talking to (\"yourself\" = you and no one else)",
     "cn_def": "你（們）"
   },
   "everyone": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "all the people",
     "cn_def": "每一個人"
   },
   "who": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "which person",
     "cn_def": "誰"
   },
   "how": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "in what way; in what condition",
     "cn_def": "如何；怎麼樣"
   },
   "what": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "which thing",
     "cn_def": "什麼"
   },
   "where": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "in or to which place",
     "cn_def": "哪裡；何處"
   },
   "when": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "at what time",
     "cn_def": "什麼時候；何時"
   },
   "why": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "for what reason",
     "cn_def": "為什麼"
   },
   "whose": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "belonging to which person",
     "cn_def": "誰的"
   },
   "which": {
     "pos": "det.",
-    "en_def": "",
+    "en_def": "what one of two or more",
     "cn_def": "哪一個"
   },
   "whether": {
     "pos": "conj.",
-    "en_def": "",
+    "en_def": "if (something is true) or not",
     "cn_def": "是否"
   },
   "while": {
     "pos": "conj.",
-    "en_def": "",
+    "en_def": "during the time that",
     "cn_def": "當…的時候"
   },
   "than": {
     "pos": "prep.",
-    "en_def": "",
+    "en_def": "used when you compare two people or things",
     "cn_def": "比"
   },
   "because": {
     "pos": "conj.",
-    "en_def": "",
+    "en_def": "for the reason that",
     "cn_def": "因為"
   },
   "though": {
     "pos": "conj.",
-    "en_def": "",
+    "en_def": "used to join two ideas when the second is a surprise",
     "cn_def": "雖然"
   }
 };

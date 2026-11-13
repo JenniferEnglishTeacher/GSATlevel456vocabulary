@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "sincere",
     "pos": "adj.",
     "cn_def": "真誠的，誠懇的",
-    "en_def": "",
+    "en_def": "really meaning what you say; honest",
     "sentence": "He gave a {{BLANK}} apology.",
     "cn": "他真誠地道歉。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "single",
     "pos": "adj.",
     "cn_def": "單一的，單身的",
-    "en_def": "",
+    "en_def": "not married; only one",
     "sentence": "She is a {{BLANK}} mother.",
     "cn": "她是一位單親媽媽。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "sink",
     "pos": "v.",
     "cn_def": "下沉，沉沒",
-    "en_def": "",
+    "en_def": "to go down under water",
     "sentence": "The boat began to {{BLANK}}.",
     "cn": "船開始下沉。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "skate",
     "pos": "v.",
     "cn_def": "滑冰，溜冰",
-    "en_def": "",
+    "en_def": "to move on ice wearing special shoes",
     "sentence": "They like to {{BLANK}} in the winter.",
     "cn": "他們喜歡冬天滑冰。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "ski",
     "pos": "v.",
     "cn_def": "滑雪",
-    "en_def": "",
+    "en_def": "to move over snow on two long, thin boards",
     "sentence": "He went {{BLANK}} in the mountains.",
     "cn": "他去山上滑雪。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "skill",
     "pos": "n.",
     "cn_def": "技能，本領",
-    "en_def": "",
+    "en_def": "something that you can do well because you have practiced",
     "sentence": "She has great culinary {{BLANK}}.",
     "cn": "她有很棒的烹飪技能。",
     "alts": [
@@ -61,7 +61,7 @@ const VOCAB = [
     "word": "skillful",
     "pos": "adj.",
     "cn_def": "熟練的，靈巧的",
-    "en_def": "",
+    "en_def": "good at doing something",
     "sentence": "He is very {{BLANK}} with his hands.",
     "cn": "他的手很靈巧。"
   },
@@ -69,7 +69,7 @@ const VOCAB = [
     "word": "skin",
     "pos": "n.",
     "cn_def": "皮膚，外皮",
-    "en_def": "",
+    "en_def": "the outside cover of your body",
     "sentence": "She has fair {{BLANK}}.",
     "cn": "她的皮膚很白皙。"
   },
@@ -77,7 +77,7 @@ const VOCAB = [
     "word": "skinny",
     "pos": "adj.",
     "cn_def": "瘦的，皮包骨的",
-    "en_def": "",
+    "en_def": "very thin",
     "sentence": "The stray dog looked very {{BLANK}}.",
     "cn": "那隻流浪狗看起來很瘦。"
   },
@@ -85,7 +85,7 @@ const VOCAB = [
     "word": "sleepy",
     "pos": "adj.",
     "cn_def": "想睡的，困倦的",
-    "en_def": "",
+    "en_def": "tired and wanting to sleep",
     "sentence": "She felt {{BLANK}} after the long day.",
     "cn": "經過漫長的一天，她感到很困倦。"
   },
@@ -93,7 +93,7 @@ const VOCAB = [
     "word": "slender",
     "pos": "adj.",
     "cn_def": "苗條的，纖細的",
-    "en_def": "",
+    "en_def": "thin in a nice way",
     "sentence": "She has a {{BLANK}} figure.",
     "cn": "她的身材很苗條。"
   },
@@ -101,7 +101,7 @@ const VOCAB = [
     "word": "slice",
     "pos": "n.",
     "cn_def": "薄片，切片",
-    "en_def": "",
+    "en_def": "a thin flat piece cut from something",
     "sentence": "She cut the bread into thick {{BLANK}}.",
     "cn": "她把麵包切成厚片。"
   },
@@ -109,7 +109,7 @@ const VOCAB = [
     "word": "slippers",
     "pos": "n.",
     "cn_def": "拖鞋",
-    "en_def": "",
+    "en_def": "soft shoes that you wear inside the house",
     "sentence": "She wore {{BLANK}} around the house.",
     "cn": "她在家裡穿拖鞋。"
   },
@@ -117,7 +117,7 @@ const VOCAB = [
     "word": "snail",
     "pos": "n.",
     "cn_def": "蝸牛",
-    "en_def": "",
+    "en_def": "a small animal with a shell on its back that moves very slowly",
     "sentence": "The {{BLANK}} moved slowly across the ground.",
     "cn": "蝸牛慢慢地在地上爬行。"
   },
@@ -125,7 +125,7 @@ const VOCAB = [
     "word": "sneakers",
     "pos": "n.",
     "cn_def": "運動鞋，球鞋",
-    "en_def": "",
+    "en_def": "soft shoes for running and sports",
     "sentence": "He bought a new pair of {{BLANK}}.",
     "cn": "他買了一雙新運動鞋。"
   },
@@ -133,7 +133,7 @@ const VOCAB = [
     "word": "sneaky",
     "pos": "adj.",
     "cn_def": "鬼鬼祟祟的，偷偷摸摸的",
-    "en_def": "",
+    "en_def": "doing things in a secret way that is not honest",
     "sentence": "He took a {{BLANK}} glance at the answers.",
     "cn": "他偷偷看了一眼答案。"
   },
@@ -141,7 +141,7 @@ const VOCAB = [
     "word": "snowman",
     "pos": "n.",
     "cn_def": "雪人",
-    "en_def": "",
+    "en_def": "a figure of a person made of snow",
     "sentence": "The children built a {{BLANK}} in the yard.",
     "cn": "孩子們在院子裡堆了一個雪人。"
   },
@@ -149,7 +149,7 @@ const VOCAB = [
     "word": "soap",
     "pos": "n.",
     "cn_def": "肥皂",
-    "en_def": "",
+    "en_def": "something that you use with water to wash your hands and body",
     "sentence": "She washed her hands with {{BLANK}}.",
     "cn": "她用肥皂洗手。"
   },
@@ -157,7 +157,7 @@ const VOCAB = [
     "word": "social",
     "pos": "adj.",
     "cn_def": "社會的，社交的",
-    "en_def": "",
+    "en_def": "liking to be with other people",
     "sentence": "He is very {{BLANK}} and enjoys meeting new people.",
     "cn": "他很擅長社交，喜歡結識新朋友。"
   },
@@ -165,7 +165,7 @@ const VOCAB = [
     "word": "society",
     "pos": "n.",
     "cn_def": "社會",
-    "en_def": "",
+    "en_def": "all the people who live together in a country or area",
     "sentence": "They studied the structure of {{BLANK}}.",
     "cn": "他們研究社會結構。"
   }
@@ -417,117 +417,117 @@ const MCQS = [
 const LOOKUP = {
   "beat": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to hit again and again; to make a regular sound",
     "cn_def": "擊打，跳動"
   },
   "searching": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to look carefully for someone or something",
     "cn_def": "搜索，尋找"
   },
   "serve": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to give food or drinks to people",
     "cn_def": "服務，提供"
   },
   "sincere": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "really meaning what you say; honest",
     "cn_def": "真誠的，誠懇的"
   },
   "single": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not married; only one",
     "cn_def": "單一的，單身的"
   },
   "sink": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to go down under water",
     "cn_def": "下沉，沉沒"
   },
   "skate": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to move on ice wearing special shoes",
     "cn_def": "滑冰，溜冰"
   },
   "skiing": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to move over snow on two long, thin boards",
     "cn_def": "滑雪"
   },
   "skills": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that you can do well because you have practiced",
     "cn_def": "技能，本領"
   },
   "skillful": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "good at doing something",
     "cn_def": "熟練的，靈巧的"
   },
   "skin": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the outside cover of your body",
     "cn_def": "皮膚，外皮"
   },
   "skinny": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very thin",
     "cn_def": "瘦的，皮包骨的"
   },
   "sleepy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "tired and wanting to sleep",
     "cn_def": "想睡的，困倦的"
   },
   "slender": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "thin in a nice way",
     "cn_def": "苗條的，纖細的"
   },
   "slices": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thin flat piece cut from something",
     "cn_def": "薄片，切片"
   },
   "slippers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "soft shoes that you wear inside the house",
     "cn_def": "拖鞋"
   },
   "snail": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small animal with a shell on its back that moves very slowly",
     "cn_def": "蝸牛"
   },
   "sneakers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "soft shoes for running and sports",
     "cn_def": "運動鞋，球鞋"
   },
   "sneaky": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "doing things in a secret way that is not honest",
     "cn_def": "鬼鬼祟祟的，偷偷摸摸的"
   },
   "snowman": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a figure of a person made of snow",
     "cn_def": "雪人"
   },
   "soap": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that you use with water to wash your hands and body",
     "cn_def": "肥皂"
   },
   "social": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "liking to be with other people",
     "cn_def": "社會的，社交的"
   },
   "society": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "all the people who live together in a country or area",
     "cn_def": "社會"
   }
 };

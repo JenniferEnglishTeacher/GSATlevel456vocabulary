@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "assistant",
     "pos": "n.",
     "cn_def": "助手",
-    "en_def": "",
+    "en_def": "a person who helps someone do their work",
     "sentence": "He hired an {{BLANK}} to help with the project.",
     "cn": "他雇了一個助手來幫助這個專案。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "attention",
     "pos": "n.",
     "cn_def": "注意，關注",
-    "en_def": "",
+    "en_def": "looking at or listening to something carefully",
     "sentence": "The speaker caught everyone's {{BLANK}} with her opening statement.",
     "cn": "演講者用她的開場白吸引了大家的注意力。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "avoid",
     "pos": "v.",
     "cn_def": "避免",
-    "en_def": "",
+    "en_def": "to stay away from something; to try not to do something",
     "sentence": "You should {{BLANK}} driving during rush hours.",
     "cn": "你應該避免在高峰時間開車。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "baby sitter",
     "pos": "n.",
     "cn_def": "保姆",
-    "en_def": "",
+    "en_def": "a person who takes care of children when their parents are out",
     "sentence": "We need to find a reliable {{BLANK}} for our kids.",
     "cn": "我們需要為孩子們找一個可靠的保姆。",
     "nblanks": 2
@@ -43,7 +43,7 @@ const VOCAB = [
     "word": "backpack",
     "pos": "n.",
     "cn_def": "背包",
-    "en_def": "",
+    "en_def": "a bag that you carry on your back",
     "sentence": "He carried all his books in his {{BLANK}}.",
     "cn": "他把所有的書都放在背包裡。"
   },
@@ -51,7 +51,7 @@ const VOCAB = [
     "word": "backward",
     "pos": "adv.",
     "cn_def": "向後地",
-    "en_def": "",
+    "en_def": "toward the back",
     "sentence": "She took a step {{BLANK}}.",
     "cn": "她向後退了一步。"
   },
@@ -59,7 +59,7 @@ const VOCAB = [
     "word": "ball",
     "pos": "n.",
     "cn_def": "球",
-    "en_def": "",
+    "en_def": "a round thing that you throw, kick, or hit in games",
     "sentence": "They played with a {{BLANK}} in the park.",
     "cn": "他們在公園裡玩球。"
   },
@@ -67,7 +67,7 @@ const VOCAB = [
     "word": "balloon",
     "pos": "n.",
     "cn_def": "氣球",
-    "en_def": "",
+    "en_def": "a thin rubber bag that gets bigger when you blow air into it",
     "sentence": "The child was delighted with the colorful {{BLANK}}.",
     "cn": "孩子對五顏六色的氣球感到很高興。"
   },
@@ -75,7 +75,7 @@ const VOCAB = [
     "word": "barbecue",
     "pos": "n.",
     "cn_def": "烤肉",
-    "en_def": "",
+    "en_def": "a meal or party where food is cooked outside over a fire",
     "sentence": "We had a {{BLANK}} in the backyard.",
     "cn": "我們在後院烤肉。"
   },
@@ -83,7 +83,7 @@ const VOCAB = [
     "word": "barber",
     "pos": "n.",
     "cn_def": "理髮師",
-    "en_def": "",
+    "en_def": "a person whose job is to cut men's hair",
     "sentence": "He goes to the same {{BLANK}} every month.",
     "cn": "他每個月都去同一個理髮師那裡。"
   },
@@ -91,7 +91,7 @@ const VOCAB = [
     "word": "bark",
     "pos": "v.",
     "cn_def": "吠叫",
-    "en_def": "",
+    "en_def": "(of a dog) to make a short loud sound",
     "sentence": "The dog {{BLANK}} loudly at the strangers.",
     "cn": "狗對著陌生人大聲吠叫。"
   },
@@ -99,7 +99,7 @@ const VOCAB = [
     "word": "base",
     "pos": "n.",
     "cn_def": "基地，基礎",
-    "en_def": "",
+    "en_def": "a place where soldiers live and work",
     "sentence": "The military {{BLANK}} is heavily guarded.",
     "cn": "軍事基地戒備森嚴。"
   },
@@ -107,7 +107,7 @@ const VOCAB = [
     "word": "basement",
     "pos": "n.",
     "cn_def": "地下室",
-    "en_def": "",
+    "en_def": "a room or floor under the ground in a building",
     "sentence": "They store old furniture in the {{BLANK}}.",
     "cn": "他們把舊家具存放在地下室。"
   },
@@ -115,7 +115,7 @@ const VOCAB = [
     "word": "basic",
     "pos": "adj.",
     "cn_def": "基本的，基礎的",
-    "en_def": "",
+    "en_def": "simple and needed before you can learn more",
     "sentence": "You need a {{BLANK}} understanding of math for this course.",
     "cn": "你需要對數學有基本的理解才能學這門課。"
   },
@@ -123,7 +123,7 @@ const VOCAB = [
     "word": "bathe",
     "pos": "v.",
     "cn_def": "洗澡",
-    "en_def": "",
+    "en_def": "to wash your body in a bath",
     "sentence": "She loves to {{BLANK}} in the evening.",
     "cn": "她喜歡晚上洗澡。"
   },
@@ -131,7 +131,7 @@ const VOCAB = [
     "word": "beard",
     "pos": "n.",
     "cn_def": "鬍子",
-    "en_def": "",
+    "en_def": "the hair that grows on a man's chin and cheeks",
     "sentence": "He grew a {{BLANK}} during his vacation.",
     "cn": "他在假期裡留了鬍子。"
   },
@@ -139,7 +139,7 @@ const VOCAB = [
     "word": "beat",
     "pos": "v.",
     "cn_def": "擊打，跳動",
-    "en_def": "",
+    "en_def": "to hit again and again; to make a regular sound",
     "sentence": "The drums {{BLANK}} loudly in the parade.",
     "cn": "鼓在遊行中大聲地敲打。"
   },
@@ -147,7 +147,7 @@ const VOCAB = [
     "word": "beauty",
     "pos": "n.",
     "cn_def": "美麗，美人",
-    "en_def": "",
+    "en_def": "being very nice to look at",
     "sentence": "She was known for her great {{BLANK}}.",
     "cn": "她以美麗著稱。"
   },
@@ -155,7 +155,7 @@ const VOCAB = [
     "word": "beer",
     "pos": "n.",
     "cn_def": "啤酒",
-    "en_def": "",
+    "en_def": "a yellow or brown drink with alcohol",
     "sentence": "He ordered a pint of {{BLANK}} at the bar.",
     "cn": "他在酒吧點了一杯啤酒。"
   },
@@ -163,7 +163,7 @@ const VOCAB = [
     "word": "beginner",
     "pos": "n.",
     "cn_def": "初學者",
-    "en_def": "",
+    "en_def": "a person who is just starting to learn something",
     "sentence": "She is a {{BLANK}} in playing the guitar.",
     "cn": "她是彈吉他的新手。"
   },
@@ -171,7 +171,7 @@ const VOCAB = [
     "word": "behave",
     "pos": "v.",
     "cn_def": "表現",
-    "en_def": "",
+    "en_def": "to act in a good and polite way",
     "sentence": "Children are expected to {{BLANK}} in class.",
     "cn": "孩子們在課堂上應該表現良好。"
   }
@@ -179,119 +179,119 @@ const VOCAB = [
 
 const MCQS = [
   {
-    "q": "He hired an ______ to help with the project.【助手】",
+    "q": "The doctor is too busy to answer the phone, so he hired a young ______. She helps him with letters and meetings every day.",
     "options": [
+      "barber",
+      "beginner",
       "assistant",
-      "barbecue",
-      "beard",
-      "beauty"
+      "baby sitter"
     ],
-    "answer": 0,
+    "answer": 2,
     "cn": "他雇了一個助手來幫助這個專案。",
     "vocabIndex": 0
   },
   {
-    "q": "The speaker caught everyone's ______ with her opening statement.【注意，關注】",
+    "q": "Please pay ______ to the teacher in class. If you keep looking out the window, you won't understand the lesson.",
     "options": [
-      "basement",
-      "balloon",
-      "barbecue",
-      "attention"
+      "beauty",
+      "attention",
+      "beer",
+      "base"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "演講者用她的開場白吸引了大家的注意力。",
     "vocabIndex": 1
   },
   {
-    "q": "You should ______ driving during rush hours.【避免】",
+    "q": "You should ______ eating too much candy. It is bad for your teeth, and it can make you fat.",
     "options": [
-      "beat",
+      "behave",
       "bathe",
-      "avoid",
-      "behave"
+      "bark",
+      "avoid"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "你應該避免在高峰時間開車。",
     "vocabIndex": 2
   },
   {
-    "q": "We need to find a reliable ______ for our kids.【保姆】",
+    "q": "Mr. and Mrs. Lin are going out for dinner tonight, so they need a ______ to take care of their two young children.",
     "options": [
-      "beauty",
       "baby sitter",
-      "assistant",
+      "barber",
+      "beginner",
       "basement"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "我們需要為孩子們找一個可靠的保姆。",
     "vocabIndex": 3
   },
   {
-    "q": "He carried all his books in his ______.【背包】",
+    "q": "Ben carries a heavy ______ to school every day. It has all his books, his lunch box, and a bottle of water in it.",
     "options": [
+      "balloon",
+      "backpack",
       "basement",
-      "assistant",
-      "baby sitter",
-      "backpack"
+      "beard"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "他把所有的書都放在背包裡。",
     "vocabIndex": 4
   },
   {
-    "q": "She took a step ______.【向後地】",
+    "q": "Without looking behind him, the little boy took three steps ______ and fell into the pool.",
     "options": [
       "backward",
-      "nearly",
-      "everywhere",
-      "neither"
+      "besides",
+      "especially",
+      "hardly"
     ],
     "answer": 0,
     "cn": "她向後退了一步。",
     "vocabIndex": 5
   },
   {
-    "q": "They played with a ______ in the park.【球】",
+    "q": "The children are playing with a ______ in the park. They kick it and throw it to each other.",
     "options": [
-      "baby sitter",
+      "beard",
+      "barber",
       "ball",
-      "base",
-      "backpack"
+      "basement"
     ],
-    "answer": 1,
+    "answer": 2,
     "cn": "他們在公園裡玩球。",
     "vocabIndex": 6
   },
   {
-    "q": "The child was delighted with the colorful ______.【氣球】",
+    "q": "Dad blew air into the red ______ until it was very big. Then it flew up into the sky when my sister let it go.",
     "options": [
+      "backpack",
       "beard",
       "basement",
-      "balloon",
-      "base"
+      "balloon"
     ],
-    "answer": 2,
+    "answer": 3,
     "cn": "孩子對五顏六色的氣球感到很高興。",
     "vocabIndex": 7
   },
   {
-    "q": "We had a ______ in the backyard.【烤肉】",
+    "q": "We had a ______ by the river on Moon Festival night. We cooked meat and corn over a fire and ate under the moon.",
     "options": [
       "barbecue",
-      "baby sitter",
       "backpack",
-      "basement"
+      "basement",
+      "beginner"
     ],
     "answer": 0,
     "cn": "我們在後院烤肉。",
     "vocabIndex": 8
   },
   {
-    "q": "He goes to the same ______ every month.【理髮師】",
+    "q": "My hair is too long, so I am going to the ______ this afternoon. He always cuts my hair very well.",
     "options": [
-      "barbecue",
+      "beginner",
       "barber",
-      "beer",
+      "basement",
       "baby sitter"
     ],
     "answer": 1,
@@ -299,11 +299,11 @@ const MCQS = [
     "vocabIndex": 9
   },
   {
-    "q": "The dog ______ loudly at the strangers.【吠叫】",
+    "q": "The dog ______ loudly when a stranger came to the door. The noise woke up everyone in the house.",
     "options": [
-      "behave",
-      "beat",
-      "avoid",
+      "bathed",
+      "behaved",
+      "avoided",
       "barked"
     ],
     "answer": 3,
@@ -311,47 +311,47 @@ const MCQS = [
     "vocabIndex": 10
   },
   {
-    "q": "The military ______ is heavily guarded.【基地，基礎】",
+    "q": "The soldiers live and work on a ______ near the sea. People can't go inside it without a special card.",
     "options": [
-      "backpack",
-      "balloon",
+      "beard",
+      "ball",
       "base",
-      "assistant"
+      "beer"
     ],
     "answer": 2,
     "cn": "軍事基地戒備森嚴。",
     "vocabIndex": 11
   },
   {
-    "q": "They store old furniture in the ______.【地下室】",
+    "q": "We keep our old toys and bikes in the ______. It is under the house, so it is dark and cool down there.",
     "options": [
-      "assistant",
       "basement",
-      "base",
-      "balloon"
+      "backpack",
+      "balloon",
+      "barbecue"
     ],
-    "answer": 1,
+    "answer": 0,
     "cn": "他們把舊家具存放在地下室。",
     "vocabIndex": 12
   },
   {
-    "q": "You need a ______ understanding of math for this course.【基本的，基礎的】",
+    "q": "Before you cook a big dinner, you need to learn some ______ skills, like how to cut vegetables and boil water.",
     "options": [
+      "absent",
       "basic",
-      "impolite",
-      "rude",
-      "ill"
+      "asleep",
+      "bitter"
     ],
-    "answer": 0,
+    "answer": 1,
     "cn": "你需要對數學有基本的理解才能學這門課。",
     "vocabIndex": 13
   },
   {
-    "q": "She loves to ______ in the evening.【洗澡】",
+    "q": "It is very hot in summer, so I ______ twice a day. I feel clean and cool after I wash my body.",
     "options": [
-      "avoid",
+      "bark",
       "behave",
-      "beat",
+      "avoid",
       "bathe"
     ],
     "answer": 3,
@@ -359,35 +359,35 @@ const MCQS = [
     "vocabIndex": 14
   },
   {
-    "q": "He grew a ______ during his vacation.【鬍子】",
+    "q": "My grandfather has a long white ______ on his chin. He looks like Santa Claus when he wears a red hat.",
     "options": [
-      "assistant",
+      "backpack",
       "ball",
       "beard",
-      "attention"
+      "base"
     ],
     "answer": 2,
     "cn": "他在假期裡留了鬍子。",
     "vocabIndex": 15
   },
   {
-    "q": "The drums ______ loudly in the parade.【擊打，跳動】",
+    "q": "When I am nervous before a test, I can feel my heart ______ very fast. I take a deep breath to calm down.",
     "options": [
+      "bark",
+      "beat",
       "bathe",
-      "behave",
-      "avoid",
-      "beat"
+      "behave"
     ],
-    "answer": 3,
+    "answer": 1,
     "cn": "鼓在遊行中大聲地敲打。",
     "vocabIndex": 16
   },
   {
-    "q": "She was known for her great ______.【美麗，美人】",
+    "q": "Many visitors come to the mountain to enjoy the ______ of nature. They take pictures of the trees, flowers, and lakes.",
     "options": [
       "beauty",
-      "barbecue",
-      "backpack",
+      "beer",
+      "beard",
       "barber"
     ],
     "answer": 0,
@@ -395,178 +395,198 @@ const MCQS = [
     "vocabIndex": 17
   },
   {
-    "q": "He ordered a pint of ______ at the bar.【啤酒】",
+    "q": "My father likes to drink a cold ______ after work, but he never drives a car after drinking.",
     "options": [
-      "beginner",
-      "barbecue",
+      "beard",
+      "ball",
       "beer",
-      "beard"
+      "base"
     ],
     "answer": 2,
     "cn": "他在酒吧點了一杯啤酒。",
     "vocabIndex": 18
   },
   {
-    "q": "She is a ______ in playing the guitar.【初學者】",
+    "q": "I started to learn the piano last week, so I am still a ______. I can only play one very easy song.",
     "options": [
-      "backpack",
-      "beginner",
-      "basement",
-      "baby sitter"
+      "barber",
+      "baby sitter",
+      "balloon",
+      "beginner"
     ],
-    "answer": 1,
+    "answer": 3,
     "cn": "她是彈吉他的新手。",
     "vocabIndex": 19
   },
   {
-    "q": "Children are expected to ______ in class.【表現】",
+    "q": "Please ______ yourself at Grandma's house. Don't jump on the sofa or play with your food at the table.",
     "options": [
-      "beat",
+      "behave",
       "avoid",
-      "bathe",
-      "behave"
+      "bark",
+      "beat"
     ],
-    "answer": 3,
+    "answer": 0,
     "cn": "孩子們在課堂上應該表現良好。",
     "vocabIndex": 20
   }
 ];
 
 const LOOKUP = {
-  "assistant": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "助手"
-  },
-  "attention": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "注意，關注"
-  },
-  "avoid": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "避免"
-  },
-  "baby sitter": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "保姆"
-  },
-  "backpack": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "背包"
-  },
-  "backward": {
-    "pos": "adv.",
-    "en_def": "",
-    "cn_def": "向後地"
-  },
-  "ball": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "球"
-  },
-  "balloon": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "氣球"
-  },
-  "barbecue": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "烤肉"
-  },
   "barber": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person whose job is to cut men's hair",
     "cn_def": "理髮師"
-  },
-  "barked": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "吠叫"
-  },
-  "base": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "基地，基礎"
-  },
-  "basement": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "地下室"
-  },
-  "basic": {
-    "pos": "adj.",
-    "en_def": "",
-    "cn_def": "基本的，基礎的"
-  },
-  "bathe": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "洗澡"
-  },
-  "beard": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "鬍子"
-  },
-  "beat": {
-    "pos": "v.",
-    "en_def": "",
-    "cn_def": "擊打，跳動"
-  },
-  "beauty": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "美麗，美人"
-  },
-  "beer": {
-    "pos": "n.",
-    "en_def": "",
-    "cn_def": "啤酒"
   },
   "beginner": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who is just starting to learn something",
     "cn_def": "初學者"
+  },
+  "assistant": {
+    "pos": "n.",
+    "en_def": "a person who helps someone do their work",
+    "cn_def": "助手"
+  },
+  "baby sitter": {
+    "pos": "n.",
+    "en_def": "a person who takes care of children when their parents are out",
+    "cn_def": "保姆"
+  },
+  "beauty": {
+    "pos": "n.",
+    "en_def": "being very nice to look at",
+    "cn_def": "美麗，美人"
+  },
+  "attention": {
+    "pos": "n.",
+    "en_def": "looking at or listening to something carefully",
+    "cn_def": "注意，關注"
+  },
+  "beer": {
+    "pos": "n.",
+    "en_def": "a yellow or brown drink with alcohol",
+    "cn_def": "啤酒"
+  },
+  "base": {
+    "pos": "n.",
+    "en_def": "a place where soldiers live and work",
+    "cn_def": "基地，基礎"
   },
   "behave": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to act in a good and polite way",
     "cn_def": "表現"
   },
-  "everywhere": {
+  "bathe": {
+    "pos": "v.",
+    "en_def": "to wash your body in a bath",
+    "cn_def": "洗澡"
+  },
+  "bark": {
+    "pos": "v.",
+    "en_def": "(of a dog) to make a short loud sound",
+    "cn_def": "吠叫"
+  },
+  "avoid": {
+    "pos": "v.",
+    "en_def": "to stay away from something; to try not to do something",
+    "cn_def": "避免"
+  },
+  "basement": {
+    "pos": "n.",
+    "en_def": "a room or floor under the ground in a building",
+    "cn_def": "地下室"
+  },
+  "balloon": {
+    "pos": "n.",
+    "en_def": "a thin rubber bag that gets bigger when you blow air into it",
+    "cn_def": "氣球"
+  },
+  "backpack": {
+    "pos": "n.",
+    "en_def": "a bag that you carry on your back",
+    "cn_def": "背包"
+  },
+  "beard": {
+    "pos": "n.",
+    "en_def": "the hair that grows on a man's chin and cheeks",
+    "cn_def": "鬍子"
+  },
+  "backward": {
     "pos": "adv.",
-    "en_def": "",
-    "cn_def": "到處"
+    "en_def": "toward the back",
+    "cn_def": "向後地"
   },
-  "ill": {
-    "pos": "adj.",
-    "en_def": "",
-    "cn_def": "生病的"
-  },
-  "impolite": {
-    "pos": "adj.",
-    "en_def": "",
-    "cn_def": "不禮貌的"
-  },
-  "nearly": {
+  "besides": {
     "pos": "adv.",
-    "en_def": "",
-    "cn_def": "幾乎，差不多"
+    "en_def": "in addition to",
+    "cn_def": "除了...之外"
   },
-  "neither": {
+  "especially": {
     "pos": "adv.",
-    "en_def": "",
-    "cn_def": "也不，既不"
+    "en_def": "more than others; more than usual",
+    "cn_def": "特別地，尤其"
   },
-  "rude": {
+  "hardly": {
+    "pos": "adv.",
+    "en_def": "almost not",
+    "cn_def": "幾乎不，勉強地"
+  },
+  "ball": {
+    "pos": "n.",
+    "en_def": "a round thing that you throw, kick, or hit in games",
+    "cn_def": "球"
+  },
+  "barbecue": {
+    "pos": "n.",
+    "en_def": "a meal or party where food is cooked outside over a fire",
+    "cn_def": "烤肉"
+  },
+  "bathed": {
+    "pos": "v.",
+    "en_def": "to wash your body in a bath",
+    "cn_def": "洗澡"
+  },
+  "behaved": {
+    "pos": "v.",
+    "en_def": "to act in a good and polite way",
+    "cn_def": "表現"
+  },
+  "avoided": {
+    "pos": "v.",
+    "en_def": "to stay away from something; to try not to do something",
+    "cn_def": "避免"
+  },
+  "barked": {
+    "pos": "v.",
+    "en_def": "(of a dog) to make a short loud sound",
+    "cn_def": "吠叫"
+  },
+  "absent": {
     "pos": "adj.",
-    "en_def": "",
-    "cn_def": "無禮的，粗魯的"
+    "en_def": "not in a place where you should be",
+    "cn_def": "缺席的，不在場的"
+  },
+  "basic": {
+    "pos": "adj.",
+    "en_def": "simple and needed before you can learn more",
+    "cn_def": "基本的，基礎的"
+  },
+  "asleep": {
+    "pos": "adj.",
+    "en_def": "sleeping",
+    "cn_def": "睡著的"
+  },
+  "bitter": {
+    "pos": "adj.",
+    "en_def": "having a strong taste that is not sweet, like black coffee",
+    "cn_def": "苦的，痛苦的"
+  },
+  "beat": {
+    "pos": "v.",
+    "en_def": "to hit again and again; to make a regular sound",
+    "cn_def": "擊打，跳動"
   }
 };
 

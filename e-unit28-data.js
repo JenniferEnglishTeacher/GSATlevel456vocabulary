@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "who",
     "answer": "Who",
     "pos": "pron.",
-    "definition": "",
+    "definition": "which person",
     "chinese": "誰",
     "sentence": "Q: __________ is that tall girl? — A: She is my cousin, Amy.",
     "translation": "那個高個子女孩是誰？ — 她是我的表妹艾美。",
     "lookup": {
-     "english": "",
+     "english": "which person",
      "chinese": "誰"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "how",
     "answer": "How",
     "pos": "adv.",
-    "definition": "",
+    "definition": "in what way; in what condition",
     "chinese": "如何；怎麼樣",
     "sentence": "Q: __________ is your grandma today? — A: She is much better, thank you.",
     "translation": "你奶奶今天好嗎？ — 她好多了，謝謝你。",
     "lookup": {
-     "english": "",
+     "english": "in what way; in what condition",
      "chinese": "如何；怎麼樣"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "what",
     "answer": "What",
     "pos": "pron.",
-    "definition": "",
+    "definition": "which thing",
     "chinese": "什麼",
     "sentence": "Q: __________ do you usually do after school? — A: I usually play basketball with my friends.",
     "translation": "你放學後通常做什麼？ — 我通常和朋友打籃球。",
     "lookup": {
-     "english": "",
+     "english": "which thing",
      "chinese": "什麼"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "where",
     "answer": "Where",
     "pos": "adv.",
-    "definition": "",
+    "definition": "in or to which place",
     "chinese": "哪裡；何處",
     "sentence": "Q: __________ does your uncle live? — A: He lives in Kaohsiung. He works at a hospital there.",
     "translation": "你叔叔住在哪裡？ — 他住在高雄，他在那裡的一家醫院工作。",
     "lookup": {
-     "english": "",
+     "english": "in or to which place",
      "chinese": "哪裡；何處"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "when",
     "answer": "When",
     "pos": "adv.",
-    "definition": "",
+    "definition": "at what time",
     "chinese": "什麼時候；何時",
     "sentence": "Q: __________ do you get up on Sundays? — A: I get up at nine. I don't go to school on Sundays.",
     "translation": "你星期天什麼時候起床？ — 我九點起床。我星期天不用上學。",
     "lookup": {
-     "english": "",
+     "english": "at what time",
      "chinese": "什麼時候；何時"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "why",
     "answer": "Why",
     "pos": "adv.",
-    "definition": "",
+    "definition": "for what reason",
     "chinese": "為什麼",
     "sentence": "Q: __________ does Tom look sad? — A: Because he can't find his dog.",
     "translation": "湯姆為什麼看起來很難過？ — 因為他找不到他的狗。",
     "lookup": {
-     "english": "",
+     "english": "for what reason",
      "chinese": "為什麼"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "whose",
     "answer": "Whose",
     "pos": "det.",
-    "definition": "",
+    "definition": "belonging to which person",
     "chinese": "誰的",
     "sentence": "Q: __________ notebook is this? Is it yours? — A: No, it isn't. It's Ben's. His name is on it.",
     "translation": "這是誰的筆記本？是你的嗎？ — 不，不是。是班的，上面有他的名字。",
     "lookup": {
-     "english": "",
+     "english": "belonging to which person",
      "chinese": "誰的"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "which",
     "answer": "Which",
     "pos": "det.",
-    "definition": "",
+    "definition": "what one of two or more",
     "chinese": "哪一個",
     "sentence": "Q: __________ bike do you like, the red one or the blue one? — A: I like the blue one. It's really cool.",
     "translation": "你喜歡哪一輛腳踏車，紅色的還是藍色的？ — 我喜歡藍色那輛，它真的很酷。",
     "lookup": {
-     "english": "",
+     "english": "what one of two or more",
      "chinese": "哪一個"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "whether",
     "answer": "whether",
     "pos": "conj.",
-    "definition": "",
+    "definition": "if (something is true) or not",
     "chinese": "是否",
     "sentence": "Q: Does Ben like coffee? — A: I don't know __________ he likes it. Let's ask him.",
     "translation": "班喜歡咖啡嗎？ — 我不知道他是否喜歡。我們問問他吧。",
     "lookup": {
-     "english": "",
+     "english": "if (something is true) or not",
      "chinese": "是否"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "while",
     "answer": "while",
     "pos": "conj.",
-    "definition": "",
+    "definition": "during the time that",
     "chinese": "當…的時候",
     "sentence": "Q: What does your mom do in the evening? — A: She watches TV __________ I do my homework.",
     "translation": "你媽媽晚上做什麼？ — 我寫功課的時候，她在看電視。",
     "lookup": {
-     "english": "",
+     "english": "during the time that",
      "chinese": "當…的時候"
     }
    }
@@ -369,4 +369,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"some":["","一些"],"both":["","兩者都"],"those":["","那些"],"my":["","我的"],"her":["","她的"],"yourself":["","你（們）"],"everyone":["","每一個人"],"who":["","誰"],"how":["","如何；怎麼樣"],"what":["","什麼"],"where":["","哪裡；何處"],"when":["","什麼時候；何時"],"why":["","為什麼"],"whose":["","誰的"],"which":["","哪一個"],"whether":["","是否"],"while":["","當…的時候"],"than":["","比"],"because":["","因為"],"though":["","雖然"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"some":["a number or amount of something, not all","一些"],"both":["the two; one and also the other","兩者都"],"those":["the ones that are there, not near me","那些"],"my":["belonging to me","我的"],"her":["belonging to her","她的"],"yourself":["the person I am talking to (\"yourself\" = you and no one else)","你（們）"],"everyone":["all the people","每一個人"],"who":["which person","誰"],"how":["in what way; in what condition","如何；怎麼樣"],"what":["which thing","什麼"],"where":["in or to which place","哪裡；何處"],"when":["at what time","什麼時候；何時"],"why":["for what reason","為什麼"],"whose":["belonging to which person","誰的"],"which":["what one of two or more","哪一個"],"whether":["if (something is true) or not","是否"],"while":["during the time that","當…的時候"],"than":["used when you compare two people or things","比"],"because":["for the reason that","因為"],"though":["used to join two ideas when the second is a surprise","雖然"]});

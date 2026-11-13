@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "beach",
     "answer": "beach",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place with sand next to the sea",
     "chinese": "海灘",
     "sentence": "Q: Where are you going this Sunday? — A: I'm going to the __________. I want to swim in the sea.",
     "translation": "你這個星期日要去哪裡？ — 我要去海灘，我想在海裡游泳。",
     "lookup": {
-     "english": "",
+     "english": "a place with sand next to the sea",
      "chinese": "海灘"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "pool",
     "answer": "pool",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place full of water for swimming",
     "chinese": "游泳池",
     "sentence": "Q: Where is Tom going? — A: He's going to the swimming __________. He has a swimming class.",
     "translation": "湯姆要去哪裡？ — 他要去游泳池，他有游泳課。",
     "lookup": {
-     "english": "",
+     "english": "a place full of water for swimming",
      "chinese": "游泳池"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "park",
     "answer": "park",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place with grass and trees where people walk and play",
     "chinese": "公園",
     "sentence": "Q: Where are Amy and Lisa going? — A: They're going to the __________. They want to fly kites.",
     "translation": "艾美和麗莎要去哪裡？ — 她們要去公園，她們想放風箏。",
     "lookup": {
-     "english": "",
+     "english": "a place with grass and trees where people walk and play",
      "chinese": "公園"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "zoo",
     "answer": "zoo",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place where people can see many kinds of animals",
     "chinese": "動物園",
     "sentence": "Q: Where is your class going tomorrow? — A: We're going to the __________ to see lions and monkeys.",
     "translation": "你們班明天要去哪裡？ — 我們要去動物園看獅子和猴子。",
     "lookup": {
-     "english": "",
+     "english": "a place where people can see many kinds of animals",
      "chinese": "動物園"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "museum",
     "answer": "museum",
     "pos": "n.",
-    "definition": "",
+    "definition": "a building where people look at old or interesting things",
     "chinese": "博物館",
     "sentence": "Q: Where is Ben going? — A: He's going to the __________ with his dad. They want to see old things.",
     "translation": "班要去哪裡？ — 他要和爸爸去博物館，他們想看古老的東西。",
     "lookup": {
-     "english": "",
+     "english": "a building where people look at old or interesting things",
      "chinese": "博物館"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "theater",
     "answer": "theater",
     "pos": "n.",
-    "definition": "",
+    "definition": "a building where people watch movies or plays",
     "chinese": "戲院",
     "sentence": "Q: Where are you and your sister going tonight? — A: We're going to the __________ to see a movie.",
     "translation": "你和你妹妹今晚要去哪裡？ — 我們要去戲院看電影。",
     "lookup": {
-     "english": "",
+     "english": "a building where people watch movies or plays",
      "chinese": "戲院"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "here",
     "answer": "here",
     "pos": "adv.",
-    "definition": "",
+    "definition": "in this place",
     "chinese": "這裡",
     "sentence": "Q: Where is my pencil case? — A: It's __________, on your desk.",
     "translation": "我的鉛筆盒在哪裡？ — 它在這裡，在你的書桌上。",
     "lookup": {
-     "english": "",
+     "english": "in this place",
      "chinese": "這裡"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "there",
     "answer": "there",
     "pos": "adv.",
-    "definition": "",
+    "definition": "in that place",
     "chinese": "那裡",
     "sentence": "Q: Where is the bus stop? — A: It's over __________, next to the big tree.",
     "translation": "公車站在哪裡？ — 在那裡，在那棵大樹旁邊。",
     "lookup": {
-     "english": "",
+     "english": "in that place",
      "chinese": "那裡"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "front",
     "answer": "front",
     "pos": "n.",
-    "definition": "",
+    "definition": "the part of something that faces forward",
     "chinese": "前面",
     "sentence": "Q: Where is Tom's bike? — A: It's in __________ of the school gate.",
     "translation": "湯姆的腳踏車在哪裡？ — 在校門前面。",
     "lookup": {
-     "english": "",
+     "english": "the part of something that faces forward",
      "chinese": "前面"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "back",
     "answer": "back",
     "pos": "n.",
-    "definition": "",
+    "definition": "the part of something that is behind the front",
     "chinese": "後面",
     "sentence": "Q: Where is Amy? — A: She's in the __________ of the classroom. She sits in the last row.",
     "translation": "艾美在哪裡？ — 她在教室後面，她坐在最後一排。",
     "lookup": {
-     "english": "",
+     "english": "the part of something that is behind the front",
      "chinese": "後面"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "middle",
     "answer": "middle",
     "pos": "n.",
-    "definition": "",
+    "definition": "the center of something",
     "chinese": "中間",
     "sentence": "Q: Where is the big tree? — A: It's in the __________ of the park.",
     "translation": "那棵大樹在哪裡？ — 它在公園的中間。",
     "lookup": {
-     "english": "",
+     "english": "the center of something",
      "chinese": "中間"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "top",
     "answer": "top",
     "pos": "n.",
-    "definition": "",
+    "definition": "the highest part of something",
     "chinese": "頂端",
     "sentence": "Q: Where is the cat? — A: It's at the __________ of the stairs.",
     "translation": "貓在哪裡？ — 牠在樓梯的最上面。",
     "lookup": {
-     "english": "",
+     "english": "the highest part of something",
      "chinese": "頂端"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "restroom",
     "answer": "restroom",
     "pos": "n.",
-    "definition": "",
+    "definition": "a room with toilets in a public place",
     "chinese": "洗手間",
     "sentence": "Q: Excuse me. Where is the __________? — A: It's between the classroom and the library.",
     "translation": "不好意思，洗手間在哪裡？ — 在教室和圖書館之間。",
     "lookup": {
-     "english": "",
+     "english": "a room with toilets in a public place",
      "chinese": "洗手間"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "bank",
     "answer": "bank",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place where people keep their money",
     "chinese": "銀行",
     "sentence": "Q: Where is the __________? — A: It's across from the park.",
     "translation": "銀行在哪裡？ — 在公園對面。",
     "lookup": {
-     "english": "",
+     "english": "a place where people keep their money",
      "chinese": "銀行"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "post office",
     "answer": "post office",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place where people send letters and buy stamps",
     "chinese": "郵局",
     "sentence": "Q: Where is the __________? — A: It's next to the bank.",
     "translation": "郵局在哪裡？ — 在銀行旁邊。",
     "lookup": {
-     "english": "",
+     "english": "a place where people send letters and buy stamps",
      "chinese": "郵局"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "left",
     "answer": "left",
     "pos": "n.",
-    "definition": "",
+    "definition": "the side of your body where your heart is",
     "chinese": "左邊",
     "sentence": "Q: How do I get to the library? — A: Go straight and turn __________ at the corner.",
     "translation": "我要怎麼去圖書館？ — 直走，然後在轉角左轉。",
     "lookup": {
-     "english": "",
+     "english": "the side of your body where your heart is",
      "chinese": "左邊"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "right",
     "answer": "right",
     "pos": "n.",
-    "definition": "",
+    "definition": "the side opposite to left",
     "chinese": "右邊",
     "sentence": "Q: How do I get to the train station? — A: Go straight for two blocks. It's on your __________.",
     "translation": "我要怎麼去火車站？ — 直走兩個街區，它在你的右邊。",
     "lookup": {
-     "english": "",
+     "english": "the side opposite to left",
      "chinese": "右邊"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "hospital",
     "answer": "hospital",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place where doctors and nurses take care of sick people",
     "chinese": "醫院",
     "sentence": "Q: Excuse me. How do I get to the __________? — A: Go straight and turn left. It's on your right.",
     "translation": "不好意思，我要怎麼去醫院？ — 直走然後左轉，它在你的右邊。",
     "lookup": {
-     "english": "",
+     "english": "a place where doctors and nurses take care of sick people",
      "chinese": "醫院"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "hotel",
     "answer": "hotel",
     "pos": "n.",
-    "definition": "",
+    "definition": "a building where people pay to sleep when they travel",
     "chinese": "旅館",
     "sentence": "Q: How do we get to the Sun __________? — A: Turn right at the bank. It's next to the park.",
     "translation": "我們要怎麼去太陽旅館？ — 在銀行右轉，它在公園旁邊。",
     "lookup": {
-     "english": "",
+     "english": "a building where people pay to sleep when they travel",
      "chinese": "旅館"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "bookstore",
     "answer": "bookstore",
     "pos": "n.",
-    "definition": "",
+    "definition": "a shop that sells books",
     "chinese": "書店",
     "sentence": "Q: How does Ben get to the __________? — A: He walks along Main Street and turns left.",
     "translation": "班怎麼去書店？ — 他沿著緬恩街走，然後左轉。",
     "lookup": {
-     "english": "",
+     "english": "a shop that sells books",
      "chinese": "書店"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "department store",
     "answer": "department store",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very big store that sells many kinds of things on different floors",
     "chinese": "百貨公司",
     "sentence": "Q: How do I get to the __________? — A: Take the MRT. It's across from the station.",
     "translation": "我要怎麼去百貨公司？ — 搭捷運，它在車站對面。",
     "lookup": {
-     "english": "",
+     "english": "a very big store that sells many kinds of things on different floors",
      "chinese": "百貨公司"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "supermarket",
     "answer": "supermarket",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big store that sells food and things for the home",
     "chinese": "超級市場",
     "sentence": "Q: How does your mom get to the __________? — A: She rides her scooter. It isn't far.",
     "translation": "你媽媽怎麼去超市？ — 她騎機車去，不遠。",
     "lookup": {
-     "english": "",
+     "english": "a big store that sells food and things for the home",
      "chinese": "超級市場"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "bakery",
     "answer": "bakery",
     "pos": "n.",
-    "definition": "",
+    "definition": "a shop that makes and sells bread and cakes",
     "chinese": "麵包店",
     "sentence": "Q: What does Mr. Chen do at the __________? — A: He makes bread and cakes.",
     "translation": "陳先生在麵包店做什麼？ — 他做麵包和蛋糕。",
     "lookup": {
-     "english": "",
+     "english": "a shop that makes and sells bread and cakes",
      "chinese": "麵包店"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "market",
     "answer": "market",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place where people buy and sell food and other things",
     "chinese": "市場",
     "sentence": "Q: What do people do at the __________? — A: They buy fruit, meat, and vegetables.",
     "translation": "人們在市場做什麼？ — 他們買水果、肉和蔬菜。",
     "lookup": {
-     "english": "",
+     "english": "a place where people buy and sell food and other things",
      "chinese": "市場"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "shop",
     "answer": "shop",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small place where people buy things",
     "chinese": "商店",
     "sentence": "Q: What does Amy do at the __________ on the corner? — A: She buys pencils and notebooks there.",
     "translation": "艾美在轉角的那家店做什麼？ — 她在那裡買鉛筆和筆記本。",
     "lookup": {
-     "english": "",
+     "english": "a small place where people buy things",
      "chinese": "商店"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "store",
     "answer": "store",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place where people buy things",
     "chinese": "商店",
     "sentence": "Q: What do you do at the __________ near your home? — A: I buy milk and bread.",
     "translation": "你在家附近的商店做什麼？ — 我買牛奶和麵包。",
     "lookup": {
-     "english": "",
+     "english": "a place where people buy things",
      "chinese": "商店"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "church",
     "answer": "church",
     "pos": "n.",
-    "definition": "",
+    "definition": "a building where some people go to pray to God",
     "chinese": "教堂",
     "sentence": "Q: What does Lisa do at __________ on Sundays? — A: She sings songs with her family.",
     "translation": "麗莎星期日在教堂做什麼？ — 她和家人一起唱歌。",
     "lookup": {
-     "english": "",
+     "english": "a building where some people go to pray to God",
      "chinese": "教堂"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "temple",
     "answer": "temple",
     "pos": "n.",
-    "definition": "",
+    "definition": "a building where people go to pray to gods",
     "chinese": "寺廟",
     "sentence": "Q: What do people do at the __________? — A: They pray and ask for good luck.",
     "translation": "人們在寺廟做什麼？ — 他們拜拜，祈求好運。",
     "lookup": {
-     "english": "",
+     "english": "a building where people go to pray to gods",
      "chinese": "寺廟"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "factory",
     "answer": "factory",
     "pos": "n.",
-    "definition": "",
+    "definition": "a building where people make things with machines",
     "chinese": "工廠",
     "sentence": "Q: What does your uncle do at the __________? — A: He makes shoes.",
     "translation": "你叔叔在工廠做什麼？ — 他做鞋子。",
     "lookup": {
-     "english": "",
+     "english": "a building where people make things with machines",
      "chinese": "工廠"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "office",
     "answer": "office",
     "pos": "n.",
-    "definition": "",
+    "definition": "a room or building where people work at desks",
     "chinese": "辦公室",
     "sentence": "Q: What do your parents do in the __________? — A: They work on computers and answer the phone.",
     "translation": "你爸媽在辦公室做什麼？ — 他們用電腦工作、接電話。",
     "lookup": {
-     "english": "",
+     "english": "a room or building where people work at desks",
      "chinese": "辦公室"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "farm",
     "answer": "farm",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place where people grow food and keep animals",
     "chinese": "農場",
     "sentence": "Q: What does Grandpa do on the __________? — A: He grows rice and vegetables.",
     "translation": "爺爺在農場做什麼？ — 他種稻米和蔬菜。",
     "lookup": {
-     "english": "",
+     "english": "a place where people grow food and keep animals",
      "chinese": "農場"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "city",
     "answer": "city",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very big town where many people live",
     "chinese": "城市",
     "sentence": "Q: Where do you live? — A: I live in a big __________. It's Taipei.",
     "translation": "你住在哪裡？ — 我住在一個大城市，是臺北。",
     "lookup": {
-     "english": "",
+     "english": "a very big town where many people live",
      "chinese": "城市"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "town",
     "answer": "town",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place with houses and shops, smaller than a city",
     "chinese": "城鎮",
     "sentence": "Q: Where does your grandma live? — A: She lives in a small __________ near the sea.",
     "translation": "你奶奶住在哪裡？ — 她住在海邊附近的一個小鎮。",
     "lookup": {
-     "english": "",
+     "english": "a place with houses and shops, smaller than a city",
      "chinese": "城鎮"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "country",
     "answer": "country",
     "pos": "n.",
-    "definition": "",
+    "definition": "land outside cities, with farms and fields",
     "chinese": "鄉村",
     "sentence": "Q: Where do Tom's grandparents live? — A: They live in the __________. There are many farms there.",
     "translation": "湯姆的爺爺奶奶住在哪裡？ — 他們住在鄉下，那裡有很多農場。",
     "lookup": {
-     "english": "",
+     "english": "land outside cities, with farms and fields",
      "chinese": "鄉村"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "place",
     "answer": "place",
     "pos": "n.",
-    "definition": "",
+    "definition": "a point or an area, like a town, a building, or a room",
     "chinese": "地方",
     "sentence": "Q: What __________ does Ben want to visit this summer? — A: He wants to visit Hualien.",
     "translation": "班今年夏天想去哪個地方？ — 他想去花蓮。",
     "lookup": {
-     "english": "",
+     "english": "a point or an area, like a town, a building, or a room",
      "chinese": "地方"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "north",
     "answer": "north",
     "pos": "n.",
-    "definition": "",
+    "definition": "the direction at the top of a map",
     "chinese": "北方",
     "sentence": "Q: Where does Amy live? — A: She lives in Taipei, in the __________ of Taiwan.",
     "translation": "艾美住在哪裡？ — 她住在臺北，在臺灣北部。",
     "lookup": {
-     "english": "",
+     "english": "the direction at the top of a map",
      "chinese": "北方"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "south",
     "answer": "south",
     "pos": "n.",
-    "definition": "",
+    "definition": "the direction at the bottom of a map",
     "chinese": "南方",
     "sentence": "Q: Where do your cousins live? — A: They live in Kaohsiung, in the __________ of Taiwan.",
     "translation": "你的堂表兄弟姊妹住在哪裡？ — 他們住在高雄，在臺灣南部。",
     "lookup": {
-     "english": "",
+     "english": "the direction at the bottom of a map",
      "chinese": "南方"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "east",
     "answer": "east",
     "pos": "n.",
-    "definition": "",
+    "definition": "the direction where the sun comes up",
     "chinese": "東方",
     "sentence": "Q: Where does the sun come up? — A: It comes up in the __________.",
     "translation": "太陽從哪裡升起？ — 它從東方升起。",
     "lookup": {
-     "english": "",
+     "english": "the direction where the sun comes up",
      "chinese": "東方"
     }
    },
@@ -502,12 +502,12 @@ window.FLASHCARD_UNITS = {
     "word": "west",
     "answer": "west",
     "pos": "n.",
-    "definition": "",
+    "definition": "the direction where the sun goes down",
     "chinese": "西方",
     "sentence": "Q: Where does Mr. Lee live? — A: He lives in Changhua, in the __________ of Taiwan.",
     "translation": "李先生住在哪裡？ — 他住在彰化，在臺灣西部。",
     "lookup": {
-     "english": "",
+     "english": "the direction where the sun goes down",
      "chinese": "西方"
     }
    }
@@ -1413,4 +1413,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"back":["","背"],"once":["","一次"],"beach":["","海灘"],"pool":["","游泳池"],"park":["","公園"],"zoo":["","動物園"],"museum":["","博物館"],"theater":["","戲院"],"here":["","這裡"],"there":["","那裡"],"front":["","前面"],"middle":["","中間"],"top":["","頂端"],"restroom":["","洗手間"],"bank":["","銀行"],"left":["","左邊"],"right":["","右邊"],"hospital":["","醫院"],"hotel":["","旅館"],"bookstore":["","書店"],"supermarket":["","超級市場"],"bakery":["","麵包店"],"market":["","市場"],"shop":["","商店"],"store":["","商店"],"church":["","教堂"],"temple":["","寺廟"],"factory":["","工廠"],"office":["","辦公室"],"farm":["","農場"],"city":["","城市"],"town":["","城鎮"],"country":["","鄉村"],"place":["","地方"],"north":["","北方"],"south":["","南方"],"east":["","東方"],"west":["","西方"],"somewhere":["","某處"],"quite":["","相當"],"not":["","不（否定）"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"back":["the part of your body opposite your chest and stomach","背"],"once":["one time","一次"],"beach":["a place with sand next to the sea","海灘"],"pool":["a place full of water for swimming","游泳池"],"park":["a place with grass and trees where people walk and play","公園"],"zoo":["a place where people can see many kinds of animals","動物園"],"museum":["a building where people look at old or interesting things","博物館"],"theater":["a building where people watch movies or plays","戲院"],"here":["in this place","這裡"],"there":["in that place","那裡"],"front":["the part of something that faces forward","前面"],"middle":["the center of something","中間"],"top":["the highest part of something","頂端"],"restroom":["a room with toilets in a public place","洗手間"],"bank":["a place where people keep their money","銀行"],"left":["the side of your body where your heart is","左邊"],"right":["the side opposite to left","右邊"],"hospital":["a place where doctors and nurses take care of sick people","醫院"],"hotel":["a building where people pay to sleep when they travel","旅館"],"bookstore":["a shop that sells books","書店"],"supermarket":["a big store that sells food and things for the home","超級市場"],"bakery":["a shop that makes and sells bread and cakes","麵包店"],"market":["a place where people buy and sell food and other things","市場"],"shop":["a small place where people buy things","商店"],"store":["a place where people buy things","商店"],"church":["a building where some people go to pray to God","教堂"],"temple":["a building where people go to pray to gods","寺廟"],"factory":["a building where people make things with machines","工廠"],"office":["a room or building where people work at desks","辦公室"],"farm":["a place where people grow food and keep animals","農場"],"city":["a very big town where many people live","城市"],"town":["a place with houses and shops, smaller than a city","城鎮"],"country":["land outside cities, with farms and fields","鄉村"],"place":["a point or an area, like a town, a building, or a room","地方"],"north":["the direction at the top of a map","北方"],"south":["the direction at the bottom of a map","南方"],"east":["the direction where the sun comes up","東方"],"west":["the direction where the sun goes down","西方"],"somewhere":["in a place, but we do not know or say where","某處"],"quite":["more than a little, but not very","相當"],"not":["a word that gives the opposite meaning","不（否定）"]});

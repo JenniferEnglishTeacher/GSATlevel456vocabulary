@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "promise",
     "answer": "promise",
     "pos": "n.",
-    "definition": "",
+    "definition": "words that say you will surely do something",
     "chinese": "承諾，保證",
     "sentence": "She made a __________ to help him.",
     "translation": "她承諾幫助他。",
     "lookup": {
-     "english": "",
+     "english": "words that say you will surely do something",
      "chinese": "承諾，保證"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "pronounce",
     "answer": "pronounce",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make the sound of a word or letter",
     "chinese": "發音，宣佈",
     "sentence": "Can you __________ this word correctly?",
     "translation": "你能正確發音這個詞嗎？",
     "lookup": {
-     "english": "",
+     "english": "to make the sound of a word or letter",
      "chinese": "發音，宣佈"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "protect",
     "answer": "protect",
     "pos": "v.",
-    "definition": "",
+    "definition": "to keep someone or something safe",
     "chinese": "保護，防護",
     "sentence": "The laws are designed to __________ the environment.",
     "translation": "法律旨在保護環境。",
     "lookup": {
-     "english": "",
+     "english": "to keep someone or something safe",
      "chinese": "保護，防護"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "provide",
     "answer": "provide",
     "pos": "v.",
-    "definition": "",
+    "definition": "to give someone what they need",
     "chinese": "提供，供給",
     "sentence": "The school will __________ all the necessary materials.",
     "translation": "學校將提供所有必要的材料。",
     "lookup": {
-     "english": "",
+     "english": "to give someone what they need",
      "chinese": "提供，供給"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "pump",
     "answer": "pump",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine that moves water, air, or gas",
     "chinese": "泵，打氣筒",
     "sentence": "The water __________ is broken.",
     "translation": "水泵壞了。",
     "lookup": {
-     "english": "",
+     "english": "a machine that moves water, air, or gas",
      "chinese": "泵，打氣筒"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "punish",
     "answer": "punished",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make someone suffer because they did something wrong",
     "chinese": "懲罰，處罰",
     "sentence": "He was __________ for breaking the rules.",
     "translation": "他因違反規定而受到懲罰。",
     "lookup": {
-     "english": "",
+     "english": "to make someone suffer because they did something wrong",
      "chinese": "懲罰，處罰"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "purpose",
     "answer": "purpose",
     "pos": "n.",
-    "definition": "",
+    "definition": "the reason for doing something",
     "chinese": "目的，意圖",
     "sentence": "The main __________ of the meeting is to discuss the budget.",
     "translation": "會議的主要目的是討論預算。",
     "lookup": {
-     "english": "",
+     "english": "the reason for doing something",
      "chinese": "目的，意圖"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "purse",
     "answer": "purse",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small bag in which a woman carries money and keys",
     "chinese": "錢包，手提包",
     "sentence": "She keeps her keys in her __________.",
     "translation": "她把鑰匙放在手提包裡。",
     "lookup": {
-     "english": "",
+     "english": "a small bag in which a woman carries money and keys",
      "chinese": "錢包，手提包"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "puzzle",
     "answer": "puzzle",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game or question that is hard to work out",
     "chinese": "拼圖，謎題",
     "sentence": "They enjoyed solving the __________.",
     "translation": "他們喜歡解謎題。",
     "lookup": {
-     "english": "",
+     "english": "a game or question that is hard to work out",
      "chinese": "拼圖，謎題"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "quit",
     "answer": "quit",
     "pos": "v.",
-    "definition": "",
+    "definition": "to leave a job or stop doing something",
     "chinese": "辭職，放棄",
     "sentence": "He decided to __________ his job.",
     "translation": "他決定辭職。",
     "lookup": {
-     "english": "",
+     "english": "to leave a job or stop doing something",
      "chinese": "辭職，放棄"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "railroad",
     "answer": "railroad",
     "pos": "n.",
-    "definition": "",
+    "definition": "the metal tracks that trains run on",
     "chinese": "鐵路",
     "sentence": "The train travels along the __________.",
     "translation": "火車沿著鐵路行駛。",
     "lookup": {
-     "english": "",
+     "english": "the metal tracks that trains run on",
      "chinese": "鐵路"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "railway",
     "answer": "railway",
     "pos": "n.",
-    "definition": "",
+    "definition": "the metal tracks that trains run on",
     "chinese": "鐵路，鐵道",
     "sentence": "They built a new __________.",
     "translation": "他們建造了一條新鐵路。",
     "lookup": {
-     "english": "",
+     "english": "the metal tracks that trains run on",
      "chinese": "鐵路，鐵道"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "raincoat",
     "answer": "raincoat",
     "pos": "n.",
-    "definition": "",
+    "definition": "a coat that keeps you dry in the rain",
     "chinese": "雨衣",
     "sentence": "She wore a __________ because it was raining.",
     "translation": "因為下雨，她穿了一件雨衣。",
     "lookup": {
-     "english": "",
+     "english": "a coat that keeps you dry in the rain",
      "chinese": "雨衣"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "rare",
     "answer": "rare",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not seen or found very often",
     "chinese": "稀有的，罕見的",
     "sentence": "This species of bird is very __________.",
     "translation": "這種鳥類非常罕見。",
     "lookup": {
-     "english": "",
+     "english": "not seen or found very often",
      "chinese": "稀有的，罕見的"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "rather",
     "answer": "rather",
     "pos": "adv.",
-    "definition": "",
+    "definition": "more willingly (used with \"would\")",
     "chinese": "寧願，倒不如說",
     "sentence": "I would __________ stay home than go out.",
     "translation": "我寧願待在家裡也不願出去。",
     "lookup": {
-     "english": "",
+     "english": "more willingly (used with \"would\")",
      "chinese": "寧願，倒不如說"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "realize",
     "answer": "realize",
     "pos": "v.",
-    "definition": "",
+    "definition": "to suddenly know or understand something",
     "chinese": "意識到，實現",
     "sentence": "She didn't __________ the danger she was in.",
     "translation": "她沒有意識到自己所處的危險。",
     "lookup": {
-     "english": "",
+     "english": "to suddenly know or understand something",
      "chinese": "意識到，實現"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "receive",
     "answer": "received",
     "pos": "v.",
-    "definition": "",
+    "definition": "to get something that someone gives or sends you",
     "chinese": "收到，接受",
     "sentence": "She __________ a gift from her friend.",
     "translation": "她收到了一份來自朋友的禮物。",
     "lookup": {
-     "english": "",
+     "english": "to get something that someone gives or sends you",
      "chinese": "收到，接受"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "record",
     "answer": "record",
     "pos": "n.",
-    "definition": "",
+    "definition": "written information that is kept so people can look at it later",
     "chinese": "記錄，唱片",
     "sentence": "She keeps a __________ of all her expenses.",
     "translation": "她記錄所有的開支。",
     "lookup": {
-     "english": "",
+     "english": "written information that is kept so people can look at it later",
      "chinese": "記錄，唱片"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "recover",
     "answer": "recover",
     "pos": "v.",
-    "definition": "",
+    "definition": "to get well again after being sick",
     "chinese": "恢復，痊癒",
     "sentence": "He is expected to __________ from his illness soon.",
     "translation": "他預計很快會從疾病中康復。",
     "lookup": {
-     "english": "",
+     "english": "to get well again after being sick",
      "chinese": "恢復，痊癒"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "rectangle",
     "answer": "rectangle",
     "pos": "n.",
-    "definition": "",
+    "definition": "a shape with four straight sides, two long and two short",
     "chinese": "長方形",
     "sentence": "She drew a __________ on the paper.",
     "translation": "她在紙上畫了一個長方形。",
     "lookup": {
-     "english": "",
+     "english": "a shape with four straight sides, two long and two short",
      "chinese": "長方形"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"backward":["","向後地"],"central":["","中央的，核心的"],"hardly":["","幾乎不，勉強地"],"natural":["","自然的，天然的"],"pale":["","蒼白的，淡色的"],"promise":["","承諾，保證"],"pronounce":["","發音，宣佈"],"protect":["","保護，防護"],"provide":["","提供，供給"],"pump":["","泵，打氣筒"],"punished":["","懲罰，處罰"],"purpose":["","目的，意圖"],"purse":["","錢包，手提包"],"puzzle":["","拼圖，謎題"],"quit":["","辭職，放棄"],"railroad":["","鐵路"],"railway":["","鐵路，鐵道"],"raincoat":["","雨衣"],"rare":["","稀有的，罕見的"],"rather":["","寧願，倒不如說"],"realize":["","意識到，實現"],"received":["","收到，接受"],"record":["","記錄，唱片"],"recover":["","恢復，痊癒"],"rectangle":["","長方形"],"therefore":["","因此，所以"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"backward":["toward the back","向後地"],"central":["in the middle; for the whole building","中央的，核心的"],"hardly":["almost not","幾乎不，勉強地"],"natural":["from nature; not made by people","自然的，天然的"],"pale":["having a light or white face, often because you are sick","蒼白的，淡色的"],"promise":["words that say you will surely do something","承諾，保證"],"pronounce":["to make the sound of a word or letter","發音，宣佈"],"protect":["to keep someone or something safe","保護，防護"],"provide":["to give someone what they need","提供，供給"],"pump":["a machine that moves water, air, or gas","泵，打氣筒"],"punished":["to make someone suffer because they did something wrong","懲罰，處罰"],"purpose":["the reason for doing something","目的，意圖"],"purse":["a small bag in which a woman carries money and keys","錢包，手提包"],"puzzle":["a game or question that is hard to work out","拼圖，謎題"],"quit":["to leave a job or stop doing something","辭職，放棄"],"railroad":["the metal tracks that trains run on","鐵路"],"railway":["the metal tracks that trains run on","鐵路，鐵道"],"raincoat":["a coat that keeps you dry in the rain","雨衣"],"rare":["not seen or found very often","稀有的，罕見的"],"rather":["more willingly (used with \"would\")","寧願，倒不如說"],"realize":["to suddenly know or understand something","意識到，實現"],"received":["to get something that someone gives or sends you","收到，接受"],"record":["written information that is kept so people can look at it later","記錄，唱片"],"recover":["to get well again after being sick","恢復，痊癒"],"rectangle":["a shape with four straight sides, two long and two short","長方形"],"therefore":["so; for that reason","因此，所以"]});

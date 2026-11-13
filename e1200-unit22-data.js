@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "doctor (Dr.)",
     "pos": "n.",
     "cn_def": "醫生",
-    "en_def": "",
+    "en_def": "a person whose job is to help sick people get well",
     "sentence": "Q: What does your mother do? — A: She is a {{BLANK}}. She works in a hospital.",
     "cn": "你媽媽是做什麼的？ — 她是醫生，她在醫院工作。",
     "alts": [
@@ -21,7 +21,7 @@ const VOCAB = [
     "word": "nurse (nurses)",
     "pos": "n.",
     "cn_def": "護士",
-    "en_def": "",
+    "en_def": "a person who takes care of sick people in a hospital",
     "sentence": "Q: What do Amy's aunts do? — A: They are {{BLANK}}. They help sick people.",
     "cn": "艾美的阿姨們是做什麼的？ — 她們是護士，她們幫助生病的人。"
   },
@@ -29,7 +29,7 @@ const VOCAB = [
     "word": "dentist",
     "pos": "n.",
     "cn_def": "牙醫",
-    "en_def": "",
+    "en_def": "a doctor who takes care of people's teeth",
     "sentence": "Q: What does Mr. Lin do? — A: He is a {{BLANK}}. He checks people's teeth.",
     "cn": "林先生是做什麼的？ — 他是牙醫，他檢查人們的牙齒。"
   },
@@ -37,7 +37,7 @@ const VOCAB = [
     "word": "housewife",
     "pos": "n.",
     "cn_def": "家庭主婦",
-    "en_def": "",
+    "en_def": "a woman who stays home and takes care of her family and house",
     "sentence": "Q: What does Ben's mom do? — A: She is a {{BLANK}}. She cooks and cleans at home.",
     "cn": "班的媽媽是做什麼的？ — 她是家庭主婦，她在家煮飯、打掃。"
   },
@@ -45,7 +45,7 @@ const VOCAB = [
     "word": "job",
     "pos": "n.",
     "cn_def": "工作",
-    "en_def": "",
+    "en_def": "the work that you do to get money",
     "sentence": "Q: What do your parents do? — A: My dad is a teacher, and my mom has a new {{BLANK}} at a bank.",
     "cn": "你爸媽是做什麼的？ — 我爸爸是老師，我媽媽在銀行有一份新工作。"
   },
@@ -53,7 +53,7 @@ const VOCAB = [
     "word": "business",
     "pos": "n.",
     "cn_def": "生意",
-    "en_def": "",
+    "en_def": "buying and selling things to make money",
     "sentence": "Q: What do Tom's parents do? — A: They have a small {{BLANK}}. They sell shoes.",
     "cn": "湯姆的爸媽是做什麼的？ — 他們做小生意，他們賣鞋子。"
   },
@@ -61,7 +61,7 @@ const VOCAB = [
     "word": "businessman",
     "pos": "n.",
     "cn_def": "商人",
-    "en_def": "",
+    "en_def": "a man who works in a company and buys and sells things",
     "sentence": "Q: What does Mr. Wang do? — A: He is a {{BLANK}}. He often travels to other countries.",
     "cn": "王先生是做什麼的？ — 他是商人，他常常去其他國家。"
   },
@@ -69,7 +69,7 @@ const VOCAB = [
     "word": "boss",
     "pos": "n.",
     "cn_def": "老闆",
-    "en_def": "",
+    "en_def": "the person who tells workers what to do",
     "sentence": "Q: What does Ms. Chen do at the store? — A: She is the {{BLANK}}. She tells everyone what to do.",
     "cn": "陳女士在店裡做什麼？ — 她是老闆，她告訴每個人要做什麼。"
   },
@@ -77,7 +77,7 @@ const VOCAB = [
     "word": "actor",
     "pos": "n.",
     "cn_def": "男演員",
-    "en_def": "",
+    "en_def": "a man who plays a part in a movie or a play",
     "sentence": "Q: What does Tom want to be? — A: He wants to be an {{BLANK}}. He wants to be in movies.",
     "cn": "湯姆想當什麼？ — 他想當男演員，他想演電影。"
   },
@@ -85,7 +85,7 @@ const VOCAB = [
     "word": "actress",
     "pos": "n.",
     "cn_def": "女演員",
-    "en_def": "",
+    "en_def": "a woman who plays a part in a movie or a play",
     "sentence": "Q: What do you want to be, Amy? — A: I want to be an {{BLANK}}. I love to act on TV.",
     "cn": "艾美，你想當什麼？ — 我想當女演員，我喜歡在電視上演戲。"
   },
@@ -93,7 +93,7 @@ const VOCAB = [
     "word": "singer (singers)",
     "pos": "n.",
     "cn_def": "歌手",
-    "en_def": "",
+    "en_def": "a person who sings songs",
     "sentence": "Q: What do your sisters want to be? — A: They want to be {{BLANK}}. They sing very well.",
     "cn": "你的姊妹們想當什麼？ — 她們想當歌手，她們唱歌很好聽。"
   },
@@ -101,7 +101,7 @@ const VOCAB = [
     "word": "writer",
     "pos": "n.",
     "cn_def": "作家",
-    "en_def": "",
+    "en_def": "a person who writes books or stories",
     "sentence": "Q: What does Kevin want to be? — A: He wants to be a {{BLANK}}. He likes to write stories.",
     "cn": "凱文想當什麼？ — 他想當作家，他喜歡寫故事。"
   },
@@ -109,7 +109,7 @@ const VOCAB = [
     "word": "reporter",
     "pos": "n.",
     "cn_def": "記者",
-    "en_def": "",
+    "en_def": "a person who finds and tells the news",
     "sentence": "Q: What do you want to be in the future? — A: I want to be a {{BLANK}}. I want to report the news on TV.",
     "cn": "你將來想當什麼？ — 我想當記者，我想在電視上報新聞。"
   },
@@ -117,7 +117,7 @@ const VOCAB = [
     "word": "engineer",
     "pos": "n.",
     "cn_def": "工程師",
-    "en_def": "",
+    "en_def": "a person who plans and builds machines, roads, or bridges",
     "sentence": "Q: What does your brother want to be? — A: He wants to be an {{BLANK}}. He likes computers and machines.",
     "cn": "你哥哥想當什麼？ — 他想當工程師，他喜歡電腦和機器。"
   },
@@ -125,7 +125,7 @@ const VOCAB = [
     "word": "lawyer (lawyers)",
     "pos": "n.",
     "cn_def": "律師",
-    "en_def": "",
+    "en_def": "a person who knows the law and helps people with it",
     "sentence": "Q: What do Jenny and Lisa want to be? — A: They want to be {{BLANK}} like their father.",
     "cn": "珍妮和麗莎想當什麼？ — 她們想像她們的爸爸一樣當律師。"
   },
@@ -133,7 +133,7 @@ const VOCAB = [
     "word": "soldier",
     "pos": "n.",
     "cn_def": "軍人",
-    "en_def": "",
+    "en_def": "a person who is in an army",
     "sentence": "Q: What does Peter want to be? — A: He wants to be a {{BLANK}}. He wants to keep our country safe.",
     "cn": "彼得想當什麼？ — 他想當軍人，他想保衛我們的國家安全。"
   },
@@ -141,7 +141,7 @@ const VOCAB = [
     "word": "cowboy (cowboys)",
     "pos": "n.",
     "cn_def": "牛仔",
-    "en_def": "",
+    "en_def": "a man who rides a horse and takes care of cows",
     "sentence": "Q: What do the boys want to be at the Halloween party? — A: They want to be {{BLANK}}. They wear big hats.",
     "cn": "男孩們在萬聖節派對上想扮成什麼？ — 他們想扮成牛仔，他們戴大帽子。"
   },
@@ -149,7 +149,7 @@ const VOCAB = [
     "word": "work (works)",
     "pos": "v.",
     "cn_def": "工作",
-    "en_def": "",
+    "en_def": "to do a job",
     "sentence": "Q: Where does your father work? — A: He {{BLANK}} at a bank.",
     "cn": "你爸爸在哪裡工作？ — 他在銀行工作。"
   },
@@ -157,7 +157,7 @@ const VOCAB = [
     "word": "farmer (farmers)",
     "pos": "n.",
     "cn_def": "農夫",
-    "en_def": "",
+    "en_def": "a person who grows food or keeps animals on a farm",
     "sentence": "Q: Where do {{BLANK}} work? — A: They work on farms. They grow rice and vegetables.",
     "cn": "農夫在哪裡工作？ — 他們在農場工作，他們種稻米和蔬菜。"
   },
@@ -165,7 +165,7 @@ const VOCAB = [
     "word": "fisherman",
     "pos": "n.",
     "cn_def": "漁夫",
-    "en_def": "",
+    "en_def": "a person who catches fish as a job",
     "sentence": "Q: Where does a {{BLANK}} work? — A: He works on a boat at sea.",
     "cn": "漁夫在哪裡工作？ — 他在海上的船上工作。"
   },
@@ -173,7 +173,7 @@ const VOCAB = [
     "word": "cook",
     "pos": "n.",
     "cn_def": "廚師",
-    "en_def": "",
+    "en_def": "a person who makes food as a job",
     "sentence": "Q: Where does the {{BLANK}} work? — A: She works in the kitchen of a restaurant.",
     "cn": "那位廚師在哪裡工作？ — 她在一家餐廳的廚房工作。"
   },
@@ -181,7 +181,7 @@ const VOCAB = [
     "word": "waiter (waiters)",
     "pos": "n.",
     "cn_def": "男服務生",
-    "en_def": "",
+    "en_def": "a man who brings food to people in a restaurant",
     "sentence": "Q: Where do {{BLANK}} work? — A: They work in restaurants. They bring food to people.",
     "cn": "男服務生在哪裡工作？ — 他們在餐廳工作，他們幫人送餐。"
   },
@@ -189,7 +189,7 @@ const VOCAB = [
     "word": "waitress",
     "pos": "n.",
     "cn_def": "女服務生",
-    "en_def": "",
+    "en_def": "a woman who brings food to people in a restaurant",
     "sentence": "Q: Where does Mary's sister work? — A: She is a {{BLANK}} at a coffee shop.",
     "cn": "瑪莉的姊姊在哪裡工作？ — 她在一家咖啡店當女服務生。"
   },
@@ -197,7 +197,7 @@ const VOCAB = [
     "word": "clerk (clerks)",
     "pos": "n.",
     "cn_def": "店員",
-    "en_def": "",
+    "en_def": "a person who works in a store or an office",
     "sentence": "Q: Where do Ken and his friend work? — A: They are {{BLANK}} at a supermarket.",
     "cn": "肯和他的朋友在哪裡工作？ — 他們在一家超市當店員。"
   },
@@ -205,7 +205,7 @@ const VOCAB = [
     "word": "secretary",
     "pos": "n.",
     "cn_def": "秘書",
-    "en_def": "",
+    "en_def": "a person who answers the phone and writes letters for a boss",
     "sentence": "Q: Where does Ms. Lee work? — A: She works in an office. She is a {{BLANK}}.",
     "cn": "李女士在哪裡工作？ — 她在辦公室工作，她是秘書。"
   },
@@ -213,7 +213,7 @@ const VOCAB = [
     "word": "mailman (mail carrier)",
     "pos": "n.",
     "cn_def": "郵差",
-    "en_def": "",
+    "en_def": "a person who brings letters to people's homes",
     "sentence": "Q: What does a {{BLANK}} do? — A: He brings letters to every home.",
     "cn": "郵差做什麼？ — 他把信送到每一戶人家。",
     "alts": [
@@ -224,7 +224,7 @@ const VOCAB = [
     "word": "police",
     "pos": "n.",
     "cn_def": "警察",
-    "en_def": "",
+    "en_def": "the people whose job is to catch bad people and keep everyone safe",
     "sentence": "Q: What do the {{BLANK}} do? — A: They help people and keep our city safe.",
     "cn": "警察做什麼？ — 他們幫助人們，維護我們城市的安全。"
   },
@@ -232,7 +232,7 @@ const VOCAB = [
     "word": "officer",
     "pos": "n.",
     "cn_def": "警官；官員",
-    "en_def": "",
+    "en_def": "a person with an important job in the police or the army",
     "sentence": "Q: What does a police {{BLANK}} do? — A: He helps people and catches bad men.",
     "cn": "警官做什麼？ — 他幫助人們、抓壞人。"
   },
@@ -240,7 +240,7 @@ const VOCAB = [
     "word": "driver (drivers)",
     "pos": "n.",
     "cn_def": "駕駛人；司機",
-    "en_def": "",
+    "en_def": "a person who drives a car, bus, or taxi",
     "sentence": "Q: What do bus {{BLANK}} do? — A: They drive buses and take people to many places.",
     "cn": "公車司機做什麼？ — 他們開公車，載人們去很多地方。"
   },
@@ -248,7 +248,7 @@ const VOCAB = [
     "word": "salesman",
     "pos": "n.",
     "cn_def": "推銷員",
-    "en_def": "",
+    "en_def": "a man whose job is to sell things",
     "sentence": "Q: What does a {{BLANK}} do? — A: He sells things to people.",
     "cn": "推銷員做什麼？ — 他把東西賣給人們。"
   },
@@ -256,7 +256,7 @@ const VOCAB = [
     "word": "shopkeeper (shopkeepers)",
     "pos": "n.",
     "cn_def": "店主",
-    "en_def": "",
+    "en_def": "a person who owns a small store",
     "sentence": "Q: What do {{BLANK}} do? — A: They open their stores and sell things.",
     "cn": "店主做什麼？ — 他們開店、賣東西。"
   },
@@ -264,7 +264,7 @@ const VOCAB = [
     "word": "worker (workers)",
     "pos": "n.",
     "cn_def": "工人",
-    "en_def": "",
+    "en_def": "a person who works, often in a factory",
     "sentence": "Q: What do the {{BLANK}} do at the factory? — A: They make toys.",
     "cn": "工人們在工廠做什麼？ — 他們製作玩具。"
   }
@@ -660,177 +660,177 @@ const MCQS = [
 const LOOKUP = {
   "doctor": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person whose job is to help sick people get well",
     "cn_def": "醫生"
   },
   "grows": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to get bigger or older",
     "cn_def": "成長；長大"
   },
   "cook": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make food ready to eat by heating it",
     "cn_def": "煮飯；烹調"
   },
   "washes": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to clean something with water and soap",
     "cn_def": "清洗"
   },
   "nurses": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who takes care of sick people in a hospital",
     "cn_def": "護士"
   },
   "dentist": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a doctor who takes care of people's teeth",
     "cn_def": "牙醫"
   },
   "housewife": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a woman who stays home and takes care of her family and house",
     "cn_def": "家庭主婦"
   },
   "job": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the work that you do to get money",
     "cn_def": "工作"
   },
   "business": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "buying and selling things to make money",
     "cn_def": "生意"
   },
   "businessman": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a man who works in a company and buys and sells things",
     "cn_def": "商人"
   },
   "boss": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the person who tells workers what to do",
     "cn_def": "老闆"
   },
   "actor": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a man who plays a part in a movie or a play",
     "cn_def": "男演員"
   },
   "actress": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a woman who plays a part in a movie or a play",
     "cn_def": "女演員"
   },
   "singers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who sings songs",
     "cn_def": "歌手"
   },
   "writer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who writes books or stories",
     "cn_def": "作家"
   },
   "reporter": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who finds and tells the news",
     "cn_def": "記者"
   },
   "engineer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who plans and builds machines, roads, or bridges",
     "cn_def": "工程師"
   },
   "lawyers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who knows the law and helps people with it",
     "cn_def": "律師"
   },
   "soldier": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who is in an army",
     "cn_def": "軍人"
   },
   "cowboys": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a man who rides a horse and takes care of cows",
     "cn_def": "牛仔"
   },
   "works": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to do a job",
     "cn_def": "工作"
   },
   "farmers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who grows food or keeps animals on a farm",
     "cn_def": "農夫"
   },
   "fisherman": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who catches fish as a job",
     "cn_def": "漁夫"
   },
   "waiters": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a man who brings food to people in a restaurant",
     "cn_def": "男服務生"
   },
   "waitress": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a woman who brings food to people in a restaurant",
     "cn_def": "女服務生"
   },
   "clerks": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who works in a store or an office",
     "cn_def": "店員"
   },
   "secretary": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who answers the phone and writes letters for a boss",
     "cn_def": "秘書"
   },
   "mailman": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who brings letters to people's homes",
     "cn_def": "郵差"
   },
   "police": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the people whose job is to catch bad people and keep everyone safe",
     "cn_def": "警察"
   },
   "officer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person with an important job in the police or the army",
     "cn_def": "警官；官員"
   },
   "drivers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who drives a car, bus, or taxi",
     "cn_def": "駕駛人；司機"
   },
   "salesman": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a man whose job is to sell things",
     "cn_def": "推銷員"
   },
   "shopkeepers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who owns a small store",
     "cn_def": "店主"
   },
   "workers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who works, often in a factory",
     "cn_def": "工人"
   },
   "knows": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to have something in your mind; to have met someone before",
     "cn_def": "知道；認識"
   }
 };

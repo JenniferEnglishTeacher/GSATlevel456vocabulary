@@ -2,8 +2,11 @@
 usage: python3 -I e1200_convert.py <docx> <out.json>
 One unit per 區 (39 sections; 區 20–21 is one, 34 and 35 are split). Each row gives word, 詞性, 中文, one Q&A with a blank, and 中譯.
 The docx has no multiple-choice questions, so one is generated per word: the same Q&A, a Chinese hint for the
-target word, and three distractors of the same part of speech (same unit first)."""
-import sys, re, json, random, docx
+target word, and three distractors of the same part of speech (same unit first). Units that have hand-written
+questions in mcq/e*.txt use those instead (two sentences, no Chinese). English definitions come from defs/e*.txt."""
+import sys, os, re, json, random, docx
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import vocab_extra
 
 SRC, OUT = sys.argv[1], sys.argv[2]
 GAS = "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"
@@ -15,6 +18,8 @@ SYN = {123, 124, 125, 126, 239, 283, 474, 476, 480, 512, 518, 627, 640, 715, 740
 ANSWER = {104: "has a runny nose", 189: "a lot of", 284: "fries", 914: "out", 703: "U.S.A.", 704: "R.O.C.", 845: "an"}
 ALTS = {703: ["USA"], 704: ["ROC"], 944: ["goodbye", "bye"], 120: ["Doctor"]}
 B = "{{BLANK}}"
+# Chinese hint for the generated questions where the answer is another form of the headword
+HINT = {848: "我的（東西）", 849: "她的（東西）", 850: "我們的（東西）", 851: "他（受詞）", 852: "他們（受詞）", 853: "你自己", 854: "它自己"}
 # rows with several blanks: one clear blank instead (sentence, Chinese, answer)
 MANUAL = {
     65: (f"Tom is 160 cm, and Ben is 150 cm. — Tom is {B} than Ben.", "湯姆 160 公分，班 150 公分。— 湯姆比班高。", "taller"),
@@ -101,6 +106,12 @@ for e in entries.values():
     by_pos.setdefault(e["pos"], []).append(e)
 CLOSED = [e for e in entries.values() if e["pos"] in ("prep.", "pron.", "det.", "conj.", "aux.", "art.", "int.", "abbr.", "phr.", "v.phr.", "adv.")]
 out = {}
+vocab_extra.apply_defs({zno: [entries[n] for n in range(lo, hi + 1)] for zno, zname, lo, hi, label in zones}, "e")
+WRITTEN, GLOSS = vocab_extra.load_mcqs("e")
+INDEX = {}
+for e in entries.values():
+    for k in (re.sub(r"\s*\(.*\)$", "", e["word"]).lower(), ans_of(e).lower()):
+        INDEX.setdefault(k, e)
 for zno, zname, lo, hi, label in zones:
     V = [entries[n] for n in range(lo, hi + 1)]
     rng = random.Random(1200 + zno)
@@ -136,16 +147,19 @@ for zno, zname, lo, hi, label in zones:
         assert len(picks) == 3, e
         opts = picks[:]
         opts.insert(seats[i], a)
-        mcqs.append({"q": e["sentence"].replace(B, "______") + f"【{e['cn_def']}】", "options": opts, "answer": seats[i], "cn": e["cn"], "vocabIndex": i})
+        mcqs.append({"q": e["sentence"].replace(B, "______") + f"【{HINT.get(e['no'], e['cn_def'])}】", "options": opts, "answer": seats[i], "cn": e["cn"], "vocabIndex": i})
     for e in entries.values():      # every word may appear as an option
-        info = {"pos": e["pos"], "en_def": "", "cn_def": e["cn_def"]}
+        info = {"pos": e["pos"], "en_def": e["en_def"], "cn_def": e["cn_def"]}
         for k in {ans_of(e).lower(), re.sub(r"\s*\(.*\)$", "", e["word"]).lower()}:
             lookup.setdefault(k, info)
     used = {o.lower() for q in mcqs for o in q["options"]}
+    lookup = {k: v for k, v in lookup.items() if k in used}
+    if str(zno) in WRITTEN:
+        mcqs, lookup = vocab_extra.written_mcqs(V, WRITTEN[str(zno)], INDEX, GLOSS, rng, f"e{zno}", ans_of)
     en, zh = (zname.split("｜") + [""])[:2]
     out[str(zno)] = {"generated": True, "theme": f"{en.strip()} {zh.strip()}（第{label}區）",
                      "QUIZ_CONFIG": {"groupName": f"國中小1200字 U{zno:02d} - {en.strip()}", "gasEndpoint": GAS},
                      "VOCAB": [{k: v for k, v in e.items() if k != "no"} for e in V], "MCQS": mcqs,
-                     "LOOKUP": {k: v for k, v in lookup.items() if k in used}, "EXTRA_GLOSSES": {}}
+                     "LOOKUP": lookup, "EXTRA_GLOSSES": {}}
 json.dump(out, open(OUT, "w", encoding="utf8"), ensure_ascii=False, indent=1)
-print(len(out), "units,", sum(len(g["VOCAB"]) for g in out.values()), "words")
+print(len(out), "units,", sum(len(g["VOCAB"]) for g in out.values()), "words;", len(WRITTEN), "units with hand-written questions")

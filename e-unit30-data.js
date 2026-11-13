@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "in",
     "answer": "in",
     "pos": "prep.",
-    "definition": "",
+    "definition": "inside a place or a thing",
     "chinese": "在…裡面",
     "sentence": "Q: Where is your cat? — A: It's __________ the box.",
     "translation": "你的貓在哪裡？ — 牠在箱子裡。",
     "lookup": {
-     "english": "",
+     "english": "inside a place or a thing",
      "chinese": "在…裡面"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "inside",
     "answer": "inside",
     "pos": "prep.",
-    "definition": "",
+    "definition": "in the inner part of something",
     "chinese": "在…內部",
     "sentence": "Q: Where do the children play on rainy days? — A: They play __________ the house.",
     "translation": "下雨天孩子們在哪裡玩？ — 他們在屋子裡面玩。",
     "lookup": {
-     "english": "",
+     "english": "in the inner part of something",
      "chinese": "在…內部"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "outside",
     "answer": "outside",
     "pos": "prep.",
-    "definition": "",
+    "definition": "not in a building or a room; on the outer side",
     "chinese": "在…外面",
     "sentence": "Q: Where does your dog sleep? — A: It sleeps __________ the house, in the yard.",
     "translation": "你的狗睡在哪裡？ — 牠睡在屋外的院子裡。",
     "lookup": {
-     "english": "",
+     "english": "not in a building or a room; on the outer side",
      "chinese": "在…外面"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "on",
     "answer": "on",
     "pos": "prep.",
-    "definition": "",
+    "definition": "touching the top of something",
     "chinese": "在…上面",
     "sentence": "Q: Where are my books? — A: They are __________ the desk.",
     "translation": "我的書在哪裡？ — 它們在書桌上。",
     "lookup": {
-     "english": "",
+     "english": "touching the top of something",
      "chinese": "在…上面"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "above",
     "answer": "above",
     "pos": "prep.",
-    "definition": "",
+    "definition": "higher than something, not touching it",
     "chinese": "在…上方",
     "sentence": "Q: Where is the clock? — A: It's on the wall, __________ the door.",
     "translation": "時鐘在哪裡？ — 在牆上，門的上方。",
     "lookup": {
-     "english": "",
+     "english": "higher than something, not touching it",
      "chinese": "在…上方"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "over",
     "answer": "over",
     "pos": "prep.",
-    "definition": "",
+    "definition": "right above something; across the top of something",
     "chinese": "在…正上方；越過",
     "sentence": "Q: Where does Mom hang the lamp? — A: She hangs it __________ the table.",
     "translation": "媽媽把燈掛在哪裡？ — 她把燈掛在桌子正上方。",
     "lookup": {
-     "english": "",
+     "english": "right above something; across the top of something",
      "chinese": "在…正上方；越過"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "under",
     "answer": "under",
     "pos": "prep.",
-    "definition": "",
+    "definition": "lower than something; with something on top",
     "chinese": "在…下面",
     "sentence": "Q: Where are my shoes? — A: They are __________ the bed.",
     "translation": "我的鞋子在哪裡？ — 它們在床底下。",
     "lookup": {
-     "english": "",
+     "english": "lower than something; with something on top",
      "chinese": "在…下面"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "below",
     "answer": "below",
     "pos": "prep.",
-    "definition": "",
+    "definition": "in a lower place than something",
     "chinese": "在…下方",
     "sentence": "Q: Where do you write your name? — A: I write it __________ the picture.",
     "translation": "你把名字寫在哪裡？ — 我寫在圖片下方。",
     "lookup": {
-     "english": "",
+     "english": "in a lower place than something",
      "chinese": "在…下方"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "behind",
     "answer": "behind",
     "pos": "prep.",
-    "definition": "",
+    "definition": "at the back of something",
     "chinese": "在…後面",
     "sentence": "Q: Where is the dog? — A: It's __________ the door.",
     "translation": "狗在哪裡？ — 牠在門後面。",
     "lookup": {
-     "english": "",
+     "english": "at the back of something",
      "chinese": "在…後面"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "beside",
     "answer": "beside",
     "pos": "prep.",
-    "definition": "",
+    "definition": "next to; at the side of",
     "chinese": "在…旁邊",
     "sentence": "Q: Where does Amy sit in class? — A: She sits __________ me.",
     "translation": "艾美上課坐在哪裡？ — 她坐在我旁邊。",
     "lookup": {
-     "english": "",
+     "english": "next to; at the side of",
      "chinese": "在…旁邊"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "near",
     "answer": "near",
     "pos": "prep.",
-    "definition": "",
+    "definition": "not far from",
     "chinese": "在…附近",
     "sentence": "Q: Where do your grandparents live? — A: They live __________ the park.",
     "translation": "你的爺爺奶奶住在哪裡？ — 他們住在公園附近。",
     "lookup": {
-     "english": "",
+     "english": "not far from",
      "chinese": "在…附近"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "between",
     "answer": "between",
     "pos": "prep.",
-    "definition": "",
+    "definition": "in the middle of two people or things",
     "chinese": "在…之間",
     "sentence": "Q: Where is the bank? — A: It's __________ the post office and the hospital.",
     "translation": "銀行在哪裡？ — 在郵局和醫院之間。",
     "lookup": {
-     "english": "",
+     "english": "in the middle of two people or things",
      "chinese": "在…之間"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "around",
     "answer": "around",
     "pos": "prep.",
-    "definition": "",
+    "definition": "on all sides of something",
     "chinese": "在…四周",
     "sentence": "Q: Where do the students sit? — A: They sit __________ the table.",
     "translation": "學生們坐在哪裡？ — 他們圍坐在桌子四周。",
     "lookup": {
-     "english": "",
+     "english": "on all sides of something",
      "chinese": "在…四周"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "at",
     "answer": "at",
     "pos": "prep.",
-    "definition": "",
+    "definition": "used to show an exact time or place",
     "chinese": "在（時間點）",
     "sentence": "Q: What time does Ben get up? — A: He gets up __________ seven o'clock.",
     "translation": "班幾點起床？ — 他七點起床。",
     "lookup": {
-     "english": "",
+     "english": "used to show an exact time or place",
      "chinese": "在（時間點）"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "before",
     "answer": "before",
     "pos": "prep.",
-    "definition": "",
+    "definition": "earlier than",
     "chinese": "在…之前",
     "sentence": "Q: When do you do your homework? — A: I do it __________ dinner.",
     "translation": "你什麼時候寫功課？ — 我在晚餐前寫。",
     "lookup": {
-     "english": "",
+     "english": "earlier than",
      "chinese": "在…之前"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "after",
     "answer": "after",
     "pos": "prep.",
-    "definition": "",
+    "definition": "later than",
     "chinese": "在…之後",
     "sentence": "Q: When does your sister play the piano? — A: She plays it __________ school.",
     "translation": "你妹妹什麼時候彈鋼琴？ — 她放學後彈。",
     "lookup": {
-     "english": "",
+     "english": "later than",
      "chinese": "在…之後"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "during",
     "answer": "during",
     "pos": "prep.",
-    "definition": "",
+    "definition": "all through a time",
     "chinese": "在…期間",
     "sentence": "Q: When do you visit your grandma? — A: I visit her __________ the summer vacation.",
     "translation": "你什麼時候去看奶奶？ — 我暑假期間去看她。",
     "lookup": {
-     "english": "",
+     "english": "all through a time",
      "chinese": "在…期間"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "from",
     "answer": "from",
     "pos": "prep.",
-    "definition": "",
+    "definition": "starting at a place or a time",
     "chinese": "從",
     "sentence": "Q: When does Mr. Lin work? — A: He works __________ Monday to Friday.",
     "translation": "林先生什麼時候上班？ — 他從星期一工作到星期五。",
     "lookup": {
-     "english": "",
+     "english": "starting at a place or a time",
      "chinese": "從"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "until",
     "answer": "until",
     "pos": "prep.",
-    "definition": "",
+    "definition": "up to a time",
     "chinese": "直到",
     "sentence": "Q: How long do you stay at school? — A: I stay at school __________ five o'clock.",
     "translation": "你在學校待多久？ — 我在學校待到五點。",
     "lookup": {
-     "english": "",
+     "english": "up to a time",
      "chinese": "直到"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "since",
     "answer": "since",
     "pos": "prep.",
-    "definition": "",
+    "definition": "from a time in the past up to now",
     "chinese": "自從",
     "sentence": "Q: How long has your family lived in Taipei? — A: We have lived here __________ 2020.",
     "translation": "你們家住在台北多久了？ — 我們從2020年就住在這裡。",
     "lookup": {
-     "english": "",
+     "english": "from a time in the past up to now",
      "chinese": "自從"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "to",
     "answer": "to",
     "pos": "prep.",
-    "definition": "",
+    "definition": "in the direction of a place",
     "chinese": "到；往",
     "sentence": "Q: Where does your brother go every morning? — A: He goes __________ school by bus.",
     "translation": "你哥哥每天早上去哪裡？ — 他搭公車去學校。",
     "lookup": {
-     "english": "",
+     "english": "in the direction of a place",
      "chinese": "到；往"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "into",
     "answer": "into",
     "pos": "prep.",
-    "definition": "",
+    "definition": "to the inside of something",
     "chinese": "進入…之內",
     "sentence": "Q: What does the cat do? — A: It jumps __________ the box.",
     "translation": "那隻貓在做什麼？ — 牠跳進箱子裡。",
     "lookup": {
-     "english": "",
+     "english": "to the inside of something",
      "chinese": "進入…之內"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "out (out of)",
     "answer": "out",
     "pos": "adv.",
-    "definition": "",
+    "definition": "away from the inside of a place",
     "chinese": "向外；在外",
     "sentence": "Q: Where do the kids run when the bell rings? — A: They run __________ of the classroom.",
     "translation": "鐘響時孩子們跑去哪裡？ — 他們跑出教室。",
     "lookup": {
-     "english": "",
+     "english": "away from the inside of a place",
      "chinese": "向外；在外"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "off",
     "answer": "off",
     "pos": "prep.",
-    "definition": "",
+    "definition": "away from; no longer on your body",
     "chinese": "離開；脫掉",
     "sentence": "Q: What do you do at the door? — A: I take __________ my shoes.",
     "translation": "你在門口做什麼？ — 我脫掉鞋子。",
     "lookup": {
-     "english": "",
+     "english": "away from; no longer on your body",
      "chinese": "離開；脫掉"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "up",
     "answer": "up",
     "pos": "prep.",
-    "definition": "",
+    "definition": "to a higher place",
     "chinese": "向上",
     "sentence": "Q: Where does the monkey go? — A: It climbs __________ the tree.",
     "translation": "猴子去哪裡？ — 牠爬上樹。",
     "lookup": {
-     "english": "",
+     "english": "to a higher place",
      "chinese": "向上"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "down",
     "answer": "down",
     "pos": "prep.",
-    "definition": "",
+    "definition": "to a lower place",
     "chinese": "向下",
     "sentence": "Q: What do the kids do on the slide? — A: They go __________ the slide.",
     "translation": "孩子們在溜滑梯上做什麼？ — 他們溜下溜滑梯。",
     "lookup": {
-     "english": "",
+     "english": "to a lower place",
      "chinese": "向下"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "along",
     "answer": "along",
     "pos": "prep.",
-    "definition": "",
+    "definition": "from one end of a road or river toward the other",
     "chinese": "沿著",
     "sentence": "Q: Where does Grandpa walk every evening? — A: He walks __________ the river.",
     "translation": "爺爺每天傍晚在哪裡散步？ — 他沿著河邊散步。",
     "lookup": {
-     "english": "",
+     "english": "from one end of a road or river toward the other",
      "chinese": "沿著"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "across",
     "answer": "across",
     "pos": "prep.",
-    "definition": "",
+    "definition": "from one side to the other side of something",
     "chinese": "橫越；在…對面",
     "sentence": "Q: How do I get to the bank? — A: Walk __________ the street. It's next to the park.",
     "translation": "我要怎麼去銀行？ — 過馬路，它在公園旁邊。",
     "lookup": {
-     "english": "",
+     "english": "from one side to the other side of something",
      "chinese": "橫越；在…對面"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "through",
     "answer": "through",
     "pos": "prep.",
-    "definition": "",
+    "definition": "in one side of something and out the other side",
     "chinese": "穿過",
     "sentence": "Q: Does Amy walk __________ the park to school? — A: Yes, she does. It's a short way.",
     "translation": "艾美穿過公園走路上學嗎？ — 是的，那是一條近路。",
     "lookup": {
-     "english": "",
+     "english": "in one side of something and out the other side",
      "chinese": "穿過"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "about",
     "answer": "about",
     "pos": "prep.",
-    "definition": "",
+    "definition": "on the subject of",
     "chinese": "關於",
     "sentence": "Q: What do your friends often talk __________? — A: They often talk about soccer.",
     "translation": "你的朋友們常聊什麼？ — 他們常聊足球。",
     "lookup": {
-     "english": "",
+     "english": "on the subject of",
      "chinese": "關於"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "for",
     "answer": "for",
     "pos": "prep.",
-    "definition": "",
+    "definition": "meant to be given to or used by someone",
     "chinese": "為了；給",
     "sentence": "Q: Who is this gift __________? — A: It's for my dad. His birthday is tomorrow.",
     "translation": "這份禮物是給誰的？ — 是給我爸爸的，明天是他生日。",
     "lookup": {
-     "english": "",
+     "english": "meant to be given to or used by someone",
      "chinese": "為了；給"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "of",
     "answer": "of",
     "pos": "prep.",
-    "definition": "",
+    "definition": "belonging to; showing what something is about",
     "chinese": "…的",
     "sentence": "Q: What is this a picture __________? — A: It's a picture of my family.",
     "translation": "這是一張什麼的照片？ — 這是一張我家人的照片。",
     "lookup": {
-     "english": "",
+     "english": "belonging to; showing what something is about",
      "chinese": "…的"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "with",
     "answer": "with",
     "pos": "prep.",
-    "definition": "",
+    "definition": "together; using something",
     "chinese": "和；用",
     "sentence": "Q: Who does Amy go to the park __________? — A: She goes there with her dog.",
     "translation": "艾美和誰去公園？ — 她和她的狗去那裡。",
     "lookup": {
-     "english": "",
+     "english": "together; using something",
      "chinese": "和；用"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "without",
     "answer": "without",
     "pos": "prep.",
-    "definition": "",
+    "definition": "not having something",
     "chinese": "沒有",
     "sentence": "Q: Does Grandpa read __________ his glasses? — A: No, he doesn't. He can't see without them.",
     "translation": "爺爺不戴眼鏡看書嗎？ — 不，他不會。沒有眼鏡他看不見。",
     "lookup": {
-     "english": "",
+     "english": "not having something",
      "chinese": "沒有"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "like",
     "answer": "like",
     "pos": "prep.",
-    "definition": "",
+    "definition": "almost the same as",
     "chinese": "像；如",
     "sentence": "Q: What does this candy taste __________? — A: It tastes like strawberries.",
     "translation": "這顆糖吃起來像什麼？ — 它吃起來像草莓。",
     "lookup": {
-     "english": "",
+     "english": "almost the same as",
      "chinese": "像；如"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "by",
     "answer": "by",
     "pos": "prep.",
-    "definition": "",
+    "definition": "using a kind of transportation",
     "chinese": "藉著；搭乘",
     "sentence": "Q: How do you go to Tainan? — A: We go there __________ train.",
     "translation": "你們怎麼去台南？ — 我們搭火車去。",
     "lookup": {
-     "english": "",
+     "english": "using a kind of transportation",
      "chinese": "藉著；搭乘"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "than",
     "answer": "than",
     "pos": "prep.",
-    "definition": "",
+    "definition": "used when you compare two people or things",
     "chinese": "比",
     "sentence": "Q: Who is taller, you or your brother? — A: My brother is taller __________ me.",
     "translation": "你和你哥哥誰比較高？ — 我哥哥比我高。",
     "lookup": {
-     "english": "",
+     "english": "used when you compare two people or things",
      "chinese": "比"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "except",
     "answer": "except",
     "pos": "prep.",
-    "definition": "",
+    "definition": "but not; not including",
     "chinese": "除了…之外",
     "sentence": "Q: Do all your classmates like PE? — A: Yes, they do. Everyone likes PE __________ Tom.",
     "translation": "你所有同學都喜歡體育課嗎？ — 是的。除了湯姆，大家都喜歡體育課。",
     "lookup": {
-     "english": "",
+     "english": "but not; not including",
      "chinese": "除了…之外"
     }
    }
@@ -1377,4 +1377,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"now":["","現在"],"late":["","晚；晚的"],"in":["","在…裡面"],"inside":["","在…內部"],"outside":["","在…外面"],"on":["","在…上面"],"above":["","在…上方"],"over":["","在…正上方；越過"],"under":["","在…下面"],"below":["","在…下方"],"behind":["","在…後面"],"beside":["","在…旁邊"],"near":["","在…附近"],"between":["","在…之間"],"around":["","在…四周"],"at":["","在（時間點）"],"before":["","在…之前"],"after":["","在…之後"],"during":["","在…期間"],"from":["","從"],"until":["","直到"],"since":["","自從"],"to":["","到；往"],"into":["","進入…之內"],"out":["","向外；在外"],"off":["","離開；脫掉"],"up":["","向上"],"down":["","向下"],"along":["","沿著"],"across":["","橫越；在…對面"],"through":["","穿過"],"about":["","關於"],"for":["","為了；給"],"of":["","…的"],"with":["","和；用"],"without":["","沒有"],"like":["","像；如"],"by":["","藉著；搭乘"],"than":["","比"],"except":["","除了…之外"],"actually":["","事實上"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"now":["at this time","現在"],"late":["after the usual time; near the end of the day","晚；晚的"],"in":["inside a place or a thing","在…裡面"],"inside":["in the inner part of something","在…內部"],"outside":["not in a building or a room; on the outer side","在…外面"],"on":["touching the top of something","在…上面"],"above":["higher than something, not touching it","在…上方"],"over":["right above something; across the top of something","在…正上方；越過"],"under":["lower than something; with something on top","在…下面"],"below":["in a lower place than something","在…下方"],"behind":["at the back of something","在…後面"],"beside":["next to; at the side of","在…旁邊"],"near":["not far from","在…附近"],"between":["in the middle of two people or things","在…之間"],"around":["on all sides of something","在…四周"],"at":["used to show an exact time or place","在（時間點）"],"before":["earlier than","在…之前"],"after":["later than","在…之後"],"during":["all through a time","在…期間"],"from":["starting at a place or a time","從"],"until":["up to a time","直到"],"since":["from a time in the past up to now","自從"],"to":["in the direction of a place","到；往"],"into":["to the inside of something","進入…之內"],"out":["away from the inside of a place","向外；在外"],"off":["away from; no longer on your body","離開；脫掉"],"up":["to a higher place","向上"],"down":["to a lower place","向下"],"along":["from one end of a road or river toward the other","沿著"],"across":["from one side to the other side of something","橫越；在…對面"],"through":["in one side of something and out the other side","穿過"],"about":["on the subject of","關於"],"for":["meant to be given to or used by someone","為了；給"],"of":["belonging to; showing what something is about","…的"],"with":["together; using something","和；用"],"without":["not having something","沒有"],"like":["almost the same as","像；如"],"by":["using a kind of transportation","藉著；搭乘"],"than":["used when you compare two people or things","比"],"except":["but not; not including","除了…之外"],"actually":["in fact; really","事實上"]});

@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "bed",
     "answer": "bed",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing that you sleep on",
     "chinese": "床",
     "sentence": "Q: Where is the cat? — A: It's on my __________. It's sleeping.",
     "translation": "貓在哪裡？ — 牠在我的床上，牠正在睡覺。",
     "lookup": {
-     "english": "",
+     "english": "a thing that you sleep on",
      "chinese": "床"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "sofa",
     "answer": "sofa",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long, soft seat for two or more people",
     "chinese": "沙發",
     "sentence": "Q: Where is the dog? — A: It's on the __________ in the living room.",
     "translation": "狗在哪裡？ — 牠在客廳的沙發上。",
     "lookup": {
-     "english": "",
+     "english": "a long, soft seat for two or more people",
      "chinese": "沙發"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "couch",
     "answer": "couch",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long, soft seat for two or more people",
     "chinese": "沙發",
     "sentence": "Q: Where are my comic books? — A: They're on the __________, next to the TV.",
     "translation": "我的漫畫書在哪裡？ — 它們在沙發上，電視旁邊。",
     "lookup": {
-     "english": "",
+     "english": "a long, soft seat for two or more people",
      "chinese": "沙發"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "chair",
     "answer": "chair",
     "pos": "n.",
-    "definition": "",
+    "definition": "a seat for one person, with a back and four legs",
     "chinese": "椅子",
     "sentence": "Q: Where is my schoolbag? — A: It's under your __________.",
     "translation": "我的書包在哪裡？ — 它在你的椅子下面。",
     "lookup": {
-     "english": "",
+     "english": "a seat for one person, with a back and four legs",
      "chinese": "椅子"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "desk",
     "answer": "desk",
     "pos": "n.",
-    "definition": "",
+    "definition": "a table where you study or work",
     "chinese": "書桌",
     "sentence": "Q: Where are my books? — A: They're on your __________.",
     "translation": "我的書在哪裡？ — 它們在你的書桌上。",
     "lookup": {
-     "english": "",
+     "english": "a table where you study or work",
      "chinese": "書桌"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "table",
     "answer": "table",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing with a flat top and legs that you put things on",
     "chinese": "桌子",
     "sentence": "Q: Where does Mom put the cake? — A: She puts it on the __________.",
     "translation": "媽媽把蛋糕放在哪裡？ — 她把它放在桌上。",
     "lookup": {
-     "english": "",
+     "english": "a thing with a flat top and legs that you put things on",
      "chinese": "桌子"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "drawer",
     "answer": "drawer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a box in a desk or table that you pull out to put things in",
     "chinese": "抽屜",
     "sentence": "Q: Where do you keep your pens? — A: I keep them in the __________.",
     "translation": "你把筆放在哪裡？ — 我把它們放在抽屜裡。",
     "lookup": {
-     "english": "",
+     "english": "a box in a desk or table that you pull out to put things in",
      "chinese": "抽屜"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "lamp",
     "answer": "lamp",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small light that stands on a desk or table",
     "chinese": "檯燈",
     "sentence": "Q: Where is the __________? — A: It's on the desk, next to the computer.",
     "translation": "檯燈在哪裡？ — 它在書桌上，電腦旁邊。",
     "lookup": {
-     "english": "",
+     "english": "a small light that stands on a desk or table",
      "chinese": "檯燈"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "blanket",
     "answer": "blanket",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big, warm cover for your bed",
     "chinese": "毯子",
     "sentence": "Q: Where is my __________? I'm cold. — A: It's on your bed.",
     "translation": "我的毯子在哪裡？我好冷。 — 它在你的床上。",
     "lookup": {
-     "english": "",
+     "english": "a big, warm cover for your bed",
      "chinese": "毯子"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "towel (towels)",
     "answer": "towels",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of cloth that you use to dry yourself",
     "chinese": "毛巾",
     "sentence": "Q: Where are the __________? — A: They're in the bathroom.",
     "translation": "毛巾在哪裡？ — 它們在浴室裡。",
     "lookup": {
-     "english": "",
+     "english": "a piece of cloth that you use to dry yourself",
      "chinese": "毛巾"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "key (keys)",
     "answer": "keys",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small metal thing that opens a door or starts a car",
     "chinese": "鑰匙",
     "sentence": "Q: Where are my __________? — A: They're in your pocket, Dad!",
     "translation": "我的鑰匙在哪裡？ — 爸爸，它們在你的口袋裡！",
     "lookup": {
-     "english": "",
+     "english": "a small metal thing that opens a door or starts a car",
      "chinese": "鑰匙"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "umbrella",
     "answer": "umbrella",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing you hold over your head to stay dry in the rain",
     "chinese": "雨傘",
     "sentence": "Q: Where does Dad keep his __________? — A: He keeps it behind the door.",
     "translation": "爸爸把他的雨傘放在哪裡？ — 他把它放在門後面。",
     "lookup": {
-     "english": "",
+     "english": "a thing you hold over your head to stay dry in the rain",
      "chinese": "雨傘"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "basket",
     "answer": "basket",
     "pos": "n.",
-    "definition": "",
+    "definition": "a container made of thin sticks for carrying things",
     "chinese": "籃子",
     "sentence": "Q: Where are the apples? — A: They're in the __________ on the table.",
     "translation": "蘋果在哪裡？ — 它們在桌上的籃子裡。",
     "lookup": {
-     "english": "",
+     "english": "a container made of thin sticks for carrying things",
      "chinese": "籃子"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "pot",
     "answer": "pot",
     "pos": "n.",
-    "definition": "",
+    "definition": "a deep round container for cooking food or holding tea",
     "chinese": "鍋子；壺",
     "sentence": "Q: Where is the soup? — A: It's in the __________ in the kitchen.",
     "translation": "湯在哪裡？ — 它在廚房的鍋子裡。",
     "lookup": {
-     "english": "",
+     "english": "a deep round container for cooking food or holding tea",
      "chinese": "鍋子；壺"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "candle (candles)",
     "answer": "candles",
     "pos": "n.",
-    "definition": "",
+    "definition": "a stick of wax that gives light when it burns",
     "chinese": "蠟燭",
     "sentence": "Q: Where are the __________? — A: They're on the birthday cake.",
     "translation": "蠟燭在哪裡？ — 它們在生日蛋糕上。",
     "lookup": {
-     "english": "",
+     "english": "a stick of wax that gives light when it burns",
      "chinese": "蠟燭"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "mat",
     "answer": "mat",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small piece of thick cloth on the floor",
     "chinese": "墊子",
     "sentence": "Q: Where do we put our shoes? — A: Put them on the __________ by the door.",
     "translation": "我們把鞋子放在哪裡？ — 把它們放在門邊的墊子上。",
     "lookup": {
-     "english": "",
+     "english": "a small piece of thick cloth on the floor",
      "chinese": "墊子"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "bench",
     "answer": "bench",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long seat for two or more people, often in a park",
     "chinese": "長椅",
     "sentence": "Q: Is there a __________ in the garden? — A: Yes, there is. Grandma often sits on it.",
     "translation": "花園裡有長椅嗎？ — 是的，有。奶奶常常坐在上面。",
     "lookup": {
-     "english": "",
+     "english": "a long seat for two or more people, often in a park",
      "chinese": "長椅"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "light",
     "answer": "light",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing that makes a room bright",
     "chinese": "燈；燈光",
     "sentence": "Q: Is there a __________ in the bathroom? — A: Yes, there is. But it doesn't work now.",
     "translation": "浴室裡有燈嗎？ — 是的，有。但是它現在壞了。",
     "lookup": {
-     "english": "",
+     "english": "a thing that makes a room bright",
      "chinese": "燈；燈光"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "television (TV)",
     "answer": "television",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine with a screen that shows programs and movies",
     "chinese": "電視",
     "sentence": "Q: Is there a __________ in your bedroom? — A: No, there isn't. It's in the living room.",
     "translation": "你的臥室裡有電視嗎？ — 不，沒有。它在客廳裡。",
     "lookup": {
-     "english": "",
+     "english": "a machine with a screen that shows programs and movies",
      "chinese": "電視"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "computer",
     "answer": "computer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine you use to write, play games, and go online",
     "chinese": "電腦",
     "sentence": "Q: Is there a __________ in your room? — A: Yes, there is. I do my homework on it.",
     "translation": "你的房間裡有電腦嗎？ — 是的，有。我用它寫功課。",
     "lookup": {
-     "english": "",
+     "english": "a machine you use to write, play games, and go online",
      "chinese": "電腦"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "telephone (phone)",
     "answer": "telephone",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing you use to talk to someone who is far away",
     "chinese": "電話",
     "sentence": "Q: Is there a __________ in the kitchen? — A: No, there isn't. It's on the table in the living room.",
     "translation": "廚房裡有電話嗎？ — 不，沒有。它在客廳的桌上。",
     "lookup": {
-     "english": "",
+     "english": "a thing you use to talk to someone who is far away",
      "chinese": "電話"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "radio",
     "answer": "radio",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine that plays music and news you can listen to",
     "chinese": "收音機",
     "sentence": "Q: Is there a __________ in Grandpa's room? — A: Yes, there is. He listens to it every morning.",
     "translation": "爺爺的房間裡有收音機嗎？ — 是的，有。他每天早上都聽。",
     "lookup": {
-     "english": "",
+     "english": "a machine that plays music and news you can listen to",
      "chinese": "收音機"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "camera",
     "answer": "camera",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing you use to take photos",
     "chinese": "照相機",
     "sentence": "Q: Is there a __________ in your bag? — A: Yes, there is. I want to take pictures in the park.",
     "translation": "你的包包裡有相機嗎？ — 是的，有。我想在公園拍照。",
     "lookup": {
-     "english": "",
+     "english": "a thing you use to take photos",
      "chinese": "照相機"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "fan",
     "answer": "fan",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine that moves air to make you feel cool",
     "chinese": "電風扇",
     "sentence": "Q: Is there a __________ in your bedroom? It's so hot. — A: No, there isn't. Let's go to the living room.",
     "translation": "你的臥室裡有電風扇嗎？好熱喔。 — 不，沒有。我們去客廳吧。",
     "lookup": {
-     "english": "",
+     "english": "a machine that moves air to make you feel cool",
      "chinese": "電風扇"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "refrigerator (fridge)",
     "answer": "refrigerator",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine in the kitchen that keeps food cold",
     "chinese": "冰箱",
     "sentence": "Q: Is there any milk in the __________? — A: Yes, there is. It's next to the eggs.",
     "translation": "冰箱裡有牛奶嗎？ — 是的，有。它在蛋的旁邊。",
     "lookup": {
-     "english": "",
+     "english": "a machine in the kitchen that keeps food cold",
      "chinese": "冰箱"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "machine",
     "answer": "machine",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing with moving parts that does work for people",
     "chinese": "機器",
     "sentence": "Q: Is there a washing __________ in your apartment? — A: Yes, there is. It's on the balcony.",
     "translation": "你的公寓裡有洗衣機嗎？ — 是的，有。它在陽台上。",
     "lookup": {
-     "english": "",
+     "english": "a thing with moving parts that does work for people",
      "chinese": "機器"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "tape (tapes)",
     "answer": "tapes",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long thin strip that holds sound or sticks things together",
     "chinese": "錄音帶；膠帶",
     "sentence": "Q: Are there any English __________ in the box? — A: Yes, there are. We can listen to them.",
     "translation": "箱子裡有英文錄音帶嗎？ — 是的，有。我們可以聽它們。",
     "lookup": {
-     "english": "",
+     "english": "a long thin strip that holds sound or sticks things together",
      "chinese": "錄音帶；膠帶"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "video (videos)",
     "answer": "videos",
     "pos": "n.",
-    "definition": "",
+    "definition": "a short movie that you watch on a phone, computer, or TV",
     "chinese": "影片；錄影帶",
     "sentence": "Q: Are there any funny __________ on your phone? — A: Yes, there are. Let's watch them together!",
     "translation": "你的手機裡有好笑的影片嗎？ — 是的，有。我們一起看吧！",
     "lookup": {
-     "english": "",
+     "english": "a short movie that you watch on a phone, computer, or TV",
      "chinese": "影片；錄影帶"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "pipe",
     "answer": "pipe",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long tube that water or gas moves through",
     "chinese": "管子；水管",
     "sentence": "Q: Is there any water in the __________? — A: No, there isn't. It's broken.",
     "translation": "水管裡有水嗎？ — 不，沒有。它破了。",
     "lookup": {
-     "english": "",
+     "english": "a long tube that water or gas moves through",
      "chinese": "管子；水管"
     }
    },
@@ -385,12 +385,12 @@ window.FLASHCARD_UNITS = {
     "word": "house",
     "answer": "house",
     "pos": "n.",
-    "definition": "",
+    "definition": "a building where a family lives",
     "chinese": "房子",
     "sentence": "Q: What is there near the park? — A: There is a big __________ with a garden.",
     "translation": "公園附近有什麼？ — 有一棟有花園的大房子。",
     "lookup": {
-     "english": "",
+     "english": "a building where a family lives",
      "chinese": "房子"
     }
    },
@@ -398,12 +398,12 @@ window.FLASHCARD_UNITS = {
     "word": "apartment",
     "answer": "apartment",
     "pos": "n.",
-    "definition": "",
+    "definition": "a home that is part of a bigger building",
     "chinese": "公寓",
     "sentence": "Q: How many bedrooms are there in your __________? — A: There are three bedrooms.",
     "translation": "你的公寓裡有幾間臥室？ — 有三間臥室。",
     "lookup": {
-     "english": "",
+     "english": "a home that is part of a bigger building",
      "chinese": "公寓"
     }
    },
@@ -411,12 +411,12 @@ window.FLASHCARD_UNITS = {
     "word": "door",
     "answer": "door",
     "pos": "n.",
-    "definition": "",
+    "definition": "the thing you open to go into a room or a house",
     "chinese": "門",
     "sentence": "Q: What is there on the __________? — A: There is a picture of our family.",
     "translation": "門上有什麼？ — 有一張我們的全家福照片。",
     "lookup": {
-     "english": "",
+     "english": "the thing you open to go into a room or a house",
      "chinese": "門"
     }
    },
@@ -424,12 +424,12 @@ window.FLASHCARD_UNITS = {
     "word": "window (windows)",
     "answer": "windows",
     "pos": "n.",
-    "definition": "",
+    "definition": "an opening with glass in a wall that lets in light and air",
     "chinese": "窗戶",
     "sentence": "Q: How many __________ are there in your room? — A: There are two. They are very big.",
     "translation": "你的房間裡有幾扇窗戶？ — 有兩扇，它們很大。",
     "lookup": {
-     "english": "",
+     "english": "an opening with glass in a wall that lets in light and air",
      "chinese": "窗戶"
     }
    },
@@ -437,12 +437,12 @@ window.FLASHCARD_UNITS = {
     "word": "wall",
     "answer": "wall",
     "pos": "n.",
-    "definition": "",
+    "definition": "one of the sides of a room or building",
     "chinese": "牆壁",
     "sentence": "Q: What is there on the __________? — A: There is a clock and two pictures.",
     "translation": "牆上有什麼？ — 有一個時鐘和兩幅畫。",
     "lookup": {
-     "english": "",
+     "english": "one of the sides of a room or building",
      "chinese": "牆壁"
     }
    },
@@ -450,12 +450,12 @@ window.FLASHCARD_UNITS = {
     "word": "floor",
     "answer": "floor",
     "pos": "n.",
-    "definition": "",
+    "definition": "the part of a room that you walk on",
     "chinese": "地板",
     "sentence": "Q: What is there on the __________? — A: There are some toys. Please pick them up.",
     "translation": "地板上有什麼？ — 有一些玩具，請把它們撿起來。",
     "lookup": {
-     "english": "",
+     "english": "the part of a room that you walk on",
      "chinese": "地板"
     }
    },
@@ -463,12 +463,12 @@ window.FLASHCARD_UNITS = {
     "word": "gate",
     "answer": "gate",
     "pos": "n.",
-    "definition": "",
+    "definition": "a door in a fence or outside wall",
     "chinese": "大門",
     "sentence": "Q: Who is there at the __________? — A: There is a man with a big box.",
     "translation": "大門口有誰？ — 有一個拿著大箱子的男人。",
     "lookup": {
-     "english": "",
+     "english": "a door in a fence or outside wall",
      "chinese": "大門"
     }
    },
@@ -476,12 +476,12 @@ window.FLASHCARD_UNITS = {
     "word": "stairs",
     "answer": "stairs",
     "pos": "n.",
-    "definition": "",
+    "definition": "steps that go from one floor of a building to another",
     "chinese": "樓梯",
     "sentence": "Q: How many floors are there in your house? — A: There are three. We walk up the __________ to our bedrooms.",
     "translation": "你家有幾層樓？ — 有三層。我們走樓梯上去臥室。",
     "lookup": {
-     "english": "",
+     "english": "steps that go from one floor of a building to another",
      "chinese": "樓梯"
     }
    },
@@ -489,12 +489,12 @@ window.FLASHCARD_UNITS = {
     "word": "home",
     "answer": "home",
     "pos": "n.",
-    "definition": "",
+    "definition": "the place where you live",
     "chinese": "家",
     "sentence": "Q: Where are you, Ben? — A: I'm at __________. I'm watching TV.",
     "translation": "班，你在哪裡？ — 我在家，我正在看電視。",
     "lookup": {
-     "english": "",
+     "english": "the place where you live",
      "chinese": "家"
     }
    },
@@ -502,12 +502,12 @@ window.FLASHCARD_UNITS = {
     "word": "room",
     "answer": "room",
     "pos": "n.",
-    "definition": "",
+    "definition": "one of the parts of a house, with walls and a door",
     "chinese": "房間",
     "sentence": "Q: Where is Amy? — A: She's in her __________. She's doing her homework.",
     "translation": "艾美在哪裡？ — 她在她的房間，她正在寫功課。",
     "lookup": {
-     "english": "",
+     "english": "one of the parts of a house, with walls and a door",
      "chinese": "房間"
     }
    },
@@ -515,12 +515,12 @@ window.FLASHCARD_UNITS = {
     "word": "bedroom",
     "answer": "bedroom",
     "pos": "n.",
-    "definition": "",
+    "definition": "a room for sleeping in",
     "chinese": "臥室",
     "sentence": "Q: Where are you, Lisa? — A: I'm in my __________. I'm getting ready for bed.",
     "translation": "麗莎，你在哪裡？ — 我在我的臥室，我正準備睡覺。",
     "lookup": {
-     "english": "",
+     "english": "a room for sleeping in",
      "chinese": "臥室"
     }
    },
@@ -528,12 +528,12 @@ window.FLASHCARD_UNITS = {
     "word": "bathroom",
     "answer": "bathroom",
     "pos": "n.",
-    "definition": "",
+    "definition": "a room with a toilet and a place to wash",
     "chinese": "浴室",
     "sentence": "Q: Where is Dad? — A: He's in the __________. He's taking a shower.",
     "translation": "爸爸在哪裡？ — 他在浴室，他正在淋浴。",
     "lookup": {
-     "english": "",
+     "english": "a room with a toilet and a place to wash",
      "chinese": "浴室"
     }
    },
@@ -541,12 +541,12 @@ window.FLASHCARD_UNITS = {
     "word": "kitchen",
     "answer": "kitchen",
     "pos": "n.",
-    "definition": "",
+    "definition": "a room where people cook food",
     "chinese": "廚房",
     "sentence": "Q: Where are you, Mom? — A: I'm in the __________. I'm cooking dinner.",
     "translation": "媽媽，你在哪裡？ — 我在廚房，我正在煮晚餐。",
     "lookup": {
-     "english": "",
+     "english": "a room where people cook food",
      "chinese": "廚房"
     }
    },
@@ -554,12 +554,12 @@ window.FLASHCARD_UNITS = {
     "word": "dining room",
     "answer": "dining room",
     "pos": "n.",
-    "definition": "",
+    "definition": "a room where people eat meals",
     "chinese": "飯廳",
     "sentence": "Q: Where are Grandpa and Grandma? — A: They're in the __________. They're having lunch.",
     "translation": "爺爺和奶奶在哪裡？ — 他們在飯廳，他們正在吃午餐。",
     "lookup": {
-     "english": "",
+     "english": "a room where people eat meals",
      "chinese": "飯廳"
     }
    },
@@ -567,12 +567,12 @@ window.FLASHCARD_UNITS = {
     "word": "living room",
     "answer": "living room",
     "pos": "n.",
-    "definition": "",
+    "definition": "a room where a family sits, talks, and watches TV",
     "chinese": "客廳",
     "sentence": "Q: Where are the kids? — A: They're in the __________. They're playing games.",
     "translation": "孩子們在哪裡？ — 他們在客廳，他們正在玩遊戲。",
     "lookup": {
-     "english": "",
+     "english": "a room where a family sits, talks, and watches TV",
      "chinese": "客廳"
     }
    },
@@ -580,12 +580,12 @@ window.FLASHCARD_UNITS = {
     "word": "balcony",
     "answer": "balcony",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small open place outside an upstairs room",
     "chinese": "陽台",
     "sentence": "Q: Where are you, Tom? — A: I'm on the __________. I'm looking at the stars.",
     "translation": "湯姆，你在哪裡？ — 我在陽台上，我正在看星星。",
     "lookup": {
-     "english": "",
+     "english": "a small open place outside an upstairs room",
      "chinese": "陽台"
     }
    },
@@ -593,12 +593,12 @@ window.FLASHCARD_UNITS = {
     "word": "garden",
     "answer": "garden",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place by a house where flowers and vegetables grow",
     "chinese": "花園",
     "sentence": "Q: Where is Grandma? — A: She's in the __________. She's watering the flowers.",
     "translation": "奶奶在哪裡？ — 她在花園，她正在澆花。",
     "lookup": {
-     "english": "",
+     "english": "a place by a house where flowers and vegetables grow",
      "chinese": "花園"
     }
    },
@@ -606,12 +606,12 @@ window.FLASHCARD_UNITS = {
     "word": "yard",
     "answer": "yard",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of ground next to a house",
     "chinese": "庭院；院子",
     "sentence": "Q: Where are you and your dog? — A: We're in the __________. We're playing with a ball.",
     "translation": "你和你的狗在哪裡？ — 我們在院子裡，我們正在玩球。",
     "lookup": {
-     "english": "",
+     "english": "a piece of ground next to a house",
      "chinese": "庭院；院子"
     }
    },
@@ -619,12 +619,12 @@ window.FLASHCARD_UNITS = {
     "word": "clean",
     "answer": "clean",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make something not dirty",
     "chinese": "打掃",
     "sentence": "Q: What do you do on Saturday mornings? — A: I __________ my room.",
     "translation": "你星期六早上做什麼？ — 我打掃我的房間。",
     "lookup": {
-     "english": "",
+     "english": "to make something not dirty",
      "chinese": "打掃"
     }
    },
@@ -632,12 +632,12 @@ window.FLASHCARD_UNITS = {
     "word": "wash (washes)",
     "answer": "washes",
     "pos": "v.",
-    "definition": "",
+    "definition": "to clean something with water and soap",
     "chinese": "清洗",
     "sentence": "Q: What does your brother do after dinner? — A: He __________ the dishes.",
     "translation": "你哥哥晚餐後做什麼？ — 他洗碗。",
     "lookup": {
-     "english": "",
+     "english": "to clean something with water and soap",
      "chinese": "清洗"
     }
    },
@@ -645,12 +645,12 @@ window.FLASHCARD_UNITS = {
     "word": "fix",
     "answer": "fix",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make a broken thing work again",
     "chinese": "修理",
     "sentence": "Q: Does your dad __________ things at home? — A: Yes, he does. Our old lamp works again now.",
     "translation": "你爸爸會在家修東西嗎？ — 是的，他會。我們的舊檯燈現在又能用了。",
     "lookup": {
-     "english": "",
+     "english": "to make a broken thing work again",
      "chinese": "修理"
     }
    },
@@ -658,12 +658,12 @@ window.FLASHCARD_UNITS = {
     "word": "build",
     "answer": "build",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make something like a house or a bridge",
     "chinese": "建造",
     "sentence": "Q: What do your uncle and his friends do? — A: They __________ houses. They are workers.",
     "translation": "你叔叔和他的朋友們做什麼？ — 他們蓋房子，他們是工人。",
     "lookup": {
-     "english": "",
+     "english": "to make something like a house or a bridge",
      "chinese": "建造"
     }
    },
@@ -671,12 +671,12 @@ window.FLASHCARD_UNITS = {
     "word": "bath",
     "answer": "bath",
     "pos": "n.",
-    "definition": "",
+    "definition": "washing your body in a big container of water; that container",
     "chinese": "洗澡；浴缸",
     "sentence": "Q: Does Amy take a __________ every night? — A: No, she doesn't. She takes a shower.",
     "translation": "艾美每天晚上泡澡嗎？ — 不，她沒有。她淋浴。",
     "lookup": {
-     "english": "",
+     "english": "washing your body in a big container of water; that container",
      "chinese": "洗澡；浴缸"
     }
    },
@@ -684,12 +684,12 @@ window.FLASHCARD_UNITS = {
     "word": "street",
     "answer": "street",
     "pos": "n.",
-    "definition": "",
+    "definition": "a road in a town or city with houses or shops on it",
     "chinese": "街道",
     "sentence": "Q: Where does Tina live? — A: She lives on Park __________.",
     "translation": "蒂娜住在哪裡？ — 她住在公園街。",
     "lookup": {
-     "english": "",
+     "english": "a road in a town or city with houses or shops on it",
      "chinese": "街道"
     }
    },
@@ -697,12 +697,12 @@ window.FLASHCARD_UNITS = {
     "word": "road",
     "answer": "road",
     "pos": "n.",
-    "definition": "",
+    "definition": "a hard way for cars, buses, and bikes to go on",
     "chinese": "道路；路",
     "sentence": "Q: Where do your grandparents live? — A: They live on Zhongshan __________, near the station.",
     "translation": "你的爺爺奶奶住在哪裡？ — 他們住在中山路，車站附近。",
     "lookup": {
-     "english": "",
+     "english": "a hard way for cars, buses, and bikes to go on",
      "chinese": "道路；路"
     }
    }
@@ -1953,4 +1953,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"umbrella":["","雨傘"],"fan":["","粉絲；狂熱愛好者"],"bed":["","床"],"sofa":["","沙發"],"couch":["","沙發"],"chair":["","椅子"],"desk":["","書桌"],"table":["","桌子"],"drawer":["","抽屜"],"lamp":["","檯燈"],"blanket":["","毯子"],"towels":["","毛巾"],"keys":["","鑰匙"],"basket":["","籃子"],"pot":["","鍋子；壺"],"candles":["","蠟燭"],"mat":["","墊子"],"bench":["","長椅"],"light":["","燈；燈光"],"television":["","電視"],"computer":["","電腦"],"telephone":["","電話"],"radio":["","收音機"],"camera":["","照相機"],"refrigerator":["","冰箱"],"machine":["","機器"],"tapes":["","錄音帶；膠帶"],"videos":["","影片；錄影帶"],"pipe":["","管子；水管"],"house":["","房子"],"apartment":["","公寓"],"door":["","門"],"windows":["","窗戶"],"wall":["","牆壁"],"floor":["","地板"],"gate":["","大門"],"stairs":["","樓梯"],"home":["","家"],"room":["","房間"],"bedroom":["","臥室"],"bathroom":["","浴室"],"kitchen":["","廚房"],"balcony":["","陽台"],"garden":["","花園"],"yard":["","庭院；院子"],"clean":["","打掃"],"washes":["","清洗"],"fix":["","修理"],"build":["","建造"],"bath":["","洗澡；浴缸"],"street":["","街道"],"road":["","道路；路"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"umbrella":["a thing you hold over your head to stay dry in the rain","雨傘"],"fan":["a person who likes a singer, a team, or a sport very much","粉絲；狂熱愛好者"],"bed":["a thing that you sleep on","床"],"sofa":["a long, soft seat for two or more people","沙發"],"couch":["a long, soft seat for two or more people","沙發"],"chair":["a seat for one person, with a back and four legs","椅子"],"desk":["a table where you study or work","書桌"],"table":["a thing with a flat top and legs that you put things on","桌子"],"drawer":["a box in a desk or table that you pull out to put things in","抽屜"],"lamp":["a small light that stands on a desk or table","檯燈"],"blanket":["a big, warm cover for your bed","毯子"],"towels":["a piece of cloth that you use to dry yourself","毛巾"],"keys":["a small metal thing that opens a door or starts a car","鑰匙"],"basket":["a container made of thin sticks for carrying things","籃子"],"pot":["a deep round container for cooking food or holding tea","鍋子；壺"],"candles":["a stick of wax that gives light when it burns","蠟燭"],"mat":["a small piece of thick cloth on the floor","墊子"],"bench":["a long seat for two or more people, often in a park","長椅"],"light":["a thing that makes a room bright","燈；燈光"],"television":["a machine with a screen that shows programs and movies","電視"],"computer":["a machine you use to write, play games, and go online","電腦"],"telephone":["a thing you use to talk to someone who is far away","電話"],"radio":["a machine that plays music and news you can listen to","收音機"],"camera":["a thing you use to take photos","照相機"],"refrigerator":["a machine in the kitchen that keeps food cold","冰箱"],"machine":["a thing with moving parts that does work for people","機器"],"tapes":["a long thin strip that holds sound or sticks things together","錄音帶；膠帶"],"videos":["a short movie that you watch on a phone, computer, or TV","影片；錄影帶"],"pipe":["a long tube that water or gas moves through","管子；水管"],"house":["a building where a family lives","房子"],"apartment":["a home that is part of a bigger building","公寓"],"door":["the thing you open to go into a room or a house","門"],"windows":["an opening with glass in a wall that lets in light and air","窗戶"],"wall":["one of the sides of a room or building","牆壁"],"floor":["the part of a room that you walk on","地板"],"gate":["a door in a fence or outside wall","大門"],"stairs":["steps that go from one floor of a building to another","樓梯"],"home":["the place where you live","家"],"room":["one of the parts of a house, with walls and a door","房間"],"bedroom":["a room for sleeping in","臥室"],"bathroom":["a room with a toilet and a place to wash","浴室"],"kitchen":["a room where people cook food","廚房"],"balcony":["a small open place outside an upstairs room","陽台"],"garden":["a place by a house where flowers and vegetables grow","花園"],"yard":["a piece of ground next to a house","庭院；院子"],"clean":["to make something not dirty","打掃"],"washes":["to clean something with water and soap","清洗"],"fix":["to make a broken thing work again","修理"],"build":["to make something like a house or a bridge","建造"],"bath":["washing your body in a big container of water; that container","洗澡；浴缸"],"street":["a road in a town or city with houses or shops on it","街道"],"road":["a hard way for cars, buses, and bikes to go on","道路；路"]});

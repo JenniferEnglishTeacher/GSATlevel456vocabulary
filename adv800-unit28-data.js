@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "promise",
     "pos": "n.",
     "cn_def": "承諾，保證",
-    "en_def": "",
+    "en_def": "words that say you will surely do something",
     "sentence": "She made a {{BLANK}} to help him.",
     "cn": "她承諾幫助他。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "pronounce",
     "pos": "v.",
     "cn_def": "發音，宣佈",
-    "en_def": "",
+    "en_def": "to make the sound of a word or letter",
     "sentence": "Can you {{BLANK}} this word correctly?",
     "cn": "你能正確發音這個詞嗎？"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "protect",
     "pos": "v.",
     "cn_def": "保護，防護",
-    "en_def": "",
+    "en_def": "to keep someone or something safe",
     "sentence": "The laws are designed to {{BLANK}} the environment.",
     "cn": "法律旨在保護環境。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "provide",
     "pos": "v.",
     "cn_def": "提供，供給",
-    "en_def": "",
+    "en_def": "to give someone what they need",
     "sentence": "The school will {{BLANK}} all the necessary materials.",
     "cn": "學校將提供所有必要的材料。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "pump",
     "pos": "n.",
     "cn_def": "泵，打氣筒",
-    "en_def": "",
+    "en_def": "a machine that moves water, air, or gas",
     "sentence": "The water {{BLANK}} is broken.",
     "cn": "水泵壞了。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "punish",
     "pos": "v.",
     "cn_def": "懲罰，處罰",
-    "en_def": "",
+    "en_def": "to make someone suffer because they did something wrong",
     "sentence": "He was {{BLANK}} for breaking the rules.",
     "cn": "他因違反規定而受到懲罰。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "purpose",
     "pos": "n.",
     "cn_def": "目的，意圖",
-    "en_def": "",
+    "en_def": "the reason for doing something",
     "sentence": "The main {{BLANK}} of the meeting is to discuss the budget.",
     "cn": "會議的主要目的是討論預算。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "purse",
     "pos": "n.",
     "cn_def": "錢包，手提包",
-    "en_def": "",
+    "en_def": "a small bag in which a woman carries money and keys",
     "sentence": "She keeps her keys in her {{BLANK}}.",
     "cn": "她把鑰匙放在手提包裡。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "puzzle",
     "pos": "n.",
     "cn_def": "拼圖，謎題",
-    "en_def": "",
+    "en_def": "a game or question that is hard to work out",
     "sentence": "They enjoyed solving the {{BLANK}}.",
     "cn": "他們喜歡解謎題。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "quit",
     "pos": "v.",
     "cn_def": "辭職，放棄",
-    "en_def": "",
+    "en_def": "to leave a job or stop doing something",
     "sentence": "He decided to {{BLANK}} his job.",
     "cn": "他決定辭職。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "railroad",
     "pos": "n.",
     "cn_def": "鐵路",
-    "en_def": "",
+    "en_def": "the metal tracks that trains run on",
     "sentence": "The train travels along the {{BLANK}}.",
     "cn": "火車沿著鐵路行駛。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "railway",
     "pos": "n.",
     "cn_def": "鐵路，鐵道",
-    "en_def": "",
+    "en_def": "the metal tracks that trains run on",
     "sentence": "They built a new {{BLANK}}.",
     "cn": "他們建造了一條新鐵路。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "raincoat",
     "pos": "n.",
     "cn_def": "雨衣",
-    "en_def": "",
+    "en_def": "a coat that keeps you dry in the rain",
     "sentence": "She wore a {{BLANK}} because it was raining.",
     "cn": "因為下雨，她穿了一件雨衣。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "rare",
     "pos": "adj.",
     "cn_def": "稀有的，罕見的",
-    "en_def": "",
+    "en_def": "not seen or found very often",
     "sentence": "This species of bird is very {{BLANK}}.",
     "cn": "這種鳥類非常罕見。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "rather",
     "pos": "adv.",
     "cn_def": "寧願，倒不如說",
-    "en_def": "",
+    "en_def": "more willingly (used with \"would\")",
     "sentence": "I would {{BLANK}} stay home than go out.",
     "cn": "我寧願待在家裡也不願出去。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "realize",
     "pos": "v.",
     "cn_def": "意識到，實現",
-    "en_def": "",
+    "en_def": "to suddenly know or understand something",
     "sentence": "She didn't {{BLANK}} the danger she was in.",
     "cn": "她沒有意識到自己所處的危險。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "receive",
     "pos": "v.",
     "cn_def": "收到，接受",
-    "en_def": "",
+    "en_def": "to get something that someone gives or sends you",
     "sentence": "She {{BLANK}} a gift from her friend.",
     "cn": "她收到了一份來自朋友的禮物。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "record",
     "pos": "n.",
     "cn_def": "記錄，唱片",
-    "en_def": "",
+    "en_def": "written information that is kept so people can look at it later",
     "sentence": "She keeps a {{BLANK}} of all her expenses.",
     "cn": "她記錄所有的開支。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "recover",
     "pos": "v.",
     "cn_def": "恢復，痊癒",
-    "en_def": "",
+    "en_def": "to get well again after being sick",
     "sentence": "He is expected to {{BLANK}} from his illness soon.",
     "cn": "他預計很快會從疾病中康復。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "rectangle",
     "pos": "n.",
     "cn_def": "長方形",
-    "en_def": "",
+    "en_def": "a shape with four straight sides, two long and two short",
     "sentence": "She drew a {{BLANK}} on the paper.",
     "cn": "她在紙上畫了一個長方形。"
   }
@@ -414,132 +414,132 @@ const MCQS = [
 const LOOKUP = {
   "backward": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "toward the back",
     "cn_def": "向後地"
   },
   "central": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "in the middle; for the whole building",
     "cn_def": "中央的，核心的"
   },
   "hardly": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "almost not",
     "cn_def": "幾乎不，勉強地"
   },
   "natural": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "from nature; not made by people",
     "cn_def": "自然的，天然的"
   },
   "pale": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having a light or white face, often because you are sick",
     "cn_def": "蒼白的，淡色的"
   },
   "promise": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "words that say you will surely do something",
     "cn_def": "承諾，保證"
   },
   "pronounce": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make the sound of a word or letter",
     "cn_def": "發音，宣佈"
   },
   "protect": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to keep someone or something safe",
     "cn_def": "保護，防護"
   },
   "provide": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to give someone what they need",
     "cn_def": "提供，供給"
   },
   "pump": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a machine that moves water, air, or gas",
     "cn_def": "泵，打氣筒"
   },
   "punished": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make someone suffer because they did something wrong",
     "cn_def": "懲罰，處罰"
   },
   "purpose": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the reason for doing something",
     "cn_def": "目的，意圖"
   },
   "purse": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small bag in which a woman carries money and keys",
     "cn_def": "錢包，手提包"
   },
   "puzzle": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a game or question that is hard to work out",
     "cn_def": "拼圖，謎題"
   },
   "quit": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to leave a job or stop doing something",
     "cn_def": "辭職，放棄"
   },
   "railroad": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the metal tracks that trains run on",
     "cn_def": "鐵路"
   },
   "railway": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the metal tracks that trains run on",
     "cn_def": "鐵路，鐵道"
   },
   "raincoat": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a coat that keeps you dry in the rain",
     "cn_def": "雨衣"
   },
   "rare": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not seen or found very often",
     "cn_def": "稀有的，罕見的"
   },
   "rather": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "more willingly (used with \"would\")",
     "cn_def": "寧願，倒不如說"
   },
   "realize": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to suddenly know or understand something",
     "cn_def": "意識到，實現"
   },
   "received": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to get something that someone gives or sends you",
     "cn_def": "收到，接受"
   },
   "record": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "written information that is kept so people can look at it later",
     "cn_def": "記錄，唱片"
   },
   "recover": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to get well again after being sick",
     "cn_def": "恢復，痊癒"
   },
   "rectangle": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a shape with four straight sides, two long and two short",
     "cn_def": "長方形"
   },
   "therefore": {
     "pos": "adv.",
-    "en_def": "",
+    "en_def": "so; for that reason",
     "cn_def": "因此，所以"
   }
 };

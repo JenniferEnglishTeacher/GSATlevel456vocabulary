@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "American",
     "pos": "n.",
     "cn_def": "美國人",
-    "en_def": "",
+    "en_def": "a person from the United States",
     "sentence": "Q: Who is Mr. Brown? — A: He is our English teacher. He is an {{BLANK}} from New York.",
     "cn": "布朗先生是誰？ — 他是我們的英文老師，他是來自紐約的美國人。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "foreigner (foreigners)",
     "pos": "n.",
     "cn_def": "外國人",
-    "en_def": "",
+    "en_def": "a person from another country",
     "sentence": "Q: Who are those people at the night market? — A: They are {{BLANK}}. They come from Japan and Korea.",
     "cn": "夜市裡那些人是誰？ — 他們是外國人，來自日本和韓國。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "leader",
     "pos": "n.",
     "cn_def": "領導者；隊長",
-    "en_def": "",
+    "en_def": "the person who a group follows",
     "sentence": "Q: Who is that tall boy? — A: He is Tom, our team {{BLANK}}. Everyone listens to him.",
     "cn": "那個高高的男孩是誰？ — 他是湯姆，我們的隊長，大家都聽他的。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "member",
     "pos": "n.",
     "cn_def": "成員；會員",
-    "en_def": "",
+    "en_def": "one of the people in a group or club",
     "sentence": "Q: Does Amy join the music club? — A: Yes, she does. She is a {{BLANK}} of the club.",
     "cn": "艾美有參加音樂社嗎？ — 有，她是社團的成員。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "player (players)",
     "pos": "n.",
     "cn_def": "球員；選手",
-    "en_def": "",
+    "en_def": "a person who plays a game or a sport",
     "sentence": "Q: Who are those boys in the park? — A: They are basketball {{BLANK}}. They play every Sunday.",
     "cn": "公園裡那些男孩是誰？ — 他們是籃球員，他們每個星期日都打球。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "band",
     "pos": "n.",
     "cn_def": "樂團",
-    "en_def": "",
+    "en_def": "a group of people who play music together",
     "sentence": "Q: What does your brother do after school? — A: He plays the drums in a {{BLANK}}.",
     "cn": "你哥哥放學後做什麼？ — 他在一個樂團裡打鼓。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "club",
     "pos": "n.",
     "cn_def": "社團",
-    "en_def": "",
+    "en_def": "a group of people who meet to do something they all like",
     "sentence": "Q: What club do you join? — A: I join the English {{BLANK}}.",
     "cn": "你參加什麼社團？ — 我參加英文社。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "group",
     "pos": "n.",
     "cn_def": "團體；小組",
-    "en_def": "",
+    "en_def": "a number of people or things that are together",
     "sentence": "Q: Who do you study with? — A: I study with my friends. We have a study {{BLANK}}.",
     "cn": "你和誰一起讀書？ — 我和朋友們一起讀書，我們有一個讀書小組。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "god (God)",
     "pos": "n.",
     "cn_def": "上帝；神",
-    "en_def": "",
+    "en_def": "the one who some people believe made the world and pray to",
     "sentence": "Q: Who do people pray to in the church? — A: They pray to {{BLANK}}.",
     "cn": "人們在教堂裡向誰禱告？ — 他們向上帝禱告。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "chance",
     "pos": "n.",
     "cn_def": "機會",
-    "en_def": "",
+    "en_def": "a time when you can do something",
     "sentence": "Q: Does Lisa have a chance to go to Japan? — A: Yes, she does. She has a {{BLANK}} to visit her aunt there.",
     "cn": "麗莎有機會去日本嗎？ — 有，她有機會去那裡拜訪她的阿姨。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "choice (choices)",
     "pos": "n.",
     "cn_def": "選擇",
-    "en_def": "",
+    "en_def": "one of the things that you can choose",
     "sentence": "Q: What do we have for lunch? — A: We have two {{BLANK}}: noodles or rice.",
     "cn": "我們午餐吃什麼？ — 我們有兩個選擇：麵或飯。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "idea",
     "pos": "n.",
     "cn_def": "主意；想法",
-    "en_def": "",
+    "en_def": "a thought or a plan in your mind",
     "sentence": "Q: How can we make Mom happy on Mother's Day? — A: I have a good {{BLANK}}. Let's make a cake for her.",
     "cn": "母親節我們要怎麼讓媽媽開心？ — 我有一個好主意，我們來為她做一個蛋糕吧。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "habit",
     "pos": "n.",
     "cn_def": "習慣",
-    "en_def": "",
+    "en_def": "something that you do often, without thinking",
     "sentence": "Q: Does your dad get up early every day? — A: Yes, he does. It's his good {{BLANK}}.",
     "cn": "你爸爸每天都早起嗎？ — 是的，這是他的好習慣。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "experience",
     "pos": "n.",
     "cn_def": "經驗",
-    "en_def": "",
+    "en_def": "something that happened to you; what you learn from doing things",
     "sentence": "Q: Does your mom cook well? — A: Yes, she does. She has a lot of {{BLANK}} in cooking.",
     "cn": "你媽媽很會煮飯嗎？ — 是的，她有很多煮飯的經驗。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "trouble",
     "pos": "n.",
     "cn_def": "麻煩；困難",
-    "en_def": "",
+    "en_def": "problems or difficulties",
     "sentence": "Q: Do you need help with your homework? — A: Yes, I do. I have {{BLANK}} with the math questions.",
     "cn": "你的功課需要幫忙嗎？ — 需要，我數學題目有困難。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "mistake (mistakes)",
     "pos": "n.",
     "cn_def": "錯誤",
-    "en_def": "",
+    "en_def": "something you do or write that is wrong",
     "sentence": "Q: Does Ben get 100 on the test? — A: No, he doesn't. He makes two {{BLANK}}.",
     "cn": "班考試考一百分嗎？ — 沒有，他犯了兩個錯誤。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "error",
     "pos": "n.",
     "cn_def": "錯誤",
-    "en_def": "",
+    "en_def": "a mistake",
     "sentence": "Q: Is your answer right? — A: No, it isn't. There is an {{BLANK}} in it.",
     "cn": "你的答案對嗎？ — 不對，裡面有一個錯誤。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "excuse",
     "pos": "n.",
     "cn_def": "藉口",
-    "en_def": "",
+    "en_def": "a reason you give to explain why you did something wrong",
     "sentence": "Q: Why does Tom come late again? — A: He says he gets up late. That's not a good {{BLANK}}.",
     "cn": "湯姆為什麼又遲到了？ — 他說他太晚起床，那不是個好藉口。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "reason",
     "pos": "n.",
     "cn_def": "理由；原因",
-    "en_def": "",
+    "en_def": "why something happens or why someone does something",
     "sentence": "Q: Why do you study English every day? — A: I want to talk to people from other countries. That's my {{BLANK}}.",
     "cn": "你為什麼每天讀英文？ — 我想和其他國家的人說話，那就是我的理由。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "sight",
     "pos": "n.",
     "cn_def": "視力",
-    "en_def": "",
+    "en_def": "the power to see",
     "sentence": "Q: Does your grandpa read the newspaper without glasses? — A: No, he doesn't. He has poor {{BLANK}}.",
     "cn": "你爺爺不戴眼鏡看報紙嗎？ — 不，他視力不好。"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "voice",
     "pos": "n.",
     "cn_def": "聲音；嗓音",
-    "en_def": "",
+    "en_def": "the sound you make when you speak or sing",
     "sentence": "Q: Does Amy sing well? — A: Yes, she does. She has a beautiful {{BLANK}}.",
     "cn": "艾美唱歌好聽嗎？ — 好聽，她有美妙的嗓音。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "meeting",
     "pos": "n.",
     "cn_def": "會議",
-    "en_def": "",
+    "en_def": "a time when people come together to talk about something",
     "sentence": "Q: What does Ms. Lin have this afternoon? — A: She has a {{BLANK}} with other teachers.",
     "cn": "林老師今天下午有什麼事？ — 她和其他老師有一個會議。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "party",
     "pos": "n.",
     "cn_def": "派對",
-    "en_def": "",
+    "en_def": "a time when people come together to eat, play, and have fun",
     "sentence": "Q: What do you have on Saturday? — A: We have a birthday {{BLANK}} for Amy.",
     "cn": "你們星期六有什麼活動？ — 我們要為艾美辦一個生日派對。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "interview",
     "pos": "n.",
     "cn_def": "面試；採訪",
-    "en_def": "",
+    "en_def": "a meeting where someone asks you questions, often for a job",
     "sentence": "Q: Where does your sister go today? — A: She goes to a big company. She has a job {{BLANK}}.",
     "cn": "你姊姊今天去哪裡？ — 她去一家大公司，她有一個工作面試。"
   },
@@ -202,7 +202,7 @@ const VOCAB = [
     "word": "report",
     "pos": "n.",
     "cn_def": "報告；報導",
-    "en_def": "",
+    "en_def": "something you write or say to tell people about what you learned or saw",
     "sentence": "Q: What do you need to write for English class? — A: I need to write a book {{BLANK}}.",
     "cn": "英文課你需要寫什麼？ — 我需要寫一份讀書報告。"
   },
@@ -210,7 +210,7 @@ const VOCAB = [
     "word": "sale",
     "pos": "n.",
     "cn_def": "特價；出售",
-    "en_def": "",
+    "en_def": "a time when a store sells things at lower prices",
     "sentence": "Q: Why do so many people go to the store today? — A: There is a big {{BLANK}}. Everything is cheap.",
     "cn": "今天為什麼這麼多人去那家店？ — 有大特價，所有東西都很便宜。"
   },
@@ -218,7 +218,7 @@ const VOCAB = [
     "word": "prize",
     "pos": "n.",
     "cn_def": "獎品；獎",
-    "en_def": "",
+    "en_def": "something you get when you win",
     "sentence": "Q: What does Tom get in the race? — A: He gets first {{BLANK}}. It's a new bike.",
     "cn": "湯姆在賽跑中得到什麼？ — 他得到第一名的獎品，是一輛新腳踏車。"
   },
@@ -226,7 +226,7 @@ const VOCAB = [
     "word": "treat",
     "pos": "n.",
     "cn_def": "請客",
-    "en_def": "",
+    "en_def": "something nice that someone buys for you",
     "sentence": "Q: Do we need to pay for dinner tonight? — A: No, we don't. It's Dad's {{BLANK}}.",
     "cn": "我們今晚晚餐需要付錢嗎？ — 不用，爸爸請客。"
   },
@@ -234,7 +234,7 @@ const VOCAB = [
     "word": "tip",
     "pos": "n.",
     "cn_def": "小費",
-    "en_def": "",
+    "en_def": "extra money you give to a waiter or a driver to say thank you",
     "sentence": "Q: What does Dad give the waiter? — A: He gives him a {{BLANK}}.",
     "cn": "爸爸給服務生什麼？ — 他給他小費。"
   },
@@ -242,7 +242,7 @@ const VOCAB = [
     "word": "order",
     "pos": "n.",
     "cn_def": "點餐；訂單",
-    "en_def": "",
+    "en_def": "the food or drinks you ask for in a restaurant",
     "sentence": "Q: What does the waiter say? — A: He says, \"May I take your {{BLANK}}?\"",
     "cn": "服務生說什麼？ — 他說：「我可以幫您點餐嗎？」"
   },
@@ -250,7 +250,7 @@ const VOCAB = [
     "word": "service",
     "pos": "n.",
     "cn_def": "服務",
-    "en_def": "",
+    "en_def": "the help that workers in a store or restaurant give you",
     "sentence": "Q: Do you like this restaurant? — A: Yes, I do. The food is good, and the {{BLANK}} is great, too.",
     "cn": "你喜歡這家餐廳嗎？ — 喜歡，食物很好吃，服務也很棒。"
   },
@@ -258,7 +258,7 @@ const VOCAB = [
     "word": "eve (Eve)",
     "pos": "n.",
     "cn_def": "前夕",
-    "en_def": "",
+    "en_def": "the day or night before a special day",
     "sentence": "Q: What do you do on Chinese New Year's {{BLANK}}? — A: We eat a big dinner with our family.",
     "cn": "你們除夕做什麼？ — 我們和家人吃一頓大餐。"
   },
@@ -266,7 +266,7 @@ const VOCAB = [
     "word": "age",
     "pos": "n.",
     "cn_def": "年齡",
-    "en_def": "",
+    "en_def": "how old someone is",
     "sentence": "Q: What's your grandma's {{BLANK}}? — A: She is seventy years old.",
     "cn": "你奶奶幾歲？ — 她七十歲。"
   },
@@ -274,7 +274,7 @@ const VOCAB = [
     "word": "birthday",
     "pos": "n.",
     "cn_def": "生日",
-    "en_def": "",
+    "en_def": "the day of the year when you were born",
     "sentence": "Q: When is your {{BLANK}}? — A: It's on May 5th.",
     "cn": "你的生日是什麼時候？ — 在五月五日。"
   },
@@ -282,7 +282,7 @@ const VOCAB = [
     "word": "dream",
     "pos": "n.",
     "cn_def": "夢想",
-    "en_def": "",
+    "en_def": "something you hope for very much; what you see in your sleep",
     "sentence": "Q: What's your sister's {{BLANK}}? — A: She wants to be a singer.",
     "cn": "你姊姊的夢想是什麼？ — 她想當歌手。"
   },
@@ -290,7 +290,7 @@ const VOCAB = [
     "word": "interest (interests)",
     "pos": "n.",
     "cn_def": "興趣",
-    "en_def": "",
+    "en_def": "something you like to do or learn about",
     "sentence": "Q: What {{BLANK}} does Ben have? — A: He likes reading and playing chess.",
     "cn": "班有什麼興趣？ — 他喜歡閱讀和下西洋棋。"
   },
@@ -298,7 +298,7 @@ const VOCAB = [
     "word": "subject",
     "pos": "n.",
     "cn_def": "科目",
-    "en_def": "",
+    "en_def": "something you study at school, like math or English",
     "sentence": "Q: What's your favorite {{BLANK}}? — A: It's math.",
     "cn": "你最喜歡的科目是什麼？ — 是數學。"
   },
@@ -306,7 +306,7 @@ const VOCAB = [
     "word": "topic",
     "pos": "n.",
     "cn_def": "主題；話題",
-    "en_def": "",
+    "en_def": "what people talk or write about",
     "sentence": "Q: What's the {{BLANK}} of today's class? — A: It's animals.",
     "cn": "今天上課的主題是什麼？ — 是動物。"
   },
@@ -314,7 +314,7 @@ const VOCAB = [
     "word": "word",
     "pos": "n.",
     "cn_def": "字；單字",
-    "en_def": "",
+    "en_def": "a group of letters that means something",
     "sentence": "Q: What does this {{BLANK}} mean? — A: It means \"happy.\"",
     "cn": "這個字是什麼意思？ — 它的意思是「快樂的」。"
   },
@@ -322,7 +322,7 @@ const VOCAB = [
     "word": "sentence",
     "pos": "n.",
     "cn_def": "句子",
-    "en_def": "",
+    "en_def": "a group of words that starts with a big letter and ends with a period",
     "sentence": "Q: What's the first {{BLANK}} on page 10? — A: It's \"Tom has a cat.\"",
     "cn": "第十頁的第一個句子是什麼？ — 是「湯姆有一隻貓」。"
   },
@@ -330,7 +330,7 @@ const VOCAB = [
     "word": "way",
     "pos": "n.",
     "cn_def": "道路；方法",
-    "en_def": "",
+    "en_def": "a road to a place; how you do something",
     "sentence": "Q: What's the {{BLANK}} to the station? — A: Go straight and turn left.",
     "cn": "去車站的路怎麼走？ — 直走然後左轉。"
   },
@@ -338,7 +338,7 @@ const VOCAB = [
     "word": "matter",
     "pos": "n.",
     "cn_def": "事情；問題",
-    "en_def": "",
+    "en_def": "something that you need to think or talk about; a problem",
     "sentence": "Q: What's the {{BLANK}}? — A: I have a headache.",
     "cn": "怎麼了？ — 我頭痛。"
   },
@@ -346,7 +346,7 @@ const VOCAB = [
     "word": "kind",
     "pos": "n.",
     "cn_def": "種類",
-    "en_def": "",
+    "en_def": "a group of things that are the same in some way; a type",
     "sentence": "Q: What {{BLANK}} of music do you like? — A: I like pop music.",
     "cn": "你喜歡哪一種音樂？ — 我喜歡流行音樂。"
   },
@@ -354,7 +354,7 @@ const VOCAB = [
     "word": "level",
     "pos": "n.",
     "cn_def": "程度；等級",
-    "en_def": "",
+    "en_def": "how good you are at something; how high something is",
     "sentence": "Q: What's the {{BLANK}} of this book? — A: It's easy. Children can read it.",
     "cn": "這本書的程度如何？ — 很簡單，小孩子都能讀。"
   },
@@ -362,7 +362,7 @@ const VOCAB = [
     "word": "mind",
     "pos": "n.",
     "cn_def": "頭腦；心思",
-    "en_def": "",
+    "en_def": "the part of you that thinks and remembers",
     "sentence": "Q: You look worried. What's on your {{BLANK}}? — A: I'm worried about the math test.",
     "cn": "你看起來很擔心，你在想什麼？ — 我在擔心數學考試。"
   },
@@ -370,7 +370,7 @@ const VOCAB = [
     "word": "rule",
     "pos": "n.",
     "cn_def": "規則",
-    "en_def": "",
+    "en_def": "something that tells you what you must or must not do",
     "sentence": "Q: What's the first {{BLANK}} in your class? — A: Don't be late for class.",
     "cn": "你們班的第一條規則是什麼？ — 上課不要遲到。"
   },
@@ -378,7 +378,7 @@ const VOCAB = [
     "word": "action",
     "pos": "n.",
     "cn_def": "動作；行動",
-    "en_def": "",
+    "en_def": "something that you do; moving and doing things",
     "sentence": "Q: Does your brother like {{BLANK}} movies? — A: Yes, he does. He watches them every weekend.",
     "cn": "你哥哥喜歡動作片嗎？ — 喜歡，他每個週末都看。"
   },
@@ -386,7 +386,7 @@ const VOCAB = [
     "word": "fun",
     "pos": "n.",
     "cn_def": "樂趣；好玩的事",
-    "en_def": "",
+    "en_def": "something that makes you happy; a good time",
     "sentence": "Q: Do you and your friends have a good time at the beach? — A: Yes, we do. We have a lot of {{BLANK}}.",
     "cn": "你和朋友們在海灘玩得開心嗎？ — 開心，我們玩得很愉快。"
   },
@@ -394,7 +394,7 @@ const VOCAB = [
     "word": "joke (jokes)",
     "pos": "n.",
     "cn_def": "笑話",
-    "en_def": "",
+    "en_def": "a short, funny story that makes people laugh",
     "sentence": "Q: Does Uncle Jack like to make people laugh? — A: Yes, he does. He tells funny {{BLANK}}.",
     "cn": "傑克叔叔喜歡逗人笑嗎？ — 喜歡，他會講好笑的笑話。"
   },
@@ -402,7 +402,7 @@ const VOCAB = [
     "word": "story (stories)",
     "pos": "n.",
     "cn_def": "故事",
-    "en_def": "",
+    "en_def": "words that tell about people and things that happened, real or not real",
     "sentence": "Q: Do the children like books? — A: Yes, they do. They love {{BLANK}} about animals.",
     "cn": "孩子們喜歡書嗎？ — 喜歡，他們很愛動物的故事。"
   },
@@ -410,7 +410,7 @@ const VOCAB = [
     "word": "program",
     "pos": "n.",
     "cn_def": "節目",
-    "en_def": "",
+    "en_def": "a show on TV or the radio",
     "sentence": "Q: What TV {{BLANK}} does your dad like? — A: He likes sports shows.",
     "cn": "你爸爸喜歡什麼電視節目？ — 他喜歡運動節目。"
   },
@@ -418,7 +418,7 @@ const VOCAB = [
     "word": "trick (tricks)",
     "pos": "n.",
     "cn_def": "惡作劇；把戲",
-    "en_def": "",
+    "en_def": "something you do to fool or surprise someone for fun",
     "sentence": "Q: Do your classmates like April Fools' Day? — A: Yes, they do. They play {{BLANK}} on their friends.",
     "cn": "你的同學們喜歡愚人節嗎？ — 喜歡，他們會對朋友惡作劇。"
   },
@@ -426,7 +426,7 @@ const VOCAB = [
     "word": "smile",
     "pos": "n.",
     "cn_def": "微笑",
-    "en_def": "",
+    "en_def": "the happy look on your face when the ends of your mouth go up",
     "sentence": "Q: Do the students like their new teacher? — A: Yes, they do. She has a sweet {{BLANK}}.",
     "cn": "學生們喜歡他們的新老師嗎？ — 喜歡，她有甜美的笑容。"
   },
@@ -434,7 +434,7 @@ const VOCAB = [
     "word": "joy",
     "pos": "n.",
     "cn_def": "歡樂；喜悅",
-    "en_def": "",
+    "en_def": "a feeling of being very happy",
     "sentence": "Q: How does Grandma feel when she sees the baby? — A: She is full of {{BLANK}}.",
     "cn": "奶奶看到寶寶時感覺如何？ — 她充滿了喜悅。"
   },
@@ -442,7 +442,7 @@ const VOCAB = [
     "word": "pleasure",
     "pos": "n.",
     "cn_def": "榮幸；愉快",
-    "en_def": "",
+    "en_def": "a feeling of being happy to do something",
     "sentence": "Q: Thank you for helping me. — A: It's my {{BLANK}}.",
     "cn": "謝謝你幫我。 — 這是我的榮幸。（不客氣）"
   },
@@ -450,7 +450,7 @@ const VOCAB = [
     "word": "cheer (cheers)",
     "pos": "n.",
     "cn_def": "歡呼；喝采",
-    "en_def": "",
+    "en_def": "a loud, happy shout for a team or a player",
     "sentence": "Q: What do the fans do at the game? — A: They give loud {{BLANK}} for the team.",
     "cn": "球迷在比賽時做什麼？ — 他們為球隊大聲歡呼。"
   },
@@ -458,7 +458,7 @@ const VOCAB = [
     "word": "fact",
     "pos": "n.",
     "cn_def": "事實",
-    "en_def": "",
+    "en_def": "something that is true",
     "sentence": "Q: Does Tom know a lot about koalas? — A: Yes, he does. He knows a fun {{BLANK}}: koalas sleep 20 hours a day.",
     "cn": "湯姆對無尾熊很了解嗎？ — 是的，他知道一個有趣的事實：無尾熊一天睡二十個小時。"
   }
@@ -1154,287 +1154,287 @@ const MCQS = [
 const LOOKUP = {
   "kind": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "nice and helpful to other people",
     "cn_def": "親切的"
   },
   "order": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to ask for food or drinks in a restaurant",
     "cn_def": "點餐"
   },
   "band": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a group of people who play music together",
     "cn_def": "樂團"
   },
   "american": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person from the United States",
     "cn_def": "美國人"
   },
   "foreigners": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person from another country",
     "cn_def": "外國人"
   },
   "leader": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the person who a group follows",
     "cn_def": "領導者；隊長"
   },
   "member": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of the people in a group or club",
     "cn_def": "成員；會員"
   },
   "players": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who plays a game or a sport",
     "cn_def": "球員；選手"
   },
   "club": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a group of people who meet to do something they all like",
     "cn_def": "社團"
   },
   "group": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a number of people or things that are together",
     "cn_def": "團體；小組"
   },
   "god": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the one who some people believe made the world and pray to",
     "cn_def": "上帝；神"
   },
   "chance": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a time when you can do something",
     "cn_def": "機會"
   },
   "choices": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of the things that you can choose",
     "cn_def": "選擇"
   },
   "idea": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thought or a plan in your mind",
     "cn_def": "主意；想法"
   },
   "habit": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that you do often, without thinking",
     "cn_def": "習慣"
   },
   "experience": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that happened to you; what you learn from doing things",
     "cn_def": "經驗"
   },
   "trouble": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "problems or difficulties",
     "cn_def": "麻煩；困難"
   },
   "mistakes": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you do or write that is wrong",
     "cn_def": "錯誤"
   },
   "error": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a mistake",
     "cn_def": "錯誤"
   },
   "excuse": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a reason you give to explain why you did something wrong",
     "cn_def": "藉口"
   },
   "reason": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "why something happens or why someone does something",
     "cn_def": "理由；原因"
   },
   "sight": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the power to see",
     "cn_def": "視力"
   },
   "voice": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the sound you make when you speak or sing",
     "cn_def": "聲音；嗓音"
   },
   "meeting": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a time when people come together to talk about something",
     "cn_def": "會議"
   },
   "party": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a time when people come together to eat, play, and have fun",
     "cn_def": "派對"
   },
   "interview": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a meeting where someone asks you questions, often for a job",
     "cn_def": "面試；採訪"
   },
   "report": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you write or say to tell people about what you learned or saw",
     "cn_def": "報告；報導"
   },
   "sale": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a time when a store sells things at lower prices",
     "cn_def": "特價；出售"
   },
   "prize": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you get when you win",
     "cn_def": "獎品；獎"
   },
   "treat": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something nice that someone buys for you",
     "cn_def": "請客"
   },
   "tip": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "extra money you give to a waiter or a driver to say thank you",
     "cn_def": "小費"
   },
   "service": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the help that workers in a store or restaurant give you",
     "cn_def": "服務"
   },
   "eve": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the day or night before a special day",
     "cn_def": "前夕"
   },
   "age": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "how old someone is",
     "cn_def": "年齡"
   },
   "birthday": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the day of the year when you were born",
     "cn_def": "生日"
   },
   "dream": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you hope for very much; what you see in your sleep",
     "cn_def": "夢想"
   },
   "interests": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you like to do or learn about",
     "cn_def": "興趣"
   },
   "subject": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you study at school, like math or English",
     "cn_def": "科目"
   },
   "topic": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "what people talk or write about",
     "cn_def": "主題；話題"
   },
   "word": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a group of letters that means something",
     "cn_def": "字；單字"
   },
   "sentence": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a group of words that starts with a big letter and ends with a period",
     "cn_def": "句子"
   },
   "way": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a road to a place; how you do something",
     "cn_def": "道路；方法"
   },
   "matter": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that you need to think or talk about; a problem",
     "cn_def": "事情；問題"
   },
   "level": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "how good you are at something; how high something is",
     "cn_def": "程度；等級"
   },
   "mind": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part of you that thinks and remembers",
     "cn_def": "頭腦；心思"
   },
   "rule": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that tells you what you must or must not do",
     "cn_def": "規則"
   },
   "action": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that you do; moving and doing things",
     "cn_def": "動作；行動"
   },
   "fun": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that makes you happy; a good time",
     "cn_def": "樂趣；好玩的事"
   },
   "jokes": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a short, funny story that makes people laugh",
     "cn_def": "笑話"
   },
   "stories": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "words that tell about people and things that happened, real or not real",
     "cn_def": "故事"
   },
   "program": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a show on TV or the radio",
     "cn_def": "節目"
   },
   "tricks": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you do to fool or surprise someone for fun",
     "cn_def": "惡作劇；把戲"
   },
   "smile": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the happy look on your face when the ends of your mouth go up",
     "cn_def": "微笑"
   },
   "joy": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a feeling of being very happy",
     "cn_def": "歡樂；喜悅"
   },
   "pleasure": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a feeling of being happy to do something",
     "cn_def": "榮幸；愉快"
   },
   "cheers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a loud, happy shout for a team or a player",
     "cn_def": "歡呼；喝采"
   },
   "fact": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that is true",
     "cn_def": "事實"
   }
 };

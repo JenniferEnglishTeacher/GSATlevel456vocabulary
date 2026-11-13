@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "double",
     "answer": "double",
     "pos": "adj.",
-    "definition": "",
+    "definition": "two times as much or as many",
     "chinese": "雙倍的，雙重的",
     "sentence": "She received a __________ portion of dessert.",
     "translation": "她收到了一份雙倍的甜點。",
     "lookup": {
-     "english": "",
+     "english": "two times as much or as many",
      "chinese": "雙倍的，雙重的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "doubt",
     "answer": "doubt",
     "pos": "n.",
-    "definition": "",
+    "definition": "a feeling of not being sure",
     "chinese": "疑問，懷疑",
     "sentence": "There is no __________ about his abilities.",
     "translation": "毫無疑問他的能力。",
     "lookup": {
-     "english": "",
+     "english": "a feeling of not being sure",
      "chinese": "疑問，懷疑"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "doughnut",
     "answer": "doughnut",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small, sweet, round cake with a hole in the middle",
     "chinese": "甜甜圈",
     "sentence": "He bought a chocolate __________.",
     "translation": "他買了一個巧克力甜甜圈。",
     "lookup": {
-     "english": "",
+     "english": "a small, sweet, round cake with a hole in the middle",
      "chinese": "甜甜圈"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "dove",
     "answer": "dove",
     "pos": "n.",
-    "definition": "",
+    "definition": "a white bird that is a sign of peace",
     "chinese": "鴿子",
     "sentence": "A white __________ is a symbol of peace.",
     "translation": "白鴿是和平的象徵。",
     "lookup": {
-     "english": "",
+     "english": "a white bird that is a sign of peace",
      "chinese": "鴿子"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "downstairs",
     "answer": "downstairs",
     "pos": "adv.",
-    "definition": "",
+    "definition": "on or to a lower floor of a building",
     "chinese": "在樓下",
     "sentence": "She heard noises coming from __________.",
     "translation": "她聽到樓下傳來的噪音。",
     "lookup": {
-     "english": "",
+     "english": "on or to a lower floor of a building",
      "chinese": "在樓下"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "downtown",
     "answer": "downtown",
     "pos": "adv.",
-    "definition": "",
+    "definition": "in the center of a city",
     "chinese": "市中心",
     "sentence": "They live in a __________ apartment.",
     "translation": "他們住在市中心的一間公寓。",
     "lookup": {
-     "english": "",
+     "english": "in the center of a city",
      "chinese": "市中心"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "dragon",
     "answer": "dragon",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big animal in stories that has wings and can breathe fire",
     "chinese": "龍",
     "sentence": "The legend tells of a fearsome __________.",
     "translation": "傳說中有一條可怕的龍。",
     "lookup": {
-     "english": "",
+     "english": "a big animal in stories that has wings and can breathe fire",
      "chinese": "龍"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "drama",
     "answer": "dramas",
     "pos": "n.",
-    "definition": "",
+    "definition": "a serious story acted on TV or in a theater",
     "chinese": "戲劇，劇本",
     "sentence": "She loves watching __________ on TV.",
     "translation": "她喜歡在電視上看戲劇。",
     "lookup": {
-     "english": "",
+     "english": "a serious story acted on TV or in a theater",
      "chinese": "戲劇，劇本"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "drugstore",
     "answer": "drugstore",
     "pos": "n.",
-    "definition": "",
+    "definition": "a store that sells medicine",
     "chinese": "藥房",
     "sentence": "She went to the __________ to buy some medicine.",
     "translation": "她去藥房買了一些藥。",
     "lookup": {
-     "english": "",
+     "english": "a store that sells medicine",
      "chinese": "藥房"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "dryer",
     "answer": "dryer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine that makes wet clothes dry",
     "chinese": "烘乾機",
     "sentence": "She put the clothes in the __________.",
     "translation": "她把衣服放進烘乾機裡。",
     "lookup": {
-     "english": "",
+     "english": "a machine that makes wet clothes dry",
      "chinese": "烘乾機"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "dumb",
     "answer": "dumb",
     "pos": "adj.",
-    "definition": "",
+    "definition": "stupid; silly",
     "chinese": "啞的，愚蠢的",
     "sentence": "It was a __________ mistake to make.",
     "translation": "這是一個愚蠢的錯誤。",
     "lookup": {
-     "english": "",
+     "english": "stupid; silly",
      "chinese": "啞的，愚蠢的"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "dumpling",
     "answer": "dumplings",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small piece of dough with meat or vegetables inside",
     "chinese": "餃子",
     "sentence": "They made pork __________ for dinner.",
     "translation": "他們做了豬肉餃子當晚餐。",
     "lookup": {
-     "english": "",
+     "english": "a small piece of dough with meat or vegetables inside",
      "chinese": "餃子"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "duty",
     "answer": "duty",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that you must do because it is your job or it is right",
     "chinese": "責任，義務",
     "sentence": "It is your __________ to finish the task.",
     "translation": "完成這項任務是你的責任。",
     "lookup": {
-     "english": "",
+     "english": "something that you must do because it is your job or it is right",
      "chinese": "責任，義務"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "eagle",
     "answer": "eagle",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very big, strong bird that catches small animals",
     "chinese": "鷹",
     "sentence": "The __________ soared high in the sky.",
     "translation": "鷹在天空中高高飛翔。",
     "lookup": {
-     "english": "",
+     "english": "a very big, strong bird that catches small animals",
      "chinese": "鷹"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "earn",
     "answer": "earn",
     "pos": "v.",
-    "definition": "",
+    "definition": "to get money by working",
     "chinese": "賺取，獲得",
     "sentence": "He works hard to __________ a living.",
     "translation": "他努力工作賺取生計。",
     "lookup": {
-     "english": "",
+     "english": "to get money by working",
      "chinese": "賺取，獲得"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "earrings",
     "answer": "earrings",
     "pos": "n.",
-    "definition": "",
+    "definition": "pretty things that people wear on their ears",
     "chinese": "耳環",
     "sentence": "She wore diamond __________.",
     "translation": "她戴著鑽石耳環。",
     "lookup": {
-     "english": "",
+     "english": "pretty things that people wear on their ears",
      "chinese": "耳環"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "ease",
     "answer": "ease",
     "pos": "n.",
-    "definition": "",
+    "definition": "being able to do something with no difficulty",
     "chinese": "容易，舒適",
     "sentence": "He completed the task with __________.",
     "translation": "他輕鬆地完成了任務。",
     "lookup": {
-     "english": "",
+     "english": "being able to do something with no difficulty",
      "chinese": "容易，舒適"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "edge",
     "answer": "edge",
     "pos": "n.",
-    "definition": "",
+    "definition": "the outside end or side of something",
     "chinese": "邊緣",
     "sentence": "She sat on the __________ of the bed.",
     "translation": "她坐在床邊。",
     "lookup": {
-     "english": "",
+     "english": "the outside end or side of something",
      "chinese": "邊緣"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "education",
     "answer": "education",
     "pos": "n.",
-    "definition": "",
+    "definition": "teaching and learning, usually at school",
     "chinese": "教育",
     "sentence": "She values the importance of __________.",
     "translation": "她重視教育的重要性。",
     "lookup": {
-     "english": "",
+     "english": "teaching and learning, usually at school",
      "chinese": "教育"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "effort",
     "answer": "efforts",
     "pos": "n.",
-    "definition": "",
+    "definition": "hard work that you do to get something done",
     "chinese": "努力，成就",
     "sentence": "His __________ paid off in the end.",
     "translation": "他的努力最終得到了回報。",
     "lookup": {
-     "english": "",
+     "english": "hard work that you do to get something done",
      "chinese": "努力，成就"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"besides":["","除了...之外"],"considerate":["","體貼的"],"design":["","設計，構思"],"double":["","雙倍的，雙重的"],"doubt":["","疑問，懷疑"],"doughnut":["","甜甜圈"],"dove":["","鴿子"],"downstairs":["","在樓下"],"downtown":["","市中心"],"dragon":["","龍"],"dramas":["","戲劇，劇本"],"drugstore":["","藥房"],"dryer":["","烘乾機"],"dumb":["","啞的，愚蠢的"],"dumplings":["","餃子"],"duty":["","責任，義務"],"eagle":["","鷹"],"earn":["","賺取，獲得"],"earrings":["","耳環"],"ease":["","容易，舒適"],"edge":["","邊緣"],"education":["","教育"],"efforts":["","努力，成就"],"electric":["","電的，電動的"],"everywhere":["","到處"],"increase":["","增加，增長"],"nearly":["","幾乎，差不多"],"overseas":["","海外，國外"],"positive":["","積極的，正面的"],"solve":["","解決，解答"],"unhappy":["","不快樂的，不滿意的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"besides":["in addition to","除了...之外"],"considerate":["always thinking about what other people need or feel","體貼的"],"design":["to plan and draw how something will look","設計，構思"],"double":["two times as much or as many","雙倍的，雙重的"],"doubt":["a feeling of not being sure","疑問，懷疑"],"doughnut":["a small, sweet, round cake with a hole in the middle","甜甜圈"],"dove":["a white bird that is a sign of peace","鴿子"],"downstairs":["on or to a lower floor of a building","在樓下"],"downtown":["in the center of a city","市中心"],"dragon":["a big animal in stories that has wings and can breathe fire","龍"],"dramas":["a serious story acted on TV or in a theater","戲劇，劇本"],"drugstore":["a store that sells medicine","藥房"],"dryer":["a machine that makes wet clothes dry","烘乾機"],"dumb":["stupid; silly","啞的，愚蠢的"],"dumplings":["a small piece of dough with meat or vegetables inside","餃子"],"duty":["something that you must do because it is your job or it is right","責任，義務"],"eagle":["a very big, strong bird that catches small animals","鷹"],"earn":["to get money by working","賺取，獲得"],"earrings":["pretty things that people wear on their ears","耳環"],"ease":["being able to do something with no difficulty","容易，舒適"],"edge":["the outside end or side of something","邊緣"],"education":["teaching and learning, usually at school","教育"],"efforts":["hard work that you do to get something done","努力，成就"],"electric":["using electricity to work","電的，電動的"],"everywhere":["in all places","到處"],"increase":["to make something bigger in number or amount","增加，增長"],"nearly":["almost","幾乎，差不多"],"overseas":["in or to a country across the sea","海外，國外"],"positive":["thinking about the good side of things","積極的，正面的"],"solve":["to find the answer to a problem","解決，解答"],"unhappy":["not happy","不快樂的，不滿意的"]});

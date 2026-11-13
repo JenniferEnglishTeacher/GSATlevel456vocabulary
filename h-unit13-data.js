@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "evil",
     "answer": "evil",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very bad and wanting to hurt people",
     "chinese": "邪惡的，壞的",
     "sentence": "The villain in the story is truly __________.",
     "translation": "故事中的反派真是邪惡。",
     "lookup": {
-     "english": "",
+     "english": "very bad and wanting to hurt people",
      "chinese": "邪惡的，壞的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "exam",
     "answer": "exam",
     "pos": "n.",
-    "definition": "",
+    "definition": "an important test at school",
     "chinese": "考試",
     "sentence": "She is studying for her final __________.",
     "translation": "她在為期末考試學習。",
     "lookup": {
-     "english": "",
+     "english": "an important test at school",
      "chinese": "考試"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "excite",
     "answer": "excited",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make someone feel very happy and interested",
     "chinese": "使興奮，使激動",
     "sentence": "The news __________ everyone.",
     "translation": "這個消息讓大家很興奮。",
     "lookup": {
-     "english": "",
+     "english": "to make someone feel very happy and interested",
      "chinese": "使興奮，使激動"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "exist",
     "answer": "exist",
     "pos": "v.",
-    "definition": "",
+    "definition": "to be real; to be in the world",
     "chinese": "存在",
     "sentence": "Do you believe that ghosts __________?",
     "translation": "你相信鬼存在嗎？",
     "lookup": {
-     "english": "",
+     "english": "to be real; to be in the world",
      "chinese": "存在"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "exit",
     "answer": "exit",
     "pos": "n.",
-    "definition": "",
+    "definition": "a door you use to leave a building",
     "chinese": "出口",
     "sentence": "Please use the nearest __________ in case of emergency.",
     "translation": "遇到緊急情況請使用最近的出口。",
     "lookup": {
-     "english": "",
+     "english": "a door you use to leave a building",
      "chinese": "出口"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "expect",
     "answer": "expect",
     "pos": "v.",
-    "definition": "",
+    "definition": "to think that something will happen",
     "chinese": "期望，預期",
     "sentence": "We __________ good results from the project.",
     "translation": "我們期望這個專案有好的結果。",
     "lookup": {
-     "english": "",
+     "english": "to think that something will happen",
      "chinese": "期望，預期"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "express",
     "answer": "express",
     "pos": "v.",
-    "definition": "",
+    "definition": "to show a feeling or idea with words or actions",
     "chinese": "表達，表現",
     "sentence": "She found it difficult to __________ her feelings.",
     "translation": "她發現很難表達她的感受。",
     "lookup": {
-     "english": "",
+     "english": "to show a feeling or idea with words or actions",
      "chinese": "表達，表現"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "extra",
     "answer": "extra",
     "pos": "adj.",
-    "definition": "",
+    "definition": "more than usual",
     "chinese": "額外的，附加的",
     "sentence": "He asked for __________ help with his homework.",
     "translation": "他請求額外的作業幫助。",
     "lookup": {
-     "english": "",
+     "english": "more than usual",
      "chinese": "額外的，附加的"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "fair",
     "answer": "fair",
     "pos": "adj.",
-    "definition": "",
+    "definition": "treating everyone in the same, right way",
     "chinese": "公平的，合理的",
     "sentence": "She always tries to be __________.",
     "translation": "她總是努力做到公平。",
     "lookup": {
-     "english": "",
+     "english": "treating everyone in the same, right way",
      "chinese": "公平的，合理的"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "false",
     "answer": "false",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not true; not correct",
     "chinese": "錯誤的，假的",
     "sentence": "The statement he made was __________.",
     "translation": "他所做的聲明是錯誤的。",
     "lookup": {
-     "english": "",
+     "english": "not true; not correct",
      "chinese": "錯誤的，假的"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "fancy",
     "answer": "fancy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "special and expensive; not simple",
     "chinese": "花俏的，昂貴的",
     "sentence": "She wore a __________ dress to the party.",
     "translation": "她穿著一件花俏的連衣裙去參加派對。",
     "lookup": {
-     "english": "",
+     "english": "special and expensive; not simple",
      "chinese": "花俏的，昂貴的"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "fantastic",
     "answer": "fantastic",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very, very good",
     "chinese": "極好的，奇異的",
     "sentence": "They had a __________ time at the amusement park.",
     "translation": "他們在遊樂園玩得很開心。",
     "lookup": {
-     "english": "",
+     "english": "very, very good",
      "chinese": "極好的，奇異的"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "fashion",
     "answer": "fashion",
     "pos": "n.",
-    "definition": "",
+    "definition": "the kind of clothes that are popular at a certain time",
     "chinese": "時尚，流行",
     "sentence": "She is very interested in __________.",
     "translation": "她對時尚很感興趣。",
     "lookup": {
-     "english": "",
+     "english": "the kind of clothes that are popular at a certain time",
      "chinese": "時尚，流行"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "fault",
     "answer": "fault",
     "pos": "n.",
-    "definition": "",
+    "definition": "a mistake that you are to blame for",
     "chinese": "錯誤，缺點",
     "sentence": "It was not her __________ that the meeting was delayed.",
     "translation": "會議延誤不是她的錯。",
     "lookup": {
-     "english": "",
+     "english": "a mistake that you are to blame for",
      "chinese": "錯誤，缺點"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "fear",
     "answer": "fear",
     "pos": "n.",
-    "definition": "",
+    "definition": "the feeling you have when you are afraid",
     "chinese": "恐懼，害怕",
     "sentence": "He has a __________ of heights.",
     "translation": "他恐高。",
     "lookup": {
-     "english": "",
+     "english": "the feeling you have when you are afraid",
      "chinese": "恐懼，害怕"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "fee",
     "answer": "fee",
     "pos": "n.",
-    "definition": "",
+    "definition": "money you pay to enter a place or to get a service",
     "chinese": "費用，酬金",
     "sentence": "The entrance __________ is $10.",
     "translation": "入場費是10美元。",
     "lookup": {
-     "english": "",
+     "english": "money you pay to enter a place or to get a service",
      "chinese": "費用，酬金"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "feeling",
     "answer": "feeling",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that you feel inside, like love or anger",
     "chinese": "感覺，感情",
     "sentence": "She has a warm __________ towards her old friends.",
     "translation": "她對她的老朋友有一種溫暖的感覺。",
     "lookup": {
-     "english": "",
+     "english": "something that you feel inside, like love or anger",
      "chinese": "感覺，感情"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "female",
     "answer": "female",
     "pos": "adj.",
-    "definition": "",
+    "definition": "being a woman or a girl",
     "chinese": "女性的",
     "sentence": "The __________ employees were given equal opportunities.",
     "translation": "女性員工獲得了平等的機會。",
     "lookup": {
-     "english": "",
+     "english": "being a woman or a girl",
      "chinese": "女性的"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "fence",
     "answer": "fence",
     "pos": "n.",
-    "definition": "",
+    "definition": "a wall made of wood or wire around a garden or field",
     "chinese": "圍欄",
     "sentence": "They built a __________ around their garden.",
     "translation": "他們在花園周圍建了一個圍欄。",
     "lookup": {
-     "english": "",
+     "english": "a wall made of wood or wire around a garden or field",
      "chinese": "圍欄"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "film",
     "answer": "film",
     "pos": "n.",
-    "definition": "",
+    "definition": "a movie",
     "chinese": "影片，電影",
     "sentence": "They watched a __________ together.",
     "translation": "他們一起看了一部電影。",
     "lookup": {
-     "english": "",
+     "english": "a movie",
      "chinese": "影片，電影"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"evil":["","邪惡的，壞的"],"exam":["","考試"],"excited":["","使興奮，使激動"],"exist":["","存在"],"exit":["","出口"],"expect":["","期望，預期"],"express":["","表達，表現"],"extra":["","額外的，附加的"],"fair":["","公平的，合理的"],"false":["","錯誤的，假的"],"fancy":["","花俏的，昂貴的"],"fantastic":["","極好的，奇異的"],"fashion":["","時尚，流行"],"fault":["","錯誤，缺點"],"fear":["","恐懼，害怕"],"fee":["","費用，酬金"],"feeling":["","感覺，感情"],"female":["","女性的"],"fence":["","圍欄"],"film":["","影片，電影"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"evil":["very bad and wanting to hurt people","邪惡的，壞的"],"exam":["an important test at school","考試"],"excited":["to make someone feel very happy and interested","使興奮，使激動"],"exist":["to be real; to be in the world","存在"],"exit":["a door you use to leave a building","出口"],"expect":["to think that something will happen","期望，預期"],"express":["to show a feeling or idea with words or actions","表達，表現"],"extra":["more than usual","額外的，附加的"],"fair":["treating everyone in the same, right way","公平的，合理的"],"false":["not true; not correct","錯誤的，假的"],"fancy":["special and expensive; not simple","花俏的，昂貴的"],"fantastic":["very, very good","極好的，奇異的"],"fashion":["the kind of clothes that are popular at a certain time","時尚，流行"],"fault":["a mistake that you are to blame for","錯誤，缺點"],"fear":["the feeling you have when you are afraid","恐懼，害怕"],"fee":["money you pay to enter a place or to get a service","費用，酬金"],"feeling":["something that you feel inside, like love or anger","感覺，感情"],"female":["being a woman or a girl","女性的"],"fence":["a wall made of wood or wire around a garden or field","圍欄"],"film":["a movie","影片，電影"]});

@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "match",
     "answer": "match",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game between two players or teams",
     "chinese": "比賽，火柴",
     "sentence": "They won the soccer __________.",
     "translation": "他們贏得了足球比賽。",
     "lookup": {
-     "english": "",
+     "english": "a game between two players or teams",
      "chinese": "比賽，火柴"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "maximum",
     "answer": "maximum",
     "pos": "adj.",
-    "definition": "",
+    "definition": "the largest that is possible or allowed",
     "chinese": "最大的，最高的",
     "sentence": "The __________ capacity of the hall is 500 people.",
     "translation": "大廳的最大容量是500人。",
     "lookup": {
-     "english": "",
+     "english": "the largest that is possible or allowed",
      "chinese": "最大的，最高的"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "meaning",
     "answer": "meaning",
     "pos": "n.",
-    "definition": "",
+    "definition": "the idea that a word or sign shows",
     "chinese": "意義，意思",
     "sentence": "The __________ of the word is unclear.",
     "translation": "這個詞的意思不清楚。",
     "lookup": {
-     "english": "",
+     "english": "the idea that a word or sign shows",
      "chinese": "意義，意思"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "measure",
     "answer": "measured",
     "pos": "v.",
-    "definition": "",
+    "definition": "to find out how long, big, or heavy something is",
     "chinese": "測量，衡量",
     "sentence": "They __________ the length of the room.",
     "translation": "他們測量了房間的長度。",
     "lookup": {
-     "english": "",
+     "english": "to find out how long, big, or heavy something is",
      "chinese": "測量，衡量"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "mechanic",
     "answer": "mechanic",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who fixes cars or machines",
     "chinese": "技工，機械師",
     "sentence": "He works as a car __________.",
     "translation": "他是一名汽車技工。",
     "lookup": {
-     "english": "",
+     "english": "a person who fixes cars or machines",
      "chinese": "技工，機械師"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "memory",
     "answer": "memory",
     "pos": "n.",
-    "definition": "",
+    "definition": "the power to remember things",
     "chinese": "記憶，回憶",
     "sentence": "She has a good __________.",
     "translation": "她的記憶力很好。",
     "lookup": {
-     "english": "",
+     "english": "the power to remember things",
      "chinese": "記憶，回憶"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "message",
     "answer": "message",
     "pos": "n.",
-    "definition": "",
+    "definition": "words that you send or leave for someone",
     "chinese": "信息，訊息",
     "sentence": "She left a __________ on his phone.",
     "translation": "她在他的手機上留了訊息。",
     "lookup": {
-     "english": "",
+     "english": "words that you send or leave for someone",
      "chinese": "信息，訊息"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "metal",
     "answer": "metal",
     "pos": "n.",
-    "definition": "",
+    "definition": "a hard, shiny material like iron or gold",
     "chinese": "金屬",
     "sentence": "The table is made of __________.",
     "translation": "這張桌子是金屬製成的。",
     "lookup": {
-     "english": "",
+     "english": "a hard, shiny material like iron or gold",
      "chinese": "金屬"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "meter",
     "answer": "meters",
     "pos": "n.",
-    "definition": "",
+    "definition": "a unit of length; it is 100 centimeters",
     "chinese": "公尺，計量器",
     "sentence": "The room is 5 __________ long.",
     "translation": "這個房間長5公尺。",
     "lookup": {
-     "english": "",
+     "english": "a unit of length; it is 100 centimeters",
      "chinese": "公尺，計量器"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "method",
     "answer": "method",
     "pos": "n.",
-    "definition": "",
+    "definition": "a way of doing something",
     "chinese": "方法，方式",
     "sentence": "They developed a new __________ for testing the product.",
     "translation": "他們開發了一種新的產品測試方法。",
     "lookup": {
-     "english": "",
+     "english": "a way of doing something",
      "chinese": "方法，方式"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "microwave",
     "answer": "microwave",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine that heats food very quickly",
     "chinese": "微波爐",
     "sentence": "She heated the food in the __________.",
     "translation": "她用微波爐加熱食物。",
     "lookup": {
-     "english": "",
+     "english": "a machine that heats food very quickly",
      "chinese": "微波爐"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "midnight",
     "answer": "midnight",
     "pos": "n.",
-    "definition": "",
+    "definition": "twelve o'clock at night",
     "chinese": "午夜",
     "sentence": "The train arrived at __________.",
     "translation": "火車在午夜到達。",
     "lookup": {
-     "english": "",
+     "english": "twelve o'clock at night",
      "chinese": "午夜"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "minor",
     "answer": "minor",
     "pos": "adj.",
-    "definition": "",
+    "definition": "small; not very serious",
     "chinese": "較小的，次要的",
     "sentence": "He suffered only __________ injuries in the accident.",
     "translation": "他在事故中只受了輕傷。",
     "lookup": {
-     "english": "",
+     "english": "small; not very serious",
      "chinese": "較小的，次要的"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "minus",
     "answer": "minus",
     "pos": "prep.",
-    "definition": "",
+    "definition": "below zero; made smaller by a number",
     "chinese": "減，負的",
     "sentence": "The temperature is __________ 5 degrees.",
     "translation": "溫度是零下5度。",
     "lookup": {
-     "english": "",
+     "english": "below zero; made smaller by a number",
      "chinese": "減，負的"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "mirror",
     "answer": "mirror",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of glass in which you can see yourself",
     "chinese": "鏡子",
     "sentence": "She looked at herself in the __________.",
     "translation": "她照了照鏡子。",
     "lookup": {
-     "english": "",
+     "english": "a piece of glass in which you can see yourself",
      "chinese": "鏡子"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "mix",
     "answer": "mixed",
     "pos": "v.",
-    "definition": "",
+    "definition": "to put different things together and stir them",
     "chinese": "混合，攪拌",
     "sentence": "She __________ the ingredients together.",
     "translation": "她把材料混合在一起。",
     "lookup": {
-     "english": "",
+     "english": "to put different things together and stir them",
      "chinese": "混合，攪拌"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "model",
     "answer": "model",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small copy of something, like a plane or a building",
     "chinese": "模型，模特",
     "sentence": "He built a __________ of the airplane.",
     "translation": "他製作了一個飛機模型。",
     "lookup": {
-     "english": "",
+     "english": "a small copy of something, like a plane or a building",
      "chinese": "模型，模特"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "monster",
     "answer": "monster",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big, ugly, scary animal in stories",
     "chinese": "怪物",
     "sentence": "The children were afraid of the __________.",
     "translation": "孩子們害怕那個怪物。",
     "lookup": {
-     "english": "",
+     "english": "a big, ugly, scary animal in stories",
      "chinese": "怪物"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "mosquito",
     "answer": "mosquito",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small flying insect that bites people and drinks blood",
     "chinese": "蚊子",
     "sentence": "She was bitten by a __________.",
     "translation": "她被蚊子咬了。",
     "lookup": {
-     "english": "",
+     "english": "a small flying insect that bites people and drinks blood",
      "chinese": "蚊子"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "motion",
     "answer": "motion",
     "pos": "n.",
-    "definition": "",
+    "definition": "the act of moving",
     "chinese": "運動，動作",
     "sentence": "The __________ of the boat made her feel sick.",
     "translation": "船的運動讓她感到噁心。",
     "lookup": {
-     "english": "",
+     "english": "the act of moving",
      "chinese": "運動，動作"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"against":["","反對，對抗"],"beyond":["","超過，在...之外"],"divided":["","分開，劃分"],"empty":["","空的，無人的"],"insisted":["","堅持，強調"],"instant":["","即時的，瞬間的"],"invented":["","發明，創造"],"match":["","比賽，火柴"],"maximum":["","最大的，最高的"],"meaning":["","意義，意思"],"measured":["","測量，衡量"],"mechanic":["","技工，機械師"],"memory":["","記憶，回憶"],"message":["","信息，訊息"],"metal":["","金屬"],"meters":["","公尺，計量器"],"method":["","方法，方式"],"microwave":["","微波爐"],"midnight":["","午夜"],"minor":["","較小的，次要的"],"minus":["","減，負的"],"mirror":["","鏡子"],"mixed":["","混合，攪拌"],"model":["","模型，模特"],"monster":["","怪物"],"mosquito":["","蚊子"],"motion":["","運動，動作"],"plus":["","加上，此外"],"positive":["","積極的，正面的"],"stingy":["","吝嗇的，小氣的"],"whispered":["","耳語，低聲說"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"against":["not agreeing with something","反對，對抗"],"beyond":["on the far side of something","超過，在...之外"],"divided":["to cut or break something into parts","分開，劃分"],"empty":["with nothing or nobody inside","空的，無人的"],"insisted":["to say strongly that you want to do something","堅持，強調"],"instant":["(of food) very quick and easy to make","即時的，瞬間的"],"invented":["to make or think of something that did not exist before","發明，創造"],"match":["a game between two players or teams","比賽，火柴"],"maximum":["the largest that is possible or allowed","最大的，最高的"],"meaning":["the idea that a word or sign shows","意義，意思"],"measured":["to find out how long, big, or heavy something is","測量，衡量"],"mechanic":["a person who fixes cars or machines","技工，機械師"],"memory":["the power to remember things","記憶，回憶"],"message":["words that you send or leave for someone","信息，訊息"],"metal":["a hard, shiny material like iron or gold","金屬"],"meters":["a unit of length; it is 100 centimeters","公尺，計量器"],"method":["a way of doing something","方法，方式"],"microwave":["a machine that heats food very quickly","微波爐"],"midnight":["twelve o'clock at night","午夜"],"minor":["small; not very serious","較小的，次要的"],"minus":["below zero; made smaller by a number","減，負的"],"mirror":["a piece of glass in which you can see yourself","鏡子"],"mixed":["to put different things together and stir them","混合，攪拌"],"model":["a small copy of something, like a plane or a building","模型，模特"],"monster":["a big, ugly, scary animal in stories","怪物"],"mosquito":["a small flying insect that bites people and drinks blood","蚊子"],"motion":["the act of moving","運動，動作"],"plus":["and also; added to","加上，此外"],"positive":["thinking about the good side of things","積極的，正面的"],"stingy":["not willing to spend or give money","吝嗇的，小氣的"],"whispered":["to speak in a very quiet voice","耳語，低聲說"]});

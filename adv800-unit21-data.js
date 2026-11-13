@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "liter",
     "pos": "n.",
     "cn_def": "公升",
-    "en_def": "",
+    "en_def": "a unit for measuring liquid; a little more than four cups",
     "sentence": "She drank a {{BLANK}} of water.",
     "cn": "她喝了一公升水。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "loaf",
     "pos": "n.",
     "cn_def": "一條麵包",
-    "en_def": "",
+    "en_def": "bread baked in one big piece",
     "sentence": "He bought a {{BLANK}} of bread.",
     "cn": "他買了一條麵包。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "local",
     "pos": "adj.",
     "cn_def": "當地的，本地的",
-    "en_def": "",
+    "en_def": "of or in the place where you live or are",
     "sentence": "They visited the {{BLANK}} market.",
     "cn": "他們參觀了當地市場。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "lock",
     "pos": "v.",
     "cn_def": "鎖住",
-    "en_def": "",
+    "en_def": "to close something with a key",
     "sentence": "She {{BLANK}} the door before leaving.",
     "cn": "她離開前鎖上了門。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "locker",
     "pos": "n.",
     "cn_def": "置物櫃",
-    "en_def": "",
+    "en_def": "a small metal closet with a lock, used at school or a gym",
     "sentence": "He put his books in the {{BLANK}}.",
     "cn": "他把書放在置物櫃裡。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "loser",
     "pos": "n.",
     "cn_def": "失敗者",
-    "en_def": "",
+    "en_def": "a person who does not win",
     "sentence": "He felt like a {{BLANK}} after losing the game.",
     "cn": "他輸了比賽後感到像個失敗者。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "lot",
     "pos": "n.",
     "cn_def": "許多，大量",
-    "en_def": "",
+    "en_def": "a large number or amount",
     "sentence": "There are a {{BLANK}} of books on the shelf.",
     "cn": "書架上有很多書。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "magazine",
     "pos": "n.",
     "cn_def": "雜誌",
-    "en_def": "",
+    "en_def": "a thin book with pictures and stories that comes out every week or month",
     "sentence": "She subscribes to a fashion {{BLANK}}.",
     "cn": "她訂閱了一本時尚雜誌。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "magician",
     "pos": "n.",
     "cn_def": "魔術師",
-    "en_def": "",
+    "en_def": "a person who does magic tricks",
     "sentence": "The {{BLANK}} performed amazing tricks.",
     "cn": "魔術師表演了驚人的把戲。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "major",
     "pos": "adj.",
     "cn_def": "主要的，重要的",
-    "en_def": "",
+    "en_def": "very big or important",
     "sentence": "She played a {{BLANK}} role in the project.",
     "cn": "她在這個專案中扮演了重要角色。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "male",
     "pos": "adj.",
     "cn_def": "男性的",
-    "en_def": "",
+    "en_def": "being a man or a boy",
     "sentence": "The {{BLANK}} employees are outnumbered by the female employees.",
     "cn": "男性員工數量少於女性員工。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "mall",
     "pos": "n.",
     "cn_def": "購物中心",
-    "en_def": "",
+    "en_def": "a very big building with many stores inside",
     "sentence": "They spent the afternoon shopping at the {{BLANK}}.",
     "cn": "他們在購物中心購物了整個下午。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "manager",
     "pos": "n.",
     "cn_def": "經理",
-    "en_def": "",
+    "en_def": "a person who is in charge of a store, team, or office",
     "sentence": "The {{BLANK}} called for a meeting with the staff.",
     "cn": "經理召集員工開會。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "mango",
     "pos": "n.",
     "cn_def": "芒果",
-    "en_def": "",
+    "en_def": "a sweet tropical fruit that is yellow inside",
     "sentence": "She bought a ripe {{BLANK}} at the market.",
     "cn": "她在市場買了一個熟芒果。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "manner",
     "pos": "n.",
     "cn_def": "方式，態度",
-    "en_def": "",
+    "en_def": "the way in which you do something",
     "sentence": "His {{BLANK}} of speaking is very polite.",
     "cn": "他的說話方式非常禮貌。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "marry",
     "pos": "v.",
     "cn_def": "結婚",
-    "en_def": "",
+    "en_def": "to become someone's husband or wife",
     "sentence": "They plan to {{BLANK}} next year.",
     "cn": "他們計劃明年結婚。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "marvelous",
     "pos": "adj.",
     "cn_def": "奇妙的，極好的",
-    "en_def": "",
+    "en_def": "very, very good; wonderful",
     "sentence": "They had a {{BLANK}} time on their vacation.",
     "cn": "他們度過了一個奇妙的假期。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "mass",
     "pos": "n.",
     "cn_def": "大量，團，塊",
-    "en_def": "",
+    "en_def": "a large number or amount of something together",
     "sentence": "There was a {{BLANK}} of people at the concert.",
     "cn": "音樂會上有大量人群。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "master",
     "pos": "n.",
     "cn_def": "主人，大師",
-    "en_def": "",
+    "en_def": "a person who is very good at doing something",
     "sentence": "He is a {{BLANK}} of martial arts.",
     "cn": "他是武術大師。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "mat",
     "pos": "n.",
     "cn_def": "墊子",
-    "en_def": "",
+    "en_def": "a small piece of thick cloth on the floor",
     "sentence": "She placed a {{BLANK}} at the entrance.",
     "cn": "她在入口處放了一塊墊子。"
   }
@@ -414,122 +414,122 @@ const MCQS = [
 const LOOKUP = {
   "hire": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to give someone a job",
     "cn_def": "雇用"
   },
   "hopped": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to move by making short, quick jumps",
     "cn_def": "跳躍，單腳跳"
   },
   "ignore": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to act as if you do not see or hear someone or something",
     "cn_def": "忽視"
   },
   "liter": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a unit for measuring liquid; a little more than four cups",
     "cn_def": "公升"
   },
   "loaf": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "bread baked in one big piece",
     "cn_def": "一條麵包"
   },
   "local": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "of or in the place where you live or are",
     "cn_def": "當地的，本地的"
   },
   "locked": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to close something with a key",
     "cn_def": "鎖住"
   },
   "locker": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small metal closet with a lock, used at school or a gym",
     "cn_def": "置物櫃"
   },
   "loser": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who does not win",
     "cn_def": "失敗者"
   },
   "lot": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a large number or amount",
     "cn_def": "許多，大量"
   },
   "magazine": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thin book with pictures and stories that comes out every week or month",
     "cn_def": "雜誌"
   },
   "magician": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who does magic tricks",
     "cn_def": "魔術師"
   },
   "major": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very big or important",
     "cn_def": "主要的，重要的"
   },
   "male": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "being a man or a boy",
     "cn_def": "男性的"
   },
   "mall": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a very big building with many stores inside",
     "cn_def": "購物中心"
   },
   "manager": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who is in charge of a store, team, or office",
     "cn_def": "經理"
   },
   "mango": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a sweet tropical fruit that is yellow inside",
     "cn_def": "芒果"
   },
   "manner": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the way in which you do something",
     "cn_def": "方式，態度"
   },
   "marry": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to become someone's husband or wife",
     "cn_def": "結婚"
   },
   "marvelous": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very, very good; wonderful",
     "cn_def": "奇妙的，極好的"
   },
   "mass": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a large number or amount of something together",
     "cn_def": "大量，團，塊"
   },
   "master": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who is very good at doing something",
     "cn_def": "主人，大師"
   },
   "mat": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small piece of thick cloth on the floor",
     "cn_def": "墊子"
   },
   "rubbed": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to press and move your hand or a cloth back and forth on something",
     "cn_def": "擦，摩擦"
   }
 };

@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "trade",
     "pos": "n.",
     "cn_def": "貿易，交易",
-    "en_def": "",
+    "en_def": "buying and selling things between people or countries",
     "sentence": "They established a {{BLANK}} agreement.",
     "cn": "他們建立了貿易協議。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "tradition",
     "pos": "n.",
     "cn_def": "傳統，慣例",
-    "en_def": "",
+    "en_def": "something that a family or group has done for a long time",
     "sentence": "It is a family {{BLANK}}.",
     "cn": "這是一個家族傳統。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "traffic",
     "pos": "n.",
     "cn_def": "交通，車流",
-    "en_def": "",
+    "en_def": "all the cars, buses, and motorcycles moving on the roads",
     "sentence": "The {{BLANK}} was very heavy this morning.",
     "cn": "今天早上的交通很擁擠。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "train",
     "pos": "n.",
     "cn_def": "火車，訓練",
-    "en_def": "",
+    "en_def": "a line of cars that moves along rails and carries people",
     "sentence": "He took the {{BLANK}} to work.",
     "cn": "他乘火車去上班。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "trap",
     "pos": "n.",
     "cn_def": "陷阱，圈套",
-    "en_def": "",
+    "en_def": "a thing for catching animals",
     "sentence": "They set a {{BLANK}} to catch the mouse.",
     "cn": "他們設置了一個陷阱來抓老鼠。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "treasure",
     "pos": "n.",
     "cn_def": "財寶，珍寶",
-    "en_def": "",
+    "en_def": "gold, silver, and other things that are worth a lot of money",
     "sentence": "They found buried {{BLANK}}.",
     "cn": "他們發現了埋藏的財寶。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "treat",
     "pos": "v.",
     "cn_def": "對待，治療",
-    "en_def": "",
+    "en_def": "to pay for someone's food or drink",
     "sentence": "She {{BLANK}} her friends to dinner.",
     "cn": "她請朋友吃晚餐。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "triangle",
     "pos": "n.",
     "cn_def": "三角形",
-    "en_def": "",
+    "en_def": "a shape with three straight sides",
     "sentence": "She drew a {{BLANK}} on the paper.",
     "cn": "她在紙上畫了一個三角形。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "trick",
     "pos": "n.",
     "cn_def": "把戲，詭計",
-    "en_def": "",
+    "en_def": "something you do to fool someone for fun",
     "sentence": "He played a {{BLANK}} on his brother.",
     "cn": "他對弟弟耍了個把戲。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "troop",
     "pos": "n.",
     "cn_def": "部隊，軍隊",
-    "en_def": "",
+    "en_def": "soldiers in a large group",
     "sentence": "The {{BLANK}} were deployed to the front line.",
     "cn": "部隊被派往前線。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "tropical",
     "pos": "adj.",
     "cn_def": "熱帶的，炎熱的",
-    "en_def": "",
+    "en_def": "from or in the hottest parts of the world",
     "sentence": "They went on a vacation to a {{BLANK}} island.",
     "cn": "他們去了一個熱帶島嶼度假。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "trousers",
     "pos": "n.",
     "cn_def": "褲子，長褲",
-    "en_def": "",
+    "en_def": "clothing that covers your legs; pants",
     "sentence": "He bought a new pair of {{BLANK}}.",
     "cn": "他買了一條新褲子。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "trust",
     "pos": "v.",
     "cn_def": "信任，依賴",
-    "en_def": "",
+    "en_def": "to believe that someone is good and honest",
     "sentence": "She {{BLANK}} him completely.",
     "cn": "她完全信任他。",
     "alts": [
@@ -117,7 +117,7 @@ const VOCAB = [
     "word": "truth",
     "pos": "n.",
     "cn_def": "真相，事實",
-    "en_def": "",
+    "en_def": "what is true; the real facts",
     "sentence": "She always tells the {{BLANK}}.",
     "cn": "她總是說實話。"
   },
@@ -125,7 +125,7 @@ const VOCAB = [
     "word": "T-shirt",
     "pos": "n.",
     "cn_def": "T恤衫",
-    "en_def": "",
+    "en_def": "a shirt with short sleeves and no buttons",
     "sentence": "He wore a white {{BLANK}}.",
     "cn": "他穿了一件白色T恤衫。"
   },
@@ -133,7 +133,7 @@ const VOCAB = [
     "word": "tub",
     "pos": "n.",
     "cn_def": "浴缸，桶",
-    "en_def": "",
+    "en_def": "a big container that you fill with water to wash your body",
     "sentence": "She filled the {{BLANK}} with water.",
     "cn": "她把浴缸裝滿了水。"
   },
@@ -141,7 +141,7 @@ const VOCAB = [
     "word": "turkey",
     "pos": "n.",
     "cn_def": "火雞",
-    "en_def": "",
+    "en_def": "a big farm bird that people eat at Thanksgiving",
     "sentence": "They cooked a {{BLANK}} for Thanksgiving.",
     "cn": "他們為感恩節做了一隻火雞。"
   },
@@ -149,7 +149,7 @@ const VOCAB = [
     "word": "turtle",
     "pos": "n.",
     "cn_def": "烏龜",
-    "en_def": "",
+    "en_def": "an animal with a hard shell on its back that moves slowly",
     "sentence": "The {{BLANK}} swam slowly in the pond.",
     "cn": "烏龜在池塘裡慢慢游泳。"
   },
@@ -157,7 +157,7 @@ const VOCAB = [
     "word": "ugly",
     "pos": "adj.",
     "cn_def": "醜陋的，難看的",
-    "en_def": "",
+    "en_def": "not nice to look at",
     "sentence": "The building is very {{BLANK}}.",
     "cn": "這棟建築很醜陋。"
   },
@@ -165,7 +165,7 @@ const VOCAB = [
     "word": "umbrella",
     "pos": "n.",
     "cn_def": "雨傘",
-    "en_def": "",
+    "en_def": "a thing you hold over your head to stay dry in the rain",
     "sentence": "She took an {{BLANK}} because it was raining.",
     "cn": "她帶了一把雨傘，因為下雨了。"
   }
@@ -417,142 +417,142 @@ const MCQS = [
 const LOOKUP = {
   "aims": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to try or plan to do something",
     "cn_def": "瞄準，目標"
   },
   "barked": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "(of a dog) to make a short loud sound",
     "cn_def": "吠叫"
   },
   "bitter": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having a strong taste that is not sweet, like black coffee",
     "cn_def": "苦的，痛苦的"
   },
   "licked": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to move your tongue over something",
     "cn_def": "舔"
   },
   "male": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "being a man or a boy",
     "cn_def": "男性的"
   },
   "overweight": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "too heavy or fat",
     "cn_def": "超重的，過重的"
   },
   "produces": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make or grow something",
     "cn_def": "生產，製造"
   },
   "soft": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not hard; nice to touch",
     "cn_def": "柔軟的，溫和的"
   },
   "trade": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "buying and selling things between people or countries",
     "cn_def": "貿易，交易"
   },
   "tradition": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something that a family or group has done for a long time",
     "cn_def": "傳統，慣例"
   },
   "traffic": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "all the cars, buses, and motorcycles moving on the roads",
     "cn_def": "交通，車流"
   },
   "train": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a line of cars that moves along rails and carries people",
     "cn_def": "火車，訓練"
   },
   "trap": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing for catching animals",
     "cn_def": "陷阱，圈套"
   },
   "treasure": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "gold, silver, and other things that are worth a lot of money",
     "cn_def": "財寶，珍寶"
   },
   "treated": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to pay for someone's food or drink",
     "cn_def": "對待，治療"
   },
   "triangle": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a shape with three straight sides",
     "cn_def": "三角形"
   },
   "trick": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you do to fool someone for fun",
     "cn_def": "把戲，詭計"
   },
   "troops": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "soldiers in a large group",
     "cn_def": "部隊，軍隊"
   },
   "tropical": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "from or in the hottest parts of the world",
     "cn_def": "熱帶的，炎熱的"
   },
   "trousers": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "clothing that covers your legs; pants",
     "cn_def": "褲子，長褲"
   },
   "trusts": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to believe that someone is good and honest",
     "cn_def": "信任，依賴"
   },
   "truth": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "what is true; the real facts",
     "cn_def": "真相，事實"
   },
   "t-shirt": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a shirt with short sleeves and no buttons",
     "cn_def": "T恤衫"
   },
   "tub": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big container that you fill with water to wash your body",
     "cn_def": "浴缸，桶"
   },
   "turkey": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big farm bird that people eat at Thanksgiving",
     "cn_def": "火雞"
   },
   "turtle": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an animal with a hard shell on its back that moves slowly",
     "cn_def": "烏龜"
   },
   "ugly": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not nice to look at",
     "cn_def": "醜陋的，難看的"
   },
   "umbrella": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing you hold over your head to stay dry in the rain",
     "cn_def": "雨傘"
   }
 };

@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "trade",
     "answer": "trade",
     "pos": "n.",
-    "definition": "",
+    "definition": "buying and selling things between people or countries",
     "chinese": "貿易，交易",
     "sentence": "They established a __________ agreement.",
     "translation": "他們建立了貿易協議。",
     "lookup": {
-     "english": "",
+     "english": "buying and selling things between people or countries",
      "chinese": "貿易，交易"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "tradition",
     "answer": "tradition",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that a family or group has done for a long time",
     "chinese": "傳統，慣例",
     "sentence": "It is a family __________.",
     "translation": "這是一個家族傳統。",
     "lookup": {
-     "english": "",
+     "english": "something that a family or group has done for a long time",
      "chinese": "傳統，慣例"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "traffic",
     "answer": "traffic",
     "pos": "n.",
-    "definition": "",
+    "definition": "all the cars, buses, and motorcycles moving on the roads",
     "chinese": "交通，車流",
     "sentence": "The __________ was very heavy this morning.",
     "translation": "今天早上的交通很擁擠。",
     "lookup": {
-     "english": "",
+     "english": "all the cars, buses, and motorcycles moving on the roads",
      "chinese": "交通，車流"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "train",
     "answer": "train",
     "pos": "n.",
-    "definition": "",
+    "definition": "a line of cars that moves along rails and carries people",
     "chinese": "火車，訓練",
     "sentence": "He took the __________ to work.",
     "translation": "他乘火車去上班。",
     "lookup": {
-     "english": "",
+     "english": "a line of cars that moves along rails and carries people",
      "chinese": "火車，訓練"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "trap",
     "answer": "trap",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing for catching animals",
     "chinese": "陷阱，圈套",
     "sentence": "They set a __________ to catch the mouse.",
     "translation": "他們設置了一個陷阱來抓老鼠。",
     "lookup": {
-     "english": "",
+     "english": "a thing for catching animals",
      "chinese": "陷阱，圈套"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "treasure",
     "answer": "treasure",
     "pos": "n.",
-    "definition": "",
+    "definition": "gold, silver, and other things that are worth a lot of money",
     "chinese": "財寶，珍寶",
     "sentence": "They found buried __________.",
     "translation": "他們發現了埋藏的財寶。",
     "lookup": {
-     "english": "",
+     "english": "gold, silver, and other things that are worth a lot of money",
      "chinese": "財寶，珍寶"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "treat",
     "answer": "treated",
     "pos": "v.",
-    "definition": "",
+    "definition": "to pay for someone's food or drink",
     "chinese": "對待，治療",
     "sentence": "She __________ her friends to dinner.",
     "translation": "她請朋友吃晚餐。",
     "lookup": {
-     "english": "",
+     "english": "to pay for someone's food or drink",
      "chinese": "對待，治療"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "triangle",
     "answer": "triangle",
     "pos": "n.",
-    "definition": "",
+    "definition": "a shape with three straight sides",
     "chinese": "三角形",
     "sentence": "She drew a __________ on the paper.",
     "translation": "她在紙上畫了一個三角形。",
     "lookup": {
-     "english": "",
+     "english": "a shape with three straight sides",
      "chinese": "三角形"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "trick",
     "answer": "trick",
     "pos": "n.",
-    "definition": "",
+    "definition": "something you do to fool someone for fun",
     "chinese": "把戲，詭計",
     "sentence": "He played a __________ on his brother.",
     "translation": "他對弟弟耍了個把戲。",
     "lookup": {
-     "english": "",
+     "english": "something you do to fool someone for fun",
      "chinese": "把戲，詭計"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "troop",
     "answer": "troops",
     "pos": "n.",
-    "definition": "",
+    "definition": "soldiers in a large group",
     "chinese": "部隊，軍隊",
     "sentence": "The __________ were deployed to the front line.",
     "translation": "部隊被派往前線。",
     "lookup": {
-     "english": "",
+     "english": "soldiers in a large group",
      "chinese": "部隊，軍隊"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "tropical",
     "answer": "tropical",
     "pos": "adj.",
-    "definition": "",
+    "definition": "from or in the hottest parts of the world",
     "chinese": "熱帶的，炎熱的",
     "sentence": "They went on a vacation to a __________ island.",
     "translation": "他們去了一個熱帶島嶼度假。",
     "lookup": {
-     "english": "",
+     "english": "from or in the hottest parts of the world",
      "chinese": "熱帶的，炎熱的"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "trousers",
     "answer": "trousers",
     "pos": "n.",
-    "definition": "",
+    "definition": "clothing that covers your legs; pants",
     "chinese": "褲子，長褲",
     "sentence": "He bought a new pair of __________.",
     "translation": "他買了一條新褲子。",
     "lookup": {
-     "english": "",
+     "english": "clothing that covers your legs; pants",
      "chinese": "褲子，長褲"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "trust",
     "answer": "trusts",
     "pos": "v.",
-    "definition": "",
+    "definition": "to believe that someone is good and honest",
     "chinese": "信任，依賴",
     "sentence": "She __________ him completely.",
     "translation": "她完全信任他。",
     "lookup": {
-     "english": "",
+     "english": "to believe that someone is good and honest",
      "chinese": "信任，依賴"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "truth",
     "answer": "truth",
     "pos": "n.",
-    "definition": "",
+    "definition": "what is true; the real facts",
     "chinese": "真相，事實",
     "sentence": "She always tells the __________.",
     "translation": "她總是說實話。",
     "lookup": {
-     "english": "",
+     "english": "what is true; the real facts",
      "chinese": "真相，事實"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "T-shirt",
     "answer": "T-shirt",
     "pos": "n.",
-    "definition": "",
+    "definition": "a shirt with short sleeves and no buttons",
     "chinese": "T恤衫",
     "sentence": "He wore a white __________.",
     "translation": "他穿了一件白色T恤衫。",
     "lookup": {
-     "english": "",
+     "english": "a shirt with short sleeves and no buttons",
      "chinese": "T恤衫"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "tub",
     "answer": "tub",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big container that you fill with water to wash your body",
     "chinese": "浴缸，桶",
     "sentence": "She filled the __________ with water.",
     "translation": "她把浴缸裝滿了水。",
     "lookup": {
-     "english": "",
+     "english": "a big container that you fill with water to wash your body",
      "chinese": "浴缸，桶"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "turkey",
     "answer": "turkey",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big farm bird that people eat at Thanksgiving",
     "chinese": "火雞",
     "sentence": "They cooked a __________ for Thanksgiving.",
     "translation": "他們為感恩節做了一隻火雞。",
     "lookup": {
-     "english": "",
+     "english": "a big farm bird that people eat at Thanksgiving",
      "chinese": "火雞"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "turtle",
     "answer": "turtle",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal with a hard shell on its back that moves slowly",
     "chinese": "烏龜",
     "sentence": "The __________ swam slowly in the pond.",
     "translation": "烏龜在池塘裡慢慢游泳。",
     "lookup": {
-     "english": "",
+     "english": "an animal with a hard shell on its back that moves slowly",
      "chinese": "烏龜"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "ugly",
     "answer": "ugly",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not nice to look at",
     "chinese": "醜陋的，難看的",
     "sentence": "The building is very __________.",
     "translation": "這棟建築很醜陋。",
     "lookup": {
-     "english": "",
+     "english": "not nice to look at",
      "chinese": "醜陋的，難看的"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "umbrella",
     "answer": "umbrella",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing you hold over your head to stay dry in the rain",
     "chinese": "雨傘",
     "sentence": "She took an __________ because it was raining.",
     "translation": "她帶了一把雨傘，因為下雨了。",
     "lookup": {
-     "english": "",
+     "english": "a thing you hold over your head to stay dry in the rain",
      "chinese": "雨傘"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"aims":["","瞄準，目標"],"barked":["","吠叫"],"bitter":["","苦的，痛苦的"],"licked":["","舔"],"male":["","男性的"],"overweight":["","超重的，過重的"],"produces":["","生產，製造"],"soft":["","柔軟的，溫和的"],"trade":["","貿易，交易"],"tradition":["","傳統，慣例"],"traffic":["","交通，車流"],"train":["","火車，訓練"],"trap":["","陷阱，圈套"],"treasure":["","財寶，珍寶"],"treated":["","對待，治療"],"triangle":["","三角形"],"trick":["","把戲，詭計"],"troops":["","部隊，軍隊"],"tropical":["","熱帶的，炎熱的"],"trousers":["","褲子，長褲"],"trusts":["","信任，依賴"],"truth":["","真相，事實"],"t-shirt":["","T恤衫"],"tub":["","浴缸，桶"],"turkey":["","火雞"],"turtle":["","烏龜"],"ugly":["","醜陋的，難看的"],"umbrella":["","雨傘"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"aims":["to try or plan to do something","瞄準，目標"],"barked":["(of a dog) to make a short loud sound","吠叫"],"bitter":["having a strong taste that is not sweet, like black coffee","苦的，痛苦的"],"licked":["to move your tongue over something","舔"],"male":["being a man or a boy","男性的"],"overweight":["too heavy or fat","超重的，過重的"],"produces":["to make or grow something","生產，製造"],"soft":["not hard; nice to touch","柔軟的，溫和的"],"trade":["buying and selling things between people or countries","貿易，交易"],"tradition":["something that a family or group has done for a long time","傳統，慣例"],"traffic":["all the cars, buses, and motorcycles moving on the roads","交通，車流"],"train":["a line of cars that moves along rails and carries people","火車，訓練"],"trap":["a thing for catching animals","陷阱，圈套"],"treasure":["gold, silver, and other things that are worth a lot of money","財寶，珍寶"],"treated":["to pay for someone's food or drink","對待，治療"],"triangle":["a shape with three straight sides","三角形"],"trick":["something you do to fool someone for fun","把戲，詭計"],"troops":["soldiers in a large group","部隊，軍隊"],"tropical":["from or in the hottest parts of the world","熱帶的，炎熱的"],"trousers":["clothing that covers your legs; pants","褲子，長褲"],"trusts":["to believe that someone is good and honest","信任，依賴"],"truth":["what is true; the real facts","真相，事實"],"t-shirt":["a shirt with short sleeves and no buttons","T恤衫"],"tub":["a big container that you fill with water to wash your body","浴缸，桶"],"turkey":["a big farm bird that people eat at Thanksgiving","火雞"],"turtle":["an animal with a hard shell on its back that moves slowly","烏龜"],"ugly":["not nice to look at","醜陋的，難看的"],"umbrella":["a thing you hold over your head to stay dry in the rain","雨傘"]});

@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "heater",
     "answer": "heater",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine that makes a room warm",
     "chinese": "加熱器，暖氣",
     "sentence": "The room was warm thanks to the __________.",
     "translation": "由於暖氣房間很暖和。",
     "lookup": {
-     "english": "",
+     "english": "a machine that makes a room warm",
      "chinese": "加熱器，暖氣"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "helicopter",
     "answer": "helicopter",
     "pos": "n.",
-    "definition": "",
+    "definition": "a flying machine with big blades that turn on top",
     "chinese": "直升機",
     "sentence": "They were rescued by a __________.",
     "translation": "他們被直升機救了。",
     "lookup": {
-     "english": "",
+     "english": "a flying machine with big blades that turn on top",
      "chinese": "直升機"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "hero",
     "answer": "hero",
     "pos": "n.",
-    "definition": "",
+    "definition": "a brave person that many people love and respect",
     "chinese": "英雄",
     "sentence": "He is considered a national __________.",
     "translation": "他被認為是國家的英雄。",
     "lookup": {
-     "english": "",
+     "english": "a brave person that many people love and respect",
      "chinese": "英雄"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "highway",
     "answer": "highway",
     "pos": "n.",
-    "definition": "",
+    "definition": "a wide road for cars to travel fast between cities",
     "chinese": "高速公路",
     "sentence": "They drove along the __________.",
     "translation": "他們沿著高速公路駕車。",
     "lookup": {
-     "english": "",
+     "english": "a wide road for cars to travel fast between cities",
      "chinese": "高速公路"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "hip",
     "answer": "hip",
     "pos": "n.",
-    "definition": "",
+    "definition": "the side of your body between your waist and the top of your leg",
     "chinese": "臀部，髖部",
     "sentence": "She has a tattoo on her __________.",
     "translation": "她的臀部有一個刺青。",
     "lookup": {
-     "english": "",
+     "english": "the side of your body between your waist and the top of your leg",
      "chinese": "臀部，髖部"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "hippo",
     "answer": "hippo",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big, heavy animal with short legs that lives in rivers in Africa",
     "chinese": "河馬",
     "sentence": "They saw a __________ at the zoo.",
     "translation": "他們在動物園看到了一隻河馬。",
     "lookup": {
-     "english": "",
+     "english": "a big, heavy animal with short legs that lives in rivers in Africa",
      "chinese": "河馬"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "hire",
     "answer": "hire",
     "pos": "v.",
-    "definition": "",
+    "definition": "to give someone a job",
     "chinese": "雇用",
     "sentence": "The company plans to __________ new employees.",
     "translation": "公司計劃雇用新員工。",
     "lookup": {
-     "english": "",
+     "english": "to give someone a job",
      "chinese": "雇用"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "hole",
     "answer": "hole",
     "pos": "n.",
-    "definition": "",
+    "definition": "an empty space or opening in something",
     "chinese": "洞，孔",
     "sentence": "There is a __________ in the wall.",
     "translation": "牆上有一個洞。",
     "lookup": {
-     "english": "",
+     "english": "an empty space or opening in something",
      "chinese": "洞，孔"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "homesick",
     "answer": "homesick",
     "pos": "adj.",
-    "definition": "",
+    "definition": "sad because you are away from home",
     "chinese": "想家的",
     "sentence": "She felt __________ during her first week at college.",
     "translation": "她在大學的第一周感到想家。",
     "lookup": {
-     "english": "",
+     "english": "sad because you are away from home",
      "chinese": "想家的"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "honesty",
     "answer": "Honesty",
     "pos": "n.",
-    "definition": "",
+    "definition": "always telling the truth",
     "chinese": "誠實",
     "sentence": "__________ is the best policy.",
     "translation": "誠實是最好的政策。",
     "lookup": {
-     "english": "",
+     "english": "always telling the truth",
      "chinese": "誠實"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "hop",
     "answer": "hopped",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move by making short, quick jumps",
     "chinese": "跳躍，單腳跳",
     "sentence": "The rabbit __________ away quickly.",
     "translation": "兔子迅速跳走了。",
     "lookup": {
-     "english": "",
+     "english": "to move by making short, quick jumps",
      "chinese": "跳躍，單腳跳"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "horrible",
     "answer": "horrible",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very bad",
     "chinese": "可怕的，糟糕的",
     "sentence": "It was a __________ experience.",
     "translation": "這是一個可怕的經歷。",
     "lookup": {
-     "english": "",
+     "english": "very bad",
      "chinese": "可怕的，糟糕的"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "host",
     "answer": "host",
     "pos": "n.",
-    "definition": "",
+    "definition": "the person who invites guests to a party",
     "chinese": "主人，主持人",
     "sentence": "He was the __________ of the party.",
     "translation": "他是派對的主人。",
     "lookup": {
-     "english": "",
+     "english": "the person who invites guests to a party",
      "chinese": "主人，主持人"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "housework",
     "answer": "housework",
     "pos": "n.",
-    "definition": "",
+    "definition": "work at home like cleaning, washing, and cooking",
     "chinese": "家務",
     "sentence": "She spends her weekends doing __________.",
     "translation": "她周末做家務。",
     "lookup": {
-     "english": "",
+     "english": "work at home like cleaning, washing, and cooking",
      "chinese": "家務"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "hug",
     "answer": "hug",
     "pos": "v.",
-    "definition": "",
+    "definition": "holding someone in your arms to show love",
     "chinese": "擁抱",
     "sentence": "She gave him a warm __________.",
     "translation": "她給了他一個溫暖的擁抱。",
     "lookup": {
-     "english": "",
+     "english": "holding someone in your arms to show love",
      "chinese": "擁抱"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "human",
     "answer": "human",
     "pos": "adj.",
-    "definition": "",
+    "definition": "of people; that all people have",
     "chinese": "人類的，人性的",
     "sentence": "It is __________ nature to make mistakes.",
     "translation": "犯錯是人之常情。",
     "lookup": {
-     "english": "",
+     "english": "of people; that all people have",
      "chinese": "人類的，人性的"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "humble",
     "answer": "humble",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not thinking or saying that you are better than others",
     "chinese": "謙虛的，卑微的",
     "sentence": "He is very __________ about his achievements.",
     "translation": "他對自己的成就非常謙虛。",
     "lookup": {
-     "english": "",
+     "english": "not thinking or saying that you are better than others",
      "chinese": "謙虛的，卑微的"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "humid",
     "answer": "humid",
     "pos": "adj.",
-    "definition": "",
+    "definition": "(of weather) warm and wet",
     "chinese": "潮濕的，濕熱的",
     "sentence": "The weather is very __________ today.",
     "translation": "今天的天氣非常潮濕。",
     "lookup": {
-     "english": "",
+     "english": "(of weather) warm and wet",
      "chinese": "潮濕的，濕熱的"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "humor",
     "answer": "humor",
     "pos": "n.",
-    "definition": "",
+    "definition": "being able to see or say what is funny",
     "chinese": "幽默",
     "sentence": "He has a great sense of __________.",
     "translation": "他很有幽默感。",
     "lookup": {
-     "english": "",
+     "english": "being able to see or say what is funny",
      "chinese": "幽默"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "humorous",
     "answer": "humorous",
     "pos": "adj.",
-    "definition": "",
+    "definition": "funny; making people laugh",
     "chinese": "幽默的",
     "sentence": "She told a very __________ story.",
     "translation": "她講了一個非常幽默的故事。",
     "lookup": {
-     "english": "",
+     "english": "funny; making people laugh",
      "chinese": "幽默的"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"create":["","創造"],"excited":["","使興奮，使激動"],"heater":["","加熱器，暖氣"],"helicopter":["","直升機"],"hero":["","英雄"],"highway":["","高速公路"],"hip":["","臀部，髖部"],"hippo":["","河馬"],"hire":["","雇用"],"hole":["","洞，孔"],"homesick":["","想家的"],"honesty":["","誠實"],"hopped":["","跳躍，單腳跳"],"horrible":["","可怕的，糟糕的"],"host":["","主人，主持人"],"housework":["","家務"],"hug":["","擁抱"],"human":["","人類的，人性的"],"humble":["","謙虛的，卑微的"],"humid":["","潮濕的，濕熱的"],"humor":["","幽默"],"humorous":["","幽默的"],"skate":["","滑冰，溜冰"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"create":["to make something new","創造"],"excited":["to make someone feel very happy and interested","使興奮，使激動"],"heater":["a machine that makes a room warm","加熱器，暖氣"],"helicopter":["a flying machine with big blades that turn on top","直升機"],"hero":["a brave person that many people love and respect","英雄"],"highway":["a wide road for cars to travel fast between cities","高速公路"],"hip":["the side of your body between your waist and the top of your leg","臀部，髖部"],"hippo":["a big, heavy animal with short legs that lives in rivers in Africa","河馬"],"hire":["to give someone a job","雇用"],"hole":["an empty space or opening in something","洞，孔"],"homesick":["sad because you are away from home","想家的"],"honesty":["always telling the truth","誠實"],"hopped":["to move by making short, quick jumps","跳躍，單腳跳"],"horrible":["very bad","可怕的，糟糕的"],"host":["the person who invites guests to a party","主人，主持人"],"housework":["work at home like cleaning, washing, and cooking","家務"],"hug":["holding someone in your arms to show love","擁抱"],"human":["of people; that all people have","人類的，人性的"],"humble":["not thinking or saying that you are better than others","謙虛的，卑微的"],"humid":["(of weather) warm and wet","潮濕的，濕熱的"],"humor":["being able to see or say what is funny","幽默"],"humorous":["funny; making people laugh","幽默的"],"skate":["to move on ice wearing special shoes","滑冰，溜冰"]});

@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "hello",
     "pos": "int.",
     "cn_def": "哈囉；你好",
-    "en_def": "",
+    "en_def": "a word you say when you meet someone or answer the phone",
     "sentence": "Q: What does Amy say when she answers the phone? — A: She says, \"{{BLANK}}, this is Amy speaking.\"",
     "cn": "艾美接電話時說什麼？ — 她說：「哈囉，我是艾美。」"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "hi",
     "pos": "int.",
     "cn_def": "嗨",
-    "en_def": "",
+    "en_def": "a friendly, short way to say hello",
     "sentence": "Q: {{BLANK}}, Ben! Do you go to this school, too? — A: Yes, I do. I'm in Class 7. Nice to meet you.",
     "cn": "嗨，班！你也讀這所學校嗎？ — 是的，我在七班。很高興認識你。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "hey",
     "pos": "int.",
     "cn_def": "嘿",
-    "en_def": "",
+    "en_def": "a word you say to get someone's attention",
     "sentence": "Q: {{BLANK}}, Tom! Does your brother want to play basketball with us? — A: Yes, he does. Thank you! He's coming now.",
     "cn": "嘿，湯姆！你哥哥想跟我們一起打籃球嗎？ — 是的，他想。謝謝！他現在就來。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "good-bye (goodbye, bye)",
     "pos": "int.",
     "cn_def": "再見",
-    "en_def": "",
+    "en_def": "a word you say when you leave someone",
     "sentence": "Q: What do you say to your teacher after school? — A: I say, \"{{BLANK}}, Ms. Wang. See you tomorrow!\"",
     "cn": "放學後你跟老師說什麼？ — 我說：「再見，王老師。明天見！」",
     "alts": [
@@ -98,22 +98,22 @@ const MCQS = [
 const LOOKUP = {
   "hello": {
     "pos": "int.",
-    "en_def": "",
+    "en_def": "a word you say when you meet someone or answer the phone",
     "cn_def": "哈囉；你好"
   },
   "hi": {
     "pos": "int.",
-    "en_def": "",
+    "en_def": "a friendly, short way to say hello",
     "cn_def": "嗨"
   },
   "hey": {
     "pos": "int.",
-    "en_def": "",
+    "en_def": "a word you say to get someone's attention",
     "cn_def": "嘿"
   },
   "good-bye": {
     "pos": "int.",
-    "en_def": "",
+    "en_def": "a word you say when you leave someone",
     "cn_def": "再見"
   }
 };

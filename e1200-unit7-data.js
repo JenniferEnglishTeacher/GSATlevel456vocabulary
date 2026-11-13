@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "one",
     "pos": "num.",
     "cn_def": "一",
-    "en_def": "",
+    "en_def": "the number 1",
     "sentence": "Q: How many noses are there on your face? — A: There is only {{BLANK}} nose.",
     "cn": "你臉上有幾個鼻子？ — 只有一個鼻子。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "two",
     "pos": "num.",
     "cn_def": "二",
-    "en_def": "",
+    "en_def": "the number 2",
     "sentence": "Q: How many eyes are there on your face? — A: There are {{BLANK}} eyes.",
     "cn": "你臉上有幾隻眼睛？ — 有兩隻眼睛。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "three",
     "pos": "num.",
     "cn_def": "三",
-    "en_def": "",
+    "en_def": "the number 3",
     "sentence": "Q: How many people are there in your family? — A: There are {{BLANK}}: my dad, my mom and me.",
     "cn": "你家有幾個人？ — 有三個：我爸爸、我媽媽和我。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "four",
     "pos": "num.",
     "cn_def": "四",
-    "en_def": "",
+    "en_def": "the number 4",
     "sentence": "Q: How many seasons are there in a year? — A: There are {{BLANK}} seasons.",
     "cn": "一年有幾個季節？ — 有四個季節。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "five",
     "pos": "num.",
     "cn_def": "五",
-    "en_def": "",
+    "en_def": "the number 5",
     "sentence": "Q: How many fingers are there on one hand? — A: There are {{BLANK}} fingers.",
     "cn": "一隻手上有幾根手指？ — 有五根手指。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "seven",
     "pos": "num.",
     "cn_def": "七",
-    "en_def": "",
+    "en_def": "the number 7",
     "sentence": "Q: How many days are there in a week? — A: There are {{BLANK}} days.",
     "cn": "一個星期有幾天？ — 有七天。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "eight",
     "pos": "num.",
     "cn_def": "八",
-    "en_def": "",
+    "en_def": "the number 8",
     "sentence": "Q: How many legs are there on a spider? — A: There are {{BLANK}} legs.",
     "cn": "一隻蜘蛛有幾隻腳？ — 有八隻腳。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "ten",
     "pos": "num.",
     "cn_def": "十",
-    "en_def": "",
+    "en_def": "the number 10",
     "sentence": "Q: How many fingers are there on your two hands? — A: There are {{BLANK}} fingers.",
     "cn": "你的兩隻手上有幾根手指？ — 有十根手指。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "twelve",
     "pos": "num.",
     "cn_def": "十二",
-    "en_def": "",
+    "en_def": "the number 12",
     "sentence": "Q: How many months are there in a year? — A: There are {{BLANK}} months.",
     "cn": "一年有幾個月？ — 有十二個月。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "twenty",
     "pos": "num.",
     "cn_def": "二十",
-    "en_def": "",
+    "en_def": "the number 20",
     "sentence": "Q: How many students are there in your class? — A: There are {{BLANK}} students: ten boys and ten girls.",
     "cn": "你們班上有幾個學生？ — 有二十個學生：十個男生和十個女生。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "thirty",
     "pos": "num.",
     "cn_def": "三十",
-    "en_def": "",
+    "en_def": "the number 30",
     "sentence": "Q: How many days are there in June? — A: There are {{BLANK}} days.",
     "cn": "六月有幾天？ — 有三十天。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "sixty",
     "pos": "num.",
     "cn_def": "六十",
-    "en_def": "",
+    "en_def": "the number 60",
     "sentence": "Q: How many minutes are there in an hour? — A: There are {{BLANK}} minutes.",
     "cn": "一小時有幾分鐘？ — 有六十分鐘。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "hundred",
     "pos": "num.",
     "cn_def": "百",
-    "en_def": "",
+    "en_def": "the number 100",
     "sentence": "Q: How many pages are there in your English book? — A: There are one {{BLANK}} pages.",
     "cn": "你的英文書有幾頁？ — 有一百頁。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "thousand",
     "pos": "num.",
     "cn_def": "千",
-    "en_def": "",
+    "en_def": "the number 1,000",
     "sentence": "Q: How many students are there in your school? — A: There are two {{BLANK}} students. It's a big school.",
     "cn": "你們學校有多少學生？ — 有兩千個學生，這是一所大學校。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "million",
     "pos": "num.",
     "cn_def": "百萬",
-    "en_def": "",
+    "en_def": "the number 1,000,000",
     "sentence": "Q: How many people are there in Taipei? — A: There are more than two {{BLANK}} people.",
     "cn": "台北有多少人？ — 有超過兩百萬人。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "six",
     "pos": "num.",
     "cn_def": "六",
-    "en_def": "",
+    "en_def": "the number 6",
     "sentence": "Q: How old is your little brother? — A: He is {{BLANK}} years old. He goes to elementary school.",
     "cn": "你弟弟幾歲？ — 他六歲，他上小學。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "nine",
     "pos": "num.",
     "cn_def": "九",
-    "en_def": "",
+    "en_def": "the number 9",
     "sentence": "Q: How old is Amy's cat? — A: It is {{BLANK}} years old. It's an old cat.",
     "cn": "艾美的貓幾歲？ — 牠九歲了，牠是一隻老貓。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "eleven",
     "pos": "num.",
     "cn_def": "十一",
-    "en_def": "",
+    "en_def": "the number 11",
     "sentence": "Q: How old are Ben and Lily? — A: They are {{BLANK}} years old. They are in the same class.",
     "cn": "班和莉莉幾歲？ — 他們十一歲，他們同班。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "thirteen",
     "pos": "num.",
     "cn_def": "十三",
-    "en_def": "",
+    "en_def": "the number 13",
     "sentence": "Q: How old are you? — A: I am {{BLANK}} years old. I'm in junior high school.",
     "cn": "你幾歲？ — 我十三歲，我讀國中。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "fourteen",
     "pos": "num.",
     "cn_def": "十四",
-    "en_def": "",
+    "en_def": "the number 14",
     "sentence": "Q: How old is your cousin? — A: She is {{BLANK}}. She is one year older than me.",
     "cn": "你表姊幾歲？ — 她十四歲，她比我大一歲。"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "fifteen",
     "pos": "num.",
     "cn_def": "十五",
-    "en_def": "",
+    "en_def": "the number 15",
     "sentence": "Q: How old is Tom? — A: He is {{BLANK}} years old. He is a teenager.",
     "cn": "湯姆幾歲？ — 他十五歲，他是青少年。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "sixteen",
     "pos": "num.",
     "cn_def": "十六",
-    "en_def": "",
+    "en_def": "the number 16",
     "sentence": "Q: How old is your sister? — A: She is {{BLANK}}. She goes to senior high school.",
     "cn": "你姊姊幾歲？ — 她十六歲，她讀高中。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "eighteen",
     "pos": "num.",
     "cn_def": "十八",
-    "en_def": "",
+    "en_def": "the number 18",
     "sentence": "Q: How old is your brother? — A: He is {{BLANK}} years old. He can drive a car now.",
     "cn": "你哥哥幾歲？ — 他十八歲，他現在可以開車了。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "nineteen",
     "pos": "num.",
     "cn_def": "十九",
-    "en_def": "",
+    "en_def": "the number 19",
     "sentence": "Q: How old is Mary? — A: She is {{BLANK}}. She will be twenty next year.",
     "cn": "瑪麗幾歲？ — 她十九歲，她明年就二十歲了。"
   },
@@ -202,7 +202,7 @@ const VOCAB = [
     "word": "forty",
     "pos": "num.",
     "cn_def": "四十",
-    "en_def": "",
+    "en_def": "the number 40",
     "sentence": "Q: How old is your father? — A: He is {{BLANK}} years old. He looks young.",
     "cn": "你爸爸幾歲？ — 他四十歲，他看起來很年輕。"
   },
@@ -210,7 +210,7 @@ const VOCAB = [
     "word": "seventy",
     "pos": "num.",
     "cn_def": "七十",
-    "en_def": "",
+    "en_def": "the number 70",
     "sentence": "Q: How old is your grandfather? — A: He is {{BLANK}} years old, but he is still strong.",
     "cn": "你爺爺幾歲？ — 他七十歲，但他還是很強壯。"
   },
@@ -218,7 +218,7 @@ const VOCAB = [
     "word": "eighty",
     "pos": "num.",
     "cn_def": "八十",
-    "en_def": "",
+    "en_def": "the number 80",
     "sentence": "Q: How old is your grandmother? — A: She is {{BLANK}} years old. She walks slowly.",
     "cn": "你奶奶幾歲？ — 她八十歲，她走路很慢。"
   },
@@ -226,7 +226,7 @@ const VOCAB = [
     "word": "ninety",
     "pos": "num.",
     "cn_def": "九十",
-    "en_def": "",
+    "en_def": "the number 90",
     "sentence": "Q: How old is that old man? — A: He is {{BLANK}} years old. He lives next to us.",
     "cn": "那位老先生幾歲？ — 他九十歲，他住在我們隔壁。"
   },
@@ -234,7 +234,7 @@ const VOCAB = [
     "word": "zero",
     "pos": "num.",
     "cn_def": "零",
-    "en_def": "",
+    "en_def": "the number 0",
     "sentence": "Q: What's five minus five? — A: It's {{BLANK}}.",
     "cn": "五減五是多少？ — 是零。"
   },
@@ -242,7 +242,7 @@ const VOCAB = [
     "word": "seventeen",
     "pos": "num.",
     "cn_def": "十七",
-    "en_def": "",
+    "en_def": "the number 17",
     "sentence": "Q: What's ten plus seven? — A: It's {{BLANK}}.",
     "cn": "十加七是多少？ — 是十七。"
   },
@@ -250,7 +250,7 @@ const VOCAB = [
     "word": "fifty",
     "pos": "num.",
     "cn_def": "五十",
-    "en_def": "",
+    "en_def": "the number 50",
     "sentence": "Q: What's twenty plus thirty? — A: It's {{BLANK}}.",
     "cn": "二十加三十是多少？ — 是五十。"
   },
@@ -258,7 +258,7 @@ const VOCAB = [
     "word": "number",
     "pos": "n.",
     "cn_def": "數字；號碼",
-    "en_def": "",
+    "en_def": "a word or sign like 1, 2, or 3 that shows how many",
     "sentence": "Q: What's nine plus four? — A: It's thirteen. It's my lucky {{BLANK}}!",
     "cn": "九加四是多少？ — 是十三，那是我的幸運數字！"
   },
@@ -266,7 +266,7 @@ const VOCAB = [
     "word": "total",
     "pos": "n.",
     "cn_def": "總數；總計",
-    "en_def": "",
+    "en_def": "the whole number when you add everything together",
     "sentence": "Q: What's two hundred plus three hundred? — A: It's five hundred. The {{BLANK}} is five hundred dollars.",
     "cn": "兩百加三百是多少？ — 是五百，總共是五百元。"
   },
@@ -274,7 +274,7 @@ const VOCAB = [
     "word": "first",
     "pos": "num.",
     "cn_def": "第一（的）",
-    "en_def": "",
+    "en_def": "coming before all the others; number 1 in order",
     "sentence": "Q: Which floor does your grandma live on? — A: She lives on the {{BLANK}} floor. She can't walk up the stairs.",
     "cn": "你奶奶住幾樓？ — 她住一樓，她不能爬樓梯。"
   },
@@ -282,7 +282,7 @@ const VOCAB = [
     "word": "second",
     "pos": "num.",
     "cn_def": "第二（的）",
-    "en_def": "",
+    "en_def": "coming after the first; number 2 in order",
     "sentence": "Q: Which floor do you live on? — A: I live on the {{BLANK}} floor.",
     "cn": "你住幾樓？ — 我住二樓。"
   },
@@ -290,7 +290,7 @@ const VOCAB = [
     "word": "third",
     "pos": "num.",
     "cn_def": "第三（的）",
-    "en_def": "",
+    "en_def": "coming after the second; number 3 in order",
     "sentence": "Q: Which floor do Ben and his parents live on? — A: They live on the {{BLANK}} floor.",
     "cn": "班和他的父母住幾樓？ — 他們住三樓。"
   },
@@ -298,7 +298,7 @@ const VOCAB = [
     "word": "fourth",
     "pos": "num.",
     "cn_def": "第四（的）",
-    "en_def": "",
+    "en_def": "coming after the third; number 4 in order",
     "sentence": "Q: Which floor does Tom live on? — A: He lives on the {{BLANK}} floor, above us.",
     "cn": "湯姆住幾樓？ — 他住四樓，在我們樓上。"
   },
@@ -306,7 +306,7 @@ const VOCAB = [
     "word": "fifth",
     "pos": "num.",
     "cn_def": "第五（的）",
-    "en_def": "",
+    "en_def": "coming after the fourth; number 5 in order",
     "sentence": "Q: Which floor do your cousins live on? — A: They live on the {{BLANK}} floor.",
     "cn": "你的表兄弟姊妹住幾樓？ — 他們住五樓。"
   },
@@ -314,7 +314,7 @@ const VOCAB = [
     "word": "eighth",
     "pos": "num.",
     "cn_def": "第八（的）",
-    "en_def": "",
+    "en_def": "coming after the seventh; number 8 in order",
     "sentence": "Q: Which floor does your uncle work on? — A: He works on the {{BLANK}} floor of that building.",
     "cn": "你叔叔在幾樓上班？ — 他在那棟大樓的八樓上班。"
   },
@@ -322,7 +322,7 @@ const VOCAB = [
     "word": "ninth",
     "pos": "num.",
     "cn_def": "第九（的）",
-    "en_def": "",
+    "en_def": "coming after the eighth; number 9 in order",
     "sentence": "Q: Which floor do you and your family live on? — A: We live on the {{BLANK}} floor. We can see the park.",
     "cn": "你和你的家人住幾樓？ — 我們住九樓，我們可以看到公園。"
   },
@@ -330,7 +330,7 @@ const VOCAB = [
     "word": "eleventh",
     "pos": "num.",
     "cn_def": "第十一（的）",
-    "en_def": "",
+    "en_def": "coming after the tenth; number 11 in order",
     "sentence": "Q: When does Amy have her birthday party? — A: She has it on the {{BLANK}} of May.",
     "cn": "艾美什麼時候辦生日派對？ — 她在五月十一日辦。"
   },
@@ -338,7 +338,7 @@ const VOCAB = [
     "word": "fourteenth",
     "pos": "num.",
     "cn_def": "第十四（的）",
-    "en_def": "",
+    "en_def": "coming after the thirteenth; number 14 in order",
     "sentence": "Q: What's the date today? — A: It's the {{BLANK}} of February.",
     "cn": "今天幾月幾日？ — 今天是二月十四日。"
   },
@@ -346,7 +346,7 @@ const VOCAB = [
     "word": "fifteenth",
     "pos": "num.",
     "cn_def": "第十五（的）",
-    "en_def": "",
+    "en_def": "coming after the fourteenth; number 15 in order",
     "sentence": "Q: When do the students have the English test? — A: They have it on the {{BLANK}} of June.",
     "cn": "學生們什麼時候考英文？ — 他們六月十五日考。"
   },
@@ -354,7 +354,7 @@ const VOCAB = [
     "word": "nineteenth",
     "pos": "num.",
     "cn_def": "第十九（的）",
-    "en_def": "",
+    "en_def": "coming after the eighteenth; number 19 in order",
     "sentence": "Q: When does your brother come home from America? — A: He comes home on the {{BLANK}} of July.",
     "cn": "你哥哥什麼時候從美國回家？ — 他七月十九日回家。"
   },
@@ -362,7 +362,7 @@ const VOCAB = [
     "word": "last",
     "pos": "adj.",
     "cn_def": "最後的",
-    "en_def": "",
+    "en_def": "coming after all the others",
     "sentence": "Q: When do we have the school party? — A: We have it on the {{BLANK}} day of this month.",
     "cn": "我們什麼時候辦學校派對？ — 我們在這個月的最後一天辦。"
   },
@@ -370,7 +370,7 @@ const VOCAB = [
     "word": "many",
     "pos": "adj.",
     "cn_def": "許多的（可數）",
-    "en_def": "",
+    "en_def": "a large number of (things you can count)",
     "sentence": "Q: How many friends does Amy have? — A: She has {{BLANK}} friends. She is very friendly.",
     "cn": "艾美有幾個朋友？ — 她有很多朋友，她很友善。"
   },
@@ -378,7 +378,7 @@ const VOCAB = [
     "word": "a lot (of)",
     "pos": "phr.",
     "cn_def": "許多的",
-    "en_def": "",
+    "en_def": "a large number or amount of",
     "sentence": "Q: How many books do your parents have? — A: They have {{BLANK}} books. They love reading.",
     "cn": "你的父母有多少書？ — 他們有很多書，他們很愛閱讀。",
     "nblanks": 3
@@ -387,7 +387,7 @@ const VOCAB = [
     "word": "much",
     "pos": "adj.",
     "cn_def": "許多的（不可數）",
-    "en_def": "",
+    "en_def": "a large amount of (something you cannot count)",
     "sentence": "Q: How much time do you have today? — A: I don't have {{BLANK}} time. I have a test tomorrow.",
     "cn": "你今天有多少時間？ — 我沒有很多時間，我明天有考試。"
   },
@@ -395,7 +395,7 @@ const VOCAB = [
     "word": "several",
     "pos": "adj.",
     "cn_def": "幾個的",
-    "en_def": "",
+    "en_def": "more than two but not many",
     "sentence": "Q: How many friends do you have in Tainan? — A: I have {{BLANK}} friends there.",
     "cn": "你在台南有幾個朋友？ — 我在那裡有幾個朋友。"
   },
@@ -403,7 +403,7 @@ const VOCAB = [
     "word": "some",
     "pos": "adj.",
     "cn_def": "一些",
-    "en_def": "",
+    "en_def": "a number or amount of something, not all",
     "sentence": "Q: How much water do you want? — A: I want {{BLANK}} water. I'm thirsty.",
     "cn": "你想要多少水？ — 我想要一些水，我口渴了。"
   },
@@ -411,7 +411,7 @@ const VOCAB = [
     "word": "a few",
     "pos": "phr.",
     "cn_def": "一些；幾個（可數）",
-    "en_def": "",
+    "en_def": "a small number of (things you can count)",
     "sentence": "Q: How many apples do we have? — A: We only have {{BLANK}} apples. Let's buy some more.",
     "cn": "我們有幾顆蘋果？ — 我們只有幾顆蘋果，我們再買一些吧。",
     "nblanks": 2
@@ -420,7 +420,7 @@ const VOCAB = [
     "word": "a little",
     "pos": "phr.",
     "cn_def": "一點點（不可數）",
-    "en_def": "",
+    "en_def": "a small amount of (something you cannot count)",
     "sentence": "Q: How much milk does Ben want? — A: He wants {{BLANK}} milk, not a lot.",
     "cn": "班想要多少牛奶？ — 他想要一點點牛奶，不要很多。",
     "nblanks": 2
@@ -429,7 +429,7 @@ const VOCAB = [
     "word": "few",
     "pos": "adj.",
     "cn_def": "很少的（可數）",
-    "en_def": "",
+    "en_def": "not many",
     "sentence": "Q: How many friends does the new student have? — A: He has very {{BLANK}} friends. He feels lonely.",
     "cn": "那個新同學有幾個朋友？ — 他的朋友很少，他覺得很寂寞。"
   },
@@ -437,7 +437,7 @@ const VOCAB = [
     "word": "little",
     "pos": "adj.",
     "cn_def": "很少的（不可數）",
-    "en_def": "",
+    "en_def": "not much",
     "sentence": "Q: How much money does your brother have? — A: He has very {{BLANK}} money. He can't buy the toy.",
     "cn": "你弟弟有多少錢？ — 他的錢很少，他買不起那個玩具。"
   },
@@ -445,7 +445,7 @@ const VOCAB = [
     "word": "any",
     "pos": "adj.",
     "cn_def": "任何的",
-    "en_def": "",
+    "en_def": "one or some, no matter which; used in questions and with \"not\"",
     "sentence": "Q: How many brothers does Tim have? — A: He doesn't have {{BLANK}} brothers. He has two sisters.",
     "cn": "提姆有幾個兄弟？ — 他沒有任何兄弟，他有兩個姊妹。"
   },
@@ -453,7 +453,7 @@ const VOCAB = [
     "word": "all",
     "pos": "pron.",
     "cn_def": "全部；都",
-    "en_def": "",
+    "en_def": "every one; the whole of something",
     "sentence": "Q: Do your classmates like the new teacher? — A: Yes, they do. {{BLANK}} of them like her.",
     "cn": "你的同學喜歡新老師嗎？ — 是的，他們喜歡。他們全部都喜歡她。"
   },
@@ -461,7 +461,7 @@ const VOCAB = [
     "word": "both",
     "pos": "pron.",
     "cn_def": "兩者都",
-    "en_def": "",
+    "en_def": "the two; one and also the other",
     "sentence": "Q: Does Ken have any brothers? — A: Yes, he does. He has two, and {{BLANK}} of them play basketball.",
     "cn": "肯有兄弟嗎？ — 是的，他有。他有兩個，他們兩個都打籃球。"
   },
@@ -469,7 +469,7 @@ const VOCAB = [
     "word": "more",
     "pos": "adj.",
     "cn_def": "更多的",
-    "en_def": "",
+    "en_def": "a bigger number or amount",
     "sentence": "Q: How much rice does your dad want? — A: He wants {{BLANK}} rice. He is still hungry.",
     "cn": "你爸爸想要多少飯？ — 他想要更多飯，他還很餓。"
   },
@@ -477,7 +477,7 @@ const VOCAB = [
     "word": "less",
     "pos": "adj.",
     "cn_def": "較少的",
-    "en_def": "",
+    "en_def": "a smaller amount",
     "sentence": "Q: How much sugar do your grandparents eat now? — A: They eat {{BLANK}} sugar now. It's good for their health.",
     "cn": "你的祖父母現在吃多少糖？ — 他們現在吃比較少的糖，這對他們的健康有好處。"
   }
@@ -1197,342 +1197,342 @@ const MCQS = [
 const LOOKUP = {
   "family": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a group of people such as parents and their children",
     "cn_def": "家庭；家人"
   },
   "one": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 1",
     "cn_def": "一"
   },
   "two": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 2",
     "cn_def": "二"
   },
   "three": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 3",
     "cn_def": "三"
   },
   "four": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 4",
     "cn_def": "四"
   },
   "five": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 5",
     "cn_def": "五"
   },
   "seven": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 7",
     "cn_def": "七"
   },
   "eight": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 8",
     "cn_def": "八"
   },
   "ten": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 10",
     "cn_def": "十"
   },
   "twelve": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 12",
     "cn_def": "十二"
   },
   "twenty": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 20",
     "cn_def": "二十"
   },
   "thirty": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 30",
     "cn_def": "三十"
   },
   "sixty": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 60",
     "cn_def": "六十"
   },
   "hundred": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 100",
     "cn_def": "百"
   },
   "thousand": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 1,000",
     "cn_def": "千"
   },
   "million": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 1,000,000",
     "cn_def": "百萬"
   },
   "six": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 6",
     "cn_def": "六"
   },
   "nine": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 9",
     "cn_def": "九"
   },
   "eleven": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 11",
     "cn_def": "十一"
   },
   "thirteen": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 13",
     "cn_def": "十三"
   },
   "fourteen": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 14",
     "cn_def": "十四"
   },
   "fifteen": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 15",
     "cn_def": "十五"
   },
   "sixteen": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 16",
     "cn_def": "十六"
   },
   "eighteen": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 18",
     "cn_def": "十八"
   },
   "nineteen": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 19",
     "cn_def": "十九"
   },
   "forty": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 40",
     "cn_def": "四十"
   },
   "seventy": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 70",
     "cn_def": "七十"
   },
   "eighty": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 80",
     "cn_def": "八十"
   },
   "ninety": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 90",
     "cn_def": "九十"
   },
   "zero": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 0",
     "cn_def": "零"
   },
   "seventeen": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 17",
     "cn_def": "十七"
   },
   "fifty": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "the number 50",
     "cn_def": "五十"
   },
   "number": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a word or sign like 1, 2, or 3 that shows how many",
     "cn_def": "數字；號碼"
   },
   "total": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the whole number when you add everything together",
     "cn_def": "總數；總計"
   },
   "first": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "coming before all the others; number 1 in order",
     "cn_def": "第一（的）"
   },
   "second": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "coming after the first; number 2 in order",
     "cn_def": "第二（的）"
   },
   "third": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "coming after the second; number 3 in order",
     "cn_def": "第三（的）"
   },
   "fourth": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "coming after the third; number 4 in order",
     "cn_def": "第四（的）"
   },
   "fifth": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "coming after the fourth; number 5 in order",
     "cn_def": "第五（的）"
   },
   "eighth": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "coming after the seventh; number 8 in order",
     "cn_def": "第八（的）"
   },
   "ninth": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "coming after the eighth; number 9 in order",
     "cn_def": "第九（的）"
   },
   "eleventh": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "coming after the tenth; number 11 in order",
     "cn_def": "第十一（的）"
   },
   "fourteenth": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "coming after the thirteenth; number 14 in order",
     "cn_def": "第十四（的）"
   },
   "fifteenth": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "coming after the fourteenth; number 15 in order",
     "cn_def": "第十五（的）"
   },
   "nineteenth": {
     "pos": "num.",
-    "en_def": "",
+    "en_def": "coming after the eighteenth; number 19 in order",
     "cn_def": "第十九（的）"
   },
   "last": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "coming after all the others",
     "cn_def": "最後的"
   },
   "many": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "a large number of (things you can count)",
     "cn_def": "許多的（可數）"
   },
   "a lot of": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "a large number or amount of",
     "cn_def": "許多的"
   },
   "much": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "a large amount of (something you cannot count)",
     "cn_def": "許多的（不可數）"
   },
   "several": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "more than two but not many",
     "cn_def": "幾個的"
   },
   "some": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "a number or amount of something, not all",
     "cn_def": "一些"
   },
   "a few": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "a small number of (things you can count)",
     "cn_def": "一些；幾個（可數）"
   },
   "a little": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "a small amount of (something you cannot count)",
     "cn_def": "一點點（不可數）"
   },
   "few": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not many",
     "cn_def": "很少的（可數）"
   },
   "little": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not much",
     "cn_def": "很少的（不可數）"
   },
   "any": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "one or some, no matter which; used in questions and with \"not\"",
     "cn_def": "任何的"
   },
   "all": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "every one; the whole of something",
     "cn_def": "全部；都"
   },
   "both": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "the two; one and also the other",
     "cn_def": "兩者都"
   },
   "more": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "a bigger number or amount",
     "cn_def": "更多的"
   },
   "less": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "a smaller amount",
     "cn_def": "較少的"
   },
   "fan": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who likes a singer, a team, or a sport very much",
     "cn_def": "粉絲；狂熱愛好者"
   },
   "take the mrt": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to travel on the city's fast trains",
     "cn_def": "搭捷運"
   },
   "station": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a place where trains or buses stop for people to get on and off",
     "cn_def": "車站"
   },
   "secretary": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who answers the phone and writes letters for a boss",
     "cn_def": "秘書"
   },
   "anyone": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "any person; it does not matter who",
     "cn_def": "任何人"
   },
   "nobody": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "no person; not anyone",
     "cn_def": "沒有人"
   },
   "other": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "the second of two; the ones that are left",
     "cn_def": "其他的（人／物）"
   },
   "cheer up": {
     "pos": "phr.",
-    "en_def": "",
+    "en_def": "to become happier; to stop feeling sad",
     "cn_def": "打起精神；振作"
   }
 };

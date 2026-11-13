@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "gold",
     "answer": "gold",
     "pos": "n.",
-    "definition": "",
+    "definition": "a yellow metal that is worth a lot of money",
     "chinese": "金，黃金",
     "sentence": "The ring is made of pure __________.",
     "translation": "這枚戒指是純金製成的。",
     "lookup": {
-     "english": "",
+     "english": "a yellow metal that is worth a lot of money",
      "chinese": "金，黃金"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "golden",
     "answer": "golden",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very happy and special; having the color of gold",
     "chinese": "金色的，極好的",
     "sentence": "They spent a __________ weekend at the beach.",
     "translation": "他們在海灘度過了一個美好的週末。",
     "lookup": {
-     "english": "",
+     "english": "very happy and special; having the color of gold",
      "chinese": "金色的，極好的"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "golf",
     "answer": "golf",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game in which you hit a small white ball into holes with a long stick",
     "chinese": "高爾夫球",
     "sentence": "He enjoys playing __________ on weekends.",
     "translation": "他喜歡在週末打高爾夫球。",
     "lookup": {
-     "english": "",
+     "english": "a game in which you hit a small white ball into holes with a long stick",
      "chinese": "高爾夫球"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "government",
     "answer": "government",
     "pos": "n.",
-    "definition": "",
+    "definition": "the group of people who rule a country",
     "chinese": "政府",
     "sentence": "The __________ is working on new policies.",
     "translation": "政府正在制定新政策。",
     "lookup": {
-     "english": "",
+     "english": "the group of people who rule a country",
      "chinese": "政府"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "granddaughter",
     "answer": "granddaughter",
     "pos": "n.",
-    "definition": "",
+    "definition": "the daughter of your son or daughter",
     "chinese": "孫女",
     "sentence": "She is very proud of her __________.",
     "translation": "她為她的孫女感到自豪。",
     "lookup": {
-     "english": "",
+     "english": "the daughter of your son or daughter",
      "chinese": "孫女"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "grandson",
     "answer": "grandson",
     "pos": "n.",
-    "definition": "",
+    "definition": "the son of your son or daughter",
     "chinese": "孫子",
     "sentence": "He took his __________ fishing.",
     "translation": "他帶他的孫子去釣魚。",
     "lookup": {
-     "english": "",
+     "english": "the son of your son or daughter",
      "chinese": "孫子"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "greedy",
     "answer": "greedy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "wanting more money or food than you need",
     "chinese": "貪婪的",
     "sentence": "He is too __________ to share his wealth.",
     "translation": "他太貪婪了，不願分享他的財富。",
     "lookup": {
-     "english": "",
+     "english": "wanting more money or food than you need",
      "chinese": "貪婪的"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "greet",
     "answer": "greeted",
     "pos": "v.",
-    "definition": "",
+    "definition": "to say hello to someone",
     "chinese": "問候，迎接",
     "sentence": "She __________ everyone with a smile.",
     "translation": "她微笑著迎接每一個人。",
     "lookup": {
-     "english": "",
+     "english": "to say hello to someone",
      "chinese": "問候，迎接"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "guard",
     "answer": "guard",
     "pos": "v.",
-    "definition": "",
+    "definition": "to watch a place to keep it safe",
     "chinese": "保衛，守護",
     "sentence": "The soldiers __________ the entrance.",
     "translation": "士兵守衛著入口。",
     "lookup": {
-     "english": "",
+     "english": "to watch a place to keep it safe",
      "chinese": "保衛，守護"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "guest",
     "answer": "guest",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who is invited to a home or a show",
     "chinese": "客人",
     "sentence": "We have a special __________ tonight.",
     "translation": "我們今晚有一位特別的客人。",
     "lookup": {
-     "english": "",
+     "english": "a person who is invited to a home or a show",
      "chinese": "客人"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "guide",
     "answer": "guide",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who shows visitors around a place",
     "chinese": "導遊，指導",
     "sentence": "The tour __________ showed us around the city.",
     "translation": "導遊帶我們遊覽了城市。",
     "lookup": {
-     "english": "",
+     "english": "a person who shows visitors around a place",
      "chinese": "導遊，指導"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "gun",
     "answer": "gun",
     "pos": "n.",
-    "definition": "",
+    "definition": "a weapon that shoots bullets",
     "chinese": "槍",
     "sentence": "He was shot with a __________.",
     "translation": "他被槍擊中了。",
     "lookup": {
-     "english": "",
+     "english": "a weapon that shoots bullets",
      "chinese": "槍"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "haircut",
     "answer": "haircut",
     "pos": "n.",
-    "definition": "",
+    "definition": "when someone cuts your hair; the way your hair is cut",
     "chinese": "理髮，髮型",
     "sentence": "She got a new __________ yesterday.",
     "translation": "她昨天剪了一個新髮型。",
     "lookup": {
-     "english": "",
+     "english": "when someone cuts your hair; the way your hair is cut",
      "chinese": "理髮，髮型"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "hairdresser",
     "answer": "hairdresser",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person whose job is to cut and style hair",
     "chinese": "理髮師，美容師",
     "sentence": "She is a professional __________.",
     "translation": "她是一名專業的理髮師。",
     "lookup": {
-     "english": "",
+     "english": "a person whose job is to cut and style hair",
      "chinese": "理髮師，美容師"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "hall",
     "answer": "hall",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big room for meetings or events; the space inside the front door",
     "chinese": "大廳，走廊",
     "sentence": "They met in the main __________.",
     "translation": "他們在主大廳見面。",
     "lookup": {
-     "english": "",
+     "english": "a big room for meetings or events; the space inside the front door",
      "chinese": "大廳，走廊"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "hammer",
     "answer": "hammer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a tool with a heavy metal head for hitting nails",
     "chinese": "錘子",
     "sentence": "He used a __________ to fix the fence.",
     "translation": "他用錘子修理圍欄。",
     "lookup": {
-     "english": "",
+     "english": "a tool with a heavy metal head for hitting nails",
      "chinese": "錘子"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "handkerchief",
     "answer": "handkerchief",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small piece of cloth for cleaning your nose or drying your eyes",
     "chinese": "手帕",
     "sentence": "He gave her a clean __________.",
     "translation": "他給了她一條乾淨的手帕。",
     "lookup": {
-     "english": "",
+     "english": "a small piece of cloth for cleaning your nose or drying your eyes",
      "chinese": "手帕"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "handle",
     "answer": "handle",
     "pos": "v.",
-    "definition": "",
+    "definition": "to take care of a problem or a situation",
     "chinese": "處理，操作",
     "sentence": "She knows how to __________ difficult situations.",
     "translation": "她知道如何處理困難的情況。",
     "lookup": {
-     "english": "",
+     "english": "to take care of a problem or a situation",
      "chinese": "處理，操作"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "hanger",
     "answer": "hanger",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of plastic or wood that you hang clothes on",
     "chinese": "衣架",
     "sentence": "She hung her coat on a __________.",
     "translation": "她把外套掛在衣架上。",
     "lookup": {
-     "english": "",
+     "english": "a piece of plastic or wood that you hang clothes on",
      "chinese": "衣架"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "hardly",
     "answer": "hardly",
     "pos": "adv.",
-    "definition": "",
+    "definition": "almost not",
     "chinese": "幾乎不，勉強地",
     "sentence": "He can __________ believe what happened.",
     "translation": "他幾乎不敢相信發生了什麼。",
     "lookup": {
-     "english": "",
+     "english": "almost not",
      "chinese": "幾乎不，勉強地"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"backward":["","向後地"],"bother":["","打擾，煩擾"],"considerate":["","體貼的"],"downtown":["","市中心"],"forgive":["","原諒，寬恕"],"formal":["","正式的"],"gold":["","金，黃金"],"golden":["","金色的，極好的"],"golf":["","高爾夫球"],"government":["","政府"],"granddaughter":["","孫女"],"grandson":["","孫子"],"greedy":["","貪婪的"],"greeted":["","問候，迎接"],"guard":["","保衛，守護"],"guest":["","客人"],"guide":["","導遊，指導"],"gun":["","槍"],"haircut":["","理髮，髮型"],"hairdresser":["","理髮師，美容師"],"hall":["","大廳，走廊"],"hammer":["","錘子"],"handkerchief":["","手帕"],"handle":["","處理，操作"],"hanger":["","衣架"],"hardly":["","幾乎不，勉強地"],"hopped":["","跳躍，單腳跳"],"neither":["","也不，既不"],"rude":["","無禮的，粗魯的"],"talkative":["","健談的，話多的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"backward":["toward the back","向後地"],"bother":["to make someone stop what they are doing; to annoy","打擾，煩擾"],"considerate":["always thinking about what other people need or feel","體貼的"],"downtown":["in the center of a city","市中心"],"forgive":["to stop being angry with someone for something they did","原諒，寬恕"],"formal":["serious and following rules; not relaxed","正式的"],"gold":["a yellow metal that is worth a lot of money","金，黃金"],"golden":["very happy and special; having the color of gold","金色的，極好的"],"golf":["a game in which you hit a small white ball into holes with a long stick","高爾夫球"],"government":["the group of people who rule a country","政府"],"granddaughter":["the daughter of your son or daughter","孫女"],"grandson":["the son of your son or daughter","孫子"],"greedy":["wanting more money or food than you need","貪婪的"],"greeted":["to say hello to someone","問候，迎接"],"guard":["to watch a place to keep it safe","保衛，守護"],"guest":["a person who is invited to a home or a show","客人"],"guide":["a person who shows visitors around a place","導遊，指導"],"gun":["a weapon that shoots bullets","槍"],"haircut":["when someone cuts your hair; the way your hair is cut","理髮，髮型"],"hairdresser":["a person whose job is to cut and style hair","理髮師，美容師"],"hall":["a big room for meetings or events; the space inside the front door","大廳，走廊"],"hammer":["a tool with a heavy metal head for hitting nails","錘子"],"handkerchief":["a small piece of cloth for cleaning your nose or drying your eyes","手帕"],"handle":["to take care of a problem or a situation","處理，操作"],"hanger":["a piece of plastic or wood that you hang clothes on","衣架"],"hardly":["almost not","幾乎不，勉強地"],"hopped":["to move by making short, quick jumps","跳躍，單腳跳"],"neither":["not one and not the other of two","也不，既不"],"rude":["not polite","無禮的，粗魯的"],"talkative":["liking to talk a lot","健談的，話多的"]});

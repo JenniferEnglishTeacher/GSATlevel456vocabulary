@@ -2,8 +2,11 @@
 usage: python3 -I adv800_convert.py <xlsx> <out.json>
 40 units of about 20 words in the sheet's order. The sheet gives base forms only, so ANSWERS holds the form each
 sentence really needs (checked by hand). One multiple-choice question is generated per word (same sentence, a Chinese
-hint for the target word, three options of the same part of speech)."""
-import sys, re, json, random, openpyxl
+hint for the target word, three options of the same part of speech). Units that have hand-written questions in
+mcq/h*.txt use those instead (two sentences, no Chinese). English definitions come from defs/h*.txt."""
+import sys, os, re, json, random, openpyxl
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import vocab_extra
 
 SRC, OUT = sys.argv[1], sys.argv[2]
 GAS = "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"
@@ -71,10 +74,18 @@ by_pos = {}
 for e in V:
     by_pos.setdefault(e["pos"][:4], []).append(e)
 base, extra = divmod(len(V), UNITS)
-out, at = {}, 0
+out, at, GROUPS = {}, 0, {}
 for u in range(1, UNITS + 1):
     n = base + (1 if u <= extra else 0)
-    G = V[at:at + n]; at += n
+    GROUPS[u] = V[at:at + n]; at += n
+vocab_extra.apply_defs(GROUPS, "h")
+WRITTEN, GLOSS = vocab_extra.load_mcqs("h")
+INDEX = {}
+for e in V:
+    for k in (e["word"].lower(), ans_of(e).lower()):
+        INDEX.setdefault(k, e)
+for u in range(1, UNITS + 1):
+    G = GROUPS[u]
     rng = random.Random(800 + u)
     seats, prev = [], -1
     while len(seats) < len(G):
@@ -111,7 +122,9 @@ for u in range(1, UNITS + 1):
     for e in V:
         for k in {ans_of(e).lower(), e["word"].lower()}:
             if k in used:
-                lookup.setdefault(k, {"pos": e["pos"], "en_def": "", "cn_def": e["cn_def"]})
+                lookup.setdefault(k, {"pos": e["pos"], "en_def": e["en_def"], "cn_def": e["cn_def"]})
+    if str(u) in WRITTEN:
+        mcqs, lookup = vocab_extra.written_mcqs(G, WRITTEN[str(u)], INDEX, GLOSS, rng, f"h{u}", ans_of)
     theme = f"{G[0]['word']} – {G[-1]['word']}"
     out[str(u)] = {"generated": True, "theme": theme, "QUIZ_CONFIG": {"groupName": f"國中小進階800字 U{u:02d} - {theme}", "gasEndpoint": GAS},
                    "VOCAB": G, "MCQS": mcqs, "LOOKUP": lookup, "EXTRA_GLOSSES": {}}

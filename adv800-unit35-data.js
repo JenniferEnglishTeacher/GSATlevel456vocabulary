@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "support",
     "pos": "v.",
     "cn_def": "支持，支援",
-    "en_def": "",
+    "en_def": "to agree with and help someone",
     "sentence": "Her family {{BLANK}} her decision.",
     "cn": "她的家人支持她的決定。",
     "alts": [
@@ -21,7 +21,7 @@ const VOCAB = [
     "word": "survive",
     "pos": "v.",
     "cn_def": "存活，生存",
-    "en_def": "",
+    "en_def": "to stay alive after something dangerous",
     "sentence": "They managed to {{BLANK}} the disaster.",
     "cn": "他們設法在災難中倖存下來。"
   },
@@ -29,7 +29,7 @@ const VOCAB = [
     "word": "swallow",
     "pos": "v.",
     "cn_def": "吞下，嚥下",
-    "en_def": "",
+    "en_def": "to make food or drink go down your throat",
     "sentence": "He had to {{BLANK}} the medicine quickly.",
     "cn": "他不得不迅速吞下藥。"
   },
@@ -37,7 +37,7 @@ const VOCAB = [
     "word": "swan",
     "pos": "n.",
     "cn_def": "天鵝",
-    "en_def": "",
+    "en_def": "a big white bird with a long neck that lives on lakes",
     "sentence": "They saw a {{BLANK}} swimming in the lake.",
     "cn": "他們看到一隻天鵝在湖裡游泳。"
   },
@@ -45,7 +45,7 @@ const VOCAB = [
     "word": "sweep",
     "pos": "v.",
     "cn_def": "打掃，清掃",
-    "en_def": "",
+    "en_def": "to clean a floor with a broom",
     "sentence": "She {{BLANK}} the floor every morning.",
     "cn": "她每天早上掃地。"
   },
@@ -53,7 +53,7 @@ const VOCAB = [
     "word": "swimsuit",
     "pos": "n.",
     "cn_def": "泳衣",
-    "en_def": "",
+    "en_def": "clothes that you wear for swimming",
     "sentence": "She bought a new {{BLANK}}.",
     "cn": "她買了一件新泳衣。"
   },
@@ -61,7 +61,7 @@ const VOCAB = [
     "word": "symbol",
     "pos": "n.",
     "cn_def": "符號，象徵",
-    "en_def": "",
+    "en_def": "a picture or thing that stands for an idea",
     "sentence": "The heart is a {{BLANK}} of love.",
     "cn": "心形是愛的象徵。"
   },
@@ -69,7 +69,7 @@ const VOCAB = [
     "word": "system",
     "pos": "n.",
     "cn_def": "系統，體系",
-    "en_def": "",
+    "en_def": "a group of parts or machines that work together",
     "sentence": "The new {{BLANK}} is very efficient.",
     "cn": "新系統非常高效。"
   },
@@ -77,7 +77,7 @@ const VOCAB = [
     "word": "table tennis",
     "pos": "n.",
     "cn_def": "乒乓球，桌球",
-    "en_def": "",
+    "en_def": "a game in which players hit a small light ball over a net on a table",
     "sentence": "They enjoy playing {{BLANK}}.",
     "cn": "他們喜歡打乒乓球。",
     "nblanks": 2
@@ -86,7 +86,7 @@ const VOCAB = [
     "word": "talent",
     "pos": "n.",
     "cn_def": "才能，天賦",
-    "en_def": "",
+    "en_def": "a natural skill for doing something well",
     "sentence": "She has a natural {{BLANK}} for singing.",
     "cn": "她有天生的唱歌天賦。"
   },
@@ -94,7 +94,7 @@ const VOCAB = [
     "word": "talkative",
     "pos": "adj.",
     "cn_def": "健談的，話多的",
-    "en_def": "",
+    "en_def": "liking to talk a lot",
     "sentence": "He is very {{BLANK}}.",
     "cn": "他很健談。"
   },
@@ -102,7 +102,7 @@ const VOCAB = [
     "word": "tangerine",
     "pos": "n.",
     "cn_def": "橘子",
-    "en_def": "",
+    "en_def": "a small sweet orange that is easy to peel",
     "sentence": "She peeled a {{BLANK}}.",
     "cn": "她剝了一個橘子。"
   },
@@ -110,7 +110,7 @@ const VOCAB = [
     "word": "tank",
     "pos": "n.",
     "cn_def": "坦克，油箱",
-    "en_def": "",
+    "en_def": "a big container for water or fish",
     "sentence": "The fish are swimming in the {{BLANK}}.",
     "cn": "魚在魚缸裡游泳。"
   },
@@ -118,7 +118,7 @@ const VOCAB = [
     "word": "teapot",
     "pos": "n.",
     "cn_def": "茶壺",
-    "en_def": "",
+    "en_def": "a pot for making and pouring tea",
     "sentence": "She poured tea from the {{BLANK}}.",
     "cn": "她從茶壺裡倒茶。"
   },
@@ -126,7 +126,7 @@ const VOCAB = [
     "word": "tear",
     "pos": "n.",
     "cn_def": "眼淚",
-    "en_def": "",
+    "en_def": "a drop of water that comes from your eye when you cry",
     "sentence": "She wiped away a {{BLANK}}.",
     "cn": "她擦掉了眼淚。"
   },
@@ -134,7 +134,7 @@ const VOCAB = [
     "word": "temperature",
     "pos": "n.",
     "cn_def": "溫度，氣溫",
-    "en_def": "",
+    "en_def": "how hot or cold something is",
     "sentence": "The {{BLANK}} today is very high.",
     "cn": "今天的氣溫很高。"
   },
@@ -142,7 +142,7 @@ const VOCAB = [
     "word": "tent",
     "pos": "n.",
     "cn_def": "帳篷",
-    "en_def": "",
+    "en_def": "a small house made of cloth that you sleep in when you camp",
     "sentence": "They set up a {{BLANK}} in the forest.",
     "cn": "他們在森林裡搭了個帳篷。"
   },
@@ -150,7 +150,7 @@ const VOCAB = [
     "word": "term",
     "pos": "n.",
     "cn_def": "期限，學期",
-    "en_def": "",
+    "en_def": "one part of a school year",
     "sentence": "The {{BLANK}} will end next month.",
     "cn": "這個學期將在下個月結束。"
   },
@@ -158,7 +158,7 @@ const VOCAB = [
     "word": "terrific",
     "pos": "adj.",
     "cn_def": "極好的，極度的",
-    "en_def": "",
+    "en_def": "very, very good",
     "sentence": "She did a {{BLANK}} job on the project.",
     "cn": "她在這個專案上做得很出色。"
   },
@@ -166,7 +166,7 @@ const VOCAB = [
     "word": "textbook",
     "pos": "n.",
     "cn_def": "課本，教科書",
-    "en_def": "",
+    "en_def": "a book that students use in class to study a subject",
     "sentence": "He forgot his {{BLANK}} at home.",
     "cn": "他把課本忘在家裡了。"
   }
@@ -418,122 +418,122 @@ const MCQS = [
 const LOOKUP = {
   "alike": {
     "pos": "adj./adv.",
-    "en_def": "",
+    "en_def": "almost the same",
     "cn_def": "相似的，一樣地"
   },
   "diligent": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "working hard and carefully",
     "cn_def": "勤勉的，勤奮的"
   },
   "false": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not true; not correct",
     "cn_def": "錯誤的，假的"
   },
   "humid": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "(of weather) warm and wet",
     "cn_def": "潮濕的，濕熱的"
   },
   "supported": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to agree with and help someone",
     "cn_def": "支持，支援"
   },
   "survive": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to stay alive after something dangerous",
     "cn_def": "存活，生存"
   },
   "swallow": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make food or drink go down your throat",
     "cn_def": "吞下，嚥下"
   },
   "swan": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big white bird with a long neck that lives on lakes",
     "cn_def": "天鵝"
   },
   "sweeps": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to clean a floor with a broom",
     "cn_def": "打掃，清掃"
   },
   "swimsuit": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "clothes that you wear for swimming",
     "cn_def": "泳衣"
   },
   "symbol": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a picture or thing that stands for an idea",
     "cn_def": "符號，象徵"
   },
   "system": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a group of parts or machines that work together",
     "cn_def": "系統，體系"
   },
   "table tennis": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a game in which players hit a small light ball over a net on a table",
     "cn_def": "乒乓球，桌球"
   },
   "talent": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a natural skill for doing something well",
     "cn_def": "才能，天賦"
   },
   "talkative": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "liking to talk a lot",
     "cn_def": "健談的，話多的"
   },
   "tangerine": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small sweet orange that is easy to peel",
     "cn_def": "橘子"
   },
   "tank": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big container for water or fish",
     "cn_def": "坦克，油箱"
   },
   "teapot": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a pot for making and pouring tea",
     "cn_def": "茶壺"
   },
   "tear": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a drop of water that comes from your eye when you cry",
     "cn_def": "眼淚"
   },
   "temperature": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "how hot or cold something is",
     "cn_def": "溫度，氣溫"
   },
   "tent": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small house made of cloth that you sleep in when you camp",
     "cn_def": "帳篷"
   },
   "term": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one part of a school year",
     "cn_def": "期限，學期"
   },
   "terrific": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very, very good",
     "cn_def": "極好的，極度的"
   },
   "textbook": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a book that students use in class to study a subject",
     "cn_def": "課本，教科書"
   }
 };

@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "final",
     "answer": "final",
     "pos": "adj.",
-    "definition": "",
+    "definition": "last",
     "chinese": "最後的，決定性的",
     "sentence": "The __________ decision will be made tomorrow.",
     "translation": "最終決定將在明天作出。",
     "lookup": {
-     "english": "",
+     "english": "last",
      "chinese": "最後的，決定性的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "fit",
     "answer": "fit",
     "pos": "adj.",
-    "definition": "",
+    "definition": "to be the right size for someone",
     "chinese": "合適的，健康的",
     "sentence": "These shoes __________ perfectly.",
     "translation": "這雙鞋非常合適。",
     "lookup": {
-     "english": "",
+     "english": "to be the right size for someone",
      "chinese": "合適的，健康的"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "flag",
     "answer": "flag",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of cloth with colors and shapes that stands for a country",
     "chinese": "旗幟",
     "sentence": "They raised the national __________.",
     "translation": "他們升起了國旗。",
     "lookup": {
-     "english": "",
+     "english": "a piece of cloth with colors and shapes that stands for a country",
      "chinese": "旗幟"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "flashlight",
     "answer": "flashlight",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small light that you carry in your hand",
     "chinese": "手電筒",
     "sentence": "She used a __________ to find her way in the dark.",
     "translation": "她用手電筒在黑暗中找路。",
     "lookup": {
-     "english": "",
+     "english": "a small light that you carry in your hand",
      "chinese": "手電筒"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "flat tire",
     "answer": "flat tire",
     "pos": "n.",
-    "definition": "",
+    "definition": "a wheel on a car or bike that has lost its air",
     "chinese": "爆胎",
     "sentence": "He had a __________ on his way to work.",
     "translation": "他上班途中遇到了爆胎。",
     "lookup": {
-     "english": "",
+     "english": "a wheel on a car or bike that has lost its air",
      "chinese": "爆胎"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "flight",
     "answer": "flight",
     "pos": "n.",
-    "definition": "",
+    "definition": "a trip in a plane",
     "chinese": "飛行，航班",
     "sentence": "Their __________ was delayed due to bad weather.",
     "translation": "他們的航班因天氣惡劣而延誤。",
     "lookup": {
-     "english": "",
+     "english": "a trip in a plane",
      "chinese": "飛行，航班"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "flour",
     "answer": "flour",
     "pos": "n.",
-    "definition": "",
+    "definition": "white powder made from wheat, used to make bread and cakes",
     "chinese": "麵粉",
     "sentence": "She used __________ to bake the cake.",
     "translation": "她用麵粉烤蛋糕。",
     "lookup": {
-     "english": "",
+     "english": "white powder made from wheat, used to make bread and cakes",
      "chinese": "麵粉"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "flu",
     "answer": "flu",
     "pos": "n.",
-    "definition": "",
+    "definition": "a sickness like a very bad cold, with a fever",
     "chinese": "流感",
     "sentence": "He caught the __________ last week.",
     "translation": "他上週得了流感。",
     "lookup": {
-     "english": "",
+     "english": "a sickness like a very bad cold, with a fever",
      "chinese": "流感"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "flute",
     "answer": "flute",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long, thin musical instrument that you blow into",
     "chinese": "長笛",
     "sentence": "She plays the __________ in the school band.",
     "translation": "她在校樂隊裡吹長笛。",
     "lookup": {
-     "english": "",
+     "english": "a long, thin musical instrument that you blow into",
      "chinese": "長笛"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "focus",
     "answer": "focus",
     "pos": "v.",
-    "definition": "",
+    "definition": "to give all your attention to one thing",
     "chinese": "集中，專注",
     "sentence": "You need to __________ on your studies.",
     "translation": "你需要專注於學習。",
     "lookup": {
-     "english": "",
+     "english": "to give all your attention to one thing",
      "chinese": "集中，專注"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "fog",
     "answer": "fog",
     "pos": "n.",
-    "definition": "",
+    "definition": "thick cloud near the ground that is hard to see through",
     "chinese": "霧",
     "sentence": "The __________ was so thick that we couldn't see the road.",
     "translation": "霧太濃了，我們看不見路。",
     "lookup": {
-     "english": "",
+     "english": "thick cloud near the ground that is hard to see through",
      "chinese": "霧"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "foggy",
     "answer": "foggy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "with a lot of fog",
     "chinese": "有霧的，模糊的",
     "sentence": "It was a cold and __________ morning.",
     "translation": "那是一個寒冷而有霧的早晨。",
     "lookup": {
-     "english": "",
+     "english": "with a lot of fog",
      "chinese": "有霧的，模糊的"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "foolish",
     "answer": "foolish",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not wise; silly",
     "chinese": "愚蠢的",
     "sentence": "It was __________ to make such a mistake.",
     "translation": "犯這樣的錯誤真是愚蠢。",
     "lookup": {
-     "english": "",
+     "english": "not wise; silly",
      "chinese": "愚蠢的"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "football",
     "answer": "football",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game in which two teams kick a ball; soccer",
     "chinese": "足球",
     "sentence": "He enjoys playing __________ with his friends.",
     "translation": "他喜歡和朋友一起踢足球。",
     "lookup": {
-     "english": "",
+     "english": "a game in which two teams kick a ball; soccer",
      "chinese": "足球"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "forest",
     "answer": "forest",
     "pos": "n.",
-    "definition": "",
+    "definition": "a large area of land covered with trees",
     "chinese": "森林",
     "sentence": "They went for a hike in the __________.",
     "translation": "他們在森林裡遠足。",
     "lookup": {
-     "english": "",
+     "english": "a large area of land covered with trees",
      "chinese": "森林"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "forgive",
     "answer": "forgive",
     "pos": "v.",
-    "definition": "",
+    "definition": "to stop being angry with someone for something they did",
     "chinese": "原諒，寬恕",
     "sentence": "She decided to __________ him for his mistake.",
     "translation": "她決定原諒他的錯誤。",
     "lookup": {
-     "english": "",
+     "english": "to stop being angry with someone for something they did",
      "chinese": "原諒，寬恕"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "form",
     "answer": "form",
     "pos": "n.",
-    "definition": "",
+    "definition": "a paper with spaces where you write information",
     "chinese": "形式，表格",
     "sentence": "Please fill out this __________.",
     "translation": "請填寫這張表格。",
     "lookup": {
-     "english": "",
+     "english": "a paper with spaces where you write information",
      "chinese": "形式，表格"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "formal",
     "answer": "formal",
     "pos": "adj.",
-    "definition": "",
+    "definition": "serious and following rules; not relaxed",
     "chinese": "正式的",
     "sentence": "The event was very __________.",
     "translation": "這個活動非常正式。",
     "lookup": {
-     "english": "",
+     "english": "serious and following rules; not relaxed",
      "chinese": "正式的"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "former",
     "answer": "former",
     "pos": "adj.",
-    "definition": "",
+    "definition": "having been something in the past, but not now",
     "chinese": "以前的，前者的",
     "sentence": "He is a __________ president of the club.",
     "translation": "他是該俱樂部的前任主席。",
     "lookup": {
-     "english": "",
+     "english": "having been something in the past, but not now",
      "chinese": "以前的，前者的"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "forward",
     "answer": "forward",
     "pos": "adv.",
-    "definition": "",
+    "definition": "toward the front",
     "chinese": "向前",
     "sentence": "She took a step __________.",
     "translation": "她向前走了一步。",
     "lookup": {
-     "english": "",
+     "english": "toward the front",
      "chinese": "向前"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"discuss":["","討論，商議"],"express":["","表達，表現"],"final":["","最後的，決定性的"],"fit":["","合適的，健康的"],"flag":["","旗幟"],"flashlight":["","手電筒"],"flight":["","飛行，航班"],"flour":["","麵粉"],"flu":["","流感"],"flute":["","長笛"],"focus":["","集中，專注"],"fog":["","霧"],"foggy":["","有霧的，模糊的"],"foolish":["","愚蠢的"],"football":["","足球"],"forest":["","森林"],"forgive":["","原諒，寬恕"],"form":["","形式，表格"],"formal":["","正式的"],"former":["","以前的，前者的"],"forward":["","向前"],"hardly":["","幾乎不，勉強地"],"nearly":["","幾乎，差不多"],"neither":["","也不，既不"],"serve":["","服務，提供"],"sink":["","下沉，沉沒"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"discuss":["to talk about something with other people","討論，商議"],"express":["to show a feeling or idea with words or actions","表達，表現"],"final":["last","最後的，決定性的"],"fit":["to be the right size for someone","合適的，健康的"],"flag":["a piece of cloth with colors and shapes that stands for a country","旗幟"],"flashlight":["a small light that you carry in your hand","手電筒"],"flight":["a trip in a plane","飛行，航班"],"flour":["white powder made from wheat, used to make bread and cakes","麵粉"],"flu":["a sickness like a very bad cold, with a fever","流感"],"flute":["a long, thin musical instrument that you blow into","長笛"],"focus":["to give all your attention to one thing","集中，專注"],"fog":["thick cloud near the ground that is hard to see through","霧"],"foggy":["with a lot of fog","有霧的，模糊的"],"foolish":["not wise; silly","愚蠢的"],"football":["a game in which two teams kick a ball; soccer","足球"],"forest":["a large area of land covered with trees","森林"],"forgive":["to stop being angry with someone for something they did","原諒，寬恕"],"form":["a paper with spaces where you write information","形式，表格"],"formal":["serious and following rules; not relaxed","正式的"],"former":["having been something in the past, but not now","以前的，前者的"],"forward":["toward the front","向前"],"hardly":["almost not","幾乎不，勉強地"],"nearly":["almost","幾乎，差不多"],"neither":["not one and not the other of two","也不，既不"],"serve":["to give food or drinks to people","服務，提供"],"sink":["to go down under water","下沉，沉沒"]});

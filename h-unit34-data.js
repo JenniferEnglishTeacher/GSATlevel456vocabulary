@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "stingy",
     "answer": "stingy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not willing to spend or give money",
     "chinese": "吝嗇的，小氣的",
     "sentence": "He is too __________ to donate money.",
     "translation": "他太吝嗇了，不願捐錢。",
     "lookup": {
-     "english": "",
+     "english": "not willing to spend or give money",
      "chinese": "吝嗇的，小氣的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "stomachache",
     "answer": "stomachache",
     "pos": "n.",
-    "definition": "",
+    "definition": "a pain in your stomach",
     "chinese": "胃痛",
     "sentence": "She had a __________ after eating too much.",
     "translation": "她吃太多後胃痛。",
     "lookup": {
-     "english": "",
+     "english": "a pain in your stomach",
      "chinese": "胃痛"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "stone",
     "answer": "stone",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small piece of rock",
     "chinese": "石頭，寶石",
     "sentence": "He threw a __________ into the pond.",
     "translation": "他向池塘裡扔了一塊石頭。",
     "lookup": {
-     "english": "",
+     "english": "a small piece of rock",
      "chinese": "石頭，寶石"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "storm",
     "answer": "storm",
     "pos": "n.",
-    "definition": "",
+    "definition": "very bad weather with strong wind and heavy rain",
     "chinese": "暴風雨，風暴",
     "sentence": "The __________ caused a lot of damage.",
     "translation": "暴風雨造成了很大損失。",
     "lookup": {
-     "english": "",
+     "english": "very bad weather with strong wind and heavy rain",
      "chinese": "暴風雨，風暴"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "stormy",
     "answer": "stormy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "with strong wind and heavy rain",
     "chinese": "暴風雨的，猛烈的",
     "sentence": "It was a __________ night.",
     "translation": "那是一個暴風雨之夜。",
     "lookup": {
-     "english": "",
+     "english": "with strong wind and heavy rain",
      "chinese": "暴風雨的，猛烈的"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "stove",
     "answer": "stove",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine in the kitchen for cooking food",
     "chinese": "火爐，爐灶",
     "sentence": "She cooked the meal on the __________.",
     "translation": "她在爐灶上做飯。",
     "lookup": {
-     "english": "",
+     "english": "a machine in the kitchen for cooking food",
      "chinese": "火爐，爐灶"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "straight",
     "answer": "straight",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not bending or turning",
     "chinese": "直的，直接的",
     "sentence": "The road is __________.",
     "translation": "這條路是直的。",
     "lookup": {
-     "english": "",
+     "english": "not bending or turning",
      "chinese": "直的，直接的"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "straw",
     "answer": "straw",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thin tube for drinking",
     "chinese": "稻草，吸管",
     "sentence": "She drank her juice with a __________.",
     "translation": "她用吸管喝果汁。",
     "lookup": {
-     "english": "",
+     "english": "a thin tube for drinking",
      "chinese": "稻草，吸管"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "stream",
     "answer": "stream",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small river",
     "chinese": "小溪，溪流",
     "sentence": "They followed the path along the __________.",
     "translation": "他們沿著小溪走。",
     "lookup": {
-     "english": "",
+     "english": "a small river",
      "chinese": "小溪，溪流"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "strike",
     "answer": "strike",
     "pos": "v.",
-    "definition": "",
+    "definition": "to stop working because you want more pay or better conditions",
     "chinese": "打擊，罷工",
     "sentence": "The workers decided to __________.",
     "translation": "工人們決定罷工。",
     "lookup": {
-     "english": "",
+     "english": "to stop working because you want more pay or better conditions",
      "chinese": "打擊，罷工"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "style",
     "answer": "style",
     "pos": "n.",
-    "definition": "",
+    "definition": "a way of dressing or doing something",
     "chinese": "風格，樣式",
     "sentence": "She has a unique fashion __________.",
     "translation": "她有獨特的時尚風格。",
     "lookup": {
-     "english": "",
+     "english": "a way of dressing or doing something",
      "chinese": "風格，樣式"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "subway",
     "answer": "subway",
     "pos": "n.",
-    "definition": "",
+    "definition": "a train system that runs under a city",
     "chinese": "地鐵",
     "sentence": "They took the __________ to the museum.",
     "translation": "他們乘地鐵去博物館。",
     "lookup": {
-     "english": "",
+     "english": "a train system that runs under a city",
      "chinese": "地鐵"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "succeed",
     "answer": "succeed",
     "pos": "v.",
-    "definition": "",
+    "definition": "to do well and get what you wanted",
     "chinese": "成功，繼承",
     "sentence": "She hopes to __________ in her career.",
     "translation": "她希望在職業生涯中取得成功。",
     "lookup": {
-     "english": "",
+     "english": "to do well and get what you wanted",
      "chinese": "成功，繼承"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "success",
     "answer": "success",
     "pos": "n.",
-    "definition": "",
+    "definition": "doing well and getting what you wanted",
     "chinese": "成功",
     "sentence": "His hard work led to his __________.",
     "translation": "他的努力導致了他的成功。",
     "lookup": {
-     "english": "",
+     "english": "doing well and getting what you wanted",
      "chinese": "成功"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "such",
     "answer": "such",
     "pos": "adj.",
-    "definition": "",
+    "definition": "so; to such a degree (used before a noun)",
     "chinese": "這樣的，如此的",
     "sentence": "She is __________ a kind person.",
     "translation": "她是一個這樣善良的人。",
     "lookup": {
-     "english": "",
+     "english": "so; to such a degree (used before a noun)",
      "chinese": "這樣的，如此的"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "suddenly",
     "answer": "suddenly",
     "pos": "adv.",
-    "definition": "",
+    "definition": "quickly and when you do not expect it",
     "chinese": "突然地，忽然",
     "sentence": "The lights went out __________.",
     "translation": "燈突然熄滅了。",
     "lookup": {
-     "english": "",
+     "english": "quickly and when you do not expect it",
      "chinese": "突然地，忽然"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "suggest",
     "answer": "suggest",
     "pos": "v.",
-    "definition": "",
+    "definition": "to tell someone an idea about what to do",
     "chinese": "建議，提議",
     "sentence": "I __________ we go to the movies.",
     "translation": "我建議我們去看電影。",
     "lookup": {
-     "english": "",
+     "english": "to tell someone an idea about what to do",
      "chinese": "建議，提議"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "suit",
     "answer": "suit",
     "pos": "n.",
-    "definition": "",
+    "definition": "a jacket and pants or a skirt made of the same cloth",
     "chinese": "套裝，西裝",
     "sentence": "He wore a __________ to the interview.",
     "translation": "他穿著西裝去面試。",
     "lookup": {
-     "english": "",
+     "english": "a jacket and pants or a skirt made of the same cloth",
      "chinese": "套裝，西裝"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "super",
     "answer": "super",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very, very good",
     "chinese": "超級的，極好的",
     "sentence": "She is a __________ student.",
     "translation": "她是一個超級學生。",
     "lookup": {
-     "english": "",
+     "english": "very, very good",
      "chinese": "超級的，極好的"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "supper",
     "answer": "supper",
     "pos": "n.",
-    "definition": "",
+    "definition": "a meal that you eat in the evening",
     "chinese": "晚餐",
     "sentence": "They had a light __________ before bed.",
     "translation": "他們在睡前吃了一頓輕晚餐。",
     "lookup": {
-     "english": "",
+     "english": "a meal that you eat in the evening",
      "chinese": "晚餐"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"consider":["","考慮"],"hardly":["","幾乎不，勉強地"],"interrupt":["","打斷，中斷"],"measured":["","測量，衡量"],"neither":["","也不，既不"],"rather":["","寧願，倒不如說"],"stingy":["","吝嗇的，小氣的"],"stomachache":["","胃痛"],"stone":["","石頭，寶石"],"storm":["","暴風雨，風暴"],"stormy":["","暴風雨的，猛烈的"],"stove":["","火爐，爐灶"],"straight":["","直的，直接的"],"straw":["","稻草，吸管"],"stream":["","小溪，溪流"],"strike":["","打擊，罷工"],"style":["","風格，樣式"],"subway":["","地鐵"],"succeed":["","成功，繼承"],"success":["","成功"],"such":["","這樣的，如此的"],"suddenly":["","突然地，忽然"],"suggest":["","建議，提議"],"suit":["","套裝，西裝"],"super":["","超級的，極好的"],"supper":["","晚餐"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"consider":["to think about something carefully","考慮"],"hardly":["almost not","幾乎不，勉強地"],"interrupt":["to stop someone while they are speaking","打斷，中斷"],"measured":["to find out how long, big, or heavy something is","測量，衡量"],"neither":["not one and not the other of two","也不，既不"],"rather":["more willingly (used with \"would\")","寧願，倒不如說"],"stingy":["not willing to spend or give money","吝嗇的，小氣的"],"stomachache":["a pain in your stomach","胃痛"],"stone":["a small piece of rock","石頭，寶石"],"storm":["very bad weather with strong wind and heavy rain","暴風雨，風暴"],"stormy":["with strong wind and heavy rain","暴風雨的，猛烈的"],"stove":["a machine in the kitchen for cooking food","火爐，爐灶"],"straight":["not bending or turning","直的，直接的"],"straw":["a thin tube for drinking","稻草，吸管"],"stream":["a small river","小溪，溪流"],"strike":["to stop working because you want more pay or better conditions","打擊，罷工"],"style":["a way of dressing or doing something","風格，樣式"],"subway":["a train system that runs under a city","地鐵"],"succeed":["to do well and get what you wanted","成功，繼承"],"success":["doing well and getting what you wanted","成功"],"such":["so; to such a degree (used before a noun)","這樣的，如此的"],"suddenly":["quickly and when you do not expect it","突然地，忽然"],"suggest":["to tell someone an idea about what to do","建議，提議"],"suit":["a jacket and pants or a skirt made of the same cloth","套裝，西裝"],"super":["very, very good","超級的，極好的"],"supper":["a meal that you eat in the evening","晚餐"]});

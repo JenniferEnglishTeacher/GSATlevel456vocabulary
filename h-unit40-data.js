@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "whole",
     "answer": "whole",
     "pos": "adj.",
-    "definition": "",
+    "definition": "all of something",
     "chinese": "整個的，全部的",
     "sentence": "They spent the __________ day at the beach.",
     "translation": "他們在海灘度過了整整一天。",
     "lookup": {
-     "english": "",
+     "english": "all of something",
      "chinese": "整個的，全部的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "wife",
     "answer": "wife",
     "pos": "n.",
-    "definition": "",
+    "definition": "the woman a man is married to",
     "chinese": "妻子",
     "sentence": "His __________ is a doctor.",
     "translation": "他的妻子是一名醫生。",
     "lookup": {
-     "english": "",
+     "english": "the woman a man is married to",
      "chinese": "妻子"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "wildlife",
     "answer": "wildlife",
     "pos": "n.",
-    "definition": "",
+    "definition": "animals and plants that live in nature",
     "chinese": "野生動物",
     "sentence": "The park is home to various __________.",
     "translation": "這個公園是各種野生動物的家園。",
     "lookup": {
-     "english": "",
+     "english": "animals and plants that live in nature",
      "chinese": "野生動物"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "window",
     "answer": "window",
     "pos": "n.",
-    "definition": "",
+    "definition": "an opening with glass in a wall that lets in light and air",
     "chinese": "窗戶",
     "sentence": "She opened the __________ to let in some fresh air.",
     "translation": "她打開窗戶讓新鮮空氣進來。",
     "lookup": {
-     "english": "",
+     "english": "an opening with glass in a wall that lets in light and air",
      "chinese": "窗戶"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "winner",
     "answer": "winner",
     "pos": "n.",
-    "definition": "",
+    "definition": "the person who wins a game or a race",
     "chinese": "贏家，優勝者",
     "sentence": "She was the __________ of the contest.",
     "translation": "她是比賽的贏家。",
     "lookup": {
-     "english": "",
+     "english": "the person who wins a game or a race",
      "chinese": "贏家，優勝者"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "wipe",
     "answer": "wiped",
     "pos": "v.",
-    "definition": "",
+    "definition": "to clean or dry something with a cloth",
     "chinese": "擦，抹",
     "sentence": "He __________ the table clean.",
     "translation": "他把桌子擦乾淨。",
     "lookup": {
-     "english": "",
+     "english": "to clean or dry something with a cloth",
      "chinese": "擦，抹"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "wire",
     "answer": "wire",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long, thin piece of metal that carries electricity",
     "chinese": "電線，金屬線",
     "sentence": "The electrician fixed the __________.",
     "translation": "電工修好了電線。",
     "lookup": {
-     "english": "",
+     "english": "a long, thin piece of metal that carries electricity",
      "chinese": "電線，金屬線"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "wish",
     "answer": "wished",
     "pos": "v.",
-    "definition": "",
+    "definition": "to hope for something",
     "chinese": "希望，祝願",
     "sentence": "She __________ for happiness and health.",
     "translation": "她希望幸福和健康。",
     "lookup": {
-     "english": "",
+     "english": "to hope for something",
      "chinese": "希望，祝願"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "wizard",
     "answer": "wizard",
     "pos": "n.",
-    "definition": "",
+    "definition": "a man in stories who can do magic",
     "chinese": "巫師，魔法師",
     "sentence": "The __________ cast a spell.",
     "translation": "巫師施了一個咒語。",
     "lookup": {
-     "english": "",
+     "english": "a man in stories who can do magic",
      "chinese": "巫師，魔法師"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "wool",
     "answer": "wool",
     "pos": "n.",
-    "definition": "",
+    "definition": "the soft, thick hair of sheep, used to make sweaters",
     "chinese": "羊毛，毛線",
     "sentence": "The sweater is made of __________.",
     "translation": "這件毛衣是羊毛製成的。",
     "lookup": {
-     "english": "",
+     "english": "the soft, thick hair of sheep, used to make sweaters",
      "chinese": "羊毛，毛線"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "workbook",
     "answer": "workbooks",
     "pos": "n.",
-    "definition": "",
+    "definition": "a book with exercises for students to do",
     "chinese": "練習簿，作業本",
     "sentence": "The students completed the exercises in their __________.",
     "translation": "學生們在練習本上完成了練習題。",
     "lookup": {
-     "english": "",
+     "english": "a book with exercises for students to do",
      "chinese": "練習簿，作業本"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "worm",
     "answer": "worm",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small, long, soft animal with no legs that lives in the ground",
     "chinese": "蟲，蠕蟲",
     "sentence": "The bird ate the __________.",
     "translation": "鳥吃了那隻蟲。",
     "lookup": {
-     "english": "",
+     "english": "a small, long, soft animal with no legs that lives in the ground",
      "chinese": "蟲，蠕蟲"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "worry",
     "answer": "worries",
     "pos": "v.",
-    "definition": "",
+    "definition": "to feel afraid that something bad may happen",
     "chinese": "擔心，煩惱",
     "sentence": "She always __________ about her exams.",
     "translation": "她總是擔心她的考試。",
     "lookup": {
-     "english": "",
+     "english": "to feel afraid that something bad may happen",
      "chinese": "擔心，煩惱"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "wound",
     "answer": "wound",
     "pos": "n.",
-    "definition": "",
+    "definition": "a cut or hole in your body that hurts",
     "chinese": "傷口，創傷",
     "sentence": "He had a deep __________ on his arm.",
     "translation": "他的手臂上有一道深深的傷口。",
     "lookup": {
-     "english": "",
+     "english": "a cut or hole in your body that hurts",
      "chinese": "傷口，創傷"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "wrap",
     "answer": "wrapped",
     "pos": "v.",
-    "definition": "",
+    "definition": "to cover something with paper or cloth",
     "chinese": "包裝，裹",
     "sentence": "She __________ the gift with colorful paper.",
     "translation": "她用彩色紙包裝禮物。",
     "lookup": {
-     "english": "",
+     "english": "to cover something with paper or cloth",
      "chinese": "包裝，裹"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "wrist",
     "answer": "wrist",
     "pos": "n.",
-    "definition": "",
+    "definition": "the part of your body between your hand and your arm",
     "chinese": "手腕",
     "sentence": "She wore a bracelet on her __________.",
     "translation": "她在手腕上戴了一個手鐲。",
     "lookup": {
-     "english": "",
+     "english": "the part of your body between your hand and your arm",
      "chinese": "手腕"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "writer",
     "answer": "writer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who writes books or stories",
     "chinese": "作家，作者",
     "sentence": "He is a famous __________.",
     "translation": "他是一位著名的作家。",
     "lookup": {
-     "english": "",
+     "english": "a person who writes books or stories",
      "chinese": "作家，作者"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "yard",
     "answer": "yard",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of ground next to a house",
     "chinese": "院子，庭院",
     "sentence": "They played in the __________.",
     "translation": "他們在院子裡玩。",
     "lookup": {
-     "english": "",
+     "english": "a piece of ground next to a house",
      "chinese": "院子，庭院"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "youth",
     "answer": "youth",
     "pos": "n.",
-    "definition": "",
+    "definition": "the time when a person is young",
     "chinese": "青年，年輕",
     "sentence": "He spent his __________ in the countryside.",
     "translation": "他在鄉下度過了他的青春。",
     "lookup": {
-     "english": "",
+     "english": "the time when a person is young",
      "chinese": "青年，年輕"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "zebra",
     "answer": "zebra",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal like a horse with black and white stripes",
     "chinese": "斑馬",
     "sentence": "The __________ has black and white stripes.",
     "translation": "斑馬有黑白條紋。",
     "lookup": {
-     "english": "",
+     "english": "an animal like a horse with black and white stripes",
      "chinese": "斑馬"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"alike":["","相似的，一樣地"],"classical":["","古典的，經典的"],"greedy":["","貪婪的"],"whole":["","整個的，全部的"],"wife":["","妻子"],"wildlife":["","野生動物"],"window":["","窗戶"],"winner":["","贏家，優勝者"],"wiped":["","擦，抹"],"wire":["","電線，金屬線"],"wished":["","希望，祝願"],"wizard":["","巫師，魔法師"],"wool":["","羊毛，毛線"],"workbooks":["","練習簿，作業本"],"worm":["","蟲，蠕蟲"],"worries":["","擔心，煩惱"],"wound":["","傷口，創傷"],"wrapped":["","包裝，裹"],"wrist":["","手腕"],"writer":["","作家，作者"],"yard":["","院子，庭院"],"youth":["","青年，年輕"],"zebra":["","斑馬"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"alike":["almost the same","相似的，一樣地"],"classical":["(of music) serious and written long ago, like Mozart's","古典的，經典的"],"greedy":["wanting more money or food than you need","貪婪的"],"whole":["all of something","整個的，全部的"],"wife":["the woman a man is married to","妻子"],"wildlife":["animals and plants that live in nature","野生動物"],"window":["an opening with glass in a wall that lets in light and air","窗戶"],"winner":["the person who wins a game or a race","贏家，優勝者"],"wiped":["to clean or dry something with a cloth","擦，抹"],"wire":["a long, thin piece of metal that carries electricity","電線，金屬線"],"wished":["to hope for something","希望，祝願"],"wizard":["a man in stories who can do magic","巫師，魔法師"],"wool":["the soft, thick hair of sheep, used to make sweaters","羊毛，毛線"],"workbooks":["a book with exercises for students to do","練習簿，作業本"],"worm":["a small, long, soft animal with no legs that lives in the ground","蟲，蠕蟲"],"worries":["to feel afraid that something bad may happen","擔心，煩惱"],"wound":["a cut or hole in your body that hurts","傷口，創傷"],"wrapped":["to cover something with paper or cloth","包裝，裹"],"wrist":["the part of your body between your hand and your arm","手腕"],"writer":["a person who writes books or stories","作家，作者"],"yard":["a piece of ground next to a house","院子，庭院"],"youth":["the time when a person is young","青年，年輕"],"zebra":["an animal like a horse with black and white stripes","斑馬"]});

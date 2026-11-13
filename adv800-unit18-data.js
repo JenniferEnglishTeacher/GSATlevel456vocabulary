@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "hunger",
     "pos": "n.",
     "cn_def": "飢餓",
-    "en_def": "",
+    "en_def": "the feeling of needing food; not having enough food",
     "sentence": "They are working to end {{BLANK}}.",
     "cn": "他們正在努力消除飢餓。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "hunter",
     "pos": "n.",
     "cn_def": "獵人",
-    "en_def": "",
+    "en_def": "a person who catches or kills wild animals",
     "sentence": "The {{BLANK}} tracked the deer through the forest.",
     "cn": "獵人追蹤鹿穿過森林。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "ignore",
     "pos": "v.",
     "cn_def": "忽視",
-    "en_def": "",
+    "en_def": "to act as if you do not see or hear someone or something",
     "sentence": "She decided to {{BLANK}} his rude comments.",
     "cn": "她決定忽視他的粗魯評論。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "ill",
     "pos": "adj.",
     "cn_def": "生病的",
-    "en_def": "",
+    "en_def": "sick",
     "sentence": "He has been {{BLANK}} for a week.",
     "cn": "他生病已經一週了。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "imagine",
     "pos": "v.",
     "cn_def": "想像",
-    "en_def": "",
+    "en_def": "to make a picture of something in your mind",
     "sentence": "Can you {{BLANK}} a world without music?",
     "cn": "你能想像一個沒有音樂的世界嗎？"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "impolite",
     "pos": "adj.",
     "cn_def": "不禮貌的",
-    "en_def": "",
+    "en_def": "not polite; rude",
     "sentence": "It is {{BLANK}} to interrupt someone while they are speaking.",
     "cn": "打斷別人說話是不禮貌的。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "importance",
     "pos": "n.",
     "cn_def": "重要性",
-    "en_def": "",
+    "en_def": "how important something is",
     "sentence": "He understands the {{BLANK}} of education.",
     "cn": "他理解教育的重要性。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "impossible",
     "pos": "adj.",
     "cn_def": "不可能的",
-    "en_def": "",
+    "en_def": "not able to happen or be done",
     "sentence": "It is {{BLANK}} to finish this work in one day.",
     "cn": "一天內完成這項工作是不可能的。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "improve",
     "pos": "v.",
     "cn_def": "改善，改進",
-    "en_def": "",
+    "en_def": "to make something better; to get better",
     "sentence": "She wants to {{BLANK}} her English skills.",
     "cn": "她想提高她的英語技能。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "include",
     "pos": "v.",
     "cn_def": "包含",
-    "en_def": "",
+    "en_def": "to have something as one of its parts",
     "sentence": "The price {{BLANK}} breakfast.",
     "cn": "價格包含早餐。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "income",
     "pos": "n.",
     "cn_def": "收入",
-    "en_def": "",
+    "en_def": "the money that a person gets from work",
     "sentence": "His {{BLANK}} has increased this year.",
     "cn": "他的收入今年增加了。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "inch",
     "pos": "n.",
     "cn_def": "英寸",
-    "en_def": "",
+    "en_def": "a small unit of length; about 2.5 centimeters",
     "sentence": "The screen measures 24 {{BLANK}}.",
     "cn": "螢幕尺寸為24英寸。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "increase",
     "pos": "v.",
     "cn_def": "增加，增長",
-    "en_def": "",
+    "en_def": "to make something bigger in number or amount",
     "sentence": "The company plans to {{BLANK}} its production.",
     "cn": "公司計劃增加產量。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "independent",
     "pos": "adj.",
     "cn_def": "獨立的，自主的",
-    "en_def": "",
+    "en_def": "able to do things by yourself, without help",
     "sentence": "She is a very {{BLANK}} person.",
     "cn": "她是個非常獨立的人。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "indicate",
     "pos": "v.",
     "cn_def": "表明，指出",
-    "en_def": "",
+    "en_def": "to show that something is true",
     "sentence": "The results {{BLANK}} that the treatment is effective.",
     "cn": "結果表明這種治療是有效的。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "influence",
     "pos": "n.",
     "cn_def": "影響",
-    "en_def": "",
+    "en_def": "the power to change how someone thinks or acts",
     "sentence": "Her parents had a big {{BLANK}} on her career choice.",
     "cn": "她的父母對她的職業選擇有很大影響。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "information",
     "pos": "n.",
     "cn_def": "資訊，消息",
-    "en_def": "",
+    "en_def": "facts about someone or something",
     "sentence": "We need more {{BLANK}} before making a decision.",
     "cn": "在作出決定之前我們需要更多資訊。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "ink",
     "pos": "n.",
     "cn_def": "墨水",
-    "en_def": "",
+    "en_def": "the colored liquid inside a pen",
     "sentence": "The pen ran out of {{BLANK}}.",
     "cn": "鋼筆沒有墨水了。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "insist",
     "pos": "v.",
     "cn_def": "堅持，強調",
-    "en_def": "",
+    "en_def": "to say strongly that you want to do something",
     "sentence": "She {{BLANK}} on paying for her own meal.",
     "cn": "她堅持自己付餐費。",
     "alts": [
@@ -165,7 +165,7 @@ const VOCAB = [
     "word": "inspire",
     "pos": "v.",
     "cn_def": "激勵，啟發",
-    "en_def": "",
+    "en_def": "to make someone feel that they want to do something good",
     "sentence": "His speech {{BLANK}} everyone in the audience.",
     "cn": "他的演講激勵了在場的每一個人。"
   }
@@ -417,102 +417,102 @@ const MCQS = [
 const LOOKUP = {
   "hunger": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the feeling of needing food; not having enough food",
     "cn_def": "飢餓"
   },
   "hunter": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who catches or kills wild animals",
     "cn_def": "獵人"
   },
   "ignore": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to act as if you do not see or hear someone or something",
     "cn_def": "忽視"
   },
   "ill": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "sick",
     "cn_def": "生病的"
   },
   "imagine": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make a picture of something in your mind",
     "cn_def": "想像"
   },
   "impolite": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not polite; rude",
     "cn_def": "不禮貌的"
   },
   "importance": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "how important something is",
     "cn_def": "重要性"
   },
   "impossible": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not able to happen or be done",
     "cn_def": "不可能的"
   },
   "improve": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make something better; to get better",
     "cn_def": "改善，改進"
   },
   "includes": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to have something as one of its parts",
     "cn_def": "包含"
   },
   "income": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the money that a person gets from work",
     "cn_def": "收入"
   },
   "inches": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small unit of length; about 2.5 centimeters",
     "cn_def": "英寸"
   },
   "increase": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make something bigger in number or amount",
     "cn_def": "增加，增長"
   },
   "independent": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "able to do things by yourself, without help",
     "cn_def": "獨立的，自主的"
   },
   "indicate": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to show that something is true",
     "cn_def": "表明，指出"
   },
   "influence": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the power to change how someone thinks or acts",
     "cn_def": "影響"
   },
   "information": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "facts about someone or something",
     "cn_def": "資訊，消息"
   },
   "ink": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the colored liquid inside a pen",
     "cn_def": "墨水"
   },
   "insisted": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to say strongly that you want to do something",
     "cn_def": "堅持，強調"
   },
   "inspired": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make someone feel that they want to do something good",
     "cn_def": "激勵，啟發"
   }
 };

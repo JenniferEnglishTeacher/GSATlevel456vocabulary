@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "bright",
     "pos": "adj.",
     "cn_def": "明亮的",
-    "en_def": "",
+    "en_def": "full of light",
     "sentence": "Q: How do the new classrooms look? — A: They look {{BLANK}}. They have big windows.",
     "cn": "新教室看起來怎麼樣？ — 看起來很明亮，它們有大窗戶。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "dark",
     "pos": "adj.",
     "cn_def": "黑暗的",
-    "en_def": "",
+    "en_def": "with little or no light",
     "sentence": "Q: How do the classrooms look at night? — A: They look {{BLANK}}. All the lights are off.",
     "cn": "教室晚上看起來怎麼樣？ — 看起來很暗，燈都關了。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "dirty",
     "pos": "adj.",
     "cn_def": "骯髒的",
-    "en_def": "",
+    "en_def": "not clean",
     "sentence": "Q: How do your shoes look after the soccer game? — A: They look {{BLANK}}. There is mud on them.",
     "cn": "足球賽後你的鞋子看起來怎樣？ — 看起來很髒，上面有泥巴。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "tidy",
     "pos": "adj.",
     "cn_def": "整潔的",
-    "en_def": "",
+    "en_def": "clean, with everything in the right place",
     "sentence": "Q: How does Amy's desk look? — A: It looks {{BLANK}}. Her books are in a row.",
     "cn": "艾美的書桌看起來怎樣？ — 看起來很整齊，她的書排成一排。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "dead",
     "pos": "adj.",
     "cn_def": "死的",
-    "en_def": "",
+    "en_def": "not living anymore",
     "sentence": "Q: How do the flowers in the vase look? — A: They look {{BLANK}}. Nobody gave them water.",
     "cn": "花瓶裡的花看起來怎樣？ — 看起來枯死了，沒有人給它們澆水。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "sharp",
     "pos": "adj.",
     "cn_def": "銳利的",
-    "en_def": "",
+    "en_def": "able to cut things easily",
     "sentence": "Q: How does the new knife look? — A: It looks {{BLANK}}. Be careful!",
     "cn": "這把新刀看起來怎樣？ — 看起來很鋒利，小心！"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "thick",
     "pos": "adj.",
     "cn_def": "厚的",
-    "en_def": "",
+    "en_def": "big from one side to the other; not thin",
     "sentence": "Q: How does the dictionary look? — A: It looks very {{BLANK}}. It has 2,000 pages.",
     "cn": "那本字典看起來怎樣？ — 看起來很厚，它有兩千頁。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "fresh",
     "pos": "adj.",
     "cn_def": "新鮮的",
-    "en_def": "",
+    "en_def": "just made or picked; not old",
     "sentence": "Q: How do the vegetables at the market look? — A: They look {{BLANK}}. The farmers picked them this morning.",
     "cn": "市場的蔬菜看起來怎樣？ — 看起來很新鮮，農夫今天早上採的。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "terrible",
     "pos": "adj.",
     "cn_def": "很糟的",
-    "en_def": "",
+    "en_def": "very bad",
     "sentence": "Q: How does the old milk smell? — A: It smells {{BLANK}}. Don't drink it!",
     "cn": "那瓶過期的牛奶聞起來怎樣？ — 聞起來很糟，別喝！"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "great",
     "pos": "adj.",
     "cn_def": "很棒的",
-    "en_def": "",
+    "en_def": "very good",
     "sentence": "Q: How do the cookies taste? — A: They taste {{BLANK}}! I want another one.",
     "cn": "這些餅乾吃起來怎樣？ — 很好吃！我還想再吃一塊。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "fine",
     "pos": "adj.",
     "cn_def": "很好的",
-    "en_def": "",
+    "en_def": "good; well",
     "sentence": "Q: How do you feel today? — A: I feel {{BLANK}}, thank you.",
     "cn": "你今天覺得怎樣？ — 我覺得很好，謝謝。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "loud",
     "pos": "adj.",
     "cn_def": "大聲的",
-    "en_def": "",
+    "en_def": "making a lot of sound",
     "sentence": "Q: How does the music next door sound? — A: It sounds very {{BLANK}}. I can't sleep.",
     "cn": "隔壁的音樂聽起來怎樣？ — 聽起來很大聲，我睡不著。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "noisy",
     "pos": "adj.",
     "cn_def": "吵鬧的",
-    "en_def": "",
+    "en_def": "full of loud sounds",
     "sentence": "Q: How do the kids in the classroom sound? — A: They sound {{BLANK}}. They are talking and laughing.",
     "cn": "教室裡的孩子們聽起來怎樣？ — 聽起來很吵，他們在說笑。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "quiet",
     "pos": "adj.",
     "cn_def": "安靜的",
-    "en_def": "",
+    "en_def": "with little or no sound",
     "sentence": "Q: How does the library sound? — A: It sounds {{BLANK}}. Everyone is reading.",
     "cn": "圖書館聽起來怎樣？ — 聽起來很安靜，大家都在看書。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "strange",
     "pos": "adj.",
     "cn_def": "奇怪的",
-    "en_def": "",
+    "en_def": "not usual; different in a way that is hard to understand",
     "sentence": "Q: How does the car sound today? — A: It sounds {{BLANK}}. Dad should check it.",
     "cn": "車子今天聽起來怎樣？ — 聽起來怪怪的，爸爸應該檢查一下。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "wonderful",
     "pos": "adj.",
     "cn_def": "極好的",
-    "en_def": "",
+    "en_def": "very, very good",
     "sentence": "Q: How does Lisa's singing sound? — A: It sounds {{BLANK}}! She sings like a star.",
     "cn": "麗莎的歌聲聽起來怎樣？ — 聽起來好極了！她唱得像明星一樣。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "easy",
     "pos": "adj.",
     "cn_def": "容易的",
-    "en_def": "",
+    "en_def": "not hard to do",
     "sentence": "Q: Is the English test easy or hard? — A: It's {{BLANK}}. I can answer all the questions.",
     "cn": "英文考試簡單還是難？ — 很簡單，我每一題都會答。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "simple",
     "pos": "adj.",
     "cn_def": "簡單的",
-    "en_def": "",
+    "en_def": "easy to understand or do",
     "sentence": "Q: Is the game simple or difficult? — A: It's {{BLANK}}. Even my little brother can play it.",
     "cn": "這個遊戲簡單還是困難？ — 很簡單，連我弟弟都會玩。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "hard",
     "pos": "adj.",
     "cn_def": "困難的；硬的",
-    "en_def": "",
+    "en_def": "not easy; not soft",
     "sentence": "Q: Is the bread soft or hard? — A: It's {{BLANK}}. It's three days old.",
     "cn": "這麵包是軟的還是硬的？ — 是硬的，它放三天了。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "correct",
     "pos": "adj.",
     "cn_def": "正確的",
-    "en_def": "",
+    "en_def": "right; with no mistakes",
     "sentence": "Q: Is my answer correct or wrong? — A: It's {{BLANK}}. Good job!",
     "cn": "我的答案是對的還是錯的？ — 是正確的，做得好！"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "right",
     "pos": "adj.",
     "cn_def": "對的",
-    "en_def": "",
+    "en_def": "correct; not wrong",
     "sentence": "Q: Is it right or wrong to help old people? — A: It's {{BLANK}}. We should help them.",
     "cn": "幫助老人是對的還是錯的？ — 是對的，我們應該幫助他們。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "wrong",
     "pos": "adj.",
     "cn_def": "錯誤的",
-    "en_def": "",
+    "en_def": "not right; not correct",
     "sentence": "Q: Is \"Tom have a dog\" right or wrong? — A: It's {{BLANK}}. We say \"Tom has a dog.\"",
     "cn": "「Tom have a dog」是對的還是錯的？ — 是錯的，要說「Tom has a dog」。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "true",
     "pos": "adj.",
     "cn_def": "真實的",
-    "en_def": "",
+    "en_def": "right and not a lie",
     "sentence": "Q: Is the story true or not? — A: It's {{BLANK}}. It happened to my grandpa.",
     "cn": "這個故事是真的嗎？ — 是真的，發生在我爺爺身上。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "real",
     "pos": "adj.",
     "cn_def": "真正的",
-    "en_def": "",
+    "en_def": "not fake; not only in stories",
     "sentence": "Q: Is that a real flower or a paper flower? — A: It's a {{BLANK}} flower. It smells sweet.",
     "cn": "那是真花還是紙花？ — 是真花，聞起來很香。"
   },
@@ -202,7 +202,7 @@ const VOCAB = [
     "word": "safe",
     "pos": "adj.",
     "cn_def": "安全的",
-    "en_def": "",
+    "en_def": "not in danger",
     "sentence": "Q: Is it safe or dangerous to swim in this river? — A: It's {{BLANK}}. The water isn't deep.",
     "cn": "在這條河游泳安全還是危險？ — 很安全，水不深。"
   },
@@ -210,7 +210,7 @@ const VOCAB = [
     "word": "free",
     "pos": "adj.",
     "cn_def": "免費的",
-    "en_def": "",
+    "en_def": "costing no money",
     "sentence": "Q: Is the ticket free or expensive? — A: It's {{BLANK}}. You don't have to pay.",
     "cn": "票是免費的還是很貴？ — 是免費的，你不用付錢。"
   },
@@ -218,7 +218,7 @@ const VOCAB = [
     "word": "same",
     "pos": "adj.",
     "cn_def": "相同的",
-    "en_def": "",
+    "en_def": "not different",
     "sentence": "Q: Are you and Ben in the same class or different classes? — A: We are in the {{BLANK}} class.",
     "cn": "你和班同班還是不同班？ — 我們同一班。"
   },
@@ -226,7 +226,7 @@ const VOCAB = [
     "word": "different",
     "pos": "adj.",
     "cn_def": "不同的",
-    "en_def": "",
+    "en_def": "not the same",
     "sentence": "Q: Are the two pictures the same or different? — A: They are {{BLANK}}. One cat is black, and the other is white.",
     "cn": "這兩張圖一樣還是不一樣？ — 不一樣，一隻貓是黑的，另一隻是白的。"
   },
@@ -234,7 +234,7 @@ const VOCAB = [
     "word": "common",
     "pos": "adj.",
     "cn_def": "常見的",
-    "en_def": "",
+    "en_def": "seen or happening often",
     "sentence": "Q: Is \"Chen\" a common name or a special name in Taiwan? — A: It's a {{BLANK}} name. Many people have it.",
     "cn": "「陳」在臺灣是常見還是特別的姓？ — 是常見的姓，很多人姓陳。"
   },
@@ -242,7 +242,7 @@ const VOCAB = [
     "word": "public",
     "pos": "adj.",
     "cn_def": "公立的",
-    "en_def": "",
+    "en_def": "for all people to use",
     "sentence": "Q: Does your sister go to a public school or a private school? — A: She goes to a {{BLANK}} school.",
     "cn": "你妹妹讀公立還是私立學校？ — 她讀公立學校。"
   },
@@ -250,7 +250,7 @@ const VOCAB = [
     "word": "foreign",
     "pos": "adj.",
     "cn_def": "外國的",
-    "en_def": "",
+    "en_def": "from another country",
     "sentence": "Q: Is Mr. Smith a Taiwanese teacher or a foreign teacher? — A: He is a {{BLANK}} teacher. He comes from Canada.",
     "cn": "史密斯先生是臺灣老師還是外國老師？ — 他是外籍老師，他來自加拿大。"
   },
@@ -258,7 +258,7 @@ const VOCAB = [
     "word": "lucky",
     "pos": "adj.",
     "cn_def": "幸運的",
-    "en_def": "",
+    "en_def": "having good things happen to you by chance",
     "sentence": "Q: I won the first prize! — A: How {{BLANK}} you are!",
     "cn": "我贏得頭獎了！ — 你真幸運！"
   },
@@ -266,7 +266,7 @@ const VOCAB = [
     "word": "helpful",
     "pos": "adj.",
     "cn_def": "有幫助的",
-    "en_def": "",
+    "en_def": "willing to help; useful",
     "sentence": "Q: Tom always helps the old lady carry her bags. — A: How {{BLANK}} he is!",
     "cn": "湯姆總是幫那位老太太提袋子。 — 他真熱心助人！"
   },
@@ -274,7 +274,7 @@ const VOCAB = [
     "word": "useful",
     "pos": "adj.",
     "cn_def": "有用的",
-    "en_def": "",
+    "en_def": "helping you to do something",
     "sentence": "Q: This dictionary has pictures and easy sentences. — A: How {{BLANK}} it is!",
     "cn": "這本字典有圖片和簡單的句子。 — 它真有用！"
   },
@@ -282,7 +282,7 @@ const VOCAB = [
     "word": "convenient",
     "pos": "adj.",
     "cn_def": "方便的",
-    "en_def": "",
+    "en_def": "easy to use or get to",
     "sentence": "Q: There is a supermarket next to my home. — A: How {{BLANK}}! You can buy food any time.",
     "cn": "我家隔壁有一家超市。 — 真方便！你隨時都能買食物。"
   },
@@ -290,7 +290,7 @@ const VOCAB = [
     "word": "excellent",
     "pos": "adj.",
     "cn_def": "極好的",
-    "en_def": "",
+    "en_def": "very, very good",
     "sentence": "Q: Amy got 100 on the math test. — A: What an {{BLANK}} student she is!",
     "cn": "艾美數學考了一百分。 — 她真是個優秀的學生！"
   },
@@ -298,7 +298,7 @@ const VOCAB = [
     "word": "serious",
     "pos": "adj.",
     "cn_def": "嚴重的",
-    "en_def": "",
+    "en_def": "very bad or important; not a joke",
     "sentence": "Q: The typhoon broke many trees and houses. — A: How {{BLANK}} it is!",
     "cn": "颱風弄壞了很多樹和房子。 — 真嚴重！"
   },
@@ -306,7 +306,7 @@ const VOCAB = [
     "word": "magic",
     "pos": "adj.",
     "cn_def": "魔術的",
-    "en_def": "",
+    "en_def": "able to do things that seem impossible",
     "sentence": "Q: The man turns a piece of paper into a bird. — A: What a cool {{BLANK}} trick!",
     "cn": "那個人把一張紙變成一隻鳥。 — 好酷的魔術！"
   },
@@ -314,7 +314,7 @@ const VOCAB = [
     "word": "pop",
     "pos": "adj.",
     "cn_def": "流行的",
-    "en_def": "",
+    "en_def": "(of music) modern and liked by many young people",
     "sentence": "Q: Listen! Everyone is singing this new song. — A: What a great {{BLANK}} song!",
     "cn": "聽！大家都在唱這首新歌。 — 好棒的流行歌！"
   },
@@ -322,7 +322,7 @@ const VOCAB = [
     "word": "modern",
     "pos": "adj.",
     "cn_def": "現代的",
-    "en_def": "",
+    "en_def": "of the present time; new",
     "sentence": "Q: Look at the new train station. — A: What a {{BLANK}} building!",
     "cn": "看那個新火車站。 — 好現代化的建築！"
   },
@@ -330,7 +330,7 @@ const VOCAB = [
     "word": "difficult",
     "pos": "adj.",
     "cn_def": "困難的",
-    "en_def": "",
+    "en_def": "hard to do or understand",
     "sentence": "Q: Which subject do you think is more difficult, math or English? — A: Math is more {{BLANK}} than English for me.",
     "cn": "你覺得數學和英文哪一科比較難？ — 對我來說數學比英文難。"
   },
@@ -338,7 +338,7 @@ const VOCAB = [
     "word": "dangerous",
     "pos": "adj.",
     "cn_def": "危險的",
-    "en_def": "",
+    "en_def": "able to hurt you",
     "sentence": "Q: Which animal does Ben think is more dangerous, a lion or a cat? — A: He thinks a lion is more {{BLANK}} than a cat.",
     "cn": "班覺得獅子和貓哪一個比較危險？ — 他覺得獅子比貓危險。"
   },
@@ -346,7 +346,7 @@ const VOCAB = [
     "word": "interesting",
     "pos": "adj.",
     "cn_def": "有趣的",
-    "en_def": "",
+    "en_def": "making you want to know more",
     "sentence": "Q: Which does Lisa think is more interesting, comic books or movies? — A: She thinks comic books are more {{BLANK}} than movies.",
     "cn": "麗莎覺得漫畫和電影哪個比較有趣？ — 她覺得漫畫比電影有趣。"
   },
@@ -354,7 +354,7 @@ const VOCAB = [
     "word": "important",
     "pos": "adj.",
     "cn_def": "重要的",
-    "en_def": "",
+    "en_def": "having great meaning or value",
     "sentence": "Q: What do you think is the most important thing in life? — A: I think health is the most {{BLANK}} thing.",
     "cn": "你覺得人生中最重要的是什麼？ — 我覺得健康是最重要的。"
   },
@@ -362,7 +362,7 @@ const VOCAB = [
     "word": "popular",
     "pos": "adj.",
     "cn_def": "受歡迎的",
-    "en_def": "",
+    "en_def": "liked by many people",
     "sentence": "Q: Which sport is the most popular in your class? — A: Basketball is the most {{BLANK}} of all.",
     "cn": "你們班最受歡迎的運動是什麼？ — 籃球是所有運動中最受歡迎的。"
   },
@@ -370,7 +370,7 @@ const VOCAB = [
     "word": "special",
     "pos": "adj.",
     "cn_def": "特別的",
-    "en_def": "",
+    "en_def": "different from others in a good way",
     "sentence": "Q: Which day is the most special to you? — A: My birthday is the most {{BLANK}} day of the year.",
     "cn": "對你來說哪一天最特別？ — 我的生日是一年中最特別的一天。"
   },
@@ -378,7 +378,7 @@ const VOCAB = [
     "word": "new (newer)",
     "pos": "adj.",
     "cn_def": "新的",
-    "en_def": "",
+    "en_def": "just made or bought; not old",
     "sentence": "Q: Whose bike is newer, yours or Tom's? — A: Tom's bike is {{BLANK}} than mine.",
     "cn": "誰的腳踏車比較新，你的還是湯姆的？ — 湯姆的腳踏車比我的新。"
   },
@@ -386,7 +386,7 @@ const VOCAB = [
     "word": "latest",
     "pos": "adj.",
     "cn_def": "最新的",
-    "en_def": "",
+    "en_def": "the newest",
     "sentence": "Q: Does your brother have an old cellphone? — A: No, he doesn't. He has the {{BLANK}} one. It came out last week.",
     "cn": "你哥哥的手機是舊的嗎？ — 不是，他有最新的那款，上週才推出。"
   },
@@ -394,7 +394,7 @@ const VOCAB = [
     "word": "able",
     "pos": "adj.",
     "cn_def": "能夠…的",
-    "en_def": "",
+    "en_def": "having the power or skill to do something",
     "sentence": "Q: Is your baby brother able to walk? — A: Yes, he is. He is {{BLANK}} to walk now.",
     "cn": "你的小弟弟會走路了嗎？ — 會，他現在會走路了。"
   },
@@ -402,7 +402,7 @@ const VOCAB = [
     "word": "afraid",
     "pos": "adj.",
     "cn_def": "害怕的",
-    "en_def": "",
+    "en_def": "feeling fear",
     "sentence": "Q: Does Lisa like snakes? — A: No, she doesn't. She is {{BLANK}} of them.",
     "cn": "麗莎喜歡蛇嗎？ — 不喜歡，她怕蛇。"
   },
@@ -410,7 +410,7 @@ const VOCAB = [
     "word": "scared",
     "pos": "adj.",
     "cn_def": "害怕的",
-    "en_def": "",
+    "en_def": "afraid of something",
     "sentence": "Q: Do you like the dark? — A: No, I don't. I'm {{BLANK}} of the dark.",
     "cn": "你喜歡黑暗嗎？ — 不喜歡，我怕黑。"
   },
@@ -418,7 +418,7 @@ const VOCAB = [
     "word": "glad",
     "pos": "adj.",
     "cn_def": "高興的",
-    "en_def": "",
+    "en_def": "happy about something",
     "sentence": "Q: How do you feel about your new school? — A: I'm {{BLANK}} to be here. Everyone is friendly.",
     "cn": "你覺得新學校怎麼樣？ — 我很高興來這裡，大家都很友善。"
   },
@@ -426,7 +426,7 @@ const VOCAB = [
     "word": "sorry",
     "pos": "adj.",
     "cn_def": "抱歉的",
-    "en_def": "",
+    "en_def": "feeling bad about something you did",
     "sentence": "Q: What does Tom say when he is late? — A: He says, \"I'm {{BLANK}} I'm late.\"",
     "cn": "湯姆遲到時會說什麼？ — 他說：「抱歉我遲到了。」"
   },
@@ -434,7 +434,7 @@ const VOCAB = [
     "word": "sure",
     "pos": "adj.",
     "cn_def": "確定的",
-    "en_def": "",
+    "en_def": "knowing that something is true",
     "sentence": "Q: Does Ben know the answer? — A: Yes, he does. He is {{BLANK}} it's \"C.\"",
     "cn": "班知道答案嗎？ — 知道，他確定是 C。"
   },
@@ -442,7 +442,7 @@ const VOCAB = [
     "word": "surprised",
     "pos": "adj.",
     "cn_def": "感到驚訝的",
-    "en_def": "",
+    "en_def": "feeling that you did not expect something",
     "sentence": "Q: How do your parents feel about your test? — A: They are {{BLANK}}. It's my first 100!",
     "cn": "你爸媽對你的考試有什麼感覺？ — 他們很驚訝，這是我第一次考一百分！"
   },
@@ -450,7 +450,7 @@ const VOCAB = [
     "word": "ready",
     "pos": "adj.",
     "cn_def": "準備好的",
-    "en_def": "",
+    "en_def": "prepared to do something",
     "sentence": "Q: Do the students have their books and pencils? — A: Yes, they do. They are {{BLANK}} for class.",
     "cn": "學生們都帶書和鉛筆了嗎？ — 有，他們準備好上課了。"
   },
@@ -458,7 +458,7 @@ const VOCAB = [
     "word": "OK",
     "pos": "adj.",
     "cn_def": "沒問題的",
-    "en_def": "",
+    "en_def": "all right; fine",
     "sentence": "Q: Does your leg still hurt? — A: No, it doesn't. I'm {{BLANK}} now.",
     "cn": "你的腿還痛嗎？ — 不痛了，我現在沒事了。"
   },
@@ -466,7 +466,7 @@ const VOCAB = [
     "word": "possible",
     "pos": "adj.",
     "cn_def": "可能的",
-    "en_def": "",
+    "en_def": "able to happen or be done",
     "sentence": "Q: Is it possible to walk to the zoo from here? — A: Yes, it's {{BLANK}}, but it takes an hour.",
     "cn": "從這裡走路到動物園可能嗎？ — 可以，但要走一個小時。"
   },
@@ -474,7 +474,7 @@ const VOCAB = [
     "word": "favorite",
     "pos": "adj.",
     "cn_def": "最喜愛的",
-    "en_def": "",
+    "en_def": "liked the most",
     "sentence": "Q: What fruit do you like best? — A: Strawberries. They are my {{BLANK}} fruit.",
     "cn": "你最喜歡什麼水果？ — 草莓，它們是我最愛的水果。"
   },
@@ -482,7 +482,7 @@ const VOCAB = [
     "word": "own",
     "pos": "adj.",
     "cn_def": "自己的",
-    "en_def": "",
+    "en_def": "belonging to that person and nobody else",
     "sentence": "Q: Do you and your brother share a room? — A: No, we don't. I have my {{BLANK}} room.",
     "cn": "你和你哥哥共用一間房間嗎？ — 沒有，我有自己的房間。"
   },
@@ -490,7 +490,7 @@ const VOCAB = [
     "word": "only",
     "pos": "adj.",
     "cn_def": "唯一的",
-    "en_def": "",
+    "en_def": "with no other one of the same kind",
     "sentence": "Q: Does Amy have any brothers or sisters? — A: No, she doesn't. She is an {{BLANK}} child.",
     "cn": "艾美有兄弟姊妹嗎？ — 沒有，她是獨生女。"
   },
@@ -498,7 +498,7 @@ const VOCAB = [
     "word": "other",
     "pos": "adj.",
     "cn_def": "其他的",
-    "en_def": "",
+    "en_def": "not this one; different",
     "sentence": "Q: Do all the students go home after school? — A: No, they don't. Some go home, and the {{BLANK}} students stay for clubs.",
     "cn": "所有學生放學都回家嗎？ — 不是，有些回家，其他學生留下來參加社團。"
   },
@@ -506,7 +506,7 @@ const VOCAB = [
     "word": "else",
     "pos": "adj.",
     "cn_def": "別的",
-    "en_def": "",
+    "en_def": "different; in addition",
     "sentence": "Q: I want a hamburger. Do you want anything {{BLANK}}? — A: Yes. I want some fries, too.",
     "cn": "我要一個漢堡。你還要別的東西嗎？ — 要，我也想要一些薯條。"
   },
@@ -514,7 +514,7 @@ const VOCAB = [
     "word": "enough",
     "pos": "adj.",
     "cn_def": "足夠的",
-    "en_def": "",
+    "en_def": "as much or as many as you need",
     "sentence": "Q: Does Ben have {{BLANK}} money for the ticket? — A: No, he doesn't. He needs ten more dollars.",
     "cn": "班有足夠的錢買票嗎？ — 沒有，他還需要十元。"
   },
@@ -522,7 +522,7 @@ const VOCAB = [
     "word": "main",
     "pos": "adj.",
     "cn_def": "主要的",
-    "en_def": "",
+    "en_def": "most important",
     "sentence": "Q: Where do your parents wait for you after school? — A: They wait at the {{BLANK}} gate of the school.",
     "cn": "放學後你爸媽在哪裡等你？ — 他們在學校大門等。"
   },
@@ -530,7 +530,7 @@ const VOCAB = [
     "word": "national",
     "pos": "adj.",
     "cn_def": "國家的",
-    "en_def": "",
+    "en_def": "of a whole country",
     "sentence": "Q: Why don't we go to school on October 10? — A: Because it's a {{BLANK}} holiday.",
     "cn": "為什麼我們十月十日不用上學？ — 因為那天是國定假日。"
   },
@@ -538,7 +538,7 @@ const VOCAB = [
     "word": "American",
     "pos": "adj.",
     "cn_def": "美國的",
-    "en_def": "",
+    "en_def": "from the United States",
     "sentence": "Q: What kind of food does Tom like? — A: He likes {{BLANK}} food, like hamburgers and hot dogs.",
     "cn": "湯姆喜歡哪種食物？ — 他喜歡美國食物，像漢堡和熱狗。"
   },
@@ -546,7 +546,7 @@ const VOCAB = [
     "word": "present",
     "pos": "adj.",
     "cn_def": "出席的",
-    "en_def": "",
+    "en_def": "being in a place; not absent",
     "sentence": "Q: Does the teacher check who is here every morning? — A: Yes, she does. Today all thirty students are {{BLANK}}.",
     "cn": "老師每天早上都會點名嗎？ — 會，今天三十個學生全部出席。"
   },
@@ -554,7 +554,7 @@ const VOCAB = [
     "word": "dear",
     "pos": "adj.",
     "cn_def": "親愛的",
-    "en_def": "",
+    "en_def": "loved; used at the start of a letter",
     "sentence": "Q: How does Lisa start her letter to her grandma? — A: She writes, \"{{BLANK}} Grandma, …\"",
     "cn": "麗莎寫信給奶奶時怎麼開頭？ — 她寫：「親愛的奶奶，……」"
   }
@@ -1394,347 +1394,347 @@ const MCQS = [
 const LOOKUP = {
   "scared": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "afraid of something",
     "cn_def": "害怕的"
   },
   "present": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "something you give to someone; a gift",
     "cn_def": "禮物"
   },
   "right": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the side opposite to left",
     "cn_def": "右邊"
   },
   "other": {
     "pos": "pron.",
-    "en_def": "",
+    "en_def": "the second of two; the ones that are left",
     "cn_def": "其他的（人／物）"
   },
   "american": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person from the United States",
     "cn_def": "美國人"
   },
   "correct": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make something right",
     "cn_def": "改正"
   },
   "own": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to have something that is yours",
     "cn_def": "擁有"
   },
   "bright": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "full of light",
     "cn_def": "明亮的"
   },
   "dark": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with little or no light",
     "cn_def": "黑暗的"
   },
   "dirty": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not clean",
     "cn_def": "骯髒的"
   },
   "tidy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "clean, with everything in the right place",
     "cn_def": "整潔的"
   },
   "dead": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not living anymore",
     "cn_def": "死的"
   },
   "sharp": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "able to cut things easily",
     "cn_def": "銳利的"
   },
   "thick": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "big from one side to the other; not thin",
     "cn_def": "厚的"
   },
   "fresh": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "just made or picked; not old",
     "cn_def": "新鮮的"
   },
   "terrible": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very bad",
     "cn_def": "很糟的"
   },
   "great": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very good",
     "cn_def": "很棒的"
   },
   "fine": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "good; well",
     "cn_def": "很好的"
   },
   "loud": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "making a lot of sound",
     "cn_def": "大聲的"
   },
   "noisy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "full of loud sounds",
     "cn_def": "吵鬧的"
   },
   "quiet": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with little or no sound",
     "cn_def": "安靜的"
   },
   "strange": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not usual; different in a way that is hard to understand",
     "cn_def": "奇怪的"
   },
   "wonderful": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very, very good",
     "cn_def": "極好的"
   },
   "easy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not hard to do",
     "cn_def": "容易的"
   },
   "simple": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "easy to understand or do",
     "cn_def": "簡單的"
   },
   "hard": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not easy; not soft",
     "cn_def": "困難的；硬的"
   },
   "wrong": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not right; not correct",
     "cn_def": "錯誤的"
   },
   "true": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "right and not a lie",
     "cn_def": "真實的"
   },
   "real": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not fake; not only in stories",
     "cn_def": "真正的"
   },
   "safe": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not in danger",
     "cn_def": "安全的"
   },
   "free": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "costing no money",
     "cn_def": "免費的"
   },
   "same": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not different",
     "cn_def": "相同的"
   },
   "different": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not the same",
     "cn_def": "不同的"
   },
   "common": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "seen or happening often",
     "cn_def": "常見的"
   },
   "public": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "for all people to use",
     "cn_def": "公立的"
   },
   "foreign": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "from another country",
     "cn_def": "外國的"
   },
   "lucky": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having good things happen to you by chance",
     "cn_def": "幸運的"
   },
   "helpful": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "willing to help; useful",
     "cn_def": "有幫助的"
   },
   "useful": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "helping you to do something",
     "cn_def": "有用的"
   },
   "convenient": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "easy to use or get to",
     "cn_def": "方便的"
   },
   "excellent": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very, very good",
     "cn_def": "極好的"
   },
   "serious": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very bad or important; not a joke",
     "cn_def": "嚴重的"
   },
   "magic": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "able to do things that seem impossible",
     "cn_def": "魔術的"
   },
   "pop": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "(of music) modern and liked by many young people",
     "cn_def": "流行的"
   },
   "modern": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "of the present time; new",
     "cn_def": "現代的"
   },
   "difficult": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "hard to do or understand",
     "cn_def": "困難的"
   },
   "dangerous": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "able to hurt you",
     "cn_def": "危險的"
   },
   "interesting": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "making you want to know more",
     "cn_def": "有趣的"
   },
   "important": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having great meaning or value",
     "cn_def": "重要的"
   },
   "popular": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "liked by many people",
     "cn_def": "受歡迎的"
   },
   "special": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "different from others in a good way",
     "cn_def": "特別的"
   },
   "newer": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "just made or bought; not old",
     "cn_def": "新的"
   },
   "latest": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "the newest",
     "cn_def": "最新的"
   },
   "able": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having the power or skill to do something",
     "cn_def": "能夠…的"
   },
   "afraid": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "feeling fear",
     "cn_def": "害怕的"
   },
   "glad": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "happy about something",
     "cn_def": "高興的"
   },
   "sorry": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "feeling bad about something you did",
     "cn_def": "抱歉的"
   },
   "sure": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "knowing that something is true",
     "cn_def": "確定的"
   },
   "surprised": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "feeling that you did not expect something",
     "cn_def": "感到驚訝的"
   },
   "ready": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "prepared to do something",
     "cn_def": "準備好的"
   },
   "ok": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "all right; fine",
     "cn_def": "沒問題的"
   },
   "possible": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "able to happen or be done",
     "cn_def": "可能的"
   },
   "favorite": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "liked the most",
     "cn_def": "最喜愛的"
   },
   "only": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with no other one of the same kind",
     "cn_def": "唯一的"
   },
   "else": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "different; in addition",
     "cn_def": "別的"
   },
   "enough": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "as much or as many as you need",
     "cn_def": "足夠的"
   },
   "main": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "most important",
     "cn_def": "主要的"
   },
   "national": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "of a whole country",
     "cn_def": "國家的"
   },
   "dear": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "loved; used at the start of a letter",
     "cn_def": "親愛的"
   }
 };

@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "instant",
     "answer": "instant",
     "pos": "adj.",
-    "definition": "",
+    "definition": "(of food) very quick and easy to make",
     "chinese": "即時的，瞬間的",
     "sentence": "She made __________ noodles for lunch.",
     "translation": "她午餐做了即食麵。",
     "lookup": {
-     "english": "",
+     "english": "(of food) very quick and easy to make",
      "chinese": "即時的，瞬間的"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "instrument",
     "answer": "instruments",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing you play to make music, like a piano or guitar",
     "chinese": "樂器，工具",
     "sentence": "She plays several musical __________.",
     "translation": "她會演奏幾種樂器。",
     "lookup": {
-     "english": "",
+     "english": "a thing you play to make music, like a piano or guitar",
      "chinese": "樂器，工具"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "intelligent",
     "answer": "intelligent",
     "pos": "adj.",
-    "definition": "",
+    "definition": "smart; able to learn and understand quickly",
     "chinese": "聰明的，智慧的",
     "sentence": "She is one of the most __________ students in the class.",
     "translation": "她是班上最聰明的學生之一。",
     "lookup": {
-     "english": "",
+     "english": "smart; able to learn and understand quickly",
      "chinese": "聰明的，智慧的"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "international",
     "answer": "international",
     "pos": "adj.",
-    "definition": "",
+    "definition": "for or between many countries",
     "chinese": "國際的",
     "sentence": "The city hosts an __________ film festival every year.",
     "translation": "這個城市每年都舉辦國際電影節。",
     "lookup": {
-     "english": "",
+     "english": "for or between many countries",
      "chinese": "國際的"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "interrupt",
     "answer": "interrupt",
     "pos": "v.",
-    "definition": "",
+    "definition": "to stop someone while they are speaking",
     "chinese": "打斷，中斷",
     "sentence": "Please don't __________ me while I'm speaking.",
     "translation": "我說話時請不要打斷我。",
     "lookup": {
-     "english": "",
+     "english": "to stop someone while they are speaking",
      "chinese": "打斷，中斷"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "introduce",
     "answer": "introduced",
     "pos": "v.",
-    "definition": "",
+    "definition": "to tell people each other's names when they meet for the first time",
     "chinese": "介紹，引入",
     "sentence": "She __________ him to her parents.",
     "translation": "她把他介紹給了她的父母。",
     "lookup": {
-     "english": "",
+     "english": "to tell people each other's names when they meet for the first time",
      "chinese": "介紹，引入"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "invent",
     "answer": "invented",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make or think of something that did not exist before",
     "chinese": "發明，創造",
     "sentence": "He __________ a new type of computer.",
     "translation": "他發明了一種新型電腦。",
     "lookup": {
-     "english": "",
+     "english": "to make or think of something that did not exist before",
      "chinese": "發明，創造"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "invitation",
     "answer": "invitation",
     "pos": "n.",
-    "definition": "",
+    "definition": "a card or words asking someone to come to a party or event",
     "chinese": "邀請，請帖",
     "sentence": "She received an __________ to the wedding.",
     "translation": "她收到了婚禮的邀請。",
     "lookup": {
-     "english": "",
+     "english": "a card or words asking someone to come to a party or event",
      "chinese": "邀請，請帖"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "iron",
     "answer": "iron",
     "pos": "n.",
-    "definition": "",
+    "definition": "a hot tool that you move over clothes to make them flat",
     "chinese": "鐵，熨斗",
     "sentence": "She needs to use the __________ to press her clothes.",
     "translation": "她需要用熨斗熨衣服。",
     "lookup": {
-     "english": "",
+     "english": "a hot tool that you move over clothes to make them flat",
      "chinese": "鐵，熨斗"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "jam",
     "answer": "jam",
     "pos": "n.",
-    "definition": "",
+    "definition": "a sweet food made from fruit and sugar that you put on bread",
     "chinese": "果醬，堵塞",
     "sentence": "She spread __________ on her toast.",
     "translation": "她在吐司上抹了果醬。",
     "lookup": {
-     "english": "",
+     "english": "a sweet food made from fruit and sugar that you put on bread",
      "chinese": "果醬，堵塞"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "jazz",
     "answer": "jazz",
     "pos": "n.",
-    "definition": "",
+    "definition": "a kind of music with a strong beat, first played in the U.S.A.",
     "chinese": "爵士樂",
     "sentence": "He enjoys listening to __________.",
     "translation": "他喜歡聽爵士樂。",
     "lookup": {
-     "english": "",
+     "english": "a kind of music with a strong beat, first played in the U.S.A.",
      "chinese": "爵士樂"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "jealous",
     "answer": "jealous",
     "pos": "adj.",
-    "definition": "",
+    "definition": "unhappy because someone has what you want",
     "chinese": "嫉妒的",
     "sentence": "He was __________ of his brother's success.",
     "translation": "他嫉妒他兄弟的成功。",
     "lookup": {
-     "english": "",
+     "english": "unhappy because someone has what you want",
      "chinese": "嫉妒的"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "jeep",
     "answer": "jeep",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small, strong car that can go on bad roads",
     "chinese": "吉普車",
     "sentence": "They drove a __________ through the desert.",
     "translation": "他們開著吉普車穿過沙漠。",
     "lookup": {
-     "english": "",
+     "english": "a small, strong car that can go on bad roads",
      "chinese": "吉普車"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "journalist",
     "answer": "journalist",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who writes news stories",
     "chinese": "記者",
     "sentence": "She works as a __________ for the local newspaper.",
     "translation": "她是當地報紙的記者。",
     "lookup": {
-     "english": "",
+     "english": "a person who writes news stories",
      "chinese": "記者"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "judge",
     "answer": "judge",
     "pos": "n.",
-    "definition": "",
+    "definition": "the person in a court who decides how to punish someone",
     "chinese": "法官，裁判",
     "sentence": "The __________ sentenced him to five years in prison.",
     "translation": "法官判他五年徒刑。",
     "lookup": {
-     "english": "",
+     "english": "the person in a court who decides how to punish someone",
      "chinese": "法官，裁判"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "kangaroo",
     "answer": "kangaroo",
     "pos": "n.",
-    "definition": "",
+    "definition": "an animal from Australia that jumps and carries its baby in a pocket",
     "chinese": "袋鼠",
     "sentence": "They saw a __________ at the wildlife park.",
     "translation": "他們在野生動物園看到了一隻袋鼠。",
     "lookup": {
-     "english": "",
+     "english": "an animal from Australia that jumps and carries its baby in a pocket",
      "chinese": "袋鼠"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "ketchup",
     "answer": "ketchup",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thick red sauce made from tomatoes",
     "chinese": "番茄醬",
     "sentence": "He added __________ to his burger.",
     "translation": "他在漢堡裡加了番茄醬。",
     "lookup": {
-     "english": "",
+     "english": "a thick red sauce made from tomatoes",
      "chinese": "番茄醬"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "kilometer",
     "answer": "kilometer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a unit of length; it is 1,000 meters",
     "chinese": "公里",
     "sentence": "They ran a 5 __________ race.",
     "translation": "他們參加了一場5公里的比賽。",
     "lookup": {
-     "english": "",
+     "english": "a unit of length; it is 1,000 meters",
      "chinese": "公里"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "kindergarten",
     "answer": "kindergarten",
     "pos": "n.",
-    "definition": "",
+    "definition": "a school for very young children",
     "chinese": "幼兒園",
     "sentence": "She teaches at a __________.",
     "translation": "她在幼兒園教書。",
     "lookup": {
-     "english": "",
+     "english": "a school for very young children",
      "chinese": "幼兒園"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "kingdom",
     "answer": "kingdom",
     "pos": "n.",
-    "definition": "",
+    "definition": "a country that has a king or queen; a world of one kind of living thing",
     "chinese": "王國",
     "sentence": "The lion is known as the king of the __________.",
     "translation": "獅子被稱為王國的國王。",
     "lookup": {
-     "english": "",
+     "english": "a country that has a king or queen; a world of one kind of living thing",
      "chinese": "王國"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"instant":["","即時的，瞬間的"],"instruments":["","樂器，工具"],"intelligent":["","聰明的，智慧的"],"international":["","國際的"],"interrupt":["","打斷，中斷"],"introduced":["","介紹，引入"],"invented":["","發明，創造"],"invitation":["","邀請，請帖"],"iron":["","鐵，熨斗"],"jam":["","果醬，堵塞"],"jazz":["","爵士樂"],"jealous":["","嫉妒的"],"jeep":["","吉普車"],"journalist":["","記者"],"judge":["","法官，裁判"],"kangaroo":["","袋鼠"],"ketchup":["","番茄醬"],"kilometer":["","公里"],"kindergarten":["","幼兒園"],"kingdom":["","王國"],"licked":["","舔"],"provide":["","提供，供給"],"supported":["","支持，支援"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"instant":["(of food) very quick and easy to make","即時的，瞬間的"],"instruments":["a thing you play to make music, like a piano or guitar","樂器，工具"],"intelligent":["smart; able to learn and understand quickly","聰明的，智慧的"],"international":["for or between many countries","國際的"],"interrupt":["to stop someone while they are speaking","打斷，中斷"],"introduced":["to tell people each other's names when they meet for the first time","介紹，引入"],"invented":["to make or think of something that did not exist before","發明，創造"],"invitation":["a card or words asking someone to come to a party or event","邀請，請帖"],"iron":["a hot tool that you move over clothes to make them flat","鐵，熨斗"],"jam":["a sweet food made from fruit and sugar that you put on bread","果醬，堵塞"],"jazz":["a kind of music with a strong beat, first played in the U.S.A.","爵士樂"],"jealous":["unhappy because someone has what you want","嫉妒的"],"jeep":["a small, strong car that can go on bad roads","吉普車"],"journalist":["a person who writes news stories","記者"],"judge":["the person in a court who decides how to punish someone","法官，裁判"],"kangaroo":["an animal from Australia that jumps and carries its baby in a pocket","袋鼠"],"ketchup":["a thick red sauce made from tomatoes","番茄醬"],"kilometer":["a unit of length; it is 1,000 meters","公里"],"kindergarten":["a school for very young children","幼兒園"],"kingdom":["a country that has a king or queen; a world of one kind of living thing","王國"],"licked":["to move your tongue over something","舔"],"provide":["to give someone what they need","提供，供給"],"supported":["to agree with and help someone","支持，支援"]});

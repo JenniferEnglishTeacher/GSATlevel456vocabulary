@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "uncle",
     "answer": "uncle",
     "pos": "n.",
-    "definition": "",
+    "definition": "the brother of your father or mother",
     "chinese": "叔叔，舅舅",
     "sentence": "He visited his __________.",
     "translation": "他拜訪了他的叔叔。",
     "lookup": {
-     "english": "",
+     "english": "the brother of your father or mother",
      "chinese": "叔叔，舅舅"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "underline",
     "answer": "underlined",
     "pos": "v.",
-    "definition": "",
+    "definition": "to draw a line under a word",
     "chinese": "在...下面劃線，強調",
     "sentence": "She __________ the important words.",
     "translation": "她在重要詞語下劃了線。",
     "lookup": {
-     "english": "",
+     "english": "to draw a line under a word",
      "chinese": "在...下面劃線，強調"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "underwear",
     "answer": "underwear",
     "pos": "n.",
-    "definition": "",
+    "definition": "clothes that you wear next to your skin under other clothes",
     "chinese": "內衣，底褲",
     "sentence": "She bought new __________.",
     "translation": "她買了新內衣。",
     "lookup": {
-     "english": "",
+     "english": "clothes that you wear next to your skin under other clothes",
      "chinese": "內衣，底褲"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "unhappy",
     "answer": "unhappy",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not happy",
     "chinese": "不快樂的，不滿意的",
     "sentence": "He is __________ with his job.",
     "translation": "他對他的工作不滿意。",
     "lookup": {
-     "english": "",
+     "english": "not happy",
      "chinese": "不快樂的，不滿意的"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "uniform",
     "answer": "uniform",
     "pos": "n.",
-    "definition": "",
+    "definition": "special clothes that all students or workers in one place wear",
     "chinese": "制服",
     "sentence": "She wears a __________ to school.",
     "translation": "她穿著制服上學。",
     "lookup": {
-     "english": "",
+     "english": "special clothes that all students or workers in one place wear",
      "chinese": "制服"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "universe",
     "answer": "universe",
     "pos": "n.",
-    "definition": "",
+    "definition": "all of space, with all the stars and planets",
     "chinese": "宇宙，天地",
     "sentence": "The __________ is vast and mysterious.",
     "translation": "宇宙是廣闊而神秘的。",
     "lookup": {
-     "english": "",
+     "english": "all of space, with all the stars and planets",
      "chinese": "宇宙，天地"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "used to",
     "answer": "used to",
     "pos": "aux.",
-    "definition": "",
+    "definition": "did something often in the past, but not now",
     "chinese": "曾經，習慣於",
     "sentence": "She __________ live in New York.",
     "translation": "她曾經住在紐約。",
     "lookup": {
-     "english": "",
+     "english": "did something often in the past, but not now",
      "chinese": "曾經，習慣於"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "useful",
     "answer": "useful",
     "pos": "adj.",
-    "definition": "",
+    "definition": "helping you to do something",
     "chinese": "有用的，有幫助的",
     "sentence": "This tool is very __________.",
     "translation": "這個工具很有用。",
     "lookup": {
-     "english": "",
+     "english": "helping you to do something",
      "chinese": "有用的，有幫助的"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "usual",
     "answer": "usual",
     "pos": "adj.",
-    "definition": "",
+    "definition": "normal; happening most of the time",
     "chinese": "通常的，平常的",
     "sentence": "She arrived at the __________ time.",
     "translation": "她在平常的時間到達。",
     "lookup": {
-     "english": "",
+     "english": "normal; happening most of the time",
      "chinese": "通常的，平常的"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "vacation",
     "answer": "vacation",
     "pos": "n.",
-    "definition": "",
+    "definition": "a time when you do not go to school or work",
     "chinese": "假期，休假",
     "sentence": "They went on a family __________.",
     "translation": "他們去家庭度假。",
     "lookup": {
-     "english": "",
+     "english": "a time when you do not go to school or work",
      "chinese": "假期，休假"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "vacuum",
     "answer": "vacuum",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine that cleans floors by pulling in dust",
     "chinese": "真空，吸塵器",
     "sentence": "She used a __________ to clean the carpet.",
     "translation": "她用吸塵器清潔地毯。",
     "lookup": {
-     "english": "",
+     "english": "a machine that cleans floors by pulling in dust",
      "chinese": "真空，吸塵器"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "valley",
     "answer": "valley",
     "pos": "n.",
-    "definition": "",
+    "definition": "the low land between hills or mountains",
     "chinese": "山谷，溪谷",
     "sentence": "They hiked through the __________.",
     "translation": "他們徒步穿越山谷。",
     "lookup": {
-     "english": "",
+     "english": "the low land between hills or mountains",
      "chinese": "山谷，溪谷"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "value",
     "answer": "value",
     "pos": "n.",
-    "definition": "",
+    "definition": "how important or useful something is",
     "chinese": "價值，重要性",
     "sentence": "She placed a high __________ on honesty.",
     "translation": "她非常重視誠實。",
     "lookup": {
-     "english": "",
+     "english": "how important or useful something is",
      "chinese": "價值，重要性"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "various",
     "answer": "various",
     "pos": "adj.",
-    "definition": "",
+    "definition": "many different",
     "chinese": "各種各樣的",
     "sentence": "The store sells __________ types of bread.",
     "translation": "這家商店出售各種麵包。",
     "lookup": {
-     "english": "",
+     "english": "many different",
      "chinese": "各種各樣的"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "vase",
     "answer": "vase",
     "pos": "n.",
-    "definition": "",
+    "definition": "a tall container for flowers",
     "chinese": "花瓶",
     "sentence": "She arranged flowers in the __________.",
     "translation": "她在花瓶裡插花。",
     "lookup": {
-     "english": "",
+     "english": "a tall container for flowers",
      "chinese": "花瓶"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "vegetable",
     "answer": "vegetables",
     "pos": "n.",
-    "definition": "",
+    "definition": "a plant that people eat, like carrots and cabbage",
     "chinese": "蔬菜",
     "sentence": "She grows her own __________.",
     "translation": "她自己種蔬菜。",
     "lookup": {
-     "english": "",
+     "english": "a plant that people eat, like carrots and cabbage",
      "chinese": "蔬菜"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "vehicle",
     "answer": "vehicle",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine like a car, bus, or truck that carries people or things",
     "chinese": "車輛，交通工具",
     "sentence": "They bought a new __________.",
     "translation": "他們買了一輛新車。",
     "lookup": {
-     "english": "",
+     "english": "a machine like a car, bus, or truck that carries people or things",
      "chinese": "車輛，交通工具"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "village",
     "answer": "village",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very small town in the country",
     "chinese": "村莊",
     "sentence": "They live in a small __________.",
     "translation": "他們住在一個小村莊裡。",
     "lookup": {
-     "english": "",
+     "english": "a very small town in the country",
      "chinese": "村莊"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "violent",
     "answer": "violent",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very strong and dangerous",
     "chinese": "暴力的，猛烈的",
     "sentence": "The storm was very __________.",
     "translation": "暴風雨非常猛烈。",
     "lookup": {
-     "english": "",
+     "english": "very strong and dangerous",
      "chinese": "暴力的，猛烈的"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "visitor",
     "answer": "visitors",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who comes to see a place or a person",
     "chinese": "訪客，參觀者",
     "sentence": "The museum had many __________ last week.",
     "translation": "上週博物館有很多參觀者。",
     "lookup": {
-     "english": "",
+     "english": "a person who comes to see a place or a person",
      "chinese": "訪客，參觀者"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"divided":["","分開，劃分"],"male":["","男性的"],"shall":["","將要，應該"],"succeed":["","成功，繼承"],"toffee":["","太妃糖"],"uncle":["","叔叔，舅舅"],"underlined":["","在...下面劃線，強調"],"underwear":["","內衣，底褲"],"unhappy":["","不快樂的，不滿意的"],"uniform":["","制服"],"universe":["","宇宙，天地"],"useful":["","有用的，有幫助的"],"usual":["","通常的，平常的"],"vacation":["","假期，休假"],"vacuum":["","真空，吸塵器"],"valley":["","山谷，溪谷"],"value":["","價值，重要性"],"various":["","各種各樣的"],"vase":["","花瓶"],"vegetables":["","蔬菜"],"vehicle":["","車輛，交通工具"],"village":["","村莊"],"violent":["","暴力的，猛烈的"],"visitors":["","訪客，參觀者"],"wrapped":["","包裝，裹"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"divided":["to cut or break something into parts","分開，劃分"],"male":["being a man or a boy","男性的"],"shall":["used with \"I\" or \"we\" to talk about the future","將要，應該"],"succeed":["to do well and get what you wanted","成功，繼承"],"toffee":["a hard, sticky brown candy made from sugar and butter","太妃糖"],"uncle":["the brother of your father or mother","叔叔，舅舅"],"underlined":["to draw a line under a word","在...下面劃線，強調"],"underwear":["clothes that you wear next to your skin under other clothes","內衣，底褲"],"unhappy":["not happy","不快樂的，不滿意的"],"uniform":["special clothes that all students or workers in one place wear","制服"],"universe":["all of space, with all the stars and planets","宇宙，天地"],"useful":["helping you to do something","有用的，有幫助的"],"usual":["normal; happening most of the time","通常的，平常的"],"vacation":["a time when you do not go to school or work","假期，休假"],"vacuum":["a machine that cleans floors by pulling in dust","真空，吸塵器"],"valley":["the low land between hills or mountains","山谷，溪谷"],"value":["how important or useful something is","價值，重要性"],"various":["many different","各種各樣的"],"vase":["a tall container for flowers","花瓶"],"vegetables":["a plant that people eat, like carrots and cabbage","蔬菜"],"vehicle":["a machine like a car, bus, or truck that carries people or things","車輛，交通工具"],"village":["a very small town in the country","村莊"],"violent":["very strong and dangerous","暴力的，猛烈的"],"visitors":["a person who comes to see a place or a person","訪客，參觀者"],"wrapped":["to cover something with paper or cloth","包裝，裹"]});

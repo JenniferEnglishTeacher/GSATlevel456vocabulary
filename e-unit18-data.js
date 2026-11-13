@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "bicycle (bike)",
     "answer": "bicycle",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing with two wheels that you ride by moving your legs",
     "chinese": "腳踏車",
     "sentence": "Q: How does Amy go to school? — A: She goes to school by __________.",
     "translation": "艾美怎麼上學？ — 她騎腳踏車上學。",
     "lookup": {
-     "english": "",
+     "english": "a thing with two wheels that you ride by moving your legs",
      "chinese": "腳踏車"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "ride",
     "answer": "ride",
     "pos": "v.",
-    "definition": "",
+    "definition": "to sit on a bike, a horse, or a scooter and make it go",
     "chinese": "騎",
     "sentence": "Q: How do you go to the park? — A: I __________ my bike there.",
     "translation": "你怎麼去公園？ — 我騎腳踏車去那裡。",
     "lookup": {
-     "english": "",
+     "english": "to sit on a bike, a horse, or a scooter and make it go",
      "chinese": "騎"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "scooter",
     "answer": "scooter",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small, light motorcycle",
     "chinese": "小型機車",
     "sentence": "Q: How does your mom go to the market? — A: She rides her __________ there.",
     "translation": "你媽媽怎麼去市場？ — 她騎她的機車去那裡。",
     "lookup": {
-     "english": "",
+     "english": "a small, light motorcycle",
      "chinese": "小型機車"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "motorcycle",
     "answer": "motorcycle",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing with two wheels and an engine that you ride",
     "chinese": "機車",
     "sentence": "Q: How do your brothers go to work? — A: They go to work by __________.",
     "translation": "你哥哥們怎麼去上班？ — 他們騎機車去上班。",
     "lookup": {
-     "english": "",
+     "english": "a thing with two wheels and an engine that you ride",
      "chinese": "機車"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "car",
     "answer": "car",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine with four wheels that a person drives on the road",
     "chinese": "車子",
     "sentence": "Q: How does your dad go to work? — A: He goes to work by __________.",
     "translation": "你爸爸怎麼去上班？ — 他開車去上班。",
     "lookup": {
-     "english": "",
+     "english": "a machine with four wheels that a person drives on the road",
      "chinese": "車子"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "drive",
     "answer": "drive",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make a car, bus, or truck go where you want",
     "chinese": "駕駛；開車",
     "sentence": "Q: How do your parents go to the beach? — A: They __________ there in their new car.",
     "translation": "你爸媽怎麼去海灘？ — 他們開新車去那裡。",
     "lookup": {
-     "english": "",
+     "english": "to make a car, bus, or truck go where you want",
      "chinese": "駕駛；開車"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "bus",
     "answer": "bus",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big car that carries many people along the road",
     "chinese": "公車",
     "sentence": "Q: How do you go to school? — A: I go to school by __________.",
     "translation": "你怎麼上學？ — 我搭公車上學。",
     "lookup": {
-     "english": "",
+     "english": "a big car that carries many people along the road",
      "chinese": "公車"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "taxi",
     "answer": "taxi",
     "pos": "n.",
-    "definition": "",
+    "definition": "a car with a driver that you pay to take you somewhere",
     "chinese": "計程車",
     "sentence": "Q: How does Mr. Lee go to the hotel? — A: He takes a __________.",
     "translation": "李先生怎麼去旅館？ — 他搭計程車。",
     "lookup": {
-     "english": "",
+     "english": "a car with a driver that you pay to take you somewhere",
      "chinese": "計程車"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "train",
     "answer": "train",
     "pos": "n.",
-    "definition": "",
+    "definition": "a line of cars that moves along rails and carries people",
     "chinese": "火車",
     "sentence": "Q: How do Ben and his sister go to Tainan? — A: They go there by __________.",
     "translation": "班和他妹妹怎麼去臺南？ — 他們搭火車去那裡。",
     "lookup": {
-     "english": "",
+     "english": "a line of cars that moves along rails and carries people",
      "chinese": "火車"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "take the MRT",
     "answer": "take the MRT",
     "pos": "phr.",
-    "definition": "",
+    "definition": "to travel on the city's fast trains",
     "chinese": "搭捷運",
     "sentence": "Q: How do you and Tom go to the zoo? — A: We __________ there.",
     "translation": "你和湯姆怎麼去動物園？ — 我們搭捷運去那裡。",
     "lookup": {
-     "english": "",
+     "english": "to travel on the city's fast trains",
      "chinese": "搭捷運"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "fast",
     "answer": "fast",
     "pos": "adj.",
-    "definition": "",
+    "definition": "moving or happening in a short time; not slow",
     "chinese": "快的",
     "sentence": "Q: Do you go to school by MRT? — A: Yes, I do. The MRT is very __________.",
     "translation": "你搭捷運上學嗎？ — 是的，我搭捷運。捷運很快。",
     "lookup": {
-     "english": "",
+     "english": "moving or happening in a short time; not slow",
      "chinese": "快的"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "quick",
     "answer": "quick",
     "pos": "adj.",
-    "definition": "",
+    "definition": "taking very little time",
     "chinese": "迅速的",
     "sentence": "Q: Does your dad take a taxi to work? — A: Yes, he does. It's a __________ way to get there.",
     "translation": "你爸爸搭計程車上班嗎？ — 是的，他搭計程車。那是到那裡的快速方法。",
     "lookup": {
-     "english": "",
+     "english": "taking very little time",
      "chinese": "迅速的"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "slow",
     "answer": "slow",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not fast; taking a long time",
     "chinese": "慢的",
     "sentence": "Q: Does Lisa go to school by bus? — A: No, she doesn't. The bus is too __________. She rides her bike.",
     "translation": "麗莎搭公車上學嗎？ — 不，她沒有。公車太慢了，她騎腳踏車。",
     "lookup": {
-     "english": "",
+     "english": "not fast; taking a long time",
      "chinese": "慢的"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "airplane (plane)",
     "answer": "airplane",
     "pos": "n.",
-    "definition": "",
+    "definition": "a machine with wings that flies in the sky and carries people",
     "chinese": "飛機",
     "sentence": "Q: How long does it take to go to Japan by __________? — A: It takes about three hours.",
     "translation": "搭飛機去日本要多久？ — 大約要三個小時。",
     "lookup": {
-     "english": "",
+     "english": "a machine with wings that flies in the sky and carries people",
      "chinese": "飛機"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "fly",
     "answer": "fly",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move through the air",
     "chinese": "飛",
     "sentence": "Q: How long does it take to __________ to Hong Kong? — A: It takes about two hours.",
     "translation": "飛到香港要多久？ — 大約要兩個小時。",
     "lookup": {
-     "english": "",
+     "english": "to move through the air",
      "chinese": "飛"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "boat",
     "answer": "boat",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small thing that carries people on water",
     "chinese": "船",
     "sentence": "Q: How long does it take to go to the island by __________? — A: It takes about thirty minutes.",
     "translation": "搭船去那座島要多久？ — 大約要三十分鐘。",
     "lookup": {
-     "english": "",
+     "english": "a small thing that carries people on water",
      "chinese": "船"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "ship",
     "answer": "ship",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big thing that carries people or things across the sea",
     "chinese": "船",
     "sentence": "Q: How long does it take to go to Penghu? — A: It takes about four hours by __________.",
     "translation": "去澎湖要多久？ — 搭船大約要四個小時。",
     "lookup": {
-     "english": "",
+     "english": "a big thing that carries people or things across the sea",
      "chinese": "船"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "sail",
     "answer": "sail",
     "pos": "v.",
-    "definition": "",
+    "definition": "to travel on water in a boat or a ship",
     "chinese": "航行",
     "sentence": "Q: How long do your uncle and his friends stay on the boat? — A: They __________ on the sea for two hours.",
     "translation": "你叔叔和他的朋友們在船上待多久？ — 他們在海上航行兩個小時。",
     "lookup": {
-     "english": "",
+     "english": "to travel on water in a boat or a ship",
      "chinese": "航行"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "arrive",
     "answer": "arrive",
     "pos": "v.",
-    "definition": "",
+    "definition": "to get to a place",
     "chinese": "到達",
     "sentence": "Q: When do we __________ at the station? — A: In ten minutes. It takes ten minutes from here.",
     "translation": "我們什麼時候到達車站？ — 十分鐘後，從這裡過去要十分鐘。",
     "lookup": {
-     "english": "",
+     "english": "to get to a place",
      "chinese": "到達"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "traffic",
     "answer": "traffic",
     "pos": "n.",
-    "definition": "",
+    "definition": "all the cars, buses, and motorcycles moving on the roads",
     "chinese": "交通",
     "sentence": "Q: How long does it take to go to school by car? — A: About forty minutes. There is a lot of __________ in the morning.",
     "translation": "開車上學要多久？ — 大約四十分鐘，早上車很多。",
     "lookup": {
-     "english": "",
+     "english": "all the cars, buses, and motorcycles moving on the roads",
      "chinese": "交通"
     }
    },
@@ -268,12 +268,12 @@ window.FLASHCARD_UNITS = {
     "word": "turn",
     "answer": "turn",
     "pos": "v.",
-    "definition": "",
+    "definition": "to change the direction you are going",
     "chinese": "轉彎",
     "sentence": "Q: How do I get to the bank? — A: Go straight and __________ left at the corner.",
     "translation": "我要怎麼去銀行？ — 直走，然後在轉角左轉。",
     "lookup": {
-     "english": "",
+     "english": "to change the direction you are going",
      "chinese": "轉彎"
     }
    },
@@ -281,12 +281,12 @@ window.FLASHCARD_UNITS = {
     "word": "block (blocks)",
     "answer": "blocks",
     "pos": "n.",
-    "definition": "",
+    "definition": "the part of a street between two other streets",
     "chinese": "街區",
     "sentence": "Q: How do I get to the post office? — A: Go straight for two __________. It's on your right.",
     "translation": "我要怎麼去郵局？ — 直走兩個街區，它在你的右邊。",
     "lookup": {
-     "english": "",
+     "english": "the part of a street between two other streets",
      "chinese": "街區"
     }
    },
@@ -294,12 +294,12 @@ window.FLASHCARD_UNITS = {
     "word": "cross (crosses)",
     "answer": "crosses",
     "pos": "v.",
-    "definition": "",
+    "definition": "to go from one side of a road or river to the other",
     "chinese": "越過",
     "sentence": "Q: How does Amy get to the park? — A: She __________ the street at the traffic light.",
     "translation": "艾美怎麼去公園？ — 她在紅綠燈處過馬路。",
     "lookup": {
-     "english": "",
+     "english": "to go from one side of a road or river to the other",
      "chinese": "越過"
     }
    },
@@ -307,12 +307,12 @@ window.FLASHCARD_UNITS = {
     "word": "bridge",
     "answer": "bridge",
     "pos": "n.",
-    "definition": "",
+    "definition": "something built over a river or road so people can go across",
     "chinese": "橋",
     "sentence": "Q: How do we get to the museum? — A: Walk across the __________. The museum is next to the river.",
     "translation": "我們要怎麼去博物館？ — 走過那座橋，博物館就在河邊。",
     "lookup": {
-     "english": "",
+     "english": "something built over a river or road so people can go across",
      "chinese": "橋"
     }
    },
@@ -320,12 +320,12 @@ window.FLASHCARD_UNITS = {
     "word": "sidewalk",
     "answer": "sidewalk",
     "pos": "n.",
-    "definition": "",
+    "definition": "a path at the side of a street for people to walk on",
     "chinese": "人行道",
     "sentence": "Q: How does Ben get to school safely? — A: He walks on the __________, not on the road.",
     "translation": "班怎麼安全地走到學校？ — 他走在人行道上，不走在馬路上。",
     "lookup": {
-     "english": "",
+     "english": "a path at the side of a street for people to walk on",
      "chinese": "人行道"
     }
    },
@@ -333,12 +333,12 @@ window.FLASHCARD_UNITS = {
     "word": "airport",
     "answer": "airport",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place where planes take off and land",
     "chinese": "機場",
     "sentence": "Q: Where do we take the plane to Japan? — A: We take it at the __________ in Taoyuan.",
     "translation": "我們在哪裡搭去日本的飛機？ — 我們在桃園的機場搭。",
     "lookup": {
-     "english": "",
+     "english": "a place where planes take off and land",
      "chinese": "機場"
     }
    },
@@ -346,12 +346,12 @@ window.FLASHCARD_UNITS = {
     "word": "land (lands)",
     "answer": "lands",
     "pos": "v.",
-    "definition": "",
+    "definition": "to come down from the air onto the ground",
     "chinese": "降落",
     "sentence": "Q: Where does the plane from Tokyo stop? — A: It __________ at the airport in Taoyuan.",
     "translation": "從東京來的飛機停在哪裡？ — 它降落在桃園的機場。",
     "lookup": {
-     "english": "",
+     "english": "to come down from the air onto the ground",
      "chinese": "降落"
     }
    },
@@ -359,12 +359,12 @@ window.FLASHCARD_UNITS = {
     "word": "station",
     "answer": "station",
     "pos": "n.",
-    "definition": "",
+    "definition": "a place where trains or buses stop for people to get on and off",
     "chinese": "車站",
     "sentence": "Q: Where does Tom take the train? — A: He takes it at the train __________.",
     "translation": "湯姆在哪裡搭火車？ — 他在火車站搭車。",
     "lookup": {
-     "english": "",
+     "english": "a place where trains or buses stop for people to get on and off",
      "chinese": "車站"
     }
    },
@@ -372,12 +372,12 @@ window.FLASHCARD_UNITS = {
     "word": "truck",
     "answer": "truck",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big car for carrying heavy things",
     "chinese": "卡車",
     "sentence": "Q: What do the workers drive? — A: They drive a big __________. It carries many boxes.",
     "translation": "那些工人開什麼車？ — 他們開一輛大卡車，它載著很多箱子。",
     "lookup": {
-     "english": "",
+     "english": "a big car for carrying heavy things",
      "chinese": "卡車"
     }
    }
@@ -1053,4 +1053,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"honest":["","誠實的"],"sail":["","航行；駕船"],"bicycle":["","腳踏車"],"ride":["","騎"],"scooter":["","小型機車"],"motorcycle":["","機車"],"car":["","車子"],"drive":["","駕駛；開車"],"bus":["","公車"],"taxi":["","計程車"],"train":["","火車"],"fast":["","快的"],"quick":["","迅速的"],"slow":["","慢的"],"airplane":["","飛機"],"fly":["","飛"],"boat":["","船"],"ship":["","船"],"arrive":["","到達"],"traffic":["","交通"],"turn":["","轉彎"],"blocks":["","街區"],"crosses":["","越過"],"bridge":["","橋"],"sidewalk":["","人行道"],"airport":["","機場"],"lands":["","降落"],"station":["","車站"],"truck":["","卡車"],"safe":["","安全的"],"favorite":["","最喜愛的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"honest":["always telling the truth","誠實的"],"sail":["to travel on water in a boat","航行；駕船"],"bicycle":["a thing with two wheels that you ride by moving your legs","腳踏車"],"ride":["to sit on a bike, a horse, or a scooter and make it go","騎"],"scooter":["a small, light motorcycle","小型機車"],"motorcycle":["a thing with two wheels and an engine that you ride","機車"],"car":["a machine with four wheels that a person drives on the road","車子"],"drive":["to make a car, bus, or truck go where you want","駕駛；開車"],"bus":["a big car that carries many people along the road","公車"],"taxi":["a car with a driver that you pay to take you somewhere","計程車"],"train":["a line of cars that moves along rails and carries people","火車"],"fast":["moving or happening in a short time; not slow","快的"],"quick":["taking very little time","迅速的"],"slow":["not fast; taking a long time","慢的"],"airplane":["a machine with wings that flies in the sky and carries people","飛機"],"fly":["to move through the air","飛"],"boat":["a small thing that carries people on water","船"],"ship":["a big thing that carries people or things across the sea","船"],"arrive":["to get to a place","到達"],"traffic":["all the cars, buses, and motorcycles moving on the roads","交通"],"turn":["to change the direction you are going","轉彎"],"blocks":["the part of a street between two other streets","街區"],"crosses":["to go from one side of a road or river to the other","越過"],"bridge":["something built over a river or road so people can go across","橋"],"sidewalk":["a path at the side of a street for people to walk on","人行道"],"airport":["a place where planes take off and land","機場"],"lands":["to come down from the air onto the ground","降落"],"station":["a place where trains or buses stop for people to get on and off","車站"],"truck":["a big car for carrying heavy things","卡車"],"safe":["not in danger","安全的"],"favorite":["liked the most","最喜愛的"]});

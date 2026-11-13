@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "uncle",
     "pos": "n.",
     "cn_def": "叔叔，舅舅",
-    "en_def": "",
+    "en_def": "the brother of your father or mother",
     "sentence": "He visited his {{BLANK}}.",
     "cn": "他拜訪了他的叔叔。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "underline",
     "pos": "v.",
     "cn_def": "在...下面劃線，強調",
-    "en_def": "",
+    "en_def": "to draw a line under a word",
     "sentence": "She {{BLANK}} the important words.",
     "cn": "她在重要詞語下劃了線。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "underwear",
     "pos": "n.",
     "cn_def": "內衣，底褲",
-    "en_def": "",
+    "en_def": "clothes that you wear next to your skin under other clothes",
     "sentence": "She bought new {{BLANK}}.",
     "cn": "她買了新內衣。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "unhappy",
     "pos": "adj.",
     "cn_def": "不快樂的，不滿意的",
-    "en_def": "",
+    "en_def": "not happy",
     "sentence": "He is {{BLANK}} with his job.",
     "cn": "他對他的工作不滿意。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "uniform",
     "pos": "n.",
     "cn_def": "制服",
-    "en_def": "",
+    "en_def": "special clothes that all students or workers in one place wear",
     "sentence": "She wears a {{BLANK}} to school.",
     "cn": "她穿著制服上學。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "universe",
     "pos": "n.",
     "cn_def": "宇宙，天地",
-    "en_def": "",
+    "en_def": "all of space, with all the stars and planets",
     "sentence": "The {{BLANK}} is vast and mysterious.",
     "cn": "宇宙是廣闊而神秘的。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "used to",
     "pos": "aux.",
     "cn_def": "曾經，習慣於",
-    "en_def": "",
+    "en_def": "did something often in the past, but not now",
     "sentence": "She {{BLANK}} live in New York.",
     "cn": "她曾經住在紐約。",
     "nblanks": 2
@@ -67,7 +67,7 @@ const VOCAB = [
     "word": "useful",
     "pos": "adj.",
     "cn_def": "有用的，有幫助的",
-    "en_def": "",
+    "en_def": "helping you to do something",
     "sentence": "This tool is very {{BLANK}}.",
     "cn": "這個工具很有用。"
   },
@@ -75,7 +75,7 @@ const VOCAB = [
     "word": "usual",
     "pos": "adj.",
     "cn_def": "通常的，平常的",
-    "en_def": "",
+    "en_def": "normal; happening most of the time",
     "sentence": "She arrived at the {{BLANK}} time.",
     "cn": "她在平常的時間到達。"
   },
@@ -83,7 +83,7 @@ const VOCAB = [
     "word": "vacation",
     "pos": "n.",
     "cn_def": "假期，休假",
-    "en_def": "",
+    "en_def": "a time when you do not go to school or work",
     "sentence": "They went on a family {{BLANK}}.",
     "cn": "他們去家庭度假。"
   },
@@ -91,7 +91,7 @@ const VOCAB = [
     "word": "vacuum",
     "pos": "n.",
     "cn_def": "真空，吸塵器",
-    "en_def": "",
+    "en_def": "a machine that cleans floors by pulling in dust",
     "sentence": "She used a {{BLANK}} to clean the carpet.",
     "cn": "她用吸塵器清潔地毯。"
   },
@@ -99,7 +99,7 @@ const VOCAB = [
     "word": "valley",
     "pos": "n.",
     "cn_def": "山谷，溪谷",
-    "en_def": "",
+    "en_def": "the low land between hills or mountains",
     "sentence": "They hiked through the {{BLANK}}.",
     "cn": "他們徒步穿越山谷。"
   },
@@ -107,7 +107,7 @@ const VOCAB = [
     "word": "value",
     "pos": "n.",
     "cn_def": "價值，重要性",
-    "en_def": "",
+    "en_def": "how important or useful something is",
     "sentence": "She placed a high {{BLANK}} on honesty.",
     "cn": "她非常重視誠實。"
   },
@@ -115,7 +115,7 @@ const VOCAB = [
     "word": "various",
     "pos": "adj.",
     "cn_def": "各種各樣的",
-    "en_def": "",
+    "en_def": "many different",
     "sentence": "The store sells {{BLANK}} types of bread.",
     "cn": "這家商店出售各種麵包。"
   },
@@ -123,7 +123,7 @@ const VOCAB = [
     "word": "vase",
     "pos": "n.",
     "cn_def": "花瓶",
-    "en_def": "",
+    "en_def": "a tall container for flowers",
     "sentence": "She arranged flowers in the {{BLANK}}.",
     "cn": "她在花瓶裡插花。"
   },
@@ -131,7 +131,7 @@ const VOCAB = [
     "word": "vegetable",
     "pos": "n.",
     "cn_def": "蔬菜",
-    "en_def": "",
+    "en_def": "a plant that people eat, like carrots and cabbage",
     "sentence": "She grows her own {{BLANK}}.",
     "cn": "她自己種蔬菜。"
   },
@@ -139,7 +139,7 @@ const VOCAB = [
     "word": "vehicle",
     "pos": "n.",
     "cn_def": "車輛，交通工具",
-    "en_def": "",
+    "en_def": "a machine like a car, bus, or truck that carries people or things",
     "sentence": "They bought a new {{BLANK}}.",
     "cn": "他們買了一輛新車。"
   },
@@ -147,7 +147,7 @@ const VOCAB = [
     "word": "village",
     "pos": "n.",
     "cn_def": "村莊",
-    "en_def": "",
+    "en_def": "a very small town in the country",
     "sentence": "They live in a small {{BLANK}}.",
     "cn": "他們住在一個小村莊裡。"
   },
@@ -155,7 +155,7 @@ const VOCAB = [
     "word": "violent",
     "pos": "adj.",
     "cn_def": "暴力的，猛烈的",
-    "en_def": "",
+    "en_def": "very strong and dangerous",
     "sentence": "The storm was very {{BLANK}}.",
     "cn": "暴風雨非常猛烈。"
   },
@@ -163,7 +163,7 @@ const VOCAB = [
     "word": "visitor",
     "pos": "n.",
     "cn_def": "訪客，參觀者",
-    "en_def": "",
+    "en_def": "a person who comes to see a place or a person",
     "sentence": "The museum had many {{BLANK}} last week.",
     "cn": "上週博物館有很多參觀者。"
   }
@@ -415,132 +415,132 @@ const MCQS = [
 const LOOKUP = {
   "divided": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to cut or break something into parts",
     "cn_def": "分開，劃分"
   },
   "male": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "being a man or a boy",
     "cn_def": "男性的"
   },
   "shall": {
     "pos": "aux.",
-    "en_def": "",
+    "en_def": "used with \"I\" or \"we\" to talk about the future",
     "cn_def": "將要，應該"
   },
   "succeed": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to do well and get what you wanted",
     "cn_def": "成功，繼承"
   },
   "toffee": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a hard, sticky brown candy made from sugar and butter",
     "cn_def": "太妃糖"
   },
   "uncle": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the brother of your father or mother",
     "cn_def": "叔叔，舅舅"
   },
   "underlined": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to draw a line under a word",
     "cn_def": "在...下面劃線，強調"
   },
   "underwear": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "clothes that you wear next to your skin under other clothes",
     "cn_def": "內衣，底褲"
   },
   "unhappy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not happy",
     "cn_def": "不快樂的，不滿意的"
   },
   "uniform": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "special clothes that all students or workers in one place wear",
     "cn_def": "制服"
   },
   "universe": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "all of space, with all the stars and planets",
     "cn_def": "宇宙，天地"
   },
   "used to": {
     "pos": "aux.",
-    "en_def": "",
+    "en_def": "did something often in the past, but not now",
     "cn_def": "曾經，習慣於"
   },
   "useful": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "helping you to do something",
     "cn_def": "有用的，有幫助的"
   },
   "usual": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "normal; happening most of the time",
     "cn_def": "通常的，平常的"
   },
   "vacation": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a time when you do not go to school or work",
     "cn_def": "假期，休假"
   },
   "vacuum": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a machine that cleans floors by pulling in dust",
     "cn_def": "真空，吸塵器"
   },
   "valley": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the low land between hills or mountains",
     "cn_def": "山谷，溪谷"
   },
   "value": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "how important or useful something is",
     "cn_def": "價值，重要性"
   },
   "various": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "many different",
     "cn_def": "各種各樣的"
   },
   "vase": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a tall container for flowers",
     "cn_def": "花瓶"
   },
   "vegetables": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a plant that people eat, like carrots and cabbage",
     "cn_def": "蔬菜"
   },
   "vehicle": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a machine like a car, bus, or truck that carries people or things",
     "cn_def": "車輛，交通工具"
   },
   "village": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a very small town in the country",
     "cn_def": "村莊"
   },
   "violent": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very strong and dangerous",
     "cn_def": "暴力的，猛烈的"
   },
   "visitors": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who comes to see a place or a person",
     "cn_def": "訪客，參觀者"
   },
   "wrapped": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to cover something with paper or cloth",
     "cn_def": "包裝，裹"
   }
 };

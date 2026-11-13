@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "rubber",
     "answer": "rubber",
     "pos": "n.",
-    "definition": "",
+    "definition": "strong material that bends and bounces, used for balls and tires",
     "chinese": "橡膠，橡皮",
     "sentence": "The ball is made of __________.",
     "translation": "這個球是橡膠做的。",
     "lookup": {
-     "english": "",
+     "english": "strong material that bends and bounces, used for balls and tires",
      "chinese": "橡膠，橡皮"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "rude",
     "answer": "rude",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not polite",
     "chinese": "無禮的，粗魯的",
     "sentence": "It is __________ to interrupt someone while they are speaking.",
     "translation": "打斷別人說話是不禮貌的。",
     "lookup": {
-     "english": "",
+     "english": "not polite",
      "chinese": "無禮的，粗魯的"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "ruin",
     "answer": "ruined",
     "pos": "v.",
-    "definition": "",
+    "definition": "to spoil or destroy something completely",
     "chinese": "毀壞，破壞",
     "sentence": "The storm __________ their picnic plans.",
     "translation": "暴風雨破壞了他們的野餐計劃。",
     "lookup": {
-     "english": "",
+     "english": "to spoil or destroy something completely",
      "chinese": "毀壞，破壞"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "rush",
     "answer": "rush",
     "pos": "v.",
-    "definition": "",
+    "definition": "to go or do something very quickly",
     "chinese": "衝，趕緊",
     "sentence": "She had to __________ to catch the bus.",
     "translation": "她不得不趕緊去趕公車。",
     "lookup": {
-     "english": "",
+     "english": "to go or do something very quickly",
      "chinese": "衝，趕緊"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "sailor",
     "answer": "sailor",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who works on a ship",
     "chinese": "水手，海員",
     "sentence": "The __________ navigated the ship through the storm.",
     "translation": "水手駕船穿越暴風雨。",
     "lookup": {
-     "english": "",
+     "english": "a person who works on a ship",
      "chinese": "水手，海員"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "sample",
     "answer": "sample",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small amount of something that shows what the rest is like",
     "chinese": "樣品，範例",
     "sentence": "She gave me a __________ of the product.",
     "translation": "她給了我一個產品樣品。",
     "lookup": {
-     "english": "",
+     "english": "a small amount of something that shows what the rest is like",
      "chinese": "樣品，範例"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "sand",
     "answer": "sand",
     "pos": "n.",
-    "definition": "",
+    "definition": "very small grains of rock on beaches and in deserts",
     "chinese": "沙，沙灘",
     "sentence": "The beach is covered with white __________.",
     "translation": "海灘上覆蓋著白色的沙。",
     "lookup": {
-     "english": "",
+     "english": "very small grains of rock on beaches and in deserts",
      "chinese": "沙，沙灘"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "satisfy",
     "answer": "satisfy",
     "pos": "v.",
-    "definition": "",
+    "definition": "to give someone what they want or need",
     "chinese": "滿足，使滿意",
     "sentence": "The meal was enough to __________ everyone's hunger.",
     "translation": "這頓飯足以滿足每個人的飢餓。",
     "lookup": {
-     "english": "",
+     "english": "to give someone what they want or need",
      "chinese": "滿足，使滿意"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "saucer",
     "answer": "saucer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small plate that goes under a cup",
     "chinese": "茶碟，托盤",
     "sentence": "She placed the cup on the __________.",
     "translation": "她把杯子放在茶碟上。",
     "lookup": {
-     "english": "",
+     "english": "a small plate that goes under a cup",
      "chinese": "茶碟，托盤"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "scarf",
     "answer": "scarf",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long piece of cloth that you wear around your neck",
     "chinese": "圍巾",
     "sentence": "She wrapped a warm __________ around her neck.",
     "translation": "她把一條暖和的圍巾圍在脖子上。",
     "lookup": {
-     "english": "",
+     "english": "a long piece of cloth that you wear around your neck",
      "chinese": "圍巾"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "scene",
     "answer": "scene",
     "pos": "n.",
-    "definition": "",
+    "definition": "one part of a movie or play that happens in one place",
     "chinese": "場景，景象",
     "sentence": "The movie has a beautiful __________.",
     "translation": "這部電影有一個美麗的場景。",
     "lookup": {
-     "english": "",
+     "english": "one part of a movie or play that happens in one place",
      "chinese": "場景，景象"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "scenery",
     "answer": "scenery",
     "pos": "n.",
-    "definition": "",
+    "definition": "the beautiful things in nature that you see in a place",
     "chinese": "風景",
     "sentence": "The __________ from the top of the hill is breathtaking.",
     "translation": "山頂的風景令人驚嘆。",
     "lookup": {
-     "english": "",
+     "english": "the beautiful things in nature that you see in a place",
      "chinese": "風景"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "scientist",
     "answer": "scientist",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who studies science",
     "chinese": "科學家",
     "sentence": "She is a renowned __________.",
     "translation": "她是一位著名的科學家。",
     "lookup": {
-     "english": "",
+     "english": "a person who studies science",
      "chinese": "科學家"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "score",
     "answer": "score",
     "pos": "n.",
-    "definition": "",
+    "definition": "the number of points you get on a test or in a game",
     "chinese": "分數，得分",
     "sentence": "He got a high __________ on the test.",
     "translation": "他在考試中得了高分。",
     "lookup": {
-     "english": "",
+     "english": "the number of points you get on a test or in a game",
      "chinese": "分數，得分"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "seafood",
     "answer": "seafood",
     "pos": "n.",
-    "definition": "",
+    "definition": "fish and other sea animals that people eat",
     "chinese": "海鮮，海產品",
     "sentence": "The restaurant is famous for its __________.",
     "translation": "這家餐廳以其海鮮著稱。",
     "lookup": {
-     "english": "",
+     "english": "fish and other sea animals that people eat",
      "chinese": "海鮮，海產品"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "search",
     "answer": "searching",
     "pos": "v.",
-    "definition": "",
+    "definition": "to look carefully for someone or something",
     "chinese": "搜索，尋找",
     "sentence": "They are __________ for a new manager.",
     "translation": "他們正在尋找一位新經理。",
     "lookup": {
-     "english": "",
+     "english": "to look carefully for someone or something",
      "chinese": "搜索，尋找"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "secondary",
     "answer": "secondary",
     "pos": "adj.",
-    "definition": "",
+    "definition": "(of a school) for students from about 12 to 18 years old",
     "chinese": "次要的，中等的",
     "sentence": "He is a __________ school teacher.",
     "translation": "他是一名中學教師。",
     "lookup": {
-     "english": "",
+     "english": "(of a school) for students from about 12 to 18 years old",
      "chinese": "次要的，中等的"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "secret",
     "answer": "secret",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that you do not want other people to know",
     "chinese": "秘密",
     "sentence": "She told me a __________.",
     "translation": "她告訴了我一個秘密。",
     "lookup": {
-     "english": "",
+     "english": "something that you do not want other people to know",
      "chinese": "秘密"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "section",
     "answer": "section",
     "pos": "n.",
-    "definition": "",
+    "definition": "one of the parts of something",
     "chinese": "部分，部門",
     "sentence": "This __________ of the book is very interesting.",
     "translation": "這本書的這部分非常有趣。",
     "lookup": {
-     "english": "",
+     "english": "one of the parts of something",
      "chinese": "部分，部門"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "seek",
     "answer": "seeking",
     "pos": "v.",
-    "definition": "",
+    "definition": "to try to find or get something",
     "chinese": "尋找，追求",
     "sentence": "He is __________ a new job.",
     "translation": "他正在尋找新工作。",
     "lookup": {
-     "english": "",
+     "english": "to try to find or get something",
      "chinese": "尋找，追求"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"female":["","女性的"],"golden":["","金色的，極好的"],"impossible":["","不可能的"],"rubber":["","橡膠，橡皮"],"rude":["","無禮的，粗魯的"],"ruined":["","毀壞，破壞"],"rush":["","衝，趕緊"],"sailor":["","水手，海員"],"sample":["","樣品，範例"],"sand":["","沙，沙灘"],"satisfy":["","滿足，使滿意"],"saucer":["","茶碟，托盤"],"scarf":["","圍巾"],"scene":["","場景，景象"],"scenery":["","風景"],"scientist":["","科學家"],"score":["","分數，得分"],"seafood":["","海鮮，海產品"],"searching":["","搜索，尋找"],"secondary":["","次要的，中等的"],"secret":["","秘密"],"section":["","部分，部門"],"seeking":["","尋找，追求"],"violent":["","暴力的，猛烈的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"female":["being a woman or a girl","女性的"],"golden":["very happy and special; having the color of gold","金色的，極好的"],"impossible":["not able to happen or be done","不可能的"],"rubber":["strong material that bends and bounces, used for balls and tires","橡膠，橡皮"],"rude":["not polite","無禮的，粗魯的"],"ruined":["to spoil or destroy something completely","毀壞，破壞"],"rush":["to go or do something very quickly","衝，趕緊"],"sailor":["a person who works on a ship","水手，海員"],"sample":["a small amount of something that shows what the rest is like","樣品，範例"],"sand":["very small grains of rock on beaches and in deserts","沙，沙灘"],"satisfy":["to give someone what they want or need","滿足，使滿意"],"saucer":["a small plate that goes under a cup","茶碟，托盤"],"scarf":["a long piece of cloth that you wear around your neck","圍巾"],"scene":["one part of a movie or play that happens in one place","場景，景象"],"scenery":["the beautiful things in nature that you see in a place","風景"],"scientist":["a person who studies science","科學家"],"score":["the number of points you get on a test or in a game","分數，得分"],"seafood":["fish and other sea animals that people eat","海鮮，海產品"],"searching":["to look carefully for someone or something","搜索，尋找"],"secondary":["(of a school) for students from about 12 to 18 years old","次要的，中等的"],"secret":["something that you do not want other people to know","秘密"],"section":["one of the parts of something","部分，部門"],"seeking":["to try to find or get something","尋找，追求"],"violent":["very strong and dangerous","暴力的，猛烈的"]});

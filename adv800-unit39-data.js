@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "vocabulary",
     "pos": "n.",
     "cn_def": "詞彙，詞彙量",
-    "en_def": "",
+    "en_def": "all the words that a person knows",
     "sentence": "She has a wide {{BLANK}}.",
     "cn": "她的詞彙量很大。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "volleyball",
     "pos": "n.",
     "cn_def": "排球",
-    "en_def": "",
+    "en_def": "a game in which two teams hit a big ball over a high net with their hands",
     "sentence": "They played {{BLANK}} on the beach.",
     "cn": "他們在海灘上打排球。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "volunteer",
     "pos": "n.",
     "cn_def": "志願者，義工",
-    "en_def": "",
+    "en_def": "a person who works to help others without being paid",
     "sentence": "She works as a {{BLANK}}.",
     "cn": "她做志願者工作。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "vote",
     "pos": "v.",
     "cn_def": "投票，選舉",
-    "en_def": "",
+    "en_def": "to choose someone in an election by marking a paper",
     "sentence": "They will {{BLANK}} in the election tomorrow.",
     "cn": "他們明天將在選舉中投票。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "waiter",
     "pos": "n.",
     "cn_def": "服務生，侍者",
-    "en_def": "",
+    "en_def": "a man who brings food to people in a restaurant",
     "sentence": "The {{BLANK}} took their order.",
     "cn": "服務生接了他們的點菜。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "wake",
     "pos": "v.",
     "cn_def": "醒來，喚醒",
-    "en_def": "",
+    "en_def": "to stop sleeping",
     "sentence": "She likes to {{BLANK}} up early.",
     "cn": "她喜歡早起。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "wallet",
     "pos": "n.",
     "cn_def": "錢包，皮夾",
-    "en_def": "",
+    "en_def": "a small flat case for carrying money and cards",
     "sentence": "He forgot his {{BLANK}} at home.",
     "cn": "他把錢包忘在家裡了。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "waste",
     "pos": "n.",
     "cn_def": "浪費，廢物",
-    "en_def": "",
+    "en_def": "a bad use of time, money, or things",
     "sentence": "It is a {{BLANK}} of time to argue about it.",
     "cn": "為這個爭論是浪費時間。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "waterfall",
     "pos": "n.",
     "cn_def": "瀑布",
-    "en_def": "",
+    "en_def": "a place where a river falls from a high place",
     "sentence": "They visited a beautiful {{BLANK}}.",
     "cn": "他們參觀了一個美麗的瀑布。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "wave",
     "pos": "v.",
     "cn_def": "揮手，波動",
-    "en_def": "",
+    "en_def": "to move your hand in the air to say hello or good-bye",
     "sentence": "She {{BLANK}} goodbye to her friend.",
     "cn": "她揮手告別她的朋友。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "weapon",
     "pos": "n.",
     "cn_def": "武器",
-    "en_def": "",
+    "en_def": "a thing used for fighting, like a gun or a knife",
     "sentence": "The soldier carried a {{BLANK}}.",
     "cn": "士兵攜帶了一把武器。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "wealth",
     "pos": "n.",
     "cn_def": "財富，富裕",
-    "en_def": "",
+    "en_def": "a large amount of money and things that someone owns",
     "sentence": "He accumulated great {{BLANK}}.",
     "cn": "他積累了大量財富。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "weather",
     "pos": "n.",
     "cn_def": "天氣，氣候",
-    "en_def": "",
+    "en_def": "how hot, cold, wet, or dry it is outside",
     "sentence": "The {{BLANK}} is nice today.",
     "cn": "今天的天氣很好。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "wedding",
     "pos": "n.",
     "cn_def": "婚禮",
-    "en_def": "",
+    "en_def": "the ceremony in which two people get married",
     "sentence": "They attended a beautiful {{BLANK}}.",
     "cn": "他們參加了一場美麗的婚禮。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "weekend",
     "pos": "n.",
     "cn_def": "週末",
-    "en_def": "",
+    "en_def": "Saturday and Sunday",
     "sentence": "They have plans for the {{BLANK}}.",
     "cn": "他們有週末的計劃。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "weight",
     "pos": "n.",
     "cn_def": "重量，體重",
-    "en_def": "",
+    "en_def": "how heavy someone or something is",
     "sentence": "She is trying to lose {{BLANK}}.",
     "cn": "她在努力減肥。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "well-known",
     "pos": "adj.",
     "cn_def": "著名的，知名的",
-    "en_def": "",
+    "en_def": "known by many people; famous",
     "sentence": "He is a {{BLANK}} author.",
     "cn": "他是一位著名的作家。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "whale",
     "pos": "n.",
     "cn_def": "鯨魚",
-    "en_def": "",
+    "en_def": "a very, very big sea animal that looks like a fish",
     "sentence": "They saw a {{BLANK}} during their boat trip.",
     "cn": "他們在船上旅行時看到了一條鯨魚。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "wheel",
     "pos": "n.",
     "cn_def": "輪子",
-    "en_def": "",
+    "en_def": "a round thing under a car or bike that turns to make it move",
     "sentence": "The car needs new {{BLANK}}.",
     "cn": "這輛車需要新輪胎。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "whisper",
     "pos": "v.",
     "cn_def": "耳語，低聲說",
-    "en_def": "",
+    "en_def": "to speak in a very quiet voice",
     "sentence": "She {{BLANK}} a secret to her friend.",
     "cn": "她對她的朋友低聲說了一個秘密。"
   }
@@ -414,117 +414,117 @@ const MCQS = [
 const LOOKUP = {
   "former": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having been something in the past, but not now",
     "cn_def": "以前的，前者的"
   },
   "independent": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "able to do things by yourself, without help",
     "cn_def": "獨立的，自主的"
   },
   "local": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "of or in the place where you live or are",
     "cn_def": "當地的，本地的"
   },
   "vocabulary": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "all the words that a person knows",
     "cn_def": "詞彙，詞彙量"
   },
   "volleyball": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a game in which two teams hit a big ball over a high net with their hands",
     "cn_def": "排球"
   },
   "volunteer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who works to help others without being paid",
     "cn_def": "志願者，義工"
   },
   "vote": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to choose someone in an election by marking a paper",
     "cn_def": "投票，選舉"
   },
   "waiter": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a man who brings food to people in a restaurant",
     "cn_def": "服務生，侍者"
   },
   "wake": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to stop sleeping",
     "cn_def": "醒來，喚醒"
   },
   "wallet": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small flat case for carrying money and cards",
     "cn_def": "錢包，皮夾"
   },
   "waste": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a bad use of time, money, or things",
     "cn_def": "浪費，廢物"
   },
   "waterfall": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a place where a river falls from a high place",
     "cn_def": "瀑布"
   },
   "waved": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to move your hand in the air to say hello or good-bye",
     "cn_def": "揮手，波動"
   },
   "weapon": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing used for fighting, like a gun or a knife",
     "cn_def": "武器"
   },
   "wealth": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a large amount of money and things that someone owns",
     "cn_def": "財富，富裕"
   },
   "weather": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "how hot, cold, wet, or dry it is outside",
     "cn_def": "天氣，氣候"
   },
   "wedding": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the ceremony in which two people get married",
     "cn_def": "婚禮"
   },
   "weekend": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "Saturday and Sunday",
     "cn_def": "週末"
   },
   "weight": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "how heavy someone or something is",
     "cn_def": "重量，體重"
   },
   "well-known": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "known by many people; famous",
     "cn_def": "著名的，知名的"
   },
   "whale": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a very, very big sea animal that looks like a fish",
     "cn_def": "鯨魚"
   },
   "wheels": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a round thing under a car or bike that turns to make it move",
     "cn_def": "輪子"
   },
   "whispered": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to speak in a very quiet voice",
     "cn_def": "耳語，低聲說"
   }
 };

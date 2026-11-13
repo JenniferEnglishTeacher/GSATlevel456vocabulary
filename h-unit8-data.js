@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "cream",
     "answer": "cream",
     "pos": "n.",
-    "definition": "",
+    "definition": "the thick, white, fatty part of milk",
     "chinese": "奶油，乳霜",
     "sentence": "She put some __________ in her coffee.",
     "translation": "她在咖啡裡加了些奶油。",
     "lookup": {
-     "english": "",
+     "english": "the thick, white, fatty part of milk",
      "chinese": "奶油，乳霜"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "create",
     "answer": "create",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make something new",
     "chinese": "創造",
     "sentence": "He wants to __________ a new game.",
     "translation": "他想創造一個新遊戲。",
     "lookup": {
-     "english": "",
+     "english": "to make something new",
      "chinese": "創造"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "credit card",
     "answer": "credit card",
     "pos": "n.",
-    "definition": "",
+    "definition": "a plastic card you use to buy things now and pay later",
     "chinese": "信用卡",
     "sentence": "She paid with her __________.",
     "translation": "她用信用卡支付了。",
     "lookup": {
-     "english": "",
+     "english": "a plastic card you use to buy things now and pay later",
      "chinese": "信用卡"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "crime",
     "answer": "crime",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that is against the law",
     "chinese": "罪行，犯罪",
     "sentence": "He was arrested for __________.",
     "translation": "他因犯罪被逮捕。",
     "lookup": {
-     "english": "",
+     "english": "something that is against the law",
      "chinese": "罪行，犯罪"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "crowd",
     "answer": "crowd",
     "pos": "n.",
-    "definition": "",
+    "definition": "a large group of people in one place",
     "chinese": "人群",
     "sentence": "A large __________ gathered at the concert.",
     "translation": "音樂會聚集了一大群人。",
     "lookup": {
-     "english": "",
+     "english": "a large group of people in one place",
      "chinese": "人群"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "crowded",
     "answer": "crowded",
     "pos": "adj.",
-    "definition": "",
+    "definition": "full of people",
     "chinese": "擁擠的",
     "sentence": "The train was very __________ during rush hour.",
     "translation": "高峰時段火車非常擁擠。",
     "lookup": {
-     "english": "",
+     "english": "full of people",
      "chinese": "擁擠的"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "cruel",
     "answer": "cruel",
     "pos": "adj.",
-    "definition": "",
+    "definition": "making people or animals suffer; very unkind",
     "chinese": "殘酷的，無情的",
     "sentence": "It was __________ to leave the dog outside in the cold.",
     "translation": "把狗留在寒冷的外面是很殘酷的。",
     "lookup": {
-     "english": "",
+     "english": "making people or animals suffer; very unkind",
      "chinese": "殘酷的，無情的"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "cub",
     "answer": "cubs",
     "pos": "n.",
-    "definition": "",
+    "definition": "a baby lion, bear, or tiger",
     "chinese": "幼獸，年輕人",
     "sentence": "The lioness protected her __________.",
     "translation": "母獅保護她的幼崽。",
     "lookup": {
-     "english": "",
+     "english": "a baby lion, bear, or tiger",
      "chinese": "幼獸，年輕人"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "culture",
     "answer": "culture",
     "pos": "n.",
-    "definition": "",
+    "definition": "the way of life, art, and ideas of a group of people",
     "chinese": "文化",
     "sentence": "Japanese __________ is known for its traditions.",
     "translation": "日本文化以其傳統著稱。",
     "lookup": {
-     "english": "",
+     "english": "the way of life, art, and ideas of a group of people",
      "chinese": "文化"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "cure",
     "answer": "cure",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make a sick person well again; to make a sickness go away",
     "chinese": "治癒",
     "sentence": "They are working to __________ the disease.",
     "translation": "他們正在努力治癒這種疾病。",
     "lookup": {
-     "english": "",
+     "english": "to make a sick person well again; to make a sickness go away",
      "chinese": "治癒"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "curious",
     "answer": "curious",
     "pos": "adj.",
-    "definition": "",
+    "definition": "wanting to know or learn about something",
     "chinese": "好奇的",
     "sentence": "She was __________ about the new neighbors.",
     "translation": "她對新鄰居感到好奇。",
     "lookup": {
-     "english": "",
+     "english": "wanting to know or learn about something",
      "chinese": "好奇的"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "current",
     "answer": "current",
     "pos": "adj.",
-    "definition": "",
+    "definition": "happening now",
     "chinese": "當前的，現行的",
     "sentence": "The __________ situation is difficult.",
     "translation": "當前的情況很困難。",
     "lookup": {
-     "english": "",
+     "english": "happening now",
      "chinese": "當前的，現行的"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "curtain",
     "answer": "curtain",
     "pos": "n.",
-    "definition": "",
+    "definition": "a piece of cloth that hangs in front of a window",
     "chinese": "窗簾，幕",
     "sentence": "She closed the __________ before going to bed.",
     "translation": "她睡前拉上了窗簾。",
     "lookup": {
-     "english": "",
+     "english": "a piece of cloth that hangs in front of a window",
      "chinese": "窗簾，幕"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "curve",
     "answer": "curve",
     "pos": "n.",
-    "definition": "",
+    "definition": "a line or shape that bends",
     "chinese": "曲線，彎曲",
     "sentence": "The road follows the __________ of the hill.",
     "translation": "道路沿著山坡蜿蜒。",
     "lookup": {
-     "english": "",
+     "english": "a line or shape that bends",
      "chinese": "曲線，彎曲"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "custom",
     "answer": "custom",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that people in a place have done for a long time",
     "chinese": "風俗，習慣",
     "sentence": "It is a local __________ to celebrate the festival with fireworks.",
     "translation": "這是當地用煙花慶祝節日的習俗。",
     "lookup": {
-     "english": "",
+     "english": "something that people in a place have done for a long time",
      "chinese": "風俗，習慣"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "customer",
     "answer": "customer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who buys something from a store",
     "chinese": "顧客",
     "sentence": "The __________ was satisfied with the service.",
     "translation": "顧客對服務很滿意。",
     "lookup": {
-     "english": "",
+     "english": "a person who buys something from a store",
      "chinese": "顧客"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "daily",
     "answer": "daily",
     "pos": "adj.",
-    "definition": "",
+    "definition": "happening or coming out every day",
     "chinese": "每日的，日常的",
     "sentence": "She reads the __________ newspaper every morning.",
     "translation": "她每天早上讀日報。",
     "lookup": {
-     "english": "",
+     "english": "happening or coming out every day",
      "chinese": "每日的，日常的"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "damage",
     "answer": "damaged",
     "pos": "v.",
-    "definition": "",
+    "definition": "to break or hurt something so it is not as good as before",
     "chinese": "損害，破壞",
     "sentence": "The storm __________ several houses.",
     "translation": "暴風雨損壞了幾座房屋。",
     "lookup": {
-     "english": "",
+     "english": "to break or hurt something so it is not as good as before",
      "chinese": "損害，破壞"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "dancer",
     "answer": "dancer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a person who dances",
     "chinese": "舞者，舞蹈家",
     "sentence": "She is a professional __________.",
     "translation": "她是一名專業舞者。",
     "lookup": {
-     "english": "",
+     "english": "a person who dances",
      "chinese": "舞者，舞蹈家"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "danger",
     "answer": "danger",
     "pos": "n.",
-    "definition": "",
+    "definition": "the chance that someone will be hurt or killed",
     "chinese": "危險",
     "sentence": "He was in great __________ during the storm.",
     "translation": "他在暴風雨中處於極大的危險中。",
     "lookup": {
-     "english": "",
+     "english": "the chance that someone will be hurt or killed",
      "chinese": "危險"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"avoid":["","避免"],"commanded":["","命令，指揮"],"cream":["","奶油，乳霜"],"create":["","創造"],"crime":["","罪行，犯罪"],"crowd":["","人群"],"crowded":["","擁擠的"],"cruel":["","殘酷的，無情的"],"cubs":["","幼獸，年輕人"],"culture":["","文化"],"cure":["","治癒"],"curious":["","好奇的"],"current":["","當前的，現行的"],"curtain":["","窗簾，幕"],"curve":["","曲線，彎曲"],"custom":["","風俗，習慣"],"customer":["","顧客"],"daily":["","每日的，日常的"],"damaged":["","損害，破壞"],"dancer":["","舞者，舞蹈家"],"danger":["","危險"],"skate":["","滑冰，溜冰"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"avoid":["to stay away from something; to try not to do something","避免"],"commanded":["to tell someone that they must do something","命令，指揮"],"cream":["the thick, white, fatty part of milk","奶油，乳霜"],"create":["to make something new","創造"],"crime":["something that is against the law","罪行，犯罪"],"crowd":["a large group of people in one place","人群"],"crowded":["full of people","擁擠的"],"cruel":["making people or animals suffer; very unkind","殘酷的，無情的"],"cubs":["a baby lion, bear, or tiger","幼獸，年輕人"],"culture":["the way of life, art, and ideas of a group of people","文化"],"cure":["to make a sick person well again; to make a sickness go away","治癒"],"curious":["wanting to know or learn about something","好奇的"],"current":["happening now","當前的，現行的"],"curtain":["a piece of cloth that hangs in front of a window","窗簾，幕"],"curve":["a line or shape that bends","曲線，彎曲"],"custom":["something that people in a place have done for a long time","風俗，習慣"],"customer":["a person who buys something from a store","顧客"],"daily":["happening or coming out every day","每日的，日常的"],"damaged":["to break or hurt something so it is not as good as before","損害，破壞"],"dancer":["a person who dances","舞者，舞蹈家"],"danger":["the chance that someone will be hurt or killed","危險"],"skate":["to move on ice wearing special shoes","滑冰，溜冰"]});

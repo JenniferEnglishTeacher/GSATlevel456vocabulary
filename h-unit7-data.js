@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "confuse",
     "answer": "confuse",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make someone unable to understand",
     "chinese": "使困惑，混淆",
     "sentence": "The instructions __________ me.",
     "translation": "這些說明讓我很困惑。",
     "lookup": {
-     "english": "",
+     "english": "to make someone unable to understand",
      "chinese": "使困惑，混淆"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "congratulation",
     "answer": "Congratulations",
     "pos": "n.",
-    "definition": "",
+    "definition": "words you say to someone when something good happens to them",
     "chinese": "祝賀，恭喜",
     "sentence": "__________ on your new job!",
     "translation": "恭喜你找到新工作！",
     "lookup": {
-     "english": "",
+     "english": "words you say to someone when something good happens to them",
      "chinese": "祝賀，恭喜"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "consider",
     "answer": "consider",
     "pos": "v.",
-    "definition": "",
+    "definition": "to think about something carefully",
     "chinese": "考慮",
     "sentence": "Please __________ my proposal carefully.",
     "translation": "請仔細考慮我的建議。",
     "lookup": {
-     "english": "",
+     "english": "to think about something carefully",
      "chinese": "考慮"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "considerate",
     "answer": "considerate",
     "pos": "adj.",
-    "definition": "",
+    "definition": "always thinking about what other people need or feel",
     "chinese": "體貼的",
     "sentence": "He is always __________ of others' feelings.",
     "translation": "他總是體貼別人的感受。",
     "lookup": {
-     "english": "",
+     "english": "always thinking about what other people need or feel",
      "chinese": "體貼的"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "contact lens",
     "answer": "contact lenses",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small round piece of plastic you put on your eye to see better",
     "chinese": "隱形眼鏡",
     "sentence": "She wears __________ instead of glasses.",
     "translation": "她戴隱形眼鏡而不是眼鏡。",
     "lookup": {
-     "english": "",
+     "english": "a small round piece of plastic you put on your eye to see better",
      "chinese": "隱形眼鏡"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "continue",
     "answer": "continue",
     "pos": "v.",
-    "definition": "",
+    "definition": "to keep doing something; to not stop",
     "chinese": "繼續",
     "sentence": "Let's __________ our discussion after lunch.",
     "translation": "午飯後我們繼續討論。",
     "lookup": {
-     "english": "",
+     "english": "to keep doing something; to not stop",
      "chinese": "繼續"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "contract",
     "answer": "contract",
     "pos": "n.",
-    "definition": "",
+    "definition": "a paper that two people or companies sign to agree on something",
     "chinese": "合約",
     "sentence": "He signed a __________ with the new company.",
     "translation": "他與新公司簽訂了合約。",
     "lookup": {
-     "english": "",
+     "english": "a paper that two people or companies sign to agree on something",
      "chinese": "合約"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "control",
     "answer": "control",
     "pos": "v.",
-    "definition": "",
+    "definition": "to have the power to make something do what you want",
     "chinese": "控制",
     "sentence": "You need to __________ your emotions better.",
     "translation": "你需要更好地控制你的情緒。",
     "lookup": {
-     "english": "",
+     "english": "to have the power to make something do what you want",
      "chinese": "控制"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "convenience store",
     "answer": "convenience store",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small shop that is open all day and night",
     "chinese": "便利商店",
     "sentence": "There is a __________ on every corner.",
     "translation": "每個街角都有一家便利商店。",
     "lookup": {
-     "english": "",
+     "english": "a small shop that is open all day and night",
      "chinese": "便利商店"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "conversation",
     "answer": "conversation",
     "pos": "n.",
-    "definition": "",
+    "definition": "a talk between two or more people",
     "chinese": "會話，對話",
     "sentence": "They had a long __________ about their plans.",
     "translation": "他們就計劃進行了長時間的對話。",
     "lookup": {
-     "english": "",
+     "english": "a talk between two or more people",
      "chinese": "會話，對話"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "cop",
     "answer": "cop",
     "pos": "n.",
-    "definition": "",
+    "definition": "a police officer",
     "chinese": "警察",
     "sentence": "The __________ caught the thief.",
     "translation": "警察抓住了小偷。",
     "lookup": {
-     "english": "",
+     "english": "a police officer",
      "chinese": "警察"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "corn",
     "answer": "corn",
     "pos": "n.",
-    "definition": "",
+    "definition": "a tall plant with yellow seeds that people eat",
     "chinese": "玉米",
     "sentence": "She likes to eat __________ on the cob.",
     "translation": "她喜歡吃玉米棒子。",
     "lookup": {
-     "english": "",
+     "english": "a tall plant with yellow seeds that people eat",
      "chinese": "玉米"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "cotton",
     "answer": "cotton",
     "pos": "n.",
-    "definition": "",
+    "definition": "soft white material from a plant, used to make clothes",
     "chinese": "棉花",
     "sentence": "The shirt is made of 100% __________.",
     "translation": "這件襯衫是100%棉的。",
     "lookup": {
-     "english": "",
+     "english": "soft white material from a plant, used to make clothes",
      "chinese": "棉花"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "cough",
     "answer": "cough",
     "pos": "v.",
-    "definition": "",
+    "definition": "to push air out of your throat with a sudden, rough sound",
     "chinese": "咳嗽",
     "sentence": "He started to __________ after inhaling the smoke.",
     "translation": "他吸入煙霧後開始咳嗽。",
     "lookup": {
-     "english": "",
+     "english": "to push air out of your throat with a sudden, rough sound",
      "chinese": "咳嗽"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "couple",
     "answer": "couple",
     "pos": "n.",
-    "definition": "",
+    "definition": "two people who are married or in love",
     "chinese": "一對，夫婦",
     "sentence": "The young __________ moved into a new apartment.",
     "translation": "這對年輕夫婦搬進了一間新公寓。",
     "lookup": {
-     "english": "",
+     "english": "two people who are married or in love",
      "chinese": "一對，夫婦"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "courage",
     "answer": "courage",
     "pos": "n.",
-    "definition": "",
+    "definition": "being brave when you are afraid",
     "chinese": "勇氣",
     "sentence": "It takes a lot of __________ to speak in public.",
     "translation": "在公共場合講話需要很大的勇氣。",
     "lookup": {
-     "english": "",
+     "english": "being brave when you are afraid",
      "chinese": "勇氣"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "court",
     "answer": "court",
     "pos": "n.",
-    "definition": "",
+    "definition": "the place where a judge decides if someone broke the law",
     "chinese": "法庭，球場",
     "sentence": "The case was brought to __________.",
     "translation": "這個案子被提到了法庭。",
     "lookup": {
-     "english": "",
+     "english": "the place where a judge decides if someone broke the law",
      "chinese": "法庭，球場"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "cowboy",
     "answer": "cowboy",
     "pos": "n.",
-    "definition": "",
+    "definition": "a man who rides a horse and takes care of cows",
     "chinese": "牛仔",
     "sentence": "He dressed up as a __________ for the party.",
     "translation": "他裝扮成牛仔去參加派對。",
     "lookup": {
-     "english": "",
+     "english": "a man who rides a horse and takes care of cows",
      "chinese": "牛仔"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "crab",
     "answer": "crab",
     "pos": "n.",
-    "definition": "",
+    "definition": "a sea animal with a hard shell and ten legs that walks sideways",
     "chinese": "螃蟹",
     "sentence": "They caught a large __________ by the shore.",
     "translation": "他們在岸邊抓到了一隻大螃蟹。",
     "lookup": {
-     "english": "",
+     "english": "a sea animal with a hard shell and ten legs that walks sideways",
      "chinese": "螃蟹"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "crayon",
     "answer": "crayons",
     "pos": "n.",
-    "definition": "",
+    "definition": "a stick of colored wax for drawing",
     "chinese": "蠟筆",
     "sentence": "She drew a picture with __________.",
     "translation": "她用蠟筆畫了一幅畫。",
     "lookup": {
-     "english": "",
+     "english": "a stick of colored wax for drawing",
      "chinese": "蠟筆"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"confuse":["","使困惑，混淆"],"congratulations":["","祝賀，恭喜"],"consider":["","考慮"],"considerate":["","體貼的"],"continue":["","繼續"],"contract":["","合約"],"control":["","控制"],"conversation":["","會話，對話"],"cop":["","警察"],"corn":["","玉米"],"cotton":["","棉花"],"cough":["","咳嗽"],"couple":["","一對，夫婦"],"courage":["","勇氣"],"court":["","法庭，球場"],"cowboy":["","牛仔"],"crab":["","螃蟹"],"crayons":["","蠟筆"],"maximum":["","最大的，最高的"],"necessary":["","必要的"],"peaceful":["","和平的，安靜的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"confuse":["to make someone unable to understand","使困惑，混淆"],"congratulations":["words you say to someone when something good happens to them","祝賀，恭喜"],"consider":["to think about something carefully","考慮"],"considerate":["always thinking about what other people need or feel","體貼的"],"continue":["to keep doing something; to not stop","繼續"],"contract":["a paper that two people or companies sign to agree on something","合約"],"control":["to have the power to make something do what you want","控制"],"conversation":["a talk between two or more people","會話，對話"],"cop":["a police officer","警察"],"corn":["a tall plant with yellow seeds that people eat","玉米"],"cotton":["soft white material from a plant, used to make clothes","棉花"],"cough":["to push air out of your throat with a sudden, rough sound","咳嗽"],"couple":["two people who are married or in love","一對，夫婦"],"courage":["being brave when you are afraid","勇氣"],"court":["the place where a judge decides if someone broke the law","法庭，球場"],"cowboy":["a man who rides a horse and takes care of cows","牛仔"],"crab":["a sea animal with a hard shell and ten legs that walks sideways","螃蟹"],"crayons":["a stick of colored wax for drawing","蠟筆"],"maximum":["the largest that is possible or allowed","最大的，最高的"],"necessary":["needed; that you must have or do","必要的"],"peaceful":["quiet and calm","和平的，安靜的"]});

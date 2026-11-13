@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "weather",
     "pos": "n.",
     "cn_def": "天氣",
-    "en_def": "",
+    "en_def": "how hot, cold, wet, or dry it is outside",
     "sentence": "Q: How's the {{BLANK}} today? — A: It's nice. Let's go out and play.",
     "cn": "今天天氣如何？ — 天氣很好，我們出去玩吧。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "sunny",
     "pos": "adj.",
     "cn_def": "晴朗的",
-    "en_def": "",
+    "en_def": "bright with a lot of sun",
     "sentence": "Q: How's the weather in Kaohsiung today? — A: It's {{BLANK}}. Let's go to the beach.",
     "cn": "高雄今天天氣如何？ — 天氣晴朗，我們去海邊吧。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "clear",
     "pos": "adj.",
     "cn_def": "晴朗的；清澈的",
-    "en_def": "",
+    "en_def": "with no clouds; easy to see through",
     "sentence": "Q: How's the weather this morning? — A: It's {{BLANK}}. We can see Taipei 101 from here.",
     "cn": "今天早上天氣如何？ — 天氣晴朗，我們從這裡就看得到台北101。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "cloudy",
     "pos": "adj.",
     "cn_def": "多雲的",
-    "en_def": "",
+    "en_def": "with many clouds in the sky",
     "sentence": "Q: How's the weather in Taichung? — A: It's {{BLANK}} and gray.",
     "cn": "台中天氣如何？ — 多雲、灰灰的。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "rainy",
     "pos": "adj.",
     "cn_def": "下雨的",
-    "en_def": "",
+    "en_def": "with a lot of rain",
     "sentence": "Q: How's the weather today, Mom? — A: It's {{BLANK}}. Take your umbrella.",
     "cn": "媽，今天天氣如何？ — 在下雨，帶你的雨傘。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "windy",
     "pos": "adj.",
     "cn_def": "多風的",
-    "en_def": "",
+    "en_def": "with a lot of wind",
     "sentence": "Q: How's the weather at the beach? — A: It's {{BLANK}}. Let's fly a kite.",
     "cn": "海邊天氣如何？ — 風很大，我們來放風箏吧。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "snowy",
     "pos": "adj.",
     "cn_def": "下雪的",
-    "en_def": "",
+    "en_def": "with a lot of snow",
     "sentence": "Q: How's the weather in Japan today? — A: It's {{BLANK}}. The mountains are all white.",
     "cn": "日本今天天氣如何？ — 在下雪，山都變成白色的了。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "hot",
     "pos": "adj.",
     "cn_def": "熱的",
-    "en_def": "",
+    "en_def": "having a high temperature; not cold",
     "sentence": "Q: What's the weather like in Taiwan in summer? — A: It's very {{BLANK}}. We often go swimming.",
     "cn": "台灣夏天的天氣怎麼樣？ — 非常熱，我們常常去游泳。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "warm",
     "pos": "adj.",
     "cn_def": "溫暖的",
-    "en_def": "",
+    "en_def": "a little hot, in a nice way",
     "sentence": "Q: What's the weather like in spring? — A: It's {{BLANK}}. Many flowers come out.",
     "cn": "春天的天氣怎麼樣？ — 很溫暖，很多花都開了。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "cool",
     "pos": "adj.",
     "cn_def": "涼爽的",
-    "en_def": "",
+    "en_def": "a little cold, in a nice way",
     "sentence": "Q: What's the weather like in fall? — A: It's {{BLANK}}. It's a good time for hiking.",
     "cn": "秋天的天氣怎麼樣？ — 很涼爽，是健行的好時節。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "cold",
     "pos": "adj.",
     "cn_def": "寒冷的",
-    "en_def": "",
+    "en_def": "having a low temperature; not hot",
     "sentence": "Q: What's the weather like here in winter? — A: It's {{BLANK}}. Wear your coat.",
     "cn": "這裡冬天的天氣怎麼樣？ — 很冷，穿上你的大衣。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "dry",
     "pos": "adj.",
     "cn_def": "乾的；乾燥的",
-    "en_def": "",
+    "en_def": "with no water or rain; not wet",
     "sentence": "Q: What's the weather like in Tainan in fall? — A: It's {{BLANK}}. There isn't much water in the river.",
     "cn": "台南秋天的天氣怎麼樣？ — 很乾燥，河裡沒什麼水。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "wet",
     "pos": "adj.",
     "cn_def": "濕的",
-    "en_def": "",
+    "en_def": "covered with water; not dry",
     "sentence": "Q: What's the weather like in Keelung in winter? — A: It's very {{BLANK}}. People always carry umbrellas.",
     "cn": "基隆冬天的天氣怎麼樣？ — 很潮濕，人們總是帶著雨傘。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "rain",
     "pos": "v.",
     "cn_def": "下雨",
-    "en_def": "",
+    "en_def": "when water falls from the clouds",
     "sentence": "Q: Does it often {{BLANK}} in Keelung? — A: Yes, it does. Take an umbrella with you.",
     "cn": "基隆常常下雨嗎？ — 是的，常常下。帶把傘吧。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "shower",
     "pos": "n.",
     "cn_def": "陣雨；淋浴",
-    "en_def": "",
+    "en_def": "a short rain; washing your body under falling water",
     "sentence": "Q: Is it going to rain today? — A: Yes, it is. There's going to be a {{BLANK}} this afternoon.",
     "cn": "今天會下雨嗎？ — 會，今天下午會有一場陣雨。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "cloud (clouds)",
     "pos": "n.",
     "cn_def": "雲",
-    "en_def": "",
+    "en_def": "a white or gray thing in the sky that rain falls from",
     "sentence": "Q: Is it going to rain? — A: Maybe. Look at those dark {{BLANK}}.",
     "cn": "會下雨嗎？ — 也許會，看那些烏雲。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "rainbow",
     "pos": "n.",
     "cn_def": "彩虹",
-    "en_def": "",
+    "en_def": "a curve of many colors in the sky after rain",
     "sentence": "Q: Is it going to rain again? — A: No, it isn't. Look! There is a {{BLANK}} over the mountain.",
     "cn": "又要下雨了嗎？ — 不會。看！山上有一道彩虹。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "snow",
     "pos": "v.",
     "cn_def": "下雪",
-    "en_def": "",
+    "en_def": "when soft white ice falls from the sky",
     "sentence": "Q: Does it {{BLANK}} in Taipei in winter? — A: No, it doesn't. But it sometimes does on high mountains.",
     "cn": "台北冬天會下雪嗎？ — 不會，但是高山上有時候會。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "wind",
     "pos": "n.",
     "cn_def": "風",
-    "en_def": "",
+    "en_def": "air that moves outside",
     "sentence": "Q: Do we need to close the windows? — A: Yes, we do. The {{BLANK}} is very strong.",
     "cn": "我們需要關窗戶嗎？ — 需要，風很強。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "blow",
     "pos": "v.",
     "cn_def": "吹",
-    "en_def": "",
+    "en_def": "(of wind or air) to move; to send air out of your mouth",
     "sentence": "Q: Does the wind {{BLANK}} hard here in winter? — A: Yes, it does. Wear your coat.",
     "cn": "這裡冬天風吹得很強嗎？ — 是的，穿上你的大衣。"
   },
@@ -170,7 +170,7 @@ const VOCAB = [
     "word": "typhoon",
     "pos": "n.",
     "cn_def": "颱風",
-    "en_def": "",
+    "en_def": "a very strong storm with heavy wind and rain",
     "sentence": "Q: Is a {{BLANK}} going to come tomorrow? — A: Yes, it is. There is no school tomorrow.",
     "cn": "明天颱風要來嗎？ — 是的，明天停課。"
   },
@@ -178,7 +178,7 @@ const VOCAB = [
     "word": "earthquake",
     "pos": "n.",
     "cn_def": "地震",
-    "en_def": "",
+    "en_def": "a time when the ground shakes suddenly",
     "sentence": "Q: Is it an {{BLANK}}? The house is shaking! — A: Yes, it is! Get under the table.",
     "cn": "是地震嗎？房子在搖！ — 是的！躲到桌子底下。"
   },
@@ -186,7 +186,7 @@ const VOCAB = [
     "word": "sun",
     "pos": "n.",
     "cn_def": "太陽",
-    "en_def": "",
+    "en_def": "the big bright thing in the sky that gives us light and heat in the day",
     "sentence": "Q: Where does the {{BLANK}} come up? — A: It comes up in the east.",
     "cn": "太陽從哪裡升起？ — 它從東方升起。"
   },
@@ -194,7 +194,7 @@ const VOCAB = [
     "word": "shine (shines)",
     "pos": "v.",
     "cn_def": "照耀",
-    "en_def": "",
+    "en_def": "to give out bright light",
     "sentence": "Q: What does the sun do in the day? — A: It {{BLANK}} and gives us light.",
     "cn": "太陽白天做什麼？ — 它照耀著，給我們光。"
   },
@@ -202,7 +202,7 @@ const VOCAB = [
     "word": "moon",
     "pos": "n.",
     "cn_def": "月亮",
-    "en_def": "",
+    "en_def": "the big round thing that shines in the sky at night",
     "sentence": "Q: When do you see the {{BLANK}}? — A: I see it at night. Sometimes it's round.",
     "cn": "你什麼時候看得到月亮？ — 我在晚上看到它，它有時候是圓的。"
   },
@@ -210,7 +210,7 @@ const VOCAB = [
     "word": "star (stars)",
     "pos": "n.",
     "cn_def": "星星",
-    "en_def": "",
+    "en_def": "a small bright point of light in the sky at night",
     "sentence": "Q: What do you see in the sky at night? — A: I see many bright {{BLANK}}.",
     "cn": "你晚上在天空看到什麼？ — 我看到很多明亮的星星。"
   },
@@ -218,7 +218,7 @@ const VOCAB = [
     "word": "sky",
     "pos": "n.",
     "cn_def": "天空",
-    "en_def": "",
+    "en_def": "the space above us where we see clouds, the sun, and stars",
     "sentence": "Q: Where do birds fly? — A: They fly in the {{BLANK}}.",
     "cn": "鳥在哪裡飛？ — 牠們在天空飛。"
   },
@@ -226,7 +226,7 @@ const VOCAB = [
     "word": "earth",
     "pos": "n.",
     "cn_def": "地球",
-    "en_def": "",
+    "en_def": "the planet that we live on",
     "sentence": "Q: Where do we live? — A: We live on the {{BLANK}}. It is round.",
     "cn": "我們住在哪裡？ — 我們住在地球上，它是圓的。"
   },
@@ -234,7 +234,7 @@ const VOCAB = [
     "word": "air",
     "pos": "n.",
     "cn_def": "空氣",
-    "en_def": "",
+    "en_def": "what we breathe; it is all around us",
     "sentence": "Q: What do people and animals need? — A: They need {{BLANK}}, water and food.",
     "cn": "人和動物需要什麼？ — 他們需要空氣、水和食物。"
   },
@@ -242,7 +242,7 @@ const VOCAB = [
     "word": "plant (plants)",
     "pos": "n.",
     "cn_def": "植物",
-    "en_def": "",
+    "en_def": "a living thing with leaves and roots, like a tree or a flower",
     "sentence": "Q: What do {{BLANK}} need? — A: They need water and light.",
     "cn": "植物需要什麼？ — 它們需要水和光。"
   },
@@ -250,7 +250,7 @@ const VOCAB = [
     "word": "nature",
     "pos": "n.",
     "cn_def": "自然；大自然",
-    "en_def": "",
+    "en_def": "trees, animals, rivers, and everything not made by people",
     "sentence": "Q: Does your father love {{BLANK}}? — A: Yes, he does. He often goes to the mountains.",
     "cn": "你爸爸熱愛大自然嗎？ — 是的，他常常去山上。"
   }
@@ -634,157 +634,157 @@ const MCQS = [
 const LOOKUP = {
   "cool": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "a little cold; also very good and fun",
     "cn_def": "涼爽的"
   },
   "cold": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a common sickness that makes you cough and sneeze",
     "cn_def": "感冒"
   },
   "hot": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "having a high temperature; not cold; also spicy",
     "cn_def": "熱的；燙的；辣的"
   },
   "weather": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "how hot, cold, wet, or dry it is outside",
     "cn_def": "天氣"
   },
   "sunny": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "bright with a lot of sun",
     "cn_def": "晴朗的"
   },
   "clear": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with no clouds; easy to see through",
     "cn_def": "晴朗的；清澈的"
   },
   "cloudy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with many clouds in the sky",
     "cn_def": "多雲的"
   },
   "rainy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with a lot of rain",
     "cn_def": "下雨的"
   },
   "windy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with a lot of wind",
     "cn_def": "多風的"
   },
   "snowy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with a lot of snow",
     "cn_def": "下雪的"
   },
   "warm": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "a little hot, in a nice way",
     "cn_def": "溫暖的"
   },
   "dry": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "with no water or rain; not wet",
     "cn_def": "乾的；乾燥的"
   },
   "wet": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "covered with water; not dry",
     "cn_def": "濕的"
   },
   "rain": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "when water falls from the clouds",
     "cn_def": "下雨"
   },
   "shower": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a short rain; washing your body under falling water",
     "cn_def": "陣雨；淋浴"
   },
   "clouds": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a white or gray thing in the sky that rain falls from",
     "cn_def": "雲"
   },
   "rainbow": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a curve of many colors in the sky after rain",
     "cn_def": "彩虹"
   },
   "snow": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "when soft white ice falls from the sky",
     "cn_def": "下雪"
   },
   "wind": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "air that moves outside",
     "cn_def": "風"
   },
   "blow": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "(of wind or air) to move; to send air out of your mouth",
     "cn_def": "吹"
   },
   "typhoon": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a very strong storm with heavy wind and rain",
     "cn_def": "颱風"
   },
   "earthquake": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a time when the ground shakes suddenly",
     "cn_def": "地震"
   },
   "sun": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the big bright thing in the sky that gives us light and heat in the day",
     "cn_def": "太陽"
   },
   "shines": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to give out bright light",
     "cn_def": "照耀"
   },
   "moon": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the big round thing that shines in the sky at night",
     "cn_def": "月亮"
   },
   "stars": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small bright point of light in the sky at night",
     "cn_def": "星星"
   },
   "sky": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the space above us where we see clouds, the sun, and stars",
     "cn_def": "天空"
   },
   "earth": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the planet that we live on",
     "cn_def": "地球"
   },
   "air": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "what we breathe; it is all around us",
     "cn_def": "空氣"
   },
   "plants": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a living thing with leaves and roots, like a tree or a flower",
     "cn_def": "植物"
   },
   "nature": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "trees, animals, rivers, and everything not made by people",
     "cn_def": "自然；大自然"
   }
 };

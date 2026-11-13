@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "heater",
     "pos": "n.",
     "cn_def": "加熱器，暖氣",
-    "en_def": "",
+    "en_def": "a machine that makes a room warm",
     "sentence": "The room was warm thanks to the {{BLANK}}.",
     "cn": "由於暖氣房間很暖和。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "helicopter",
     "pos": "n.",
     "cn_def": "直升機",
-    "en_def": "",
+    "en_def": "a flying machine with big blades that turn on top",
     "sentence": "They were rescued by a {{BLANK}}.",
     "cn": "他們被直升機救了。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "hero",
     "pos": "n.",
     "cn_def": "英雄",
-    "en_def": "",
+    "en_def": "a brave person that many people love and respect",
     "sentence": "He is considered a national {{BLANK}}.",
     "cn": "他被認為是國家的英雄。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "highway",
     "pos": "n.",
     "cn_def": "高速公路",
-    "en_def": "",
+    "en_def": "a wide road for cars to travel fast between cities",
     "sentence": "They drove along the {{BLANK}}.",
     "cn": "他們沿著高速公路駕車。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "hip",
     "pos": "n.",
     "cn_def": "臀部，髖部",
-    "en_def": "",
+    "en_def": "the side of your body between your waist and the top of your leg",
     "sentence": "She has a tattoo on her {{BLANK}}.",
     "cn": "她的臀部有一個刺青。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "hippo",
     "pos": "n.",
     "cn_def": "河馬",
-    "en_def": "",
+    "en_def": "a big, heavy animal with short legs that lives in rivers in Africa",
     "sentence": "They saw a {{BLANK}} at the zoo.",
     "cn": "他們在動物園看到了一隻河馬。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "hire",
     "pos": "v.",
     "cn_def": "雇用",
-    "en_def": "",
+    "en_def": "to give someone a job",
     "sentence": "The company plans to {{BLANK}} new employees.",
     "cn": "公司計劃雇用新員工。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "hole",
     "pos": "n.",
     "cn_def": "洞，孔",
-    "en_def": "",
+    "en_def": "an empty space or opening in something",
     "sentence": "There is a {{BLANK}} in the wall.",
     "cn": "牆上有一個洞。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "homesick",
     "pos": "adj.",
     "cn_def": "想家的",
-    "en_def": "",
+    "en_def": "sad because you are away from home",
     "sentence": "She felt {{BLANK}} during her first week at college.",
     "cn": "她在大學的第一周感到想家。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "honesty",
     "pos": "n.",
     "cn_def": "誠實",
-    "en_def": "",
+    "en_def": "always telling the truth",
     "sentence": "{{BLANK}} is the best policy.",
     "cn": "誠實是最好的政策。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "hop",
     "pos": "v.",
     "cn_def": "跳躍，單腳跳",
-    "en_def": "",
+    "en_def": "to move by making short, quick jumps",
     "sentence": "The rabbit {{BLANK}} away quickly.",
     "cn": "兔子迅速跳走了。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "horrible",
     "pos": "adj.",
     "cn_def": "可怕的，糟糕的",
-    "en_def": "",
+    "en_def": "very bad",
     "sentence": "It was a {{BLANK}} experience.",
     "cn": "這是一個可怕的經歷。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "host",
     "pos": "n.",
     "cn_def": "主人，主持人",
-    "en_def": "",
+    "en_def": "the person who invites guests to a party",
     "sentence": "He was the {{BLANK}} of the party.",
     "cn": "他是派對的主人。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "housework",
     "pos": "n.",
     "cn_def": "家務",
-    "en_def": "",
+    "en_def": "work at home like cleaning, washing, and cooking",
     "sentence": "She spends her weekends doing {{BLANK}}.",
     "cn": "她周末做家務。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "hug",
     "pos": "v.",
     "cn_def": "擁抱",
-    "en_def": "",
+    "en_def": "holding someone in your arms to show love",
     "sentence": "She gave him a warm {{BLANK}}.",
     "cn": "她給了他一個溫暖的擁抱。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "human",
     "pos": "adj.",
     "cn_def": "人類的，人性的",
-    "en_def": "",
+    "en_def": "of people; that all people have",
     "sentence": "It is {{BLANK}} nature to make mistakes.",
     "cn": "犯錯是人之常情。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "humble",
     "pos": "adj.",
     "cn_def": "謙虛的，卑微的",
-    "en_def": "",
+    "en_def": "not thinking or saying that you are better than others",
     "sentence": "He is very {{BLANK}} about his achievements.",
     "cn": "他對自己的成就非常謙虛。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "humid",
     "pos": "adj.",
     "cn_def": "潮濕的，濕熱的",
-    "en_def": "",
+    "en_def": "(of weather) warm and wet",
     "sentence": "The weather is very {{BLANK}} today.",
     "cn": "今天的天氣非常潮濕。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "humor",
     "pos": "n.",
     "cn_def": "幽默",
-    "en_def": "",
+    "en_def": "being able to see or say what is funny",
     "sentence": "He has a great sense of {{BLANK}}.",
     "cn": "他很有幽默感。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "humorous",
     "pos": "adj.",
     "cn_def": "幽默的",
-    "en_def": "",
+    "en_def": "funny; making people laugh",
     "sentence": "She told a very {{BLANK}} story.",
     "cn": "她講了一個非常幽默的故事。"
   }
@@ -414,117 +414,117 @@ const MCQS = [
 const LOOKUP = {
   "create": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make something new",
     "cn_def": "創造"
   },
   "excited": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make someone feel very happy and interested",
     "cn_def": "使興奮，使激動"
   },
   "heater": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a machine that makes a room warm",
     "cn_def": "加熱器，暖氣"
   },
   "helicopter": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a flying machine with big blades that turn on top",
     "cn_def": "直升機"
   },
   "hero": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a brave person that many people love and respect",
     "cn_def": "英雄"
   },
   "highway": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a wide road for cars to travel fast between cities",
     "cn_def": "高速公路"
   },
   "hip": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the side of your body between your waist and the top of your leg",
     "cn_def": "臀部，髖部"
   },
   "hippo": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big, heavy animal with short legs that lives in rivers in Africa",
     "cn_def": "河馬"
   },
   "hire": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to give someone a job",
     "cn_def": "雇用"
   },
   "hole": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an empty space or opening in something",
     "cn_def": "洞，孔"
   },
   "homesick": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "sad because you are away from home",
     "cn_def": "想家的"
   },
   "honesty": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "always telling the truth",
     "cn_def": "誠實"
   },
   "hopped": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to move by making short, quick jumps",
     "cn_def": "跳躍，單腳跳"
   },
   "horrible": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very bad",
     "cn_def": "可怕的，糟糕的"
   },
   "host": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the person who invites guests to a party",
     "cn_def": "主人，主持人"
   },
   "housework": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "work at home like cleaning, washing, and cooking",
     "cn_def": "家務"
   },
   "hug": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "holding someone in your arms to show love",
     "cn_def": "擁抱"
   },
   "human": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "of people; that all people have",
     "cn_def": "人類的，人性的"
   },
   "humble": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not thinking or saying that you are better than others",
     "cn_def": "謙虛的，卑微的"
   },
   "humid": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "(of weather) warm and wet",
     "cn_def": "潮濕的，濕熱的"
   },
   "humor": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "being able to see or say what is funny",
     "cn_def": "幽默"
   },
   "humorous": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "funny; making people laugh",
     "cn_def": "幽默的"
   },
   "skate": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to move on ice wearing special shoes",
     "cn_def": "滑冰，溜冰"
   }
 };

@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "bed",
     "pos": "n.",
     "cn_def": "床",
-    "en_def": "",
+    "en_def": "a thing that you sleep on",
     "sentence": "Q: Where is the cat? — A: It's on my {{BLANK}}. It's sleeping.",
     "cn": "貓在哪裡？ — 牠在我的床上，牠正在睡覺。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "sofa",
     "pos": "n.",
     "cn_def": "沙發",
-    "en_def": "",
+    "en_def": "a long, soft seat for two or more people",
     "sentence": "Q: Where is the dog? — A: It's on the {{BLANK}} in the living room.",
     "cn": "狗在哪裡？ — 牠在客廳的沙發上。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "couch",
     "pos": "n.",
     "cn_def": "沙發",
-    "en_def": "",
+    "en_def": "a long, soft seat for two or more people",
     "sentence": "Q: Where are my comic books? — A: They're on the {{BLANK}}, next to the TV.",
     "cn": "我的漫畫書在哪裡？ — 它們在沙發上，電視旁邊。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "chair",
     "pos": "n.",
     "cn_def": "椅子",
-    "en_def": "",
+    "en_def": "a seat for one person, with a back and four legs",
     "sentence": "Q: Where is my schoolbag? — A: It's under your {{BLANK}}.",
     "cn": "我的書包在哪裡？ — 它在你的椅子下面。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "desk",
     "pos": "n.",
     "cn_def": "書桌",
-    "en_def": "",
+    "en_def": "a table where you study or work",
     "sentence": "Q: Where are my books? — A: They're on your {{BLANK}}.",
     "cn": "我的書在哪裡？ — 它們在你的書桌上。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "table",
     "pos": "n.",
     "cn_def": "桌子",
-    "en_def": "",
+    "en_def": "a thing with a flat top and legs that you put things on",
     "sentence": "Q: Where does Mom put the cake? — A: She puts it on the {{BLANK}}.",
     "cn": "媽媽把蛋糕放在哪裡？ — 她把它放在桌上。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "drawer",
     "pos": "n.",
     "cn_def": "抽屜",
-    "en_def": "",
+    "en_def": "a box in a desk or table that you pull out to put things in",
     "sentence": "Q: Where do you keep your pens? — A: I keep them in the {{BLANK}}.",
     "cn": "你把筆放在哪裡？ — 我把它們放在抽屜裡。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "lamp",
     "pos": "n.",
     "cn_def": "檯燈",
-    "en_def": "",
+    "en_def": "a small light that stands on a desk or table",
     "sentence": "Q: Where is the {{BLANK}}? — A: It's on the desk, next to the computer.",
     "cn": "檯燈在哪裡？ — 它在書桌上，電腦旁邊。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "blanket",
     "pos": "n.",
     "cn_def": "毯子",
-    "en_def": "",
+    "en_def": "a big, warm cover for your bed",
     "sentence": "Q: Where is my {{BLANK}}? I'm cold. — A: It's on your bed.",
     "cn": "我的毯子在哪裡？我好冷。 — 它在你的床上。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "towel (towels)",
     "pos": "n.",
     "cn_def": "毛巾",
-    "en_def": "",
+    "en_def": "a piece of cloth that you use to dry yourself",
     "sentence": "Q: Where are the {{BLANK}}? — A: They're in the bathroom.",
     "cn": "毛巾在哪裡？ — 它們在浴室裡。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "key (keys)",
     "pos": "n.",
     "cn_def": "鑰匙",
-    "en_def": "",
+    "en_def": "a small metal thing that opens a door or starts a car",
     "sentence": "Q: Where are my {{BLANK}}? — A: They're in your pocket, Dad!",
     "cn": "我的鑰匙在哪裡？ — 爸爸，它們在你的口袋裡！"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "umbrella",
     "pos": "n.",
     "cn_def": "雨傘",
-    "en_def": "",
+    "en_def": "a thing you hold over your head to stay dry in the rain",
     "sentence": "Q: Where does Dad keep his {{BLANK}}? — A: He keeps it behind the door.",
     "cn": "爸爸把他的雨傘放在哪裡？ — 他把它放在門後面。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "basket",
     "pos": "n.",
     "cn_def": "籃子",
-    "en_def": "",
+    "en_def": "a container made of thin sticks for carrying things",
     "sentence": "Q: Where are the apples? — A: They're in the {{BLANK}} on the table.",
     "cn": "蘋果在哪裡？ — 它們在桌上的籃子裡。"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "pot",
     "pos": "n.",
     "cn_def": "鍋子；壺",
-    "en_def": "",
+    "en_def": "a deep round container for cooking food or holding tea",
     "sentence": "Q: Where is the soup? — A: It's in the {{BLANK}} in the kitchen.",
     "cn": "湯在哪裡？ — 它在廚房的鍋子裡。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "candle (candles)",
     "pos": "n.",
     "cn_def": "蠟燭",
-    "en_def": "",
+    "en_def": "a stick of wax that gives light when it burns",
     "sentence": "Q: Where are the {{BLANK}}? — A: They're on the birthday cake.",
     "cn": "蠟燭在哪裡？ — 它們在生日蛋糕上。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "mat",
     "pos": "n.",
     "cn_def": "墊子",
-    "en_def": "",
+    "en_def": "a small piece of thick cloth on the floor",
     "sentence": "Q: Where do we put our shoes? — A: Put them on the {{BLANK}} by the door.",
     "cn": "我們把鞋子放在哪裡？ — 把它們放在門邊的墊子上。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "bench",
     "pos": "n.",
     "cn_def": "長椅",
-    "en_def": "",
+    "en_def": "a long seat for two or more people, often in a park",
     "sentence": "Q: Is there a {{BLANK}} in the garden? — A: Yes, there is. Grandma often sits on it.",
     "cn": "花園裡有長椅嗎？ — 是的，有。奶奶常常坐在上面。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "light",
     "pos": "n.",
     "cn_def": "燈；燈光",
-    "en_def": "",
+    "en_def": "a thing that makes a room bright",
     "sentence": "Q: Is there a {{BLANK}} in the bathroom? — A: Yes, there is. But it doesn't work now.",
     "cn": "浴室裡有燈嗎？ — 是的，有。但是它現在壞了。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "television (TV)",
     "pos": "n.",
     "cn_def": "電視",
-    "en_def": "",
+    "en_def": "a machine with a screen that shows programs and movies",
     "sentence": "Q: Is there a {{BLANK}} in your bedroom? — A: No, there isn't. It's in the living room.",
     "cn": "你的臥室裡有電視嗎？ — 不，沒有。它在客廳裡。",
     "alts": [
@@ -165,7 +165,7 @@ const VOCAB = [
     "word": "computer",
     "pos": "n.",
     "cn_def": "電腦",
-    "en_def": "",
+    "en_def": "a machine you use to write, play games, and go online",
     "sentence": "Q: Is there a {{BLANK}} in your room? — A: Yes, there is. I do my homework on it.",
     "cn": "你的房間裡有電腦嗎？ — 是的，有。我用它寫功課。"
   },
@@ -173,7 +173,7 @@ const VOCAB = [
     "word": "telephone (phone)",
     "pos": "n.",
     "cn_def": "電話",
-    "en_def": "",
+    "en_def": "a thing you use to talk to someone who is far away",
     "sentence": "Q: Is there a {{BLANK}} in the kitchen? — A: No, there isn't. It's on the table in the living room.",
     "cn": "廚房裡有電話嗎？ — 不，沒有。它在客廳的桌上。",
     "alts": [
@@ -184,7 +184,7 @@ const VOCAB = [
     "word": "radio",
     "pos": "n.",
     "cn_def": "收音機",
-    "en_def": "",
+    "en_def": "a machine that plays music and news you can listen to",
     "sentence": "Q: Is there a {{BLANK}} in Grandpa's room? — A: Yes, there is. He listens to it every morning.",
     "cn": "爺爺的房間裡有收音機嗎？ — 是的，有。他每天早上都聽。"
   },
@@ -192,7 +192,7 @@ const VOCAB = [
     "word": "camera",
     "pos": "n.",
     "cn_def": "照相機",
-    "en_def": "",
+    "en_def": "a thing you use to take photos",
     "sentence": "Q: Is there a {{BLANK}} in your bag? — A: Yes, there is. I want to take pictures in the park.",
     "cn": "你的包包裡有相機嗎？ — 是的，有。我想在公園拍照。"
   },
@@ -200,7 +200,7 @@ const VOCAB = [
     "word": "fan",
     "pos": "n.",
     "cn_def": "電風扇",
-    "en_def": "",
+    "en_def": "a machine that moves air to make you feel cool",
     "sentence": "Q: Is there a {{BLANK}} in your bedroom? It's so hot. — A: No, there isn't. Let's go to the living room.",
     "cn": "你的臥室裡有電風扇嗎？好熱喔。 — 不，沒有。我們去客廳吧。"
   },
@@ -208,7 +208,7 @@ const VOCAB = [
     "word": "refrigerator (fridge)",
     "pos": "n.",
     "cn_def": "冰箱",
-    "en_def": "",
+    "en_def": "a machine in the kitchen that keeps food cold",
     "sentence": "Q: Is there any milk in the {{BLANK}}? — A: Yes, there is. It's next to the eggs.",
     "cn": "冰箱裡有牛奶嗎？ — 是的，有。它在蛋的旁邊。",
     "alts": [
@@ -219,7 +219,7 @@ const VOCAB = [
     "word": "machine",
     "pos": "n.",
     "cn_def": "機器",
-    "en_def": "",
+    "en_def": "a thing with moving parts that does work for people",
     "sentence": "Q: Is there a washing {{BLANK}} in your apartment? — A: Yes, there is. It's on the balcony.",
     "cn": "你的公寓裡有洗衣機嗎？ — 是的，有。它在陽台上。"
   },
@@ -227,7 +227,7 @@ const VOCAB = [
     "word": "tape (tapes)",
     "pos": "n.",
     "cn_def": "錄音帶；膠帶",
-    "en_def": "",
+    "en_def": "a long thin strip that holds sound or sticks things together",
     "sentence": "Q: Are there any English {{BLANK}} in the box? — A: Yes, there are. We can listen to them.",
     "cn": "箱子裡有英文錄音帶嗎？ — 是的，有。我們可以聽它們。"
   },
@@ -235,7 +235,7 @@ const VOCAB = [
     "word": "video (videos)",
     "pos": "n.",
     "cn_def": "影片；錄影帶",
-    "en_def": "",
+    "en_def": "a short movie that you watch on a phone, computer, or TV",
     "sentence": "Q: Are there any funny {{BLANK}} on your phone? — A: Yes, there are. Let's watch them together!",
     "cn": "你的手機裡有好笑的影片嗎？ — 是的，有。我們一起看吧！"
   },
@@ -243,7 +243,7 @@ const VOCAB = [
     "word": "pipe",
     "pos": "n.",
     "cn_def": "管子；水管",
-    "en_def": "",
+    "en_def": "a long tube that water or gas moves through",
     "sentence": "Q: Is there any water in the {{BLANK}}? — A: No, there isn't. It's broken.",
     "cn": "水管裡有水嗎？ — 不，沒有。它破了。"
   },
@@ -251,7 +251,7 @@ const VOCAB = [
     "word": "house",
     "pos": "n.",
     "cn_def": "房子",
-    "en_def": "",
+    "en_def": "a building where a family lives",
     "sentence": "Q: What is there near the park? — A: There is a big {{BLANK}} with a garden.",
     "cn": "公園附近有什麼？ — 有一棟有花園的大房子。"
   },
@@ -259,7 +259,7 @@ const VOCAB = [
     "word": "apartment",
     "pos": "n.",
     "cn_def": "公寓",
-    "en_def": "",
+    "en_def": "a home that is part of a bigger building",
     "sentence": "Q: How many bedrooms are there in your {{BLANK}}? — A: There are three bedrooms.",
     "cn": "你的公寓裡有幾間臥室？ — 有三間臥室。"
   },
@@ -267,7 +267,7 @@ const VOCAB = [
     "word": "door",
     "pos": "n.",
     "cn_def": "門",
-    "en_def": "",
+    "en_def": "the thing you open to go into a room or a house",
     "sentence": "Q: What is there on the {{BLANK}}? — A: There is a picture of our family.",
     "cn": "門上有什麼？ — 有一張我們的全家福照片。"
   },
@@ -275,7 +275,7 @@ const VOCAB = [
     "word": "window (windows)",
     "pos": "n.",
     "cn_def": "窗戶",
-    "en_def": "",
+    "en_def": "an opening with glass in a wall that lets in light and air",
     "sentence": "Q: How many {{BLANK}} are there in your room? — A: There are two. They are very big.",
     "cn": "你的房間裡有幾扇窗戶？ — 有兩扇，它們很大。"
   },
@@ -283,7 +283,7 @@ const VOCAB = [
     "word": "wall",
     "pos": "n.",
     "cn_def": "牆壁",
-    "en_def": "",
+    "en_def": "one of the sides of a room or building",
     "sentence": "Q: What is there on the {{BLANK}}? — A: There is a clock and two pictures.",
     "cn": "牆上有什麼？ — 有一個時鐘和兩幅畫。"
   },
@@ -291,7 +291,7 @@ const VOCAB = [
     "word": "floor",
     "pos": "n.",
     "cn_def": "地板",
-    "en_def": "",
+    "en_def": "the part of a room that you walk on",
     "sentence": "Q: What is there on the {{BLANK}}? — A: There are some toys. Please pick them up.",
     "cn": "地板上有什麼？ — 有一些玩具，請把它們撿起來。"
   },
@@ -299,7 +299,7 @@ const VOCAB = [
     "word": "gate",
     "pos": "n.",
     "cn_def": "大門",
-    "en_def": "",
+    "en_def": "a door in a fence or outside wall",
     "sentence": "Q: Who is there at the {{BLANK}}? — A: There is a man with a big box.",
     "cn": "大門口有誰？ — 有一個拿著大箱子的男人。"
   },
@@ -307,7 +307,7 @@ const VOCAB = [
     "word": "stairs",
     "pos": "n.",
     "cn_def": "樓梯",
-    "en_def": "",
+    "en_def": "steps that go from one floor of a building to another",
     "sentence": "Q: How many floors are there in your house? — A: There are three. We walk up the {{BLANK}} to our bedrooms.",
     "cn": "你家有幾層樓？ — 有三層。我們走樓梯上去臥室。"
   },
@@ -315,7 +315,7 @@ const VOCAB = [
     "word": "home",
     "pos": "n.",
     "cn_def": "家",
-    "en_def": "",
+    "en_def": "the place where you live",
     "sentence": "Q: Where are you, Ben? — A: I'm at {{BLANK}}. I'm watching TV.",
     "cn": "班，你在哪裡？ — 我在家，我正在看電視。"
   },
@@ -323,7 +323,7 @@ const VOCAB = [
     "word": "room",
     "pos": "n.",
     "cn_def": "房間",
-    "en_def": "",
+    "en_def": "one of the parts of a house, with walls and a door",
     "sentence": "Q: Where is Amy? — A: She's in her {{BLANK}}. She's doing her homework.",
     "cn": "艾美在哪裡？ — 她在她的房間，她正在寫功課。"
   },
@@ -331,7 +331,7 @@ const VOCAB = [
     "word": "bedroom",
     "pos": "n.",
     "cn_def": "臥室",
-    "en_def": "",
+    "en_def": "a room for sleeping in",
     "sentence": "Q: Where are you, Lisa? — A: I'm in my {{BLANK}}. I'm getting ready for bed.",
     "cn": "麗莎，你在哪裡？ — 我在我的臥室，我正準備睡覺。"
   },
@@ -339,7 +339,7 @@ const VOCAB = [
     "word": "bathroom",
     "pos": "n.",
     "cn_def": "浴室",
-    "en_def": "",
+    "en_def": "a room with a toilet and a place to wash",
     "sentence": "Q: Where is Dad? — A: He's in the {{BLANK}}. He's taking a shower.",
     "cn": "爸爸在哪裡？ — 他在浴室，他正在淋浴。"
   },
@@ -347,7 +347,7 @@ const VOCAB = [
     "word": "kitchen",
     "pos": "n.",
     "cn_def": "廚房",
-    "en_def": "",
+    "en_def": "a room where people cook food",
     "sentence": "Q: Where are you, Mom? — A: I'm in the {{BLANK}}. I'm cooking dinner.",
     "cn": "媽媽，你在哪裡？ — 我在廚房，我正在煮晚餐。"
   },
@@ -355,7 +355,7 @@ const VOCAB = [
     "word": "dining room",
     "pos": "n.",
     "cn_def": "飯廳",
-    "en_def": "",
+    "en_def": "a room where people eat meals",
     "sentence": "Q: Where are Grandpa and Grandma? — A: They're in the {{BLANK}}. They're having lunch.",
     "cn": "爺爺和奶奶在哪裡？ — 他們在飯廳，他們正在吃午餐。",
     "nblanks": 2
@@ -364,7 +364,7 @@ const VOCAB = [
     "word": "living room",
     "pos": "n.",
     "cn_def": "客廳",
-    "en_def": "",
+    "en_def": "a room where a family sits, talks, and watches TV",
     "sentence": "Q: Where are the kids? — A: They're in the {{BLANK}}. They're playing games.",
     "cn": "孩子們在哪裡？ — 他們在客廳，他們正在玩遊戲。",
     "nblanks": 2
@@ -373,7 +373,7 @@ const VOCAB = [
     "word": "balcony",
     "pos": "n.",
     "cn_def": "陽台",
-    "en_def": "",
+    "en_def": "a small open place outside an upstairs room",
     "sentence": "Q: Where are you, Tom? — A: I'm on the {{BLANK}}. I'm looking at the stars.",
     "cn": "湯姆，你在哪裡？ — 我在陽台上，我正在看星星。"
   },
@@ -381,7 +381,7 @@ const VOCAB = [
     "word": "garden",
     "pos": "n.",
     "cn_def": "花園",
-    "en_def": "",
+    "en_def": "a place by a house where flowers and vegetables grow",
     "sentence": "Q: Where is Grandma? — A: She's in the {{BLANK}}. She's watering the flowers.",
     "cn": "奶奶在哪裡？ — 她在花園，她正在澆花。"
   },
@@ -389,7 +389,7 @@ const VOCAB = [
     "word": "yard",
     "pos": "n.",
     "cn_def": "庭院；院子",
-    "en_def": "",
+    "en_def": "a piece of ground next to a house",
     "sentence": "Q: Where are you and your dog? — A: We're in the {{BLANK}}. We're playing with a ball.",
     "cn": "你和你的狗在哪裡？ — 我們在院子裡，我們正在玩球。"
   },
@@ -397,7 +397,7 @@ const VOCAB = [
     "word": "clean",
     "pos": "v.",
     "cn_def": "打掃",
-    "en_def": "",
+    "en_def": "to make something not dirty",
     "sentence": "Q: What do you do on Saturday mornings? — A: I {{BLANK}} my room.",
     "cn": "你星期六早上做什麼？ — 我打掃我的房間。"
   },
@@ -405,7 +405,7 @@ const VOCAB = [
     "word": "wash (washes)",
     "pos": "v.",
     "cn_def": "清洗",
-    "en_def": "",
+    "en_def": "to clean something with water and soap",
     "sentence": "Q: What does your brother do after dinner? — A: He {{BLANK}} the dishes.",
     "cn": "你哥哥晚餐後做什麼？ — 他洗碗。"
   },
@@ -413,7 +413,7 @@ const VOCAB = [
     "word": "fix",
     "pos": "v.",
     "cn_def": "修理",
-    "en_def": "",
+    "en_def": "to make a broken thing work again",
     "sentence": "Q: Does your dad {{BLANK}} things at home? — A: Yes, he does. Our old lamp works again now.",
     "cn": "你爸爸會在家修東西嗎？ — 是的，他會。我們的舊檯燈現在又能用了。"
   },
@@ -421,7 +421,7 @@ const VOCAB = [
     "word": "build",
     "pos": "v.",
     "cn_def": "建造",
-    "en_def": "",
+    "en_def": "to make something like a house or a bridge",
     "sentence": "Q: What do your uncle and his friends do? — A: They {{BLANK}} houses. They are workers.",
     "cn": "你叔叔和他的朋友們做什麼？ — 他們蓋房子，他們是工人。"
   },
@@ -429,7 +429,7 @@ const VOCAB = [
     "word": "bath",
     "pos": "n.",
     "cn_def": "洗澡；浴缸",
-    "en_def": "",
+    "en_def": "washing your body in a big container of water; that container",
     "sentence": "Q: Does Amy take a {{BLANK}} every night? — A: No, she doesn't. She takes a shower.",
     "cn": "艾美每天晚上泡澡嗎？ — 不，她沒有。她淋浴。"
   },
@@ -437,7 +437,7 @@ const VOCAB = [
     "word": "street",
     "pos": "n.",
     "cn_def": "街道",
-    "en_def": "",
+    "en_def": "a road in a town or city with houses or shops on it",
     "sentence": "Q: Where does Tina live? — A: She lives on Park {{BLANK}}.",
     "cn": "蒂娜住在哪裡？ — 她住在公園街。"
   },
@@ -445,7 +445,7 @@ const VOCAB = [
     "word": "road",
     "pos": "n.",
     "cn_def": "道路；路",
-    "en_def": "",
+    "en_def": "a hard way for cars, buses, and bikes to go on",
     "sentence": "Q: Where do your grandparents live? — A: They live on Zhongshan {{BLANK}}, near the station.",
     "cn": "你的爺爺奶奶住在哪裡？ — 他們住在中山路，車站附近。"
   }
@@ -1105,272 +1105,272 @@ const MCQS = [
 const LOOKUP = {
   "umbrella": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing you hold over your head to stay dry in the rain",
     "cn_def": "雨傘"
   },
   "fan": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who likes a singer, a team, or a sport very much",
     "cn_def": "粉絲；狂熱愛好者"
   },
   "bed": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing that you sleep on",
     "cn_def": "床"
   },
   "sofa": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a long, soft seat for two or more people",
     "cn_def": "沙發"
   },
   "couch": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a long, soft seat for two or more people",
     "cn_def": "沙發"
   },
   "chair": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a seat for one person, with a back and four legs",
     "cn_def": "椅子"
   },
   "desk": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a table where you study or work",
     "cn_def": "書桌"
   },
   "table": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing with a flat top and legs that you put things on",
     "cn_def": "桌子"
   },
   "drawer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a box in a desk or table that you pull out to put things in",
     "cn_def": "抽屜"
   },
   "lamp": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small light that stands on a desk or table",
     "cn_def": "檯燈"
   },
   "blanket": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a big, warm cover for your bed",
     "cn_def": "毯子"
   },
   "towels": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a piece of cloth that you use to dry yourself",
     "cn_def": "毛巾"
   },
   "keys": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small metal thing that opens a door or starts a car",
     "cn_def": "鑰匙"
   },
   "basket": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a container made of thin sticks for carrying things",
     "cn_def": "籃子"
   },
   "pot": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a deep round container for cooking food or holding tea",
     "cn_def": "鍋子；壺"
   },
   "candles": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a stick of wax that gives light when it burns",
     "cn_def": "蠟燭"
   },
   "mat": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small piece of thick cloth on the floor",
     "cn_def": "墊子"
   },
   "bench": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a long seat for two or more people, often in a park",
     "cn_def": "長椅"
   },
   "light": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing that makes a room bright",
     "cn_def": "燈；燈光"
   },
   "television": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a machine with a screen that shows programs and movies",
     "cn_def": "電視"
   },
   "computer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a machine you use to write, play games, and go online",
     "cn_def": "電腦"
   },
   "telephone": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing you use to talk to someone who is far away",
     "cn_def": "電話"
   },
   "radio": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a machine that plays music and news you can listen to",
     "cn_def": "收音機"
   },
   "camera": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing you use to take photos",
     "cn_def": "照相機"
   },
   "refrigerator": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a machine in the kitchen that keeps food cold",
     "cn_def": "冰箱"
   },
   "machine": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a thing with moving parts that does work for people",
     "cn_def": "機器"
   },
   "tapes": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a long thin strip that holds sound or sticks things together",
     "cn_def": "錄音帶；膠帶"
   },
   "videos": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a short movie that you watch on a phone, computer, or TV",
     "cn_def": "影片；錄影帶"
   },
   "pipe": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a long tube that water or gas moves through",
     "cn_def": "管子；水管"
   },
   "house": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a building where a family lives",
     "cn_def": "房子"
   },
   "apartment": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a home that is part of a bigger building",
     "cn_def": "公寓"
   },
   "door": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the thing you open to go into a room or a house",
     "cn_def": "門"
   },
   "windows": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an opening with glass in a wall that lets in light and air",
     "cn_def": "窗戶"
   },
   "wall": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of the sides of a room or building",
     "cn_def": "牆壁"
   },
   "floor": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part of a room that you walk on",
     "cn_def": "地板"
   },
   "gate": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a door in a fence or outside wall",
     "cn_def": "大門"
   },
   "stairs": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "steps that go from one floor of a building to another",
     "cn_def": "樓梯"
   },
   "home": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the place where you live",
     "cn_def": "家"
   },
   "room": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one of the parts of a house, with walls and a door",
     "cn_def": "房間"
   },
   "bedroom": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a room for sleeping in",
     "cn_def": "臥室"
   },
   "bathroom": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a room with a toilet and a place to wash",
     "cn_def": "浴室"
   },
   "kitchen": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a room where people cook food",
     "cn_def": "廚房"
   },
   "dining room": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a room where people eat meals",
     "cn_def": "飯廳"
   },
   "living room": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a room where a family sits, talks, and watches TV",
     "cn_def": "客廳"
   },
   "balcony": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small open place outside an upstairs room",
     "cn_def": "陽台"
   },
   "garden": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a place by a house where flowers and vegetables grow",
     "cn_def": "花園"
   },
   "yard": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a piece of ground next to a house",
     "cn_def": "庭院；院子"
   },
   "clean": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make something not dirty",
     "cn_def": "打掃"
   },
   "washes": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to clean something with water and soap",
     "cn_def": "清洗"
   },
   "fix": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make a broken thing work again",
     "cn_def": "修理"
   },
   "build": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make something like a house or a bridge",
     "cn_def": "建造"
   },
   "bath": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "washing your body in a big container of water; that container",
     "cn_def": "洗澡；浴缸"
   },
   "street": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a road in a town or city with houses or shops on it",
     "cn_def": "街道"
   },
   "road": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a hard way for cars, buses, and bikes to go on",
     "cn_def": "道路；路"
   }
 };

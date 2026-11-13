@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "none",
     "answer": "None",
     "pos": "pron.",
-    "definition": "",
+    "definition": "not any; not one",
     "chinese": "沒有一個",
     "sentence": "__________ of the students knew the answer.",
     "translation": "沒有一個學生知道答案。",
     "lookup": {
-     "english": "",
+     "english": "not any; not one",
      "chinese": "沒有一個"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "novel",
     "answer": "novel",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long story in a book about people who are not real",
     "chinese": "小說",
     "sentence": "She is writing a new __________.",
     "translation": "她正在寫一本新小說。",
     "lookup": {
-     "english": "",
+     "english": "a long story in a book about people who are not real",
      "chinese": "小說"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "nut",
     "answer": "nuts",
     "pos": "n.",
-    "definition": "",
+    "definition": "a hard dry fruit with a shell, like a peanut",
     "chinese": "堅果",
     "sentence": "He likes to eat __________.",
     "translation": "他喜歡吃堅果。",
     "lookup": {
-     "english": "",
+     "english": "a hard dry fruit with a shell, like a peanut",
      "chinese": "堅果"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "obey",
     "answer": "obey",
     "pos": "v.",
-    "definition": "",
+    "definition": "to do what someone tells you to do",
     "chinese": "服從，遵守",
     "sentence": "Dogs are trained to __________ commands.",
     "translation": "狗被訓練服從命令。",
     "lookup": {
-     "english": "",
+     "english": "to do what someone tells you to do",
      "chinese": "服從，遵守"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "object",
     "answer": "object",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thing that you can see and touch",
     "chinese": "物體，目標",
     "sentence": "The __________ on the table is a rare artifact.",
     "translation": "桌上的物體是一件罕見的文物。",
     "lookup": {
-     "english": "",
+     "english": "a thing that you can see and touch",
      "chinese": "物體，目標"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "ocean",
     "answer": "ocean",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very big sea",
     "chinese": "海洋",
     "sentence": "They sailed across the __________.",
     "translation": "他們航行穿越了海洋。",
     "lookup": {
-     "english": "",
+     "english": "a very big sea",
      "chinese": "海洋"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "offer",
     "answer": "offered",
     "pos": "v.",
-    "definition": "",
+    "definition": "to say that you will do something for someone or give them something",
     "chinese": "提供，提議",
     "sentence": "He __________ to help with the work.",
     "translation": "他提出幫助工作。",
     "lookup": {
-     "english": "",
+     "english": "to say that you will do something for someone or give them something",
      "chinese": "提供，提議"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "omit",
     "answer": "omit",
     "pos": "v.",
-    "definition": "",
+    "definition": "to leave something out",
     "chinese": "省略，忽略",
     "sentence": "You can __________ the last question.",
     "translation": "你可以省略最後一個問題。",
     "lookup": {
-     "english": "",
+     "english": "to leave something out",
      "chinese": "省略，忽略"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "oneself",
     "answer": "oneself",
     "pos": "pron.",
-    "definition": "",
+    "definition": "a person's own self",
     "chinese": "自己",
     "sentence": "It is important to take care of __________.",
     "translation": "照顧好自己很重要。",
     "lookup": {
-     "english": "",
+     "english": "a person's own self",
      "chinese": "自己"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "onion",
     "answer": "onion",
     "pos": "n.",
-    "definition": "",
+    "definition": "a round vegetable with a strong smell that can make you cry",
     "chinese": "洋蔥",
     "sentence": "She chopped an __________.",
     "translation": "她切了一個洋蔥。",
     "lookup": {
-     "english": "",
+     "english": "a round vegetable with a strong smell that can make you cry",
      "chinese": "洋蔥"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "operation",
     "answer": "operation",
     "pos": "n.",
-    "definition": "",
+    "definition": "when a doctor cuts into a body to fix something inside",
     "chinese": "操作，手術",
     "sentence": "The __________ was successful.",
     "translation": "手術很成功。",
     "lookup": {
-     "english": "",
+     "english": "when a doctor cuts into a body to fix something inside",
      "chinese": "操作，手術"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "opinion",
     "answer": "opinion",
     "pos": "n.",
-    "definition": "",
+    "definition": "what you think about something",
     "chinese": "意見，看法",
     "sentence": "She asked for his __________.",
     "translation": "她徵求他的意見。",
     "lookup": {
-     "english": "",
+     "english": "what you think about something",
      "chinese": "意見，看法"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "ordinary",
     "answer": "ordinary",
     "pos": "adj.",
-    "definition": "",
+    "definition": "normal; not special",
     "chinese": "普通的，平凡的",
     "sentence": "He is just an __________ person.",
     "translation": "他只是一個普通人。",
     "lookup": {
-     "english": "",
+     "english": "normal; not special",
      "chinese": "普通的，平凡的"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "oven",
     "answer": "oven",
     "pos": "n.",
-    "definition": "",
+    "definition": "the box-shaped part of a stove where you bake food",
     "chinese": "烤箱",
     "sentence": "She baked the cake in the __________.",
     "translation": "她在烤箱裡烤蛋糕。",
     "lookup": {
-     "english": "",
+     "english": "the box-shaped part of a stove where you bake food",
      "chinese": "烤箱"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "overpass",
     "answer": "overpass",
     "pos": "n.",
-    "definition": "",
+    "definition": "a bridge that takes a road or path over another road",
     "chinese": "天橋",
     "sentence": "They crossed the street using the __________.",
     "translation": "他們用天橋過街。",
     "lookup": {
-     "english": "",
+     "english": "a bridge that takes a road or path over another road",
      "chinese": "天橋"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "overseas",
     "answer": "overseas",
     "pos": "adv.",
-    "definition": "",
+    "definition": "in or to a country across the sea",
     "chinese": "海外，國外",
     "sentence": "He plans to study __________.",
     "translation": "他計劃去國外學習。",
     "lookup": {
-     "english": "",
+     "english": "in or to a country across the sea",
      "chinese": "海外，國外"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "overweight",
     "answer": "overweight",
     "pos": "adj.",
-    "definition": "",
+    "definition": "too heavy or fat",
     "chinese": "超重的，過重的",
     "sentence": "The doctor advised him to lose weight because he is __________.",
     "translation": "醫生建議他減肥，因為他超重。",
     "lookup": {
-     "english": "",
+     "english": "too heavy or fat",
      "chinese": "超重的，過重的"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "owner",
     "answer": "owner",
     "pos": "n.",
-    "definition": "",
+    "definition": "the person that something belongs to",
     "chinese": "所有者",
     "sentence": "She is the __________ of the restaurant.",
     "translation": "她是這家餐廳的所有者。",
     "lookup": {
-     "english": "",
+     "english": "the person that something belongs to",
      "chinese": "所有者"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "ox",
     "answer": "ox",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big, strong male cow that pulls heavy things",
     "chinese": "牛，公牛",
     "sentence": "The __________ pulled the cart.",
     "translation": "牛拉了車。",
     "lookup": {
-     "english": "",
+     "english": "a big, strong male cow that pulls heavy things",
      "chinese": "牛，公牛"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "pain",
     "answer": "pain",
     "pos": "n.",
-    "definition": "",
+    "definition": "the feeling you have when part of your body hurts",
     "chinese": "疼痛",
     "sentence": "He felt a sharp __________ in his back.",
     "translation": "他感到背部劇烈疼痛。",
     "lookup": {
-     "english": "",
+     "english": "the feeling you have when part of your body hurts",
      "chinese": "疼痛"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bathe":["","洗澡"],"besides":["","除了...之外"],"design":["","設計，構思"],"dialed":["","撥號"],"downstairs":["","在樓下"],"energetic":["","精力充沛的"],"latter":["","後者的，較後的"],"nearly":["","幾乎，差不多"],"necessary":["","必要的"],"none":["","沒有一個"],"novel":["","小說"],"nuts":["","堅果"],"obey":["","服從，遵守"],"object":["","物體，目標"],"ocean":["","海洋"],"offered":["","提供，提議"],"omit":["","省略，忽略"],"oneself":["","自己"],"onion":["","洋蔥"],"operation":["","操作，手術"],"opinion":["","意見，看法"],"ordinary":["","普通的，平凡的"],"oven":["","烤箱"],"overpass":["","天橋"],"overseas":["","海外，國外"],"overweight":["","超重的，過重的"],"owner":["","所有者"],"ox":["","牛，公牛"],"pain":["","疼痛"],"pollute":["","污染"],"pronounce":["","發音，宣佈"],"rush":["","衝，趕緊"],"steam":["","蒸汽"],"total":["","總的，全部的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bathe":["to wash your body in a bath","洗澡"],"besides":["in addition to","除了...之外"],"design":["to plan and draw how something will look","設計，構思"],"dialed":["to press the numbers on a phone to call someone","撥號"],"downstairs":["on or to a lower floor of a building","在樓下"],"energetic":["very active; full of energy","精力充沛的"],"latter":["nearer to the end; the second of two","後者的，較後的"],"nearly":["almost","幾乎，差不多"],"necessary":["needed; that you must have or do","必要的"],"none":["not any; not one","沒有一個"],"novel":["a long story in a book about people who are not real","小說"],"nuts":["a hard dry fruit with a shell, like a peanut","堅果"],"obey":["to do what someone tells you to do","服從，遵守"],"object":["a thing that you can see and touch","物體，目標"],"ocean":["a very big sea","海洋"],"offered":["to say that you will do something for someone or give them something","提供，提議"],"omit":["to leave something out","省略，忽略"],"oneself":["a person's own self","自己"],"onion":["a round vegetable with a strong smell that can make you cry","洋蔥"],"operation":["when a doctor cuts into a body to fix something inside","操作，手術"],"opinion":["what you think about something","意見，看法"],"ordinary":["normal; not special","普通的，平凡的"],"oven":["the box-shaped part of a stove where you bake food","烤箱"],"overpass":["a bridge that takes a road or path over another road","天橋"],"overseas":["in or to a country across the sea","海外，國外"],"overweight":["too heavy or fat","超重的，過重的"],"owner":["the person that something belongs to","所有者"],"ox":["a big, strong male cow that pulls heavy things","牛，公牛"],"pain":["the feeling you have when part of your body hurts","疼痛"],"pollute":["to make air, water, or land dirty","污染"],"pronounce":["to make the sound of a word or letter","發音，宣佈"],"rush":["to go or do something very quickly","衝，趕緊"],"steam":["the hot white gas that comes from boiling water","蒸汽"],"total":["with everything added together","總的，全部的"]});

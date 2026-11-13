@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "dawn",
     "pos": "n.",
     "cn_def": "黎明，拂曉",
-    "en_def": "",
+    "en_def": "the time of day when the sun comes up",
     "sentence": "We left at {{BLANK}}.",
     "cn": "我們在黎明時出發。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "deaf",
     "pos": "adj.",
     "cn_def": "聾的，失聰的",
-    "en_def": "",
+    "en_def": "not able to hear",
     "sentence": "He has been {{BLANK}} since birth.",
     "cn": "他自出生起就失聰。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "debate",
     "pos": "n.",
     "cn_def": "辯論，討論",
-    "en_def": "",
+    "en_def": "a talk in which people give different opinions about something",
     "sentence": "They had a heated {{BLANK}} about politics.",
     "cn": "他們就政治問題進行了激烈辯論。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "decision",
     "pos": "n.",
     "cn_def": "決定，判斷",
-    "en_def": "",
+    "en_def": "a choice that you make after thinking",
     "sentence": "It was a difficult {{BLANK}}.",
     "cn": "這是一個困難的決定。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "decorate",
     "pos": "v.",
     "cn_def": "裝飾",
-    "en_def": "",
+    "en_def": "to make a place look nice by putting pretty things in it",
     "sentence": "They {{BLANK}} the room for the party.",
     "cn": "他們為派對裝飾了房間。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "decrease",
     "pos": "v.",
     "cn_def": "減少",
-    "en_def": "",
+    "en_def": "to become smaller in number or amount",
     "sentence": "The population has {{BLANK}} significantly.",
     "cn": "人口顯著減少。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "define",
     "pos": "v.",
     "cn_def": "定義，解釋",
-    "en_def": "",
+    "en_def": "to say what a word or idea means",
     "sentence": "How would you {{BLANK}} success?",
     "cn": "你會如何定義成功？"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "deer",
     "pos": "n.",
     "cn_def": "鹿",
-    "en_def": "",
+    "en_def": "a wild animal that runs fast; the male has horns like branches",
     "sentence": "We saw a {{BLANK}} in the forest.",
     "cn": "我們在森林裡看到一隻鹿。"
   },
@@ -74,7 +74,7 @@ const VOCAB = [
     "word": "degree",
     "pos": "n.",
     "cn_def": "程度，學位",
-    "en_def": "",
+    "en_def": "a paper that a university gives you when you finish your studies",
     "sentence": "She has a {{BLANK}} in mathematics.",
     "cn": "她擁有數學學位。"
   },
@@ -82,7 +82,7 @@ const VOCAB = [
     "word": "deliver",
     "pos": "v.",
     "cn_def": "遞送，傳遞",
-    "en_def": "",
+    "en_def": "to take letters or things to a person or place",
     "sentence": "The mail is {{BLANK}} daily.",
     "cn": "郵件每日遞送。"
   },
@@ -90,7 +90,7 @@ const VOCAB = [
     "word": "department",
     "pos": "n.",
     "cn_def": "部門，系",
-    "en_def": "",
+    "en_def": "one part of a company, school, or store",
     "sentence": "She works in the marketing {{BLANK}}.",
     "cn": "她在市場部工作。"
   },
@@ -98,7 +98,7 @@ const VOCAB = [
     "word": "depend",
     "pos": "v.",
     "cn_def": "依賴，依靠",
-    "en_def": "",
+    "en_def": "(with \"on\") to trust someone to help you; to need someone",
     "sentence": "You can {{BLANK}} on me for help.",
     "cn": "你可以依賴我來幫助。"
   },
@@ -106,7 +106,7 @@ const VOCAB = [
     "word": "describe",
     "pos": "v.",
     "cn_def": "描述，形容",
-    "en_def": "",
+    "en_def": "to say what someone or something is like",
     "sentence": "Can you {{BLANK}} what happened?",
     "cn": "你能描述一下發生了什麼嗎？"
   },
@@ -114,7 +114,7 @@ const VOCAB = [
     "word": "desert",
     "pos": "n.",
     "cn_def": "沙漠",
-    "en_def": "",
+    "en_def": "a very dry place with a lot of sand and few plants",
     "sentence": "The Sahara is the largest {{BLANK}} in the world.",
     "cn": "撒哈拉是世界上最大的沙漠。"
   },
@@ -122,7 +122,7 @@ const VOCAB = [
     "word": "design",
     "pos": "v.",
     "cn_def": "設計，構思",
-    "en_def": "",
+    "en_def": "to plan and draw how something will look",
     "sentence": "She wants to {{BLANK}} her own clothes.",
     "cn": "她想設計自己的衣服。"
   },
@@ -130,7 +130,7 @@ const VOCAB = [
     "word": "desire",
     "pos": "n.",
     "cn_def": "欲望，渴望",
-    "en_def": "",
+    "en_def": "a strong wish",
     "sentence": "He has a strong {{BLANK}} to succeed.",
     "cn": "他有強烈的成功渴望。"
   },
@@ -138,7 +138,7 @@ const VOCAB = [
     "word": "dessert",
     "pos": "n.",
     "cn_def": "甜點",
-    "en_def": "",
+    "en_def": "sweet food that you eat at the end of a meal",
     "sentence": "They had ice cream for {{BLANK}}.",
     "cn": "他們吃冰淇淋當甜點。"
   },
@@ -146,7 +146,7 @@ const VOCAB = [
     "word": "detect",
     "pos": "v.",
     "cn_def": "察覺，偵測",
-    "en_def": "",
+    "en_def": "to find or notice something that is hard to see",
     "sentence": "The test can {{BLANK}} even the smallest errors.",
     "cn": "測試可以偵測到最小的錯誤。"
   },
@@ -154,7 +154,7 @@ const VOCAB = [
     "word": "develop",
     "pos": "v.",
     "cn_def": "發展，開發",
-    "en_def": "",
+    "en_def": "to make something new and better over time",
     "sentence": "The company plans to {{BLANK}} a new product.",
     "cn": "公司計劃開發一種新產品。"
   },
@@ -162,7 +162,7 @@ const VOCAB = [
     "word": "dial",
     "pos": "v.",
     "cn_def": "撥號",
-    "en_def": "",
+    "en_def": "to press the numbers on a phone to call someone",
     "sentence": "He {{BLANK}} the wrong number by mistake.",
     "cn": "他錯誤地撥錯了號碼。",
     "alts": [
@@ -417,117 +417,117 @@ const MCQS = [
 const LOOKUP = {
   "dawn": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the time of day when the sun comes up",
     "cn_def": "黎明，拂曉"
   },
   "deaf": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not able to hear",
     "cn_def": "聾的，失聰的"
   },
   "debate": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a talk in which people give different opinions about something",
     "cn_def": "辯論，討論"
   },
   "decision": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a choice that you make after thinking",
     "cn_def": "決定，判斷"
   },
   "decorated": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make a place look nice by putting pretty things in it",
     "cn_def": "裝飾"
   },
   "decreased": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to become smaller in number or amount",
     "cn_def": "減少"
   },
   "define": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to say what a word or idea means",
     "cn_def": "定義，解釋"
   },
   "deer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a wild animal that runs fast; the male has horns like branches",
     "cn_def": "鹿"
   },
   "degree": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a paper that a university gives you when you finish your studies",
     "cn_def": "程度，學位"
   },
   "delivered": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to take letters or things to a person or place",
     "cn_def": "遞送，傳遞"
   },
   "department": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "one part of a company, school, or store",
     "cn_def": "部門，系"
   },
   "depend": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "(with \"on\") to trust someone to help you; to need someone",
     "cn_def": "依賴，依靠"
   },
   "describe": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to say what someone or something is like",
     "cn_def": "描述，形容"
   },
   "desert": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a very dry place with a lot of sand and few plants",
     "cn_def": "沙漠"
   },
   "design": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to plan and draw how something will look",
     "cn_def": "設計，構思"
   },
   "desire": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a strong wish",
     "cn_def": "欲望，渴望"
   },
   "dessert": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "sweet food that you eat at the end of a meal",
     "cn_def": "甜點"
   },
   "detect": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to find or notice something that is hard to see",
     "cn_def": "察覺，偵測"
   },
   "develop": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to make something new and better over time",
     "cn_def": "發展，開發"
   },
   "dialed": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to press the numbers on a phone to call someone",
     "cn_def": "撥號"
   },
   "major": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "very big or important",
     "cn_def": "主要的，重要的"
   },
   "personal": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "belonging to you; your own",
     "cn_def": "個人的，私人的"
   },
   "silent": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "not speaking; making no sound",
     "cn_def": "沉默的，安靜的"
   }
 };

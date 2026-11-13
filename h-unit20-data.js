@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "kitten",
     "answer": "kitten",
     "pos": "n.",
-    "definition": "",
+    "definition": "a baby cat",
     "chinese": "小貓",
     "sentence": "The __________ played with a ball of yarn.",
     "translation": "小貓玩了一個毛線球。",
     "lookup": {
-     "english": "",
+     "english": "a baby cat",
      "chinese": "小貓"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "koala",
     "answer": "koala",
     "pos": "n.",
-    "definition": "",
+    "definition": "a gray animal from Australia that lives in trees and looks like a small bear",
     "chinese": "無尾熊",
     "sentence": "They saw a __________ sleeping in a tree.",
     "translation": "他們看到一隻無尾熊在樹上睡覺。",
     "lookup": {
-     "english": "",
+     "english": "a gray animal from Australia that lives in trees and looks like a small bear",
      "chinese": "無尾熊"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "lack",
     "answer": "lack",
     "pos": "v.",
-    "definition": "",
+    "definition": "to not have something, or not have enough of it",
     "chinese": "缺乏，缺少",
     "sentence": "They __________ the resources to complete the project.",
     "translation": "他們缺乏完成這個專案的資源。",
     "lookup": {
-     "english": "",
+     "english": "to not have something, or not have enough of it",
      "chinese": "缺乏，缺少"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "lady",
     "answer": "lady",
     "pos": "n.",
-    "definition": "",
+    "definition": "a polite word for a woman",
     "chinese": "女士，小姐",
     "sentence": "She is a kind and elegant __________.",
     "translation": "她是一位善良而優雅的女士。",
     "lookup": {
-     "english": "",
+     "english": "a polite word for a woman",
      "chinese": "女士，小姐"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "lamb",
     "answer": "lamb",
     "pos": "n.",
-    "definition": "",
+    "definition": "a baby sheep; meat from a young sheep",
     "chinese": "羔羊，羊肉",
     "sentence": "They had roast __________ for dinner.",
     "translation": "他們晚餐吃了烤羊肉。",
     "lookup": {
-     "english": "",
+     "english": "a baby sheep; meat from a young sheep",
      "chinese": "羔羊，羊肉"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "lantern",
     "answer": "lantern",
     "pos": "n.",
-    "definition": "",
+    "definition": "a light inside a paper or glass cover that you can carry",
     "chinese": "燈籠，提燈",
     "sentence": "They carried a __________ during the night walk.",
     "translation": "他們在夜間散步時提著燈籠。",
     "lookup": {
-     "english": "",
+     "english": "a light inside a paper or glass cover that you can carry",
      "chinese": "燈籠，提燈"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "latest",
     "answer": "latest",
     "pos": "adj.",
-    "definition": "",
+    "definition": "the newest",
     "chinese": "最新的，最近的",
     "sentence": "She is wearing the __________ fashion.",
     "translation": "她穿著最新的時尚。",
     "lookup": {
-     "english": "",
+     "english": "the newest",
      "chinese": "最新的，最近的"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "latter",
     "answer": "latter",
     "pos": "adj.",
-    "definition": "",
+    "definition": "nearer to the end; the second of two",
     "chinese": "後者的，較後的",
     "sentence": "The __________ half of the year is usually busier.",
     "translation": "年後半部分通常比較忙。",
     "lookup": {
-     "english": "",
+     "english": "nearer to the end; the second of two",
      "chinese": "後者的，較後的"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "law",
     "answer": "law",
     "pos": "n.",
-    "definition": "",
+    "definition": "the rules of a country; the study of these rules",
     "chinese": "法律，法規",
     "sentence": "He studied __________ at university.",
     "translation": "他在大學學習法律。",
     "lookup": {
-     "english": "",
+     "english": "the rules of a country; the study of these rules",
      "chinese": "法律，法規"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "lay",
     "answer": "laid",
     "pos": "v.",
-    "definition": "",
+    "definition": "to put something down carefully",
     "chinese": "放置，躺下",
     "sentence": "She __________ the book on the table.",
     "translation": "她把書放在桌子上。",
     "lookup": {
-     "english": "",
+     "english": "to put something down carefully",
      "chinese": "放置，躺下"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "leaf",
     "answer": "leaf",
     "pos": "n.",
-    "definition": "",
+    "definition": "one of the flat green parts of a tree or plant",
     "chinese": "樹葉，葉子",
     "sentence": "The __________ fell from the tree.",
     "translation": "樹葉從樹上掉下來。",
     "lookup": {
-     "english": "",
+     "english": "one of the flat green parts of a tree or plant",
      "chinese": "樹葉，葉子"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "lettuce",
     "answer": "lettuce",
     "pos": "n.",
-    "definition": "",
+    "definition": "a vegetable with big green leaves, used in salads",
     "chinese": "生菜",
     "sentence": "She added __________ to her sandwich.",
     "translation": "她在三明治裡加了生菜。",
     "lookup": {
-     "english": "",
+     "english": "a vegetable with big green leaves, used in salads",
      "chinese": "生菜"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "lick",
     "answer": "licked",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move your tongue over something",
     "chinese": "舔",
     "sentence": "The cat __________ its paw.",
     "translation": "貓舔了舔爪子。",
     "lookup": {
-     "english": "",
+     "english": "to move your tongue over something",
      "chinese": "舔"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "lid",
     "answer": "lid",
     "pos": "n.",
-    "definition": "",
+    "definition": "a cover for a pot, cup, or box",
     "chinese": "蓋子",
     "sentence": "She put the __________ on the pot.",
     "translation": "她把蓋子蓋在鍋上。",
     "lookup": {
-     "english": "",
+     "english": "a cover for a pot, cup, or box",
      "chinese": "蓋子"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "lift",
     "answer": "lifted",
     "pos": "v.",
-    "definition": "",
+    "definition": "to move something up",
     "chinese": "舉起，抬起",
     "sentence": "He __________ the heavy box.",
     "translation": "他舉起了重箱子。",
     "lookup": {
-     "english": "",
+     "english": "to move something up",
      "chinese": "舉起，抬起"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "lightning",
     "answer": "lightning",
     "pos": "n.",
-    "definition": "",
+    "definition": "a bright light in the sky during a storm",
     "chinese": "閃電",
     "sentence": "The __________ lit up the sky.",
     "translation": "閃電照亮了天空。",
     "lookup": {
-     "english": "",
+     "english": "a bright light in the sky during a storm",
      "chinese": "閃電"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "likely",
     "answer": "likely",
     "pos": "adj.",
-    "definition": "",
+    "definition": "expected to happen",
     "chinese": "很可能的",
     "sentence": "It is __________ to rain tomorrow.",
     "translation": "明天很可能會下雨。",
     "lookup": {
-     "english": "",
+     "english": "expected to happen",
      "chinese": "很可能的"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "limit",
     "answer": "limit",
     "pos": "n.",
-    "definition": "",
+    "definition": "the highest number or amount that is allowed",
     "chinese": "限制，界限",
     "sentence": "The speed __________ is 60 mph.",
     "translation": "限速是每小時60英里。",
     "lookup": {
-     "english": "",
+     "english": "the highest number or amount that is allowed",
      "chinese": "限制，界限"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "link",
     "answer": "link",
     "pos": "n.",
-    "definition": "",
+    "definition": "a connection between two things",
     "chinese": "連接，聯繫",
     "sentence": "There is a direct __________ between diet and health.",
     "translation": "飲食和健康之間有直接聯繫。",
     "lookup": {
-     "english": "",
+     "english": "a connection between two things",
      "chinese": "連接，聯繫"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "liquid",
     "answer": "liquid",
     "pos": "n.",
-    "definition": "",
+    "definition": "something that flows, like water or milk",
     "chinese": "液體",
     "sentence": "Water is a __________ at room temperature.",
     "translation": "水在室溫下是液體。",
     "lookup": {
-     "english": "",
+     "english": "something that flows, like water or milk",
      "chinese": "液體"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"daily":["","每日的，日常的"],"equal":["","平等的，相等的"],"international":["","國際的"],"kitten":["","小貓"],"koala":["","無尾熊"],"lack":["","缺乏，缺少"],"lady":["","女士，小姐"],"lamb":["","羔羊，羊肉"],"lantern":["","燈籠，提燈"],"latest":["","最新的，最近的"],"latter":["","後者的，較後的"],"law":["","法律，法規"],"laid":["","放置，躺下"],"leaf":["","樹葉，葉子"],"lettuce":["","生菜"],"licked":["","舔"],"lid":["","蓋子"],"lifted":["","舉起，抬起"],"lightning":["","閃電"],"likely":["","很可能的"],"limit":["","限制，界限"],"link":["","連接，聯繫"],"liquid":["","液體"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"daily":["happening or coming out every day","每日的，日常的"],"equal":["the same in size, number, or value","平等的，相等的"],"international":["for or between many countries","國際的"],"kitten":["a baby cat","小貓"],"koala":["a gray animal from Australia that lives in trees and looks like a small bear","無尾熊"],"lack":["to not have something, or not have enough of it","缺乏，缺少"],"lady":["a polite word for a woman","女士，小姐"],"lamb":["a baby sheep; meat from a young sheep","羔羊，羊肉"],"lantern":["a light inside a paper or glass cover that you can carry","燈籠，提燈"],"latest":["the newest","最新的，最近的"],"latter":["nearer to the end; the second of two","後者的，較後的"],"law":["the rules of a country; the study of these rules","法律，法規"],"laid":["to put something down carefully","放置，躺下"],"leaf":["one of the flat green parts of a tree or plant","樹葉，葉子"],"lettuce":["a vegetable with big green leaves, used in salads","生菜"],"licked":["to move your tongue over something","舔"],"lid":["a cover for a pot, cup, or box","蓋子"],"lifted":["to move something up","舉起，抬起"],"lightning":["a bright light in the sky during a storm","閃電"],"likely":["expected to happen","很可能的"],"limit":["the highest number or amount that is allowed","限制，界限"],"link":["a connection between two things","連接，聯繫"],"liquid":["something that flows, like water or milk","液體"]});

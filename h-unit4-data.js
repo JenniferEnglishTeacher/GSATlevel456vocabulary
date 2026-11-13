@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "buffet",
     "answer": "buffet",
     "pos": "n.",
-    "definition": "",
+    "definition": "a meal where you take food by yourself from a long table",
     "chinese": "自助餐",
     "sentence": "The hotel offers a breakfast __________.",
     "translation": "這家飯店提供早餐自助餐。",
     "lookup": {
-     "english": "",
+     "english": "a meal where you take food by yourself from a long table",
      "chinese": "自助餐"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "bucket",
     "answer": "bucket",
     "pos": "n.",
-    "definition": "",
+    "definition": "a round open container with a handle, used for carrying water",
     "chinese": "桶",
     "sentence": "He filled the __________ with water.",
     "translation": "他把桶裝滿了水。",
     "lookup": {
-     "english": "",
+     "english": "a round open container with a handle, used for carrying water",
      "chinese": "桶"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "building",
     "answer": "building",
     "pos": "n.",
-    "definition": "",
+    "definition": "a house, school, store, or other place with walls and a roof",
     "chinese": "建築物",
     "sentence": "The __________ was designed by a famous architect.",
     "translation": "這棟建築是由一位著名建築師設計的。",
     "lookup": {
-     "english": "",
+     "english": "a house, school, store, or other place with walls and a roof",
      "chinese": "建築物"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "bundle",
     "answer": "bundle",
     "pos": "n.",
-    "definition": "",
+    "definition": "many things tied together",
     "chinese": "捆，束",
     "sentence": "He carried a __________ of newspapers.",
     "translation": "他拿著一捆報紙。",
     "lookup": {
-     "english": "",
+     "english": "many things tied together",
      "chinese": "捆，束"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "burst",
     "answer": "burst",
     "pos": "v.",
-    "definition": "",
+    "definition": "to break open suddenly",
     "chinese": "爆炸，破裂",
     "sentence": "The balloon __________ suddenly.",
     "translation": "氣球突然爆炸了。",
     "lookup": {
-     "english": "",
+     "english": "to break open suddenly",
      "chinese": "爆炸，破裂"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "cabbage",
     "answer": "cabbage",
     "pos": "n.",
-    "definition": "",
+    "definition": "a round vegetable with thick green leaves",
     "chinese": "高麗菜",
     "sentence": "She added some __________ to the salad.",
     "translation": "她在沙拉裡加了一些高麗菜。",
     "lookup": {
-     "english": "",
+     "english": "a round vegetable with thick green leaves",
      "chinese": "高麗菜"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "cable",
     "answer": "cable",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thick wire that carries electricity or signals",
     "chinese": "電纜，纜繩",
     "sentence": "The internet __________ needs to be replaced.",
     "translation": "網路線需要更換。",
     "lookup": {
-     "english": "",
+     "english": "a thick wire that carries electricity or signals",
      "chinese": "電纜，纜繩"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "cafeteria",
     "answer": "cafeteria",
     "pos": "n.",
-    "definition": "",
+    "definition": "a restaurant in a school or office where you carry your own food to the table",
     "chinese": "自助餐廳",
     "sentence": "We had lunch in the school __________.",
     "translation": "我們在學校自助餐廳吃了午餐。",
     "lookup": {
-     "english": "",
+     "english": "a restaurant in a school or office where you carry your own food to the table",
      "chinese": "自助餐廳"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "cage",
     "answer": "cage",
     "pos": "n.",
-    "definition": "",
+    "definition": "a box made of bars for keeping birds or animals in",
     "chinese": "籠子",
     "sentence": "The bird was singing in its __________.",
     "translation": "鳥在籠子裡唱歌。",
     "lookup": {
-     "english": "",
+     "english": "a box made of bars for keeping birds or animals in",
      "chinese": "籠子"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "calendar",
     "answer": "calendar",
     "pos": "n.",
-    "definition": "",
+    "definition": "a list that shows the days, weeks, and months of a year",
     "chinese": "日曆",
     "sentence": "She marked the date on the __________.",
     "translation": "她在日曆上標記了日期。",
     "lookup": {
-     "english": "",
+     "english": "a list that shows the days, weeks, and months of a year",
      "chinese": "日曆"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "calm",
     "answer": "calm",
     "pos": "adj.",
-    "definition": "",
+    "definition": "quiet and not worried or excited",
     "chinese": "冷靜的，平靜的",
     "sentence": "He remained __________ during the emergency.",
     "translation": "他在緊急情況下保持冷靜。",
     "lookup": {
-     "english": "",
+     "english": "quiet and not worried or excited",
      "chinese": "冷靜的，平靜的"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "camel",
     "answer": "camel",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big animal with one or two humps that lives in the desert",
     "chinese": "駱駝",
     "sentence": "They rode a __________ in the desert.",
     "translation": "他們在沙漠裡騎駱駝。",
     "lookup": {
-     "english": "",
+     "english": "a big animal with one or two humps that lives in the desert",
      "chinese": "駱駝"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "campus",
     "answer": "campus",
     "pos": "n.",
-    "definition": "",
+    "definition": "the land and buildings of a school or university",
     "chinese": "校園",
     "sentence": "The university __________ is very large.",
     "translation": "大學校園很大。",
     "lookup": {
-     "english": "",
+     "english": "the land and buildings of a school or university",
      "chinese": "校園"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "cancel",
     "answer": "canceled",
     "pos": "v.",
-    "definition": "",
+    "definition": "to say that something planned will not happen",
     "chinese": "取消",
     "sentence": "The event was __________ due to bad weather.",
     "translation": "由於天氣不好，活動被取消了。",
     "lookup": {
-     "english": "",
+     "english": "to say that something planned will not happen",
      "chinese": "取消"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "cancer",
     "answer": "cancer",
     "pos": "n.",
-    "definition": "",
+    "definition": "a very serious sickness in which bad cells grow in the body",
     "chinese": "癌症",
     "sentence": "He was diagnosed with __________.",
     "translation": "他被診斷患有癌症。",
     "lookup": {
-     "english": "",
+     "english": "a very serious sickness in which bad cells grow in the body",
      "chinese": "癌症"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "captain",
     "answer": "captain",
     "pos": "n.",
-    "definition": "",
+    "definition": "the leader of a ship or a team",
     "chinese": "隊長，船長",
     "sentence": "The __________ gave orders to the crew.",
     "translation": "隊長給船員下達了命令。",
     "lookup": {
-     "english": "",
+     "english": "the leader of a ship or a team",
      "chinese": "隊長，船長"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "careless",
     "answer": "careless",
     "pos": "adj.",
-    "definition": "",
+    "definition": "not thinking about what you are doing, so you make mistakes",
     "chinese": "粗心的",
     "sentence": "He made a __________ mistake.",
     "translation": "他犯了一個粗心的錯誤。",
     "lookup": {
-     "english": "",
+     "english": "not thinking about what you are doing, so you make mistakes",
      "chinese": "粗心的"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "carpet",
     "answer": "carpet",
     "pos": "n.",
-    "definition": "",
+    "definition": "a thick, soft cover for a floor",
     "chinese": "地毯",
     "sentence": "The __________ in the living room is new.",
     "translation": "客廳的地毯是新的。",
     "lookup": {
-     "english": "",
+     "english": "a thick, soft cover for a floor",
      "chinese": "地毯"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "carrot",
     "answer": "carrot",
     "pos": "n.",
-    "definition": "",
+    "definition": "a long orange vegetable that grows under the ground",
     "chinese": "紅蘿蔔",
     "sentence": "She cut the __________ into small pieces.",
     "translation": "她把紅蘿蔔切成小塊。",
     "lookup": {
-     "english": "",
+     "english": "a long orange vegetable that grows under the ground",
      "chinese": "紅蘿蔔"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "cartoon",
     "answer": "cartoon",
     "pos": "n.",
-    "definition": "",
+    "definition": "a funny film made with drawings, not real people",
     "chinese": "卡通，漫畫",
     "sentence": "The kids watched a __________ on TV.",
     "translation": "孩子們在電視上看了一部卡通。",
     "lookup": {
-     "english": "",
+     "english": "a funny film made with drawings, not real people",
      "chinese": "卡通，漫畫"
     }
    },
@@ -268,138 +268,69 @@ window.FLASHCARD_UNITS = {
     "word": "cash",
     "answer": "cash",
     "pos": "n.",
-    "definition": "",
+    "definition": "money in coins and paper bills",
     "chinese": "現金",
     "sentence": "She paid for the groceries with __________.",
     "translation": "她用現金支付了雜貨費。",
     "lookup": {
-     "english": "",
+     "english": "money in coins and paper bills",
      "chinese": "現金"
     }
    }
   ],
   "quiz": [
    {
-    "question": "The hotel offers a breakfast __________.【自助餐】",
+    "question": "The hotel has a breakfast __________ every morning. You can walk around the tables and take as much food as you want.",
     "options": [
      {
       "letter": "A",
-      "text": "buffet"
-     },
-     {
-      "letter": "B",
-      "text": "carrot"
-     },
-     {
-      "letter": "C",
-      "text": "cage"
-     },
-     {
-      "letter": "D",
-      "text": "cafeteria"
-     }
-    ],
-    "answer": "A",
-    "vi": 0
-   },
-   {
-    "question": "He filled the __________ with water.【桶】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cable"
-     },
-     {
-      "letter": "B",
       "text": "bucket"
      },
      {
+      "letter": "B",
+      "text": "buffet"
+     },
+     {
       "letter": "C",
-      "text": "calendar"
+      "text": "bundle"
      },
      {
       "letter": "D",
-      "text": "carrot"
+      "text": "cable"
      }
     ],
     "answer": "B",
-    "vi": 1
+    "vi": 0
    },
    {
-    "question": "The __________ was designed by a famous architect.【建築物】",
+    "question": "Please fill the __________ with water. I need it to wash the car and clean the floor.",
     "options": [
      {
       "letter": "A",
-      "text": "cable"
+      "text": "bucket"
      },
      {
       "letter": "B",
-      "text": "campus"
+      "text": "buffet"
      },
      {
       "letter": "C",
-      "text": "building"
-     },
-     {
-      "letter": "D",
-      "text": "carpet"
-     }
-    ],
-    "answer": "C",
-    "vi": 2
-   },
-   {
-    "question": "He carried a __________ of newspapers.【捆，束】",
-    "options": [
-     {
-      "letter": "A",
       "text": "cartoon"
      },
      {
-      "letter": "B",
-      "text": "cash"
-     },
-     {
-      "letter": "C",
-      "text": "cafeteria"
-     },
-     {
       "letter": "D",
+      "text": "calendar"
+     }
+    ],
+    "answer": "A",
+    "vi": 1
+   },
+   {
+    "question": "The tall __________ next to the station has fifty floors. Thousands of people work in its offices every day.",
+    "options": [
+     {
+      "letter": "A",
       "text": "bundle"
-     }
-    ],
-    "answer": "D",
-    "vi": 3
-   },
-   {
-    "question": "The balloon __________ suddenly.【爆炸，破裂】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "canceled"
-     },
-     {
-      "letter": "B",
-      "text": "develop"
-     },
-     {
-      "letter": "C",
-      "text": "burst"
-     },
-     {
-      "letter": "D",
-      "text": "envy"
-     }
-    ],
-    "answer": "C",
-    "vi": 4
-   },
-   {
-    "question": "She added some __________ to the salad.【高麗菜】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cage"
      },
      {
       "letter": "B",
@@ -407,22 +338,68 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "cancer"
+      "text": "camel"
      },
      {
       "letter": "D",
-      "text": "cabbage"
+      "text": "building"
      }
     ],
     "answer": "D",
-    "vi": 5
+    "vi": 2
    },
    {
-    "question": "The internet __________ needs to be replaced.【電纜，纜繩】",
+    "question": "The old man tied the newspapers into a __________ with a rope. Then he carried it on his back to sell.",
     "options": [
      {
       "letter": "A",
-      "text": "captain"
+      "text": "buffet"
+     },
+     {
+      "letter": "B",
+      "text": "building"
+     },
+     {
+      "letter": "C",
+      "text": "bundle"
+     },
+     {
+      "letter": "D",
+      "text": "cartoon"
+     }
+    ],
+    "answer": "C",
+    "vi": 3
+   },
+   {
+    "question": "Don't blow too much air into the balloon, or it will __________. The loud noise will scare the baby.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "burst"
+     },
+     {
+      "letter": "B",
+      "text": "cancel"
+     },
+     {
+      "letter": "C",
+      "text": "bark"
+     },
+     {
+      "letter": "D",
+      "text": "bathe"
+     }
+    ],
+    "answer": "A",
+    "vi": 4
+   },
+   {
+    "question": "Mom bought a __________ and some carrots at the market. She will cook the green vegetable with pork for dinner.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cage"
      },
      {
       "letter": "B",
@@ -430,256 +407,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "cash"
+      "text": "cabbage"
      },
      {
       "letter": "D",
-      "text": "buffet"
+      "text": "camel"
+     }
+    ],
+    "answer": "C",
+    "vi": 5
+   },
+   {
+    "question": "The TV doesn't work because the __________ is broken. We need a new one to join the TV and the wall.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "carpet"
+     },
+     {
+      "letter": "B",
+      "text": "cable"
+     },
+     {
+      "letter": "C",
+      "text": "carrot"
+     },
+     {
+      "letter": "D",
+      "text": "cage"
      }
     ],
     "answer": "B",
     "vi": 6
    },
    {
-    "question": "We had lunch in the school __________.【自助餐廳】",
+    "question": "Most students eat lunch in the school __________. The food there is cheap, and there are many tables and chairs.",
     "options": [
      {
       "letter": "A",
-      "text": "cafeteria"
+      "text": "calendar"
      },
      {
       "letter": "B",
-      "text": "camel"
-     },
-     {
-      "letter": "C",
-      "text": "captain"
-     },
-     {
-      "letter": "D",
-      "text": "cage"
-     }
-    ],
-    "answer": "A",
-    "vi": 7
-   },
-   {
-    "question": "The bird was singing in its __________.【籠子】",
-    "options": [
-     {
-      "letter": "A",
       "text": "cartoon"
      },
      {
-      "letter": "B",
-      "text": "cage"
+      "letter": "C",
+      "text": "bucket"
      },
      {
-      "letter": "C",
+      "letter": "D",
+      "text": "cafeteria"
+     }
+    ],
+    "answer": "D",
+    "vi": 7
+   },
+   {
+    "question": "The bird is not happy in its small __________. It wants to fly out and be free in the sky.",
+    "options": [
+     {
+      "letter": "A",
       "text": "cable"
      },
      {
-      "letter": "D",
-      "text": "bucket"
-     }
-    ],
-    "answer": "B",
-    "vi": 8
-   },
-   {
-    "question": "She marked the date on the __________.【日曆】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cancer"
-     },
-     {
       "letter": "B",
-      "text": "cafeteria"
-     },
-     {
-      "letter": "C",
-      "text": "calendar"
-     },
-     {
-      "letter": "D",
-      "text": "carrot"
-     }
-    ],
-    "answer": "C",
-    "vi": 9
-   },
-   {
-    "question": "He remained __________ during the emergency.【冷靜的，平靜的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "careless"
-     },
-     {
-      "letter": "B",
-      "text": "impossible"
-     },
-     {
-      "letter": "C",
-      "text": "plain"
-     },
-     {
-      "letter": "D",
-      "text": "calm"
-     }
-    ],
-    "answer": "D",
-    "vi": 10
-   },
-   {
-    "question": "They rode a __________ in the desert.【駱駝】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "camel"
-     },
-     {
-      "letter": "B",
-      "text": "cabbage"
-     },
-     {
-      "letter": "C",
-      "text": "calendar"
-     },
-     {
-      "letter": "D",
-      "text": "cafeteria"
-     }
-    ],
-    "answer": "A",
-    "vi": 11
-   },
-   {
-    "question": "The university __________ is very large.【校園】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "camel"
-     },
-     {
-      "letter": "B",
-      "text": "carrot"
-     },
-     {
-      "letter": "C",
-      "text": "cage"
-     },
-     {
-      "letter": "D",
-      "text": "campus"
-     }
-    ],
-    "answer": "D",
-    "vi": 12
-   },
-   {
-    "question": "The event was __________ due to bad weather.【取消】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "burst"
-     },
-     {
-      "letter": "B",
-      "text": "canceled"
-     },
-     {
-      "letter": "C",
-      "text": "nodded"
-     },
-     {
-      "letter": "D",
-      "text": "directed"
-     }
-    ],
-    "answer": "B",
-    "vi": 13
-   },
-   {
-    "question": "He was diagnosed with __________.【癌症】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cancer"
-     },
-     {
-      "letter": "B",
-      "text": "camel"
-     },
-     {
-      "letter": "C",
-      "text": "captain"
-     },
-     {
-      "letter": "D",
-      "text": "bundle"
-     }
-    ],
-    "answer": "A",
-    "vi": 14
-   },
-   {
-    "question": "The __________ gave orders to the crew.【隊長，船長】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "bundle"
-     },
-     {
-      "letter": "B",
-      "text": "cabbage"
-     },
-     {
-      "letter": "C",
-      "text": "captain"
-     },
-     {
-      "letter": "D",
       "text": "cash"
-     }
-    ],
-    "answer": "C",
-    "vi": 15
-   },
-   {
-    "question": "He made a __________ mistake.【粗心的】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "calm"
-     },
-     {
-      "letter": "B",
-      "text": "careless"
-     },
-     {
-      "letter": "C",
-      "text": "jealous"
-     },
-     {
-      "letter": "D",
-      "text": "humorous"
-     }
-    ],
-    "answer": "B",
-    "vi": 16
-   },
-   {
-    "question": "The __________ in the living room is new.【地毯】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cancer"
-     },
-     {
-      "letter": "B",
-      "text": "cafeteria"
      },
      {
       "letter": "C",
@@ -690,11 +483,57 @@ window.FLASHCARD_UNITS = {
       "text": "carpet"
      }
     ],
-    "answer": "D",
-    "vi": 17
+    "answer": "C",
+    "vi": 8
    },
    {
-    "question": "She cut the __________ into small pieces.【紅蘿蔔】",
+    "question": "Let me look at the __________ on the wall. Oh, Christmas is on a Friday this year, so we have a long weekend!",
+    "options": [
+     {
+      "letter": "A",
+      "text": "calendar"
+     },
+     {
+      "letter": "B",
+      "text": "carpet"
+     },
+     {
+      "letter": "C",
+      "text": "cable"
+     },
+     {
+      "letter": "D",
+      "text": "cage"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "When the earthquake happened, the teacher stayed __________. She spoke slowly and led us out of the classroom safely.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "careless"
+     },
+     {
+      "letter": "B",
+      "text": "calm"
+     },
+     {
+      "letter": "C",
+      "text": "broad"
+     },
+     {
+      "letter": "D",
+      "text": "bitter"
+     }
+    ],
+    "answer": "B",
+    "vi": 10
+   },
+   {
+    "question": "A __________ can walk in the desert for many days without water. People ride on its back to cross the sand.",
     "options": [
      {
       "letter": "A",
@@ -702,49 +541,72 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "B",
-      "text": "camel"
-     },
-     {
-      "letter": "C",
-      "text": "bundle"
-     },
-     {
-      "letter": "D",
-      "text": "calendar"
-     }
-    ],
-    "answer": "A",
-    "vi": 18
-   },
-   {
-    "question": "The kids watched a __________ on TV.【卡通，漫畫】",
-    "options": [
-     {
-      "letter": "A",
-      "text": "cafeteria"
-     },
-     {
-      "letter": "B",
       "text": "cabbage"
      },
      {
       "letter": "C",
-      "text": "cartoon"
+      "text": "captain"
      },
      {
       "letter": "D",
       "text": "camel"
      }
     ],
-    "answer": "C",
-    "vi": 19
+    "answer": "D",
+    "vi": 11
    },
    {
-    "question": "She paid for the groceries with __________.【現金】",
+    "question": "Our school has a beautiful __________. There are many trees, a big playground, and a small lake inside the school gate.",
     "options": [
      {
       "letter": "A",
-      "text": "bucket"
+      "text": "cancer"
+     },
+     {
+      "letter": "B",
+      "text": "campus"
+     },
+     {
+      "letter": "C",
+      "text": "carrot"
+     },
+     {
+      "letter": "D",
+      "text": "cash"
+     }
+    ],
+    "answer": "B",
+    "vi": 12
+   },
+   {
+    "question": "The baseball game was __________ because of the heavy rain. The players and fans all went home.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "burst"
+     },
+     {
+      "letter": "B",
+      "text": "barked"
+     },
+     {
+      "letter": "C",
+      "text": "canceled"
+     },
+     {
+      "letter": "D",
+      "text": "blamed"
+     }
+    ],
+    "answer": "C",
+    "vi": 13
+   },
+   {
+    "question": "My grandfather has lung __________, so he has to stay in the hospital. The doctors are trying their best to help him.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "campus"
      },
      {
       "letter": "B",
@@ -752,17 +614,155 @@ window.FLASHCARD_UNITS = {
      },
      {
       "letter": "C",
-      "text": "cancer"
+      "text": "cartoon"
      },
      {
       "letter": "D",
-      "text": "cafeteria"
+      "text": "cancer"
+     }
+    ],
+    "answer": "D",
+    "vi": 14
+   },
+   {
+    "question": "Tom is the __________ of our basketball team. He leads the other players and tells them what to do in the game.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "captain"
+     },
+     {
+      "letter": "B",
+      "text": "camel"
+     },
+     {
+      "letter": "C",
+      "text": "cartoon"
+     },
+     {
+      "letter": "D",
+      "text": "carpet"
+     }
+    ],
+    "answer": "A",
+    "vi": 15
+   },
+   {
+    "question": "Ben was __________ and left his wallet on the bus. He often loses things because he doesn't pay attention.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "calm"
+     },
+     {
+      "letter": "B",
+      "text": "broad"
+     },
+     {
+      "letter": "C",
+      "text": "basic"
+     },
+     {
+      "letter": "D",
+      "text": "careless"
+     }
+    ],
+    "answer": "D",
+    "vi": 16
+   },
+   {
+    "question": "There is a soft red __________ on the living room floor. The children like to sit and play on it.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cable"
+     },
+     {
+      "letter": "B",
+      "text": "carpet"
+     },
+     {
+      "letter": "C",
+      "text": "calendar"
+     },
+     {
+      "letter": "D",
+      "text": "campus"
      }
     ],
     "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "Rabbits love to eat __________. These long orange vegetables are good for your eyes, too.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cables"
+     },
+     {
+      "letter": "B",
+      "text": "cages"
+     },
+     {
+      "letter": "C",
+      "text": "carrots"
+     },
+     {
+      "letter": "D",
+      "text": "carpets"
+     }
+    ],
+    "answer": "C",
+    "vi": 18
+   },
+   {
+    "question": "My little brother watches a __________ on TV every evening. His favorite one is about a cat and a mouse.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cartoon"
+     },
+     {
+      "letter": "B",
+      "text": "carpet"
+     },
+     {
+      "letter": "C",
+      "text": "bucket"
+     },
+     {
+      "letter": "D",
+      "text": "bundle"
+     }
+    ],
+    "answer": "A",
+    "vi": 19
+   },
+   {
+    "question": "I don't have a credit card with me, so I will pay in __________. Here is a one-thousand-dollar bill.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "cancer"
+     },
+     {
+      "letter": "B",
+      "text": "campus"
+     },
+     {
+      "letter": "C",
+      "text": "cash"
+     },
+     {
+      "letter": "D",
+      "text": "cage"
+     }
+    ],
+    "answer": "C",
     "vi": 20
    }
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"buffet":["","自助餐"],"bucket":["","桶"],"building":["","建築物"],"bundle":["","捆，束"],"burst":["","爆炸，破裂"],"cabbage":["","高麗菜"],"cable":["","電纜，纜繩"],"cafeteria":["","自助餐廳"],"cage":["","籠子"],"calendar":["","日曆"],"calm":["","冷靜的，平靜的"],"camel":["","駱駝"],"campus":["","校園"],"canceled":["","取消"],"cancer":["","癌症"],"captain":["","隊長，船長"],"careless":["","粗心的"],"carpet":["","地毯"],"carrot":["","紅蘿蔔"],"cartoon":["","卡通，漫畫"],"cash":["","現金"],"develop":["","發展，開發"],"directed":["","指導，指揮"],"envy":["","嫉妒，羨慕"],"humorous":["","幽默的"],"impossible":["","不可能的"],"jealous":["","嫉妒的"],"nodded":["","點頭，打瞌睡"],"plain":["","樸素的，平凡的"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"bucket":["a round open container with a handle, used for carrying water","桶"],"buffet":["a meal where you take food by yourself from a long table","自助餐"],"bundle":["many things tied together","捆，束"],"cable":["a thick wire that carries electricity or signals","電纜，纜繩"],"cartoon":["a funny film made with drawings, not real people","卡通，漫畫"],"calendar":["a list that shows the days, weeks, and months of a year","日曆"],"camel":["a big animal with one or two humps that lives in the desert","駱駝"],"building":["a house, school, store, or other place with walls and a roof","建築物"],"burst":["to break open suddenly","爆炸，破裂"],"cancel":["to say that something planned will not happen","取消"],"bark":["(of a dog) to make a short loud sound","吠叫"],"bathe":["to wash your body in a bath","洗澡"],"cage":["a box made of bars for keeping birds or animals in","籠子"],"cabbage":["a round vegetable with thick green leaves","高麗菜"],"carpet":["a thick, soft cover for a floor","地毯"],"carrot":["a long orange vegetable that grows under the ground","紅蘿蔔"],"cafeteria":["a restaurant in a school or office where you carry your own food to the table","自助餐廳"],"cash":["money in coins and paper bills","現金"],"careless":["not thinking about what you are doing, so you make mistakes","粗心的"],"calm":["quiet and not worried or excited","冷靜的，平靜的"],"broad":["wide","寬的，廣泛的"],"bitter":["having a strong taste that is not sweet, like black coffee","苦的，痛苦的"],"captain":["the leader of a ship or a team","隊長，船長"],"cancer":["a very serious sickness in which bad cells grow in the body","癌症"],"campus":["the land and buildings of a school or university","校園"],"barked":["(of a dog) to make a short loud sound","吠叫"],"canceled":["to say that something planned will not happen","取消"],"blamed":["to say that someone did something wrong","責備，責怪"],"basic":["simple and needed before you can learn more","基本的，基礎的"],"cables":["a thick wire that carries electricity or signals","電纜，纜繩"],"cages":["a box made of bars for keeping birds or animals in","籠子"],"carrots":["a long orange vegetable that grows under the ground","紅蘿蔔"],"carpets":["a thick, soft cover for a floor","地毯"]});

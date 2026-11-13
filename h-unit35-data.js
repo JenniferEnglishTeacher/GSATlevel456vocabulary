@@ -8,12 +8,12 @@ window.FLASHCARD_UNITS = {
     "word": "support",
     "answer": "supported",
     "pos": "v.",
-    "definition": "",
+    "definition": "to agree with and help someone",
     "chinese": "支持，支援",
     "sentence": "Her family __________ her decision.",
     "translation": "她的家人支持她的決定。",
     "lookup": {
-     "english": "",
+     "english": "to agree with and help someone",
      "chinese": "支持，支援"
     }
    },
@@ -21,12 +21,12 @@ window.FLASHCARD_UNITS = {
     "word": "survive",
     "answer": "survive",
     "pos": "v.",
-    "definition": "",
+    "definition": "to stay alive after something dangerous",
     "chinese": "存活，生存",
     "sentence": "They managed to __________ the disaster.",
     "translation": "他們設法在災難中倖存下來。",
     "lookup": {
-     "english": "",
+     "english": "to stay alive after something dangerous",
      "chinese": "存活，生存"
     }
    },
@@ -34,12 +34,12 @@ window.FLASHCARD_UNITS = {
     "word": "swallow",
     "answer": "swallow",
     "pos": "v.",
-    "definition": "",
+    "definition": "to make food or drink go down your throat",
     "chinese": "吞下，嚥下",
     "sentence": "He had to __________ the medicine quickly.",
     "translation": "他不得不迅速吞下藥。",
     "lookup": {
-     "english": "",
+     "english": "to make food or drink go down your throat",
      "chinese": "吞下，嚥下"
     }
    },
@@ -47,12 +47,12 @@ window.FLASHCARD_UNITS = {
     "word": "swan",
     "answer": "swan",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big white bird with a long neck that lives on lakes",
     "chinese": "天鵝",
     "sentence": "They saw a __________ swimming in the lake.",
     "translation": "他們看到一隻天鵝在湖裡游泳。",
     "lookup": {
-     "english": "",
+     "english": "a big white bird with a long neck that lives on lakes",
      "chinese": "天鵝"
     }
    },
@@ -60,12 +60,12 @@ window.FLASHCARD_UNITS = {
     "word": "sweep",
     "answer": "sweeps",
     "pos": "v.",
-    "definition": "",
+    "definition": "to clean a floor with a broom",
     "chinese": "打掃，清掃",
     "sentence": "She __________ the floor every morning.",
     "translation": "她每天早上掃地。",
     "lookup": {
-     "english": "",
+     "english": "to clean a floor with a broom",
      "chinese": "打掃，清掃"
     }
    },
@@ -73,12 +73,12 @@ window.FLASHCARD_UNITS = {
     "word": "swimsuit",
     "answer": "swimsuit",
     "pos": "n.",
-    "definition": "",
+    "definition": "clothes that you wear for swimming",
     "chinese": "泳衣",
     "sentence": "She bought a new __________.",
     "translation": "她買了一件新泳衣。",
     "lookup": {
-     "english": "",
+     "english": "clothes that you wear for swimming",
      "chinese": "泳衣"
     }
    },
@@ -86,12 +86,12 @@ window.FLASHCARD_UNITS = {
     "word": "symbol",
     "answer": "symbol",
     "pos": "n.",
-    "definition": "",
+    "definition": "a picture or thing that stands for an idea",
     "chinese": "符號，象徵",
     "sentence": "The heart is a __________ of love.",
     "translation": "心形是愛的象徵。",
     "lookup": {
-     "english": "",
+     "english": "a picture or thing that stands for an idea",
      "chinese": "符號，象徵"
     }
    },
@@ -99,12 +99,12 @@ window.FLASHCARD_UNITS = {
     "word": "system",
     "answer": "system",
     "pos": "n.",
-    "definition": "",
+    "definition": "a group of parts or machines that work together",
     "chinese": "系統，體系",
     "sentence": "The new __________ is very efficient.",
     "translation": "新系統非常高效。",
     "lookup": {
-     "english": "",
+     "english": "a group of parts or machines that work together",
      "chinese": "系統，體系"
     }
    },
@@ -112,12 +112,12 @@ window.FLASHCARD_UNITS = {
     "word": "table tennis",
     "answer": "table tennis",
     "pos": "n.",
-    "definition": "",
+    "definition": "a game in which players hit a small light ball over a net on a table",
     "chinese": "乒乓球，桌球",
     "sentence": "They enjoy playing __________.",
     "translation": "他們喜歡打乒乓球。",
     "lookup": {
-     "english": "",
+     "english": "a game in which players hit a small light ball over a net on a table",
      "chinese": "乒乓球，桌球"
     }
    },
@@ -125,12 +125,12 @@ window.FLASHCARD_UNITS = {
     "word": "talent",
     "answer": "talent",
     "pos": "n.",
-    "definition": "",
+    "definition": "a natural skill for doing something well",
     "chinese": "才能，天賦",
     "sentence": "She has a natural __________ for singing.",
     "translation": "她有天生的唱歌天賦。",
     "lookup": {
-     "english": "",
+     "english": "a natural skill for doing something well",
      "chinese": "才能，天賦"
     }
    },
@@ -138,12 +138,12 @@ window.FLASHCARD_UNITS = {
     "word": "talkative",
     "answer": "talkative",
     "pos": "adj.",
-    "definition": "",
+    "definition": "liking to talk a lot",
     "chinese": "健談的，話多的",
     "sentence": "He is very __________.",
     "translation": "他很健談。",
     "lookup": {
-     "english": "",
+     "english": "liking to talk a lot",
      "chinese": "健談的，話多的"
     }
    },
@@ -151,12 +151,12 @@ window.FLASHCARD_UNITS = {
     "word": "tangerine",
     "answer": "tangerine",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small sweet orange that is easy to peel",
     "chinese": "橘子",
     "sentence": "She peeled a __________.",
     "translation": "她剝了一個橘子。",
     "lookup": {
-     "english": "",
+     "english": "a small sweet orange that is easy to peel",
      "chinese": "橘子"
     }
    },
@@ -164,12 +164,12 @@ window.FLASHCARD_UNITS = {
     "word": "tank",
     "answer": "tank",
     "pos": "n.",
-    "definition": "",
+    "definition": "a big container for water or fish",
     "chinese": "坦克，油箱",
     "sentence": "The fish are swimming in the __________.",
     "translation": "魚在魚缸裡游泳。",
     "lookup": {
-     "english": "",
+     "english": "a big container for water or fish",
      "chinese": "坦克，油箱"
     }
    },
@@ -177,12 +177,12 @@ window.FLASHCARD_UNITS = {
     "word": "teapot",
     "answer": "teapot",
     "pos": "n.",
-    "definition": "",
+    "definition": "a pot for making and pouring tea",
     "chinese": "茶壺",
     "sentence": "She poured tea from the __________.",
     "translation": "她從茶壺裡倒茶。",
     "lookup": {
-     "english": "",
+     "english": "a pot for making and pouring tea",
      "chinese": "茶壺"
     }
    },
@@ -190,12 +190,12 @@ window.FLASHCARD_UNITS = {
     "word": "tear",
     "answer": "tear",
     "pos": "n.",
-    "definition": "",
+    "definition": "a drop of water that comes from your eye when you cry",
     "chinese": "眼淚",
     "sentence": "She wiped away a __________.",
     "translation": "她擦掉了眼淚。",
     "lookup": {
-     "english": "",
+     "english": "a drop of water that comes from your eye when you cry",
      "chinese": "眼淚"
     }
    },
@@ -203,12 +203,12 @@ window.FLASHCARD_UNITS = {
     "word": "temperature",
     "answer": "temperature",
     "pos": "n.",
-    "definition": "",
+    "definition": "how hot or cold something is",
     "chinese": "溫度，氣溫",
     "sentence": "The __________ today is very high.",
     "translation": "今天的氣溫很高。",
     "lookup": {
-     "english": "",
+     "english": "how hot or cold something is",
      "chinese": "溫度，氣溫"
     }
    },
@@ -216,12 +216,12 @@ window.FLASHCARD_UNITS = {
     "word": "tent",
     "answer": "tent",
     "pos": "n.",
-    "definition": "",
+    "definition": "a small house made of cloth that you sleep in when you camp",
     "chinese": "帳篷",
     "sentence": "They set up a __________ in the forest.",
     "translation": "他們在森林裡搭了個帳篷。",
     "lookup": {
-     "english": "",
+     "english": "a small house made of cloth that you sleep in when you camp",
      "chinese": "帳篷"
     }
    },
@@ -229,12 +229,12 @@ window.FLASHCARD_UNITS = {
     "word": "term",
     "answer": "term",
     "pos": "n.",
-    "definition": "",
+    "definition": "one part of a school year",
     "chinese": "期限，學期",
     "sentence": "The __________ will end next month.",
     "translation": "這個學期將在下個月結束。",
     "lookup": {
-     "english": "",
+     "english": "one part of a school year",
      "chinese": "期限，學期"
     }
    },
@@ -242,12 +242,12 @@ window.FLASHCARD_UNITS = {
     "word": "terrific",
     "answer": "terrific",
     "pos": "adj.",
-    "definition": "",
+    "definition": "very, very good",
     "chinese": "極好的，極度的",
     "sentence": "She did a __________ job on the project.",
     "translation": "她在這個專案上做得很出色。",
     "lookup": {
-     "english": "",
+     "english": "very, very good",
      "chinese": "極好的，極度的"
     }
    },
@@ -255,12 +255,12 @@ window.FLASHCARD_UNITS = {
     "word": "textbook",
     "answer": "textbook",
     "pos": "n.",
-    "definition": "",
+    "definition": "a book that students use in class to study a subject",
     "chinese": "課本，教科書",
     "sentence": "He forgot his __________ at home.",
     "translation": "他把課本忘在家裡了。",
     "lookup": {
-     "english": "",
+     "english": "a book that students use in class to study a subject",
      "chinese": "課本，教科書"
     }
    }
@@ -729,4 +729,4 @@ window.FLASHCARD_UNITS = {
   ]
  }
 };
-window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"alike":["","相似的，一樣地"],"diligent":["","勤勉的，勤奮的"],"false":["","錯誤的，假的"],"humid":["","潮濕的，濕熱的"],"supported":["","支持，支援"],"survive":["","存活，生存"],"swallow":["","吞下，嚥下"],"swan":["","天鵝"],"sweeps":["","打掃，清掃"],"swimsuit":["","泳衣"],"symbol":["","符號，象徵"],"system":["","系統，體系"],"talent":["","才能，天賦"],"talkative":["","健談的，話多的"],"tangerine":["","橘子"],"tank":["","坦克，油箱"],"teapot":["","茶壺"],"tear":["","眼淚"],"temperature":["","溫度，氣溫"],"tent":["","帳篷"],"term":["","期限，學期"],"terrific":["","極好的，極度的"],"textbook":["","課本，教科書"]});
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"alike":["almost the same","相似的，一樣地"],"diligent":["working hard and carefully","勤勉的，勤奮的"],"false":["not true; not correct","錯誤的，假的"],"humid":["(of weather) warm and wet","潮濕的，濕熱的"],"supported":["to agree with and help someone","支持，支援"],"survive":["to stay alive after something dangerous","存活，生存"],"swallow":["to make food or drink go down your throat","吞下，嚥下"],"swan":["a big white bird with a long neck that lives on lakes","天鵝"],"sweeps":["to clean a floor with a broom","打掃，清掃"],"swimsuit":["clothes that you wear for swimming","泳衣"],"symbol":["a picture or thing that stands for an idea","符號，象徵"],"system":["a group of parts or machines that work together","系統，體系"],"talent":["a natural skill for doing something well","才能，天賦"],"talkative":["liking to talk a lot","健談的，話多的"],"tangerine":["a small sweet orange that is easy to peel","橘子"],"tank":["a big container for water or fish","坦克，油箱"],"teapot":["a pot for making and pouring tea","茶壺"],"tear":["a drop of water that comes from your eye when you cry","眼淚"],"temperature":["how hot or cold something is","溫度，氣溫"],"tent":["a small house made of cloth that you sleep in when you camp","帳篷"],"term":["one part of a school year","期限，學期"],"terrific":["very, very good","極好的，極度的"],"textbook":["a book that students use in class to study a subject","課本，教科書"]});

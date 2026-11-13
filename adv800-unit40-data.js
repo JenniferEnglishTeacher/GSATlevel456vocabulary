@@ -10,7 +10,7 @@ const VOCAB = [
     "word": "whole",
     "pos": "adj.",
     "cn_def": "整個的，全部的",
-    "en_def": "",
+    "en_def": "all of something",
     "sentence": "They spent the {{BLANK}} day at the beach.",
     "cn": "他們在海灘度過了整整一天。"
   },
@@ -18,7 +18,7 @@ const VOCAB = [
     "word": "wife",
     "pos": "n.",
     "cn_def": "妻子",
-    "en_def": "",
+    "en_def": "the woman a man is married to",
     "sentence": "His {{BLANK}} is a doctor.",
     "cn": "他的妻子是一名醫生。"
   },
@@ -26,7 +26,7 @@ const VOCAB = [
     "word": "wildlife",
     "pos": "n.",
     "cn_def": "野生動物",
-    "en_def": "",
+    "en_def": "animals and plants that live in nature",
     "sentence": "The park is home to various {{BLANK}}.",
     "cn": "這個公園是各種野生動物的家園。"
   },
@@ -34,7 +34,7 @@ const VOCAB = [
     "word": "window",
     "pos": "n.",
     "cn_def": "窗戶",
-    "en_def": "",
+    "en_def": "an opening with glass in a wall that lets in light and air",
     "sentence": "She opened the {{BLANK}} to let in some fresh air.",
     "cn": "她打開窗戶讓新鮮空氣進來。"
   },
@@ -42,7 +42,7 @@ const VOCAB = [
     "word": "winner",
     "pos": "n.",
     "cn_def": "贏家，優勝者",
-    "en_def": "",
+    "en_def": "the person who wins a game or a race",
     "sentence": "She was the {{BLANK}} of the contest.",
     "cn": "她是比賽的贏家。"
   },
@@ -50,7 +50,7 @@ const VOCAB = [
     "word": "wipe",
     "pos": "v.",
     "cn_def": "擦，抹",
-    "en_def": "",
+    "en_def": "to clean or dry something with a cloth",
     "sentence": "He {{BLANK}} the table clean.",
     "cn": "他把桌子擦乾淨。"
   },
@@ -58,7 +58,7 @@ const VOCAB = [
     "word": "wire",
     "pos": "n.",
     "cn_def": "電線，金屬線",
-    "en_def": "",
+    "en_def": "a long, thin piece of metal that carries electricity",
     "sentence": "The electrician fixed the {{BLANK}}.",
     "cn": "電工修好了電線。"
   },
@@ -66,7 +66,7 @@ const VOCAB = [
     "word": "wish",
     "pos": "v.",
     "cn_def": "希望，祝願",
-    "en_def": "",
+    "en_def": "to hope for something",
     "sentence": "She {{BLANK}} for happiness and health.",
     "cn": "她希望幸福和健康。",
     "alts": [
@@ -77,7 +77,7 @@ const VOCAB = [
     "word": "wizard",
     "pos": "n.",
     "cn_def": "巫師，魔法師",
-    "en_def": "",
+    "en_def": "a man in stories who can do magic",
     "sentence": "The {{BLANK}} cast a spell.",
     "cn": "巫師施了一個咒語。"
   },
@@ -85,7 +85,7 @@ const VOCAB = [
     "word": "wool",
     "pos": "n.",
     "cn_def": "羊毛，毛線",
-    "en_def": "",
+    "en_def": "the soft, thick hair of sheep, used to make sweaters",
     "sentence": "The sweater is made of {{BLANK}}.",
     "cn": "這件毛衣是羊毛製成的。"
   },
@@ -93,7 +93,7 @@ const VOCAB = [
     "word": "workbook",
     "pos": "n.",
     "cn_def": "練習簿，作業本",
-    "en_def": "",
+    "en_def": "a book with exercises for students to do",
     "sentence": "The students completed the exercises in their {{BLANK}}.",
     "cn": "學生們在練習本上完成了練習題。",
     "alts": [
@@ -104,7 +104,7 @@ const VOCAB = [
     "word": "worm",
     "pos": "n.",
     "cn_def": "蟲，蠕蟲",
-    "en_def": "",
+    "en_def": "a small, long, soft animal with no legs that lives in the ground",
     "sentence": "The bird ate the {{BLANK}}.",
     "cn": "鳥吃了那隻蟲。",
     "alts": [
@@ -115,7 +115,7 @@ const VOCAB = [
     "word": "worry",
     "pos": "v.",
     "cn_def": "擔心，煩惱",
-    "en_def": "",
+    "en_def": "to feel afraid that something bad may happen",
     "sentence": "She always {{BLANK}} about her exams.",
     "cn": "她總是擔心她的考試。"
   },
@@ -123,7 +123,7 @@ const VOCAB = [
     "word": "wound",
     "pos": "n.",
     "cn_def": "傷口，創傷",
-    "en_def": "",
+    "en_def": "a cut or hole in your body that hurts",
     "sentence": "He had a deep {{BLANK}} on his arm.",
     "cn": "他的手臂上有一道深深的傷口。"
   },
@@ -131,7 +131,7 @@ const VOCAB = [
     "word": "wrap",
     "pos": "v.",
     "cn_def": "包裝，裹",
-    "en_def": "",
+    "en_def": "to cover something with paper or cloth",
     "sentence": "She {{BLANK}} the gift with colorful paper.",
     "cn": "她用彩色紙包裝禮物。"
   },
@@ -139,7 +139,7 @@ const VOCAB = [
     "word": "wrist",
     "pos": "n.",
     "cn_def": "手腕",
-    "en_def": "",
+    "en_def": "the part of your body between your hand and your arm",
     "sentence": "She wore a bracelet on her {{BLANK}}.",
     "cn": "她在手腕上戴了一個手鐲。"
   },
@@ -147,7 +147,7 @@ const VOCAB = [
     "word": "writer",
     "pos": "n.",
     "cn_def": "作家，作者",
-    "en_def": "",
+    "en_def": "a person who writes books or stories",
     "sentence": "He is a famous {{BLANK}}.",
     "cn": "他是一位著名的作家。"
   },
@@ -155,7 +155,7 @@ const VOCAB = [
     "word": "yard",
     "pos": "n.",
     "cn_def": "院子，庭院",
-    "en_def": "",
+    "en_def": "a piece of ground next to a house",
     "sentence": "They played in the {{BLANK}}.",
     "cn": "他們在院子裡玩。"
   },
@@ -163,7 +163,7 @@ const VOCAB = [
     "word": "youth",
     "pos": "n.",
     "cn_def": "青年，年輕",
-    "en_def": "",
+    "en_def": "the time when a person is young",
     "sentence": "He spent his {{BLANK}} in the countryside.",
     "cn": "他在鄉下度過了他的青春。"
   },
@@ -171,7 +171,7 @@ const VOCAB = [
     "word": "zebra",
     "pos": "n.",
     "cn_def": "斑馬",
-    "en_def": "",
+    "en_def": "an animal like a horse with black and white stripes",
     "sentence": "The {{BLANK}} has black and white stripes.",
     "cn": "斑馬有黑白條紋。"
   }
@@ -423,117 +423,117 @@ const MCQS = [
 const LOOKUP = {
   "alike": {
     "pos": "adj./adv.",
-    "en_def": "",
+    "en_def": "almost the same",
     "cn_def": "相似的，一樣地"
   },
   "classical": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "(of music) serious and written long ago, like Mozart's",
     "cn_def": "古典的，經典的"
   },
   "greedy": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "wanting more money or food than you need",
     "cn_def": "貪婪的"
   },
   "whole": {
     "pos": "adj.",
-    "en_def": "",
+    "en_def": "all of something",
     "cn_def": "整個的，全部的"
   },
   "wife": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the woman a man is married to",
     "cn_def": "妻子"
   },
   "wildlife": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "animals and plants that live in nature",
     "cn_def": "野生動物"
   },
   "window": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an opening with glass in a wall that lets in light and air",
     "cn_def": "窗戶"
   },
   "winner": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the person who wins a game or a race",
     "cn_def": "贏家，優勝者"
   },
   "wiped": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to clean or dry something with a cloth",
     "cn_def": "擦，抹"
   },
   "wire": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a long, thin piece of metal that carries electricity",
     "cn_def": "電線，金屬線"
   },
   "wished": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to hope for something",
     "cn_def": "希望，祝願"
   },
   "wizard": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a man in stories who can do magic",
     "cn_def": "巫師，魔法師"
   },
   "wool": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the soft, thick hair of sheep, used to make sweaters",
     "cn_def": "羊毛，毛線"
   },
   "workbooks": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a book with exercises for students to do",
     "cn_def": "練習簿，作業本"
   },
   "worm": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a small, long, soft animal with no legs that lives in the ground",
     "cn_def": "蟲，蠕蟲"
   },
   "worries": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to feel afraid that something bad may happen",
     "cn_def": "擔心，煩惱"
   },
   "wound": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a cut or hole in your body that hurts",
     "cn_def": "傷口，創傷"
   },
   "wrapped": {
     "pos": "v.",
-    "en_def": "",
+    "en_def": "to cover something with paper or cloth",
     "cn_def": "包裝，裹"
   },
   "wrist": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the part of your body between your hand and your arm",
     "cn_def": "手腕"
   },
   "writer": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a person who writes books or stories",
     "cn_def": "作家，作者"
   },
   "yard": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "a piece of ground next to a house",
     "cn_def": "院子，庭院"
   },
   "youth": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "the time when a person is young",
     "cn_def": "青年，年輕"
   },
   "zebra": {
     "pos": "n.",
-    "en_def": "",
+    "en_def": "an animal like a horse with black and white stripes",
     "cn_def": "斑馬"
   }
 };
