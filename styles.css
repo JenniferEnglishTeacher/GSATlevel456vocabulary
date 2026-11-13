@@ -1225,5 +1225,6 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .tracker-box { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); }
 .tracker-box b { color: var(--ink); }
 .tracker-box button { border: 0; background: none; color: var(--teal-dark); text-decoration: underline; cursor: pointer; font: inherit; padding: 0; }
+.forms-tag { display: inline-block; margin-left: 8px; color: var(--muted); font-weight: 700; font-size: 13px; text-transform: none; letter-spacing: 0; }
 .teacher-link { display: block; margin: 28px 0 8px; text-align: center; color: var(--muted); font-size: 13px; }
 .quiz-link.recorded:hover { background: #000; }

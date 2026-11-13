@@ -1,5 +1,5 @@
 // Group 50 Quiz Data: Common Nouns, Part 1 (常見名詞 一)
-// Converted from the grammar-pattern quiz for this group (tools/convert_g.py).
+// Converted for this site by the scripts in tools/.
 const QUIZ_CONFIG = {
   "groupName": "Group 50 - Common Nouns, Part 1 (常見名詞 一)",
   "gasEndpoint": "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"

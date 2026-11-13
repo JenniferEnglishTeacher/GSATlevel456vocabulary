@@ -263,14 +263,15 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
   <div class="arena" id="arena"></div>
 </div>
 
-<script src="tracker-config.js?v=20261113e"></script>
-<script src="tracker.js?v=20261113e"></script>
+<script src="tracker-config.js?v=20261113f"></script>
+<script src="tracker.js?v=20261113f"></script>
 <script src="vendor/xlsx.full.min.js"></script>
-<script src="books.js?v=20261113e"></script>
-<script src="l4-dashboard-data.js?v=20261113e"></script>
-<script src="l5-dashboard-data.js?v=20261113e"></script>
-<script src="l6-dashboard-data.js?v=20261113e"></script>
-<script src="j-dashboard-data.js?v=20261113e"></script>
+<script src="books.js?v=20261113f"></script>
+<script src="l4-dashboard-data.js?v=20261113f"></script>
+<script src="l5-dashboard-data.js?v=20261113f"></script>
+<script src="l6-dashboard-data.js?v=20261113f"></script>
+<script src="j-dashboard-data.js?v=20261113f"></script>
+<script src="g-dashboard-data.js?v=20261113f"></script>
 <script>
 /* =========================================================
    DATA — the board's review list (localStorage), any zone
@@ -278,7 +279,7 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
    ========================================================= */
 const STORE_KEY='gsat456-review-list';
 const BOOKS={};
-Object.entries(window.VOCAB_ZONES||{}).forEach(([id,z])=>{BOOKS[id]={name:z.name,tag:z.tag,unit:'Group',units:window[z.global]||[],key:(u,i)=>`${z.prefix}-${u}:${i}`,page:u=>z.page.replace('{u}',u)};});
+Object.entries(window.VOCAB_ZONES||{}).forEach(([id,z])=>{BOOKS[id]={name:z.name,tag:z.tag,unit:z.unitName||'Group',units:window[z.global]||[],key:(u,i)=>`${z.prefix}-${u}:${i}`,page:u=>z.page.replace('{u}',u)};});
 const readStore=(k,f)=>{try{return JSON.parse(localStorage.getItem(k)||'')||f;}catch(e){return f;}};
 const lookup=new Map();
 Object.entries(BOOKS).forEach(([book,cfg])=>cfg.units.forEach(u=>u.cards.forEach((c,i)=>lookup.set(cfg.key(u.unit,i),{book,unit:u.unit,key:cfg.key(u.unit,i),...c}))));

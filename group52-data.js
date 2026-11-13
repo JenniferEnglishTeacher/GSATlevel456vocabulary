@@ -1,5 +1,5 @@
 // Group 52 Quiz Data: Common Nouns, Part 3 (常見名詞 三)
-// Converted from the grammar-pattern quiz for this group (tools/convert_g.py).
+// Converted for this site by the scripts in tools/.
 const QUIZ_CONFIG = {
   "groupName": "Group 52 - Common Nouns, Part 3 (常見名詞 三)",
   "gasEndpoint": "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"

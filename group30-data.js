@@ -1,5 +1,5 @@
 // Group 30 Quiz Data: Places / Buildings, Part 1 (地方/建築物 一)
-// Converted from the grammar-pattern quiz for this group (tools/convert_g.py).
+// Converted for this site by the scripts in tools/.
 const QUIZ_CONFIG = {
   "groupName": "Group 30 - Places / Buildings, Part 1 (地方/建築物 一)",
   "gasEndpoint": "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"

@@ -14,8 +14,8 @@ Object.entries(ZONES).forEach(([id, z]) => {
     page: u => fillPattern(z.page, u),
     quizPage: u => fillPattern(z.quiz, u),
     badge: u => `${z.tag}·${u}`,
-    label: u => `${z.name} — Group ${u}`,
-    unitName: "Group",
+    label: u => `${z.name} — ${z.unitName || "Group"} ${u}`,
+    unitName: z.unitName || "Group",
     board: `index.html#${id}`,
     index: () => GSAT_INDEX[id] || {}
   };
@@ -252,6 +252,12 @@ function render() {
     tag.className = "head-tag";
     tag.textContent = SETCFG.headLabel;
     els.posTag.append(tag);
+  }
+  if (card.forms) { // verb forms / irregular plural given in the book
+    const forms = document.createElement("span");
+    forms.className = "forms-tag";
+    forms.textContent = card.forms;
+    els.posTag.append(forms);
   }
   els.definition.textContent = card.definition;
   if (els.memoryChant) {

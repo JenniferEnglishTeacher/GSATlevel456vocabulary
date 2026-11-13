@@ -11,7 +11,7 @@ Object.entries(window.VOCAB_ZONES || {}).forEach(([id, z]) => {
   BOOKS[id] = {
     ...z,
     level: z.levelLabel,
-    unitName: "Group",
+    unitName: z.unitName || "Group",
     short: `${z.tag}·`,
     units: window[z.global] || [],
     key: (u, i) => `${z.prefix}-${u}:${i}`,
@@ -59,7 +59,7 @@ ZONES.forEach(z => {
   const h2 = panel.querySelector("h2");
   h2.textContent = `${cfg.name} `;
   const span = document.createElement("span");
-  span.textContent = `${cfg.units.length} groups · ${cfg.blurb}`;
+  span.textContent = `${cfg.units.length} ${cfg.unitName.toLowerCase()}s · ${cfg.blurb}`;
   h2.append(span);
   zonePanels.append(panel);
 });
@@ -381,8 +381,8 @@ ZONES.forEach(z => {
   const entries = cfg.units.reduce((n, u) => n + u.cards.length, 0);
   const heads = cfg.units.reduce((n, u) => n + u.cards.filter(c => c.h).length, 0);
   document.querySelector(`#${z}Count`).textContent = heads
-    ? `${cfg.units.length} groups · ${heads.toLocaleString()} words · ${entries.toLocaleString()} entries`
-    : `${cfg.units.length} groups · ${entries.toLocaleString()} words`;
+    ? `${cfg.units.length} ${cfg.unitName.toLowerCase()}s · ${heads.toLocaleString()} words · ${entries.toLocaleString()} entries`
+    : `${cfg.units.length} ${cfg.unitName.toLowerCase()}s · ${entries.toLocaleString()} words`;
 });
 refresh();
 setZone(location.hash.slice(1) || ZONES[0], false);

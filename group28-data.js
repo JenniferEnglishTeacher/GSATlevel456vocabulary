@@ -1,5 +1,5 @@
 // Group 28 Quiz Data: Town / Streets / Roads (城鎮/街道/道路)
-// Converted from the grammar-pattern quiz for this group (tools/convert_g.py).
+// Converted for this site by the scripts in tools/.
 const QUIZ_CONFIG = {
   "groupName": "Group 28 - Town / Streets / Roads (城鎮/街道/道路)",
   "gasEndpoint": "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"

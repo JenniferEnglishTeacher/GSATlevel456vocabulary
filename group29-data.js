@@ -1,5 +1,5 @@
 // Group 29 Quiz Data: Transportation (交通工具)
-// Converted from the grammar-pattern quiz for this group (tools/convert_g.py).
+// Converted for this site by the scripts in tools/.
 const QUIZ_CONFIG = {
   "groupName": "Group 29 - Transportation (交通工具)",
   "gasEndpoint": "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"

@@ -5,7 +5,7 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113e"
+V = "20261113f"
 d = json.load(open(DATA, encoding="utf8"))
 J = json.load(open(os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k.json"), encoding="utf8"))  # 國中小基礎2000字 groups
 EXTRA = os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k_extra.json")  # groups converted by tools/convert_g.py
@@ -161,73 +161,92 @@ for L in LEVELS:
         write(base + "-app.js", patch_quiz_app(open(os.path.join(QUIZ, base + "-app.js"), encoding="utf8").read(), base))
     write(f"l{L}-dashboard-data.js", f"// Auto-generated for the Unit Board — 學測6000字 Level {L}\nwindow.L{L}_DASHBOARD_UNITS = {js(dash)};\n")
 
-# ---------------------------------------------------------------- 國中小基礎2000字 (zone "j")
-jgroups = sorted(int(k) for k in J)
-jnames, jdash = {}, []
+# ---------------------------------------------------------------- simple zones: one board of groups each
 RUN = re.compile(r"\{\{BLANK\}\}(?:\s+\{\{BLANK\}\})*")
-for g in jgroups:
-    G = J[str(g)]
-    m = re.match(r"Group \d+ - (.+)$", G["QUIZ_CONFIG"]["groupName"])
-    theme = m.group(1).strip() if m else ""
-    jnames[g] = theme
-    cards, dcards = [], []
-    for e in G["VOCAB"]:
-        answer = e.get("answer") or e["word"]
-        cards.append({
-            "word": e["word"], "answer": answer, "pos": e["pos"], "definition": e["en_def"], "chinese": e["cn_def"],
-            "sentence": RUN.sub(BLANK, e["sentence"]), "translation": e["cn"],
-            "lookup": {"english": e["en_def"], "chinese": e["cn_def"]},
-        })
-        dcards.append({"w": e["word"], "p": e["pos"], "d": e["en_def"], "c": e["cn_def"], "s": RUN.sub(lambda _: answer, e["sentence"]), "t": e["cn"]})
-    quiz = [{
-        "question": re.sub(r"_{3,}", BLANK, q["q"]),
-        "options": [{"letter": "ABCD"[j], "text": o} for j, o in enumerate(q["options"])],
-        "answer": "ABCD"[q["answer"]], "vi": q.get("vocabIndex"),
-    } for q in G["MCQS"]]
-    title = f"國中小基礎2000字 · Group {g}: {theme}"
-    local = {}
-    for src in (G.get("LOOKUP"), G.get("EXTRA_GLOSSES")):
-        if isinstance(src, dict):
-            for w, info in src.items():
-                if " " in w:
-                    continue
-                if isinstance(info, dict):
-                    local.setdefault(w.lower(), [info.get("en_def", info.get("en", "")), info.get("cn_def", info.get("cn", ""))])
-                elif isinstance(info, str):
-                    local.setdefault(w.lower(), ["", info])
-                elif isinstance(info, list) and info and isinstance(info[0], dict):
-                    local.setdefault(w.lower(), [info[0].get("en_def", ""), "；".join(dict.fromkeys(x.get("cn_def", "") for x in info))])
-    write(f"j-unit{g}-data.js",
-          f"// 國中小基礎2000字 Group {g} ({theme}) — flashcards + MCQ practice\n"
-          f"window.FLASHCARD_UNITS = {js({str(g): {'title': title, 'theme': theme, 'cards': cards, 'quiz': quiz}}, 1)};\n"
-          f"window.LOCAL_LOOKUP = Object.assign({{}}, window.LOCAL_LOOKUP || {{}}, {js(local)});\n")
-    write(f"j-unit{g}.html", card_page("j", g, title, "國中小2000", False))
-    jdash.append({"unit": g, "theme": theme, "cards": dcards})
-    base = f"group{g}"
-    src_html = os.path.join(QUIZ, base + ".html")
-    if os.path.exists(src_html):
-        page = open(src_html, encoding="utf8").read()
-    else:
-        # The source repo has this group's data and app but no page: make one from a neighbouring group's page.
-        donor = next(n for n in reversed(jgroups) if n < g and os.path.exists(os.path.join(QUIZ, f"group{n}.html")))
-        page = open(os.path.join(QUIZ, f"group{donor}.html"), encoding="utf8").read()
-        page = re.sub(r"<title>.*?</title>", f"<title>Group {g} Quiz — {html.escape(theme.split(' (')[0])}</title>", page)
-        page = page.replace(f"Group {donor}<", f"Group {g}<").replace(f"group{donor}-", f"group{g}-")
-        print("made quiz page", base, "from group", donor)
-    write(base + ".html", patch_quiz_page(page, base, "j", g))
-    if G.get("generated"):
-        # Converted group: write its quiz data in the same shape as the other groups and reuse the newest quiz app.
-        vocab_out = [{k: v for k, v in e.items() if k != "answer"} for e in G["VOCAB"]]
-        write(base + "-data.js",
-              f"// Group {g} Quiz Data: {theme}\n// Converted from the grammar-pattern quiz for this group (tools/convert_g.py).\n"
-              f"const QUIZ_CONFIG = {js(G['QUIZ_CONFIG'], 2)};\n\nconst VOCAB = {js(vocab_out, 2)};\n\nconst MCQS = {js(G['MCQS'], 2)};\n\n"
-              f"const LOOKUP = {js(G['LOOKUP'], 2)};\n\nconst EXTRA_GLOSSES = {{}};\n")
-        qapp = open(os.path.join(QUIZ, "group49-app.js"), encoding="utf8").read().replace("Group 49 Quiz App Logic", f"Group {g} Quiz App Logic")
-        write(base + "-app.js", patch_quiz_app(qapp, base))
-    else:
-        shutil.copyfile(os.path.join(QUIZ, base + "-data.js"), os.path.join(OUT, base + "-data.js"))
-        write(base + "-app.js", patch_quiz_app(open(os.path.join(QUIZ, base + "-app.js"), encoding="utf8").read(), base))
-write("j-dashboard-data.js", f"// Auto-generated for the Unit Board — 國中小基礎2000字\nwindow.J_DASHBOARD_UNITS = {js(jdash)};\n")
+
+
+def emit_zone(zid, book, back, unit_word, groups, base_of, heading, global_name):
+    """Write flashcards, MCQ practice, the online quiz and the dashboard data for every group of one zone.
+    groups: {number: data}; base_of(n): quiz file stem; heading: title printed on the quiz page."""
+    order = sorted(groups)
+    names, dash = {}, []
+    for g in order:
+        G = groups[g]
+        m = re.match(r"Group \d+ - (.+)$", G["QUIZ_CONFIG"]["groupName"])
+        theme = G.get("theme") or (m.group(1).strip() if m else "")
+        names[g] = theme
+        cards, dcards = [], []
+        for e in G["VOCAB"]:
+            answer = e.get("answer") or e["word"]
+            card = {
+                "word": e["word"], "answer": answer, "pos": e["pos"], "definition": e["en_def"], "chinese": e["cn_def"],
+                "sentence": RUN.sub(BLANK, e["sentence"]), "translation": e["cn"],
+                "lookup": {"english": e["en_def"], "chinese": e["cn_def"]},
+            }
+            if e.get("forms"):
+                card["forms"] = e["forms"]
+            cards.append(card)
+            dcards.append({"w": e["word"], "p": e["pos"], "d": e["en_def"], "c": e["cn_def"], "s": RUN.sub(lambda _: answer, e["sentence"]), "t": e["cn"]})
+        quiz = [{
+            "question": re.sub(r"_{3,}", BLANK, q["q"]),
+            "options": [{"letter": "ABCD"[j], "text": o} for j, o in enumerate(q["options"])],
+            "answer": "ABCD"[q["answer"]], "vi": q.get("vocabIndex"),
+        } for q in G["MCQS"]]
+        title = f"{book} · {unit_word} {g}: {theme}"
+        local = {}
+        for src in (G.get("LOOKUP"), G.get("EXTRA_GLOSSES")):
+            if isinstance(src, dict):
+                for w, info in src.items():
+                    if " " in w:
+                        continue
+                    if isinstance(info, dict):
+                        local.setdefault(w.lower(), [info.get("en_def", info.get("en", "")), info.get("cn_def", info.get("cn", ""))])
+                    elif isinstance(info, str):
+                        local.setdefault(w.lower(), ["", info])
+        write(f"{zid}-unit{g}-data.js",
+              f"// {book} {unit_word} {g} ({theme}) — flashcards + MCQ practice\n"
+              f"window.FLASHCARD_UNITS = {js({str(g): {'title': title, 'theme': theme, 'cards': cards, 'quiz': quiz}}, 1)};\n"
+              f"window.LOCAL_LOOKUP = Object.assign({{}}, window.LOCAL_LOOKUP || {{}}, {js(local)});\n")
+        write(f"{zid}-unit{g}.html", card_page(zid, g, title, back, False))
+        dash.append({"unit": g, "theme": theme, "cards": dcards})
+        base = base_of(g)
+        src_html = os.path.join(QUIZ, base + ".html")
+        if os.path.exists(src_html) and not G.get("generated"):
+            page = open(src_html, encoding="utf8").read()
+        else:
+            # No page of its own in the source repo: use the newest quiz page with this group's names.
+            page = open(os.path.join(QUIZ, "group49.html"), encoding="utf8").read()
+            page = re.sub(r"<title>.*?</title>", f"<title>{unit_word} {g} Quiz — {html.escape(theme.split(' (')[0])}</title>", page)
+            page, n1 = re.subn(r"<h1>[^<]*Group 49</h1>", f"<h1>{heading} — {unit_word} {g}</h1>", page)
+            assert n1 == 1 and page.count("group49-") == 2, base
+            page = page.replace("group49-", base + "-")
+        write(base + ".html", patch_quiz_page(page, base, zid, g))
+        if G.get("generated"):
+            # Converted group: write its quiz data in the same shape as the other groups and reuse the newest quiz app.
+            vocab_out = [{**{k: v for k, v in e.items() if k not in ("answer", "quizWord", "forms")}, "word": e.get("quizWord", e["word"])} for e in G["VOCAB"]]
+            write(base + "-data.js",
+                  f"// {unit_word} {g} Quiz Data: {theme}\n// Converted for this site by the scripts in tools/.\n"
+                  f"const QUIZ_CONFIG = {js(G['QUIZ_CONFIG'], 2)};\n\nconst VOCAB = {js(vocab_out, 2)};\n\nconst MCQS = {js(G['MCQS'], 2)};\n\n"
+                  f"const LOOKUP = {js(G['LOOKUP'], 2)};\n\nconst EXTRA_GLOSSES = {{}};\n")
+            qapp = open(os.path.join(QUIZ, "group49-app.js"), encoding="utf8").read().replace("Group 49 Quiz App Logic", f"{unit_word} {g} Quiz App Logic")
+            write(base + "-app.js", patch_quiz_app(qapp, base))
+        else:
+            shutil.copyfile(os.path.join(QUIZ, base + "-data.js"), os.path.join(OUT, base + "-data.js"))
+            write(base + "-app.js", patch_quiz_app(open(os.path.join(QUIZ, base + "-app.js"), encoding="utf8").read(), base))
+    write(f"{zid}-dashboard-data.js", f"// Auto-generated for the Unit Board — {book}\nwindow.{global_name} = {js(dash)};\n")
+    return order, names
+
+
+# 國中小基礎2000字 (zone "j")
+jgroups, jnames = emit_zone("j", "國中小基礎2000字", "國中小2000", "Group", {int(k): v for k, v in J.items()},
+                            lambda g: f"group{g}", "國中 2000 單字練習", "J_DASHBOARD_UNITS")
+
+# 捷進全民英檢初級單字書 (zone "g"): 100 lessons converted by tools/gept_convert.py
+GEPT_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "gept.json")
+GEPT = {int(k): v for k, v in json.load(open(GEPT_FILE, encoding="utf8")).items()} if os.path.exists(GEPT_FILE) else {}
+if GEPT:
+    ggroups, gnames = emit_zone("g", "捷進全民英檢初級單字書", "捷進GEPT初級", "Lesson", GEPT,
+                                lambda g: f"gept-lesson{g}", "捷進全民英檢初級單字練習", "G_DASHBOARD_UNITS")
 
 # ---------------------------------------------------------------- books.js: the registry every page reads
 zones = {}
@@ -246,10 +265,19 @@ zones["j"] = {
     "data": "j-dashboard-data.js", "global": "J_DASHBOARD_UNITS", "page": "j-unit{u}.html", "quiz": "group{u}.html",
     "units": jgroups, "names": {str(g): jnames[g] for g in jgroups}, "blurb": "themed groups 主題分組",
 }
+if GEPT:
+    zones["g"] = {
+        "book": "gept", "prefix": "g", "tag": "GEPT", "name": "捷進全民英檢初級單字書", "short": "捷進 GEPT 初級", "num": "G",
+        "levelLabel": "捷進GEPT初級", "cls": "hot", "family": False, "headLabel": "", "tile": "捷進全民英檢初級單字",
+        "unitName": "Lesson", "data": "g-dashboard-data.js", "global": "G_DASHBOARD_UNITS", "page": "g-unit{u}.html", "quiz": "gept-lesson{u}.html",
+        "units": ggroups, "names": {str(g): gnames[g] for g in ggroups}, "blurb": "10 words per lesson 每課 10 字",
+    }
 books = [
     {"id": "gsat", "name": "學測6000字 Level 4–6", "zones": ["l4", "l5", "l6"]},
     {"id": "j2000", "name": "國中小基礎2000字", "zones": ["j"]},
 ]
+if GEPT:
+    books.append({"id": "gept", "name": "捷進全民英檢初級單字書", "zones": ["g"]})
 write("books.js",
       "// Registry of every vocabulary book on this site. A zone is one tab of word groups; a book is a set of zones.\n"
       "// Review keys are \"<prefix>-<group>:<cardIndex>\". To add a book: add its zones here and its data files.\n"
@@ -305,6 +333,7 @@ css += """
 .tracker-box { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; color: var(--muted); }
 .tracker-box b { color: var(--ink); }
 .tracker-box button { border: 0; background: none; color: var(--teal-dark); text-decoration: underline; cursor: pointer; font: inherit; padding: 0; }
+.forms-tag { display: inline-block; margin-left: 8px; color: var(--muted); font-weight: 700; font-size: 13px; text-transform: none; letter-spacing: 0; }
 .teacher-link { display: block; margin: 28px 0 8px; text-align: center; color: var(--muted); font-size: 13px; }
 .quiz-link.recorded:hover { background: #000; }
 """
@@ -532,8 +561,8 @@ Object.entries(ZONES).forEach(([id, z]) => {
     page: u => fillPattern(z.page, u),
     quizPage: u => fillPattern(z.quiz, u),
     badge: u => `${z.tag}·${u}`,
-    label: u => `${z.name} — Group ${u}`,
-    unitName: "Group",
+    label: u => `${z.name} — ${z.unitName || "Group"} ${u}`,
+    unitName: z.unitName || "Group",
     board: `index.html#${id}`,
     index: () => GSAT_INDEX[id] || {}
   };
@@ -549,6 +578,13 @@ sub("""  for (let n = 1; n <= SETCFG.count; n += 1) {
     option.value = String(n);
     const groupName = SETCFG.names[n];""")
 sub("""    tag.textContent = `Level ${SETCFG.level} 單字`;""", """    tag.textContent = SETCFG.headLabel;""")
+sub("""  els.definition.textContent = card.definition;""", """  if (card.forms) { // verb forms / irregular plural given in the book
+    const forms = document.createElement("span");
+    forms.className = "forms-tag";
+    forms.textContent = card.forms;
+    els.posTag.append(forms);
+  }
+  els.definition.textContent = card.definition;""")
 sub("""const KEY_PREFIX = `${SETCFG.level}-`; // review keys: "<level>-<group>:<cardIndex>\"""", """const KEY_PREFIX = `${SETCFG.prefix}-`; // review keys: "<zone prefix>-<group>:<cardIndex>\"""")
 sub("""  wordForms = { l4: buildForms(SETS.l4.index()), l5: buildForms(SETS.l5.index()), l6: buildForms(SETS.l6.index()) };""", """  wordForms = {};
   BOOK_ZONES.forEach(id => { wordForms[id] = buildForms(SETS[id].index()); });""")
@@ -646,7 +682,7 @@ for old, new in [("選要考哪幾本書的單字", "選要考哪幾個 Level �
     arc = arc.replace(old, new)
 asub("""const mkBook=n=>({name:`學測6000字 Level ${n}`,unit:'Group',units:window[`L${n}_DASHBOARD_UNITS`]||[],key:(u,i)=>`${n}-${u}:${i}`,page:u=>`l${n}-unit${u}.html`});
 const BOOKS={l4:mkBook(4),l5:mkBook(5),l6:mkBook(6)};""", """const BOOKS={};
-Object.entries(window.VOCAB_ZONES||{}).forEach(([id,z])=>{BOOKS[id]={name:z.name,tag:z.tag,unit:'Group',units:window[z.global]||[],key:(u,i)=>`${z.prefix}-${u}:${i}`,page:u=>z.page.replace('{u}',u)};});""")
+Object.entries(window.VOCAB_ZONES||{}).forEach(([id,z])=>{BOOKS[id]={name:z.name,tag:z.tag,unit:z.unitName||'Group',units:window[z.global]||[],key:(u,i)=>`${z.prefix}-${u}:${i}`,page:u=>z.page.replace('{u}',u)};});""")
 asub("shuffle(POOL.l4)", "shuffle(POOL[Object.keys(BOOKS)[0]])")
 asub("清單裡沒有這個 Level 的字", "清單裡沒有這一冊的字")
 asub("選要考哪幾個 Level 的單字", "選要考哪幾冊／哪幾個 Level 的單字")
