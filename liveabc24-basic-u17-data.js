@@ -1162,7 +1162,7 @@ const LOOKUP = {
       }
     ]
   },
-  "occasion": {
+  "occasions": {
     "pos": "n.",
     "en_def": "a special event; a time when something happens",
     "cn_def": "場合",
@@ -1174,7 +1174,7 @@ const LOOKUP = {
       }
     ]
   },
-  "occasions": {
+  "occasion": {
     "pos": "n.",
     "en_def": "a special event; a time when something happens",
     "cn_def": "場合",
@@ -1438,6 +1438,18 @@ const LOOKUP = {
       }
     ]
   },
+  "scratched": {
+    "pos": "v.",
+    "en_def": "to rub or cut a surface or your skin with something sharp",
+    "cn_def": "抓;擦傷;刮擦聲",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to rub or cut a surface or your skin with something sharp",
+        "cn_def": "抓;擦傷;刮擦聲"
+      }
+    ]
+  },
   "scratch": {
     "pos": "v.",
     "en_def": "to rub or cut a surface or your skin with something sharp",
@@ -1451,18 +1463,6 @@ const LOOKUP = {
       {
         "pos": "n.",
         "en_def": "a small cut or mark made by something sharp",
-        "cn_def": "抓;擦傷;刮擦聲"
-      }
-    ]
-  },
-  "scratched": {
-    "pos": "v.",
-    "en_def": "to rub or cut a surface or your skin with something sharp",
-    "cn_def": "抓;擦傷;刮擦聲",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to rub or cut a surface or your skin with something sharp",
         "cn_def": "抓;擦傷;刮擦聲"
       }
     ]

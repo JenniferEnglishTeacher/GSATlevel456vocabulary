@@ -1080,7 +1080,7 @@ const LOOKUP = {
       }
     ]
   },
-  "direction": {
+  "directions": {
     "pos": "n.",
     "en_def": "the way that someone or something is moving or pointing; instructions on how to do something",
     "cn_def": "方向;指導",
@@ -1092,7 +1092,7 @@ const LOOKUP = {
       }
     ]
   },
-  "directions": {
+  "direction": {
     "pos": "n.",
     "en_def": "the way that someone or something is moving or pointing; instructions on how to do something",
     "cn_def": "方向;指導",
@@ -1311,7 +1311,7 @@ const LOOKUP = {
       }
     ]
   },
-  "inspires": {
+  "inspire": {
     "pos": "v.",
     "en_def": "to make someone want to do something good or creative",
     "cn_def": "激勵",
@@ -1323,7 +1323,7 @@ const LOOKUP = {
       }
     ]
   },
-  "inspire": {
+  "inspires": {
     "pos": "v.",
     "en_def": "to make someone want to do something good or creative",
     "cn_def": "激勵",

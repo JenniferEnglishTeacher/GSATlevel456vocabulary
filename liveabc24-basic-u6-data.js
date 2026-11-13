@@ -1217,18 +1217,6 @@ const LOOKUP = {
       }
     ]
   },
-  "chemical": {
-    "pos": "n.",
-    "en_def": "a substance made or used in chemistry",
-    "cn_def": "化學製品、化學物質",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a substance made or used in chemistry",
-        "cn_def": "化學製品、化學物質"
-      }
-    ]
-  },
   "chemicals": {
     "pos": "n.",
     "en_def": "a substance made or used in chemistry",
@@ -1241,7 +1229,19 @@ const LOOKUP = {
       }
     ]
   },
-  "material": {
+  "chemical": {
+    "pos": "n.",
+    "en_def": "a substance made or used in chemistry",
+    "cn_def": "化學製品、化學物質",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a substance made or used in chemistry",
+        "cn_def": "化學製品、化學物質"
+      }
+    ]
+  },
+  "materials": {
     "pos": "n.",
     "en_def": "a substance that things can be made from; information used for a piece of work",
     "cn_def": "材料、原料、資料",
@@ -1253,7 +1253,7 @@ const LOOKUP = {
       }
     ]
   },
-  "materials": {
+  "material": {
     "pos": "n.",
     "en_def": "a substance that things can be made from; information used for a piece of work",
     "cn_def": "材料、原料、資料",
@@ -1289,7 +1289,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ingredients": {
+  "ingredient": {
     "pos": "n.",
     "en_def": "one of the foods that you use to make a dish",
     "cn_def": "(烹調的) 原料、成分、要素",
@@ -1301,7 +1301,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ingredient": {
+  "ingredients": {
     "pos": "n.",
     "en_def": "one of the foods that you use to make a dish",
     "cn_def": "(烹調的) 原料、成分、要素",
@@ -1517,7 +1517,7 @@ const LOOKUP = {
       }
     ]
   },
-  "chronic disease": {
+  "chronic diseases": {
     "pos": "phr.",
     "en_def": "an illness that lasts for a long time",
     "cn_def": "慢性病",
@@ -1529,7 +1529,7 @@ const LOOKUP = {
       }
     ]
   },
-  "chronic diseases": {
+  "chronic disease": {
     "pos": "phr.",
     "en_def": "an illness that lasts for a long time",
     "cn_def": "慢性病",

@@ -1725,7 +1725,7 @@ const LOOKUP = {
       }
     ]
   },
-  "the ...century": {
+  "century": {
     "pos": "n.",
     "en_def": "a period of one hundred years",
     "cn_def": "世紀",
@@ -1737,7 +1737,7 @@ const LOOKUP = {
       }
     ]
   },
-  "century": {
+  "the ...century": {
     "pos": "n.",
     "en_def": "a period of one hundred years",
     "cn_def": "世紀",
@@ -2505,7 +2505,7 @@ const LOOKUP = {
       }
     ]
   },
-  "developer of the app": {
+  "developer (of an app)": {
     "pos": "phr.",
     "en_def": "a person or company that designs and creates a computer program",
     "cn_def": "應用程式開發者",
@@ -2517,7 +2517,7 @@ const LOOKUP = {
       }
     ]
   },
-  "developer (of an app)": {
+  "developer of the app": {
     "pos": "phr.",
     "en_def": "a person or company that designs and creates a computer program",
     "cn_def": "應用程式開發者",
@@ -2779,18 +2779,6 @@ const LOOKUP = {
       }
     ]
   },
-  "launch a campaign": {
-    "pos": "phr.",
-    "en_def": "to start an organized series of activities to achieve an aim",
-    "cn_def": "發起活動",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "to start an organized series of activities to achieve an aim",
-        "cn_def": "發起活動"
-      }
-    ]
-  },
   "launch a campaign/ movement/ program": {
     "pos": "phr.",
     "en_def": "to start an organized series of activities to achieve an aim",
@@ -2803,7 +2791,19 @@ const LOOKUP = {
       }
     ]
   },
-  "launch a missile": {
+  "launch a campaign": {
+    "pos": "phr.",
+    "en_def": "to start an organized series of activities to achieve an aim",
+    "cn_def": "發起活動",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to start an organized series of activities to achieve an aim",
+        "cn_def": "發起活動"
+      }
+    ]
+  },
+  "launch a missile/ satellite": {
     "pos": "phr.",
     "en_def": "to send a rocket or weapon into the air or into space",
     "cn_def": "發射導彈",
@@ -2815,7 +2815,7 @@ const LOOKUP = {
       }
     ]
   },
-  "launch a missile/ satellite": {
+  "launch a missile": {
     "pos": "phr.",
     "en_def": "to send a rocket or weapon into the air or into space",
     "cn_def": "發射導彈",

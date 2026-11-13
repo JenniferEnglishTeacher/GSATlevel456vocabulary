@@ -928,7 +928,7 @@ const LOOKUP = {
       }
     ]
   },
-  "creatures": {
+  "creature": {
     "pos": "n.",
     "en_def": "a living thing, especially an animal",
     "cn_def": "生物",
@@ -940,7 +940,7 @@ const LOOKUP = {
       }
     ]
   },
-  "creature": {
+  "creatures": {
     "pos": "n.",
     "en_def": "a living thing, especially an animal",
     "cn_def": "生物",
@@ -1144,7 +1144,7 @@ const LOOKUP = {
       }
     ]
   },
-  "refuse": {
+  "refuses": {
     "pos": "v.",
     "en_def": "to say that you will not do or accept something",
     "cn_def": "拒絕",
@@ -1156,7 +1156,7 @@ const LOOKUP = {
       }
     ]
   },
-  "refuses": {
+  "refuse": {
     "pos": "v.",
     "en_def": "to say that you will not do or accept something",
     "cn_def": "拒絕",
@@ -1180,7 +1180,7 @@ const LOOKUP = {
       }
     ]
   },
-  "rejected": {
+  "reject": {
     "pos": "v.",
     "en_def": "to refuse to accept, use or believe something",
     "cn_def": "拒絕",
@@ -1192,7 +1192,7 @@ const LOOKUP = {
       }
     ]
   },
-  "reject": {
+  "rejected": {
     "pos": "v.",
     "en_def": "to refuse to accept, use or believe something",
     "cn_def": "拒絕",
@@ -1399,7 +1399,7 @@ const LOOKUP = {
       }
     ]
   },
-  "inform sb of sth": {
+  "inform me of": {
     "pos": "phr.",
     "en_def": "to tell someone about something",
     "cn_def": "通知某人某事",
@@ -1411,7 +1411,7 @@ const LOOKUP = {
       }
     ]
   },
-  "inform me of": {
+  "inform sb of sth": {
     "pos": "phr.",
     "en_def": "to tell someone about something",
     "cn_def": "通知某人某事",

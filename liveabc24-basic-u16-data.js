@@ -868,7 +868,7 @@ const LOOKUP = {
       }
     ]
   },
-  "broaden": {
+  "expand/widen/broaden sb.'s horizons": {
     "pos": "n.",
     "en_def": "to help someone learn about and experience more new things",
     "cn_def": "拓展視野;廣見聞",
@@ -880,7 +880,7 @@ const LOOKUP = {
       }
     ]
   },
-  "expand/widen/broaden sb.'s horizons": {
+  "broaden": {
     "pos": "n.",
     "en_def": "to help someone learn about and experience more new things",
     "cn_def": "拓展視野;廣見聞",
@@ -1252,7 +1252,7 @@ const LOOKUP = {
       }
     ]
   },
-  "delivering a speech": {
+  "deliver a speech": {
     "pos": "n.",
     "en_def": "to give a formal talk to an audience",
     "cn_def": "發表演講",
@@ -1264,7 +1264,7 @@ const LOOKUP = {
       }
     ]
   },
-  "deliver a speech": {
+  "delivering a speech": {
     "pos": "n.",
     "en_def": "to give a formal talk to an audience",
     "cn_def": "發表演講",
@@ -1300,7 +1300,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pheromone": {
+  "pheromones": {
     "pos": "n.",
     "en_def": "a chemical that an animal produces to send signals to others of its kind",
     "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)",
@@ -1312,7 +1312,7 @@ const LOOKUP = {
       }
     ]
   },
-  "pheromones": {
+  "pheromone": {
     "pos": "n.",
     "en_def": "a chemical that an animal produces to send signals to others of its kind",
     "cn_def": "費洛蒙(昆蟲分泌以刺激同種昆蟲之化合物質)",

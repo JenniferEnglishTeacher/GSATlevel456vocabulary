@@ -787,6 +787,18 @@ const LOOKUP = {
       }
     ]
   },
+  "crickets": {
+    "pos": "n.",
+    "en_def": "a small brown jumping insect that makes a loud, high sound",
+    "cn_def": "蟋蟀",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a small brown jumping insect that makes a loud, high sound",
+        "cn_def": "蟋蟀"
+      }
+    ]
+  },
   "cricket": {
     "pos": "n.",
     "en_def": "a small brown jumping insect that makes a loud, high sound",
@@ -801,18 +813,6 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "an outdoor game played with a bat and ball by two teams of eleven players",
         "cn_def": "板球"
-      }
-    ]
-  },
-  "crickets": {
-    "pos": "n.",
-    "en_def": "a small brown jumping insect that makes a loud, high sound",
-    "cn_def": "蟋蟀",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a small brown jumping insect that makes a loud, high sound",
-        "cn_def": "蟋蟀"
       }
     ]
   },
@@ -1136,7 +1136,7 @@ const LOOKUP = {
       }
     ]
   },
-  "dying out": {
+  "die out": {
     "pos": "v.",
     "en_def": "to become less common and finally stop existing",
     "cn_def": "滅絕；逐漸消失",
@@ -1148,7 +1148,7 @@ const LOOKUP = {
       }
     ]
   },
-  "die out": {
+  "dying out": {
     "pos": "v.",
     "en_def": "to become less common and finally stop existing",
     "cn_def": "滅絕；逐漸消失",

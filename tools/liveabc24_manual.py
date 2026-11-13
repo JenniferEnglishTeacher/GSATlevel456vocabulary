@@ -30,6 +30,24 @@ _A = {
     18: {41: "hardships"},
 }
 ANSWERS = {(B, u, i): a for u, d in _A.items() for i, a in d.items()}
+# Advanced units (same keys: unit -> entry number from 0 -> the text that fills the blank)
+_ADV = {
+    1: {2: "dependence", 6: "imaginations", 46: "gadgets"},
+    2: {5: "extras", 19: "tasks", 22: "dragging his feet", 32: "polish", 33: "nail polish", 37: "sets her apart", 45: "baggage", 49: "wrinkles"},
+    3: {49: "burst", 50: "burst", 53: "burst into"},
+    8: {2: "can't resist", 9: "differ", 20: "smoothed his shirt", 32: "unfold", 41: "pay attention to her", 49: "contents", 54: "to their hearts' content",
+        66: "prefer", 96: "describe"},
+    9: {15: "need"},
+    10: {71: "was charged with"},
+    12: {39: "delight"},
+    13: {15: "came into existence", 34: "weave", 37: "shot", 38: "shoot", 39: "shot", 42: "shot up", 43: "shot down"},
+    14: {4: "assured us that", 5: "assure them of", 13: "rely on", 59: "was guilty of"},
+    15: {4: "reward", 43: "stole"},
+    16: {18: "grinned", 21: "smile", 25: "hold her breath", 52: "seek"},
+    17: {2: "turned out", 21: "musical instruments", 51: "change"},
+    18: {19: "occurred to"},
+}
+ANSWERS.update({("advanced", u, i): a for u, d in _ADV.items() for i, a in d.items()})
 CN = {}
 SENTENCES = {
     (B, 2, 4): (f"White {U} {U} help the body fight infections.", "白血球幫助身體抵抗感染。"),

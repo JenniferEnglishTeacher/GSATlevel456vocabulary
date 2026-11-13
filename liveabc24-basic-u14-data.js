@@ -1399,7 +1399,7 @@ const MCQS = [
 ];
 
 const LOOKUP = {
-  "amaze": {
+  "amazed": {
     "pos": "v.",
     "en_def": "to surprise someone very much",
     "cn_def": "使驚訝；使驚奇",
@@ -1411,7 +1411,7 @@ const LOOKUP = {
       }
     ]
   },
-  "amazed": {
+  "amaze": {
     "pos": "v.",
     "en_def": "to surprise someone very much",
     "cn_def": "使驚訝；使驚奇",
@@ -2009,7 +2009,7 @@ const LOOKUP = {
       }
     ]
   },
-  "nutrients": {
+  "nutrient": {
     "pos": "n.",
     "en_def": "a substance that living things need in order to live and grow",
     "cn_def": "營養素",
@@ -2021,7 +2021,7 @@ const LOOKUP = {
       }
     ]
   },
-  "nutrient": {
+  "nutrients": {
     "pos": "n.",
     "en_def": "a substance that living things need in order to live and grow",
     "cn_def": "營養素",

@@ -1454,7 +1454,7 @@ const LOOKUP = {
       }
     ]
   },
-  "intensify": {
+  "intensified": {
     "pos": "v.",
     "en_def": "to become or make something stronger or greater",
     "cn_def": "加劇",
@@ -1466,7 +1466,7 @@ const LOOKUP = {
       }
     ]
   },
-  "intensified": {
+  "intensify": {
     "pos": "v.",
     "en_def": "to become or make something stronger or greater",
     "cn_def": "加劇",
@@ -1678,18 +1678,6 @@ const LOOKUP = {
       }
     ]
   },
-  "revision": {
-    "pos": "n.",
-    "en_def": "a change made to correct or improve something written",
-    "cn_def": "修訂",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a change made to correct or improve something written",
-        "cn_def": "修訂"
-      }
-    ]
-  },
   "revisions": {
     "pos": "n.",
     "en_def": "a change made to correct or improve something written",
@@ -1702,7 +1690,19 @@ const LOOKUP = {
       }
     ]
   },
-  "modified": {
+  "revision": {
+    "pos": "n.",
+    "en_def": "a change made to correct or improve something written",
+    "cn_def": "修訂",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a change made to correct or improve something written",
+        "cn_def": "修訂"
+      }
+    ]
+  },
+  "modify": {
     "pos": "v.",
     "en_def": "to change something slightly to improve it or make it more suitable",
     "cn_def": "修改",
@@ -1714,7 +1714,7 @@ const LOOKUP = {
       }
     ]
   },
-  "modify": {
+  "modified": {
     "pos": "v.",
     "en_def": "to change something slightly to improve it or make it more suitable",
     "cn_def": "修改",
@@ -1803,18 +1803,6 @@ const LOOKUP = {
       }
     ]
   },
-  "voiced": {
-    "pos": "v.",
-    "en_def": "to tell people your feelings or opinions",
-    "cn_def": "表明意見",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to tell people your feelings or opinions",
-        "cn_def": "表明意見"
-      }
-    ]
-  },
   "voice": {
     "pos": "v.",
     "en_def": "to tell people your feelings or opinions",
@@ -1834,6 +1822,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "the sounds a person makes when speaking or singing",
         "cn_def": "聲音"
+      }
+    ]
+  },
+  "voiced": {
+    "pos": "v.",
+    "en_def": "to tell people your feelings or opinions",
+    "cn_def": "表明意見",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to tell people your feelings or opinions",
+        "cn_def": "表明意見"
       }
     ]
   },
@@ -1909,7 +1909,7 @@ const LOOKUP = {
       }
     ]
   },
-  "voice your opinion": {
+  "voice one's opinion": {
     "pos": "phr.",
     "en_def": "to say what you think about something",
     "cn_def": "發表意見",
@@ -1921,7 +1921,7 @@ const LOOKUP = {
       }
     ]
   },
-  "voice one's opinion": {
+  "voice your opinion": {
     "pos": "phr.",
     "en_def": "to say what you think about something",
     "cn_def": "發表意見",
@@ -1993,6 +1993,18 @@ const LOOKUP = {
       }
     ]
   },
+  "prove": {
+    "pos": "v.",
+    "en_def": "to use facts to show that something is true",
+    "cn_def": "證明",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to use facts to show that something is true",
+        "cn_def": "證明"
+      }
+    ]
+  },
   "proved": {
     "pos": "v.",
     "en_def": "to use facts to show that something is true",
@@ -2007,18 +2019,6 @@ const LOOKUP = {
         "pos": "adj.",
         "en_def": "shown by facts to be true",
         "cn_def": "被證明的"
-      }
-    ]
-  },
-  "prove": {
-    "pos": "v.",
-    "en_def": "to use facts to show that something is true",
-    "cn_def": "證明",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to use facts to show that something is true",
-        "cn_def": "證明"
       }
     ]
   },
@@ -2075,7 +2075,7 @@ const LOOKUP = {
       }
     ]
   },
-  "have no comment on/about": {
+  "had no comment on": {
     "pos": "phr.",
     "en_def": "to refuse to say anything about a subject",
     "cn_def": "對…無可評論",
@@ -2087,7 +2087,7 @@ const LOOKUP = {
       }
     ]
   },
-  "had no comment on": {
+  "have no comment on/about": {
     "pos": "phr.",
     "en_def": "to refuse to say anything about a subject",
     "cn_def": "對…無可評論",
@@ -2123,7 +2123,7 @@ const LOOKUP = {
       }
     ]
   },
-  "implication": {
+  "implications": {
     "pos": "n.",
     "en_def": "a possible effect or result of an action; something suggested but not said directly",
     "cn_def": "暗示",
@@ -2135,7 +2135,7 @@ const LOOKUP = {
       }
     ]
   },
-  "implications": {
+  "implication": {
     "pos": "n.",
     "en_def": "a possible effect or result of an action; something suggested but not said directly",
     "cn_def": "暗示",

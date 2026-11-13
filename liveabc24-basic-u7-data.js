@@ -974,7 +974,7 @@ const LOOKUP = {
       }
     ]
   },
-  "in one's spare time": {
+  "in her spare time": {
     "pos": "phr.",
     "en_def": "during time when one is not working or busy.",
     "cn_def": "在某人的空閒時間",
@@ -986,7 +986,7 @@ const LOOKUP = {
       }
     ]
   },
-  "in her spare time": {
+  "in one's spare time": {
     "pos": "phr.",
     "en_def": "during time when one is not working or busy.",
     "cn_def": "在某人的空閒時間",
@@ -1128,7 +1128,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tourists": {
+  "tourist": {
     "pos": "n.",
     "en_def": "a person who travels to a place for pleasure.",
     "cn_def": "遊客",
@@ -1140,7 +1140,7 @@ const LOOKUP = {
       }
     ]
   },
-  "tourist": {
+  "tourists": {
     "pos": "n.",
     "en_def": "a person who travels to a place for pleasure.",
     "cn_def": "遊客",
@@ -1229,7 +1229,7 @@ const LOOKUP = {
       }
     ]
   },
-  "reach a goal": {
+  "reach her goal": {
     "pos": "phr.",
     "en_def": "to successfully achieve something one has been trying to do.",
     "cn_def": "達成目標",
@@ -1241,7 +1241,7 @@ const LOOKUP = {
       }
     ]
   },
-  "reach her goal": {
+  "reach a goal": {
     "pos": "phr.",
     "en_def": "to successfully achieve something one has been trying to do.",
     "cn_def": "達成目標",

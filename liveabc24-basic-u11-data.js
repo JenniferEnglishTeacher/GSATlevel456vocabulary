@@ -976,7 +976,7 @@ const LOOKUP = {
       }
     ]
   },
-  "focus on": {
+  "focus on / concentrate on": {
     "pos": "phr.",
     "en_def": "to give all your attention to one thing",
     "cn_def": "專注於",
@@ -988,7 +988,7 @@ const LOOKUP = {
       }
     ]
   },
-  "focus on / concentrate on": {
+  "focus on": {
     "pos": "phr.",
     "en_def": "to give all your attention to one thing",
     "cn_def": "專注於",
@@ -1173,7 +1173,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ranging from": {
+  "ranging from clothing to": {
     "pos": "phr.",
     "en_def": "including everything between two stated limits",
     "cn_def": "範圍從…到…",
@@ -1185,7 +1185,7 @@ const LOOKUP = {
       }
     ]
   },
-  "ranging from clothing to": {
+  "ranging from": {
     "pos": "phr.",
     "en_def": "including everything between two stated limits",
     "cn_def": "範圍從…到…",

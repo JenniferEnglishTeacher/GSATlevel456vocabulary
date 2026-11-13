@@ -1344,6 +1344,18 @@ const LOOKUP = {
       }
     ]
   },
+  "claims": {
+    "pos": "v.",
+    "en_def": "to say that something is true, although it has not been proved",
+    "cn_def": "聲稱；宣稱",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to say that something is true, although it has not been proved",
+        "cn_def": "聲稱；宣稱"
+      }
+    ]
+  },
   "claim": {
     "pos": "v.",
     "en_def": "to say that something is true, although it has not been proved",
@@ -1358,18 +1370,6 @@ const LOOKUP = {
         "pos": "v.",
         "en_def": "to ask for something, especially money, because you have a right to it",
         "cn_def": "要求；索賠"
-      }
-    ]
-  },
-  "claims": {
-    "pos": "v.",
-    "en_def": "to say that something is true, although it has not been proved",
-    "cn_def": "聲稱；宣稱",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to say that something is true, although it has not been proved",
-        "cn_def": "聲稱；宣稱"
       }
     ]
   },
@@ -1866,18 +1866,6 @@ const LOOKUP = {
       }
     ]
   },
-  "a sense of responsibility": {
-    "pos": "phr.",
-    "en_def": "the feeling that you must do your duty and can be trusted",
-    "cn_def": "責任感",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "the feeling that you must do your duty and can be trusted",
-        "cn_def": "責任感"
-      }
-    ]
-  },
   "sense of responsibility": {
     "pos": "phr.",
     "en_def": "the feeling that you must do your duty and can be trusted",
@@ -1890,7 +1878,19 @@ const LOOKUP = {
       }
     ]
   },
-  "a sense of humor": {
+  "a sense of responsibility": {
+    "pos": "phr.",
+    "en_def": "the feeling that you must do your duty and can be trusted",
+    "cn_def": "責任感",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "the feeling that you must do your duty and can be trusted",
+        "cn_def": "責任感"
+      }
+    ]
+  },
+  "sense of humor": {
     "pos": "phr.",
     "en_def": "the ability to find things funny or make people laugh",
     "cn_def": "幽默感",
@@ -1902,7 +1902,7 @@ const LOOKUP = {
       }
     ]
   },
-  "sense of humor": {
+  "a sense of humor": {
     "pos": "phr.",
     "en_def": "the ability to find things funny or make people laugh",
     "cn_def": "幽默感",

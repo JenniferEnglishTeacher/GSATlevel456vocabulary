@@ -1263,7 +1263,7 @@ const LOOKUP = {
       }
     ]
   },
-  "to one's grief": {
+  "to his grief": {
     "pos": "phr.",
     "en_def": "used to say that something makes someone very sad",
     "cn_def": "令某人悲傷",
@@ -1275,7 +1275,7 @@ const LOOKUP = {
       }
     ]
   },
-  "to his grief": {
+  "to one's grief": {
     "pos": "phr.",
     "en_def": "used to say that something makes someone very sad",
     "cn_def": "令某人悲傷",
@@ -1412,6 +1412,18 @@ const LOOKUP = {
       }
     ]
   },
+  "feel like + ving": {
+    "pos": "phr.",
+    "en_def": "to want to do something",
+    "cn_def": "想要做某事",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to want to do something",
+        "cn_def": "想要做某事"
+      }
+    ]
+  },
   "feel like": {
     "pos": "phr.",
     "en_def": "to want to do something",
@@ -1429,18 +1441,6 @@ const LOOKUP = {
       }
     ]
   },
-  "feel like + ving": {
-    "pos": "phr.",
-    "en_def": "to want to do something",
-    "cn_def": "想要做某事",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "to want to do something",
-        "cn_def": "想要做某事"
-      }
-    ]
-  },
   "feels like": {
     "pos": "phr.",
     "en_def": "to seem to be something; to give the impression of",
@@ -1453,7 +1453,7 @@ const LOOKUP = {
       }
     ]
   },
-  "weep": {
+  "wept": {
     "pos": "v.",
     "en_def": "to cry, usually because you are sad",
     "cn_def": "哭泣",
@@ -1465,7 +1465,7 @@ const LOOKUP = {
       }
     ]
   },
-  "wept": {
+  "weep": {
     "pos": "v.",
     "en_def": "to cry, usually because you are sad",
     "cn_def": "哭泣",

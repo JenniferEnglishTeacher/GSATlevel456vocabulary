@@ -212,6 +212,8 @@ for lv, units in R.items():
             cn = cn or CN.get((lv, int(u), key), "")
             mkey = (lv, int(u), key) if (lv, int(u), key) in SENTENCES or (lv, int(u), key) in ANSWERS else (lv, int(u), len(entries))
             sent = re.sub(r"(_{3,})(?!(?:s|es|ies|ed|d|ing)\b)(?=[A-Za-z])", r"\1 ", sent) if BOOK != "3-5" else sent      # "__________children"
+            if BOOK != "3-5":       # "__________ ed", "__________ s": the ending belongs to the blank
+                sent = re.sub(r"(_{3,}) (?:p(?=ed\b))?(ed|d|s|es|ing)\b", r"\1\2", sent)
             if mkey in SENTENCES:
                 if SENTENCES[mkey] is None:
                     continue

@@ -1326,7 +1326,7 @@ const LOOKUP = {
       }
     ]
   },
-  "confirmed": {
+  "confirm": {
     "pos": "v.",
     "en_def": "to say or show that something is definitely true",
     "cn_def": "確認；證實",
@@ -1338,7 +1338,7 @@ const LOOKUP = {
       }
     ]
   },
-  "confirm": {
+  "confirmed": {
     "pos": "v.",
     "en_def": "to say or show that something is definitely true",
     "cn_def": "確認；證實",
@@ -1482,7 +1482,7 @@ const LOOKUP = {
       }
     ]
   },
-  "reduction in...": {
+  "reduction": {
     "pos": "n.",
     "en_def": "a decrease in the amount or size of something",
     "cn_def": "減少；降低",
@@ -1494,7 +1494,7 @@ const LOOKUP = {
       }
     ]
   },
-  "reduction": {
+  "reduction in...": {
     "pos": "n.",
     "en_def": "a decrease in the amount or size of something",
     "cn_def": "減少；降低",

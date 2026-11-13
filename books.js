@@ -1270,6 +1270,57 @@ window.VOCAB_ZONES = {
   },
   "blurb": "words & phrases by unit 各單元單字片語"
  },
+ "ka": {
+  "book": "liveabc24",
+  "prefix": "ka",
+  "tag": "LiveABC2-4 A",
+  "name": "LiveABC Level 2–4 Advanced",
+  "short": "Advanced",
+  "num": "A",
+  "levelLabel": "LiveABC 2-4 Advanced",
+  "cls": "va",
+  "family": false,
+  "headLabel": "",
+  "tile": "LiveABC Level 2–4 · Advanced",
+  "unitName": "Unit",
+  "data": "ka-dashboard-data.js",
+  "global": "KA_DASHBOARD_UNITS",
+  "page": "ka-unit{u}.html",
+  "quiz": "liveabc24-advanced-u{u}.html",
+  "units": [
+   1,
+   2,
+   3,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18
+  ],
+  "names": {
+   "1": "be dependent on – gadget",
+   "2": "handy – wrinkle",
+   "3": "invention – all thumbs",
+   "8": "resist – reluctantly",
+   "9": "saying – wealth",
+   "10": "vocabulary – in conclusion",
+   "11": "native – endangered species",
+   "12": "enthusiasm – make a difference",
+   "13": "magnificent – adulthood",
+   "14": "assure – be guilty of",
+   "15": "prominent – significance",
+   "16": "similar – economic depression",
+   "17": "annual – remain cheerful",
+   "18": "journey – guided us to"
+  },
+  "blurb": "words & phrases by unit 各單元單字片語"
+ },
  "j": {
   "book": "j2000",
   "prefix": "j",
@@ -2256,7 +2307,8 @@ window.VOCAB_BOOKS = [
   "id": "liveabc24",
   "name": "LiveABC Level 2–4",
   "zones": [
-   "kb"
+   "kb",
+   "ka"
   ]
  },
  {

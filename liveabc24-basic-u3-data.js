@@ -1175,18 +1175,6 @@ const LOOKUP = {
       }
     ]
   },
-  "poses a severe risk": {
-    "pos": "phr.",
-    "en_def": "to create a possibility of harm for someone or something",
-    "cn_def": "造成風險；帶來危險",
-    "combined": [
-      {
-        "pos": "phr.",
-        "en_def": "to create a possibility of harm for someone or something",
-        "cn_def": "造成風險；帶來危險"
-      }
-    ]
-  },
   "pose a risk to": {
     "pos": "phr.",
     "en_def": "to create a possibility of harm for someone or something",
@@ -1199,7 +1187,19 @@ const LOOKUP = {
       }
     ]
   },
-  "pose a threat to": {
+  "poses a severe risk": {
+    "pos": "phr.",
+    "en_def": "to create a possibility of harm for someone or something",
+    "cn_def": "造成風險；帶來危險",
+    "combined": [
+      {
+        "pos": "phr.",
+        "en_def": "to create a possibility of harm for someone or something",
+        "cn_def": "造成風險；帶來危險"
+      }
+    ]
+  },
+  "poses a significant threat to": {
     "pos": "phr.",
     "en_def": "to be a possible danger to someone or something",
     "cn_def": "對...構成威脅",
@@ -1211,7 +1211,7 @@ const LOOKUP = {
       }
     ]
   },
-  "poses a significant threat to": {
+  "pose a threat to": {
     "pos": "phr.",
     "en_def": "to be a possible danger to someone or something",
     "cn_def": "對...構成威脅",
@@ -1420,7 +1420,7 @@ const LOOKUP = {
       }
     ]
   },
-  "harsh comment": {
+  "harsh comments": {
     "pos": "phr.",
     "en_def": "an unkind and severe remark that criticizes someone",
     "cn_def": "刻薄的評論；嚴厲的批評",
@@ -1432,7 +1432,7 @@ const LOOKUP = {
       }
     ]
   },
-  "harsh comments": {
+  "harsh comment": {
     "pos": "phr.",
     "en_def": "an unkind and severe remark that criticizes someone",
     "cn_def": "刻薄的評論；嚴厲的批評",
@@ -1456,6 +1456,18 @@ const LOOKUP = {
       }
     ]
   },
+  "chemicals": {
+    "pos": "n.",
+    "en_def": "a substance made or used in chemistry",
+    "cn_def": "化學製品；化學藥品",
+    "combined": [
+      {
+        "pos": "n.",
+        "en_def": "a substance made or used in chemistry",
+        "cn_def": "化學製品；化學藥品"
+      }
+    ]
+  },
   "chemical": {
     "pos": "n.",
     "en_def": "a substance made or used in chemistry",
@@ -1470,18 +1482,6 @@ const LOOKUP = {
         "pos": "adj.",
         "en_def": "relating to chemistry or chemicals",
         "cn_def": "化學的"
-      }
-    ]
-  },
-  "chemicals": {
-    "pos": "n.",
-    "en_def": "a substance made or used in chemistry",
-    "cn_def": "化學製品；化學藥品",
-    "combined": [
-      {
-        "pos": "n.",
-        "en_def": "a substance made or used in chemistry",
-        "cn_def": "化學製品；化學藥品"
       }
     ]
   },
@@ -1509,18 +1509,6 @@ const LOOKUP = {
       }
     ]
   },
-  "caused": {
-    "pos": "v.",
-    "en_def": "to make something happen, especially something bad",
-    "cn_def": "引起；導致",
-    "combined": [
-      {
-        "pos": "v.",
-        "en_def": "to make something happen, especially something bad",
-        "cn_def": "引起；導致"
-      }
-    ]
-  },
   "cause": {
     "pos": "v.",
     "en_def": "to make something happen, especially something bad",
@@ -1535,6 +1523,18 @@ const LOOKUP = {
         "pos": "n.",
         "en_def": "the person or thing that makes something happen",
         "cn_def": "原因；起因"
+      }
+    ]
+  },
+  "caused": {
+    "pos": "v.",
+    "en_def": "to make something happen, especially something bad",
+    "cn_def": "引起；導致",
+    "combined": [
+      {
+        "pos": "v.",
+        "en_def": "to make something happen, especially something bad",
+        "cn_def": "引起；導致"
       }
     ]
   },
@@ -1735,7 +1735,7 @@ const LOOKUP = {
       }
     ]
   },
-  "prevent children from": {
+  "prevent ... from": {
     "pos": "phr.",
     "en_def": "to stop someone from doing something or stop something from happening to them",
     "cn_def": "預防...免於",
@@ -1747,7 +1747,7 @@ const LOOKUP = {
       }
     ]
   },
-  "prevent ... from": {
+  "prevent children from": {
     "pos": "phr.",
     "en_def": "to stop someone from doing something or stop something from happening to them",
     "cn_def": "預防...免於",
