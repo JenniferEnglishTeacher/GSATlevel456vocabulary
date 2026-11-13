@@ -152,6 +152,12 @@ function buildBoard(book) {
           <a class="mini-test" href="${cfg.quizPage(u.unit)}" title="Spelling + 30 MCQ; the result is recorded 拼字＋選擇題，記錄成績">✏️ Quiz</a>
         </div>
       </div>`;
+    if (/^https?:/.test(cfg.quiz)) { // this book's quiz is kept on its own site
+      const link = section.querySelector(".mini-test");
+      link.target = "_blank";
+      link.rel = "noopener";
+      link.title = "Opens this unit's quiz on its own site 另開視窗到該單元的線上測驗";
+    }
     const theme = document.createElement("p");
     theme.className = "unit-theme";
     theme.textContent = `${u.theme} · ${u.cards.length} ${cfg.family ? "entries" : "words"}`;

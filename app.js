@@ -125,6 +125,12 @@ function renderQuizLinks() {
   recorded.href = SETCFG.quizPage(unit);
   recorded.textContent = "✏️ Online Quiz 線上測驗（拼字＋選擇題，記錄成績）";
   recorded.title = "Spelling + 30 MCQ. Your result is recorded for your teacher.";
+  if (/^https?:/.test(SETCFG.quiz)) { // this book's quiz is kept on its own site
+    recorded.target = "_blank";
+    recorded.rel = "noopener";
+    recorded.textContent = "✏️ Online Quiz 線上測驗（選擇題，另開視窗）";
+    recorded.title = "Opens this unit's quiz on its own site in a new tab.";
+  }
   els.quizLinks.replaceChildren(practice, recorded);
 }
 

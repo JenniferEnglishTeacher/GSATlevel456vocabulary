@@ -5,7 +5,7 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113g"
+V = "20261113h"
 d = json.load(open(DATA, encoding="utf8"))
 J = json.load(open(os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k.json"), encoding="utf8"))  # 國中小基礎2000字 groups
 EXTRA = os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k_extra.json")  # groups converted by tools/convert_g.py
@@ -165,7 +165,7 @@ for L in LEVELS:
 RUN = re.compile(r"\{\{BLANK\}\}(?:\s+\{\{BLANK\}\})*")
 
 
-def emit_zone(zid, book, back, unit_word, groups, base_of, heading, global_name):
+def emit_zone(zid, book, back, unit_word, groups, base_of, heading, global_name, make_quiz=True):
     """Write flashcards, MCQ practice, the online quiz and the dashboard data for every group of one zone.
     groups: {number: data}; base_of(n): quiz file stem; heading: title printed on the quiz page."""
     order = sorted(groups)
@@ -209,6 +209,8 @@ def emit_zone(zid, book, back, unit_word, groups, base_of, heading, global_name)
               f"window.LOCAL_LOOKUP = Object.assign({{}}, window.LOCAL_LOOKUP || {{}}, {js(local)});\n")
         write(f"{zid}-unit{g}.html", card_page(zid, g, title, back, False))
         dash.append({"unit": g, "theme": theme, "cards": dcards})
+        if not make_quiz:      # this book's online quiz lives on another site; the registry links to it
+            continue
         base = base_of(g)
         src_html = os.path.join(QUIZ, base + ".html")
         if os.path.exists(src_html) and not G.get("generated"):
@@ -247,6 +249,15 @@ GEPT = {int(k): v for k, v in json.load(open(GEPT_FILE, encoding="utf8")).items(
 if GEPT:
     ggroups, gnames = emit_zone("g", "捷進全民英檢初級單字書", "捷進GEPT初級", "Lesson", GEPT,
                                 lambda g: f"gept-lesson{g}", "捷進全民英檢初級單字練習", "G_DASHBOARD_UNITS")
+
+# LiveABC Level 3–5 (zones "lb" Basic, "la" Advanced): converted by tools/liveabc_convert.py; quizzes stay on their own site
+LAB_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "lab35.json")
+LAB = json.load(open(LAB_FILE, encoding="utf8")) if os.path.exists(LAB_FILE) else {}
+lab_zones = {}
+for lv, zid in (("basic", "lb"), ("advanced", "la")):
+    if lv in LAB:
+        lab_zones[lv] = emit_zone(zid, f"LiveABC Level 3–5 {lv.title()}", f"LiveABC 3–5 {lv.title()}", "Unit", {int(k): v for k, v in LAB[lv].items()},
+                                  None, "", f"{zid.upper()}_DASHBOARD_UNITS", make_quiz=False)
 
 # AWL Sublists 1–10 (zones "a1".."a10"): each sublist split into parts of about 20 entries by tools/awl_convert.py
 AWL_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "awl.json")
@@ -294,8 +305,22 @@ for n, (order, part_names) in awl_zones.items():
         "unitName": "Part", "data": f"a{n}-dashboard-data.js", "global": f"A{n}_DASHBOARD_UNITS", "page": f"a{n}-unit{{u}}.html", "quiz": f"awl{n}-part{{u}}.html",
         "units": order, "names": {str(g): part_names[g] for g in order}, "blurb": "about 20 words & phrases per part 每部分約 20 個",
     }
+for lv, zid in (("basic", "lb"), ("advanced", "la")):
+    if lv in lab_zones:
+        order, unit_names = lab_zones[lv]
+        zones[zid] = {
+            "book": "liveabc35", "prefix": zid, "tag": f"LiveABC {lv[0].upper()}", "name": f"LiveABC Level 3–5 {lv.title()}", "short": lv.title(),
+            "num": lv[0].upper(), "levelLabel": f"LiveABC 3-5 {lv.title()}", "cls": "hot" if lv == "basic" else "va", "family": False,
+            "headLabel": "", "tile": f"LiveABC Level 3–5 · {lv.title()}", "unitName": "Unit",
+            "data": f"{zid}-dashboard-data.js", "global": f"{zid.upper()}_DASHBOARD_UNITS", "page": f"{zid}-unit{{u}}.html",
+            "quiz": f"https://jenniferenglishteacher.github.io/liveABCvocabLevel3-5/{lv}-u{{u}}.html",
+            "units": order, "names": {str(g): unit_names[g] for g in order}, "blurb": "words & phrases by unit 各單元單字片語",
+        }
+if lab_zones:
+    books.insert(1, {"id": "liveabc35", "name": "LiveABC Level 3–5", "zones": [z for z in ("lb", "la") if z in zones]})
 if awl_zones:
     books.append({"id": "awl", "name": "AWL 學術單字 Sublist 1–10", "zones": [f"a{n}" for n in awl_zones]})
+zones = {z: zones[z] for b in books for z in b["zones"]}
 write("books.js",
       "// Registry of every vocabulary book on this site. A zone is one tab of word groups; a book is a set of zones.\n"
       "// Review keys are \"<prefix>-<group>:<cardIndex>\". To add a book: add its zones here and its data files.\n"
@@ -433,6 +458,12 @@ function renderQuizLinks() {
   recorded.href = SETCFG.quizPage(unit);
   recorded.textContent = "✏️ Online Quiz 線上測驗（拼字＋選擇題，記錄成績）";
   recorded.title = "Spelling + 30 MCQ. Your result is recorded for your teacher.";
+  if (/^https?:/.test(SETCFG.quiz)) { // this book's quiz is kept on its own site
+    recorded.target = "_blank";
+    recorded.rel = "noopener";
+    recorded.textContent = "✏️ Online Quiz 線上測驗（選擇題，另開視窗）";
+    recorded.title = "Opens this unit's quiz on its own site in a new tab.";
+  }
   els.quizLinks.replaceChildren(practice, recorded);
 }
 

@@ -1,6 +1,6 @@
 # GSATlevel456vocabulary
 
-Vocabulary Board — 學測6000字 Level 4 · 5 · 6 (word-family edition) · 國中小基礎2000字 · 捷進全民英檢初級單字書 · AWL Sublists 1–10
+Vocabulary Board — 學測6000字 Level 4 · 5 · 6 (word-family edition) · LiveABC Level 3–5 (Basic / Advanced) · 國中小基礎2000字 · 捷進全民英檢初級單字書 · AWL Sublists 1–10
 
 Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 
@@ -18,4 +18,5 @@ Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 | `books.js` | Registry of every book and zone on the site (add a new book here) |
 | `j-unitG.html` + `j-unitG-data.js`, `groupG.html` + `-data.js` + `-app.js`, `j-dashboard-data.js` | 國中小基礎2000字: flashcards + MCQ practice, online quiz, and dashboard data for Group G |
 | `g-unitN.html` + `g-unitN-data.js`, `gept-lessonN.html` + `-data.js` + `-app.js`, `g-dashboard-data.js` | 捷進全民英檢初級單字書: flashcards + MCQ practice, online quiz, and dashboard data for Lesson N |
+| `lb-unitN.html` / `la-unitN.html` + `-data.js`, `lb-`/`la-dashboard-data.js` | LiveABC Level 3–5 Basic / Advanced, Unit N: flashcards + MCQ practice (tracked). The ✏️ Quiz link opens the unit's existing page in the `liveABCvocabLevel3-5` repo. Built by `tools/liveabc_extract.js` + `tools/liveabc_convert.py` |
 | `aS-unitP.html` + `aS-unitP-data.js`, `awlS-partP.html` + `-data.js` + `-app.js`, `aS-dashboard-data.js` | AWL Sublist S, Part P: flashcards + MCQ practice, online quiz, and dashboard data |
