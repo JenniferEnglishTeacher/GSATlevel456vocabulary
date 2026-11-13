@@ -1,6 +1,6 @@
 # GSATlevel456vocabulary
 
-Vocabulary Board — 學測6000字 Level 4 · 5 · 6 (word-family edition) · LiveABC Level 3–5 (Basic / Advanced) · 2001–3000字 LiveABC Level 3 · LiveABC Level 2–4 · 國中小基礎2000字 · 國中小1200字 · 捷進全民英檢初級單字書 · AWL Sublists 1–10
+Vocabulary Board — 學測6000字 Level 4 · 5 · 6 (word-family edition) · LiveABC Level 3–5 (Basic / Advanced) · 2001–3000字 LiveABC Level 3 · LiveABC Level 2–4 · 國中小基礎2000字 · 國中小1200字 · 國中小進階800字 · 捷進全民英檢初級單字書 · AWL Sublists 1–10
 
 Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 
@@ -22,4 +22,5 @@ Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 | `tU-unitP.html` + `tU-unitP-data.js`, `level3-unitU-partP.html` + `-data.js` + `-app.js`, `tU-dashboard-data.js` | 2001–3000字 Level 3, Unit U Part P: flashcards + MCQ practice, online quiz (spelling + 25 MCQ), dashboard data. Built from the Vocabulary Learning Guide worksheets by `tools/l3_dump.py` + `tools/l3_convert.py` (hand-checked blanks in `tools/l3_manual.py`) |
 | `kb-unitN.html` + `-data.js`, `liveabc24-basic-uN.html` + `-data.js` + `-app.js`, `kb-dashboard-data.js` | LiveABC Level 2–4 Basic, Unit N (Advanced will use `ka-` / `liveabc24-advanced-`): flashcards + MCQ practice, online quiz, dashboard data. Built by `tools/liveabc_convert.py --book=2-4` with the hand-checked answers in `tools/liveabc24_manual.py` |
 | `e-unitN.html` + `-data.js`, `e1200-unitN.html` + `-data.js` + `-app.js`, `e-dashboard-data.js` | 國中小1200字, Unit N (39 themed units, 1,331 words): flashcards + MCQ practice, online quiz, dashboard data. Built by `tools/e1200_convert.py` from the Q&A worksheet docx; the multiple-choice questions are generated (same Q&A + a Chinese hint + same-part-of-speech options) |
+| `h-unitN.html` + `-data.js`, `adv800-unitN.html` + `-data.js` + `-app.js`, `h-dashboard-data.js` | 國中小進階800字, Unit N (40 alphabetical units, 804 words): flashcards + MCQ practice, online quiz, dashboard data. Built by `tools/adv800_convert.py` from the word sheet (xlsx); inflected answers are listed by hand in that script, and the multiple-choice questions are generated like the 1200 book |
 | `aS-unitP.html` + `aS-unitP-data.js`, `awlS-partP.html` + `-data.js` + `-app.js`, `aS-dashboard-data.js` | AWL Sublist S, Part P: flashcards + MCQ practice, online quiz, and dashboard data |

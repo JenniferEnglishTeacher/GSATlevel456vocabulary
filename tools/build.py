@@ -5,7 +5,7 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113q"
+V = "20261113r"
 d = json.load(open(DATA, encoding="utf8"))
 J = json.load(open(os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k.json"), encoding="utf8"))  # 國中小基礎2000字 groups
 EXTRA = os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k_extra.json")  # groups converted by tools/convert_g.py
@@ -291,6 +291,14 @@ if os.path.exists(E1200_FILE):
     e1200_zone = emit_zone("e", "國中小1200字", "國中小1200字", "Unit", {int(k): v for k, v in E1200.items()},
                            lambda g: f"e1200-unit{g}", "國中小1200字 Q&A 單字練習", "E_DASHBOARD_UNITS")
 
+# 國中小進階800字 (zone "h"): 40 alphabetical units from Jennifer's word sheet (tools/adv800_convert.py)
+ADV800_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "adv800.json")
+adv800_zone = None
+if os.path.exists(ADV800_FILE):
+    ADV800 = json.load(open(ADV800_FILE, encoding="utf8"))
+    adv800_zone = emit_zone("h", "國中小進階800字", "國中小進階800字", "Unit", {int(k): v for k, v in ADV800.items()},
+                            lambda g: f"adv800-unit{g}", "國中小進階800字 單字練習", "H_DASHBOARD_UNITS")
+
 # AWL Sublists 1–10 (zones "a1".."a10"): each sublist split into parts of about 20 entries by tools/awl_convert.py
 AWL_FILE = os.path.join(os.path.dirname(os.path.abspath(DATA)), "awl.json")
 AWL = json.load(open(AWL_FILE, encoding="utf8")) if os.path.exists(AWL_FILE) else {}
@@ -393,6 +401,16 @@ if e1200_zone:
     }
     at = next((i for i, b in enumerate(books) if b["id"] == "j2000"), len(books) - 1) + 1
     books.insert(at, {"id": "e1200", "name": "國中小1200字", "zones": ["e"]})
+if adv800_zone:
+    order, unit_names = adv800_zone
+    zones["h"] = {
+        "book": "adv800", "prefix": "h", "tag": "800", "name": "國中小進階800字", "short": "進階 800", "num": "800", "levelLabel": "國中小進階800",
+        "cls": "hot", "family": False, "headLabel": "", "tile": "國中小進階800字", "unitName": "Unit",
+        "data": "h-dashboard-data.js", "global": "H_DASHBOARD_UNITS", "page": "h-unit{u}.html", "quiz": "adv800-unit{u}.html",
+        "units": order, "names": {str(g): unit_names[g] for g in order}, "blurb": "about 20 words per unit 每單元約 20 字",
+    }
+    at = max(i for i, b in enumerate(books) if b["id"] in ("e1200", "j2000")) + 1
+    books.insert(at, {"id": "adv800", "name": "國中小進階800字", "zones": ["h"]})
 if awl_zones:
     books.append({"id": "awl", "name": "AWL 學術單字 Sublist 1–10", "zones": [f"a{n}" for n in awl_zones]})
 zones = {z: zones[z] for b in books for z in b["zones"]}
