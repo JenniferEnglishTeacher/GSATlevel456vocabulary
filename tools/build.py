@@ -5,9 +5,12 @@ Usage: build.py <all.json> <reference SAT site dir> <existing quiz repo dir> <ou
 import json, re, shutil, sys, os, html
 
 DATA, REF, QUIZ, OUT = sys.argv[1:5]
-V = "20261113d"
+V = "20261113e"
 d = json.load(open(DATA, encoding="utf8"))
 J = json.load(open(os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k.json"), encoding="utf8"))  # 國中小基礎2000字 groups
+EXTRA = os.path.join(os.path.dirname(os.path.abspath(DATA)), "b2k_extra.json")  # groups converted by tools/convert_g.py
+if os.path.exists(EXTRA):
+    J.update(json.load(open(EXTRA, encoding="utf8")))
 LEVELS = [4, 5, 6]
 BLANK = "__________"
 
@@ -169,12 +172,13 @@ for g in jgroups:
     jnames[g] = theme
     cards, dcards = [], []
     for e in G["VOCAB"]:
+        answer = e.get("answer") or e["word"]
         cards.append({
-            "word": e["word"], "answer": e["word"], "pos": e["pos"], "definition": e["en_def"], "chinese": e["cn_def"],
+            "word": e["word"], "answer": answer, "pos": e["pos"], "definition": e["en_def"], "chinese": e["cn_def"],
             "sentence": RUN.sub(BLANK, e["sentence"]), "translation": e["cn"],
             "lookup": {"english": e["en_def"], "chinese": e["cn_def"]},
         })
-        dcards.append({"w": e["word"], "p": e["pos"], "d": e["en_def"], "c": e["cn_def"], "s": RUN.sub(lambda _: e["word"], e["sentence"]), "t": e["cn"]})
+        dcards.append({"w": e["word"], "p": e["pos"], "d": e["en_def"], "c": e["cn_def"], "s": RUN.sub(lambda _: answer, e["sentence"]), "t": e["cn"]})
     quiz = [{
         "question": re.sub(r"_{3,}", BLANK, q["q"]),
         "options": [{"letter": "ABCD"[j], "text": o} for j, o in enumerate(q["options"])],
@@ -211,8 +215,18 @@ for g in jgroups:
         page = page.replace(f"Group {donor}<", f"Group {g}<").replace(f"group{donor}-", f"group{g}-")
         print("made quiz page", base, "from group", donor)
     write(base + ".html", patch_quiz_page(page, base, "j", g))
-    shutil.copyfile(os.path.join(QUIZ, base + "-data.js"), os.path.join(OUT, base + "-data.js"))
-    write(base + "-app.js", patch_quiz_app(open(os.path.join(QUIZ, base + "-app.js"), encoding="utf8").read(), base))
+    if G.get("generated"):
+        # Converted group: write its quiz data in the same shape as the other groups and reuse the newest quiz app.
+        vocab_out = [{k: v for k, v in e.items() if k != "answer"} for e in G["VOCAB"]]
+        write(base + "-data.js",
+              f"// Group {g} Quiz Data: {theme}\n// Converted from the grammar-pattern quiz for this group (tools/convert_g.py).\n"
+              f"const QUIZ_CONFIG = {js(G['QUIZ_CONFIG'], 2)};\n\nconst VOCAB = {js(vocab_out, 2)};\n\nconst MCQS = {js(G['MCQS'], 2)};\n\n"
+              f"const LOOKUP = {js(G['LOOKUP'], 2)};\n\nconst EXTRA_GLOSSES = {{}};\n")
+        qapp = open(os.path.join(QUIZ, "group49-app.js"), encoding="utf8").read().replace("Group 49 Quiz App Logic", f"Group {g} Quiz App Logic")
+        write(base + "-app.js", patch_quiz_app(qapp, base))
+    else:
+        shutil.copyfile(os.path.join(QUIZ, base + "-data.js"), os.path.join(OUT, base + "-data.js"))
+        write(base + "-app.js", patch_quiz_app(open(os.path.join(QUIZ, base + "-app.js"), encoding="utf8").read(), base))
 write("j-dashboard-data.js", f"// Auto-generated for the Unit Board — 國中小基礎2000字\nwindow.J_DASHBOARD_UNITS = {js(jdash)};\n")
 
 # ---------------------------------------------------------------- books.js: the registry every page reads

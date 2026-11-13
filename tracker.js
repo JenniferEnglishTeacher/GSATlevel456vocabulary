@@ -125,7 +125,11 @@
     if (state.studentName) setName(state.studentName);
     const tookP1 = state.mode !== "p2", tookP2 = state.mode !== "p1";
     const keyOf = word => {
-      const i = vocab.findIndex(v => v.word === word || v.answer === word);
+      let i = vocab.findIndex(v => v.word === word || v.answer === word);
+      if (i < 0) { // an inflected MCQ answer ("blocks"): find its question, which names the word it tests
+        const q = mcqs.find(m => m.options && m.options[m.answer] === word && Number.isInteger(m.vocabIndex));
+        if (q) i = q.vocabIndex;
+      }
       return { w: word, key: i >= 0 ? `${zone.prefix}-${group}:${i}` : "" };
     };
     const p1Wrong = tookP1 ? state.p1WrongWords : [];
