@@ -3,32 +3,20 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>學測6000字 Vocabulary Board · Level 4–6</title>
-  <link rel="stylesheet" href="styles.css?v=20261113b">
+  <title>Vocabulary Board · 學測6000字 Level 4–6 · 國中小基礎2000字</title>
+  <link rel="stylesheet" href="styles.css?v=20261113d">
 </head>
 <body data-tracker-ask>
   <main class="app-shell board-shell">
     <header class="board-hero">
-      <p class="eyebrow">教育部高中學測 6000 字 · Level 4 · Level 5 · Level 6 · Word Family 詞族版</p>
-      <h1>學測6000字 Vocabulary Board</h1>
+      <p class="eyebrow">學測 6000 字 Level 4 · 5 · 6（詞族版） · 國中小基礎 2000 字</p>
+      <h1>Vocabulary Board 單字學習板</h1>
       <p class="board-intro">Hover over any word to hear it and see its meaning. <b>🗂 Flashcards</b> opens a group's flashcards (example sentences); <b>double-click</b> any word to open its own flashcard. Click a word you find difficult once: it turns <b class="red-text">red</b> and goes on your review list (click again to remove). <b>Download Excel</b> saves your list.<br>滑過單字可聽發音、看解釋。按「🗂 Flashcards」進入該組字卡（例句）；<b>點兩下</b>任一單字直接開啟它的字卡。點一下不熟的單字會變紅色並加入複習清單（再點一下移除），按「Download Excel」可下載清單。</p>
-      <p class="legend-note"><b class="head-demo">粗體字</b> = the level's own word 該級單字；其他 = its word family 詞族（片語、衍生字、其他詞性）。</p>
+      <p class="legend-note" id="legendNote"><b class="head-demo">粗體字</b> = the level's own word 該級單字；其他 = its word family 詞族（片語、衍生字、其他詞性）。</p>
     </header>
 
-    <nav class="zone-tabs" role="tablist" aria-label="Levels">
-      <button class="zone-tab zone-barrons" type="button" role="tab" data-zone="l4" aria-controls="zone-l4">
-        <span class="zone-num">4</span>
-        <span class="zone-text"><strong>Level 4</strong><small id="l4Count">40 groups</small></span>
-      </button>
-      <button class="zone-tab zone-hot" type="button" role="tab" data-zone="l5" aria-controls="zone-l5">
-        <span class="zone-num">5</span>
-        <span class="zone-text"><strong>Level 5</strong><small id="l5Count">40 groups</small></span>
-      </button>
-      <button class="zone-tab zone-va" type="button" role="tab" data-zone="l6" aria-controls="zone-l6">
-        <span class="zone-num">6</span>
-        <span class="zone-text"><strong>Level 6</strong><small id="l6Count">40 groups</small></span>
-      </button>
-    </nav>
+    <nav class="book-tabs" id="bookTabs" aria-label="Books"></nav>
+    <nav class="zone-tabs" id="zoneTabs" role="tablist" aria-label="Levels"></nav>
 
     <div class="review-bar" id="reviewBar">
       <div class="review-count"><span id="reviewCount">0</span> word(s) on my review list <span class="zh">我的複習清單</span></div>
@@ -44,37 +32,17 @@
       <div class="review-preview" id="reviewPreview" hidden></div>
     </div>
 
-    <section class="zone-panel" id="zone-l4" role="tabpanel" aria-label="Level 4">
-      <div class="zone-head">
-        <h2>Level 4 <span>40 groups × 25 words + word families</span></h2>
-        <p><b>🗂 Flashcards</b> (or the group name) opens the group's flashcards; double-click a word to open its card; <b>📝 MCQ</b> = practice questions; <b>✏️ Quiz</b> = online quiz (spelling + MCQ, your result is recorded). 點「🗂 Flashcards」進入字卡，點兩下單字開該字字卡；📝 MCQ 是選擇題練習；✏️ Quiz 是線上測驗（拼字＋選擇題，會記錄成績）。</p>
-      </div>
-      <div class="unit-board" id="board-l4"><p class="board-loading">Loading… 載入中…</p></div>
-    </section>
-
-    <section class="zone-panel" id="zone-l5" role="tabpanel" aria-label="Level 5" hidden>
-      <div class="zone-head">
-        <h2>Level 5 <span>40 groups × 25 words + word families</span></h2>
-        <p><b>🗂 Flashcards</b> (or the group name) opens the group's flashcards; double-click a word to open its card; <b>📝 MCQ</b> = practice questions; <b>✏️ Quiz</b> = online quiz (spelling + MCQ, your result is recorded). 點「🗂 Flashcards」進入字卡，點兩下單字開該字字卡；📝 MCQ 是選擇題練習；✏️ Quiz 是線上測驗（拼字＋選擇題，會記錄成績）。</p>
-      </div>
-      <div class="unit-board" id="board-l5"><p class="board-loading">Loading… 載入中…</p></div>
-    </section>
-
-    <section class="zone-panel" id="zone-l6" role="tabpanel" aria-label="Level 6" hidden>
-      <div class="zone-head">
-        <h2>Level 6 <span>40 groups × 25 words + word families</span></h2>
-        <p><b>🗂 Flashcards</b> (or the group name) opens the group's flashcards; double-click a word to open its card; <b>📝 MCQ</b> = practice questions; <b>✏️ Quiz</b> = online quiz (spelling + MCQ, your result is recorded). 點「🗂 Flashcards」進入字卡，點兩下單字開該字字卡；📝 MCQ 是選擇題練習；✏️ Quiz 是線上測驗（拼字＋選擇題，會記錄成績）。</p>
-      </div>
-      <div class="unit-board" id="board-l6"><p class="board-loading">Loading… 載入中…</p></div>
-    </section>
+    <div id="zonePanels"></div>
     <a class="teacher-link" href="teacher.html">Teacher 教師專用</a>
   </main>
-  <script src="l4-dashboard-data.js?v=20261113b"></script>
-  <script src="l5-dashboard-data.js?v=20261113b"></script>
-  <script src="l6-dashboard-data.js?v=20261113b"></script>
+  <script src="books.js?v=20261113d"></script>
+  <script src="l4-dashboard-data.js?v=20261113d"></script>
+  <script src="l5-dashboard-data.js?v=20261113d"></script>
+  <script src="l6-dashboard-data.js?v=20261113d"></script>
+  <script src="j-dashboard-data.js?v=20261113d"></script>
   <script src="tracker-config.js?v=20261113c"></script>
-  <script src="tracker.js?v=20261113b"></script>
+  <script src="tracker.js?v=20261113d"></script>
   <script src="vendor/xlsx.full.min.js"></script>
-  <script src="dashboard.js?v=20261113b"></script>
+  <script src="dashboard.js?v=20261113d"></script>
 </body>
 </html>

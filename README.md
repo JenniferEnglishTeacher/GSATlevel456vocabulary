@@ -1,6 +1,6 @@
 # GSATlevel456vocabulary
 
-學測6000字 Vocabulary Board — Level 4 · 5 · 6 (word-family edition)
+Vocabulary Board — 學測6000字 Level 4 · 5 · 6 (word-family edition) and 國中小基礎2000字
 
 Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 
@@ -15,3 +15,5 @@ Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 | `tracker.js`, `tracker-config.js` | Sends each finished self-test and the ★ review list to the teacher's Google Sheet (web app address goes in `tracker-config.js`) |
 | `teacher.html` | Teacher page: student overview, test log, ★ lists, and a builder that turns mistaken words into a test link |
 | `tools/tracker-apps-script.gs` | Google Apps Script to paste into the tracker spreadsheet |
+| `books.js` | Registry of every book and zone on the site (add a new book here) |
+| `j-unitG.html` + `j-unitG-data.js`, `groupG.html` + `-data.js` + `-app.js`, `j-dashboard-data.js` | 國中小基礎2000字: flashcards + MCQ practice, online quiz, and dashboard data for Group G |

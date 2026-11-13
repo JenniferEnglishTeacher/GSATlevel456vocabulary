@@ -1,23 +1,27 @@
 const units = window.FLASHCARD_UNITS;
 const localLookup = window.LOCAL_LOOKUP || {};
 
-// Which level this page belongs to: 學測6000字 Level 4 / 5 / 6 (l4-unitN.html, l5-unitN.html, l6-unitN.html).
-const SET = ["l4", "l5", "l6"].includes(document.body.dataset.set) ? document.body.dataset.set : "l4";
+// Which zone this page belongs to (books.js lists every zone: 學測 Level 4/5/6, 國中小2000, …).
+const ZONES = window.VOCAB_ZONES || {};
+const SET = ZONES[document.body.dataset.set] ? document.body.dataset.set : Object.keys(ZONES)[0];
 const GSAT_INDEX = window.GSAT_INDEX || {};
-const GSAT_NAMES = window.GSAT_GROUP_NAMES || {};
-const makeSet = (n, cls) => ({
-  level: n, cls,
-  page: u => `l${n}-unit${u}.html`,
-  quizPage: u => `level${n}-group${String(u).padStart(2, "0")}.html`,
-  badge: u => `L${n}·${u}`,
-  label: u => `Level ${n} — Group ${u}`,
-  unitName: "Group",
-  count: (window.GSAT_COUNTS || {})[`l${n}`] || 40,
-  board: `index.html#l${n}`,
-  index: () => GSAT_INDEX[`l${n}`] || {}
+const fillPattern = (pattern, u) => pattern.replace("{u}", u).replace("{uu}", String(u).padStart(2, "0"));
+const SETS = {};
+Object.entries(ZONES).forEach(([id, z]) => {
+  SETS[id] = {
+    ...z,
+    level: z.levelLabel,
+    page: u => fillPattern(z.page, u),
+    quizPage: u => fillPattern(z.quiz, u),
+    badge: u => `${z.tag}·${u}`,
+    label: u => `${z.name} — Group ${u}`,
+    unitName: "Group",
+    board: `index.html#${id}`,
+    index: () => GSAT_INDEX[id] || {}
+  };
 });
-// cls picks the colour family already in styles.css: Level 4 teal (default), Level 5 orange ("hot"), Level 6 purple ("va").
-const SETS = { l4: makeSet(4, ""), l5: makeSet(5, "hot"), l6: makeSet(6, "va") };
+// Words inside a sentence are cross-linked only to zones of the same book.
+const BOOK_ZONES = Object.keys(SETS).filter(id => SETS[id].book === SETS[SET].book);
 const SETCFG = SETS[SET];
 
 const state = {
@@ -71,10 +75,10 @@ function currentCard() {
 }
 
 function init() {
-  for (let n = 1; n <= SETCFG.count; n += 1) {
+  for (const n of SETCFG.units) {
     const option = document.createElement("option");
     option.value = String(n);
-    const groupName = (GSAT_NAMES[SET] || [])[n - 1];
+    const groupName = SETCFG.names[n];
     option.textContent = groupName ? `${SETCFG.unitName} ${n} · ${groupName}` : `${SETCFG.unitName} ${n}`;
     els.unitSelect.append(option);
   }
@@ -246,7 +250,7 @@ function render() {
   if (card.isHead) {
     const tag = document.createElement("span");
     tag.className = "head-tag";
-    tag.textContent = `Level ${SETCFG.level} 單字`;
+    tag.textContent = SETCFG.headLabel;
     els.posTag.append(tag);
   }
   els.definition.textContent = card.definition;
@@ -293,7 +297,7 @@ function readStore(key, fallback) {
   try { return JSON.parse(localStorage.getItem(key) || "") || fallback; } catch (error) { return fallback; }
 }
 
-const KEY_PREFIX = `${SETCFG.level}-`; // review keys: "<level>-<group>:<cardIndex>"
+const KEY_PREFIX = `${SETCFG.prefix}-`; // review keys: "<zone prefix>-<group>:<cardIndex>"
 
 function rootsKey(realIndex) {
   return `${KEY_PREFIX}${state.unit}:${realIndex}`;
@@ -440,7 +444,7 @@ const CAMBRIDGE = "https://dictionary.cambridge.org/dictionary/english-chinese-t
 
 function renderSynonyms(card) {
   const list = cards();
-  const members = list.map((c, i) => ({ c, i })).filter(({ c }) => c.family === card.family && c !== card);
+  const members = SETCFG.family ? list.map((c, i) => ({ c, i })).filter(({ c }) => c.family === card.family && c !== card) : [];
   const label = document.createElement("span");
   label.className = "syn-label";
   label.textContent = "Word family 詞族: ";
@@ -486,7 +490,7 @@ function renderSynonyms(card) {
   link.title = `Open "${card.word}" in Cambridge Dictionary (英文-繁體中文)`;
   link.addEventListener("click", event => event.stopPropagation());
   dict.append(link);
-  els.synonyms.replaceChildren(label, ...chips, dict);
+  els.synonyms.replaceChildren(...(SETCFG.family ? [label, ...chips] : []), dict);
 }
 
 function createQuizSection() {
@@ -637,13 +641,15 @@ function buildForms(index) {
 }
 
 function buildBarronsForms() {
-  wordForms = { l4: buildForms(SETS.l4.index()), l5: buildForms(SETS.l5.index()), l6: buildForms(SETS.l6.index()) };
+  wordForms = {};
+  BOOK_ZONES.forEach(id => { wordForms[id] = buildForms(SETS[id].index()); });
   barronsPhrases.sort((a, b) => b.length - a.length);
 }
 
 // Generated forms that look like a headword but mean something else.
-const NOT_WORD = { l4: new Set(), l5: new Set(), l6: new Set() };
-const SET_ORDER = [SET, ...Object.keys(SETS).filter(s => s !== SET)];
+const NOT_WORD = {};
+Object.keys(SETS).forEach(id => { NOT_WORD[id] = new Set(); });
+const SET_ORDER = [SET, ...BOOK_ZONES.filter(s => s !== SET)];
 
 // Roots pages: the card's own word (and simple inflections) is highlighted as the target even when no other book has it.
 function isOwnWordForm(token, word, forms = []) {
@@ -1038,17 +1044,17 @@ function openPhotoZoom() {}
 
 function makeIllustration(card) {
   const ink = "#17202a", coral = "#c6533e", cream = "#fff5d6";
-  const tone = { l4: "#087f8c", l5: "#b8541a", l6: "#6b4fa0" }[SET];
+  const tone = { hot: "#b8541a", va: "#6b4fa0" }[SETCFG.cls] || "#087f8c";
   const word = card.word;
   const size = word.length > 22 ? 24 : word.length > 16 ? 30 : word.length > 11 ? 38 : 50;
   const zh = String(card.chinese || "");
   const zhLines = zh.length > 11 ? [zh.slice(0, 11), truncateText(zh.slice(11), 11)] : [zh];
-  const family = card.family && card.family !== card.word ? `word family 詞族：${card.family}` : (card.isHead ? `Level ${SETCFG.level} headword 單字` : "");
+  const family = card.family && card.family !== card.word ? `word family 詞族：${card.family}` : (card.isHead ? SETCFG.headLabel : "");
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="${escapeXml(word)}">
     <rect width="420" height="420" rx="30" fill="#f7fafc"/>
     <circle cx="74" cy="74" r="40" fill="${tone}" opacity=".10"/>
     <circle cx="346" cy="350" r="54" fill="#d89a27" opacity=".13"/>
-    <text x="210" y="62" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="18" font-weight="700" fill="${tone}">學測 6000 字 · Level ${SETCFG.level}${card.isHead ? " ★" : ""}</text>
+    <text x="210" y="62" text-anchor="middle" font-family="Arial, 'Noto Sans TC', sans-serif" font-size="18" font-weight="700" fill="${tone}">${escapeXml(SETCFG.tile)}${card.isHead ? " ★" : ""}</text>
     <rect x="30" y="92" width="360" height="140" rx="22" fill="${cream}" stroke="${tone}" stroke-width="6"/>
     <text x="210" y="${168 + size / 6}" text-anchor="middle" font-family="Arial, sans-serif" font-size="${size}" font-weight="900" fill="${ink}">${escapeXml(word)}</text>
     <text x="210" y="216" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" fill="${tone}">${escapeXml(card.pos || "")}</text>

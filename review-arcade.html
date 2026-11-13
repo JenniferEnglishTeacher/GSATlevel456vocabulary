@@ -183,7 +183,7 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
 <header class="stage">
   <div class="stage-in">
     <div class="brand">
-      <a href="index.html">← 回到 學測6000字 Vocabulary Board</a>
+      <a href="index.html">← 回到 Vocabulary Board 單字學習板</a>
       <h1>複習單字闖關 Review Arcade<small>從我的複習清單（★ / 紅字）出題｜每答對 10 題進入一分鐘小遊戲</small></h1>
     </div>
     <div class="scoreboard" aria-live="polite">
@@ -196,9 +196,9 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
 
 <main>
   <section id="setup" class="panel" aria-labelledby="setupTitle">
-    <h2 id="setupTitle"><span class="step">1</span>我的複習清單 <em id="listNote">選要考哪幾個 Level 的單字，可複選</em></h2>
+    <h2 id="setupTitle"><span class="step">1</span>我的複習清單 <em id="listNote">選要考哪幾冊／哪幾個 Level 的單字，可複選</em></h2>
     <div class="chips books" id="bookChips"></div>
-    <div class="empty hidden" id="emptyNote">複習清單還是空的。到 <a href="index.html">學測6000字 Vocabulary Board</a> 點一下不熟的單字（變紅色），或在字卡頁按 ☆ 存入，再回來闖關！</div>
+    <div class="empty hidden" id="emptyNote">複習清單還是空的。到 <a href="index.html">Vocabulary Board</a> 點一下不熟的單字（變紅色），或在字卡頁按 ☆ 存入，再回來闖關！</div>
     <div class="wordpeek" id="wordPeek"></div>
 
     <h2 style="margin-top:22px"><span class="step">2</span>小遊戲類別 <em>可複選，每答對 10 題隨機抽一個</em></h2>
@@ -263,20 +263,22 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
   <div class="arena" id="arena"></div>
 </div>
 
-<script src="tracker-config.js?v=20261113c"></script>
-<script src="tracker.js?v=20261113b"></script>
+<script src="tracker-config.js?v=20261113d"></script>
+<script src="tracker.js?v=20261113d"></script>
 <script src="vendor/xlsx.full.min.js"></script>
-<script src="l4-dashboard-data.js?v=20261113b"></script>
-<script src="l5-dashboard-data.js?v=20261113b"></script>
-<script src="l6-dashboard-data.js?v=20261113b"></script>
+<script src="books.js?v=20261113d"></script>
+<script src="l4-dashboard-data.js?v=20261113d"></script>
+<script src="l5-dashboard-data.js?v=20261113d"></script>
+<script src="l6-dashboard-data.js?v=20261113d"></script>
+<script src="j-dashboard-data.js?v=20261113d"></script>
 <script>
 /* =========================================================
    DATA — the board's review list (localStorage), any zone
    Keys: "<level>-<group>:<cardIndex>", e.g. "4-12:5"
    ========================================================= */
 const STORE_KEY='gsat456-review-list';
-const mkBook=n=>({name:`學測6000字 Level ${n}`,unit:'Group',units:window[`L${n}_DASHBOARD_UNITS`]||[],key:(u,i)=>`${n}-${u}:${i}`,page:u=>`l${n}-unit${u}.html`});
-const BOOKS={l4:mkBook(4),l5:mkBook(5),l6:mkBook(6)};
+const BOOKS={};
+Object.entries(window.VOCAB_ZONES||{}).forEach(([id,z])=>{BOOKS[id]={name:z.name,tag:z.tag,unit:'Group',units:window[z.global]||[],key:(u,i)=>`${z.prefix}-${u}:${i}`,page:u=>z.page.replace('{u}',u)};});
 const readStore=(k,f)=>{try{return JSON.parse(localStorage.getItem(k)||'')||f;}catch(e){return f;}};
 const lookup=new Map();
 Object.entries(BOOKS).forEach(([book,cfg])=>cfg.units.forEach(u=>u.cards.forEach((c,i)=>lookup.set(cfg.key(u.unit,i),{book,unit:u.unit,key:cfg.key(u.unit,i),...c}))));
@@ -389,10 +391,10 @@ function buildSetup(){
   Object.entries(BOOKS).forEach(([id,cfg])=>{
     const n=counts[id]||0;if(n)state.books.add(id);
     const sample=state.all.filter(c=>c.book===id).slice(0,4).map(c=>c.w).join(', ');
-    chip(box,'books',id,cfg.name,n?sample+(n>4?'…':''):'清單裡沒有這個 Level 的字',n+' 字',!n);
+    chip(box,'books',id,cfg.name,n?sample+(n>4?'…':''):'清單裡沒有這一冊的字',n+' 字',!n);
   });
   $('#emptyNote').classList.toggle('hidden',state.all.length>0);
-  $('#listNote').textContent=state.all.length?`共 ${state.all.length} 個字｜選要考哪幾個 Level 的單字，可複選`:'';
+  $('#listNote').textContent=state.all.length?`共 ${state.all.length} 個字｜選要考哪幾冊／哪幾個 Level 的單字，可複選`:'';
   $('#gameChips').innerHTML='';$('#typeChips').innerHTML='';
   GAMES.forEach(g=>chip($('#gameChips'),'games',g.id,g.name,g.desc));
   TYPES.forEach(t=>chip($('#typeChips'),'types',t.id,t.name,t.ex,null,t.id==='listen'&&!canSpeak));
@@ -406,7 +408,7 @@ function checkSetup(){
   const usable=words.filter(c=>[...state.types].some(t=>eligible(t,c)));
   let msg='';
   if(!state.all.length)msg='複習清單是空的。';
-  else if(!state.books.size)msg='請至少選一個 Level。';
+  else if(!state.books.size)msg='請至少選一項。';
   else if(!state.types.size)msg='請至少選一種題型。';
   else if(!usable.length)msg='這些單字不適合所選題型，請多選一種題型。';
   $('#setupWarn').textContent=msg;
@@ -524,7 +526,7 @@ document.addEventListener('keydown',e=>{
 });
 function reportRun(){
   if(!window.GsatTracker||!state.log.length)return;
-  const levels=[...new Set(state.log.map(r=>r.card.book.slice(1)))].sort().join(',');
+  const levels=[...new Set(state.log.map(r=>BOOKS[r.card.book].tag))].sort().join(',');
   GsatTracker.logTest({type:SET_KEYS.length?'Teacher test':'Review game',level:levels,group:'',total:state.log.length,
     correct:state.log.filter(r=>r.ok).length,wrong:state.log.filter(r=>!r.ok).map(r=>({w:r.card.w,key:r.card.key})),label:SET_LABEL});
 }
@@ -675,7 +677,7 @@ function gameTTT(){
 /* 3. 打地鼠配對：只敲「單字 = 中文」配對正確的地鼠（用這次考的複習單字） */
 function gameMoles(){
   let pool=state.words.filter(c=>c.c);
-  if(pool.length<4){const extra=shuffle(POOL.l4).slice(0,8-pool.length);pool=pool.concat(extra);}
+  if(pool.length<4){const extra=shuffle(POOL[Object.keys(BOOKS)[0]]).slice(0,8-pool.length);pool=pool.concat(extra);}
   const DUR=40000,STAY=3400,EVERY=1700,MAXUP=3;
   $('#arena').innerHTML=`<h3 id="gameTitle">打地鼠配對</h3><p>只敲<strong style="color:var(--gold)">單字和中文配對正確</strong>的地鼠！對 +5，錯 −3（40 秒）</p><div class="timerbar"><i id="tbar"></i></div><div class="mole-grid" id="mg"></div><div class="result" id="gResult">0 分</div>`;
   const mg=$('#mg');const holes=[];

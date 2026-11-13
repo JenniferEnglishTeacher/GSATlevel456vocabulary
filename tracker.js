@@ -111,53 +111,62 @@
 
   // Online quiz pages (levelN-groupGG.html): called from the quiz's own submit step with its state and data.
   function logQuiz(state, vocab, mcqs) {
-    const match = location.pathname.match(/level(\d)-group(\d+)/);
-    if (!match || !state) return;
-    const level = Number(match[1]), group = Number(match[2]);
+    const zones = window.VOCAB_ZONES || {};
+    const file = location.pathname.split("/").pop() || "";
+    let zoneId = null, group = 0;
+    Object.keys(zones).forEach(id => {
+      // quiz pattern "level4-group{uu}.html" / "group{u}.html" -> regular expression
+      const pattern = new RegExp("^" + zones[id].quiz.replace(/[.]/g, "\\.").replace("{uu}", "(\\d+)").replace("{u}", "(\\d+)") + "$");
+      const m = pattern.exec(file);
+      if (m) { zoneId = id; group = Number(m[1]); }
+    });
+    if (!zoneId || !state) return;
+    const zone = zones[zoneId];
     if (state.studentName) setName(state.studentName);
     const tookP1 = state.mode !== "p2", tookP2 = state.mode !== "p1";
     const keyOf = word => {
       const i = vocab.findIndex(v => v.word === word || v.answer === word);
-      return { w: word, key: i >= 0 ? `${level}-${group}:${i}` : "" };
+      return { w: word, key: i >= 0 ? `${zone.prefix}-${group}:${i}` : "" };
     };
     const p1Wrong = tookP1 ? state.p1WrongWords : [];
     const p2Wrong = tookP2 ? state.p2WrongWords : [];
     const total = (tookP1 ? vocab.length : 0) + (tookP2 ? mcqs.length : 0);
-    const correct = (tookP1 ? vocab.length - p1Wrong.length : 0) + (tookP2 ? state.p2Score : 0);
+    const p2Right = typeof state.p2Score === "number" ? Math.min(state.p2Score, mcqs.length) : mcqs.length - p2Wrong.length;
+    const correct = (tookP1 ? vocab.length - p1Wrong.length : 0) + (tookP2 ? p2Right : 0);
     logTest({
       type: `Online quiz${state.mode === "p1" ? " (spelling)" : state.mode === "p2" ? " (MCQ)" : " (spelling + MCQ)"}`,
-      level, group, total, correct,
+      level: zone.levelLabel, group, total, correct,
       wrong: [...p1Wrong, ...p2Wrong].map(keyOf)
     });
   }
 
   // ---------- ★ review list ----------
   const loaded = {};
-  function loadLevel(n) {
-    if (window[`L${n}_DASHBOARD_UNITS`]) return Promise.resolve();
-    if (!loaded[n]) {
-      loaded[n] = new Promise(resolve => {
+  function loadZone(id) {
+    const zone = (window.VOCAB_ZONES || {})[id];
+    if (!zone || window[zone.global]) return Promise.resolve();
+    if (!loaded[id]) {
+      loaded[id] = new Promise(resolve => {
         const script = document.createElement("script");
-        script.src = `l${n}-dashboard-data.js`;
+        script.src = zone.data;
         script.onload = script.onerror = () => resolve();
         document.head.append(script);
       });
     }
-    return loaded[n];
+    return loaded[id];
   }
 
   async function wordsFor(keys) {
-    const levels = [...new Set(keys.map(k => k.split("-")[0]))].filter(n => /^[456]$/.test(n));
-    await Promise.all(levels.map(loadLevel));
-    const byLevel = {};
-    keys.forEach(key => {
-      const m = key.match(/^(\d)-(\d+):(\d+)$/);
-      if (!m) return;
-      const unit = (window[`L${m[1]}_DASHBOARD_UNITS`] || []).find(u => u.unit === Number(m[2]));
-      const card = unit && unit.cards[Number(m[3])];
-      if (card) (byLevel[m[1]] = byLevel[m[1]] || []).push(card.w);
+    const zones = window.VOCAB_ZONES || {};
+    const parsed = keys.map(key => window.vocabZoneOfKey ? window.vocabZoneOfKey(key) : null).filter(Boolean);
+    await Promise.all([...new Set(parsed.map(p => p.zone))].map(loadZone));
+    const byZone = {};
+    parsed.forEach(p => {
+      const unit = (window[zones[p.zone].global] || []).find(u => u.unit === p.unit);
+      const card = unit && unit.cards[p.index];
+      if (card) (byZone[p.zone] = byZone[p.zone] || []).push(card.w);
     });
-    return Object.keys(byLevel).sort().map(n => `L${n}: ${byLevel[n].join(", ")}`).join(" | ");
+    return Object.keys(zones).filter(id => byZone[id]).map(id => `${zones[id].tag}: ${byZone[id].join(", ")}`).join(" | ");
   }
 
   async function syncReview() {

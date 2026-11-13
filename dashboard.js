@@ -1,22 +1,69 @@
-// 學測6000字 Vocabulary Board — three zones: Level 4, Level 5, Level 6 (40 groups each, word-family edition).
-// Each group: word chips (bold = the level's own headword, others = its word family) + 🗂 Flashcards + 📝 MCQ + ✏️ Quiz.
+// Vocabulary Board — every book listed in books.js (學測6000字 Level 4–6, 國中小基礎2000字, …).
+// A book is a row of zone tabs; a zone is a board of groups. Each group: word chips + 🗂 Flashcards + 📝 MCQ + ✏️ Quiz.
 // Hover = speak + definition card, click = mark red for review, double-click = open the word's flashcard,
 // download marked words as Excel, 🎮 test the marked words.
 const STORE_KEY = "gsat456-review-list";
 
-// cls picks the colour family in styles.css: Level 4 teal (default), Level 5 orange ("hot"), Level 6 purple ("va").
-const makeBook = (n, cls) => ({
-  level: n, cls,
-  name: `學測6000字 Level ${n}`,
-  unitName: "Group",
-  short: `L${n}·`,
-  units: window[`L${n}_DASHBOARD_UNITS`] || [],
-  key: (u, i) => `${n}-${u}:${i}`,
-  page: u => `l${n}-unit${u}.html`,
-  quizPage: u => `level${n}-group${String(u).padStart(2, "0")}.html`
+const fillPattern = (pattern, u) => pattern.replace("{u}", u).replace("{uu}", String(u).padStart(2, "0"));
+// cls picks the colour family in styles.css: teal (default), orange ("hot"), purple ("va").
+const BOOKS = {};
+Object.entries(window.VOCAB_ZONES || {}).forEach(([id, z]) => {
+  BOOKS[id] = {
+    ...z,
+    level: z.levelLabel,
+    unitName: "Group",
+    short: `${z.tag}·`,
+    units: window[z.global] || [],
+    key: (u, i) => `${z.prefix}-${u}:${i}`,
+    page: u => fillPattern(z.page, u),
+    quizPage: u => fillPattern(z.quiz, u)
+  };
 });
-const BOOKS = { l4: makeBook(4, ""), l5: makeBook(5, "hot"), l6: makeBook(6, "va") };
 const ZONES = Object.keys(BOOKS);
+const SHELF = window.VOCAB_BOOKS || [];
+const bookOf = z => SHELF.find(b => b.zones.includes(z));
+
+// ---------- Build the book row, the zone tabs and one panel per zone ----------
+const bookTabs = document.querySelector("#bookTabs");
+const zoneTabs = document.querySelector("#zoneTabs");
+const zonePanels = document.querySelector("#zonePanels");
+const HELP = "<b>🗂 Flashcards</b> (or the group name) opens the group's flashcards; double-click a word to open its card; <b>📝 MCQ</b> = practice questions; <b>✏️ Quiz</b> = online quiz (spelling + MCQ, your result is recorded). 點「🗂 Flashcards」進入字卡，點兩下單字開該字字卡；📝 MCQ 是選擇題練習；✏️ Quiz 是線上測驗（拼字＋選擇題，會記錄成績）。";
+SHELF.forEach(book => {
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = "book-tab";
+  btn.dataset.book = book.id;
+  btn.textContent = book.name;
+  btn.addEventListener("click", () => setZone(lastZone[book.id] || book.zones[0]));
+  bookTabs.append(btn);
+});
+ZONES.forEach(z => {
+  const cfg = BOOKS[z];
+  const tab = document.createElement("button");
+  tab.type = "button";
+  tab.className = `zone-tab zone-${cfg.cls || "barrons"}`;
+  tab.setAttribute("role", "tab");
+  tab.dataset.zone = z;
+  tab.innerHTML = `<span class="zone-num"></span><span class="zone-text"><strong></strong><small id="${z}Count"></small></span>`;
+  tab.querySelector(".zone-num").textContent = cfg.num;
+  tab.querySelector("strong").textContent = cfg.short;
+  tab.addEventListener("click", () => setZone(z));
+  zoneTabs.append(tab);
+
+  const panel = document.createElement("section");
+  panel.className = "zone-panel";
+  panel.id = `zone-${z}`;
+  panel.setAttribute("role", "tabpanel");
+  panel.hidden = true;
+  panel.innerHTML = `<div class="zone-head"><h2></h2><p>${HELP}</p></div><div class="unit-board" id="board-${z}"><p class="board-loading">Loading… 載入中…</p></div>`;
+  const h2 = panel.querySelector("h2");
+  h2.textContent = `${cfg.name} `;
+  const span = document.createElement("span");
+  span.textContent = `${cfg.units.length} groups · ${cfg.blurb}`;
+  h2.append(span);
+  zonePanels.append(panel);
+});
+const lastZone = {};
 
 const countEl = document.querySelector("#reviewCount");
 const downloadBtn = document.querySelector("#downloadReview");
@@ -59,14 +106,20 @@ function speak(text) {
 }
 
 // ---------- Zones ----------
-let zone = "l4";
+let zone = ZONES[0];
 const built = new Set(); // each level's board (~3,600 chips) is drawn the first time its tab opens
 
 function setZone(next, push = true) {
-  zone = ZONES.includes(next) ? next : "l4";
+  zone = ZONES.includes(next) ? next : ZONES[0];
+  const book = bookOf(zone);
+  lastZone[book.id] = zone;
+  document.querySelectorAll(".book-tab").forEach(btn => btn.classList.toggle("active", btn.dataset.book === book.id));
+  zoneTabs.hidden = book.zones.length < 2; // a one-zone book needs no second row of tabs
+  document.querySelector("#legendNote").hidden = !BOOKS[zone].family;
   ZONES.forEach(z => {
     document.querySelector(`#zone-${z}`).hidden = z !== zone;
     const tab = document.querySelector(`.zone-tab[data-zone="${z}"]`);
+    tab.hidden = !book.zones.includes(z);
     tab.classList.toggle("active", z === zone);
     tab.setAttribute("aria-selected", String(z === zone));
   });
@@ -80,7 +133,6 @@ function setZone(next, push = true) {
   applySearch(false);
 }
 
-document.querySelectorAll(".zone-tab").forEach(tab => tab.addEventListener("click", () => setZone(tab.dataset.zone)));
 window.addEventListener("hashchange", () => setZone(location.hash.slice(1), false));
 
 // ---------- Word boards ----------
@@ -102,7 +154,7 @@ function buildBoard(book) {
       </div>`;
     const theme = document.createElement("p");
     theme.className = "unit-theme";
-    theme.textContent = `${u.theme} · ${u.cards.length} entries`;
+    theme.textContent = `${u.theme} · ${u.cards.length} ${cfg.family ? "entries" : "words"}`;
     section.querySelector(".unit-title").append(theme);
 
     const words = document.createElement("div");
@@ -164,7 +216,7 @@ function showTip(btn, key) {
     <p class="tip-hint"></p>`;
   tip.querySelector("strong").textContent = card.w;
   tip.querySelector(".tip-pos").textContent = card.p;
-  tip.querySelector(".tip-unit").textContent = `Level ${cfg.level} · ${cfg.unitName} ${card.unit}`;
+  tip.querySelector(".tip-unit").textContent = `${cfg.short.replace("·", "")} · ${cfg.unitName} ${card.unit}`;
   tip.querySelector(".tip-en").textContent = card.d;
   tip.querySelector(".tip-zh").textContent = card.c;
   tip.querySelector(".tip-hint").textContent = isMarked
@@ -239,11 +291,11 @@ function renderPreview() {
 }
 
 function rows() {
-  const header = ["No.", "Level", "Group", "Word", "POS", "English Definition", "Chinese Definition", "Sample Sentence", "Sentence Translation"];
+  const header = ["No.", "Book / Level", "Group", "Word", "POS", "English Definition", "Chinese Definition", "Sample Sentence", "Sentence Translation"];
   const body = marked.map((key, i) => {
     const c = lookup.get(key);
     const cfg = BOOKS[c.book];
-    return [i + 1, `Level ${cfg.level}`, `${cfg.unitName} ${c.unit}`, c.w, c.p, c.d, c.c, c.s, c.t];
+    return [i + 1, cfg.name, `${cfg.unitName} ${c.unit}`, c.w, c.p, c.d, c.c, c.s, c.t];
   });
   return [header, ...body];
 }
@@ -258,7 +310,7 @@ function download() {
   const data = rows();
   if (window.XLSX) {
     const sheet = XLSX.utils.aoa_to_sheet(data);
-    sheet["!cols"] = [5, 9, 10, 22, 8, 44, 24, 80, 56].map(wch => ({ wch }));
+    sheet["!cols"] = [5, 22, 10, 22, 8, 44, 24, 80, 56].map(wch => ({ wch }));
     sheet["!autofilter"] = { ref: `A1:I${data.length}` };
     const book = XLSX.utils.book_new();
     XLSX.utils.book_append_sheet(book, sheet, "Review Words");
@@ -307,7 +359,7 @@ function applySearch(scroll = true) {
       elsewhere.forEach(z => {
         const a = document.createElement("a");
         a.href = `#${z}`;
-        a.textContent = `Level ${BOOKS[z].level}`;
+        a.textContent = BOOKS[z].name;
         a.addEventListener("click", event => { event.preventDefault(); setZone(z); });
         note.append(a, " ");
       });
@@ -328,7 +380,9 @@ ZONES.forEach(z => {
   const cfg = BOOKS[z];
   const entries = cfg.units.reduce((n, u) => n + u.cards.length, 0);
   const heads = cfg.units.reduce((n, u) => n + u.cards.filter(c => c.h).length, 0);
-  document.querySelector(`#${z}Count`).textContent = `${cfg.units.length} groups · ${heads.toLocaleString()} words · ${entries.toLocaleString()} entries`;
+  document.querySelector(`#${z}Count`).textContent = heads
+    ? `${cfg.units.length} groups · ${heads.toLocaleString()} words · ${entries.toLocaleString()} entries`
+    : `${cfg.units.length} groups · ${entries.toLocaleString()} words`;
 });
 refresh();
-setZone(location.hash.slice(1) || "l4", false);
+setZone(location.hash.slice(1) || ZONES[0], false);

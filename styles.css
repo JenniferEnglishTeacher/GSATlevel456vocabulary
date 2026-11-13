@@ -1201,6 +1201,11 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .board-word.marked.head { border-color: #c62828; }
 .mini-test { display: inline-flex; align-items: center; padding: 5px 10px; border-radius: 999px; background: #c6533e; color: #fff; font-size: 13px; font-weight: 700; text-decoration: none; white-space: nowrap; }
 .mini-test:hover { filter: brightness(1.08); text-decoration: underline; }
+.book-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 10px; }
+.book-tab { border: 2px solid var(--line); background: #fff; color: var(--ink); border-radius: 999px; padding: 9px 18px; font: inherit; font-weight: 800; cursor: pointer; }
+.book-tab:hover { border-color: var(--teal); }
+.book-tab.active { background: var(--ink); border-color: var(--ink); color: #fff; }
+.zone-tabs[hidden], .zone-tab[hidden] { display: none; }
 .unit-block-head { flex-direction: column; align-items: stretch; }
 .unit-title { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; }
 .unit-title .unit-theme { margin: 0; font-size: 14px; }

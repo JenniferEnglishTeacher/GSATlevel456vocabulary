@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex">
-  <title>Teacher · 學測6000字 Progress</title>
+  <title>Teacher · Vocabulary Board Progress</title>
   <link rel="stylesheet" href="styles.css?v=20261113b">
   <style>
     .t-panel { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 18px; margin: 16px 0; }
@@ -34,7 +34,7 @@
 <body>
   <main class="app-shell board-shell">
     <header class="board-hero">
-      <p class="eyebrow"><a class="back-link" href="index.html">學測6000字 Vocabulary Board</a> · Teacher 教師專用</p>
+      <p class="eyebrow"><a class="back-link" href="index.html">Vocabulary Board</a> · Teacher 教師專用</p>
       <h1>Student Progress 學生進度</h1>
       <p class="board-intro">Reads the tracker spreadsheet: who tested what, accuracy, mistaken words and ★ review lists. Pick mistaken words and turn them into a new test link for students.<br>讀取追蹤試算表：誰考了什麼、正確率、錯字、★ 複習清單；可把錯字變成新的測驗連結給學生。</p>
     </header>
@@ -59,7 +59,7 @@
         <p>Words are ranked by how often they were missed. Tick the ones to test, then copy the link and send it to students. The test works like 🎮 Test my words, and its results come back to the Test Log.<br>依錯誤次數排序。勾選要考的字，複製連結給學生；作答結果會回到 Test Log。</p>
         <div class="t-row">
           <label>Student 學生 <select id="fStudent"></select></label>
-          <label>Level <select id="fLevel"><option value="">All</option><option>4</option><option>5</option><option>6</option></select></label>
+          <label>Book / Level <select id="fLevel"><option value="">All 全部</option></select></label>
           <label>Missed ≥ <input type="number" id="fMin" value="1" min="1" style="width:64px"> times</label>
           <label><input type="checkbox" id="fStar"> add ★ review words 加入學生的★字</label>
           <label>Tick top <input type="number" id="fTop" value="20" min="1" max="100" style="width:64px"></label>
@@ -89,10 +89,12 @@
     </div>
   </main>
 
+  <script src="books.js?v=20261113d"></script>
   <script src="tracker-config.js?v=20261113c"></script>
-  <script src="l4-dashboard-data.js?v=20261113a"></script>
-  <script src="l5-dashboard-data.js?v=20261113a"></script>
-  <script src="l6-dashboard-data.js?v=20261113a"></script>
+  <script src="l4-dashboard-data.js?v=20261113d"></script>
+  <script src="l5-dashboard-data.js?v=20261113d"></script>
+  <script src="l6-dashboard-data.js?v=20261113d"></script>
+  <script src="j-dashboard-data.js?v=20261113d"></script>
   <script src="vendor/xlsx.full.min.js"></script>
   <script>
   const ENDPOINT = String(window.GSAT_TRACKER_URL || "").trim();
@@ -103,7 +105,12 @@
 
   // key "4-12:5" -> card
   const cards = new Map();
-  [4, 5, 6].forEach(n => (window[`L${n}_DASHBOARD_UNITS`] || []).forEach(u => u.cards.forEach((c, i) => cards.set(`${n}-${u.unit}:${i}`, { ...c, level: n, unit: u.unit }))));
+  const ZONES = window.VOCAB_ZONES || {};
+  Object.entries(ZONES).forEach(([id, z]) => (window[z.global] || []).forEach(u => u.cards.forEach((c, i) => cards.set(`${z.prefix}-${u.unit}:${i}`, { ...c, zone: id, level: z.tag, name: z.name, unit: u.unit }))));
+  document.addEventListener("DOMContentLoaded", () => {
+    const sel = document.querySelector("#fLevel");
+    sel.replaceChildren(new Option("All 全部", ""), ...Object.entries(ZONES).map(([id, z]) => new Option(z.short, id)));
+  });
 
   const el = (tag, text, cls) => { const e = document.createElement(tag); if (text != null) e.textContent = text; if (cls) e.className = cls; return e; };
   const accClass = a => a < 60 ? "acc-low" : a < 80 ? "acc-mid" : "acc-high";
@@ -197,7 +204,7 @@
         else tally.get(k).star = true;
       }));
     }
-    if (level) list = list.filter(x => x.key.startsWith(`${level}-`));
+    if (level) list = list.filter(x => cards.get(x.key).zone === level);
     return list.sort((a, b) => b.times - a.times || b.students.size - a.students.size || cards.get(a.key).w.localeCompare(cards.get(b.key).w));
   }
 
@@ -210,8 +217,8 @@
       const label = el("label", null, x.star ? "star" : "");
       const input = el("input"); input.type = "checkbox"; input.value = x.key; input.checked = i < top;
       input.addEventListener("change", updateLink);
-      label.append(input, el("span", c.w), el("small", `${x.times ? `×${x.times}` : "★"} · L${c.level}`));
-      label.title = `${c.p} ${c.c} — Level ${c.level} Group ${c.unit}${x.times ? ` — missed ${x.times}× by ${x.students.size} student(s)` : " — on a ★ review list"}`;
+      label.append(input, el("span", c.w), el("small", `${x.times ? `×${x.times}` : "★"} · ${c.level}`));
+      label.title = `${c.p} ${c.c} — ${c.name} Group ${c.unit}${x.times ? ` — missed ${x.times}× by ${x.students.size} student(s)` : " — on a ★ review list"}`;
       return label;
     }));
     if (!list.length) box.append(el("span", "No mistaken words for this filter yet. 目前沒有符合的錯字。", "t-status"));
@@ -243,8 +250,8 @@
   $("#dl").addEventListener("click", () => {
     const keys = picked();
     if (!keys.length || !window.XLSX) return;
-    const rows = [["No.", "Level", "Group", "Word", "POS", "English Definition", "Chinese Definition", "Sample Sentence", "Sentence Translation"]];
-    keys.forEach((k, i) => { const c = cards.get(k); rows.push([i + 1, c.level, c.unit, c.w, c.p, c.d, c.c, c.s, c.t]); });
+    const rows = [["No.", "Book / Level", "Group", "Word", "POS", "English Definition", "Chinese Definition", "Sample Sentence", "Sentence Translation"]];
+    keys.forEach((k, i) => { const c = cards.get(k); rows.push([i + 1, c.name, c.unit, c.w, c.p, c.d, c.c, c.s, c.t]); });
     const sheet = XLSX.utils.aoa_to_sheet(rows);
     sheet["!cols"] = [5, 6, 6, 22, 8, 44, 24, 80, 56].map(wch => ({ wch }));
     const book = XLSX.utils.book_new();
