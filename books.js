@@ -2450,10 +2450,20 @@ window.VOCAB_ZONES = {
   "page": "tc-unit{u}.html",
   "quiz": "toeic-topic{u}.html",
   "units": [
-   1
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
   ],
   "names": {
-   "1": "Accident 意外事故"
+   "1": "Accident 意外事故",
+   "2": "Accommodation 住宿",
+   "3": "Achievement 成就",
+   "4": "Activity 活動",
+   "5": "Actor 演員",
+   "6": "Ad 廣告"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }

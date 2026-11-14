@@ -643,5 +643,3119 @@
     "vocabIndex": 23
    }
   ]
+ },
+ "2": {
+  "theme": "Accommodation 住宿",
+  "source": "https://www.examword.com/group-topic/accommodation",
+  "VOCAB": [
+   {
+    "word": "currently",
+    "pos": "adv.",
+    "en_def": "at the present time",
+    "cn_def": "目前；現在",
+    "sentence": "A: Is the company still looking for a new office in the city center, or has the manager decided to stay in this old building for another year? B: We are {{BLANK}} renting a small floor near the train station while the agents search for a larger space with better parking for our staff and visitors.",
+    "cn": "A：公司還在市中心找新辦公室嗎？還是經理已經決定在這棟舊大樓再待一年？ B：我們【目前】在火車站附近租了一個小樓層，同時仲介正在幫我們找一個更大、讓員工和訪客停車更方便的空間。",
+    "collocation": "be currently available 目前可供使用"
+   },
+   {
+    "word": "afford",
+    "pos": "v.",
+    "en_def": "to have enough money to pay for something",
+    "cn_def": "負擔得起；買得起",
+    "sentence": "A: Are you going to buy that two-bedroom flat near your office, since you said last month that the rent you pay now is far too high? B: I would love to, but I can't {{BLANK}} such a large down payment this year, so I plan to save more money and look again next spring.",
+    "cn": "A：你要買你辦公室附近那間兩房公寓嗎？你上個月說現在付的房租太高了。 B：我很想買，但今年我無法【負擔】這麼高的頭期款，所以我打算多存點錢，明年春天再看看。",
+    "collocation": "can't afford the rent 付不起房租"
+   },
+   {
+    "word": "yard",
+    "pos": "n.",
+    "en_def": "an area of land next to a house, often with grass",
+    "cn_def": "院子；庭院",
+    "sentence": "A: Why did your family choose the older house on Maple Street instead of the new apartment downtown, even though the drive to work is much longer? B: The house has a large {{BLANK}} where our children can play safely after school, and there is enough room for a small vegetable garden and our dog.",
+    "cn": "A：為什麼你們家選擇楓樹街那間比較舊的房子，而不是市中心的新公寓，即使開車上班要久得多？ B：那間房子有一個大【院子】，孩子們放學後可以在那裡安全地玩耍，而且還有足夠的空間弄一個小菜園和養我們的狗。",
+    "collocation": "a front yard with a lawn 有草坪的前院"
+   },
+   {
+    "word": "veranda",
+    "pos": "n.",
+    "en_def": "a covered area with a roof along the outside of a house",
+    "cn_def": "有頂的走廊；陽台",
+    "sentence": "A: Where should we serve coffee to the guests after the hotel tour this afternoon, since the weather report says it might rain a little later? B: Let's use the {{BLANK}} at the front of the main building, because it has a roof to keep everyone dry, comfortable chairs, and a lovely view of the lake.",
+    "cn": "A：今天下午飯店導覽結束後，我們應該在哪裡請客人喝咖啡？氣象報告說晚一點可能會下點雨。 B：我們就用主建築前面的【有頂走廊】吧，因為它有屋頂可以讓大家不被淋濕，有舒服的椅子，還能看到湖的美景。",
+    "collocation": "sit on the veranda 坐在陽台上"
+   },
+   {
+    "word": "spot",
+    "pos": "n.",
+    "en_def": "a particular place",
+    "cn_def": "地點；場所",
+    "sentence": "A: Have you found a good place to stay for the sales conference next month, or are all the hotels near the convention center already fully booked? B: I found a quiet {{BLANK}} just ten minutes away by subway, and it has a free breakfast, fast internet, and a small meeting room we can use.",
+    "cn": "A：你找到下個月業務會議期間的好住處了嗎？還是會展中心附近的飯店都已經訂滿了？ B：我找到一個安靜的【地點】，搭地鐵只要十分鐘，而且有免費早餐、快速網路，還有一間我們可以使用的小會議室。",
+    "collocation": "a perfect spot for a picnic 野餐的絕佳地點"
+   },
+   {
+    "word": "outskirts",
+    "pos": "n.",
+    "en_def": "the outer areas of a town or city",
+    "cn_def": "郊區；市郊",
+    "sentence": "A: Why is the new factory so far from the city center, when most of the workers live downtown and have to take two buses every morning? B: Land on the {{BLANK}} of town is much cheaper, so the company could build a bigger site, and it will run a free shuttle bus for staff starting next month.",
+    "cn": "A：為什麼新工廠離市中心這麼遠？大部分工人都住在市區，每天早上得搭兩班公車。 B：城鎮【郊區】的土地便宜很多，所以公司能蓋更大的廠區，而且從下個月開始會為員工提供免費接駁車。",
+    "collocation": "live on the outskirts of the city 住在市郊"
+   },
+   {
+    "word": "uniquely",
+    "pos": "adv.",
+    "en_def": "in a special way that is unlike any other",
+    "cn_def": "獨特地；獨一無二地",
+    "sentence": "A: What makes this boutique hotel so popular with business travelers, even though its room prices are higher than the chain hotels nearby? B: Each room is {{BLANK}} designed by a local artist, and guests also enjoy free laundry service, a quiet work area, and a personal welcome from the friendly owner.",
+    "cn": "A：為什麼這間精品飯店這麼受商務旅客歡迎，雖然它的房價比附近的連鎖飯店還貴？ B：每間房間都是由當地藝術家【獨特地】設計的，而且客人還能享受免費洗衣服務、安靜的工作區，以及友善老闆的親自歡迎。",
+    "collocation": "uniquely designed rooms 設計獨特的房間"
+   },
+   {
+    "word": "patio",
+    "pos": "n.",
+    "en_def": "a flat paved area outside a building for sitting or eating",
+    "cn_def": "露台；戶外平台",
+    "sentence": "A: Where are we having the team lunch on Friday, since the cafeteria is closed for repairs and the conference room is too small for everyone? B: The manager booked a restaurant with a large {{BLANK}} behind the building, so we can eat outdoors under umbrellas and enjoy the warm weather together.",
+    "cn": "A：星期五的團隊午餐我們要在哪裡吃？員工餐廳因為維修關閉，會議室又太小，容納不下所有人。 B：經理訂了一家餐廳，建築後面有一個大【露台】，所以我們可以在陽傘下戶外用餐，一起享受溫暖的天氣。",
+    "collocation": "have dinner on the patio 在露台上吃晚餐"
+   },
+   {
+    "word": "port",
+    "pos": "n.",
+    "en_def": "a town or place with a harbor where ships load and unload",
+    "cn_def": "港口；港市",
+    "sentence": "A: Why did the shipping company move its main office out of the capital last year, when most of its clients are still based there? B: The managers wanted to be close to the busy {{BLANK}} where our cargo ships arrive, so they can check deliveries quickly and solve problems with customs officers in person.",
+    "cn": "A：為什麼那家航運公司去年把總部搬出首都？它大部分的客戶都還在那裡。 B：經理們想靠近我們貨船抵達的繁忙【港口】，這樣他們就能快速檢查貨物，並親自和海關人員解決問題。",
+    "collocation": "a busy port city 繁忙的港口城市"
+   },
+   {
+    "word": "barbeque",
+    "pos": "n.",
+    "en_def": "an outdoor meal where food is cooked over a fire",
+    "cn_def": "烤肉；烤肉聚會",
+    "sentence": "A: How are we going to welcome the new employees who joined the sales department this month, since many of them have not met the rest of the staff yet? B: We are planning a {{BLANK}} in the park next Saturday afternoon, and the company will pay for the meat, drinks, and games for everyone's families.",
+    "cn": "A：我們要怎麼歡迎這個月加入業務部的新員工？他們很多人都還沒見過其他同事。 B：我們計劃下星期六下午在公園辦一場【烤肉聚會】，公司會出錢買肉、飲料，還會為大家的家人準備遊戲。",
+    "collocation": "hold a barbeque in the garden 在花園舉辦烤肉聚會"
+   },
+   {
+    "word": "apartment block",
+    "pos": "n.phr.",
+    "en_def": "a large building divided into many flats",
+    "cn_def": "公寓大樓",
+    "sentence": "A: Where will the new engineers from overseas live when they arrive next month, since the hotels near the office are very expensive for long stays? B: The company rented ten units in a new {{BLANK}} across the street, so they can walk to work, share a gym, and get help from the building manager.",
+    "cn": "A：海外來的新工程師下個月抵達後要住在哪裡？辦公室附近的飯店長期住宿非常貴。 B：公司在對街一棟新的【公寓大樓】租了十個單位，這樣他們可以走路上班、共用健身房，還能得到大樓管理員的協助。",
+    "collocation": "live in a high-rise apartment block 住在高層公寓大樓"
+   },
+   {
+    "word": "back garden",
+    "pos": "n.phr.",
+    "en_def": "the garden behind a house",
+    "cn_def": "後花園；後院",
+    "sentence": "A: Why are you working from home every Friday now, when you used to come into the office five days a week without any problems? B: My manager agreed that I could use the quiet office I built in my {{BLANK}}, so I can focus on reports without noise and save two hours of driving.",
+    "cn": "A：為什麼你現在每個星期五都在家工作？你以前一週五天進辦公室都沒問題啊。 B：我的主管同意我使用我在【後花園】蓋的安靜辦公室，這樣我可以在沒有噪音的情況下專心寫報告，還能省下兩小時的開車時間。",
+    "collocation": "grow vegetables in the back garden 在後花園種菜"
+   },
+   {
+    "word": "detached house",
+    "pos": "n.phr.",
+    "en_def": "a house that stands alone and is not joined to another",
+    "cn_def": "獨棟房屋",
+    "sentence": "A: Are you and your wife still looking at small flats in the city, or have you changed your plans since the baby was born last spring? B: We now want a {{BLANK}} with three bedrooms, because we need more space and privacy, and we don't want to share walls with noisy neighbors anymore.",
+    "cn": "A：你和太太還在看城裡的小公寓嗎？還是去年春天寶寶出生後你們改變計畫了？ B：我們現在想要一間有三個房間的【獨棟房屋】，因為我們需要更多空間和隱私，也不想再和吵鬧的鄰居共用牆壁了。",
+    "collocation": "buy a four-bedroom detached house 買一棟四房的獨棟房屋"
+   },
+   {
+    "word": "suburb",
+    "pos": "n.",
+    "en_def": "an area where people live outside the center of a city",
+    "cn_def": "郊區；近郊住宅區",
+    "sentence": "A: Why does Ms. Chen take the early train every morning, even though our meetings usually don't start until ten o'clock? B: She lives in a quiet {{BLANK}} about forty minutes from the city, so she leaves early to avoid crowded trains and uses the extra time to answer her emails.",
+    "cn": "A：為什麼陳小姐每天早上都搭早班火車？我們的會議通常十點才開始。 B：她住在離城市大約四十分鐘車程的安靜【郊區】，所以她提早出門以避開擁擠的列車，並利用多出來的時間回覆電子郵件。",
+    "collocation": "move to a quiet suburb 搬到安靜的郊區"
+   },
+   {
+    "word": "terraced house",
+    "pos": "n.phr.",
+    "en_def": "one of a row of houses that are joined together",
+    "cn_def": "連棟房屋；排屋",
+    "sentence": "A: What kind of home did you finally choose when you moved to London for your new job at the bank last autumn? B: I rented a small {{BLANK}} in a row of old brick homes, and although the walls are shared, it is cheaper than a flat and close to the underground station.",
+    "cn": "A：你去年秋天為了銀行的新工作搬到倫敦時，最後選了什麼樣的住處？ B：我在一排老舊的磚造房子中租了一間小【連棟房屋】，雖然牆壁是共用的，但比公寓便宜，而且離地鐵站很近。",
+    "collocation": "rent a two-storey terraced house 租一間兩層樓的連棟房屋"
+   },
+   {
+    "word": "dream home",
+    "pos": "n.phr.",
+    "en_def": "the perfect house that someone has always wanted",
+    "cn_def": "夢想中的家",
+    "sentence": "A: Why have you been working so much overtime and saving almost all of your salary since the beginning of the year? B: My husband and I found our {{BLANK}} near the beach, with big windows and a sunny kitchen, and we need a larger down payment before the bank will approve our loan.",
+    "cn": "A：為什麼你從年初開始就一直加班，還把幾乎所有薪水都存起來？ B：我先生和我在海邊附近找到了我們【夢想中的家】，有大窗戶和陽光充足的廚房，在銀行核准貸款前我們需要更多頭期款。",
+    "collocation": "build your dream home 打造你夢想中的家"
+   },
+   {
+    "word": "layout",
+    "pos": "n.",
+    "en_def": "the way the parts of a place are arranged",
+    "cn_def": "格局；佈局；配置",
+    "sentence": "A: Did the clients like the new office building they visited yesterday, or do they still want to look at other places before signing the lease? B: They loved the open {{BLANK}}, because the desks, meeting rooms, and kitchen are arranged so that teams can easily talk, share ideas, and work together.",
+    "cn": "A：客戶喜歡他們昨天參觀的新辦公大樓嗎？還是他們在簽租約前還想看看其他地方？ B：他們很喜歡那個開放式的【格局】，因為辦公桌、會議室和廚房的配置讓各團隊可以輕鬆交談、分享想法並一起工作。",
+    "collocation": "an open-plan layout 開放式格局"
+   },
+   {
+    "word": "troublesome",
+    "pos": "adj.",
+    "en_def": "causing problems or worry",
+    "cn_def": "麻煩的；棘手的",
+    "sentence": "A: Why did you decide to move out of your old flat downtown before your lease ended, even though the rent was very reasonable? B: The heating system was {{BLANK}} all winter, and the landlord took weeks to send someone to fix it, so I often had to work at home in my coat.",
+    "cn": "A：為什麼你在租約到期前就決定搬離市區的舊公寓？雖然房租很合理。 B：暖氣系統整個冬天都很【麻煩】，房東要好幾週才派人來修，所以我在家工作時常常得穿著外套。",
+    "collocation": "a troublesome neighbor 麻煩的鄰居"
+   },
+   {
+    "word": "fully-furnished",
+    "pos": "adj.",
+    "en_def": "having all the furniture that is needed",
+    "cn_def": "家具齊全的",
+    "sentence": "A: What should I bring when I move to Singapore for the six-month project, since I don't want to ship too many heavy boxes? B: Don't worry, the company has booked you a {{BLANK}} apartment with a bed, sofa, desk, and kitchen tools, so you only need your clothes and your laptop.",
+    "cn": "A：我搬去新加坡做六個月的專案時該帶什麼？我不想運太多很重的箱子。 B：別擔心，公司已經幫你訂了一間【家具齊全的】公寓，有床、沙發、書桌和廚房用具，所以你只需要帶衣服和筆電。",
+    "collocation": "a fully-furnished flat for rent 家具齊全的出租公寓"
+   },
+   {
+    "word": "hall of residence",
+    "pos": "n.phr.",
+    "en_def": "a building where university students live",
+    "cn_def": "大學宿舍；學生宿舍",
+    "sentence": "A: Where did the summer interns from the local university stay while they worked at our head office for eight weeks this year? B: They lived in a {{BLANK}} on campus, which was cheap and near the bus line, and they shared meals there with students working at other companies too.",
+    "cn": "A：今年在我們總公司工作八週的當地大學暑期實習生住在哪裡？ B：他們住在校園內的【學生宿舍】，價格便宜又靠近公車路線，而且他們也在那裡和在其他公司工作的學生一起吃飯。",
+    "collocation": "live in a hall of residence 住在學生宿舍"
+   },
+   {
+    "word": "home comforts",
+    "pos": "n.phr.",
+    "en_def": "things that make life at home easy and pleasant",
+    "cn_def": "居家的舒適；家中的便利",
+    "sentence": "A: Do you enjoy staying in hotels during your long business trips, or do you get tired of living out of a suitcase for weeks? B: I usually miss my {{BLANK}}, like my own soft pillow, my coffee machine, and cooking my own dinner, so I try to book serviced apartments instead.",
+    "cn": "A：你長期出差時喜歡住飯店嗎？還是連續好幾週靠一只行李箱過活會讓你感到疲倦？ B：我通常會想念【居家的舒適】，像是我自己的軟枕頭、咖啡機，還有自己煮晚餐，所以我會盡量改訂服務式公寓。",
+    "collocation": "miss the home comforts 想念家中的舒適"
+   },
+   {
+    "word": "house-warming party",
+    "pos": "n.phr.",
+    "en_def": "a party to celebrate moving into a new home",
+    "cn_def": "喬遷派對；暖屋派對",
+    "sentence": "A: What are you doing this Saturday evening, since several of us from the marketing team are going out for dinner after the trade show? B: I can't join you because Kevin from accounting just bought a new flat, and he invited the whole department to his {{BLANK}} to see the place.",
+    "cn": "A：你這個星期六晚上要做什麼？我們行銷團隊幾個人在商展結束後要出去吃晚餐。 B：我沒辦法跟你們去，因為會計部的凱文剛買了新公寓，他邀請整個部門去參加他的【喬遷派對】看看新家。",
+    "collocation": "throw a house-warming party 舉辦喬遷派對"
+   },
+   {
+    "word": "exhausting",
+    "pos": "adj.",
+    "en_def": "making you feel very tired",
+    "cn_def": "令人筋疲力盡的",
+    "sentence": "A: How was your move to the new office building last weekend, and did the moving company arrive on time with enough workers? B: It was {{BLANK}}, because the elevator broke in the morning, so we had to carry dozens of boxes up five floors, and I slept for twelve hours afterward.",
+    "cn": "A：你們上週末搬到新辦公大樓的情況如何？搬家公司有準時帶足夠的工人來嗎？ B：真是【令人筋疲力盡】，因為電梯早上壞了，我們只好把幾十個箱子搬上五樓，之後我睡了十二個小時。",
+    "collocation": "an exhausting day at work 工作上令人筋疲力盡的一天"
+   },
+   {
+    "word": "move into",
+    "pos": "v.phr.",
+    "en_def": "to start living or working in a new place",
+    "cn_def": "搬進；遷入",
+    "sentence": "A: When can the accounting team start using the new office space on the third floor, since they are working in the crowded meeting room right now? B: The painters will finish on Thursday, so the team can {{BLANK}} the new space next Monday, after the IT staff set up the phones and computers.",
+    "cn": "A：會計團隊什麼時候可以開始使用三樓的新辦公空間？他們現在正在擁擠的會議室裡工作。 B：油漆工星期四會完工，所以在資訊人員裝好電話和電腦之後，團隊下星期一就可以【搬進】新空間。",
+    "collocation": "move into a new apartment 搬進新公寓"
+   },
+   {
+    "word": "chill out",
+    "pos": "v.phr.",
+    "en_def": "to relax and rest",
+    "cn_def": "放鬆；休息",
+    "sentence": "A: What do you usually do after a long week of meetings and deadlines, since you always look so calm and fresh on Monday mornings? B: I like to {{BLANK}} on my balcony with a good book and some music, and I turn off my work phone so nobody can bother me all weekend.",
+    "cn": "A：在經歷了一整週的會議和截止期限後，你通常會做什麼？你每個星期一早上看起來總是很冷靜又有精神。 B：我喜歡在陽台上看本好書、聽點音樂來【放鬆】，而且我會關掉工作手機，這樣整個週末就沒人能打擾我。",
+    "collocation": "chill out at home on the weekend 週末在家放鬆"
+   },
+   {
+    "word": "permanent address",
+    "pos": "n.phr.",
+    "en_def": "the place where you live long-term, used on official forms",
+    "cn_def": "永久地址；戶籍地址",
+    "sentence": "A: Which address should I write on this job application form, since I am staying in a hotel until I find a flat in the city? B: Please give your {{BLANK}}, such as your family home, so the human resources office can send your contract and tax documents to a place that won't change.",
+    "cn": "A：在這張求職申請表上我應該寫哪個地址？我在城裡找到公寓之前都住在飯店。 B：請填寫你的【永久地址】，例如你的老家，這樣人資部才能把你的合約和稅務文件寄到一個不會變動的地方。",
+    "collocation": "provide a permanent address 提供永久地址"
+   },
+   {
+    "word": "ideal home",
+    "pos": "n.phr.",
+    "en_def": "the best possible home for someone",
+    "cn_def": "理想的家",
+    "sentence": "A: What is the main goal of the new housing project that our construction company is building near the river next year? B: We want to create the {{BLANK}} for young families, with safe parks, good schools nearby, energy-saving windows, and prices that most local workers can really pay each month.",
+    "cn": "A：我們建設公司明年要在河邊蓋的新住宅案，主要目標是什麼？ B：我們想為年輕家庭打造【理想的家】，有安全的公園、附近有好學校、節能窗戶，而且價格是大部分當地上班族每個月真的付得起的。",
+    "collocation": "find your ideal home 找到你理想的家"
+   },
+   {
+    "word": "single room",
+    "pos": "n.phr.",
+    "en_def": "a room for one person",
+    "cn_def": "單人房",
+    "sentence": "A: Should I book a double room for the training course in Tokyo, or will I be sharing with someone else from our branch office? B: The company only pays for a {{BLANK}} for each employee, so you will have your own space, but it is quite small and has just one bed and a desk.",
+    "cn": "A：東京的培訓課程我該訂雙人房嗎？還是我會和分公司的其他人同住？ B：公司只為每位員工支付一間【單人房】的費用，所以你會有自己的空間，但房間很小，只有一張床和一張書桌。",
+    "collocation": "book a single room 預訂單人房"
+   },
+   {
+    "word": "spacious room",
+    "pos": "n.phr.",
+    "en_def": "a room with a lot of space",
+    "cn_def": "寬敞的房間",
+    "sentence": "A: Why did the managers choose this hotel for the annual training workshop instead of the cheaper one near the airport? B: This hotel offered a {{BLANK}} that can hold eighty people with tables, a large screen, and good lighting, while the other one only had small meeting areas for groups of ten.",
+    "cn": "A：為什麼主管們選這間飯店舉辦年度培訓工作坊，而不是機場附近比較便宜的那間？ B：這間飯店提供了一間能容納八十人、配有桌子、大螢幕和良好照明的【寬敞房間】，而另一間只有供十人小組使用的小型會議區。",
+    "collocation": "a bright and spacious room 明亮又寬敞的房間"
+   },
+   {
+    "word": "cozy",
+    "pos": "adj.",
+    "en_def": "warm, comfortable, and pleasant",
+    "cn_def": "舒適溫暖的；溫馨的",
+    "sentence": "A: How do you like the small café the company opened on the ground floor for staff who want a break from their desks? B: It feels very {{BLANK}}, with soft chairs, warm lights, and a small bookshelf, so many of us go there to relax or have quiet meetings in the afternoon.",
+    "cn": "A：你覺得公司在一樓為想離開辦公桌休息的員工開的小咖啡館怎麼樣？ B：感覺非常【溫馨舒適】，有柔軟的椅子、溫暖的燈光和一個小書架，所以我們很多人下午都會去那裡放鬆或開安靜的會議。",
+    "collocation": "a cozy little café 溫馨的小咖啡館"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The Riverside Hotel is _____ closed for renovation work. It will reopen to business guests on the first of June.",
+    "options": [
+     "currently",
+     "uniquely",
+     "loudly",
+     "barely"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Many young workers cannot _____ to rent a flat in the city center. They often share homes with friends to save money.",
+    "options": [
+     "chill out",
+     "afford",
+     "move into",
+     "complain"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The house has a large front _____ with grass and flowers. The children can play there safely after school every day.",
+    "options": [
+     "port",
+     "layout",
+     "yard",
+     "outskirts"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The guests drank tea on the covered _____ while it rained. The roof kept everyone dry during the long afternoon.",
+    "options": [
+     "suburb",
+     "port",
+     "outskirts",
+     "veranda"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "This quiet café is a great _____ for small business meetings. It has free Wi-Fi and comfortable seats near the window.",
+    "options": [
+     "port",
+     "outskirts",
+     "spot",
+     "barbeque"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The new warehouse is located on the _____ of the city. Land there is much cheaper than in the busy downtown area.",
+    "options": [
+     "outskirts",
+     "layout",
+     "veranda",
+     "barbeque"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Each guest room in the boutique hotel is _____ decorated. No two rooms have the same colors, furniture, or artwork.",
+    "options": [
+     "currently",
+     "barely",
+     "loudly",
+     "uniquely"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The restaurant has a sunny _____ behind the building. Customers can eat outdoors there when the weather is warm.",
+    "options": [
+     "suburb",
+     "patio",
+     "port",
+     "layout"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Our cargo ships arrive at the _____ every Monday morning. Workers then load the containers onto trucks for delivery.",
+    "options": [
+     "veranda",
+     "yard",
+     "layout",
+     "port"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The company will hold a _____ in the park on Saturday. Staff can bring their families to enjoy grilled meat and games.",
+    "options": [
+     "layout",
+     "outskirts",
+     "barbeque",
+     "suburb"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The developer is building a ten-story _____ near the station. It will contain more than eighty small flats for rent.",
+    "options": [
+     "back garden",
+     "apartment block",
+     "home comforts",
+     "single room"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Mr. Lee grows tomatoes and herbs in his _____. He enjoys working there behind the house on weekend mornings.",
+    "options": [
+     "back garden",
+     "permanent address",
+     "hall of residence",
+     "house-warming party"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The family bought a _____ with no shared walls. They wanted more privacy and space away from noisy neighbors.",
+    "options": [
+     "single room",
+     "detached house",
+     "home comforts",
+     "permanent address"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Many office workers live in a quiet _____ outside the city. They take the train downtown every morning for work.",
+    "options": [
+     "patio",
+     "veranda",
+     "barbeque",
+     "suburb"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "She rents a narrow _____ in a row of old brick homes. It shares walls with the houses on both sides.",
+    "options": [
+     "terraced house",
+     "spacious room",
+     "hall of residence",
+     "house-warming party"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "After saving for ten years, the couple finally bought their _____. It has a garden, a big kitchen, and a sea view.",
+    "options": [
+     "permanent address",
+     "hall of residence",
+     "dream home",
+     "single room"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The office has an open _____ with no walls between desks. This makes it easy for team members to talk.",
+    "options": [
+     "layout",
+     "port",
+     "barbeque",
+     "suburb"
+    ],
+    "answer": 0,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The old printer has been _____ all month. It keeps jamming, and the repair company has already visited three times.",
+    "options": [
+     "cozy",
+     "fully-furnished",
+     "troublesome",
+     "affordable"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The company provides a _____ apartment for overseas staff. It already has beds, sofas, and kitchen tools, so they bring only clothes.",
+    "options": [
+     "troublesome",
+     "fully-furnished",
+     "exhausting",
+     "nervous"
+    ],
+    "answer": 1,
+    "vocabIndex": 18
+   },
+   {
+    "q": "First-year university students usually live in a _____ on campus. It provides cheap rooms and shared kitchens for everyone.",
+    "options": [
+     "back garden",
+     "house-warming party",
+     "home comforts",
+     "hall of residence"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "During long business trips, Ms. Park misses her _____. She especially misses her own bed and cooking her own meals.",
+    "options": [
+     "house-warming party",
+     "apartment block",
+     "home comforts",
+     "permanent address"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Tom bought a new flat in the city last month. He invited all his coworkers to a _____ to celebrate moving in.",
+    "options": [
+     "permanent address",
+     "back garden",
+     "single room",
+     "house-warming party"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Moving all the files to the new office was _____. Everyone felt very tired by the end of the long day.",
+    "options": [
+     "exhausting",
+     "cozy",
+     "fully-furnished",
+     "affordable"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The sales team will _____ the new office on the fifth floor next week. The painters are finishing the walls now.",
+    "options": [
+     "afford",
+     "move into",
+     "chill out",
+     "complain"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "After the busy product launch, the manager told everyone to _____ this weekend. They deserve some rest after working so hard.",
+    "options": [
+     "afford",
+     "move into",
+     "borrow",
+     "chill out"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Please write your _____ on the form, not your hotel. We will send your contract there by mail next week.",
+    "options": [
+     "home comforts",
+     "permanent address",
+     "back garden",
+     "house-warming party"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "For many young families, the _____ has three bedrooms and a garden. It should also be close to good schools.",
+    "options": [
+     "hall of residence",
+     "single room",
+     "ideal home",
+     "permanent address"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The hotel charges less for a _____ than for a double. It has one bed and is perfect for business travelers.",
+    "options": [
+     "single room",
+     "back garden",
+     "apartment block",
+     "home comforts"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The training will be held in a _____ on the second floor. It can easily hold one hundred people at tables.",
+    "options": [
+     "single room",
+     "spacious room",
+     "home comforts",
+     "permanent address"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The small café near our office feels warm and _____. It has soft chairs, gentle lights, and very friendly staff.",
+    "options": [
+     "cozy",
+     "troublesome",
+     "exhausting",
+     "fully-furnished"
+    ],
+    "answer": 0,
+    "vocabIndex": 29
+   }
+  ]
+ },
+ "3": {
+  "theme": "Achievement 成就",
+  "source": "https://www.examword.com/group-topic/achievement",
+  "VOCAB": [
+   {
+    "word": "success",
+    "pos": "n.",
+    "en_def": "the good result of doing what you planned to do",
+    "cn_def": "成功",
+    "sentence": "A: Why did the director invite the whole sales team to a dinner at the hotel restaurant last Friday evening? B: She wanted to celebrate the {{BLANK}} of our new product launch, because we sold twice as many units as we expected in the first month, and she believed everyone deserved a reward for their hard work.",
+    "cn": "A：主管為什麼上週五晚上邀請整個業務團隊到飯店餐廳吃晚餐？ B：她想慶祝我們新產品上市的【成功】，因為第一個月的銷量是我們預期的兩倍，而且她認為每個人的努力都值得獎勵。",
+    "collocation": "achieve great success in business 在事業上獲得巨大成功"
+   },
+   {
+    "word": "accomplish",
+    "pos": "v.",
+    "en_def": "to finish something successfully",
+    "cn_def": "完成；達成",
+    "sentence": "A: Do you think our small team can finish the whole website redesign before the client meeting next Thursday afternoon? B: If we divide the work carefully, stay focused, and avoid long meetings this week, I believe we can {{BLANK}} the task on time, even though two designers are still on vacation until Monday.",
+    "cn": "A：你覺得我們這個小團隊能在下週四下午的客戶會議前完成整個網站改版嗎？ B：如果我們仔細分工、保持專注，並且這週避免開冗長的會議，我相信我們能準時【完成】這項任務，雖然有兩位設計師休假到星期一。",
+    "collocation": "accomplish a goal 達成目標"
+   },
+   {
+    "word": "attain",
+    "pos": "v.",
+    "en_def": "to reach a goal or level after a lot of effort",
+    "cn_def": "達到；獲得",
+    "sentence": "A: Why is the factory manager asking every worker to attend extra safety training on Saturday mornings this month? B: The company wants to {{BLANK}} an international quality certificate by the end of the year, and the inspectors will check whether every employee understands the new safety rules before they visit the factory.",
+    "cn": "A：為什麼工廠經理這個月要求每位工人星期六早上參加額外的安全訓練？ B：公司想在年底前【取得】一張國際品質認證，而檢查人員來工廠前會確認每位員工是否了解新的安全規定。",
+    "collocation": "attain a high standard 達到高標準"
+   },
+   {
+    "word": "milestone",
+    "pos": "n.",
+    "en_def": "an important event or stage in the development of something",
+    "cn_def": "里程碑；重要階段",
+    "sentence": "A: Why is everyone in the office wearing party hats and eating cake in the meeting room this afternoon? B: Our online store just reached one million customers, which is an important {{BLANK}} for a company that started in a tiny garage only five years ago, so the boss ordered snacks for everyone.",
+    "cn": "A：為什麼今天下午辦公室裡每個人都戴著派對帽、在會議室吃蛋糕？ B：我們的網路商店剛達到一百萬名顧客，對一家五年前才在小車庫創立的公司來說，這是一個重要的【里程碑】，所以老闆幫大家訂了點心。",
+    "collocation": "reach a major milestone 達到重大的里程碑"
+   },
+   {
+    "word": "fulfillment",
+    "pos": "n.",
+    "en_def": "a happy feeling that comes from doing something useful or important",
+    "cn_def": "成就感；滿足感",
+    "sentence": "A: Why did you leave your well-paid job at the bank to become a teacher at a small community center last year? B: The salary was great, but I never felt any real {{BLANK}} there, and now I feel happy every day because I can see my students improving and using English confidently at work.",
+    "cn": "A：你去年為什麼辭掉銀行的高薪工作，去一間小社區中心當老師？ B：那裡薪水很好，但我從沒感到真正的【成就感】，現在我每天都很快樂，因為我能看到學生進步，並在工作上自信地使用英文。",
+    "collocation": "find personal fulfillment in one's work 在工作中找到個人成就感"
+   },
+   {
+    "word": "triumph",
+    "pos": "n.",
+    "en_def": "a great success or victory",
+    "cn_def": "勝利；巨大成功",
+    "sentence": "A: How did the new marketing manager react when she heard that the company had signed the contract with the Japanese buyer? B: She called it a real {{BLANK}} for the whole department, because three other companies had also wanted the deal, and our team worked late every night for two months to prepare the proposal.",
+    "cn": "A：新任行銷經理聽到公司和日本買家簽約時有什麼反應？ B：她說這是整個部門的一大【勝利】，因為另外三家公司也想拿到這筆生意，而我們團隊連續兩個月每晚加班準備提案。",
+    "collocation": "a personal triumph 個人的重大成就"
+   },
+   {
+    "word": "excel",
+    "pos": "v.",
+    "en_def": "to be very good at something",
+    "cn_def": "擅長；表現出色",
+    "sentence": "A: Why did the human resources department choose Kevin to lead the customer service training program for new employees this year? B: He has always been able to {{BLANK}} at solving difficult problems with angry customers, and he explains things in a calm, friendly way that helps new staff feel relaxed and confident.",
+    "cn": "A：人資部門今年為什麼選凱文來負責新進員工的客服訓練課程？ B：他一向【擅長】處理憤怒顧客的棘手問題，而且他會用冷靜友善的方式解釋事情，讓新員工感到放鬆又有自信。",
+    "collocation": "excel at customer service 在客戶服務方面表現出色"
+   },
+   {
+    "word": "progress",
+    "pos": "n.",
+    "en_def": "movement toward finishing or improving something",
+    "cn_def": "進展；進步",
+    "sentence": "A: The construction company promised that the new office building would be ready in March, so why are we still working from the old one? B: Heavy rain stopped the workers for several weeks, so {{BLANK}} has been slower than planned, but the manager says we should be able to move in by early summer.",
+    "cn": "A：建設公司承諾新辦公大樓三月就會完工，為什麼我們還在舊大樓上班？ B：大雨讓工人停工好幾週，所以【進度】比計畫慢，不過經理說我們應該能在初夏前搬進去。",
+    "collocation": "make steady progress 穩定進步"
+   },
+   {
+    "word": "mastery",
+    "pos": "n.",
+    "en_def": "great skill or knowledge in a subject or activity",
+    "cn_def": "精通；熟練",
+    "sentence": "A: Why did the company hire a young engineer from Germany instead of choosing someone from the local office for the new project? B: Her {{BLANK}} of the latest design software is impressive, and the project needs someone who can solve technical problems quickly and also train our local team to use the same programs.",
+    "cn": "A：公司為什麼從德國聘請一位年輕工程師，而不是從本地辦公室挑人負責新專案？ B：她對最新設計軟體的【精通】令人佩服，而這個專案需要一個能快速解決技術問題、又能訓練本地團隊使用同樣程式的人。",
+    "collocation": "achieve mastery of a language 精通一門語言"
+   },
+   {
+    "word": "distinction",
+    "pos": "n.",
+    "en_def": "a special honor given for excellent work or results",
+    "cn_def": "優異成績；殊榮；卓越",
+    "sentence": "A: Have you heard anything about the new accountant who is joining our finance team next Monday morning? B: Yes, she graduated with {{BLANK}} from a famous business school in London, and after that she worked for an international bank for six years, so I think she will bring a lot of useful experience.",
+    "cn": "A：你有聽說下週一早上要加入我們財務團隊的新會計嗎？ B：有，她以【優異成績】從倫敦一所知名商學院畢業，之後在一家國際銀行工作了六年，所以我想她會帶來很多有用的經驗。",
+    "collocation": "graduate with distinction 以優異成績畢業"
+   },
+   {
+    "word": "recognition",
+    "pos": "n.",
+    "en_def": "public praise or thanks for something good someone has done",
+    "cn_def": "認可；表揚",
+    "sentence": "A: Why does the company hold a special lunch for staff members at the end of every quarter? B: The managers want to give public {{BLANK}} to employees who worked hard or helped customers in special ways, because they believe that thanking people in front of their coworkers makes everyone feel more motivated.",
+    "cn": "A：為什麼公司每季末都會為員工舉辦特別午餐？ B：主管們想公開【表揚】那些努力工作或用特別方式幫助顧客的員工，因為他們相信在同事面前感謝別人，會讓大家更有動力。",
+    "collocation": "receive recognition for hard work 因努力工作而獲得認可"
+   },
+   {
+    "word": "realize",
+    "pos": "v.",
+    "en_def": "to make a hope or plan really happen",
+    "cn_def": "實現（夢想、計畫）",
+    "sentence": "A: Why did your sister quit her office job and open a small bakery near the train station last spring? B: She had always dreamed of running her own business, and after saving money for ten years, she finally decided it was time to {{BLANK}} that dream before she got too busy with other responsibilities.",
+    "cn": "A：你姊姊去年春天為什麼辭掉辦公室工作，在火車站附近開了一家小麵包店？ B：她一直夢想經營自己的事業，存了十年的錢之後，她終於決定是時候【實現】這個夢想了，免得之後被其他責任綁住而太忙。",
+    "collocation": "realize one's potential 發揮自己的潛力"
+   },
+   {
+    "word": "victory",
+    "pos": "n.",
+    "en_def": "success in a game, competition, or fight",
+    "cn_def": "勝利",
+    "sentence": "A: Why is the sports shop on Main Street offering a thirty percent discount on all football shirts this weekend? B: The local team won the national championship last night, and the owner wants to celebrate the {{BLANK}} with the fans, so he expects the store to be very crowded until Sunday evening.",
+    "cn": "A：為什麼大街上的運動用品店這個週末所有足球衫都打七折？ B：當地球隊昨晚贏得全國冠軍，老闆想和球迷一起慶祝這場【勝利】，所以他預計店裡到星期日晚上都會很擁擠。",
+    "collocation": "celebrate a victory 慶祝勝利"
+   },
+   {
+    "word": "breakthrough",
+    "pos": "n.",
+    "en_def": "an important new discovery or development",
+    "cn_def": "突破；重大進展",
+    "sentence": "A: Why are the scientists in the research lab so excited, and why did the company cancel this afternoon's regular meeting? B: They finally made a major {{BLANK}} in developing a cheaper battery for electric cars, so the director called an urgent meeting with the investors to discuss how quickly the product can reach the market.",
+    "cn": "A：研究實驗室的科學家為什麼這麼興奮？公司又為什麼取消今天下午的例行會議？ B：他們終於在開發更便宜的電動車電池上有了重大【突破】，所以主管召開緊急會議，和投資人討論產品能多快上市。",
+    "collocation": "make a major breakthrough 取得重大突破"
+   },
+   {
+    "word": "accolade",
+    "pos": "n.",
+    "en_def": "praise or an award given for excellent work",
+    "cn_def": "讚揚；榮譽；獎項",
+    "sentence": "A: Have you seen the article in this morning's newspaper about the small Italian restaurant across the street from our office? B: Yes, a famous food critic gave it the highest {{BLANK}} of the year, so now it is almost impossible to book a table there for our team lunch next Friday.",
+    "cn": "A：你看了今天早報上那篇關於我們辦公室對面那家小義大利餐廳的報導嗎？ B：看了，一位知名美食評論家給了它今年最高的【讚譽】，所以現在要訂那裡的位子給我們下週五的團隊午餐幾乎不可能了。",
+    "collocation": "receive the highest accolade 獲得最高的讚譽"
+   },
+   {
+    "word": "honor",
+    "pos": "n.",
+    "en_def": "something that makes you feel proud and respected",
+    "cn_def": "榮幸；榮譽",
+    "sentence": "A: How did you feel when the president of the company asked you to give the opening speech at the annual conference in Singapore? B: It was a great {{BLANK}} for me, because I have only worked here for two years, but I was also very nervous about speaking in front of five hundred people.",
+    "cn": "A：公司總裁請你在新加坡年會上致開幕詞時，你有什麼感覺？ B：這對我來說是莫大的【榮幸】，因為我在這裡才工作兩年，但要在五百人面前演講也讓我非常緊張。",
+    "collocation": "it is an honor to work with you 能和你共事是我的榮幸"
+   },
+   {
+    "word": "advance",
+    "pos": "v.",
+    "en_def": "to move forward or get a higher position at work",
+    "cn_def": "晉升；前進",
+    "sentence": "A: Why are so many junior staff members signing up for the evening management courses that the company offers this semester? B: They know that employees who complete the courses usually {{BLANK}} to senior positions more quickly, and the company also pays for the classes, so it is a great opportunity for everyone.",
+    "cn": "A：為什麼這學期有這麼多基層員工報名公司開設的晚間管理課程？ B：他們知道完成課程的員工通常能更快【晉升】到高階職位，而且公司也負擔學費，所以對大家來說是很好的機會。",
+    "collocation": "advance in one's career 在職涯中晉升"
+   },
+   {
+    "word": "gain",
+    "pos": "v.",
+    "en_def": "to get something useful, such as skills or experience",
+    "cn_def": "獲得；增加",
+    "sentence": "A: Why did you accept a summer internship at a small trading company instead of taking a longer vacation with your family? B: I wanted to {{BLANK}} some practical experience before I graduate, and the manager there promised that I could work directly with overseas clients, which will look great on my resume.",
+    "cn": "A：你為什麼接受一家小貿易公司的暑期實習，而不是和家人去度個較長的假？ B：我想在畢業前【獲得】一些實務經驗，而且那裡的經理承諾我可以直接和海外客戶合作，這會讓我的履歷很加分。",
+    "collocation": "gain valuable experience 獲得寶貴的經驗"
+   },
+   {
+    "word": "prosperity",
+    "pos": "n.",
+    "en_def": "a situation of having money and success",
+    "cn_def": "繁榮；興旺",
+    "sentence": "A: Why has the city government spent so much money on building a new port and highway near the coast? B: The mayor believes that better transportation will attract foreign companies and bring long-term {{BLANK}} to the region, creating thousands of new jobs for young people who usually move away to find work.",
+    "cn": "A：市政府為什麼花那麼多錢在海岸附近興建新港口和高速公路？ B：市長相信更好的交通能吸引外國企業，為這個地區帶來長期的【繁榮】，替那些通常得外移找工作的年輕人創造數千個新工作機會。",
+    "collocation": "economic prosperity 經濟繁榮"
+   },
+   {
+    "word": "completion",
+    "pos": "n.",
+    "en_def": "the act of finishing something",
+    "cn_def": "完成；結束",
+    "sentence": "A: When will the contractor receive the final payment for renovating our office on the third floor? B: According to the contract, we will pay the last part of the money after the {{BLANK}} of all the work, including painting the walls, installing the new lights, and cleaning the whole area.",
+    "cn": "A：承包商什麼時候會收到我們三樓辦公室翻修的尾款？ B：根據合約，我們會在所有工程【完成】後支付最後一筆款項，包括粉刷牆壁、安裝新燈具以及清潔整個區域。",
+    "collocation": "upon completion of the project 專案完成時"
+   },
+   {
+    "word": "reward",
+    "pos": "n.",
+    "en_def": "something given to thank someone for good work or effort",
+    "cn_def": "獎勵；報酬",
+    "sentence": "A: Why did the store manager give each cashier a gift card and an extra day off at the end of the holiday season? B: It was a {{BLANK}} for their hard work during the busiest weeks of the year, when they served long lines of customers and stayed late almost every night without complaining.",
+    "cn": "A：店經理為什麼在假期旺季結束時給每位收銀員一張禮物卡和一天額外的假？ B：那是對他們在一年中最忙碌幾週辛勤工作的【獎勵】，當時他們服務大排長龍的顧客，幾乎每晚都留下來加班卻毫無怨言。",
+    "collocation": "offer a reward for good performance 為優異表現提供獎勵"
+   },
+   {
+    "word": "ambition",
+    "pos": "n.",
+    "en_def": "a strong wish to be successful or to do something",
+    "cn_def": "抱負；雄心",
+    "sentence": "A: What did the young sales assistant say during her interview when the manager asked about her plans for the future? B: She said her biggest {{BLANK}} is to open her own fashion company one day, and she wants to learn everything about buying, marketing, and managing a store while she works with us.",
+    "cn": "A：主管在面試時問那位年輕的銷售助理對未來的規劃，她怎麼回答？ B：她說她最大的【抱負】是有一天開自己的服裝公司，所以她想在跟我們工作時，學習所有關於採購、行銷和管理商店的知識。",
+    "collocation": "have the ambition to succeed 有成功的雄心"
+   },
+   {
+    "word": "merit",
+    "pos": "n.",
+    "en_def": "good quality or ability that deserves praise or reward",
+    "cn_def": "優點；功績；實力",
+    "sentence": "A: How does the company decide which employees receive a pay raise at the end of each year? B: Raises are based on {{BLANK}}, not on how long people have worked here, so managers look carefully at each person's results, teamwork, and customer feedback before they make any final decisions.",
+    "cn": "A：公司每年年底如何決定哪些員工可以加薪？ B：加薪是根據【實力與表現】，而不是看在這裡工作多久，所以主管在做最後決定前，會仔細檢視每個人的成果、團隊合作和顧客回饋。",
+    "collocation": "promotion based on merit 依功績晉升"
+   },
+   {
+    "word": "earn",
+    "pos": "v.",
+    "en_def": "to get money or respect because of your work",
+    "cn_def": "賺取；贏得",
+    "sentence": "A: Why does Daniel work as a tour guide on weekends even though he already has a full-time job at the bank? B: He wants to {{BLANK}} some extra money to pay for his master's degree next year, and he also enjoys meeting tourists from different countries and practicing his foreign languages.",
+    "cn": "A：丹尼爾已經在銀行有全職工作，為什麼週末還要當導遊？ B：他想【賺】一些外快來支付明年的碩士學費，而且他也喜歡認識來自不同國家的觀光客並練習外語。",
+    "collocation": "earn a good salary 賺取不錯的薪水"
+   },
+   {
+    "word": "win",
+    "forms": "win – won – won",
+    "pos": "v.",
+    "en_def": "to be the best in a competition or to get a prize or contract",
+    "cn_def": "贏得；獲勝",
+    "sentence": "A: Why is the design team working so late every evening this week, even though their normal projects are almost finished? B: They are preparing a special presentation because they really hope to {{BLANK}} the contract for the new airport terminal, which would be the biggest project in the company's history.",
+    "cn": "A：設計團隊這週為什麼每晚都加班到很晚，即使他們的一般專案都快完成了？ B：他們正在準備一份特別簡報，因為他們非常希望【贏得】新機場航廈的合約，那將是公司史上最大的專案。",
+    "collocation": "win a contract 贏得合約"
+   },
+   {
+    "word": "outcome",
+    "pos": "n.",
+    "en_def": "the final result of an action or event",
+    "cn_def": "結果；成果",
+    "sentence": "A: Have the managers decided whether we will move our main office to the new business park outside the city? B: Not yet, they are still discussing the costs with the landlord, and they said they will tell all the staff about the final {{BLANK}} of the negotiations at the meeting next Wednesday.",
+    "cn": "A：主管們決定好是否要把總公司搬到市郊新的商業園區了嗎？ B：還沒，他們還在和房東討論費用，並說會在下週三的會議上告訴所有員工談判的最終【結果】。",
+    "collocation": "a positive outcome 正面的結果"
+   },
+   {
+    "word": "acquire",
+    "pos": "v.",
+    "en_def": "to get or learn something, such as a skill or a company",
+    "cn_def": "習得；取得；收購",
+    "sentence": "A: Why does the company send new engineers to work in the Tokyo office for six months during their first year? B: It helps them {{BLANK}} useful skills and learn how our partners in Japan work, so they can communicate better with overseas clients when they return to the head office.",
+    "cn": "A：公司為什麼在新工程師的第一年派他們到東京辦公室工作六個月？ B：這能幫助他們【習得】實用的技能，並了解我們日本夥伴的工作方式，讓他們回到總公司後能和海外客戶更順利地溝通。",
+    "collocation": "acquire new skills 習得新技能"
+   },
+   {
+    "word": "status",
+    "pos": "n.",
+    "en_def": "a person's position or importance compared with others",
+    "cn_def": "地位；身分",
+    "sentence": "A: Why do so many of our clients insist on staying at the expensive five-star hotel downtown when they visit for business meetings? B: For many of them, staying there shows their high {{BLANK}} in the company, and they also like the quiet meeting rooms and the excellent restaurant on the top floor.",
+    "cn": "A：為什麼我們很多客戶來開商務會議時，堅持要住市中心那家昂貴的五星級飯店？ B：對他們很多人來說，住在那裡能彰顯他們在公司裡的崇高【地位】，而且他們也喜歡那裡安靜的會議室和頂樓的高級餐廳。",
+    "collocation": "social status 社會地位"
+   },
+   {
+    "word": "self-made",
+    "pos": "adj.",
+    "en_def": "successful or rich because of your own hard work, not help from others",
+    "cn_def": "白手起家的",
+    "sentence": "A: What do you know about the woman who will give the main speech at the small business conference next month? B: She is a {{BLANK}} businesswoman who started selling handmade bags at a night market twenty years ago, and today her company has more than fifty shops across Asia and Europe.",
+    "cn": "A：你對下個月在小企業研討會上發表主題演講的那位女士了解多少？ B：她是一位【白手起家的】女企業家，二十年前從夜市賣手工包包起家，如今她的公司在亞洲和歐洲擁有超過五十家店。",
+    "collocation": "a self-made millionaire 白手起家的百萬富翁"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The new coffee shop has been open for only three months. Its quick _____ surprised even the owners, who expected a slow start.",
+    "options": [
+     "ambition",
+     "completion",
+     "success",
+     "merit"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Our team has only two days left before the deadline. We must work together to _____ everything on the checklist.",
+    "options": [
+     "accomplish",
+     "excel",
+     "earn",
+     "gain"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The hotel hopes to _____ a five-star rating next year. It has hired more staff and redesigned all of its rooms.",
+    "options": [
+     "excel",
+     "advance",
+     "accomplish",
+     "attain"
+    ],
+    "answer": 3,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Reaching ten thousand app downloads was an important _____ for the start-up. The founders celebrated with a small party in the office.",
+    "options": [
+     "mastery",
+     "milestone",
+     "merit",
+     "accolade"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Many nurses say that helping patients gives them a deep sense of _____. They enjoy their work even on difficult days.",
+    "options": [
+     "fulfillment",
+     "prosperity",
+     "status",
+     "outcome"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The small company beat several large competitors to sign the deal. The CEO described the contract as a great _____ for everyone.",
+    "options": [
+     "completion",
+     "ambition",
+     "status",
+     "triumph"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Maria has always been good with numbers and details. She continues to _____ in her role as the company's chief accountant.",
+    "options": [
+     "attain",
+     "excel",
+     "acquire",
+     "earn"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The software project is moving slowly this month. The manager will check our _____ again at Friday's meeting.",
+    "options": [
+     "honor",
+     "prosperity",
+     "progress",
+     "accolade"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Applicants must show complete _____ of spreadsheet software. The position involves preparing detailed financial reports every week.",
+    "options": [
+     "victory",
+     "reward",
+     "outcome",
+     "mastery"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Ms. Chen completed her accounting degree with _____. Several large firms offered her a job before she even graduated.",
+    "options": [
+     "distinction",
+     "progress",
+     "prosperity",
+     "completion"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The volunteers received official _____ from the city for cleaning the riverside park. The mayor thanked them at a public ceremony.",
+    "options": [
+     "completion",
+     "recognition",
+     "prosperity",
+     "mastery"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "After years of planning, the two chefs finally opened their own restaurant. They were able to _____ their dream at last.",
+    "options": [
+     "excel",
+     "gain",
+     "realize",
+     "earn"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Fans cheered loudly after the final whistle. The local team's _____ in the championship match will be celebrated with a parade.",
+    "options": [
+     "merit",
+     "victory",
+     "fulfillment",
+     "status"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Researchers made an important _____ in battery design last month. The new batteries charge twice as fast as older models.",
+    "options": [
+     "honor",
+     "accolade",
+     "ambition",
+     "breakthrough"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The film won the highest _____ at the international festival. The director thanked the cast in a short speech.",
+    "options": [
+     "progress",
+     "completion",
+     "accolade",
+     "ambition"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "It is a great _____ to welcome our keynote speaker tonight. She has written five best-selling books on leadership.",
+    "options": [
+     "honor",
+     "progress",
+     "outcome",
+     "mastery"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Employees who complete the leadership course often _____ quickly within the company. Many become department heads within five years.",
+    "options": [
+     "attain",
+     "advance",
+     "acquire",
+     "accomplish"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Volunteering abroad is a good way to _____ international experience. Many employers value workers who have lived in other countries.",
+    "options": [
+     "gain",
+     "excel",
+     "advance",
+     "realize"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The new factory brought jobs and _____ to the small town. Local shops and restaurants are busier than ever before.",
+    "options": [
+     "mastery",
+     "ambition",
+     "distinction",
+     "prosperity"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The bridge is scheduled for _____ in December. Until then, drivers should use the old road along the river.",
+    "options": [
+     "accolade",
+     "triumph",
+     "completion",
+     "fulfillment"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The company offers a cash _____ to any employee who suggests a way to save money. Last year, twelve workers received one.",
+    "options": [
+     "milestone",
+     "outcome",
+     "status",
+     "reward"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Tom's _____ is to become a regional manager before he turns thirty. He studies business English every evening after work.",
+    "options": [
+     "completion",
+     "ambition",
+     "prosperity",
+     "accolade"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "All scholarship winners are chosen on the basis of _____. Family income and personal connections are not considered.",
+    "options": [
+     "merit",
+     "milestone",
+     "triumph",
+     "completion"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Sales staff can _____ a bonus of up to ten percent of their salary. The amount depends on how many products they sell.",
+    "options": [
+     "excel",
+     "advance",
+     "earn",
+     "realize"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Our agency hopes to _____ the advertising contract with the sports company. The final decision will be announced on Friday.",
+    "options": [
+     "win",
+     "excel",
+     "realize",
+     "advance"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Both sides were pleased with the _____ of the negotiations. They agreed to sign a three-year partnership next month.",
+    "options": [
+     "ambition",
+     "mastery",
+     "honor",
+     "outcome"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The training program helps new staff _____ the skills they need for the job. It lasts two weeks and includes practical exercises.",
+    "options": [
+     "excel",
+     "advance",
+     "acquire",
+     "accomplish"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Owning a luxury car is a sign of _____ in many countries. However, more young professionals now prefer to use public transportation.",
+    "options": [
+     "completion",
+     "status",
+     "breakthrough",
+     "fulfillment"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Mr. Lin is a _____ businessman who started with nothing. He opened his first shop with money he saved from a part-time job.",
+    "options": [
+     "last-minute",
+     "one-way",
+     "self-made",
+     "low-cost"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The charity event was a great _____. It raised more than two million dollars for the children's hospital.",
+    "options": [
+     "merit",
+     "success",
+     "completion",
+     "ambition"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   }
+  ]
+ },
+ "4": {
+  "theme": "Activity 活動",
+  "source": "https://www.examword.com/group-topic/activity",
+  "VOCAB": [
+   {
+    "word": "event",
+    "pos": "n.",
+    "en_def": "something important or special that happens, often planned",
+    "cn_def": "活動；大型活動；事件",
+    "sentence": "A: Why is the hotel lobby so crowded today, and why are there so many people in suits carrying name badges and brochures? B: A large technology company has rented the main hall for a special {{BLANK}} to celebrate its twentieth anniversary, so hundreds of guests, partners, and reporters have arrived from different cities this morning.",
+    "cn": "A：為什麼今天飯店大廳這麼擁擠，而且有這麼多穿西裝的人拿著名牌和手冊？ B：一家大型科技公司租下了主廳舉辦一場特別的【活動】來慶祝二十週年，所以今天早上有數百位賓客、合作夥伴和記者從不同城市來到這裡。",
+    "collocation": "organize a company event 籌辦公司活動"
+   },
+   {
+    "word": "occasion",
+    "pos": "n.",
+    "en_def": "a special time or event",
+    "cn_def": "場合；特殊時刻",
+    "sentence": "A: Should I wear my usual work clothes to the retirement dinner for Mr. Lin on Friday night, or do you think something more formal would be better? B: Since it is an important {{BLANK}} and the president will give a speech, most of the staff are planning to wear suits or nice dresses, so I would dress up a little.",
+    "cn": "A：週五晚上林先生的退休晚宴，我應該穿平常的上班服裝，還是你覺得穿正式一點比較好？ B：因為這是一個重要的【場合】，而且總裁會致詞，大部分員工都打算穿西裝或漂亮的洋裝，所以我會稍微打扮一下。",
+    "collocation": "on a special occasion 在特殊場合"
+   },
+   {
+    "word": "gathering",
+    "pos": "n.",
+    "en_def": "a meeting of people for a social or work purpose",
+    "cn_def": "聚會；集會",
+    "sentence": "A: Are you going to the small {{BLANK}} in the staff lounge after work today, or do you have to leave early to pick up your children from school? B: I will stay for about an hour because the team wants to say goodbye to Emma, who is moving to our Tokyo office next week, and I helped buy her gift.",
+    "cn": "A：你今天下班後會去員工休息室的小型【聚會】嗎？還是你得早點離開去學校接小孩？ B：我會待大約一個小時，因為團隊想跟下週要調到東京辦公室的艾瑪道別，而且我有幫忙買她的禮物。",
+    "collocation": "a social gathering for new employees 新進員工的聯誼聚會"
+   },
+   {
+    "word": "celebration",
+    "pos": "n.",
+    "en_def": "a party or special event to show you are happy about something",
+    "cn_def": "慶祝；慶祝活動",
+    "sentence": "A: Why did the manager order so many cakes and balloons for the office this afternoon, and is it someone's birthday today? B: No, it is a {{BLANK}} for our sales team, because they reached their yearly target two months early, and the director wants to thank everyone for working so hard during the busy season.",
+    "cn": "A：為什麼經理今天下午幫辦公室訂了這麼多蛋糕和氣球？今天是誰生日嗎？ B：不是，這是為我們業務團隊舉辦的【慶祝活動】，因為他們提早兩個月達成年度目標，主管想感謝大家在旺季這麼努力工作。",
+    "collocation": "hold a celebration for the team's success 為團隊的成功舉辦慶祝活動"
+   },
+   {
+    "word": "festival",
+    "pos": "n.",
+    "en_def": "a special time when people enjoy music, food, or culture, often for several days",
+    "cn_def": "節慶；（藝術、音樂等）節",
+    "sentence": "A: Why are all the hotels near the river fully booked next weekend, and where should our visiting clients stay during their trip? B: The city is holding its yearly food and music {{BLANK}} by the river, so thousands of tourists are coming, and we should book rooms in a business hotel near the train station instead.",
+    "cn": "A：為什麼下週末河邊附近的飯店都客滿了？來訪的客戶出差期間應該住在哪裡？ B：市政府要在河邊舉辦一年一度的美食音樂【節】，所以會有數千名遊客湧入，我們應該改訂火車站附近的商務旅館。",
+    "collocation": "a music festival held every summer 每年夏天舉辦的音樂節"
+   },
+   {
+    "word": "ceremony",
+    "pos": "n.",
+    "en_def": "a formal public event with special traditions or actions",
+    "cn_def": "典禮；儀式",
+    "sentence": "A: What time should the guests arrive at the new factory on Monday morning, and will there be enough chairs for the local reporters? B: The opening {{BLANK}} starts at ten o'clock, when the mayor will cut the ribbon, so guests should arrive by nine-thirty, and I have already asked the staff to set up fifty extra seats.",
+    "cn": "A：週一早上賓客應該幾點到達新工廠？給當地記者的椅子夠嗎？ B：開幕【典禮】十點開始，屆時市長會剪綵，所以賓客應該在九點半前抵達，而且我已經請員工多擺五十個座位。",
+    "collocation": "an awards ceremony 頒獎典禮"
+   },
+   {
+    "word": "function",
+    "pos": "n.",
+    "en_def": "a formal social event, such as a party or dinner",
+    "cn_def": "宴會；正式聚會",
+    "sentence": "A: Is the large dining room on the top floor of the hotel available on Saturday evening, or has another company already reserved it? B: I'm sorry, but a bank is holding a private {{BLANK}} for its most important customers that night, so the room is closed to the public, but our garden restaurant still has space.",
+    "cn": "A：飯店頂樓的大型餐廳週六晚上可以使用嗎？還是已經被其他公司預訂了？ B：很抱歉，那天晚上一家銀行要為最重要的客戶舉辦私人【宴會】，所以那個廳不對外開放，不過我們的花園餐廳還有位子。",
+    "collocation": "a private function room 私人宴會廳"
+   },
+   {
+    "word": "program",
+    "pos": "n.",
+    "en_def": "a planned series of activities or events",
+    "cn_def": "計畫；課程方案；節目",
+    "sentence": "A: How can new employees learn about the company's products and safety rules before they start working in the warehouse next month? B: The human resources department has created a two-week training {{BLANK}} with short classes, factory tours, and practice tests, so every new worker will understand the main rules before their first real shift.",
+    "cn": "A：新進員工下個月開始在倉庫工作前，要怎麼了解公司的產品和安全規定？ B：人資部門設計了一個為期兩週的訓練【計畫】，包括短期課程、工廠參觀和練習測驗，所以每位新員工在第一次正式上班前都會了解主要規定。",
+    "collocation": "a training program for new staff 新進員工訓練計畫"
+   },
+   {
+    "word": "session",
+    "pos": "n.",
+    "en_def": "a period of time used for a particular activity",
+    "cn_def": "（活動的）一段時間；場次；講習",
+    "sentence": "A: I couldn't get to the conference until lunchtime because my flight was delayed, so did I miss anything really important this morning? B: You missed the first {{BLANK}} about online marketing, but the speaker uploaded her slides to the website, and the afternoon talks about customer service are probably more useful for your team anyway.",
+    "cn": "A：我的班機延誤，所以到中午才趕到研討會，我今天早上有錯過什麼很重要的內容嗎？ B：你錯過了第一【場】關於網路行銷的講座，不過講者已經把投影片上傳到網站，而且下午關於客服的演講對你的團隊可能反而更有用。",
+    "collocation": "a question-and-answer session 問答時間"
+   },
+   {
+    "word": "meeting",
+    "pos": "n.",
+    "en_def": "an event when people come together to discuss something",
+    "cn_def": "會議",
+    "sentence": "A: Why isn't Mr. Chen answering his phone this morning, when the client from Singapore has called him three times already? B: He is in a long {{BLANK}} with the board of directors to discuss next year's budget, and he asked his assistant not to disturb him until it finishes at about eleven-thirty.",
+    "cn": "A：為什麼陳先生今天早上都不接電話？新加坡的客戶已經打給他三次了。 B：他正在和董事會開一場很長的【會議】討論明年的預算，他請助理在大約十一點半結束前不要打擾他。",
+    "collocation": "hold a staff meeting 召開員工會議"
+   },
+   {
+    "word": "workshop",
+    "pos": "n.",
+    "en_def": "a meeting where people learn a skill by doing practical activities",
+    "cn_def": "研習會；工作坊",
+    "sentence": "A: Do you know any good way for our sales staff to improve their speaking skills before they meet the overseas buyers next month? B: Yes, a local business school is offering a one-day {{BLANK}} on presentation skills, where each person practices speaking in small groups and gets helpful feedback from an experienced trainer.",
+    "cn": "A：你知道有什麼好方法可以讓我們的業務人員在下個月見國外買家之前提升口說能力嗎？ B：有，當地一所商學院開設了為期一天的簡報技巧【工作坊】，每個人都會在小組中練習說話，並得到經驗豐富的講師給予的實用回饋。",
+    "collocation": "attend a writing workshop 參加寫作工作坊"
+   },
+   {
+    "word": "seminar",
+    "pos": "n.",
+    "en_def": "a class or meeting where a small group discusses a subject with an expert",
+    "cn_def": "研討會；專題討論會",
+    "sentence": "A: Why are so many accountants from our department leaving the office early this Thursday afternoon, and who will answer client calls? B: They are going to a {{BLANK}} at the city hall about the new tax laws, which will start next year, and two staff members from the front desk will answer the phones while they are away.",
+    "cn": "A：為什麼我們部門這週四下午有這麼多會計師提早離開辦公室？誰來接客戶的電話？ B：他們要去市政廳參加一場關於明年開始實施的新稅法的【研討會】，他們不在時，櫃台的兩位員工會負責接電話。",
+    "collocation": "give a seminar on tax law 主講稅法研討會"
+   },
+   {
+    "word": "conference",
+    "pos": "n.",
+    "en_def": "a large formal meeting where many people discuss a subject, often for several days",
+    "cn_def": "（大型）會議；大會",
+    "sentence": "A: Have you booked your flight to Singapore for next month yet, and are you going to give a speech there this year? B: Yes, I booked it yesterday, because I'm speaking at the international {{BLANK}} on green energy, where about two thousand engineers and business leaders will share ideas for three days.",
+    "cn": "A：你訂好下個月飛新加坡的機票了嗎？你今年會在那裡演講嗎？ B：訂好了，我昨天訂的，因為我要在國際綠能【大會】上演講，屆時大約兩千名工程師和企業領袖會在三天內交流想法。",
+    "collocation": "attend an international conference 參加國際會議"
+   },
+   {
+    "word": "competition",
+    "pos": "n.",
+    "en_def": "an event in which people try to win a prize by being the best",
+    "cn_def": "比賽；競賽",
+    "sentence": "A: Why is everyone in the design department working so late every night this week, even though our big project is already finished? B: They entered a national {{BLANK}} for the best new product packaging, and the winning team will receive a large cash prize, so they want their design to be perfect before Friday's deadline.",
+    "cn": "A：為什麼設計部的每個人這週每天晚上都工作到這麼晚？我們的大案子明明已經完成了。 B：他們報名了一場全國最佳新產品包裝【比賽】，獲勝的團隊會得到一大筆獎金，所以他們希望在週五截止前讓設計完美無缺。",
+    "collocation": "win a design competition 贏得設計比賽"
+   },
+   {
+    "word": "tournament",
+    "pos": "n.",
+    "en_def": "a sports or game competition with many players or teams and several rounds",
+    "cn_def": "錦標賽；聯賽",
+    "sentence": "A: Why is the company gym booked every evening this month, when I usually go there after work to exercise? B: Our office is holding a basketball {{BLANK}} between eight departments, and teams practice there every night, but the games will end next Friday, so you can use the gym again after that.",
+    "cn": "A：為什麼公司健身房這個月每天晚上都被預約滿了？我平常下班後都會去那裡運動。 B：我們辦公室正在舉辦一場八個部門之間的籃球【錦標賽】，各隊每天晚上都在那裡練習，不過比賽下週五就會結束，之後你就可以再使用健身房了。",
+    "collocation": "a company golf tournament 公司高爾夫錦標賽"
+   },
+   {
+    "word": "performance",
+    "pos": "n.",
+    "en_def": "the act of playing music, dancing, or acting in front of people",
+    "cn_def": "演出；表演",
+    "sentence": "A: Did you enjoy the company's year-end party at the hotel last night, or did you leave early because you were so tired? B: I stayed until the end, because the most exciting part was a live {{BLANK}} by a famous jazz band, and the guests kept dancing and clapping until almost midnight.",
+    "cn": "A：你昨晚喜歡公司在飯店舉辦的尾牙嗎？還是因為太累提早離開了？ B：我待到最後，因為最精彩的部分是一個知名爵士樂團的現場【演出】，賓客一直跳舞拍手到快午夜。",
+    "collocation": "a live performance 現場演出"
+   },
+   {
+    "word": "show",
+    "pos": "n.",
+    "en_def": "an event where people look at products or watch entertainment",
+    "cn_def": "展覽；表演；節目",
+    "sentence": "A: Why did the marketing team pack so many boxes of brochures and product samples into the van this morning? B: They are driving to the convention center for a three-day trade {{BLANK}}, where hundreds of companies display their newest products, and they hope to meet many new buyers from Japan and Korea there.",
+    "cn": "A：為什麼行銷團隊今天早上把這麼多箱手冊和產品樣品搬上廂型車？ B：他們要開車到會展中心參加為期三天的貿易【展】，數百家公司會在那裡展示最新產品，他們希望能在那裡認識許多來自日本和韓國的新買家。",
+    "collocation": "a trade show booth 商展攤位"
+   },
+   {
+    "word": "exhibition",
+    "pos": "n.",
+    "en_def": "a public event where art or products are shown to people",
+    "cn_def": "展覽；展覽會",
+    "sentence": "A: What are you planning to do with the visiting clients on Saturday afternoon after the factory tour is over? B: I'm going to take them to the city museum, because there is a special {{BLANK}} of old Taiwanese photographs and paintings, and they told me they are very interested in local history and art.",
+    "cn": "A：週六下午工廠參觀結束後，你打算帶來訪的客戶做什麼？ B：我要帶他們去市立博物館，因為那裡有一個台灣老照片和畫作的特別【展覽】，他們跟我說對當地歷史和藝術很有興趣。",
+    "collocation": "an art exhibition at the museum 博物館的藝術展覽"
+   },
+   {
+    "word": "presentation",
+    "pos": "n.",
+    "en_def": "a talk that gives information about something to a group of people",
+    "cn_def": "簡報；報告",
+    "sentence": "A: You look very nervous this morning, so is something wrong with the new project, or did you not sleep well last night? B: I have to give a {{BLANK}} to the senior managers about our sales results at ten o'clock, and I'm worried that the projector might not work, so I printed copies of every slide.",
+    "cn": "A：你今天早上看起來很緊張，是新專案出了什麼問題，還是昨晚沒睡好？ B：我十點要向高階主管做一場關於業績結果的【簡報】，我擔心投影機可能會故障，所以把每張投影片都印出來了。",
+    "collocation": "give a presentation to clients 向客戶做簡報"
+   },
+   {
+    "word": "demonstration",
+    "pos": "n.",
+    "en_def": "an act of showing how something works or how to do something",
+    "cn_def": "示範；展示",
+    "sentence": "A: How will the store staff learn to use the new coffee machines before the café opens to customers next Monday? B: A technician from the supplier is coming on Friday afternoon to give a {{BLANK}}, so she will show everyone step by step how to clean the machine and make each type of drink.",
+    "cn": "A：門市員工要怎麼在下週一咖啡廳開幕前學會使用新的咖啡機？ B：供應商的技術人員週五下午會來做【示範】，她會一步一步教大家如何清潔機器以及製作每一種飲料。",
+    "collocation": "a product demonstration 產品示範"
+   },
+   {
+    "word": "activity-based",
+    "pos": "adj.",
+    "en_def": "using practical activities to help people learn or work",
+    "cn_def": "以活動為主的；活動式的",
+    "sentence": "A: The new employees seemed bored during last month's training, so how can we make the lessons more interesting for the next group? B: We should try an {{BLANK}} approach, where trainees solve real problems in small teams and play short role-play games instead of listening to long lectures all day.",
+    "cn": "A：新進員工在上個月的訓練中似乎很無聊，我們要怎麼讓下一梯次的課程更有趣？ B：我們應該試試【以活動為主的】方式，讓學員以小組解決真實問題並玩簡短的角色扮演遊戲，而不是整天聽冗長的講課。",
+    "collocation": "activity-based learning 活動式學習"
+   },
+   {
+    "word": "interactive",
+    "pos": "adj.",
+    "en_def": "allowing people to take part and communicate, not just watch or listen",
+    "cn_def": "互動的；互動式的",
+    "sentence": "A: Why do so many children and parents visit the science museum downtown on weekends, even though the tickets are quite expensive? B: The museum has many {{BLANK}} displays, where visitors can touch screens, build simple machines, and try small experiments, so families have fun and learn something at the same time.",
+    "cn": "A：為什麼週末有這麼多孩子和家長去市中心的科學博物館，即使門票相當貴？ B：博物館有很多【互動式的】展示，參觀者可以觸碰螢幕、組裝簡單的機器並嘗試小實驗，所以家庭可以同時玩得開心又學到東西。",
+    "collocation": "an interactive website 互動式網站"
+   },
+   {
+    "word": "recreational",
+    "pos": "adj.",
+    "en_def": "relating to activities that people do for fun when they are not working",
+    "cn_def": "娛樂的；休閒的",
+    "sentence": "A: What kind of benefits does the new company offer its staff, apart from a good salary and health insurance? B: It has a large {{BLANK}} center next to the office with a swimming pool, a game room, and tennis courts, so employees can relax and exercise after work without paying any extra fees.",
+    "cn": "A：除了優渥的薪水和健康保險，新公司還提供員工哪些福利？ B：公司在辦公室旁邊有一座大型【休閒】中心，裡面有游泳池、遊戲室和網球場，所以員工下班後可以放鬆和運動，不需要另外付費。",
+    "collocation": "recreational facilities 休閒設施"
+   },
+   {
+    "word": "scheduled",
+    "pos": "adj.",
+    "en_def": "planned for a particular time",
+    "cn_def": "預定的；排定的",
+    "sentence": "A: Is the shipment of new office furniture still going to arrive on Tuesday, or has the delivery company changed the date again? B: The {{BLANK}} delivery time is still Tuesday at two o'clock, but the driver said heavy rain might cause a short delay, so someone should wait at the loading area that afternoon.",
+    "cn": "A：新辦公家具還是會在週二送到嗎？還是貨運公司又改日期了？ B：【預定的】送貨時間還是週二下午兩點，不過司機說大雨可能會造成短暫延誤，所以那天下午應該要有人在卸貨區等。",
+    "collocation": "a scheduled flight 預定的班機"
+   },
+   {
+    "word": "organized",
+    "pos": "adj.",
+    "en_def": "planned carefully and arranged well",
+    "cn_def": "有組織的；安排好的",
+    "sentence": "A: Are you going on the weekend trip to the mountains with the rest of the accounting team, or do you prefer to rest at home? B: I'm going, because it's an {{BLANK}} tour with a bus, a local guide, and all the meals included, so I don't need to plan anything or worry about getting lost.",
+    "cn": "A：你會跟會計團隊的其他人一起去山上的週末旅行嗎？還是你比較想在家休息？ B：我會去，因為那是一個【安排好的】團體行程，包含巴士、當地導遊和所有餐點，所以我不需要計畫任何事情，也不用擔心迷路。",
+    "collocation": "an organized tour 有組織的旅遊團"
+   },
+   {
+    "word": "participate",
+    "pos": "v.",
+    "en_def": "to take part in an activity or event",
+    "cn_def": "參加；參與",
+    "sentence": "A: Do all employees have to join the company's charity run in the park next Sunday morning, even if they are not very good at running? B: No, nobody is required to {{BLANK}}, but the manager hopes many people will join, because the money we raise will help buy books for children at a local school.",
+    "cn": "A：所有員工都必須參加下週日早上在公園舉辦的公司慈善路跑嗎？即使不太擅長跑步也一樣？ B：不，沒有人被要求一定要【參加】，但經理希望很多人會加入，因為我們募到的錢會用來幫當地一所學校的孩子買書。",
+    "collocation": "participate in a discussion 參與討論"
+   },
+   {
+    "word": "host",
+    "pos": "v.",
+    "en_def": "to organize an event and invite people to it",
+    "cn_def": "主辦；舉辦",
+    "sentence": "A: Which city did the board of directors finally choose for next year's sales meeting, and when will they tell the regional managers? B: They decided that our Taichung office will {{BLANK}} the meeting, because it has a large new conference room and is close to the high-speed rail station, and they will announce it on Monday.",
+    "cn": "A：董事會最後選了哪個城市辦明年的業務會議？他們什麼時候會告知各區經理？ B：他們決定由我們台中辦公室【主辦】這場會議，因為那裡有一間新的大型會議室，而且離高鐵站很近，他們會在週一宣布。",
+    "collocation": "host a dinner party 主辦晚宴"
+   },
+   {
+    "word": "attend",
+    "pos": "v.",
+    "en_def": "to go to an event, such as a meeting or class",
+    "cn_def": "出席；參加",
+    "sentence": "A: Will you be able to {{BLANK}} the training workshop on customer service tomorrow afternoon, or are you still busy preparing the monthly report? B: I'll be there, because my supervisor said it is very important for everyone who works at the front desk, and I finished most of the report last night anyway.",
+    "cn": "A：你明天下午能【出席】客服訓練工作坊嗎？還是你還在忙著準備月報？ B：我會到，因為主管說這對所有在櫃台工作的人都非常重要，而且反正我昨晚已經把報告大部分完成了。",
+    "collocation": "attend a meeting 出席會議"
+   },
+   {
+    "word": "conduct",
+    "pos": "v.",
+    "en_def": "to organize and do a particular activity",
+    "cn_def": "進行；實施",
+    "sentence": "A: How will the company find out whether customers are happy with the new mobile app that we released last month? B: The marketing department plans to {{BLANK}} an online survey next week, asking about five hundred users to answer ten short questions, and the results will help the designers decide what to improve.",
+    "cn": "A：公司要怎麼了解顧客是否滿意我們上個月推出的新手機應用程式？ B：行銷部打算下週【進行】一項線上調查，請大約五百位使用者回答十個簡短的問題，結果會幫助設計師決定要改善哪些地方。",
+    "collocation": "conduct a survey 進行調查"
+   },
+   {
+    "word": "launch",
+    "pos": "v.",
+    "en_def": "to start something new, or to make a new product available",
+    "cn_def": "推出；發起",
+    "sentence": "A: Why has the marketing team been working so hard on weekends recently, and when will they finally get some rest? B: The company is going to {{BLANK}} its new line of energy drinks at a big event next month, so they are busy preparing the advertisements, the website, and the free samples for customers.",
+    "cn": "A：為什麼行銷團隊最近週末都這麼努力工作？他們什麼時候才能休息？ B：公司下個月要在一場大型活動中【推出】新系列的能量飲料，所以他們正忙著準備廣告、網站和給顧客的免費樣品。",
+    "collocation": "launch a new product 推出新產品"
+   },
+   {
+    "word": "engage",
+    "pos": "v.",
+    "en_def": "to take part in an activity, or to get someone interested",
+    "cn_def": "參與；吸引（注意）",
+    "sentence": "A: Why does the new manager always ask so many questions and give small prizes during her training classes for the sales staff? B: She wants everyone to {{BLANK}} in the discussion instead of just sitting quietly, because she believes people remember more information when they share their own ideas and experiences with the group.",
+    "cn": "A：為什麼新經理在業務人員訓練課上總是問很多問題又發小獎品？ B：她希望大家都能【參與】討論，而不是只是安靜地坐著，因為她相信當人們和團隊分享自己的想法和經驗時，會記得更多資訊。",
+    "collocation": "engage in a conversation 參與對話"
+   },
+   {
+    "word": "occur",
+    "pos": "v.",
+    "en_def": "to happen",
+    "cn_def": "發生",
+    "sentence": "A: Why did the factory manager suddenly call an emergency meeting this afternoon, and should the office staff join it too? B: He wants to explain the new safety rules, because two small accidents happened in the warehouse last week, and he wants to make sure that problems like that never {{BLANK}} again in any part of the building.",
+    "cn": "A：為什麼工廠經理今天下午突然召開緊急會議？辦公室員工也要參加嗎？ B：他想說明新的安全規定，因為上週倉庫發生了兩起小意外，他要確保這類問題不會在大樓的任何地方再次【發生】。",
+    "collocation": "accidents occur 事故發生"
+   },
+   {
+    "word": "wrap-up",
+    "pos": "n.",
+    "en_def": "the final part of an event that sums up what happened",
+    "cn_def": "總結；收尾",
+    "sentence": "A: Do I need to stay until the very end of the three-day conference on Friday, or can I leave after the last afternoon talk? B: Please stay for the {{BLANK}} at four o'clock, because the organizers will summarize the main ideas from every session, give out certificates, and explain how to download all of the speakers' slides.",
+    "cn": "A：週五這場為期三天的研討會，我需要待到最後嗎？還是可以在下午最後一場演講後離開？ B：請留下來參加四點的【總結】，因為主辦單位會歸納每一場的重點、頒發證書，並說明如何下載所有講者的投影片。",
+    "collocation": "a wrap-up meeting at the end of the day 一天結束時的總結會議"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Please register online before Friday if you plan to join the anniversary dinner. Space at the _____ is limited to two hundred guests.",
+    "options": [
+     "event",
+     "tournament",
+     "demonstration",
+     "competition"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Mr. Park brought his best camera to the awards dinner. He wanted to remember the special _____ when his team won first prize.",
+    "options": [
+     "program",
+     "occasion",
+     "session",
+     "workshop"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "About thirty former employees met at a small restaurant last Saturday night. The friendly _____ gave them a chance to share old stories.",
+    "options": [
+     "tournament",
+     "demonstration",
+     "gathering",
+     "conference"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The shop reached one million dollars in sales this year. To thank the staff, the owner is planning a big _____ with food and music.",
+    "options": [
+     "demonstration",
+     "seminar",
+     "presentation",
+     "celebration"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Every October, the town closes its main street for three days of music and local food. The _____ attracts thousands of visitors each year.",
+    "options": [
+     "meeting",
+     "seminar",
+     "festival",
+     "workshop"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The president will hand out certificates to all graduates of the training course. The _____ will take place in the main hall.",
+    "options": [
+     "ceremony",
+     "tournament",
+     "competition",
+     "exhibition"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The city offers a free English _____ for new residents. It includes weekly classes, cultural visits, and online practice for six months.",
+    "options": [
+     "tournament",
+     "gathering",
+     "celebration",
+     "program"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The first training _____ will begin at nine o'clock. After a short break, the second one will start at eleven.",
+    "options": [
+     "festival",
+     "session",
+     "celebration",
+     "tournament"
+    ],
+    "answer": 1,
+    "vocabIndex": 8
+   },
+   {
+    "q": "All department heads must come to the weekly _____ on Monday morning. They will discuss sales figures and next month's goals.",
+    "options": [
+     "festival",
+     "exhibition",
+     "ceremony",
+     "meeting"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Participants in the three-hour _____ will practice writing business emails. Each person will receive feedback from the trainer during the class.",
+    "options": [
+     "tournament",
+     "festival",
+     "workshop",
+     "ceremony"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Professor Lee will lead a small _____ on international trade law next Tuesday. Only fifteen students can join the discussion.",
+    "options": [
+     "tournament",
+     "seminar",
+     "festival",
+     "celebration"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "More than three thousand doctors from forty countries will attend the medical _____ in Taipei. It will last for four days.",
+    "options": [
+     "conference",
+     "tournament",
+     "celebration",
+     "festival"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Young chefs from across the country entered the cooking _____ last weekend. The winner received a prize of fifty thousand dollars.",
+    "options": [
+     "seminar",
+     "competition",
+     "conference",
+     "ceremony"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Sixteen teams from local companies will play in the tennis _____ this summer. The final match will be held on August 20.",
+    "options": [
+     "seminar",
+     "presentation",
+     "conference",
+     "tournament"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The theater group gave an excellent _____ of a famous play last night. The audience stood up and clapped for five minutes.",
+    "options": [
+     "performance",
+     "conference",
+     "meeting",
+     "seminar"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The art gallery's new _____ of modern paintings opens this month. More than eighty works by local artists are on display.",
+    "options": [
+     "tournament",
+     "seminar",
+     "exhibition",
+     "meeting"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Ms. Wu used charts and photos during her _____ to the board. The directors asked her several questions about the new budget.",
+    "options": [
+     "presentation",
+     "tournament",
+     "festival",
+     "celebration"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The salesperson gave a short _____ of the new vacuum cleaner. She showed customers how easily it picks up dust and hair.",
+    "options": [
+     "tournament",
+     "festival",
+     "demonstration",
+     "ceremony"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The course uses an _____ approach, so learners spend most of each lesson doing practical tasks. They rarely just sit and listen.",
+    "options": [
+     "recreational",
+     "scheduled",
+     "organized",
+     "activity-based"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The new museum guide is fully _____. Visitors can ask it questions and get answers about each painting right away.",
+    "options": [
+     "scheduled",
+     "interactive",
+     "recreational",
+     "organized"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The apartment building has a gym, a pool, and other _____ facilities. Residents can use them for free at any time.",
+    "options": [
+     "scheduled",
+     "activity-based",
+     "interactive",
+     "recreational"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The _____ departure time for the flight to Tokyo is 8:15 a.m. Passengers should arrive at the airport two hours early.",
+    "options": [
+     "recreational",
+     "scheduled",
+     "interactive",
+     "activity-based"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The trip was well _____, with every hotel and meal booked in advance. Nobody had to worry about anything during the week.",
+    "options": [
+     "organized",
+     "interactive",
+     "recreational",
+     "activity-based"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Employees who want to _____ in the charity run must sign up by Friday. The event starts at 7 a.m. in City Park.",
+    "options": [
+     "attend",
+     "host",
+     "participate",
+     "conduct"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Our company will _____ the regional sales meeting this year. We need to book rooms and plan meals for sixty guests.",
+    "options": [
+     "occur",
+     "host",
+     "participate",
+     "engage"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "All new employees must _____ the safety training next Monday. Anyone who misses it will have to take it again in March.",
+    "options": [
+     "attend",
+     "occur",
+     "participate",
+     "launch"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The research team will _____ interviews with fifty customers next week. They want to learn why sales dropped last quarter.",
+    "options": [
+     "occur",
+     "participate",
+     "conduct",
+     "attend"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The phone company plans to _____ its new model in early December. Stores are already preparing posters and displays.",
+    "options": [
+     "occur",
+     "participate",
+     "attend",
+     "launch"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Good speakers ask questions to _____ their audience. When listeners feel involved, they pay more attention to the message.",
+    "options": [
+     "engage",
+     "occur",
+     "participate",
+     "attend"
+    ],
+    "answer": 0,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Power cuts often _____ during strong summer storms. Please save your work frequently to avoid losing important files.",
+    "options": [
+     "host",
+     "occur",
+     "conduct",
+     "launch"
+    ],
+    "answer": 1,
+    "vocabIndex": 31
+   }
+  ]
+ },
+ "5": {
+  "theme": "Actor 演員",
+  "source": "https://www.examword.com/group-topic/actor",
+  "VOCAB": [
+   {
+    "word": "actress",
+    "pos": "n.",
+    "en_def": "a woman whose job is acting in plays, films, or TV shows",
+    "cn_def": "女演員",
+    "sentence": "A: Who is going to appear in the new television commercial for our skin care products, and has the marketing team already signed the contract with her agent? B: We hired a young {{BLANK}} from Taipei who has starred in two popular dramas, and her agent signed the contract yesterday, so filming will start next Monday at the studio downtown.",
+    "cn": "A：誰要出演我們護膚產品的新電視廣告？行銷團隊已經和她的經紀人簽約了嗎？ B：我們聘請了一位來自台北、主演過兩部熱門連續劇的年輕【女演員】，她的經紀人昨天已經簽約了，所以下週一將在市中心的攝影棚開始拍攝。",
+    "collocation": "an award-winning actress 得獎的女演員"
+   },
+   {
+    "word": "perform",
+    "pos": "v.",
+    "en_def": "to act, sing, or dance in front of an audience",
+    "cn_def": "表演；演出",
+    "sentence": "A: What kind of entertainment have you planned for the company's annual dinner, and will it be finished before the awards ceremony begins? B: A local theater group will {{BLANK}} a short comedy about office life for about twenty minutes, and then the managers will hand out the awards right after the actors leave the stage.",
+    "cn": "A：你為公司年度晚宴安排了什麼樣的娛樂節目？會在頒獎典禮開始前結束嗎？ B：一個當地劇團將【表演】一齣大約二十分鐘、關於辦公室生活的短篇喜劇，演員們一離開舞台，經理們就會立刻頒發獎項。",
+    "collocation": "perform live on stage 在舞台上現場表演"
+   },
+   {
+    "word": "performance",
+    "pos": "n.",
+    "en_def": "an event when people act, sing, or dance for an audience",
+    "cn_def": "演出；表演",
+    "sentence": "A: Did you enjoy the play that the sales department took our overseas clients to see at the National Theater last Friday evening? B: Yes, the {{BLANK}} was excellent, and the clients were so impressed by the actors and the music that they asked our manager to book tickets for another show before they fly home.",
+    "cn": "A：上週五晚上業務部帶海外客戶去國家戲劇院看的那齣戲，你喜歡嗎？ B：喜歡，那場【演出】非常精彩，客戶們對演員和音樂印象深刻，還請我們經理在他們回國前再訂另一場表演的票。",
+    "collocation": "give an outstanding performance 有出色的演出"
+   },
+   {
+    "word": "role",
+    "pos": "n.",
+    "en_def": "the part that an actor plays in a film or play",
+    "cn_def": "角色",
+    "sentence": "A: Why has the famous actor agreed to appear in such a small training video for our bank, even though he usually only makes big movies? B: His sister works in our customer service department, and he liked the {{BLANK}} of a friendly bank teller who helps an elderly customer, so he agreed to take a much lower fee than usual.",
+    "cn": "A：為什麼那位知名演員願意出演我們銀行這麼小的培訓影片，他平常不是只拍大型電影嗎？ B：他的妹妹在我們客服部工作，而且他喜歡那個幫助年長顧客的親切銀行櫃員【角色】，所以他同意收取比平常低很多的酬勞。",
+    "collocation": "play the role of a manager 飾演經理的角色"
+   },
+   {
+    "word": "character",
+    "pos": "n.",
+    "en_def": "a person or animal in a story, film, or play",
+    "cn_def": "角色；人物",
+    "sentence": "A: What do you think about the new animated advertisement that the design team created for our online shopping app last week? B: I really like the main {{BLANK}}, a cheerful delivery cat who brings packages to customers' doors, because it is cute and easy to remember, and many young shoppers have already shared the video on social media.",
+    "cn": "A：你覺得設計團隊上週為我們的網購應用程式製作的新動畫廣告怎麼樣？ B：我很喜歡那個主要【角色】，一隻把包裹送到顧客家門口的開心送貨貓，因為牠很可愛又好記，許多年輕購物者已經在社群媒體上分享這支影片了。",
+    "collocation": "the main character in the story 故事中的主角"
+   },
+   {
+    "word": "cast",
+    "pos": "n.",
+    "en_def": "all the actors in a film, play, or show",
+    "cn_def": "全體演員；演員陣容",
+    "sentence": "A: How many people will be in the short film that the human resources department is making about workplace safety this spring? B: The whole {{BLANK}} includes eight employees from different departments, and they will practice their parts together every Wednesday afternoon in the meeting room until filming begins at the factory in April.",
+    "cn": "A：人資部今年春天要拍的職場安全短片會有多少人參與演出？ B：【全體演員】包括來自不同部門的八名員工，他們每週三下午會在會議室一起排練各自的部分，直到四月在工廠開拍為止。",
+    "collocation": "a talented cast of actors 才華洋溢的演員陣容"
+   },
+   {
+    "word": "script",
+    "pos": "n.",
+    "en_def": "the written words that actors say in a film, play, or ad",
+    "cn_def": "劇本；腳本",
+    "sentence": "A: Have you finished writing the words for the product video, or do you still need more time to check the technical details with the engineers? B: I finished the {{BLANK}} last night and emailed it to the engineers this morning, so once they confirm the information is correct, the actors can start learning their parts tomorrow.",
+    "cn": "A：你寫完產品影片的台詞了嗎？還是你還需要更多時間跟工程師確認技術細節？ B：我昨晚完成了【劇本】，今天早上已經寄給工程師了，所以只要他們確認資訊正確，演員明天就能開始背自己的部分。",
+    "collocation": "write a script for a commercial 為廣告撰寫腳本"
+   },
+   {
+    "word": "rehearse",
+    "pos": "v.",
+    "en_def": "to practice a play, speech, or show before the real event",
+    "cn_def": "排練；預演",
+    "sentence": "A: Why are the sales team members staying so late in the conference room every evening this week, even though their reports are already finished? B: They want to {{BLANK}} the short play they are presenting at the trade show on Saturday, because they will perform in front of hundreds of visitors and don't want to forget anything.",
+    "cn": "A：為什麼業務團隊成員這週每天晚上都在會議室待到這麼晚，他們的報告不是已經完成了嗎？ B：他們想【排練】週六要在商展上演出的短劇，因為他們將在數百名參觀者面前表演，不想忘記任何東西。",
+    "collocation": "rehearse a speech before the meeting 會議前預演演講"
+   },
+   {
+    "word": "dialogue",
+    "pos": "n.",
+    "en_def": "the words that characters say to each other in a film or play",
+    "cn_def": "對話；對白",
+    "sentence": "A: Why did the director stop filming the scene in the hotel lobby so many times this afternoon, and is there a problem with the actors? B: The {{BLANK}} between the receptionist and the guest sounded too formal and unnatural, so the writer is changing some of the words to make the conversation sound more like real people talking.",
+    "cn": "A：為什麼導演今天下午在飯店大廳拍那場戲時喊停了那麼多次？演員有什麼問題嗎？ B：櫃台人員和客人之間的【對白】聽起來太正式、不自然，所以編劇正在修改一些用字，讓這段對話聽起來更像真人在交談。",
+    "collocation": "natural dialogue between characters 角色之間自然的對白"
+   },
+   {
+    "word": "monologue",
+    "pos": "n.",
+    "en_def": "a long speech by one actor alone",
+    "cn_def": "獨白",
+    "sentence": "A: What will the actor do at the start of our product launch event, before the CEO walks out to introduce the new smartphone? B: He will deliver a two-minute {{BLANK}} alone on the stage about how much a phone changes our daily lives, and then the lights will go down and the CEO will appear.",
+    "cn": "A：在執行長走出來介紹新智慧型手機之前，那位演員會在我們產品發表會一開始做什麼？ B：他會獨自在舞台上發表一段兩分鐘的【獨白】，講述手機如何改變我們的日常生活，然後燈光會暗下來，執行長就會登場。",
+    "collocation": "deliver a powerful monologue 發表一段震撼人心的獨白"
+   },
+   {
+    "word": "stage",
+    "pos": "n.",
+    "en_def": "the raised area in a theater or hall where people perform",
+    "cn_def": "舞台",
+    "sentence": "A: Is the main hall ready for tomorrow's awards ceremony, or are the workers still setting up the lights and the sound system? B: The workers finished building the {{BLANK}} this afternoon, but they are still testing the microphones and the lights, so I think everything will be ready by about ten o'clock tonight.",
+    "cn": "A：大廳已經準備好明天的頒獎典禮了嗎？還是工作人員還在架設燈光和音響系統？ B：工作人員今天下午已經搭好【舞台】，但他們還在測試麥克風和燈光，所以我想今晚十點左右一切都會準備就緒。",
+    "collocation": "walk onto the stage 走上舞台"
+   },
+   {
+    "word": "screen",
+    "pos": "n.",
+    "en_def": "the surface where films or TV shows are seen; films and TV in general",
+    "cn_def": "螢幕；銀幕",
+    "sentence": "A: Why did the company choose that young actor for our new coffee commercial when there are so many experienced people available? B: He looks very warm and friendly on {{BLANK}}, and when we tested his video with customers in three cities, most of them said they trusted him more than the other actors.",
+    "cn": "A：為什麼公司選了那位年輕演員拍我們新的咖啡廣告，明明有那麼多有經驗的人可以選？ B：他在【螢幕】上看起來非常溫暖親切，而且我們在三個城市拿他的影片給顧客測試時，大多數人都說比起其他演員更信任他。",
+    "collocation": "appear on screen 出現在螢幕上"
+   },
+   {
+    "word": "audition",
+    "pos": "n.",
+    "en_def": "a short test where an actor shows if they are right for a part",
+    "cn_def": "試鏡",
+    "sentence": "A: How did you choose the actors for the training videos, and how many people came to try out for the parts last weekend? B: We held an {{BLANK}} at our office on Saturday morning, and more than forty people came to read the script, so it took us the whole day to choose the final six actors.",
+    "cn": "A：你們是怎麼挑選培訓影片的演員的？上週末有多少人來爭取角色？ B：我們週六早上在辦公室舉辦了一場【試鏡】，有四十多人來讀劇本，所以我們花了一整天才選出最後的六位演員。",
+    "collocation": "hold an audition for new actors 為新演員舉辦試鏡"
+   },
+   {
+    "word": "director",
+    "pos": "n.",
+    "en_def": "the person who tells the actors and crew what to do when making a film or play",
+    "cn_def": "導演",
+    "sentence": "A: Who is in charge of telling the actors where to stand and how to say their words during the filming of our new advertisement? B: The {{BLANK}} we hired from a film company will guide the actors and the camera crew, and she will also decide which scenes we keep after filming is finished next week.",
+    "cn": "A：在拍攝我們的新廣告時，誰負責告訴演員站在哪裡以及如何說台詞？ B：我們從一家電影公司請來的【導演】會指導演員和攝影團隊，下週拍攝結束後，她也會決定保留哪些場景。",
+    "collocation": "an award-winning film director 得獎的電影導演"
+   },
+   {
+    "word": "producer",
+    "pos": "n.",
+    "en_def": "the person who controls the money and plans for a film, show, or play",
+    "cn_def": "製作人",
+    "sentence": "A: Who is responsible for the budget of the company documentary, and who should I talk to if we need to rent more equipment? B: You should speak to the {{BLANK}}, because he controls the money, hires the staff, and makes sure the project finishes on time, so he will decide whether we can rent more equipment.",
+    "cn": "A：誰負責公司紀錄片的預算？如果我們需要租更多設備，我應該找誰談？ B：你應該和【製作人】談，因為他掌控資金、聘請工作人員，並確保專案準時完成，所以要不要多租設備由他決定。",
+    "collocation": "a TV producer with a big budget 擁有大筆預算的電視製作人"
+   },
+   {
+    "word": "talent",
+    "pos": "n.",
+    "en_def": "a natural ability to do something well",
+    "cn_def": "天賦；才能",
+    "sentence": "A: Why did the manager ask Lisa from accounting to speak in the new recruiting video instead of hiring a professional actor? B: Lisa has a natural {{BLANK}} for speaking in front of a camera, and she is relaxed and friendly, so the manager believes job seekers will find her more honest than a paid actor.",
+    "cn": "A：為什麼經理請會計部的Lisa在新的招募影片中說話，而不是聘請專業演員？ B：Lisa天生有面對鏡頭說話的【天賦】，而且她輕鬆又親切，所以經理認為求職者會覺得她比付費請來的演員更真誠。",
+    "collocation": "have a talent for acting 有表演的天賦"
+   },
+   {
+    "word": "expressive",
+    "pos": "adj.",
+    "en_def": "showing feelings clearly, often with the face or voice",
+    "cn_def": "富有表情的；善於表達的",
+    "sentence": "A: Why did the advertising agency choose that actor for our silent video, which has no words, only music and pictures? B: He has a very {{BLANK}} face, so he can show surprise, joy, and worry clearly without saying anything, which is perfect for a video that will play on screens in busy train stations.",
+    "cn": "A：為什麼廣告公司為我們那支沒有台詞、只有音樂和畫面的無聲影片挑選了那位演員？ B：他的臉非常【富有表情】，不用說話就能清楚地表現驚訝、喜悅和擔憂，非常適合在繁忙火車站的螢幕上播放的影片。",
+    "collocation": "an expressive face 富有表情的臉"
+   },
+   {
+    "word": "dramatic",
+    "pos": "adj.",
+    "en_def": "exciting, sudden, or full of strong feeling",
+    "cn_def": "戲劇性的；激動人心的",
+    "sentence": "A: How did the audience react at the end of the play that our company sponsored at the city theater last weekend? B: The ending was very {{BLANK}}, with loud music and the main character running into the rain, so many people in the audience stood up and clapped for several minutes after the lights came back on.",
+    "cn": "A：我們公司上週末在市立劇院贊助的那齣戲，結尾時觀眾有什麼反應？ B：結局非常【戲劇性】，配上響亮的音樂和主角衝進雨中的畫面，所以燈光重新亮起後，許多觀眾起立鼓掌了好幾分鐘。",
+    "collocation": "a dramatic ending 戲劇性的結局"
+   },
+   {
+    "word": "convincing",
+    "pos": "adj.",
+    "en_def": "making people believe that something is true or real",
+    "cn_def": "令人信服的；逼真的",
+    "sentence": "A: Did the customers believe the actor in our new advertisement was a real doctor, or did they think he was just reading a script? B: His acting was so {{BLANK}} that many viewers called our office to ask which hospital he worked at, so we had to add a small note saying that he is an actor.",
+    "cn": "A：顧客相信我們新廣告裡的演員是真正的醫生嗎？還是他們覺得他只是在念劇本？ B：他的演技非常【逼真】，許多觀眾打電話到我們辦公室詢問他在哪家醫院工作，所以我們只好加上一個小註記，說明他是演員。",
+    "collocation": "a convincing argument 令人信服的論點"
+   },
+   {
+    "word": "versatile",
+    "pos": "adj.",
+    "en_def": "able to do many different things well",
+    "cn_def": "多才多藝的；多用途的",
+    "sentence": "A: Why do you want to hire the same actor for all three of our commercials, when each one is so different in style and mood? B: She is very {{BLANK}}, so she can play a serious business owner in one commercial, a funny mother in another, and a sporty student in the third without any problem.",
+    "cn": "A：我們的三支廣告風格和氛圍都很不一樣，為什麼你想讓同一位演員拍全部三支？ B：她非常【多才多藝】，所以她可以在一支廣告中飾演嚴肅的企業主，在另一支中飾演風趣的媽媽，在第三支中飾演愛運動的學生，完全沒問題。",
+    "collocation": "a versatile actor 多才多藝的演員"
+   },
+   {
+    "word": "famous",
+    "pos": "adj.",
+    "en_def": "known by many people",
+    "cn_def": "有名的；著名的",
+    "sentence": "A: Why are there so many reporters and photographers waiting outside the hotel entrance this morning, blocking the guests' cars? B: A {{BLANK}} movie star is staying here while she films a new action movie in the city, and the reporters are hoping to take her picture when she leaves for the studio.",
+    "cn": "A：為什麼今天早上有那麼多記者和攝影師在飯店門口等候，還擋住了客人的車？ B：一位【有名的】電影明星在本市拍攝新動作片期間住在這裡，記者們希望在她出發去攝影棚時拍到她的照片。",
+    "collocation": "a famous movie star 著名的電影明星"
+   },
+   {
+    "word": "celebrity",
+    "pos": "n.",
+    "en_def": "a famous person, especially in entertainment",
+    "cn_def": "名人",
+    "sentence": "A: How can we attract more visitors to the opening of our new shopping mall next month, since the advertising budget is limited? B: We could invite a local {{BLANK}}, such as a popular TV host or singer, to cut the ribbon, because fans will come to see them and then stay to shop in the stores.",
+    "cn": "A：既然廣告預算有限，我們下個月新購物中心開幕時要怎麼吸引更多遊客？ B：我們可以邀請一位當地【名人】，例如受歡迎的電視主持人或歌手來剪綵，因為粉絲會來看他們，然後留下來在店裡購物。",
+    "collocation": "a celebrity guest at the event 活動的名人嘉賓"
+   },
+   {
+    "word": "spotlight",
+    "pos": "n.",
+    "en_def": "a strong light on a performer; public attention",
+    "cn_def": "聚光燈；眾人注目的焦點",
+    "sentence": "A: Why did the new manager look so nervous at the award ceremony, even though she won the prize for the best sales results? B: She is a quiet person who doesn't enjoy being in the {{BLANK}}, so standing on the stage in front of five hundred coworkers with everyone looking at her made her very uncomfortable.",
+    "cn": "A：為什麼新經理在頒獎典禮上看起來那麼緊張，她明明拿到了最佳業績獎？ B：她是個安靜的人，不喜歡成為【眾人注目的焦點】，所以站在五百名同事面前的舞台上、被大家盯著看，讓她非常不自在。",
+    "collocation": "be in the spotlight 成為眾人焦點"
+   },
+   {
+    "word": "emotion",
+    "pos": "n.",
+    "en_def": "a strong feeling, such as love, fear, or sadness",
+    "cn_def": "情感；情緒",
+    "sentence": "A: Why did so many people at the charity event start crying while they were watching the short film about the children's hospital? B: The young actors showed real {{BLANK}} when they played sick children waiting for help, and the story was so touching that the guests donated twice as much money as we expected.",
+    "cn": "A：為什麼慈善活動上那麼多人在看那部關於兒童醫院的短片時哭了？ B：年輕演員們在飾演等待幫助的生病孩子時流露出真實的【情感】，故事非常感人，所以賓客捐出的錢是我們預期的兩倍。",
+    "collocation": "show emotion on stage 在舞台上展現情感"
+   },
+   {
+    "word": "improvise",
+    "pos": "v.",
+    "en_def": "to act or speak without planning or practicing first",
+    "cn_def": "即興表演；即興發揮",
+    "sentence": "A: What happened during the live product show yesterday when the projector suddenly stopped working in the middle of the presentation? B: The host had to {{BLANK}} for about five minutes, so he told funny stories and asked the audience questions until the technicians fixed the problem, and nobody even noticed that anything was wrong.",
+    "cn": "A：昨天的現場產品展示會上，投影機在簡報進行到一半時突然故障，發生了什麼事？ B：主持人只好【即興發揮】了大約五分鐘，他講了好笑的故事並向觀眾提問，直到技術人員解決問題，根本沒有人察覺出了狀況。",
+    "collocation": "improvise a short scene 即興演出一小段戲"
+   },
+   {
+    "word": "line",
+    "pos": "n.",
+    "en_def": "words that an actor says in a play or film",
+    "cn_def": "台詞",
+    "sentence": "A: Why did the filming of the bank commercial take so much longer than planned yesterday afternoon? B: The actor kept forgetting his last {{BLANK}}, \"Your money is safe with us,\" because he was nervous, so the director had to film the same short scene about fifteen times before it was perfect.",
+    "cn": "A：為什麼昨天下午銀行廣告的拍攝時間比計畫中長那麼多？ B：那位演員因為緊張，一直忘記他的最後一句【台詞】「您的錢交給我們很安全」，所以導演只好把同一個短場景拍了大約十五次才完美。",
+    "collocation": "forget your lines 忘詞"
+   },
+   {
+    "word": "backstage",
+    "pos": "adv.",
+    "en_def": "in the area behind the stage that the audience cannot see",
+    "cn_def": "在後台",
+    "sentence": "A: Where should the speakers wait before they give their presentations at the conference, and can they bring their own laptops? B: They should wait {{BLANK}} in the small room behind the main hall, where there are chairs, water, and power outlets, so they can check their slides on their laptops before they go on.",
+    "cn": "A：講者在研討會上簡報之前應該在哪裡等候？他們可以帶自己的筆電嗎？ B：他們應該在【後台】、也就是大廳後方的小房間等候，那裡有椅子、水和電源插座，所以他們上台前可以先用筆電檢查投影片。",
+    "collocation": "go backstage after the show 表演結束後到後台"
+   },
+   {
+    "word": "costume",
+    "pos": "n.",
+    "en_def": "special clothes an actor wears to look like a character",
+    "cn_def": "戲服；服裝",
+    "sentence": "A: Why is the marketing team spending so much money on clothes for the history video about our company's first factory? B: Each actor needs a {{BLANK}} that looks like the clothes workers wore in the 1960s, because the video should look real, and the old photos show exactly what everyone was wearing back then.",
+    "cn": "A：為什麼行銷團隊為了那支關於我們公司第一間工廠的歷史影片，花那麼多錢在服裝上？ B：每位演員都需要一套看起來像1960年代工人穿著的【戲服】，因為影片要看起來真實，而舊照片清楚顯示了當時每個人穿的衣服。",
+    "collocation": "wear a costume 穿戲服"
+   },
+   {
+    "word": "makeup",
+    "pos": "n.",
+    "en_def": "colors and creams put on the face to change how it looks",
+    "cn_def": "化妝；彩妝",
+    "sentence": "A: Why do the managers have to arrive at the studio an hour before the filming of the company interview video starts? B: The {{BLANK}} artist needs time to prepare their faces, because the bright studio lights can make people look pale or shiny on camera, and she wants everyone to look healthy and natural.",
+    "cn": "A：為什麼經理們必須在公司訪談影片開拍前一小時抵達攝影棚？ B：【化妝】師需要時間幫他們的臉做準備，因為攝影棚明亮的燈光會讓人在鏡頭前看起來蒼白或油亮，她希望每個人看起來都健康自然。",
+    "collocation": "a makeup artist 化妝師"
+   },
+   {
+    "word": "scene",
+    "pos": "n.",
+    "en_def": "one part of a film or play that happens in one place",
+    "cn_def": "場景；一場戲",
+    "sentence": "A: Which part of the new commercial do you think the customers will remember most after they see it on television? B: I think they will remember the final {{BLANK}}, where the whole family sits around the table and shares our frozen dumplings, because it is warm, simple, and shows the product clearly.",
+    "cn": "A：你覺得顧客在電視上看到新廣告後，會對哪個部分印象最深？ B：我想他們會記得最後一【場戲】，全家人圍坐在餐桌旁分享我們的冷凍水餃，因為那一幕溫馨、簡單，又能清楚呈現產品。",
+    "collocation": "film a scene 拍攝一場戲"
+   },
+   {
+    "word": "lead",
+    "pos": "n.",
+    "en_def": "the main part in a play or film, or the actor who plays it",
+    "cn_def": "主角",
+    "sentence": "A: Who is going to play the main part in the musical that our company is sponsoring at the arts festival this summer? B: A young singer from Kaohsiung got the {{BLANK}} after a long competition with many other performers, and the director says her strong voice will help the show sell lots of tickets.",
+    "cn": "A：誰要在我們公司今年夏天於藝術節贊助的音樂劇中擔任主要角色？ B：一位來自高雄的年輕歌手在和許多其他表演者激烈競爭後拿到了【主角】，導演說她渾厚的嗓音將幫助這齣戲賣出很多票。",
+    "collocation": "play the lead in a film 在電影中擔綱主角"
+   },
+   {
+    "word": "supporting",
+    "pos": "adj.",
+    "en_def": "(of an actor or part) less important than the main part",
+    "cn_def": "配角的；輔助的",
+    "sentence": "A: Did the actor from our company's training video win any prizes at the short film festival last month? B: Yes, he won the award for best {{BLANK}} actor, because even though he only appeared in a few scenes as the helpful coworker, his acting made the whole story feel more real.",
+    "cn": "A：我們公司培訓影片中的那位演員，上個月在短片影展有得到任何獎項嗎？ B：有，他獲得了最佳【男配角】獎，因為雖然他只在幾場戲中飾演樂於助人的同事，但他的演技讓整個故事感覺更真實。",
+    "collocation": "a supporting role 配角"
+   },
+   {
+    "word": "career",
+    "pos": "n.",
+    "en_def": "the job or series of jobs a person does for a long time",
+    "cn_def": "職業生涯；事業",
+    "sentence": "A: Why did the well-known TV actor agree to teach a public speaking workshop for our sales staff next month? B: He started his {{BLANK}} as a salesperson before he became an actor, so he understands how hard it is to talk to customers, and he wants to share his speaking skills with young employees.",
+    "cn": "A：為什麼那位知名電視演員同意下個月為我們的業務人員教授公眾演說工作坊？ B：他在成為演員之前，是以業務員開始他的【職業生涯】的，所以他了解和顧客交談有多難，也想和年輕員工分享他的說話技巧。",
+    "collocation": "start a career in acting 開始演藝生涯"
+   },
+   {
+    "word": "applause",
+    "pos": "n.",
+    "en_def": "the sound of people clapping their hands to show they liked something",
+    "cn_def": "掌聲",
+    "sentence": "A: How did the employees respond when the CEO announced the year-end bonuses at the end of the company party last night? B: There was loud {{BLANK}} that lasted for almost a minute, and some people even stood on their chairs and cheered, because the bonuses were much bigger than everyone had expected this year.",
+    "cn": "A：昨晚公司派對結束時執行長宣布年終獎金，員工們有什麼反應？ B：現場響起了幾乎持續一分鐘的熱烈【掌聲】，有些人甚至站到椅子上歡呼，因為今年的獎金比大家預期的多很多。",
+    "collocation": "a round of applause 一陣掌聲"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The film studio is looking for a woman in her thirties. The _____ will play a busy lawyer in a new legal drama.",
+    "options": [
+     "actress",
+     "producer",
+     "applause",
+     "makeup"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The silent film had no spoken words at all. The actors had to use very _____ faces to tell the story.",
+    "options": [
+     "supporting",
+     "expressive",
+     "versatile",
+     "convincing"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Tickets for Friday's show sold out in two days. The evening _____ will begin at 7:30, so please arrive early.",
+    "options": [
+     "costume",
+     "career",
+     "makeup",
+     "performance"
+    ],
+    "answer": 3,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Mr. Chen was offered a small part in the new series. He will play the _____ of a hotel manager in three episodes.",
+    "options": [
+     "applause",
+     "makeup",
+     "role",
+     "spotlight"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Children loved the new cartoon mascot in our ad. The friendly _____ now appears on all of our juice boxes.",
+    "options": [
+     "audition",
+     "character",
+     "applause",
+     "career"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "All the actors met for the first time on Monday. The director thanked the entire _____ for joining the project.",
+    "options": [
+     "costume",
+     "spotlight",
+     "cast",
+     "makeup"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Sales jumped by 300 percent after the new ad campaign. The _____ increase surprised even the marketing director.",
+    "options": [
+     "expressive",
+     "supporting",
+     "versatile",
+     "dramatic"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The writer sent the final version to the actors last night. Everyone must read the _____ carefully before the first rehearsal.",
+    "options": [
+     "script",
+     "applause",
+     "celebrity",
+     "emotion"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The conversation between the two characters sounded unnatural. The writer rewrote the _____ to make it more realistic.",
+    "options": [
+     "costume",
+     "audition",
+     "career",
+     "dialogue"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "In the opening scene, the actor speaks alone for three minutes. His _____ explains why he left his hometown.",
+    "options": [
+     "monologue",
+     "applause",
+     "makeup",
+     "producer"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The actors bowed as the curtain came down. Then they walked off the _____ and returned to their dressing rooms.",
+    "options": [
+     "talent",
+     "stage",
+     "career",
+     "emotion"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The salesperson explained the benefits of the product clearly. Her argument was so _____ that the client signed the contract immediately.",
+    "options": [
+     "famous",
+     "supporting",
+     "convincing",
+     "expressive"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Some actors feel nervous in front of a live audience. They prefer working on _____, where they can repeat scenes many times.",
+    "options": [
+     "applause",
+     "screen",
+     "celebrity",
+     "producer"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Over two hundred people applied for the part. Each person had five minutes at the _____ to show what they could do.",
+    "options": [
+     "audition",
+     "applause",
+     "career",
+     "emotion"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The actors were confused about where to stand. The _____ walked onto the set and explained exactly how to film the scene.",
+    "options": [
+     "costume",
+     "applause",
+     "director",
+     "spotlight"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The film ran out of money halfway through filming. The _____ had to find new investors to finish the project.",
+    "options": [
+     "makeup",
+     "scene",
+     "applause",
+     "producer"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Mr. Wu can sing, dance, and act in both comedies and dramas. Because of his many skills, he is very _____.",
+    "options": [
+     "supporting",
+     "convincing",
+     "versatile",
+     "dramatic"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Our receptionist sings beautifully at every company party. Her _____ for music surprised everyone at last year's year-end dinner.",
+    "options": [
+     "talent",
+     "costume",
+     "script",
+     "applause"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The new restaurant hired a well-known TV chef for its opening day. The _____ attracted hundreds of fans to the event.",
+    "options": [
+     "monologue",
+     "celebrity",
+     "makeup",
+     "dialogue"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "After the product won a national award, the small company was suddenly in the _____. Reporters called the office every day.",
+    "options": [
+     "costume",
+     "applause",
+     "script",
+     "spotlight"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The actor is known by almost everyone in Asia. He is so _____ that he cannot walk down the street without fans stopping him.",
+    "options": [
+     "supporting",
+     "famous",
+     "expressive",
+     "versatile"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The actress cried real tears in the final scene. Her strong _____ moved many people in the audience.",
+    "options": [
+     "costume",
+     "script",
+     "emotion",
+     "producer"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The new actor had only one short sentence to say. He practiced his _____ over and over before filming.",
+    "options": [
+     "line",
+     "applause",
+     "producer",
+     "celebrity"
+    ],
+    "answer": 0,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The museum guide dressed like a soldier from the 1800s. His _____ helped visitors imagine life two hundred years ago.",
+    "options": [
+     "applause",
+     "career",
+     "spotlight",
+     "costume"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The actors' faces looked too pale under the bright lights. A team put _____ on everyone before the cameras started.",
+    "options": [
+     "makeup",
+     "applause",
+     "career",
+     "scene"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Ms. Huang does not play the main character in the film. She has a small _____ role as the hero's older sister.",
+    "options": [
+     "famous",
+     "versatile",
+     "expressive",
+     "supporting"
+    ],
+    "answer": 3,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The final part of the film takes place at an airport. That _____ was filmed at night when there were no passengers.",
+    "options": [
+     "applause",
+     "talent",
+     "scene",
+     "career"
+    ],
+    "answer": 2,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Ms. Lin will play the most important character in the musical. She got the _____ after three rounds of auditions.",
+    "options": [
+     "applause",
+     "lead",
+     "makeup",
+     "emotion"
+    ],
+    "answer": 1,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Mr. Park worked as an actor for forty years. He is retiring next month after a long and successful _____.",
+    "options": [
+     "costume",
+     "makeup",
+     "spotlight",
+     "career"
+    ],
+    "answer": 3,
+    "vocabIndex": 32
+   },
+   {
+    "q": "When the presentation ended, the audience clapped loudly. The _____ continued for several minutes as the speaker smiled and bowed.",
+    "options": [
+     "makeup",
+     "script",
+     "applause",
+     "costume"
+    ],
+    "answer": 2,
+    "vocabIndex": 33
+   }
+  ]
+ },
+ "6": {
+  "theme": "Ad 廣告",
+  "source": "https://www.examword.com/group-topic/ad",
+  "VOCAB": [
+   {
+    "word": "advertise",
+    "pos": "v.",
+    "en_def": "to tell people about a product, service, or job in public so they will want it",
+    "cn_def": "做廣告；刊登廣告",
+    "sentence": "A: Our new bakery opened last week, but very few customers have come in, so what do you think we should do to bring in more people from the neighborhood? B: I think we should {{BLANK}} on the local radio station and in the community newspaper, because many older residents still listen and read them every morning before work.",
+    "cn": "A：我們的新麵包店上週開幕了，但很少有客人上門，你覺得我們該怎麼做才能吸引更多附近的居民？ B：我認為我們應該在地方廣播電台和社區報紙上【刊登廣告】，因為許多年長的居民每天早上上班前仍然會收聽和閱讀它們。",
+    "collocation": "advertise a job opening online 在網路上刊登職缺廣告"
+   },
+   {
+    "word": "advertising",
+    "pos": "n.",
+    "en_def": "the business or activity of making and showing ads",
+    "cn_def": "廣告業；廣告活動",
+    "sentence": "A: Why did the marketing director ask for a much larger budget at yesterday's meeting with the finance team? B: She explained that our competitors spend twice as much on {{BLANK}} as we do, and if we don't increase our spending on television and online ads, we will lose customers to them this year.",
+    "cn": "A：為什麼行銷總監在昨天和財務團隊的會議上要求大幅增加預算？ B：她解釋說，我們的競爭對手在【廣告】上的花費是我們的兩倍，如果我們不增加電視和網路廣告的支出，今年就會把客戶輸給他們。",
+    "collocation": "an advertising agency 廣告公司"
+   },
+   {
+    "word": "promotion",
+    "pos": "n.",
+    "en_def": "an activity, such as a special price, that helps sell a product",
+    "cn_def": "促銷；宣傳活動",
+    "sentence": "A: Have you seen all the customers waiting outside the electronics store this morning, even before the doors opened? B: Yes, the store is running a special {{BLANK}} this weekend, so anyone who buys a new laptop gets a free printer and a two-year warranty, and many people want to take advantage of it.",
+    "cn": "A：你有看到今天早上電子產品店外面等候的那些客人嗎？甚至在開門之前就在排了。 B：有啊，這家店這個週末在舉辦特別【促銷活動】，任何購買新筆電的人都能獲得一台免費印表機和兩年保固，所以很多人想好好把握。",
+    "collocation": "a sales promotion 促銷活動"
+   },
+   {
+    "word": "promote",
+    "pos": "v.",
+    "en_def": "to help sell something by telling people about it",
+    "cn_def": "推廣；促銷；宣傳",
+    "sentence": "A: The company is launching a new line of healthy snacks next month, so how are we going to tell people about them? B: We plan to {{BLANK}} the snacks at gyms and sports events, where we will hand out free samples and discount coupons to customers who care about eating well.",
+    "cn": "A：公司下個月要推出新的健康零食系列，我們要怎麼讓大家知道呢？ B：我們打算在健身房和運動賽事上【推廣】這些零食，在那裡發送免費試吃品和折價券給重視飲食健康的顧客。",
+    "collocation": "promote a new product 推廣新產品"
+   },
+   {
+    "word": "campaign",
+    "pos": "n.",
+    "en_def": "a planned series of activities to sell a product or reach a goal",
+    "cn_def": "（廣告）宣傳活動",
+    "sentence": "A: Why is everyone in the marketing department staying late at the office every evening this week? B: They are preparing a big {{BLANK}} for our new phone, which includes TV ads, posters in train stations, and online videos, and everything has to be ready before the product goes on sale next Monday.",
+    "cn": "A：為什麼行銷部的每個人這週每天晚上都在辦公室待到很晚？ B：他們正在為我們的新手機準備一個大型【宣傳活動】，包括電視廣告、火車站的海報和網路影片，而且一切都必須在產品下週一開賣前準備好。",
+    "collocation": "launch an advertising campaign 發起廣告宣傳活動"
+   },
+   {
+    "word": "brand",
+    "pos": "n.",
+    "en_def": "the name of a product made by a particular company",
+    "cn_def": "品牌；商標",
+    "sentence": "A: Why do so many shoppers pay more for this coffee when the supermarket's own coffee looks almost the same? B: Most people trust this {{BLANK}} because it has been popular for over fifty years, and they believe the quality is always good, so they are happy to spend a little extra money for it.",
+    "cn": "A：為什麼這麼多購物者願意花更多錢買這款咖啡，而超市自有的咖啡看起來幾乎一樣？ B：大多數人信任這個【品牌】，因為它已經流行了五十多年，而且他們相信品質一直都很好，所以他們很樂意為它多花一點錢。",
+    "collocation": "a well-known brand 知名品牌"
+   },
+   {
+    "word": "branding",
+    "pos": "n.",
+    "en_def": "the design, name, and image a company uses so people recognize it",
+    "cn_def": "品牌形象；品牌塑造",
+    "sentence": "A: Our small tea shop has good products, so why did the owner hire a design company to change our logo and cups? B: She thinks our {{BLANK}} looks old-fashioned, and a fresh logo, modern colors, and matching packaging will help young customers remember us and recognize our shop from across the street.",
+    "cn": "A：我們的小茶店產品很好，為什麼老闆要請設計公司更換我們的標誌和杯子？ B：她認為我們的【品牌形象】看起來很過時，而新的標誌、現代的顏色和搭配的包裝能幫助年輕顧客記住我們，並且從對街就認出我們的店。",
+    "collocation": "a strong branding strategy 強而有力的品牌策略"
+   },
+   {
+    "word": "commercial",
+    "pos": "n.",
+    "en_def": "an ad on television or radio",
+    "cn_def": "（電視或廣播）廣告",
+    "sentence": "A: How did you first hear about the new sports drink that everyone in the office is talking about? B: I saw a funny thirty-second {{BLANK}} on TV during the basketball game last night, and it showed famous players drinking it after a hard practice, so I bought a bottle on my way to work.",
+    "cn": "A：你最初是怎麼聽說辦公室裡大家都在談論的那款新運動飲料的？ B：我昨晚看籃球比賽時在電視上看到一支有趣的三十秒【廣告】，畫面中知名球員在辛苦練習後喝它，所以我在上班途中買了一瓶。",
+    "collocation": "a TV commercial 電視廣告"
+   },
+   {
+    "word": "slogan",
+    "pos": "n.",
+    "en_def": "a short, easy-to-remember phrase used in ads",
+    "cn_def": "標語；口號",
+    "sentence": "A: The design team has finished the new poster for our airline, but do you think the words at the bottom are good enough? B: I think the {{BLANK}} is too long, because customers only look at a poster for a few seconds, so we need a short and simple phrase that people can remember easily.",
+    "cn": "A：設計團隊已經完成了我們航空公司的新海報，但你覺得底部的文字夠好嗎？ B：我認為那句【標語】太長了，因為顧客只會看海報幾秒鐘，所以我們需要一句簡短又容易讓人記住的話。",
+    "collocation": "an advertising slogan 廣告標語"
+   },
+   {
+    "word": "headline",
+    "pos": "n.",
+    "en_def": "the title in large letters at the top of an article or ad",
+    "cn_def": "標題；大標",
+    "sentence": "A: Why did the editor ask us to rewrite the top of the advertisement for the newspaper before it goes to print tomorrow? B: She said the {{BLANK}} was not exciting enough, and since most readers only see the large words at the top of the page, they must be strong enough to make people stop and read more.",
+    "cn": "A：為什麼編輯要求我們在明天付印前重寫報紙廣告的頂端部分？ B：她說那個【標題】不夠吸引人，而因為大部分讀者只會看到頁面頂端的大字，所以它們必須夠有力，才能讓人停下來繼續閱讀。",
+    "collocation": "a front-page headline 頭版標題"
+   },
+   {
+    "word": "copy",
+    "pos": "n.",
+    "en_def": "the written words used in an ad",
+    "cn_def": "廣告文案；廣告文字",
+    "sentence": "A: The pictures for our new hotel brochure look beautiful, but who is going to write the text that goes next to them? B: We hired a freelance writer to prepare the {{BLANK}}, and she will describe the rooms, the pool, and the restaurant in a friendly way that makes families want to book a holiday with us.",
+    "cn": "A：我們新飯店手冊的照片看起來很漂亮，但誰要撰寫旁邊的文字呢？ B：我們聘請了一位自由撰稿人來準備【廣告文案】，她會以親切的方式描述客房、游泳池和餐廳，讓家庭想要向我們預訂假期。",
+    "collocation": "write advertising copy 撰寫廣告文案"
+   },
+   {
+    "word": "target",
+    "pos": "v.",
+    "en_def": "to aim a product or ad at a particular group of people",
+    "cn_def": "以…為目標；鎖定",
+    "sentence": "A: Our new video game is selling well in Japan, but why are sales so low in Europe and North America? B: The marketing team decided to {{BLANK}} teenagers in those regions with ads on social media apps, but most of our real players are adults in their thirties who rarely use those apps at all.",
+    "cn": "A：我們的新電玩遊戲在日本賣得很好，但為什麼在歐洲和北美的銷量這麼低？ B：行銷團隊決定在那些地區透過社群媒體應用程式的廣告來【鎖定】青少年，但我們真正的玩家大多是三十多歲的成年人，他們很少使用那些應用程式。",
+    "collocation": "target young customers 鎖定年輕顧客"
+   },
+   {
+    "word": "audience",
+    "pos": "n.",
+    "en_def": "the people who watch, read, or listen to something",
+    "cn_def": "觀眾；聽眾；受眾",
+    "sentence": "A: Should we show our new advertisement during the late-night news or during the morning cartoons on Saturday? B: Since our product is a toy for young children, the morning time is better, because the {{BLANK}} at that hour is mostly kids and their parents, who are exactly the people we want to sell to.",
+    "cn": "A：我們應該在深夜新聞時段還是週六早上的卡通時段播放我們的新廣告？ B：既然我們的產品是給幼童的玩具，早上的時段比較好，因為那個時間的【觀眾】大多是孩子和他們的父母，正是我們想要銷售的對象。",
+    "collocation": "a target audience 目標受眾"
+   },
+   {
+    "word": "reach",
+    "pos": "v.",
+    "en_def": "to be seen or heard by a group of people",
+    "cn_def": "觸及；接觸到（受眾）",
+    "sentence": "A: Why did the company decide to put its ads on a popular music app instead of in printed magazines this year? B: The manager believes we can {{BLANK}} millions of young listeners every day through the app, while magazine sales have fallen a lot, so fewer people would see our ads in print.",
+    "cn": "A：為什麼公司今年決定把廣告放在熱門音樂應用程式上，而不是印刷雜誌上？ B：經理相信透過這個應用程式，我們每天可以【觸及】數百萬年輕聽眾，而雜誌銷量已經大幅下滑，所以在紙本上看到我們廣告的人會比較少。",
+    "collocation": "reach a wider audience 觸及更廣泛的受眾"
+   },
+   {
+    "word": "impression",
+    "pos": "n.",
+    "en_def": "one time that an online ad is shown to a person",
+    "cn_def": "（廣告）曝光次數；印象",
+    "sentence": "A: The report says our online banner ad was shown two million times last month, but why are the managers still unhappy? B: Each {{BLANK}} only means the ad appeared on someone's screen, so although the number looks big, very few people actually opened it or bought anything from our website.",
+    "cn": "A：報告說我們的網路橫幅廣告上個月被顯示了兩百萬次，但為什麼經理們還是不滿意？ B：每一次【曝光】只代表廣告出現在某人的螢幕上，所以雖然數字看起來很大，但實際上打開它或在我們網站上購買東西的人非常少。",
+    "collocation": "track ad impressions 追蹤廣告曝光次數"
+   },
+   {
+    "word": "engagement",
+    "pos": "n.",
+    "en_def": "how much people react to and take part in content, such as liking or sharing",
+    "cn_def": "互動；參與度",
+    "sentence": "A: Our posts on social media get thousands of views, so why does the marketing manager want to change our strategy? B: She is worried about low {{BLANK}}, because people see the posts but rarely like, share, or comment on them, which means they are not really interested in our products or our company.",
+    "cn": "A：我們在社群媒體上的貼文有數千次瀏覽，為什麼行銷經理想要改變我們的策略？ B：她擔心【互動】程度偏低，因為人們看到貼文，卻很少按讚、分享或留言，這表示他們對我們的產品或公司並不是真的感興趣。",
+    "collocation": "increase customer engagement 提高顧客互動參與度"
+   },
+   {
+    "word": "click",
+    "pos": "n.",
+    "en_def": "the act of pressing a mouse button or tapping a link on a screen",
+    "cn_def": "點擊",
+    "sentence": "A: How do we know whether people are interested in the new online ad for our cooking classes? B: Every {{BLANK}} on the ad takes a visitor to our sign-up page, so the system counts how many people want more information, and so far more than five hundred people have visited the page this week.",
+    "cn": "A：我們怎麼知道大家是否對我們烹飪課的新網路廣告感興趣？ B：廣告上的每一次【點擊】都會把訪客帶到我們的報名頁面，所以系統會計算有多少人想要更多資訊，到目前為止，這週已經有超過五百人造訪了該頁面。",
+    "collocation": "pay per click 按點擊次數付費"
+   },
+   {
+    "word": "conversion",
+    "pos": "n.",
+    "en_def": "the act of a visitor or viewer becoming a paying customer",
+    "cn_def": "轉換（指訪客變成顧客）",
+    "sentence": "A: Thousands of people visited our online shoe store after the holiday ads started, so why are sales still disappointing? B: Our {{BLANK}} rate is very low, which means most visitors look at the shoes but leave without buying, so we need to make the checkout page faster and offer free delivery to change their minds.",
+    "cn": "A：假期廣告開始後，有數千人造訪我們的網路鞋店，為什麼銷量還是令人失望？ B：我們的【轉換】率非常低，這表示大部分訪客看了鞋子卻沒買就離開了，所以我們需要讓結帳頁面更快，並提供免運來改變他們的想法。",
+    "collocation": "improve the conversion rate 提高轉換率"
+   },
+   {
+    "word": "endorsement",
+    "pos": "n.",
+    "en_def": "public support for a product by a famous person, often for money",
+    "cn_def": "代言；背書",
+    "sentence": "A: Sales of our running shoes doubled in only two months, so what was the main reason for this sudden success? B: We got an {{BLANK}} from a famous Olympic runner, and after she said in interviews that she wears our shoes every day, many sports fans started trusting our products and buying them.",
+    "cn": "A：我們的跑鞋銷量在短短兩個月內翻倍，這突然成功的主要原因是什麼？ B：我們獲得了一位知名奧運跑者的【代言】，在她於訪談中說她每天都穿我們的鞋之後，許多運動迷開始信任並購買我們的產品。",
+    "collocation": "a celebrity endorsement 名人代言"
+   },
+   {
+    "word": "testimonial",
+    "pos": "n.",
+    "en_def": "a statement from a customer saying a product or service is good",
+    "cn_def": "推薦；（顧客）見證",
+    "sentence": "A: Our website explains all the features of the language software, but how can we make new visitors trust us more? B: We could add a {{BLANK}} from a happy customer, such as a nurse who passed her English test after using our program for three months, because people believe real users more than companies.",
+    "cn": "A：我們的網站說明了這款語言軟體的所有功能，但我們要怎麼讓新訪客更信任我們？ B：我們可以加入一位滿意顧客的【推薦見證】，例如一位使用我們的程式三個月後就通過英文考試的護理師，因為人們比較相信真正的使用者，而不是公司。",
+    "collocation": "a customer testimonial 顧客推薦見證"
+   },
+   {
+    "word": "influencer",
+    "pos": "n.",
+    "en_def": "a person who affects what others buy, often through social media",
+    "cn_def": "網紅；有影響力的人",
+    "sentence": "A: Why is our cosmetics company paying a young woman to post videos about our new lipstick on her social media account? B: She is a popular {{BLANK}} with over a million followers, and when she shows a product in her videos, many of her fans go online and buy it within a few days.",
+    "cn": "A：為什麼我們的化妝品公司要付錢給一位年輕女性，請她在社群媒體帳號上發布關於我們新口紅的影片？ B：她是一位擁有超過一百萬名追蹤者的熱門【網紅】，當她在影片中展示一項產品時，她的許多粉絲會在幾天內上網購買。",
+    "collocation": "work with social media influencers 與社群媒體網紅合作"
+   },
+   {
+    "word": "placement",
+    "pos": "n.",
+    "en_def": "the position where a product or ad is put so people will see it",
+    "cn_def": "（商品或廣告的）擺放位置；置入",
+    "sentence": "A: The supermarket has agreed to sell our new cereal, but why are we paying an extra fee to the store? B: The fee is for better {{BLANK}}, so our boxes will sit at eye level near the entrance instead of on the bottom shelf, where busy shoppers might walk past without noticing them.",
+    "cn": "A：超市已經同意販售我們的新穀片，但為什麼我們還要付額外的費用給店家？ B：那筆費用是為了取得更好的【陳列位置】，這樣我們的盒子就會擺在入口附近、與視線同高的地方，而不是在最底層的架子上，因為忙碌的購物者可能會走過去而沒注意到。",
+    "collocation": "product placement in movies 電影中的置入性行銷"
+   },
+   {
+    "word": "display",
+    "pos": "n.",
+    "en_def": "an arrangement of products for people to look at in a store",
+    "cn_def": "陳列；展示",
+    "sentence": "A: The new perfume arrives at our department store on Friday, so how should we show it to customers in the busy holiday season? B: Let's set up a large {{BLANK}} near the main entrance with bright lights, flowers, and free samples, so everyone who walks into the store will notice the perfume right away.",
+    "cn": "A：新香水週五會到我們百貨公司，在繁忙的假期季節中，我們該如何展示給顧客看？ B：我們在主要入口附近布置一個大型【展示區】，搭配明亮的燈光、花卉和免費試用品，讓每個走進店裡的人都能馬上注意到這款香水。",
+    "collocation": "a window display 櫥窗展示"
+   },
+   {
+    "word": "broadcast",
+    "pos": "v.",
+    "en_def": "to send out a program or ad on TV or radio",
+    "cn_def": "播放；廣播",
+    "sentence": "A: Our company paid a lot of money for a two-minute ad, so when will people actually be able to watch it on television? B: The TV station will {{BLANK}} it during the final match of the football championship next Sunday evening, when millions of fans across the country will be sitting in front of their screens.",
+    "cn": "A：我們公司為一支兩分鐘的廣告付了很多錢，那麼大家到底什麼時候能在電視上看到它？ B：電視台將在下週日晚上的足球錦標賽決賽期間【播放】它，屆時全國數百萬名球迷都會坐在螢幕前。",
+    "collocation": "broadcast live on television 在電視上現場直播",
+    "forms": "broadcast – broadcast – broadcast"
+   },
+   {
+    "word": "sponsor",
+    "pos": "v.",
+    "en_def": "to pay for an event or team in return for advertising",
+    "cn_def": "贊助",
+    "sentence": "A: Why does our bank's logo appear on the shirts of the local basketball team this season? B: Our bank decided to {{BLANK}} the team, which means we pay for their uniforms and travel costs, and in return our name is shown at every game, so thousands of local families see it each week.",
+    "cn": "A：為什麼這一季我們銀行的標誌出現在本地籃球隊的球衣上？ B：我們銀行決定【贊助】這支球隊，也就是說我們支付他們的制服和交通費用，作為回報，我們的名字會在每場比賽中出現，所以每週都有數千個本地家庭看到它。",
+    "collocation": "sponsor a sports event 贊助體育賽事"
+   },
+   {
+    "word": "persuasive",
+    "pos": "adj.",
+    "en_def": "able to make people believe or do something",
+    "cn_def": "有說服力的",
+    "sentence": "A: Your sales presentation to the hotel group went very well, so how did you convince them to sign a three-year contract? B: I think my argument was {{BLANK}} because I showed them clear numbers proving that our cleaning service saves money, and I also shared positive comments from other hotels we work with.",
+    "cn": "A：你對飯店集團的銷售簡報非常成功，你是怎麼說服他們簽下三年合約的？ B：我想我的論點很有【說服力】，因為我向他們展示了明確的數據，證明我們的清潔服務能省錢，而且我也分享了其他合作飯店的正面評價。",
+    "collocation": "a persuasive argument 有說服力的論點"
+   },
+   {
+    "word": "promotional",
+    "pos": "adj.",
+    "en_def": "used to advertise a product or company",
+    "cn_def": "促銷的；宣傳的",
+    "sentence": "A: We have a lot of extra pens, bags, and T-shirts with our company logo, so what should we do with them? B: Let's give them away at the trade fair next month as {{BLANK}} gifts, because visitors love free items, and every time they use them, they will be reminded of our company and our services.",
+    "cn": "A：我們有很多印有公司標誌的多餘筆、袋子和T恤，該怎麼處理它們？ B：我們下個月在商展上把它們當作【宣傳】贈品送出去吧，因為參觀者喜歡免費物品，而且每次使用時，都會讓他們想起我們公司和我們的服務。",
+    "collocation": "promotional materials 宣傳資料"
+   },
+   {
+    "word": "viral",
+    "pos": "adj.",
+    "en_def": "spreading very quickly to many people on the internet",
+    "cn_def": "（網路上）迅速傳播的；爆紅的",
+    "sentence": "A: I heard that our small restaurant suddenly became busy last week, so what happened to bring in all those new customers? B: A customer filmed our chef making noodles by hand and posted it online, and the video went {{BLANK}}, so millions of people watched it in just three days and many came to try our food.",
+    "cn": "A：我聽說我們的小餐廳上週突然變得很忙，到底發生什麼事，帶來了這麼多新客人？ B：一位顧客拍下我們的主廚手工製作麵條的影片並上傳到網路上，結果那支影片【爆紅】，短短三天內就有數百萬人觀看，很多人都來品嚐我們的食物。",
+    "collocation": "go viral on social media 在社群媒體上爆紅"
+   },
+   {
+    "word": "catchy",
+    "pos": "adj.",
+    "en_def": "easy to remember and pleasant to hear",
+    "cn_def": "易記的；朗朗上口的",
+    "sentence": "A: Why do so many people in the office keep singing the same little song while they work this week? B: It's from the new ice cream ad on the radio, and the music is so {{BLANK}} that once you hear it, you cannot stop humming it all day, which is exactly what the company wanted.",
+    "cn": "A：為什麼這週辦公室裡這麼多人一邊工作一邊哼著同一首小歌？ B：那是電台新冰淇淋廣告裡的歌，旋律非常【朗朗上口】，你一聽到就會一整天停不下來地哼，這正是那家公司想要的效果。",
+    "collocation": "a catchy tune 朗朗上口的曲調"
+   },
+   {
+    "word": "compelling",
+    "pos": "adj.",
+    "en_def": "so interesting or strong that you pay attention or are convinced",
+    "cn_def": "引人入勝的；令人信服的",
+    "sentence": "A: Many companies made short films for the charity competition, so why did the judges choose our video as the winner? B: They said our story about the old fisherman and his daughter was very {{BLANK}}, and it made viewers feel strong emotions, so they wanted to keep watching until the very end.",
+    "cn": "A：很多公司都為慈善比賽拍攝了短片，為什麼評審選擇我們的影片為冠軍？ B：他們說我們關於老漁夫和他女兒的故事非常【引人入勝】，讓觀眾產生強烈的情感，所以他們想一直看到最後。",
+    "collocation": "a compelling reason 令人信服的理由"
+   },
+   {
+    "word": "strategically",
+    "pos": "adv.",
+    "en_def": "in a carefully planned way to reach a goal",
+    "cn_def": "策略性地；戰略上",
+    "sentence": "A: Why did the coffee chain open its new branches next to train stations and large office buildings instead of in quiet neighborhoods? B: The company placed them {{BLANK}}, because thousands of busy workers pass those places every morning, and many of them want a quick cup of coffee on their way to work.",
+    "cn": "A：為什麼那家咖啡連鎖店把新分店開在火車站和大型辦公大樓旁邊，而不是安靜的住宅區？ B：公司是【策略性地】安排它們的位置，因為每天早上都有數千名忙碌的上班族經過那些地方，其中很多人在上班途中想要一杯快速取得的咖啡。",
+    "collocation": "strategically located 地點具有戰略優勢的"
+   },
+   {
+    "word": "creatively",
+    "pos": "adv.",
+    "en_def": "in a new and imaginative way",
+    "cn_def": "有創意地；創造性地",
+    "sentence": "A: Our marketing budget is very small this year, so how can we compete with the big companies that spend millions on TV? B: We have to think {{BLANK}}, for example by making funny short videos with our own staff, running online contests, and working with local shops to share customers at no extra cost.",
+    "cn": "A：我們今年的行銷預算很少，要怎麼和那些在電視上花數百萬的大公司競爭？ B：我們必須【有創意地】思考，例如用自己的員工拍攝有趣的短片、舉辦網路競賽，並和本地商店合作互相分享顧客，而且不需額外費用。",
+    "collocation": "think creatively 有創意地思考"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The city library needs more volunteers for its summer reading program. It plans to _____ the positions on its website and in local cafés.",
+    "options": [
+     "sponsor",
+     "target",
+     "reach",
+     "advertise"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Online _____ has become cheaper than television ads for small firms. Many shop owners now spend most of their marketing budget on social media.",
+    "options": [
+     "slogan",
+     "testimonial",
+     "advertising",
+     "audience"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The hotel is offering a summer _____ for local residents. Guests who book two nights before June receive a third night free.",
+    "options": [
+     "headline",
+     "promotion",
+     "audience",
+     "copy"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The author will visit five bookstores next month to _____ her new novel. She will read short parts of the book and sign copies.",
+    "options": [
+     "promote",
+     "target",
+     "reach",
+     "broadcast"
+    ],
+    "answer": 0,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The city has started a three-month _____ to encourage people to recycle. Posters, radio ads, and school visits are all part of the plan.",
+    "options": [
+     "click",
+     "campaign",
+     "impression",
+     "testimonial"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Many customers prefer this _____ of running shoes because the company has a long history. Its products are known for being light and comfortable.",
+    "options": [
+     "slogan",
+     "headline",
+     "brand",
+     "conversion"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The startup spent a lot on _____ before its first product was released. It hired designers to create a memorable name, logo, and color scheme.",
+    "options": [
+     "engagement",
+     "conversion",
+     "audience",
+     "branding"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The company paid a famous actor to appear in its new television _____. The thirty-second ad will be shown during the evening news.",
+    "options": [
+     "commercial",
+     "slogan",
+     "headline",
+     "click"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The airline's new _____ is \"Fly Happy, Arrive Relaxed.\" Travelers often repeat the short phrase because it is easy to remember.",
+    "options": [
+     "placement",
+     "conversion",
+     "audience",
+     "slogan"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The newspaper printed the _____ in large red letters across the top of the front page. Readers could see it from across the room.",
+    "options": [
+     "endorsement",
+     "headline",
+     "conversion",
+     "click"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The writer finished the _____ for the new car advertisement this morning. The manager asked her to make the text shorter and clearer.",
+    "options": [
+     "copy",
+     "audience",
+     "placement",
+     "engagement"
+    ],
+    "answer": 0,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The new energy drink is designed for students and young workers. The company will _____ this group with ads on music and gaming apps.",
+    "options": [
+     "advertise",
+     "broadcast",
+     "target",
+     "sponsor"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The speaker was nervous because the _____ in the hall was much larger than expected. More than eight hundred people came to hear her talk.",
+    "options": [
+     "slogan",
+     "copy",
+     "conversion",
+     "audience"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The bakery's video was shared thousands of times online. It helped the small shop _____ customers in other cities for the first time.",
+    "options": [
+     "broadcast",
+     "sponsor",
+     "reach",
+     "advertise"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The report shows that our banner ad was displayed online fifty thousand times. Each _____ is counted when the ad appears on a screen.",
+    "options": [
+     "testimonial",
+     "impression",
+     "headline",
+     "copy"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The museum's posts receive many likes, comments, and shares every day. This high level of _____ shows that visitors enjoy its online content.",
+    "options": [
+     "engagement",
+     "placement",
+     "slogan",
+     "copy"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Customers can open the order page with a single _____. The button is placed at the top of every page of the website.",
+    "options": [
+     "impression",
+     "brand",
+     "commercial",
+     "click"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Many people visit our online shop, but few of them actually buy anything. We need to improve our _____ rate before the holiday season.",
+    "options": [
+     "headline",
+     "slogan",
+     "conversion",
+     "commercial"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The tennis star signed a contract to support a new sportswear line. Her _____ is expected to increase sales among young athletes.",
+    "options": [
+     "placement",
+     "endorsement",
+     "click",
+     "headline"
+    ],
+    "answer": 1,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The hotel's website includes a _____ from a guest who stayed there last summer. She wrote that the staff were friendly and the rooms were spotless.",
+    "options": [
+     "testimonial",
+     "commercial",
+     "click",
+     "conversion"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The skincare company sent free samples to a popular _____ with two million followers. She reviewed the products in a video the next day.",
+    "options": [
+     "audience",
+     "slogan",
+     "placement",
+     "influencer"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The cereal company paid extra for better shelf _____ in the supermarket. Its boxes are now displayed at eye level near the entrance.",
+    "options": [
+     "placement",
+     "endorsement",
+     "conversion",
+     "headline"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The bookstore created a colorful _____ of travel guides near the front door. Customers could see the books as soon as they entered.",
+    "options": [
+     "impression",
+     "display",
+     "engagement",
+     "conversion"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The radio station will _____ the company's new ad every hour this weekend. Listeners across the country will hear it many times.",
+    "options": [
+     "target",
+     "sponsor",
+     "broadcast",
+     "reach"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Several local businesses agreed to _____ the charity marathon this year. They will pay for the water stations and the runners' T-shirts.",
+    "options": [
+     "sponsor",
+     "target",
+     "reach",
+     "broadcast"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The sales manager gave a very _____ speech at the meeting. By the end, every client agreed to try the new software.",
+    "options": [
+     "viral",
+     "catchy",
+     "promotional",
+     "persuasive"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Visitors to the trade show received free _____ items such as pens and bags. Each item was printed with the company's name and website.",
+    "options": [
+     "persuasive",
+     "compelling",
+     "promotional",
+     "viral"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The funny video of the office cat went _____ within hours. By the next morning, it had more than three million views worldwide.",
+    "options": [
+     "catchy",
+     "viral",
+     "persuasive",
+     "promotional"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Children across the country love the cereal's short, _____ song. Many of them sing it at school long after the ad has ended.",
+    "options": [
+     "persuasive",
+     "promotional",
+     "compelling",
+     "catchy"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The documentary tells a _____ story about a family that rebuilt their business after a flood. Many viewers said they could not stop watching.",
+    "options": [
+     "compelling",
+     "catchy",
+     "promotional",
+     "persuasive"
+    ],
+    "answer": 0,
+    "vocabIndex": 29
+   }
+  ]
  }
 }
