@@ -26,7 +26,7 @@
 
   // ---------- Name dialog ----------
   let askPromise = null;
-  function askName(force) {
+  function askName(force, required) {
     const current = getName();
     if (current && !force) return Promise.resolve(current);
     if (askPromise) return askPromise;
@@ -55,8 +55,11 @@
         setName(value);
         done(value);
         reviewChanged();
+        flushQueue();
       });
-      wrap.querySelector("[data-skip]").addEventListener("click", () => done(getName()));
+      const skip = wrap.querySelector("[data-skip]");
+      if (required) skip.textContent = "Don't send 不送出";
+      skip.addEventListener("click", () => done(getName()));
       document.body.append(wrap);
       input.focus();
     });
@@ -64,38 +67,65 @@
   }
 
   // ---------- Sending (failed sends wait in a queue and go out on the next visit) ----------
-  function send(data) {
-    if (!enabled) return Promise.resolve(false);
+  // CORS request: the Apps Script answers "ok", so a failed send is noticed, queued and retried.
+  function post(data, keepalive) {
     return fetch(ENDPOINT, {
-      method: "POST", mode: "no-cors", keepalive: true,
+      method: "POST", keepalive: !!keepalive,
       headers: { "Content-Type": "text/plain;charset=utf-8" },
       body: JSON.stringify(data)
-    }).then(() => true).catch(() => {
-      const queue = read(QUEUE_KEY, []);
-      queue.push(data);
-      write(QUEUE_KEY, queue.slice(-30));
-      return false;
-    });
+    }).then(r => r.text()).then(t => { if (!/^ok/.test(String(t).trim())) throw new Error(t || "no answer"); return true; });
   }
 
-  function flushQueue() {
+  function queueItem(data) {
     const queue = read(QUEUE_KEY, []);
-    if (!queue.length || !enabled) return;
+    queue.push(data);
+    write(QUEUE_KEY, queue.slice(-50));
+  }
+
+  function send(data) {
+    if (!enabled) return Promise.resolve(false);
+    return post(data, true)
+      .catch(() => post(data, false)) // some browsers refuse keepalive requests: try once more without it
+      .catch(() => { queueItem(data); return false; });
+  }
+
+  let flushing = false;
+  async function flushQueue() {
+    if (!enabled || flushing) return;
+    const name = getName();
+    const queue = read(QUEUE_KEY, []);
+    if (!queue.length) return;
+    flushing = true;
     write(QUEUE_KEY, []);
-    queue.forEach(item => send(item));
+    const left = [];
+    for (const item of queue) {
+      if (!item.name) { if (name) item.name = name; else { left.push(item); continue; } } // waiting for a name
+      try { await post(item, false); } catch (error) { left.push(item); }
+    }
+    if (left.length) write(QUEUE_KEY, read(QUEUE_KEY, []).concat(left).slice(-50));
+    flushing = false;
+  }
+
+  // Small notice so the student (and teacher) can see whether the result reached the teacher.
+  function toast(text, ok) {
+    const box = document.createElement("div");
+    box.setAttribute("role", "status");
+    box.textContent = text;
+    box.style.cssText = `position:fixed;left:50%;bottom:18px;transform:translateX(-50%);z-index:10000;max-width:92vw;padding:10px 16px;border-radius:10px;font:600 14px Arial,'Noto Sans TC','Microsoft JhengHei',sans-serif;color:#fff;background:${ok ? "#1f8a4c" : "#b3541e"};box-shadow:0 8px 24px rgba(0,0,0,.25)`;
+    document.body.append(box);
+    setTimeout(() => box.remove(), ok ? 3500 : 7000);
   }
 
   // ---------- Tests ----------
   // info: { type, level, group, total, correct, wrong: [{ w, key }], label }
   async function logTest(info) {
     if (!enabled || !info || !info.total) return false;
-    const name = await askName(false);
-    if (!name) return false;
+    const name = getName() || await askName(false, true);
     const seen = new Set();
     const wrong = (info.wrong || []).filter(x => x && x.w && !seen.has(x.key || x.w) && seen.add(x.key || x.w));
-    return send({
+    const data = {
       kind: "test",
-      name,
+      name: name || "",
       type: info.type || "Practice",
       level: info.level ?? "",
       group: info.group ?? "",
@@ -106,7 +136,15 @@
       wrongKeys: wrong.map(x => x.key).filter(Boolean).join(","),
       label: info.label || "",
       page: location.pathname.split("/").pop() || "index.html"
-    });
+    };
+    if (!name) { // never throw a result away: keep it until the student gives a name
+      queueItem(data);
+      toast("⚠ 沒有姓名，成績還沒送給老師。下次輸入姓名後會自動送出。 Result saved — it will be sent once you enter your name.", false);
+      return false;
+    }
+    const ok = await send(data);
+    toast(ok ? "✓ 成績已送給老師 Result sent to your teacher" : "⚠ 網路問題，成績先存起來，下次開網頁會自動重送。 Not sent yet — will retry.", ok);
+    return ok;
   }
 
   // Online quiz pages (levelN-groupGG.html): called from the quiz's own submit step with its state and data.
@@ -203,6 +241,7 @@
     if (!enabled) return;
     if (!stored && document.body.hasAttribute("data-tracker-ask")) askName(false);
     flushQueue();
+    window.addEventListener("online", flushQueue);
     setTimeout(syncReview, 3000);
     window.addEventListener("storage", event => { if (event.key === STORE_KEY) reviewChanged(); });
     document.addEventListener("visibilitychange", () => {
