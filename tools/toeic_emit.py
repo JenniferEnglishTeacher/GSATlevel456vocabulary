@@ -12,7 +12,7 @@ Book 3 Unit 1 pages, which build.py already generated from the shared quiz page.
 import json, re, os, html
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-V = "20261115b"
+V = "20261115c"
 GAS = "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"
 BOOK, BACK = "TOEIC Themed Vocabulary", "TOEIC Themed Vocabulary"
 BLANK = "__________"

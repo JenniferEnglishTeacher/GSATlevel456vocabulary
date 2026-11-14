@@ -31,8 +31,8 @@
       const u = new SpeechSynthesisUtterance(line);
       const v = voiceFor(who);
       if (v) { u.voice = v; u.lang = v.lang; } else { u.lang = Math.random() < 0.5 ? "en-US" : "en-GB"; }
-      if (!v) u.pitch = who === "A" ? 0.7 : 1.3; // no matching voice on this device: change the pitch instead
-      u.rate = typeof rate === "number" ? rate : 0.9;
+      u.rate = 1;  // natural speed and pitch for both speakers
+      u.pitch = 1;
       u.onend = () => setTimeout(() => say(i + 1), 250);
       speechSynthesis.speak(u);
     };
