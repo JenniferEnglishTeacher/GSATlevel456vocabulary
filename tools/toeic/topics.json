@@ -3757,5 +3757,3090 @@
     "vocabIndex": 29
    }
   ]
+ },
+ "7": {
+  "theme": "Adventure 冒險",
+  "source": "https://www.examword.com/group-topic/adventure",
+  "VOCAB": [
+   {
+    "word": "explore",
+    "pos": "v.",
+    "en_def": "to travel around a place to learn about it",
+    "cn_def": "探索；探險；考察",
+    "sentence": "A: We have a free afternoon after the sales conference in Lisbon, so what would you like to do before our flight leaves tomorrow morning? B: I'd love to {{BLANK}} the old part of the city on foot, because the hotel receptionist said there are small cafés, markets, and museums hidden in every narrow street.",
+    "cn": "A：我們在里斯本的業務研討會結束後有一個空閒的下午，所以在明天早上班機起飛前你想做什麼？ B：我很想步行【探索】這座城市的舊城區，因為飯店櫃檯人員說每條窄巷裡都藏著小咖啡館、市場和博物館。",
+    "collocation": "explore new business opportunities 探索新的商機"
+   },
+   {
+    "word": "exploration",
+    "pos": "n.",
+    "en_def": "the act of traveling through a place to find out about it",
+    "cn_def": "探索；探勘；考察",
+    "sentence": "A: Why did the travel company decide to add a new tour to its catalog this year, even though most of its customers prefer beach holidays? B: More young professionals are asking for trips that include {{BLANK}} of caves and mountain villages, so the managers believe this kind of tour will sell well next summer.",
+    "cn": "A：為什麼這家旅行社今年決定在型錄裡增加新的行程，雖然大部分客人比較喜歡海灘度假？ B：越來越多年輕上班族要求包含洞穴和山村【探索】的旅程，所以經理們相信這類行程明年夏天會賣得很好。",
+    "collocation": "space exploration 太空探索"
+   },
+   {
+    "word": "journey",
+    "pos": "n.",
+    "en_def": "a trip from one place to another, often a long one",
+    "cn_def": "旅程；旅行",
+    "sentence": "A: How was your trip to the factory in the north last week, and did you manage to finish the safety inspection before the weekend? B: The {{BLANK}} took nearly nine hours by train and bus because of heavy snow, but I arrived in time and finished the inspection on Friday afternoon.",
+    "cn": "A：你上週去北部工廠的行程怎麼樣，有在週末前完成安全檢查嗎？ B：因為大雪，這趟【旅程】搭火車和巴士花了將近九個小時，不過我及時抵達，並在週五下午完成了檢查。",
+    "collocation": "a long journey home 漫長的回家路"
+   },
+   {
+    "word": "expedition",
+    "pos": "n.",
+    "en_def": "an organized trip made for a special purpose, such as science or exploring",
+    "cn_def": "遠征；探險；考察旅行",
+    "sentence": "A: I heard our outdoor equipment company is sponsoring a group of climbers this spring, so where exactly are they planning to go? B: They are joining an {{BLANK}} to the Himalayas for six weeks, and they will test our new tents and jackets in very cold and windy conditions.",
+    "cn": "A：我聽說我們戶外用品公司今年春天要贊助一群登山客，他們究竟打算去哪裡？ B：他們要參加為期六週的喜馬拉雅山【遠征】，並會在非常寒冷且強風的環境中測試我們的新帳篷和外套。",
+    "collocation": "lead a scientific expedition 帶領一支科學考察隊"
+   },
+   {
+    "word": "quest",
+    "pos": "n.",
+    "en_def": "a long search for something important or difficult to find",
+    "cn_def": "追求；探索；尋找",
+    "sentence": "A: Why has the hotel group sent its chef to visit small farms in three different countries during the past two months? B: The chef is on a {{BLANK}} for the freshest local ingredients, because the company wants every restaurant menu to feature special dishes that guests cannot find anywhere else.",
+    "cn": "A：為什麼這家飯店集團在過去兩個月內派主廚去拜訪三個不同國家的小農場？ B：主廚正在【尋找】最新鮮的在地食材，因為公司希望每間餐廳的菜單都能推出客人在其他地方吃不到的特色料理。",
+    "collocation": "a quest for quality 對品質的追求"
+   },
+   {
+    "word": "venture",
+    "pos": "n.",
+    "en_def": "a new business or activity that involves some risk",
+    "cn_def": "（有風險的）事業；冒險",
+    "sentence": "A: Is it true that Mr. Tanaka is leaving the bank next month after working there for more than fifteen years? B: Yes, he and his sister are starting a new business {{BLANK}} together, a small travel agency that plans hiking and camping trips for families who live in big cities.",
+    "cn": "A：田中先生在銀行工作了十五年以上，下個月要離職是真的嗎？ B：是的，他和他姊姊要一起展開一項新的商業【冒險事業】，開一間小型旅行社，為住在大城市的家庭規劃健行和露營旅程。",
+    "collocation": "a joint venture 合資企業"
+   },
+   {
+    "word": "discovery",
+    "pos": "n.",
+    "en_def": "the act of finding something that was not known before",
+    "cn_def": "發現；發現的事物",
+    "sentence": "A: Why are so many reporters waiting outside the museum this morning, and why has the director canceled all of her afternoon meetings? B: A team of researchers made an exciting {{BLANK}} of ancient coins near the river last week, and the director will present them to the public at noon today.",
+    "cn": "A：為什麼今天早上有這麼多記者在博物館外面等候，館長又為什麼取消了她下午所有的會議？ B：一組研究人員上週在河邊有了令人振奮的古錢幣【發現】，館長今天中午將向大眾展示這些錢幣。",
+    "collocation": "make an important discovery 有重大發現"
+   },
+   {
+    "word": "trail",
+    "pos": "n.",
+    "en_def": "a path through the countryside, forest, or mountains",
+    "cn_def": "小徑；步道",
+    "sentence": "A: Our team-building weekend is next month, so do you know a good place where twenty employees can walk together safely? B: The national park has a wide forest {{BLANK}} that takes about three hours to complete, and there are rest areas, clean toilets, and a small café near the end.",
+    "cn": "A：我們的團隊建立週末活動在下個月，你知道哪裡有適合二十名員工安全地一起健行的好地方嗎？ B：國家公園有一條寬敞的森林【步道】，大約三個小時可以走完，沿途有休息區、乾淨的廁所，終點附近還有一間小咖啡館。",
+    "collocation": "follow a hiking trail 沿著健行步道走"
+   },
+   {
+    "word": "voyage",
+    "pos": "n.",
+    "en_def": "a long trip, especially by sea or in space",
+    "cn_def": "航行；航程",
+    "sentence": "A: Why did the cruise company hire so many extra kitchen staff and entertainers for the trip that starts next Monday? B: It is a three-week {{BLANK}} across the Pacific Ocean with more than two thousand passengers, so the ship needs extra workers to prepare meals and keep guests busy every evening.",
+    "cn": "A：為什麼郵輪公司為下週一出發的旅程額外雇用了這麼多廚房人員和表演者？ B：那是一趟橫越太平洋、為期三週的【航行】，船上有兩千多名乘客，所以需要更多員工來準備餐點，並讓客人每晚都有活動可以參加。",
+    "collocation": "a maiden voyage 首航"
+   },
+   {
+    "word": "escape",
+    "pos": "n.",
+    "en_def": "a way of forgetting about daily problems or a stressful situation for a short time",
+    "cn_def": "逃離；逃避；解脫",
+    "sentence": "A: You always look so relaxed when you come back to the office on Monday, so what do you usually do on weekends? B: My husband and I drive to a quiet cabin in the mountains, and it is the perfect {{BLANK}} from the noise of the city and the pressure of our busy jobs.",
+    "cn": "A：你每週一回到辦公室時看起來總是很放鬆，你週末通常都做些什麼？ B：我和我先生會開車到山上一間安靜的小木屋，那是【逃離】城市喧囂和繁忙工作壓力的完美去處。",
+    "collocation": "a weekend escape from the city 逃離城市的週末之旅"
+   },
+   {
+    "word": "risk",
+    "pos": "n.",
+    "en_def": "the possibility that something bad or dangerous may happen",
+    "cn_def": "風險；危險",
+    "sentence": "A: Should we let our guests go kayaking on the lake tomorrow afternoon if the weather report says there might be strong winds? B: I don't think so, because there is a serious {{BLANK}} that the boats could turn over, and our insurance does not cover water activities in bad weather.",
+    "cn": "A：如果氣象預報說明天下午可能有強風，我們還應該讓客人去湖上划獨木舟嗎？ B：我認為不應該，因為船有翻覆的嚴重【風險】，而且我們的保險不涵蓋惡劣天氣下的水上活動。",
+    "collocation": "take a calculated risk 承擔經過評估的風險"
+   },
+   {
+    "word": "challenge",
+    "pos": "n.",
+    "en_def": "something new and difficult that tests your skill or ability",
+    "cn_def": "挑戰；難題",
+    "sentence": "A: Why did you accept the job in Singapore when you already had a good position and a comfortable life here in Taipei? B: I wanted a new {{BLANK}}, and managing a team of people from five different countries will help me improve my leadership and communication skills much faster.",
+    "cn": "A：你在台北已經有不錯的職位和舒適的生活，為什麼還接受新加坡的工作？ B：我想要一個新的【挑戰】，管理來自五個不同國家的團隊會幫助我更快提升領導和溝通能力。",
+    "collocation": "face a major challenge 面臨重大挑戰"
+   },
+   {
+    "word": "thrill",
+    "pos": "n.",
+    "en_def": "a sudden strong feeling of excitement and pleasure",
+    "cn_def": "興奮；激動；刺激",
+    "sentence": "A: Why do you think the zip-line tour is the most popular activity at the resort, even though the ticket is quite expensive? B: Most guests love the {{BLANK}} of flying over the jungle at high speed, and they also enjoy the beautiful view of the waterfalls and the ocean from above.",
+    "cn": "A：雖然票價相當貴，你為什麼認為高空滑索行程是度假村最受歡迎的活動？ B：大部分客人都喜歡在叢林上空高速飛越的【刺激】感，也很享受從上方看到瀑布和海洋的美麗景色。",
+    "collocation": "the thrill of adventure 冒險的刺激感"
+   },
+   {
+    "word": "excitement",
+    "pos": "n.",
+    "en_def": "a feeling of being very happy and eager about something",
+    "cn_def": "興奮；激動",
+    "sentence": "A: Why is everyone in the marketing department talking so loudly and smiling so much this morning? B: There is a lot of {{BLANK}} because the manager just told us that our team won the annual sales award, and the prize is a four-day trip to Bali for everyone in the department.",
+    "cn": "A：為什麼今天早上行銷部的每個人都說話這麼大聲、笑得這麼開心？ B：大家都很【興奮】，因為經理剛告訴我們，我們團隊贏得了年度業績獎，獎品是全部門同仁四天的峇里島之旅。",
+    "collocation": "cause great excitement 引起極大的興奮"
+   },
+   {
+    "word": "wilderness",
+    "pos": "n.",
+    "en_def": "a large natural area where nobody lives and nature has not been changed",
+    "cn_def": "荒野；未開發地區",
+    "sentence": "A: Should I bring my laptop and phone charger on the company's survival training trip next week? B: You can bring them, but they won't be very useful, because we will spend three days in the {{BLANK}}, far from any towns, roads, or electricity, and there is no phone signal there.",
+    "cn": "A：下週公司的野外求生訓練之旅，我應該帶筆電和手機充電器嗎？ B：你可以帶，但用處不大，因為我們會在【荒野】中待三天，遠離任何城鎮、道路和電力，那裡也沒有手機訊號。",
+    "collocation": "a wilderness area 荒野地區"
+   },
+   {
+    "word": "survival",
+    "pos": "n.",
+    "en_def": "the state of continuing to live or exist, especially after danger or difficulty",
+    "cn_def": "生存；存活",
+    "sentence": "A: Why did the hiking club ask every new member to attend a two-day training course before joining the mountain trips? B: The course teaches basic {{BLANK}} skills, such as how to find clean water, build a simple shelter, and stay warm if someone gets lost in bad weather.",
+    "cn": "A：為什麼登山社要求每位新成員在參加登山活動前，先上兩天的訓練課程？ B：這門課教基本的【求生】技巧，例如如何找到乾淨的水、搭建簡單的避難所，以及有人在惡劣天氣中迷路時如何保暖。",
+    "collocation": "the survival of the business 企業的存續"
+   },
+   {
+    "word": "brave",
+    "pos": "adj.",
+    "en_def": "willing to do things that are dangerous or difficult without showing fear",
+    "cn_def": "勇敢的",
+    "sentence": "A: Did you hear what happened at the hotel pool yesterday afternoon when a small child fell into the deep water? B: Yes, a {{BLANK}} young lifeguard jumped in immediately and pulled the child out, and the hotel manager has decided to give him a special award at next week's staff meeting.",
+    "cn": "A：你有聽說昨天下午飯店泳池發生的事嗎？有個小孩掉進了深水區。 B：有，一位【勇敢的】年輕救生員立刻跳下水把孩子救上來，飯店經理決定在下週的員工會議上頒給他特別獎。",
+    "collocation": "make a brave decision 做出勇敢的決定"
+   },
+   {
+    "word": "daring",
+    "pos": "adj.",
+    "en_def": "brave enough to do something dangerous, new, or unusual",
+    "cn_def": "大膽的；勇於冒險的",
+    "sentence": "A: What did the investors think about the plan to open our first restaurant on a boat that travels along the river every evening? B: They said it was a {{BLANK}} idea that nobody in the city had tried before, but they agreed to fund it because tourists would probably love the experience.",
+    "cn": "A：投資人對於我們把第一間餐廳開在每晚沿河航行的船上這個計畫有什麼看法？ B：他們說這是一個城裡從未有人嘗試過的【大膽的】構想，但他們同意出資，因為觀光客很可能會喜愛這種體驗。",
+    "collocation": "a daring rescue 大膽的救援行動"
+   },
+   {
+    "word": "fearless",
+    "pos": "adj.",
+    "en_def": "not afraid of anything",
+    "cn_def": "無畏的；大無畏的",
+    "sentence": "A: Who do you think should guide the group of guests on the rock-climbing tour this Saturday morning? B: Maria would be perfect, because she is {{BLANK}} on steep cliffs, she has ten years of experience, and she always explains the safety rules clearly so that nervous beginners feel calm.",
+    "cn": "A：你認為這週六早上應該由誰帶領客人參加攀岩行程？ B：瑪麗亞再適合不過了，因為她在陡峭的懸崖上【毫無畏懼】，有十年的經驗，而且總是把安全規則解釋得很清楚，讓緊張的初學者感到安心。",
+    "collocation": "a fearless leader 無畏的領導者"
+   },
+   {
+    "word": "wild",
+    "pos": "adj.",
+    "en_def": "living or growing in nature, not kept or controlled by people",
+    "cn_def": "野生的；未經馴化的",
+    "sentence": "A: Is it safe for our tour group to leave food outside the tents at the campsite tonight after dinner? B: No, the park ranger warned us that {{BLANK}} animals such as bears and foxes often come close to the camp at night, so we must lock all the food in the cars.",
+    "cn": "A：今晚晚餐後，我們旅行團把食物留在營地帳篷外面安全嗎？ B：不安全，公園管理員警告我們，熊和狐狸等【野生】動物晚上常會靠近營地，所以我們必須把所有食物鎖在車裡。",
+    "collocation": "wild animals 野生動物"
+   },
+   {
+    "word": "remote",
+    "pos": "adj.",
+    "en_def": "far away from towns, cities, and other people",
+    "cn_def": "偏遠的；遙遠的",
+    "sentence": "A: Why does it take so long to deliver our products to the new customer in the mountains, even when we use express shipping? B: The village is in a very {{BLANK}} area with only one narrow road, so the delivery trucks can go there just twice a week when the weather is good.",
+    "cn": "A：為什麼即使用快遞，把產品送到山區的新客戶那裡還是要花這麼久？ B：那個村莊位於非常【偏遠的】地區，只有一條狹窄的道路，所以貨車只有在天氣好的時候，每週才能去兩次。",
+    "collocation": "a remote island 偏遠的島嶼"
+   },
+   {
+    "word": "unpredictable",
+    "pos": "adj.",
+    "en_def": "changing so often that you cannot know what will happen",
+    "cn_def": "無法預測的；難以預料的",
+    "sentence": "A: Should we hold the company picnic by the sea in early October, or is it better to plan an indoor event this year? B: I prefer an indoor event, because the weather near the coast is very {{BLANK}} in autumn, and a sudden storm could ruin all the food and games we prepare.",
+    "cn": "A：我們應該在十月初到海邊辦公司野餐，還是今年最好規劃室內活動？ B：我比較喜歡室內活動，因為秋天海岸附近的天氣非常【難以預測】，一場突來的暴風雨可能會毀了我們準備的所有食物和遊戲。",
+    "collocation": "unpredictable weather 變化莫測的天氣"
+   },
+   {
+    "word": "dangerous",
+    "pos": "adj.",
+    "en_def": "able to hurt or harm people",
+    "cn_def": "危險的",
+    "sentence": "A: Why did the tour company cancel the boat trip to the small island this afternoon, even though most passengers had already paid? B: The captain said the waves were too high and it was {{BLANK}} to sail, so the company is offering everyone a full refund or a free ticket for another day.",
+    "cn": "A：為什麼旅行社今天下午取消了去小島的船程，即使大部分乘客都已經付款了？ B：船長說浪太高，出航很【危險】，所以公司提供每個人全額退款，或改天使用的免費船票。",
+    "collocation": "dangerous working conditions 危險的工作環境"
+   },
+   {
+    "word": "experience",
+    "pos": "n.",
+    "en_def": "something that happens to you and affects how you feel",
+    "cn_def": "經歷；體驗",
+    "sentence": "A: How was your weekend trip to the desert with the new clients from Dubai, and did they enjoy the activities you planned? B: It was an amazing {{BLANK}} for all of us, because we rode camels, watched the sunset from the sand dunes, and ate a traditional dinner under the stars.",
+    "cn": "A：你和杜拜的新客戶去沙漠的週末之旅怎麼樣？他們喜歡你安排的活動嗎？ B：對我們所有人來說都是一次很棒的【經歷】，因為我們騎了駱駝、在沙丘上看日落，還在星空下吃了傳統晚餐。",
+    "collocation": "an unforgettable experience 難忘的經歷"
+   },
+   {
+    "word": "wander",
+    "pos": "v.",
+    "en_def": "to walk slowly around a place without a clear direction or purpose",
+    "cn_def": "閒逛；漫步",
+    "sentence": "A: What did you do during the long break between your two meetings in Kyoto yesterday? B: I decided to {{BLANK}} through the quiet streets near the old temples for about two hours, and I found a lovely tea shop where I bought some gifts for my coworkers back home.",
+    "cn": "A：昨天你在京都兩場會議之間的長時間空檔做了什麼？ B：我決定在古寺附近安靜的街道上【漫步】大約兩個小時，還發現了一間很棒的茶舖，在那裡幫家鄉的同事買了一些禮物。",
+    "collocation": "wander around the old town 在舊城區閒逛"
+   },
+   {
+    "word": "roam",
+    "pos": "v.",
+    "en_def": "to move or travel freely around a large area",
+    "cn_def": "漫遊；閒逛；徜徉",
+    "sentence": "A: What makes the safari park different from an ordinary zoo, and why are the tickets so popular with families? B: In the safari park, the animals can {{BLANK}} across large open fields instead of living in small cages, and visitors watch them safely from special buses with big windows.",
+    "cn": "A：野生動物園和一般動物園有什麼不同？為什麼門票這麼受家庭歡迎？ B：在野生動物園裡，動物可以在廣大的開放草原上自由【漫遊】，而不是住在小籠子裡，遊客則從有大窗戶的特殊巴士上安全地觀賞牠們。",
+    "collocation": "free to roam 可以自由走動"
+   },
+   {
+    "word": "navigate",
+    "pos": "v.",
+    "en_def": "to find the right way to go from one place to another",
+    "cn_def": "導航；找路；駕駛（船、飛機等）",
+    "sentence": "A: How will we find the hotel if our phones lose signal while we are driving through the mountains tonight? B: Don't worry, Ken brought a paper map and a compass, and he learned how to {{BLANK}} without GPS when he worked as a tour guide in Canada for five years.",
+    "cn": "A：如果今晚我們開車穿越山區時手機沒有訊號，要怎麼找到飯店？ B：別擔心，肯帶了紙本地圖和指南針，他在加拿大當了五年導遊，學會了如何在沒有衛星導航的情況下【找路】。",
+    "collocation": "navigate through heavy traffic 在車陣中找路前進"
+   },
+   {
+    "word": "trek",
+    "pos": "v.",
+    "en_def": "to make a long, difficult journey, usually on foot",
+    "cn_def": "長途跋涉；徒步旅行",
+    "sentence": "A: Why are the new hiking boots selling so quickly in our store this month, even though they cost more than the old model? B: Many customers plan to {{BLANK}} across the mountains during the holiday season, and they want strong, waterproof boots that will keep their feet dry and comfortable.",
+    "cn": "A：為什麼新款登山靴這個月在我們店裡賣得這麼快，雖然它比舊款貴？ B：許多顧客計畫在假期期間徒步【長途跋涉】穿越山區，他們想要堅固又防水的靴子，讓雙腳保持乾燥舒適。",
+    "collocation": "trek through the jungle 徒步穿越叢林"
+   },
+   {
+    "word": "boldly",
+    "pos": "adv.",
+    "en_def": "in a brave and confident way, without fear",
+    "cn_def": "大膽地；勇敢地",
+    "sentence": "A: How did our small company manage to win the contract when three much larger firms were also competing for it? B: Our director spoke {{BLANK}} at the final meeting, promised a faster delivery schedule, and showed the clients a creative plan that none of the other companies had thought of.",
+    "cn": "A：當另外三家大得多的公司也在競爭時，我們這家小公司是怎麼贏得合約的？ B：我們的總監在最後一次會議上【大膽地】發言，承諾更快的交貨時程，還向客戶展示了其他公司都沒想到的創意企畫。",
+    "collocation": "act boldly 大膽行動"
+   },
+   {
+    "word": "freely",
+    "pos": "adv.",
+    "en_def": "without being controlled or limited",
+    "cn_def": "自由地；無拘束地",
+    "sentence": "A: Do the guests on the island tour have to stay with the guide all day, or can they choose their own activities? B: After lunch, they can move around the island {{BLANK}}, so some people go swimming, others visit the local market, and a few just relax on the beach until the boat leaves.",
+    "cn": "A：參加島嶼行程的客人必須整天跟著導遊，還是可以自己選擇活動？ B：午餐後他們可以在島上【自由地】活動，所以有些人去游泳，有些人逛當地市場，還有幾個人就在沙灘上放鬆到船開為止。",
+    "collocation": "speak freely 暢所欲言"
+   },
+   {
+    "word": "unexpectedly",
+    "pos": "adv.",
+    "en_def": "in a way that surprises you because you did not think it would happen",
+    "cn_def": "出乎意料地；意外地",
+    "sentence": "A: Why didn't the hiking group reach the top of the mountain on Saturday, when they had planned the trip for months? B: The weather changed {{BLANK}} in the early afternoon, and the guide decided to turn back because thick clouds and strong rain made the path too slippery to continue.",
+    "cn": "A：為什麼登山隊週六沒有登上山頂？他們可是計畫了好幾個月。 B：天氣在午後【出乎意料地】變了，因為濃厚的雲層和大雨讓山路太滑無法繼續，嚮導決定折返。",
+    "collocation": "arrive unexpectedly 不預期地到來"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The new manager wants to visit every branch in her first month. She hopes to _____ ways to reduce costs without cutting staff.",
+    "options": [
+     "wander",
+     "roam",
+     "trek",
+     "explore"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The mining company has received permission to search the northern hills. Oil _____ will begin there as soon as the snow melts.",
+    "options": [
+     "excitement",
+     "voyage",
+     "exploration",
+     "survival"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Passengers should bring snacks and water for the bus ride. The _____ from the airport to the resort takes about four hours.",
+    "options": [
+     "thrill",
+     "journey",
+     "risk",
+     "quest"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The university is sending twelve scientists to study ice near the South Pole. The _____ will last for three months.",
+    "options": [
+     "expedition",
+     "escape",
+     "discovery",
+     "excitement"
+    ],
+    "answer": 0,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The company has spent years improving its coffee beans. Its _____ for the perfect flavor has made it famous worldwide.",
+    "options": [
+     "trail",
+     "wilderness",
+     "quest",
+     "journey"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Two former coworkers have opened a small bicycle tour company together. The new _____ has already attracted many foreign visitors.",
+    "options": [
+     "thrill",
+     "survival",
+     "trail",
+     "venture"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Workers building the new subway line found old pottery under the street. The city has stopped construction to study the _____.",
+    "options": [
+     "challenge",
+     "discovery",
+     "voyage",
+     "risk"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Hikers are asked to stay on the marked path at all times. Leaving the _____ can damage plants and cause people to get lost.",
+    "options": [
+     "trail",
+     "quest",
+     "exploration",
+     "excitement"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The cargo ship left the port of Kaohsiung on Monday. Its _____ to Rotterdam will take about thirty days.",
+    "options": [
+     "wilderness",
+     "risk",
+     "challenge",
+     "voyage"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Many office workers visit the rooftop garden at lunchtime. It offers a quiet _____ from crowded desks and ringing phones.",
+    "options": [
+     "discovery",
+     "escape",
+     "expedition",
+     "survival"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Investing all of your savings in one company is not wise. Spreading your money across several funds reduces the _____.",
+    "options": [
+     "trail",
+     "voyage",
+     "risk",
+     "quest"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Opening ten stores in one year will not be easy. Finding enough trained staff is the biggest _____ for the company.",
+    "options": [
+     "challenge",
+     "escape",
+     "exploration",
+     "journey"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Visitors at the theme park waited two hours for the new roller coaster. Many said the _____ of the ride was worth it.",
+    "options": [
+     "trail",
+     "venture",
+     "thrill",
+     "wilderness"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Fans waited outside the store all night for the new phone. Their _____ grew as the opening time came closer.",
+    "options": [
+     "excitement",
+     "risk",
+     "expedition",
+     "discovery"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The tour takes guests far from any roads or buildings. They will camp in the _____ for five nights.",
+    "options": [
+     "excitement",
+     "challenge",
+     "venture",
+     "wilderness"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Sales have dropped sharply for three years in a row. The new owner says lower costs are necessary for the store's _____.",
+    "options": [
+     "voyage",
+     "survival",
+     "thrill",
+     "trail"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The firefighter carried two workers out of the burning warehouse. The mayor praised him for his _____ actions.",
+    "options": [
+     "brave",
+     "remote",
+     "wild",
+     "unpredictable"
+    ],
+    "answer": 0,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The young designer shocked everyone with bright, unusual colors. Her _____ style helped the brand attract younger customers.",
+    "options": [
+     "remote",
+     "dangerous",
+     "wild",
+     "daring"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The reporter has covered wars and natural disasters around the world. Her _____ attitude has earned her many awards.",
+    "options": [
+     "remote",
+     "unpredictable",
+     "fearless",
+     "wild"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Guests at the lodge often see deer near the river in the morning. Please do not feed any _____ animals.",
+    "options": [
+     "brave",
+     "wild",
+     "fearless",
+     "daring"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The clinic serves farmers who live far from the city. Doctors fly there because the area is too _____ to reach by car.",
+    "options": [
+     "brave",
+     "daring",
+     "fearless",
+     "remote"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Prices for fresh fruit change almost every week. Because the market is so _____, the restaurant updates its menu often.",
+    "options": [
+     "unpredictable",
+     "brave",
+     "fearless",
+     "daring"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The factory floor is wet after the pipe broke. Walking there without safety boots is _____, so please use the side door.",
+    "options": [
+     "brave",
+     "dangerous",
+     "daring",
+     "fearless"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The guide gave the group an hour of free time. Many visitors chose to _____ around the market and taste local food.",
+    "options": [
+     "navigate",
+     "explore",
+     "wander",
+     "trek"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The farm keeps its chickens outside instead of in cages. The birds _____ freely across the green fields all day.",
+    "options": [
+     "navigate",
+     "explore",
+     "trek",
+     "roam"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The new app shows every shop and restaurant inside the mall. It helps shoppers _____ the large building easily.",
+    "options": [
+     "navigate",
+     "roam",
+     "wander",
+     "trek"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The charity event raises money for local schools. Volunteers will _____ forty kilometers through the hills in two days.",
+    "options": [
+     "navigate",
+     "roam",
+     "trek",
+     "explore"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The small company entered the crowded market with a cheaper product and no fear. It _____ challenged the two biggest brands in the country.",
+    "options": [
+     "freely",
+     "boldly",
+     "unexpectedly",
+     "carefully"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Employees can now choose their own working hours. They move _____ between home and the office as long as projects are finished.",
+    "options": [
+     "boldly",
+     "unexpectedly",
+     "quietly",
+     "freely"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The airline canceled the evening flight at the last minute. Hundreds of travelers were _____ forced to stay overnight.",
+    "options": [
+     "boldly",
+     "freely",
+     "unexpectedly",
+     "quietly"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+   }
+  ]
+ },
+ "8": {
+  "theme": "Advice 建議",
+  "source": "https://www.examword.com/group-topic/advice",
+  "VOCAB": [
+   {
+    "word": "advise",
+    "pos": "v.",
+    "en_def": "to tell someone what you think they should do",
+    "cn_def": "建議；勸告；忠告",
+    "sentence": "A: I'm thinking about buying a used delivery van for my flower shop, but I don't know much about cars, so what should I do first? B: I would {{BLANK}} you to ask a trusted mechanic to check the engine and brakes carefully before you sign anything, because repairs on old vans can be very expensive.",
+    "cn": "A：我在考慮為我的花店買一輛二手送貨車，但我不太懂車，我應該先做什麼？ B：我會【建議】你在簽任何文件之前，先請一位信得過的技師仔細檢查引擎和煞車，因為舊貨車的維修費用可能非常高。",
+    "collocation": "strongly advise against it 強烈建議不要這樣做"
+   },
+   {
+    "word": "guidance",
+    "pos": "n.",
+    "en_def": "help and advice about how to do something",
+    "cn_def": "指導；引導",
+    "sentence": "A: How are the new interns doing in their first month at the accounting firm, and have they made many mistakes with the reports? B: They are doing well, mostly because each intern works under the {{BLANK}} of a senior accountant who checks their work every afternoon and answers their questions patiently.",
+    "cn": "A：新來的實習生在會計師事務所的第一個月表現如何？他們的報告出了很多錯嗎？ B：他們表現得很好，主要是因為每位實習生都在一位資深會計師的【指導】下工作，那位會計師每天下午都會檢查他們的工作並耐心回答問題。",
+    "collocation": "provide guidance on safety rules 提供安全規範方面的指導"
+   },
+   {
+    "word": "suggestion",
+    "pos": "n.",
+    "en_def": "an idea or plan that you offer for someone to think about",
+    "cn_def": "建議；提議",
+    "sentence": "A: The staff kitchen is always messy at the end of the day, and people keep complaining about it, so what can we do? B: I have a {{BLANK}}: let's make a simple weekly cleaning schedule and put it on the fridge, so each team takes care of the kitchen for one day.",
+    "cn": "A：員工廚房每天下班時總是很亂，大家一直抱怨，我們能怎麼做？ B：我有一個【建議】：我們來做一張簡單的每週清潔值日表貼在冰箱上，讓每個小組各負責一天的廚房清潔。",
+    "collocation": "make a suggestion 提出建議"
+   },
+   {
+    "word": "recommendation",
+    "pos": "n.",
+    "en_def": "advice about what is best to do or buy, often from an expert",
+    "cn_def": "推薦；建議",
+    "sentence": "A: Why did the company suddenly change its supplier of office chairs after using the same one for almost ten years? B: The safety committee made a {{BLANK}} after many employees complained about back pain, so the managers chose a new supplier that sells chairs with much better support.",
+    "cn": "A：為什麼公司在用了同一家辦公椅供應商將近十年後突然換掉？ B：在許多員工抱怨背痛之後，安全委員會提出了一項【建議】，所以主管們選擇了一家販售支撐性好得多的椅子的新供應商。",
+    "collocation": "a letter of recommendation 推薦信"
+   },
+   {
+    "word": "counsel",
+    "pos": "n.",
+    "en_def": "advice, especially from an older or more experienced person or a professional",
+    "cn_def": "忠告；勸告；法律顧問",
+    "sentence": "A: You seemed so calm during the difficult contract talks with the Japanese company last month, so how did you prepare for them? B: Before the talks, I asked for {{BLANK}} from our former director, who has negotiated with many Asian firms, and her advice helped me stay patient and polite.",
+    "cn": "A：上個月和那家日本公司進行艱難的合約談判時，你看起來很冷靜，你是怎麼準備的？ B：在談判前，我向我們的前任總監尋求【忠告】，她和許多亞洲公司談判過，她的建議幫助我保持耐心和禮貌。",
+    "collocation": "seek legal counsel 尋求法律諮詢"
+   },
+   {
+    "word": "instruction",
+    "pos": "n.",
+    "en_def": "information that tells you how to do or use something",
+    "cn_def": "指示；說明；用法說明",
+    "sentence": "A: The new printer in the meeting room keeps showing an error message, so do you know how to fix it before the clients arrive? B: Read the {{BLANK}} printed on the inside of the front cover, because it explains step by step how to remove stuck paper and restart the machine safely.",
+    "cn": "A：會議室的新印表機一直出現錯誤訊息，你知道在客戶到之前要怎麼修好嗎？ B：去看印在前蓋內側的【說明】，上面一步一步解釋如何取出卡紙並安全地重新啟動機器。",
+    "collocation": "follow the instructions carefully 仔細依照指示操作"
+   },
+   {
+    "word": "tip",
+    "pos": "n.",
+    "en_def": "a small but useful piece of practical advice",
+    "cn_def": "訣竅；小建議；提示",
+    "sentence": "A: I have to give a speech in English at the international sales meeting next week, and I'm already very nervous about it, so can you help? B: Here's a useful {{BLANK}} that always works for me: practice in front of a mirror every night, and speak a little more slowly than you normally do.",
+    "cn": "A：下週我必須在國際業務會議上用英文演講，我已經非常緊張了，你能幫幫我嗎？ B：這是一個對我總是很有用的【訣竅】：每天晚上對著鏡子練習，並且說話比平常稍微慢一點。",
+    "collocation": "share some helpful tips 分享一些實用的訣竅"
+   },
+   {
+    "word": "warning",
+    "pos": "n.",
+    "en_def": "a statement telling someone about a possible danger or problem",
+    "cn_def": "警告；預告",
+    "sentence": "A: Why did all the ships stay in the harbor this morning, even though the sky looked clear and the sea was calm? B: The weather office issued a storm {{BLANK}} late last night, saying that strong winds and heavy rain would reach the coast by noon, so the captains decided not to sail.",
+    "cn": "A：為什麼今天早上所有船隻都留在港口，即使天空看起來很晴朗、海面也很平靜？ B：氣象局昨晚深夜發布了暴風雨【警報】，說強風和大雨中午前會抵達沿岸，所以船長們決定不出航。",
+    "collocation": "give a final warning 給予最後警告"
+   },
+   {
+    "word": "encouragement",
+    "pos": "n.",
+    "en_def": "words or actions that give someone confidence or hope",
+    "cn_def": "鼓勵；激勵",
+    "sentence": "A: How did Daniel manage to pass the difficult accounting exam on his third try, after failing it twice last year? B: His manager gave him a lot of {{BLANK}}, let him leave work early twice a week to study, and kept telling him that he had the skills to succeed.",
+    "cn": "A：丹尼爾去年考了兩次都沒過，他是怎麼在第三次通過那個困難的會計考試的？ B：他的主管給了他很多【鼓勵】，讓他每週兩次提早下班去讀書，還不斷告訴他，他有成功的能力。",
+    "collocation": "words of encouragement 鼓勵的話"
+   },
+   {
+    "word": "feedback",
+    "pos": "n.",
+    "en_def": "comments about how well someone did something, given so they can improve",
+    "cn_def": "回饋；意見",
+    "sentence": "A: How will we know whether guests are happy with the changes we made to the hotel restaurant last month? B: We can send them a short online survey after they check out, and their {{BLANK}} will show us which dishes they liked and what we still need to improve.",
+    "cn": "A：我們要怎麼知道客人對上個月飯店餐廳的改變是否滿意？ B：我們可以在他們退房後寄一份簡短的線上問卷，他們的【回饋】會讓我們知道他們喜歡哪些菜，以及我們還需要改進什麼。",
+    "collocation": "customer feedback 顧客意見回饋"
+   },
+   {
+    "word": "consult",
+    "pos": "v.",
+    "en_def": "to go to a person or a book for information or advice",
+    "cn_def": "諮詢；請教；查閱",
+    "sentence": "A: The pain in my wrist has become much worse since I started typing for eight hours a day on the new project, so what should I do? B: You should {{BLANK}} a doctor this week, and you might also ask the office manager for a better keyboard and a soft wrist pad.",
+    "cn": "A：自從我開始在新專案每天打字八個小時後，手腕就痛得更厲害了，我該怎麼辦？ B：你這週應該去【請教】醫生，也可以向辦公室經理要一個比較好的鍵盤和柔軟的護腕墊。",
+    "collocation": "consult a lawyer 諮詢律師"
+   },
+   {
+    "word": "consultation",
+    "pos": "n.",
+    "en_def": "a meeting with an expert to get advice",
+    "cn_def": "諮詢；商議；會診",
+    "sentence": "A: I'd like to make my small restaurant more energy-efficient, but I have no idea where to start, so can you help me? B: The city offers a free {{BLANK}} with an energy expert, who will visit your restaurant, check your kitchen equipment, and suggest simple ways to cut your electricity bills.",
+    "cn": "A：我想讓我的小餐廳更節能，但完全不知道從何開始，你能幫我嗎？ B：市政府提供和能源專家的免費【諮詢】，專家會到你的餐廳檢查廚房設備，並建議簡單的方法來降低電費。",
+    "collocation": "book a free consultation 預約免費諮詢"
+   },
+   {
+    "word": "opinion",
+    "pos": "n.",
+    "en_def": "what you think or believe about something",
+    "cn_def": "意見；看法；見解",
+    "sentence": "A: The marketing team has prepared two different designs for the new product package, and we need to choose one by Friday. B: In my {{BLANK}}, the blue design looks more modern and professional, but we should also show both designs to a few customers before we make the final decision.",
+    "cn": "A：行銷團隊為新產品包裝準備了兩種不同的設計，我們必須在週五前選出一個。 B：依我的【看法】，藍色的設計看起來比較現代、專業，但在做最後決定前，我們也應該把兩種設計拿給幾位顧客看看。",
+    "collocation": "in my opinion 依我看"
+   },
+   {
+    "word": "perspective",
+    "pos": "n.",
+    "en_def": "a particular way of thinking about something",
+    "cn_def": "觀點；看法；角度",
+    "sentence": "A: Why did the director invite three young employees to join the planning meeting for next year's advertising campaign? B: She wanted a fresh {{BLANK}} from people in their twenties, because the campaign is aimed at young customers, and the older managers may not understand what they really want.",
+    "cn": "A：為什麼總監邀請三位年輕員工參加明年廣告活動的企畫會議？ B：她想要聽聽二十幾歲年輕人的新【觀點】，因為這次活動的對象是年輕顧客，而年長的主管們可能不了解他們真正想要什麼。",
+    "collocation": "from a customer's perspective 從顧客的角度"
+   },
+   {
+    "word": "direction",
+    "pos": "n.",
+    "en_def": "instructions or control that help someone know what to do",
+    "cn_def": "指導；指揮；方向",
+    "sentence": "A: The new branch had very poor sales last year, so why are the numbers so much better this year? B: Under the {{BLANK}} of the new branch manager, the staff set clear monthly goals, improved their customer service, and started selling products online as well as in the store.",
+    "cn": "A：新分店去年的業績很差，為什麼今年的數字好了這麼多？ B：在新分店經理的【指導】下，員工訂定了明確的每月目標、改善了顧客服務，並且除了店面之外也開始在網路上銷售產品。",
+    "collocation": "under the direction of the manager 在經理的指揮下"
+   },
+   {
+    "word": "input",
+    "pos": "n.",
+    "en_def": "ideas, advice, or information that you give to help with a project",
+    "cn_def": "意見；建議；投入",
+    "sentence": "A: Should we finish the budget plan ourselves this afternoon, or do we need to talk to anyone else in the company first? B: We need some {{BLANK}} from the sales department before we finish, because they know which products will need more money for advertising during the holiday season.",
+    "cn": "A：我們應該今天下午自己完成預算計畫，還是需要先和公司裡的其他人談談？ B：在完成之前，我們需要業務部的一些【意見】，因為他們知道哪些產品在假期期間需要更多的廣告經費。",
+    "collocation": "valuable input from the team 團隊寶貴的意見"
+   },
+   {
+    "word": "recommend",
+    "pos": "v.",
+    "en_def": "to say that someone or something is good and suitable",
+    "cn_def": "推薦；建議",
+    "sentence": "A: Our Korean clients are arriving on Thursday evening, and I want to take them somewhere nice for dinner after their long flight. B: I {{BLANK}} the seafood restaurant near the harbor, because it is quiet enough for conversation, the service is excellent, and it has a beautiful view of the city lights.",
+    "cn": "A：我們的韓國客戶週四晚上抵達，他們長途飛行後，我想帶他們去不錯的地方吃晚餐。 B：我【推薦】港口附近的那間海鮮餐廳，因為那裡夠安靜可以聊天，服務很好，還能欣賞美麗的城市夜景。",
+    "collocation": "highly recommend a product 大力推薦一項產品"
+   },
+   {
+    "word": "urge",
+    "pos": "v.",
+    "en_def": "to strongly advise or try hard to persuade someone to do something",
+    "cn_def": "力勸；敦促；催促",
+    "sentence": "A: Why did the IT department send another email to all staff this morning, when we already received one yesterday? B: They want to {{BLANK}} everyone to change their passwords before Friday, because several employees received fake emails last week that tried to steal their account information.",
+    "cn": "A：為什麼資訊部今天早上又寄了一封信給全體員工？我們昨天已經收到一封了。 B：他們想【敦促】大家在週五前更改密碼，因為上週有幾位員工收到企圖竊取帳號資料的假電子郵件。",
+    "collocation": "urge customers to act quickly 敦促顧客儘快行動"
+   },
+   {
+    "word": "proposal",
+    "pos": "n.",
+    "en_def": "a plan or idea that is formally suggested for people to consider",
+    "cn_def": "提案；建議；計畫書",
+    "sentence": "A: What happened at the board meeting this morning, and did the directors agree to open a new office in Vietnam? B: They read the {{BLANK}} carefully and liked most of it, but they asked us to add more details about costs and local hiring before they make a final decision next month.",
+    "cn": "A：今天早上的董事會發生了什麼事？董事們同意在越南設立新辦公室了嗎？ B：他們仔細閱讀了【提案】，大部分都很喜歡，但要求我們補充更多關於成本和當地招聘的細節，下個月才會做最後決定。",
+    "collocation": "submit a business proposal 提交商業企畫書"
+   },
+   {
+    "word": "hint",
+    "pos": "n.",
+    "en_def": "a small piece of advice or a clue that helps you do or guess something",
+    "cn_def": "提示；暗示；小訣竅",
+    "sentence": "A: I've tried three times to set up the new video meeting software on my laptop, but it still won't connect to the camera. B: Here's a {{BLANK}}: close all your other programs first, then restart the software, because the camera often stops working when another app is already using it.",
+    "cn": "A：我已經試了三次在筆電上安裝新的視訊會議軟體，但它還是連不上攝影機。 B：給你一個【提示】：先關掉其他所有程式，再重新啟動軟體，因為當其他應用程式正在使用攝影機時，它常常會無法運作。",
+    "collocation": "drop a hint 給個暗示"
+   },
+   {
+    "word": "lesson",
+    "pos": "n.",
+    "en_def": "something you learn from a bad experience that helps you in the future",
+    "cn_def": "教訓；課程",
+    "sentence": "A: Last year we lost a big order because we promised a delivery date that our factory could not meet, didn't we? B: Yes, and that was an important {{BLANK}} for all of us, so now we always check with the factory before we promise any dates to customers.",
+    "cn": "A：去年我們因為承諾了工廠無法達到的交貨日期而失去一筆大訂單，對吧？ B：對，那是給我們所有人的重要【教訓】，所以現在我們在向客戶承諾任何日期之前，一定會先和工廠確認。",
+    "collocation": "learn a valuable lesson 學到寶貴的教訓"
+   },
+   {
+    "word": "reminder",
+    "pos": "n.",
+    "en_def": "something that helps you remember something you must do",
+    "cn_def": "提醒；提示通知",
+    "sentence": "A: How can we stop so many patients from missing their appointments at the dental clinic every week? B: We could send each patient a text message {{BLANK}} the day before the visit, because most people forget appointments that they made several weeks earlier, especially when they are busy at work.",
+    "cn": "A：我們要怎麼做，才能讓牙科診所每週不再有這麼多病人錯過預約？ B：我們可以在看診前一天傳簡訊【提醒】每位病人，因為大部分人會忘記幾週前預約的時間，尤其是工作忙碌的時候。",
+    "collocation": "send a friendly reminder 發送友善的提醒"
+   },
+   {
+    "word": "coaching",
+    "pos": "n.",
+    "en_def": "the process of training and helping someone to improve a skill",
+    "cn_def": "指導；訓練；輔導",
+    "sentence": "A: Our sales staff are friendly, but many of them find it hard to close deals with difficult customers, so what can we do? B: We could hire an expert to provide weekly {{BLANK}} for the team, because practicing real situations with a professional usually builds confidence and improves results quickly.",
+    "cn": "A：我們的業務人員很友善，但很多人都很難和難搞的顧客成交，我們能怎麼做？ B：我們可以聘請專家每週為團隊提供【指導訓練】，因為和專業人士一起演練真實情境，通常能很快建立信心並提升成果。",
+    "collocation": "receive one-on-one coaching 接受一對一指導"
+   },
+   {
+    "word": "mentorship",
+    "pos": "n.",
+    "en_def": "help and advice given over time by an experienced person to a less experienced one",
+    "cn_def": "師徒指導；導師制度",
+    "sentence": "A: Why do so many young engineers want to work at your company, even though other firms offer slightly higher salaries? B: We have an excellent {{BLANK}} program, in which every new engineer is paired with a senior colleague who meets them each week and helps them plan their careers.",
+    "cn": "A：為什麼這麼多年輕工程師想到你們公司工作，即使其他公司提供稍高的薪水？ B：我們有一個很棒的【導師指導】計畫，每位新進工程師都會和一位資深同事配對，對方每週和他們見面，並幫助他們規劃職涯。",
+    "collocation": "a mentorship program 導師制計畫"
+   },
+   {
+    "word": "directive",
+    "pos": "n.",
+    "en_def": "an official order or instruction from someone in authority",
+    "cn_def": "指令；命令；指示",
+    "sentence": "A: Why are all the managers working from the office again this week when they were allowed to work from home last month? B: The head office sent a new {{BLANK}} on Monday saying that all managers must be in the office at least four days a week to meet with their teams.",
+    "cn": "A：為什麼這週所有經理又回辦公室上班了？上個月他們不是可以在家工作嗎？ B：總公司週一發布了一項新的【指令】，規定所有經理每週至少要有四天在辦公室與團隊開會。",
+    "collocation": "issue a directive 發布指令"
+   },
+   {
+    "word": "guiding",
+    "pos": "adj.",
+    "en_def": "giving direction or advice that helps someone decide what to do",
+    "cn_def": "指導性的；引導的",
+    "sentence": "A: Our company is growing very fast, so how do you make sure that all the new branches treat customers in the same way? B: We have one {{BLANK}} principle that every employee learns on the first day, which is that the customer's comfort and safety always come before quick profits.",
+    "cn": "A：我們公司成長得很快，你們要怎麼確保所有新分店都用同樣的方式對待顧客？ B：我們有一個每位員工第一天就要學習的【指導】原則，就是顧客的舒適與安全永遠優先於快速獲利。",
+    "collocation": "a guiding principle 指導原則"
+   },
+   {
+    "word": "advisory",
+    "pos": "adj.",
+    "en_def": "having the job of giving advice, usually without making the final decisions",
+    "cn_def": "顧問的；諮詢的",
+    "sentence": "A: Will the university professors decide how the city spends the money for the new public transportation system? B: No, they only have an {{BLANK}} role, so they will study the plans and share their ideas, but the city council will make the final decisions about the budget.",
+    "cn": "A：大學教授們會決定市政府如何使用新大眾運輸系統的經費嗎？ B：不會，他們只擔任【顧問】角色，所以他們會研究計畫並提供想法，但預算的最後決定權在市議會。",
+    "collocation": "an advisory committee 諮詢委員會"
+   },
+   {
+    "word": "wisdom",
+    "pos": "n.",
+    "en_def": "the ability to make good decisions based on knowledge and experience",
+    "cn_def": "智慧；明智",
+    "sentence": "A: Why does the young owner of the bakery still ask her grandfather for advice, even though he retired many years ago? B: He ran the shop successfully for forty years, and she values his {{BLANK}} about handling customers, choosing suppliers, and keeping costs low during difficult times.",
+    "cn": "A：為什麼那間麵包店的年輕老闆仍然向祖父請教，即使他多年前就退休了？ B：他成功經營那家店四十年，她很重視他在應對顧客、挑選供應商，以及在困難時期控制成本方面的【智慧】。",
+    "collocation": "the wisdom of experience 經驗的智慧"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Our lawyer has read the contract carefully. She will _____ us whether we should sign it before Friday.",
+    "options": [
+     "urge",
+     "consult",
+     "recommend",
+     "advise"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "New employees are never left to work alone in their first week. They receive _____ from an experienced team leader.",
+    "options": [
+     "warning",
+     "proposal",
+     "guidance",
+     "opinion"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Staff can drop their ideas into the box near the elevator. Every useful _____ will be discussed at the monthly meeting.",
+    "options": [
+     "warning",
+     "suggestion",
+     "directive",
+     "lesson"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The hiring manager asked Director Lee for a letter about her former assistant. Her strong _____ helped him get the job.",
+    "options": [
+     "recommendation",
+     "hint",
+     "reminder",
+     "wisdom"
+    ],
+    "answer": 0,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The company was accused of breaking a contract. It immediately asked its legal _____ to review all the documents.",
+    "options": [
+     "tip",
+     "counsel",
+     "hint",
+     "encouragement"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The machine is dangerous if used incorrectly. Please read each _____ in the manual before you turn it on.",
+    "options": [
+     "instruction",
+     "opinion",
+     "perspective",
+     "wisdom"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Our travel blog shares practical advice every week. This week's _____ explains how to pack a suitcase in ten minutes.",
+    "options": [
+     "directive",
+     "counsel",
+     "tip",
+     "warning"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The sign beside the wet floor was clear. Customers who ignored the _____ were lucky that nobody fell.",
+    "options": [
+     "encouragement",
+     "input",
+     "mentorship",
+     "warning"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The young team was nervous before the big presentation. The director's kind _____ gave them the confidence they needed.",
+    "options": [
+     "directive",
+     "warning",
+     "encouragement",
+     "instruction"
+    ],
+    "answer": 2,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The app asks users to rate each delivery. This _____ helps the company improve its service quickly.",
+    "options": [
+     "wisdom",
+     "directive",
+     "mentorship",
+     "feedback"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Before changing your diet, you should speak to a professional. Please _____ your doctor if you have any health concerns.",
+    "options": [
+     "urge",
+     "consult",
+     "advise",
+     "recommend"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The design firm charges nothing for the first meeting. Call today to book a free _____ with one of our experts.",
+    "options": [
+     "consultation",
+     "lesson",
+     "hint",
+     "wisdom"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The manager asked each team member what they thought of the plan. Everyone shared an honest _____ during the meeting.",
+    "options": [
+     "directive",
+     "instruction",
+     "coaching",
+     "opinion"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Our new engineer worked in Germany for ten years. She brings an international _____ to every project she joins.",
+    "options": [
+     "reminder",
+     "instruction",
+     "perspective",
+     "directive"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The orchestra played beautifully last night. It performed under the _____ of a famous conductor from Vienna.",
+    "options": [
+     "direction",
+     "hint",
+     "tip",
+     "feedback"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The new office layout affects every department. We would like your _____ before the final plan is approved.",
+    "options": [
+     "lesson",
+     "input",
+     "warning",
+     "wisdom"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Many guests ask where to eat near the hotel. The staff usually _____ the small noodle shop across the street.",
+    "options": [
+     "consult",
+     "urge",
+     "recommend",
+     "advise"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Traffic will be heavy during the festival this weekend. Police _____ drivers to use public transportation instead.",
+    "options": [
+     "urge",
+     "consult",
+     "ponder",
+     "explore"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The architects presented three designs to the city. The council chose the _____ with the lowest building costs.",
+    "options": [
+     "hint",
+     "encouragement",
+     "wisdom",
+     "proposal"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The customer could not remember her password. The website gave her a small _____ to help her recall it.",
+    "options": [
+     "proposal",
+     "hint",
+     "directive",
+     "consultation"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The company lost important files when the server crashed. The _____ it learned was to back up data every day.",
+    "options": [
+     "input",
+     "feedback",
+     "counsel",
+     "lesson"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The library sends an email three days before a book is due. This _____ helps readers avoid late fees.",
+    "options": [
+     "perspective",
+     "opinion",
+     "reminder",
+     "wisdom"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Our managers want to become better public speakers. The company has paid for six weeks of private _____ for them.",
+    "options": [
+     "coaching",
+     "directive",
+     "reminder",
+     "opinion"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Each graduate is paired with a senior employee for one year. The _____ helps young workers grow their careers.",
+    "options": [
+     "warning",
+     "mentorship",
+     "hint",
+     "directive"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The government issued new rules on food safety last month. All restaurants must follow the _____ by January.",
+    "options": [
+     "encouragement",
+     "perspective",
+     "directive",
+     "wisdom"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Honesty with customers has always been important to the firm. It remains the _____ principle behind every decision.",
+    "options": [
+     "guiding",
+     "advisory",
+     "unexpected",
+     "nervous"
+    ],
+    "answer": 0,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The panel of experts can suggest changes but cannot make laws. Its role is purely _____.",
+    "options": [
+     "guiding",
+     "nervous",
+     "careless",
+     "advisory"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The retired CEO still visits the office once a month. Younger managers value his _____ and long experience.",
+    "options": [
+     "reminder",
+     "wisdom",
+     "directive",
+     "hint"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Teachers return students' essays with comments in the margins. This written _____ shows students how to improve their writing.",
+    "options": [
+     "directive",
+     "proposal",
+     "wisdom",
+     "feedback"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Many travelers ask about visa rules at the counter. Our agents _____ them to apply at least one month early.",
+    "options": [
+     "advise",
+     "consult",
+     "depart",
+     "behave"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   }
+  ]
+ },
+ "9": {
+  "theme": "Age 年齡",
+  "source": "https://www.examword.com/group-topic/age",
+  "VOCAB": [
+   {
+    "word": "reality",
+    "pos": "n.",
+    "en_def": "the true situation, not what you hope or imagine",
+    "cn_def": "現實；真實情況",
+    "sentence": "A: When I was a student, I thought that working at a big company would be exciting every day, so how does it feel after five years? B: The {{BLANK}} is quite different, because most days are full of emails and meetings, but I've learned to enjoy the small successes and the friendly people around me.",
+    "cn": "A：我當學生時，以為在大公司工作每天都會很刺激，你工作五年後感覺如何？ B：【現實】很不一樣，因為大部分的日子都塞滿了電子郵件和會議，但我已經學會享受小小的成就和身邊友善的人們。",
+    "collocation": "face reality 面對現實"
+   },
+   {
+    "word": "quite",
+    "pos": "adv.",
+    "en_def": "fairly or very, but not extremely",
+    "cn_def": "相當；頗",
+    "sentence": "A: Your father retired from the bank last spring, so how is he spending his time now that he doesn't go to the office every day? B: He is {{BLANK}} busy, actually, because he volunteers at the library twice a week, takes cooking classes, and helps my sister look after her two young children.",
+    "cn": "A：你爸爸去年春天從銀行退休了，他現在不用每天進辦公室，都怎麼打發時間？ B：其實他【相當】忙，因為他每週去圖書館當兩次志工、上烹飪課，還幫我姊姊照顧她的兩個小孩。",
+    "collocation": "quite a long time 相當長的時間"
+   },
+   {
+    "word": "enjoy",
+    "pos": "v.",
+    "en_def": "to get pleasure from something",
+    "cn_def": "享受；喜愛",
+    "sentence": "A: Many of our older customers have stopped coming to the gym in the evenings, so do you know why they changed their routine? B: They told me they {{BLANK}} the morning yoga classes much more, because the gym is quieter, the music is softer, and they can have coffee together afterward.",
+    "cn": "A：我們很多年長的顧客晚上不再來健身房了，你知道他們為什麼改變作息嗎？ B：他們告訴我，他們更【喜歡】早上的瑜伽課，因為健身房比較安靜、音樂比較柔和，而且課後他們可以一起喝咖啡。",
+    "collocation": "enjoy retirement 享受退休生活"
+   },
+   {
+    "word": "relive",
+    "pos": "v.",
+    "en_def": "to remember something so clearly that you feel you are experiencing it again",
+    "cn_def": "重溫；再經歷",
+    "sentence": "A: Why did so many retired employees come to the company's fiftieth anniversary party last Saturday night? B: The organizers showed old photos and videos from the 1980s, so everyone had a chance to {{BLANK}} their younger days and meet colleagues they had not seen for many years.",
+    "cn": "A：為什麼上週六晚上有這麼多退休員工來參加公司五十週年派對？ B：主辦單位播放了1980年代的老照片和影片，所以大家都有機會【重溫】年輕時光，並見到許多年沒見的同事。",
+    "collocation": "relive happy memories 重溫快樂的回憶"
+   },
+   {
+    "word": "appear",
+    "pos": "v.",
+    "en_def": "to seem; to give a particular impression",
+    "cn_def": "顯得；看起來；似乎",
+    "sentence": "A: Did you know that Mr. Wilson, the new head of the design team, is already sixty-two years old? B: Really? He doesn't {{BLANK}} to be that old at all, maybe because he exercises every morning, rides his bike to work, and is always full of new ideas in meetings.",
+    "cn": "A：你知道設計團隊的新主管威爾森先生已經六十二歲了嗎？ B：真的嗎？他完全【看起來】不像那個年紀，可能是因為他每天早上運動、騎腳踏車上班，而且開會時總是充滿新點子。",
+    "collocation": "appear to be healthy 看起來很健康"
+   },
+   {
+    "word": "near",
+    "pos": "adj.",
+    "en_def": "close in time or distance",
+    "cn_def": "接近的；不久的",
+    "sentence": "A: Our team is getting older, and three senior engineers will retire within two years, so what is the company planning to do? B: In the {{BLANK}} future, the company will hire several young engineers and ask the senior staff to train them before they leave.",
+    "cn": "A：我們團隊的年紀越來越大，有三位資深工程師兩年內就要退休，公司打算怎麼做？ B：在【不久的】將來，公司會雇用幾位年輕工程師，並請資深員工在離職前訓練他們。",
+    "collocation": "in the near future 在不久的將來"
+   },
+   {
+    "word": "adulthood",
+    "pos": "n.",
+    "en_def": "the time of life when you are an adult",
+    "cn_def": "成年；成年期",
+    "sentence": "A: Why does the bank run free money-management workshops for university students every summer? B: Many young people enter {{BLANK}} without knowing how to save money, pay bills, or avoid debt, so the bank wants to teach them these skills before they start their first full-time jobs.",
+    "cn": "A：為什麼銀行每年夏天都為大學生舉辦免費的理財工作坊？ B：許多年輕人步入【成年】時還不知道如何存錢、繳帳單或避免負債，所以銀行想在他們開始第一份全職工作前教他們這些技能。",
+    "collocation": "early adulthood 成年初期"
+   },
+   {
+    "word": "experienced",
+    "pos": "adj.",
+    "en_def": "having knowledge or skill from doing something for a long time",
+    "cn_def": "有經驗的；經驗豐富的",
+    "sentence": "A: The client wants the new shopping center designed in only six months, so who should we put in charge of the project? B: We need an {{BLANK}} architect who has handled large projects before, because a tight schedule like this leaves no time for beginners to learn from their mistakes.",
+    "cn": "A：客戶希望新購物中心在短短六個月內設計完成，我們應該讓誰負責這個專案？ B：我們需要一位以前處理過大型專案、【經驗豐富的】建築師，因為這麼緊湊的時程，沒有時間讓新手從錯誤中學習。",
+    "collocation": "an experienced professional 經驗豐富的專業人士"
+   },
+   {
+    "word": "recognize",
+    "pos": "v.",
+    "en_def": "to know who someone is because you have seen them before",
+    "cn_def": "認出；認得",
+    "sentence": "A: Did you meet anyone interesting at the high school reunion dinner at the hotel last weekend? B: It was a bit funny, because after twenty-five years many of my classmates had gray hair, and I couldn't {{BLANK}} some of them until they told me their names.",
+    "cn": "A：上週末在飯店舉辦的高中同學會晚餐，你有遇到什麼有趣的人嗎？ B：有點好笑，因為過了二十五年，很多同學都有白頭髮了，有些人直到他們告訴我名字，我才【認出】他們來。",
+    "collocation": "recognize a familiar face 認出一張熟悉的面孔"
+   },
+   {
+    "word": "dynamic",
+    "pos": "adj.",
+    "en_def": "full of energy and new ideas",
+    "cn_def": "充滿活力的；有幹勁的",
+    "sentence": "A: Why do you think the new manager has become so popular with the staff in only three months? B: She is very {{BLANK}}, always full of energy and fresh ideas, and she encourages both younger and older employees to share their opinions in every meeting.",
+    "cn": "A：你認為新經理為什麼在短短三個月內就這麼受員工歡迎？ B：她非常【有活力】，總是充滿幹勁和新點子，而且她在每次會議上都鼓勵年輕和年長的員工分享意見。",
+    "collocation": "a dynamic team 充滿活力的團隊"
+   },
+   {
+    "word": "personality",
+    "pos": "n.",
+    "en_def": "the kind of person someone is, shown by the way they behave and feel",
+    "cn_def": "個性；性格",
+    "sentence": "A: Both candidates for the receptionist job have similar experience, so how will we choose the right person? B: I think we should choose the one with the warmer {{BLANK}}, because the receptionist is the first person every visitor meets, and a friendly attitude makes a strong first impression.",
+    "cn": "A：兩位應徵接待員工作的人經驗差不多，我們要怎麼選出合適的人？ B：我認為我們應該選【個性】比較溫暖的那一位，因為接待員是每位訪客見到的第一個人，友善的態度能留下深刻的第一印象。",
+    "collocation": "a strong personality 強烈的個性"
+   },
+   {
+    "word": "relaxed",
+    "pos": "adj.",
+    "en_def": "calm and not worried",
+    "cn_def": "放鬆的；輕鬆自在的",
+    "sentence": "A: You looked very tired and stressed last month, but you seem much happier now, so what changed? B: I started leaving work on time and walking in the park every evening, and now I feel much more {{BLANK}}, even when we have busy weeks with lots of deadlines.",
+    "cn": "A：你上個月看起來很疲倦、壓力很大，但現在似乎開心多了，有什麼改變嗎？ B：我開始準時下班，每天傍晚去公園散步，現在即使遇到截止期限很多的忙碌週，我也覺得【放鬆】多了。",
+    "collocation": "a relaxed atmosphere 輕鬆的氣氛"
+   },
+   {
+    "word": "predict",
+    "pos": "v.",
+    "en_def": "to say what will happen in the future",
+    "cn_def": "預測；預言",
+    "sentence": "A: Why is the company building so many new apartments for older people in the suburbs this year? B: Experts {{BLANK}} that the number of residents over sixty-five will grow quickly in the next ten years, so the company expects strong demand for safe, comfortable homes near hospitals and parks.",
+    "cn": "A：為什麼公司今年在郊區興建這麼多給年長者的新公寓？ B：專家【預測】未來十年六十五歲以上的居民人數會快速增加，所以公司預期靠近醫院和公園、安全又舒適的住宅會有強勁需求。",
+    "collocation": "predict future sales 預測未來的銷售量"
+   },
+   {
+    "word": "intriguing",
+    "pos": "adj.",
+    "en_def": "very interesting because it is unusual or mysterious",
+    "cn_def": "引人入勝的；耐人尋味的",
+    "sentence": "A: What did you think of the presentation about the island where many people live past one hundred years old? B: I found it very {{BLANK}}, especially the part about their simple diet and close family ties, and I'd like to read the full research report when it is published next month.",
+    "cn": "A：你覺得那場關於許多人活過一百歲的島嶼的簡報怎麼樣？ B：我覺得非常【引人入勝】，尤其是關於他們簡單飲食和緊密家庭關係的部分，等下個月完整的研究報告出版時，我想讀一讀。",
+    "collocation": "an intriguing question 耐人尋味的問題"
+   },
+   {
+    "word": "confident",
+    "pos": "adj.",
+    "en_def": "sure that you can do something well",
+    "cn_def": "有信心的；自信的",
+    "sentence": "A: How did your daughter feel about her first job interview at the travel agency yesterday afternoon? B: She felt quite {{BLANK}}, because she had practiced her answers with me several times, researched the company carefully, and prepared some good questions to ask the manager at the end.",
+    "cn": "A：你女兒對她昨天下午在旅行社的第一次工作面試感覺如何？ B：她覺得很有【自信】，因為她跟我練習了好幾次回答、仔細研究了公司，還準備了幾個好問題在最後問經理。",
+    "collocation": "feel confident about the future 對未來有信心"
+   },
+   {
+    "word": "vastly",
+    "pos": "adv.",
+    "en_def": "very much; to a very great degree",
+    "cn_def": "極大地；大大地",
+    "sentence": "A: Do you think the way young people shop today is similar to how your parents shopped thirty years ago? B: Not at all, it is {{BLANK}} different, because most young people now compare prices on their phones and buy online, while my parents always went to local stores and paid in cash.",
+    "cn": "A：你覺得現在年輕人購物的方式和你父母三十年前的方式相似嗎？ B：完全不同，是【大大地】不一樣，因為現在大部分年輕人都用手機比價並在網路上購買，而我父母總是去當地商店並用現金付款。",
+    "collocation": "vastly improved service 大幅改善的服務"
+   },
+   {
+    "word": "ponder",
+    "pos": "v.",
+    "en_def": "to think carefully about something for a long time",
+    "cn_def": "沉思；仔細考慮",
+    "sentence": "A: Is your uncle still planning to sell his restaurant and retire next year, or has he changed his mind? B: He is still trying to decide, so he will {{BLANK}} the offer from the buyer over the holiday, because the restaurant has been his whole life for over thirty years.",
+    "cn": "A：你叔叔還打算明年把餐廳賣掉然後退休嗎？還是他改變心意了？ B：他還在考慮，所以他會在假期期間【仔細思考】買家的出價，因為三十多年來，那間餐廳就是他的全部生活。",
+    "collocation": "ponder the question carefully 仔細思考這個問題"
+   },
+   {
+    "word": "mature",
+    "pos": "adj.",
+    "en_def": "behaving in a sensible way, like an adult",
+    "cn_def": "成熟的；穩重的",
+    "sentence": "A: The new intern is only twenty years old, so are you sure we should let her speak with our most important client? B: Yes, she is very {{BLANK}} for her age, because she listens carefully, stays calm under pressure, and always asks for help when she isn't sure about something.",
+    "cn": "A：新來的實習生才二十歲，你確定我們應該讓她和我們最重要的客戶談話嗎？ B：確定，以她的年紀來說她非常【成熟】，因為她會仔細聆聽、在壓力下保持冷靜，而且不確定的時候總會尋求協助。",
+    "collocation": "a mature attitude 成熟的態度"
+   },
+   {
+    "word": "independent",
+    "pos": "adj.",
+    "en_def": "able to live or work without help from others",
+    "cn_def": "獨立的；自主的",
+    "sentence": "A: Why did your grandmother decide to stay in her own apartment instead of moving in with your family? B: She wants to stay {{BLANK}} as long as possible, so she cooks for herself, takes the bus to the market, and only asks us for help with heavy cleaning once a month.",
+    "cn": "A：你奶奶為什麼決定住在自己的公寓，而不搬去和你們家同住？ B：她想盡可能保持【獨立】，所以她自己煮飯、搭公車去市場，只有每個月一次的大掃除才會請我們幫忙。",
+    "collocation": "become financially independent 經濟獨立"
+   },
+   {
+    "word": "insecure",
+    "pos": "adj.",
+    "en_def": "not confident about yourself or your abilities",
+    "cn_def": "沒有安全感的；缺乏自信的",
+    "sentence": "A: Why does Tom always stay quiet in meetings, even when he clearly knows the answer to the manager's questions? B: He feels {{BLANK}} because he is the youngest person on the team, so he worries that the older engineers will laugh at his ideas or think they are too simple.",
+    "cn": "A：為什麼湯姆開會時總是保持沉默，即使他顯然知道經理問題的答案？ B：他覺得【沒有自信】，因為他是團隊裡最年輕的人，所以擔心年長的工程師會嘲笑他的想法，或覺得太簡單。",
+    "collocation": "feel insecure about one's job 對工作感到不安"
+   },
+   {
+    "word": "embrace",
+    "pos": "v.",
+    "en_def": "to accept new ideas, changes, or opportunities with enthusiasm",
+    "cn_def": "欣然接受；擁抱",
+    "sentence": "A: Were the older staff members unhappy when the company replaced all the paper forms with a new computer system? B: Surprisingly, most of them were happy to {{BLANK}} the change, because the training was clear and patient, and the new system saves them about an hour of work every day.",
+    "cn": "A：公司用新的電腦系統取代所有紙本表格時，年長的員工不高興嗎？ B：令人驚訝的是，他們大多數人都樂於【接受】這項改變，因為訓練清楚又有耐心，而且新系統每天幫他們省下大約一個小時的工作。",
+    "collocation": "embrace new technology 擁抱新科技"
+   },
+   {
+    "word": "ageless",
+    "pos": "adj.",
+    "en_def": "never seeming to grow old; not affected by time",
+    "cn_def": "永不顯老的；永恆的",
+    "sentence": "A: Why did the fashion company choose a famous sixty-year-old actress for its new advertising campaign this autumn? B: The company wanted to show that style is {{BLANK}}, and its research found that many older women feel ignored by advertisements that only use very young models.",
+    "cn": "A：為什麼這家時尚公司今年秋天的新廣告活動選了一位六十歲的知名女演員？ B：公司想表達時尚是【不受年齡限制的】，而且它的研究發現，許多年長女性覺得只用年輕模特兒的廣告忽略了她們。",
+    "collocation": "ageless beauty 永不褪色的美"
+   },
+   {
+    "word": "mindset",
+    "pos": "n.",
+    "en_def": "a way of thinking or set of attitudes",
+    "cn_def": "心態；思維模式",
+    "sentence": "A: How has your sixty-five-year-old father managed to learn computer programming so quickly after he retired? B: He has a great {{BLANK}}, because he believes people can learn new skills at any age, so he practices every day and isn't afraid of making mistakes.",
+    "cn": "A：你六十五歲的父親退休後，是怎麼這麼快學會電腦程式設計的？ B：他有很棒的【心態】，因為他相信人在任何年紀都能學習新技能，所以他每天練習，而且不怕犯錯。",
+    "collocation": "a positive mindset 正面的心態"
+   },
+   {
+    "word": "re-energize",
+    "pos": "v.",
+    "en_def": "to give someone new energy and enthusiasm",
+    "cn_def": "使恢復活力；重新振作",
+    "sentence": "A: Our sales team seems tired and bored after such a long and difficult year, so what can we do to help them? B: A short trip to the beach for team activities might {{BLANK}} everyone, and the managers could also announce some exciting new goals and rewards for next year.",
+    "cn": "A：經過這麼漫長又艱難的一年，我們的業務團隊似乎又累又無精打采，我們能做些什麼來幫助他們？ B：去海邊進行短程的團隊活動或許能讓大家【重新振作】，主管們也可以宣布一些令人振奮的明年新目標和獎勵。",
+    "collocation": "re-energize the team 讓團隊重新充滿活力"
+   },
+   {
+    "word": "vibrant",
+    "pos": "adj.",
+    "en_def": "full of life, energy, and color",
+    "cn_def": "充滿活力的；鮮明的",
+    "sentence": "A: Why did the company choose this neighborhood for its new office, when the rent is higher than in other parts of the city? B: The area is very {{BLANK}}, with busy cafés, art galleries, and street markets, and the managers believe young employees will enjoy working in such a lively place.",
+    "cn": "A：為什麼公司把新辦公室選在這個社區？這裡的租金比城裡其他地方都高。 B：這個地區非常【有活力】，有熱鬧的咖啡館、藝廊和街頭市集，主管們相信年輕員工會喜歡在這麼熱鬧的地方工作。",
+    "collocation": "a vibrant city 充滿活力的城市"
+   },
+   {
+    "word": "inevitable",
+    "pos": "adj.",
+    "en_def": "certain to happen and impossible to avoid",
+    "cn_def": "不可避免的；必然的",
+    "sentence": "A: Do you think our company will need to raise the price of our products next year because of higher costs? B: I'm afraid it's {{BLANK}}, because the price of raw materials and shipping has gone up by twenty percent, and we cannot keep paying for the difference ourselves.",
+    "cn": "A：你認為我們公司明年會因為成本上升而需要調漲產品價格嗎？ B：恐怕這是【不可避免的】，因為原物料和運費已經上漲了百分之二十，我們沒辦法一直自己吸收差額。",
+    "collocation": "an inevitable result 必然的結果"
+   },
+   {
+    "word": "priority",
+    "pos": "n.",
+    "en_def": "something that is more important than other things and must be done first",
+    "cn_def": "優先事項；優先考慮",
+    "sentence": "A: Now that your children are in elementary school, have you thought about going back to full-time work at the hospital? B: Yes, but my main {{BLANK}} is still my family, so I'm looking for a part-time job that lets me finish work before the children come home in the afternoon.",
+    "cn": "A：既然你的孩子都上小學了，你有考慮回醫院做全職工作嗎？ B：有，但我的首要【優先事項】仍然是家庭，所以我在找一份兼職工作，讓我能在孩子下午回家前下班。",
+    "collocation": "a top priority 首要之務"
+   },
+   {
+    "word": "behave",
+    "pos": "v.",
+    "en_def": "to act or do things in a particular way",
+    "cn_def": "表現；舉止",
+    "sentence": "A: Why are we giving the new store staff a full day of customer service training before the shop opens next week? B: We want them to know how to {{BLANK}} politely with all customers, including elderly people who may need extra time and patience when they pay or ask questions.",
+    "cn": "A：為什麼要在下週新店開幕前，給新店員一整天的顧客服務訓練？ B：我們希望他們知道如何對所有顧客禮貌地【應對】，包括在付款或詢問時可能需要更多時間和耐心的長者。",
+    "collocation": "behave professionally 舉止專業"
+   },
+   {
+    "word": "physically",
+    "pos": "adv.",
+    "en_def": "in a way related to the body",
+    "cn_def": "身體上；體力上",
+    "sentence": "A: Your father is eighty years old, but he still works in his garden every morning, so how does he stay so healthy? B: He stays {{BLANK}} active by walking for an hour every day, lifting light weights, and doing simple stretching exercises, and he also eats lots of fresh vegetables from his garden.",
+    "cn": "A：你父親八十歲了，但每天早上還在花園裡工作，他是怎麼保持這麼健康的？ B：他每天走路一小時、舉輕量啞鈴、做簡單的伸展運動來保持【身體】活躍，還吃很多自家花園種的新鮮蔬菜。",
+    "collocation": "physically fit 身體健康"
+   },
+   {
+    "word": "mentally",
+    "pos": "adv.",
+    "en_def": "in a way related to the mind",
+    "cn_def": "心理上；精神上；智力上",
+    "sentence": "A: How does your grandmother keep her memory so sharp, even though she is now over ninety years old? B: She stays {{BLANK}} active by doing crossword puzzles every morning, reading the newspaper, and playing card games with her friends at the community center three afternoons a week.",
+    "cn": "A：你奶奶已經九十多歲了，她是怎麼讓記憶力保持這麼好的？ B：她每天早上玩填字遊戲、看報紙，每週有三個下午在社區中心和朋友玩紙牌，藉此保持【頭腦】活躍。",
+    "collocation": "mentally prepared 做好心理準備"
+   },
+   {
+    "word": "obsessed",
+    "pos": "adj.",
+    "en_def": "thinking about something or someone all the time in a way that is not normal",
+    "cn_def": "著迷的；執著的",
+    "sentence": "A: Why does our sales manager check the sales numbers on his phone every ten minutes, even during lunch? B: He is {{BLANK}} with reaching the yearly target before December, but I think he should relax a little, because the team is already doing better than last year.",
+    "cn": "A：為什麼我們的業務經理連吃午餐時都每十分鐘就用手機查一次業績數字？ B：他對在十二月前達成年度目標很【執著】，但我覺得他應該稍微放鬆一點，因為團隊的表現已經比去年好了。",
+    "collocation": "be obsessed with details 執著於細節"
+   },
+   {
+    "word": "relevant",
+    "pos": "adj.",
+    "en_def": "connected with what is being discussed or done",
+    "cn_def": "相關的；切題的",
+    "sentence": "A: Should I include my summer job at the ice cream shop on my résumé when I apply for the marketing position? B: Only if it is {{BLANK}} to the job, so you could mention that you designed the shop's social media posts, because that shows you already have some marketing experience.",
+    "cn": "A：我應徵行銷職位時，應該在履歷上寫我暑假在冰淇淋店打工的經歷嗎？ B：只有在和這份工作【相關】時才寫，所以你可以提到你設計過店裡的社群媒體貼文，因為那顯示你已經有一些行銷經驗。",
+    "collocation": "relevant work experience 相關工作經驗"
+   },
+   {
+    "word": "inclination",
+    "pos": "n.",
+    "en_def": "a feeling that makes you want to do something",
+    "cn_def": "傾向；意願；愛好",
+    "sentence": "A: Your father has worked as a lawyer for forty years, so does he plan to keep working, or will he retire soon? B: He has no {{BLANK}} to stop working yet, because he still loves helping his clients, and he says that a busy schedule keeps him young and healthy.",
+    "cn": "A：你父親當了四十年律師，他打算繼續工作，還是很快就會退休？ B：他目前還沒有停止工作的【意願】，因為他仍然很喜歡幫助客戶，而且他說忙碌的行程讓他保持年輕和健康。",
+    "collocation": "have no inclination to leave 沒有離開的意願"
+   },
+   {
+    "word": "interact",
+    "pos": "v.",
+    "en_def": "to communicate with and spend time with other people",
+    "cn_def": "互動；交流",
+    "sentence": "A: Why did the nursing home start inviting students from the nearby high school to visit every Friday afternoon? B: The staff want the elderly residents to {{BLANK}} with young people more often, because talking, playing games, and sharing stories helps everyone feel happier and less lonely.",
+    "cn": "A：為什麼安養院開始邀請附近高中的學生每週五下午來拜訪？ B：工作人員希望長者住民能更常和年輕人【互動】，因為聊天、玩遊戲和分享故事能讓每個人更快樂、更不孤單。",
+    "collocation": "interact with customers 和顧客互動"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The hotel looked beautiful in the online photos. In _____, the rooms were small, old, and very noisy.",
+    "options": [
+     "reality",
+     "priority",
+     "inclination",
+     "mindset"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The new staff lounge has comfortable sofas and free coffee. Employees _____ spending their lunch break there.",
+    "options": [
+     "behave",
+     "predict",
+     "enjoy",
+     "interact"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The two job candidates have similar résumés. However, the first one does not _____ to have any management experience.",
+    "options": [
+     "recognize",
+     "appear",
+     "embrace",
+     "ponder"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The program helps teenagers who are leaving foster care. It prepares them for _____ by teaching them to cook and manage money.",
+    "options": [
+     "reality",
+     "mindset",
+     "inclination",
+     "adulthood"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "This position requires at least ten years in the industry. Only _____ managers with strong leadership skills should apply.",
+    "options": [
+     "insecure",
+     "experienced",
+     "intriguing",
+     "obsessed"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The famous singer wore sunglasses and a hat at the airport. Few travelers were able to _____ her.",
+    "options": [
+     "recognize",
+     "predict",
+     "embrace",
+     "behave"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The company is looking for an energetic sales leader. The ideal candidate is _____ and enjoys working in a fast-moving team.",
+    "options": [
+     "inevitable",
+     "insecure",
+     "dynamic",
+     "relevant"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The receptionist is warm and cheerful with everyone. Her friendly _____ makes every visitor feel welcome right away.",
+    "options": [
+     "adulthood",
+     "reality",
+     "priority",
+     "personality"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The resort has no televisions and no phone signal. Guests usually feel calm and _____ by the second day.",
+    "options": [
+     "obsessed",
+     "relaxed",
+     "inevitable",
+     "experienced"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Economists study past sales and current prices. They _____ that home prices will rise by five percent next year.",
+    "options": [
+     "recognize",
+     "behave",
+     "interact",
+     "predict"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The documentary looks at a village where people rarely get sick. Viewers found its findings _____ and surprising.",
+    "options": [
+     "insecure",
+     "relaxed",
+     "intriguing",
+     "obsessed"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Linda Chen has prepared for the presentation for two weeks. She feels _____ that the clients will accept her plan.",
+    "options": [
+     "confident",
+     "inevitable",
+     "intriguing",
+     "dynamic"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The new software works much faster than the old version. Customers say it is _____ better than any competing product.",
+    "options": [
+     "physically",
+     "mentally",
+     "freely",
+     "vastly"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The job offer from London is very attractive. However, Daniel Park needs more time to _____ whether to move his family.",
+    "options": [
+     "recognize",
+     "ponder",
+     "interact",
+     "enjoy"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The manager trusts the young assistant with important tasks. He is _____ and responsible for someone his age.",
+    "options": [
+     "mature",
+     "intriguing",
+     "inevitable",
+     "vibrant"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The research company does not receive money from any government. Its reports are fully _____ and fair.",
+    "options": [
+     "insecure",
+     "obsessed",
+     "independent",
+     "relaxed"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Some new employees worry that they are not good enough. Managers should support workers who feel _____ in their roles.",
+    "options": [
+     "dynamic",
+     "insecure",
+     "vibrant",
+     "experienced"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Online shopping has changed the retail industry. Stores that _____ new technology are more likely to succeed.",
+    "options": [
+     "behave",
+     "predict",
+     "embrace",
+     "recognize"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The workshop teaches employees to see problems as chances to learn. A positive _____ helps teams work better together.",
+    "options": [
+     "adulthood",
+     "reality",
+     "personality",
+     "mindset"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Sales have been slow for several months. The director hopes the new bonus plan will _____ the whole team.",
+    "options": [
+     "re-energize",
+     "ponder",
+     "recognize",
+     "predict"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The new shopping street is full of colorful shops and music. It has become a _____ place for young people.",
+    "options": [
+     "insecure",
+     "inevitable",
+     "experienced",
+     "vibrant"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Fuel prices have doubled since last year. A small increase in ticket prices is therefore _____.",
+    "options": [
+     "confident",
+     "inevitable",
+     "mature",
+     "dynamic"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Customer safety comes before everything else. It is the top _____ for every employee in our factory.",
+    "options": [
+     "priority",
+     "adulthood",
+     "inclination",
+     "reality"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The training explains the company's rules for client meetings. All employees must _____ politely and professionally.",
+    "options": [
+     "predict",
+     "ponder",
+     "behave",
+     "recognize"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The warehouse job involves lifting heavy boxes all day. Applicants must be _____ strong and healthy.",
+    "options": [
+     "vastly",
+     "physically",
+     "freely",
+     "boldly"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Final exams can be very stressful for students. Good sleep helps them stay _____ sharp during the test.",
+    "options": [
+     "vastly",
+     "freely",
+     "mentally",
+     "boldly"
+    ],
+    "answer": 2,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The chef checks every plate before it leaves the kitchen. He is _____ with making every dish perfect.",
+    "options": [
+     "relevant",
+     "dynamic",
+     "mature",
+     "obsessed"
+    ],
+    "answer": 3,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Please keep your answers short during the interview. Only include information that is _____ to the position.",
+    "options": [
+     "relevant",
+     "obsessed",
+     "insecure",
+     "relaxed"
+    ],
+    "answer": 0,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The founder has received many offers for his company. However, he has no _____ to sell it.",
+    "options": [
+     "reality",
+     "inclination",
+     "personality",
+     "adulthood"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The new app lets students chat with teachers after class. It helps them _____ more often outside the classroom.",
+    "options": [
+     "interact",
+     "ponder",
+     "predict",
+     "recognize"
+    ],
+    "answer": 0,
+    "vocabIndex": 33
+   }
+  ]
+ },
+ "10": {
+  "theme": "Airport 機場",
+  "source": "https://www.examword.com/group-topic/airport",
+  "VOCAB": [
+   {
+    "word": "terminal",
+    "pos": "n.",
+    "en_def": "a large building at an airport where passengers arrive and leave",
+    "cn_def": "航廈；航站",
+    "sentence": "A: I'm picking up our clients from Seoul at the airport tomorrow afternoon, but I'm not sure where I should wait for them. B: Their airline uses {{BLANK}} 2, so wait near the arrivals hall on the first floor, and send them a message so they know where to find you after they collect their bags.",
+    "cn": "A：我明天下午要去機場接首爾來的客戶，但不確定該在哪裡等他們。 B：他們的航空公司使用第二【航廈】，所以在一樓入境大廳附近等，並傳訊息給他們，讓他們領完行李後知道去哪裡找你。",
+    "collocation": "the international terminal 國際航廈"
+   },
+   {
+    "word": "runway",
+    "pos": "n.",
+    "en_def": "a long, flat road where airplanes take off and land",
+    "cn_def": "跑道",
+    "sentence": "A: Why has our plane been waiting on the ground for forty minutes when it was supposed to leave at nine o'clock? B: The captain just announced that workers are clearing snow from the {{BLANK}}, and he thinks we will be able to take off in about fifteen minutes once they have finished.",
+    "cn": "A：為什麼我們的飛機已經在地面等了四十分鐘？它原本應該九點起飛的。 B：機長剛剛廣播說，工作人員正在清除【跑道】上的積雪，他認為等他們清完，我們大約十五分鐘後就能起飛。",
+    "collocation": "land safely on the runway 安全降落在跑道上"
+   },
+   {
+    "word": "gate",
+    "pos": "n.",
+    "en_def": "the place in an airport where passengers get on a plane",
+    "cn_def": "登機門",
+    "sentence": "A: Excuse me, my flight to Bangkok leaves in thirty minutes, but the screen doesn't show where I should go to get on the plane. B: Your flight has just been moved to {{BLANK}} 15 because of a technical problem, so please walk quickly to the end of this hall and turn left.",
+    "cn": "A：不好意思，我飛往曼谷的班機三十分鐘後起飛，但螢幕沒有顯示我該去哪裡登機。 B：因為技術問題，您的班機剛剛改到15號【登機門】，所以請快步走到這個大廳的盡頭再左轉。",
+    "collocation": "a gate change 登機門更改"
+   },
+   {
+    "word": "check-in",
+    "pos": "n.",
+    "en_def": "the place or process where you show your ticket and give your bags before a flight",
+    "cn_def": "報到；登機手續；報到櫃台",
+    "sentence": "A: Our flight to Tokyo leaves at seven in the morning, so what time do you think we should leave the hotel? B: Let's leave at four thirty, because the {{BLANK}} counter closes one hour before departure, and there are often long lines of tour groups at the airport early in the morning.",
+    "cn": "A：我們飛往東京的班機早上七點起飛，你覺得我們應該幾點離開飯店？ B：我們四點半出發吧，因為【報到】櫃台在起飛前一小時就關閉了，而且清晨的機場常常有旅行團排長長的隊伍。",
+    "collocation": "online check-in 線上報到"
+   },
+   {
+    "word": "security",
+    "pos": "n.",
+    "en_def": "the area at an airport where bags and passengers are checked for dangerous items",
+    "cn_def": "安檢；安全檢查處；安全",
+    "sentence": "A: Why did it take you so long to get to the gate, when you arrived at the airport two hours before the flight? B: The line at {{BLANK}} was huge, and then the officers opened my bag because I forgot to take my laptop out and put it in a separate tray.",
+    "cn": "A：你在班機起飛前兩小時就到機場了，為什麼花了這麼久才到登機門？ B：【安檢】的隊伍超長，然後安檢人員打開了我的包包，因為我忘了把筆電拿出來放在另一個托盤裡。",
+    "collocation": "go through security 通過安檢"
+   },
+   {
+    "word": "customs",
+    "pos": "n.",
+    "en_def": "the place at an airport where officers check what you bring into a country",
+    "cn_def": "海關",
+    "sentence": "A: I bought some expensive watches during my business trip to Switzerland, so do I need to do anything special when I land? B: Yes, you need to go to the red line at {{BLANK}} and tell the officers what you bought, because you may have to pay tax on goods over a certain value.",
+    "cn": "A：我在瑞士出差時買了幾支昂貴的手錶，降落時需要做什麼特別的事嗎？ B：需要，你必須到【海關】的紅線通道向關員申報你買的東西，因為超過一定金額的物品可能要繳稅。",
+    "collocation": "clear customs 通過海關"
+   },
+   {
+    "word": "immigration",
+    "pos": "n.",
+    "en_def": "the place at an airport where officers check passports and visas",
+    "cn_def": "入境檢查；移民局",
+    "sentence": "A: How long will it take us to leave the airport after we land in New York on Monday evening? B: It could take an hour or more, because the lines at {{BLANK}} are usually very long in the evening, and the officers ask every visitor several questions before stamping their passports.",
+    "cn": "A：我們週一晚上在紐約降落後，要花多久時間才能離開機場？ B：可能要一個小時以上，因為晚上【入境審查】的隊伍通常很長，而且官員在護照蓋章前會問每位訪客好幾個問題。",
+    "collocation": "pass through immigration 通過入境審查"
+   },
+   {
+    "word": "baggage",
+    "pos": "n.",
+    "en_def": "the bags and suitcases you take with you when you travel",
+    "cn_def": "行李",
+    "sentence": "A: I'm flying to Singapore for a two-week training course, and I need to bring a lot of documents and clothes. B: Check the airline's website before you pack, because your ticket only includes twenty kilograms of {{BLANK}}, and the fee for extra weight at the airport is very expensive.",
+    "cn": "A：我要飛去新加坡參加兩週的培訓課程，需要帶很多文件和衣服。 B：打包前先查一下航空公司的網站，因為你的機票只含二十公斤的【行李】，在機場付超重費非常貴。",
+    "collocation": "baggage allowance 行李限額"
+   },
+   {
+    "word": "luggage",
+    "pos": "n.",
+    "en_def": "suitcases and bags used for carrying things when traveling",
+    "cn_def": "行李",
+    "sentence": "A: Do you know where I can leave my bags for a few hours, because my hotel room won't be ready until three o'clock this afternoon? B: There is a {{BLANK}} storage office on the ground floor of the train station, and it only costs about five dollars for each bag per day.",
+    "cn": "A：你知道我可以把包包寄放在哪裡幾個小時嗎？因為我的飯店房間要到下午三點才準備好。 B：火車站一樓有一個【行李】寄放處，每件每天大約只要五美元。",
+    "collocation": "lost luggage 遺失的行李"
+   },
+   {
+    "word": "carousel",
+    "pos": "n.",
+    "en_def": "a moving belt at an airport from which passengers collect their bags",
+    "cn_def": "行李轉盤",
+    "sentence": "A: We've been waiting for our suitcases for nearly thirty minutes, so are you sure we're standing in the right place? B: The screen says that bags from our flight will come out on {{BLANK}} 4, but there was a problem with the machine, so the airport staff are fixing it now.",
+    "cn": "A：我們已經等行李將近三十分鐘了，你確定我們站對地方了嗎？ B：螢幕顯示我們班機的行李會從4號【行李轉盤】出來，但機器出了問題，所以機場人員正在修理。",
+    "collocation": "the baggage carousel 行李轉盤"
+   },
+   {
+    "word": "boarding",
+    "pos": "n.",
+    "en_def": "the act of getting on a plane, ship, or train",
+    "cn_def": "登機；上船；上車",
+    "sentence": "A: I still need to buy a gift for my client at the duty-free shop, so do I have enough time before our flight? B: You'll have to hurry, because {{BLANK}} starts in fifteen minutes, and passengers with small children and business class tickets will get on the plane first.",
+    "cn": "A：我還需要在免稅店買份禮物給客戶，我們班機起飛前我時間夠嗎？ B：你得快一點，因為十五分鐘後就開始【登機】了，帶小孩的乘客和商務艙旅客會先上飛機。",
+    "collocation": "boarding time 登機時間"
+   },
+   {
+    "word": "departure",
+    "pos": "n.",
+    "en_def": "the act of leaving a place, especially at the start of a journey",
+    "cn_def": "出發；離開；起飛",
+    "sentence": "A: Our flight to Hong Kong was supposed to leave at eleven, but it's already eleven thirty, so what's happening? B: The airline just sent a text saying that the {{BLANK}} has been moved to twelve fifteen because the plane arrived late from Manila after bad weather this morning.",
+    "cn": "A：我們飛往香港的班機原定十一點起飛，但現在已經十一點半了，怎麼回事？ B：航空公司剛剛傳簡訊說，因為飛機今天早上遇到壞天氣從馬尼拉晚到，【起飛】時間改到十二點十五分。",
+    "collocation": "the departure lounge 候機室"
+   },
+   {
+    "word": "arrival",
+    "pos": "n.",
+    "en_def": "the act of reaching a place",
+    "cn_def": "抵達；到達",
+    "sentence": "A: When should the hotel driver go to the airport to pick up our guest speaker from London? B: Her {{BLANK}} is planned for six forty in the evening, but the driver should check the flight information online before he leaves, because flights from Europe are sometimes early or late.",
+    "cn": "A：飯店司機應該什麼時候去機場接從倫敦來的演講嘉賓？ B：她預計晚上六點四十分【抵達】，但司機出發前應該先上網查航班資訊，因為來自歐洲的班機有時會提早或延誤。",
+    "collocation": "the arrival hall 入境大廳"
+   },
+   {
+    "word": "delay",
+    "pos": "n.",
+    "en_def": "a time when someone or something has to wait or is late",
+    "cn_def": "延誤；耽擱",
+    "sentence": "A: Why didn't Mr. Lopez join the morning meeting at our office in Taipei as he had planned? B: His flight had a four-hour {{BLANK}} because of a typhoon near Hong Kong, so he landed after lunch and joined the afternoon session by video call from the airport.",
+    "cn": "A：為什麼羅培茲先生沒有如原本計畫參加我們台北辦公室的早上會議？ B：他的班機因為香港附近的颱風【延誤】了四個小時，所以他午餐後才降落，並在機場用視訊參加了下午的會議。",
+    "collocation": "a long delay 長時間延誤"
+   },
+   {
+    "word": "cancellation",
+    "pos": "n.",
+    "en_def": "a decision that something planned will not happen",
+    "cn_def": "取消",
+    "sentence": "A: The airline just told us that our flight to Osaka won't leave tonight because of the snowstorm, so what should we do? B: Go to the service desk right away, because after a {{BLANK}} like this, the airline must offer you a seat on the next flight and a free hotel room.",
+    "cn": "A：航空公司剛告訴我們，因為暴風雪，我們飛往大阪的班機今晚不會起飛，我們該怎麼辦？ B：馬上去服務櫃台，因為發生像這樣的【取消】後，航空公司必須提供你下一班飛機的座位和免費的飯店房間。",
+    "collocation": "flight cancellation 航班取消"
+   },
+   {
+    "word": "passport",
+    "pos": "n.",
+    "en_def": "an official document that shows who you are and allows you to travel to other countries",
+    "cn_def": "護照",
+    "sentence": "A: The company wants me to attend a trade fair in Germany next month, but I haven't traveled abroad for over ten years. B: Then check your {{BLANK}} today, because it may have expired, and getting a new one can take two or three weeks during the busy summer season.",
+    "cn": "A：公司要我下個月去德國參加商展，但我已經十多年沒出國了。 B：那你今天就檢查一下你的【護照】，因為它可能已經過期了，而在忙碌的夏季，申請新的可能要兩、三個星期。",
+    "collocation": "renew a passport 更新護照"
+   },
+   {
+    "word": "visa",
+    "pos": "n.",
+    "en_def": "an official document or stamp that allows you to enter or stay in a country",
+    "cn_def": "簽證",
+    "sentence": "A: Our new engineer from India is starting work at the Taipei office in March, so has everything been prepared for him? B: Almost everything, but he is still waiting for his work {{BLANK}}, and the human resources department says it should be ready about two weeks before he flies here.",
+    "cn": "A：我們從印度來的新工程師三月要在台北辦公室上班，所有事情都替他準備好了嗎？ B：幾乎都好了，但他還在等工作【簽證】，人資部說大約在他飛來前兩週就會辦好。",
+    "collocation": "apply for a visa 申請簽證"
+   },
+   {
+    "word": "ticket",
+    "pos": "n.",
+    "en_def": "a piece of paper or electronic document that shows you have paid to travel",
+    "cn_def": "票；機票",
+    "sentence": "A: I need to fly to Kaohsiung for a client meeting next Thursday, so should I book the flight myself or ask someone else to do it? B: Please ask the travel coordinator to buy your {{BLANK}}, because the company gets a special discount, and she also keeps all the receipts for the accounting department.",
+    "cn": "A：我下週四要飛去高雄和客戶開會，我應該自己訂機票，還是請別人幫忙？ B：請差旅專員幫你買【機票】，因為公司有特別折扣，而且她也會為會計部保留所有收據。",
+    "collocation": "a round-trip ticket 來回票"
+   },
+   {
+    "word": "boarding pass",
+    "pos": "n.phr.",
+    "en_def": "a card or electronic document that allows you to get on a plane",
+    "cn_def": "登機證",
+    "sentence": "A: The airline staff at the gate won't let me get on the plane, but I already showed them my passport. B: You also need to show your {{BLANK}}, so open the airline app on your phone, find your trip, and show them the code with your seat number on it.",
+    "cn": "A：登機門的航空公司人員不讓我上飛機，但我已經給他們看過護照了。 B：你還需要出示你的【登機證】，所以打開手機上的航空公司應用程式，找到你的行程，給他們看有座位號碼的條碼。",
+    "collocation": "print a boarding pass 列印登機證"
+   },
+   {
+    "word": "aisle",
+    "pos": "n.",
+    "en_def": "a long narrow space between rows of seats on a plane",
+    "cn_def": "走道",
+    "sentence": "A: Would you like me to book a window seat for your long flight to Los Angeles next week? B: No, please get me a seat on the {{BLANK}}, because I usually drink lots of water on long trips and need to stand up and walk around without asking the other passengers to move.",
+    "cn": "A：下週你飛洛杉磯的長途航班，要我幫你訂靠窗的座位嗎？ B：不用，請幫我訂靠【走道】的座位，因為我長途旅行時通常會喝很多水，需要站起來走動，不想一直請其他乘客讓開。",
+    "collocation": "an aisle seat 靠走道的座位"
+   },
+   {
+    "word": "overhead",
+    "pos": "adj.",
+    "en_def": "above your head",
+    "cn_def": "頭頂上的；上方的",
+    "sentence": "A: Where should I put my laptop bag and coat after I find my seat on the plane? B: You can put the coat in the {{BLANK}} bin, but keep the laptop bag under the seat in front of you, because the flight attendants want the space above the seats for larger suitcases.",
+    "cn": "A：我在飛機上找到座位後，筆電包和外套應該放在哪裡？ B：外套可以放在【頭頂上方的】置物櫃，但筆電包要放在前方座位底下，因為空服員希望座位上方的空間留給較大的行李箱。",
+    "collocation": "an overhead compartment 頭頂置物櫃"
+   },
+   {
+    "word": "carry-on",
+    "pos": "n.",
+    "en_def": "a small bag that you are allowed to take onto a plane with you",
+    "cn_def": "隨身行李",
+    "sentence": "A: Can I bring my large camera bag onto the plane, or do I need to check it at the counter with my suitcase? B: Each passenger can take one {{BLANK}} that weighs less than seven kilograms, so you can bring the camera bag if it is light enough to fit those airline rules.",
+    "cn": "A：我可以把大相機包帶上飛機嗎？還是需要和行李箱一起在櫃台託運？ B：每位乘客可以攜帶一件七公斤以下的【隨身行李】，所以如果相機包夠輕、符合航空公司的規定，你就可以帶上去。",
+    "collocation": "a carry-on bag 隨身行李包"
+   },
+   {
+    "word": "jet lag",
+    "pos": "n.phr.",
+    "en_def": "a tired feeling after a long flight across different time zones",
+    "cn_def": "時差；時差反應",
+    "sentence": "A: You flew back from New York only yesterday, so how are you feeling this morning, and are you ready for the meeting? B: I'm suffering from {{BLANK}}, because I woke up at three in the morning and couldn't sleep again, so I'll need lots of coffee to stay awake during the meeting.",
+    "cn": "A：你昨天才從紐約飛回來，今天早上感覺怎麼樣？準備好開會了嗎？ B：我有【時差】，因為我凌晨三點就醒了，再也睡不著，所以開會時我需要很多咖啡才能保持清醒。",
+    "collocation": "recover from jet lag 從時差中恢復"
+   },
+   {
+    "word": "announcement",
+    "pos": "n.",
+    "en_def": "a public statement giving people information",
+    "cn_def": "宣布；廣播；公告",
+    "sentence": "A: Did you hear what the voice just said through the speakers in the waiting area? It was too noisy for me. B: It was an {{BLANK}} that our flight to Hanoi is ready for boarding, and passengers sitting in rows thirty to forty-five should go to the gate first.",
+    "cn": "A：你有聽到剛才候機區喇叭說了什麼嗎？太吵了我沒聽清楚。 B：那是一則【廣播】，說我們飛往河內的班機準備登機了，坐在第三十到四十五排的乘客要先到登機門。",
+    "collocation": "make an announcement 發布公告"
+   },
+   {
+    "word": "queue",
+    "pos": "n.",
+    "en_def": "a line of people waiting for something",
+    "cn_def": "隊伍；行列",
+    "sentence": "A: Why are so many passengers standing near the information desk, and why does everyone look so angry? B: There is a long {{BLANK}} of travelers waiting to change their tickets, because three flights were canceled this morning due to fog, and only two staff members are working at the desk.",
+    "cn": "A：為什麼這麼多乘客站在服務台附近，而且大家看起來都那麼生氣？ B：有一長串旅客在【排隊】等著換票，因為今天早上有三個航班因大霧取消，而服務台只有兩名工作人員。",
+    "collocation": "stand in a long queue 排長長的隊伍"
+   },
+   {
+    "word": "transfer",
+    "pos": "n.",
+    "en_def": "moving from one plane or vehicle to another during a trip",
+    "cn_def": "轉機；轉乘；接駁",
+    "sentence": "A: I have to fly from Taipei to Toronto for the conference next month, but there is no direct flight. B: You can take the flight with a {{BLANK}} in Vancouver, because you only wait two hours there, and your suitcase will go directly to Toronto without you collecting it.",
+    "cn": "A：下個月我要從台北飛多倫多參加研討會，但沒有直飛班機。 B：你可以搭在溫哥華【轉機】的班機，因為在那裡只要等兩個小時，而且你的行李箱會直接送到多倫多，不用自己領取。",
+    "collocation": "airport transfer service 機場接送服務"
+   },
+   {
+    "word": "connection",
+    "pos": "n.",
+    "en_def": "a plane, train, or bus that you take after getting off another one",
+    "cn_def": "轉乘班機；銜接的交通工具",
+    "sentence": "A: Our first flight from Taipei is already thirty minutes late, so will we still be able to catch the flight to Paris in Dubai? B: I'm worried that we might miss our {{BLANK}}, because there is only one hour between the two flights, and the airport in Dubai is very large.",
+    "cn": "A：我們從台北起飛的第一班飛機已經誤點三十分鐘了，我們還趕得上在杜拜飛往巴黎的班機嗎？ B：我擔心我們會錯過【轉機班機】，因為兩個航班之間只有一個小時，而杜拜機場又非常大。",
+    "collocation": "miss a connection 錯過轉乘班機"
+   },
+   {
+    "word": "screening",
+    "pos": "n.",
+    "en_def": "the process of checking people or bags for dangerous items",
+    "cn_def": "篩檢；檢查；安全檢查",
+    "sentence": "A: Why did the airport ask all international passengers to arrive three hours early this week? B: The government added extra {{BLANK}} of passengers and bags after some new safety rules started on Monday, so every person now goes through two machines before reaching the gates.",
+    "cn": "A：為什麼機場這週要求所有國際線旅客提早三個小時到？ B：週一開始實施一些新的安全規定後，政府對旅客和行李增加了額外的【檢查】，所以現在每個人到登機門前都要通過兩台機器。",
+    "collocation": "security screening 安全檢查"
+   },
+   {
+    "word": "taxi",
+    "pos": "v.",
+    "en_def": "(of a plane) to move slowly along the ground before taking off or after landing",
+    "cn_def": "（飛機）滑行",
+    "sentence": "A: We landed ten minutes ago, so why are we still sitting on the plane and not at the gate yet? B: The airport is very busy this morning, so the plane has to {{BLANK}} slowly across the airfield and wait for another aircraft to leave our gate before we can get off.",
+    "cn": "A：我們十分鐘前就降落了，為什麼還坐在飛機上、還沒到登機門？ B：今天早上機場很忙，所以飛機必須在機坪上緩慢【滑行】，並等另一架飛機離開我們的登機門後，我們才能下機。",
+    "collocation": "taxi to the gate 滑行到登機門"
+   },
+   {
+    "word": "depart",
+    "pos": "v.",
+    "en_def": "to leave a place, especially to start a journey",
+    "cn_def": "出發；離開；起飛",
+    "sentence": "A: Is the last flight to Hualien tonight still on schedule, or has it been affected by the strong winds along the coast? B: It is scheduled to {{BLANK}} at eight forty-five, but the airline says it will send passengers a message within the next hour if the weather becomes too dangerous.",
+    "cn": "A：今晚飛往花蓮的最後一班飛機還照常嗎？還是受到沿海強風的影響？ B：預定八點四十五分【起飛】，但航空公司說如果天氣變得太危險，會在接下來一小時內傳訊息通知乘客。",
+    "collocation": "depart on time 準時出發"
+   },
+   {
+    "word": "arrive",
+    "pos": "v.",
+    "en_def": "to reach a place at the end of a journey",
+    "cn_def": "到達；抵達",
+    "sentence": "A: How early should international passengers get to Taoyuan Airport before their flights during the holiday season? B: The airport suggests that they {{BLANK}} at least three hours before their flight, because the check-in lines and security checks are much slower when so many families are traveling.",
+    "cn": "A：在假期期間，國際線旅客應該在班機起飛前多早到桃園機場？ B：機場建議他們至少在起飛前三小時【抵達】，因為有這麼多家庭出遊時，報到的隊伍和安檢都會慢很多。",
+    "collocation": "arrive at the airport early 提早抵達機場"
+   },
+   {
+    "word": "securely",
+    "pos": "adv.",
+    "en_def": "in a way that is firmly fixed or safely protected",
+    "cn_def": "牢固地；安全地",
+    "sentence": "A: The plane is shaking a lot, and the seatbelt sign just came on, so is there anything I should do right now? B: Make sure your seatbelt is fastened {{BLANK}} around your waist, and put your hot coffee on the floor so that it doesn't spill on you or the passenger next to you.",
+    "cn": "A：飛機晃得很厲害，安全帶指示燈剛剛亮了，我現在有什麼該做的嗎？ B：確定你的安全帶有【牢牢地】繫在腰上，並把熱咖啡放到地上，以免灑到你或你旁邊的乘客。",
+    "collocation": "lock the door securely 把門鎖牢"
+   },
+   {
+    "word": "onboard",
+    "pos": "adj.",
+    "en_def": "available or happening on a plane, ship, or train",
+    "cn_def": "機上的；船上的；車上的",
+    "sentence": "A: It's a twelve-hour flight to Amsterdam, so how will you keep busy during the trip if you don't want to work? B: The airline has a great {{BLANK}} entertainment system with hundreds of films and music albums, so I plan to watch a few movies and then sleep for several hours.",
+    "cn": "A：飛阿姆斯特丹要十二個小時，如果你不想工作，旅途中要怎麼打發時間？ B：這家航空公司有很棒的【機上】娛樂系統，有數百部電影和音樂專輯，所以我打算看幾部電影，然後睡幾個小時。",
+    "collocation": "onboard services 機上服務"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The airport has opened a new building for international flights. All Asian airlines will move to the new _____ next month.",
+    "options": [
+     "visa",
+     "queue",
+     "ticket",
+     "terminal"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The airport is building a third path for planes to land and take off. The new _____ will allow more flights each day.",
+    "options": [
+     "gate",
+     "aisle",
+     "runway",
+     "carousel"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Passengers for Flight 205 should go to the boarding area now. The _____ will close ten minutes before departure.",
+    "options": [
+     "visa",
+     "gate",
+     "customs",
+     "runway"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Travelers can now print their documents at home. Online _____ opens twenty-four hours before each flight.",
+    "options": [
+     "check-in",
+     "carousel",
+     "aisle",
+     "runway"
+    ],
+    "answer": 0,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Liquids larger than one hundred milliliters are not allowed on the plane. Please remove them from your bag before _____.",
+    "options": [
+     "arrival",
+     "visa",
+     "security",
+     "carousel"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Visitors must declare any fresh fruit or meat when they enter the country. Officers at _____ may check your bags.",
+    "options": [
+     "aisle",
+     "customs",
+     "runway",
+     "ticket"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Foreign visitors must show their passports and visas after landing. The officers at _____ may ask about the purpose of the trip.",
+    "options": [
+     "immigration",
+     "carousel",
+     "runway",
+     "aisle"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Each passenger may check two suitcases for free. Extra _____ will cost fifty dollars per piece.",
+    "options": [
+     "runway",
+     "terminal",
+     "visa",
+     "baggage"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Passengers from Flight 118 can collect their suitcases now. Bags will appear on the _____ in Hall B.",
+    "options": [
+     "visa",
+     "carousel",
+     "queue",
+     "passport"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Families with young children may get on the plane first. General _____ will begin in about five minutes.",
+    "options": [
+     "customs",
+     "visa",
+     "boarding",
+     "runway"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Heavy fog has closed the airport for the morning. The _____ of all flights has been moved to the afternoon.",
+    "options": [
+     "passport",
+     "aisle",
+     "carousel",
+     "departure"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The hotel offers a free shuttle from the airport. Please tell us your flight number and time of _____ in advance.",
+    "options": [
+     "arrival",
+     "aisle",
+     "visa",
+     "screening"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Engine problems kept the plane on the ground for three hours. The airline apologized for the long _____.",
+    "options": [
+     "passport",
+     "aisle",
+     "delay",
+     "terminal"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The conference was called off because of the storm. Guests who booked rooms will receive a full refund for the _____.",
+    "options": [
+     "cancellation",
+     "runway",
+     "aisle",
+     "carousel"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Please check the date on your travel document before you book. Your _____ must be valid for six months after arrival.",
+    "options": [
+     "runway",
+     "passport",
+     "carousel",
+     "queue"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Citizens of some countries need special permission to work here. They must apply for a work _____ before arriving.",
+    "options": [
+     "runway",
+     "carousel",
+     "aisle",
+     "visa"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Prices for flights rise quickly during the holidays. Book your _____ early to get the best price.",
+    "options": [
+     "carousel",
+     "ticket",
+     "runway",
+     "customs"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Passengers must show this document at the gate. Please keep your _____ ready with your passport.",
+    "options": [
+     "boarding pass",
+     "jet lag",
+     "runway",
+     "carousel"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Please keep the space between the seats clear. Bags left in the _____ can cause passengers to trip and fall.",
+    "options": [
+     "passport",
+     "visa",
+     "aisle",
+     "ticket"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Large suitcases do not fit under the seats. Please place them in the _____ bins above you.",
+    "options": [
+     "dangerous",
+     "remote",
+     "relevant",
+     "overhead"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Only one small bag is allowed in the cabin. Any _____ that is too heavy must be checked at the counter.",
+    "options": [
+     "carry-on",
+     "runway",
+     "visa",
+     "terminal"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Flying across many time zones can make travelers very tired. Drinking water and sleeping well can reduce _____.",
+    "options": [
+     "boarding pass",
+     "visa",
+     "runway",
+     "jet lag"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The pilot spoke to passengers over the speakers. His _____ explained that the plane would land twenty minutes early.",
+    "options": [
+     "carousel",
+     "announcement",
+     "runway",
+     "visa"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Hundreds of travelers were waiting at the ticket desk. The _____ stretched all the way to the entrance.",
+    "options": [
+     "visa",
+     "runway",
+     "queue",
+     "announcement"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Our flight from Taipei stops in Hong Kong. Passengers making a _____ there should follow the green signs.",
+    "options": [
+     "passport",
+     "transfer",
+     "carousel",
+     "aisle"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The first flight landed forty minutes late. Several passengers missed their _____ to Chicago and had to wait overnight.",
+    "options": [
+     "visa",
+     "aisle",
+     "connection",
+     "screening"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "All bags pass through an X-ray machine before boarding. This _____ helps keep dangerous items off planes.",
+    "options": [
+     "screening",
+     "arrival",
+     "ticket",
+     "aisle"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "After landing, the plane will move slowly to the terminal. Please stay seated while we _____ to the gate.",
+    "options": [
+     "depart",
+     "arrive",
+     "wander",
+     "taxi"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Please be at the gate no later than 7:30 a.m. The plane will _____ at eight o'clock sharp.",
+    "options": [
+     "taxi",
+     "depart",
+     "arrive",
+     "wander"
+    ],
+    "answer": 1,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The shuttle bus leaves the airport every thirty minutes. Most guests _____ at the hotel within an hour.",
+    "options": [
+     "taxi",
+     "depart",
+     "recognize",
+     "arrive"
+    ],
+    "answer": 3,
+    "vocabIndex": 30
+   }
+  ]
+ },
+ "11": {
+  "theme": "Alone 獨處",
+  "source": "https://www.examword.com/group-topic/alone",
+  "VOCAB": [
+   {
+    "word": "socialize",
+    "pos": "v.",
+    "en_def": "to spend time with other people in a friendly way",
+    "cn_def": "交際；社交；與人往來",
+    "sentence": "A: Why does the company organize a dinner party for all the staff every three months, even though it costs quite a lot of money? B: The managers want employees from different departments to {{BLANK}} outside the office, because people who know each other well usually communicate better and solve problems faster at work.",
+    "cn": "A：為什麼公司每三個月都為全體員工舉辦晚餐派對，即使花費相當多？ B：主管們希望不同部門的員工能在辦公室以外【交流往來】，因為彼此熟悉的人在工作上通常溝通得更好，解決問題也更快。",
+    "collocation": "socialize with coworkers 和同事交際往來"
+   },
+   {
+    "word": "social life",
+    "pos": "n.phr.",
+    "en_def": "the time you spend with friends and doing activities for fun",
+    "cn_def": "社交生活",
+    "sentence": "A: You've been working until ten o'clock every night since you got promoted, so do you still have time to see your friends? B: Not really, my {{BLANK}} has almost disappeared, so I've decided to leave the office by seven at least three days a week and join my friends for dinner.",
+    "cn": "A：你升職後每天都工作到晚上十點，還有時間見朋友嗎？ B：其實沒有，我的【社交生活】幾乎消失了，所以我決定每週至少三天七點前下班，和朋友一起吃晚餐。",
+    "collocation": "have an active social life 社交生活很活躍"
+   },
+   {
+    "word": "solitude",
+    "pos": "n.",
+    "en_def": "the state of being alone, especially when you enjoy it",
+    "cn_def": "獨處；孤獨（多指享受的）",
+    "sentence": "A: Why does the writer rent a small cabin in the mountains every winter instead of working from her apartment in the city? B: She needs complete {{BLANK}} to finish her novels, because there are no phone calls, visitors, or traffic noise there, so she can focus on writing for ten hours a day.",
+    "cn": "A：為什麼那位作家每年冬天都在山上租一間小木屋，而不在城裡的公寓工作？ B：她需要完全的【獨處】才能完成小說，因為那裡沒有電話、訪客或車聲，她可以一天專心寫作十個小時。",
+    "collocation": "enjoy peace and solitude 享受寧靜與獨處"
+   },
+   {
+    "word": "solitary",
+    "pos": "adj.",
+    "en_def": "done alone or existing alone",
+    "cn_def": "單獨的；獨自的；孤獨的",
+    "sentence": "A: You used to love working with large teams, so why did you accept a job as a night guard at the museum? B: I actually enjoy {{BLANK}} work at this stage of my life, because I can read during quiet hours, and I don't have to attend long meetings or deal with office politics.",
+    "cn": "A：你以前很喜歡和大團隊一起工作，為什麼接受了博物館夜間警衛的工作？ B：在人生的這個階段，我其實很享受【獨自一人的】工作，因為安靜的時候我可以看書，而且不用參加冗長的會議或應付辦公室政治。",
+    "collocation": "a solitary walk 獨自散步"
+   },
+   {
+    "word": "self-reliant",
+    "pos": "adj.",
+    "en_def": "able to do things and make decisions without help from others",
+    "cn_def": "自立的；依靠自己的",
+    "sentence": "A: Your son moved to Australia for university last year, so how is he managing without his family nearby? B: He has become very {{BLANK}}, because he cooks his own meals, works part-time at a café to pay his rent, and solves most of his problems without calling us for help.",
+    "cn": "A：你兒子去年去澳洲念大學，家人不在身邊，他過得怎麼樣？ B：他變得非常【自立】，因為他自己煮飯、在咖啡館兼職付房租，大部分的問題都自己解決，不會打電話向我們求助。",
+    "collocation": "become self-reliant 變得自立"
+   },
+   {
+    "word": "recharge",
+    "pos": "v.",
+    "en_def": "to rest so that you get your energy back",
+    "cn_def": "恢復精力；充電",
+    "sentence": "A: Why do you always spend your lunch break walking alone in the park instead of eating with the team? B: I talk to customers on the phone all morning, so I need some quiet time to {{BLANK}}, and a short walk helps me feel fresh and focused for the busy afternoon.",
+    "cn": "A：為什麼你午休總是獨自在公園散步，而不和團隊一起吃飯？ B：我整個早上都在和顧客講電話，所以需要一些安靜的時間來【恢復精力】，短暫的散步能讓我在忙碌的下午感到清新又專注。",
+    "collocation": "recharge your batteries 恢復精力"
+   },
+   {
+    "word": "reflect",
+    "pos": "v.",
+    "en_def": "to think carefully and seriously about something",
+    "cn_def": "反思；深思",
+    "sentence": "A: Why did the manager give everyone a notebook at the end of the long project and ask us to write in it? B: She wants each of us to {{BLANK}} on what went well and what went wrong, so that we can avoid the same problems when we start the next project in January.",
+    "cn": "A：為什麼經理在漫長的專案結束時發給每個人一本筆記本，要我們在上面寫東西？ B：她希望我們每個人【反思】哪些地方做得好、哪些地方出了錯，好讓我們一月開始下一個專案時，能避免同樣的問題。",
+    "collocation": "reflect on the past year 反思過去這一年"
+   },
+   {
+    "word": "relax",
+    "pos": "v.",
+    "en_def": "to rest and become calm, especially after work",
+    "cn_def": "放鬆；休息",
+    "sentence": "A: You look really tired after such a busy week at the trade fair, so what are your plans for the weekend? B: I'm going to stay home, turn off my phone, and just {{BLANK}} with a good book and some music, because I need to rest before the next sales trip on Monday.",
+    "cn": "A：在商展忙了這麼一整週，你看起來好累，週末有什麼計畫？ B：我要待在家、關掉手機，就看本好書、聽點音樂【放鬆】一下，因為在週一下一趟業務出差前，我需要休息。",
+    "collocation": "relax after work 下班後放鬆"
+   },
+   {
+    "word": "relief",
+    "pos": "n.",
+    "en_def": "a feeling of happiness because something unpleasant has ended or not happened",
+    "cn_def": "寬慰；鬆了一口氣",
+    "sentence": "A: How did you feel when the client finally called and said they had approved our design, after making us change it five times? B: It was a huge {{BLANK}}, because the whole team had worked every weekend for a month, and we were worried that we might lose the contract.",
+    "cn": "A：在客戶要我們修改五次設計後，終於打電話來說核准了，你有什麼感覺？ B：真是大大【鬆了一口氣】，因為整個團隊一個月來每個週末都在工作，我們很擔心可能會失去這份合約。",
+    "collocation": "a sense of relief 如釋重負的感覺"
+   },
+   {
+    "word": "peaceful",
+    "pos": "adj.",
+    "en_def": "quiet and calm, without noise or trouble",
+    "cn_def": "寧靜的；平和的",
+    "sentence": "A: Why did you choose that small hotel by the lake instead of the big one near the conference center? B: The big hotel is always full of noisy tour groups, but the lake hotel is so {{BLANK}} that I can sleep well and prepare for my presentations without any distractions.",
+    "cn": "A：為什麼你選擇湖邊那間小飯店，而不選會議中心附近的大飯店？ B：大飯店總是擠滿吵鬧的旅行團，但湖邊的飯店非常【寧靜】，我可以睡得很好，並在沒有任何干擾的情況下準備簡報。",
+    "collocation": "a peaceful atmosphere 寧靜的氛圍"
+   },
+   {
+    "word": "release",
+    "pos": "v.",
+    "en_def": "to let a feeling or energy go so that you feel better",
+    "cn_def": "釋放；發洩",
+    "sentence": "A: Why does the company now offer free boxing classes in the gym after work on Tuesdays and Thursdays? B: Many employees said they feel tense after long days at their desks, and hitting a punching bag helps them {{BLANK}} stress in a healthy way before they go home.",
+    "cn": "A：為什麼公司現在每週二和週四下班後在健身房提供免費拳擊課？ B：許多員工說，在辦公桌前坐了一整天後感覺很緊繃，打沙包能幫助他們在回家前用健康的方式【釋放】壓力。",
+    "collocation": "release tension 釋放緊張情緒"
+   },
+   {
+    "word": "pressure",
+    "pos": "n.",
+    "en_def": "a feeling of worry caused by difficult demands or too much work",
+    "cn_def": "壓力",
+    "sentence": "A: Why has Kevin been so quiet and tired lately, when he used to be the most cheerful person in the office? B: He is under a lot of {{BLANK}} because he has to finish three big reports before the end of the month, and his manager keeps adding new tasks to his list.",
+    "cn": "A：凱文以前是辦公室裡最開朗的人，為什麼最近這麼安靜又疲倦？ B：他承受很大的【壓力】，因為他必須在月底前完成三份大型報告，而他的主管還不斷在他的清單上增加新任務。",
+    "collocation": "work under pressure 在壓力下工作"
+   },
+   {
+    "word": "belong to somebody",
+    "pos": "v.phr.",
+    "en_def": "to feel that you are an important part of someone's life or a group",
+    "cn_def": "歸屬於某人；有歸屬感",
+    "sentence": "A: Why did your elderly neighbor start volunteering at the animal shelter after her husband passed away last year? B: She said that caring for the dogs makes her feel that she still has a purpose and can {{BLANK}}, because the animals are always so happy to see her each morning.",
+    "cn": "A：為什麼你年長的鄰居在她先生去年過世後，開始到動物收容所當志工？ B：她說照顧狗狗讓她覺得自己仍有生活目標，並且能【有所歸屬】，因為每天早上動物們見到她總是非常開心。",
+    "collocation": "want to belong to somebody 渴望有所歸屬"
+   },
+   {
+    "word": "introvert",
+    "pos": "n.",
+    "en_def": "a quiet person who prefers to spend time alone or with a few people",
+    "cn_def": "內向的人",
+    "sentence": "A: Lisa is one of our best programmers, but she never joins the team lunches or the after-work parties, so is something wrong? B: Nothing is wrong, she's just an {{BLANK}}, so she prefers to eat quietly at her desk and recharge her energy before the afternoon meetings.",
+    "cn": "A：麗莎是我們最優秀的程式設計師之一，但她從不參加團隊午餐或下班後的聚會，是出了什麼問題嗎？ B：沒什麼問題，她只是個【內向的人】，所以比較喜歡安靜地在座位上吃飯，在下午的會議前恢復精力。",
+    "collocation": "a shy introvert 害羞內向的人"
+   },
+   {
+    "word": "attractive",
+    "pos": "adj.",
+    "en_def": "pleasant or interesting, so that people want it",
+    "cn_def": "有吸引力的；誘人的",
+    "sentence": "A: Why are so many young professionals choosing to live alone in small studio apartments in the city center? B: Living alone is very {{BLANK}} to them, because they can decide their own schedules, keep the space exactly how they like it, and walk to work in just ten minutes.",
+    "cn": "A：為什麼這麼多年輕上班族選擇獨自住在市中心的小套房？ B：獨居對他們來說非常【有吸引力】，因為他們可以自己決定作息、把空間維持成自己喜歡的樣子，而且走路十分鐘就能到公司。",
+    "collocation": "an attractive offer 誘人的提議"
+   },
+   {
+    "word": "regulate",
+    "pos": "v.",
+    "en_def": "to control something so that it stays at the right level",
+    "cn_def": "調節；控制；管理",
+    "sentence": "A: The new office building has a smart system that turns the heating on and off by itself, so how does it work? B: Sensors in every room {{BLANK}} the temperature throughout the day, so the building stays comfortable for workers while using about thirty percent less energy than our old office.",
+    "cn": "A：新辦公大樓有一套會自動開關暖氣的智慧系統，它是怎麼運作的？ B：每個房間的感測器整天都在【調節】溫度，所以大樓能讓員工保持舒適，同時比我們的舊辦公室少用約百分之三十的能源。",
+    "collocation": "regulate emotions 調節情緒"
+   },
+   {
+    "word": "emotion",
+    "pos": "n.",
+    "en_def": "a strong feeling such as love, anger, fear, or joy",
+    "cn_def": "情緒；情感",
+    "sentence": "A: How did the staff react when the director announced that the company was closing the factory where many of them had worked for years? B: There was a lot of {{BLANK}} in the room, because some people cried, others were angry, and everyone was worried about finding new jobs.",
+    "cn": "A：當總監宣布公司要關閉許多員工工作多年的工廠時，員工有什麼反應？ B：會議室裡充滿了【情緒】，因為有些人哭了，有些人很生氣，而且每個人都擔心要找新工作。",
+    "collocation": "show emotion 流露情感"
+   },
+   {
+    "word": "avoid",
+    "pos": "v.",
+    "en_def": "to stay away from someone or something, or to stop something from happening",
+    "cn_def": "避免；避開；迴避",
+    "sentence": "A: Why do you always take the earliest train to the office, even though our working day doesn't start until nine? B: I like to {{BLANK}} the crowds at rush hour, because the trains after eight o'clock are so full that I can't sit down, read, or even think clearly.",
+    "cn": "A：為什麼你總是搭最早的火車去辦公室，即使我們九點才開始上班？ B：我喜歡【避開】尖峰時段的人潮，因為八點以後的火車擠到我沒辦法坐下、看書，甚至無法好好思考。",
+    "collocation": "avoid making mistakes 避免犯錯"
+   },
+   {
+    "word": "scary",
+    "pos": "adj.",
+    "en_def": "making you feel afraid",
+    "cn_def": "可怕的；嚇人的",
+    "sentence": "A: How did you feel when you moved to Berlin alone for your first overseas job, without knowing anyone there? B: It was really {{BLANK}} at first, because I didn't speak German and got lost often, but after a few months I made friends at work and started to enjoy the city.",
+    "cn": "A：你獨自搬去柏林做第一份海外工作、在那裡一個人都不認識時，有什麼感覺？ B：一開始真的很【可怕】，因為我不會說德語，又常常迷路，但幾個月後我在工作上交了朋友，開始喜歡這座城市了。",
+    "collocation": "a scary experience 可怕的經歷"
+   },
+   {
+    "word": "wonder",
+    "pos": "v.",
+    "en_def": "to think about something and want to know more about it",
+    "cn_def": "想知道；納悶；好奇",
+    "sentence": "A: The new employee from Canada always eats lunch by herself in the break room and doesn't say much to anyone. B: I {{BLANK}} whether she feels lonely, so let's invite her to join us for lunch tomorrow and ask her some questions about her life back home.",
+    "cn": "A：那位從加拿大來的新員工總是自己一個人在休息室吃午餐，也不太和任何人說話。 B：我【想知道】她是否覺得孤單，所以我們明天邀請她和我們一起吃午餐，並問問她在家鄉生活的事吧。",
+    "collocation": "wonder what to do 不知道該怎麼辦"
+   },
+   {
+    "word": "stressful",
+    "pos": "adj.",
+    "en_def": "making you feel worried and nervous",
+    "cn_def": "壓力大的；令人緊張的",
+    "sentence": "A: How was your first month as a manager at the call center, and do you still enjoy the job? B: It has been very {{BLANK}}, because I have to deal with angry customers, train new staff, and meet sales targets, but I'm learning a lot and starting to feel more confident.",
+    "cn": "A：你在客服中心當經理的第一個月怎麼樣？你還喜歡這份工作嗎？ B：一直都【壓力很大】，因為我必須應付生氣的顧客、訓練新員工並達成業績目標，但我學到很多，也開始比較有自信了。",
+    "collocation": "a stressful situation 壓力大的處境"
+   },
+   {
+    "word": "triggering",
+    "pos": "adj.",
+    "en_def": "causing someone to have strong, upsetting feelings or memories",
+    "cn_def": "引發情緒反應的；觸發的",
+    "sentence": "A: Why did the company add a short warning before the online safety training video about factory accidents? B: Some scenes in the video show serious injuries, and they could be {{BLANK}} for workers who have been in accidents before, so the warning allows them to prepare or ask for another format.",
+    "cn": "A：為什麼公司在關於工廠事故的線上安全訓練影片前加了一段簡短的警語？ B：影片中有些畫面顯示嚴重的傷害，對曾經發生過事故的員工來說可能會【引發強烈情緒】，所以警語讓他們可以做好準備或要求其他形式。",
+    "collocation": "triggering content 可能引發不適的內容"
+   },
+   {
+    "word": "burnout",
+    "pos": "n.",
+    "en_def": "a state of feeling extremely tired and unable to work because of too much stress",
+    "cn_def": "倦怠；身心俱疲",
+    "sentence": "A: Why did the company decide to give all employees an extra week of paid holiday this year? B: Many staff members were working more than sixty hours a week, and the managers wanted to prevent {{BLANK}} before people became sick or decided to quit their jobs.",
+    "cn": "A：為什麼公司決定今年給所有員工多一週的帶薪假？ B：許多員工每週工作超過六十小時，主管們想在大家生病或決定辭職之前，預防【過勞倦怠】。",
+    "collocation": "suffer from burnout 身心俱疲"
+   },
+   {
+    "word": "quietly",
+    "pos": "adv.",
+    "en_def": "without making much noise",
+    "cn_def": "安靜地；輕聲地",
+    "sentence": "A: The library on the third floor is the only place in our building where I can concentrate, but people keep chatting there. B: Let's put up a sign asking everyone to talk {{BLANK}} or go to the café downstairs, because many employees use that room to read and prepare important reports.",
+    "cn": "A：三樓的圖書室是我們大樓裡唯一能讓我專心的地方，但大家一直在那裡聊天。 B：我們貼一張告示，請大家【輕聲】說話或去樓下咖啡廳，因為很多員工會用那個房間閱讀和準備重要報告。",
+    "collocation": "speak quietly 輕聲說話"
+   },
+   {
+    "word": "habit",
+    "pos": "n.",
+    "en_def": "something that you do often and regularly, often without thinking about it",
+    "cn_def": "習慣",
+    "sentence": "A: How do you stay so calm and organized, even when we have five deadlines in the same week? B: I have a {{BLANK}} of spending fifteen minutes alone every morning, planning my tasks with a cup of tea before I open any emails or answer any phone calls.",
+    "cn": "A：即使我們同一週有五個截止期限，你是怎麼保持這麼冷靜又有條理的？ B：我有一個【習慣】，每天早上會獨自花十五分鐘，在打開任何電子郵件或接任何電話之前，邊喝茶邊規劃我的工作。",
+    "collocation": "a healthy habit 健康的習慣"
+   },
+   {
+    "word": "bake",
+    "pos": "v.",
+    "en_def": "to cook food such as bread or cake in an oven",
+    "cn_def": "烘烤；烤",
+    "sentence": "A: What do you usually do on Sunday afternoons when you live alone and your family is so far away? B: I like to {{BLANK}} bread and cookies in my small kitchen, because it calms me down after a busy week, and I often bring the extra cookies to the office on Monday.",
+    "cn": "A：你一個人住、家人又離得那麼遠，週日下午通常都做什麼？ B：我喜歡在我的小廚房裡【烤】麵包和餅乾，因為這能讓我在忙碌的一週後平靜下來，我也常在週一把多的餅乾帶到辦公室。",
+    "collocation": "bake a birthday cake 烤生日蛋糕"
+   },
+   {
+    "word": "disturb",
+    "pos": "v.",
+    "en_def": "to interrupt someone when they are trying to work, sleep, or rest",
+    "cn_def": "打擾；干擾",
+    "sentence": "A: I need to finish the budget report for the director by four o'clock, but people keep coming to my desk with questions. B: Book the small meeting room for two hours and put a sign on the door asking people not to {{BLANK}} you, and I'll answer any questions for you.",
+    "cn": "A：我必須在四點前完成給總監的預算報告，但一直有人到我座位問問題。 B：預約小會議室兩個小時，在門上貼個告示請大家不要【打擾】你，有任何問題我會幫你回答。",
+    "collocation": "do not disturb 請勿打擾"
+   },
+   {
+    "word": "explore",
+    "pos": "v.",
+    "en_def": "to look around a new place, or to try new activities, to learn about them",
+    "cn_def": "探索；嘗試；探究",
+    "sentence": "A: You moved to Tainan alone for this new job two months ago, so how do you spend your free time when you're not working? B: I {{BLANK}} a different neighborhood every weekend, and I've found some wonderful temples, old streets, and food stalls that most tourists never see.",
+    "cn": "A：你兩個月前為了這份新工作獨自搬到台南，不工作的時候都怎麼打發空閒時間？ B：我每個週末都去【探索】一個不同的街區，已經發現了一些很棒的廟宇、老街和大多數觀光客從沒見過的小吃攤。",
+    "collocation": "explore new hobbies 探索新嗜好"
+   },
+   {
+    "word": "bookworm",
+    "pos": "n.",
+    "en_def": "a person who loves reading and spends a lot of time reading",
+    "cn_def": "書蟲；愛看書的人",
+    "sentence": "A: Do you know what we should buy as a farewell gift for Ms. Kim, who is retiring from the accounting department next week? B: She is a real {{BLANK}} who reads several novels every month, so a gift card for the big bookstore near her apartment would probably make her very happy.",
+    "cn": "A：你知道下週從會計部退休的金小姐，我們該買什麼當作送別禮物嗎？ B：她是個真正的【書蟲】，每個月會讀好幾本小說，所以送她公寓附近大型書店的禮券，她大概會很開心。",
+    "collocation": "a lifelong bookworm 一輩子的書蟲"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The new café has long tables instead of small ones. The owner hopes customers will _____ with each other while they eat.",
+    "options": [
+     "bake",
+     "disturb",
+     "regulate",
+     "socialize"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Working night shifts made it hard for Ben to see his friends. His _____ improved after he moved to a day job.",
+    "options": [
+     "social life",
+     "burnout",
+     "habit",
+     "emotion"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The mountain retreat has no internet or television. Guests come to enjoy the _____ and the beautiful views.",
+    "options": [
+     "pressure",
+     "solitude",
+     "burnout",
+     "emotion"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The lighthouse keeper lived alone on the island for twenty years. He was used to a quiet and _____ life.",
+    "options": [
+     "stressful",
+     "scary",
+     "solitary",
+     "triggering"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The training program teaches young people to cook, budget, and find jobs. Its goal is to help them become _____.",
+    "options": [
+     "triggering",
+     "scary",
+     "stressful",
+     "self-reliant"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The company gives staff a short break every two hours. These breaks help workers rest and _____ their energy.",
+    "options": [
+     "disturb",
+     "avoid",
+     "recharge",
+     "bake"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+   },
+   {
+    "q": "At the end of each year, the manager meets each employee. They _____ on the year's successes and set new goals.",
+    "options": [
+     "reflect",
+     "bake",
+     "disturb",
+     "regulate"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The hotel spa offers massages and quiet rooms. It is the perfect place to _____ after a long business trip.",
+    "options": [
+     "disturb",
+     "relax",
+     "regulate",
+     "avoid"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The lost suitcase was finally found at the airport in Tokyo. Its owner felt great _____ when she received the call.",
+    "options": [
+     "burnout",
+     "pressure",
+     "habit",
+     "relief"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The new park has trees, a small lake, and no traffic. Office workers enjoy its _____ atmosphere during lunch.",
+    "options": [
+     "peaceful",
+     "stressful",
+     "scary",
+     "triggering"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Exercise is a healthy way to deal with a hard day at work. Running helps many people _____ tension and sleep better.",
+    "options": [
+     "bake",
+     "release",
+     "wonder",
+     "avoid"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The team has only two days to finish the project. Everyone is working under great _____ to meet the deadline.",
+    "options": [
+     "solitude",
+     "relief",
+     "pressure",
+     "habit"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The shelter finds homes for dogs that were left on the street. Every animal there wants to _____ who will love it.",
+    "options": [
+     "bake",
+     "regulate",
+     "disturb",
+     "belong to somebody"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Some workers prefer quiet tasks to group meetings. An _____ may do their best work alone in a calm space.",
+    "options": [
+     "introvert",
+     "emotion",
+     "burnout",
+     "habit"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The company offers a high salary and flexible hours. These benefits make the job very _____ to young graduates.",
+    "options": [
+     "scary",
+     "triggering",
+     "attractive",
+     "solitary"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The government has new rules for food delivery apps. The laws will _____ how much the apps can charge restaurants.",
+    "options": [
+     "bake",
+     "regulate",
+     "wonder",
+     "relax"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The actor's speech at the award ceremony moved the audience. His voice was full of _____ as he thanked his family.",
+    "options": [
+     "burnout",
+     "habit",
+     "solitude",
+     "emotion"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Traffic on the main highway is very heavy after five o'clock. Leave work early to _____ the evening rush.",
+    "options": [
+     "bake",
+     "avoid",
+     "reflect",
+     "recharge"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Speaking in front of five hundred people can be frightening. The first time felt very _____ for the new director.",
+    "options": [
+     "scary",
+     "peaceful",
+     "attractive",
+     "self-reliant"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The order from our biggest customer has not arrived yet. The sales team is starting to _____ whether something went wrong.",
+    "options": [
+     "bake",
+     "regulate",
+     "wonder",
+     "release"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Moving to a new city and starting a new job at the same time is difficult. It can be a very _____ period.",
+    "options": [
+     "stressful",
+     "peaceful",
+     "attractive",
+     "self-reliant"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The documentary includes scenes of a serious car accident. A warning is shown because the content may be _____ for some viewers.",
+    "options": [
+     "peaceful",
+     "attractive",
+     "triggering",
+     "self-reliant"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Many nurses worked double shifts during the busy winter season. The hospital is now offering counseling to prevent _____.",
+    "options": [
+     "solitude",
+     "relief",
+     "bookworm",
+     "burnout"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The meeting in the next room has already started. Please enter _____ and take a seat at the back.",
+    "options": [
+     "vastly",
+     "quietly",
+     "boldly",
+     "physically"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Ken Ito walks to work every day, even when it rains. This healthy _____ helps him stay fit.",
+    "options": [
+     "emotion",
+     "relief",
+     "habit",
+     "solitude"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The hotel kitchen staff start work at four in the morning. They _____ fresh bread and pastries for the breakfast buffet.",
+    "options": [
+     "avoid",
+     "bake",
+     "disturb",
+     "wonder"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The manager is in an important meeting with the bank. Please do not _____ her unless it is an emergency.",
+    "options": [
+     "bake",
+     "regulate",
+     "recharge",
+     "disturb"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The city tour includes three hours of free time. Visitors can _____ the old harbor and its small shops on their own.",
+    "options": [
+     "explore",
+     "disturb",
+     "regulate",
+     "bake"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Amy reads at least three novels every month. As a real _____, she spends most weekends at the library.",
+    "options": [
+     "emotion",
+     "bookworm",
+     "burnout",
+     "habit"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Doctors say that a short break can lower stress. Take a few minutes each afternoon to stretch and _____.",
+    "options": [
+     "disturb",
+     "regulate",
+     "relax",
+     "bake"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   }
+  ]
  }
 }

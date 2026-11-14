@@ -2455,7 +2455,12 @@ window.VOCAB_ZONES = {
    3,
    4,
    5,
-   6
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2463,7 +2468,12 @@ window.VOCAB_ZONES = {
    "3": "Achievement 成就",
    "4": "Activity 活動",
    "5": "Actor 演員",
-   "6": "Ad 廣告"
+   "6": "Ad 廣告",
+   "7": "Adventure 冒險",
+   "8": "Advice 建議",
+   "9": "Age 年齡",
+   "10": "Airport 機場",
+   "11": "Alone 獨處"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }
