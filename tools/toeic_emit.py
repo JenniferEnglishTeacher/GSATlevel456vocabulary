@@ -42,8 +42,16 @@ for k in sorted(T, key=int):
     VOC, MC, theme = G["VOCAB"], G["MCQS"], G["theme"]
     for i, e in enumerate(VOC):
         assert e["sentence"].count("{{BLANK}}") == 1, (g, e["word"])
-    for q in MC:
-        assert len(set(q["options"])) == 4 and VOC[q["vocabIndex"]]["word"] == q["options"][q["answer"]], (g, q["q"])
+        assert e["sentence"].startswith("A: ") and " B: " in e["sentence"] and len(e["sentence"].split()) > 20, (g, e["word"], "dialogue")
+        assert "【" in e["cn"] and " B：" in e["cn"] and e["collocation"] and e["en_def"] and e["cn_def"], (g, e["word"])
+    assert len(MC) == 30, (g, "need 30 MCQs")
+    for n, q in enumerate(MC):
+        assert len(q["options"]) == 4 and len(set(o.lower() for o in q["options"])) == 4, (g, q["q"])
+        assert VOC[q["vocabIndex"]]["word"].lower() == q["options"][q["answer"]].lower(), (g, q["q"])
+        assert q["q"].count("_____") == 1, (g, q["q"])
+        assert n == 0 or q["answer"] != MC[n - 1]["answer"], (g, n, "same answer letter twice in a row")
+    cnt = [sum(q["answer"] == x for q in MC) for x in range(4)]
+    assert max(cnt) - min(cnt) <= 2, (g, cnt)
     order.append(g); names[str(g)] = theme
     title = f"{BOOK} · Topic {g}: {theme}"
     cards, dcards = [], []
