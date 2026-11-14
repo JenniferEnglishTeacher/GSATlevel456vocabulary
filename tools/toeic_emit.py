@@ -11,7 +11,7 @@ Book 3 Unit 1 pages, which build.py already generated from the shared quiz page.
 import json, re, os, html
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-V = "20261114c"
+V = "20261115a"
 GAS = "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"
 BOOK, BACK = "TOEIC Themed Vocabulary", "TOEIC Themed Vocabulary"
 BLANK = "__________"
@@ -90,8 +90,9 @@ for k in sorted(T, key=int):
     p = rep(p, '<span id="p1-progress-label">1 / 20</span>', f'<span id="p1-progress-label">1 / {nv}</span>')
     p = rep(p, "第二部分：20 題選擇題", f"第二部分：{nq} 題選擇題")
     p = rep(p, "ee4000-b3-unit1-", base + "-", 2)
-    p = rep(p, f'<script src="{base}-app.js">', f'<script src="{base}-app.js?v={V}">')
-    p = rep(p, f'<script src="{base}-data.js">', f'<script src="{base}-data.js?v={V}">')
+    for part in ("app", "data"):
+        p, n = re.subn(rf'<script src="{base}-{part}\.js(?:\?v=\w+)?">', f'<script src="{base}-{part}.js?v={V}">', p)
+        assert n == 1, (base, part)
     p = re.sub(r'books\.js\?v=\w+', f"books.js?v={V}", p)
     wr(base + ".html", p)
     wr(base + "-app.js", QA)
