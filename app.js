@@ -271,6 +271,16 @@ function render() {
     els.memoryChant.hidden = !card.memoryChant;
   }
   renderSynonyms(card);
+  { // TOEIC collocation (TOEIC book cards only)
+    let col = document.querySelector("#collocation");
+    if (card.collocation && !col) {
+      col = document.createElement("p");
+      col.id = "collocation";
+      col.className = "memory-chant";
+      els.synonyms.insertAdjacentElement("beforebegin", col);
+    }
+    if (col) { col.textContent = card.collocation ? `TOEIC collocation 搭配詞: ${card.collocation}` : ""; col.hidden = !card.collocation; }
+  }
   renderQuizLinks();
   els.translation.textContent = card.translation;
   const photo = photoFor(card);

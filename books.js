@@ -2431,6 +2431,31 @@ window.VOCAB_ZONES = {
    "5": "reluctant – whereby"
   },
   "blurb": "about 20 words & phrases per part 每部分約 20 個"
+ },
+ "tc": {
+  "book": "toeic",
+  "prefix": "tc",
+  "tag": "TOEIC",
+  "name": "TOEIC Themed Vocabulary",
+  "short": "Topics",
+  "num": "T",
+  "levelLabel": "TOEIC",
+  "cls": "hot",
+  "family": false,
+  "headLabel": "",
+  "tile": "TOEIC 主題單字 · examword topics",
+  "unitName": "Topic",
+  "data": "tc-dashboard-data.js",
+  "global": "TC_DASHBOARD_UNITS",
+  "page": "tc-unit{u}.html",
+  "quiz": "toeic-topic{u}.html",
+  "units": [
+   1
+  ],
+  "names": {
+   "1": "Accident 意外事故"
+  },
+  "blurb": "one examword topic per unit 每單元一個主題"
  }
 };
 window.VOCAB_BOOKS = [
@@ -2539,6 +2564,13 @@ window.VOCAB_BOOKS = [
    "a8",
    "a9",
    "a10"
+  ]
+ },
+ {
+  "id": "toeic",
+  "name": "TOEIC 主題單字 Themed Vocabulary",
+  "zones": [
+   "tc"
   ]
  }
 ];
