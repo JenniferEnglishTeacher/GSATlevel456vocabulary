@@ -10,8 +10,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a crash in which two things hit each other",
     "chinese": "碰撞；相撞",
-    "sentence": "A: Why are all the delivery trucks late this morning? B: There was a __________ between two buses on the highway, so traffic is blocked for miles.",
-    "translation": "A：為什麼今天早上所有的送貨卡車都遲到了？ B：高速公路上兩輛公車發生了【碰撞】，所以車流堵塞了好幾英里。",
+    "sentence": "A: Why are all the delivery trucks so late this morning, and why hasn't the warehouse manager answered any of my calls yet? B: There was a __________ between two buses on the highway near the factory, so traffic is blocked for miles, and the manager is busy calling customers to explain the delay.",
+    "translation": "A：為什麼今天早上所有的送貨卡車都這麼晚，而且倉庫經理到現在都還沒接我的電話？ B：工廠附近的高速公路上兩輛公車發生了【碰撞】，所以車流堵塞了好幾英里，經理正忙著打電話向客戶解釋延誤的原因。",
     "lookup": {
      "english": "a crash in which two things hit each other",
      "chinese": "碰撞；相撞"
@@ -24,8 +24,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "an accident in which a vehicle hits something hard",
     "chinese": "撞車；車禍；墜毀",
-    "sentence": "A: Did the sales manager make it to the conference in Chicago? B: No, he missed it because a car __________ closed the main road to the airport, and he had to take a longer route.",
-    "translation": "A：業務經理有趕上芝加哥的研討會嗎？ B：沒有，他錯過了，因為一場【車禍】封閉了通往機場的主要道路，他只好繞遠路。",
+    "sentence": "A: Did the sales manager make it to the conference in Chicago on time, or did someone else have to give his presentation to the clients? B: No, he missed the morning session because a car __________ closed the main road to the airport, so he had to take a longer route and catch a later flight.",
+    "translation": "A：業務經理有準時趕到芝加哥的研討會嗎？還是有別人必須代替他向客戶做簡報？ B：沒有，他錯過了上午的場次，因為一場【車禍】封閉了通往機場的主要道路，所以他只好繞遠路並改搭較晚的班機。",
     "lookup": {
      "english": "an accident in which a vehicle hits something hard",
      "chinese": "撞車；車禍；墜毀"
@@ -38,8 +38,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "something unusual or bad that happens",
     "chinese": "事件；事故",
-    "sentence": "A: Should I tell the supervisor that a box fell from the shelf in the warehouse? B: Yes, every __________ must be recorded in the safety log, even if no one was injured.",
-    "translation": "A：倉庫裡有個箱子從架子上掉下來，我應該告訴主管嗎？ B：要，每一起【事件】都必須記錄在安全日誌裡，即使沒有人受傷。",
+    "sentence": "A: Should I tell the supervisor that a heavy box fell from the top shelf in the warehouse this afternoon, even though it didn't hit anyone? B: Yes, you should, because every __________ must be written down in the safety log, and the supervisor uses those notes to decide which shelves need to be repaired or replaced.",
+    "translation": "A：今天下午倉庫最上層的架子掉下一個很重的箱子，雖然沒有砸到任何人，我還是應該告訴主管嗎？ B：對，你應該說，因為每一起【事件】都必須記錄在安全日誌裡，主管會根據這些紀錄決定哪些架子需要修理或更換。",
     "lookup": {
      "english": "something unusual or bad that happens",
      "chinese": "事件；事故"
@@ -52,8 +52,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a small accident or piece of bad luck",
     "chinese": "小意外；小差錯",
-    "sentence": "A: How did the product launch go yesterday? B: It went well overall, but there was a small __________ when the projector stopped working, so we had to present without slides.",
-    "translation": "A：昨天的產品發表會進行得如何？ B：整體很順利，但投影機故障時出了個小【意外】，所以我們只好在沒有投影片的情況下報告。",
+    "sentence": "A: How did the product launch go yesterday, and were the new customers happy with the demonstration of our latest software? B: It went well overall, and most guests were impressed, but there was a small __________ when the projector suddenly stopped working, so we had to present the last part without any slides.",
+    "translation": "A：昨天的產品發表會進行得如何？新客戶對我們最新軟體的展示滿意嗎？ B：整體很順利，大部分來賓都印象深刻，但投影機突然故障時出了個小【意外】，所以最後一部分我們只好在沒有投影片的情況下報告。",
     "lookup": {
      "english": "a small accident or piece of bad luck",
      "chinese": "小意外；小差錯"
@@ -66,8 +66,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "harm done to a person's body",
     "chinese": "傷害；受傷",
-    "sentence": "A: Why is Tom working from home this week? B: He got a back __________ while he was lifting heavy boxes in the storeroom, and his doctor told him to rest for a few days.",
-    "translation": "A：湯姆這週為什麼在家工作？ B：他在儲藏室搬重箱子時背部【受傷】了，醫生要他休息幾天。",
+    "sentence": "A: Why is Tom working from home this week, and will he still be able to join the client meeting on Thursday afternoon? B: He got a back __________ while he was lifting heavy boxes in the storeroom, so his doctor told him to rest for a few days, but he can still join the meeting by video call.",
+    "translation": "A：湯姆這週為什麼在家工作？他還能參加星期四下午的客戶會議嗎？ B：他在儲藏室搬重箱子時背部【受傷】了，所以醫生要他休息幾天，不過他還是可以透過視訊參加會議。",
     "lookup": {
      "english": "harm done to a person's body",
      "chinese": "傷害；受傷"
@@ -80,8 +80,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "harm done to a thing so it is broken or worth less",
     "chinese": "損壞；損害",
-    "sentence": "A: Has the insurance company checked the delivery van yet? B: Yes, they came this morning, and they said the __________ to the front door will cost about two thousand dollars to repair.",
-    "translation": "A：保險公司檢查過那輛送貨車了嗎？ B：檢查過了，他們今天早上來過，說前門的【損壞】大約要花兩千元修理。",
+    "sentence": "A: Has the insurance company checked the delivery van yet, and do they know how much the repairs are going to cost us? B: Yes, an agent came this morning to take photos, and he said the __________ to the front door and the side mirror will cost about two thousand dollars, which our policy should cover.",
+    "translation": "A：保險公司檢查過那輛送貨車了嗎？他們知道修理費用大概要花我們多少錢嗎？ B：檢查過了，今天早上有位專員來拍照，他說前門和側後照鏡的【損壞】大約要花兩千元修理，我們的保單應該會理賠。",
     "lookup": {
      "english": "harm done to a thing so it is broken or worth less",
      "chinese": "損壞；損害"
@@ -94,8 +94,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a cut or hurt place on the body",
     "chinese": "傷口",
-    "sentence": "A: The new worker cut his hand on a sharp metal sheet at the factory. B: The nurse cleaned the __________ and covered it with a bandage, and then she told him to wear gloves next time.",
-    "translation": "A：新來的員工在工廠被一片鋒利的金屬板割傷了手。 B：護士清潔了【傷口】並用繃帶包紮，然後叮嚀他下次要戴手套。",
+    "sentence": "A: The new worker on the night shift cut his hand on a sharp metal sheet at the factory. Was it serious, and did anyone help him? B: The company nurse cleaned the __________ carefully and covered it with a clean bandage, and then she reminded him to wear protective gloves every time he handles metal parts.",
+    "translation": "A：夜班的新員工在工廠被一片鋒利的金屬板割傷了手。嚴重嗎？有人幫他處理嗎？ B：公司護士仔細清潔了【傷口】，並用乾淨的繃帶包紮，然後提醒他每次處理金屬零件時都要戴上防護手套。",
     "lookup": {
      "english": "a cut or hurt place on the body",
      "chinese": "傷口"
@@ -108,8 +108,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a sudden, dangerous situation that needs fast action",
     "chinese": "緊急情況",
-    "sentence": "A: What should we do if the fire alarm rings during the meeting? B: In an __________, please leave the building by the nearest stairway, and don't use the elevators.",
-    "translation": "A：如果開會時火災警報響了，我們該怎麼做？ B：遇到【緊急情況】時，請從最近的樓梯離開大樓，不要搭電梯。",
+    "sentence": "A: What should all the visitors and staff do if the fire alarm rings during the board meeting on the twelfth floor this afternoon? B: In an __________, everyone should stay calm, leave the building by the nearest stairway, and meet in the parking lot, but please do not use the elevators under any circumstances.",
+    "translation": "A：如果今天下午十二樓開董事會時火災警報響了，所有訪客和員工應該怎麼做？ B：遇到【緊急情況】時，每個人都應該保持冷靜，從最近的樓梯離開大樓，並到停車場集合，但無論如何都請不要搭電梯。",
     "lookup": {
      "english": "a sudden, dangerous situation that needs fast action",
      "chinese": "緊急情況"
@@ -122,8 +122,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a vehicle that takes sick or hurt people to hospital",
     "chinese": "救護車",
-    "sentence": "A: One of the visitors fainted in the lobby, and she isn't waking up. B: Call an __________ right away, and ask the security guard to keep the area clear until help arrives.",
-    "translation": "A：有一位訪客在大廳昏倒了，一直沒有醒來。 B：馬上叫【救護車】，並請警衛在救援到達前淨空該區域。",
+    "sentence": "A: One of the visitors at the front desk suddenly fainted in the lobby, and she still isn't waking up. What should we do right now? B: Call an __________ right away, and then ask the security guard to keep the area clear and open the main entrance so the medical team can get in quickly when they arrive.",
+    "translation": "A：櫃台有位訪客突然在大廳昏倒了，到現在還沒有醒來。我們現在該怎麼辦？ B：馬上叫【救護車】，然後請警衛淨空該區域並打開正門，這樣醫療團隊抵達時就能快速進來。",
     "lookup": {
      "english": "a vehicle that takes sick or hurt people to hospital",
      "chinese": "救護車"
@@ -136,8 +136,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to save someone from danger",
     "chinese": "救援；營救",
-    "sentence": "A: Was anyone trapped when the old storage building caught fire last night? B: Two workers were inside, but the firefighters managed to __________ them before the roof fell down.",
-    "translation": "A：昨晚舊倉庫失火時，有人被困住嗎？ B：有兩名員工在裡面，但消防員在屋頂塌下來之前成功把他們【救出】。",
+    "sentence": "A: Was anyone trapped inside when the old storage building near the train station caught fire late last night? B: Two security workers were still inside checking the doors, but the firefighters arrived within ten minutes and managed to __________ them before the roof fell down, so both of them are safe now.",
+    "translation": "A：昨天深夜火車站附近的舊倉庫失火時，有人被困在裡面嗎？ B：有兩名保全人員還在裡面檢查門窗，但消防員在十分鐘內趕到，並在屋頂塌下來之前成功把他們【救出】，所以兩人現在都很安全。",
     "lookup": {
      "english": "to save someone from danger",
      "chinese": "救援；營救"
@@ -150,8 +150,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to stay alive or keep going after something bad",
     "chinese": "倖存；存活；撐過",
-    "sentence": "A: I heard about the plane that made an emergency landing near the coast. B: Yes, it was frightening, but all the passengers managed to __________, and only a few of them needed hospital care.",
-    "translation": "A：我聽說有架飛機在海岸附近緊急降落。 B：對，真的很嚇人，但所有乘客都【倖存】了，只有少數幾人需要住院治療。",
+    "sentence": "A: I read in the news about the passenger plane that made an emergency landing near the coast during the storm. Was anyone badly hurt? B: It was a frightening experience for everyone on board, but thanks to the pilot's skill, all the passengers managed to __________, and only a few of them needed to stay in the hospital overnight.",
+    "translation": "A：我在新聞上看到那架客機在暴風雨中於海岸附近緊急降落。有人受重傷嗎？ B：對機上每個人來說都是很可怕的經歷，但多虧了機長的技術，所有乘客都【倖存】了，只有少數幾人需要在醫院住一晚。",
     "lookup": {
      "english": "to stay alive or keep going after something bad",
      "chinese": "倖存；存活；撐過"
@@ -164,8 +164,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to fall down suddenly",
     "chinese": "倒塌；崩塌",
-    "sentence": "A: Why is the parking garage closed to all employees today? B: Engineers are worried that part of the second floor could __________ after the heavy rain, so they are checking the structure.",
-    "translation": "A：為什麼今天停車場不開放給所有員工？ B：工程師擔心大雨過後二樓有一部分可能會【倒塌】，所以他們正在檢查結構。",
+    "sentence": "A: Why is the parking garage behind our office closed to all employees today, and where are we supposed to park our cars? B: Engineers are worried that part of the second floor could __________ after the heavy rain last weekend, so they are checking the structure today, and staff can use the public parking lot across the street.",
+    "translation": "A：我們辦公室後面的停車場今天為什麼不開放給所有員工？我們應該把車停在哪裡？ B：工程師擔心上週末大雨過後二樓有一部分可能會【倒塌】，所以他們今天正在檢查結構，員工可以使用對街的公共停車場。",
     "lookup": {
      "english": "to fall down suddenly",
      "chinese": "倒塌；崩塌"
@@ -178,8 +178,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to slide by accident and lose your balance",
     "chinese": "滑倒；滑跤",
-    "sentence": "A: Why is there a yellow sign in front of the restroom? B: The cleaner just mopped the floor, and the sign warns people that they might __________ if they walk too quickly.",
-    "translation": "A：洗手間前面為什麼放了一個黃色標誌？ B：清潔人員剛拖完地，這個標誌是提醒大家走太快可能會【滑倒】。",
+    "sentence": "A: Why is there a large yellow warning sign in front of the restroom on the third floor, right next to the meeting rooms? B: The cleaner just mopped the floor, and it is still very wet, so the sign warns people that they might __________ and fall if they walk too quickly or carry heavy things past the area.",
+    "translation": "A：三樓洗手間前面、就在會議室旁邊，為什麼放了一個大大的黃色警告標誌？ B：清潔人員剛拖完地，地板還很濕，所以這個標誌是提醒大家，如果走太快或搬重物經過這裡，可能會【滑倒】摔跤。",
     "lookup": {
      "english": "to slide by accident and lose your balance",
      "chinese": "滑倒；滑跤"
@@ -192,8 +192,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to drop down to the ground by accident",
     "chinese": "跌落；掉落；跌倒",
-    "sentence": "A: Why do we need to wear hard hats on the construction site? B: Tools sometimes __________ from the higher floors, and a helmet can protect your head from serious harm.",
-    "translation": "A：為什麼我們在工地必須戴安全帽？ B：工具有時會從較高的樓層【掉落】，而安全帽可以保護你的頭部免受嚴重傷害。",
+    "sentence": "A: Why do all the visitors and workers need to wear hard hats as soon as they enter the construction site, even for a short tour? B: Workers on the upper floors sometimes drop small tools, and these tools can __________ from a great height, so a helmet protects your head from serious harm, even if you only stay for a few minutes.",
+    "translation": "A：為什麼所有訪客和工人一進入工地就必須戴安全帽，即使只是短暫參觀也一樣？ B：上層樓的工人有時會掉落小工具，這些工具可能從很高的地方【掉落】，所以即使你只待幾分鐘，安全帽也能保護你的頭部免受嚴重傷害。",
     "lookup": {
      "english": "to drop down to the ground by accident",
      "chinese": "跌落；掉落；跌倒"
@@ -207,8 +207,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to hit your foot on something and almost fall",
     "chinese": "絆倒；絆到",
-    "sentence": "A: Can you move these cables away from the walkway in the office? B: Sure, someone could __________ over them and get hurt, and the safety inspector is coming this afternoon.",
-    "translation": "A：你能把這些電線從辦公室走道移開嗎？ B：當然，可能會有人被它們【絆倒】而受傷，而且安全檢查員今天下午就要來了。",
+    "sentence": "A: Could you please move these long computer cables away from the walkway before the visitors from the head office arrive this afternoon? B: Sure, I'll do it right now, because someone could easily __________ over them and get hurt, and the safety inspector is also coming at three o'clock to check every department on this floor.",
+    "translation": "A：總公司的訪客今天下午抵達之前，能請你把這些長長的電腦線從走道移開嗎？ B：當然，我馬上處理，因為很容易有人被它們【絆倒】而受傷，而且安全檢查員三點也會來檢查這層樓的每個部門。",
     "lookup": {
      "english": "to hit your foot on something and almost fall",
      "chinese": "絆倒；絆到"
@@ -221,8 +221,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "not paying enough attention; not careful",
     "chinese": "粗心的；不小心的",
-    "sentence": "A: How did the forklift hit the shelf in the warehouse? B: The driver was __________ and looked at his phone while he was driving, so the manager gave him a written warning.",
-    "translation": "A：堆高機怎麼會撞上倉庫的貨架？ B：司機很【粗心】，開車時一直看手機，所以經理給了他書面警告。",
+    "sentence": "A: How did the forklift hit the metal shelf in the warehouse, and were any of the boxes of new phones damaged? B: The driver was __________ and kept looking at his phone while he was driving, so he hit the shelf and broke six boxes, and the manager gave him a written warning this morning.",
+    "translation": "A：堆高機怎麼會撞上倉庫的金屬貨架？有任何一箱新手機受損嗎？ B：司機很【粗心】，開車時一直看手機，所以撞上了貨架並弄壞了六箱貨，經理今天早上給了他書面警告。",
     "lookup": {
      "english": "not paying enough attention; not careful",
      "chinese": "粗心的；不小心的"
@@ -235,8 +235,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "likely to hurt someone or cause harm",
     "chinese": "危險的",
-    "sentence": "A: Is it okay to store these chemicals next to the heater? B: No, that is very __________ because they can catch fire easily, so please move them to the cool storage room.",
-    "translation": "A：可以把這些化學藥品放在暖氣旁邊嗎？ B：不行，那非常【危險】，因為它們很容易起火，所以請把它們移到陰涼的儲藏室。",
+    "sentence": "A: Is it okay to store these boxes of cleaning chemicals next to the heater in the back room until the supplier picks them up next week? B: No, that is very __________ because those chemicals can catch fire easily when they get hot, so please move them to the cool storage room downstairs and keep the door locked.",
+    "translation": "A：在供應商下週來取貨之前，可以把這幾箱清潔化學藥品放在後面房間的暖氣旁邊嗎？ B：不行，那非常【危險】，因為那些化學藥品變熱時很容易起火，所以請把它們移到樓下陰涼的儲藏室，並把門鎖好。",
     "lookup": {
      "english": "likely to hurt someone or cause harm",
      "chinese": "危險的"
@@ -249,8 +249,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "very bad and worrying",
     "chinese": "嚴重的",
-    "sentence": "A: Was the accident at the factory last week __________? B: Fortunately not, because the two workers only had small cuts, but the machine was badly damaged and needs to be replaced.",
-    "translation": "A：上週工廠的事故【嚴重】嗎？ B：幸好不嚴重，兩名員工只受了小割傷，但機器嚴重損壞，需要更換。",
+    "sentence": "A: I heard there was an accident at the factory last week. Was it __________, and will production be stopped for a long time? B: Fortunately not, because the two workers only had small cuts on their hands, but the machine was badly damaged, so the production line will be closed until a new one arrives next Monday.",
+    "translation": "A：我聽說上週工廠發生了事故。情況【嚴重】嗎？生產線會停工很久嗎？ B：幸好不嚴重，那兩名員工手上只有小割傷，但機器嚴重損壞，所以生產線會關閉，直到下週一新機器送達為止。",
     "lookup": {
      "english": "very bad and worrying",
      "chinese": "嚴重的"
@@ -263,8 +263,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "small and not very serious",
     "chinese": "輕微的；次要的",
-    "sentence": "A: Do we need to cancel the company trip because of the bus accident? B: No, it was only a __________ accident, and the bus company is sending another vehicle, so we can still leave on time.",
-    "translation": "A：因為遊覽車的事故，我們需要取消員工旅遊嗎？ B：不用，那只是個【輕微的】事故，而且客運公司會另派一輛車，所以我們還是可以準時出發。",
+    "sentence": "A: Do we need to cancel the company trip to the mountains because of the bus accident this morning, or can we still go? B: No, it was only a __________ accident in the parking lot and nobody was hurt, and the bus company is sending another vehicle, so we can still leave on time after lunch.",
+    "translation": "A：因為今天早上遊覽車發生事故，我們需要取消公司的山區旅遊嗎？還是仍然可以去？ B：不用，那只是停車場裡一起【輕微的】事故，沒有人受傷，而且客運公司會另派一輛車，所以我們午餐後還是可以準時出發。",
     "lookup": {
      "english": "small and not very serious",
      "chinese": "輕微的；次要的"
@@ -277,8 +277,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adj.",
     "definition": "not expected; surprising",
     "chinese": "意外的；出乎意料的",
-    "sentence": "A: Why did the shipment from Japan arrive three days late? B: There was an __________ storm along the coast, and the ship had to wait in the port until the weather improved.",
-    "translation": "A：從日本來的貨為什麼晚了三天才到？ B：沿海出現了一場【出乎意料的】暴風雨，船只好在港口等到天氣好轉。",
+    "sentence": "A: Why did the shipment of electronic parts from Japan arrive three days late, and did our customers complain about the delay? B: There was an __________ storm along the coast, so the ship had to wait in the port until the weather improved, and we sent an email to every customer to explain the situation.",
+    "translation": "A：從日本來的那批電子零件為什麼晚了三天才到？我們的客戶有抱怨延誤嗎？ B：沿海出現了一場【出乎意料的】暴風雨，所以船只好在港口等到天氣好轉，我們也寄了電子郵件給每位客戶說明情況。",
     "lookup": {
      "english": "not expected; surprising",
      "chinese": "意外的；出乎意料的"
@@ -291,8 +291,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "quickly and without any warning",
     "chinese": "突然地",
-    "sentence": "A: What happened during the presentation this morning? B: The lights __________ went out in the whole building, and we had to finish the meeting in the dark.",
-    "translation": "A：今天早上的簡報發生了什麼事？ B：整棟大樓的燈【突然】熄滅了，我們只好在黑暗中把會議開完。",
+    "sentence": "A: What happened during the sales presentation this morning? Some people said the meeting room became very dark. B: The lights __________ went out in the whole building because of a power problem, so we had to finish the meeting with only the light from our laptops, and the clients thought it was quite funny.",
+    "translation": "A：今天早上的業務簡報發生了什麼事？有些人說會議室變得很暗。 B：因為電力問題，整棟大樓的燈【突然】熄滅了，所以我們只好靠筆電的光把會議開完，客戶們覺得還蠻好笑的。",
     "lookup": {
      "english": "quickly and without any warning",
      "chinese": "突然地"
@@ -305,8 +305,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "luckily; used before good news",
     "chinese": "幸運地；幸好",
-    "sentence": "A: I heard that a delivery truck hit the front gate of our office this morning. B: Yes, it did, but __________, nobody was standing near the gate, and the driver was not hurt either.",
-    "translation": "A：我聽說今天早上有輛送貨卡車撞上了我們辦公室的大門。 B：對，是有這件事，但【幸好】當時沒有人站在大門附近，司機也沒有受傷。",
+    "sentence": "A: I heard that a delivery truck hit the front gate of our office building early this morning. Was anyone hurt in the accident? B: Yes, the gate was badly damaged, but __________, nobody was standing near it at that time, and the driver was not hurt either, so we only need to call a repair company today.",
+    "translation": "A：我聽說今天一大早有輛送貨卡車撞上了我們辦公大樓的大門。有人在事故中受傷嗎？ B：有，大門嚴重損壞，但【幸好】當時沒有人站在附近，司機也沒有受傷，所以我們今天只需要打電話找維修公司就好。",
     "lookup": {
      "english": "luckily; used before good news",
      "chinese": "幸運地；幸好"
@@ -319,8 +319,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "sadly; used before bad news",
     "chinese": "不幸地；遺憾地",
-    "sentence": "A: Will Ms. Lin be able to give her speech at the conference tomorrow? B: __________, she hurt her ankle while she was jogging, so her assistant will speak in her place.",
-    "translation": "A：林小姐明天能在研討會上演講嗎？ B：【很遺憾】，她慢跑時扭傷了腳踝，所以會由她的助理代替她發言。",
+    "sentence": "A: Will Ms. Lin still be able to give her speech at the marketing conference tomorrow morning, or should we change the schedule? B: __________, she hurt her ankle while she was jogging in the park last night, so her assistant will speak in her place, and we don't need to change the schedule at all.",
+    "translation": "A：林小姐明天早上還能在行銷研討會上演講嗎？還是我們應該更改議程？ B：【很遺憾】，她昨晚在公園慢跑時扭傷了腳踝，所以會由她的助理代替她發言，我們完全不需要更改議程。",
     "lookup": {
      "english": "sadly; used before bad news",
      "chinese": "不幸地；遺憾地"
@@ -333,8 +333,8 @@ window.FLASHCARD_UNITS = {
     "pos": "adv.",
     "definition": "with close attention so you don't make mistakes or get hurt",
     "chinese": "小心地；仔細地",
-    "sentence": "A: Is there anything I should know before I use the new cutting machine? B: Read the instructions __________ and always wear safety glasses, because small pieces of metal can fly out.",
-    "translation": "A：在使用新的切割機之前，有什麼我該知道的嗎？ B：要【仔細地】閱讀說明書，並且一定要戴護目鏡，因為小金屬碎片可能會飛出來。",
+    "sentence": "A: Is there anything important I should know before I start using the new cutting machine in the workshop for the first time? B: Yes, read the instructions __________ before you turn it on, and always wear safety glasses and gloves, because small pieces of metal can fly out and hurt your eyes or hands.",
+    "translation": "A：我第一次使用工作坊裡那台新的切割機之前，有什麼重要的事情是我應該知道的嗎？ B：有，開機前要【仔細地】閱讀說明書，而且一定要戴上護目鏡和手套，因為小金屬碎片可能會飛出來傷到你的眼睛或手。",
     "lookup": {
      "english": "with close attention so you don't make mistakes or get hurt",
      "chinese": "小心地；仔細地"
@@ -347,8 +347,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a person who sees something happen",
     "chinese": "目擊者；證人",
-    "sentence": "A: Did anyone see the car hit the bicycle outside our store? B: Yes, one of our cashiers was a __________, and she has already told the police exactly what she saw.",
-    "translation": "A：有人看到那輛車在我們店外撞上腳踏車嗎？ B：有，我們的一位收銀員是【目擊者】，她已經把看到的情況詳細告訴警方了。",
+    "sentence": "A: Did anyone see the car hit the bicycle outside our store this afternoon? The police officer wants to speak to someone who was there. B: Yes, one of our cashiers was a __________ because she was standing by the window, and she has already told the police officer exactly what she saw before the ambulance came.",
+    "translation": "A：今天下午有人看到那輛車在我們店外撞上腳踏車嗎？警察想找當時在場的人談一談。 B：有，我們的一位收銀員是【目擊者】，因為她當時站在窗邊，她已經在救護車來之前把看到的情況詳細告訴警察了。",
     "lookup": {
      "english": "a person who sees something happen",
      "chinese": "目擊者；證人"
@@ -361,8 +361,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to tell a person in charge about something that happened",
     "chinese": "報告；通報",
-    "sentence": "A: What should I do if I see broken equipment in the lab? B: You should __________ it to the safety officer immediately, and you should put a \"Do Not Use\" sign on it.",
-    "translation": "A：如果我在實驗室看到損壞的設備，我該怎麼做？ B：你應該立刻向安全負責人【通報】，並且在設備上貼上「請勿使用」的標示。",
+    "sentence": "A: What should I do if I see broken equipment in the laboratory, especially if other people are planning to use it later in the day? B: You should __________ the problem to the safety officer immediately, and you should also put a \"Do Not Use\" sign on the equipment so that nobody touches it before it is repaired.",
+    "translation": "A：如果我在實驗室看到損壞的設備，尤其是其他人當天稍後還打算使用時，我該怎麼做？ B：你應該立刻向安全負責人【通報】這個問題，並在設備上貼上「請勿使用」的標示，這樣在修好之前就不會有人碰它。",
     "lookup": {
      "english": "to tell a person in charge about something that happened",
      "chinese": "報告；通報"
@@ -375,8 +375,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to try to find out the facts about something",
     "chinese": "調查",
-    "sentence": "A: Does anyone know why the machine on Line 3 caught fire? B: Not yet, but the safety team will __________ the problem this week, and they will share their findings with all staff.",
-    "translation": "A：有人知道三號生產線的機器為什麼起火嗎？ B：還不知道，但安全小組本週會【調查】這個問題，並將調查結果告知全體員工。",
+    "sentence": "A: Does anyone know why the machine on Line 3 caught fire yesterday, and is it safe for the workers to go back to that area? B: Not yet, but the safety team will __________ the problem this week, and they will share their findings with all staff, so please keep Line 3 closed until they finish their report.",
+    "translation": "A：有人知道昨天三號生產線的機器為什麼起火嗎？工人回到那個區域安全嗎？ B：還不知道，但安全小組本週會【調查】這個問題，並將結果告知全體員工，所以在他們完成報告之前，請讓三號生產線保持關閉。",
     "lookup": {
      "english": "to try to find out the facts about something",
      "chinese": "調查"
@@ -389,8 +389,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the reason why something happens",
     "chinese": "原因；起因",
-    "sentence": "A: Have the engineers found out why the elevator stopped between floors? B: Yes, they said the __________ was an electrical problem, and the elevator will be fixed by Friday.",
-    "translation": "A：工程師查出電梯為什麼卡在樓層之間了嗎？ B：查出來了，他們說【原因】是電力問題，電梯會在星期五前修好。",
+    "sentence": "A: Have the engineers found out why the elevator stopped between the fifth and sixth floors yesterday with six people inside? B: Yes, they said the __________ was an electrical problem in the control box, and the elevator will be fixed by Friday, so please use the stairs or the other elevator until then.",
+    "translation": "A：工程師查出昨天電梯為什麼載著六個人卡在五樓和六樓之間了嗎？ B：查出來了，他們說【原因】是控制箱的電力問題，電梯會在星期五前修好，所以在那之前請走樓梯或使用另一部電梯。",
     "lookup": {
      "english": "the reason why something happens",
      "chinese": "原因；起因"
@@ -403,8 +403,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to stop something from happening",
     "chinese": "預防；防止",
-    "sentence": "A: Why are we putting new rubber mats at the entrance? B: The mats will help __________ accidents on rainy days, because the floor near the door gets very wet.",
-    "translation": "A：我們為什麼要在入口放新的橡膠地墊？ B：這些地墊有助於【預防】雨天發生意外，因為門口附近的地板會變得很濕。",
+    "sentence": "A: Why are we putting new rubber mats at the main entrance and in front of the elevators on the first floor this week? B: The mats will help __________ accidents on rainy days, because the floor near the doors gets very wet and slippery, and last month two customers almost fell while they were walking in.",
+    "translation": "A：我們這週為什麼要在一樓正門和電梯前面鋪新的橡膠地墊？ B：這些地墊有助於【預防】雨天發生意外，因為門口附近的地板會變得又濕又滑，上個月就有兩位客戶走進來時差點跌倒。",
     "lookup": {
      "english": "to stop something from happening",
      "chinese": "預防；防止"
@@ -417,8 +417,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the state of being safe from danger or harm",
     "chinese": "安全",
-    "sentence": "A: Do new employees have to attend any training before they start? B: Yes, everyone must attend a __________ workshop on the first day, and they learn how to use the fire extinguishers.",
-    "translation": "A：新進員工開始工作前必須參加任何訓練嗎？ B：要，每個人第一天都必須參加【安全】研習，學習如何使用滅火器。",
+    "sentence": "A: Do new employees have to attend any training before they start working on the production floor, or can they begin right away? B: Everyone must attend a __________ workshop on the first day, where they learn how to use the fire extinguishers, where the emergency exits are, and what to do if someone gets hurt.",
+    "translation": "A：新進員工在生產線開始工作之前必須參加任何訓練嗎？還是可以馬上開始？ B：每個人第一天都必須參加【安全】研習，學習如何使用滅火器、緊急出口在哪裡，以及有人受傷時該怎麼做。",
     "lookup": {
      "english": "the state of being safe from danger or harm",
      "chinese": "安全"
@@ -431,8 +431,8 @@ window.FLASHCARD_UNITS = {
     "pos": "v.",
     "definition": "to get well again after being sick or hurt",
     "chinese": "康復；恢復",
-    "sentence": "A: When will Mr. Chen come back to the office after his car accident? B: His doctor says he needs about two weeks to __________, so we will share his projects until he returns.",
-    "translation": "A：陳先生出車禍後什麼時候會回辦公室？ B：他的醫生說他大約需要兩週時間【康復】，所以在他回來之前我們會分擔他的專案。",
+    "sentence": "A: When will Mr. Chen come back to the office after his car accident, and who is taking care of his projects right now? B: His doctor says he needs about two weeks to __________, so the three of us on his team will share his projects until he returns, and he will answer emails from home when he feels better.",
+    "translation": "A：陳先生出車禍後什麼時候會回辦公室？現在由誰負責他的專案？ B：他的醫生說他大約需要兩週時間【康復】，所以在他回來之前，我們團隊三個人會分擔他的專案，等他感覺好一點時會在家回覆電子郵件。",
     "lookup": {
      "english": "to get well again after being sick or hurt",
      "chinese": "康復；恢復"
@@ -445,8 +445,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "a sudden, strong feeling of surprise or fear after something bad",
     "chinese": "震驚；驚嚇",
-    "sentence": "A: How is the driver who was in the accident on Main Street? B: He was not badly hurt, but he was in __________ for a while, so the paramedics kept him in the ambulance.",
-    "translation": "A：在緬因街出車禍的那位駕駛還好嗎？ B：他沒有受重傷，但有一段時間處於【驚嚇】狀態，所以急救人員讓他待在救護車上。",
+    "sentence": "A: How is the delivery driver who was in the accident on Main Street this morning? I heard his truck was badly damaged. B: He was not badly hurt, but he was in __________ for a while and could not answer questions clearly, so the paramedics kept him in the ambulance until he felt calm enough to talk.",
+    "translation": "A：今天早上在緬因街出車禍的那位送貨司機還好嗎？我聽說他的卡車嚴重損壞。 B：他沒有受重傷，但有一段時間處於【驚嚇】狀態，無法清楚回答問題，所以急救人員讓他待在救護車上，直到他冷靜到可以說話為止。",
     "lookup": {
      "english": "a sudden, strong feeling of surprise or fear after something bad",
      "chinese": "震驚；驚嚇"
@@ -459,8 +459,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "medical care for an illness or injury",
     "chinese": "治療",
-    "sentence": "A: Does our company insurance pay for hospital costs after a work accident? B: Yes, it covers all medical __________ for injuries at work, but you must submit the forms within thirty days.",
-    "translation": "A：公司的保險會支付工作意外後的醫療費用嗎？ B：會，它涵蓋所有工作傷害的醫療【治療】費用，但你必須在三十天內遞交表格。",
+    "sentence": "A: Does our company insurance pay for hospital costs if an employee gets hurt in an accident while working at the factory? B: Yes, it covers all medical __________ for injuries at work, including doctor visits and medicine, but you must fill out the claim forms and submit them to the HR office within thirty days.",
+    "translation": "A：如果員工在工廠工作時發生意外受傷，公司的保險會支付醫療費用嗎？ B：會，它涵蓋所有工作傷害的醫療【治療】費用，包括看診和藥品，但你必須填寫理賠表格，並在三十天內交給人資辦公室。",
     "lookup": {
      "english": "medical care for an illness or injury",
      "chinese": "治療"
@@ -473,8 +473,8 @@ window.FLASHCARD_UNITS = {
     "pos": "n.",
     "definition": "the cars and other vehicles on a road",
     "chinese": "交通；車流",
-    "sentence": "A: Should we leave now for the airport to meet the clients? B: Yes, there was an accident on the bridge, so the __________ will be heavy, and we don't want to be late.",
-    "translation": "A：我們現在該出發去機場接客戶了嗎？ B：對，橋上發生了事故，所以【交通】會很擁擠，我們可不想遲到。",
+    "sentence": "A: Should we leave for the airport now to meet the clients from Singapore, or can we finish this report first? B: We should leave right away, because there was an accident on the bridge an hour ago, so the __________ will be heavy all the way to the airport, and we don't want the clients to wait for us.",
+    "translation": "A：我們現在該出發去機場接新加坡來的客戶了嗎？還是可以先把這份報告完成？ B：我們應該馬上出發，因為一小時前橋上發生了事故，所以到機場一路上【交通】都會很擁擠，我們可不想讓客戶等我們。",
     "lookup": {
      "english": "the cars and other vehicles on a road",
      "chinese": "交通；車流"

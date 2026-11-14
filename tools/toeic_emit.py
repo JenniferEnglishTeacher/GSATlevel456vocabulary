@@ -42,7 +42,7 @@ for k in sorted(T, key=int):
     VOC, MC, theme = G["VOCAB"], G["MCQS"], G["theme"]
     for i, e in enumerate(VOC):
         assert e["sentence"].count("{{BLANK}}") == 1, (g, e["word"])
-        assert e["sentence"].startswith("A: ") and " B: " in e["sentence"] and len(e["sentence"].split()) > 20, (g, e["word"], "dialogue")
+        assert e["sentence"].startswith("A: ") and " B: " in e["sentence"] and len(e["sentence"].split()) >= 40, (g, e["word"], "dialogue must be at least 40 words")
         assert "【" in e["cn"] and " B：" in e["cn"] and e["collocation"] and e["en_def"] and e["cn_def"], (g, e["word"])
     assert len(MC) == 30, (g, "need 30 MCQs")
     for n, q in enumerate(MC):
