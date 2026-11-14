@@ -5,13 +5,14 @@ tools/toeic/topics.json : {"<topic>": {"theme", "source", "VOCAB": [...], "MCQS"
                collocation ("TOEIC collocation 中文"), forms (irregular verbs: "fall – fell – fallen")
   MCQS entry:  q (two sentences, one _____), options (4), answer (0-3), vocabIndex
 The definitions, dialogues, translations, collocations and questions were written for this site.
+A: lines are read by a male voice and B: lines by a female voice (dialogue-tts.js).
 Writes tc-unitN.html/-data.js (flashcards + MCQ practice), toeic-topicN.html/-data.js/-app.js (online quiz),
 tc-dashboard-data.js, and the "tc" zone + "toeic" book in books.js. Pages are made from the 4000 Essential Words
 Book 3 Unit 1 pages, which build.py already generated from the shared quiz page."""
 import json, re, os, html
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-V = "20261115a"
+V = "20261115b"
 GAS = "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"
 BOOK, BACK = "TOEIC Themed Vocabulary", "TOEIC Themed Vocabulary"
 BLANK = "__________"
@@ -77,6 +78,7 @@ for k in sorted(T, key=int):
     p = rep(p, 'href="index.html#w3">Unit Board · 4000 Essential Words Book 3<', f'href="index.html#tc">Unit Board · {BACK}<')
     p = rep(p, "w3-unit1-data.js", f"tc-unit{g}-data.js")
     p = re.sub(r'(app|books)\.js\?v=\w+', lambda m: f"{m.group(1)}.js?v={V}", p)
+    p = rep(p, f'<script src="app.js?v={V}"></script>', f'<script src="app.js?v={V}"></script>\n  <script src="dialogue-tts.js?v={V}"></script>')
     wr(f"tc-unit{g}.html", p)
     base = f"toeic-topic{g}"
     nv, nq = len(VOC), len(MC)
@@ -94,6 +96,7 @@ for k in sorted(T, key=int):
         p, n = re.subn(rf'<script src="{base}-{part}\.js(?:\?v=\w+)?">', f'<script src="{base}-{part}.js?v={V}">', p)
         assert n == 1, (base, part)
     p = re.sub(r'books\.js\?v=\w+', f"books.js?v={V}", p)
+    p = rep(p, f'<script src="{base}-app.js?v={V}"></script>', f'<script src="{base}-app.js?v={V}"></script>\n<script src="dialogue-tts.js?v={V}"></script>')
     wr(base + ".html", p)
     wr(base + "-app.js", QA)
     vocab_out = [{x: e[x] for x in ("word", "pos", "cn_def", "en_def", "sentence", "cn")} for e in VOC]
