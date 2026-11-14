@@ -1,9 +1,9 @@
 """Teacher handouts for TOEIC topics: python3 tools/toeic_docs.py <outdir> <topic> [<topic> ...]
 For each topic in tools/toeic/topics.json writes into <outdir>:
-  TOEIC_TopicNN_<Name>_Grid.docx  — A4 landscape, 7-column grid (word | POS | English | 中文 | dialogue with blank | 中譯 | collocation),
+  TOEIC_TopicNN_<Name>_Grid.docx  — A4 landscape, 7-column grid (widths WID) (word | POS | English | 中文 | dialogue with blank | 中譯 | collocation),
                                      then the 30 MCQs and the answer key
   TOEIC_TopicNN_<Name>_Grid.pdf   — same, via LibreOffice (if soffice is installed)
-  TOEIC_TopicNN_<Name>_GoogleDoc.html — same content as HTML, for uploading to Google Drive as a Google Doc (text/html converts)"""
+  TOEIC_TopicNN_<Name>_GoogleDoc.html — same content as HTML, for uploading to Google Drive as a Google Doc (text/html converts; @page = A4 landscape, fixed column widths)"""
 import json, os, re, sys, html, subprocess
 from docx import Document
 from docx.shared import Pt, Cm, RGBColor
@@ -17,7 +17,7 @@ OUT = sys.argv[1]
 os.makedirs(OUT, exist_ok=True)
 L = "ABCD"
 HD = ["Word / Phrase", "POS", "English Definition", "中文意思", "Sample Dialogue (fill in the blank)", "中文翻譯（【 】內為目標字）", "TOEIC Collocation 搭配詞"]
-WID = [3.0, 1.3, 4.0, 2.6, 7.0, 5.6, 3.8]
+WID = [2.8, 1.2, 3.6, 2.4, 7.8, 5.9, 3.6]  # cm, sums to 27.3 = A4 landscape minus 1.2 cm margins
 
 
 def lines(s, sep):  # "A: ... B: ..." -> two lines
@@ -79,15 +79,16 @@ for k in sys.argv[2:]:
         print("pdf skipped:", ex)
     # ---- Google Doc HTML
     e = html.escape
-    trs = "".join("<tr>" + f"<td><b>{e(r[0])}</b></td>" + "".join(f"<td>{e(v).replace(chr(10), '<br>')}</td>" for v in r[1:]) + "</tr>\n" for r in rows(G))
+    W = lambda j: f' style="width:{WID[j]}cm"'
+    trs = "".join("<tr>" + f"<td{W(0)}><b>{e(r[0])}</b></td>" + "".join(f"<td{W(j)}>{e(v).replace(chr(10), '<br>')}</td>" for j, v in enumerate(r[1:], 1)) + "</tr>\n" for r in rows(G))
     qs = "".join(f"<p><b>{n}.</b> {e(q['q'])}<br>" + "&nbsp;&nbsp;&nbsp;".join(f"({L[j]}) {e(o)}" for j, o in enumerate(q["options"])) + "</p>\n"
                  for n, q in enumerate(G["MCQS"], 1))
     key = "&nbsp;&nbsp; ".join(f"{n}.{L[q['answer']]}" for n, q in enumerate(G["MCQS"], 1))
     open(stem.replace("_Grid", "_GoogleDoc") + ".html", "w", encoding="utf8").write(
-        f"""<html><head><meta charset="utf-8"><style>body{{font-family:Arial;font-size:10pt}}table{{border-collapse:collapse}}
+        f"""<html><head><meta charset="utf-8"><style>@page{{size:29.7cm 21cm;margin:1.2cm}}body{{font-family:Arial;font-size:10pt}}table{{border-collapse:collapse;width:27.3cm;table-layout:fixed}}
 td,th{{border:1px solid #999;padding:4px;vertical-align:top;font-size:9.5pt}}th{{background:#1F4E79;color:#fff}}</style></head><body>
 <h1>{e(title)}</h1><p>{e(src)}</p><h2>Part 1 · Vocabulary Grid 單字表</h2>
-<table><tr>{''.join(f'<th>{e(h)}</th>' for h in HD)}</tr>
+<table width="100%"><colgroup>{''.join(f'<col style="width:{w}cm">' for w in WID)}</colgroup><tr>{''.join(f'<th{W(j)}>{e(h)}</th>' for j, h in enumerate(HD))}</tr>
 {trs}</table><h2>Part 2 · {len(G['MCQS'])} Vocabulary MCQs 單字選擇題</h2>
 {qs}<h3>Answer Key 解答</h3><p>{key}</p></body></html>""")
     print("wrote", stem)
