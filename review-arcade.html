@@ -106,6 +106,18 @@ main{max-width:980px;margin:0 auto;padding-block:18px 40px;padding-left:max(16px
 .wcard .ex{margin-top:6px;font-weight:600;color:var(--ink)}
 .wcard .ex i{font-style:normal;color:var(--muted);display:block}
 .wcard .row{margin-top:8px}
+.optdefs{margin-top:10px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:6px 12px}
+.optdefs h4{margin:4px 0 6px;font-size:14px;color:var(--muted)}
+.od{display:flex;gap:10px;align-items:flex-start;padding:7px 0;border-top:1px dashed var(--line)}
+.od:first-of-type{border-top:0}
+.od.right{background:#eef7f2;border-radius:8px;padding:7px 6px}
+.od.picked{background:#fdeeea;border-radius:8px;padding:7px 6px}
+.od .say{flex:none;border:1px solid var(--line);background:#fff;border-radius:999px;width:32px;height:32px;cursor:pointer;font-size:15px}
+.od .say:hover{background:#eef7f2}
+.od .w{font-weight:900;color:var(--felt)}
+.od .p{color:var(--muted);margin:0 6px;font-weight:700}
+.od .zh{color:#b5432f;font-weight:900}
+.od .en{display:block;font-weight:600;color:var(--ink);font-size:14px}
 .qactions{display:flex;flex-wrap:wrap;gap:10px;justify-content:space-between;align-items:center;margin-top:14px}
 /* summary */
 .statrow{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:12px 0}
@@ -516,6 +528,10 @@ function wordCard(c){
     ${c.s?`<div class="ex">${esc(c.s)}<i>${esc(c.t||'')}</i></div>`:''}
     <div class="row"><button class="mini" type="button" data-say="w">🔊 單字</button>${c.s?'<button class="mini" type="button" data-say="s">🔊 例句</button>':''}<a class="mini" href="${href}" target="_blank" rel="noopener">🗂 開字卡</a>${onList?'<button class="mini" type="button" data-drop="1">✓ 已經會了，移出複習清單</button>':''}</div></div>`;
 }
+function optionDefs(q,picked){
+  return `<div class="optdefs"><h4>四個選項 All options</h4>${q.options.map((o,i)=>{const x=o.card;const cls=x.w===q.card.w?' right':(o===picked?' picked':'');
+    return `<div class="od${cls}"><button class="say" type="button" data-opt="${i}" aria-label="Play ${esc(x.w)}">🔊</button><div><span class="w">${esc(x.w)}</span><span class="p">${esc(x.p||'')}</span><span class="zh">${esc(x.c||'')}</span>${x.d?`<span class="en">${esc(x.d)}</span>`:''}</div></div>`;}).join('')}</div>`;
+}
 function answer(o,btn){
   if(state.answered)return;state.answered=true;
   const q=state.q,c=q.card;
@@ -530,6 +546,8 @@ function answer(o,btn){
     state.wrong++;state.streak=0;state.wrongQs.push({card:c,type:q.type});
     $('#qFeedback').innerHTML=`<div class="feedback no"><strong>正確答案：${esc(q.field==='c'?c.c:c.w)}</strong>（你選的是 ${esc(o.label)}）${wordCard(c)}</div>`;
   }
+  $('#qFeedback').insertAdjacentHTML('beforeend',optionDefs(q,o));
+  $('#qFeedback').querySelectorAll('[data-opt]').forEach(b=>b.onclick=()=>speak(q.options[+b.dataset.opt].card.w,.85));
   $('#qFeedback').querySelectorAll('[data-say]').forEach(b=>b.onclick=()=>speak(b.dataset.say==='w'?c.w:c.s,b.dataset.say==='w'?.85:.95));
   const drop=$('#qFeedback').querySelector('[data-drop]');
   if(drop)drop.onclick=()=>{try{localStorage.setItem(STORE_KEY,JSON.stringify(readStore(STORE_KEY,[]).filter(k=>k!==c.key)));}catch(e){}drop.textContent='已移出清單（下次闖關就不會再考）';drop.disabled=true;};

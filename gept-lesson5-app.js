@@ -290,9 +290,9 @@ function selectMcqOption(idx) {
     let def = "";
     if (lk) {
       const senses = (lk.combined && lk.combined.length > 1) ? lk.combined : [lk];
-      def = senses.map(s => `${s.pos} ${s.cn_def}`).join("；");
+      def = senses.map(s => `${s.pos} ${s.cn_def}${s.en_def ? `<span style="display:block;color:#3a352c;">${s.en_def}</span>` : ""}`).join("");
     }
-    defListHtml += `<li><strong>${letters[i]}. ${opt}</strong> — ${def}</li>`;
+    defListHtml += `<li style="display:flex;gap:8px;align-items:flex-start;margin-bottom:6px;"><button type="button" class="opt-say" data-say="${String(opt).replace(/"/g, "&quot;")}" title="Listen / 播放" style="flex:none;border:1px solid #d9d2c3;background:#fff;border-radius:999px;width:30px;height:30px;cursor:pointer;font-size:14px;line-height:1;">🔊</button><span><strong>${letters[i]}. ${opt}</strong> — ${def}</span></li>`;
   });
 
   const vocabEntry = (typeof item.vocabIndex === "number")
@@ -312,6 +312,7 @@ function selectMcqOption(idx) {
     <ul class="option-def-list">${defListHtml}</ul>
     ${fullSentenceHtml}
   `;
+  feedback.querySelectorAll(".opt-say").forEach(b => b.addEventListener("click", () => speak(b.dataset.say, 0.85)));
   feedback.classList.remove("hidden");
   const next = document.getElementById("p2-next-btn");
   next.textContent = gameEarned ? "🎮 玩小遊戲 Play the game!" : "下一題 Next";
