@@ -84,9 +84,8 @@
 
   function send(data) {
     if (!enabled) return Promise.resolve(false);
-    return post(data, true)
-      .catch(() => post(data, false)) // some browsers refuse keepalive requests: try once more without it
-      .catch(() => { queueItem(data); return false; });
+    // One request only (no keepalive): a retried request could log the same test twice.
+    return post(data, false).catch(() => { queueItem(data); return false; });
   }
 
   let flushing = false;
