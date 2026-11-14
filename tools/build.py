@@ -99,6 +99,16 @@ def patch_quiz_app(qapp, base):
                        "const correct = [target].concat(v.alts || []).some(t => norm(typed) === norm(t));")):
         assert qapp.count(old) == 1, (base, old)
         qapp = qapp.replace(old, new_)
+    # MCQ feedback: every option gets a 🔊 button, POS, Chinese and English definition.
+    _old_def='      def = senses.map(s => `${s.pos} ${s.cn_def}`).join("；");'
+    _new_def='      def = senses.map(s => `${s.pos} ${s.cn_def}${s.en_def ? `<span style="display:block;color:#3a352c;">${s.en_def}</span>` : ""}`).join("");'
+    _old_li='    defListHtml += `<li><strong>${letters[i]}. ${opt}</strong> — ${def}</li>`;'
+    _new_li='    defListHtml += `<li style="display:flex;gap:8px;align-items:flex-start;margin-bottom:6px;"><button type="button" class="opt-say" data-say="${String(opt).replace(/"/g, "&quot;")}" title="Listen / 播放" style="flex:none;border:1px solid #d9d2c3;background:#fff;border-radius:999px;width:30px;height:30px;cursor:pointer;font-size:14px;line-height:1;">🔊</button><span><strong>${letters[i]}. ${opt}</strong> — ${def}</span></li>`;'
+    _old_end='    ${fullSentenceHtml}\n  `;\n  feedback.classList.remove("hidden");'
+    _new_end='    ${fullSentenceHtml}\n  `;\n  feedback.querySelectorAll(".opt-say").forEach(b => b.addEventListener("click", () => speak(b.dataset.say, 0.85)));\n  feedback.classList.remove("hidden");'
+    for old, new_ in ((_old_def, _new_def), (_old_li, _new_li), (_old_end, _new_end)):
+        if qapp.count(old) == 1:
+            qapp = qapp.replace(old, new_)
     return qapp
 
 
