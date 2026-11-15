@@ -2485,7 +2485,12 @@ window.VOCAB_ZONES = {
    33,
    34,
    35,
-   36
+   36,
+   37,
+   38,
+   39,
+   40,
+   41
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2523,7 +2528,12 @@ window.VOCAB_ZONES = {
    "33": "Bored 感到無聊",
    "34": "Boring 乏味的",
    "35": "Borrow 借用",
-   "36": "Break 休息"
+   "36": "Break 休息",
+   "37": "Building 建築",
+   "38": "Business 商業",
+   "39": "Busy 忙碌",
+   "40": "Buy 購買",
+   "41": "Cafe 咖啡館"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }
