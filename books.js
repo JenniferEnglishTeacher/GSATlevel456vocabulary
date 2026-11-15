@@ -2544,7 +2544,12 @@ window.VOCAB_ZONES = {
    93,
    94,
    95,
-   96
+   96,
+   140,
+   141,
+   142,
+   143,
+   144
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2641,7 +2646,12 @@ window.VOCAB_ZONES = {
    "93": "Culture 文化",
    "94": "Curtain 窗簾",
    "95": "Daily Routine 日常作息",
-   "96": "Damage 損壞"
+   "96": "Damage 損壞",
+   "140": "Festival 節慶",
+   "141": "Fish 魚",
+   "142": "Fishing 釣魚",
+   "143": "Flowchart 流程圖",
+   "144": "Flowers 花卉"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }

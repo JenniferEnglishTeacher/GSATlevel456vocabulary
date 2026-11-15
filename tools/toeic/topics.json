@@ -59535,5 +59535,3219 @@
     "vocabIndex": 33
    }
   ]
+ },
+ "140": {
+  "theme": "Festival 節慶",
+  "source": "https://www.examword.com/group-topic/festival",
+  "VOCAB": [
+   {
+    "word": "celebration",
+    "pos": "n.",
+    "en_def": "a special event or party held because something good has happened",
+    "cn_def": "慶祝；慶祝活動",
+    "sentence": "A: Why is the office kitchen full of balloons and boxes of cake this afternoon, and why did the manager ask everyone to stop work at four? B: The company won its biggest contract of the year last week, so the boss is holding a small {{BLANK}} for the whole sales team before the long weekend begins.",
+    "cn": "A：為什麼辦公室的茶水間今天下午擺滿了氣球和一盒盒蛋糕，而且經理為什麼要大家四點停止工作？ B：公司上週贏得了今年最大的一份合約，所以老闆要在長週末開始前為整個業務團隊舉辦一場小型【慶祝會】。",
+    "collocation": "hold a celebration for the team 為團隊舉辦慶祝活動"
+   },
+   {
+    "word": "parade",
+    "pos": "n.",
+    "en_def": "a public event in which people walk or ride through the streets to celebrate something",
+    "cn_def": "遊行",
+    "sentence": "A: Why are the buses taking a different route through the city center this Saturday morning, and will the shops on Main Street still be open? B: The city is holding a big {{BLANK}} with marching bands and decorated trucks along Main Street from nine to noon, so the road will be closed, but most shops will open as usual.",
+    "cn": "A：為什麼這週六早上公車要改道穿過市中心，而且主街上的商店還會營業嗎？ B：市政府從九點到中午要在主街上舉辦一場盛大的【遊行】，有樂隊和裝飾過的卡車，所以道路會封閉，不過大部分商店還是會照常營業。",
+    "collocation": "watch the parade along the main street 觀看主街上的遊行"
+   },
+   {
+    "word": "ceremony",
+    "pos": "n.",
+    "en_def": "a formal event held to mark an important occasion",
+    "cn_def": "典禮；儀式",
+    "sentence": "A: Will the new factory start production on Monday, or do we still need to wait for the final safety check from the government inspectors? B: Production starts on Monday, but first there will be a short opening {{BLANK}} at eight o'clock, where the mayor will cut a red ribbon and the CEO will thank all the workers.",
+    "cn": "A：新工廠星期一會開始生產嗎？還是我們仍然要等政府檢查員做最後的安全檢查？ B：星期一會開始生產，不過八點會先舉行一場簡短的開幕【典禮】，市長會剪綵，執行長也會感謝所有員工。",
+    "collocation": "attend the opening ceremony 出席開幕典禮"
+   },
+   {
+    "word": "carnival",
+    "pos": "n.",
+    "en_def": "a large public festival with music, dancing and parades in the streets",
+    "cn_def": "嘉年華會；狂歡節",
+    "sentence": "A: Why did the hotel ask us to book our rooms for the sales trip to Brazil so early, even though the meeting isn't until late February? B: That week the whole city holds a famous {{BLANK}} with street parties, music and huge numbers of visitors, so hotel rooms get very expensive and sell out months before.",
+    "cn": "A：為什麼飯店要我們這麼早就預訂巴西業務出差的房間，明明會議要到二月底才舉行？ B：那一週整座城市會舉辦著名的【嘉年華會】，有街頭派對、音樂和大批遊客，所以飯店房間會變得非常貴，而且好幾個月前就會被訂光。",
+    "collocation": "join the street carnival 參加街頭嘉年華"
+   },
+   {
+    "word": "fair",
+    "pos": "n.",
+    "en_def": "a large event where companies show and sell their products, or an outdoor event with games and food",
+    "cn_def": "展覽會；市集；園遊會",
+    "sentence": "A: Where did you find so many new suppliers for our gift shop this year, and how did you manage to meet them all in only two days? B: I went to the big trade {{BLANK}} at the convention center last month, where hundreds of companies showed their products, so I could compare prices and talk to everyone in one place.",
+    "cn": "A：你今年是在哪裡為我們的禮品店找到這麼多新供應商的？你又是怎麼在短短兩天內見到他們所有人的？ B：我上個月去了會展中心的大型貿易【展覽會】，那裡有數百家公司展示他們的產品，所以我能在同一個地方比較價格並和每個人洽談。",
+    "collocation": "attend a trade fair 參加商展"
+   },
+   {
+    "word": "tradition",
+    "pos": "n.",
+    "en_def": "a custom or belief that has been passed down for a long time",
+    "cn_def": "傳統；慣例",
+    "sentence": "A: Why does everyone in the office bring a small gift to the meeting room on the last Friday before the New Year holiday? B: It's a {{BLANK}} that started when the company first opened twenty years ago, so each person draws a name from a box and gives a present to that coworker to say thank you.",
+    "cn": "A：為什麼辦公室裡每個人在新年假期前的最後一個星期五都會帶一份小禮物到會議室？ B：這是公司二十年前剛成立時就開始的【傳統】，所以每個人會從箱子裡抽一個名字，然後送禮物給那位同事表示感謝。",
+    "collocation": "follow a family tradition 遵循家族傳統"
+   },
+   {
+    "word": "cultural",
+    "pos": "adj.",
+    "en_def": "related to the customs, art and ideas of a group of people",
+    "cn_def": "文化的",
+    "sentence": "A: What kind of activities have you planned for the visiting managers from our Japan office during their free afternoon next week? B: Since they're interested in local history, I've booked a {{BLANK}} tour of the old temple district, where a guide will explain the customs, art and festivals of the area in simple English.",
+    "cn": "A：下週日本分公司的經理們來訪時，你為他們的空閒下午安排了哪些活動？ B：因為他們對當地歷史很感興趣，我預訂了老廟區的【文化】導覽，導遊會用簡單的英文解說這個地區的習俗、藝術和節慶。",
+    "collocation": "a cultural exchange program 文化交流計畫"
+   },
+   {
+    "word": "religious",
+    "pos": "adj.",
+    "en_def": "connected with religion or faith",
+    "cn_def": "宗教的；虔誠的",
+    "sentence": "A: Why is the restaurant near our office closed for three days this week, even though it is usually open every day of the year? B: The owner and his family are taking part in an important {{BLANK}} festival at their temple, so they will pray, prepare special food and welcome guests until Thursday evening.",
+    "cn": "A：為什麼我們辦公室附近的餐廳這週要休息三天，明明它平常一年到頭每天都營業？ B：老闆和他的家人要在他們的廟裡參加一場重要的【宗教】節慶，所以他們會祈禱、準備特別的食物並招待客人，直到星期四晚上。",
+    "collocation": "a religious holiday 宗教節日"
+   },
+   {
+    "word": "holiday",
+    "pos": "n.",
+    "en_def": "a day when most people do not work, often to celebrate something",
+    "cn_def": "假日；節日",
+    "sentence": "A: Is the warehouse open next Monday, or should I tell our customers that their orders will arrive later than usual? B: Next Monday is a national {{BLANK}}, so the warehouse will be closed and no trucks will run, which means you should tell customers that their packages will arrive on Tuesday or Wednesday instead.",
+    "cn": "A：倉庫下週一有開嗎？還是我應該告訴客戶他們的訂單會比平常晚到？ B：下週一是國定【假日】，所以倉庫會關閉，也沒有卡車出車，這表示你應該告訴客戶他們的包裹會改在星期二或星期三送達。",
+    "collocation": "a public holiday 國定假日"
+   },
+   {
+    "word": "gathering",
+    "pos": "n.",
+    "en_def": "a meeting of people for a social or special reason",
+    "cn_def": "聚會；集會",
+    "sentence": "A: Why did you reserve the large room at the back of the restaurant for Friday night, and how many people are you expecting to come? B: It's a small {{BLANK}} for our department to welcome the three new engineers, so about twenty people will come for dinner, and the restaurant has agreed to give us a group discount.",
+    "cn": "A：你為什麼預訂了餐廳後面的大包廂在星期五晚上使用？你預計會有多少人來？ B：這是我們部門為了歡迎三位新工程師而辦的小型【聚會】，所以大約會有二十個人來吃晚餐，而餐廳也同意給我們團體折扣。",
+    "collocation": "a family gathering 家庭聚會"
+   },
+   {
+    "word": "crowd",
+    "pos": "n.",
+    "en_def": "a large number of people in one place",
+    "cn_def": "人群；群眾",
+    "sentence": "A: Why are you leaving the office so early to go to the night market festival when it doesn't start until seven o'clock? B: Last year a huge {{BLANK}} filled the streets by six thirty, and we couldn't even get near the best snack shops, so this time I want to arrive early and find a good spot.",
+    "cn": "A：夜市節慶七點才開始，你為什麼這麼早就要離開辦公室過去？ B：去年六點半街上就擠滿了一大群【人潮】，我們連最好的小吃店都靠近不了，所以這次我想早點到，找個好位置。",
+    "collocation": "a large crowd of visitors 大批遊客人潮"
+   },
+   {
+    "word": "fireworks",
+    "pos": "n.",
+    "en_def": "small objects that explode in the sky with bright colors and loud noises",
+    "cn_def": "煙火",
+    "sentence": "A: Why did the hotel manager say that rooms facing the river cost more on New Year's Eve than on any other night of the year? B: At midnight the city sets off amazing {{BLANK}} over the river for fifteen minutes, so guests in those rooms can watch the bright lights from their windows without standing in the cold.",
+    "cn": "A：為什麼飯店經理說面向河邊的房間在跨年夜比一年中任何一晚都貴？ B：午夜時分市政府會在河的上空施放十五分鐘壯觀的【煙火】，所以住在那些房間的客人可以從窗戶欣賞燦爛的光芒，不必站在寒冷的戶外。",
+    "collocation": "watch the fireworks display 觀賞煙火表演"
+   },
+   {
+    "word": "music",
+    "pos": "n.",
+    "en_def": "sounds made by voices or instruments in a way that is pleasant to hear",
+    "cn_def": "音樂",
+    "sentence": "A: What do you think made the company picnic so much more fun this year than the one we had last spring? B: The planning team hired a local band to play live {{BLANK}} all afternoon, so people sang and danced together, and even the shy new staff members joined in and started talking to everyone.",
+    "cn": "A：你覺得今年公司野餐比去年春天那次有趣這麼多的原因是什麼？ B：籌備小組請了一個當地樂團整個下午現場演奏【音樂】，所以大家一起唱歌跳舞，就連害羞的新同事也加入了，並開始和每個人聊天。",
+    "collocation": "play live music 現場演奏音樂"
+   },
+   {
+    "word": "dance",
+    "pos": "n.",
+    "en_def": "a set of movements done to music",
+    "cn_def": "舞蹈；跳舞",
+    "sentence": "A: Why have the young workers in the marketing team been staying in the meeting room after work every evening this month? B: They are practicing a short {{BLANK}} for the company's year-end party, and they want to surprise the managers with their moves, so they meet for an hour each night to rehearse.",
+    "cn": "A：為什麼行銷團隊的年輕員工這個月每天晚上下班後都留在會議室裡？ B：他們正在為公司尾牙練習一段簡短的【舞蹈】，想用他們的舞步給主管們一個驚喜，所以他們每晚聚在一起排練一個小時。",
+    "collocation": "perform a traditional dance 表演傳統舞蹈"
+   },
+   {
+    "word": "costume",
+    "pos": "n.",
+    "en_def": "special clothes worn to look like someone or something else, often at a festival or show",
+    "cn_def": "（表演或節慶的）服裝；戲服",
+    "sentence": "A: Why is Jenny wearing a long red dress and a gold crown at the reception desk this morning instead of her normal uniform? B: The shopping mall is holding a special event for children today, so all the staff were asked to wear a {{BLANK}} from a famous story to make the young visitors smile.",
+    "cn": "A：為什麼珍妮今天早上在接待櫃台穿著紅色長裙、戴著金色皇冠，而不是她平常的制服？ B：購物中心今天為孩子們舉辦一場特別活動，所以所有員工都被要求穿上著名故事中的【服裝】，讓小朋友們開心。",
+    "collocation": "wear a holiday costume 穿節日服裝"
+   },
+   {
+    "word": "float",
+    "pos": "n.",
+    "en_def": "a large decorated vehicle that moves slowly in a parade",
+    "cn_def": "（遊行的）花車",
+    "sentence": "A: Why did our company spend so much money on flowers, lights and a large wooden boat this month? B: We are building a {{BLANK}} for the city's spring parade, and it will be pulled by a truck along the main road, so thousands of people will see our company's name and logo on it.",
+    "cn": "A：為什麼我們公司這個月花了這麼多錢在花卉、燈飾和一艘大型木船上？ B：我們正在為市政府的春季遊行製作一輛【花車】，它會由卡車拉著沿主要道路前進，所以會有成千上萬的人看到上面我們公司的名稱和標誌。",
+    "collocation": "design a parade float 設計遊行花車"
+   },
+   {
+    "word": "food stall",
+    "pos": "n.",
+    "en_def": "a small table or shop where food is sold, usually outdoors",
+    "cn_def": "小吃攤；食物攤位",
+    "sentence": "A: How are you going to sell our new rice crackers to more people before they appear in supermarkets next spring? B: I've rented a small {{BLANK}} at the weekend night festival near the train station, so thousands of visitors can taste the crackers for free, and we can collect their opinions at the same time.",
+    "cn": "A：在明年春天我們的新米餅上架超市之前，你打算怎麼把它賣給更多人？ B：我在火車站附近的週末夜間節慶租了一個小型【小吃攤】，讓成千上萬的遊客可以免費試吃米餅，同時我們也能收集他們的意見。",
+    "collocation": "set up a food stall at the market 在市集擺小吃攤"
+   },
+   {
+    "word": "vendor",
+    "pos": "n.",
+    "en_def": "a person who sells things, often in the street",
+    "cn_def": "小販；攤販；賣方",
+    "sentence": "A: Who sold you those delicious grilled corn and sweet potatoes that you shared with the team after the festival last night? B: A friendly street {{BLANK}} was cooking them beside the temple gate, and since he only charged fifty dollars each, I bought enough for everyone who stayed late to finish the report.",
+    "cn": "A：昨晚節慶結束後你和團隊分享的那些美味烤玉米和地瓜是跟誰買的？ B：一位親切的街頭【小販】在廟門旁邊烤，而且因為每個只賣五十元，我就買了足夠的份量給每個留下來加班完成報告的人。",
+    "collocation": "a street vendor selling snacks 賣小吃的街頭小販"
+   },
+   {
+    "word": "feast",
+    "pos": "n.",
+    "en_def": "a large special meal for many people",
+    "cn_def": "盛宴；宴席",
+    "sentence": "A: Why did the hotel kitchen order so much fish, pork, chicken and fruit for tomorrow night's event in the main hall? B: The owner is holding a big {{BLANK}} for two hundred guests to celebrate the hotel's fiftieth birthday, so the chefs will cook twelve dishes and serve them on long tables.",
+    "cn": "A：為什麼飯店廚房為明晚在大廳的活動訂了這麼多魚、豬肉、雞肉和水果？ B：老闆要為兩百位賓客舉辦一場盛大的【宴席】來慶祝飯店五十週年，所以廚師們會煮十二道菜，擺在長桌上供應。",
+    "collocation": "prepare a holiday feast 準備節日盛宴"
+   },
+   {
+    "word": "lantern",
+    "pos": "n.",
+    "en_def": "a light inside a container made of paper, glass or metal",
+    "cn_def": "燈籠；提燈",
+    "sentence": "A: Why is the hotel lobby full of round paper lights in red and yellow, and will they stay up until the end of the month? B: No, they will come down on Sunday night, because they are only for the festival this week, and each guest can write a wish on a paper {{BLANK}} and hang it near the front desk.",
+    "cn": "A：為什麼飯店大廳掛滿了紅色和黃色的圓形紙燈，而且會一直掛到月底嗎？ B：不會，它們星期天晚上就會拆下來，因為只是為了這週的節慶，每位客人都可以在紙【燈籠】上寫下願望，然後掛在櫃台附近。",
+    "collocation": "light a paper lantern 點亮紙燈籠"
+   },
+   {
+    "word": "decorate",
+    "pos": "v.",
+    "en_def": "to make something look more attractive by adding things to it",
+    "cn_def": "裝飾；佈置",
+    "sentence": "A: What should the new staff do on Friday afternoon to get the office ready for the holiday party with our biggest clients? B: Please ask them to {{BLANK}} the reception area and the meeting room with flowers, small lights and colored ribbons, so everything looks bright and welcoming when the guests arrive at six.",
+    "cn": "A：新進員工星期五下午應該做些什麼，讓辦公室為和大客戶的節日派對做好準備？ B：請他們用花、小燈和彩色緞帶【裝飾】接待區和會議室，讓客人六點到達時，一切看起來都明亮又溫馨。",
+    "collocation": "decorate the office for the holidays 為節日佈置辦公室"
+   },
+   {
+    "word": "exhibit",
+    "pos": "v.",
+    "en_def": "to show something to the public, for example in a museum or show",
+    "cn_def": "展出；展示",
+    "sentence": "A: Why is the local art museum so busy this week, and why are so many tour buses parked outside the front gate? B: For the city's arts festival, the museum will {{BLANK}} more than one hundred paintings by young local artists until Sunday, so schools and travel agencies are bringing large groups to see them.",
+    "cn": "A：為什麼當地美術館這週這麼忙，而且為什麼有這麼多遊覽車停在大門外？ B：為了配合城市藝術節，美術館到星期天為止會【展出】一百多幅當地年輕藝術家的畫作，所以學校和旅行社都帶大批團體來參觀。",
+    "collocation": "exhibit new products at the show 在展覽會上展出新產品"
+   },
+   {
+    "word": "performance",
+    "pos": "n.",
+    "en_def": "the act of singing, dancing, playing music or acting in front of people",
+    "cn_def": "表演；演出",
+    "sentence": "A: Did you enjoy the opening night of the music festival, or was it too busy to see the stage from your seats? B: We had great seats near the front, and the singers gave a wonderful {{BLANK}} that lasted almost two hours, so everyone in our group stood up and clapped at the end.",
+    "cn": "A：你喜歡音樂節的開幕夜嗎？還是人太多，從你們的座位看不到舞台？ B：我們的座位很好，靠近前面，歌手們帶來了一場將近兩小時的精彩【演出】，所以結束時我們團裡的每個人都站起來鼓掌。",
+    "collocation": "give a live performance 進行現場演出"
+   },
+   {
+    "word": "outdoor",
+    "pos": "adj.",
+    "en_def": "happening or used outside, not in a building",
+    "cn_def": "戶外的；露天的",
+    "sentence": "A: Where are we having the company's summer festival this year, and should I bring an umbrella in case it rains? B: We're having it in the big park by the river because it's an {{BLANK}} event with games and food, so you should bring an umbrella and some sunscreen, just in case the weather changes.",
+    "cn": "A：今年公司的夏日慶典在哪裡舉辦？我要不要帶把傘以防下雨？ B：我們會在河邊的大公園舉辦，因為這是有遊戲和食物的【戶外】活動，所以你應該帶把傘和一些防曬乳，以防天氣變化。",
+    "collocation": "an outdoor concert 戶外音樂會"
+   },
+   {
+    "word": "annual",
+    "pos": "adj.",
+    "en_def": "happening once every year",
+    "cn_def": "一年一度的；每年的",
+    "sentence": "A: Why is the hotel fully booked for the second weekend of October, even though it is not a holiday period? B: The town holds its {{BLANK}} wine festival that weekend, and it has become very famous over the past thirty years, so visitors from all over the country book rooms several months in advance.",
+    "cn": "A：為什麼飯店十月的第二個週末全部客滿，明明那不是假期？ B：小鎮那個週末會舉辦【一年一度的】葡萄酒節，而且過去三十年來這個節慶變得非常有名，所以全國各地的遊客都會提前好幾個月訂房。",
+    "collocation": "the annual company picnic 一年一度的公司野餐"
+   },
+   {
+    "word": "seasonal",
+    "pos": "adj.",
+    "en_def": "happening or needed only during a particular time of year",
+    "cn_def": "季節性的；季節的",
+    "sentence": "A: Why is the café near the station hiring five extra workers this month when it usually has only three staff members? B: The town's winter festival brings thousands of tourists every December, so the owner needs some {{BLANK}} workers to help serve hot drinks and snacks until the busy period ends in January.",
+    "cn": "A：為什麼車站附近的咖啡廳這個月要多雇五名員工，明明平常只有三名員工？ B：小鎮的冬季節慶每年十二月都會吸引數千名遊客，所以老闆需要一些【季節性】員工幫忙供應熱飲和點心，直到一月忙碌期結束。",
+    "collocation": "hire seasonal workers 雇用季節性員工"
+   },
+   {
+    "word": "lively",
+    "pos": "adj.",
+    "en_def": "full of energy, activity and excitement",
+    "cn_def": "熱鬧的；活潑的",
+    "sentence": "A: How was the street festival in the old part of town last Saturday night, and would you recommend it to our visiting clients? B: Yes, it was very {{BLANK}}, with bands playing on every corner, children laughing and people chatting at busy tables, so our clients would really enjoy the friendly and exciting atmosphere.",
+    "cn": "A：上週六晚上老城區的街頭節慶怎麼樣？你會推薦給來訪的客戶嗎？ B：會，那裡非常【熱鬧】，每個街角都有樂團演奏，孩子們笑著，人們在擠滿人的桌邊聊天，所以我們的客戶一定會很喜歡那種友善又令人興奮的氣氛。",
+    "collocation": "a lively atmosphere 熱鬧的氣氛"
+   },
+   {
+    "word": "colorful",
+    "pos": "adj.",
+    "en_def": "having many bright colors",
+    "cn_def": "色彩繽紛的；豐富多彩的",
+    "sentence": "A: Why did the designer choose bright red, yellow and blue for the new poster, when our company usually uses only gray and white? B: The poster is for the spring festival, and she wanted a happy, {{BLANK}} design that people would notice from far away, so the event would attract more families and young visitors.",
+    "cn": "A：為什麼設計師在新海報上選用鮮紅、黃和藍色，明明我們公司平常只用灰色和白色？ B：這張海報是為了春季節慶，她想要一個快樂又【色彩繽紛】的設計，讓人從遠處就能注意到，好讓活動吸引更多家庭和年輕遊客。",
+    "collocation": "colorful decorations 色彩繽紛的裝飾"
+   },
+   {
+    "word": "joyful",
+    "pos": "adj.",
+    "en_def": "very happy, or making people feel very happy",
+    "cn_def": "歡欣的；令人高興的",
+    "sentence": "A: How did the staff feel when the manager announced that everyone would get an extra week of holiday after the busy festival season? B: The whole office became very {{BLANK}}, and people started clapping, laughing and hugging each other, because they had worked long hours for months and really needed a rest.",
+    "cn": "A：經理宣布忙碌的節慶旺季過後每個人都能多放一週假時，員工們感覺如何？ B：整個辦公室變得非常【歡欣】，大家開始鼓掌、大笑並互相擁抱，因為他們好幾個月都工作很長時間，真的很需要休息。",
+    "collocation": "a joyful celebration 歡樂的慶祝活動"
+   },
+   {
+    "word": "commemorate",
+    "pos": "v.",
+    "en_def": "to do something special to remember an important person or event",
+    "cn_def": "紀念；慶祝",
+    "sentence": "A: Why is the bank putting up a large stone sign in front of its main office downtown next month? B: The bank wants to {{BLANK}} its one hundredth year in business, so the sign will show the date it first opened, and there will also be a short speech and a free concert for customers.",
+    "cn": "A：為什麼銀行下個月要在市中心總行前面立一塊大石碑？ B：銀行想要【紀念】營業一百週年，所以石碑上會刻上它首次開業的日期，而且還會有簡短的致詞和為顧客舉辦的免費音樂會。",
+    "collocation": "commemorate the company's anniversary 紀念公司週年"
+   },
+   {
+    "word": "ritual",
+    "pos": "n.",
+    "en_def": "a set of actions always done in the same way, often for religious or special reasons",
+    "cn_def": "儀式；例行公事",
+    "sentence": "A: Why does the team leader always ring a small bell and offer fruit at the front door before a new shop opens? B: It's an old {{BLANK}} in this area that people believe brings good luck and many customers, so he follows the same steps every time, even though he knows some younger staff find it unusual.",
+    "cn": "A：為什麼組長在新店開幕前總是在門口搖小鈴並供奉水果？ B：這是這個地區的一種古老【儀式】，人們相信它能帶來好運和許多顧客，所以他每次都按照同樣的步驟進行，即使他知道有些年輕員工覺得這很不尋常。",
+    "collocation": "a traditional ritual 傳統儀式"
+   },
+   {
+    "word": "ticket",
+    "pos": "n.",
+    "en_def": "a piece of paper or a code that lets you enter an event or travel",
+    "cn_def": "票；門票",
+    "sentence": "A: How can our clients from Singapore get into the jazz festival on Saturday night, since it's their first time in the city? B: I've already bought a {{BLANK}} for each of them online, so they only need to show the code on their phones at the front gate, and a staff member will take them to their seats.",
+    "cn": "A：我們來自新加坡的客戶星期六晚上要怎麼進入爵士音樂節？這是他們第一次來這座城市。 B：我已經在網路上幫他們每人買了一張【門票】，所以他們只要在大門口出示手機上的條碼，工作人員就會帶他們到座位。",
+    "collocation": "buy a ticket online 線上購票"
+   },
+   {
+    "word": "host",
+    "pos": "v.",
+    "en_def": "to organize an event and welcome the guests or people who take part",
+    "cn_def": "主辦；主持；招待",
+    "sentence": "A: Why is the city building a new stage and hundreds of extra parking spaces near the harbor this year? B: The city will {{BLANK}} an international music festival next summer, and organizers expect more than fifty thousand visitors over three days, so it needs much more space for performers, cars and buses.",
+    "cn": "A：為什麼市政府今年要在港口附近興建新舞台和數百個額外的停車位？ B：市政府明年夏天將【主辦】一場國際音樂節，主辦單位預計三天內會有超過五萬名遊客，所以需要更多空間給表演者、汽車和巴士。",
+    "collocation": "host an international event 主辦國際活動"
+   },
+   {
+    "word": "tourist",
+    "pos": "n.",
+    "en_def": "a person who travels to a place for fun",
+    "cn_def": "觀光客；遊客",
+    "sentence": "A: Why does the information center near the train station stay open until ten o'clock at night during the lantern festival? B: Every {{BLANK}} who arrives late needs maps, bus times and hotel information, so the city keeps the center open longer to help visitors from other countries find their way around safely.",
+    "cn": "A：為什麼火車站附近的旅客服務中心在燈會期間營業到晚上十點？ B：每位晚到的【觀光客】都需要地圖、公車時刻和飯店資訊，所以市政府延長服務中心的營業時間，幫助來自其他國家的訪客安全地找到路。",
+    "collocation": "a popular tourist attraction 熱門觀光景點"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The team finished the project two weeks early. The manager ordered pizza and cake for a small _____ in the meeting room.",
+    "options": [
+     "celebration",
+     "tourist",
+     "vendor",
+     "ticket"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Main Street will be closed on Saturday morning. Thousands of people will watch the _____ of bands and dancers move through the city.",
+    "options": [
+     "feast",
+     "parade",
+     "ticket",
+     "lantern"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The new library will officially open next Monday. The mayor will cut a ribbon during a short _____ at the front entrance.",
+    "options": [
+     "crowd",
+     "vendor",
+     "ceremony",
+     "costume"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Over two hundred companies showed their products at the trade _____ last week. Our sales team collected many new business cards there.",
+    "options": [
+     "lantern",
+     "tourist",
+     "feast",
+     "fair"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Every December, the staff exchange small gifts at the office party. This _____ began when the company first opened thirty years ago.",
+    "options": [
+     "crowd",
+     "ticket",
+     "tradition",
+     "vendor"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Students from ten countries will join the _____ exchange program this summer. They will learn about local food, music and customs.",
+    "options": [
+     "cultural",
+     "seasonal",
+     "joyful",
+     "colorful"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The bank will be closed on Monday because it is a national _____. All online services will still work as usual.",
+    "options": [
+     "ritual",
+     "costume",
+     "lantern",
+     "holiday"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The staff will _____ the lobby with flowers and small lights next week. They want the hotel to look cheerful for the New Year.",
+    "options": [
+     "exhibit",
+     "decorate",
+     "commemorate",
+     "host"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "About thirty relatives came to my grandmother's house for dinner. It was the biggest family _____ we have had in years.",
+    "options": [
+     "gathering",
+     "ticket",
+     "parade",
+     "vendor"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The temple holds _____ services every morning, and people come to pray for their families' health. Visitors must take off their shoes inside.",
+    "options": [
+     "seasonal",
+     "colorful",
+     "annual",
+     "religious"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Please arrive at the stadium early on the night of the concert. A large _____ is expected, and the gates will close at seven.",
+    "options": [
+     "costume",
+     "crowd",
+     "lantern",
+     "ritual"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "At midnight, bright _____ lit up the sky above the river. Families cheered as the loud bangs echoed across the city.",
+    "options": [
+     "ticket",
+     "vendor",
+     "fireworks",
+     "ceremony"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Because the weather is so nice, the manager chose _____ seating for the lunch event. Everyone will eat at tables on the roof garden.",
+    "options": [
+     "religious",
+     "joyful",
+     "annual",
+     "outdoor"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Every child at the Halloween party wore a _____. My son dressed up as a pirate with a black hat and a sword.",
+    "options": [
+     "costume",
+     "crowd",
+     "holiday",
+     "feast"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The museum will _____ more than fifty old photos of the city this month. Visitors can see them for free on weekends.",
+    "options": [
+     "decorate",
+     "host",
+     "exhibit",
+     "commemorate"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "My uncle sells grilled sausages at the night market every weekend. His small _____ is always surrounded by hungry customers.",
+    "options": [
+     "parade",
+     "food stall",
+     "ceremony",
+     "holiday"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The company holds its _____ meeting for shareholders in May. This is the only time each year when all the owners meet together.",
+    "options": [
+     "annual",
+     "outdoor",
+     "lively",
+     "cultural"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "A street _____ near the station sells hot sweet potatoes in winter. Many office workers buy one on their way home.",
+    "options": [
+     "holiday",
+     "ritual",
+     "vendor",
+     "celebration"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The chefs worked all day to prepare twelve dishes for the wedding. Guests enjoyed a huge _____ of seafood, meat and fruit.",
+    "options": [
+     "parade",
+     "tourist",
+     "tradition",
+     "feast"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The farm hires _____ workers every autumn to pick apples. Most of them leave again when the harvest ends in November.",
+    "options": [
+     "religious",
+     "seasonal",
+     "colorful",
+     "joyful"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "During the festival, children carried a paper _____ with a small candle inside. The soft light made the dark streets look magical.",
+    "options": [
+     "crowd",
+     "holiday",
+     "lantern",
+     "gathering"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "A statue was built in the town square to _____ the soldiers who died in the war. Many people leave flowers there every year.",
+    "options": [
+     "decorate",
+     "commemorate",
+     "exhibit",
+     "host"
+    ],
+    "answer": 1,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The actors received a long round of applause after the show. Critics called it the best _____ of the theater season.",
+    "options": [
+     "performance",
+     "lantern",
+     "vendor",
+     "ticket"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The night market is quiet on Mondays, but it becomes very _____ on weekends. Music, laughter and shouting sellers fill the streets.",
+    "options": [
+     "annual",
+     "religious",
+     "seasonal",
+     "lively"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Before every important meeting, the director drinks green tea and reads the news quietly. This morning _____ helps her stay calm.",
+    "options": [
+     "tourist",
+     "ritual",
+     "parade",
+     "vendor"
+    ],
+    "answer": 1,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The designer added bright red, yellow and green flags to the stage. The _____ decorations made the hall look cheerful.",
+    "options": [
+     "annual",
+     "outdoor",
+     "colorful",
+     "religious"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "You must show your _____ at the gate to enter the festival. Children under six can enter for free.",
+    "options": [
+     "crowd",
+     "ceremony",
+     "feast",
+     "ticket"
+    ],
+    "answer": 3,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Our city will _____ the international trade conference next year. Hotels expect thousands of business visitors from around the world.",
+    "options": [
+     "host",
+     "commemorate",
+     "decorate",
+     "exhibit"
+    ],
+    "answer": 0,
+    "vocabIndex": 32
+   },
+   {
+    "q": "Each summer, thousands of foreign visitors come to the island. The local government is building a new _____ information center near the port.",
+    "options": [
+     "costume",
+     "ritual",
+     "feast",
+     "tourist"
+    ],
+    "answer": 3,
+    "vocabIndex": 33
+   },
+   {
+    "q": "Everyone cheered and hugged when the team won the national award. It was a truly _____ moment for the whole company.",
+    "options": [
+     "joyful",
+     "outdoor",
+     "annual",
+     "seasonal"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   }
+  ]
+ },
+ "141": {
+  "theme": "Fish 魚",
+  "source": "https://www.examword.com/group-topic/fish",
+  "VOCAB": [
+   {
+    "word": "essential",
+    "pos": "adj.",
+    "en_def": "very important and necessary",
+    "cn_def": "必要的；不可或缺的",
+    "sentence": "A: Why does the new seafood restaurant downtown send its kitchen staff to a two-day training course before they start working with the fresh fish? B: Knowing how to clean and cut fish safely is {{BLANK}} for the job, so the owner wants every new cook to learn the right skills before the restaurant opens next month.",
+    "cn": "A：為什麼市中心那家新的海鮮餐廳要讓廚房員工在開始處理新鮮魚貨前，先去上兩天的訓練課程？ B：懂得如何安全地清理和切魚是這份工作【不可或缺的】，所以老闆希望每位新廚師在下個月餐廳開幕前學會正確的技巧。",
+    "collocation": "an essential part of a healthy diet 健康飲食中不可或缺的一部分"
+   },
+   {
+    "word": "lauded",
+    "pos": "adj.",
+    "en_def": "highly praised by many people",
+    "cn_def": "備受讚揚的；廣受好評的",
+    "sentence": "A: Why is it so hard to get a table at the little fish restaurant near the harbor, even on a rainy Tuesday night in the middle of winter? B: Its head chef is widely {{BLANK}} for his grilled salmon, and since a famous food magazine wrote about him last month, people have been booking tables weeks in advance.",
+    "cn": "A：為什麼港口附近那家小魚料理餐廳這麼難訂到位子，連冬天下雨的星期二晚上都一樣？ B：它的主廚以烤鮭魚廣受【讚揚】，而且自從上個月一本知名美食雜誌報導他之後，大家都提前好幾週訂位。",
+    "collocation": "a highly lauded chef 備受讚譽的主廚"
+   },
+   {
+    "word": "nutrient",
+    "pos": "n.",
+    "en_def": "a substance in food that helps living things grow and stay healthy",
+    "cn_def": "營養素；養分",
+    "sentence": "A: Why did the company nurse put a poster about eating more fish next to the coffee machine in the staff kitchen last week? B: She says fish contains an important {{BLANK}} called omega-3 that helps the heart and brain, and many of our office workers eat too much fast food during busy weeks.",
+    "cn": "A：為什麼公司護理師上週在員工茶水間的咖啡機旁邊貼了一張多吃魚的海報？ B：她說魚含有一種叫做 Omega-3 的重要【營養素】，有助於心臟和大腦，而我們很多上班族在忙碌的時候都吃太多速食了。",
+    "collocation": "be rich in nutrients 富含營養素"
+   },
+   {
+    "word": "protein",
+    "pos": "n.",
+    "en_def": "a substance in food such as meat, fish and eggs that helps your body grow and repair itself",
+    "cn_def": "蛋白質",
+    "sentence": "A: Why did the fitness center near our office start selling grilled tuna salads at the front desk instead of the sweet snacks it used to offer? B: Many members asked for healthier meals after their workouts, and fish is a great source of {{BLANK}} that helps their muscles recover without adding much fat.",
+    "cn": "A：為什麼我們辦公室附近的健身中心開始在櫃檯賣烤鮪魚沙拉，而不是以前賣的甜食？ B：很多會員要求在運動後吃更健康的餐點，而魚是很好的【蛋白質】來源，能幫助肌肉恢復，又不會增加太多脂肪。",
+    "collocation": "a good source of protein 良好的蛋白質來源"
+   },
+   {
+    "word": "mineral",
+    "pos": "n.",
+    "en_def": "a natural substance such as iron or calcium that the body needs",
+    "cn_def": "礦物質",
+    "sentence": "A: Why does the dietitian at the hospital cafeteria recommend the small fried fish that are served with their bones still in them? B: When you eat the soft bones, you get calcium, which is a {{BLANK}} that keeps your bones and teeth strong, so it is especially good for older patients.",
+    "cn": "A：為什麼醫院餐廳的營養師推薦那種連骨頭一起上桌的炸小魚？ B：吃下柔軟的魚骨時，你會攝取到鈣，那是一種能讓骨骼和牙齒保持強壯的【礦物質】，所以對年長的病人特別好。",
+    "collocation": "vitamins and minerals 維生素和礦物質"
+   },
+   {
+    "word": "component",
+    "pos": "n.",
+    "en_def": "one of the parts that something is made of",
+    "cn_def": "組成部分；成分",
+    "sentence": "A: Why has the frozen food company asked the factory to stop production of its new fish burger until the end of the month? B: The laboratory found that one {{BLANK}} of the sauce, a type of imported oil, did not meet the safety standard, so they need to find another supplier first.",
+    "cn": "A：為什麼冷凍食品公司要求工廠在月底之前暫停生產新的魚堡？ B：實驗室發現醬料的其中一種【成分】，也就是一種進口油，不符合安全標準，所以他們必須先找到另一家供應商。",
+    "collocation": "a key component of the meal 這道餐點的關鍵組成部分"
+   },
+   {
+    "word": "situate",
+    "pos": "v.",
+    "en_def": "to build or put something in a particular place",
+    "cn_def": "使位於；把……設置在",
+    "sentence": "A: Where is the restaurant group planning to open its new seafood restaurant, and why did the managers spend so long looking at different locations? B: They decided to {{BLANK}} it right next to the fishing port, so the chefs can buy fish directly from the boats every morning and customers can enjoy a view of the sea.",
+    "cn": "A：餐飲集團打算在哪裡開新的海鮮餐廳？為什麼經理們花了那麼久時間看不同的地點？ B：他們決定把它【設在】漁港旁邊，這樣廚師每天早上就能直接向漁船買魚，顧客也能欣賞海景。",
+    "collocation": "situate the new office near the station 把新辦公室設在車站附近"
+   },
+   {
+    "word": "tiny",
+    "pos": "adj.",
+    "en_def": "very small",
+    "cn_def": "極小的；微小的",
+    "sentence": "A: Did you enjoy the cooking class at the community center last Saturday, or was it too difficult for beginners like us? B: It was fun, but removing the {{BLANK}} bones from the fish took me almost twenty minutes, because they were so thin that I could hardly see them without my glasses.",
+    "cn": "A：你喜歡上週六在社區中心上的烹飪課嗎？還是對我們這種初學者來說太難了？ B：很好玩，但把魚身上那些【細小的】刺挑出來花了我將近二十分鐘，因為它們細到我不戴眼鏡幾乎看不見。",
+    "collocation": "a tiny piece of fish bone 一小根魚刺"
+   },
+   {
+    "word": "plenty of",
+    "pos": "phr.",
+    "en_def": "a lot of; more than enough",
+    "cn_def": "很多的；充足的",
+    "sentence": "A: Should we order more food for the department's year-end party, or do you think the seafood buffet will be enough for forty people? B: I think we'll be fine, because the hotel will prepare {{BLANK}} grilled fish, shrimp and vegetables, and they can bring out extra dishes quickly if we start running low.",
+    "cn": "A：我們應該為部門的尾牙多訂一些食物嗎？還是你覺得海鮮自助餐夠四十個人吃？ B：我想應該沒問題，因為飯店會準備【大量的】烤魚、蝦子和蔬菜，而且如果快不夠了，他們也能很快端出更多菜。",
+    "collocation": "have plenty of time 有充裕的時間"
+   },
+   {
+    "word": "in spite of",
+    "pos": "prep.",
+    "en_def": "without being stopped by something; although something happened",
+    "cn_def": "儘管；不顧",
+    "sentence": "A: Did the fishing boat tour that our company booked for the overseas clients still go ahead on Sunday morning? B: Yes, {{BLANK}} the strong wind and light rain, the captain said the sea was safe enough, and our clients enjoyed catching their own fish and taking photos of the coast.",
+    "cn": "A：我們公司幫海外客戶預訂的釣魚船之旅，星期天早上還有照常出發嗎？ B：有，【儘管】風很大又下著小雨，船長說海況夠安全，客戶們都很享受自己釣魚和拍攝海岸的照片。",
+    "collocation": "in spite of the bad weather 儘管天氣不好"
+   },
+   {
+    "word": "hectic",
+    "pos": "adj.",
+    "en_def": "very busy and full of activity",
+    "cn_def": "忙亂的；繁忙的",
+    "sentence": "A: How was your first week working at the fish market, and are you getting used to starting work so early in the morning? B: It has been really {{BLANK}}, because restaurant owners arrive at four o'clock and everyone wants the freshest fish at the same time, but I'm learning to work faster.",
+    "cn": "A：你在魚市場工作的第一週怎麼樣？習慣那麼早開始上班了嗎？ B：真的很【忙亂】，因為餐廳老闆們四點就到了，每個人都想同時買到最新鮮的魚，不過我正在學著加快速度。",
+    "collocation": "a hectic schedule 忙碌的行程"
+   },
+   {
+    "word": "enjoyable",
+    "pos": "adj.",
+    "en_def": "pleasant and fun",
+    "cn_def": "愉快的；令人愉悅的",
+    "sentence": "A: How did the team-building day at the lake go, and did the new employees from the Tokyo office join in the activities? B: It was very {{BLANK}}, because everyone tried fishing for the first time, and later we cooked what we caught together, so people from both offices got to know each other well.",
+    "cn": "A：在湖邊舉辦的團隊建立日進行得如何？東京辦公室來的新員工有參加活動嗎？ B：非常【愉快】，因為大家都第一次嘗試釣魚，之後我們一起把釣到的魚煮來吃，所以兩個辦公室的人都彼此熟悉了。",
+    "collocation": "an enjoyable afternoon 愉快的下午"
+   },
+   {
+    "word": "vegan",
+    "pos": "adj.",
+    "en_def": "not using or eating any food that comes from animals",
+    "cn_def": "純素的",
+    "sentence": "A: What should we serve at the lunch meeting with our new partners, since the restaurant we chose is famous mostly for its fish dishes? B: Let's ask the chef to prepare a few {{BLANK}} dishes as well, because two of the partners don't eat meat, fish, eggs or milk, and we want everyone to feel welcome.",
+    "cn": "A：我們和新合作夥伴的午餐會議要點什麼？我們選的那家餐廳主要以魚料理出名。 B：我們也請主廚準備幾道【純素】料理吧，因為有兩位合作夥伴不吃肉、魚、蛋或奶製品，我們希望每個人都覺得受到歡迎。",
+    "collocation": "a vegan menu 純素菜單"
+   },
+   {
+    "word": "find time",
+    "pos": "v.phr.",
+    "en_def": "to make time for something although you are busy",
+    "cn_def": "抽出時間",
+    "sentence": "A: You have been working late every night this month, so how do you still manage to go fishing with your father on weekends? B: I always try to {{BLANK}} for it, even during busy seasons, because sitting by the river with him helps me relax and forget about my work for a few hours.",
+    "cn": "A：你這個月每天晚上都加班，那你週末怎麼還能陪你爸爸去釣魚？ B：即使在忙碌的旺季，我也總是盡量【抽出時間】去，因為和他一起坐在河邊能幫助我放鬆，暫時忘掉工作幾個小時。",
+    "collocation": "find time to exercise 抽出時間運動"
+   },
+   {
+    "word": "cup of tea",
+    "pos": "n.phr.",
+    "en_def": "(not my cup of tea) something you like or enjoy",
+    "cn_def": "喜歡的事物；（某人的）菜",
+    "sentence": "A: Are you coming on the deep-sea fishing trip that the sales department has planned for next Saturday, or do you have other plans? B: Actually, spending eight hours on a small boat isn't really my {{BLANK}}, because I get seasick easily, so I'll join everyone for the seafood dinner afterwards instead.",
+    "cn": "A：你會參加業務部安排在下週六的深海釣魚之旅嗎？還是你有其他計畫？ B：其實在小船上待八個小時真的不是我【喜歡的事】，因為我很容易暈船，所以我會改成之後跟大家一起去吃海鮮晚餐。",
+    "collocation": "not my cup of tea 不是我喜歡的類型"
+   },
+   {
+    "word": "delectably",
+    "pos": "adv.",
+    "en_def": "in a very tasty or delicious way",
+    "cn_def": "美味地；可口地",
+    "sentence": "A: Why did the food critic give the new seafood restaurant on Harbor Street five stars in this morning's newspaper? B: She wrote that the chef's sea bass was {{BLANK}} tender and juicy, and that the service was friendly, so she recommended it to anyone looking for a special dinner with clients or family.",
+    "cn": "A：為什麼那位美食評論家在今天早上的報紙上給港口街那家新海鮮餐廳五顆星？ B：她寫說主廚的鱸魚軟嫩多汁、【美味可口】，服務也很親切，所以推薦給任何想和客戶或家人吃一頓特別晚餐的人。",
+    "collocation": "delectably fresh seafood 美味新鮮的海鮮"
+   },
+   {
+    "word": "inexplicable",
+    "pos": "adj.",
+    "en_def": "impossible to explain or understand",
+    "cn_def": "無法解釋的；費解的",
+    "sentence": "A: Why did the aquarium close its large fish tank to visitors for the whole weekend, right in the middle of the school holiday? B: Several fish became sick for some {{BLANK}} reason, and the staff couldn't find the cause, so they called in an expert to test the water and check every animal carefully.",
+    "cn": "A：為什麼水族館在學校放假期間，整個週末都不讓遊客參觀大型魚缸？ B：有幾條魚因為某種【無法解釋的】原因生病了，工作人員找不到原因，所以請了一位專家來檢測水質並仔細檢查每隻動物。",
+    "collocation": "an inexplicable delay 無法解釋的延誤"
+   },
+   {
+    "word": "bay",
+    "pos": "n.",
+    "en_def": "a part of the sea that is partly surrounded by land",
+    "cn_def": "海灣",
+    "sentence": "A: Where are we taking the visitors from the Singapore office for dinner on Friday evening after the factory tour? B: I've booked a table at a restaurant beside the {{BLANK}}, where the water is calm and the boats come in at sunset, so they can enjoy fresh seafood and a beautiful view.",
+    "cn": "A：星期五傍晚參觀完工廠後，我們要帶新加坡辦公室的訪客去哪裡吃晚餐？ B：我在【海灣】旁邊的一家餐廳訂了位，那裡水面平靜，夕陽時分漁船會進港，所以他們可以享用新鮮海鮮和美麗的景色。",
+    "collocation": "a restaurant overlooking the bay 俯瞰海灣的餐廳"
+   },
+   {
+    "word": "suitable",
+    "pos": "adj.",
+    "en_def": "right or good for a particular person, purpose or situation",
+    "cn_def": "適合的；適當的",
+    "sentence": "A: Why did the event planner reject the riverside park as the place for our company's family fishing day in May? B: She said it wasn't {{BLANK}} for young children, because the river bank is steep and slippery, so she found a quiet lake with a wooden platform and safety fences instead.",
+    "cn": "A：為什麼活動企劃人員否決了把河濱公園當作我們公司五月家庭釣魚日的場地？ B：她說那裡不【適合】小孩子，因為河岸又陡又滑，所以她改找了一個有木製平台和安全圍欄的安靜湖泊。",
+    "collocation": "suitable for children 適合兒童"
+   },
+   {
+    "word": "relieve",
+    "pos": "v.",
+    "en_def": "to make pain, stress or a problem less bad",
+    "cn_def": "減輕；緩解",
+    "sentence": "A: Why do you keep a small fish tank on your desk when the office is already so crowded with files and computers? B: Watching the fish swim slowly helps to {{BLANK}} my stress during long, busy afternoons, and several colleagues say it calms them down too when they stop by to chat.",
+    "cn": "A：辦公室已經堆滿了文件和電腦，為什麼你還在桌上放一個小魚缸？ B：在漫長忙碌的下午看著魚慢慢游，可以幫助【減輕】我的壓力，而且好幾位同事順道過來聊天時也說這讓他們平靜下來。",
+    "collocation": "relieve stress 減輕壓力"
+   },
+   {
+    "word": "netting",
+    "pos": "n.",
+    "en_def": "material made of strings or wires tied together with spaces between them",
+    "cn_def": "網子；網狀物",
+    "sentence": "A: Why did the fish farm by the coast have to close for three days last week, and did it lose a lot of money? B: A storm tore the {{BLANK}} around the fish pens, so hundreds of fish escaped into the sea, and the workers needed time to repair everything before they could restart operations.",
+    "cn": "A：為什麼海邊那座養魚場上週必須關閉三天？他們損失很多錢嗎？ B：一場暴風雨扯破了魚欄周圍的【網子】，數百條魚逃到海裡，工人們需要時間把一切修好才能恢復營運。",
+    "collocation": "protective netting 防護網"
+   },
+   {
+    "word": "hatch",
+    "pos": "v.",
+    "en_def": "(of a baby animal) to come out of an egg",
+    "cn_def": "孵化",
+    "sentence": "A: Why are the scientists at the river research center working such long hours this month, even on weekends and public holidays? B: They are waiting for thousands of salmon eggs to {{BLANK}}, and they must check the water temperature every few hours so that the baby fish survive and can be released into the river.",
+    "cn": "A：為什麼河川研究中心的科學家這個月工作時間這麼長，連週末和國定假日都在上班？ B：他們正在等待數千顆鮭魚卵【孵化】，而且必須每隔幾小時檢查一次水溫，這樣小魚才能存活並被放流到河裡。",
+    "collocation": "eggs hatch in spring 卵在春天孵化"
+   },
+   {
+    "word": "angling",
+    "pos": "n.",
+    "en_def": "the sport or activity of catching fish with a rod and line",
+    "cn_def": "垂釣；釣魚",
+    "sentence": "A: Why is the small hotel by the lake suddenly so popular with business travelers, even though it is far from the city? B: It offers {{BLANK}} lessons on the lake every evening, so guests can relax with a fishing rod after their meetings, and the hotel kitchen will even cook whatever they catch.",
+    "cn": "A：湖邊那家小旅館雖然離市區很遠，為什麼突然在商務旅客之間這麼受歡迎？ B：它每天傍晚在湖上提供【垂釣】課程，所以客人開完會後可以拿著釣竿放鬆一下，飯店廚房甚至會把他們釣到的魚煮來吃。",
+    "collocation": "an angling club 釣魚俱樂部"
+   },
+   {
+    "word": "angler",
+    "pos": "n.",
+    "en_def": "a person who catches fish as a hobby",
+    "cn_def": "釣客；垂釣者",
+    "sentence": "A: Why did the city council put new signs and rubbish bins along the river path near our office building last month? B: The river has become very popular, and on weekends you can see an {{BLANK}} at almost every corner of the path from early morning, but some of them left plastic bags and old fishing lines behind.",
+    "cn": "A：為什麼市議會上個月在我們辦公大樓附近的河濱步道設置了新的告示牌和垃圾桶？ B：這條河變得很熱門，週末從一大早開始，步道幾乎每個角落都能看到【釣客】，但有些人留下了塑膠袋和舊釣線。",
+    "collocation": "a keen angler 熱衷釣魚的人"
+   },
+   {
+    "word": "fanatic",
+    "pos": "n.",
+    "en_def": "a person who is extremely interested in an activity",
+    "cn_def": "狂熱者；迷",
+    "sentence": "A: Why does Mr. Lin from the accounting department always take his vacation in early October, even when the office is busy? B: He is a real fishing {{BLANK}}, and October is the best month to catch tuna off the east coast, so he plans his whole year around that trip and never misses it.",
+    "cn": "A：為什麼會計部的林先生總是在十月初休假，即使辦公室很忙也一樣？ B：他是個不折不扣的釣魚【狂熱者】，而十月是在東海岸外海釣鮪魚最好的月份，所以他整年都圍繞著那趟旅程做計畫，從來不錯過。",
+    "collocation": "a fitness fanatic 健身狂"
+   },
+   {
+    "word": "thrill",
+    "pos": "n.",
+    "en_def": "a strong feeling of excitement and pleasure",
+    "cn_def": "興奮；刺激；快感",
+    "sentence": "A: Why do so many of our customers book the early-morning sea fishing tour, even though it starts at five o'clock and costs quite a lot? B: They love the {{BLANK}} of feeling a big fish pull hard on the line, and many of them say it is the most exciting part of their whole holiday.",
+    "cn": "A：為什麼我們有這麼多顧客預訂清晨的海釣行程，即使它五點就開始而且價格不便宜？ B：他們喜歡感覺到大魚用力拉扯釣線時的那種【刺激感】，很多人說那是整個假期中最令人興奮的部分。",
+    "collocation": "the thrill of victory 勝利的喜悅"
+   },
+   {
+    "word": "pastime",
+    "pos": "n.",
+    "en_def": "something you do for fun in your free time",
+    "cn_def": "消遣；休閒活動",
+    "sentence": "A: What did the retired sales director say he would do with all his free time when he left the company last month? B: He said fishing has always been his favorite {{BLANK}}, so he bought a small boat and plans to spend his mornings on the lake and his afternoons with his grandchildren.",
+    "cn": "A：上個月離開公司的退休業務總監說他要怎麼運用所有的空閒時間？ B：他說釣魚一直是他最喜歡的【消遣】，所以他買了一艘小船，打算早上待在湖上，下午陪孫子孫女。",
+    "collocation": "a popular pastime 受歡迎的消遣"
+   },
+   {
+    "word": "impatient",
+    "pos": "adj.",
+    "en_def": "not willing to wait calmly",
+    "cn_def": "不耐煩的；沒耐心的",
+    "sentence": "A: Why did the customers at table six complain to the manager before their main course had even arrived last night? B: They became {{BLANK}} after waiting almost an hour for their grilled fish, because the kitchen was short of staff, so the manager apologized and gave them free dessert.",
+    "cn": "A：為什麼昨晚六號桌的客人在主菜還沒上之前就向經理抱怨？ B：他們等烤魚等了將近一個小時，變得很【不耐煩】，因為廚房人手不足，所以經理道了歉並招待他們免費甜點。",
+    "collocation": "become impatient with the delay 對延誤感到不耐煩"
+   },
+   {
+    "word": "bucket list",
+    "pos": "n.phr.",
+    "en_def": "a list of things you want to do before you die",
+    "cn_def": "人生願望清單",
+    "sentence": "A: Why did your manager take two weeks off to go to Alaska, when she usually only takes short holidays near home? B: Catching a wild salmon in Alaska has been on her {{BLANK}} for years, and she finally saved enough money and vacation days to make the dream come true this summer.",
+    "cn": "A：為什麼你的經理請兩週假去阿拉斯加？她通常只在家附近短暫度假。 B：在阿拉斯加釣到一條野生鮭魚多年來一直在她的【人生願望清單】上，她終於存夠了錢和假期，今年夏天要實現這個夢想。",
+    "collocation": "be on my bucket list 在我的人生願望清單上"
+   },
+   {
+    "word": "crucial",
+    "pos": "adj.",
+    "en_def": "extremely important",
+    "cn_def": "至關重要的",
+    "sentence": "A: Why does the seafood company check the temperature of its delivery trucks so often during the hot summer months? B: Keeping the fish cold from the port to the supermarket is {{BLANK}}, because even a short time in the heat can make it unsafe to eat and damage the company's good reputation.",
+    "cn": "A：為什麼海鮮公司在炎熱的夏季月份那麼頻繁地檢查送貨卡車的溫度？ B：從港口到超市一路讓魚保持低溫是【至關重要的】，因為即使只在高溫下放一小段時間，也可能讓魚變得不安全，並損害公司的好名聲。",
+    "collocation": "play a crucial role 扮演至關重要的角色"
+   },
+   {
+    "word": "optimal",
+    "pos": "adj.",
+    "en_def": "the best or most suitable",
+    "cn_def": "最佳的；最理想的",
+    "sentence": "A: Why does the fish farm manager check the water in the tanks three times a day, even on Sundays and holidays? B: The fish grow fastest when the water is at the {{BLANK}} temperature of about twenty degrees, so he adjusts the heaters carefully to keep conditions perfect all year round.",
+    "cn": "A：為什麼養魚場經理一天檢查三次魚池的水，連星期天和假日也不例外？ B：魚在水溫約二十度這個【最佳】溫度下長得最快，所以他會小心調整加熱器，讓環境全年都保持完美。",
+    "collocation": "optimal conditions 最佳條件"
+   },
+   {
+    "word": "texture",
+    "pos": "n.",
+    "en_def": "the way food or a surface feels when you eat or touch it",
+    "cn_def": "口感；質地",
+    "sentence": "A: Why did the chef change the cooking method for the cod on the new lunch menu after the staff tasting last Friday? B: Several staff members said the fish was dry and hard, so he now steams it gently to give it a softer {{BLANK}} that melts in your mouth.",
+    "cn": "A：為什麼主廚在上週五員工試吃後，改變了新午餐菜單上鱈魚的烹調方式？ B：有幾位員工說魚又乾又硬，所以他現在用小火慢蒸，讓它有入口即化、更柔軟的【口感】。",
+    "collocation": "a smooth texture 滑順的口感"
+   },
+   {
+    "word": "fussy",
+    "pos": "adj.",
+    "en_def": "difficult to please, especially about food",
+    "cn_def": "挑剔的；難取悅的",
+    "sentence": "A: Why did you choose a simple grilled fish restaurant for the dinner with our Japanese clients instead of the fancy French one downtown? B: Their director is quite {{BLANK}} about food and only eats fresh, plainly cooked dishes, so I thought a place famous for simple seafood would make him happy.",
+    "cn": "A：為什麼你為了和日本客戶的晚餐選了一家簡單的烤魚餐廳，而不是市中心那家高級法式餐廳？ B：他們的總監對食物相當【挑剔】，只吃新鮮、簡單烹調的料理，所以我想一家以簡單海鮮出名的餐廳會讓他開心。",
+    "collocation": "a fussy eater 挑食的人"
+   },
+   {
+    "word": "elusive",
+    "pos": "adj.",
+    "en_def": "difficult to find, catch or achieve",
+    "cn_def": "難以捉摸的；難找到的",
+    "sentence": "A: Why did the TV crew stay at the remote fishing village for almost a month to film the new nature documentary? B: They were trying to film a rare, {{BLANK}} fish that only comes near the surface a few times a year, so they had to wait patiently until the conditions were right.",
+    "cn": "A：為什麼電視團隊在偏遠的漁村待了將近一個月拍攝新的自然紀錄片？ B：他們想拍一種稀有又【難以捉摸的】魚，牠一年只會浮到水面附近幾次，所以他們必須耐心等到條件合適。",
+    "collocation": "an elusive goal 難以達成的目標"
+   },
+   {
+    "word": "stalk",
+    "pos": "v.",
+    "en_def": "to follow an animal quietly in order to catch it",
+    "cn_def": "悄悄跟蹤；潛近（獵物）",
+    "sentence": "A: What was the most interesting part of the nature documentary that the marketing team watched during the lunch break yesterday? B: It showed a large bird that can {{BLANK}} fish in shallow water for several minutes, moving so slowly and quietly that the fish never notice it until it is too late.",
+    "cn": "A：行銷團隊昨天午休時看的自然紀錄片，最有趣的部分是什麼？ B：它介紹了一種大型鳥類，能在淺水中【悄悄跟蹤】魚好幾分鐘，動作又慢又安靜，魚直到為時已晚才察覺牠。",
+    "collocation": "stalk its prey 悄悄跟蹤獵物"
+   },
+   {
+    "word": "marvelous",
+    "pos": "adj.",
+    "en_def": "extremely good; wonderful",
+    "cn_def": "極好的；令人驚嘆的",
+    "sentence": "A: How was the welcome dinner that the hotel prepared for the conference speakers on the first evening of the event? B: It was {{BLANK}}, because the chef served fresh lobster, grilled fish and local vegetables, and all the speakers said it was the best meal they had eaten during their trip.",
+    "cn": "A：飯店在活動第一天晚上為會議講者準備的歡迎晚宴怎麼樣？ B：非常【棒】，因為主廚上了新鮮龍蝦、烤魚和在地蔬菜，所有講者都說那是他們這趟旅程中吃過最好的一餐。",
+    "collocation": "a marvelous view of the sea 美妙的海景"
+   },
+   {
+    "word": "dismay",
+    "pos": "n.",
+    "en_def": "a feeling of worry, disappointment and shock",
+    "cn_def": "沮喪；驚愕；失望",
+    "sentence": "A: Why did the restaurant owner look so upset when she came back from the fish market early this morning? B: To her {{BLANK}}, the price of fresh tuna had almost doubled because of the storm last week, so she now has to decide whether to raise menu prices or remove some dishes.",
+    "cn": "A：為什麼餐廳老闆今天一大早從魚市場回來時看起來那麼難過？ B：令她【沮喪】的是，因為上週的暴風雨，新鮮鮪魚的價格幾乎漲了一倍，所以她現在必須決定要調漲菜單價格還是撤掉一些菜色。",
+    "collocation": "to my dismay 令我沮喪的是"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Please bring your ID card to the training center tomorrow. It is _____ for entering the building, and no one can get in without it.",
+    "options": [
+     "elusive",
+     "essential",
+     "fussy",
+     "tiny"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Vitamin C is a _____ that helps the body fight colds. You can find it in oranges and many other fruits.",
+    "options": [
+     "bay",
+     "angler",
+     "thrill",
+     "nutrient"
+    ],
+    "answer": 3,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The company decided to _____ its new warehouse close to the airport. This will make international deliveries much faster.",
+    "options": [
+     "situate",
+     "relieve",
+     "hatch",
+     "stalk"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The museum's new exhibition has been _____ by critics around the world. Tickets for next month are already sold out.",
+    "options": [
+     "hectic",
+     "impatient",
+     "lauded",
+     "vegan"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Athletes often eat eggs and chicken after training. These foods are high in _____, which helps build strong muscles.",
+    "options": [
+     "bay",
+     "protein",
+     "pastime",
+     "dismay"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The new phone is so _____ that it fits easily into a shirt pocket. Many customers like how light it is.",
+    "options": [
+     "tiny",
+     "lauded",
+     "hectic",
+     "crucial"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Iron is a _____ that our blood needs to carry oxygen. People who lack it often feel tired and weak.",
+    "options": [
+     "angler",
+     "texture",
+     "mineral",
+     "thrill"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Monday was a _____ day at the post office. Hundreds of customers came in to send packages before the holiday.",
+    "options": [
+     "optimal",
+     "vegan",
+     "inexplicable",
+     "hectic"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "This cream can _____ the pain from small burns and insect bites. Apply it two or three times a day.",
+    "options": [
+     "stalk",
+     "situate",
+     "relieve",
+     "hatch"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The factory makes every _____ of the bicycle, from the wheels to the brakes. Then workers put all the parts together.",
+    "options": [
+     "bay",
+     "component",
+     "dismay",
+     "pastime"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Thank you for the wonderful trip to the hot springs. Our whole team found it very _____ and relaxing.",
+    "options": [
+     "enjoyable",
+     "fussy",
+     "elusive",
+     "impatient"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The cruise ship stopped in a quiet _____ surrounded by green hills. Passengers swam in the calm water for an hour.",
+    "options": [
+     "fanatic",
+     "thrill",
+     "nutrient",
+     "bay"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The café now offers a _____ sandwich made only with vegetables and beans. It contains no meat, eggs, or cheese.",
+    "options": [
+     "impatient",
+     "lauded",
+     "vegan",
+     "hectic"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The lake is popular for _____, especially in early spring. Visitors must buy a permit before they put a line in the water.",
+    "options": [
+     "dismay",
+     "angling",
+     "angler",
+     "component"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The printer stopped working for no reason this morning. The technician said the problem was _____ and ordered a new one.",
+    "options": [
+     "inexplicable",
+     "marvelous",
+     "enjoyable",
+     "vegan"
+    ],
+    "answer": 0,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The children watched closely as the chicken eggs began to _____. Soon several small yellow chicks appeared in the box.",
+    "options": [
+     "stalk",
+     "situate",
+     "relieve",
+     "hatch"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "An experienced _____ caught a huge trout in the river yesterday. Local reporters took photos of him holding the fish.",
+    "options": [
+     "angling",
+     "mineral",
+     "angler",
+     "texture"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "This small meeting room is not _____ for a training session with forty people. Please book the large hall instead.",
+    "options": [
+     "lauded",
+     "elusive",
+     "impatient",
+     "suitable"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "My brother is a football _____ who never misses a match. He even flew to Europe last year to watch his favorite team.",
+    "options": [
+     "bay",
+     "fanatic",
+     "texture",
+     "nutrient"
+    ],
+    "answer": 1,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The passengers grew _____ after the train was delayed for over an hour. Some of them started shouting at the station staff.",
+    "options": [
+     "impatient",
+     "optimal",
+     "tiny",
+     "essential"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Riding the new roller coaster gave the children a real _____. They wanted to go on it again and again.",
+    "options": [
+     "mineral",
+     "component",
+     "thrill",
+     "bay"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Good communication is _____ to the success of any project. Without it, team members may misunderstand their tasks and miss deadlines.",
+    "options": [
+     "vegan",
+     "fussy",
+     "tiny",
+     "crucial"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "In the video, a cat tries to _____ a bird slowly across the garden. The bird flies away just before the cat jumps.",
+    "options": [
+     "stalk",
+     "relieve",
+     "situate",
+     "hatch"
+    ],
+    "answer": 0,
+    "vocabIndex": 34
+   },
+   {
+    "q": "Gardening is a relaxing _____ for many retired people. It keeps them active and gives them fresh vegetables.",
+    "options": [
+     "protein",
+     "pastime",
+     "angler",
+     "bay"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The engineers tested many settings to find the _____ speed for the machine. At that speed, it uses the least energy.",
+    "options": [
+     "impatient",
+     "fussy",
+     "vegan",
+     "optimal"
+    ],
+    "answer": 3,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Customers loved the soft, creamy _____ of the new ice cream. The company plans to sell it in more stores next year.",
+    "options": [
+     "texture",
+     "angler",
+     "fanatic",
+     "bay"
+    ],
+    "answer": 0,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Our new client is very _____ about details. She asked us to change the font on the report three times.",
+    "options": [
+     "inexplicable",
+     "fussy",
+     "optimal",
+     "crucial"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   },
+   {
+    "q": "Much to our _____, the concert was canceled an hour before it started. The organizers promised to return all ticket money.",
+    "options": [
+     "component",
+     "bay",
+     "dismay",
+     "protein"
+    ],
+    "answer": 2,
+    "vocabIndex": 36
+   },
+   {
+    "q": "Finding a cheap apartment near the city center has proved _____ for many young workers. Most of them live in the suburbs.",
+    "options": [
+     "lauded",
+     "enjoyable",
+     "vegan",
+     "elusive"
+    ],
+    "answer": 3,
+    "vocabIndex": 33
+   },
+   {
+    "q": "The hotel room had a _____ view of the mountains. Guests often take photos from the balcony at sunrise.",
+    "options": [
+     "marvelous",
+     "impatient",
+     "fussy",
+     "hectic"
+    ],
+    "answer": 0,
+    "vocabIndex": 35
+   }
+  ]
+ },
+ "142": {
+  "theme": "Fishing 釣魚",
+  "source": "https://www.examword.com/group-topic/fishing",
+  "VOCAB": [
+   {
+    "word": "fish",
+    "pos": "v.",
+    "en_def": "to try to catch fish",
+    "cn_def": "釣魚；捕魚",
+    "sentence": "A: What are you and the other managers planning to do during the company retreat at the lake resort next weekend? B: Most of us want to rent a small boat early on Saturday morning and {{BLANK}} for trout for a few hours, and then we will cook lunch together near the water.",
+    "cn": "A：你和其他經理們打算在下週末湖邊度假村的公司旅遊期間做什麼？ B：我們大多數人想在星期六一大早租一艘小船，【釣】幾個小時的鱒魚，然後一起在水邊煮午餐。",
+    "collocation": "fish for trout in a mountain lake 在山中湖泊釣鱒魚"
+   },
+   {
+    "word": "angler",
+    "pos": "n.",
+    "en_def": "a person who catches fish with a rod as a hobby",
+    "cn_def": "釣客；垂釣者",
+    "sentence": "A: Why is the small hotel near the river always fully booked in early spring, even though it is not a famous tourist area? B: Every March, almost every serious {{BLANK}} in the region comes to try the clear water there, so the owner has to take reservations several months in advance.",
+    "cn": "A：為什麼河邊那家小旅館每年早春總是客滿，即使那裡並不是有名的觀光區？ B：每年三月，這個地區幾乎每位認真的【釣客】都會來那裡試試清澈的河水，所以老闆必須提前好幾個月接受訂房。",
+    "collocation": "an experienced angler 經驗豐富的釣客"
+   },
+   {
+    "word": "rod",
+    "pos": "n.",
+    "en_def": "a long thin stick with a line, used for catching fish",
+    "cn_def": "釣竿",
+    "sentence": "A: Have you decided what to buy for Mr. Chen's retirement gift, since he told everyone he plans to spend more time at the lake? B: Yes, the team agreed to buy him a light carbon fishing {{BLANK}} from the sports shop downtown, and we will also include a card signed by everyone in the office.",
+    "cn": "A：你們決定好要買什麼送陳先生當退休禮物了嗎？他跟大家說他打算花更多時間待在湖邊。 B：決定了，團隊同意從市中心的運動用品店買一支輕量碳纖維【釣竿】給他，我們也會附上一張辦公室每個人都簽了名的卡片。",
+    "collocation": "a carbon fishing rod 碳纖維釣竿"
+   },
+   {
+    "word": "reel",
+    "pos": "n.",
+    "en_def": "a round device on a fishing rod that winds the line",
+    "cn_def": "捲線器",
+    "sentence": "A: Why did the customer bring his fishing equipment back to the store only two days after he bought it from us? B: He said the {{BLANK}} made a strange noise and would not wind the line in smoothly, so I checked it, found a broken part, and gave him a new one right away.",
+    "cn": "A：為什麼那位顧客在跟我們買了釣具才兩天就拿回店裡？ B：他說【捲線器】發出奇怪的聲音，而且無法順暢地收線，所以我檢查了一下，發現有個零件壞了，就立刻換了一個新的給他。",
+    "collocation": "a spinning reel 紡車式捲線器"
+   },
+   {
+    "word": "line",
+    "pos": "n.",
+    "en_def": "a thin, strong string used for fishing",
+    "cn_def": "釣線",
+    "sentence": "A: Why didn't you bring home any fish yesterday when you said the river was full of big ones at this time of year? B: I had one large carp on my hook for nearly ten minutes, but the {{BLANK}} was too thin and it suddenly broke just before I could pull the fish onto the bank.",
+    "cn": "A：你不是說每年這個時候河裡都是大魚嗎？為什麼你昨天一條魚都沒帶回家？ B：我的魚鉤上鉤住一條大鯉魚將近十分鐘，但是【釣線】太細了，就在我快把魚拉上岸之前突然斷了。",
+    "collocation": "a strong fishing line 堅固的釣線"
+   },
+   {
+    "word": "hook",
+    "pos": "n.",
+    "en_def": "a small curved piece of metal that catches the fish",
+    "cn_def": "魚鉤",
+    "sentence": "A: What should the new staff at our outdoor shop tell children who want to try fishing at the pond for the first time? B: They should explain that the sharp metal {{BLANK}} can easily hurt small fingers, so an adult must always help put the bait on and take the fish off safely.",
+    "cn": "A：我們戶外用品店的新員工應該如何告訴第一次想在池塘釣魚的孩子們？ B：他們應該說明尖銳的金屬【魚鉤】很容易刺傷小手指，所以一定要由大人幫忙裝上魚餌並安全地取下魚。",
+    "collocation": "put bait on the hook 把魚餌掛上魚鉤"
+   },
+   {
+    "word": "bait",
+    "pos": "n.",
+    "en_def": "food put on a hook to attract fish",
+    "cn_def": "魚餌；誘餌",
+    "sentence": "A: Why did the tour guide stop at the small shop beside the harbor before taking our group out on the fishing boat? B: He needed to buy fresh shrimp and worms for {{BLANK}}, because he said the fish in this bay only bite when the food on the hook smells natural and fresh.",
+    "cn": "A：為什麼導遊在帶我們這團搭釣魚船出海之前，先在港邊的小店停了一下？ B：他需要買新鮮的蝦子和蟲來當【魚餌】，因為他說這個海灣的魚只有在鉤上的食物聞起來自然又新鮮時才會咬餌。",
+    "collocation": "use live bait 使用活餌"
+   },
+   {
+    "word": "lure",
+    "pos": "n.",
+    "en_def": "an artificial object that looks like food, used to attract fish",
+    "cn_def": "假餌；擬餌",
+    "sentence": "A: Our customers keep asking about the bright plastic fish in the display case near the front door, so what exactly are they used for? B: Each one is a {{BLANK}} that moves like a small injured fish in the water, so bigger fish attack it, and anglers like them because they never need live worms.",
+    "cn": "A：我們的顧客一直問起前門附近展示櫃裡那些鮮豔的塑膠魚，它們到底是做什麼用的？ B：每一個都是【假餌】，在水裡會像一條受傷的小魚一樣游動，所以大魚會攻擊它，釣客喜歡它們是因為完全不需要用活的蟲。",
+    "collocation": "cast a lure across the water 把假餌拋過水面"
+   },
+   {
+    "word": "net",
+    "pos": "n.",
+    "en_def": "a material with holes, used to catch or lift fish",
+    "cn_def": "網；漁網",
+    "sentence": "A: How do the workers at the fish farm move hundreds of fish from one pond to another without hurting them? B: Two workers hold a large soft {{BLANK}} at each end and slowly walk through the shallow water, and then they lift the fish into a tank on the truck very gently.",
+    "cn": "A：養魚場的工人如何在不傷害魚的情況下，把數百條魚從一個池塘移到另一個池塘？ B：兩位工人各拿著一張柔軟大【網】的一端，慢慢走過淺水，然後非常輕柔地把魚撈進卡車上的水箱裡。",
+    "collocation": "pull in the fishing net 收起漁網"
+   },
+   {
+    "word": "tackle",
+    "pos": "n.",
+    "en_def": "all the equipment used for fishing",
+    "cn_def": "釣具",
+    "sentence": "A: Where should I put all the rods, boxes of hooks, and other equipment after our team-building fishing trip ends this afternoon? B: Please store the {{BLANK}} in the gray cabinet in the warehouse, and make sure everything is dry first, because the metal parts can rust quickly if they stay wet.",
+    "cn": "A：今天下午團隊建立釣魚活動結束後，我應該把所有的釣竿、魚鉤盒和其他裝備放在哪裡？ B：請把【釣具】收進倉庫的灰色櫃子裡，並先確定所有東西都是乾的，因為金屬零件如果一直潮濕的話很快就會生鏽。",
+    "collocation": "a fishing tackle shop 釣具店"
+   },
+   {
+    "word": "boat",
+    "pos": "n.",
+    "en_def": "a small vehicle that travels on water",
+    "cn_def": "船；小船",
+    "sentence": "A: How are the visitors from our Japanese office getting to the island for tomorrow's fishing tour, since there is no bridge? B: The travel agency has booked a small {{BLANK}} with a captain who knows the area well, and it will leave the harbor at seven o'clock and return before dinner.",
+    "cn": "A：既然沒有橋，我們日本分公司的訪客明天要怎麼去島上參加釣魚行程？ B：旅行社已經預訂了一艘小【船】，船長很熟悉這一帶，船會在七點離港，並在晚餐前回來。",
+    "collocation": "rent a fishing boat 租一艘釣魚船"
+   },
+   {
+    "word": "dock",
+    "pos": "n.",
+    "en_def": "a structure where boats stop so people can get on and off",
+    "cn_def": "碼頭",
+    "sentence": "A: Where should the delivery driver leave the boxes of ice and drinks for the fishing tournament this Saturday morning? B: Tell him to bring everything to the wooden {{BLANK}} at the end of Harbor Road, where the boats will be tied up, so the crew can load them directly.",
+    "cn": "A：送貨司機這個星期六早上應該把釣魚比賽要用的冰塊和飲料箱放在哪裡？ B：告訴他把所有東西送到港口路盡頭的木造【碼頭】，船會停靠在那裡，這樣船員就可以直接搬上船。",
+    "collocation": "meet at the dock 在碼頭碰面"
+   },
+   {
+    "word": "river",
+    "pos": "n.",
+    "en_def": "a long natural flow of water across the land",
+    "cn_def": "河；河流",
+    "sentence": "A: Why did the city government close the popular walking path near the old bridge for the whole month? B: Heavy rain last week made the {{BLANK}} rise quickly and flood part of the path, so workers need time to repair the damage before families and anglers can safely return.",
+    "cn": "A：為什麼市政府把舊橋附近那條熱門步道封閉一整個月？ B：上週的大雨讓【河】水迅速上漲並淹沒了部分步道，所以工人需要時間修復損壞，家庭和釣客才能安全地回來。",
+    "collocation": "fish along the river 沿著河邊釣魚"
+   },
+   {
+    "word": "lake",
+    "pos": "n.",
+    "en_def": "a large area of water surrounded by land",
+    "cn_def": "湖",
+    "sentence": "A: Which location did the HR team finally choose for this year's company picnic, after looking at so many parks? B: They picked the park beside the {{BLANK}} in the mountains, because there is a quiet area for fishing, a big lawn for games, and enough parking for all the employees.",
+    "cn": "A：人資團隊看了那麼多公園之後，最後選了哪裡作為今年公司野餐的地點？ B：他們選了山中【湖】旁邊的公園，因為那裡有安靜的釣魚區、可以玩遊戲的大草坪，還有足夠讓所有員工停車的位置。",
+    "collocation": "a quiet mountain lake 寧靜的山中湖泊"
+   },
+   {
+    "word": "sea",
+    "pos": "n.",
+    "en_def": "the salt water that covers much of the earth",
+    "cn_def": "海；海洋",
+    "sentence": "A: Why was this morning's fishing trip for the visiting clients canceled only an hour before departure? B: The captain checked the latest report and said the {{BLANK}} was too rough because of strong winds, so he decided it was not safe to take the boat out until tomorrow.",
+    "cn": "A：為什麼今天早上為來訪客戶安排的釣魚行程在出發前一小時被取消？ B：船長查看了最新的報告，說因為強風【海】面太過洶湧，所以他決定明天之前開船出去都不安全。",
+    "collocation": "go fishing at sea 出海釣魚"
+   },
+   {
+    "word": "shore",
+    "pos": "n.",
+    "en_def": "the land along the edge of a sea or lake",
+    "cn_def": "岸邊；海岸",
+    "sentence": "A: Do I need to rent a boat if I want to catch some fish during my business trip to the coast next month? B: Not really, because many people stand on the rocks along the {{BLANK}} near the hotel in the evening, and they often catch plenty of fish without going out on the water.",
+    "cn": "A：如果我下個月去海邊出差時想釣一些魚，需要租船嗎？ B：其實不用，因為傍晚時有很多人站在飯店附近【岸邊】的岩石上，他們常常不用出海就釣到很多魚。",
+    "collocation": "fish from the shore 在岸邊釣魚"
+   },
+   {
+    "word": "catch",
+    "forms": "catch – caught – caught",
+    "pos": "v.",
+    "en_def": "to take hold of a fish or animal",
+    "cn_def": "捕捉；釣到",
+    "sentence": "A: What is the main goal of the fishing competition that our sales department is sponsoring next weekend? B: Each team has four hours to {{BLANK}} as many fish as possible, but they must put most of them back in the lake, and the winners will receive gift cards and a trophy.",
+    "cn": "A：我們業務部下週末贊助的釣魚比賽主要目標是什麼？ B：每一隊有四個小時盡可能【釣到】越多魚越好，但大部分的魚必須放回湖裡，優勝者將獲得禮物卡和一座獎盃。",
+    "collocation": "catch a big fish 釣到一條大魚"
+   },
+   {
+    "word": "cast",
+    "forms": "cast – cast – cast",
+    "pos": "v.",
+    "en_def": "to throw a fishing line into the water",
+    "cn_def": "拋（竿）；甩出（釣線）",
+    "sentence": "A: How did the instructor at the fishing class help the beginners who kept getting their lines stuck in the trees? B: He showed them how to {{BLANK}} the line with a smooth movement of the wrist instead of swinging the whole arm, and after some practice most of them could reach the middle of the pond.",
+    "cn": "A：釣魚課的教練是如何幫助那些釣線一直卡在樹上的初學者？ B：他示範如何用手腕平順的動作來【拋】出釣線，而不是揮動整隻手臂，經過一些練習後，大部分的人都能拋到池塘中央。",
+    "collocation": "cast a line into the river 把釣線拋進河裡"
+   },
+   {
+    "word": "float",
+    "pos": "v.",
+    "en_def": "to stay on the surface of water",
+    "cn_def": "漂浮",
+    "sentence": "A: Why does the safety officer want every passenger on the fishing tour to wear a life jacket, even good swimmers? B: The jacket helps you {{BLANK}} on the surface if you fall into the cold water, so you can stay calm and wait for the crew to pull you back onto the boat.",
+    "cn": "A：為什麼安全官要求釣魚行程上的每位乘客都穿救生衣，即使是很會游泳的人也一樣？ B：如果你掉進冰冷的水裡，救生衣能幫助你【漂浮】在水面上，這樣你就可以保持冷靜，等待船員把你拉回船上。",
+    "collocation": "float on the water 漂浮在水面上"
+   },
+   {
+    "word": "sink",
+    "forms": "sink – sank – sunk",
+    "pos": "v.",
+    "en_def": "to go down below the surface of water",
+    "cn_def": "下沉；沉沒",
+    "sentence": "A: Why did you add those small metal weights to the line before you started fishing in the deep part of the lake? B: The weights make the bait {{BLANK}} quickly to the bottom, where the big fish usually feed during the hot afternoon, instead of staying near the surface.",
+    "cn": "A：為什麼你在湖的深水區開始釣魚前，要在釣線上加那些小金屬重物？ B：這些重物能讓魚餌迅速【沉】到底部，大魚在炎熱的下午通常在那裡覓食，而不是讓魚餌停留在水面附近。",
+    "collocation": "sink to the bottom 沉到底部"
+   },
+   {
+    "word": "patience",
+    "pos": "n.",
+    "en_def": "the ability to wait calmly without getting upset",
+    "cn_def": "耐心",
+    "sentence": "A: Why does our manager say that fishing is good training for people who want to work in sales? B: She believes that both activities need a lot of {{BLANK}}, because you often wait for hours without any results, and you must stay positive until a customer or a fish finally responds.",
+    "cn": "A：為什麼我們經理說釣魚對想從事業務工作的人來說是很好的訓練？ B：她認為這兩種活動都需要很大的【耐心】，因為你常常等了好幾個小時都沒有任何結果，而且必須保持正面態度，直到客戶或魚終於有了回應。",
+    "collocation": "require a lot of patience 需要很大的耐心"
+   },
+   {
+    "word": "calm",
+    "pos": "adj.",
+    "en_def": "still, without big waves or strong wind",
+    "cn_def": "平靜的；風平浪靜的",
+    "sentence": "A: What time do you think we should leave the hotel tomorrow if we want to go fishing before the client meeting? B: We should leave around five thirty, because the water in the bay is usually {{BLANK}} early in the morning, and the wind gets much stronger after nine o'clock.",
+    "cn": "A：如果我們想在客戶會議前去釣魚，你覺得明天應該幾點離開飯店？ B：我們應該五點半左右出發，因為海灣的水面在清晨通常很【平靜】，九點以後風會變得強很多。",
+    "collocation": "calm water in the morning 清晨平靜的水面"
+   },
+   {
+    "word": "deep",
+    "pos": "adj.",
+    "en_def": "going a long way down from the top",
+    "cn_def": "深的",
+    "sentence": "A: Why did the fishing guide tell the children to stay in the shallow area near the shore this afternoon? B: The water becomes very {{BLANK}} only a few meters from the beach, and the current there is strong, so he did not want any of the young visitors to get into trouble.",
+    "cn": "A：為什麼釣魚嚮導今天下午叫孩子們待在靠近岸邊的淺水區？ B：離海灘才幾公尺遠，水就變得非常【深】，而且那裡的水流很強，所以他不希望任何年輕的訪客遇到危險。",
+    "collocation": "fish in deep water 在深水區釣魚"
+   },
+   {
+    "word": "freshwater",
+    "pos": "adj.",
+    "en_def": "living in or relating to water that is not salty",
+    "cn_def": "淡水的",
+    "sentence": "A: Why did the restaurant change its menu after the new chef arrived from the mountain region last month? B: He prefers cooking {{BLANK}} fish like trout and carp from local rivers and lakes, so he replaced several ocean dishes with recipes from his hometown, and customers seem to love them.",
+    "cn": "A：為什麼上個月那位來自山區的新主廚到任後，餐廳就更換了菜單？ B：他偏好烹調當地河川和湖泊的鱒魚和鯉魚等【淡水】魚，所以他把幾道海鮮料理換成了家鄉的食譜，而顧客似乎都很喜歡。",
+    "collocation": "freshwater fishing in the mountains 在山區進行淡水垂釣"
+   },
+   {
+    "word": "saltwater",
+    "pos": "adj.",
+    "en_def": "living in or relating to sea water",
+    "cn_def": "海水的；鹹水的",
+    "sentence": "A: Why does the shop owner tell customers to wash their equipment carefully after a fishing trip at the beach? B: Fishing in {{BLANK}} areas is hard on rods and reels, because the sea air and water make metal parts rust, so a quick rinse with clean water keeps the equipment working for years.",
+    "cn": "A：為什麼店老闆告訴顧客在海邊釣魚後要仔細清洗裝備？ B：在【海水】區域釣魚對釣竿和捲線器的損耗很大，因為海風和海水會讓金屬零件生鏽，所以快速用清水沖洗一下，就能讓裝備使用好幾年。",
+    "collocation": "saltwater fish such as tuna 鮪魚等海水魚"
+   },
+   {
+    "word": "species",
+    "pos": "n.",
+    "en_def": "a group of animals or plants of the same type",
+    "cn_def": "物種；種類",
+    "sentence": "A: What did the scientists from the university find when they studied the lake behind our factory last summer? B: They counted more than twenty different {{BLANK}} of fish living there, which shows the water is still healthy, and our company plans to share the report with the local community.",
+    "cn": "A：大學的科學家們去年夏天研究我們工廠後面的湖時發現了什麼？ B：他們算出有超過二十種不同【種類】的魚生活在那裡，這顯示湖水仍然很健康，我們公司打算和當地社區分享這份報告。",
+    "collocation": "a rare species of fish 一種稀有的魚類"
+   },
+   {
+    "word": "tide",
+    "pos": "n.",
+    "en_def": "the regular rise and fall of the sea",
+    "cn_def": "潮汐；潮水",
+    "sentence": "A: Why do the fishermen in this town go out at different times every day instead of keeping a regular schedule? B: They plan their trips around the {{BLANK}}, because when the water comes in, many fish swim closer to the coast to feed, so the catch is usually much better.",
+    "cn": "A：為什麼這個小鎮的漁夫每天出海的時間都不同，而不是維持固定的時間表？ B：他們依照【潮汐】安排出海時間，因為漲潮時許多魚會游到靠近海岸的地方覓食，所以漁獲量通常會好很多。",
+    "collocation": "check the tide table 查看潮汐表"
+   },
+   {
+    "word": "weather",
+    "pos": "n.",
+    "en_def": "the conditions of sun, rain, and wind at a certain time",
+    "cn_def": "天氣",
+    "sentence": "A: Should we still hold the fishing event for our customers on Sunday, or should we move it to another date? B: Let's check the {{BLANK}} forecast again on Friday afternoon, and if there is a chance of thunderstorms, we will send everyone an email and move the event to the following weekend.",
+    "cn": "A：我們星期天還要為客戶舉辦釣魚活動嗎？還是應該改到別的日期？ B：我們星期五下午再查一次【天氣】預報，如果有雷雨的可能，我們會寄電子郵件給大家，並把活動延到下個週末。",
+    "collocation": "check the weather forecast 查看天氣預報"
+   },
+   {
+    "word": "license",
+    "pos": "n.",
+    "en_def": "an official document that gives permission to do something",
+    "cn_def": "執照；許可證",
+    "sentence": "A: Can our foreign guests go fishing in the national park during their stay, or is there a special rule for visitors? B: They must buy a short-term fishing {{BLANK}} at the visitor center first, because park rangers check documents regularly, and anyone fishing without one may have to pay a large fine.",
+    "cn": "A：我們的外國賓客在停留期間可以去國家公園釣魚嗎？還是對遊客有特別的規定？ B：他們必須先在遊客中心購買短期釣魚【許可證】，因為公園管理員會定期檢查證件，沒有許可證就釣魚的人可能要支付高額罰款。",
+    "collocation": "apply for a fishing license 申請釣魚許可證"
+   },
+   {
+    "word": "harvest",
+    "pos": "n.",
+    "en_def": "the amount of fish or crops that is collected",
+    "cn_def": "收穫量；漁獲量",
+    "sentence": "A: Why are fish prices at the market so much higher than usual this month, according to the restaurant suppliers? B: The fishing companies reported a much smaller {{BLANK}} this season because of warmer ocean water, so there is less supply, and restaurants have to pay more for the same amount.",
+    "cn": "A：根據餐廳供應商的說法，為什麼這個月市場上的魚價比平常高這麼多？ B：漁業公司回報說，由於海水變暖，這一季的【漁獲量】少了很多，所以供應減少，餐廳必須花更多錢買同樣的分量。",
+    "collocation": "a poor fish harvest 漁獲欠佳"
+   },
+   {
+    "word": "release",
+    "pos": "v.",
+    "en_def": "to let a fish go back into the water",
+    "cn_def": "放生；釋放",
+    "sentence": "A: What happens to all the fish that people catch at the river during the charity competition next month? B: After the judges measure and photograph each one, the anglers {{BLANK}} them back into the water right away, because the event organizers want to protect the river and its wildlife.",
+    "cn": "A：下個月慈善比賽期間大家在河裡釣到的魚會怎麼處理？ B：評審測量並拍下每一條魚之後，釣客會立刻把牠們【放】回水裡，因為活動主辦單位希望保護這條河和河中的野生動物。",
+    "collocation": "catch and release 釣後放流"
+   },
+   {
+    "word": "fillet",
+    "pos": "n.",
+    "en_def": "a piece of fish or meat with the bones removed",
+    "cn_def": "魚排；魚片",
+    "sentence": "A: What would you recommend from today's lunch menu for a client who does not like eating fish with small bones? B: I would suggest the grilled salmon {{BLANK}}, because the chef removes all the bones in the kitchen, and it comes with fresh vegetables and a light lemon sauce.",
+    "cn": "A：今天的午餐菜單中，你會推薦什麼給不喜歡吃有小刺的魚的客戶？ B：我會推薦烤鮭魚【魚排】，因為主廚在廚房裡把所有的刺都去掉了，而且還搭配新鮮蔬菜和清爽的檸檬醬。",
+    "collocation": "a boneless fish fillet 無刺魚排"
+   },
+   {
+    "word": "scale",
+    "pos": "n.",
+    "en_def": "one of the small hard plates that cover a fish's skin",
+    "cn_def": "魚鱗",
+    "sentence": "A: Why does the cook at the seafood restaurant use that special metal tool before he cuts the fish open? B: He uses it to remove every {{BLANK}} from the skin quickly, because customers complain if they find small hard pieces in their food, and the tool also saves a lot of time.",
+    "cn": "A：為什麼海鮮餐廳的廚師在剖開魚之前要使用那個特殊的金屬工具？ B：他用它快速去除魚皮上的每一片【魚鱗】，因為顧客如果在食物裡吃到小硬片就會抱怨，而且這個工具也能節省很多時間。",
+    "collocation": "remove the scales from a fish 去除魚鱗"
+   },
+   {
+    "word": "clean",
+    "pos": "v.",
+    "en_def": "to remove the inside parts of a fish before cooking it",
+    "cn_def": "清理（魚的內臟）",
+    "sentence": "A: What should we do with the fish we caught this morning before we give them to the hotel kitchen for dinner? B: We should {{BLANK}} them at the washing station on the dock by removing the insides and rinsing them well, so the chef can start cooking as soon as we arrive.",
+    "cn": "A：我們把今天早上釣到的魚交給飯店廚房做晚餐之前，應該先怎麼處理？ B：我們應該在碼頭上的清洗區把牠們【清理】乾淨，去除內臟並好好沖洗，這樣我們一到，主廚就可以馬上開始烹煮。",
+    "collocation": "clean and gut the fish 把魚清理並去除內臟"
+   },
+   {
+    "word": "grill",
+    "pos": "v.",
+    "en_def": "to cook food over direct heat",
+    "cn_def": "燒烤；炙烤",
+    "sentence": "A: What is the plan for dinner after the fishing trip, since the restaurant near the lake is closed on Mondays? B: The campsite has several barbecue areas, so we will {{BLANK}} the fish we catch over charcoal with some salt and lemon, and everyone can bring a side dish to share.",
+    "cn": "A：既然湖邊的餐廳星期一公休，釣魚之後的晚餐有什麼計畫？ B：營地有好幾個烤肉區，所以我們會用木炭加點鹽和檸檬【烤】我們釣到的魚，每個人也可以帶一道配菜來分享。",
+    "collocation": "grill fish over charcoal 用木炭烤魚"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The magazine interviewed a famous _____ who has caught fish in over forty countries. He shared tips for choosing the best spots.",
+    "options": [
+     "harvest",
+     "tide",
+     "license",
+     "angler"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Kevin bent his new _____ so far that it almost broke. The large tuna pulled hard for twenty minutes.",
+    "options": [
+     "rod",
+     "tide",
+     "species",
+     "harvest"
+    ],
+    "answer": 0,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Turn the handle on the _____ slowly to bring the line back in. Turning it too fast may tangle everything.",
+    "options": [
+     "shore",
+     "reel",
+     "patience",
+     "weather"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The fish was so strong that it broke the _____ and swam away. Next time, Tom will buy a thicker one.",
+    "options": [
+     "dock",
+     "license",
+     "line",
+     "species"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Be careful when you remove the _____ from the fish's mouth. Its sharp point can easily cut your fingers.",
+    "options": [
+     "hook",
+     "tide",
+     "weather",
+     "harvest"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The shop sells live worms and shrimp to use as _____. Fish here rarely bite on anything else.",
+    "options": [
+     "river",
+     "patience",
+     "bait",
+     "shore"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "This shiny metal _____ moves like a small injured fish. Big hungry fish often attack it within minutes.",
+    "options": [
+     "weather",
+     "lure",
+     "license",
+     "harvest"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The fisherman used a large _____ to lift the heavy salmon out of the water. Without it, the fish might have escaped.",
+    "options": [
+     "tide",
+     "patience",
+     "weather",
+     "net"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Passengers should meet at the _____ at seven o'clock sharp. The fishing boat will leave the harbor right after that.",
+    "options": [
+     "bait",
+     "species",
+     "dock",
+     "hook"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The company picnic will be held beside a quiet mountain _____. Employees can swim, fish, or rent small boats there.",
+    "options": [
+     "tackle",
+     "fillet",
+     "reel",
+     "lake"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "You do not need a boat to fish here. Many people catch sea bass while standing on the rocky _____.",
+    "options": [
+     "bait",
+     "shore",
+     "fillet",
+     "license"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Fishing teaches children _____ because they may wait for an hour before anything bites. It is a useful lesson for life.",
+    "options": [
+     "patience",
+     "tackle",
+     "net",
+     "tide"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Researchers found three new _____ of fish living in the deep river. They plan to publish their study next spring.",
+    "options": [
+     "hook",
+     "species",
+     "dock",
+     "reel"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The fishermen waited for the _____ to come in before going out. Rising water brings more fish close to the coast.",
+    "options": [
+     "rod",
+     "angler",
+     "tide",
+     "license"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Visitors must buy a fishing _____ at the park office before they start. Rangers check permits and give fines to anyone without one.",
+    "options": [
+     "license",
+     "harvest",
+     "shore",
+     "tide"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Warm ocean water led to a poor fish _____ this year. As a result, seafood prices at the market rose sharply.",
+    "options": [
+     "angler",
+     "reel",
+     "hook",
+     "harvest"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The chef removed every bone, so the salmon _____ is safe for young children. It is served with rice and steamed vegetables.",
+    "options": [
+     "dock",
+     "fillet",
+     "shore",
+     "tackle"
+    ],
+    "answer": 1,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Use the back of a knife to scrape off each _____ from the fish's skin. Then rinse the fish under cold water.",
+    "options": [
+     "net",
+     "lake",
+     "scale",
+     "boat"
+    ],
+    "answer": 2,
+    "vocabIndex": 32
+   },
+   {
+    "q": "Our team rented a small _____ with a captain for the day. We sailed out to the island and fished until sunset.",
+    "options": [
+     "bait",
+     "patience",
+     "species",
+     "boat"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "On weekends, my uncle likes to _____ for trout in the mountain streams. He usually brings home enough for dinner.",
+    "options": [
+     "fish",
+     "grill",
+     "sink",
+     "float"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Last Sunday, Linda managed to _____ a huge tuna on her first deep-sea trip. Everyone on the boat took photos of it.",
+    "options": [
+     "float",
+     "sink",
+     "catch",
+     "cast"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Hold the rod with both hands and _____ the line far into the lake. Then wait quietly for a fish to bite.",
+    "options": [
+     "grill",
+     "clean",
+     "float",
+     "cast"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Plastic bottles _____ on the water, so the beach volunteers can collect them easily with nets. Heavier trash is much harder to find.",
+    "options": [
+     "float",
+     "grill",
+     "catch",
+     "clean"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Add a small weight to the line so the bait will _____ to the bottom. Large fish feed near the lakebed in summer.",
+    "options": [
+     "grill",
+     "sink",
+     "fish",
+     "release"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "This park has a strict rule for every angler. You must _____ all fish back into the river after taking a photo.",
+    "options": [
+     "grill",
+     "sink",
+     "release",
+     "catch"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Before cooking, please _____ the fish by removing the insides and washing it well. The kitchen staff will then prepare it.",
+    "options": [
+     "cast",
+     "float",
+     "catch",
+     "clean"
+    ],
+    "answer": 3,
+    "vocabIndex": 33
+   },
+   {
+    "q": "Tonight we will _____ the fresh fish over charcoal at the campsite. Bring some lemons and salt if you can.",
+    "options": [
+     "grill",
+     "sink",
+     "cast",
+     "float"
+    ],
+    "answer": 0,
+    "vocabIndex": 34
+   },
+   {
+    "q": "The sea is usually _____ early in the morning, with almost no wind. That is the best time for small boats to go out.",
+    "options": [
+     "deep",
+     "calm",
+     "saltwater",
+     "freshwater"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Children should not swim past the yellow rope. The water there is more than five meters _____.",
+    "options": [
+     "deep",
+     "calm",
+     "freshwater",
+     "saltwater"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Trout and carp are popular _____ fish in Taiwan's rivers and lakes. Tuna, on the other hand, lives in the ocean.",
+    "options": [
+     "saltwater",
+     "calm",
+     "deep",
+     "freshwater"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   }
+  ]
+ },
+ "143": {
+  "theme": "Flowchart 流程圖",
+  "source": "https://www.examword.com/group-topic/flowchart",
+  "VOCAB": [
+   {
+    "word": "structure",
+    "pos": "n.",
+    "en_def": "the way the parts of something are arranged or organized",
+    "cn_def": "結構；架構",
+    "sentence": "A: Why does the new manager want us to redraw the flowchart for the ordering system before Friday's meeting with the finance team? B: She thinks the current {{BLANK}} is too confusing, because the steps jump from one department to another, so she wants a clearer design that new staff can follow easily.",
+    "cn": "A：為什麼新經理要我們在週五和財務團隊開會前重新畫訂購系統的流程圖？ B：她認為目前的【結構】太混亂了，因為步驟在不同部門之間跳來跳去，所以她想要一個新進員工能輕鬆遵循的更清楚的設計。",
+    "collocation": "the basic structure of the process 流程的基本結構"
+   },
+   {
+    "word": "flow",
+    "pos": "n.",
+    "en_def": "the smooth movement of something from one step to the next",
+    "cn_def": "流動；流程",
+    "sentence": "A: How can we make sure that customer complaints don't get lost between the call center and the repair department anymore? B: Let's draw a chart that shows the {{BLANK}} of each complaint from the first phone call to the final repair, so everyone can see exactly where the delays happen.",
+    "cn": "A：我們要怎麼確保客戶的投訴不會再在客服中心和維修部門之間遺失？ B：我們來畫一張圖，顯示每件投訴從第一通電話到最後維修的【流程】，這樣每個人都能清楚看到延誤發生在哪裡。",
+    "collocation": "improve the flow of work 改善工作流程"
+   },
+   {
+    "word": "process",
+    "pos": "n.",
+    "en_def": "a series of steps that you follow to get a result",
+    "cn_def": "過程；程序",
+    "sentence": "A: Why do new employees always take so long to get their laptops and email accounts set up during their first week here? B: The whole {{BLANK}} has twelve steps and needs three different signatures, so the IT manager is making a simple flowchart to show which steps we can remove.",
+    "cn": "A：為什麼新進員工在第一週總是要花那麼久才能設定好筆電和電子郵件帳號？ B：整個【程序】有十二個步驟，還需要三個不同的簽名，所以資訊經理正在做一張簡單的流程圖，標出哪些步驟可以刪掉。",
+    "collocation": "streamline the approval process 簡化審核程序"
+   },
+   {
+    "word": "relationship",
+    "pos": "n.",
+    "en_def": "the way two or more things are connected",
+    "cn_def": "關係",
+    "sentence": "A: What did the consultant mean when she said our sales chart was missing something important during yesterday's meeting? B: She meant that the chart doesn't show the {{BLANK}} between the marketing team and the sales team, so readers can't see how one department's work affects the other's results.",
+    "cn": "A：昨天開會時顧問說我們的銷售圖表少了重要的東西，她是什麼意思？ B：她的意思是圖表沒有呈現行銷團隊和業務團隊之間的【關係】，所以讀者看不出一個部門的工作如何影響另一個部門的成果。",
+    "collocation": "show the relationship between costs and sales 呈現成本與銷售之間的關係"
+   },
+   {
+    "word": "component",
+    "pos": "n.",
+    "en_def": "one of the parts that together make a machine or system",
+    "cn_def": "組成部分；零件",
+    "sentence": "A: Why is the engineer putting so many small boxes on the diagram of the new coffee machine that we are going to sell next spring? B: Each box stands for one {{BLANK}} of the machine, such as the water tank or the heater, so the repair staff can find problems quickly.",
+    "cn": "A：為什麼工程師要在我們明年春天要賣的新咖啡機示意圖上畫那麼多小方框？ B：每個方框代表機器的一個【零件】，例如水箱或加熱器，這樣維修人員就能很快找到問題。",
+    "collocation": "a key component of the system 系統的關鍵組成部分"
+   },
+   {
+    "word": "layout",
+    "pos": "n.",
+    "en_def": "the way things are arranged on a page or in a space",
+    "cn_def": "版面配置；布局",
+    "sentence": "A: Did the printing company say anything about the poster that shows our new safety steps for the factory workers? B: Yes, they said the {{BLANK}} is too crowded, because the arrows cross each other and the text is very small, so we should move some boxes and leave more white space.",
+    "cn": "A：印刷公司對那張顯示工廠工人新安全步驟的海報有說什麼嗎？ B：有，他們說【版面配置】太擁擠了，因為箭頭互相交叉，文字也很小，所以我們應該移動一些方框，留更多空白。",
+    "collocation": "change the layout of the page 更改頁面的版面配置"
+   },
+   {
+    "word": "connection",
+    "pos": "n.",
+    "en_def": "something that joins two things or shows that they are related",
+    "cn_def": "連結；關聯",
+    "sentence": "A: Why did the new trainee draw a long arrow from the warehouse box to the customer service box on the flowchart this morning? B: He wanted to show the {{BLANK}} between the two teams, because late shipments from the warehouse usually cause angry calls to customer service the next day.",
+    "cn": "A：為什麼新來的實習生今天早上在流程圖上從倉庫方框畫了一條長箭頭到客服方框？ B：他想呈現這兩個團隊之間的【關聯】，因為倉庫延遲出貨通常會在隔天引來打給客服的憤怒電話。",
+    "collocation": "make a connection between two steps 在兩個步驟之間建立連結"
+   },
+   {
+    "word": "sequence",
+    "pos": "n.",
+    "en_def": "the order in which things happen or are arranged",
+    "cn_def": "順序；次序",
+    "sentence": "A: Why did several new workers make mistakes when they packed the online orders in the warehouse last week? B: The instructions on the wall listed the steps in the wrong {{BLANK}}, so people sealed the boxes before checking the items, and now the supervisor is fixing the chart.",
+    "cn": "A：為什麼上週有好幾個新員工在倉庫包裝網路訂單時出錯？ B：牆上的說明把步驟列成錯誤的【順序】，所以大家在檢查商品之前就把箱子封起來了，現在主管正在修正那張圖表。",
+    "collocation": "in the correct sequence 依照正確順序"
+   },
+   {
+    "word": "hierarchy",
+    "pos": "n.",
+    "en_def": "a system in which people or things are ranked from highest to lowest",
+    "cn_def": "階層；層級制度",
+    "sentence": "A: How will the new staff in our Taipei branch know who they should report to when there is a problem with a client? B: The human resources team made a chart that shows the company {{BLANK}}, from the general manager at the top down to the junior assistants at the bottom.",
+    "cn": "A：我們台北分公司的新員工和客戶出問題時，要怎麼知道該向誰報告？ B：人資團隊做了一張圖，顯示公司的【層級制度】，從最上面的總經理一直到最下面的初級助理。",
+    "collocation": "the management hierarchy 管理層級"
+   },
+   {
+    "word": "node",
+    "pos": "n.",
+    "en_def": "a point in a diagram where lines meet or connect",
+    "cn_def": "節點",
+    "sentence": "A: What should I do with this small circle in the middle of the network diagram that the engineers sent us yesterday afternoon? B: That circle is a {{BLANK}}, which is the point where two lines meet, so please write the office name inside it before you print the final copy.",
+    "cn": "A：工程師昨天下午寄給我們的網路圖中間這個小圓圈，我該怎麼處理？ B：那個圓圈是一個【節點】，也就是兩條線交會的地方，所以在印出最終版本前，請把辦公室名稱寫在裡面。",
+    "collocation": "add a new node to the diagram 在圖中新增一個節點"
+   },
+   {
+    "word": "path",
+    "pos": "n.",
+    "en_def": "the way or route from one point to another",
+    "cn_def": "路徑；路線",
+    "sentence": "A: Why does the flowchart for refund requests have two different arrows coming out of the diamond in the middle? B: Each arrow shows a different {{BLANK}}, so if the customer has a receipt, the request goes left to the cashier, and if not, it goes right to the store manager.",
+    "cn": "A：為什麼退款申請的流程圖中間的菱形會延伸出兩個不同的箭頭？ B：每個箭頭顯示不同的【路徑】，所以如果客人有收據，申請就往左交給收銀員；如果沒有，就往右交給店長。",
+    "collocation": "follow the path in the chart 沿著圖表中的路徑走"
+   },
+   {
+    "word": "symbol",
+    "pos": "n.",
+    "en_def": "a sign or shape that stands for an idea or action",
+    "cn_def": "符號",
+    "sentence": "A: Why did the trainer ask everyone to learn the shapes on the first page of the handbook before the workshop started this morning? B: Each {{BLANK}} has a special meaning in a flowchart, for example, an oval means start or end and a diamond means a decision.",
+    "cn": "A：為什麼培訓師在今天早上工作坊開始前要大家先學會手冊第一頁上的圖形？ B：每個【符號】在流程圖中都有特別的意思，例如橢圓形代表開始或結束，菱形代表做決定。",
+    "collocation": "a standard symbol for a decision 代表決策的標準符號"
+   },
+   {
+    "word": "label",
+    "pos": "n.",
+    "en_def": "a short word or name that tells what something is",
+    "cn_def": "標籤；標示",
+    "sentence": "A: The boxes on this chart all look the same, so how will the new cashiers know which step is which during their training next Monday? B: I'll add a clear {{BLANK}} to each box, such as Scan Item or Take Payment, so they can understand every step at a glance.",
+    "cn": "A：這張圖上的方框看起來都一樣，新收銀員在下週一的訓練中要怎麼知道哪個是哪個步驟？ B：我會在每個方框加上清楚的【標示】，例如「掃描商品」或「收款」，讓他們一眼就能看懂每個步驟。",
+    "collocation": "add a label to each box 在每個方框加上標示"
+   },
+   {
+    "word": "annotation",
+    "pos": "n.",
+    "en_def": "a short note added to a text or diagram to explain something",
+    "cn_def": "註解；註釋",
+    "sentence": "A: The new process chart looks fine, but how will the night shift workers know what to do when the computer system suddenly stops working? B: I wrote a short {{BLANK}} next to that step in red, which explains that they should call the IT hotline and record the orders by hand.",
+    "cn": "A：新的流程圖看起來沒問題，但夜班員工在電腦系統突然當機時要怎麼知道該做什麼？ B：我在那個步驟旁邊用紅字寫了一則簡短的【註解】，說明他們應該打資訊部的熱線，並用手寫記錄訂單。",
+    "collocation": "add an annotation to the diagram 在圖表上加註解"
+   },
+   {
+    "word": "overview",
+    "pos": "n.",
+    "en_def": "a short description that gives the main ideas but not the details",
+    "cn_def": "概要；概觀",
+    "sentence": "A: The directors only have ten minutes for our project at the board meeting tomorrow, so should I explain every step of the new system? B: No, just give them a quick {{BLANK}} with one simple chart, and then email the detailed report to anyone who wants more information afterward.",
+    "cn": "A：明天董事會上董事們只有十分鐘聽我們的專案，我應該解釋新系統的每一個步驟嗎？ B：不用，只要用一張簡單的圖表給他們一個快速的【概要】，之後再把詳細報告寄給想知道更多的人。",
+    "collocation": "give a brief overview of the project 簡要概述專案"
+   },
+   {
+    "word": "visual",
+    "pos": "n.",
+    "en_def": "a picture, chart, or video used to help explain something",
+    "cn_def": "視覺輔助（圖表、圖片等）",
+    "sentence": "A: My presentation about the new delivery system is full of long sentences, and I'm afraid the clients will get bored halfway through it. B: You should add a {{BLANK}}, such as a colorful chart or a short video, because people remember pictures much better than words on a slide.",
+    "cn": "A：我關於新配送系統的簡報充滿了長句子，我怕客戶聽到一半就會覺得無聊。 B：你應該加入【視覺輔助】，例如彩色圖表或短片，因為人們記得圖片的效果遠比投影片上的文字好。",
+    "collocation": "use visuals in a presentation 在簡報中使用視覺輔助"
+   },
+   {
+    "word": "clarity",
+    "pos": "n.",
+    "en_def": "the quality of being clear and easy to understand",
+    "cn_def": "清晰；明確",
+    "sentence": "A: Why did the manager ask us to remove half of the arrows and colors from the customer service flowchart last week? B: She said the chart needed more {{BLANK}}, because the staff were confused by too many details and could not quickly see what to do next.",
+    "cn": "A：為什麼經理上週要我們刪掉客服流程圖上一半的箭頭和顏色？ B：她說這張圖需要更【清晰】，因為員工被太多細節搞混了，沒辦法快速看出下一步該做什麼。",
+    "collocation": "improve the clarity of the instructions 提高說明的清晰度"
+   },
+   {
+    "word": "mapping",
+    "pos": "n.",
+    "en_def": "the act of drawing or planning how the parts or steps of something are arranged",
+    "cn_def": "繪製（流程）圖；對應規劃",
+    "sentence": "A: How did the hospital reduce the waiting time for patients at the front desk by almost half this year? B: They started with careful process {{BLANK}}, drawing every step from check-in to payment, and then they removed the steps that were slow or unnecessary.",
+    "cn": "A：醫院今年是怎麼把病患在櫃台的等候時間減少將近一半的？ B：他們從仔細的流程【繪製】開始，畫出從報到到付款的每一個步驟，然後刪掉那些緩慢或不必要的步驟。",
+    "collocation": "a process mapping workshop 流程圖繪製工作坊"
+   },
+   {
+    "word": "illustrate",
+    "pos": "v.",
+    "en_def": "to explain or show something with pictures or examples",
+    "cn_def": "圖解；說明；畫插圖",
+    "sentence": "A: The new interns still don't understand how an order moves from our website to the warehouse, even after reading the manual twice. B: Then let's use a simple flowchart to {{BLANK}} each step, because pictures and arrows usually make complicated ideas much easier for beginners to follow.",
+    "cn": "A：新來的實習生即使讀了兩次手冊，還是不懂訂單是怎麼從我們的網站傳到倉庫的。 B：那我們就用一張簡單的流程圖來【圖解】每個步驟，因為圖片和箭頭通常能讓初學者更容易理解複雜的概念。",
+    "collocation": "illustrate the process with a chart 用圖表說明流程"
+   },
+   {
+    "word": "organize",
+    "pos": "v.",
+    "en_def": "to arrange things in a clear order or system",
+    "cn_def": "組織；整理；籌辦",
+    "sentence": "A: I have so many notes from the planning meeting that I don't know where to begin with the project report for the director. B: Try to {{BLANK}} your ideas into a flowchart first, putting the main tasks in boxes and linking them with arrows, and then writing will be much easier.",
+    "cn": "A：我從規劃會議記下的筆記太多了，不知道要從哪裡開始寫給主任的專案報告。 B：先試著把你的想法【整理】成一張流程圖，把主要任務放進方框並用箭頭連接起來，這樣寫起來就會容易得多。",
+    "collocation": "organize information clearly 清楚地整理資訊"
+   },
+   {
+    "word": "explain",
+    "pos": "v.",
+    "en_def": "to make something clear and easy to understand",
+    "cn_def": "解釋；說明",
+    "sentence": "A: Our new customers keep calling the help line because they don't know how to return a broken product they bought online. B: We should put a short chart on our website to {{BLANK}} the return steps, and that will probably reduce the number of calls we get every day.",
+    "cn": "A：我們的新客戶一直打客服專線，因為他們不知道怎麼退回在網路上買到的壞掉商品。 B：我們應該在網站上放一張簡短的圖表來【說明】退貨步驟，這樣大概能減少我們每天接到的電話數量。",
+    "collocation": "explain the procedure to new staff 向新員工說明程序"
+   },
+   {
+    "word": "simplify",
+    "pos": "v.",
+    "en_def": "to make something easier to do or understand",
+    "cn_def": "簡化",
+    "sentence": "A: Why are customers complaining that it takes over twenty minutes to open a new account at our bank branch? B: The form has too many steps and repeated questions, so the operations team is drawing a flowchart to {{BLANK}} the whole procedure and cut the waiting time.",
+    "cn": "A：為什麼客戶抱怨在我們分行開新帳戶要花超過二十分鐘？ B：表格的步驟太多、問題又重複，所以營運團隊正在畫一張流程圖，要【簡化】整個程序並縮短等候時間。",
+    "collocation": "simplify the application process 簡化申請流程"
+   },
+   {
+    "word": "framework",
+    "pos": "n.",
+    "en_def": "a basic structure of ideas used to plan or decide something",
+    "cn_def": "架構；框架",
+    "sentence": "A: How should we start planning the training program for the new sales staff who are joining us in January? B: Let's first build a simple {{BLANK}} with the main topics and goals for each week, and then we can add the details, activities, and trainers' names later.",
+    "cn": "A：我們要怎麼開始規劃一月加入的新業務人員的訓練課程？ B：我們先建立一個簡單的【架構】，列出每週的主要主題和目標，之後再加上細節、活動和講師的名字。",
+    "collocation": "a framework for decision-making 決策架構"
+   },
+   {
+    "word": "model",
+    "pos": "n.",
+    "en_def": "a simple copy or description of a system, used to explain or test it",
+    "cn_def": "模型；模式",
+    "sentence": "A: Before we spend money on the new delivery system, how can we know whether it will really save time for our drivers? B: The planning team built a computer {{BLANK}} of the delivery routes, so we can test different ideas and compare the results before making a final decision.",
+    "cn": "A：在我們花錢買新的配送系統之前，要怎麼知道它真的能幫司機節省時間？ B：規劃團隊建立了一個配送路線的電腦【模型】，所以我們可以在做最後決定之前測試不同的想法並比較結果。",
+    "collocation": "a business model 商業模式"
+   },
+   {
+    "word": "alignment",
+    "pos": "n.",
+    "en_def": "the state of being arranged in a straight or correct line",
+    "cn_def": "對齊；排列整齊",
+    "sentence": "A: I've checked every step and arrow carefully, so why does the flowchart still look a little messy on the slide? B: The {{BLANK}} of the boxes is not right, because some are a bit higher than others, so please line them up neatly before the client meeting this afternoon.",
+    "cn": "A：我已經仔細檢查過每個步驟和箭頭了，為什麼投影片上的流程圖看起來還是有點亂？ B：方框的【對齊】不對，因為有些比其他的高一點，所以請在今天下午和客戶開會前把它們排整齊。",
+    "collocation": "check the alignment of the text 檢查文字的對齊"
+   },
+   {
+    "word": "interaction",
+    "pos": "n.",
+    "en_def": "the way people or things communicate or work together",
+    "cn_def": "互動；相互作用",
+    "sentence": "A: Why does the new customer service chart include the sales team, the warehouse, and the delivery drivers all on one page? B: It shows the {{BLANK}} between all three groups, so managers can see how each team's actions affect the others when a customer places an urgent order.",
+    "cn": "A：為什麼新的客服流程圖把業務團隊、倉庫和送貨司機都放在同一頁？ B：它呈現這三個群體之間的【互動】，讓經理能看到當客戶下緊急訂單時，每個團隊的行動如何影響其他團隊。",
+    "collocation": "interaction between departments 部門之間的互動"
+   },
+   {
+    "word": "comparison",
+    "pos": "n.",
+    "en_def": "the act of looking at two or more things to see how they are similar or different",
+    "cn_def": "比較",
+    "sentence": "A: Why did the operations manager put the old ordering steps and the new ordering steps side by side on the same slide? B: She wanted to make a clear {{BLANK}}, so the directors could easily see that the new system has fewer steps and takes less time.",
+    "cn": "A：為什麼營運經理把舊的訂購步驟和新的訂購步驟並排放在同一張投影片上？ B：她想做一個清楚的【比較】，讓董事們能輕易看出新系統的步驟比較少，也比較省時間。",
+    "collocation": "make a comparison between two plans 比較兩個方案"
+   },
+   {
+    "word": "visualization",
+    "pos": "n.",
+    "en_def": "a picture or chart that shows information so that it is easy to see and understand",
+    "cn_def": "視覺化（呈現）",
+    "sentence": "A: The sales report has hundreds of numbers from twelve different stores, so how can the regional manager understand it quickly before the meeting? B: The data team created a {{BLANK}} with colorful charts and a simple flow diagram, so she can see the strongest and weakest stores in seconds.",
+    "cn": "A：銷售報告裡有來自十二家分店的幾百個數字，區域經理要怎麼在開會前快速看懂？ B：數據團隊製作了一份有彩色圖表和簡單流程圖的【視覺化呈現】，讓她幾秒鐘內就能看出表現最好和最差的分店。",
+    "collocation": "data visualization tools 數據視覺化工具"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The report has a clear _____ with an introduction, three main sections, and a summary. Readers can easily find the information they need.",
+    "options": [
+     "node",
+     "annotation",
+     "comparison",
+     "structure"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The new office design improves the _____ of people through the building. Visitors no longer get lost between the lobby and the meeting rooms.",
+    "options": [
+     "flow",
+     "label",
+     "hierarchy",
+     "symbol"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Applying for a business visa is a long _____. It can take up to six weeks to collect the documents and get approval.",
+    "options": [
+     "node",
+     "process",
+     "label",
+     "visual"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Our survey found a strong _____ between staff training and customer satisfaction. Stores that trained more often received better reviews.",
+    "options": [
+     "layout",
+     "symbol",
+     "relationship",
+     "overview"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The battery is the most expensive _____ of an electric car. Engineers are working hard to make it cheaper and lighter.",
+    "options": [
+     "overview",
+     "clarity",
+     "path",
+     "component"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Customers complained that the online shop was hard to use. The designers changed the _____ so the search bar appears at the top of every page.",
+    "options": [
+     "layout",
+     "comparison",
+     "interaction",
+     "annotation"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The artist was hired to _____ the new children's book. She drew more than forty colorful pictures for its pages.",
+    "options": [
+     "organize",
+     "illustrate",
+     "explain",
+     "simplify"
+    ],
+    "answer": 1,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The hotel offers a free internet _____ in every room. Guests only need the password printed on their room key card.",
+    "options": [
+     "hierarchy",
+     "overview",
+     "connection",
+     "symbol"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The dance teacher showed the students a _____ of six simple moves. They practiced the moves in order until they could do them without stopping.",
+    "options": [
+     "sequence",
+     "clarity",
+     "label",
+     "framework"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "In many traditional companies, there is a strict _____ of managers. Junior staff rarely speak directly to the company president.",
+    "options": [
+     "visual",
+     "annotation",
+     "node",
+     "hierarchy"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Each office computer is a _____ in the company network. If one stops working, the others can still share files.",
+    "options": [
+     "overview",
+     "clarity",
+     "node",
+     "comparison"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Our team will _____ the year-end party at a hotel near the office. We need to book the room, order food, and send invitations.",
+    "options": [
+     "explain",
+     "organize",
+     "illustrate",
+     "simplify"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Please keep to the marked _____ when you walk through the factory. The areas near the machines are dangerous for visitors.",
+    "options": [
+     "label",
+     "model",
+     "path",
+     "alignment"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "On the map, a small red cross is the _____ for a hospital. Drivers can use it to find medical help quickly.",
+    "options": [
+     "symbol",
+     "framework",
+     "interaction",
+     "flow"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Please check the _____ on the box before you sign for the delivery. It shows the customer's name and the order number.",
+    "options": [
+     "alignment",
+     "comparison",
+     "hierarchy",
+     "label"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The editor wrote an _____ in the margin of the report. It explained that two of the sales figures needed to be checked again.",
+    "options": [
+     "overview",
+     "annotation",
+     "interaction",
+     "alignment"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Could you please _____ why the shipment is three days late? The client wants a clear reason before the end of today.",
+    "options": [
+     "explain",
+     "simplify",
+     "organize",
+     "illustrate"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The first chapter of the handbook gives a short _____ of the company. Later chapters explain each department's rules in detail.",
+    "options": [
+     "node",
+     "overview",
+     "symbol",
+     "alignment"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The speaker used a simple _____ to show how sales grew over five years. The audience understood the trend in just a few seconds.",
+    "options": [
+     "hierarchy",
+     "node",
+     "visual",
+     "path"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The new manual is written with great _____. Even workers who have never used the machine can follow the instructions easily.",
+    "options": [
+     "node",
+     "hierarchy",
+     "component",
+     "clarity"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Before the move, the team did careful _____ of every shelf in the new warehouse. This helped them find items quickly.",
+    "options": [
+     "mapping",
+     "clarity",
+     "label",
+     "symbol"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The new app will _____ the ordering steps from ten clicks to just three. Customers will find buying online much faster.",
+    "options": [
+     "organize",
+     "illustrate",
+     "explain",
+     "simplify"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The government created a legal _____ for online businesses. It sets basic rules that every e-commerce company must follow.",
+    "options": [
+     "node",
+     "framework",
+     "label",
+     "visual"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Before building the new shopping mall, the architects showed the city council a small _____ of it. Council members could see the whole design from above.",
+    "options": [
+     "clarity",
+     "path",
+     "model",
+     "annotation"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The printer is producing crooked pages again. A technician will come this afternoon to fix the _____ of the paper tray.",
+    "options": [
+     "alignment",
+     "overview",
+     "hierarchy",
+     "relationship"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The new online store allows direct _____ between customers and sales staff through live chat. Shoppers can get answers within seconds.",
+    "options": [
+     "layout",
+     "symbol",
+     "interaction",
+     "node"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The website offers a quick price _____ of the three phone plans. Customers can easily see which plan is the cheapest.",
+    "options": [
+     "hierarchy",
+     "node",
+     "annotation",
+     "comparison"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The data team turned the long sales report into a clear _____. Managers could understand the results by looking at one colorful chart.",
+    "options": [
+     "hierarchy",
+     "visualization",
+     "alignment",
+     "path"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The company is updating its hiring _____ this year. Applicants will now complete an online test before the first interview.",
+    "options": [
+     "symbol",
+     "node",
+     "process",
+     "clarity"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The numbers on the tickets follow a simple _____ from 001 to 500. Please give them out in order at the entrance.",
+    "options": [
+     "layout",
+     "clarity",
+     "component",
+     "sequence"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   }
+  ]
+ },
+ "144": {
+  "theme": "Flowers 花卉",
+  "source": "https://www.examword.com/group-topic/flowers",
+  "VOCAB": [
+   {
+    "word": "blossom",
+    "pos": "n.",
+    "en_def": "a flower on a tree or bush, especially in spring",
+    "cn_def": "（果樹的）花；花朵",
+    "sentence": "A: Why is the hotel's garden café so busy this week, and why are so many guests taking photos near the entrance? B: The cherry trees by the front gate are covered in pink {{BLANK}} right now, so visitors come early in the morning to enjoy the view before the petals start falling next week.",
+    "cn": "A：為什麼飯店的花園咖啡廳這週這麼忙，而且為什麼這麼多客人在入口附近拍照？ B：前門旁的櫻花樹現在開滿了粉紅色的【花朵】，所以遊客一大早就來欣賞美景，趕在下週花瓣開始飄落之前。",
+    "collocation": "cherry blossom season 櫻花季"
+   },
+   {
+    "word": "petal",
+    "pos": "n.",
+    "en_def": "one of the soft colored parts of a flower",
+    "cn_def": "花瓣",
+    "sentence": "A: Did the wedding planner finally decide how to make the dinner tables look special for Saturday's reception at the hotel? B: Yes, she will place one red rose {{BLANK}} on every guest's napkin, so she has ordered three large boxes from the flower market and will keep them cool in the fridge until Saturday morning.",
+    "cn": "A：婚禮策劃師最後決定好要怎麼讓週六飯店喜宴的餐桌看起來特別了嗎？ B：決定了，她會在每位賓客的餐巾上放一片紅玫瑰【花瓣】，所以她從花市訂了三大箱，並會放在冰箱裡保持冰涼直到週六早上。",
+    "collocation": "scatter rose petals on the table 在桌上撒玫瑰花瓣"
+   },
+   {
+    "word": "stem",
+    "pos": "n.",
+    "en_def": "the long thin part of a plant that holds the flower",
+    "cn_def": "莖；花梗",
+    "sentence": "A: Why do the flowers in the lobby always stay fresh for more than a week, while the ones in our office die after only two days? B: The hotel staff cut the end of each {{BLANK}} at an angle every morning and change the water, so the flowers can drink more easily and last much longer than ours do.",
+    "cn": "A：為什麼大廳裡的花總是能保持新鮮超過一週，而我們辦公室的花只撐兩天就凋謝了？ B：飯店員工每天早上都會把每根【花莖】的末端斜切，並且換水，所以花能更容易吸水，也比我們的花持久得多。",
+    "collocation": "cut the stems at an angle 斜剪花莖"
+   },
+   {
+    "word": "leaf",
+    "pos": "n.",
+    "en_def": "one of the flat green parts of a plant",
+    "cn_def": "葉子",
+    "sentence": "A: Is something wrong with the large plant next to the reception desk, or does it just need to be moved closer to the window? B: I noticed that almost every {{BLANK}} has turned yellow and dry at the edges, so I've asked the cleaning company to send someone from their plant care team to check it on Friday.",
+    "cn": "A：櫃台旁那盆大型植物是出了什麼問題，還是只需要把它移到靠近窗戶的地方？ B：我注意到幾乎每一片【葉子】的邊緣都變黃變乾了，所以我已經請清潔公司派植物照護團隊的人週五來檢查。",
+    "collocation": "a fallen leaf on the sidewalk 人行道上的一片落葉"
+   },
+   {
+    "word": "bud",
+    "pos": "n.",
+    "en_def": "a small part of a plant that will open into a flower",
+    "cn_def": "花苞；芽",
+    "sentence": "A: Why did you buy roses that are still closed for the opening party, when the event is only three days away? B: The florist told me that if each {{BLANK}} is still tight when you buy it, the flowers will open slowly and look their best on the day of the event instead of dying early.",
+    "cn": "A：開幕派對只剩三天了，為什麼你買的玫瑰還都是閉合的？ B：花店老闆告訴我，如果買的時候每個【花苞】都還很緊實，花就會慢慢綻放，在活動當天呈現最美的樣子，而不會太早凋謝。",
+    "collocation": "the first buds of spring 春天的第一批花苞"
+   },
+   {
+    "word": "bloom",
+    "pos": "v.",
+    "en_def": "to produce flowers; to open",
+    "cn_def": "開花",
+    "sentence": "A: When is the best time to bring our overseas clients to visit the famous plum farm in the mountains of Nantou? B: Most of the plum trees there {{BLANK}} in late January, so if we plan the trip for the last weekend of the month, the clients will see the whole hillside covered in white flowers.",
+    "cn": "A：什麼時候帶海外客戶去參觀南投山區那座知名的梅園最好？ B：那裡大部分的梅樹在一月下旬【開花】，所以如果我們把行程安排在這個月的最後一個週末，客戶就能看到整片山坡覆蓋著白色的花朵。",
+    "collocation": "bloom in early spring 在早春開花"
+   },
+   {
+    "word": "fragrant",
+    "pos": "adj.",
+    "en_def": "having a pleasant smell",
+    "cn_def": "芳香的；香的",
+    "sentence": "A: Which flowers should we put in the hotel guest rooms, since several guests last month said the rooms smelled a little like cleaning products? B: Let's choose lilies or jasmine, because they are very {{BLANK}} and a small vase on each desk will make the whole room smell sweet and relaxing for our guests.",
+    "cn": "A：既然上個月有幾位房客說房間聞起來有點像清潔用品，我們應該在飯店客房裡放什麼花？ B：我們選百合或茉莉吧，因為它們非常【芳香】，每張書桌上放一個小花瓶，就能讓整個房間對客人來說聞起來香甜又放鬆。",
+    "collocation": "fragrant flowers 芳香的花朵"
+   },
+   {
+    "word": "scent",
+    "pos": "n.",
+    "en_def": "a pleasant smell",
+    "cn_def": "香味；氣味",
+    "sentence": "A: Why does the new shopping mall smell so nice near the main entrance, even though there isn't any flower shop on the first floor? B: The marketing team installed machines that spread a light rose {{BLANK}} through the air, because they believe a pleasant smell makes customers relax and stay in the mall longer.",
+    "cn": "A：為什麼新購物中心的主入口附近聞起來這麼香，即使一樓並沒有花店？ B：行銷團隊安裝了機器，在空氣中散發淡淡的玫瑰【香味】，因為他們相信宜人的氣味能讓顧客放鬆，並在商場待得更久。",
+    "collocation": "a light floral scent 淡淡的花香"
+   },
+   {
+    "word": "bouquet",
+    "pos": "n.",
+    "en_def": "a bunch of flowers arranged nicely",
+    "cn_def": "花束",
+    "sentence": "A: What should we give Ms. Chen on her last day at the office after working with our company for more than twenty years? B: Everyone in the department has signed a card, and I have also ordered a large {{BLANK}} of her favorite yellow roses, which the shop will deliver to the meeting room at four o'clock.",
+    "cn": "A：陳女士在我們公司服務了二十多年，她最後一天上班時我們應該送她什麼？ B：部門裡每個人都在卡片上簽了名，我也訂了一個用她最喜歡的黃玫瑰做成的大【花束】，花店會在四點鐘送到會議室。",
+    "collocation": "a bouquet of roses 一束玫瑰"
+   },
+   {
+    "word": "arrangement",
+    "pos": "n.",
+    "en_def": "flowers placed together in an attractive way",
+    "cn_def": "插花；花藝擺設",
+    "sentence": "A: Why does the front desk look so different this morning, and who changed the decorations near the entrance over the weekend? B: The hotel hired a local artist to create a tall flower {{BLANK}} with orchids and green branches, and it will be replaced with a new design every Monday for the rest of the year.",
+    "cn": "A：為什麼櫃台今天早上看起來這麼不一樣，週末是誰換了入口附近的裝飾？ B：飯店聘請了一位當地藝術家，用蘭花和綠色枝葉打造了一座高大的【插花作品】，而且今年剩下的時間每週一都會換上新的設計。",
+    "collocation": "a flower arrangement for the reception desk 擺在接待櫃台的插花"
+   },
+   {
+    "word": "garden",
+    "pos": "n.",
+    "en_def": "a piece of land where flowers or plants are grown",
+    "cn_def": "花園",
+    "sentence": "A: Where are we having the company's summer party this year, since the hotel ballroom is fully booked in July? B: The manager found a restaurant with a large {{BLANK}} full of roses and tall trees behind the building, so we can eat outside in the evening when the weather is cooler.",
+    "cn": "A：既然飯店宴會廳七月都被訂滿了，今年公司的夏季派對要在哪裡舉辦？ B：經理找到一家餐廳，建築後方有一座種滿玫瑰和高大樹木的大【花園】，所以我們可以在天氣比較涼爽的傍晚在戶外用餐。",
+    "collocation": "a rooftop garden 屋頂花園"
+   },
+   {
+    "word": "vase",
+    "pos": "n.",
+    "en_def": "a container for holding cut flowers",
+    "cn_def": "花瓶",
+    "sentence": "A: Where should I put the flowers that our clients sent us this morning to thank us for finishing their project early? B: There is a tall glass {{BLANK}} in the cupboard next to the kitchen sink, so fill it with cool water and place it on the reception desk where every visitor can see them.",
+    "cn": "A：客戶今天早上送來感謝我們提早完成專案的花，我應該放在哪裡？ B：廚房水槽旁的櫥櫃裡有一個高的玻璃【花瓶】，裝滿冷水後把它放在接待櫃台上，讓每位訪客都能看到。",
+    "collocation": "put the flowers in a vase 把花插進花瓶"
+   },
+   {
+    "word": "rose",
+    "pos": "n.",
+    "en_def": "a flower with a sweet smell and thorns on its stem",
+    "cn_def": "玫瑰",
+    "sentence": "A: What kind of flowers are customers buying most this week, and do we have enough stock for the holiday weekend? B: Since Valentine's Day is on Saturday, almost every customer wants a red {{BLANK}}, so I have asked our supplier to send two hundred more by Thursday afternoon at the latest.",
+    "cn": "A：這週顧客最常買哪種花？我們有足夠的存貨應付節日週末嗎？ B：因為情人節在週六，幾乎每位顧客都想要一朵紅【玫瑰】，所以我已經請供應商最晚在週四下午前再送兩百朵過來。",
+    "collocation": "a dozen red roses 一打紅玫瑰"
+   },
+   {
+    "word": "tulip",
+    "pos": "n.",
+    "en_def": "a bright cup-shaped spring flower, famous in the Netherlands",
+    "cn_def": "鬱金香",
+    "sentence": "A: What did you enjoy most about your business trip to Amsterdam last April, apart from meeting the new suppliers? B: On my free afternoon, I visited a huge park where thousands of red and yellow {{BLANK}} flowers grew in long lines, and it was the most colorful place I have ever seen.",
+    "cn": "A：除了和新供應商見面之外，去年四月去阿姆斯特丹出差，你最喜歡的是什麼？ B：在我空閒的那個下午，我參觀了一座大公園，那裡成千上萬朵紅色和黃色的【鬱金香】排成長長的一列列，那是我看過最繽紛的地方。",
+    "collocation": "tulip fields in the Netherlands 荷蘭的鬱金香花田"
+   },
+   {
+    "word": "daisy",
+    "pos": "n.",
+    "en_def": "a small flower with white petals and a yellow center",
+    "cn_def": "雛菊",
+    "sentence": "A: Why did the café owner choose such simple flowers for the tables instead of expensive roses or orchids? B: She says a small white {{BLANK}} in a glass bottle matches the café's natural, relaxing style, and it is much cheaper, so she can replace the flowers every two days without spending too much.",
+    "cn": "A：為什麼咖啡廳老闆選擇這麼簡單的花放在桌上，而不是昂貴的玫瑰或蘭花？ B：她說玻璃瓶裡的一朵小白【雛菊】和咖啡廳自然放鬆的風格很搭，而且便宜得多，所以她每兩天就能換一次花，又不必花太多錢。",
+    "collocation": "pick a daisy from the field 從田野摘一朵雛菊"
+   },
+   {
+    "word": "lily",
+    "pos": "n.",
+    "en_def": "a large trumpet-shaped flower, often white",
+    "cn_def": "百合",
+    "sentence": "A: Why did the hotel manager ask us to remove all the white flowers from the dining room before the cat show guests arrive? B: She read that the {{BLANK}} is very dangerous for cats, even if they only touch the pollen, so she wants to make sure none of the animals get sick during the event.",
+    "cn": "A：為什麼飯店經理要我們在貓展來賓抵達前，把餐廳裡所有白色的花都撤掉？ B：她讀到【百合】對貓非常危險，就算只碰到花粉也一樣，所以她想確保活動期間沒有任何動物生病。",
+    "collocation": "a white lily in a vase 花瓶中的一朵白百合"
+   },
+   {
+    "word": "orchid",
+    "pos": "n.",
+    "en_def": "an elegant flower with unusual shapes, often given as a gift",
+    "cn_def": "蘭花",
+    "sentence": "A: What gift should we send to our business partner who is opening a new office in Hsinchu next Monday? B: In Taiwan, a large potted {{BLANK}} is a popular gift for a new business because it looks elegant and lasts for months, so let's order one with a card from our CEO.",
+    "cn": "A：我們的合作夥伴下週一要在新竹開新辦公室，我們應該送什麼禮物？ B：在台灣，大型盆栽【蘭花】是祝賀開業的熱門禮物，因為它看起來高雅又能維持好幾個月，所以我們訂一盆並附上執行長的卡片吧。",
+    "collocation": "a potted orchid as an opening gift 作為開幕賀禮的盆栽蘭花"
+   },
+   {
+    "word": "sunflower",
+    "pos": "n.",
+    "en_def": "a very tall plant with a large yellow flower",
+    "cn_def": "向日葵",
+    "sentence": "A: Why are so many families driving out to that farm near the coast this weekend, and is it worth taking our team there? B: The farm has a huge field where every tall yellow {{BLANK}} turns to face the sun, so it is a great place for group photos, and they also sell fresh ice cream and snacks.",
+    "cn": "A：為什麼這週末這麼多家庭開車去海岸附近那座農場？值得帶我們團隊去嗎？ B：那座農場有一大片田地，每一株高大的黃色【向日葵】都會轉向太陽，所以很適合拍團體照，而且他們也賣新鮮的冰淇淋和點心。",
+    "collocation": "sunflower seeds as a healthy snack 當作健康零食的葵花子"
+   },
+   {
+    "word": "wildflower",
+    "pos": "n.",
+    "en_def": "a flower that grows naturally, not planted by people",
+    "cn_def": "野花",
+    "sentence": "A: What did you see on the company hiking trip in the mountains last Saturday, since I had to stay home with a cold? B: The trail was lined with every kind of {{BLANK}} you can imagine, from tiny purple ones to bright orange ones, and our guide told us we must not pick any of them.",
+    "cn": "A：上週六公司去山上健行你們看到了什麼？我因為感冒只好待在家。 B：步道兩旁開滿了各式各樣你想像得到的【野花】，從小小的紫色花到鮮豔的橘色花都有，而且導遊告訴我們一朵都不能摘。",
+    "collocation": "a wildflower meadow 野花草地"
+   },
+   {
+    "word": "colorful",
+    "pos": "adj.",
+    "en_def": "having many bright colors",
+    "cn_def": "色彩繽紛的",
+    "sentence": "A: How did the design team make the new lobby feel so welcoming after so many guests complained that it was dark and boring? B: They added large windows and filled the space with {{BLANK}} flowers in red, yellow, and purple, so now the area looks bright and cheerful even on rainy days.",
+    "cn": "A：之前很多客人抱怨大廳又暗又無聊，設計團隊是怎麼讓新大廳變得這麼溫馨的？ B：他們加了大片窗戶，並在空間裡擺滿紅、黃、紫色的【色彩繽紛的】花朵，所以現在即使下雨天，這一區看起來也明亮又愉快。",
+    "collocation": "colorful flower beds 色彩繽紛的花圃"
+   },
+   {
+    "word": "delicate",
+    "pos": "adj.",
+    "en_def": "easily damaged; needing careful handling",
+    "cn_def": "嬌嫩的；易損的",
+    "sentence": "A: Why did the delivery driver ask us to sign a special form before he unloaded the boxes of flowers for the wedding? B: The orchids inside are very {{BLANK}} and can break if someone drops the boxes, so the company wants proof that they arrived in perfect condition before we carry them upstairs.",
+    "cn": "A：為什麼送貨司機在卸下婚禮用的花箱之前，要我們簽一張特別的表格？ B：裡面的蘭花非常【嬌嫩】，如果有人把箱子摔落就可能折斷，所以公司希望在我們搬上樓之前，有證據證明花送達時狀況完好。",
+    "collocation": "delicate flowers that need careful handling 需要小心處理的嬌嫩花朵"
+   },
+   {
+    "word": "fresh",
+    "pos": "adj.",
+    "en_def": "recently picked; not old or dying",
+    "cn_def": "新鮮的",
+    "sentence": "A: Why does the restaurant buy flowers from the market every Monday morning instead of ordering them once a month online? B: The owner believes that only {{BLANK}} flowers that were cut the same day can make the dining room look elegant, and old ones that start to droop give customers a bad impression.",
+    "cn": "A：為什麼餐廳每週一早上都去市場買花，而不是一個月在網路上訂一次？ B：老闆認為只有當天剪下的【新鮮】花朵才能讓用餐區看起來高雅，而開始垂頭的舊花會給顧客不好的印象。",
+    "collocation": "fresh flowers delivered daily 每日配送的鮮花"
+   },
+   {
+    "word": "artificial",
+    "pos": "adj.",
+    "en_def": "made by people, not real",
+    "cn_def": "人造的；假的",
+    "sentence": "A: Why did the office manager replace the real plants in the meeting rooms with ones that look almost the same? B: Nobody had time to look after the real ones, so she bought {{BLANK}} flowers made of silk, which never need water and still look beautiful after many months.",
+    "cn": "A：為什麼辦公室經理把會議室裡的真植物換成幾乎一模一樣的植物？ B：沒有人有時間照顧真的植物，所以她買了絲綢做的【人造】花，它們永遠不需要澆水，而且幾個月後看起來還是很漂亮。",
+    "collocation": "artificial flowers made of silk 絲綢製的人造花"
+   },
+   {
+    "word": "decorate",
+    "pos": "v.",
+    "en_def": "to make something look nicer by adding things to it",
+    "cn_def": "裝飾；布置",
+    "sentence": "A: What are the plans for the company's twentieth anniversary dinner, and do you need any help from our department? B: We are going to {{BLANK}} the ballroom with white roses and small candles on every table, so it would be great if some of your staff could come early on Friday to help us.",
+    "cn": "A：公司二十週年紀念晚宴的計畫是什麼？需要我們部門幫忙嗎？ B：我們打算用白玫瑰和每張桌上的小蠟燭來【裝飾】宴會廳，所以如果你們部門有些同事週五能早點來幫忙就太好了。",
+    "collocation": "decorate the room with flowers 用花裝飾房間"
+   },
+   {
+    "word": "plant",
+    "pos": "v.",
+    "en_def": "to put seeds or young plants in the ground to grow",
+    "cn_def": "種植",
+    "sentence": "A: What is the new volunteer project that the human resources department announced in this morning's email to all staff? B: Next Saturday, employees can join a team to {{BLANK}} trees and flowers in the small park across the street, and the company will provide gloves, tools, lunch, and free T-shirts for everyone.",
+    "cn": "A：人資部門今天早上寄給全體員工的信中宣布的新志工專案是什麼？ B：下週六，員工可以加入團隊，到對街的小公園【種植】樹木和花卉，公司會提供手套、工具、午餐，還有每人一件免費T恤。",
+    "collocation": "plant flowers in the park 在公園種花"
+   },
+   {
+    "word": "water",
+    "pos": "v.",
+    "en_def": "to give water to plants",
+    "cn_def": "澆水",
+    "sentence": "A: Who will take care of the plants in the office while most of the team is away at the trade show in Tokyo next week? B: Ken is staying in Taipei, so he promised to {{BLANK}} them every other morning and move the small ones away from the window if the afternoon sun becomes too strong.",
+    "cn": "A：下週大部分團隊成員去東京參加展覽時，誰會照顧辦公室的植物？ B：Ken會留在台北，所以他答應每隔一天早上幫它們【澆水】，如果下午陽光太強，也會把小盆栽從窗邊移開。",
+    "collocation": "water the plants twice a week 一週幫植物澆水兩次"
+   },
+   {
+    "word": "fertilize",
+    "pos": "v.",
+    "en_def": "to add food to soil to help plants grow",
+    "cn_def": "施肥",
+    "sentence": "A: Why are the flowers in the front garden of our building growing so slowly this year, even though we water them every day? B: The gardener said the soil has lost most of its nutrients, so he is going to {{BLANK}} it once a month, and the flowers should become stronger and healthier by early summer.",
+    "cn": "A：為什麼我們大樓前花園的花今年長得這麼慢，即使我們每天都澆水？ B：園丁說土壤已經失去大部分的養分，所以他打算每個月【施肥】一次，到初夏時花應該會長得更強壯、更健康。",
+    "collocation": "fertilize the soil in spring 在春天為土壤施肥"
+   },
+   {
+    "word": "prune",
+    "pos": "v.",
+    "en_def": "to cut off unwanted branches to help a plant grow",
+    "cn_def": "修剪（枝葉）",
+    "sentence": "A: Why are the rose bushes in front of the hotel entrance so short now, when they were tall and full of flowers last month? B: The gardener had to {{BLANK}} them after the flowering season ended, because removing the old branches helps the plants grow stronger and produce even more flowers next spring.",
+    "cn": "A：為什麼飯店入口前的玫瑰叢現在這麼矮，上個月明明還很高而且開滿了花？ B：花季結束後，園丁必須【修剪】它們，因為剪掉老枝能幫助植物長得更強壯，明年春天開出更多花。",
+    "collocation": "prune the rose bushes in winter 在冬天修剪玫瑰叢"
+   },
+   {
+    "word": "wither",
+    "pos": "v.",
+    "en_def": "to become dry and weak and start to die",
+    "cn_def": "枯萎；凋謝",
+    "sentence": "A: Why do the flowers on the conference tables look so tired, when they were delivered fresh only this morning? B: The air conditioner broke down during lunch and the room became very hot, so the flowers began to {{BLANK}} quickly, and we need to replace them before the afternoon session starts.",
+    "cn": "A：為什麼會議桌上的花看起來這麼沒精神，明明今天早上才剛送來很新鮮？ B：冷氣在午餐時間壞了，房間變得非常熱，所以花很快就開始【枯萎】，我們必須在下午的會議開始前把它們換掉。",
+    "collocation": "flowers begin to wither in the heat 花朵在高溫中開始枯萎"
+   },
+   {
+    "word": "perennial",
+    "pos": "n.",
+    "en_def": "a plant that lives for more than two years",
+    "cn_def": "多年生植物",
+    "sentence": "A: Why did the building manager choose different plants for the rooftop garden instead of the colorful flowers we had last year? B: She wants each {{BLANK}} to grow back every spring without being replanted, which will save the company money and time, because the old flowers died after only one season.",
+    "cn": "A：為什麼大樓經理為屋頂花園選了不同的植物，而不是去年那些色彩繽紛的花？ B：她希望每一株【多年生植物】每年春天都能重新長出來而不必重新種植，這能幫公司省錢又省時間，因為舊的花只活一季就死了。",
+    "collocation": "a hardy perennial that blooms every year 每年開花的耐寒多年生植物"
+   },
+   {
+    "word": "annual",
+    "pos": "n.",
+    "en_def": "a plant that lives for only one year or season",
+    "cn_def": "一年生植物",
+    "sentence": "A: Why do the gardeners at the city park replace all the flowers in the main flower beds at the beginning of every spring? B: Each plant there is an {{BLANK}}, which grows, flowers, and dies within one season, so the staff must buy new ones every year to keep the park looking bright.",
+    "cn": "A：為什麼市立公園的園丁每年春天一開始都要把主花圃裡的花全部換掉？ B：那裡的每株植物都是【一年生植物】，在一季之內就發芽、開花、凋謝，所以工作人員每年都必須買新的，讓公園看起來明亮繽紛。",
+    "collocation": "bright summer annuals for the flower beds 種在花圃裡的明亮夏季一年生植物"
+   },
+   {
+    "word": "pollen",
+    "pos": "n.",
+    "en_def": "a yellow powder in flowers that helps make seeds",
+    "cn_def": "花粉",
+    "sentence": "A: Why does Linda always close the office windows and take medicine in March, even when the weather is warm and sunny? B: She has a strong allergy to the {{BLANK}} from the trees outside our building, so on sunny spring days she sneezes all morning unless she keeps the windows closed.",
+    "cn": "A：為什麼Linda每年三月總是關上辦公室的窗戶並吃藥，即使天氣溫暖晴朗？ B：她對我們大樓外樹木的【花粉】嚴重過敏，所以在晴朗的春天，除非把窗戶關上，否則她整個早上都會打噴嚏。",
+    "collocation": "a high pollen count 花粉濃度高"
+   },
+   {
+    "word": "nectar",
+    "pos": "n.",
+    "en_def": "the sweet liquid in flowers that bees collect",
+    "cn_def": "花蜜",
+    "sentence": "A: Why did the farm owner plant so many purple flowers around the edge of his fields, when he only sells honey and fruit? B: The bees collect sweet {{BLANK}} from those flowers to make honey, and while they fly from flower to flower, they also help his fruit trees produce a bigger harvest.",
+    "cn": "A：為什麼農場主人在田地四周種了這麼多紫色的花，而他只賣蜂蜜和水果？ B：蜜蜂從那些花採集香甜的【花蜜】來釀蜂蜜，而牠們在花朵之間飛來飛去時，也幫助他的果樹結出更多果實。",
+    "collocation": "bees collect nectar 蜜蜂採集花蜜"
+   },
+   {
+    "word": "florist",
+    "pos": "n.",
+    "en_def": "a person or shop that sells and arranges flowers",
+    "cn_def": "花商；花藝師；花店",
+    "sentence": "A: Who prepared the beautiful flowers for the grand opening of our new branch, and can we use the same company again next month? B: A local {{BLANK}} on Zhongshan Road made them, and she offers a ten percent discount to business customers who order flowers every month, so I'll call her this afternoon.",
+    "cn": "A：我們新分店盛大開幕的漂亮花是誰準備的？下個月我們能再找同一家嗎？ B：是中山路上一位當地的【花藝師】做的，她給每月訂花的企業客戶九折優惠，所以我今天下午會打電話給她。",
+    "collocation": "order flowers from a florist 向花店訂花"
+   },
+   {
+    "word": "greenhouse",
+    "pos": "n.",
+    "en_def": "a glass building where plants are grown",
+    "cn_def": "溫室",
+    "sentence": "A: How can the farm sell fresh strawberries and roses in the middle of winter, when it is so cold outside? B: They grow everything inside a large glass {{BLANK}} that stays warm all year, and a computer controls the temperature and the light so the plants grow quickly even in January.",
+    "cn": "A：外面這麼冷，為什麼那座農場在隆冬時節還能賣新鮮的草莓和玫瑰？ B：他們把所有作物都種在一座全年保持溫暖的大型玻璃【溫室】裡，並由電腦控制溫度和光線，所以即使在一月植物也長得很快。",
+    "collocation": "grow vegetables in a greenhouse 在溫室裡種蔬菜"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Every April, the park is full of visitors taking photos. The cherry trees are covered in pink _____ for about two weeks.",
+    "options": [
+     "blossom",
+     "vase",
+     "florist",
+     "greenhouse"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Please do not touch the flowers in the display. If even one _____ falls off, the arrangement will look incomplete.",
+    "options": [
+     "florist",
+     "petal",
+     "greenhouse",
+     "nectar"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Cut the end of each _____ before putting the roses in water. This helps the flowers drink and stay fresh longer.",
+    "options": [
+     "nectar",
+     "scent",
+     "stem",
+     "florist"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The roses have not opened yet. Each tight green _____ should become a full flower in about three days.",
+    "options": [
+     "vase",
+     "pollen",
+     "scent",
+     "bud"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Customers often stop in front of our shop. The sweet _____ of the jasmine near the door makes them curious.",
+    "options": [
+     "stem",
+     "scent",
+     "vase",
+     "greenhouse"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "For her retirement party, the team gave Linda a large _____ of tulips. She carried the flowers home with a big smile.",
+    "options": [
+     "bouquet",
+     "petal",
+     "pollen",
+     "greenhouse"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The hotel hired an artist to design the lobby flowers. Each week, she creates a new _____ using seasonal plants.",
+    "options": [
+     "pollen",
+     "petal",
+     "nectar",
+     "arrangement"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The restaurant has tables outside in a quiet _____. Guests can enjoy dinner among roses and fruit trees.",
+    "options": [
+     "bud",
+     "petal",
+     "garden",
+     "pollen"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The flowers from our client arrived this morning. Please put them in a _____ with some cool water.",
+    "options": [
+     "vase",
+     "bud",
+     "petal",
+     "scent"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "On Valentine's Day, the flower shop sells hundreds of them. A single red _____ is the most popular gift for couples.",
+    "options": [
+     "sunflower",
+     "florist",
+     "rose",
+     "greenhouse"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "In Taiwan, people often send a potted _____ to celebrate a new business. The elegant flower can last for months.",
+    "options": [
+     "pollen",
+     "orchid",
+     "nectar",
+     "petal"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The tall yellow _____ always turns its face toward the sun. Its seeds are also a popular healthy snack.",
+    "options": [
+     "rose",
+     "orchid",
+     "daisy",
+     "sunflower"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "This plant does not need to be replaced every spring. As a _____, it grows back by itself year after year.",
+    "options": [
+     "annual",
+     "florist",
+     "perennial",
+     "bouquet"
+    ],
+    "answer": 2,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The flowers in the front bed die at the end of summer. Each _____ lives for only one season, so we buy new ones every year.",
+    "options": [
+     "perennial",
+     "florist",
+     "greenhouse",
+     "annual"
+    ],
+    "answer": 3,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Many people sneeze a lot in spring. The _____ from trees and grass fills the air on warm, windy days.",
+    "options": [
+     "pollen",
+     "nectar",
+     "vase",
+     "bouquet"
+    ],
+    "answer": 0,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Bees visit thousands of flowers every day. They drink the sweet _____ and carry it back to the hive to make honey.",
+    "options": [
+     "petal",
+     "nectar",
+     "stem",
+     "vase"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   },
+   {
+    "q": "We ordered the wedding flowers from a local _____. She will deliver them to the hotel early on Saturday morning.",
+    "options": [
+     "greenhouse",
+     "vase",
+     "bud",
+     "florist"
+    ],
+    "answer": 3,
+    "vocabIndex": 33
+   },
+   {
+    "q": "The farm grows tomatoes in a glass _____ all winter. The warm air inside protects the plants from the cold.",
+    "options": [
+     "florist",
+     "greenhouse",
+     "bouquet",
+     "petal"
+    ],
+    "answer": 1,
+    "vocabIndex": 34
+   },
+   {
+    "q": "Jasmine is a popular choice for hotel rooms. Its _____ white flowers make the whole space smell sweet.",
+    "options": [
+     "artificial",
+     "colorful",
+     "fragrant",
+     "delicate"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The old flower beds had only white flowers. The new ones are much more _____, with red, yellow, and purple blooms.",
+    "options": [
+     "colorful",
+     "artificial",
+     "delicate",
+     "fragrant"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Please handle these orchids carefully. Their petals are very _____ and can tear if you touch them.",
+    "options": [
+     "colorful",
+     "delicate",
+     "fragrant",
+     "fresh"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "These roses were cut from the farm only this morning. They are so _____ that the drops of dew are still on them.",
+    "options": [
+     "artificial",
+     "colorful",
+     "fresh",
+     "fragrant"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Nobody in the office has time to water plants. The manager bought _____ flowers made of silk instead.",
+    "options": [
+     "fresh",
+     "fragrant",
+     "delicate",
+     "artificial"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The plum trees in the mountains _____ in late January. Many tourists drive there to see the white flowers.",
+    "options": [
+     "bloom",
+     "wither",
+     "decorate",
+     "plant"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The team will _____ the meeting room with balloons and flowers. The party for our new manager starts at five.",
+    "options": [
+     "wither",
+     "bloom",
+     "decorate",
+     "prune"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Volunteers will _____ two hundred young trees along the river on Saturday. The city will provide all the tools.",
+    "options": [
+     "plant",
+     "wither",
+     "bloom",
+     "decorate"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Ken will _____ the office plants every other morning. Without enough moisture, they would dry out while we are away.",
+    "options": [
+     "wither",
+     "water",
+     "bloom",
+     "decorate"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The soil in the garden has lost its nutrients. The gardener will _____ it once a month to help the flowers grow.",
+    "options": [
+     "wither",
+     "bloom",
+     "decorate",
+     "fertilize"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The gardener will _____ the rose bushes in winter. Cutting off the old branches helps them grow stronger next year.",
+    "options": [
+     "prune",
+     "wither",
+     "bloom",
+     "decorate"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The air conditioner broke during the lunch break. In the hot room, the table flowers began to _____ quickly.",
+    "options": [
+     "prune",
+     "fertilize",
+     "wither",
+     "decorate"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   }
+  ]
  }
 }
