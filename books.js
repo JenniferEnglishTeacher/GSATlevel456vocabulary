@@ -2514,7 +2514,12 @@ window.VOCAB_ZONES = {
    63,
    64,
    65,
-   66
+   66,
+   67,
+   68,
+   69,
+   70,
+   71
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2581,7 +2586,12 @@ window.VOCAB_ZONES = {
    "63": "Coins 硬幣",
    "64": "Colleague 同事",
    "65": "Collection 收藏",
-   "66": "Color 顏色"
+   "66": "Color 顏色",
+   "67": "Comedy 喜劇",
+   "68": "Communication 溝通",
+   "69": "Company 公司",
+   "70": "Competition 競爭；比賽",
+   "71": "Complaining 抱怨"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }
