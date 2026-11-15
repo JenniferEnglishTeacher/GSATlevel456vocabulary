@@ -52,7 +52,7 @@
 52 chatting
 53 child
 54 childhood-activities
-55 childhood-friend
+55 childhood-friend SKIP (Jennifer: examword page duplicates children-education; do not build)
 56 children-education
 57 chocolate
 58 city

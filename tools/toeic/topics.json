@@ -31286,5 +31286,2505 @@
     "vocabIndex": 2
    }
   ]
+ },
+ "52": {
+  "theme": "Chatting 聊天",
+  "source": "https://www.examword.com/group-topic/chatting",
+  "VOCAB": [
+   {
+    "word": "chat",
+    "pos": "v.",
+    "en_def": "to talk in a friendly, informal way",
+    "cn_def": "聊天、閒聊",
+    "sentence": "A: I noticed that you spent almost an hour in the break room with the new intern this afternoon, so was there a problem with her first project? B: No, everything is fine, we just wanted to {{BLANK}} about her hometown and her favorite restaurants, because I want her to feel welcome on the team.",
+    "cn": "A：我注意到你今天下午和新實習生在休息室待了快一個小時，她的第一個專案有問題嗎？ B：沒有，一切都很好，我們只是想【聊聊】她的家鄉和她最喜歡的餐廳，因為我希望她在團隊裡感到受歡迎。",
+    "collocation": "chat with a colleague 和同事聊天"
+   },
+   {
+    "word": "chatter",
+    "pos": "n.",
+    "en_def": "quick, continuous talk about unimportant things",
+    "cn_def": "喋喋不休、閒聊聲",
+    "sentence": "A: Why did you move your desk from the open area to the small room next to the storage closet last Monday? B: The loud {{BLANK}} from the sales team near the coffee machine made it hard for me to concentrate on the monthly budget report, so my manager kindly let me work somewhere quieter.",
+    "cn": "A：你上週一為什麼把辦公桌從開放區搬到儲藏室旁邊的小房間？ B：咖啡機附近業務團隊吵雜的【閒聊聲】讓我很難專心做每月預算報告，所以經理好心讓我到比較安靜的地方工作。",
+    "collocation": "constant chatter in the office 辦公室裡不斷的閒聊聲"
+   },
+   {
+    "word": "conversation",
+    "pos": "n.",
+    "en_def": "a talk between two or more people",
+    "cn_def": "對話、交談",
+    "sentence": "A: How did you find out that the client in Singapore was unhappy with our delivery schedule before the official complaint arrived? B: I had a long phone {{BLANK}} with their purchasing manager yesterday evening, and she told me openly that the last two shipments were late and that her boss was worried.",
+    "cn": "A：在正式投訴送到之前，你是怎麼發現新加坡的客戶對我們的交貨時程不滿意的？ B：我昨天傍晚和他們的採購經理進行了很長的電話【交談】，她坦白告訴我最近兩批貨都遲到了，而且她的老闆很擔心。",
+    "collocation": "have a phone conversation 進行電話交談"
+   },
+   {
+    "word": "talk",
+    "pos": "n.",
+    "en_def": "a short speech to a group of people about a subject",
+    "cn_def": "演講、談話",
+    "sentence": "A: Are you going to the marketing conference in Taichung next month, or are you too busy with the new product launch? B: I'm definitely going, because our director asked me to give a short {{BLANK}} about how we used social media to attract younger customers, and I've already started preparing my slides.",
+    "cn": "A：你下個月要去台中的行銷研討會嗎？還是你忙著新產品上市太忙了？ B：我一定會去，因為我們的主管請我做一場簡短的【演講】，談談我們如何利用社群媒體吸引年輕顧客，我已經開始準備投影片了。",
+    "collocation": "give a talk on marketing 做一場關於行銷的演講"
+   },
+   {
+    "word": "discussion",
+    "pos": "n.",
+    "en_def": "a talk in which people share ideas and opinions about something",
+    "cn_def": "討論",
+    "sentence": "A: Did the managers finally decide whether the company will allow employees to work from home two days a week? B: Not yet, they had a long {{BLANK}} about it during this morning's meeting, but they still disagree about how to measure productivity, so they will meet again next Thursday.",
+    "cn": "A：經理們最後決定公司是否允許員工每週在家工作兩天了嗎？ B：還沒，他們在今天早上的會議中對此進行了很長的【討論】，但對於如何衡量生產力仍有分歧，所以下週四會再開會。",
+    "collocation": "a lively discussion about the plan 關於計畫的熱烈討論"
+   },
+   {
+    "word": "dialogue",
+    "pos": "n.",
+    "en_def": "a serious talk between groups to solve a problem or understand each other",
+    "cn_def": "對話、溝通",
+    "sentence": "A: The two departments have been arguing about the shared budget for weeks, so what is the new manager planning to do about it? B: She wants to start an open {{BLANK}} between the team leaders, so every Friday they will sit down together, explain their needs honestly, and try to find a fair solution.",
+    "cn": "A：兩個部門為了共用預算已經爭吵好幾週了，新經理打算怎麼處理？ B：她想在團隊主管之間展開開放的【對話】，所以每週五他們會坐下來一起坦誠說明各自的需求，並試著找出公平的解決辦法。",
+    "collocation": "open a dialogue with the union 與工會展開對話"
+   },
+   {
+    "word": "gossip",
+    "pos": "n.",
+    "en_def": "talk about other people's private lives, often not true",
+    "cn_def": "八卦、閒話",
+    "sentence": "A: Is it true that our branch office in Kaohsiung is going to close at the end of the year? B: I don't think so, that is probably just {{BLANK}} from the staff lounge, because the regional manager told me yesterday that sales there have actually increased and they are hiring more people.",
+    "cn": "A：我們高雄分公司年底要關閉是真的嗎？ B：我不這麼認為，那大概只是員工休息室流傳的【八卦】，因為區域經理昨天告訴我那裡的業績其實有成長，而且他們正在招募更多人。",
+    "collocation": "office gossip 辦公室八卦"
+   },
+   {
+    "word": "small talk",
+    "pos": "n.phr.",
+    "en_def": "polite talk about unimportant topics, often with people you don't know well",
+    "cn_def": "寒暄、閒聊",
+    "sentence": "A: I always feel nervous at networking events because I never know what to say to people I have just met. B: Start with some easy {{BLANK}} about the weather, the food, or the traffic on the way there, and after a few minutes the conversation usually becomes more natural and relaxed.",
+    "cn": "A：我在交流活動上總是很緊張，因為我從來不知道要對剛認識的人說什麼。 B：先從一些輕鬆的【寒暄】開始，例如天氣、食物或來的路上的交通，幾分鐘後對話通常就會變得比較自然和放鬆。",
+    "collocation": "make small talk with clients 和客戶寒暄"
+   },
+   {
+    "word": "banter",
+    "pos": "n.",
+    "en_def": "friendly joking talk between people",
+    "cn_def": "打趣、玩笑話",
+    "sentence": "A: The new designers seem to get along really well, don't they, even though they only joined the company two weeks ago? B: Yes, there is always friendly {{BLANK}} between them during lunch, and they joke about each other's favorite sports teams, which makes the whole office feel more cheerful.",
+    "cn": "A：新來的設計師們似乎相處得很好，對吧？雖然他們兩週前才進公司。 B：是啊，午餐時他們之間總是有友善的【玩笑話】，還會互相開對方最喜歡的運動隊伍的玩笑，讓整個辦公室感覺更愉快。",
+    "collocation": "friendly banter among coworkers 同事間友善的打趣"
+   },
+   {
+    "word": "exchange",
+    "pos": "v.",
+    "en_def": "to give something to someone and receive something from them",
+    "cn_def": "交換",
+    "sentence": "A: The conference in Tokyo was very busy, so did you have any chance to meet people from other companies in our industry? B: Yes, during the coffee breaks I was able to {{BLANK}} business cards with several suppliers, and two of them have already emailed me about possible partnerships next year.",
+    "cn": "A：東京的研討會很忙，你有機會認識我們產業其他公司的人嗎？ B：有，在咖啡休息時間我和幾家供應商【交換】了名片，其中兩家已經寄電子郵件給我，談明年可能的合作。",
+    "collocation": "exchange business cards 交換名片"
+   },
+   {
+    "word": "message",
+    "pos": "n.",
+    "en_def": "a short piece of information you send or leave for someone",
+    "cn_def": "訊息、留言",
+    "sentence": "A: I called the accounting department twice this morning to ask about my travel refund, but nobody answered the phone. B: Most of them are attending a training session until noon, so you should leave a {{BLANK}} with the receptionist, and someone will call you back as soon as the session ends.",
+    "cn": "A：我今天早上打了兩次電話給會計部詢問我的差旅退款，但沒有人接電話。 B：他們大部分人在參加訓練課程到中午，所以你應該請櫃檯人員幫你留個【訊息】，課程一結束就會有人回電給你。",
+    "collocation": "leave a message 留言"
+   },
+   {
+    "word": "text",
+    "pos": "v.",
+    "en_def": "to send a written message by mobile phone",
+    "cn_def": "傳簡訊",
+    "sentence": "A: The shuttle bus from the hotel to the exhibition center might be late tomorrow morning because of the road repairs. B: In that case, please {{BLANK}} me as soon as you leave the hotel, and I will tell the organizers to keep a seat for you near the front of the main hall.",
+    "cn": "A：因為道路施工，明天早上從飯店到展覽中心的接駁車可能會遲到。 B：這樣的話，你一離開飯店就請【傳簡訊】給我，我會告訴主辦單位幫你在主廳前面保留一個座位。",
+    "collocation": "text a coworker 傳簡訊給同事"
+   },
+   {
+    "word": "reply",
+    "pos": "v.",
+    "en_def": "to answer someone in speech or writing",
+    "cn_def": "回覆、回答",
+    "sentence": "A: The customer from Melbourne has sent us three emails about the missing package since Monday, and she sounds very upset now. B: I know, I promised to {{BLANK}} to her before lunch today, as soon as the warehouse manager confirms where the package is and when it can be delivered.",
+    "cn": "A：墨爾本的那位顧客從週一起已經寄了三封關於遺失包裹的電子郵件給我們，她現在聽起來很不高興。 B：我知道，我答應今天午餐前【回覆】她，只要倉庫經理確認包裹在哪裡以及何時可以送達。",
+    "collocation": "reply to an email 回覆電子郵件"
+   },
+   {
+    "word": "respond",
+    "pos": "v.",
+    "en_def": "to say or do something as an answer or reaction",
+    "cn_def": "回應",
+    "sentence": "A: Our online store received a lot of negative reviews after the website crashed during the holiday sale last weekend. B: The marketing team will {{BLANK}} to each review personally this week, apologize for the problem, and offer every unhappy customer a discount code for their next purchase.",
+    "cn": "A：上週末假期特賣期間網站當機後，我們的網路商店收到很多負評。 B：行銷團隊這週會親自【回應】每一則評論，為問題道歉，並提供每位不滿意的顧客下次購物的折扣碼。",
+    "collocation": "respond to customer complaints 回應顧客投訴"
+   },
+   {
+    "word": "communicate",
+    "pos": "v.",
+    "en_def": "to share information or ideas with others",
+    "cn_def": "溝通、傳達",
+    "sentence": "A: Since half of our project team works in Vietnam and the other half is here in Taipei, how do you keep everyone informed? B: We {{BLANK}} mainly through a shared online platform, and we also hold a video meeting every Tuesday morning so that everyone can ask questions and report problems.",
+    "cn": "A：既然我們專案團隊一半在越南、一半在台北，你們怎麼讓大家掌握最新消息？ B：我們主要透過共用的線上平台【溝通】，每週二早上也會開視訊會議，讓大家可以提問並回報問題。",
+    "collocation": "communicate clearly with the team 與團隊清楚溝通"
+   },
+   {
+    "word": "interaction",
+    "pos": "n.",
+    "en_def": "the act of talking or doing things with other people",
+    "cn_def": "互動",
+    "sentence": "A: Why does the hotel manager want the front desk staff to take a customer service course next month? B: Because guests said in the survey that their {{BLANK}} with the staff at check-in felt cold and rushed, and she believes a warmer welcome will bring more guests back.",
+    "cn": "A：飯店經理為什麼要櫃檯人員下個月上客戶服務課程？ B：因為房客在問卷中表示，他們入住時與員工的【互動】感覺冷淡又匆忙，而她相信更溫暖的接待會讓更多客人回流。",
+    "collocation": "customer interaction 與顧客的互動"
+   },
+   {
+    "word": "socialize",
+    "pos": "v.",
+    "en_def": "to spend time with other people in a friendly way",
+    "cn_def": "交際、社交",
+    "sentence": "A: The company has planned a barbecue by the river on Saturday afternoon, but I'm not sure if I should go because I don't know many people. B: You should come, because it's a great chance to {{BLANK}} with colleagues from other departments outside the office, and the food is always delicious.",
+    "cn": "A：公司星期六下午在河邊辦了烤肉活動，但我不確定要不要去，因為我認識的人不多。 B：你應該來，因為那是在辦公室以外和其他部門同事【交際】的好機會，而且食物總是很好吃。",
+    "collocation": "socialize with colleagues 與同事交際"
+   },
+   {
+    "word": "catch up",
+    "pos": "v.phr.",
+    "en_def": "to talk with someone you have not seen for a while about recent news",
+    "cn_def": "敘舊、了解近況",
+    "sentence": "A: You and your old university roommate haven't seen each other for almost five years, right? B: That's right, but she is visiting Taipei for a business trip next week, so we are going to have dinner at a night market on Wednesday and {{BLANK}} on everything that has happened in our lives.",
+    "cn": "A：你和你大學時的老室友快五年沒見面了，對吧？ B：沒錯，但她下週來台北出差，所以我們週三要去夜市吃晚餐，好好【敘敘舊】，聊聊我們生活中發生的一切。",
+    "collocation": "catch up over coffee 邊喝咖啡邊敘舊"
+   },
+   {
+    "word": "ramble",
+    "pos": "v.",
+    "en_def": "to talk for a long time in a confused way, without staying on the topic",
+    "cn_def": "漫談、東拉西扯",
+    "sentence": "A: The presentation by the new consultant was supposed to last twenty minutes, so why did it take over an hour? B: He started to {{BLANK}} about his own travels and past clients instead of focusing on our sales data, and several people in the audience began checking their phones.",
+    "cn": "A：新顧問的簡報應該只有二十分鐘，為什麼花了一個多小時？ B：他開始【東拉西扯】地講自己的旅行和以前的客戶，而不是專注在我們的銷售數據上，台下好幾個人都開始看手機了。",
+    "collocation": "ramble on for hours 滔滔不絕講好幾個小時"
+   },
+   {
+    "word": "interrupt",
+    "pos": "v.",
+    "en_def": "to stop someone while they are speaking or doing something",
+    "cn_def": "打斷、打擾",
+    "sentence": "A: The director is still on a video call with the investors from Hong Kong, but the delivery company is waiting for her signature downstairs. B: Please don't {{BLANK}} her right now, because the meeting is very important, so ask the driver to wait ten more minutes or come back after lunch.",
+    "cn": "A：主管還在和香港投資人進行視訊會議，但快遞公司在樓下等她簽名。 B：現在請不要【打斷】她，因為這場會議非常重要，請司機再等十分鐘，或午餐後再來。",
+    "collocation": "interrupt a meeting 打斷會議"
+   },
+   {
+    "word": "listen",
+    "pos": "v.",
+    "en_def": "to pay attention to what someone says",
+    "cn_def": "聆聽、傾聽",
+    "sentence": "A: Several employees complained that the new manager makes decisions without asking anyone for their opinions. B: I heard about that too, so the HR director advised him to {{BLANK}} carefully to his team during weekly meetings and to take notes on their ideas before he decides anything important.",
+    "cn": "A：好幾位員工抱怨新經理做決定時都不問任何人的意見。 B：我也聽說了，所以人資主管建議他在每週會議中仔細【聆聽】團隊的意見，並在做任何重要決定之前記下大家的想法。",
+    "collocation": "listen to customer feedback 傾聽顧客的意見"
+   },
+   {
+    "word": "share",
+    "pos": "v.",
+    "en_def": "to tell others about your ideas, feelings or experiences",
+    "cn_def": "分享",
+    "sentence": "A: What should we do during the first fifteen minutes of the workshop to help the participants relax? B: Let's ask everyone to {{BLANK}} one interesting story about their first job, because it is a fun way to break the ice and helps people remember each other's names.",
+    "cn": "A：工作坊的前十五分鐘我們該做什麼，讓參加者放鬆一點？ B：我們請每個人【分享】一個關於自己第一份工作的有趣故事，因為這是打破僵局的有趣方式，也能幫助大家記住彼此的名字。",
+    "collocation": "share ideas with the team 與團隊分享想法"
+   },
+   {
+    "word": "debate",
+    "pos": "n.",
+    "en_def": "a discussion in which people give different opinions on a topic",
+    "cn_def": "辯論、爭論",
+    "sentence": "A: Did the city council make a final decision about building the new shopping mall near the train station? B: Not yet, there was a heated {{BLANK}} at last night's public meeting, because local shop owners worry about losing customers while residents hope for more jobs and better parking.",
+    "cn": "A：市議會對於在火車站附近興建新購物中心做出最後決定了嗎？ B：還沒，昨晚的公聽會上有一場激烈的【辯論】，因為當地店家擔心失去顧客，而居民則希望有更多工作機會和更好的停車空間。",
+    "collocation": "a heated debate 激烈的辯論"
+   },
+   {
+    "word": "comment",
+    "pos": "n.",
+    "en_def": "something you say or write that gives an opinion",
+    "cn_def": "評論、意見",
+    "sentence": "A: Have you read the feedback forms that the trainees filled out after yesterday's safety workshop? B: Yes, and one {{BLANK}} was especially useful, because a trainee suggested adding more real examples from our factory, so I'm going to update the slides before the next session in December.",
+    "cn": "A：你看過受訓人員在昨天安全工作坊後填寫的意見回饋表嗎？ B：看過了，其中一則【評論】特別有用，有位受訓人員建議加入更多我們工廠的真實案例，所以我會在十二月的下一堂課之前更新投影片。",
+    "collocation": "make a comment on the report 對報告提出評論"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The _____ of guests in the hotel lobby was so loud that I could not hear the phone. I moved to a quiet corner to call.",
+    "options": [
+     "message",
+     "interaction",
+     "comment",
+     "chatter"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "During lunch, employees often _____ about their weekend plans. It is a nice way to relax before the afternoon work.",
+    "options": [
+     "interrupt",
+     "chat",
+     "exchange",
+     "respond"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "I had a pleasant _____ with the taxi driver on the way to the airport. He told me about his favorite local restaurants.",
+    "options": [
+     "conversation",
+     "debate",
+     "message",
+     "comment"
+    ],
+    "answer": 0,
+    "vocabIndex": 2
+   },
+   {
+    "q": "At the trade fair, visitors can _____ contact details with exhibitors. This helps companies find new business partners.",
+    "options": [
+     "ramble",
+     "listen",
+     "exchange",
+     "socialize"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Dr. Lin will give a _____ on healthy eating in the main hall at 3 p.m. All staff members are welcome to attend.",
+    "options": [
+     "gossip",
+     "chatter",
+     "banter",
+     "talk"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "If the train is delayed, please _____ me the new arrival time. I will meet you at the station exit.",
+    "options": [
+     "text",
+     "ramble",
+     "listen",
+     "socialize"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "After a long _____, the board agreed to consider opening a new factory in Vietnam. The final vote will take place next month.",
+    "options": [
+     "banter",
+     "discussion",
+     "chatter",
+     "small talk"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Please _____ to this email by Friday if you plan to attend the dinner. We need to know the number of guests.",
+    "options": [
+     "interrupt",
+     "socialize",
+     "reply",
+     "exchange"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The two companies have opened a _____ to settle their dispute over the contract. Both sides hope to reach an agreement soon.",
+    "options": [
+     "dialogue",
+     "gossip",
+     "chatter",
+     "comment"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The company promised to _____ quickly to all customer complaints. Each complaint will receive an answer within 24 hours.",
+    "options": [
+     "ramble",
+     "chat",
+     "respond",
+     "share"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Please do not spread _____ about your coworkers' private lives. It can hurt people's feelings and damage team spirit.",
+    "options": [
+     "interaction",
+     "dialogue",
+     "debate",
+     "gossip"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Good managers _____ their goals clearly to every team member. This helps everyone understand exactly what they need to do.",
+    "options": [
+     "ramble",
+     "communicate",
+     "socialize",
+     "interrupt"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Sales staff should make some _____ with customers before discussing prices. A few friendly words help build trust.",
+    "options": [
+     "debate",
+     "chatter",
+     "small talk",
+     "interaction"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "New employees are encouraged to _____ with coworkers at the monthly party. Making friends at work makes the job more enjoyable.",
+    "options": [
+     "interrupt",
+     "socialize",
+     "respond",
+     "exchange"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The radio hosts are famous for their funny _____ every morning. Listeners enjoy hearing them joke with each other.",
+    "options": [
+     "debate",
+     "message",
+     "interaction",
+     "banter"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "I haven't seen my former manager since she retired. We are meeting for coffee next week to _____ on each other's news.",
+    "options": [
+     "catch up",
+     "interrupt",
+     "ramble",
+     "respond"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Ms. Park is in a meeting right now. Would you like to leave a _____ for her?",
+    "options": [
+     "debate",
+     "message",
+     "banter",
+     "dialogue"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Keep your speech short and clear. Speakers who _____ for too long often lose the audience's attention.",
+    "options": [
+     "text",
+     "exchange",
+     "ramble",
+     "reply"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Online shopping reduces face-to-face _____ between sellers and buyers. Some customers really miss talking to friendly shop assistants.",
+    "options": [
+     "interaction",
+     "gossip",
+     "message",
+     "comment"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Please do not _____ the speaker during the presentation. You can ask questions at the end of the session.",
+    "options": [
+     "socialize",
+     "ramble",
+     "catch up",
+     "interrupt"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The candidates will hold a public _____ on TV next Friday. They will discuss their plans for the city's economy.",
+    "options": [
+     "gossip",
+     "debate",
+     "chatter",
+     "small talk"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Customer service agents must _____ carefully to each caller's problem. Then they can offer the right solution.",
+    "options": [
+     "exchange",
+     "text",
+     "listen",
+     "interrupt"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Thank you for your helpful _____ on my draft report. I have already corrected the errors you pointed out.",
+    "options": [
+     "chatter",
+     "gossip",
+     "banter",
+     "comment"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Team members are asked to _____ their ideas at the weekly meeting. The best suggestions will be tested next month.",
+    "options": [
+     "share",
+     "ramble",
+     "listen",
+     "respond"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The _____ between the two managers lasted almost an hour. They talked about the budget for the coming year.",
+    "options": [
+     "message",
+     "comment",
+     "conversation",
+     "banter"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Our engineers in Germany and Taiwan _____ by video call every week. This keeps the project on schedule.",
+    "options": [
+     "ramble",
+     "communicate",
+     "interrupt",
+     "listen"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The topic of the panel _____ is the future of electric cars. Four experts will share their opinions.",
+    "options": [
+     "discussion",
+     "gossip",
+     "chatter",
+     "message"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "I'm sorry to _____ your lunch, but there is an urgent call from the client. She needs to speak with you now.",
+    "options": [
+     "listen",
+     "respond",
+     "ramble",
+     "interrupt"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The manager made a positive _____ about my presentation. She said my charts were clear and easy to follow.",
+    "options": [
+     "comment",
+     "chatter",
+     "gossip",
+     "dialogue"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "I sent the supplier three emails last week. They still haven't had time to _____ to any of them.",
+    "options": [
+     "socialize",
+     "ramble",
+     "reply",
+     "exchange"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   }
+  ]
+ },
+ "53": {
+  "theme": "Child 兒童",
+  "source": "https://www.examword.com/group-topic/child",
+  "VOCAB": [
+   {
+    "word": "children",
+    "pos": "n.",
+    "en_def": "young people who are not yet adults",
+    "cn_def": "兒童；孩子們（複數）",
+    "sentence": "A: Our hotel is planning a family weekend package for the summer holidays, so what should we include to attract more parents? B: We should offer a supervised play area and a special menu for {{BLANK}} under twelve, because parents can relax at the pool while their kids have fun safely nearby.",
+    "cn": "A：我們飯店正在規劃暑假的家庭週末套裝行程，應該包含什麼才能吸引更多家長？ B：我們應該提供有人看顧的遊戲區，以及給十二歲以下【兒童】的特別菜單，因為家長可以在泳池邊放鬆，而孩子就在附近安全地玩樂。",
+    "collocation": "a special menu for children 兒童特別菜單"
+   },
+   {
+    "word": "kid",
+    "pos": "n.",
+    "en_def": "a child (informal)",
+    "cn_def": "小孩（口語）",
+    "sentence": "A: You look tired this morning, and you usually arrive at the office before everyone else, so did something happen at home last night? B: My youngest {{BLANK}} had a high fever, so my wife and I took turns staying awake with him until the doctor's office opened at eight.",
+    "cn": "A：你今天早上看起來很累，而且你通常比大家早到辦公室，昨晚家裡發生什麼事了嗎？ B：我最小的【孩子】發高燒，所以我和太太輪流熬夜照顧他，直到早上八點診所開門。",
+    "collocation": "a ten-year-old kid 一個十歲的孩子"
+   },
+   {
+    "word": "infant",
+    "pos": "n.",
+    "en_def": "a very young baby",
+    "cn_def": "嬰兒",
+    "sentence": "A: The airline called to confirm our flight to Tokyo next month, and they asked whether anyone in our group is traveling with a baby, so what did you tell them? B: I said my sister is bringing her six-month-old {{BLANK}}, so they will reserve a front-row seat with a special bed attached to the wall.",
+    "cn": "A：航空公司打電話來確認我們下個月飛東京的班機，他們問我們團體中是否有人帶嬰兒同行，你怎麼回答？ B：我說我姊姊會帶她六個月大的【嬰兒】，所以他們會保留一個前排座位，並在牆上加裝一個特別的嬰兒床。",
+    "collocation": "travel with an infant 帶嬰兒旅行"
+   },
+   {
+    "word": "toddler",
+    "pos": "n.",
+    "en_def": "a young child who is learning to walk",
+    "cn_def": "學步的幼兒",
+    "sentence": "A: The new daycare center near our office is opening next week, so do you know what age groups they accept and how much it costs? B: They accept any {{BLANK}} between one and three years old, and the monthly fee includes lunch, afternoon snacks, and a short music class every Friday.",
+    "cn": "A：我們辦公室附近新的托兒中心下週開幕，你知道他們收哪些年齡層、費用多少嗎？ B：他們收一到三歲的任何【幼兒】，月費包含午餐、下午點心，以及每週五的簡短音樂課。",
+    "collocation": "a toddler learning to walk 學走路的幼兒"
+   },
+   {
+    "word": "baby",
+    "pos": "n.",
+    "en_def": "a very young child",
+    "cn_def": "嬰兒；寶寶",
+    "sentence": "A: Linda has not been in the office for two weeks, and her desk is completely empty, so did she leave the company? B: No, she is on maternity leave because she just had a {{BLANK}} girl last Tuesday, and she plans to return to work in about three months.",
+    "cn": "A：琳達已經兩週沒來辦公室了，而且她的桌子完全清空，她離職了嗎？ B：沒有，她在請產假，因為她上週二剛生了一個女【寶寶】，她打算大約三個月後回來上班。",
+    "collocation": "have a baby 生小孩"
+   },
+   {
+    "word": "youth",
+    "pos": "n.",
+    "en_def": "young people as a group; the time of being young",
+    "cn_def": "青少年；青年；青春時期",
+    "sentence": "A: The city government gave our company a grant this year, so how are we going to use the money to help the local community? B: We are starting a summer training program for {{BLANK}} from low-income families, where teenagers can learn computer skills and get real work experience in our offices.",
+    "cn": "A：今年市政府給了我們公司一筆補助金，我們要怎麼用這筆錢來幫助當地社區？ B：我們要為低收入家庭的【青少年】開辦暑期訓練計畫，讓他們可以學習電腦技能，並在我們的辦公室獲得實際工作經驗。",
+    "collocation": "a youth training program 青年培訓計畫"
+   },
+   {
+    "word": "teenager",
+    "pos": "n.",
+    "en_def": "a person aged 13 to 19",
+    "cn_def": "青少年（13–19歲）",
+    "sentence": "A: Our new smartphone sold well with office workers, but the marketing team wants to reach younger customers, so what do you suggest? B: Since almost every {{BLANK}} spends hours on video apps after school, we should hire popular online creators to show the phone's camera features in short, funny clips.",
+    "cn": "A：我們的新智慧型手機在上班族之間賣得很好，但行銷團隊想觸及更年輕的顧客，你有什麼建議？ B：既然幾乎每個【青少年】放學後都花好幾個小時在影音應用程式上，我們應該聘請受歡迎的網路創作者，用簡短有趣的影片展示手機的相機功能。",
+    "collocation": "a typical teenager 典型的青少年"
+   },
+   {
+    "word": "minor",
+    "pos": "n.",
+    "en_def": "a person who is not yet an adult by law",
+    "cn_def": "未成年人",
+    "sentence": "A: A customer at the front desk wants to rent one of our scooters for his sixteen-year-old son this afternoon, so is that allowed? B: I'm afraid company rules say we cannot rent vehicles to a {{BLANK}}, even when a parent is present and is willing to sign all the forms.",
+    "cn": "A：櫃檯有位顧客想在今天下午幫他十六歲的兒子租一台我們的機車，這樣可以嗎？ B：恐怕公司規定我們不能把車輛租給【未成年人】，即使有家長在場而且願意簽署所有文件也不行。",
+    "collocation": "sell alcohol to a minor 販酒給未成年人"
+   },
+   {
+    "word": "juvenile",
+    "pos": "adj.",
+    "en_def": "related to young people, especially young people who break the law",
+    "cn_def": "青少年的；少年的",
+    "sentence": "A: I read that the city is building a new center near the train station, so do you know what it will be used for? B: It will be a {{BLANK}} support center where young people who have gotten into trouble can receive counseling, finish their studies, and learn job skills.",
+    "cn": "A：我看到市政府在火車站附近蓋一座新中心，你知道它要做什麼用嗎？ B：那會是一座【青少年】輔導中心，讓惹上麻煩的年輕人可以接受諮商、完成學業，並學習工作技能。",
+    "collocation": "juvenile court 少年法庭"
+   },
+   {
+    "word": "youngster",
+    "pos": "n.",
+    "en_def": "a young person or child",
+    "cn_def": "年輕人；小孩",
+    "sentence": "A: The weekend art workshop at the museum was fully booked again, so why do you think it has become so popular with local families? B: Every {{BLANK}} who joins gets to paint a real canvas with a professional artist, and the parents love taking photos of the finished work at the end.",
+    "cn": "A：博物館的週末藝術工作坊又額滿了，你覺得為什麼它在本地家庭之間這麼受歡迎？ B：每個參加的【小朋友】都能和專業藝術家一起在真正的畫布上作畫，而家長們很喜歡在最後幫完成的作品拍照。",
+    "collocation": "a bright youngster 聰明的年輕人"
+   },
+   {
+    "word": "offspring",
+    "pos": "n.",
+    "en_def": "a person's or animal's children or young",
+    "cn_def": "子女；後代（動物的幼崽）",
+    "sentence": "A: The documentary team wants to film the sea turtles on the island this summer, so when is the best time for them to visit? B: They should come in August, because that is when the mother turtles' {{BLANK}} hatch on the beach at night and crawl toward the ocean for the first time.",
+    "cn": "A：紀錄片團隊今年夏天想去島上拍攝海龜，他們什麼時候去最好？ B：他們應該八月去，因為那是海龜媽媽的【後代】在夜裡於沙灘上孵化、第一次爬向大海的時候。",
+    "collocation": "parents and their offspring 父母與其子女"
+   },
+   {
+    "word": "descendant",
+    "pos": "n.",
+    "en_def": "a person in a later generation of the same family",
+    "cn_def": "後裔；子孫",
+    "sentence": "A: The hotel's new brochure says the building has a long history, so who owns it now and how did they get it? B: The current owner is a {{BLANK}} of the merchant who built it in 1890, and the property has passed down through five generations of the same family.",
+    "cn": "A：飯店的新簡介說這棟建築歷史悠久，現在是誰擁有它，他們又是怎麼得到的？ B：現任屋主是1890年建造它的那位商人的【後裔】，這份產業在同一個家族中傳了五代。",
+    "collocation": "a direct descendant of the founder 創辦人的直系後代"
+   },
+   {
+    "word": "pupil",
+    "pos": "n.",
+    "en_def": "a child who goes to school",
+    "cn_def": "學童；小學生",
+    "sentence": "A: The elementary school down the street asked our bank to help with its financial education day, so what are we planning to do? B: Our staff will visit each class and teach every {{BLANK}} how to save money with a simple piggy bank game that takes about forty minutes.",
+    "cn": "A：街上那間小學請我們銀行協助他們的理財教育日，我們打算做什麼？ B：我們的員工會到每個班級，用一個大約四十分鐘的簡單撲滿遊戲，教每位【學童】如何存錢。",
+    "collocation": "a primary school pupil 小學生"
+   },
+   {
+    "word": "student",
+    "pos": "n.",
+    "en_def": "a person who studies at a school or university",
+    "cn_def": "學生",
+    "sentence": "A: We need extra help at the shop during the busy holiday season, but our budget is tight, so who should we hire? B: Let's hire a university {{BLANK}} for part-time weekend shifts, because many young people want flexible work and some extra money during their winter break.",
+    "cn": "A：假期旺季時店裡需要額外人手，但我們預算很緊，應該雇用誰？ B：我們雇一位大學【學生】來上週末兼職班吧，因為很多年輕人在寒假期間想要彈性的工作和額外的收入。",
+    "collocation": "a university student 大學生"
+   },
+   {
+    "word": "playmate",
+    "pos": "n.",
+    "en_def": "a friend that a child plays with",
+    "cn_def": "玩伴",
+    "sentence": "A: Your daughter seems much happier since you moved into the new apartment last month, so what changed for her? B: The family next door has a girl the same age, so now she has a {{BLANK}} to ride bikes with in the courtyard every afternoon after school.",
+    "cn": "A：你女兒自從上個月搬進新公寓後好像快樂多了，她有什麼改變？ B：隔壁那家有個同年齡的女孩，所以現在她每天放學後都有【玩伴】可以一起在中庭騎腳踏車。",
+    "collocation": "a childhood playmate 兒時玩伴"
+   },
+   {
+    "word": "classmate",
+    "pos": "n.",
+    "en_def": "a person in the same class as you",
+    "cn_def": "同學",
+    "sentence": "A: How did you find out about the job opening at the design company, since they never posted it online? B: An old {{BLANK}} from my university marketing course works there now, and she told me about the position and recommended me to the manager before the interview.",
+    "cn": "A：你怎麼知道那間設計公司有職缺的？他們從來沒有在網路上公布。 B：我大學行銷課的一位老【同學】現在在那裡工作，她告訴我這個職位，還在面試前把我推薦給經理。",
+    "collocation": "a former classmate 以前的同學"
+   },
+   {
+    "word": "dependent",
+    "pos": "n.",
+    "en_def": "a person, such as a child, who needs someone else for money and care",
+    "cn_def": "受撫養人；家屬",
+    "sentence": "A: I'm filling out the new health insurance form from human resources, but I'm not sure about one question, so can you help me? B: Sure, they want to know whether you have a {{BLANK}}, such as a child or an elderly parent who relies on your income, because that changes your monthly payment.",
+    "cn": "A：我在填人資部新的健康保險表格，但有一題不太確定，你可以幫我嗎？ B：當然，他們想知道你是否有【受撫養人】，例如依靠你收入生活的孩子或年長父母，因為這會影響你每月的保費。",
+    "collocation": "claim a dependent on a tax return 在報稅時申報受撫養人"
+   },
+   {
+    "word": "young",
+    "pos": "adj.",
+    "en_def": "not old; in an early part of life",
+    "cn_def": "年輕的；年幼的",
+    "sentence": "A: The new manager seems very confident in meetings, but some staff members think she lacks experience, so how old is she? B: She is quite {{BLANK}}, only twenty-eight, but she has already led three successful projects overseas and speaks four languages fluently, so the directors trust her completely.",
+    "cn": "A：新經理在會議上看起來很有自信，但有些員工覺得她經驗不足，她幾歲？ B：她相當【年輕】，只有二十八歲，但她已經在海外帶領過三個成功的專案，還能流利說四種語言，所以董事們完全信任她。",
+    "collocation": "a young professional 年輕的專業人士"
+   },
+   {
+    "word": "childish",
+    "pos": "adj.",
+    "en_def": "behaving in a silly way, like a small child (negative)",
+    "cn_def": "幼稚的",
+    "sentence": "A: Did the meeting between the two department heads go well this morning, or are they still arguing about the budget? B: It went badly, because they refused to look at each other and kept blaming each other loudly, which was really {{BLANK}} behavior for two experienced managers in their fifties.",
+    "cn": "A：今天早上兩位部門主管的會議順利嗎？還是他們仍在為預算爭吵？ B：很糟糕，因為他們拒絕看對方，還一直大聲互相指責，對兩位五十多歲的資深經理來說，這種行為真的很【幼稚】。",
+    "collocation": "childish behavior 幼稚的行為"
+   },
+   {
+    "word": "childlike",
+    "pos": "adj.",
+    "en_def": "having the good qualities of a child, such as trust and wonder",
+    "cn_def": "孩子般（天真）的",
+    "sentence": "A: Why do so many visitors love the old toy designer who runs the workshop at the craft fair every year? B: Even at eighty, he still has a {{BLANK}} sense of wonder, and he gets excited about every new idea, which makes both kids and adults smile when they talk with him.",
+    "cn": "A：為什麼這麼多遊客喜歡那位每年在手工藝市集經營工作坊的老玩具設計師？ B：即使八十歲了，他仍保有【孩子般】的好奇心，對每個新點子都很興奮，讓小孩和大人跟他聊天時都會微笑。",
+    "collocation": "a childlike sense of wonder 孩子般的好奇心"
+   },
+   {
+    "word": "playful",
+    "pos": "adj.",
+    "en_def": "full of fun and liking to play",
+    "cn_def": "愛玩的；頑皮可愛的",
+    "sentence": "A: We need a new mascot for the pet food brand, so what kind of character do you think customers would like best? B: I suggest a {{BLANK}} puppy that jumps around and chases balls in the commercials, because cheerful and energetic animals usually make shoppers feel happy and remember the product.",
+    "cn": "A：我們的寵物食品品牌需要一個新吉祥物，你覺得顧客會最喜歡什麼樣的角色？ B：我建議在廣告裡用一隻跳來跳去、追著球跑的【愛玩的】小狗，因為開朗又有活力的動物通常會讓消費者感到快樂並記住產品。",
+    "collocation": "a playful puppy 愛玩的小狗"
+   },
+   {
+    "word": "curious",
+    "pos": "adj.",
+    "en_def": "wanting to know or learn about something",
+    "cn_def": "好奇的",
+    "sentence": "A: The science museum wants more families to visit on weekends, so what kind of exhibition should they design next? B: They should build a hands-on space where {{BLANK}} children can touch robots, try simple experiments, and ask staff questions, because kids learn best when they can explore by themselves.",
+    "cn": "A：科學博物館希望週末有更多家庭來參觀，他們接下來應該設計什麼樣的展覽？ B：他們應該建造一個動手做的空間，讓【好奇的】孩子可以摸機器人、試做簡單實驗並向員工提問，因為孩子能自己探索時學得最好。",
+    "collocation": "naturally curious 天生好奇"
+   },
+   {
+    "word": "innocent",
+    "pos": "adj.",
+    "en_def": "not guilty of a crime; not knowing about bad things",
+    "cn_def": "無辜的；清白的；天真的",
+    "sentence": "A: The security camera showed someone taking money from the cash register last night, so did the police find out who did it? B: Yes, and luckily the new cashier was completely {{BLANK}}, because the video clearly showed a delivery driver opening the drawer after she had already gone home.",
+    "cn": "A：監視器顯示昨晚有人從收銀機拿錢，警方查出是誰做的嗎？ B：查出來了，幸好新來的收銀員完全是【清白的】，因為影片清楚顯示，在她已經回家後，是一名送貨司機打開了抽屜。",
+    "collocation": "prove someone innocent 證明某人清白"
+   },
+   {
+    "word": "naughty",
+    "pos": "adj.",
+    "en_def": "behaving badly; not doing what adults say",
+    "cn_def": "頑皮的；不聽話的",
+    "sentence": "A: The restaurant manager looked upset during lunch today, so did something go wrong in the dining room? B: A {{BLANK}} boy kept running between the tables and knocked over a tray of drinks, and his parents just laughed instead of asking him to sit down and behave.",
+    "cn": "A：餐廳經理今天午餐時看起來很不高興，用餐區出了什麼問題嗎？ B：一個【頑皮的】男孩一直在桌子之間跑來跑去，還撞翻了一盤飲料，他的父母只是笑，而沒有叫他坐下守規矩。",
+    "collocation": "a naughty child 頑皮的孩子"
+   },
+   {
+    "word": "obedient",
+    "pos": "adj.",
+    "en_def": "doing what you are told to do",
+    "cn_def": "聽話的；順從的",
+    "sentence": "A: You said your team is training dogs for the hotel's new pet-friendly program, so how long does the training usually take? B: It takes about six weeks before each dog is calm and {{BLANK}} enough to sit quietly in the lobby, follow simple commands, and greet guests without jumping on them.",
+    "cn": "A：你說你們團隊在為飯店新的寵物友善計畫訓練狗，訓練通常要多久？ B：大約要六週，每隻狗才會冷靜、【聽話】到能安靜地坐在大廳、遵守簡單指令，並在不撲向客人的情況下迎接他們。",
+    "collocation": "an obedient dog 聽話的狗"
+   },
+   {
+    "word": "develop",
+    "pos": "v.",
+    "en_def": "to grow or make something grow stronger or better",
+    "cn_def": "發展；培養",
+    "sentence": "A: The kindergarten across the street wants to buy new toys for its classrooms, so what kind should they choose? B: They should choose building blocks and puzzles, because these toys help young children {{BLANK}} problem-solving skills and learn to work together while they are having fun.",
+    "cn": "A：對街的幼兒園想為教室買新玩具，他們應該選哪一種？ B：他們應該選積木和拼圖，因為這些玩具能幫助幼童在玩樂中【培養】解決問題的能力，並學會互相合作。",
+    "collocation": "develop social skills 培養社交技能"
+   },
+   {
+    "word": "grow up",
+    "forms": "grow up – grew up – grown up",
+    "pos": "v.phr.",
+    "en_def": "to change from a child into an adult",
+    "cn_def": "長大；成長",
+    "sentence": "A: You know so much about farming and fresh vegetables, and our restaurant buyers always ask for your opinion, so where did you learn all this? B: I was lucky to {{BLANK}} on my grandparents' farm in the south of Taiwan, so I spent every summer picking fruit and helping them sell it at the market.",
+    "cn": "A：你對農業和新鮮蔬菜懂這麼多，我們餐廳的採購總是問你的意見，你是在哪裡學到這些的？ B：我很幸運能在台灣南部祖父母的農場【長大】，所以每年夏天我都在摘水果，並幫他們在市場上販賣。",
+    "collocation": "grow up in the countryside 在鄉下長大"
+   },
+   {
+    "word": "educate",
+    "pos": "v.",
+    "en_def": "to teach someone, especially in a school or about an issue",
+    "cn_def": "教育",
+    "sentence": "A: Many customers still throw plastic bottles into the regular trash bins at our supermarket, so how can we change this? B: We should put clear signs and short videos near the entrance to {{BLANK}} shoppers about recycling, and we can give small discounts to people who bring back empty bottles.",
+    "cn": "A：很多顧客還是把塑膠瓶丟進我們超市的一般垃圾桶，我們要怎麼改變這種情況？ B：我們應該在入口附近放清楚的標示和短片來【教育】顧客關於回收的事，並且可以給帶回空瓶的人小額折扣。",
+    "collocation": "educate the public about recycling 教育大眾關於回收"
+   },
+   {
+    "word": "raise",
+    "pos": "v.",
+    "en_def": "to take care of a child until he or she is an adult",
+    "cn_def": "養育；撫養",
+    "sentence": "A: Why did Mr. Chen decide to move his family from the city center to a small town after his promotion last year? B: He wanted to {{BLANK}} his two sons in a quieter place with clean air, good schools, and large parks, even though it means a longer drive to the office.",
+    "cn": "A：陳先生去年升職後，為什麼決定把家人從市中心搬到一個小鎮？ B：他想在空氣乾淨、學校好、公園大的安靜地方【養育】他的兩個兒子，即使那表示要開更久的車去上班。",
+    "collocation": "raise a family 養家"
+   },
+   {
+    "word": "nurture",
+    "pos": "v.",
+    "en_def": "to care for and help someone or something grow",
+    "cn_def": "培育；養育",
+    "sentence": "A: Our company keeps losing talented young engineers to bigger competitors, so what can we do to keep them? B: We need to {{BLANK}} their talent by giving each new engineer an experienced mentor, regular training courses, and clear chances for promotion during their first three years.",
+    "cn": "A：我們公司一直流失有才華的年輕工程師給大型競爭對手，我們能做什麼來留住他們？ B：我們需要【培育】他們的才能，在他們最初三年給每位新工程師安排一位資深導師、定期訓練課程和明確的升遷機會。",
+    "collocation": "nurture young talent 培育年輕人才"
+   },
+   {
+    "word": "protect",
+    "pos": "v.",
+    "en_def": "to keep someone or something safe from harm",
+    "cn_def": "保護",
+    "sentence": "A: Parents have been complaining that the playground in our shopping mall is not safe enough, so what are we going to do about it? B: We will install soft rubber floors and higher fences to {{BLANK}} small children from falls, and a security guard will watch the area during busy weekend hours.",
+    "cn": "A：家長一直抱怨我們購物中心的遊樂場不夠安全，我們要怎麼處理？ B：我們會鋪設柔軟的橡膠地板和加高圍欄來【保護】幼童免於跌倒，而且在週末熱門時段會有一名警衛看守這個區域。",
+    "collocation": "protect children from harm 保護孩子免受傷害"
+   },
+   {
+    "word": "discipline",
+    "pos": "v.",
+    "en_def": "to punish someone for breaking rules so they behave better",
+    "cn_def": "懲處；管教",
+    "sentence": "A: One of the new sales assistants keeps arriving late and leaving early without telling anyone, so what should the store manager do? B: She needs to {{BLANK}} him fairly by giving him a written warning first, and if the problem continues next month, she may have to reduce his shifts.",
+    "cn": "A：其中一位新銷售助理一直遲到早退又不告訴任何人，店長應該怎麼做？ B：她需要公平地【懲處】他，先給他一份書面警告，如果下個月問題持續，她可能必須減少他的班次。",
+    "collocation": "discipline an employee 懲處員工"
+   },
+   {
+    "word": "mature",
+    "pos": "v.",
+    "en_def": "to become more adult in behavior; to become fully developed",
+    "cn_def": "成熟；長成",
+    "sentence": "A: Our youngest team member made a lot of mistakes when he first joined, but his recent reports are excellent, so what changed? B: He has really started to {{BLANK}} over the past year, because he now plans his work carefully, listens to feedback, and stays calm when clients are difficult.",
+    "cn": "A：我們團隊最年輕的成員剛加入時犯了很多錯，但他最近的報告非常出色，有什麼改變？ B：他過去一年真的開始【成熟】了，因為他現在會仔細規劃工作、聽取回饋，並在客戶難搞時保持冷靜。",
+    "collocation": "mature into a leader 成長為領導者"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The hospital's new family room lets mothers stay close to their newborn _____. Nurses check on each family every two hours.",
+    "options": [
+     "infant",
+     "descendant",
+     "classmate",
+     "minor"
+    ],
+    "answer": 0,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Our café added a small play corner where a _____ can safely crawl and stack soft blocks. Parents can enjoy their coffee nearby.",
+    "options": [
+     "descendant",
+     "classmate",
+     "toddler",
+     "dependent"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The couple bought a crib and tiny clothes because their first _____ is due in March. Their coworkers are planning a party.",
+    "options": [
+     "pupil",
+     "playmate",
+     "youth",
+     "baby"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The city opened a new sports center for local _____ aged thirteen to eighteen. It offers free basketball and dance classes after school.",
+    "options": [
+     "infant",
+     "youth",
+     "descendant",
+     "playmate"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Every _____ in the program needs a parent's signature before joining the overnight camping trip. The camp is for ages fourteen to seventeen.",
+    "options": [
+     "teenager",
+     "infant",
+     "descendant",
+     "offspring"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Stores that sell cigarettes to a _____ can lose their license. Staff must check the ID of anyone who looks under twenty.",
+    "options": [
+     "classmate",
+     "minor",
+     "descendant",
+     "playmate"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Some farm animals, such as rabbits, produce many _____ every year. Farmers must plan enough space and food for all of them.",
+    "options": [
+     "classmate",
+     "descendant",
+     "dependent",
+     "offspring"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The museum's director is a _____ of the famous painter whose works hang in the main hall. She often tells stories about his life.",
+    "options": [
+     "toddler",
+     "pupil",
+     "descendant",
+     "playmate"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Each _____ at the primary school will receive a free reading book this semester. Teachers will hand them out in class on Monday.",
+    "options": [
+     "infant",
+     "pupil",
+     "descendant",
+     "dependent"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The museum offers a discount to any _____ who shows a valid university ID card. The offer is available from Monday to Friday.",
+    "options": [
+     "infant",
+     "toddler",
+     "student",
+     "descendant"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "My son's favorite _____ moved to another city, so now he plays alone in the park after school. He misses her a lot.",
+    "options": [
+     "descendant",
+     "infant",
+     "dependent",
+     "playmate"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Jenny sat next to a new _____ during the first lesson of the evening accounting course. They later studied together for the final exam.",
+    "options": [
+     "classmate",
+     "offspring",
+     "infant",
+     "descendant"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Employees can add a _____, such as a husband or a young child, to their company health plan. The extra cost comes from monthly salary.",
+    "options": [
+     "playmate",
+     "dependent",
+     "descendant",
+     "pupil"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The new _____ detention center will focus on education and job training for offenders under eighteen. It opens next spring.",
+    "options": [
+     "juvenile",
+     "obedient",
+     "playful",
+     "childlike"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Although the manager is very _____, she has already worked in five countries. Everyone respects her skills and her calm attitude.",
+    "options": [
+     "naughty",
+     "obedient",
+     "juvenile",
+     "young"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Shouting at coworkers during a meeting is _____ behavior that the company will not accept. Please discuss problems politely and calmly.",
+    "options": [
+     "curious",
+     "obedient",
+     "childish",
+     "innocent"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The artist's paintings use bright colors and simple shapes, which give them a _____ charm. Visitors of all ages enjoy them.",
+    "options": [
+     "naughty",
+     "childlike",
+     "obedient",
+     "juvenile"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The hotel's two cats are friendly and _____, so they often chase toys around the lobby. Guests love taking photos with them.",
+    "options": [
+     "playful",
+     "innocent",
+     "juvenile",
+     "childish"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Small children are naturally _____ and ask many questions about the world around them. Teachers should always welcome their questions.",
+    "options": [
+     "obedient",
+     "juvenile",
+     "young",
+     "curious"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The court decided that the driver was _____ because cameras showed the other car ran the red light. He was released immediately.",
+    "options": [
+     "curious",
+     "playful",
+     "innocent",
+     "childlike"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The _____ puppy chewed the sofa and hid one of my shoes under the bed. I really need to train him better.",
+    "options": [
+     "obedient",
+     "juvenile",
+     "innocent",
+     "naughty"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Guide dogs must be calm and _____ so that they follow every command from their owners. Their training takes about two years.",
+    "options": [
+     "naughty",
+     "childish",
+     "obedient",
+     "curious"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The training course helps new employees _____ strong communication skills. Most participants say they feel much more confident afterward.",
+    "options": [
+     "develop",
+     "protect",
+     "discipline",
+     "grow up"
+    ],
+    "answer": 0,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Children who _____ in bilingual homes often find it easy to learn a third language later. Many of our staff speak three languages.",
+    "options": [
+     "educate",
+     "grow up",
+     "protect",
+     "discipline"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The campaign aims to _____ drivers about the dangers of using phones while driving. Posters will appear at gas stations next week.",
+    "options": [
+     "educate",
+     "grow up",
+     "mature",
+     "raise"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "My parents worked long hours to _____ four children in a small apartment in Taipei. They always made sure we had good meals.",
+    "options": [
+     "develop",
+     "raise",
+     "mature",
+     "grow up"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Good managers _____ young talent by giving staff regular feedback and chances to lead small projects. This keeps employees motivated.",
+    "options": [
+     "grow up",
+     "mature",
+     "protect",
+     "nurture"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Please wear gloves to _____ your hands from the strong chemicals in the cleaning room. Extra gloves are kept beside the door.",
+    "options": [
+     "educate",
+     "raise",
+     "protect",
+     "mature"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The manager had to _____ two workers who broke safety rules in the warehouse last week. Both of them received written warnings.",
+    "options": [
+     "grow up",
+     "discipline",
+     "mature",
+     "nurture"
+    ],
+    "answer": 1,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Good wine needs several years to _____ before it tastes its best. The winery stores its bottles in a cool underground cellar.",
+    "options": [
+     "educate",
+     "discipline",
+     "protect",
+     "mature"
+    ],
+    "answer": 3,
+    "vocabIndex": 32
+   }
+  ]
+ },
+ "54": {
+  "theme": "Childhood Activities 童年活動",
+  "source": "https://www.examword.com/group-topic/childhood-activities",
+  "VOCAB": [
+   {
+    "word": "play",
+    "pos": "v.",
+    "en_def": "to do things for fun, especially as a child",
+    "cn_def": "玩耍",
+    "sentence": "A: The new apartment complex near our office has a large green yard, so do you think families with young kids will like living there? B: Definitely, because parents can watch their children {{BLANK}} safely outside while they cook dinner, and the security guard checks the gate every evening.",
+    "cn": "A：我們辦公室附近的新公寓社區有一大片綠色庭院，你覺得有小孩的家庭會喜歡住在那裡嗎？ B：當然，因為父母煮晚餐時可以看著孩子在外面安全地【玩耍】，而且保全每天晚上都會檢查大門。",
+    "collocation": "play outside after school 放學後在外面玩"
+   },
+   {
+    "word": "game",
+    "pos": "n.",
+    "en_def": "an activity with rules that people play for fun",
+    "cn_def": "遊戲",
+    "sentence": "A: We need an activity for the children at the company family day next Saturday, but the weather might be rainy, so what should we prepare? B: Let's set up a simple board {{BLANK}} in the meeting room, because it only needs a table and some chairs, and kids of different ages can join in together.",
+    "cn": "A：下週六公司家庭日我們需要為孩子準備一個活動，但天氣可能會下雨，我們該準備什麼？ B：我們在會議室擺一個簡單的桌上【遊戲】吧，因為只需要一張桌子和幾把椅子，不同年齡的孩子都能一起參加。",
+    "collocation": "play a board game 玩桌遊"
+   },
+   {
+    "word": "hide-and-seek",
+    "pos": "n.",
+    "en_def": "a game in which one child looks for the others who are hiding",
+    "cn_def": "捉迷藏",
+    "sentence": "A: The kindergarten teachers want a cheap activity for the open house that keeps the children busy in the garden, so do you have any ideas? B: They could organize a round of {{BLANK}}, where one child closes their eyes and counts to twenty while the others find secret places behind the trees and bushes.",
+    "cn": "A：幼兒園老師想在開放日辦一個便宜的活動，讓孩子們在花園裡玩得忙不停，你有什麼點子嗎？ B：他們可以辦一輪【捉迷藏】，一個孩子閉上眼睛數到二十，其他孩子則在樹木和灌木叢後面找祕密的地方躲起來。",
+    "collocation": "play hide-and-seek in the garden 在花園玩捉迷藏"
+   },
+   {
+    "word": "tag",
+    "pos": "n.",
+    "en_def": "a children's game in which one player chases and touches the others",
+    "cn_def": "鬼抓人",
+    "sentence": "A: Why were the children at the summer camp so tired and hungry when they came back to the hotel lobby this afternoon? B: They spent almost an hour playing {{BLANK}} on the beach, so whoever was 'it' had to chase the others and touch them before they reached the big umbrella.",
+    "cn": "A：夏令營的孩子們今天下午回到飯店大廳時，為什麼又累又餓？ B：他們在海灘上玩了將近一小時的【鬼抓人】，當鬼的人必須追其他人，並在他們跑到大陽傘之前碰到他們。",
+    "collocation": "play tag in the park 在公園玩鬼抓人"
+   },
+   {
+    "word": "outdoor play",
+    "pos": "n.phr.",
+    "en_def": "games and activities that children do outside",
+    "cn_def": "戶外遊戲",
+    "sentence": "A: The new daycare center downtown charges more than the one near the station, so why are so many working parents choosing it? B: It has a large garden, and the staff plan two hours of {{BLANK}} every day, which helps the children stay healthy, sleep better at night, and make new friends.",
+    "cn": "A：市中心的新托兒所收費比車站附近那家貴，為什麼還有這麼多上班族父母選擇它？ B：它有一個大花園，而且工作人員每天安排兩小時的【戶外遊戲】，能幫助孩子保持健康、晚上睡得更好，還能交到新朋友。",
+    "collocation": "encourage outdoor play 鼓勵戶外遊戲"
+   },
+   {
+    "word": "imagination",
+    "pos": "n.",
+    "en_def": "the ability to form new pictures and ideas in your mind",
+    "cn_def": "想像力",
+    "sentence": "A: The toy company's new advertisement shows only a cardboard box and a little girl, so why did the marketing team choose such a simple idea? B: They wanted to show that a child's {{BLANK}} can turn an empty box into a spaceship or a castle, and parents responded very positively to that message online.",
+    "cn": "A：玩具公司的新廣告只有一個紙箱和一個小女孩，行銷團隊為什麼選這麼簡單的點子？ B：他們想表達孩子的【想像力】可以把空箱子變成太空船或城堡，而家長們在網路上對這個訊息的反應非常正面。",
+    "collocation": "use your imagination 發揮想像力"
+   },
+   {
+    "word": "imaginative",
+    "pos": "adj.",
+    "en_def": "having or showing new and creative ideas",
+    "cn_def": "富有想像力的",
+    "sentence": "A: The publisher received over two hundred stories for its children's writing contest this year, so how did the judges choose the winner? B: They picked a ten-year-old boy's very {{BLANK}} story about a talking bicycle that travels around Taiwan, because it was original, funny, and full of surprising ideas.",
+    "cn": "A：出版社今年的兒童寫作比賽收到超過兩百篇故事，評審是怎麼選出優勝者的？ B：他們選了一個十歲男孩非常【富有想像力】的故事，講一輛會說話的腳踏車環遊台灣，因為它很有原創性、很有趣，而且充滿令人驚喜的點子。",
+    "collocation": "an imaginative story 富有想像力的故事"
+   },
+   {
+    "word": "pretend",
+    "pos": "v.",
+    "en_def": "to act as if something is true when it is not, often in play",
+    "cn_def": "假裝",
+    "sentence": "A: Your daughter was talking to her stuffed animals in the waiting room for twenty minutes, so was she bored while you were seeing the bank manager? B: Not at all, she loves to {{BLANK}} that she owns a small restaurant, so she was taking their orders and serving them imaginary noodles.",
+    "cn": "A：你女兒在等候室跟她的絨毛玩具說了二十分鐘的話，你和銀行經理談事情時她覺得無聊嗎？ B：一點也不，她很喜歡【假裝】自己開了一家小餐廳，所以她在幫它們點餐，還端上想像出來的麵。",
+    "collocation": "pretend to be a doctor 假裝當醫生"
+   },
+   {
+    "word": "role-play",
+    "pos": "n.",
+    "en_def": "an activity in which people act as different characters",
+    "cn_def": "角色扮演",
+    "sentence": "A: How did the English teacher help the young students feel less nervous about speaking at the school's international day? B: She set up a short {{BLANK}} in which the children acted as shop owners and customers, so they practiced asking prices and saying thank you before they met the foreign visitors.",
+    "cn": "A：英文老師是怎麼幫助年幼的學生在學校國際日時說話不那麼緊張的？ B：她安排了一段簡短的【角色扮演】，讓孩子們扮成店主和顧客，所以他們在見到外國訪客之前就練習了問價錢和說謝謝。",
+    "collocation": "do a role-play activity 進行角色扮演活動"
+   },
+   {
+    "word": "drawing",
+    "pos": "n.",
+    "en_def": "a picture made with a pencil, pen, or crayon",
+    "cn_def": "圖畫；素描",
+    "sentence": "A: I noticed a colorful picture of a house and a big sun on your office wall, so did you buy it at the art fair last weekend? B: No, it is a {{BLANK}} my five-year-old son made with crayons for my birthday, and I put it there because it makes me smile during long meetings.",
+    "cn": "A：我注意到你辦公室牆上有一幅色彩鮮豔、畫著房子和大太陽的畫，是你上週末在藝術市集買的嗎？ B：不是，那是我五歲兒子用蠟筆為我生日畫的【圖畫】，我把它掛在那裡，因為在冗長的會議中它會讓我微笑。",
+    "collocation": "a crayon drawing 蠟筆畫"
+   },
+   {
+    "word": "coloring",
+    "pos": "n.",
+    "en_def": "the activity of adding color to pictures, often with crayons",
+    "cn_def": "著色；塗色",
+    "sentence": "A: The family restaurant on the corner gets very busy on Sunday afternoons, so how do the waiters keep the young customers quiet while they wait for food? B: They give every child a box of crayons and some {{BLANK}} pages with animals and cartoon cars, so the kids stay at the table and the parents can relax.",
+    "cn": "A：轉角那家家庭餐廳週日下午很忙，服務生是怎麼讓小客人在等餐時保持安靜的？ B：他們給每個孩子一盒蠟筆和幾張畫有動物和卡通汽車的【著色】頁，這樣孩子就會待在餐桌旁，父母也能放鬆。",
+    "collocation": "a coloring book 著色本"
+   },
+   {
+    "word": "painting",
+    "pos": "n.",
+    "en_def": "the activity of making pictures with paint",
+    "cn_def": "繪畫",
+    "sentence": "A: The community center is offering several weekend classes for kids this spring, so which one do you think your daughter will choose? B: She will probably sign up for {{BLANK}}, because she loves mixing bright colors with a brush and wants to make a picture of our cat for her grandmother.",
+    "cn": "A：社區中心今年春天開了幾堂週末兒童課程，你覺得你女兒會選哪一堂？ B：她大概會報名【繪畫】課，因為她喜歡用畫筆調出鮮豔的顏色，還想畫一張我們家貓咪的畫送給奶奶。",
+    "collocation": "take a painting class 上繪畫課"
+   },
+   {
+    "word": "craft",
+    "pos": "n.",
+    "en_def": "something made by hand with skill, or the activity of making it",
+    "cn_def": "手工藝",
+    "sentence": "A: What will the children do during the holiday workshop at the department store while their parents are shopping on the upper floors? B: The staff will help them make a simple paper {{BLANK}}, such as a lantern or a card, using glue, scissors, and colored paper that the store provides for free.",
+    "cn": "A：家長在百貨公司樓上購物時，孩子們在假日工作坊裡會做什麼？ B：工作人員會幫他們做一個簡單的紙【手工藝品】，例如燈籠或卡片，用的是百貨公司免費提供的膠水、剪刀和色紙。",
+    "collocation": "a paper craft activity 紙藝手作活動"
+   },
+   {
+    "word": "sing",
+    "forms": "sing – sang – sung",
+    "pos": "v.",
+    "en_def": "to make music with your voice",
+    "cn_def": "唱歌",
+    "sentence": "A: The kindergarten is holding a small concert for parents at the end of the term, so what will your son's class perform on stage? B: The children will {{BLANK}} three short songs in English while their teacher plays the piano, and they have been practicing every morning after breakfast for two weeks.",
+    "cn": "A：幼兒園學期末要為家長辦一場小型音樂會，你兒子的班上要表演什麼？ B：孩子們會在老師彈鋼琴時用英文【唱】三首短歌，他們已經每天早餐後練習兩個星期了。",
+    "collocation": "sing a song together 一起唱歌"
+   },
+   {
+    "word": "dance",
+    "pos": "v.",
+    "en_def": "to move your body to music",
+    "cn_def": "跳舞",
+    "sentence": "A: Why was the hotel ballroom so noisy during the wedding reception last night, even though the band had already finished? B: The DJ played some popular children's songs, and all the little guests hurried to the middle of the room to {{BLANK}} and spin around until almost eleven o'clock.",
+    "cn": "A：昨晚的婚宴上樂團已經演奏完了，為什麼飯店宴會廳還這麼吵？ B：DJ放了一些熱門兒歌，所有的小賓客都趕到廳中央【跳舞】、轉圈圈，一直到快十一點。",
+    "collocation": "dance to the music 隨著音樂跳舞"
+   },
+   {
+    "word": "nursery rhyme",
+    "pos": "n.phr.",
+    "en_def": "a short traditional poem or song for young children",
+    "cn_def": "童謠",
+    "sentence": "A: The children's bookstore wants to attract more young families on weekday mornings, so what new event are the managers planning? B: They will hold a free music hour where a teacher leads parents and babies in singing a classic {{BLANK}} like 'Twinkle, Twinkle, Little Star' with simple hand movements.",
+    "cn": "A：童書店想在平日早上吸引更多年輕家庭，經理們在規劃什麼新活動？ B：他們會辦一個免費的音樂時段，由一位老師帶領家長和寶寶一起唱經典【童謠】，例如〈一閃一閃亮晶晶〉，並搭配簡單的手部動作。",
+    "collocation": "sing a nursery rhyme 唱童謠"
+   },
+   {
+    "word": "storytelling",
+    "pos": "n.",
+    "en_def": "the activity of telling or reading stories to people",
+    "cn_def": "說故事",
+    "sentence": "A: The public library has many visitors on Saturday afternoons, so which event do the young children enjoy most there? B: They love the {{BLANK}} hour, when a volunteer reads a picture book aloud with funny voices and asks the kids questions about what might happen next in the plot.",
+    "cn": "A：公共圖書館週六下午有很多訪客，小朋友在那裡最喜歡哪個活動？ B：他們最喜歡【說故事】時間，一位志工會用逗趣的聲音朗讀繪本，還會問孩子接下來的情節可能會怎麼發展。",
+    "collocation": "a storytelling session 說故事時間"
+   },
+   {
+    "word": "reading",
+    "pos": "n.",
+    "en_def": "the activity of looking at and understanding written words",
+    "cn_def": "閱讀",
+    "sentence": "A: The school asked parents to limit screen time at home, so how are you keeping your kids busy in the evenings now? B: We have made thirty minutes of {{BLANK}} part of their bedtime routine, and every Friday we visit the library so they can choose new books about animals and space.",
+    "cn": "A：學校請家長在家限制孩子使用螢幕的時間，你現在晚上都怎麼讓孩子有事做？ B：我們把三十分鐘的【閱讀】變成他們睡前的固定習慣，而且每週五都去圖書館，讓他們挑選關於動物和太空的新書。",
+    "collocation": "develop a reading habit 培養閱讀習慣"
+   },
+   {
+    "word": "listen",
+    "pos": "v.",
+    "en_def": "to pay attention to sounds or to what someone says",
+    "cn_def": "聆聽",
+    "sentence": "A: The training company is running a weekend program that teaches young children how to behave well during group activities, so what is the first skill they practice? B: The coaches first teach them to {{BLANK}} carefully when someone else is speaking, so they wait for their turn instead of shouting out answers.",
+    "cn": "A：那家培訓公司正在辦一個週末課程，教小朋友在團體活動中守規矩，他們第一個練習的技能是什麼？ B：教練們會先教他們在別人說話時仔細【聆聽】，讓他們等輪到自己再說，而不是大聲喊出答案。",
+    "collocation": "listen carefully to the teacher 仔細聽老師說話"
+   },
+   {
+    "word": "explore",
+    "pos": "v.",
+    "en_def": "to travel around a place to learn about it",
+    "cn_def": "探索",
+    "sentence": "A: Our family is staying at a farm resort in Yilan next month, so what activities does the resort offer for young guests? B: The kids can {{BLANK}} the forest trail with a guide, look for insects under the leaves, and visit a small river where they can see fish and frogs.",
+    "cn": "A：我們家下個月要住宜蘭的一間農場度假村，那裡有什麼給小房客的活動？ B：孩子們可以跟著導覽員【探索】森林步道、在樹葉底下找昆蟲，還可以去一條小河看魚和青蛙。",
+    "collocation": "explore the neighborhood 探索附近環境"
+   },
+   {
+    "word": "exploration",
+    "pos": "n.",
+    "en_def": "the act of looking around a place or thing to discover more",
+    "cn_def": "探索",
+    "sentence": "A: Why does the new science museum let children touch almost everything instead of keeping the exhibits behind glass? B: The designers believe that hands-on {{BLANK}} helps kids remember what they learn, so visitors can build bridges, test magnets, and dig for model dinosaur bones in a large sand pit.",
+    "cn": "A：新的科學博物館為什麼讓孩子幾乎什麼都能摸，而不是把展品放在玻璃後面？ B：設計師相信親自動手的【探索】能幫助孩子記住所學，所以參觀者可以搭橋、測試磁鐵，還能在大沙坑裡挖恐龍骨頭模型。",
+    "collocation": "hands-on exploration 動手探索"
+   },
+   {
+    "word": "climb",
+    "pos": "v.",
+    "en_def": "to go up something using your hands and feet",
+    "cn_def": "爬；攀爬",
+    "sentence": "A: The building manager asked us to check the new play area in the lobby before it opens on Monday, so is everything safe for the children? B: Mostly, but the rope wall is too high, and kids could {{BLANK}} over the top and fall onto the hard floor, so we need thicker mats.",
+    "cn": "A：大樓管理員請我們在週一開放前檢查大廳新的遊戲區，對孩子來說一切都安全嗎？ B：大致上是，但繩網牆太高了，孩子可能會【爬】過頂端掉到堅硬的地板上，所以我們需要更厚的墊子。",
+    "collocation": "climb a tree 爬樹"
+   },
+   {
+    "word": "run",
+    "forms": "run – ran – run",
+    "pos": "v.",
+    "en_def": "to move quickly on your feet",
+    "cn_def": "跑",
+    "sentence": "A: Why did the school decide to remove some of the old benches from the sports field during the summer holiday? B: The children needed more open space to {{BLANK}} around safely at lunchtime, and the teachers were worried that someone would trip over the benches and get hurt.",
+    "cn": "A：學校為什麼決定在暑假期間移走運動場上一些舊長椅？ B：孩子們午餐時間需要更多空地可以安全地【跑】來跑去，而且老師們擔心有人會被長椅絆倒受傷。",
+    "collocation": "run around the field 在操場跑來跑去"
+   },
+   {
+    "word": "jump",
+    "pos": "v.",
+    "en_def": "to push yourself off the ground into the air with your legs",
+    "cn_def": "跳",
+    "sentence": "A: The trampoline park near the shopping mall is offering a discount for company groups, so should we take our team's children there next month? B: Good idea, the kids can {{BLANK}} as high as they want on the soft surfaces, and there is a café where the parents can sit and chat.",
+    "cn": "A：購物中心附近的彈跳床樂園有公司團體優惠，我們下個月要不要帶團隊同事的孩子去？ B：好主意，孩子們可以在柔軟的彈跳床上盡情地【跳】，那裡還有一間咖啡館讓家長坐著聊天。",
+    "collocation": "jump on a trampoline 在彈跳床上跳"
+   },
+   {
+    "word": "ride",
+    "forms": "ride – rode – ridden",
+    "pos": "v.",
+    "en_def": "to sit on and control a bicycle, horse, etc.",
+    "cn_def": "騎",
+    "sentence": "A: The city just finished building a new riverside park with wide paths, so what will families be able to do there on weekends? B: Children can {{BLANK}} their bicycles along the river without worrying about cars, and there is a rental shop near the entrance for families who don't have their own.",
+    "cn": "A：市政府剛蓋好一座有寬敞步道的河濱公園，週末家庭可以在那裡做什麼？ B：孩子們可以沿著河邊【騎】腳踏車，不用擔心汽車，而且入口附近有一家出租店，給沒有自己車子的家庭使用。",
+    "collocation": "ride a bike 騎腳踏車"
+   },
+   {
+    "word": "bike riding",
+    "pos": "n.phr.",
+    "en_def": "the activity of riding a bicycle for fun or exercise",
+    "cn_def": "騎腳踏車",
+    "sentence": "A: Your son seems much more confident and active than he was last year, so has he joined any new after-school clubs recently? B: Yes, he has taken up {{BLANK}} with his father every weekend, and they usually travel about ten kilometers along the coast before stopping for breakfast at a small café.",
+    "cn": "A：你兒子看起來比去年更有自信、更活潑了，他最近有參加什麼新的課後社團嗎？ B：有，他每個週末都跟爸爸去【騎腳踏車】，他們通常沿著海岸騎大約十公里，再停在一家小咖啡館吃早餐。",
+    "collocation": "go bike riding on weekends 週末去騎腳踏車"
+   },
+   {
+    "word": "sports",
+    "pos": "n.",
+    "en_def": "games or activities in which people use their bodies and often compete",
+    "cn_def": "運動",
+    "sentence": "A: The company is planning a family fun day at the stadium in October, so what kind of activities should we include for employees' children? B: We should offer several team {{BLANK}} like soccer and relay races, because they are easy to organize, and the kids will learn to cooperate with new friends.",
+    "cn": "A：公司打算十月在體育場辦家庭同樂日，我們應該為員工的孩子安排哪些活動？ B：我們應該提供幾項團隊【運動】，例如足球和接力賽，因為它們容易安排，孩子們也能學著和新朋友合作。",
+    "collocation": "play team sports 參加團隊運動"
+   },
+   {
+    "word": "swimming",
+    "pos": "n.",
+    "en_def": "the activity of moving through water using your arms and legs",
+    "cn_def": "游泳",
+    "sentence": "A: The hotel we booked for our business trip to Kenting has a large pool, so do you think your kids will enjoy staying there? B: Absolutely, they love {{BLANK}} more than any other summer activity, and they took lessons at the sports center for three months, so they can now float and kick without help.",
+    "cn": "A：我們出差去墾丁訂的飯店有一個大泳池，你覺得你的孩子會喜歡住那裡嗎？ B：當然，他們最愛【游泳】，勝過任何其他夏日活動，而且他們在運動中心上了三個月的課，現在不用別人幫忙就能漂浮和踢水了。",
+    "collocation": "take swimming lessons 上游泳課"
+   },
+   {
+    "word": "playground",
+    "pos": "n.",
+    "en_def": "an outdoor area with equipment for children to play on",
+    "cn_def": "遊樂場",
+    "sentence": "A: The property developer says the new housing project will attract young families, so what facilities are they adding to the site? B: They are building a large {{BLANK}} with slides, swings, and a sandbox in the center of the complex, so parents can watch their children from the windows of their apartments.",
+    "cn": "A：建商說新的住宅案會吸引年輕家庭，他們在基地上增加了哪些設施？ B：他們正在社區中央蓋一座有溜滑梯、鞦韆和沙坑的大型【遊樂場】，讓父母可以從公寓窗戶看著孩子。",
+    "collocation": "a children's playground 兒童遊樂場"
+   },
+   {
+    "word": "picnic",
+    "pos": "n.",
+    "en_def": "a meal eaten outdoors, often in a park",
+    "cn_def": "野餐",
+    "sentence": "A: The weather forecast says it will be sunny and warm on Sunday, so do you have any plans with your family this weekend? B: We are going to have a {{BLANK}} by the lake in Daan Park, and the kids will help me make sandwiches and pack fruit and cold drinks in the morning.",
+    "cn": "A：天氣預報說週日會晴朗溫暖，這個週末你和家人有什麼計畫嗎？ B：我們要去大安公園的湖邊【野餐】，孩子們早上會幫我做三明治，並把水果和冷飲打包好。",
+    "collocation": "have a picnic in the park 在公園野餐"
+   },
+   {
+    "word": "collect",
+    "pos": "v.",
+    "en_def": "to get and keep things of the same type as a hobby",
+    "cn_def": "收集",
+    "sentence": "A: Why is your son so excited about the new convenience store promotion that started at the beginning of this month? B: He likes to {{BLANK}} the small cartoon stickers that come with each purchase, and he wants to fill the whole album before the event ends in December.",
+    "cn": "A：你兒子為什麼對這個月初開始的便利商店新促銷活動這麼興奮？ B：他喜歡【收集】每次購物附贈的小卡通貼紙，而且想在活動十二月結束前把整本集點冊貼滿。",
+    "collocation": "collect stamps 集郵"
+   },
+   {
+    "word": "collection",
+    "pos": "n.",
+    "en_def": "a group of similar things that someone has gathered",
+    "cn_def": "收藏品",
+    "sentence": "A: The toy museum is asking local residents to lend items for its new exhibition about childhood in the 1980s, so are you going to help? B: Yes, my father still has his {{BLANK}} of old metal cars from his school days, and he is happy to let the museum display them for three months.",
+    "cn": "A：玩具博物館正在請當地居民出借物品，舉辦一個關於1980年代童年的新展覽，你會幫忙嗎？ B：會，我父親還留著他學生時代的舊金屬小汽車【收藏】，他很樂意讓博物館展出三個月。",
+    "collocation": "a stamp collection 郵票收藏"
+   },
+   {
+    "word": "help out",
+    "pos": "v.phr.",
+    "en_def": "to help someone, especially by doing a share of the work",
+    "cn_def": "幫忙",
+    "sentence": "A: The children at your neighbor's house seem very busy in the garden every Saturday morning, so what are they doing out there? B: Their grandparents grow vegetables, and the kids {{BLANK}} by watering the plants and picking tomatoes, which teaches them responsibility and earns them a little pocket money.",
+    "cn": "A：你鄰居家的孩子每週六早上在花園裡看起來都很忙，他們在那裡做什麼？ B：他們的祖父母種菜，孩子們會【幫忙】澆水和摘番茄，這能培養他們的責任感，還能賺一點零用錢。",
+    "collocation": "help out at home 在家幫忙"
+   },
+   {
+    "word": "chores",
+    "pos": "n.",
+    "en_def": "small regular jobs at home, like cleaning or washing dishes",
+    "cn_def": "家務；雜事",
+    "sentence": "A: How do you get your kids to stop watching cartoons and do something useful on weekend mornings at home? B: We made a simple chart of household {{BLANK}}, such as feeding the dog and folding laundry, and they earn a sticker for each task they finish before lunch.",
+    "cn": "A：週末早上在家，你是怎麼讓孩子不再看卡通、做點有用的事？ B：我們做了一張簡單的【家務】表，例如餵狗和摺衣服，他們每在午餐前完成一項就能得到一張貼紙。",
+    "collocation": "do household chores 做家事"
+   },
+   {
+    "word": "hobby",
+    "pos": "n.",
+    "en_def": "an activity you do for fun in your free time",
+    "cn_def": "嗜好",
+    "sentence": "A: The manager asked about your childhood during the job interview this morning, so what did you tell her? B: I said that my favorite {{BLANK}} was building model airplanes, because it taught me patience and attention to detail, which are useful skills for an engineering position like this one.",
+    "cn": "A：今天早上面試時經理問了你的童年，你怎麼回答她？ B：我說我最喜歡的【嗜好】是做模型飛機，因為它教會我耐心和注重細節，這些對像這樣的工程職位都是很有用的技能。",
+    "collocation": "take up a new hobby 培養新嗜好"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Parents in the neighborhood let their children _____ football in the park after school. The kids usually stay outside until dinner is ready.",
+    "options": [
+     "play",
+     "pretend",
+     "listen",
+     "collect"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The software company released a new educational _____ for young children last month. Kids answer math questions to win points and unlock new levels.",
+    "options": [
+     "picnic",
+     "chores",
+     "game",
+     "playground"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The daycare center added a large garden to encourage more _____. Teachers believe fresh air and sunlight help children grow strong and healthy.",
+    "options": [
+     "nursery rhyme",
+     "coloring",
+     "collection",
+     "outdoor play"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The toy store sells simple wooden blocks instead of electronic toys. The owner says these blocks allow a child's _____ to grow freely.",
+    "options": [
+     "picnic",
+     "imagination",
+     "swimming",
+     "chores"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "My little brother likes to _____ that he is a pilot. He wears a paper hat and makes airplane noises around the living room.",
+    "options": [
+     "pretend",
+     "climb",
+     "listen",
+     "collect"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The teacher divided the class into pairs for a short _____. One student acted as a waiter, and the other ordered food from a menu.",
+    "options": [
+     "hobby",
+     "collection",
+     "role-play",
+     "playground"
+    ],
+    "answer": 2,
+    "vocabIndex": 8
+   },
+   {
+    "q": "My daughter made a pencil _____ of our family for her school project. She showed everyone smiling in front of our apartment building.",
+    "options": [
+     "picnic",
+     "drawing",
+     "chores",
+     "sports"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The airline gives young passengers a free _____ book and crayons on long flights. It keeps children busy and quiet for hours.",
+    "options": [
+     "bike riding",
+     "swimming",
+     "exploration",
+     "coloring"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The art center offers a weekend _____ class for children aged six to ten. Students learn to mix colors and use different brushes.",
+    "options": [
+     "painting",
+     "picnic",
+     "swimming",
+     "reading"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "At the holiday market, children can make a simple _____ from paper and glue. Many parents hang the finished stars on their Christmas trees.",
+    "options": [
+     "reading",
+     "hobby",
+     "craft",
+     "sports"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The choir teacher asked the children to _____ the school song at the opening ceremony. They practiced it every morning for two weeks.",
+    "options": [
+     "climb",
+     "jump",
+     "ride",
+     "sing"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "When the band started playing, the children hurried to the middle of the hall to _____. They moved happily to the music all evening.",
+    "options": [
+     "explore",
+     "dance",
+     "collect",
+     "pretend"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The music teacher taught the babies and their parents a short _____. Everyone clapped their hands while singing about a little star.",
+    "options": [
+     "exploration",
+     "playground",
+     "collection",
+     "nursery rhyme"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The library holds a free _____ session every Saturday morning. A volunteer reads picture books aloud using funny voices for each character.",
+    "options": [
+     "swimming",
+     "sports",
+     "storytelling",
+     "bike riding"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Doctors recommend twenty minutes of _____ with young children every night. Looking at books together improves their vocabulary and attention.",
+    "options": [
+     "swimming",
+     "reading",
+     "chores",
+     "sports"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The guide asked the children to _____ carefully to the safety rules before the tour. Nobody was allowed to touch the machines in the factory.",
+    "options": [
+     "listen",
+     "ride",
+     "climb",
+     "dance"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Visitors to the national park can _____ the forest trails with a trained guide. They often see monkeys, birds, and rare plants along the way.",
+    "options": [
+     "sing",
+     "listen",
+     "pretend",
+     "explore"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The science museum encourages hands-on _____ instead of just looking at displays. Children can touch rocks, test magnets, and build simple machines.",
+    "options": [
+     "nursery rhyme",
+     "exploration",
+     "chores",
+     "picnic"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The hotel playroom has a rope wall where kids can _____ up to a small tower. Thick mats on the floor keep them safe.",
+    "options": [
+     "sing",
+     "listen",
+     "climb",
+     "collect"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "At the trampoline park, children can _____ as high as they like on soft mats. Staff members watch carefully to make sure nobody gets hurt.",
+    "options": [
+     "jump",
+     "pretend",
+     "collect",
+     "listen"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The city opened a new path where kids can safely _____ their bicycles along the river. Bike rentals are available near the main entrance.",
+    "options": [
+     "pretend",
+     "listen",
+     "ride",
+     "sing"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "My son has taken up _____ with his friends on weekends. They wear helmets and follow the path along the river for ten kilometers.",
+    "options": [
+     "imagination",
+     "coloring",
+     "storytelling",
+     "bike riding"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The school encourages every student to join at least one of its team _____. Basketball and volleyball are the most popular choices this year.",
+    "options": [
+     "sports",
+     "imagination",
+     "picnic",
+     "chores"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The hotel pool is open for _____ from early morning until late at night. Children under eight must wear arm floats in the water.",
+    "options": [
+     "painting",
+     "swimming",
+     "coloring",
+     "storytelling"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The new apartment complex has a _____ with slides and swings in its central garden. Parents can watch their children from the benches nearby.",
+    "options": [
+     "hobby",
+     "imagination",
+     "reading",
+     "playground"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Our department is planning a _____ in the park next Friday afternoon. Everyone should bring some food, a drink, and a blanket to sit on.",
+    "options": [
+     "picnic",
+     "role-play",
+     "exploration",
+     "coloring"
+    ],
+    "answer": 0,
+    "vocabIndex": 29
+   },
+   {
+    "q": "My nephew loves to _____ stickers from the convenience store promotion. He has already filled half of his album this month.",
+    "options": [
+     "dance",
+     "collect",
+     "jump",
+     "climb"
+    ],
+    "answer": 1,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The museum displays a large _____ of old toys from local families. Some of the metal cars are fifty years old.",
+    "options": [
+     "hobby",
+     "playground",
+     "collection",
+     "picnic"
+    ],
+    "answer": 2,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Many parents give their children small household _____ like washing dishes or feeding pets. It teaches kids to be responsible at home.",
+    "options": [
+     "imagination",
+     "chores",
+     "exploration",
+     "storytelling"
+    ],
+    "answer": 1,
+    "vocabIndex": 33
+   },
+   {
+    "q": "Collecting stamps became my father's favorite _____ after he retired from the bank. He spends hours every weekend sorting them into albums.",
+    "options": [
+     "hobby",
+     "playground",
+     "picnic",
+     "chores"
+    ],
+    "answer": 0,
+    "vocabIndex": 34
+   }
+  ]
+ },
+ "56": {
+  "theme": "Children's Education 兒童教育",
+  "source": "https://www.examword.com/group-topic/children-education",
+  "VOCAB": [
+   {
+    "word": "education",
+    "pos": "n.",
+    "en_def": "the process of teaching and learning, especially at school",
+    "cn_def": "教育",
+    "sentence": "A: Our company is thinking about opening a training center for the children of our factory workers, so what do you think parents care about most? B: Most of them want their kids to get a good {{BLANK}}, because they believe that strong schooling will help their children find better jobs than they had.",
+    "cn": "A：我們公司正考慮為工廠員工的孩子開設一個培訓中心，你覺得家長最在乎的是什麼？ B：他們大多數希望孩子能受到良好的【教育】，因為他們相信紮實的學校教育能幫助孩子找到比自己更好的工作。",
+    "collocation": "receive a good education 接受良好的教育"
+   },
+   {
+    "word": "schooling",
+    "pos": "n.",
+    "en_def": "the education a child receives at school",
+    "cn_def": "學校教育",
+    "sentence": "A: The new manager from Singapore said she moved here with her two sons last month, so where are the boys studying now? B: They are attending an international school near the station, and she told me that their {{BLANK}} costs a lot but the small classes are worth the money.",
+    "cn": "A：新來的新加坡經理說她上個月帶著兩個兒子搬來這裡，那兩個男孩現在在哪裡讀書？ B：他們在車站附近的一所國際學校上學，她告訴我他們的【學校教育】花費很高，但小班制是值得的。",
+    "collocation": "full-time schooling 全日制學校教育"
+   },
+   {
+    "word": "learning",
+    "pos": "n.",
+    "en_def": "the process of gaining knowledge or skills",
+    "cn_def": "學習",
+    "sentence": "A: Why did the library decide to buy so many tablets and educational games for the children's corner this year? B: The director believes that {{BLANK}} should be fun, so she wants young visitors to explore science and language through games instead of just sitting quietly with heavy books.",
+    "cn": "A：圖書館今年為什麼決定為兒童區購買這麼多平板電腦和教育遊戲？ B：館長認為【學習】應該是有趣的，所以她希望年幼的訪客能透過遊戲探索科學和語言，而不只是安靜地坐著看厚重的書。",
+    "collocation": "a fun learning experience 有趣的學習經驗"
+   },
+   {
+    "word": "teach",
+    "forms": "teach – taught – taught",
+    "pos": "v.",
+    "en_def": "to show or explain to someone how to do something",
+    "cn_def": "教；教導",
+    "sentence": "A: I heard you are volunteering at the community center on Saturday mornings, so what exactly do you do there with the kids? B: I {{BLANK}} a group of ten-year-olds how to use simple computer programs, and afterward we usually play board games together until their parents arrive.",
+    "cn": "A：我聽說你週六早上在社區中心當志工，你在那裡和孩子們具體做些什麼？ B：我【教】一群十歲的孩子如何使用簡單的電腦程式，之後我們通常會一起玩桌遊，直到他們的父母來接。",
+    "collocation": "teach children to read 教孩子閱讀"
+   },
+   {
+    "word": "teacher",
+    "pos": "n.",
+    "en_def": "a person whose job is to help students learn",
+    "cn_def": "老師",
+    "sentence": "A: Your daughter seems much more confident about speaking English than she was last year, so what made the biggest difference for her? B: Her new {{BLANK}} at the language school is very patient, and she always gives every child a chance to speak in front of the class without feeling nervous.",
+    "cn": "A：你女兒說英文似乎比去年有自信多了，對她來說最大的改變是什麼？ B：她在語言學校的新【老師】非常有耐心，總是給每個孩子在全班面前說話的機會，而不會讓他們感到緊張。",
+    "collocation": "an experienced teacher 經驗豐富的老師"
+   },
+   {
+    "word": "student",
+    "pos": "n.",
+    "en_def": "a person who is studying at a school or university",
+    "cn_def": "學生",
+    "sentence": "A: The science museum is offering free tickets next month, but does the offer include everyone or only certain groups of visitors? B: Any {{BLANK}} under eighteen can get in for free if they show a school ID card at the front desk, so it is a great chance for families.",
+    "cn": "A：科學博物館下個月提供免費門票，但這個優惠是適用所有人還是只限特定族群的訪客？ B：任何未滿十八歲的【學生】只要在櫃台出示學生證就能免費入場，所以這對家庭來說是個很好的機會。",
+    "collocation": "a high school student 高中生"
+   },
+   {
+    "word": "curriculum",
+    "pos": "n.",
+    "en_def": "all the subjects that are taught in a school",
+    "cn_def": "課程",
+    "sentence": "A: The board of education announced some major changes for elementary schools starting next September, so what will be different for the kids? B: The new {{BLANK}} will include coding classes and more outdoor science projects, and schools will reduce the number of tests that students take each term.",
+    "cn": "A：教育局宣布從明年九月起國小將有一些重大改變，對孩子來說會有什麼不同？ B：新的【課程】將包含程式設計課和更多戶外科學專題，而且學校會減少學生每學期的考試次數。",
+    "collocation": "design a new curriculum 設計新課程"
+   },
+   {
+    "word": "lesson",
+    "pos": "n.",
+    "en_def": "a period of time in which someone is taught something",
+    "cn_def": "一堂課；課程",
+    "sentence": "A: Is your son still taking swimming classes at the sports center near your apartment, or did he stop after the summer vacation? B: He still goes every Wednesday, and each {{BLANK}} lasts about forty-five minutes, so I can finish my shopping at the supermarket before I pick him up.",
+    "cn": "A：你兒子還在你公寓附近的運動中心上游泳課嗎？還是暑假後就停了？ B：他還是每週三去，每一【堂課】大約四十五分鐘，所以我可以在接他之前先在超市買完東西。",
+    "collocation": "take piano lessons 上鋼琴課"
+   },
+   {
+    "word": "classroom",
+    "pos": "n.",
+    "en_def": "a room where students have lessons",
+    "cn_def": "教室",
+    "sentence": "A: The parents' association raised a lot of money at the spring fair, so how is the school planning to spend it? B: They will repaint every {{BLANK}} on the second floor and buy new desks and chairs, because the old furniture is broken and too small for the older children.",
+    "cn": "A：家長會在春季園遊會上募得了不少錢，學校打算怎麼使用這筆錢？ B：他們會重新粉刷二樓的每一間【教室】，並購買新的桌椅，因為舊家具已經壞了，對年紀較大的孩子來說也太小了。",
+    "collocation": "a bright, spacious classroom 明亮寬敞的教室"
+   },
+   {
+    "word": "homework",
+    "pos": "n.",
+    "en_def": "school work that students do at home",
+    "cn_def": "回家作業",
+    "sentence": "A: You usually leave the office right at five o'clock these days, so do you have a new class or appointment in the evening? B: Not really, but my twins have a lot of {{BLANK}} now that they are in third grade, and I like to sit with them while they do it after dinner.",
+    "cn": "A：你最近通常五點一到就下班，晚上是有新的課程還是約會嗎？ B：其實沒有，只是我的雙胞胎升上三年級後有很多【回家作業】，我喜歡晚餐後坐在旁邊陪他們寫。",
+    "collocation": "do homework 寫作業"
+   },
+   {
+    "word": "literacy",
+    "pos": "n.",
+    "en_def": "the ability to read and write",
+    "cn_def": "讀寫能力",
+    "sentence": "A: Why is the publishing company donating thousands of picture books to schools in the mountain areas this year? B: The company wants to improve {{BLANK}} among young children there, because many of them do not have libraries nearby and some still cannot read simple sentences by the age of eight.",
+    "cn": "A：出版社今年為什麼要捐贈數千本繪本給山區的學校？ B：公司希望提升當地幼童的【讀寫能力】，因為許多孩子附近沒有圖書館，有些到了八歲還看不懂簡單的句子。",
+    "collocation": "improve children's literacy 提升兒童的讀寫能力"
+   },
+   {
+    "word": "numeracy",
+    "pos": "n.",
+    "en_def": "the ability to understand and work with numbers",
+    "cn_def": "算術能力",
+    "sentence": "A: The after-school program uses a lot of cooking activities, but how does making cookies actually help the kids with their studies? B: Measuring flour, counting eggs, and dividing the cookies equally all build {{BLANK}}, so children practice basic math skills without even noticing that they are learning something.",
+    "cn": "A：課後輔導班使用很多烹飪活動，但做餅乾到底對孩子的課業有什麼幫助？ B：量麵粉、數雞蛋和平均分配餅乾都能培養【算術能力】，所以孩子們在不知不覺中就練習了基本的數學技巧。",
+    "collocation": "basic numeracy skills 基本算術能力"
+   },
+   {
+    "word": "reading",
+    "pos": "n.",
+    "en_def": "the activity of looking at and understanding written words",
+    "cn_def": "閱讀",
+    "sentence": "A: My nephew spends almost every evening playing games on his phone, so how can his parents get him interested in books? B: They could make {{BLANK}} part of the family routine, for example by spending twenty minutes together with stories before bed and visiting the library every weekend.",
+    "cn": "A：我姪子幾乎每天晚上都在手機上玩遊戲，他父母要怎麼讓他對書產生興趣？ B：他們可以把【閱讀】變成家庭作息的一部分，例如睡前一起花二十分鐘看故事，並且每個週末去圖書館。",
+    "collocation": "reading for pleasure 為樂趣而閱讀"
+   },
+   {
+    "word": "writing",
+    "pos": "n.",
+    "en_def": "the activity or skill of putting words on paper or a screen",
+    "cn_def": "寫作",
+    "sentence": "A: The judges for the children's story competition have finished reading all the entries, so did any of them stand out? B: One girl's {{BLANK}} was especially impressive, because she described her grandmother's farm with such clear details that we could almost smell the fresh rice fields.",
+    "cn": "A：兒童故事比賽的評審已經看完所有參賽作品了，有沒有哪一篇特別突出？ B：有一個女孩的【寫作】特別令人印象深刻，因為她把祖母的農場描寫得非常細膩，我們幾乎能聞到新鮮稻田的味道。",
+    "collocation": "creative writing 創意寫作"
+   },
+   {
+    "word": "assessment",
+    "pos": "n.",
+    "en_def": "a way of judging how much someone has learned",
+    "cn_def": "評量；評估",
+    "sentence": "A: Before the kids join the advanced English class, does the school check their level, or can parents just sign them up? B: Every child takes a short {{BLANK}} with a teacher first, which includes a few listening questions and a simple conversation, so the school can place them in the right group.",
+    "cn": "A：孩子加入英文進階班之前，學校會檢查他們的程度嗎？還是家長直接報名就可以？ B：每個孩子都會先和老師進行一個簡短的【評量】，包括幾題聽力和簡單的對話，這樣學校才能把他們分到合適的組別。",
+    "collocation": "a placement assessment 分級評量"
+   },
+   {
+    "word": "exam",
+    "pos": "n.",
+    "en_def": "an official test of knowledge or skill",
+    "cn_def": "考試",
+    "sentence": "A: Your son looked really tired when I saw him at the bus stop this morning, so is something wrong at school? B: He has been studying late every night because he has an important {{BLANK}} next Monday, and the results will decide whether he can enter the senior high school he wants.",
+    "cn": "A：我今天早上在公車站看到你兒子，他看起來真的很累，學校發生什麼事了嗎？ B：他每天晚上都讀書到很晚，因為下週一有一場重要的【考試】，結果將決定他能不能進入想讀的高中。",
+    "collocation": "pass an entrance exam 通過入學考試"
+   },
+   {
+    "word": "discipline",
+    "pos": "n.",
+    "en_def": "training people to obey rules and control their behavior",
+    "cn_def": "紀律",
+    "sentence": "A: The new kindergarten seems very popular with parents in our neighborhood, so what makes it different from the others? B: The teachers there believe that gentle but firm {{BLANK}} is important, so they set clear rules about sharing toys and cleaning up, and the children learn to follow them happily.",
+    "cn": "A：新開的幼兒園似乎很受我們社區家長歡迎，它和其他幼兒園有什麼不同？ B：那裡的老師認為溫和但堅定的【紀律】很重要，所以他們訂下分享玩具和收拾整理的明確規則，孩子們也學會開心地遵守。",
+    "collocation": "maintain classroom discipline 維持課堂紀律"
+   },
+   {
+    "word": "guidance",
+    "pos": "n.",
+    "en_def": "help and advice about how to do something",
+    "cn_def": "指導；輔導",
+    "sentence": "A: My daughter cannot decide whether she should study art or engineering in college, and she is getting really stressed about it. B: Maybe she should ask the school counselor for some {{BLANK}}, because counselors know a lot about different careers and can help students think about their strengths and interests.",
+    "cn": "A：我女兒無法決定大學要讀藝術還是工程，她為此感到壓力很大。 B：也許她應該向學校的輔導老師尋求一些【指導】，因為輔導老師很了解各種職業，也能幫助學生思考自己的長處和興趣。",
+    "collocation": "career guidance 職涯輔導"
+   },
+   {
+    "word": "support",
+    "pos": "v.",
+    "en_def": "to help someone or something, especially when help is needed",
+    "cn_def": "支持；幫助",
+    "sentence": "A: Our firm wants to do something useful for the local community this year, so do you have any ideas for a project? B: We could {{BLANK}} the reading program at the public library by giving books and sending volunteers twice a month to help children who are falling behind at school.",
+    "cn": "A：我們公司今年想為當地社區做些有意義的事，你對專案有什麼想法嗎？ B：我們可以透過捐書和每個月派兩次志工，幫助課業落後的孩子，來【支持】公立圖書館的閱讀計畫。",
+    "collocation": "support children's learning 支持兒童的學習"
+   },
+   {
+    "word": "encourage",
+    "pos": "v.",
+    "en_def": "to give someone confidence or hope to do something",
+    "cn_def": "鼓勵",
+    "sentence": "A: Your son used to be so shy, but yesterday he sang a song in front of the whole school at the concert, didn't he? B: Yes, his music teacher worked hard to {{BLANK}} him, and she kept telling him that his voice was beautiful until he finally believed it himself.",
+    "cn": "A：你兒子以前很害羞，但他昨天在音樂會上當著全校的面唱了一首歌，對吧？ B：是啊，他的音樂老師很努力地【鼓勵】他，一直告訴他他的聲音很好聽，直到他自己終於相信了。",
+    "collocation": "encourage students to ask questions 鼓勵學生發問"
+   },
+   {
+    "word": "motivate",
+    "pos": "v.",
+    "en_def": "to make someone want to do something",
+    "cn_def": "激勵；激發動機",
+    "sentence": "A: The kids in the after-school club used to complain about doing math, but now they seem excited about it, so what changed? B: The coordinator found a smart way to {{BLANK}} them by giving small prizes and points for every finished worksheet, and the class with the most points wins a pizza party.",
+    "cn": "A：課後社團的孩子們以前抱怨做數學，現在卻似乎很興奮，是什麼改變了？ B：協調員找到一個聰明的方法來【激勵】他們，每完成一張學習單就給小獎品和積分，積分最多的班級可以贏得披薩派對。",
+    "collocation": "motivate young learners 激勵年輕學習者"
+   },
+   {
+    "word": "educate",
+    "pos": "v.",
+    "en_def": "to teach someone, especially over a period of time",
+    "cn_def": "教育",
+    "sentence": "A: Why is the city hospital sending nurses to visit elementary schools all through the month of October? B: They want to {{BLANK}} children about healthy eating and washing their hands properly, because doctors have seen more kids getting sick from poor habits during the cold season.",
+    "cn": "A：市立醫院為什麼整個十月都派護理師去拜訪國小？ B：他們想【教育】孩子有關健康飲食和正確洗手的知識，因為醫生發現在寒冷的季節有越來越多孩子因為不良習慣而生病。",
+    "collocation": "educate children about safety 教育孩子安全知識"
+   },
+   {
+    "word": "develop",
+    "pos": "v.",
+    "en_def": "to grow or make something grow stronger or better",
+    "cn_def": "培養；發展",
+    "sentence": "A: Do you really think the weekend robot club is worth the high fee that the center charges for each term? B: I think so, because it helps kids {{BLANK}} problem-solving skills and teamwork, and my daughter now plans her projects carefully and explains her ideas clearly to her teammates.",
+    "cn": "A：你真的認為週末機器人社團值得中心每學期收的高額費用嗎？ B：我認為值得，因為它能幫助孩子【培養】解決問題的能力和團隊合作，我女兒現在會仔細規劃她的專案，並清楚地向隊友解釋自己的想法。",
+    "collocation": "develop social skills 培養社交能力"
+   },
+   {
+    "word": "practice",
+    "pos": "v.",
+    "en_def": "to do something again and again to get better at it",
+    "cn_def": "練習",
+    "sentence": "A: Your daughter played the violin so beautifully at the company's year-end party, so how long has she been learning? B: Only about two years, but she has to {{BLANK}} for at least an hour every day after school, even on weekends when her friends invite her to go out and play.",
+    "cn": "A：你女兒在公司尾牙上小提琴拉得真好聽，她學多久了？ B：只有大約兩年，但她每天放學後至少要【練習】一個小時，即使週末朋友找她出去玩也一樣。",
+    "collocation": "practice speaking English 練習說英語"
+   },
+   {
+    "word": "focus",
+    "pos": "v.",
+    "en_def": "to give all your attention to something",
+    "cn_def": "專注",
+    "sentence": "A: The noise from the construction site next to the school has been terrible this month, so how are the students managing in class? B: Many of them find it hard to {{BLANK}} on their lessons, so the principal has asked the builders to do the loudest work only after three o'clock.",
+    "cn": "A：學校隔壁工地的噪音這個月非常嚴重，學生們上課時怎麼應付？ B：很多學生覺得很難【專注】在課業上，所以校長已經要求建商只在三點以後才進行最吵的工程。",
+    "collocation": "focus on studies 專注於課業"
+   },
+   {
+    "word": "inclusive",
+    "pos": "adj.",
+    "en_def": "welcoming and including all kinds of people",
+    "cn_def": "包容的；融合的",
+    "sentence": "A: The father of a boy who uses a wheelchair asked whether the new private school would accept his son, so what did the school say? B: The principal told him that they run an {{BLANK}} program, so the building has ramps and elevators, and every class welcomes children with different needs.",
+    "cn": "A：一位坐輪椅男孩的父親詢問新的私立學校是否會接受他的兒子，學校怎麼說？ B：校長告訴他學校實施【融合】課程，所以建築物有斜坡和電梯，每個班級都歡迎有不同需求的孩子。",
+    "collocation": "inclusive education 融合教育"
+   },
+   {
+    "word": "effective",
+    "pos": "adj.",
+    "en_def": "working well and producing the result you want",
+    "cn_def": "有效的",
+    "sentence": "A: We tried several ways to help the new staff's children with their summer homework, so which one worked the best? B: Small study groups were the most {{BLANK}}, because older kids helped younger ones and everyone finished their tasks faster than when they studied alone at home.",
+    "cn": "A：我們試了幾種方法幫助新進員工的孩子完成暑假作業，哪一種效果最好？ B：小型讀書會最【有效】，因為大孩子會幫助小孩子，每個人都比獨自在家讀書時更快完成任務。",
+    "collocation": "an effective teaching method 有效的教學方法"
+   },
+   {
+    "word": "creative",
+    "pos": "adj.",
+    "en_def": "good at making new and interesting things or ideas",
+    "cn_def": "有創意的",
+    "sentence": "A: The marketing team was really impressed by the drawings the employees' kids made for our calendar, weren't they? B: Yes, the children were so {{BLANK}} that one boy turned our company logo into a flying dragon, and the design team now wants to use his idea in our next advertisement.",
+    "cn": "A：行銷團隊對員工的孩子為我們月曆畫的圖真的印象深刻，對吧？ B：是啊，孩子們非常【有創意】，有一個男孩把我們公司的標誌變成了一條飛龍，設計團隊現在想在下一支廣告中使用他的點子。",
+    "collocation": "creative thinking 創意思考"
+   },
+   {
+    "word": "academic",
+    "pos": "adj.",
+    "en_def": "related to school, study, and learning",
+    "cn_def": "學業的；學術的",
+    "sentence": "A: Why did the private high school offer that girl from the countryside a full scholarship for all three years? B: Her {{BLANK}} results were excellent in every subject, especially science and mathematics, and she also volunteered at the local clinic every weekend to help elderly patients.",
+    "cn": "A：那所私立高中為什麼提供那位鄉下女孩三年的全額獎學金？ B：她每一科的【學業】成績都很優秀，尤其是自然科學和數學，而且她每個週末還在當地診所當志工幫助年長的病患。",
+    "collocation": "academic performance 學業表現"
+   },
+   {
+    "word": "basic",
+    "pos": "adj.",
+    "en_def": "simple and necessary as a first step",
+    "cn_def": "基本的",
+    "sentence": "A: The summer camp is only two weeks long, so can the kids really learn anything useful about computers in such a short time? B: They will not become experts, of course, but they will learn {{BLANK}} skills like typing, saving files, and searching online safely, which will help them a lot at school.",
+    "cn": "A：夏令營只有兩週，孩子們真的能在這麼短的時間內學到有用的電腦知識嗎？ B：當然他們不會成為專家，但他們會學到【基本】技能，像是打字、儲存檔案和安全地上網搜尋，這對他們在學校會有很大的幫助。",
+    "collocation": "basic computer skills 基本電腦技能"
+   },
+   {
+    "word": "formal",
+    "pos": "adj.",
+    "en_def": "official, and following the usual system of schools or training",
+    "cn_def": "正規的；正式的",
+    "sentence": "A: The new receptionist speaks four languages very well, so did she study them at a university abroad? B: Actually, she had very little {{BLANK}} schooling as a child because her family traveled a lot, but she picked up languages by talking with people in every country they lived in.",
+    "cn": "A：新來的接待員能說流利的四種語言，她是在國外大學學的嗎？ B：其實她小時候因為家人經常旅行，很少接受【正規】學校教育，但她在他們住過的每個國家透過和當地人交談學會了語言。",
+    "collocation": "formal education 正規教育"
+   },
+   {
+    "word": "early",
+    "pos": "adj.",
+    "en_def": "happening near the beginning of a period of time",
+    "cn_def": "早期的；幼年的",
+    "sentence": "A: Why is the government spending so much money on preschools and training for kindergarten teachers this year? B: Studies show that the {{BLANK}} years of a child's life are very important for the brain, so good care before age six can help children do better later at school.",
+    "cn": "A：政府今年為什麼要花這麼多錢在幼兒園和幼教老師的培訓上？ B：研究顯示孩子生命中的【早期】幾年對大腦非常重要，所以六歲前的良好照顧能幫助孩子日後在學校表現更好。",
+    "collocation": "early childhood education 幼兒教育"
+   },
+   {
+    "word": "lifelong",
+    "pos": "adj.",
+    "en_def": "lasting for the whole of a person's life",
+    "cn_def": "終身的",
+    "sentence": "A: Your father retired from the bank last year, but I heard he is taking Japanese and painting classes now, isn't he? B: Yes, he believes in {{BLANK}} learning, and he says that studying new things keeps his mind sharp and gives him a reason to meet new friends every week.",
+    "cn": "A：你父親去年從銀行退休了，但我聽說他現在在上日文課和繪畫課，對嗎？ B：是的，他相信【終身】學習，他說學習新事物能讓頭腦保持敏銳，也讓他每週都有理由認識新朋友。",
+    "collocation": "lifelong learning 終身學習"
+   },
+   {
+    "word": "quality",
+    "pos": "adj.",
+    "en_def": "of a high standard; very good",
+    "cn_def": "優質的",
+    "sentence": "A: Many young families are moving to the new town near the science park, so what is attracting them there? B: Besides the cheaper apartments, the town offers {{BLANK}} education, with modern schools, well-trained teachers, and free after-school activities for every child who lives in the area.",
+    "cn": "A：很多年輕家庭搬到科學園區附近的新市鎮，是什麼吸引他們去那裡？ B：除了比較便宜的公寓之外，那個市鎮還提供【優質】教育，有現代化的學校、訓練有素的老師，以及給區內每個孩子的免費課後活動。",
+    "collocation": "quality education 優質教育"
+   },
+   {
+    "word": "well-rounded",
+    "pos": "adj.",
+    "en_def": "having many different skills and interests",
+    "cn_def": "全面發展的",
+    "sentence": "A: Why do so many parents in this neighborhood send their children to music, sports, and art classes on weekends? B: They want their kids to become {{BLANK}} people who are good at many things, not just test scores, because companies today look for people with a wide range of skills.",
+    "cn": "A：為什麼這個社區有這麼多家長在週末送孩子去上音樂、運動和美術課？ B：他們希望孩子成為【全面發展】的人，擅長很多事情，而不只是考試成績，因為現在的公司都在尋找具備多種技能的人。",
+    "collocation": "a well-rounded education 全人教育"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The company offers a scholarship fund for its employees' children. It pays for their university _____ if they keep good grades.",
+    "options": [
+     "education",
+     "classroom",
+     "lesson",
+     "discipline"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Ms. Lin will _____ a weekend art class for children at the community center. She has been a painter for twenty years.",
+    "options": [
+     "focus",
+     "teach",
+     "motivate",
+     "practice"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Every _____ at the school attended a workshop on using tablets in class. The principal hopes lessons will become more interactive.",
+    "options": [
+     "homework",
+     "curriculum",
+     "teacher",
+     "numeracy"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Each _____ must wear the school uniform during the field trip. The bus will leave the main gate at exactly 8 a.m.",
+    "options": [
+     "assessment",
+     "literacy",
+     "guidance",
+     "student"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The school added cooking and gardening to its _____ this year. Parents say their children now eat more vegetables at home.",
+    "options": [
+     "exam",
+     "curriculum",
+     "discipline",
+     "teacher"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "My son's piano _____ was canceled because his teacher had a cold. They will meet again next Thursday instead.",
+    "options": [
+     "literacy",
+     "guidance",
+     "numeracy",
+     "lesson"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The _____ on the third floor has new air conditioners and a large screen. Teachers often book it for special presentations.",
+    "options": [
+     "classroom",
+     "numeracy",
+     "assessment",
+     "discipline"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Mr. Chen never gives _____ on Fridays. He wants his students to spend the weekend relaxing with their families.",
+    "options": [
+     "curriculum",
+     "literacy",
+     "homework",
+     "classroom"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The charity runs evening classes to improve adult _____. Many learners are finally able to read newspapers and fill out forms.",
+    "options": [
+     "discipline",
+     "classroom",
+     "exam",
+     "literacy"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Shopping games help young children build _____. They learn to add prices and count change while having fun.",
+    "options": [
+     "numeracy",
+     "guidance",
+     "homework",
+     "lesson"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Teachers will complete a written _____ of each child's progress in December. Parents can discuss the report at the January meeting.",
+    "options": [
+     "classroom",
+     "curriculum",
+     "assessment",
+     "literacy"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Students who fail the final _____ can take it again in August. The school will offer review classes in July.",
+    "options": [
+     "teacher",
+     "exam",
+     "discipline",
+     "numeracy"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The coach believes that _____ is the key to success in sports. His players arrive on time and follow every rule.",
+    "options": [
+     "homework",
+     "classroom",
+     "discipline",
+     "literacy"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "New parents often need _____ on choosing the right preschool. The city website now offers free advice and a list of options.",
+    "options": [
+     "lesson",
+     "guidance",
+     "exam",
+     "curriculum"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The bank promised to _____ the local reading club for three more years. Its donations pay for books and snacks.",
+    "options": [
+     "focus",
+     "practice",
+     "teach",
+     "support"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Good teachers _____ shy students to share their ideas. They praise every answer and never laugh at mistakes.",
+    "options": [
+     "encourage",
+     "develop",
+     "educate",
+     "focus"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Prizes and praise can _____ children to read more books. The library gives a sticker for every book a child finishes.",
+    "options": [
+     "practice",
+     "motivate",
+     "focus",
+     "develop"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The zoo runs programs to _____ young visitors about protecting wild animals. Guides explain why some species are in danger.",
+    "options": [
+     "practice",
+     "focus",
+     "educate",
+     "develop"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Team sports help children _____ leadership and communication skills. They learn how to plan together and solve problems.",
+    "options": [
+     "develop",
+     "focus",
+     "support",
+     "educate"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "If you want to speak English fluently, you should _____ every day. Even ten minutes of conversation helps a lot.",
+    "options": [
+     "develop",
+     "educate",
+     "motivate",
+     "practice"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Please turn off your phones so that the students can _____ on the test. The exam will begin in five minutes.",
+    "options": [
+     "focus",
+     "encourage",
+     "support",
+     "teach"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The school's _____ policy welcomes children of all abilities. Classrooms are designed for students with different physical and learning needs.",
+    "options": [
+     "early",
+     "lifelong",
+     "creative",
+     "inclusive"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Short daily reviews are an _____ way to remember new vocabulary. Most students forget words quickly if they study them only once.",
+    "options": [
+     "academic",
+     "effective",
+     "early",
+     "inclusive"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The design firm hired three _____ young artists for its new campaign. Their colorful ideas impressed the client immediately.",
+    "options": [
+     "formal",
+     "basic",
+     "creative",
+     "lifelong"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The university checks each applicant's _____ record before the interview. Students with high grades are invited first.",
+    "options": [
+     "creative",
+     "early",
+     "basic",
+     "academic"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The training covers only _____ first aid, such as cleaning small cuts. Serious injuries must be handled by the school nurse.",
+    "options": [
+     "basic",
+     "lifelong",
+     "well-rounded",
+     "inclusive"
+    ],
+    "answer": 0,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Although he left school at fifteen, he later received _____ training as an electrician. He now runs his own successful company.",
+    "options": [
+     "creative",
+     "formal",
+     "early",
+     "inclusive"
+    ],
+    "answer": 1,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Doctors say that _____ reading with parents helps babies learn language. Families should start sharing picture books before age one.",
+    "options": [
+     "formal",
+     "academic",
+     "early",
+     "lifelong"
+    ],
+    "answer": 2,
+    "vocabIndex": 31
+   },
+   {
+    "q": "My grandmother and her best friend met in first grade. They have kept their _____ friendship for over seventy years.",
+    "options": [
+     "lifelong",
+     "basic",
+     "formal",
+     "academic"
+    ],
+    "answer": 0,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The scholarship is for _____ students who do well in class and also take part in sports or music. Grades alone are not enough.",
+    "options": [
+     "basic",
+     "formal",
+     "early",
+     "well-rounded"
+    ],
+    "answer": 3,
+    "vocabIndex": 34
+   }
+  ]
  }
 }
