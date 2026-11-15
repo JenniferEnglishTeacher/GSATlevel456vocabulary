@@ -33786,5 +33786,3172 @@
     "vocabIndex": 34
    }
   ]
+ },
+ "57": {
+  "theme": "Chocolate 巧克力",
+  "source": "https://www.examword.com/group-topic/chocolate",
+  "VOCAB": [
+   {
+    "word": "cocoa",
+    "pos": "n.",
+    "en_def": "powder made from roasted cacao beans, used in drinks and baking",
+    "cn_def": "可可（粉）",
+    "sentence": "A: The café wants to add a warm winter drink to the menu before the holiday season, so what ingredients should we order from the supplier this week? B: Let's order a large bag of good-quality {{BLANK}} powder, because customers love hot chocolate on cold evenings and we can also use it in our brownies.",
+    "cn": "A：咖啡館想在節慶季節前在菜單上新增一款冬季熱飲，我們這週該向供應商訂哪些材料？ B：我們訂一大袋優質的【可可】粉吧，因為顧客在寒冷的晚上很喜歡熱巧克力，我們也可以把它用在布朗尼裡。",
+    "collocation": "cocoa powder 可可粉"
+   },
+   {
+    "word": "cacao",
+    "pos": "n.",
+    "en_def": "the tree or raw beans that chocolate is made from",
+    "cn_def": "可可樹；可可豆",
+    "sentence": "A: Our marketing team wants to explain where our chocolate comes from on the new website, so do you have any photos from the farm visit last spring? B: Yes, I took dozens of pictures of the farmers in Ghana picking {{BLANK}} pods and drying the beans in the sun before shipping them to our factory.",
+    "cn": "A：我們的行銷團隊想在新網站上說明我們的巧克力來自哪裡，你有去年春天參訪農場的照片嗎？ B：有，我拍了幾十張迦納農民採摘【可可】果莢、並在運往我們工廠前把豆子放在陽光下曬乾的照片。",
+    "collocation": "cacao beans 可可豆"
+   },
+   {
+    "word": "bar",
+    "pos": "n.",
+    "en_def": "a small flat block of chocolate or other food",
+    "cn_def": "條；塊",
+    "sentence": "A: I want to buy something small for each member of my team to thank them for working late during the busy season, but I don't have much money left. What do you suggest? B: You could give everyone a {{BLANK}} of dark chocolate from the shop downstairs, because it is cheap, nicely wrapped, and easy to leave on their desks.",
+    "cn": "A：我想買點小東西送給團隊的每位成員，感謝他們在旺季加班，但我剩的錢不多了。你有什麼建議？ B：你可以從樓下的店買一【條】黑巧克力送給每個人，因為它便宜、包裝漂亮，又方便放在他們的桌上。",
+    "collocation": "a bar of chocolate 一條巧克力"
+   },
+   {
+    "word": "truffle",
+    "pos": "n.",
+    "en_def": "a soft, round chocolate candy, often with a creamy center",
+    "cn_def": "松露巧克力",
+    "sentence": "A: The hotel manager asked us to choose a small sweet to leave on each guest's pillow at night, so which option did the kitchen staff recommend? B: They suggested a handmade chocolate {{BLANK}} rolled in cocoa powder, because it looks elegant, tastes wonderful, and guests often mention it in their online reviews.",
+    "cn": "A：飯店經理請我們選一款晚上放在每位客人枕頭上的小甜點，廚房員工推薦哪一種？ B：他們建議裹上可可粉的手工【松露巧克力】，因為它看起來高雅、味道很棒，而且客人常在網路評論中提到它。",
+    "collocation": "chocolate truffles 松露巧克力"
+   },
+   {
+    "word": "bonbon",
+    "pos": "n.",
+    "en_def": "a small sweet candy, often covered in chocolate",
+    "cn_def": "夾心糖；糖果",
+    "sentence": "A: The front desk wants to put a bowl of candy in the lobby for visitors who wait for their appointments, so what kind should we order? B: Let's order a large box from the local chocolate maker, because each {{BLANK}} is wrapped in colorful paper, easy to share, and won't melt in the air-conditioned waiting area.",
+    "cn": "A：櫃檯想在大廳放一碗糖果給等候預約的訪客，我們該訂哪一種？ B：我們向本地巧克力商訂一大盒吧，因為每顆【夾心糖】都包著彩色糖紙，方便分享，而且在有空調的等候區也不會融化。",
+    "collocation": "a box of bonbons 一盒夾心糖"
+   },
+   {
+    "word": "filling",
+    "pos": "n.",
+    "en_def": "the soft food inside a cake, candy, or pastry",
+    "cn_def": "餡料；內餡",
+    "sentence": "A: Several customers said our new chocolate pastries were too dry last week, so has the bakery team found a way to improve the recipe before the weekend? B: Yes, they added a soft orange {{BLANK}} inside each pastry, and the testers in the office said it tastes fresher and much more interesting now.",
+    "cn": "A：上週有幾位顧客說我們新的巧克力酥皮點心太乾，烘焙團隊在週末前找到改良食譜的方法了嗎？ B：有，他們在每個點心裡加了柔軟的柳橙【內餡】，辦公室的試吃人員說現在吃起來更清爽，也有趣多了。",
+    "collocation": "a creamy filling 綿密的內餡"
+   },
+   {
+    "word": "cocoa butter",
+    "pos": "n.phr.",
+    "en_def": "the natural fat from cacao beans, used in chocolate and skin creams",
+    "cn_def": "可可脂",
+    "sentence": "A: Why does the expensive chocolate from the Swiss supplier feel so much smoother than the cheaper brand we sold last year? B: The Swiss company uses pure {{BLANK}} instead of vegetable oil, so the chocolate melts slowly on your tongue, and that is why many customers are happy to pay a higher price.",
+    "cn": "A：為什麼瑞士供應商的高價巧克力吃起來比我們去年賣的便宜品牌滑順這麼多？ B：那家瑞士公司使用純【可可脂】而不是植物油，所以巧克力會在舌頭上慢慢融化，這就是很多顧客樂意付更高價格的原因。",
+    "collocation": "pure cocoa butter 純可可脂"
+   },
+   {
+    "word": "sweet",
+    "pos": "adj.",
+    "en_def": "tasting of sugar",
+    "cn_def": "甜的",
+    "sentence": "A: The new energy bar we are testing is popular with the younger staff, but why did the older managers give it such low scores in the survey? B: Most of them said it was far too {{BLANK}} for their taste, so the product team plans to reduce the sugar and add more nuts before the official launch in March.",
+    "cn": "A：我們正在測試的新能量棒很受年輕員工歡迎，但為什麼年長的主管在調查中給它這麼低的分數？ B：他們大多說它對他們來說太【甜】了，所以產品團隊打算在三月正式上市前減少糖分，並加入更多堅果。",
+    "collocation": "taste too sweet 吃起來太甜"
+   },
+   {
+    "word": "bitter",
+    "pos": "adj.",
+    "en_def": "having a strong, sharp taste that is not sweet",
+    "cn_def": "苦的",
+    "sentence": "A: I tried the ninety-percent chocolate that the sales representative left in the meeting room this morning, but I could only finish one small piece. Did you like it? B: Not really, because it was much too {{BLANK}} for me, although our director said it tastes perfect with a strong cup of black coffee after lunch.",
+    "cn": "A：我試了業務代表今天早上留在會議室的百分之九十巧克力，但我只吃得完一小塊。你喜歡嗎？ B：不太喜歡，因為對我來說太【苦】了，不過我們主任說它午餐後配一杯濃黑咖啡吃剛剛好。",
+    "collocation": "a bitter taste 苦味"
+   },
+   {
+    "word": "rich",
+    "pos": "adj.",
+    "en_def": "having a strong, full flavor, often with a lot of butter, cream, or chocolate",
+    "cn_def": "濃郁的",
+    "sentence": "A: We need a dessert for the client dinner on Thursday night, but some guests may feel full after the main course, so should we serve the chocolate cake? B: I'd choose something lighter, because that cake is very {{BLANK}} and heavy, and people usually prefer fresh fruit or sorbet after a big meal.",
+    "cn": "A：週四晚上的客戶晚宴我們需要一道甜點，但有些客人吃完主菜可能會很飽，我們該上巧克力蛋糕嗎？ B：我會選清淡一點的，因為那個蛋糕非常【濃郁】又厚重，大家大餐後通常比較喜歡新鮮水果或雪酪。",
+    "collocation": "a rich chocolate cake 濃郁的巧克力蛋糕"
+   },
+   {
+    "word": "smooth",
+    "pos": "adj.",
+    "en_def": "having an even texture without lumps",
+    "cn_def": "滑順的",
+    "sentence": "A: The chocolate sauce in our new dessert looked lumpy in the photos for the menu, so did the kitchen staff find out what went wrong yesterday? B: They heated it too quickly, so today the chef stirred it slowly over low heat until it became completely {{BLANK}} and shiny, and the new photos look excellent.",
+    "cn": "A：菜單照片中我們新甜點的巧克力醬看起來結塊了，廚房員工昨天找出問題出在哪裡了嗎？ B：他們加熱得太快了，所以今天主廚用小火慢慢攪拌，直到它變得完全【滑順】又有光澤，新照片看起來很棒。",
+    "collocation": "a smooth texture 滑順的口感"
+   },
+   {
+    "word": "creamy",
+    "pos": "adj.",
+    "en_def": "soft and thick like cream",
+    "cn_def": "綿密的；含奶油的",
+    "sentence": "A: Our café is planning a new cold drink for the summer months, and the owner wants something that feels special, so what did the test group prefer? B: Most people chose the chocolate milkshake made with fresh ice cream, because it was thick and {{BLANK}}, and it reminded them of the drinks they had as children.",
+    "cn": "A：我們咖啡館正在規劃夏季的新冷飲，老闆想要一款感覺特別的，試飲小組比較喜歡哪一款？ B：大多數人選了用新鮮冰淇淋做的巧克力奶昔，因為它濃稠又【綿密】，讓他們想起小時候喝的飲料。",
+    "collocation": "a creamy texture 綿密的口感"
+   },
+   {
+    "word": "dark",
+    "pos": "adj.",
+    "en_def": "(of chocolate) containing a lot of cocoa and little or no milk",
+    "cn_def": "黑的；深色的",
+    "sentence": "A: The health company wants to give its members a small chocolate gift, but it should match its healthy image, so which type do you think fits best? B: I'd recommend {{BLANK}} chocolate with at least seventy percent cocoa, because it has less sugar than other kinds, and many people believe it is better for the heart.",
+    "cn": "A：那家健康公司想送會員一份小巧克力禮物，但要符合它健康的形象，你覺得哪一種最合適？ B：我會推薦可可含量至少百分之七十的【黑】巧克力，因為它的糖比其他種類少，而且很多人認為它對心臟比較好。",
+    "collocation": "dark chocolate 黑巧克力"
+   },
+   {
+    "word": "milk",
+    "pos": "n.",
+    "en_def": "the white liquid from cows; \"milk chocolate\" is chocolate made with milk",
+    "cn_def": "牛奶",
+    "sentence": "A: The children's hospital asked us to donate chocolate for its holiday party next Saturday, so which kind should we send to make the kids happy? B: Most young children find dark chocolate too strong, so let's send {{BLANK}} chocolate in small fun shapes, because it is softer, sweeter, and much more popular with kids.",
+    "cn": "A：兒童醫院請我們為下週六的節日派對捐贈巧克力，我們該送哪一種才能讓孩子們開心？ B：大多數小孩覺得黑巧克力太濃烈，所以我們送造型有趣的小塊【牛奶】巧克力吧，因為它更軟、更甜，也更受孩子歡迎。",
+    "collocation": "milk chocolate 牛奶巧克力"
+   },
+   {
+    "word": "white",
+    "pos": "adj.",
+    "en_def": "(of chocolate) made from cocoa butter, sugar, and milk, without dark cocoa solids",
+    "cn_def": "白的",
+    "sentence": "A: The bakery wants to decorate the wedding cookies for Saturday's big order with a different color, because the brown chocolate looks too plain. Any ideas? B: We could melt some {{BLANK}} chocolate and draw thin lines on top, because it stands out nicely against the brown, and the bride said she wants an elegant look.",
+    "cn": "A：麵包店想用不同的顏色裝飾週六那筆大訂單的婚禮餅乾，因為咖啡色巧克力看起來太單調了。有什麼點子嗎？ B：我們可以融化一些【白】巧克力在上面畫細線，因為它在咖啡色上很顯眼，而且新娘說她想要高雅的感覺。",
+    "collocation": "white chocolate 白巧克力"
+   },
+   {
+    "word": "melt",
+    "pos": "v.",
+    "en_def": "to change from solid to liquid because of heat",
+    "cn_def": "融化",
+    "sentence": "A: We are shipping two hundred boxes of chocolate to our client in Kaohsiung next week, but the weather forecast says it will be very hot. How can we protect them? B: We should use the refrigerated delivery service, because the chocolates will quickly {{BLANK}} in a normal truck, and the client would definitely ask for a refund.",
+    "cn": "A：我們下週要運兩百盒巧克力給高雄的客戶，但氣象預報說天氣會很熱。我們要怎麼保護它們？ B：我們應該用冷藏配送服務，因為巧克力在一般貨車裡很快就會【融化】，客戶一定會要求退款。",
+    "collocation": "melt in your mouth 入口即化"
+   },
+   {
+    "word": "temper",
+    "pos": "v.",
+    "en_def": "to heat and cool chocolate carefully so it becomes shiny and firm",
+    "cn_def": "為（巧克力）調溫",
+    "sentence": "A: The chocolates from the new trainee look dull and gray instead of shiny, and some of them break too easily. What do you think the problem is? B: He probably didn't {{BLANK}} the chocolate correctly, so I will show him how to heat and cool it to the right temperatures during tomorrow's training session.",
+    "cn": "A：新實習生做的巧克力看起來暗沉灰白而不是有光澤，有些還很容易斷裂。你覺得問題出在哪裡？ B：他可能沒有正確地為巧克力【調溫】，所以我明天培訓時會教他如何把它加熱和冷卻到正確的溫度。",
+    "collocation": "temper chocolate 為巧克力調溫"
+   },
+   {
+    "word": "coat",
+    "pos": "v.",
+    "en_def": "to cover something with a thin layer",
+    "cn_def": "裹上；覆蓋",
+    "sentence": "A: The strawberries we bought for the company's anniversary party look fresh, but they seem a little plain for such a special event. Any suggestions? B: We could {{BLANK}} them in melted dark chocolate and add some nuts on top, because guests usually love dipped fruit, and it looks very attractive on the dessert table.",
+    "cn": "A：我們為公司週年派對買的草莓看起來很新鮮，但對這麼特別的活動來說似乎有點單調。有什麼建議嗎？ B：我們可以把它們【裹上】融化的黑巧克力，再在上面撒些堅果，因為客人通常很喜歡沾醬水果，而且放在甜點桌上看起來很吸引人。",
+    "collocation": "coat with chocolate 裹上巧克力"
+   },
+   {
+    "word": "bake",
+    "pos": "v.",
+    "en_def": "to cook food such as bread or cake in an oven",
+    "cn_def": "烘烤",
+    "sentence": "A: Our team wants to raise money for the local animal shelter next Friday, but we have a very small budget for the event. Do you have any ideas? B: Several of us could {{BLANK}} chocolate brownies at home on Thursday night and sell them in the lobby, because people always buy homemade treats for a good cause.",
+    "cn": "A：我們團隊想在下週五為本地動物收容所募款，但活動預算非常少。你有什麼點子嗎？ B：我們幾個人可以週四晚上在家【烤】巧克力布朗尼，然後在大廳販售，因為大家總是會為了好的目的買自製點心。",
+    "collocation": "bake a cake 烤蛋糕"
+   },
+   {
+    "word": "flavor",
+    "pos": "n.",
+    "en_def": "the particular taste of a food or drink",
+    "cn_def": "口味；風味",
+    "sentence": "A: The marketing department wants to launch a limited chocolate product for the summer, so what did customers ask for in last month's online survey? B: Many of them asked for a new {{BLANK}} like mango or passion fruit, because they think tropical tastes feel more refreshing during the hot months in Taiwan.",
+    "cn": "A：行銷部想在夏天推出一款限定巧克力產品，顧客在上個月的線上調查中提出了什麼要求？ B：很多人希望有像芒果或百香果這樣的新【口味】，因為他們覺得熱帶風味在台灣炎熱的月份裡感覺更清爽。",
+    "collocation": "a new flavor 新口味"
+   },
+   {
+    "word": "aroma",
+    "pos": "n.",
+    "en_def": "a strong, pleasant smell",
+    "cn_def": "香氣",
+    "sentence": "A: Why do so many people walk into the chocolate shop near the train station, even when they are in a hurry to catch the morning train? B: The owner makes hot chocolate near the front door every morning, so the sweet {{BLANK}} fills the whole street, and commuters find it hard to walk past without buying something.",
+    "cn": "A：為什麼這麼多人走進火車站附近的巧克力店，即使他們正趕著搭早班火車？ B：老闆每天早上都在門口附近做熱巧克力，所以甜甜的【香氣】瀰漫整條街，通勤族很難不買點東西就走過去。",
+    "collocation": "a rich aroma 濃郁的香氣"
+   },
+   {
+    "word": "dessert",
+    "pos": "n.",
+    "en_def": "sweet food eaten at the end of a meal",
+    "cn_def": "甜點",
+    "sentence": "A: The restaurant is preparing the set menu for the company's year-end banquet, and the manager wants to know what we would like to serve after the main course. B: Let's choose a warm chocolate cake with vanilla ice cream for {{BLANK}}, because almost everyone likes it, and it is the chef's most famous dish.",
+    "cn": "A：餐廳正在準備公司尾牙的套餐菜單，經理想知道主菜之後我們想上什麼。 B：我們選溫熱的巧克力蛋糕配香草冰淇淋當【甜點】吧，因為幾乎每個人都喜歡，而且這是主廚最有名的料理。",
+    "collocation": "order dessert 點甜點"
+   },
+   {
+    "word": "treat",
+    "pos": "n.",
+    "en_def": "something special and pleasant, such as food, that you give or enjoy",
+    "cn_def": "犒賞；點心",
+    "sentence": "A: Our sales team finally reached its yearly target this afternoon after months of hard work, so how should the manager thank everyone before the weekend? B: She is planning to bring a box of fancy Belgian chocolates as a special {{BLANK}} for the team, and she will also let everyone leave an hour early on Friday.",
+    "cn": "A：我們業務團隊經過幾個月的努力，今天下午終於達成年度目標，經理在週末前該怎麼感謝大家？ B：她打算帶一盒精緻的比利時巧克力作為團隊的特別【犒賞】，而且週五還會讓大家提早一小時下班。",
+    "collocation": "a special treat 特別的犒賞"
+   },
+   {
+    "word": "indulgence",
+    "pos": "n.",
+    "en_def": "something you enjoy that is not really necessary, often a little unhealthy",
+    "cn_def": "放縱；享受",
+    "sentence": "A: You usually eat a very healthy lunch every day, so why did you buy that expensive chocolate cake at the café downstairs this afternoon? B: I finished a difficult project report after working late all week, so this cake is my small {{BLANK}}, and I will go back to salads and fruit on Monday.",
+    "cn": "A：你平常每天午餐都吃得很健康，那為什麼今天下午在樓下咖啡館買了那個昂貴的巧克力蛋糕？ B：我整週加班，終於完成了一份困難的專案報告，所以這塊蛋糕是我的小小【放縱】，週一我就會回去吃沙拉和水果。",
+    "collocation": "a small indulgence 小小的享受"
+   },
+   {
+    "word": "craving",
+    "pos": "n.",
+    "en_def": "a very strong wish to eat or have something",
+    "cn_def": "渴望；嘴饞",
+    "sentence": "A: Why do you always keep a few pieces of chocolate in your desk drawer, even though you say you are trying to eat less sugar this year? B: I often get a strong {{BLANK}} for something sweet around three o'clock, so one small piece helps me stay focused until the end of the working day.",
+    "cn": "A：你說今年想少吃糖，為什麼總是在桌子抽屜裡放幾塊巧克力？ B：我常在三點左右非常【渴望】吃點甜的，所以吃一小塊能幫我保持專注到下班。",
+    "collocation": "a craving for chocolate 很想吃巧克力"
+   },
+   {
+    "word": "snack",
+    "pos": "n.",
+    "en_def": "a small amount of food eaten between meals",
+    "cn_def": "點心；零食",
+    "sentence": "A: The training session on Wednesday will last from nine to five, and the trainer is worried that people will get tired after lunch. What should we prepare? B: Let's put a basket of chocolate cookies and fruit at the back of the room, so everyone can grab a quick {{BLANK}} during the short afternoon break.",
+    "cn": "A：週三的培訓從九點持續到五點，講師擔心大家午餐後會累。我們該準備什麼？ B：我們在教室後面放一籃巧克力餅乾和水果吧，這樣大家在下午短暫休息時可以快速拿點【點心】吃。",
+    "collocation": "a quick snack 快速吃點東西"
+   },
+   {
+    "word": "luxury",
+    "pos": "n.",
+    "en_def": "something expensive and enjoyable that you do not really need",
+    "cn_def": "奢侈品；奢華",
+    "sentence": "A: Why does the department store charge almost two thousand dollars for that small box of chocolates, when the supermarket sells similar ones for much less? B: That brand sells itself as a {{BLANK}}, so every piece is handmade in France, wrapped in gold paper, and packed in a beautiful wooden box.",
+    "cn": "A：為什麼百貨公司那一小盒巧克力要價將近兩千元，超市類似的卻便宜得多？ B：那個品牌把自己定位為【奢侈品】，所以每一顆都是在法國手工製作，用金色紙包裝，再裝進漂亮的木盒裡。",
+    "collocation": "a luxury brand 奢侈品牌"
+   },
+   {
+    "word": "handmade",
+    "pos": "adj.",
+    "en_def": "made by hand, not by machine",
+    "cn_def": "手工製的",
+    "sentence": "A: The small shop on Lin Street sells chocolates at twice the price of the big brands, but it always has a long line on weekends. Why is that? B: Everything there is {{BLANK}} by the owner and two assistants in the kitchen behind the shop, so customers know each piece is fresh and made with care.",
+    "cn": "A：林街那家小店的巧克力價格是大品牌的兩倍，但週末總是大排長龍。為什麼會這樣？ B：那裡的每樣東西都是老闆和兩位助手在店後面的廚房【手工製作】的，所以顧客知道每一顆都新鮮又用心。",
+    "collocation": "handmade chocolates 手工巧克力"
+   },
+   {
+    "word": "organic",
+    "pos": "adj.",
+    "en_def": "grown without chemical fertilizers or pesticides",
+    "cn_def": "有機的",
+    "sentence": "A: Our supermarket chain wants to attract more health-conscious shoppers this year, so which new chocolate products should we put on the shelves first? B: Let's start with bars made from {{BLANK}} cocoa grown without chemicals, because younger customers check labels carefully, and they are willing to pay more for natural products.",
+    "cn": "A：我們的連鎖超市今年想吸引更多注重健康的顧客，我們該先把哪些新的巧克力產品上架？ B：我們先從用不含化學物質種植的【有機】可可做成的巧克力條開始吧，因為年輕顧客會仔細看標籤，而且願意為天然產品多付錢。",
+    "collocation": "organic ingredients 有機食材"
+   },
+   {
+    "word": "packaging",
+    "pos": "n.",
+    "en_def": "the boxes, paper, or plastic used to wrap and sell a product",
+    "cn_def": "包裝",
+    "sentence": "A: Sales of our chocolate gift boxes dropped last quarter, even though customers still say the taste is excellent. What do you think went wrong? B: The design team believes the {{BLANK}} looks old-fashioned compared with our competitors' products, so they are creating a brighter box with a modern logo for the holiday season.",
+    "cn": "A：雖然顧客仍然說味道很棒，但我們巧克力禮盒上一季的銷量下滑了。你覺得哪裡出了問題？ B：設計團隊認為和競爭對手的產品相比，我們的【包裝】看起來很過時，所以他們正在為節慶季節設計一款有現代標誌、更明亮的盒子。",
+    "collocation": "eco-friendly packaging 環保包裝"
+   },
+   {
+    "word": "gift",
+    "pos": "n.",
+    "en_def": "something you give to someone, often on a special occasion",
+    "cn_def": "禮物",
+    "sentence": "A: Our most important client in Tokyo is retiring at the end of this month after thirty years, so what should we send to thank her for her support? B: Let's send a beautiful box of local chocolates with a handwritten card as a farewell {{BLANK}}, because she always enjoyed tasting Taiwanese sweets during her visits.",
+    "cn": "A：我們在東京最重要的客戶做了三十年，這個月底就要退休了，我們該送什麼感謝她的支持？ B：我們送一盒漂亮的在地巧克力配上手寫卡片作為臨別【禮物】吧，因為她每次來訪時都很喜歡品嚐台灣甜點。",
+    "collocation": "a farewell gift 臨別禮物"
+   },
+   {
+    "word": "satisfying",
+    "pos": "adj.",
+    "en_def": "making you feel pleased because it gives you what you need or want",
+    "cn_def": "令人滿足的",
+    "sentence": "A: I usually feel hungry again an hour after eating a regular candy bar, so why do you choose the chocolate with nuts for your afternoon break? B: The nuts give it more protein and fiber, so it is much more {{BLANK}} and keeps me full until dinner, especially on days when I have long meetings.",
+    "cn": "A：我平常吃完一般的糖果棒一小時後又會餓，為什麼你下午休息時都選有堅果的巧克力？ B：堅果讓它有更多蛋白質和纖維，所以更【令人滿足】，能讓我一直飽到晚餐，尤其是在我有長時間會議的日子。",
+    "collocation": "a satisfying meal 令人滿足的一餐"
+   },
+   {
+    "word": "decadent",
+    "pos": "adj.",
+    "en_def": "very rich and enjoyable, in a way that feels like a bit too much",
+    "cn_def": "極致奢華的；濃郁享受的",
+    "sentence": "A: The hotel's new chocolate dessert costs almost five hundred dollars, so why are so many guests posting photos of it on social media this month? B: It is a truly {{BLANK}} creation with three layers of chocolate, gold leaf, and a warm sauce poured at the table, so people feel it is worth the price.",
+    "cn": "A：飯店新推出的巧克力甜點要價將近五百元，為什麼這個月有這麼多客人在社群媒體上貼它的照片？ B：它是一道真正【極致奢華】的作品，有三層巧克力、金箔，還有在桌邊淋上的熱醬汁，所以大家覺得物有所值。",
+    "collocation": "a decadent dessert 極致奢華的甜點"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Eating a whole box of expensive chocolates is a rare _____ for me. I usually try to avoid sugar.",
+    "options": [
+     "filling",
+     "aroma",
+     "bar",
+     "indulgence"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "After the main course, the waiter asked if we wanted any _____. We ordered one chocolate cake to share.",
+    "options": [
+     "craving",
+     "packaging",
+     "dessert",
+     "aroma"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "After the long meeting, I had a strong _____ for something sweet. I walked to the café and bought a brownie.",
+    "options": [
+     "craving",
+     "packaging",
+     "bar",
+     "filling"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The company switched to paper _____ to reduce plastic waste. Customers can now recycle the chocolate boxes easily.",
+    "options": [
+     "flavor",
+     "packaging",
+     "dessert",
+     "aroma"
+    ],
+    "answer": 1,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The ice cream shop offers a new _____ every month. This month customers can try chocolate mixed with sea salt.",
+    "options": [
+     "cocoa",
+     "craving",
+     "flavor",
+     "luxury"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "We will _____ the almonds in dark chocolate and let them dry on a tray. They make a great snack.",
+    "options": [
+     "temper",
+     "coat",
+     "melt",
+     "bake"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Each guest received a round chocolate _____ covered in cocoa powder. The soft center was filled with fresh cream.",
+    "options": [
+     "packaging",
+     "craving",
+     "aroma",
+     "truffle"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The soup is thick and _____ because the chef adds fresh milk at the end. Many guests ask for the recipe.",
+    "options": [
+     "creamy",
+     "organic",
+     "handmade",
+     "dark"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Coffee without milk or sugar tastes _____ to many people. They usually add cream to make it milder.",
+    "options": [
+     "decadent",
+     "bitter",
+     "organic",
+     "handmade"
+    ],
+    "answer": 1,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The manager bought the whole team ice cream as a special _____. Everyone had worked hard to finish the project early.",
+    "options": [
+     "cocoa",
+     "filling",
+     "aroma",
+     "treat"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "I wrapped a box of chocolates as a birthday _____ for my coworker. She was very surprised when she opened it.",
+    "options": [
+     "gift",
+     "filling",
+     "cocoa",
+     "aroma"
+    ],
+    "answer": 0,
+    "vocabIndex": 30
+   },
+   {
+    "q": "My sister likes to _____ chocolate cookies in her new oven on weekends. She often brings some to the office.",
+    "options": [
+     "coat",
+     "melt",
+     "bake",
+     "temper"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "This chocolate cake is very _____ because it is made with lots of butter and cream. A small slice is enough.",
+    "options": [
+     "handmade",
+     "dark",
+     "organic",
+     "rich"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "A bowl of hot noodles is a _____ lunch on a cold day. It keeps me full all afternoon.",
+    "options": [
+     "satisfying",
+     "dark",
+     "bitter",
+     "handmade"
+    ],
+    "answer": 0,
+    "vocabIndex": 31
+   },
+   {
+    "q": "These chocolates are _____ by local artists rather than produced in a factory. That is why each one looks slightly different.",
+    "options": [
+     "bitter",
+     "creamy",
+     "handmade",
+     "satisfying"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The hotel's chocolate fountain with gold decorations was truly _____. Guests felt like royalty as they enjoyed it.",
+    "options": [
+     "bitter",
+     "decadent",
+     "organic",
+     "dark"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   },
+   {
+    "q": "Please add two spoons of _____ powder to the hot milk. The drink will taste richer and smell like chocolate.",
+    "options": [
+     "luxury",
+     "packaging",
+     "craving",
+     "cocoa"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "_____ chocolate contains more cocoa and less sugar than milk chocolate. It also has a stronger taste.",
+    "options": [
+     "sweet",
+     "handmade",
+     "dark",
+     "creamy"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The farm grows _____ cocoa without using any chemical fertilizers. Its products are sold in health food stores.",
+    "options": [
+     "organic",
+     "satisfying",
+     "creamy",
+     "decadent"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "I bought a _____ of chocolate at the convenience store for the long train ride. It was small enough to fit in my pocket.",
+    "options": [
+     "flavor",
+     "bar",
+     "luxury",
+     "aroma"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The receptionist offered each visitor a small chocolate _____ from a glass bowl. It was wrapped in shiny red paper.",
+    "options": [
+     "bonbon",
+     "packaging",
+     "indulgence",
+     "flavor"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "This pastry has a soft lemon _____ inside. Customers love the surprise when they take the first bite.",
+    "options": [
+     "craving",
+     "gift",
+     "luxury",
+     "filling"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Students may bring a small _____ to eat during the morning break. Fruit, nuts, and crackers are good choices.",
+    "options": [
+     "flavor",
+     "aroma",
+     "snack",
+     "luxury"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The _____ of fresh chocolate filled the factory as soon as we opened the door. Everyone suddenly felt hungry.",
+    "options": [
+     "packaging",
+     "aroma",
+     "bonbon",
+     "indulgence"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Do not leave chocolate in a hot car in summer. It will _____ quickly and lose its shape.",
+    "options": [
+     "temper",
+     "coat",
+     "melt",
+     "bake"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "This drink is too _____ for me because it contains so much sugar. Could you make one with less syrup?",
+    "options": [
+     "dark",
+     "handmade",
+     "organic",
+     "sweet"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Fine Swiss chocolate was once a _____ that only rich families could afford. Today it is sold in most supermarkets.",
+    "options": [
+     "luxury",
+     "craving",
+     "aroma",
+     "filling"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Stir the sauce slowly until it becomes _____ with no lumps. Then pour it over the ice cream.",
+    "options": [
+     "organic",
+     "smooth",
+     "bitter",
+     "handmade"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "This hand cream contains natural _____ from Ghana. It keeps your skin soft during the dry winter months.",
+    "options": [
+     "cocoa butter",
+     "dessert",
+     "snack",
+     "craving"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Chocolate makers carefully _____ chocolate by heating and cooling it. This step gives the chocolate a shiny finish.",
+    "options": [
+     "bake",
+     "coat",
+     "melt",
+     "temper"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   }
+  ]
+ },
+ "58": {
+  "theme": "City 城市",
+  "source": "https://www.examword.com/group-topic/city",
+  "VOCAB": [
+   {
+    "word": "urban",
+    "pos": "adj.",
+    "en_def": "relating to a city or town",
+    "cn_def": "城市的；都市的",
+    "sentence": "A: Our company is planning to open three new fitness centers next year, so should we choose locations in small towns or in big cities? B: I think we should focus on {{BLANK}} areas first, because young office workers who live near the city center have more money and less free time to drive far away for exercise.",
+    "cn": "A：我們公司計畫明年開三家新的健身中心，我們應該選在小鎮還是大城市？ B：我認為我們應該先把重點放在【都市】地區，因為住在市中心附近的年輕上班族比較有錢，也比較沒有空閒時間開車到遠處運動。",
+    "collocation": "urban development 都市發展"
+   },
+   {
+    "word": "downtown",
+    "pos": "n.",
+    "en_def": "the main business area in the center of a city",
+    "cn_def": "市中心；商業區",
+    "sentence": "A: The client from Singapore wants to meet us on Thursday afternoon, but she is staying at a hotel near the airport, so where should we hold the meeting? B: Let's book a quiet meeting room near {{BLANK}}, because it is only twenty minutes away by train and there are many good restaurants nearby for lunch afterward.",
+    "cn": "A：新加坡的客戶想在星期四下午和我們見面，但她住在機場附近的飯店，我們應該在哪裡開會？ B：我們在【市中心】附近訂一間安靜的會議室吧，因為搭火車只要二十分鐘，而且附近有很多不錯的餐廳可以在會後吃午餐。",
+    "collocation": "an office in downtown Taipei 位於台北市中心的辦公室"
+   },
+   {
+    "word": "suburb",
+    "pos": "n.",
+    "en_def": "an area where people live outside the center of a city",
+    "cn_def": "郊區",
+    "sentence": "A: You used to live in a small apartment right next to the office, so why did you decide to move so far away last spring? B: After our second child was born, we bought a house with a garden in a quiet {{BLANK}}, and although my trip to work is longer now, my kids have much more space to play outside.",
+    "cn": "A：你以前住在辦公室旁邊的小公寓，為什麼去年春天決定搬到那麼遠的地方？ B：我們第二個孩子出生後，在一個安靜的【郊區】買了一間有花園的房子，雖然我現在上班的路程比較長，但孩子們有更多空間可以在戶外玩。",
+    "collocation": "live in the suburbs 住在郊區"
+   },
+   {
+    "word": "neighborhood",
+    "pos": "n.",
+    "en_def": "a small area of a town and the people who live there",
+    "cn_def": "社區；街坊",
+    "sentence": "A: The real estate agent showed me two apartments today, and they are almost the same price, so how should I decide between them? B: You should walk around each {{BLANK}} in the evening, because it will help you see whether the area feels safe, whether there are shops nearby, and how noisy it becomes at night.",
+    "cn": "A：房仲今天帶我看了兩間公寓，價格幾乎一樣，我該怎麼在兩者之間做決定？ B：你應該在傍晚到每個【社區】附近走走，因為這能幫你看出那一帶是否讓人覺得安全、附近有沒有商店，以及晚上會變得多吵。",
+    "collocation": "a quiet residential neighborhood 安靜的住宅區"
+   },
+   {
+    "word": "street",
+    "pos": "n.",
+    "en_def": "a public road in a city or town with buildings along it",
+    "cn_def": "街道",
+    "sentence": "A: I am driving to the new client's office for the first time this afternoon, but my GPS keeps showing two different addresses, so can you help me? B: Their building is on Elm {{BLANK}}, right across from the big department store, and you can park in the public lot behind the post office.",
+    "cn": "A：我今天下午要第一次開車去新客戶的辦公室，但我的導航一直顯示兩個不同的地址，你可以幫我嗎？ B：他們的大樓在榆樹【街】上，就在那家大百貨公司正對面，你可以把車停在郵局後面的公共停車場。",
+    "collocation": "a busy shopping street 熱鬧的購物街"
+   },
+   {
+    "word": "avenue",
+    "pos": "n.",
+    "en_def": "a wide street in a city, often with trees",
+    "cn_def": "大街；大道",
+    "sentence": "A: The marketing team wants our new store to be seen by as many shoppers as possible, so which location do you prefer? B: I prefer the empty shop on Fifth {{BLANK}}, because the wide road is lined with famous brand stores and thousands of tourists walk past it every weekend, even though the rent is quite high.",
+    "cn": "A：行銷團隊希望我們的新店能被越多購物者看到越好，你比較喜歡哪個地點？ B：我比較喜歡第五【大道】上那間空店面，因為那條寬闊的路兩旁都是知名品牌商店，每個週末有數千名觀光客經過，雖然租金相當高。",
+    "collocation": "a tree-lined avenue 綠樹成蔭的大道"
+   },
+   {
+    "word": "boulevard",
+    "pos": "n.",
+    "en_def": "a wide city road, often with trees on both sides",
+    "cn_def": "林蔭大道",
+    "sentence": "A: The city government plans to hold the international marathon next month, so which roads will be closed on the morning of the race? B: The main {{BLANK}} that runs from the train station to the river will be closed from five to eleven, so employees who drive to work should leave home early or take the subway.",
+    "cn": "A：市政府計畫下個月舉辦國際馬拉松，比賽當天早上哪些道路會封閉？ B：從火車站延伸到河邊的那條主要【林蔭大道】會從五點封到十一點，所以開車上班的員工應該提早出門或改搭捷運。",
+    "collocation": "drive along the boulevard 沿著林蔭大道開車"
+   },
+   {
+    "word": "district",
+    "pos": "n.",
+    "en_def": "a particular area of a city or country",
+    "cn_def": "區；地區",
+    "sentence": "A: Our bank is looking for a place to open a new branch for small business owners, so do you have any recommendations in the city? B: The financial {{BLANK}} near City Hall would be ideal, because many companies have their offices there and the area is easy to reach by both bus and train.",
+    "cn": "A：我們銀行正在找地點，要為小型企業主開一家新分行，你對市區有什麼建議嗎？ B：市政府附近的金融【區】會很理想，因為很多公司的辦公室都在那裡，而且搭公車和火車都很容易到達。",
+    "collocation": "the business district 商業區"
+   },
+   {
+    "word": "skyscraper",
+    "pos": "n.",
+    "en_def": "a very tall modern building in a city",
+    "cn_def": "摩天大樓",
+    "sentence": "A: The architecture firm has invited us to visit their newest project downtown, so what exactly have they been building for the past three years? B: They have just finished a sixty-floor {{BLANK}} with offices, a hotel, and a shopping center inside, and visitors can enjoy an amazing view of the whole city from the top floor.",
+    "cn": "A：那家建築事務所邀請我們去參觀他們在市中心的最新案子，他們過去三年到底在蓋什麼？ B：他們剛完成一棟六十層樓的【摩天大樓】，裡面有辦公室、飯店和購物中心，訪客可以從頂樓欣賞整座城市的壯觀景色。",
+    "collocation": "a modern glass skyscraper 現代玻璃帷幕摩天大樓"
+   },
+   {
+    "word": "landmark",
+    "pos": "n.",
+    "en_def": "a famous building or place that is easy to recognize",
+    "cn_def": "地標",
+    "sentence": "A: Our overseas guests will arrive on Saturday, and they only have one free afternoon before the conference starts, so where should we take them? B: We should take them to Taipei 101, because it is the city's most famous {{BLANK}}, and they can also visit the shopping mall and the food court on the lower floors.",
+    "cn": "A：我們的海外貴賓星期六抵達，會議開始前他們只有一個空閒的下午，我們應該帶他們去哪裡？ B：我們應該帶他們去台北101，因為那是這座城市最有名的【地標】，他們還可以逛逛低樓層的購物中心和美食街。",
+    "collocation": "a famous city landmark 著名的城市地標"
+   },
+   {
+    "word": "square",
+    "pos": "n.",
+    "en_def": "an open public area in a city with buildings around it",
+    "cn_def": "廣場",
+    "sentence": "A: The company wants to hold a free outdoor concert to celebrate its twentieth anniversary, so where can thousands of people gather at once? B: The main {{BLANK}} in front of the old city hall is large enough, and the city government usually gives permission for public events there as long as we apply two months early.",
+    "cn": "A：公司想舉辦一場免費戶外音樂會慶祝二十週年，哪裡可以一次容納數千人聚集？ B：舊市政廳前的主【廣場】夠大，而且只要我們提早兩個月申請，市政府通常會核准在那裡舉辦公開活動。",
+    "collocation": "the main square 主廣場"
+   },
+   {
+    "word": "plaza",
+    "pos": "n.",
+    "en_def": "an open public space, often with shops around it",
+    "cn_def": "廣場；購物廣場",
+    "sentence": "A: The new office building has a large open space on the ground floor, so how is the management company planning to use it? B: They are turning it into a shopping {{BLANK}} with cafés, a bookstore, and benches under the trees, so that employees and local residents can relax there during lunch breaks and on weekends.",
+    "cn": "A：新辦公大樓的一樓有一大片開放空間，管理公司打算怎麼使用它？ B：他們要把它改成一個購物【廣場】，裡面有咖啡館、書店和樹下的長椅，讓員工和當地居民可以在午休時間和週末在那裡放鬆。",
+    "collocation": "a shopping plaza 購物廣場"
+   },
+   {
+    "word": "park",
+    "pos": "n.",
+    "en_def": "a large public area with grass and trees",
+    "cn_def": "公園",
+    "sentence": "A: Many of our employees have said that they feel stressed and tired after sitting in front of their computers all day, so what can we do? B: We could organize a short walking group at lunchtime, because there is a beautiful {{BLANK}} with a lake and shady trees only five minutes from our office building.",
+    "cn": "A：很多員工反映整天坐在電腦前讓他們覺得壓力大又疲累，我們能做些什麼？ B：我們可以在午餐時間組織一個簡短的健走小組，因為離我們辦公大樓只要五分鐘就有一座有湖和樹蔭的漂亮【公園】。",
+    "collocation": "take a walk in the park 在公園散步"
+   },
+   {
+    "word": "traffic",
+    "pos": "n.",
+    "en_def": "the cars and other vehicles moving on roads",
+    "cn_def": "交通；車流",
+    "sentence": "A: You are usually the first person in the office every morning, so why did you arrive almost an hour late today? B: There was a serious accident on the highway near the bridge, and the {{BLANK}} was so heavy that my car barely moved for forty minutes, so next time I will probably take the train instead.",
+    "cn": "A：你通常每天早上都是第一個到辦公室的人，今天為什麼遲到將近一個小時？ B：橋附近的高速公路發生嚴重車禍，【交通】非常壅塞，我的車有四十分鐘幾乎動不了，所以下次我可能會改搭火車。",
+    "collocation": "heavy traffic 交通擁擠"
+   },
+   {
+    "word": "commute",
+    "pos": "v.",
+    "en_def": "to travel regularly between home and work",
+    "cn_def": "通勤",
+    "sentence": "A: Since you moved to Taoyuan last year, how long does it take you to get to our Taipei office every morning? B: I {{BLANK}} by high-speed rail and then take the subway for two stops, so the whole trip takes about fifty minutes, which gives me enough time to read the news and answer emails.",
+    "cn": "A：你去年搬到桃園之後，每天早上到我們台北辦公室要花多久時間？ B：我搭高鐵【通勤】，然後再坐兩站捷運，所以整趟路程大約五十分鐘，讓我有足夠的時間看新聞和回覆電子郵件。",
+    "collocation": "commute to work by train 搭火車通勤上班"
+   },
+   {
+    "word": "crowded",
+    "pos": "adj.",
+    "en_def": "full of too many people",
+    "cn_def": "擁擠的",
+    "sentence": "A: I need to buy a birthday present for my manager after work today, so do you think I should go to the night market or the department store? B: I would avoid the night market tonight, because it is always extremely {{BLANK}} on Friday evenings, and you will spend more time waiting in lines than actually shopping.",
+    "cn": "A：我今天下班後需要幫經理買生日禮物，你覺得我該去夜市還是百貨公司？ B：我今晚會避開夜市，因為星期五晚上那裡總是非常【擁擠】，你排隊等候的時間會比真正逛街的時間還多。",
+    "collocation": "a crowded train 擁擠的火車"
+   },
+   {
+    "word": "busy",
+    "pos": "adj.",
+    "en_def": "full of people, vehicles or activity",
+    "cn_def": "繁忙的；熱鬧的",
+    "sentence": "A: The owner wants to move our small bakery to a new location next year, so what kind of place is she looking for? B: She wants a shop on a {{BLANK}} corner near the train station, because thousands of commuters walk past there every morning and many of them would happily buy fresh bread on the way to work.",
+    "cn": "A：老闆想在明年把我們的小麵包店搬到新地點，她在找什麼樣的地方？ B：她想要一間在火車站附近【熱鬧】街角的店面，因為每天早上有數千名通勤族從那裡經過，很多人會很樂意在上班途中買新鮮麵包。",
+    "collocation": "a busy street 繁忙的街道"
+   },
+   {
+    "word": "vibrant",
+    "pos": "adj.",
+    "en_def": "full of energy, life and excitement",
+    "cn_def": "充滿活力的",
+    "sentence": "A: Our travel agency is creating a new tour package for young travelers, so what kind of city do you think they would enjoy most? B: Young people usually love a {{BLANK}} city with colorful street art, live music, and lively night markets, so I suggest that we include Kaohsiung and Tainan in the trip.",
+    "cn": "A：我們旅行社正在為年輕旅客設計新的套裝行程，你覺得他們最喜歡哪一種城市？ B：年輕人通常喜愛有繽紛街頭藝術、現場音樂和熱鬧夜市、【充滿活力】的城市，所以我建議把高雄和台南排進行程。",
+    "collocation": "a vibrant city 充滿活力的城市"
+   },
+   {
+    "word": "modern",
+    "pos": "adj.",
+    "en_def": "new and using the latest ideas or designs",
+    "cn_def": "現代的",
+    "sentence": "A: The old train station looks very different from the photos I saw last year, so did the city government rebuild it? B: Yes, they kept the historic front wall but replaced the inside with a bright and {{BLANK}} hall that has glass roofs, digital signs, and comfortable waiting areas for passengers.",
+    "cn": "A：舊火車站看起來和我去年看到的照片很不一樣，市政府重建了它嗎？ B：是的，他們保留了具歷史意義的正面牆，但把內部換成一個明亮又【現代】的大廳，有玻璃屋頂、數位看板和舒適的旅客候車區。",
+    "collocation": "modern architecture 現代建築"
+   },
+   {
+    "word": "historic",
+    "pos": "adj.",
+    "en_def": "important in history",
+    "cn_def": "有歷史意義的；歷史悠久的",
+    "sentence": "A: The developer wants to tear down the old tea factory near the river and build apartments, so why are so many residents against the plan? B: The building is more than a hundred years old and is considered a {{BLANK}} site, so local people believe it should be protected and turned into a museum instead.",
+    "cn": "A：開發商想拆除河邊的老茶廠蓋公寓，為什麼這麼多居民反對這項計畫？ B：那棟建築已經超過一百年，被視為【具歷史意義的】古蹟，所以當地人認為應該保護它，改建成博物館。",
+    "collocation": "a historic building 歷史建築"
+   },
+   {
+    "word": "population",
+    "pos": "n.",
+    "en_def": "the number of people living in a place",
+    "cn_def": "人口",
+    "sentence": "A: The supermarket chain is thinking about opening a store in Hsinchu, so what information does the planning team need before making a final decision? B: They need to know how quickly the {{BLANK}} of the city is growing, because more people moving there for technology jobs means more families who will shop for groceries every week.",
+    "cn": "A：那家連鎖超市正在考慮在新竹開店，規劃團隊在做最後決定之前需要哪些資訊？ B：他們需要知道這座城市的【人口】成長得有多快，因為越多人為了科技業工作搬到那裡，就代表每週會有越多家庭來採買食品雜貨。",
+    "collocation": "a growing population 不斷成長的人口"
+   },
+   {
+    "word": "resident",
+    "pos": "n.",
+    "en_def": "a person who lives in a particular place",
+    "cn_def": "居民",
+    "sentence": "A: The building manager sent an email saying that the elevator will be repaired next week, so what should people living on the top floors do? B: Every {{BLANK}} who has difficulty using the stairs can contact the front desk, and the staff will help carry their shopping bags and heavy packages up to their apartments.",
+    "cn": "A：大樓管理員寄電子郵件說下週要修電梯，住在頂樓的人該怎麼辦？ B：每位爬樓梯有困難的【居民】都可以聯絡櫃檯，工作人員會幫忙把購物袋和重的包裹搬到他們的公寓。",
+    "collocation": "local residents 當地居民"
+   },
+   {
+    "word": "tourist",
+    "pos": "n.",
+    "en_def": "a person who travels to a place for fun",
+    "cn_def": "觀光客",
+    "sentence": "A: Sales at our gift shop have increased by thirty percent this summer, so what do you think is the main reason for this success? B: Since the new airline started direct flights from Japan, many more {{BLANK}} groups visit the old street every day, and they love buying our handmade tea cups as souvenirs.",
+    "cn": "A：我們禮品店今年夏天的業績成長了百分之三十，你覺得成功的主要原因是什麼？ B：自從新的航空公司開了從日本出發的直飛航班，每天有更多【觀光客】團體來逛老街，他們很喜歡買我們手工做的茶杯當紀念品。",
+    "collocation": "a popular tourist attraction 熱門觀光景點"
+   },
+   {
+    "word": "transport",
+    "pos": "n.",
+    "en_def": "a system for carrying people or goods from place to place",
+    "cn_def": "交通運輸",
+    "sentence": "A: Many new employees have asked whether they really need to buy a car after moving to the city for this job, so what should we tell them? B: Tell them that public {{BLANK}} here is cheap and reliable, because buses and trains run every few minutes and can take them almost anywhere in the city.",
+    "cn": "A：很多新員工問，為了這份工作搬到這座城市後，他們是否真的需要買車，我們該怎麼告訴他們？ B：告訴他們這裡的大眾【運輸】既便宜又可靠，因為公車和火車每幾分鐘就有一班，幾乎可以載他們到市區任何地方。",
+    "collocation": "public transport 大眾運輸"
+   },
+   {
+    "word": "subway",
+    "pos": "n.",
+    "en_def": "an underground train system in a city",
+    "cn_def": "地鐵；捷運",
+    "sentence": "A: The conference center is on the other side of the city, and the taxi drivers say the roads will be very busy tomorrow morning, so how should we get there? B: Let's take the {{BLANK}}, because the underground trains are not affected by road traffic, and the station is right next to the main entrance of the center.",
+    "cn": "A：會議中心在城市的另一邊，計程車司機說明天早上路上會很塞，我們該怎麼去？ B：我們搭【捷運】吧，因為地下列車不受道路交通影響，而且車站就在會議中心主要入口旁邊。",
+    "collocation": "take the subway 搭地鐵"
+   },
+   {
+    "word": "bus",
+    "pos": "n.",
+    "en_def": "a large vehicle that carries many passengers on a fixed route",
+    "cn_def": "公車",
+    "sentence": "A: The company is moving to a new office in the science park next month, and many employees are worried about how they will get there without a car, so what is the plan? B: Management has arranged a free shuttle {{BLANK}} that will leave the main train station every fifteen minutes during rush hour in the morning and evening.",
+    "cn": "A：公司下個月要搬到科學園區的新辦公室，很多員工擔心沒有車要怎麼去，計畫是什麼？ B：管理階層安排了免費接駁【公車】，早晚尖峰時段每十五分鐘從火車總站發車一次。",
+    "collocation": "catch the bus 趕上公車"
+   },
+   {
+    "word": "intersection",
+    "pos": "n.",
+    "en_def": "a place where two or more roads cross",
+    "cn_def": "十字路口",
+    "sentence": "A: The delivery driver called again and said he cannot find our warehouse, even though he is very close, so how should I explain the way? B: Tell him to turn left at the next {{BLANK}} with the big traffic lights and the gas station, and our gray building will be the third one on the right side.",
+    "cn": "A：送貨司機又打電話來說他找不到我們的倉庫，雖然他已經很近了，我該怎麼跟他說明路線？ B：告訴他在下一個有大紅綠燈和加油站的【十字路口】左轉，我們的灰色建築就是右手邊的第三棟。",
+    "collocation": "a busy intersection 繁忙的十字路口"
+   },
+   {
+    "word": "crosswalk",
+    "pos": "n.",
+    "en_def": "a marked place where people can walk across a road",
+    "cn_def": "斑馬線；行人穿越道",
+    "sentence": "A: Parents at the school next to our office are worried about their children's safety in the morning, so what has the city decided to do? B: The city is painting a new {{BLANK}} in front of the school gate and adding a traffic light, so that students can cross the road safely when cars are coming.",
+    "cn": "A：我們辦公室隔壁學校的家長擔心孩子早上的安全，市政府決定怎麼做？ B：市政府要在校門前漆一條新的【斑馬線】並增設紅綠燈，讓學生在有車來的時候也能安全過馬路。",
+    "collocation": "use the crosswalk 走斑馬線"
+   },
+   {
+    "word": "sidewalk",
+    "pos": "n.",
+    "en_def": "a path at the side of a road for people to walk on",
+    "cn_def": "人行道",
+    "sentence": "A: The restaurant manager wants to put a few tables outside so that customers can enjoy the warm spring weather, so is that allowed in this area? B: Yes, but we must apply for a permit first, and we have to leave enough space on the {{BLANK}} so that people with strollers and wheelchairs can still pass by easily.",
+    "cn": "A：餐廳經理想在外面擺幾張桌子，讓客人享受溫暖的春天天氣，這一區允許這樣做嗎？ B：可以，但我們必須先申請許可，而且要在【人行道】上留下足夠的空間，讓推嬰兒車和坐輪椅的人仍然可以輕鬆通過。",
+    "collocation": "walk along the sidewalk 沿著人行道走"
+   },
+   {
+    "word": "market",
+    "pos": "n.",
+    "en_def": "a place where people buy and sell food and goods",
+    "cn_def": "市場",
+    "sentence": "A: The chef at our hotel restaurant always says that his vegetables taste much fresher than the ones in supermarkets, so where does he buy them? B: He goes to the traditional {{BLANK}} near the river at six o'clock every morning, where local farmers sell fruit, vegetables, and fish that were picked or caught only a few hours earlier.",
+    "cn": "A：我們飯店餐廳的主廚總是說他的蔬菜比超市的新鮮多了，他都在哪裡買？ B：他每天早上六點去河邊的傳統【市場】，當地農民在那裡賣幾個小時前才摘下或捕到的水果、蔬菜和魚。",
+    "collocation": "a traditional market 傳統市場"
+   },
+   {
+    "word": "mall",
+    "pos": "n.",
+    "en_def": "a large building with many shops inside",
+    "cn_def": "購物中心",
+    "sentence": "A: The weather forecast says it will rain all weekend, so where can we take the visiting sales team to relax after the training sessions finish? B: We could take them to the new shopping {{BLANK}} next to the station, because it has hundreds of stores, a cinema, and a large food court, so nobody will get wet.",
+    "cn": "A：天氣預報說整個週末都會下雨，訓練課程結束後，我們可以帶來訪的業務團隊去哪裡放鬆？ B：我們可以帶他們去車站旁邊新開的【購物中心】，因為那裡有數百家店、一間電影院和一個大型美食街，沒有人會淋濕。",
+    "collocation": "go to the shopping mall 去購物中心"
+   },
+   {
+    "word": "restaurant",
+    "pos": "n.",
+    "en_def": "a place where people pay to sit and eat meals",
+    "cn_def": "餐廳",
+    "sentence": "A: We need to take the visiting directors out for dinner after the board meeting on Wednesday, so have you made a reservation anywhere yet? B: I booked a private room at a seafood {{BLANK}} on the twentieth floor, because the food there is excellent and the guests can enjoy a wonderful night view of the river.",
+    "cn": "A：星期三董事會開完後，我們需要帶來訪的董事們去吃晚餐，你已經在哪裡訂位了嗎？ B：我在二十樓的一家海鮮【餐廳】訂了包廂，因為那裡的菜很棒，客人還能欣賞美麗的河岸夜景。",
+    "collocation": "book a table at a restaurant 在餐廳訂位"
+   },
+   {
+    "word": "cafe",
+    "pos": "n.",
+    "en_def": "a small place that sells coffee, drinks and light meals",
+    "cn_def": "咖啡館",
+    "sentence": "A: I have an online job interview at ten tomorrow morning, but the internet at my apartment has been very slow this week, so where can I go? B: There is a quiet {{BLANK}} around the corner with fast WiFi and private booths, so you can order a coffee and do the interview there without any noise.",
+    "cn": "A：我明天早上十點有一場線上工作面試，但這週我公寓的網路一直很慢，我可以去哪裡？ B：轉角有一家安靜的【咖啡館】，有快速的無線網路和私人座位區，你可以點杯咖啡，在那裡安靜地面試。",
+    "collocation": "meet at a cafe 在咖啡館碰面"
+   },
+   {
+    "word": "nightlife",
+    "pos": "n.",
+    "en_def": "entertainment such as bars, music and clubs at night",
+    "cn_def": "夜生活",
+    "sentence": "A: Our company is sending three young engineers to work in Bangkok for six months, so what do you think they will enjoy most about living there? B: They will probably love the {{BLANK}}, because the city has rooftop bars, live music, and night markets that stay open until very late, even after a long day at work.",
+    "cn": "A：我們公司要派三位年輕工程師到曼谷工作六個月，你覺得他們最喜歡那裡生活的哪一點？ B：他們大概會很愛那裡的【夜生活】，因為那座城市有屋頂酒吧、現場音樂和營業到很晚的夜市，即使上班一整天後也能去玩。",
+    "collocation": "enjoy the city's nightlife 享受城市的夜生活"
+   },
+   {
+    "word": "skyline",
+    "pos": "n.",
+    "en_def": "the shape of buildings against the sky",
+    "cn_def": "天際線",
+    "sentence": "A: The photographer for our company's annual report wants to take a picture that shows how much the city has grown, so where should he stand? B: He should go to the top of the hill behind the university at sunset, because from there he can capture the whole {{BLANK}} with all the tall office towers lit up.",
+    "cn": "A：為公司年報拍照的攝影師想拍一張能呈現這座城市成長多少的照片，他應該站在哪裡？ B：他應該在日落時到大學後面的山頂，因為從那裡他可以拍到所有高聳辦公大樓都亮燈的整片【天際線】。",
+    "collocation": "the city skyline 城市天際線"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The government plans to build more parks in _____ areas rather than in the countryside. City residents need green space close to home.",
+    "options": [
+     "urban",
+     "historic",
+     "modern",
+     "vibrant"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The hotel is in the heart of _____, just steps from the main shopping streets. Guests can walk to most business meetings.",
+    "options": [
+     "suburb",
+     "downtown",
+     "crosswalk",
+     "skyline"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The Lins moved to a quiet _____ outside the city last year. Mr. Lin now drives forty minutes to the office every day.",
+    "options": [
+     "plaza",
+     "intersection",
+     "suburb",
+     "landmark"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "This _____ has a strong community spirit. Neighbors often hold street parties and help each other with childcare.",
+    "options": [
+     "skyline",
+     "crosswalk",
+     "population",
+     "neighborhood"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The parade will move slowly down the main _____ lined with palm trees. Spectators should arrive early to find good spots.",
+    "options": [
+     "suburb",
+     "boulevard",
+     "population",
+     "nightlife"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Most banks and law firms have offices in the financial _____. Rents there are among the highest in the city.",
+    "options": [
+     "crosswalk",
+     "skyline",
+     "subway",
+     "district"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The new eighty-floor _____ will be the tallest building in the country. Construction is expected to finish in 2028.",
+    "options": [
+     "skyscraper",
+     "crosswalk",
+     "market",
+     "suburb"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The old clock tower is the town's best-known _____. Visitors often take photos in front of it.",
+    "options": [
+     "population",
+     "traffic",
+     "landmark",
+     "sidewalk"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Thousands of people gathered in the town _____ to watch the New Year fireworks. The open space was filled with music and laughter.",
+    "options": [
+     "traffic",
+     "resident",
+     "crosswalk",
+     "square"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The new shopping _____ has forty stores and a large outdoor fountain. It opens to the public next Saturday.",
+    "options": [
+     "plaza",
+     "intersection",
+     "population",
+     "skyline"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Employees often eat lunch on the benches in the _____ across the street. The trees and grass offer a peaceful break from work.",
+    "options": [
+     "subway",
+     "traffic",
+     "park",
+     "intersection"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Heavy _____ on the highway delayed the delivery by two hours. The driver apologized to the customer for the late arrival.",
+    "options": [
+     "population",
+     "traffic",
+     "nightlife",
+     "skyline"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The train was so _____ that many passengers had to stand. The railway company plans to add more cars next month.",
+    "options": [
+     "modern",
+     "historic",
+     "crowded",
+     "urban"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The intersection is very _____ during rush hour, with cars and buses everywhere. Drivers should take extra care there.",
+    "options": [
+     "historic",
+     "busy",
+     "urban",
+     "modern"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The city is famous for its _____ arts scene, with street festivals and live music every weekend. Young travelers love its energy.",
+    "options": [
+     "crowded",
+     "busy",
+     "historic",
+     "vibrant"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The company moved into a _____ office building with smart lighting and fast elevators. The old building had no air conditioning.",
+    "options": [
+     "modern",
+     "historic",
+     "crowded",
+     "vibrant"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The city protects its _____ buildings, some of which are over three hundred years old. Owners cannot change their outside appearance.",
+    "options": [
+     "modern",
+     "historic",
+     "urban",
+     "busy"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The city's _____ has doubled in the last twenty years. As a result, the government is building more schools and hospitals.",
+    "options": [
+     "population",
+     "sidewalk",
+     "landmark",
+     "crosswalk"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Every _____ of the building received a letter about the new parking rules. The rules start on the first of next month.",
+    "options": [
+     "tourist",
+     "landmark",
+     "resident",
+     "suburb"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Every foreign _____ who buys a ticket receives a free city map. The service is popular with groups from Japan and Korea.",
+    "options": [
+     "landmark",
+     "skyline",
+     "population",
+     "tourist"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The city is investing heavily in public _____ to reduce car use. New bus lines and train routes will open next year.",
+    "options": [
+     "transport",
+     "population",
+     "neighborhood",
+     "nightlife"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The new _____ line runs underground from the airport to the city center. The trip takes only twenty-five minutes.",
+    "options": [
+     "sidewalk",
+     "landmark",
+     "subway",
+     "suburb"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "A new traffic light was installed at the dangerous _____ near the school. Several accidents happened there last year.",
+    "options": [
+     "skyline",
+     "population",
+     "nightlife",
+     "intersection"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Please cross the street only at the _____, where drivers must stop for pedestrians. Crossing elsewhere is dangerous and illegal.",
+    "options": [
+     "skyline",
+     "crosswalk",
+     "suburb",
+     "population"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The café placed several tables on the _____ outside its front door. Pedestrians must now walk around them carefully.",
+    "options": [
+     "skyline",
+     "population",
+     "sidewalk",
+     "traffic"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Farmers sell fresh vegetables at the outdoor _____ every Sunday morning. Prices are often lower than at supermarkets.",
+    "options": [
+     "market",
+     "skyline",
+     "population",
+     "crosswalk"
+    ],
+    "answer": 0,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The shopping _____ has more than two hundred stores under one roof. It also includes a cinema and an ice rink.",
+    "options": [
+     "crosswalk",
+     "suburb",
+     "population",
+     "mall"
+    ],
+    "answer": 3,
+    "vocabIndex": 30
+   },
+   {
+    "q": "We reserved a table for twelve at a Thai _____ near the office. The team dinner starts at seven o'clock.",
+    "options": [
+     "subway",
+     "restaurant",
+     "skyline",
+     "suburb"
+    ],
+    "answer": 1,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The area is known for its lively _____, with bars and clubs open until 3 a.m. It is very quiet during the day, however.",
+    "options": [
+     "nightlife",
+     "population",
+     "landmark",
+     "crosswalk"
+    ],
+    "answer": 0,
+    "vocabIndex": 33
+   },
+   {
+    "q": "From the hotel rooftop, guests can see the city _____ lit up at night. The view of the tall towers is amazing.",
+    "options": [
+     "population",
+     "suburb",
+     "skyline",
+     "crosswalk"
+    ],
+    "answer": 2,
+    "vocabIndex": 34
+   }
+  ]
+ },
+ "59": {
+  "theme": "Classmates 同學",
+  "source": "https://www.examword.com/group-topic/classmates",
+  "VOCAB": [
+   {
+    "word": "peer",
+    "pos": "n.",
+    "en_def": "a person of the same age, class or level as you",
+    "cn_def": "同儕；同輩",
+    "sentence": "A: The new interns seem nervous about giving feedback to the senior designers, so how can we help them feel more confident during their first month? B: Let's pair each intern with a {{BLANK}} from last year's program, because people usually ask questions more freely when the person helping them is at the same level.",
+    "cn": "A：新來的實習生似乎不太敢給資深設計師意見，我們要怎麼幫助他們在第一個月更有自信？ B：我們讓每位實習生搭配一位去年計畫的【同儕】吧，因為當幫忙的人和自己程度相同時，大家通常會更放心地發問。",
+    "collocation": "peer feedback 同儕回饋"
+   },
+   {
+    "word": "schoolmate",
+    "pos": "n.",
+    "en_def": "a person who goes or went to the same school as you",
+    "cn_def": "同校同學；校友",
+    "sentence": "A: I heard you already knew the new marketing manager before she joined our company last week, so where did you two first meet? B: She was my {{BLANK}} at a high school in Tainan, and although we were in different classes, we often took the same bus home every afternoon.",
+    "cn": "A：聽說新來的行銷經理上週加入公司前你就認識她了，你們兩個最初是在哪裡認識的？ B：她是我在台南念高中時的【同校同學】，雖然我們不同班，但每天下午常搭同一班公車回家。",
+    "collocation": "an old schoolmate 老同學"
+   },
+   {
+    "word": "friend",
+    "pos": "n.",
+    "en_def": "a person you know well and like",
+    "cn_def": "朋友",
+    "sentence": "A: You look really happy today, and you keep smiling at your phone, so did you get some good news from the head office this morning? B: Not exactly, but my closest {{BLANK}} from university just told me she is moving to Taipei next month and will work in the building across the street.",
+    "cn": "A：你今天看起來好開心，一直對著手機微笑，是今天早上收到總公司的好消息嗎？ B：不完全是，是我大學時最要好的【朋友】剛告訴我，她下個月要搬到台北，而且會在對街的大樓上班。",
+    "collocation": "a close friend 好朋友"
+   },
+   {
+    "word": "teammate",
+    "pos": "n.",
+    "en_def": "a person who is on the same team as you",
+    "cn_def": "隊友",
+    "sentence": "A: Our department won the company basketball tournament on Saturday, so who scored the winning points in the last few seconds of the game? B: Kevin from accounting threw the final shot, but he said he could not have done it without his {{BLANK}}, who passed him the ball at exactly the right moment.",
+    "cn": "A：我們部門星期六贏得了公司籃球賽，最後幾秒是誰得到致勝分的？ B：會計部的 Kevin 投進最後一球，但他說如果沒有他的【隊友】在最恰當的時刻把球傳給他，他不可能做到。",
+    "collocation": "a loyal teammate 忠實的隊友"
+   },
+   {
+    "word": "partner",
+    "pos": "n.",
+    "en_def": "a person you work or do an activity with",
+    "cn_def": "夥伴；搭檔",
+    "sentence": "A: The training course next week includes several role-play exercises about handling customer complaints, so do we need to prepare anything before the first session? B: Yes, the trainer asked everyone to choose a {{BLANK}} from another department and practice a short conversation together, so you should contact someone by Thursday.",
+    "cn": "A：下週的培訓課程有好幾個處理客訴的角色扮演練習，第一堂課前我們需要準備什麼嗎？ B：需要，講師要求每個人從其他部門選一位【搭檔】，一起練習一段簡短的對話，所以你應該在星期四前聯絡好人選。",
+    "collocation": "a business partner 生意夥伴"
+   },
+   {
+    "word": "group",
+    "pos": "n.",
+    "en_def": "a number of people who do something together",
+    "cn_def": "小組；群體",
+    "sentence": "A: There are almost forty new employees at the orientation today, so how will the trainers manage such a large number of people in one room? B: They plan to divide everyone into a small {{BLANK}} of five or six people, and each one will have its own table, leader, and set of tasks.",
+    "cn": "A：今天的新人訓練有將近四十位新員工，訓練師要怎麼在一個房間裡帶這麼多人？ B：他們打算把大家分成五、六人一組的【小組】，每組都有自己的桌子、組長和一套任務。",
+    "collocation": "work in a small group 以小組方式工作"
+   },
+   {
+    "word": "class",
+    "pos": "n.",
+    "en_def": "a group of students taught together; a course of lessons",
+    "cn_def": "班級；課程",
+    "sentence": "A: You have been leaving the office early every Tuesday and Thursday this month, so are you taking care of something important for your family? B: No, I signed up for an evening Japanese {{BLANK}} near the train station, because our company is going to open a new branch in Osaka next spring.",
+    "cn": "A：你這個月每週二和週四都提早下班，是在處理家裡重要的事嗎？ B：不是，我報名了火車站附近的晚間日文【課程】，因為我們公司明年春天要在大阪開新分公司。",
+    "collocation": "attend an evening class 上夜間課程"
+   },
+   {
+    "word": "cooperate",
+    "pos": "v.",
+    "en_def": "to work together with others to reach the same goal",
+    "cn_def": "合作；配合",
+    "sentence": "A: The building manager says the fire drill will take about thirty minutes on Friday afternoon, so what does he expect from all the tenants? B: He hopes every company will {{BLANK}} with the safety team by leaving quickly through the stairs, because last year many workers ignored the alarm and stayed at their desks.",
+    "cn": "A：大樓管理員說星期五下午的消防演習大約要三十分鐘，他希望所有租戶怎麼做？ B：他希望每家公司都能【配合】安全小組，迅速從樓梯離開，因為去年很多員工不理會警報，一直待在座位上。",
+    "collocation": "cooperate with the police 配合警方"
+   },
+   {
+    "word": "collaborate",
+    "pos": "v.",
+    "en_def": "to work together with someone to create or achieve something",
+    "cn_def": "協作；共同合作",
+    "sentence": "A: The new advertising campaign for the sports drink looks amazing, so did our design team create all the videos and posters by themselves? B: No, they decided to {{BLANK}} with a young film studio from Kaohsiung, and the two teams spent three months sharing ideas, writing scripts, and filming together.",
+    "cn": "A：那款運動飲料的新廣告看起來好棒，所有影片和海報都是我們設計團隊自己做的嗎？ B：不是，他們決定和一家來自高雄的年輕影像工作室【共同合作】，兩個團隊花了三個月一起交流想法、寫腳本和拍攝。",
+    "collocation": "collaborate on a project 合作進行專案"
+   },
+   {
+    "word": "share",
+    "pos": "v.",
+    "en_def": "to have or use something together with others",
+    "cn_def": "分享；共用",
+    "sentence": "A: The office is getting very crowded since the sales team moved to our floor, so where will the two new assistants sit next week? B: Until the renovation upstairs is finished, they will have to {{BLANK}} the long desk by the window, and they can keep their files in the cabinet behind it.",
+    "cn": "A：自從業務團隊搬到我們這層後辦公室變得好擠，下週兩位新助理要坐哪裡？ B：在樓上整修完成之前，他們得【共用】窗邊那張長桌，文件可以放在後面的櫃子裡。",
+    "collocation": "share an office 共用辦公室"
+   },
+   {
+    "word": "support",
+    "pos": "v.",
+    "en_def": "to help and encourage someone",
+    "cn_def": "支持；支援",
+    "sentence": "A: Linda seems worried about leading her first big project while the director is away on a business trip, so is there anything we can do? B: Let's {{BLANK}} her by answering her questions quickly and offering to check her reports, because she will feel much calmer if she knows the team is behind her.",
+    "cn": "A：主任出差期間，Linda 要帶她的第一個大型專案，她似乎很擔心，我們能做些什麼嗎？ B：我們就盡快回答她的問題、主動幫她檢查報告來【支持】她，因為只要知道團隊站在她這邊，她會安心很多。",
+    "collocation": "support a colleague 支持同事"
+   },
+   {
+    "word": "discuss",
+    "pos": "v.",
+    "en_def": "to talk about something with other people",
+    "cn_def": "討論",
+    "sentence": "A: The customer survey shows that many people are unhappy with our delivery times, so when will the managers decide how to solve this problem? B: They are meeting on Monday morning to {{BLANK}} several possible plans, including hiring more drivers and opening a small warehouse in the southern part of the city.",
+    "cn": "A：顧客調查顯示很多人不滿意我們的送貨時間，經理們什麼時候會決定怎麼解決這個問題？ B：他們星期一早上會開會【討論】幾個可能的方案，包括多雇幾位司機和在市區南邊開一個小倉庫。",
+    "collocation": "discuss the details 討論細節"
+   },
+   {
+    "word": "interact",
+    "pos": "v.",
+    "en_def": "to talk and do things with other people",
+    "cn_def": "互動",
+    "sentence": "A: Why did the hotel ask its front desk staff to stand beside the counter instead of sitting behind the computer screens all day? B: The manager believes that guests feel more welcome when employees {{BLANK}} with them face to face, smile often, and offer useful advice about restaurants and places to visit nearby.",
+    "cn": "A：為什麼飯店要求櫃檯人員站在櫃檯旁邊，而不是整天坐在電腦螢幕後面？ B：經理認為當員工面對面和客人【互動】、常常微笑，並提供附近餐廳和景點的實用建議時，客人會覺得更受歡迎。",
+    "collocation": "interact with customers 與顧客互動"
+   },
+   {
+    "word": "respect",
+    "pos": "v.",
+    "en_def": "to treat someone or something with care because you think they are important",
+    "cn_def": "尊重",
+    "sentence": "A: Our new team includes people from five different countries, so how can we avoid misunderstandings when we plan meetings and company events? B: We should {{BLANK}} everyone's holidays and customs, ask politely when we are not sure about something, and choose times and foods that work for the whole team.",
+    "cn": "A：我們的新團隊有來自五個不同國家的人，規劃會議和公司活動時要怎麼避免誤會？ B：我們應該【尊重】每個人的節日和習俗，不確定時禮貌地詢問，並選擇適合整個團隊的時間和食物。",
+    "collocation": "respect others' opinions 尊重他人的意見"
+   },
+   {
+    "word": "helpful",
+    "pos": "adj.",
+    "en_def": "useful; willing to help",
+    "cn_def": "有幫助的；樂於助人的",
+    "sentence": "A: How was your first week at the new branch, and did you have any trouble learning the computer system the company uses for orders? B: It was great, because the staff there were very {{BLANK}} and showed me every step slowly, so I could process orders by myself by Wednesday afternoon.",
+    "cn": "A：你在新分店的第一週怎麼樣？學公司的訂單電腦系統有遇到困難嗎？ B：很棒，因為那裡的員工都非常【樂於助人】，慢慢地教我每個步驟，所以到星期三下午我就能自己處理訂單了。",
+    "collocation": "helpful advice 有用的建議"
+   },
+   {
+    "word": "friendly",
+    "pos": "adj.",
+    "en_def": "kind and pleasant to other people",
+    "cn_def": "友善的",
+    "sentence": "A: We are looking for a café where we can hold a relaxed meeting with our new clients from Singapore next Friday, so do you know a good place? B: There is a quiet café on Fifth Street where the owner is very {{BLANK}}, remembers every guest's name, and often brings free cookies to the table.",
+    "cn": "A：我們在找一家咖啡館，下週五要和新加坡的新客戶輕鬆開個會，你知道哪裡不錯嗎？ B：第五街有一家安靜的咖啡館，老闆非常【友善】，記得每位客人的名字，還常常送免費餅乾到桌上。",
+    "collocation": "a friendly atmosphere 友善的氣氛"
+   },
+   {
+    "word": "competitive",
+    "pos": "adj.",
+    "en_def": "wanting very much to win or be better than others",
+    "cn_def": "好勝的；競爭激烈的",
+    "sentence": "A: The sales contest only started on Monday, but Jason has already called over a hundred customers, so why is he working so hard this week? B: He is a very {{BLANK}} person who always wants to finish first, and the winner of this contest will also get a free trip to Japan.",
+    "cn": "A：業績競賽星期一才開始，Jason 已經打給超過一百位客戶了，他這週為什麼這麼拚？ B：他是個非常【好勝】的人，總是想拿第一，而且這次比賽的優勝者還能免費去日本旅行。",
+    "collocation": "a competitive market 競爭激烈的市場"
+   },
+   {
+    "word": "supportive",
+    "pos": "adj.",
+    "en_def": "giving help and encouragement",
+    "cn_def": "支持的；給予鼓勵的",
+    "sentence": "A: You decided to take evening classes for your master's degree while working full-time, so how does your manager feel about your busy schedule? B: She has been very {{BLANK}} about it, and she even lets me leave thirty minutes early on exam days so that I can get to campus on time.",
+    "cn": "A：你決定一邊全職工作一邊上夜間碩士課程，你的主管對你這麼忙的行程有什麼看法？ B：她一直非常【支持】，甚至讓我在考試那天提早三十分鐘下班，好讓我準時到學校。",
+    "collocation": "a supportive environment 支持性的環境"
+   },
+   {
+    "word": "cooperative",
+    "pos": "adj.",
+    "en_def": "willing to work with others and help them",
+    "cn_def": "合作的；配合的",
+    "sentence": "A: The software company in Hsinchu finally agreed to fix the problems with our new booking system, so how was the meeting with their engineers yesterday? B: It went smoothly, because their team was very {{BLANK}}, answered all our questions, and promised to send us an updated version before the end of the month.",
+    "cn": "A：新竹那家軟體公司終於同意修正我們新訂位系統的問題，昨天和他們工程師的會議怎麼樣？ B：很順利，因為他們的團隊非常【配合】，回答了我們所有的問題，還答應在月底前寄給我們更新版本。",
+    "collocation": "a cooperative attitude 合作的態度"
+   },
+   {
+    "word": "active",
+    "pos": "adj.",
+    "en_def": "doing a lot of things; taking part",
+    "cn_def": "積極的；活躍的",
+    "sentence": "A: The company wants to choose one employee to represent our office at the regional leadership program next spring, so who do you think should go? B: I would recommend Grace, because she is very {{BLANK}} in team meetings, often shares new ideas, and volunteers to organize events for the whole department.",
+    "cn": "A：公司想選一位員工代表我們辦公室參加明年春天的區域領導力課程，你覺得誰該去？ B：我推薦 Grace，因為她在團隊會議中非常【積極】，常常提出新點子，還自願幫整個部門籌辦活動。",
+    "collocation": "take an active role 扮演積極的角色"
+   },
+   {
+    "word": "quiet",
+    "pos": "adj.",
+    "en_def": "making little noise; not talking much",
+    "cn_def": "安靜的；文靜的",
+    "sentence": "A: The new accountant does not say much during our weekly meetings, so do you think she is unhappy with her job or with the team? B: I don't think so, because she is just a {{BLANK}} person who prefers listening, and her reports are always the most careful and detailed ones in the office.",
+    "cn": "A：新來的會計在每週會議中話不多，你覺得她是對工作或團隊不滿意嗎？ B：我不這麼認為，她只是個【文靜】的人，比較喜歡傾聽，而且她的報告一直是辦公室裡最仔細、最詳盡的。",
+    "collocation": "a quiet place to work 安靜的工作地點"
+   },
+   {
+    "word": "popular",
+    "pos": "adj.",
+    "en_def": "liked by many people",
+    "cn_def": "受歡迎的",
+    "sentence": "A: Why is there always such a long line at the small noodle shop next to our office building every day around twelve o'clock? B: It is very {{BLANK}} with office workers in this area because the prices are low, the portions are big, and the owner can prepare an order in less than five minutes.",
+    "cn": "A：為什麼我們辦公大樓旁邊那家小麵店每天中午十二點左右都大排長龍？ B：它在這一帶的上班族之間非常【受歡迎】，因為價格便宜、份量大，而且老闆不到五分鐘就能做好一份餐點。",
+    "collocation": "a popular choice 受歡迎的選擇"
+   },
+   {
+    "word": "familiar",
+    "pos": "adj.",
+    "en_def": "known to you because you have seen or used it before",
+    "cn_def": "熟悉的",
+    "sentence": "A: We need someone to help the visitors from our German partner find their way around the factory tomorrow, so who should we ask to guide them? B: Let's ask Peter, because he has worked in every section of the factory for ten years and is {{BLANK}} with all the machines and safety rules.",
+    "cn": "A：明天需要有人幫德國合作夥伴的訪客認識工廠環境，我們該請誰帶他們？ B：請 Peter 吧，因為他在工廠每個部門都待過，做了十年，對所有機器和安全規定都很【熟悉】。",
+    "collocation": "be familiar with the software 熟悉軟體"
+   },
+   {
+    "word": "diverse",
+    "pos": "adj.",
+    "en_def": "very different from each other; including many types",
+    "cn_def": "多元的；多樣的",
+    "sentence": "A: The new international school near the science park has been hiring a lot of teachers this year, so what kind of students do they have? B: Their student body is very {{BLANK}}, with children from more than twenty countries, so the school also offers language support classes and cultural events every month.",
+    "cn": "A：科學園區附近那所新的國際學校今年聘了很多老師，他們的學生是什麼樣的？ B：他們的學生非常【多元】，有來自二十多個國家的孩子，所以學校每個月也會提供語言輔導課和文化活動。",
+    "collocation": "a diverse workforce 多元的員工組成"
+   },
+   {
+    "word": "attentive",
+    "pos": "adj.",
+    "en_def": "listening or watching carefully; noticing what others need",
+    "cn_def": "專心的；體貼周到的",
+    "sentence": "A: The hotel received excellent reviews on the travel website last month, so what did the guests like most about their stay there? B: Many of them said the staff were very {{BLANK}}, because they noticed small things like extra pillows or birthday plans and took care of them before guests even asked.",
+    "cn": "A：那家飯店上個月在旅遊網站上得到很好的評價，客人最喜歡住宿的哪一點？ B：很多人說員工非常【體貼周到】，因為他們會注意到額外枕頭或生日安排這類小事，甚至在客人開口之前就處理好了。",
+    "collocation": "attentive service 周到的服務"
+   },
+   {
+    "word": "respectful",
+    "pos": "adj.",
+    "en_def": "showing politeness and care for others",
+    "cn_def": "尊重人的；有禮貌的",
+    "sentence": "A: Some customers become very angry on the phone when their packages arrive late, so how should new call center staff deal with them? B: They should stay calm and {{BLANK}}, listen without interrupting, apologize for the delay, and explain clearly when the customer can expect to receive the package.",
+    "cn": "A：包裹延遲送達時，有些客人在電話裡會非常生氣，新來的客服人員該怎麼應對？ B：他們應該保持冷靜和【有禮貌】，不打斷對方地傾聽，為延誤道歉，並清楚說明客人預計何時能收到包裹。",
+    "collocation": "a respectful tone 尊重的語氣"
+   },
+   {
+    "word": "discussion",
+    "pos": "n.",
+    "en_def": "a talk about something between people",
+    "cn_def": "討論",
+    "sentence": "A: The meeting about the new holiday schedule lasted almost three hours yesterday afternoon, so why did it take so long to make a decision? B: There was a long {{BLANK}} about whether the factory should close for a whole week in February or only for three days, because both choices have problems.",
+    "cn": "A：昨天下午關於新假期安排的會議開了將近三個小時，為什麼這麼久才做出決定？ B：大家針對工廠二月該停工整整一週還是只停三天進行了很長的【討論】，因為兩種選擇都有問題。",
+    "collocation": "have a discussion about 針對…進行討論"
+   },
+   {
+    "word": "activity",
+    "pos": "n.",
+    "en_def": "something people do for fun or to reach a goal",
+    "cn_def": "活動",
+    "sentence": "A: The human resources department wants to plan something special for the staff before the busy season starts in October, so do you have any ideas? B: A team-building {{BLANK}} like a cooking contest or a mountain hike would be fun, because people from different departments could get to know each other better.",
+    "cn": "A：人資部想在十月旺季開始前為員工安排一些特別的事，你有什麼想法嗎？ B：像烹飪比賽或爬山這類團隊建立【活動】會很有趣，因為不同部門的人可以更了解彼此。",
+    "collocation": "a team-building activity 團隊建立活動"
+   },
+   {
+    "word": "assignment",
+    "pos": "n.",
+    "en_def": "a piece of work given to someone as part of a job or course",
+    "cn_def": "任務；作業",
+    "sentence": "A: You look very busy this week, and I saw you stay at the office until nine last night, so what are you working on now? B: My manager gave me a special {{BLANK}} to compare the prices of five suppliers, and she needs my report before the budget meeting on Friday morning.",
+    "cn": "A：你這週看起來好忙，我看到你昨晚待在辦公室到九點，你現在在忙什麼？ B：主管交給我一項特別【任務】，要比較五家供應商的價格，她需要在星期五早上預算會議前拿到我的報告。",
+    "collocation": "complete an assignment 完成任務"
+   },
+   {
+    "word": "presentation",
+    "pos": "n.",
+    "en_def": "a talk that gives information to a group of people",
+    "cn_def": "簡報；發表",
+    "sentence": "A: The clients from Tokyo are arriving at ten tomorrow morning, so is everything ready for the meeting in the large conference room? B: Almost, but I still need to check the projector and practice my {{BLANK}} about our new products one more time, because I want to finish it in twenty minutes.",
+    "cn": "A：東京的客戶明天早上十點到，大會議室的會議都準備好了嗎？ B：差不多了，但我還要檢查投影機，並再練習一次介紹新產品的【簡報】，因為我想在二十分鐘內講完。",
+    "collocation": "give a presentation 做簡報"
+   },
+   {
+    "word": "study",
+    "pos": "v.",
+    "en_def": "to spend time learning about a subject",
+    "cn_def": "研讀；學習",
+    "sentence": "A: You told me you are planning to apply for the position at our London office next year, so how are you preparing for the interview? B: I {{BLANK}} business English for an hour every night after dinner, and on weekends I join an online group where we practice speaking about our jobs.",
+    "cn": "A：你跟我說你打算明年申請倫敦辦公室的職位，你怎麼準備面試？ B：我每天晚餐後花一小時【研讀】商用英文，週末則參加一個線上社團，一起練習談論我們的工作。",
+    "collocation": "study for an exam 準備考試"
+   },
+   {
+    "word": "review",
+    "pos": "v.",
+    "en_def": "to look at or check something again carefully",
+    "cn_def": "審閱；複習",
+    "sentence": "A: The contract with the new cleaning company is almost ready, so can we sign it this afternoon and let them start working next Monday? B: Not yet, because our lawyer wants to {{BLANK}} every page carefully first, especially the part about the price increases and what happens if they miss a cleaning day.",
+    "cn": "A：和新清潔公司的合約快好了，我們今天下午可以簽約，讓他們下週一開始工作嗎？ B：還不行，因為我們的律師想先仔細【審閱】每一頁，尤其是漲價的部分，以及如果他們漏掉一天清潔會怎樣。",
+    "collocation": "review the contract 審閱合約"
+   },
+   {
+    "word": "get along",
+    "forms": "get along – got along – gotten along",
+    "pos": "v.phr.",
+    "en_def": "to have a friendly relationship with someone",
+    "cn_def": "相處融洽",
+    "sentence": "A: The two new engineers will share an office and travel together to the factory in Vietnam every month, so do you think that will cause any problems? B: I don't think so, because they already {{BLANK}} very well, often eat lunch together, and even went hiking with their families last weekend.",
+    "cn": "A：兩位新工程師要共用一間辦公室，每個月還要一起去越南的工廠，你覺得會有問題嗎？ B：我不這麼認為，因為他們已經【相處融洽】，常一起吃午餐，上週末甚至帶著家人一起去爬山。",
+    "collocation": "get along with coworkers 與同事相處融洽"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "New employees often learn faster from a _____ than from a manager. They feel comfortable asking someone at the same level simple questions.",
+    "options": [
+     "peer",
+     "assignment",
+     "presentation",
+     "discussion"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Lisa thanked her _____ for passing her the ball in the final minute. Their company team won the volleyball match by one point.",
+    "options": [
+     "assignment",
+     "class",
+     "teammate",
+     "discussion"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "For the role-play exercise, each trainee must choose a _____ and practice a sales call together. The trainer will then give both people feedback.",
+    "options": [
+     "presentation",
+     "partner",
+     "discussion",
+     "assignment"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The workshop leader asked us to form a _____ of five people. Each one had to design a poster for the company picnic.",
+    "options": [
+     "presentation",
+     "assignment",
+     "discussion",
+     "group"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Mr. Chen takes an evening cooking _____ at the community center every Wednesday. He wants to prepare healthier lunches for work.",
+    "options": [
+     "class",
+     "peer",
+     "teammate",
+     "discussion"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "All tenants are asked to _____ with the security staff during tomorrow's fire drill. Please leave the building calmly by the nearest stairs.",
+    "options": [
+     "share",
+     "review",
+     "discuss",
+     "cooperate"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Our design team will _____ with a local university on the new packaging. Students and designers will exchange ideas over the next three months.",
+    "options": [
+     "respect",
+     "collaborate",
+     "review",
+     "share"
+    ],
+    "answer": 1,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Until the renovation is finished, the two interns will _____ a desk near the window. Each will keep personal files in a separate drawer.",
+    "options": [
+     "discuss",
+     "interact",
+     "share",
+     "cooperate"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "When Linda led her first project, her colleagues tried to _____ her by answering questions quickly. She said their help made her feel confident.",
+    "options": [
+     "discuss",
+     "support",
+     "interact",
+     "collaborate"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The managers will meet on Monday to _____ ways to reduce delivery delays. They will decide on a final plan by Friday.",
+    "options": [
+     "discuss",
+     "interact",
+     "get along",
+     "cooperate"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Front desk staff should _____ with guests in a warm and natural way. A friendly conversation can make visitors feel welcome right away.",
+    "options": [
+     "respect",
+     "review",
+     "interact",
+     "support"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "In a team with members from many countries, it is important to _____ different customs. Ask politely if you are unsure about something.",
+    "options": [
+     "get along",
+     "collaborate",
+     "cooperate",
+     "respect"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The staff at the new branch were very _____ and showed me every step of the ordering system. I learned the job in three days.",
+    "options": [
+     "competitive",
+     "helpful",
+     "quiet",
+     "diverse"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The café owner is so _____ that she greets every customer by name. Many office workers stop by just to chat with her.",
+    "options": [
+     "diverse",
+     "competitive",
+     "quiet",
+     "friendly"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Jason is a very _____ salesperson who always wants to finish first in every sales contest. He called over one hundred customers this week.",
+    "options": [
+     "competitive",
+     "quiet",
+     "respectful",
+     "familiar"
+    ],
+    "answer": 0,
+    "vocabIndex": 16
+   },
+   {
+    "q": "My manager has been very _____ of my plan to study for a master's degree. She even lets me leave early on exam days.",
+    "options": [
+     "diverse",
+     "quiet",
+     "supportive",
+     "competitive"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The engineers from the software company were very _____ and fixed all the problems we reported. They even sent an update earlier than promised.",
+    "options": [
+     "quiet",
+     "diverse",
+     "popular",
+     "cooperative"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Grace is very _____ in our weekly meetings and often suggests new ideas. She also volunteers to plan events for the department.",
+    "options": [
+     "quiet",
+     "active",
+     "familiar",
+     "diverse"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The new accountant is a _____ person who rarely speaks during meetings. However, her reports are always clear and very detailed.",
+    "options": [
+     "competitive",
+     "popular",
+     "quiet",
+     "active"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The noodle shop next to our building is very _____ with office workers. There is a long line outside every day at noon.",
+    "options": [
+     "popular",
+     "respectful",
+     "attentive",
+     "diverse"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Peter has worked at the factory for ten years, so he is _____ with every machine. He will guide the visitors tomorrow.",
+    "options": [
+     "popular",
+     "familiar",
+     "competitive",
+     "diverse"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The international school has a very _____ student body, with children from over twenty countries. It also holds cultural events every month.",
+    "options": [
+     "attentive",
+     "respectful",
+     "competitive",
+     "diverse"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The hotel staff were so _____ that they noticed our anniversary and left flowers in our room. We will definitely stay there again.",
+    "options": [
+     "attentive",
+     "diverse",
+     "competitive",
+     "quiet"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Call center staff must remain calm and _____ even when customers shout at them. They should listen carefully and apologize for any delay.",
+    "options": [
+     "popular",
+     "diverse",
+     "respectful",
+     "competitive"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "After a long _____, the managers agreed to close the factory for three days in February. Everyone had a chance to give an opinion.",
+    "options": [
+     "teammate",
+     "peer",
+     "class",
+     "discussion"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Human resources is planning a team-building _____ for October, such as a cooking contest or a mountain hike. All staff are welcome to join.",
+    "options": [
+     "activity",
+     "peer",
+     "assignment",
+     "teammate"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "My manager gave me a special _____ to compare prices from five suppliers. I must finish the report before Friday's budget meeting.",
+    "options": [
+     "group",
+     "peer",
+     "assignment",
+     "class"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "I will give a short _____ about our new products to the Tokyo clients tomorrow. I have practiced it three times with the projector.",
+    "options": [
+     "peer",
+     "presentation",
+     "group",
+     "teammate"
+    ],
+    "answer": 1,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Before we sign the contract, our lawyer needs to _____ every page carefully. She is especially concerned about the section on price increases.",
+    "options": [
+     "interact",
+     "cooperate",
+     "get along",
+     "review"
+    ],
+    "answer": 3,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The two new engineers _____ well, so working in the same office has not been a problem. They often eat lunch together, too.",
+    "options": [
+     "share",
+     "get along",
+     "discuss",
+     "review"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   }
+  ]
+ },
+ "60": {
+  "theme": "Climate 氣候",
+  "source": "https://www.examword.com/group-topic/climate",
+  "VOCAB": [
+   {
+    "word": "climate",
+    "pos": "n.",
+    "en_def": "the usual weather conditions in a place over a long time",
+    "cn_def": "氣候",
+    "sentence": "A: Our company is thinking about opening a new factory in the south of the country next year, so what do managers need to consider before they choose the location? B: They should study the local {{BLANK}} carefully, because hot and wet conditions all year round can damage machines and raise cooling costs.",
+    "cn": "A：我們公司正考慮明年在國家南部開設一間新工廠，經理們在選擇地點前需要考慮什麼？ B：他們應該仔細研究當地的【氣候】，因為全年炎熱潮濕的環境會損壞機器並提高冷卻成本。",
+    "collocation": "adapt to the local climate 適應當地氣候"
+   },
+   {
+    "word": "weather",
+    "pos": "n.",
+    "en_def": "the conditions in the air at a particular time, such as rain, sun or wind",
+    "cn_def": "天氣",
+    "sentence": "A: The outdoor product launch is planned for Saturday afternoon in the park, but I heard it might rain, so should we prepare a backup plan just in case? B: Yes, let's check the {{BLANK}} report again on Thursday, and if it looks bad, we can move the event into the hotel ballroom.",
+    "cn": "A：戶外產品發表會預定在週六下午於公園舉行，但我聽說可能會下雨，我們要不要準備一個備案以防萬一？ B：要，我們週四再查一次【天氣】預報，如果看起來不好，就把活動移到飯店宴會廳。",
+    "collocation": "check the weather forecast 查看天氣預報"
+   },
+   {
+    "word": "temperature",
+    "pos": "n.",
+    "en_def": "how hot or cold something is",
+    "cn_def": "溫度；氣溫",
+    "sentence": "A: Several employees on the third floor have complained that the office feels too cold in the afternoons, so is there anything the building manager can do? B: He said he will raise the {{BLANK}} on the air conditioner by two degrees and also check whether any windows near the meeting rooms are leaking.",
+    "cn": "A：三樓有好幾位員工抱怨下午辦公室太冷，大樓管理員能做些什麼嗎？ B：他說會把冷氣的【溫度】調高兩度，也會檢查會議室附近是否有窗戶漏風。",
+    "collocation": "raise the temperature 調高溫度"
+   },
+   {
+    "word": "rainfall",
+    "pos": "n.",
+    "en_def": "the amount of rain that falls in an area",
+    "cn_def": "降雨量",
+    "sentence": "A: The farmers who supply vegetables to our restaurant chain say prices may go up this autumn, so do you know why that is happening? B: The total {{BLANK}} this summer was much lower than usual, so many fields were too dry and the harvest will be smaller than last year's.",
+    "cn": "A：供應我們連鎖餐廳蔬菜的農民說今年秋天價格可能會上漲，你知道為什麼嗎？ B：今年夏天的總【降雨量】比平常少很多，所以許多田地太乾，收成會比去年少。",
+    "collocation": "heavy rainfall 大量降雨"
+   },
+   {
+    "word": "humidity",
+    "pos": "n.",
+    "en_def": "the amount of water in the air",
+    "cn_def": "濕度",
+    "sentence": "A: The paper in our storage room keeps getting soft and wavy before we can use it in the printers, so what do you think the problem is? B: The {{BLANK}} in that room is very high during the rainy season, so we should buy a dehumidifier and keep the door closed.",
+    "cn": "A：我們儲藏室裡的紙在放進印表機前總是變軟變皺，你覺得問題出在哪裡？ B：那個房間在雨季時【濕度】很高，所以我們應該買一台除濕機，並且把門關好。",
+    "collocation": "high humidity 高濕度"
+   },
+   {
+    "word": "atmosphere",
+    "pos": "n.",
+    "en_def": "the mixture of gases around the earth",
+    "cn_def": "大氣（層）",
+    "sentence": "A: I'm preparing a short presentation for our environmental training next week, so could you help me explain why factory smoke is such a serious problem? B: Sure, you can say that the smoke releases harmful gases into the {{BLANK}}, where they trap heat and make the air dirtier for everyone who lives nearby.",
+    "cn": "A：我正在為下週的環保訓練準備一個簡短報告，你能幫我解釋為什麼工廠排煙是這麼嚴重的問題嗎？ B：當然，你可以說煙會把有害氣體排放到【大氣】中，這些氣體會留住熱量，並讓附近居民呼吸的空氣更髒。",
+    "collocation": "pollute the atmosphere 污染大氣"
+   },
+   {
+    "word": "season",
+    "pos": "n.",
+    "en_def": "one of the four periods of the year, such as spring or winter",
+    "cn_def": "季節",
+    "sentence": "A: Our travel agency is planning special tour packages to Japan, so which time of year do you think will attract the most customers from Taiwan? B: I think spring is the best {{BLANK}} because the cherry blossoms are beautiful, the temperature is comfortable, and many families take vacations in early April.",
+    "cn": "A：我們旅行社正在規劃前往日本的特別旅遊行程，你認為一年中哪個時候最能吸引台灣客人？ B：我認為春天是最好的【季節】，因為櫻花很美、氣溫舒適，而且許多家庭在四月初會去度假。",
+    "collocation": "the rainy season 雨季"
+   },
+   {
+    "word": "seasonal",
+    "pos": "adj.",
+    "en_def": "happening or needed only at a certain time of year",
+    "cn_def": "季節性的",
+    "sentence": "A: Our ice cream shop always gets very busy from June to August, but we don't need as many workers in winter, so how should we handle staffing? B: We could hire {{BLANK}} workers, such as university students on summer break, who are happy to work for three months and then return to school.",
+    "cn": "A：我們的冰淇淋店每年六月到八月都很忙，但冬天不需要那麼多員工，我們該如何安排人力？ B：我們可以雇用【季節性的】工作人員，例如放暑假的大學生，他們很樂意工作三個月然後回學校。",
+    "collocation": "seasonal workers 季節性員工"
+   },
+   {
+    "word": "tropical",
+    "pos": "adj.",
+    "en_def": "from or like the hot, wet areas near the equator",
+    "cn_def": "熱帶的",
+    "sentence": "A: The marketing team wants to hold next year's sales conference somewhere warm and relaxing, so do you have any ideas for a good place? B: How about a {{BLANK}} island in Southeast Asia, where the weather is hot, the beaches are beautiful, and the resort hotels have large meeting rooms?",
+    "cn": "A：行銷團隊希望明年的業務會議在溫暖又放鬆的地方舉行，你有什麼好地點的建議嗎？ B：東南亞的【熱帶】島嶼怎麼樣？那裡天氣炎熱、海灘漂亮，而且度假飯店有大型會議室。",
+    "collocation": "a tropical climate 熱帶氣候"
+   },
+   {
+    "word": "temperate",
+    "pos": "adj.",
+    "en_def": "not very hot and not very cold",
+    "cn_def": "溫帶的；溫和的",
+    "sentence": "A: Our company is choosing between two cities for its new European office, so why did the director say that the weather was an important factor? B: She prefers the city with a {{BLANK}} climate, because staff will not suffer from extreme heat in summer or heavy snow that stops trains in winter.",
+    "cn": "A：公司正在兩個城市中為新的歐洲辦公室做選擇，為什麼主管說天氣是重要因素？ B：她偏好【溫帶】氣候的城市，因為員工夏天不會受酷熱之苦，冬天也不會遇到讓火車停駛的大雪。",
+    "collocation": "a temperate climate 溫帶氣候"
+   },
+   {
+    "word": "arid",
+    "pos": "adj.",
+    "en_def": "very dry, with little or no rain",
+    "cn_def": "乾旱的",
+    "sentence": "A: The engineers are designing a new water system for the factory we are building in the desert region, so why does it cost so much more than usual? B: The land there is extremely {{BLANK}}, with almost no rain for most of the year, so they must pipe water in from a river eighty kilometers away.",
+    "cn": "A：工程師正在為我們在沙漠地區興建的工廠設計新的供水系統，為什麼費用比平常高這麼多？ B：那裡的土地極度【乾旱】，一年中大部分時間幾乎不下雨，所以他們必須從八十公里外的河流引水過來。",
+    "collocation": "arid land 乾旱的土地"
+   },
+   {
+    "word": "polar",
+    "pos": "adj.",
+    "en_def": "relating to the very cold areas around the North or South Pole",
+    "cn_def": "極地的",
+    "sentence": "A: I saw that the science museum downtown has a new exhibition this month, so do you think it would be a good trip for our staff family day? B: Yes, the {{BLANK}} exhibition is perfect for kids, because they can learn about penguins, ice, and how animals survive in the coldest places on earth.",
+    "cn": "A：我看到市中心的科學博物館這個月有新展覽，你覺得那適合當作我們員工家庭日的行程嗎？ B：適合，那個【極地】展覽很適合小孩，因為他們可以認識企鵝、冰，以及動物如何在地球上最冷的地方生存。",
+    "collocation": "polar regions 極地地區"
+   },
+   {
+    "word": "forecast",
+    "pos": "n.",
+    "en_def": "a statement about what will probably happen, especially with the weather",
+    "cn_def": "預報；預測",
+    "sentence": "A: We are supposed to fly to Okinawa for the client meeting on Monday morning, but I'm worried about the typhoon, so what did the news say? B: The latest {{BLANK}} says the storm will arrive on Sunday night, so the airline may cancel our flight and we should call the client today.",
+    "cn": "A：我們預定週一早上飛到沖繩和客戶開會，但我擔心颱風，新聞怎麼說？ B：最新的【預報】說暴風會在週日晚上抵達，所以航空公司可能會取消我們的航班，我們今天應該打電話給客戶。",
+    "collocation": "the weather forecast 天氣預報"
+   },
+   {
+    "word": "drought",
+    "pos": "n.",
+    "en_def": "a long period with little or no rain",
+    "cn_def": "乾旱",
+    "sentence": "A: The coffee supplier just told us that bean prices will rise by twenty percent next quarter, so did they explain the reason for such a big increase? B: Yes, a long {{BLANK}} in Brazil lasted for almost six months, and many coffee farms lost a large part of their crop because there was no water.",
+    "cn": "A：咖啡供應商剛告訴我們下一季咖啡豆價格會上漲百分之二十，他們有解釋漲這麼多的原因嗎？ B：有，巴西一場長期【乾旱】持續了將近六個月，許多咖啡農場因為缺水損失了大部分作物。",
+    "collocation": "a severe drought 嚴重的乾旱"
+   },
+   {
+    "word": "flood",
+    "pos": "n.",
+    "en_def": "a large amount of water covering land that is usually dry",
+    "cn_def": "洪水；水災",
+    "sentence": "A: Why is the warehouse team moving all the boxes from the ground floor up to the second floor this afternoon? B: The river next to the building rose quickly after three days of heavy rain, and the city warned that a {{BLANK}} could reach our area tonight, so we want to protect the products.",
+    "cn": "A：倉庫團隊今天下午為什麼要把一樓的箱子全部搬到二樓？ B：連續下了三天大雨後，大樓旁邊的河水迅速上漲，市政府警告今晚【洪水】可能淹到我們這一區，所以我們想保護產品。",
+    "collocation": "flood damage 水災損失"
+   },
+   {
+    "word": "storm",
+    "pos": "n.",
+    "en_def": "very bad weather with strong winds and heavy rain",
+    "cn_def": "暴風雨",
+    "sentence": "A: The power went off in the whole office building around two o'clock, and my computer shut down before I saved my report, so what happened? B: A strong {{BLANK}} with heavy rain and lightning passed over the city, and it damaged some power lines near the train station.",
+    "cn": "A：兩點左右整棟辦公大樓停電了，我的電腦在我存檔報告前就關機了，發生了什麼事？ B：一場夾帶大雨和閃電的強烈【暴風雨】經過市區，損壞了火車站附近的一些電線。",
+    "collocation": "a heavy storm 強烈暴風雨"
+   },
+   {
+    "word": "heatwave",
+    "pos": "n.",
+    "en_def": "a period of unusually hot weather",
+    "cn_def": "熱浪",
+    "sentence": "A: Sales of fans and air conditioners at our electronics stores have doubled this week, so did the marketing team start a special promotion? B: No, the main reason is the {{BLANK}}, because temperatures have stayed above thirty-seven degrees for six days and many people cannot sleep at night.",
+    "cn": "A：我們電器行的電風扇和冷氣銷量這週翻倍了，是行銷團隊開始了特別促銷嗎？ B：不是，主要原因是【熱浪】，因為氣溫已經連續六天超過三十七度，很多人晚上都睡不著。",
+    "collocation": "during a heatwave 在熱浪期間"
+   },
+   {
+    "word": "cold spell",
+    "pos": "n.phr.",
+    "en_def": "a short period of very cold weather",
+    "cn_def": "寒流；一段寒冷期",
+    "sentence": "A: The vegetable prices at the market went up suddenly this week, and our restaurant's food costs are much higher, so what caused the change? B: A sudden {{BLANK}} last weekend brought freezing temperatures to the farms in central Taiwan, and many leafy vegetables were damaged by the frost.",
+    "cn": "A：這週市場的菜價突然上漲，我們餐廳的食材成本高了很多，是什麼造成的？ B：上週末一波突如其來的【寒流】讓中台灣的農場出現低溫，許多葉菜都被霜凍壞了。",
+    "collocation": "a sudden cold spell 突如其來的寒流"
+   },
+   {
+    "word": "wind",
+    "pos": "n.",
+    "en_def": "air that moves quickly across the land",
+    "cn_def": "風",
+    "sentence": "A: Why did the construction company stop using the tall crane on the new office tower this afternoon? B: The {{BLANK}} became too strong after lunch, and the safety manager decided it was dangerous to lift heavy steel beams that high, so the workers will continue tomorrow morning if it is calmer.",
+    "cn": "A：建設公司今天下午為什麼停止使用新辦公大樓上的高塔吊車？ B：午餐後【風】變得太強，安全經理認為把沉重的鋼樑吊到那麼高很危險，所以如果明天早上比較平靜，工人會繼續施工。",
+    "collocation": "strong winds 強風"
+   },
+   {
+    "word": "cloud cover",
+    "pos": "n.phr.",
+    "en_def": "the amount of the sky that is covered by clouds",
+    "cn_def": "雲層覆蓋；雲量",
+    "sentence": "A: The photography team wants to take pictures of the new hotel from the air using a drone, so is tomorrow a good day to do it? B: Probably not, because thick {{BLANK}} is expected all morning, so the sky will look gray and the building will not stand out in the photos.",
+    "cn": "A：攝影團隊想用無人機從空中拍新飯店的照片，明天是適合拍攝的日子嗎？ B：可能不是，因為預計整個早上都會有厚厚的【雲層覆蓋】，天空看起來會灰灰的，建築物在照片中不會突出。",
+    "collocation": "heavy cloud cover 厚重的雲層"
+   },
+   {
+    "word": "sunlight",
+    "pos": "n.",
+    "en_def": "the light that comes from the sun",
+    "cn_def": "陽光",
+    "sentence": "A: The interior designer is planning the layout of our new office, so where does she suggest we put the main work area for the staff? B: She wants it next to the large windows on the east side, because the room gets plenty of natural {{BLANK}} in the morning and people will feel more awake.",
+    "cn": "A：室內設計師正在規劃我們新辦公室的配置，她建議把員工的主要工作區放在哪裡？ B：她想把它放在東側的大窗戶旁邊，因為那個房間早上有充足的自然【陽光】，大家會覺得比較有精神。",
+    "collocation": "natural sunlight 自然陽光"
+   },
+   {
+    "word": "greenhouse effect",
+    "pos": "n.phr.",
+    "en_def": "the warming of the earth because gases in the air trap the sun's heat",
+    "cn_def": "溫室效應",
+    "sentence": "A: Our company is making a short environmental video for customers, and I need to explain why the earth is getting warmer, so can you help me with the script? B: You could start with the {{BLANK}}, which happens when gases like carbon dioxide trap heat from the sun and stop it from escaping into space.",
+    "cn": "A：我們公司正在為客戶製作一支簡短的環保影片，我需要解釋地球為什麼越來越暖，你可以幫我寫腳本嗎？ B：你可以從【溫室效應】開始講，它是指像二氧化碳這類氣體留住太陽的熱，使熱無法散逸到太空中。",
+    "collocation": "reduce the greenhouse effect 減緩溫室效應"
+   },
+   {
+    "word": "global warming",
+    "pos": "n.phr.",
+    "en_def": "the slow rise in the earth's average temperature",
+    "cn_def": "全球暖化",
+    "sentence": "A: The insurance company sent us a letter saying our business insurance will cost more next year, so did they explain why the price is going up? B: They said {{BLANK}} is causing more typhoons and floods every year, so they must pay for more damage and are raising prices for all customers.",
+    "cn": "A：保險公司寄信給我們說明年的商業保險費會變貴，他們有解釋為什麼漲價嗎？ B：他們說【全球暖化】每年造成更多颱風和水災，所以他們必須支付更多損失，因此對所有客戶調漲價格。",
+    "collocation": "slow down global warming 減緩全球暖化"
+   },
+   {
+    "word": "climate change",
+    "pos": "n.phr.",
+    "en_def": "long-term changes in the earth's weather patterns, mainly caused by people",
+    "cn_def": "氣候變遷",
+    "sentence": "A: Our board of directors asked every department to suggest ways to cut energy use this year, so why are they suddenly so interested in this issue? B: Many investors now worry about {{BLANK}}, and they want companies to show clear plans for reducing pollution and protecting the environment in the future.",
+    "cn": "A：董事會要求每個部門今年提出減少能源使用的方法，他們為什麼突然這麼關心這個議題？ B：現在許多投資人擔心【氣候變遷】，他們希望公司提出明確的計畫來減少污染並保護未來的環境。",
+    "collocation": "fight climate change 對抗氣候變遷"
+   },
+   {
+    "word": "emissions",
+    "pos": "n.",
+    "en_def": "gases or other substances sent out into the air",
+    "cn_def": "排放物；排放量",
+    "sentence": "A: The government announced new environmental rules for factories last month, so what does our plant need to change before the deadline in December? B: We must reduce our carbon {{BLANK}} by fifteen percent, so the engineers are replacing the old boilers and adding filters to the chimneys.",
+    "cn": "A：政府上個月公布了新的工廠環保規定，我們工廠在十二月截止日前需要做哪些改變？ B：我們必須把碳【排放量】減少百分之十五，所以工程師正在更換舊鍋爐，並在煙囪加裝濾網。",
+    "collocation": "reduce carbon emissions 減少碳排放"
+   },
+   {
+    "word": "carbon",
+    "pos": "n.",
+    "en_def": "a chemical element; often used to mean the carbon dioxide released into the air",
+    "cn_def": "碳",
+    "sentence": "A: Our customers keep asking whether our delivery service is environmentally friendly, so what should I tell them when they call the hotline? B: Tell them we switched to electric vans last year, which cut the amount of {{BLANK}} our trucks release by almost half, and we plan to replace the rest by 2028.",
+    "cn": "A：客戶一直問我們的配送服務是否環保，他們打客服專線時我該怎麼回答？ B：告訴他們我們去年改用電動貨車，讓車隊排放的【碳】減少了將近一半，而且我們計畫在2028年前汰換其餘車輛。",
+    "collocation": "carbon footprint 碳足跡"
+   },
+   {
+    "word": "sustainable",
+    "pos": "adj.",
+    "en_def": "able to continue for a long time without harming the environment",
+    "cn_def": "永續的；可持續的",
+    "sentence": "A: The new hotel owner wants to attract younger travelers who care about the environment, so what changes is she planning for the building? B: She wants to make the hotel more {{BLANK}} by installing solar panels, collecting rainwater for the gardens, and serving food from local farms instead of imported products.",
+    "cn": "A：新的飯店老闆想吸引重視環保的年輕旅客，她打算對建築物做哪些改變？ B：她想透過安裝太陽能板、收集雨水澆花園，以及供應當地農場的食物而非進口產品，讓飯店更加【永續】。",
+    "collocation": "sustainable development 永續發展"
+   },
+   {
+    "word": "extreme",
+    "pos": "adj.",
+    "en_def": "very great or severe; much more than usual",
+    "cn_def": "極端的",
+    "sentence": "A: Why did the airport cancel so many flights yesterday, even though the sky looked clear here in the city? B: The problem was at the other end, because {{BLANK}} weather in northern Japan, including heavy snow and freezing winds, closed three airports there for most of the day.",
+    "cn": "A：昨天這裡市區的天空看起來很晴朗，機場為什麼還取消了這麼多航班？ B：問題出在另一端，因為日本北部的【極端】天氣，包括大雪和冰冷的強風，讓那裡三座機場大半天都關閉了。",
+    "collocation": "extreme weather 極端天氣"
+   },
+   {
+    "word": "variable",
+    "pos": "adj.",
+    "en_def": "likely to change often",
+    "cn_def": "多變的；易變的",
+    "sentence": "A: I'm going to London for a week of meetings with our British partners next month, so what kind of clothes do you think I should pack? B: The weather there is very {{BLANK}} in spring, so it might be sunny in the morning and rainy in the afternoon, and you should bring a light jacket and an umbrella.",
+    "cn": "A：我下個月要去倫敦和英國夥伴開一週的會，你覺得我該帶什麼樣的衣服？ B：那裡春天的天氣非常【多變】，可能早上晴天、下午下雨，你應該帶一件薄外套和一把雨傘。",
+    "collocation": "variable weather 多變的天氣"
+   },
+   {
+    "word": "mild",
+    "pos": "adj.",
+    "en_def": "not too hot and not too cold; pleasant",
+    "cn_def": "溫和的；暖和的",
+    "sentence": "A: Our company is choosing a place for the annual staff trip in January, so why did the planning committee choose southern Taiwan instead of the mountains? B: The winter weather in the south is usually {{BLANK}}, around twenty-three degrees, so people can enjoy outdoor activities without thick coats or the risk of icy roads.",
+    "cn": "A：公司正在為一月的年度員工旅遊選地點，為什麼籌備委員會選擇南台灣而不是山區？ B：南部冬天的天氣通常很【溫和】，大約二十三度，大家不用穿厚外套，也不必擔心路面結冰，就能享受戶外活動。",
+    "collocation": "a mild winter 溫和的冬天"
+   },
+   {
+    "word": "predictable",
+    "pos": "adj.",
+    "en_def": "able to be known or expected before it happens",
+    "cn_def": "可預測的",
+    "sentence": "A: Why do the managers at the beach resort plan their busy summer schedule so early, even in February? B: The weather there is quite {{BLANK}}, with sunny days from June to September almost every year, so they can confidently hire extra staff and book tour groups many months ahead.",
+    "cn": "A：海灘度假村的經理們為什麼這麼早，甚至在二月就規劃夏季旺季的排班？ B：那裡的天氣相當【可預測】，幾乎每年六月到九月都是晴天，所以他們可以放心地提前好幾個月加聘人手和預訂旅行團。",
+    "collocation": "predictable weather patterns 可預測的天氣模式"
+   },
+   {
+    "word": "unstable",
+    "pos": "adj.",
+    "en_def": "likely to change suddenly; not steady",
+    "cn_def": "不穩定的",
+    "sentence": "A: The hiking club from our company planned to climb Jade Mountain this weekend, so why did the leader suddenly postpone the trip? B: The weather in the mountains has been very {{BLANK}} this week, with sudden thunderstorms in the afternoons, so she thought it was too risky for the group.",
+    "cn": "A：公司的登山社原本計畫這週末去爬玉山，為什麼領隊突然延期了？ B：這週山上的天氣非常【不穩定】，下午常有突如其來的雷陣雨，所以她認為對團體來說太危險了。",
+    "collocation": "unstable weather 不穩定的天氣"
+   },
+   {
+    "word": "long-term",
+    "pos": "adj.",
+    "en_def": "continuing for a long time into the future",
+    "cn_def": "長期的",
+    "sentence": "A: Why did the city council decide to build a new seawall along the harbor, when it will take ten years to finish? B: They are thinking about the {{BLANK}} risk of rising sea levels, because experts say that many shops and homes near the port could be under water in fifty years.",
+    "cn": "A：市議會為什麼決定沿著港口興建新的海堤，明明要花十年才能完工？ B：他們考量的是海平面上升的【長期】風險，因為專家說港口附近的許多商店和住家五十年後可能會被淹沒。",
+    "collocation": "long-term planning 長期規劃"
+   },
+   {
+    "word": "average",
+    "pos": "adj.",
+    "en_def": "usual or typical; found by adding amounts and dividing by the number of them",
+    "cn_def": "平均的",
+    "sentence": "A: The new branch manager is moving from Taipei to Hualien next month, so is she worried about how the weather there will be different? B: Not really, because the {{BLANK}} temperature in Hualien is only about one degree lower than in Taipei, although she says it rains more in the winter months.",
+    "cn": "A：新的分店經理下個月要從台北搬到花蓮，她會擔心那裡的天氣不一樣嗎？ B：不太會，因為花蓮的【平均】氣溫只比台北低大約一度，不過她說冬季月份那裡比較常下雨。",
+    "collocation": "average temperature 平均氣溫"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Many retired couples move to southern Spain because of its warm _____. They enjoy sunny days for most of the year.",
+    "options": [
+     "drought",
+     "emissions",
+     "cloud cover",
+     "climate"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The outdoor company picnic was moved indoors because of the bad _____. It rained heavily all morning in the park.",
+    "options": [
+     "weather",
+     "sunlight",
+     "carbon",
+     "greenhouse effect"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Please keep the _____ in the server room below twenty degrees. The computers can overheat and stop working if it gets too warm.",
+    "options": [
+     "rainfall",
+     "temperature",
+     "drought",
+     "season"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The farm had a poor harvest this year because _____ was far below normal. The fields received only half the usual amount of rain.",
+    "options": [
+     "heatwave",
+     "wind",
+     "rainfall",
+     "carbon"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The museum uses special machines to control _____ in the gallery. Too much moisture in the air can damage old paintings.",
+    "options": [
+     "forecast",
+     "drought",
+     "storm",
+     "humidity"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Smoke from the forest fires rose high into the _____. Air quality in nearby cities was poor for several days.",
+    "options": [
+     "season",
+     "atmosphere",
+     "drought",
+     "rainfall"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The department store hires _____ staff every December. These extra workers help with the busy holiday shopping period.",
+    "options": [
+     "seasonal",
+     "arid",
+     "polar",
+     "unstable"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Bananas and mangoes grow well in _____ regions near the equator. The hot and wet weather there is perfect for these fruits.",
+    "options": [
+     "polar",
+     "arid",
+     "tropical",
+     "predictable"
+    ],
+    "answer": 2,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Most of Western Europe has a _____ climate. Summers are warm but not too hot, and winters are cool rather than freezing.",
+    "options": [
+     "tropical",
+     "temperate",
+     "arid",
+     "polar"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Very few plants can survive in the _____ desert areas of the region. It sometimes does not rain there for several years.",
+    "options": [
+     "tropical",
+     "seasonal",
+     "average",
+     "arid"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The research team spent six months studying ice in the _____ regions. They lived at a base near the South Pole.",
+    "options": [
+     "tropical",
+     "sustainable",
+     "polar",
+     "mild"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "According to the weather _____, it will be sunny on Saturday. That is good news for the outdoor concert in the park.",
+    "options": [
+     "forecast",
+     "drought",
+     "humidity",
+     "atmosphere"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The long _____ forced the city to limit water use for six months. Residents could not water their gardens or wash their cars.",
+    "options": [
+     "flood",
+     "storm",
+     "drought",
+     "humidity"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "After the river rose quickly, a _____ covered the main road with water. Drivers had to find another route to the airport.",
+    "options": [
+     "flood",
+     "drought",
+     "heatwave",
+     "sunlight"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The ferry service was canceled because a strong _____ was approaching the island. Waves were expected to reach five meters.",
+    "options": [
+     "drought",
+     "sunlight",
+     "season",
+     "storm"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "During the summer _____, temperatures stayed above thirty-eight degrees for a week. Many offices allowed staff to work from home.",
+    "options": [
+     "flood",
+     "heatwave",
+     "cold spell",
+     "rainfall"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "A sudden _____ brought freezing temperatures to the north last week. Many people bought heaters and thick blankets.",
+    "options": [
+     "heatwave",
+     "drought",
+     "sunlight",
+     "cold spell"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The strong _____ blew several umbrellas inside out on the bridge. Pedestrians held on tightly to their hats and bags.",
+    "options": [
+     "wind",
+     "sunlight",
+     "rainfall",
+     "humidity"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Tomato plants need at least six hours of direct _____ every day. Place them near a south-facing window for the best results.",
+    "options": [
+     "humidity",
+     "wind",
+     "sunlight",
+     "drought"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Gases such as carbon dioxide trap heat near the earth's surface. Scientists call this process the _____.",
+    "options": [
+     "cold spell",
+     "greenhouse effect",
+     "forecast",
+     "rainfall"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Rising sea levels and melting ice are clear signs of _____. The earth's average temperature has increased over the past century.",
+    "options": [
+     "humidity",
+     "rainfall",
+     "global warming",
+     "cold spell"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+   },
+   {
+    "q": "World leaders met in Paris to discuss how to fight _____. They agreed to cut pollution and protect forests.",
+    "options": [
+     "climate change",
+     "sunlight",
+     "season",
+     "humidity"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The car maker promised to cut _____ from its factories by thirty percent. The company is switching to cleaner energy sources.",
+    "options": [
+     "sunlight",
+     "rainfall",
+     "season",
+     "emissions"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The new office building uses solar power and recycled materials. It is one of the most _____ buildings in the city.",
+    "options": [
+     "arid",
+     "sustainable",
+     "polar",
+     "unstable"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Workers should avoid outdoor jobs during _____ heat in the afternoon. The temperature can rise above forty degrees at that time.",
+    "options": [
+     "average",
+     "temperate",
+     "extreme",
+     "predictable"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "We enjoyed a very _____ winter this year, with few cold days. The heating bills for our office were much lower than usual.",
+    "options": [
+     "mild",
+     "arid",
+     "polar",
+     "unstable"
+    ],
+    "answer": 0,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Island weather is not always _____, so tour plans can change at short notice. Guests should check the schedule each morning.",
+    "options": [
+     "polar",
+     "arid",
+     "sustainable",
+     "predictable"
+    ],
+    "answer": 3,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The weather has been _____ all week, with sunshine one hour and heavy rain the next. Please bring an umbrella to the factory tour.",
+    "options": [
+     "arid",
+     "unstable",
+     "polar",
+     "long-term"
+    ],
+    "answer": 1,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The company is creating a _____ plan to reduce energy use by 2040. The first steps will begin next year.",
+    "options": [
+     "long-term",
+     "arid",
+     "polar",
+     "tropical"
+    ],
+    "answer": 0,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The _____ temperature in Taipei in July is about thirty degrees. Some days are hotter, and some are a little cooler.",
+    "options": [
+     "arid",
+     "polar",
+     "sustainable",
+     "average"
+    ],
+    "answer": 3,
+    "vocabIndex": 33
+   }
+  ]
+ },
+ "61": {
+  "theme": "Clothes 服裝",
+  "source": "https://www.examword.com/group-topic/clothes",
+  "VOCAB": [
+   {
+    "word": "fashionable",
+    "pos": "adj.",
+    "en_def": "following the latest style; popular now",
+    "cn_def": "時髦的；流行的",
+    "sentence": "A: I'm meeting an important client from Milan for lunch tomorrow, and I'm worried my old gray jacket looks a bit boring, so what do you think I should wear? B: You could try that navy blazer you bought last month, because it looks very {{BLANK}} but still professional enough for a business meal.",
+    "cn": "A：我明天要和一位來自米蘭的重要客戶吃午餐，我擔心我那件舊灰色外套看起來有點無聊，你覺得我該穿什麼？ B：你可以試試上個月買的那件海軍藍西裝外套，因為它看起來很【時髦】，但對商務餐敘來說也夠正式。",
+    "collocation": "fashionable clothing 時髦的服裝"
+   },
+   {
+    "word": "fashion house",
+    "pos": "n.phr.",
+    "en_def": "a company that designs and sells expensive clothes",
+    "cn_def": "時裝公司；服裝品牌",
+    "sentence": "A: Our marketing team has been asked to design the online campaign for a luxury brand next season, but do you know much about the company? B: Yes, it is a famous French {{BLANK}} that has made elegant dresses and handbags since 1920, so we should keep the style simple and classic.",
+    "cn": "A：我們行銷團隊被要求為一個奢侈品牌設計下一季的線上活動，你對這家公司了解多少？ B：知道，它是一家有名的法國【時裝公司】，從1920年起就製作優雅的洋裝和手提包，所以我們應該讓風格保持簡單經典。",
+    "collocation": "a leading fashion house 一流的時裝公司"
+   },
+   {
+    "word": "fashion icon",
+    "pos": "n.phr.",
+    "en_def": "a famous person whose style many people copy",
+    "cn_def": "時尚偶像；時尚指標人物",
+    "sentence": "A: Why did the department store decide to put a large photo of that famous actress at the main entrance of the new shop? B: She is a real {{BLANK}} whom many young shoppers admire, so the managers believe her picture will attract more customers to the new clothing section this winter.",
+    "cn": "A：為什麼百貨公司決定在新店的正門口放那位知名女演員的大照片？ B：她是許多年輕購物者崇拜的真正【時尚偶像】，所以經理們相信她的照片會在今年冬天吸引更多顧客到新的服飾區。",
+    "collocation": "become a fashion icon 成為時尚偶像"
+   },
+   {
+    "word": "fashion show",
+    "pos": "n.phr.",
+    "en_def": "an event where models wear new clothes for an audience",
+    "cn_def": "時裝秀",
+    "sentence": "A: The hotel ballroom looks very busy this afternoon, with workers carrying lights and a long stage, so what event is happening tonight? B: A local designer is holding a {{BLANK}} to present her spring collection, and about three hundred buyers and reporters have already registered to attend.",
+    "cn": "A：今天下午飯店宴會廳看起來很忙，工人們搬著燈光和一座長舞台，今晚有什麼活動？ B：一位本地設計師要舉辦一場【時裝秀】來發表她的春季系列，已經有大約三百位買家和記者報名參加。",
+    "collocation": "hold a fashion show 舉辦時裝秀"
+   },
+   {
+    "word": "old fashioned",
+    "pos": "adj.phr.",
+    "en_def": "no longer modern or popular",
+    "cn_def": "過時的；老式的",
+    "sentence": "A: Should we keep using the brown uniforms for the front desk staff, or is it time to order new ones before the hotel reopens in March? B: I think we should replace them, because several guests said the design looks {{BLANK}} and does not match our modern lobby.",
+    "cn": "A：我們應該繼續讓櫃檯人員穿那套咖啡色制服，還是該在飯店三月重新開幕前訂新的？ B：我覺得應該換掉，因為好幾位客人說那個設計看起來很【過時】，和我們現代化的大廳不搭。",
+    "collocation": "look old fashioned 看起來過時"
+   },
+   {
+    "word": "tie",
+    "pos": "n.",
+    "en_def": "a long narrow piece of cloth worn around the neck with a shirt",
+    "cn_def": "領帶",
+    "sentence": "A: I have a job interview at the bank tomorrow morning, and I already ironed my white shirt, but do you think I need anything else? B: Yes, you should wear a dark blue {{BLANK}} with that shirt, because most managers at the bank dress formally and will notice small details.",
+    "cn": "A：我明天早上在銀行有工作面試，我已經燙好白襯衫了，你覺得我還需要什麼嗎？ B：需要，你應該搭配一條深藍色【領帶】，因為銀行大部分主管都穿著正式，會注意到小細節。",
+    "collocation": "wear a tie 打領帶"
+   },
+   {
+    "word": "suit",
+    "pos": "n.",
+    "en_def": "a jacket and trousers or skirt made of the same cloth",
+    "cn_def": "西裝；套裝",
+    "sentence": "A: The sales director is flying to Singapore next week to sign a large contract with a new partner, so has he prepared everything? B: Almost, but he still needs to pick up his gray {{BLANK}} from the dry cleaner, since he wants to look professional at the signing ceremony.",
+    "cn": "A：業務總監下週要飛去新加坡和新合作夥伴簽一份大合約，他都準備好了嗎？ B：差不多了，但他還要去乾洗店拿他的灰色【西裝】，因為他想在簽約儀式上看起來很專業。",
+    "collocation": "a business suit 商務西裝"
+   },
+   {
+    "word": "shorts",
+    "pos": "n.",
+    "en_def": "short trousers that end above the knee",
+    "cn_def": "短褲",
+    "sentence": "A: The company picnic is at the beach on Saturday, and the weather report says it will be very hot, so what should employees wear? B: The organizers said comfortable {{BLANK}} and sandals are fine, but everyone should bring a hat and sunscreen because we will be outdoors all afternoon.",
+    "cn": "A：公司野餐週六在海邊，氣象預報說會很熱，員工應該穿什麼？ B：主辦人說穿舒適的【短褲】和涼鞋就可以，但大家都應該帶帽子和防曬乳，因為我們整個下午都會在戶外。",
+    "collocation": "a pair of shorts 一條短褲"
+   },
+   {
+    "word": "T-shirt",
+    "pos": "n.",
+    "en_def": "a simple cotton shirt with short sleeves and no collar",
+    "cn_def": "T恤",
+    "sentence": "A: We are planning a charity run for our staff next month, and many people want something to remember the event, so do you have any ideas? B: We could print our company logo on a bright orange {{BLANK}} for every runner, because it is cheap, useful, and easy to see in photos.",
+    "cn": "A：我們正在計畫下個月為員工舉辦慈善路跑，很多人想要紀念這次活動的東西，你有什麼點子嗎？ B：我們可以在每位跑者的亮橘色【T恤】上印公司標誌，因為它便宜、實用，在照片裡也很顯眼。",
+    "collocation": "print a logo on a T-shirt 在T恤上印標誌"
+   },
+   {
+    "word": "trousers",
+    "pos": "n.",
+    "en_def": "a piece of clothing that covers each leg separately",
+    "cn_def": "長褲",
+    "sentence": "A: You ordered a new uniform from the online store last week, but you looked unhappy when the package arrived this morning, so was something wrong with it? B: Yes, the jacket fits perfectly, but the {{BLANK}} are about five centimeters too long, so I need to send them back and ask for a shorter pair.",
+    "cn": "A：你上週在網路商店訂了一套新制服，但今天早上包裹到的時候你看起來不太高興，是有什麼問題嗎？ B：對，外套非常合身，但【長褲】長了大約五公分，所以我得退回去，請他們換一條短一點的。",
+    "collocation": "a pair of trousers 一條長褲"
+   },
+   {
+    "word": "suitcase",
+    "pos": "n.",
+    "en_def": "a large case with a handle for carrying clothes when traveling",
+    "cn_def": "行李箱",
+    "sentence": "A: You are leaving for the trade fair in Frankfurt early tomorrow morning, so have you finished packing all your clothes and product samples yet? B: Not yet, because my old {{BLANK}} broke last month, so I need to buy a new one with strong wheels at the mall after work today.",
+    "cn": "A：你明天一早要出發去法蘭克福參加商展，你的衣服和產品樣品都打包好了嗎？ B：還沒，因為我那個舊【行李箱】上個月壞了，所以我今天下班後得去購物中心買一個輪子堅固的新的。",
+    "collocation": "pack a suitcase 打包行李箱"
+   },
+   {
+    "word": "dress",
+    "pos": "n.",
+    "en_def": "a piece of women's clothing that covers the body and legs",
+    "cn_def": "洋裝；連身裙",
+    "sentence": "A: My sister is getting married in a garden in May, and I want to look nice without spending too much money, so where should I shop? B: The new boutique near our office is having a sale this week, and I saw a lovely light blue {{BLANK}} there for only half the usual price.",
+    "cn": "A：我姊姊五月要在花園裡結婚，我想穿得好看但又不想花太多錢，我該去哪裡買？ B：我們辦公室附近那家新精品店這週在特價，我在那裡看到一件很漂亮的淺藍色【洋裝】，只要平常價格的一半。",
+    "collocation": "an evening dress 晚禮服"
+   },
+   {
+    "word": "flip flop",
+    "pos": "n.",
+    "en_def": "a light open sandal held on by a strap between the toes",
+    "cn_def": "夾腳拖鞋",
+    "sentence": "A: Why are you walking with only one shoe on after the team-building trip to the beach this afternoon? B: A big wave took my left {{BLANK}} away while we were playing volleyball near the water, so I have to buy a new pair at the hotel shop before dinner.",
+    "cn": "A：今天下午去海邊參加團隊建立活動後，你為什麼只穿一隻鞋走路？ B：我們在水邊打排球的時候，一個大浪把我左腳的【夾腳拖】捲走了，所以我晚餐前得去飯店商店買一雙新的。",
+    "collocation": "a pair of flip flops 一雙夾腳拖"
+   },
+   {
+    "word": "waistcoat",
+    "pos": "n.",
+    "en_def": "a sleeveless jacket with buttons worn over a shirt",
+    "cn_def": "背心（西裝背心）",
+    "sentence": "A: The restaurant manager wants all the waiters to look more elegant at the wedding dinner on Sunday, so what will they wear? B: Each waiter will wear a white shirt, black trousers, and a dark red {{BLANK}} over the shirt, which matches the colors of the wedding decorations.",
+    "cn": "A：餐廳經理希望週日婚宴上所有服務生看起來更優雅，他們會穿什麼？ B：每位服務生都會穿白襯衫、黑長褲，再在襯衫外加一件深紅色【西裝背心】，和婚禮佈置的顏色相配。",
+    "collocation": "a suit with a matching waistcoat 搭配背心的西裝"
+   },
+   {
+    "word": "backpack",
+    "pos": "n.",
+    "en_def": "a bag carried on your back with two straps",
+    "cn_def": "背包",
+    "sentence": "A: You ride your bicycle to the office every day, so how do you carry your laptop, lunch box, and documents without dropping anything? B: I put everything in a large waterproof {{BLANK}}, which keeps my hands free and protects my computer when it suddenly starts raining on the way.",
+    "cn": "A：你每天騎腳踏車上班，你是怎麼帶筆電、便當和文件而不掉東西的？ B：我把所有東西都放進一個大的防水【背包】，這樣雙手可以空出來，在路上突然下雨時也能保護我的電腦。",
+    "collocation": "carry a backpack 背背包"
+   },
+   {
+    "word": "briefcase",
+    "pos": "n.",
+    "en_def": "a flat case for carrying papers to work",
+    "cn_def": "公事包",
+    "sentence": "A: The new lawyer seems very organized, and she always arrives at meetings with every contract ready, so how does she keep her papers so neat? B: She carries a brown leather {{BLANK}} with several sections inside, so each client's documents stay separate and she can find them quickly.",
+    "cn": "A：新來的律師看起來很有條理，每次開會都把所有合約準備好，她是怎麼讓文件保持這麼整齊的？ B：她帶著一個裡面分好幾格的咖啡色皮革【公事包】，所以每位客戶的文件都分開放，她能很快找到。",
+    "collocation": "a leather briefcase 皮革公事包"
+   },
+   {
+    "word": "casual clothes",
+    "pos": "n.phr.",
+    "en_def": "comfortable, informal clothes such as jeans",
+    "cn_def": "便服；休閒服",
+    "sentence": "A: The company has announced a new rule about what we can wear on Fridays, but I missed the meeting this morning, so what did they say? B: From next week, employees may wear {{BLANK}} such as jeans and polo shirts on Fridays, unless they have meetings with important customers.",
+    "cn": "A：公司宣布了一項關於星期五可以穿什麼的新規定，但我錯過了今天早上的會議，他們說了什麼？ B：從下週開始，員工星期五可以穿牛仔褲和Polo衫之類的【便服】，除非他們要和重要客戶開會。",
+    "collocation": "dress in casual clothes 穿便服"
+   },
+   {
+    "word": "vintage clothes",
+    "pos": "n.phr.",
+    "en_def": "good-quality old clothes from an earlier time",
+    "cn_def": "復古服裝；古著",
+    "sentence": "A: That small shop on Second Avenue always has a long line of young people outside on weekends, so what does it sell? B: It sells {{BLANK}} from the 1970s and 1980s, such as old leather jackets and colorful shirts, which have become very popular with university students recently.",
+    "cn": "A：第二大道上那家小店週末外面總是排著一長串年輕人，它賣什麼？ B：它賣1970和1980年代的【復古服裝】，像是舊皮夾克和色彩鮮豔的襯衫，最近在大學生之間變得非常受歡迎。",
+    "collocation": "shop for vintage clothes 選購古著"
+   },
+   {
+    "word": "smart clothes",
+    "pos": "n.phr.",
+    "en_def": "neat, formal clothes for special or business events",
+    "cn_def": "體面的服裝；正式服裝",
+    "sentence": "A: I've been invited to the annual awards dinner at the Grand Hotel next Friday, but the invitation does not mention a dress code, so what should I do? B: You should wear {{BLANK}}, like a jacket and nice shoes, because the CEO and many important guests will give speeches there.",
+    "cn": "A：我受邀參加下週五在大飯店舉辦的年度頒獎晚宴，但邀請函沒提到服裝規定，我該怎麼辦？ B：你應該穿【體面的服裝】，像是西裝外套和好看的鞋子，因為執行長和許多重要來賓都會在那裡致詞。",
+    "collocation": "wear smart clothes to an interview 穿體面的服裝去面試"
+   },
+   {
+    "word": "second-hand",
+    "pos": "adj.",
+    "en_def": "already used or owned by someone else",
+    "cn_def": "二手的",
+    "sentence": "A: Our small startup needs desks and chairs for the five new employees, but the budget is very limited this year, so how can we save money? B: We could buy {{BLANK}} furniture from the office that is closing downstairs, because the owner is selling everything in good condition at low prices.",
+    "cn": "A：我們小新創公司需要為五位新員工準備桌椅，但今年預算很有限，我們要怎麼省錢？ B：我們可以向樓下要歇業的辦公室買【二手】家具，因為老闆正以低價出售所有狀況良好的東西。",
+    "collocation": "second-hand clothes 二手衣"
+   },
+   {
+    "word": "keen on",
+    "pos": "adj.phr.",
+    "en_def": "very interested in something or liking it a lot",
+    "cn_def": "熱衷於；很喜歡",
+    "sentence": "A: We need someone to help choose the new uniforms for our hotel staff, and the deadline is next Monday, so who should we ask? B: Lisa from reception is very {{BLANK}} fashion and often reads design magazines, so I'm sure she would be happy to join the project.",
+    "cn": "A：我們需要有人幫忙挑選飯店員工的新制服，截止日是下週一，我們該問誰？ B：櫃檯的Lisa非常【熱衷於】時尚，常常看設計雜誌，所以我相信她會很樂意加入這個專案。",
+    "collocation": "be keen on fashion 熱衷於時尚"
+   },
+   {
+    "word": "stylish",
+    "pos": "adj.",
+    "en_def": "attractive and fashionable in appearance",
+    "cn_def": "有型的；時尚的",
+    "sentence": "A: The interior designer showed us three ideas for the new reception area yesterday, so which one do you think the visitors will like best? B: I prefer the second design, because the gray sofas and gold lamps look modern and {{BLANK}}, and they will give clients a good first impression.",
+    "cn": "A：室內設計師昨天給我們看了新接待區的三個構想，你覺得訪客會最喜歡哪一個？ B：我比較喜歡第二個設計，因為灰色沙發和金色燈具看起來既現代又【有型】，會給客戶好的第一印象。",
+    "collocation": "a stylish design 有型的設計"
+   },
+   {
+    "word": "abandon",
+    "pos": "v.",
+    "en_def": "to stop doing or planning something before it is finished",
+    "cn_def": "放棄；中止",
+    "sentence": "A: The clothing company spent two years developing a line of paper jackets, so why did they stop selling them so suddenly last month? B: Customers complained that the jackets tore easily in the rain, so the managers decided to {{BLANK}} the project and focus on cotton products instead.",
+    "cn": "A：那家服飾公司花了兩年開發一系列紙製外套，為什麼上個月突然停止販售？ B：顧客抱怨外套在雨中很容易破，所以經理們決定【放棄】這個計畫，改為專注於棉製產品。",
+    "collocation": "abandon a plan 放棄計畫"
+   },
+   {
+    "word": "fancy",
+    "pos": "adj.",
+    "en_def": "expensive and of high quality, often with decoration",
+    "cn_def": "高級的；花俏的",
+    "sentence": "A: The sales team reached its yearly target in only ten months, so how is the manager planning to thank everyone for their hard work? B: She has booked a {{BLANK}} restaurant on the top floor of a hotel downtown, where we will enjoy a seven-course dinner and a view of the city.",
+    "cn": "A：業務團隊只用了十個月就達成年度目標，經理打算怎麼感謝大家的辛勞？ B：她在市中心一家飯店頂樓訂了一間【高級】餐廳，我們會在那裡享用七道菜的晚餐，還能欣賞城市景色。",
+    "collocation": "a fancy restaurant 高級餐廳"
+   },
+   {
+    "word": "mix and match",
+    "pos": "v.phr.",
+    "en_def": "to combine different pieces of clothing in different ways",
+    "cn_def": "混搭",
+    "sentence": "A: I'm going on a ten-day business trip to three countries, but my suitcase is small, so how can I bring enough outfits for every meeting? B: Pack a few pieces in simple colors like black, white, and navy, so you can {{BLANK}} them easily and create a different look each day.",
+    "cn": "A：我要去三個國家出差十天，但我的行李箱很小，要怎麼帶足夠每場會議穿的衣服？ B：帶幾件黑色、白色和海軍藍等簡單顏色的單品，這樣你就能輕鬆【混搭】它們，每天打造不同的造型。",
+    "collocation": "mix and match outfits 混搭服裝"
+   },
+   {
+    "word": "heap",
+    "pos": "n.",
+    "en_def": "an untidy pile of things",
+    "cn_def": "一堆",
+    "sentence": "A: The storeroom behind the clothing shop is such a mess, and the new manager is visiting tomorrow, so what happened in there? B: The delivery company dropped all the winter coats in a big {{BLANK}} on the floor this morning, and nobody has had time to hang them up yet.",
+    "cn": "A：服飾店後面的倉庫好亂，新經理明天就要來了，裡面發生什麼事了？ B：貨運公司今天早上把所有冬季大衣在地上丟成一大【堆】，到現在還沒有人有時間把它們掛起來。",
+    "collocation": "a heap of clothes 一堆衣服"
+   },
+   {
+    "word": "ridiculous",
+    "pos": "adj.",
+    "en_def": "very silly or unreasonable",
+    "cn_def": "荒謬的；離譜的",
+    "sentence": "A: Did you see the price of the plain white T-shirt in the new designer shop at the airport while we were waiting for our flight? B: Yes, it cost almost two hundred dollars, which is a {{BLANK}} amount for a simple cotton shirt that you can buy anywhere for much less.",
+    "cn": "A：我們等班機的時候，你有看到機場那家新設計師商店裡素白T恤的價格嗎？ B：有，要價將近兩百美元，對一件到處都能用便宜得多的價格買到的簡單棉衫來說，真是【離譜的】金額。",
+    "collocation": "a ridiculous price 離譜的價格"
+   },
+   {
+    "word": "denim",
+    "pos": "n.",
+    "en_def": "a strong cotton cloth, usually blue, used to make jeans",
+    "cn_def": "丹寧布；牛仔布",
+    "sentence": "A: Our factory received a large order from a jeans company in Europe, so what kind of material do we need to buy in the next few weeks? B: We need about five thousand meters of strong blue {{BLANK}}, and the supplier promised to deliver it before the end of the month.",
+    "cn": "A：我們工廠接到歐洲一家牛仔褲公司的大訂單，接下來幾週我們需要買什麼布料？ B：我們需要大約五千公尺耐用的藍色【丹寧布】，供應商答應會在月底前送到。",
+    "collocation": "a denim jacket 丹寧外套"
+   },
+   {
+    "word": "trendy",
+    "pos": "adj.",
+    "en_def": "very fashionable and modern at the moment",
+    "cn_def": "新潮的；流行的",
+    "sentence": "A: The café on the corner has completely changed its look since it reopened last week, so why is it suddenly so crowded with young customers? B: The new owner turned it into a {{BLANK}} place with bright lights, colorful chairs, and pretty desserts that people love to share online.",
+    "cn": "A：轉角那家咖啡館上週重新開幕後外觀完全變了，為什麼突然擠滿了年輕顧客？ B：新老闆把它改造成一個【新潮的】地方，有明亮的燈光、彩色椅子和漂亮的甜點，大家都很喜歡在網路上分享。",
+    "collocation": "a trendy café 新潮的咖啡館"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Mr. Lee always wears _____ clothes that follow the latest trends. His coworkers often ask him where he shops.",
+    "options": [
+     "old fashioned",
+     "fashionable",
+     "keen on",
+     "ridiculous"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The famous Italian _____ will open its first store in Taipei next spring. It plans to sell handbags, shoes, and evening dresses.",
+    "options": [
+     "briefcase",
+     "heap",
+     "fashion house",
+     "denim"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The singer became a _____ after millions of fans copied her hairstyle and clothes. Many brands now want her to model their products.",
+    "options": [
+     "fashion icon",
+     "suitcase",
+     "waistcoat",
+     "heap"
+    ],
+    "answer": 0,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Hundreds of buyers watched the models walk down the stage at the _____. The designer received orders from twenty stores afterward.",
+    "options": [
+     "backpack",
+     "denim",
+     "tie",
+     "fashion show"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The hotel's carpets and curtains look _____ because they have not been changed since 1985. The owner plans to redecorate next year.",
+    "options": [
+     "old fashioned",
+     "keen on",
+     "trendy",
+     "stylish"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "All male staff must wear a shirt and _____ at the reception desk. The rule helps the hotel look professional to guests.",
+    "options": [
+     "heap",
+     "suitcase",
+     "fashion show",
+     "tie"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "He bought a new black _____ for the wedding, including a jacket and matching trousers. The tailor will shorten the sleeves by Friday.",
+    "options": [
+     "heap",
+     "suit",
+     "backpack",
+     "fashion icon"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "It was so hot during the outdoor event that most volunteers wore _____ instead of long pants. The organizers also provided free water.",
+    "options": [
+     "briefcase",
+     "heap",
+     "shorts",
+     "fashion house"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Every participant in the marathon received a free cotton _____ with the sponsor's logo. Many runners wore it during the race.",
+    "options": [
+     "suitcase",
+     "briefcase",
+     "heap",
+     "T-shirt"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "These _____ are too long, so the shop will shorten the legs for free. You can pick them up tomorrow afternoon.",
+    "options": [
+     "suitcase",
+     "fashion icon",
+     "trousers",
+     "heap"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Please label your _____ with your name before you check it in at the airport. Lost luggage is easier to return that way.",
+    "options": [
+     "tie",
+     "suitcase",
+     "denim",
+     "fashion show"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "She wore a long red _____ to the company's anniversary party. Several guests said she looked like a movie star.",
+    "options": [
+     "dress",
+     "briefcase",
+     "heap",
+     "fashion house"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "One _____ broke while I was walking on the beach, so I had to walk back barefoot. I will buy stronger sandals next time.",
+    "options": [
+     "tie",
+     "briefcase",
+     "waistcoat",
+     "flip flop"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The waiter wore a black _____ over his white shirt and buttoned it neatly. It made him look smart without a full jacket.",
+    "options": [
+     "heap",
+     "waistcoat",
+     "suitcase",
+     "fashion icon"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Students carried their books and laptops in a _____ on their shoulders. The school recommends bags with two padded straps.",
+    "options": [
+     "backpack",
+     "tie",
+     "dress",
+     "fashion show"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The lawyer opened her leather _____ and took out the signed contract. She handed a copy to each client.",
+    "options": [
+     "shorts",
+     "fashion icon",
+     "briefcase",
+     "heap"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Employees may wear _____ such as jeans on Fridays. However, they should dress formally when meeting important clients.",
+    "options": [
+     "fashion show",
+     "casual clothes",
+     "heap",
+     "briefcase"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "This store sells _____ from the 1960s, such as old dresses and leather jackets. Many items are rare and quite expensive.",
+    "options": [
+     "vintage clothes",
+     "fashion icon",
+     "waistcoat",
+     "fashion show"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Visitors to the banquet should wear _____, such as jackets and formal shoes. Jeans and sneakers will not be allowed.",
+    "options": [
+     "fashion show",
+     "heap",
+     "fashion house",
+     "smart clothes"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "We saved money by buying _____ computers from a company that was closing. They still work perfectly after two years.",
+    "options": [
+     "keen on",
+     "ridiculous",
+     "second-hand",
+     "fashionable"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "My manager is very _____ outdoor sports, so she often organizes hiking trips for the team. Last month we climbed Yangmingshan together.",
+    "options": [
+     "stylish",
+     "keen on",
+     "fancy",
+     "trendy"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The new office chairs are comfortable and _____, with a modern shape and soft leather seats. Visitors often ask where we bought them.",
+    "options": [
+     "keen on",
+     "ridiculous",
+     "old fashioned",
+     "stylish"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Because of rising costs, the company had to _____ its plan to open a factory overseas. It will expand the local plant instead.",
+    "options": [
+     "mix and match",
+     "borrow",
+     "abandon",
+     "repair"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+   },
+   {
+    "q": "We celebrated the contract at a _____ restaurant with white tablecloths and live piano music. The meal was expensive but excellent.",
+    "options": [
+     "fancy",
+     "second-hand",
+     "keen on",
+     "ridiculous"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "With only five basic items, you can _____ them to make many different outfits. This saves space when you travel.",
+    "options": [
+     "abandon",
+     "borrow",
+     "deliver",
+     "mix and match"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "After the sale, unwanted shirts were left in a large _____ on the floor. Staff spent an hour folding them again.",
+    "options": [
+     "tie",
+     "heap",
+     "fashion icon",
+     "briefcase"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Charging fifty dollars for a cup of coffee is _____. Most customers will simply go to another café.",
+    "options": [
+     "ridiculous",
+     "keen on",
+     "second-hand",
+     "old fashioned"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "These jeans are made of thick blue _____ that lasts for years. The factory buys the fabric from a supplier in Japan.",
+    "options": [
+     "tie",
+     "heap",
+     "denim",
+     "fashion show"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The _____ café near the station is popular with young people who post photos online. It always follows the newest style.",
+    "options": [
+     "trendy",
+     "second-hand",
+     "keen on",
+     "ridiculous"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Reporters took photos as the models appeared at the spring _____. The event was held in a large hotel ballroom.",
+    "options": [
+     "fashion icon",
+     "denim",
+     "suitcase",
+     "fashion show"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   }
+  ]
  }
 }
