@@ -2509,7 +2509,12 @@ window.VOCAB_ZONES = {
    58,
    59,
    60,
-   61
+   61,
+   62,
+   63,
+   64,
+   65,
+   66
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2571,7 +2576,12 @@ window.VOCAB_ZONES = {
    "58": "City 城市",
    "59": "Classmates 同學",
    "60": "Climate 氣候",
-   "61": "Clothes 服裝"
+   "61": "Clothes 服裝",
+   "62": "Coffee 咖啡",
+   "63": "Coins 硬幣",
+   "64": "Colleague 同事",
+   "65": "Collection 收藏",
+   "66": "Color 顏色"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }

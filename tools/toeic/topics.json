@@ -36953,5 +36953,3011 @@
     "vocabIndex": 3
    }
   ]
+ },
+ "62": {
+  "theme": "Coffee 咖啡",
+  "source": "https://www.examword.com/group-topic/coffee",
+  "VOCAB": [
+   {
+    "word": "espresso",
+    "pos": "n.",
+    "en_def": "a small cup of very strong coffee",
+    "cn_def": "濃縮咖啡",
+    "sentence": "A: The sales team has a long presentation to prepare before tomorrow's client meeting, so should I order some drinks to help everyone stay awake tonight? B: Yes, please get a few strong cups of {{BLANK}} from the café downstairs, because most of us prefer something small and powerful rather than a large sweet drink.",
+    "cn": "A：業務團隊在明天的客戶會議前有一份很長的簡報要準備，所以我應該訂些飲料幫大家今晚保持清醒嗎？ B：好，請從樓下的咖啡館買幾杯【濃縮咖啡】，因為我們大多數人比較喜歡小杯又夠力的，而不是大杯的甜飲料。",
+    "collocation": "order a double espresso 點一杯雙份濃縮咖啡"
+   },
+   {
+    "word": "beverage",
+    "pos": "n.",
+    "en_def": "a drink of any kind except water",
+    "cn_def": "飲料",
+    "sentence": "A: We are planning the refreshments for the training workshop next Monday, and about sixty employees will attend, so what should we serve during the morning break? B: Let's offer a choice of hot and cold {{BLANK}} options, such as coffee, juice and sparkling water, along with some light snacks from the bakery.",
+    "cn": "A：我們正在規劃下週一培訓研習的茶點，大約有六十位員工會參加，上午休息時間要提供什麼呢？ B：我們提供冷熱【飲料】選擇吧，例如咖啡、果汁和氣泡水，再搭配一些麵包店的輕食點心。",
+    "collocation": "a wide selection of beverages 各式各樣的飲料"
+   },
+   {
+    "word": "iced",
+    "pos": "adj.",
+    "en_def": "made cold by adding ice",
+    "cn_def": "加冰的；冰的",
+    "sentence": "A: It's going to be over thirty-five degrees during the outdoor product launch on Saturday afternoon, so how can we keep our visitors comfortable while they wait? B: We could set up a small stand near the entrance that gives out free {{BLANK}} coffee and lemonade, and we should also put up some large umbrellas for shade.",
+    "cn": "A：週六下午的戶外產品發表會氣溫會超過三十五度，我們要怎麼讓來賓在等待時感到舒適？ B：我們可以在入口附近設個小攤位，免費發送【冰】咖啡和檸檬水，也應該架起幾把大傘遮陽。",
+    "collocation": "an iced latte 一杯冰拿鐵"
+   },
+   {
+    "word": "caffeinated",
+    "pos": "adj.",
+    "en_def": "containing caffeine, which keeps you awake",
+    "cn_def": "含咖啡因的",
+    "sentence": "A: I've noticed that you stopped drinking coffee after lunch, so is there a special reason for the change in your daily routine at the office? B: My doctor told me that {{BLANK}} drinks in the afternoon were making it hard for me to fall asleep at night, so now I only have one cup in the morning.",
+    "cn": "A：我注意到你午餐後就不再喝咖啡了，你在辦公室的日常習慣改變有什麼特別原因嗎？ B：醫生告訴我，下午喝【含咖啡因的】飲料讓我晚上很難入睡，所以現在我只在早上喝一杯。",
+    "collocation": "caffeinated drinks 含咖啡因的飲料"
+   },
+   {
+    "word": "milky",
+    "pos": "adj.",
+    "en_def": "containing a lot of milk; pale white like milk",
+    "cn_def": "含大量牛奶的；乳白色的",
+    "sentence": "A: The new coffee shop near our branch office has so many choices on its menu, and I never know what to order, so which drink would you recommend for someone who doesn't like bitter flavors? B: Try their {{BLANK}} coffee with extra foam, because it's soft, sweet and much gentler than the black coffee most of us drink.",
+    "cn": "A：我們分公司附近那家新咖啡店菜單上選擇好多，我總是不知道要點什麼，你會推薦不喜歡苦味的人喝哪一種？ B：試試他們加了額外奶泡的【奶味濃的】咖啡，因為它口感柔順香甜，比我們大多數人喝的黑咖啡溫和多了。",
+    "collocation": "a milky coffee 一杯奶味濃的咖啡"
+   },
+   {
+    "word": "hospitality",
+    "pos": "n.",
+    "en_def": "friendly and generous treatment of guests; the hotel and restaurant business",
+    "cn_def": "款待；好客；餐旅業",
+    "sentence": "A: Our Japanese partners are visiting the factory next week for the first time, and I want them to feel welcome, so what should we prepare for their arrival? B: Let's show them our best {{BLANK}} by greeting them at the airport, serving local coffee and snacks in the meeting room, and booking a nice dinner on the first evening.",
+    "cn": "A：我們的日本合作夥伴下週第一次來參觀工廠，我希望他們感到賓至如歸，我們應該為他們的到來準備什麼？ B：我們就展現最好的【款待】吧：到機場迎接他們、在會議室提供在地咖啡和點心，並在第一天晚上訂一頓好晚餐。",
+    "collocation": "warm hospitality 熱情款待"
+   },
+   {
+    "word": "thirst-quenching",
+    "pos": "adj.",
+    "en_def": "making you stop feeling thirsty",
+    "cn_def": "解渴的",
+    "sentence": "A: The runners will finish the charity race at around noon, when the sun is strongest, so what kind of drinks should the volunteers hand out at the finish line? B: We need something cold and {{BLANK}}, like water with fresh lemon or a light sports drink, because heavy milk drinks would make the tired runners feel sick.",
+    "cn": "A：跑者們大約會在中午太陽最大的時候跑完慈善路跑，志工們應該在終點線發什麼樣的飲料？ B：我們需要冰涼又【解渴的】東西，像是加了新鮮檸檬的水或清淡的運動飲料，因為濃厚的奶類飲品會讓疲累的跑者不舒服。",
+    "collocation": "a thirst-quenching drink 解渴的飲料"
+   },
+   {
+    "word": "green tea",
+    "pos": "n.",
+    "en_def": "a light tea made from leaves that are not fermented",
+    "cn_def": "綠茶",
+    "sentence": "A: You used to drink three cups of coffee every day at your desk, but recently I've seen you with a different cup, so what are you drinking now? B: I switched to {{BLANK}} last month because it has less caffeine, it tastes fresh and light, and my colleague from Taichung gave me a large box from her family's farm.",
+    "cn": "A：你以前每天在座位上喝三杯咖啡，但最近我看到你拿著不同的杯子，你現在喝什麼？ B：我上個月改喝【綠茶】了，因為它咖啡因比較少、味道清爽，而且我台中的同事送了我一大盒她家農場的茶。",
+    "collocation": "a cup of green tea 一杯綠茶"
+   },
+   {
+    "word": "top-up",
+    "pos": "n.",
+    "en_def": "an extra amount added to fill something again, such as a cup",
+    "cn_def": "續杯；加值",
+    "sentence": "A: I'm working at the café for the whole afternoon to finish this report, and my cup is almost empty, so do you know if I have to pay for another full coffee? B: No, this shop offers a free {{BLANK}} of regular filter coffee to customers who stay, so just show your receipt to the barista at the counter.",
+    "cn": "A：我整個下午都要在咖啡館把這份報告寫完，我的杯子快空了，你知道我需要再付一整杯咖啡的錢嗎？ B：不用，這家店為留下來的客人提供一般濾泡咖啡的免費【續杯】，只要到櫃檯把收據給咖啡師看就好。",
+    "collocation": "a free top-up 免費續杯"
+   },
+   {
+    "word": "make a habit",
+    "forms": "make a habit – made a habit – made a habit",
+    "pos": "v.phr.",
+    "en_def": "to start doing something regularly (make a habit of + V-ing)",
+    "cn_def": "養成…的習慣",
+    "sentence": "A: You always seem so calm and organized when the busy season starts, even when the rest of the department is stressed, so what's your secret? B: I {{BLANK}} of arriving fifteen minutes early, pouring a cup of coffee, and writing a short list of my most important tasks before I open my email each morning.",
+    "cn": "A：每到旺季開始，即使部門其他人都壓力很大，你總是顯得冷靜又有條理，你的秘訣是什麼？ B：我【養成習慣】每天早上提早十五分鐘到、倒一杯咖啡，並在打開電子郵件前寫下最重要工作的簡短清單。",
+    "collocation": "make a habit of exercising 養成運動的習慣"
+   },
+   {
+    "word": "preference",
+    "pos": "n.",
+    "en_def": "a liking for one thing more than another",
+    "cn_def": "偏好",
+    "sentence": "A: The catering company needs our final order for the annual meeting by Thursday, so should I just choose the standard coffee package for all two hundred guests? B: I think we should first send a short online survey to ask about each guest's {{BLANK}}, because some people want decaf, some need plant milk, and others only drink juice.",
+    "cn": "A：外燴公司星期四前需要我們年會的最終訂單，我是不是直接幫兩百位來賓都選標準咖啡方案就好？ B：我覺得我們應該先寄一份簡短的線上問卷，詢問每位來賓的【偏好】，因為有人要低咖啡因、有人需要植物奶，還有人只喝果汁。",
+    "collocation": "personal preference 個人偏好"
+   },
+   {
+    "word": "emphasize",
+    "pos": "v.",
+    "en_def": "to show that something is especially important",
+    "cn_def": "強調",
+    "sentence": "A: The new café manager is meeting all the part-time staff on Friday morning before the weekend rush, so what will be the main point of her talk? B: She plans to {{BLANK}} how important it is to greet every customer with a smile and to serve each drink quickly, because the shop recently received several complaints about slow service.",
+    "cn": "A：新來的咖啡館經理週五早上、週末人潮湧入前要和所有兼職員工開會，她談話的重點會是什麼？ B：她打算【強調】面帶微笑招呼每位客人並快速送上每杯飲料有多重要，因為店裡最近收到好幾則服務太慢的客訴。",
+    "collocation": "emphasize the importance of 強調…的重要性"
+   },
+   {
+    "word": "dull",
+    "pos": "adj.",
+    "en_def": "boring; not bright; not sharp",
+    "cn_def": "單調乏味的；暗淡的；鈍的",
+    "sentence": "A: Many guests left the afternoon seminar early yesterday, even though the topic was useful for their business, so what do you think went wrong? B: The speaker read every slide in a slow, {{BLANK}} voice for almost two hours, and the organizers didn't even provide coffee during the break to help people stay awake.",
+    "cn": "A：昨天下午的研討會雖然主題對來賓的生意很有用，但很多人還是提早離開了，你覺得哪裡出了問題？ B：講者用緩慢又【單調乏味的】聲音念了每一張投影片將近兩個小時，而且主辦單位休息時間連咖啡都沒提供，讓大家保持清醒。",
+    "collocation": "a dull meeting 沉悶的會議"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Mr. Lin orders a double _____ before every morning meeting. He says the small, strong drink helps him focus on the numbers.",
+    "options": [
+     "hospitality",
+     "preference",
+     "top-up",
+     "espresso"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The new machine in the staff lounge can make a perfect _____ in thirty seconds. Many employees now skip the café downstairs.",
+    "options": [
+     "hospitality",
+     "preference",
+     "espresso",
+     "top-up"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "A wide range of _____ choices, including coffee, juice and soda, will be served in the lobby. Guests may help themselves anytime.",
+    "options": [
+     "beverage",
+     "hospitality",
+     "top-up",
+     "espresso"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The airline has added a free _____ service on all short flights. Passengers can now choose between coffee, juice and water.",
+    "options": [
+     "preference",
+     "beverage",
+     "espresso",
+     "green tea"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Our company sells canned coffee and other _____ products to supermarkets across Asia. Sales rose by twelve percent last quarter.",
+    "options": [
+     "beverage",
+     "hospitality",
+     "preference",
+     "top-up"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Because the air conditioner was broken, everyone ordered _____ coffee instead of hot coffee. The cold drinks helped the team stay cool.",
+    "options": [
+     "dull",
+     "caffeinated",
+     "iced",
+     "milky"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The shop's _____ tea is served in a tall glass with plenty of ice. It is a popular choice during the summer.",
+    "options": [
+     "dull",
+     "iced",
+     "crowded",
+     "polite"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Many people avoid _____ drinks in the evening because they may stay awake all night. Herbal tea is a better choice before bed.",
+    "options": [
+     "dull",
+     "iced",
+     "milky",
+     "caffeinated"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Energy drinks and cola are highly _____ products, so the school canteen has stopped selling them. Students can buy water and juice instead.",
+    "options": [
+     "thirst-quenching",
+     "dull",
+     "caffeinated",
+     "iced"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Mia doesn't like strong black coffee, so she always orders a _____ latte with extra foam. It tastes soft and sweet.",
+    "options": [
+     "dull",
+     "thirst-quenching",
+     "crowded",
+     "milky"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The soup had a pale, _____ color because the chef added a lot of cream. Several guests asked for the recipe.",
+    "options": [
+     "milky",
+     "iced",
+     "caffeinated",
+     "thirst-quenching"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The hotel staff showed us great _____ during our business trip to Tainan. They even drove us to the train station for free.",
+    "options": [
+     "preference",
+     "hospitality",
+     "beverage",
+     "espresso"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Lisa has worked in the _____ industry for ten years, managing hotels and restaurants. She now trains new hotel managers.",
+    "options": [
+     "preference",
+     "top-up",
+     "green tea",
+     "hospitality"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Thank you for your warm _____ during our visit to your factory. We truly enjoyed the lunch and the tour.",
+    "options": [
+     "preference",
+     "espresso",
+     "hospitality",
+     "top-up"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+   },
+   {
+    "q": "After the long hike, the guide handed us a cold, _____ drink made from lemon and mint. Everyone finished it in seconds.",
+    "options": [
+     "thirst-quenching",
+     "dull",
+     "caffeinated",
+     "milky"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Watermelon is a sweet and _____ fruit that is perfect for hot summer afternoons. It contains a lot of water.",
+    "options": [
+     "caffeinated",
+     "thirst-quenching",
+     "dull",
+     "crowded"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Instead of coffee, the Japanese client asked for a cup of hot _____. She said it was lighter and healthier.",
+    "options": [
+     "espresso",
+     "top-up",
+     "green tea",
+     "preference"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "This farm in Nantou grows _____ and sells the dried leaves to cafés across Taiwan. Visitors can also pick leaves themselves.",
+    "options": [
+     "green tea",
+     "espresso",
+     "hospitality",
+     "preference"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Our café gives customers a free _____ of filter coffee if they stay for over an hour. Just ask the staff at the counter.",
+    "options": [
+     "hospitality",
+     "top-up",
+     "preference",
+     "green tea"
+    ],
+    "answer": 1,
+    "vocabIndex": 8
+   },
+   {
+    "q": "My phone card is almost empty, so I need a _____ before my business trip. I can buy one at any convenience store.",
+    "options": [
+     "preference",
+     "hospitality",
+     "espresso",
+     "top-up"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Successful managers often _____ of reading the news every morning. This keeps them informed about changes in the market.",
+    "options": [
+     "take a seat",
+     "make a habit",
+     "pay a visit",
+     "give a hand"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Try to _____ of saving a little money each month. Small amounts add up quickly over a few years.",
+    "options": [
+     "make a habit",
+     "take a seat",
+     "pay a visit",
+     "give a hand"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Please tell the hotel your room _____ when you book, such as a quiet floor or a city view. They will try their best.",
+    "options": [
+     "hospitality",
+     "beverage",
+     "espresso",
+     "preference"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Customers show a strong _____ for drinks with less sugar. As a result, the company has changed many of its recipes.",
+    "options": [
+     "hospitality",
+     "top-up",
+     "preference",
+     "green tea"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Do you have a _____ for the meeting time, morning or afternoon? I will book the room after you reply to me.",
+    "options": [
+     "beverage",
+     "top-up",
+     "espresso",
+     "preference"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "In her speech, the CEO wanted to _____ the importance of customer service. She repeated the same point three times.",
+    "options": [
+     "emphasize",
+     "borrow",
+     "apologize",
+     "arrive"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The trainer used a red pen to _____ the key safety rules on the poster. Nobody in the factory could miss them.",
+    "options": [
+     "borrow",
+     "arrive",
+     "emphasize",
+     "apologize"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The lecture was so _____ that half the audience fell asleep. Next year, we will invite a more exciting speaker.",
+    "options": [
+     "iced",
+     "dull",
+     "milky",
+     "caffeinated"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The office walls were painted a _____ gray color, so the manager brightened them with posters. The staff seem happier now.",
+    "options": [
+     "dull",
+     "caffeinated",
+     "thirst-quenching",
+     "iced"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "This knife has become _____ after years of use and can no longer cut bread. Please buy a new one this week.",
+    "options": [
+     "milky",
+     "dull",
+     "iced",
+     "caffeinated"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   }
+  ]
+ },
+ "63": {
+  "theme": "Coins 硬幣",
+  "source": "https://www.examword.com/group-topic/coins",
+  "VOCAB": [
+   {
+    "word": "currency",
+    "pos": "n.",
+    "en_def": "the money used in a particular country",
+    "cn_def": "貨幣",
+    "sentence": "A: I'm flying to Tokyo for the trade fair next Monday, and I won't have time to visit a bank after I land, so what should I do about money? B: You should exchange some local {{BLANK}} at the airport counter here before you leave, because taxis and small restaurants in Japan often prefer cash.",
+    "cn": "A：我下週一要飛去東京參加貿易展，落地後沒時間去銀行，錢的部分該怎麼辦？ B：你應該出發前在這裡的機場櫃檯換一些當地【貨幣】，因為日本的計程車和小餐廳常常比較喜歡收現金。",
+    "collocation": "exchange foreign currency 兌換外幣"
+   },
+   {
+    "word": "change",
+    "pos": "n.",
+    "en_def": "coins or small amounts of money",
+    "cn_def": "零錢",
+    "sentence": "A: The vending machine on the third floor keeps rejecting my five-hundred-dollar bill, and I really need a coffee before the client meeting starts at ten, so can you help me? B: Sure, I have some small {{BLANK}} in my desk drawer, so take a few coins and pay me back after lunch.",
+    "cn": "A：三樓的自動販賣機一直不收我的五百元鈔票，客戶會議十點開始前我真的需要一杯咖啡，你可以幫我嗎？ B：當然，我書桌抽屜裡有一些【零錢】，拿幾個硬幣去用，午餐後再還我就好。",
+    "collocation": "have small change 有零錢"
+   },
+   {
+    "word": "denomination",
+    "pos": "n.",
+    "en_def": "the value printed on a coin or bill",
+    "cn_def": "面額",
+    "sentence": "A: The bank teller asked how I wanted the cash for the staff party prizes, but I wasn't sure what to say, so what would you suggest? B: Ask for a mix of every {{BLANK}}, from ten-dollar coins to thousand-dollar bills, so that we can prepare envelopes with different amounts for each winner.",
+    "cn": "A：銀行行員問我員工派對獎金的現金要怎麼領，但我不確定該怎麼回答，你有什麼建議？ B：每種【面額】都換一些，從十元硬幣到千元鈔票都要，這樣我們就能為每位得獎者準備不同金額的紅包。",
+    "collocation": "coins of every denomination 各種面額的硬幣"
+   },
+   {
+    "word": "mint",
+    "pos": "v.",
+    "en_def": "to make coins from metal",
+    "cn_def": "鑄造（硬幣）",
+    "sentence": "A: Our museum shop wants to sell special coins to celebrate the city's two-hundredth anniversary next spring, but who can actually produce them for us? B: The national coin factory will {{BLANK}} a limited number of silver pieces for us, but we must send them the final drawings before the end of this month.",
+    "cn": "A：我們博物館商店想販售特別的硬幣，慶祝明年春天城市兩百週年，但誰真的能幫我們製作？ B：國家造幣廠會為我們【鑄造】限量的銀幣，但我們必須在這個月底前把最終設計圖寄給他們。",
+    "collocation": "mint commemorative coins 鑄造紀念幣"
+   },
+   {
+    "word": "metal",
+    "pos": "n.",
+    "en_def": "a hard material such as gold, copper, or iron",
+    "cn_def": "金屬",
+    "sentence": "A: Why does the new one-dollar coin feel so much lighter than the old one when I hold it in my hand? B: The government decided to use a cheaper {{BLANK}} to lower production costs, so the coin is thinner and weighs less, although it still looks very similar to the previous version.",
+    "cn": "A：為什麼新的一元硬幣拿在手上感覺比舊的輕這麼多？ B：政府為了降低生產成本，決定使用比較便宜的【金屬】，所以硬幣變得更薄更輕，不過外觀還是和之前的版本很像。",
+    "collocation": "made of precious metal 由貴金屬製成"
+   },
+   {
+    "word": "alloy",
+    "pos": "n.",
+    "en_def": "a metal made by mixing two or more metals",
+    "cn_def": "合金",
+    "sentence": "A: The supplier says the souvenir coins for our hotel guests will not turn green or rust, even after many years, so what are they made of? B: They use a strong {{BLANK}} of copper and nickel, which is cheaper than pure silver but stays bright and resists damage from water and air.",
+    "cn": "A：供應商說我們給飯店客人的紀念幣即使過了很多年也不會變綠或生鏽，它們是用什麼做的？ B：他們使用銅和鎳的堅固【合金】，比純銀便宜，但能保持光亮，並且不受水和空氣損害。",
+    "collocation": "a copper-nickel alloy 銅鎳合金"
+   },
+   {
+    "word": "design",
+    "pos": "n.",
+    "en_def": "the pattern or picture on something",
+    "cn_def": "圖案設計",
+    "sentence": "A: The marketing team voted on three ideas for the company's tenth-anniversary coin yesterday afternoon, so which one did they finally choose? B: They picked the {{BLANK}} with our first office building on one side and a small tree on the other, because it shows how the business has grown since 2016.",
+    "cn": "A：行銷團隊昨天下午針對公司十週年紀念幣的三個點子投票，他們最後選了哪一個？ B：他們選了一面是我們第一棟辦公大樓、另一面是一棵小樹的【圖案設計】，因為它展現了公司自2016年以來的成長。",
+    "collocation": "a coin design 硬幣圖案設計"
+   },
+   {
+    "word": "engraving",
+    "pos": "n.",
+    "en_def": "a picture or words cut into metal or stone",
+    "cn_def": "雕刻圖案",
+    "sentence": "A: This old coin from my grandfather's drawer looks quite ordinary, so why did the dealer at the antique market offer me such a high price for it? B: Look closely at the tiny {{BLANK}} of a ship near the bottom, because only a few hundred coins were made with that detail before the factory changed it.",
+    "cn": "A：這枚從我祖父抽屜找到的舊硬幣看起來很普通，為什麼古董市場的商人出這麼高的價錢？ B：仔細看底部附近那個小小的船隻【雕刻圖案】，因為在工廠改版之前，只有幾百枚硬幣有這個細節。",
+    "collocation": "a detailed engraving 精細的雕刻圖案"
+   },
+   {
+    "word": "edge",
+    "pos": "n.",
+    "en_def": "the outer side or rim of a flat object",
+    "cn_def": "邊緣",
+    "sentence": "A: Visitors with poor eyesight sometimes find it hard to tell the fifty-dollar coin from the ten-dollar coin, so how can they separate them quickly? B: They can feel the {{BLANK}} with their fingers, because the larger coin has small lines around it while the smaller one is completely smooth.",
+    "cn": "A：視力不好的訪客有時很難分辨五十元和十元硬幣，他們要怎麼快速區分？ B：他們可以用手指摸硬幣的【邊緣】，因為較大的硬幣周圍有細紋，而較小的那枚則完全光滑。",
+    "collocation": "a ridged edge 有齒紋的邊緣"
+   },
+   {
+    "word": "face",
+    "pos": "n.",
+    "en_def": "the front side of a coin, usually with a picture of a person",
+    "cn_def": "（硬幣的）正面",
+    "sentence": "A: The new trainee at the bank wants to know which side of each coin should point up in the visitors' display case, so what should I tell him? B: Put the {{BLANK}} with the president's portrait on top, because customers usually want to see the famous picture first and the number on the back second.",
+    "cn": "A：銀行的新進實習生想知道訪客展示櫃裡每枚硬幣該哪一面朝上，我該怎麼告訴他？ B：把印有總統肖像的【正面】朝上，因為顧客通常想先看到有名的人像，再看背面的數字。",
+    "collocation": "the face of a coin 硬幣的正面"
+   },
+   {
+    "word": "reverse",
+    "pos": "n.",
+    "en_def": "the back side of a coin",
+    "cn_def": "（硬幣的）背面",
+    "sentence": "A: The catalog photo only shows the portrait of the queen, so how can our buyers tell which year this coin was made before they place an order? B: Ask the seller to send another picture of the {{BLANK}}, because the year and the name of the factory are printed on that side beneath the eagle.",
+    "cn": "A：目錄照片只顯示女王的肖像，我們的買家下單前要怎麼知道這枚硬幣是哪一年鑄造的？ B：請賣家再寄一張【背面】的照片，因為年份和造幣廠名稱就印在那一面的老鷹下方。",
+    "collocation": "the reverse of a coin 硬幣的背面"
+   },
+   {
+    "word": "circulation",
+    "pos": "n.",
+    "en_def": "the movement of money from person to person in daily use",
+    "cn_def": "流通",
+    "sentence": "A: I found a strange two-dollar coin in my change at the supermarket this morning, and the cashier had never seen one before, so is it still valid? B: Yes, but very few people use it, because the government took most of them out of {{BLANK}} in 2010 after shoppers complained that they looked too similar to other coins.",
+    "cn": "A：今天早上我在超市找的零錢裡發現一枚奇怪的兩元硬幣，收銀員也從沒見過，它還能用嗎？ B：可以，但很少人使用，因為2010年購物者抱怨它和其他硬幣太像之後，政府就把大部分收回、不再【流通】。",
+    "collocation": "remove coins from circulation 將硬幣停止流通"
+   },
+   {
+    "word": "legal tender",
+    "pos": "n.phr.",
+    "en_def": "money that must be accepted by law for payments",
+    "cn_def": "法定貨幣",
+    "sentence": "A: A tourist at our gift shop wants to pay with old coins from the 1980s that she found at home, so should we accept them or not? B: Please check the list from the central bank first, because those coins are no longer {{BLANK}}, and we cannot deposit them into our business account.",
+    "cn": "A：禮品店有位觀光客想用她在家裡找到的1980年代舊硬幣付款，我們該不該收？ B：請先查看中央銀行的清單，因為那些硬幣已經不是【法定貨幣】，我們也無法把它們存進公司帳戶。",
+    "collocation": "be accepted as legal tender 被接受為法定貨幣"
+   },
+   {
+    "word": "value",
+    "pos": "n.",
+    "en_def": "how much money something is worth",
+    "cn_def": "價值",
+    "sentence": "A: My uncle left me a box of foreign coins when he moved overseas last year, so how can I find out whether they are worth anything? B: Take them to the coin dealer near the train station, because she can check their condition and age and tell you the real {{BLANK}} of each piece for free.",
+    "cn": "A：我叔叔去年搬到國外時留給我一盒外國硬幣，我要怎麼知道它們值不值錢？ B：拿去火車站附近的錢幣商那裡，她可以檢查它們的狀況和年代，並免費告訴你每一枚的真正【價值】。",
+    "collocation": "the market value 市場價值"
+   },
+   {
+    "word": "worth",
+    "pos": "n.",
+    "en_def": "the amount of something that a sum of money equals or buys",
+    "cn_def": "價值；等值的量",
+    "sentence": "A: The children's charity asked our office to collect spare coins for three months, so how much money did the staff finally give to them yesterday? B: We handed over about five thousand dollars' {{BLANK}} of coins in two heavy glass jars, and the bank needed nearly an hour to count everything by machine.",
+    "cn": "A：兒童慈善機構請我們辦公室收集零錢三個月，員工們昨天最後給了他們多少錢？ B：我們交出了兩個沉重玻璃罐、大約【價值】五千元的硬幣，銀行用機器數了將近一個小時才數完。",
+    "collocation": "ten dollars' worth of coins 價值十元的硬幣"
+   },
+   {
+    "word": "rare",
+    "pos": "adj.",
+    "en_def": "not common; hard to find",
+    "cn_def": "稀有的",
+    "sentence": "A: Why is everyone at the collectors' fair crowding around that small table in the corner instead of visiting the other booths this afternoon? B: The man there is selling an extremely {{BLANK}} coin from 1933, and experts believe fewer than twenty of them still exist anywhere in the world today.",
+    "cn": "A：為什麼今天下午收藏展上大家都擠在角落那張小桌子旁，而不去逛其他攤位？ B：那裡的男士正在賣一枚1933年極為【稀有的】硬幣，專家認為現今全世界剩下不到二十枚。",
+    "collocation": "a rare coin 稀有硬幣"
+   },
+   {
+    "word": "ancient",
+    "pos": "adj.",
+    "en_def": "very old; from a long time ago",
+    "cn_def": "古代的",
+    "sentence": "A: The history museum downtown is planning a new exhibition for the summer holidays, so what kind of objects will visitors be able to see there? B: They will show {{BLANK}} coins from Greece and Rome that are more than two thousand years old, along with tools that people used to make money back then.",
+    "cn": "A：市中心的歷史博物館正在規劃暑假的新展覽，訪客會在那裡看到什麼樣的展品？ B：他們會展出來自希臘和羅馬、超過兩千年歷史的【古代】硬幣，還有當時人們用來製作錢幣的工具。",
+    "collocation": "ancient Roman coins 古羅馬硬幣"
+   },
+   {
+    "word": "collectible",
+    "pos": "adj.",
+    "en_def": "worth collecting because it is special or limited",
+    "cn_def": "具收藏價值的",
+    "sentence": "A: The post office is selling a set of coins with pictures of Taiwan's national parks, so do you think they are just for tourists or for serious buyers? B: They are highly {{BLANK}} because only five thousand sets were produced, so many people buy them as gifts or as a long-term investment.",
+    "cn": "A：郵局在賣一組印有台灣國家公園圖案的硬幣，你覺得它們只是給觀光客的，還是給認真的買家？ B：它們非常【具收藏價值】，因為只生產了五千組，所以很多人買來當禮物或長期投資。",
+    "collocation": "highly collectible coins 極具收藏價值的硬幣"
+   },
+   {
+    "word": "shiny",
+    "pos": "adj.",
+    "en_def": "bright and reflecting light",
+    "cn_def": "閃亮的",
+    "sentence": "A: The jewelry store wants to give each customer a lucky coin during the Lunar New Year sale next week, so what should the coins look like? B: They should be bright and {{BLANK}}, like new gold, because customers believe clean coins bring good fortune, so please ask the bank for freshly made ones.",
+    "cn": "A：珠寶店下週農曆新年特賣時想送每位客人一枚幸運硬幣，硬幣應該是什麼樣子？ B：應該要明亮又【閃亮】，像新的金子一樣，因為客人相信乾淨的硬幣會帶來好運，所以請向銀行要剛鑄好的硬幣。",
+    "collocation": "shiny new coins 閃亮的新硬幣"
+   },
+   {
+    "word": "worn",
+    "pos": "adj.",
+    "en_def": "damaged or thin from long use",
+    "cn_def": "磨損的",
+    "sentence": "A: The ticket machine at the parking garage keeps returning one of my coins, even though it looks normal, so what could be wrong with it? B: It is probably too {{BLANK}} after many years of use, because the machine checks the weight and thickness, and old coins slowly become lighter as people handle them.",
+    "cn": "A：停車場的售票機一直退回我的一枚硬幣，雖然它看起來很正常，可能是哪裡出了問題？ B：它大概用了很多年、太【磨損】了，因為機器會檢查重量和厚度，而舊硬幣經過人們經手後會慢慢變輕。",
+    "collocation": "a worn coin 磨損的硬幣"
+   },
+   {
+    "word": "counterfeit",
+    "pos": "adj.",
+    "en_def": "fake; made to look real in order to cheat people",
+    "cn_def": "偽造的",
+    "sentence": "A: The cashier at our convenience store noticed that several fifty-dollar coins in the drawer felt lighter than usual today, so what should she do? B: She should put them aside and call the police, because they might be {{BLANK}} coins, and a gang was caught making fake money in this area last month.",
+    "cn": "A：我們便利商店的收銀員今天發現抽屜裡好幾枚五十元硬幣比平常輕，她該怎麼辦？ B：她應該把它們放在一旁並報警，因為它們可能是【偽造的】硬幣，上個月這一帶才抓到一個製造假錢的集團。",
+    "collocation": "counterfeit money 偽造的錢幣"
+   },
+   {
+    "word": "authentic",
+    "pos": "adj.",
+    "en_def": "real, not a copy",
+    "cn_def": "真品的；真正的",
+    "sentence": "A: An online seller is offering a silver coin from the eighteenth century for only three thousand dollars, so should our gallery buy it for the new display? B: Not yet, because we must first ask an expert to confirm that it is {{BLANK}}, since many cheap copies of old coins are sold on the internet.",
+    "cn": "A：有位網路賣家只要三千元就賣一枚十八世紀的銀幣，我們畫廊要買來放新展區嗎？ B：先不要，因為我們必須先請專家確認它是【真品】，網路上有很多便宜的舊硬幣仿製品。",
+    "collocation": "an authentic antique coin 真品古錢幣"
+   },
+   {
+    "word": "collect",
+    "pos": "v.",
+    "en_def": "to get and keep things of one kind as a hobby",
+    "cn_def": "收集",
+    "sentence": "A: Your desk is always full of small plastic bags and boxes, so what are you doing with all those coins from different countries? B: I {{BLANK}} coins from every place I visit on business trips, and so far I have pieces from twenty-three countries, which I plan to show my children someday.",
+    "cn": "A：你的桌上總是放滿小塑膠袋和盒子，你拿那些來自不同國家的硬幣做什麼？ B：我出差到每個地方都會【收集】當地的硬幣，到目前為止已經有二十三個國家的硬幣，打算有一天給我的孩子看。",
+    "collocation": "collect foreign coins 收集外國硬幣"
+   },
+   {
+    "word": "trade",
+    "pos": "v.",
+    "en_def": "to exchange one thing for another",
+    "cn_def": "交換",
+    "sentence": "A: You and Mr. Lin from accounting seem to spend every lunch break looking at coins together, so what exactly are you two doing? B: We {{BLANK}} coins with each other, because he has extra pieces from Europe that I need, and I have several Japanese ones that are missing from his set.",
+    "cn": "A：你和會計部的林先生好像每天午休都一起看硬幣，你們兩個到底在做什麼？ B：我們彼此【交換】硬幣，因為他有我需要的多餘歐洲硬幣，而我有幾枚他那套收藏缺少的日本硬幣。",
+    "collocation": "trade coins with other collectors 和其他收藏家交換硬幣"
+   },
+   {
+    "word": "spend",
+    "forms": "spend – spent – spent",
+    "pos": "v.",
+    "en_def": "to use money to buy things",
+    "cn_def": "花（錢）",
+    "sentence": "A: I still have a lot of euro coins left over from the conference in Paris, and banks here will not exchange them, so what can I do? B: Try to {{BLANK}} them at the airport shops before your next flight to Europe, because coins are usually impossible to change back into Taiwan dollars.",
+    "cn": "A：我在巴黎開會後還剩很多歐元硬幣，這裡的銀行不收，我該怎麼辦？ B：下次飛歐洲時試著在機場商店把它們【花掉】，因為硬幣通常沒辦法換回台幣。",
+    "collocation": "spend loose coins 花掉零散的硬幣"
+   },
+   {
+    "word": "save",
+    "pos": "v.",
+    "en_def": "to keep money instead of spending it",
+    "cn_def": "存（錢）",
+    "sentence": "A: Your daughter told me she wants to buy a new bicycle before the summer vacation starts, so how is she planning to pay for it? B: She has decided to {{BLANK}} all the coins she receives as pocket money in a large piggy bank, and I promised to pay half if she reaches her goal.",
+    "cn": "A：你女兒跟我說她想在暑假開始前買一台新腳踏車，她打算怎麼付錢？ B：她決定把收到的零用錢硬幣全部【存】進一個大撲滿裡，我答應她如果達到目標就幫她出一半。",
+    "collocation": "save coins in a piggy bank 把硬幣存進撲滿"
+   },
+   {
+    "word": "flip",
+    "pos": "v.",
+    "en_def": "to throw a coin into the air so that it turns over",
+    "cn_def": "擲（硬幣）",
+    "sentence": "A: Both teams want to present first at tomorrow's sales competition, and the manager doesn't want to treat either side unfairly, so how will she decide? B: She will {{BLANK}} a coin in front of both team leaders before the meeting starts, and the winner of the toss can choose to go first or second.",
+    "cn": "A：明天的業務比賽兩隊都想先報告，經理又不想對任何一方不公平，她會怎麼決定？ B：她會在會議開始前當著兩位隊長的面【擲】硬幣，猜贏的一方可以選擇先報告或後報告。",
+    "collocation": "flip a coin 擲硬幣"
+   },
+   {
+    "word": "deposit",
+    "pos": "v.",
+    "en_def": "to put money into a bank account",
+    "cn_def": "存入",
+    "sentence": "A: Our café collects a huge bag of coins from the tip jar every week, and it is getting too heavy to keep in the office, so what do you suggest? B: You can {{BLANK}} them at the bank's coin machine on Friday mornings, and the money goes straight into the café account without any extra fee.",
+    "cn": "A：我們咖啡館每週從小費罐收到一大袋硬幣，重到不適合放在辦公室，你有什麼建議？ B：你可以在週五早上用銀行的硬幣機把它們【存入】，錢會直接進到咖啡館的帳戶，不收額外手續費。",
+    "collocation": "deposit coins at the bank 把硬幣存入銀行"
+   },
+   {
+    "word": "count",
+    "pos": "v.",
+    "en_def": "to find the total number of something",
+    "cn_def": "數；計算",
+    "sentence": "A: The night manager says the cash register was short by about two hundred dollars yesterday, so what will we do differently from now on? B: Two staff members will {{BLANK}} all the coins and bills together at the end of every shift, and then both of them will sign the report before going home.",
+    "cn": "A：夜班經理說昨天收銀機短少了大約兩百元，從現在起我們要怎麼做？ B：每班結束時會由兩位員工一起【數】所有硬幣和鈔票，然後兩人都在報告上簽名才下班。",
+    "collocation": "count the coins 數硬幣"
+   },
+   {
+    "word": "collector",
+    "pos": "n.",
+    "en_def": "a person who collects things as a hobby",
+    "cn_def": "收藏家",
+    "sentence": "A: Who was that elderly gentleman asking so many questions at the information desk about the coin exhibition this morning? B: He is a famous {{BLANK}} from Tainan who owns more than ten thousand old coins, and he offered to lend us some of his best pieces for next year's show.",
+    "cn": "A：今天早上在服務台問了很多硬幣展覽問題的那位老先生是誰？ B：他是來自台南的知名【收藏家】，擁有超過一萬枚舊硬幣，還主動借我們幾枚他最好的硬幣參加明年的展覽。",
+    "collocation": "a serious coin collector 認真的錢幣收藏家"
+   },
+   {
+    "word": "numismatics",
+    "pos": "n.",
+    "en_def": "the study or collecting of coins and money",
+    "cn_def": "錢幣學",
+    "sentence": "A: The university is offering evening courses for adults next semester, and I am interested in history and money, so which class would you recommend? B: You should try the class on {{BLANK}}, because the professor teaches how to study old coins and what they tell us about trade and daily life in the past.",
+    "cn": "A：大學下學期開設成人夜間課程，我對歷史和金錢有興趣，你推薦哪一門課？ B：你應該試試【錢幣學】這門課，因為教授會教大家如何研究舊硬幣，以及它們能告訴我們過去的貿易和日常生活。",
+    "collocation": "a course in numismatics 錢幣學課程"
+   },
+   {
+    "word": "treasure",
+    "pos": "n.",
+    "en_def": "a collection of valuable things such as gold or coins",
+    "cn_def": "寶藏",
+    "sentence": "A: I read in the news that workers building the new subway station downtown found something unusual underground last week, so what was it? B: They discovered a hidden {{BLANK}} of about three hundred gold coins inside an old clay pot, and historians think a rich family buried it during a war.",
+    "cn": "A：我在新聞上看到，在市中心興建新捷運站的工人上週在地底發現不尋常的東西，那是什麼？ B：他們在一個舊陶罐裡發現了大約三百枚金幣的隱藏【寶藏】，歷史學家認為是某個富有家族在戰爭時埋下的。",
+    "collocation": "buried treasure 埋藏的寶藏"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Before traveling to Thailand, Ms. Chen changed her savings into the local _____. She wanted to pay for taxis in cash.",
+    "options": [
+     "currency",
+     "edge",
+     "collector",
+     "alloy"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The parking meter only accepts coins, so Mr. Ho searched his pockets for some _____. Luckily, he found three ten-dollar coins.",
+    "options": [
+     "reverse",
+     "circulation",
+     "change",
+     "engraving"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The new fifty-dollar coin is the largest _____ in the country's coin system. It replaced the old paper note last year.",
+    "options": [
+     "edge",
+     "denomination",
+     "treasure",
+     "collector"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The factory will _____ two million new coins next year from copper and nickel. Each coin will show the national flower.",
+    "options": [
+     "deposit",
+     "collect",
+     "flip",
+     "mint"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Gold is a soft _____, so it is rarely used for everyday coins. Coins made from it would wear down too quickly.",
+    "options": [
+     "face",
+     "metal",
+     "design",
+     "collector"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The coin is made from a strong _____ of copper, zinc, and nickel. This mixture does not rust easily.",
+    "options": [
+     "alloy",
+     "value",
+     "edge",
+     "treasure"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Students were invited to submit a _____ for the city's new souvenir coin. The winning picture showed the harbor at sunset.",
+    "options": [
+     "metal",
+     "circulation",
+     "design",
+     "denomination"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The artist spent three months creating the detailed _____ of a mountain on the silver coin. Every tree was cut by hand.",
+    "options": [
+     "collector",
+     "change",
+     "currency",
+     "engraving"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The ten-dollar coin has small lines all around its _____. This helps blind people recognize it quickly by touch.",
+    "options": [
+     "collector",
+     "edge",
+     "treasure",
+     "currency"
+    ],
+    "answer": 1,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The king's portrait appears on the _____ of every coin. The value is printed on the other side.",
+    "options": [
+     "change",
+     "alloy",
+     "currency",
+     "face"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The front of the coin shows a famous scientist. On the _____, you can see the year it was made and a small bird.",
+    "options": [
+     "denomination",
+     "currency",
+     "reverse",
+     "collector"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The old one-dollar coins were removed from _____ in 2015. Shops in the city no longer accept them for payment.",
+    "options": [
+     "circulation",
+     "treasure",
+     "metal",
+     "design"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Commemorative coins are _____, but few people use them in stores. Most owners keep them at home as souvenirs.",
+    "options": [
+     "edge",
+     "design",
+     "engraving",
+     "legal tender"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Experts say the _____ of this rare coin has doubled in five years. It is now sold for over a million dollars.",
+    "options": [
+     "edge",
+     "value",
+     "alloy",
+     "design"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Coins with printing mistakes are very _____ because most are destroyed at the factory. Collectors pay high prices for them.",
+    "options": [
+     "rare",
+     "shiny",
+     "worn",
+     "ancient"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "These silver coins are truly _____. Roman soldiers used them in Britain almost two thousand years ago during a long war.",
+    "options": [
+     "counterfeit",
+     "worn",
+     "ancient",
+     "shiny"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Only one thousand of these gold coins were made, so they are highly _____. Many buyers hope their value will rise.",
+    "options": [
+     "shiny",
+     "collectible",
+     "worn",
+     "ancient"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The newly made coins were so _____ that they reflected the light like mirrors. The bank gave them out during the holiday.",
+    "options": [
+     "worn",
+     "counterfeit",
+     "shiny",
+     "ancient"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "After fifty years of daily use, the coin is so _____ that you can hardly see the portrait. Vending machines no longer accept it.",
+    "options": [
+     "authentic",
+     "shiny",
+     "collectible",
+     "worn"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Police arrested two men for making _____ coins in a small garage. The fake coins looked real but were much lighter.",
+    "options": [
+     "counterfeit",
+     "authentic",
+     "rare",
+     "ancient"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The expert examined the old coin under a microscope for an hour. She confirmed that it was _____, not a modern copy.",
+    "options": [
+     "worn",
+     "shiny",
+     "counterfeit",
+     "authentic"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Mr. Park began to _____ stamps and coins when he was ten years old. Today his hobby fills an entire room.",
+    "options": [
+     "spend",
+     "collect",
+     "deposit",
+     "flip"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "At the weekend fair, collectors _____ coins with one another instead of paying cash. Each person hopes to complete a set.",
+    "options": [
+     "trade",
+     "flip",
+     "count",
+     "mint"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Tourists often try to _____ their last foreign coins at the airport. Banks at home usually refuse to exchange coins.",
+    "options": [
+     "collect",
+     "mint",
+     "spend",
+     "flip"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Emma decided to _____ every coin she received for a whole year. By December, she had enough money for a new camera.",
+    "options": [
+     "mint",
+     "save",
+     "spend",
+     "flip"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The referee will _____ a coin to decide which team kicks off first. The two captains must call heads or tails.",
+    "options": [
+     "save",
+     "mint",
+     "flip",
+     "deposit"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Every Friday, the shop manager goes to the bank to _____ the week's coins. The money goes directly into the store's account.",
+    "options": [
+     "spend",
+     "flip",
+     "mint",
+     "deposit"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The cashier had to _____ all the coins in the drawer before closing the store. The total was exactly 3,450 dollars.",
+    "options": [
+     "count",
+     "mint",
+     "trade",
+     "flip"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The famous _____ owns over five thousand coins from sixty countries. He plans to donate them to the national museum.",
+    "options": [
+     "alloy",
+     "collector",
+     "edge",
+     "denomination"
+    ],
+    "answer": 1,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Divers found a sunken ship full of _____ near the island. It included hundreds of Spanish gold coins and silver cups.",
+    "options": [
+     "treasure",
+     "design",
+     "face",
+     "edge"
+    ],
+    "answer": 0,
+    "vocabIndex": 31
+   }
+  ]
+ },
+ "64": {
+  "theme": "Colleague 同事",
+  "source": "https://www.examword.com/group-topic/colleague",
+  "VOCAB": [
+   {
+    "word": "colleague",
+    "pos": "n.",
+    "en_def": "a person you work with in the same company or profession",
+    "cn_def": "同事",
+    "sentence": "A: I heard you are leaving early on Friday afternoon to catch a flight to Tokyo, so who will answer your clients' calls while you are away? B: I asked a {{BLANK}} from the marketing department to cover for me, and she already knows most of my customers because we worked on several accounts together last year.",
+    "cn": "A：我聽說你週五下午要提早離開去搭飛往東京的班機，你不在的時候誰來接你客戶的電話？ B：我請了行銷部的一位【同事】幫我代班，她已經認識我大部分的客戶，因為我們去年一起負責過好幾個客戶帳戶。",
+    "collocation": "a close colleague 親近的同事"
+   },
+   {
+    "word": "coworker",
+    "pos": "n.",
+    "en_def": "a person who works with you at the same place",
+    "cn_def": "同事、同僚",
+    "sentence": "A: You look much happier at the office these days, so did something change after you moved to the new branch downtown? B: Yes, my new {{BLANK}} at the next desk showed me how to use the booking system on my first day, and now we often eat lunch together near the station.",
+    "cn": "A：你最近在辦公室看起來開心多了，搬到市中心的新分店後有什麼改變嗎？ B：有啊，坐我隔壁的新【同事】在我第一天就教我怎麼用訂位系統，現在我們常常一起在車站附近吃午餐。",
+    "collocation": "get along with a coworker 與同事相處融洽"
+   },
+   {
+    "word": "teammate",
+    "pos": "n.",
+    "en_def": "a person who is on the same team as you",
+    "cn_def": "隊友、團隊夥伴",
+    "sentence": "A: The sales competition between the branches ends next Monday, so how is your group doing compared with the other offices? B: We are in second place right now, but my {{BLANK}} Kevin just signed a big contract with a hotel chain this morning, so we may finally move into first place.",
+    "cn": "A：各分店之間的業績競賽下週一結束，你們這組和其他辦公室比起來表現如何？ B：我們目前排第二，但我的【隊友】凱文今天早上剛和一家連鎖飯店簽下一份大合約，所以我們也許終於能衝上第一名。",
+    "collocation": "work closely with a teammate 與隊友密切合作"
+   },
+   {
+    "word": "associate",
+    "pos": "n.",
+    "en_def": "a person you work or do business with",
+    "cn_def": "夥伴、合夥人、同事",
+    "sentence": "A: Our law firm needs someone to meet the client from Singapore at the airport tomorrow, but I have to be in court all day, so can you help? B: I will send my business {{BLANK}}, Ms. Huang, because she has handled this client's contracts before and speaks both English and Mandarin very well.",
+    "cn": "A：我們事務所明天需要有人去機場接來自新加坡的客戶，但我整天都要出庭，你能幫忙嗎？ B：我會派我的事業【夥伴】黃小姐去，因為她以前處理過這位客戶的合約，而且英語和中文都說得很好。",
+    "collocation": "a business associate 業務夥伴"
+   },
+   {
+    "word": "staff",
+    "pos": "n.",
+    "en_def": "all the people who work for an organization",
+    "cn_def": "全體員工、職員",
+    "sentence": "A: The hotel is going to be completely full during the international trade fair next week, so do we have enough people to work at the front desk? B: Not really, so the manager has hired five extra {{BLANK}} members for the busy period, and they will start training with us this Thursday morning.",
+    "cn": "A：下週國際貿易展期間飯店會完全客滿，我們有足夠的人手在櫃台工作嗎？ B：其實不太夠，所以經理為忙碌期間多聘了五名【工作人員】，他們這週四早上就會開始跟我們一起受訓。",
+    "collocation": "staff members 工作人員"
+   },
+   {
+    "word": "employee",
+    "pos": "n.",
+    "en_def": "a person who is paid to work for a company",
+    "cn_def": "員工、雇員",
+    "sentence": "A: The new factory near Taichung is opening in March, so how many people will the company need to hire before then? B: The plan is to hire about two hundred, and every new {{BLANK}} will receive two weeks of safety training before they are allowed to operate any of the machines on the production line.",
+    "cn": "A：台中附近的新工廠三月就要開幕了，公司在那之前需要雇用多少人？ B：計畫是雇用大約兩百人，每位新【員工】在被允許操作生產線上的任何機器之前，都會接受兩週的安全訓練。",
+    "collocation": "a full-time employee 全職員工"
+   },
+   {
+    "word": "manager",
+    "pos": "n.",
+    "en_def": "a person who controls or runs a department or business",
+    "cn_def": "經理、主管",
+    "sentence": "A: A customer just called to complain that her order arrived damaged for the second time this month, and she wants to speak to someone in charge. B: Please put her through to the store {{BLANK}}, because only he can approve a full refund and offer her free delivery on her next purchase.",
+    "cn": "A：一位顧客剛打來抱怨她的訂單這個月第二次送到時已經損壞，她想跟負責人說話。 B：請把電話轉給店【經理】，因為只有他能核准全額退款，並提供她下次購物免運費。",
+    "collocation": "a store manager 店經理"
+   },
+   {
+    "word": "supervisor",
+    "pos": "n.",
+    "en_def": "a person who watches and directs workers",
+    "cn_def": "主管、督導",
+    "sentence": "A: I made a mistake on the delivery schedule yesterday, and now two trucks are going to arrive at the warehouse at the same time, so what should I do? B: Tell your {{BLANK}} right away, because she can change the loading times and ask the night shift workers to help unload the extra boxes.",
+    "cn": "A：我昨天把送貨時程表弄錯了，現在兩輛卡車會同時抵達倉庫，我該怎麼辦？ B：馬上告訴你的【主管】，因為她可以更改裝貨時間，並請夜班工人幫忙卸下多出來的箱子。",
+    "collocation": "report to a supervisor 向主管報告"
+   },
+   {
+    "word": "partner",
+    "pos": "n.",
+    "en_def": "a person who owns or runs a business with another person",
+    "cn_def": "合夥人、夥伴",
+    "sentence": "A: Your new bakery has become very popular in the neighborhood, so how did you manage to open it so quickly after leaving your office job? B: My old university classmate became my {{BLANK}}, and she paid half of the rent and equipment costs while I focused on creating the recipes and training the staff.",
+    "cn": "A：你的新麵包店在附近變得很受歡迎，你離開辦公室工作後怎麼能這麼快就開店？ B：我的大學老同學成了我的【合夥人】，她負擔了一半的租金和設備費用，而我專心研發食譜和訓練員工。",
+    "collocation": "a business partner 事業合夥人"
+   },
+   {
+    "word": "professional",
+    "pos": "n.",
+    "en_def": "a person who is trained and skilled in a job",
+    "cn_def": "專業人士",
+    "sentence": "A: The pipes in the office kitchen are leaking again, and water is spreading across the floor, so should we try to fix them ourselves this afternoon? B: No, it is better to call a trained {{BLANK}} who has the right tools, because if we make the problem worse, the repair will cost much more.",
+    "cn": "A：辦公室茶水間的水管又漏水了，水正蔓延到整個地板上，我們今天下午要不要自己試著修理？ B：不，最好打電話找一位有合適工具、受過訓練的【專業人士】，因為如果我們把問題弄得更糟，修理費會貴很多。",
+    "collocation": "a trained professional 受過訓練的專業人士"
+   },
+   {
+    "word": "team",
+    "pos": "n.",
+    "en_def": "a group of people who work together",
+    "cn_def": "團隊",
+    "sentence": "A: The client wants the new website finished by the end of the month, which is much sooner than we expected, so can one designer do it alone? B: No, it is too much work for one person, so I am putting together a small {{BLANK}} of three designers and two programmers to share the job.",
+    "cn": "A：客戶希望新網站在月底前完成，比我們預期的早很多，一個設計師能獨自完成嗎？ B：不行，對一個人來說工作量太大了，所以我要組一個由三位設計師和兩位程式設計師組成的小【團隊】來分擔工作。",
+    "collocation": "put together a team 組成團隊"
+   },
+   {
+    "word": "workplace",
+    "pos": "n.",
+    "en_def": "the place where people work",
+    "cn_def": "工作場所、職場",
+    "sentence": "A: Many of our younger staff members say they feel tired and stressed by the end of the week, so what can the company do to help them? B: We should make the {{BLANK}} more comfortable by adding plants, quiet rooms and better lighting, and we could also let people work from home on Fridays.",
+    "cn": "A：我們許多年輕員工說他們到週末時感到疲累又有壓力，公司能做些什麼來幫助他們？ B：我們應該增加植物、安靜室和更好的照明，讓【工作場所】更舒適，也可以讓大家週五在家工作。",
+    "collocation": "a safe workplace 安全的工作場所"
+   },
+   {
+    "word": "cooperate",
+    "pos": "v.",
+    "en_def": "to work together with others to reach a goal",
+    "cn_def": "合作、配合",
+    "sentence": "A: The two departments have been arguing about the budget for weeks, and now the product launch is in danger of being delayed, so what should we do? B: The director called a meeting this morning and told both sides that they must {{BLANK}} with each other if they want the launch to happen on time.",
+    "cn": "A：兩個部門為了預算已經爭執好幾週，現在產品發表可能會延後，我們該怎麼辦？ B：主任今天早上召開會議，告訴雙方如果想讓發表會準時舉行，就必須彼此【合作】。",
+    "collocation": "cooperate with each other 彼此合作"
+   },
+   {
+    "word": "collaborate",
+    "pos": "v.",
+    "en_def": "to work together with someone to create or produce something",
+    "cn_def": "合作、協作",
+    "sentence": "A: Our company wants to design a new line of sports shoes for young runners, but we do not have much experience with that market, right? B: That is true, so we plan to {{BLANK}} with a famous local athlete and a design school in Taipei to create shoes that teenagers will really want to buy.",
+    "cn": "A：我們公司想為年輕跑者設計一系列新的運動鞋，但我們對那個市場沒有太多經驗，對吧？ B：沒錯，所以我們打算與一位知名的本地運動員和台北一所設計學校【協作】，打造青少年真正想買的鞋子。",
+    "collocation": "collaborate on a project 合作進行專案"
+   },
+   {
+    "word": "communicate",
+    "pos": "v.",
+    "en_def": "to share information or ideas with other people",
+    "cn_def": "溝通、傳達",
+    "sentence": "A: Since half of our department started working from home three days a week, people often miss important updates, so how can we fix this? B: We should {{BLANK}} more clearly by sending a short email summary every morning and holding a fifteen-minute video call before lunch on Mondays and Thursdays.",
+    "cn": "A：自從我們部門有一半的人開始每週在家工作三天，大家常常錯過重要的最新消息，我們要怎麼解決？ B：我們應該更清楚地【溝通】，每天早上寄一份簡短的電子郵件摘要，並在週一和週四午餐前舉行十五分鐘的視訊會議。",
+    "collocation": "communicate clearly 清楚地溝通"
+   },
+   {
+    "word": "support",
+    "pos": "v.",
+    "en_def": "to help and encourage someone",
+    "cn_def": "支持、支援",
+    "sentence": "A: I am worried about giving my first presentation to the board of directors next Tuesday, because my English is still not very fluent. B: Don't worry, the whole department will {{BLANK}} you, and I can help you practice your speech during our lunch breaks every day this week.",
+    "cn": "A：我很擔心下週二第一次向董事會做簡報，因為我的英文還不是很流利。 B：別擔心，整個部門都會【支持】你，而且這週每天午休時間我都可以幫你練習你的演講。",
+    "collocation": "support a colleague 支持同事"
+   },
+   {
+    "word": "respect",
+    "pos": "v.",
+    "en_def": "to admire someone and treat them well",
+    "cn_def": "尊重、敬重",
+    "sentence": "A: The new team leader is much younger than most of the engineers in our group, so do you think they will listen to her instructions? B: I think they will, because people quickly learn to {{BLANK}} someone who works hard, listens carefully and always explains her decisions in a calm and fair way.",
+    "cn": "A：新的組長比我們組裡大部分工程師都年輕得多，你覺得他們會聽她的指示嗎？ B：我想會的，因為人們很快就會【尊重】一個努力工作、仔細傾聽，而且總是冷靜公平地解釋自己決定的人。",
+    "collocation": "respect each other's opinions 尊重彼此的意見"
+   },
+   {
+    "word": "assist",
+    "pos": "v.",
+    "en_def": "to help someone do something",
+    "cn_def": "協助、幫助",
+    "sentence": "A: The conference room needs to be ready for sixty guests by nine o'clock tomorrow, but I still have to print all the name tags and handouts. B: I will ask two interns to {{BLANK}} you with setting up the chairs, the projector and the coffee table, so you can focus on the printing.",
+    "cn": "A：會議室明天九點前要準備好接待六十位來賓，但我還得印出所有的名牌和講義。 B：我會請兩位實習生【協助】你擺放椅子、投影機和咖啡桌，這樣你就能專心印東西了。",
+    "collocation": "assist customers 協助顧客"
+   },
+   {
+    "word": "reliable",
+    "pos": "adj.",
+    "en_def": "able to be trusted to do something well",
+    "cn_def": "可靠的",
+    "sentence": "A: We need someone to collect the payments from our stores every evening and take the money to the bank, so who would you recommend? B: I would choose Mr. Chen, because he is very {{BLANK}}; in ten years he has never been late, and he always checks every receipt twice before he leaves.",
+    "cn": "A：我們需要有人每天傍晚向各店收款，再把錢送到銀行，你會推薦誰？ B：我會選陳先生，因為他非常【可靠】；十年來他從沒遲到過，而且離開前總是把每張收據檢查兩次。",
+    "collocation": "a reliable employee 可靠的員工"
+   },
+   {
+    "word": "supportive",
+    "pos": "adj.",
+    "en_def": "giving help and encouragement to others",
+    "cn_def": "支持的、給予鼓勵的",
+    "sentence": "A: How did you feel during your first month at the accounting firm, since you had never worked in an office before? B: It was easier than I expected, because my coworkers were very {{BLANK}}, and they always answered my questions patiently and invited me to join them for lunch.",
+    "cn": "A：你在會計事務所的第一個月感覺如何？畢竟你以前從沒在辦公室工作過。 B：比我預期的輕鬆，因為我的同事們都非常【支持、照顧人】，總是耐心回答我的問題，還邀請我一起吃午餐。",
+    "collocation": "a supportive work environment 給予支持的工作環境"
+   },
+   {
+    "word": "helpful",
+    "pos": "adj.",
+    "en_def": "useful, or willing to help",
+    "cn_def": "有幫助的",
+    "sentence": "A: I need to find out how to change the shipping address on a customer's order, but the instructions in the computer system are really confusing. B: The video guide that the IT department made last month is very {{BLANK}}, because it shows every step slowly and clearly in less than five minutes.",
+    "cn": "A：我需要知道怎麼更改顧客訂單上的寄送地址，但電腦系統裡的說明真的很令人困惑。 B：資訊部上個月做的影片教學非常【有幫助】，因為它在五分鐘內就把每個步驟慢慢且清楚地示範出來。",
+    "collocation": "helpful advice 有用的建議"
+   },
+   {
+    "word": "experienced",
+    "pos": "adj.",
+    "en_def": "having knowledge or skill from doing something for a long time",
+    "cn_def": "有經驗的、經驗豐富的",
+    "sentence": "A: The new branch in Kaohsiung is losing money, and the staff there seem to have no clear plan, so what does head office want to do? B: They are sending an {{BLANK}} manager who has run three successful stores before, and she will stay there for six months to train the local team.",
+    "cn": "A：高雄的新分店在虧錢，那邊的員工似乎沒有明確的計畫，總公司打算怎麼做？ B：他們要派一位以前經營過三家成功門市、【經驗豐富的】經理，她會在那裡待六個月來訓練當地團隊。",
+    "collocation": "an experienced manager 經驗豐富的經理"
+   },
+   {
+    "word": "skilled",
+    "pos": "adj.",
+    "en_def": "having the ability and training to do something well",
+    "cn_def": "熟練的、有技術的",
+    "sentence": "A: The furniture factory has received a large order of handmade tables from a hotel in Japan, but the deadline is very tight, isn't it? B: Yes, so we are hiring several {{BLANK}} workers who can cut and shape wood quickly and accurately without wasting too much expensive material.",
+    "cn": "A：家具工廠接到日本一家飯店的大量手工桌子訂單，但期限很緊，不是嗎？ B：是的，所以我們正在雇用幾位能夠快速準確地切割和塑形木材、又不會浪費太多昂貴材料的【熟練】工人。",
+    "collocation": "skilled workers 熟練工人"
+   },
+   {
+    "word": "friendly",
+    "pos": "adj.",
+    "en_def": "kind and pleasant to other people",
+    "cn_def": "友善的",
+    "sentence": "A: What do our hotel guests usually say about their stay when they write reviews on the booking website after they check out? B: Most of them say the rooms are a little small, but the front desk staff are very {{BLANK}} and always greet them with a warm smile and useful tips about the city.",
+    "cn": "A：我們飯店的房客退房後在訂房網站寫評論時，通常怎麼評價他們的住宿？ B：他們大多說房間有點小，但櫃台人員非常【友善】，總是帶著溫暖的笑容迎接他們，還提供實用的城市旅遊建議。",
+    "collocation": "friendly service 友善的服務"
+   },
+   {
+    "word": "efficient",
+    "pos": "adj.",
+    "en_def": "working well without wasting time or money",
+    "cn_def": "有效率的",
+    "sentence": "A: Last year it took our office almost a week to process each customer's insurance claim, so why is it so much faster now? B: We started using new software that is far more {{BLANK}}, so most claims are checked and approved within two days without any extra paperwork.",
+    "cn": "A：去年我們辦公室處理每位客戶的保險理賠幾乎要花一週，為什麼現在快這麼多？ B：我們開始使用一套更【有效率】的新軟體，所以大部分理賠在兩天內就能審核並通過，不需要額外的文書作業。",
+    "collocation": "an efficient system 有效率的系統"
+   },
+   {
+    "word": "dedicated",
+    "pos": "adj.",
+    "en_def": "working hard and caring a lot about something",
+    "cn_def": "盡心盡力的、專注投入的",
+    "sentence": "A: Why did the company choose Ms. Lin as Employee of the Year, since there are so many hard-working people in the sales department? B: She is extremely {{BLANK}} to her customers; she often stays late to solve their problems and even visited a sick client in the hospital last winter.",
+    "cn": "A：銷售部有那麼多努力工作的人，公司為什麼選林小姐為年度最佳員工？ B：她對客戶極為【盡心盡力】；她常常加班到很晚幫他們解決問題，去年冬天甚至去醫院探望一位生病的客戶。",
+    "collocation": "a dedicated team 盡心盡力的團隊"
+   },
+   {
+    "word": "trustworthy",
+    "pos": "adj.",
+    "en_def": "able to be trusted; honest",
+    "cn_def": "值得信賴的",
+    "sentence": "A: We need someone to manage the key to the safe where we keep the company's important documents and cash, so who should we choose? B: Mrs. Wang has worked here for fifteen years and has never broken a rule, so I think she is the most {{BLANK}} person in the whole office.",
+    "cn": "A：我們需要有人管理存放公司重要文件和現金的保險箱鑰匙，該選誰呢？ B：王太太在這裡工作了十五年，從沒違反過任何規定，所以我認為她是整個辦公室最【值得信賴】的人。",
+    "collocation": "a trustworthy partner 值得信賴的夥伴"
+   },
+   {
+    "word": "busy",
+    "pos": "adj.",
+    "en_def": "having a lot of things to do",
+    "cn_def": "忙碌的",
+    "sentence": "A: Could we get together this week to talk about the new advertising plan for the summer sale, maybe on Wednesday afternoon? B: I am sorry, but I will be very {{BLANK}} until Thursday because I have to visit three clients and finish the monthly sales report, so how about Friday morning instead?",
+    "cn": "A：我們這週可以見個面討論夏季特賣的新廣告計畫嗎？也許週三下午？ B：抱歉，我到週四前都會非常【忙碌】，因為我要拜訪三位客戶並完成每月銷售報告，改成週五早上如何？",
+    "collocation": "a busy schedule 忙碌的行程"
+   },
+   {
+    "word": "meeting",
+    "pos": "n.",
+    "en_def": "an event where people come together to discuss something",
+    "cn_def": "會議",
+    "sentence": "A: Everyone in the marketing department seems to be in a hurry this morning, so is something important happening today? B: Yes, there is a {{BLANK}} with our biggest client at ten o'clock, and we need to show them the new advertising plan, the budget and the results of last month's survey.",
+    "cn": "A：今天早上行銷部每個人看起來都很匆忙，今天有什麼重要的事嗎？ B：是的，十點要和我們最大的客戶開【會議】，我們需要向他們展示新的廣告計畫、預算以及上個月的調查結果。",
+    "collocation": "hold a meeting 開會"
+   },
+   {
+    "word": "project",
+    "pos": "n.",
+    "en_def": "a planned piece of work with a clear goal",
+    "cn_def": "專案、計畫",
+    "sentence": "A: You have been working late every night this month, so what are you and the engineers busy with? B: We are working on a big {{BLANK}} to build a new solar power system for a shopping mall in Tainan, and the first stage must be finished before the end of December.",
+    "cn": "A：你這個月每晚都工作到很晚，你和工程師們在忙什麼？ B：我們正在進行一項大型【專案】，要為台南一家購物中心建造新的太陽能發電系統，第一階段必須在十二月底前完成。",
+    "collocation": "work on a project 進行專案"
+   },
+   {
+    "word": "task",
+    "pos": "n.",
+    "en_def": "a piece of work that must be done",
+    "cn_def": "任務、工作",
+    "sentence": "A: Now that you are the new office assistant, what will you have to do first every morning when you arrive at work? B: My first {{BLANK}} is to check the email inbox and answer customer questions, and after that I need to order office supplies and update the meeting calendar.",
+    "cn": "A：既然你是新的辦公室助理，你每天早上到公司首先要做什麼？ B：我的第一項【任務】是檢查電子郵件收件匣並回覆顧客的問題，之後我需要訂購辦公用品並更新會議行事曆。",
+    "collocation": "complete a task 完成任務"
+   },
+   {
+    "word": "feedback",
+    "pos": "n.",
+    "en_def": "comments about how good or bad something is",
+    "cn_def": "回饋、意見",
+    "sentence": "A: We tested the new mobile app with fifty customers last week, so what did they think about the design and the payment process? B: Most of the {{BLANK}} was positive, but several users said the buttons were too small, so the designers are making them bigger before the official launch next month.",
+    "cn": "A：我們上週讓五十位顧客試用了新的手機應用程式，他們對設計和付款流程有什麼看法？ B：大部分的【意見回饋】都是正面的，但有幾位使用者說按鈕太小，所以設計師正在下個月正式上線前把它們改大。",
+    "collocation": "positive feedback 正面回饋"
+   },
+   {
+    "word": "network",
+    "pos": "n.",
+    "en_def": "a group of people who know and help each other",
+    "cn_def": "人脈網絡",
+    "sentence": "A: You found your new job at the bank so quickly after you moved back to Taipei, so how did you do it? B: I have built a strong {{BLANK}} of contacts by going to business events and staying in touch with former colleagues, and one of them told me about the opening.",
+    "cn": "A：你搬回台北後這麼快就在銀行找到新工作，你是怎麼辦到的？ B：我透過參加商務活動並和以前的同事保持聯絡，建立了強大的人脈【網絡】，其中一位告訴了我這個職缺。",
+    "collocation": "build a professional network 建立職業人脈"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "I shared the taxi to the airport with a _____ from the accounting department. We have worked in the same office for six years.",
+    "options": [
+     "workplace",
+     "feedback",
+     "colleague",
+     "project"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Our basketball _____ scored the winning point in the company tournament on Saturday. Everyone in our department cheered loudly for him.",
+    "options": [
+     "workplace",
+     "teammate",
+     "feedback",
+     "network"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "All _____ must wear their ID cards while they are inside the building. Visitors should sign in at the front desk.",
+    "options": [
+     "staff",
+     "project",
+     "feedback",
+     "network"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Each new _____ receives a laptop and a parking card on the first day. The human resources office prepares them in advance.",
+    "options": [
+     "meeting",
+     "workplace",
+     "feedback",
+     "employee"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The restaurant _____ decided to close early because of the typhoon warning. She sent all the waiters home before six o'clock.",
+    "options": [
+     "project",
+     "task",
+     "manager",
+     "network"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Please ask your _____ to sign this form before you take your vacation days. Without a signature, we cannot approve your request.",
+    "options": [
+     "workplace",
+     "supervisor",
+     "feedback",
+     "project"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "After ten years as an employee, Mr. Lee became a _____ in the law firm. Now he owns part of the business.",
+    "options": [
+     "meeting",
+     "task",
+     "feedback",
+     "partner"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "If your computer keeps shutting down, you should take it to a _____ for repair. Trying to fix it yourself could cause more damage.",
+    "options": [
+     "professional",
+     "workplace",
+     "meeting",
+     "task"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Our sales _____ has six members, and each person covers a different area of the city. We meet every Monday morning.",
+    "options": [
+     "task",
+     "feedback",
+     "workplace",
+     "team"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The company wants to create a safe _____ for everyone, so it checks all the machines every month. Accidents have dropped by half.",
+    "options": [
+     "workplace",
+     "partner",
+     "feedback",
+     "manager"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The two shipping companies agreed to _____ during the holiday season. They will share trucks to deliver packages faster.",
+    "options": [
+     "respect",
+     "support",
+     "cooperate",
+     "communicate"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Staff in the Tokyo and Taipei offices _____ mainly by email and video calls. They rarely meet in person.",
+    "options": [
+     "respect",
+     "communicate",
+     "assist",
+     "support"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Many local businesses _____ the city marathon by giving money and free water. Their names are printed on the runners' shirts.",
+    "options": [
+     "communicate",
+     "cooperate",
+     "respect",
+     "support"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Good managers always _____ their employees' opinions, even when they disagree with them. This makes workers feel valued and safe.",
+    "options": [
+     "communicate",
+     "cooperate",
+     "respect",
+     "assist"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Our staff will be happy to _____ you with any questions about your hotel booking. Please call the front desk anytime.",
+    "options": [
+     "respect",
+     "assist",
+     "communicate",
+     "cooperate"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "We switched to a more _____ delivery company because the old one often lost packages. Our customers are much happier now.",
+    "options": [
+     "reliable",
+     "busy",
+     "supportive",
+     "friendly"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "My family was very _____ when I decided to quit my job and start my own business. They even lent me money.",
+    "options": [
+     "efficient",
+     "skilled",
+     "experienced",
+     "supportive"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The map at the station entrance was very _____ for tourists. It showed all the exits and nearby hotels.",
+    "options": [
+     "helpful",
+     "dedicated",
+     "busy",
+     "trustworthy"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "We are looking for an _____ chef who has worked in hotel kitchens for at least five years. Please send your resume by Friday.",
+    "options": [
+     "busy",
+     "friendly",
+     "experienced",
+     "supportive"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The factory needs more _____ workers who can operate the new machines safely. Training will be provided for two weeks.",
+    "options": [
+     "busy",
+     "skilled",
+     "trustworthy",
+     "supportive"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The waiter was so _____ and polite that we left him a big tip. He even recommended some good local dishes.",
+    "options": [
+     "busy",
+     "trustworthy",
+     "friendly",
+     "dedicated"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The new printer is much more _____ than the old one. It prints twice as fast and uses less electricity.",
+    "options": [
+     "friendly",
+     "supportive",
+     "dedicated",
+     "efficient"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Ms. Chen is a _____ nurse who has given her whole life to caring for patients. She has never missed a day of work.",
+    "options": [
+     "experienced",
+     "dedicated",
+     "efficient",
+     "busy"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Banks only hire _____ people to handle large amounts of cash. Every new teller must pass a background check.",
+    "options": [
+     "trustworthy",
+     "busy",
+     "friendly",
+     "supportive"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The restaurant is always _____ at lunchtime, so you should arrive before noon. Otherwise, you may wait thirty minutes for a table.",
+    "options": [
+     "trustworthy",
+     "busy",
+     "skilled",
+     "supportive"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The monthly sales _____ has been moved to Thursday afternoon. Please bring your reports to Conference Room B.",
+    "options": [
+     "partner",
+     "network",
+     "meeting",
+     "professional"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The new bridge _____ will cost about two billion dollars. Construction is expected to take three years.",
+    "options": [
+     "employee",
+     "feedback",
+     "colleague",
+     "project"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Cleaning the storage room is not a pleasant _____, but someone has to do it. Let's take turns every Friday.",
+    "options": [
+     "task",
+     "network",
+     "supervisor",
+     "workplace"
+    ],
+    "answer": 0,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The teacher gave us detailed _____ on our presentations. She said our slides were clear but our voices were too quiet.",
+    "options": [
+     "workplace",
+     "partner",
+     "network",
+     "feedback"
+    ],
+    "answer": 3,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Social media helps small business owners build a _____ of customers and suppliers. Many orders now come from online contacts.",
+    "options": [
+     "task",
+     "network",
+     "meeting",
+     "supervisor"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   }
+  ]
+ },
+ "65": {
+  "theme": "Collection 收藏",
+  "source": "https://www.examword.com/group-topic/collection",
+  "VOCAB": [
+   {
+    "word": "collector",
+    "pos": "n.",
+    "en_def": "a person who collects things as a hobby or business",
+    "cn_def": "收藏家",
+    "sentence": "A: The auction house is expecting a big crowd on Saturday, so who do you think will bid on the old Japanese stamps from the 1920s? B: A wealthy {{BLANK}} from Singapore has already called twice to ask about them, and she said she is willing to pay much more than the starting price.",
+    "cn": "A：拍賣行預計週六會有很多人來，你覺得誰會競標那些1920年代的日本舊郵票？ B：一位來自新加坡的富有【收藏家】已經打了兩次電話來詢問，她說她願意出比起標價高很多的價錢。",
+    "collocation": "a serious collector 認真的收藏家"
+   },
+   {
+    "word": "collectible",
+    "pos": "n.",
+    "en_def": "an object that people collect because it is valuable or interesting",
+    "cn_def": "收藏品",
+    "sentence": "A: I noticed that the toy company is producing only five thousand of the new robot figures this year, so why are customers lining up outside the shop before it even opens? B: Many fans see each figure as a {{BLANK}} that will become more valuable over time, so they want to buy one before they sell out.",
+    "cn": "A：我注意到那家玩具公司今年新的機器人公仔只生產五千個，為什麼顧客在店還沒開門前就在外面排隊？ B：很多粉絲把每個公仔都看成一件會隨著時間越來越值錢的【收藏品】，所以想在賣完之前買一個。",
+    "collocation": "a valuable collectible 有價值的收藏品"
+   },
+   {
+    "word": "hobby",
+    "pos": "n.",
+    "en_def": "an activity you enjoy doing in your free time",
+    "cn_def": "嗜好",
+    "sentence": "A: You always look so relaxed when you come back to the office on Monday mornings, so what do you usually do on the weekends? B: My favorite {{BLANK}} is collecting old vinyl records, so I spend most Saturdays visiting second-hand shops and markets around the city to look for rare albums.",
+    "cn": "A：你每週一早上回到辦公室時總是看起來很放鬆，你週末通常都做些什麼？ B：我最喜歡的【嗜好】是收集舊黑膠唱片，所以大部分的週六我都會去城市各處的二手店和市集尋找稀有的專輯。",
+    "collocation": "take up a hobby 培養一項嗜好"
+   },
+   {
+    "word": "rare",
+    "pos": "adj.",
+    "en_def": "not common; not found or seen very often",
+    "cn_def": "稀有的",
+    "sentence": "A: Why did the museum decide to put extra security guards in the new exhibition hall when the show opened last week? B: The hall contains several {{BLANK}} coins from ancient Rome, and since only a few of them exist anywhere in the world, the museum cannot risk losing even one.",
+    "cn": "A：上週展覽開幕時，博物館為什麼決定在新展廳增派保全人員？ B：展廳裡有幾枚來自古羅馬的【稀有】硬幣，而且全世界僅存幾枚，所以博物館連一枚都不能冒險遺失。",
+    "collocation": "a rare coin 稀有硬幣"
+   },
+   {
+    "word": "valuable",
+    "pos": "adj.",
+    "en_def": "worth a lot of money",
+    "cn_def": "貴重的；值錢的",
+    "sentence": "A: My grandfather left me a box of old watches when he moved into the care home, but I have no idea whether they are worth anything at all. B: You should take them to a professional dealer, because some of those older Swiss models can be very {{BLANK}} if they still work properly.",
+    "cn": "A：我祖父搬進安養院時留給我一盒舊手錶，但我完全不知道它們值不值錢。 B：你應該把它們拿給專業的經銷商看，因為有些較舊的瑞士錶款如果還能正常運作，可能非常【貴重】。",
+    "collocation": "a valuable item 貴重物品"
+   },
+   {
+    "word": "unique",
+    "pos": "adj.",
+    "en_def": "being the only one of its kind",
+    "cn_def": "獨一無二的",
+    "sentence": "A: Why is the gallery asking such a high price for that small painted plate in the corner of the front window? B: The artist made it by hand for a royal wedding in 1890, and because there is no other piece like it, the owner says it is completely {{BLANK}}.",
+    "cn": "A：為什麼畫廊對櫥窗角落那個小彩繪盤子開那麼高的價錢？ B：那是藝術家在1890年為一場皇室婚禮手工製作的，因為沒有其他作品和它一樣，老闆說它完全是【獨一無二的】。",
+    "collocation": "a unique piece 獨一無二的作品"
+   },
+   {
+    "word": "antique",
+    "pos": "adj.",
+    "en_def": "old and valuable, usually more than 100 years old",
+    "cn_def": "古董的",
+    "sentence": "A: The new hotel lobby looks very elegant, so did the designer buy all of this furniture from a modern store in Taipei? B: No, she found most of the {{BLANK}} chairs and tables at a market in France, and some of them were made more than a hundred and fifty years ago.",
+    "cn": "A：新飯店的大廳看起來非常優雅，設計師是在台北的現代家具店買這些家具的嗎？ B：不是，她大部分的【古董】桌椅都是在法國的市集找到的，有些甚至是一百五十多年前做的。",
+    "collocation": "antique furniture 古董家具"
+   },
+   {
+    "word": "souvenir",
+    "pos": "n.",
+    "en_def": "something you buy or keep to remember a place or event",
+    "cn_def": "紀念品",
+    "sentence": "A: Did you have enough free time to look around Kyoto after the sales conference finished on Thursday afternoon? B: Yes, I walked through the old streets for two hours and bought a small paper fan as a {{BLANK}} for my daughter, who loves anything traditional from Japan.",
+    "cn": "A：週四下午業務會議結束後，你有足夠的空閒時間逛逛京都嗎？ B：有，我在古老的街道上走了兩個小時，還買了一把小紙扇當作【紀念品】送給我女兒，她很喜歡日本的傳統東西。",
+    "collocation": "buy a souvenir 買紀念品"
+   },
+   {
+    "word": "album",
+    "pos": "n.",
+    "en_def": "a book with empty pages for keeping photos or stamps",
+    "cn_def": "相簿；集郵冊",
+    "sentence": "A: Where should we keep all the photos from the company's twentieth anniversary party so that visitors can look at them? B: Let's print the best ones and put them in a large leather {{BLANK}} on the table in the reception area, so guests can enjoy them while they wait.",
+    "cn": "A：公司二十週年派對的照片應該放在哪裡，讓訪客可以看？ B：我們把最好的照片印出來，放進接待區桌上的一本大皮革【相簿】裡，這樣客人等候時就可以欣賞。",
+    "collocation": "a photo album 相簿"
+   },
+   {
+    "word": "display",
+    "pos": "v.",
+    "en_def": "to put something where people can see it",
+    "cn_def": "展示；陳列",
+    "sentence": "A: The shop owner just received a large box of hand-painted model trains from Germany, so where is she planning to put them? B: She wants to {{BLANK}} them in the big glass cabinet near the entrance, because customers walking past on the street will notice them right away.",
+    "cn": "A：店主剛收到一大箱來自德國的手繪模型火車，她打算把它們放在哪裡？ B：她想把它們【展示】在入口附近的大玻璃櫃裡，因為走在街上的顧客馬上就會注意到。",
+    "collocation": "display items in a cabinet 在櫃子裡展示物品"
+   },
+   {
+    "word": "organize",
+    "pos": "v.",
+    "en_def": "to arrange things in a clear order",
+    "cn_def": "整理；安排",
+    "sentence": "A: Your stamp collection has grown so much since last year, but how do you find a particular stamp when you need it? B: Every Sunday evening I {{BLANK}} the new ones by country and year in separate folders, so I can find anything within a minute or two.",
+    "cn": "A：你的郵票收藏從去年到現在增加了好多，你需要某張郵票時要怎麼找到它？ B：每個週日晚上，我都會把新的郵票依國家和年份【整理】到不同的資料夾裡，所以我一兩分鐘內就能找到任何一張。",
+    "collocation": "organize a collection 整理收藏"
+   },
+   {
+    "word": "sort",
+    "pos": "v.",
+    "en_def": "to put things into groups by type, size, date, etc.",
+    "cn_def": "分類",
+    "sentence": "A: The library received hundreds of old postcards from a local family last week, so what are the volunteers doing with them now? B: They are helping the staff {{BLANK}} the cards into different boxes by city and decade before the library scans them and puts them online.",
+    "cn": "A：圖書館上週收到當地一戶人家捐的數百張舊明信片，志工們現在在做什麼？ B：他們正在幫工作人員把明信片按城市和年代【分類】到不同的箱子裡，之後圖書館會掃描並放上網。",
+    "collocation": "sort items by date 依日期分類物品"
+   },
+   {
+    "word": "series",
+    "pos": "n.",
+    "en_def": "a group of similar things that come one after another",
+    "cn_def": "系列",
+    "sentence": "A: Why do so many people come to the bookstore early on the first Friday of every month? B: That is the day the publisher releases the next comic in a popular {{BLANK}} about a young detective, and fans want to complete their sets as quickly as possible.",
+    "cn": "A：為什麼每個月第一個週五都有那麼多人一早就來書店？ B：那天出版社會發行一套熱門少年偵探【系列】漫畫的下一集，粉絲們想盡快把整套收齊。",
+    "collocation": "the latest in a series 系列中的最新一集"
+   },
+   {
+    "word": "edition",
+    "pos": "n.",
+    "en_def": "one form or printing of a book, coin, etc.",
+    "cn_def": "版本",
+    "sentence": "A: That old copy of the novel on your office shelf looks quite ordinary, so why are you so careful when anyone touches it? B: It is a first {{BLANK}} that was printed in 1952, and a book dealer told me it could be worth about three thousand dollars today.",
+    "cn": "A：你辦公室書架上那本舊小說看起來很普通，為什麼有人碰它時你都那麼小心？ B：那是1952年印刷的初【版】，一位書商告訴我它今天可能值三千美元左右。",
+    "collocation": "a first edition 初版"
+   },
+   {
+    "word": "limited",
+    "pos": "adj.",
+    "en_def": "small in number or amount",
+    "cn_def": "限量的；有限的",
+    "sentence": "A: Should we order the new anniversary mugs for our clients now, or can we wait until the end of the month? B: We should order them today, because the company is producing only a {{BLANK}} number of them, and the sales manager said they will probably sell out by next week.",
+    "cn": "A：我們應該現在就為客戶訂購新的週年紀念馬克杯，還是可以等到月底？ B：我們今天就該訂，因為公司只生產【有限】的數量，業務經理說下週大概就會賣完。",
+    "collocation": "a limited edition 限量版"
+   },
+   {
+    "word": "trade",
+    "pos": "v.",
+    "en_def": "to give something and receive something else in return",
+    "cn_def": "交換；交易",
+    "sentence": "A: My son has two copies of the same baseball card, but he is still missing the famous pitcher from Tainan. B: He could bring the extra card to the club meeting on Saturday and {{BLANK}} it with another member who might have the pitcher card he wants.",
+    "cn": "A：我兒子有兩張一樣的棒球卡，但他還缺那位來自台南的知名投手。 B：他可以把多的那張卡帶去週六的社團聚會，跟另一位可能有他想要的投手卡的成員【交換】。",
+    "collocation": "trade cards with friends 和朋友交換卡片"
+   },
+   {
+    "word": "swap",
+    "pos": "v.",
+    "en_def": "to exchange one thing for another",
+    "cn_def": "交換；調換",
+    "sentence": "A: I bought a blue team scarf at the stadium, but my wife says she really prefers the red one that you got. B: That's no problem, because I actually like blue better, so we can {{BLANK}} scarves tomorrow when we meet for lunch near the office.",
+    "cn": "A：我在體育場買了一條藍色球隊圍巾，但我太太說她其實比較喜歡你買的那條紅色的。 B：沒問題，因為我其實比較喜歡藍色，所以明天我們在辦公室附近吃午餐時可以【交換】圍巾。",
+    "collocation": "swap seats 交換座位"
+   },
+   {
+    "word": "duplicate",
+    "pos": "n.",
+    "en_def": "an exact copy of something",
+    "cn_def": "複本；重複品",
+    "sentence": "A: When we checked the shipment of old coins this morning, why did you put two of them aside in a separate envelope? B: Each of those coins was a {{BLANK}} of one that we already have in the museum, so we plan to sell them to raise money for repairs.",
+    "cn": "A：今天早上我們檢查那批舊硬幣時，你為什麼把其中兩枚另外放進一個信封裡？ B：那兩枚都是博物館已經有的硬幣的【重複品】，所以我們打算把它們賣掉來籌措修繕經費。",
+    "collocation": "make a duplicate 製作複本"
+   },
+   {
+    "word": "complete",
+    "pos": "adj.",
+    "en_def": "having all the parts; with nothing missing",
+    "cn_def": "完整的",
+    "sentence": "A: Your uncle has been buying those small model cars for almost thirty years, so is he still looking for more of them? B: He finally has a {{BLANK}} set of all the racing cars made in the 1960s, so now he only wants to keep them in good shape.",
+    "cn": "A：你叔叔買那些小模型車已經將近三十年了，他還在找更多嗎？ B：他終於擁有1960年代所有賽車的【完整】一套，所以現在他只想把它們保持在良好狀態。",
+    "collocation": "a complete set 一整套"
+   },
+   {
+    "word": "set",
+    "pos": "n.",
+    "en_def": "a group of things that belong together",
+    "cn_def": "一套；一組",
+    "sentence": "A: What gift should we give the retiring manager, since she loves drinking tea with her friends every afternoon? B: I saw a beautiful {{BLANK}} of hand-painted teacups and a matching pot at the department store, and I think she would really enjoy using them.",
+    "cn": "A：我們應該送即將退休的經理什麼禮物？她每天下午都喜歡和朋友喝茶。 B：我在百貨公司看到一【套】漂亮的手繪茶杯和配套茶壺，我想她一定會很喜歡用。",
+    "collocation": "a set of stamps 一套郵票"
+   },
+   {
+    "word": "theme",
+    "pos": "n.",
+    "en_def": "the main subject or idea of something",
+    "cn_def": "主題",
+    "sentence": "A: There are so many different stamps on the market, so how did you decide which ones to start collecting? B: I chose birds as my main {{BLANK}}, because I love nature, and now I have stamps showing birds from more than sixty different countries around the world.",
+    "cn": "A：市面上有那麼多不同的郵票，你是怎麼決定要開始收集哪些的？ B：我選了鳥類當作我的主要【主題】，因為我熱愛大自然，現在我有來自全世界六十多個國家、印有鳥類的郵票。",
+    "collocation": "a central theme 中心主題"
+   },
+   {
+    "word": "catalog",
+    "pos": "n.",
+    "en_def": "a list of items for sale, often with pictures and prices",
+    "cn_def": "目錄",
+    "sentence": "A: How can customers check which antique maps are available before they travel all the way to our shop? B: We send them an online {{BLANK}} every month that shows a photo, a short description, and the price of each map that we currently have in the store.",
+    "cn": "A：顧客要怎麼在大老遠來我們店之前，先查看有哪些古地圖可以買？ B：我們每個月會寄給他們一份線上【目錄】，裡面有店內目前每張地圖的照片、簡短描述和價格。",
+    "collocation": "an online catalog 線上目錄"
+   },
+   {
+    "word": "preserve",
+    "pos": "v.",
+    "en_def": "to keep something in good condition",
+    "cn_def": "保存",
+    "sentence": "A: Why does the museum keep the lights so dim in the room where the old letters and newspapers are shown? B: Strong light damages old paper very quickly, so the staff use soft lighting to {{BLANK}} the documents for the many future visitors and researchers who will come.",
+    "cn": "A：為什麼博物館展示舊信件和報紙的展間燈光那麼暗？ B：強光會很快損壞舊紙張，所以工作人員用柔和的燈光來【保存】這些文件，留給未來許多會來的參觀者和研究人員。",
+    "collocation": "preserve old documents 保存舊文件"
+   },
+   {
+    "word": "condition",
+    "pos": "n.",
+    "en_def": "the state that something is in",
+    "cn_def": "狀況；狀態",
+    "sentence": "A: The seller is asking eight hundred dollars for that old comic book, which seems like a lot of money to me. B: The price is high because the book is in excellent {{BLANK}}, with no torn pages or stains, even though it was printed more than sixty years ago.",
+    "cn": "A：賣家那本舊漫畫開價八百美元，我覺得這好像很貴。 B：價格高是因為那本書的【狀況】極佳，沒有任何撕破的頁面或汙漬，儘管它是六十多年前印的。",
+    "collocation": "in good condition 狀況良好"
+   },
+   {
+    "word": "storage",
+    "pos": "n.",
+    "en_def": "the keeping of things in a special place until they are needed",
+    "cn_def": "儲藏；存放",
+    "sentence": "A: Our office is moving to a smaller building next month, so what will we do with all the old files and sample products? B: The company has rented a {{BLANK}} unit near the airport, so we can keep everything there safely until we decide what to throw away.",
+    "cn": "A：我們辦公室下個月要搬到比較小的大樓，那些舊檔案和樣品要怎麼處理？ B：公司在機場附近租了一個【儲藏】空間，所以在我們決定要丟掉什麼之前，可以把所有東西安全地放在那裡。",
+    "collocation": "a storage unit 儲藏空間"
+   },
+   {
+    "word": "case",
+    "pos": "n.",
+    "en_def": "a box or container for keeping or protecting things",
+    "cn_def": "盒子；箱子",
+    "sentence": "A: I'm worried that the old silver coins will get scratched when we carry them to the trade show in Kaohsiung next week. B: Don't worry, because I bought a hard plastic {{BLANK}} with soft padding inside, so each coin will stay safe during the trip.",
+    "cn": "A：我擔心下週把那些舊銀幣帶去高雄商展時會被刮傷。 B：別擔心，我買了一個內有柔軟襯墊的硬塑膠【盒子】，所以每枚硬幣在路上都會很安全。",
+    "collocation": "a display case 展示櫃"
+   },
+   {
+    "word": "exhibit",
+    "pos": "v.",
+    "en_def": "to show something to the public, especially in a museum or gallery",
+    "cn_def": "展出",
+    "sentence": "A: The city art museum has been closed for two months, so do you know when it will open again to the public? B: It reopens next Monday, and it will {{BLANK}} more than two hundred old toys from a famous private collection for the first time ever.",
+    "cn": "A：市立美術館已經關閉兩個月了，你知道什麼時候會重新對外開放嗎？ B：下週一重新開放，而且會首次【展出】來自一個知名私人收藏的兩百多件古老玩具。",
+    "collocation": "exhibit artwork 展出藝術作品"
+   },
+   {
+    "word": "curious",
+    "pos": "adj.",
+    "en_def": "wanting to know or learn about something",
+    "cn_def": "好奇的",
+    "sentence": "A: Why did so many visitors stop at the small table in the corner of the exhibition hall this morning? B: The old machine on that table makes a strange sound when you turn the handle, so people were {{BLANK}} and wanted to find out what it was used for.",
+    "cn": "A：今天早上為什麼那麼多參觀者在展覽廳角落的小桌子前停下來？ B：那張桌上的舊機器在你轉動把手時會發出奇怪的聲音，所以大家都很【好奇】，想知道它是用來做什麼的。",
+    "collocation": "curious about the past 對過去感到好奇"
+   },
+   {
+    "word": "passion",
+    "pos": "n.",
+    "en_def": "a very strong interest in or love for something",
+    "cn_def": "熱愛；熱情",
+    "sentence": "A: Your manager seems to know a lot about old cameras, so has she always been interested in photography? B: Yes, her {{BLANK}} for cameras started when her father gave her one for her tenth birthday, and now she owns more than three hundred of them.",
+    "cn": "A：你的經理似乎很懂舊相機，她一直都對攝影有興趣嗎？ B：是的，她對相機的【熱愛】始於她十歲生日時父親送她一台相機，現在她擁有三百多台。",
+    "collocation": "a passion for collecting 對收藏的熱愛"
+   },
+   {
+    "word": "expand",
+    "pos": "v.",
+    "en_def": "to become larger or make something larger",
+    "cn_def": "擴大；擴展",
+    "sentence": "A: The small shop that sells old records has become very popular with young people over the past year, hasn't it? B: Yes, and the owner plans to {{BLANK}} the store next spring by renting the empty space next door, so she can add a listening area.",
+    "cn": "A：那家賣舊唱片的小店在過去一年很受年輕人歡迎，不是嗎？ B：是的，老闆打算明年春天租下隔壁的空店面來【擴大】店面，這樣她就能增加一個試聽區。",
+    "collocation": "expand a collection 擴大收藏"
+   },
+   {
+    "word": "search",
+    "pos": "v.",
+    "en_def": "to look carefully for something",
+    "cn_def": "搜尋；尋找",
+    "sentence": "A: How did you finally find that rare postcard of the old train station that you had wanted for so many years? B: I used to {{BLANK}} online auction sites every night after work, and last month someone in Canada listed exactly the card I needed.",
+    "cn": "A：你最後是怎麼找到那張你想要了好多年的舊火車站稀有明信片的？ B：我以前每天下班後都會【搜尋】網路拍賣網站，上個月加拿大有人剛好刊登了我需要的那張明信片。",
+    "collocation": "search online 上網搜尋"
+   },
+   {
+    "word": "discover",
+    "pos": "v.",
+    "en_def": "to find something for the first time",
+    "cn_def": "發現",
+    "sentence": "A: Is it true that the workers found something interesting while they were repairing the roof of the old bank building? B: Yes, they were surprised to {{BLANK}} a metal box full of old coins and letters hidden under the floor of the attic last Tuesday.",
+    "cn": "A：工人們在修理舊銀行大樓屋頂時找到了有趣的東西，是真的嗎？ B：是的，上週二他們驚訝地在閣樓地板下【發現】一個裝滿舊硬幣和信件的金屬盒。",
+    "collocation": "discover a hidden treasure 發現隱藏的寶藏"
+   },
+   {
+    "word": "treasure",
+    "pos": "n.",
+    "en_def": "something that is very valuable or special to someone",
+    "cn_def": "珍寶；寶物",
+    "sentence": "A: Why does your grandmother keep that old wooden box on the top shelf where nobody else can reach it? B: Inside it are letters my grandfather wrote to her during the war, and for her, they are the greatest {{BLANK}} she owns, more precious than any jewelry.",
+    "cn": "A：你祖母為什麼把那個舊木盒放在沒人搆得到的最上層架子上？ B：裡面是我祖父在戰爭期間寫給她的信，對她來說，那是她擁有最珍貴的【珍寶】，比任何珠寶都寶貴。",
+    "collocation": "a family treasure 傳家之寶"
+   },
+   {
+    "word": "enthusiast",
+    "pos": "n.",
+    "en_def": "a person who is very interested in a particular activity",
+    "cn_def": "愛好者；熱衷者",
+    "sentence": "A: Who is the man in the green jacket talking to the museum guide about the old steam engines? B: He is a railway {{BLANK}} from Australia who travels around the world every year to visit train museums and take photos of historic locomotives.",
+    "cn": "A：那個穿綠色夾克、正在和博物館導覽員談論舊蒸汽火車頭的男子是誰？ B：他是一位來自澳洲的鐵道【愛好者】，每年都環遊世界參觀火車博物館，並拍攝歷史悠久的火車頭。",
+    "collocation": "a car enthusiast 汽車愛好者"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The famous _____ donated his entire stamp collection to the city museum. He had been gathering stamps for more than fifty years.",
+    "options": [
+     "collector",
+     "storage",
+     "condition",
+     "catalog"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Gardening became her favorite _____ after she retired from the bank. She now spends every weekend planting flowers in her backyard.",
+    "options": [
+     "edition",
+     "catalog",
+     "hobby",
+     "duplicate"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "This orchid is so _____ that only a few hundred plants grow in the wild. Visitors must not touch the flowers.",
+    "options": [
+     "curious",
+     "rare",
+     "complete",
+     "antique"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Please keep your _____ items, such as jewelry and passports, in the hotel safe. The hotel is not responsible for lost property.",
+    "options": [
+     "complete",
+     "curious",
+     "limited",
+     "valuable"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Each handmade bowl has a _____ pattern, so no two are exactly alike. Customers enjoy choosing their favorite design.",
+    "options": [
+     "unique",
+     "curious",
+     "complete",
+     "limited"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The hotel lobby is decorated with a large _____ clock from the 1800s. Guests often stop to take photos of it.",
+    "options": [
+     "limited",
+     "curious",
+     "antique",
+     "complete"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Tourists can buy a small _____ at the gift shop before leaving the castle. Popular items include key chains and postcards.",
+    "options": [
+     "condition",
+     "theme",
+     "passion",
+     "souvenir"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Ms. Lin pasted the wedding photos into a white leather _____. She plans to give it to her daughter next month.",
+    "options": [
+     "condition",
+     "album",
+     "passion",
+     "theme"
+    ],
+    "answer": 1,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The bakery will _____ its new cakes in the front window this weekend. The manager hopes they will attract more customers.",
+    "options": [
+     "display",
+     "swap",
+     "expand",
+     "search"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Please _____ these files alphabetically before the auditors arrive on Monday. They will need to find each document quickly.",
+    "options": [
+     "exhibit",
+     "organize",
+     "discover",
+     "swap"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The publisher released the third book in its popular mystery _____ last month. Fans had waited two years for it.",
+    "options": [
+     "enthusiast",
+     "treasure",
+     "series",
+     "storage"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The magazine's holiday _____ includes a special section on gift ideas. It will be available in stores next Friday.",
+    "options": [
+     "storage",
+     "collector",
+     "hobby",
+     "edition"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Seats for the cooking class are _____, so please register early. Only twelve people can join each session.",
+    "options": [
+     "curious",
+     "limited",
+     "antique",
+     "valuable"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Many countries _____ goods such as rice and oil with their neighbors. This business creates thousands of jobs.",
+    "options": [
+     "exhibit",
+     "search",
+     "trade",
+     "preserve"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Could we _____ shifts next Tuesday? I have a dentist appointment in the morning and can work your evening shift instead.",
+    "options": [
+     "swap",
+     "preserve",
+     "discover",
+     "display"
+    ],
+    "answer": 0,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Please make a _____ of this contract and keep it in your files. The original must be sent to our lawyer today.",
+    "options": [
+     "souvenir",
+     "treasure",
+     "passion",
+     "duplicate"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The report is not _____ yet because two sales figures are still missing. Mr. Chen will finish it tomorrow.",
+    "options": [
+     "rare",
+     "curious",
+     "complete",
+     "antique"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The _____ of this year's company dinner is the 1980s. Employees are encouraged to wear clothes from that decade.",
+    "options": [
+     "theme",
+     "storage",
+     "duplicate",
+     "collector"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Customers can order furniture directly from our printed _____. Each page shows a photo, the size, and the price.",
+    "options": [
+     "hobby",
+     "catalog",
+     "enthusiast",
+     "passion"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Freezing fresh fruit is a simple way to _____ it for several months. Many farmers use this method in summer.",
+    "options": [
+     "swap",
+     "search",
+     "exhibit",
+     "preserve"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The used car is in excellent _____ and has very few kilometers on it. The dealer is offering it at a fair price.",
+    "options": [
+     "souvenir",
+     "condition",
+     "hobby",
+     "series"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The warehouse provides cold _____ for fresh vegetables and meat. Products can stay there safely for up to three weeks.",
+    "options": [
+     "storage",
+     "album",
+     "theme",
+     "enthusiast"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The gallery will _____ paintings by local artists throughout December. Admission is free for students and seniors.",
+    "options": [
+     "preserve",
+     "expand",
+     "exhibit",
+     "search"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Children are naturally _____ about the world around them. They often ask many questions about how things work.",
+    "options": [
+     "valuable",
+     "limited",
+     "antique",
+     "curious"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Mr. Wang has a real _____ for cooking and opened his own restaurant at fifty. He still creates every new dish himself.",
+    "options": [
+     "storage",
+     "passion",
+     "catalog",
+     "duplicate"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The company plans to _____ its business into Southeast Asia next year. It will open three new offices in Vietnam.",
+    "options": [
+     "swap",
+     "discover",
+     "preserve",
+     "expand"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Police officers will _____ the park for the missing dog this afternoon. Volunteers are welcome to help them.",
+    "options": [
+     "search",
+     "preserve",
+     "swap",
+     "exhibit"
+    ],
+    "answer": 0,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Scientists hope to _____ a cure for the disease within ten years. Their research is supported by a large grant.",
+    "options": [
+     "display",
+     "swap",
+     "discover",
+     "organize"
+    ],
+    "answer": 2,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The old diary is a family _____ that has been passed down for four generations. We keep it in a safe.",
+    "options": [
+     "catalog",
+     "storage",
+     "edition",
+     "treasure"
+    ],
+    "answer": 3,
+    "vocabIndex": 32
+   },
+   {
+    "q": "As a cycling _____, Ms. Park rides to work every day, even in the rain. She also joins races every spring.",
+    "options": [
+     "enthusiast",
+     "catalog",
+     "souvenir",
+     "storage"
+    ],
+    "answer": 0,
+    "vocabIndex": 33
+   }
+  ]
+ },
+ "66": {
+  "theme": "Color 顏色",
+  "source": "https://www.examword.com/group-topic/color",
+  "VOCAB": [
+   {
+    "word": "hue",
+    "pos": "n.",
+    "en_def": "a color or a type of color",
+    "cn_def": "色調；色彩",
+    "sentence": "A: The client from the hotel chain said the lobby design looks a little cold, so what changes should we make before Thursday's presentation? B: I suggest we choose a warmer {{BLANK}} for the walls, maybe a soft orange, because guests usually feel more relaxed when the space looks friendly and inviting.",
+    "cn": "A：連鎖飯店的客戶說大廳設計看起來有點冷冰冰，我們在週四簡報前應該做哪些修改？ B：我建議牆面選擇比較溫暖的【色調】，也許是柔和的橘色，因為空間看起來友善又吸引人時，客人通常會覺得比較放鬆。",
+    "collocation": "a warm hue 溫暖的色調"
+   },
+   {
+    "word": "shade",
+    "pos": "n.",
+    "en_def": "a lighter or darker form of a color",
+    "cn_def": "（顏色的）深淺；色度",
+    "sentence": "A: The printer delivered our new brochures this morning, but the logo looks different from the one on our website, doesn't it? B: You're right, the blue is a slightly darker {{BLANK}} than our official color, so I'll call the printing company and ask them to correct it before the trade fair next week.",
+    "cn": "A：印刷廠今天早上送來我們的新手冊，但標誌看起來跟網站上的不一樣，對吧？ B：你說得對，這個藍色的【深淺】比我們的官方顏色稍微深一點，所以我會打電話給印刷公司，請他們在下週商展前修正。",
+    "collocation": "a different shade of blue 不同深淺的藍色"
+   },
+   {
+    "word": "tint",
+    "pos": "n.",
+    "en_def": "a light amount of color added to something",
+    "cn_def": "淡色；（玻璃的）色膜",
+    "sentence": "A: Our sales team often drives clients around the city in the summer, so is there anything we can do to keep the company cars from getting so hot? B: The garage on Fifth Street can add a light gray {{BLANK}} to the windows, which blocks much of the strong sunlight but still lets the driver see clearly.",
+    "cn": "A：我們的業務團隊夏天常開車載客戶在市區跑，有什麼辦法能讓公司車不要那麼熱嗎？ B：第五街的修車廠可以在車窗加上淡灰色的【色膜】，能擋掉大部分強烈的陽光，但駕駛仍然看得很清楚。",
+    "collocation": "a slight tint of pink 淡淡的粉紅色調"
+   },
+   {
+    "word": "tone",
+    "pos": "n.",
+    "en_def": "the general quality of a color, such as how warm or dark it is",
+    "cn_def": "色調",
+    "sentence": "A: The photographer sent us the pictures for the new catalog, but the manager thinks they look too cold and serious, so what can we do? B: We can ask the designer to adjust the overall {{BLANK}} of the photos so the colors feel softer, because our furniture should look friendly and welcoming to families.",
+    "cn": "A：攝影師把新型錄的照片寄來了，但經理覺得看起來太冷、太嚴肅，我們能怎麼做？ B：我們可以請設計師調整照片的整體【色調】，讓顏色感覺柔和一點，因為我們的家具應該讓家庭覺得親切又溫馨。",
+    "collocation": "earth tones 大地色調"
+   },
+   {
+    "word": "pigment",
+    "pos": "n.",
+    "en_def": "a substance that gives color to paint, ink, or skin",
+    "cn_def": "色素；顏料",
+    "sentence": "A: Why are the art supplies from the new factory so much more expensive than the ones we sold last year? B: The company now uses a natural {{BLANK}} made from plants and minerals in all its paints, which is safer for children, and many schools are happy to pay a little more for that.",
+    "cn": "A：為什麼新工廠的美術用品比我們去年賣的貴那麼多？ B：這家公司現在所有的顏料都使用由植物和礦物製成的天然【色素】，對孩子比較安全，很多學校也願意為此多付一點錢。",
+    "collocation": "natural pigment 天然色素"
+   },
+   {
+    "word": "dye",
+    "pos": "n.",
+    "en_def": "a substance used to change the color of cloth or hair",
+    "cn_def": "染料",
+    "sentence": "A: The fashion company wants to promote its new T-shirts as environmentally friendly, but what makes them different from the ones other brands sell? B: Each shirt is colored with a plant-based {{BLANK}} that uses less water and no harmful chemicals, so the factory doesn't pollute the river near the village.",
+    "cn": "A：這家服飾公司想把新款T恤宣傳成環保產品，但它們和其他品牌賣的有什麼不同？ B：每件衣服都是用植物性的【染料】染色，用水較少也沒有有害化學物質，所以工廠不會污染村子附近的河川。",
+    "collocation": "natural dye 天然染料"
+   },
+   {
+    "word": "palette",
+    "pos": "n.",
+    "en_def": "a set of colors chosen for a design; a board for mixing paint",
+    "cn_def": "配色；調色盤",
+    "sentence": "A: The marketing director wants all of our posters, websites, and shopping bags to look like they belong to the same brand, so how should we plan the design? B: Let's choose a simple {{BLANK}} of four or five colors and use only those everywhere, so customers will recognize our products immediately.",
+    "cn": "A：行銷總監希望我們所有的海報、網站和購物袋看起來都屬於同一個品牌，那我們該怎麼規劃設計？ B：我們挑一組四到五種顏色的簡單【配色】，並且到處都只用這些顏色，這樣顧客就能立刻認出我們的產品。",
+    "collocation": "a color palette 配色組合"
+   },
+   {
+    "word": "vivid",
+    "pos": "adj.",
+    "en_def": "very bright and strong (of colors)",
+    "cn_def": "鮮豔的",
+    "sentence": "A: Our new restaurant is on a busy street with many other shops, so how can we make sure people notice it when they walk past? B: We should paint the front door and the sign in {{BLANK}} red and yellow, because strong colors catch people's attention even from across the road.",
+    "cn": "A：我們的新餐廳在一條有很多其他店家的熱鬧街上，要怎樣確保路人經過時會注意到它？ B：我們應該把大門和招牌漆成【鮮豔的】紅色和黃色，因為強烈的顏色即使隔著馬路也能吸引人們注意。",
+    "collocation": "vivid colors 鮮豔的色彩"
+   },
+   {
+    "word": "bright",
+    "pos": "adj.",
+    "en_def": "strong, full of light, and easy to see",
+    "cn_def": "明亮的；鮮亮的",
+    "sentence": "A: The children's hospital asked us to redesign the waiting room on the second floor, so what kind of colors do you think would work best? B: I'd use cheerful, {{BLANK}} colors like sunny yellow and sky blue, since young patients often feel nervous and a happy space can help them calm down.",
+    "cn": "A：兒童醫院請我們重新設計二樓的候診室，你覺得哪種顏色最適合？ B：我會用開朗、【明亮的】顏色，像陽光黃和天空藍，因為小病人常會緊張，一個快樂的空間能幫助他們平靜下來。",
+    "collocation": "bright colors 明亮的色彩"
+   },
+   {
+    "word": "pale",
+    "pos": "adj.",
+    "en_def": "light in color; not strong",
+    "cn_def": "淡的；淺的；蒼白的",
+    "sentence": "A: The new meeting room feels very small and crowded, even though only eight people usually sit in there, so what can we do without moving any walls? B: Painting the walls a {{BLANK}} green or light gray would make the room look bigger, especially if we also add a large mirror near the window.",
+    "cn": "A：新的會議室感覺很小又很擠，雖然通常只有八個人坐在裡面，不拆牆的話我們能怎麼做？ B：把牆漆成【淺】綠色或淺灰色會讓房間看起來比較大，尤其是如果我們也在窗戶旁加一面大鏡子的話。",
+    "collocation": "pale blue 淡藍色"
+   },
+   {
+    "word": "dark",
+    "pos": "adj.",
+    "en_def": "close to black in color",
+    "cn_def": "深色的；暗的",
+    "sentence": "A: The uniforms for our delivery drivers get dirty very quickly because they spend all day carrying boxes, so should we order different ones? B: Yes, I think {{BLANK}} blue or black uniforms would be more practical, because they hide dust and stains much better than the white shirts we have now.",
+    "cn": "A：我們送貨司機的制服很快就髒了，因為他們整天都在搬箱子，我們應該訂不同的嗎？ B：是的，我覺得【深】藍色或黑色的制服比較實用，因為它們比我們現在的白襯衫更能遮住灰塵和污漬。",
+    "collocation": "dark colors 深色"
+   },
+   {
+    "word": "pastel",
+    "pos": "adj.",
+    "en_def": "soft and light (of colors)",
+    "cn_def": "粉彩的；柔和淡色的",
+    "sentence": "A: The bakery owner wants the packaging for her spring cookie collection to look gentle and sweet, so what do you recommend for the boxes? B: Soft {{BLANK}} colors such as light pink, mint green, and baby blue would be perfect, because they remind customers of flowers and the warm spring weather.",
+    "cn": "A：烘焙坊老闆希望她春季餅乾系列的包裝看起來溫柔又甜美，你建議盒子用什麼？ B：柔和的【粉彩】色，例如淺粉紅、薄荷綠和嬰兒藍會很完美，因為它們會讓顧客聯想到花朵和溫暖的春天天氣。",
+    "collocation": "pastel colors 粉彩色"
+   },
+   {
+    "word": "neon",
+    "pos": "adj.",
+    "en_def": "extremely bright, as if giving off light",
+    "cn_def": "螢光的；霓虹的",
+    "sentence": "A: Our cycling club is going to ride along the coast road early in the morning, so what should members wear to stay safe in the traffic? B: Everyone should wear a {{BLANK}} yellow or orange vest, because drivers can see those very bright colors from far away, even when it's foggy.",
+    "cn": "A：我們的自行車社要一大早沿著海岸公路騎車，社員該穿什麼才能在車流中保持安全？ B：每個人都應該穿【螢光】黃或橘色的背心，因為駕駛即使在起霧時也能從很遠的地方看到那些非常亮的顏色。",
+    "collocation": "neon green 螢光綠"
+   },
+   {
+    "word": "bold",
+    "pos": "adj.",
+    "en_def": "strong and easy to notice",
+    "cn_def": "醒目的；大膽的",
+    "sentence": "A: The sports drink company wants its new advertisement to feel exciting and full of energy, so which design should we show them first? B: Let's start with the version that uses {{BLANK}} red and black stripes, because those strong, confident colors match the young athletes in the photos very well.",
+    "cn": "A：那家運動飲料公司希望新廣告感覺刺激又充滿活力，我們應該先給他們看哪個設計？ B：我們先從使用【醒目的】紅黑條紋的版本開始，因為那些強烈又有自信的顏色和照片中的年輕運動員非常搭。",
+    "collocation": "bold colors 醒目的色彩"
+   },
+   {
+    "word": "muted",
+    "pos": "adj.",
+    "en_def": "soft and not bright",
+    "cn_def": "柔和的；不鮮豔的",
+    "sentence": "A: The law firm on the tenth floor wants its new office to look calm and serious for clients, so what kind of colors should we suggest? B: I'd recommend {{BLANK}} colors like soft gray, beige, and dusty blue, because bright colors might seem too playful for a professional legal office.",
+    "cn": "A：十樓的律師事務所希望新辦公室給客戶沉穩、正式的感覺，我們該建議哪種顏色？ B：我會推薦【柔和的】顏色，像淺灰、米色和灰藍色，因為鮮豔的顏色對專業的法律事務所來說可能顯得太活潑。",
+    "collocation": "muted tones 柔和的色調"
+   },
+   {
+    "word": "warm",
+    "pos": "adj.",
+    "en_def": "(of colors) like red, orange, or yellow",
+    "cn_def": "暖色的",
+    "sentence": "A: Customers say our café feels a bit cold and empty in the evening, even though the food is good, so how can we change that feeling? B: We could use {{BLANK}} colors like orange and soft red on the walls and change the lights, so the space feels cozy and inviting at night.",
+    "cn": "A：客人說我們咖啡館晚上感覺有點冷清，雖然食物很好吃，我們該怎麼改變這種感覺？ B：我們可以在牆上用橘色和柔和的紅色等【暖】色，並更換燈光，讓空間在晚上感覺舒適又吸引人。",
+    "collocation": "warm colors 暖色系"
+   },
+   {
+    "word": "cool",
+    "pos": "adj.",
+    "en_def": "(of colors) like blue or green",
+    "cn_def": "冷色的",
+    "sentence": "A: Our spa is opening a new relaxation room next month, and the owner wants guests to feel calm and peaceful the moment they enter, so what colors should we use? B: I'd choose {{BLANK}} colors such as light blue and soft green, because they remind people of water and nature.",
+    "cn": "A：我們的水療中心下個月要開一間新的放鬆室，老闆希望客人一進門就感到平靜祥和，我們該用什麼顏色？ B：我會選擇淺藍和柔和的綠色等【冷】色系，因為它們會讓人聯想到水和大自然。",
+    "collocation": "cool colors 冷色系"
+   },
+   {
+    "word": "contrast",
+    "pos": "n.",
+    "en_def": "a clear difference between two colors or things",
+    "cn_def": "對比",
+    "sentence": "A: Some older customers have complained that the text on our website is hard to read, especially on their phones, so what should we fix first? B: We need more {{BLANK}} between the words and the background, so let's change the light gray text to black and keep the background white.",
+    "cn": "A：有些年長的客人抱怨我們網站上的文字很難閱讀，尤其是在手機上，我們應該先修正什麼？ B：我們需要讓文字和背景之間有更多【對比】，所以把淺灰色的文字改成黑色，背景維持白色。",
+    "collocation": "a strong contrast 強烈的對比"
+   },
+   {
+    "word": "blend",
+    "pos": "v.",
+    "en_def": "to mix together smoothly; to look like part of the surroundings",
+    "cn_def": "混合；融合",
+    "sentence": "A: The new warehouse is next to a forest park, and some neighbors worried that it would look ugly from the walking trails, so what did the architects do? B: They painted the outside walls green and brown so the building would {{BLANK}} in with the trees, and now most visitors hardly notice it.",
+    "cn": "A：新倉庫就在森林公園旁邊，有些鄰居擔心從步道看過去會很醜，建築師怎麼處理的？ B：他們把外牆漆成綠色和棕色，讓建築【融入】樹林中，現在大部分遊客幾乎不會注意到它。",
+    "collocation": "blend in with the surroundings 與周遭環境融為一體"
+   },
+   {
+    "word": "fade",
+    "pos": "v.",
+    "en_def": "to slowly lose color or brightness",
+    "cn_def": "褪色；變淡",
+    "sentence": "A: The large banner outside our shop looked great when we hung it last spring, so why does it look so old and pale now? B: It has been in strong sunlight every afternoon for months, and cheap materials tend to {{BLANK}} quickly, so next time we should pay a little more for a sun-resistant one.",
+    "cn": "A：我們店外面的大型布條去年春天掛上去時看起來很棒，為什麼現在看起來又舊又淡？ B：它好幾個月每天下午都曬在強烈的陽光下，而便宜的材料往往很快就會【褪色】，所以下次我們應該多花一點錢買抗曬的。",
+    "collocation": "colors fade in the sun 顏色在陽光下褪色"
+   },
+   {
+    "word": "glow",
+    "pos": "v.",
+    "en_def": "to give out a soft, steady light",
+    "cn_def": "發光；發亮",
+    "sentence": "A: The hotel wants guests to find the emergency exits easily if the power suddenly goes off during the night, so what kind of signs should we install? B: We should buy special signs that {{BLANK}} in the dark for several hours, because they still work even when there is no electricity at all.",
+    "cn": "A：飯店希望如果晚上突然停電，客人也能輕鬆找到緊急出口，我們應該安裝哪種標誌？ B：我們應該買能在黑暗中【發光】好幾個小時的特殊標誌，因為就算完全沒電也還能發揮作用。",
+    "collocation": "glow in the dark 在黑暗中發光"
+   },
+   {
+    "word": "sparkle",
+    "pos": "v.",
+    "en_def": "to shine with many small flashes of light",
+    "cn_def": "閃閃發光",
+    "sentence": "A: The jewelry store manager thinks the new diamond rings don't look as attractive in the window display as they did in the catalog, so what should we change? B: Let's add some small spotlights above the display, because diamonds {{BLANK}} much more when strong light hits them from different directions.",
+    "cn": "A：珠寶店經理覺得新款鑽戒在櫥窗展示中不像在型錄裡那麼吸引人，我們該改什麼？ B：我們在展示櫃上方加一些小聚光燈吧，因為強光從不同方向照射時，鑽石會更加【閃閃發光】。",
+    "collocation": "sparkle under the lights 在燈光下閃閃發亮"
+   },
+   {
+    "word": "transparent",
+    "pos": "adj.",
+    "en_def": "clear enough to see through",
+    "cn_def": "透明的",
+    "sentence": "A: Customers keep asking whether our salads are fresh before they buy them, so how can we show them the quality more clearly at the counter? B: Let's switch to {{BLANK}} plastic boxes, so people can see the fresh vegetables inside without opening the lid, and they will feel more confident about buying them.",
+    "cn": "A：客人在買沙拉前一直問是不是新鮮的，我們要怎麼在櫃檯更清楚地展現品質？ B：我們改用【透明的】塑膠盒吧，這樣大家不用打開蓋子就能看到裡面的新鮮蔬菜，買的時候也會更放心。",
+    "collocation": "transparent packaging 透明包裝"
+   },
+   {
+    "word": "translucent",
+    "pos": "adj.",
+    "en_def": "letting some light through but not clear",
+    "cn_def": "半透明的",
+    "sentence": "A: The new office has glass walls around every meeting room, but some managers feel uncomfortable because everyone walking past can see exactly what they are doing, so any ideas? B: We could cover the glass with a {{BLANK}} film that still lets daylight in but makes the people inside look blurry from the hallway.",
+    "cn": "A：新辦公室每間會議室周圍都是玻璃牆，但有些經理覺得不自在，因為每個經過的人都能清楚看到他們在做什麼，有什麼點子嗎？ B：我們可以在玻璃上貼一層【半透明的】膜，仍然能讓日光進來，但從走廊看裡面的人會變得模糊。",
+    "collocation": "translucent glass 半透明玻璃"
+   },
+   {
+    "word": "opaque",
+    "pos": "adj.",
+    "en_def": "not letting light through; impossible to see through",
+    "cn_def": "不透明的",
+    "sentence": "A: Our medicine bottles are currently made of clear plastic, but the lab report says sunlight can damage the pills inside, so what should we do about the packaging? B: We should switch to {{BLANK}} white bottles that block the light completely, even though they will cost the company a little more to produce.",
+    "cn": "A：我們的藥瓶目前是用透明塑膠做的，但實驗室報告說陽光可能會損害裡面的藥丸，包裝該怎麼處理？ B：我們應該改用能完全阻擋光線的【不透明】白色瓶子，雖然公司的生產成本會稍微增加。",
+    "collocation": "opaque packaging 不透明包裝"
+   },
+   {
+    "word": "monochrome",
+    "pos": "adj.",
+    "en_def": "using only one color, or only black and white",
+    "cn_def": "單色的；黑白的",
+    "sentence": "A: The photography exhibition at the city gallery has received excellent reviews, so what makes it different from the other shows this year? B: All the photos are {{BLANK}}, using only black, white, and gray, and many visitors say the lack of color makes the faces and emotions in the pictures feel much stronger.",
+    "cn": "A：市立美術館的攝影展得到極佳的評價，它和今年其他展覽有什麼不同？ B：所有照片都是【黑白單色的】，只用黑、白、灰，很多參觀者說缺少色彩反而讓照片中的臉孔和情感更加強烈。",
+    "collocation": "monochrome photographs 黑白照片"
+   },
+   {
+    "word": "multicolored",
+    "pos": "adj.",
+    "en_def": "having many different colors",
+    "cn_def": "多色的；五顏六色的",
+    "sentence": "A: The toy company asked us to design a new set of building blocks for young children, so what do you think will attract parents in the stores? B: A box of {{BLANK}} blocks in red, yellow, green, and blue would look fun on the shelf, and the different colors can also help kids learn while they play.",
+    "cn": "A：玩具公司請我們為幼童設計一套新的積木，你覺得什麼會在店裡吸引家長？ B：一盒紅、黃、綠、藍的【五顏六色】積木放在架上看起來會很有趣，不同的顏色也能幫助孩子邊玩邊學習。",
+    "collocation": "multicolored lights 彩色燈光"
+   },
+   {
+    "word": "colorful",
+    "pos": "adj.",
+    "en_def": "full of bright colors",
+    "cn_def": "色彩繽紛的",
+    "sentence": "A: The night market downtown has become very popular with tourists from Japan and Korea, so what do visitors enjoy most when they walk around there? B: Most of them love the {{BLANK}} food stalls with their bright lights and signs, and they take hundreds of photos before they even start eating.",
+    "cn": "A：市中心的夜市在日本和韓國遊客之間變得非常受歡迎，遊客在那裡逛的時候最喜歡什麼？ B：他們大多喜歡那些燈光和招牌明亮、【色彩繽紛的】小吃攤，甚至在開始吃之前就拍了好幾百張照片。",
+    "collocation": "a colorful display 色彩繽紛的陳列"
+   },
+   {
+    "word": "colorless",
+    "pos": "adj.",
+    "en_def": "having no color",
+    "cn_def": "無色的",
+    "sentence": "A: Some customers worry that our new cleaning spray might leave marks on their light carpets and white sofas, so what should we tell them? B: Please explain that the liquid is completely {{BLANK}} and has no dye in it, so it won't stain any fabric, even after many uses.",
+    "cn": "A：有些客人擔心我們新的清潔噴霧可能會在他們的淺色地毯和白沙發上留下痕跡，我們該怎麼跟他們說？ B：請解釋這種液體完全【無色】，裡面也沒有染料，所以即使用了很多次也不會弄髒任何布料。",
+    "collocation": "a colorless liquid 無色液體"
+   },
+   {
+    "word": "saturated",
+    "pos": "adj.",
+    "en_def": "(of colors) very strong and full",
+    "cn_def": "飽和的；濃烈的",
+    "sentence": "A: The photos for our travel brochure look a bit dull compared to the real beaches we visited, so can the designer improve them before we print? B: Yes, she can make the blues and greens more {{BLANK}} so the sea and trees look rich and deep, but she shouldn't go too far or they'll look fake.",
+    "cn": "A：我們旅遊手冊的照片跟我們實際去過的海灘比起來有點黯淡，設計師能在印刷前改善嗎？ B：可以，她可以讓藍色和綠色更【飽和】，讓海和樹看起來濃郁深沉，但不能調過頭，不然會看起來很假。",
+    "collocation": "saturated colors 飽和的色彩"
+   },
+   {
+    "word": "gradient",
+    "pos": "n.",
+    "en_def": "a slow change from one color to another",
+    "cn_def": "漸層",
+    "sentence": "A: The new app's start screen looks too flat and boring compared with our competitors' apps, so what could the design team try this week? B: They could use a smooth {{BLANK}} that changes from deep purple at the top to light pink at the bottom, which would make the screen feel modern and lively.",
+    "cn": "A：新應用程式的開始畫面和競爭對手的比起來太平淡無趣了，設計團隊這週可以試試什麼？ B：他們可以用一個從頂部深紫色到底部淺粉紅色的平順【漸層】，會讓畫面感覺現代又活潑。",
+    "collocation": "a color gradient 色彩漸層"
+   },
+   {
+    "word": "iridescent",
+    "pos": "adj.",
+    "en_def": "showing changing rainbow colors as the light moves",
+    "cn_def": "隨光變色的；彩虹色的",
+    "sentence": "A: The cosmetics company wants its new perfume bottle to look special on the shelf next to dozens of other brands, so what material are they thinking about? B: They're testing an {{BLANK}} glass that shows different rainbow colors when customers turn it in the light, just like a soap bubble or a seashell.",
+    "cn": "A：化妝品公司希望新的香水瓶在架上和幾十個其他品牌並列時看起來很特別，他們在考慮什麼材質？ B：他們在測試一種【隨光變幻彩虹色的】玻璃，當顧客在光線下轉動它時會呈現不同的顏色，就像肥皂泡或貝殼一樣。",
+    "collocation": "iridescent feathers 閃著虹彩的羽毛"
+   },
+   {
+    "word": "neutral",
+    "pos": "adj.",
+    "en_def": "(of colors) not strong, such as beige, gray, or cream",
+    "cn_def": "中性色的",
+    "sentence": "A: We're furnishing twenty apartments for business travelers who usually stay for one or two months, so what color should we choose for the sofas and curtains? B: I think {{BLANK}} colors like beige, cream, and gray are the safest choice, because they match almost any style and most guests feel comfortable with them.",
+    "cn": "A：我們要為通常停留一兩個月的商務旅客佈置二十間公寓，沙發和窗簾該選什麼顏色？ B：我認為米色、奶油色和灰色等【中性】色是最安全的選擇，因為它們幾乎能搭配任何風格，大部分客人也覺得很舒服。",
+    "collocation": "neutral colors 中性色"
+   },
+   {
+    "word": "pigmented",
+    "pos": "adj.",
+    "en_def": "having a lot of strong color",
+    "cn_def": "顯色的；色素飽滿的",
+    "sentence": "A: Our makeup customers often complain that cheap lipsticks need to be put on again and again during a long workday, so what should we say about the new product line? B: Tell them the new lipsticks are highly {{BLANK}}, so just one layer gives a rich color that lasts for eight hours without fading.",
+    "cn": "A：我們的彩妝客人常抱怨便宜的口紅在漫長的工作日裡要一直補擦，關於新產品線我們該怎麼介紹？ B：告訴他們新口紅非常【顯色】，只要擦一層就能呈現濃郁的色彩，而且能持續八小時不褪色。",
+    "collocation": "highly pigmented lipstick 高顯色口紅"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The medicine must be stored in _____ bottles because light can damage it. Clear containers are not allowed in our pharmacy.",
+    "options": [
+     "transparent",
+     "opaque",
+     "colorful",
+     "pastel"
+    ],
+    "answer": 1,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Red, orange, and yellow are known as _____ colors. Restaurants often use them because they make guests feel cozy and hungry.",
+    "options": [
+     "cool",
+     "transparent",
+     "opaque",
+     "warm"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Water is a _____ liquid, so a stain on the carpet is usually caused by something else. Check whether the guest spilled coffee or juice.",
+    "options": [
+     "colorless",
+     "vivid",
+     "multicolored",
+     "saturated"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The salads are sold in _____ boxes so customers can see the fresh vegetables inside. Sales have increased since the new packaging arrived.",
+    "options": [
+     "opaque",
+     "dark",
+     "transparent",
+     "monochrome"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Under the evening sun, the old stone bridge took on a golden _____. Tourists stopped to take pictures of the beautiful color.",
+    "options": [
+     "hue",
+     "contrast",
+     "dye",
+     "palette"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The law office was decorated in _____ grays and beiges. The quiet colors give clients a feeling of calm and seriousness.",
+    "options": [
+     "neon",
+     "vivid",
+     "multicolored",
+     "muted"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "These safety stickers _____ in the dark for up to eight hours. They help workers find the exits during a power cut.",
+    "options": [
+     "blend",
+     "fade",
+     "glow",
+     "sparkle"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The night market is famous for its _____ food stalls and bright signs. Tourists love taking photos there after dark.",
+    "options": [
+     "colorless",
+     "colorful",
+     "pale",
+     "muted"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Black text on a yellow background creates a strong _____. That is why many warning signs use these two colors.",
+    "options": [
+     "contrast",
+     "pigment",
+     "dye",
+     "palette"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Beige, gray, and cream are _____ colors that match almost any furniture. That is why many hotels choose them for guest rooms.",
+    "options": [
+     "neon",
+     "multicolored",
+     "vivid",
+     "neutral"
+    ],
+    "answer": 3,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The sports brand used _____ red stripes to show energy and power. Its new advertisement attracted many young customers.",
+    "options": [
+     "muted",
+     "pale",
+     "bold",
+     "colorless"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The customer asked for a lighter _____ of blue for her kitchen cabinets. The store mixed the paint again until she was satisfied.",
+    "options": [
+     "pigment",
+     "shade",
+     "contrast",
+     "gradient"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The diamonds in the display _____ like tiny stars whenever customers move around the counter. The lights above the case make the effect even stronger.",
+    "options": [
+     "blend",
+     "fade",
+     "sparkle",
+     "shrink"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The festival poster uses _____ reds and oranges that catch everyone's eye. People notice it from the other side of the street.",
+    "options": [
+     "vivid",
+     "pale",
+     "muted",
+     "colorless"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Blue and green are called _____ colors because they remind us of water and trees. Many spas use them to help guests relax.",
+    "options": [
+     "warm",
+     "cool",
+     "opaque",
+     "neon"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The factory switched to a plant-based _____ for its cotton shirts. This change reduced the amount of chemicals flowing into the river.",
+    "options": [
+     "contrast",
+     "gradient",
+     "palette",
+     "dye"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The baby store decorated its windows in soft _____ shades of pink and yellow. The gentle colors suit the newborn clothing perfectly.",
+    "options": [
+     "neon",
+     "pastel",
+     "dark",
+     "opaque"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The exhibition shows only _____ photographs in black and white. Visitors say the lack of color makes the images more powerful.",
+    "options": [
+     "multicolored",
+     "saturated",
+     "neon",
+     "monochrome"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The brand uses a limited _____ of only three colors. This helps customers recognize its products quickly on crowded shelves.",
+    "options": [
+     "palette",
+     "contrast",
+     "dye",
+     "gradient"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Most banks prefer _____ blue uniforms for their staff. The color looks serious and hides marks well during a long working day.",
+    "options": [
+     "neon",
+     "transparent",
+     "dark",
+     "multicolored"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "This paint uses a natural _____ made from crushed minerals. As a result, its colors stay strong for many years.",
+    "options": [
+     "pigment",
+     "contrast",
+     "gradient",
+     "palette"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Road workers wear _____ orange vests so drivers can see them easily. The bright color is visible even in heavy rain.",
+    "options": [
+     "pale",
+     "neon",
+     "muted",
+     "colorless"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The new hotel was designed to _____ in with the old buildings around it. Its brick walls match the historic street perfectly.",
+    "options": [
+     "fade",
+     "glow",
+     "sparkle",
+     "blend"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The designer made the blues in the travel photos more _____. Now the sea looks deep and rich, just like it does in real life.",
+    "options": [
+     "pale",
+     "colorless",
+     "saturated",
+     "muted"
+    ],
+    "answer": 2,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Her face turned _____ when she heard that the client had canceled the contract. She sat down quietly and said nothing for a minute.",
+    "options": [
+     "neon",
+     "multicolored",
+     "transparent",
+     "pale"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The toy company produces _____ building blocks in red, yellow, green, and blue. Parents like the cheerful look of the boxes.",
+    "options": [
+     "colorless",
+     "monochrome",
+     "multicolored",
+     "opaque"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The website header changes smoothly from blue to purple in a gentle _____. Visitors say the effect looks modern and professional.",
+    "options": [
+     "pigment",
+     "gradient",
+     "dye",
+     "palette"
+    ],
+    "answer": 1,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The kindergarten classroom is painted in cheerful, _____ colors. The children seem happier since the walls were changed last summer.",
+    "options": [
+     "bright",
+     "muted",
+     "colorless",
+     "opaque"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Cheap curtains often _____ after a few months in strong sunlight. It is worth paying more for fabric that keeps its color.",
+    "options": [
+     "blend",
+     "fade",
+     "glow",
+     "sparkle"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The photographer gave the wedding pictures a warm golden _____. The couple loved the gentle, romantic feeling of the final album.",
+    "options": [
+     "dye",
+     "contrast",
+     "palette",
+     "tone"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   }
+  ]
  }
 }
