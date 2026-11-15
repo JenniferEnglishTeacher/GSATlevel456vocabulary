@@ -2480,7 +2480,12 @@ window.VOCAB_ZONES = {
    28,
    29,
    30,
-   31
+   31,
+   32,
+   33,
+   34,
+   35,
+   36
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2513,7 +2518,12 @@ window.VOCAB_ZONES = {
    "28": "Bicycle 自行車",
    "29": "Birds 鳥類",
    "30": "Birthday 生日",
-   "31": "Book 書籍"
+   "31": "Book 書籍",
+   "32": "Bookstore 書店",
+   "33": "Bored 感到無聊",
+   "34": "Boring 乏味的",
+   "35": "Borrow 借用",
+   "36": "Break 休息"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }
