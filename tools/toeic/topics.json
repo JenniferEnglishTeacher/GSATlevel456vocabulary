@@ -49653,5 +49653,3218 @@
     "vocabIndex": 20
    }
   ]
+ },
+ "82": {
+  "theme": "Cooking 烹飪",
+  "source": "https://www.examword.com/group-topic/cooking",
+  "VOCAB": [
+   {
+    "word": "cook",
+    "pos": "v.",
+    "en_def": "to make food ready to eat by heating it",
+    "cn_def": "烹調；煮",
+    "sentence": "A: Who is going to prepare the food for the welcome party for our new interns on Friday afternoon? B: Our team leader offered to {{BLANK}} a big pot of curry at home on Thursday night, and two volunteers will bring salad, bread and drinks to the meeting room before three o'clock.",
+    "cn": "A：誰要為週五下午歡迎新實習生的派對準備食物？ B：我們的組長願意週四晚上在家【煮】一大鍋咖哩，另外兩位志工會在三點前把沙拉、麵包和飲料帶到會議室。",
+    "collocation": "cook dinner for the whole team 為整個團隊煮晚餐"
+   },
+   {
+    "word": "recipe",
+    "pos": "n.",
+    "en_def": "a list of foods and steps for making a dish",
+    "cn_def": "食譜",
+    "sentence": "A: The soup at the company cafeteria tasted completely different today, so did the kitchen hire a new cook? B: No, the same staff are working there, but the manager asked them to try a new {{BLANK}} from a famous Thai restaurant because many employees said the old soup was too salty.",
+    "cn": "A：今天公司餐廳的湯味道完全不一樣，廚房是換了新廚師嗎？ B：沒有，還是同樣的員工，但經理請他們試做一家知名泰式餐廳的新【食譜】，因為很多員工說舊的湯太鹹了。",
+    "collocation": "follow the recipe carefully 仔細照著食譜做"
+   },
+   {
+    "word": "ingredient",
+    "pos": "n.",
+    "en_def": "one of the foods used to make a dish",
+    "cn_def": "材料；食材",
+    "sentence": "A: Why did the bakery near our office stop selling its famous strawberry cakes last month? B: The owner told me that the price of fresh strawberries went up sharply after the heavy rain, and she refuses to use a cheaper {{BLANK}} because she believes customers will notice the lower quality immediately.",
+    "cn": "A：我們辦公室附近的麵包店上個月為什麼不再賣招牌草莓蛋糕了？ B：老闆告訴我，大雨過後新鮮草莓的價格大漲，而她拒絕使用較便宜的【食材】，因為她相信客人會馬上察覺品質變差。",
+    "collocation": "use fresh local ingredients 使用新鮮的在地食材"
+   },
+   {
+    "word": "kitchen",
+    "pos": "n.",
+    "en_def": "a room where food is prepared and cooked",
+    "cn_def": "廚房",
+    "sentence": "A: Is there anywhere on this floor where I can heat up my lunch, or do I have to go down to the cafeteria? B: There is a small staff {{BLANK}} next to the photocopy room with a microwave, a fridge and a kettle, but please wash your dishes afterward because everyone shares it.",
+    "cn": "A：這層樓有地方可以加熱午餐嗎？還是我得下樓到員工餐廳？ B：影印室旁邊有一間小小的員工【廚房】，裡面有微波爐、冰箱和熱水壺，但用完請洗碗，因為大家共用。",
+    "collocation": "a fully equipped kitchen 設備齊全的廚房"
+   },
+   {
+    "word": "chef",
+    "pos": "n.",
+    "en_def": "a skilled cook who works in a restaurant or hotel",
+    "cn_def": "廚師；主廚",
+    "sentence": "A: Why is the hotel restaurant so popular with business travelers even though its prices are quite high? B: The head {{BLANK}} trained in Paris for ten years, and he creates a new seasonal menu every month, so guests know they will always enjoy creative dishes made with local ingredients.",
+    "cn": "A：為什麼那家飯店餐廳雖然價格很高，卻還是很受商務旅客歡迎？ B：那位【主廚】在巴黎受訓了十年，而且每個月都推出新的季節菜單，所以客人知道一定能吃到用在地食材做的創意料理。",
+    "collocation": "the head chef of a five-star hotel 五星級飯店的主廚"
+   },
+   {
+    "word": "bake",
+    "pos": "v.",
+    "en_def": "to cook food such as bread or cake in an oven",
+    "cn_def": "烘焙；烤",
+    "sentence": "A: What are you planning to bring to the charity sale at the community center this weekend? B: My sister and I will {{BLANK}} about fifty chocolate muffins on Saturday morning, and all the money we raise will go to the children's hospital that is building a new playroom.",
+    "cn": "A：這個週末你打算帶什麼去社區中心的義賣會？ B：我和我姊姊週六早上會【烤】大約五十個巧克力瑪芬，募到的錢會全部捐給正在蓋新遊戲室的兒童醫院。",
+    "collocation": "bake bread in the oven 用烤箱烤麵包"
+   },
+   {
+    "word": "boil",
+    "pos": "v.",
+    "en_def": "to heat a liquid until it bubbles",
+    "cn_def": "煮沸；燒開",
+    "sentence": "A: The water in this old office building tastes a little strange, so is it safe to drink from the tap? B: The building manager says it is clean, but she still suggests that we {{BLANK}} it in the kettle first until the new filters are installed in the pipes next week.",
+    "cn": "A：這棟老舊辦公大樓的水喝起來有點怪，直接喝水龍頭的水安全嗎？ B：大樓管理員說水是乾淨的，但她還是建議我們先用熱水壺把水【煮沸】，等下週水管裝好新的濾水器再說。",
+    "collocation": "boil water for tea 燒開水泡茶"
+   },
+   {
+    "word": "fry",
+    "pos": "v.",
+    "en_def": "to cook food in hot oil",
+    "cn_def": "油炸；煎",
+    "sentence": "A: Why does the new fast-food restaurant near the station advertise that its chicken is healthier than other places? B: The manager explained that they {{BLANK}} the chicken in fresh vegetable oil that they change every day, and they also offer a baked version for customers who want fewer calories.",
+    "cn": "A：車站附近新開的速食店為什麼宣傳他們的雞肉比別家健康？ B：經理解釋說，他們用每天更換的新鮮植物油來【炸】雞肉，而且也提供烤的版本給想少攝取熱量的客人。",
+    "collocation": "fry eggs for breakfast 煎蛋當早餐"
+   },
+   {
+    "word": "grill",
+    "pos": "v.",
+    "en_def": "to cook food over or under direct strong heat",
+    "cn_def": "燒烤",
+    "sentence": "A: What kind of food will the catering company serve at our outdoor sales event in the park next Saturday? B: They will bring two large barbecues and {{BLANK}} burgers, sausages and corn for about two hundred guests, and they will also prepare vegetarian options for people who do not eat meat.",
+    "cn": "A：下週六我們在公園舉辦的戶外銷售活動，外燴公司會提供什麼食物？ B：他們會帶兩台大型烤肉架，為大約兩百位客人【烤】漢堡、香腸和玉米，也會為不吃肉的人準備素食選擇。",
+    "collocation": "grill fish over a charcoal fire 用炭火烤魚"
+   },
+   {
+    "word": "roast",
+    "pos": "v.",
+    "en_def": "to cook meat or vegetables in an oven or over a fire",
+    "cn_def": "烘烤",
+    "sentence": "A: What is the special dish on the hotel's holiday menu for our department's year-end dinner? B: The chef will {{BLANK}} a whole turkey slowly in the oven for about five hours and serve it with potatoes, vegetables and a rich sauce that guests can add at their tables.",
+    "cn": "A：我們部門尾牙飯店節慶菜單上的特色菜是什麼？ B：主廚會把一整隻火雞放進烤箱慢慢【烘烤】大約五個小時，搭配馬鈴薯、蔬菜和濃郁的醬汁，客人可以在桌上自行添加。",
+    "collocation": "roast a chicken for dinner 烤一隻雞當晚餐"
+   },
+   {
+    "word": "steam",
+    "pos": "v.",
+    "en_def": "to cook food using the hot air from boiling water",
+    "cn_def": "蒸",
+    "sentence": "A: Our new cafeteria menu offers fish twice a week, but how is it prepared, because I am trying to eat less oil? B: The cooks usually {{BLANK}} the fish with ginger and green onions instead of frying it, so it stays soft and healthy, and many office workers choose it for lunch.",
+    "cn": "A：我們新的員工餐廳菜單每週提供兩次魚，但是怎麼料理的？因為我正在試著少吃油。 B：廚師通常會用薑和蔥來【蒸】魚，而不是油炸，所以魚肉保持軟嫩又健康，很多上班族午餐都選它。",
+    "collocation": "steam fish with ginger 用薑蒸魚"
+   },
+   {
+    "word": "simmer",
+    "pos": "v.",
+    "en_def": "to cook something slowly just below boiling",
+    "cn_def": "用小火慢燉",
+    "sentence": "A: How does the small noodle shop on Elm Street make its beef soup taste so rich and full? B: The owner told me that he lets the bones {{BLANK}} over low heat for twelve hours every night after the shop closes, so the soup is ready when the first customers arrive in the morning.",
+    "cn": "A：榆樹街那家小麵店的牛肉湯為什麼喝起來這麼濃郁？ B：老闆告訴我，他每天晚上打烊後都讓骨頭用小火【慢燉】十二個小時，所以早上第一批客人到的時候，湯就準備好了。",
+    "collocation": "let the sauce simmer for ten minutes 讓醬汁小火燉煮十分鐘"
+   },
+   {
+    "word": "saute",
+    "pos": "v.",
+    "en_def": "to cook food quickly in a little hot oil or butter",
+    "cn_def": "嫩煎；快炒",
+    "sentence": "A: The cooking class at the community center sounds fun, so what did you learn in the first lesson last night? B: The instructor showed us how to {{BLANK}} mushrooms and onions quickly in a little butter over high heat, and then we used them to make a simple pasta for dinner.",
+    "cn": "A：社區中心的烹飪課聽起來很好玩，你昨晚第一堂課學了什麼？ B：老師教我們怎麼用少許奶油大火快速【嫩煎】蘑菇和洋蔥，然後我們用它們做了簡單的義大利麵當晚餐。",
+    "collocation": "saute onions in butter 用奶油炒洋蔥"
+   },
+   {
+    "word": "mix",
+    "pos": "v.",
+    "en_def": "to put two or more things together and combine them",
+    "cn_def": "混合；攪拌",
+    "sentence": "A: Can you help me prepare the drinks for the client meeting, because the guests will arrive in twenty minutes? B: Sure, I will {{BLANK}} the orange juice with sparkling water in these two large glass jugs, and then we can add some ice and fresh lemon slices just before they come in.",
+    "cn": "A：你可以幫我準備客戶會議的飲料嗎？客人再二十分鐘就到了。 B：沒問題，我會在這兩個大玻璃壺裡把柳橙汁和氣泡水【混合】，然後在他們進來前加點冰塊和新鮮檸檬片。",
+    "collocation": "mix flour with water 把麵粉和水混合"
+   },
+   {
+    "word": "stir",
+    "pos": "v.",
+    "en_def": "to move a spoon around in food or liquid",
+    "cn_def": "攪拌",
+    "sentence": "A: The tomato sauce for tonight's staff dinner smells wonderful, but is there anything I can do to help you in the kitchen? B: Could you {{BLANK}} the sauce slowly with this wooden spoon every few minutes, because it can burn easily at the bottom while I cut the vegetables for the salad?",
+    "cn": "A：今晚員工晚餐的番茄醬聞起來好香，廚房裡有什麼我可以幫忙的嗎？ B：你可以每隔幾分鐘用這支木湯匙慢慢【攪拌】醬汁嗎？因為我切沙拉蔬菜的時候，醬汁底部很容易燒焦。",
+    "collocation": "stir the soup gently 輕輕攪拌湯"
+   },
+   {
+    "word": "whisk",
+    "pos": "v.",
+    "en_def": "to beat eggs or cream very fast to add air",
+    "cn_def": "攪打；打發",
+    "sentence": "A: Why are the pancakes at the hotel breakfast buffet so light and soft compared with the ones I make at home? B: The cook told me that he uses fresh eggs and he will {{BLANK}} them for several minutes until they are full of air before he adds the flour and milk.",
+    "cn": "A：飯店早餐自助吧的鬆餅為什麼比我在家做的鬆軟這麼多？ B：廚師告訴我，他用新鮮雞蛋，而且會把蛋【攪打】好幾分鐘，直到充滿空氣，才加入麵粉和牛奶。",
+    "collocation": "whisk eggs and sugar together 將蛋和糖一起打勻"
+   },
+   {
+    "word": "slice",
+    "pos": "v.",
+    "en_def": "to cut food into thin flat pieces",
+    "cn_def": "切成薄片",
+    "sentence": "A: How should I prepare the bread for the sandwiches at tomorrow's training workshop for the new sales staff? B: Please {{BLANK}} the loaves thinly with the sharp knife in the top drawer, and then keep the bread in plastic bags overnight so it stays fresh until the lunch break starts.",
+    "cn": "A：明天新業務人員的訓練工作坊要做三明治，麵包要怎麼準備？ B：請用最上層抽屜裡那把利刀把麵包【切成薄片】，然後整晚放在塑膠袋裡，讓麵包保持新鮮直到午休時間。",
+    "collocation": "slice the bread thinly 把麵包切成薄片"
+   },
+   {
+    "word": "chop",
+    "pos": "v.",
+    "en_def": "to cut food into small pieces with a knife",
+    "cn_def": "切碎；剁",
+    "sentence": "A: The salad bar at the new restaurant downtown looks amazing, so how do they prepare so many vegetables every day? B: Three kitchen assistants arrive at six in the morning to wash and {{BLANK}} carrots, cabbage and peppers, so everything is fresh and ready before the lunch crowd arrives at noon.",
+    "cn": "A：市中心新餐廳的沙拉吧看起來好棒，他們每天怎麼準備這麼多蔬菜？ B：三位廚房助理早上六點就到，清洗並【切碎】紅蘿蔔、高麗菜和甜椒，所以中午用餐人潮到之前，一切都新鮮備妥。",
+    "collocation": "chop the onions finely 把洋蔥切細碎"
+   },
+   {
+    "word": "dice",
+    "pos": "v.",
+    "en_def": "to cut food into small square pieces",
+    "cn_def": "切丁",
+    "sentence": "A: What should I do with these potatoes and carrots for the beef stew we are making for the office potluck? B: Please peel them first and then {{BLANK}} them into small, even cubes about two centimeters wide, so they cook at the same speed and are easy for guests to eat.",
+    "cn": "A：我們要為辦公室百樂餐做燉牛肉，這些馬鈴薯和紅蘿蔔要怎麼處理？ B：請先削皮，然後把它們【切丁】成大約兩公分寬、大小均勻的小塊，這樣熟的速度一樣，客人也方便吃。",
+    "collocation": "dice the tomatoes into small cubes 把番茄切成小丁"
+   },
+   {
+    "word": "peel",
+    "pos": "v.",
+    "en_def": "to take the skin off fruit or vegetables",
+    "cn_def": "剝皮；削皮",
+    "sentence": "A: Why does the fruit tray from the catering company cost more than buying the fruit at the supermarket ourselves? B: Their staff wash, {{BLANK}} and cut every orange, mango and kiwi by hand, so our guests can eat the fruit right away without making a mess in the meeting room.",
+    "cn": "A：外燴公司的水果盤為什麼比我們自己去超市買水果還貴？ B：他們的員工會用手清洗、【剝皮】並切好每一顆柳橙、芒果和奇異果，所以客人可以馬上吃，不會把會議室弄得一團亂。",
+    "collocation": "peel an apple 削蘋果皮"
+   },
+   {
+    "word": "season",
+    "pos": "v.",
+    "en_def": "to add salt, pepper or spices to food",
+    "cn_def": "調味",
+    "sentence": "A: The grilled chicken at the company picnic last year was a little tasteless, so what will you do differently this time? B: I will {{BLANK}} the meat with salt, pepper, garlic and lemon the night before, so the flavor has time to go deep into the chicken before we cook it.",
+    "cn": "A：去年公司野餐的烤雞有點沒味道，這次你會怎麼改進？ B：我會在前一晚用鹽、胡椒、大蒜和檸檬幫肉【調味】，讓味道在烹煮前有時間深入雞肉。",
+    "collocation": "season the meat with salt and pepper 用鹽和胡椒為肉調味"
+   },
+   {
+    "word": "spice",
+    "pos": "n.",
+    "en_def": "a dried plant part used to give food a strong taste",
+    "cn_def": "香料",
+    "sentence": "A: Why are you buying so many small bags at the market when you are only cooking dinner for four colleagues tonight? B: The Indian curry I am making needs more than one kind of {{BLANK}}, such as cumin, turmeric and chili, and the shop near my home does not sell any of them.",
+    "cn": "A：今晚你只為四位同事煮晚餐，為什麼要在市場買這麼多小包裝？ B：我要做的印度咖哩需要不只一種【香料】，例如孜然、薑黃和辣椒，而我家附近的店都沒有賣。",
+    "collocation": "add a pinch of spice 加一小撮香料"
+   },
+   {
+    "word": "flavor",
+    "pos": "n.",
+    "en_def": "the particular taste of a food or drink",
+    "cn_def": "口味；風味",
+    "sentence": "A: Which of the three new ice creams did the customers prefer during the product test at the shopping mall? B: Most people chose the green tea {{BLANK}} because it was not too sweet, so the marketing team plans to sell it in convenience stores across Asia starting next spring.",
+    "cn": "A：在購物中心的產品試吃中，顧客比較喜歡三種新冰淇淋中的哪一種？ B：大多數人選了綠茶【口味】，因為它不會太甜，所以行銷團隊計畫從明年春天開始在亞洲各地的便利商店販售。",
+    "collocation": "a rich, smoky flavor 濃郁的煙燻風味"
+   },
+   {
+    "word": "taste",
+    "pos": "n.",
+    "en_def": "the feeling food or drink gives in your mouth",
+    "cn_def": "味道",
+    "sentence": "A: Did you enjoy the lunch at the new Korean restaurant that the manager recommended for our team meeting? B: Yes, the beef soup had a wonderful {{BLANK}}, but it was a bit too hot for me, so next time I will ask the waiter for a milder version before I order.",
+    "cn": "A：你喜歡經理推薦我們開團隊會議的那家新韓式餐廳的午餐嗎？ B：喜歡，牛肉湯的【味道】很棒，但對我來說有點太辣，所以下次點餐前我會請服務生做比較不辣的。",
+    "collocation": "have a sweet taste 帶有甜味"
+   },
+   {
+    "word": "portion",
+    "pos": "n.",
+    "en_def": "the amount of food served to one person",
+    "cn_def": "（食物的）一份；份量",
+    "sentence": "A: Why do so many customers leave food on their plates at the hotel restaurant during the conference lunch? B: The {{BLANK}} of rice that the kitchen serves is far too large for most office workers, so the manager plans to make it smaller and lower the price slightly next month.",
+    "cn": "A：會議午餐時，為什麼飯店餐廳有那麼多客人把食物剩在盤子裡？ B：廚房供應的白飯【份量】對大多數上班族來說太多了，所以經理打算下個月減量，並稍微降價。",
+    "collocation": "a generous portion of rice 一大份白飯"
+   },
+   {
+    "word": "utensil",
+    "pos": "n.",
+    "en_def": "a tool used for cooking or eating, such as a spoon",
+    "cn_def": "器具；餐具",
+    "sentence": "A: What else do we need to buy for the new staff kitchen before the office opens on Monday morning? B: We already have plates and cups, but we still need a basic {{BLANK}} set with knives, forks, spoons and a few large serving spoons for the shared lunches on Fridays.",
+    "cn": "A：辦公室週一早上開幕前，新的員工廚房還需要買什麼？ B：我們已經有盤子和杯子，但還需要一組基本的【餐具】，包括刀子、叉子、湯匙，以及週五共餐用的幾支大湯匙。",
+    "collocation": "kitchen utensils such as spoons and knives 湯匙和刀子等廚房用具"
+   },
+   {
+    "word": "pan",
+    "pos": "n.",
+    "en_def": "a flat metal container with a handle used for cooking",
+    "cn_def": "平底鍋；鍋",
+    "sentence": "A: Why are you buying new cookware at the department store when your kitchen at home already has so much? B: My old frying {{BLANK}} has a broken handle, and the eggs always stick to the bottom, so I want a light, non-stick one that is easy to wash after breakfast.",
+    "cn": "A：你家廚房已經有很多廚具了，為什麼還要在百貨公司買新的？ B：我那支舊的【平底鍋】把手壞了，雞蛋總是黏在鍋底，所以我想買一支輕巧、不沾、早餐後好洗的。",
+    "collocation": "heat oil in a frying pan 在平底鍋裡熱油"
+   },
+   {
+    "word": "pot",
+    "pos": "n.",
+    "en_def": "a deep round container used for cooking soup or stew",
+    "cn_def": "鍋子",
+    "sentence": "A: How are we going to serve hot soup to all fifty volunteers at the beach cleanup event on Saturday? B: The restaurant owner next door will lend us a huge metal {{BLANK}}, and we can keep the soup warm on a gas burner under the tent until everyone finishes working.",
+    "cn": "A：週六淨灘活動時，我們要怎麼為五十位志工提供熱湯？ B：隔壁餐廳老闆會借我們一個超大的金屬【鍋子】，我們可以把湯放在帳篷下的瓦斯爐上保溫，直到大家工作結束。",
+    "collocation": "a pot of soup 一鍋湯"
+   },
+   {
+    "word": "oven",
+    "pos": "n.",
+    "en_def": "a box-shaped machine that bakes or roasts food",
+    "cn_def": "烤箱",
+    "sentence": "A: Why did the bakery downtown close for two days last week, even though it was a busy holiday period? B: Its main {{BLANK}} broke down on Monday morning, so the bakers could not make any bread or cakes until a technician arrived from the factory with a replacement part.",
+    "cn": "A：市中心那家麵包店為什麼上週在忙碌的假期關門兩天？ B：店裡的主要【烤箱】週一早上故障了，所以麵包師傅無法做任何麵包或蛋糕，直到技師從工廠帶來替換零件。",
+    "collocation": "preheat the oven to 180 degrees 將烤箱預熱到180度"
+   },
+   {
+    "word": "stove",
+    "pos": "n.",
+    "en_def": "a piece of kitchen equipment with burners for cooking",
+    "cn_def": "爐子；爐灶",
+    "sentence": "A: Is it safe to leave the soup cooking while we go to the meeting downstairs for an hour? B: No, please turn off the {{BLANK}} before you leave, because the building rules say nobody may leave a gas flame burning in the staff kitchen without someone there to watch it.",
+    "cn": "A：我們去樓下開一小時的會時，把湯留著繼續煮安全嗎？ B：不安全，離開前請把【爐子】關掉，因為大樓規定沒有人看著的時候，任何人都不可以讓員工廚房的瓦斯火繼續燒。",
+    "collocation": "turn off the gas stove 關掉瓦斯爐"
+   },
+   {
+    "word": "apron",
+    "pos": "n.",
+    "en_def": "a piece of cloth worn over clothes to keep them clean",
+    "cn_def": "圍裙",
+    "sentence": "A: Do I need to bring anything special to the cooking class that the company is offering as a team-building activity? B: You should bring an old {{BLANK}} to keep your shirt clean, because we will be working with tomato sauce and oil, and the school does not provide one for every student.",
+    "cn": "A：公司舉辦的團隊建立烹飪課，我需要帶什麼特別的東西嗎？ B：你應該帶一件舊【圍裙】保持襯衫乾淨，因為我們會用到番茄醬和油，而學校不會為每位學員提供。",
+    "collocation": "wear an apron in the kitchen 在廚房穿圍裙"
+   },
+   {
+    "word": "delicious",
+    "pos": "adj.",
+    "en_def": "having a very good taste",
+    "cn_def": "美味的",
+    "sentence": "A: How was the dinner at the seafood restaurant where you took the visitors from the head office last night? B: The grilled fish was absolutely {{BLANK}}, and the visitors enjoyed it so much that they asked for the restaurant's address so they could return before flying home on Friday.",
+    "cn": "A：昨晚你帶總公司來的訪客去那家海鮮餐廳，晚餐怎麼樣？ B：烤魚真的非常【美味】，訪客們吃得很開心，還問了餐廳地址，好在週五搭機回去前再來一次。",
+    "collocation": "a delicious home-cooked meal 美味的家常料理"
+   },
+   {
+    "word": "savory",
+    "pos": "adj.",
+    "en_def": "salty or spicy, not sweet",
+    "cn_def": "鹹味的；鹹香的",
+    "sentence": "A: The client from Japan does not like sweet food, so what should we order for the afternoon break during the long meeting? B: Let's choose some {{BLANK}} snacks such as cheese crackers, mini sandwiches and chicken pies instead of cakes, and we can also offer green tea and coffee.",
+    "cn": "A：那位日本客戶不喜歡甜食，長時間會議的下午休息時間我們該點什麼？ B：我們選一些【鹹味的】點心吧，像是起司餅乾、迷你三明治和雞肉派，而不是蛋糕，另外也可以提供綠茶和咖啡。",
+    "collocation": "savory snacks such as cheese crackers 起司餅乾等鹹味點心"
+   },
+   {
+    "word": "homemade",
+    "pos": "adj.",
+    "en_def": "made at home, not bought from a shop or factory",
+    "cn_def": "自製的；家常的",
+    "sentence": "A: Why is the little café across from our office always full of customers at lunchtime, even though it is quite small? B: The owner serves {{BLANK}} soup and bread that her mother prepares every morning, and office workers say it tastes much better than food from the chain restaurants nearby.",
+    "cn": "A：我們辦公室對面那家小咖啡館雖然很小，為什麼午餐時間總是客滿？ B：老闆提供她媽媽每天早上準備的【自製】湯和麵包，上班族都說比附近連鎖餐廳的食物好吃多了。",
+    "collocation": "homemade cookies and jam 自製的餅乾和果醬"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The new cook followed his grandmother's _____ exactly. The soup tasted just like the one served in her small village restaurant.",
+    "options": [
+     "recipe",
+     "apron",
+     "stove",
+     "utensil"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Before you cut the oranges for the fruit tray, please _____ them carefully. Customers do not like finding bits of skin in the bowl.",
+    "options": [
+     "boil",
+     "peel",
+     "whisk",
+     "grill"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The bakery bought a larger _____ last month. Now it can bake three hundred loaves of bread every morning before opening.",
+    "options": [
+     "apron",
+     "recipe",
+     "oven",
+     "spice"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Please _____ the sauce every few minutes while it cooks. Otherwise, it will stick to the bottom of the pan and burn.",
+    "options": [
+     "peel",
+     "slice",
+     "dice",
+     "stir"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The cooking school gives every student a white _____ on the first day. It protects their clothes from oil and sauce during class.",
+    "options": [
+     "oven",
+     "apron",
+     "portion",
+     "flavor"
+    ],
+    "answer": 1,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The hotel staff will _____ steaks and vegetables on the rooftop barbecue tonight. Guests can watch the cooks while they enjoy the city view.",
+    "options": [
+     "grill",
+     "peel",
+     "whisk",
+     "dice"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The restaurant reduced the size of each _____ of pasta. Many customers had complained that the dishes were too large to finish.",
+    "options": [
+     "apron",
+     "oven",
+     "stove",
+     "portion"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "To make the cream light and smooth, _____ it quickly for three minutes. Then gently spread it on top of the cooled cake.",
+    "options": [
+     "chop",
+     "peel",
+     "whisk",
+     "roast"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The hotel hired a famous _____ from Italy to run its new restaurant. He will design a menu using fresh local ingredients.",
+    "options": [
+     "chef",
+     "utensil",
+     "pot",
+     "stove"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Please _____ the water for at least three minutes before drinking it. The pipes in the old building are being repaired this week.",
+    "options": [
+     "slice",
+     "chop",
+     "boil",
+     "peel"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Fresh butter is the most important _____ in our cookies. We never replace it with cheaper oil, even when prices rise.",
+    "options": [
+     "oven",
+     "ingredient",
+     "apron",
+     "pan"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Use the sharp knife to _____ the cheese thinly for the sandwiches. Thick pieces make them hard to eat during a short break.",
+    "options": [
+     "boil",
+     "steam",
+     "simmer",
+     "slice"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The office has a small _____ on the third floor. Employees can heat their lunches there and make coffee during breaks.",
+    "options": [
+     "flavor",
+     "spice",
+     "kitchen",
+     "portion"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "For the holiday dinner, the cook will _____ a large turkey in the oven. It needs about four hours to become golden and tender.",
+    "options": [
+     "whisk",
+     "peel",
+     "stir",
+     "roast"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "This curry needs one more _____ to give it a warm, rich taste. The cook decided to add a little cinnamon.",
+    "options": [
+     "spice",
+     "apron",
+     "stove",
+     "oven"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The healthy menu does not use oil, so the cooks _____ the vegetables instead. This keeps their bright colors and vitamins.",
+    "options": [
+     "whisk",
+     "steam",
+     "peel",
+     "stir"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Our shop sells ice cream in six different kinds. Strawberry is the most popular _____ with children every summer.",
+    "options": [
+     "apron",
+     "oven",
+     "utensil",
+     "flavor"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The street vendor uses fresh oil to _____ the fish until it is golden and crispy. Customers often wait twenty minutes for it.",
+    "options": [
+     "whisk",
+     "fry",
+     "peel",
+     "slice"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The cafeteria now gives each customer a metal _____ instead of plastic forks. This change will reduce waste by thousands of items.",
+    "options": [
+     "flavor",
+     "spice",
+     "utensil",
+     "recipe"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Let the beef soup _____ slowly over low heat for two hours. This long cooking time makes the meat very soft.",
+    "options": [
+     "simmer",
+     "peel",
+     "slice",
+     "whisk"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Heat a little oil in a frying _____ before adding the eggs. Use medium heat so the eggs do not burn.",
+    "options": [
+     "apron",
+     "pan",
+     "recipe",
+     "flavor"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "In a large bowl, _____ the flour, sugar and eggs together. Then pour the batter into a cake tin.",
+    "options": [
+     "peel",
+     "grill",
+     "roast",
+     "mix"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Remember to turn off the gas _____ when you finish cooking. A small fire started in the staff kitchen last month.",
+    "options": [
+     "stove",
+     "flavor",
+     "portion",
+     "recipe"
+    ],
+    "answer": 0,
+    "vocabIndex": 29
+   },
+   {
+    "q": "For the soup, _____ the potatoes into small cubes. Small pieces cook faster and are easier for children to eat.",
+    "options": [
+     "whisk",
+     "boil",
+     "dice",
+     "stir"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The new coffee has a strong, slightly bitter _____. Some customers love it, but others prefer the milder blend we used before.",
+    "options": [
+     "oven",
+     "apron",
+     "utensil",
+     "taste"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The café will _____ fresh bread in its own oven every morning. Customers can smell it from the street as they walk by.",
+    "options": [
+     "bake",
+     "peel",
+     "whisk",
+     "dice"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The cook made a large _____ of chicken soup for the volunteers. It was enough to feed forty people after the cleanup.",
+    "options": [
+     "apron",
+     "flavor",
+     "pot",
+     "recipe"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Please _____ the onions and garlic finely before you start cooking. The sauce will be smoother if the pieces are very small.",
+    "options": [
+     "boil",
+     "chop",
+     "roast",
+     "whisk"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Quickly _____ the mushrooms in a little butter over high heat. Then add them to the pasta with some fresh cream.",
+    "options": [
+     "saute",
+     "peel",
+     "whisk",
+     "dice"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Before grilling the chicken, _____ it with salt, pepper and lemon. This simple step gives the meat much more flavor.",
+    "options": [
+     "peel",
+     "whisk",
+     "boil",
+     "season"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   }
+  ]
+ },
+ "83": {
+  "theme": "Cooperation 合作",
+  "source": "https://www.examword.com/group-topic/cooperation",
+  "VOCAB": [
+   {
+    "word": "cooperate",
+    "pos": "v.",
+    "en_def": "to work together with others to reach the same goal",
+    "cn_def": "合作；配合",
+    "sentence": "A: How did the two delivery companies manage to finish moving all the hospital equipment before the new building opened on Monday? B: Their managers agreed to {{BLANK}} closely for the whole weekend, so one company packed the machines while the other drove the trucks and set everything up in the new rooms.",
+    "cn": "A：這兩家貨運公司是怎麼在新大樓週一啟用前把所有醫院設備搬完的？ B：他們的經理同意整個週末密切【合作】，所以一家公司負責打包機器，另一家負責開卡車並在新房間裡把所有東西裝設好。",
+    "collocation": "cooperate fully with the police 與警方全力配合"
+   },
+   {
+    "word": "collaboration",
+    "pos": "n.",
+    "en_def": "the act of working together to make or create something",
+    "cn_def": "合作；協作",
+    "sentence": "A: Who designed the new reusable coffee cups that the café near our office started selling last month? B: They were made in {{BLANK}} with a local art school, and the students created the colorful patterns while the café paid for the materials and gave part of the profits to the school.",
+    "cn": "A：我們辦公室附近那家咖啡廳上個月開始販售的新環保咖啡杯是誰設計的？ B：那是與當地一所藝術學校【合作】製作的，學生們設計了繽紛的圖案，咖啡廳則支付材料費並把部分利潤捐給學校。",
+    "collocation": "in close collaboration with partners 與夥伴密切合作"
+   },
+   {
+    "word": "collaborate",
+    "pos": "v.",
+    "en_def": "to work with another person or group on a project",
+    "cn_def": "合作；協作",
+    "sentence": "A: Why are the engineers from our Taipei office flying to Munich next week instead of holding another video call? B: They need to {{BLANK}} with the German design team on the new electric bike, and it is much easier to test the parts together in the same workshop.",
+    "cn": "A：為什麼我們台北辦公室的工程師下週要飛去慕尼黑，而不是再開一次視訊會議？ B：他們需要和德國設計團隊【合作】開發新的電動自行車，而在同一個工作室裡一起測試零件容易多了。",
+    "collocation": "collaborate with other departments 與其他部門合作"
+   },
+   {
+    "word": "teamwork",
+    "pos": "n.",
+    "en_def": "the way people work well together as a group",
+    "cn_def": "團隊合作",
+    "sentence": "A: How did the restaurant staff serve three hundred guests at the wedding party without any serious problems last Saturday? B: It was excellent {{BLANK}}, because the chefs, waiters and dishwashers all knew their jobs, helped each other when it got busy, and kept talking to each other all night.",
+    "cn": "A：上週六餐廳員工是怎麼在婚宴上服務三百位賓客卻沒出任何大問題的？ B：那是絕佳的【團隊合作】，因為廚師、服務生和洗碗工都清楚自己的工作，忙的時候互相幫忙，而且整晚都持續互相溝通。",
+    "collocation": "improve teamwork in the office 改善辦公室的團隊合作"
+   },
+   {
+    "word": "partner",
+    "pos": "n.",
+    "en_def": "a person or company that works or runs a business with another",
+    "cn_def": "合夥人；合作夥伴",
+    "sentence": "A: Who is going to run the bakery while you are away visiting your family in Canada for three weeks this summer? B: My business {{BLANK}}, Lisa, will manage the shop, order the flour and pay the staff, because we started the bakery together five years ago and she knows everything about it.",
+    "cn": "A：今年夏天你回加拿大探親三週期間，誰來經營麵包店？ B：我的事業【合夥人】麗莎會管理店面、訂購麵粉並支付員工薪水，因為我們五年前一起創立這家麵包店，她對店裡的一切都很清楚。",
+    "collocation": "a reliable business partner 可靠的事業夥伴"
+   },
+   {
+    "word": "partnership",
+    "pos": "n.",
+    "en_def": "a relationship in which people or companies work together",
+    "cn_def": "合作關係；合夥",
+    "sentence": "A: Why does our hotel now offer free tickets to the science museum for every guest who stays more than two nights? B: We formed a {{BLANK}} with the museum last spring, so they send visitors to us for rooms, and we send our guests to them for tours and special exhibitions.",
+    "cn": "A：為什麼我們飯店現在提供科學博物館免費門票給每位住宿超過兩晚的客人？ B：我們去年春天和博物館建立了【合作關係】，所以他們把需要住宿的遊客介紹給我們，我們則把客人介紹給他們參加導覽和特展。",
+    "collocation": "form a partnership with a local firm 與當地公司建立合作關係"
+   },
+   {
+    "word": "ally",
+    "pos": "n.",
+    "en_def": "a person, group or country that helps and supports another",
+    "cn_def": "盟友；支持者",
+    "sentence": "A: How did you get the board to approve your plan for a new staff gym when most directors thought it cost too much? B: The finance director became my strongest {{BLANK}}, because she showed everyone that healthier workers take fewer sick days, and that changed their minds.",
+    "cn": "A：大多數董事都認為新員工健身房太花錢，你是怎麼讓董事會通過這個計畫的？ B：財務長成了我最有力的【盟友】，因為她向大家證明，比較健康的員工請病假的天數較少，這改變了他們的想法。",
+    "collocation": "a close ally in the company 公司裡的親密盟友"
+   },
+   {
+    "word": "alliance",
+    "pos": "n.",
+    "en_def": "an agreement between groups or companies to work together",
+    "cn_def": "聯盟；結盟",
+    "sentence": "A: Why are three small airlines in Asia suddenly selling tickets for each other's flights on their websites? B: They joined an {{BLANK}} earlier this year, so passengers can book one trip across several countries, collect points with any member, and change planes more easily at busy airports.",
+    "cn": "A：為什麼亞洲三家小型航空公司突然在各自網站上互售對方航班的機票？ B：他們今年稍早加入了一個【聯盟】，所以乘客可以預訂橫跨數國的單一行程、在任何成員公司累積點數，並在繁忙的機場更方便地轉機。",
+    "collocation": "form a strategic alliance 結成策略聯盟"
+   },
+   {
+    "word": "support",
+    "pos": "v.",
+    "en_def": "to help someone by giving encouragement, money or practical help",
+    "cn_def": "支持；資助",
+    "sentence": "A: Are you sure the manager will agree to let you study part-time for a master's degree while you keep working here? B: Yes, she promised to {{BLANK}} my plan, and the company will even pay half of the fees if I stay with the firm for two more years after I graduate.",
+    "cn": "A：你確定經理會同意你一邊在這裡工作一邊兼讀碩士學位嗎？ B：確定，她承諾會【支持】我的計畫，而且如果我畢業後再留在公司兩年，公司甚至會負擔一半的學費。",
+    "collocation": "fully support the new policy 全力支持新政策"
+   },
+   {
+    "word": "assist",
+    "pos": "v.",
+    "en_def": "to help someone do a job or task",
+    "cn_def": "協助；幫助",
+    "sentence": "A: Who will show the new interns how to use the cash register and the stock system during their first week at the store? B: Our most experienced cashier will {{BLANK}} them at the counter every morning, and in the afternoons they will learn how to check the shelves with the floor manager.",
+    "cn": "A：新實習生在店裡的第一週，誰要教他們使用收銀機和庫存系統？ B：我們最資深的收銀員每天早上會在櫃台【協助】他們，下午他們則會跟著樓面經理學習如何檢查貨架。",
+    "collocation": "assist customers with their purchases 協助顧客購物"
+   },
+   {
+    "word": "help",
+    "pos": "v.",
+    "en_def": "to make it easier for someone to do something",
+    "cn_def": "幫助；幫忙",
+    "sentence": "A: The printer on the third floor is broken again, and I have to print forty copies of the sales report before the meeting at ten. B: Don't worry, I can {{BLANK}} you carry your files down to the second floor, where the large color printer is working fine this morning.",
+    "cn": "A：三樓的印表機又壞了，而我必須在十點開會前印出四十份銷售報告。 B：別擔心，我可以【幫】你把文件搬到二樓，那裡的大型彩色印表機今天早上運作得很正常。",
+    "collocation": "help a colleague with a project 幫同事處理專案"
+   },
+   {
+    "word": "coordinate",
+    "pos": "v.",
+    "en_def": "to organize different people or activities so they work well together",
+    "cn_def": "協調；統籌",
+    "sentence": "A: With so many speakers, hotels and buses involved, who is in charge of the international sales conference in Bangkok next month? B: Mr. Chen will {{BLANK}} all the travel plans, so he will book the rooms, arrange the airport buses and make sure every speaker knows the schedule.",
+    "cn": "A：下個月在曼谷的國際業務會議牽涉這麼多講者、飯店和巴士，誰負責呢？ B：陳先生會【統籌】所有的行程安排，他會預訂房間、安排機場接駁巴士，並確保每位講者都知道時間表。",
+    "collocation": "coordinate a team of volunteers 統籌一組志工"
+   },
+   {
+    "word": "coordination",
+    "pos": "n.",
+    "en_def": "the act of making people or groups work well together",
+    "cn_def": "協調；配合",
+    "sentence": "A: Why did the shopping mall's fire drill take almost an hour when it was supposed to last only twenty minutes? B: There was poor {{BLANK}} between the security guards and the shop managers, so some stores closed their doors too late and several groups used the wrong exits.",
+    "cn": "A：購物中心的消防演習原本預計只要二十分鐘，為什麼花了將近一小時？ B：保全人員和店長之間的【協調】很差，所以有些店太晚關門，好幾組人也走錯了出口。",
+    "collocation": "close coordination between departments 部門間的密切協調"
+   },
+   {
+    "word": "contribute",
+    "pos": "v.",
+    "en_def": "to give money, time or ideas to help something succeed",
+    "cn_def": "貢獻；捐助；出一份力",
+    "sentence": "A: Is everyone in the department giving money for Mr. Lin's retirement gift, or only the people who worked with him for many years? B: Everyone is welcome to {{BLANK}}, even the new staff, and we plan to buy him a good camera because he wants to travel around Japan next year.",
+    "cn": "A：部門裡每個人都要出錢買林先生的退休禮物嗎？還是只有跟他共事多年的人？ B：歡迎每個人【出一份力】，連新員工也可以，我們打算買一台好相機給他，因為他明年想去日本各地旅行。",
+    "collocation": "contribute to the team's success 對團隊的成功有所貢獻"
+   },
+   {
+    "word": "contribution",
+    "pos": "n.",
+    "en_def": "something you give or do to help make something successful",
+    "cn_def": "貢獻；捐款",
+    "sentence": "A: Why did the CEO mention the night-shift workers by name during the year-end party last Friday evening? B: She wanted to thank them for their huge {{BLANK}} to the company, because they worked extra hours for three months to finish the big order from our Canadian customer on time.",
+    "cn": "A：上週五晚上的尾牙，執行長為什麼點名提到大夜班的員工？ B：她想感謝他們對公司的巨大【貢獻】，因為他們連續三個月加班，準時完成了加拿大客戶的大訂單。",
+    "collocation": "make a valuable contribution 做出寶貴的貢獻"
+   },
+   {
+    "word": "participate",
+    "pos": "v.",
+    "en_def": "to take part in an activity or event",
+    "cn_def": "參加；參與",
+    "sentence": "A: Do all the sales staff have to join the two-day training course on customer service at the hotel next weekend? B: Only the new staff must {{BLANK}}, but experienced workers can also sign up if they want to learn the latest ways to handle difficult customers on the phone.",
+    "cn": "A：所有業務人員都必須參加下週末在飯店舉辦、為期兩天的客服訓練課程嗎？ B：只有新進人員必須【參加】，不過資深員工如果想學習在電話中應對難纏顧客的最新方法，也可以報名。",
+    "collocation": "participate in a workshop 參加工作坊"
+   },
+   {
+    "word": "participation",
+    "pos": "n.",
+    "en_def": "the act of taking part in something",
+    "cn_def": "參與；參加",
+    "sentence": "A: Why did the human resources team decide to give free movie tickets to everyone who filled out the staff survey this year? B: Last year {{BLANK}} was very low, with only a quarter of the workers answering, so the team hoped a small gift would encourage more people to share their opinions.",
+    "cn": "A：為什麼人資團隊今年決定送電影票給每位填寫員工問卷的人？ B：去年的【參與】率很低，只有四分之一的員工作答，所以團隊希望一份小禮物能鼓勵更多人分享意見。",
+    "collocation": "encourage active participation 鼓勵積極參與"
+   },
+   {
+    "word": "engage",
+    "pos": "v.",
+    "en_def": "to attract someone's interest and get them involved",
+    "cn_def": "吸引（參與）；使投入",
+    "sentence": "A: What can we do to make the online training videos more interesting for the factory workers, who often stop watching after five minutes? B: We could add short quizzes and real stories from the factory floor to {{BLANK}} the viewers, so they stay interested and remember the safety rules much better.",
+    "cn": "A：工廠員工常常看五分鐘就不看了，我們可以怎麼讓線上訓練影片更有趣？ B：我們可以加入簡短測驗和來自工廠現場的真實故事來【吸引】觀眾，讓他們保持興趣，也能把安全規定記得更牢。",
+    "collocation": "engage customers on social media 在社群媒體上吸引顧客互動"
+   },
+   {
+    "word": "involvement",
+    "pos": "n.",
+    "en_def": "the act of taking part in something or being connected with it",
+    "cn_def": "參與；涉入",
+    "sentence": "A: Why does the company give an extra day off to employees who join the beach clean-up every spring? B: The managers believe that staff {{BLANK}} in local community projects builds team spirit and improves our image, so they want to reward people who give up their weekend to help.",
+    "cn": "A：為什麼公司會多給參加每年春季淨灘活動的員工一天假？ B：主管們相信員工【參與】在地社區活動能凝聚團隊精神並提升公司形象，所以想獎勵那些犧牲週末去幫忙的人。",
+    "collocation": "community involvement 社區參與"
+   },
+   {
+    "word": "unite",
+    "pos": "v.",
+    "en_def": "to join together as a group for a shared purpose",
+    "cn_def": "團結；聯合",
+    "sentence": "A: The two offices have argued about the budget for months, so how can we make them work together on the new product launch? B: We should give them one clear goal, such as beating our biggest rival in sales, because a common target can {{BLANK}} people who usually disagree.",
+    "cn": "A：兩個辦公室為了預算爭吵了好幾個月，我們要怎麼讓他們一起合作推出新產品？ B：我們應該給他們一個明確的目標，例如在銷售上打敗最大的對手，因為共同的目標能讓平常意見不合的人【團結】起來。",
+    "collocation": "unite the whole team 團結整個團隊"
+   },
+   {
+    "word": "unity",
+    "pos": "n.",
+    "en_def": "the state of being joined together and agreeing",
+    "cn_def": "團結；統一",
+    "sentence": "A: Why did the sports company ask all its staff to wear the same blue shirts at the trade fair in Singapore? B: The marketing director wanted to show {{BLANK}} and team spirit, so visitors would see that everyone at the booth belonged to one strong company with the same goals.",
+    "cn": "A：為什麼那家運動用品公司要全體員工在新加坡商展上穿同樣的藍色襯衫？ B：行銷總監想展現【團結】和團隊精神，讓參觀者看到攤位上的每個人都屬於同一家有共同目標的強大公司。",
+    "collocation": "a sense of unity among staff 員工之間的團結感"
+   },
+   {
+    "word": "share",
+    "pos": "v.",
+    "en_def": "to let others use or have part of something",
+    "cn_def": "分享；共用",
+    "sentence": "A: There aren't enough desks for all the new designers who start on Monday, so what should we do until the extra furniture arrives? B: Two people can {{BLANK}} each large desk by the window for a week, and the others can work in the meeting room, which is free most afternoons.",
+    "cn": "A：週一報到的新設計師沒有足夠的辦公桌，在額外家具送來前我們該怎麼辦？ B：靠窗的每張大桌子可以讓兩個人【共用】一週，其他人可以在會議室工作，那裡大部分下午都沒人用。",
+    "collocation": "share ideas with colleagues 與同事分享想法"
+   },
+   {
+    "word": "joint",
+    "pos": "adj.",
+    "en_def": "done or owned by two or more people together",
+    "cn_def": "共同的；聯合的",
+    "sentence": "A: Are the two banks planning to merge, or are they just working together on that new mobile payment app? B: They are not merging, but they started a {{BLANK}} project last year, so both banks paid for the app and will split the profits from the service equally.",
+    "cn": "A：那兩家銀行打算合併，還是只是一起開發那個新的行動支付應用程式？ B：他們沒有要合併，不過去年啟動了一個【聯合】專案，所以兩家銀行都出資開發這個應用程式，並會平分這項服務的利潤。",
+    "collocation": "a joint venture 合資企業"
+   },
+   {
+    "word": "collective",
+    "pos": "adj.",
+    "en_def": "shared or done by all members of a group",
+    "cn_def": "集體的；共同的",
+    "sentence": "A: Who should get the credit for winning the biggest contract in the company's history after so many months of hard work? B: It was a {{BLANK}} effort, because the sales team found the client, the engineers built the sample and the lawyers checked every line of the long contract.",
+    "cn": "A：經過這麼多個月的努力，贏得公司史上最大合約的功勞應該歸誰？ B：這是【集體的】努力，因為業務團隊找到客戶、工程師做出樣品，律師則檢查了冗長合約中的每一行。",
+    "collocation": "a collective decision 集體決定"
+   },
+   {
+    "word": "mutual",
+    "pos": "adj.",
+    "en_def": "felt or done by two or more people toward each other",
+    "cn_def": "相互的；共同的",
+    "sentence": "A: Why did the factory and the trucking company agree to sign a five-year contract instead of a shorter one this time? B: The deal brings {{BLANK}} benefits, because the factory gets lower delivery prices, and the trucking company knows it will have steady work for many years.",
+    "cn": "A：為什麼這次工廠和貨運公司同意簽五年合約，而不是較短的合約？ B：這筆交易帶來【互惠的】好處，因為工廠能取得較低的運費，而貨運公司也知道未來多年都會有穩定的工作。",
+    "collocation": "mutual respect and trust 互相尊重與信任"
+   },
+   {
+    "word": "consensus",
+    "pos": "n.",
+    "en_def": "an agreement that most or all people in a group accept",
+    "cn_def": "共識",
+    "sentence": "A: Did the managers finally decide where to hold the company trip this year, or are they still arguing about it? B: After a long meeting, they reached a {{BLANK}} to go to Hualien, because most people wanted beaches and mountains, and the hotel there offered a good group price.",
+    "cn": "A：經理們終於決定今年員工旅遊的地點了嗎？還是仍在爭論？ B：經過一場冗長的會議，他們達成去花蓮的【共識】，因為大多數人想要海灘和山景，而且那裡的飯店提供了不錯的團體價格。",
+    "collocation": "reach a consensus 達成共識"
+   },
+   {
+    "word": "compromise",
+    "pos": "n.",
+    "en_def": "an agreement in which each side gives up part of what it wants",
+    "cn_def": "妥協；折衷",
+    "sentence": "A: The designers wanted a bright red logo, and the sales team wanted a dark blue one, so what did they finally choose? B: They agreed on a {{BLANK}}, using dark blue letters with a small red circle, so both teams got part of what they wanted for the new brand.",
+    "cn": "A：設計師想要亮紅色的標誌，業務團隊想要深藍色的，他們最後選了什麼？ B：他們達成了【折衷方案】，採用深藍色字母搭配一個紅色小圓圈，所以兩個團隊都在新品牌上得到了部分想要的東西。",
+    "collocation": "reach a compromise 達成妥協"
+   },
+   {
+    "word": "negotiate",
+    "pos": "v.",
+    "en_def": "to discuss something in order to reach an agreement",
+    "cn_def": "談判；協商",
+    "sentence": "A: The supplier wants to raise the price of paper cups by fifteen percent next month, so should we just accept it? B: No, I will meet their sales manager on Thursday to {{BLANK}} a better deal, perhaps a smaller increase if we promise to order more cups every month.",
+    "cn": "A：供應商下個月想把紙杯價格調漲百分之十五，我們就直接接受嗎？ B：不，我週四會和他們的業務經理見面，【談判】出更好的條件，如果我們承諾每個月訂購更多紙杯，也許漲幅可以小一點。",
+    "collocation": "negotiate a contract 協商合約"
+   },
+   {
+    "word": "negotiation",
+    "pos": "n.",
+    "en_def": "formal discussion between people trying to reach an agreement",
+    "cn_def": "談判；協商",
+    "sentence": "A: Has the company signed the new rental agreement for the warehouse near the port yet? B: Not yet, because the {{BLANK}} with the landlord is still going on, and both sides are arguing about who should pay for repairing the old roof before we move in next month.",
+    "cn": "A：公司已經簽下港口附近倉庫的新租約了嗎？ B：還沒，因為和房東的【談判】仍在進行中，雙方還在爭論下個月我們搬進去前該由誰支付修理舊屋頂的費用。",
+    "collocation": "salary negotiation 薪資談判"
+   },
+   {
+    "word": "facilitate",
+    "pos": "v.",
+    "en_def": "to make an action or process easier",
+    "cn_def": "促進；使便利",
+    "sentence": "A: Why did the company buy that expensive new video system for every meeting room in all of its offices? B: The managers hope it will {{BLANK}} communication between our teams in Taipei, Tokyo and Seoul, so people can solve problems quickly without traveling so often.",
+    "cn": "A：公司為什麼要幫所有辦公室的每間會議室都買那套昂貴的新視訊系統？ B：主管們希望它能【促進】我們台北、東京和首爾團隊之間的溝通，讓大家不必經常出差就能迅速解決問題。",
+    "collocation": "facilitate the discussion 促進討論進行"
+   },
+   {
+    "word": "synchronize",
+    "pos": "v.",
+    "en_def": "to make things happen at the same time or show the same information",
+    "cn_def": "同步；使一致",
+    "sentence": "A: Why did my phone show a different meeting time from the calendar on my office computer this morning? B: You probably forgot to {{BLANK}} the two devices after you changed the time yesterday, so open the app, press the update button, and both calendars should match again.",
+    "cn": "A：為什麼今天早上我手機上顯示的會議時間和辦公室電腦行事曆上的不一樣？ B：你昨天改時間後可能忘了讓這兩台裝置【同步】，打開應用程式按下更新按鈕，兩個行事曆應該就會再次一致。",
+    "collocation": "synchronize files across devices 在不同裝置間同步檔案"
+   },
+   {
+    "word": "harmonious",
+    "pos": "adj.",
+    "en_def": "friendly and peaceful, without arguments",
+    "cn_def": "和諧的；融洽的",
+    "sentence": "A: Why do so few people leave the accounting department, even though the pay there is not higher than in other teams? B: The manager has created a very {{BLANK}} working environment, where people respect each other, solve problems calmly and often have lunch together on Fridays.",
+    "cn": "A：會計部的薪水並沒有比其他團隊高，為什麼很少有人離職？ B：經理營造了一個非常【和諧的】工作環境，大家互相尊重、冷靜解決問題，而且週五常常一起吃午餐。",
+    "collocation": "a harmonious relationship 和諧的關係"
+   },
+   {
+    "word": "together",
+    "pos": "adv.",
+    "en_def": "with each other; as a group",
+    "cn_def": "一起；共同",
+    "sentence": "A: Should each department plan its own end-of-year party, or would one big event for the whole company be better this time? B: I think we should celebrate {{BLANK}} in one hall, because staff from different floors rarely meet, and a big party is a good chance to make new friends.",
+    "cn": "A：今年每個部門應該各自籌辦年終派對，還是全公司辦一場大型活動比較好？ B：我認為我們應該在同一個大廳【一起】慶祝，因為不同樓層的員工很少見面，大型派對是結交新朋友的好機會。",
+    "collocation": "work together as a team 以團隊方式一起工作"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The hotel asked all guests to _____ with the fire safety staff during the drill. Everyone left the building calmly within five minutes.",
+    "options": [
+     "synchronize",
+     "negotiate",
+     "cooperate",
+     "facilitate"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The new children's book was written in _____ with a famous illustrator. The two artists met every week for a year to plan it.",
+    "options": [
+     "collaboration",
+     "consensus",
+     "unity",
+     "negotiation"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Our marketing team will _____ with a popular singer on the new advertisement. She will write a short song about our juice.",
+    "options": [
+     "synchronize",
+     "collaborate",
+     "unite",
+     "assist"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The kitchen staff finished the huge order through great _____. Each cook prepared one dish while the others packed the boxes.",
+    "options": [
+     "negotiation",
+     "alliance",
+     "consensus",
+     "teamwork"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Many employees signed a letter to _____ the plan for a four-day work week. They believe it will reduce stress and improve results.",
+    "options": [
+     "participate",
+     "synchronize",
+     "support",
+     "cooperate"
+    ],
+    "answer": 2,
+    "vocabIndex": 8
+   },
+   {
+    "q": "After ten years as a lawyer, Mr. Wu became a _____ in the firm. He now owns part of the business and shares its profits.",
+    "options": [
+     "partner",
+     "consensus",
+     "unity",
+     "involvement"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The airline hires extra staff in summer to _____ passengers with heavy bags. They also help elderly travelers find their gates.",
+    "options": [
+     "unite",
+     "negotiate",
+     "contribute",
+     "assist"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The phone company announced a new _____ with a popular music service. Customers will get six months of free music with any new plan.",
+    "options": [
+     "compromise",
+     "partnership",
+     "unity",
+     "involvement"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The two universities will open a _____ research center next year. Both schools will share the cost and the equipment.",
+    "options": [
+     "mutual",
+     "harmonious",
+     "joint",
+     "collective"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Ms. Park will _____ the move to the new office next month. She will plan when each team packs and when the trucks arrive.",
+    "options": [
+     "participate",
+     "share",
+     "unite",
+     "coordinate"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The head of sales has been a strong _____ of the environmental team. She always supports their ideas in management meetings.",
+    "options": [
+     "ally",
+     "consensus",
+     "negotiation",
+     "coordination"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Each department was asked to _____ a few ideas for reducing paper waste. The best suggestions will be tested next quarter.",
+    "options": [
+     "synchronize",
+     "contribute",
+     "negotiate",
+     "cooperate"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Five local bookstores formed a business _____ to compete with large online shops. They now share delivery trucks and run joint advertisements.",
+    "options": [
+     "teamwork",
+     "consensus",
+     "alliance",
+     "involvement"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "More than two hundred runners will _____ in the charity race this Sunday. All the money will go to the children's hospital.",
+    "options": [
+     "facilitate",
+     "participate",
+     "negotiate",
+     "synchronize"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The survey shows the _____ view of more than five hundred employees. Most of them want healthier food in the cafeteria.",
+    "options": [
+     "mutual",
+     "harmonious",
+     "joint",
+     "collective"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The concert was a success thanks to careful _____ between the lighting crew and the musicians. Every light changed exactly with the music.",
+    "options": [
+     "coordination",
+     "ally",
+     "contribution",
+     "consensus"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The terrible flood helped _____ the small town in a way nobody expected. Neighbors who never spoke before worked side by side for weeks.",
+    "options": [
+     "negotiate",
+     "synchronize",
+     "unite",
+     "participate"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Ms. Lopez received an award for her _____ to the company's growth in Asia. She opened three new offices in just two years.",
+    "options": [
+     "contribution",
+     "negotiation",
+     "unity",
+     "partnership"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Since parking spaces are limited, staff who live nearby are encouraged to _____ a car. Four people can easily fit in one vehicle.",
+    "options": [
+     "facilitate",
+     "coordinate",
+     "unite",
+     "share"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "_____ in the weekly safety meeting is required for all factory workers. Anyone who misses it must attend a make-up session.",
+    "options": [
+     "consensus",
+     "participation",
+     "alliance",
+     "compromise"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The two managers have great _____ respect for each other. They often disagree, but they always listen carefully before deciding.",
+    "options": [
+     "joint",
+     "collective",
+     "mutual",
+     "harmonious"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Parents' _____ in school activities has increased since the new app was introduced. They can now sign up to volunteer online.",
+    "options": [
+     "alliance",
+     "involvement",
+     "compromise",
+     "ally"
+    ],
+    "answer": 1,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The union will _____ with management next week about a higher salary. Workers hope to get a five percent raise this year.",
+    "options": [
+     "synchronize",
+     "assist",
+     "contribute",
+     "negotiate"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The president's speech called for _____ after the long and difficult merger. She asked both teams to work as one company.",
+    "options": [
+     "unity",
+     "involvement",
+     "partner",
+     "contribution"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The new online booking system will _____ the process of reserving meeting rooms. Staff can now book a room in less than a minute.",
+    "options": [
+     "participate",
+     "unite",
+     "cooperate",
+     "facilitate"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The committee could not reach a _____ on the new logo. Half of the members liked the green design, and half preferred the blue one.",
+    "options": [
+     "consensus",
+     "partner",
+     "teamwork",
+     "involvement"
+    ],
+    "answer": 0,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The hotel's new lobby has a calm and _____ design. The soft colors, plants and gentle music all match perfectly.",
+    "options": [
+     "joint",
+     "harmonious",
+     "mutual",
+     "collective"
+    ],
+    "answer": 1,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The buyer wanted a ten percent discount, but the seller offered only five. In the end, they agreed on a _____ of seven percent.",
+    "options": [
+     "unity",
+     "ally",
+     "compromise",
+     "coordination"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Please _____ your watches before the product launch begins. Every part of the show must start at exactly the right moment.",
+    "options": [
+     "synchronize",
+     "contribute",
+     "negotiate",
+     "support"
+    ],
+    "answer": 0,
+    "vocabIndex": 30
+   },
+   {
+    "q": "After three weeks of _____, the two companies finally signed the contract. Both sides said they were happy with the final price.",
+    "options": [
+     "unity",
+     "ally",
+     "partner",
+     "negotiation"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   }
+  ]
+ },
+ "84": {
+  "theme": "Country 國家",
+  "source": "https://www.examword.com/group-topic/country",
+  "VOCAB": [
+   {
+    "word": "nation",
+    "pos": "n.",
+    "en_def": "a country and its people",
+    "cn_def": "國家；民族",
+    "sentence": "A: Why is the hotel chain spending so much money on advertising in Vietnam this year instead of in its home market? B: The managers believe it is a young and fast-growing {{BLANK}}, so they expect millions of new travelers there to need clean, affordable rooms over the next ten years.",
+    "cn": "A：為什麼這家連鎖飯店今年在越南花這麼多錢打廣告，而不是在本國市場？ B：經理們認為那是一個年輕且快速成長的【國家】，所以預期未來十年那裡會有數百萬名新旅客需要乾淨又平價的房間。",
+    "collocation": "a trading nation 貿易國家"
+   },
+   {
+    "word": "state",
+    "pos": "n.",
+    "en_def": "a part of a country, such as the US, with its own local government",
+    "cn_def": "州",
+    "sentence": "A: Why does the company want to move its main warehouse from California to Texas next spring? B: Taxes and land prices are much lower in that {{BLANK}}, and the new location is closer to our biggest customers, so we can save money and deliver orders a day faster.",
+    "cn": "A：為什麼公司想在明年春天把主要倉庫從加州搬到德州？ B：那個【州】的稅金和土地價格低很多，而且新地點離我們最大的客戶比較近，所以我們可以省錢，而且出貨能快一天。",
+    "collocation": "state law 州法律"
+   },
+   {
+    "word": "republic",
+    "pos": "n.",
+    "en_def": "a country with an elected leader and no king or queen",
+    "cn_def": "共和國",
+    "sentence": "A: What did you learn about the country before you went there to open our new sales office last month? B: I read that it became a {{BLANK}} in 1960, so its leader is chosen by voters every five years, and the government has worked hard to attract foreign companies like ours.",
+    "cn": "A：上個月你去那裡開設我們的新業務辦公室之前，對那個國家有什麼了解？ B：我讀到它在1960年成為【共和國】，所以領導人每五年由選民選出，而且政府一直很努力吸引像我們這樣的外國公司。",
+    "collocation": "declare a republic 宣布成立共和國"
+   },
+   {
+    "word": "kingdom",
+    "pos": "n.",
+    "en_def": "a country ruled by a king or queen",
+    "cn_def": "王國",
+    "sentence": "A: Why are so many tourists booking our tour package to Bhutan, even though the flights are expensive? B: The small mountain {{BLANK}} has a royal family, beautiful old temples and very few visitors, so travelers feel they are discovering a special place that most people never see.",
+    "cn": "A：為什麼即使機票很貴，還是有那麼多遊客預訂我們的不丹旅遊套裝行程？ B：這個小小的山中【王國】有王室、美麗的古老寺廟，而且遊客很少，所以旅客覺得他們正在發現一個大多數人從沒見過的特別地方。",
+    "collocation": "the United Kingdom 英國"
+   },
+   {
+    "word": "government",
+    "pos": "n.",
+    "en_def": "the group of people who control and manage a country",
+    "cn_def": "政府",
+    "sentence": "A: Why are so many small restaurants in our neighborhood hiring young workers again this summer? B: The {{BLANK}} started a new program that pays part of the salary for anyone under twenty-five, so owners can train new staff without spending too much of their own money.",
+    "cn": "A：為什麼我們社區有這麼多小餐廳今年夏天又開始僱用年輕員工？ B：【政府】推出了一項新計畫，替二十五歲以下的人支付部分薪水，所以老闆們可以培訓新員工，而不用花太多自己的錢。",
+    "collocation": "government regulations 政府法規"
+   },
+   {
+    "word": "capital",
+    "pos": "n.",
+    "en_def": "the city where a country's government is",
+    "cn_def": "首都",
+    "sentence": "A: Where will the international trade fair be held next year, and should we book our hotel rooms now? B: It will take place in the {{BLANK}}, near the president's office and the main train station, so I suggest booking early because hotels there fill up quickly during big events.",
+    "cn": "A：明年的國際商展會在哪裡舉辦？我們應該現在就訂飯店房間嗎？ B：會在【首都】舉行，靠近總統府和主要火車站，所以我建議提早預訂，因為那裡的飯店在大型活動期間很快就會客滿。",
+    "collocation": "the capital city 首都城市"
+   },
+   {
+    "word": "border",
+    "pos": "n.",
+    "en_def": "the line between two countries",
+    "cn_def": "邊界；國界",
+    "sentence": "A: Why did the delivery of the machine parts from Germany arrive two days late this week? B: The trucks had to wait for many hours at the {{BLANK}} because customs officers were checking every vehicle carefully, so the driver could not enter the country until Wednesday afternoon.",
+    "cn": "A：為什麼這週從德國運來的機器零件晚了兩天才到？ B：卡車必須在【邊界】等好幾個小時，因為海關人員正在仔細檢查每一輛車，所以司機直到星期三下午才能入境。",
+    "collocation": "cross the border 越過邊界"
+   },
+   {
+    "word": "territory",
+    "pos": "n.",
+    "en_def": "an area of land controlled by a country, or an area a person is responsible for",
+    "cn_def": "領土；（業務）轄區",
+    "sentence": "A: Why are you traveling so much more this year than you did last year? B: My boss made me responsible for a much larger sales {{BLANK}} that includes three countries in Southeast Asia, so I visit clients in a different city almost every week.",
+    "cn": "A：為什麼你今年出差的次數比去年多那麼多？ B：老闆讓我負責一個大得多的銷售【轄區】，包含東南亞三個國家，所以我幾乎每週都要去不同城市拜訪客戶。",
+    "collocation": "a sales territory 銷售區域"
+   },
+   {
+    "word": "citizen",
+    "pos": "n.",
+    "en_def": "a person who legally belongs to a country",
+    "cn_def": "公民；國民",
+    "sentence": "A: Can our new engineer from Canada start working at the Tokyo office next month, or does she need a special visa? B: She is actually a Japanese {{BLANK}} because her mother was born in Osaka, so she does not need a work visa and can start as soon as she finds an apartment.",
+    "cn": "A：我們從加拿大來的新工程師下個月可以開始在東京辦公室上班嗎？還是她需要特別的簽證？ B：她其實是日本【公民】，因為她母親在大阪出生，所以她不需要工作簽證，只要找到公寓就可以開始上班。",
+    "collocation": "a senior citizen 年長者"
+   },
+   {
+    "word": "citizenship",
+    "pos": "n.",
+    "en_def": "the legal right to belong to a country",
+    "cn_def": "公民身分；國籍",
+    "sentence": "A: Why did the human resources manager ask for a copy of your passport during the interview yesterday? B: For this government project, every employee must have local {{BLANK}}, so she needed to check that I was born here and have the right to work on secret documents.",
+    "cn": "A：為什麼人資經理昨天面試時要你的護照影本？ B：這個政府專案的每位員工都必須具備本國【公民身分】，所以她需要確認我是在這裡出生，而且有權處理機密文件。",
+    "collocation": "dual citizenship 雙重國籍"
+   },
+   {
+    "word": "population",
+    "pos": "n.",
+    "en_def": "the number of people living in a place",
+    "cn_def": "人口",
+    "sentence": "A: Why did the supermarket chain decide to open three new stores in the northern part of the city? B: The {{BLANK}} there has grown quickly since the new train line opened, and many young families have moved into the apartments, so the company expects strong sales of fresh food.",
+    "cn": "A：為什麼這家連鎖超市決定在城市北區開三家新店？ B：自從新的火車路線開通後，那裡的【人口】快速成長，許多年輕家庭搬進了公寓，所以公司預期生鮮食品的銷售會很強勁。",
+    "collocation": "a growing population 不斷成長的人口"
+   },
+   {
+    "word": "democracy",
+    "pos": "n.",
+    "en_def": "a system in which people vote to choose their government",
+    "cn_def": "民主；民主國家",
+    "sentence": "A: Why is the news channel planning so many special programs for next weekend? B: The country is holding its first free election since it became a {{BLANK}}, so reporters will interview voters all day and explain the results live as soon as the votes are counted.",
+    "cn": "A：為什麼新聞台下週末規劃了那麼多特別節目？ B：這個國家自從成為【民主國家】以來首次舉行自由選舉，所以記者們會整天採訪選民，並在計票完成後立刻現場解說結果。",
+    "collocation": "a strong democracy 健全的民主制度"
+   },
+   {
+    "word": "economy",
+    "pos": "n.",
+    "en_def": "the system of money, trade and jobs in a country",
+    "cn_def": "經濟",
+    "sentence": "A: Why are fewer customers buying new cars at our showroom this year compared with last year? B: The {{BLANK}} has been weak since prices for food and gas went up, so many families are worried about their jobs and prefer to keep their old cars a little longer.",
+    "cn": "A：為什麼今年來我們展示中心買新車的顧客比去年少？ B：自從食物和油價上漲後，【經濟】一直很疲弱，所以許多家庭擔心工作不保，寧願把舊車多開一陣子。",
+    "collocation": "boost the economy 提振經濟"
+   },
+   {
+    "word": "culture",
+    "pos": "n.",
+    "en_def": "the customs, art and way of life of a group of people",
+    "cn_def": "文化",
+    "sentence": "A: Why does the company give a two-day training course to every manager before they move to the Seoul office? B: Business {{BLANK}} in Korea is quite different from ours, so the course teaches managers how to greet clients, exchange business cards and behave politely at company dinners.",
+    "cn": "A：為什麼公司要讓每位經理在調到首爾辦公室之前上兩天的訓練課程？ B：韓國的商業【文化】和我們的很不一樣，所以課程會教經理如何問候客戶、交換名片，以及在公司聚餐時表現得有禮貌。",
+    "collocation": "company culture 公司文化"
+   },
+   {
+    "word": "tradition",
+    "pos": "n.",
+    "en_def": "a custom or belief passed down over many years",
+    "cn_def": "傳統",
+    "sentence": "A: Why does everyone in the office bring a dish of food to the meeting room on the last Friday of December? B: It is a {{BLANK}} that our founder started thirty years ago, so each department cooks something special and we all eat lunch together before the holiday break.",
+    "cn": "A：為什麼辦公室的每個人在十二月的最後一個星期五都帶一道菜到會議室？ B：這是我們創辦人三十年前開始的【傳統】，所以每個部門都會煮一道特別的菜，我們在放假前一起吃午餐。",
+    "collocation": "keep up a tradition 維持傳統"
+   },
+   {
+    "word": "heritage",
+    "pos": "n.",
+    "en_def": "the history, buildings and customs that a country or group values",
+    "cn_def": "遺產；文化資產",
+    "sentence": "A: Why did the city council reject the plan to build a shopping mall on the old harbor site? B: The old warehouses there are an important part of the city's {{BLANK}}, so the council wants to protect them and turn them into a museum and small shops for tourists.",
+    "cn": "A：為什麼市議會否決了在舊港口用地蓋購物中心的計畫？ B：那裡的舊倉庫是這座城市【文化資產】的重要部分，所以議會想保護它們，並把它們改建成博物館和給遊客的小店。",
+    "collocation": "a world heritage site 世界遺產"
+   },
+   {
+    "word": "language",
+    "pos": "n.",
+    "en_def": "the words and grammar people use to speak and write",
+    "cn_def": "語言",
+    "sentence": "A: Why did the hotel hire two new receptionists even though business has been slow this autumn? B: Many of our guests now come from Spain and Brazil, so the manager wanted staff who speak a second {{BLANK}} well enough to help visitors check in and answer their questions.",
+    "cn": "A：為什麼飯店今年秋天生意清淡，還是僱用了兩位新的櫃台人員？ B：我們現在有很多客人來自西班牙和巴西，所以經理想要第二種【語言】說得夠好的員工，來幫助旅客辦理入住並回答他們的問題。",
+    "collocation": "a foreign language 外語"
+   },
+   {
+    "word": "religion",
+    "pos": "n.",
+    "en_def": "a belief in God or gods and the activities connected with it",
+    "cn_def": "宗教",
+    "sentence": "A: Why did the restaurant add so many new vegetarian dishes to its menu this year? B: Many of our customers follow a {{BLANK}} that does not allow them to eat meat, so the chef created more choices to make sure every guest can enjoy a full meal here.",
+    "cn": "A：為什麼這家餐廳今年在菜單上加了那麼多新的素食料理？ B：我們有很多顧客信奉不允許吃肉的【宗教】，所以主廚設計了更多選擇，確保每位客人都能在這裡享用完整的一餐。",
+    "collocation": "freedom of religion 宗教自由"
+   },
+   {
+    "word": "flag",
+    "pos": "n.",
+    "en_def": "a piece of cloth with a special design that is the symbol of a country or group",
+    "cn_def": "國旗；旗子",
+    "sentence": "A: What should we put on the stage for the welcome ceremony when the Japanese partners arrive on Monday? B: Please place their national {{BLANK}} next to ours behind the speaker's desk, because it shows respect for our guests and will look good in the photos for the newsletter.",
+    "cn": "A：日本合作夥伴星期一抵達時，歡迎儀式的舞台上應該放什麼？ B：請把他們的【國旗】放在講台後方我們的國旗旁邊，因為這表示對貴賓的尊重，而且在電子報的照片裡也會很好看。",
+    "collocation": "raise the flag 升旗"
+   },
+   {
+    "word": "anthem",
+    "pos": "n.",
+    "en_def": "a country's official song",
+    "cn_def": "國歌",
+    "sentence": "A: Why did everyone in the stadium stand up before the football match started last night? B: The band played the national {{BLANK}} before the opening kick, so all the players and fans stood quietly to show respect, and then the crowd cheered loudly when the game finally began.",
+    "cn": "A：昨晚足球賽開始前，為什麼體育場裡的每個人都站起來？ B：樂隊在開球前演奏【國歌】，所以所有球員和球迷都安靜地站著表示敬意，比賽終於開始時，觀眾才大聲歡呼。",
+    "collocation": "sing the national anthem 唱國歌"
+   },
+   {
+    "word": "independence",
+    "pos": "n.",
+    "en_def": "freedom from control by another country",
+    "cn_def": "獨立",
+    "sentence": "A: Why will the bank and the post office be closed next Thursday? B: It is the day the country celebrates its {{BLANK}} from Britain, so it is a public holiday, and there will be a big parade with music and fireworks along the main street in the evening.",
+    "cn": "A：為什麼銀行和郵局下週四不營業？ B：那天是國家慶祝脫離英國【獨立】的日子，所以是國定假日，晚上主要街道上還會有盛大的遊行，有音樂和煙火。",
+    "collocation": "Independence Day 獨立紀念日"
+   },
+   {
+    "word": "colony",
+    "pos": "n.",
+    "en_def": "a country or area controlled by another country",
+    "cn_def": "殖民地",
+    "sentence": "A: Why do so many street signs and old buildings in this city look so European? B: The city was a Portuguese {{BLANK}} for more than four hundred years, so the old churches, squares and even some of the food still show the influence of that long period.",
+    "cn": "A：為什麼這座城市有那麼多路標和老建築看起來很有歐洲風格？ B：這座城市曾經是葡萄牙【殖民地】超過四百年，所以老教堂、廣場，甚至一些食物至今仍顯示出那段漫長時期的影響。",
+    "collocation": "a former colony 前殖民地"
+   },
+   {
+    "word": "urban",
+    "pos": "adj.",
+    "en_def": "connected with towns and cities",
+    "cn_def": "都市的；城市的",
+    "sentence": "A: Why is the car-sharing company only offering its service in large cities and not in small towns? B: In {{BLANK}} areas, many people live close together, parking is expensive and fewer people own cars, so the service is used much more often and makes a bigger profit.",
+    "cn": "A：為什麼這家共享汽車公司只在大城市提供服務，而不在小鎮？ B：在【都市】地區，很多人住得很近，停車費很貴，而且擁有汽車的人比較少，所以服務的使用率高得多，利潤也比較大。",
+    "collocation": "urban development 都市發展"
+   },
+   {
+    "word": "rural",
+    "pos": "adj.",
+    "en_def": "connected with the countryside",
+    "cn_def": "鄉村的",
+    "sentence": "A: Why is the internet company building so many new towers in the mountains this year? B: The government wants families in {{BLANK}} villages to have fast internet too, so it is paying the company to bring service to farms and small schools far away from the cities.",
+    "cn": "A：為什麼網路公司今年在山區蓋了那麼多新的基地台？ B：政府希望【鄉村】地區村落的家庭也能有快速網路，所以付錢讓公司把服務帶到遠離城市的農場和小學校。",
+    "collocation": "rural areas 鄉村地區"
+   },
+   {
+    "word": "developed",
+    "pos": "adj.",
+    "en_def": "having many industries and a high standard of living",
+    "cn_def": "已開發的",
+    "sentence": "A: Why are the company's sales of luxury watches so strong in Europe and North America? B: People in highly {{BLANK}} countries usually have higher incomes and more free time, so they are more willing to spend money on expensive gifts and quality products that last for many years.",
+    "cn": "A：為什麼公司的高級手錶在歐洲和北美賣得那麼好？ B：高度【已開發】國家的人通常收入較高、空閒時間較多，所以比較願意花錢買昂貴的禮物和能用很多年的優質產品。",
+    "collocation": "developed countries 已開發國家"
+   },
+   {
+    "word": "developing",
+    "pos": "adj.",
+    "en_def": "becoming richer and building more industries",
+    "cn_def": "開發中的",
+    "sentence": "A: Why is our company making a cheaper version of its smartphone this year? B: Many customers in {{BLANK}} countries want a reliable phone but cannot pay high prices yet, so a simpler model with a good camera could help us sell millions more units in Africa and Asia.",
+    "cn": "A：為什麼我們公司今年要推出比較便宜的智慧型手機版本？ B：許多【開發中】國家的顧客想要可靠的手機，但目前還付不起高價，所以一款相機不錯的簡化機型能幫我們在非洲和亞洲多賣出數百萬支。",
+    "collocation": "developing nations 開發中國家"
+   },
+   {
+    "word": "coastal",
+    "pos": "adj.",
+    "en_def": "on or near the coast",
+    "cn_def": "沿海的",
+    "sentence": "A: Where is the new hotel resort going to be built, and when will it be ready for guests? B: It will be in a quiet {{BLANK}} town about two hours south of the airport, right next to the beach, and the owners hope to welcome the first guests before next summer.",
+    "cn": "A：新的度假飯店要蓋在哪裡？什麼時候可以接待客人？ B：會蓋在機場南邊大約兩小時車程的一個安靜【沿海】小鎮，就在海灘旁邊，業主希望在明年夏天前迎接第一批客人。",
+    "collocation": "coastal areas 沿海地區"
+   },
+   {
+    "word": "inland",
+    "pos": "adj.",
+    "en_def": "away from the sea, in the middle of a country",
+    "cn_def": "內陸的",
+    "sentence": "A: Why does it take so long to ship our products to the customer in Chengdu? B: It is a large {{BLANK}} city far from the ocean, so the containers arrive at the port in Shanghai first and then travel by train for several more days before they reach the warehouse.",
+    "cn": "A：為什麼把我們的產品運到成都的客戶那裡要花那麼久？ B：那是一座遠離海洋的大型【內陸】城市，所以貨櫃會先抵達上海的港口，再搭火車走好幾天才到倉庫。",
+    "collocation": "inland transportation 內陸運輸"
+   },
+   {
+    "word": "diverse",
+    "pos": "adj.",
+    "en_def": "including many different types of people or things",
+    "cn_def": "多元的；各式各樣的",
+    "sentence": "A: Why does the marketing team want to show people of different ages and backgrounds in the new advertisement? B: Our customers are a very {{BLANK}} group, from students to retired teachers, so the team wants everyone who watches the ad to feel that the product is also made for them.",
+    "cn": "A：為什麼行銷團隊想在新廣告裡呈現不同年齡和背景的人？ B：我們的顧客群非常【多元】，從學生到退休老師都有，所以團隊希望每個看廣告的人都覺得這個產品也是為他們設計的。",
+    "collocation": "a diverse workforce 多元的員工組成"
+   },
+   {
+    "word": "patriotic",
+    "pos": "adj.",
+    "en_def": "loving and supporting your country",
+    "cn_def": "愛國的",
+    "sentence": "A: Why did the sports drink company use so many red and white colors in its new commercial? B: The ad will be shown during the national team's World Cup games, so the company wanted a {{BLANK}} message that makes viewers feel proud and connected to the players.",
+    "cn": "A：為什麼那家運動飲料公司在新廣告裡用了那麼多紅色和白色？ B：這支廣告會在國家隊的世界盃比賽期間播出，所以公司想傳達【愛國】的訊息，讓觀眾感到驕傲並與球員產生連結。",
+    "collocation": "patriotic songs 愛國歌曲"
+   },
+   {
+    "word": "national",
+    "pos": "adj.",
+    "en_def": "connected with a whole country",
+    "cn_def": "全國的；國家的",
+    "sentence": "A: Why are all the shops downtown so busy with customers buying gifts this week? B: Monday is a {{BLANK}} holiday, so most people have a long weekend off work, and many of them are buying presents and food before they travel home to visit their families.",
+    "cn": "A：為什麼這週市中心的商店都擠滿了買禮物的顧客？ B：星期一是【國定】假日，所以大部分人都有連假，很多人在回家探望家人之前購買禮物和食物。",
+    "collocation": "a national holiday 國定假日"
+   },
+   {
+    "word": "foreign",
+    "pos": "adj.",
+    "en_def": "from or connected with another country",
+    "cn_def": "外國的",
+    "sentence": "A: Why does the bank have such a long line of travelers at the counter near the entrance today? B: That counter changes {{BLANK}} money, and many people are getting dollars and euros before the summer holidays, so the staff are busy serving customers all morning.",
+    "cn": "A：為什麼今天銀行入口附近的櫃台排了那麼長的旅客隊伍？ B：那個櫃台負責兌換【外國】貨幣，很多人在暑假前換美元和歐元，所以員工整個上午都忙著服務顧客。",
+    "collocation": "foreign investment 外國投資"
+   },
+   {
+    "word": "overseas",
+    "pos": "adj.",
+    "en_def": "in or from another country across the sea",
+    "cn_def": "海外的",
+    "sentence": "A: Why did the furniture company hire three new sales staff who speak both English and Japanese? B: Most of its {{BLANK}} customers live in the United States and Japan, so the company needs people who can answer emails and phone calls from those markets quickly and politely.",
+    "cn": "A：為什麼那家家具公司僱用了三位會說英文和日文的新業務人員？ B：它大部分的【海外】顧客住在美國和日本，所以公司需要能快速且有禮貌地回覆來自那些市場的電子郵件和電話的人。",
+    "collocation": "overseas markets 海外市場"
+   },
+   {
+    "word": "abroad",
+    "pos": "adv.",
+    "en_def": "in or to a foreign country",
+    "cn_def": "在國外；到國外",
+    "sentence": "A: Why is Mr. Chen leaving his job at the bank after working there for fifteen years? B: He has accepted an offer to work {{BLANK}} for two years at a company in London, and he wants his children to learn English and experience life in another country while they are young.",
+    "cn": "A：陳先生為什麼在銀行工作十五年後要離職？ B：他接受了一份到【國外】倫敦一家公司工作兩年的機會，他希望孩子們趁年紀還小時學英文，並體驗在另一個國家的生活。",
+    "collocation": "study abroad 出國留學"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The prime minister gave a speech to the whole _____ on television last night. She promised to create more jobs next year.",
+    "options": [
+     "nation",
+     "border",
+     "flag",
+     "heritage"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Our company has offices in every _____ in the western United States. The largest one is in Nevada, near Las Vegas.",
+    "options": [
+     "citizen",
+     "tradition",
+     "state",
+     "language"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The new tax rules were announced by the _____ on Monday. Small businesses will pay less tax starting in January.",
+    "options": [
+     "population",
+     "government",
+     "culture",
+     "flag"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Most of the country's banks have their head offices in the _____. It is also the city where the president lives.",
+    "options": [
+     "economy",
+     "religion",
+     "democracy",
+     "capital"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Travelers must show their passports when they cross the _____ between the two countries. The check usually takes about ten minutes.",
+    "options": [
+     "capital",
+     "population",
+     "border",
+     "culture"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Ms. Kim is responsible for a large sales _____ in northern Europe. She visits customers in Sweden, Norway and Finland every month.",
+    "options": [
+     "territory",
+     "tradition",
+     "democracy",
+     "religion"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Every _____ over the age of eighteen can vote in the election. Voting stations will open at eight in the morning.",
+    "options": [
+     "economy",
+     "border",
+     "heritage",
+     "citizen"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Applicants for this government job must hold local _____. Please attach a copy of your passport to your application form.",
+    "options": [
+     "population",
+     "citizenship",
+     "tradition",
+     "anthem"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The _____ of the city has doubled in the last twenty years. As a result, the government is building more schools and hospitals.",
+    "options": [
+     "language",
+     "flag",
+     "religion",
+     "population"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "In a _____, people choose their leaders by voting in free elections. The country held its first election in 1996.",
+    "options": [
+     "border",
+     "democracy",
+     "flag",
+     "heritage"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Experts expect the _____ to grow by three percent next year. Exports of computer chips are rising quickly.",
+    "options": [
+     "economy",
+     "flag",
+     "citizen",
+     "religion"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "New employees from overseas often need time to learn about the company _____. For example, staff here usually eat lunch together.",
+    "options": [
+     "border",
+     "capital",
+     "culture",
+     "citizen"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Giving red envelopes during the Lunar New Year is an old _____ in Taiwan. Many companies also give them to their employees.",
+    "options": [
+     "territory",
+     "tradition",
+     "population",
+     "democracy"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The old train station is part of the town's _____ and cannot be torn down. It will become a small history museum instead.",
+    "options": [
+     "economy",
+     "citizen",
+     "border",
+     "heritage"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Ms. Lopez speaks Spanish, English and French. Her ability to use more than one _____ makes her perfect for the international sales team.",
+    "options": [
+     "territory",
+     "capital",
+     "language",
+     "colony"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Hotel staff should respect the _____ of every guest. For example, some guests do not eat pork or drink alcohol for spiritual reasons.",
+    "options": [
+     "religion",
+     "border",
+     "economy",
+     "capital"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "A large _____ with the company logo hangs above the main entrance. Visitors can see it clearly from the highway.",
+    "options": [
+     "population",
+     "democracy",
+     "flag",
+     "heritage"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The country celebrated one hundred years of _____ last summer. Before that, it had been controlled by a foreign power.",
+    "options": [
+     "independence",
+     "population",
+     "capital",
+     "anthem"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Traffic jams are common in crowded _____ areas, where millions of people drive to work. The city plans to add more bus lanes.",
+    "options": [
+     "patriotic",
+     "foreign",
+     "rural",
+     "urban"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Many young people are leaving _____ villages to find jobs in the city. As a result, some farms have no one to work on them.",
+    "options": [
+     "urban",
+     "rural",
+     "patriotic",
+     "developed"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Highly _____ countries such as Japan and Germany have modern roads and hospitals. Most people there also earn high incomes.",
+    "options": [
+     "rural",
+     "coastal",
+     "developed",
+     "patriotic"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Our charity builds clean water systems in _____ countries in Africa. These countries are growing quickly but still need help with basic services.",
+    "options": [
+     "developed",
+     "developing",
+     "patriotic",
+     "urban"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The storm is expected to hit _____ towns on Friday night. People who live near the beach should move to higher ground.",
+    "options": [
+     "coastal",
+     "inland",
+     "patriotic",
+     "foreign"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Our staff come from twelve different countries and speak many languages. We are proud to have such a _____ team.",
+    "options": [
+     "rural",
+     "inland",
+     "coastal",
+     "diverse"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The bank will be closed on Monday because it is a _____ holiday. All branches will reopen on Tuesday morning at nine.",
+    "options": [
+     "rural",
+     "national",
+     "inland",
+     "coastal"
+    ],
+    "answer": 1,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Tourists can exchange _____ currency at the counter near the hotel lobby. The service is available from seven a.m. to ten p.m.",
+    "options": [
+     "rural",
+     "urban",
+     "diverse",
+     "foreign"
+    ],
+    "answer": 3,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The company's _____ sales grew by twenty percent last year. Most of the growth came from new customers in Europe and Australia.",
+    "options": [
+     "rural",
+     "patriotic",
+     "overseas",
+     "inland"
+    ],
+    "answer": 2,
+    "vocabIndex": 32
+   },
+   {
+    "q": "Goods arriving at the port are sent by train to _____ cities. The trip to the center of the country takes about three days.",
+    "options": [
+     "inland",
+     "coastal",
+     "patriotic",
+     "foreign"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The singer performed many _____ songs at the National Day concert. The audience waved flags and sang along proudly.",
+    "options": [
+     "rural",
+     "inland",
+     "coastal",
+     "patriotic"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Thailand is a _____ with a king who is greatly respected. Visitors should be careful when they talk about the royal family.",
+    "options": [
+     "population",
+     "kingdom",
+     "economy",
+     "heritage"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   }
+  ]
+ },
+ "85": {
+  "theme": "Countryside 鄉村",
+  "source": "https://www.examword.com/group-topic/countryside",
+  "VOCAB": [
+   {
+    "word": "rural",
+    "pos": "adj.",
+    "en_def": "in or relating to the countryside",
+    "cn_def": "鄉村的；農村的",
+    "sentence": "A: Why is the bank planning to open three small branches outside the city next spring, when most customers now use the mobile app? B: Many older people in {{BLANK}} areas still prefer to talk to a real person about loans and savings, and the nearest branch for them is more than an hour away by bus.",
+    "cn": "A：大部分顧客現在都用手機應用程式，為什麼銀行還打算明年春天在城外開三家小分行？ B：許多住在【鄉村】地區的年長者仍然比較喜歡和真人討論貸款和存款的事，而且對他們來說最近的分行搭公車要一個多小時。",
+    "collocation": "rural areas 鄉村地區"
+   },
+   {
+    "word": "village",
+    "pos": "n.",
+    "en_def": "a small group of houses and other buildings in the countryside",
+    "cn_def": "村莊",
+    "sentence": "A: Where is the film crew going to shoot the new television commercial for our organic tea, since the city studio is fully booked this month? B: They found a quiet mountain {{BLANK}} with old stone houses and narrow streets about two hours south of here, and the local people have agreed to appear in some scenes.",
+    "cn": "A：既然市區的攝影棚這個月都被訂滿了，拍攝團隊要去哪裡拍我們有機茶的新電視廣告？ B：他們在這裡往南大約兩小時車程的地方找到一個寧靜的山間【村莊】，那裡有古老的石屋和狹窄的街道，而且當地居民也同意在一些場景中入鏡。",
+    "collocation": "a small fishing village 小漁村"
+   },
+   {
+    "word": "farm",
+    "pos": "n.",
+    "en_def": "land and buildings used for growing crops or keeping animals",
+    "cn_def": "農場",
+    "sentence": "A: Why does the restaurant manager drive out of the city every Tuesday morning instead of ordering vegetables from the usual supplier? B: She buys eggs, cheese and vegetables directly from a family {{BLANK}} near the mountains, because the food is fresher, the price is fair, and customers love reading about it on the menu.",
+    "cn": "A：為什麼餐廳經理每週二早上都開車出城，而不是向平常的供應商訂購蔬菜？ B：她直接向山區附近一座家庭【農場】購買雞蛋、起司和蔬菜，因為食物比較新鮮、價格公道，而且顧客很喜歡在菜單上讀到這些介紹。",
+    "collocation": "a dairy farm 酪農場"
+   },
+   {
+    "word": "farmland",
+    "pos": "n.",
+    "en_def": "land that is used for farming",
+    "cn_def": "農地",
+    "sentence": "A: Why are so many people in the town upset about the plan to build a new shopping center next to the highway? B: The developer wants to cover about fifty hectares of rich {{BLANK}} with concrete and parking lots, and local families worry that rice growers will lose their jobs and the area will flood more easily.",
+    "cn": "A：為什麼鎮上這麼多人對在高速公路旁蓋新購物中心的計畫感到不滿？ B：開發商想把大約五十公頃肥沃的【農地】鋪上水泥、蓋成停車場，當地家庭擔心稻農會失去工作，而且這個地區會更容易淹水。",
+    "collocation": "protect farmland from development 保護農地免於開發"
+   },
+   {
+    "word": "field",
+    "pos": "n.",
+    "en_def": "an area of open land used for growing crops or keeping animals",
+    "cn_def": "田地；原野",
+    "sentence": "A: Why did the photographer ask the bus driver to stop on the country road for a few minutes during the company trip? B: She saw a huge {{BLANK}} of yellow sunflowers shining in the afternoon light, and she wanted to take a group photo of all of us for the cover of the annual report.",
+    "cn": "A：員工旅遊途中，攝影師為什麼請司機在鄉間小路上停幾分鐘？ B：她看到一大片向日葵【田】在午後的陽光下閃閃發亮，想幫我們所有人拍一張團體照，用來當年度報告的封面。",
+    "collocation": "a field of wheat 一片麥田"
+   },
+   {
+    "word": "pasture",
+    "pos": "n.",
+    "en_def": "land covered with grass where cows, sheep or horses eat",
+    "cn_def": "牧場；牧草地",
+    "sentence": "A: How does the dairy company keep the quality of its milk so high, even though its prices are lower than most competitors? B: The cows spend most of the day eating grass on open {{BLANK}} instead of staying inside crowded buildings, so they are healthier and the farmers spend less money on medicine and feed.",
+    "cn": "A：這家乳品公司的價格比大多數競爭對手低，為什麼還能讓牛奶品質維持這麼高？ B：乳牛一天大部分時間都在開闊的【牧場】上吃草，而不是待在擁擠的建築裡，所以牠們比較健康，農民花在藥品和飼料上的錢也比較少。",
+    "collocation": "cattle grazing on green pasture 在青翠牧場上吃草的牛群"
+   },
+   {
+    "word": "barn",
+    "pos": "n.",
+    "en_def": "a large farm building for storing crops or keeping animals",
+    "cn_def": "穀倉；畜棚",
+    "sentence": "A: Have you found a special place for the company's twentieth anniversary party, or are we going to use the hotel ballroom again this year? B: I booked an old wooden {{BLANK}} on a horse farm outside town that has been turned into an event space, with long tables, warm lights and room for two hundred guests.",
+    "cn": "A：你找到適合公司二十週年派對的特別場地了嗎？還是我們今年又要用飯店的宴會廳？ B：我訂了城外一座馬場上的老舊木造【穀倉】，它已經改建成活動場地，有長桌、溫暖的燈光，可以容納兩百位賓客。",
+    "collocation": "a converted barn 改建過的穀倉"
+   },
+   {
+    "word": "cottage",
+    "pos": "n.",
+    "en_def": "a small house, usually in the countryside",
+    "cn_def": "小屋；村舍",
+    "sentence": "A: Where are you planning to stay during your two-week holiday in the north of England after the busy sales season ends? B: My husband and I rented a small stone {{BLANK}} beside a quiet lake, with a fireplace and a little garden, because we just want to read, walk and sleep without any phone calls from work.",
+    "cn": "A：忙碌的銷售旺季結束後，你們去英格蘭北部度假兩週時打算住在哪裡？ B：我先生和我在一座寧靜的湖邊租了一間石造【小屋】，有壁爐和一座小花園，因為我們只想看書、散步和睡覺，不想接到任何工作電話。",
+    "collocation": "rent a holiday cottage 租一間度假小屋"
+   },
+   {
+    "word": "landscape",
+    "pos": "n.",
+    "en_def": "everything you can see when you look across a large area of land",
+    "cn_def": "風景；景觀",
+    "sentence": "A: Why did the tourism board choose that particular region for its new advertising campaign aimed at visitors from Japan and Korea? B: The {{BLANK}} there changes so much with the seasons, from green rice terraces in summer to golden hills in autumn, that the photographers can create beautiful pictures all year round.",
+    "cn": "A：觀光局為什麼選擇那個地區來做針對日本和韓國遊客的新廣告活動？ B：那裡的【景觀】隨著季節變化很大，從夏天翠綠的梯田到秋天金黃的山丘，攝影師一整年都能拍出美麗的照片。",
+    "collocation": "a stunning mountain landscape 壯麗的山景"
+   },
+   {
+    "word": "scenery",
+    "pos": "n.",
+    "en_def": "the natural features of an area, such as mountains and trees, especially when beautiful",
+    "cn_def": "風景；景色",
+    "sentence": "A: Why do you always take the slow train to the branch office in Hualien instead of flying there in less than an hour? B: The railway runs between the mountains and the ocean, and the {{BLANK}} is so beautiful that I can relax, prepare for my meetings and arrive feeling much calmer than after a flight.",
+    "cn": "A：你去花蓮分公司時為什麼總是搭慢車，而不是搭不到一小時的飛機？ B：鐵路穿梭在山與海之間，沿途【風景】非常美，讓我可以放鬆並準備會議，抵達時也比搭飛機平靜許多。",
+    "collocation": "enjoy the beautiful scenery 欣賞美麗的風景"
+   },
+   {
+    "word": "meadow",
+    "pos": "n.",
+    "en_def": "a field with grass and wild flowers",
+    "cn_def": "草地；草原",
+    "sentence": "A: What kind of activities have you planned for the team-building weekend at the mountain resort next month? B: On Saturday afternoon we will have a picnic and some outdoor games in a large {{BLANK}} full of wild flowers behind the hotel, and in the evening everyone can watch the stars around a campfire.",
+    "cn": "A：下個月在山區度假村的團隊建立週末，你安排了哪些活動？ B：星期六下午我們會在飯店後面一片開滿野花的大【草地】上野餐並玩一些戶外遊戲，晚上大家可以圍著營火看星星。",
+    "collocation": "a meadow of wild flowers 開滿野花的草地"
+   },
+   {
+    "word": "valley",
+    "pos": "n.",
+    "en_def": "an area of low land between hills or mountains",
+    "cn_def": "山谷；溪谷",
+    "sentence": "A: Why does the wine company want to open a visitor center so far away from the main cities and highways? B: Its vineyards are in a green {{BLANK}} between two mountain ranges, where the weather is perfect for grapes, and tourists enjoy driving down there to taste the wine and take photos.",
+    "cn": "A：為什麼這家葡萄酒公司想把遊客中心設在離主要城市和高速公路那麼遠的地方？ B：它的葡萄園位於兩座山脈之間一個翠綠的【山谷】裡，那裡的天氣非常適合種葡萄，遊客也喜歡開車去那裡品酒和拍照。",
+    "collocation": "a deep river valley 深邃的河谷"
+   },
+   {
+    "word": "hill",
+    "pos": "n.",
+    "en_def": "an area of land higher than the land around it, but smaller than a mountain",
+    "cn_def": "小山；丘陵",
+    "sentence": "A: Is the new hotel really worth the extra cost for our conference guests, or should we choose the cheaper one near the train station? B: I think it is worth it, because it sits on top of a {{BLANK}} with a wide view of the bay, and guests can walk down to the beach in ten minutes.",
+    "cn": "A：新飯店對我們的會議來賓來說真的值得多花錢嗎？還是我們應該選火車站附近比較便宜的那家？ B：我覺得值得，因為它位在一座【小山】的山頂上，可以看到海灣的廣闊景色，來賓走十分鐘就能下到海灘。",
+    "collocation": "walk up a steep hill 走上一座陡峭的小山"
+   },
+   {
+    "word": "forest",
+    "pos": "n.",
+    "en_def": "a large area of land covered with trees",
+    "cn_def": "森林",
+    "sentence": "A: Why did the paper company decide to plant one million trees over the next five years, even though it will cost a lot of money? B: Customers want products that are good for the environment, and the new {{BLANK}} will replace the trees we cut down, protect animals and clean the air for nearby towns.",
+    "cn": "A：雖然要花很多錢，為什麼這家造紙公司還決定在未來五年種植一百萬棵樹？ B：顧客想要對環境友善的產品，而這片新【森林】可以取代我們砍掉的樹木、保護動物，並為附近的城鎮淨化空氣。",
+    "collocation": "a tropical rain forest 熱帶雨林"
+   },
+   {
+    "word": "woods",
+    "pos": "n.",
+    "en_def": "an area of land covered with trees, smaller than a forest",
+    "cn_def": "樹林",
+    "sentence": "A: How do you manage to stay so calm and focused during the busy end-of-year period at the accounting firm? B: Every Sunday morning I take my dog for a long walk in the {{BLANK}} behind our apartment building, where it is cool and quiet, and I come back feeling ready for another week of deadlines.",
+    "cn": "A：會計事務所年底這麼忙，你怎麼還能保持冷靜和專注？ B：每個星期天早上我都會帶狗到我們公寓後面的【樹林】裡散步很久，那裡涼爽又安靜，回來後我就準備好再迎接一週的截止期限了。",
+    "collocation": "go for a walk in the woods 去樹林裡散步"
+   },
+   {
+    "word": "stream",
+    "pos": "n.",
+    "en_def": "a small, narrow river",
+    "cn_def": "小溪；溪流",
+    "sentence": "A: Why did the campsite owner tell us not to drink the water from the tap in the cabin without boiling it first? B: The water comes from a small mountain {{BLANK}} that runs past the farms above the camp, so it might contain dirt or bacteria, but there is free bottled water at the front desk.",
+    "cn": "A：營地老闆為什麼告訴我們，小木屋水龍頭的水要先煮沸才能喝？ B：那些水來自一條流經營地上方農場的山間【小溪】，所以可能含有泥土或細菌，不過櫃檯有免費的瓶裝水。",
+    "collocation": "a clear mountain stream 清澈的山間小溪"
+   },
+   {
+    "word": "river",
+    "pos": "n.",
+    "en_def": "a large natural flow of water that goes into the sea or a lake",
+    "cn_def": "河流",
+    "sentence": "A: Why were all the trucks from the northern warehouse delayed by almost three hours yesterday afternoon? B: After two days of heavy rain, the {{BLANK}} rose so high that the police closed the main bridge into town, so every vehicle had to take a long route through the mountains.",
+    "cn": "A：北部倉庫的所有卡車昨天下午為什麼延誤了將近三個小時？ B：連續下了兩天大雨後，【河】水漲得太高，警方封閉了進城的主要橋樑，所以每輛車都得繞遠路穿過山區。",
+    "collocation": "cross the river by ferry 搭渡輪過河"
+   },
+   {
+    "word": "lake",
+    "pos": "n.",
+    "en_def": "a large area of water surrounded by land",
+    "cn_def": "湖；湖泊",
+    "sentence": "A: What makes the new resort different from the other hotels that our travel agency usually recommends to its customers? B: Every room has a balcony that looks out over a clear blue {{BLANK}}, and guests can rent small boats, go fishing or simply sit outside and enjoy the mountain air with a cup of coffee.",
+    "cn": "A：新的度假村和我們旅行社平常推薦給顧客的其他飯店有什麼不同？ B：每個房間都有可以眺望清澈藍色【湖泊】的陽台，房客可以租小船、去釣魚，或只是坐在外面喝杯咖啡、享受山上的空氣。",
+    "collocation": "go boating on the lake 在湖上划船"
+   },
+   {
+    "word": "wildlife",
+    "pos": "n.",
+    "en_def": "wild animals and birds living in natural conditions",
+    "cn_def": "野生動物",
+    "sentence": "A: Why does the eco-tour company limit each group to only ten people, even though many more customers want to join? B: Large, noisy groups scare the birds, deer and monkeys in the national park, and the guides want visitors to see the {{BLANK}} without disturbing the animals or damaging their homes.",
+    "cn": "A：明明還有更多顧客想參加，為什麼這家生態旅遊公司每團只收十個人？ B：吵鬧的大團體會嚇到國家公園裡的鳥、鹿和猴子，導遊希望遊客能看到【野生動物】，又不打擾牠們或破壞牠們的棲息地。",
+    "collocation": "protect local wildlife 保護當地野生動物"
+   },
+   {
+    "word": "livestock",
+    "pos": "n.",
+    "en_def": "animals kept on a farm, such as cows, pigs and sheep",
+    "cn_def": "家畜；牲畜",
+    "sentence": "A: Why did the farmers in the area ask the government for financial help after last summer's long drought? B: There was not enough grass or water for their {{BLANK}}, so they had to buy expensive feed and sell many cows and sheep at low prices, and some families are now in serious debt.",
+    "cn": "A：去年夏天長期乾旱之後，當地農民為什麼向政府請求經濟援助？ B：他們的【家畜】沒有足夠的草和水，所以他們必須購買昂貴的飼料，並以低價賣掉許多牛羊，有些家庭現在負債很嚴重。",
+    "collocation": "raise livestock 飼養家畜"
+   },
+   {
+    "word": "harvest",
+    "pos": "n.",
+    "en_def": "the time when crops are collected, or the crops that are collected",
+    "cn_def": "收成；收穫",
+    "sentence": "A: Why are apple prices at the supermarket so much higher this month than they were at the same time last year? B: A strong storm hit the main growing region just before the {{BLANK}}, so farmers lost almost half of their fruit, and the stores now have to import apples from overseas.",
+    "cn": "A：為什麼超市這個月的蘋果價格比去年同期高那麼多？ B：就在【收成】之前，一場強烈的暴風雨襲擊了主要產區，農民損失了將近一半的果實，現在商店只好從國外進口蘋果。",
+    "collocation": "a good rice harvest 稻米豐收"
+   },
+   {
+    "word": "agriculture",
+    "pos": "n.",
+    "en_def": "farming; growing crops and keeping animals",
+    "cn_def": "農業",
+    "sentence": "A: Why is the university offering new courses on drones and computer programs for students in the farming department? B: Modern {{BLANK}} uses technology to check soil, water crops and count animals, so graduates who understand these tools can find better jobs and help farms produce more food with fewer workers.",
+    "cn": "A：為什麼大學要為農學系的學生開設無人機和電腦程式的新課程？ B：現代【農業】會利用科技來檢測土壤、灌溉作物和清點動物，所以懂得這些工具的畢業生能找到更好的工作，並幫助農場用更少的人力生產更多糧食。",
+    "collocation": "invest in sustainable agriculture 投資永續農業"
+   },
+   {
+    "word": "peaceful",
+    "pos": "adj.",
+    "en_def": "quiet and calm, without noise or trouble",
+    "cn_def": "寧靜的；平靜的",
+    "sentence": "A: Why did the software company move its design team from the downtown office to a small building outside the city? B: The new location is surrounded by trees and has a very {{BLANK}} atmosphere, so the designers can think clearly without traffic noise, and their work has actually improved since the move.",
+    "cn": "A：為什麼這家軟體公司把設計團隊從市中心的辦公室搬到城外的一棟小建築？ B：新地點被樹木環繞，氣氛非常【寧靜】，設計師可以在沒有車聲的情況下清楚思考，而且搬過去之後他們的作品其實變得更好了。",
+    "collocation": "a peaceful village life 寧靜的鄉村生活"
+   },
+   {
+    "word": "remote",
+    "pos": "adj.",
+    "en_def": "far away from towns and cities",
+    "cn_def": "偏遠的；遙遠的",
+    "sentence": "A: Why does it take so long for online orders to reach customers who live in the eastern mountains? B: Many of those homes are in {{BLANK}} areas with narrow roads and no nearby post office, so our delivery partner can only send a truck up there twice a week.",
+    "cn": "A：為什麼住在東部山區的顧客要等那麼久才能收到網路訂單？ B：那些住家很多都在【偏遠】地區，道路狹窄，附近也沒有郵局，所以我們的物流合作夥伴一週只能派兩次卡車上山。",
+    "collocation": "a remote mountain village 偏遠的山村"
+   },
+   {
+    "word": "isolated",
+    "pos": "adj.",
+    "en_def": "far from other places or people; alone",
+    "cn_def": "孤立的；偏僻的",
+    "sentence": "A: Why did the new manager of the mountain hotel quit after only three months, even though the salary was very good? B: The hotel is so {{BLANK}} that the nearest town is two hours away, and he felt lonely because he could rarely see his friends or family on his days off.",
+    "cn": "A：山上那家飯店的新經理薪水明明很好，為什麼才三個月就辭職了？ B：那家飯店非常【偏僻】，最近的城鎮也要兩個小時車程，他休假時很少能見到朋友或家人，所以覺得很寂寞。",
+    "collocation": "an isolated farmhouse 偏僻的農舍"
+   },
+   {
+    "word": "spacious",
+    "pos": "adj.",
+    "en_def": "having a lot of space; large inside",
+    "cn_def": "寬敞的",
+    "sentence": "A: Why did you and your wife decide to buy a house in the countryside instead of another apartment in the city? B: For the same price, we got a {{BLANK}} home with four bedrooms and a big garden, so the children have room to play and I can finally have a proper office for working from home.",
+    "cn": "A：你和你太太為什麼決定在鄉下買房子，而不是在城市裡再買一間公寓？ B：用同樣的價錢，我們買到一間有四個房間和大花園的【寬敞】住宅，孩子們有空間玩，我也終於能有一間像樣的在家工作辦公室。",
+    "collocation": "a spacious living room 寬敞的客廳"
+   },
+   {
+    "word": "natural",
+    "pos": "adj.",
+    "en_def": "existing in nature; not made or caused by people",
+    "cn_def": "天然的；自然的",
+    "sentence": "A: Why are so many visitors choosing the small hot spring town instead of the large resorts near the airport this winter? B: The town has protected its {{BLANK}} beauty, with forests, waterfalls and hot springs that come straight from the ground, and travelers prefer that to big hotels and shopping malls.",
+    "cn": "A：今年冬天為什麼這麼多遊客選擇那個小溫泉鎮，而不是機場附近的大型度假村？ B：這個小鎮保存了它的【自然】美景，有森林、瀑布和直接從地底湧出的溫泉，比起大飯店和購物中心，旅客更喜歡這些。",
+    "collocation": "natural resources 自然資源"
+   },
+   {
+    "word": "fresh",
+    "pos": "adj.",
+    "en_def": "recently picked or made; (of air) clean and cool",
+    "cn_def": "新鮮的；清新的",
+    "sentence": "A: Why do you look so much healthier since you started working at the company's new office in the mountains last spring? B: I walk to work through the trees every morning, breathe clean {{BLANK}} air all day instead of city smog, and I sleep much better than I did downtown.",
+    "cn": "A：自從你去年春天開始在公司山上的新辦公室上班後，為什麼看起來健康多了？ B：我每天早上穿過樹林走路上班，整天呼吸乾淨【清新】的空氣，而不是城市的霧霾，睡得也比住在市中心時好多了。",
+    "collocation": "fresh country air 清新的鄉間空氣"
+   },
+   {
+    "word": "rustic",
+    "pos": "adj.",
+    "en_def": "simple and typical of the countryside, often in an attractive way",
+    "cn_def": "鄉村風格的；質樸的",
+    "sentence": "A: How should we decorate the new café so that it feels different from all the modern coffee chains on this street? B: Let's choose a {{BLANK}} style with wooden tables, old farm tools on the walls and baskets of vegetables near the counter, so customers feel like they are visiting a country kitchen.",
+    "cn": "A：我們應該怎麼裝潢新咖啡店，讓它和這條街上所有現代連鎖咖啡店感覺不一樣？ B：我們選擇【鄉村】風格吧，用木頭桌子、在牆上掛舊農具，在櫃檯旁放幾籃蔬菜，讓顧客覺得好像來到鄉下的廚房。",
+    "collocation": "a rustic wooden table 質樸的木桌"
+   },
+   {
+    "word": "tranquil",
+    "pos": "adj.",
+    "en_def": "calm, quiet and peaceful",
+    "cn_def": "寧靜的；安寧的",
+    "sentence": "A: Why did the yoga company choose a small island for its staff training retreat instead of a conference hotel in the city? B: The island is so {{BLANK}}, with soft waves, quiet beaches and no cars at all, that the instructors can rest their minds and practice without any noise or interruptions.",
+    "cn": "A：為什麼這家瑜伽公司選擇一座小島辦員工訓練營，而不是城市裡的會議飯店？ B：那座島非常【寧靜】，有輕柔的海浪、安靜的海灘，而且完全沒有車子，教練們可以讓心靈休息，在沒有噪音和干擾的情況下練習。",
+    "collocation": "a tranquil garden 寧靜的花園"
+   },
+   {
+    "word": "fertile",
+    "pos": "adj.",
+    "en_def": "(of land) able to grow a lot of good crops",
+    "cn_def": "肥沃的",
+    "sentence": "A: Why did the food company buy land in that river area instead of somewhere closer to its factory in the north? B: The soil there is very {{BLANK}} because the river brings rich mud every year, so the vegetables grow quickly, and the company can produce more crops while using fewer chemicals.",
+    "cn": "A：為什麼這家食品公司在那片河流地區買地，而不是在比較靠近北部工廠的地方買？ B：那裡的土壤非常【肥沃】，因為河流每年都會帶來營養豐富的泥土，所以蔬菜長得很快，公司能用更少的化學藥劑生產更多作物。",
+    "collocation": "fertile soil 肥沃的土壤"
+   },
+   {
+    "word": "quietly",
+    "pos": "adv.",
+    "en_def": "making very little noise; in a calm way",
+    "cn_def": "安靜地",
+    "sentence": "A: What did you enjoy most about the weekend you spent at your grandparents' farm after the stressful product launch? B: Early each morning I sat {{BLANK}} on the porch with a cup of tea, listening to the birds and watching the fog lift from the fields, and I didn't check my email even once.",
+    "cn": "A：在壓力很大的產品發表會之後，你在祖父母的農場度過的那個週末，最喜歡的是什麼？ B：每天一大早，我都【安靜地】坐在門廊喝杯茶，聽鳥叫、看著霧從田野上散去，而且我連一次電子郵件都沒有檢查。",
+    "collocation": "sit quietly by the window 安靜地坐在窗邊"
+   },
+   {
+    "word": "outdoors",
+    "pos": "adv.",
+    "en_def": "outside, not in a building",
+    "cn_def": "在戶外",
+    "sentence": "A: Why does the summer camp for our employees' children have so few computer games and indoor classes this year? B: The organizers want the kids to spend most of the day {{BLANK}}, hiking, swimming in the lake and learning about plants and insects, because they think children already spend too much time looking at screens.",
+    "cn": "A：今年為我們員工小孩辦的夏令營，為什麼電腦遊戲和室內課程這麼少？ B：主辦單位希望孩子們一天大部分時間都待【在戶外】，去健行、在湖裡游泳、認識植物和昆蟲，因為他們認為孩子們花太多時間看螢幕了。",
+    "collocation": "spend more time outdoors 花更多時間在戶外"
+   },
+   {
+    "word": "away",
+    "pos": "adv.",
+    "en_def": "not at home or at work; at a distance",
+    "cn_def": "不在；離開；在遠處",
+    "sentence": "A: Why can't anyone reach the sales director this week, even though there is an important contract that needs his signature? B: He is {{BLANK}} on a hiking holiday in the mountains where there is no phone signal, but his assistant has permission to sign the contract for him until he returns on Monday.",
+    "cn": "A：明明有一份重要合約需要業務總監簽名，為什麼這週沒人聯絡得上他？ B：他【不在】公司，去山上健行度假了，那裡沒有手機訊號，不過在他星期一回來之前，他的助理有權代他簽約。",
+    "collocation": "get away from the city 遠離城市"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The government plans to improve internet service in _____ communities. Many farmers there still cannot join online meetings or sell products on the web.",
+    "options": [
+     "rural",
+     "spacious",
+     "fertile",
+     "fresh"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Only about three hundred people live in the small _____ at the foot of the mountain. Everyone there knows the owner of the only grocery store.",
+    "options": [
+     "harvest",
+     "scenery",
+     "village",
+     "livestock"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The children visited a dairy _____ on their school trip. They learned how the cows are milked every morning.",
+    "options": [
+     "landscape",
+     "farm",
+     "agriculture",
+     "wildlife"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The new highway will cut through two hundred hectares of _____. Rice growers in the area are worried about losing their land.",
+    "options": [
+     "cottage",
+     "stream",
+     "lake",
+     "farmland"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The farmer plowed the _____ before planting corn in early spring. It took him three full days because the ground was still hard.",
+    "options": [
+     "barn",
+     "cottage",
+     "field",
+     "valley"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "In summer, the horses are moved to a large _____ high in the hills. There, they can eat fresh grass all day.",
+    "options": [
+     "pasture",
+     "harvest",
+     "river",
+     "wildlife"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The farmer stores hay for the winter in a large red _____. It also protects his tractors from the rain and snow.",
+    "options": [
+     "meadow",
+     "stream",
+     "scenery",
+     "barn"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "We rented a small _____ with a fireplace for our weekend in the countryside. It had two bedrooms and a lovely garden.",
+    "options": [
+     "valley",
+     "cottage",
+     "livestock",
+     "agriculture"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Wind turbines have changed the _____ of the coast. Some people think they are ugly, but others say they are a sign of progress.",
+    "options": [
+     "harvest",
+     "livestock",
+     "stream",
+     "landscape"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Passengers on the mountain train enjoy beautiful _____ along the way. Many of them take photos of the waterfalls through the windows.",
+    "options": [
+     "agriculture",
+     "scenery",
+     "livestock",
+     "harvest"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The wedding was held in a _____ full of wild flowers. The guests sat on wooden benches on the soft grass.",
+    "options": [
+     "meadow",
+     "river",
+     "livestock",
+     "agriculture"
+    ],
+    "answer": 0,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The small town lies in a deep _____ between two high mountains. In winter, the sun only reaches the streets for a few hours.",
+    "options": [
+     "harvest",
+     "cottage",
+     "valley",
+     "wildlife"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The hotel stands on top of a small _____ above the beach. Guests have to walk up a lot of steps to reach the lobby.",
+    "options": [
+     "lake",
+     "hill",
+     "stream",
+     "harvest"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Firefighters spent three days putting out the fire in the _____. Thousands of trees were burned, and many animals lost their homes.",
+    "options": [
+     "harvest",
+     "agriculture",
+     "stream",
+     "forest"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The children took off their shoes and walked through the shallow _____. The water was cold and clear, and they could see small fish.",
+    "options": [
+     "harvest",
+     "livestock",
+     "stream",
+     "scenery"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Large ships carry goods up the _____ to the port city. The trip from the sea takes about two days.",
+    "options": [
+     "river",
+     "meadow",
+     "cottage",
+     "harvest"
+    ],
+    "answer": 0,
+    "vocabIndex": 16
+   },
+   {
+    "q": "In winter, the _____ freezes completely, and people go ice skating on it. In summer, families rent boats and swim there.",
+    "options": [
+     "barn",
+     "harvest",
+     "lake",
+     "landscape"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The national park protects many kinds of _____, including bears, eagles and deer. Visitors must not feed the animals.",
+    "options": [
+     "wildlife",
+     "agriculture",
+     "scenery",
+     "farmland"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The farmer sold most of his _____ during the drought. He could not afford to feed so many cows and sheep.",
+    "options": [
+     "scenery",
+     "livestock",
+     "landscape",
+     "valley"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Farmers hire extra workers during the rice _____ every autumn. The busy season usually lasts about three weeks.",
+    "options": [
+     "pasture",
+     "hill",
+     "cottage",
+     "harvest"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "About forty percent of the people in the region work in _____. They grow rice, tea and fruit for export.",
+    "options": [
+     "wildlife",
+     "scenery",
+     "agriculture",
+     "meadow"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "After a busy week in the city, we enjoyed a _____ weekend in the mountains. There was no traffic noise at all.",
+    "options": [
+     "peaceful",
+     "fertile",
+     "spacious",
+     "natural"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The company sends a doctor by helicopter to _____ villages in the mountains. There are no hospitals within fifty kilometers of them.",
+    "options": [
+     "fertile",
+     "spacious",
+     "fresh",
+     "remote"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The old lighthouse keeper lived a very _____ life on the tiny island. He saw other people only when the supply boat arrived.",
+    "options": [
+     "fertile",
+     "isolated",
+     "spacious",
+     "fresh"
+    ],
+    "answer": 1,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The new office is much more _____ than the old one. Each team now has its own meeting room and a large kitchen.",
+    "options": [
+     "fertile",
+     "rural",
+     "fresh",
+     "spacious"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "This shampoo is made only from _____ ingredients such as honey and green tea. It contains no artificial colors or chemicals.",
+    "options": [
+     "isolated",
+     "natural",
+     "spacious",
+     "rural"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The restaurant buys _____ vegetables from local farms every morning. Nothing is frozen or kept for more than one day.",
+    "options": [
+     "fresh",
+     "isolated",
+     "spacious",
+     "remote"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The café has a _____ style, with wooden tables and old farm tools on the walls. Customers say it feels like a country kitchen.",
+    "options": [
+     "fertile",
+     "remote",
+     "rustic",
+     "spacious"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The spa is located in a _____ garden far from the busy streets. Guests can relax to the sound of birds and running water.",
+    "options": [
+     "fertile",
+     "tranquil",
+     "fresh",
+     "rural"
+    ],
+    "answer": 1,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The soil near the river is very _____, so farmers can grow three rice crops a year. Land there is expensive.",
+    "options": [
+     "isolated",
+     "spacious",
+     "rustic",
+     "fertile"
+    ],
+    "answer": 3,
+    "vocabIndex": 30
+   }
+  ]
+ },
+ "86": {
+  "theme": "Course 課程",
+  "source": "https://www.examword.com/group-topic/course",
+  "VOCAB": [
+   {
+    "word": "curriculum",
+    "pos": "n.",
+    "en_def": "all the subjects and topics taught in a school or training program",
+    "cn_def": "（整體）課程；全部課程",
+    "sentence": "A: Why is the training department hiring two new staff members before the new employees start in September? B: The director wants to update the whole {{BLANK}} for new hires, adding topics like data safety and customer care, so they need people who can design materials and plan each week.",
+    "cn": "A：為什麼訓練部門要在新進員工九月報到前再聘請兩名新員工？ B：主任想要更新新進人員的整套【課程】，加入資料安全和顧客服務等主題，所以他們需要能設計教材並規劃每週內容的人。",
+    "collocation": "design a training curriculum 設計培訓課程"
+   },
+   {
+    "word": "syllabus",
+    "pos": "n.",
+    "en_def": "a list of the topics, readings and dates for a course",
+    "cn_def": "課程大綱；教學大綱",
+    "sentence": "A: How will I know which chapters to read before each meeting of the marketing course that the company is paying for? B: The teacher will email everyone the {{BLANK}} on Monday, and it shows the topics, reading pages and due dates for all twelve weeks, so you can plan your time.",
+    "cn": "A：我要怎麼知道公司出錢讓我上的行銷課，每次上課前該讀哪些章節？ B：老師星期一會把【課程大綱】寄給大家，上面列出全部十二週的主題、閱讀頁數和繳交期限，所以你可以規劃時間。",
+    "collocation": "follow the course syllabus 依照課程大綱進行"
+   },
+   {
+    "word": "lesson",
+    "pos": "n.",
+    "en_def": "a period of time when someone is taught something",
+    "cn_def": "一堂課；課程",
+    "sentence": "A: Are you free to join us for dinner after work on Thursday, since the whole team is celebrating the new contract? B: I'd love to, but I have a Spanish {{BLANK}} with a private tutor from six to seven, so I can meet you at the restaurant a little later.",
+    "cn": "A：既然全隊要慶祝新合約，你星期四下班後有空跟我們一起吃晚餐嗎？ B：我很想去，但我六點到七點要和家教上一堂西班牙文【課】，所以我可以晚一點到餐廳跟你們會合。",
+    "collocation": "take driving lessons 上駕駛課"
+   },
+   {
+    "word": "class",
+    "pos": "n.",
+    "en_def": "a group of students taught together; a period of teaching",
+    "cn_def": "班級；一堂課",
+    "sentence": "A: Why do you always leave the office so quickly on Wednesday evenings, even when we still have reports to finish? B: I'm taking an accounting {{BLANK}} at the community college near my apartment, and it starts at half past six, so I can't be late.",
+    "cn": "A：為什麼你每週三晚上總是那麼快離開辦公室，即使我們還有報告要完成？ B：我在公寓附近的社區大學上一門會計【課】，六點半開始，所以我不能遲到。",
+    "collocation": "sign up for a yoga class 報名瑜伽課"
+   },
+   {
+    "word": "lecture",
+    "pos": "n.",
+    "en_def": "a talk given to a group of people to teach them about a subject",
+    "cn_def": "講座；演講",
+    "sentence": "A: Did you find the talk by the famous economist at the business school useful for our planning meeting next week? B: Yes, her {{BLANK}} on global trade lasted two hours, and she explained clearly why shipping costs will rise next year, so I took a lot of notes for our team.",
+    "cn": "A：你覺得那位知名經濟學家在商學院的演說對我們下週的規劃會議有幫助嗎？ B：有，她關於全球貿易的【講座】長達兩小時，清楚解釋了明年運費為何會上漲，所以我替我們團隊做了很多筆記。",
+    "collocation": "give a lecture on marketing 發表關於行銷的講座"
+   },
+   {
+    "word": "seminar",
+    "pos": "n.",
+    "en_def": "a meeting where a small group discusses a subject with a teacher or expert",
+    "cn_def": "研討會；研討課",
+    "sentence": "A: Why is the small meeting room on the third floor booked for the whole afternoon on Friday? B: Our lawyer is leading a {{BLANK}} for the managers about the new privacy laws, and there will only be twelve people, so everyone can ask questions and discuss real cases.",
+    "cn": "A：為什麼三樓的小會議室星期五整個下午都被預訂了？ B：我們的律師要為經理們主持一場關於新隱私法的【研討會】，只有十二個人參加，所以每個人都可以提問並討論實際案例。",
+    "collocation": "attend a sales seminar 參加業務研討會"
+   },
+   {
+    "word": "workshop",
+    "pos": "n.",
+    "en_def": "a meeting where people learn a skill by doing practical activities",
+    "cn_def": "工作坊；研習會",
+    "sentence": "A: What should the new sales staff bring to the training on Saturday morning? B: They should bring their laptops, because the afternoon {{BLANK}} is very hands-on, and they will practice writing real emails and making short sales calls in small groups while the trainer gives them advice.",
+    "cn": "A：新進業務人員星期六早上的培訓應該帶什麼？ B：他們應該帶筆電，因為下午的【工作坊】非常著重實作，他們會分成小組練習寫真正的電子郵件和打簡短的銷售電話，同時培訓師會給他們建議。",
+    "collocation": "run a writing workshop 舉辦寫作工作坊"
+   },
+   {
+    "word": "module",
+    "pos": "n.",
+    "en_def": "one separate part of a course",
+    "cn_def": "（課程的）單元；模組",
+    "sentence": "A: How much of the online safety training have you finished, since the deadline is the end of this month? B: I've completed three out of five parts, and the next {{BLANK}} is about fire safety, which takes about forty minutes, so I'll do it during my lunch break tomorrow.",
+    "cn": "A：既然期限是這個月底，你的線上安全培訓完成多少了？ B：五個部分我已經完成三個，下一個【單元】是關於消防安全，大約需要四十分鐘，所以我明天午休時會完成它。",
+    "collocation": "complete the first module 完成第一個單元"
+   },
+   {
+    "word": "unit",
+    "pos": "n.",
+    "en_def": "one part of a textbook or course, usually about one topic",
+    "cn_def": "單元；課",
+    "sentence": "A: Which part of the English textbook should we cover before the overseas clients visit our factory next month? B: Let's focus on the {{BLANK}} about giving directions and describing products, because our staff will need those skills most when they show the visitors around the production lines.",
+    "cn": "A：下個月海外客戶參觀我們工廠前，我們應該上英文課本的哪一部分？ B：我們把重點放在關於指路和描述產品的那一個【單元】，因為員工帶訪客參觀生產線時最需要這些技能。",
+    "collocation": "finish Unit 5 of the textbook 完成課本第五單元"
+   },
+   {
+    "word": "assignment",
+    "pos": "n.",
+    "en_def": "a piece of work given to someone as part of a course or job",
+    "cn_def": "作業；任務",
+    "sentence": "A: Why are you staying at your desk so late tonight when the office is almost empty? B: I have to finish a written {{BLANK}} for my business management course, which is a ten-page report on a local company, and I must hand it in to my professor by midnight.",
+    "cn": "A：辦公室幾乎沒人了，你今晚為什麼還這麼晚坐在位子上？ B：我得完成企業管理課的書面【作業】，是一份關於本地公司的十頁報告，而且我必須在午夜前交給教授。",
+    "collocation": "hand in an assignment 繳交作業"
+   },
+   {
+    "word": "homework",
+    "pos": "n.",
+    "en_def": "work that a student is asked to do at home",
+    "cn_def": "家庭作業；功課",
+    "sentence": "A: How is your son doing at his new school since your family moved to Taipei for your job in the spring? B: He likes his teachers, but he gets a lot of {{BLANK}} every night, so I usually help him with math after dinner before I check my work emails.",
+    "cn": "A：自從你春天因為工作全家搬到台北後，你兒子在新學校適應得如何？ B：他喜歡他的老師，但他每天晚上都有很多【功課】，所以我通常在晚餐後先幫他做數學，再查看工作郵件。",
+    "collocation": "do homework after dinner 晚餐後寫功課"
+   },
+   {
+    "word": "project",
+    "pos": "n.",
+    "en_def": "a planned piece of work that has a clear goal",
+    "cn_def": "專題；計畫；企畫",
+    "sentence": "A: What do students in the evening marketing program have to do to pass at the end of the term? B: Each group must complete a final {{BLANK}}, in which they create a full advertising plan for a real local business and then present it to the owner and the teacher.",
+    "cn": "A：夜間行銷課程的學生在學期末要做什麼才能及格？ B：每一組都必須完成一個期末【專題】，為一家真實的本地商家制定完整的廣告計畫，然後向老闆和老師報告。",
+    "collocation": "work on a group project 進行小組專題"
+   },
+   {
+    "word": "assessment",
+    "pos": "n.",
+    "en_def": "the process of judging how well someone has learned or done something",
+    "cn_def": "評量；評估",
+    "sentence": "A: How does the language school decide which level new students should join when they first arrive? B: Everyone takes a short {{BLANK}} on the first day, including a reading test and a ten-minute talk with a teacher, and then the school puts them in the right group.",
+    "cn": "A：新生剛到時，語言學校如何決定他們應該加入哪個程度？ B：每個人第一天都要做一個簡短的【評量】，包括閱讀測驗和與老師十分鐘的對話，然後學校會把他們分到合適的組別。",
+    "collocation": "a written assessment 書面評量"
+   },
+   {
+    "word": "exam",
+    "pos": "n.",
+    "en_def": "a formal test of knowledge or skill",
+    "cn_def": "考試",
+    "sentence": "A: Why have you been reading that thick accounting book on the train every morning for the past month? B: I'm preparing for an important professional {{BLANK}} in December, and if I pass it, I can get a promotion and a higher salary at the bank next year.",
+    "cn": "A：過去一個月，你為什麼每天早上都在火車上讀那本厚厚的會計書？ B：我在準備十二月一場重要的專業【考試】，如果通過，明年我就可以在銀行升職並拿到更高的薪水。",
+    "collocation": "pass the final exam 通過期末考"
+   },
+   {
+    "word": "quiz",
+    "pos": "n.",
+    "en_def": "a short test",
+    "cn_def": "小考；測驗",
+    "sentence": "A: Is there anything we have to do after watching the safety video that the human resources department sent us this morning? B: Yes, there is a short {{BLANK}} with ten questions at the end, and you need to get at least eight right before the system marks your training as complete.",
+    "cn": "A：看完人資部今天早上寄給我們的安全影片後，還有什麼要做的嗎？ B：有，最後有一個十題的簡短【測驗】，你至少要答對八題，系統才會把你的培訓標記為完成。",
+    "collocation": "take a short quiz 做一個小測驗"
+   },
+   {
+    "word": "grade",
+    "pos": "n.",
+    "en_def": "a mark or score that shows how good a student's work is",
+    "cn_def": "成績；分數",
+    "sentence": "A: Why does the company want to see my school records when I'm applying for the trainee program? B: They only accept people with a good {{BLANK}} in math and English, because trainees have to read financial reports and write to overseas customers from their very first week.",
+    "cn": "A：我申請儲備幹部計畫時，公司為什麼要看我的在校紀錄？ B：他們只接受數學和英文【成績】好的人，因為儲備幹部從第一週就必須閱讀財務報告並寫信給海外客戶。",
+    "collocation": "get a high grade 得到高分"
+   },
+   {
+    "word": "credit",
+    "pos": "n.",
+    "en_def": "a unit that shows a student has finished part of a course",
+    "cn_def": "學分",
+    "sentence": "A: Why did you choose the weekend program at the university instead of the cheaper online one? B: The university gives each student a {{BLANK}} for every course they finish, and I need twelve more of them to complete my degree before I apply for a manager position.",
+    "cn": "A：你為什麼選擇大學的週末課程，而不是較便宜的線上課程？ B：大學每完成一門課就給學生一個【學分】，而我在申請經理職位前，還需要再修十二個學分才能完成學位。",
+    "collocation": "earn course credits 取得課程學分"
+   },
+   {
+    "word": "certificate",
+    "pos": "n.",
+    "en_def": "an official document that shows you have finished a course or passed a test",
+    "cn_def": "證書；結業證明",
+    "sentence": "A: What will the staff receive after they finish the six-week first aid training at the hospital? B: Each person will get an official {{BLANK}} with their name on it, which they should give to the office manager, because the company must keep a copy for the safety inspectors.",
+    "cn": "A：員工在醫院完成六週急救訓練後會得到什麼？ B：每個人都會拿到一張印有自己名字的正式【證書】，他們應該交給辦公室經理，因為公司必須留一份影本給安全檢查員。",
+    "collocation": "receive a certificate of completion 獲得結業證書"
+   },
+   {
+    "word": "enroll",
+    "pos": "v.",
+    "en_def": "to officially join a course or school",
+    "cn_def": "註冊；報名入學",
+    "sentence": "A: I want to improve my presentation skills before the big conference in March, so do you know any good courses? B: You could {{BLANK}} in the public speaking course at the training center downtown, and if you sign up before Friday, the company will pay half of the fee.",
+    "cn": "A：我想在三月的大型研討會前提升簡報技巧，你知道有什麼好課程嗎？ B：你可以【報名】市中心培訓中心的公眾演說課程，如果你在星期五前登記，公司會支付一半的費用。",
+    "collocation": "enroll in an evening course 報名夜間課程"
+   },
+   {
+    "word": "register",
+    "pos": "v.",
+    "en_def": "to put your name on an official list for a course or event",
+    "cn_def": "登記；註冊",
+    "sentence": "A: How can I get a seat at the free computer training that the city library is offering next month? B: You need to {{BLANK}} on the library website by the end of this week, because there are only twenty places and they usually fill up within two or three days.",
+    "cn": "A：我要怎麼才能在市立圖書館下個月提供的免費電腦訓練中拿到名額？ B：你必須在這週結束前在圖書館網站上【登記】，因為只有二十個名額，而且通常兩三天內就會額滿。",
+    "collocation": "register for a course online 線上報名課程"
+   },
+   {
+    "word": "attend",
+    "pos": "v.",
+    "en_def": "to go to an event, class or meeting",
+    "cn_def": "參加；出席；上（課）",
+    "sentence": "A: Why is Michael working from home on Tuesday and Thursday mornings this month? B: He has to {{BLANK}} a leadership course at the main office across the city, and the classes start at eight, so the manager agreed to let him work from home afterward.",
+    "cn": "A：麥可這個月為什麼星期二和星期四早上在家工作？ B：他必須去城市另一頭的總公司【上】領導力課程，課程八點開始，所以經理同意讓他上完課後在家工作。",
+    "collocation": "attend a training course 參加培訓課程"
+   },
+   {
+    "word": "study",
+    "pos": "v.",
+    "en_def": "to spend time learning about a subject",
+    "cn_def": "學習；讀書；研讀",
+    "sentence": "A: Where do you usually go after work on weekdays, since you never join us at the gym anymore? B: I go to the quiet café near the station to {{BLANK}} for my accounting test, because it's hard to focus at home with my two young children running around.",
+    "cn": "A：你平日下班後通常去哪裡？你都不再跟我們去健身房了。 B：我會去車站附近那家安靜的咖啡店【讀書】準備會計考試，因為家裡有兩個小孩跑來跑去，很難專心。",
+    "collocation": "study for an exam 準備考試"
+   },
+   {
+    "word": "learn",
+    "forms": "learn – learned/learnt – learned/learnt",
+    "pos": "v.",
+    "en_def": "to get new knowledge or a new skill",
+    "cn_def": "學習；學會",
+    "sentence": "A: Why did the company send you to Japan for three months last year when you were still quite new? B: They wanted me to {{BLANK}} how their partner factory controls quality, so I could teach the same methods to our team when I came back to Taiwan.",
+    "cn": "A：去年你還算是新人，公司為什麼派你去日本三個月？ B：他們希望我【學習】合作工廠如何控管品質，這樣我回台灣後就可以把同樣的方法教給我們的團隊。",
+    "collocation": "learn a new skill 學習新技能"
+   },
+   {
+    "word": "teach",
+    "forms": "teach – taught – taught",
+    "pos": "v.",
+    "en_def": "to give lessons or show someone how to do something",
+    "cn_def": "教；教導",
+    "sentence": "A: Who is going to train the new cashiers before the second store opens in the shopping mall next week? B: Linda will {{BLANK}} them how to use the new payment system, because she has worked at the counter for five years and she explains things very patiently.",
+    "cn": "A：第二間店下週在購物中心開幕前，誰要訓練新收銀員？ B：琳達會【教】他們如何使用新的付款系統，因為她在櫃台工作了五年，而且解釋事情非常有耐心。",
+    "collocation": "teach a class 教一堂課"
+   },
+   {
+    "word": "instructor",
+    "pos": "n.",
+    "en_def": "a person who teaches a practical skill or a course",
+    "cn_def": "講師；教練",
+    "sentence": "A: How was the first day of the driving course that the delivery company asked you to take? B: It went well, because the {{BLANK}} was very calm and patient, and he showed us how to drive the large trucks safely on narrow roads before we practiced by ourselves.",
+    "cn": "A：快遞公司要你上的駕駛課第一天怎麼樣？ B：很順利，因為【教練】非常冷靜有耐心，他先示範如何在狹窄道路上安全駕駛大卡車，然後我們才自己練習。",
+    "collocation": "a qualified driving instructor 合格的駕駛教練"
+   },
+   {
+    "word": "trainer",
+    "pos": "n.",
+    "en_def": "a person who teaches people skills for a job or sport",
+    "cn_def": "培訓師；訓練員",
+    "sentence": "A: Our customer service team keeps getting complaints about rude phone calls, so what should we do about it? B: I think we should hire a professional {{BLANK}} to run a two-day program on handling angry customers, because our staff have never had any proper training in that area.",
+    "cn": "A：我們客服團隊一直收到關於電話態度不佳的投訴，我們該怎麼辦？ B：我認為我們應該聘請一位專業【培訓師】來舉辦為期兩天的應對憤怒顧客課程，因為我們的員工從未在這方面接受過正式訓練。",
+    "collocation": "a corporate trainer 企業培訓師"
+   },
+   {
+    "word": "beginner",
+    "pos": "n.",
+    "en_def": "a person who has just started learning something",
+    "cn_def": "初學者",
+    "sentence": "A: Should I join the advanced Excel class with the rest of the finance team, or is it too difficult for me? B: Since you've only used spreadsheets for a few weeks, you're still a {{BLANK}}, so you should start with the basic course and move up next term.",
+    "cn": "A：我應該跟財務團隊的其他人一起上進階Excel課，還是那對我來說太難了？ B：既然你才用試算表幾週，你還是個【初學者】，所以你應該先從基礎課程開始，下學期再往上升級。",
+    "collocation": "a course for complete beginners 給完全初學者的課程"
+   },
+   {
+    "word": "intermediate",
+    "pos": "adj.",
+    "en_def": "at a middle level, between beginner and advanced",
+    "cn_def": "中級的",
+    "sentence": "A: Which Japanese class did the language school put you in after the test you took last Saturday? B: They put me in the {{BLANK}} group, because I can already have simple conversations, but I still make many grammar mistakes when I write emails to our clients in Osaka.",
+    "cn": "A：你上週六考完試後，語言學校把你分到哪一班日文課？ B：他們把我分到【中級】組，因為我已經能進行簡單的對話，但寫電子郵件給大阪客戶時仍然會犯很多文法錯誤。",
+    "collocation": "an intermediate English course 中級英文課程"
+   },
+   {
+    "word": "advanced",
+    "pos": "adj.",
+    "en_def": "at a high level; for people who already know a lot",
+    "cn_def": "高級的；進階的",
+    "sentence": "A: Why is Kevin always the person who fixes the problems with our sales data and reports? B: He took an {{BLANK}} course in data analysis last year, so he understands complex formulas and charts much better than the rest of us, who only know the basics.",
+    "cn": "A：為什麼總是凱文在處理我們銷售數據和報表的問題？ B：他去年上過資料分析的【進階】課程，所以他對複雜公式和圖表的理解比我們其他只懂基礎的人好得多。",
+    "collocation": "an advanced training program 進階培訓計畫"
+   },
+   {
+    "word": "online",
+    "pos": "adj.",
+    "en_def": "done over the internet",
+    "cn_def": "線上的",
+    "sentence": "A: How can our staff in the Kaohsiung branch join the training if they can't travel to Taipei next month? B: We'll offer an {{BLANK}} version of the course, so they can watch the lessons on their laptops at home and send their questions to the teacher by email.",
+    "cn": "A：如果高雄分公司的員工下個月不能來台北，他們要怎麼參加培訓？ B：我們會提供這門課的【線上】版本，讓他們可以在家用筆電觀看課程，並用電子郵件把問題寄給老師。",
+    "collocation": "take an online course 上線上課程"
+   },
+   {
+    "word": "intensive",
+    "pos": "adj.",
+    "en_def": "involving a lot of work in a short time",
+    "cn_def": "密集的；強化的",
+    "sentence": "A: How did your new assistant improve her English so quickly before starting the job in our export department? B: She took an {{BLANK}} two-week course, with six hours of classes every day, and she also practiced speaking with a tutor every evening after dinner.",
+    "cn": "A：你的新助理在進入我們出口部門工作前，英文怎麼進步得這麼快？ B：她上了一個為期兩週的【密集】課程，每天上六個小時，而且每天晚餐後還和家教練習口說。",
+    "collocation": "an intensive language course 密集語言課程"
+   },
+   {
+    "word": "elective",
+    "pos": "adj.",
+    "en_def": "chosen by the student, not required",
+    "cn_def": "選修的",
+    "sentence": "A: Do all the students in the hotel management program have to take the wine course in their second year? B: No, it's an {{BLANK}} subject, so students can choose it if they're interested, but many people take it because it helps them find jobs in fine restaurants.",
+    "cn": "A：飯店管理學程的所有學生第二年都必須修葡萄酒課嗎？ B：不，那是一門【選修】科目，學生有興趣的話可以選，但很多人會修，因為這有助於他們在高級餐廳找到工作。",
+    "collocation": "an elective course 選修課"
+   },
+   {
+    "word": "compulsory",
+    "pos": "adj.",
+    "en_def": "required by a rule; you must do it",
+    "cn_def": "必修的；強制的",
+    "sentence": "A: Can I skip the fire safety training next Tuesday, since I already have a meeting with an important client that afternoon? B: I'm afraid not, because the training is {{BLANK}} for every employee in this building, so you'll need to move your client meeting to another day.",
+    "cn": "A：我下週二下午已經和一位重要客戶有約，可以不參加消防安全訓練嗎？ B：恐怕不行，因為這項訓練對這棟大樓的每位員工都是【強制性】的，所以你得把客戶會議改到別天。",
+    "collocation": "a compulsory course 必修課"
+   },
+   {
+    "word": "practical",
+    "pos": "adj.",
+    "en_def": "connected with doing things, not ideas; useful in real situations",
+    "cn_def": "實用的；實作的",
+    "sentence": "A: What did you think of the business writing course that the company paid for last month? B: It was very {{BLANK}}, because instead of just talking about theory, the teacher had us write real emails, reports and meeting notes that we could use at work the next day.",
+    "cn": "A：你覺得公司上個月出錢讓你上的商業寫作課怎麼樣？ B：非常【實用】，因為老師不只是講理論，而是讓我們寫真正的電子郵件、報告和會議紀錄，隔天就能用在工作上。",
+    "collocation": "gain practical experience 獲得實務經驗"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The school plans to add computer coding to its _____ next year. Every student will take two coding classes each week.",
+    "options": [
+     "curriculum",
+     "certificate",
+     "quiz",
+     "trainer"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Please read the course _____ carefully before the first class. It lists every topic, reading and deadline for the term.",
+    "options": [
+     "instructor",
+     "beginner",
+     "syllabus",
+     "credit"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Over three hundred people filled the hall for the professor's _____ on climate change. She spoke for ninety minutes without notes.",
+    "options": [
+     "homework",
+     "lecture",
+     "grade",
+     "module"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Staff will build simple websites themselves during Saturday's hands-on _____. Please bring a laptop and a charger.",
+    "options": [
+     "certificate",
+     "syllabus",
+     "credit",
+     "workshop"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The online safety course is divided into five short parts. Each _____ takes about thirty minutes to complete.",
+    "options": [
+     "instructor",
+     "beginner",
+     "module",
+     "trainer"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Mr. Lee gave the class a writing _____ about a local business. It must be handed in by next Friday.",
+    "options": [
+     "assignment",
+     "lecture",
+     "seminar",
+     "trainer"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "New employees complete a skills _____ during their first week. The results help managers decide what training each person needs.",
+    "options": [
+     "lecture",
+     "syllabus",
+     "beginner",
+     "assessment"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Mina studied every night for a month before the accounting _____. She was thrilled to learn that she had passed.",
+    "options": [
+     "instructor",
+     "exam",
+     "curriculum",
+     "trainer"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "At the end of each video, there is a short _____ with five questions. Employees must answer all of them correctly.",
+    "options": [
+     "quiz",
+     "certificate",
+     "trainer",
+     "curriculum"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Daniel received the highest _____ in the class on his final report. His teacher praised his clear writing and careful research.",
+    "options": [
+     "module",
+     "syllabus",
+     "workshop",
+     "grade"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "After finishing the first aid course, each participant receives a _____. Many employers ask to see it during job interviews.",
+    "options": [
+     "lecture",
+     "certificate",
+     "module",
+     "homework"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "More than fifty employees decided to _____ in the free Spanish course this spring. The company will pay for all their books.",
+    "options": [
+     "teach",
+     "attend",
+     "enroll",
+     "learn"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Visitors must _____ at the front desk before entering the training center. They will receive a name badge and a map.",
+    "options": [
+     "teach",
+     "learn",
+     "study",
+     "register"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "All managers are required to _____ the leadership seminar next Monday. Lunch will be provided in the main hall.",
+    "options": [
+     "enroll",
+     "attend",
+     "register",
+     "learn"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Many staff members want to _____ how to use the new accounting software. The IT department will hold training sessions next week.",
+    "options": [
+     "learn",
+     "attend",
+     "enroll",
+     "register"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Ms. Chen will _____ the new interns how to answer customer calls politely. She has worked in customer service for ten years.",
+    "options": [
+     "learn",
+     "attend",
+     "teach",
+     "study"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Our yoga _____ shows us each position slowly before we try it ourselves. She also corrects our posture very gently.",
+    "options": [
+     "certificate",
+     "instructor",
+     "module",
+     "syllabus"
+    ],
+    "answer": 1,
+    "vocabIndex": 24
+   },
+   {
+    "q": "This guitar course is designed for the complete _____. No experience or musical knowledge is needed to join.",
+    "options": [
+     "curriculum",
+     "exam",
+     "assignment",
+     "beginner"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Sam's French is better than a beginner's, but not yet advanced. The school placed him in the _____ group.",
+    "options": [
+     "compulsory",
+     "elective",
+     "intermediate",
+     "practical"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "This course is for experienced programmers only. Students must already know the basics before joining the _____ level.",
+    "options": [
+     "advanced",
+     "elective",
+     "compulsory",
+     "online"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The course is fully _____, so students never need to visit the campus. All lessons are given through video calls.",
+    "options": [
+     "compulsory",
+     "elective",
+     "intermediate",
+     "online"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The _____ program packs a full semester of Chinese into just four weeks. Students study for seven hours every day.",
+    "options": [
+     "intensive",
+     "elective",
+     "practical",
+     "compulsory"
+    ],
+    "answer": 0,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Students must take five required courses, but they can choose one _____ subject. Many choose photography or creative writing.",
+    "options": [
+     "compulsory",
+     "intermediate",
+     "elective",
+     "intensive"
+    ],
+    "answer": 2,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Safety training is _____ for all factory workers. Nobody may use the machines until they have completed it.",
+    "options": [
+     "elective",
+     "compulsory",
+     "online",
+     "intermediate"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The cooking course is very _____ because students spend most of the time in the kitchen. They make a full meal in every lesson.",
+    "options": [
+     "practical",
+     "compulsory",
+     "elective",
+     "online"
+    ],
+    "answer": 0,
+    "vocabIndex": 33
+   },
+   {
+    "q": "The company hired a fitness _____ to lead exercise classes for staff. Sessions are held in the gym every Tuesday evening.",
+    "options": [
+     "certificate",
+     "syllabus",
+     "module",
+     "trainer"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Kevin plans to _____ economics at a university in London next year. He has already been accepted into the program.",
+    "options": [
+     "register",
+     "study",
+     "enroll",
+     "attend"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Please turn to page forty-two in your textbook. Today we will start _____ Six, which is about writing business letters.",
+    "options": [
+     "credit",
+     "certificate",
+     "unit",
+     "homework"
+    ],
+    "answer": 2,
+    "vocabIndex": 8
+   },
+   {
+    "q": "My first piano _____ is on Saturday morning. The teacher will come to my apartment for one hour.",
+    "options": [
+     "credit",
+     "certificate",
+     "syllabus",
+     "lesson"
+    ],
+    "answer": 3,
+    "vocabIndex": 2
+   },
+   {
+    "q": "There are only twelve students in the evening _____, so the teacher knows everyone by name. Everyone gets plenty of chances to speak.",
+    "options": [
+     "syllabus",
+     "class",
+     "certificate",
+     "grade"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   }
+  ]
  }
 }

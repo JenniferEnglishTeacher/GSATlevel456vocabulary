@@ -2529,7 +2529,12 @@ window.VOCAB_ZONES = {
    78,
    79,
    80,
-   81
+   81,
+   82,
+   83,
+   84,
+   85,
+   86
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2611,7 +2616,12 @@ window.VOCAB_ZONES = {
    "78": "Consultation Letter 諮詢信",
    "79": "Consume 消費；消耗",
    "80": "Contribute 貢獻",
-   "81": "Conversation 對話"
+   "81": "Conversation 對話",
+   "82": "Cooking 烹飪",
+   "83": "Cooperation 合作",
+   "84": "Country 國家",
+   "85": "Countryside 鄉村",
+   "86": "Course 課程"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }
