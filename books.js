@@ -2475,7 +2475,12 @@ window.VOCAB_ZONES = {
    23,
    24,
    25,
-   26
+   26,
+   27,
+   28,
+   29,
+   30,
+   31
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2503,7 +2508,12 @@ window.VOCAB_ZONES = {
    "23": "Baking 烘焙",
    "24": "Bar Chart 長條圖",
    "25": "Barbecue 烤肉",
-   "26": "Bargain 划算交易"
+   "26": "Bargain 划算交易",
+   "27": "Believing 信念",
+   "28": "Bicycle 自行車",
+   "29": "Birds 鳥類",
+   "30": "Birthday 生日",
+   "31": "Book 書籍"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }

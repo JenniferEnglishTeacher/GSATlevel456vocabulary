@@ -16248,5 +16248,2994 @@
     "vocabIndex": 0
    }
   ]
+ },
+ "27": {
+  "theme": "Believing 信念",
+  "source": "https://www.examword.com/group-topic/believing",
+  "VOCAB": [
+   {
+    "word": "belief",
+    "pos": "n.",
+    "en_def": "an idea that you accept as true",
+    "cn_def": "信念；相信",
+    "sentence": "A: Why did the new manager spend so much time talking with the team before she changed the weekly schedule at the office? B: It is her strong {{BLANK}} that workers do better when they understand the reasons for a change, so she always explains her plans clearly and listens to their questions first.",
+    "cn": "A：為什麼新經理在更改辦公室的每週班表之前，花了那麼多時間和團隊談話？ B：她堅定的【信念】是，員工了解改變的原因時會表現得更好，所以她總是先清楚說明計畫並聽取他們的問題。",
+    "collocation": "a strong belief in teamwork 對團隊合作的堅定信念"
+   },
+   {
+    "word": "believer",
+    "pos": "n.",
+    "en_def": "a person who strongly thinks that something is good or true",
+    "cn_def": "信奉者；深信…的人",
+    "sentence": "A: Are you surprised that the head of the sales department now rides her bicycle to work every day, even when it rains in the morning? B: Not at all, because she has been a firm {{BLANK}} in healthy habits for years, and she often tells new staff that regular exercise helps her stay focused at meetings.",
+    "cn": "A：業務部主管現在每天騎腳踏車上班，即使早上下雨也一樣，你會感到驚訝嗎？ B：一點也不，因為她多年來一直是健康習慣的堅定【信奉者】，她也常告訴新員工規律運動能幫助她在開會時保持專注。",
+    "collocation": "a firm believer in hard work 深信努力工作的人"
+   },
+   {
+    "word": "trust",
+    "pos": "v.",
+    "en_def": "to believe that someone is honest or will do the right thing",
+    "cn_def": "信任；信賴",
+    "sentence": "A: Why did the director let the new assistant handle the important client meeting in Singapore by himself last week? B: She has worked with him on several difficult projects, and he always finishes his tasks carefully and on time, so she knows she can {{BLANK}} him with serious responsibilities.",
+    "cn": "A：為什麼主任上週讓新助理獨自負責在新加坡的重要客戶會議？ B：她和他合作過好幾個困難的專案，他總是仔細又準時完成任務，所以她知道可以【信任】他、交付重大的責任。",
+    "collocation": "trust someone with confidential information 把機密資訊託付給某人"
+   },
+   {
+    "word": "faith",
+    "pos": "n.",
+    "en_def": "strong trust in someone or something",
+    "cn_def": "信心；信任；信仰",
+    "sentence": "A: The company lost money for two years in a row, so why are the investors still giving it more support this year? B: They have great {{BLANK}} in the new CEO because she turned around two other businesses before, and her plan to cut costs and open online stores looks very practical.",
+    "cn": "A：這家公司連續兩年虧損，為什麼投資人今年還繼續給予更多支持？ B：他們對新任執行長很有【信心】，因為她之前曾讓另外兩家企業轉虧為盈，而且她削減成本和開設網路商店的計畫看起來非常務實。",
+    "collocation": "have faith in the management team 對管理團隊有信心"
+   },
+   {
+    "word": "confidence",
+    "pos": "n.",
+    "en_def": "the feeling that you can do something well",
+    "cn_def": "信心；自信",
+    "sentence": "A: How did the new intern manage to give such a clear presentation to the board of directors without looking nervous at all? B: Her supervisor practiced with her several times during the week and gave her helpful advice, which built up her {{BLANK}} and helped her speak calmly in front of everyone.",
+    "cn": "A：新來的實習生是怎麼在董事會面前做出這麼清楚的簡報，而且一點都不緊張？ B：她的主管那週陪她練習了好幾次，並給她有用的建議，這建立了她的【信心】，讓她能在大家面前冷靜地發言。",
+    "collocation": "gain confidence in public speaking 增強公開演講的信心"
+   },
+   {
+    "word": "convince",
+    "pos": "v.",
+    "en_def": "to make someone believe that something is true",
+    "cn_def": "說服；使相信",
+    "sentence": "A: The finance team was against the idea at first, so how did you get approval to buy new computers for the design department? B: I showed them a report on how much time the old machines were wasting every day, and that was enough to {{BLANK}} them that the purchase would save money.",
+    "cn": "A：財務團隊起初反對這個想法，你是怎麼取得核准，為設計部門購買新電腦的？ B：我給他們看了一份報告，說明舊電腦每天浪費多少時間，這就足以【說服】他們相信這筆採購會省錢。",
+    "collocation": "convince the client to sign the contract 說服客戶簽約"
+   },
+   {
+    "word": "convinced",
+    "pos": "adj.",
+    "en_def": "completely sure that something is true",
+    "cn_def": "確信的；深信的",
+    "sentence": "A: Why does the marketing manager want to move most of our advertising money from newspapers to social media next year? B: After studying last year's sales numbers carefully, she is {{BLANK}} that younger customers find our products online, so she believes the change will bring in many more orders.",
+    "cn": "A：為什麼行銷經理明年想把大部分廣告預算從報紙轉到社群媒體？ B：仔細研究去年的銷售數字後，她【確信】年輕顧客是在網路上找到我們的產品，所以她認為這項改變會帶來更多訂單。",
+    "collocation": "be firmly convinced that the plan will work 堅信這個計畫會成功"
+   },
+   {
+    "word": "convincing",
+    "pos": "adj.",
+    "en_def": "able to make people believe something is true",
+    "cn_def": "令人信服的",
+    "sentence": "A: Did the hotel manager accept the guest's complaint about the noisy air conditioner, or did she refuse to give him a refund? B: He recorded the loud noise on his phone and showed her the video at the front desk, so his story was {{BLANK}} enough for her to return half of his payment.",
+    "cn": "A：飯店經理有接受那位房客對冷氣噪音的投訴嗎？還是她拒絕退款給他？ B：他用手機錄下了很大的噪音，並在櫃台給她看影片，所以他的說法夠【令人信服】，她便退還了一半的費用。",
+    "collocation": "a convincing argument 令人信服的論點"
+   },
+   {
+    "word": "doubt",
+    "pos": "n.",
+    "en_def": "a feeling of not being sure about something",
+    "cn_def": "懷疑；疑慮",
+    "sentence": "A: Why hasn't the manager signed the agreement with the new supplier yet, since their prices are much lower than our current ones? B: She has some {{BLANK}} about whether such a small company can deliver large orders on time, so she wants to visit their factory before she makes a final decision.",
+    "cn": "A：新供應商的價格比我們目前的低很多，為什麼經理還沒和他們簽約？ B：她對這麼小的公司能否準時交付大量訂單有些【疑慮】，所以她想在做最後決定之前先參觀他們的工廠。",
+    "collocation": "have serious doubts about the plan 對計畫抱持嚴重懷疑"
+   },
+   {
+    "word": "uncertain",
+    "pos": "adj.",
+    "en_def": "not sure or not clearly known",
+    "cn_def": "不確定的",
+    "sentence": "A: Has the travel agency told you yet when your group can fly to Tokyo for the trade show next month? B: Not yet, because a big storm is moving toward Japan, and the schedule for flights out of Taipei is still {{BLANK}}, so they promised to call me as soon as they hear any news.",
+    "cn": "A：旅行社告訴你了嗎？你們這團下個月什麼時候可以飛去東京參加商展？ B：還沒，因為一個大型暴風正往日本移動，從台北出發的航班時刻仍然【不確定】，所以他們答應一有消息就打電話給我。",
+    "collocation": "an uncertain future 不確定的未來"
+   },
+   {
+    "word": "certain",
+    "pos": "adj.",
+    "en_def": "completely sure",
+    "cn_def": "確定的；肯定的",
+    "sentence": "A: Should we order extra chairs for the company's annual dinner, or do you think the hall already has enough for all our guests? B: I called the event center this morning and checked the numbers twice, so I am {{BLANK}} they have two hundred chairs, which is more than enough for everyone we invited.",
+    "cn": "A：我們應該為公司年度晚宴多訂一些椅子嗎？還是你覺得會場已經有足夠的椅子給所有賓客了？ B：我今天早上打電話給活動中心，也核對了兩次數字，所以我【確定】他們有兩百張椅子，對所有受邀的人來說綽綽有餘。",
+    "collocation": "be certain about the delivery date 確定交貨日期"
+   },
+   {
+    "word": "certainty",
+    "pos": "n.",
+    "en_def": "the state of being completely sure",
+    "cn_def": "確定；確信",
+    "sentence": "A: Can you tell the customer exactly when the repair team will arrive to fix the broken elevator in her office building? B: I can't say with {{BLANK}}, because the team is still working at another site downtown, but they usually finish by noon, so they should reach her building early in the afternoon.",
+    "cn": "A：你能明確告訴客戶維修團隊何時會到她的辦公大樓修理故障的電梯嗎？ B：我無法【確定】地說，因為團隊還在市中心的另一個地點施工，但他們通常中午前會完成，所以應該在下午早些時候抵達她的大樓。",
+    "collocation": "say with certainty 確定地說"
+   },
+   {
+    "word": "assume",
+    "pos": "v.",
+    "en_def": "to think something is true without checking it",
+    "cn_def": "假定；以為",
+    "sentence": "A: Why did so many people arrive at the wrong meeting room on the third floor this morning? B: The room was changed late last night, and most of the staff didn't read the new email, so it was natural for them to {{BLANK}} that the meeting was still in the usual place, and they went there out of habit.",
+    "cn": "A：為什麼今天早上有這麼多人跑錯到三樓的會議室？ B：會議室昨晚很晚才更改，大部分員工沒看到新的電子郵件，所以他們很自然地【以為】會議還在平常的地點，就習慣性地去了那裡。",
+    "collocation": "assume that the price includes tax 以為價格含稅"
+   },
+   {
+    "word": "assumption",
+    "pos": "n.",
+    "en_def": "something you believe is true without proof",
+    "cn_def": "假設；設想",
+    "sentence": "A: Why is the sales report for the new store so different from the numbers the planning team expected last spring? B: Their plan was based on the {{BLANK}} that many tourists would visit the area, but the new train station opened late, so far fewer shoppers came than they had hoped.",
+    "cn": "A：為什麼新門市的銷售報告和規劃團隊去年春天預期的數字差這麼多？ B：他們的計畫是基於很多觀光客會來這個地區的【假設】，但新的火車站延後開通，所以來的購物者比他們希望的少很多。",
+    "collocation": "make an assumption about customer needs 對顧客需求做出假設"
+   },
+   {
+    "word": "opinion",
+    "pos": "n.",
+    "en_def": "what you think or feel about something",
+    "cn_def": "意見；看法",
+    "sentence": "A: Before we choose a design for the new company logo, should we ask the staff in the other branches what they think? B: Yes, I'd like to hear everyone's {{BLANK}} because they meet our customers every day, so I'll send a short online survey to all of our offices this afternoon.",
+    "cn": "A：在我們選定公司新標誌的設計之前，應該問問其他分公司員工的想法嗎？ B：是的，我想聽聽每個人的【意見】，因為他們每天都接觸我們的顧客，所以我今天下午會寄一份簡短的線上問卷給我們所有的辦公室。",
+    "collocation": "ask for a second opinion 徵求其他人的意見"
+   },
+   {
+    "word": "persuade",
+    "pos": "v.",
+    "en_def": "to make someone agree to do something by giving reasons",
+    "cn_def": "說服；勸說",
+    "sentence": "A: Our best engineer said she was going to leave for a job in Singapore, so is she really staying with us now? B: Yes, the director met her for lunch and offered her a team of her own and more flexible hours, which helped {{BLANK}} her to stay for at least another two years.",
+    "cn": "A：我們最優秀的工程師說她要去新加坡工作，那她現在真的會留下來嗎？ B：是的，主任和她共進午餐，提供她一個自己的團隊和更彈性的工時，這幫助【說服】她至少再留兩年。",
+    "collocation": "persuade customers to upgrade 說服顧客升級"
+   },
+   {
+    "word": "persuasion",
+    "pos": "n.",
+    "en_def": "the act of making someone agree with you",
+    "cn_def": "說服；勸說",
+    "sentence": "A: How did the hotel finally agree to give us a lower price for the conference rooms during the busy holiday season? B: It took a lot of {{BLANK}}, but our manager explained that we would book fifty guest rooms every year, so the hotel decided a long-term customer was worth the discount.",
+    "cn": "A：飯店最後怎麼會同意在忙碌的假期旺季給我們會議室較低的價格？ B：花了很多【說服】的功夫，但我們經理說明我們每年都會訂五十間客房，所以飯店認為一位長期客戶值得這個折扣。",
+    "collocation": "the power of persuasion 說服力"
+   },
+   {
+    "word": "credible",
+    "pos": "adj.",
+    "en_def": "able to be believed or trusted",
+    "cn_def": "可信的；可靠的",
+    "sentence": "A: Why did the reporter call so many different people before she wrote her story about the factory closing next year? B: She wanted to make sure her information came from {{BLANK}} sources, such as company managers and city officials, because readers would complain if the news turned out to be wrong.",
+    "cn": "A：為什麼那位記者在寫工廠明年關閉的報導之前，打電話給這麼多不同的人？ B：她想確保她的資訊來自【可靠的】消息來源，例如公司經理和市府官員，因為如果新聞內容錯誤，讀者會抱怨。",
+    "collocation": "a credible source of information 可靠的資訊來源"
+   },
+   {
+    "word": "credibility",
+    "pos": "n.",
+    "en_def": "the quality of being trusted and believed",
+    "cn_def": "可信度；信譽",
+    "sentence": "A: Why is the company so worried about a small mistake in the price list it sent to customers last week? B: Several clients already noticed the wrong numbers, and if we don't correct them quickly and apologize, we could lose our {{BLANK}} with buyers who have trusted us for many years.",
+    "cn": "A：為什麼公司這麼擔心上週寄給客戶的價目表裡的一個小錯誤？ B：好幾位客戶已經注意到錯誤的數字，如果我們不快點更正並道歉，可能會失去在多年來信任我們的買家心中的【信譽】。",
+    "collocation": "damage the company's credibility 損害公司的信譽"
+   },
+   {
+    "word": "skeptical",
+    "pos": "adj.",
+    "en_def": "having doubts that something is true or useful",
+    "cn_def": "懷疑的；持懷疑態度的",
+    "sentence": "A: Did the board members like the idea of letting all the staff work from home three days a week? B: Most of them were {{BLANK}} at first because they worried that people would work less, but the results from a small test group last month changed their minds completely.",
+    "cn": "A：董事會成員喜歡讓所有員工每週在家工作三天的想法嗎？ B：他們大多數起初都抱持【懷疑】態度，因為擔心大家工作量會減少，但上個月一個小型測試小組的結果完全改變了他們的想法。",
+    "collocation": "be skeptical about the new policy 對新政策持懷疑態度"
+   },
+   {
+    "word": "skepticism",
+    "pos": "n.",
+    "en_def": "an attitude of doubting that something is true",
+    "cn_def": "懷疑態度；質疑",
+    "sentence": "A: How did the customers react when the company said its new phone battery could last a full week without charging? B: Many people reacted with {{BLANK}} because other brands had made similar promises before, so the company invited reporters to test the phones themselves for seven days.",
+    "cn": "A：公司宣稱新手機電池不用充電就能用整整一週時，顧客有什麼反應？ B：很多人以【懷疑】的態度回應，因為其他品牌以前也做過類似的承諾，所以公司邀請記者親自測試手機七天。",
+    "collocation": "be met with skepticism 遭到質疑"
+   },
+   {
+    "word": "devotion",
+    "pos": "n.",
+    "en_def": "great love, care, or loyalty to someone or something",
+    "cn_def": "奉獻；忠誠；熱愛",
+    "sentence": "A: Why did the restaurant owner give the head chef a special award at the staff party on Friday night? B: He has worked there for twenty years, often staying late to train young cooks and test new dishes, so the owner wanted to thank him for his {{BLANK}} to the business.",
+    "cn": "A：為什麼餐廳老闆在週五晚上的員工派對上頒給主廚一個特別獎？ B：他在那裡工作了二十年，常常留到很晚訓練年輕廚師和試做新菜，所以老闆想感謝他對這家店的【奉獻】。",
+    "collocation": "devotion to duty 盡忠職守"
+   },
+   {
+    "word": "loyal",
+    "pos": "adj.",
+    "en_def": "always supporting a person, company, or idea",
+    "cn_def": "忠誠的；忠實的",
+    "sentence": "A: Why does the small coffee shop near our office give free drinks to some customers on their birthdays? B: The owner wants to thank the people who come in almost every morning, because {{BLANK}} customers like them keep the shop busy even when the big chain store across the street has a sale.",
+    "cn": "A：為什麼我們辦公室附近那家小咖啡店會在某些顧客生日時送免費飲料？ B：老闆想感謝那些幾乎每天早上都來的人，因為像他們這樣的【忠實】顧客，即使在對街的大型連鎖店打折時也讓店裡生意興隆。",
+    "collocation": "loyal customers 忠實顧客"
+   },
+   {
+    "word": "loyalty",
+    "pos": "n.",
+    "en_def": "the quality of always supporting someone or something",
+    "cn_def": "忠誠；忠誠度",
+    "sentence": "A: Why did the supermarket start giving points to shoppers every time they buy groceries with their membership card? B: The managers hope the program will build customer {{BLANK}}, because people who collect points usually come back every week instead of trying the new store that opened nearby.",
+    "cn": "A：為什麼超市開始在顧客每次用會員卡買雜貨時給他們點數？ B：經理們希望這個計畫能建立顧客【忠誠度】，因為收集點數的人通常每週都會回來，而不是去試試附近新開的商店。",
+    "collocation": "a customer loyalty program 顧客忠誠計畫"
+   },
+   {
+    "word": "commit",
+    "pos": "v.",
+    "en_def": "to promise to give your time or effort to something",
+    "cn_def": "承諾；致力於",
+    "sentence": "A: Is the new partner company really serious about working with us on the hospital building project next year? B: Yes, they are ready to {{BLANK}} to the full three-year plan, and they have already agreed to send ten engineers and share half of the costs for the design work.",
+    "cn": "A：新的合作公司真的認真要在明年和我們合作醫院大樓專案嗎？ B：是的，他們準備好【承諾】投入完整的三年計畫，而且已經同意派十位工程師並分擔一半的設計費用。",
+    "collocation": "commit to a long-term contract 承諾簽訂長期合約"
+   },
+   {
+    "word": "commitment",
+    "pos": "n.",
+    "en_def": "a promise or strong decision to do something",
+    "cn_def": "承諾；投入",
+    "sentence": "A: Why did the customers choose our cleaning company again this year, even though another company offered them lower prices? B: They told us they valued our {{BLANK}} to quality, since our team always arrives on time, uses safe products, and fixes any problem within one day of a complaint.",
+    "cn": "A：為什麼客戶今年又選擇了我們的清潔公司，即使另一家公司提供更低的價格？ B：他們告訴我們，他們重視我們對品質的【承諾】，因為我們的團隊總是準時抵達、使用安全的產品，並在接到投訴一天內解決任何問題。",
+    "collocation": "a strong commitment to customer service 對顧客服務的堅定承諾"
+   },
+   {
+    "word": "accept",
+    "pos": "v.",
+    "en_def": "to agree to take or receive something",
+    "cn_def": "接受",
+    "sentence": "A: Did the young designer decide to take the job offer from the advertising agency in Taichung, or is she still thinking about it? B: She plans to {{BLANK}} it tomorrow morning, because the salary is good, the office is close to her parents' home, and the team works on interesting international projects.",
+    "cn": "A：那位年輕設計師決定要去台中那家廣告公司工作了嗎？還是她還在考慮？ B：她打算明天早上【接受】這份工作，因為薪水不錯、辦公室離她父母家很近，而且團隊做的都是有趣的國際專案。",
+    "collocation": "accept a job offer 接受工作機會"
+   },
+   {
+    "word": "acceptance",
+    "pos": "n.",
+    "en_def": "the act of agreeing to take or approve something",
+    "cn_def": "接受；錄取；認可",
+    "sentence": "A: Have we heard back from the conference organizers about the research paper our team sent them in September? B: Yes, we received a letter of {{BLANK}} this morning, so two of our engineers will fly to Berlin in March to present the results to experts from around the world.",
+    "cn": "A：我們有收到研討會主辦單位關於我們團隊九月寄去的研究論文的回覆嗎？ B：有，我們今天早上收到了【接受】通知函，所以我們的兩位工程師三月會飛往柏林，向世界各地的專家發表研究成果。",
+    "collocation": "a letter of acceptance 錄取通知；接受函"
+   },
+   {
+    "word": "conviction",
+    "pos": "n.",
+    "en_def": "a strong belief or opinion",
+    "cn_def": "堅定的信念；確信",
+    "sentence": "A: Why did the director spend so much of the company's budget on training programs during such a difficult year? B: It is her deep {{BLANK}} that skilled workers are the key to long-term success, so she would rather cut office costs than stop helping employees learn new skills.",
+    "cn": "A：為什麼主任在這麼艱難的一年裡，把公司這麼多預算花在培訓課程上？ B：她深深【確信】，有技能的員工是長期成功的關鍵，所以她寧願削減辦公室開支，也不願停止幫助員工學習新技能。",
+    "collocation": "speak with conviction 堅定地說"
+   },
+   {
+    "word": "devout",
+    "pos": "adj.",
+    "en_def": "believing strongly in a religion and following its rules",
+    "cn_def": "虔誠的",
+    "sentence": "A: Why did the hotel staff prepare a quiet prayer room and special meals for the group of visitors arriving from Indonesia next week? B: The travel agent told us that many of the guests are {{BLANK}} Muslims who pray several times a day, so we want them to feel comfortable and respected during their stay.",
+    "cn": "A：為什麼飯店員工為下週從印尼來的旅客團準備了一間安靜的祈禱室和特別餐點？ B：旅行社告訴我們，許多客人是一天祈禱好幾次的【虔誠】穆斯林，所以我們希望他們在住宿期間感到舒適並受到尊重。",
+    "collocation": "a devout believer 虔誠的信徒"
+   },
+   {
+    "word": "ideology",
+    "pos": "n.",
+    "en_def": "a set of ideas and beliefs that guide a group or a system",
+    "cn_def": "意識形態；思想體系；理念",
+    "sentence": "A: Why did the two business partners decide to end their company after working together successfully for more than ten years? B: Their management {{BLANK}} became very different, because one wanted fast growth and big profits while the other cared more about small shops, fair pay, and protecting the environment.",
+    "cn": "A：為什麼那兩位事業夥伴在成功合作十多年後決定結束他們的公司？ B：他們的經營【理念】變得非常不同，因為一個想要快速成長和高利潤，另一個則更在意小商店、公平的薪資和保護環境。",
+    "collocation": "political ideology 政治意識形態"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The founder started the charity with one simple idea. She holds the _____ that every child deserves a good education.",
+    "options": [
+     "acceptance",
+     "skepticism",
+     "belief",
+     "loyalty"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The manager is leaving for a two-week trip abroad. She can _____ her assistant to handle all urgent calls carefully.",
+    "options": [
+     "assume",
+     "commit",
+     "accept",
+     "trust"
+    ],
+    "answer": 3,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Sales fell sharply last quarter, but the investors still support the CEO. They have strong _____ in her new plan for growth.",
+    "options": [
+     "skepticism",
+     "faith",
+     "opinion",
+     "acceptance"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "After three months of English lessons, Mr. Lin speaks much better at meetings. His _____ has grown, and he now leads calls with overseas clients.",
+    "options": [
+     "confidence",
+     "ideology",
+     "doubt",
+     "assumption"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The sales report shows strong results in every region. These numbers should _____ the board that the new strategy is working.",
+    "options": [
+     "assume",
+     "convince",
+     "accept",
+     "trust"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The lawyer studied every page of the contract last night. She is _____ that the supplier broke the agreement.",
+    "options": [
+     "loyal",
+     "devout",
+     "convinced",
+     "credible"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The engineer gave clear examples and real test data in his talk. His explanation was so _____ that everyone voted for his design.",
+    "options": [
+     "convincing",
+     "uncertain",
+     "skeptical",
+     "devout"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The weather forecast shows heavy rain all weekend. There is some _____ about whether the outdoor company picnic will go ahead.",
+    "options": [
+     "credibility",
+     "devotion",
+     "loyalty",
+     "doubt"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The airline has not announced a new schedule yet. Our arrival time in Seoul is still _____ because of the storm.",
+    "options": [
+     "loyal",
+     "uncertain",
+     "convincing",
+     "devout"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "I checked the hotel booking twice this morning. I am _____ that our rooms are reserved for Friday and Saturday.",
+    "options": [
+     "devout",
+     "loyal",
+     "certain",
+     "credible"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The builders could not give an exact date. Nobody can say with _____ when the new clinic will open to patients.",
+    "options": [
+     "loyalty",
+     "devotion",
+     "ideology",
+     "certainty"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The email did not mention a dress code for the dinner. Most guests will _____ that business clothes are fine.",
+    "options": [
+     "assume",
+     "trust",
+     "persuade",
+     "commit"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The budget was based on stable fuel prices. Unfortunately, that _____ was wrong, and shipping costs rose by twenty percent.",
+    "options": [
+     "devotion",
+     "persuasion",
+     "loyalty",
+     "assumption"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Before buying new office chairs, the manager asked the staff. She wanted each person's honest _____ about comfort and price.",
+    "options": [
+     "opinion",
+     "ideology",
+     "devotion",
+     "certainty"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The new phone has many useful features. The sales staff will try to _____ customers to buy the more expensive model.",
+    "options": [
+     "assume",
+     "accept",
+     "persuade",
+     "commit"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The client did not want to change suppliers at first. After weeks of gentle _____, she finally agreed to try our service.",
+    "options": [
+     "skepticism",
+     "persuasion",
+     "certainty",
+     "ideology"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Readers trust this magazine because of its careful research. Its reporters only use _____ sources such as official reports and experts.",
+    "options": [
+     "devout",
+     "uncertain",
+     "credible",
+     "skeptical"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The company printed the wrong prices in its catalog twice this year. These mistakes have hurt its _____ with long-time buyers.",
+    "options": [
+     "assumption",
+     "credibility",
+     "conviction",
+     "devotion"
+    ],
+    "answer": 1,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The manager has heard many big promises from software sellers before. She is _____ about claims that the new program will double sales.",
+    "options": [
+     "loyal",
+     "devout",
+     "convincing",
+     "skeptical"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The advertisement says the cream removes wrinkles in one day. Many shoppers have reacted to this claim with _____.",
+    "options": [
+     "skepticism",
+     "loyalty",
+     "commitment",
+     "devotion"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Ms. Chen has cared for the hotel garden for thirty years. The owner praised her _____ to the job at the staff party.",
+    "options": [
+     "assumption",
+     "devotion",
+     "doubt",
+     "skepticism"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Mr. Park has bought his coffee at the same shop for ten years. He is one of its most _____ customers.",
+    "options": [
+     "skeptical",
+     "uncertain",
+     "credible",
+     "loyal"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The airline gives free upgrades to frequent travelers. This rewards program is designed to build customer _____ over many years.",
+    "options": [
+     "loyalty",
+     "assumption",
+     "skepticism",
+     "doubt"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The new partner has agreed to the project budget. Both companies will _____ to a three-year contract next month.",
+    "options": [
+     "convince",
+     "persuade",
+     "commit",
+     "assume"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Our factory checks every product twice before shipping. This shows our strong _____ to quality and customer safety.",
+    "options": [
+     "commitment",
+     "skepticism",
+     "assumption",
+     "doubt"
+    ],
+    "answer": 0,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The hotel offered Mr. Lee a manager position in Kaohsiung. He plans to _____ the offer because the salary is excellent.",
+    "options": [
+     "persuade",
+     "assume",
+     "convince",
+     "accept"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The university sent Amy an email last Friday. It was a letter of _____ for its international business program.",
+    "options": [
+     "ideology",
+     "acceptance",
+     "devotion",
+     "skepticism"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The CEO spoke about the new environmental plan with great _____. Everyone could see that she truly believed in it.",
+    "options": [
+     "doubt",
+     "skepticism",
+     "conviction",
+     "assumption"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Mrs. Wang is a _____ Buddhist who visits the temple every morning. She never eats meat, even at business dinners.",
+    "options": [
+     "skeptical",
+     "uncertain",
+     "convincing",
+     "devout"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The two political parties have very different ideas about taxes. Their _____ shapes how they plan to spend public money.",
+    "options": [
+     "acceptance",
+     "doubt",
+     "ideology",
+     "certainty"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+   }
+  ]
+ },
+ "28": {
+  "theme": "Bicycle 自行車",
+  "source": "https://www.examword.com/group-topic/bicycle",
+  "VOCAB": [
+   {
+    "word": "pedal",
+    "pos": "v.",
+    "en_def": "to push the pedals of a bike with your feet to make it move",
+    "cn_def": "踩踏板；騎（腳踏車）",
+    "sentence": "A: Why are you so tired this morning, and did you have to come to the office by bike again because your car is still at the repair shop? B: Yes, and the route from my apartment goes up a long, steep hill, so I had to {{BLANK}} very hard for twenty minutes before I finally reached the building.",
+    "cn": "A：你今天早上為什麼這麼累？是不是因為你的車還在修車廠，所以又得騎腳踏車來辦公室？ B：對，而且從我公寓出發的路線要爬一段又長又陡的坡，所以我得用力【踩踏板】整整二十分鐘才終於到達大樓。",
+    "collocation": "pedal hard up the hill 用力踩踏板上坡"
+   },
+   {
+    "word": "wheel",
+    "pos": "n.",
+    "en_def": "a round object that turns to let a bike or car move",
+    "cn_def": "輪子；車輪",
+    "sentence": "A: Can you tell me why the delivery bike didn't arrive at the customer's address on time yesterday afternoon? B: The rider hit a deep hole near the train station, and the front {{BLANK}} got badly bent, so he had to push the bike to the nearest shop and wait an hour for repairs.",
+    "cn": "A：你能告訴我為什麼昨天下午送貨腳踏車沒有準時抵達客戶地址嗎？ B：騎士在火車站附近撞到一個很深的坑洞，前【輪】嚴重變形，所以他必須把車推到最近的店，等了一個小時修理。",
+    "collocation": "replace the front wheel 更換前輪"
+   },
+   {
+    "word": "tire",
+    "pos": "n.",
+    "en_def": "the rubber ring filled with air around a wheel",
+    "cn_def": "輪胎",
+    "sentence": "A: Before we lend these company bikes to the visitors for the city tour this weekend, is there anything we should check first? B: Please make sure each {{BLANK}} has enough air in it, because the bikes have been sitting in the storage room for months, and a flat one could ruin the whole trip.",
+    "cn": "A：這個週末我們把公司腳踏車借給訪客做城市導覽之前，有什麼需要先檢查的嗎？ B：請確認每個【輪胎】的氣都夠，因為這些腳踏車已經在儲藏室放了好幾個月，一個洩了氣的就可能毀了整趟行程。",
+    "collocation": "have a flat tire 爆胎；輪胎沒氣"
+   },
+   {
+    "word": "handlebar",
+    "pos": "n.",
+    "en_def": "the bar at the front of a bike that you hold to steer",
+    "cn_def": "（腳踏車的）把手；車把",
+    "sentence": "A: Do you think this used bike is a good choice for my daily trip to the office, or should I spend more money on a new one? B: It looks fine overall, but the {{BLANK}} is a little loose, so you should tighten it before you ride in heavy traffic, or you might lose control when you turn.",
+    "cn": "A：你覺得這台二手腳踏車適合我每天上班騎嗎？還是我應該多花點錢買台新的？ B：整體看起來不錯，但【車把手】有點鬆，所以你在車流量大的地方騎之前應該先鎖緊，否則轉彎時可能會失控。",
+    "collocation": "hold the handlebar with both hands 雙手握住車把"
+   },
+   {
+    "word": "seat",
+    "pos": "n.",
+    "en_def": "the part of a bike or vehicle that you sit on",
+    "cn_def": "座位；座椅",
+    "sentence": "A: My back hurts after riding to work every day this week, so what do you think the problem could be? B: I noticed that your {{BLANK}} is too low for someone as tall as you, so you should raise it a few centimeters, and your knees and back will feel much better after a few days.",
+    "cn": "A：這週我每天騎車上班後背都很痛，你覺得可能是什麼問題？ B：我注意到你的【座椅】對像你這麼高的人來說太低了，所以你應該把它調高幾公分，幾天後你的膝蓋和背就會舒服很多。",
+    "collocation": "adjust the seat height 調整座椅高度"
+   },
+   {
+    "word": "frame",
+    "pos": "n.",
+    "en_def": "the main metal or carbon structure of a bike",
+    "cn_def": "車架；框架",
+    "sentence": "A: Why is this bike in the shop window so much more expensive than the others, even though it looks almost the same? B: Its {{BLANK}} is made of carbon instead of steel, so the whole bike is lighter and stronger, which is why professional racers and serious riders are willing to pay the higher price.",
+    "cn": "A：櫥窗裡這台腳踏車看起來和其他的幾乎一樣，為什麼貴這麼多？ B：它的【車架】是用碳纖維而不是鋼做的，所以整台車更輕更堅固，這就是為什麼職業選手和認真的車友願意付較高的價錢。",
+    "collocation": "a carbon frame 碳纖維車架"
+   },
+   {
+    "word": "chain",
+    "pos": "n.",
+    "en_def": "a line of metal rings that turns the back wheel when you pedal",
+    "cn_def": "（腳踏車）鏈條",
+    "sentence": "A: I heard a strange noise from my bike all the way to the meeting this morning, so do you know what might be wrong with it? B: It is probably the {{BLANK}}, because it looks dry and a little rusty, so you should clean it and add some oil before you ride home this evening.",
+    "cn": "A：今天早上我一路騎去開會，腳踏車都發出奇怪的聲音，你知道可能是哪裡出問題嗎？ B：可能是【鏈條】，因為它看起來很乾又有點生鏽，所以你今晚騎回家前應該先清理並上點油。",
+    "collocation": "oil the bike chain 替腳踏車鏈條上油"
+   },
+   {
+    "word": "gear",
+    "pos": "n.",
+    "en_def": "a part that controls how hard or easy it is to pedal",
+    "cn_def": "排檔；齒輪",
+    "sentence": "A: How did you manage to ride all the way up that steep hill to the conference center without stopping even once? B: I changed to a lower {{BLANK}} at the bottom of the hill, so pedaling became much easier, and I could keep a steady pace even though I was carrying a heavy laptop bag.",
+    "cn": "A：你是怎麼一路騎上那個陡坡到會議中心，中間一次都沒停下來的？ B：我在坡底就換到較低的【檔位】，所以踩起來輕鬆多了，即使背著很重的筆電包也能保持穩定的速度。",
+    "collocation": "shift to a lower gear 換到低速檔"
+   },
+   {
+    "word": "brake",
+    "pos": "n.",
+    "en_def": "the part you use to slow down or stop a bike",
+    "cn_def": "煞車；制動器",
+    "sentence": "A: Why did the bike rental shop give you a discount when you returned the bike yesterday afternoon? B: The back {{BLANK}} didn't work well when I was riding down the hill near the river, so I almost hit a car, and the manager apologized and gave me half my money back.",
+    "cn": "A：你昨天下午還車時，腳踏車租借店為什麼給你折扣？ B：我在河邊附近騎下坡時，後【煞車】不太靈，所以我差點撞到一台車，經理向我道歉並退還一半的錢。",
+    "collocation": "check the brakes before riding 騎車前檢查煞車"
+   },
+   {
+    "word": "helmet",
+    "pos": "n.",
+    "en_def": "a hard hat that protects your head",
+    "cn_def": "安全帽；頭盔",
+    "sentence": "A: Does the company require us to wear any special safety equipment if we join the charity bike race next month? B: Yes, every rider must wear a {{BLANK}} during the whole race, and the organizers will check each person at the starting line, so please remember to bring yours or rent one.",
+    "cn": "A：如果我們參加下個月的慈善單車賽，公司要求我們穿戴特別的安全裝備嗎？ B：要，每位騎士整場比賽都必須戴【安全帽】，主辦單位會在起跑線檢查每個人，所以請記得帶你自己的或租一頂。",
+    "collocation": "wear a bike helmet 戴自行車安全帽"
+   },
+   {
+    "word": "saddle",
+    "pos": "n.",
+    "en_def": "the seat on a bicycle or on a horse",
+    "cn_def": "（腳踏車）坐墊；鞍座",
+    "sentence": "A: After the long weekend bike tour along the coast, which part of the trip was the most uncomfortable for you? B: Honestly, sitting for six hours was hard because the {{BLANK}} on my rental bike was narrow and very hard, so next time I will bring a soft cover or rent a better model.",
+    "cn": "A：沿著海岸騎了漫長的週末單車之旅後，對你來說行程中哪個部分最不舒服？ B：說實話，坐六個小時很辛苦，因為我租的腳踏車【坐墊】又窄又硬，所以下次我會帶個軟墊套或租個比較好的車款。",
+    "collocation": "a padded saddle 加厚軟墊坐墊"
+   },
+   {
+    "word": "spoke",
+    "pos": "n.",
+    "en_def": "one of the thin metal bars that join the center of a wheel to its edge",
+    "cn_def": "（車輪的）輻條",
+    "sentence": "A: The repair technician said my back wheel is not perfectly round anymore, so what exactly caused that problem? B: One thin metal {{BLANK}} broke when you rode over the curb last week, so the wheel lost its shape, and he will need to replace it and adjust the others before you ride again.",
+    "cn": "A：維修技師說我的後輪已經不再是完美的圓形，到底是什麼造成這個問題？ B：上週你騎過路緣石時，一根細細的金屬【輻條】斷了，所以車輪變形，他在你再騎之前需要更換它並調整其他的輻條。",
+    "collocation": "replace a broken spoke 更換斷掉的輻條"
+   },
+   {
+    "word": "hub",
+    "pos": "n.",
+    "en_def": "the center part of a wheel that turns around the axle; also a central place",
+    "cn_def": "（車輪的）輪轂；花鼓；中心",
+    "sentence": "A: Why does my front wheel make a grinding sound and turn so slowly, even after I pumped up the tires this morning? B: The {{BLANK}} in the center of the wheel probably needs new bearings, so take the bike to the shop downtown, and they can usually fix it within one day.",
+    "cn": "A：為什麼我的前輪會發出摩擦聲而且轉得那麼慢，即使今天早上已經把輪胎打飽氣了？ B：車輪中心的【花鼓】可能需要換新的軸承，所以把車牽去市中心的店，他們通常一天內就能修好。",
+    "collocation": "the rear wheel hub 後輪花鼓"
+   },
+   {
+    "word": "ride",
+    "forms": "ride – rode – ridden",
+    "pos": "v.",
+    "en_def": "to sit on and control a bike, motorbike or horse as it moves",
+    "cn_def": "騎（腳踏車、馬等）",
+    "sentence": "A: Since the subway is closed for repairs all next week, how are you planning to get to the office downtown every morning? B: I will {{BLANK}} my bike along the river path, because it only takes about twenty-five minutes, and I can avoid the crowded buses and the heavy traffic on the main streets.",
+    "cn": "A：既然下週地鐵整週都因維修而關閉，你打算每天早上怎麼去市中心的辦公室？ B：我會沿著河濱步道【騎】腳踏車，因為只要大約二十五分鐘，而且可以避開擁擠的公車和主要街道上的車潮。",
+    "collocation": "ride a bike to work 騎腳踏車上班"
+   },
+   {
+    "word": "cycle",
+    "pos": "v.",
+    "en_def": "to ride a bicycle",
+    "cn_def": "騎自行車",
+    "sentence": "A: What did your team decide to do for the company's health month, since many people wanted an outdoor activity this year? B: We decided to {{BLANK}} together around the lake every Saturday morning, and the company will pay for bike rentals and breakfast for everyone who joins at least three times.",
+    "cn": "A：既然今年很多人想要戶外活動，你們團隊決定在公司健康月做什麼？ B：我們決定每週六早上一起繞湖【騎單車】，而且公司會替參加至少三次的每個人支付租車費和早餐。",
+    "collocation": "cycle to work every day 每天騎車上班"
+   },
+   {
+    "word": "balance",
+    "pos": "n.",
+    "en_def": "the ability to stay steady without falling",
+    "cn_def": "平衡",
+    "sentence": "A: Why did the new delivery worker fall off his bike in front of the restaurant this afternoon? Was anyone hurt? B: He was carrying too many boxes on the back, so he lost his {{BLANK}} when he turned the corner too quickly, but luckily he only hurt his arm a little and the food was fine.",
+    "cn": "A：新來的外送員今天下午為什麼在餐廳前從腳踏車上摔下來？有人受傷嗎？ B：他後座載了太多箱子，所以轉彎太快時失去了【平衡】，但幸好他只是手臂受了點輕傷，餐點也沒事。",
+    "collocation": "lose your balance 失去平衡"
+   },
+   {
+    "word": "speed",
+    "pos": "n.",
+    "en_def": "how fast something moves",
+    "cn_def": "速度",
+    "sentence": "A: Are there any special rules for riding company bikes inside the factory area that new employees should know about? B: Yes, you must keep your {{BLANK}} under ten kilometers per hour near the loading area, because forklifts and workers move around there all day and accidents can happen very easily.",
+    "cn": "A：在工廠區內騎公司腳踏車，有沒有什麼新員工應該知道的特別規定？ B：有，在裝卸區附近你必須把【速度】保持在每小時十公里以下，因為堆高機和工人整天都在那裡來來去去，很容易發生意外。",
+    "collocation": "at high speed 高速地"
+   },
+   {
+    "word": "trail",
+    "pos": "n.",
+    "en_def": "a path through the countryside, a forest, or mountains",
+    "cn_def": "小徑；步道",
+    "sentence": "A: Do you know a good place where our department could go cycling for the team-building day next month? B: There is a beautiful {{BLANK}} through the forest just outside the city, and it is wide and flat enough for beginners, so even colleagues who rarely ride could enjoy it safely.",
+    "cn": "A：你知道下個月團隊建立日我們部門可以去哪裡騎單車嗎？ B：城外有一條穿過森林的美麗【小徑】，夠寬也夠平坦，適合初學者，所以就算是很少騎車的同事也能安全地享受。",
+    "collocation": "a bike trail along the river 沿河的自行車道"
+   },
+   {
+    "word": "commute",
+    "pos": "v.",
+    "en_def": "to travel regularly between home and work",
+    "cn_def": "通勤",
+    "sentence": "A: Why did you decide to move to an apartment so close to the office, even though the rent there is much higher? B: I used to {{BLANK}} by bus for almost two hours every day, which made me very tired, so now I save time and can simply bike to work in ten minutes.",
+    "cn": "A：你為什麼決定搬到離公司這麼近的公寓，即使那裡的房租貴很多？ B：我以前每天搭公車【通勤】將近兩個小時，讓我非常疲累，所以現在我省下時間，只要騎十分鐘腳踏車就能上班。",
+    "collocation": "commute to work by bike 騎車通勤上班"
+   },
+   {
+    "word": "mountain",
+    "pos": "n.",
+    "en_def": "a very high hill",
+    "cn_def": "山；山岳",
+    "sentence": "A: What are your plans for the long holiday weekend, since the weather report says it will be sunny and cool? B: A few friends from the marketing team and I are going to ride our bikes up a {{BLANK}} near the national park, and we plan to camp at the top and watch the sunrise.",
+    "cn": "A：氣象預報說天氣會晴朗涼爽，你連假週末有什麼計畫？ B：我和行銷團隊的幾個朋友要騎腳踏車登上國家公園附近的一座【山】，我們打算在山頂露營看日出。",
+    "collocation": "a mountain bike 登山車"
+   },
+   {
+    "word": "road",
+    "pos": "n.",
+    "en_def": "a wide way for cars and bikes to travel on",
+    "cn_def": "道路；馬路",
+    "sentence": "A: Is it safe to ride a bike from the hotel to the convention center, or should our guests take a taxi instead? B: It is fairly safe, but the main {{BLANK}} has no bike lane and lots of trucks, so guests should use the quieter side streets and follow the green signs.",
+    "cn": "A：從飯店騎腳踏車到會展中心安全嗎？還是我們的客人應該改搭計程車？ B：還算安全，但主要【道路】沒有自行車道而且卡車很多，所以客人應該走比較安靜的小巷並跟著綠色標誌走。",
+    "collocation": "a busy main road 繁忙的主要道路"
+   },
+   {
+    "word": "grip",
+    "pos": "n.",
+    "en_def": "a firm hold on something",
+    "cn_def": "緊握；抓握力；抓地力",
+    "sentence": "A: It rained heavily during my ride to work this morning, so why did I feel like my hands kept sliding while I was steering? B: The rubber covers on your handlebars are old and smooth, so you have a poor {{BLANK}}, and you should buy new ones before riding in wet weather again.",
+    "cn": "A：今天早上我騎車上班時下大雨，為什麼我在控制方向時一直覺得手在打滑？ B：你把手上的橡膠套又舊又光滑，所以【抓握力】很差，你在下次雨天騎車之前應該買新的。",
+    "collocation": "keep a firm grip on the handlebars 牢牢握住車把"
+   },
+   {
+    "word": "reflector",
+    "pos": "n.",
+    "en_def": "a small piece of plastic or glass that shines when light hits it",
+    "cn_def": "反光片；反光鏡",
+    "sentence": "A: The police stopped me on my way home last night and warned me about my bike, but what did I do wrong? B: Your bike has no light or {{BLANK}} on the back, so drivers can't see you in the dark, and the law requires every bike to have one for riding safely at night.",
+    "cn": "A：昨晚我回家路上被警察攔下來，警告我腳踏車的問題，我到底做錯了什麼？ B：你的腳踏車後面沒有車燈或【反光片】，所以駕駛在黑暗中看不到你，法律規定每台腳踏車都要裝一個才能在夜間安全騎乘。",
+    "collocation": "a rear reflector 後反光片"
+   },
+   {
+    "word": "lightweight",
+    "pos": "adj.",
+    "en_def": "not heavy",
+    "cn_def": "輕量的；重量輕的",
+    "sentence": "A: Which bike would you recommend for our sales staff, who often need to carry their bikes up the stairs to the train platform? B: I suggest this {{BLANK}} folding model, because it weighs less than ten kilos, and it fits easily under a desk when they arrive at the office.",
+    "cn": "A：我們的業務員常常需要把腳踏車扛上樓梯到火車月台，你會推薦哪一款腳踏車？ B：我建議這款【輕量】摺疊車，因為它重量不到十公斤，而且他們抵達辦公室時可以輕鬆地放在桌子底下。",
+    "collocation": "a lightweight folding bike 輕量摺疊車"
+   },
+   {
+    "word": "durable",
+    "pos": "adj.",
+    "en_def": "able to last a long time without breaking",
+    "cn_def": "耐用的；持久的",
+    "sentence": "A: Why did the delivery company choose these bikes even though they cost more than the cheaper models from other suppliers? B: They are very {{BLANK}}, so they can be used every day in rain and heat for many years, and in the end the company actually saves money on repairs and replacements.",
+    "cn": "A：外送公司為什麼選這些腳踏車，即使它們比其他供應商的便宜款式還貴？ B：它們非常【耐用】，可以在雨天和高溫下每天使用好幾年，所以最後公司其實在維修和更換上省了錢。",
+    "collocation": "durable materials 耐用的材料"
+   },
+   {
+    "word": "maintenance",
+    "pos": "n.",
+    "en_def": "the work of keeping something in good condition",
+    "cn_def": "保養；維修",
+    "sentence": "A: How often should the office send the shared bikes to the repair shop to make sure they stay in good condition? B: They should get regular {{BLANK}} every three months, including cleaning, oiling the chains, and checking the brakes, so small problems don't turn into expensive repairs later.",
+    "cn": "A：辦公室應該多久把共用腳踏車送去修車店一次，以確保它們維持良好狀態？ B：它們應該每三個月做一次定期【保養】，包括清潔、替鏈條上油和檢查煞車，這樣小問題才不會在之後變成昂貴的維修。",
+    "collocation": "regular bike maintenance 定期腳踏車保養"
+   },
+   {
+    "word": "fitness",
+    "pos": "n.",
+    "en_def": "the condition of being healthy and strong",
+    "cn_def": "健康；體能",
+    "sentence": "A: Have you noticed that Daniel seems much healthier and more energetic at work since the beginning of this year? B: Yes, he started cycling thirty kilometers every weekend to improve his {{BLANK}}, and he told me he has lost five kilos and sleeps much better than before.",
+    "cn": "A：你有沒有注意到，從今年年初開始，丹尼爾在工作時看起來健康許多、也更有活力？ B：有，他開始每個週末騎三十公里來提升【體能】，他告訴我他瘦了五公斤，而且睡得比以前好多了。",
+    "collocation": "improve your fitness 增強體能"
+   },
+   {
+    "word": "eco-friendly",
+    "pos": "adj.",
+    "en_def": "not harmful to the environment",
+    "cn_def": "環保的；對環境友善的",
+    "sentence": "A: Why is the city government giving free bike passes to office workers in the downtown area this year? B: It wants people to choose a more {{BLANK}} way to get to work, because fewer cars mean cleaner air, less noise, and lower carbon emissions for everyone living in the city.",
+    "cn": "A：市政府今年為什麼要發免費的腳踏車通行證給市中心的上班族？ B：它希望大家選擇更【環保】的方式上班，因為汽車少了，代表城市裡的每個人都能享有更乾淨的空氣、更少的噪音和更低的碳排放。",
+    "collocation": "an eco-friendly way to travel 環保的交通方式"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The new trainee had never used a bike before. The instructor showed her how to _____ smoothly with both feet while keeping her back straight.",
+    "options": [
+     "ride",
+     "pedal",
+     "cycle",
+     "commute"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The delivery truck could not move after the accident. One _____ came off and rolled into the street.",
+    "options": [
+     "fitness",
+     "helmet",
+     "trail",
+     "wheel"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "This laptop bag weighs less than half a kilo. It is so _____ that you can carry it all day without feeling tired.",
+    "options": [
+     "lightweight",
+     "eco-friendly",
+     "fitness",
+     "durable"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Paul was late for the meeting because his car had a flat _____. He had to wait forty minutes for roadside help.",
+    "options": [
+     "speed",
+     "trail",
+     "tire",
+     "frame"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "When you turn a corner, hold the _____ firmly with both hands. Never let go of it while the bike is moving.",
+    "options": [
+     "maintenance",
+     "reflector",
+     "mountain",
+     "handlebar"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Mr. Lin lives in a small town far from the city. He has to _____ for ninety minutes each way by train.",
+    "options": [
+     "commute",
+     "pedal",
+     "cycle",
+     "ride"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The concert hall was almost full when we arrived. We finally found an empty _____ in the last row near the exit.",
+    "options": [
+     "gear",
+     "spoke",
+     "seat",
+     "trail"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The painting was beautiful, but its wooden _____ was broken. The gallery sent it to a workshop to be repaired.",
+    "options": [
+     "chain",
+     "frame",
+     "tire",
+     "speed"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The factory machines will be turned off on Saturday for regular _____. Workers do not need to come in that day.",
+    "options": [
+     "fitness",
+     "balance",
+     "maintenance",
+     "trail"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The hotel group owns more than fifty properties in Asia. It is the largest hotel _____ in the region.",
+    "options": [
+     "saddle",
+     "chain",
+     "grip",
+     "hub"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "These work boots are made of thick leather and strong rubber. They are _____ enough to last for at least five years.",
+    "options": [
+     "durable",
+     "lightweight",
+     "eco-friendly",
+     "maintenance"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The truck driver moved into a lower _____ before going down the steep mountain road. This helped him control the heavy vehicle.",
+    "options": [
+     "seat",
+     "balance",
+     "hub",
+     "gear"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The bus driver saw a child run into the street. She hit the _____ immediately, and the bus stopped just in time.",
+    "options": [
+     "brake",
+     "fitness",
+     "saddle",
+     "spoke"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Before she joined the delivery team, Maria had to prove she could _____ a motorbike safely. She passed the test on her first try.",
+    "options": [
+     "pedal",
+     "cycle",
+     "commute",
+     "ride"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "All visitors to the construction site must wear a hard _____. The safety officer will check everyone at the main gate.",
+    "options": [
+     "chain",
+     "helmet",
+     "wheel",
+     "reflector"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The riding school bought new equipment last month. Before each lesson, the trainer checks that every _____ is fastened tightly to the horse.",
+    "options": [
+     "spoke",
+     "handlebar",
+     "saddle",
+     "trail"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The repair shop fixed my back wheel this morning. The mechanic replaced one broken _____ and adjusted the others.",
+    "options": [
+     "spoke",
+     "helmet",
+     "fitness",
+     "road"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The hotel uses solar power and recycles all of its waste. Guests like staying there because it is very _____.",
+    "options": [
+     "lightweight",
+     "durable",
+     "trail",
+     "eco-friendly"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The airport in Singapore is a major travel _____ in Asia. Millions of passengers change planes there every year.",
+    "options": [
+     "gear",
+     "grip",
+     "hub",
+     "saddle"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The triathlon starts at seven in the morning. Athletes must swim, _____, and run a total of fifty kilometers before noon.",
+    "options": [
+     "commute",
+     "cycle",
+     "pedal",
+     "brake"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Standing on one leg is a good exercise for older people. It helps them improve their _____ and avoid falls at home.",
+    "options": [
+     "chain",
+     "mountain",
+     "reflector",
+     "balance"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Drivers must reduce their _____ near schools during class hours. The limit in these areas is thirty kilometers per hour.",
+    "options": [
+     "frame",
+     "hub",
+     "speed",
+     "saddle"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Our hiking group followed a narrow _____ through the forest. After three hours, we reached a beautiful waterfall.",
+    "options": [
+     "gear",
+     "trail",
+     "brake",
+     "seat"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The ski resort is located high on a snowy _____. Visitors can take a cable car to the top in fifteen minutes.",
+    "options": [
+     "mountain",
+     "chain",
+     "grip",
+     "tire"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The city will close the main _____ to the airport for repairs this weekend. Travelers should leave home earlier than usual.",
+    "options": [
+     "saddle",
+     "spoke",
+     "road",
+     "helmet"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The new running shoes have special rubber soles. They give runners a better _____ on wet and slippery surfaces.",
+    "options": [
+     "grip",
+     "speed",
+     "frame",
+     "hub"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Cyclists should put a _____ on the back of their bikes. It shines when car lights hit it at night.",
+    "options": [
+     "maintenance",
+     "reflector",
+     "mountain",
+     "gear"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The company opened a small gym on the third floor. Employees can use it to improve their _____ during lunch breaks.",
+    "options": [
+     "maintenance",
+     "trail",
+     "reflector",
+     "fitness"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Customers often complain that cheap phone cases break easily. Our new case is far more _____ and comes with a two-year guarantee.",
+    "options": [
+     "speed",
+     "lightweight",
+     "durable",
+     "eco-friendly"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The building's elevator broke down twice last month. The manager has called the _____ team to check it again.",
+    "options": [
+     "fitness",
+     "maintenance",
+     "chain",
+     "speed"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   }
+  ]
+ },
+ "29": {
+  "theme": "Birds 鳥類",
+  "source": "https://www.examword.com/group-topic/birds",
+  "VOCAB": [
+   {
+    "word": "keen",
+    "pos": "adj.",
+    "en_def": "very interested in something and eager to do it",
+    "cn_def": "熱衷的；渴望的",
+    "sentence": "A: Why did the marketing director ask Linda to plan the company's weekend trip to the wetlands park this year instead of hiring a travel agency? B: Linda is very {{BLANK}} on bird watching, so she already knows the best walking paths, the quietest viewing spots, and the time when most of the birds come out to feed.",
+    "cn": "A：為什麼行銷總監今年要琳達規劃公司週末去濕地公園的旅遊，而不是請旅行社？ B：琳達非常【熱衷於】賞鳥，所以她早就知道最好的步道、最安靜的觀賞地點，以及大部分鳥類出來覓食的時間。",
+    "collocation": "be keen on bird watching 熱衷於賞鳥"
+   },
+   {
+    "word": "fond",
+    "pos": "adj.",
+    "en_def": "liking someone or something very much",
+    "cn_def": "喜愛的",
+    "sentence": "A: Why does Mr. Chen always eat his lunch on the bench beside the pond instead of joining the rest of the team in the staff cafeteria? B: He has always been {{BLANK}} of the ducks and small birds that live there, and he says that watching them for twenty minutes helps him relax before his busy afternoon meetings.",
+    "cn": "A：為什麼陳先生總是在池塘邊的長椅上吃午餐，而不是和團隊其他人一起去員工餐廳？ B：他一直都很【喜愛】住在那裡的鴨子和小鳥，他說看牠們二十分鐘能幫助他在忙碌的下午會議前放鬆。",
+    "collocation": "be fond of animals 喜愛動物"
+   },
+   {
+    "word": "attract",
+    "pos": "v.",
+    "en_def": "to make a person or animal come to a place",
+    "cn_def": "吸引",
+    "sentence": "A: The hotel garden looks so quiet these days, so what is the manager planning to do before the spring tourist season begins next month? B: She has ordered several wooden feeders and some colorful flowering plants to {{BLANK}} more birds, because many of our guests enjoy taking photos of wildlife while they have breakfast on the terrace.",
+    "cn": "A：飯店花園最近看起來好冷清，經理打算在下個月春季旅遊旺季開始前做些什麼？ B：她訂購了幾個木製餵食器和一些色彩鮮豔的開花植物，來【吸引】更多鳥類，因為我們許多客人喜歡在露台吃早餐時拍野生動物的照片。",
+    "collocation": "attract visitors to the park 吸引遊客到公園"
+   },
+   {
+    "word": "creature",
+    "pos": "n.",
+    "en_def": "a living animal, especially a small or unusual one",
+    "cn_def": "生物；動物",
+    "sentence": "A: What did the children in the after-school nature class find most exciting about yesterday's field trip to the forest center? B: They loved the guided walk, but the best moment was when the guide showed them a tiny {{BLANK}} with bright blue feathers sitting quietly on a branch just above the visitors' path.",
+    "cn": "A：課後自然課的孩子們覺得昨天去森林中心的校外教學中最令人興奮的是什麼？ B：他們很喜歡導覽步行，但最精彩的時刻是導遊讓他們看到一隻有著亮藍色羽毛的小【生物】，靜靜地停在遊客步道正上方的樹枝上。",
+    "collocation": "a small, gentle creature 一隻溫馴的小生物"
+   },
+   {
+    "word": "vertebrate",
+    "pos": "n.",
+    "en_def": "an animal that has a backbone",
+    "cn_def": "脊椎動物",
+    "sentence": "A: Our new exhibition sign at the science museum needs a simple explanation, so how should we describe birds for the young visitors? B: We could say that a bird is a {{BLANK}}, which means it has a backbone just like fish, frogs, snakes, and people, and then add a colorful picture of a bird's skeleton next to the text.",
+    "cn": "A：我們科學博物館的新展覽告示牌需要簡單的說明，那我們要如何向年輕參觀者描述鳥類？ B：我們可以說鳥是一種【脊椎動物】，意思是牠和魚、青蛙、蛇以及人一樣有脊椎，然後在文字旁邊加上一張彩色的鳥類骨骼圖。",
+    "collocation": "birds, fish, and other vertebrates 鳥類、魚類和其他脊椎動物"
+   },
+   {
+    "word": "feather",
+    "pos": "n.",
+    "en_def": "one of the soft, light parts that cover a bird's body",
+    "cn_def": "羽毛",
+    "sentence": "A: Why did the furniture company decide to stop selling the expensive pillows that were so popular in last year's winter catalog? B: Several customers complained that a {{BLANK}} kept coming out through the cotton cover every night, so the product team is now testing a stronger cover and a different filling.",
+    "cn": "A：為什麼家具公司決定停賣那款在去年冬季型錄中很受歡迎的昂貴枕頭？ B：好幾位顧客抱怨每天晚上都有【羽毛】從棉質枕套裡跑出來，所以產品團隊現在正在測試更牢固的枕套和不同的填充物。",
+    "collocation": "a pillow filled with goose feathers 填滿鵝毛的枕頭"
+   },
+   {
+    "word": "beak",
+    "pos": "n.",
+    "en_def": "the hard, pointed mouth of a bird",
+    "cn_def": "鳥喙",
+    "sentence": "A: How did the zoo's animal doctor know that the old parrot was sick, even though it still looked active and noisy in the bird house? B: She noticed that its {{BLANK}} had a small crack near the tip, so the bird could not break open its seeds properly and had been eating much less food than usual.",
+    "cn": "A：雖然那隻老鸚鵡在鳥舍裡看起來仍然很活潑又吵鬧，動物園的獸醫怎麼知道牠生病了？ B：她注意到牠的【鳥喙】靠近尖端處有一道小裂縫，所以這隻鳥無法好好啄開種子，吃的食物也比平常少了很多。",
+    "collocation": "a long, sharp beak 又長又尖的鳥喙"
+   },
+   {
+    "word": "Aves",
+    "pos": "n.",
+    "en_def": "the scientific name for the class of all birds",
+    "cn_def": "鳥綱（鳥類的學名）",
+    "sentence": "A: The publisher wants the new animal guidebook to look more professional, so what should we print at the top of the chapter about birds? B: Let's print the scientific class name {{BLANK}} under the main title, and then explain in a short note that every bird, from the tiny hummingbird to the huge ostrich, belongs to this group.",
+    "cn": "A：出版社希望新的動物圖鑑看起來更專業，那我們應該在鳥類那一章的頂端印些什麼？ B：我們在主標題下方印上科學分類名稱【鳥綱】，然後用一段簡短說明解釋每一種鳥，從小小的蜂鳥到巨大的鴕鳥，都屬於這一類。",
+    "collocation": "the class Aves 鳥綱"
+   },
+   {
+    "word": "distinctive",
+    "pos": "adj.",
+    "en_def": "special or different, so it is easy to recognize",
+    "cn_def": "獨特的；與眾不同的",
+    "sentence": "A: Why did the design team choose a small red bird for the new logo instead of the blue circle that the director first suggested? B: They wanted something {{BLANK}} that customers would remember after seeing it only once, and the red bird stands out clearly on our product boxes, website, and delivery trucks.",
+    "cn": "A：為什麼設計團隊為新標誌選了一隻小紅鳥，而不是總監一開始建議的藍色圓圈？ B：他們想要一個【獨特的】東西，讓顧客只看一次就記得，而且這隻紅鳥在我們的產品盒子、網站和送貨卡車上都非常顯眼。",
+    "collocation": "a distinctive call 獨特的鳴叫聲"
+   },
+   {
+    "word": "flora",
+    "pos": "n.",
+    "en_def": "all the plants that grow in a particular area",
+    "cn_def": "植物群；（某地區的）植物",
+    "sentence": "A: What will the tour guide talk about during the first part of the afternoon nature walk around the island for our company group? B: She will first introduce the local {{BLANK}}, such as the tall palm trees and wild orchids, and explain how these plants give the island's birds both food and safe places to rest.",
+    "cn": "A：導遊在下午為我們公司團體安排的環島自然步行前半段會介紹什麼？ B：她會先介紹當地的【植物】，例如高大的棕櫚樹和野生蘭花，並說明這些植物如何為島上的鳥類提供食物和安全的休息處。",
+    "collocation": "the flora and fauna of the island 島上的動植物"
+   },
+   {
+    "word": "fauna",
+    "pos": "n.",
+    "en_def": "all the animals that live in a particular area",
+    "cn_def": "動物群；（某地區的）動物",
+    "sentence": "A: Why is the environmental group asking our construction company to delay the new factory project near the river until next year? B: They are worried that the noise and dust will harm the local {{BLANK}}, especially the rare birds, frogs, and fish that depend on the quiet riverbanks during their breeding season.",
+    "cn": "A：為什麼環保團體要求我們的營建公司把河邊的新工廠案延到明年？ B：他們擔心噪音和灰塵會傷害當地的【動物】，尤其是在繁殖季節依賴安靜河岸的珍稀鳥類、青蛙和魚類。",
+    "collocation": "protect the local fauna 保護當地動物"
+   },
+   {
+    "word": "rare",
+    "pos": "adj.",
+    "en_def": "not seen or found very often",
+    "cn_def": "稀有的；罕見的",
+    "sentence": "A: Why were so many photographers waiting outside the city park with their big cameras when I walked past this morning on my way to the office? B: A birdwatcher posted online that a {{BLANK}} owl from the mountains had been seen there, so people came early hoping to get a picture before it flew away.",
+    "cn": "A：今天早上我走路去辦公室經過時，為什麼有那麼多攝影師帶著大相機在市立公園外等？ B：一位賞鳥人士在網路上發文說，有人在那裡看見一隻來自山區的【稀有】貓頭鷹，所以大家一早就來，希望在牠飛走前拍到照片。",
+    "collocation": "a rare species 稀有物種"
+   },
+   {
+    "word": "shiny",
+    "pos": "adj.",
+    "en_def": "bright and reflecting light",
+    "cn_def": "發亮的；閃亮的",
+    "sentence": "A: Why did the restaurant staff put plastic covers over the outdoor tables after the lunch rush ended yesterday afternoon? B: A group of crows kept landing on the patio and stealing the {{BLANK}} spoons and forks, so the manager decided to protect the silverware until the birds stop visiting.",
+    "cn": "A：為什麼餐廳員工昨天下午午餐尖峰過後，要在戶外餐桌上蓋上塑膠罩？ B：有一群烏鴉一直降落在露台上偷走【亮晶晶的】湯匙和叉子，所以經理決定在那些鳥不再來之前先保護好餐具。",
+    "collocation": "shiny black feathers 閃亮的黑色羽毛"
+   },
+   {
+    "word": "breed",
+    "forms": "breed – bred – bred",
+    "pos": "v.",
+    "en_def": "to keep animals so that they produce young animals",
+    "cn_def": "繁殖；飼養",
+    "sentence": "A: How does the small family farm outside the city make enough money now that fewer people are buying their fresh vegetables at the market? B: The owners started to {{BLANK}} chickens and ducks for local restaurants, and they also sell the eggs online, which has become their most successful product this year.",
+    "cn": "A：現在在市場買新鮮蔬菜的人變少了，城外那座小型家庭農場要如何賺足夠的錢？ B：農場主人開始【繁殖飼養】雞和鴨供應給當地餐廳，他們也在網路上賣雞蛋，這已成為他們今年最成功的產品。",
+    "collocation": "breed birds in captivity 人工繁殖鳥類"
+   },
+   {
+    "word": "pigeon",
+    "pos": "n.",
+    "en_def": "a gray bird often seen in cities and parks",
+    "cn_def": "鴿子",
+    "sentence": "A: Why is the building manager putting thin metal spikes along the edges of the roof and above all the office windows this week? B: Every {{BLANK}} from the train station seems to land on our roof, and the birds leave such a mess on the windows that the cleaning company says washing them every day costs too much.",
+    "cn": "A：為什麼大樓管理員這週要在屋頂邊緣和所有辦公室窗戶上方裝上細細的金屬尖刺？ B：火車站那邊的每一隻【鴿子】似乎都會降落在我們的屋頂上，而且這些鳥把窗戶弄得好髒，清潔公司說每天清洗的費用太高了。",
+    "collocation": "feed the pigeons in the square 在廣場餵鴿子"
+   },
+   {
+    "word": "sparrow",
+    "pos": "n.",
+    "en_def": "a small, common brown bird",
+    "cn_def": "麻雀",
+    "sentence": "A: What was that small brown bird that flew into the café this morning and made all the customers laugh while they were waiting in line? B: It was just a {{BLANK}} looking for bread crumbs, and after one of our servers opened the back door, it hopped outside and flew up into the tree by the parking lot.",
+    "cn": "A：今天早上飛進咖啡廳、讓排隊的客人都笑出來的那隻棕色小鳥是什麼？ B：那只是一隻在找麵包屑的【麻雀】，我們一位服務生打開後門後，牠就跳到外面，飛上停車場旁的那棵樹。",
+    "collocation": "a flock of sparrows 一群麻雀"
+   },
+   {
+    "word": "finch",
+    "pos": "n.",
+    "en_def": "a small singing bird with a short, thick beak",
+    "cn_def": "雀鳥（雀科鳴禽）",
+    "sentence": "A: My manager wants a small pet for the reception area that is quiet, cheerful, and easy to care for, so what would you recommend from your shop? B: I would suggest a {{BLANK}}, because it is a small, colorful songbird that eats simple seeds, does not need much space, and sings softly enough not to disturb your visitors.",
+    "cn": "A：我的經理想為接待區找一隻安靜、討喜又好照顧的小寵物，你會推薦你們店裡的哪一種？ B：我建議養一隻【雀鳥】，因為牠是一種色彩繽紛的小型鳴禽，吃簡單的種子、不需要太多空間，而且歌聲輕柔，不會打擾你們的訪客。",
+    "collocation": "a zebra finch 斑胸草雀"
+   },
+   {
+    "word": "exotic",
+    "pos": "adj.",
+    "en_def": "coming from a faraway country and unusual",
+    "cn_def": "異國的；外來的；奇特的",
+    "sentence": "A: Why has the number of visitors to the botanical garden increased so much since the new section opened in the summer? B: The garden built a warm glass house full of {{BLANK}} birds from South America and Africa, and many families now visit on weekends to see their bright colors and listen to their unusual songs.",
+    "cn": "A：為什麼植物園從夏天新區開放後，遊客人數增加了那麼多？ B：植物園蓋了一座溫暖的玻璃屋，裡面滿是來自南美洲和非洲的【異國】鳥類，現在很多家庭週末都會來看牠們鮮豔的色彩、聽牠們奇特的歌聲。",
+    "collocation": "exotic pets 外來種寵物"
+   },
+   {
+    "word": "remote",
+    "pos": "adj.",
+    "en_def": "far away from towns and cities",
+    "cn_def": "偏遠的",
+    "sentence": "A: Why does the research team need a helicopter for their bird study next month instead of driving there in the company vans? B: The birds they want to study only live on a {{BLANK}} island about two hundred kilometers from the coast, and there are no roads, ferries, or hotels anywhere near it.",
+    "cn": "A：為什麼研究團隊下個月的鳥類研究需要直升機，而不是開公司的廂型車去？ B：他們想研究的鳥只住在離海岸約兩百公里的一座【偏遠的】島上，而且附近完全沒有道路、渡輪或旅館。",
+    "collocation": "a remote mountain village 偏遠的山村"
+   },
+   {
+    "word": "hunt",
+    "pos": "v.",
+    "en_def": "to chase and catch animals for food or sport",
+    "cn_def": "狩獵；獵捕",
+    "sentence": "A: Why did the national park office put up so many new signs near the lake entrance before the autumn holiday weekend? B: The signs tell visitors that it is against the law to {{BLANK}} the ducks and geese in the park, because the number of these birds has dropped sharply over the past few years.",
+    "cn": "A：為什麼國家公園管理處在秋季連假前，在湖畔入口附近豎立了那麼多新告示牌？ B：告示牌告訴遊客，在園內【獵捕】鴨子和鵝是違法的，因為這些鳥的數量在過去幾年大幅減少。",
+    "collocation": "hunt for food 覓食；獵捕食物"
+   },
+   {
+    "word": "roast",
+    "pos": "v.",
+    "en_def": "to cook meat in an oven or over a fire",
+    "cn_def": "烤；烘烤",
+    "sentence": "A: The hotel is hosting a large holiday dinner for our clients next Friday, so how will the kitchen prepare the main dish for so many guests? B: The head chef plans to {{BLANK}} twenty turkeys slowly in the big ovens for several hours, and then serve them with potatoes, fresh vegetables, and a special fruit sauce.",
+    "cn": "A：飯店下週五要為我們的客戶舉辦大型節日晚宴，廚房要如何為這麼多客人準備主菜？ B：主廚打算用大烤箱慢慢地【烤】二十隻火雞好幾個小時，然後搭配馬鈴薯、新鮮蔬菜和特製水果醬一起上菜。",
+    "collocation": "roast a chicken 烤雞"
+   },
+   {
+    "word": "game birds",
+    "pos": "n.phr.",
+    "en_def": "wild birds that people hunt for sport or food",
+    "cn_def": "獵禽（可狩獵食用的野鳥）",
+    "sentence": "A: Why does the new restaurant near the old castle have such a short menu and change it every few weeks during the autumn and winter? B: The chef only cooks {{BLANK}}, such as wild duck, pheasant, and quail, that local hunters bring in each week, so the dishes depend on what is available during the season.",
+    "cn": "A：為什麼古堡附近那家新餐廳的菜單那麼短，而且在秋冬期間每幾週就換一次？ B：主廚只烹調當地獵人每週送來的【獵禽】，像是野鴨、雉雞和鵪鶉，所以菜色取決於當季能取得的食材。",
+    "collocation": "the hunting season for game birds 獵禽的狩獵季"
+   },
+   {
+    "word": "delicacy",
+    "pos": "n.",
+    "en_def": "a rare or expensive food that people think is special",
+    "cn_def": "珍饈；美味佳餚",
+    "sentence": "A: What dish should we order for the visiting Japanese clients at tonight's business dinner if we want them to try something truly local? B: Let's order the roast pigeon, which is a famous {{BLANK}} in this region, and the restaurant only serves a few plates each night, so I will call now to reserve two.",
+    "cn": "A：如果我們想讓來訪的日本客戶嚐嚐道地的料理，今晚的商務晚宴該點什麼菜？ B：我們點烤乳鴿吧，那是這個地區有名的【美味佳餚】，而且餐廳每晚只供應幾盤，所以我現在就打電話預訂兩份。",
+    "collocation": "a local delicacy 當地美食"
+   },
+   {
+    "word": "cage",
+    "pos": "n.",
+    "en_def": "a box made of wire or bars for keeping birds or animals",
+    "cn_def": "籠子",
+    "sentence": "A: The pet shop customer said her parrot keeps trying to escape, so what advice did you give her before she left the store? B: I told her to buy a bigger {{BLANK}} with a stronger lock on the door, because a bird that has too little space often gets bored and looks for ways to get out.",
+    "cn": "A：那位寵物店顧客說她的鸚鵡一直想逃跑，她離開店之前你給了她什麼建議？ B：我告訴她買一個更大、門鎖更牢固的【籠子】，因為空間太小的鳥常常會覺得無聊，並想辦法跑出來。",
+    "collocation": "keep a bird in a cage 把鳥關在籠子裡"
+   },
+   {
+    "word": "nest",
+    "pos": "n.",
+    "en_def": "a place a bird builds to lay its eggs and keep its babies",
+    "cn_def": "鳥巢",
+    "sentence": "A: Why haven't the workers started painting the outside of the office building yet, even though the job was supposed to begin on Monday? B: They found a {{BLANK}} with four small eggs under the roof near the main entrance, so the manager decided to wait until the young birds can fly before the painting begins.",
+    "cn": "A：為什麼工人還沒開始粉刷辦公大樓外牆，明明工程應該在星期一開始？ B：他們在主要入口附近的屋簷下發現一個有四顆小蛋的【鳥巢】，所以經理決定等到幼鳥會飛之後再開始粉刷。",
+    "collocation": "build a nest 築巢"
+   },
+   {
+    "word": "habitat",
+    "pos": "n.",
+    "en_def": "the natural place where an animal or plant lives",
+    "cn_def": "棲息地",
+    "sentence": "A: Why is our company giving money to the wetland project this year instead of sponsoring the city marathon like we did before? B: The CEO believes we should help protect the natural {{BLANK}} of the water birds, since the new housing developments near the coast have already destroyed many of the places where they feed and rest.",
+    "cn": "A：為什麼我們公司今年要捐錢給濕地計畫，而不是像以前那樣贊助城市馬拉松？ B：執行長認為我們應該幫忙保護水鳥的自然【棲息地】，因為沿海附近的新住宅開發已經破壞了許多牠們覓食和休息的地方。",
+    "collocation": "loss of natural habitat 自然棲息地的喪失"
+   },
+   {
+    "word": "perch",
+    "pos": "v.",
+    "en_def": "(of a bird) to sit on a branch or an edge",
+    "cn_def": "（鳥）棲息；停歇",
+    "sentence": "A: Why did the café owner put a small wooden bar outside the front window when she redecorated the shop last month? B: She noticed that birds like to {{BLANK}} near the window in the morning, so she gave them a safe place to sit, and now customers enjoy watching them while they drink their coffee.",
+    "cn": "A：為什麼咖啡廳老闆上個月重新裝潢店面時，在前窗外放了一根小木桿？ B：她注意到鳥兒喜歡在早上【停歇】在窗戶附近，所以她給牠們一個安全的地方坐，現在客人都喜歡一邊喝咖啡一邊看牠們。",
+    "collocation": "perch on a branch 停在樹枝上"
+   },
+   {
+    "word": "amuse",
+    "pos": "v.",
+    "en_def": "to make someone laugh or smile",
+    "cn_def": "逗樂；使開心",
+    "sentence": "A: The children in the hospital waiting room looked bored and tired this morning, so what did the nurses do to make them feel better? B: A volunteer brought a friendly talking parrot to {{BLANK}} them, and the kids laughed loudly every time the bird said hello or copied the sound of a ringing phone.",
+    "cn": "A：今天早上醫院候診室的孩子們看起來又無聊又疲倦，護理師們做了什麼讓他們感覺好一點？ B：一位志工帶來一隻友善、會說話的鸚鵡來【逗樂】他們，每次那隻鳥說哈囉或模仿電話鈴聲時，孩子們都大聲笑出來。",
+    "collocation": "amuse the audience 逗樂觀眾"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Our new intern is very _____ on photography. She volunteered to take pictures of the birds at the company's nature event.",
+    "options": [
+     "rare",
+     "shiny",
+     "keen",
+     "remote"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Mrs. Lee has always been _____ of her grandmother's old songbird. She still feeds it every morning before she leaves for work.",
+    "options": [
+     "fond",
+     "rare",
+     "distinctive",
+     "exotic"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The park staff planted berry bushes along the walking path. They hope the fruit will _____ more birds during the cold winter months.",
+    "options": [
+     "hunt",
+     "breed",
+     "roast",
+     "attract"
+    ],
+    "answer": 3,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The museum's new display shows a strange flying _____ from millions of years ago. Scientists believe it was an early relative of modern birds.",
+    "options": [
+     "delicacy",
+     "creature",
+     "nest",
+     "cage"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Every bird has a backbone, just like a human. That is why scientists say that a bird is a _____.",
+    "options": [
+     "feather",
+     "flora",
+     "vertebrate",
+     "cage"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The designer added a long white _____ to the hat for the fashion show. It came from an ostrich farm in South Africa.",
+    "options": [
+     "feather",
+     "nest",
+     "pigeon",
+     "beak"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The bird used its strong, curved _____ to crack open the hard nuts. The visitors at the zoo were amazed by its power.",
+    "options": [
+     "habitat",
+     "beak",
+     "flora",
+     "cage"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "In science class, the students learned that all birds belong to one group. The scientific name of this class is _____.",
+    "options": [
+     "flora",
+     "game birds",
+     "fauna",
+     "Aves"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The male bird has a _____ red mark on its head. This special feature makes it easy for birdwatchers to recognize.",
+    "options": [
+     "remote",
+     "fond",
+     "distinctive",
+     "keen"
+    ],
+    "answer": 2,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The island is famous for its wild orchids and tall ferns. Plant experts come from all over the world to study its _____.",
+    "options": [
+     "cage",
+     "beak",
+     "vertebrate",
+     "flora"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The documentary shows the animals that live in the rainforest. It focuses on the local _____, including monkeys, frogs, and colorful birds.",
+    "options": [
+     "fauna",
+     "flora",
+     "delicacy",
+     "feather"
+    ],
+    "answer": 0,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Only about fifty of these owls are left in the wild. The bird is so _____ that most people have never seen one.",
+    "options": [
+     "fond",
+     "rare",
+     "keen",
+     "shiny"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The new office lobby has a _____ marble floor. The cleaners polish it every night so that it reflects the morning sunlight.",
+    "options": [
+     "shiny",
+     "remote",
+     "keen",
+     "fond"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The farm plans to _____ more chickens next year. The owners expect strong demand for fresh eggs from local bakeries.",
+    "options": [
+     "roast",
+     "amuse",
+     "perch",
+     "breed"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "In the past, a trained _____ carried short messages between cities. Today, these gray birds are mostly seen in parks and squares.",
+    "options": [
+     "cage",
+     "pigeon",
+     "habitat",
+     "flora"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "A small brown _____ built a nest above the shop door. The owner decided not to remove it until the babies could fly.",
+    "options": [
+     "fauna",
+     "delicacy",
+     "sparrow",
+     "vertebrate"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The pet shop sells a tiny songbird with a short, thick beak. This colorful _____ is popular because it is easy to look after.",
+    "options": [
+     "habitat",
+     "finch",
+     "cage",
+     "delicacy"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The hotel's garden is full of _____ plants from tropical countries. Guests often ask the staff where these unusual flowers come from.",
+    "options": [
+     "fond",
+     "keen",
+     "exotic",
+     "shiny"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The research station is in a _____ area with no roads. All supplies must be delivered by small plane once a month.",
+    "options": [
+     "keen",
+     "fond",
+     "shiny",
+     "remote"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Owls usually _____ at night when small animals come out. Their excellent hearing helps them find food in the dark.",
+    "options": [
+     "hunt",
+     "amuse",
+     "roast",
+     "attract"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The kitchen staff will _____ the chicken in the oven for two hours. It will be served with vegetables at the staff party.",
+    "options": [
+     "hunt",
+     "perch",
+     "roast",
+     "amuse"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Wild duck and pheasant are popular _____ in this region. Many hunters visit the area during the autumn hunting season.",
+    "options": [
+     "game birds",
+     "beak",
+     "flora",
+     "vertebrate"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Bird's nest soup is considered a _____ in many Asian countries. It is expensive and is usually served at special banquets.",
+    "options": [
+     "beak",
+     "sparrow",
+     "habitat",
+     "delicacy"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Please keep the parrot in its _____ while the painters are working. We do not want it to fly out of the open windows.",
+    "options": [
+     "habitat",
+     "cage",
+     "flora",
+     "fauna"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The eagles built a huge _____ on top of the old radio tower. The city decided to protect it until the eggs hatch.",
+    "options": [
+     "finch",
+     "beak",
+     "nest",
+     "delicacy"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The new highway would cut through the wetlands. Environmental groups say it will destroy the natural _____ of many water birds.",
+    "options": [
+     "delicacy",
+     "feather",
+     "cage",
+     "habitat"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Seagulls like to _____ on the posts along the harbor. From there, they watch the fishing boats come back with their catch.",
+    "options": [
+     "roast",
+     "perch",
+     "hunt",
+     "breed"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The clown at the company picnic tried to _____ the children with funny tricks. Everyone laughed when he pulled a toy bird from his hat.",
+    "options": [
+     "amuse",
+     "perch",
+     "roast",
+     "breed"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Many forests are being cut down to make room for farmland. As a result, birds are losing their _____ and moving into cities.",
+    "options": [
+     "delicacy",
+     "Aves",
+     "beak",
+     "habitat"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The shop placed bright lights and colorful signs in its window. The manager hopes these changes will _____ more customers this holiday season.",
+    "options": [
+     "attract",
+     "roast",
+     "perch",
+     "breed"
+    ],
+    "answer": 0,
+    "vocabIndex": 2
+   }
+  ]
+ },
+ "30": {
+  "theme": "Birthday 生日",
+  "source": "https://www.examword.com/group-topic/birthday",
+  "VOCAB": [
+   {
+    "word": "celebrate",
+    "pos": "v.",
+    "en_def": "to do something enjoyable for a special day or success",
+    "cn_def": "慶祝",
+    "sentence": "A: Our department finally reached its sales target for the year, so what are we planning to do for the team before the holiday break starts next week? B: The director wants to {{BLANK}} the success with a dinner at the Italian restaurant downtown on Friday evening, and she has already booked a private room for everyone.",
+    "cn": "A：我們部門終於達成了今年的業績目標，那在下週假期開始前，我們打算為團隊做些什麼？ B：主任想在週五晚上到市中心的義大利餐廳【慶祝】這次的成功，而且她已經為大家訂好了包廂。",
+    "collocation": "celebrate the company's anniversary 慶祝公司週年紀念"
+   },
+   {
+    "word": "party",
+    "pos": "n.",
+    "en_def": "a social event where people meet to eat, drink and have fun",
+    "cn_def": "派對；聚會",
+    "sentence": "A: Do you know why the conference room on the third floor is closed this afternoon, because I wanted to use it for a quick meeting with a supplier? B: The human resources team is holding a birthday {{BLANK}} there for Mr. Chen at three o'clock, so you could book the small meeting room near the elevator instead.",
+    "cn": "A：你知道為什麼三樓的會議室今天下午不開放嗎？因為我想用它和供應商開個簡短的會議。 B：人資團隊三點要在那裡為陳先生舉辦生日【派對】，所以你可以改訂電梯旁邊的小會議室。",
+    "collocation": "throw a surprise party for a coworker 為同事舉辦驚喜派對"
+   },
+   {
+    "word": "cake",
+    "pos": "n.",
+    "en_def": "a sweet baked food, often eaten at birthdays",
+    "cn_def": "蛋糕",
+    "sentence": "A: I'm going to the bakery on Main Street during my lunch break, so is there anything special you would like me to order for Linda's birthday tomorrow? B: Could you please order a chocolate {{BLANK}} large enough for twenty people, and ask them to write her name on top, because the whole office will be celebrating together after the morning meeting?",
+    "cn": "A：我午休時要去大街上的麵包店，明天琳達生日，你有什麼特別想要我訂的嗎？ B：可以請你訂一個夠二十個人吃的巧克力【蛋糕】，並請他們在上面寫她的名字嗎？因為早上開完會後全辦公室要一起慶祝。",
+    "collocation": "cut the birthday cake 切生日蛋糕"
+   },
+   {
+    "word": "candle",
+    "pos": "n.",
+    "en_def": "a stick of wax that gives light when it burns",
+    "cn_def": "蠟燭",
+    "sentence": "A: The hotel manager said we have to follow strict safety rules at the banquet hall, so are we still allowed to have a real fire on the birthday cake tonight? B: Yes, but only one small {{BLANK}} is permitted, and a staff member must stand nearby with a fire extinguisher until the guest of honor blows it out.",
+    "cn": "A：飯店經理說我們在宴會廳必須遵守嚴格的安全規定，那今晚生日蛋糕上還可以點真的火嗎？ B：可以，但只允許一根小【蠟燭】，而且在壽星吹熄之前，必須有一位工作人員拿著滅火器站在旁邊。",
+    "collocation": "blow out the candles on the cake 吹熄蛋糕上的蠟燭"
+   },
+   {
+    "word": "gift",
+    "pos": "n.",
+    "en_def": "something you give to someone without asking for payment",
+    "cn_def": "禮物；贈品",
+    "sentence": "A: Our most important client from Japan is turning sixty next month, so what should our company send him to show our appreciation for his long business relationship with us? B: I think a high-quality tea set would be a thoughtful {{BLANK}}, and we should include a handwritten note from the president thanking him for twenty years of cooperation.",
+    "cn": "A：我們最重要的日本客戶下個月滿六十歲，我們公司應該送他什麼來感謝他與我們長久的業務往來？ B：我覺得一套高品質的茶具會是很貼心的【禮物】，而且我們應該附上一張總裁的親筆短箋，感謝他二十年來的合作。",
+    "collocation": "a corporate gift for loyal customers 給忠實客戶的企業禮品"
+   },
+   {
+    "word": "present",
+    "pos": "n.",
+    "en_def": "something you give to someone on a special day",
+    "cn_def": "禮物",
+    "sentence": "A: Everyone in the accounting department is giving fifty dollars for Peter's birthday this Friday, but have we decided what to buy him with the money yet? B: Sarah suggested a new pair of wireless headphones as a {{BLANK}}, since he often complains about the noise in the office while he is working on the monthly reports.",
+    "cn": "A：會計部的每個人都為彼得這週五的生日出了五十美元，但我們決定好要用這筆錢買什麼給他了嗎？ B：莎拉建議買一副新的無線耳機當作【禮物】，因為他在做每月報表時常常抱怨辦公室很吵。",
+    "collocation": "wrap a birthday present 包裝生日禮物"
+   },
+   {
+    "word": "wish",
+    "pos": "v.",
+    "en_def": "to say that you hope someone will have something good",
+    "cn_def": "祝；祝福",
+    "sentence": "A: I heard that the vice president is leaving for a business trip to London on the same day as his birthday, so how can the team show that we remember it? B: We could all sign a card and give it to him at the airport, so we can {{BLANK}} him a happy birthday and a safe flight before he boards the plane.",
+    "cn": "A：我聽說副總裁生日當天要出發去倫敦出差，那團隊要怎麼表示我們記得他的生日？ B：我們可以大家一起在卡片上簽名，然後在機場交給他，這樣就能在他登機前【祝】他生日快樂、一路平安。",
+    "collocation": "wish someone a happy birthday 祝某人生日快樂"
+   },
+   {
+    "word": "balloon",
+    "pos": "n.",
+    "en_def": "a small colorful rubber bag filled with air or gas",
+    "cn_def": "氣球",
+    "sentence": "A: The children's birthday event at the shopping mall starts at ten o'clock on Saturday morning, so what still needs to be done to get the stage ready? B: We still need to tie a big red {{BLANK}} to every chair in the front row, and then the sound technician has to test the microphones before the families begin to arrive.",
+    "cn": "A：購物中心的兒童生日活動星期六早上十點開始，那要把舞台準備好還有什麼事要做？ B：我們還需要在第一排的每張椅子上綁一顆大紅【氣球】，然後音響技師要在各個家庭開始抵達前測試麥克風。",
+    "collocation": "blow up balloons for the event 為活動吹氣球"
+   },
+   {
+    "word": "card",
+    "pos": "n.",
+    "en_def": "a folded piece of thick paper with a picture and a message",
+    "cn_def": "卡片",
+    "sentence": "A: Ms. Wang from the marketing team is celebrating her fortieth birthday on Monday, but she is working at our branch office in Kaohsiung all week, so what can we do? B: Let's buy a large birthday {{BLANK}}, ask everyone here to write a short message in it, and send it by express mail so it arrives before the weekend.",
+    "cn": "A：行銷部的王小姐星期一要過四十歲生日，但她整週都在我們高雄的分公司工作，那我們能做些什麼？ B：我們去買一張大的生日【卡片】，請這裡的每個人在上面寫一段簡短的話，然後用快遞寄出，這樣週末前就能送到。",
+    "collocation": "sign a birthday card for a colleague 在同事的生日卡上簽名"
+   },
+   {
+    "word": "surprise",
+    "pos": "n.",
+    "en_def": "something that happens that you did not expect",
+    "cn_def": "驚喜；意外",
+    "sentence": "A: Why did the manager ask all of us to hide in the meeting room and turn off the lights at exactly five o'clock this afternoon? B: It's Kevin's birthday today, and she wants it to be a complete {{BLANK}}, so please stay quiet and don't send him any messages until he walks through the door.",
+    "cn": "A：為什麼經理要我們全部的人在今天下午五點整躲進會議室並把燈關掉？ B：今天是凱文的生日，她希望這是一個完全的【驚喜】，所以請保持安靜，而且在他走進門之前不要傳任何訊息給他。",
+    "collocation": "a big surprise for the team 給團隊的大驚喜"
+   },
+   {
+    "word": "invite",
+    "pos": "v.",
+    "en_def": "to ask someone to come to an event",
+    "cn_def": "邀請",
+    "sentence": "A: The restaurant can only hold thirty people for the company's tenth birthday dinner next month, so how are we going to choose who can attend? B: The general manager has decided to {{BLANK}} our top ten clients and their partners first, and then the remaining seats will be offered to employees who have worked here the longest.",
+    "cn": "A：下個月公司十週年的晚宴，餐廳只能容納三十人，那我們要怎麼決定誰可以參加？ B：總經理決定先【邀請】我們前十大客戶及其伴侶，然後剩下的座位會提供給在這裡服務最久的員工。",
+    "collocation": "invite clients to the anniversary dinner 邀請客戶參加週年晚宴"
+   },
+   {
+    "word": "guest",
+    "pos": "n.",
+    "en_def": "a person who is invited to an event or a home",
+    "cn_def": "賓客；客人",
+    "sentence": "A: Have you finished the seating plan for Mr. Lin's birthday banquet at the Grand Hotel, because the event coordinator needs it by tomorrow morning? B: Almost, but one more {{BLANK}} confirmed this afternoon that she is coming from Singapore, so I need to add another chair at the table near the stage.",
+    "cn": "A：你完成林先生在格蘭大飯店生日晚宴的座位安排了嗎？因為活動協調人明天早上就要。 B：快好了，但今天下午又有一位【賓客】確認她會從新加坡過來，所以我需要在靠近舞台的那桌再加一張椅子。",
+    "collocation": "welcome guests at the entrance 在入口迎接賓客"
+   },
+   {
+    "word": "decorate",
+    "pos": "v.",
+    "en_def": "to make a place look nicer by adding pretty things",
+    "cn_def": "裝飾；佈置",
+    "sentence": "A: The office looks really plain for tomorrow's birthday lunch, and the guests from head office will arrive at noon, so what should we do tonight? B: A few of us will stay after work to {{BLANK}} the break room with paper flowers, colorful lights, and a banner, so it will look cheerful when everyone walks in.",
+    "cn": "A：明天的生日午餐，辦公室看起來真的很單調，而且總公司的客人中午就會到，那我們今晚該做什麼？ B：我們幾個人下班後會留下來，用紙花、彩色燈串和一條布條【裝飾】休息室，這樣大家走進來時就會覺得很歡樂。",
+    "collocation": "decorate the room with flowers 用花裝飾房間"
+   },
+   {
+    "word": "decoration",
+    "pos": "n.",
+    "en_def": "a thing used to make a place look attractive",
+    "cn_def": "裝飾；裝飾品",
+    "sentence": "A: The event company sent us a bill for the hotel birthday celebration, but why is the total so much higher than the price we agreed on last month? B: They charged us extra for the {{BLANK}} on every table, including the flowers and gold ribbons, which the client asked for at the last minute without telling our department.",
+    "cn": "A：活動公司寄來了飯店生日慶祝會的帳單，但為什麼總金額比我們上個月談好的價格高出這麼多？ B：他們為每張桌子上的【裝飾】額外收費，包括花和金色緞帶，那是客戶在最後一刻要求的，卻沒有告訴我們部門。",
+    "collocation": "put up decorations for the event 為活動佈置裝飾品"
+   },
+   {
+    "word": "celebration",
+    "pos": "n.",
+    "en_def": "a special event to enjoy an important day or success",
+    "cn_def": "慶祝活動；慶典",
+    "sentence": "A: Our company is turning fifty years old this spring, so is the board planning any special events for the employees and their families? B: Yes, there will be a big {{BLANK}} at the city park on the last Saturday of April, with live music, food stands, and games for children, and every worker can bring three guests.",
+    "cn": "A：我們公司今年春天滿五十週年，董事會有計劃為員工和家屬舉辦什麼特別活動嗎？ B：有，四月最後一個星期六會在市立公園舉辦盛大的【慶祝活動】，有現場音樂、食物攤位和兒童遊戲，每位員工可以帶三位賓客。",
+    "collocation": "a fiftieth anniversary celebration 五十週年慶祝活動"
+   },
+   {
+    "word": "song",
+    "pos": "n.",
+    "en_def": "a short piece of music with words that you sing",
+    "cn_def": "歌；歌曲",
+    "sentence": "A: When the waiters bring out the cake for Mr. Huang's birthday at the end of dinner tonight, what should the rest of us at the table do? B: We'll all stand up and sing the birthday {{BLANK}} together, and then the president will give a short speech to thank him for his hard work this year.",
+    "cn": "A：今晚晚餐結束時，服務生端出黃先生的生日蛋糕，我們桌上其他人該做什麼？ B：我們會全部站起來一起唱生日【歌】，然後總裁會發表簡短的致詞，感謝他今年的辛勞。",
+    "collocation": "sing a birthday song 唱生日歌"
+   },
+   {
+    "word": "age",
+    "pos": "n.",
+    "en_def": "the number of years a person has lived",
+    "cn_def": "年齡",
+    "sentence": "A: The new gym near our office is offering a free birthday membership this month, but can anyone in the company sign up for it? B: No, there is a minimum {{BLANK}} of eighteen, so the summer interns cannot join, but all full-time staff can register at the front desk with their employee cards.",
+    "cn": "A：我們辦公室附近新開的健身房這個月提供免費的生日會員資格，但公司裡的任何人都可以報名嗎？ B：不行，最低【年齡】是十八歲，所以暑期實習生不能加入，但所有全職員工都可以拿員工證到櫃台登記。",
+    "collocation": "at the age of thirty 在三十歲時"
+   },
+   {
+    "word": "special",
+    "pos": "adj.",
+    "en_def": "better or more important than usual",
+    "cn_def": "特別的",
+    "sentence": "A: Our sales director is celebrating his birthday during the trade show in Berlin, so is there anything we can arrange for him after the busy exhibition day? B: I've booked a {{BLANK}} dinner at a famous German restaurant near the hotel, and the chef will prepare a dessert with his name written on the plate.",
+    "cn": "A：我們的業務總監在柏林商展期間過生日，那在忙碌的展覽日結束後，我們有什麼可以為他安排的嗎？ B：我在飯店附近一家有名的德國餐廳訂了一頓【特別的】晚餐，主廚會準備一道在盤子上寫著他名字的甜點。",
+    "collocation": "a special offer for birthday customers 給生日顧客的特別優惠"
+   },
+   {
+    "word": "happy",
+    "pos": "adj.",
+    "en_def": "feeling pleased and glad",
+    "cn_def": "快樂的；高興的",
+    "sentence": "A: How did Ms. Lee react when she saw that the whole department had stayed late to prepare a birthday surprise for her yesterday evening? B: She was so {{BLANK}} that she almost cried, and she told us it was the best birthday she has had since she joined the company five years ago.",
+    "cn": "A：昨天傍晚李小姐看到整個部門留下來為她準備生日驚喜時，她有什麼反應？ B：她【高興】到差點哭出來，還告訴我們這是她五年前進公司以來最棒的一次生日。",
+    "collocation": "keep customers happy 讓顧客滿意"
+   },
+   {
+    "word": "treat",
+    "pos": "n.",
+    "en_def": "something nice that you buy or do for someone",
+    "cn_def": "請客；招待（的東西）",
+    "sentence": "A: Why is there a big box of chocolates and fresh fruit on the reception desk this morning, and who brought it into the office? B: It's Daniel's birthday, so he bought it as a {{BLANK}} for everyone, and he said we can take as much as we like during our coffee break.",
+    "cn": "A：為什麼今天早上接待櫃台上有一大盒巧克力和新鮮水果，是誰帶進辦公室的？ B：今天是丹尼爾的生日，所以他買來當作給大家的【招待點心】，他說我們在喝咖啡休息時間想拿多少都可以。",
+    "collocation": "a birthday treat for the staff 請員工吃的生日點心"
+   },
+   {
+    "word": "family",
+    "pos": "n.",
+    "en_def": "a group of people who are related, such as parents and children",
+    "cn_def": "家人；家庭",
+    "sentence": "A: Are you going to join the team at the karaoke bar after work on Friday to celebrate Tom's promotion and his birthday at the same time? B: I'm sorry, but I can't come, because my whole {{BLANK}} is coming up from Tainan by high-speed train that evening for my grandmother's eightieth birthday dinner, and I promised to pick them up.",
+    "cn": "A：你週五下班後要和團隊一起去KTV同時慶祝湯姆升職和生日嗎？ B：很抱歉我不能去，因為那天晚上我全【家】人要坐高鐵從台南上來參加我奶奶的八十歲生日晚餐，而我答應要去接他們。",
+    "collocation": "spend time with family 與家人共度時光"
+   },
+   {
+    "word": "friend",
+    "pos": "n.",
+    "en_def": "a person you know well and like",
+    "cn_def": "朋友",
+    "sentence": "A: Who is the woman talking with the CEO near the window, because I don't think she works in our building or for any of our partners? B: She is an old {{BLANK}} of his from university, and she flew in from Canada to surprise him at his birthday reception, so they haven't stopped talking all evening.",
+    "cn": "A：在窗邊和執行長說話的那位女士是誰？因為我不覺得她在我們大樓工作，也不像是我們合作夥伴的人。 B：她是他大學時代的老【朋友】，特地從加拿大飛過來在他的生日酒會上給他驚喜，所以他們整晚都聊個不停。",
+    "collocation": "a close friend from work 職場上的好朋友"
+   },
+   {
+    "word": "photo",
+    "pos": "n.",
+    "en_def": "a picture taken with a camera",
+    "cn_def": "照片",
+    "sentence": "A: The marketing department wants to post something on the company website about yesterday's birthday celebration for our founder, so do we have any good pictures? B: Yes, the photographer took a great group {{BLANK}} of all the employees standing in front of the building, and I'll email it to you before lunch.",
+    "cn": "A：行銷部想在公司網站上發布關於昨天創辦人生日慶祝會的內容，那我們有好的照片嗎？ B：有，攝影師拍了一張很棒的全體員工站在大樓前的團體【照】，我會在午餐前用電子郵件寄給你。",
+    "collocation": "take a group photo 拍團體照"
+   },
+   {
+    "word": "memory",
+    "pos": "n.",
+    "en_def": "something from the past that you remember",
+    "cn_def": "回憶；記憶",
+    "sentence": "A: You have worked at this company for over thirty years, so what is your favorite moment from all the events and parties you have attended here? B: My best {{BLANK}} is the surprise birthday dinner my team organized during my first year, when everyone secretly saved money for weeks to buy me a watch.",
+    "cn": "A：你在這家公司工作超過三十年了，在這裡參加過的所有活動和派對中，你最喜歡的時刻是什麼？ B：我最美好的【回憶】是我第一年時團隊為我籌辦的驚喜生日晚餐，那時大家偷偷存了好幾週的錢買了一支手錶給我。",
+    "collocation": "a happy memory of the trip 旅行中的美好回憶"
+   },
+   {
+    "word": "greeting",
+    "pos": "n.",
+    "en_def": "words or actions used to say hello or send good wishes",
+    "cn_def": "問候；祝賀",
+    "sentence": "A: Our online store wants to keep loyal customers coming back, so what new idea did the marketing team suggest at this morning's meeting? B: They plan to send every member a personal birthday {{BLANK}} by email, together with a coupon for fifteen percent off any item purchased during their birthday month.",
+    "cn": "A：我們的網路商店想讓忠實顧客持續回購，那行銷團隊在今天早上的會議中提出了什麼新點子？ B：他們打算透過電子郵件寄給每位會員一封個人化的生日【祝福】，並附上一張在生日當月購買任何商品都可享八五折的優惠券。",
+    "collocation": "send holiday greetings to clients 寄節日問候給客戶"
+   },
+   {
+    "word": "fun",
+    "pos": "adj.",
+    "en_def": "enjoyable and pleasant",
+    "cn_def": "好玩的；有趣的",
+    "sentence": "A: How was the team-building trip to the beach that the company organized for the manager's fiftieth birthday last weekend? B: It was really {{BLANK}}, because we played volleyball, had a barbecue by the sea, and sang songs around a campfire, and even the quiet engineers from the research department joined in.",
+    "cn": "A：上週末公司為經理五十歲生日舉辦的海灘團隊建立旅行怎麼樣？ B：真的很【好玩】，因為我們打了排球、在海邊烤肉，還圍著營火唱歌，連研發部那些安靜的工程師也都加入了。",
+    "collocation": "a fun day out with coworkers 與同事一起度過的有趣出遊日"
+   },
+   {
+    "word": "party hat",
+    "pos": "n.phr.",
+    "en_def": "a colorful paper hat worn at a party",
+    "cn_def": "派對帽",
+    "sentence": "A: The photographer for the children's birthday event at the toy store wants a cute picture for the advertisement, so what should each kid wear? B: Please give every child a colorful paper {{BLANK}} and a small flag with our store logo, and ask them to stand together in front of the big window display.",
+    "cn": "A：玩具店兒童生日活動的攝影師想要一張可愛的照片用在廣告上，那每個小孩應該戴什麼？ B：請給每個小孩一頂彩色紙製【派對帽】和一面印有我們商店標誌的小旗子，並請他們一起站在大型櫥窗展示前面。",
+    "collocation": "wear a party hat at the celebration 在慶祝會上戴派對帽"
+   },
+   {
+    "word": "celebratory",
+    "pos": "adj.",
+    "en_def": "done to celebrate a happy event",
+    "cn_def": "慶祝的",
+    "sentence": "A: The CEO just announced that we won the government contract, and it's also her birthday today, so what has the office manager arranged for this evening? B: She has ordered a {{BLANK}} dinner with champagne at the rooftop restaurant, and everyone in the project team is invited to join after work.",
+    "cn": "A：執行長剛宣布我們拿到了政府合約，而今天剛好也是她的生日，那辦公室經理為今晚安排了什麼？ B：她在頂樓餐廳訂了一頓有香檳的【慶祝】晚餐，專案團隊的每個人下班後都受邀參加。",
+    "collocation": "a celebratory toast to the winners 為得獎者舉杯慶祝"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The hotel offers a free dessert to guests on their birthday. Many couples choose to _____ the occasion in our rooftop restaurant.",
+    "options": [
+     "invite",
+     "wish",
+     "celebrate",
+     "decorate"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Our team is planning a small _____ for Ms. Kao's retirement next Friday. Everyone is asked to bring one dish to share.",
+    "options": [
+     "age",
+     "party",
+     "song",
+     "candle"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The bakery near our office makes excellent desserts. We ordered a strawberry _____ with cream for the director's birthday.",
+    "options": [
+     "memory",
+     "card",
+     "guest",
+     "cake"
+    ],
+    "answer": 3,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Please be careful when lighting the birthday cake in the meeting room. One _____ fell over and almost burned the tablecloth.",
+    "options": [
+     "candle",
+     "greeting",
+     "family",
+     "age"
+    ],
+    "answer": 0,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Every new customer will receive a free _____ when they open an account this month. It includes a pen and a notebook.",
+    "options": [
+     "memory",
+     "age",
+     "gift",
+     "family"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The staff collected money to buy a birthday _____ for their manager. They chose an expensive leather wallet from a famous brand.",
+    "options": [
+     "present",
+     "greeting",
+     "age",
+     "balloon"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Before the meeting began, the president stood up to speak to the team. He wanted to _____ Mr. Lin a happy sixtieth birthday.",
+    "options": [
+     "decorate",
+     "wish",
+     "celebrate",
+     "invite"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The store manager tied a large _____ to the entrance for the grand opening. Children loved its bright colors and asked to take one home.",
+    "options": [
+     "age",
+     "memory",
+     "greeting",
+     "balloon"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The whole department signed a birthday _____ for Susan before she arrived. It was placed on her desk with a box of chocolates.",
+    "options": [
+     "friend",
+     "card",
+     "age",
+     "song"
+    ],
+    "answer": 1,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Nobody told Mark about the dinner his coworkers had planned. It was a complete _____ when he walked into the restaurant.",
+    "options": [
+     "photo",
+     "decoration",
+     "candle",
+     "surprise"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The company will hold its annual dinner at the Grand Hotel in December. We would like to _____ all of our business partners to attend.",
+    "options": [
+     "invite",
+     "wish",
+     "celebrate",
+     "decorate"
+    ],
+    "answer": 0,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Each _____ at the banquet received a name card and a small box of cookies. The hotel staff also showed them to their tables.",
+    "options": [
+     "cake",
+     "memory",
+     "guest",
+     "balloon"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The volunteers arrived early on Saturday morning. They used ribbons and flowers to _____ the hall before the ceremony started.",
+    "options": [
+     "invite",
+     "celebrate",
+     "wish",
+     "decorate"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The hotel charges extra for flowers and table _____ at private events. Please check the price list before you confirm your booking.",
+    "options": [
+     "memory",
+     "age",
+     "decoration",
+     "family"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The factory held a big _____ after it produced its one millionth car. Workers enjoyed free food, music, and a short fireworks show.",
+    "options": [
+     "greeting",
+     "celebration",
+     "candle",
+     "card"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The band will play a special _____ for the couple at the anniversary dinner. Guests are welcome to sing along with the music.",
+    "options": [
+     "song",
+     "photo",
+     "cake",
+     "age"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Applicants for the driver position must be at least twenty-one years old. Please write your _____ and address clearly on the form.",
+    "options": [
+     "candle",
+     "song",
+     "gift",
+     "age"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Please take _____ care when you carry the glass cake stand. It is very expensive and breaks easily.",
+    "options": [
+     "celebratory",
+     "special",
+     "happy",
+     "fun"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The customer service team works hard to keep our clients _____. They answer every complaint within twenty-four hours.",
+    "options": [
+     "celebratory",
+     "fun",
+     "happy",
+     "special"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "To thank the staff for working overtime, the manager bought pizza for everyone. It was a nice _____ after a long and busy week.",
+    "options": [
+     "treat",
+     "guest",
+     "age",
+     "card"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The company picnic is open to all employees and their _____ members. Children under ten can join the games for free.",
+    "options": [
+     "guest",
+     "song",
+     "family",
+     "gift"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Mr. Wu met his business partner through a _____ from college. They have now worked together on several projects in Asia.",
+    "options": [
+     "friend",
+     "cake",
+     "candle",
+     "age"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Please upload a recent _____ of yourself to the company website. It will appear next to your name in the staff directory.",
+    "options": [
+     "treat",
+     "celebration",
+     "song",
+     "photo"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Visiting the factory in Germany was a wonderful _____ for the new interns. Many of them still talk about the trip today.",
+    "options": [
+     "candle",
+     "memory",
+     "card",
+     "age"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The receptionist always gives visitors a warm _____ when they enter the lobby. She also offers them a cup of tea while they wait.",
+    "options": [
+     "cake",
+     "age",
+     "balloon",
+     "greeting"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The new puzzle game was _____ to play, so the staff enjoyed it during lunch. The company later bought ten more copies.",
+    "options": [
+     "celebratory",
+     "fun",
+     "happy",
+     "special"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "At the children's event, each kid wore a paper _____ on their head. The staff also handed out balloons and small toys.",
+    "options": [
+     "age",
+     "greeting",
+     "party hat",
+     "memory"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The team raised their glasses for a _____ toast after winning the big contract. Everyone cheered loudly for the sales manager.",
+    "options": [
+     "celebratory",
+     "special",
+     "happy",
+     "fun"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The two companies signed the contract last night after months of talks. They will _____ the agreement with a dinner for both teams.",
+    "options": [
+     "invite",
+     "decorate",
+     "wish",
+     "celebrate"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The airline gave each passenger a small _____ to apologize for the long delay. It included a coupon for a free meal.",
+    "options": [
+     "age",
+     "gift",
+     "family",
+     "song"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   }
+  ]
+ },
+ "31": {
+  "theme": "Book 書籍",
+  "source": "https://www.examword.com/group-topic/book",
+  "VOCAB": [
+   {
+    "word": "author",
+    "pos": "n.",
+    "en_def": "a person who writes a book",
+    "cn_def": "作者；作家",
+    "sentence": "A: Who is going to speak at the bookstore event next Friday evening, and do we need to prepare extra chairs for the guests? B: The {{BLANK}} of the new business guide will talk about her career, so please set up about fifty chairs and ask the café staff to serve coffee after her speech.",
+    "cn": "A：下週五晚上誰要在書店活動上演講？我們需要為來賓準備額外的椅子嗎？ B：那本新商業指南的【作者】會談談她的職涯，所以請擺大約五十張椅子，並請咖啡廳員工在她演講後供應咖啡。",
+    "collocation": "a best-selling author 暢銷作家"
+   },
+   {
+    "word": "title",
+    "pos": "n.",
+    "en_def": "the name of a book or other piece of writing",
+    "cn_def": "書名；標題",
+    "sentence": "A: Have you decided what to call the new guide for small business owners, or is the marketing team still arguing about it? B: We finally agreed on a short and simple {{BLANK}}, so the designer can start working on the front of the book, and we can send it to the printer next week.",
+    "cn": "A：你們決定好那本給小企業主的新指南要叫什麼名字了嗎？還是行銷團隊還在爭論？ B：我們終於同意採用一個簡短的【書名】，所以設計師可以開始設計書的封面，我們下週就能把它送去印刷廠。",
+    "collocation": "the title of the report 報告的標題"
+   },
+   {
+    "word": "chapter",
+    "pos": "n.",
+    "en_def": "one of the main parts of a book",
+    "cn_def": "章；章節",
+    "sentence": "A: How much of the training manual have you finished translating, because the Tokyo office needs it before the workshop starts? B: I have completed the first {{BLANK}} about customer service, and I will finish the part on handling complaints by Thursday if nobody gives me extra work this week.",
+    "cn": "A：那本訓練手冊你翻譯完多少了？因為東京辦公室在研習開始前就需要它。 B：我已經完成了關於客戶服務的第一【章】，如果這週沒有人給我額外工作，我會在星期四前完成處理客訴的部分。",
+    "collocation": "the final chapter of the book 書的最後一章"
+   },
+   {
+    "word": "page",
+    "pos": "n.",
+    "en_def": "one side of a sheet of paper in a book",
+    "cn_def": "頁；頁面",
+    "sentence": "A: Why did the printer call us this morning, and is there a problem with the catalog we sent them yesterday? B: Yes, one {{BLANK}} near the end is missing the product prices, so they have stopped printing until we send them a corrected file before noon today.",
+    "cn": "A：印刷廠今天早上為什麼打電話給我們？我們昨天寄給他們的型錄有問題嗎？ B：是的，接近最後的一【頁】少了產品價格，所以他們暫停印刷，直到我們今天中午前寄給他們修正過的檔案。",
+    "collocation": "turn to page 25 翻到第25頁"
+   },
+   {
+    "word": "cover",
+    "pos": "n.",
+    "en_def": "the outside front and back of a book",
+    "cn_def": "封面；書皮",
+    "sentence": "A: What do customers usually notice first when they walk past the new books table at the front of our store? B: Most people look at the {{BLANK}}, so we chose bright colors and a large photo of the city to make the travel guide stand out from the others.",
+    "cn": "A：顧客走過我們店門口的新書桌時，通常最先注意到什麼？ B：大多數人會看【封面】，所以我們選了鮮豔的顏色和一張大幅城市照片，讓這本旅遊指南在其他書中脫穎而出。",
+    "collocation": "design the book cover 設計書的封面"
+   },
+   {
+    "word": "genre",
+    "pos": "n.",
+    "en_def": "a type of book, film, or music",
+    "cn_def": "類型；體裁",
+    "sentence": "A: Which kind of books should we put on the main display this month, since sales have been slow since the holidays? B: Mystery is the most popular {{BLANK}} with our customers right now, so let's choose ten crime stories and add a small sign that offers a twenty percent discount.",
+    "cn": "A：既然假期後銷售一直很慢，我們這個月應該在主要展示區放哪一類書？ B：推理是目前我們顧客最喜歡的【類型】，所以我們選十本犯罪小說，再加一個提供八折優惠的小標示。",
+    "collocation": "a popular genre among young readers 年輕讀者喜愛的類型"
+   },
+   {
+    "word": "novel",
+    "pos": "n.",
+    "en_def": "a long story about imaginary people and events",
+    "cn_def": "小說",
+    "sentence": "A: What is the new book by the famous journalist about, and should we order more copies for the store before the weekend? B: It is her first {{BLANK}}, a long story about a family running a small hotel, and early reviews are so good that we should order at least two hundred copies.",
+    "cn": "A：那位知名記者的新書是關於什麼的？我們週末前應該為店裡多訂一些嗎？ B：這是她的第一本【小說】，一個關於一家人經營小旅館的長篇故事，早期書評非常好，我們應該至少訂兩百本。",
+    "collocation": "publish a novel 出版小說"
+   },
+   {
+    "word": "fiction",
+    "pos": "n.",
+    "en_def": "stories about imaginary people and events",
+    "cn_def": "小說；虛構作品",
+    "sentence": "A: Why are you moving all those books to the second floor, and where will customers find the travel guides now? B: The manager wants all the {{BLANK}} together upstairs, so stories about imaginary people will be on the second floor, while travel guides and cookbooks will stay near the entrance.",
+    "cn": "A：你為什麼要把那些書都搬到二樓？顧客現在要去哪裡找旅遊指南？ B：經理希望把所有【小說類書籍】集中放在樓上，所以關於虛構人物的故事會放在二樓，而旅遊指南和食譜會留在入口附近。",
+    "collocation": "a work of fiction 一部虛構作品"
+   },
+   {
+    "word": "nonfiction",
+    "pos": "n.",
+    "en_def": "writing about real facts, people, and events",
+    "cn_def": "非小說類作品；紀實文學",
+    "sentence": "A: What kind of books do the employees in our company book club prefer, and should we choose a mystery for next month? B: Most members prefer {{BLANK}}, such as true stories about successful business leaders, so I suggest choosing a biography instead of a mystery for our next meeting.",
+    "cn": "A：我們公司讀書會的員工喜歡哪一類書？下個月我們應該選一本推理小說嗎？ B：大多數成員比較喜歡【非小說類書籍】，例如成功企業領袖的真實故事，所以我建議下次聚會選一本傳記而不是推理小說。",
+    "collocation": "a nonfiction bestseller 非小說類暢銷書"
+   },
+   {
+    "word": "plot",
+    "pos": "n.",
+    "en_def": "the series of events in a story",
+    "cn_def": "情節；故事梗概",
+    "sentence": "A: Did you enjoy the mystery novel that the book club chose for this month, or did you stop halfway through it? B: I finished it in two days because the {{BLANK}} was full of surprises, and I never guessed who stole the money from the bank until the last chapter.",
+    "cn": "A：你喜歡讀書會這個月選的那本推理小說嗎？還是讀到一半就放棄了？ B：我兩天就讀完了，因為【情節】充滿驚喜，直到最後一章我都沒猜到是誰偷了銀行的錢。",
+    "collocation": "a simple plot 簡單的情節"
+   },
+   {
+    "word": "character",
+    "pos": "n.",
+    "en_def": "a person in a story, film, or play",
+    "cn_def": "角色；人物",
+    "sentence": "A: What did the readers at the library discussion say about the new novel, and did they like the ending? B: Most of them loved the main {{BLANK}}, a hard-working young nurse who opens her own clinic, but several people thought the ending was too sad and too sudden.",
+    "cn": "A：圖書館討論會的讀者對那本新小說有什麼看法？他們喜歡結局嗎？ B：他們大多數人都很喜歡主要【角色】，一位開設自己診所的勤奮年輕護士，但有幾個人覺得結局太悲傷也太突然。",
+    "collocation": "the main character in the story 故事中的主角"
+   },
+   {
+    "word": "setting",
+    "pos": "n.",
+    "en_def": "the place and time in which a story happens",
+    "cn_def": "背景；場景",
+    "sentence": "A: Why does the publisher want the writer to make changes to the story before it is printed next spring? B: They think the {{BLANK}} should be modern Taipei instead of a small village in the past, because young readers will connect more easily with a busy city they know.",
+    "cn": "A：出版社為什麼要作者在明年春天印刷前修改故事？ B：他們認為故事【背景】應該是現代的台北，而不是過去的小村莊，因為年輕讀者會更容易對他們熟悉的繁忙城市產生共鳴。",
+    "collocation": "a historical setting 歷史背景"
+   },
+   {
+    "word": "theme",
+    "pos": "n.",
+    "en_def": "the main subject or idea in a piece of writing",
+    "cn_def": "主題",
+    "sentence": "A: What is the main idea of the business novel we are discussing at lunch, since I only finished half of it? B: The central {{BLANK}} is teamwork, because the story shows how a small group of workers saves their failing company by listening to each other and sharing ideas.",
+    "cn": "A：我們午餐時要討論的那本商業小說主要想法是什麼？我只讀完了一半。 B：核心【主題】是團隊合作，因為故事描述一小群員工如何透過互相傾聽和分享想法，拯救了他們快倒閉的公司。",
+    "collocation": "the main theme of the book 書的主要主題"
+   },
+   {
+    "word": "narrative",
+    "pos": "n.",
+    "en_def": "a story or a description of events",
+    "cn_def": "敘述；故事",
+    "sentence": "A: Why did the editor ask you to rewrite the company history book, when you already spent six months on it? B: She said the {{BLANK}} jumped between different years too often, so readers got confused, and she wants the story told in order from the founding of the company.",
+    "cn": "A：既然你已經花了六個月寫那本公司歷史書，編輯為什麼還要你重寫？ B：她說【敘述】太常在不同年份之間跳來跳去，讓讀者感到混亂，她希望故事從公司創立開始依序講述。",
+    "collocation": "a clear narrative 清楚的敘述"
+   },
+   {
+    "word": "dialogue",
+    "pos": "n.",
+    "en_def": "a conversation between people in a book, play, or film",
+    "cn_def": "對話",
+    "sentence": "A: What do you think of the new English textbook for our staff training, and is it useful for beginners? B: I like it because each lesson has a short {{BLANK}} between a hotel clerk and a guest, so the trainees can practice speaking in pairs before they talk to real customers.",
+    "cn": "A：你覺得我們員工訓練用的新英文課本怎麼樣？對初學者有用嗎？ B：我喜歡它，因為每一課都有一段飯店櫃台人員和客人之間的簡短【對話】，所以受訓者可以在和真正的顧客交談前兩人一組練習口說。",
+    "collocation": "write natural dialogue 撰寫自然的對話"
+   },
+   {
+    "word": "description",
+    "pos": "n.",
+    "en_def": "words that tell what something is like",
+    "cn_def": "描述；說明",
+    "sentence": "A: Has the online bookstore added the new cookbook to its website yet, because several customers have asked when they can order it? B: Not yet, they are still waiting for a short {{BLANK}} of the book, so I need to send them a paragraph about the recipes and the chef by tomorrow morning.",
+    "cn": "A：網路書店把新食譜書放上網站了嗎？因為有好幾位顧客問什麼時候可以訂購。 B：還沒有，他們還在等這本書的簡短【介紹】，所以我需要在明天早上前寄給他們一段關於食譜和主廚的文字。",
+    "collocation": "a product description 產品說明"
+   },
+   {
+    "word": "edition",
+    "pos": "n.",
+    "en_def": "one version of a book printed at a particular time",
+    "cn_def": "版本；版次",
+    "sentence": "A: Why are some customers returning the accounting textbook they bought from us last month, and is something wrong with it? B: The publisher released a new {{BLANK}} with updated tax rules last week, so the professors told their students to buy the latest version instead of the old one.",
+    "cn": "A：為什麼有些顧客要退回上個月向我們買的會計課本？書有什麼問題嗎？ B：出版社上週發行了更新稅法的新【版本】，所以教授們要學生改買最新版而不是舊版。",
+    "collocation": "the second edition 第二版"
+   },
+   {
+    "word": "publisher",
+    "pos": "n.",
+    "en_def": "a company that prepares and sells books",
+    "cn_def": "出版社；出版商",
+    "sentence": "A: Have you heard back from anyone about the business guide you wrote last year, or are you still waiting for an answer? B: Yes, a large {{BLANK}} in Taipei called me yesterday and offered to print five thousand copies, so I am meeting their editor next Tuesday to sign the contract.",
+    "cn": "A：你去年寫的那本商業指南有收到任何回音嗎？還是你還在等回覆？ B：有，台北一家大型【出版社】昨天打電話給我，提議印五千本，所以我下週二要和他們的編輯見面簽約。",
+    "collocation": "a leading publisher 一流的出版社"
+   },
+   {
+    "word": "hardcover",
+    "pos": "n.",
+    "en_def": "a book with a stiff, strong cover",
+    "cn_def": "精裝本",
+    "sentence": "A: Should we order the cheaper version of the art book for the store, or will customers pay more for a better one? B: For art books, many customers prefer the {{BLANK}} because it is strong and looks beautiful on a shelf, so let's order mostly that version even though it costs more.",
+    "cn": "A：我們店裡應該訂那本藝術書比較便宜的版本，還是顧客會願意多付錢買比較好的？ B：對藝術書來說，很多顧客偏好【精裝本】，因為它很堅固，放在書架上也很好看，所以即使比較貴，我們還是大多訂那個版本吧。",
+    "collocation": "a hardcover edition 精裝版"
+   },
+   {
+    "word": "paperback",
+    "pos": "n.",
+    "en_def": "a book with a soft paper cover",
+    "cn_def": "平裝本",
+    "sentence": "A: Which version of the novel should I take on my business trip to Singapore, since my suitcase is already quite heavy? B: You should take the {{BLANK}}, because it is light and small enough to fit in your jacket pocket, and it costs only half the price of the other one.",
+    "cn": "A：我去新加坡出差應該帶哪個版本的小說？我的行李箱已經很重了。 B：你應該帶【平裝本】，因為它又輕又小，可以放進外套口袋，而且價格只有另一種的一半。",
+    "collocation": "a paperback copy 平裝本"
+   },
+   {
+    "word": "illustration",
+    "pos": "n.",
+    "en_def": "a picture in a book",
+    "cn_def": "插圖；圖解",
+    "sentence": "A: Why is the children's book about saving energy taking so long to finish, when the writer sent us the story in May? B: The artist is still drawing the last {{BLANK}} for the final page, and she wants every picture to be bright and clear so young readers can understand the ideas.",
+    "cn": "A：既然作者五月就把故事寄給我們了，那本關於節約能源的童書為什麼要花這麼久才完成？ B：畫家還在畫最後一頁的最後一張【插圖】，她希望每張圖都鮮明清楚，讓年輕讀者能理解其中的概念。",
+    "collocation": "a full-color illustration 全彩插圖"
+   },
+   {
+    "word": "read",
+    "forms": "read – read – read",
+    "pos": "v.",
+    "en_def": "to look at words and understand them",
+    "cn_def": "閱讀；讀",
+    "sentence": "A: Have you had time to look at the new safety manual before the training session with the factory workers this afternoon? B: Yes, I managed to {{BLANK}} the whole thing on the train this morning, and I wrote down three questions about the fire exits that I want to ask the manager.",
+    "cn": "A：今天下午和工廠員工的訓練課程之前，你有時間看新的安全手冊嗎？ B：有，我今天早上在火車上把整本【讀】完了，還寫下了三個關於逃生出口的問題要問經理。",
+    "collocation": "read the instructions carefully 仔細閱讀說明"
+   },
+   {
+    "word": "review",
+    "pos": "n.",
+    "en_def": "a written report that gives an opinion about a book, film, etc.",
+    "cn_def": "評論；書評",
+    "sentence": "A: How did the newspaper describe our company's new travel guide, and will it help us sell more copies this month? B: The {{BLANK}} in Sunday's newspaper said it was clear, useful, and full of great photos, so I expect sales to rise quickly over the next few weeks.",
+    "cn": "A：報紙怎麼描述我們公司的新旅遊指南？這會幫助我們這個月多賣一些嗎？ B：週日報紙上的【書評】說它內容清楚、實用，而且有很多很棒的照片，所以我預期接下來幾週銷售會快速上升。",
+    "collocation": "a positive review 正面評價"
+   },
+   {
+    "word": "bookmark",
+    "pos": "n.",
+    "en_def": "a thin strip put in a book to mark a page",
+    "cn_def": "書籤",
+    "sentence": "A: Are we giving customers anything free with their purchases during the book fair this weekend, like we did last year? B: Yes, every customer will get a paper {{BLANK}} with our store's logo and website on it, so they can keep their place in a book and remember to shop with us again.",
+    "cn": "A：這週末書展期間，我們會像去年一樣隨購買贈送顧客任何東西嗎？ B：會，每位顧客都會拿到一張印有我們店標誌和網址的紙製【書籤】，這樣他們可以標記閱讀的位置，也會記得再來我們店購物。",
+    "collocation": "use a bookmark to keep your place 用書籤標記閱讀位置"
+   },
+   {
+    "word": "library",
+    "pos": "n.",
+    "en_def": "a place where books are kept for people to read or borrow",
+    "cn_def": "圖書館；圖書室",
+    "sentence": "A: Where can I find old reports about the market in Southeast Asia, since I need them for my presentation on Monday? B: The company {{BLANK}} on the third floor keeps copies of all reports from the past ten years, and you can borrow them for two weeks if you show your staff card.",
+    "cn": "A：我可以在哪裡找到東南亞市場的舊報告？我星期一的簡報需要用到。 B：三樓的公司【圖書室】保存了過去十年所有報告的副本，只要出示員工證，你就可以借兩個星期。",
+    "collocation": "borrow books from the library 從圖書館借書"
+   },
+   {
+    "word": "literature",
+    "pos": "n.",
+    "en_def": "books, poems, and plays that are thought to be important art",
+    "cn_def": "文學",
+    "sentence": "A: Why did the bookstore hire a new staff member for the second floor, and what will she be responsible for? B: She studied English {{BLANK}} at university and knows a lot about famous poems and plays, so she will help customers choose good books and organize our monthly reading events.",
+    "cn": "A：書店為什麼為二樓僱用了一位新員工？她會負責什麼？ B：她大學念英國【文學】，對著名的詩和劇本很了解，所以她會幫顧客挑選好書，並籌辦我們每月的讀書活動。",
+    "collocation": "English literature 英國文學"
+   },
+   {
+    "word": "classic",
+    "pos": "n.",
+    "en_def": "a famous book that people have admired for a long time",
+    "cn_def": "經典作品；名著",
+    "sentence": "A: Which books should we include in the gift box for our loyal customers this holiday season, since we want something that lasts? B: Let's include a famous {{BLANK}} that people have loved for over a hundred years, along with a new bestseller, so the box appeals to both older and younger readers.",
+    "cn": "A：這個假期我們要在送給忠實顧客的禮盒裡放哪些書？我們想要有長久價值的東西。 B：我們放一本人們喜愛了一百多年的著名【經典作品】，再加一本新的暢銷書，讓禮盒同時吸引年長和年輕的讀者。",
+    "collocation": "a literary classic 文學經典"
+   },
+   {
+    "word": "bestseller",
+    "pos": "n.",
+    "en_def": "a book that sells a very large number of copies",
+    "cn_def": "暢銷書",
+    "sentence": "A: Why did the publishing company decide to print another twenty thousand copies of the cookbook this month? B: It became a {{BLANK}} just two weeks after it came out, because a famous TV chef recommended it on her show, and many bookstores have already sold all their copies.",
+    "cn": "A：出版公司為什麼決定這個月再加印兩萬本那本食譜書？ B：它出版短短兩週就成為【暢銷書】，因為一位知名電視主廚在節目中推薦了它，許多書店都已經賣光了。",
+    "collocation": "an international bestseller 國際暢銷書"
+   },
+   {
+    "word": "inspiring",
+    "pos": "adj.",
+    "en_def": "making people feel excited and want to do something",
+    "cn_def": "激勵人心的；鼓舞人的",
+    "sentence": "A: Why are so many employees talking about the speaker at yesterday's training event, and what did she talk about? B: Her speech was very {{BLANK}}, because she described how she started her bookstore with almost no money, and now many of us feel ready to try new ideas at work.",
+    "cn": "A：為什麼這麼多員工在談論昨天訓練活動的講者？她講了什麼？ B：她的演講非常【激勵人心】，因為她描述了自己如何在幾乎沒有錢的情況下開了書店，現在我們很多人都覺得準備好在工作上嘗試新點子了。",
+    "collocation": "an inspiring story 激勵人心的故事"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The bookstore invited a local _____ to sign copies of her new novel. Customers waited in line for over an hour to meet her.",
+    "options": [
+     "bookmark",
+     "edition",
+     "author",
+     "genre"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The marketing team suggested changing the _____ of the guide. They believed a shorter name would be easier for customers to remember.",
+    "options": [
+     "library",
+     "plot",
+     "illustration",
+     "title"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The training manual is divided into ten parts. Each _____ ends with a short quiz to check what employees have learned.",
+    "options": [
+     "cover",
+     "chapter",
+     "publisher",
+     "dialogue"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Please check the catalog carefully before printing. The phone number on the last _____ is missing one digit.",
+    "options": [
+     "page",
+     "theme",
+     "review",
+     "novel"
+    ],
+    "answer": 0,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The designer chose a bright red _____ for the new travel guide. She hopes it will catch shoppers' eyes in the store window.",
+    "options": [
+     "literature",
+     "character",
+     "setting",
+     "cover"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Mystery is the fastest-growing _____ at our bookstore this year. We plan to add two more shelves for these titles next month.",
+    "options": [
+     "genre",
+     "edition",
+     "paperback",
+     "narrative"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The famous journalist has written her first _____. The long story follows a family that runs a small hotel by the sea.",
+    "options": [
+     "bookmark",
+     "description",
+     "novel",
+     "publisher"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Customers looking for stories about imaginary people should go to the second floor. All _____ is arranged there by the author's last name.",
+    "options": [
+     "page",
+     "fiction",
+     "chapter",
+     "bookmark"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Our book club usually reads true stories about real business leaders. Members say _____ helps them learn useful lessons for their careers.",
+    "options": [
+     "title",
+     "illustration",
+     "hardcover",
+     "nonfiction"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The reviewer praised the novel's exciting _____. She said the events moved quickly and surprised her until the very end.",
+    "options": [
+     "library",
+     "plot",
+     "cover",
+     "edition"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Readers loved the main _____ in the story. She is a young nurse who works hard to open her own clinic.",
+    "options": [
+     "character",
+     "bookmark",
+     "publisher",
+     "genre"
+    ],
+    "answer": 0,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The story takes place in a busy hotel in Tokyo. The writer chose this _____ because she worked there for five years.",
+    "options": [
+     "title",
+     "paperback",
+     "setting",
+     "literature"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Teamwork is the main _____ of the business novel. Every chapter shows how workers solve problems by sharing their ideas.",
+    "options": [
+     "theme",
+     "edition",
+     "cover",
+     "page"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The editor asked the writer to tell the events in the order they happened. She felt the _____ was too confusing for most readers.",
+    "options": [
+     "bookmark",
+     "narrative",
+     "library",
+     "hardcover"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Our manager shared a very _____ story about a woman who built a successful bakery. It encouraged the whole team to work harder.",
+    "options": [
+     "nonfiction",
+     "paperback",
+     "inspiring",
+     "hardcover"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Each lesson in the English textbook includes a short _____ between a hotel clerk and a guest. Trainees practice it in pairs.",
+    "options": [
+     "bestseller",
+     "setting",
+     "publisher",
+     "dialogue"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The online store needs a short _____ of each product. Please write a few sentences explaining what the book is about.",
+    "options": [
+     "description",
+     "plot",
+     "classic",
+     "novel"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The publisher released an updated _____ of the accounting textbook. It includes the new tax rules that began in January.",
+    "options": [
+     "title",
+     "edition",
+     "character",
+     "author"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The writer finally found a _____ for her business guide. The company agreed to print five thousand copies next spring.",
+    "options": [
+     "setting",
+     "illustration",
+     "genre",
+     "publisher"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Many art lovers prefer to buy the _____ of this photo book. It is stronger and lasts much longer than the cheaper version.",
+    "options": [
+     "theme",
+     "dialogue",
+     "hardcover",
+     "review"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "If you travel often, the _____ is a good choice. It is light, small, and costs about half the price of the other version.",
+    "options": [
+     "chapter",
+     "paperback",
+     "literature",
+     "narrative"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The children's book has a colorful _____ on every page. The pictures help young readers understand the story more easily.",
+    "options": [
+     "publisher",
+     "bestseller",
+     "nonfiction",
+     "illustration"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Please _____ the safety instructions aloud to the new workers before their shift. Everyone must hear the rules at least once.",
+    "options": [
+     "review",
+     "bookmark",
+     "read",
+     "cover"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The newspaper published a positive _____ of our travel guide on Sunday. Sales went up by thirty percent the following week.",
+    "options": [
+     "review",
+     "setting",
+     "bookmark",
+     "genre"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Every customer at the book fair received a free paper _____. It helps readers keep their place without folding the pages.",
+    "options": [
+     "plot",
+     "edition",
+     "theme",
+     "bookmark"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Employees can borrow market reports from the company _____ on the third floor. Each report may be kept for two weeks.",
+    "options": [
+     "library",
+     "cover",
+     "narrative",
+     "character"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The new staff member studied English _____ at university. She knows a lot about famous poems, plays, and old novels.",
+    "options": [
+     "page",
+     "illustration",
+     "literature",
+     "dialogue"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "This novel was written over a hundred years ago. It is still a _____ that many teachers ask their students to read.",
+    "options": [
+     "publisher",
+     "classic",
+     "title",
+     "paperback"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The cookbook became a _____ only two weeks after it came out. The publisher quickly printed twenty thousand more copies.",
+    "options": [
+     "chapter",
+     "setting",
+     "bestseller",
+     "description"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The speaker's story about starting her own company was truly _____. Many employees said they felt ready to try new ideas.",
+    "options": [
+     "inspiring",
+     "paperback",
+     "hardcover",
+     "nonfiction"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   }
+  ]
  }
 }
