@@ -2490,7 +2490,12 @@ window.VOCAB_ZONES = {
    38,
    39,
    40,
-   41
+   41,
+   42,
+   43,
+   44,
+   45,
+   46
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2533,7 +2538,12 @@ window.VOCAB_ZONES = {
    "38": "Business 商業",
    "39": "Busy 忙碌",
    "40": "Buy 購買",
-   "41": "Cafe 咖啡館"
+   "41": "Cafe 咖啡館",
+   "42": "Cake 蛋糕",
+   "43": "Cancellation 取消",
+   "44": "Car 汽車",
+   "45": "Career 職涯",
+   "46": "Celebration 慶祝"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }

@@ -25310,5 +25310,2992 @@
     "vocabIndex": 7
    }
   ]
+ },
+ "42": {
+  "theme": "Cake 蛋糕",
+  "source": "https://www.examword.com/group-topic/cake",
+  "VOCAB": [
+   {
+    "word": "slice",
+    "pos": "n.",
+    "en_def": "a thin flat piece cut from something like cake or bread",
+    "cn_def": "一片；一塊",
+    "sentence": "A: The client meeting starts at three, and Mr. Lee asked for some light refreshments, so how much of the lemon cake should I bring to the conference room? B: Please cut it so that each of the twelve visitors can have one small {{BLANK}}, and put the rest in the staff kitchen for our team to enjoy later.",
+    "cn": "A：客戶會議三點開始，李先生要求準備一些簡單的茶點，所以我該帶多少檸檬蛋糕到會議室？ B：請把它切好，讓十二位訪客每人都能拿到一小【片】，剩下的放到員工廚房，讓我們團隊晚點享用。",
+    "collocation": "a slice of cake 一片蛋糕"
+   },
+   {
+    "word": "bake",
+    "pos": "v.",
+    "en_def": "to cook food such as bread or cake in an oven",
+    "cn_def": "烘烤",
+    "sentence": "A: Our café has received an order for fifty cupcakes for a company party on Saturday morning, so do you think we can finish them in time? B: If we start early on Friday afternoon and {{BLANK}} them in two batches, they will be ready, cooled, and packed before the delivery driver arrives.",
+    "cn": "A：我們咖啡館接到一筆訂單，要為週六早上的公司派對準備五十個杯子蛋糕，你覺得我們來得及完成嗎？ B：如果我們週五下午早點開始，分兩批【烘烤】，它們就能在送貨司機抵達前烤好、放涼並包裝完成。",
+    "collocation": "bake a cake for an event 為活動烤蛋糕"
+   },
+   {
+    "word": "oven",
+    "pos": "n.",
+    "en_def": "a box-shaped machine that heats food so you can bake or cook it",
+    "cn_def": "烤箱",
+    "sentence": "A: The cakes in the bakery came out burned on one side again this morning, and two customers complained, so what do you think is causing the problem? B: I believe the old {{BLANK}} is not heating evenly anymore, so I have already asked the manager to call a technician and get a quote for a new one.",
+    "cn": "A：今天早上麵包店的蛋糕又有一邊烤焦了，還有兩位客人抱怨，你覺得是什麼原因造成的？ B：我認為那台舊【烤箱】已經無法均勻加熱了，所以我已經請經理打電話找技師來，並請他們報價換一台新的。",
+    "collocation": "preheat the oven 預熱烤箱"
+   },
+   {
+    "word": "flour",
+    "pos": "n.",
+    "en_def": "a white powder made from wheat, used to make bread and cakes",
+    "cn_def": "麵粉",
+    "sentence": "A: The supplier just called to say that our delivery of baking ingredients will be two days late because of the storm, so can we still make the wedding cake? B: We only have half a bag of {{BLANK}} left in the storeroom, so I will buy a few more kilograms from the supermarket on my way back from lunch.",
+    "cn": "A：供應商剛打電話來說，因為暴風雨，我們的烘焙材料要晚兩天才會送到，那我們還能做婚禮蛋糕嗎？ B：儲藏室裡只剩下半袋【麵粉】了，所以我午餐回來的路上會去超市再多買幾公斤。",
+    "collocation": "a bag of flour 一袋麵粉"
+   },
+   {
+    "word": "sugar",
+    "pos": "n.",
+    "en_def": "a sweet white or brown substance added to food and drinks",
+    "cn_def": "糖",
+    "sentence": "A: Several of our older customers have asked whether we could offer healthier desserts, so do you have any ideas for changing our popular carrot cake? B: We could use less {{BLANK}} and add more fresh fruit and nuts instead, which would keep the flavor pleasant while making the cake better for people who watch their diet.",
+    "cn": "A：好幾位年長的顧客問我們能不能提供更健康的甜點，你對改良我們那款熱賣的胡蘿蔔蛋糕有什麼想法嗎？ B：我們可以少放一點【糖】，改加更多新鮮水果和堅果，這樣既能保持好吃的味道，也讓蛋糕更適合注重飲食的人。",
+    "collocation": "reduce the amount of sugar 減少糖量"
+   },
+   {
+    "word": "butter",
+    "pos": "n.",
+    "en_def": "a soft yellow food made from milk, used in cooking and baking",
+    "cn_def": "奶油；牛油",
+    "sentence": "A: The head baker said the new pound cakes taste a little dry and plain compared with last month's, so did something change in the kitchen? B: Yes, the purchasing department switched to a cheaper brand of {{BLANK}} to save money, but I think we should go back to the old one because quality matters more to our customers.",
+    "cn": "A：首席烘焙師說新的磅蛋糕吃起來比上個月的稍微乾又平淡，廚房裡有什麼改變嗎？ B：是的，採購部門為了省錢改用比較便宜的【奶油】品牌，但我認為我們應該換回原來的，因為品質對顧客來說更重要。",
+    "collocation": "melted butter 融化的奶油"
+   },
+   {
+    "word": "egg",
+    "pos": "n.",
+    "en_def": "a round object laid by a hen, used as food and in baking",
+    "cn_def": "蛋；雞蛋",
+    "sentence": "A: I am preparing the shopping list for tomorrow's baking class at the community center, so how many ingredients will each of the twenty students need? B: Every student needs one fresh {{BLANK}}, two cups of flour, and a small bowl of milk, so please buy a few extra in case someone drops something on the floor.",
+    "cn": "A：我正在為明天社區中心的烘焙課準備購物清單，二十位學員每人需要多少材料？ B：每位學員需要一顆新鮮的【蛋】、兩杯麵粉和一小碗牛奶，所以請多買一些，以防有人把東西掉到地上。",
+    "collocation": "beat an egg 打蛋"
+   },
+   {
+    "word": "icing",
+    "pos": "n.",
+    "en_def": "a sweet mixture of sugar and water or butter used to cover or decorate cakes",
+    "cn_def": "糖霜",
+    "sentence": "A: The marketing team wants the company logo to appear on top of the anniversary cake for Friday's event, so is that something your bakery can do? B: Certainly, our designer can draw the logo in blue and white {{BLANK}} on a smooth surface, but we need the image file by Wednesday so that we have time to practice.",
+    "cn": "A：行銷團隊希望週五活動的週年蛋糕上能有公司標誌，你們麵包店做得到嗎？ B：當然可以，我們的設計師可以在平滑的表面上用藍白兩色的【糖霜】畫出標誌，不過我們需要在週三前拿到圖檔，才有時間練習。",
+    "collocation": "pipe icing onto a cake 在蛋糕上擠糖霜"
+   },
+   {
+    "word": "frosting",
+    "pos": "n.",
+    "en_def": "a thick, soft, sweet mixture spread on cakes and cupcakes",
+    "cn_def": "（蛋糕上的）糖霜；奶油霜",
+    "sentence": "A: The children's hospital asked us to provide cupcakes for their holiday party next week, so what kind of decoration do you think the kids would like? B: I suggest a thick layer of pink and green {{BLANK}} with colorful sprinkles on top, because it looks cheerful and is easy for young children to eat with their hands.",
+    "cn": "A：兒童醫院請我們為下週的節日派對提供杯子蛋糕，你覺得孩子們會喜歡什麼樣的裝飾？ B：我建議塗上一層厚厚的粉紅色和綠色【糖霜】，上面撒上彩色糖粒，因為看起來很歡樂，而且小孩用手拿著吃也很方便。",
+    "collocation": "cream cheese frosting 奶油乳酪糖霜"
+   },
+   {
+    "word": "cream",
+    "pos": "n.",
+    "en_def": "the thick fatty part of milk, often whipped and put on desserts",
+    "cn_def": "鮮奶油",
+    "sentence": "A: The strawberry cakes we sent to the hotel yesterday were not as fresh as usual, and the event planner was quite unhappy, so what went wrong? B: The delivery van's cooling system broke down during the trip, so the whipped {{BLANK}} melted in the heat, and we have offered the hotel a full refund and a free replacement.",
+    "cn": "A：我們昨天送到飯店的草莓蛋糕不像平常那麼新鮮，活動策劃人相當不滿，到底出了什麼問題？ B：送貨車的冷藏系統在途中故障了，所以打發的【鮮奶油】在高溫下融化了，我們已經向飯店提出全額退款並免費補送。",
+    "collocation": "whipped cream 打發鮮奶油"
+   },
+   {
+    "word": "chocolate",
+    "pos": "n.",
+    "en_def": "a sweet brown food made from cocoa beans",
+    "cn_def": "巧克力",
+    "sentence": "A: We are choosing a cake for the sales department's farewell party for Ms. Chen, so do you know what flavor she likes best? B: Her assistant told me that she loves dark {{BLANK}} more than anything else, so let's order a rich, bitter cake with fresh berries from the bakery near the train station.",
+    "cn": "A：我們正在為業務部替陳小姐舉辦的歡送會挑選蛋糕，你知道她最喜歡什麼口味嗎？ B：她的助理告訴我，她最愛黑【巧克力】，所以我們就向火車站附近的麵包店訂一個濃郁微苦、配上新鮮莓果的蛋糕吧。",
+    "collocation": "dark chocolate 黑巧克力"
+   },
+   {
+    "word": "vanilla",
+    "pos": "n.",
+    "en_def": "a sweet flavor that comes from the seeds of a tropical plant",
+    "cn_def": "香草",
+    "sentence": "A: A customer is planning a small office party for forty people and cannot decide which flavor will please everyone, so what should I recommend to her? B: Tell her that classic {{BLANK}} is the safest choice because almost everyone enjoys it, and she can add fresh fruit on top if she wants something more colorful.",
+    "cn": "A：一位顧客正在籌劃一場四十人的小型辦公室派對，無法決定哪種口味能讓大家都滿意，我該推薦她什麼？ B：告訴她經典的【香草】口味是最保險的選擇，因為幾乎每個人都喜歡，如果她想要更繽紛一點，也可以在上面加些新鮮水果。",
+    "collocation": "vanilla flavor 香草口味"
+   },
+   {
+    "word": "dessert",
+    "pos": "n.",
+    "en_def": "sweet food eaten at the end of a meal",
+    "cn_def": "甜點",
+    "sentence": "A: The restaurant manager wants to attract more business lunch customers on weekdays, so do you have any suggestions for the new set menu? B: We could include a small {{BLANK}}, such as a piece of cheesecake or a fruit tart, with every main course, because office workers love having something sweet after a busy morning.",
+    "cn": "A：餐廳經理想在平日吸引更多商務午餐客人，你對新的套餐菜單有什麼建議嗎？ B：我們可以在每份主餐附上一份小【甜點】，例如一塊起司蛋糕或水果塔，因為上班族在忙碌的早上之後很喜歡吃點甜的。",
+    "collocation": "order dessert 點甜點"
+   },
+   {
+    "word": "recipe",
+    "pos": "n.",
+    "en_def": "a set of instructions for cooking a dish, with a list of ingredients",
+    "cn_def": "食譜",
+    "sentence": "A: Our new pastry chef from Paris will start next Monday, so should we ask her to follow the instructions we have always used for our famous apple cake? B: Yes, please give her a printed copy of the {{BLANK}} on her first day, because customers expect the taste to stay exactly the same as it has been for years.",
+    "cn": "A：我們從巴黎來的新甜點師下週一開始上班，我們要請她照著我們一直以來做招牌蘋果蛋糕的做法嗎？ B：是的，請在她上班第一天給她一份印好的【食譜】，因為顧客期待味道和多年來完全一樣。",
+    "collocation": "follow a recipe 照著食譜做"
+   },
+   {
+    "word": "layer",
+    "pos": "n.",
+    "en_def": "one level of something that lies on top of another",
+    "cn_def": "層",
+    "sentence": "A: The bride and groom want a tall, impressive wedding cake for their reception at the hotel, so how big do you think it should be for two hundred guests? B: I recommend four round levels stacked on top of each other, and each {{BLANK}} can have a different flavor so that guests with different tastes will all find something they enjoy.",
+    "cn": "A：新郎新娘想在飯店喜宴上擺一個高大氣派的結婚蛋糕，你覺得兩百位賓客需要多大的蛋糕？ B：我建議堆疊四層圓形蛋糕，每一【層】可以有不同口味，這樣口味不同的賓客都能找到喜歡的。",
+    "collocation": "a three-layer cake 三層蛋糕"
+   },
+   {
+    "word": "decorate",
+    "pos": "v.",
+    "en_def": "to add things to something to make it look more attractive",
+    "cn_def": "裝飾",
+    "sentence": "A: The office manager wants to surprise the team with a cake for reaching our sales target this quarter, so could your shop add something special to it? B: Of course, our staff can {{BLANK}} it with fresh flowers, gold letters, and small sugar stars, and we can deliver it to your building before the afternoon meeting starts.",
+    "cn": "A：辦公室經理想用蛋糕給達成本季業績目標的團隊一個驚喜，你們店能在上面加點特別的東西嗎？ B：當然可以，我們的員工可以用鮮花、金色字母和小糖星星來【裝飾】它，還能在下午會議開始前送到你們大樓。",
+    "collocation": "decorate a cake with flowers 用花裝飾蛋糕"
+   },
+   {
+    "word": "topping",
+    "pos": "n.",
+    "en_def": "food put on top of a dish, such as fruit, nuts or sauce",
+    "cn_def": "（食物上的）配料",
+    "sentence": "A: Our café is creating a new cheesecake for the summer menu, and the owner wants it to look bright and fresh in photos, so what do you suggest? B: We could add a {{BLANK}} of mango, kiwi, and blueberries, because the colorful fruit will look great on social media and taste refreshing on hot days.",
+    "cn": "A：我們咖啡館正在為夏季菜單研發新的起司蛋糕，老闆希望它拍照時看起來明亮清新，你有什麼建議？ B：我們可以加上芒果、奇異果和藍莓的【配料】，因為色彩繽紛的水果在社群媒體上看起來很棒，而且在炎熱的日子吃起來也很清爽。",
+    "collocation": "a fruit topping 水果配料"
+   },
+   {
+    "word": "candle",
+    "pos": "n.",
+    "en_def": "a stick of wax with a string in the middle that you burn for light",
+    "cn_def": "蠟燭",
+    "sentence": "A: Everything is ready for Mr. Wang's retirement party in the meeting room, but the lights are still on, so when should we bring in the cake? B: Turn off the lights first, and then I will carry it in slowly with one tall {{BLANK}} burning in the middle while everyone starts to sing and clap.",
+    "cn": "A：王先生退休派對在會議室都準備好了，但燈還亮著，我們應該什麼時候把蛋糕拿進來？ B：先把燈關掉，然後我會端著中間點著一根高【蠟燭】的蛋糕慢慢走進來，同時大家開始唱歌拍手。",
+    "collocation": "light a candle 點蠟燭"
+   },
+   {
+    "word": "birthday",
+    "pos": "n.",
+    "en_def": "the day each year when a person was born",
+    "cn_def": "生日",
+    "sentence": "A: I noticed that Ms. Park from the accounting department has been working late every night this month, so is there anything special happening next week? B: Yes, her {{BLANK}} is next Thursday, so the team is planning to order a small cake and have a short party in the break room during lunch.",
+    "cn": "A：我注意到會計部的朴小姐這個月每晚都加班，下週有什麼特別的事嗎？ B：有啊，下週四是她的【生日】，所以團隊打算訂一個小蛋糕，午餐時間在休息室辦個簡短的派對。",
+    "collocation": "celebrate a birthday 慶祝生日"
+   },
+   {
+    "word": "sweet",
+    "pos": "adj.",
+    "en_def": "tasting of sugar or honey",
+    "cn_def": "甜的",
+    "sentence": "A: Some guests at yesterday's conference said the chocolate cake was delicious, but a few others left most of it on their plates, so did they say why? B: They felt it was too {{BLANK}} for them after a heavy lunch, so next time we should choose a lighter dessert with less sugar and more fruit.",
+    "cn": "A：昨天研討會上有些來賓說巧克力蛋糕很好吃，但也有幾位把大部分都剩在盤子裡，他們有說為什麼嗎？ B：他們覺得吃完豐盛的午餐後，那個蛋糕對他們來說太【甜】了，所以下次我們應該選擇少糖、多水果的清爽甜點。",
+    "collocation": "a sweet treat 甜食點心"
+   },
+   {
+    "word": "moist",
+    "pos": "adj.",
+    "en_def": "slightly wet in a pleasant way; not dry",
+    "cn_def": "濕潤的",
+    "sentence": "A: Our online reviews have improved a lot since we hired the new baker in March, so what do customers say they like most about our cakes now? B: Many people write that the cakes are soft and {{BLANK}} inside, not dry like before, because she adds yogurt to the batter and never leaves them in the oven too long.",
+    "cn": "A：自從三月聘請新烘焙師之後，我們的網路評價改善很多，顧客現在說他們最喜歡我們蛋糕的哪一點？ B：很多人寫說蛋糕裡面鬆軟又【濕潤】，不像以前那樣乾，因為她在麵糊裡加了優格，而且從不讓蛋糕在烤箱裡烤太久。",
+    "collocation": "a moist chocolate cake 濕潤的巧克力蛋糕"
+   },
+   {
+    "word": "fluffy",
+    "pos": "adj.",
+    "en_def": "soft and light, with a lot of air inside",
+    "cn_def": "蓬鬆的",
+    "sentence": "A: The Japanese cheesecake we sell is one of our best products, and a reporter wants to know what makes it so popular, so what should I tell her? B: Tell her that the cake is light and {{BLANK}}, almost like a cloud, because our bakers beat the egg whites carefully by hand for more than ten minutes.",
+    "cn": "A：我們賣的日式起司蛋糕是最暢銷的產品之一，有位記者想知道它為什麼這麼受歡迎，我該怎麼告訴她？ B：告訴她這款蛋糕輕盈又【蓬鬆】，幾乎像雲朵一樣，因為我們的烘焙師會用手仔細打發蛋白超過十分鐘。",
+    "collocation": "light and fluffy 輕盈蓬鬆"
+   },
+   {
+    "word": "rich",
+    "pos": "adj.",
+    "en_def": "(of food) containing a lot of butter, cream, sugar or chocolate, with a strong taste",
+    "cn_def": "（食物）濃郁的",
+    "sentence": "A: The hotel's head chef wants a dessert for the formal dinner that will impress the company directors, so which cake do you recommend? B: I recommend our dark chocolate cake because it has a deep, {{BLANK}} flavor, and a small piece is enough to satisfy guests after a large meal of several courses.",
+    "cn": "A：飯店主廚想為正式晚宴準備一道能讓公司董事們印象深刻的甜點，你推薦哪款蛋糕？ B：我推薦我們的黑巧克力蛋糕，因為它的味道深沉又【濃郁】，在吃完好幾道菜的豐盛晚餐後，一小塊就足以讓客人滿足。",
+    "collocation": "a rich flavor 濃郁的味道"
+   },
+   {
+    "word": "sponge",
+    "pos": "n.",
+    "en_def": "a light, soft cake made with eggs, sugar and flour",
+    "cn_def": "海綿蛋糕",
+    "sentence": "A: A customer would like a simple, light cake for her grandmother, who does not enjoy heavy cream or chocolate, so what can we offer her? B: We can make a plain {{BLANK}} with a little lemon juice and powdered sugar on top, which is soft, easy to eat, and not too heavy for older people.",
+    "cn": "A：一位顧客想為不喜歡厚重鮮奶油或巧克力的奶奶買一個簡單清爽的蛋糕，我們可以提供什麼？ B：我們可以做一個原味【海綿蛋糕】，上面淋一點檸檬汁、撒上糖粉，口感柔軟、容易入口，對長輩來說也不會太膩。",
+    "collocation": "a lemon sponge cake 檸檬海綿蛋糕"
+   },
+   {
+    "word": "fill",
+    "pos": "v.",
+    "en_def": "to put something inside until it is full",
+    "cn_def": "填滿；填入",
+    "sentence": "A: The new cream puffs on our menu look beautiful, but some customers said the inside was almost empty, so how can we fix this problem quickly? B: From now on, the kitchen staff should {{BLANK}} each one completely with custard before it goes on display, and a supervisor will check a few every morning.",
+    "cn": "A：菜單上新推出的泡芙看起來很漂亮，但有些顧客說裡面幾乎是空的，我們要怎麼迅速解決這個問題？ B：從現在起，廚房員工應該在陳列前把每一個都用卡士達醬完全【填滿】，而且主管每天早上會抽查幾個。",
+    "collocation": "fill a cake with cream 在蛋糕裡填入奶油"
+   },
+   {
+    "word": "mix",
+    "pos": "v.",
+    "en_def": "to combine two or more things so they become one",
+    "cn_def": "混合；攪拌",
+    "sentence": "A: This is my first week working in the bakery, and I want to make sure I do everything correctly, so what is the most important step for making the muffins? B: You should {{BLANK}} the dry ingredients and the wet ingredients gently for only about one minute, because if you stir too much, the muffins will become hard and heavy.",
+    "cn": "A：這是我在麵包店工作的第一週，我想確保每件事都做對，做馬芬最重要的步驟是什麼？ B：你應該把乾性材料和濕性材料輕輕【混合】大約一分鐘就好，因為攪拌太久的話，馬芬會變得又硬又紮實。",
+    "collocation": "mix the ingredients together 把材料混合在一起"
+   },
+   {
+    "word": "batter",
+    "pos": "n.",
+    "en_def": "a liquid mixture of flour, eggs and milk used to make cakes",
+    "cn_def": "麵糊",
+    "sentence": "A: The cakes from this morning did not rise properly in the oven, and they look flat and heavy, so do you know what might have happened? B: I think the new assistant forgot to add baking powder when he prepared the {{BLANK}}, so I will show him the correct steps again before the lunch rush begins.",
+    "cn": "A：今天早上的蛋糕在烤箱裡沒有好好膨脹，看起來又扁又紮實，你知道可能發生了什麼事嗎？ B：我想新來的助手在準備【麵糊】時忘了加泡打粉，所以我會在午餐尖峰時段開始前再教他一次正確步驟。",
+    "collocation": "pour the batter into a pan 把麵糊倒入烤盤"
+   },
+   {
+    "word": "serve",
+    "pos": "v.",
+    "en_def": "to give food or drinks to people at a meal",
+    "cn_def": "供應；端上（食物）",
+    "sentence": "A: The guests at the awards dinner have almost finished their main course, and the speeches will begin in twenty minutes, so when should the waiters bring out the cake? B: Please ask them to {{BLANK}} it right after the last speech, together with coffee and tea, so that people can relax and chat while they eat.",
+    "cn": "A：頒獎晚宴的來賓主餐快吃完了，致詞將在二十分鐘後開始，服務生應該什麼時候把蛋糕端出來？ B：請他們在最後一位致詞結束後馬上【端上】蛋糕，搭配咖啡和茶，讓大家可以邊吃邊放鬆聊天。",
+    "collocation": "serve cake with coffee 蛋糕搭配咖啡端上"
+   },
+   {
+    "word": "celebration",
+    "pos": "n.",
+    "en_def": "a special event or party held because something good has happened",
+    "cn_def": "慶祝；慶祝活動",
+    "sentence": "A: Our company has just won the biggest contract in its history, and the CEO wants to thank everyone who worked so hard on it, so what is the plan? B: She is organizing a big {{BLANK}} in the hotel ballroom next Friday evening, with a buffet dinner, live music, and a huge cake with the client's logo on it.",
+    "cn": "A：我們公司剛贏得史上最大的合約，執行長想感謝所有為此努力的人，有什麼計畫？ B：她下週五晚上要在飯店宴會廳舉辦一場盛大的【慶祝活動】，有自助晚餐、現場音樂，還有一個印著客戶標誌的巨型蛋糕。",
+    "collocation": "hold a celebration 舉辦慶祝活動"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Each guest at the training session received a _____ of carrot cake with coffee. The rest was taken to the staff room.",
+    "options": [
+     "candle",
+     "recipe",
+     "slice",
+     "layer"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Our kitchen staff _____ fresh bread and muffins every morning before six. The shop opens at seven, so everything is still warm.",
+    "options": [
+     "decorate",
+     "bake",
+     "mix",
+     "fill"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Please turn on the _____ at least fifteen minutes before you put the cake inside. It needs to reach 180 degrees first.",
+    "options": [
+     "flour",
+     "candle",
+     "topping",
+     "oven"
+    ],
+    "answer": 3,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The bakery ran out of _____ on Tuesday, so it could not make any bread. A new delivery of fifty bags arrived the next morning.",
+    "options": [
+     "flour",
+     "candle",
+     "layer",
+     "slice"
+    ],
+    "answer": 0,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Doctors advise people to eat less _____ to protect their teeth and health. Our café now offers drinks and cakes with lower amounts.",
+    "options": [
+     "oven",
+     "candle",
+     "recipe",
+     "sugar"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The pastry chef only uses fresh French _____ in her croissants. It gives them a soft texture and a rich, creamy taste.",
+    "options": [
+     "oven",
+     "candle",
+     "butter",
+     "celebration"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Crack one _____ into the bowl and beat it with a fork. Then add the milk and stir slowly until smooth.",
+    "options": [
+     "egg",
+     "candle",
+     "oven",
+     "celebration"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The baker wrote 'Happy Retirement' in white _____ on the chocolate cake. The letters looked neat and elegant to everyone.",
+    "options": [
+     "oven",
+     "icing",
+     "recipe",
+     "birthday"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The cupcakes were covered with thick pink _____ and colorful sprinkles. The children at the party loved them very much.",
+    "options": [
+     "oven",
+     "recipe",
+     "candle",
+     "frosting"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The strawberries were served with fresh whipped _____ on top. Guests at the hotel breakfast asked for second helpings.",
+    "options": [
+     "flour",
+     "oven",
+     "cream",
+     "recipe"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Ms. Lin ordered a dark _____ cake for the board meeting. It is the favorite flavor of most of the directors.",
+    "options": [
+     "oven",
+     "chocolate",
+     "candle",
+     "recipe"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The new ice cream shop offers twelve flavors, but _____ remains the best seller. Many customers prefer its simple, classic taste.",
+    "options": [
+     "vanilla",
+     "oven",
+     "recipe",
+     "candle"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "After the main course, the waiter brought the _____ menu to our table. I ordered apple pie with ice cream.",
+    "options": [
+     "oven",
+     "dessert",
+     "flour",
+     "candle"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "My grandmother wrote her famous cake _____ in a small notebook. She shared it with me before I opened my bakery.",
+    "options": [
+     "oven",
+     "slice",
+     "recipe",
+     "candle"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Each _____ of the wedding cake had a different flavor, from lemon to strawberry. Guests could choose their favorite.",
+    "options": [
+     "oven",
+     "flour",
+     "candle",
+     "layer"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The bakery staff will _____ the anniversary cake with gold letters and fresh roses. It will be delivered to the hotel on Friday.",
+    "options": [
+     "decorate",
+     "mix",
+     "serve",
+     "bake"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "This frozen yogurt comes with your choice of one free _____, such as nuts or fresh berries. Extra choices cost fifty cents each.",
+    "options": [
+     "oven",
+     "topping",
+     "recipe",
+     "birthday"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Before the lights were turned off, the manager lit the _____ on the cake. Then everyone sang for the new team leader.",
+    "options": [
+     "flour",
+     "recipe",
+     "dessert",
+     "candle"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The staff gave Tom a card and a small gift for his thirtieth _____. He was surprised because he had not told anyone.",
+    "options": [
+     "oven",
+     "recipe",
+     "birthday",
+     "flour"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Children usually prefer _____ snacks like candy and cookies. Adults, however, often choose something salty or sour instead.",
+    "options": [
+     "sweet",
+     "fluffy",
+     "moist",
+     "rich"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The baker covers the cake with plastic wrap overnight to keep it _____. Otherwise, it would become dry and hard by morning.",
+    "options": [
+     "sweet",
+     "fluffy",
+     "moist",
+     "rich"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The pancakes were light and _____ because the cook beat air into the eggs. They looked like small soft clouds on the plate.",
+    "options": [
+     "sweet",
+     "fluffy",
+     "moist",
+     "rich"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The cake has a deep, _____ flavor because it contains plenty of butter and dark chocolate. A small piece is enough.",
+    "options": [
+     "rich",
+     "sweet",
+     "moist",
+     "fluffy"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "A light lemon _____ cake is perfect for an afternoon tea party. It is soft and not too heavy for most guests.",
+    "options": [
+     "oven",
+     "candle",
+     "recipe",
+     "sponge"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The bakers carefully _____ each cream puff with vanilla custard until it is full. Then they dust the puffs with powdered sugar.",
+    "options": [
+     "mix",
+     "fill",
+     "bake",
+     "decorate"
+    ],
+    "answer": 1,
+    "vocabIndex": 24
+   },
+   {
+    "q": "First, _____ the flour, sugar, and butter together in a large bowl. Then add two eggs and stir until smooth.",
+    "options": [
+     "serve",
+     "decorate",
+     "fill",
+     "mix"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Pour the cake _____ into a round pan and bake it for forty minutes. Check it with a toothpick before removing it.",
+    "options": [
+     "batter",
+     "candle",
+     "recipe",
+     "slice"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The hotel will _____ lunch in the main hall at noon. After that, coffee and cake will be offered in the lobby.",
+    "options": [
+     "bake",
+     "mix",
+     "serve",
+     "decorate"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The company held a big _____ after winning the national design award. Every employee was invited to dinner at a hotel.",
+    "options": [
+     "celebration",
+     "oven",
+     "flour",
+     "recipe"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Please follow the _____ carefully, especially the baking time and temperature. Small changes can ruin the whole cake.",
+    "options": [
+     "candle",
+     "slice",
+     "recipe",
+     "birthday"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   }
+  ]
+ },
+ "43": {
+  "theme": "Cancellation 取消",
+  "source": "https://www.examword.com/group-topic/cancellation",
+  "VOCAB": [
+   {
+    "word": "cancel",
+    "pos": "v.",
+    "en_def": "to decide that a planned event or booking will not happen",
+    "cn_def": "取消",
+    "sentence": "A: The airline just sent a message saying that heavy snow is expected in Chicago tomorrow morning, so what should we do about our sales trip? B: I think we should {{BLANK}} the flights today and book a video call with the clients instead, because the roads will probably be dangerous anyway.",
+    "cn": "A：航空公司剛傳訊息說明天早上芝加哥預計會下大雪，那我們的業務出差該怎麼辦？ B：我覺得我們今天就應該【取消】航班，改和客戶約視訊會議，因為路況可能也會很危險。",
+    "collocation": "cancel a reservation 取消預訂"
+   },
+   {
+    "word": "postpone",
+    "pos": "v.",
+    "en_def": "to move an event to a later time",
+    "cn_def": "延後；延期",
+    "sentence": "A: Half of the marketing team is still sick with the flu this week, so are we going to hold the product launch meeting on Thursday as planned? B: No, the manager decided to {{BLANK}} it until next Monday, when everyone should be back in the office and ready to share their ideas.",
+    "cn": "A：行銷團隊有一半的人這週還在感冒生病，我們還要照原計畫在星期四開產品發表會議嗎？ B：不，經理決定把它【延後】到下週一，到時候大家應該都回到辦公室，準備好分享想法了。",
+    "collocation": "postpone a meeting 延後會議"
+   },
+   {
+    "word": "delay",
+    "pos": "v.",
+    "en_def": "to make something happen later than planned",
+    "cn_def": "延誤；耽擱",
+    "sentence": "A: The new office furniture was supposed to arrive this morning, but the warehouse is still empty, so did the supplier explain what happened? B: Yes, they said a problem at the port will {{BLANK}} the shipment by about three days, so we will have to use the old desks until Friday.",
+    "cn": "A：新的辦公家具原本應該今天早上送到，但倉庫還是空的，供應商有解釋發生什麼事嗎？ B：有，他們說港口的問題會使貨運【延誤】大約三天，所以我們得用舊桌子用到星期五。",
+    "collocation": "delay a shipment 延誤出貨"
+   },
+   {
+    "word": "reschedule",
+    "pos": "v.",
+    "en_def": "to change the time or date of a planned event",
+    "cn_def": "重新安排時間",
+    "sentence": "A: I just realized that my dentist appointment on Wednesday afternoon is at the same time as the budget review with the finance department, so what should I do? B: Just call the clinic and ask them to {{BLANK}} it for another day, because the budget review is much more important for your project.",
+    "cn": "A：我剛發現我星期三下午的牙醫預約和財務部的預算審查撞期了，我該怎麼辦？ B：打電話給診所，請他們把預約【重新安排】到別天就好，因為預算審查對你的專案重要得多。",
+    "collocation": "reschedule an appointment 重新安排約診時間"
+   },
+   {
+    "word": "call off",
+    "pos": "v.phr.",
+    "en_def": "to decide that a planned event will not take place",
+    "cn_def": "取消（活動等）",
+    "sentence": "A: The weather report says a strong typhoon will hit the coast on Saturday, so is the company still having its annual beach picnic for employees and their families? B: Unfortunately, the organizers had to {{BLANK}} the whole event this afternoon, but they promised to choose a new date in November when the weather is better.",
+    "cn": "A：氣象報告說週六會有強颱登陸沿海，公司還要為員工和家屬舉辦年度海灘野餐嗎？ B：很遺憾，主辦人今天下午不得不【取消】整個活動，但他們承諾會在天氣比較好的十一月另選日期。",
+    "collocation": "call off an event 取消活動"
+   },
+   {
+    "word": "withdraw",
+    "forms": "withdraw – withdrew – withdrawn",
+    "pos": "v.",
+    "en_def": "to stop taking part in something; to take back an offer",
+    "cn_def": "退出；撤回",
+    "sentence": "A: I heard that one of the biggest companies in the city was planning to join our trade fair next month, so is that still true? B: Sadly, they decided to {{BLANK}} from the fair yesterday because their new products will not be ready in time, so we now have an empty booth near the entrance.",
+    "cn": "A：我聽說市內一家大公司下個月打算參加我們的商展，現在還是這樣嗎？ B：很可惜，他們昨天決定【退出】商展，因為他們的新產品來不及準備好，所以入口附近現在空出一個攤位。",
+    "collocation": "withdraw from a competition 退出比賽"
+   },
+   {
+    "word": "termination",
+    "pos": "n.",
+    "en_def": "the act of ending something, such as a contract or a job",
+    "cn_def": "終止；結束",
+    "sentence": "A: Our cleaning company has been missing several visits every month, and the office looks terrible, so can we simply stop working with them? B: Yes, but the contract says we must send a written letter of {{BLANK}} at least thirty days in advance, so I will prepare it and ask the director to sign it today.",
+    "cn": "A：我們的清潔公司每個月都缺好幾次，辦公室看起來很糟，我們可以直接不跟他們合作嗎？ B：可以，但合約規定我們必須至少提前三十天寄出書面的【終止】合作通知信，所以我會準備好，今天請主任簽名。",
+    "collocation": "termination of a contract 合約終止"
+   },
+   {
+    "word": "suspension",
+    "pos": "n.",
+    "en_def": "a short stop of a service or activity",
+    "cn_def": "暫停；中止",
+    "sentence": "A: Why are so many passengers standing outside the train station looking at their phones and trying to find taxis this morning? B: There was a power failure on the main line, so the railway company announced a {{BLANK}} of all services until noon, and many people are worried about being late for work.",
+    "cn": "A：為什麼今天早上這麼多乘客站在火車站外面看手機、想找計程車？ B：主線發生停電，所以鐵路公司宣布所有班次【暫停】到中午，很多人擔心上班會遲到。",
+    "collocation": "suspension of service 服務暫停"
+   },
+   {
+    "word": "abandon",
+    "pos": "v.",
+    "en_def": "to stop doing a plan or activity before it is finished",
+    "cn_def": "放棄；中止",
+    "sentence": "A: The research team spent almost two years developing that new smartphone app, so why did it never appear in the online store? B: After testing it with customers, the company found that very few people wanted it, so they decided to {{BLANK}} the project and spend the money on improving their popular products.",
+    "cn": "A：研發團隊花了將近兩年開發那個新手機應用程式，為什麼它從來沒有出現在線上商店？ B：用客戶測試後，公司發現很少人想要它，所以他們決定【放棄】這個專案，把錢花在改進熱賣商品上。",
+    "collocation": "abandon a plan 放棄計畫"
+   },
+   {
+    "word": "revocation",
+    "pos": "n.",
+    "en_def": "the official act of taking away a right or permit",
+    "cn_def": "撤銷；吊銷",
+    "sentence": "A: I read in the newspaper that the restaurant near our office has suddenly closed, even though it was always busy at lunchtime, so what happened? B: Health inspectors found serious problems in the kitchen, which led to the {{BLANK}} of its business license, and the owner cannot reopen until everything is fixed.",
+    "cn": "A：我在報紙上看到我們辦公室附近那家餐廳突然關門了，雖然它午餐時間總是客滿，發生什麼事了？ B：衛生稽查員在廚房發現嚴重問題，導致它的營業執照被【撤銷】，老闆在一切改善之前都不能重新開業。",
+    "collocation": "revocation of a license 執照撤銷"
+   },
+   {
+    "word": "annul",
+    "pos": "v.",
+    "en_def": "to officially say that an agreement or marriage is not legal",
+    "cn_def": "宣告無效；廢除",
+    "sentence": "A: The two companies signed an agreement last spring, but now they are arguing about it in court, so what does the smaller company want? B: Its lawyers are asking the judge to {{BLANK}} the agreement completely, because they believe the other side gave them false information about the sales numbers before they signed it.",
+    "cn": "A：這兩家公司去年春天簽了協議，但現在他們在法庭上爭執，比較小的那家公司想要什麼？ B：它的律師要求法官將這份協議完全【宣告無效】，因為他們認為對方在簽約前提供了不實的銷售數據。",
+    "collocation": "annul a contract 宣告合約無效"
+   },
+   {
+    "word": "void",
+    "pos": "adj.",
+    "en_def": "not legal or not valid any more",
+    "cn_def": "無效的",
+    "sentence": "A: I bought a ticket for the concert from a stranger on the internet, but the staff at the gate would not let me enter last night, so why not? B: They said the ticket was {{BLANK}} because it had already been reported as stolen, so you should contact your bank and ask for help getting your money back.",
+    "cn": "A：我在網路上跟陌生人買了一張演唱會門票，但昨晚門口的工作人員不讓我進去，為什麼？ B：他們說那張票是【無效的】，因為已經被通報為失竊票，所以你應該聯絡銀行，請他們幫忙把錢拿回來。",
+    "collocation": "declare a contract void 宣布合約無效"
+   },
+   {
+    "word": "nullify",
+    "pos": "v.",
+    "en_def": "to make something have no effect or value",
+    "cn_def": "使無效；抵銷",
+    "sentence": "A: Our team worked very hard to reduce costs in the factory this year, so why are our total profits still lower than last year? B: The sharp rise in fuel prices this summer managed to {{BLANK}} most of our savings, so the management is now looking for cheaper energy suppliers for next year.",
+    "cn": "A：我們團隊今年很努力降低工廠成本，為什麼總利潤還是比去年低？ B：今年夏天燃料價格急遽上漲，【抵銷】了我們大部分節省下來的錢，所以管理層正在為明年尋找比較便宜的能源供應商。",
+    "collocation": "nullify the benefits 抵銷好處"
+   },
+   {
+    "word": "refund",
+    "pos": "n.",
+    "en_def": "money that is paid back to a customer",
+    "cn_def": "退款",
+    "sentence": "A: The printer I ordered online for the office arrived with a broken screen, and it will not even turn on, so what should I do? B: Take some photos of the damage and send them to the store's customer service team, and they should give you a full {{BLANK}} within a week or send a new printer.",
+    "cn": "A：我在網路上幫辦公室訂的印表機送來時螢幕是壞的，甚至開不了機，我該怎麼辦？ B：拍幾張損壞的照片寄給那家店的客服團隊，他們應該會在一週內給你全額【退款】或寄一台新的印表機。",
+    "collocation": "ask for a refund 要求退款"
+   },
+   {
+    "word": "charge",
+    "pos": "n.",
+    "en_def": "the amount of money you must pay for something",
+    "cn_def": "費用；收費",
+    "sentence": "A: I want to change my hotel booking from Friday to Saturday because my meeting in Tokyo was moved, so is that going to be a problem? B: The hotel allows changes, but there is an extra {{BLANK}} of twenty dollars if you do it less than forty-eight hours before arrival, so you should call them right away.",
+    "cn": "A：我的東京會議改期了，我想把飯店訂房從星期五改到星期六，會有問題嗎？ B：飯店允許更改，但如果在抵達前四十八小時內更改，要額外收二十美元的【費用】，所以你應該馬上打電話給他們。",
+    "collocation": "an extra charge 額外費用"
+   },
+   {
+    "word": "policy",
+    "pos": "n.",
+    "en_def": "a set of rules that a company or group follows",
+    "cn_def": "政策；規定",
+    "sentence": "A: A customer bought a jacket from our shop three months ago, and today she brought it back without a receipt, asking for her money, so can I accept it? B: I am sorry, but our store {{BLANK}} only allows returns within thirty days with a receipt, so please explain that politely and offer her a discount on something new.",
+    "cn": "A：有位顧客三個月前在我們店裡買了一件外套，今天她沒帶收據拿回來要求退錢，我可以接受嗎？ B：很抱歉，我們店的【政策】只允許三十天內持收據退貨，所以請禮貌地向她解釋，並提供她購買新商品的折扣。",
+    "collocation": "cancellation policy 取消政策"
+   },
+   {
+    "word": "notice",
+    "pos": "n.",
+    "en_def": "information or a warning given before something happens",
+    "cn_def": "通知；預先通知",
+    "sentence": "A: The landlord told us yesterday that we have to move out of this office because he plans to sell the whole building, so how much time do we have? B: According to our rental agreement, he must give us at least two months' {{BLANK}}, so we have enough time to find a new place near the station.",
+    "cn": "A：房東昨天告訴我們必須搬離這間辦公室，因為他打算賣掉整棟大樓，我們還有多少時間？ B：根據我們的租約，他必須至少提前兩個月【通知】我們，所以我們有足夠時間在車站附近找新地方。",
+    "collocation": "give two weeks' notice 提前兩週通知"
+   },
+   {
+    "word": "deadline",
+    "pos": "n.",
+    "en_def": "the latest time by which something must be done",
+    "cn_def": "截止期限",
+    "sentence": "A: If our guests want to stay at the conference hotel but change their plans later, when do they need to tell the hotel so they do not lose money? B: The {{BLANK}} for free changes is next Friday at five o'clock, so please remind everyone in your department to check their travel plans before then.",
+    "cn": "A：如果我們的客人想住會議飯店但之後改變計畫，他們需要什麼時候告訴飯店才不會損失金錢？ B：免費更改的【截止期限】是下週五五點，所以請提醒你部門的每個人在那之前確認行程。",
+    "collocation": "meet the deadline 趕上截止期限"
+   },
+   {
+    "word": "penalty",
+    "pos": "n.",
+    "en_def": "money you must pay for breaking a rule or agreement",
+    "cn_def": "罰金；違約金",
+    "sentence": "A: I need to end my phone contract six months early because the company is giving me a new work phone with free service, so is that expensive? B: Yes, the phone company asks for a {{BLANK}} of about one hundred dollars for leaving early, but the free work phone will save you more than that by the end of the year.",
+    "cn": "A：公司要給我一支免費通話的新公務手機，所以我得提前六個月終止手機合約，這樣會很貴嗎？ B：會，電信公司對提前解約會收大約一百美元的【違約金】，但到年底時，這支免費的公務手機幫你省下的錢會更多。",
+    "collocation": "pay a penalty 繳交罰金"
+   },
+   {
+    "word": "fee",
+    "pos": "n.",
+    "en_def": "money paid for a service or to join something",
+    "cn_def": "費用",
+    "sentence": "A: Our department wants to join the international business conference in Singapore next spring, but we have not decided yet, so when should we register? B: If we sign up before the end of this month, the registration {{BLANK}} is only two hundred dollars per person, but it will double in January, so we should decide soon.",
+    "cn": "A：我們部門想參加明年春天在新加坡舉辦的國際商務會議，但還沒決定，應該什麼時候報名？ B：如果在這個月底前報名，每人報名【費】只要兩百美元，但一月起會翻倍，所以我們應該盡快決定。",
+    "collocation": "a registration fee 報名費"
+   },
+   {
+    "word": "unexpected",
+    "pos": "adj.",
+    "en_def": "not expected; surprising",
+    "cn_def": "意料之外的；意外的",
+    "sentence": "A: The sales report looked great on Monday, so why did the manager call an emergency meeting this morning and look so worried? B: There was a completely {{BLANK}} problem with our biggest customer, who suddenly said they could not pay their bill this month, and nobody in the company had seen it coming.",
+    "cn": "A：星期一的銷售報告看起來很好，為什麼經理今天早上召開緊急會議，而且看起來那麼擔心？ B：我們最大的客戶出了一個完全【意料之外的】問題，他們突然說這個月付不出帳款，公司裡沒有人預料到。",
+    "collocation": "an unexpected problem 意外的問題"
+   },
+   {
+    "word": "sudden",
+    "pos": "adj.",
+    "en_def": "happening very quickly and without warning",
+    "cn_def": "突然的",
+    "sentence": "A: Why did the outdoor concert in the city park end so early last night, when the band had only played three songs? B: A {{BLANK}} storm with strong wind and heavy rain arrived without any warning, so the organizers stopped the show and asked everyone to go to the nearby shopping mall for safety.",
+    "cn": "A：昨晚市立公園的戶外音樂會為什麼那麼早就結束了，樂團才唱了三首歌？ B：一場夾帶強風豪雨的【突如其來的】暴風雨毫無預警地來襲，所以主辦單位停止演出，請大家到附近的購物中心避難。",
+    "collocation": "a sudden change 突然的改變"
+   },
+   {
+    "word": "official",
+    "pos": "adj.",
+    "en_def": "approved by or coming from a government or organization",
+    "cn_def": "正式的；官方的",
+    "sentence": "A: Everyone is saying that the summer music festival will not happen this year because of the new road construction, so is it really true? B: I have heard the same thing from friends, but we should wait for the {{BLANK}} announcement from the city government before we cancel our hotel rooms and train tickets.",
+    "cn": "A：大家都在說今年的夏季音樂節因為新的道路工程不會舉辦，這是真的嗎？ B：我也從朋友那裡聽說了，但我們應該等市政府的【正式】公告，再取消飯店房間和火車票。",
+    "collocation": "an official announcement 正式公告"
+   },
+   {
+    "word": "notify",
+    "pos": "v.",
+    "en_def": "to tell someone officially about something",
+    "cn_def": "通知",
+    "sentence": "A: The water company plans to repair the pipes in our building next Tuesday, and there will be no water from nine to three, so what should we do? B: Please send an email to {{BLANK}} all the staff today, so they can bring bottled water and plan their lunch breaks outside the office.",
+    "cn": "A：自來水公司下週二要修理我們大樓的水管，九點到三點會停水，我們該怎麼做？ B：請今天寄電子郵件【通知】全體員工，這樣他們可以帶瓶裝水，並計畫到辦公室外面吃午餐。",
+    "collocation": "notify customers 通知顧客"
+   },
+   {
+    "word": "confirm",
+    "pos": "v.",
+    "en_def": "to say or show that a plan or booking is definite",
+    "cn_def": "確認",
+    "sentence": "A: I booked a table for twelve people at the Italian restaurant for our team dinner on Friday night, so is there anything else I need to do? B: Yes, the restaurant asked us to call on Thursday to {{BLANK}} the reservation, or they may give the table to other customers because Friday nights are very busy.",
+    "cn": "A：我在義大利餐廳為週五晚上的團隊晚餐訂了十二人的位子，還有什麼需要做的嗎？ B：有，餐廳要求我們星期四打電話【確認】訂位，否則他們可能會把桌子給其他客人，因為週五晚上很忙。",
+    "collocation": "confirm a booking 確認預訂"
+   },
+   {
+    "word": "disruption",
+    "pos": "n.",
+    "en_def": "a problem that stops something from working normally",
+    "cn_def": "中斷；干擾",
+    "sentence": "A: The city is going to repair the main bridge downtown for the next three weeks, so how will that affect our delivery drivers? B: There will be some {{BLANK}} to traffic during rush hour, so the drivers should leave earlier in the morning and take the highway to reach our customers on time.",
+    "cn": "A：市政府接下來三週要修理市中心的主要橋梁，這會對我們的送貨司機有什麼影響？ B：尖峰時段交通會受到一些【干擾】，所以司機早上應該早點出發，走高速公路才能準時送達客戶。",
+    "collocation": "cause disruption 造成干擾"
+   },
+   {
+    "word": "alternative",
+    "pos": "n.",
+    "en_def": "another choice you can use instead",
+    "cn_def": "替代方案；其他選擇",
+    "sentence": "A: Our flight to Hong Kong was cancelled because of the typhoon, and the airline says the next available seats are on Thursday, so what can we do? B: One good {{BLANK}} is to take the high-speed train to another city and fly from there tomorrow, which means we can still attend the meeting.",
+    "cn": "A：我們飛往香港的班機因颱風取消了，航空公司說下一個有位子的是星期四，我們能怎麼辦？ B：一個不錯的【替代方案】是搭高鐵到另一個城市，明天從那裡起飛，這樣我們還是能參加會議。",
+    "collocation": "a good alternative 不錯的替代方案"
+   },
+   {
+    "word": "compensation",
+    "pos": "n.",
+    "en_def": "money paid to someone because of a loss or problem",
+    "cn_def": "賠償；補償",
+    "sentence": "A: The airline kept us waiting at the gate for more than seven hours without any food, and we missed an important business dinner, so can we ask for something? B: Yes, under the new travel rules you can apply for {{BLANK}} on their website, and they may pay you up to three hundred dollars for the long wait.",
+    "cn": "A：航空公司讓我們在登機門等了七個多小時，而且沒有提供任何食物，我們也錯過了重要的商務晚餐，我們可以要求什麼嗎？ B：可以，根據新的旅遊規定，你可以在他們的網站上申請【賠償】，他們可能會因為長時間等候付你最多三百美元。",
+    "collocation": "receive compensation 獲得賠償"
+   },
+   {
+    "word": "reinstate",
+    "pos": "v.",
+    "en_def": "to bring back a service, rule or person to an earlier position",
+    "cn_def": "恢復；使復職",
+    "sentence": "A: Many customers complained after the bus company stopped the late-night service from the airport last year, so has anything changed since then? B: Yes, the company has agreed to {{BLANK}} the service starting next month, so travelers arriving on evening flights will be able to get home cheaply again.",
+    "cn": "A：去年公車公司停駛機場深夜班次後，很多乘客抱怨，從那之後有任何改變嗎？ B：有，公司已同意從下個月起【恢復】這項服務，所以搭晚班飛機抵達的旅客又能便宜地回家了。",
+    "collocation": "reinstate an employee 使員工復職"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Because of the heavy snow, the airline had to _____ all morning flights to Denver. Passengers were offered seats on later flights.",
+    "options": [
+     "notify",
+     "cancel",
+     "confirm",
+     "reinstate"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The board decided to _____ the annual meeting until October. Several directors are traveling overseas in September and cannot attend.",
+    "options": [
+     "annul",
+     "notify",
+     "postpone",
+     "nullify"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Bad weather may _____ the delivery of the new computers by several days. We will tell you the new arrival date soon.",
+    "options": [
+     "delay",
+     "annul",
+     "abandon",
+     "confirm"
+    ],
+    "answer": 0,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Ms. Lin is sick today, so she asked her assistant to _____ all of her appointments for another week. Her clients have been informed.",
+    "options": [
+     "nullify",
+     "annul",
+     "withdraw",
+     "reschedule"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The union agreed to _____ the strike after the company offered better pay. Workers will return to the factory on Monday.",
+    "options": [
+     "call off",
+     "notify",
+     "confirm",
+     "nullify"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Due to rising costs, the company decided to _____ from the competition to buy the hotel chain. The news surprised many investors.",
+    "options": [
+     "cancel",
+     "confirm",
+     "notify",
+     "withdraw"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The _____ of his contract came as a shock to the sales manager. He had worked at the firm for twelve years.",
+    "options": [
+     "refund",
+     "termination",
+     "fee",
+     "deadline"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "After the safety test failed, the city ordered a two-week _____ of the cable car service. Engineers will inspect every part.",
+    "options": [
+     "refund",
+     "policy",
+     "suspension",
+     "compensation"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The hikers had to _____ their plan to reach the top because of the thick fog. They returned to the hotel before dark.",
+    "options": [
+     "notify",
+     "confirm",
+     "reinstate",
+     "abandon"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The bank's failure to follow safety rules led to the _____ of its operating license. Customers were told to move their money.",
+    "options": [
+     "alternative",
+     "revocation",
+     "deadline",
+     "refund"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The court agreed to _____ the sale of the land because the seller had lied. The buyer will get all of his money back.",
+    "options": [
+     "annul",
+     "notify",
+     "reschedule",
+     "confirm"
+    ],
+    "answer": 0,
+    "vocabIndex": 10
+   },
+   {
+    "q": "This coupon is _____ if it is copied or sold. Please bring the original to the store before the end of the month.",
+    "options": [
+     "sudden",
+     "unexpected",
+     "void",
+     "official"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The new tax will _____ most of the savings we made by moving to a cheaper office. Our accountant is looking for other solutions.",
+    "options": [
+     "nullify",
+     "confirm",
+     "notify",
+     "reschedule"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The concert was cancelled, so all ticket holders will receive a full _____. The money will return to their credit cards within ten days.",
+    "options": [
+     "deadline",
+     "notice",
+     "refund",
+     "penalty"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Delivery is free for orders over fifty dollars. For smaller orders, there is a small _____ of five dollars for shipping.",
+    "options": [
+     "deadline",
+     "charge",
+     "notice",
+     "disruption"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "According to the company's travel _____, employees must book economy class for flights under five hours. Managers may approve exceptions.",
+    "options": [
+     "penalty",
+     "refund",
+     "disruption",
+     "policy"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The workers were told about the factory closing with only one week's _____. Many of them were angry and worried about their jobs.",
+    "options": [
+     "refund",
+     "fee",
+     "notice",
+     "policy"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The _____ for submitting this year's sales reports is Friday at noon. Late reports will not be included in the review.",
+    "options": [
+     "refund",
+     "compensation",
+     "suspension",
+     "deadline"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Customers who return the rental car late must pay a _____ of thirty dollars per hour. Please check the return time carefully.",
+    "options": [
+     "penalty",
+     "notice",
+     "alternative",
+     "policy"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The gym charges a monthly _____ of forty dollars. Members can use the pool and the sauna at no extra cost.",
+    "options": [
+     "notice",
+     "fee",
+     "deadline",
+     "disruption"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The results of the customer survey were completely _____. Nobody on the research team had predicted that people would prefer the older design.",
+    "options": [
+     "unexpected",
+     "void",
+     "official",
+     "sudden"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "All of a _____, the lights went out in the middle of the presentation. The speaker calmly continued by using a flashlight.",
+    "options": [
+     "official",
+     "void",
+     "sudden",
+     "unexpected"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The company will make an _____ announcement about the merger on Monday. Until then, staff should not discuss it with reporters.",
+    "options": [
+     "void",
+     "sudden",
+     "unexpected",
+     "official"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Please _____ the front desk at least one day in advance if you need a late checkout. Extra charges may apply.",
+    "options": [
+     "reinstate",
+     "notify",
+     "annul",
+     "nullify"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Could you please _____ your attendance by replying to this email? We need the final number of guests by Wednesday.",
+    "options": [
+     "annul",
+     "abandon",
+     "confirm",
+     "nullify"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The power failure caused major _____ to train services this morning. Thousands of commuters arrived late for work.",
+    "options": [
+     "refund",
+     "disruption",
+     "policy",
+     "deadline"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "If the main road is closed, drivers can take the coastal highway as an _____. It is longer but usually less crowded.",
+    "options": [
+     "alternative",
+     "penalty",
+     "refund",
+     "termination"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Workers injured on the job are entitled to _____ for lost wages. The company's insurance covers the full amount.",
+    "options": [
+     "notice",
+     "deadline",
+     "suspension",
+     "compensation"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "After the investigation proved he did nothing wrong, the company agreed to _____ the manager in his former position. He returns next week.",
+    "options": [
+     "notify",
+     "annul",
+     "reinstate",
+     "postpone"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "If you _____ your hotel booking less than one day before arrival, you will be charged for one night. Please plan carefully.",
+    "options": [
+     "notify",
+     "cancel",
+     "nullify",
+     "reinstate"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   }
+  ]
+ },
+ "44": {
+  "theme": "Car 汽車",
+  "source": "https://www.examword.com/group-topic/car",
+  "VOCAB": [
+   {
+    "word": "vehicle",
+    "pos": "n.",
+    "en_def": "a machine such as a car, bus or truck that carries people or goods",
+    "cn_def": "車輛",
+    "sentence": "A: Our sales team will visit five clients in the countryside next week, and the roads there are narrow and muddy, so which company car should we book? B: I suggest the large {{BLANK}} with four-wheel drive, because it can carry all six of us and our sample boxes without any trouble on those rough mountain roads.",
+    "cn": "A：我們業務團隊下週要拜訪鄉下的五位客戶，那裡的道路又窄又泥濘，我們該預訂哪一輛公司車？ B：我建議那台四輪驅動的大型【車輛】，因為它可以載我們六個人和樣品箱，在崎嶇的山路上也不會有任何問題。",
+    "collocation": "a company vehicle 公司車輛"
+   },
+   {
+    "word": "engine",
+    "pos": "n.",
+    "en_def": "the part of a car that makes the power to move it",
+    "cn_def": "引擎",
+    "sentence": "A: The delivery van made a loud knocking noise this morning when I started it, and then it stopped twice on the highway, so what do you think is wrong? B: The mechanic checked it at lunchtime and said the {{BLANK}} is overheating because it has not had fresh oil for almost a year.",
+    "cn": "A：今天早上我發動送貨車時它發出很大的敲擊聲，接著在高速公路上熄火了兩次，你覺得是哪裡出了問題？ B：技師午餐時間檢查過了，他說【引擎】過熱，因為它將近一年沒換新機油了。",
+    "collocation": "start the engine 發動引擎"
+   },
+   {
+    "word": "fuel",
+    "pos": "n.",
+    "en_def": "something such as gas or oil that is burned to give power",
+    "cn_def": "燃料",
+    "sentence": "A: The trip to the trade fair in Kaohsiung is about four hours by car, so how often do you think we will need to stop on the way? B: The tank holds enough {{BLANK}} for around six hundred kilometers, so we should only need one short stop, and we can buy coffee and snacks at the same time.",
+    "cn": "A：開車去高雄的商展大約要四個小時，你覺得我們路上需要停幾次？ B：油箱裡的【燃料】足夠跑大約六百公里，所以我們應該只需要短暫停一次，同時還可以買咖啡和點心。",
+    "collocation": "fuel costs 燃料費用"
+   },
+   {
+    "word": "petrol",
+    "pos": "n.",
+    "en_def": "the British word for gasoline, the liquid fuel for cars",
+    "cn_def": "汽油",
+    "sentence": "A: The company is paying for our travel expenses during the sales tour around the island, so do I need to keep every receipt from the gas station? B: Yes, please keep them all, because the accounting department will only pay you back for the {{BLANK}} if you attach the original receipts to your expense report.",
+    "cn": "A：公司會支付我們環島業務之旅的差旅費，那我需要保留加油站的每一張收據嗎？ B：是的，請全部保留，因為只有你在費用報告上附上收據正本，會計部才會退還你的【汽油】費用。",
+    "collocation": "a petrol station 加油站"
+   },
+   {
+    "word": "diesel",
+    "pos": "n.",
+    "en_def": "a heavy fuel used in many trucks, buses and some cars",
+    "cn_def": "柴油",
+    "sentence": "A: Our moving company is planning to replace the old trucks next year, so are you going to choose the same type of fuel as before or try something different? B: We will probably stay with {{BLANK}} for the heavy trucks because it gives them more power on long trips, but the small vans may become fully electric.",
+    "cn": "A：我們搬家公司打算明年汰換舊卡車，你們會選擇和以前一樣的燃料，還是嘗試不同的？ B：重型卡車我們可能會繼續用【柴油】，因為它在長途行駛時提供更大的動力，但小型廂型車可能會全面改為電動。",
+    "collocation": "a diesel truck 柴油卡車"
+   },
+   {
+    "word": "electric",
+    "pos": "adj.",
+    "en_def": "using electricity for power",
+    "cn_def": "電動的",
+    "sentence": "A: The city government is offering money to companies that reduce air pollution this year, so should we think about changing the vehicles we use for deliveries? B: That is a great idea, because an {{BLANK}} van does not need gasoline, it is much quieter in busy streets, and charging it overnight at the warehouse is quite cheap.",
+    "cn": "A：市政府今年提供補助給減少空氣汙染的公司，我們是否該考慮更換送貨用的車輛？ B：這是個好主意，因為【電動】廂型車不需要汽油，在繁忙的街道上安靜得多，而且晚上在倉庫充電也相當便宜。",
+    "collocation": "an electric car 電動車"
+   },
+   {
+    "word": "battery",
+    "pos": "n.",
+    "en_def": "an object that stores electricity to start a car or run a machine",
+    "cn_def": "電瓶；電池",
+    "sentence": "A: I tried to start my car in the parking lot after the late meeting last night, but nothing happened at all, even though the lights had been switched off. B: That usually means the {{BLANK}} is dead, so you should ask a coworker to help you with jump leads or call the roadside assistance number.",
+    "cn": "A：昨晚開完很晚的會後，我在停車場想發動車子，但完全沒反應，雖然車燈都已經關掉了。 B：那通常表示【電瓶】沒電了，你應該請同事用救車線幫忙，或打道路救援電話。",
+    "collocation": "a dead battery 沒電的電瓶"
+   },
+   {
+    "word": "brake",
+    "pos": "v.",
+    "en_def": "to make a vehicle slow down or stop",
+    "cn_def": "煞車",
+    "sentence": "A: When you were driving the company van down that steep hill in the rain yesterday afternoon, did you notice anything strange about how it handled the road? B: Yes, I had to {{BLANK}} much harder than usual to slow down before the traffic lights, so I think the pedals need to be checked as soon as possible.",
+    "cn": "A：昨天下午你在雨中開公司廂型車下那個陡坡時，有沒有注意到車子的操控有什麼奇怪的地方？ B：有，我必須比平常更用力【煞車】才能在紅綠燈前減速，所以我認為踏板需要盡快檢查。",
+    "collocation": "brake suddenly 突然煞車"
+   },
+   {
+    "word": "accelerate",
+    "pos": "v.",
+    "en_def": "to make a vehicle go faster",
+    "cn_def": "加速",
+    "sentence": "A: I am a little nervous about driving on the highway for the first time with my new job, so do you have any advice for joining the fast lane? B: When you enter from the ramp, you need to {{BLANK}} smoothly until you match the speed of the other cars, and always check your mirrors before you change lanes.",
+    "cn": "A：新工作讓我第一次要開上高速公路，我有點緊張，你對切入快車道有什麼建議嗎？ B：從匝道進入時，你需要平穩地【加速】直到跟上其他車的速度，而且變換車道前一定要看後照鏡。",
+    "collocation": "accelerate quickly 快速加速"
+   },
+   {
+    "word": "steer",
+    "pos": "v.",
+    "en_def": "to control the direction a vehicle goes",
+    "cn_def": "駕駛；操控方向",
+    "sentence": "A: The rental company gave us a very large van for moving the office furniture this weekend, and I have only ever driven small cars, so is it difficult? B: It is not too bad, but you must {{BLANK}} slowly and carefully around corners, because the back of the van needs much more space than you might expect.",
+    "cn": "A：租車公司給了我們一台很大的廂型車，這週末用來搬辦公室家具，而我只開過小車，這會很難嗎？ B：還好，但轉彎時你必須慢慢地、小心地【操控方向】，因為廂型車的後半部需要的空間比你想像的多得多。",
+    "collocation": "steer the car carefully 小心地駕駛車子"
+   },
+   {
+    "word": "wheel",
+    "pos": "n.",
+    "en_def": "one of the round parts under a car that turn so it can move",
+    "cn_def": "車輪",
+    "sentence": "A: Why did the delivery driver arrive almost two hours late this afternoon when the customer had been waiting since lunch? B: He said a nail went through one of the front tires on the highway, so he had to stop at the side of the road and change the {{BLANK}} by himself before he could continue.",
+    "cn": "A：客戶從午餐時間就在等，為什麼送貨司機今天下午遲到將近兩個小時？ B：他說在高速公路上有根釘子刺穿了一個前輪胎，所以他得停在路邊自己換【車輪】才能繼續上路。",
+    "collocation": "change a wheel 更換車輪"
+   },
+   {
+    "word": "tire",
+    "pos": "n.",
+    "en_def": "the rubber ring around a wheel that is filled with air",
+    "cn_def": "輪胎",
+    "sentence": "A: The company minibus feels a bit unsteady when I drive it at high speed on the highway, and it seems to pull to the left, so what should I do? B: One {{BLANK}} probably does not have enough air in it, so stop at the next gas station and check the pressure on all four before you drive any further.",
+    "cn": "A：我在高速公路上高速駕駛公司的小巴時感覺有點不穩，而且好像會往左偏，我該怎麼辦？ B：可能有一個【輪胎】氣不足，所以在下一個加油站停下來，四個都檢查胎壓後再繼續開。",
+    "collocation": "a flat tire 洩氣的輪胎"
+   },
+   {
+    "word": "seat",
+    "pos": "n.",
+    "en_def": "a place where a person sits in a vehicle",
+    "cn_def": "座位",
+    "sentence": "A: I am driving three clients from the airport to the hotel tonight, and one of them is quite tall, so how can I make the trip more pleasant for him? B: Offer him the front passenger {{BLANK}}, because it has the most room for his legs, and he can enjoy the view of the city lights on the way.",
+    "cn": "A：我今晚要開車載三位客戶從機場到飯店，其中一位個子很高，我該怎麼讓他的車程更舒服？ B：讓他坐前面的副駕駛【座位】，因為那裡的腿部空間最大，而且他可以沿途欣賞城市的燈光。",
+    "collocation": "the passenger seat 副駕駛座"
+   },
+   {
+    "word": "seatbelt",
+    "pos": "n.",
+    "en_def": "a belt in a car that holds you in your seat for safety",
+    "cn_def": "安全帶",
+    "sentence": "A: Our new driving rules for staff say that everyone in a company car must follow certain safety steps, so what is the most important one? B: Before the car moves, the driver must make sure that every passenger, including those in the back, has fastened their {{BLANK}}, because it can save lives in an accident.",
+    "cn": "A：我們新的員工駕駛規定說，每個坐公司車的人都必須遵守某些安全步驟，最重要的是哪一個？ B：車子開動前，司機必須確認每位乘客，包括後座的人，都已經繫好【安全帶】，因為發生事故時它能救命。",
+    "collocation": "fasten your seatbelt 繫好安全帶"
+   },
+   {
+    "word": "dashboard",
+    "pos": "n.",
+    "en_def": "the panel in front of the driver that shows speed, fuel and other information",
+    "cn_def": "儀表板",
+    "sentence": "A: While I was driving to the branch office this morning, a small orange light suddenly came on in front of me, and I wasn't sure whether it was serious. B: If a warning light appears on the {{BLANK}}, you should check the owner's manual right away, because it might mean the engine oil is low.",
+    "cn": "A：今天早上我開車去分公司時，面前突然亮起一個橘色小燈，我不確定是否嚴重。 B：如果【儀表板】上出現警示燈，你應該立刻查看車主手冊，因為那可能表示引擎機油不足。",
+    "collocation": "a warning light on the dashboard 儀表板上的警示燈"
+   },
+   {
+    "word": "mirror",
+    "pos": "n.",
+    "en_def": "a piece of glass in a car that lets the driver see behind or beside",
+    "cn_def": "後照鏡",
+    "sentence": "A: I almost hit a motorcycle when I was turning right into the hotel entrance yesterday, and I still feel shaken about it, so what went wrong? B: Before you turn or change lanes, always look in the side {{BLANK}} and also turn your head, because motorcycles can hide in places you cannot easily see.",
+    "cn": "A：我昨天右轉進飯店入口時差點撞到一台機車，到現在還心有餘悸，是哪裡出了錯？ B：轉彎或變換車道前，一定要看側邊【後照鏡】，也要轉頭確認，因為機車可能躲在你不容易看到的地方。",
+    "collocation": "check the rear-view mirror 查看後視鏡"
+   },
+   {
+    "word": "headlight",
+    "pos": "n.",
+    "en_def": "one of the large lights at the front of a car",
+    "cn_def": "車頭燈",
+    "sentence": "A: I have to drive back from the factory late tonight after the inspection, and the country road there has no street lamps at all, so is that dangerous? B: Just drive slowly, and before you leave, ask the security guard to check that each {{BLANK}} is working, because you will need strong light to see the road clearly.",
+    "cn": "A：今晚檢查完後我得很晚才從工廠開車回來，那裡的鄉間道路完全沒有路燈，這樣危險嗎？ B：慢慢開就好，出發前請警衛幫你確認每一個【車頭燈】都正常運作，因為你需要強光才能看清楚路面。",
+    "collocation": "turn on the headlights 打開車頭燈"
+   },
+   {
+    "word": "license",
+    "pos": "n.",
+    "en_def": "an official card that shows you are allowed to drive",
+    "cn_def": "執照；駕照",
+    "sentence": "A: We are hiring a new sales assistant who will often visit customers by car, so what documents should we ask the candidates to bring to the interview? B: Besides their résumé, they must bring a valid driver's {{BLANK}}, and we should also ask how many years of driving experience they have on busy city roads.",
+    "cn": "A：我們要招聘一位常需要開車拜訪客戶的新業務助理，應該請應徵者帶哪些文件來面試？ B：除了履歷，他們還必須帶有效的駕駛【執照】，我們也應該問他們在繁忙市區道路有幾年的駕駛經驗。",
+    "collocation": "a driver's license 駕照"
+   },
+   {
+    "word": "traffic",
+    "pos": "n.",
+    "en_def": "the cars, buses and other vehicles moving on a road",
+    "cn_def": "交通；車流",
+    "sentence": "A: The meeting with the investors starts at nine o'clock tomorrow morning in the city center, so what time should we leave the office to get there? B: Let's leave by seven thirty, because the {{BLANK}} on the main road is always heavy during rush hour, and we don't want to arrive late and stressed.",
+    "cn": "A：明天早上九點在市中心和投資人開會，我們該幾點離開辦公室才能到？ B：我們七點半前出發吧，因為尖峰時段主要道路上的【車流】總是很多，我們不想遲到又緊張兮兮地抵達。",
+    "collocation": "heavy traffic 交通擁擠"
+   },
+   {
+    "word": "parking",
+    "pos": "n.",
+    "en_def": "space for leaving cars; the act of leaving a car somewhere for a time",
+    "cn_def": "停車；停車位",
+    "sentence": "A: Many visitors are coming to our product launch at the convention center on Saturday, so how will they find a place to leave their cars? B: The center has free {{BLANK}} for up to three hundred cars behind the main hall, and we will put clear signs at the entrance to guide drivers there.",
+    "cn": "A：週六會有很多訪客來會展中心參加我們的產品發表會，他們要怎麼找到地方放車？ B：會展中心主廳後方有可容納三百輛車的免費【停車位】，我們會在入口放置清楚的指標引導駕駛人過去。",
+    "collocation": "free parking 免費停車"
+   },
+   {
+    "word": "garage",
+    "pos": "n.",
+    "en_def": "a building where cars are kept or repaired",
+    "cn_def": "車庫；修車廠",
+    "sentence": "A: The weather report says there will be a strong typhoon this weekend with heavy rain and wind, so where should we keep the company cars? B: Please move all of them into the underground {{BLANK}} below the office building on Friday evening, because branches and flying objects could easily damage them outside.",
+    "cn": "A：氣象報告說這週末會有強烈颱風，伴隨大雨和強風，我們該把公司車放在哪裡？ B：請在週五傍晚把所有車都移到辦公大樓下方的地下【車庫】，因為在外面樹枝和飛落物很容易把它們弄壞。",
+    "collocation": "an underground garage 地下車庫"
+   },
+   {
+    "word": "service",
+    "pos": "v.",
+    "en_def": "to check and fix a vehicle or machine regularly so it keeps working well",
+    "cn_def": "保養；檢修",
+    "sentence": "A: Our delivery vans have traveled more than ten thousand kilometers since January, and two drivers say the brakes feel soft, so what should we do? B: We should {{BLANK}} all of them at the dealer next week, so the mechanics can check the oil, the brakes and the tires before any real problems appear.",
+    "cn": "A：我們的送貨車從一月以來已經跑了一萬多公里，有兩位司機說煞車感覺很軟，我們該怎麼辦？ B：我們下週應該把它們全部送到經銷商那裡【保養】，讓技師在真正出問題之前檢查機油、煞車和輪胎。",
+    "collocation": "have the car serviced 把車送去保養"
+   },
+   {
+    "word": "repair",
+    "pos": "v.",
+    "en_def": "to fix something that is broken or damaged",
+    "cn_def": "修理",
+    "sentence": "A: Someone backed into my car in the shopping mall parking lot on Sunday and broke the back door, so how long will it take to fix? B: The body shop told me they can {{BLANK}} the damage in about three days, and the insurance company will pay for most of the cost because the other driver admitted it.",
+    "cn": "A：週日有人在購物中心停車場倒車撞到我的車，撞壞了後車門，要多久才能修好？ B：鈑金廠告訴我他們大約三天就能【修理】好損壞的地方，而且因為對方駕駛承認了，保險公司會支付大部分費用。",
+    "collocation": "repair the damage 修復損壞"
+   },
+   {
+    "word": "speed",
+    "pos": "n.",
+    "en_def": "how fast something moves",
+    "cn_def": "速度",
+    "sentence": "A: I got a ticket in the mail this morning for driving too fast near the school on my way to the office last month, and I'm very surprised. B: The {{BLANK}} limit on that street is only thirty kilometers per hour during school hours, and there is a camera hidden near the crossing.",
+    "cn": "A：今天早上我收到一張罰單，是上個月上班途中在學校附近開太快，我非常驚訝。 B：那條街在上學時段的【速度】限制只有每小時三十公里，而且斑馬線附近藏了一台測速相機。",
+    "collocation": "the speed limit 速限"
+   },
+   {
+    "word": "model",
+    "pos": "n.",
+    "en_def": "a particular type or version of a product",
+    "cn_def": "車款；型號",
+    "sentence": "A: The sales manager wants to replace her old company car with something more modern this year, so which car is she thinking about buying? B: She likes the latest {{BLANK}} from the Japanese maker, because it has a bigger trunk for her samples, better fuel economy, and a smart system that connects to her phone.",
+    "cn": "A：業務經理今年想把她的舊公司車換成更現代化的車，她考慮買哪一台？ B：她喜歡那家日本車廠的最新【車款】，因為它的後車廂更大可以放樣品、更省油，還有能連接手機的智慧系統。",
+    "collocation": "the latest model 最新款"
+   },
+   {
+    "word": "used",
+    "pos": "adj.",
+    "en_def": "owned by someone before; not new",
+    "cn_def": "二手的",
+    "sentence": "A: Our small catering business needs a second van for weekend events, but we don't have a large budget this year, so what are our choices? B: We could buy a {{BLANK}} van from a trusted dealer, because it costs about half the price of a brand-new one, and many come with a one-year warranty.",
+    "cn": "A：我們的小型外燴公司週末活動需要第二台廂型車，但今年預算不多，我們有哪些選擇？ B：我們可以向信譽良好的車商買一台【二手】廂型車，因為價格大約是全新車的一半，而且很多附有一年保固。",
+    "collocation": "a used car 二手車"
+   },
+   {
+    "word": "new",
+    "pos": "adj.",
+    "en_def": "recently made or bought; not used before",
+    "cn_def": "新的",
+    "sentence": "A: I heard that the company finally replaced the old delivery trucks that kept breaking down last winter, so how do the drivers feel about it? B: They are very happy with the {{BLANK}} trucks, which arrived straight from the factory last week, because they are quieter, cleaner and much more reliable on long trips.",
+    "cn": "A：我聽說公司終於汰換了去年冬天一直故障的舊送貨卡車，司機們覺得怎麼樣？ B：他們對上週直接從工廠送來的【新】卡車非常滿意，因為它們更安靜、更乾淨，長途行駛也可靠得多。",
+    "collocation": "a brand-new car 全新的車"
+   },
+   {
+    "word": "safe",
+    "pos": "adj.",
+    "en_def": "not likely to cause harm or danger",
+    "cn_def": "安全的",
+    "sentence": "A: My elderly parents want to buy a car for their weekend trips to the countryside, and they asked me for advice, so what should they look for? B: They should choose a {{BLANK}} car with good airbags, automatic emergency braking and high test scores, because protecting the people inside matters more than style or speed.",
+    "cn": "A：我年邁的父母想買一台車週末去鄉下玩，他們問我的意見，他們應該注意什麼？ B：他們應該選擇一台有良好安全氣囊、自動緊急煞車和高測試分數的【安全】車款，因為保護車內的人比外型或速度更重要。",
+    "collocation": "a safe driver 安全駕駛的人"
+   },
+   {
+    "word": "comfortable",
+    "pos": "adj.",
+    "en_def": "making you feel relaxed and physically pleasant",
+    "cn_def": "舒適的",
+    "sentence": "A: The marketing team will drive six hours to the exhibition in Taichung and back on Friday, so which car should I reserve from the rental company? B: Please book the large sedan with soft leather seats and plenty of leg room, because it is much more {{BLANK}} for long trips than the small city car.",
+    "cn": "A：行銷團隊週五要開六個小時的車往返台中的展覽，我該向租車公司預訂哪一台車？ B：請預訂那台有柔軟皮椅和寬敞腿部空間的大型轎車，因為長途旅行時它比小型城市車【舒適】得多。",
+    "collocation": "a comfortable ride 舒適的乘坐體驗"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Only one _____ is allowed to park in front of each shop. Delivery trucks must use the loading area behind the building.",
+    "options": [
+     "vehicle",
+     "mirror",
+     "battery",
+     "headlight"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The mechanic opened the hood and found a problem with the _____. That is why the car would not start this morning.",
+    "options": [
+     "seat",
+     "engine",
+     "mirror",
+     "license"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "We almost ran out of _____ on the highway last night. Luckily, there was a gas station at the next exit.",
+    "options": [
+     "mirror",
+     "seatbelt",
+     "fuel",
+     "garage"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The price of _____ rose again this month in the UK. Many drivers there are now taking the train to work instead.",
+    "options": [
+     "dashboard",
+     "headlight",
+     "wheel",
+     "petrol"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Most large trucks run on _____ because it gives them more power. However, many cities now want cleaner fuels for heavy vehicles.",
+    "options": [
+     "seatbelt",
+     "diesel",
+     "garage",
+     "license"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Please do not leave the lights on when you park overnight. Last time, the _____ was completely dead the next morning.",
+    "options": [
+     "wheel",
+     "garage",
+     "model",
+     "battery"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The driver had to _____ suddenly when a dog ran across the road. Luckily, nobody was hurt and the car stopped in time.",
+    "options": [
+     "brake",
+     "accelerate",
+     "repair",
+     "service"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The driver hit a deep hole in the road, and the front _____ came loose. A tow truck took the car to the garage.",
+    "options": [
+     "license",
+     "traffic",
+     "wheel",
+     "speed"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "I heard a loud bang on the highway and pulled over. One _____ was completely flat, so I called for help.",
+    "options": [
+     "mirror",
+     "seat",
+     "model",
+     "tire"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The office has installed charging stations for staff who drive _____ cars. Charging is free during working hours.",
+    "options": [
+     "electric",
+     "used",
+     "safe",
+     "comfortable"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Please put your bag under the _____ in front of you. The bus will leave the station in about five minutes.",
+    "options": [
+     "traffic",
+     "fuel",
+     "seat",
+     "speed"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "When the light turns green, _____ slowly and smoothly. Pressing the pedal too hard wastes fuel and makes passengers uncomfortable.",
+    "options": [
+     "brake",
+     "accelerate",
+     "repair",
+     "service"
+    ],
+    "answer": 1,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Every passenger must wear a _____ during the ride, even in the back. The driver will not start until everyone is ready.",
+    "options": [
+     "dashboard",
+     "garage",
+     "seatbelt",
+     "petrol"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The new screen on the _____ shows the map and the speed. The driver can see it without looking away from the road.",
+    "options": [
+     "tire",
+     "fuel",
+     "garage",
+     "dashboard"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Before you back out of the space, check the rear-view _____. Children sometimes play near the cars in this lot.",
+    "options": [
+     "engine",
+     "mirror",
+     "fuel",
+     "license"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "It is hard to _____ a large truck through the narrow streets of the old town. Drivers need special training for this route.",
+    "options": [
+     "steer",
+     "repair",
+     "brake",
+     "service"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "One _____ on the company van is broken. Please fix it before the driver goes out on the night delivery route.",
+    "options": [
+     "petrol",
+     "headlight",
+     "traffic",
+     "diesel"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "New employees must show a valid driver's _____ before they use any company car. Copies are kept in the human resources office.",
+    "options": [
+     "battery",
+     "engine",
+     "license",
+     "fuel"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Buying a _____ car can save a lot of money. However, you should always ask about its history and previous owners.",
+    "options": [
+     "used",
+     "electric",
+     "new",
+     "comfortable"
+    ],
+    "answer": 0,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The bus was forty minutes late because of heavy _____ downtown. A truck had broken down in the middle of the main road.",
+    "options": [
+     "seatbelt",
+     "model",
+     "headlight",
+     "traffic"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The hotel offers free _____ for guests in the lot behind the building. Visitors must show their room key at the gate.",
+    "options": [
+     "parking",
+     "engine",
+     "wheel",
+     "dashboard"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The dealer recommends that you _____ your car every ten thousand kilometers. Regular checks keep the engine in good condition.",
+    "options": [
+     "accelerate",
+     "brake",
+     "steer",
+     "service"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "My car is at the _____ today because the brakes need repairing. The mechanic says I can pick it up tomorrow afternoon.",
+    "options": [
+     "mirror",
+     "garage",
+     "battery",
+     "speed"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The car is completely _____ and has never been driven by anyone before. It still has that fresh factory smell.",
+    "options": [
+     "used",
+     "electric",
+     "new",
+     "safe"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Drivers must reduce their _____ near schools and hospitals. The city has put up new cameras on several busy streets.",
+    "options": [
+     "garage",
+     "seatbelt",
+     "petrol",
+     "speed"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The mechanic said it will cost about five hundred dollars to _____ the broken door. The insurance company will pay most of it.",
+    "options": [
+     "accelerate",
+     "repair",
+     "steer",
+     "brake"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The newest _____ of this car will arrive in showrooms next month. It uses less fuel and has a larger trunk.",
+    "options": [
+     "traffic",
+     "mirror",
+     "model",
+     "parking"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Always keep a _____ distance from the car in front of you. You need enough space to stop if it brakes suddenly.",
+    "options": [
+     "safe",
+     "electric",
+     "used",
+     "new"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The bus seats are soft and wide, so the long ride feels _____. Passengers can also adjust the seats and rest their legs.",
+    "options": [
+     "electric",
+     "comfortable",
+     "used",
+     "new"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Please turn off the _____ while you wait in the loading area. Leaving it running wastes fuel and pollutes the air.",
+    "options": [
+     "seatbelt",
+     "garage",
+     "license",
+     "engine"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   }
+  ]
+ },
+ "45": {
+  "theme": "Career 職涯",
+  "source": "https://www.examword.com/group-topic/career",
+  "VOCAB": [
+   {
+    "word": "profession",
+    "pos": "n.",
+    "en_def": "a type of job that needs special training or education",
+    "cn_def": "職業；專業",
+    "sentence": "A: My niece is finishing her degree in health sciences next spring, but she still seems unsure about her future, so what advice did you give her at dinner last night? B: I told her that nursing is a respected {{BLANK}} with many chances to work abroad, and that hospitals in Taipei are always looking for caring, well-trained staff.",
+    "cn": "A：我外甥女明年春天就要拿到健康科學學位了，但她似乎對未來還不確定，你昨晚吃飯時給了她什麼建議？ B：我告訴她護理是一個受人尊敬、有很多出國工作機會的【職業】，而且台北的醫院一直在找有愛心、受過良好訓練的人員。",
+    "collocation": "enter the teaching profession 投身教職"
+   },
+   {
+    "word": "occupation",
+    "pos": "n.",
+    "en_def": "a person's job or regular work",
+    "cn_def": "職業",
+    "sentence": "A: The bank's loan application asks for a lot of personal details, so what should I write in the box near the bottom of the second page? B: That box is for your {{BLANK}}, so just write \"accountant,\" and then add the name of your company and how many years you have worked there.",
+    "cn": "A：銀行的貸款申請表要填很多個人資料，第二頁底部附近的那一格我該寫什麼？ B：那一格是填你的【職業】，就寫「會計師」，然後再加上你公司的名稱以及你在那裡工作了幾年。",
+    "collocation": "state your occupation on the form 在表格上填寫職業"
+   },
+   {
+    "word": "job",
+    "pos": "n.",
+    "en_def": "work that you do regularly to earn money",
+    "cn_def": "工作",
+    "sentence": "A: You looked really tired at the team meeting this morning, so is everything all right with your new role in the marketing department? B: I'm fine, but the {{BLANK}} keeps me busier than I expected, because I have to write reports, answer client emails, and plan two product launches before the end of the month.",
+    "cn": "A：你今天早上開團隊會議時看起來很累，你在行銷部的新職務一切都還好嗎？ B：我很好，只是這份【工作】比我預期的還要忙，因為我得寫報告、回覆客戶郵件，還要在月底前規劃兩場產品發表會。",
+    "collocation": "apply for a full-time job 應徵全職工作"
+   },
+   {
+    "word": "position",
+    "pos": "n.",
+    "en_def": "a job in a company or organization",
+    "cn_def": "職位",
+    "sentence": "A: I saw that the hotel downtown is hiring again this month, so are you thinking about sending them your application before the deadline on Friday? B: Yes, they have an open {{BLANK}} at the front desk, and since I speak English and Japanese well, I think I have a good chance of getting it.",
+    "cn": "A：我看到市中心那家飯店這個月又在徵人了，你打算在星期五截止前寄申請給他們嗎？ B：是的，他們櫃檯有一個空缺的【職位】，而且我英文和日文都說得不錯，我覺得我很有機會錄取。",
+    "collocation": "fill a vacant position 填補職缺"
+   },
+   {
+    "word": "employment",
+    "pos": "n.",
+    "en_def": "the state of having paid work",
+    "cn_def": "就業；受雇",
+    "sentence": "A: Many students in my evening class will graduate this summer, so do you know what kind of support the city government offers to young people looking for work? B: The local {{BLANK}} center runs free workshops every Saturday, where career advisers help graduates write cover letters, practice answering questions, and search for suitable openings online.",
+    "cn": "A：我夜間班的很多學生今年夏天就要畢業了，你知道市政府為找工作的年輕人提供哪些協助嗎？ B：當地的【就業】服務中心每週六都有免費工作坊，職涯顧問會協助畢業生寫求職信、練習回答問題，並在網路上搜尋合適的職缺。",
+    "collocation": "find full-time employment 找到全職工作"
+   },
+   {
+    "word": "employer",
+    "pos": "n.",
+    "en_def": "a person or company that pays people to work for them",
+    "cn_def": "雇主",
+    "sentence": "A: You have worked at the same electronics company for almost twelve years now, so what makes you stay there when so many other firms offer higher pay? B: My {{BLANK}} treats people fairly, provides excellent health insurance, and even pays for evening classes, so I feel valued and have never wanted to leave.",
+    "cn": "A：你在同一家電子公司已經工作快十二年了，有那麼多公司開出更高的薪水，是什麼讓你留下來？ B：我的【雇主】待人公平，提供很好的健康保險，甚至幫我們付夜間課程的學費，所以我覺得被重視，從來沒想過要離開。",
+    "collocation": "a fair and generous employer 公平又大方的雇主"
+   },
+   {
+    "word": "employee",
+    "pos": "n.",
+    "en_def": "a person who is paid to work for a company",
+    "cn_def": "員工",
+    "sentence": "A: The manager gave a special award at the year-end party last night, so who received it, and why did everyone clap so loudly? B: It went to a quiet {{BLANK}} from the shipping department who worked extra hours during the busy season and helped train three new team members without being asked.",
+    "cn": "A：經理昨晚在尾牙上頒了一個特別獎，是誰得獎了？為什麼大家拍手拍得那麼大聲？ B：得獎的是出貨部一位安靜的【員工】，他在旺季時加班，而且主動幫忙訓練了三位新同事。",
+    "collocation": "a hard-working employee 勤奮的員工"
+   },
+   {
+    "word": "salary",
+    "pos": "n.",
+    "en_def": "fixed money paid to a worker, usually every month",
+    "cn_def": "薪水（月薪；年薪）",
+    "sentence": "A: The software company in Hsinchu offered you the job yesterday, so are you going to accept it, or are you still comparing it with the other offer? B: I'm probably going to accept, because the monthly {{BLANK}} is twenty percent higher than what I earn now, and they also give a bonus at the end of the year.",
+    "cn": "A：新竹那家軟體公司昨天錄取你了，你要接受嗎？還是還在跟另一個工作機會比較？ B：我大概會接受，因為每個月的【薪水】比我現在多百分之二十，而且年底還有獎金。",
+    "collocation": "negotiate a higher salary 爭取更高的薪水"
+   },
+   {
+    "word": "wage",
+    "pos": "n.",
+    "en_def": "money paid per hour or day for work",
+    "cn_def": "工資（時薪；日薪）",
+    "sentence": "A: Many part-time workers at the supermarket have been complaining recently, so what exactly are they unhappy about? B: They say their hourly {{BLANK}} hasn't gone up in three years, even though rent and food prices have risen, so they want the owner to discuss a fair increase with them next week.",
+    "cn": "A：超市很多兼職員工最近一直在抱怨，他們到底在不滿什麼？ B：他們說雖然房租和食物都漲價了，但他們的時薪【工資】三年來都沒調漲，所以希望老闆下週和他們討論合理的加薪。",
+    "collocation": "the minimum wage 基本工資"
+   },
+   {
+    "word": "promotion",
+    "pos": "n.",
+    "en_def": "a move to a higher, more important job",
+    "cn_def": "升遷；晉升",
+    "sentence": "A: Jessica has been working late almost every night and taking extra training courses, so is she preparing for something special at work? B: Yes, she hopes to get a {{BLANK}} to sales manager next spring, because the current manager is moving to the Singapore office and the director wants someone from inside the team.",
+    "cn": "A：Jessica幾乎每晚都加班，還額外上培訓課程，她是在為工作上什麼特別的事做準備嗎？ B：是的，她希望明年春天能【升遷】為業務經理，因為現任經理要調到新加坡辦公室，而主管希望從團隊內部找人接任。",
+    "collocation": "get a promotion to manager 升為經理"
+   },
+   {
+    "word": "experience",
+    "pos": "n.",
+    "en_def": "knowledge or skill you get from doing a job",
+    "cn_def": "經驗",
+    "sentence": "A: We received over fifty applications for the accounting role, so how are we going to choose the five people to interview next week? B: Let's first look for candidates with at least three years of {{BLANK}} in a large firm, and then compare their language ability and the software they can use.",
+    "cn": "A：會計職缺我們收到超過五十份申請，要怎麼選出下週面試的五個人？ B：我們先找在大公司有至少三年【經驗】的應徵者，然後再比較他們的語言能力和會用的軟體。",
+    "collocation": "gain work experience 獲得工作經驗"
+   },
+   {
+    "word": "skill",
+    "pos": "n.",
+    "en_def": "an ability to do something well because you have practiced it",
+    "cn_def": "技能",
+    "sentence": "A: The new customer service team will start answering calls on Monday, so what is the most important thing they should learn during training this week? B: Listening carefully is the key {{BLANK}}, because angry customers calm down quickly when they feel understood, and then our staff can solve the problem much more easily.",
+    "cn": "A：新的客服團隊星期一就要開始接電話了，這週培訓期間他們最該學的是什麼？ B：仔細聆聽是關鍵【技能】，因為生氣的顧客覺得被理解時會很快冷靜下來，這樣我們的員工就能更輕鬆地解決問題。",
+    "collocation": "develop communication skills 培養溝通技能"
+   },
+   {
+    "word": "qualification",
+    "pos": "n.",
+    "en_def": "an exam or course result that shows you can do a job",
+    "cn_def": "資格；證照",
+    "sentence": "A: I'd love to teach English at a public high school after I move back to Taiwan, so what do I need to prepare before applying? B: You'll need a teaching {{BLANK}} from a recognized university, a good English test score, and some classroom practice, so start collecting your documents as early as possible.",
+    "cn": "A：我搬回台灣後很想在公立高中教英文，申請之前我需要準備什麼？ B：你需要一所認可大學核發的教師【資格】、不錯的英文檢定成績，以及一些實際教學經驗，所以盡早開始準備文件吧。",
+    "collocation": "a professional qualification 專業資格"
+   },
+   {
+    "word": "training",
+    "pos": "n.",
+    "en_def": "teaching people the skills for a job",
+    "cn_def": "培訓；訓練",
+    "sentence": "A: The factory is installing new machines next month, so how will the workers learn to use them safely without slowing down production? B: The supplier will send two engineers to give every shift three days of hands-on {{BLANK}}, and they will also leave a detailed manual in Chinese for later reference.",
+    "cn": "A：工廠下個月要安裝新機器，工人要怎麼在不拖慢生產的情況下學會安全操作？ B：供應商會派兩位工程師為每個班次提供三天的實作【培訓】，還會留下一份詳細的中文手冊供日後參考。",
+    "collocation": "attend a training session 參加培訓課程"
+   },
+   {
+    "word": "resume",
+    "pos": "n.",
+    "en_def": "a document listing your education and work history",
+    "cn_def": "履歷",
+    "sentence": "A: I'm applying for a design job at an advertising agency next week, so could you look at my documents and tell me what to improve? B: Your {{BLANK}} is too long, so cut it down to one page, put your best projects at the top, and remove the part-time jobs you had in high school.",
+    "cn": "A：我下週要應徵一家廣告公司的設計工作，你可以看看我的資料，告訴我哪裡要改進嗎？ B：你的【履歷】太長了，刪減到一頁，把最好的作品放在最上面，並拿掉你高中時做過的打工。",
+    "collocation": "update your resume 更新履歷"
+   },
+   {
+    "word": "interview",
+    "pos": "n.",
+    "en_def": "a formal meeting where an employer asks a job seeker questions",
+    "cn_def": "面試",
+    "sentence": "A: You're wearing a suit today, and you keep checking your watch, so do you have an important meeting with a client this afternoon? B: Not exactly, I have a job {{BLANK}} with a bank at two o'clock, and I'm nervous because they will ask me questions in English in front of three managers.",
+    "cn": "A：你今天穿西裝，又一直看手錶，下午是要跟客戶開重要的會嗎？ B：不完全是，我兩點要去一家銀行【面試】，我很緊張，因為他們會在三位經理面前用英文問我問題。",
+    "collocation": "prepare for a job interview 準備工作面試"
+   },
+   {
+    "word": "hire",
+    "pos": "v.",
+    "en_def": "to give someone a job",
+    "cn_def": "雇用",
+    "sentence": "A: Our online orders have doubled since the holiday sale started, and the warehouse staff are exhausted, so what is the boss planning to do about it? B: She has decided to {{BLANK}} five temporary workers until the end of January, so the regular team can rest and customers can still receive their packages on time.",
+    "cn": "A：假期特賣開始後我們的網路訂單翻倍了，倉庫員工都累壞了，老闆打算怎麼處理？ B：她決定【雇用】五名臨時工到一月底，這樣正職團隊可以休息，顧客也能準時收到包裹。",
+    "collocation": "hire new staff 雇用新員工"
+   },
+   {
+    "word": "fire",
+    "pos": "v.",
+    "en_def": "to make someone leave their job, usually as a punishment",
+    "cn_def": "開除；解雇",
+    "sentence": "A: I heard that the new cashier at the downtown branch suddenly stopped coming to work, so did she quit, or did something happen? B: The manager had to {{BLANK}} her after she was caught taking money from the register twice, even though he had given her a clear warning the first time.",
+    "cn": "A：聽說市區分店的新收銀員突然不來上班了，她是辭職了，還是發生了什麼事？ B：她被抓到兩次從收銀機拿錢，經理只好【開除】她，即使第一次他已經明確警告過她了。",
+    "collocation": "fire an employee 開除員工"
+   },
+   {
+    "word": "success",
+    "pos": "n.",
+    "en_def": "achieving what you planned or wanted",
+    "cn_def": "成功",
+    "sentence": "A: Your bakery has opened three new shops in the past two years, so what do you think is the main reason customers keep coming back? B: Much of our {{BLANK}} comes from using fresh local ingredients and listening to feedback, because we change the menu whenever regular customers suggest something new and interesting.",
+    "cn": "A：你的麵包店過去兩年開了三家新店，你覺得顧客一再回訪的主要原因是什麼？ B：我們的【成功】大多來自使用新鮮的在地食材並傾聽意見，因為只要熟客提出新奇有趣的建議，我們就會調整菜單。",
+    "collocation": "the key to success 成功的關鍵"
+   },
+   {
+    "word": "ambition",
+    "pos": "n.",
+    "en_def": "a strong wish to achieve something",
+    "cn_def": "抱負；雄心",
+    "sentence": "A: Your younger brother just started his first job as a sales assistant, so what kind of future does he hope to have in the company? B: His biggest {{BLANK}} is to open his own sporting goods store one day, so he is learning everything he can about buying, pricing, and managing staff while he works there.",
+    "cn": "A：你弟弟剛開始他的第一份工作當銷售助理，他希望在公司裡有什麼樣的未來？ B：他最大的【抱負】是有一天開自己的運動用品店，所以他在那裡工作時盡可能學習採購、定價和管理員工的一切。",
+    "collocation": "achieve a lifelong ambition 實現畢生抱負"
+   },
+   {
+    "word": "goal",
+    "pos": "n.",
+    "en_def": "something you are trying to achieve",
+    "cn_def": "目標",
+    "sentence": "A: The sales team had a difficult first half of the year, so what did the director say at the planning meeting this morning? B: She set a clear {{BLANK}} of winning ten new corporate clients by December, and she promised a team trip to Japan if we reach it before the holidays.",
+    "cn": "A：業務團隊上半年很辛苦，主管今天早上在規劃會議上說了什麼？ B：她訂了一個明確的【目標】，要在十二月前爭取到十家新的企業客戶，還承諾如果我們在假期前達成，就招待團隊去日本旅遊。",
+    "collocation": "reach a sales goal 達成銷售目標"
+   },
+   {
+    "word": "path",
+    "pos": "n.",
+    "en_def": "a series of steps or choices that lead somewhere, such as in a career",
+    "cn_def": "道路；（職涯）路線",
+    "sentence": "A: You studied engineering at university, but now you work in human resources, so how did you end up in such a different field? B: My career {{BLANK}} changed after I organized training events at my first company, because I discovered that I enjoyed helping people grow much more than designing machines.",
+    "cn": "A：你大學念工程，現在卻在人資部門工作，你怎麼會走進這麼不同的領域？ B：我在第一家公司籌辦培訓活動後，職涯【道路】就改變了，因為我發現比起設計機器，我更喜歡幫助別人成長。",
+    "collocation": "choose a career path 選擇職涯道路"
+   },
+   {
+    "word": "opportunity",
+    "pos": "n.",
+    "en_def": "a chance to do something good",
+    "cn_def": "機會",
+    "sentence": "A: The head office in London has invited two staff members from our branch to work there for six months, so are you going to apply? B: Definitely, because it's a great {{BLANK}} to improve my English, learn how a global team works, and build connections that could help my career later.",
+    "cn": "A：倫敦總公司邀請我們分公司兩位員工去那裡工作六個月，你要申請嗎？ B：當然，因為這是提升英文、了解國際團隊如何運作，以及建立日後對職涯有幫助的人脈的好【機會】。",
+    "collocation": "a great career opportunity 絕佳的職涯機會"
+   },
+   {
+    "word": "balance",
+    "pos": "n.",
+    "en_def": "a healthy mix of different parts, such as work and private life",
+    "cn_def": "平衡",
+    "sentence": "A: You used to stay at the office until ten every night, but lately you leave at six, so what made you change your routine? B: I realized I needed a better {{BLANK}} between work and family, so now I finish my tasks earlier, have dinner with my kids, and go jogging on weekends.",
+    "cn": "A：你以前每晚都在辦公室待到十點，最近卻六點就下班，是什麼讓你改變作息？ B：我發現我需要在工作和家庭之間取得更好的【平衡】，所以現在我提早完成工作，和孩子一起吃晚餐，週末去慢跑。",
+    "collocation": "work-life balance 工作與生活的平衡"
+   },
+   {
+    "word": "retire",
+    "pos": "v.",
+    "en_def": "to stop working, usually because you are older",
+    "cn_def": "退休",
+    "sentence": "A: Mr. Lin has managed the accounting department for almost thirty years, so is it true that the company is planning a big farewell party for him? B: Yes, he will {{BLANK}} at the end of March so he can travel around Europe with his wife, and the staff are collecting money to buy him a nice camera.",
+    "cn": "A：林先生管理會計部將近三十年了，公司真的要為他辦一場盛大的歡送會嗎？ B：是的，他三月底就要【退休】了，好和太太去歐洲旅行，員工們正在集資買一台好相機送他。",
+    "collocation": "retire early 提早退休"
+   },
+   {
+    "word": "long-term",
+    "pos": "adj.",
+    "en_def": "lasting or planned for a long time",
+    "cn_def": "長期的",
+    "sentence": "A: The startup offered me a higher salary than my current company, but I'm worried because it's so new, so what do you think I should do? B: Think about your {{BLANK}} plans first, because if you want to stay in one place for many years and buy a home, a stable company might be the safer choice.",
+    "cn": "A：那家新創公司開的薪水比我現在的公司高，但我擔心它太新了，你覺得我該怎麼做？ B：先想想你的【長期】計畫，因為如果你想在一個地方待很多年並買房子，穩定的公司可能是比較安全的選擇。",
+    "collocation": "a long-term contract 長期合約"
+   },
+   {
+    "word": "stable",
+    "pos": "adj.",
+    "en_def": "not likely to change; steady",
+    "cn_def": "穩定的",
+    "sentence": "A: Your sister left her exciting job at a travel startup to work for the city government, so why did she make such a big change? B: After her son was born, she wanted a {{BLANK}} income with regular hours, so she chose a government office where the pay is lower but she never worries about losing her job.",
+    "cn": "A：你姊姊離開了旅遊新創公司那份刺激的工作，去市政府上班，她為什麼要做這麼大的改變？ B：她兒子出生後，她想要有【穩定的】收入和規律的工時，所以選擇了政府機關，雖然薪水較低，但她從不擔心失業。",
+    "collocation": "a stable income 穩定的收入"
+   },
+   {
+    "word": "rewarding",
+    "pos": "adj.",
+    "en_def": "making you feel satisfied and happy",
+    "cn_def": "有意義的；有成就感的",
+    "sentence": "A: You gave up a well-paid position at a bank to teach science at a rural elementary school, so do you ever regret that decision? B: Not at all, because the work is very {{BLANK}}, and seeing my students get excited about experiments every week makes me happier than any bonus I received at the bank.",
+    "cn": "A：你放棄銀行的高薪職位，去鄉下的小學教自然科學，你曾後悔過這個決定嗎？ B：一點也不，因為這份工作很【有成就感】，每週看到學生對實驗感到興奮，比我在銀行領過的任何獎金都讓我開心。",
+    "collocation": "a rewarding career 有成就感的職涯"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Law is a demanding _____ that requires years of study. Many lawyers in this city work more than sixty hours a week.",
+    "options": [
+     "profession",
+     "salary",
+     "resume",
+     "balance"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Please write your name, address, and _____ on the registration form. The hotel needs this information for its guest records.",
+    "options": [
+     "path",
+     "success",
+     "occupation",
+     "training"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "After graduating, Tom found a _____ at a shipping company near the harbor. He works there five days a week.",
+    "options": [
+     "salary",
+     "job",
+     "goal",
+     "skill"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The hospital has advertised a _____ for a night-shift receptionist. Applicants should send their documents by email before Friday.",
+    "options": [
+     "ambition",
+     "balance",
+     "success",
+     "position"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The new factory will create _____ for nearly two hundred local residents. The mayor said it will help the town's economy.",
+    "options": [
+     "resume",
+     "qualification",
+     "employment",
+     "ambition"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Your _____ must give you a written contract before your first day of work. The contract should list your hours and pay.",
+    "options": [
+     "employer",
+     "employee",
+     "resume",
+     "interview"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Each new _____ receives a company ID card and a laptop on the first day. The IT team also sets up their email account.",
+    "options": [
+     "employer",
+     "salary",
+     "path",
+     "employee"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The bank pays its managers a monthly _____ of about ninety thousand dollars. Bonuses are paid separately in February.",
+    "options": [
+     "goal",
+     "salary",
+     "training",
+     "path"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Restaurant staff here earn an hourly _____ of 200 dollars plus tips. Many students work there in the evenings.",
+    "options": [
+     "wage",
+     "ambition",
+     "interview",
+     "qualification"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Mark received a _____ to team leader after only two years with the company. His manager praised his hard work and leadership.",
+    "options": [
+     "resume",
+     "wage",
+     "balance",
+     "promotion"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Applicants should have at least two years of _____ in customer service. Those who have worked in hotels are preferred.",
+    "options": [
+     "ambition",
+     "employer",
+     "experience",
+     "salary"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Typing quickly is a useful _____ for anyone who works in an office. Our free course helps adults practice it online.",
+    "options": [
+     "employer",
+     "skill",
+     "wage",
+     "resume"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "A nursing license is the most important _____ for this hospital job. Without it, applicants cannot be considered.",
+    "options": [
+     "salary",
+     "ambition",
+     "balance",
+     "qualification"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "All new drivers must complete two weeks of safety _____ before they carry passengers. The course includes both classroom and road practice.",
+    "options": [
+     "training",
+     "employer",
+     "wage",
+     "ambition"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Please email your _____ and a short cover letter to the HR department. We will contact suitable candidates within ten days.",
+    "options": [
+     "ambition",
+     "resume",
+     "wage",
+     "balance"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Candidates who pass the written test will be invited to a face-to-face _____ next week. Each meeting will last about thirty minutes.",
+    "options": [
+     "salary",
+     "path",
+     "interview",
+     "skill"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The restaurant plans to _____ three more cooks before the summer season begins. The owner expects many tourists this year.",
+    "options": [
+     "fire",
+     "hire",
+     "retire",
+     "balance"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The company decided to _____ the driver who repeatedly arrived late and damaged a truck. He had already received two warnings.",
+    "options": [
+     "hire",
+     "retire",
+     "balance",
+     "fire"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The new product was a huge _____, selling over ten thousand units in its first week. The team celebrated with dinner.",
+    "options": [
+     "success",
+     "wage",
+     "resume",
+     "employer"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Her _____ is to become the first woman to lead the company. She works hard and studies business at night.",
+    "options": [
+     "salary",
+     "wage",
+     "ambition",
+     "resume"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Our _____ this quarter is to increase online sales by fifteen percent. Every department has been asked to share ideas.",
+    "options": [
+     "employee",
+     "wage",
+     "resume",
+     "goal"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Choosing the right career _____ can be difficult for new graduates. Our advisers can help you compare different fields.",
+    "options": [
+     "wage",
+     "path",
+     "employer",
+     "interview"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Working at the overseas branch is a great _____ to learn about other cultures. Interested staff should talk to their managers.",
+    "options": [
+     "wage",
+     "resume",
+     "opportunity",
+     "employer"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Flexible hours help employees keep a healthy _____ between work and family life. Many staff now finish early on Fridays.",
+    "options": [
+     "balance",
+     "wage",
+     "resume",
+     "qualification"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Mr. Chen plans to _____ next year after working at the post office for forty years. He wants to spend time gardening.",
+    "options": [
+     "hire",
+     "fire",
+     "retire",
+     "balance"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The two companies signed a _____ agreement that will last until 2036. Both sides wanted to avoid renewing it every year.",
+    "options": [
+     "rewarding",
+     "long-term",
+     "stable",
+     "success"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Government jobs offer a _____ income, so many young people prefer them. Workers rarely lose their positions, even in hard times.",
+    "options": [
+     "rewarding",
+     "long-term",
+     "success",
+     "stable"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Volunteering at the children's hospital was very _____ for our staff. Many said it was the most meaningful day of the year.",
+    "options": [
+     "rewarding",
+     "long-term",
+     "stable",
+     "opportunity"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Sales staff who reach their targets three times in a row are considered for _____. The next review takes place in June.",
+    "options": [
+     "wage",
+     "promotion",
+     "resume",
+     "employer"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The internship gave Amy the _____ to work with experienced designers. She later accepted a full-time offer from the firm.",
+    "options": [
+     "wage",
+     "resume",
+     "employer",
+     "opportunity"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   }
+  ]
+ },
+ "46": {
+  "theme": "Celebration 慶祝",
+  "source": "https://www.examword.com/group-topic/celebration",
+  "VOCAB": [
+   {
+    "word": "celebrate",
+    "pos": "v.",
+    "en_def": "to do something enjoyable because of a special event",
+    "cn_def": "慶祝",
+    "sentence": "A: Our sales team finally reached its yearly target last Friday, so how is the manager planning to thank everyone for all the extra hours? B: She has booked a private room at an Italian restaurant downtown, and we will {{BLANK}} the success with dinner and a short speech next Thursday evening.",
+    "cn": "A：我們銷售團隊上週五終於達成年度目標，經理打算怎麼感謝大家加了那麼多班？ B：她在市中心一家義大利餐廳訂了包廂，下週四晚上我們會用晚餐和簡短致詞來【慶祝】這次的成功。",
+    "collocation": "celebrate the success 慶祝成功"
+   },
+   {
+    "word": "festival",
+    "pos": "n.",
+    "en_def": "a special event or time with performances, food, or celebrations",
+    "cn_def": "節慶；節日活動",
+    "sentence": "A: The hotels in the city center are almost fully booked for the second week of October, so do you know why so many visitors are coming? B: The annual food {{BLANK}} is taking place along the river that week, and thousands of tourists usually arrive to try dishes from over fifty local restaurants.",
+    "cn": "A：市中心的飯店十月第二週幾乎都客滿了，你知道為什麼有這麼多遊客要來嗎？ B：那週河岸邊會舉辦一年一度的美食【節】，通常有成千上萬的遊客前來品嚐五十多家在地餐廳的料理。",
+    "collocation": "an annual food festival 一年一度的美食節"
+   },
+   {
+    "word": "party",
+    "pos": "n.",
+    "en_def": "a social event where people meet to eat, drink, and have fun",
+    "cn_def": "派對",
+    "sentence": "A: Mr. Chen is retiring at the end of this month after working here for thirty years, so is the department doing anything special for him? B: Yes, we are organizing a surprise farewell {{BLANK}} in the staff lounge on his last afternoon, and his family has secretly agreed to join us.",
+    "cn": "A：陳先生在這裡工作了三十年，這個月底就要退休了，部門有沒有為他準備什麼特別的活動？ B：有，我們正在籌辦一場驚喜歡送【派對】，就在他最後一天下午於員工休息室舉行，他的家人也已經偷偷答應要參加。",
+    "collocation": "throw a farewell party 舉辦歡送派對"
+   },
+   {
+    "word": "ceremony",
+    "pos": "n.",
+    "en_def": "a formal public event held for a special purpose",
+    "cn_def": "典禮；儀式",
+    "sentence": "A: The new factory in Taichung is ready to start production next month, so will the company hold any official event to mark the opening? B: The CEO will cut a red ribbon at the opening {{BLANK}} on Monday morning, and several local officials and reporters have been invited to watch.",
+    "cn": "A：台中的新工廠下個月就要開始生產了，公司會舉辦任何正式活動來紀念開幕嗎？ B：執行長星期一早上會在開幕【典禮】上剪綵，也邀請了幾位地方官員和記者到場觀禮。",
+    "collocation": "an opening ceremony 開幕典禮"
+   },
+   {
+    "word": "occasion",
+    "pos": "n.",
+    "en_def": "a special event or an important time",
+    "cn_def": "場合；特殊時刻",
+    "sentence": "A: I want to buy a nice pen for my boss because she just got promoted to regional director, but do you think a present like that is too expensive? B: Not at all, because a promotion is an important {{BLANK}}, and a quality pen is something she will use at meetings every day.",
+    "cn": "A：我想買一支好筆送老闆，因為她剛升任區域總監，但你覺得這樣的禮物會不會太貴？ B：一點也不會，因為升遷是很重要的【時刻】，而且一支好筆是她每天開會都會用到的東西。",
+    "collocation": "a special occasion 特殊場合"
+   },
+   {
+    "word": "anniversary",
+    "pos": "n.",
+    "en_def": "the date each year when an important event happened in the past",
+    "cn_def": "週年紀念",
+    "sentence": "A: Why is the lobby full of balloons and old photographs of the original office building this morning? B: Our company was founded exactly twenty years ago today, so management is marking the {{BLANK}} with a photo exhibition and a free lunch for every employee in the building.",
+    "cn": "A：今天早上大廳為什麼擺滿了氣球和原本辦公大樓的老照片？ B：我們公司正好是二十年前的今天成立的，所以管理階層用攝影展和為大樓裡每位員工準備的免費午餐來紀念這個【週年紀念日】。",
+    "collocation": "a company anniversary 公司週年紀念"
+   },
+   {
+    "word": "birthday",
+    "pos": "n.",
+    "en_def": "the day each year when someone was born",
+    "cn_def": "生日",
+    "sentence": "A: Everyone in the accounting office signed a big card this morning, so what is the reason for it? B: It is Linda's fortieth {{BLANK}} today, and while she is at a meeting with the auditors, we are going to hide a chocolate cake in the kitchen to surprise her later.",
+    "cn": "A：今天早上會計辦公室每個人都在一張大卡片上簽名，是什麼原因呢？ B：今天是琳達的四十歲【生日】，趁她在和查帳人員開會時，我們要把一個巧克力蛋糕藏在茶水間，晚點給她驚喜。",
+    "collocation": "a birthday card 生日卡"
+   },
+   {
+    "word": "wedding",
+    "pos": "n.",
+    "en_def": "a ceremony at which two people get married",
+    "cn_def": "婚禮",
+    "sentence": "A: Could you cover my shifts at the front desk next Friday and Saturday, because I need to fly to Kaohsiung for a family event? B: Sure, I remember you mentioned that your younger sister is getting married, so please have a great time at the {{BLANK}} and send my congratulations to the happy couple.",
+    "cn": "A：你下週五和週六可以幫我代櫃檯的班嗎？因為我要飛去高雄參加家族活動。 B：當然，我記得你提過你妹妹要結婚了，祝你在【婚禮】上玩得開心，也幫我向這對新人道賀。",
+    "collocation": "attend a wedding 參加婚禮"
+   },
+   {
+    "word": "gathering",
+    "pos": "n.",
+    "en_def": "a meeting of people for a social purpose",
+    "cn_def": "聚會",
+    "sentence": "A: The new employees from our overseas branches seem a little lonely in the city, so how can we help them make friends quickly? B: The HR department is planning a casual {{BLANK}} on the rooftop next Friday evening, with snacks, drinks, and simple games so that people can talk freely.",
+    "cn": "A：海外分公司來的新員工在這城市好像有點孤單，我們要怎麼幫他們快點交到朋友？ B：人資部正計畫下週五晚上在頂樓辦一場輕鬆的【聚會】，有點心、飲料和簡單遊戲，讓大家可以自在聊天。",
+    "collocation": "a social gathering 社交聚會"
+   },
+   {
+    "word": "tradition",
+    "pos": "n.",
+    "en_def": "a custom or belief passed down over many years",
+    "cn_def": "傳統",
+    "sentence": "A: Why does everyone in your office eat a big lunch in the meeting room on the last working day of every year? B: It is a long {{BLANK}} that started when the founder ran the company, and even though we now have three hundred staff, we still keep it to thank everyone.",
+    "cn": "A：為什麼你們辦公室每年最後一個上班日大家都在會議室吃大餐？ B：這是創辦人經營公司時就開始的悠久【傳統】，雖然我們現在有三百名員工，還是保留下來感謝大家。",
+    "collocation": "follow a long tradition 遵循悠久的傳統"
+   },
+   {
+    "word": "custom",
+    "pos": "n.",
+    "en_def": "a usual way of behaving in a society or group",
+    "cn_def": "習俗；風俗",
+    "sentence": "A: I am visiting our partners in Seoul next week for the first time, so is there anything I should know before the business dinner? B: It is a local {{BLANK}} to wait until the oldest person at the table starts eating, so be patient and follow what the others do during the meal.",
+    "cn": "A：我下週第一次去首爾拜訪合作夥伴，商務晚宴之前有什麼該知道的嗎？ B：當地的【習俗】是要等桌上最年長的人先開動，所以用餐時要有耐心，跟著其他人的做法就對了。",
+    "collocation": "a local custom 當地習俗"
+   },
+   {
+    "word": "toast",
+    "pos": "n.",
+    "en_def": "the act of raising glasses and drinking to wish someone success or happiness",
+    "cn_def": "敬酒；祝酒",
+    "sentence": "A: The managing director just stood up and lifted her glass at the end of the annual dinner, so what is she going to do? B: She is about to propose a {{BLANK}} to the whole sales team for their excellent results, so pick up your glass and get ready to drink with everyone.",
+    "cn": "A：常務董事在年度晚宴尾聲站起來舉起酒杯，她要做什麼？ B：她要為整個業務團隊的優異成績提議【敬酒】，所以拿起你的杯子，準備和大家一起乾杯。",
+    "collocation": "propose a toast 提議敬酒"
+   },
+   {
+    "word": "cheer",
+    "pos": "v.",
+    "en_def": "to shout loudly to show you are happy or to support someone",
+    "cn_def": "歡呼；喝采",
+    "sentence": "A: What was all that noise coming from the conference room during the lunch break today? B: The whole marketing department gathered to watch the live announcement of the design awards, and everyone started to {{BLANK}} loudly when our team's poster won first prize.",
+    "cn": "A：今天午休時會議室傳來的那些吵鬧聲是什麼？ B：整個行銷部聚在一起看設計獎的直播頒獎，當我們團隊的海報拿下首獎時，大家都大聲【歡呼】起來。",
+    "collocation": "cheer loudly 大聲歡呼"
+   },
+   {
+    "word": "joyful",
+    "pos": "adj.",
+    "en_def": "very happy; full of joy",
+    "cn_def": "歡樂的；喜悅的",
+    "sentence": "A: How did the staff react when the CEO announced that everyone would get an extra week of paid holiday this year? B: The atmosphere in the hall was very {{BLANK}}, with people laughing, hugging their coworkers, and immediately talking about where they wanted to travel in the summer.",
+    "cn": "A：執行長宣布今年大家都多一週帶薪假時，員工反應如何？ B：大廳裡的氣氛非常【歡樂】，大家笑著擁抱同事，馬上就聊起夏天想去哪裡旅行。",
+    "collocation": "a joyful atmosphere 歡樂的氣氛"
+   },
+   {
+    "word": "festive",
+    "pos": "adj.",
+    "en_def": "bright and cheerful because of a holiday or celebration",
+    "cn_def": "節慶的；喜氣洋洋的",
+    "sentence": "A: The department store downtown looks completely different this December, so what has the management changed? B: They hung red lanterns and thousands of small lights across the entrance, and they play holiday songs all day, so the whole building feels really {{BLANK}} for shoppers.",
+    "cn": "A：市中心那家百貨公司今年十二月看起來完全不一樣，管理部門改了什麼？ B：他們在入口處掛了紅燈籠和成千上萬顆小燈，還整天播放節日歌曲，讓整棟建築對購物者來說充滿【節慶氣氛】。",
+    "collocation": "a festive mood 節慶氣氛"
+   },
+   {
+    "word": "decorate",
+    "pos": "v.",
+    "en_def": "to make a place look nicer by adding pretty things to it",
+    "cn_def": "裝飾；布置",
+    "sentence": "A: The holiday party starts at six o'clock in the main hall, so what should the volunteers do after lunch? B: Please {{BLANK}} the walls with paper stars and balloons, set up the tables near the windows, and check that the speakers work before the guests arrive.",
+    "cn": "A：節日派對六點在大廳開始，志工們午餐後該做什麼？ B：請用紙星星和氣球【裝飾】牆面，把桌子擺在窗邊，並在賓客抵達前確認喇叭正常運作。",
+    "collocation": "decorate the room with balloons 用氣球裝飾房間"
+   },
+   {
+    "word": "decoration",
+    "pos": "n.",
+    "en_def": "a thing used to make something look more attractive",
+    "cn_def": "裝飾品",
+    "sentence": "A: The cleaning staff asked me what to do with all the paper lanterns and lights from last night's company party, so do you have any idea? B: Please put every {{BLANK}} back into the large boxes in the storage room, because we plan to use them again at next year's event.",
+    "cn": "A：清潔人員問我昨晚公司派對留下的紙燈籠和燈飾要怎麼處理，你有什麼想法嗎？ B：請把每一件【裝飾品】放回儲藏室的大箱子裡，因為我們打算明年的活動再用。",
+    "collocation": "holiday decorations 節日裝飾"
+   },
+   {
+    "word": "music",
+    "pos": "n.",
+    "en_def": "pleasant sounds made by voices or instruments",
+    "cn_def": "音樂",
+    "sentence": "A: The guests at the hotel's anniversary dinner seemed bored during the first hour, so how can we make the evening more lively? B: Let's ask the jazz band to start playing some cheerful {{BLANK}} near the dance floor, because people usually relax and talk more once they hear a good rhythm.",
+    "cn": "A：飯店週年晚宴前一小時賓客似乎很無聊，我們怎麼讓晚上更熱鬧？ B：請爵士樂團在舞池附近開始演奏一些歡快的【音樂】吧，因為人們聽到好節奏通常就會放鬆、聊得更多。",
+    "collocation": "play live music 現場演奏音樂"
+   },
+   {
+    "word": "dance",
+    "pos": "v.",
+    "en_def": "to move your body to music",
+    "cn_def": "跳舞",
+    "sentence": "A: Is the year-end banquet just a formal dinner, or will there be some activities after the speeches are finished? B: After dessert, the lights will go down and a DJ will play popular songs, so anyone who wants to {{BLANK}} can join their coworkers on the floor until midnight.",
+    "cn": "A：尾牙只是正式晚餐嗎？還是致詞結束後會有些活動？ B：甜點之後燈光會調暗，DJ會播放流行歌曲，想【跳舞】的人可以和同事一起到舞池直到午夜。",
+    "collocation": "dance to the music 隨著音樂跳舞"
+   },
+   {
+    "word": "gift",
+    "pos": "n.",
+    "en_def": "something you give to someone, often on a special day",
+    "cn_def": "禮物",
+    "sentence": "A: Our biggest client, Ms. Tanaka, is celebrating her company's tenth year in business, so what should we send to her office? B: I think a basket of high-quality Taiwanese tea would be a thoughtful {{BLANK}}, and we can attach a handwritten card from our president as well.",
+    "cn": "A：我們最大的客戶田中女士的公司正在慶祝創立十週年，我們該送什麼到她辦公室？ B：我覺得一籃高品質的台灣茶會是一份貼心的【禮物】，我們也可以附上總裁的親筆卡片。",
+    "collocation": "a thoughtful gift 貼心的禮物"
+   },
+   {
+    "word": "cake",
+    "pos": "n.",
+    "en_def": "a sweet baked food made from flour, sugar, and eggs",
+    "cn_def": "蛋糕",
+    "sentence": "A: We are holding a small celebration for the team's tenth project this afternoon, so have you ordered something sweet for everyone? B: Yes, the bakery across the street is making a large strawberry {{BLANK}} with our company logo on top, and they will deliver it at three o'clock.",
+    "cn": "A：今天下午我們要為團隊第十個專案辦個小慶祝，你有幫大家訂甜點嗎？ B：有，對街的麵包店正在做一個上面有公司標誌的大草莓【蛋糕】，三點會送來。",
+    "collocation": "cut the cake 切蛋糕"
+   },
+   {
+    "word": "fireworks",
+    "pos": "n.",
+    "en_def": "colorful explosions in the sky used for celebrations",
+    "cn_def": "煙火",
+    "sentence": "A: Why are so many people waiting outside the office buildings near Taipei 101 at almost midnight on December 31st? B: They are hoping to get a good view of the famous New Year's {{BLANK}}, which light up the sky for several minutes and are shown live on TV around the world.",
+    "cn": "A：為什麼十二月三十一日快午夜時，台北101附近的辦公大樓外面有這麼多人在等？ B：他們希望能清楚看到著名的跨年【煙火】，煙火會照亮天空好幾分鐘，並在全世界的電視上現場直播。",
+    "collocation": "watch the fireworks 看煙火"
+   },
+   {
+    "word": "crowd",
+    "pos": "n.",
+    "en_def": "a large number of people together in one place",
+    "cn_def": "人群",
+    "sentence": "A: Should we drive to the stadium for the city's victory parade tomorrow, or will it be difficult to find a parking space? B: The news says a huge {{BLANK}} of about fifty thousand fans is expected, so taking the subway early in the morning is definitely the safer and faster choice.",
+    "cn": "A：明天市區的勝利遊行我們要開車去體育場嗎？還是會很難找到停車位？ B：新聞說預計會有約五萬名球迷的龐大【人群】，所以一早搭捷運絕對是比較安全又快速的選擇。",
+    "collocation": "a huge crowd 龐大的人群"
+   },
+   {
+    "word": "invite",
+    "pos": "v.",
+    "en_def": "to ask someone to come to an event",
+    "cn_def": "邀請",
+    "sentence": "A: The company is opening its new branch in Hsinchu next month, so who should we ask to attend the opening event? B: We should {{BLANK}} our main suppliers, a few important customers, and the local reporters, and we need to mail the cards at least three weeks in advance.",
+    "cn": "A：公司下個月要在新竹開新分店，開幕活動我們該請誰出席？ B：我們應該【邀請】主要供應商、幾位重要客戶和地方記者，而且至少要提前三週寄出卡片。",
+    "collocation": "invite guests to a party 邀請客人參加派對"
+   },
+   {
+    "word": "guest",
+    "pos": "n.",
+    "en_def": "a person who is invited to an event or a home",
+    "cn_def": "客人；賓客",
+    "sentence": "A: How many chairs should I set up in the ballroom for the award dinner on Saturday night? B: According to the final list from the events team, two hundred and twenty people have replied, and every {{BLANK}} will receive a name card, so please prepare ten extra seats for any last-minute visitors as well.",
+    "cn": "A：週六晚上的頒獎晚宴，我在宴會廳要擺多少張椅子？ B：根據活動團隊的最終名單，共有兩百二十人回覆，每位【賓客】都會拿到名牌，所以也請多準備十個座位給臨時來的訪客。",
+    "collocation": "welcome the guests 歡迎賓客"
+   },
+   {
+    "word": "host",
+    "pos": "v.",
+    "en_def": "to organize an event and welcome the people who come",
+    "cn_def": "主辦；招待",
+    "sentence": "A: Our department won the best customer service award this year, so where will the celebration dinner take place? B: The general manager has offered to {{BLANK}} the dinner at her house in Yangmingshan, and she will even hire a chef to cook for the whole team that night.",
+    "cn": "A：我們部門今年拿到最佳客服獎，慶功晚宴會在哪裡舉行？ B：總經理主動提議在她陽明山的家裡【主辦】晚宴，她甚至會請一位廚師當晚為整個團隊下廚。",
+    "collocation": "host a dinner party 主辦晚宴"
+   },
+   {
+    "word": "enjoy",
+    "pos": "v.",
+    "en_def": "to get pleasure from something",
+    "cn_def": "享受；喜愛",
+    "sentence": "A: You took the new interns to the night market after their first week at work, so how did they like it? B: They seemed to {{BLANK}} the evening very much, because they tried a lot of local snacks, played some games, and kept taking photos until nearly eleven o'clock.",
+    "cn": "A：實習生第一週上班後你帶他們去夜市，他們覺得怎麼樣？ B：他們似乎非常【享受】那個晚上，因為吃了很多在地小吃、玩了一些遊戲，還一直拍照到快十一點。",
+    "collocation": "enjoy the evening 享受這個夜晚"
+   },
+   {
+    "word": "memorable",
+    "pos": "adj.",
+    "en_def": "special and easy to remember",
+    "cn_def": "難忘的",
+    "sentence": "A: The customers who joined our boat tour for the company's anniversary sent many thank-you emails, so what did they like most? B: Many of them said it was a {{BLANK}} trip, because the sunset over the harbor was beautiful and the staff served fresh seafood on the deck.",
+    "cn": "A：參加我們公司週年遊船行程的客戶寄來很多感謝信，他們最喜歡什麼？ B：很多人說那是一趟【難忘的】旅程，因為港口的夕陽很美，員工還在甲板上提供新鮮海鮮。",
+    "collocation": "a memorable experience 難忘的經驗"
+   },
+   {
+    "word": "together",
+    "pos": "adv.",
+    "en_def": "with each other; in the same place",
+    "cn_def": "一起；在一起",
+    "sentence": "A: The team has been working remotely for almost a year, so how can we improve communication between the members? B: I suggest that we bring everyone {{BLANK}} for a weekend trip to Hualien, where they can share meals, go hiking, and get to know each other better.",
+    "cn": "A：團隊遠距工作快一年了，我們要怎麼改善成員之間的溝通？ B：我建議把大家聚集【在一起】去花蓮週末旅遊，讓他們可以共享餐點、健行，彼此更加了解。",
+    "collocation": "bring people together 把人們聚在一起"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The staff will _____ the opening of the new branch with a lunch party. Everyone in the company is invited to join.",
+    "options": [
+     "cheer",
+     "dance",
+     "celebrate",
+     "decorate"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The city holds a music _____ every summer in the riverside park. More than fifty bands perform over three days.",
+    "options": [
+     "toast",
+     "custom",
+     "gift",
+     "festival"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "We are throwing a farewell _____ for Ms. Lin on Friday afternoon. Please sign the card on her desk before then.",
+    "options": [
+     "crowd",
+     "party",
+     "custom",
+     "fireworks"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The award _____ will begin at seven in the main hall. Winners must arrive thirty minutes early for photos.",
+    "options": [
+     "ceremony",
+     "gift",
+     "cake",
+     "custom"
+    ],
+    "answer": 0,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Please wear a suit to the dinner tonight because it is a formal _____. The chairman and several clients will attend.",
+    "options": [
+     "cake",
+     "music",
+     "crowd",
+     "occasion"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The hotel offers a free room upgrade to couples celebrating their wedding _____. The special offer ends next month.",
+    "options": [
+     "anniversary",
+     "toast",
+     "crowd",
+     "decoration"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The office sent flowers to Mr. Park on his sixtieth _____. He was very surprised when the delivery arrived.",
+    "options": [
+     "crowd",
+     "custom",
+     "birthday",
+     "festival"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "My cousin's _____ will be held in a garden beside the lake. About one hundred guests are expected to come.",
+    "options": [
+     "toast",
+     "wedding",
+     "music",
+     "gift"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The alumni association organizes a small _____ every spring. Former students meet to share news about their careers.",
+    "options": [
+     "cake",
+     "toast",
+     "gathering",
+     "decoration"
+    ],
+    "answer": 2,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Giving red envelopes during Lunar New Year is an old _____ in Taiwan. Many companies also give them to employees.",
+    "options": [
+     "crowd",
+     "tradition",
+     "toast",
+     "cake"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "In Japan, it is a common _____ to bow when you greet business partners. Visitors should learn this before the trip.",
+    "options": [
+     "custom",
+     "gift",
+     "crowd",
+     "cake"
+    ],
+    "answer": 0,
+    "vocabIndex": 10
+   },
+   {
+    "q": "At the end of dinner, the president raised her glass and made a _____ to the new partners. Everyone stood up and drank.",
+    "options": [
+     "crowd",
+     "decoration",
+     "festival",
+     "toast"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Fans began to _____ loudly when the local team scored the winning goal. The noise could be heard across the city.",
+    "options": [
+     "decorate",
+     "invite",
+     "cheer",
+     "host"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The children's faces were _____ as they opened their presents. Their parents laughed and took many photos of them.",
+    "options": [
+     "festive",
+     "joyful",
+     "memorable",
+     "crowded"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The streets look _____ in December, with lights and red lanterns everywhere. Shops stay open late for holiday shoppers.",
+    "options": [
+     "memorable",
+     "quiet",
+     "joyful",
+     "festive"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Volunteers will _____ the lobby with flowers and ribbons before the ceremony. The work should be finished by noon.",
+    "options": [
+     "decorate",
+     "cheer",
+     "dance",
+     "enjoy"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The tall tree in the lobby has a gold star as its top _____. The staff put it up last Monday morning.",
+    "options": [
+     "crowd",
+     "decoration",
+     "custom",
+     "occasion"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The restaurant plays soft piano _____ during dinner every night. Many customers say it helps them relax after work.",
+    "options": [
+     "music",
+     "toast",
+     "crowd",
+     "ceremony"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "After the speeches, guests are welcome to _____ to songs played by a live band. The floor will stay open until eleven.",
+    "options": [
+     "invite",
+     "decorate",
+     "celebrate",
+     "dance"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Each employee received a small _____ from the company at the year-end party. It was a box of pineapple cakes.",
+    "options": [
+     "ceremony",
+     "custom",
+     "gift",
+     "crowd"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The bakery can write a short message on top of the _____ for free. Please order at least two days in advance.",
+    "options": [
+     "cake",
+     "crowd",
+     "toast",
+     "custom"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The city spent a large budget on the New Year _____ display. It lit up the sky over the harbor for ten minutes.",
+    "options": [
+     "custom",
+     "fireworks",
+     "gathering",
+     "tradition"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "A large _____ gathered outside the store before it opened for the big sale. Security guards helped people form a line.",
+    "options": [
+     "toast",
+     "ceremony",
+     "crowd",
+     "decoration"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+   },
+   {
+    "q": "We would like to _____ you to the opening of our new office. Please reply by Friday so we can prepare enough seats.",
+    "options": [
+     "cheer",
+     "decorate",
+     "dance",
+     "invite"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Each _____ at the conference will receive a name card at the front desk. Lunch will be served at noon in the hall.",
+    "options": [
+     "guest",
+     "toast",
+     "custom",
+     "festival"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Our company will _____ the international trade fair at the convention center this year. Over three hundred exhibitors will attend.",
+    "options": [
+     "cheer",
+     "host",
+     "dance",
+     "decorate"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "We hope you _____ your stay at our hotel this weekend. Please call the front desk if you need anything at all.",
+    "options": [
+     "decorate",
+     "cheer",
+     "invite",
+     "enjoy"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The tour guide made our trip to Tainan truly _____. We still talk about the delicious food and friendly people there.",
+    "options": [
+     "festive",
+     "crowded",
+     "memorable",
+     "quiet"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The two departments will work _____ on the new advertising campaign. They will share one office until the project ends.",
+    "options": [
+     "abroad",
+     "alone",
+     "nearby",
+     "together"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The bank will _____ its fiftieth year in business with a free concert. All customers and their families are welcome to attend.",
+    "options": [
+     "cheer",
+     "celebrate",
+     "dance",
+     "invite"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   }
+  ]
  }
 }
