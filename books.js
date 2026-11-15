@@ -2460,7 +2460,12 @@ window.VOCAB_ZONES = {
    8,
    9,
    10,
-   11
+   11,
+   12,
+   13,
+   14,
+   15,
+   16
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2473,7 +2478,12 @@ window.VOCAB_ZONES = {
    "8": "Advice 建議",
    "9": "Age 年齡",
    "10": "Airport 機場",
-   "11": "Alone 獨處"
+   "11": "Alone 獨處",
+   "12": "Ambition 抱負",
+   "13": "Animal 動物",
+   "14": "Apologize 道歉",
+   "15": "Apology Letter 道歉信",
+   "16": "App 應用程式"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }
