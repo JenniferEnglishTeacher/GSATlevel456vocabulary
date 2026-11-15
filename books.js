@@ -2524,7 +2524,12 @@ window.VOCAB_ZONES = {
    73,
    74,
    75,
-   76
+   76,
+   77,
+   78,
+   79,
+   80,
+   81
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2601,7 +2606,12 @@ window.VOCAB_ZONES = {
    "73": "Computer 電腦",
    "74": "Concentration 專注",
    "75": "Conference 會議",
-   "76": "Confident 自信"
+   "76": "Confident 自信",
+   "77": "Construction 建築工程",
+   "78": "Consultation Letter 諮詢信",
+   "79": "Consume 消費；消耗",
+   "80": "Contribute 貢獻",
+   "81": "Conversation 對話"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }

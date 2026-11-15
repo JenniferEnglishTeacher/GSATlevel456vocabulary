@@ -46437,5 +46437,3221 @@
     "vocabIndex": 32
    }
   ]
+ },
+ "77": {
+  "theme": "Construction 建築工程",
+  "source": "https://www.examword.com/group-topic/construction",
+  "VOCAB": [
+   {
+    "word": "building",
+    "pos": "n.",
+    "en_def": "a structure with walls and a roof, such as an office or house",
+    "cn_def": "建築物；大樓",
+    "sentence": "A: Why are so many workers standing outside the office this morning instead of going up to their desks on time? B: The fire alarm went off at eight o'clock, so security asked everyone to leave the {{BLANK}} until the fire department checks every floor and says it is safe to return.",
+    "cn": "A：為什麼今天早上這麼多員工站在辦公室外面，而不是準時上樓到座位上？ B：八點時火災警報響了，所以保全請大家離開【大樓】，直到消防隊檢查完每一層樓並確認可以安全回去為止。",
+    "collocation": "an office building downtown 市中心的辦公大樓"
+   },
+   {
+    "word": "site",
+    "pos": "n.",
+    "en_def": "a place where something is built or happens",
+    "cn_def": "地點；工地",
+    "sentence": "A: Do visitors need to wear anything special when they come to see the new hospital that your company is building near the river? B: Yes, everyone who enters the construction {{BLANK}} must wear a hard hat and safety boots, and they have to sign in at the gate before the guide shows them around.",
+    "cn": "A：參觀者來看你們公司在河邊興建的新醫院時，需要穿戴什麼特別的東西嗎？ B：需要，每個進入施工【工地】的人都必須戴安全帽、穿安全靴，而且在導覽員帶他們參觀之前要先在大門登記。",
+    "collocation": "a construction site 施工工地"
+   },
+   {
+    "word": "project",
+    "pos": "n.",
+    "en_def": "a planned piece of work with a clear goal",
+    "cn_def": "專案；工程計畫",
+    "sentence": "A: How long will it take to finish the new shopping center beside the train station, and when can the shops start moving in? B: The whole {{BLANK}} should take about eighteen months, but the builders hope to open the first floor early so that a few stores can start doing business before the holidays.",
+    "cn": "A：車站旁的新購物中心要多久才能完工？商店什麼時候可以開始進駐？ B：整個【工程案】大約需要十八個月，但建商希望提早開放一樓，讓幾家店能在假期前開始營業。",
+    "collocation": "complete a construction project on schedule 如期完成建設工程"
+   },
+   {
+    "word": "foundation",
+    "pos": "n.",
+    "en_def": "the solid base under a building that supports it",
+    "cn_def": "地基",
+    "sentence": "A: Why did the workers spend so many weeks digging a deep hole before they started putting up the walls of the new hotel? B: They needed to build a strong {{BLANK}} under the ground first, because the hotel will have twenty floors and the soil in this area is quite soft after heavy rain.",
+    "cn": "A：為什麼工人們在開始蓋新飯店的牆之前，花了好幾個星期挖一個深坑？ B：他們必須先在地下打好堅固的【地基】，因為飯店將有二十層樓，而且這一帶的土壤在大雨後相當鬆軟。",
+    "collocation": "lay the foundation of a building 打下建築物的地基"
+   },
+   {
+    "word": "structure",
+    "pos": "n.",
+    "en_def": "something that has been built, such as a bridge or building",
+    "cn_def": "結構；建築物",
+    "sentence": "A: What did the safety inspector say after she checked the old bridge that connects our factory to the main road last Friday? B: She said the whole {{BLANK}} is still strong enough for cars, but heavy trucks should use the other road until the city replaces some of the rusty metal parts next spring.",
+    "cn": "A：上週五安全檢查員檢查完連接我們工廠和主要道路的舊橋後，她說了什麼？ B：她說整個【結構】仍然足以承受汽車通行，但在市政府明年春天更換一些生鏽的金屬零件之前，重型卡車應該改走另一條路。",
+    "collocation": "a steel structure 鋼結構建築"
+   },
+   {
+    "word": "framework",
+    "pos": "n.",
+    "en_def": "the main frame that supports a building or object",
+    "cn_def": "框架；骨架",
+    "sentence": "A: The new warehouse already looks quite tall, but why can I still see right through it from the parking lot? B: So far the workers have only put up the metal {{BLANK}} that holds everything together, and they will add the walls, windows and roof over the next two months if the weather stays dry.",
+    "cn": "A：新倉庫看起來已經很高了，但為什麼我從停車場還能直接看穿過去？ B：到目前為止，工人只搭好了支撐整體的金屬【骨架】，如果天氣持續乾燥，他們會在接下來兩個月加上牆壁、窗戶和屋頂。",
+    "collocation": "a steel framework 鋼骨架"
+   },
+   {
+    "word": "material",
+    "pos": "n.",
+    "en_def": "a substance used to make or build things",
+    "cn_def": "材料",
+    "sentence": "A: Why has the price of the new office building gone up so much since we signed the contract with the builder in January? B: The cost of almost every building {{BLANK}}, such as wood, glass and metal, has risen sharply this year, so the builder asked us to pay an extra eight percent.",
+    "cn": "A：自從我們一月和建商簽約以來，新辦公大樓的價格為什麼漲了這麼多？ B：今年幾乎每一種建築【材料】，像是木材、玻璃和金屬，價格都大幅上漲，所以建商要求我們多付百分之八。",
+    "collocation": "order building materials 訂購建材"
+   },
+   {
+    "word": "cement",
+    "pos": "n.",
+    "en_def": "a gray powder mixed with water and sand that becomes hard when dry",
+    "cn_def": "水泥",
+    "sentence": "A: Why are the builders covering the new sidewalk in front of our store with plastic sheets this afternoon? B: They just poured fresh {{BLANK}} this morning, and it needs at least two days to dry completely, so they don't want customers or dogs to walk on it and leave footprints.",
+    "cn": "A：為什麼建築工人今天下午用塑膠布蓋住我們店門口的新人行道？ B：他們今天早上剛倒了新的【水泥】，至少需要兩天才能完全乾，所以他們不希望顧客或狗走在上面留下腳印。",
+    "collocation": "a bag of cement 一袋水泥"
+   },
+   {
+    "word": "concrete",
+    "pos": "n.",
+    "en_def": "a hard building material made from cement, sand, small stones and water",
+    "cn_def": "混凝土",
+    "sentence": "A: Why did the city decide to replace the old wooden parking garage behind the train station instead of fixing it? B: The engineers said that wood is not safe enough for so many cars, so the new garage will be made of {{BLANK}}, which is much stronger and will last for at least fifty years.",
+    "cn": "A：市政府為什麼決定拆換火車站後面的舊木造停車場，而不是修理它？ B：工程師說木頭對於這麼多車輛來說不夠安全，所以新的停車場會用【混凝土】建造，它堅固得多，而且至少可以用五十年。",
+    "collocation": "a concrete wall 混凝土牆"
+   },
+   {
+    "word": "brick",
+    "pos": "n.",
+    "en_def": "a small hard block of baked clay used for building walls",
+    "cn_def": "磚塊",
+    "sentence": "A: What kind of walls are you planning for the new café that you are opening near the university next year? B: We want warm red {{BLANK}} walls inside and outside, because students like a cozy, old-fashioned look, and the walls also keep the room cool during the hot summer months.",
+    "cn": "A：你們明年要在大學附近開的新咖啡館，打算用什麼樣的牆？ B：我們想要內外都是溫暖的紅【磚】牆，因為學生喜歡溫馨、復古的風格，而且這種牆在炎熱的夏季月份也能讓室內保持涼爽。",
+    "collocation": "a red brick building 紅磚建築"
+   },
+   {
+    "word": "steel",
+    "pos": "n.",
+    "en_def": "a very strong metal made from iron",
+    "cn_def": "鋼；鋼鐵",
+    "sentence": "A: Why is the new sports stadium so much more expensive than the one the city built about twenty years ago? B: The designers chose a roof made of strong {{BLANK}} beams that can cover the whole field without any columns, and that metal is very expensive to buy and to bring here by ship.",
+    "cn": "A：為什麼新的體育場比市政府大約二十年前蓋的那座貴這麼多？ B：設計師選擇了用堅固的【鋼】樑做成的屋頂，可以不用任何柱子就覆蓋整個場地，而這種金屬的購買和用船運來的費用都非常昂貴。",
+    "collocation": "steel beams 鋼樑"
+   },
+   {
+    "word": "crane",
+    "pos": "n.",
+    "en_def": "a tall machine used for lifting and moving heavy things",
+    "cn_def": "起重機；吊車",
+    "sentence": "A: How do the workers get those huge glass windows all the way up to the thirtieth floor of the new tower? B: They use a tall {{BLANK}} that lifts each window slowly from the truck, and two workers on the top floor guide it into place with ropes while talking to the driver by radio.",
+    "cn": "A：工人們是怎麼把那些巨大的玻璃窗一路送到新大樓的三十樓的？ B：他們用一台高大的【起重機】把每片窗戶從卡車上慢慢吊起來，頂樓的兩名工人一邊用無線電和操作員通話，一邊用繩子把窗戶引導到定位。",
+    "collocation": "operate a tower crane 操作塔式起重機"
+   },
+   {
+    "word": "scaffold",
+    "pos": "n.",
+    "en_def": "a frame of poles and boards that workers stand on when working on a building",
+    "cn_def": "鷹架",
+    "sentence": "A: Why is the front of the bank covered with metal poles and wooden boards this week? B: The painters put up a {{BLANK}} so they can stand safely while they clean and paint the outside walls, and they expect to take it down by Friday if it doesn't rain.",
+    "cn": "A：為什麼這週銀行正面被金屬桿和木板包圍住？ B：油漆工搭了【鷹架】，這樣他們在清洗和粉刷外牆時可以安全地站在上面，如果不下雨，他們預計週五前拆掉。",
+    "collocation": "put up a scaffold 搭鷹架"
+   },
+   {
+    "word": "blueprint",
+    "pos": "n.",
+    "en_def": "a detailed plan or drawing of a building",
+    "cn_def": "藍圖；設計圖",
+    "sentence": "A: Before we sign the contract, can we see exactly where the meeting rooms and the kitchen will be in our new office? B: Of course, the architect will bring the {{BLANK}} to our meeting on Tuesday, and she can explain every room and make small changes if you want more space.",
+    "cn": "A：在我們簽約之前，可以先看看新辦公室裡會議室和茶水間的確切位置嗎？ B：當然可以，建築師週二開會時會帶【藍圖】來，她可以說明每個房間，如果你們想要更多空間，她也可以做些小修改。",
+    "collocation": "study the blueprints 研究藍圖"
+   },
+   {
+    "word": "contractor",
+    "pos": "n.",
+    "en_def": "a person or company paid to do building work",
+    "cn_def": "承包商",
+    "sentence": "A: Who will be responsible for hiring the workers and buying the materials for the new factory in Taichung? B: We chose a local {{BLANK}} with thirty years of experience, so his company will manage the whole job, and we only need to check the progress once a month.",
+    "cn": "A：誰會負責雇用工人並購買台中新工廠的材料？ B：我們選了一家有三十年經驗的當地【承包商】，所以他的公司會管理整個工作，我們只需要每個月檢查一次進度。",
+    "collocation": "hire a building contractor 雇用營造承包商"
+   },
+   {
+    "word": "architect",
+    "pos": "n.",
+    "en_def": "a person whose job is to design buildings",
+    "cn_def": "建築師",
+    "sentence": "A: The new library looks so modern, with all that glass and the green garden on the roof, but who came up with the idea? B: A young {{BLANK}} from Kaohsiung won the design competition last year, and she wanted the building to use natural light and save as much energy as possible.",
+    "cn": "A：新圖書館看起來好現代，有那麼多玻璃，屋頂上還有綠色花園，這是誰想出來的點子？ B：一位來自高雄的年輕【建築師】去年贏得設計比賽，她希望這棟建築能利用自然光並盡可能節省能源。",
+    "collocation": "a leading architect 一流的建築師"
+   },
+   {
+    "word": "engineer",
+    "pos": "n.",
+    "en_def": "a person who designs or builds machines, roads, bridges, etc.",
+    "cn_def": "工程師",
+    "sentence": "A: Why did the builders stop working on the tenth floor of the apartment tower for a whole week? B: A structural {{BLANK}} found a small crack in one of the main columns, so she ordered extra tests to make sure the tower is strong enough before anyone continues.",
+    "cn": "A：建築工人為什麼整整一個星期停止在公寓大樓十樓施工？ B：一位結構【工程師】在其中一根主柱上發現了一道小裂縫，所以她下令進行額外的測試，在任何人繼續施工前確保大樓夠堅固。",
+    "collocation": "a civil engineer 土木工程師"
+   },
+   {
+    "word": "laborer",
+    "pos": "n.",
+    "en_def": "a worker who does hard physical work",
+    "cn_def": "勞工；工人",
+    "sentence": "A: Why does the construction company give its workers such long breaks in the middle of the afternoon during the summer? B: Every {{BLANK}} on the team spends hours carrying heavy materials and digging under the hot sun, so the manager wants to protect their health and prevent accidents caused by tiredness.",
+    "cn": "A：為什麼營造公司在夏天的下午給工人這麼長的休息時間？ B：團隊中的每個【工人】都要在烈日下花好幾個小時搬運重物和挖土，所以經理想要保護他們的健康，並防止因疲勞造成的意外。",
+    "collocation": "a construction laborer 建築工人"
+   },
+   {
+    "word": "permit",
+    "pos": "n.",
+    "en_def": "an official document that allows you to do something",
+    "cn_def": "許可證",
+    "sentence": "A: Why haven't the builders started work on your new restaurant yet, even though you signed the contract two months ago? B: We are still waiting for a building {{BLANK}} from the city government, and without that official paper we are not allowed to break any walls or add a second floor.",
+    "cn": "A：你兩個月前就簽約了，為什麼建築工人還沒開始動工蓋你的新餐廳？ B：我們還在等市政府核發建築【許可證】，沒有那份正式文件，我們不准打掉任何牆或加蓋二樓。",
+    "collocation": "apply for a building permit 申請建築執照"
+   },
+   {
+    "word": "build",
+    "forms": "build – built – built",
+    "pos": "v.",
+    "en_def": "to make something by putting parts or materials together",
+    "cn_def": "建造",
+    "sentence": "A: Our company has grown so fast this year, so where are we going to put all the new staff next spring? B: The board has decided to {{BLANK}} a five-story office next to the factory, and the work will start in March so that everyone can move in before the end of the year.",
+    "cn": "A：我們公司今年成長得這麼快，明年春天要把新員工安置在哪裡？ B：董事會決定在工廠旁邊【建造】一棟五層樓的辦公室，工程將在三月開始，好讓大家在年底前搬進去。",
+    "collocation": "build a new factory 興建新工廠"
+   },
+   {
+    "word": "construct",
+    "pos": "v.",
+    "en_def": "to build something such as a road, bridge or building",
+    "cn_def": "建造；建設",
+    "sentence": "A: How is the city going to handle all the traffic when the new science park opens near the highway? B: The government plans to {{BLANK}} two new bridges and a wider road over the next three years, so drivers will be able to reach the park without waiting in long lines.",
+    "cn": "A：新的科學園區在高速公路附近開幕時，市政府要如何處理所有交通？ B：政府計畫在未來三年內【興建】兩座新橋和一條更寬的道路，這樣駕駛人就能不必大排長龍抵達園區。",
+    "collocation": "construct a bridge 建造橋樑"
+   },
+   {
+    "word": "install",
+    "pos": "v.",
+    "en_def": "to put equipment into place so it is ready to use",
+    "cn_def": "安裝",
+    "sentence": "A: The new office looks almost ready, but why is it still so hot inside when the staff are moving in next Monday? B: The technicians will come on Thursday to {{BLANK}} the air conditioners in every room, and they promised that everything will be working before the weekend.",
+    "cn": "A：新辦公室看起來差不多好了，但員工下週一就要搬進來，為什麼裡面還這麼熱？ B：技術人員星期四會來在每個房間【安裝】冷氣，他們保證週末前一切都會正常運作。",
+    "collocation": "install new windows 安裝新窗戶"
+   },
+   {
+    "word": "repair",
+    "pos": "v.",
+    "en_def": "to fix something that is broken or damaged",
+    "cn_def": "修理；修補",
+    "sentence": "A: Why is part of the parking lot behind our office closed off with orange cones today? B: Heavy rain last week made several deep holes in the ground, so the building manager hired a team to {{BLANK}} the surface before someone damages a car or falls and gets hurt.",
+    "cn": "A：為什麼今天我們辦公室後面停車場有一部分用橘色三角錐圍起來？ B：上週的大雨在地面上造成好幾個深坑，所以大樓管理員請了一組人來【修補】路面，以免有人的車子受損或有人跌倒受傷。",
+    "collocation": "repair the roof 修理屋頂"
+   },
+   {
+    "word": "demolish",
+    "pos": "v.",
+    "en_def": "to completely destroy a building",
+    "cn_def": "拆除",
+    "sentence": "A: What is going to happen to the old cinema on Main Street now that it has been closed for so many years? B: The new owner plans to {{BLANK}} it next month and build a modern apartment complex, because the old building is unsafe and would cost too much to fix.",
+    "cn": "A：主街上那家關閉多年的老電影院會怎麼樣？ B：新屋主計畫下個月把它【拆除】，然後蓋一座現代化的公寓大樓，因為那棟舊建築不安全，修理的費用也太高。",
+    "collocation": "demolish an old building 拆除舊建築"
+   },
+   {
+    "word": "residential",
+    "pos": "adj.",
+    "en_def": "(of an area) where people live, not where they work",
+    "cn_def": "住宅的",
+    "sentence": "A: Why can't the factory owner build a new warehouse on that empty land beside the park? B: That area is a quiet {{BLANK}} zone with houses and schools, so the city does not allow big trucks or noisy businesses there, and he will have to look for land in the industrial park instead.",
+    "cn": "A：為什麼工廠老闆不能在公園旁那塊空地上蓋新倉庫？ B：那一區是有房屋和學校的安靜【住宅】區，市政府不允許大型卡車或吵雜的商家在那裡，所以他必須改在工業區找地。",
+    "collocation": "a residential area 住宅區"
+   },
+   {
+    "word": "commercial",
+    "pos": "adj.",
+    "en_def": "related to business and making money",
+    "cn_def": "商業的",
+    "sentence": "A: Why is the rent for the ground floor so much higher than the rent for the apartments upstairs? B: The ground floor is used as {{BLANK}} space for shops and restaurants, and businesses are willing to pay more because thousands of people walk past the building every day.",
+    "cn": "A：為什麼一樓的租金比樓上的公寓高這麼多？ B：一樓是作為商店和餐廳的【商業】空間，因為每天有數千人經過這棟大樓，所以商家願意付更多錢。",
+    "collocation": "a commercial building 商業大樓"
+   },
+   {
+    "word": "industrial",
+    "pos": "adj.",
+    "en_def": "connected with factories and the production of goods",
+    "cn_def": "工業的",
+    "sentence": "A: Why did your company decide to move its factory out of the city center last year? B: The government created a new {{BLANK}} park near the port with cheaper land and better roads for trucks, so moving there saved us money and made shipping our products overseas much easier.",
+    "cn": "A：為什麼你們公司去年決定把工廠搬出市中心？ B：政府在港口附近設立了新的【工業】園區，土地更便宜，卡車用的道路也更好，所以搬到那裡為我們省了錢，也讓產品運往海外變得容易許多。",
+    "collocation": "an industrial zone 工業區"
+   },
+   {
+    "word": "temporary",
+    "pos": "adj.",
+    "en_def": "lasting only for a short time",
+    "cn_def": "暫時的；臨時的",
+    "sentence": "A: Where will the staff work while the builders are fixing the roof and the walls of the main office this summer? B: The company has rented a {{BLANK}} office on the other side of the street for three months, and everyone will move back once the work is finished in September.",
+    "cn": "A：今年夏天建築工人修理總公司屋頂和牆壁時，員工要在哪裡上班？ B：公司在對街租了一間為期三個月的【臨時】辦公室，等九月工程完成後，大家就會搬回去。",
+    "collocation": "a temporary office 臨時辦公室"
+   },
+   {
+    "word": "permanent",
+    "pos": "adj.",
+    "en_def": "lasting for a very long time or forever",
+    "cn_def": "永久的",
+    "sentence": "A: Will the outdoor market behind the train station stay open after the summer festival is over? B: Yes, the city liked it so much that it will become a {{BLANK}} market, and workers will build a proper roof and toilets so that it can stay open all year round.",
+    "cn": "A：夏季節慶結束後，火車站後面的戶外市集還會繼續開嗎？ B：會，市政府非常喜歡它，所以它會成為【永久性】的市集，工人會蓋一個正式的屋頂和廁所，讓它全年都能營業。",
+    "collocation": "a permanent structure 永久性建築"
+   },
+   {
+    "word": "safely",
+    "pos": "adv.",
+    "en_def": "in a way that avoids danger or harm",
+    "cn_def": "安全地",
+    "sentence": "A: Why does every new worker have to attend a two-day training course before they are allowed onto the building site? B: The company wants everyone to learn how to use the machines and climb ladders {{BLANK}}, because even one small mistake on a busy site can cause a serious accident.",
+    "cn": "A：為什麼每個新工人在獲准進入工地之前，都必須參加兩天的訓練課程？ B：公司希望每個人都學會如何【安全地】使用機器和爬梯子，因為在忙碌的工地上，即使一個小錯誤也可能造成嚴重意外。",
+    "collocation": "work safely on site 在工地安全地工作"
+   },
+   {
+    "word": "carefully",
+    "pos": "adv.",
+    "en_def": "with great attention to avoid mistakes or damage",
+    "cn_def": "小心地；仔細地",
+    "sentence": "A: Why did the workers spend so much time moving the old paintings out of the museum before the renovation started? B: The paintings are very valuable and easy to damage, so the team packed each one {{BLANK}} in soft boxes and drove them slowly to a storage room across town.",
+    "cn": "A：為什麼工人在翻修開始前，花了那麼多時間把舊畫作搬出博物館？ B：那些畫非常珍貴而且容易損壞，所以團隊把每一幅都【小心地】包裝在柔軟的箱子裡，然後慢慢開車送到城市另一頭的儲藏室。",
+    "collocation": "handle the glass carefully 小心搬運玻璃"
+   },
+   {
+    "word": "efficiently",
+    "pos": "adv.",
+    "en_def": "in a way that works well without wasting time or money",
+    "cn_def": "有效率地",
+    "sentence": "A: How did the builders manage to finish the new train station three months earlier than everyone expected? B: The manager planned every step and made sure the teams worked {{BLANK}}, so nobody wasted time waiting for materials and the machines were busy from early morning until late evening.",
+    "cn": "A：建築工人是怎麼做到比大家預期早三個月完成新火車站的？ B：經理規劃了每一個步驟，並確保各組都【有效率地】工作，所以沒有人浪費時間等材料，機器從清晨一直忙到深夜。",
+    "collocation": "use resources efficiently 有效率地使用資源"
+   },
+   {
+    "word": "regularly",
+    "pos": "adv.",
+    "en_def": "again and again at the same time or interval",
+    "cn_def": "定期地",
+    "sentence": "A: How do you make sure the old office tower stays safe for the hundreds of people who work there every day? B: We hire inspectors to check the elevators, the fire doors and the walls {{BLANK}}, usually every three months, and we fix any problem they find right away.",
+    "cn": "A：你們如何確保這棟老舊辦公大樓對每天在那裡工作的數百人來說是安全的？ B：我們聘請檢查員【定期】檢查電梯、防火門和牆壁，通常每三個月一次，發現任何問題就立刻修理。",
+    "collocation": "regularly inspect the equipment 定期檢查設備"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The company moved its staff into a new _____ last month. It has twelve floors and a large parking garage.",
+    "options": [
+     "building",
+     "crane",
+     "permit",
+     "laborer"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Visitors must wear hard hats at all times on the _____. The rule protects them from falling tools and materials.",
+    "options": [
+     "blueprint",
+     "site",
+     "contractor",
+     "steel"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The new hospital _____ is running two months behind schedule. Heavy rain stopped work for most of October.",
+    "options": [
+     "brick",
+     "engineer",
+     "project",
+     "scaffold"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Before the walls go up, workers must pour a solid _____ deep in the ground. It supports the weight of the whole tower.",
+    "options": [
+     "architect",
+     "permit",
+     "crane",
+     "foundation"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The steel _____ of the warehouse was finished in March. Next, the builders will add the walls and the roof.",
+    "options": [
+     "laborer",
+     "permit",
+     "framework",
+     "site"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Glass is a popular building _____ for modern offices. It lets in natural light and makes rooms feel bigger.",
+    "options": [
+     "material",
+     "contractor",
+     "crane",
+     "engineer"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The new parking garage is made of _____ instead of wood. It is much stronger and will last for decades.",
+    "options": [
+     "architect",
+     "laborer",
+     "permit",
+     "concrete"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The old factory has thick red _____ walls. The new owners want to keep them because they look so charming.",
+    "options": [
+     "engineer",
+     "brick",
+     "contractor",
+     "permit"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The bridge is made of _____ beams that can carry heavy trucks. This strong metal is also used in tall towers.",
+    "options": [
+     "blueprint",
+     "site",
+     "laborer",
+     "steel"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "A tall _____ lifted the heavy glass panels to the top floor. Two workers guided them into place with ropes.",
+    "options": [
+     "permit",
+     "blueprint",
+     "crane",
+     "foundation"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The architect showed us the _____ of the new office. It clearly marked the meeting rooms, the kitchen and the exits.",
+    "options": [
+     "crane",
+     "blueprint",
+     "laborer",
+     "cement"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "We hired a local _____ to build the new warehouse. His company will hire the workers and buy all the materials.",
+    "options": [
+     "contractor",
+     "brick",
+     "permit",
+     "foundation"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The famous _____ designed the museum with a glass roof. She wanted visitors to enjoy natural light in every room.",
+    "options": [
+     "cement",
+     "architect",
+     "crane",
+     "framework"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "A structural _____ checked the cracks in the old bridge. He said it was still safe for cars but not for trucks.",
+    "options": [
+     "brick",
+     "site",
+     "blueprint",
+     "engineer"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Each _____ on the team carries heavy bags of sand all day. The company provides cold water and long breaks in summer.",
+    "options": [
+     "laborer",
+     "blueprint",
+     "foundation",
+     "steel"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "You need a _____ from the city before you add a second floor to your house. The application usually takes six weeks.",
+    "options": [
+     "crane",
+     "brick",
+     "permit",
+     "framework"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The city plans to _____ a new sports center next year. It will include a swimming pool and two basketball courts.",
+    "options": [
+     "build",
+     "install",
+     "repair",
+     "demolish"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Engineers will _____ a new bridge across the river by 2028. It will cut travel time to the airport by half.",
+    "options": [
+     "install",
+     "repair",
+     "construct",
+     "demolish"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The technicians will _____ the new air conditioners on Friday. Staff should clear their desks near the windows before then.",
+    "options": [
+     "demolish",
+     "install",
+     "construct",
+     "build"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Heavy winds damaged part of the roof last night. The owner called a team to _____ it before the next storm.",
+    "options": [
+     "construct",
+     "install",
+     "build",
+     "repair"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The old cinema is unsafe and too expensive to fix. The owner will _____ it and put up an apartment block.",
+    "options": [
+     "install",
+     "repair",
+     "demolish",
+     "construct"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Factories are not allowed in this quiet _____ area. It is full of family homes, parks and schools.",
+    "options": [
+     "industrial",
+     "residential",
+     "commercial",
+     "temporary"
+    ],
+    "answer": 1,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The ground floor is _____ space, so it is rented to shops and cafés. Businesses pay high rent because many shoppers pass by.",
+    "options": [
+     "residential",
+     "industrial",
+     "permanent",
+     "commercial"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The factory moved to a new _____ park near the port. The area has cheap land and wide roads for trucks.",
+    "options": [
+     "industrial",
+     "residential",
+     "commercial",
+     "permanent"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "While the roof is being repaired, staff will work in a _____ office across the street. They will return in three months.",
+    "options": [
+     "permanent",
+     "residential",
+     "industrial",
+     "temporary"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The summer market was so popular that it became _____. It now stays open all year round with a proper roof.",
+    "options": [
+     "permanent",
+     "temporary",
+     "residential",
+     "industrial"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "After the storm last night, every worker got home _____. The manager was relieved that nobody had been injured.",
+    "options": [
+     "efficiently",
+     "regularly",
+     "safely",
+     "carefully"
+    ],
+    "answer": 2,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Please read the contract _____ before you sign it. Some of the rules about delays are hidden in small print.",
+    "options": [
+     "safely",
+     "carefully",
+     "efficiently",
+     "regularly"
+    ],
+    "answer": 1,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The new machines dig twice as fast and use less fuel, so the team works more _____. As a result, the project finished early.",
+    "options": [
+     "efficiently",
+     "carefully",
+     "safely",
+     "regularly"
+    ],
+    "answer": 0,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Inspectors check the elevators _____, usually once every three months. This keeps the building safe for everyone.",
+    "options": [
+     "carefully",
+     "regularly",
+     "safely",
+     "efficiently"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   }
+  ]
+ },
+ "78": {
+  "theme": "Consultation Letter 諮詢信",
+  "source": "https://www.examword.com/group-topic/consultation-letter",
+  "VOCAB": [
+   {
+    "word": "advice",
+    "pos": "n.",
+    "en_def": "an opinion about what someone should do",
+    "cn_def": "建議；勸告",
+    "sentence": "A: You look worried about the new office lease, so what are you going to do before you sign the contract next Monday? B: I'm going to ask our company lawyer for some {{BLANK}}, because the contract is twenty pages long and I don't fully understand the rules about repairs and early cancellation.",
+    "cn": "A：你看起來很擔心新辦公室的租約，下週一簽約前你打算怎麼做？ B：我要向公司的律師尋求一些【建議】，因為合約有二十頁長，我不完全了解有關維修和提前解約的規定。",
+    "collocation": "ask for advice 尋求建議"
+   },
+   {
+    "word": "suggest",
+    "pos": "v.",
+    "en_def": "to give an idea for someone to think about",
+    "cn_def": "建議；提議",
+    "sentence": "A: The customers keep complaining that our online store is too slow during the holiday season, so what should we tell the manager at today's meeting? B: I would {{BLANK}} that we move the website to a faster server before December, since a short delay can make shoppers leave and buy from our competitors instead.",
+    "cn": "A：顧客一直抱怨我們的網路商店在假期旺季太慢，今天開會時我們該跟經理說什麼？ B：我會【建議】我們在十二月前把網站移到更快的伺服器，因為短暫的延遲就可能讓購物者離開，轉而向競爭對手購買。",
+    "collocation": "suggest a solution 提出解決方法"
+   },
+   {
+    "word": "suggestion",
+    "pos": "n.",
+    "en_def": "an idea or plan that someone offers",
+    "cn_def": "建議；提議",
+    "sentence": "A: Did anyone come up with a good way to cut our printing costs before the end of the financial year? B: Yes, Maria from accounting made a useful {{BLANK}} at the staff meeting: we should print reports on both sides of the paper and send most documents by email instead.",
+    "cn": "A：有人想出在會計年度結束前降低印刷成本的好方法嗎？ B：有，會計部的瑪麗亞在員工會議上提出了一個實用的【建議】：我們應該雙面列印報告，而且大部分文件改用電子郵件寄送。",
+    "collocation": "make a suggestion 提出建議"
+   },
+   {
+    "word": "recommend",
+    "pos": "v.",
+    "en_def": "to say that someone or something is good or suitable",
+    "cn_def": "推薦；建議",
+    "sentence": "A: I need to book a hotel near the convention center for three clients who are flying in from Tokyo next week, but I've never stayed in that area. B: I can {{BLANK}} the Harbor View Hotel, because it is only five minutes away on foot, the rooms are quiet, and breakfast is included in the price.",
+    "cn": "A：我需要為下週從東京飛來的三位客戶在會議中心附近訂飯店，但我從沒住過那一區。 B：我可以【推薦】港景飯店，因為走路只要五分鐘，房間很安靜，而且價格包含早餐。",
+    "collocation": "highly recommend a restaurant 極力推薦一家餐廳"
+   },
+   {
+    "word": "recommendation",
+    "pos": "n.",
+    "en_def": "advice about what is best to do or choose",
+    "cn_def": "推薦；建議",
+    "sentence": "A: Why did the company decide to hire an outside firm to manage its computer security this year? B: The board followed the {{BLANK}} of the IT consultant, who found several weak points in our network last spring and said a specialist team could protect our customer data much better.",
+    "cn": "A：公司今年為什麼決定聘請外部公司來管理電腦安全？ B：董事會採納了資訊顧問的【建議】，他去年春天在我們的網路中發現了幾個弱點，並表示專業團隊能更妥善地保護我們的客戶資料。",
+    "collocation": "follow a recommendation 採納建議"
+   },
+   {
+    "word": "opinion",
+    "pos": "n.",
+    "en_def": "what a person thinks about something",
+    "cn_def": "意見；看法",
+    "sentence": "A: The design team has finished two different logos for our new coffee brand, and we have to choose one by Friday afternoon. B: Before we decide, let's ask a few regular customers for their {{BLANK}}, because they are the people who will see the logo on every cup they buy.",
+    "cn": "A：設計團隊已經完成兩個不同的新咖啡品牌標誌，我們必須在週五下午前選出一個。 B：在決定之前，我們先問問幾位常客的【意見】吧，因為他們是每買一杯都會看到這個標誌的人。",
+    "collocation": "ask for someone's opinion 徵詢某人的意見"
+   },
+   {
+    "word": "guidance",
+    "pos": "n.",
+    "en_def": "help and advice about how to do something",
+    "cn_def": "指導；輔導",
+    "sentence": "A: How are the new sales assistants getting on in their first month at the downtown branch? B: They're doing well, mainly because each of them works with a senior colleague who gives them {{BLANK}} on how to handle difficult customers and use the new payment system.",
+    "cn": "A：新來的銷售助理在市中心分店的第一個月表現如何？ B：他們表現不錯，主要是因為每個人都跟著一位資深同事，由他提供如何應對難搞顧客以及使用新付款系統的【指導】。",
+    "collocation": "provide guidance 提供指導"
+   },
+   {
+    "word": "assistance",
+    "pos": "n.",
+    "en_def": "help or support",
+    "cn_def": "協助；幫助",
+    "sentence": "A: The airline lost my suitcase on the flight from Singapore, and my important presentation notes were inside it. B: Go to the service desk next to baggage claim right away, because the staff there can give you {{BLANK}} with the lost-luggage form and send the bag to your hotel once they find it.",
+    "cn": "A：航空公司在新加坡飛來的航班上弄丟了我的行李箱，我重要的簡報筆記就在裡面。 B：馬上去行李提領區旁的服務台，那裡的員工可以【協助】你填寫遺失行李表格，找到後也會把行李送到你的飯店。",
+    "collocation": "request assistance 請求協助"
+   },
+   {
+    "word": "request",
+    "pos": "n.",
+    "en_def": "an act of politely asking for something",
+    "cn_def": "請求；要求",
+    "sentence": "A: Have you heard back from the head office about the extra staff we need for the busy summer season? B: Yes, they approved our {{BLANK}} for two part-time workers this morning, so we can start interviewing college students next week and train them before July.",
+    "cn": "A：總公司有回覆我們在夏季旺季需要額外人手的事嗎？ B：有，他們今天早上批准了我們招募兩名兼職人員的【請求】，所以下週我們就能開始面試大學生，並在七月前訓練他們。",
+    "collocation": "submit a request 提出申請"
+   },
+   {
+    "word": "concern",
+    "pos": "n.",
+    "en_def": "a feeling of worry about something",
+    "cn_def": "擔憂；關切",
+    "sentence": "A: Why did the residents call a meeting with the construction company last night? B: They wanted to express their {{BLANK}} about the noise and dust from the new shopping center, because the workers start at six in the morning and many families have small children who can't sleep.",
+    "cn": "A：居民昨晚為什麼要求跟建設公司開會？ B：他們想表達對新購物中心噪音和灰塵的【擔憂】，因為工人早上六點就開工，很多家庭有睡不著的小孩。",
+    "collocation": "express concern 表達關切"
+   },
+   {
+    "word": "issue",
+    "pos": "n.",
+    "en_def": "a problem or subject that people talk about",
+    "cn_def": "問題；議題",
+    "sentence": "A: Why hasn't the online payment page worked since this morning, even though the website itself is still running? B: There's a technical {{BLANK}} with the bank's system, and our IT staff are working with them to fix it, so customers will have to pay by phone for a few hours.",
+    "cn": "A：為什麼網站本身還在運作，但線上付款頁面從今天早上就無法使用？ B：銀行的系統出了技術【問題】，我們的資訊人員正在和他們一起修復，所以顧客在接下來幾小時必須用電話付款。",
+    "collocation": "deal with an issue 處理問題"
+   },
+   {
+    "word": "matter",
+    "pos": "n.",
+    "en_def": "a subject or situation that you must deal with",
+    "cn_def": "事情；問題",
+    "sentence": "A: Should I tell my team leader that two of our suppliers have sent the wrong products three times this month? B: Yes, this is a serious {{BLANK}}, so you should report it to her today, and she will probably want to discuss it with the purchasing manager before we place any more orders.",
+    "cn": "A：我該告訴組長我們有兩家供應商這個月已經三次送錯貨嗎？ B：該，這是件嚴重的【事情】，你今天就應該向她報告，她很可能會想在我們再下訂單前和採購經理討論。",
+    "collocation": "discuss the matter further 進一步討論此事"
+   },
+   {
+    "word": "situation",
+    "pos": "n.",
+    "en_def": "the things that are happening at a certain time and place",
+    "cn_def": "情況；處境",
+    "sentence": "A: How is the hotel dealing with the power cut that started during the wedding dinner last night? B: The manager explained the {{BLANK}} to all the guests, moved the party to the garden with candles, and gave everyone a free breakfast, so most people were actually quite happy in the end.",
+    "cn": "A：飯店怎麼處理昨晚婚宴晚餐期間開始的停電？ B：經理向所有賓客說明了【情況】，把派對移到點著蠟燭的花園，並招待大家免費早餐，所以到最後多數人其實都相當開心。",
+    "collocation": "handle a difficult situation 處理困難的情況"
+   },
+   {
+    "word": "explain",
+    "pos": "v.",
+    "en_def": "to make something clear or easy to understand",
+    "cn_def": "解釋；說明",
+    "sentence": "A: Many of our older customers say the new banking app is confusing, and some of them have stopped using it completely. B: Then let's make a short video that can {{BLANK}} each step slowly, from logging in to paying bills, and post it on our website and in every branch.",
+    "cn": "A：許多年長的顧客說新的銀行應用程式很難懂，有些人已經完全不用了。 B：那我們來做一支短片，從登入到繳費，慢慢【解釋】每個步驟，並放在我們的網站和每家分行。",
+    "collocation": "explain the reason 解釋原因"
+   },
+   {
+    "word": "clarify",
+    "pos": "v.",
+    "en_def": "to make something clearer by giving more details",
+    "cn_def": "釐清；闡明",
+    "sentence": "A: The client's email says they want the brochures 'as soon as possible,' but I'm not sure whether that means this week or next month. B: You should call them this afternoon to {{BLANK}} the delivery date, because we need to know how many workers to put on the printing machines.",
+    "cn": "A：客戶的電子郵件說要「盡快」拿到小冊子，但我不確定那是指這週還是下個月。 B：你今天下午應該打電話給他們【釐清】交貨日期，因為我們需要知道要安排多少工人操作印刷機。",
+    "collocation": "clarify a point 釐清一個要點"
+   },
+   {
+    "word": "discuss",
+    "pos": "v.",
+    "en_def": "to talk about something with other people",
+    "cn_def": "討論",
+    "sentence": "A: Why are the department heads meeting in the large conference room this afternoon instead of their usual office? B: They need to {{BLANK}} next year's budget with the finance director, and since about fifteen people are coming, the small room simply doesn't have enough chairs for everyone.",
+    "cn": "A：各部門主管今天下午為什麼在大會議室開會，而不是平常的辦公室？ B：他們需要和財務長【討論】明年的預算，而且約有十五人會來，小會議室根本沒有足夠的椅子。",
+    "collocation": "discuss a plan 討論計畫"
+   },
+   {
+    "word": "consider",
+    "pos": "v.",
+    "en_def": "to think carefully about something before deciding",
+    "cn_def": "考慮",
+    "sentence": "A: The software company in Taichung offered me a higher salary, but it would mean moving away from my family. B: You should {{BLANK}} all the costs before you say yes, because rent, travel and time away from home can be more important than the extra money you earn each month.",
+    "cn": "A：台中那家軟體公司開給我更高的薪水，但那代表我得離開家人。 B：你答應之前應該【考慮】所有代價，因為房租、交通和離家的時間可能比你每個月多賺的錢更重要。",
+    "collocation": "consider an offer 考慮一項提議"
+   },
+   {
+    "word": "alternative",
+    "pos": "n.",
+    "en_def": "another thing you can choose instead",
+    "cn_def": "替代方案；其他選擇",
+    "sentence": "A: The train workers are on strike tomorrow, so how will our staff get to the trade fair in Kaohsiung on time? B: The best {{BLANK}} is to rent a large bus for the whole team, which costs a little more but lets us leave from the office together at seven o'clock.",
+    "cn": "A：鐵路員工明天罷工，我們的員工要怎麼準時到高雄參加商展？ B：最好的【替代方案】是為整個團隊租一輛大巴士，雖然貴一點，但我們可以七點一起從辦公室出發。",
+    "collocation": "a cheaper alternative 較便宜的替代方案"
+   },
+   {
+    "word": "option",
+    "pos": "n.",
+    "en_def": "something you can choose",
+    "cn_def": "選項；選擇",
+    "sentence": "A: Our customers want faster delivery, but we can't afford to open another warehouse this year, so what can we do? B: One {{BLANK}} is to work with a local delivery company in each city, which would let us send most orders within one day without buying new trucks.",
+    "cn": "A：顧客想要更快的配送，但我們今年負擔不起再開一間倉庫，那能怎麼辦？ B：一個【選項】是在每個城市和當地的快遞公司合作，這樣不用買新卡車，就能在一天內寄出大部分訂單。",
+    "collocation": "have no other option 別無選擇"
+   },
+   {
+    "word": "decision",
+    "pos": "n.",
+    "en_def": "a choice that you make after thinking",
+    "cn_def": "決定",
+    "sentence": "A: Has the manager chosen which of the two candidates will lead the new marketing team in Hong Kong? B: Not yet, she says she will make a final {{BLANK}} after the second interviews on Thursday, because both people have strong skills and she wants to see how they work with the team.",
+    "cn": "A：經理選好兩位應徵者中誰要帶領香港的新行銷團隊了嗎？ B：還沒，她說會在週四第二次面試後做出最後【決定】，因為兩人能力都很強，她想看看他們和團隊合作的情形。",
+    "collocation": "make a decision 做決定"
+   },
+   {
+    "word": "feedback",
+    "pos": "n.",
+    "en_def": "comments about how good or useful something is",
+    "cn_def": "回饋；意見",
+    "sentence": "A: How do you know whether the new training course for sales staff is actually working? B: At the end of every class, we ask the trainees to fill out a short online form and give us honest {{BLANK}}, and then we change the lessons that they found boring or hard to follow.",
+    "cn": "A：你怎麼知道銷售人員的新訓練課程到底有沒有效？ B：每堂課結束時，我們都請學員填寫一份簡短的線上表單並給我們誠實的【回饋】，然後我們會修改他們覺得無聊或難以理解的課程。",
+    "collocation": "give feedback 給予回饋"
+   },
+   {
+    "word": "expert",
+    "pos": "n.",
+    "en_def": "a person who knows a lot about a subject",
+    "cn_def": "專家",
+    "sentence": "A: Our factory uses too much electricity, and the monthly bills have nearly doubled since last winter. B: Let's invite an energy {{BLANK}} to visit the factory next week, because someone with special knowledge can show us which machines waste the most power and how to save money.",
+    "cn": "A：我們工廠用電太多，每月電費從去年冬天以來幾乎翻倍了。 B：我們邀請一位能源【專家】下週來參觀工廠吧，因為有專業知識的人可以告訴我們哪些機器最耗電，以及如何省錢。",
+    "collocation": "an expert in marketing 行銷專家"
+   },
+   {
+    "word": "experience",
+    "pos": "n.",
+    "en_def": "knowledge or skill you get from doing something",
+    "cn_def": "經驗",
+    "sentence": "A: Why did you choose Mr. Chen to manage the new restaurant, even though he is younger than the other applicants? B: He has ten years of {{BLANK}} in busy hotel kitchens, and he has already trained many young cooks, so I believe he can lead the team well from the first day.",
+    "cn": "A：為什麼你選陳先生管理新餐廳，即使他比其他應徵者年輕？ B：他有十年在忙碌飯店廚房工作的【經驗】，也已經訓練過許多年輕廚師，所以我相信他從第一天起就能把團隊帶好。",
+    "collocation": "have work experience 具有工作經驗"
+   },
+   {
+    "word": "qualified",
+    "pos": "adj.",
+    "en_def": "having the right training or skills for a job",
+    "cn_def": "合格的；有資格的",
+    "sentence": "A: The hospital needs to hire three new nurses for the night shift, but only a few people have applied so far. B: We should keep the job ad online for another month, because we must find {{BLANK}} staff who hold a nursing license and can safely care for patients on their own.",
+    "cn": "A：醫院需要為夜班招聘三名新護理師，但目前只有少數人應徵。 B：我們應該讓徵才廣告再刊登一個月，因為我們必須找到持有護理執照、能獨立安全照顧病人的【合格】人員。",
+    "collocation": "highly qualified staff 高度合格的員工"
+   },
+   {
+    "word": "opportunity",
+    "pos": "n.",
+    "en_def": "a chance to do something",
+    "cn_def": "機會",
+    "sentence": "A: Are you going to apply for the six-month job in our London office that the manager mentioned this morning? B: Definitely, because it's a great {{BLANK}} to improve my English, meet international clients, and learn how the European market works before I return to Taipei next year.",
+    "cn": "A：你要申請經理今天早上提到的倫敦辦公室六個月職缺嗎？ B：一定會，因為這是一個提升英文、認識國際客戶、並在明年回台北前了解歐洲市場運作的好【機會】。",
+    "collocation": "take the opportunity 把握機會"
+   },
+   {
+    "word": "helpful",
+    "pos": "adj.",
+    "en_def": "useful or ready to help",
+    "cn_def": "有幫助的；樂於助人的",
+    "sentence": "A: How was your first week at the new branch, and did you have any trouble learning the computer system? B: It went well, because my coworkers were very {{BLANK}}; they showed me how to enter orders, answered all my questions, and even invited me to lunch on my first day.",
+    "cn": "A：你在新分店的第一週如何？學電腦系統有遇到困難嗎？ B：很順利，因為我的同事都很【樂於助人】，他們教我怎麼輸入訂單、回答我所有問題，第一天甚至還邀我一起吃午餐。",
+    "collocation": "helpful advice 有幫助的建議"
+   },
+   {
+    "word": "useful",
+    "pos": "adj.",
+    "en_def": "helping you to do or get something",
+    "cn_def": "有用的；實用的",
+    "sentence": "A: Do you think the time-management workshop last Saturday was worth the money the company paid for it? B: Yes, it was really {{BLANK}}, because the trainer showed us simple ways to plan our week, and I have already finished two reports early by following her ideas.",
+    "cn": "A：你覺得上週六的時間管理工作坊值得公司付的錢嗎？ B：值得，真的很【實用】，因為講師教我們簡單規劃一週的方法，我照著她的點子已經提早完成兩份報告了。",
+    "collocation": "useful information 有用的資訊"
+   },
+   {
+    "word": "beneficial",
+    "pos": "adj.",
+    "en_def": "having a good effect",
+    "cn_def": "有益的；有利的",
+    "sentence": "A: Why is the company giving everyone a free gym membership starting next month? B: The managers believe that regular exercise is {{BLANK}} for both health and work, because staff who feel fit usually take fewer sick days and have more energy in the afternoon.",
+    "cn": "A：公司為什麼從下個月開始給每個人免費的健身房會員？ B：主管們認為規律運動對健康和工作都【有益】，因為覺得身體健康的員工通常請病假較少，下午也更有精神。",
+    "collocation": "mutually beneficial 互惠的"
+   },
+   {
+    "word": "appropriate",
+    "pos": "adj.",
+    "en_def": "suitable or right for a situation",
+    "cn_def": "適當的；合適的",
+    "sentence": "A: I've been invited to a formal dinner with our Japanese partners next Friday, but I'm not sure what to wear. B: A dark suit and a simple tie would be {{BLANK}}, because the dinner is at an expensive restaurant and the partners will probably be dressed quite formally too.",
+    "cn": "A：我受邀參加下週五和日本合作夥伴的正式晚宴，但不確定要穿什麼。 B：深色西裝配簡單的領帶會很【合適】，因為晚宴在一家昂貴的餐廳，合作夥伴很可能也會穿得相當正式。",
+    "collocation": "appropriate clothing 合適的服裝"
+   },
+   {
+    "word": "effective",
+    "pos": "adj.",
+    "en_def": "producing the result that you want",
+    "cn_def": "有效的",
+    "sentence": "A: Sales of our new juice were very low in the first month, so what changed after that? B: We started giving free samples in supermarkets on weekends, and it was a very {{BLANK}} way to attract shoppers, because sales doubled within three weeks without any TV advertising.",
+    "cn": "A：我們的新果汁第一個月銷量很差，之後有什麼改變？ B：我們開始在週末於超市提供免費試喝，這是吸引購物者非常【有效】的方法，因為不靠任何電視廣告，銷量在三週內就翻倍了。",
+    "collocation": "an effective solution 有效的解決方法"
+   },
+   {
+    "word": "resolve",
+    "pos": "v.",
+    "en_def": "to find an answer to a problem",
+    "cn_def": "解決",
+    "sentence": "A: Two of our designers have been arguing for days about the colors for the new catalog, and the work has stopped. B: I'll meet with both of them tomorrow morning to {{BLANK}} the disagreement, because the catalog must go to the printer by Friday and we can't lose any more time.",
+    "cn": "A：我們兩位設計師為了新型錄的配色已經爭論好幾天，工作都停擺了。 B：我明天早上會和他們兩人見面來【解決】這個分歧，因為型錄週五前一定要送印，我們不能再浪費時間了。",
+    "collocation": "resolve a conflict 解決衝突"
+   },
+   {
+    "word": "problem",
+    "pos": "n.",
+    "en_def": "something difficult that needs to be dealt with",
+    "cn_def": "問題；難題",
+    "sentence": "A: Why are so many passengers waiting at the gate when the flight to Seoul was supposed to leave an hour ago? B: There is a {{BLANK}} with one of the engines, so the mechanics are checking it carefully, and the airline is giving everyone meal coupons while they wait.",
+    "cn": "A：飛首爾的班機一小時前就該起飛了，為什麼還有這麼多乘客在登機門等候？ B：其中一具引擎有【問題】，所以技師正在仔細檢查，航空公司也在乘客等待時發放餐券給大家。",
+    "collocation": "solve a problem 解決問題"
+   },
+   {
+    "word": "difficulty",
+    "pos": "n.",
+    "en_def": "something that makes it hard to do something",
+    "cn_def": "困難",
+    "sentence": "A: Why is the new branch in Bangkok opening two months later than we planned in the spring? B: The managers had great {{BLANK}} finding a building in a good location at a fair price, and after that the local government took several weeks to approve the business license.",
+    "cn": "A：曼谷新分店為什麼比我們春天計畫的晚了兩個月開幕？ B：主管們在尋找地點好、價格合理的建築物時遇到很大的【困難】，之後當地政府又花了好幾週才核准營業執照。",
+    "collocation": "have difficulty doing something 做某事有困難"
+   },
+   {
+    "word": "challenge",
+    "pos": "n.",
+    "en_def": "something new and difficult that tests your ability",
+    "cn_def": "挑戰",
+    "sentence": "A: How do you feel about leading the project to open our first store in Vietnam next year? B: It will be a big {{BLANK}} for me, because I don't speak the language and the market is new to us, but I'm excited and I've already started taking Vietnamese lessons.",
+    "cn": "A：你對明年帶領在越南開設第一家店的專案有什麼感想？ B：這對我來說會是一大【挑戰】，因為我不會說當地語言，市場對我們也很陌生，但我很興奮，而且已經開始上越南語課了。",
+    "collocation": "face a challenge 面對挑戰"
+   },
+   {
+    "word": "inquiry",
+    "pos": "n.",
+    "en_def": "a question asking for information",
+    "cn_def": "詢問；查詢",
+    "sentence": "A: Did anyone reply to the customer who emailed yesterday about our prices for large group tours to Hualien? B: Yes, I answered her {{BLANK}} this morning and sent a full price list, and she said she will book a tour for forty employees from her company in October.",
+    "cn": "A：昨天寄電子郵件詢問花蓮大型團體旅遊價格的那位顧客，有人回覆她嗎？ B：有，我今天早上回覆了她的【詢問】並寄了完整價目表，她說十月會幫公司四十位員工預訂行程。",
+    "collocation": "respond to an inquiry 回覆詢問"
+   },
+   {
+    "word": "thank you in advance",
+    "pos": "phr.",
+    "en_def": "a polite phrase to thank someone before they help you",
+    "cn_def": "先謝謝您；預先致謝",
+    "sentence": "A: How should I end my email to the hotel manager asking whether we can use their meeting room for free next month? B: Write that you would be very grateful for their help, then finish with '{{BLANK}} for your time,' because it sounds polite and shows that you expect a kind reply.",
+    "cn": "A：我寫給飯店經理、詢問下個月能否免費使用他們會議室的電子郵件該怎麼結尾？ B：寫上你會非常感謝他們的協助，然後用「【先謝謝您】撥冗回覆」結尾，因為這聽起來很有禮貌，也表示你期待友善的回覆。",
+    "collocation": "Thank you in advance for your help. 先謝謝您的協助。"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Before buying a new car, Tom asked his father for _____. His father told him to compare prices at three dealers.",
+    "options": [
+     "inquiry",
+     "difficulty",
+     "advice",
+     "experience"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Several staff members said the meeting room was too cold. One of them decided to _____ that we buy a small heater.",
+    "options": [
+     "explain",
+     "clarify",
+     "resolve",
+     "suggest"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The hotel guest asked which local restaurant was best for seafood. The receptionist was happy to _____ a small place near the harbor.",
+    "options": [
+     "recommend",
+     "clarify",
+     "resolve",
+     "discuss"
+    ],
+    "answer": 0,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The doctor's _____ was to rest for one week. Mr. Lin followed it and returned to work feeling much better.",
+    "options": [
+     "difficulty",
+     "recommendation",
+     "inquiry",
+     "situation"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Everyone at the meeting shared a different _____ about the new logo. Some people loved it, but others thought it looked old-fashioned.",
+    "options": [
+     "opinion",
+     "guidance",
+     "assistance",
+     "difficulty"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "New employees receive careful _____ from a mentor during their first three months. This helps them learn the company's rules quickly.",
+    "options": [
+     "concern",
+     "guidance",
+     "inquiry",
+     "problem"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "If you need _____ with your luggage, please call the front desk. A porter will come to your room within five minutes.",
+    "options": [
+     "opinion",
+     "decision",
+     "expert",
+     "assistance"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The customer made a _____ for a quieter room. The hotel moved him to the top floor the same evening.",
+    "options": [
+     "situation",
+     "difficulty",
+     "request",
+     "opportunity"
+    ],
+    "answer": 2,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Parents expressed strong _____ about the safety of the new playground. The city agreed to check all the equipment again.",
+    "options": [
+     "option",
+     "concern",
+     "alternative",
+     "experience"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The printer has a paper jam again. Please report the _____ to the IT department so they can fix it today.",
+    "options": [
+     "opinion",
+     "opportunity",
+     "expert",
+     "issue"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Thank you for your letter about the late payment. We will look into the _____ and contact you by Friday.",
+    "options": [
+     "expert",
+     "experience",
+     "matter",
+     "opportunity"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Heavy snow closed the airport for two days. The airline explained the _____ to passengers and gave them free hotel rooms.",
+    "options": [
+     "situation",
+     "expert",
+     "assistance",
+     "opportunity"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The new tax rules are hard to understand. Our accountant will _____ them to the staff at Monday's meeting.",
+    "options": [
+     "suggest",
+     "explain",
+     "resolve",
+     "recommend"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Some points in the contract are not clear. Could you please _____ what 'final payment' means in section four?",
+    "options": [
+     "clarify",
+     "resolve",
+     "recommend",
+     "suggest"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The two managers sat down together to _____ the budget over coffee. They talked for two hours about every cost.",
+    "options": [
+     "resolve",
+     "suggest",
+     "discuss",
+     "recommend"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Please take a few days to _____ our job offer carefully. You can give us your answer next Wednesday.",
+    "options": [
+     "explain",
+     "clarify",
+     "resolve",
+     "consider"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The main road is closed for repairs this week. Drivers should use the coastal highway as an _____.",
+    "options": [
+     "expert",
+     "inquiry",
+     "alternative",
+     "issue"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Customers can pay by cash, card, or phone. The new mobile payment _____ is the most popular with young shoppers.",
+    "options": [
+     "option",
+     "concern",
+     "difficulty",
+     "challenge"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "After weeks of discussion, the board reached a _____. The company will move its head office to Taichung next year.",
+    "options": [
+     "guidance",
+     "decision",
+     "assistance",
+     "experience"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "We sent a short survey to every customer after the event. Their _____ will help us plan a better event next year.",
+    "options": [
+     "difficulty",
+     "challenge",
+     "situation",
+     "feedback"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The museum invited an art _____ to check the old painting. She said it was over three hundred years old.",
+    "options": [
+     "expert",
+     "opinion",
+     "inquiry",
+     "option"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Applicants must have at least five years of _____ in sales. Please include details of past jobs in your application.",
+    "options": [
+     "problem",
+     "concern",
+     "request",
+     "experience"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Only _____ electricians are allowed to repair the wiring in this building. They must show their license before starting work.",
+    "options": [
+     "beneficial",
+     "qualified",
+     "useful",
+     "effective"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The conference is a great _____ to meet buyers from other countries. Many small companies find new partners there.",
+    "options": [
+     "difficulty",
+     "concern",
+     "opportunity",
+     "issue"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The staff at the information desk were very _____. They gave us a free map and showed us the fastest way to the museum.",
+    "options": [
+     "qualified",
+     "helpful",
+     "beneficial",
+     "appropriate"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "These old boxes are no longer _____ to us. Please throw them away or take them to the recycling center.",
+    "options": [
+     "useful",
+     "qualified",
+     "appropriate",
+     "effective"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The new trade agreement will be _____ to both countries. Exports are expected to rise by ten percent next year.",
+    "options": [
+     "qualified",
+     "appropriate",
+     "beneficial",
+     "effective"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Jeans and T-shirts are not _____ for the awards dinner. Guests should wear formal clothes such as suits or evening dresses.",
+    "options": [
+     "qualified",
+     "beneficial",
+     "effective",
+     "appropriate"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The new medicine is highly _____ against headaches. Most patients feel better within twenty minutes of taking it.",
+    "options": [
+     "effective",
+     "qualified",
+     "appropriate",
+     "helpful"
+    ],
+    "answer": 0,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The two companies hired a lawyer to _____ their dispute. They signed a new agreement after three long meetings.",
+    "options": [
+     "explain",
+     "suggest",
+     "resolve",
+     "consider"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+   }
+  ]
+ },
+ "79": {
+  "theme": "Consume 消費；消耗",
+  "source": "https://www.examword.com/group-topic/consume",
+  "VOCAB": [
+   {
+    "word": "consumption",
+    "pos": "n.",
+    "en_def": "the amount of something that is used",
+    "cn_def": "消耗；消費量",
+    "sentence": "A: Why did the factory manager ask everyone to turn off their computers and the lights before leaving the office every evening this month? B: Our electricity bill rose by almost twenty percent last quarter, so the company wants to reduce energy {{BLANK}} and save money before the new budget starts in January.",
+    "cn": "A：為什麼工廠經理這個月要求大家每天晚上離開辦公室前都關掉電腦和電燈？ B：我們上一季的電費上漲了將近百分之二十，所以公司希望在一月新預算開始前減少能源【消耗】並省錢。",
+    "collocation": "reduce energy consumption 減少能源消耗"
+   },
+   {
+    "word": "consumer",
+    "pos": "n.",
+    "en_def": "a person who buys goods or services",
+    "cn_def": "消費者",
+    "sentence": "A: What did the marketing team learn from the online survey that they sent to our customers after the summer sale? B: They found that the average {{BLANK}} now compares prices on at least three websites before buying anything, so we need to make our online store faster and our prices clearer.",
+    "cn": "A：行銷團隊從暑期特賣後寄給顧客的線上問卷中得到了什麼結論？ B：他們發現一般【消費者】現在買任何東西前都會在至少三個網站比價，所以我們需要讓線上商店更快、價格更清楚。",
+    "collocation": "consumer demand 消費者需求"
+   },
+   {
+    "word": "consumable",
+    "pos": "adj.",
+    "en_def": "used up and needing to be bought again",
+    "cn_def": "消耗性的",
+    "sentence": "A: Why does the office manager check the supply room every Friday afternoon before she goes home? B: She makes a list of {{BLANK}} items such as printer ink, paper, coffee and cleaning products, because the department runs out of them quickly and she must order more before Monday morning.",
+    "cn": "A：為什麼辦公室經理每週五下午回家前都要檢查儲藏室？ B：她會列出【消耗性】物品的清單，例如印表機墨水、紙張、咖啡和清潔用品，因為部門很快就會用完，她必須在週一早上前訂購更多。",
+    "collocation": "consumable supplies 消耗性用品"
+   },
+   {
+    "word": "ingest",
+    "pos": "v.",
+    "en_def": "to take food, drink or another substance into the body",
+    "cn_def": "攝入；吞下",
+    "sentence": "A: Why are the workers in the chemical plant required to wear masks and gloves all day, even when the weather is very hot? B: The safety officer explained that some of the powders are dangerous, and workers could accidentally {{BLANK}} small amounts if they touch their mouths or breathe the dust.",
+    "cn": "A：為什麼化學工廠的工人整天都必須戴口罩和手套，即使天氣非常炎熱？ B：安全主管解釋說，有些粉末很危險，如果工人碰到嘴巴或吸入粉塵，可能會不小心【攝入】少量。",
+    "collocation": "accidentally ingest chemicals 意外攝入化學物質"
+   },
+   {
+    "word": "devour",
+    "pos": "v.",
+    "en_def": "to eat something quickly because you are very hungry",
+    "cn_def": "狼吞虎嚥",
+    "sentence": "A: How was the lunch meeting with the new sales team at the Italian restaurant near the station yesterday? B: It went well, although everyone was so hungry after the long morning training that they started to {{BLANK}} the pizzas as soon as the waiter put them on the table.",
+    "cn": "A：昨天和新業務團隊在車站附近義大利餐廳的午餐會議如何？ B：很順利，不過經過一整個早上的長時間訓練大家都很餓，服務生一把披薩放上桌，他們就開始【狼吞虎嚥】。",
+    "collocation": "devour a meal 狼吞虎嚥地吃一頓飯"
+   },
+   {
+    "word": "eat",
+    "forms": "eat – ate – eaten",
+    "pos": "v.",
+    "en_def": "to put food in your mouth and swallow it",
+    "cn_def": "吃；用餐",
+    "sentence": "A: Why do so many staff members leave the building at noon instead of having lunch in the company cafeteria on the third floor? B: Most of them prefer to {{BLANK}} at the small noodle shop across the street, because the food is cheaper, the portions are bigger, and they can relax away from their desks for an hour.",
+    "cn": "A：為什麼這麼多員工中午都離開大樓，而不在三樓的公司餐廳吃午餐？ B：他們大多數比較喜歡在對街的小麵店【吃飯】，因為食物比較便宜、份量比較大，而且可以離開辦公桌放鬆一個小時。",
+    "collocation": "eat out with colleagues 和同事外出用餐"
+   },
+   {
+    "word": "drink",
+    "forms": "drink – drank – drunk",
+    "pos": "v.",
+    "en_def": "to take liquid into your mouth and swallow it",
+    "cn_def": "喝；飲用",
+    "sentence": "A: Why did the doctor at the company health check tell you to change your habits at work? B: She said I should {{BLANK}} more water during the day instead of so much coffee, because I often feel tired and get headaches in the afternoon while I am sitting at my computer.",
+    "cn": "A：為什麼公司健康檢查的醫生要你改變工作時的習慣？ B：她說我白天應該【喝】更多水，而不是喝那麼多咖啡，因為我下午坐在電腦前時常覺得疲倦和頭痛。",
+    "collocation": "drink plenty of water 喝大量的水"
+   },
+   {
+    "word": "absorb",
+    "pos": "v.",
+    "en_def": "to take in liquid, sound, heat or information",
+    "cn_def": "吸收",
+    "sentence": "A: Why did the hotel decide to replace all the old carpets in the conference rooms on the second floor last month? B: The new carpets {{BLANK}} noise much better, so guests in the nearby rooms are no longer disturbed when large groups hold meetings or parties in the evening.",
+    "cn": "A：為什麼飯店上個月決定更換二樓會議室所有的舊地毯？ B：新地毯【吸收】噪音的效果好得多，所以當大型團體晚上舉行會議或派對時，附近房間的客人不會再被打擾。",
+    "collocation": "absorb noise 吸收噪音"
+   },
+   {
+    "word": "utilize",
+    "pos": "v.",
+    "en_def": "to use something in a practical and useful way",
+    "cn_def": "利用；使用",
+    "sentence": "A: How is the new manager planning to improve the warehouse without hiring more workers or buying more machines this year? B: She wants to {{BLANK}} the empty space at the back of the building more effectively, so she is adding tall shelves and a better labeling system to store more products.",
+    "cn": "A：新經理打算如何在今年不增聘工人、不添購機器的情況下改善倉庫？ B：她想更有效地【利用】大樓後方的空間，所以正在增加高的貨架和更好的標籤系統，以存放更多產品。",
+    "collocation": "utilize resources effectively 有效利用資源"
+   },
+   {
+    "word": "use",
+    "pos": "v.",
+    "en_def": "to do something with an object or method for a purpose",
+    "cn_def": "使用；用",
+    "sentence": "A: Our printer on the fifth floor stopped working again this morning, so what should I do with the contract that the client needs by noon? B: You can {{BLANK}} the new color printer in the meeting room next to the elevator, but remember to enter your staff code first so the system can record the copies.",
+    "cn": "A：五樓的印表機今天早上又壞了，客戶中午前需要的合約我該怎麼辦？ B：你可以【使用】電梯旁會議室裡的新彩色印表機，但記得先輸入你的員工代碼，這樣系統才能記錄影印張數。",
+    "collocation": "use the equipment 使用設備"
+   },
+   {
+    "word": "expend",
+    "pos": "v.",
+    "en_def": "to use time, money or effort to do something",
+    "cn_def": "耗費；花費",
+    "sentence": "A: Why does the sales director look so tired after the trade fair in Singapore last week? B: She had to {{BLANK}} a great deal of time and effort meeting more than sixty possible buyers in three days, and she also gave two long presentations about our new products.",
+    "cn": "A：為什麼業務總監上週參加新加坡貿易展後看起來那麼疲倦？ B：她必須在三天內【耗費】大量時間和精力與六十多位潛在買家會面，而且還做了兩場關於我們新產品的長篇簡報。",
+    "collocation": "expend time and effort 耗費時間和精力"
+   },
+   {
+    "word": "exhaust",
+    "pos": "v.",
+    "en_def": "to use all of something so that none is left",
+    "cn_def": "用盡；耗盡",
+    "sentence": "A: Why did the project team ask the finance department for extra money only two months after the project started? B: The unexpected repairs to the old building will {{BLANK}} most of the original budget by next month, so they need more funds to finish the work on time and pay the contractors.",
+    "cn": "A：為什麼專案團隊在專案開始僅兩個月後就向財務部要求額外資金？ B：舊大樓意外的維修費用到下個月就會【用光】大部分的原始預算，所以他們需要更多資金來準時完工並支付承包商。",
+    "collocation": "exhaust the budget 用盡預算"
+   },
+   {
+    "word": "deplete",
+    "pos": "v.",
+    "en_def": "to reduce the amount of something until little is left",
+    "cn_def": "耗盡；大量減少",
+    "sentence": "A: Why has the hotel restaurant stopped serving fresh tuna on its dinner menu this season? B: The chef read a report that overfishing could {{BLANK}} the tuna population in the Pacific within a few years, so he decided to offer local fish that are easier to find and protect.",
+    "cn": "A：為什麼飯店餐廳這一季的晚餐菜單停止供應新鮮鮪魚？ B：主廚讀到一份報告指出，過度捕撈可能在幾年內【耗盡】太平洋的鮪魚數量，所以他決定改供應較容易取得、也較能保護的當地魚類。",
+    "collocation": "deplete natural resources 耗盡自然資源"
+   },
+   {
+    "word": "waste",
+    "pos": "v.",
+    "en_def": "to use something badly or more than you need",
+    "cn_def": "浪費",
+    "sentence": "A: Why did the manager cancel the weekly meeting that usually takes place every Monday morning at nine? B: He said we {{BLANK}} too much time discussing the same small problems every week, so now each team will send a short written report by email instead.",
+    "cn": "A：為什麼經理取消了通常每週一早上九點舉行的週會？ B：他說我們每週都【浪費】太多時間討論同樣的小問題，所以現在每個團隊改為用電子郵件寄一份簡短的書面報告。",
+    "collocation": "waste time and money 浪費時間和金錢"
+   },
+   {
+    "word": "spend",
+    "forms": "spend – spent – spent",
+    "pos": "v.",
+    "en_def": "to use money to pay for things; to pass time",
+    "cn_def": "花費（金錢、時間）",
+    "sentence": "A: How much does the company plan to invest in the new training program for the customer service staff next year? B: The board agreed to {{BLANK}} about fifty thousand dollars on online courses and workshops, because they believe better training will reduce complaints and help us keep more customers.",
+    "cn": "A：公司明年打算在客服人員的新訓練計畫上投資多少錢？ B：董事會同意在線上課程和工作坊上【花費】大約五萬美元，因為他們相信更好的訓練能減少客訴，並幫助我們留住更多顧客。",
+    "collocation": "spend money on training 花錢在訓練上"
+   },
+   {
+    "word": "purchase",
+    "pos": "v.",
+    "en_def": "to buy something",
+    "cn_def": "購買",
+    "sentence": "A: Why are so many people waiting outside the electronics store at seven o'clock on a Saturday morning? B: The store is offering half price on laptops for the first hundred customers, so people want to {{BLANK}} a new computer before the sale ends and the prices go back up.",
+    "cn": "A：為什麼週六早上七點會有那麼多人在電子產品店外等候？ B：這家店對前一百名顧客提供筆電半價優惠，所以大家想在特價結束、價格回升前【購買】一台新電腦。",
+    "collocation": "purchase a new laptop 購買一台新筆電"
+   },
+   {
+    "word": "acquire",
+    "pos": "v.",
+    "en_def": "to get or buy something, such as a company",
+    "cn_def": "取得；收購",
+    "sentence": "A: Why did the small software company suddenly hire twenty new engineers and move to a bigger office downtown? B: A large international firm plans to {{BLANK}} the company next spring, so it is growing quickly and preparing to develop more products for customers in Europe and Asia.",
+    "cn": "A：為什麼那家小型軟體公司突然雇用二十名新工程師，並搬到市中心更大的辦公室？ B：一家大型國際企業計畫明年春天【收購】這家公司，所以它正在快速成長，並準備為歐洲和亞洲的客戶開發更多產品。",
+    "collocation": "acquire a company 收購一家公司"
+   },
+   {
+    "word": "intake",
+    "pos": "n.",
+    "en_def": "the amount of food or drink that you take in",
+    "cn_def": "攝取量",
+    "sentence": "A: Why did the company nurse suggest changes to the snacks that are sold in the vending machines on every floor? B: Many employees sit at their desks all day, and she wants to help them lower their daily sugar {{BLANK}} by offering fruit, nuts and yogurt instead of candy and soda.",
+    "cn": "A：為什麼公司護理師建議更改每層樓自動販賣機裡販售的零食？ B：許多員工整天坐在辦公桌前，她希望提供水果、堅果和優格來取代糖果和汽水，幫助他們降低每日的糖分【攝取量】。",
+    "collocation": "daily sugar intake 每日糖分攝取量"
+   },
+   {
+    "word": "digestion",
+    "pos": "n.",
+    "en_def": "the process of breaking down food in the body",
+    "cn_def": "消化",
+    "sentence": "A: Why does your manager always take a short walk around the park after lunch, even when he is very busy? B: He says that walking for fifteen minutes helps his {{BLANK}}, so he does not feel heavy and sleepy during the long meetings that usually start at two o'clock.",
+    "cn": "A：為什麼你的經理午餐後總是在公園散步一下，即使他很忙？ B：他說散步十五分鐘有助於他的【消化】，所以在通常兩點開始的冗長會議中，他不會覺得肚子脹、昏昏欲睡。",
+    "collocation": "aid digestion 幫助消化"
+   },
+   {
+    "word": "appetite",
+    "pos": "n.",
+    "en_def": "the wish to eat; a strong wish for something",
+    "cn_def": "食慾；胃口；渴望",
+    "sentence": "A: How did the new marketing campaign for our frozen meals perform in the first three months? B: It was very successful, because the colorful photos of hot food really increased customers' {{BLANK}} for our products, and our sales in supermarkets went up by thirty percent.",
+    "cn": "A：我們冷凍餐點的新行銷活動在前三個月表現如何？ B：非常成功，因為熱騰騰食物的繽紛照片真的提升了顧客對我們產品的【胃口】，我們在超市的銷售量增加了百分之三十。",
+    "collocation": "have a good appetite 胃口很好"
+   },
+   {
+    "word": "gluttony",
+    "pos": "n.",
+    "en_def": "the habit of eating and drinking too much",
+    "cn_def": "暴飲暴食；貪吃",
+    "sentence": "A: Why did the restaurant critic give the new all-you-can-eat buffet such a negative review in the magazine? B: She wrote that the place encourages {{BLANK}} rather than good taste, because guests pile huge amounts of food on their plates and then throw much of it away.",
+    "cn": "A：為什麼餐廳評論家在雜誌上給新開的吃到飽自助餐這麼負面的評價？ B：她寫道那個地方鼓勵的是【暴飲暴食】而不是好品味，因為客人把大量食物堆在盤子上，然後又丟掉很多。",
+    "collocation": "the sin of gluttony 貪食之罪"
+   },
+   {
+    "word": "voracious",
+    "pos": "adj.",
+    "en_def": "wanting a lot of food or a lot of something",
+    "cn_def": "貪婪的；求知若渴的",
+    "sentence": "A: Why is the new intern always the first person to finish the reports and manuals that the manager hands out? B: She is a {{BLANK}} reader who often reads two or three business books every week, so she can understand long documents quickly and remember the important details.",
+    "cn": "A：為什麼新來的實習生總是第一個讀完經理發下來的報告和手冊？ B：她是個【求知若渴的】讀者，常常每週讀兩三本商業書籍，所以能快速理解長篇文件並記住重要細節。",
+    "collocation": "a voracious reader 如飢似渴的讀者"
+   },
+   {
+    "word": "edible",
+    "pos": "adj.",
+    "en_def": "safe or good enough to eat",
+    "cn_def": "可食用的",
+    "sentence": "A: What did the catering company use to decorate the cake for the director's retirement party last Friday? B: They covered it with {{BLANK}} flowers made from sugar and colored chocolate, so the guests could enjoy every part of the cake and nothing had to be thrown away.",
+    "cn": "A：外燴公司上週五用什麼來裝飾總監退休派對的蛋糕？ B：他們用糖和彩色巧克力做成的【可食用的】花朵覆蓋蛋糕，所以客人可以享用蛋糕的每一部分，沒有任何東西需要丟掉。",
+    "collocation": "edible decorations 可食用的裝飾"
+   },
+   {
+    "word": "potable",
+    "pos": "adj.",
+    "en_def": "(of water) clean and safe to drink",
+    "cn_def": "可飲用的",
+    "sentence": "A: Why does the construction company need to bring large water tanks to the new building site outside the city? B: There is no {{BLANK}} water in the area yet, so the workers need clean water for drinking and cooking until the local government connects the site to the main pipes.",
+    "cn": "A：為什麼建設公司需要把大型水箱運到城外的新工地？ B：那個地區還沒有【可飲用的】水，所以在地方政府把工地接上主要水管之前，工人需要乾淨的水來飲用和煮飯。",
+    "collocation": "potable water supply 飲用水供應"
+   },
+   {
+    "word": "disposable",
+    "pos": "adj.",
+    "en_def": "made to be used once and then thrown away",
+    "cn_def": "用完即丟的；一次性的",
+    "sentence": "A: Why did the café near our office start charging customers ten dollars extra for each cup this month? B: The city introduced a new rule to reduce plastic waste, so shops must charge for {{BLANK}} cups, and customers who bring their own mugs now get a small discount.",
+    "cn": "A：為什麼我們辦公室附近的咖啡館這個月開始每杯向顧客多收十元？ B：市政府推出減少塑膠垃圾的新規定，所以商店必須對【一次性】杯子收費，而自備杯子的顧客現在可以享有小折扣。",
+    "collocation": "disposable cups 免洗杯；一次性杯子"
+   },
+   {
+    "word": "recyclable",
+    "pos": "adj.",
+    "en_def": "able to be processed and used again",
+    "cn_def": "可回收的",
+    "sentence": "A: Why did our company change the packaging for all of its skin care products this year? B: Many customers complained that the old boxes were too heavy and full of plastic, so we switched to {{BLANK}} paper packaging that people can put in the blue bins at home.",
+    "cn": "A：為什麼我們公司今年更換了所有護膚產品的包裝？ B：許多顧客抱怨舊盒子太重而且充滿塑膠，所以我們改用【可回收的】紙製包裝，讓大家可以在家丟進藍色回收桶。",
+    "collocation": "recyclable packaging 可回收包裝"
+   },
+   {
+    "word": "overuse",
+    "pos": "v.",
+    "en_def": "to use something too much",
+    "cn_def": "過度使用",
+    "sentence": "A: Why did the IT department send everyone an email about the shared online storage system yesterday afternoon? B: Some teams {{BLANK}} the system by saving large video files there every day, so it has become very slow, and the department now asks staff to delete old files.",
+    "cn": "A：為什麼資訊部門昨天下午寄電子郵件給大家，說明共用線上儲存系統的事？ B：有些團隊每天在那裡存放大型影片檔，【過度使用】這個系統，導致它變得很慢，所以部門現在要求員工刪除舊檔案。",
+    "collocation": "overuse resources 過度使用資源"
+   },
+   {
+    "word": "misuse",
+    "pos": "v.",
+    "en_def": "to use something in a wrong or dishonest way",
+    "cn_def": "濫用；誤用",
+    "sentence": "A: Why was the regional manager asked to leave the company after the annual audit last month? B: The auditors discovered that he continued to {{BLANK}} the company credit card for personal trips and expensive dinners with friends, even after he had been warned twice by the finance director.",
+    "cn": "A：為什麼區域經理在上個月的年度稽核後被要求離開公司？ B：稽核人員發現他持續【濫用】公司信用卡支付私人旅行和與朋友的昂貴晚餐，即使財務總監已經警告過他兩次。",
+    "collocation": "misuse company funds 挪用公司資金"
+   },
+   {
+    "word": "depletion",
+    "pos": "n.",
+    "en_def": "a big reduction in the amount of something",
+    "cn_def": "耗盡；枯竭",
+    "sentence": "A: Why is the fishing company investing so much money in fish farms along the coast instead of buying new boats? B: The managers are worried about the {{BLANK}} of wild fish in the ocean, and they believe farming will give them a more stable supply for many years.",
+    "cn": "A：為什麼漁業公司把那麼多錢投資在沿海的養殖場，而不是購買新船？ B：經理們擔心海洋中野生魚類的【枯竭】，他們相信養殖能在未來多年提供更穩定的供應。",
+    "collocation": "the depletion of natural resources 自然資源的枯竭"
+   },
+   {
+    "word": "energy",
+    "pos": "n.",
+    "en_def": "power from electricity, fuel, the sun, etc. used to run machines",
+    "cn_def": "能源；精力",
+    "sentence": "A: Why did the company install solar panels on the roof of the main factory last summer? B: The managers wanted to produce clean {{BLANK}} for the machines and lights, and they expect the panels to cut the monthly electricity bill by almost a third over the next ten years.",
+    "cn": "A：為什麼公司去年夏天在主工廠屋頂安裝太陽能板？ B：經理們想為機器和照明生產乾淨的【能源】，他們預期這些太陽能板在未來十年能把每月電費減少將近三分之一。",
+    "collocation": "renewable energy 再生能源"
+   },
+   {
+    "word": "resource",
+    "pos": "n.",
+    "en_def": "something useful that a person or company can use",
+    "cn_def": "資源",
+    "sentence": "A: Why does the training manager always tell new employees to talk to Ms. Chen in the accounting department? B: She has worked here for twenty years and knows every system and client, so she is a valuable {{BLANK}} for anyone who has questions about company rules or old projects.",
+    "cn": "A：為什麼訓練經理總是叫新員工去找會計部的陳小姐談談？ B：她在這裡工作了二十年，熟悉每個系統和客戶，所以對任何有公司規定或舊專案問題的人來說，她都是寶貴的【資源】。",
+    "collocation": "a valuable resource 寶貴的資源"
+   },
+   {
+    "word": "fuel",
+    "pos": "n.",
+    "en_def": "something such as gas or oil that is burned to make power",
+    "cn_def": "燃料",
+    "sentence": "A: Why did the delivery company decide to replace half of its old trucks with electric vans this year? B: The price of {{BLANK}} has risen sharply over the past two years, and electric vans are cheaper to run, so the company expects to save money while also reducing pollution in the city.",
+    "cn": "A：為什麼快遞公司今年決定把一半的舊卡車換成電動廂型車？ B：過去兩年【燃料】價格大幅上漲，而電動廂型車的營運成本較低，所以公司預期能省錢，同時減少城市的污染。",
+    "collocation": "fuel costs 燃料成本"
+   },
+   {
+    "word": "calorie",
+    "pos": "n.",
+    "en_def": "a unit for measuring the energy in food",
+    "cn_def": "卡路里；熱量",
+    "sentence": "A: What kind of lunch boxes is the company cafeteria going to offer for staff who want to eat more healthily? B: The chef is creating a new low-{{BLANK}} menu with grilled chicken, brown rice and fresh vegetables, and each box will show nutrition information so people can choose wisely.",
+    "cn": "A：公司餐廳打算為想吃得更健康的員工提供什麼樣的便當？ B：主廚正在設計一份新的低【熱量】菜單，有烤雞、糙米和新鮮蔬菜，而且每個便當都會標示營養資訊，讓大家能聰明地選擇。",
+    "collocation": "a low-calorie meal 低熱量餐點"
+   },
+   {
+    "word": "sustainable",
+    "pos": "adj.",
+    "en_def": "able to continue without harming the environment",
+    "cn_def": "永續的；可持續的",
+    "sentence": "A: Why did the hotel group stop buying cheap furniture from its old supplier in Southeast Asia? B: Investors asked the company to become more {{BLANK}}, so it now buys tables and chairs made from wood that comes from carefully managed forests, even though they cost a little more.",
+    "cn": "A：為什麼這家飯店集團停止向東南亞的舊供應商購買便宜家具？ B：投資人要求公司變得更具【永續性】，所以現在改買來自妥善管理森林的木材製成的桌椅，即使價格稍微貴一點。",
+    "collocation": "sustainable development 永續發展"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The new air conditioners use much less electricity than the old ones. Our monthly power _____ has dropped by fifteen percent.",
+    "options": [
+     "consumption",
+     "appetite",
+     "calorie",
+     "gluttony"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Before launching the new drink, the company tested it with two hundred people. Every _____ was asked to rate its taste and price.",
+    "options": [
+     "digestion",
+     "depletion",
+     "consumer",
+     "calorie"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Toner, paper and staples are _____ supplies that we order every month. Please tell the office manager when stocks are low.",
+    "options": [
+     "voracious",
+     "consumable",
+     "potable",
+     "edible"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Employees are not allowed to _____ at their desks in the design studio. Food must be kept in the staff kitchen.",
+    "options": [
+     "acquire",
+     "deplete",
+     "utilize",
+     "eat"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Visitors may _____ only bottled water inside the laboratory. Coffee and juice must be finished in the lobby.",
+    "options": [
+     "devour",
+     "exhaust",
+     "drink",
+     "acquire"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "These new towels can _____ twice as much water as cotton ones. Several hotel chains have already placed large orders.",
+    "options": [
+     "absorb",
+     "waste",
+     "spend",
+     "misuse"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The new software helps managers _____ their staff more efficiently. It shows who is free and who is overloaded with work.",
+    "options": [
+     "devour",
+     "drink",
+     "ingest",
+     "utilize"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Guests may _____ the fitness center free of charge during their stay. It is open from 6 a.m. to 10 p.m. daily.",
+    "options": [
+     "devour",
+     "use",
+     "deplete",
+     "ingest"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The long negotiations will _____ the team's patience if they continue much longer. The manager hopes to sign the deal by Friday.",
+    "options": [
+     "purchase",
+     "drink",
+     "eat",
+     "exhaust"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Heavy fishing in the bay may _____ fish stocks within a decade. The government is considering strict limits on catches.",
+    "options": [
+     "drink",
+     "deplete",
+     "absorb",
+     "acquire"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Please do not _____ paper by printing every email you receive. Most documents can be read and stored on screen.",
+    "options": [
+     "waste",
+     "devour",
+     "absorb",
+     "acquire"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Our department will _____ most of its budget on new computers this year. The old machines are more than eight years old.",
+    "options": [
+     "drink",
+     "ingest",
+     "spend",
+     "devour"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Customers who _____ two items will receive a third one free. The offer is valid until the end of the month.",
+    "options": [
+     "deplete",
+     "purchase",
+     "ingest",
+     "exhaust"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The bank hopes to _____ a smaller rival to expand its branch network. The deal is expected to close next spring.",
+    "options": [
+     "drink",
+     "eat",
+     "waste",
+     "acquire"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The nutritionist advised the staff to reduce their salt _____. Too much salt can raise blood pressure over time.",
+    "options": [
+     "consumer",
+     "resource",
+     "intake",
+     "gluttony"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Eating slowly and chewing well can improve your _____. Many people feel less tired after a light, relaxed lunch.",
+    "options": [
+     "digestion",
+     "fuel",
+     "consumer",
+     "resource"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "After the long hike up the mountain, everyone had a huge _____. We finished all the sandwiches in ten minutes.",
+    "options": [
+     "resource",
+     "depletion",
+     "appetite",
+     "digestion"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Mr. Park is a _____ learner who signs up for every training course. He has finished six online programs this year.",
+    "options": [
+     "voracious",
+     "potable",
+     "recyclable",
+     "disposable"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Some of the mushrooms in this forest are not _____. Never pick and cook wild plants without an expert's advice.",
+    "options": [
+     "voracious",
+     "recyclable",
+     "disposable",
+     "edible"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The hotel's tap water is not _____, so guests should use the bottled water provided. Each room receives four free bottles a day.",
+    "options": [
+     "voracious",
+     "potable",
+     "edible",
+     "disposable"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The hospital uses _____ gloves that are thrown away after each patient. This helps prevent the spread of infection.",
+    "options": [
+     "disposable",
+     "voracious",
+     "potable",
+     "sustainable"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "All of our shipping boxes are now _____. Customers can put them in the paper bin after they unpack their orders.",
+    "options": [
+     "edible",
+     "voracious",
+     "recyclable",
+     "potable"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Staff who _____ company laptops for personal business may face disciplinary action. Please read the IT policy carefully.",
+    "options": [
+     "drink",
+     "misuse",
+     "devour",
+     "ingest"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Scientists warn that the _____ of groundwater could cause serious problems for farmers. Some wells in the region are already dry.",
+    "options": [
+     "appetite",
+     "consumer",
+     "calorie",
+     "depletion"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The new building uses solar panels to produce most of its own _____. As a result, its electricity bills are very low.",
+    "options": [
+     "appetite",
+     "consumer",
+     "energy",
+     "digestion"
+    ],
+    "answer": 2,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Fresh water is a precious _____ in desert cities. Hotels there ask guests to reuse their towels and take short showers.",
+    "options": [
+     "appetite",
+     "resource",
+     "consumer",
+     "digestion"
+    ],
+    "answer": 1,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The airline raised ticket prices because the cost of jet _____ went up again. Passengers will pay about five percent more.",
+    "options": [
+     "appetite",
+     "intake",
+     "digestion",
+     "fuel"
+    ],
+    "answer": 3,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The menu lists the _____ count of every dish. Customers who are on a diet find this information very useful.",
+    "options": [
+     "calorie",
+     "consumer",
+     "resource",
+     "digestion"
+    ],
+    "answer": 0,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The company aims to use only _____ materials in its products by 2030. It has already stopped using plastic from oil.",
+    "options": [
+     "voracious",
+     "sustainable",
+     "edible",
+     "potable"
+    ],
+    "answer": 1,
+    "vocabIndex": 33
+   },
+   {
+    "q": "The hungry players _____ every sandwich on the table within minutes. The coach had to order more food for the team.",
+    "options": [
+     "absorb",
+     "acquire",
+     "misuse",
+     "devour"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   }
+  ]
+ },
+ "80": {
+  "theme": "Contribute 貢獻",
+  "source": "https://www.examword.com/group-topic/contribute",
+  "VOCAB": [
+   {
+    "word": "contribution",
+    "pos": "n.",
+    "en_def": "something you give or do to help something succeed",
+    "cn_def": "貢獻；捐款",
+    "sentence": "A: Why did the director mention Linda by name during the end-of-year party at the hotel last night? B: She wanted to thank her for her important {{BLANK}} to the new online store, because Linda designed the payment system that helped us double our sales in only six months.",
+    "cn": "A：昨晚在飯店的年終派對上，主任為什麼特別點名琳達？ B：她想感謝琳達對新網路商店的重要【貢獻】，因為琳達設計了付款系統，幫助我們在短短六個月內讓銷售額翻倍。",
+    "collocation": "make a major contribution to the project 對專案做出重大貢獻"
+   },
+   {
+    "word": "contributor",
+    "pos": "n.",
+    "en_def": "a person who gives money, work or ideas to something",
+    "cn_def": "貢獻者；撰稿人",
+    "sentence": "A: Who wrote the article about saving energy in the office that appeared in this month's company newsletter? B: It was written by Mr. Tanaka from the engineering team, and he is now a regular {{BLANK}} to the newsletter, so he will send us a new article every two months.",
+    "cn": "A：這個月公司通訊裡那篇關於辦公室節能的文章是誰寫的？ B：是工程團隊的田中先生寫的，他現在是通訊的固定【撰稿人】，所以他每兩個月會寄一篇新文章給我們。",
+    "collocation": "a regular contributor to the magazine 雜誌的固定撰稿人"
+   },
+   {
+    "word": "donate",
+    "pos": "v.",
+    "en_def": "to give money or goods to help a person or group",
+    "cn_def": "捐贈；捐款",
+    "sentence": "A: What are we going to do with all the old laptops and office chairs after we move to the new building next month? B: The manager has decided to {{BLANK}} them to a local school, since they still work well and the students there really need more computers for their classes.",
+    "cn": "A：下個月搬到新大樓後，我們要怎麼處理那些舊筆電和辦公椅？ B：經理決定把它們【捐贈】給當地一所學校，因為它們還很好用，而那裡的學生上課很需要更多電腦。",
+    "collocation": "donate money to charity 捐錢給慈善機構"
+   },
+   {
+    "word": "donation",
+    "pos": "n.",
+    "en_def": "money or goods that you give to help a person or group",
+    "cn_def": "捐款；捐贈物",
+    "sentence": "A: How much money did our staff raise at the charity bake sale in the lobby last Friday afternoon? B: We collected almost two thousand dollars, and the company agreed to match every {{BLANK}}, so the children's hospital will receive four thousand dollars for new equipment.",
+    "cn": "A：上週五下午我們員工在大廳舉辦的慈善烘焙義賣籌到多少錢？ B：我們募到將近兩千美元，而且公司同意對每一筆【捐款】提供相同金額，所以兒童醫院將收到四千美元購買新設備。",
+    "collocation": "make a donation to the hospital 捐款給醫院"
+   },
+   {
+    "word": "donor",
+    "pos": "n.",
+    "en_def": "a person or company that gives money or goods to help",
+    "cn_def": "捐贈者",
+    "sentence": "A: Why is there a new name on the wall next to the entrance of the city library this week? B: That is the name of the largest {{BLANK}}, a local businessman who gave half a million dollars to build the new reading room and buy hundreds of children's books.",
+    "cn": "A：這週市立圖書館入口旁的牆上為什麼多了一個新名字？ B：那是最大【捐贈者】的名字，他是一位本地商人，捐了五十萬美元興建新閱覽室，並購買了數百本童書。",
+    "collocation": "a generous donor 慷慨的捐贈者"
+   },
+   {
+    "word": "support",
+    "pos": "n.",
+    "en_def": "help or encouragement that you give to someone",
+    "cn_def": "支持；支援",
+    "sentence": "A: How did your small team finish the huge marketing report before the deadline, even though two people were sick last week? B: We could not have done it without the {{BLANK}} of the sales department, because they sent us three extra people to collect data and check the numbers.",
+    "cn": "A：雖然上週有兩個人生病，你們的小團隊是怎麼在截止日前完成那份龐大的行銷報告的？ B：沒有業務部的【支援】我們不可能做到，因為他們派了三個額外人手來幫我們蒐集資料和核對數字。",
+    "collocation": "receive strong support from management 獲得管理階層的大力支持"
+   },
+   {
+    "word": "assistance",
+    "pos": "n.",
+    "en_def": "help",
+    "cn_def": "協助；幫助",
+    "sentence": "A: I'm having trouble with the new booking system, and three customers are waiting at the front desk right now. B: Don't worry, just call the IT office on extension 205, and someone will give you {{BLANK}} within a few minutes, because they are on duty all morning to deal with problems like this.",
+    "cn": "A：我在新的訂位系統上遇到問題，而且現在有三位客人在櫃台等著。 B：別擔心，只要打分機205給資訊室，幾分鐘內就會有人給你【協助】，因為他們整個早上都在值班處理這類問題。",
+    "collocation": "provide technical assistance 提供技術協助"
+   },
+   {
+    "word": "aid",
+    "pos": "n.",
+    "en_def": "help such as money, food or supplies for people in need",
+    "cn_def": "援助；救助",
+    "sentence": "A: Why are so many boxes of food, water, and blankets stacked near the loading area of our warehouse today? B: Our company is sending emergency {{BLANK}} to the towns that were hit by the flood last weekend, and the trucks will leave for the south early tomorrow morning.",
+    "cn": "A：今天我們倉庫的裝卸區附近為什麼堆了那麼多箱食物、水和毛毯？ B：我們公司要將緊急【援助】物資送到上週末遭受水災的城鎮，卡車明天一早就會出發前往南部。",
+    "collocation": "send emergency aid to the area 運送緊急援助物資到該地區"
+   },
+   {
+    "word": "help",
+    "pos": "v.",
+    "en_def": "to make it easier for someone to do something",
+    "cn_def": "幫助；幫忙",
+    "sentence": "A: The new intern looks a bit lost at her desk, and she has been staring at that spreadsheet for almost an hour. B: Could you go over and {{BLANK}} her with the formulas for a while, since you know the program better than anyone else in this office?",
+    "cn": "A：新來的實習生坐在座位上看起來有點不知所措，她盯著那張試算表快一個小時了。 B：你可以過去【幫】她弄一下公式嗎？畢竟你比辦公室裡任何人都熟悉這個程式。",
+    "collocation": "help a colleague with a task 幫同事處理工作"
+   },
+   {
+    "word": "volunteer",
+    "pos": "v.",
+    "en_def": "to offer to do something without being asked or paid",
+    "cn_def": "自願；當志工",
+    "sentence": "A: Who is going to stay late on Friday to welcome the visitors from our partner company in Germany? B: Kevin and Mia decided to {{BLANK}} for the job, because they both speak some German and they thought it would be a good chance to practice and meet new people.",
+    "cn": "A：週五誰會留晚一點迎接我們德國合作公司的訪客？ B：凱文和米亞決定【自願】擔任這份工作，因為他們都會說一點德語，而且他們覺得這是練習和認識新朋友的好機會。",
+    "collocation": "volunteer to help at the event 自願在活動中幫忙"
+   },
+   {
+    "word": "voluntary",
+    "pos": "adj.",
+    "en_def": "done because you want to, not because you must",
+    "cn_def": "自願的；義務的",
+    "sentence": "A: Do all employees have to join the English training class that starts every Wednesday evening next month? B: No, the class is completely {{BLANK}}, so you can decide for yourself, but the manager hopes that people who often talk with foreign clients will try to attend.",
+    "cn": "A：下個月每週三晚上開始的英語訓練課，所有員工都必須參加嗎？ B：不用，這門課完全是【自願參加的】，所以你可以自己決定，不過經理希望常和外國客戶交談的人能盡量出席。",
+    "collocation": "voluntary work at a local charity 在當地慈善機構做義工"
+   },
+   {
+    "word": "sponsor",
+    "pos": "v.",
+    "en_def": "to pay for an event or activity, often to advertise your company",
+    "cn_def": "贊助",
+    "sentence": "A: Why is our company logo printed on all the T-shirts for the city marathon this year? B: The board agreed to {{BLANK}} the race for three years, because thousands of runners and their families will see our name, and it shows that we care about health in the community.",
+    "cn": "A：為什麼今年城市馬拉松的所有T恤上都印著我們公司的標誌？ B：董事會同意【贊助】這場比賽三年，因為成千上萬的跑者和他們的家人都會看到我們的名字，而且這顯示我們關心社區的健康。",
+    "collocation": "sponsor a local sports event 贊助當地體育活動"
+   },
+   {
+    "word": "sponsorship",
+    "pos": "n.",
+    "en_def": "money or support given to pay for an event or activity",
+    "cn_def": "贊助",
+    "sentence": "A: How can the drama club pay for the costumes and the theater for its big show in December? B: The club leader is asking several banks and restaurants downtown for {{BLANK}}, and in return their names will appear on the posters and in the program for the show.",
+    "cn": "A：戲劇社要怎麼支付十二月大型演出的服裝和劇場費用？ B：社長正在向市中心幾家銀行和餐廳尋求【贊助】，作為回報，他們的名字會出現在海報和演出節目單上。",
+    "collocation": "seek corporate sponsorship 尋求企業贊助"
+   },
+   {
+    "word": "fund",
+    "pos": "v.",
+    "en_def": "to provide money for something",
+    "cn_def": "資助；提供資金",
+    "sentence": "A: Is the government going to pay for the new bus line between the airport and the business park? B: Yes, the city will {{BLANK}} most of the project, but two large companies in the park will also pay part of the cost, because their workers will use the buses every day.",
+    "cn": "A：政府會出錢興建機場和商業園區之間的新公車路線嗎？ B：會，市政府將【資助】這項計畫的大部分費用，不過園區裡的兩家大公司也會負擔部分成本，因為他們的員工每天都會搭這些公車。",
+    "collocation": "fund a new research project 資助一項新研究計畫"
+   },
+   {
+    "word": "funding",
+    "pos": "n.",
+    "en_def": "money that is given for a particular purpose",
+    "cn_def": "資金；經費",
+    "sentence": "A: Why did the science team stop working on the new battery project after only one year? B: They lost their {{BLANK}} when the main investor pulled out last spring, and without money they could not pay for the expensive machines and the salaries of the researchers.",
+    "cn": "A：為什麼科學團隊才做了一年就停止新電池計畫？ B：去年春天主要投資者退出後，他們就失去了【資金】，沒有錢就付不起昂貴的機器和研究人員的薪水。",
+    "collocation": "receive government funding 獲得政府資金"
+   },
+   {
+    "word": "subsidize",
+    "pos": "v.",
+    "en_def": "to pay part of the cost of something",
+    "cn_def": "補助；補貼",
+    "sentence": "A: How can the factory workers afford such nice lunches in the staff cafeteria when food prices are rising so fast? B: The company has decided to {{BLANK}} the meals, so each worker only pays half the real price, and the rest comes out of the welfare budget.",
+    "cn": "A：食物價格漲得這麼快，工廠員工怎麼吃得起員工餐廳那麼好的午餐？ B：公司決定【補貼】餐費，所以每位員工只需付實際價格的一半，其餘由福利預算支付。",
+    "collocation": "subsidize staff meals 補貼員工餐費"
+   },
+   {
+    "word": "participate",
+    "pos": "v.",
+    "en_def": "to take part in an activity or event",
+    "cn_def": "參加；參與",
+    "sentence": "A: Are you going to join the sales training in Taichung next week, or do you have too many meetings with clients? B: I plan to {{BLANK}} in the first two days, but I have to come back on Wednesday to meet an important customer from Japan at our main office.",
+    "cn": "A：你下週會去參加台中的業務訓練嗎？還是你和客戶的會議太多了？ B：我打算【參加】前兩天，但週三我必須回來，在總公司和一位重要的日本客戶見面。",
+    "collocation": "participate in a training program 參加培訓課程"
+   },
+   {
+    "word": "participation",
+    "pos": "n.",
+    "en_def": "the act of taking part in something",
+    "cn_def": "參與；參加",
+    "sentence": "A: Why did the HR manager look so pleased at the end of the staff meeting this afternoon? B: She was happy about the high level of {{BLANK}} in the health survey, because almost ninety percent of the employees answered all the questions before the deadline.",
+    "cn": "A：今天下午員工會議結束時，人資經理為什麼看起來那麼滿意？ B：她很高興健康調查的【參與】度很高，因為將近百分之九十的員工都在截止日前回答了所有問題。",
+    "collocation": "encourage active participation 鼓勵積極參與"
+   },
+   {
+    "word": "engage",
+    "pos": "v.",
+    "en_def": "to get someone interested and involved in something",
+    "cn_def": "吸引…參與；參與",
+    "sentence": "A: What is the main goal of the new social media plan that the marketing team presented this morning? B: They want to {{BLANK}} young customers by posting short videos and asking questions, so that people will comment, share their ideas, and feel closer to our brand.",
+    "cn": "A：行銷團隊今天早上提出的新社群媒體計畫，主要目標是什麼？ B：他們想藉由發布短片和提問來【吸引】年輕顧客參與，讓大家留言、分享想法，並覺得和我們的品牌更親近。",
+    "collocation": "engage customers online 在網路上吸引顧客參與"
+   },
+   {
+    "word": "involvement",
+    "pos": "n.",
+    "en_def": "the act of taking part in something",
+    "cn_def": "參與；牽涉",
+    "sentence": "A: Why does the director want the store managers to attend the planning meetings for next year's products? B: She believes their {{BLANK}} is very important, because they talk to customers every day and know which items sell well and which ones stay on the shelves.",
+    "cn": "A：為什麼主任希望門市經理參加明年產品的規劃會議？ B：她認為他們的【參與】非常重要，因為他們每天和顧客交談，知道哪些商品賣得好、哪些一直擺在架上。",
+    "collocation": "increase community involvement 增加社區參與"
+   },
+   {
+    "word": "collaborate",
+    "pos": "v.",
+    "en_def": "to work together with others to make or do something",
+    "cn_def": "合作；協作",
+    "sentence": "A: How will the design team in Taipei and the engineers in Singapore finish the new phone app by March? B: They will {{BLANK}} closely through video meetings every morning, and they will share all their files online so that both teams can see the latest changes at any time.",
+    "cn": "A：台北的設計團隊和新加坡的工程師要怎麼在三月前完成新的手機應用程式？ B：他們每天早上會透過視訊會議密切【合作】，並把所有檔案放在網路上共享，讓兩個團隊隨時都能看到最新的修改。",
+    "collocation": "collaborate closely with partners 與合作夥伴密切合作"
+   },
+   {
+    "word": "collaboration",
+    "pos": "n.",
+    "en_def": "the act of working together with others",
+    "cn_def": "合作",
+    "sentence": "A: Did you hear that our coffee shop chain is going to sell cakes from that famous French bakery next month? B: Yes, the new menu is the result of a {{BLANK}} between the two companies, and both sides hope it will bring more customers into the shops in the afternoon.",
+    "cn": "A：你有沒有聽說我們的咖啡連鎖店下個月要販售那家知名法式麵包店的蛋糕？ B：有啊，新菜單是兩家公司【合作】的成果，雙方都希望這能在下午吸引更多顧客進店。",
+    "collocation": "in collaboration with a local university 與當地大學合作"
+   },
+   {
+    "word": "cooperate",
+    "pos": "v.",
+    "en_def": "to work together or do what someone asks",
+    "cn_def": "合作；配合",
+    "sentence": "A: The fire safety inspectors are coming to check the whole building on Thursday morning, aren't they? B: Yes, and the manager has asked all of us to {{BLANK}} with them fully, so please open every storage room and answer their questions honestly when they visit our floor.",
+    "cn": "A：消防安全檢查員週四早上要來檢查整棟大樓，對吧？ B：對，經理要求我們全力【配合】他們，所以當他們來到我們這層樓時，請打開每一間儲藏室，並誠實回答他們的問題。",
+    "collocation": "cooperate fully with the inspectors 全力配合檢查人員"
+   },
+   {
+    "word": "cooperation",
+    "pos": "n.",
+    "en_def": "the act of working together to get something done",
+    "cn_def": "合作；配合",
+    "sentence": "A: Why did the train company send an email to all passengers about the station repairs this weekend? B: They wanted to explain the changes to the timetable and thank everyone for their {{BLANK}}, because some trains will be slower and the main entrance will be closed for two days.",
+    "cn": "A：火車公司為什麼寄電子郵件給所有乘客，說明本週末的車站維修？ B：他們想說明時刻表的變動，並感謝大家的【配合】，因為有些列車會比較慢，主要入口也會關閉兩天。",
+    "collocation": "thank you for your cooperation 感謝您的配合"
+   },
+   {
+    "word": "assist",
+    "pos": "v.",
+    "en_def": "to help someone",
+    "cn_def": "協助；幫助",
+    "sentence": "A: The new cashier is starting work on Monday, but nobody has shown her how to use the cash register yet. B: Don't worry, Linda will stay with her for the first week to {{BLANK}} her with difficult customers and show her how to handle returns and credit card problems.",
+    "cn": "A：新收銀員週一開始上班，但還沒有人教她怎麼使用收銀機。 B：別擔心，第一週琳達會陪著她，【協助】她應付難搞的顧客，並教她如何處理退貨和信用卡的問題。",
+    "collocation": "assist customers with their questions 協助顧客解答問題"
+   },
+   {
+    "word": "share",
+    "pos": "v.",
+    "en_def": "to use something together with others; to tell others something",
+    "cn_def": "分享；共用",
+    "sentence": "A: Why are you moving all your things out of your office this afternoon? Is something wrong? B: Nothing is wrong, but our department is getting two new managers, so I have to {{BLANK}} a room with Peter until the renovation on the fifth floor is finished in June.",
+    "cn": "A：你今天下午為什麼要把東西全部搬出辦公室？發生什麼事了嗎？ B：沒什麼事，只是我們部門要來兩位新經理，所以在五樓的整修六月完工之前，我得和彼得【共用】一間辦公室。",
+    "collocation": "share ideas with the team 與團隊分享想法"
+   },
+   {
+    "word": "provide",
+    "pos": "v.",
+    "en_def": "to give someone something they need",
+    "cn_def": "提供",
+    "sentence": "A: Do we need to bring our own lunch to the training workshop at the hotel on Saturday? B: No, the organizers will {{BLANK}} lunch and coffee for everyone, but you should bring a notebook and a pen, because the trainer will ask us to write down a lot of ideas.",
+    "cn": "A：週六在飯店舉辦的培訓工作坊，我們需要自備午餐嗎？ B：不用，主辦單位會為每個人【提供】午餐和咖啡，但你應該帶筆記本和筆，因為講師會要我們寫下很多想法。",
+    "collocation": "provide free parking for guests 為客人提供免費停車"
+   },
+   {
+    "word": "offer",
+    "pos": "v.",
+    "en_def": "to say you are willing to give or do something",
+    "cn_def": "提供；主動提出",
+    "sentence": "A: The hotel was fully booked when we arrived last night, so what did the receptionist do for us? B: She apologized many times and decided to {{BLANK}} us a free room at their sister hotel nearby, and she also called a taxi to take us there with our luggage.",
+    "cn": "A：我們昨晚抵達時飯店已經客滿了，那櫃台人員幫我們做了什麼？ B：她道歉了好多次，並決定【提供】我們附近姊妹飯店的一間免費房間，還叫了計程車載我們和行李過去。",
+    "collocation": "offer a discount to new customers 為新顧客提供折扣"
+   },
+   {
+    "word": "give",
+    "forms": "give – gave – given",
+    "pos": "v.",
+    "en_def": "to let someone have something",
+    "cn_def": "給；給予",
+    "sentence": "A: What should I do with the extra tickets for the company concert, since my family can't come on Saturday? B: You could {{BLANK}} them to the new staff in the accounting department, because they just moved to the city and probably don't have many plans for the weekend yet.",
+    "cn": "A：我家人週六不能來，公司音樂會多出來的票我該怎麼處理？ B：你可以把票【給】會計部的新同事，因為他們剛搬到這個城市，週末可能還沒有什麼安排。",
+    "collocation": "give a presentation to clients 向客戶做簡報"
+   },
+   {
+    "word": "input",
+    "pos": "n.",
+    "en_def": "ideas, advice or information that you give to help with something",
+    "cn_def": "意見；投入",
+    "sentence": "A: Why did the manager invite the delivery drivers to the meeting about the new warehouse layout? B: She wanted their {{BLANK}} before making a final decision, because the drivers load and unload the trucks every day and know exactly where the shelves and doors should go.",
+    "cn": "A：經理為什麼邀請送貨司機參加新倉庫配置的會議？ B：她想在做最後決定之前聽聽他們的【意見】，因為司機每天都在裝卸貨車，非常清楚貨架和門應該放在哪裡。",
+    "collocation": "welcome input from employees 歡迎員工提供意見"
+   },
+   {
+    "word": "back",
+    "pos": "v.",
+    "en_def": "to support a person, plan or idea",
+    "cn_def": "支持；支援",
+    "sentence": "A: Do you think the board will agree to open a new branch in Kaohsiung next year? B: I think so, because the two biggest shareholders have already said they will {{BLANK}} the plan, and the market research shows strong demand for our products in southern Taiwan.",
+    "cn": "A：你覺得董事會會同意明年在高雄開設新分公司嗎？ B：我想會，因為兩位最大股東已經表示會【支持】這個計畫，而且市場調查顯示台灣南部對我們的產品需求強勁。",
+    "collocation": "back the new proposal 支持新提案"
+   },
+   {
+    "word": "endorse",
+    "pos": "v.",
+    "en_def": "to say publicly that you support a person, product or idea",
+    "cn_def": "支持；背書；代言",
+    "sentence": "A: Why did sales of our new running shoes go up so quickly after the first week? B: A famous Olympic runner agreed to {{BLANK}} them on her social media, and after she posted a video of her training in our shoes, thousands of young people ordered a pair online.",
+    "cn": "A：我們的新款跑鞋為什麼在第一週後銷量就迅速上升？ B：一位知名奧運跑者同意在她的社群媒體上為這款鞋【代言】，她發布穿著我們的鞋訓練的影片後，成千上萬的年輕人上網訂購了一雙。",
+    "collocation": "endorse a new product 為新產品代言"
+   },
+   {
+    "word": "pitch in",
+    "pos": "v.phr.",
+    "en_def": "to join others and help with work",
+    "cn_def": "出一份力；幫忙",
+    "sentence": "A: How will we get all these boxes packed before the moving company arrives at eight tomorrow morning? B: If everyone in the department can {{BLANK}} for an hour after work today, we should finish in time, and the manager has promised to buy pizza for all of us.",
+    "cn": "A：搬家公司明天早上八點就要到了，我們要怎麼在那之前把這些箱子全部打包好？ B：如果部門裡每個人今天下班後都能【幫忙】一個小時，我們應該能及時完成，而且經理答應請大家吃披薩。",
+    "collocation": "everyone pitches in to finish the job 大家一起出力完成工作"
+   },
+   {
+    "word": "play a part",
+    "pos": "v.phr.",
+    "en_def": "to help cause something; to be one of the reasons for it",
+    "cn_def": "起作用；扮演角色",
+    "sentence": "A: Our team won the customer service award this year, but why did the director thank the cleaning staff in her speech? B: She said that everyone in the building helps us, and that the cleaners also {{BLANK}} in our success, because a clean and comfortable lobby makes visitors feel welcome before they even talk to us.",
+    "cn": "A：我們團隊今年贏得了客服獎，但主任為什麼在致詞中感謝清潔人員？ B：她說大樓裡的每個人都在幫助我們，清潔人員也在我們的成功中【發揮了作用】，因為乾淨舒適的大廳能讓訪客在和我們交談之前就感到賓至如歸。",
+    "collocation": "play a part in the company's growth 在公司成長中發揮作用"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Every employee who joins the tree-planting day will receive a small gift. The company wants to thank them for their _____ to a greener city.",
+    "options": [
+     "contribution",
+     "donor",
+     "contributor",
+     "participation"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Ms. Huang has written for the travel magazine for ten years. She is its most popular _____, and readers love her stories about small towns.",
+    "options": [
+     "donation",
+     "funding",
+     "contributor",
+     "cooperation"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Hotel guests can leave unused soap and shampoo in their rooms. The hotel will _____ these items to homeless shelters in the city.",
+    "options": [
+     "participate",
+     "donate",
+     "collaborate",
+     "subsidize"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The museum is free to visit every Sunday. However, visitors can leave a small _____ in the box near the front door.",
+    "options": [
+     "involvement",
+     "donor",
+     "cooperation",
+     "donation"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The hospital held a dinner to thank every _____ who gave money for the new cancer center. More than two hundred guests attended the event.",
+    "options": [
+     "funding",
+     "assistance",
+     "donor",
+     "participation"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Our new manager has strong _____ from the whole team. Everyone believes in her plan to improve customer service this year.",
+    "options": [
+     "support",
+     "donor",
+     "contributor",
+     "funding"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "If you need any _____ with your luggage, please call the front desk. A porter will come to your room right away.",
+    "options": [
+     "donor",
+     "funding",
+     "sponsorship",
+     "assistance"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "After the earthquake, several countries sent food and medicine to the area. This international _____ helped thousands of families survive the cold winter.",
+    "options": [
+     "input",
+     "aid",
+     "donor",
+     "contributor"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "We need five people to help clean the park on Saturday morning. Please _____ by writing your name on the list in the break room.",
+    "options": [
+     "subsidize",
+     "endorse",
+     "fund",
+     "volunteer"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "A large bank has agreed to _____ the jazz festival this summer. Its name will appear on every poster and ticket.",
+    "options": [
+     "participate",
+     "sponsor",
+     "cooperate",
+     "volunteer"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The soccer team lost its _____ when the drink company decided to cut its marketing budget. The players now need to find a new partner.",
+    "options": [
+     "sponsorship",
+     "participation",
+     "contributor",
+     "input"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The city plans to _____ free English classes for taxi drivers. Officials hope this will help tourists get around more easily.",
+    "options": [
+     "cooperate",
+     "participate",
+     "fund",
+     "volunteer"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The research team has applied for government _____ to study air pollution in the city. They will need about one million dollars.",
+    "options": [
+     "donor",
+     "funding",
+     "involvement",
+     "contributor"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Many companies _____ public transportation passes for their workers. This means employees only pay part of the monthly cost.",
+    "options": [
+     "participate",
+     "collaborate",
+     "volunteer",
+     "subsidize"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "More than fifty companies will _____ in the job fair at the convention center. Students can talk to managers and hand in their résumés.",
+    "options": [
+     "subsidize",
+     "endorse",
+     "participate",
+     "give"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The workshop is very practical and includes many group activities. Active _____ from every attendee is expected.",
+    "options": [
+     "participation",
+     "donor",
+     "funding",
+     "sponsorship"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Good teachers use games and real stories to _____ their students. When learners are interested, they remember new words more easily.",
+    "options": [
+     "subsidize",
+     "donate",
+     "engage",
+     "sponsor"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The report showed that the manager had no _____ in the pricing mistake. The error was made by an outside supplier.",
+    "options": [
+     "involvement",
+     "donor",
+     "sponsorship",
+     "funding"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The two universities will _____ on a study of ocean plastic. Researchers from both schools will share their data and lab equipment.",
+    "options": [
+     "donate",
+     "collaborate",
+     "subsidize",
+     "endorse"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The new cookbook was written in _____ with a famous chef from Paris. It includes fifty easy recipes for busy families.",
+    "options": [
+     "donation",
+     "contributor",
+     "funding",
+     "collaboration"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Passengers are asked to _____ with security staff at the airport. Please follow their instructions and keep your bags with you at all times.",
+    "options": [
+     "cooperate",
+     "donate",
+     "fund",
+     "endorse"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The road repairs will cause some noise and traffic delays this week. We thank all local residents for their patience and _____.",
+    "options": [
+     "donor",
+     "funding",
+     "cooperation",
+     "contributor"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Two trained nurses will _____ the doctor during the health check event. They will measure blood pressure and record each patient's results.",
+    "options": [
+     "donate",
+     "subsidize",
+     "volunteer",
+     "assist"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "There are not enough desks for the new interns this month. Two of them will have to _____ a desk until more furniture arrives.",
+    "options": [
+     "sponsor",
+     "share",
+     "endorse",
+     "fund"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The hotel will _____ free shuttle buses to the airport every hour. Guests should wait in front of the main entrance.",
+    "options": [
+     "participate",
+     "collaborate",
+     "cooperate",
+     "provide"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The sales clerk saw that the shirt had a small stain. She decided to _____ the customer a twenty percent discount on it.",
+    "options": [
+     "participate",
+     "offer",
+     "collaborate",
+     "endorse"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Before you leave the office tonight, please _____ this envelope to Mr. Lin at the front desk. It contains his new contract.",
+    "options": [
+     "give",
+     "participate",
+     "subsidize",
+     "cooperate"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Before we change the office layout, we would like your _____. Please send us your ideas and suggestions by Friday.",
+    "options": [
+     "donor",
+     "contributor",
+     "input",
+     "funding"
+    ],
+    "answer": 2,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The mayor has promised to _____ the plan for a new bike lane downtown. Many local shop owners also support the idea.",
+    "options": [
+     "participate",
+     "back",
+     "cooperate",
+     "volunteer"
+    ],
+    "answer": 1,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The famous tennis player was paid to _____ the new sports drink. Her photo now appears on the bottles and in TV ads.",
+    "options": [
+     "participate",
+     "collaborate",
+     "cooperate",
+     "endorse"
+    ],
+    "answer": 3,
+    "vocabIndex": 31
+   }
+  ]
+ },
+ "81": {
+  "theme": "Conversation 對話",
+  "source": "https://www.examword.com/group-topic/conversation",
+  "VOCAB": [
+   {
+    "word": "lecturer",
+    "pos": "n.",
+    "en_def": "a person who teaches at a university or gives talks",
+    "cn_def": "講師",
+    "sentence": "A: Who will lead the two-day training course on business writing that the human resources department has organized for new employees next month? B: A {{BLANK}} from the local university will teach it, because she has taught report writing to adults for many years and also worked as an editor for a newspaper.",
+    "cn": "A：人資部門為新進員工安排了下個月為期兩天的商業寫作訓練課程，由誰來帶？ B：當地大學的一位【講師】會來教，因為她多年來一直教成人寫報告，也曾在報社擔任編輯。",
+    "collocation": "a guest lecturer at the business school 商學院的客座講師"
+   },
+   {
+    "word": "impress",
+    "pos": "v.",
+    "en_def": "to make someone admire or respect you",
+    "cn_def": "使印象深刻；使欽佩",
+    "sentence": "A: Why did the sales director invite you to join the meeting with the new clients from Singapore this afternoon? B: She wants me to {{BLANK}} them with the short video I made about our factory, because she thinks it shows our quality control better than any long report could.",
+    "cn": "A：業務總監為什麼邀請你參加今天下午和新加坡新客戶的會議？ B：她希望我用我製作的那支關於我們工廠的短片讓他們【留下深刻印象】，因為她認為那支影片比任何冗長的報告都更能展現我們的品質管控。",
+    "collocation": "try to impress the interviewer 努力讓面試官留下好印象"
+   },
+   {
+    "word": "admit",
+    "pos": "v.",
+    "en_def": "to agree that something is true, often something bad",
+    "cn_def": "承認",
+    "sentence": "A: How did the project manager react when the client asked why the new website was still not working last Friday? B: He decided to {{BLANK}} that our team had made a mistake in the payment system, and then he promised to fix the problem before the end of the weekend.",
+    "cn": "A：上週五客戶問為什麼新網站還不能用時，專案經理有什麼反應？ B：他決定【承認】我們團隊在付款系統上出了錯，接著承諾在週末結束前修好問題。",
+    "collocation": "admit a mistake openly 公開承認錯誤"
+   },
+   {
+    "word": "motivate",
+    "pos": "v.",
+    "en_def": "to make someone want to do something or work harder",
+    "cn_def": "激勵；激發",
+    "sentence": "A: What do you usually say to the new sales staff when they feel tired after a long week of phone calls without many results? B: I try to {{BLANK}} them by sharing stories of my own first year, when I also failed often but slowly learned how to win customers' trust.",
+    "cn": "A：新進業務人員打了一整週電話卻沒什麼成果、感到疲累時，你通常會對他們說什麼？ B：我會試著分享我自己第一年的故事來【激勵】他們，那時我也常常失敗，但慢慢學會了如何贏得客戶的信任。",
+    "collocation": "motivate employees to work harder 激勵員工更努力工作"
+   },
+   {
+    "word": "creative",
+    "pos": "adj.",
+    "en_def": "good at thinking of new and interesting ideas",
+    "cn_def": "有創意的",
+    "sentence": "A: Why did the marketing team choose Lisa to plan the opening event for our new café downtown? B: She always has {{BLANK}} ideas, such as the free coffee tasting she organized last year, and her events usually attract many young customers who share photos online.",
+    "cn": "A：行銷團隊為什麼選擇麗莎來籌劃我們市中心新咖啡店的開幕活動？ B：她總是有很【有創意的】點子，像是她去年舉辦的免費咖啡品嚐會，而且她的活動通常會吸引很多會在網路上分享照片的年輕顧客。",
+    "collocation": "come up with creative solutions 想出有創意的解決辦法"
+   },
+   {
+    "word": "effective",
+    "pos": "adj.",
+    "en_def": "working well and producing the result you want",
+    "cn_def": "有效的",
+    "sentence": "A: Have you found a good way to keep the weekly team meeting short now that so many people join it online from different offices? B: The most {{BLANK}} method has been sending the agenda one day early, so everyone comes prepared and we usually finish in under thirty minutes.",
+    "cn": "A：現在有那麼多人從不同辦公室線上參加，你有找到讓每週團隊會議保持簡短的好方法嗎？ B：最【有效的】方法是提前一天寄出議程，這樣大家都有備而來，我們通常不到三十分鐘就能結束。",
+    "collocation": "an effective way to communicate 有效的溝通方式"
+   },
+   {
+    "word": "monopolize",
+    "pos": "v.",
+    "en_def": "to take all of something, such as a conversation, so others cannot share it",
+    "cn_def": "獨占；壟斷",
+    "sentence": "A: Why did the chairperson set a two-minute time limit for each speaker at the residents' meeting last night? B: At the last meeting, one man tried to {{BLANK}} the discussion for almost an hour, so many other neighbors never had a chance to share their opinions about the parking problem.",
+    "cn": "A：主席昨晚為什麼在住戶會議上給每位發言者設兩分鐘的時間限制？ B：上次開會時有一位男士幾乎花了一個小時想【獨占】討論，所以很多其他鄰居根本沒有機會分享他們對停車問題的意見。",
+    "collocation": "monopolize the conversation 獨占談話"
+   },
+   {
+    "word": "anxiety",
+    "pos": "n.",
+    "en_def": "a feeling of worry or nervousness",
+    "cn_def": "焦慮；不安",
+    "sentence": "A: Why does Tom always practice his presentations so many times in the empty meeting room before he talks to the board? B: He feels a lot of {{BLANK}} when he speaks in front of senior managers, so repeating the slides again and again helps him stay calm and remember the numbers.",
+    "cn": "A：湯姆為什麼在向董事會報告前，總是在空會議室裡練習那麼多次？ B：他在高階主管面前說話時會感到很【焦慮】，所以一遍又一遍地練習投影片能幫助他保持冷靜並記住數字。",
+    "collocation": "reduce anxiety before a job interview 減輕面試前的焦慮"
+   },
+   {
+    "word": "nearly",
+    "pos": "adv.",
+    "en_def": "almost; not quite",
+    "cn_def": "幾乎；將近",
+    "sentence": "A: How long did the phone call with the angry customer from the hotel chain last this morning? B: It went on for {{BLANK}} two hours, because he wanted to discuss every single problem with the last delivery, and I could not end the call politely until he felt satisfied.",
+    "cn": "A：今天早上和那位飯店連鎖集團的憤怒客戶通電話，講了多久？ B：講了【將近】兩個小時，因為他想討論上一批貨的每一個問題，在他滿意之前我無法禮貌地結束通話。",
+    "collocation": "nearly an hour late 遲到將近一小時"
+   },
+   {
+    "word": "utmost",
+    "pos": "adj.",
+    "en_def": "greatest; most important",
+    "cn_def": "最大的；極度的",
+    "sentence": "A: Why does the hotel manager spend so much time training the front desk staff on how to speak with guests? B: She believes that every guest deserves the {{BLANK}} respect, even when they are tired or rude after a long flight, because a kind conversation can change their whole stay.",
+    "cn": "A：飯店經理為什麼花那麼多時間訓練櫃檯人員如何和客人說話？ B：她相信每位客人都應該得到【最大的】尊重，即使他們在長途飛行後很疲累或無禮也一樣，因為一段親切的對話可以改變他們整個住宿的體驗。",
+    "collocation": "with the utmost care 極度小心地"
+   },
+   {
+    "word": "enhance",
+    "pos": "v.",
+    "en_def": "to make something better or improve its quality",
+    "cn_def": "提高；增強",
+    "sentence": "A: Why did the company pay for all customer service staff to take a weekend course on telephone skills? B: The managers want to {{BLANK}} the way we speak with callers, because last year's survey showed that many customers felt our replies were too short and not very friendly.",
+    "cn": "A：公司為什麼出錢讓所有客服人員參加週末的電話技巧課程？ B：主管們想【提升】我們和來電者說話的方式，因為去年的調查顯示，很多客戶覺得我們的回覆太簡短，也不太友善。",
+    "collocation": "enhance communication skills 提升溝通技巧"
+   },
+   {
+    "word": "captivating",
+    "pos": "adj.",
+    "en_def": "very interesting and holding your attention",
+    "cn_def": "迷人的；引人入勝的",
+    "sentence": "A: What did you think of the speaker who opened the marketing conference in the main hall this morning? B: She was truly {{BLANK}}, because she told funny stories about her first failed business, and the whole crowd stayed quiet and listened carefully for the full forty minutes.",
+    "cn": "A：你覺得今天早上在主廳為行銷研討會開場的講者怎麼樣？ B：她真的很【引人入勝】，因為她講了自己第一次創業失敗的有趣故事，全場群眾在整整四十分鐘裡都安靜專心地聆聽。",
+    "collocation": "a captivating speech 引人入勝的演講"
+   },
+   {
+    "word": "suffer",
+    "pos": "v.",
+    "en_def": "to become worse or be hurt by something",
+    "cn_def": "受損；受苦",
+    "sentence": "A: Why did the director decide to stop sending so many emails and hold short face-to-face meetings every Monday instead? B: She noticed that teamwork began to {{BLANK}} when people only wrote messages, because small problems became big arguments that could have been solved in a quick talk.",
+    "cn": "A：主任為什麼決定不再寄那麼多電子郵件，改成每週一開簡短的面對面會議？ B：她注意到大家只用寫訊息溝通時，團隊合作開始【受到影響】，因為小問題變成了大爭吵，而這些本來只要簡單談一下就能解決。",
+    "collocation": "suffer from poor communication 因溝通不良而受影響"
+   },
+   {
+    "word": "judgmental",
+    "pos": "adj.",
+    "en_def": "too quick to criticize or form opinions about people",
+    "cn_def": "愛評斷人的；武斷的",
+    "sentence": "A: Why do so many junior staff members feel comfortable sharing their problems with the new team leader? B: She listens carefully and is never {{BLANK}}, so people can explain their mistakes honestly without worrying that she will think they are lazy or not smart enough.",
+    "cn": "A：為什麼那麼多資淺員工都願意跟新的組長分享他們的問題？ B：她會仔細聆聽，而且從不【愛評斷人】，所以大家可以誠實說出自己的錯誤，不用擔心她會認為他們懶惰或不夠聰明。",
+    "collocation": "avoid being judgmental 避免妄加評斷"
+   },
+   {
+    "word": "aspersion",
+    "pos": "n.",
+    "en_def": "an unkind remark that attacks someone's character",
+    "cn_def": "誹謗；中傷",
+    "sentence": "A: Why was the accountant so upset after the budget meeting with the finance director yesterday afternoon? B: When she asked about the missing receipts, he made a rude {{BLANK}} on her honesty in front of the whole team, even though she had done nothing wrong and had reported the problem herself.",
+    "cn": "A：會計師昨天下午和財務長開完預算會議後，為什麼那麼生氣？ B：她詢問遺失的收據時，他當著整個團隊的面無禮地【中傷】她的誠信，即使她什麼都沒做錯，而且問題還是她自己報告的。",
+    "collocation": "cast aspersions on someone's honesty 中傷某人的誠信"
+   },
+   {
+    "word": "devote",
+    "pos": "v.",
+    "en_def": "to give time or energy to something",
+    "cn_def": "投入；奉獻",
+    "sentence": "A: How will the new manager improve communication between the sales team and the warehouse staff this year? B: She plans to {{BLANK}} the first hour of every Wednesday to a joint meeting, so both groups can talk about orders, delays and customer complaints before small problems grow.",
+    "cn": "A：新經理今年要如何改善業務團隊和倉庫人員之間的溝通？ B：她打算把每週三的第一個小時【專門用於】聯合會議，讓兩邊可以在小問題擴大之前討論訂單、延誤和客戶抱怨。",
+    "collocation": "devote time to team building 投入時間在團隊建立上"
+   },
+   {
+    "word": "prepare",
+    "pos": "v.",
+    "en_def": "to get ready or make something ready",
+    "cn_def": "準備",
+    "sentence": "A: Do you have any advice before my first phone interview with the airline company tomorrow morning? B: You should {{BLANK}} short answers to common questions about your experience, and keep your notes next to the phone, because it is easy to forget important details when you feel nervous.",
+    "cn": "A：明天早上我第一次跟航空公司進行電話面試，你有什麼建議嗎？ B：你應該針對常見的經歷問題【準備】簡短的回答，並把筆記放在電話旁邊，因為緊張時很容易忘記重要的細節。",
+    "collocation": "prepare for a meeting 為會議做準備"
+   },
+   {
+    "word": "material",
+    "pos": "n.",
+    "en_def": "information or documents used for a purpose",
+    "cn_def": "資料；材料",
+    "sentence": "A: What will we give the visitors from the Japanese bank when they arrive for the product presentation on Thursday? B: Each guest will receive a folder with printed {{BLANK}} about our services, including price lists and contact details, so they can read it again on the train home.",
+    "cn": "A：週四日本銀行的訪客來參加產品簡報時，我們要給他們什麼？ B：每位客人會收到一個資料夾，裡面有關於我們服務的印刷【資料】，包括價目表和聯絡方式，讓他們可以在回程的火車上再看一遍。",
+    "collocation": "prepare training material 準備訓練資料"
+   },
+   {
+    "word": "critique",
+    "pos": "n.",
+    "en_def": "a careful judgment of the good and bad parts of something",
+    "cn_def": "評論；評析",
+    "sentence": "A: Why did the design team ask the senior architect to look at their plans for the new library before the meeting with the city? B: They wanted an honest {{BLANK}} of their ideas, because she has built many public buildings and can quickly see weak points that the city officials might question.",
+    "cn": "A：設計團隊為什麼在和市政府開會前，請資深建築師看他們的新圖書館設計圖？ B：他們想要聽到對自己構想的誠實【評論】，因為她蓋過許多公共建築，能很快看出市府官員可能會質疑的弱點。",
+    "collocation": "give a detailed critique 提出詳細的評論"
+   },
+   {
+    "word": "intend",
+    "pos": "v.",
+    "en_def": "to plan or mean to do something",
+    "cn_def": "打算；意圖",
+    "sentence": "A: Are you going to tell the client about the shipping delay today, or will you wait until the goods arrive at the port? B: I {{BLANK}} to call him this afternoon, because hearing bad news early is always better than finding out at the last minute when nothing can be changed.",
+    "cn": "A：你今天要告訴客戶出貨延誤的事，還是要等貨到港口再說？ B：我【打算】今天下午打電話給他，因為提早聽到壞消息總比在最後一刻、什麼都無法改變時才知道要好。",
+    "collocation": "intend to apply for the position 打算申請這個職位"
+   },
+   {
+    "word": "audience",
+    "pos": "n.",
+    "en_def": "the group of people who watch or listen to a talk or show",
+    "cn_def": "觀眾；聽眾",
+    "sentence": "A: How many people are expected to attend the CEO's speech at the annual meeting in the convention center next week? B: The {{BLANK}} will be about five hundred people, including investors and reporters, so the IT team is testing the microphones and the big screen several times before the event.",
+    "cn": "A：下週在會議中心的年度大會上，預計有多少人會來聽執行長的演講？ B：【聽眾】大約有五百人，包括投資人和記者，所以資訊團隊在活動前會測試麥克風和大螢幕好幾次。",
+    "collocation": "speak to a large audience 對大批聽眾演說"
+   },
+   {
+    "word": "grab",
+    "pos": "v.",
+    "en_def": "to quickly get or take something, such as attention",
+    "cn_def": "抓住；吸引",
+    "sentence": "A: How did the speaker get everyone to listen so quickly at the start of the sales training this morning? B: She began with a surprising fact about lost customers to {{BLANK}} our attention, and after that nobody looked at their phones until the coffee break at ten thirty.",
+    "cn": "A：今天早上業務訓練一開始，講者是怎麼讓大家那麼快就專心聽講的？ B：她一開始先講了一個關於流失客戶的驚人事實來【抓住】我們的注意力，之後直到十點半咖啡休息前都沒有人看手機。",
+    "collocation": "grab the audience's attention 抓住觀眾的注意力"
+   },
+   {
+    "word": "maintain",
+    "pos": "v.",
+    "en_def": "to keep something at the same level or in good condition",
+    "cn_def": "維持；保持",
+    "sentence": "A: What is the secret to keeping a good relationship with clients who live in other countries and rarely visit our office? B: We try to {{BLANK}} regular contact through video calls every month, and we also send short updates by email, so they always know what is happening with their orders.",
+    "cn": "A：和住在其他國家、很少來我們辦公室的客戶保持良好關係的祕訣是什麼？ B：我們每個月透過視訊通話盡量【維持】固定聯繫，也會用電子郵件寄簡短的最新消息，讓他們隨時知道訂單的狀況。",
+    "collocation": "maintain eye contact 保持眼神接觸"
+   },
+   {
+    "word": "entirely",
+    "pos": "adv.",
+    "en_def": "completely",
+    "cn_def": "完全地",
+    "sentence": "A: Do you agree with the new plan to move all customer support calls to the office in Manila next year? B: I am not {{BLANK}} sure it is a good idea, because our customers here like talking to staff who know the local market, but I understand that it will save money.",
+    "cn": "A：你同意明年把所有客服電話移到馬尼拉辦公室的新計畫嗎？ B：我不【完全】確定這是個好主意，因為這裡的客戶喜歡和了解在地市場的員工說話，但我明白這樣可以省錢。",
+    "collocation": "entirely different opinions 截然不同的意見"
+   },
+   {
+    "word": "ignoring",
+    "pos": "v.",
+    "en_def": "not paying attention to someone or something on purpose (the -ing form of ignore)",
+    "cn_def": "忽視；不理會",
+    "sentence": "A: Why did the restaurant owner have a long talk with the new waiter after the lunch rush yesterday? B: Several customers said he kept {{BLANK}} them when they raised their hands, so the owner explained that guests must always feel noticed, even when the dining room is very busy.",
+    "cn": "A：餐廳老闆昨天午餐尖峰過後為什麼和新來的服務生談了很久？ B：好幾位客人說他們舉手時他一直【不理會】他們，所以老闆向他說明，即使用餐區非常忙碌，也一定要讓客人覺得自己有被注意到。",
+    "collocation": "keep ignoring customer complaints 一直忽視顧客的抱怨"
+   },
+   {
+    "word": "pretend",
+    "pos": "v.",
+    "en_def": "to act as if something is true when it is not",
+    "cn_def": "假裝",
+    "sentence": "A: What should I do if a customer asks me a technical question about the software that I really cannot answer? B: Never {{BLANK}} to know the answer, because giving wrong information causes bigger problems later; just say you will check with the engineers and call the customer back within an hour.",
+    "cn": "A：如果客戶問我一個我真的答不出來的軟體技術問題，我該怎麼辦？ B：絕對不要【假裝】知道答案，因為給錯誤的資訊之後會造成更大的問題；只要說你會向工程師確認，並在一小時內回電給客戶就好。",
+    "collocation": "pretend to understand 假裝聽懂"
+   },
+   {
+    "word": "attentive",
+    "pos": "adj.",
+    "en_def": "listening or watching carefully; caring about others' needs",
+    "cn_def": "專心的；體貼周到的",
+    "sentence": "A: Why do so many business travelers choose to stay at that small hotel near the train station instead of the bigger ones? B: The staff are very {{BLANK}}, so they remember each guest's name and needs, and they always notice when someone needs a taxi or an early breakfast before a meeting.",
+    "cn": "A：為什麼那麼多商務旅客選擇住在火車站附近那家小飯店，而不是大飯店？ B：那裡的員工非常【體貼周到】，會記得每位客人的名字和需求，也總是能注意到誰需要計程車，或在開會前需要提早吃早餐。",
+    "collocation": "an attentive listener 專注的聆聽者"
+   },
+   {
+    "word": "empathic",
+    "pos": "adj.",
+    "en_def": "able to understand and share other people's feelings",
+    "cn_def": "有同理心的",
+    "sentence": "A: What kind of person are you looking for to answer calls on the new customer care hotline next month? B: We need someone who is calm and {{BLANK}}, because many callers will be worried about their bills, and they need to feel that the person on the phone understands their situation.",
+    "cn": "A：下個月新的客戶關懷專線，你們想找什麼樣的人來接電話？ B：我們需要冷靜又【有同理心的】人，因為很多來電者會擔心他們的帳單，他們需要覺得電話那頭的人理解他們的處境。",
+    "collocation": "an empathic response 有同理心的回應"
+   },
+   {
+    "word": "emotionally",
+    "pos": "adv.",
+    "en_def": "in a way that is related to feelings",
+    "cn_def": "情緒上地；感情上",
+    "sentence": "A: Why did the HR manager take a short break during the meeting with the employee who was leaving the company? B: The conversation became quite {{BLANK}} difficult, because the employee had worked here for twenty years and started crying while talking about her friends in the accounting team.",
+    "cn": "A：人資經理和那位即將離職的員工開會時，為什麼中途休息了一下？ B：那次談話在【情緒上】變得相當難受，因為那位員工在這裡工作了二十年，談到會計組的朋友時哭了起來。",
+    "collocation": "emotionally exhausted after the meeting 會議後情緒疲憊"
+   },
+   {
+    "word": "rephrase",
+    "pos": "v.",
+    "en_def": "to say something again using different words",
+    "cn_def": "換句話說；改述",
+    "sentence": "A: What did you do when the visitors from Brazil did not understand your explanation of the new return policy? B: I tried to {{BLANK}} it using shorter sentences and simpler words, and I also drew a small chart on the whiteboard, so they finally understood how the process works.",
+    "cn": "A：巴西來的訪客聽不懂你對新退貨政策的說明時，你怎麼做？ B：我試著用比較短的句子和比較簡單的字【換個方式說】，還在白板上畫了一張小圖表，他們終於了解流程是怎麼運作的。",
+    "collocation": "rephrase the question 換個方式問問題"
+   },
+   {
+    "word": "reflect",
+    "pos": "v.",
+    "en_def": "to think carefully about something",
+    "cn_def": "反思；深思",
+    "sentence": "A: Why does our team leader always ask us to wait a day before replying to difficult emails from clients? B: She wants us to {{BLANK}} on what the client really needs, because a quick reply written when we feel angry often makes the situation worse instead of solving it.",
+    "cn": "A：我們組長為什麼總是要我們等一天再回覆客戶的棘手郵件？ B：她希望我們先【仔細思考】客戶真正需要的是什麼，因為生氣時匆忙寫的回覆，常常會讓情況更糟而不是解決問題。",
+    "collocation": "reflect on the feedback 仔細思考回饋意見"
+   },
+   {
+    "word": "mimic",
+    "pos": "v.",
+    "en_def": "to copy the way someone speaks or acts",
+    "cn_def": "模仿",
+    "sentence": "A: How did you learn to speak so naturally on the phone with clients from London when you first joined the company? B: I used to listen to recorded calls of our best sales staff and {{BLANK}} their tone and polite phrases, and after a few months it felt completely natural to me.",
+    "cn": "A：你剛進公司時，是怎麼學會跟倫敦客戶講電話講得那麼自然的？ B：我以前會聽我們最優秀業務人員的通話錄音，並【模仿】他們的語氣和禮貌用語，幾個月後就覺得完全自然了。",
+    "collocation": "mimic a native speaker's accent 模仿母語人士的口音"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Professor Chen is a popular _____ at the business school. Her classes on negotiation are always full by the first week.",
+    "options": [
+     "lecturer",
+     "audience",
+     "critique",
+     "anxiety"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The young engineer worked late every night to _____ his new boss. His hard work was finally noticed at the end of the month.",
+    "options": [
+     "pretend",
+     "impress",
+     "suffer",
+     "intend"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The supplier finally had to _____ that the parts were damaged before shipping. It agreed to send replacements at no extra cost.",
+    "options": [
+     "grab",
+     "devote",
+     "admit",
+     "mimic"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Bonuses are not the only way to _____ staff. Many workers also want clear goals and praise from their managers.",
+    "options": [
+     "rephrase",
+     "suffer",
+     "pretend",
+     "motivate"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The agency is looking for a _____ designer for its new campaign. Applicants should send examples of their most original work.",
+    "options": [
+     "judgmental",
+     "utmost",
+     "creative",
+     "captivating"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Short, clear emails are the most _____ way to share updates with busy clients. Long messages are often left unread.",
+    "options": [
+     "effective",
+     "utmost",
+     "judgmental",
+     "empathic"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Please do not _____ the meeting with your own questions. Everyone on the team should have a chance to speak.",
+    "options": [
+     "enhance",
+     "rephrase",
+     "devote",
+     "monopolize"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Many new employees feel great _____ before their first presentation. Practicing with a coworker can help them feel calmer.",
+    "options": [
+     "lecturer",
+     "anxiety",
+     "aspersion",
+     "material"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The museum staff handled the old paintings with the _____ care. Each one was wrapped and packed by hand.",
+    "options": [
+     "creative",
+     "judgmental",
+     "captivating",
+     "utmost"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The hotel added a new spa to _____ the experience of its guests. Bookings rose by twenty percent in the first month.",
+    "options": [
+     "admit",
+     "pretend",
+     "enhance",
+     "monopolize"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The tour guide told _____ stories about the old castle. The visitors listened quietly and asked many questions afterward.",
+    "options": [
+     "judgmental",
+     "captivating",
+     "utmost",
+     "attentive"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Product quality began to _____ when the factory reduced its number of inspectors. Customer complaints doubled within six months.",
+    "options": [
+     "suffer",
+     "impress",
+     "grab",
+     "mimic"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Good managers listen to problems without being _____. Their staff then feel safe to report mistakes early.",
+    "options": [
+     "utmost",
+     "judgmental",
+     "captivating",
+     "creative"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The lawyer said the article cast an unfair _____ on his client's honesty. He asked the newspaper to print a correction.",
+    "options": [
+     "audience",
+     "lecturer",
+     "material",
+     "aspersion"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The company will _____ two days a month to staff training. Employees can choose courses in languages, sales or computer skills.",
+    "options": [
+     "devote",
+     "intend",
+     "grab",
+     "suffer"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Please _____ a short report on last month's sales before Friday. The director wants to review it on Monday morning.",
+    "options": [
+     "monopolize",
+     "pretend",
+     "prepare",
+     "suffer"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The training _____ will be sent to all participants by email. Please read it before the first session begins.",
+    "options": [
+     "material",
+     "audience",
+     "anxiety",
+     "aspersion"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The editor gave a detailed _____ of my article. She pointed out both its strong points and its weak points.",
+    "options": [
+     "lecturer",
+     "anxiety",
+     "critique",
+     "audience"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "We _____ to open three new stores in Taichung next year. The first one will be near the high-speed rail station.",
+    "options": [
+     "grab",
+     "intend",
+     "reflect",
+     "maintain"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The concert hall can hold an _____ of two thousand people. Tickets for Saturday's show sold out in one hour.",
+    "options": [
+     "critique",
+     "material",
+     "anxiety",
+     "audience"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The first line of an advertisement must _____ the reader's attention. Otherwise, people will simply turn the page.",
+    "options": [
+     "suffer",
+     "intend",
+     "grab",
+     "admit"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "It is important to _____ eye contact during a job interview. It shows the interviewer that you are confident and honest.",
+    "options": [
+     "devote",
+     "pretend",
+     "rephrase",
+     "maintain"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Do not _____ to understand the client's request if you are confused. Ask questions until everything is completely clear.",
+    "options": [
+     "pretend",
+     "grab",
+     "suffer",
+     "impress"
+    ],
+    "answer": 0,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The waiter was polite and _____ throughout the dinner. He refilled our glasses before we even had to ask.",
+    "options": [
+     "utmost",
+     "attentive",
+     "judgmental",
+     "captivating"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Nurses need to be _____ when they talk to worried families. A kind word can make a stressful day much easier.",
+    "options": [
+     "utmost",
+     "captivating",
+     "judgmental",
+     "empathic"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "If the customer looks confused, try to _____ your explanation in simpler words. Avoid technical terms they may not know.",
+    "options": [
+     "monopolize",
+     "rephrase",
+     "suffer",
+     "admit"
+    ],
+    "answer": 1,
+    "vocabIndex": 29
+   },
+   {
+    "q": "After each project, the team meets to _____ on what went well. They also discuss what they can improve next time.",
+    "options": [
+     "impress",
+     "grab",
+     "reflect",
+     "devote"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Children often _____ the way their parents speak. They copy their words, their tone and even their hand movements.",
+    "options": [
+     "mimic",
+     "devote",
+     "admit",
+     "intend"
+    ],
+    "answer": 0,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The new manager worked hard to _____ good relations with the labor union. As a result, there were no strikes that year.",
+    "options": [
+     "suffer",
+     "maintain",
+     "rephrase",
+     "pretend"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The speaker used funny stories to keep her _____ interested. Nobody left the hall before the end of the talk.",
+    "options": [
+     "audience",
+     "anxiety",
+     "aspersion",
+     "lecturer"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   }
+  ]
  }
 }
