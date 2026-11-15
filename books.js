@@ -2495,7 +2495,12 @@ window.VOCAB_ZONES = {
    43,
    44,
    45,
-   46
+   46,
+   47,
+   48,
+   49,
+   50,
+   51
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2543,7 +2548,12 @@ window.VOCAB_ZONES = {
    "43": "Cancellation 取消",
    "44": "Car 汽車",
    "45": "Career 職涯",
-   "46": "Celebration 慶祝"
+   "46": "Celebration 慶祝",
+   "47": "Celebrity 名人",
+   "48": "Challenge 挑戰",
+   "49": "Change 改變",
+   "50": "Changing Room 更衣室",
+   "51": "Charity 慈善"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }
