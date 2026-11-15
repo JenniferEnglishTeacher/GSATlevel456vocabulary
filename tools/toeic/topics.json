@@ -52866,5 +52866,3425 @@
     "vocabIndex": 3
    }
   ]
+ },
+ "87": {
+  "theme": "COVID-19 新冠肺炎",
+  "source": "https://www.examword.com/group-topic/covid-19",
+  "VOCAB": [
+   {
+    "word": "virus",
+    "pos": "n.",
+    "en_def": "a very small living thing that causes illness",
+    "cn_def": "病毒",
+    "sentence": "A: Why did the clinic ask all the staff to wear masks again in the waiting room this week? B: A new flu {{BLANK}} is spreading quickly through the city, and the doctors want to protect older patients, so everyone must also wash their hands often and stay home if they feel unwell.",
+    "cn": "A：診所這週為什麼又要求所有員工在候診室戴口罩？ B：一種新的流感【病毒】正在城裡迅速傳播，醫生們想保護年長的病人，所以每個人也必須常洗手，覺得不舒服就待在家裡。",
+    "collocation": "catch a virus 感染病毒"
+   },
+   {
+    "word": "disease",
+    "pos": "n.",
+    "en_def": "an illness that affects people, animals or plants",
+    "cn_def": "疾病",
+    "sentence": "A: Why is the company offering free health checks to all employees in the main office next month? B: The HR team learned that heart {{BLANK}} is a serious problem for people who sit at desks all day, so they invited nurses from the local hospital to check everyone's blood pressure and give advice.",
+    "cn": "A：公司為什麼下個月要為總公司所有員工提供免費健康檢查？ B：人資團隊得知心臟【疾病】對整天坐在辦公桌前的人來說是個嚴重問題，所以邀請了當地醫院的護士來為每個人量血壓並提供建議。",
+    "collocation": "prevent the spread of disease 防止疾病傳播"
+   },
+   {
+    "word": "coronaviruses",
+    "pos": "n.",
+    "en_def": "a group of viruses that can cause illnesses such as colds and COVID-19",
+    "cn_def": "冠狀病毒（複數）",
+    "sentence": "A: What was the guest speaker from the university talking about at the health and safety seminar yesterday afternoon? B: She explained that {{BLANK}} are a large family of germs, and some of them only cause a mild cold, while others, like the one behind the global crisis in 2020, can be very dangerous.",
+    "cn": "A：昨天下午健康安全研討會上，那位大學來的客座講者在談什麼？ B：她解釋說【冠狀病毒】是一個龐大的病菌家族，其中有些只會引起輕微感冒，而另一些，像是造成2020年全球危機的那一種，可能非常危險。",
+    "collocation": "new types of coronaviruses 新型冠狀病毒"
+   },
+   {
+    "word": "outbreak",
+    "pos": "n.",
+    "en_def": "a sudden start of a disease that affects many people",
+    "cn_def": "（疾病的）爆發",
+    "sentence": "A: Why did the cruise company cancel next week's trip to the islands and offer every passenger a full refund? B: There was an {{BLANK}} of stomach flu on the ship last week, and more than two hundred people got sick, so the whole ship has to be cleaned carefully before it can sail again.",
+    "cn": "A：郵輪公司為什麼取消下週前往群島的行程，並提供每位乘客全額退款？ B：上週船上【爆發】了腸胃型流感，超過兩百人生病，所以整艘船必須徹底清潔後才能再次出航。",
+    "collocation": "an outbreak of food poisoning 食物中毒的爆發"
+   },
+   {
+    "word": "transmission",
+    "pos": "n.",
+    "en_def": "the passing of a disease from one person to another",
+    "cn_def": "傳播；傳染",
+    "sentence": "A: Why did the office manager put plastic screens between all the desks in the customer service area this morning? B: The health department says the screens can reduce the {{BLANK}} of the flu from one worker to another, especially in busy rooms where people talk on the phone all day.",
+    "cn": "A：辦公室經理今天早上為什麼在客服區的所有辦公桌之間裝了塑膠隔板？ B：衛生局說隔板可以減少流感在員工之間的【傳播】，尤其是在大家整天講電話的忙碌空間裡。",
+    "collocation": "reduce the risk of transmission 降低傳播風險"
+   },
+   {
+    "word": "symptom",
+    "pos": "n.",
+    "en_def": "a sign that you have an illness",
+    "cn_def": "症狀",
+    "sentence": "A: When should employees stay at home instead of coming into the office during the flu season this winter? B: If you have even one {{BLANK}}, such as a high fever, a sore throat or a bad cough, you should call your supervisor, work from home and see a doctor as soon as possible.",
+    "cn": "A：今年冬天流感季期間，員工什麼時候應該待在家而不是進辦公室？ B：只要你有任何一種【症狀】，例如發高燒、喉嚨痛或嚴重咳嗽，就應該打電話給主管、在家工作，並儘快去看醫生。",
+    "collocation": "show mild symptoms 出現輕微症狀"
+   },
+   {
+    "word": "respiratory",
+    "pos": "adj.",
+    "en_def": "connected with breathing",
+    "cn_def": "呼吸的；呼吸道的",
+    "sentence": "A: Why does the factory require all workers in the paint room to wear special masks during every shift? B: Breathing in the chemicals every day can cause serious {{BLANK}} problems, such as coughing and difficulty breathing, so the masks protect their lungs while they work with the paint.",
+    "cn": "A：工廠為什麼要求噴漆室的所有工人每個班次都要戴特殊口罩？ B：每天吸入化學物質可能造成嚴重的【呼吸道】問題，例如咳嗽和呼吸困難，所以口罩能在他們處理油漆時保護肺部。",
+    "collocation": "respiratory illness 呼吸道疾病"
+   },
+   {
+    "word": "asthma",
+    "pos": "n.",
+    "en_def": "an illness that makes it difficult to breathe",
+    "cn_def": "氣喘；哮喘",
+    "sentence": "A: Why did Mr. Chen ask to move his desk away from the window near the busy road outside? B: He has {{BLANK}}, and the dust and smoke from the traffic sometimes make it hard for him to breathe, so he feels much better sitting in the quieter area near the meeting rooms.",
+    "cn": "A：陳先生為什麼要求把他的辦公桌從靠近外面繁忙馬路的窗邊移開？ B：他有【氣喘】，車流造成的灰塵和廢氣有時讓他呼吸困難，所以他坐在靠近會議室較安靜的區域會舒服很多。",
+    "collocation": "suffer from asthma 患有氣喘"
+   },
+   {
+    "word": "acute",
+    "pos": "adj.",
+    "en_def": "very serious or severe, and starting suddenly",
+    "cn_def": "急性的；劇烈的",
+    "sentence": "A: Why was the sales director taken to the hospital in the middle of the client meeting this afternoon? B: He suddenly felt {{BLANK}} pain in his stomach and could not stand up, so his assistant called an ambulance, and the doctors are now checking whether he needs an operation tonight.",
+    "cn": "A：業務總監今天下午為什麼在客戶會議進行到一半時被送到醫院？ B：他突然感到胃部【劇烈的】疼痛，站不起來，所以他的助理叫了救護車，醫生們正在檢查他今晚是否需要動手術。",
+    "collocation": "acute pain 劇烈疼痛"
+   },
+   {
+    "word": "pneumonia",
+    "pos": "n.",
+    "en_def": "a serious illness of the lungs",
+    "cn_def": "肺炎",
+    "sentence": "A: Why has Ms. Lin been away from the office for almost three weeks, and when will she return to work? B: Her cold got much worse and turned into {{BLANK}}, so she had to stay in the hospital for several days, and her doctor says she needs another week of rest at home.",
+    "cn": "A：林小姐為什麼已經快三個星期沒來辦公室？她什麼時候會回來上班？ B：她的感冒變得嚴重很多，轉成了【肺炎】，所以她必須住院好幾天，醫生說她還需要在家休息一個星期。",
+    "collocation": "develop pneumonia 罹患肺炎"
+   },
+   {
+    "word": "syndrome",
+    "pos": "n.",
+    "en_def": "a group of signs that together show a particular illness",
+    "cn_def": "症候群；綜合症",
+    "sentence": "A: Why did the airline start showing a short video about leg exercises on all of its long international flights? B: Sitting still for many hours can cause a health problem sometimes called economy class {{BLANK}}, so the video teaches passengers simple ways to move their legs and keep their blood flowing.",
+    "cn": "A：航空公司為什麼開始在所有長程國際航班上播放關於腿部運動的短片？ B：長時間坐著不動可能引起一種有時被稱為經濟艙【症候群】的健康問題，所以影片教乘客用簡單的方法活動雙腿、保持血液循環。",
+    "collocation": "chronic fatigue syndrome 慢性疲勞症候群"
+   },
+   {
+    "word": "epidemic",
+    "pos": "n.",
+    "en_def": "a disease that spreads quickly among many people in one area",
+    "cn_def": "（區域性）流行病；疫情",
+    "sentence": "A: Why did the government ask all large companies to let their staff work from home for the next two weeks? B: A flu {{BLANK}} has moved across several cities in the north, and hospitals are already full, so officials want fewer people on crowded trains and buses until the number of cases goes down.",
+    "cn": "A：政府為什麼要求所有大公司讓員工在接下來兩週在家工作？ B：一場流感【疫情】已經擴散到北部好幾個城市，醫院已經爆滿，所以官員希望在病例數下降之前減少搭乘擁擠火車和公車的人。",
+    "collocation": "a flu epidemic 流感疫情"
+   },
+   {
+    "word": "pandemic",
+    "pos": "n.",
+    "en_def": "a disease that spreads over many countries at the same time",
+    "cn_def": "全球大流行病",
+    "sentence": "A: How did your travel agency survive when almost nobody could fly overseas a few years ago? B: During the {{BLANK}}, we stopped selling international tours and started offering local hiking trips and online cooking classes, which helped us keep most of our staff until people could travel abroad again.",
+    "cn": "A：幾年前幾乎沒人能搭機出國時，你們的旅行社是怎麼撐過去的？ B：在【全球大流行】期間，我們停止銷售國際旅遊行程，改推當地健行之旅和線上烹飪課，這幫助我們留住大部分員工，直到大家能再次出國旅行。",
+    "collocation": "during the global pandemic 在全球疫情期間"
+   },
+   {
+    "word": "epicentre",
+    "pos": "n.",
+    "en_def": "the central place where something bad is happening most strongly",
+    "cn_def": "中心；重災區",
+    "sentence": "A: Why did the company move its Asian sales meeting from the capital to a hotel on the coast at the last minute? B: The capital had become the {{BLANK}} of a serious flu outbreak, with thousands of new cases every day, so the managers decided it was safer to hold the meeting somewhere else.",
+    "cn": "A：公司為什麼在最後一刻把亞洲業務會議從首都移到海邊的一家飯店？ B：首都成了一場嚴重流感疫情的【中心】，每天都有數千個新病例，所以經理們決定在別的地方開會比較安全。",
+    "collocation": "the epicentre of the outbreak 疫情的中心"
+   },
+   {
+    "word": "infect",
+    "pos": "v.",
+    "en_def": "to give someone a disease",
+    "cn_def": "傳染；感染",
+    "sentence": "A: Why does the hospital ask every visitor to clean their hands at the front door before going upstairs? B: Germs on your hands can easily {{BLANK}} patients whose bodies are already weak, so washing or cleaning your hands is one of the simplest ways to keep everyone in the building safe.",
+    "cn": "A：醫院為什麼要求每位訪客上樓前在正門清潔雙手？ B：手上的病菌很容易【感染】本來身體就虛弱的病人，所以洗手或清潔雙手是讓大樓裡每個人保持安全最簡單的方法之一。",
+    "collocation": "infect other people 傳染給其他人"
+   },
+   {
+    "word": "infection",
+    "pos": "n.",
+    "en_def": "an illness caused by germs entering the body",
+    "cn_def": "感染",
+    "sentence": "A: Why did the dentist give you medicine after your appointment, even though the treatment didn't hurt at all? B: She took out a broken tooth, and she wants to prevent an {{BLANK}} in my mouth, so I have to take the pills twice a day for a week and avoid very hot drinks.",
+    "cn": "A：牙醫為什麼在看診後給你藥，即使治療一點都不痛？ B：她拔掉了一顆斷掉的牙齒，想防止我嘴裡【感染】，所以我必須一天吃兩次藥，連吃一週，並避免喝太燙的飲料。",
+    "collocation": "prevent an infection 預防感染"
+   },
+   {
+    "word": "disinfect",
+    "pos": "v.",
+    "en_def": "to clean something with chemicals to kill germs",
+    "cn_def": "消毒",
+    "sentence": "A: What do the cleaners do every evening after the last customers leave the fitness center? B: They {{BLANK}} all the machines, door handles and changing rooms with a strong cleaning spray, so that the gym is safe and fresh for the early members who arrive at six the next morning.",
+    "cn": "A：健身中心最後一批客人離開後，清潔人員每天晚上做什麼？ B：他們用強效清潔噴霧為所有器材、門把和更衣室【消毒】，讓健身房對隔天早上六點來的早鳥會員來說安全又清新。",
+    "collocation": "disinfect surfaces 消毒表面"
+   },
+   {
+    "word": "contagious",
+    "pos": "adj.",
+    "en_def": "easily passed from one person to another",
+    "cn_def": "傳染性的；會傳染的",
+    "sentence": "A: Should I come to the team meeting tomorrow morning if I still have a slight cough and a runny nose? B: Please stay home, because the doctor said this kind of flu is very {{BLANK}} for at least five days, and we don't want the whole team to get sick before the big product launch.",
+    "cn": "A：如果我明天早上還有點咳嗽和流鼻水，還應該來參加團隊會議嗎？ B：請待在家裡，因為醫生說這種流感至少五天內都很容易【傳染】，我們不希望整個團隊在大型產品發表會前全都生病。",
+    "collocation": "a highly contagious disease 高度傳染性疾病"
+   },
+   {
+    "word": "contaminate",
+    "pos": "v.",
+    "en_def": "to make something dirty or harmful by adding germs or chemicals",
+    "cn_def": "污染",
+    "sentence": "A: Why did the restaurant throw away all the salad and chicken in the kitchen this morning? B: The fridge stopped working overnight, and the manager was worried that bacteria could {{BLANK}} the food, so she decided it was safer to throw everything away than to risk making customers sick.",
+    "cn": "A：餐廳今天早上為什麼把廚房裡所有的沙拉和雞肉都丟掉了？ B：冰箱整晚故障，經理擔心細菌會【污染】食物，所以她決定把東西全丟掉比冒著讓客人生病的風險更安全。",
+    "collocation": "contaminate the water supply 污染供水"
+   },
+   {
+    "word": "expose",
+    "pos": "v.",
+    "en_def": "to put someone in a situation where they could be harmed",
+    "cn_def": "使暴露於",
+    "sentence": "A: Why do all the lab workers have to wear gloves, glasses and long coats, even for simple tests? B: Some of the samples carry harmful germs, and the company doesn't want to {{BLANK}} its staff to any danger, so everyone must follow the safety rules carefully from the moment they enter the lab.",
+    "cn": "A：為什麼所有實驗室人員即使做簡單的檢驗也要戴手套、護目鏡和穿長袍？ B：有些樣本帶有有害病菌，公司不想讓員工【暴露】在任何危險中，所以每個人從進入實驗室的那一刻起都必須仔細遵守安全規定。",
+    "collocation": "expose workers to risk 使員工暴露於風險中"
+   },
+   {
+    "word": "droplet",
+    "pos": "n.",
+    "en_def": "a very small drop of liquid",
+    "cn_def": "小滴；飛沫",
+    "sentence": "A: Why is the hotel asking guests to cover their mouths with a tissue or their arm when they cough in the lobby? B: Every time a sick person coughs, each tiny {{BLANK}} of water from the mouth can carry germs through the air, and it may land on tables, door handles or other guests nearby.",
+    "cn": "A：飯店為什麼要求客人在大廳咳嗽時用紙巾或手臂遮住嘴巴？ B：生病的人每次咳嗽，嘴巴噴出的每一個微小【飛沫】都可能把病菌帶到空氣中，並落在附近的桌子、門把或其他客人身上。",
+    "collocation": "a tiny droplet of water 一顆小水滴"
+   },
+   {
+    "word": "respiratory droplet",
+    "pos": "n.phr.",
+    "en_def": "a tiny drop of liquid that comes out when people cough, sneeze or talk",
+    "cn_def": "呼吸道飛沫",
+    "sentence": "A: The new office has a fresh air system, but why do we still need to keep two meters apart in the meeting room? B: The system helps, but a single {{BLANK}} from someone who is talking or sneezing can still travel quite far, so staying apart lowers the chance of passing the flu to a colleague.",
+    "cn": "A：新辦公室有新鮮空氣系統，但為什麼我們在會議室裡仍需保持兩公尺距離？ B：系統有幫助，但一個人說話或打噴嚏時的一顆【呼吸道飛沫】仍可能傳得相當遠，所以保持距離能降低把流感傳給同事的機會。",
+    "collocation": "spread through respiratory droplets 透過呼吸道飛沫傳播"
+   },
+   {
+    "word": "ventilator",
+    "pos": "n.",
+    "en_def": "a machine that helps a sick person breathe",
+    "cn_def": "呼吸器",
+    "sentence": "A: Why did the hospital spend so much of its budget on new equipment for the intensive care unit this year? B: It bought ten more machines, because each {{BLANK}} helps patients breathe when their lungs are too weak, and during last winter's flu season the hospital did not have enough of them.",
+    "cn": "A：醫院今年為什麼把那麼多預算花在加護病房的新設備上？ B：它多買了十台機器，因為每一台【呼吸器】都能在病人肺部太虛弱時幫助他們呼吸，而去年冬天流感季時醫院的數量不夠。",
+    "collocation": "be put on a ventilator 戴上呼吸器"
+   },
+   {
+    "word": "asymptomatic",
+    "pos": "adj.",
+    "en_def": "having an illness but showing no signs of it",
+    "cn_def": "無症狀的",
+    "sentence": "A: Why did the company test every employee before the overseas trip, even people who felt completely healthy? B: Some people who carry the virus are {{BLANK}}, which means they feel fine and have no fever or cough, but they can still pass it to others on the plane or at the trade fair.",
+    "cn": "A：公司為什麼在出國前替每位員工做檢測，甚至包括覺得完全健康的人？ B：有些帶有病毒的人是【無症狀的】，也就是說他們感覺很好，沒有發燒或咳嗽，但仍可能在飛機上或商展時傳染給別人。",
+    "collocation": "asymptomatic carriers 無症狀帶原者"
+   },
+   {
+    "word": "target",
+    "pos": "v.",
+    "en_def": "to aim help or action at a particular group or place",
+    "cn_def": "以…為目標；針對",
+    "sentence": "A: Why is the city sending free health vans only to a few neighborhoods instead of to every part of town? B: Officials decided to {{BLANK}} the areas with the highest number of cases and the most elderly residents, so the limited number of nurses and test kits can help the people who need them most.",
+    "cn": "A：市政府為什麼只派免費健康巡迴車到少數幾個社區，而不是城裡每個地方？ B：官員決定把【目標鎖定】在病例數最多、年長居民最多的地區，讓有限的護理師和檢測試劑能幫助最需要的人。",
+    "collocation": "target high-risk groups 鎖定高風險族群"
+   },
+   {
+    "word": "zoonotic",
+    "pos": "adj.",
+    "en_def": "able to pass from animals to humans",
+    "cn_def": "人畜共通的",
+    "sentence": "A: Why are the farm workers at the poultry company getting special health training this month? B: The trainers are teaching them about {{BLANK}} diseases, which can pass from chickens and other animals to humans, so the workers learn how to wear protective clothing and wash properly after each shift.",
+    "cn": "A：家禽公司的農場工人這個月為什麼要接受特別的健康訓練？ B：訓練人員正在教他們有關【人畜共通的】疾病，這類疾病可能從雞和其他動物傳染給人，所以工人們要學習如何穿防護衣，以及每個班次後如何正確清洗。",
+    "collocation": "zoonotic diseases 人畜共通疾病"
+   },
+   {
+    "word": "widespread",
+    "pos": "adj.",
+    "en_def": "happening in many places or among many people",
+    "cn_def": "廣泛的；普遍的",
+    "sentence": "A: Why did the company decide to make the online shopping app its top priority for the next two years? B: Our research showed {{BLANK}} changes in how people shop since the health crisis, with many customers in every age group now ordering food and clothes on their phones instead of visiting stores.",
+    "cn": "A：公司為什麼決定把線上購物應用程式列為未來兩年的首要任務？ B：我們的研究顯示，自從健康危機以來，人們的購物方式出現了【廣泛的】改變，各年齡層的許多顧客現在都用手機訂購食物和衣服，而不是去實體店。",
+    "collocation": "widespread concern 廣泛的擔憂"
+   },
+   {
+    "word": "super-spreader",
+    "pos": "n.",
+    "en_def": "a person who passes a disease to an unusually large number of people",
+    "cn_def": "超級傳播者",
+    "sentence": "A: Why did the health department contact everyone who attended the company's annual dinner last Friday? B: One guest turned out to be a {{BLANK}} who passed the flu to more than forty people at the party, so officials want everyone who was there to watch their health closely for a week.",
+    "cn": "A：衛生局為什麼聯絡了上週五參加公司年度晚宴的每個人？ B：其中一位賓客原來是【超級傳播者】，在派對上把流感傳給了四十多人，所以官員希望在場的每個人在一週內密切注意自己的健康。",
+    "collocation": "a super-spreader event 超級傳播事件"
+   },
+   {
+    "word": "epidemiologist",
+    "pos": "n.",
+    "en_def": "a scientist who studies how diseases spread",
+    "cn_def": "流行病學家",
+    "sentence": "A: Who did the city council invite to speak at the public meeting about the new flu rules next week? B: They invited an {{BLANK}} from the national university, who studies how diseases move through large groups of people, so she can explain why the rules are needed and answer questions from local business owners.",
+    "cn": "A：市議會邀請誰在下週關於新流感規定的公開會議上演講？ B：他們邀請了國立大學的一位【流行病學家】，她研究疾病如何在大群人之間傳播，可以解釋為什麼需要這些規定，並回答當地企業主的問題。",
+    "collocation": "a leading epidemiologist 一位頂尖的流行病學家"
+   },
+   {
+    "word": "telehealth",
+    "pos": "n.",
+    "en_def": "medical advice or care given by phone or video",
+    "cn_def": "遠距醫療",
+    "sentence": "A: How can our employees in the small branch offices see a doctor without traveling to the city? B: The new insurance plan includes a {{BLANK}} service, so staff can talk to a doctor through a video call on their phone or laptop and even get a prescription sent to a nearby pharmacy.",
+    "cn": "A：我們在小分公司的員工如何不用進城就能看醫生？ B：新的保險方案包含【遠距醫療】服務，所以員工可以用手機或筆電透過視訊通話和醫生談話，甚至可以讓處方箋送到附近的藥局。",
+    "collocation": "telehealth appointments 遠距醫療看診"
+   },
+   {
+    "word": "precaution",
+    "pos": "n.",
+    "en_def": "something you do to stop a bad thing from happening",
+    "cn_def": "預防；防範",
+    "sentence": "A: Why are all the staff at the bank wearing masks today when nobody in the office is sick? B: It's just a {{BLANK}}, because several customers came in with bad colds yesterday, and the manager doesn't want anyone at the counter to get ill during the busiest week of the month.",
+    "cn": "A：今天銀行所有員工為什麼都戴著口罩，明明辦公室沒人生病？ B：這只是一種【防範】，因為昨天有好幾位客人重感冒來辦事，經理不希望櫃檯的任何人在一個月中最忙的那週生病。",
+    "collocation": "as a precaution 作為預防"
+   },
+   {
+    "word": "precautionary measures",
+    "pos": "n.phr.",
+    "en_def": "actions taken in advance to prevent danger or harm",
+    "cn_def": "預防措施",
+    "sentence": "A: What steps will the organizers take to protect the guests at next month's trade show in the convention center? B: They will introduce several {{BLANK}}, such as checking temperatures at the entrance, placing hand gel at every booth and limiting the number of people in each hall at one time.",
+    "cn": "A：主辦單位將採取哪些步驟，在下個月會展中心的商展中保護來賓？ B：他們將實施幾項【預防措施】，例如在入口量體溫、在每個攤位放置乾洗手，以及限制每個展廳同時入場的人數。",
+    "collocation": "take precautionary measures 採取預防措施"
+   },
+   {
+    "word": "severity",
+    "pos": "n.",
+    "en_def": "how serious or bad something is",
+    "cn_def": "嚴重程度",
+    "sentence": "A: Why are the doctors at the clinic asking every patient so many questions about their fever and cough? B: They need to understand the {{BLANK}} of each illness before deciding on treatment, because some patients only need rest at home, while others must go straight to the hospital for more tests.",
+    "cn": "A：診所的醫生為什麼要問每位病人那麼多關於發燒和咳嗽的問題？ B：他們在決定治療方式前，需要了解每種病的【嚴重程度】，因為有些病人只需在家休息，而另一些必須直接到醫院做更多檢查。",
+    "collocation": "the severity of the illness 疾病的嚴重程度"
+   },
+   {
+    "word": "vaccine",
+    "pos": "n.",
+    "en_def": "a substance put into the body to protect it from a disease",
+    "cn_def": "疫苗",
+    "sentence": "A: Why is the company setting up a small clinic in the staff cafeteria every Friday this month? B: Nurses from the local hospital will give the flu {{BLANK}} to any employee who wants it, which is free and fast, so nobody has to take time off work to visit a doctor.",
+    "cn": "A：公司這個月為什麼每週五都在員工餐廳設置一個小診所？ B：當地醫院的護士會為任何想接種的員工施打流感【疫苗】，免費又快速，所以沒有人需要請假去看醫生。",
+    "collocation": "get a flu vaccine 接種流感疫苗"
+   },
+   {
+    "word": "immune",
+    "pos": "adj.",
+    "en_def": "protected from a disease and unable to catch it",
+    "cn_def": "免疫的",
+    "sentence": "A: Why did you get the flu shot this year when you said you never get sick in winter? B: My doctor explained that nobody is fully {{BLANK}} to new types of flu, and since I travel to trade fairs every month and meet hundreds of people, I decided it was better to be safe.",
+    "cn": "A：你說你冬天從不生病，為什麼今年還去打流感疫苗？ B：醫生跟我解釋，沒有人對新型流感是完全【免疫的】，而且因為我每個月都去參加商展、接觸數百人，我決定還是安全一點比較好。",
+    "collocation": "be immune to the disease 對疾病免疫"
+   },
+   {
+    "word": "immune systems",
+    "pos": "n.phr.",
+    "en_def": "the parts of the body that fight illness",
+    "cn_def": "免疫系統（複數）",
+    "sentence": "A: Why does the nursing home ask visitors with even a mild cold to stay away for a few days? B: Many of the elderly residents have weak {{BLANK}}, so an illness that seems small to a healthy adult can become very dangerous for them and move quickly through the building.",
+    "cn": "A：為什麼養老院要求即使只有輕微感冒的訪客也要幾天內不要來？ B：許多年長住民的【免疫系統】很弱，所以對健康成人來說似乎很小的病，對他們可能變得非常危險，並在整棟樓迅速傳開。",
+    "collocation": "strengthen our immune systems 增強我們的免疫系統"
+   },
+   {
+    "word": "new strains",
+    "pos": "n.phr.",
+    "en_def": "new types of a virus or germ",
+    "cn_def": "新病毒株",
+    "sentence": "A: Why do scientists have to update the flu vaccine every single year instead of using the same one? B: The virus keeps changing, and {{BLANK}} appear each season in different parts of the world, so the medicine companies must study them and change the vaccine to give people the best protection.",
+    "cn": "A：為什麼科學家每年都要更新流感疫苗，而不是一直用同一種？ B：病毒不斷變化，每一季世界各地都會出現【新病毒株】，所以藥廠必須研究它們並調整疫苗，給人們最好的保護。",
+    "collocation": "new strains of the flu 新型流感病毒株"
+   },
+   {
+    "word": "life-threatening",
+    "pos": "adj.",
+    "en_def": "so serious that it could cause death",
+    "cn_def": "危及生命的",
+    "sentence": "A: Why did the flight attendant ask whether there was a doctor on board during our flight to Tokyo? B: A passenger had a {{BLANK}} reaction to some nuts in his meal and could hardly breathe, so a nurse sitting in row twelve helped him until the plane landed and an ambulance arrived.",
+    "cn": "A：我們飛往東京的航班上，空服員為什麼詢問機上是否有醫生？ B：一位乘客對餐點中的堅果產生了【危及生命的】過敏反應，幾乎無法呼吸，所以坐在第十二排的一位護士幫助他，直到飛機降落、救護車抵達。",
+    "collocation": "a life-threatening illness 危及生命的疾病"
+   },
+   {
+    "word": "self-isolate",
+    "pos": "v.",
+    "en_def": "to stay away from other people so you do not spread a disease",
+    "cn_def": "自我隔離",
+    "sentence": "A: What should I do if someone in my family tests positive for the flu while I'm working on the team project? B: Company rules say you must {{BLANK}} at home for five days, so you can't come to the office, but you can still join our meetings online and send your reports by email.",
+    "cn": "A：如果我在做團隊專案期間，家人流感檢測呈陽性，我該怎麼辦？ B：公司規定你必須在家【自我隔離】五天，所以你不能進辦公室，但你仍可以線上參加會議，並用電子郵件寄報告。",
+    "collocation": "self-isolate for a week 自我隔離一週"
+   },
+   {
+    "word": "quarantine",
+    "pos": "n.",
+    "en_def": "a period when people must stay apart to stop a disease from spreading",
+    "cn_def": "隔離；檢疫",
+    "sentence": "A: Why couldn't the new engineer from Germany start work at our Taipei office on the first of the month? B: When he arrived, the government rules required a week of hotel {{BLANK}} for all travelers from overseas, so he worked online from his hotel room until he was allowed to leave.",
+    "cn": "A：那位從德國來的新工程師為什麼無法在月初到我們台北辦公室上班？ B：他抵達時，政府規定所有海外旅客都要在飯店【隔離】一週，所以他在飯店房間線上工作，直到獲准離開。",
+    "collocation": "be put in quarantine 被隔離"
+   },
+   {
+    "word": "hand sanitizer",
+    "pos": "n.phr.",
+    "en_def": "a liquid or gel used to clean hands without water",
+    "cn_def": "乾洗手；手部消毒液",
+    "sentence": "A: What did the hotel do to make guests feel safer after the flu season began this year? B: They placed bottles of {{BLANK}} at the front desk, beside every elevator and outside the restaurant, so guests can clean their hands quickly whenever they touch buttons or door handles.",
+    "cn": "A：今年流感季開始後，飯店做了什麼讓客人感覺更安全？ B：他們在櫃檯、每部電梯旁和餐廳外放置了一瓶瓶【乾洗手】，讓客人每次碰觸按鈕或門把後都能快速清潔雙手。",
+    "collocation": "a bottle of hand sanitizer 一瓶乾洗手"
+   },
+   {
+    "word": "antimicrobial",
+    "pos": "adj.",
+    "en_def": "able to kill germs or stop them from growing",
+    "cn_def": "抗菌的",
+    "sentence": "A: Why did the hospital choose the more expensive material for the new beds and curtains in the patient rooms? B: The fabric is {{BLANK}}, which means it stops many germs from growing on its surface, so it helps reduce illness among patients and makes the cleaners' work a little easier.",
+    "cn": "A：醫院為什麼為病房的新病床和簾子選擇比較貴的材料？ B：這種布料是【抗菌的】，也就是能阻止許多病菌在表面生長，所以有助於減少病人生病，也讓清潔人員的工作輕鬆一點。",
+    "collocation": "antimicrobial coating 抗菌塗層"
+   },
+   {
+    "word": "contain",
+    "pos": "v.",
+    "en_def": "to stop something harmful from spreading",
+    "cn_def": "控制；遏止",
+    "sentence": "A: Why did the factory close only one production line instead of shutting down the whole building last week? B: Three workers on that line got sick with the flu, and the managers wanted to {{BLANK}} the illness quickly, so they sent that team home while the other lines kept working safely.",
+    "cn": "A：工廠上週為什麼只關閉一條生產線，而不是整棟建築停工？ B：那條生產線上有三名工人得了流感，經理們想迅速【控制】疫情，所以讓那組人回家，其他生產線則安全地繼續運作。",
+    "collocation": "contain the outbreak 控制疫情"
+   },
+   {
+    "word": "social distancing",
+    "pos": "n.phr.",
+    "en_def": "keeping a safe space between yourself and other people",
+    "cn_def": "社交距離",
+    "sentence": "A: Why are there yellow lines on the floor in front of every cashier in the supermarket? B: The store started {{BLANK}} during the flu season, so the lines show customers where to stand and help them keep enough space between each other while they wait to pay.",
+    "cn": "A：為什麼超市每個收銀台前的地板上都有黃線？ B：商店在流感季期間開始實施【社交距離】，所以這些線告訴顧客該站在哪裡，幫助他們排隊等結帳時彼此保持足夠空間。",
+    "collocation": "practice social distancing 保持社交距離"
+   },
+   {
+    "word": "community spread",
+    "pos": "n.phr.",
+    "en_def": "the passing of a disease among people in a local area without a known source",
+    "cn_def": "社區傳播",
+    "sentence": "A: Why did the city close the public libraries and sports centers even though there were only a few cases at first? B: Officials found {{BLANK}}, which means people were catching the virus in shops and on buses without traveling anywhere, so they knew the number of cases could rise very quickly.",
+    "cn": "A：雖然一開始只有少數病例，市政府為什麼關閉了公立圖書館和運動中心？ B：官員發現了【社區傳播】，意思是人們沒有去過任何地方，卻在商店和公車上感染病毒，所以他們知道病例數可能迅速上升。",
+    "collocation": "signs of community spread 社區傳播的跡象"
+   },
+   {
+    "word": "vulnerable",
+    "pos": "adj.",
+    "en_def": "easily hurt or harmed",
+    "cn_def": "易受傷害的；脆弱的",
+    "sentence": "A: Why does the pharmacy open one hour early every Tuesday morning just for older customers? B: Elderly people are more {{BLANK}} to serious illness during the winter, so the owner wants them to shop safely before the store gets crowded with office workers on their way to work.",
+    "cn": "A：藥局為什麼每週二早上提早一小時只為年長顧客開門？ B：年長者在冬天更【容易受到】重病侵襲，所以老闆希望他們在店裡擠滿趕著上班的上班族之前安全地購物。",
+    "collocation": "vulnerable groups 弱勢族群；易受影響的族群"
+   },
+   {
+    "word": "incubation period",
+    "pos": "n.phr.",
+    "en_def": "the time between catching a disease and showing signs of it",
+    "cn_def": "潛伏期",
+    "sentence": "A: Why must the travelers who were on the same flight as the sick passenger watch their health for two weeks? B: This flu has an {{BLANK}} of up to ten days, so people may feel fine at first even though they are already carrying the illness and could become sick later.",
+    "cn": "A：為什麼和那位生病乘客同班機的旅客必須觀察自己的健康兩週？ B：這種流感的【潛伏期】長達十天，所以人們一開始可能感覺沒事，即使他們已經帶有病毒，之後也可能發病。",
+    "collocation": "a short incubation period 短的潛伏期"
+   },
+   {
+    "word": "medical care",
+    "pos": "n.phr.",
+    "en_def": "help and treatment from doctors and nurses",
+    "cn_def": "醫療照護",
+    "sentence": "A: Why did the company add a doctor and two nurses to the team at its new mine in the mountains? B: The mine is three hours from the nearest town, so workers need quick {{BLANK}} if someone gets hurt or sick, and the company wants to make sure help is always close by.",
+    "cn": "A：公司為什麼在山區的新礦場團隊增加了一位醫生和兩位護理師？ B：礦場離最近的城鎮有三個小時路程，所以如果有人受傷或生病，工人需要即時的【醫療照護】，公司想確保隨時都有援助在身邊。",
+    "collocation": "receive medical care 接受醫療照護"
+   },
+   {
+    "word": "PPE",
+    "pos": "n.",
+    "en_def": "personal protective equipment, such as masks, gloves and gowns",
+    "cn_def": "個人防護裝備",
+    "sentence": "A: Why did the hospital order so many boxes of gloves, masks and gowns from the supplier this month? B: The nurses use a lot of {{BLANK}} every day when they care for sick patients, and the manager wants to make sure the hospital never runs out during the busy winter season.",
+    "cn": "A：醫院這個月為什麼向供應商訂購了那麼多箱手套、口罩和隔離衣？ B：護理師照顧病人時每天要用大量的【個人防護裝備】，經理想確保醫院在忙碌的冬季絕不會缺貨。",
+    "collocation": "wear proper PPE 穿戴適當的個人防護裝備"
+   },
+   {
+    "word": "spread",
+    "forms": "spread – spread – spread",
+    "pos": "v.",
+    "en_def": "to pass from one person or place to others",
+    "cn_def": "傳播；擴散",
+    "sentence": "A: Why does the manager want everyone to stay home when they have a fever, even during the busiest weeks? B: When sick people come to work, they can easily {{BLANK}} germs to everyone in the office, and then half the team might be absent at the same time, which is much worse for business.",
+    "cn": "A：經理為什麼要大家發燒時待在家，即使是在最忙的幾週？ B：生病的人來上班時，很容易把病菌【傳播】給辦公室裡的每個人，然後可能一半的團隊同時缺勤，這對生意更糟。",
+    "collocation": "spread the disease 傳播疾病"
+   },
+   {
+    "word": "face mask",
+    "pos": "n.phr.",
+    "en_def": "a cover worn over the nose and mouth",
+    "cn_def": "口罩",
+    "sentence": "A: Do visitors need to bring anything special when they tour the food factory next Thursday? B: Everyone must wear a {{BLANK}} and a hair cap inside the production area, but we will give them to you at the entrance, so you only need comfortable shoes and your visitor pass.",
+    "cn": "A：訪客下週四參觀食品工廠時需要帶什麼特別的東西嗎？ B：每個人在生產區內都必須戴【口罩】和髮帽，不過我們會在入口發給你們，所以你們只需要穿舒適的鞋子並帶訪客證。",
+    "collocation": "put on a face mask 戴上口罩"
+   },
+   {
+    "word": "stockpile",
+    "pos": "v.",
+    "en_def": "to collect and keep a large amount of something for later",
+    "cn_def": "囤積；儲備",
+    "sentence": "A: Why are the shelves for rice, toilet paper and canned food almost empty at the supermarket today? B: After the news report about the new flu, many shoppers started to {{BLANK}} basic goods at home, even though the government said there was no need, so the store is waiting for new deliveries.",
+    "cn": "A：為什麼今天超市裡米、衛生紙和罐頭的貨架幾乎都空了？ B：新流感的新聞報導出來後，許多購物者開始在家【囤積】基本物資，儘管政府說沒有必要，所以店家正在等新的貨送到。",
+    "collocation": "stockpile food and water 囤積食物和水"
+   },
+   {
+    "word": "lockdown",
+    "pos": "n.",
+    "en_def": "a time when people must stay at home and most places are closed",
+    "cn_def": "封城；封鎖",
+    "sentence": "A: How did your restaurant manage to keep earning money when the city was closed for a month? B: During the {{BLANK}}, nobody could eat inside restaurants, so we started a delivery service and sold meal boxes online, and now those orders make up almost a third of our income.",
+    "cn": "A：城市封閉一個月的時候，你的餐廳是怎麼維持收入的？ B：在【封城】期間，沒有人能在餐廳內用餐，所以我們開始外送服務並在網上賣餐盒，現在那些訂單幾乎佔我們收入的三分之一。",
+    "collocation": "go into lockdown 進入封城狀態"
+   },
+   {
+    "word": "curfew",
+    "pos": "n.",
+    "en_def": "a rule that people must stay indoors after a certain time",
+    "cn_def": "宵禁",
+    "sentence": "A: Why did the restaurants downtown close so early during the health crisis, even on Friday nights? B: The city set a ten o'clock {{BLANK}}, so people had to be at home by then, and the owners closed their kitchens at nine to give staff enough time to clean and travel home.",
+    "cn": "A：在健康危機期間，市中心的餐廳為什麼那麼早關門，連週五晚上也是？ B：市政府實施了晚上十點的【宵禁】，人們必須在那之前回到家，所以老闆們九點就關廚房，讓員工有足夠時間清潔和回家。",
+    "collocation": "impose a curfew 實施宵禁"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Many airlines lost money when people stopped flying during the _____. Travel finally returned to normal two years later.",
+    "options": [
+     "pandemic",
+     "curfew",
+     "droplet",
+     "syndrome"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The cleaning team will _____ all the desks and keyboards tonight. Staff can return to the office tomorrow morning.",
+    "options": [
+     "contaminate",
+     "disinfect",
+     "stockpile",
+     "target"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The doctor told Ms. Park to stay home for five days. Her cold is still _____ and could spread to coworkers.",
+    "options": [
+     "antimicrobial",
+     "zoonotic",
+     "contagious",
+     "immune"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Travelers arriving from abroad must spend seven days in hotel _____. Meals are delivered to their rooms three times a day.",
+    "options": [
+     "outbreak",
+     "ventilator",
+     "telehealth",
+     "quarantine"
+    ],
+    "answer": 3,
+    "vocabIndex": 39
+   },
+   {
+    "q": "A sore throat is often the first _____ of a cold. Employees who have one should tell their manager.",
+    "options": [
+     "virus",
+     "droplet",
+     "symptom",
+     "curfew"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The clinic will offer a free flu _____ to all employees next Friday. Staff should sign up at the front desk.",
+    "options": [
+     "vaccine",
+     "lockdown",
+     "syndrome",
+     "epicentre"
+    ],
+    "answer": 0,
+    "vocabIndex": 33
+   },
+   {
+    "q": "The hotel closed its restaurant after a sudden _____ of food poisoning. More than thirty guests became sick after dinner.",
+    "options": [
+     "severity",
+     "transmission",
+     "ventilator",
+     "outbreak"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Please do not come to work with a fever. You could easily _____ your colleagues in the crowded office.",
+    "options": [
+     "expose",
+     "infect",
+     "contain",
+     "stockpile"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The patient could not breathe on her own after the surgery. Doctors connected her to a _____ for two days.",
+    "options": [
+     "telehealth",
+     "precaution",
+     "syndrome",
+     "ventilator"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Smoking can cause serious _____ problems such as coughing and shortness of breath. The company offers free classes to help staff quit.",
+    "options": [
+     "asymptomatic",
+     "antimicrobial",
+     "respiratory",
+     "zoonotic"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "During the city's month-long _____, all shops except supermarkets and pharmacies were closed. Many people worked from home.",
+    "options": [
+     "droplet",
+     "lockdown",
+     "symptom",
+     "virus"
+    ],
+    "answer": 1,
+    "vocabIndex": 52
+   },
+   {
+    "q": "Doctors decide the treatment based on the _____ of the illness. Mild cases can usually be treated at home.",
+    "options": [
+     "severity",
+     "droplet",
+     "asthma",
+     "pneumonia"
+    ],
+    "answer": 0,
+    "vocabIndex": 32
+   },
+   {
+    "q": "Staff who test positive for the flu must _____ at home for five days. They can still join meetings online.",
+    "options": [
+     "disinfect",
+     "self-isolate",
+     "contaminate",
+     "target"
+    ],
+    "answer": 1,
+    "vocabIndex": 38
+   },
+   {
+    "q": "The _____ from the national university studied how the flu moved across the city. Her report was sent to every hospital.",
+    "options": [
+     "ventilator",
+     "super-spreader",
+     "telehealth",
+     "epidemiologist"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Please use the _____ near the elevator before entering the meeting room. It only takes a few seconds to clean your hands.",
+    "options": [
+     "hand sanitizer",
+     "incubation period",
+     "community spread",
+     "medical care"
+    ],
+    "answer": 0,
+    "vocabIndex": 40
+   },
+   {
+    "q": "Doctors say no one is completely _____ to this new type of flu. Everyone should wash their hands often.",
+    "options": [
+     "contagious",
+     "acute",
+     "immune",
+     "respiratory"
+    ],
+    "answer": 2,
+    "vocabIndex": 34
+   },
+   {
+    "q": "The factory closed one line to _____ the outbreak quickly. The other lines continued working as usual.",
+    "options": [
+     "contain",
+     "infect",
+     "stockpile",
+     "disinfect"
+    ],
+    "answer": 0,
+    "vocabIndex": 42
+   },
+   {
+    "q": "His cold became much worse and turned into _____. He spent four days in the hospital before returning to work.",
+    "options": [
+     "curfew",
+     "epicentre",
+     "pneumonia",
+     "outbreak"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "This virus has a short _____ of only three days. People may feel healthy at first even after catching it.",
+    "options": [
+     "social distancing",
+     "incubation period",
+     "medical care",
+     "face mask"
+    ],
+    "answer": 1,
+    "vocabIndex": 46
+   },
+   {
+    "q": "The new rules caused _____ confusion among shop owners across the country. Many of them called the city office for help.",
+    "options": [
+     "zoonotic",
+     "antimicrobial",
+     "asymptomatic",
+     "widespread"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Heart _____ is a serious problem for people who sit all day. The company now offers free exercise classes at lunchtime.",
+    "options": [
+     "droplet",
+     "precaution",
+     "disease",
+     "curfew"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "With the new insurance plan, staff can use a _____ service from home. They can talk to a doctor through a video call.",
+    "options": [
+     "quarantine",
+     "outbreak",
+     "lockdown",
+     "telehealth"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Some shoppers began to _____ rice and toilet paper after the news report. As a result, the shelves were empty by noon.",
+    "options": [
+     "stockpile",
+     "disinfect",
+     "self-isolate",
+     "infect"
+    ],
+    "answer": 0,
+    "vocabIndex": 51
+   },
+   {
+    "q": "Visitors must wear a _____ and a hair cap in the production area. We will give them one at the entrance.",
+    "options": [
+     "hand sanitizer",
+     "face mask",
+     "medical care",
+     "social distancing"
+    ],
+    "answer": 1,
+    "vocabIndex": 50
+   },
+   {
+    "q": "One guest at the party was a _____ who passed the flu to forty people. Health officials contacted everyone who attended.",
+    "options": [
+     "epicentre",
+     "ventilator",
+     "symptom",
+     "super-spreader"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Mr. Lee keeps an inhaler in his desk drawer because he has _____. Dust from the road sometimes makes breathing difficult for him.",
+    "options": [
+     "syndrome",
+     "asthma",
+     "curfew",
+     "transmission"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Wearing masks in the lobby is just a _____ during flu season. Nobody in the office is sick at the moment.",
+    "options": [
+     "outbreak",
+     "droplet",
+     "precaution",
+     "epicentre"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The city set a ten o'clock _____ during the crisis. All restaurants had to close before then so staff could get home.",
+    "options": [
+     "curfew",
+     "syndrome",
+     "pneumonia",
+     "ventilator"
+    ],
+    "answer": 0,
+    "vocabIndex": 53
+   },
+   {
+    "q": "Plastic screens between desks can reduce the _____ of germs between workers. The office installed them in the call center last week.",
+    "options": [
+     "severity",
+     "transmission",
+     "asthma",
+     "virus"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Older people are more _____ to serious illness in winter. The pharmacy opens early on Tuesdays just for them.",
+    "options": [
+     "vulnerable",
+     "antimicrobial",
+     "zoonotic",
+     "respiratory"
+    ],
+    "answer": 0,
+    "vocabIndex": 45
+   }
+  ]
+ },
+ "88": {
+  "theme": "Creative Person 有創意的人",
+  "source": "https://www.examword.com/group-topic/creative-person",
+  "VOCAB": [
+   {
+    "word": "creative",
+    "pos": "adj.",
+    "en_def": "good at making new and interesting ideas or things",
+    "cn_def": "有創意的；創造性的",
+    "sentence": "A: Why did the hotel chain hire a new advertising agency instead of keeping the old one that worked with them for ten years? B: The managers felt the old ads looked the same every year, and they wanted a more {{BLANK}} team that could think of fresh ideas to attract younger travelers.",
+    "cn": "A：為什麼這家連鎖飯店要聘請新的廣告公司，而不繼續和合作了十年的舊公司合作？ B：經理們覺得舊的廣告每年看起來都一樣，他們想要一個更有【創意】的團隊，能想出新點子來吸引年輕旅客。",
+    "collocation": "a creative solution to the problem 解決問題的創意方法"
+   },
+   {
+    "word": "creativity",
+    "pos": "n.",
+    "en_def": "the ability to make new ideas or things",
+    "cn_def": "創造力；創意",
+    "sentence": "A: What did the trainer say about the long meetings we have every Monday morning in the main conference room? B: She said that sitting in the same room for three hours kills {{BLANK}}, so she suggested short walking meetings outside, where people feel relaxed and share new ideas more easily.",
+    "cn": "A：訓練師對我們每週一早上在主會議室開的冗長會議有什麼看法？ B：她說在同一個房間坐三個小時會扼殺【創造力】，所以她建議改在戶外舉行簡短的步行會議，讓大家感到放鬆，也更容易分享新點子。",
+    "collocation": "encourage creativity in the workplace 在職場鼓勵創造力"
+   },
+   {
+    "word": "imaginative",
+    "pos": "adj.",
+    "en_def": "having or showing new and unusual ideas",
+    "cn_def": "富有想像力的",
+    "sentence": "A: How did the small bakery near the station become so popular on social media in only a few months? B: The owner came up with an {{BLANK}} idea to bake cakes that look like famous buildings, and customers love taking photos of them before they eat them.",
+    "cn": "A：車站附近那家小麵包店怎麼在短短幾個月內就在社群媒體上爆紅？ B：老闆想出一個很有【想像力】的點子，把蛋糕做成知名建築的樣子，顧客很喜歡在吃之前先拍照。",
+    "collocation": "an imaginative design 富有想像力的設計"
+   },
+   {
+    "word": "innovative",
+    "pos": "adj.",
+    "en_def": "using new methods or ideas",
+    "cn_def": "創新的",
+    "sentence": "A: Why are so many investors interested in that young technology company from Taichung this year? B: It has developed an {{BLANK}} app that helps restaurants reduce food waste by predicting how many customers will come each day, and several large hotel groups have already signed contracts.",
+    "cn": "A：為什麼今年有這麼多投資人對那家來自台中的年輕科技公司感興趣？ B：它開發了一款【創新的】應用程式，能預測每天會有多少顧客上門，幫助餐廳減少食物浪費，而且好幾家大型飯店集團已經簽約了。",
+    "collocation": "innovative products 創新產品"
+   },
+   {
+    "word": "original",
+    "pos": "adj.",
+    "en_def": "new and different from others",
+    "cn_def": "原創的；新穎的",
+    "sentence": "A: Did the marketing director like the slogans that the summer interns wrote for the new juice drink? B: She liked most of them, but she said one slogan was too similar to a competitor's, so she asked the interns to come up with something more {{BLANK}} by Friday.",
+    "cn": "A：行銷總監喜歡暑期實習生為新果汁飲料寫的標語嗎？ B：她大部分都喜歡，但她說有一句標語和競爭對手的太像了，所以她要求實習生在星期五前想出更【有原創性】的內容。",
+    "collocation": "an original idea 原創的想法"
+   },
+   {
+    "word": "inventive",
+    "pos": "adj.",
+    "en_def": "able to think of new and clever ways to do things",
+    "cn_def": "有發明才能的；善於創新的",
+    "sentence": "A: How did the warehouse staff solve the problem of boxes falling off the high shelves last month? B: One {{BLANK}} worker built a simple wooden barrier from leftover materials, and it worked so well that the manager decided to install the same design in all three warehouses.",
+    "cn": "A：上個月倉庫員工怎麼解決箱子從高架子上掉下來的問題？ B：一位很【有發明才能】的員工用剩下的材料做了一個簡單的木製擋板，效果好到經理決定在三間倉庫都安裝同樣的設計。",
+    "collocation": "an inventive solution 巧妙的解決辦法"
+   },
+   {
+    "word": "visionary",
+    "pos": "adj.",
+    "en_def": "able to imagine how the future could be",
+    "cn_def": "有遠見的；有眼光的",
+    "sentence": "A: Why do so many employees still talk about the woman who started this company thirty years ago? B: She was a {{BLANK}} leader who believed people would shop online long before most companies did, and her plans helped us grow from a tiny office into an international business.",
+    "cn": "A：為什麼還有那麼多員工在談論三十年前創辦這家公司的那位女士？ B：她是一位很有【遠見的】領導者，早在大多數公司之前就相信人們會在網路上購物，她的規劃幫助我們從一間小辦公室成長為國際企業。",
+    "collocation": "a visionary leader 有遠見的領導者"
+   },
+   {
+    "word": "artist",
+    "pos": "n.",
+    "en_def": "a person who paints, draws or makes other art",
+    "cn_def": "藝術家；畫家",
+    "sentence": "A: Who painted the colorful picture of the harbor that hangs on the wall behind the reception desk? B: A local {{BLANK}} from Keelung made it for us last year, and many guests ask the receptionist where they can buy her other paintings of the city.",
+    "cn": "A：掛在接待櫃台後面牆上那幅色彩繽紛的港口畫是誰畫的？ B：是去年一位基隆在地的【藝術家】為我們畫的，很多客人都會問接待人員在哪裡可以買到她其他描繪這座城市的畫作。",
+    "collocation": "a local artist 當地藝術家"
+   },
+   {
+    "word": "designer",
+    "pos": "n.",
+    "en_def": "a person whose job is to plan how things will look",
+    "cn_def": "設計師",
+    "sentence": "A: Have you decided who will plan the new look of our restaurant before it opens again in March? B: Yes, we hired a young interior {{BLANK}} who has worked on several popular cafés downtown, and she will show us her drawings and color samples next Tuesday.",
+    "cn": "A：你決定好由誰在三月重新開幕前規劃我們餐廳的新風格了嗎？ B：決定了，我們聘請了一位年輕的室內【設計師】，她曾經參與市中心好幾家熱門咖啡館的設計，下週二會給我們看她的草圖和色樣。",
+    "collocation": "a graphic designer 平面設計師"
+   },
+   {
+    "word": "writer",
+    "pos": "n.",
+    "en_def": "a person who writes books, articles or other texts",
+    "cn_def": "作家；撰稿人",
+    "sentence": "A: Who is going to prepare the English text for our new company website and the product brochures? B: We found a freelance {{BLANK}} who used to work for a travel magazine, and she promised to send us the first draft of every page within two weeks.",
+    "cn": "A：誰要負責準備我們新公司網站和產品手冊的英文內容？ B：我們找到一位以前在旅遊雜誌工作過的自由【撰稿人】，她答應在兩週內把每一頁的初稿寄給我們。",
+    "collocation": "a freelance writer 自由撰稿人"
+   },
+   {
+    "word": "musician",
+    "pos": "n.",
+    "en_def": "a person who plays or writes music",
+    "cn_def": "音樂家",
+    "sentence": "A: Are we going to play recorded music at the company's year-end party at the hotel again this time? B: No, the planning team booked a {{BLANK}} who plays the piano and sings, so guests can enjoy live performances while they have dinner and wait for the awards.",
+    "cn": "A：這次公司在飯店舉辦的尾牙，我們還是要播放錄好的音樂嗎？ B：不是，籌備小組請了一位會彈鋼琴又會唱歌的【音樂家】，讓賓客在吃晚餐和等待頒獎時能欣賞現場表演。",
+    "collocation": "a professional musician 職業音樂家"
+   },
+   {
+    "word": "inventor",
+    "pos": "n.",
+    "en_def": "a person who makes something new that did not exist before",
+    "cn_def": "發明家",
+    "sentence": "A: Why is there a small museum on the first floor of the factory that visitors can walk through? B: It tells the story of the {{BLANK}} who designed our first electric fan in 1965, and it shows his early drawings, tools and the machines he built in his garage.",
+    "cn": "A：為什麼工廠一樓有一間訪客可以參觀的小型博物館？ B：它講述了在1965年設計出我們第一台電風扇的那位【發明家】的故事，並展示了他早期的草圖、工具，以及他在車庫裡做出來的機器。",
+    "collocation": "a famous inventor 著名的發明家"
+   },
+   {
+    "word": "creator",
+    "pos": "n.",
+    "en_def": "a person who makes something new",
+    "cn_def": "創作者；創造者",
+    "sentence": "A: Why did the bank invite that young woman with the popular cooking videos to its financial planning event? B: She is the {{BLANK}} of a well-known online channel with over a million followers, and the bank hopes she can help explain saving money to younger customers.",
+    "cn": "A：為什麼銀行邀請那位拍熱門烹飪影片的年輕女生參加理財規劃活動？ B：她是一個擁有超過一百萬追蹤者的知名網路頻道的【創作者】，銀行希望她能幫忙向年輕顧客解釋存錢的觀念。",
+    "collocation": "a content creator 內容創作者"
+   },
+   {
+    "word": "talented",
+    "pos": "adj.",
+    "en_def": "having a natural ability to do something well",
+    "cn_def": "有才華的；有天分的",
+    "sentence": "A: Why did the sales department decide to send Kevin to the international trade fair in Singapore next month? B: He is a very {{BLANK}} speaker who can explain our products clearly in three languages, and customers always remember him after his short presentations at the booth.",
+    "cn": "A：為什麼業務部決定下個月派Kevin去新加坡參加國際商展？ B：他是一位非常【有才華的】講者，能用三種語言清楚介紹我們的產品，而且顧客在攤位上聽完他簡短的介紹後總是對他印象深刻。",
+    "collocation": "a talented young engineer 有才華的年輕工程師"
+   },
+   {
+    "word": "gifted",
+    "pos": "adj.",
+    "en_def": "having a special natural ability",
+    "cn_def": "有天賦的；資優的",
+    "sentence": "A: Is it true that the new accountant also plays the violin in a city orchestra on weekends? B: Yes, she is a {{BLANK}} violinist who started playing when she was four, and she will perform a short piece at the opening of our charity concert next month.",
+    "cn": "A：新來的會計師週末也在市立管弦樂團拉小提琴，是真的嗎？ B：是的，她是一位很有【天賦的】小提琴手，四歲就開始拉琴，下個月她會在我們慈善音樂會的開場演奏一首短曲。",
+    "collocation": "a gifted student 資優學生"
+   },
+   {
+    "word": "skilled",
+    "pos": "adj.",
+    "en_def": "having the training and experience to do a job well",
+    "cn_def": "熟練的；有技能的",
+    "sentence": "A: Why is the furniture factory offering such high salaries in its job advertisements this spring? B: It is very hard to find {{BLANK}} workers who can build wooden tables and chairs by hand, so the company must pay more to attract experienced people from other cities.",
+    "cn": "A：為什麼這家家具工廠今年春天在徵人廣告上開出這麼高的薪水？ B：要找到能手工製作木桌和木椅的【熟練】工人非常困難，所以公司必須付更多薪水，才能吸引其他城市有經驗的人。",
+    "collocation": "skilled workers 熟練工人；技術工人"
+   },
+   {
+    "word": "resourceful",
+    "pos": "adj.",
+    "en_def": "good at finding quick and clever ways to solve problems",
+    "cn_def": "足智多謀的；善於應變的",
+    "sentence": "A: How did the tour guide handle the problem when the bus broke down on the mountain road last weekend? B: She was very {{BLANK}}; she called a local taxi company, found a small café where everyone could wait, and still got the group to the hotel before dinner.",
+    "cn": "A：上週末巴士在山路上拋錨時，導遊是怎麼處理的？ B：她非常【足智多謀】；她打電話給當地計程車行，找了一家小咖啡館讓大家等候，最後還是在晚餐前把團員送到飯店。",
+    "collocation": "a resourceful manager 足智多謀的經理"
+   },
+   {
+    "word": "expressive",
+    "pos": "adj.",
+    "en_def": "showing feelings or ideas clearly",
+    "cn_def": "富有表現力的；表情豐富的",
+    "sentence": "A: Why did the director choose that actor for our new television commercial instead of a more famous star? B: He has a very {{BLANK}} face, so he can show surprise, joy and worry without saying a word, which is perfect for a short ad with no dialogue.",
+    "cn": "A：為什麼導演選那位演員拍我們新的電視廣告，而不是找更有名的明星？ B：他的臉部表情非常【豐富】，不用說一句話就能表現出驚訝、喜悅和擔憂，非常適合沒有對白的短廣告。",
+    "collocation": "an expressive face 富有表情的臉"
+   },
+   {
+    "word": "inspired",
+    "pos": "adj.",
+    "en_def": "filled with new ideas and a strong wish to do something",
+    "cn_def": "受到啟發的；有靈感的",
+    "sentence": "A: What made the chef add so many new Thai dishes to the restaurant's menu this autumn? B: She felt {{BLANK}} after spending two weeks at a cooking school in Bangkok, and she wanted to share the fresh flavors she discovered at the night markets with her customers.",
+    "cn": "A：是什麼讓主廚今年秋天在餐廳菜單上加了這麼多新的泰式料理？ B：她在曼谷的烹飪學校待了兩週後深受【啟發】，想把她在夜市發現的新鮮風味分享給顧客。",
+    "collocation": "feel inspired by a trip 因一趟旅行而受到啟發"
+   },
+   {
+    "word": "inspiration",
+    "pos": "n.",
+    "en_def": "something that gives you new ideas",
+    "cn_def": "靈感；鼓舞",
+    "sentence": "A: Where did the designer get the idea for the blue and white pattern on our new coffee cups? B: She said the old tiles in her grandmother's kitchen in Tainan were her main {{BLANK}}, and she wanted the cups to feel warm and familiar to local customers.",
+    "cn": "A：設計師是從哪裡得到我們新咖啡杯上藍白圖案的點子？ B：她說她外婆在台南廚房裡的舊磁磚是她主要的【靈感來源】，她希望這些杯子讓在地顧客感到溫暖又熟悉。",
+    "collocation": "a source of inspiration 靈感來源"
+   },
+   {
+    "word": "brainstorm",
+    "pos": "v.",
+    "en_def": "to share many ideas quickly in a group",
+    "cn_def": "腦力激盪；集思廣益",
+    "sentence": "A: How are we going to choose a name for the new snack product before the launch in December? B: The manager wants the whole team to {{BLANK}} together on Thursday afternoon, and everyone should write down at least five ideas before we vote on the best one.",
+    "cn": "A：在十二月上市前，我們要怎麼為新的零食產品取名字？ B：經理希望整個團隊星期四下午一起【腦力激盪】，每個人在投票選出最好的名字之前，至少要寫下五個點子。",
+    "collocation": "brainstorm ideas for a campaign 為活動腦力激盪想點子"
+   },
+   {
+    "word": "imagine",
+    "pos": "v.",
+    "en_def": "to form a picture of something in your mind",
+    "cn_def": "想像",
+    "sentence": "A: Why did the architect bring virtual reality glasses to the meeting with the hotel owners yesterday? B: She wanted to help them {{BLANK}} what the new lobby will look like, because it is hard for most people to understand a building just from flat drawings on paper.",
+    "cn": "A：為什麼建築師昨天和飯店業主開會時帶了虛擬實境眼鏡？ B：她想幫助他們【想像】新大廳會是什麼樣子，因為大多數人很難只靠紙上的平面圖就理解一棟建築。",
+    "collocation": "imagine the future 想像未來"
+   },
+   {
+    "word": "create",
+    "pos": "v.",
+    "en_def": "to make something new or cause something to exist",
+    "cn_def": "創造；建立",
+    "sentence": "A: What is the main goal of the new training program that the human resources department started this month? B: It aims to {{BLANK}} a friendly working environment where new employees feel comfortable asking questions, so they can learn faster and stay with the company longer.",
+    "cn": "A：人資部這個月開始的新訓練計畫，主要目標是什麼？ B：它的目的是【營造】一個友善的工作環境，讓新進員工能自在地發問，這樣他們能學得更快，也會在公司待得更久。",
+    "collocation": "create jobs 創造就業機會"
+   },
+   {
+    "word": "design",
+    "pos": "v.",
+    "en_def": "to plan and draw how something will look or work",
+    "cn_def": "設計",
+    "sentence": "A: Who is responsible for the new uniforms that the airline's flight attendants will start wearing next year? B: A famous fashion company was asked to {{BLANK}} them, and it chose light fabric and soft colors so the staff can stay comfortable on long international flights.",
+    "cn": "A：航空公司空服員明年開始穿的新制服是由誰負責的？ B：一家知名時裝公司受邀【設計】制服，他們選用輕薄的布料和柔和的顏色，讓員工在長途國際航班上也能保持舒適。",
+    "collocation": "design a new logo 設計新標誌"
+   },
+   {
+    "word": "compose",
+    "pos": "v.",
+    "en_def": "to write music, a poem or a letter",
+    "cn_def": "作曲；創作；撰寫",
+    "sentence": "A: Did the marketing team buy the background music for our new television commercial from an online library? B: No, we paid a young musician to {{BLANK}} a short, cheerful song just for us, so no other company can use the same music in their ads.",
+    "cn": "A：行銷團隊是從線上音樂庫購買新電視廣告的背景音樂嗎？ B：不是，我們付錢請了一位年輕音樂家專門為我們【創作】一首輕快的短曲，這樣其他公司就不能在廣告中使用同樣的音樂。",
+    "collocation": "compose music for a film 為電影作曲"
+   },
+   {
+    "word": "craft",
+    "pos": "v.",
+    "en_def": "to make something carefully and with skill",
+    "cn_def": "精心製作；手工製作",
+    "sentence": "A: Why are the leather bags from that small shop in Taipei so much more expensive than the ones in department stores? B: The owner and her two assistants {{BLANK}} every bag by hand in their workshop, so each one takes about three days to make, and they use only the best leather from Italy.",
+    "cn": "A：為什麼台北那家小店的皮包比百貨公司的貴那麼多？ B：老闆和她的兩位助理在工作室裡用手工【精心製作】每一個包包，所以每個大約要花三天才能完成，而且他們只用來自義大利的最好皮革。",
+    "collocation": "craft furniture by hand 手工精製家具"
+   },
+   {
+    "word": "experiment",
+    "pos": "v.",
+    "en_def": "to try new ways of doing something to see what happens",
+    "cn_def": "實驗；嘗試",
+    "sentence": "A: Why does the new coffee shop downstairs change its menu almost every week? B: The young owner likes to {{BLANK}} with different flavors, such as oolong tea lattes and honey cold brew, and she asks regular customers to give feedback before she adds a drink permanently.",
+    "cn": "A：為什麼樓下新開的咖啡店幾乎每週都換菜單？ B：年輕的老闆喜歡【嘗試】不同的口味，例如烏龍茶拿鐵和蜂蜜冷萃，而且她在正式加入一款飲料之前，會請常客提供意見。",
+    "collocation": "experiment with new ideas 嘗試新點子"
+   },
+   {
+    "word": "express",
+    "pos": "v.",
+    "en_def": "to show a feeling or idea in words or actions",
+    "cn_def": "表達；表示",
+    "sentence": "A: Why did the manager ask everyone to fill out an anonymous survey after the office moved to the new building? B: She wanted to give employees a safe way to {{BLANK}} their opinions about the new space, because some people feel nervous about complaining in front of their team.",
+    "cn": "A：為什麼經理在辦公室搬到新大樓後，要求大家填寫一份匿名問卷？ B：她想讓員工有一個安全的方式來【表達】對新空間的意見，因為有些人不敢在團隊面前抱怨。",
+    "collocation": "express your opinion 表達意見"
+   },
+   {
+    "word": "curious",
+    "pos": "adj.",
+    "en_def": "wanting to know or learn about something",
+    "cn_def": "好奇的",
+    "sentence": "A: Why did so many people stop at our booth at the technology fair even though we are a small company? B: They were {{BLANK}} about the robot arm that was making coffee in front of the booth, so they came closer to watch, and then our staff explained our products.",
+    "cn": "A：我們只是一家小公司，為什麼在科技展上有那麼多人在我們的攤位停下來？ B：他們對攤位前那隻正在煮咖啡的機器手臂感到很【好奇】，所以走近來看，然後我們的員工就向他們介紹產品。",
+    "collocation": "be curious about new technology 對新科技感到好奇"
+   },
+   {
+    "word": "open-minded",
+    "pos": "adj.",
+    "en_def": "willing to accept new and different ideas",
+    "cn_def": "思想開明的；心胸開闊的",
+    "sentence": "A: What kind of person are you looking for to lead the new team that will work with partners in Japan and Vietnam? B: We need someone who is {{BLANK}} and willing to listen to different ideas, because people from each country have their own ways of doing business.",
+    "cn": "A：你們在找什麼樣的人來帶領這個要和日本及越南夥伴合作的新團隊？ B：我們需要一個【思想開明】、願意聆聽不同想法的人，因為每個國家的人都有自己做生意的方式。",
+    "collocation": "an open-minded attitude 開放的態度"
+   },
+   {
+    "word": "bold",
+    "pos": "adj.",
+    "en_def": "brave and willing to take risks",
+    "cn_def": "大膽的；勇敢的",
+    "sentence": "A: Why are people in the industry so surprised by the new advertising campaign from that small phone company? B: It made a very {{BLANK}} decision to compare its phones directly with the market leader's on huge billboards downtown, and the campaign has already doubled its online sales.",
+    "cn": "A：為什麼業界對那家小手機公司的新廣告活動這麼驚訝？ B：它做了一個非常【大膽的】決定，在市中心的巨型看板上直接把自家手機和市場龍頭的手機做比較，而這個活動已經讓它的網路銷售翻倍了。",
+    "collocation": "a bold decision 大膽的決定"
+   },
+   {
+    "word": "playful",
+    "pos": "adj.",
+    "en_def": "full of fun; not serious",
+    "cn_def": "愛玩的；俏皮的；活潑的",
+    "sentence": "A: Why does the new children's clothing brand use cartoon animals in all of its shop windows and online ads? B: The company wants a {{BLANK}} image that makes parents smile and children want to come inside, so even the price tags have small drawings of rabbits and bears.",
+    "cn": "A：為什麼新的童裝品牌在所有櫥窗和網路廣告中都使用卡通動物？ B：公司想要一個【活潑有趣的】形象，讓家長會心一笑、孩子想走進店裡，所以連價格標籤上都畫有小兔子和小熊。",
+    "collocation": "a playful style 俏皮的風格"
+   },
+   {
+    "word": "unique",
+    "pos": "adj.",
+    "en_def": "being the only one of its kind",
+    "cn_def": "獨特的；獨一無二的",
+    "sentence": "A: Why do so many tourists visit that small hotel in the mountains even though it is far from the train station? B: Every room has a {{BLANK}} theme based on a local legend, and guests enjoy staying in a different room each time they come back with their friends.",
+    "cn": "A：那家山上的小旅館離火車站很遠，為什麼還有那麼多觀光客去住？ B：每個房間都有一個以當地傳說為基礎的【獨特】主題，客人很喜歡每次和朋友回來時都住不同的房間。",
+    "collocation": "a unique opportunity 難得的機會"
+   },
+   {
+    "word": "distinctive",
+    "pos": "adj.",
+    "en_def": "easy to notice because it is different from others",
+    "cn_def": "有特色的；與眾不同的",
+    "sentence": "A: How can customers recognize our company's delivery trucks so easily, even from far away on the highway? B: All of the trucks are painted a {{BLANK}} bright orange with a large green leaf on the side, so people notice them immediately, and it works like free advertising.",
+    "cn": "A：為什麼顧客即使在高速公路上離很遠，也能輕易認出我們公司的送貨卡車？ B：所有卡車都漆成【很有特色的】亮橘色，側面還有一片大大的綠葉，所以大家馬上就會注意到，這就像免費廣告一樣。",
+    "collocation": "a distinctive logo 獨特的標誌"
+   },
+   {
+    "word": "creatively",
+    "pos": "adv.",
+    "en_def": "in a way that uses new and original ideas",
+    "cn_def": "有創意地",
+    "sentence": "A: Our department's budget for the year-end party was cut in half, so how are we going to make it fun this time? B: We'll have to think {{BLANK}}, for example, by holding the party in the office garden, asking colleagues to bring homemade food, and organizing simple games instead of hiring performers.",
+    "cn": "A：我們部門的尾牙預算被砍了一半，這次要怎麼辦得好玩？ B：我們得【發揮創意】思考，例如在辦公室花園辦派對、請同事帶自製料理，以及安排簡單的遊戲，而不是請表演者。",
+    "collocation": "think creatively 創造性地思考"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Our team needs fresh ideas for the new ad campaign. Please share any _____ suggestions at Friday's meeting, even if they seem unusual.",
+    "options": [
+     "creative",
+     "curious",
+     "skilled",
+     "talented"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The company lets staff spend one afternoon a week on personal projects. Managers believe this freedom encourages _____ and new product ideas.",
+    "options": [
+     "writer",
+     "inventor",
+     "musician",
+     "creativity"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The children's museum hired an artist whose _____ designs turn plain rooms into jungles and castles. Families love visiting on weekends.",
+    "options": [
+     "curious",
+     "open-minded",
+     "imaginative",
+     "resourceful"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The start-up won an award for its _____ recycling machine. The machine turns used plastic bottles into building materials in minutes.",
+    "options": [
+     "curious",
+     "innovative",
+     "talented",
+     "open-minded"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The judges rejected the logo because it looked too similar to another brand. They asked the designer to submit a more _____ version.",
+    "options": [
+     "skilled",
+     "curious",
+     "original",
+     "talented"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Facing a shortage of parts, the _____ mechanic built a new tool from old bicycle pieces. The repair was finished on time.",
+    "options": [
+     "unique",
+     "inventive",
+     "distinctive",
+     "expressive"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The hotel lobby displays paintings by a local _____. Guests can buy prints of her work at the gift shop near the entrance.",
+    "options": [
+     "inventor",
+     "writer",
+     "musician",
+     "artist"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The fashion company hired a new _____ to plan its spring collection. She will present her sketches of dresses and jackets next week.",
+    "options": [
+     "designer",
+     "musician",
+     "inventor",
+     "writer"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The travel magazine is looking for a freelance _____. The person must produce two articles a month about hotels and restaurants in Asia.",
+    "options": [
+     "inventor",
+     "musician",
+     "designer",
+     "writer"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "A _____ will play the guitar and sing at the restaurant every Friday night. Customers can request their favorite songs during dinner.",
+    "options": [
+     "writer",
+     "designer",
+     "musician",
+     "inventor"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The _____ of the folding bicycle received a patent last year. Now several large companies want to buy the rights to his idea.",
+    "options": [
+     "inventor",
+     "musician",
+     "artist",
+     "writer"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The popular phone game was made by one person working at home. The game's _____ now earns money from millions of players worldwide.",
+    "options": [
+     "musician",
+     "creator",
+     "artist",
+     "inspiration"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The orchestra is searching for _____ young violinists. Applicants must play two pieces of music in front of the judges in March.",
+    "options": [
+     "talented",
+     "curious",
+     "playful",
+     "open-minded"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The factory needs _____ welders with at least five years of experience. The company provides training only for its newest machines.",
+    "options": [
+     "playful",
+     "skilled",
+     "curious",
+     "bold"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "When the projector broke, the _____ trainer used a whiteboard and printed handouts instead. The workshop continued without any delay.",
+    "options": [
+     "distinctive",
+     "unique",
+     "expressive",
+     "resourceful"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The architect said that ocean waves were the _____ for the curved roof of the new library. Many visitors take photos of it.",
+    "options": [
+     "inventor",
+     "musician",
+     "inspiration",
+     "writer"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Before the product launch, the team will meet to _____ ideas for the slogan. Everyone should bring at least three suggestions.",
+    "options": [
+     "compose",
+     "craft",
+     "experiment",
+     "brainstorm"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "It is hard to _____ how busy the airport will be during the holidays. Please arrive at least three hours before your flight.",
+    "options": [
+     "imagine",
+     "compose",
+     "craft",
+     "brainstorm"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The new shopping mall is expected to _____ about two thousand jobs. Most of the positions will be in retail and restaurants.",
+    "options": [
+     "compose",
+     "create",
+     "express",
+     "imagine"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The city hired an architect to _____ a new bridge over the river. Construction will begin as soon as the plans are approved.",
+    "options": [
+     "express",
+     "compose",
+     "design",
+     "experiment"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The famous pianist agreed to _____ a short song for the company's anniversary. It will be played at the celebration next month.",
+    "options": [
+     "compose",
+     "brainstorm",
+     "experiment",
+     "express"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "In the small workshop, three carpenters _____ wooden chairs entirely by hand. Each chair takes about a week to complete.",
+    "options": [
+     "imagine",
+     "express",
+     "craft",
+     "brainstorm"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The chef likes to _____ with new ingredients every season. This spring, she added dishes made with local flowers and herbs.",
+    "options": [
+     "compose",
+     "experiment",
+     "express",
+     "imagine"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Customers can _____ their opinions about our service by filling out the short online survey. We read every comment carefully.",
+    "options": [
+     "craft",
+     "design",
+     "compose",
+     "express"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Many shoppers were _____ about the new robot at the store entrance. They stopped to watch it greet customers and hand out coupons.",
+    "options": [
+     "skilled",
+     "distinctive",
+     "curious",
+     "original"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Our new manager is very _____. She listens carefully to every suggestion, even when it is different from her own opinion.",
+    "options": [
+     "distinctive",
+     "unique",
+     "original",
+     "open-minded"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Lowering prices by fifty percent was a _____ move for such a small company. Fortunately, sales tripled within the first month.",
+    "options": [
+     "curious",
+     "bold",
+     "open-minded",
+     "talented"
+    ],
+    "answer": 1,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The children's bookstore has a _____ atmosphere with colorful walls and toy animals. Kids love spending hours there on weekends.",
+    "options": [
+     "playful",
+     "skilled",
+     "talented",
+     "curious"
+    ],
+    "answer": 0,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Each guest room in the boutique hotel has a _____ design. No two rooms have the same furniture, colors or artwork.",
+    "options": [
+     "curious",
+     "talented",
+     "unique",
+     "skilled"
+    ],
+    "answer": 2,
+    "vocabIndex": 32
+   },
+   {
+    "q": "Shoppers can easily find our snacks in the supermarket. The _____ red and yellow packaging stands out on crowded shelves.",
+    "options": [
+     "curious",
+     "talented",
+     "open-minded",
+     "distinctive"
+    ],
+    "answer": 3,
+    "vocabIndex": 33
+   }
+  ]
+ },
+ "89": {
+  "theme": "Crime 犯罪",
+  "source": "https://www.examword.com/group-topic/crime",
+  "VOCAB": [
+   {
+    "word": "criminal",
+    "pos": "n.",
+    "en_def": "a person who has broken the law",
+    "cn_def": "罪犯",
+    "sentence": "A: Why did the bank hire an extra security guard for the main branch downtown last month? B: The police warned the manager that a {{BLANK}} had been using stolen cards at several ATMs in the area, so the bank wanted someone to watch the machines during busy hours.",
+    "cn": "A：為什麼銀行上個月要為市中心的總行多聘一位保全？ B：警方警告經理，有一名【罪犯】一直在該地區好幾台提款機使用偷來的卡片，所以銀行希望在尖峰時段有人看守這些機器。",
+    "collocation": "a convicted criminal 被定罪的罪犯"
+   },
+   {
+    "word": "theft",
+    "pos": "n.",
+    "en_def": "the crime of stealing something",
+    "cn_def": "竊盜；偷竊",
+    "sentence": "A: Why does everyone now need a key card to enter the storage room on the third floor? B: After the {{BLANK}} of six new laptops last month, the office manager decided that only staff from the IT department should be allowed inside, and she also put a camera above the door.",
+    "cn": "A：為什麼現在大家都需要門禁卡才能進入三樓的儲藏室？ B：上個月發生六台新筆電的【竊盜】事件後，辦公室經理決定只有資訊部的員工可以進入，她還在門上方裝了一台攝影機。",
+    "collocation": "report a theft to the police 向警方報竊盜案"
+   },
+   {
+    "word": "robbery",
+    "pos": "n.",
+    "en_def": "the crime of taking money or things from a person or place, often by force",
+    "cn_def": "搶劫",
+    "sentence": "A: Why is the convenience store on the corner closing at ten o'clock instead of staying open all night? B: There was a {{BLANK}} there last week when two men took all the money from the cash register, so the owner feels it is too dangerous for his staff to work late.",
+    "cn": "A：為什麼轉角那家便利商店十點就關門，不再整夜營業了？ B：上週那裡發生了一起【搶劫】案，兩名男子拿走了收銀機裡所有的錢，所以老闆覺得讓員工上晚班太危險了。",
+    "collocation": "an armed robbery 持械搶劫"
+   },
+   {
+    "word": "burglary",
+    "pos": "n.",
+    "en_def": "the crime of entering a building to steal things",
+    "cn_def": "入室竊盜",
+    "sentence": "A: Why are you calling the insurance company during your lunch break today? B: Someone broke into our apartment while we were on vacation in Japan, and I need to report the {{BLANK}} so that they can pay for the stolen television, the jewelry and my husband's camera.",
+    "cn": "A：你今天午休時間為什麼在打電話給保險公司？ B：我們去日本度假時有人闖入我們的公寓，我需要通報這起【入室竊盜】案，讓他們理賠被偷的電視、珠寶和我先生的相機。",
+    "collocation": "insurance against burglary 竊盜險"
+   },
+   {
+    "word": "fraud",
+    "pos": "n.",
+    "en_def": "the crime of tricking people to get money",
+    "cn_def": "詐欺",
+    "sentence": "A: Why did the accounting department call a meeting with the bank this morning? B: They noticed that several payments had been sent to a supplier that does not exist, and they believe someone inside the company may be committing {{BLANK}} to steal money from our accounts.",
+    "cn": "A：會計部今天早上為什麼和銀行開會？ B：他們發現有幾筆款項被匯給一家根本不存在的供應商，他們認為公司內部可能有人在進行【詐欺】，從我們的帳戶偷錢。",
+    "collocation": "credit card fraud 信用卡詐欺"
+   },
+   {
+    "word": "assault",
+    "pos": "n.",
+    "en_def": "a physical attack on a person",
+    "cn_def": "襲擊；人身攻擊",
+    "sentence": "A: Why has the shopping mall added more security guards near the parking area at night? B: Last month there was an {{BLANK}} on a cleaner who was walking to her car after her shift, and although she was not badly hurt, the managers want every worker to feel safe.",
+    "cn": "A：為什麼購物中心晚上在停車區附近增加了更多保全？ B：上個月有一名清潔人員下班走去開車時遭到【襲擊】，雖然她沒有受重傷，但經理們希望每位員工都能感到安全。",
+    "collocation": "be charged with assault 被控傷害罪"
+   },
+   {
+    "word": "violence",
+    "pos": "n.",
+    "en_def": "actions that use force to hurt people",
+    "cn_def": "暴力",
+    "sentence": "A: Why did the city council decide to put more lights and cameras in the old park near the train station? B: Residents complained about fights late at night, and the council hopes that better lighting will reduce {{BLANK}} and make families feel comfortable using the park again.",
+    "cn": "A：為什麼市議會決定在火車站附近的老公園裝設更多路燈和監視器？ B：居民抱怨深夜常有人打架，議會希望更好的照明能減少【暴力】事件，讓家庭再次安心使用公園。",
+    "collocation": "reduce violence in the community 減少社區暴力"
+   },
+   {
+    "word": "victim",
+    "pos": "n.",
+    "en_def": "a person who is hurt or cheated by a crime",
+    "cn_def": "受害者",
+    "sentence": "A: Why is the bank sending emails to customers about fake phone calls this week? B: An elderly customer became the {{BLANK}} of a scam last Friday when someone pretending to be a bank officer asked for her password, and she lost almost all of her savings.",
+    "cn": "A：銀行這週為什麼寄電子郵件提醒客戶注意假冒電話？ B：上週五一位年長客戶成了詐騙的【受害者】，有人假裝是銀行行員向她要密碼，她幾乎失去了所有積蓄。",
+    "collocation": "a victim of identity theft 身分盜用的受害者"
+   },
+   {
+    "word": "suspect",
+    "pos": "n.",
+    "en_def": "a person who the police think may have done a crime",
+    "cn_def": "嫌疑犯",
+    "sentence": "A: Have the police found out who took the money from the safe in the hotel office? B: Not yet, but they showed the manager a video from the lobby camera, and the main {{BLANK}} is a man who checked in under a false name and left early the next morning.",
+    "cn": "A：警方查出是誰從飯店辦公室的保險箱拿走錢了嗎？ B：還沒有，不過他們給經理看了大廳監視器的影片，主要【嫌疑犯】是一名用假名入住、隔天一早就離開的男子。",
+    "collocation": "the main suspect in the case 本案主要嫌疑犯"
+   },
+   {
+    "word": "evidence",
+    "pos": "n.",
+    "en_def": "facts or objects that show something is true",
+    "cn_def": "證據",
+    "sentence": "A: Why did the store manager save all the security videos from last weekend on a separate hard drive? B: The police asked her to keep them as {{BLANK}}, because one of the cameras clearly shows the person who broke the front window and took several expensive watches.",
+    "cn": "A：店長為什麼把上週末所有的監視器影片存在另一個硬碟裡？ B：警方請她把影片留作【證據】，因為其中一台攝影機清楚拍到打破前窗、拿走好幾支名錶的人。",
+    "collocation": "collect evidence 蒐集證據"
+   },
+   {
+    "word": "arrest",
+    "pos": "v.",
+    "en_def": "(of the police) to take someone away because they may have broken the law",
+    "cn_def": "逮捕",
+    "sentence": "A: Did you read the news about the man who was stealing packages from doorsteps in our neighborhood? B: Yes, the police were able to {{BLANK}} him yesterday afternoon because a neighbor's doorbell camera recorded his face and the number plate of the van he was driving.",
+    "cn": "A：你看到我們社區有個男子偷門口包裹的新聞了嗎？ B：看到了，警方昨天下午得以【逮捕】他，因為一位鄰居的門鈴攝影機拍到了他的臉和他開的廂型車車牌。",
+    "collocation": "arrest a suspect 逮捕嫌犯"
+   },
+   {
+    "word": "trial",
+    "pos": "n.",
+    "en_def": "a meeting in a court to decide if someone is guilty",
+    "cn_def": "審判",
+    "sentence": "A: Why will the finance director be away from the office for most of next week? B: She has to give evidence at the {{BLANK}} of a former employee who is accused of stealing company money, and the lawyers expect it to last at least four days.",
+    "cn": "A：財務長為什麼下週大部分時間不在辦公室？ B：她必須在一名前員工的【審判】中出庭作證，那人被控盜用公司資金，律師預計至少會持續四天。",
+    "collocation": "stand trial 受審"
+   },
+   {
+    "word": "court",
+    "pos": "n.",
+    "en_def": "the place where legal cases are decided",
+    "cn_def": "法院；法庭",
+    "sentence": "A: Why is the landlord of our office building not answering our emails about the broken elevator? B: We stopped paying rent until it is repaired, so now he is taking us to {{BLANK}}, and our company lawyer is preparing documents to show that the building is unsafe.",
+    "cn": "A：我們辦公大樓的房東為什麼都不回覆我們關於電梯故障的電子郵件？ B：我們在電梯修好前停付房租，所以他現在要把我們告上【法院】，我們公司的律師正在準備文件，證明大樓不安全。",
+    "collocation": "take someone to court 對某人提告"
+   },
+   {
+    "word": "judge",
+    "pos": "n.",
+    "en_def": "the person who controls a court and decides punishments",
+    "cn_def": "法官",
+    "sentence": "A: How did the case between our company and the former supplier end yesterday? B: After listening to both sides for three hours, the {{BLANK}} decided that the supplier had broken the contract, so they must pay us back for the damaged goods and the delivery costs.",
+    "cn": "A：我們公司和前供應商的官司昨天結果如何？ B：聽完雙方三個小時的陳述後，【法官】判定供應商違約，所以他們必須賠償我們受損的貨物和運費。",
+    "collocation": "the judge ruled that… 法官裁定……"
+   },
+   {
+    "word": "jury",
+    "pos": "n.",
+    "en_def": "a group of ordinary people who decide in court if someone is guilty",
+    "cn_def": "陪審團",
+    "sentence": "A: Why did your manager let you take two weeks off in the middle of the busy season? B: I was chosen to serve on a {{BLANK}} for a big fraud case, and in this country every company must give workers paid time off when the court calls them.",
+    "cn": "A：為什麼你的主管讓你在旺季中間請兩週假？ B：我被選為一宗大型詐欺案的【陪審團】成員，在這個國家，法院傳喚時每家公司都必須給員工帶薪假。",
+    "collocation": "serve on a jury 擔任陪審員"
+   },
+   {
+    "word": "sentence",
+    "pos": "n.",
+    "en_def": "the punishment a judge gives to a criminal",
+    "cn_def": "判決；刑罰",
+    "sentence": "A: What happened to the former manager who took money from the charity's bank account? B: The judge gave him a {{BLANK}} of three years in prison, and he must also pay back all the money that he stole from the organization over the past five years.",
+    "cn": "A：那位從慈善機構銀行帳戶挪用款項的前經理後來怎麼了？ B：法官判他三年徒刑的【刑罰】，他還必須歸還過去五年從該機構偷走的所有錢。",
+    "collocation": "receive a light sentence 獲得輕判"
+   },
+   {
+    "word": "prison",
+    "pos": "n.",
+    "en_def": "a building where criminals are kept as punishment",
+    "cn_def": "監獄",
+    "sentence": "A: Why is the company giving a job to someone who was in trouble with the law years ago? B: He spent two years in {{BLANK}} when he was young, but since then he has studied hard, earned a business degree, and every manager who has worked with him says he is reliable.",
+    "cn": "A：公司為什麼要給一個多年前犯過法的人工作機會？ B：他年輕時在【監獄】待過兩年，但從那之後他努力讀書，拿到了商學學位，每位和他共事過的主管都說他很可靠。",
+    "collocation": "be sent to prison 被送進監獄"
+   },
+   {
+    "word": "jail",
+    "pos": "n.",
+    "en_def": "a place where people are kept by the police, often for a short time",
+    "cn_def": "拘留所；監獄",
+    "sentence": "A: Why didn't the delivery driver arrive for his shift on Saturday morning? B: He spent the night in {{BLANK}} after the police stopped him for driving too fast without a license, and his brother had to pay money before he could go home on Sunday.",
+    "cn": "A：那位送貨司機星期六早上為什麼沒來上班？ B：他因為無照超速被警察攔下，在【拘留所】待了一晚，他哥哥得先付錢，他星期天才能回家。",
+    "collocation": "spend a night in jail 在拘留所過一夜"
+   },
+   {
+    "word": "fine",
+    "pos": "n.",
+    "en_def": "money you must pay as a punishment",
+    "cn_def": "罰款",
+    "sentence": "A: Why did the restaurant owner look so upset after the city inspector left this afternoon? B: The inspector found that the kitchen did not meet the new safety rules, so the owner has to pay a {{BLANK}} of two thousand dollars and fix the problems within one month.",
+    "cn": "A：市府稽查員今天下午離開後，餐廳老闆為什麼看起來那麼沮喪？ B：稽查員發現廚房不符合新的安全規定，所以老闆必須繳交兩千元的【罰款】，並在一個月內改善問題。",
+    "collocation": "pay a parking fine 繳停車罰款"
+   },
+   {
+    "word": "illegal",
+    "pos": "adj.",
+    "en_def": "not allowed by law",
+    "cn_def": "違法的",
+    "sentence": "A: Why did the manager tell everyone to delete the music software from their office computers? B: The IT team discovered that it was an {{BLANK}} copy downloaded from the internet, and the company could face serious legal problems if the software maker found out about it.",
+    "cn": "A：經理為什麼要大家刪除辦公室電腦裡的音樂軟體？ B：資訊團隊發現那是從網路下載的【違法】拷貝，如果軟體公司發現，公司可能會面臨嚴重的法律問題。",
+    "collocation": "illegal parking 違規停車"
+   },
+   {
+    "word": "law",
+    "pos": "n.",
+    "en_def": "a rule made by the government that everyone must follow",
+    "cn_def": "法律",
+    "sentence": "A: Why are all the employees taking an online course about customer information this month? B: A new {{BLANK}} says that companies must protect people's personal data carefully, and if we make a mistake, the government can charge us a very large amount of money.",
+    "cn": "A：為什麼所有員工這個月都在上關於客戶資料的線上課程？ B：一項新【法律】規定企業必須謹慎保護個人資料，如果我們出錯，政府可以向我們收取非常高額的罰金。",
+    "collocation": "break the law 違法"
+   },
+   {
+    "word": "police",
+    "pos": "n.",
+    "en_def": "the people whose job is to stop crime and keep people safe",
+    "cn_def": "警察",
+    "sentence": "A: What should I do if I see someone trying to open the back door of the warehouse late at night? B: Don't try to stop the person yourself; call the {{BLANK}} right away, then phone the security manager and wait in a safe place until help arrives.",
+    "cn": "A：如果我深夜看到有人想打開倉庫後門，我該怎麼辦？ B：不要自己試圖阻止對方；立刻打電話給【警察】，再打給保全經理，然後在安全的地方等待支援到來。",
+    "collocation": "call the police 報警"
+   },
+   {
+    "word": "detective",
+    "pos": "n.",
+    "en_def": "a police officer whose job is to find out who did a crime",
+    "cn_def": "偵探；刑警",
+    "sentence": "A: Who was the woman asking questions at the front desk this morning? B: She is a {{BLANK}} from the city police, and she is trying to find out who has been stealing guests' wallets from the hotel gym, so she wants to see our list of visitors.",
+    "cn": "A：今天早上在櫃台問問題的那位女士是誰？ B：她是市警局的【刑警】，正在調查是誰一直在飯店健身房偷房客的皮夾，所以她想看我們的訪客名單。",
+    "collocation": "a private detective 私家偵探"
+   },
+   {
+    "word": "witness",
+    "pos": "n.",
+    "en_def": "a person who sees a crime or accident happen",
+    "cn_def": "目擊者；證人",
+    "sentence": "A: Why does the security manager want to talk to you before you go home tonight? B: I was the only {{BLANK}} when a man took a laptop bag from the reception area this afternoon, so she needs me to describe what he looked like and which way he went.",
+    "cn": "A：為什麼保全經理要你今晚回家前找你談話？ B：今天下午有個男子從接待區拿走一個筆電包時，我是唯一的【目擊者】，所以她需要我描述他的長相和他往哪個方向走。",
+    "collocation": "a key witness 關鍵證人"
+   },
+   {
+    "word": "motive",
+    "pos": "n.",
+    "en_def": "the reason why someone does something, especially a crime",
+    "cn_def": "動機",
+    "sentence": "A: Why would an experienced accountant with a good salary steal money from the company? B: The investigators think his {{BLANK}} was a large gambling debt, because they found that he had borrowed money from several people and could not pay any of it back.",
+    "cn": "A：一位薪水不錯、經驗豐富的會計師為什麼會偷公司的錢？ B：調查人員認為他的【動機】是一大筆賭債，因為他們發現他向好幾個人借錢，卻一毛都還不出來。",
+    "collocation": "a motive for the crime 犯案動機"
+   },
+   {
+    "word": "alibi",
+    "pos": "n.",
+    "en_def": "proof that you were somewhere else when a crime happened",
+    "cn_def": "不在場證明",
+    "sentence": "A: Did the police think the night guard was involved in the warehouse theft last weekend? B: At first they did, but he had a strong {{BLANK}}, because the hospital records show he was in the emergency room with his son from ten at night until six the next morning.",
+    "cn": "A：警方認為上週末倉庫竊案和夜班警衛有關嗎？ B：一開始是這樣認為，但他有很有力的【不在場證明】，因為醫院紀錄顯示他從晚上十點到隔天早上六點都和兒子在急診室。",
+    "collocation": "have a solid alibi 有確鑿的不在場證明"
+   },
+   {
+    "word": "guilty",
+    "pos": "adj.",
+    "en_def": "having done a crime",
+    "cn_def": "有罪的",
+    "sentence": "A: What was the result of the trial of the sales manager who sold fake products to customers? B: After two days of discussion, the jury found him {{BLANK}} of cheating more than fifty buyers, and the judge will decide his punishment at the end of this month.",
+    "cn": "A：那位賣假貨給客戶的業務經理，審判結果如何？ B：經過兩天討論，陪審團裁定他詐騙超過五十名買家【有罪】，法官將在本月底決定他的刑罰。",
+    "collocation": "plead guilty 認罪"
+   },
+   {
+    "word": "innocent",
+    "pos": "adj.",
+    "en_def": "not having done a crime",
+    "cn_def": "無辜的；清白的",
+    "sentence": "A: Why did the company apologize to the cashier who was accused of taking money from the register? B: The security video later proved that she was completely {{BLANK}}, because it showed a customer reaching over the counter and taking the cash while she was helping someone else.",
+    "cn": "A：公司為什麼向那位被指控從收銀機拿錢的收銀員道歉？ B：監視器影片後來證明她完全是【清白的】，因為影片顯示是一名顧客在她幫忙別人時從櫃台伸手拿走現金。",
+    "collocation": "an innocent bystander 無辜的旁觀者"
+   },
+   {
+    "word": "felony",
+    "pos": "n.",
+    "en_def": "a serious crime",
+    "cn_def": "重罪",
+    "sentence": "A: Why is the human resources department checking the background of every new driver so carefully? B: Under our insurance contract, we cannot hire anyone who has been found guilty of a {{BLANK}}, such as robbery or selling drugs, during the past ten years.",
+    "cn": "A：人資部為什麼這麼仔細地審查每位新司機的背景？ B：根據我們的保險合約，我們不能雇用過去十年內曾被判犯下【重罪】的人，例如搶劫或販毒。",
+    "collocation": "commit a felony 犯重罪"
+   },
+   {
+    "word": "misdemeanor",
+    "pos": "n.",
+    "en_def": "a crime that is not very serious",
+    "cn_def": "輕罪",
+    "sentence": "A: Will the minor charge on our new driver's record from when he was a teenager stop us from hiring him? B: No, it was only a {{BLANK}}, which is a small offense, so it is not a serious problem, but the insurance company still wants a copy of his record before he starts next Monday.",
+    "cn": "A：我們新司機紀錄上那條青少年時期的小罪名，會讓我們無法雇用他嗎？ B：不會，那只是一項【輕罪】，屬於小型違法行為，所以不是嚴重的問題，但保險公司仍希望在他下週一上班前拿到一份他的紀錄。",
+    "collocation": "be charged with a misdemeanor 被控輕罪"
+   },
+   {
+    "word": "vandalism",
+    "pos": "n.",
+    "en_def": "damaging public or private property on purpose",
+    "cn_def": "蓄意破壞（公物）",
+    "sentence": "A: Why are the walls of the parking garage being painted again so soon after the last repair? B: Some teenagers sprayed paint all over them on Saturday night, and the building manager says this kind of {{BLANK}} has cost the company more than five thousand dollars this year.",
+    "cn": "A：停車場的牆壁才剛修好不久，為什麼又在重新粉刷？ B：星期六晚上有幾個青少年在牆上到處噴漆，大樓經理說今年這種【蓄意破壞】已經讓公司花了五千多元。",
+    "collocation": "an act of vandalism 破壞行為"
+   },
+   {
+    "word": "smuggling",
+    "pos": "n.",
+    "en_def": "taking goods into or out of a country secretly and against the law",
+    "cn_def": "走私",
+    "sentence": "A: Why are the customs officers checking every container from that shipping company so slowly this month? B: They discovered that some workers were hiding expensive phones inside boxes of toys, so the government is trying to stop the {{BLANK}} before more goods enter the country without tax.",
+    "cn": "A：海關人員這個月為什麼檢查那家船運公司的每個貨櫃都那麼慢？ B：他們發現有些員工把昂貴的手機藏在玩具箱裡，所以政府想在更多貨物逃稅入境之前阻止這種【走私】行為。",
+    "collocation": "a smuggling ring 走私集團"
+   },
+   {
+    "word": "corruption",
+    "pos": "n.",
+    "en_def": "dishonest behavior by people in power, such as taking secret money",
+    "cn_def": "貪污；腐敗",
+    "sentence": "A: Why did the city cancel the contract for the new bridge just before construction began? B: Reporters found that an official had accepted secret payments from the building company, and the mayor promised that there would be no {{BLANK}} in any public project during her time in office.",
+    "cn": "A：市政府為什麼在新橋開工前取消了合約？ B：記者發現一名官員收受了營建公司的秘密款項，市長承諾在她任內任何公共工程都不會有【貪污】情事。",
+    "collocation": "fight corruption 打擊貪腐"
+   },
+   {
+    "word": "cybercrime",
+    "pos": "n.",
+    "en_def": "crime done using computers or the internet",
+    "cn_def": "網路犯罪",
+    "sentence": "A: Why does the IT department make us change our passwords every two months and take security training? B: The number of {{BLANK}} cases is growing quickly, and last year hackers stole customer data from a company just like ours, so we need to protect our systems and train every employee carefully.",
+    "cn": "A：資訊部為什麼要我們每兩個月更換密碼並接受資安訓練？ B：【網路犯罪】案件正在快速增加，去年駭客從一家和我們很像的公司竊取了客戶資料，所以我們需要保護系統並仔細訓練每位員工。",
+    "collocation": "fight cybercrime 打擊網路犯罪"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The man in the photo has stolen from three hotels in the city. Staff should call security if they see this _____ in the lobby.",
+    "options": [
+     "criminal",
+     "judge",
+     "jury",
+     "motive"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Several staff members reported missing wallets after the holiday party. The company is now investigating the _____ with help from the building's security team.",
+    "options": [
+     "alibi",
+     "jury",
+     "sentence",
+     "theft"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Two men with masks took cash from the bank on Main Street. Nobody was hurt during the _____, but the branch closed early.",
+    "options": [
+     "evidence",
+     "motive",
+     "robbery",
+     "law"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Someone broke into the empty office over the weekend and took two computers. The manager reported the _____ to the police on Monday morning.",
+    "options": [
+     "court",
+     "burglary",
+     "alibi",
+     "jury"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The employee created fake invoices to receive extra payments. He was fired after the auditors discovered the _____.",
+    "options": [
+     "fraud",
+     "jury",
+     "witness",
+     "police"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The new film shows a lot of fighting and blood. Parents should know that it contains strong _____ and is not suitable for children.",
+    "options": [
+     "alibi",
+     "violence",
+     "jury",
+     "court"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Mr. Lee lost his savings after answering a fake email from his bank. He is the latest _____ of an online scam.",
+    "options": [
+     "suspect",
+     "judge",
+     "victim",
+     "detective"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The police have stopped a man near the station who matches the description. He is now the main _____ in the case.",
+    "options": [
+     "alibi",
+     "fine",
+     "prison",
+     "suspect"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The lawyer showed the court several emails and bank records. This _____ proved that the manager had lied about the payments.",
+    "options": [
+     "evidence",
+     "jury",
+     "victim",
+     "violence"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Officers found the stolen car early this morning. They made an _____ after a short chase through the city center.",
+    "options": [
+     "prison",
+     "arrest",
+     "judge",
+     "court"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The case against the former director will begin next month. The _____ is expected to last about two weeks.",
+    "options": [
+     "motive",
+     "witness",
+     "alibi",
+     "trial"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Our company could not agree with the supplier about the damaged goods. We finally decided to take the matter to _____.",
+    "options": [
+     "prison",
+     "law",
+     "court",
+     "jury"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Both lawyers stood up when she entered the room. The _____ listened to each side and then made her decision.",
+    "options": [
+     "judge",
+     "suspect",
+     "victim",
+     "criminal"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Twelve ordinary citizens listened to the case for five days. Then the _____ decided that the accountant was not guilty.",
+    "options": [
+     "detective",
+     "victim",
+     "witness",
+     "jury"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The judge was not happy with the driver's careless behavior. She gave him a _____ of six months in prison.",
+    "options": [
+     "trial",
+     "motive",
+     "sentence",
+     "law"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The businessman was found guilty of stealing millions from investors. He will spend the next eight years in _____.",
+    "options": [
+     "jury",
+     "prison",
+     "police",
+     "evidence"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Drivers who park in front of the hospital entrance will be punished. They must pay a _____ of one hundred dollars.",
+    "options": [
+     "fine",
+     "sentence",
+     "trial",
+     "motive"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Employees are not allowed to copy software from the internet onto company laptops. Downloading _____ programs can cause serious legal problems.",
+    "options": [
+     "guilty",
+     "innocent",
+     "criminal",
+     "illegal"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "All restaurants must now show calorie information on their menus. The new _____ will take effect on the first of July.",
+    "options": [
+     "jury",
+     "prison",
+     "law",
+     "theft"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "A customer noticed smoke and broken glass at the back of the store. She immediately called the _____ for help.",
+    "options": [
+     "jury",
+     "police",
+     "prison",
+     "evidence"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The insurance company hired a private _____ to look into the fire. He spent three weeks interviewing workers and checking records.",
+    "options": [
+     "victim",
+     "jury",
+     "detective",
+     "suspect"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+   },
+   {
+    "q": "A taxi driver saw the accident at the crossing. As the only _____, he told the officers exactly what happened.",
+    "options": [
+     "witness",
+     "suspect",
+     "victim",
+     "judge"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Investigators still do not understand why the manager stole the files. They are trying to find his _____ for the crime.",
+    "options": [
+     "jury",
+     "motive",
+     "prison",
+     "court"
+    ],
+    "answer": 1,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The cleaner said she was at her sister's wedding on the night of the theft. Photos from the party supported her _____.",
+    "options": [
+     "motive",
+     "sentence",
+     "violence",
+     "alibi"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The jury discussed the evidence for two full days. In the end, they found the director _____, and the judge sent him to prison.",
+    "options": [
+     "innocent",
+     "guilty",
+     "illegal",
+     "criminal"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The video showed that the young waiter had not taken the money. The manager apologized because he was completely _____.",
+    "options": [
+     "innocent",
+     "guilty",
+     "illegal",
+     "criminal"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Someone broke the windows of the bus shelter and painted on the walls. The city spends thousands each year repairing damage from _____.",
+    "options": [
+     "fraud",
+     "cybercrime",
+     "smuggling",
+     "vandalism"
+    ],
+    "answer": 3,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Customs officers found hidden boxes of cigarettes inside a shipment of furniture. The company is now under investigation for _____.",
+    "options": [
+     "vandalism",
+     "cybercrime",
+     "smuggling",
+     "violence"
+    ],
+    "answer": 2,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The minister accepted secret payments from a large construction company. He resigned last week after newspapers reported the _____.",
+    "options": [
+     "vandalism",
+     "corruption",
+     "alibi",
+     "jury"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   },
+   {
+    "q": "Hackers broke into the hotel's computer system and stole guests' credit card numbers. Experts say this kind of _____ is increasing every year.",
+    "options": [
+     "cybercrime",
+     "vandalism",
+     "smuggling",
+     "violence"
+    ],
+    "answer": 0,
+    "vocabIndex": 33
+   }
+  ]
+ },
+ "90": {
+  "theme": "Crop 農作物",
+  "source": "https://www.examword.com/group-topic/crop",
+  "VOCAB": [
+   {
+    "word": "harvest",
+    "pos": "n.",
+    "en_def": "the time or act of gathering crops from the fields",
+    "cn_def": "收成；收割",
+    "sentence": "A: Why is the food company asking all its drivers to work extra hours in the countryside next month? B: The rice {{BLANK}} starts in early October, so the trucks must collect the crops from local farms quickly and bring them to our factory before the rainy season begins.",
+    "cn": "A：為什麼食品公司要求所有司機下個月在鄉下加班？ B：稻米的【收成】十月初開始，所以卡車必須盡快從當地農場收集作物，並在雨季開始前送到我們的工廠。",
+    "collocation": "a good harvest this year 今年的好收成"
+   },
+   {
+    "word": "plant",
+    "pos": "v.",
+    "en_def": "to put seeds or young plants in the ground so they grow",
+    "cn_def": "種植",
+    "sentence": "A: What is the hotel going to do with the empty land behind the parking lot now that the old storage building has been removed? B: The manager wants to {{BLANK}} tomatoes, herbs and lettuce there, so the chefs can pick fresh ingredients every morning for the restaurant's breakfast menu.",
+    "cn": "A：舊倉庫拆除後，飯店打算怎麼處理停車場後面的空地？ B：經理想在那裡【種植】番茄、香草和萵苣，這樣廚師每天早上都能為餐廳的早餐菜單採摘新鮮食材。",
+    "collocation": "plant trees along the road 沿著道路種樹"
+   },
+   {
+    "word": "seed",
+    "pos": "n.",
+    "en_def": "a small part of a plant from which a new plant grows",
+    "cn_def": "種子",
+    "sentence": "A: Why did the garden center order so many packets from the supplier in Japan this spring? B: Customers have been asking for a special kind of pumpkin {{BLANK}} that grows well on small balconies, and we expect sales to be very strong before the planting season starts in April.",
+    "cn": "A：園藝中心今年春天為什麼向日本供應商訂了這麼多包貨？ B：顧客一直在詢問一種適合在小陽台生長的特殊南瓜【種子】，我們預計在四月種植季開始前銷量會非常好。",
+    "collocation": "plant seeds in spring 春天播種"
+   },
+   {
+    "word": "soil",
+    "pos": "n.",
+    "en_def": "the top layer of the earth in which plants grow",
+    "cn_def": "土壤",
+    "sentence": "A: Why did the farm manager hire a scientist from the university before buying the new land near the river? B: She wanted someone to test the {{BLANK}} first, because if it contains too much salt or chemicals, the vegetables will not grow well and the company could lose a lot of money.",
+    "cn": "A：農場經理為什麼在買下河邊那塊新地之前，先從大學請了一位科學家？ B：她想先請人檢測【土壤】，因為如果裡面含有太多鹽分或化學物質，蔬菜就長不好，公司可能會損失很多錢。",
+    "collocation": "rich, fertile soil 肥沃的土壤"
+   },
+   {
+    "word": "fertilizer",
+    "pos": "n.",
+    "en_def": "a substance added to the ground to help plants grow",
+    "cn_def": "肥料",
+    "sentence": "A: Why have our sales to farmers in the south increased so much during the last three months? B: Our new natural {{BLANK}}, which is made from food waste collected from local restaurants, helps crops grow faster without harming the environment, so many farmers have switched from more expensive chemical products.",
+    "cn": "A：為什麼過去三個月我們賣給南部農民的銷售量增加這麼多？ B：我們新的天然【肥料】是用從當地餐廳收集的廚餘製成的，能幫助作物長得更快又不傷害環境，所以許多農民已經從較貴的化學產品改用它。",
+    "collocation": "apply fertilizer to the fields 在田裡施肥"
+   },
+   {
+    "word": "irrigation",
+    "pos": "n.",
+    "en_def": "supplying water to land or crops through pipes or channels",
+    "cn_def": "灌溉",
+    "sentence": "A: How did the farm manage to keep growing vegetables last summer when it hardly rained for two months? B: The owners had installed a modern {{BLANK}} system the year before, which sends water through underground pipes directly to the roots, so they used less water and still had a good harvest.",
+    "cn": "A：去年夏天兩個月幾乎沒下雨，那座農場怎麼還能持續種蔬菜？ B：農場主人前一年就安裝了現代化的【灌溉】系統，透過地下管線把水直接送到根部，所以他們用水更少，仍然有很好的收成。",
+    "collocation": "an irrigation system 灌溉系統"
+   },
+   {
+    "word": "pesticide",
+    "pos": "n.",
+    "en_def": "a chemical used to kill insects that damage crops",
+    "cn_def": "殺蟲劑；農藥",
+    "sentence": "A: Why did the supermarket remove all the strawberries from that supplier from its shelves this week? B: A government test found that the fruit contained too much {{BLANK}}, which farmers had sprayed to kill insects, so the company decided to stop selling them until the supplier passes a new safety inspection.",
+    "cn": "A：超市這週為什麼把那家供應商的草莓全部下架？ B：政府檢驗發現那些水果含有過多的【農藥】，是農民為了殺蟲而噴灑的，所以公司決定在供應商通過新的安全檢查之前暫停販售。",
+    "collocation": "spray pesticide on crops 在作物上噴灑農藥"
+   },
+   {
+    "word": "herbicide",
+    "pos": "n.",
+    "en_def": "a chemical used to kill unwanted plants",
+    "cn_def": "除草劑",
+    "sentence": "A: Why are the gardeners at the business park pulling out the unwanted plants by hand instead of using machines? B: The management decided to stop using {{BLANK}} on the lawns last year, because many employees eat lunch on the grass and were worried that the chemicals might be bad for their health.",
+    "cn": "A：商業園區的園丁為什麼用手拔除不要的植物，而不是用機器？ B：管理部門去年決定停止在草坪上使用【除草劑】，因為許多員工在草地上吃午餐，擔心那些化學物質可能對健康有害。",
+    "collocation": "use herbicide to control weeds 使用除草劑控制雜草"
+   },
+   {
+    "word": "weed",
+    "pos": "n.",
+    "en_def": "a wild plant that grows where it is not wanted",
+    "cn_def": "雜草",
+    "sentence": "A: Why does the vegetable garden on the roof of our office building look so messy these days? B: The volunteer who usually takes care of it has been on vacation for three weeks, so every {{BLANK}} has grown tall between the tomatoes, and nobody else in the office has had time to pull them out.",
+    "cn": "A：我們辦公大樓屋頂上的菜園最近為什麼看起來這麼凌亂？ B：平常照顧它的志工已經休假三週了，所以每一株【雜草】都在番茄之間長得很高，辦公室裡其他人都沒有時間把它們拔掉。",
+    "collocation": "pull weeds in the garden 在花園裡拔草"
+   },
+   {
+    "word": "yield",
+    "pos": "n.",
+    "en_def": "the amount of crops that a piece of land produces",
+    "cn_def": "產量",
+    "sentence": "A: Why is the farming company planning to buy new machines and hire more workers for its fields next year? B: Last year the {{BLANK}} per hectare was twenty percent higher than expected thanks to better seeds and careful watering, so the company wants to grow more corn and sell it overseas.",
+    "cn": "A：那家農業公司為什麼計畫明年替田地購買新機器並雇用更多工人？ B：去年因為種子更好、澆水更仔細，每公頃的【產量】比預期高出百分之二十，所以公司想種更多玉米並賣到海外。",
+    "collocation": "increase crop yields 提高作物產量"
+   },
+   {
+    "word": "farmland",
+    "pos": "n.",
+    "en_def": "land that is used for farming",
+    "cn_def": "農地",
+    "sentence": "A: Why are so many local residents attending the city council meeting about the new shopping mall tonight? B: The developer wants to build it on a large area of {{BLANK}} outside town, and many people are worried that we will lose the fields where farmers have grown rice for more than a hundred years.",
+    "cn": "A：為什麼今晚有那麼多當地居民參加關於新購物中心的市議會會議？ B：開發商想把它蓋在城外一大片【農地】上，許多人擔心我們會失去農民種植稻米超過一百年的田地。",
+    "collocation": "protect valuable farmland 保護珍貴的農地"
+   },
+   {
+    "word": "field",
+    "pos": "n.",
+    "en_def": "an area of land used for growing crops",
+    "cn_def": "田地",
+    "sentence": "A: Where are the new interns going to spend their first week, since the main office is being painted? B: They will join our team in the countryside and visit a large corn {{BLANK}} owned by one of our suppliers, so they can see how the raw materials for our snacks are grown and collected.",
+    "cn": "A：主辦公室正在油漆，新實習生第一週要去哪裡？ B：他們會跟我們團隊一起去鄉下，參觀一家供應商擁有的一大片玉米【田】，讓他們了解我們零食的原料是如何種植和採收的。",
+    "collocation": "work in the fields 在田裡工作"
+   },
+   {
+    "word": "plow",
+    "pos": "v.",
+    "en_def": "to turn over the soil with a machine or tool before planting",
+    "cn_def": "犁（田）；耕地",
+    "sentence": "A: Why did the farm rent two large tractors from the equipment company at the end of February? B: The workers need to {{BLANK}} all the fields before the spring planting begins, and the old machines broke down last year, so the manager wanted to make sure the job would be finished on time.",
+    "cn": "A：農場為什麼在二月底向設備公司租了兩台大型拖拉機？ B：工人們必須在春季播種開始前【犁】完所有田地，而舊機器去年壞了，所以經理想確保工作能準時完成。",
+    "collocation": "plow the fields in spring 春天耕田"
+   },
+   {
+    "word": "sow",
+    "forms": "sow – sowed – sown",
+    "pos": "v.",
+    "en_def": "to put seeds in the ground so that they grow",
+    "cn_def": "播種",
+    "sentence": "A: When should our garden center start advertising the new flower collection to customers in the north? B: Most people in that area {{BLANK}} their flower seeds in late March, after the cold weather ends, so we should send out the online advertisements and email discounts by the beginning of the month.",
+    "cn": "A：我們園藝中心應該什麼時候開始向北部顧客宣傳新的花卉系列？ B：那一帶大多數人在三月下旬寒冷天氣結束後【播】下花卉種子，所以我們應該在月初前發出網路廣告和電子郵件折扣。",
+    "collocation": "sow seeds in the spring 春天播種"
+   },
+   {
+    "word": "sprout",
+    "pos": "v.",
+    "en_def": "to begin to grow and produce new leaves",
+    "cn_def": "發芽",
+    "sentence": "A: How long will it take before the children in our company's weekend gardening class can see their beans growing? B: If they water the pots every day and keep them in a warm, sunny place, the beans should {{BLANK}} in about five days, and the children can measure the little plants each week.",
+    "cn": "A：我們公司週末園藝課的孩子們要多久才能看到他們種的豆子長出來？ B：如果他們每天替花盆澆水，並放在溫暖、陽光充足的地方，豆子大約五天就會【發芽】，孩子們可以每週測量小植物的高度。",
+    "collocation": "seeds begin to sprout 種子開始發芽"
+   },
+   {
+    "word": "ripen",
+    "pos": "v.",
+    "en_def": "to become ready to be picked or eaten",
+    "cn_def": "成熟",
+    "sentence": "A: Why does the fruit company pick its bananas while they are still green instead of waiting? B: The trip to Europe by ship takes about three weeks, so the bananas slowly {{BLANK}} during the journey and arrive yellow and ready to eat when they reach the supermarkets in Germany and France.",
+    "cn": "A：那家水果公司為什麼在香蕉還是綠色時就採收，而不是等待？ B：坐船到歐洲大約需要三週，所以香蕉在運送途中慢慢【成熟】，到達德國和法國的超市時已經變黃可以吃了。",
+    "collocation": "fruit ripens in the sun 水果在陽光下成熟"
+   },
+   {
+    "word": "grain",
+    "pos": "n.",
+    "en_def": "the seeds of plants such as wheat and rice used as food",
+    "cn_def": "穀物",
+    "sentence": "A: Why did the price of bread at our bakery chain go up again at the beginning of this month? B: Bad weather in several countries reduced the amount of {{BLANK}} that farmers could produce, so the cost of flour increased by almost fifteen percent, and we had to raise our prices to cover it.",
+    "cn": "A：我們連鎖麵包店的麵包價格為什麼這個月初又漲了？ B：幾個國家的惡劣天氣減少了農民能生產的【穀物】數量，所以麵粉成本上漲了將近百分之十五，我們只好提高價格來因應。",
+    "collocation": "whole grain bread 全穀麵包"
+   },
+   {
+    "word": "wheat",
+    "pos": "n.",
+    "en_def": "a plant whose grain is used to make flour and bread",
+    "cn_def": "小麥",
+    "sentence": "A: Where does the company get the flour for its popular noodles that are sold in convenience stores across Asia? B: We buy high-quality {{BLANK}} from farmers in Australia and Canada, and then our factory in Taichung turns it into flour, which is mixed with water and salt to make the noodles every day.",
+    "cn": "A：公司那款在亞洲便利商店熱賣的麵條，麵粉是從哪裡來的？ B：我們向澳洲和加拿大的農民購買高品質的【小麥】，然後由台中工廠磨成麵粉，每天和水、鹽混合製成麵條。",
+    "collocation": "wheat flour 小麥麵粉"
+   },
+   {
+    "word": "corn",
+    "pos": "n.",
+    "en_def": "a tall plant with yellow seeds that grow on a cob",
+    "cn_def": "玉米",
+    "sentence": "A: What new snack is the marketing team planning to introduce at the food fair in Taipei next month? B: They are going to sell sweet {{BLANK}} soup and grilled cobs with butter, because the recipe uses fresh crops from local farmers, and visitors at last year's fair loved healthy snacks.",
+    "cn": "A：行銷團隊打算在下個月台北的食品展推出什麼新點心？ B：他們要賣甜【玉米】濃湯和奶油烤玉米棒，因為食譜使用當地農民的新鮮作物，而去年展覽的訪客很喜歡健康點心。",
+    "collocation": "grow corn on the farm 在農場種玉米"
+   },
+   {
+    "word": "rice",
+    "pos": "n.",
+    "en_def": "small white or brown grains eaten as a main food in Asia",
+    "cn_def": "稻米；米飯",
+    "sentence": "A: Why did the restaurant chain decide to sign a long contract with the farmers' group in Hualien? B: The farmers there grow excellent {{BLANK}} without chemicals, and the agreement means we will get a steady supply for our lunch boxes at a fixed cost for the next five years, even if the market changes.",
+    "cn": "A：那家連鎖餐廳為什麼決定和花蓮的農民團體簽長期合約？ B：那裡的農民不用化學物質種出優質的【稻米】，這份協議表示未來五年即使市場變動，我們的便當也能以固定成本獲得穩定供應。",
+    "collocation": "a bowl of steamed rice 一碗白飯"
+   },
+   {
+    "word": "barley",
+    "pos": "n.",
+    "en_def": "a grain used for food, drinks and animal feed",
+    "cn_def": "大麥",
+    "sentence": "A: What is the main ingredient in the new drink that our beverage company will launch in convenience stores this summer? B: It is made from roasted {{BLANK}}, which gives it a light, nutty flavor, and our research shows that many office workers want a healthy drink with no sugar and no caffeine.",
+    "cn": "A：我們飲料公司今年夏天要在便利商店推出的新飲料，主要成分是什麼？ B：它是用烘焙過的【大麥】製成，帶有淡淡的堅果風味，我們的研究顯示許多上班族想要無糖、無咖啡因的健康飲料。",
+    "collocation": "barley tea 大麥茶"
+   },
+   {
+    "word": "oats",
+    "pos": "n.",
+    "en_def": "a grain often cooked with milk or water for breakfast",
+    "cn_def": "燕麥",
+    "sentence": "A: Why has the hotel added a new section to its breakfast buffet next to the fresh fruit and yogurt? B: Many business guests asked for a healthier option, so the kitchen now cooks warm {{BLANK}} with milk and honey every morning, and guests can add nuts, berries or cinnamon on top.",
+    "cn": "A：飯店為什麼在早餐自助餐的新鮮水果和優格旁邊新增了一區？ B：許多商務客人要求更健康的選擇，所以廚房現在每天早上用牛奶和蜂蜜煮溫熱的【燕麥】，客人可以在上面加堅果、莓果或肉桂。",
+    "collocation": "a bowl of oats for breakfast 早餐一碗燕麥"
+   },
+   {
+    "word": "soybean",
+    "pos": "n.",
+    "en_def": "a bean used to make tofu, soy milk and oil",
+    "cn_def": "黃豆；大豆",
+    "sentence": "A: Why is the food factory in Tainan building a new production line next to the tofu section? B: Demand for plant-based milk has grown quickly, so the company will use the same {{BLANK}} supply from its partner farms to make soy milk and sell it to coffee shops around the island.",
+    "cn": "A：台南的食品工廠為什麼在豆腐區旁邊建新的生產線？ B：植物奶的需求成長很快，所以公司會用合作農場相同的【黃豆】供應來製作豆漿，並賣給全島的咖啡店。",
+    "collocation": "soybean oil 黃豆油"
+   },
+   {
+    "word": "vegetable",
+    "pos": "n.",
+    "en_def": "a plant or part of a plant eaten as food, such as carrots or spinach",
+    "cn_def": "蔬菜",
+    "sentence": "A: Why did the company cafeteria change its lunch menu after the health survey last month? B: The survey showed that many employees were not eating enough fresh food, so now every meal comes with at least one green {{BLANK}}, such as spinach or broccoli, and the price has not changed.",
+    "cn": "A：員工餐廳上個月健康調查後為什麼改變了午餐菜單？ B：調查顯示許多員工沒吃到足夠的新鮮食物，所以現在每份餐點都至少附一種綠色【蔬菜】，例如菠菜或花椰菜，而且價格沒有改變。",
+    "collocation": "fresh vegetables 新鮮蔬菜"
+   },
+   {
+    "word": "fruit",
+    "pos": "n.",
+    "en_def": "the sweet part of a plant that contains seeds, such as apples",
+    "cn_def": "水果",
+    "sentence": "A: What gifts is the sales team going to send to our most important customers before the Lunar New Year holiday? B: We ordered beautiful boxes of seasonal {{BLANK}}, such as oranges and apples from local orchards, because they are healthy, look attractive and represent good luck in Taiwanese culture.",
+    "cn": "A：業務團隊在農曆新年假期前要送什麼禮物給最重要的客戶？ B：我們訂了精美的當季【水果】禮盒，例如當地果園的柳丁和蘋果，因為它們健康、外觀漂亮，而且在台灣文化中象徵好運。",
+    "collocation": "a basket of fresh fruit 一籃新鮮水果"
+   },
+   {
+    "word": "orchard",
+    "pos": "n.",
+    "en_def": "a piece of land where fruit trees are grown",
+    "cn_def": "果園",
+    "sentence": "A: Where is the company holding its family day this year, since the beach resort is fully booked? B: We rented an apple {{BLANK}} in the mountains near Taichung, where employees and their children can pick fruit from the trees, enjoy a picnic lunch and join a short tour about how the farm works.",
+    "cn": "A：海灘度假村客滿了，公司今年的家庭日要在哪裡舉辦？ B：我們租了台中附近山區的一座蘋果【園】，員工和孩子可以從樹上摘水果、享用野餐午餐，並參加一個介紹農場運作的簡短導覽。",
+    "collocation": "an apple orchard 蘋果園"
+   },
+   {
+    "word": "greenhouse",
+    "pos": "n.",
+    "en_def": "a glass building where plants are grown in warm conditions",
+    "cn_def": "溫室",
+    "sentence": "A: How can the farm sell fresh strawberries to hotels even during the cold winter months? B: They grow them inside a large {{BLANK}} made of glass, where the temperature and light are controlled by computers, so the plants stay warm and produce sweet fruit all year round.",
+    "cn": "A：那座農場怎麼能在寒冷的冬季也賣新鮮草莓給飯店？ B：他們在一座玻璃製的大型【溫室】裡種植，溫度和光線都由電腦控制，所以植物保持溫暖，一年四季都能結出甜美的果實。",
+    "collocation": "grow tomatoes in a greenhouse 在溫室裡種番茄"
+   },
+   {
+    "word": "drought",
+    "pos": "n.",
+    "en_def": "a long period of time with little or no rain",
+    "cn_def": "乾旱",
+    "sentence": "A: Why did the coffee company warn its customers that prices might rise later this year? B: A long {{BLANK}} in Brazil has lasted almost six months, and without rain many coffee plants have died, so the supply of beans will be much smaller and the cost of buying them will go up.",
+    "cn": "A：咖啡公司為什麼警告顧客今年稍晚價格可能上漲？ B：巴西一場長期的【乾旱】已經持續將近六個月，沒有雨水，許多咖啡樹都死了，所以咖啡豆供應會少很多，購買成本也會上升。",
+    "collocation": "suffer from a severe drought 遭受嚴重乾旱"
+   },
+   {
+    "word": "flood",
+    "pos": "n.",
+    "en_def": "a large amount of water covering land that is usually dry",
+    "cn_def": "洪水；水災",
+    "sentence": "A: Why were the deliveries of fresh vegetables to our restaurants so late and so small last week? B: Heavy rain caused a serious {{BLANK}} in the farming area along the river, and many fields were under water for days, so the farmers could not harvest their crops or reach the main roads.",
+    "cn": "A：上週送到我們餐廳的新鮮蔬菜為什麼這麼晚又這麼少？ B：大雨在沿河的農業區造成嚴重【水災】，許多田地被水淹了好幾天，所以農民無法收成作物，也無法到達主要道路。",
+    "collocation": "crops damaged by the flood 被洪水損壞的作物"
+   },
+   {
+    "word": "climate",
+    "pos": "n.",
+    "en_def": "the usual weather conditions in a place",
+    "cn_def": "氣候",
+    "sentence": "A: Why did the tea company decide to open a new farm in the mountains instead of near the coast? B: The cool, wet {{BLANK}} at high altitudes is perfect for growing tea leaves with a rich flavor, and the experts believe the plants there will produce better quality tea than our older farm.",
+    "cn": "A：茶葉公司為什麼決定在山區而不是海邊開新的茶園？ B：高海拔涼爽潮濕的【氣候】非常適合種出風味濃郁的茶葉，專家認為那裡的茶樹會比我們舊茶園產出品質更好的茶。",
+    "collocation": "a warm, dry climate 溫暖乾燥的氣候"
+   },
+   {
+    "word": "organic",
+    "pos": "adj.",
+    "en_def": "grown without artificial chemicals",
+    "cn_def": "有機的",
+    "sentence": "A: Why is the new supermarket near our office always so busy on weekday evenings? B: It sells {{BLANK}} vegetables and fruit grown without any chemicals, and many young office workers are willing to pay a little more because they believe this kind of food is healthier for their families.",
+    "cn": "A：我們辦公室附近的新超市為什麼平日晚上總是那麼忙？ B：它販售不使用任何化學物質種植的【有機】蔬菜和水果，許多年輕上班族願意多付一點錢，因為他們相信這類食物對家人更健康。",
+    "collocation": "organic farming 有機農業"
+   },
+   {
+    "word": "rotation",
+    "pos": "n.",
+    "en_def": "changing the crops grown in a field from season to season",
+    "cn_def": "輪作；輪換",
+    "sentence": "A: How does the farm keep its soil healthy without using a lot of expensive chemicals every year? B: The manager follows a careful crop {{BLANK}} plan, so the same field grows rice one year, beans the next year and vegetables the year after that, which helps the land stay rich and productive.",
+    "cn": "A：那座農場如何在不每年使用大量昂貴化學物質的情況下保持土壤健康？ B：經理遵循仔細的作物【輪作】計畫，同一塊田第一年種稻米、第二年種豆類、第三年種蔬菜，這樣有助於土地保持肥沃和高產。",
+    "collocation": "crop rotation 作物輪作"
+   },
+   {
+    "word": "agriculture",
+    "pos": "n.",
+    "en_def": "the work of farming and growing crops",
+    "cn_def": "農業",
+    "sentence": "A: Why is the bank offering special low-interest loans to young people in the countryside this year? B: The government wants to support {{BLANK}}, because many farmers are getting old and few young people want to grow crops, so the loans help new farmers buy land, machines and seeds.",
+    "cn": "A：銀行今年為什麼提供特別的低利貸款給鄉下的年輕人？ B：政府想要扶持【農業】，因為許多農民年紀漸長，很少年輕人願意種植作物，所以這些貸款幫助新農民購買土地、機器和種子。",
+    "collocation": "modern agriculture 現代農業"
+   },
+   {
+    "word": "cultivate",
+    "pos": "v.",
+    "en_def": "to prepare land and grow crops on it",
+    "cn_def": "耕種；栽培",
+    "sentence": "A: What will the company do with the large piece of land it bought near the lake last autumn? B: We plan to {{BLANK}} herbs and flowers there for our natural skin care products, and we will hire local workers to look after the plants and collect them by hand during the busy summer season.",
+    "cn": "A：公司去年秋天在湖邊買的那一大片土地要做什麼用？ B：我們打算在那裡【栽種】香草和花卉，用於我們的天然保養品，並雇用當地工人照顧植物，在忙碌的夏季用手採收。",
+    "collocation": "cultivate the land 耕種土地"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The farmers worked from sunrise to sunset for two weeks. This year's apple _____ was the largest in the history of the village.",
+    "options": [
+     "harvest",
+     "drought",
+     "herbicide",
+     "climate"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The city will _____ two hundred trees along the new highway next spring. The project aims to reduce noise and improve air quality.",
+    "options": [
+     "ripen",
+     "sprout",
+     "plant",
+     "plow"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The vegetables in this area grow very quickly. Scientists say the dark _____ here is full of minerals that plants need.",
+    "options": [
+     "drought",
+     "soil",
+     "orchard",
+     "rotation"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The company sells a natural _____ made from chicken waste. Farmers mix it into the ground to help their crops grow bigger.",
+    "options": [
+     "greenhouse",
+     "drought",
+     "irrigation",
+     "fertilizer"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The desert farm receives almost no rain all year. It depends completely on an _____ system that brings water from the river.",
+    "options": [
+     "irrigation",
+     "orchard",
+     "agriculture",
+     "oats"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Insects destroyed half of the cabbages last summer. This year the farmer will spray a safe _____ to protect the young plants.",
+    "options": [
+     "soybean",
+     "drought",
+     "rotation",
+     "pesticide"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The gardener spends an hour every morning in the vegetable garden. She removes every _____ so it cannot steal water from the tomatoes.",
+    "options": [
+     "grain",
+     "flood",
+     "weed",
+     "climate"
+    ],
+    "answer": 2,
+    "vocabIndex": 8
+   },
+   {
+    "q": "New seeds and better watering have raised the farm's rice _____. It now produces thirty percent more per hectare than before.",
+    "options": [
+     "drought",
+     "yield",
+     "herbicide",
+     "orchard"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The government plans to protect the _____ around the city from developers. Only farmers will be allowed to use the land.",
+    "options": [
+     "fertilizer",
+     "harvest",
+     "pesticide",
+     "farmland"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Before planting corn, the workers must _____ the hard ground with a tractor. This turns the earth over and makes it soft.",
+    "options": [
+     "plow",
+     "ripen",
+     "sprout",
+     "sow"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "In early spring, the farmers _____ wheat seeds across the wide fields by hand. A few weeks later, green shoots appear.",
+    "options": [
+     "ripen",
+     "sow",
+     "plow",
+     "cultivate"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Keep the seeds in a warm, wet place for a few days. They will soon _____ and show tiny green leaves.",
+    "options": [
+     "plow",
+     "sow",
+     "sprout",
+     "cultivate"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The bananas are still green when they leave the farm. They _____ slowly in the warehouse before they are sent to stores.",
+    "options": [
+     "plow",
+     "ripen",
+     "sow",
+     "plant"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Rice, wheat and corn are the most important types of _____ in the world. Billions of people eat them every day.",
+    "options": [
+     "fertilizer",
+     "drought",
+     "orchard",
+     "grain"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Most bread is made from flour. The flour comes from _____ that is grown on huge farms in Canada and Australia.",
+    "options": [
+     "wheat",
+     "orchard",
+     "rotation",
+     "drought"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The snack company makes its popular chips from yellow _____. The farmers pick the cobs in late summer when they are sweet.",
+    "options": [
+     "barley",
+     "wheat",
+     "corn",
+     "soybean"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "In Taiwan, many people eat a bowl of steamed white _____ with every meal. It is grown in wet paddy fields.",
+    "options": [
+     "barley",
+     "oats",
+     "wheat",
+     "rice"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Our new tea has no caffeine at all. It is made from roasted _____, which is a grain similar to wheat.",
+    "options": [
+     "soybean",
+     "barley",
+     "vegetable",
+     "fruit"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The hotel breakfast includes a warm bowl of _____ with milk and honey. Many guests choose it because it is healthy and filling.",
+    "options": [
+     "fertilizer",
+     "orchard",
+     "oats",
+     "drought"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Tofu and soy milk are both made from the _____. Taiwan imports most of this crop from the United States and Brazil.",
+    "options": [
+     "soybean",
+     "wheat",
+     "corn",
+     "rice"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Doctors say we should eat more green food. Spinach is a healthy _____ that is full of iron and vitamins.",
+    "options": [
+     "fruit",
+     "grain",
+     "vegetable",
+     "weed"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The family owns a large _____ with over five hundred peach trees. Visitors can pick fresh peaches there every July.",
+    "options": [
+     "orchard",
+     "drought",
+     "harvest",
+     "rotation"
+    ],
+    "answer": 0,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Tomatoes cannot grow outside in the cold winter here. The farm grows them in a heated glass _____ instead.",
+    "options": [
+     "field",
+     "orchard",
+     "farmland",
+     "greenhouse"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "There has been no rain in the region for eight months. The long _____ has killed many crops and animals.",
+    "options": [
+     "flood",
+     "drought",
+     "harvest",
+     "irrigation"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The river rose quickly after three days of heavy rain. The _____ covered the rice fields and destroyed the harvest.",
+    "options": [
+     "flood",
+     "drought",
+     "climate",
+     "yield"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Coffee plants need a warm and wet _____ to grow well. That is why most coffee comes from tropical countries.",
+    "options": [
+     "harvest",
+     "orchard",
+     "climate",
+     "rotation"
+    ],
+    "answer": 2,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Growing the same crop every year makes the land weak. Crop _____ keeps the soil healthy by changing plants each season.",
+    "options": [
+     "yield",
+     "rotation",
+     "harvest",
+     "irrigation"
+    ],
+    "answer": 1,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Most people in the village work in _____. They grow rice, vegetables and fruit on small family farms.",
+    "options": [
+     "drought",
+     "rotation",
+     "climate",
+     "agriculture"
+    ],
+    "answer": 3,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The company plans to _____ lavender on the hills behind its factory. The flowers will be used in its new soap.",
+    "options": [
+     "cultivate",
+     "ripen",
+     "sprout",
+     "plow"
+    ],
+    "answer": 0,
+    "vocabIndex": 33
+   },
+   {
+    "q": "Each sunflower _____ needs plenty of sun and water. Plant it about two centimeters deep in soft soil.",
+    "options": [
+     "weed",
+     "orchard",
+     "seed",
+     "harvest"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   }
+  ]
+ },
+ "91": {
+  "theme": "Crowded Place 擁擠的地方",
+  "source": "https://www.examword.com/group-topic/crowded-place",
+  "VOCAB": [
+   {
+    "word": "crowded",
+    "pos": "adj.",
+    "en_def": "full of people",
+    "cn_def": "擁擠的",
+    "sentence": "A: Why did you leave the company's year-end party so early last Friday, when everyone else stayed until midnight? B: The restaurant was so {{BLANK}} that I could hardly move between the tables, and I also had to catch the last bus home because my car was at the repair shop.",
+    "cn": "A：上週五公司尾牙，大家都待到午夜，你為什麼那麼早離開？ B：餐廳太【擁擠】了，我幾乎無法在桌子之間走動，而且我的車在修車廠，所以我還得趕最後一班公車回家。",
+    "collocation": "a crowded waiting room 擁擠的候診室"
+   },
+   {
+    "word": "packed",
+    "pos": "adj.",
+    "en_def": "completely full of people",
+    "cn_def": "擠滿人的；爆滿的",
+    "sentence": "A: Did you manage to find a seat at the product launch in the hotel ballroom yesterday afternoon? B: No, the room was {{BLANK}} with reporters, buyers and fans of the brand, so I stood near the back door for two hours and took notes on my phone instead.",
+    "cn": "A：你昨天下午在飯店宴會廳的產品發表會有找到座位嗎？ B：沒有，會場【擠滿】了記者、採購和品牌粉絲，所以我在後門附近站了兩個小時，改用手機做筆記。",
+    "collocation": "a packed concert hall 座無虛席的音樂廳"
+   },
+   {
+    "word": "busy",
+    "pos": "adj.",
+    "en_def": "full of people or activity",
+    "cn_def": "繁忙的；熱鬧的",
+    "sentence": "A: Should we hold the client lunch at the café across from the train station or somewhere quieter? B: That café is always very {{BLANK}} at noon because office workers from the nearby towers go there, so I think the hotel restaurant would be better for a serious business talk.",
+    "cn": "A：我們要在火車站對面的咖啡廳還是比較安靜的地方請客戶吃午餐？ B：那家咖啡廳中午總是非常【繁忙】，因為附近大樓的上班族都去那裡，所以我覺得飯店餐廳比較適合談正式的生意。",
+    "collocation": "a busy shopping street 熱鬧的購物街"
+   },
+   {
+    "word": "jammed",
+    "pos": "adj.",
+    "en_def": "so full that people or cars cannot move",
+    "cn_def": "擠得水洩不通的；塞滿的",
+    "sentence": "A: Why didn't the delivery van arrive at the warehouse by ten o'clock as the driver promised this morning? B: The roads near the stadium were completely {{BLANK}} with cars because of the football final, so the driver waited in the same spot for almost an hour before he could turn around.",
+    "cn": "A：送貨車為什麼沒有像司機今天早上答應的那樣在十點前抵達倉庫？ B：因為足球決賽，體育場附近的道路完全被車子【擠得水洩不通】，司機在同一個地方等了將近一個小時才能掉頭。",
+    "collocation": "roads jammed with cars 被車子塞滿的道路"
+   },
+   {
+    "word": "congested",
+    "pos": "adj.",
+    "en_def": "too full of traffic or people",
+    "cn_def": "壅塞的；擁擠的",
+    "sentence": "A: Why is the city planning to build a new subway line to the industrial park in the north? B: The main highway to the park is heavily {{BLANK}} every morning and evening, so workers waste a lot of time in their cars, and many companies say they are losing good employees because of it.",
+    "cn": "A：市政府為什麼計畫興建一條通往北部工業區的新捷運線？ B：通往工業區的主要公路每天早晚都嚴重【壅塞】，工人在車上浪費很多時間，許多公司說他們因此流失了優秀的員工。",
+    "collocation": "heavily congested roads 嚴重壅塞的道路"
+   },
+   {
+    "word": "overcrowded",
+    "pos": "adj.",
+    "en_def": "having too many people inside",
+    "cn_def": "過度擁擠的",
+    "sentence": "A: Why did the manager decide to rent a second floor in the building next door for the design team? B: Our office became {{BLANK}} after we hired twenty new staff this year, and people were sharing desks and fighting over meeting rooms, so it was hard for anyone to work properly.",
+    "cn": "A：經理為什麼決定在隔壁大樓多租一層樓給設計團隊？ B：我們今年雇用了二十名新員工後，辦公室變得【過度擁擠】，大家共用桌子、搶會議室，所以任何人都很難好好工作。",
+    "collocation": "an overcrowded classroom 過度擁擠的教室"
+   },
+   {
+    "word": "bustling",
+    "pos": "adj.",
+    "en_def": "full of busy, noisy activity",
+    "cn_def": "熙熙攘攘的；熱鬧的",
+    "sentence": "A: What did the visiting buyers from Germany enjoy most during their business trip to Taipei last week? B: They loved walking through the {{BLANK}} night market near their hotel, where hundreds of people were buying snacks and clothes, and they said it was much more exciting than the quiet streets at home.",
+    "cn": "A：上週來台北出差的德國買家最喜歡什麼？ B：他們很喜歡逛飯店附近【熙熙攘攘】的夜市，那裡有好幾百人在買小吃和衣服，他們說那比家鄉安靜的街道刺激多了。",
+    "collocation": "a bustling city center 熙來攘往的市中心"
+   },
+   {
+    "word": "lively",
+    "pos": "adj.",
+    "en_def": "full of energy and activity",
+    "cn_def": "熱鬧的；充滿活力的",
+    "sentence": "A: Which area would you recommend for our team dinner after the sales conference on Thursday evening? B: I'd suggest the old harbor district, because it has a {{BLANK}} atmosphere with street musicians and outdoor restaurants, and the staff will enjoy relaxing there after three long days of meetings.",
+    "cn": "A：週四晚上業務大會結束後，你推薦哪個區域讓我們團隊聚餐？ B：我建議舊港區，因為那裡有街頭音樂家和露天餐廳，氣氛很【熱鬧】，員工開了三天的長會後會很喜歡在那裡放鬆。",
+    "collocation": "a lively atmosphere 熱鬧的氣氛"
+   },
+   {
+    "word": "noisy",
+    "pos": "adj.",
+    "en_def": "making a lot of loud sound",
+    "cn_def": "吵鬧的",
+    "sentence": "A: Why did you ask the hotel to move you to a different room on your first night in Bangkok? B: My first room faced a {{BLANK}} street full of motorbikes, buses and food stalls, and I couldn't sleep at all, so I was worried I would be too tired for my meeting the next morning.",
+    "cn": "A：你在曼谷第一晚為什麼要求飯店幫你換房間？ B：我第一間房間面對一條擠滿機車、公車和小吃攤的【吵鬧】街道，我完全睡不著，所以很擔心隔天早上開會時會太累。",
+    "collocation": "a noisy open-plan office 吵雜的開放式辦公室"
+   },
+   {
+    "word": "queue",
+    "pos": "n.",
+    "en_def": "a line of people waiting for something",
+    "cn_def": "排隊的隊伍；行列",
+    "sentence": "A: How long did it take you to get through passport control at the airport after your flight from Seoul? B: There was a long {{BLANK}} of tourists at every counter because three international flights landed at the same time, so I waited almost forty minutes before an officer checked my documents.",
+    "cn": "A：你從首爾搭機抵達後，在機場通過護照查驗花了多久？ B：因為三班國際航班同時降落，每個櫃台前都有遊客排成長長的【隊伍】，所以我等了將近四十分鐘，才有官員檢查我的證件。",
+    "collocation": "wait in a long queue 排長長的隊"
+   },
+   {
+    "word": "crowd",
+    "pos": "n.",
+    "en_def": "a large group of people in one place",
+    "cn_def": "人群；群眾",
+    "sentence": "A: Why did the store open its doors thirty minutes earlier than usual on the first day of the holiday sale? B: A huge {{BLANK}} of shoppers was already waiting outside at seven o'clock, so the manager opened early to keep people safe and to stop the line from blocking the main road.",
+    "cn": "A：假日特賣第一天，那家店為什麼比平常提早三十分鐘開門？ B：七點時外面已經有大批購物【人群】在等候，所以經理提早開門以確保民眾安全，也避免隊伍擋住大馬路。",
+    "collocation": "draw a large crowd 吸引大批人潮"
+   },
+   {
+    "word": "throng",
+    "pos": "n.",
+    "en_def": "a very large crowd of people",
+    "cn_def": "一大群人；人潮",
+    "sentence": "A: Was it difficult to reach the company's booth at the international travel fair in the convention center? B: Yes, a {{BLANK}} of visitors filled the main hall all afternoon, so our sales staff had to guide clients through a side entrance near the loading area to reach our stand.",
+    "cn": "A：要到國際旅展會場中的公司攤位困難嗎？ B：是的，整個下午大批【人潮】擠滿主展廳，所以我們的業務人員只好帶客戶從靠近卸貨區的側門進來到我們的攤位。",
+    "collocation": "a throng of tourists 一大群觀光客"
+   },
+   {
+    "word": "rush",
+    "pos": "n.",
+    "en_def": "a time when many people hurry to do the same thing",
+    "cn_def": "(人潮的)湧入；匆忙",
+    "sentence": "A: Why does the coffee shop on the ground floor hire two extra baristas every weekday morning? B: There is a big {{BLANK}} of office workers between eight and nine o'clock, when everyone wants a drink before work, and the owner doesn't want customers to wait too long and leave.",
+    "cn": "A：一樓的咖啡店為什麼每個平日早上都多請兩名咖啡師？ B：八點到九點之間會有大批上班族【湧入】，大家都想在上班前買杯飲料，老闆不希望客人等太久而離開。",
+    "collocation": "the lunchtime rush 午餐時段的人潮"
+   },
+   {
+    "word": "traffic",
+    "pos": "n.",
+    "en_def": "the cars and other vehicles moving on a road",
+    "cn_def": "交通；車流",
+    "sentence": "A: Why are you leaving the office so early to meet the client at the airport this afternoon? B: The {{BLANK}} on the expressway is usually terrible on Friday afternoons, especially near the toll station, and I don't want our most important customer to wait alone in the arrival hall.",
+    "cn": "A：你今天下午為什麼這麼早離開辦公室去機場接客戶？ B：週五下午快速道路上的【車流】通常很糟，尤其是收費站附近，我不想讓我們最重要的客戶獨自在入境大廳等待。",
+    "collocation": "heavy traffic 交通繁忙"
+   },
+   {
+    "word": "commute",
+    "pos": "v.",
+    "en_def": "to travel regularly between home and work",
+    "cn_def": "通勤",
+    "sentence": "A: How does your new assistant get to the office now that she has moved to a town outside the city? B: She has to {{BLANK}} by train for about ninety minutes each way, so we agreed that she can work from home on Fridays to save time and energy.",
+    "cn": "A：你的新助理搬到市區外的小鎮後，現在怎麼來上班？ B：她每趟要搭大約九十分鐘的火車【通勤】，所以我們同意她週五可以在家工作，以節省時間和體力。",
+    "collocation": "commute to work by subway 搭捷運通勤上班"
+   },
+   {
+    "word": "shoulder",
+    "pos": "v.",
+    "en_def": "to push through people using your shoulder",
+    "cn_def": "用肩膀擠開；擠過",
+    "sentence": "A: How did the reporter get close enough to ask the CEO a question after the press conference ended? B: She had to {{BLANK}} her way through dozens of photographers who were standing in front of the stage, and she finally reached him just before he got into his car.",
+    "cn": "A：記者會結束後，那位記者是怎麼靠近到能向執行長提問的？ B：她必須【用肩膀擠】過站在舞台前的幾十位攝影師，終於在他上車前一刻追上他。",
+    "collocation": "shoulder one's way through the crowd 從人群中擠過去"
+   },
+   {
+    "word": "squeeze",
+    "pos": "v.",
+    "en_def": "to force yourself into a small space",
+    "cn_def": "擠進；硬塞",
+    "sentence": "A: Were you able to take the elevator up to the meeting on the twentieth floor this morning? B: Yes, but I had to {{BLANK}} into a tiny space next to a delivery man with a large box, because everyone in the building was trying to get to work before nine o'clock.",
+    "cn": "A：你今天早上有搭到電梯上二十樓開會嗎？ B：有，但我得【擠進】一個抱著大箱子的送貨員旁邊的小小空間，因為大樓裡每個人都想在九點前趕到公司。",
+    "collocation": "squeeze onto a full train 擠上客滿的火車"
+   },
+   {
+    "word": "jostle",
+    "pos": "v.",
+    "en_def": "to push against other people in a crowd",
+    "cn_def": "推擠",
+    "sentence": "A: Why did the museum decide to sell tickets online for the new exhibition with fixed entry times? B: On the opening weekend, visitors started to {{BLANK}} each other in front of the famous paintings, and a few people almost fell, so the director wanted to control the number of guests.",
+    "cn": "A：博物館為什麼決定新展覽改為網路售票並固定入場時間？ B：開幕週末時，參觀者在名畫前開始互相【推擠】，有幾個人差點跌倒，所以館長想控制參觀人數。",
+    "collocation": "jostle for position 推擠爭搶位置"
+   },
+   {
+    "word": "gather",
+    "pos": "v.",
+    "en_def": "to come together in one place",
+    "cn_def": "聚集",
+    "sentence": "A: Why are so many people standing outside the bank on Main Street this morning? B: Customers started to {{BLANK}} there before opening time because the bank is offering a special savings account with a high interest rate, but only to the first two hundred people.",
+    "cn": "A：今天早上為什麼有那麼多人站在主街的銀行外面？ B：顧客在開門前就開始在那裡【聚集】，因為銀行推出一種高利率的特別儲蓄帳戶，但只限前兩百人。",
+    "collocation": "gather in the lobby 聚集在大廳"
+   },
+   {
+    "word": "assemble",
+    "pos": "v.",
+    "en_def": "to meet together as a group for a purpose",
+    "cn_def": "集合",
+    "sentence": "A: What should all employees do if the fire alarm goes off during the safety drill next Tuesday? B: Everyone must leave by the nearest stairs and {{BLANK}} in the parking lot behind the building, where each team leader will count their staff and report to the security manager.",
+    "cn": "A：如果下週二安全演練時火災警報響了，所有員工應該怎麼做？ B：每個人都必須從最近的樓梯離開，並到大樓後面的停車場【集合】，各組組長會在那裡清點人數並向保全經理回報。",
+    "collocation": "assemble at the main entrance 在正門集合"
+   },
+   {
+    "word": "festival",
+    "pos": "n.",
+    "en_def": "a special event with music, food or celebrations",
+    "cn_def": "節慶；藝術節；音樂節",
+    "sentence": "A: Why are all the hotels in the city fully booked for the second weekend of next month? B: A famous music {{BLANK}} takes place in the riverside park that weekend, and thousands of fans from all over Asia are coming, so you should book your business trip for a different date.",
+    "cn": "A：為什麼市內所有飯店下個月第二個週末都客滿了？ B：那個週末河濱公園會舉辦一場知名的音樂【節】，成千上萬來自亞洲各地的樂迷都會來，所以你應該把出差安排在其他日期。",
+    "collocation": "an annual music festival 年度音樂節"
+   },
+   {
+    "word": "market",
+    "pos": "n.",
+    "en_def": "a place where people buy and sell goods",
+    "cn_def": "市場",
+    "sentence": "A: Where does the restaurant buy such fresh fish and vegetables for its lunch menu every day? B: The chef goes to the local {{BLANK}} at five o'clock every morning, before it gets too crowded, so he can choose the best products and talk directly with the farmers and fishermen.",
+    "cn": "A：那家餐廳每天的午餐菜單哪來這麼新鮮的魚和蔬菜？ B：主廚每天早上五點，趁還沒太擁擠前就去當地【市場】，這樣他可以挑選最好的產品，並直接和農夫及漁夫交談。",
+    "collocation": "a traditional morning market 傳統早市"
+   },
+   {
+    "word": "station",
+    "pos": "n.",
+    "en_def": "a place where trains or buses stop for passengers",
+    "cn_def": "車站",
+    "sentence": "A: How can our visitors from Japan get to the factory from the airport tomorrow without a car? B: They can take the express train to the central {{BLANK}}, and our driver will wait for them at the north exit with a sign showing the company name.",
+    "cn": "A：我們的日本訪客明天沒有車，要怎麼從機場到工廠？ B：他們可以搭快車到中央【車站】，我們的司機會拿著寫有公司名稱的牌子在北出口等他們。",
+    "collocation": "a busy train station 繁忙的火車站"
+   },
+   {
+    "word": "mall",
+    "pos": "n.",
+    "en_def": "a large building with many shops and restaurants",
+    "cn_def": "購物中心；商場",
+    "sentence": "A: Where is the company planning to open its first clothing store in Kaohsiung next spring? B: We signed a contract for a space on the second floor of a new shopping {{BLANK}} near the harbor, which attracts thousands of families and tourists every weekend.",
+    "cn": "A：公司明年春天計畫在高雄哪裡開第一家服飾店？ B：我們簽約租下港口附近一間新【購物中心】二樓的店面，那裡每個週末都吸引成千上萬的家庭和觀光客。",
+    "collocation": "a shopping mall in the suburbs 郊區的購物中心"
+   },
+   {
+    "word": "venue",
+    "pos": "n.",
+    "en_def": "the place where an event happens",
+    "cn_def": "場地；會場",
+    "sentence": "A: Have you found a place for the company's annual awards dinner in December yet? B: Yes, we booked a {{BLANK}} by the lake that can hold three hundred guests, and it has a large stage, a good sound system and plenty of parking spaces for our staff and partners.",
+    "cn": "A：你找到公司十二月年度頒獎晚宴的地點了嗎？ B：找到了，我們訂了湖邊一個可容納三百位賓客的【場地】，那裡有大舞台、很好的音響系統，還有很多停車位給我們的員工和合作夥伴。",
+    "collocation": "book a venue for the conference 預訂會議場地"
+   },
+   {
+    "word": "capacity",
+    "pos": "n.",
+    "en_def": "the largest number of people a place can hold",
+    "cn_def": "容量；可容納人數",
+    "sentence": "A: Why did the organizers stop selling tickets for the technology seminar two weeks early? B: The hall has a {{BLANK}} of only five hundred people because of fire safety rules, and all the seats were taken within a few days after the famous speaker was announced.",
+    "cn": "A：主辦單位為什麼提早兩週停止販售科技研討會的門票？ B：因為消防安全規定，那個大廳的【可容納人數】只有五百人，而在宣布知名講者後幾天內所有座位就被訂光了。",
+    "collocation": "be filled to capacity 客滿；座無虛席"
+   },
+   {
+    "word": "density",
+    "pos": "n.",
+    "en_def": "how many people or things are in an area",
+    "cn_def": "密度",
+    "sentence": "A: Why does the company want to open its new branch in that part of the city instead of the suburbs? B: The population {{BLANK}} there is very high, with many apartment buildings and office towers close together, so a small shop can reach thousands of potential customers every day.",
+    "cn": "A：公司為什麼想在市內那個區域而不是郊區開設新分店？ B：那裡的人口【密度】非常高，許多公寓大樓和辦公大樓緊鄰在一起，所以一家小店每天就能接觸到成千上萬的潛在顧客。",
+    "collocation": "high population density 高人口密度"
+   },
+   {
+    "word": "public",
+    "pos": "adj.",
+    "en_def": "open to or used by everyone",
+    "cn_def": "公共的；公眾的",
+    "sentence": "A: How do most of your employees travel to the new office in the science park? B: Most of them use {{BLANK}} transportation, such as the subway and city buses, because parking near the office is expensive, and the company gives everyone a monthly travel card as a benefit.",
+    "cn": "A：你們大部分員工怎麼到科學園區的新辦公室？ B：他們大多搭乘【公共】交通工具，像是捷運和市公車，因為辦公室附近停車很貴，而且公司每個月都發給每個人一張交通卡作為福利。",
+    "collocation": "public transportation 大眾運輸"
+   },
+   {
+    "word": "urban",
+    "pos": "adj.",
+    "en_def": "relating to a city or town",
+    "cn_def": "都市的；城市的",
+    "sentence": "A: Why is the government giving money to companies that build small parks on top of office buildings? B: Many {{BLANK}} areas have very little green space because of crowded housing and busy roads, and the parks help keep buildings cool and give office workers a quiet place to relax.",
+    "cn": "A：政府為什麼要補助在辦公大樓頂樓建造小公園的公司？ B：由於住宅擁擠、道路繁忙，許多【都市】地區的綠地很少，這些公園有助於讓建築物保持涼爽，也讓上班族有個安靜的地方放鬆。",
+    "collocation": "urban development 都市發展"
+   },
+   {
+    "word": "downtown",
+    "pos": "adv.",
+    "en_def": "to or in the center of a city",
+    "cn_def": "往市中心；在市中心",
+    "sentence": "A: Are you driving to the client's office for the contract meeting this afternoon? B: No, I'll take the subway {{BLANK}} because there's almost no parking near their building, and the streets around the financial district are always full of taxis and delivery vans at that time.",
+    "cn": "A：你今天下午要開車去客戶辦公室開合約會議嗎？ B：不，我會搭捷運【到市中心】，因為他們大樓附近幾乎沒有停車位，而且那個時段金融區周圍的街道總是擠滿計程車和送貨車。",
+    "collocation": "go downtown for a meeting 去市中心開會"
+   },
+   {
+    "word": "sidewalk",
+    "pos": "n.",
+    "en_def": "a path for people to walk on next to a road",
+    "cn_def": "人行道",
+    "sentence": "A: Why did the city fine the restaurant owner on Garden Road last week? B: He put too many tables and chairs on the {{BLANK}} in front of his shop, so people walking by had to step into the road, which was dangerous because of the heavy traffic.",
+    "cn": "A：市政府上週為什麼開罰花園路上的那位餐廳老闆？ B：他在店門前的【人行道】上擺了太多桌椅，路過的行人只好走到馬路上，因為車流量大，這樣很危險。",
+    "collocation": "walk along the sidewalk 沿著人行道走"
+   },
+   {
+    "word": "platform",
+    "pos": "n.",
+    "en_def": "the area next to the tracks where people get on and off trains",
+    "cn_def": "月台",
+    "sentence": "A: Where should I meet the new sales representative when she arrives from Taichung tomorrow morning? B: Please wait for her on {{BLANK}} three, where the high-speed train stops, because the station is very crowded at that hour and it will be hard to find each other in the main hall.",
+    "cn": "A：新的業務代表明天早上從台中抵達時，我應該在哪裡跟她碰面？ B：請在高鐵停靠的第三【月台】等她，因為那個時段車站非常擁擠，在大廳裡很難找到彼此。",
+    "collocation": "wait on the platform 在月台上等候"
+   },
+   {
+    "word": "event",
+    "pos": "n.",
+    "en_def": "a planned public or social occasion",
+    "cn_def": "活動；盛事",
+    "sentence": "A: How many people came to the charity run that our company sponsored along the river on Sunday? B: More than three thousand runners took part in the {{BLANK}}, and so many families came to watch that the organizers had to close two streets and add extra toilets near the finish line.",
+    "cn": "A：我們公司週日在河邊贊助的慈善路跑有多少人參加？ B：超過三千名跑者參加了這場【活動】，而且來觀看的家庭非常多，主辦單位只好封閉兩條街並在終點線附近加設廁所。",
+    "collocation": "organize a charity event 舉辦慈善活動"
+   },
+   {
+    "word": "parade",
+    "pos": "n.",
+    "en_def": "a public celebration in which people march or ride through the streets",
+    "cn_def": "遊行",
+    "sentence": "A: Why is the bus to the office taking a different route this Saturday morning? B: There's a big {{BLANK}} for the national holiday on the main avenue, with marching bands, dancers and colorful floats, so the city has closed several roads until two o'clock in the afternoon.",
+    "cn": "A：這個週六早上到公司的公車為什麼要改走別的路線？ B：主要大道上有國慶日的大型【遊行】，有樂隊、舞者和色彩繽紛的花車，所以市政府封閉了幾條道路，直到下午兩點。",
+    "collocation": "watch a holiday parade 觀看節慶遊行"
+   },
+   {
+    "word": "rush hour",
+    "pos": "n.phr.",
+    "en_def": "the busiest time of day when people travel to or from work",
+    "cn_def": "尖峰時段",
+    "sentence": "A: Why did you schedule the meeting with the suppliers at ten o'clock instead of eight thirty? B: If we meet any earlier, they'll be driving across the city during {{BLANK}}, when the roads are full of commuters, and they might arrive late and feel stressed before we even start.",
+    "cn": "A：你為什麼把和供應商的會議排在十點，而不是八點半？ B：如果更早開會，他們得在【尖峰時段】開車穿越市區，那時道路上擠滿通勤者，他們可能會遲到，還沒開始開會就覺得很有壓力。",
+    "collocation": "avoid rush hour traffic 避開尖峰時段的車潮"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The waiting room at the clinic was very _____ this morning. I had to stand for twenty minutes before a seat became free.",
+    "options": [
+     "urban",
+     "crowded",
+     "public",
+     "noisy"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Every seat in the theater was taken for the opening night. The hall was _____ to the doors, so staff turned late visitors away.",
+    "options": [
+     "urban",
+     "noisy",
+     "public",
+     "packed"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "December is the _____ season for our online shop. We hire ten extra workers to pack and ship orders.",
+    "options": [
+     "urban",
+     "congested",
+     "busy",
+     "public"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The roads near the airport are heavily _____ every Friday evening. Please leave the office early if you have a flight.",
+    "options": [
+     "congested",
+     "lively",
+     "public",
+     "urban"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Early every morning, the fish market is _____ with activity. Buyers and sellers shout prices while workers carry boxes of ice.",
+    "options": [
+     "urban",
+     "bustling",
+     "public",
+     "congested"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The new restaurant has a _____ atmosphere with live music every night. Young office workers love to relax there after work.",
+    "options": [
+     "congested",
+     "urban",
+     "public",
+     "lively"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Please close the window during the video call. The construction work outside is very _____ and the client cannot hear us.",
+    "options": [
+     "noisy",
+     "urban",
+     "public",
+     "packed"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Smoking is not allowed in any _____ building in the city. This rule includes libraries, hospitals and government offices.",
+    "options": [
+     "noisy",
+     "lively",
+     "public",
+     "packed"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The company designs small electric cars for _____ drivers. These cars are perfect for short trips on narrow city streets.",
+    "options": [
+     "noisy",
+     "packed",
+     "lively",
+     "urban"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Customers formed a long _____ outside the bakery before it opened. Everyone wanted to buy the new limited-edition cake.",
+    "options": [
+     "queue",
+     "density",
+     "venue",
+     "capacity"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "A large _____ gathered outside the stadium to welcome the team home. Police officers were sent to keep everyone safe.",
+    "options": [
+     "sidewalk",
+     "crowd",
+     "capacity",
+     "density"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The restaurant prepares extra sandwiches before the lunchtime _____. Hundreds of office workers arrive between twelve and one o'clock.",
+    "options": [
+     "platform",
+     "venue",
+     "rush",
+     "density"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Heavy _____ on the bridge delayed the delivery trucks by an hour. The drivers reached the warehouse after the staff had gone home.",
+    "options": [
+     "capacity",
+     "festival",
+     "density",
+     "traffic"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The city holds a lantern _____ every February. Visitors come from all over the world to see the colorful lights.",
+    "options": [
+     "sidewalk",
+     "festival",
+     "capacity",
+     "queue"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Farmers sell fresh fruit and vegetables at the weekend _____ in the town square. Prices are usually lower than in supermarkets.",
+    "options": [
+     "density",
+     "platform",
+     "market",
+     "capacity"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The new office is a five-minute walk from the subway _____. Most staff will not need to drive to work.",
+    "options": [
+     "station",
+     "venue",
+     "density",
+     "parade"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The shopping _____ has more than two hundred stores and a cinema. It is especially crowded on weekends and holidays.",
+    "options": [
+     "density",
+     "queue",
+     "mall",
+     "capacity"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The hotel ballroom is the perfect _____ for our product launch. It can hold four hundred guests and has a large stage.",
+    "options": [
+     "venue",
+     "density",
+     "rush",
+     "sidewalk"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The concert hall has a seating _____ of two thousand people. All the tickets for Saturday's show were sold in one hour.",
+    "options": [
+     "density",
+     "queue",
+     "parade",
+     "capacity"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Because of the high population _____, apartments in the city center are small and expensive. Many families live in tall buildings.",
+    "options": [
+     "venue",
+     "density",
+     "parade",
+     "sidewalk"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The café put several tables on the _____ outside its door. People walking past had to step around them carefully.",
+    "options": [
+     "sidewalk",
+     "capacity",
+     "density",
+     "rush"
+    ],
+    "answer": 0,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Passengers for the express train to Kaohsiung should wait on _____ four. The train will arrive in about ten minutes.",
+    "options": [
+     "density",
+     "platform",
+     "queue",
+     "venue"
+    ],
+    "answer": 1,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The charity dinner was the most successful _____ our company has ever organized. We raised over two million dollars for local schools.",
+    "options": [
+     "sidewalk",
+     "density",
+     "event",
+     "platform"
+    ],
+    "answer": 2,
+    "vocabIndex": 32
+   },
+   {
+    "q": "Thousands of people lined the streets to watch the holiday _____. Marching bands and colorful floats moved slowly down the main avenue.",
+    "options": [
+     "capacity",
+     "density",
+     "queue",
+     "parade"
+    ],
+    "answer": 3,
+    "vocabIndex": 33
+   },
+   {
+    "q": "The subway is extremely crowded during _____. Many employees now start work at ten o'clock to avoid the busiest time.",
+    "options": [
+     "capacity",
+     "density",
+     "rush hour",
+     "sidewalk"
+    ],
+    "answer": 2,
+    "vocabIndex": 34
+   },
+   {
+    "q": "Many employees _____ from nearby cities by high-speed train. The company pays half of their monthly travel costs.",
+    "options": [
+     "commute",
+     "jostle",
+     "assemble",
+     "squeeze"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The elevator was almost full, but I managed to _____ in next to the door. I did not want to be late for the meeting.",
+    "options": [
+     "commute",
+     "assemble",
+     "gather",
+     "squeeze"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Fans began to _____ one another as the singer walked out of the hotel. Security guards asked everyone to stop pushing.",
+    "options": [
+     "commute",
+     "jostle",
+     "assemble",
+     "gather"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Tourists usually _____ around the clock tower at noon to watch the bells ring. It is the most popular sight in the old town.",
+    "options": [
+     "commute",
+     "shoulder",
+     "squeeze",
+     "gather"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "All tour members should _____ in the hotel lobby at seven o'clock. The bus to the airport will leave fifteen minutes later.",
+    "options": [
+     "commute",
+     "jostle",
+     "assemble",
+     "shoulder"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   }
+  ]
  }
 }

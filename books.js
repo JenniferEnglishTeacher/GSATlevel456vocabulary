@@ -2534,7 +2534,12 @@ window.VOCAB_ZONES = {
    83,
    84,
    85,
-   86
+   86,
+   87,
+   88,
+   89,
+   90,
+   91
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2621,7 +2626,12 @@ window.VOCAB_ZONES = {
    "83": "Cooperation 合作",
    "84": "Country 國家",
    "85": "Countryside 鄉村",
-   "86": "Course 課程"
+   "86": "Course 課程",
+   "87": "COVID-19 新冠肺炎",
+   "88": "Creative Person 有創意的人",
+   "89": "Crime 犯罪",
+   "90": "Crop 農作物",
+   "91": "Crowded Place 擁擠的地方"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }
