@@ -2519,7 +2519,12 @@ window.VOCAB_ZONES = {
    68,
    69,
    70,
-   71
+   71,
+   72,
+   73,
+   74,
+   75,
+   76
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2591,7 +2596,12 @@ window.VOCAB_ZONES = {
    "68": "Communication 溝通",
    "69": "Company 公司",
    "70": "Competition 競爭；比賽",
-   "71": "Complaining 抱怨"
+   "71": "Complaining 抱怨",
+   "72": "Complaint Letter 投訴信",
+   "73": "Computer 電腦",
+   "74": "Concentration 專注",
+   "75": "Conference 會議",
+   "76": "Confident 自信"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }
