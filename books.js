@@ -2539,7 +2539,12 @@ window.VOCAB_ZONES = {
    88,
    89,
    90,
-   91
+   91,
+   92,
+   93,
+   94,
+   95,
+   96
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2631,7 +2636,12 @@ window.VOCAB_ZONES = {
    "88": "Creative Person 有創意的人",
    "89": "Crime 犯罪",
    "90": "Crop 農作物",
-   "91": "Crowded Place 擁擠的地方"
+   "91": "Crowded Place 擁擠的地方",
+   "92": "Cultural Place 文化場所",
+   "93": "Culture 文化",
+   "94": "Curtain 窗簾",
+   "95": "Daily Routine 日常作息",
+   "96": "Damage 損壞"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }

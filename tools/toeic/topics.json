@@ -56286,5 +56286,3254 @@
     "vocabIndex": 19
    }
   ]
+ },
+ "92": {
+  "theme": "Cultural Place 文化場所",
+  "source": "https://www.examword.com/group-topic/cultural-place",
+  "VOCAB": [
+   {
+    "word": "museum",
+    "pos": "n.",
+    "en_def": "a building where people can see old, valuable or interesting objects",
+    "cn_def": "博物館",
+    "sentence": "A: Where should we take the visiting engineers from Germany on Saturday afternoon after the factory tour ends? B: I think the science {{BLANK}} near the river would be perfect, because it has a large section on the history of machines, and the entrance is free for groups of ten or more.",
+    "cn": "A：工廠參觀結束後，星期六下午我們該帶來訪的德國工程師去哪裡？ B：我覺得河邊的科學【博物館】會很適合，因為那裡有一大區介紹機器的歷史，而且十人以上的團體可以免費入場。",
+    "collocation": "visit a local museum 參觀當地博物館"
+   },
+   {
+    "word": "gallery",
+    "pos": "n.",
+    "en_def": "a room or building where works of art are shown",
+    "cn_def": "美術館；畫廊",
+    "sentence": "A: Have you decided where to hold the welcome party for our new clients from Singapore next Friday evening? B: Yes, we booked a modern art {{BLANK}} downtown, because the guests can walk around and look at paintings by local artists while they enjoy drinks and talk with our sales team.",
+    "cn": "A：你決定好下週五晚上要在哪裡為新加坡來的新客戶舉辦歡迎派對了嗎？ B：決定了，我們訂了市中心一間現代【美術館】，因為客人可以一邊四處走走欣賞本地藝術家的畫作，一邊享用飲料並和我們的業務團隊聊天。",
+    "collocation": "an art gallery opening 美術館開幕"
+   },
+   {
+    "word": "theater",
+    "pos": "n.",
+    "en_def": "a building where plays and shows are performed",
+    "cn_def": "劇院",
+    "sentence": "A: Why is the marketing team leaving the office so early this Thursday, when we still have a lot of work to finish? B: The company bought tickets for everyone to see a musical at the new {{BLANK}} on Park Avenue, as a reward for reaching our sales goal three months early.",
+    "cn": "A：我們還有很多工作要完成，為什麼行銷團隊這個星期四這麼早就下班？ B：公司幫大家買了票，去公園大道上新開的【劇院】看一齣音樂劇，作為提早三個月達成銷售目標的獎勵。",
+    "collocation": "go to the theater 去看戲"
+   },
+   {
+    "word": "cinema",
+    "pos": "n.",
+    "en_def": "a building where people watch films",
+    "cn_def": "電影院",
+    "sentence": "A: The shopping mall next to our office looks much busier than usual, so do you know what is happening there today? B: A large {{BLANK}} with twelve screens opened on the top floor this week, and many people are lining up to buy tickets for the new action film.",
+    "cn": "A：我們辦公室旁邊的購物中心看起來比平常熱鬧得多，你知道今天那裡發生什麼事嗎？ B：本週頂樓開了一間有十二個影廳的大型【電影院】，很多人正在排隊買新上映動作片的票。",
+    "collocation": "a local cinema 當地電影院"
+   },
+   {
+    "word": "library",
+    "pos": "n.",
+    "en_def": "a place where people can borrow or read books",
+    "cn_def": "圖書館",
+    "sentence": "A: Where can the new interns study quietly for their certification exam during the lunch break, since the office is so noisy? B: The city {{BLANK}} across the street has free study rooms and fast Wi-Fi, and it also keeps many business books that they can borrow with a free card.",
+    "cn": "A：辦公室這麼吵，新實習生午休時可以去哪裡安靜地準備認證考試？ B：對街的市立【圖書館】有免費的自習室和快速的無線網路，還有很多商業書籍，只要辦一張免費的借書證就能借閱。",
+    "collocation": "borrow books from the library 從圖書館借書"
+   },
+   {
+    "word": "monument",
+    "pos": "n.",
+    "en_def": "a statue or building made to help people remember a person or event",
+    "cn_def": "紀念碑；紀念建築",
+    "sentence": "A: What is that tall stone structure in the middle of the park that all the tour groups stop to take photos of? B: It is a {{BLANK}} built in 1920 to honor the workers who built the city's first railway, and a small sign beside it explains their story in four languages.",
+    "cn": "A：公園中間那座所有旅行團都停下來拍照的高大石造建築是什麼？ B：那是一座建於1920年的【紀念碑】，用來紀念建造這座城市第一條鐵路的工人，旁邊有一塊小牌子用四種語言介紹他們的故事。",
+    "collocation": "a national monument 國家紀念碑"
+   },
+   {
+    "word": "heritage",
+    "pos": "n.",
+    "en_def": "the history, traditions and old buildings that a country or group has had for many years",
+    "cn_def": "遺產；文化資產",
+    "sentence": "A: Why did the city council refuse the developer's plan to build a hotel on the old harbor site last month? B: The council said the old warehouses are an important part of the city's {{BLANK}}, so they must be protected and repaired instead of being knocked down for a modern building.",
+    "cn": "A：上個月市議會為什麼拒絕開發商在舊港口用地蓋飯店的計畫？ B：議會表示那些舊倉庫是這座城市【文化遺產】的重要部分，所以必須加以保護和修繕，而不是拆掉改建成現代建築。",
+    "collocation": "cultural heritage 文化遺產"
+   },
+   {
+    "word": "temple",
+    "pos": "n.",
+    "en_def": "a building where people go to pray, especially in Asian religions",
+    "cn_def": "廟；寺廟",
+    "sentence": "A: Our visitors from Canada want to see something special about local culture before they fly home on Sunday, so where should we take them? B: Let's take them to the old {{BLANK}} near the night market, where they can watch people light incense and learn about the gods that local families pray to.",
+    "cn": "A：我們的加拿大訪客星期天搭機回國前，想看看一些特別的在地文化，我們該帶他們去哪裡？ B：我們帶他們去夜市附近那間古老的【廟宇】吧，他們可以在那裡看人們點香，並了解當地家庭所祭拜的神明。",
+    "collocation": "visit a Buddhist temple 參訪佛寺"
+   },
+   {
+    "word": "church",
+    "pos": "n.",
+    "en_def": "a building where Christians go to pray",
+    "cn_def": "教堂",
+    "sentence": "A: Why are there so many people in formal clothes outside the old stone building on Main Street this morning? B: A couple is getting married in the {{BLANK}} at eleven o'clock, so the guests are waiting outside, and our café across the street has been very busy serving them coffee.",
+    "cn": "A：今天早上主街上那棟古老石造建築外面為什麼有那麼多穿正式服裝的人？ B：有一對新人十一點要在【教堂】結婚，所以賓客在外面等候，我們對街的咖啡店一直忙著為他們送咖啡。",
+    "collocation": "go to church on Sundays 星期天上教堂"
+   },
+   {
+    "word": "mosque",
+    "pos": "n.",
+    "en_def": "a building where Muslims go to pray",
+    "cn_def": "清真寺",
+    "sentence": "A: Is there anything we should know before we take the visiting delegation from Malaysia around the city tomorrow? B: Yes, some of them would like to stop at the {{BLANK}} near the train station for Friday prayers, so please plan a one-hour break around noon and choose a halal restaurant for lunch.",
+    "cn": "A：明天帶馬來西亞來訪的代表團在市區參觀之前，我們有什麼需要知道的嗎？ B：有，他們之中有些人想在火車站附近的【清真寺】停留做星期五的禮拜，所以請在中午前後安排一小時的休息時間，並選一間清真餐廳吃午餐。",
+    "collocation": "the city's largest mosque 城裡最大的清真寺"
+   },
+   {
+    "word": "shrine",
+    "pos": "n.",
+    "en_def": "a holy place built to honor a god or a special person",
+    "cn_def": "神社；聖祠",
+    "sentence": "A: What did you enjoy most about your business trip to Kyoto, apart from the meetings with the suppliers? B: On the last morning I walked to a quiet {{BLANK}} in the hills, where hundreds of red gates lined the path, and it was the most peaceful hour of the whole busy week.",
+    "cn": "A：除了和供應商開會之外，你這次京都出差最喜歡的是什麼？ B：最後一天早上，我走到山上一座寧靜的【神社】，小路兩旁排列著數百座紅色鳥居，那是整個忙碌的一週裡最平靜的一個小時。",
+    "collocation": "visit a Shinto shrine 參拜神社"
+   },
+   {
+    "word": "palace",
+    "pos": "n.",
+    "en_def": "a large, grand house where a king, queen or president lives or once lived",
+    "cn_def": "宮殿",
+    "sentence": "A: How was the company trip to Bangkok, and did the new staff enjoy the sightseeing on the second day? B: Everyone loved it, especially the visit to the royal {{BLANK}}, where the gold roofs shone in the sun, although we had to wear long trousers and cover our shoulders before going inside.",
+    "cn": "A：公司的曼谷旅遊怎麼樣？新同事喜歡第二天的觀光行程嗎？ B：大家都很喜歡，尤其是參觀皇家【宮殿】，金色的屋頂在陽光下閃閃發亮，不過進去之前我們必須穿長褲並遮住肩膀。",
+    "collocation": "the royal palace 皇宮"
+   },
+   {
+    "word": "castle",
+    "pos": "n.",
+    "en_def": "a large, strong building with thick walls, built in the past to protect people",
+    "cn_def": "城堡",
+    "sentence": "A: Where will the annual sales conference be held this year, since the hotel we used last year is closed for repairs? B: The organizers booked a five-hundred-year-old {{BLANK}} in Scotland that is now a hotel, so we will have our meetings in a hall with stone walls and enjoy dinner in its garden.",
+    "cn": "A：去年用的飯店因整修而關閉，今年的年度業務會議要在哪裡舉辦？ B：主辦單位訂了一座位於蘇格蘭、有五百年歷史且現已改成飯店的【城堡】，所以我們會在石牆大廳裡開會，並在它的花園享用晚餐。",
+    "collocation": "a medieval castle 中世紀城堡"
+   },
+   {
+    "word": "plaza",
+    "pos": "n.",
+    "en_def": "an open public area in a town, often with shops around it",
+    "cn_def": "廣場",
+    "sentence": "A: Where will the company set up its booth for the new coffee drink during the holiday weekend? B: We got permission to use the open {{BLANK}} in front of the city hall, where thousands of shoppers pass every day, so we expect to give away about two thousand free samples.",
+    "cn": "A：連假週末期間，公司要在哪裡設置新咖啡飲品的攤位？ B：我們獲准使用市政廳前面的開放【廣場】，那裡每天有數千名購物人潮經過，所以我們預計會發送大約兩千份免費試飲品。",
+    "collocation": "a shopping plaza 購物廣場"
+   },
+   {
+    "word": "square",
+    "pos": "n.",
+    "en_def": "an open area in a town with buildings on all four sides",
+    "cn_def": "廣場",
+    "sentence": "A: Where should I meet the tour group from Japan tomorrow morning, since I have never been to the old town before? B: Wait for them by the fountain in the main {{BLANK}}, which is surrounded by cafés and old buildings, and you will easily see the big clock on the town hall.",
+    "cn": "A：我從沒去過舊城區，明天早上該在哪裡和日本旅行團碰面？ B：在主【廣場】的噴水池旁邊等他們，廣場四周都是咖啡館和老建築，你會很容易看見市政廳上的大時鐘。",
+    "collocation": "the town square 市鎮廣場"
+   },
+   {
+    "word": "landmark",
+    "pos": "n.",
+    "en_def": "a famous building or object that is easy to see and helps people know where they are",
+    "cn_def": "地標",
+    "sentence": "A: Why does the hotel group want to buy that tall old tower near the harbor, even though it needs so many repairs? B: It is the most famous {{BLANK}} in the city and appears on almost every postcard, so a hotel there would attract many visitors who want a room with a special view.",
+    "cn": "A：港口附近那座高大的舊塔需要大量修繕，為什麼飯店集團還想買下它？ B：它是這座城市最有名的【地標】，幾乎每張明信片上都有它，所以在那裡開飯店會吸引許多想要特別景觀房的遊客。",
+    "collocation": "a famous landmark 著名地標"
+   },
+   {
+    "word": "exhibition",
+    "pos": "n.",
+    "en_def": "a public show of art or other interesting things",
+    "cn_def": "展覽",
+    "sentence": "A: Why is the museum staying open until ten o'clock every night this month, when it usually closes at five? B: A special {{BLANK}} of ancient Egyptian gold jewelry has arrived from London, and so many people want to see it that the managers decided to add evening hours.",
+    "cn": "A：博物館平常五點就關門，為什麼這個月每天晚上都開到十點？ B：一場古埃及黃金珠寶的特別【展覽】從倫敦運來了，想看的人實在太多，所以館方決定增加晚間開放時段。",
+    "collocation": "hold an exhibition 舉辦展覽"
+   },
+   {
+    "word": "festival",
+    "pos": "n.",
+    "en_def": "a special time when people celebrate something, often with music and food",
+    "cn_def": "節慶；藝術節",
+    "sentence": "A: Why are all the hotels in the city fully booked for the second weekend of October this year? B: The annual food and music {{BLANK}} takes place along the river that weekend, and it attracts more than a hundred thousand visitors from other countries, so you should book a room today.",
+    "cn": "A：為什麼今年十月第二個週末城裡所有的飯店都客滿了？ B：那個週末河岸邊會舉辦年度美食音樂【節】，吸引超過十萬名外國遊客，所以你今天就應該訂房。",
+    "collocation": "a music festival 音樂節"
+   },
+   {
+    "word": "performance",
+    "pos": "n.",
+    "en_def": "the act of playing music, dancing or acting in front of an audience",
+    "cn_def": "表演；演出",
+    "sentence": "A: What is planned for the guests after dinner at the hotel on the last night of the international conference? B: A local group will give a short {{BLANK}} of traditional drum music and dance on the stage, and after that everyone can join a free tour of the hotel's garden.",
+    "cn": "A：國際會議最後一晚，在飯店晚餐後為賓客安排了什麼節目？ B：一個本地團體會在台上進行一段傳統鼓樂和舞蹈的簡短【表演】，之後大家可以參加飯店花園的免費導覽。",
+    "collocation": "a live performance 現場表演"
+   },
+   {
+    "word": "tradition",
+    "pos": "n.",
+    "en_def": "a custom or belief that people have followed for a long time",
+    "cn_def": "傳統",
+    "sentence": "A: Why does everyone in the office bring a dish from home on the last Friday before the New Year holiday? B: It is a {{BLANK}} that started when the company was founded thirty years ago, and the boss believes that sharing food helps the different departments get to know each other better.",
+    "cn": "A：為什麼新年假期前的最後一個星期五，辦公室裡每個人都從家裡帶一道菜來？ B：這是公司三十年前創立時開始的【傳統】，老闆認為分享食物能幫助不同部門彼此更加認識。",
+    "collocation": "follow a tradition 遵循傳統"
+   },
+   {
+    "word": "custom",
+    "pos": "n.",
+    "en_def": "something that people in a society usually do",
+    "cn_def": "習俗；慣例",
+    "sentence": "A: Should I bring a gift when I visit the family of our business partner in Seoul next week? B: Yes, it is a local {{BLANK}} to bring a small present such as fruit or sweets when you visit someone's home, and you should also take off your shoes at the door.",
+    "cn": "A：下週我去拜訪首爾生意夥伴的家人時，應該帶禮物嗎？ B：應該，到別人家拜訪時帶水果或甜點等小禮物是當地的【習俗】，而且你也應該在門口脫鞋。",
+    "collocation": "a local custom 當地習俗"
+   },
+   {
+    "word": "folklore",
+    "pos": "n.",
+    "en_def": "old stories and beliefs of a group of people, passed down over time",
+    "cn_def": "民間傳說；民俗",
+    "sentence": "A: Why did the advertising agency choose a white snake for the new tea company's logo and TV commercial? B: In local {{BLANK}}, the white snake is a symbol of good luck and long life, so older shoppers will feel a warm connection to the brand when they see it.",
+    "cn": "A：廣告公司為什麼為新茶飲公司的商標和電視廣告選擇白蛇？ B：在當地的【民間傳說】中，白蛇象徵好運與長壽，所以年長的消費者看到時會對這個品牌產生親切感。",
+    "collocation": "local folklore 地方民間傳說"
+   },
+   {
+    "word": "artifact",
+    "pos": "n.",
+    "en_def": "an old object made by people, especially one that is important in history",
+    "cn_def": "文物；手工藝品",
+    "sentence": "A: Why did the construction work on the new subway station stop suddenly last week? B: The workers found an ancient clay pot under the street, and the city must check whether the {{BLANK}} is valuable before the digging can continue, so the project may be two months late.",
+    "cn": "A：新地鐵站的施工上週為什麼突然停工？ B：工人在街道底下發現了一個古老的陶罐，市政府必須先確認這件【文物】是否有價值，才能繼續開挖，所以工程可能會延誤兩個月。",
+    "collocation": "an ancient artifact 古代文物"
+   },
+   {
+    "word": "architecture",
+    "pos": "n.",
+    "en_def": "the style and design of buildings",
+    "cn_def": "建築風格；建築學",
+    "sentence": "A: What do foreign visitors usually say about the old part of the city when they come for business meetings? B: Most of them are surprised by the beautiful {{BLANK}}, because the streets are full of red-brick shop houses from the 1920s that mix Japanese, Western and Chinese styles.",
+    "cn": "A：外國訪客來這裡開商務會議時，通常怎麼評價城市的舊城區？ B：大多數人都對美麗的【建築風格】感到驚訝，因為街道上滿是1920年代的紅磚街屋，融合了日式、西式和中式風格。",
+    "collocation": "modern architecture 現代建築"
+   },
+   {
+    "word": "historic",
+    "pos": "adj.",
+    "en_def": "important in history",
+    "cn_def": "具有歷史意義的",
+    "sentence": "A: Why is the hotel so expensive, even though the rooms are smaller than those at the new hotels near the airport? B: It is a {{BLANK}} building where the first trade agreement between the two countries was signed in 1895, so many guests pay extra to stay in such a famous place.",
+    "cn": "A：那間飯店的房間比機場附近的新飯店小，為什麼還那麼貴？ B：那是一棟【具有歷史意義的】建築，1895年兩國第一份貿易協定就是在那裡簽署的，所以很多客人願意多付錢住在這麼有名的地方。",
+    "collocation": "a historic building 歷史建築"
+   },
+   {
+    "word": "cultural",
+    "pos": "adj.",
+    "en_def": "connected with the art, music, traditions and way of life of a group of people",
+    "cn_def": "文化的",
+    "sentence": "A: Why does the company send new managers to spend a month in the Tokyo office before they start working with Japanese clients? B: The training helps them understand important {{BLANK}} differences, such as how people give feedback or exchange business cards, so they avoid mistakes in their first important meetings.",
+    "cn": "A：為什麼公司在新任經理開始和日本客戶合作之前，先派他們到東京辦公室待一個月？ B：這項訓練能幫助他們了解重要的【文化】差異，例如人們如何給予回饋或交換名片，讓他們在最初的重要會議中避免犯錯。",
+    "collocation": "cultural differences 文化差異"
+   },
+   {
+    "word": "traditional",
+    "pos": "adj.",
+    "en_def": "following ways of doing things that have existed for a long time",
+    "cn_def": "傳統的",
+    "sentence": "A: What kind of restaurant should we book for the dinner with our clients from Paris on their first night in Taipei? B: Let's take them to a {{BLANK}} Taiwanese restaurant in Dadaocheng, where the cooks still make dishes the old way and the guests sit at round wooden tables.",
+    "cn": "A：巴黎客戶在台北的第一晚，我們應該訂什麼樣的餐廳和他們吃晚餐？ B：帶他們去大稻埕一間【傳統】台菜餐廳吧，那裡的廚師仍用古早方法做菜，客人坐在木製圓桌旁用餐。",
+    "collocation": "traditional food 傳統食物"
+   },
+   {
+    "word": "ethnic",
+    "pos": "adj.",
+    "en_def": "connected with a group of people who share a culture, language or history",
+    "cn_def": "民族的；種族的",
+    "sentence": "A: Why did the supermarket chain decide to open a new section near the entrance of every store this spring? B: Our research showed that more shoppers want to cook {{BLANK}} food at home, so the new section sells spices, sauces and noodles from Thailand, India, Mexico and Korea.",
+    "cn": "A：這家連鎖超市今年春天為什麼決定在每家店的入口附近開設新區？ B：我們的研究顯示，越來越多顧客想在家烹調【異國民族風味的】料理，所以新區販售來自泰國、印度、墨西哥和韓國的香料、醬料和麵條。",
+    "collocation": "ethnic food 民族風味料理"
+   },
+   {
+    "word": "sacred",
+    "pos": "adj.",
+    "en_def": "holy; connected with God or religion and treated with great respect",
+    "cn_def": "神聖的",
+    "sentence": "A: Why did the mining company cancel its plan to dig on the mountain after spending two years on research? B: The local people consider the mountain {{BLANK}}, because their families have prayed there for centuries, and the company decided that keeping a good relationship with them was more important.",
+    "cn": "A：這家礦業公司花了兩年做研究之後，為什麼取消了在那座山開採的計畫？ B：當地人認為那座山是【神聖的】，因為他們的家族世世代代在那裡祈禱，公司認為維持與他們的良好關係更重要。",
+    "collocation": "a sacred place 聖地"
+   },
+   {
+    "word": "tourist",
+    "pos": "n.",
+    "en_def": "a person who visits a place for pleasure",
+    "cn_def": "觀光客；遊客",
+    "sentence": "A: Why does the new hotel near the station offer free maps and bicycles at the front desk? B: Almost every {{BLANK}} who stays there wants to explore the old town by themselves, and the manager found that guests who enjoy their visit are more likely to leave good reviews online.",
+    "cn": "A：車站附近那間新飯店為什麼在櫃台提供免費地圖和腳踏車？ B：幾乎每位住在那裡的【觀光客】都想自己探索舊城區，經理發現玩得愉快的客人比較會在網路上留下好評。",
+    "collocation": "a popular tourist attraction 熱門觀光景點"
+   },
+   {
+    "word": "guide",
+    "pos": "v.",
+    "en_def": "to show someone the way, especially around a place",
+    "cn_def": "引導；帶領",
+    "sentence": "A: Who will take care of the twenty visitors from our partner bank when they come to see the new head office on Monday? B: Mr. Lee from the front desk will {{BLANK}} them through each floor, explain how the departments work together, and then bring them to the meeting room for lunch.",
+    "cn": "A：星期一合作銀行的二十位訪客來參觀新總部時，由誰負責接待？ B：櫃台的李先生會【帶領】他們參觀每個樓層，說明各部門如何合作，然後帶他們到會議室用午餐。",
+    "collocation": "guide visitors around the museum 帶領訪客參觀博物館"
+   },
+   {
+    "word": "tour",
+    "pos": "n.",
+    "en_def": "a visit to a place in which you walk around and look at it",
+    "cn_def": "參觀；遊覽",
+    "sentence": "A: What will the overseas buyers do on the morning after they arrive, before the contract meeting begins? B: Our factory manager will give them a two-hour {{BLANK}} of the production line, so they can see how carefully we test every product before it is packed and shipped.",
+    "cn": "A：海外買家抵達後的隔天早上，在合約會議開始之前要做什麼？ B：我們的廠長會帶他們進行兩小時的生產線【參觀】，讓他們看到我們在每件產品包裝出貨前測試得多麼仔細。",
+    "collocation": "a guided tour 導覽行程"
+   },
+   {
+    "word": "display",
+    "pos": "v.",
+    "en_def": "to put something in a place where people can see it easily",
+    "cn_def": "展示；陳列",
+    "sentence": "A: Where should we put the old photos and the first product the company ever made, now that the new lobby is finished? B: Let's {{BLANK}} them in a glass case near the main entrance, so that visitors can learn about our sixty-year history while they wait for their appointments.",
+    "cn": "A：新大廳完工了，我們該把那些舊照片和公司做出的第一件產品放在哪裡？ B：我們把它們【展示】在主入口附近的玻璃櫃裡吧，讓訪客在等候會面時可以了解公司六十年的歷史。",
+    "collocation": "display products in the window 在櫥窗展示商品"
+   },
+   {
+    "word": "preserve",
+    "pos": "v.",
+    "en_def": "to keep something in its original state and protect it from harm",
+    "cn_def": "保存；保護",
+    "sentence": "A: Why is the government giving money to the owners of old wooden houses in the mountain village? B: It wants to {{BLANK}} these hundred-year-old homes for future generations, so owners who repair the roofs and walls using the original methods can receive up to half of the cost.",
+    "cn": "A：政府為什麼要撥款給山村裡老木屋的屋主？ B：政府希望為後代【保存】這些百年老屋，所以用原始工法修繕屋頂和牆壁的屋主，最多可以獲得一半費用的補助。",
+    "collocation": "preserve historic buildings 保存歷史建築"
+   },
+   {
+    "word": "celebrate",
+    "pos": "v.",
+    "en_def": "to do something enjoyable for a special day or event",
+    "cn_def": "慶祝",
+    "sentence": "A: Why is the whole staff going to a restaurant by the river after work this Friday instead of going home? B: We are going to {{BLANK}} the company's twentieth anniversary together, and the president will give a short speech and hand out awards to the employees who have worked here the longest.",
+    "cn": "A：為什麼全體員工這週五下班後不回家，而是要去河邊的一家餐廳？ B：我們要一起【慶祝】公司成立二十週年，總裁會發表簡短致詞，並頒獎給在這裡工作最久的員工。",
+    "collocation": "celebrate an anniversary 慶祝週年紀念"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Last year, more than a million visitors came to see the city's dinosaur bones. The natural history _____ is now planning to build a second hall.",
+    "options": [
+     "museum",
+     "cinema",
+     "temple",
+     "castle"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The young painter will show twenty new works next month. A small _____ in the old town has agreed to hang her paintings for three weeks.",
+    "options": [
+     "library",
+     "gallery",
+     "mosque",
+     "palace"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The actors have practiced the new play for six weeks. Opening night at the _____ is already sold out, so extra shows have been added.",
+    "options": [
+     "monument",
+     "landmark",
+     "theater",
+     "shrine"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Employees can borrow books and magazines for free. The company _____ on the third floor is open from eight in the morning until six.",
+    "options": [
+     "castle",
+     "temple",
+     "square",
+     "library"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "A tall stone _____ stands in the park in memory of the soldiers. Every November, city leaders place flowers at its base.",
+    "options": [
+     "festival",
+     "monument",
+     "custom",
+     "performance"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The old tea factory has been named part of the nation's _____. The government will now pay to protect it from damage.",
+    "options": [
+     "tourist",
+     "plaza",
+     "cinema",
+     "heritage"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Visitors must take off their shoes before entering the _____. Inside, monks light incense and pray in front of a large golden Buddha.",
+    "options": [
+     "temple",
+     "gallery",
+     "cinema",
+     "library"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The king and queen lived in the _____ for over two hundred years. Today, its gardens and grand rooms are open to visitors.",
+    "options": [
+     "museum",
+     "theater",
+     "palace",
+     "library"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The _____ was built on a hill with thick stone walls to protect the town. Now it is a popular place for company retreats.",
+    "options": [
+     "gallery",
+     "tradition",
+     "cinema",
+     "castle"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The town hall faces the main _____, where a farmers' market is held every Saturday. Cafés and shops line all four sides.",
+    "options": [
+     "square",
+     "exhibition",
+     "artifact",
+     "folklore"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The red bridge is the city's best-known _____. Taxi drivers often use it to give directions to visitors who are lost.",
+    "options": [
+     "custom",
+     "folklore",
+     "landmark",
+     "tradition"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The museum's new _____ of modern Japanese furniture opens on Monday. It will run until the end of March.",
+    "options": [
+     "tourist",
+     "exhibition",
+     "monument",
+     "temple"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The three-day lantern _____ brings thousands of visitors to the city each spring. Local hotels and restaurants earn much of their yearly income then.",
+    "options": [
+     "festival",
+     "architecture",
+     "landmark",
+     "castle"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The orchestra's evening _____ was so popular that every seat was filled. The audience stood and clapped for five minutes at the end.",
+    "options": [
+     "heritage",
+     "tourist",
+     "performance",
+     "artifact"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Giving red envelopes during Lunar New Year is a long _____ in Taiwan. Many companies also give them to staff as a bonus.",
+    "options": [
+     "landmark",
+     "tradition",
+     "exhibition",
+     "palace"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "In some countries, it is the _____ to leave a tip of about fifteen percent. Visitors should check local rules before they travel.",
+    "options": [
+     "festival",
+     "tourist",
+     "gallery",
+     "custom"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Many of the region's old stories are about mountain spirits. The new theme park uses this _____ to design its rides and shows.",
+    "options": [
+     "cinema",
+     "castle",
+     "folklore",
+     "tourist"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Divers found a bronze bowl in the shipwreck last month. Experts say the _____ is more than eight hundred years old.",
+    "options": [
+     "square",
+     "festival",
+     "plaza",
+     "artifact"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Students come from around the world to study the city's _____. Its buildings show a mix of Spanish and Arabic designs.",
+    "options": [
+     "tourist",
+     "architecture",
+     "custom",
+     "cinema"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The hotel is in a _____ building where the national constitution was signed. Guests can visit the signing room for free.",
+    "options": [
+     "historic",
+     "ethnic",
+     "sacred",
+     "cultural"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The city plans to build a new _____ center with a theater, a library and an art gallery. It will open in 2028.",
+    "options": [
+     "sacred",
+     "cultural",
+     "ethnic",
+     "historic"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The restaurant serves _____ Taiwanese dishes cooked the way grandmothers made them. Its braised pork rice has not changed in fifty years.",
+    "options": [
+     "traditional",
+     "sacred",
+     "historic",
+     "cultural"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The neighborhood has many _____ restaurants run by families from Vietnam, India and Ethiopia. Office workers enjoy trying different foods at lunch.",
+    "options": [
+     "sacred",
+     "historic",
+     "cultural",
+     "ethnic"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The river is _____ to the local people, who hold religious ceremonies there. The factory has agreed not to dump any waste into it.",
+    "options": [
+     "ethnic",
+     "historic",
+     "sacred",
+     "traditional"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Every _____ who buys a museum pass receives a free city map. The pass also includes rides on the harbor ferry.",
+    "options": [
+     "monument",
+     "temple",
+     "landmark",
+     "tourist"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "A staff member will _____ the new employees around the building on their first morning. Then they will meet their team leaders.",
+    "options": [
+     "preserve",
+     "celebrate",
+     "guide",
+     "display"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The factory offers a free _____ every Saturday morning. Visitors can watch how the chocolate is made and taste fresh samples.",
+    "options": [
+     "tour",
+     "monument",
+     "heritage",
+     "folklore"
+    ],
+    "answer": 0,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The shop will _____ the new summer clothes in its front window. Managers hope the bright colors will attract people walking past.",
+    "options": [
+     "celebrate",
+     "display",
+     "preserve",
+     "guide"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The town council voted to _____ the old railway station instead of tearing it down. It will be repaired and turned into a café.",
+    "options": [
+     "guide",
+     "celebrate",
+     "preserve",
+     "display"
+    ],
+    "answer": 2,
+    "vocabIndex": 33
+   },
+   {
+    "q": "The staff will _____ the opening of the new branch with a party on Friday. Snacks and drinks will be provided after work.",
+    "options": [
+     "celebrate",
+     "preserve",
+     "guide",
+     "display"
+    ],
+    "answer": 0,
+    "vocabIndex": 34
+   }
+  ]
+ },
+ "93": {
+  "theme": "Culture 文化",
+  "source": "https://www.examword.com/group-topic/culture",
+  "VOCAB": [
+   {
+    "word": "tradition",
+    "pos": "n.",
+    "en_def": "a custom or belief that has existed for a long time",
+    "cn_def": "傳統",
+    "sentence": "A: Why is the whole office going out for dinner together next Friday instead of having the usual year-end party at the hotel? B: It has become a {{BLANK}} in our company to eat a big meal together before the Lunar New Year holiday, and the boss always pays for everyone.",
+    "cn": "A：為什麼下週五整個辦公室要一起出去吃晚餐，而不是像往常一樣在飯店辦尾牙？ B：在農曆新年假期前一起吃頓大餐已經成為我們公司的【傳統】，而且老闆總是請大家。",
+    "collocation": "a family tradition 家族傳統"
+   },
+   {
+    "word": "custom",
+    "pos": "n.",
+    "en_def": "a usual way of doing something in a place or group",
+    "cn_def": "習俗；風俗",
+    "sentence": "A: I'm flying to Tokyo next week to meet our new business partners for the first time, so is there anything I should know before the meeting? B: Yes, it's a local {{BLANK}} to exchange business cards with both hands and a small bow, so take plenty of cards and read each one carefully.",
+    "cn": "A：我下週要飛去東京，第一次和我們的新商業夥伴見面，開會前有什麼我該知道的嗎？ B：有，用雙手交換名片並微微鞠躬是當地的【習俗】，所以多帶些名片，並仔細看每一張。",
+    "collocation": "follow local customs 遵守當地習俗"
+   },
+   {
+    "word": "heritage",
+    "pos": "n.",
+    "en_def": "the history, buildings and traditions of a place that are passed down",
+    "cn_def": "遺產；傳統文化",
+    "sentence": "A: Why did the city council reject the plan to build a new shopping mall on the old street near the river last month? B: The buildings there are more than two hundred years old and are part of the city's cultural {{BLANK}}, so the council wants to protect them for future generations.",
+    "cn": "A：為什麼市議會上個月否決了在河邊老街上興建新購物中心的計畫？ B：那裡的建築已有兩百多年歷史，是這座城市文化【遺產】的一部分，所以議會想為後代子孫保護它們。",
+    "collocation": "cultural heritage 文化遺產"
+   },
+   {
+    "word": "identity",
+    "pos": "n.",
+    "en_def": "the qualities that make a person, group or brand different from others",
+    "cn_def": "身分；認同；特色",
+    "sentence": "A: Why did the coffee chain keep its old logo and shop design when it was bought by the large international company last year? B: The new owners understood that the brand's strong local {{BLANK}} was the main reason why loyal customers kept coming back, so they decided not to change it.",
+    "cn": "A：去年那家咖啡連鎖店被大型國際公司收購時，為什麼還保留舊標誌和店面設計？ B：新老闆了解，這個品牌強烈的在地【特色】是忠實顧客不斷回流的主要原因，所以決定不改變它。",
+    "collocation": "cultural identity 文化認同"
+   },
+   {
+    "word": "ethnic",
+    "pos": "adj.",
+    "en_def": "connected with a group of people who share a culture, language or origin",
+    "cn_def": "種族的；民族的；異國風味的",
+    "sentence": "A: What kind of restaurants can our visitors from the head office find near the hotel where they are staying this week? B: The area around the hotel has many small {{BLANK}} restaurants run by families from Vietnam, India and Thailand, so our guests can try a different kind of food every night.",
+    "cn": "A：總公司來的訪客這週住的飯店附近，有哪些餐廳可以去？ B：飯店周圍有很多由越南、印度和泰國家庭經營的小型【異國風味】餐廳，所以我們的客人每晚都可以嘗試不同的料理。",
+    "collocation": "ethnic background 種族背景"
+   },
+   {
+    "word": "diverse",
+    "pos": "adj.",
+    "en_def": "very different from each other; of many kinds",
+    "cn_def": "多元的；各式各樣的",
+    "sentence": "A: Why did the marketing team invite people from so many different age groups and countries to test the new mobile app last week? B: Our customers come from very {{BLANK}} backgrounds, so we wanted to make sure that the app is easy to use for everyone, not just for young people in Taipei.",
+    "cn": "A：行銷團隊上週為什麼邀請這麼多不同年齡層和國家的人來測試新的手機應用程式？ B：我們的顧客來自非常【多元的】背景，所以我們想確保這個應用程式人人都容易使用，而不只是台北的年輕人。",
+    "collocation": "a diverse workforce 多元化的員工團隊"
+   },
+   {
+    "word": "multicultural",
+    "pos": "adj.",
+    "en_def": "having people of many different cultures living together",
+    "cn_def": "多元文化的",
+    "sentence": "A: Why do so many international companies choose to open their Asian head offices in Singapore rather than in other cities in the region? B: Singapore is a {{BLANK}} society where people speak English, Chinese, Malay and Tamil, so foreign staff often feel comfortable living and working there with their families.",
+    "cn": "A：為什麼這麼多跨國公司選擇把亞洲總部設在新加坡，而不是這個地區的其他城市？ B：新加坡是一個【多元文化的】社會，人們說英語、華語、馬來語和坦米爾語，所以外籍員工和家人在那裡生活和工作常常感到很自在。",
+    "collocation": "a multicultural society 多元文化社會"
+   },
+   {
+    "word": "intercultural",
+    "pos": "adj.",
+    "en_def": "happening between people from different cultures",
+    "cn_def": "跨文化的（不同文化之間的）",
+    "sentence": "A: Why does the company ask every new manager to join a two-day training course before they start working with our overseas offices? B: The course teaches {{BLANK}} communication skills, such as how to give feedback politely to colleagues in Japan or Germany, because small misunderstandings can easily damage important business relationships.",
+    "cn": "A：為什麼公司要求每位新任經理在開始和海外分公司合作前，參加為期兩天的訓練課程？ B：這門課教的是【跨文化】溝通技巧，例如如何禮貌地給日本或德國同事回饋意見，因為小誤會很容易破壞重要的商業關係。",
+    "collocation": "intercultural communication 跨文化溝通"
+   },
+   {
+    "word": "cross-cultural",
+    "pos": "adj.",
+    "en_def": "comparing or involving two or more different cultures",
+    "cn_def": "跨文化的（比較不同文化的）",
+    "sentence": "A: What did the new sales director learn during her first year working with clients in the Middle East and South America? B: She said that {{BLANK}} differences in how people treat time and deadlines surprised her most, so she now plans extra days for every project in those regions.",
+    "cn": "A：新任業務總監在中東和南美與客戶合作的第一年學到了什麼？ B：她說人們看待時間和截止期限的【跨文化】差異最讓她驚訝，所以她現在在那些地區的每個專案都會多預留幾天。",
+    "collocation": "cross-cultural differences 跨文化差異"
+   },
+   {
+    "word": "belief",
+    "pos": "n.",
+    "en_def": "a strong feeling that something is true or right",
+    "cn_def": "信念；信仰；看法",
+    "sentence": "A: Why does the hotel in Hong Kong not have a fourth floor, and why do the elevator buttons go straight from three to five? B: Many local guests hold a strong {{BLANK}} that the number four brings bad luck because it sounds like the word for death, so the owners decided to skip it.",
+    "cn": "A：為什麼香港那家飯店沒有四樓，電梯按鈕直接從三跳到五？ B：許多當地客人有個強烈的【信念】，認為數字四會帶來厄運，因為它聽起來像「死」這個字，所以業主決定跳過它。",
+    "collocation": "a common belief 普遍的看法"
+   },
+   {
+    "word": "value",
+    "pos": "n.",
+    "en_def": "an idea or quality that people think is important in life or work",
+    "cn_def": "價值觀；價值",
+    "sentence": "A: Why did the company spend so much time choosing new staff for the customer service team this spring? B: The manager says that honesty is the most important {{BLANK}} in our company culture, so she only hires people who will tell customers the truth even when the news is bad.",
+    "cn": "A：公司今年春天為什麼花這麼多時間挑選客服團隊的新員工？ B：經理說誠實是我們公司文化中最重要的【價值觀】，所以她只雇用即使消息不好也會對顧客說實話的人。",
+    "collocation": "core values 核心價值觀"
+   },
+   {
+    "word": "norm",
+    "pos": "n.",
+    "en_def": "what is usual or expected in a group or society",
+    "cn_def": "常態；規範",
+    "sentence": "A: Is it okay for me to leave the office at five o'clock sharp, or will my new manager think I am lazy? B: In this company it is the {{BLANK}} for most people to stay until about six, but nobody will complain if you finish all your work and go home on time.",
+    "cn": "A：我五點整準時下班可以嗎？還是新主管會覺得我很懶？ B：在這家公司，大部分人待到六點左右是【常態】，但如果你完成所有工作並準時回家，沒人會抱怨。",
+    "collocation": "social norms 社會規範"
+   },
+   {
+    "word": "ritual",
+    "pos": "n.",
+    "en_def": "a set of actions that is always done in the same way",
+    "cn_def": "儀式；例行習慣",
+    "sentence": "A: Why does the new team leader always buy coffee for everyone before the Monday morning meeting starts? B: It is a little {{BLANK}} that she started at her old company, because she believes that sharing a hot drink helps people relax and talk more openly about problems.",
+    "cn": "A：為什麼新的組長總是在週一早上開會前請大家喝咖啡？ B：這是她在之前的公司開始的一個小【儀式】，因為她相信一起喝杯熱飲能幫助大家放鬆，更坦率地談論問題。",
+    "collocation": "a daily ritual 日常儀式"
+   },
+   {
+    "word": "ceremony",
+    "pos": "n.",
+    "en_def": "a formal public event held for a special occasion",
+    "cn_def": "典禮；儀式",
+    "sentence": "A: What time should the guests arrive at the new factory on Friday, and will the mayor be there too? B: The opening {{BLANK}} begins at ten in the morning, when the mayor and our president will cut the red ribbon together, and then everyone is invited to a short tour and lunch.",
+    "cn": "A：客人週五應該幾點到新工廠？市長也會出席嗎？ B：開幕【典禮】早上十點開始，市長和我們的總裁會一起剪綵，之後邀請大家參加簡短的參觀和午餐。",
+    "collocation": "an awards ceremony 頒獎典禮"
+   },
+   {
+    "word": "festival",
+    "pos": "n.",
+    "en_def": "a special time or event when people celebrate something",
+    "cn_def": "節慶；節日；藝術節",
+    "sentence": "A: Why are all the hotels in Tainan fully booked for the second weekend of February this year? B: The city is holding its famous lantern {{BLANK}} that weekend, and thousands of visitors from all over Taiwan and Japan are coming to see the lights and enjoy the street food.",
+    "cn": "A：為什麼今年二月第二個週末台南的飯店全都客滿了？ B：那個週末這座城市要舉辦著名的燈籠【節】，成千上萬來自全台灣和日本的遊客會來看燈並享受街頭小吃。",
+    "collocation": "a film festival 電影節"
+   },
+   {
+    "word": "folklore",
+    "pos": "n.",
+    "en_def": "old stories and beliefs of a group of people",
+    "cn_def": "民間傳說；民俗",
+    "sentence": "A: Why did the tourism office hire a local storyteller to lead the evening walking tours in the old town this summer? B: Visitors love hearing the {{BLANK}} of the area, such as old tales about ghosts in the temple and the fisherman who married a sea goddess, so the tours sell out every night.",
+    "cn": "A：觀光局今年夏天為什麼聘請一位當地說故事的人帶領老城區的夜間徒步導覽？ B：遊客很喜歡聽這個地區的【民間傳說】，例如寺廟裡的鬼故事和娶了海神的漁夫，所以導覽每晚都賣光。",
+    "collocation": "local folklore 當地民間傳說"
+   },
+   {
+    "word": "myth",
+    "pos": "n.",
+    "en_def": "an idea that many people believe but that is not true; an old story",
+    "cn_def": "迷思；神話",
+    "sentence": "A: Do you really think working from home makes employees less productive, as some managers say? B: That is a {{BLANK}}, actually, because our study last year showed that people who worked from home finished more tasks, took fewer sick days and were happier with their jobs.",
+    "cn": "A：你真的認為在家工作會讓員工生產力降低嗎？就像有些經理說的那樣？ B：事實上那是個【迷思】，因為我們去年的研究顯示，在家工作的人完成更多任務、請更少病假，而且對工作更滿意。",
+    "collocation": "a common myth 常見的迷思"
+   },
+   {
+    "word": "art",
+    "pos": "n.",
+    "en_def": "paintings, drawings and other beautiful things that people create",
+    "cn_def": "藝術；美術",
+    "sentence": "A: Why did the bank decide to hang so many paintings in the main hall of its new head office downtown? B: The chairman loves modern {{BLANK}} and believes that beautiful pictures make both customers and staff feel calm, so he bought works from young painters in Taipei.",
+    "cn": "A：銀行為什麼決定在市中心新總部的大廳掛這麼多畫？ B：董事長很喜愛現代【藝術】，相信美麗的畫作能讓顧客和員工都感到平靜，所以他向台北的年輕畫家買了作品。",
+    "collocation": "an art exhibition 藝術展覽"
+   },
+   {
+    "word": "music",
+    "pos": "n.",
+    "en_def": "sounds arranged in a pleasant way by singing or playing instruments",
+    "cn_def": "音樂",
+    "sentence": "A: What can we do to make the waiting room at the clinic feel less stressful for patients in the afternoon? B: We could play some soft {{BLANK}} in the background and add a few green plants, because research shows that calm sounds help people feel relaxed while they wait for their appointments.",
+    "cn": "A：我們可以做什麼讓診所的候診室下午時對病人來說比較不緊張？ B：我們可以播放一些輕柔的背景【音樂】並加幾盆綠色植物，因為研究顯示平靜的聲音能幫助人們在等候看診時感到放鬆。",
+    "collocation": "background music 背景音樂"
+   },
+   {
+    "word": "dance",
+    "pos": "n.",
+    "en_def": "a set of movements done to music",
+    "cn_def": "舞蹈；舞",
+    "sentence": "A: What kind of entertainment are we planning for the guests at the end of the international sales conference? B: A group of young performers will show a traditional Indigenous {{BLANK}} from eastern Taiwan, and afterward they will invite our guests onto the stage to learn a few simple steps.",
+    "cn": "A：國際業務會議結束時，我們打算為客人安排什麼樣的娛樂表演？ B：一群年輕表演者會表演一支來自台灣東部的傳統原住民【舞蹈】，之後他們會邀請客人上台學幾個簡單的舞步。",
+    "collocation": "a folk dance 民俗舞蹈"
+   },
+   {
+    "word": "literature",
+    "pos": "n.",
+    "en_def": "books, poems and plays, especially those thought to be of high quality",
+    "cn_def": "文學",
+    "sentence": "A: Why did the publishing company hire a new editor who speaks both Korean and Chinese last month? B: We plan to translate more modern Korean {{BLANK}}, especially popular novels and short stories, because readers in Taiwan have become very interested in them after watching so many Korean dramas.",
+    "cn": "A：出版公司上個月為什麼聘請一位會說韓文和中文的新編輯？ B：我們打算翻譯更多現代韓國【文學】，特別是受歡迎的小說和短篇故事，因為台灣讀者看了這麼多韓劇後，對它們變得很有興趣。",
+    "collocation": "classic literature 經典文學"
+   },
+   {
+    "word": "language",
+    "pos": "n.",
+    "en_def": "the system of words that people of a country use to speak and write",
+    "cn_def": "語言",
+    "sentence": "A: What is the biggest challenge for our engineers who moved to the new factory in Vietnam this year? B: The {{BLANK}} barrier is the biggest problem at first, because most local workers do not speak English, so the company now pays for Vietnamese lessons twice a week after work.",
+    "cn": "A：今年調到越南新工廠的工程師們，遇到最大的挑戰是什麼？ B：一開始最大的問題是【語言】障礙，因為大多數當地工人不會說英文，所以公司現在支付每週兩次下班後的越南語課程費用。",
+    "collocation": "a foreign language 外語"
+   },
+   {
+    "word": "dialect",
+    "pos": "n.",
+    "en_def": "a form of a language spoken in one area",
+    "cn_def": "方言",
+    "sentence": "A: Why did the call center in Kaohsiung hire several older staff members who grew up in the countryside? B: Many of our elderly customers in southern Taiwan prefer to speak a local {{BLANK}} rather than Mandarin on the phone, so we need people who can understand them and answer their questions clearly.",
+    "cn": "A：高雄的客服中心為什麼聘請了幾位在鄉下長大的年長員工？ B：南台灣許多年長顧客在電話中比較喜歡說當地【方言】而不是華語，所以我們需要能聽懂他們並清楚回答問題的人。",
+    "collocation": "speak a local dialect 說當地方言"
+   },
+   {
+    "word": "cuisine",
+    "pos": "n.",
+    "en_def": "a style of cooking from a country or area",
+    "cn_def": "料理；菜餚",
+    "sentence": "A: Where should we take the clients from Paris for dinner after the contract signing on Thursday evening? B: Let's book a table at the new restaurant near the station, because it serves excellent Taiwanese {{BLANK}} with a modern style, and the chef can explain each dish in French.",
+    "cn": "A：週四晚上簽約後，我們該帶巴黎來的客戶去哪裡吃晚餐？ B：我們去車站附近那家新餐廳訂位吧，因為它供應風格現代的優質台灣【料理】，而且主廚可以用法文介紹每道菜。",
+    "collocation": "local cuisine 當地料理"
+   },
+   {
+    "word": "costume",
+    "pos": "n.",
+    "en_def": "clothes worn for a show, a festival or a special occasion",
+    "cn_def": "服裝；戲服",
+    "sentence": "A: Why are the hotel staff wearing such colorful clothes at the front desk this week? B: The hotel is celebrating the Mid-Autumn Festival, so the manager asked everyone to wear a traditional Chinese {{BLANK}} to welcome guests and make the lobby feel more cheerful during the holiday.",
+    "cn": "A：為什麼這週飯店櫃檯的員工穿著這麼鮮豔的衣服？ B：飯店正在慶祝中秋節，所以經理請大家穿傳統中式【服裝】迎接客人，讓大廳在假期間更有歡樂氣氛。",
+    "collocation": "a national costume 民族服裝"
+   },
+   {
+    "word": "symbol",
+    "pos": "n.",
+    "en_def": "a picture or object that represents an idea",
+    "cn_def": "象徵；符號",
+    "sentence": "A: Why did the company choose a mountain for the new logo instead of the old blue circle? B: The designers wanted a {{BLANK}} of strength and growth that customers would remember easily, and Jade Mountain is famous all over Taiwan as the highest peak on the island.",
+    "cn": "A：公司為什麼選擇一座山作為新標誌，而不是原本的藍色圓圈？ B：設計師想要一個代表力量和成長、顧客容易記住的【象徵】，而玉山是台灣最高峰，全台聞名。",
+    "collocation": "a symbol of success 成功的象徵"
+   },
+   {
+    "word": "diversity",
+    "pos": "n.",
+    "en_def": "the fact of including many different types of people or things",
+    "cn_def": "多元化；多樣性",
+    "sentence": "A: Why is the human resources department trying to hire more women and people from other countries this year? B: The board believes that greater {{BLANK}} in the workplace brings fresh ideas and helps us understand customers in different markets, so they have set clear goals for every team.",
+    "cn": "A：人資部門今年為什麼努力雇用更多女性和來自其他國家的人？ B：董事會相信職場更加【多元化】能帶來新想法，並幫助我們了解不同市場的顧客，所以他們為每個團隊設定了明確的目標。",
+    "collocation": "cultural diversity 文化多樣性"
+   },
+   {
+    "word": "global",
+    "pos": "adj.",
+    "en_def": "involving the whole world",
+    "cn_def": "全球的",
+    "sentence": "A: Why did the electronics company move its main office from Hsinchu to Singapore last spring? B: The company wants to become a {{BLANK}} brand that sells products in more than fifty countries, and Singapore makes it easier to reach customers and partners in Asia, Europe and Australia.",
+    "cn": "A：那家電子公司去年春天為什麼把總部從新竹搬到新加坡？ B：公司想成為在五十多個國家銷售產品的【全球】品牌，而新加坡讓它更容易接觸亞洲、歐洲和澳洲的顧客與夥伴。",
+    "collocation": "the global economy 全球經濟"
+   },
+   {
+    "word": "local",
+    "pos": "adj.",
+    "en_def": "belonging to the area where you live or work",
+    "cn_def": "當地的；在地的",
+    "sentence": "A: Why does the new supermarket on Main Street sell so many vegetables from small farms near the city? B: The owner wants to support {{BLANK}} farmers and reduce transport costs, and customers are happy to pay a little more for fresh food that was picked only a day before.",
+    "cn": "A：大街上那家新超市為什麼賣這麼多來自城市附近小農場的蔬菜？ B：老闆想支持【當地的】農民並降低運輸成本，而顧客也很樂意為前一天才採收的新鮮食物多付一點錢。",
+    "collocation": "local businesses 在地商家"
+   },
+   {
+    "word": "traditional",
+    "pos": "adj.",
+    "en_def": "following old customs or ways of doing things",
+    "cn_def": "傳統的",
+    "sentence": "A: What kind of gift should we give the Japanese clients when they visit our office next month? B: I think they would like something {{BLANK}} from Taiwan, such as a set of fine oolong tea and a handmade teapot, because it shows our culture and is easy to carry home.",
+    "cn": "A：日本客戶下個月來訪時，我們該送什麼禮物？ B：我想他們會喜歡台灣【傳統的】東西，例如一套上等烏龍茶和手工茶壺，因為它展現我們的文化，而且方便帶回家。",
+    "collocation": "traditional values 傳統價值觀"
+   },
+   {
+    "word": "modern",
+    "pos": "adj.",
+    "en_def": "new and using the latest ideas or designs",
+    "cn_def": "現代的；現代化的",
+    "sentence": "A: Why did so many young engineers apply for jobs at the new software company in Taichung this year? B: The company has a very {{BLANK}} office with standing desks, a gym and a quiet room for naps, and it also lets staff choose flexible working hours.",
+    "cn": "A：今年為什麼這麼多年輕工程師應徵台中那家新軟體公司的工作？ B：那家公司有非常【現代化的】辦公室，有站立式辦公桌、健身房和可以小睡的安靜房間，還讓員工選擇彈性工時。",
+    "collocation": "modern technology 現代科技"
+   },
+   {
+    "word": "influence",
+    "pos": "v.",
+    "en_def": "to change how someone thinks or acts",
+    "cn_def": "影響",
+    "sentence": "A: Why is our marketing team paying a famous YouTuber to try our new running shoes and post a video about them? B: Our research shows that popular online stars strongly {{BLANK}} what young people decide to buy, so one good video can bring us thousands of new customers in a week.",
+    "cn": "A：我們的行銷團隊為什麼付錢給知名YouTuber試穿我們的新跑鞋並發布影片？ B：我們的研究顯示，受歡迎的網路明星會強烈【影響】年輕人決定購買什麼，所以一支好影片在一週內就能為我們帶來數千名新顧客。",
+    "collocation": "influence a decision 影響決定"
+   },
+   {
+    "word": "adapt",
+    "pos": "v.",
+    "en_def": "to change something so that it fits a new situation",
+    "cn_def": "使適應；改編",
+    "sentence": "A: How did the fast-food chain manage to become so popular in India, where many people do not eat beef? B: The company had to {{BLANK}} its menu to local tastes, so it created spicy chicken and vegetable burgers, and now its restaurants there are busier than the ones in America.",
+    "cn": "A：那家速食連鎖店是怎麼在許多人不吃牛肉的印度變得這麼受歡迎的？ B：公司必須讓菜單【適應】當地口味，所以推出了辣味雞肉和蔬菜漢堡，現在那裡的餐廳比美國的還要忙。",
+    "collocation": "adapt to a new environment 適應新環境"
+   },
+   {
+    "word": "preserve",
+    "pos": "v.",
+    "en_def": "to keep something safe so that it continues to exist",
+    "cn_def": "保存；保護",
+    "sentence": "A: Why is the old tea company in Pinglin still making tea by hand when machines would be much faster? B: The family wants to {{BLANK}} the skills that their grandparents taught them, and many tourists visit the shop because they want to see how tea was made a hundred years ago.",
+    "cn": "A：坪林那家老茶行為什麼還用手工製茶，明明機器會快得多？ B：這個家族想【保存】祖父母傳授給他們的技術，而且很多遊客來店裡，是因為想看看一百年前茶是怎麼做的。",
+    "collocation": "preserve cultural heritage 保存文化遺產"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Every December, the staff decorate a big tree in the lobby. This _____ began when the company opened its first office in 1985.",
+    "options": [
+     "tradition",
+     "myth",
+     "symbol",
+     "dialect"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "In some countries, it is a _____ to bring a small gift when visiting a client's home. Our guidebook explains these habits for travelers.",
+    "options": [
+     "cuisine",
+     "custom",
+     "literature",
+     "costume"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The old train station is now a protected _____ site. The city will turn it into a museum instead of tearing it down.",
+    "options": [
+     "dance",
+     "music",
+     "heritage",
+     "norm"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "After the merger, many employees worried that the small firm would lose its _____. The new owners promised to keep its name and culture.",
+    "options": [
+     "cuisine",
+     "ceremony",
+     "dialect",
+     "identity"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The survey asked workers about their age, gender and _____ background. The results will help the company build a more balanced team.",
+    "options": [
+     "global",
+     "modern",
+     "ethnic",
+     "traditional"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Our clients come from a _____ range of industries. They include banks, hospitals, farms and small fashion shops.",
+    "options": [
+     "ethnic",
+     "diverse",
+     "traditional",
+     "local"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Toronto is a truly _____ city where over half of the people were born in another country. More than 150 languages are spoken there.",
+    "options": [
+     "cross-cultural",
+     "intercultural",
+     "ethnic",
+     "multicultural"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The researcher is doing a _____ study of shopping habits in Japan, Brazil and Germany. She compares how people in each country choose brands.",
+    "options": [
+     "cross-cultural",
+     "local",
+     "ethnic",
+     "modern"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The company was built on the _____ that every customer deserves fast service. This idea still guides all of our staff training.",
+    "options": [
+     "costume",
+     "cuisine",
+     "belief",
+     "dance"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Teamwork is a core _____ at our firm. We reward staff who help their coworkers finish projects on time.",
+    "options": [
+     "festival",
+     "dialect",
+     "myth",
+     "value"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Working on weekends has become the _____ in the tech industry. However, our company wants staff to rest on Saturdays and Sundays.",
+    "options": [
+     "norm",
+     "symbol",
+     "literature",
+     "cuisine"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The museum works hard to _____ old photographs and letters from the 1900s. It keeps them in a cool, dry room.",
+    "options": [
+     "adapt",
+     "preserve",
+     "influence",
+     "value"
+    ],
+    "answer": 1,
+    "vocabIndex": 33
+   },
+   {
+    "q": "The awards _____ will be held in the hotel ballroom on Friday evening. All employees are invited to attend with one guest.",
+    "options": [
+     "cuisine",
+     "myth",
+     "identity",
+     "ceremony"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The city's film _____ attracts thousands of visitors each autumn. Many hotels raise their prices during the ten-day event.",
+    "options": [
+     "norm",
+     "festival",
+     "belief",
+     "dialect"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Many people think that working longer hours always means more work gets done. Our study shows this is a _____.",
+    "options": [
+     "ceremony",
+     "costume",
+     "myth",
+     "cuisine"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The new hotel displays local _____ in every room. Guests can buy the paintings at the front desk if they like them.",
+    "options": [
+     "art",
+     "language",
+     "dialect",
+     "norm"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The café plays soft jazz _____ in the morning. The owner says it helps customers relax while they read or work.",
+    "options": [
+     "cuisine",
+     "music",
+     "folklore",
+     "heritage"
+    ],
+    "answer": 1,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The hotel offers free salsa _____ lessons every Friday night. Guests can learn basic steps from a professional teacher.",
+    "options": [
+     "myth",
+     "symbol",
+     "dance",
+     "belief"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Ms. Chen studied English _____ at university and loves classic novels. She now edits books for a publisher in Taipei.",
+    "options": [
+     "literature",
+     "cuisine",
+     "ceremony",
+     "costume"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Applicants must speak at least one foreign _____ fluently. Japanese or Korean is preferred for this sales position.",
+    "options": [
+     "festival",
+     "ritual",
+     "symbol",
+     "language"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The tour guide speaks the local _____ of the mountain villages. This helps visitors talk with elderly farmers who do not speak Mandarin.",
+    "options": [
+     "costume",
+     "ceremony",
+     "dialect",
+     "cuisine"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The restaurant on the top floor serves fine French _____. Reservations should be made at least one week in advance.",
+    "options": [
+     "dialect",
+     "norm",
+     "identity",
+     "cuisine"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Online reviews strongly _____ which hotels travelers book. Therefore, our staff reply politely to every comment, good or bad.",
+    "options": [
+     "influence",
+     "adapt",
+     "preserve",
+     "value"
+    ],
+    "answer": 0,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The green leaf on our packaging is a _____ of our promise to protect nature. Customers recognize it in stores around the world.",
+    "options": [
+     "dialect",
+     "symbol",
+     "cuisine",
+     "ceremony"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The company is proud of the _____ of its workforce. Its 300 employees come from 25 countries and speak many languages.",
+    "options": [
+     "diversity",
+     "folklore",
+     "myth",
+     "ritual"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Rising oil prices have affected the _____ economy this year. Companies in almost every country are paying more for transport.",
+    "options": [
+     "ethnic",
+     "traditional",
+     "cross-cultural",
+     "global"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The hotel restaurant buys its fruit from _____ farms near the city. This keeps the food fresh and supports small growers in the area.",
+    "options": [
+     "global",
+     "multicultural",
+     "local",
+     "intercultural"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The shop sells _____ Taiwanese teapots made by hand in the same way as a hundred years ago. They make popular gifts for visitors.",
+    "options": [
+     "modern",
+     "traditional",
+     "global",
+     "diverse"
+    ],
+    "answer": 1,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The old factory was turned into a bright, _____ office with glass walls and smart lighting. Young tech companies now rent space there.",
+    "options": [
+     "ethnic",
+     "traditional",
+     "cross-cultural",
+     "modern"
+    ],
+    "answer": 3,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Foreign managers often need several months to _____ to life in a new country. The company offers language classes to help them.",
+    "options": [
+     "adapt",
+     "preserve",
+     "influence",
+     "value"
+    ],
+    "answer": 0,
+    "vocabIndex": 32
+   }
+  ]
+ },
+ "94": {
+  "theme": "Curtain 窗簾",
+  "source": "https://www.examword.com/group-topic/curtain",
+  "VOCAB": [
+   {
+    "word": "drape",
+    "pos": "n.",
+    "en_def": "a long, heavy curtain",
+    "cn_def": "帷幔；厚窗簾",
+    "sentence": "A: Why does the hotel lobby feel so much warmer and quieter than it did when we stayed here last spring? B: The new owners hung a long, heavy {{BLANK}} across the tall glass wall near the entrance, so it keeps out the cold wind in winter and also reduces the noise from the busy street outside.",
+    "cn": "A：為什麼飯店大廳感覺比我們去年春天住在這裡時溫暖又安靜許多？ B：新老闆在入口附近的高大玻璃牆前掛了一片又長又厚的【布簾】，所以冬天能擋住冷風，也能減少外面繁忙街道的噪音。",
+    "collocation": "hang a heavy drape over the doorway 在門口掛上厚重的布簾"
+   },
+   {
+    "word": "blind",
+    "pos": "n.",
+    "en_def": "a window cover that you pull down to block light",
+    "cn_def": "百葉窗；捲簾",
+    "sentence": "A: Why is it so hard to see the slides during the afternoon meetings in the small conference room on the fifth floor? B: The sun shines straight through the window after two o'clock, so I have asked the facilities team to put up a {{BLANK}} that we can pull down whenever we give presentations.",
+    "cn": "A：為什麼五樓小會議室在下午開會時很難看清楚投影片？ B：兩點以後陽光直接從窗戶照進來，所以我已經請設施組裝一個【捲簾】，讓我們每次做簡報時都能拉下來。",
+    "collocation": "install a roller blind 安裝捲簾"
+   },
+   {
+    "word": "shade",
+    "pos": "n.",
+    "en_def": "something that blocks direct sunlight",
+    "cn_def": "遮陽物；遮光簾",
+    "sentence": "A: The customers at the café's outdoor tables keep complaining about the heat at lunchtime, so what can we do before the summer season starts? B: We could put up a large umbrella or a cloth {{BLANK}} over the patio, which would keep the tables cool and let people enjoy their meals outside without sitting in the strong sun.",
+    "cn": "A：咖啡店戶外座位的客人一直抱怨午餐時間太熱，夏季開始前我們能做什麼？ B：我們可以在露台上方架設一把大傘或一片布製【遮陽篷】，讓桌子保持涼爽，客人就能在戶外用餐而不用坐在烈日下。",
+    "collocation": "a window shade 窗戶遮陽簾"
+   },
+   {
+    "word": "panel",
+    "pos": "n.",
+    "en_def": "one flat piece of curtain or other material",
+    "cn_def": "一片（窗簾布）；面板",
+    "sentence": "A: The new curtains for the training room arrived this morning, but why are there four separate pieces instead of one big curtain? B: The supplier sent each {{BLANK}} separately so that it is easier to carry and wash, and when we hang all four of them side by side, they will cover the entire glass wall.",
+    "cn": "A：訓練教室的新窗簾今天早上到了，但為什麼是四塊分開的布，而不是一大片窗簾？ B：供應商把每一片【窗簾布片】分開寄送，這樣比較好搬也好洗，等我們把四片並排掛起來，就能遮住整面玻璃牆。",
+    "collocation": "a curtain panel 一片窗簾"
+   },
+   {
+    "word": "fabric",
+    "pos": "n.",
+    "en_def": "cloth used to make clothes, curtains, etc.",
+    "cn_def": "布料；織物",
+    "sentence": "A: Why did the hotel manager reject the first set of curtain samples that the designer brought to the meeting yesterday? B: She said the {{BLANK}} felt too thin and cheap for the luxury suites, so she asked the designer to find a thicker material that looks elegant and does not fade in strong sunlight.",
+    "cn": "A：為什麼飯店經理昨天拒絕了設計師帶來開會的第一批窗簾樣品？ B：她說那種【布料】摸起來太薄又廉價，不適合豪華套房，所以她請設計師找一種看起來高雅、在強烈陽光下也不會褪色的較厚材質。",
+    "collocation": "choose a durable fabric 選擇耐用的布料"
+   },
+   {
+    "word": "velvet",
+    "pos": "n.",
+    "en_def": "a soft, thick cloth with a smooth surface",
+    "cn_def": "天鵝絨；絲絨",
+    "sentence": "A: What kind of curtains did the theater choose for the main stage when it was renovated last year? B: They chose deep red {{BLANK}}, which is soft, thick and expensive, because the director wanted the hall to look rich and classic when the audience walks in before each evening show.",
+    "cn": "A：劇院去年整修時，主舞台選了什麼樣的布幕？ B：他們選了深紅色的【天鵝絨】，又軟又厚又昂貴，因為導演希望觀眾每晚演出前走進來時，整個大廳看起來華麗又古典。",
+    "collocation": "red velvet curtains 紅色天鵝絨布幕"
+   },
+   {
+    "word": "linen",
+    "pos": "n.",
+    "en_def": "a cloth made from the flax plant",
+    "cn_def": "亞麻布",
+    "sentence": "A: Our restaurant wants a relaxed, natural look for the new seaside branch, so which material do you recommend for the curtains? B: I suggest light {{BLANK}} in a sandy color, because it lets in plenty of soft daylight, feels cool in hot weather, and matches the wooden tables and plants you plan to use.",
+    "cn": "A：我們餐廳希望新的海邊分店有輕鬆自然的風格，你建議窗簾用什麼材質？ B：我建議用沙色的輕薄【亞麻布】，因為它能透進大量柔和的日光，天熱時摸起來涼爽，也和你們打算使用的木桌及植物很搭。",
+    "collocation": "natural linen curtains 天然亞麻窗簾"
+   },
+   {
+    "word": "sheer",
+    "pos": "adj.",
+    "en_def": "very thin, so you can almost see through it",
+    "cn_def": "薄透的；透明的",
+    "sentence": "A: The clients want privacy in the meeting room, but they also want natural light, so what should we put on the windows? B: We can hang {{BLANK}} curtains that are thin enough to let sunlight come through, but people walking past in the hallway outside will not be able to see clearly into the room.",
+    "cn": "A：客戶希望會議室有隱私，但也想要自然光，我們窗戶該裝什麼？ B：我們可以掛【薄透的】窗簾，薄到能讓陽光透進來，但在外面走廊經過的人無法清楚看到室內。",
+    "collocation": "sheer white curtains 白色薄紗窗簾"
+   },
+   {
+    "word": "opaque",
+    "pos": "adj.",
+    "en_def": "not clear, so you cannot see through it",
+    "cn_def": "不透明的",
+    "sentence": "A: Why did the medical clinic replace the glass doors of its examination rooms during the renovation last month? B: Patients said they felt uncomfortable because people in the waiting area could see inside, so the clinic put in {{BLANK}} glass that nobody can see through at all, and the doctors also added thick curtains for extra protection.",
+    "cn": "A：那間診所上個月整修時為什麼換掉了診療室的玻璃門？ B：病人說他們覺得不自在，因為候診區的人看得到裡面，所以診所換成了完全看不透的【不透明】玻璃，醫生們還加裝了厚窗簾以多一層保護。",
+    "collocation": "opaque glass 不透明玻璃"
+   },
+   {
+    "word": "blackout",
+    "pos": "adj.",
+    "en_def": "(of curtains) stopping all light from coming in",
+    "cn_def": "遮光的",
+    "sentence": "A: The night-shift nurses say they cannot sleep well during the day in the staff dormitory, so how can we help them? B: We should install {{BLANK}} curtains in every bedroom, because they stop almost all sunlight from coming in, and the rooms will stay dark and quiet even at noon.",
+    "cn": "A：夜班護理師說她們白天在員工宿舍睡不好，我們能怎麼幫忙？ B：我們應該在每間臥室裝【遮光】窗簾，因為它們幾乎能擋住所有陽光，即使中午房間也會保持昏暗安靜。",
+    "collocation": "blackout curtains 遮光窗簾"
+   },
+   {
+    "word": "pleat",
+    "pos": "n.",
+    "en_def": "a fold that is sewn into cloth",
+    "cn_def": "褶；褶襉",
+    "sentence": "A: The customer says the curtains we made for her living room look flat and plain, so what can we change to make them look more stylish? B: We can sew a neat {{BLANK}} at the top every ten centimeters, so the fabric falls in soft, even folds and looks fuller and more expensive when it hangs from the rail.",
+    "cn": "A：客人說我們幫她客廳做的窗簾看起來平平的很單調，我們可以改什麼讓它更有型？ B：我們可以在頂端每隔十公分縫一道整齊的【褶】，讓布料垂成柔和均勻的皺褶，掛在軌道上時看起來更飽滿、更高級。",
+    "collocation": "a box pleat 箱形褶"
+   },
+   {
+    "word": "rod",
+    "pos": "n.",
+    "en_def": "a long, thin pole for hanging curtains",
+    "cn_def": "桿；窗簾桿",
+    "sentence": "A: Why are the new curtains in the reception area hanging so low that they touch the dirty floor? B: The workers fixed the metal {{BLANK}} about twenty centimeters too low on the wall, so I have asked them to move it higher tomorrow morning before the guests arrive for the opening ceremony.",
+    "cn": "A：接待區的新窗簾為什麼掛得那麼低，都碰到髒地板了？ B：工人把金屬【窗簾桿】裝在牆上時低了大約二十公分，所以我已經請他們明天早上在賓客抵達參加開幕典禮之前把它往上移。",
+    "collocation": "a curtain rod 窗簾桿"
+   },
+   {
+    "word": "rail",
+    "pos": "n.",
+    "en_def": "a bar or track that curtains hang from",
+    "cn_def": "軌道；橫桿",
+    "sentence": "A: Why does it take so long to open and close the curtains in the big ballroom before each wedding banquet? B: The old plastic {{BLANK}} is bent in several places, so the curtains keep getting stuck, and the hotel has decided to replace it with a smooth aluminum track next week.",
+    "cn": "A：為什麼每次婚宴前，大宴會廳的窗簾都要花很久才能拉開和拉上？ B：舊的塑膠【窗簾軌道】有好幾處彎掉了，所以窗簾一直卡住，飯店決定下週換成滑順的鋁製軌道。",
+    "collocation": "a curtain rail 窗簾軌道"
+   },
+   {
+    "word": "hook",
+    "pos": "n.",
+    "en_def": "a curved piece of metal or plastic for hanging things",
+    "cn_def": "鉤子；掛鉤",
+    "sentence": "A: The curtain in Room 512 fell down again this morning, so do we need to call a repair company? B: No, it is a small problem, because one plastic {{BLANK}} broke and the curtain slipped off the rail, so housekeeping can replace it in a few minutes with a spare part from the storeroom.",
+    "cn": "A：512號房的窗簾今天早上又掉下來了，我們需要叫維修公司嗎？ B：不用，這是小問題，只是有一個塑膠【掛鉤】斷了，窗簾才從軌道上滑落，房務部用倉庫裡的備用零件幾分鐘就能換好。",
+    "collocation": "a curtain hook 窗簾掛鉤"
+   },
+   {
+    "word": "ring",
+    "pos": "n.",
+    "en_def": "a small circle used to hang a curtain on a pole",
+    "cn_def": "環；圈",
+    "sentence": "A: Our café curtains make a loud scraping noise every time the staff pull them, and the customers have noticed, so what is the cause? B: Each metal {{BLANK}} rubs against the iron pole, so we should replace them with wooden ones, which slide more quietly and also look warmer with our furniture.",
+    "cn": "A：我們咖啡店的窗簾每次員工拉的時候都會發出很大的刮擦聲，客人都注意到了，原因是什麼？ B：每個金屬【圓環】都會摩擦鐵桿，所以我們應該換成木製的，它們滑動起來比較安靜，和我們的家具搭配也更溫馨。",
+    "collocation": "curtain rings 窗簾環"
+   },
+   {
+    "word": "tieback",
+    "pos": "n.",
+    "en_def": "a band that holds a curtain to one side",
+    "cn_def": "窗簾綁帶；窗簾扣",
+    "sentence": "A: The curtains in the hotel restaurant keep falling across the windows, and guests at the corner tables cannot see the harbor view, so what should we do? B: Let's attach a cloth {{BLANK}} to the wall beside each window, so the staff can hold the curtains to the side neatly during breakfast and lunch.",
+    "cn": "A：飯店餐廳的窗簾一直垂落遮住窗戶，角落座位的客人看不到港口景色，我們該怎麼辦？ B：我們在每扇窗戶旁的牆上裝一條布製【窗簾綁帶】，讓員工在早餐和午餐時段能把窗簾整齊地束在一邊。",
+    "collocation": "a tasseled tieback 有流蘇的窗簾綁帶"
+   },
+   {
+    "word": "valance",
+    "pos": "n.",
+    "en_def": "a short piece of cloth across the top of a window",
+    "cn_def": "窗簾頂帷；帷幔",
+    "sentence": "A: The curtain rails in the new boutique look ugly and industrial, so how can we hide them without spending too much money? B: We can put a short decorative {{BLANK}} across the top of each window, which covers the metal tracks and also adds a little color that matches the shop's logo.",
+    "cn": "A：新精品店的窗簾軌道看起來很醜又很工業風，我們怎麼樣才能不花太多錢把它們遮起來？ B：我們可以在每扇窗戶頂端加一條短的裝飾【窗簾頂帷】，既能遮住金屬軌道，也能增添一點和店家標誌相配的色彩。",
+    "collocation": "a fabric valance 布製頂帷"
+   },
+   {
+    "word": "hem",
+    "pos": "n.",
+    "en_def": "the folded and sewn edge of a piece of cloth",
+    "cn_def": "褶邊；底邊",
+    "sentence": "A: The new curtains for the hotel lobby are about five centimeters too long, so should we send all of the curtains back to the factory? B: No, our tailor can simply fold up the {{BLANK}} at the bottom and sew it again, which is much faster and cheaper than ordering a whole new set from overseas.",
+    "cn": "A：飯店大廳的新窗簾長了大約五公分，我們應該把所有窗簾都退回工廠嗎？ B：不用，我們的裁縫只要把底部的【褶邊】往上折再重新縫好就行了，這比從海外訂一整套新的快得多也便宜得多。",
+    "collocation": "take up the hem 把褶邊改短"
+   },
+   {
+    "word": "lining",
+    "pos": "n.",
+    "en_def": "a layer of cloth on the back or inside of something",
+    "cn_def": "襯裡；內襯",
+    "sentence": "A: Why are the curtains in our east-facing guest rooms fading so quickly when the ones on the west side still look new? B: The curtains on the east side were made without a {{BLANK}}, so the morning sun hits the colored fabric directly, while the others have an extra layer of white cloth behind them that protects them.",
+    "cn": "A：為什麼我們朝東的客房窗簾褪色得那麼快，而西側的看起來還像新的？ B：東側的窗簾做的時候沒有【襯裡】，所以早晨的陽光直接照在有顏色的布料上，而其他窗簾後面多了一層白布保護。",
+    "collocation": "a thermal lining 保暖內襯"
+   },
+   {
+    "word": "hang",
+    "forms": "hang – hung – hung",
+    "pos": "v.",
+    "en_def": "to put something up so that it is held from above",
+    "cn_def": "懸掛",
+    "sentence": "A: The art gallery is opening a new exhibition on Friday evening, so what still needs to be done in the main hall? B: The workers still need to {{BLANK}} the long white curtains along the back wall and then set up the lights, so I asked them to come in early on Thursday.",
+    "cn": "A：美術館星期五晚上要開新展覽，主展廳還有什麼事要做？ B：工人還需要沿著後牆【掛】上長長的白色窗簾，然後架設燈光，所以我請他們星期四早點來。",
+    "collocation": "hang curtains 掛窗簾"
+   },
+   {
+    "word": "draw",
+    "forms": "draw – drew – drawn",
+    "pos": "v.",
+    "en_def": "to pull curtains open or closed",
+    "cn_def": "拉（窗簾）",
+    "sentence": "A: The marketing director is about to show the new commercial on the big screen, but the room is far too bright, so what should I do? B: Please {{BLANK}} the curtains on both sides of the room before she starts, so the sunlight stays outside and everyone can see the colors in the video clearly.",
+    "cn": "A：行銷總監馬上要在大螢幕上播放新廣告，但房間太亮了，我該怎麼辦？ B：請在她開始之前把房間兩側的窗簾【拉上】，這樣陽光就被擋在外面，大家都能清楚看到影片中的色彩。",
+    "collocation": "draw the curtains 拉上窗簾"
+   },
+   {
+    "word": "open",
+    "pos": "v.",
+    "en_def": "to move something so that it is no longer shut",
+    "cn_def": "打開；拉開",
+    "sentence": "A: The conference room smells a bit stale after this morning's long workshop, so what can we do before the clients arrive at two? B: Let's {{BLANK}} the curtains and the windows for about half an hour, so fresh air and bright sunlight can come in and the room will feel much more welcoming.",
+    "cn": "A：今天早上的長時間工作坊結束後，會議室有點悶，客戶兩點到之前我們能做什麼？ B：我們把窗簾和窗戶【打開】大約半小時，讓新鮮空氣和明亮的陽光進來，房間會感覺親切許多。",
+    "collocation": "open the curtains 拉開窗簾"
+   },
+   {
+    "word": "close",
+    "pos": "v.",
+    "en_def": "to shut something",
+    "cn_def": "關上；拉上",
+    "sentence": "A: The hotel guests in Room 808 have complained that the street lights shine into their room all night, so what did you tell them? B: I explained that they can press the button beside the bed to {{BLANK}} the electric curtains automatically, and I also offered them a free eye mask.",
+    "cn": "A：808號房的房客抱怨路燈整晚照進房間，你怎麼跟他們說？ B：我向他們說明可以按床邊的按鈕，自動【關上】電動窗簾，我還送了他們一個免費的眼罩。",
+    "collocation": "close the blinds 拉上百葉窗"
+   },
+   {
+    "word": "slide",
+    "forms": "slide – slid – slid",
+    "pos": "v.",
+    "en_def": "to move smoothly along a surface",
+    "cn_def": "滑動",
+    "sentence": "A: Why did the restaurant spend so much money on new glass doors for the terrace? B: The old doors were heavy and difficult to move, but the new ones {{BLANK}} smoothly along a metal track, so the waiters can open the whole terrace to the garden in seconds on warm evenings.",
+    "cn": "A：為什麼餐廳花那麼多錢為露台換新的玻璃門？ B：舊門又重又難推，而新門能沿著金屬軌道順暢地【滑動】，所以在溫暖的夜晚，服務生幾秒鐘就能把整個露台向花園打開。",
+    "collocation": "slide the door open 把門滑開"
+   },
+   {
+    "word": "block",
+    "pos": "v.",
+    "en_def": "to stop something from passing through",
+    "cn_def": "阻擋；擋住",
+    "sentence": "A: Our designers say the afternoon sunlight makes it hard for them to see their computer screens, so what is the best solution for the studio? B: We should install thick curtains on the west windows, because they will {{BLANK}} most of the strong light while still letting a little daylight in from the north side.",
+    "cn": "A：我們的設計師說午後的陽光讓他們很難看清電腦螢幕，工作室最好的解決辦法是什麼？ B：我們應該在西側窗戶裝上厚窗簾，因為它們能【阻擋】大部分強光，同時仍讓北側透進一些日光。",
+    "collocation": "block out the light 擋住光線"
+   },
+   {
+    "word": "cover",
+    "pos": "v.",
+    "en_def": "to put something over something else to protect or hide it",
+    "cn_def": "覆蓋；遮蓋",
+    "sentence": "A: The painters are coming to repaint the boardroom ceiling this weekend, so how will we protect the expensive furniture and the new carpet? B: We will move the chairs into the hallway and {{BLANK}} the long table and the floor with plastic sheets, so no paint will drip onto anything valuable.",
+    "cn": "A：油漆工這個週末要來重新粉刷董事會議室的天花板，我們要怎麼保護昂貴的家具和新地毯？ B：我們會把椅子搬到走廊，再用塑膠布【蓋住】長桌和地板，這樣油漆就不會滴到任何貴重物品上。",
+    "collocation": "cover the furniture with sheets 用布蓋住家具"
+   },
+   {
+    "word": "decorate",
+    "pos": "v.",
+    "en_def": "to make something look nicer by adding things to it",
+    "cn_def": "裝飾",
+    "sentence": "A: The company's twentieth anniversary party is next Saturday, so how are you planning to make the plain office hall look special? B: We will {{BLANK}} the walls with gold curtains, colorful balloons and photos from the last twenty years, so every guest can see how much the company has grown.",
+    "cn": "A：公司二十週年派對在下週六，你打算怎麼讓樸素的辦公大廳看起來特別？ B：我們會用金色布幔、彩色氣球和過去二十年的照片【裝飾】牆面，讓每位來賓都能看到公司成長了多少。",
+    "collocation": "decorate the hall for a party 為派對裝飾大廳"
+   },
+   {
+    "word": "privacy",
+    "pos": "n.",
+    "en_def": "the state of not being seen or heard by other people",
+    "cn_def": "隱私",
+    "sentence": "A: Why did the bank add thick curtains around the desks in the loan department last month? B: Customers often talk about their salaries and debts there, so the bank wanted to give them more {{BLANK}} and make sure other people in the waiting area cannot hear or see their personal information.",
+    "cn": "A：銀行上個月為什麼在貸款部的辦公桌周圍加裝了厚窗簾？ B：顧客常在那裡談論他們的薪水和債務，所以銀行想給他們更多【隱私】，確保候位區的其他人無法聽到或看到他們的個人資料。",
+    "collocation": "protect customers' privacy 保護顧客隱私"
+   },
+   {
+    "word": "shadow",
+    "pos": "n.",
+    "en_def": "a dark shape made when something blocks light",
+    "cn_def": "影子；陰影",
+    "sentence": "A: Why does the photographer want us to move the meeting table away from the window before the team photo? B: The sunlight is coming in at a low angle, so it throws a dark {{BLANK}} across half of everyone's faces, and he says the picture will look much better with soft, even light.",
+    "cn": "A：為什麼攝影師要我們在拍團隊照之前把會議桌移離窗戶？ B：陽光以很低的角度照進來，在每個人半張臉上投下一道深色的【陰影】，他說用柔和均勻的光線拍出來的照片會好看很多。",
+    "collocation": "cast a shadow 投下陰影"
+   },
+   {
+    "word": "glare",
+    "pos": "n.",
+    "en_def": "strong, bright light that hurts your eyes",
+    "cn_def": "刺眼的強光；反光",
+    "sentence": "A: The receptionists say they get headaches by the end of every afternoon shift, so have you found out what is causing the problem? B: The {{BLANK}} from the sun reflecting off the white floor is very strong after three o'clock, so we have ordered tinted blinds and a darker rug for the front desk area.",
+    "cn": "A：櫃檯人員說每次下午班快結束時都會頭痛，你找出是什麼原因了嗎？ B：三點以後，陽光從白色地板反射的【刺眼強光】非常強烈，所以我們已經為前台區域訂了有色百葉窗和一塊深色地毯。",
+    "collocation": "reduce the glare on the screen 減少螢幕上的反光"
+   },
+   {
+    "word": "interior",
+    "pos": "adj.",
+    "en_def": "inside a building or object",
+    "cn_def": "內部的；室內的",
+    "sentence": "A: The architect's plan for the new office has lots of glass, so how will the staff in the middle of the building get any privacy? B: She designed {{BLANK}} walls made of frosted glass with thin curtains, so the meeting rooms in the center stay private but still receive light from the outside windows.",
+    "cn": "A：建築師的新辦公室設計用了很多玻璃，那大樓中間的員工要怎麼保有隱私？ B：她設計了用霧面玻璃加上薄窗簾做成的【室內】隔間牆，讓中央的會議室保有隱私，但仍能從外側窗戶得到光線。",
+    "collocation": "interior design 室內設計"
+   },
+   {
+    "word": "window",
+    "pos": "n.",
+    "en_def": "an opening in a wall, with glass, that lets in light",
+    "cn_def": "窗戶",
+    "sentence": "A: Which seat would you like for the client lunch at the new Italian restaurant downtown on Friday? B: I would like a table by the {{BLANK}}, because the restaurant is on the twentieth floor, and our clients from overseas will enjoy the view of the river and the mountains while we discuss the contract.",
+    "cn": "A：星期五在市中心新開的義大利餐廳和客戶吃午餐，你想坐哪個位子？ B：我想要靠【窗】的桌子，因為餐廳在二十樓，我們的海外客戶可以在我們討論合約時欣賞河流和山景。",
+    "collocation": "a window seat 靠窗座位"
+   },
+   {
+    "word": "stage",
+    "pos": "n.",
+    "en_def": "the raised area where people perform or give speeches",
+    "cn_def": "舞台",
+    "sentence": "A: How are the preparations going for the annual awards ceremony in the hotel ballroom tonight? B: The technicians have already set up the microphones and lights on the {{BLANK}}, and now they are testing the red curtain to make sure it opens smoothly when the host walks out at seven.",
+    "cn": "A：今晚在飯店宴會廳舉行的年度頒獎典禮準備得如何？ B：技術人員已經在【舞台】上裝好麥克風和燈光，現在正在測試紅色布幕，確保主持人七點走出來時它能順利拉開。",
+    "collocation": "walk onto the stage 走上舞台"
+   },
+   {
+    "word": "backdrop",
+    "pos": "n.",
+    "en_def": "a painted or printed cloth at the back of a stage or event",
+    "cn_def": "背景幕；背景",
+    "sentence": "A: What do we need for the photo area at the product launch event next Wednesday afternoon? B: We need a large printed {{BLANK}} with our company logo behind the speakers, so every photo that journalists take will clearly show our brand name and the new phone.",
+    "cn": "A：下週三下午的產品發表會拍照區需要什麼？ B：我們需要在講者後方放一大片印有公司標誌的【背景布幕】，這樣記者拍的每張照片都能清楚顯示我們的品牌名稱和新手機。",
+    "collocation": "a stage backdrop 舞台背景幕"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The hotel replaced the old curtain in the ballroom. The new _____ is long, heavy and dark blue, and it reaches the floor.",
+    "options": [
+     "hook",
+     "hem",
+     "drape",
+     "rod"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The sun shines on Mr. Lee's computer every morning. He pulls down the _____ so that he can read his screen easily.",
+    "options": [
+     "velvet",
+     "pleat",
+     "hem",
+     "blind"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The café put a large cloth over its outdoor tables. The _____ keeps customers cool when they eat lunch in the summer.",
+    "options": [
+     "shade",
+     "ring",
+     "hook",
+     "hem"
+    ],
+    "answer": 0,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Each window in the office needs two pieces of curtain. Please order one more _____ because the supplier sent only seven.",
+    "options": [
+     "glare",
+     "panel",
+     "privacy",
+     "shadow"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The designer showed us samples of cotton, silk and wool. We chose the blue _____ because it is strong and easy to wash.",
+    "options": [
+     "glare",
+     "shadow",
+     "stage",
+     "fabric"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The theater curtains feel soft and thick when you touch them. They are made of expensive red _____ from Italy.",
+    "options": [
+     "velvet",
+     "hook",
+     "rod",
+     "window"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The beach hotel uses curtains made from a light natural cloth. The _____ lets the sea breeze in and feels cool in summer.",
+    "options": [
+     "hook",
+     "linen",
+     "stage",
+     "ring"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The thin white curtains let sunlight into the lobby. Guests like the _____ curtains because the room stays bright but private.",
+    "options": [
+     "blackout",
+     "opaque",
+     "sheer",
+     "interior"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Nobody can see through the new glass in the meeting room doors. The company chose _____ glass to protect the clients' privacy.",
+    "options": [
+     "opaque",
+     "sheer",
+     "blackout",
+     "interior"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The tailor folded the cloth carefully and sewed it in place. Each _____ makes the curtain hang in soft, even folds.",
+    "options": [
+     "glare",
+     "privacy",
+     "pleat",
+     "stage"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The curtains fell down because the metal pole was loose. A technician will fix the curtain _____ to the wall this afternoon.",
+    "options": [
+     "privacy",
+     "rod",
+     "shadow",
+     "glare"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The curtains in the ballroom keep getting stuck. The hotel will replace the bent _____ with a smooth aluminum track.",
+    "options": [
+     "velvet",
+     "privacy",
+     "glare",
+     "rail"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "One of the curtains slipped off the track this morning. A small plastic _____ had broken, so housekeeping replaced it.",
+    "options": [
+     "hook",
+     "glare",
+     "privacy",
+     "stage"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The wooden curtain pole looks beautiful in the lobby. Each _____ on the pole slides quietly when the staff open the curtains.",
+    "options": [
+     "glare",
+     "ring",
+     "privacy",
+     "backdrop"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The new curtains are five centimeters too long. The tailor will shorten them by folding up the _____ and sewing it again.",
+    "options": [
+     "glare",
+     "privacy",
+     "hem",
+     "window"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The workers need a ladder to _____ the curtains on the high rod. They will finish before the clients arrive at noon.",
+    "options": [
+     "block",
+     "cover",
+     "slide",
+     "hang"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The video will start in one minute, but the room is too bright. Could you _____ the curtains on the west side, please?",
+    "options": [
+     "hang",
+     "decorate",
+     "draw",
+     "open"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The meeting room feels stuffy after the long workshop. Please _____ the windows and let some fresh air in before lunch.",
+    "options": [
+     "block",
+     "hang",
+     "decorate",
+     "open"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Guests can press a button beside the bed. The electric curtains will _____ automatically, and the room becomes dark.",
+    "options": [
+     "decorate",
+     "close",
+     "hang",
+     "open"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The new glass doors are very light. They _____ easily along a metal track, so even children can move them.",
+    "options": [
+     "slide",
+     "hang",
+     "decorate",
+     "block"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Our designers cannot see their screens in the afternoon. Thick curtains will _____ the strong sunlight from the west windows.",
+    "options": [
+     "slide",
+     "block",
+     "decorate",
+     "hang"
+    ],
+    "answer": 1,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The painters arrive tomorrow morning. Please _____ the desks and computers with plastic sheets to protect them from paint.",
+    "options": [
+     "draw",
+     "slide",
+     "open",
+     "cover"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The company is celebrating its tenth anniversary. Staff will _____ the hall with balloons, flowers and gold curtains.",
+    "options": [
+     "decorate",
+     "block",
+     "slide",
+     "close"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Customers at the bank often discuss personal information. The new curtains around each desk give them more _____.",
+    "options": [
+     "glare",
+     "window",
+     "privacy",
+     "stage"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The tall tree outside casts a large _____ on the office. The room stays cool even in the hot summer afternoons.",
+    "options": [
+     "hem",
+     "shadow",
+     "pleat",
+     "hook"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The sunlight reflects off the white floor in the lobby. The strong _____ gives the receptionists headaches every afternoon.",
+    "options": [
+     "hem",
+     "rod",
+     "pleat",
+     "glare"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   },
+   {
+    "q": "The architect will use glass for the _____ walls between offices. The outside walls will be made of brick and concrete.",
+    "options": [
+     "interior",
+     "sheer",
+     "opaque",
+     "blackout"
+    ],
+    "answer": 0,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Ms. Chen asked for a table by the _____ at the restaurant. She wanted her clients to enjoy the river view during lunch.",
+    "options": [
+     "hem",
+     "pleat",
+     "window",
+     "glare"
+    ],
+    "answer": 2,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The singer walked onto the _____ when the red curtain opened. The audience in the theater clapped loudly for several minutes.",
+    "options": [
+     "stage",
+     "hook",
+     "hem",
+     "rod"
+    ],
+    "answer": 0,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The company printed its logo on a large cloth behind the speakers. The _____ appeared in every photo of the product launch.",
+    "options": [
+     "hook",
+     "hem",
+     "pleat",
+     "backdrop"
+    ],
+    "answer": 3,
+    "vocabIndex": 33
+   }
+  ]
+ },
+ "95": {
+  "theme": "Daily Routine 日常作息",
+  "source": "https://www.examword.com/group-topic/daily-routine",
+  "VOCAB": [
+   {
+    "word": "routine",
+    "pos": "n.",
+    "en_def": "the usual order of things you do every day",
+    "cn_def": "例行公事；日常作息",
+    "sentence": "A: Why does the new receptionist arrive at the office thirty minutes before everyone else, even though her shift starts at nine? B: She says that a calm morning {{BLANK}} helps her a lot, so she checks the calendar, waters the plants, and answers her emails before the phones start ringing.",
+    "cn": "A：新來的接待員為什麼比其他人早三十分鐘到辦公室，即使她的班九點才開始？ B：她說平靜的早晨【例行作息】對她幫助很大，所以她會在電話開始響之前查看行事曆、幫植物澆水，並回覆電子郵件。",
+    "collocation": "a daily routine 每日例行作息"
+   },
+   {
+    "word": "habit",
+    "pos": "n.",
+    "en_def": "something you do often, almost without thinking",
+    "cn_def": "習慣",
+    "sentence": "A: How did you manage to finish your online marketing course while you were working full-time at the bank last year? B: I made a {{BLANK}} of studying for forty minutes on the train every morning, and after a few weeks it felt completely natural, so I never had to force myself.",
+    "cn": "A：你去年在銀行全職工作時，是怎麼完成線上行銷課程的？ B：我養成了每天早上在火車上讀書四十分鐘的【習慣】，幾週後感覺就很自然了，所以我從來不必勉強自己。",
+    "collocation": "make a habit of checking emails early 養成早點查看郵件的習慣"
+   },
+   {
+    "word": "schedule",
+    "pos": "n.",
+    "en_def": "a plan that lists the times when things will happen",
+    "cn_def": "時間表；行程",
+    "sentence": "A: Can we move the meeting with the designers from Thursday afternoon to Friday morning, since the technician is coming to fix the printer on Thursday? B: Let me check my {{BLANK}} first, because I already promised to visit a client in the morning, but I think I can be back at the office by eleven.",
+    "cn": "A：既然週四技術人員要來修印表機，我們可以把跟設計師的會議從週四下午改到週五早上嗎？ B：讓我先查看一下我的【行程】，因為我已經答應早上要去拜訪客戶，但我想我十一點前能回到辦公室。",
+    "collocation": "a busy schedule 忙碌的行程"
+   },
+   {
+    "word": "timetable",
+    "pos": "n.",
+    "en_def": "a list that shows when buses, trains or classes leave or happen",
+    "cn_def": "時刻表",
+    "sentence": "A: How will the visitors from Tokyo get from the airport to our factory in Taichung if nobody can pick them up on Sunday? B: I've printed the high-speed rail {{BLANK}} for them, so they can see when each train leaves, and our driver will meet them at the station when they arrive.",
+    "cn": "A：如果週日沒有人能去接機，來自東京的訪客要怎麼從機場到我們在台中的工廠？ B：我已經幫他們印好了高鐵【時刻表】，讓他們知道每班車什麼時候發車，他們抵達時我們的司機會在車站接他們。",
+    "collocation": "check the train timetable 查看火車時刻表"
+   },
+   {
+    "word": "wake",
+    "forms": "wake – woke – woken",
+    "pos": "v.",
+    "en_def": "to stop sleeping",
+    "cn_def": "醒來；叫醒",
+    "sentence": "A: Why did you miss the conference call with the London office last night, when you promised the manager you would join? B: I set my alarm for two in the morning, but I was so tired that I didn't {{BLANK}} up until six, so I sent an apology email to everyone right away.",
+    "cn": "A：你昨晚為什麼錯過了和倫敦辦公室的電話會議？你明明答應經理會參加。 B：我把鬧鐘設在凌晨兩點，但我太累了，直到六點才【醒來】，所以我立刻寄了一封道歉信給大家。",
+    "collocation": "wake up early 早起"
+   },
+   {
+    "word": "rise",
+    "forms": "rise – rose – risen",
+    "pos": "v.",
+    "en_def": "to get out of bed in the morning; to go up",
+    "cn_def": "起床；上升",
+    "sentence": "A: How does the owner of the bakery near our office manage to have fresh bread on the shelves by six every morning? B: He and his two assistants {{BLANK}} at three o'clock, start the ovens by four, and bake several hundred rolls before the first office workers stop by on their way to the station.",
+    "cn": "A：我們辦公室附近那家麵包店的老闆是怎麼做到每天早上六點前架上就有新鮮麵包的？ B：他和兩位助手凌晨三點就【起床】，四點前開好烤箱，在第一批上班族前往車站途中順道光顧之前，烤好好幾百個麵包捲。",
+    "collocation": "rise early 早起"
+   },
+   {
+    "word": "stretch",
+    "pos": "v.",
+    "en_def": "to make your arms, legs or body long and straight",
+    "cn_def": "伸展",
+    "sentence": "A: Do you have any advice for me, because my back always hurts after I sit at my desk and type reports for eight hours? B: Try to stand up every hour and {{BLANK}} your arms and shoulders for a minute or two, and you might also ask the office manager for a better chair.",
+    "cn": "A：你有什麼建議嗎？因為我坐在辦公桌前打八小時報告後，背總是很痛。 B：試著每小時站起來【伸展】一下手臂和肩膀一兩分鐘，你也可以請辦公室經理換一張比較好的椅子。",
+    "collocation": "stretch your legs 伸展雙腿；起來走動"
+   },
+   {
+    "word": "shower",
+    "pos": "v.",
+    "en_def": "to wash your body while standing under running water",
+    "cn_def": "淋浴；沖澡",
+    "sentence": "A: Is there anywhere in the building where employees can get ready after they cycle to the office in the hot summer weather? B: Yes, there's a small changing room on the basement level, so you can {{BLANK}} and change your clothes there before you go up to your desk on the fifth floor.",
+    "cn": "A：大樓裡有沒有地方可以讓員工在炎熱夏天騎腳踏車上班後整理一下？ B：有，地下室有一間小更衣室，你可以在那裡【沖澡】、換衣服，然後再上五樓的座位。",
+    "collocation": "shower after exercising 運動後沖澡"
+   },
+   {
+    "word": "brush",
+    "pos": "v.",
+    "en_def": "to clean or make something tidy with a brush",
+    "cn_def": "刷；梳",
+    "sentence": "A: Why does the dentist's office send a text message to all its patients a day before their appointments? B: The message reminds them to {{BLANK}} their teeth carefully before they come in, and it also tells them to arrive ten minutes early so that the receptionist can update their insurance information.",
+    "cn": "A：牙醫診所為什麼要在看診前一天傳簡訊給所有病人？ B：簡訊會提醒他們來之前要仔細【刷】牙，也會告訴他們提早十分鐘到，讓櫃檯人員更新保險資料。",
+    "collocation": "brush your teeth twice a day 一天刷牙兩次"
+   },
+   {
+    "word": "dress",
+    "pos": "v.",
+    "en_def": "to put on clothes; to wear a certain kind of clothes",
+    "cn_def": "穿衣；打扮",
+    "sentence": "A: Should I wear a suit to the interview at the law firm tomorrow, or is a shirt and trousers good enough? B: Law firms are usually quite formal, so I would {{BLANK}} in a dark suit and a plain tie, because it's better to look too professional than too casual on your first visit.",
+    "cn": "A：明天去律師事務所面試應該穿西裝，還是穿襯衫和長褲就夠了？ B：律師事務所通常相當正式，所以我會【穿】深色西裝搭配素色領帶，因為第一次拜訪時看起來太專業總比太隨便好。",
+    "collocation": "dress formally for an interview 面試時穿著正式"
+   },
+   {
+    "word": "breakfast",
+    "pos": "n.",
+    "en_def": "the first meal of the day",
+    "cn_def": "早餐",
+    "sentence": "A: What time should the guests come down to the hotel restaurant tomorrow, since the bus to the trade fair leaves at eight? B: {{BLANK}} is served from six-thirty until nine-thirty, but I'd recommend going down by seven, because the restaurant gets very crowded when the tour groups arrive.",
+    "cn": "A：既然明天往商展的巴士八點出發，客人們應該幾點下樓到飯店餐廳？ B：【早餐】供應時間從六點半到九點半，但我建議七點前下去，因為旅行團到了以後餐廳會非常擁擠。",
+    "collocation": "a working breakfast 工作早餐會"
+   },
+   {
+    "word": "commute",
+    "pos": "v.",
+    "en_def": "to travel regularly between your home and your workplace",
+    "cn_def": "通勤",
+    "sentence": "A: Why did Sarah decide to rent an apartment near the office instead of staying with her parents in the suburbs? B: She had to {{BLANK}} for almost two hours each way by bus and train, so she was always exhausted, and now she can walk to work in ten minutes.",
+    "cn": "A：莎拉為什麼決定在辦公室附近租公寓，而不繼續和父母住在郊區？ B：她以前單程要搭公車和火車【通勤】將近兩小時，所以總是筋疲力盡，現在她走路十分鐘就能到公司。",
+    "collocation": "commute to work by train 搭火車通勤上班"
+   },
+   {
+    "word": "work",
+    "pos": "v.",
+    "en_def": "to do a job, usually to earn money",
+    "cn_def": "工作",
+    "sentence": "A: Are you going to the company barbecue on Saturday afternoon, or do you have other plans for the long weekend? B: Unfortunately, I have to {{BLANK}} at the airport counter until five, because two of my colleagues are sick, but I'll try to join you all for dinner later.",
+    "cn": "A：你週六下午會參加公司烤肉嗎？還是長週末有其他計畫？ B：很可惜，我得在機場櫃台【工作】到五點，因為我有兩位同事生病了，但我晚點會試著和你們一起吃晚餐。",
+    "collocation": "work overtime 加班"
+   },
+   {
+    "word": "study",
+    "pos": "v.",
+    "en_def": "to spend time learning about a subject",
+    "cn_def": "讀書；學習",
+    "sentence": "A: How are you preparing for the accounting certificate exam next month while you're also training the new interns? B: I {{BLANK}} for an hour every evening after dinner, and on Saturdays I go to the library because it's much quieter than my apartment, where the neighbors play loud music.",
+    "cn": "A：你一邊訓練新實習生，一邊要怎麼準備下個月的會計證照考試？ B：我每天晚餐後【讀書】一小時，週六則去圖書館，因為那裡比我的公寓安靜多了，我的鄰居會大聲放音樂。",
+    "collocation": "study for an exam 準備考試"
+   },
+   {
+    "word": "task",
+    "pos": "n.",
+    "en_def": "a piece of work that must be done",
+    "cn_def": "任務；工作",
+    "sentence": "A: You look really busy today, so is there anything I can do to help you before the sales report is due at five? B: Thanks, that would be great, because the most boring {{BLANK}} is checking all the numbers in the spreadsheet, so could you compare them with last month's figures?",
+    "cn": "A：你今天看起來真的很忙，在業績報告五點截止前，有什麼我能幫忙的嗎？ B：謝謝，那太好了，因為最無聊的【工作】是核對試算表中的所有數字，你可以幫我和上個月的數據做比較嗎？",
+    "collocation": "complete a task on time 準時完成任務"
+   },
+   {
+    "word": "meeting",
+    "pos": "n.",
+    "en_def": "an event where people come together to discuss something",
+    "cn_def": "會議",
+    "sentence": "A: Why are so many people waiting outside the conference room on the third floor this morning? B: The weekly team {{BLANK}} is running late, because the director wanted to discuss the new budget in detail, so the marketing staff can't start their presentation until the room is free.",
+    "cn": "A：今天早上三樓會議室外面為什麼有那麼多人在等？ B：每週的團隊【會議】延誤了，因為主管想詳細討論新預算，所以行銷人員要等會議室空出來才能開始簡報。",
+    "collocation": "hold a weekly meeting 舉行每週會議"
+   },
+   {
+    "word": "lunch",
+    "pos": "n.",
+    "en_def": "the meal you eat in the middle of the day",
+    "cn_def": "午餐",
+    "sentence": "A: Would you like to try the new Thai restaurant across the street today, or are you too busy with the client project? B: I'd love to, but I only have thirty minutes for {{BLANK}} because the client is calling at one, so let's order takeout and eat in the staff room instead.",
+    "cn": "A：你今天想試試對街新開的泰式餐廳嗎？還是你忙著客戶的專案？ B：我很想去，但我只有三十分鐘吃【午餐】，因為客戶一點會打電話來，所以我們改成叫外帶，在員工休息室吃吧。",
+    "collocation": "have a quick lunch 匆匆吃個午餐"
+   },
+   {
+    "word": "break",
+    "pos": "n.",
+    "en_def": "a short time when you stop working to rest",
+    "cn_def": "休息時間",
+    "sentence": "A: How long have the factory workers been on the production line this morning without stopping? B: They started at seven, so it's almost three hours now, and I think we should give everyone a fifteen-minute {{BLANK}} to drink some water and sit down before the next shipment arrives.",
+    "cn": "A：工廠工人今天早上在生產線上連續工作多久了？ B：他們七點開始，所以現在快三個小時了，我想我們應該讓大家有十五分鐘的【休息時間】喝點水、坐一下，再迎接下一批貨。",
+    "collocation": "take a coffee break 喝咖啡休息一下"
+   },
+   {
+    "word": "exercise",
+    "pos": "v.",
+    "en_def": "to move your body to stay healthy and strong",
+    "cn_def": "運動",
+    "sentence": "A: How do you stay so energetic during the busy tax season, when everyone else in the office looks tired? B: I {{BLANK}} at the gym near the station for half an hour before I come in each morning, and I also try to go to bed before eleven, even when there's a lot to do.",
+    "cn": "A：在忙碌的報稅季，辦公室其他人都看起來很累，你怎麼還能保持那麼有活力？ B：我每天早上進公司前會在車站附近的健身房【運動】半小時，而且即使事情很多，我也盡量十一點前上床睡覺。",
+    "collocation": "exercise regularly 規律運動"
+   },
+   {
+    "word": "relax",
+    "pos": "v.",
+    "en_def": "to rest and become calm",
+    "cn_def": "放鬆",
+    "sentence": "A: What are you planning to do after you finish the big product launch next Friday? B: I've booked two nights at a quiet hot spring hotel in the mountains, so I can turn off my phone and {{BLANK}} for a while, because I've been working late every night this month.",
+    "cn": "A：下週五完成大型產品發表會後，你打算做什麼？ B：我在山上一間安靜的溫泉旅館訂了兩晚，這樣我可以關掉手機好好【放鬆】一下，因為這個月我每天晚上都工作到很晚。",
+    "collocation": "relax after work 下班後放鬆"
+   },
+   {
+    "word": "hobby",
+    "pos": "n.",
+    "en_def": "an activity you do for fun in your free time",
+    "cn_def": "嗜好",
+    "sentence": "A: What do you usually do on weekends to forget about the pressure of your job at the bank? B: My favorite {{BLANK}} is gardening, so I spend most Saturday mornings growing tomatoes and herbs on my balcony, and sometimes I bring the extra vegetables to the office for my colleagues.",
+    "cn": "A：你週末通常做什麼來忘掉銀行工作的壓力？ B：我最喜歡的【嗜好】是園藝，所以大多數週六早上我都在陽台種番茄和香草，有時候會把多的蔬菜帶到辦公室給同事。",
+    "collocation": "take up a new hobby 培養新嗜好"
+   },
+   {
+    "word": "dinner",
+    "pos": "n.",
+    "en_def": "the main meal of the evening",
+    "cn_def": "晚餐；晚宴",
+    "sentence": "A: Has anyone booked a restaurant for the visitors from our partner company in Singapore yet? B: Yes, I reserved a private room at the seafood restaurant by the harbor, and the general manager will host the {{BLANK}} at seven, right after the factory tour finishes.",
+    "cn": "A：有人已經幫新加坡合作公司的訪客訂好餐廳了嗎？ B：有，我在港邊的海鮮餐廳訂了包廂，工廠參觀結束後，總經理七點會主持【晚宴】。",
+    "collocation": "a business dinner 商務晚宴"
+   },
+   {
+    "word": "family",
+    "pos": "n.",
+    "en_def": "a group of people who are related, such as parents and children",
+    "cn_def": "家人；家庭",
+    "sentence": "A: Why did Mr. Chen turn down the promotion to the Shanghai office, even though the salary was much higher? B: He said he wanted to spend more time with his {{BLANK}}, because his children are still in elementary school and his wife has just started a new job in Taipei.",
+    "cn": "A：陳先生為什麼拒絕調到上海辦公室的升遷機會，即使薪水高很多？ B：他說他想多花時間陪【家人】，因為他的孩子還在讀小學，而他太太剛在台北開始新工作。",
+    "collocation": "spend time with your family 陪伴家人"
+   },
+   {
+    "word": "read",
+    "forms": "read – read – read",
+    "pos": "v.",
+    "en_def": "to look at and understand written words",
+    "cn_def": "閱讀",
+    "sentence": "A: What do you usually do on the long train ride to the head office in Kaohsiung every Monday morning? B: I like to {{BLANK}} business magazines and industry news on my tablet, because it helps me learn about our competitors, and I sometimes find useful ideas for the weekly sales meeting.",
+    "cn": "A：每週一早上搭長途火車到高雄總公司，你通常都做什麼？ B：我喜歡在平板上【閱讀】商業雜誌和產業新聞，因為這能幫助我了解競爭對手，有時候也能找到每週業務會議用得上的好點子。",
+    "collocation": "read the instructions carefully 仔細閱讀說明"
+   },
+   {
+    "word": "watch",
+    "pos": "v.",
+    "en_def": "to look at something for a period of time",
+    "cn_def": "觀看",
+    "sentence": "A: How did the new employees learn to use the online ordering system so quickly last week? B: The trainer asked them to {{BLANK}} a short video that shows every step, and then they practiced with sample orders for an hour before they started taking real calls from customers.",
+    "cn": "A：新員工上週怎麼這麼快就學會使用線上訂購系統？ B：訓練員請他們【觀看】一段示範每個步驟的短片，然後他們用範例訂單練習了一小時，才開始接聽客戶的真實來電。",
+    "collocation": "watch a training video 觀看訓練影片"
+   },
+   {
+    "word": "plan",
+    "pos": "v.",
+    "en_def": "to decide in detail what you will do",
+    "cn_def": "計劃；規劃",
+    "sentence": "A: How do you manage to finish so many projects every week without ever staying late at the office? B: Every Monday morning, I {{BLANK}} my whole week in a notebook, putting the most important jobs first, so I always know exactly what to do next and rarely waste any time.",
+    "cn": "A：你怎麼能每週完成那麼多專案，卻從來不用在辦公室待到很晚？ B：每週一早上，我會在筆記本上【規劃】一整週，把最重要的工作排在最前面，所以我總是清楚知道下一步要做什麼，很少浪費時間。",
+    "collocation": "plan ahead 事先計劃"
+   },
+   {
+    "word": "prepare",
+    "pos": "v.",
+    "en_def": "to make something ready",
+    "cn_def": "準備",
+    "sentence": "A: What does the restaurant staff need to do before the doors open for the busy Sunday lunch crowd? B: The cooks {{BLANK}} the vegetables and sauces by ten, while the servers set the tables and check the reservation list, so that everything runs smoothly when the first guests arrive.",
+    "cn": "A：在週日繁忙的午餐人潮開門前，餐廳員工需要做哪些事？ B：廚師們十點前要【準備】好蔬菜和醬汁，服務生則擺設餐桌並核對訂位名單，好讓第一批客人到達時一切順利。",
+    "collocation": "prepare a report 準備報告"
+   },
+   {
+    "word": "organize",
+    "pos": "v.",
+    "en_def": "to arrange things in a clear order",
+    "cn_def": "整理；安排",
+    "sentence": "A: Why is the shared drive so hard to use, when I need to find last year's contracts quickly? B: Nobody has had time to {{BLANK}} the files properly, so documents are saved in random folders, but the IT team promised to sort them by year and client next week.",
+    "cn": "A：當我需要快速找到去年的合約時，共用硬碟為什麼這麼難用？ B：沒有人有時間好好【整理】檔案，所以文件被存在隨便的資料夾裡，不過資訊部門答應下週會按年份和客戶分類。",
+    "collocation": "organize your desk 整理桌面"
+   },
+   {
+    "word": "clean",
+    "pos": "v.",
+    "en_def": "to remove dirt from something",
+    "cn_def": "打掃；清潔",
+    "sentence": "A: Who is responsible for the kitchen on our floor, because the sink is full of dirty cups again this afternoon? B: Each department takes turns, and this week it's the design team's job to {{BLANK}} it, so I'll send them a friendly reminder before they leave tonight.",
+    "cn": "A：我們這層樓的茶水間由誰負責？今天下午水槽裡又堆滿了髒杯子。 B：各部門輪流負責，這週輪到設計團隊【打掃】，所以我會在他們今晚下班前友善地提醒一下。",
+    "collocation": "clean the office kitchen 打掃辦公室茶水間"
+   },
+   {
+    "word": "cook",
+    "pos": "v.",
+    "en_def": "to make food by heating it",
+    "cn_def": "烹煮；做飯",
+    "sentence": "A: Do you usually eat out after work, or do you make your own meals during the week to save money? B: I {{BLANK}} a big pot of soup and some rice on Sunday evenings, and then I bring a box to the office every day, which is healthier and much cheaper than buying lunch.",
+    "cn": "A：你下班後通常外食，還是平日自己煮飯省錢？ B：我每週日晚上會【煮】一大鍋湯和一些飯，然後每天帶一盒到辦公室，這比買午餐健康又便宜多了。",
+    "collocation": "cook dinner at home 在家煮晚餐"
+   },
+   {
+    "word": "rest",
+    "pos": "v.",
+    "en_def": "to stop working and relax or sleep",
+    "cn_def": "休息",
+    "sentence": "A: The doctor said you should stay home for a few days, so why are you answering emails from your bed? B: I know I should {{BLANK}}, but the client needs the price list by tomorrow, so I'll send it this morning and then turn off my laptop until Thursday.",
+    "cn": "A：醫生說你應該在家待幾天，你為什麼還躺在床上回電子郵件？ B：我知道我應該【休息】，但客戶明天前需要價目表，所以我今天早上寄出後，就會把筆電關掉直到週四。",
+    "collocation": "rest at home 在家休息"
+   },
+   {
+    "word": "reflect",
+    "pos": "v.",
+    "en_def": "to think carefully about something",
+    "cn_def": "反思；回顧",
+    "sentence": "A: Why do you write in a notebook for ten minutes at the end of every working day? B: It helps me {{BLANK}} on what went well and what didn't, so I can learn from my mistakes and make a better plan for the next morning before I go home.",
+    "cn": "A：你為什麼每個工作日結束時都要在筆記本上寫十分鐘？ B：這能幫助我【反思】哪些事情做得好、哪些沒做好，讓我從錯誤中學習，並在回家前為隔天早上擬定更好的計畫。",
+    "collocation": "reflect on your day 回顧反思一天"
+   },
+   {
+    "word": "sleep",
+    "forms": "sleep – slept – slept",
+    "pos": "v.",
+    "en_def": "to rest with your eyes closed and your mind not awake",
+    "cn_def": "睡覺",
+    "sentence": "A: You look much more awake than last week, so did you finally fix the noise problem in your apartment? B: Yes, my neighbors moved out, so now I can {{BLANK}} for seven or eight hours without waking up, and I can concentrate much better during long meetings at work.",
+    "cn": "A：你看起來比上週精神多了，你終於解決公寓的噪音問題了嗎？ B：是的，我的鄰居搬走了，所以現在我可以【睡】七、八個小時都不會醒來，在公司開長時間的會議時也能更專心。",
+    "collocation": "sleep well 睡得好"
+   },
+   {
+    "word": "bedtime",
+    "pos": "n.",
+    "en_def": "the time when you usually go to bed",
+    "cn_def": "就寢時間",
+    "sentence": "A: How do you stop yourself from checking work emails late at night, since your boss often sends messages after ten? B: I put my phone in the living room an hour before {{BLANK}}, and I read a novel instead, so I fall asleep more easily and feel fresh the next morning.",
+    "cn": "A：既然你老闆常在十點後傳訊息，你怎麼克制自己深夜不查看工作郵件？ B：我在【就寢時間】前一小時把手機放在客廳，改讀一本小說，這樣我比較容易入睡，隔天早上也覺得精神飽滿。",
+    "collocation": "a regular bedtime 固定的就寢時間"
+   },
+   {
+    "word": "balance",
+    "pos": "v.",
+    "en_def": "to give the right amount of time or attention to different things",
+    "cn_def": "平衡；兼顧",
+    "sentence": "A: How does your manager manage to raise three young children while she leads such a large sales team? B: She works from home on Wednesdays and never takes calls after seven, so she can {{BLANK}} her job and her home life, and she encourages all of us to do the same.",
+    "cn": "A：你的經理帶領這麼大的業務團隊，怎麼還能養育三個年幼的孩子？ B：她每週三在家工作，七點後從不接電話，所以能【兼顧】工作和家庭生活，她也鼓勵我們所有人這樣做。",
+    "collocation": "balance work and family 兼顧工作與家庭"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Mr. Lee follows the same _____ every morning. He checks his emails, makes coffee, and then calls the factory manager.",
+    "options": [
+     "routine",
+     "hobby",
+     "task",
+     "bedtime"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Checking your phone during meetings is a bad _____. Many managers think it shows a lack of respect for the speaker.",
+    "options": [
+     "timetable",
+     "habit",
+     "break",
+     "breakfast"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The director has a very busy _____ this week. She can only meet with you on Thursday at three o'clock.",
+    "options": [
+     "hobby",
+     "habit",
+     "schedule",
+     "breakfast"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The bus _____ changed on the first of the month. Buses to the industrial park now leave every twenty minutes.",
+    "options": [
+     "routine",
+     "task",
+     "hobby",
+     "timetable"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Please _____ me up when the plane lands in Singapore. I want to sleep for the whole flight.",
+    "options": [
+     "rise",
+     "wake",
+     "rest",
+     "relax"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Farmers in this valley usually _____ before five o'clock. They want to finish the hardest jobs before the afternoon heat.",
+    "options": [
+     "relax",
+     "reflect",
+     "watch",
+     "rise"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "After the long flight, the passengers stood up to _____ their legs. Some walked slowly up and down the aisle.",
+    "options": [
+     "stretch",
+     "organize",
+     "balance",
+     "brush"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Many employees _____ to the city center by subway every day. The company gives them a monthly transport allowance.",
+    "options": [
+     "reflect",
+     "sleep",
+     "commute",
+     "exercise"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Nurses at this hospital often _____ night shifts. They receive extra pay for every hour after ten o'clock.",
+    "options": [
+     "cook",
+     "read",
+     "watch",
+     "work"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Several staff members _____ Japanese after work at a language school. The company pays half of their course fees.",
+    "options": [
+     "study",
+     "commute",
+     "rest",
+     "organize"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Writing the monthly sales report is a difficult _____. It usually takes Linda two full days to finish it.",
+    "options": [
+     "bedtime",
+     "hobby",
+     "task",
+     "breakfast"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The _____ with the new supplier has been moved to Friday. Please bring the price lists and the product samples.",
+    "options": [
+     "routine",
+     "meeting",
+     "habit",
+     "bedtime"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The workshop will have a short _____ at ten-thirty. Coffee and snacks will be served in the hallway.",
+    "options": [
+     "schedule",
+     "habit",
+     "break",
+     "task"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Doctors advise office workers to _____ for at least thirty minutes a day. Walking or swimming are good choices.",
+    "options": [
+     "commute",
+     "exercise",
+     "reflect",
+     "dress"
+    ],
+    "answer": 1,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The hotel spa is a perfect place to _____ after a long day of meetings. Guests can enjoy a massage or a hot bath.",
+    "options": [
+     "organize",
+     "plan",
+     "clean",
+     "relax"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Photography started as a _____ for Mr. Wu. Now he sells his pictures to travel magazines and earns extra money.",
+    "options": [
+     "hobby",
+     "timetable",
+     "schedule",
+     "meeting"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Please _____ the contract carefully before you sign it. If anything is unclear, call our legal department.",
+    "options": [
+     "cook",
+     "read",
+     "sleep",
+     "rise"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Visitors can _____ the workers make chocolate through a large glass window. The factory tour lasts about forty minutes.",
+    "options": [
+     "plan",
+     "commute",
+     "watch",
+     "rest"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "We need to _____ the company trip carefully this year. Last year the bus was too small for everyone.",
+    "options": [
+     "plan",
+     "stretch",
+     "sleep",
+     "wake"
+    ],
+    "answer": 0,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The assistant will _____ the slides for Monday's presentation. She needs the latest sales figures by Friday afternoon.",
+    "options": [
+     "rest",
+     "sleep",
+     "relax",
+     "prepare"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Ms. Lin was asked to _____ the annual staff party. She has already booked a hotel ballroom and a band.",
+    "options": [
+     "organize",
+     "rise",
+     "commute",
+     "reflect"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "A team comes every evening to _____ the offices. They empty the trash cans and vacuum the carpets.",
+    "options": [
+     "study",
+     "wake",
+     "reflect",
+     "clean"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The chef will _____ a special meal for the visiting clients. It includes local fish and fresh vegetables.",
+    "options": [
+     "commute",
+     "cook",
+     "stretch",
+     "rise"
+    ],
+    "answer": 1,
+    "vocabIndex": 29
+   },
+   {
+    "q": "You have worked twelve hours without stopping. Please go home and _____ before tomorrow's long meeting.",
+    "options": [
+     "brush",
+     "organize",
+     "rest",
+     "watch"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+   },
+   {
+    "q": "After the project ended, the team met to _____ on what they had learned. They wrote down ideas for next time.",
+    "options": [
+     "wake",
+     "cook",
+     "dress",
+     "reflect"
+    ],
+    "answer": 3,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Hotel guests complained that they could not _____ because of the noise from the street. The manager moved them to quieter rooms.",
+    "options": [
+     "organize",
+     "prepare",
+     "sleep",
+     "plan"
+    ],
+    "answer": 2,
+    "vocabIndex": 32
+   },
+   {
+    "q": "It is not easy to _____ a full-time job and evening classes. Kevin often studies on the train.",
+    "options": [
+     "balance",
+     "rise",
+     "wake",
+     "rest"
+    ],
+    "answer": 0,
+    "vocabIndex": 34
+   },
+   {
+    "q": "Employees should _____ neatly when they meet clients. Jeans and T-shirts are only allowed on Fridays.",
+    "options": [
+     "commute",
+     "dress",
+     "reflect",
+     "rise"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The hotel price includes a free _____ buffet. It is served in the lobby restaurant from six to ten.",
+    "options": [
+     "bedtime",
+     "routine",
+     "breakfast",
+     "task"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "My son's _____ is nine o'clock on school nights. On weekends, he is allowed to stay up a little later.",
+    "options": [
+     "bedtime",
+     "task",
+     "meeting",
+     "hobby"
+    ],
+    "answer": 0,
+    "vocabIndex": 33
+   }
+  ]
+ },
+ "96": {
+  "theme": "Damage 損壞",
+  "source": "https://www.examword.com/group-topic/damage",
+  "VOCAB": [
+   {
+    "word": "harm",
+    "pos": "n.",
+    "en_def": "damage or hurt caused to someone or something",
+    "cn_def": "傷害；損害",
+    "sentence": "A: Why did the factory stop using the cheaper cleaning chemical that the new supplier sent us last spring? B: The safety team found that it could cause serious {{BLANK}} to workers' skin and eyes, so the manager decided to return all the bottles and go back to the old product.",
+    "cn": "A：為什麼工廠停止使用新供應商去年春天送來的那款較便宜的清潔化學品？ B：安全小組發現它可能對工人的皮膚和眼睛造成嚴重的【傷害】，所以經理決定退回所有瓶子，改回使用舊產品。",
+    "collocation": "cause serious harm to the environment 對環境造成嚴重傷害"
+   },
+   {
+    "word": "destruction",
+    "pos": "n.",
+    "en_def": "the act of damaging something so badly that it no longer exists or works",
+    "cn_def": "破壞；毀滅",
+    "sentence": "A: Why is the insurance company sending three more inspectors to the coast this week instead of just one? B: The storm last weekend caused the {{BLANK}} of more than two hundred homes and several hotels along the beach, so they need extra staff to check every claim quickly.",
+    "cn": "A：為什麼保險公司這週要再派三名檢查員到海岸，而不是只派一名？ B：上週末的暴風雨造成海灘沿線兩百多棟房屋和數間飯店【毀壞】，所以他們需要額外人手快速審核每一件理賠。",
+    "collocation": "the destruction of the rainforest 熱帶雨林的破壞"
+   },
+   {
+    "word": "ruin",
+    "pos": "v.",
+    "en_def": "to spoil or damage something completely",
+    "cn_def": "毀掉；破壞",
+    "sentence": "A: Should we hold the company picnic in the park on Saturday, or would it be safer to book the hotel ballroom instead? B: Let's book the ballroom, because the weather report says heavy rain is coming, and I don't want a storm to {{BLANK}} the whole day for our staff and their families.",
+    "cn": "A：我們週六要在公園舉辦公司野餐，還是改訂飯店宴會廳比較保險？ B：訂宴會廳吧，因為氣象報告說會下大雨，我不希望一場暴風雨【毀掉】員工和他們家人的一整天。",
+    "collocation": "ruin the company's reputation 毀掉公司的名聲"
+   },
+   {
+    "word": "loss",
+    "pos": "n.",
+    "en_def": "the fact of losing something, or the money or value you lose",
+    "cn_def": "損失；喪失",
+    "sentence": "A: How much did the fire in the storage room last month cost the bookstore, and was everything covered by insurance? B: The owner said the total {{BLANK}} was about fifty thousand dollars, mostly because of burned books and smoke, but the insurance company will pay for nearly all of it.",
+    "cn": "A：上個月儲藏室的火災讓書店損失多少？所有東西都有保險理賠嗎？ B：老闆說總【損失】大約五萬美元，主要是燒毀的書和煙害，但保險公司幾乎會全額賠償。",
+    "collocation": "suffer a heavy financial loss 蒙受慘重的財務損失"
+   },
+   {
+    "word": "break",
+    "forms": "break – broke – broken",
+    "pos": "v.",
+    "en_def": "to damage something so that it separates into pieces or stops working",
+    "cn_def": "打破；弄壞",
+    "sentence": "A: Why are the movers wrapping every glass and plate in so much paper before they put them into the boxes? B: The road to our new office is very bumpy, and they don't want anything to {{BLANK}} during the trip, because the company would have to pay for any damage.",
+    "cn": "A：搬家工人為什麼在把每個玻璃杯和盤子放進箱子前都用這麼多紙包起來？ B：通往我們新辦公室的路很顛簸，他們不希望任何東西在途中【破掉】，因為任何損壞公司都得賠償。",
+    "collocation": "break a window by accident 不小心打破窗戶"
+   },
+   {
+    "word": "crack",
+    "pos": "n.",
+    "en_def": "a thin line on the surface of something where it has started to break",
+    "cn_def": "裂縫；裂痕",
+    "sentence": "A: Why did the building manager close the north stairway this morning without telling any of the tenants first? B: A cleaner noticed a long {{BLANK}} in the wall next to the third-floor landing, so the manager wants an engineer to check that the stairs are still safe to use.",
+    "cn": "A：大樓經理今天早上為什麼沒先通知任何住戶就封閉了北側樓梯？ B：一位清潔人員發現三樓平台旁的牆上有一道長長的【裂縫】，所以經理想請工程師檢查樓梯是否仍能安全使用。",
+    "collocation": "a crack in the windshield 擋風玻璃上的裂痕"
+   },
+   {
+    "word": "shatter",
+    "pos": "v.",
+    "en_def": "to break suddenly into many small pieces",
+    "cn_def": "粉碎；碎裂",
+    "sentence": "A: Why does the new display case in the jewelry store cost so much more than the old one we had before? B: It is made of special safety glass that will not {{BLANK}} even if someone hits it with a hammer, so our expensive rings and watches are much better protected at night.",
+    "cn": "A：珠寶店新的展示櫃為什麼比我們以前那個貴這麼多？ B：它是用特殊的安全玻璃做的，即使有人用鐵鎚敲也不會【碎裂】，所以我們昂貴的戒指和手錶在夜間能受到更好的保護。",
+    "collocation": "the glass shattered into pieces 玻璃碎成一片片"
+   },
+   {
+    "word": "scratch",
+    "pos": "n.",
+    "en_def": "a thin mark or cut on a surface",
+    "cn_def": "刮痕；擦痕",
+    "sentence": "A: Why did the customer return the laptop she bought from our online shop only two days after it arrived? B: She said there was a deep {{BLANK}} across the screen when she opened the box, so we apologized, sent her a new one, and asked the warehouse to pack more carefully.",
+    "cn": "A：那位顧客為什麼在筆電送達後才兩天就把在我們網路商店買的電腦退回？ B：她說打開箱子時螢幕上有一道很深的【刮痕】，所以我們向她道歉、寄了一台新的給她，並請倉庫包裝時更小心。",
+    "collocation": "a small scratch on the car door 車門上的小刮痕"
+   },
+   {
+    "word": "dent",
+    "pos": "n.",
+    "en_def": "a hollow place in a hard surface where something has hit it",
+    "cn_def": "凹痕",
+    "sentence": "A: Why is the sales manager so angry about the company car that came back from the repair shop yesterday afternoon? B: Someone hit it in the parking lot while it was there, and now there is a large {{BLANK}} in the back door that the shop refuses to fix for free.",
+    "cn": "A：業務經理為什麼對昨天下午從修車廠回來的公司車那麼生氣？ B：車子停在那裡的時候有人在停車場撞到它，現在後車門上有一個很大的【凹痕】，而修車廠拒絕免費修理。",
+    "collocation": "a dent in the car's bumper 汽車保險桿上的凹痕"
+   },
+   {
+    "word": "tear",
+    "forms": "tear – tore – torn",
+    "pos": "v.",
+    "en_def": "to pull something apart so that it splits, or to become split",
+    "cn_def": "撕破；扯破",
+    "sentence": "A: Why are we switching to a new company for the shopping bags we give customers at the checkout counter? B: The old paper bags are so thin that they often {{BLANK}} when people put heavy bottles inside, and many shoppers have complained about dropping their groceries in the parking lot.",
+    "cn": "A：我們為什麼要換一家公司來提供結帳櫃檯給顧客的購物袋？ B：舊的紙袋太薄了，人們放重的瓶子進去時常常會【破掉】，很多購物者抱怨在停車場把買的東西掉了一地。",
+    "collocation": "tear a hole in the bag 把袋子撕破一個洞"
+   },
+   {
+    "word": "rip",
+    "pos": "v.",
+    "en_def": "to tear something quickly and roughly",
+    "cn_def": "撕裂；扯開",
+    "sentence": "A: Why do the warehouse workers have to wear thick gloves when they open the boxes from the new supplier? B: The boxes are sealed with very strong plastic straps, and if you try to {{BLANK}} them open with your bare hands, you can easily cut your fingers on the sharp edges.",
+    "cn": "A：倉庫工人打開新供應商送來的箱子時為什麼要戴厚手套？ B：箱子是用很堅固的塑膠帶封起來的，如果你想徒手把它們【撕開】，很容易被銳利的邊緣割傷手指。",
+    "collocation": "rip open an envelope 撕開信封"
+   },
+   {
+    "word": "collapse",
+    "pos": "v.",
+    "en_def": "to fall down suddenly because of weakness or damage",
+    "cn_def": "倒塌；崩塌",
+    "sentence": "A: Why has the city council decided to close the old wooden bridge near the train station to all traffic? B: Engineers found that its main supports are badly damaged by water, and they warned that the bridge could {{BLANK}} if heavy trucks keep driving across it every day.",
+    "cn": "A：市議會為什麼決定將火車站附近的舊木橋全面禁止通行？ B：工程師發現它的主要支柱被水嚴重損壞，並警告如果重型卡車每天繼續通過，這座橋可能會【倒塌】。",
+    "collocation": "the roof may collapse under heavy snow 屋頂可能在大雪重壓下倒塌"
+   },
+   {
+    "word": "burn",
+    "forms": "burn – burned/burnt – burned/burnt",
+    "pos": "v.",
+    "en_def": "to damage or destroy something with fire or heat",
+    "cn_def": "燒毀；燒傷",
+    "sentence": "A: Why did the hotel kitchen staff have to attend an extra safety training session this afternoon? B: Last week a cook left a pan of oil on the stove for too long, and the manager wants everyone to know how to stop a small fire before it can {{BLANK}} down the whole kitchen.",
+    "cn": "A：飯店廚房員工今天下午為什麼得參加額外的安全訓練課程？ B：上週有位廚師把一鍋油放在爐子上太久，經理希望大家都知道如何在小火【燒毀】整個廚房之前把它撲滅。",
+    "collocation": "burn down a building 把建築物燒毀"
+   },
+   {
+    "word": "flood",
+    "pos": "n.",
+    "en_def": "a large amount of water that covers an area that is usually dry",
+    "cn_def": "水災；洪水",
+    "sentence": "A: Why are all the computers and printers in the basement office being moved up to the second floor today? B: Heavy rain is expected all weekend, and the last time there was a {{BLANK}} in this part of the city, the basement filled with water and we lost a lot of equipment.",
+    "cn": "A：地下室辦公室所有的電腦和印表機今天為什麼都要搬到二樓？ B：預計整個週末都會下大雨，上次這一區發生【水災】時，地下室整個淹水，我們損失了很多設備。",
+    "collocation": "flood damage to the ground floor 一樓的水災損害"
+   },
+   {
+    "word": "corrode",
+    "pos": "v.",
+    "en_def": "to slowly damage metal by a chemical action, such as rust",
+    "cn_def": "腐蝕；侵蝕",
+    "sentence": "A: Why does the maintenance team check the metal pipes on the roof of the seaside hotel every single month? B: The salty air from the ocean can {{BLANK}} the steel much faster than in the city, so they look for rust early and replace any weak pipes before they start leaking.",
+    "cn": "A：維修團隊為什麼每個月都要檢查海邊飯店屋頂上的金屬管線？ B：來自海洋的鹹空氣【腐蝕】鋼材的速度比在城市裡快得多，所以他們會及早檢查有沒有生鏽，並在管線開始漏水前更換脆弱的部分。",
+    "collocation": "salt water can corrode metal 鹽水會腐蝕金屬"
+   },
+   {
+    "word": "wear",
+    "forms": "wear – wore – worn",
+    "pos": "v.",
+    "en_def": "to become thinner or damaged because of long use",
+    "cn_def": "磨損；耗損",
+    "sentence": "A: Why did the office manager choose such an expensive carpet for the main hallway instead of a cheaper one? B: Hundreds of employees and visitors walk through that hallway every day, and a cheap carpet would quickly {{BLANK}} out and look old, so this one will save money in the long run.",
+    "cn": "A：辦公室經理為什麼為主要走廊選了這麼貴的地毯，而不是便宜一點的？ B：每天有數百名員工和訪客走過那條走廊，便宜的地毯很快就會【磨損】變舊，所以長期來看這款反而比較省錢。",
+    "collocation": "wear out quickly 很快就磨損"
+   },
+   {
+    "word": "erode",
+    "pos": "v.",
+    "en_def": "to slowly damage or remove something, especially land, by water or wind",
+    "cn_def": "侵蝕；逐漸削弱",
+    "sentence": "A: Why is the beach resort spending so much money on a new stone wall along the shore this year? B: Every winter, strong waves {{BLANK}} more of the sand in front of the hotel, and the owners worry that the swimming pool and the restaurant will be in danger within a few years.",
+    "cn": "A：海灘度假村今年為什麼花這麼多錢在海岸沿線蓋新的石牆？ B：每年冬天，強浪都會【侵蝕】飯店前更多的沙灘，業主擔心幾年內游泳池和餐廳就會有危險。",
+    "collocation": "erode the coastline 侵蝕海岸線"
+   },
+   {
+    "word": "decay",
+    "pos": "v.",
+    "en_def": "to become rotten or slowly break down over time",
+    "cn_def": "腐爛；衰敗",
+    "sentence": "A: Why did the restaurant throw away so many boxes of fruit and vegetables after the long holiday weekend? B: The refrigerator stopped working on Saturday while the kitchen was closed, and by Tuesday morning much of the fresh food had started to {{BLANK}}, so the chef said it was not safe to serve.",
+    "cn": "A：餐廳在連假週末過後為什麼丟掉了那麼多箱蔬果？ B：週六廚房休息時冰箱故障了，到了週二早上很多新鮮食物已經開始【腐爛】，所以主廚說不能安全地端給客人。",
+    "collocation": "the old wooden fence began to decay 舊木籬笆開始腐朽"
+   },
+   {
+    "word": "injure",
+    "pos": "v.",
+    "en_def": "to hurt a person or animal",
+    "cn_def": "使受傷；傷害",
+    "sentence": "A: Why does the warehouse supervisor insist that everyone wear a hard hat, even when they are only walking through? B: Boxes sometimes fall from the high shelves without warning, and a heavy one could seriously {{BLANK}} someone's head, so the rule protects both the workers and the company.",
+    "cn": "A：倉庫主管為什麼堅持每個人都要戴安全帽，即使只是路過也一樣？ B：箱子有時會毫無預警地從高架上掉下來，重的箱子可能會嚴重【傷到】人的頭部，所以這條規定同時保護了員工和公司。",
+    "collocation": "injure his back while lifting boxes 搬箱子時傷到背"
+   },
+   {
+    "word": "destroy",
+    "pos": "v.",
+    "en_def": "to damage something so badly that it cannot be used or repaired",
+    "cn_def": "摧毀；毀壞",
+    "sentence": "A: Why does the law firm keep paper copies of all its important contracts in a bank safe across town? B: If a fire or an earthquake ever hit our office building, it could {{BLANK}} every document we have here, so the partners want a second copy stored somewhere completely safe.",
+    "cn": "A：律師事務所為什麼把所有重要合約的紙本存放在城另一頭的銀行保險箱裡？ B：如果我們的辦公大樓遇到火災或地震，可能會【毀掉】我們這裡所有的文件，所以合夥人希望在完全安全的地方保存第二份副本。",
+    "collocation": "destroy important evidence 銷毀重要證據"
+   },
+   {
+    "word": "impair",
+    "pos": "v.",
+    "en_def": "to make something weaker or less good than before",
+    "cn_def": "損害；削弱",
+    "sentence": "A: Why did the airline change its rules so that pilots must rest for at least twelve hours between long flights? B: Studies showed that a lack of sleep can {{BLANK}} a pilot's judgment and reaction time, and the company does not want to take any risks with passenger safety.",
+    "cn": "A：航空公司為什麼改變規定，要求機師在長途航班之間至少休息十二小時？ B：研究顯示睡眠不足會【損害】機師的判斷力和反應時間，公司不想在乘客安全上冒任何風險。",
+    "collocation": "impair your ability to drive 削弱你的駕駛能力"
+   },
+   {
+    "word": "defect",
+    "pos": "n.",
+    "en_def": "a fault or problem in something that makes it not work correctly",
+    "cn_def": "缺陷；瑕疵",
+    "sentence": "A: Why did the car company ask thousands of customers to bring their new cars back to the dealers this month? B: Engineers discovered a {{BLANK}} in the brake system of one model, so the company decided to fix every car for free before anyone could get hurt on the road.",
+    "cn": "A：汽車公司這個月為什麼要求數千名顧客把新車開回經銷商？ B：工程師發現某款車型的煞車系統有【缺陷】，所以公司決定在有人在路上受傷之前免費修理每一輛車。",
+    "collocation": "a manufacturing defect 製造上的瑕疵"
+   },
+   {
+    "word": "fault",
+    "pos": "n.",
+    "en_def": "a problem in a machine or system that stops it working correctly",
+    "cn_def": "故障；毛病",
+    "sentence": "A: Why were all the elevators in the shopping mall out of service for most of yesterday afternoon? B: The technicians found an electrical {{BLANK}} in the main control panel, so they had to turn off the power to every elevator until they could replace the broken part safely.",
+    "cn": "A：購物中心所有的電梯為什麼昨天下午大部分時間都停止運作？ B：技術人員在主控制面板發現電路【故障】，所以他們必須關掉每部電梯的電源，直到能安全更換損壞的零件。",
+    "collocation": "an electrical fault in the system 系統的電路故障"
+   },
+   {
+    "word": "leak",
+    "pos": "n.",
+    "en_def": "a small hole or crack that lets liquid or gas escape",
+    "cn_def": "漏水；洩漏",
+    "sentence": "A: Why is there a large plastic bucket in the corner of the meeting room on the fifth floor this week? B: There is a {{BLANK}} in the ceiling above that corner, and whenever it rains, water drips onto the carpet, so the building manager has called a roofer to come on Friday.",
+    "cn": "A：五樓會議室角落這週為什麼放了一個大塑膠桶？ B：那個角落上方的天花板有【漏水】處，每次下雨水都會滴到地毯上，所以大樓經理已經找了屋頂工人週五來修。",
+    "collocation": "fix a leak in the roof 修補屋頂的漏水處"
+   },
+   {
+    "word": "spill",
+    "pos": "v.",
+    "en_def": "to accidentally let liquid flow out of its container",
+    "cn_def": "灑出；濺出",
+    "sentence": "A: Why aren't employees allowed to bring coffee or tea into the new computer training room anymore? B: Last month a trainee was careless enough to {{BLANK}} a whole cup of hot coffee onto one of the keyboards, and the repair cost was so high that the manager decided to ban all drinks.",
+    "cn": "A：員工為什麼不能再把咖啡或茶帶進新的電腦訓練教室？ B：上個月有位受訓人員不小心把一整杯熱咖啡【灑】在其中一個鍵盤上，維修費用非常高，所以經理決定禁止所有飲料。",
+    "collocation": "spill coffee on the keyboard 把咖啡灑在鍵盤上"
+   },
+   {
+    "word": "stain",
+    "pos": "n.",
+    "en_def": "a dirty mark that is difficult to remove",
+    "cn_def": "污漬；污點",
+    "sentence": "A: Why did the hotel guest in room 512 ask the front desk for a discount when she checked out this morning? B: She found a large brown {{BLANK}} on the bed sheet when she arrived late last night, and the housekeeping staff did not come to change it until almost midnight.",
+    "cn": "A：512號房的房客今天早上退房時為什麼要求櫃檯打折？ B：她昨晚很晚抵達時發現床單上有一大塊褐色【污漬】，而房務人員直到快半夜才來更換。",
+    "collocation": "remove a coffee stain 去除咖啡污漬"
+   },
+   {
+    "word": "fragile",
+    "pos": "adj.",
+    "en_def": "easily broken or damaged",
+    "cn_def": "易碎的；脆弱的",
+    "sentence": "A: Why did the shipping company charge us extra for the boxes we sent to the museum in Paris last week? B: We were sending old glass vases that are very {{BLANK}}, so the boxes needed special foam packing and careful handling all the way from our warehouse to the museum.",
+    "cn": "A：貨運公司為什麼對我們上週寄到巴黎博物館的箱子額外收費？ B：我們寄的是非常【易碎】的古老玻璃花瓶，所以從倉庫到博物館一路上箱子都需要特殊的泡棉包裝和小心搬運。",
+    "collocation": "handle fragile items with care 小心搬運易碎物品"
+   },
+   {
+    "word": "severe",
+    "pos": "adj.",
+    "en_def": "very serious or bad",
+    "cn_def": "嚴重的；劇烈的",
+    "sentence": "A: Why did the factory in the south have to stop production for almost three weeks last summer? B: A typhoon caused {{BLANK}} damage to the roof and the machines on the ground floor, and the owners had to wait for new equipment to arrive from Japan before they could reopen.",
+    "cn": "A：南部的工廠去年夏天為什麼得停產將近三週？ B：一場颱風對屋頂和一樓的機器造成【嚴重的】損壞，業主必須等新設備從日本運來才能重新開工。",
+    "collocation": "suffer severe damage 遭受嚴重損害"
+   },
+   {
+    "word": "minor",
+    "pos": "adj.",
+    "en_def": "small and not very serious",
+    "cn_def": "輕微的；次要的",
+    "sentence": "A: Was anyone hurt when the delivery van hit the post outside the bakery early this morning? B: No, the driver was fine, and there was only {{BLANK}} damage to the front light of the van, so he was able to finish the rest of his deliveries before lunch.",
+    "cn": "A：今天一早送貨車撞到麵包店外的柱子時，有人受傷嗎？ B：沒有，司機沒事，貨車只有前燈有【輕微的】損壞，所以他還能在午餐前送完剩下的貨。",
+    "collocation": "a minor problem 小問題"
+   },
+   {
+    "word": "permanent",
+    "pos": "adj.",
+    "en_def": "lasting for a very long time or forever",
+    "cn_def": "永久的；長期的",
+    "sentence": "A: Why does the electronics company give free earplugs to every worker who operates the loud machines in the factory? B: Working near that kind of noise for years can cause {{BLANK}} hearing loss, and the company wants to protect its staff before any damage happens that cannot be fixed.",
+    "cn": "A：電子公司為什麼要發免費耳塞給每位在工廠操作吵雜機器的員工？ B：長年在那種噪音附近工作可能導致【永久性】聽力受損，公司希望在造成無法修復的傷害之前保護員工。",
+    "collocation": "cause permanent damage 造成永久性損害"
+   },
+   {
+    "word": "temporary",
+    "pos": "adj.",
+    "en_def": "lasting for only a short time",
+    "cn_def": "暫時的；臨時的",
+    "sentence": "A: Where will the accounting team work while the workers repair the water damage in their office next month? B: The company has rented a {{BLANK}} space on the third floor of the building across the street, and the team will stay there for about six weeks until the repairs are finished.",
+    "cn": "A：下個月工人修理會計團隊辦公室的水損時，他們要在哪裡辦公？ B：公司已經在對街大樓的三樓租了一個【臨時】空間，團隊會在那裡待大約六週，直到修繕完成。",
+    "collocation": "a temporary solution 暫時的解決辦法"
+   },
+   {
+    "word": "repair",
+    "pos": "v.",
+    "en_def": "to fix something that is broken or damaged",
+    "cn_def": "修理；修補",
+    "sentence": "A: How long will it take to get the photocopier on the second floor working again after it jammed this morning? B: The technician said he can {{BLANK}} it by Thursday, but he must order a new roller from the supplier first, so we should use the machine downstairs until then.",
+    "cn": "A：二樓的影印機今天早上卡紙後，要多久才能恢復運作？ B：技術人員說他週四前可以【修好】，但他得先向供應商訂購新的滾輪，所以在那之前我們應該用樓下的機器。",
+    "collocation": "repair the damaged roof 修補受損的屋頂"
+   },
+   {
+    "word": "restore",
+    "pos": "v.",
+    "en_def": "to bring something back to its good condition",
+    "cn_def": "修復；恢復",
+    "sentence": "A: Why did the hotel close its famous old ballroom for the whole of last year? B: The owners hired a team of experts to {{BLANK}} the painted ceiling and the wooden floor, which had been damaged by water and time, and now the room looks exactly as it did a hundred years ago.",
+    "cn": "A：飯店去年為什麼整年關閉了那間著名的老宴會廳？ B：業主請了一組專家來【修復】被水和歲月損壞的彩繪天花板和木地板，現在那個廳看起來和一百年前一模一樣。",
+    "collocation": "restore an old building 修復古老建築"
+   },
+   {
+    "word": "recover",
+    "pos": "v.",
+    "en_def": "to get back something lost, or to return to a normal condition",
+    "cn_def": "恢復；取回",
+    "sentence": "A: Did the IT department manage to save any of the sales files after the main server crashed on Monday night? B: Yes, they were able to {{BLANK}} almost all of the data from the backup system, but the reports we wrote on Monday afternoon were lost, so we have to do them again.",
+    "cn": "A：週一晚上主伺服器當機後，資訊部有沒有救回任何業務檔案？ B：有，他們從備份系統【復原】了幾乎所有資料，但我們週一下午寫的報告不見了，所以得重做。",
+    "collocation": "recover lost data 復原遺失的資料"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The new cleaning product is safe for office use. It will not cause any _____ to your skin or to the furniture.",
+    "options": [
+     "harm",
+     "leak",
+     "dent",
+     "flood"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The earthquake led to the _____ of many old buildings downtown. The city now plans to rebuild the area with safer designs.",
+    "options": [
+     "stain",
+     "leak",
+     "destruction",
+     "scratch"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The airline reported a large _____ last quarter because fuel prices rose sharply. Managers are now looking for ways to cut costs.",
+    "options": [
+     "crack",
+     "loss",
+     "defect",
+     "flood"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Please handle these coffee mugs carefully when you unpack them. They are made of thin glass and can _____ easily.",
+    "options": [
+     "recover",
+     "restore",
+     "injure",
+     "break"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The inspector found a small _____ in the concrete wall of the parking garage. Engineers will check whether the structure is still safe.",
+    "options": [
+     "loss",
+     "harm",
+     "crack",
+     "flood"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The storm was so strong that it made several windows _____ in the hotel lobby. Pieces of glass covered the floor near the entrance.",
+    "options": [
+     "shatter",
+     "recover",
+     "decay",
+     "erode"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "A shopping cart rolled into my car in the supermarket parking lot. Now there is a small _____ in the passenger door.",
+    "options": [
+     "flood",
+     "leak",
+     "loss",
+     "dent"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Be careful with that old map when you take it out of the frame. The paper is very thin and may _____ easily.",
+    "options": [
+     "corrode",
+     "tear",
+     "injure",
+     "restore"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "After days of heavy snow, the roof of the old warehouse began to _____. Luckily, no workers were inside at the time.",
+    "options": [
+     "recover",
+     "spill",
+     "repair",
+     "collapse"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The fire department warned shop owners not to store boxes near heaters. A small fire could quickly _____ down the whole building.",
+    "options": [
+     "spill",
+     "burn",
+     "injure",
+     "recover"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The river rose quickly after three days of heavy rain. The _____ closed several roads and damaged many shops near the bank.",
+    "options": [
+     "flood",
+     "stain",
+     "dent",
+     "scratch"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Salt from the winter roads can _____ the metal under your car. Washing the car often helps prevent rust and keeps it safe.",
+    "options": [
+     "recover",
+     "spill",
+     "corrode",
+     "restore"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "These work boots are made of very strong leather. They will not _____ out even after years of daily use on the factory floor.",
+    "options": [
+     "restore",
+     "wear",
+     "spill",
+     "injure"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Strong winds and rain slowly _____ the soil on the hillside farm. The farmer planted trees to hold the ground in place.",
+    "options": [
+     "injure",
+     "repair",
+     "spill",
+     "erode"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The wooden posts of the old pier have started to _____ in the salty water. The city will replace them with concrete next year.",
+    "options": [
+     "repair",
+     "recover",
+     "decay",
+     "restore"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Workers must use the proper tools when lifting heavy boxes. Lifting them the wrong way can _____ your back.",
+    "options": [
+     "injure",
+     "restore",
+     "recover",
+     "spill"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The company uses a special machine to _____ old documents that contain private customer information. Nothing can be read afterward.",
+    "options": [
+     "restore",
+     "repair",
+     "destroy",
+     "recover"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Some cold medicines can _____ your ability to drive safely. Read the label carefully before you take them.",
+    "options": [
+     "impair",
+     "restore",
+     "recover",
+     "spill"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Every product is checked before it leaves the factory. Any item with a _____ is removed from the production line immediately.",
+    "options": [
+     "flood",
+     "loss",
+     "harm",
+     "defect"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The train was delayed for an hour because of a signal _____. Engineers fixed the problem and service returned to normal.",
+    "options": [
+     "stain",
+     "fault",
+     "dent",
+     "scratch"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Please call the plumber right away. There is a _____ under the kitchen sink, and water is spreading across the floor.",
+    "options": [
+     "leak",
+     "dent",
+     "harm",
+     "destruction"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Please put a lid on your cup before you walk into the meeting room. It is easy to _____ hot drinks on the carpet.",
+    "options": [
+     "restore",
+     "injure",
+     "recover",
+     "spill"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The dry cleaner could not remove the red wine _____ from my white shirt. I will have to buy a new one.",
+    "options": [
+     "crack",
+     "stain",
+     "flood",
+     "defect"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Please write 'Handle with Care' on the box of wine glasses. The items inside are very _____ and could break easily.",
+    "options": [
+     "permanent",
+     "severe",
+     "fragile",
+     "temporary"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The typhoon caused _____ damage to the port. Most ships cannot load or unload goods there until next month.",
+    "options": [
+     "minor",
+     "severe",
+     "fragile",
+     "temporary"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Don't worry about the small scratch on the table. It is only a _____ problem, and we can fix it in five minutes.",
+    "options": [
+     "severe",
+     "permanent",
+     "fragile",
+     "minor"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Once the chemical gets into the river, the damage is _____ and can never be fixed. That is why the factory must be careful.",
+    "options": [
+     "permanent",
+     "minor",
+     "temporary",
+     "fragile"
+    ],
+    "answer": 0,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Our office is being repaired, so we are working in a _____ office for two months. We will move back in March.",
+    "options": [
+     "permanent",
+     "severe",
+     "temporary",
+     "fragile"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The air conditioner in the conference room stopped working yesterday. A technician will come this afternoon to _____ it.",
+    "options": [
+     "injure",
+     "spill",
+     "shatter",
+     "repair"
+    ],
+    "answer": 3,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The police were able to _____ most of the stolen laptops from the office. They returned them to the company the next day.",
+    "options": [
+     "destroy",
+     "recover",
+     "injure",
+     "spill"
+    ],
+    "answer": 1,
+    "vocabIndex": 33
+   }
+  ]
  }
 }
