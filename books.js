@@ -2470,7 +2470,12 @@ window.VOCAB_ZONES = {
    18,
    19,
    20,
-   21
+   21,
+   22,
+   23,
+   24,
+   25,
+   26
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2493,7 +2498,12 @@ window.VOCAB_ZONES = {
    "18": "Appointment 預約",
    "19": "Argument 爭論",
    "20": "Art 藝術",
-   "21": "Athlete 運動員"
+   "21": "Athlete 運動員",
+   "22": "Bags 包包",
+   "23": "Baking 烘焙",
+   "24": "Bar Chart 長條圖",
+   "25": "Barbecue 烤肉",
+   "26": "Bargain 划算交易"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  }

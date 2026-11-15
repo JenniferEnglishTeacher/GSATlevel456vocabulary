@@ -13243,5 +13243,3010 @@
     "vocabIndex": 19
    }
   ]
+ },
+ "22": {
+  "theme": "Bags 包包",
+  "source": "https://www.examword.com/group-topic/bags",
+  "VOCAB": [
+   {
+    "word": "backpack",
+    "pos": "n.",
+    "en_def": "a bag you carry on your back with two straps",
+    "cn_def": "背包；後背包",
+    "sentence": "A: I have to walk from the train station to the client's office every morning this week, and my laptop and files are getting heavy, so what kind of bag should I buy? B: You should get a {{BLANK}} with padded straps, because it spreads the weight across both shoulders and leaves your hands free for your phone and umbrella.",
+    "cn": "A：這週我每天早上都得從火車站走到客戶辦公室，筆電和文件越來越重，我該買什麼樣的包包？ B：你應該買一個肩帶有襯墊的【後背包】，因為它能把重量分散在兩邊肩膀上，讓你的雙手可以拿手機和雨傘。",
+    "collocation": "a laptop backpack 筆電後背包"
+   },
+   {
+    "word": "handbag",
+    "pos": "n.",
+    "en_def": "a small bag that women often use to carry money, keys, and other things",
+    "cn_def": "手提包",
+    "sentence": "A: The department store wants to put a new display near the main entrance before Mother's Day, so which products should we show there to attract shoppers? B: We should display our new leather {{BLANK}} in red and cream, because many customers buy them as gifts for their mothers and they look great in the window.",
+    "cn": "A：百貨公司想在母親節前於大門口附近擺一個新的展示區，我們該展示哪些商品來吸引顧客？ B：我們應該展示紅色和米色的新款皮革【手提包】，因為很多顧客會買來當作送給媽媽的禮物，而且放在櫥窗裡很好看。",
+    "collocation": "a designer handbag 名牌手提包"
+   },
+   {
+    "word": "tote",
+    "pos": "n.",
+    "en_def": "a large open bag with two handles, used for carrying many things",
+    "cn_def": "托特包；大手提袋",
+    "sentence": "A: Our company is giving away free gifts at the trade show next month, and the manager wants something useful that people will keep, so what do you suggest? B: Let's give each visitor a cotton {{BLANK}} with our logo on it, because people can use it for shopping, and our name will be seen all over the city.",
+    "cn": "A：我們公司下個月要在商展上贈送免費禮物，經理想要大家會留著用的實用東西，你有什麼建議？ B：我們送每位參觀者一個印有公司商標的棉布【托特包】吧，因為大家可以拿來購物，我們的名字就會出現在城市各處。",
+    "collocation": "a canvas tote bag 帆布托特包"
+   },
+   {
+    "word": "satchel",
+    "pos": "n.",
+    "en_def": "a bag with a long strap and a flap, often used for books or papers",
+    "cn_def": "側背書包；公事包",
+    "sentence": "A: My new job is at a law office, and I need to carry a lot of papers and a small laptop to court, but I do not like backpacks, so what is a good choice? B: A brown leather {{BLANK}} would look professional, because it has a long shoulder strap, a flap that closes tightly, and enough room for your documents.",
+    "cn": "A：我的新工作在律師事務所，需要帶很多文件和一台小筆電去法院，但我不喜歡後背包，有什麼好選擇？ B：一個棕色皮革【側背公事包】看起來會很專業，因為它有長肩帶、可以緊緊扣住的掀蓋，空間也夠放你的文件。",
+    "collocation": "a leather satchel 皮革側背包"
+   },
+   {
+    "word": "clutch",
+    "pos": "n.",
+    "en_def": "a small, flat bag without a handle, held in the hand, usually for formal events",
+    "cn_def": "手拿包",
+    "sentence": "A: The company's year-end party is at a fancy hotel this year, and everyone has to dress formally, but my everyday bag is far too big, so what should I bring? B: You could carry a small silver {{BLANK}}, because it holds your phone, keys, and a lipstick, and it looks elegant with an evening dress.",
+    "cn": "A：今年公司尾牙在高級飯店舉行，大家都要穿正式服裝，但我平常的包包太大了，我該帶什麼？ B：你可以拿一個小小的銀色【手拿包】，因為它能裝手機、鑰匙和口紅，搭配晚禮服也很優雅。",
+    "collocation": "an evening clutch 晚宴手拿包"
+   },
+   {
+    "word": "duffel",
+    "pos": "n.",
+    "en_def": "a large soft bag shaped like a tube, used for sports clothes or travel",
+    "cn_def": "圓筒旅行袋；行李袋",
+    "sentence": "A: I am going on a three-day team-building trip in the mountains with my coworkers, and we have to carry our things from the bus to the cabin, so is a suitcase okay? B: A suitcase is hard to roll on the mountain path, so take a soft {{BLANK}} instead, because you can carry it on your shoulder and squeeze it into small spaces.",
+    "cn": "A：我要和同事去山上參加三天的團隊建立活動，我們得自己把東西從巴士搬到小木屋，帶行李箱可以嗎？ B：行李箱在山路上很難拉，所以改帶軟的【圓筒行李袋】吧，因為你可以把它扛在肩上，也能塞進狹小的空間。",
+    "collocation": "a gym duffel bag 健身用行李袋"
+   },
+   {
+    "word": "pouch",
+    "pos": "n.",
+    "en_def": "a small soft bag for keeping small things",
+    "cn_def": "小袋子；收納包",
+    "sentence": "A: Every time I travel for work, my phone charger, earphones, and cables get mixed up at the bottom of my bag, and it takes forever to find them. B: Put them all in a small zip {{BLANK}}, and then you can take everything out at once when you get to the hotel or the meeting room.",
+    "cn": "A：每次出差，我的手機充電器、耳機和傳輸線都混在包包底部，要找很久才找得到。 B：把它們全部放進一個有拉鍊的小【收納包】，這樣到了飯店或會議室時，你就能一次把所有東西拿出來。",
+    "collocation": "a cosmetic pouch 化妝包"
+   },
+   {
+    "word": "zipper",
+    "pos": "n.",
+    "en_def": "a metal or plastic device with two rows of teeth that closes a bag or clothes",
+    "cn_def": "拉鍊",
+    "sentence": "A: A customer brought back the suitcase she bought from our shop two weeks ago, and she seems quite upset, so what is wrong with it? B: The {{BLANK}} on the front pocket broke on her first trip, so we should replace the suitcase for free and tell the factory to check that part more carefully.",
+    "cn": "A：有位顧客把兩週前在我們店裡買的行李箱拿回來，她看起來很不高興，是出了什麼問題？ B：前面口袋的【拉鍊】在她第一次旅行時就壞了，所以我們應該免費幫她換一個行李箱，並請工廠更仔細檢查那個零件。",
+    "collocation": "a broken zipper 壞掉的拉鍊"
+   },
+   {
+    "word": "strap",
+    "pos": "n.",
+    "en_def": "a narrow piece of leather or cloth used to carry a bag",
+    "cn_def": "背帶；肩帶",
+    "sentence": "A: Many customers like the design of our new laptop bag, but some of them say it hurts their shoulder after they walk for a while, so how can we improve it? B: We can make the {{BLANK}} wider and add a soft pad, so the weight of the laptop does not press so hard on one small area of the shoulder.",
+    "cn": "A：很多顧客喜歡我們新筆電包的設計，但有些人說走一陣子後肩膀會痛，我們要怎麼改進？ B：我們可以把【背帶】加寬並加上軟墊，這樣筆電的重量就不會集中壓在肩膀的一小塊地方。",
+    "collocation": "an adjustable shoulder strap 可調式肩帶"
+   },
+   {
+    "word": "compartment",
+    "pos": "n.",
+    "en_def": "a separate section inside a bag for keeping things apart",
+    "cn_def": "隔層；夾層",
+    "sentence": "A: I often carry my laptop and my lunch box in the same bag on my way to the office, and I am worried that the soup might leak onto the computer. B: Choose a bag with a separate padded {{BLANK}} for the laptop, so your computer stays safe and dry even if something spills in the main part.",
+    "cn": "A：我上班途中常把筆電和便當盒放在同一個包包裡，擔心湯會漏到電腦上。 B：選一個有獨立襯墊筆電【隔層】的包包，這樣即使主袋裡有東西灑出來，你的電腦也能保持安全乾燥。",
+    "collocation": "a laptop compartment 筆電隔層"
+   },
+   {
+    "word": "pocket",
+    "pos": "n.",
+    "en_def": "a small bag sewn onto or into a larger bag or clothes",
+    "cn_def": "口袋",
+    "sentence": "A: At the airport, I always have to look through my whole bag to find my passport and boarding pass, and the people behind me in line get impatient. B: Keep them in the small outside {{BLANK}} of your backpack, because you can reach it quickly without opening the main part of the bag.",
+    "cn": "A：在機場我總是得翻遍整個包包才找得到護照和登機證，排在我後面的人都不耐煩了。 B：把它們放在後背包外側的小【口袋】裡，因為你不用打開包包主袋就能很快拿到。",
+    "collocation": "a side pocket 側邊口袋"
+   },
+   {
+    "word": "lining",
+    "pos": "n.",
+    "en_def": "a layer of material covering the inside of a bag",
+    "cn_def": "內襯；襯裡",
+    "sentence": "A: The outside of this handbag is made of beautiful leather, but the price is much higher than the other bags on the shelf, so why does it cost so much? B: It has a silk {{BLANK}} inside, which protects your things and makes the bag look elegant every time you open it, and it is all sewn by hand.",
+    "cn": "A：這個手提包外層是用漂亮的皮革做的，但價格比架上其他包包高很多，為什麼這麼貴？ B：它裡面有絲質【內襯】，能保護你的物品，每次打開包包時看起來都很優雅，而且全部都是手工縫製。",
+    "collocation": "a silk lining 絲質內襯"
+   },
+   {
+    "word": "leather",
+    "pos": "n.",
+    "en_def": "animal skin that is treated and used to make bags, shoes, and clothes",
+    "cn_def": "皮革",
+    "sentence": "A: Our company wants to give the top salespeople a special gift at the end of the year, something that lasts for many years and looks professional, so what would be good? B: A briefcase made of real {{BLANK}} would be a great choice, because it becomes softer and more beautiful with age and can last more than ten years.",
+    "cn": "A：公司想在年底送一份特別的禮物給頂尖業務員，要能用很多年又看起來專業的東西，什麼比較好？ B：真【皮】製的公事包會是很好的選擇，因為它會隨著時間變得更柔軟、更漂亮，而且可以用十年以上。",
+    "collocation": "genuine leather 真皮"
+   },
+   {
+    "word": "canvas",
+    "pos": "n.",
+    "en_def": "a strong, heavy cloth used for bags, shoes, and tents",
+    "cn_def": "帆布",
+    "sentence": "A: The bookstore wants to sell its own shopping bags, but the manager does not want plastic because many customers care about the environment, so which material should we use? B: We should use thick cotton {{BLANK}}, because it is strong enough to carry heavy books, easy to print a logo on, and can be washed many times.",
+    "cn": "A：書店想販售自己的購物袋，但經理不想用塑膠，因為很多顧客在意環保，我們該用什麼材質？ B：我們應該用厚棉【帆布】，因為它夠堅固能裝重的書、容易印上商標，而且可以洗很多次。",
+    "collocation": "a canvas bag 帆布袋"
+   },
+   {
+    "word": "waterproof",
+    "pos": "adj.",
+    "en_def": "not letting water go through",
+    "cn_def": "防水的",
+    "sentence": "A: I will be visiting construction sites in Keelung all next week, and the weather report says it will rain almost every day, so how can I keep my documents dry? B: Use a {{BLANK}} bag with a roll-top opening, because even heavy rain cannot get inside, and your plans and contracts will stay completely dry.",
+    "cn": "A：下週我整週都要去基隆的工地，氣象報告說幾乎每天都會下雨，我要怎麼讓文件保持乾燥？ B：用一個捲口式開口的【防水】包，因為就算大雨也進不去，你的設計圖和合約都能保持完全乾燥。",
+    "collocation": "a waterproof jacket 防水外套"
+   },
+   {
+    "word": "durable",
+    "pos": "adj.",
+    "en_def": "able to last a long time without breaking",
+    "cn_def": "耐用的",
+    "sentence": "A: Our delivery workers carry heavy packages in their bags all day, and the cheap bags we bought last year all fell apart within a few months, so what should we buy now? B: We need more {{BLANK}} bags made of thick nylon with strong stitching, even if they cost more, because they will last for several years and save money.",
+    "cn": "A：我們的送貨員整天用包包背重物，去年買的便宜包包幾個月內就都壞了，我們現在該買什麼？ B：我們需要更【耐用】的包包，用厚尼龍和堅固的縫線製成，即使比較貴，因為它們能用好幾年，反而省錢。",
+    "collocation": "durable materials 耐用的材料"
+   },
+   {
+    "word": "lightweight",
+    "pos": "adj.",
+    "en_def": "not heavy",
+    "cn_def": "輕量的；輕便的",
+    "sentence": "A: The flight attendants at our airline walk through long airports every day with their bags, and many of them have complained about sore backs, so what can we do? B: We can give them new {{BLANK}} bags that weigh less than one kilogram when empty, so they will carry much less weight during long workdays.",
+    "cn": "A：我們航空公司的空服員每天都要提著包包走過很長的機場，很多人抱怨背痛，我們能怎麼做？ B：我們可以發給他們空包重量不到一公斤的新款【輕量】包包，這樣他們在漫長的工作日中就能少背很多重量。",
+    "collocation": "a lightweight suitcase 輕量行李箱"
+   },
+   {
+    "word": "spacious",
+    "pos": "adj.",
+    "en_def": "having a lot of room inside",
+    "cn_def": "寬敞的；容量大的",
+    "sentence": "A: I am going to Singapore for a week-long sales conference, and I need to bring business suits, product samples, and a laptop, so will my small bag be enough? B: No, you will need a more {{BLANK}} suitcase, because the samples take up a lot of room, and you may also bring back gifts from the clients.",
+    "cn": "A：我要去新加坡參加為期一週的業務會議，需要帶西裝、產品樣品和筆電，我的小包包夠用嗎？ B：不夠，你需要一個更【寬敞】的行李箱，因為樣品很佔空間，而且你可能還會帶客戶送的禮物回來。",
+    "collocation": "a spacious main compartment 寬敞的主隔層"
+   },
+   {
+    "word": "compact",
+    "pos": "adj.",
+    "en_def": "small and using little space",
+    "cn_def": "小巧的；輕巧的",
+    "sentence": "A: Many young office workers in Taipei ride scooters to work, and they say large bags are hard to store under the seat, so what product should we design for them? B: We should design a {{BLANK}} bag that fits easily under a scooter seat but still holds a tablet, a wallet, and a raincoat.",
+    "cn": "A：台北很多年輕上班族騎機車通勤，他們說大包包很難放進座墊下，我們該為他們設計什麼產品？ B：我們應該設計一款【小巧】的包包，能輕鬆放進機車座墊下，但還是能裝平板、皮夾和雨衣。",
+    "collocation": "a compact design 小巧的設計"
+   },
+   {
+    "word": "fashionable",
+    "pos": "adj.",
+    "en_def": "popular and in a style that many people like now",
+    "cn_def": "時髦的；流行的",
+    "sentence": "A: Our bags are well made and practical, but sales to young customers have been falling this year, so what do you think is the main problem? B: Young people want bags that look {{BLANK}}, so we should work with a popular designer and add brighter colors and modern shapes to our collection.",
+    "cn": "A：我們的包包做工好又實用，但今年賣給年輕顧客的銷量一直下滑，你覺得主要問題是什麼？ B：年輕人想要看起來【時髦】的包包，所以我們應該和受歡迎的設計師合作，在產品系列中加入更亮的顏色和現代的造型。",
+    "collocation": "fashionable accessories 時髦的配件"
+   },
+   {
+    "word": "functional",
+    "pos": "adj.",
+    "en_def": "practical and useful, made to do a job well",
+    "cn_def": "實用的；功能性的",
+    "sentence": "A: The customer survey shows that business travelers do not care much about the color of a bag, so what do they want most when they choose one? B: They want a {{BLANK}} bag with many pockets, a laptop section, and a charging port, because they need to work in airports and hotels.",
+    "cn": "A：顧客調查顯示商務旅客不太在意包包的顏色，那他們挑選時最想要的是什麼？ B：他們想要一個【實用】的包包，有很多口袋、筆電夾層和充電孔，因為他們需要在機場和飯店工作。",
+    "collocation": "a simple, functional design 簡單實用的設計"
+   },
+   {
+    "word": "capacity",
+    "pos": "n.",
+    "en_def": "the amount that something can hold",
+    "cn_def": "容量",
+    "sentence": "A: The hiking company wants to know which backpack it should rent to customers for the two-day mountain tour, because some customers carry a lot of clothes. B: Choose the one with a forty-liter {{BLANK}}, because it holds clothes, food, and water for two days, but it is still light enough for most people.",
+    "cn": "A：登山公司想知道兩天山區行程該出租哪一款背包給客人，因為有些客人會帶很多衣服。 B：選四十公升【容量】的那一款，因為它能裝兩天份的衣服、食物和水，而且對大多數人來說還是夠輕。",
+    "collocation": "a large storage capacity 大的收納容量"
+   },
+   {
+    "word": "organize",
+    "pos": "v.",
+    "en_def": "to arrange things in a neat and useful way",
+    "cn_def": "整理；收納",
+    "sentence": "A: My bag is always so messy that I cannot find my pens, business cards, or keys when a client is waiting, and it makes me look unprofessional. B: You should {{BLANK}} your things with small pouches, putting each type of item in its own place, so you can find anything in a few seconds.",
+    "cn": "A：我的包包總是很亂，客戶在等的時候我都找不到筆、名片或鑰匙，讓我看起來很不專業。 B：你應該用小收納袋來【整理】你的東西，把每一類物品放在固定的位置，這樣幾秒鐘就能找到任何東西。",
+    "collocation": "organize your desk 整理你的桌面"
+   },
+   {
+    "word": "carry",
+    "pos": "v.",
+    "en_def": "to hold something and take it with you",
+    "cn_def": "攜帶；拿",
+    "sentence": "A: The new rules at the factory say that workers cannot bring large bags onto the production floor, so where should they keep their personal things? B: They can only {{BLANK}} a small clear bag with their phone and water bottle, and everything else must stay in the lockers near the main entrance.",
+    "cn": "A：工廠的新規定說工人不能帶大包包進入生產區，那他們的私人物品要放哪裡？ B：他們只能【攜帶】一個裝手機和水壺的小透明袋，其他東西都必須放在大門附近的置物櫃裡。",
+    "collocation": "carry a heavy bag 提重包包"
+   },
+   {
+    "word": "pack",
+    "pos": "v.",
+    "en_def": "to put things into a bag or suitcase for a trip",
+    "cn_def": "打包；收拾（行李）",
+    "sentence": "A: My flight to Tokyo leaves at seven tomorrow morning, and I still have a lot of work to finish at the office tonight, so when will I have time to get ready? B: You should {{BLANK}} your suitcase as soon as you get home, before you do anything else, so you can sleep early and not forget anything important.",
+    "cn": "A：我飛東京的班機明天早上七點起飛，今晚在辦公室還有很多工作要做，我什麼時候才有時間準備？ B：你一到家就應該先【打包】行李，再做其他事，這樣你才能早點睡，也不會忘記任何重要的東西。",
+    "collocation": "pack a suitcase 打包行李箱"
+   },
+   {
+    "word": "travel",
+    "pos": "v.",
+    "en_def": "to go from one place to another, especially far away",
+    "cn_def": "旅行；出差",
+    "sentence": "A: Our sales manager is going to Japan, Korea, and Thailand in two weeks, and she will only have one bag, so what kind should she take? B: She will {{BLANK}} light with a carry-on suitcase, because she can take it on the plane and avoid waiting at baggage claim in every airport.",
+    "cn": "A：我們業務經理兩週後要去日本、韓國和泰國，她只會帶一個包包，她該帶哪一種？ B：她會帶一個登機箱輕裝【出差】，因為可以帶上飛機，在每個機場都不必等行李。",
+    "collocation": "travel light 輕裝旅行"
+   },
+   {
+    "word": "reusable",
+    "pos": "adj.",
+    "en_def": "able to be used again and again",
+    "cn_def": "可重複使用的",
+    "sentence": "A: The supermarket wants to stop giving out plastic bags next year, but some shoppers may be unhappy about it, so how can we help them change their habits? B: We can sell cheap {{BLANK}} bags near the checkout and give a small discount to customers who bring their own bags from home.",
+    "cn": "A：超市明年想停止提供塑膠袋，但有些購物者可能會不高興，我們要怎麼幫助他們改變習慣？ B：我們可以在結帳處附近販售便宜的【可重複使用】購物袋，並給自己從家裡帶袋子的顧客小折扣。",
+    "collocation": "reusable shopping bags 可重複使用的購物袋"
+   },
+   {
+    "word": "handle",
+    "pos": "n.",
+    "en_def": "the part of a bag that you hold in your hand",
+    "cn_def": "提把；把手",
+    "sentence": "A: The new shopping bags for our bakery look beautiful, but several customers said they broke when they carried heavy cakes home, so what went wrong? B: The paper {{BLANK}} is too thin for heavy boxes, so we should ask the printing company to use stronger rope instead.",
+    "cn": "A：我們麵包店的新購物袋看起來很漂亮，但有幾位顧客說提重蛋糕回家時袋子壞了，問題出在哪裡？ B：紙製【提把】對重的盒子來說太薄了，所以我們應該請印刷公司改用比較堅固的繩子。",
+    "collocation": "a leather handle 皮革提把"
+   },
+   {
+    "word": "secure",
+    "pos": "adj.",
+    "en_def": "safe and protected from being opened or stolen",
+    "cn_def": "安全的；牢固的",
+    "sentence": "A: Many tourists in our city have complained about pickpockets in crowded night markets, so what kind of bag should our travel shop recommend to them? B: We should recommend a {{BLANK}} bag with hidden zippers and a lock, so thieves cannot open it easily while people are walking through crowds.",
+    "cn": "A：我們城市很多觀光客抱怨在擁擠的夜市遇到扒手，我們旅行用品店應該推薦他們什麼樣的包包？ B：我們應該推薦有隱藏式拉鍊和鎖的【安全】包包，這樣人們走在人群中時，小偷就不容易打開。",
+    "collocation": "keep your valuables secure 保管好你的貴重物品"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Students and office workers often carry a _____ to save their hands for other things. It sits comfortably on the back.",
+    "options": [
+     "clutch",
+     "handle",
+     "zipper",
+     "backpack"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The store sells leather _____ in many colors for women. They are especially popular as birthday gifts.",
+    "options": [
+     "zipper",
+     "lining",
+     "handbag",
+     "capacity"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Visitors to the book fair received a free cotton _____. It is large enough to carry several books at once.",
+    "options": [
+     "tote",
+     "zipper",
+     "lining",
+     "strap"
+    ],
+    "answer": 0,
+    "vocabIndex": 2
+   },
+   {
+    "q": "She held a small _____ in her hand at the awards dinner. It was just big enough for her phone and keys.",
+    "options": [
+     "duffel",
+     "clutch",
+     "backpack",
+     "capacity"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "He packed his gym clothes in a soft _____. He carries it on his shoulder to the fitness center every evening.",
+    "options": [
+     "zipper",
+     "lining",
+     "handle",
+     "duffel"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Keep your earphones and cables in a small _____. That way they will not get lost at the bottom of your bag.",
+    "options": [
+     "capacity",
+     "pouch",
+     "lining",
+     "handle"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The _____ on my suitcase got stuck at the airport. I could not open the bag to find my passport.",
+    "options": [
+     "zipper",
+     "capacity",
+     "leather",
+     "canvas"
+    ],
+    "answer": 0,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The bag has an adjustable shoulder _____. You can make it longer or shorter to fit your height.",
+    "options": [
+     "lining",
+     "capacity",
+     "strap",
+     "pouch"
+    ],
+    "answer": 2,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The laptop goes into a padded _____ inside the bag. It keeps the computer safe from bumps and spills.",
+    "options": [
+     "compartment",
+     "handle",
+     "strap",
+     "zipper"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Please keep your boarding pass in an outside _____. You will need to show it several times at the airport.",
+    "options": [
+     "lining",
+     "capacity",
+     "leather",
+     "pocket"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The bag has a soft red _____ inside. It protects your things and makes them easy to see.",
+    "options": [
+     "handle",
+     "strap",
+     "lining",
+     "zipper"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "This briefcase is made of real _____. It will become softer and look better as it gets older.",
+    "options": [
+     "capacity",
+     "leather",
+     "compartment",
+     "pocket"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The shoes are made of thick cotton _____. They are light, cool, and cheaper than leather ones.",
+    "options": [
+     "canvas",
+     "capacity",
+     "compartment",
+     "pouch"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "This jacket is fully _____, so you will stay dry in heavy rain. It is perfect for hiking trips.",
+    "options": [
+     "fashionable",
+     "reusable",
+     "spacious",
+     "waterproof"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "These tools are made of _____ steel. They can be used every day for many years without breaking.",
+    "options": [
+     "fashionable",
+     "durable",
+     "spacious",
+     "reusable"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The new laptop is very _____. It weighs less than one kilogram, so it is easy to carry everywhere.",
+    "options": [
+     "spacious",
+     "reusable",
+     "lightweight",
+     "fashionable"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The hotel rooms are _____ and bright. Each one has a large desk, a sofa, and a big window.",
+    "options": [
+     "compact",
+     "lightweight",
+     "waterproof",
+     "spacious"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "This _____ camera fits easily into a coat pocket. It is popular with travelers who do not want heavy equipment.",
+    "options": [
+     "spacious",
+     "waterproof",
+     "compact",
+     "reusable"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The store sells _____ clothes for young professionals. Its styles change every season to follow new trends.",
+    "options": [
+     "fashionable",
+     "waterproof",
+     "reusable",
+     "durable"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The new office chairs are both stylish and _____. They can be adjusted easily to support the back.",
+    "options": [
+     "waterproof",
+     "functional",
+     "reusable",
+     "spacious"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The concert hall has a _____ of two thousand people. Tickets for the opening night have already sold out.",
+    "options": [
+     "lining",
+     "handle",
+     "pocket",
+     "capacity"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Please _____ the files by date before the meeting. The manager wants to find each report quickly.",
+    "options": [
+     "travel",
+     "organize",
+     "carry",
+     "pack"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Passengers may _____ one small bag onto the plane. Larger bags must be checked in at the counter.",
+    "options": [
+     "travel",
+     "organize",
+     "carry",
+     "pack"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Please _____ your suitcase the night before the trip. The bus to the airport leaves at five in the morning.",
+    "options": [
+     "pack",
+     "travel",
+     "organize",
+     "carry"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Our sales staff often _____ abroad to meet clients. Last year, they visited more than ten countries.",
+    "options": [
+     "organize",
+     "pack",
+     "carry",
+     "travel"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The café gives a discount to customers who bring _____ cups. This helps reduce paper waste every day.",
+    "options": [
+     "reusable",
+     "spacious",
+     "fashionable",
+     "compact"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The _____ of the shopping bag broke when I lifted it. All my groceries fell onto the sidewalk.",
+    "options": [
+     "lining",
+     "handle",
+     "capacity",
+     "canvas"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Keep your passport in a _____ place during the trip. A hotel safe is better than an open bag.",
+    "options": [
+     "fashionable",
+     "spacious",
+     "secure",
+     "lightweight"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The lawyer carries an old brown _____ to court. It has a long strap and a flap that holds her papers.",
+    "options": [
+     "zipper",
+     "lining",
+     "capacity",
+     "satchel"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "This hiking backpack has a large _____ of fifty liters. It can hold enough food and clothes for three days.",
+    "options": [
+     "capacity",
+     "lining",
+     "handle",
+     "zipper"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   }
+  ]
+ },
+ "23": {
+  "theme": "Baking 烘焙",
+  "source": "https://www.examword.com/group-topic/baking",
+  "VOCAB": [
+   {
+    "word": "bake",
+    "pos": "v.",
+    "en_def": "to cook food such as bread or cake in an oven",
+    "cn_def": "烘烤；烘焙",
+    "sentence": "A: Our café has been buying cakes from a big factory, but customers say they do not taste fresh, so what can we do to improve them? B: We could hire a pastry chef to {{BLANK}} cakes in our own kitchen every morning, so customers can enjoy fresh cakes and smell them as soon as they walk in.",
+    "cn": "A：我們咖啡廳一直向大工廠買蛋糕，但顧客說吃起來不新鮮，我們能怎麼改善？ B：我們可以聘請一位甜點師每天早上在自己的廚房【烘烤】蛋糕，讓顧客能吃到新鮮的蛋糕，一走進來就聞得到香味。",
+    "collocation": "bake bread every morning 每天早上烤麵包"
+   },
+   {
+    "word": "oven",
+    "pos": "n.",
+    "en_def": "a box-shaped machine that heats and cooks food inside",
+    "cn_def": "烤箱",
+    "sentence": "A: The bakery is getting more and more orders for birthday cakes, but the bakers can only make ten cakes at a time, so how can we increase production? B: We should buy a second large {{BLANK}}, because then the bakers can cook twenty cakes at the same time and finish all the orders before noon.",
+    "cn": "A：麵包店接到的生日蛋糕訂單越來越多，但烘焙師一次只能做十個，我們要怎麼提高產量？ B：我們應該再買一台大型【烤箱】，這樣烘焙師就能同時烤二十個蛋糕，在中午前完成所有訂單。",
+    "collocation": "a commercial oven 營業用烤箱"
+   },
+   {
+    "word": "dough",
+    "pos": "n.",
+    "en_def": "a thick mix of flour and water used to make bread",
+    "cn_def": "麵團",
+    "sentence": "A: The new pizza restaurant near our office is always full at lunchtime, and people say the pizza base is soft but crispy, so what is their secret? B: The owner told me they make the {{BLANK}} by hand every night and let it rest in the fridge for twenty-four hours before they use it.",
+    "cn": "A：我們辦公室附近的新披薩店午餐時總是客滿，大家都說餅皮又軟又脆，他們的秘訣是什麼？ B：老闆告訴我，他們每天晚上手工製作【麵團】，並讓它在冰箱裡靜置二十四小時後才使用。",
+    "collocation": "roll out the dough 把麵團擀開"
+   },
+   {
+    "word": "batter",
+    "pos": "n.",
+    "en_def": "a liquid mix of flour, eggs, and milk used for cakes or pancakes",
+    "cn_def": "麵糊",
+    "sentence": "A: The breakfast shop is going to start selling pancakes next month, but the cooks are worried that they will be too slow during the morning rush, so what can they do? B: They can prepare the {{BLANK}} the night before and keep it in the fridge, so in the morning they only need to pour it onto the hot pan.",
+    "cn": "A：早餐店下個月要開始賣鬆餅，但廚師擔心早上尖峰時段會做得太慢，他們能怎麼辦？ B：他們可以前一天晚上先準備好【麵糊】放在冰箱，這樣早上只要倒在熱鍋上就好。",
+    "collocation": "pancake batter 鬆餅麵糊"
+   },
+   {
+    "word": "flour",
+    "pos": "n.",
+    "en_def": "a powder made from wheat, used to make bread and cakes",
+    "cn_def": "麵粉",
+    "sentence": "A: The price of our bread has gone up twice this year, and some customers have started to complain, so why are our costs rising so fast? B: The price of {{BLANK}} has risen because of the bad wheat harvest in several countries, and it is the main ingredient in almost everything we bake.",
+    "cn": "A：我們的麵包今年漲價兩次了，有些顧客開始抱怨，為什麼我們的成本漲得這麼快？ B：因為好幾個國家小麥歉收，【麵粉】的價格上漲了，而它幾乎是我們所有烘焙產品的主要原料。",
+    "collocation": "a bag of flour 一袋麵粉"
+   },
+   {
+    "word": "yeast",
+    "pos": "n.",
+    "en_def": "a substance used to make bread rise and become soft",
+    "cn_def": "酵母",
+    "sentence": "A: The new baker's bread came out flat and hard this morning, and we had to throw away three trays of rolls, so what went wrong in the kitchen? B: He used old {{BLANK}} that had been open for months, so the dough could not grow, and we need to check the dates on everything in the storeroom.",
+    "cn": "A：新烘焙師今天早上烤出來的麵包又扁又硬，我們只好丟掉三盤餐包，廚房裡出了什麼問題？ B：他用了開封好幾個月的舊【酵母】，所以麵團發不起來，我們需要檢查儲藏室裡所有東西的日期。",
+    "collocation": "active dry yeast 活性乾酵母"
+   },
+   {
+    "word": "sugar",
+    "pos": "n.",
+    "en_def": "a sweet substance used in food and drinks",
+    "cn_def": "糖",
+    "sentence": "A: Many of our customers have asked for healthier cakes because they are trying to eat better, but they still want them to taste good, so what should we change? B: We can use less {{BLANK}} in our recipes and add fresh fruit instead, because the fruit makes the cakes sweet in a more natural way.",
+    "cn": "A：很多顧客要求更健康的蛋糕，因為他們想吃得更好，但還是希望好吃，我們該改什麼？ B：我們可以在食譜中少用一點【糖】，改加新鮮水果，因為水果能讓蛋糕以更自然的方式變甜。",
+    "collocation": "reduce sugar 減糖"
+   },
+   {
+    "word": "butter",
+    "pos": "n.",
+    "en_def": "a soft yellow food made from cream",
+    "cn_def": "奶油",
+    "sentence": "A: Our croissants are much more expensive than the ones at the supermarket, and some customers ask why they should pay more, so what should we tell them? B: Tell them we use real French {{BLANK}}, which gives our croissants their rich taste and many light, flaky layers that cheap ones do not have.",
+    "cn": "A：我們的可頌比超市的貴很多，有些顧客問為什麼要多付錢，我們該怎麼告訴他們？ B：告訴他們我們用的是真正的法國【奶油】，讓我們的可頌有濃郁的風味和許多輕盈酥脆的層次，這是便宜可頌沒有的。",
+    "collocation": "unsalted butter 無鹽奶油"
+   },
+   {
+    "word": "mix",
+    "pos": "v.",
+    "en_def": "to put different things together and stir them",
+    "cn_def": "混合；攪拌",
+    "sentence": "A: The new kitchen helper is making cookies for the first time, and she is not sure what to do after measuring all the ingredients, so can you help her? B: Tell her to {{BLANK}} the butter and sugar first until they are soft and smooth, and then slowly add the eggs and the flour.",
+    "cn": "A：新來的廚房助手第一次做餅乾，她量好所有材料後不確定接下來要做什麼，你能幫她嗎？ B：告訴她先把奶油和糖【攪拌】到柔軟滑順，然後再慢慢加入蛋和麵粉。",
+    "collocation": "mix the ingredients together 把材料混合在一起"
+   },
+   {
+    "word": "knead",
+    "pos": "v.",
+    "en_def": "to press and fold dough again and again with your hands",
+    "cn_def": "揉（麵團）",
+    "sentence": "A: The bakery is thinking about buying a large machine for making bread dough, but it costs a lot of money, so is it really worth it? B: Yes, because our bakers spend almost two hours every morning trying to {{BLANK}} the dough by hand, and the machine can do the same job in fifteen minutes.",
+    "cn": "A：麵包店考慮買一台製作麵團的大型機器，但要花很多錢，真的值得嗎？ B：值得，因為我們的烘焙師每天早上要花將近兩小時用手【揉】麵團，而機器只要十五分鐘就能做好同樣的工作。",
+    "collocation": "knead the dough for ten minutes 揉麵團十分鐘"
+   },
+   {
+    "word": "rise",
+    "forms": "rise – rose – risen",
+    "pos": "v.",
+    "en_def": "(of bread dough) to get bigger because of yeast",
+    "cn_def": "（麵團）發酵膨脹",
+    "sentence": "A: Why do the bakers come to work at four o'clock in the morning, when the shop does not open until seven thirty? B: The bread dough needs about two hours to {{BLANK}} before it goes into the oven, so they must start very early to have fresh bread ready when customers arrive.",
+    "cn": "A：店裡七點半才開門，為什麼烘焙師凌晨四點就要來上班？ B：麵團進烤箱前大約需要兩個小時【發酵膨脹】，所以他們必須很早開始，才能在顧客到來時準備好新鮮麵包。",
+    "collocation": "let the dough rise 讓麵團發酵"
+   },
+   {
+    "word": "proof",
+    "pos": "v.",
+    "en_def": "to let bread dough rest so it can grow before baking",
+    "cn_def": "（使麵團）醒發；發酵",
+    "sentence": "A: Our kitchen is very cold in winter, and the bread has been coming out smaller and heavier than usual, so how can we fix this problem? B: We can buy a warm cabinet to {{BLANK}} the dough at the right temperature, so it grows properly before baking even on the coldest mornings.",
+    "cn": "A：我們的廚房冬天很冷，烤出來的麵包比平常小又重，要怎麼解決這個問題？ B：我們可以買一個保溫櫃，讓麵團在適當溫度下【醒發】，這樣即使在最冷的早晨，它也能在烘烤前好好膨脹。",
+    "collocation": "proof the dough overnight 讓麵團隔夜發酵"
+   },
+   {
+    "word": "preheat",
+    "pos": "v.",
+    "en_def": "to heat an oven to the right temperature before cooking",
+    "cn_def": "預熱",
+    "sentence": "A: The cookies from the new baker's first tray were pale and soft in the middle, but the second tray was perfect, so why did that happen? B: He forgot to {{BLANK}} the oven before he put in the first tray, so the cookies started baking at a low temperature and did not cook evenly.",
+    "cn": "A：新烘焙師第一盤餅乾顏色很淡、中間軟軟的，但第二盤卻很完美，為什麼會這樣？ B：他放第一盤之前忘了【預熱】烤箱，所以餅乾一開始是在低溫下烤，沒有烤得均勻。",
+    "collocation": "preheat the oven to 180°C 將烤箱預熱至攝氏180度"
+   },
+   {
+    "word": "pan",
+    "pos": "n.",
+    "en_def": "a metal container used for baking or cooking",
+    "cn_def": "烤盤；平底鍋",
+    "sentence": "A: Customers say our cakes sometimes break into pieces when we take them out for decorating, and we have wasted a lot of cakes this month, so what is the problem? B: We should put baking paper in each {{BLANK}} before we pour in the batter, so the cakes come out easily without sticking.",
+    "cn": "A：顧客說我們的蛋糕在取出來裝飾時有時會碎掉，這個月我們浪費了很多蛋糕，問題出在哪？ B：我們應該在倒入麵糊前在每個【烤盤】裡鋪烘焙紙，這樣蛋糕就能輕鬆取出而不會沾黏。",
+    "collocation": "a cake pan 蛋糕烤模"
+   },
+   {
+    "word": "measure",
+    "pos": "v.",
+    "en_def": "to find the exact amount or size of something",
+    "cn_def": "測量；量",
+    "sentence": "A: Our cakes taste a little different every day, and some customers have noticed it, so how can we make sure they always taste the same? B: Every baker must {{BLANK}} each ingredient with a digital scale instead of using cups or spoons, because even small differences can change the taste.",
+    "cn": "A：我們的蛋糕每天吃起來都有點不一樣，有些顧客也注意到了，要怎麼確保味道始終如一？ B：每位烘焙師都必須用電子秤來【量】每一樣材料，而不是用量杯或湯匙，因為即使是小小的差異也會改變味道。",
+    "collocation": "measure the flour carefully 仔細量麵粉"
+   },
+   {
+    "word": "recipe",
+    "pos": "n.",
+    "en_def": "a set of instructions for making a type of food",
+    "cn_def": "食譜；配方",
+    "sentence": "A: Our pineapple cakes have been the most popular gift in the shop for twenty years, and a large company wants to buy our business, so what do they really want? B: They mainly want our secret {{BLANK}}, because it was created by the owner's grandmother, and no other bakery knows exactly how to make the filling.",
+    "cn": "A：我們的鳳梨酥二十年來都是店裡最受歡迎的伴手禮，有家大公司想收購我們，他們真正想要的是什麼？ B：他們主要是想要我們的秘密【配方】，因為那是老闆的祖母創造的，沒有其他麵包店知道內餡確切的做法。",
+    "collocation": "follow the recipe 按照食譜做"
+   },
+   {
+    "word": "texture",
+    "pos": "n.",
+    "en_def": "the way food feels in your mouth",
+    "cn_def": "口感；質地",
+    "sentence": "A: The test group liked the taste of our new rice bread, but some people said it was a little too sticky, so what should we change? B: We can add a little more wheat flour to make the {{BLANK}} lighter and softer, and then we will ask the group to try it again next week.",
+    "cn": "A：試吃小組喜歡我們新米麵包的味道，但有些人說有點太黏，我們該改什麼？ B：我們可以多加一點小麥麵粉，讓【口感】更輕盈柔軟，然後下週再請試吃小組試一次。",
+    "collocation": "a smooth, creamy texture 滑順綿密的口感"
+   },
+   {
+    "word": "crust",
+    "pos": "n.",
+    "en_def": "the hard outside part of bread or a pie",
+    "cn_def": "（麵包或派的）外皮",
+    "sentence": "A: The French customer who comes in every morning said our baguettes are good, but not quite like the ones in Paris, so what is different? B: She wants a harder and crispier {{BLANK}}, so we should bake the bread a little longer at a higher temperature and add steam at the beginning.",
+    "cn": "A：每天早上來的那位法國顧客說我們的法國長棍不錯，但不太像巴黎的，有什麼不一樣？ B：她想要更硬更脆的【外皮】，所以我們應該用稍高的溫度烤久一點，並在一開始加入蒸氣。",
+    "collocation": "a crispy crust 酥脆的外皮"
+   },
+   {
+    "word": "crumb",
+    "pos": "n.",
+    "en_def": "a very small piece of bread or cake; also the soft inside of bread",
+    "cn_def": "麵包屑；麵包內部組織",
+    "sentence": "A: The cleaning staff say there is a lot of mess under the tables in our café every evening, and it takes them a long time to clean, so what is causing it? B: Every small {{BLANK}} from the croissants falls on the floor, so we should serve them on larger plates and give customers more napkins.",
+    "cn": "A：清潔人員說每天晚上咖啡廳桌子底下都很髒亂，要花很多時間清理，是什麼造成的？ B：可頌的每一小片【碎屑】都會掉到地上，所以我們應該用比較大的盤子盛裝，並給顧客多一點餐巾紙。",
+    "collocation": "brush the crumbs off the table 把桌上的麵包屑撥掉"
+   },
+   {
+    "word": "golden",
+    "pos": "adj.",
+    "en_def": "having a warm yellow-brown color, like gold",
+    "cn_def": "金黃色的",
+    "sentence": "A: How do the bakers know exactly when the egg tarts are ready to come out of the oven, because they do not use a timer? B: They watch the tops carefully, and when the pastry turns {{BLANK}} brown and the filling stops moving, they take the tray out right away.",
+    "cn": "A：烘焙師沒有用計時器，他們怎麼知道蛋塔什麼時候可以出爐？ B：他們會仔細看塔的表面，當酥皮變成【金黃】褐色、內餡不再晃動時，就立刻把烤盤拿出來。",
+    "collocation": "bake until golden brown 烤到金黃色"
+   },
+   {
+    "word": "moist",
+    "pos": "adj.",
+    "en_def": "slightly wet in a pleasant way, not dry",
+    "cn_def": "濕潤的",
+    "sentence": "A: Several customers wrote online that our chocolate cake was too dry last week, and our rating dropped a little, so what should we do about it? B: We can add more butter and a little yogurt to keep the cake {{BLANK}}, and we should also store it in a sealed box instead of on the open shelf.",
+    "cn": "A：上週有好幾位顧客在網路上留言說我們的巧克力蛋糕太乾，我們的評分也下降了一點，該怎麼辦？ B：我們可以多加點奶油和一些優格讓蛋糕保持【濕潤】，也應該把它存放在密封盒裡，而不是放在開放的架子上。",
+    "collocation": "a moist chocolate cake 濕潤的巧克力蛋糕"
+   },
+   {
+    "word": "fluffy",
+    "pos": "adj.",
+    "en_def": "soft, light, and full of air",
+    "cn_def": "鬆軟的；蓬鬆的",
+    "sentence": "A: The Japanese pancakes at the new café are so popular that people wait in line for an hour, so what makes them so special? B: They are very tall and {{BLANK}}, because the cooks beat the egg whites until they are full of air, and the pancakes almost shake on the plate.",
+    "cn": "A：新咖啡廳的日式鬆餅超受歡迎，大家要排一個小時，它們有什麼特別之處？ B：它們又高又【蓬鬆】，因為廚師把蛋白打到充滿空氣，鬆餅放在盤子上幾乎會晃動。",
+    "collocation": "fluffy pancakes 鬆軟的鬆餅"
+   },
+   {
+    "word": "dense",
+    "pos": "adj.",
+    "en_def": "heavy and thick, with little air inside",
+    "cn_def": "紮實的；密實的",
+    "sentence": "A: Our new whole wheat bread is healthy, but some customers say it feels too heavy, and they do not buy it again, so how can we improve it? B: The bread is too {{BLANK}} because whole wheat flour is heavy, so we can mix in some white flour and let the dough rise a little longer.",
+    "cn": "A：我們新的全麥麵包很健康，但有些顧客說感覺太重，不會再買，我們要怎麼改善？ B：因為全麥麵粉比較重，麵包太【紮實】了，所以我們可以混入一些白麵粉，並讓麵團發酵久一點。",
+    "collocation": "a dense fruit cake 紮實的水果蛋糕"
+   },
+   {
+    "word": "sweet",
+    "pos": "adj.",
+    "en_def": "having the taste of sugar",
+    "cn_def": "甜的",
+    "sentence": "A: Our cakes sell very well in Japan, but the sales team in Korea says customers there think they taste too strong, so what should we change for that market? B: We can make them less {{BLANK}} for Korean customers by using half the sugar, and we can add more fresh cream and fruit instead.",
+    "cn": "A：我們的蛋糕在日本賣得很好，但韓國的業務團隊說當地顧客覺得味道太重，我們該為那個市場改什麼？ B：我們可以只用一半的糖，讓蛋糕對韓國顧客來說不那麼【甜】，再改加更多鮮奶油和水果。",
+    "collocation": "too sweet 太甜"
+   },
+   {
+    "word": "savory",
+    "pos": "adj.",
+    "en_def": "salty or spicy rather than sweet",
+    "cn_def": "鹹的；鹹香的",
+    "sentence": "A: Many office workers buy breakfast at our bakery, but some of them say they get tired of sweet buns every morning, so what new products could we offer? B: We could add more {{BLANK}} items, such as cheese and ham rolls or tuna sandwiches, because many people prefer salty food in the morning.",
+    "cn": "A：很多上班族在我們麵包店買早餐，但有些人說每天早上吃甜麵包吃膩了，我們可以推出什麼新產品？ B：我們可以增加更多【鹹的】品項，例如起司火腿捲或鮪魚三明治，因為很多人早上比較喜歡吃鹹的。",
+    "collocation": "savory pastries 鹹味糕點"
+   },
+   {
+    "word": "cool",
+    "pos": "v.",
+    "en_def": "to become or make something less hot",
+    "cn_def": "冷卻；放涼",
+    "sentence": "A: The new staff member tried to put cream on the cakes as soon as they came out of the oven, and the cream melted everywhere, so what should she do next time? B: She should let the cakes {{BLANK}} on a rack for at least an hour first, because cream only stays firm on a cake that is completely cold.",
+    "cn": "A：新員工在蛋糕一出爐時就想抹上奶油，結果奶油融得到處都是，她下次該怎麼做？ B：她應該先讓蛋糕在架子上【放涼】至少一小時，因為奶油只有在完全冷卻的蛋糕上才能保持定型。",
+    "collocation": "let the bread cool 讓麵包放涼"
+   },
+   {
+    "word": "decorate",
+    "pos": "v.",
+    "en_def": "to make something look nicer by adding things to it",
+    "cn_def": "裝飾",
+    "sentence": "A: A large company ordered fifty cakes for its twentieth anniversary party next Friday, and they want each cake to look special, so how much time will we need? B: We need two full days to {{BLANK}} the cakes with the company's logo, flowers made of sugar, and the words \"Happy 20th Anniversary\" on each one.",
+    "cn": "A：一家大公司為下週五的二十週年派對訂了五十個蛋糕，他們希望每個蛋糕看起來都很特別，我們需要多少時間？ B：我們需要整整兩天，在每個蛋糕上用公司商標、糖做的花朵和「二十週年快樂」的字樣來【裝飾】。",
+    "collocation": "decorate a birthday cake 裝飾生日蛋糕"
+   },
+   {
+    "word": "icing",
+    "pos": "n.",
+    "en_def": "a sweet mix of sugar and liquid used to cover cakes",
+    "cn_def": "糖霜",
+    "sentence": "A: Children love the cupcakes at our shop, but their parents say they have too much sugar on top, so how can we make them healthier but still pretty? B: We can use a thinner layer of {{BLANK}} and add colorful fresh fruit on top, so the cupcakes still look fun but contain less sugar.",
+    "cn": "A：小朋友很愛我們店裡的杯子蛋糕，但家長說上面的糖太多，我們要怎麼讓它更健康又一樣漂亮？ B：我們可以用薄一點的【糖霜】，再在上面放色彩繽紛的新鮮水果，這樣杯子蛋糕看起來還是很有趣，但含糖量比較少。",
+    "collocation": "chocolate icing 巧克力糖霜"
+   },
+   {
+    "word": "batch",
+    "pos": "n.",
+    "en_def": "an amount of food made at one time",
+    "cn_def": "一批",
+    "sentence": "A: The hotel has ordered two hundred cookies for the conference coffee break tomorrow, but our oven can only bake fifty at once, so can we finish them in time? B: Yes, each {{BLANK}} takes about fifteen minutes, so we can make all four in about one hour and still have time to pack them.",
+    "cn": "A：飯店為明天的會議茶敘訂了兩百片餅乾，但我們的烤箱一次只能烤五十片，來得及做完嗎？ B：可以，每【一批】大約十五分鐘，所以四批大約一個小時就能做完，還有時間包裝。",
+    "collocation": "bake a batch of cookies 烤一批餅乾"
+   },
+   {
+    "word": "aroma",
+    "pos": "n.",
+    "en_def": "a strong pleasant smell, especially of food",
+    "cn_def": "香氣；香味",
+    "sentence": "A: Our bakery is on a busy street, but many people walk past without coming in, so how can we attract more customers without spending a lot of money on advertising? B: We can open the front door when the bread comes out of the oven, because the warm {{BLANK}} of fresh bread often makes people stop and walk inside.",
+    "cn": "A：我們麵包店在熱鬧的街上，但很多人經過卻沒進來，要怎麼在不花大錢打廣告的情況下吸引更多顧客？ B：我們可以在麵包出爐時打開前門，因為新鮮麵包溫暖的【香氣】常常會讓人停下腳步走進來。",
+    "collocation": "the aroma of fresh coffee 新鮮咖啡的香氣"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The hotel kitchen staff _____ fresh bread every morning for the breakfast buffet. Guests love the warm rolls and croissants.",
+    "options": [
+     "knead",
+     "bake",
+     "proof",
+     "measure"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The new _____ can bake forty loaves of bread at once. It has helped the bakery double its daily production.",
+    "options": [
+     "crumb",
+     "icing",
+     "batter",
+     "oven"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The chef rolled out the pizza _____ on the table. Then she added tomato sauce and cheese on top.",
+    "options": [
+     "dough",
+     "batter",
+     "icing",
+     "aroma"
+    ],
+    "answer": 0,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Pour the pancake _____ into a hot pan. Cook each side for about two minutes until it turns brown.",
+    "options": [
+     "dough",
+     "crust",
+     "batter",
+     "crumb"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The bakery uses fifty kilograms of _____ every day. Most of it is used to make bread and noodles.",
+    "options": [
+     "flour",
+     "aroma",
+     "texture",
+     "batch"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Bread will not grow without _____. It makes the dough soft and full of small air bubbles.",
+    "options": [
+     "icing",
+     "crumb",
+     "batch",
+     "yeast"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Many customers want drinks with less _____. The café now offers a healthier choice on its menu.",
+    "options": [
+     "dough",
+     "sugar",
+     "crust",
+     "yeast"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Spread a little _____ on the warm toast. It melts quickly and gives the bread a rich taste.",
+    "options": [
+     "flour",
+     "yeast",
+     "butter",
+     "batter"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Please _____ the flour and eggs slowly in a large bowl. Stop when the batter becomes smooth and thick.",
+    "options": [
+     "cool",
+     "mix",
+     "rise",
+     "proof"
+    ],
+    "answer": 1,
+    "vocabIndex": 8
+   },
+   {
+    "q": "You need to _____ the dough for about ten minutes. Press and fold it until it feels soft and smooth.",
+    "options": [
+     "cool",
+     "rise",
+     "decorate",
+     "knead"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Leave the dough in a warm place so it can _____. It should double in size in about one hour.",
+    "options": [
+     "rise",
+     "knead",
+     "measure",
+     "decorate"
+    ],
+    "answer": 0,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Bakers often _____ the dough overnight in the fridge. This slow rest gives the bread a better flavor.",
+    "options": [
+     "decorate",
+     "measure",
+     "proof",
+     "rise"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Please _____ the oven to 200 degrees before baking. The cookies will not cook evenly in a cold oven.",
+    "options": [
+     "knead",
+     "decorate",
+     "rise",
+     "preheat"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Put some baking paper in the _____ before adding the batter. This stops the cake from sticking to the metal.",
+    "options": [
+     "pan",
+     "aroma",
+     "crumb",
+     "texture"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Carefully _____ the ingredients with a scale. A small mistake can change the taste of the whole cake.",
+    "options": [
+     "rise",
+     "measure",
+     "cool",
+     "proof"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "This _____ has been in the owner's family for three generations. Nobody outside the family knows all the steps.",
+    "options": [
+     "crumb",
+     "icing",
+     "recipe",
+     "crust"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The new cookies have a light, crispy _____. Customers say they almost melt in the mouth.",
+    "options": [
+     "texture",
+     "batch",
+     "recipe",
+     "oven"
+    ],
+    "answer": 0,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The pie has a thin, crispy _____. The apple filling inside is soft, sweet, and warm.",
+    "options": [
+     "batter",
+     "yeast",
+     "aroma",
+     "crust"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Please wipe every _____ off the tables after customers leave. The café must look clean for the next guests.",
+    "options": [
+     "recipe",
+     "aroma",
+     "crumb",
+     "texture"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Bake the bread until the top turns _____ brown. It usually takes about thirty minutes in a hot oven.",
+    "options": [
+     "moist",
+     "golden",
+     "dense",
+     "savory"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The banana cake is soft and _____. It stays fresh for three days in a closed box.",
+    "options": [
+     "golden",
+     "savory",
+     "moist",
+     "dense"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The café is famous for its light and _____ pancakes. They are so soft that they shake on the plate.",
+    "options": [
+     "fluffy",
+     "dense",
+     "savory",
+     "golden"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "This dark rye bread is heavy and _____. One slice is very filling and keeps you full for hours.",
+    "options": [
+     "fluffy",
+     "dense",
+     "savory",
+     "golden"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Our new cake is less _____ than the old one. We cut the sugar by thirty percent.",
+    "options": [
+     "savory",
+     "golden",
+     "dense",
+     "sweet"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The bakery added more _____ items to its menu. Its new cheese and bacon rolls are popular at lunchtime.",
+    "options": [
+     "sweet",
+     "fluffy",
+     "savory",
+     "moist"
+    ],
+    "answer": 2,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Let the bread _____ on a rack before you slice it. Cutting it while hot will make it sticky.",
+    "options": [
+     "cool",
+     "preheat",
+     "knead",
+     "rise"
+    ],
+    "answer": 0,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The staff will _____ the store with lights and flowers for the holidays. The work will be done on Sunday night.",
+    "options": [
+     "proof",
+     "decorate",
+     "knead",
+     "measure"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The birthday cake was covered in pink _____. All of the children at the party loved the sweet, colorful top.",
+    "options": [
+     "crumb",
+     "crust",
+     "yeast",
+     "icing"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The factory produces a new _____ of cookies every twenty minutes. Each one is checked before it is packed.",
+    "options": [
+     "aroma",
+     "texture",
+     "batch",
+     "crumb"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The _____ of fresh coffee fills the office every morning. It helps many workers wake up and start the day.",
+    "options": [
+     "batch",
+     "crust",
+     "recipe",
+     "aroma"
+    ],
+    "answer": 3,
+    "vocabIndex": 29
+   }
+  ]
+ },
+ "24": {
+  "theme": "Bar Chart 長條圖",
+  "source": "https://www.examword.com/group-topic/bar-chart",
+  "VOCAB": [
+   {
+    "word": "axis",
+    "pos": "n.",
+    "en_def": "a line at the side or bottom of a chart used to show values",
+    "cn_def": "座標軸",
+    "sentence": "A: I am making a bar chart of our monthly sales for tomorrow's meeting, but I am not sure where to put the names of the months and the sales numbers. B: Put the months along the bottom and the sales amounts on the vertical {{BLANK}}, so everyone can see how high each month's bar goes.",
+    "cn": "A：我正在為明天的會議做每月銷售的長條圖，但不確定月份名稱和銷售數字該放在哪裡。 B：把月份放在底部，銷售金額放在垂直【座標軸】上，這樣大家就能看出每個月的長條有多高。",
+    "collocation": "the horizontal axis 橫軸"
+   },
+   {
+    "word": "category",
+    "pos": "n.",
+    "en_def": "a group of things that have similar features",
+    "cn_def": "類別；種類",
+    "sentence": "A: The store manager wants a chart that shows which kinds of products sold best last quarter, but we sell more than five hundred different items, so how can I make it simple? B: Put the items into groups like drinks, snacks, and frozen food, and then draw one bar for each {{BLANK}} so the chart stays clear and easy to read.",
+    "cn": "A：店長想要一張圖表顯示上一季哪些種類的商品賣得最好，但我們賣五百多種商品，要怎麼讓它簡單一點？ B：把商品分成飲料、零食和冷凍食品等組別，然後每個【類別】畫一根長條，這樣圖表就會清楚易讀。",
+    "collocation": "a product category 商品類別"
+   },
+   {
+    "word": "value",
+    "pos": "n.",
+    "en_def": "a number or amount shown on a chart",
+    "cn_def": "數值",
+    "sentence": "A: When I showed my chart to the director, she said she could not tell the exact sales for each region just by looking at the bars, so how can I fix that? B: Write the {{BLANK}} at the top of each bar, such as \"2.5 million,\" so she can read the exact number without guessing from the lines on the side.",
+    "cn": "A：我給主任看圖表時，她說光看長條沒辦法知道每個地區確切的銷售額，我要怎麼修正？ B：在每根長條頂端寫上【數值】，例如「250萬」，這樣她不必從旁邊的格線猜，就能讀到確切的數字。",
+    "collocation": "the highest value 最高值"
+   },
+   {
+    "word": "scale",
+    "pos": "n.",
+    "en_def": "the set of numbers used to measure the size of things on a chart",
+    "cn_def": "刻度；比例尺",
+    "sentence": "A: In my chart, the small differences between our three stores look huge, and the manager thinks the Tainan store is doing terribly, but that is not true. B: The {{BLANK}} on your chart starts at ninety instead of zero, so you should change it to start at zero, and the differences will look as small as they really are.",
+    "cn": "A：在我的圖表裡，我們三家門市之間的小差距看起來很大，經理以為台南店表現很差，但其實不是。 B：你圖表上的【刻度】從九十開始而不是從零，你應該改成從零開始，這樣差距看起來就會和實際一樣小。",
+    "collocation": "a scale from 0 to 100 從0到100的刻度"
+   },
+   {
+    "word": "frequency",
+    "pos": "n.",
+    "en_def": "how often something happens",
+    "cn_def": "頻率；次數",
+    "sentence": "A: The customer service team wants to know which problems customers call about most often, so that they can train new staff better, so what chart should I make? B: Make a bar chart that shows the {{BLANK}} of each type of complaint last month, so the team can see that late delivery calls happen three times more than any other.",
+    "cn": "A：客服團隊想知道顧客最常為了哪些問題打電話，好更有效地訓練新員工，我該做什麼圖表？ B：做一張長條圖，顯示上個月每一種客訴的【次數】，讓團隊看到送貨延遲的電話比其他任何問題多三倍。",
+    "collocation": "the frequency of customer complaints 客訴的頻率"
+   },
+   {
+    "word": "compare",
+    "pos": "v.",
+    "en_def": "to look at things to see how they are similar or different",
+    "cn_def": "比較",
+    "sentence": "A: The board wants to see whether our new advertisement worked, but they only have ten minutes for our report at the meeting, so what should I show them? B: Use one bar chart to {{BLANK}} sales in the three months before and after the advertisement, because the difference will be easy to see in a few seconds.",
+    "cn": "A：董事會想知道我們的新廣告有沒有效，但會議上只給我們十分鐘報告，我該給他們看什麼？ B：用一張長條圖來【比較】廣告前後三個月的銷售，因為幾秒鐘內就能輕鬆看出差異。",
+    "collocation": "compare this year's sales with last year's 比較今年與去年的銷售"
+   },
+   {
+    "word": "comparison",
+    "pos": "n.",
+    "en_def": "the act of looking at things to see how they are similar or different",
+    "cn_def": "比較；對照",
+    "sentence": "A: Our manager asked me to show how our prices are different from those of our three main competitors, but I only have the numbers in a long table. B: Turn the table into a bar chart, because a visual {{BLANK}} of prices is much easier for people to understand than a page full of numbers.",
+    "cn": "A：經理要我呈現我們的價格和三家主要競爭對手有什麼不同，但我只有一張很長的數字表格。 B：把表格轉成長條圖，因為價格的視覺化【比較】比整頁數字更容易讓人理解。",
+    "collocation": "a price comparison 價格比較"
+   },
+   {
+    "word": "distribution",
+    "pos": "n.",
+    "en_def": "the way something is spread out among different groups",
+    "cn_def": "分布",
+    "sentence": "A: Human resources wants to know the ages of our employees, because many senior workers may retire soon, so how should I present this information? B: Make a bar chart showing the age {{BLANK}} of all staff in five-year groups, so managers can quickly see how many people are over fifty-five.",
+    "cn": "A：人資部想知道員工的年齡，因為很多資深員工可能快退休了，我該怎麼呈現這些資訊？ B：做一張長條圖，以每五歲為一組顯示全體員工的年齡【分布】，讓主管能很快看出有多少人超過五十五歲。",
+    "collocation": "the age distribution of customers 顧客的年齡分布"
+   },
+   {
+    "word": "label",
+    "pos": "n.",
+    "en_def": "a word or short phrase that names part of a chart",
+    "cn_def": "標籤；標示",
+    "sentence": "A: I showed my sales chart to the new interns, and none of them understood what the bars meant, even though the colors looked nice. B: You forgot to add a {{BLANK}} under each bar, so people cannot tell which bar is for which store, and you should also give the chart a title.",
+    "cn": "A：我把銷售圖表給新來的實習生看，雖然顏色很好看，但沒人看得懂那些長條代表什麼。 B：你忘了在每根長條下面加上【標籤】，所以大家分不出哪根長條是哪家門市的，你也應該幫圖表加個標題。",
+    "collocation": "add a label to each bar 為每根長條加上標籤"
+   },
+   {
+    "word": "legend",
+    "pos": "n.",
+    "en_def": "a small box on a chart that explains what each color or symbol means",
+    "cn_def": "圖例",
+    "sentence": "A: My chart uses blue bars for this year and gray bars for last year, but the manager asked me which color was which during the meeting, and I felt embarrassed. B: Add a small {{BLANK}} in the top right corner that explains each color, so people can understand the chart without asking you.",
+    "cn": "A：我的圖表用藍色長條代表今年、灰色長條代表去年，但經理在會議中問我哪個顏色是哪個，讓我很難為情。 B：在右上角加一個小【圖例】說明每個顏色，這樣大家不必問你也能看懂圖表。",
+    "collocation": "the chart legend 圖表的圖例"
+   },
+   {
+    "word": "dataset",
+    "pos": "n.",
+    "en_def": "a collection of related information, usually stored on a computer",
+    "cn_def": "資料集",
+    "sentence": "A: The marketing team wants charts about customer spending for the last five years, but our sales numbers are stored in many different files, so where should I start? B: First, combine all the files into one clean {{BLANK}} in a spreadsheet, and check for missing numbers before you make any charts from it.",
+    "cn": "A：行銷團隊想要過去五年顧客消費的圖表，但我們的銷售數字存放在很多不同的檔案裡，我該從哪裡開始？ B：先把所有檔案整合成試算表裡一個乾淨的【資料集】，在用它做任何圖表之前，先檢查有沒有缺漏的數字。",
+    "collocation": "a large dataset 大型資料集"
+   },
+   {
+    "word": "variable",
+    "pos": "n.",
+    "en_def": "a factor or quantity that can change",
+    "cn_def": "變數；變項",
+    "sentence": "A: Our ice cream sales went up a lot in July, and the manager thinks it was because of our new advertisement, but I am not so sure about that. B: Temperature is another important {{BLANK}}, so you should show the weather data in the chart as well, because hot days usually increase ice cream sales.",
+    "cn": "A：我們的冰淇淋銷量在七月大幅上升，經理認為是新廣告的關係，但我不太確定。 B：氣溫是另一個重要的【變數】，所以你也應該在圖表中呈現天氣資料，因為炎熱的天氣通常會讓冰淇淋銷量增加。",
+    "collocation": "an important variable 重要的變數"
+   },
+   {
+    "word": "horizontal",
+    "pos": "adj.",
+    "en_def": "going from side to side, flat like the ground",
+    "cn_def": "水平的；橫向的",
+    "sentence": "A: The names of our product lines are very long, such as \"premium organic green tea,\" and they do not fit under the bars in my chart, so what can I do? B: Turn the chart into a {{BLANK}} bar chart, with the bars going from left to right, so the long names fit easily on the left side.",
+    "cn": "A：我們的產品線名稱很長，例如「頂級有機綠茶」，在我的圖表長條下面放不下，我該怎麼辦？ B：把圖表改成【橫向】長條圖，讓長條從左往右延伸，這樣長名稱就能輕鬆放在左側。",
+    "collocation": "a horizontal bar chart 橫條圖"
+   },
+   {
+    "word": "vertical",
+    "pos": "adj.",
+    "en_def": "going straight up and down",
+    "cn_def": "垂直的；直立的",
+    "sentence": "A: Our designer made the sales chart with bars going up from the bottom of the page, but the director said she prefers bars that go across, so should we change it? B: For monthly sales, {{BLANK}} bars are usually easier to read because time goes from left to right, so I would explain that and keep the original design.",
+    "cn": "A：我們的設計師把銷售圖表做成從頁面底部往上的長條，但主任說她比較喜歡橫向的長條，我們該改嗎？ B：對每月銷售來說，【垂直】長條通常比較容易閱讀，因為時間是從左往右排列的，所以我會向她說明並保留原本的設計。",
+    "collocation": "a vertical line 垂直線"
+   },
+   {
+    "word": "discrete",
+    "pos": "adj.",
+    "en_def": "separate and different from each other",
+    "cn_def": "離散的；個別的",
+    "sentence": "A: Why did you use a bar chart instead of a line chart to show sales in our five different stores, when the manager usually likes line charts? B: Because the stores are {{BLANK}} groups that are not connected to each other, a line would suggest a change over time, which is not what the data shows.",
+    "cn": "A：經理通常喜歡折線圖，你為什麼用長條圖而不是折線圖來呈現五家不同門市的銷售？ B：因為這些門市是彼此不相連的【個別】群組，用折線會讓人以為是隨時間的變化，但資料呈現的並不是這個。",
+    "collocation": "discrete categories 離散的類別"
+   },
+   {
+    "word": "magnitude",
+    "pos": "n.",
+    "en_def": "the great size or importance of something",
+    "cn_def": "規模；大小",
+    "sentence": "A: The bar for online sales is three times taller than the bar for store sales this year, and some managers were very surprised, so what does it mean? B: It shows the {{BLANK}} of the change in how customers shop, because online sales have grown much faster than anyone expected in just two years.",
+    "cn": "A：今年網路銷售的長條比門市銷售高了三倍，有些經理非常驚訝，這代表什麼？ B：這顯示了顧客購物方式改變的【規模】，因為網路銷售在短短兩年內的成長速度遠超出任何人的預期。",
+    "collocation": "the magnitude of the problem 問題的嚴重程度"
+   },
+   {
+    "word": "proportion",
+    "pos": "n.",
+    "en_def": "a part of a whole, often shown as a percentage",
+    "cn_def": "比例",
+    "sentence": "A: The director wants to know how much of our total income comes from overseas customers, because she is planning a trip to Japan and Korea next month. B: My chart shows that a large {{BLANK}} of our income, about forty percent, comes from overseas, and most of it is from Japanese customers.",
+    "cn": "A：主任想知道我們總收入中有多少來自海外顧客，因為她下個月打算去日本和韓國。 B：我的圖表顯示我們收入中很大的【比例】，大約百分之四十，來自海外，其中大多數是日本顧客。",
+    "collocation": "a large proportion of sales 銷售額的很大比例"
+   },
+   {
+    "word": "trend",
+    "pos": "n.",
+    "en_def": "a general direction in which something is changing",
+    "cn_def": "趨勢",
+    "sentence": "A: Our sales went up in some months and down in others this year, so the board is confused about whether the business is doing well or not. B: If you look at all five years together in one chart, the overall {{BLANK}} is clearly upward, even though a few months were weaker than others.",
+    "cn": "A：我們今年的銷售有幾個月上升、有幾個月下降，所以董事會搞不清楚業務到底好不好。 B：如果你把五年的資料放在一張圖表裡一起看，整體【趨勢】顯然是向上的，即使有幾個月比較弱。",
+    "collocation": "an upward trend 上升趨勢"
+   },
+   {
+    "word": "gap",
+    "pos": "n.",
+    "en_def": "a large difference between two things",
+    "cn_def": "差距",
+    "sentence": "A: The chart shows that the Taipei store sold far more than the Hualien store last year, and the manager wants to understand why the difference is so large. B: Part of the {{BLANK}} comes from the size of the city, but the Hualien store also has fewer staff and much shorter opening hours.",
+    "cn": "A：圖表顯示台北店去年的銷量遠高於花蓮店，經理想了解為什麼差異這麼大。 B：部分【差距】來自城市的規模，但花蓮店的員工也比較少，營業時間也短得多。",
+    "collocation": "close the gap 縮小差距"
+   },
+   {
+    "word": "interval",
+    "pos": "n.",
+    "en_def": "the space between two numbers or points on a scale",
+    "cn_def": "間隔；區間",
+    "sentence": "A: My chart has numbers on the side going 0, 7, 14, 21, and 28, and the manager said they are hard to read, so what numbers should I use instead? B: Use an {{BLANK}} of ten, with numbers like 0, 10, 20, and 30, because round numbers make it much easier to estimate the height of each bar.",
+    "cn": "A：我的圖表側邊數字是0、7、14、21、28，經理說很難閱讀，我該改用什麼數字？ B：用十為一個【間隔】，像是0、10、20、30，因為整數能讓人更容易估計每根長條的高度。",
+    "collocation": "at regular intervals 每隔固定時間"
+   },
+   {
+    "word": "rank",
+    "pos": "v.",
+    "en_def": "to put things in order from highest to lowest",
+    "cn_def": "排名；排序",
+    "sentence": "A: The sales director wants to see which of our twenty salespeople did best this year, but my chart puts them in alphabetical order, so is that a problem? B: Yes, it is, so you should {{BLANK}} them from the highest sales to the lowest, because then the top performers will appear right at the top of the chart.",
+    "cn": "A：業務總監想看我們二十位業務員中今年誰表現最好，但我的圖表是按字母順序排列，這樣有問題嗎？ B：有，你應該把他們從銷售最高到最低【排序】，這樣表現最好的人就會出現在圖表最上方。",
+    "collocation": "rank first in sales 銷售排名第一"
+   },
+   {
+    "word": "highlight",
+    "pos": "v.",
+    "en_def": "to make something easy to notice",
+    "cn_def": "突顯；強調",
+    "sentence": "A: My chart shows sales for all twelve products, but I really want the board to notice that our new green tea drink sold the most, so how can I do that? B: You can {{BLANK}} that bar in bright orange and make all the other bars light gray, so their eyes will go straight to the green tea.",
+    "cn": "A：我的圖表呈現了全部十二項產品的銷售，但我真的希望董事會注意到我們新的綠茶飲料賣得最多，要怎麼做？ B：你可以用亮橘色【突顯】那根長條，把其他長條都改成淺灰色，這樣他們的目光就會直接落在綠茶上。",
+    "collocation": "highlight the key results 突顯關鍵結果"
+   },
+   {
+    "word": "summary",
+    "pos": "n.",
+    "en_def": "a short statement of the main points",
+    "cn_def": "摘要；總結",
+    "sentence": "A: The president will only look at my report for a few minutes before her flight to Singapore this afternoon, so what should I put on the first page? B: Put a short {{BLANK}} of the main results with one simple bar chart, so she can understand the key points even if she does not read the rest.",
+    "cn": "A：總裁今天下午搭機去新加坡前只會看我的報告幾分鐘，我第一頁該放什麼？ B：放一段主要結果的簡短【摘要】，再搭配一張簡單的長條圖，這樣即使她沒讀其他部分，也能了解重點。",
+    "collocation": "a brief summary 簡短摘要"
+   },
+   {
+    "word": "baseline",
+    "pos": "n.",
+    "en_def": "a starting point used to compare later changes",
+    "cn_def": "基準；基線",
+    "sentence": "A: We started a new training program for the sales team in March, and the manager wants to know if it really made a difference to their results. B: Use the sales in February as the {{BLANK}}, and then show each month after that in the chart, so everyone can see how much sales grew after the training.",
+    "cn": "A：我們三月為業務團隊開辦了新的培訓課程，經理想知道它是否真的對業績有影響。 B：以二月的銷售作為【基準】，然後在圖表中呈現之後的每個月，讓大家看出培訓後銷售成長了多少。",
+    "collocation": "a baseline for comparison 比較的基準"
+   },
+   {
+    "word": "contrast",
+    "pos": "n.",
+    "en_def": "a clear difference that is easy to see",
+    "cn_def": "對比；差異",
+    "sentence": "A: The bars for 2025 and 2026 in my chart are light blue and slightly darker blue, and people say they look almost the same on the projector screen. B: Use colors with more {{BLANK}}, such as dark blue and orange, so the two years are easy to tell apart, even in a bright meeting room.",
+    "cn": "A：我圖表中2025年和2026年的長條是淺藍色和稍深的藍色，大家說在投影幕上看起來幾乎一樣。 B：用【對比】更強的顏色，例如深藍和橘色，這樣即使在明亮的會議室裡也很容易分辨這兩年。",
+    "collocation": "a sharp contrast 鮮明的對比"
+   },
+   {
+    "word": "clarity",
+    "pos": "n.",
+    "en_def": "the quality of being clear and easy to understand",
+    "cn_def": "清晰；清楚",
+    "sentence": "A: My chart has a 3D design, shadows, and many different colors, and I think it looks very modern, but the director did not seem to like it. B: She cares more about {{BLANK}} than style, so you should use a simple flat design with only two colors, so the numbers are easy to understand.",
+    "cn": "A：我的圖表有立體設計、陰影和很多不同顏色，我覺得看起來很現代，但主任似乎不喜歡。 B：她比較在意【清晰度】而不是風格，所以你應該用只有兩種顏色的簡單平面設計，讓數字容易理解。",
+    "collocation": "for the sake of clarity 為了清楚起見"
+   },
+   {
+    "word": "color",
+    "pos": "n.",
+    "en_def": "red, blue, green, and so on",
+    "cn_def": "顏色",
+    "sentence": "A: The marketing report has five charts, and each one uses different colors for the same three products, so the readers keep getting confused. B: Give each product one {{BLANK}} and use it in every chart, for example green for tea and brown for coffee, so readers recognize them right away.",
+    "cn": "A：行銷報告有五張圖表，每張都用不同顏色代表同樣的三項產品，讓讀者一直搞混。 B：每項產品都給一種【顏色】，並在每張圖表中使用，例如綠色代表茶、棕色代表咖啡，讓讀者馬上就能認出來。",
+    "collocation": "use a different color for each bar 每根長條用不同顏色"
+   },
+   {
+    "word": "measure",
+    "pos": "v.",
+    "en_def": "to find out the size or amount of something",
+    "cn_def": "衡量；測量",
+    "sentence": "A: The manager wants a chart to show whether our customers are happier with our service this year, but happiness is not a number, so how can we show it? B: We can {{BLANK}} customer satisfaction with a short online survey that asks people to score our service from one to ten after each visit.",
+    "cn": "A：經理想要一張圖表顯示今年顧客是否對我們的服務更滿意，但滿意度不是數字，要怎麼呈現？ B：我們可以用簡短的線上問卷來【衡量】顧客滿意度，請顧客在每次光顧後為我們的服務打一到十分。",
+    "collocation": "measure customer satisfaction 衡量顧客滿意度"
+   },
+   {
+    "word": "insight",
+    "pos": "n.",
+    "en_def": "a clear, deep understanding of something",
+    "cn_def": "洞察；深入了解",
+    "sentence": "A: The chart shows that most of our customers shop late at night, which nobody in the company expected, so how can this help our business? B: It gives us a useful {{BLANK}} into our customers' habits, so we can send special offers in the evening and keep our online help desk open later.",
+    "cn": "A：圖表顯示我們大多數顧客都在深夜購物，公司裡沒人預料到，這對我們的業務有什麼幫助？ B：它讓我們對顧客的習慣有了有用的【深入了解】，所以我們可以在晚上發送特別優惠，並延長線上客服的服務時間。",
+    "collocation": "gain insight into customer behavior 深入了解顧客行為"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The months are shown along the bottom _____ of the chart. Sales figures appear on the left side.",
+    "options": [
+     "insight",
+     "axis",
+     "clarity",
+     "summary"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Drinks were the best-selling _____ in the store last month. Snacks came second, followed by frozen food.",
+    "options": [
+     "category",
+     "axis",
+     "interval",
+     "baseline"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The _____ of each bar is printed above it. Readers can see the exact sales number for every month.",
+    "options": [
+     "legend",
+     "axis",
+     "value",
+     "gap"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The _____ on the left side of the chart goes from zero to one hundred. Each line marks ten units.",
+    "options": [
+     "insight",
+     "summary",
+     "trend",
+     "scale"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The chart shows the _____ of customer visits during the week. Most people come on Saturday afternoons.",
+    "options": [
+     "frequency",
+     "clarity",
+     "baseline",
+     "legend"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The report will _____ the costs of the three shipping companies. The cheapest one will be chosen next month.",
+    "options": [
+     "rank",
+     "highlight",
+     "measure",
+     "compare"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "A _____ of prices shows that our product is cheaper than most others. This is a strong point for our sales team.",
+    "options": [
+     "axis",
+     "legend",
+     "comparison",
+     "interval"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The chart shows the _____ of staff across the five branches. Most employees work in the Taipei office.",
+    "options": [
+     "clarity",
+     "distribution",
+     "axis",
+     "legend"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Each bar has a _____ underneath it with the name of the store. This makes the chart easy to read.",
+    "options": [
+     "trend",
+     "gap",
+     "insight",
+     "label"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Check the _____ in the corner to see what each color means. Blue is for this year and gray is for last year.",
+    "options": [
+     "trend",
+     "gap",
+     "legend",
+     "baseline"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The research team collected a large _____ of customer opinions. It includes answers from over ten thousand people.",
+    "options": [
+     "axis",
+     "dataset",
+     "legend",
+     "clarity"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Price is not the only _____ that affects sales. Weather and holidays also make a big difference.",
+    "options": [
+     "variable",
+     "axis",
+     "legend",
+     "summary"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Our online store sorts products by _____ to help shoppers. Customers can click on toys, books, or kitchen goods.",
+    "options": [
+     "baseline",
+     "category",
+     "clarity",
+     "magnitude"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The map uses a _____ of one centimeter to one kilometer. Visitors can easily guess walking distances.",
+    "options": [
+     "legend",
+     "insight",
+     "scale",
+     "summary"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The _____ on the box says the product was made in Japan. It also lists the date it should be used by.",
+    "options": [
+     "trend",
+     "gap",
+     "magnitude",
+     "label"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Nobody expected the _____ of the sales drop. Profits fell by almost fifty percent in only three months.",
+    "options": [
+     "magnitude",
+     "legend",
+     "label",
+     "axis"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "A large _____ of our customers are under thirty. That is why we advertise mainly on social media.",
+    "options": [
+     "axis",
+     "legend",
+     "interval",
+     "proportion"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "There is a clear upward _____ in online sales. They have increased every year for the past five years.",
+    "options": [
+     "trend",
+     "legend",
+     "label",
+     "axis"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The _____ between the two stores' sales is getting smaller. The new store is quickly catching up.",
+    "options": [
+     "legend",
+     "gap",
+     "axis",
+     "label"
+    ],
+    "answer": 1,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The prices were checked at a regular _____ of one hour. The chart shows how they changed during the day.",
+    "options": [
+     "legend",
+     "label",
+     "interval",
+     "clarity"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The magazine will _____ the top ten hotels in Asia. Readers vote online to choose their favorites.",
+    "options": [
+     "compare",
+     "rank",
+     "measure",
+     "highlight"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Please _____ the most important numbers in red. The director only has a few minutes to read the report.",
+    "options": [
+     "highlight",
+     "rank",
+     "compare",
+     "measure"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "A short _____ of the results appears on the first page. It explains the key points in five sentences.",
+    "options": [
+     "axis",
+     "legend",
+     "interval",
+     "summary"
+    ],
+    "answer": 3,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Last year's sales are used as the _____ for this year's targets. Each store must grow by at least five percent.",
+    "options": [
+     "legend",
+     "label",
+     "baseline",
+     "clarity"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "There is a sharp _____ between the two bars. One is three times taller than the other.",
+    "options": [
+     "legend",
+     "axis",
+     "interval",
+     "contrast"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The new report design improved the _____ of the data. Readers now understand the charts much more quickly.",
+    "options": [
+     "clarity",
+     "axis",
+     "legend",
+     "interval"
+    ],
+    "answer": 0,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Each product has its own _____ in the chart. Coffee is brown, tea is green, and juice is orange.",
+    "options": [
+     "axis",
+     "color",
+     "gap",
+     "trend"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The company will _____ the success of the campaign by counting new customers. Results will be shared next month.",
+    "options": [
+     "rank",
+     "highlight",
+     "measure",
+     "compare"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The survey gave the team useful _____ into what young customers want. They plan to use it for the next product.",
+    "options": [
+     "axis",
+     "insight",
+     "legend",
+     "interval"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The chart shows a downward _____ in paper sales. More customers now read news on their phones instead.",
+    "options": [
+     "trend",
+     "legend",
+     "axis",
+     "label"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   }
+  ]
+ },
+ "25": {
+  "theme": "Barbecue 烤肉",
+  "source": "https://www.examword.com/group-topic/barbecue",
+  "VOCAB": [
+   {
+    "word": "grill",
+    "pos": "v.",
+    "en_def": "to cook food on metal bars over strong heat",
+    "cn_def": "燒烤；炙烤",
+    "sentence": "A: Our company is holding a Moon Festival party on the rooftop this year, and the manager wants everyone to cook together, so what food should we prepare? B: Let's buy plenty of meat, corn, and mushrooms so everyone can {{BLANK}} their own food, and we can also order some mooncakes and fruit for dessert.",
+    "cn": "A：公司今年要在頂樓舉辦中秋派對，經理希望大家一起烤肉，我們該準備什麼食物？ B：我們買很多肉、玉米和香菇，讓大家可以自己【燒烤】食物，也可以訂些月餅和水果當甜點。",
+    "collocation": "grill fish over charcoal 用木炭烤魚"
+   },
+   {
+    "word": "smoke",
+    "pos": "n.",
+    "en_def": "the gray cloud that comes from something burning",
+    "cn_def": "煙",
+    "sentence": "A: The neighbors in the apartment building next to our restaurant have complained to the city about our outdoor grill, so what exactly is the problem? B: Too much {{BLANK}} from the grill is blowing into their windows in the evening, so we need to install a better fan and move the grill to the other side.",
+    "cn": "A：我們餐廳隔壁公寓大樓的住戶向市政府投訴我們的戶外烤爐，問題到底是什麼？ B：晚上烤爐冒出太多【煙】吹進他們的窗戶，所以我們需要裝一台更好的抽風機，並把烤爐移到另一邊。",
+    "collocation": "thick black smoke 濃濃的黑煙"
+   },
+   {
+    "word": "charcoal",
+    "pos": "n.",
+    "en_def": "black material made from burnt wood, used as fuel for grilling",
+    "cn_def": "木炭",
+    "sentence": "A: We are planning a barbecue at the beach for our clients next Saturday, but the beach has no electricity, so how are we going to cook all the food? B: We will use {{BLANK}} in three large grills, so please buy about ten bags, some lighters, and a few buckets of water for safety.",
+    "cn": "A：我們計畫下週六在海邊為客戶舉辦烤肉，但海灘沒有電，我們要怎麼煮那麼多食物？ B：我們會在三個大烤爐裡用【木炭】，所以請你買大約十袋，再準備一些打火機和幾桶水以策安全。",
+    "collocation": "light the charcoal 點燃木炭"
+   },
+   {
+    "word": "flame",
+    "pos": "n.",
+    "en_def": "the hot, bright light that comes from a fire",
+    "cn_def": "火焰",
+    "sentence": "A: The steaks at the staff barbecue were black on the outside but raw in the middle, and some people did not want to eat them, so what went wrong? B: The {{BLANK}} was too high and touched the meat directly, so next time we should wait until the fire burns down and the coals turn white.",
+    "cn": "A：員工烤肉時牛排外面焦黑、裡面卻是生的，有些人都不想吃，出了什麼問題？ B：【火焰】太高，直接碰到了肉，所以下次我們應該等火勢變小、炭變白之後再烤。",
+    "collocation": "cook over an open flame 用明火烹調"
+   },
+   {
+    "word": "marinate",
+    "pos": "v.",
+    "en_def": "to leave meat or fish in a mix of oil, spices, and sauce before cooking",
+    "cn_def": "醃製；浸泡",
+    "sentence": "A: The chicken we grilled at last year's company barbecue was dry and did not have much taste, and many people left it on their plates. B: This year we should {{BLANK}} the chicken in soy sauce, garlic, and honey the night before, so it will be soft and full of flavor.",
+    "cn": "A：去年公司烤肉時我們烤的雞肉又乾又沒什麼味道，很多人都剩在盤子上。 B：今年我們應該前一晚用醬油、大蒜和蜂蜜【醃】雞肉，這樣它就會柔軟又充滿風味。",
+    "collocation": "marinate the meat overnight 把肉醃一整晚"
+   },
+   {
+    "word": "seasoning",
+    "pos": "n.",
+    "en_def": "salt, pepper, herbs, or spices added to food for flavor",
+    "cn_def": "調味料",
+    "sentence": "A: The new barbecue restaurant wants its meat to taste special, so that customers will remember it and come back again, but it does not want to use heavy sauces. B: The chef created a secret {{BLANK}} of sea salt, black pepper, and dried herbs from Hualien, which he puts on the meat just before grilling.",
+    "cn": "A：那家新的燒烤餐廳想讓肉吃起來很特別，讓顧客記住並再次光臨，但又不想用很重的醬汁。 B：主廚調配了一款秘製【調味料】，有海鹽、黑胡椒和花蓮的乾燥香草，他會在燒烤前才撒在肉上。",
+    "collocation": "add seasoning to taste 依口味加調味料"
+   },
+   {
+    "word": "rub",
+    "pos": "n.",
+    "en_def": "a dry mix of spices pressed onto meat before cooking",
+    "cn_def": "乾醃料；香料粉",
+    "sentence": "A: The American customers who visited our restaurant last week said our ribs tasted good, but they missed the strong flavor of barbecue from their home in Texas. B: We could try a spicy {{BLANK}} made of brown sugar, paprika, and garlic powder, which we press into the meat several hours before we cook it.",
+    "cn": "A：上週來我們餐廳的美國顧客說我們的肋排好吃，但他們想念家鄉德州烤肉的濃郁風味。 B：我們可以試試用紅糖、紅椒粉和蒜粉做成的辣味【乾醃料】，在烹調前幾小時把它抹進肉裡。",
+    "collocation": "a dry spice rub 乾式香料醃粉"
+   },
+   {
+    "word": "sauce",
+    "pos": "n.",
+    "en_def": "a thick liquid served with or on food",
+    "cn_def": "醬汁；烤肉醬",
+    "sentence": "A: We are selling grilled meat at the night market for our company's charity event, and many visitors have asked whether we have anything to add more taste. B: We should put bottles of sweet barbecue {{BLANK}} on every table, because in Taiwan most people like to brush it on grilled meat and corn.",
+    "cn": "A：我們在夜市為公司慈善活動賣烤肉，很多遊客問有沒有可以增添風味的東西。 B：我們應該在每張桌子上放幾瓶甜的烤肉【醬】，因為在台灣大多數人喜歡把它刷在烤肉和玉米上。",
+    "collocation": "barbecue sauce 烤肉醬"
+   },
+   {
+    "word": "slow-cook",
+    "pos": "v.",
+    "en_def": "to cook food for a long time at a low temperature",
+    "cn_def": "慢燉；低溫慢煮",
+    "sentence": "A: The beef at the new barbecue restaurant is so soft that you can cut it with a spoon, and customers wait over an hour for a table, so how do they do it? B: The chefs {{BLANK}} the beef for twelve hours at a low temperature, so the meat becomes very soft and takes in all the smoky flavor.",
+    "cn": "A：那家新烤肉餐廳的牛肉軟到可以用湯匙切開，顧客要等一個多小時才有位子，他們是怎麼做到的？ B：廚師用低溫把牛肉【慢煮】十二個小時，讓肉變得非常軟嫩，並吸收所有煙燻風味。",
+    "collocation": "slow-cook the beef for hours 把牛肉慢煮數小時"
+   },
+   {
+    "word": "tender",
+    "pos": "adj.",
+    "en_def": "soft and easy to cut and chew",
+    "cn_def": "軟嫩的",
+    "sentence": "A: Several customers wrote online that our steak was too tough and hard to chew, and our restaurant's rating dropped this month, so what should we do? B: We should buy better beef and let it rest for a few minutes after grilling, because that keeps the meat {{BLANK}} and easy to cut.",
+    "cn": "A：好幾位顧客在網路上留言說我們的牛排太硬、很難咀嚼，餐廳這個月的評分也下降了，我們該怎麼做？ B：我們應該買品質更好的牛肉，並在烤好後讓它靜置幾分鐘，因為這能讓肉保持【軟嫩】又容易切。",
+    "collocation": "tender beef 軟嫩的牛肉"
+   },
+   {
+    "word": "juicy",
+    "pos": "adj.",
+    "en_def": "containing a lot of liquid in a way that tastes good",
+    "cn_def": "多汁的",
+    "sentence": "A: Our new burger is selling very well, and a food blogger even wrote that it was the best in Taipei, so what makes it so popular with customers? B: The meat stays {{BLANK}} because we grill it quickly over high heat, and people love the way the flavor fills their mouths with every bite.",
+    "cn": "A：我們的新漢堡賣得很好，有位美食部落客甚至寫說那是台北最好吃的，是什麼讓它這麼受顧客歡迎？ B：肉能保持【多汁】是因為我們用大火快速燒烤，大家都很喜歡每一口都滿嘴風味的感覺。",
+    "collocation": "a juicy steak 多汁的牛排"
+   },
+   {
+    "word": "smoky",
+    "pos": "adj.",
+    "en_def": "tasting or smelling of smoke",
+    "cn_def": "煙燻味的",
+    "sentence": "A: Our sausages taste fine, but the customers at the food fair said they wanted something that really tastes like a real outdoor barbecue, so how can we do that? B: We can cook them over apple wood for an hour, which gives them a rich, {{BLANK}} flavor that people usually only get from cooking outside.",
+    "cn": "A：我們的香腸味道還不錯，但美食展的顧客說想要真正像戶外烤肉那樣的味道，我們要怎麼做？ B：我們可以用蘋果木烤一個小時，讓它們有濃郁的【煙燻】風味，這通常只有在戶外烹調才吃得到。",
+    "collocation": "a smoky flavor 煙燻風味"
+   },
+   {
+    "word": "grill marks",
+    "pos": "n.phr.",
+    "en_def": "dark lines left on food by the hot metal bars of a grill",
+    "cn_def": "烤痕；烤紋",
+    "sentence": "A: The photographer for our restaurant's new menu says the grilled chicken in the photos looks pale and not very attractive, so how can we make it look better? B: The chef can press the chicken onto a very hot grill for one minute to make dark {{BLANK}}, because those lines show customers that the meat is freshly grilled.",
+    "cn": "A：我們餐廳新菜單的攝影師說照片裡的烤雞看起來很蒼白、不太吸引人，我們要怎麼讓它更好看？ B：主廚可以把雞肉壓在很燙的烤架上一分鐘，烤出深色的【烤痕】，因為這些紋路能讓顧客知道肉是現烤的。",
+    "collocation": "perfect grill marks on the steak 牛排上完美的烤紋"
+   },
+   {
+    "word": "skewer",
+    "pos": "n.",
+    "en_def": "a long thin stick used to hold pieces of food for cooking",
+    "cn_def": "烤肉串籤；串燒",
+    "sentence": "A: About two hundred guests are coming to our company's outdoor party, and we do not have enough plates or forks, so what kind of food should we serve? B: Let's serve meat and vegetables on a bamboo {{BLANK}}, because guests can hold the stick and eat while they walk around and talk to each other.",
+    "cn": "A：公司的戶外派對大約有兩百位賓客，我們的盤子和叉子不夠，該提供什麼樣的食物？ B：我們把肉和蔬菜串在竹【籤】上吧，因為賓客可以拿著竹籤邊走邊吃，同時和彼此聊天。",
+    "collocation": "a chicken skewer 雞肉串"
+   },
+   {
+    "word": "patty",
+    "pos": "n.",
+    "en_def": "a flat round piece of chopped meat, often used in burgers",
+    "cn_def": "肉餅；漢堡肉",
+    "sentence": "A: Our fast-food restaurant wants to add a vegetarian burger to the menu next month, because more and more young customers are asking for one. B: We can make a {{BLANK}} from beans, mushrooms, and rice, and grill it just like a beef one, so it looks and feels like a normal burger.",
+    "cn": "A：我們速食店下個月想在菜單上加一款素食漢堡，因為越來越多年輕顧客在要求。 B：我們可以用豆子、香菇和米做成【肉餅】，然後像牛肉餅一樣燒烤，讓它看起來、吃起來都像一般的漢堡。",
+    "collocation": "a beef patty 牛肉餅"
+   },
+   {
+    "word": "sausage",
+    "pos": "n.",
+    "en_def": "chopped meat with spices inside a long thin skin",
+    "cn_def": "香腸",
+    "sentence": "A: Many foreign visitors to our night market tour want to try a typical Taiwanese barbecue snack, so what is the best thing for our guides to recommend? B: They should try the sweet grilled pork {{BLANK}} with a piece of raw garlic, because it is cheap, popular, and very different from the ones in Europe.",
+    "cn": "A：參加我們夜市導覽的很多外國遊客都想嚐嚐典型的台灣烤肉小吃，導遊最適合推薦什麼？ B：他們應該試試甜甜的烤豬肉【香腸】配一瓣生蒜，因為它便宜、受歡迎，而且和歐洲的很不一樣。",
+    "collocation": "grilled sausages 烤香腸"
+   },
+   {
+    "word": "brisket",
+    "pos": "n.",
+    "en_def": "meat from the lower chest of a cow, often cooked slowly",
+    "cn_def": "牛胸肉",
+    "sentence": "A: The new Texas-style restaurant only serves one main meat dish, but it sells out by two o'clock every afternoon, so what is so special about it? B: It serves smoked {{BLANK}}, which is a cut of beef from the chest that the cooks smoke for fifteen hours until it becomes very soft.",
+    "cn": "A：那家新的德州風味餐廳只賣一道主菜肉類，但每天下午兩點就賣完了，到底有什麼特別？ B：它賣的是煙燻【牛胸肉】，這是來自胸部的牛肉部位，廚師要煙燻十五個小時直到它變得非常軟嫩。",
+    "collocation": "smoked brisket 煙燻牛胸肉"
+   },
+   {
+    "word": "rib",
+    "pos": "n.",
+    "en_def": "one of the curved bones of the chest; meat cut with this bone",
+    "cn_def": "肋排；肋骨",
+    "sentence": "A: Our restaurant's barbecue platter is the most expensive item on the menu, so customers sometimes ask what they will get if they order it. B: Tell them it includes chicken wings, sausages, and a large pork {{BLANK}} with honey sauce, which is enough for three or four people to share.",
+    "cn": "A：我們餐廳的烤肉拼盤是菜單上最貴的品項，所以顧客有時會問點了會吃到什麼。 B：告訴他們有雞翅、香腸和一大份蜂蜜醬豬【肋排】，夠三、四個人分享。",
+    "collocation": "pork ribs 豬肋排"
+   },
+   {
+    "word": "baste",
+    "pos": "v.",
+    "en_def": "to pour or brush liquid over meat while it is cooking",
+    "cn_def": "（烹調時）塗油；淋汁",
+    "sentence": "A: The roast chicken at our company's Christmas dinner was very dry last year, and the hotel chef wants to make sure it does not happen again. B: He plans to {{BLANK}} the chickens with melted butter and their own juices every twenty minutes while they cook, so the meat stays soft.",
+    "cn": "A：去年公司聖誕晚宴的烤雞非常乾，飯店主廚想確保這種事不會再發生。 B：他打算在烤雞時每二十分鐘用融化的奶油和雞肉本身的肉汁幫雞【淋汁】，讓肉保持軟嫩。",
+    "collocation": "baste the turkey with butter 用奶油幫火雞淋油"
+   },
+   {
+    "word": "flip",
+    "pos": "v.",
+    "en_def": "to turn something over quickly",
+    "cn_def": "翻面；翻動",
+    "sentence": "A: I am cooking the burgers at our team barbecue this afternoon, but I have never done it before, and I am worried that I will burn them in front of everyone. B: Do not worry, just {{BLANK}} each burger once after about four minutes, and do not press it down, so the juice stays inside the meat.",
+    "cn": "A：今天下午團隊烤肉由我負責烤漢堡肉，但我從來沒烤過，擔心會在大家面前烤焦。 B：別擔心，大約四分鐘後把每片漢堡肉【翻面】一次就好，也不要往下壓，這樣肉汁才會留在肉裡。",
+    "collocation": "flip the pancake 把鬆餅翻面"
+   },
+   {
+    "word": "coal",
+    "pos": "n.",
+    "en_def": "a hard black material that is burned for heat",
+    "cn_def": "煤炭；炭火",
+    "sentence": "A: How do the cooks at the barbecue restaurant know when the grill is hot enough to start cooking the meat, because they do not use a thermometer? B: They wait until every piece of {{BLANK}} is covered with white ash and glowing red underneath, which usually takes about twenty minutes after they light it.",
+    "cn": "A：燒烤餐廳的廚師不用溫度計，他們怎麼知道烤爐熱到可以開始烤肉了？ B：他們會等到每一塊【炭】都覆蓋白色灰燼、底下發出紅光，點火後通常大約需要二十分鐘。",
+    "collocation": "hot coals 熱炭火"
+   },
+   {
+    "word": "outdoor",
+    "pos": "adj.",
+    "en_def": "happening or used outside, not in a building",
+    "cn_def": "戶外的",
+    "sentence": "A: Our staff have been working hard all year, and the manager wants to plan a fun event in the spring where people can relax and enjoy the fresh air. B: Let's hold an {{BLANK}} barbecue at the riverside park, where there are tables, grills, and plenty of space for games and music.",
+    "cn": "A：我們員工一整年都很努力工作，經理想在春天規劃一個有趣的活動，讓大家放鬆並享受新鮮空氣。 B：我們在河濱公園辦一場【戶外】烤肉吧，那裡有桌子、烤爐，還有很多空間可以玩遊戲和放音樂。",
+    "collocation": "outdoor activities 戶外活動"
+   },
+   {
+    "word": "picnic",
+    "pos": "n.",
+    "en_def": "a meal eaten outside, often in a park",
+    "cn_def": "野餐",
+    "sentence": "A: The weather is going to be warm and sunny this Saturday, and our team has finished the big project early, so how should we celebrate together? B: Let's have a {{BLANK}} in Daan Park, where everyone can bring some food, sit on blankets under the trees, and play games.",
+    "cn": "A：這週六天氣會很溫暖晴朗，我們團隊也提早完成了大專案，我們該怎麼一起慶祝？ B：我們去大安森林公園【野餐】吧，大家可以帶些食物，在樹下鋪墊子坐著玩遊戲。",
+    "collocation": "have a picnic in the park 在公園野餐"
+   },
+   {
+    "word": "platter",
+    "pos": "n.",
+    "en_def": "a large plate used for serving food",
+    "cn_def": "大淺盤；拼盤",
+    "sentence": "A: Our sales team is meeting a group of clients at the barbecue restaurant tonight, and there will be ten people, so should each person order a separate dish? B: It is easier to order a large mixed {{BLANK}} for the table, because it comes with beef, pork, chicken, and vegetables, and everyone can share.",
+    "cn": "A：我們業務團隊今晚要在燒烤餐廳和一群客戶見面，總共十個人，每個人應該各點一道菜嗎？ B：幫整桌點一份大的綜合【拼盤】比較簡單，因為裡面有牛肉、豬肉、雞肉和蔬菜，大家都可以分享。",
+    "collocation": "a seafood platter 海鮮拼盤"
+   },
+   {
+    "word": "sizzle",
+    "pos": "v.",
+    "en_def": "to make a hissing sound like food cooking in hot oil",
+    "cn_def": "（煎炸時）發出嘶嘶聲",
+    "sentence": "A: The advertising agency wants our new TV commercial for the barbecue restaurant to make people feel hungry right away, so what should it show? B: It should show steaks as they {{BLANK}} on a hot grill, because the sound and the smoke make people imagine the smell and taste of the meat.",
+    "cn": "A：廣告公司希望我們燒烤餐廳的新電視廣告能讓人立刻覺得餓，廣告應該呈現什麼？ B：應該呈現牛排在熱烤架上【滋滋作響】的畫面，因為那聲音和煙會讓人想像到肉的香味和滋味。",
+    "collocation": "bacon sizzling in the pan 培根在鍋裡滋滋作響"
+   },
+   {
+    "word": "aroma",
+    "pos": "n.",
+    "en_def": "a strong pleasant smell, especially of food",
+    "cn_def": "香氣；香味",
+    "sentence": "A: Our barbecue stall is hidden at the back of the night market, and many visitors do not see it, so how can we attract more customers to our stall? B: We can place the grill near the walkway, because the {{BLANK}} of grilled meat and garlic will reach people walking by and make them follow it.",
+    "cn": "A：我們的烤肉攤藏在夜市後方，很多遊客看不到，要怎麼吸引更多顧客到我們攤位？ B：我們可以把烤爐放在走道旁，因為烤肉和大蒜的【香氣】會飄到路過的人那裡，讓他們循著香味過來。",
+    "collocation": "the aroma of grilled meat 烤肉的香氣"
+   },
+   {
+    "word": "glaze",
+    "pos": "n.",
+    "en_def": "a shiny coating of sauce brushed on food",
+    "cn_def": "亮面醬汁；糖漿塗層",
+    "sentence": "A: The ribs at our restaurant taste great, but they do not look as attractive as the ones in the photos on the menu, so what is missing? B: The cooks should brush a sweet honey {{BLANK}} on the ribs during the last five minutes, so the meat looks shiny and brown when it reaches the table.",
+    "cn": "A：我們餐廳的肋排很好吃，但看起來沒有菜單照片上那麼誘人，少了什麼？ B：廚師應該在最後五分鐘刷上甜甜的蜂蜜【亮面醬汁】，讓肉送上桌時看起來閃亮又金黃。",
+    "collocation": "a honey glaze 蜂蜜亮面醬"
+   },
+   {
+    "word": "well-done",
+    "pos": "adj.",
+    "en_def": "(of meat) cooked completely, with no pink inside",
+    "cn_def": "全熟的",
+    "sentence": "A: One of our clients from the Middle East is joining the barbecue dinner tonight, and he told me he does not like any pink color in his meat. B: Then please ask the chef to cook his steak {{BLANK}}, and make sure it is grilled on a separate part of the grill from the pork.",
+    "cn": "A：今晚有一位來自中東的客戶要參加烤肉晚宴，他跟我說他不喜歡肉裡有任何粉紅色。 B：那就請主廚把他的牛排烤到【全熟】，並確保是在烤架上和豬肉分開的地方烤。",
+    "collocation": "a well-done steak 全熟牛排"
+   },
+   {
+    "word": "feast",
+    "pos": "n.",
+    "en_def": "a large special meal for many people",
+    "cn_def": "盛宴；大餐",
+    "sentence": "A: Our company had a record year, and the president wants to thank all two hundred staff members with something more exciting than a normal dinner. B: Let's plan a barbecue {{BLANK}} at the beach resort, with whole roast pigs, fresh seafood, and live music, so everyone can celebrate together.",
+    "cn": "A：公司創下紀錄的一年，總裁想用比一般晚餐更精彩的方式感謝全體兩百名員工。 B：我們在海灘度假村規劃一場燒烤【盛宴】吧，有烤全豬、新鮮海鮮和現場音樂，讓大家一起慶祝。",
+    "collocation": "a holiday feast 節日大餐"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The chef will _____ the fish over hot charcoal. It will be served with lemon and a green salad.",
+    "options": [
+     "sizzle",
+     "grill",
+     "flip",
+     "baste"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Thick _____ from the kitchen set off the fire alarm. All the guests had to leave the building for ten minutes.",
+    "options": [
+     "glaze",
+     "platter",
+     "smoke",
+     "feast"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Please buy five bags of _____ for the weekend barbecue. The park does not provide any fuel for the grills.",
+    "options": [
+     "charcoal",
+     "glaze",
+     "platter",
+     "rub"
+    ],
+    "answer": 0,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Keep the _____ low when cooking chicken. Otherwise, the outside will burn before the inside is cooked.",
+    "options": [
+     "patty",
+     "platter",
+     "feast",
+     "flame"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Please _____ the pork in garlic and soy sauce for at least four hours. This gives the meat a stronger flavor.",
+    "options": [
+     "marinate",
+     "sizzle",
+     "flip",
+     "grill"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The chef adds a special _____ of salt and herbs to every steak. Customers often ask him for the recipe.",
+    "options": [
+     "skewer",
+     "seasoning",
+     "platter",
+     "coal"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Press the spicy _____ into the ribs before cooking. Leave the meat in the fridge for three hours.",
+    "options": [
+     "picnic",
+     "skewer",
+     "feast",
+     "rub"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Most customers brush sweet barbecue _____ on their corn. Bottles are placed on every table at the stall.",
+    "options": [
+     "coal",
+     "skewer",
+     "sauce",
+     "picnic"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The cooks _____ the beef for ten hours at a low temperature. This makes the meat very soft.",
+    "options": [
+     "slow-cook",
+     "flip",
+     "sizzle",
+     "marinate"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Our beef is soft and _____. Most customers say they can cut it with a fork.",
+    "options": [
+     "outdoor",
+     "tender",
+     "well-done",
+     "smoky"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The burgers were thick and _____. Hot juice ran onto the plate with every bite customers took.",
+    "options": [
+     "outdoor",
+     "well-done",
+     "smoky",
+     "juicy"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The cheese has a _____ flavor because it is cooked over wood. It goes well with dark bread.",
+    "options": [
+     "juicy",
+     "outdoor",
+     "smoky",
+     "tender"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The steak was served with dark _____ across the top. They showed it had been cooked on a very hot grill.",
+    "options": [
+     "seasoning",
+     "grill marks",
+     "picnic",
+     "feast"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Each _____ holds four pieces of chicken and two slices of onion. They are grilled for about ten minutes.",
+    "options": [
+     "glaze",
+     "seasoning",
+     "picnic",
+     "skewer"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The vegetarian burger has a _____ made from beans and rice. It is grilled just like a beef one.",
+    "options": [
+     "picnic",
+     "feast",
+     "patty",
+     "coal"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The night market stall sells grilled pork _____ with raw garlic. It is a very popular snack in Taiwan.",
+    "options": [
+     "sausage",
+     "seasoning",
+     "glaze",
+     "rub"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Smoked beef _____ is the most popular dish at the Texas-style restaurant. It is cooked slowly for many hours.",
+    "options": [
+     "picnic",
+     "brisket",
+     "flame",
+     "coal"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The restaurant's pork _____ is covered in honey sauce. Each order is large enough for two people to share.",
+    "options": [
+     "rib",
+     "picnic",
+     "flame",
+     "feast"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Please _____ the chicken with butter every twenty minutes. This keeps the meat soft and stops it from drying out.",
+    "options": [
+     "sizzle",
+     "flip",
+     "baste",
+     "slow-cook"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "Please _____ the burgers after four minutes. Cook the other side for another three minutes before serving.",
+    "options": [
+     "marinate",
+     "baste",
+     "sizzle",
+     "flip"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Wait until each piece of _____ turns white before you start cooking. It will then give an even heat.",
+    "options": [
+     "picnic",
+     "platter",
+     "coal",
+     "feast"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The hotel has a large _____ pool and garden. Guests can enjoy barbecue dinners there in the summer.",
+    "options": [
+     "outdoor",
+     "juicy",
+     "tender",
+     "well-done"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Our team had a _____ by the lake on Saturday. Everyone brought sandwiches, fruit, and cold drinks.",
+    "options": [
+     "glaze",
+     "picnic",
+     "rub",
+     "flame"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The waiter brought a large _____ of grilled seafood to the table. It was enough for six people to share.",
+    "options": [
+     "glaze",
+     "rub",
+     "flame",
+     "platter"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The steaks began to _____ as soon as they touched the hot grill. The sound made everyone hungry.",
+    "options": [
+     "sizzle",
+     "marinate",
+     "baste",
+     "slow-cook"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The _____ of grilled corn filled the night market. Many visitors followed the smell to our stall.",
+    "options": [
+     "patty",
+     "skewer",
+     "platter",
+     "aroma"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "A sweet honey _____ makes the ribs shiny and brown. Brush it on during the last five minutes of cooking.",
+    "options": [
+     "picnic",
+     "flame",
+     "glaze",
+     "feast"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "Mr. Lee always orders his steak _____. He does not want to see any pink inside the meat.",
+    "options": [
+     "juicy",
+     "well-done",
+     "outdoor",
+     "smoky"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The village prepared a huge _____ for the harvest festival. There were tables full of meat, fish, and fruit.",
+    "options": [
+     "rub",
+     "glaze",
+     "feast",
+     "skewer"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "Burgers should be cooked over high heat to stay _____. Overcooked meat becomes dry and hard.",
+    "options": [
+     "outdoor",
+     "juicy",
+     "smoky",
+     "well-done"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   }
+  ]
+ },
+ "26": {
+  "theme": "Bargain 划算交易",
+  "source": "https://www.examword.com/group-topic/bargain",
+  "VOCAB": [
+   {
+    "word": "deal",
+    "pos": "n.",
+    "en_def": "something bought for a good price; a business agreement",
+    "cn_def": "划算的交易；協議",
+    "sentence": "A: The electronics store is selling last year's laptop model for half price this weekend, and our office needs five new computers, so should we buy them there? B: Yes, that is a great {{BLANK}}, because last year's model is still fast enough for our work, and we can save almost fifty thousand dollars.",
+    "cn": "A：電器行這個週末用半價賣去年的筆電款式，我們辦公室需要五台新電腦，應該去那裡買嗎？ B：應該，那是很划算的【交易】，因為去年的款式對我們的工作來說還是夠快，而且能省下將近五萬元。",
+    "collocation": "get a good deal 買得划算"
+   },
+   {
+    "word": "discount",
+    "pos": "n.",
+    "en_def": "an amount taken off the usual price",
+    "cn_def": "折扣",
+    "sentence": "A: Our company orders a lot of paper and ink from the same supplier every month, but we always pay the normal price, so is there a way to pay less? B: We should ask the supplier for a ten percent {{BLANK}}, because we are one of their biggest customers and we have ordered from them for five years.",
+    "cn": "A：我們公司每個月都向同一家供應商訂很多紙張和墨水，但總是付原價，有沒有辦法少付一點？ B：我們應該向供應商要求打九折的【折扣】，因為我們是他們最大的客戶之一，而且已經跟他們訂貨五年了。",
+    "collocation": "a 20% discount 八折優惠"
+   },
+   {
+    "word": "sale",
+    "pos": "n.",
+    "en_def": "a time when a store sells things at lower prices",
+    "cn_def": "特價；拍賣",
+    "sentence": "A: My suit is getting old, and I have an important job interview next month, but new suits are very expensive at the department store, so what should I do? B: Wait until next weekend, because the department store is having its big anniversary {{BLANK}}, and most clothes will be thirty to fifty percent off.",
+    "cn": "A：我的西裝舊了，下個月有個重要的工作面試，但百貨公司的新西裝很貴，我該怎麼辦？ B：等到下個週末吧，因為百貨公司要舉辦週年慶【特賣】，大部分衣服都會打五到七折。",
+    "collocation": "on sale 特價中"
+   },
+   {
+    "word": "negotiate",
+    "pos": "v.",
+    "en_def": "to discuss something to reach an agreement, often about price",
+    "cn_def": "談判；議價",
+    "sentence": "A: The office we want to rent costs eighty thousand dollars a month, which is more than our budget allows, but the location is perfect for our business. B: We should {{BLANK}} with the owner, because the office has been empty for six months, and he may accept a lower rent if we sign a long contract.",
+    "cn": "A：我們想租的辦公室每個月八萬元，超出了預算，但地點對我們的業務來說很完美。 B：我們應該和房東【議價】，因為那間辦公室已經空了六個月，如果我們簽長約，他可能會接受較低的租金。",
+    "collocation": "negotiate a lower price 協商較低的價格"
+   },
+   {
+    "word": "haggle",
+    "pos": "v.",
+    "en_def": "to argue about the price of something, especially at a market",
+    "cn_def": "討價還價；殺價",
+    "sentence": "A: I am taking a group of clients to a traditional market in Bangkok tomorrow, and they want to buy some silk scarves, but they are not sure about the prices. B: Tell them it is normal to {{BLANK}} with the sellers there, so they should start at about half the price the seller asks and slowly go up.",
+    "cn": "A：我明天要帶一群客戶去曼谷的傳統市場，他們想買絲巾，但不確定價格。 B：告訴他們在那裡跟賣家【討價還價】是很正常的，所以他們應該從賣家開價的一半左右開始，再慢慢往上加。",
+    "collocation": "haggle over the price 為價格討價還價"
+   },
+   {
+    "word": "cheap",
+    "pos": "adj.",
+    "en_def": "low in price",
+    "cn_def": "便宜的",
+    "sentence": "A: The new printer we bought for the office last month already stopped working, and the shop says it is not worth fixing, so what went wrong? B: It was very {{BLANK}}, but it was also badly made, so this time we should spend a little more and buy a better brand with a three-year warranty.",
+    "cn": "A：我們上個月為辦公室買的新印表機已經壞了，店家說不值得修，是哪裡出了問題？ B：它很【便宜】，但做工也很差，所以這次我們應該多花一點錢，買有三年保固的好品牌。",
+    "collocation": "cheap flights 便宜機票"
+   },
+   {
+    "word": "affordable",
+    "pos": "adj.",
+    "en_def": "not too expensive, so most people can pay for it",
+    "cn_def": "價格實惠的；負擔得起的",
+    "sentence": "A: Many young workers in our company say they cannot pay the high rents in Taipei, and some of them are leaving for jobs in other cities, so what can we do? B: The company could build staff apartments with {{BLANK}} rents, so young workers can live near the office without spending most of their salary.",
+    "cn": "A：我們公司很多年輕員工說付不起台北的高房租，有些人因此離職去其他城市工作，我們能怎麼辦？ B：公司可以興建租金【負擔得起】的員工宿舍，讓年輕員工能住在辦公室附近，又不必花掉大部分薪水。",
+    "collocation": "affordable housing 平價住宅"
+   },
+   {
+    "word": "price",
+    "pos": "n.",
+    "en_def": "the amount of money you need to pay for something",
+    "cn_def": "價格",
+    "sentence": "A: Our coffee shop has been losing customers since a new chain store opened across the street, and they sell coffee for much less than we do. B: We could lower the {{BLANK}} of our basic coffee, but I think we should also offer better service and free Wi-Fi, so customers have more reasons to stay.",
+    "cn": "A：自從對街開了一家新的連鎖店後，我們咖啡店的顧客一直流失，他們賣的咖啡比我們便宜很多。 B：我們可以降低基本款咖啡的【價格】，但我認為也應該提供更好的服務和免費無線網路，讓顧客有更多理由留下來。",
+    "collocation": "raise the price 提高價格"
+   },
+   {
+    "word": "worth",
+    "pos": "adj.",
+    "en_def": "having a certain value; good enough to deserve the money or time spent",
+    "cn_def": "值得的；有…價值的",
+    "sentence": "A: The new office chairs cost three times as much as the ones we usually buy, and the finance manager is not happy about it, so should we still order them? B: I think they are {{BLANK}} the money, because they last ten years and help prevent the back pain that has caused so many sick days.",
+    "cn": "A：新的辦公椅價格是我們平常買的三倍，財務經理不太高興，我們還要訂嗎？ B：我認為它們【值得】這個價錢，因為它們可以用十年，還能預防造成那麼多病假的背痛。",
+    "collocation": "worth the money 值這個價錢"
+   },
+   {
+    "word": "value",
+    "pos": "n.",
+    "en_def": "how useful or important something is compared with its price",
+    "cn_def": "價值；划算程度",
+    "sentence": "A: The hotel near the airport costs a little more than the others, but the manager still wants our staff to stay there on business trips, so why is that? B: The room price includes breakfast, free airport transfers, and a gym, so it gives us better {{BLANK}} than the cheaper hotels with no extra services.",
+    "cn": "A：機場附近那家飯店比其他家貴一點，但經理還是希望員工出差時住那裡，為什麼？ B：房價包含早餐、免費機場接送和健身房，所以比起沒有額外服務的便宜飯店，它對我們更【划算】。",
+    "collocation": "good value for money 物超所值"
+   },
+   {
+    "word": "save",
+    "pos": "v.",
+    "en_def": "to keep money instead of spending it",
+    "cn_def": "節省；存（錢）",
+    "sentence": "A: Our electricity bill has gone up a lot this year, and the manager wants every department to find ways to reduce costs, so what can our team do? B: We can {{BLANK}} money by turning off the lights and computers every evening and setting the air conditioner two degrees higher in summer.",
+    "cn": "A：我們今年的電費漲了很多，經理希望每個部門都想辦法降低成本，我們團隊能做什麼？ B：我們可以每天晚上關燈和電腦，夏天把冷氣調高兩度來【節省】開支。",
+    "collocation": "save money on travel 節省旅費"
+   },
+   {
+    "word": "cost",
+    "pos": "n.",
+    "en_def": "the amount of money needed to buy, make, or do something",
+    "cn_def": "成本；費用",
+    "sentence": "A: The marketing team wants to hold a large product launch at a five-star hotel next month, but the director is worried about spending too much money. B: The total {{BLANK}} of the event will be about five hundred thousand dollars, including the room, food, and decorations, so we need her approval before we book.",
+    "cn": "A：行銷團隊想在下個月於五星級飯店舉辦大型產品發表會，但主任擔心花太多錢。 B：活動總【費用】大約五十萬元，包含場地、餐點和佈置，所以我們在預訂前需要她核准。",
+    "collocation": "reduce the cost of production 降低生產成本"
+   },
+   {
+    "word": "reasonable",
+    "pos": "adj.",
+    "en_def": "fair and not too expensive",
+    "cn_def": "合理的；價格公道的",
+    "sentence": "A: We need a printing company to make two thousand brochures for the trade show, and I have received prices from four different companies, so which one should we choose? B: The company in Banqiao gave us the most {{BLANK}} price, and their quality is good, so I think we should give the order to them.",
+    "cn": "A：我們需要一家印刷公司為商展印兩千份手冊，我收到了四家公司的報價，該選哪一家？ B：板橋那家給我們的價格最【合理】，品質也很好，所以我認為應該把訂單交給他們。",
+    "collocation": "at a reasonable price 以合理的價格"
+   },
+   {
+    "word": "overpriced",
+    "pos": "adj.",
+    "en_def": "more expensive than it should be",
+    "cn_def": "定價過高的；太貴的",
+    "sentence": "A: The sandwiches at the café in our office building cost two hundred dollars each, and many people now go to the convenience store instead, so what is the problem? B: Most staff think the food there is {{BLANK}}, because the same sandwich costs less than half that price at the shop just across the street.",
+    "cn": "A：我們辦公大樓裡咖啡廳的三明治一個要兩百元，很多人現在改去便利商店，問題在哪裡？ B：大多數員工認為那裡的食物【太貴了】，因為同樣的三明治在對街的店裡價格不到一半。",
+    "collocation": "an overpriced hotel 收費過高的飯店"
+   },
+   {
+    "word": "budget",
+    "pos": "n.",
+    "en_def": "the amount of money you plan to spend on something",
+    "cn_def": "預算",
+    "sentence": "A: The team wants to buy new laptops, chairs, and a coffee machine for the office this year, but we cannot afford everything at once, so what should we do? B: Our {{BLANK}} for equipment is only two hundred thousand dollars, so we should buy the laptops first and wait until next year for the other things.",
+    "cn": "A：團隊今年想為辦公室買新筆電、椅子和咖啡機，但我們沒辦法一次買齊，該怎麼辦？ B：我們的設備【預算】只有二十萬元，所以應該先買筆電，其他東西等明年再說。",
+    "collocation": "stay within budget 控制在預算內"
+   },
+   {
+    "word": "compare",
+    "pos": "v.",
+    "en_def": "to look at two or more things to see how they are different",
+    "cn_def": "比較",
+    "sentence": "A: I need to book flights to Tokyo for five people from our sales team next month, and the prices on different websites are very different, so where should I start? B: First, {{BLANK}} the prices on three or four travel websites and the airline's own site, because the same seat can sometimes cost much less on one of them.",
+    "cn": "A：我下個月要幫業務團隊五個人訂飛東京的機票，不同網站的價格差很多，我該從哪裡開始？ B：先【比較】三、四個旅遊網站和航空公司官網的價格，因為同一個座位有時在其中一個網站上便宜很多。",
+    "collocation": "compare prices online 上網比價"
+   },
+   {
+    "word": "offer",
+    "pos": "n.",
+    "en_def": "a special lower price or deal for a short time",
+    "cn_def": "優惠；特價",
+    "sentence": "A: Our gym has fewer members this year than last year, and many people say the monthly fee is too high, so how can we attract new customers quickly? B: We can create a special {{BLANK}} for new members, such as three months for the price of two, which starts on the first day of next month.",
+    "cn": "A：我們健身房今年的會員比去年少，很多人說月費太高，我們要怎麼快速吸引新顧客？ B：我們可以為新會員推出特別【優惠】，例如三個月只收兩個月的費用，從下個月第一天開始。",
+    "collocation": "a special offer 特別優惠"
+   },
+   {
+    "word": "coupon",
+    "pos": "n.",
+    "en_def": "a piece of paper or code that lets you pay less for something",
+    "cn_def": "優惠券；折價券",
+    "sentence": "A: Our pizza restaurant wants more customers to order online on weekday evenings, because the kitchen is not very busy then, so what can we try first? B: We can send every customer a {{BLANK}} by email that gives one hundred dollars off any order placed from Monday to Thursday.",
+    "cn": "A：我們披薩店希望平日晚上有更多顧客線上訂餐，因為那時廚房不太忙，我們可以先試什麼？ B：我們可以用電子郵件寄給每位顧客一張【優惠券】，週一到週四下的任何訂單都可折抵一百元。",
+    "collocation": "use a discount coupon 使用折價券"
+   },
+   {
+    "word": "clearance",
+    "pos": "n.",
+    "en_def": "a sale to sell old products quickly and cheaply",
+    "cn_def": "清倉拍賣",
+    "sentence": "A: The warehouse is full of last season's winter jackets, and we need the space for the new summer clothes arriving next month, so what should we do with them? B: Let's hold a {{BLANK}} sale this weekend with prices up to seventy percent off, because it is better to sell them cheaply than keep them for another year.",
+    "cn": "A：倉庫堆滿了上一季的冬季外套，而下個月到貨的新夏裝需要空間，我們該怎麼處理？ B：我們這個週末辦一場【清倉】拍賣吧，價格最低打三折，因為便宜賣掉總比再留一年好。",
+    "collocation": "a clearance sale 清倉大拍賣"
+   },
+   {
+    "word": "secondhand",
+    "pos": "adj.",
+    "en_def": "owned or used by someone else before",
+    "cn_def": "二手的",
+    "sentence": "A: Our small company is opening a new branch office, but we do not have much money for furniture this year, so where can we find desks and cabinets? B: We can buy {{BLANK}} furniture from a company that is moving out of our building, because it is in good condition and costs much less than new furniture.",
+    "cn": "A：我們這家小公司要開新的分公司，但今年沒有太多錢買家具，在哪裡可以找到辦公桌和櫃子？ B：我們可以向一家要搬離我們大樓的公司買【二手】家具，因為它們狀況良好，價格也比新家具便宜很多。",
+    "collocation": "a secondhand car 二手車"
+   },
+   {
+    "word": "markdown",
+    "pos": "n.",
+    "en_def": "a reduction in the price of something in a store",
+    "cn_def": "降價；減價",
+    "sentence": "A: The new phone cases are not selling well, even though we put them right next to the cash register, so how can we sell them before the new models come out? B: We can give them a thirty percent {{BLANK}} and put red stickers with the new price on each one, so customers can see the lower price easily.",
+    "cn": "A：新手機殼就算放在收銀台旁邊也賣得不好，我們要怎麼在新款推出前把它們賣掉？ B：我們可以將它們【降價】百分之三十，並在每個上面貼上標示新價格的紅色貼紙，讓顧客容易看到較低的價格。",
+    "collocation": "a 30% markdown 降價三成"
+   },
+   {
+    "word": "shop",
+    "pos": "v.",
+    "en_def": "to go to stores to look at and buy things",
+    "cn_def": "購物；逛街",
+    "sentence": "A: My manager wants me to buy small gifts for twenty clients before the Lunar New Year, but I do not have much time during the day, so what should I do? B: You can {{BLANK}} online tonight, because many websites offer free gift wrapping and can deliver all twenty gifts to the office by Friday.",
+    "cn": "A：經理要我在農曆新年前買小禮物送給二十位客戶，但我白天沒什麼時間，該怎麼辦？ B：你今晚可以上網【購物】，因為很多網站提供免費禮品包裝，還能在星期五前把二十份禮物全送到辦公室。",
+    "collocation": "shop online 網路購物"
+   },
+   {
+    "word": "splurge",
+    "pos": "v.",
+    "en_def": "to spend a lot of money on something special that you do not really need",
+    "cn_def": "揮霍；大手筆花錢",
+    "sentence": "A: Our team finally finished the biggest project of the year, and the manager says we can use the extra money in our budget to celebrate together. B: Let's {{BLANK}} on a dinner at that famous steak restaurant, because everyone worked late every night for three months and deserves something special.",
+    "cn": "A：我們團隊終於完成今年最大的專案，經理說可以用預算中多出來的錢一起慶祝。 B：我們就【大手筆】去那家知名牛排館吃一頓晚餐吧，因為大家三個月來每晚都加班，值得享受一點特別的。",
+    "collocation": "splurge on a luxury hotel 大手筆住豪華飯店"
+   },
+   {
+    "word": "thrifty",
+    "pos": "adj.",
+    "en_def": "careful about spending money and not wasting it",
+    "cn_def": "節儉的",
+    "sentence": "A: Our new accountant always brings lunch from home, uses both sides of the paper, and finds the cheapest train tickets for every business trip. B: She is very {{BLANK}}, and that is good for our small company, because her careful habits saved us almost two hundred thousand dollars last year.",
+    "cn": "A：我們的新會計總是從家裡帶午餐、紙張雙面使用，每次出差都會找到最便宜的火車票。 B：她非常【節儉】，這對我們這家小公司是好事，因為她謹慎的習慣去年幫我們省下了將近二十萬元。",
+    "collocation": "a thrifty shopper 節儉的購物者"
+   },
+   {
+    "word": "economical",
+    "pos": "adj.",
+    "en_def": "using little money, fuel, or energy",
+    "cn_def": "經濟的；省錢的",
+    "sentence": "A: Our delivery company needs to buy ten new vans this year, and fuel prices keep going up, so what kind of vans should we choose? B: We should choose electric or hybrid vans, because they are more {{BLANK}} to run and will save us a lot of money on fuel over the next ten years.",
+    "cn": "A：我們的貨運公司今年需要買十輛新廂型車，油價又一直上漲，我們該選哪一種車？ B：我們應該選電動車或油電混合車，因為它們運作起來更【省錢】，未來十年能幫我們省下很多油錢。",
+    "collocation": "an economical car 省油的車"
+   },
+   {
+    "word": "steal",
+    "pos": "n.",
+    "en_def": "something that costs much less than it is really worth",
+    "cn_def": "非常便宜的東西；超值品",
+    "sentence": "A: I found a used projector online for only three thousand dollars, and it is the same model that costs twenty thousand dollars new, so should I buy it for the meeting room? B: At that price, it is a {{BLANK}}, but please ask the seller to show you that it works before you pay, just to be safe.",
+    "cn": "A：我在網路上找到一台二手投影機只要三千元，和新的要兩萬元的是同一款，我該買來放會議室嗎？ B：以那個價格來說，簡直是【超值】，不過付錢前為了安全起見，請賣家先證明它能正常運作。",
+    "collocation": "It's a steal! 太便宜了！"
+   },
+   {
+    "word": "fair",
+    "pos": "adj.",
+    "en_def": "reasonable and right for both sides",
+    "cn_def": "公平的；合理的",
+    "sentence": "A: Our long-time supplier wants to raise the price of rice by five percent next year, and the restaurant owner is not sure whether he should agree. B: I think it is a {{BLANK}} price, because the cost of rice has gone up much more than that this year, and the supplier has always been reliable.",
+    "cn": "A：我們長期合作的供應商明年想把米價調漲百分之五，餐廳老闆不確定是否該同意。 B：我認為那是【合理】的價格，因為今年米的成本漲得比那還多，而且這家供應商一直都很可靠。",
+    "collocation": "a fair deal 公平的交易"
+   },
+   {
+    "word": "retail",
+    "pos": "n.",
+    "en_def": "the sale of goods to the public in stores",
+    "cn_def": "零售",
+    "sentence": "A: Our company makes kitchen tools and has only sold them to hotels and restaurants until now, but the director wants to grow our business next year. B: We could start selling in {{BLANK}}, through department stores and online shops, so ordinary families can also buy our products for their homes.",
+    "cn": "A：我們公司生產廚房用具，到目前為止只賣給飯店和餐廳，但主任想在明年擴大業務。 B：我們可以開始做【零售】，透過百貨公司和網路商店販售，讓一般家庭也能買我們的產品回家用。",
+    "collocation": "the retail price 零售價"
+   },
+   {
+    "word": "profit",
+    "pos": "n.",
+    "en_def": "money you earn after paying all your costs",
+    "cn_def": "利潤；獲利",
+    "sentence": "A: Our store sold more items during the big sale last month than in any other month this year, but the manager does not seem very happy, so why is that? B: Because the prices were so low, our {{BLANK}} on each item was very small, and after paying the staff for extra hours, we earned almost nothing.",
+    "cn": "A：我們店上個月大特賣賣出的商品數量是今年最多的，但經理似乎不太高興，為什麼？ B：因為價格太低，我們每件商品的【利潤】非常少，付完員工加班費之後幾乎沒賺到錢。",
+    "collocation": "make a profit 獲利"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Our company signed a three-year _____ with the new supplier. It includes free delivery and lower prices.",
+    "options": [
+     "coupon",
+     "clearance",
+     "markdown",
+     "deal"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Students can get a ten percent _____ on all books. They only need to show their student card at the counter.",
+    "options": [
+     "discount",
+     "profit",
+     "retail",
+     "budget"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The store's summer _____ starts next Friday. Most items will be sold at half price for one week.",
+    "options": [
+     "profit",
+     "cost",
+     "sale",
+     "value"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The two companies will _____ the terms of the contract next week. Both sides hope to reach an agreement quickly.",
+    "options": [
+     "splurge",
+     "negotiate",
+     "shop",
+     "save"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Tourists often _____ with sellers at the night market. They can usually get a lower price if they ask politely.",
+    "options": [
+     "splurge",
+     "save",
+     "haggle",
+     "compare"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The hotel was very _____, but the rooms were small and dirty. Next time, we will pay a little more.",
+    "options": [
+     "cheap",
+     "thrifty",
+     "secondhand",
+     "worth"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The new phone is _____ for most students. It costs less than half the price of other popular models.",
+    "options": [
+     "overpriced",
+     "worth",
+     "thrifty",
+     "affordable"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The _____ of fresh vegetables went up after the typhoon. Many restaurants had to change their menus.",
+    "options": [
+     "budget",
+     "price",
+     "coupon",
+     "profit"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The training course is expensive, but it is _____ the money. Most people get a better job after finishing it.",
+    "options": [
+     "worth",
+     "affordable",
+     "reasonable",
+     "economical"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "This hotel offers great _____ for money. The price includes breakfast, parking, and free use of the pool.",
+    "options": [
+     "profit",
+     "retail",
+     "clearance",
+     "value"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "You can _____ twenty percent on train tickets if you book online. The discount is only for early bookings.",
+    "options": [
+     "splurge",
+     "haggle",
+     "save",
+     "shop"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The _____ of shipping has risen sharply this year. Many companies are raising their prices as a result.",
+    "options": [
+     "coupon",
+     "cost",
+     "clearance",
+     "markdown"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The repair shop charges a _____ price for its work. Most customers return to the same shop again and again.",
+    "options": [
+     "reasonable",
+     "overpriced",
+     "secondhand",
+     "thrifty"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Many visitors complain that the airport restaurants are _____. A small bottle of water costs three times more than in town.",
+    "options": [
+     "affordable",
+     "economical",
+     "reasonable",
+     "overpriced"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The marketing team must stay within its _____ this year. It cannot spend more than one million dollars.",
+    "options": [
+     "coupon",
+     "markdown",
+     "budget",
+     "steal"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Before buying a new phone plan, _____ the prices of several companies. Some offer much better deals than others.",
+    "options": [
+     "splurge",
+     "compare",
+     "haggle",
+     "negotiate"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The bank has a special _____ for new customers this month. Anyone who opens an account receives a free gift.",
+    "options": [
+     "profit",
+     "retail",
+     "cost",
+     "offer"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Please bring this _____ to the restaurant to receive a free dessert. It is valid until the end of May.",
+    "options": [
+     "coupon",
+     "budget",
+     "profit",
+     "retail"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Everything in the _____ section is seventy percent off. The store must sell old stock before the new products arrive.",
+    "options": [
+     "profit",
+     "budget",
+     "clearance",
+     "cost"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The company bought _____ computers for its training room. They were used, but they still work very well.",
+    "options": [
+     "overpriced",
+     "secondhand",
+     "thrifty",
+     "economical"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "There is a forty percent _____ on all winter coats. The new prices are shown on red stickers.",
+    "options": [
+     "profit",
+     "budget",
+     "retail",
+     "markdown"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Many people now _____ online instead of going to stores. They can compare prices easily from home.",
+    "options": [
+     "haggle",
+     "negotiate",
+     "shop",
+     "splurge"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "After getting her first bonus, Amy decided to _____ on a designer handbag. She usually spends very little money.",
+    "options": [
+     "splurge",
+     "haggle",
+     "compare",
+     "negotiate"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "My grandmother is very _____ and never wastes anything. She even saves old jars to use as containers.",
+    "options": [
+     "overpriced",
+     "thrifty",
+     "affordable",
+     "worth"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "This new washing machine is very _____. It uses less water and electricity than older models.",
+    "options": [
+     "economical",
+     "overpriced",
+     "secondhand",
+     "worth"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "This designer jacket costs only two thousand dollars. At that price, it is a real _____.",
+    "options": [
+     "budget",
+     "cost",
+     "profit",
+     "steal"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Both sides agreed that the new contract was _____. Each company will receive an equal share of the income.",
+    "options": [
+     "cheap",
+     "overpriced",
+     "fair",
+     "secondhand"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The _____ price of the new tablet is twenty thousand dollars. Online shops may sell it for a little less.",
+    "options": [
+     "clearance",
+     "retail",
+     "coupon",
+     "markdown"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The bakery made a large _____ last year. The owner used the money to open a second shop.",
+    "options": [
+     "budget",
+     "coupon",
+     "profit",
+     "markdown"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The new store manager found a _____ on office furniture. The company saved over thirty percent on desks and chairs.",
+    "options": [
+     "deal",
+     "profit",
+     "retail",
+     "budget"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   }
+  ]
  }
 }
