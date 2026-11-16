@@ -2624,7 +2624,27 @@ window.VOCAB_ZONES = {
    174,
    175,
    176,
-   177
+   177,
+   178,
+   179,
+   180,
+   181,
+   182,
+   183,
+   184,
+   185,
+   186,
+   187,
+   188,
+   189,
+   190,
+   191,
+   192,
+   193,
+   194,
+   195,
+   196,
+   197
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -2801,7 +2821,27 @@ window.VOCAB_ZONES = {
    "174": "Hobby 嗜好",
    "175": "Holiday 假期",
    "176": "Home 家",
-   "177": "Hometown 家鄉"
+   "177": "Hometown 家鄉",
+   "178": "Hotel 飯店",
+   "179": "House 房屋",
+   "180": "Housework 家務",
+   "181": "Hurry 匆忙",
+   "182": "Ice Cream 冰淇淋",
+   "183": "Ideas 想法",
+   "184": "Idol 偶像",
+   "185": "Imagination 想像力",
+   "186": "Immigration 移民",
+   "187": "Importance 重要性",
+   "188": "Influence 影響",
+   "189": "Information 資訊",
+   "190": "Insect 昆蟲",
+   "191": "Inspired 受到啟發",
+   "192": "Intelligent Person 聰明的人",
+   "193": "Interesting 有趣的",
+   "194": "Interesting Person 有趣的人",
+   "195": "Interesting Place 有趣的地方",
+   "196": "International 國際",
+   "197": "Internet 網際網路"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  },
@@ -4266,13 +4306,6 @@ window.VOCAB_BOOKS = [
   ]
  },
  {
-  "id": "toeic",
-  "name": "TOEIC 主題單字 Themed Vocabulary",
-  "zones": [
-   "tc"
-  ]
- },
- {
   "id": "ielts",
   "name": "學測/IELTS/TOEFL 主題字彙",
   "zones": [
@@ -4297,6 +4330,13 @@ window.VOCAB_BOOKS = [
    "i19",
    "i20",
    "i21"
+  ]
+ },
+ {
+  "id": "toeic",
+  "name": "TOEIC 主題單字 Themed Vocabulary",
+  "zones": [
+   "tc"
   ]
  }
 ];
