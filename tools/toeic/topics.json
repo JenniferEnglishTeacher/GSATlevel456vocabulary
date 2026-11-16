@@ -69130,5 +69130,3056 @@
     "vocabIndex": 28
    }
   ]
+ },
+ "107": {
+  "theme": "Disagreement 意見分歧",
+  "source": "https://www.examword.com/group-topic/disagreement",
+  "VOCAB": [
+   {
+    "word": "argument",
+    "pos": "n.",
+    "en_def": "a disagreement in which people speak angrily or give different opinions",
+    "cn_def": "爭論；爭吵",
+    "sentence": "A: Why did the two supervisors leave the planning meeting so early this morning, and is everything all right between them now? B: They had a loud {{BLANK}} about who should manage the new budget, so the director asked them to calm down and discuss the problem privately after lunch.",
+    "cn": "A：為什麼那兩位主管今天早上這麼早就離開企劃會議？他們之間現在還好嗎？ B：他們為了誰該管理新預算而大聲【爭論】，所以處長請他們冷靜下來，午餐後再私下討論這個問題。",
+    "collocation": "have an argument with a coworker 和同事起爭執"
+   },
+   {
+    "word": "conflict",
+    "pos": "n.",
+    "en_def": "a serious disagreement between people or groups",
+    "cn_def": "衝突",
+    "sentence": "A: Our project keeps falling behind schedule because the design team and the engineering team never seem to agree on anything important. B: I think we should hire a professional trainer to help them solve this {{BLANK}}, because the longer it continues, the more money and time the company will lose.",
+    "cn": "A：我們的專案一直落後進度，因為設計團隊和工程團隊似乎在任何重要的事情上都無法達成共識。 B：我認為我們應該請一位專業講師幫他們解決這個【衝突】，因為它持續越久，公司損失的金錢和時間就越多。",
+    "collocation": "resolve a conflict between departments 解決部門之間的衝突"
+   },
+   {
+    "word": "controversy",
+    "pos": "n.",
+    "en_def": "public disagreement about something that many people have strong opinions on",
+    "cn_def": "爭議；爭論",
+    "sentence": "A: Have you read the news about the supermarket chain that suddenly decided to charge customers for every plastic bag at the checkout? B: Yes, the decision caused a lot of {{BLANK}} online, because some shoppers support the plan to protect the environment, while others think it is simply a way to make more profit.",
+    "cn": "A：你看過那則關於連鎖超市突然決定在結帳時對每個塑膠袋收費的新聞嗎？ B：看過，這個決定在網路上引起很大的【爭議】，因為有些購物者支持這個保護環境的計畫，而其他人則認為這只是賺更多錢的方法。",
+    "collocation": "cause controversy among customers 在顧客之間引發爭議"
+   },
+   {
+    "word": "discord",
+    "pos": "n.",
+    "en_def": "a lack of agreement, so people do not get along or work well together",
+    "cn_def": "不和；紛爭",
+    "sentence": "A: The new manager seems very friendly, so why are so many people in the accounting office unhappy since she arrived last spring? B: She often gives the best tasks to her old friends, and this has created {{BLANK}} among the staff, so several experienced workers are now looking for other jobs.",
+    "cn": "A：新經理看起來很友善，為什麼她去年春天到任後，會計辦公室有這麼多人不開心？ B：她常把最好的工作交給她的老朋友，這在員工之間造成了【不和】，所以好幾位有經驗的員工現在正在找其他工作。",
+    "collocation": "create discord within the team 在團隊中造成不和"
+   },
+   {
+    "word": "friction",
+    "pos": "n.",
+    "en_def": "disagreement and unfriendly feelings between people who work or live together",
+    "cn_def": "摩擦；不和",
+    "sentence": "A: Is it true that the sales staff and the warehouse workers often complain about each other during the busy holiday season? B: Yes, there is some {{BLANK}} between them, because salespeople promise fast delivery to customers while the warehouse simply does not have enough workers to pack all the orders on time.",
+    "cn": "A：業務人員和倉庫員工在忙碌的假期旺季常常互相抱怨，這是真的嗎？ B：是的，他們之間有些【摩擦】，因為業務員向顧客承諾快速出貨，但倉庫根本沒有足夠的人手準時包裝所有訂單。",
+    "collocation": "reduce friction between teams 減少團隊之間的摩擦"
+   },
+   {
+    "word": "tension",
+    "pos": "n.",
+    "en_def": "a nervous, unfriendly feeling between people who may soon argue",
+    "cn_def": "緊張關係；緊繃氣氛",
+    "sentence": "A: You looked uncomfortable at the board meeting yesterday afternoon, so what exactly happened while I was visiting the factory? B: There was a lot of {{BLANK}} in the room, because two directors disagreed about closing the old branch, and nobody wanted to speak until the chairman finally changed the topic.",
+    "cn": "A：你昨天下午在董事會上看起來很不自在，我去參觀工廠的時候到底發生了什麼事？ B：會議室裡充滿【緊繃氣氛】，因為兩位董事對於關閉舊分店意見不同，沒有人想發言，直到董事長終於轉移了話題。",
+    "collocation": "ease tension in the office 緩和辦公室的緊張氣氛"
+   },
+   {
+    "word": "opposition",
+    "pos": "n.",
+    "en_def": "strong disagreement with a plan or idea",
+    "cn_def": "反對",
+    "sentence": "A: The city wants to build a large shopping mall next to the park, so do you think the plan will be approved soon? B: I doubt it, because there is strong {{BLANK}} from local residents, who worry about heavy traffic and noise, and they have already collected over five thousand signatures against it.",
+    "cn": "A：市政府想在公園旁邊蓋一座大型購物中心，你覺得這個計畫很快就會通過嗎？ B：我很懷疑，因為當地居民強烈【反對】，他們擔心交通擁擠和噪音，而且已經收集了超過五千份反對連署。",
+    "collocation": "face strong opposition from residents 面臨居民的強烈反對"
+   },
+   {
+    "word": "objection",
+    "pos": "n.",
+    "en_def": "a reason you give for not agreeing with something",
+    "cn_def": "異議；反對理由",
+    "sentence": "A: Before we sign the contract with the new cleaning company next week, does anyone in the department have concerns about the terms? B: My only {{BLANK}} is the price, because their service costs almost twice as much as our current supplier, and I am not sure the quality is really that much better.",
+    "cn": "A：下週我們和新的清潔公司簽約之前，部門裡有人對條款有疑慮嗎？ B：我唯一的【異議】是價格，因為他們的服務費用幾乎是我們現在廠商的兩倍，而我不確定品質是否真的好那麼多。",
+    "collocation": "raise an objection to the proposal 對提案提出異議"
+   },
+   {
+    "word": "row",
+    "pos": "n.",
+    "en_def": "a noisy, angry argument between people",
+    "cn_def": "吵架；爭吵",
+    "sentence": "A: Why did the restaurant manager have to call security last night when the dining room was so busy with customers? B: Two guests started a loud {{BLANK}} over a table they had both reserved, and they kept shouting at each other until the staff finally found them separate seats near the window.",
+    "cn": "A：昨晚用餐區客人這麼多的時候，餐廳經理為什麼必須叫保全？ B：兩位客人為了一張他們都有預約的桌子大聲【吵架】，而且一直對彼此大吼，直到員工終於幫他們在窗邊找到不同的座位。",
+    "collocation": "have a row with the neighbors 和鄰居吵架"
+   },
+   {
+    "word": "feud",
+    "pos": "n.",
+    "en_def": "a long and bitter argument between two people, families or groups",
+    "cn_def": "長期不和；宿怨",
+    "sentence": "A: I heard that the two coffee shops on Main Street refuse to join the local business association together, so what is the story behind that? B: The owners are brothers who have had a {{BLANK}} for over ten years since their father left the family business to only one of them, and they still do not speak.",
+    "cn": "A：我聽說主街上那兩家咖啡店拒絕一起加入當地商業協會，這背後有什麼故事？ B：兩位老闆是兄弟，自從他們的父親把家族事業只留給其中一人後，他們已經【長期不和】超過十年，到現在還是不說話。",
+    "collocation": "end a long-running feud 結束長期的不和"
+   },
+   {
+    "word": "rift",
+    "pos": "n.",
+    "en_def": "a break in a friendly relationship caused by a disagreement",
+    "cn_def": "裂痕；嫌隙",
+    "sentence": "A: The two partners started the company together as close friends, so why are they now planning to go their separate ways? B: A serious {{BLANK}} developed between them last year when one partner wanted to expand overseas quickly, while the other believed the business should stay small and safe.",
+    "cn": "A：兩位合夥人當初是以好朋友的身分一起創立公司的，為什麼他們現在打算分道揚鑣？ B：去年他們之間出現了嚴重的【裂痕】，當時一位合夥人想快速擴展到海外，而另一位則認為公司應該維持小規模、穩健經營。",
+    "collocation": "heal the rift between partners 修補合夥人之間的裂痕"
+   },
+   {
+    "word": "division",
+    "pos": "n.",
+    "en_def": "a disagreement that separates people into groups with different opinions",
+    "cn_def": "分歧；分裂",
+    "sentence": "A: The staff vote on the new four-day work week was very close, wasn't it, and how do employees feel about the result now? B: Yes, it was, and there is still a clear {{BLANK}} in the company, because younger workers love the idea, but many parents worry about the longer working hours each day.",
+    "cn": "A：員工對新的每週工作四天制度的投票結果非常接近，對吧？員工現在對結果有什麼感受？ B：對，而且公司內部仍有明顯的【分歧】，因為年輕員工很喜歡這個主意，但許多為人父母者擔心每天的工時變長。",
+    "collocation": "a deep division of opinion 嚴重的意見分歧"
+   },
+   {
+    "word": "differ",
+    "pos": "v.",
+    "en_def": "to have a different opinion from someone else",
+    "cn_def": "意見不同；有分歧",
+    "sentence": "A: You and the marketing director usually agree on most plans, so why didn't you support her idea about the new television advertisement? B: We sometimes {{BLANK}} on how to spend the budget, and this time I believe online videos will reach more young customers for much less money than a TV commercial.",
+    "cn": "A：你和行銷總監通常在大部分計畫上都意見一致，為什麼你不支持她的新電視廣告構想？ B：我們有時在如何使用預算上會【意見不同】，而這次我認為網路影片能以比電視廣告少得多的錢接觸到更多年輕顧客。",
+    "collocation": "differ on the details 在細節上意見不同"
+   },
+   {
+    "word": "disagree",
+    "pos": "v.",
+    "en_def": "to have a different opinion; to not agree",
+    "cn_def": "不同意",
+    "sentence": "A: The consultant suggested that we should close our store on Sundays to save money on staff costs, so what do you think about that? B: I strongly {{BLANK}} with that idea, because Sunday is actually our busiest day, and many families come in to shop together after lunch.",
+    "cn": "A：顧問建議我們週日關店以節省人事成本，你覺得呢？ B：我強烈【不同意】那個想法，因為週日其實是我們最忙的一天，很多家庭會在午餐後一起來購物。",
+    "collocation": "strongly disagree with the decision 強烈不同意這項決定"
+   },
+   {
+    "word": "oppose",
+    "pos": "v.",
+    "en_def": "to disagree with a plan and try to stop it",
+    "cn_def": "反對",
+    "sentence": "A: The head office wants to move our entire customer service team to another city next year, so how will the union respond to this plan? B: The union leaders will definitely {{BLANK}} it, because many workers have children in local schools and cannot easily move their families so far away.",
+    "cn": "A：總公司想在明年把我們整個客服團隊搬到另一個城市，工會會怎麼回應這個計畫？ B：工會領袖一定會【反對】，因為許多員工的孩子在當地上學，沒辦法輕易舉家搬到那麼遠的地方。",
+    "collocation": "oppose the plan to cut jobs 反對裁員計畫"
+   },
+   {
+    "word": "contradict",
+    "pos": "v.",
+    "en_def": "to say the opposite of what someone else has said",
+    "cn_def": "反駁；與…矛盾",
+    "sentence": "A: During the presentation, why did you look so embarrassed when the client asked about our delivery times? B: My assistant started to {{BLANK}} me in front of everyone, saying that orders actually take two weeks, not five days, and unfortunately the client believed her instead of me.",
+    "cn": "A：簡報時，客戶問到我們的交貨時間，你為什麼看起來那麼尷尬？ B：我的助理開始當著大家的面【反駁】我，說訂單其實要兩週而不是五天，不幸的是客戶相信她而不是我。",
+    "collocation": "contradict the official report 與官方報告相矛盾"
+   },
+   {
+    "word": "challenge",
+    "pos": "v.",
+    "en_def": "to question whether something is right, fair or true",
+    "cn_def": "質疑；挑戰",
+    "sentence": "A: The new rule says all staff must work in the office five days a week, but many people were much more productive working from home. B: Several team leaders plan to {{BLANK}} the rule at the next meeting, and they will show data proving that remote work has improved sales and reduced costs.",
+    "cn": "A：新規定說所有員工每週都必須進辦公室五天，但很多人在家工作時效率高得多。 B：幾位組長打算在下次會議中【質疑】這項規定，他們會提出數據證明遠距工作提升了業績並降低了成本。",
+    "collocation": "challenge the decision in court 在法庭上質疑該決定"
+   },
+   {
+    "word": "object",
+    "pos": "v.",
+    "en_def": "to say that you do not like or agree with something",
+    "cn_def": "反對；不贊成",
+    "sentence": "A: The landlord wants to raise the rent for our office by twenty percent from next month, and he says it is because of higher costs. B: We should {{BLANK}} to such a large increase, because our contract clearly says the rent can only go up by five percent each year.",
+    "cn": "A：房東想從下個月起把我們辦公室的租金調漲百分之二十，他說是因為成本提高。 B：我們應該【反對】這麼大的漲幅，因為我們的合約清楚寫明租金每年只能調漲百分之五。",
+    "collocation": "object to the new policy 反對新政策"
+   },
+   {
+    "word": "counter",
+    "pos": "v.",
+    "en_def": "to answer an argument or attack with an opposite idea or action",
+    "cn_def": "反駁；反擊",
+    "sentence": "A: Our biggest competitor just told the media that its products are cheaper and better than ours, so how should we respond? B: We can {{BLANK}} their claims by publishing honest customer reviews and a clear price comparison, which will show that our products last much longer and offer better value.",
+    "cn": "A：我們最大的競爭對手剛對媒體說他們的產品比我們的更便宜、更好，我們該怎麼回應？ B：我們可以發布真實的顧客評價和清楚的價格比較來【反駁】他們的說法，這會顯示我們的產品耐用得多、更划算。",
+    "collocation": "counter the criticism with facts 用事實反駁批評"
+   },
+   {
+    "word": "contest",
+    "pos": "v.",
+    "en_def": "to say formally that a decision or result is wrong and try to change it",
+    "cn_def": "對…提出異議；爭奪",
+    "sentence": "A: The tax office says our company owes a large amount of money from three years ago, but our accountant thinks the numbers are wrong. B: In that case, we should {{BLANK}} the decision formally, and our lawyer can help us prepare all the receipts and documents before the deadline at the end of the month.",
+    "cn": "A：稅務局說我們公司欠了三年前的一大筆錢，但我們的會計師認為數字有錯。 B：既然如此，我們應該正式對這項決定【提出異議】，我們的律師可以幫我們在月底期限前準備好所有收據和文件。",
+    "collocation": "contest the result of the election 對選舉結果提出異議"
+   },
+   {
+    "word": "argumentative",
+    "pos": "adj.",
+    "en_def": "often arguing or liking to argue",
+    "cn_def": "愛爭論的；好爭辯的",
+    "sentence": "A: The new intern is clever and works hard, so why do some of the senior staff prefer not to work with him on projects? B: He can be quite {{BLANK}} in meetings, because he questions every small decision and refuses to accept other people's ideas, which makes simple discussions last much longer than necessary.",
+    "cn": "A：新來的實習生很聰明又努力，為什麼有些資深員工不想和他一起做專案？ B：他在會議上相當【愛爭論】，因為他質疑每個小決定，又拒絕接受別人的想法，讓簡單的討論拖得比需要的久得多。",
+    "collocation": "become argumentative in meetings 在會議中變得愛爭論"
+   },
+   {
+    "word": "hostile",
+    "pos": "adj.",
+    "en_def": "unfriendly and angry toward someone or something",
+    "cn_def": "有敵意的；不友善的",
+    "sentence": "A: How did the shareholders react when the CEO announced that there would be no bonus this year after such a successful season? B: The crowd became very {{BLANK}}, and some people even shouted at him, so he promised to review the decision and explain the company's financial situation more clearly next week.",
+    "cn": "A：在這麼成功的一季之後，執行長宣布今年不發紅利時，股東們有什麼反應？ B：現場變得非常有【敵意】，有些人甚至對他大吼，所以他答應會重新檢討這個決定，並在下週更清楚說明公司的財務狀況。",
+    "collocation": "a hostile takeover 惡意收購"
+   },
+   {
+    "word": "antagonistic",
+    "pos": "adj.",
+    "en_def": "showing strong dislike or opposition toward someone",
+    "cn_def": "敵對的；對立的",
+    "sentence": "A: The meeting between the factory owners and the workers' representatives went badly again yesterday, didn't it? B: Yes, both sides were very {{BLANK}} from the start, so instead of discussing the safety problems calmly, they spent most of the afternoon blaming each other for the recent accidents in the factory.",
+    "cn": "A：工廠老闆和員工代表之間的會議昨天又談得很糟，對吧？ B：對，雙方一開始就非常【敵對】，所以他們沒有冷靜討論安全問題，反而花了大半個下午互相指責工廠最近發生的意外。",
+    "collocation": "an antagonistic attitude toward management 對管理階層的敵對態度"
+   },
+   {
+    "word": "divided",
+    "pos": "adj.",
+    "en_def": "having different opinions, so people are split into groups",
+    "cn_def": "意見分歧的；分裂的",
+    "sentence": "A: Has the board finally decided whether to open a new branch in Tokyo or to invest more money in our online store instead? B: Not yet, because the members are still {{BLANK}} on the issue, and half of them think Japan is too risky while the others believe it is a great opportunity.",
+    "cn": "A：董事會終於決定要在東京開新分公司，還是要把更多錢投資在我們的網路商店了嗎？ B：還沒，因為成員們在這個問題上仍然【意見分歧】，一半的人認為日本風險太高，而其他人則相信這是個大好機會。",
+    "collocation": "be deeply divided over the issue 對這個問題意見嚴重分歧"
+   },
+   {
+    "word": "irreconcilable",
+    "pos": "adj.",
+    "en_def": "so different that agreement is impossible",
+    "cn_def": "無法調和的；不可和解的",
+    "sentence": "A: Why did the two companies cancel their merger at the last minute after spending so many months on negotiations? B: They had {{BLANK}} differences about who would control the new company, and neither side was willing to give up power, so in the end they decided to walk away.",
+    "cn": "A：兩家公司花了好幾個月談判，為什麼在最後一刻取消合併？ B：他們對於誰來掌控新公司有【無法調和的】歧見，雙方都不願意放棄權力，所以最後決定放棄。",
+    "collocation": "irreconcilable differences 無法調和的歧見"
+   },
+   {
+    "word": "opposed",
+    "pos": "adj.",
+    "en_def": "disagreeing strongly with something",
+    "cn_def": "反對的",
+    "sentence": "A: The government plans to build a new airport runway close to several villages, so what do the local farmers think about it? B: Most of them are firmly {{BLANK}} to the project, because the noise will disturb their animals, and they are afraid that they will lose part of their land without fair payment.",
+    "cn": "A：政府打算在幾個村莊附近興建新的機場跑道，當地農民對此有什麼看法？ B：他們大多數人堅決【反對】這項計畫，因為噪音會干擾他們的動物，而且他們擔心會在沒有合理補償的情況下失去部分土地。",
+    "collocation": "be strongly opposed to the change 強烈反對這項改變"
+   },
+   {
+    "word": "disputably",
+    "pos": "adv.",
+    "en_def": "in a way that can be questioned or argued about",
+    "cn_def": "有爭議地；可質疑地",
+    "sentence": "A: The magazine called our new smartphone the best on the market this year, so should we print that on all our advertisements? B: That ranking is {{BLANK}} correct at best, because several other phones scored higher in battery tests, so let's use a safer message to avoid complaints from customers.",
+    "cn": "A：雜誌稱我們的新智慧型手機是今年市場上最好的，我們應該把這句話印在所有廣告上嗎？ B：這個排名充其量只是【有爭議地】正確，因為其他幾款手機在電池測試中得分更高，所以我們用比較保險的訊息，以免顧客抱怨。",
+    "collocation": "disputably the best product on the market 堪稱市場上最好（但有爭議）的產品"
+   },
+   {
+    "word": "controversially",
+    "pos": "adv.",
+    "en_def": "in a way that causes public disagreement",
+    "cn_def": "有爭議地；引起爭議地",
+    "sentence": "A: Did the bank really decide to close all of its small branches in the countryside, even though many older customers still depend on them? B: Yes, and quite {{BLANK}}, it also announced that customers must now pay a fee to speak with a staff member, which has made many people extremely angry.",
+    "cn": "A：那家銀行真的決定關閉所有鄉下的小分行嗎？即使許多年長顧客仍仰賴它們。 B：是的，而且相當【引起爭議】的是，它還宣布顧客現在必須付費才能和行員交談，這讓許多人非常憤怒。",
+    "collocation": "controversially decide to raise prices 引起爭議地決定漲價"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The two drivers had a heated _____ about who caused the accident. A police officer arrived and asked them both to calm down.",
+    "options": [
+     "argument",
+     "rift",
+     "opposition",
+     "division"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The HR department offers free training on how to manage _____ in the workplace. Staff learn to solve disagreements calmly and fairly.",
+    "options": [
+     "objection",
+     "row",
+     "conflict",
+     "feud"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The company's decision to use cheap overseas labor caused great _____ in the media. Many customers stopped buying its products.",
+    "options": [
+     "row",
+     "controversy",
+     "rift",
+     "feud"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Rumors about job cuts created _____ and distrust among the staff. Productivity fell as workers stopped helping one another.",
+    "options": [
+     "objection",
+     "argument",
+     "row",
+     "discord"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "There is often some _____ between the sales and production departments. Sales wants faster delivery, but production needs more time.",
+    "options": [
+     "objection",
+     "row",
+     "friction",
+     "feud"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "You could feel the _____ in the room as everyone waited for the layoff announcement. Nobody said a word for several minutes.",
+    "options": [
+     "tension",
+     "objection",
+     "opposition",
+     "division"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The plan to build a highway through the forest met strong _____ from environmental groups. The city council finally cancelled the project.",
+    "options": [
+     "friction",
+     "rift",
+     "discord",
+     "opposition"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "If you have any _____ to the new contract, please email the legal team by Friday. Otherwise, it will be signed next week.",
+    "options": [
+     "argument",
+     "objection",
+     "friction",
+     "tension"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The neighbors had a loud _____ about the parking space late last night. Several residents called the building manager to complain.",
+    "options": [
+     "row",
+     "opposition",
+     "division",
+     "rift"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The two families have had a bitter _____ for three generations. They still refuse to attend the same town events.",
+    "options": [
+     "objection",
+     "opposition",
+     "tension",
+     "feud"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The disagreement over salaries caused a deep _____ between the two founders. They stopped speaking and eventually sold the company.",
+    "options": [
+     "objection",
+     "opposition",
+     "rift",
+     "argument"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The vote revealed a clear _____ among staff members about the new dress code. About half supported it and half rejected it.",
+    "options": [
+     "row",
+     "division",
+     "feud",
+     "objection"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Although the two partners _____ on many small details, they share the same long-term goals. This balance has helped the business grow.",
+    "options": [
+     "oppose",
+     "contradict",
+     "contest",
+     "differ"
+    ],
+    "answer": 3,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Several engineers _____ with the manager's decision to delay the product launch. They believe the software is already ready for customers.",
+    "options": [
+     "disagree",
+     "oppose",
+     "contest",
+     "counter"
+    ],
+    "answer": 0,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Many residents _____ the plan to close the local library. They say it is an important place for children and older people.",
+    "options": [
+     "object",
+     "oppose",
+     "differ",
+     "disagree"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The witness's statement seems to _____ the security camera video. The police are now checking which version is correct.",
+    "options": [
+     "object",
+     "differ",
+     "contradict",
+     "disagree"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The young analyst was brave enough to _____ the CEO's sales forecast. She showed data proving the numbers were too optimistic.",
+    "options": [
+     "challenge",
+     "object",
+     "differ",
+     "disagree"
+    ],
+    "answer": 0,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Many employees _____ to working on weekends without extra pay. They have asked the union to discuss the issue with management.",
+    "options": [
+     "oppose",
+     "contradict",
+     "object",
+     "challenge"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The company quickly released a statement to _____ the false rumors on social media. It explained that no stores would be closed.",
+    "options": [
+     "object",
+     "differ",
+     "disagree",
+     "counter"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The losing bidder plans to _____ the result of the tender in court. It claims the selection process was unfair.",
+    "options": [
+     "object",
+     "contest",
+     "differ",
+     "disagree"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Customers who are rude or _____ should be handled politely but firmly. Staff can call a supervisor if a situation gets worse.",
+    "options": [
+     "divided",
+     "irreconcilable",
+     "argumentative",
+     "opposed"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The new CEO received a _____ reception from employees who feared job cuts. Few people clapped when she finished her speech.",
+    "options": [
+     "divided",
+     "hostile",
+     "irreconcilable",
+     "opposed"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Relations between the two rival firms have been _____ for years. They compete for the same customers and rarely cooperate.",
+    "options": [
+     "antagonistic",
+     "argumentative",
+     "irreconcilable",
+     "opposed"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Opinion in the office is _____ over the new open-plan seating. Some staff love it, while others find it too noisy.",
+    "options": [
+     "hostile",
+     "argumentative",
+     "irreconcilable",
+     "divided"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The court ended the partnership because of _____ differences between the owners. Neither side could accept the other's plans.",
+    "options": [
+     "argumentative",
+     "irreconcilable",
+     "opposed",
+     "divided"
+    ],
+    "answer": 1,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The union is strongly _____ to any reduction in holiday pay. Its leaders say they will fight the proposal.",
+    "options": [
+     "divided",
+     "argumentative",
+     "irreconcilable",
+     "opposed"
+    ],
+    "answer": 3,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The report described the product as _____ the best on the market. Several experts, however, say the testing methods were weak.",
+    "options": [
+     "disputably",
+     "hostile",
+     "divided",
+     "argumentative"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The airline _____ decided to charge passengers for using the restroom. The plan was dropped after thousands of complaints.",
+    "options": [
+     "hostile",
+     "opposed",
+     "controversially",
+     "divided"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The lawyer presented a strong _____ for raising the minimum wage. Even committee members who disagreed admired her clear reasoning.",
+    "options": [
+     "argument",
+     "friction",
+     "discord",
+     "tension"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Shareholders are expected to _____ the merger at next month's meeting. They believe the price offered is far too low.",
+    "options": [
+     "object",
+     "oppose",
+     "differ",
+     "disagree"
+    ],
+    "answer": 1,
+    "vocabIndex": 14
+   }
+  ]
+ },
+ "108": {
+  "theme": "Discussion 討論",
+  "source": "https://www.examword.com/group-topic/discussion",
+  "VOCAB": [
+   {
+    "word": "talkative",
+    "pos": "adj.",
+    "en_def": "liking to talk a lot",
+    "cn_def": "健談的；愛說話的",
+    "sentence": "A: Who should we ask to lead the small-group discussion at the client workshop next week, since we need someone who can keep the conversation going? B: I think Kevin would be perfect, because he is very {{BLANK}} and friendly, and he never lets an awkward silence last long when people are too shy to share their ideas.",
+    "cn": "A：下週客戶研習會的小組討論該請誰來帶領？我們需要一個能讓對話持續下去的人。 B：我覺得凱文是最佳人選，因為他非常【健談】又友善，當大家太害羞不敢分享想法時，他從不讓尷尬的沉默持續太久。",
+    "collocation": "a talkative and outgoing salesperson 健談又外向的業務員"
+   },
+   {
+    "word": "mature",
+    "pos": "adj.",
+    "en_def": "behaving in a sensible way, like a responsible adult",
+    "cn_def": "成熟的；穩重的",
+    "sentence": "A: Why did the manager choose Linda to handle the angry customer's complaint during yesterday's meeting, even though she is the youngest person on the team? B: Although she is only twenty-four, she is very {{BLANK}} for her age, and she always stays calm and listens carefully before she offers a solution to any problem.",
+    "cn": "A：為什麼經理在昨天的會議上選琳達來處理那位生氣客戶的投訴？她明明是團隊裡最年輕的人。 B：雖然她才二十四歲，但以她的年紀來說非常【成熟】，而且她在提出任何問題的解決方法之前，總是保持冷靜並仔細聆聽。",
+    "collocation": "a mature attitude toward criticism 面對批評的成熟態度"
+   },
+   {
+    "word": "paranormal",
+    "pos": "adj.",
+    "en_def": "strange and impossible to explain by science, such as ghosts",
+    "cn_def": "超自然的；靈異的",
+    "sentence": "A: The marketing team is discussing ideas for the new mobile game, so what kind of story do you think young players would enjoy most this year? B: Many of them love mysterious stories about ghosts and strange powers, so I suggest a {{BLANK}} adventure in which players explore an old hotel and solve puzzles that science cannot explain.",
+    "cn": "A：行銷團隊正在討論新手機遊戲的點子，你覺得今年年輕玩家最喜歡哪種故事？ B：他們很多人喜歡關於鬼魂和奇異力量的神祕故事，所以我建議做一個【超自然】冒險，讓玩家探索一間老飯店，並解開科學無法解釋的謎題。",
+    "collocation": "investigate paranormal activity 調查靈異現象"
+   },
+   {
+    "word": "cartoon",
+    "pos": "n.",
+    "en_def": "a funny drawing or a short film made of drawings",
+    "cn_def": "卡通；漫畫",
+    "sentence": "A: Our new safety video for factory workers is long and rather boring, so how can we make the important rules easier to remember during the training session? B: Why don't we ask the design team to create a short {{BLANK}} with funny characters, since people usually pay more attention to colorful drawings than to long lists of rules?",
+    "cn": "A：我們給工廠員工看的新安全影片又長又無聊，在訓練課程中要怎樣讓重要規定更容易記住？ B：我們何不請設計團隊製作一部有趣角色的短篇【卡通】？因為大家通常對彩色圖畫比對一長串規定更專心。",
+    "collocation": "a popular cartoon character 受歡迎的卡通人物"
+   },
+   {
+    "word": "fashion",
+    "pos": "n.",
+    "en_def": "the popular style of clothes, hair, etc. at a particular time",
+    "cn_def": "時尚；流行",
+    "sentence": "A: The clothing company wants to open a new store downtown, so what did the managers decide at this morning's planning meeting? B: They agreed to hold a {{BLANK}} show on opening day, because young customers love seeing the latest styles on real models, and it will also attract reporters from local newspapers and websites.",
+    "cn": "A：這家服飾公司想在市中心開一家新店，經理們在今天早上的規劃會議上決定了什麼？ B：他們同意在開幕當天舉辦一場【時裝】秀，因為年輕顧客喜歡看真人模特兒展示最新款式，而且這也會吸引當地報紙和網站的記者。",
+    "collocation": "follow the latest fashion trends 追隨最新的時尚潮流"
+   },
+   {
+    "word": "extroverted",
+    "pos": "adj.",
+    "en_def": "outgoing and enjoying being with other people",
+    "cn_def": "外向的",
+    "sentence": "A: We are hiring a new event coordinator who must greet guests and speak to large groups, so what kind of person are we looking for? B: We need someone {{BLANK}} who feels comfortable meeting strangers and enjoys being the center of attention, because a quiet person might find the busy conference days very tiring.",
+    "cn": "A：我們要招募一位新的活動協調人，他必須接待賓客並對大批群眾說話，我們要找什麼樣的人？ B：我們需要一個【外向】的人，能自在地與陌生人見面並喜歡成為眾人注目的焦點，因為安靜的人可能會覺得忙碌的會議日子非常累人。",
+    "collocation": "an extroverted personality 外向的個性"
+   },
+   {
+    "word": "affair",
+    "pos": "n.",
+    "en_def": "an event or matter, especially one of a particular kind",
+    "cn_def": "事情；事務；（某種）活動",
+    "sentence": "A: How much did the company spend on last month's product launch, and why does the finance director want to discuss it at Friday's meeting? B: The launch turned out to be an expensive {{BLANK}}, because we rented a large hall and hired famous speakers, so the director wants to talk about cheaper options before we plan the next event.",
+    "cn": "A：公司上個月的產品發表會花了多少錢？為什麼財務長想在星期五的會議上討論這件事？ B：那場發表會結果是一件花費高昂的【事】，因為我們租了大型會場又請了知名講者，所以財務長想在規劃下一場活動前討論更便宜的方案。",
+    "collocation": "a formal affair with a strict dress code 有嚴格服裝規定的正式活動"
+   },
+   {
+    "word": "horror",
+    "pos": "n.",
+    "en_def": "a strong feeling of fear and shock; stories or films meant to scare people",
+    "cn_def": "恐怖；驚恐",
+    "sentence": "A: The team-building night is on Friday, and someone suggested watching a movie together after dinner, so what kind of film should we choose? B: Let's avoid a {{BLANK}} movie, because several colleagues said they hate scary scenes and blood, and a light comedy would help everyone relax and laugh together after such a stressful month.",
+    "cn": "A：團隊建立之夜在星期五，有人建議晚餐後一起看電影，我們該選哪種片？ B：我們避開【恐怖】片吧，因為好幾位同事說他們討厭嚇人的場面和血腥畫面，而輕鬆的喜劇能讓大家在壓力這麼大的一個月後放鬆、一起開懷大笑。",
+    "collocation": "watch a horror film 看恐怖片"
+   },
+   {
+    "word": "captivating",
+    "pos": "adj.",
+    "en_def": "so interesting or attractive that it holds your attention",
+    "cn_def": "迷人的；引人入勝的",
+    "sentence": "A: How was the guest speaker at this morning's sales conference, and did people stay until the end of her presentation? B: Her talk was so {{BLANK}} that nobody looked at their phones for an hour, because she told real stories about her mistakes and showed how she turned a small shop into a national business.",
+    "cn": "A：今天早上業務會議的客座講者表現如何？大家有待到她簡報結束嗎？ B：她的演講非常【引人入勝】，整整一小時都沒人看手機，因為她講了自己犯錯的真實故事，並說明她如何把一家小店發展成全國性企業。",
+    "collocation": "a captivating presentation 引人入勝的簡報"
+   },
+   {
+    "word": "conscious",
+    "pos": "adj.",
+    "en_def": "noticing or knowing about something",
+    "cn_def": "意識到的；察覺的",
+    "sentence": "A: Why did the new manager change the way we run our weekly team meetings, and why does everyone now get two minutes to speak? B: She is very {{BLANK}} of the fact that quieter employees rarely share their opinions, so she wants to make sure that every person has a fair chance to be heard.",
+    "cn": "A：新經理為什麼改變我們每週團隊會議的進行方式？為什麼現在每個人都有兩分鐘的發言時間？ B：她非常【意識到】比較安靜的員工很少分享意見，所以她想確保每個人都有公平的機會被聽見。",
+    "collocation": "be conscious of rising costs 意識到成本上升"
+   },
+   {
+    "word": "convincing",
+    "pos": "adj.",
+    "en_def": "making you believe that something is true or right",
+    "cn_def": "有說服力的；令人信服的",
+    "sentence": "A: Did the finance department accept your proposal to buy new laptops for the whole sales team during this afternoon's budget meeting? B: Yes, they agreed in the end, because I gave them a {{BLANK}} reason with clear numbers that showed how much time and money the new machines would save us over the next three years.",
+    "cn": "A：財務部門在今天下午的預算會議上接受你為整個業務團隊購買新筆電的提案了嗎？ B：有，他們最後同意了，因為我給了他們一個【有說服力的】理由，並用清楚的數字顯示新電腦在未來三年能幫我們省下多少時間和金錢。",
+    "collocation": "a convincing argument 有說服力的論點"
+   },
+   {
+    "word": "compare",
+    "pos": "v.",
+    "en_def": "to look at two or more things to see how they are similar or different",
+    "cn_def": "比較",
+    "sentence": "A: We have received three different offers for the new office printers, so how should we decide which company to choose at Thursday's meeting? B: Let's make a simple chart to {{BLANK}} the prices, the speed and the repair services of each machine, so everyone can see the differences clearly before we vote.",
+    "cn": "A：我們收到了三份新辦公室印表機的不同報價，星期四開會時該怎麼決定選哪家公司？ B：我們做一張簡單的圖表來【比較】每台機器的價格、速度和維修服務，這樣大家在投票前就能清楚看出差異。",
+    "collocation": "compare prices with other suppliers 與其他供應商比較價格"
+   },
+   {
+    "word": "brutally",
+    "pos": "adv.",
+    "en_def": "in a very direct and harsh way that may hurt feelings",
+    "cn_def": "殘酷地；毫不留情地",
+    "sentence": "A: I asked Mark to give me feedback on my presentation before the client meeting, but why did he say so many negative things about it? B: He can be {{BLANK}} honest sometimes, but he only wants to help you, and if you fix the weak points he mentioned, your talk will be much stronger tomorrow.",
+    "cn": "A：我在客戶會議前請馬克給我的簡報一些意見，但他為什麼說了那麼多負面的話？ B：他有時候會坦白得【毫不留情】，但他只是想幫你，如果你修正他提到的弱點，你明天的報告會好很多。",
+    "collocation": "be brutally honest 坦白得毫不留情"
+   },
+   {
+    "word": "embarrassed",
+    "pos": "adj.",
+    "en_def": "feeling shy, ashamed or uncomfortable in front of others",
+    "cn_def": "尷尬的；難為情的",
+    "sentence": "A: Why did Tom leave the conference room so quickly after the meeting ended, and is he upset about something that happened? B: He felt very {{BLANK}} because he called the new client by the wrong name twice during the discussion, but I told him that everyone makes small mistakes like that sometimes.",
+    "cn": "A：湯姆為什麼會議一結束就那麼快離開會議室？他是對發生的事情感到不高興嗎？ B：他覺得非常【尷尬】，因為他在討論中兩次叫錯新客戶的名字，但我告訴他每個人有時候都會犯這種小錯。",
+    "collocation": "feel embarrassed about a mistake 為錯誤感到難為情"
+   },
+   {
+    "word": "hesitate",
+    "pos": "v.",
+    "en_def": "to stop or wait before doing something because you are unsure",
+    "cn_def": "猶豫；遲疑",
+    "sentence": "A: I have some ideas about how to reduce our shipping costs, but I am new here, so is it all right to share them at tomorrow's team meeting? B: Of course, please don't {{BLANK}} to speak up, because our manager always welcomes fresh opinions, and new employees often notice problems that the rest of us have stopped seeing.",
+    "cn": "A：我對如何降低運費有些想法，但我是新來的，可以在明天的團隊會議上分享嗎？ B：當然可以，請不要【猶豫】，儘管發言，因為我們經理總是歡迎新的意見，而新員工常會注意到我們其他人已經視而不見的問題。",
+    "collocation": "Please don't hesitate to contact us. 請隨時與我們聯絡。"
+   },
+   {
+    "word": "habitually",
+    "pos": "adv.",
+    "en_def": "as a usual habit; regularly",
+    "cn_def": "習慣性地；慣常地",
+    "sentence": "A: Why does the director always start our Monday meetings ten minutes late, and should we say something to her about it? B: She {{BLANK}} checks her email and answers urgent questions from overseas customers first thing every Monday, so I think we should simply move the meeting to nine-fifteen instead of complaining.",
+    "cn": "A：為什麼主管總是讓星期一的會議晚十分鐘開始？我們應該跟她說些什麼嗎？ B：她每週一早上一來都【習慣性地】先查看電子郵件並回覆海外客戶的緊急問題，所以我覺得我們乾脆把會議改到九點十五分，而不是抱怨。",
+    "collocation": "habitually arrive late 習慣性遲到"
+   },
+   {
+    "word": "stick",
+    "forms": "stick – stuck – stuck",
+    "pos": "v.",
+    "en_def": "to keep following a plan, decision or rule without changing it",
+    "cn_def": "堅持；遵守（stick to）",
+    "sentence": "A: The discussion about the new advertising plan took almost three hours yesterday, so has the team finally made a decision about the budget? B: Yes, after looking at several other ideas, we decided to {{BLANK}} to the original plan, because it is cheaper and the managers believe it will still reach enough young customers.",
+    "cn": "A：昨天關於新廣告計畫的討論花了將近三個小時，團隊終於對預算做出決定了嗎？ B：有，在看過其他幾個點子之後，我們決定【堅持】原本的計畫，因為它比較便宜，而且經理們相信它仍然能接觸到足夠多的年輕顧客。",
+    "collocation": "stick to the schedule 按照時程進行"
+   },
+   {
+    "word": "seldomly",
+    "pos": "adv.",
+    "en_def": "not often; rarely (a less common form of seldom)",
+    "cn_def": "很少；不常",
+    "sentence": "A: How often does the regional manager join our weekly sales discussions, and should we prepare a special report in case she comes? B: She {{BLANK}} attends our meetings because she travels to other branches most of the month, but it is still a good idea to have the latest numbers ready just in case.",
+    "cn": "A：區域經理多久參加一次我們每週的業務討論？我們要準備一份特別報告以防她出席嗎？ B：她【很少】參加我們的會議，因為她一個月大部分時間都在其他分店出差，不過還是把最新數字準備好以防萬一比較好。",
+    "collocation": "be seldomly seen in the office 很少在辦公室出現"
+   },
+   {
+    "word": "randomly",
+    "pos": "adv.",
+    "en_def": "by chance, without any plan or order",
+    "cn_def": "隨機地；任意地",
+    "sentence": "A: Our weekly brainstorming meetings always have the same three people talking, so how can we get the others to join the discussion? B: Next time, let's {{BLANK}} choose names from a box and ask each person to share one idea, so everyone has to prepare and nobody can stay silent for the whole hour.",
+    "cn": "A：我們每週的腦力激盪會議總是同樣三個人在講話，要怎麼讓其他人加入討論？ B：下次我們從箱子裡【隨機】抽名字，請每個人分享一個想法，這樣大家都得事先準備，也沒有人能整整一小時都不說話。",
+    "collocation": "randomly selected customers 隨機挑選的顧客"
+   },
+   {
+    "word": "improve",
+    "pos": "v.",
+    "en_def": "to make something better",
+    "cn_def": "改善；改進",
+    "sentence": "A: Customers have complained that our online ordering system is slow and confusing, so what did the IT team suggest at the meeting? B: They plan to {{BLANK}} the website by making the menu simpler and adding a faster payment page, and they hope to finish the changes before the busy holiday season starts in December.",
+    "cn": "A：顧客抱怨我們的線上訂購系統又慢又難用，資訊團隊在會議上提出了什麼建議？ B：他們計畫透過簡化選單和新增更快速的付款頁面來【改善】網站，並希望在十二月忙碌的假期旺季開始前完成這些修改。",
+    "collocation": "improve customer service 改善顧客服務"
+   },
+   {
+    "word": "critically",
+    "pos": "adv.",
+    "en_def": "in a careful way that looks for faults and judges whether something is good",
+    "cn_def": "批判性地；嚴格審視地",
+    "sentence": "A: The new marketing report is ready, but before we present it to the board on Monday, what should our team do with it? B: Each of us should read it {{BLANK}} and look for weak points, missing data or unclear charts, because the board members will ask difficult questions and we need to have good answers ready.",
+    "cn": "A：新的行銷報告已經完成了，但在星期一向董事會報告之前，我們團隊應該怎麼處理它？ B：我們每個人都應該【批判性地】閱讀它，找出弱點、遺漏的數據或不清楚的圖表，因為董事們會問困難的問題，我們需要準備好完善的答案。",
+    "collocation": "think critically about the data 對數據進行批判性思考"
+   },
+   {
+    "word": "diligently",
+    "pos": "adv.",
+    "en_def": "in a hard-working and careful way",
+    "cn_def": "勤奮地；認真地",
+    "sentence": "A: How did the new assistant manage to finish the entire customer survey report in only one week, when it usually takes us almost a month? B: She worked very {{BLANK}} every day, checked each answer carefully and asked questions at our team discussions whenever something was unclear, so the director was really impressed with her effort.",
+    "cn": "A：新來的助理是怎麼只用一週就完成整份顧客問卷報告的？我們通常要花將近一個月。 B：她每天都非常【勤奮地】工作，仔細檢查每份回答，並在團隊討論中遇到不清楚的地方就提問，所以主管對她的努力印象深刻。",
+    "collocation": "work diligently on a project 勤奮地投入專案"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The new receptionist is very _____ and loves chatting with visitors. Some guests enjoy her stories, but others just want their keys quickly.",
+    "options": [
+     "talkative",
+     "paranormal",
+     "conscious",
+     "convincing"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Although the intern is only nineteen, he handled the difficult client in a calm and _____ way. His supervisor praised him at the meeting.",
+    "options": [
+     "paranormal",
+     "embarrassed",
+     "mature",
+     "conscious"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The television station is producing a new series about haunted houses. Each episode investigates _____ events that people claim to have seen.",
+    "options": [
+     "mature",
+     "paranormal",
+     "convincing",
+     "talkative"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The children's museum hired an artist to draw a friendly _____ mascot. The smiling bear now appears on all of its tickets and posters.",
+    "options": [
+     "horror",
+     "affair",
+     "fashion",
+     "cartoon"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The magazine's editor travels to Paris and Milan every spring. She reports on the latest _____ trends for the summer clothing season.",
+    "options": [
+     "cartoon",
+     "horror",
+     "fashion",
+     "affair"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Sales positions often suit _____ people who enjoy meeting strangers. Quiet employees may prefer jobs in research or accounting instead.",
+    "options": [
+     "extroverted",
+     "paranormal",
+     "embarrassed",
+     "conscious"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The company's anniversary dinner will be a formal _____ with live music. All guests are asked to wear business suits or evening dresses.",
+    "options": [
+     "cartoon",
+     "fashion",
+     "horror",
+     "affair"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The cinema is showing a terrifying _____ film at midnight on Halloween. Viewers under eighteen will not be allowed into the theater.",
+    "options": [
+     "affair",
+     "horror",
+     "fashion",
+     "compare"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The tour guide told such _____ stories about the old castle that nobody wanted to leave. Several visitors even booked a second tour.",
+    "options": [
+     "embarrassed",
+     "conscious",
+     "mature",
+     "captivating"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "Many shoppers are now more _____ of the environment when they buy products. Therefore, the store has stopped using plastic bags.",
+    "options": [
+     "talkative",
+     "conscious",
+     "captivating",
+     "paranormal"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The lawyer presented _____ evidence that the contract had been broken. As a result, the judge decided the case in her client's favor.",
+    "options": [
+     "convincing",
+     "embarrassed",
+     "talkative",
+     "extroverted"
+    ],
+    "answer": 0,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Before booking the hotel, please _____ the prices on several travel websites. You may find the same room for much less money.",
+    "options": [
+     "hesitate",
+     "stick",
+     "compare",
+     "improve"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The online review of the new restaurant was _____ honest about the cold food and slow service. The owner apologized publicly the next day.",
+    "options": [
+     "seldomly",
+     "brutally",
+     "diligently",
+     "randomly"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The director felt _____ when his phone rang loudly during the quiet ceremony. He quickly turned it off and apologized to the speaker.",
+    "options": [
+     "captivating",
+     "convincing",
+     "paranormal",
+     "embarrassed"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "If you have any questions about your order, please do not _____ to contact our customer service team. We are available twenty-four hours a day.",
+    "options": [
+     "compare",
+     "improve",
+     "hesitate",
+     "stick"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Employees who _____ arrive late without a good reason may receive a written warning. Please inform your supervisor if you will be delayed.",
+    "options": [
+     "habitually",
+     "brutally",
+     "critically",
+     "diligently"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The project is already two weeks behind. From now on, all team members must _____ to the schedule and finish each task on time.",
+    "options": [
+     "hesitate",
+     "compare",
+     "stick",
+     "improve"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The owner of the small bakery _____ takes a vacation because nobody can replace her. She has not had a real holiday in years.",
+    "options": [
+     "seldomly",
+     "brutally",
+     "randomly",
+     "critically"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The survey will be sent to five hundred _____ selected customers. Their answers will help us understand how people feel about our service.",
+    "options": [
+     "brutally",
+     "habitually",
+     "diligently",
+     "randomly"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The hotel is installing faster Wi-Fi in every room. Management hopes this will _____ guest satisfaction and attract more business travelers.",
+    "options": [
+     "hesitate",
+     "improve",
+     "stick",
+     "compare"
+    ],
+    "answer": 1,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Good managers should look _____ at their own decisions and learn from their mistakes. This helps the whole team grow stronger.",
+    "options": [
+     "critically",
+     "seldomly",
+     "randomly",
+     "brutally"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The accounting staff worked _____ through the weekend to finish the annual report. The director thanked them with a team lunch on Monday.",
+    "options": [
+     "brutally",
+     "seldomly",
+     "diligently",
+     "randomly"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Our tour guide was friendly and _____, so the long bus ride passed quickly. She shared funny stories about every town we passed.",
+    "options": [
+     "conscious",
+     "talkative",
+     "paranormal",
+     "embarrassed"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "This film contains violence and strong language and is meant for _____ audiences only. Parents should not bring young children to see it.",
+    "options": [
+     "talkative",
+     "captivating",
+     "embarrassed",
+     "mature"
+    ],
+    "answer": 3,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The sales representative gave a _____ demonstration of the new software. By the end, most of the clients were ready to sign the contract.",
+    "options": [
+     "paranormal",
+     "convincing",
+     "embarrassed",
+     "conscious"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Researchers will _____ this year's survey results with last year's data. They want to see whether customer satisfaction has changed.",
+    "options": [
+     "hesitate",
+     "stick",
+     "improve",
+     "compare"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Many customers _____ to buy expensive electronics online because they worry about damage. Free returns can help them feel more confident.",
+    "options": [
+     "hesitate",
+     "compare",
+     "improve",
+     "stick"
+    ],
+    "answer": 0,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The factory installed new machines to _____ the quality of its products. Since then, customer complaints have dropped by half.",
+    "options": [
+     "hesitate",
+     "stick",
+     "improve",
+     "fashion"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Students in the business course learn to think _____ about advertising messages. They question claims that seem too good to be true.",
+    "options": [
+     "brutally",
+     "seldomly",
+     "randomly",
+     "critically"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The new intern studied the product manual _____ and memorized every feature. Within a month, she could answer almost any customer question.",
+    "options": [
+     "brutally",
+     "diligently",
+     "randomly",
+     "seldomly"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   }
+  ]
+ },
+ "109": {
+  "theme": "Doing Something Well 做得好",
+  "source": "https://www.examword.com/group-topic/doing-something-well",
+  "VOCAB": [
+   {
+    "word": "excel",
+    "pos": "v.",
+    "en_def": "to be very good at something",
+    "cn_def": "擅長；表現優異",
+    "sentence": "A: We need someone to lead the presentation for the new client next week, but most of our team feels nervous about speaking in front of large groups. B: Why don't we ask Jenny from marketing, because she tends to {{BLANK}} at public speaking and always explains complex ideas in a clear and friendly way?",
+    "cn": "A：下週我們需要有人帶領對新客戶的簡報，但團隊大多數人在一大群人面前講話都會緊張。 B：何不請行銷部的珍妮來呢？因為她向來【擅長】公開演講，總能用清楚又親切的方式解釋複雜的想法。",
+    "collocation": "excel at customer service 在客戶服務方面表現出色"
+   },
+   {
+    "word": "succeed",
+    "pos": "v.",
+    "en_def": "to get the result that you wanted",
+    "cn_def": "成功",
+    "sentence": "A: I heard the small coffee shop on the corner was almost forced to close last year because of high rent and fewer customers. B: That's true, but the owner started selling coffee beans online and offering delivery, so she managed to {{BLANK}} in turning the business around within just six months.",
+    "cn": "A：我聽說轉角那家小咖啡店去年因為房租高、客人變少，差點被迫歇業。 B：沒錯，但老闆開始在網路上賣咖啡豆並提供外送，所以她在短短六個月內就【成功】讓生意起死回生。",
+    "collocation": "succeed in business 在事業上成功"
+   },
+   {
+    "word": "accomplish",
+    "pos": "v.",
+    "en_def": "to finish something successfully",
+    "cn_def": "完成；達成",
+    "sentence": "A: The warehouse team had to pack and ship more than two thousand orders before the holiday weekend, which seemed impossible with only eight workers. B: I know, but they divided the work carefully and took short breaks, so they were able to {{BLANK}} the whole task a day earlier than expected.",
+    "cn": "A：倉庫團隊必須在連假週末前包裝並寄出兩千多張訂單，只有八名員工看起來根本不可能。 B：我知道，但他們仔細分工又適時短暫休息，所以比預期提早一天就【完成】了全部任務。",
+    "collocation": "accomplish a goal 達成目標"
+   },
+   {
+    "word": "achieve",
+    "pos": "v.",
+    "en_def": "to reach a goal or result by working hard",
+    "cn_def": "達到；實現",
+    "sentence": "A: Our department has set a goal of cutting paper use by thirty percent this year, but some people still print every single email they receive. B: If we want to {{BLANK}} that target, we should store all documents online and remind everyone at the weekly meeting about the cost of printing.",
+    "cn": "A：我們部門今年設定了減少百分之三十用紙量的目標，但有些人還是會把收到的每一封電子郵件都印出來。 B：如果我們想【達成】那個目標，就應該把所有文件存在線上，並在每週會議上提醒大家列印的成本。",
+    "collocation": "achieve a sales target 達成銷售目標"
+   },
+   {
+    "word": "master",
+    "pos": "v.",
+    "en_def": "to learn something completely so you can do it very well",
+    "cn_def": "精通；掌握",
+    "sentence": "A: The company is switching to a new accounting program next month, and I'm worried because I'm not very good with computers. B: Don't worry, because the IT department is offering free training sessions every Tuesday, and most people are able to {{BLANK}} the basic functions after a few weeks of practice.",
+    "cn": "A：公司下個月要換新的會計軟體，我很擔心，因為我不太會用電腦。 B：別擔心，資訊部門每週二都有免費的訓練課程，大部分人練習幾週後就能【掌握】基本功能。",
+    "collocation": "master a new language 精通一門新語言"
+   },
+   {
+    "word": "perform",
+    "pos": "v.",
+    "en_def": "to do a job or activity, well or badly",
+    "cn_def": "表現；執行",
+    "sentence": "A: How did the new sales staff do during their first month, and should we keep all of them after the trial period ends? B: Most of them did a great job, but two of them didn't {{BLANK}} as well as we expected, so their manager will give them extra training before making a final decision.",
+    "cn": "A：新進業務人員第一個月的表現如何？試用期結束後我們應該全部留下嗎？ B：大部分人都做得很好，但其中兩位的【表現】不如我們預期，所以他們的經理在做最後決定前會再給他們額外訓練。",
+    "collocation": "perform well under pressure 在壓力下表現良好"
+   },
+   {
+    "word": "thrive",
+    "pos": "v.",
+    "en_def": "to grow, develop or succeed very well",
+    "cn_def": "茁壯成長；蓬勃發展",
+    "sentence": "A: Do you think our new branch in the city center will do well, even though there are already many restaurants in that area? B: I believe it will {{BLANK}}, because office workers there are always looking for healthy lunch options, and our prices are lower than most of the places nearby.",
+    "cn": "A：你覺得我們在市中心的新分店會經營得好嗎？那一區已經有很多餐廳了。 B：我相信它會【蓬勃發展】，因為那裡的上班族一直在找健康的午餐選擇，而且我們的價格比附近大多數店家都便宜。",
+    "collocation": "thrive in a competitive market 在競爭激烈的市場中蓬勃發展"
+   },
+   {
+    "word": "shine",
+    "forms": "shine – shone – shone",
+    "pos": "v.",
+    "en_def": "to do something very well and be noticed",
+    "cn_def": "表現出色；發光",
+    "sentence": "A: Tom is usually very quiet in team meetings, so I was surprised when the director chose him to give the speech at the product launch. B: He spent weeks preparing, and when he finally stood on the stage, he really began to {{BLANK}}, and the audience loved his funny stories about our customers.",
+    "cn": "A：湯姆在團隊會議中通常很安靜，所以主管選他在產品發表會上致詞時我很驚訝。 B：他花了好幾週準備，當他終於站上台時，真的【大放異彩】，觀眾都很喜歡他講的那些關於我們顧客的有趣故事。",
+    "collocation": "shine in a job interview 在工作面試中表現亮眼"
+   },
+   {
+    "word": "flourish",
+    "pos": "v.",
+    "en_def": "to grow or develop successfully",
+    "cn_def": "繁榮；興盛",
+    "sentence": "A: Ten years ago this street had only a few old shops, but now it is full of cafés, bookstores and small design studios. B: Yes, after the city built a new subway station nearby, local businesses began to {{BLANK}}, and rents have gone up because so many people want to open stores here.",
+    "cn": "A：十年前這條街只有幾家老店，但現在到處都是咖啡廳、書店和小型設計工作室。 B：對，自從市政府在附近蓋了新的捷運站後，當地商家開始【繁榮興盛】，而且因為很多人想在這裡開店，租金也上漲了。",
+    "collocation": "help small businesses flourish 幫助小型企業蓬勃發展"
+   },
+   {
+    "word": "impress",
+    "pos": "v.",
+    "en_def": "to make someone admire or respect you",
+    "cn_def": "使印象深刻；使欽佩",
+    "sentence": "A: I have a final interview with the bank's regional manager tomorrow morning, and I really want this job more than anything. B: To {{BLANK}} her, you should research the bank's recent projects, prepare a few smart questions, and arrive at least fifteen minutes early wearing a neat business suit.",
+    "cn": "A：我明天早上要和銀行的區域經理進行最後一輪面試，我真的非常想要這份工作。 B：要讓她【留下深刻印象】，你應該研究一下銀行最近的專案、準備幾個聰明的問題，並穿著整齊的套裝至少提早十五分鐘到。",
+    "collocation": "impress potential clients 讓潛在客戶印象深刻"
+   },
+   {
+    "word": "competence",
+    "pos": "n.",
+    "en_def": "the ability to do something well enough",
+    "cn_def": "能力；勝任",
+    "sentence": "A: Why does the hospital ask all of its nurses to take a practical test every year, even the ones who have worked there for a long time? B: Medical equipment and rules change quickly, so the hospital needs to check each nurse's {{BLANK}} regularly to make sure patients always receive safe and correct care.",
+    "cn": "A：為什麼醫院要求所有護理師每年都要參加實作測驗，連工作很久的人也要？ B：醫療設備和規定變化很快，所以醫院需要定期檢查每位護理師的【能力】，以確保病人總是得到安全又正確的照護。",
+    "collocation": "professional competence 專業能力"
+   },
+   {
+    "word": "proficiency",
+    "pos": "n.",
+    "en_def": "a high level of ability or skill in something",
+    "cn_def": "精通；熟練程度",
+    "sentence": "A: The job advertisement for the hotel front desk says that applicants need to speak English, but how will the manager know how good my English is? B: You will probably need to show a recent test score or certificate that proves your {{BLANK}}, and the manager may also ask you some questions in English during the interview.",
+    "cn": "A：飯店櫃檯的徵人廣告說應徵者需要會說英文，但經理要怎麼知道我的英文程度有多好？ B：你可能需要出示近期的考試成績或證書來證明你的【熟練程度】，而且經理在面試時也可能會用英文問你一些問題。",
+    "collocation": "English language proficiency 英語能力"
+   },
+   {
+    "word": "expertise",
+    "pos": "n.",
+    "en_def": "special knowledge or skill in a particular area",
+    "cn_def": "專業知識；專門技能",
+    "sentence": "A: Our company wants to start selling products in Southeast Asia, but none of us know much about the laws and customs in those countries. B: In that case, we should hire a consultant who has real {{BLANK}} in that market, because one costly mistake could damage our reputation before we even open our first store.",
+    "cn": "A：我們公司想開始在東南亞銷售產品，但我們沒有人很了解那些國家的法律和習俗。 B：既然這樣，我們應該聘請一位在那個市場具有真正【專業知識】的顧問，因為一個代價高昂的錯誤可能在我們開第一家店之前就損害我們的聲譽。",
+    "collocation": "technical expertise 技術專業"
+   },
+   {
+    "word": "skill",
+    "pos": "n.",
+    "en_def": "an ability to do something well that comes from training or practice",
+    "cn_def": "技能；技巧",
+    "sentence": "A: I have been working as a cashier for two years, and now I would like to apply for a position as an assistant manager at the store. B: That's a good plan, and the most useful {{BLANK}} you can build right now is leadership, so offer to train new staff members and handle customer complaints whenever your supervisor is busy.",
+    "cn": "A：我當收銀員已經兩年了，現在想應徵店裡副理的職位。 B：這是個好計畫，而你現在最值得培養的【技能】就是領導力，所以要主動訓練新進員工，並在主管忙碌時處理顧客的抱怨。",
+    "collocation": "improve communication skills 提升溝通技能"
+   },
+   {
+    "word": "talent",
+    "pos": "n.",
+    "en_def": "a natural ability to do something well",
+    "cn_def": "天賦；才能",
+    "sentence": "A: Did you know that Kevin from the accounting department designed the poster for our charity concert, even though he has never studied art? B: Yes, I saw it, and everyone was amazed, so I think the marketing team should invite him to help them because he clearly has a natural {{BLANK}} for design.",
+    "cn": "A：你知道會計部的凱文設計了我們慈善音樂會的海報嗎？他從來沒學過美術。 B：知道，我看到了，大家都很驚豔，所以我覺得行銷團隊應該邀請他幫忙，因為他顯然在設計方面有與生俱來的【天賦】。",
+    "collocation": "have a talent for sales 有銷售天分"
+   },
+   {
+    "word": "strength",
+    "pos": "n.",
+    "en_def": "a good quality or ability that makes someone effective",
+    "cn_def": "優點；長處",
+    "sentence": "A: During my job interview yesterday, the manager asked me about my greatest {{BLANK}}, and I didn't know what to say, so I just talked about being hardworking. B: Next time, give a specific example, such as how you organized a busy event or solved a difficult problem, because examples are much more convincing than general words.",
+    "cn": "A：我昨天面試時，經理問我最大的【優點】是什麼，我不知道該說什麼，所以只說了自己很勤奮。 B：下次要舉具體的例子，像是你如何籌辦一場忙碌的活動或解決一個困難的問題，因為例子比空泛的話更有說服力。",
+    "collocation": "strengths and weaknesses 優點與缺點"
+   },
+   {
+    "word": "excellence",
+    "pos": "n.",
+    "en_def": "the quality of being extremely good",
+    "cn_def": "卓越；優秀",
+    "sentence": "A: Why is there a long line of people waiting outside that small noodle shop every day, even though there are cheaper restaurants on the same street? B: The owner has won several awards for {{BLANK}} in cooking, and she still makes fresh noodles by hand every morning, so customers know they will get great food.",
+    "cn": "A：為什麼那家小麵店外面每天都大排長龍，即使同一條街上有更便宜的餐廳？ B：老闆曾多次獲得烹飪【卓越】獎，而且她每天早上仍然親手做新鮮的麵條，所以顧客知道一定能吃到很棒的食物。",
+    "collocation": "award for excellence 卓越獎"
+   },
+   {
+    "word": "perfection",
+    "pos": "n.",
+    "en_def": "the state of being perfect, with no mistakes",
+    "cn_def": "完美",
+    "sentence": "A: Our designer has changed the company logo eleven times this month, and the printing company is still waiting for the final version. B: I understand that she wants {{BLANK}}, but we have a deadline on Friday, so please tell her that a very good design is enough and we must send the file today.",
+    "cn": "A：我們的設計師這個月已經改了公司標誌十一次，印刷公司還在等最終版本。 B：我了解她追求【完美】，但我們星期五就要截止了，所以請告訴她一個很好的設計就夠了，我們今天必須把檔案送出去。",
+    "collocation": "cooked to perfection 烹調得恰到好處"
+   },
+   {
+    "word": "successfully",
+    "pos": "adv.",
+    "en_def": "in a way that gets the result you wanted",
+    "cn_def": "成功地",
+    "sentence": "A: Was the IT team able to move all of our customer data to the new system over the weekend, or will there be problems on Monday morning? B: Good news, the data was {{BLANK}} transferred on Sunday night, and the team checked every file twice, so all the sales staff can log in normally today.",
+    "cn": "A：資訊團隊週末有辦法把我們所有的客戶資料轉移到新系統嗎？還是星期一早上會出問題？ B：好消息，資料在星期天晚上已經【成功地】轉移完成，團隊也把每個檔案檢查了兩次，所以所有業務人員今天都可以正常登入。",
+    "collocation": "successfully complete a project 成功完成專案"
+   },
+   {
+    "word": "skillfully",
+    "pos": "adv.",
+    "en_def": "in a way that shows great ability",
+    "cn_def": "熟練地；巧妙地",
+    "sentence": "A: The customer at table five was shouting about his cold soup, and I was afraid he would leave a terrible review online. B: Luckily, our manager {{BLANK}} handled the situation by apologizing calmly, bringing him a fresh bowl and offering a free dessert, and in the end he left with a smile.",
+    "cn": "A：五號桌的客人在大聲抱怨他的湯是冷的，我很怕他會在網路上留下很差的評論。 B：幸好我們的經理【巧妙地】處理了這個狀況，冷靜地道歉、送上一碗新的湯並招待免費甜點，最後他是笑著離開的。",
+    "collocation": "skillfully negotiate a deal 巧妙地談成交易"
+   },
+   {
+    "word": "efficiently",
+    "pos": "adv.",
+    "en_def": "in a way that does not waste time, money or energy",
+    "cn_def": "有效率地",
+    "sentence": "A: Our office electricity bill has almost doubled since last summer, and the finance manager wants to know why we are spending so much money. B: The old air conditioners don't run {{BLANK}} anymore, so I suggest we replace them with modern models that use less power and still keep the rooms cool.",
+    "cn": "A：我們辦公室的電費從去年夏天以來幾乎翻倍，財務經理想知道為什麼我們花這麼多錢。 B：舊的冷氣機已經無法【有效率地】運轉了，所以我建議換成更省電、又能讓房間保持涼爽的新型機種。",
+    "collocation": "work efficiently 有效率地工作"
+   },
+   {
+    "word": "effectively",
+    "pos": "adv.",
+    "en_def": "in a way that produces the result you want",
+    "cn_def": "有效地",
+    "sentence": "A: Many customers have told us that our online instructions are confusing, and they keep calling the help line with the same simple questions. B: We need to explain the steps more {{BLANK}}, so let's add short videos and clear pictures to the website, which should reduce the number of phone calls.",
+    "cn": "A：很多顧客跟我們說線上說明令人困惑，他們一直打客服專線問同樣簡單的問題。 B：我們需要更【有效地】說明步驟，所以在網站上加入簡短的影片和清楚的圖片吧，這樣應該能減少來電數量。",
+    "collocation": "communicate effectively 有效地溝通"
+   },
+   {
+    "word": "competently",
+    "pos": "adv.",
+    "en_def": "in a way that shows enough ability to do something well",
+    "cn_def": "稱職地；能幹地",
+    "sentence": "A: How did the new receptionist manage on her first day when the phones were ringing nonstop and three visitors arrived at the same time? B: She stayed calm and dealt with everything {{BLANK}}, so I think she will become a valuable member of the front office team very quickly.",
+    "cn": "A：新來的櫃檯接待員第一天上班時電話響個不停，又同時來了三位訪客，她應付得怎麼樣？ B：她保持冷靜，把所有事情都處理得很【稱職】，所以我覺得她很快就會成為櫃檯團隊中重要的一員。",
+    "collocation": "perform duties competently 稱職地執行職務"
+   },
+   {
+    "word": "brilliant",
+    "pos": "adj.",
+    "en_def": "extremely clever or very good",
+    "cn_def": "傑出的；絕妙的",
+    "sentence": "A: Our sales were very low last winter, so does anyone have an idea for bringing more customers into the store during the cold months? B: Mia suggested offering free hot chocolate to anyone who buys a coat, and I think it's a {{BLANK}} idea because it's cheap and makes people feel welcome.",
+    "cn": "A：我們去年冬天的業績很差，有沒有人有在寒冷月份吸引更多顧客上門的點子？ B：米亞建議買外套就送免費熱可可，我覺得這是個【絕妙的】點子，因為成本低又能讓人覺得受歡迎。",
+    "collocation": "a brilliant idea 絕妙的主意"
+   },
+   {
+    "word": "excellent",
+    "pos": "adj.",
+    "en_def": "extremely good",
+    "cn_def": "極好的；優秀的",
+    "sentence": "A: I'm planning a dinner for twelve clients from Korea next Thursday, so could you recommend a restaurant that is quiet enough for business conversation? B: The Garden Room near the train station has {{BLANK}} service and private dining areas, and the chef can also prepare dishes for guests who don't eat meat.",
+    "cn": "A：下週四我要為十二位韓國客戶安排晚餐，你能推薦一家夠安靜、適合談生意的餐廳嗎？ B：火車站附近的花園廳有【極好的】服務和包廂，主廚也能為不吃肉的客人準備菜色。",
+    "collocation": "excellent customer service 極佳的客戶服務"
+   },
+   {
+    "word": "outstanding",
+    "pos": "adj.",
+    "en_def": "much better than others",
+    "cn_def": "傑出的；出色的",
+    "sentence": "A: Who do you think will receive the employee of the year award at the company party, since so many people worked hard this year? B: My guess is Daniel, because his {{BLANK}} performance helped us win four new contracts, and he also trained all the new staff in the sales department.",
+    "cn": "A：你覺得誰會在公司派對上獲得年度最佳員工獎？今年有這麼多人都很努力。 B：我猜是丹尼爾，因為他【傑出的】表現幫我們拿下四份新合約，他還訓練了業務部所有的新進人員。",
+    "collocation": "outstanding performance 傑出的表現"
+   },
+   {
+    "word": "exceptional",
+    "pos": "adj.",
+    "en_def": "unusually good; much better than normal",
+    "cn_def": "優異的；非凡的",
+    "sentence": "A: The hotel received hundreds of positive reviews last month, and many guests mentioned one particular staff member by name. B: That must be Lisa at the front desk, because she provides {{BLANK}} service, remembers every regular guest's name and often solves problems before customers even notice them.",
+    "cn": "A：飯店上個月收到幾百則好評，很多房客都指名提到某一位員工。 B：那一定是櫃檯的莉莎，因為她提供【非常優異的】服務，記得每位常客的名字，而且常常在顧客發現之前就把問題解決了。",
+    "collocation": "exceptional quality 非凡的品質"
+   },
+   {
+    "word": "superb",
+    "pos": "adj.",
+    "en_def": "of very high quality; excellent",
+    "cn_def": "極好的；一流的",
+    "sentence": "A: How was the company retreat at the mountain resort last weekend, and would you recommend the place for next year's training camp? B: Absolutely, the food was {{BLANK}}, the meeting rooms had modern equipment, and we could enjoy a beautiful view of the lake during every coffee break.",
+    "cn": "A：上週末在山區度假村的公司員工旅遊怎麼樣？你會推薦那裡作為明年訓練營的地點嗎？ B：當然會，那裡的食物【一流】，會議室有現代化設備，而且每次休息喝咖啡時都能欣賞美麗的湖景。",
+    "collocation": "a superb view 絕佳的景色"
+   },
+   {
+    "word": "remarkable",
+    "pos": "adj.",
+    "en_def": "unusual or special in a way that makes people notice",
+    "cn_def": "非凡的；驚人的",
+    "sentence": "A: I heard that the new manager at our Taichung branch has completely changed the way the office works in just a few months. B: Yes, the results are {{BLANK}}, because sales have gone up by forty percent, staff turnover has dropped, and customers say the service is much faster now.",
+    "cn": "A：我聽說我們台中分公司的新經理在短短幾個月內就徹底改變了辦公室的運作方式。 B：是的，成果相當【驚人】，業績成長了百分之四十，員工流動率下降，顧客也說現在的服務快多了。",
+    "collocation": "remarkable progress 顯著的進步"
+   },
+   {
+    "word": "impressive",
+    "pos": "adj.",
+    "en_def": "making people admire it because it is very good",
+    "cn_def": "令人印象深刻的",
+    "sentence": "A: Did you see the presentation that the design team gave to the investors this morning about our new electric scooter? B: Yes, it was very {{BLANK}}, because they showed a working model, explained the costs clearly, and answered every difficult question without looking at their notes.",
+    "cn": "A：你有看到設計團隊今天早上向投資人介紹我們新款電動機車的簡報嗎？ B：有，非常【令人印象深刻】，因為他們展示了可運作的模型、清楚說明了成本，而且不看筆記就回答了每個困難的問題。",
+    "collocation": "an impressive track record 令人印象深刻的過往紀錄"
+   },
+   {
+    "word": "capable",
+    "pos": "adj.",
+    "en_def": "having the ability to do something",
+    "cn_def": "有能力的；能幹的",
+    "sentence": "A: The director will be away on a business trip for three weeks, so who is going to make important decisions about the budget while she is gone? B: She has asked Mr. Chen to take charge, and I think he is fully {{BLANK}} of running the department because he has managed large projects before.",
+    "cn": "A：主任要出差三週，她不在的期間誰來做預算方面的重要決定？ B：她請陳先生負責，我認為他完全【有能力】管理這個部門，因為他以前就管理過大型專案。",
+    "collocation": "be capable of handling pressure 有能力應付壓力"
+   },
+   {
+    "word": "adept",
+    "pos": "adj.",
+    "en_def": "very good at doing something that needs skill",
+    "cn_def": "熟練的；擅長的",
+    "sentence": "A: Our online store gets a lot of angry messages when deliveries are late, and some of the new staff don't know how to reply politely. B: Ask Grace to train them, because she is very {{BLANK}} at calming upset customers and always finds a fair solution that keeps them shopping with us.",
+    "cn": "A：每當送貨延遲，我們的網路商店就會收到很多憤怒的訊息，有些新進員工不知道該如何禮貌地回覆。 B：請葛蕾絲來訓練他們，因為她非常【擅長】安撫生氣的顧客，總能找到公平的解決辦法，讓他們繼續在我們這裡購物。",
+    "collocation": "be adept at solving problems 擅長解決問題"
+   },
+   {
+    "word": "proficient",
+    "pos": "adj.",
+    "en_def": "able to do something well because of training and practice",
+    "cn_def": "精通的；熟練的",
+    "sentence": "A: The new position in our Tokyo office involves talking with Japanese suppliers every day, so what kind of person are we looking for? B: The ideal candidate should be {{BLANK}} in both Japanese and English, and should also have some experience with shipping schedules and international contracts.",
+    "cn": "A：我們東京辦公室的新職缺每天都要和日本供應商溝通，那我們要找什麼樣的人？ B：理想的人選應該【精通】日文和英文，並且也要有一些處理船運時程和國際合約的經驗。",
+    "collocation": "be proficient in Excel 精通Excel"
+   },
+   {
+    "word": "gifted",
+    "pos": "adj.",
+    "en_def": "having a natural ability to do something very well",
+    "cn_def": "有天賦的；有才華的",
+    "sentence": "A: I heard that the young pianist who played at our company's anniversary dinner is only fourteen years old and has already won several international competitions. B: Yes, she is a truly {{BLANK}} musician, and our CEO was so moved by her performance that he offered to sponsor her studies at a music school in Vienna.",
+    "cn": "A：我聽說在我們公司週年晚宴上演奏的年輕鋼琴家只有十四歲，卻已經贏過好幾場國際比賽。 B：是的，她是一位真正【有天賦的】音樂家，我們的執行長被她的演出深深感動，主動提出要贊助她到維也納的音樂學校念書。",
+    "collocation": "a gifted speaker 有天賦的演說者"
+   },
+   {
+    "word": "successful",
+    "pos": "adj.",
+    "en_def": "achieving the result that you wanted",
+    "cn_def": "成功的",
+    "sentence": "A: How did the charity sale go last Saturday, and did we raise enough money to buy new computers for the local library? B: It was very {{BLANK}}, because more than three hundred people came, we sold almost everything, and we collected twice as much money as we had planned.",
+    "cn": "A：上週六的義賣進行得怎麼樣？我們有籌到足夠的錢為當地圖書館買新電腦嗎？ B：非常【成功】，有三百多人到場，我們幾乎把東西都賣光了，募到的錢是原本計畫的兩倍。",
+    "collocation": "a successful business 成功的事業"
+   },
+   {
+    "word": "well",
+    "pos": "adv.",
+    "en_def": "in a good, skillful or satisfactory way",
+    "cn_def": "好地；順利地",
+    "sentence": "A: How did the meeting with the hospital's purchasing manager go this afternoon, and do you think they will order our new medical beds? B: It went really {{BLANK}}, because she liked our product demonstration, asked about bulk discounts, and wants to visit our factory next week before signing the contract.",
+    "cn": "A：今天下午和醫院採購經理的會議進行得怎麼樣？你覺得他們會訂購我們的新款病床嗎？ B：進行得非常【順利】，因為她很喜歡我們的產品示範、詢問了大量購買的折扣，還想在簽約前於下週參觀我們的工廠。",
+    "collocation": "go well 進展順利"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Maria has always been good with numbers. She continues to _____ at preparing the monthly budget reports for the finance team.",
+    "options": [
+     "accomplish",
+     "impress",
+     "excel",
+     "master"
+    ],
+    "answer": 2,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The small bakery had failed three times before. This year it finally managed to _____ in winning a contract with a large hotel chain.",
+    "options": [
+     "succeed",
+     "achieve",
+     "accomplish",
+     "perform"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The team had only two weeks to move the entire office. Surprisingly, they managed to _____ the task without missing a single deadline.",
+    "options": [
+     "succeed",
+     "thrive",
+     "excel",
+     "accomplish"
+    ],
+    "answer": 3,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The sales department worked overtime throughout the final quarter. As a result, it was able to _____ its target of ten percent growth.",
+    "options": [
+     "thrive",
+     "achieve",
+     "succeed",
+     "shine"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "New employees are given three months to learn the accounting software. Most of them _____ it within a few weeks with regular practice.",
+    "options": [
+     "master",
+     "excel",
+     "thrive",
+     "succeed"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The new delivery robots are used in our warehouse every day. They _____ very well, even during the busy holiday season.",
+    "options": [
+     "accomplish",
+     "master",
+     "perform",
+     "achieve"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Some plants grow poorly in dark offices. Others, like the snake plant, _____ even with very little light and water.",
+    "options": [
+     "achieve",
+     "thrive",
+     "master",
+     "accomplish"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The candidate brought a portfolio full of her design work to the interview. Her creative ideas managed to _____ everyone on the hiring panel.",
+    "options": [
+     "achieve",
+     "succeed",
+     "thrive",
+     "impress"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "All drivers must pass a test to prove their basic _____ behind the wheel. Those who fail must take extra lessons.",
+    "options": [
+     "perfection",
+     "competence",
+     "excellence",
+     "talent"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Applicants must submit a language _____ certificate with their application form. Test scores must be from the last two years.",
+    "options": [
+     "perfection",
+     "talent",
+     "strength",
+     "proficiency"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Our firm hired an outside consultant with years of _____ in international tax law. Her advice saved the company a large amount of money.",
+    "options": [
+     "expertise",
+     "perfection",
+     "talent",
+     "strength"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Good communication is the most important _____ for a customer service agent. Agents must listen carefully and explain things clearly.",
+    "options": [
+     "perfection",
+     "excellence",
+     "skill",
+     "expertise"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The music school offers scholarships to children with natural _____. Many of its former students now play in professional orchestras.",
+    "options": [
+     "proficiency",
+     "competence",
+     "expertise",
+     "talent"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The hotel received an award for _____ in customer service this year. Guests praised the staff for being friendly and helpful.",
+    "options": [
+     "talent",
+     "excellence",
+     "proficiency",
+     "competence"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The chef checks every plate before it leaves the kitchen. He insists that each steak be cooked to _____.",
+    "options": [
+     "excellence",
+     "competence",
+     "perfection",
+     "expertise"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Your password has been _____ changed. Please use the new one the next time you log in to the system.",
+    "options": [
+     "successfully",
+     "skillfully",
+     "competently",
+     "efficiently"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The new heating system uses less electricity than the old one. It warms the building more _____ and lowers our monthly bills.",
+    "options": [
+     "successfully",
+     "skillfully",
+     "efficiently",
+     "competently"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Our current computer system no longer works _____ for a company of our size. We plan to replace it early next year.",
+    "options": [
+     "effectively",
+     "skillfully",
+     "competently",
+     "successfully"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Everyone at the meeting agreed that Kevin's plan was a _____ idea. It could cut the company's shipping costs by half.",
+    "options": [
+     "excellent",
+     "outstanding",
+     "impressive",
+     "brilliant"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The award is given each year to an _____ employee in every branch. This year's winners will receive a bonus and a trophy.",
+    "options": [
+     "brilliant",
+     "outstanding",
+     "superb",
+     "remarkable"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The view from the hotel's rooftop restaurant is absolutely _____. Guests often take photos of the sunset over the harbor there.",
+    "options": [
+     "superb",
+     "capable",
+     "adept",
+     "proficient"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "It is _____ that the small startup grew to two hundred employees in only one year. Investors are now very interested in it.",
+    "options": [
+     "capable",
+     "adept",
+     "gifted",
+     "remarkable"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The candidate's resume was very _____. She had worked for three major banks and could speak four languages fluently.",
+    "options": [
+     "capable",
+     "impressive",
+     "adept",
+     "gifted"
+    ],
+    "answer": 1,
+    "vocabIndex": 29
+   },
+   {
+    "q": "Linda Chen is fully _____ of running the department while the director is away. She has managed large teams before.",
+    "options": [
+     "adept",
+     "proficient",
+     "capable",
+     "gifted"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+   },
+   {
+    "q": "Our new assistant is very _____ at handling difficult customers on the phone. She always stays calm and polite.",
+    "options": [
+     "capable",
+     "adept",
+     "proficient",
+     "impressive"
+    ],
+    "answer": 1,
+    "vocabIndex": 31
+   },
+   {
+    "q": "All applicants must be _____ in Microsoft Excel and other office software. A short computer test will be given during the interview.",
+    "options": [
+     "capable",
+     "gifted",
+     "proficient",
+     "impressive"
+    ],
+    "answer": 2,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The school runs a special program for _____ children who learn much faster than others. Classes focus on creative problem solving.",
+    "options": [
+     "gifted",
+     "proficient",
+     "adept",
+     "successful"
+    ],
+    "answer": 0,
+    "vocabIndex": 33
+   },
+   {
+    "q": "After a _____ trial period of three months, the new system will be used in all branches. Staff feedback has been very positive.",
+    "options": [
+     "capable",
+     "proficient",
+     "gifted",
+     "successful"
+    ],
+    "answer": 3,
+    "vocabIndex": 34
+   },
+   {
+    "q": "The new manager speaks Spanish very _____. She lived in Madrid for five years before joining our company.",
+    "options": [
+     "successfully",
+     "efficiently",
+     "well",
+     "skillfully"
+    ],
+    "answer": 2,
+    "vocabIndex": 35
+   },
+   {
+    "q": "Her greatest _____ is her ability to stay calm under pressure. That is why she leads our crisis response team.",
+    "options": [
+     "strength",
+     "proficiency",
+     "competence",
+     "perfection"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   }
+  ]
+ },
+ "110": {
+  "theme": "Drama 戲劇",
+  "source": "https://www.examword.com/group-topic/drama",
+  "VOCAB": [
+   {
+    "word": "theatre",
+    "pos": "n.",
+    "en_def": "a building where plays and shows are performed",
+    "cn_def": "劇院；戲院",
+    "sentence": "A: Our sales team reached its yearly target last month, so how should we celebrate with them before the holiday break begins? B: I suggest we buy group tickets for the new musical at the {{BLANK}} downtown, because the show starts at seven, and we can have dinner at the Italian restaurant across the street first.",
+    "cn": "A：我們的業務團隊上個月達成了年度目標，在假期開始前我們該怎麼和他們一起慶祝？ B：我建議我們買市中心那家【劇院】新音樂劇的團體票，因為表演七點開始，我們可以先在對街的義大利餐廳吃晚餐。",
+    "collocation": "book seats at the local theatre 在當地劇院訂位"
+   },
+   {
+    "word": "play",
+    "pos": "n.",
+    "en_def": "a story that actors perform on a stage",
+    "cn_def": "戲劇；劇本",
+    "sentence": "A: The company is sponsoring a local arts festival this year, so what kind of event will our logo appear on in the program? B: Our logo will be printed on the posters for a {{BLANK}} about a small family business, which a group of college students wrote themselves and will perform three times next weekend at the community center.",
+    "cn": "A：公司今年贊助一個地方藝術節，我們的標誌會出現在節目單上的哪種活動？ B：我們的標誌會印在一齣關於小型家族企業的【戲劇】海報上，那是一群大學生自己寫的，下週末將在社區中心演出三場。",
+    "collocation": "put on a play for charity 為慈善演出一齣戲"
+   },
+   {
+    "word": "performance",
+    "pos": "n.",
+    "en_def": "the act of singing, dancing or acting for an audience",
+    "cn_def": "演出；表演",
+    "sentence": "A: Did you enjoy the show that the marketing department organized for our overseas guests last night, or did you leave early? B: I stayed until the very end, because the {{BLANK}} was excellent, and the clients told me the singers and dancers were the best part of their whole business trip to Taipei.",
+    "cn": "A：你喜歡行銷部昨晚為海外貴賓安排的表演嗎？還是你提早離開了？ B：我一直待到最後，因為那場【演出】非常精彩，客戶告訴我，那些歌手和舞者是他們這次台北商務之旅中最棒的部分。",
+    "collocation": "give a live performance 進行現場演出"
+   },
+   {
+    "word": "stage",
+    "pos": "n.",
+    "en_def": "the raised area in a theatre or hall where people perform or speak",
+    "cn_def": "舞台",
+    "sentence": "A: The awards ceremony starts in two hours, so is everything ready in the main hall for our chairman's speech? B: Almost, but the workers are still setting up the lights and the microphone on the {{BLANK}}, and I asked them to place a small table there for the trophies before the guests arrive.",
+    "cn": "A：頒獎典禮兩小時後開始，主廳裡為董事長演講準備的一切都就緒了嗎？ B：差不多了，但工人還在【舞台】上架設燈光和麥克風，我也請他們在賓客抵達前在那裡放一張小桌子擺獎盃。",
+    "collocation": "walk onto the stage 走上舞台"
+   },
+   {
+    "word": "actor",
+    "pos": "n.",
+    "en_def": "a person, usually a man, who acts in plays, films or TV shows",
+    "cn_def": "演員；男演員",
+    "sentence": "A: Who is going to host the opening night of our new hotel, since the general manager is too nervous to speak in front of a large crowd? B: We hired a famous local {{BLANK}} who has appeared in several popular TV series, and he will welcome the guests and introduce the chef before dinner is served.",
+    "cn": "A：我們新飯店的開幕之夜要由誰來主持？因為總經理太緊張，不敢在一大群人面前說話。 B：我們請了一位知名的本地【男演員】，他演過好幾部熱門電視劇，他會在晚餐上桌前歡迎賓客並介紹主廚。",
+    "collocation": "an award-winning actor 得獎的演員"
+   },
+   {
+    "word": "actress",
+    "pos": "n.",
+    "en_def": "a woman who acts in plays, films or TV shows",
+    "cn_def": "女演員",
+    "sentence": "A: Why is there such a long line outside the bookstore at the shopping mall this afternoon, and should we change our meeting place? B: A well-known {{BLANK}} is signing copies of her new book about her life in films, so it will be crowded for hours, and we had better meet at the coffee shop on the second floor instead.",
+    "cn": "A：今天下午購物中心書店外面為什麼排了這麼長的隊伍？我們要不要換個碰面地點？ B：一位知名的【女演員】正在為她講述自己電影生涯的新書簽名，所以接下來幾個小時都會很擁擠，我們最好改在二樓的咖啡店碰面。",
+    "collocation": "a leading actress 女主角"
+   },
+   {
+    "word": "cast",
+    "pos": "n.",
+    "en_def": "all the actors in a play, film or show",
+    "cn_def": "演員陣容；全體演員",
+    "sentence": "A: I heard the staff musical for the company's anniversary is going well, but how many employees finally agreed to take part? B: The {{BLANK}} now includes eighteen people from five different departments, and even the finance manager agreed to sing a short song, so everyone is practicing during lunch breaks twice a week.",
+    "cn": "A：我聽說公司週年慶的員工音樂劇進行得很順利，最後有多少員工同意參加？ B：現在的【演員陣容】包括來自五個不同部門的十八個人，連財務經理都答應唱一首短歌，所以大家每週兩次利用午休時間練習。",
+    "collocation": "a talented cast of young performers 由年輕表演者組成的優秀演員陣容"
+   },
+   {
+    "word": "script",
+    "pos": "n.",
+    "en_def": "the written words of a play, film, speech or broadcast",
+    "cn_def": "劇本；腳本；講稿",
+    "sentence": "A: The video team wants to film our new training program next Monday, but have the trainers prepared what they are going to say on camera? B: Yes, the human resources department wrote a clear {{BLANK}} for each trainer, and they will read it carefully over the weekend so that the filming can finish in one day.",
+    "cn": "A：影片團隊想在下週一拍攝我們的新訓練課程，但講師們準備好要在鏡頭前說什麼了嗎？ B：準備好了，人資部門為每位講師寫了一份清楚的【腳本】，他們週末會仔細閱讀，好讓拍攝能在一天內完成。",
+    "collocation": "write a script for an advertisement 為廣告撰寫腳本"
+   },
+   {
+    "word": "scene",
+    "pos": "n.",
+    "en_def": "one part of a play or film that happens in one place",
+    "cn_def": "（戲劇、電影的）一場；場景",
+    "sentence": "A: The new television commercial for our sports drink looks great, but why did the shooting take two extra days? B: The final {{BLANK}}, where the runner crosses the finish line at sunrise, had to be filmed three more times because heavy clouds kept covering the sky, and the director wanted the light to be perfect.",
+    "cn": "A：我們運動飲料的新電視廣告看起來很棒，但拍攝為什麼多花了兩天？ B：最後一【場戲】，也就是跑者在日出時衝過終點線的那一段，必須再多拍三次，因為厚厚的雲層一直遮住天空，而導演希望光線完美無缺。",
+    "collocation": "the opening scene of the film 電影的開場戲"
+   },
+   {
+    "word": "dialogue",
+    "pos": "n.",
+    "en_def": "the words that people say to each other in a play, film or book",
+    "cn_def": "對話；對白",
+    "sentence": "A: Our English training course for front desk staff starts next month, so how will the teacher help them practice talking with hotel guests? B: Each lesson includes a short {{BLANK}} between a receptionist and a traveler, and the staff will act it out in pairs so they feel more confident when they answer real questions.",
+    "cn": "A：我們櫃檯員工的英語訓練課程下個月開始，老師會怎麼幫助他們練習和飯店客人交談？ B：每堂課都包含一段櫃檯接待員和旅客之間的簡短【對話】，員工會兩人一組演練，這樣他們回答真正的問題時會更有自信。",
+    "collocation": "a short dialogue between two characters 兩個角色之間的簡短對話"
+   },
+   {
+    "word": "monologue",
+    "pos": "n.",
+    "en_def": "a long speech by one actor alone in a play or film",
+    "cn_def": "獨白",
+    "sentence": "A: The drama club is performing at our company's year-end party, so how long will the main actor be alone in front of the audience? B: He has a five-minute {{BLANK}} near the end of the show, when he talks about his dreams for the future, and many people say it is the most moving part of the whole story.",
+    "cn": "A：戲劇社要在我們公司的尾牙演出，主角會獨自面對觀眾多久？ B：他在戲快結束時有一段五分鐘的【獨白】，訴說他對未來的夢想，很多人說那是整個故事中最感人的部分。",
+    "collocation": "deliver a powerful monologue 發表一段震撼人心的獨白"
+   },
+   {
+    "word": "tragedy",
+    "pos": "n.",
+    "en_def": "a serious play or story with a sad ending",
+    "cn_def": "悲劇",
+    "sentence": "A: Several clients asked whether they could bring their children to the show we booked for Saturday evening, so what should I tell them? B: Please explain that it is a serious {{BLANK}} about a family that loses everything in a war, so it may be too sad for young children, and we can offer them tickets to the musical instead.",
+    "cn": "A：有好幾位客戶問能不能帶孩子去看我們訂的星期六晚上的演出，我該怎麼回覆他們？ B：請向他們說明這是一齣嚴肅的【悲劇】，講述一個家庭在戰爭中失去一切的故事，對年幼的孩子來說可能太悲傷了，我們可以改提供音樂劇的票給他們。",
+    "collocation": "a classic Greek tragedy 一齣經典的希臘悲劇"
+   },
+   {
+    "word": "comedy",
+    "pos": "n.",
+    "en_def": "a funny play, film or show that makes people laugh",
+    "cn_def": "喜劇",
+    "sentence": "A: Everyone has been working very hard on the annual report, so what kind of entertainment should we choose for the team night out on Friday? B: Let's book seats for the new {{BLANK}} at the arts center, because it is full of funny jokes and silly characters, and a good laugh is exactly what the team needs after such a stressful month.",
+    "cn": "A：大家都非常努力在做年度報告，星期五的團隊聚會我們該選哪種娛樂活動？ B：我們去訂藝術中心那齣新【喜劇】的位子吧，因為裡面充滿好笑的笑話和滑稽的角色，在這麼有壓力的一個月之後，好好笑一場正是團隊需要的。",
+    "collocation": "a romantic comedy 浪漫喜劇"
+   },
+   {
+    "word": "melodrama",
+    "pos": "n.",
+    "en_def": "a story or play with too much strong emotion and exciting events",
+    "cn_def": "通俗劇；灑狗血的戲",
+    "sentence": "A: Did you like the television series that the advertising agency recommended for our product placement, or do you think it is a bad match for our brand? B: Honestly, it is a {{BLANK}} with too many tears, shouting and surprising love stories, so I worry that our older banking customers will not take our message seriously if we appear in it.",
+    "cn": "A：你喜歡廣告代理商推薦我們做置入性行銷的那部電視劇嗎？還是你覺得它和我們的品牌不搭？ B：老實說，那是一部充滿太多眼淚、爭吵和意外愛情故事的【通俗劇】，所以我擔心如果我們出現在劇中，我們年長的銀行客戶不會認真看待我們的訊息。",
+    "collocation": "a family melodrama on television 電視上的家庭通俗劇"
+   },
+   {
+    "word": "plot",
+    "pos": "n.",
+    "en_def": "the main events of a story, film or play",
+    "cn_def": "情節；劇情",
+    "sentence": "A: The publisher wants to turn the best-selling novel into a stage musical, but what did the producers think about the story when they read it? B: They loved the {{BLANK}}, in which a young chef secretly saves a failing restaurant, but they said several parts are too long and must be shortened before rehearsals begin in March.",
+    "cn": "A：出版社想把那本暢銷小說改編成舞台音樂劇，製作人讀過後覺得這個故事怎麼樣？ B：他們很喜歡那個【情節】，講的是一位年輕廚師暗中拯救一家快倒閉的餐廳，但他們說有好幾個部分太長，必須在三月開始排練前刪短。",
+    "collocation": "a simple but exciting plot 簡單卻刺激的情節"
+   },
+   {
+    "word": "climax",
+    "pos": "n.",
+    "en_def": "the most exciting or important part of a story",
+    "cn_def": "高潮；頂點",
+    "sentence": "A: The audience at last night's show seemed quiet for most of the evening, so were the sponsors disappointed with the performance? B: Not at all, because at the {{BLANK}} of the story, when the hero finally discovers the truth about his father, everyone stood up and clapped, and the sponsors said they would support the next season as well.",
+    "cn": "A：昨晚演出的觀眾大部分時間似乎都很安靜，贊助商對演出感到失望嗎？ B：一點也不，因為在故事的【高潮】，當主角終於發現關於他父親的真相時，所有人都站起來鼓掌，贊助商還說他們下一季也會繼續支持。",
+    "collocation": "reach a climax in the final act 在最後一幕達到高潮"
+   },
+   {
+    "word": "conflict",
+    "pos": "n.",
+    "en_def": "a serious disagreement or fight between people",
+    "cn_def": "衝突；矛盾",
+    "sentence": "A: The new drama that our company is sponsoring has received great reviews, so why do critics say it feels so real? B: The main {{BLANK}} is between two brothers who disagree about whether to sell their late father's factory, and many people in the audience recognize the same arguments from their own family businesses.",
+    "cn": "A：我們公司贊助的新戲獲得很好的評價，為什麼評論家說它感覺這麼真實？ B：主要的【衝突】發生在兩兄弟之間，他們對是否要賣掉亡父的工廠意見不合，許多觀眾在其中看到了自己家族企業中同樣的爭執。",
+    "collocation": "a conflict between two main characters 兩位主角之間的衝突"
+   },
+   {
+    "word": "character",
+    "pos": "n.",
+    "en_def": "a person in a story, play or film",
+    "cn_def": "角色；人物",
+    "sentence": "A: The children's theatre group asked our toy company to design a doll for their new show, so what information do we need from them first? B: We need a clear description of the main {{BLANK}}, including her age, clothes and personality, so that our designers can create a doll that looks exactly like the girl on stage.",
+    "cn": "A：兒童劇團請我們玩具公司為他們的新戲設計一個娃娃，我們首先需要他們提供什麼資訊？ B：我們需要主要【角色】的清楚描述，包括她的年齡、服裝和個性，這樣我們的設計師才能做出和舞台上那個女孩一模一樣的娃娃。",
+    "collocation": "the main character of the story 故事的主角"
+   },
+   {
+    "word": "role",
+    "pos": "n.",
+    "en_def": "the part that an actor plays in a play or film",
+    "cn_def": "角色；（演員扮演的）角",
+    "sentence": "A: Our receptionist Anna told me she was chosen for the community musical next month, so will she need to take any days off? B: Yes, she got the leading {{BLANK}} as a young nurse, so she asked for two afternoons off for rehearsals, and I have already found someone to cover the front desk while she is away.",
+    "cn": "A：我們的櫃檯人員安娜告訴我，她被選上參加下個月的社區音樂劇，她需要請假嗎？ B：需要，她拿到了一位年輕護士的主要【角色】，所以她請了兩個下午的假去排練，我已經找好人在她不在時代班櫃檯。",
+    "collocation": "play the leading role 擔任主角"
+   },
+   {
+    "word": "rehearsal",
+    "pos": "n.",
+    "en_def": "a practice of a play, show or speech before the real one",
+    "cn_def": "排練；彩排",
+    "sentence": "A: The marketing team is presenting the new product at the trade show on Thursday, but are they ready to speak in front of hundreds of buyers? B: They will hold a full {{BLANK}} in the large meeting room tomorrow afternoon, with the lights, slides and microphones, so they can fix any problems before the real event begins.",
+    "cn": "A：行銷團隊星期四要在商展上發表新產品，他們準備好在數百位買家面前演講了嗎？ B：他們明天下午會在大會議室進行一次完整的【彩排】，包括燈光、投影片和麥克風，這樣就能在正式活動開始前修正任何問題。",
+    "collocation": "a dress rehearsal before opening night 首演前的著裝彩排"
+   },
+   {
+    "word": "direct",
+    "pos": "v.",
+    "en_def": "to be in charge of the actors and the making of a play or film",
+    "cn_def": "導演；執導",
+    "sentence": "A: The college drama club is planning a show to raise money for the local hospital, so who will guide the actors during practice? B: A retired film teacher has kindly agreed to {{BLANK}} the show for free, and he will meet the students every Saturday to help them with their acting and movement on stage.",
+    "cn": "A：大學戲劇社正在籌劃一場演出，為當地醫院募款，練習時由誰來指導演員？ B：一位退休的電影老師好心答應免費【執導】這場演出，他每個星期六都會和學生見面，幫助他們練習演技和舞台走位。",
+    "collocation": "direct a short film 執導一部短片"
+   },
+   {
+    "word": "director",
+    "pos": "n.",
+    "en_def": "the person in charge of making a film or play",
+    "cn_def": "導演",
+    "sentence": "A: The bank wants to make a short video about its history for its fiftieth anniversary, so who is in charge of the filming? B: We hired an experienced {{BLANK}} who has made many award-winning documentaries, and she will decide which employees to interview and how each part of the video should look.",
+    "cn": "A：銀行想為五十週年拍一支關於其歷史的短片，拍攝由誰負責？ B：我們聘請了一位經驗豐富的【導演】，她拍過許多得獎的紀錄片，她會決定要採訪哪些員工以及影片每個部分該呈現什麼樣子。",
+    "collocation": "a famous film director 知名電影導演"
+   },
+   {
+    "word": "production",
+    "pos": "n.",
+    "en_def": "a play, film or show that is made for the public",
+    "cn_def": "（戲劇、電影的）製作；作品",
+    "sentence": "A: Our company has agreed to sponsor a musical at the city arts center, so how much money will we need to give them this year? B: The new {{BLANK}} needs about two million dollars for costumes, lights and actors' salaries, and in return, our logo will appear on every poster and ticket for the whole season.",
+    "cn": "A：我們公司同意贊助市立藝術中心的一齣音樂劇，今年我們需要給他們多少錢？ B：這部新【製作】大約需要兩百萬元來支付服裝、燈光和演員的薪水，作為回報，我們的標誌會出現在整季的每一張海報和門票上。",
+    "collocation": "a stage production of a famous novel 一部知名小說的舞台製作"
+   },
+   {
+    "word": "dramatic",
+    "pos": "adj.",
+    "en_def": "sudden and very big; also related to plays and acting",
+    "cn_def": "戲劇性的；巨大的；突然的",
+    "sentence": "A: Did the sales figures change much after we launched the new online advertising campaign in September, or did the results disappoint the managers? B: Yes, there was a {{BLANK}} increase in orders during the first two weeks, so the warehouse had to hire extra workers, and the manager is now asking for a bigger budget for next year.",
+    "cn": "A：我們九月推出新的網路廣告活動後，銷售數字有很大的變化嗎？還是結果讓經理們失望了？ B：有變化，頭兩週的訂單出現【大幅的】增加，所以倉庫必須加聘人手，經理現在正在爭取明年更多的預算。",
+    "collocation": "a dramatic increase in sales 銷售額大幅增加"
+   },
+   {
+    "word": "theatrical",
+    "pos": "adj.",
+    "en_def": "related to the theatre or acting",
+    "cn_def": "劇場的；戲劇的",
+    "sentence": "A: Why did the hotel ask the event company to decorate the ballroom for the charity dinner instead of doing it themselves? B: The event company has special {{BLANK}} lighting and colorful curtains, so they can make the room look like a real stage, and the guests will feel as if they are attending a show on Broadway.",
+    "cn": "A：為什麼飯店請活動公司來布置慈善晚宴的宴會廳，而不是自己布置？ B：活動公司有專業的【劇場】燈光和色彩繽紛的布幕，可以讓宴會廳看起來像真正的舞台，賓客會覺得彷彿在百老匯看表演一樣。",
+    "collocation": "theatrical costumes and makeup 劇場的服裝與化妝"
+   },
+   {
+    "word": "emotional",
+    "pos": "adj.",
+    "en_def": "making people feel strong feelings, such as sadness or love",
+    "cn_def": "情緒的；感人的；激動的",
+    "sentence": "A: How did the staff react at the farewell party when our general manager announced that she was finally retiring after thirty years? B: It was a very {{BLANK}} evening, because many people cried during her speech, and several employees said that she had been like a mother to them since they first joined the company.",
+    "cn": "A：在歡送會上，當我們的總經理宣布她在三十年後終於要退休時，員工有什麼反應？ B：那是一個非常【感人】的夜晚，因為很多人在她致詞時都哭了，好幾位員工說，從他們剛進公司起，她就像母親一樣照顧他們。",
+    "collocation": "give an emotional speech 發表感人的演說"
+   },
+   {
+    "word": "intense",
+    "pos": "adj.",
+    "en_def": "very strong or extreme",
+    "cn_def": "強烈的；激烈的；極大的",
+    "sentence": "A: The new manager seems very tired these days, so is something wrong at the branch office she is in charge of? B: She has been under {{BLANK}} pressure to finish the merger with the Japanese company by the end of the month, so she works late every night and rarely has time for lunch.",
+    "cn": "A：新經理最近看起來很疲倦，她負責的分公司出了什麼問題嗎？ B：她承受著【極大的】壓力，必須在月底前完成與日本公司的合併案，所以她每天晚上都工作到很晚，幾乎沒有時間吃午餐。",
+    "collocation": "intense competition in the market 市場上的激烈競爭"
+   },
+   {
+    "word": "captivating",
+    "pos": "adj.",
+    "en_def": "so interesting or beautiful that it holds your attention",
+    "cn_def": "迷人的；引人入勝的",
+    "sentence": "A: Why did so many people stay at our booth at the travel fair, even though other companies were giving away free gifts? B: Our new video about the islands was truly {{BLANK}}, with beautiful music and amazing pictures of the ocean, so visitors stopped to watch it and then asked many questions about our holiday packages.",
+    "cn": "A：為什麼這麼多人停留在我們旅展的攤位上，即使其他公司都在發送免費贈品？ B：我們關於那些島嶼的新影片真的很【引人入勝】，有優美的音樂和令人驚豔的海洋畫面，所以參觀者停下來觀看，接著問了很多關於我們度假套裝行程的問題。",
+    "collocation": "a captivating performance 引人入勝的演出"
+   },
+   {
+    "word": "expressive",
+    "pos": "adj.",
+    "en_def": "showing feelings and thoughts clearly",
+    "cn_def": "富有表現力的；富有表情的",
+    "sentence": "A: Which of the two singers do you think we should invite to perform at the hotel's grand opening next month? B: I prefer the younger one, because she has a very {{BLANK}} face and voice, so even guests who don't understand Chinese can feel the happiness and sadness in her songs.",
+    "cn": "A：你覺得下個月飯店盛大開幕時，我們應該邀請兩位歌手中的哪一位來表演？ B：我比較喜歡年輕的那位，因為她的表情和嗓音都非常【富有表現力】，所以即使是聽不懂中文的賓客，也能感受到她歌曲中的喜悅與悲傷。",
+    "collocation": "expressive eyes and gestures 富有表情的眼神和手勢"
+   },
+   {
+    "word": "dramatically",
+    "pos": "adv.",
+    "en_def": "in a sudden and very big way",
+    "cn_def": "大幅地；戲劇性地",
+    "sentence": "A: Has the number of visitors to our online ticket store changed since we started offering student discounts for weekend shows? B: Yes, it has risen {{BLANK}} over the past three months, so we now sell almost twice as many tickets, and we may need to add extra performances on Sunday afternoons.",
+    "cn": "A：自從我們開始提供週末演出的學生折扣後，我們網路售票商店的訪客人數有改變嗎？ B：有，過去三個月人數【大幅地】上升，所以我們現在賣出的票幾乎是原來的兩倍，我們可能需要在星期日下午加場演出。",
+    "collocation": "prices rose dramatically 價格大幅上漲"
+   },
+   {
+    "word": "passionately",
+    "pos": "adv.",
+    "en_def": "with very strong feelings or interest",
+    "cn_def": "熱情地；熱烈地",
+    "sentence": "A: Why did the board finally agree to give money to the city's new youth theatre, when they had refused the same request last year? B: The young director spoke so {{BLANK}} about helping teenagers build confidence through acting that every board member was moved, and they voted to support the project for three years.",
+    "cn": "A：董事會去年拒絕了同樣的請求，為什麼最後同意捐款給市裡的新青少年劇院？ B：那位年輕導演【熱情地】談到如何透過表演幫助青少年建立自信，讓每一位董事都很感動，於是他們投票決定支持這個計畫三年。",
+    "collocation": "speak passionately about a cause 熱情地談論一項理想"
+   },
+   {
+    "word": "portray",
+    "pos": "v.",
+    "en_def": "to show or describe someone in a certain way, or to act as a character",
+    "cn_def": "描繪；飾演",
+    "sentence": "A: The film company wants to make a movie about our company's founder, but are we happy with the way they plan to show him? B: Yes, they promised to {{BLANK}} him as a hard-working and honest man who started with nothing, and our public relations team will check the script before filming begins.",
+    "cn": "A：電影公司想拍一部關於我們公司創辦人的電影，我們對他們打算呈現他的方式滿意嗎？ B：滿意，他們承諾會把他【描繪】成一個白手起家、勤奮又誠實的人，而我們的公關團隊會在開拍前審核劇本。",
+    "collocation": "portray a character on screen 在銀幕上飾演一個角色"
+   },
+   {
+    "word": "interpret",
+    "pos": "v.",
+    "en_def": "to understand or perform something in a particular way",
+    "cn_def": "詮釋；解讀",
+    "sentence": "A: The actors in our training video for new employees seem confused about the customer complaint scene, so what should we do? B: Let's ask the trainer to explain the situation again, because each actor may {{BLANK}} the angry customer's feelings differently, and we want everyone to show the same calm and polite response.",
+    "cn": "A：我們新進員工訓練影片中的演員對客訴那一場戲似乎感到困惑，我們該怎麼辦？ B：我們請講師再解釋一次情況吧，因為每個演員對憤怒客戶的情緒可能有不同的【詮釋】，而我們希望每個人都表現出同樣冷靜又有禮貌的回應。",
+    "collocation": "interpret a role in a new way 以新的方式詮釋一個角色"
+   },
+   {
+    "word": "improvise",
+    "pos": "v.",
+    "en_def": "to speak or act without planning or preparing first",
+    "cn_def": "即興發揮；即興表演",
+    "sentence": "A: What happened at the product launch yesterday when the projector suddenly stopped working in the middle of the presentation? B: Our sales manager had to {{BLANK}}, so he told a funny story about the first time he used the product, and the audience laughed and didn't even notice the problem with the screen.",
+    "cn": "A：昨天產品發表會進行到一半投影機突然故障時，發生了什麼事？ B：我們的業務經理只好【即興發揮】，他講了一個自己第一次使用這項產品的有趣故事，觀眾都笑了，甚至沒注意到螢幕出了問題。",
+    "collocation": "improvise a speech on the spot 當場即興演講"
+   },
+   {
+    "word": "spotlight",
+    "pos": "n.",
+    "en_def": "a strong light that shines on one person or place on a stage",
+    "cn_def": "聚光燈；（眾人的）焦點",
+    "sentence": "A: How will our new chief executive be introduced to the investors at the annual meeting next week? B: The lights in the hall will go down, and then a bright {{BLANK}} will shine on her as she walks to the front, so everyone will know immediately who she is before she begins her speech.",
+    "cn": "A：下週年度大會上，我們的新執行長要怎麼介紹給投資人？ B：大廳的燈光會暗下來，接著當她走到前面時，一道明亮的【聚光燈】會照在她身上，這樣在她開始演講前，大家馬上就會知道她是誰。",
+    "collocation": "be in the spotlight 成為眾人矚目的焦點"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The staff outing includes a show at the old _____ near the river. The building has over eight hundred red velvet seats.",
+    "options": [
+     "dialogue",
+     "theatre",
+     "climax",
+     "script"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The local drama group will perform a new _____ next month. It tells the story of a fisherman and his three daughters.",
+    "options": [
+     "spotlight",
+     "rehearsal",
+     "play",
+     "director"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Ticket holders must arrive at least fifteen minutes before the _____ begins. Late guests will not be allowed in until the break.",
+    "options": [
+     "performance",
+     "character",
+     "plot",
+     "conflict"
+    ],
+    "answer": 0,
+    "vocabIndex": 2
+   },
+   {
+    "q": "After the speeches, the winners were invited onto the _____ to receive their awards. Photographers took pictures from the front row.",
+    "options": [
+     "comedy",
+     "tragedy",
+     "dialogue",
+     "stage"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The cereal company hired a popular _____ to appear in its new television commercial. Sales rose soon after the advertisement aired.",
+    "options": [
+     "script",
+     "actor",
+     "scene",
+     "climax"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The whole _____ of the musical attended the charity dinner after the show. Guests could take photos with all the performers.",
+    "options": [
+     "plot",
+     "spotlight",
+     "tragedy",
+     "cast"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Please send the final _____ for the radio advertisement by Friday. The voice actors need time to practice their lines.",
+    "options": [
+     "stage",
+     "climax",
+     "script",
+     "spotlight"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The opening _____ of the commercial shows a family eating breakfast together. It was filmed in a real kitchen in Taichung.",
+    "options": [
+     "scene",
+     "director",
+     "actor",
+     "theatre"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The textbook includes a short _____ between a hotel clerk and a guest. Students read it aloud in pairs during class.",
+    "options": [
+     "climax",
+     "stage",
+     "dialogue",
+     "production"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Many audience members cried at the end of the _____. In the final scene, the young hero dies while saving his village.",
+    "options": [
+     "comedy",
+     "tragedy",
+     "rehearsal",
+     "spotlight"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The new _____ at the City Theatre is full of jokes and silly mistakes. The audience laughed loudly from beginning to end.",
+    "options": [
+     "comedy",
+     "tragedy",
+     "conflict",
+     "climax"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The movie had famous actors and beautiful music. However, the _____ was so confusing that many viewers did not understand the ending.",
+    "options": [
+     "stage",
+     "spotlight",
+     "cast",
+     "plot"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The story slowly builds toward its _____ in the last act. That is when the detective finally reveals the name of the thief.",
+    "options": [
+     "actor",
+     "climax",
+     "cast",
+     "theatre"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The main _____ in the story is between a factory owner and his workers. They argue about pay and safety for most of the play.",
+    "options": [
+     "stage",
+     "script",
+     "spotlight",
+     "conflict"
+    ],
+    "answer": 3,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Children love the main _____ in the cartoon, a friendly blue robot. The company now sells toys and T-shirts with his picture.",
+    "options": [
+     "character",
+     "rehearsal",
+     "dialogue",
+     "theatre"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Our receptionist will play the _____ of a busy doctor in the company's safety video. She practiced her lines all week.",
+    "options": [
+     "stage",
+     "plot",
+     "role",
+     "climax"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The final _____ for Saturday's concert will take place on Friday evening. All performers must wear their costumes and arrive by six.",
+    "options": [
+     "rehearsal",
+     "character",
+     "tragedy",
+     "plot"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The famous filmmaker has agreed to _____ our next television commercial. She will choose the actors and plan every scene.",
+    "options": [
+     "portray",
+     "interpret",
+     "improvise",
+     "direct"
+    ],
+    "answer": 3,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The _____ asked the actors to repeat the scene five times. He wanted every movement to look natural on camera.",
+    "options": [
+     "script",
+     "climax",
+     "director",
+     "spotlight"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The theatre's new _____ of the famous musical opens next week. More than ten thousand tickets have already been sold.",
+    "options": [
+     "dialogue",
+     "production",
+     "conflict",
+     "character"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The new advertising campaign led to a _____ rise in online sales. Orders doubled in just three weeks.",
+    "options": [
+     "emotional",
+     "expressive",
+     "captivating",
+     "dramatic"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The costume shop rents _____ wigs, masks and gowns to drama clubs. Its prices are lower than those of other stores.",
+    "options": [
+     "theatrical",
+     "intense",
+     "emotional",
+     "expressive"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The retiring manager could not stop crying during her farewell speech. It was a very _____ moment for her and her team.",
+    "options": [
+     "theatrical",
+     "captivating",
+     "emotional",
+     "expressive"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Competition among online shoe stores has become very _____ this year. Many small shops have closed because of low prices.",
+    "options": [
+     "theatrical",
+     "intense",
+     "expressive",
+     "emotional"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The magician's show was truly _____, and it held the children's attention for a full hour. Nobody even looked at their phones.",
+    "options": [
+     "emotional",
+     "expressive",
+     "theatrical",
+     "captivating"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The dancer has a very _____ face that shows every feeling clearly. Even people in the back row can see her joy and sadness.",
+    "options": [
+     "expressive",
+     "intense",
+     "dramatic",
+     "theatrical"
+    ],
+    "answer": 0,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The new film will _____ the founder as a kind and hard-working man. His family helped the writers with many details.",
+    "options": [
+     "direct",
+     "interpret",
+     "portray",
+     "improvise"
+    ],
+    "answer": 2,
+    "vocabIndex": 31
+   },
+   {
+    "q": "Every reader may _____ the ending of the novel in a different way. That is why the book club had such a long discussion.",
+    "options": [
+     "direct",
+     "interpret",
+     "portray",
+     "improvise"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The speaker's laptop suddenly stopped working during the talk. She had to _____ and continue without her slides.",
+    "options": [
+     "improvise",
+     "direct",
+     "portray",
+     "interpret"
+    ],
+    "answer": 0,
+    "vocabIndex": 33
+   },
+   {
+    "q": "A bright _____ followed the singer as she walked across the stage. The rest of the hall remained completely dark.",
+    "options": [
+     "plot",
+     "cast",
+     "spotlight",
+     "dialogue"
+    ],
+    "answer": 2,
+    "vocabIndex": 34
+   }
+  ]
+ },
+ "111": {
+  "theme": "Drawing 繪畫",
+  "source": "https://www.examword.com/group-topic/drawing",
+  "VOCAB": [
+   {
+    "word": "illustration",
+    "pos": "n.",
+    "en_def": "a picture drawn for a book, magazine or advertisement",
+    "cn_def": "插圖；圖解",
+    "sentence": "A: The publisher wants the cover of the new children's cookbook finished by the end of the month, but our designer is still on vacation. B: Don't worry, I have already contacted a freelance artist who can draw a colorful {{BLANK}} of a family cooking together, and she promised to send us the first sketch by Friday.",
+    "cn": "A：出版社希望新的兒童食譜封面在月底前完成，但我們的設計師還在休假。 B：別擔心，我已經聯絡了一位自由接案的畫家，她可以畫一幅一家人一起做飯的彩色【插圖】，而且她答應星期五前把第一版草圖寄給我們。",
+    "collocation": "a full-color illustration for the cover 封面的全彩插圖"
+   },
+   {
+    "word": "portrait",
+    "pos": "n.",
+    "en_def": "a painting, drawing or photo of a person, especially the face",
+    "cn_def": "肖像；畫像",
+    "sentence": "A: The bank is celebrating its fiftieth anniversary next month, and the board would like to give the retiring chairman a special gift. B: How about hiring a local artist to draw a {{BLANK}} of him in his office? We could hang it in the main lobby so that customers and staff can remember everything he did for the company.",
+    "cn": "A：銀行下個月要慶祝成立五十週年，董事會想送即將退休的董事長一份特別的禮物。 B：請一位當地畫家畫一幅他在辦公室裡的【肖像】如何？我們可以把它掛在大廳，讓顧客和員工記得他為公司所做的一切。",
+    "collocation": "commission a portrait of the founder 委託繪製創辦人的肖像"
+   },
+   {
+    "word": "cartoon",
+    "pos": "n.",
+    "en_def": "a funny drawing, often in a newspaper or magazine",
+    "cn_def": "漫畫；卡通",
+    "sentence": "A: Our monthly newsletter is full of long reports about sales figures, and I'm afraid most employees stop reading after the first page. B: Why don't we add a small {{BLANK}} on the back page each month? If it shows a funny moment from office life, people will look forward to the next issue and may read the other articles too.",
+    "cn": "A：我們的月刊裡全是關於銷售數字的冗長報告，我擔心大部分員工讀完第一頁就不看了。 B：我們何不每個月在封底加一則小【漫畫】？如果它呈現辦公室生活中的有趣時刻，大家就會期待下一期，或許也會讀其他文章。",
+    "collocation": "draw a cartoon for the company newsletter 為公司刊物畫一則漫畫"
+   },
+   {
+    "word": "shade",
+    "pos": "n.",
+    "en_def": "a particular darkness or lightness of a color",
+    "cn_def": "色調；（顏色的）深淺",
+    "sentence": "A: The client said the blue in our new logo looks too bright on the website, and she wants something that feels calmer and more professional. B: I understand, so I'll try a darker {{BLANK}} of blue this afternoon and send her three different versions, because it is easier for clients to choose when they can compare them side by side.",
+    "cn": "A：客戶說我們新標誌的藍色在網站上看起來太亮了，她想要感覺更沉穩、更專業的顏色。 B：我明白，所以我今天下午會試一種較深的藍色【色調】，並寄給她三個不同的版本，因為客戶能並排比較時比較容易做選擇。",
+    "collocation": "a darker shade of blue 較深的藍色色調"
+   },
+   {
+    "word": "shading",
+    "pos": "n.",
+    "en_def": "the use of darker marks in a drawing to show shadow or depth",
+    "cn_def": "（繪畫的）明暗處理；陰影",
+    "sentence": "A: I drew this coffee cup for the café's new menu, but my manager says it still looks flat and a little boring. B: You should add some {{BLANK}} on the right side, where the light doesn't reach, because darker areas will make the cup look round and give the whole picture a more realistic feeling.",
+    "cn": "A：我為咖啡館的新菜單畫了這個咖啡杯，但我的經理說它看起來還是很平面，有點無趣。 B：你應該在光線照不到的右側加一些【明暗陰影】，因為較暗的區域會讓杯子看起來是圓的，讓整張圖更有真實感。",
+    "collocation": "add light shading to the sketch 在草圖上加上淡淡的陰影"
+   },
+   {
+    "word": "line",
+    "pos": "n.",
+    "en_def": "a long thin mark made with a pen or pencil",
+    "cn_def": "線；線條",
+    "sentence": "A: The new trainees in our design department keep asking how they can improve their sketches of buildings and furniture quickly. B: Tell them to practice drawing a straight {{BLANK}} without a ruler for ten minutes every morning, since steady hands are the base of every good sketch, and they will notice a big difference after a few weeks.",
+    "cn": "A：我們設計部門的新進受訓人員一直問要怎麼快速改善他們的建築和家具素描。 B：叫他們每天早上花十分鐘練習不用尺畫直【線】，因為穩定的手是每張好素描的基礎，幾週後他們就會發現很大的差別。",
+    "collocation": "draw a straight line without a ruler 不用尺畫一條直線"
+   },
+   {
+    "word": "stroke",
+    "pos": "n.",
+    "en_def": "a single movement of a pen or brush, or the mark it makes",
+    "cn_def": "一筆；筆畫",
+    "sentence": "A: The calligraphy teacher at the community center said my characters look messy, but I'm not sure what I'm doing wrong. B: She probably means you are moving the brush too quickly, so try to finish each {{BLANK}} slowly and with the same pressure, and remember to let the ink dry before you start the next character.",
+    "cn": "A：社區中心的書法老師說我的字看起來很亂，但我不確定自己哪裡做錯了。 B：她大概是指你運筆太快了，所以試著慢慢地用相同的力道完成每一【筆】，而且記得在寫下一個字之前讓墨水乾掉。",
+    "collocation": "with a single stroke of the brush 一筆畫成"
+   },
+   {
+    "word": "contour",
+    "pos": "n.",
+    "en_def": "the outer edge or shape of something",
+    "cn_def": "輪廓；外形",
+    "sentence": "A: The architecture firm asked us to make a simple map for the new hiking trail, but they don't need every small feature of the area. B: Then we should only draw the {{BLANK}} of the hills and the river, because visitors mainly want to see the shape of the land and the easiest path to the top.",
+    "cn": "A：建築事務所請我們為新的健行步道製作一張簡單的地圖，但他們不需要該區域的每個小地物。 B：那我們就只畫山丘和河流的【輪廓】，因為遊客主要是想看地形的樣子以及通往山頂最容易的路線。",
+    "collocation": "follow the contour of the coastline 沿著海岸線的輪廓"
+   },
+   {
+    "word": "composition",
+    "pos": "n.",
+    "en_def": "the way the parts of a picture are arranged",
+    "cn_def": "構圖；（畫面的）布局",
+    "sentence": "A: The photo of our new office building for the annual report looks nice, but something about it feels unbalanced to me. B: I agree, because the building is right in the corner while the empty sky takes up most of the space, so let's improve the {{BLANK}} by moving the building closer to the center of the picture.",
+    "cn": "A：年報裡我們新辦公大樓的照片看起來不錯，但我覺得有點不平衡。 B：我同意，因為大樓擠在角落，而空蕩蕩的天空卻佔了大部分空間，所以我們把大樓移到靠近畫面中央的地方來改善【構圖】吧。",
+    "collocation": "a well-balanced composition 平衡良好的構圖"
+   },
+   {
+    "word": "perspective",
+    "pos": "n.",
+    "en_def": "a way of drawing that makes things look near or far, as in real life",
+    "cn_def": "透視法",
+    "sentence": "A: The drawings of the new shopping mall look strange, because the people in the back are as large as the people in the front. B: That's because the junior designer hasn't learned to use {{BLANK}} correctly yet, so I'll show him how objects should become smaller as they get farther away, which will make the space look much deeper.",
+    "cn": "A：新購物中心的圖看起來很奇怪，因為後面的人和前面的人一樣大。 B：那是因為那位初級設計師還沒學會正確運用【透視法】，所以我會教他物體離得越遠應該畫得越小，這樣空間看起來就會更有深度。",
+    "collocation": "draw the street in perspective 用透視法畫出街道"
+   },
+   {
+    "word": "proportion",
+    "pos": "n.",
+    "en_def": "the correct size of one part compared with another",
+    "cn_def": "比例",
+    "sentence": "A: Our art teacher says the hands in my portrait drawing are too big, but I measured everything carefully before I started. B: Maybe you measured each part on its own, so try comparing the size of the hand with the face, because getting the {{BLANK}} right is more important than drawing every small wrinkle or fingernail.",
+    "cn": "A：我們的美術老師說我畫的人像裡手太大了，但我開始畫之前每個地方都仔細量過了。 B：也許你是把每個部位分開量的，試著把手的大小和臉做比較，因為把【比例】畫對比畫出每一條小皺紋或指甲更重要。",
+    "collocation": "keep the figure in proportion 讓人物保持正確比例"
+   },
+   {
+    "word": "detail",
+    "pos": "n.",
+    "en_def": "a small part or fact of something",
+    "cn_def": "細節",
+    "sentence": "A: The marketing team loved the first draft of the poster, but they asked whether we could make the product look more attractive. B: Sure, I'll add more {{BLANK}} to the watch in the center, such as the tiny numbers and the silver buttons on the side, so customers can see how carefully it was made.",
+    "cn": "A：行銷團隊很喜歡海報的初稿，但他們問我們能不能讓產品看起來更吸引人。 B：當然，我會為中間的手錶加上更多【細節】，像是細小的數字和側面的銀色按鈕，讓顧客能看出它做工有多精細。",
+    "collocation": "pay attention to every detail 注意每一個細節"
+   },
+   {
+    "word": "texture",
+    "pos": "n.",
+    "en_def": "the way a surface feels or looks, such as rough or smooth",
+    "cn_def": "質地；紋理",
+    "sentence": "A: The furniture company wants our drawings of their new wooden tables to look as real as possible in the online catalog. B: In that case, I'll use soft pencils to show the {{BLANK}} of the wood, including the natural patterns and small marks, so that customers can almost feel the surface just by looking at the picture.",
+    "cn": "A：家具公司希望我們為他們新木桌畫的圖在線上型錄裡看起來越真實越好。 B：這樣的話，我會用軟鉛筆表現木頭的【紋理】，包括天然的花紋和細小的痕跡，讓顧客光看圖片就幾乎能感覺到桌面的觸感。",
+    "collocation": "the rough texture of the wood 木頭粗糙的紋理"
+   },
+   {
+    "word": "medium",
+    "pos": "n.",
+    "en_def": "the material an artist uses, such as paint or pencil",
+    "cn_def": "（藝術創作的）媒材",
+    "sentence": "A: I'm signing up for the evening art class at the community college, but I can't decide between the painting course and the drawing course. B: If you are a beginner, I suggest you start with pencil, because it is a cheap and simple {{BLANK}}, and you can easily fix your mistakes while you are still learning the basics.",
+    "cn": "A：我要報名社區大學的晚間美術課，但我無法決定要選繪畫課還是素描課。 B：如果你是初學者，我建議你從鉛筆開始，因為它是便宜又簡單的【媒材】，而且你在學基礎時可以輕易修正錯誤。",
+    "collocation": "choose the right medium for the project 為作品選擇合適的媒材"
+   },
+   {
+    "word": "pencil",
+    "pos": "n.",
+    "en_def": "a thin tool with a gray or colored center, used for writing or drawing",
+    "cn_def": "鉛筆",
+    "sentence": "A: Our office supplies order is due tomorrow, and the architects on the third floor have asked for something new for their early sketches. B: Then please order a good mechanical {{BLANK}} for each of them, along with extra leads and erasers, because they like to sketch their ideas quickly by hand before they move to the computer.",
+    "cn": "A：我們的辦公用品訂單明天截止，三樓的建築師們要求為他們的初步草圖準備一些新東西。 B：那就請幫他們每人訂一支好的自動【鉛筆】，再加上額外的筆芯和橡皮擦，因為他們喜歡在用電腦之前先快速手繪構想。",
+    "collocation": "sketch with a pencil 用鉛筆素描"
+   },
+   {
+    "word": "charcoal",
+    "pos": "n.",
+    "en_def": "a black stick of burned wood used for drawing",
+    "cn_def": "炭筆；木炭",
+    "sentence": "A: The art class tomorrow is about drawing faces, and the teacher told us to bring something that makes very dark, soft marks. B: Then you should buy a stick of {{BLANK}} at the art shop near the station, but remember to bring some wet tissues too, because it will easily make your hands and clothes black.",
+    "cn": "A：明天的美術課是畫臉部，老師叫我們帶可以畫出很深、很柔和痕跡的東西。 B：那你應該去車站附近的美術用品店買一根【炭筆】，但記得也要帶些濕紙巾，因為它很容易把你的手和衣服弄黑。",
+    "collocation": "a quick charcoal sketch 快速的炭筆素描"
+   },
+   {
+    "word": "ink",
+    "pos": "n.",
+    "en_def": "a colored liquid used for writing, drawing or printing",
+    "cn_def": "墨水；油墨",
+    "sentence": "A: The printer in the design studio keeps producing pale, gray pages, and we have to send the final brochure to the client this afternoon. B: It's probably running out of black {{BLANK}}, so I'll replace the cartridge right away, and if that doesn't work, we can print the brochure at the copy shop across the street.",
+    "cn": "A：設計工作室的印表機一直印出淡淡的灰色頁面，而我們今天下午必須把最終版手冊寄給客戶。 B：它大概是黑色【墨水】快用完了，所以我馬上換匣，如果那樣還不行，我們可以到對街的影印店印手冊。",
+    "collocation": "run out of ink 墨水用完"
+   },
+   {
+    "word": "marker",
+    "pos": "n.",
+    "en_def": "a pen with a thick tip, used for writing on boards or drawing",
+    "cn_def": "麥克筆；記號筆",
+    "sentence": "A: During tomorrow's brainstorming meeting, I want everyone to write their ideas on the whiteboard so the whole team can see them. B: Good idea, but most of the pens in the meeting room have dried up, so I'll bring a new {{BLANK}} in each color from the supply cabinet before the meeting starts at nine.",
+    "cn": "A：明天的腦力激盪會議上，我希望每個人都把點子寫在白板上，讓整個團隊都看得到。 B：好主意，但會議室裡大部分的筆都乾掉了，所以我會在九點開會前從用品櫃拿每種顏色各一支新的【麥克筆】過來。",
+    "collocation": "a whiteboard marker 白板筆"
+   },
+   {
+    "word": "brush",
+    "pos": "n.",
+    "en_def": "a tool with hairs on a handle, used for painting",
+    "cn_def": "畫筆；刷子",
+    "sentence": "A: My watercolor paintings always look messy at the edges, even though I buy expensive paints from the art store. B: The paint may not be the problem, so try using a smaller {{BLANK}} with soft hair for the edges, because a thin tip gives you much better control when you are painting small areas.",
+    "cn": "A：我的水彩畫邊緣看起來總是很亂，雖然我都在美術用品店買昂貴的顏料。 B：問題可能不在顏料，所以畫邊緣時試著用一支軟毛的小【畫筆】，因為細的筆尖在畫小區域時能讓你控制得好得多。",
+    "collocation": "a fine-tipped paint brush 細筆尖的畫筆"
+   },
+   {
+    "word": "canvas",
+    "pos": "n.",
+    "en_def": "strong cloth that artists paint on",
+    "cn_def": "畫布",
+    "sentence": "A: The hotel manager wants a large painting of the harbor for the wall behind the reception desk, about two meters wide. B: Then I'll need to order a special {{BLANK}} from the art supplier, because the ones they keep in the store are too small, and it may take a week to arrive.",
+    "cn": "A：飯店經理想在櫃台後面的牆上掛一幅大約兩公尺寬的港口大畫。 B：那我需要向美術用品供應商訂購一塊特製的【畫布】，因為他們店裡的太小了，而且可能要一週才會到貨。",
+    "collocation": "oil paint on canvas 畫布上的油畫"
+   },
+   {
+    "word": "paper",
+    "pos": "n.",
+    "en_def": "thin material made from wood, used for writing, drawing or printing",
+    "cn_def": "紙；紙張",
+    "sentence": "A: The students in the Saturday drawing class complained that their pencil sketches look gray and dirty after only a few minutes. B: That's because the cheap {{BLANK}} we bought is too smooth and thin, so next month I'll order a thicker kind that is made for drawing and can hold the pencil marks better.",
+    "cn": "A：星期六素描班的學生抱怨他們的鉛筆素描才幾分鐘就看起來灰灰髒髒的。 B：那是因為我們買的便宜【紙張】太光滑又太薄，所以下個月我會訂一種專門用來畫圖、較厚而且更能留住鉛筆痕跡的款式。",
+    "collocation": "a sheet of drawing paper 一張圖畫紙"
+   },
+   {
+    "word": "precise",
+    "pos": "adj.",
+    "en_def": "exact and correct in every small part",
+    "cn_def": "精確的；準確的",
+    "sentence": "A: The engineers need the drawings of the new machine part by Monday, and they said even a small mistake could cause problems in the factory. B: In that case, we must use a computer program instead of drawing by hand, because the measurements have to be {{BLANK}} down to the last millimeter, and the software can check them for us.",
+    "cn": "A：工程師們星期一前需要新機械零件的圖，他們說即使是小錯誤也可能在工廠造成問題。 B：這樣的話，我們必須用電腦程式而不是手繪，因為尺寸必須【精確】到最後一毫米，而且軟體可以幫我們檢查。",
+    "collocation": "precise measurements 精確的尺寸"
+   },
+   {
+    "word": "rough",
+    "pos": "adj.",
+    "en_def": "not finished or exact; done quickly as a first try",
+    "cn_def": "粗略的；草擬的",
+    "sentence": "A: The client wants to see our ideas for the new restaurant sign tomorrow morning, but we haven't finished any of the final designs yet. B: That's fine, because at this stage we only need to show her a few {{BLANK}} sketches, and once she chooses the one she likes, we can spend next week adding color and other finishing touches.",
+    "cn": "A：客戶明天早上想看我們對新餐廳招牌的構想，但我們還沒完成任何最終設計。 B：沒關係，因為這個階段我們只需要給她看幾張【粗略的】草圖，等她選出喜歡的那一張，我們下週再花時間上色並做其他最後的修飾。",
+    "collocation": "a rough sketch of the design 設計的粗略草圖"
+   },
+   {
+    "word": "realistic",
+    "pos": "adj.",
+    "en_def": "showing things as they really are",
+    "cn_def": "寫實的；逼真的",
+    "sentence": "A: The real estate agency wants pictures of the apartments before they are built, so buyers can imagine living there. B: Then we'll create very {{BLANK}} drawings with sunlight coming through the windows and furniture in every room, because buyers are more likely to sign a contract when the home looks like a real place.",
+    "cn": "A：房地產仲介希望在公寓蓋好之前就有圖片，讓買家能想像住在那裡的樣子。 B：那我們就畫非常【寫實的】圖，畫出陽光從窗戶照進來、每個房間都擺好家具，因為當房子看起來像真實的地方時，買家比較可能簽約。",
+    "collocation": "a realistic drawing of the building 建築物的寫實圖"
+   },
+   {
+    "word": "abstract",
+    "pos": "adj.",
+    "en_def": "using shapes and colors instead of showing real people or things",
+    "cn_def": "抽象的",
+    "sentence": "A: The new lobby looks a bit empty, and the CEO asked me to find some art that won't distract visitors or feel too old-fashioned. B: How about a few {{BLANK}} paintings with simple shapes and soft colors? They feel modern and calm, and since they don't show any particular people or places, they suit almost any business.",
+    "cn": "A：新大廳看起來有點空，執行長要我找一些不會讓訪客分心、也不會顯得太老派的藝術品。 B：幾幅有簡單形狀和柔和色彩的【抽象】畫如何？它們感覺現代又沉穩，而且因為沒有描繪特定的人或地方，幾乎適合任何企業。",
+    "collocation": "an abstract painting 一幅抽象畫"
+   },
+   {
+    "word": "artistic",
+    "pos": "adj.",
+    "en_def": "having or showing skill in art",
+    "cn_def": "有藝術天分的；藝術的",
+    "sentence": "A: We're looking for someone to design the store's window displays for the holiday season, but nobody on the sales team has any experience. B: Actually, Mia in accounting is very {{BLANK}}, and she spends her weekends painting and taking photos, so why don't we ask her to share a few ideas at Thursday's meeting?",
+    "cn": "A：我們在找人設計店裡節慶季節的櫥窗陳列，但業務團隊裡沒有人有經驗。 B：其實會計部的米亞很有【藝術天分】，她週末都在畫畫和拍照，我們何不請她在星期四的會議上分享一些想法？",
+    "collocation": "show artistic talent 展現藝術天分"
+   },
+   {
+    "word": "creative",
+    "pos": "adj.",
+    "en_def": "good at thinking of new and original ideas",
+    "cn_def": "有創意的；有創造力的",
+    "sentence": "A: Our advertisements for the new juice brand look almost the same as our competitors', and sales have been slow since the launch. B: We need a more {{BLANK}} approach, so let's invite a few young designers to a workshop next week and let them try some unusual ideas, such as drawing the fruit as cartoon characters.",
+    "cn": "A：我們新果汁品牌的廣告看起來和競爭對手的幾乎一樣，而且上市以來銷售一直很慢。 B：我們需要更【有創意的】做法，所以下週邀請幾位年輕設計師來參加工作坊，讓他們嘗試一些不尋常的點子，例如把水果畫成卡通人物。",
+    "collocation": "come up with creative ideas 想出有創意的點子"
+   },
+   {
+    "word": "render",
+    "pos": "v.",
+    "en_def": "to draw or show something in a particular way, often using a computer",
+    "cn_def": "描繪；（用電腦）繪製呈現",
+    "sentence": "A: The architects need images of the new library for the city council meeting, and they want people to see how it will look at night. B: Our team can {{BLANK}} the building with its lights on and a dark blue sky behind it, but the computer will need several hours to finish each image, so please give us until Thursday.",
+    "cn": "A：建築師們需要新圖書館的圖像給市議會開會用，他們想讓大家看到它晚上的樣子。 B：我們團隊可以把建築【繪製呈現】成燈火通明、背景是深藍夜空的樣子，但電腦完成每張圖需要好幾個小時，所以請給我們到星期四的時間。",
+    "collocation": "render a 3D image of the building 繪製建築物的3D圖像"
+   },
+   {
+    "word": "trace",
+    "pos": "v.",
+    "en_def": "to copy a picture by drawing over its lines through thin paper",
+    "cn_def": "描摹；描繪",
+    "sentence": "A: The children at our summer art camp find it very hard to draw animals, and some of them get upset and want to give up. B: Let them {{BLANK}} simple pictures from a book first by placing thin sheets over the page, because copying the outlines helps them learn the shapes, and later they can try drawing on their own.",
+    "cn": "A：我們暑期美術營的孩子們覺得畫動物很難，有些人會沮喪想放棄。 B：先讓他們把薄紙放在書頁上【描摹】簡單的圖，因為描出輪廓能幫助他們學會形狀，之後他們就能試著自己畫。",
+    "collocation": "trace the outline of a map 描出地圖的輪廓"
+   },
+   {
+    "word": "erase",
+    "pos": "v.",
+    "en_def": "to remove marks, especially pencil marks",
+    "cn_def": "擦掉；抹去",
+    "sentence": "A: I made a mistake on the floor plan I drew for the client, and the meeting starts in less than twenty minutes. B: Don't panic, because you drew it in pencil, so you can simply {{BLANK}} the wrong wall with a soft rubber and draw it again in the right place before she arrives.",
+    "cn": "A：我為客戶畫的平面圖出錯了，而會議不到二十分鐘就要開始。 B：別慌，因為你是用鉛筆畫的，所以你只要用軟橡皮擦把畫錯的牆【擦掉】，在她到之前重新畫在正確的位置就好。",
+    "collocation": "erase the pencil marks 擦掉鉛筆痕跡"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The children's book contains a colorful _____ on every page. The artist spent two years finishing all of the pictures.",
+    "options": [
+     "canvas",
+     "contour",
+     "marker",
+     "illustration"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The company hired a painter to create a _____ of its founder. It now hangs in the main hallway near the elevators.",
+    "options": [
+     "portrait",
+     "texture",
+     "stroke",
+     "medium"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Every Sunday, the newspaper prints a funny _____ about office life. Many readers say it is the first thing they look at.",
+    "options": [
+     "canvas",
+     "contour",
+     "cartoon",
+     "proportion"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The designer chose a lighter _____ of green for the company's new uniforms. The staff agreed it looked fresher than the old color.",
+    "options": [
+     "stroke",
+     "shade",
+     "contour",
+     "canvas"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Without any _____, the drawing of the apple looked completely flat. The teacher showed the students how to add darker areas.",
+    "options": [
+     "canvas",
+     "portrait",
+     "shading",
+     "marker"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Please sign your name on the dotted _____ at the bottom of the form. Then return it to the front desk.",
+    "options": [
+     "line",
+     "stroke",
+     "brush",
+     "canvas"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The famous artist painted the bird with a single _____ of her brush. Visitors at the gallery were amazed by her skill.",
+    "options": [
+     "contour",
+     "stroke",
+     "paper",
+     "texture"
+    ],
+    "answer": 1,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The hiking map shows the _____ of the mountains with thin brown lines. Hikers can use it to see how steep the trail is.",
+    "options": [
+     "portrait",
+     "cartoon",
+     "marker",
+     "contour"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The judges praised the photo for its excellent _____. Every object was placed in exactly the right part of the frame.",
+    "options": [
+     "composition",
+     "charcoal",
+     "pencil",
+     "ink"
+    ],
+    "answer": 0,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The architect used _____ to make the hallway in the drawing look very long. The far end appears much smaller than the front.",
+    "options": [
+     "charcoal",
+     "canvas",
+     "cartoon",
+     "perspective"
+    ],
+    "answer": 3,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The head in your drawing is too large compared with the body. Try to keep everything in _____ next time.",
+    "options": [
+     "texture",
+     "illustration",
+     "proportion",
+     "medium"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The jeweler checked every small _____ of the ring before it was shipped. The customer had paid a lot for the special design.",
+    "options": [
+     "canvas",
+     "detail",
+     "brush",
+     "cartoon"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "This fabric has a soft, smooth _____ that customers love. It is used in all of our most popular sofas.",
+    "options": [
+     "texture",
+     "perspective",
+     "portrait",
+     "stroke"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "Watercolor is the artist's favorite _____ because it dries quickly. She also enjoys working with colored pencils on weekends.",
+    "options": [
+     "contour",
+     "cartoon",
+     "medium",
+     "proportion"
+    ],
+    "answer": 2,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Please bring a soft _____ to the drawing test so you can fix mistakes easily. Pens are not allowed in the exam room.",
+    "options": [
+     "ink",
+     "canvas",
+     "composition",
+     "pencil"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The artist drew the sketch with a stick of black _____. Her fingers were covered in dark dust by the end of the class.",
+    "options": [
+     "paper",
+     "charcoal",
+     "canvas",
+     "texture"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The office printer has run out of black _____ again. Please order three new cartridges from the supplier today.",
+    "options": [
+     "canvas",
+     "charcoal",
+     "ink",
+     "paper"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The whiteboard _____ in the meeting room has dried up. Could you bring a new one from the supply cabinet?",
+    "options": [
+     "canvas",
+     "marker",
+     "charcoal",
+     "portrait"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Clean your paint _____ with warm water after each class. If the paint dries on the hairs, it will be hard to use again.",
+    "options": [
+     "brush",
+     "canvas",
+     "pencil",
+     "marker"
+    ],
+    "answer": 0,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The painter stretched a large piece of _____ over a wooden frame. She plans to paint a view of the harbor on it.",
+    "options": [
+     "charcoal",
+     "ink",
+     "pencil",
+     "canvas"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Our department uses too much _____ for printing reports. From next month, all documents should be shared by email instead.",
+    "options": [
+     "canvas",
+     "charcoal",
+     "paper",
+     "brush"
+    ],
+    "answer": 2,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The engineer's drawings must be very _____ because the parts are tiny. Even a small mistake could cause the machine to fail.",
+    "options": [
+     "rough",
+     "precise",
+     "abstract",
+     "artistic"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "This is only a _____ sketch of the new logo. We will add the colors and final details after the client approves it.",
+    "options": [
+     "rough",
+     "precise",
+     "realistic",
+     "artistic"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The fruit in the painting looks so _____ that people want to pick it up. The artist spent months on every small detail.",
+    "options": [
+     "abstract",
+     "rough",
+     "creative",
+     "realistic"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The gallery's new show features _____ art made of simple shapes and bright colors. None of the paintings show real people or places.",
+    "options": [
+     "abstract",
+     "realistic",
+     "precise",
+     "rough"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Ken has always been very _____ and loves painting in his free time. He hopes to become a professional designer one day.",
+    "options": [
+     "precise",
+     "rough",
+     "artistic",
+     "abstract"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The marketing team needs more _____ ideas for the new campaign. The last advertisement was too similar to our competitor's.",
+    "options": [
+     "rough",
+     "creative",
+     "precise",
+     "realistic"
+    ],
+    "answer": 1,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The software can _____ a 3D image of the building in about an hour. The architects will show it to the client tomorrow.",
+    "options": [
+     "trace",
+     "erase",
+     "shade",
+     "render"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Students were asked to _____ the outline of the map using thin paper. Then they colored each country by hand.",
+    "options": [
+     "render",
+     "trace",
+     "erase",
+     "shade"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "If you make a mistake on the form, please _____ it completely with a rubber. Do not use correction fluid on this document.",
+    "options": [
+     "erase",
+     "render",
+     "trace",
+     "shade"
+    ],
+    "answer": 0,
+    "vocabIndex": 29
+   }
+  ]
  }
 }
