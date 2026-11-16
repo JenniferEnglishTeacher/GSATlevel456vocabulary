@@ -1,0 +1,776 @@
+// Topic 159 Quiz Data: Goodbye 道別
+// Source word list: https://www.examword.com/group-topic/goodbye — content written for this site (tools/toeic_emit.py).
+const QUIZ_CONFIG = {
+  "groupName": "TOEIC Themed Vocabulary T159 - Goodbye 道別",
+  "gasEndpoint": "https://script.google.com/macros/s/AKfycbzLUqP-nauSjmiHfPXiK3NAV65tYdjAlwqip38TcGdTKqeR_CijuzHYxZDC-sjtRVrr_w/exec"
+};
+
+const VOCAB = [
+  {
+    "word": "departure",
+    "pos": "n.",
+    "cn_def": "離開；離職；出發",
+    "en_def": "the act of leaving a place or a job",
+    "sentence": "A: Since our regional manager is moving to the Singapore office next month, should we organize a small lunch to thank her for everything she has done for us? B: Yes, her {{BLANK}} will be a big change for the team, so let's book a nice restaurant near the station and invite everyone from sales.",
+    "cn": "A：既然我們的區域經理下個月要調到新加坡辦公室，我們要不要辦個小午餐，感謝她為我們所做的一切？ B：好啊，她的【離開】對團隊來說會是很大的改變，所以我們在車站附近訂一間好餐廳，邀請業務部所有人吧。"
+  },
+  {
+    "word": "leave",
+    "pos": "v.",
+    "cn_def": "離開",
+    "en_def": "to go away from a place or a person",
+    "sentence": "A: Do you know what time Mr. Chen plans to {{BLANK}} the office today, because the clients from Osaka still want to discuss the new contract with him before they fly home? B: He told me he has a dentist appointment at five, so you should call them now and ask them to come over before four thirty.",
+    "cn": "A：你知道陳先生今天打算幾點【離開】辦公室嗎？因為來自大阪的客戶在搭機回國前，還想跟他討論新合約。 B：他跟我說他五點要看牙醫，所以你應該現在打電話給他們，請他們四點半前過來。"
+  },
+  {
+    "word": "part",
+    "pos": "v.",
+    "cn_def": "分開；分別",
+    "en_def": "to leave someone; to go away from each other",
+    "sentence": "A: After working together on the hotel project for almost three years, how did you feel when you and your business partner finally decided to go separate ways last spring? B: It was hard to {{BLANK}} from someone I trusted so much, but we agreed to stay friends and still meet for coffee whenever he visits Taipei.",
+    "cn": "A：你和你的事業夥伴在飯店專案上合作了將近三年，去年春天終於決定分道揚鑣時，你有什麼感受？ B：要和一個我如此信任的人【分開】很難，但我們同意繼續當朋友，每次他來台北時我們仍會一起喝咖啡。"
+  },
+  {
+    "word": "separation",
+    "pos": "n.",
+    "cn_def": "分離；分開",
+    "en_def": "the state of being apart from someone",
+    "sentence": "A: Why did the company give the overseas engineers a longer holiday this year, even though the factory in Vietnam is very busy with new orders? B: Many of them suffered from a long {{BLANK}} from their families, so the managers believed a month at home would improve their health and their work.",
+    "cn": "A：為什麼公司今年給海外工程師更長的假期，即使越南工廠因新訂單非常忙碌？ B：他們很多人承受與家人長期【分離】之苦，所以經理們認為回家一個月能改善他們的健康和工作表現。"
+  },
+  {
+    "word": "final",
+    "pos": "adj.",
+    "cn_def": "最後的",
+    "en_def": "last; coming at the end",
+    "sentence": "A: Is tomorrow really the {{BLANK}} day for Ms. Lin at the front desk, or will she still come in next week to train the new receptionist we hired? B: Tomorrow is her last day, so we have ordered a cake and a card that everyone in the lobby can sign before lunch.",
+    "cn": "A：明天真的是櫃檯林小姐的【最後】一天嗎？還是她下週還會來訓練我們新聘的接待員？ B：明天是她最後一天上班，所以我們訂了蛋糕和卡片，讓大廳的每個人午餐前都能簽名。"
+  },
+  {
+    "word": "miss",
+    "pos": "v.",
+    "cn_def": "想念",
+    "en_def": "to feel sad because someone or something is not with you",
+    "sentence": "A: Now that you have moved to the new branch in Kaohsiung, what part of working at the head office in Taipei do you think about most often? B: I really {{BLANK}} my old team and our Friday lunches together, although the people here are friendly and the view from my new desk is wonderful.",
+    "cn": "A：既然你已經調到高雄的新分公司，你最常想起在台北總公司工作的哪一部分？ B：我真的很【想念】我以前的團隊和我們每週五的午餐聚會，雖然這裡的人很友善，而且我新座位的景色也很棒。"
+  },
+  {
+    "word": "memories",
+    "pos": "n.",
+    "cn_def": "回憶",
+    "en_def": "things that you remember from the past",
+    "sentence": "A: What are you going to put in the photo album that we are giving to Mr. Huang at his retirement party next Thursday evening? B: We collected pictures from company trips, award ceremonies, and year-end parties, so the album will be full of happy {{BLANK}} from his thirty years with us.",
+    "cn": "A：下週四晚上黃先生的退休派對上，我們要送他的相簿裡會放些什麼？ B：我們收集了員工旅遊、頒獎典禮和尾牙的照片，所以這本相簿會充滿他在我們公司三十年的快樂【回憶】。"
+  },
+  {
+    "word": "remember",
+    "pos": "v.",
+    "cn_def": "記得",
+    "en_def": "to keep something in your mind; not to forget",
+    "sentence": "A: Before you move back to Canada next week, is there anything you would like the marketing team to do for you as a farewell gift? B: Just {{BLANK}} to send me photos of the new product launch in December, because I worked on that campaign for months and really want to see the results.",
+    "cn": "A：你下週搬回加拿大之前，有沒有什麼希望行銷團隊為你做的，當作送別禮物？ B：只要【記得】把十二月新產品發表會的照片寄給我就好，因為我為那個活動努力了好幾個月，真的很想看看成果。"
+  },
+  {
+    "word": "cherish",
+    "pos": "v.",
+    "cn_def": "珍惜",
+    "en_def": "to love and care about something very much",
+    "sentence": "A: How did you feel when the interns gave you that handmade card on their last afternoon at the design studio before they returned to university? B: I will always {{BLANK}} it, because each of them wrote a kind message about what they had learned and how much they enjoyed working with me.",
+    "cn": "A：實習生在回大學前、在設計工作室的最後一個下午送你那張手作卡片時，你有什麼感受？ B：我會永遠【珍惜】它，因為他們每個人都寫了貼心的話，說明他們學到了什麼，以及多麼喜歡和我一起工作。"
+  },
+  {
+    "word": "sad",
+    "pos": "adj.",
+    "cn_def": "難過的；傷心的",
+    "en_def": "unhappy",
+    "sentence": "A: Why does everyone in the accounting department look so quiet this morning, even though we finished the annual report two days before the deadline? B: They just heard that their supervisor is leaving the company at the end of the month, and they feel {{BLANK}} because she has been a wonderful leader for many years.",
+    "cn": "A：為什麼會計部的每個人今天早上看起來都這麼安靜，即使我們比截止日提早兩天完成了年度報告？ B：他們剛聽說主管月底要離職，所以感到很【難過】，因為她這些年來一直是很棒的領導者。"
+  },
+  {
+    "word": "emotional",
+    "pos": "adj.",
+    "cn_def": "情緒激動的；感人的",
+    "en_def": "showing strong feelings",
+    "sentence": "A: Did Mr. Park give a long speech at his farewell dinner last night, or did he just thank everyone quickly and sit down? B: He tried to speak for a few minutes, but he became very {{BLANK}} when he talked about the first customers he met, and several people at our table started crying too.",
+    "cn": "A：朴先生昨晚的歡送晚宴上有發表很長的演講嗎？還是他只是很快地謝謝大家就坐下了？ B：他試著講了幾分鐘，但談到他遇到的第一批客戶時變得非常【激動】，我們那桌好幾個人也跟著哭了。"
+  },
+  {
+    "word": "tearful",
+    "pos": "adj.",
+    "cn_def": "含淚的；哭泣的",
+    "en_def": "crying or almost crying",
+    "sentence": "A: How was the scene at the airport when the exchange students from Japan said goodbye to their host families after the six-week business English program? B: It was a {{BLANK}} farewell, because many of the students and parents could not stop crying even after the boarding announcement was made.",
+    "cn": "A：為期六週的商用英語課程結束後，日本交換學生在機場和接待家庭道別時，現場情況如何？ B：那是一場【含淚的】告別，因為很多學生和家長即使在登機廣播響起後仍止不住哭泣。"
+  },
+  {
+    "word": "hug",
+    "pos": "n.",
+    "cn_def": "擁抱",
+    "en_def": "the act of holding someone close in your arms",
+    "sentence": "A: Was it appropriate to give our Australian supplier a {{BLANK}} at the end of the trade fair, or should I have offered a handshake instead? B: Since you have worked closely with her for five years and she opened her arms first, it was a warm and natural way to say goodbye after such a successful week.",
+    "cn": "A：商展結束時給我們的澳洲供應商一個【擁抱】恰當嗎？還是我應該改成握手？ B：既然你和她密切合作了五年，而且是她先張開雙臂的，在如此成功的一週之後，這是很溫暖又自然的道別方式。"
+  },
+  {
+    "word": "handshake",
+    "pos": "n.",
+    "cn_def": "握手",
+    "en_def": "the act of holding and shaking another person's hand",
+    "sentence": "A: What is the most polite way to end a first meeting with a new client from Germany, especially when we do not know each other well yet? B: A firm {{BLANK}} and a short thank-you for their time are usually enough, and you can follow up with an email the next morning to confirm the details.",
+    "cn": "A：和來自德國的新客戶第一次會面結束時，最禮貌的方式是什麼，尤其是我們彼此還不太熟的時候？ B：一個有力的【握手】加上簡短感謝他們撥冗通常就夠了，你可以隔天早上再寄電子郵件確認細節。"
+  },
+  {
+    "word": "wave",
+    "pos": "v.",
+    "cn_def": "揮手",
+    "en_def": "to move your hand to say hello or goodbye",
+    "sentence": "A: Did the tour guide come to the hotel lobby to see our group off when the bus left for the airport early on Sunday morning? B: Yes, she stood outside the entrance and continued to {{BLANK}} at us until the bus turned the corner, which made everyone feel very welcome and appreciated.",
+    "cn": "A：週日一大早巴士出發前往機場時，導遊有到飯店大廳為我們團送行嗎？ B：有，她站在入口外，一直向我們【揮手】直到巴士轉過街角，讓大家都覺得很受歡迎、很受重視。"
+  },
+  {
+    "word": "wish",
+    "pos": "v.",
+    "cn_def": "祝福；祝願",
+    "en_def": "to hope that someone will have something good",
+    "sentence": "A: What should I write in the card for Daniel, who is leaving our team to start his own coffee business downtown next month? B: You could {{BLANK}} him success with his new shop and mention that we will all come to visit on the opening day with our families and friends.",
+    "cn": "A：Daniel 下個月要離開我們團隊，在市中心開自己的咖啡店，我該在給他的卡片上寫什麼？ B：你可以【祝】他新店生意成功，並提到我們開幕那天都會帶家人和朋友去捧場。"
+  },
+  {
+    "word": "take care",
+    "pos": "phr.",
+    "cn_def": "保重",
+    "en_def": "a friendly way to say goodbye, meaning look after yourself",
+    "sentence": "A: Is there anything special you want to tell your assistant before you leave for your three-month training course at our London headquarters? B: I gave her a list of tasks for each week, and then I said, \"{{BLANK}}, and call me if anything urgent happens with the Johnson account while I am away.\"",
+    "cn": "A：你出發前往倫敦總部參加三個月的培訓課程之前，有什麼特別的話要對你的助理說嗎？ B：我給了她一份每週的工作清單，然後說：「【保重】，如果我不在時 Johnson 的案子有任何緊急狀況，打電話給我。」"
+  },
+  {
+    "word": "see you again",
+    "pos": "phr.",
+    "cn_def": "再見；希望再見到你",
+    "en_def": "said when you hope to meet someone another time",
+    "sentence": "A: What did the hotel manager say to the conference guests as they checked out on the last day of the international medical forum? B: She thanked them for choosing the hotel, gave each person a small gift, and said, \"We hope to {{BLANK}} at next year's forum in this ballroom.\"",
+    "cn": "A：國際醫學論壇最後一天，與會來賓退房時，飯店經理對他們說了什麼？ B：她感謝他們選擇這家飯店，送每個人一份小禮物，並說：「希望明年的論壇能在這個宴會廳【再見到你們】。」"
+  },
+  {
+    "word": "until we meet again",
+    "pos": "phr.",
+    "cn_def": "後會有期",
+    "en_def": "said as goodbye when you hope to meet later",
+    "sentence": "A: How did the CEO end her speech at the closing ceremony for the branch office that is shutting down after twenty years in the city? B: She thanked every employee for their hard work and loyalty, raised her glass of champagne, and said, \"{{BLANK}}, please stay in touch and look after one another.\"",
+    "cn": "A：在市區營運二十年後即將關閉的分公司結業典禮上，執行長如何結束她的演講？ B：她感謝每位員工的辛勤付出與忠誠，舉起香檳杯說：「【後會有期】，請保持聯絡，互相照顧。」"
+  },
+  {
+    "word": "future",
+    "pos": "n.",
+    "cn_def": "未來；前途",
+    "en_def": "the time that will come",
+    "sentence": "A: What did you tell the young engineer who is leaving us to study for a master's degree in Germany this autumn? B: I told him that he has a bright {{BLANK}} ahead of him, and that our company would be happy to hire him again after he finishes his studies.",
+    "cn": "A：今年秋天要離開我們去德國攻讀碩士的年輕工程師，你對他說了什麼？ B：我告訴他，他前面有光明的【未來】，而且他完成學業後，我們公司很樂意再次聘用他。"
+  },
+  {
+    "word": "journey",
+    "pos": "n.",
+    "cn_def": "旅程",
+    "en_def": "a trip from one place to another",
+    "sentence": "A: How long will it take Ms. Wu to travel from Taipei to her new position at the branch office in Toronto next Monday? B: The {{BLANK}} takes about fifteen hours with one stop in Vancouver, so we packed some snacks and a travel pillow in her farewell gift bag.",
+    "cn": "A：吳小姐下週一從台北前往多倫多分公司就任新職，要花多久時間？ B：這趟【旅程】大約要十五個小時，中途在溫哥華停一站，所以我們在她的送別禮袋裡放了一些零食和旅行枕。"
+  },
+  {
+    "word": "appreciate",
+    "pos": "v.",
+    "cn_def": "感激；感謝",
+    "en_def": "to be thankful for something",
+    "sentence": "A: Why did the retiring chef stay late after his last shift to shake hands with every kitchen worker and waiter in the restaurant? B: He said, \"I really {{BLANK}} all your hard work over the years,\" and he told them that the restaurant's success belonged to all of them, not just to him.",
+    "cn": "A：為什麼那位即將退休的主廚在最後一班後留到很晚，和餐廳裡每位廚房員工和服務生握手？ B：他說：「我真的很【感激】你們這些年的辛勤工作。」還告訴他們餐廳的成功屬於所有人，不只是他一個人。"
+  },
+  {
+    "word": "gratitude",
+    "pos": "n.",
+    "cn_def": "感激；感謝之意",
+    "en_def": "the feeling of being thankful",
+    "sentence": "A: What gift did the sales team decide to give their manager when she announced that she was retiring after twenty-five years with the company? B: They bought her a beautiful watch with a short message on the back to express their {{BLANK}} for her patience, advice, and support.",
+    "cn": "A：經理宣布在公司服務二十五年後要退休時，業務團隊決定送她什麼禮物？ B：他們買了一支漂亮的手錶，背面刻著簡短訊息，表達他們對她的耐心、建議和支持的【感謝】。"
+  },
+  {
+    "word": "friendship",
+    "pos": "n.",
+    "cn_def": "友誼",
+    "en_def": "a relationship between friends",
+    "sentence": "A: Even though you are moving to a competitor in Hong Kong next month, will you still keep in contact with the people in our department? B: Of course, our {{BLANK}} is more important than any job, and I have already invited everyone to visit me and try the dim sum near my new apartment.",
+    "cn": "A：雖然你下個月要跳槽到香港的競爭對手公司，你還會和我們部門的人保持聯絡嗎？ B：當然，我們的【友誼】比任何工作都重要，我已經邀請大家來找我，嚐嚐我新公寓附近的港式點心。"
+  },
+  {
+    "word": "support",
+    "pos": "n.",
+    "cn_def": "支持；支援",
+    "en_def": "help and encouragement",
+    "sentence": "A: Why did Kevin thank the IT team so warmly in his goodbye email before he left for his new job in Singapore? B: Their {{BLANK}} helped him finish the difficult system upgrade last year, and he said he could never have succeeded without their help late at night.",
+    "cn": "A：Kevin 離職去新加坡就任新工作前，為什麼在他的告別郵件裡如此熱情地感謝資訊團隊？ B：他們的【支持】幫助他完成了去年那次困難的系統升級，他說如果沒有他們深夜的協助，他絕對不可能成功。"
+  },
+  {
+    "word": "encouragement",
+    "pos": "n.",
+    "cn_def": "鼓勵",
+    "en_def": "words or actions that give someone confidence",
+    "sentence": "A: How did the new graduate feel about leaving the internship program at the bank after six busy months in the customer service department? B: She was a little sad, but her mentor's {{BLANK}} gave her the confidence to apply for a full-time position at a larger bank in the city.",
+    "cn": "A：這位新畢業生在銀行客服部忙了六個月後，對於離開實習計畫有什麼感受？ B：她有點難過，但她導師的【鼓勵】給了她信心，去申請市區一家更大銀行的全職職位。"
+  },
+  {
+    "word": "respect",
+    "pos": "n.",
+    "cn_def": "尊敬；敬重",
+    "en_def": "a feeling of admiring someone for their good qualities",
+    "sentence": "A: Why did so many former employees come back to attend the farewell party for the factory director on Saturday afternoon? B: They had great {{BLANK}} for him because he always treated workers fairly, listened to their ideas, and made safety the top priority in every department.",
+    "cn": "A：為什麼這麼多前員工週六下午回來參加廠長的歡送會？ B：他們非常【尊敬】他，因為他總是公平對待員工、傾聽他們的想法，而且在每個部門都把安全放在第一位。"
+  },
+  {
+    "word": "kindness",
+    "pos": "n.",
+    "cn_def": "親切；好意",
+    "en_def": "the quality of being friendly, caring and helpful",
+    "sentence": "A: What did the guest from Brazil write in the hotel's comment book before she checked out and took a taxi to the airport? B: She thanked the staff for their {{BLANK}} during her stay, especially the receptionist who helped her find a pharmacy late at night when she felt sick.",
+    "cn": "A：那位巴西房客退房搭計程車去機場前，在飯店的留言簿上寫了什麼？ B：她感謝員工在她住宿期間的【親切友善】，特別是那位在她深夜身體不適時幫她找藥局的接待員。"
+  },
+  {
+    "word": "grateful",
+    "pos": "adj.",
+    "cn_def": "感激的",
+    "en_def": "feeling thankful",
+    "sentence": "A: How did you feel when your coworkers organized a surprise farewell lunch for you on your last day at the travel agency? B: I was really {{BLANK}}, because I did not expect anything special, and they even prepared a slideshow of all the trips we planned together.",
+    "cn": "A：你在旅行社上班最後一天，同事為你辦了一場驚喜歡送午餐時，你有什麼感受？ B：我真的很【感激】，因為我沒預期會有什麼特別安排，他們甚至準備了我們一起規劃過的所有旅程的投影片。"
+  },
+  {
+    "word": "hopeful",
+    "pos": "adj.",
+    "cn_def": "抱有希望的",
+    "en_def": "feeling that something good will happen",
+    "sentence": "A: Do you think the director will return to our company after she finishes her two-year project with the government in the capital? B: I am {{BLANK}} that she will, because she said at her farewell dinner that she would miss us and wanted to work with this team again someday.",
+    "cn": "A：你認為主任在首都完成她兩年的政府專案後，會回到我們公司嗎？ B：我【抱持希望】她會回來，因為她在歡送晚宴上說她會想念我們，並希望有一天能再和這個團隊合作。"
+  },
+  {
+    "word": "bittersweet",
+    "pos": "adj.",
+    "cn_def": "苦樂參半的",
+    "en_def": "happy and sad at the same time",
+    "sentence": "A: How do you feel about leaving the small company where you started your career, now that you have accepted that excellent job offer from a large bank? B: It is a {{BLANK}} moment for me, because I am excited about the new challenge, but I will be sad to leave such a caring team.",
+    "cn": "A：既然你已經接受了一家大銀行的優渥職缺，要離開你開始職涯的這家小公司，你有什麼感受？ B：對我來說這是【苦樂參半】的時刻，因為我對新挑戰感到興奮，但要離開這麼有愛心的團隊也會很難過。"
+  },
+  {
+    "word": "all the best",
+    "pos": "phr.",
+    "cn_def": "祝一切順利",
+    "en_def": "used to wish someone good luck",
+    "sentence": "A: What did you write in the farewell card for the receptionist who is leaving next Friday to work at a five-star hotel in Tokyo? B: I wrote, \"{{BLANK}} in your new job, and thank you for always greeting our visitors with such a warm and friendly smile.\"",
+    "cn": "A：櫃檯接待員下週五要離職去東京一家五星級飯店工作，你在給她的送別卡上寫了什麼？ B：我寫了：「祝你新工作【一切順利】，也謝謝你總是用溫暖友善的笑容迎接我們的訪客。」"
+  },
+  {
+    "word": "safe travels",
+    "pos": "phr.",
+    "cn_def": "一路平安",
+    "en_def": "used to wish someone a safe trip",
+    "sentence": "A: What did the receptionist say to the sales team as they left the office for the airport on their way to the trade show in Las Vegas? B: She handed them their printed boarding passes, reminded them to check the weather, and said, \"{{BLANK}}, and good luck with the new customers!\"",
+    "cn": "A：業務團隊離開辦公室前往機場、要去拉斯維加斯參加商展時，接待員對他們說了什麼？ B：她把印好的登機證交給他們，提醒他們查看天氣，並說：「【一路平安】，祝你們開發新客戶順利！」"
+  }
+];
+
+const MCQS = [
+  {
+    "q": "The airline apologized for the late _____ of Flight 203. Passengers received meal vouchers while they waited at the gate.",
+    "options": [
+      "departure",
+      "friendship",
+      "kindness",
+      "gratitude"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+  },
+  {
+    "q": "Please _____ your room key at the front desk when you check out. Our staff will return your deposit right away.",
+    "options": [
+      "wave",
+      "cherish",
+      "leave",
+      "wish"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+  },
+  {
+    "q": "After ten years of working together, the two founders decided to _____ ways. They sold the company and started separate businesses.",
+    "options": [
+      "miss",
+      "part",
+      "wave",
+      "remember"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+  },
+  {
+    "q": "The new policy shortens the long _____ between overseas staff and their families. Workers can now fly home every three months.",
+    "options": [
+      "handshake",
+      "kindness",
+      "gratitude",
+      "separation"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+  },
+  {
+    "q": "Applicants must submit all documents before the _____ deadline on March 31. Late applications will not be accepted under any circumstances.",
+    "options": [
+      "final",
+      "tearful",
+      "grateful",
+      "hopeful"
+    ],
+    "answer": 0,
+    "vocabIndex": 4
+  },
+  {
+    "q": "If you do not hurry, you will _____ the last train to the airport. It leaves the central station at eleven forty.",
+    "options": [
+      "cherish",
+      "appreciate",
+      "miss",
+      "wish"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+  },
+  {
+    "q": "The museum's new exhibit brings back childhood _____ for many older visitors. It displays toys and photos from the 1960s.",
+    "options": [
+      "separation",
+      "departure",
+      "encouragement",
+      "memories"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+  },
+  {
+    "q": "Please _____ to sign the visitor log at the reception desk. Security staff will check the list at the end of each day.",
+    "options": [
+      "cherish",
+      "remember",
+      "wave",
+      "part"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+  },
+  {
+    "q": "Our founder taught us to _____ every loyal customer. That simple idea has guided the company's service for over forty years.",
+    "options": [
+      "leave",
+      "part",
+      "cherish",
+      "wave"
+    ],
+    "answer": 2,
+    "vocabIndex": 8
+  },
+  {
+    "q": "Employees were _____ to hear that the popular cafeteria would close next month. Many had eaten lunch there every day for years.",
+    "options": [
+      "sad",
+      "final",
+      "tearful",
+      "hopeful"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+  },
+  {
+    "q": "The movie's ending was so _____ that many viewers left the theater in tears. Critics praised the lead actor's moving performance.",
+    "options": [
+      "final",
+      "emotional",
+      "grateful",
+      "hopeful"
+    ],
+    "answer": 1,
+    "vocabIndex": 10
+  },
+  {
+    "q": "After the long war, the soldier had a _____ but joyful reunion with his mother at the airport. They cried for several minutes.",
+    "options": [
+      "grateful",
+      "final",
+      "sad",
+      "tearful"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+  },
+  {
+    "q": "The coach gave each player a warm _____ after the championship game. The team had worked hard all season for this victory.",
+    "options": [
+      "hug",
+      "journey",
+      "departure",
+      "gratitude"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+  },
+  {
+    "q": "In many Western countries, a firm _____ is the usual greeting at a job interview. It shows confidence and good manners.",
+    "options": [
+      "journey",
+      "separation",
+      "gratitude",
+      "handshake"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+  },
+  {
+    "q": "Fans lined the streets to _____ flags as the team bus passed by. The city celebrated the championship all afternoon.",
+    "options": [
+      "part",
+      "miss",
+      "wave",
+      "remember"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+  },
+  {
+    "q": "On behalf of the board, I _____ you every success in your new role. We are confident you will lead the team well.",
+    "options": [
+      "remember",
+      "wish",
+      "cherish",
+      "appreciate"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+  },
+  {
+    "q": "The company plans to open three more branches in the near _____. Details will be announced at next month's shareholder meeting.",
+    "options": [
+      "future",
+      "journey",
+      "departure",
+      "respect"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+  },
+  {
+    "q": "The train _____ from Taipei to Kaohsiung takes about two hours. Passengers can buy snacks and drinks from the trolley service.",
+    "options": [
+      "future",
+      "journey",
+      "separation",
+      "friendship"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+  },
+  {
+    "q": "We would _____ it if you could reply to this survey by Friday. Your feedback will help us improve our services.",
+    "options": [
+      "remember",
+      "miss",
+      "part",
+      "appreciate"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+  },
+  {
+    "q": "The mayor expressed deep _____ to the volunteers who cleaned the park after the storm. Each received a certificate of thanks.",
+    "options": [
+      "separation",
+      "journey",
+      "gratitude",
+      "departure"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+  },
+  {
+    "q": "The two cities signed an agreement to strengthen their _____ through student exchanges. The first group will visit next spring.",
+    "options": [
+      "friendship",
+      "departure",
+      "separation",
+      "handshake"
+    ],
+    "answer": 0,
+    "vocabIndex": 23
+  },
+  {
+    "q": "Thanks to strong financial _____ from local businesses, the library was able to extend its opening hours. Visitors are very pleased.",
+    "options": [
+      "hug",
+      "journey",
+      "separation",
+      "support"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+  },
+  {
+    "q": "With her manager's _____, Lisa signed up for the advanced accounting course. She passed the exam with excellent results.",
+    "options": [
+      "journey",
+      "encouragement",
+      "handshake",
+      "separation"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+  },
+  {
+    "q": "The new supervisor quickly earned the _____ of her staff by listening carefully to their ideas. Productivity rose within months.",
+    "options": [
+      "respect",
+      "journey",
+      "departure",
+      "separation"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+  },
+  {
+    "q": "The hotel guest wrote a letter thanking the staff for their _____ during her stay. She especially praised the helpful night manager.",
+    "options": [
+      "separation",
+      "departure",
+      "kindness",
+      "journey"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+  },
+  {
+    "q": "We are very _____ for your quick response to our request. The documents arrived just in time for the meeting.",
+    "options": [
+      "tearful",
+      "final",
+      "bittersweet",
+      "grateful"
+    ],
+    "answer": 3,
+    "vocabIndex": 28
+  },
+  {
+    "q": "Analysts remain _____ that the economy will recover by the end of the year. Consumer spending has already started to rise.",
+    "options": [
+      "tearful",
+      "hopeful",
+      "final",
+      "emotional"
+    ],
+    "answer": 1,
+    "vocabIndex": 29
+  },
+  {
+    "q": "Closing the family bakery after fifty years was a _____ experience for the owners. They felt sad but proud of their success.",
+    "options": [
+      "grateful",
+      "hopeful",
+      "bittersweet",
+      "final"
+    ],
+    "answer": 2,
+    "vocabIndex": 30
+  },
+  {
+    "q": "Please arrive at the airport at least two hours before your scheduled _____. Check-in counters close forty minutes before each flight.",
+    "options": [
+      "departure",
+      "friendship",
+      "separation",
+      "kindness"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+  },
+  {
+    "q": "Customers _____ fast delivery, so we now offer free next-day shipping. Sales have increased by twenty percent since the change.",
+    "options": [
+      "wave",
+      "part",
+      "leave",
+      "appreciate"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+  }
+];
+
+const LOOKUP = {
+  "departure": {
+    "pos": "n.",
+    "en_def": "the act of leaving a place or a job",
+    "cn_def": "離開；離職；出發"
+  },
+  "leave": {
+    "pos": "v.",
+    "en_def": "to go away from a place or a person",
+    "cn_def": "離開"
+  },
+  "part": {
+    "pos": "v.",
+    "en_def": "to leave someone; to go away from each other",
+    "cn_def": "分開；分別"
+  },
+  "separation": {
+    "pos": "n.",
+    "en_def": "the state of being apart from someone",
+    "cn_def": "分離；分開"
+  },
+  "final": {
+    "pos": "adj.",
+    "en_def": "last; coming at the end",
+    "cn_def": "最後的"
+  },
+  "miss": {
+    "pos": "v.",
+    "en_def": "to feel sad because someone or something is not with you",
+    "cn_def": "想念"
+  },
+  "memories": {
+    "pos": "n.",
+    "en_def": "things that you remember from the past",
+    "cn_def": "回憶"
+  },
+  "remember": {
+    "pos": "v.",
+    "en_def": "to keep something in your mind; not to forget",
+    "cn_def": "記得"
+  },
+  "cherish": {
+    "pos": "v.",
+    "en_def": "to love and care about something very much",
+    "cn_def": "珍惜"
+  },
+  "sad": {
+    "pos": "adj.",
+    "en_def": "unhappy",
+    "cn_def": "難過的；傷心的"
+  },
+  "emotional": {
+    "pos": "adj.",
+    "en_def": "showing strong feelings",
+    "cn_def": "情緒激動的；感人的"
+  },
+  "tearful": {
+    "pos": "adj.",
+    "en_def": "crying or almost crying",
+    "cn_def": "含淚的；哭泣的"
+  },
+  "hug": {
+    "pos": "n.",
+    "en_def": "the act of holding someone close in your arms",
+    "cn_def": "擁抱"
+  },
+  "handshake": {
+    "pos": "n.",
+    "en_def": "the act of holding and shaking another person's hand",
+    "cn_def": "握手"
+  },
+  "wave": {
+    "pos": "v.",
+    "en_def": "to move your hand to say hello or goodbye",
+    "cn_def": "揮手"
+  },
+  "wish": {
+    "pos": "v.",
+    "en_def": "to hope that someone will have something good",
+    "cn_def": "祝福；祝願"
+  },
+  "take care": {
+    "pos": "phr.",
+    "en_def": "a friendly way to say goodbye, meaning look after yourself",
+    "cn_def": "保重"
+  },
+  "see you again": {
+    "pos": "phr.",
+    "en_def": "said when you hope to meet someone another time",
+    "cn_def": "再見；希望再見到你"
+  },
+  "until we meet again": {
+    "pos": "phr.",
+    "en_def": "said as goodbye when you hope to meet later",
+    "cn_def": "後會有期"
+  },
+  "future": {
+    "pos": "n.",
+    "en_def": "the time that will come",
+    "cn_def": "未來；前途"
+  },
+  "journey": {
+    "pos": "n.",
+    "en_def": "a trip from one place to another",
+    "cn_def": "旅程"
+  },
+  "appreciate": {
+    "pos": "v.",
+    "en_def": "to be thankful for something",
+    "cn_def": "感激；感謝"
+  },
+  "gratitude": {
+    "pos": "n.",
+    "en_def": "the feeling of being thankful",
+    "cn_def": "感激；感謝之意"
+  },
+  "friendship": {
+    "pos": "n.",
+    "en_def": "a relationship between friends",
+    "cn_def": "友誼"
+  },
+  "support": {
+    "pos": "n.",
+    "en_def": "help and encouragement",
+    "cn_def": "支持；支援"
+  },
+  "encouragement": {
+    "pos": "n.",
+    "en_def": "words or actions that give someone confidence",
+    "cn_def": "鼓勵"
+  },
+  "respect": {
+    "pos": "n.",
+    "en_def": "a feeling of admiring someone for their good qualities",
+    "cn_def": "尊敬；敬重"
+  },
+  "kindness": {
+    "pos": "n.",
+    "en_def": "the quality of being friendly, caring and helpful",
+    "cn_def": "親切；好意"
+  },
+  "grateful": {
+    "pos": "adj.",
+    "en_def": "feeling thankful",
+    "cn_def": "感激的"
+  },
+  "hopeful": {
+    "pos": "adj.",
+    "en_def": "feeling that something good will happen",
+    "cn_def": "抱有希望的"
+  },
+  "bittersweet": {
+    "pos": "adj.",
+    "en_def": "happy and sad at the same time",
+    "cn_def": "苦樂參半的"
+  },
+  "all the best": {
+    "pos": "phr.",
+    "en_def": "used to wish someone good luck",
+    "cn_def": "祝一切順利"
+  },
+  "safe travels": {
+    "pos": "phr.",
+    "en_def": "used to wish someone a safe trip",
+    "cn_def": "一路平安"
+  }
+};
+
+const EXTRA_GLOSSES = {};
