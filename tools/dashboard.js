@@ -61,6 +61,21 @@ ZONES.forEach(z => {
   const span = document.createElement("span");
   span.textContent = `${cfg.units.length} ${cfg.unitName.toLowerCase()}s · ${cfg.blurb}`;
   h2.append(span);
+  if (Array.isArray(cfg.links) && cfg.links.length) { // e.g. the topic's Google Doc word list and its full-topic quiz
+    const row = document.createElement("p");
+    row.className = "zone-links";
+    cfg.links.forEach(l => {
+      const a = document.createElement("a");
+      a.className = "mini-cards";
+      a.href = l.href;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = l.label;
+      a.style.marginRight = "8px";
+      row.append(a);
+    });
+    panel.querySelector(".zone-head").append(row);
+  }
   zonePanels.append(panel);
 });
 const lastZone = {};
