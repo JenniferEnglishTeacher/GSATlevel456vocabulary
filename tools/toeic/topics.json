@@ -61445,6 +61445,650 @@
    }
   ]
  },
+ "100": {
+  "theme": "Decoration 裝潢佈置",
+  "source": "https://www.examword.com/group-topic/decoration",
+  "VOCAB": [
+   {
+    "word": "redesign",
+    "pos": "v.",
+    "en_def": "to plan and change the look or layout of something again",
+    "cn_def": "重新設計",
+    "sentence": "A: Our customers keep saying the waiting area in the bank looks old and dark, so what is the manager planning to do about it this year? B: She has hired an architect to {{BLANK}} the whole space, adding bright lights, softer chairs and a small coffee corner so that people feel more relaxed while they wait.",
+    "cn": "A：客戶一直說銀行的等候區看起來又舊又暗，經理今年打算怎麼處理？ B：她請了一位建築師來【重新設計】整個空間，加入明亮的燈光、更柔軟的椅子和一個小咖啡角，讓人們等候時感覺更放鬆。",
+    "collocation": "redesign the office layout 重新設計辦公室格局"
+   },
+   {
+    "word": "utilitarian",
+    "pos": "adj.",
+    "en_def": "made to be useful and practical, not beautiful",
+    "cn_def": "實用的；講求實效的",
+    "sentence": "A: Why does the new staff kitchen look so plain, with only metal shelves, white walls and simple plastic chairs instead of nice decorations? B: The building manager wanted a {{BLANK}} room that is easy to clean and cheap to repair, because hundreds of workers use it every day and things break quickly.",
+    "cn": "A：新的員工廚房為什麼看起來這麼簡陋，只有金屬架、白牆和簡單的塑膠椅，而沒有漂亮的裝飾？ B：大樓經理想要一個好清潔、修理又便宜的【實用】空間，因為每天有數百名員工使用，東西很快就會壞。",
+    "collocation": "a utilitarian design 實用取向的設計"
+   },
+   {
+    "word": "style",
+    "pos": "n.",
+    "en_def": "a particular way something is designed or looks",
+    "cn_def": "風格；樣式",
+    "sentence": "A: The new hotel owner asked us to choose furniture for the lobby, but I'm not sure whether we should buy modern pieces or classic ones. B: Let's look at the building first, because the outside has old stone walls and tall windows, so a classic {{BLANK}} would probably match the guests' expectations better than bright plastic chairs.",
+    "cn": "A：新飯店老闆請我們為大廳挑選家具，但我不確定該買現代款還是經典款。 B：我們先看看建築本身吧，外觀有古老的石牆和高窗，所以經典的【風格】可能比鮮豔的塑膠椅更符合客人的期待。",
+    "collocation": "a modern style of furniture 現代風格的家具"
+   },
+   {
+    "word": "taste",
+    "pos": "n.",
+    "en_def": "the ability to choose things that look good",
+    "cn_def": "品味；鑑賞力",
+    "sentence": "A: Do you think the client will like the dark green walls and gold lamps that our team chose for her new restaurant downtown? B: I'm a little worried, because she told us during the first meeting that she has simple {{BLANK}} and prefers light colors, so we should prepare a second plan just in case.",
+    "cn": "A：你覺得客戶會喜歡我們團隊為她市中心新餐廳挑選的深綠色牆面和金色燈具嗎？ B：我有點擔心，因為她在第一次開會時告訴我們，她的【品味】簡約、偏好淺色，所以我們應該準備第二套方案以防萬一。",
+    "collocation": "have good taste in furniture 對家具很有品味"
+   },
+   {
+    "word": "measurement",
+    "pos": "n.",
+    "en_def": "the size or length of something that you find by measuring",
+    "cn_def": "測量；尺寸",
+    "sentence": "A: Can we order the new carpet for the conference room today, or do we need to wait until the designer visits again next week? B: We should wait, because the designer needs to take an exact {{BLANK}} of the floor first, and if the numbers are wrong, the store won't let us return the carpet.",
+    "cn": "A：我們今天可以訂會議室的新地毯嗎，還是要等設計師下週再來？ B：我們應該等，因為設計師得先做精確的地板【測量】，如果數字錯了，店家不會讓我們退貨。",
+    "collocation": "take accurate measurements 進行精確測量"
+   },
+   {
+    "word": "impetus",
+    "pos": "n.",
+    "en_def": "a reason or force that makes something happen",
+    "cn_def": "動力；推動力",
+    "sentence": "A: Why did the company finally decide to renovate the old office after talking about it for almost five years without doing anything? B: The {{BLANK}} came from a staff survey last spring, which showed that many employees felt tired and unhappy in the dark rooms, so the directors knew they had to act quickly.",
+    "cn": "A：公司談了將近五年都沒有行動，為什麼最後決定翻修舊辦公室？ B：【動力】來自去年春天的員工調查，調查顯示許多員工在昏暗的房間裡感到疲倦和不快樂，所以董事們知道必須迅速採取行動。",
+    "collocation": "provide the impetus for change 為改變提供動力"
+   },
+   {
+    "word": "comfort",
+    "pos": "n.",
+    "en_def": "a pleasant, relaxed feeling with no pain or worry",
+    "cn_def": "舒適；舒服",
+    "sentence": "A: Why are we spending so much money on new sofas and soft lights for the waiting room at the dental clinic this year? B: Many patients feel nervous before their treatment, so the clinic manager believes that their {{BLANK}} is very important, and a warm, relaxing room helps them feel calmer while they wait.",
+    "cn": "A：今年我們為什麼要花這麼多錢為牙科診所的候診室添購新沙發和柔和燈光？ B：許多病患在治療前會感到緊張，所以診所經理認為他們的【舒適】非常重要，溫暖放鬆的空間能幫助他們在等候時比較冷靜。",
+    "collocation": "designed for comfort 為舒適而設計"
+   },
+   {
+    "word": "slipcover",
+    "pos": "n.",
+    "en_def": "a cloth cover that fits over a sofa or chair and can be removed",
+    "cn_def": "（家具的）活動布套；沙發套",
+    "sentence": "A: The sofas in the hotel lounge have coffee stains all over them, but we don't have the budget to buy new ones this year, do we? B: No, but we can order a washable {{BLANK}} for each sofa, which costs much less, protects the old material and can be cleaned easily in the hotel laundry.",
+    "cn": "A：飯店交誼廳的沙發上到處都是咖啡漬，但我們今年沒有預算買新的，對吧？ B：沒錯，不過我們可以為每張沙發訂一個可水洗的【沙發套】，便宜很多，又能保護舊布料，還能在飯店洗衣房輕鬆清洗。",
+    "collocation": "a washable slipcover for the sofa 可水洗的沙發套"
+   },
+   {
+    "word": "capture",
+    "pos": "v.",
+    "en_def": "to show or express a feeling or quality well",
+    "cn_def": "捕捉；表現出",
+    "sentence": "A: What do you want the new lobby design to show visitors when they walk into our office building for the first time? B: We want it to {{BLANK}} the spirit of our company, so the designer is using bright colors, local art and plenty of plants to show that we are creative and friendly.",
+    "cn": "A：訪客第一次走進我們的辦公大樓時，你希望新大廳的設計向他們展現什麼？ B：我們希望它能【捕捉】公司的精神，所以設計師使用鮮豔的色彩、在地藝術和大量植物，來展現我們有創意又友善。",
+    "collocation": "capture the feeling of the brand 捕捉品牌的感覺"
+   },
+   {
+    "word": "variation",
+    "pos": "n.",
+    "en_def": "a slightly different form or version of something",
+    "cn_def": "變化；變化版本",
+    "sentence": "A: The client said she likes the blue design for the reception area, but she is worried it will feel too cold in winter. B: Then let's show her a {{BLANK}} of the same plan, with warmer wood colors and softer lighting, so she can compare both versions before she makes her final decision on Friday.",
+    "cn": "A：客戶說她喜歡接待區的藍色設計，但擔心冬天會感覺太冷。 B：那我們就給她看同一方案的另一個【變化版本】，用比較溫暖的木頭色和更柔和的燈光，讓她在星期五做最後決定前可以比較兩個版本。",
+    "collocation": "a slight variation in color 顏色上的些微變化"
+   },
+   {
+    "word": "freshen",
+    "pos": "v.",
+    "en_def": "to make something look newer, cleaner or more attractive",
+    "cn_def": "使煥然一新；使清新",
+    "sentence": "A: The meeting room looks old and boring, but we only have a small budget and two days before the investors arrive, right? B: That's right, so we can {{BLANK}} up the room with a few green plants, new cushions and a coat of light paint instead of buying expensive new furniture.",
+    "cn": "A：會議室看起來又舊又無聊，但我們預算不多，而且投資人兩天後就要來了，對吧？ B：對，所以我們可以用幾盆綠色植物、新靠墊和一層淺色油漆讓房間【煥然一新】，而不是買昂貴的新家具。",
+    "collocation": "freshen up a room 讓房間煥然一新"
+   },
+   {
+    "word": "vibe",
+    "pos": "n.",
+    "en_def": "the feeling or mood that a place gives you",
+    "cn_def": "氛圍；感覺",
+    "sentence": "A: What kind of feeling should the new café near the university have, since most of the customers will be students and young office workers? B: The owner wants a relaxed and friendly {{BLANK}}, so the designer is adding soft music, wooden tables and big windows that let in lots of natural light during the day.",
+    "cn": "A：大學附近的新咖啡廳應該營造什麼樣的感覺？因為大部分客人會是學生和年輕上班族。 B：老闆想要輕鬆友善的【氛圍】，所以設計師加入了輕柔的音樂、木頭桌子，以及白天能讓大量自然光進來的大窗戶。",
+    "collocation": "a relaxed vibe 輕鬆的氛圍"
+   },
+   {
+    "word": "impression",
+    "pos": "n.",
+    "en_def": "the opinion or feeling you get about someone or something",
+    "cn_def": "印象",
+    "sentence": "A: Why is the manager so worried about the old carpet and broken lamps in the reception area before Monday's meeting? B: Important clients are visiting us for the first time, and the reception area is the first thing they see, so she wants them to get a good {{BLANK}} of our company right away.",
+    "cn": "A：經理為什麼在星期一的會議前這麼擔心接待區的舊地毯和壞掉的燈？ B：重要客戶第一次來拜訪，接待區是他們最先看到的地方，所以她希望他們馬上對我們公司留下好【印象】。",
+    "collocation": "make a good first impression 留下良好的第一印象"
+   },
+   {
+    "word": "minimalism",
+    "pos": "n.",
+    "en_def": "a way of designing that uses very few, simple things",
+    "cn_def": "極簡主義",
+    "sentence": "A: Why does the new office have so few decorations, with only white walls, one long table and a single plant in the corner? B: The founder is a big fan of {{BLANK}}, and she believes that a simple space with fewer objects helps employees focus better and keeps the office easy to clean and organize.",
+    "cn": "A：新辦公室為什麼只有白牆、一張長桌和角落一盆植物，裝飾這麼少？ B：創辦人非常喜歡【極簡主義】，她相信物品較少的簡單空間能幫助員工更專心，也讓辦公室容易清潔和整理。",
+    "collocation": "a fan of minimalism 極簡主義的愛好者"
+   },
+   {
+    "word": "traditional",
+    "pos": "adj.",
+    "en_def": "following old ways or styles that have existed for a long time",
+    "cn_def": "傳統的",
+    "sentence": "A: The hotel in Kyoto wants to update its guest rooms, but do they plan to make everything look modern like a city hotel? B: No, they want to keep the {{BLANK}} wooden doors and paper screens, because many foreign tourists choose the hotel because it shows the local culture and history.",
+    "cn": "A：京都的那家飯店想翻新客房，他們打算把一切都改得像城市飯店一樣現代嗎？ B：不，他們想保留【傳統的】木門和紙屏風，因為很多外國遊客選擇這家飯店，正是因為它展現了當地的文化和歷史。",
+    "collocation": "traditional Japanese decor 傳統日式裝飾"
+   },
+   {
+    "word": "elaborate",
+    "pos": "adj.",
+    "en_def": "having many small parts or details; carefully planned",
+    "cn_def": "精心製作的；複雜精緻的",
+    "sentence": "A: Did you see the plans for the new ballroom at the hotel, with gold lamps, painted walls and carved columns everywhere? B: Yes, the design is very {{BLANK}}, and it will take the workers at least six months to finish, but the owner believes it will attract many rich couples who want luxury weddings.",
+    "cn": "A：你看過飯店新宴會廳的設計圖嗎？到處都是金色燈具、彩繪牆面和雕刻柱子。 B：看過，設計非常【精緻複雜】，工人至少要六個月才能完成，但老闆相信它會吸引許多想辦豪華婚禮的有錢新人。",
+    "collocation": "an elaborate design 精心複雜的設計"
+   },
+   {
+    "word": "fancy",
+    "pos": "adj.",
+    "en_def": "expensive, decorated, or not simple",
+    "cn_def": "花俏的；高級的",
+    "sentence": "A: Should we buy expensive crystal lights and velvet chairs for the new staff break room on the third floor? B: I don't think we need anything {{BLANK}}, because employees just want a clean, quiet place to eat lunch and rest, so simple tables and soft chairs will be more than enough.",
+    "cn": "A：我們應該為三樓新的員工休息室買昂貴的水晶燈和天鵝絨椅子嗎？ B：我覺得不需要任何【花俏的】東西，因為員工只想要一個乾淨安靜、能吃午餐和休息的地方，所以簡單的桌子和柔軟的椅子就綽綽有餘了。",
+    "collocation": "a fancy restaurant 高級餐廳"
+   },
+   {
+    "word": "molding",
+    "pos": "n.",
+    "en_def": "a decorative strip of wood or plaster along the edge of a wall or ceiling",
+    "cn_def": "（牆面或天花板的）裝飾線條；飾條",
+    "sentence": "A: The walls in the old meeting room look a little plain, but the manager doesn't want to change the paint color, does she? B: No, she likes the cream color, so we suggested adding white wooden {{BLANK}} along the top of the walls, which will make the room look more stylish without much cost.",
+    "cn": "A：舊會議室的牆看起來有點單調，但經理不想換油漆顏色，對嗎？ B：對，她喜歡奶油色，所以我們建議沿著牆的上緣加裝白色木製【飾條】，不用花太多錢就能讓房間看起來更有格調。",
+    "collocation": "decorative crown molding 裝飾性頂角線"
+   },
+   {
+    "word": "flaw",
+    "pos": "n.",
+    "en_def": "a small mark or fault that makes something not perfect",
+    "cn_def": "瑕疵；缺陷",
+    "sentence": "A: Why did the store manager refuse to accept the new marble tables that arrived at the shop this morning? B: She checked each table carefully and found a small {{BLANK}} on the surface of almost every one, so she sent them back and asked the supplier to deliver perfect ones before the opening.",
+    "cn": "A：店長今天早上為什麼拒收送到店裡的新大理石桌？ B：她仔細檢查了每張桌子，發現幾乎每張表面都有小【瑕疵】，所以她退貨並要求供應商在開幕前送來完美的桌子。",
+    "collocation": "a small flaw in the surface 表面上的小瑕疵"
+   },
+   {
+    "word": "weary",
+    "pos": "adj.",
+    "en_def": "tired, or bored with something after a long time",
+    "cn_def": "厭倦的；疲倦的",
+    "sentence": "A: Why does the director want to change the colors and furniture in the main office after only three years? B: She said many employees feel {{BLANK}} of the gray walls and dark desks, and she hopes brighter colors and more plants will give everyone more energy during long working days.",
+    "cn": "A：主管為什麼才過三年就想更換主辦公室的顏色和家具？ B：她說許多員工對灰色牆面和深色辦公桌感到【厭倦】，她希望更明亮的顏色和更多植物能讓大家在漫長的工作日裡更有活力。",
+    "collocation": "grow weary of the same design 對一成不變的設計感到厭倦"
+   },
+   {
+    "word": "illumination",
+    "pos": "n.",
+    "en_def": "light, or the way a place is lit",
+    "cn_def": "照明；光線",
+    "sentence": "A: The art gallery wants to show its new paintings next month, but the visitors complained that the rooms were too dark last time. B: Then we should improve the {{BLANK}} in every room by adding soft spotlights above each painting, so people can see the colors clearly without hurting their eyes.",
+    "cn": "A：美術館下個月要展出新畫作，但上次參觀者抱怨展間太暗。 B：那我們應該在每個展間的每幅畫上方加裝柔和的聚光燈來改善【照明】，讓人們能清楚看到色彩，又不會傷眼睛。",
+    "collocation": "improve the illumination 改善照明"
+   },
+   {
+    "word": "contemporary",
+    "pos": "adj.",
+    "en_def": "modern; belonging to the present time",
+    "cn_def": "當代的；現代的",
+    "sentence": "A: The bank wants its new branch to attract young customers, so what kind of design did the architect suggest at yesterday's meeting? B: She suggested a {{BLANK}} look with glass walls, simple furniture and digital screens, because younger people usually prefer spaces that feel up-to-date rather than old-fashioned.",
+    "cn": "A：銀行希望新分行能吸引年輕客戶，那建築師在昨天的會議上建議了什麼樣的設計？ B：她建議採用【當代的】風貌，有玻璃牆、簡約家具和數位螢幕，因為年輕人通常喜歡感覺新穎而非老派的空間。",
+    "collocation": "contemporary interior design 當代室內設計"
+   },
+   {
+    "word": "futuristic",
+    "pos": "adj.",
+    "en_def": "looking very modern, as if from the future",
+    "cn_def": "未來感的；未來派的",
+    "sentence": "A: Have you seen the new showroom that the electric car company opened downtown last week? B: Yes, it has a very {{BLANK}} design, with silver walls, blue lights and robots that greet visitors at the door, so it really feels like walking into a science fiction movie set in the next century.",
+    "cn": "A：你看過那家電動車公司上週在市中心開的新展示廳嗎？ B：看過，設計非常【有未來感】，有銀色牆面、藍色燈光，還有在門口迎接訪客的機器人，真的感覺像走進一部以下個世紀為背景的科幻電影。",
+    "collocation": "a futuristic building 具未來感的建築"
+   },
+   {
+    "word": "redecoration",
+    "pos": "n.",
+    "en_def": "the work of painting and decorating a place again",
+    "cn_def": "重新裝潢；重新佈置",
+    "sentence": "A: Why is the hotel restaurant closed for the whole month of March, even though it is usually very busy in spring? B: The restaurant is closed for {{BLANK}}, because the owners are painting the walls, replacing the old curtains and buying new tables, and they want everything to look fresh before the summer season.",
+    "cn": "A：飯店餐廳為什麼整個三月都不營業，明明春天通常很忙？ B：餐廳因【重新裝潢】而暫停營業，因為業主正在粉刷牆面、更換舊窗簾、購買新桌子，他們希望在夏季旺季前讓一切煥然一新。",
+    "collocation": "closed for redecoration 因重新裝潢暫停營業"
+   },
+   {
+    "word": "drapes",
+    "pos": "n.",
+    "en_def": "long, heavy curtains",
+    "cn_def": "（厚重的）窗簾；簾幕",
+    "sentence": "A: The sunlight in the meeting room is so strong in the afternoon that nobody can see the slides on the screen clearly. B: I'll ask the office manager to order some heavy {{BLANK}} for the windows, so we can close them during presentations and open them again when we want natural light.",
+    "cn": "A：會議室下午的陽光太強，沒人能看清楚螢幕上的投影片。 B：我會請辦公室經理為窗戶訂一些厚重的【窗簾】，這樣我們簡報時可以拉上，想要自然光時再拉開。",
+    "collocation": "draw the drapes 拉上窗簾"
+   },
+   {
+    "word": "fabric",
+    "pos": "n.",
+    "en_def": "cloth used for making clothes, curtains, or furniture covers",
+    "cn_def": "布料；織物",
+    "sentence": "A: Which material should we choose for the new chairs in the hotel lobby, leather or something softer? B: I'd choose a strong {{BLANK}} that is easy to clean, because hundreds of guests sit in the lobby every day, and leather can get scratched quickly by bags and suitcases.",
+    "cn": "A：飯店大廳的新椅子該選哪種材質，皮革還是更柔軟的東西？ B：我會選容易清潔的耐用【布料】，因為每天有數百位客人坐在大廳，皮革很容易被包包和行李箱刮傷。",
+    "collocation": "a soft cotton fabric 柔軟的棉質布料"
+   },
+   {
+    "word": "elongated",
+    "pos": "adj.",
+    "en_def": "longer and thinner than usual",
+    "cn_def": "加長的；狹長的",
+    "sentence": "A: The meeting room is very long and narrow, so what kind of table do you think will fit best for our weekly team meetings? B: An {{BLANK}} oval table would be perfect, because it follows the shape of the room, leaves space to walk around, and lets twelve people sit together and see the screen.",
+    "cn": "A：會議室又長又窄，你覺得什麼樣的桌子最適合我們每週的團隊會議？ B：【加長形的】橢圓桌會很完美，因為它順著房間的形狀，留有走動的空間，還能讓十二個人坐在一起看螢幕。",
+    "collocation": "an elongated table 狹長的桌子"
+   },
+   {
+    "word": "ceiling",
+    "pos": "n.",
+    "en_def": "the top inside surface of a room",
+    "cn_def": "天花板",
+    "sentence": "A: The new office feels a little dark and crowded, even though it has large windows and white walls, so what else can we do? B: We could paint the {{BLANK}} a very light color and hang a few simple lamps from it, because that will make the room look taller and much brighter.",
+    "cn": "A：新辦公室雖然有大窗戶和白牆，還是感覺有點暗又擁擠，我們還能做什麼？ B：我們可以把【天花板】漆成很淺的顏色，再從上面吊幾盞簡單的燈，這樣房間會看起來更高也更明亮。",
+    "collocation": "a high ceiling 挑高的天花板"
+   },
+   {
+    "word": "refreshing",
+    "pos": "adj.",
+    "en_def": "pleasantly new and different",
+    "cn_def": "令人耳目一新的；清新的",
+    "sentence": "A: What did the staff say about the new green walls and plants in the break room after the renovation was finished? B: Most of them said it was a {{BLANK}} change from the old gray room, and many people now enjoy spending their lunch break there instead of eating at their desks.",
+    "cn": "A：翻修完成後，員工對休息室新的綠色牆面和植物有什麼看法？ B：大部分人說，和以前灰暗的房間相比，這是個【令人耳目一新的】改變，現在很多人喜歡在那裡度過午休，而不是在座位上吃飯。",
+    "collocation": "a refreshing change 令人耳目一新的改變"
+   },
+   {
+    "word": "exterior",
+    "pos": "n.",
+    "en_def": "the outside part of a building or object",
+    "cn_def": "外部；外觀",
+    "sentence": "A: The inside of our store looks great after the renovation, but why are customers still walking past without coming in? B: I think the {{BLANK}} of the building still looks old and dirty, so we should paint the front, clean the windows and add a bright new sign above the door.",
+    "cn": "A：我們店內翻修後看起來很棒，但為什麼客人還是走過不進來？ B：我想是建築物的【外部】還是看起來又舊又髒，所以我們應該粉刷店面、清洗窗戶，並在門上方加一塊明亮的新招牌。",
+    "collocation": "paint the exterior of the building 粉刷建築物的外牆"
+   },
+   {
+    "word": "interior",
+    "pos": "n.",
+    "en_def": "the inside part of a building or room",
+    "cn_def": "內部；室內",
+    "sentence": "A: The new hotel looks very plain from the street, so why are so many travel magazines writing about it this month? B: The {{BLANK}} is what makes it special, because every guest room and hallway is decorated with local art, colorful tiles and handmade furniture from nearby villages.",
+    "cn": "A：新飯店從街上看起來很平凡，為什麼這個月有這麼多旅遊雜誌報導它？ B：它的【內部】才是特別之處，因為每間客房和走廊都用在地藝術、彩色磁磚和附近村莊的手工家具裝飾。",
+    "collocation": "the interior of the hotel 飯店的內部"
+   },
+   {
+    "word": "appearance",
+    "pos": "n.",
+    "en_def": "the way someone or something looks",
+    "cn_def": "外觀；外表",
+    "sentence": "A: Why did the restaurant owner spend so much money changing the tables, lights and wall colors when the food was already popular? B: She knew that the {{BLANK}} of a restaurant matters as much as the menu, because customers often decide whether to come inside after a quick look through the front window.",
+    "cn": "A：餐廳的餐點已經很受歡迎了，老闆為什麼還要花這麼多錢更換桌子、燈具和牆面顏色？ B：她知道餐廳的【外觀】和菜單一樣重要，因為客人常常從前窗快速看一眼後，就決定要不要進來。",
+    "collocation": "improve the appearance of the office 改善辦公室的外觀"
+   },
+   {
+    "word": "preference",
+    "pos": "n.",
+    "en_def": "a feeling that you like one thing more than another",
+    "cn_def": "偏好；喜好",
+    "sentence": "A: Before we start choosing colors and furniture for the new manager's office, should we ask her what she likes? B: Yes, we should send her a short survey first, because she will work in that room every day, and her {{BLANK}} for light or dark colors will affect all our other choices.",
+    "cn": "A：在我們開始為新經理的辦公室挑選顏色和家具之前，是否應該問問她喜歡什麼？ B：是的，我們應該先寄一份簡短的問卷給她，因為她每天都會在那個房間工作，她對淺色或深色的【偏好】會影響我們其他所有的選擇。",
+    "collocation": "a strong preference for natural materials 非常偏好天然材質"
+   },
+   {
+    "word": "elegant",
+    "pos": "adj.",
+    "en_def": "beautiful in a simple and graceful way",
+    "cn_def": "優雅的；高雅的",
+    "sentence": "A: What did the guests say about the hotel's new wedding hall when they visited it for the first time last weekend? B: They loved it, and many of them said it looked simple but very {{BLANK}}, with soft white lights, tall windows, and beautiful flowers on every table near the stage.",
+    "cn": "A：客人上週末第一次參觀飯店新的婚宴廳時，他們怎麼說？ B：他們很喜歡，很多人說它看起來簡約卻非常【優雅】，有柔和的白光、高大的窗戶，舞台附近每張桌上都有美麗的花。",
+    "collocation": "an elegant dining room 優雅的餐廳"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The warehouse office has metal desks and bare concrete floors. Its _____ design focuses on function rather than beauty.",
+    "options": [
+     "utilitarian",
+     "weary",
+     "elegant",
+     "fancy"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The new manager wants every branch to look the same. All offices must follow one simple _____ chosen by the head office.",
+    "options": [
+     "impetus",
+     "style",
+     "flaw",
+     "ceiling"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Mr. Lin chose the artwork for the lobby himself. Everyone agrees that he has excellent _____ in paintings and furniture.",
+    "options": [
+     "measurement",
+     "molding",
+     "taste",
+     "drapes"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Please check the size of the window carefully. One wrong _____ means the new blinds will not fit properly.",
+    "options": [
+     "vibe",
+     "taste",
+     "impetus",
+     "measurement"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Complaints from customers about the old lobby gave the owners a strong _____ to renovate. Work started two weeks later.",
+    "options": [
+     "slipcover",
+     "impetus",
+     "ceiling",
+     "fabric"
+    ],
+    "answer": 1,
+    "vocabIndex": 5
+   },
+   {
+    "q": "The theater replaced all its hard seats last summer. Visitors can now enjoy the show in greater _____ than before.",
+    "options": [
+     "comfort",
+     "flaw",
+     "molding",
+     "measurement"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "Our cat scratched the old armchair badly. Instead of buying a new chair, we put a cotton _____ over it.",
+    "options": [
+     "impetus",
+     "vibe",
+     "illumination",
+     "slipcover"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The designer showed us three plans for the lobby. Each _____ used the same furniture but different wall colors.",
+    "options": [
+     "flaw",
+     "ceiling",
+     "variation",
+     "comfort"
+    ],
+    "answer": 2,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The bookstore café plays soft jazz and has warm lamps. Customers say it has a cozy _____ that makes them stay longer.",
+    "options": [
+     "vibe",
+     "measurement",
+     "molding",
+     "slipcover"
+    ],
+    "answer": 0,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Visitors notice the reception area before anything else. A clean, bright space creates a positive _____ of the whole company.",
+    "options": [
+     "ceiling",
+     "measurement",
+     "impression",
+     "fabric"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The architect removed most of the furniture and decorations. Her love of _____ means every room has only a few simple objects.",
+    "options": [
+     "illumination",
+     "minimalism",
+     "molding",
+     "measurement"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The restaurant serves old family recipes. Its _____ decor includes wooden beams, paper lanterns and hand-painted bowls.",
+    "options": [
+     "futuristic",
+     "utilitarian",
+     "weary",
+     "traditional"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The palace hall is covered with gold patterns and detailed paintings. Its _____ decoration took artists ten years to finish.",
+    "options": [
+     "utilitarian",
+     "weary",
+     "elaborate",
+     "elongated"
+    ],
+    "answer": 2,
+    "vocabIndex": 15
+   },
+   {
+    "q": "We don't need an expensive hotel for the training. A simple room is fine, so there is no need for anything _____.",
+    "options": [
+     "fancy",
+     "weary",
+     "elongated",
+     "utilitarian"
+    ],
+    "answer": 0,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The carpenter is fixing the decorative strip where the wall meets the ceiling. Part of the old _____ cracked during the earthquake.",
+    "options": [
+     "vibe",
+     "impetus",
+     "preference",
+     "molding"
+    ],
+    "answer": 3,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Please inspect every tile before installation. Even one small _____ in the surface can spoil the look of the floor.",
+    "options": [
+     "vibe",
+     "flaw",
+     "preference",
+     "comfort"
+    ],
+    "answer": 1,
+    "vocabIndex": 18
+   },
+   {
+    "q": "After ten years in the same gray office, the staff grew _____ of it. They asked for brighter colors and new furniture.",
+    "options": [
+     "elegant",
+     "fancy",
+     "contemporary",
+     "weary"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The old warehouse had only a few small windows. The architects added skylights to provide better _____ for the workers.",
+    "options": [
+     "taste",
+     "illumination",
+     "slipcover",
+     "impetus"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The museum displays art made by living artists. Its _____ building, with glass walls and steel beams, matches the modern collection.",
+    "options": [
+     "contemporary",
+     "traditional",
+     "weary",
+     "elongated"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The robot café looks like a spaceship from a film. Its _____ design attracts many young tourists every weekend.",
+    "options": [
+     "traditional",
+     "weary",
+     "futuristic",
+     "utilitarian"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+   },
+   {
+    "q": "The hotel will paint all the rooms and replace the carpets in May. During the _____, guests will stay at our sister hotel.",
+    "options": [
+     "impetus",
+     "redecoration",
+     "comfort",
+     "minimalism"
+    ],
+    "answer": 1,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The afternoon sun was too bright for the presentation. The assistant closed the heavy _____ so everyone could see the screen.",
+    "options": [
+     "ceiling",
+     "impression",
+     "vibe",
+     "drapes"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The upholstery shop offers many materials for sofas. Customers can choose a soft _____ such as cotton, linen or velvet.",
+    "options": [
+     "impetus",
+     "measurement",
+     "fabric",
+     "flaw"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "The conference room is long and narrow. Tables with _____ shapes fit the space better than round ones.",
+    "options": [
+     "elongated",
+     "weary",
+     "refreshing",
+     "utilitarian"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The new office has very tall walls. Workers need a long ladder to change the light bulbs on the _____.",
+    "options": [
+     "fabric",
+     "slipcover",
+     "ceiling",
+     "impression"
+    ],
+    "answer": 2,
+    "vocabIndex": 27
+   },
+   {
+    "q": "After months of dark winter colors, the spring decorations were a _____ change. Staff loved the bright yellow flowers in the lobby.",
+    "options": [
+     "weary",
+     "refreshing",
+     "elongated",
+     "utilitarian"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "From the street, the old bank building looks plain. However, its _____ is full of marble columns and beautiful paintings.",
+    "options": [
+     "interior",
+     "measurement",
+     "slipcover",
+     "impetus"
+    ],
+    "answer": 0,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The shop owner cleaned the windows and painted the front door. These changes greatly improved the _____ of the store.",
+    "options": [
+     "impetus",
+     "measurement",
+     "minimalism",
+     "appearance"
+    ],
+    "answer": 3,
+    "vocabIndex": 31
+   },
+   {
+    "q": "We asked each employee to choose a desk color. Most people showed a clear _____ for light wood over dark wood.",
+    "options": [
+     "ceiling",
+     "preference",
+     "molding",
+     "flaw"
+    ],
+    "answer": 1,
+    "vocabIndex": 32
+   },
+   {
+    "q": "The wedding hall is decorated with white roses and crystal lamps. Guests often describe it as simple but very _____.",
+    "options": [
+     "weary",
+     "elongated",
+     "elegant",
+     "utilitarian"
+    ],
+    "answer": 2,
+    "vocabIndex": 33
+   }
+  ]
+ },
  "101": {
   "theme": "Dependent 依賴",
   "source": "https://www.examword.com/group-topic/dependent",
@@ -62784,6 +63428,2492 @@
     ],
     "answer": 2,
     "vocabIndex": 38
+   }
+  ]
+ },
+ "103": {
+  "theme": "Dessert 甜點",
+  "source": "https://www.examword.com/group-topic/dessert",
+  "VOCAB": [
+   {
+    "word": "store",
+    "pos": "v.",
+    "en_def": "to keep something somewhere until you need it",
+    "cn_def": "存放；儲存",
+    "sentence": "A: We have three chocolate cakes left over from the staff party this afternoon, so what should we do with them before we lock the office tonight? B: Let's cut them into small pieces and {{BLANK}} them in the kitchen fridge, and then everyone can enjoy a slice with their coffee tomorrow morning.",
+    "cn": "A：今天下午員工派對剩下三個巧克力蛋糕，我們今晚鎖辦公室之前該怎麼處理？ B：我們把它們切成小塊，【存放】在茶水間的冰箱裡，這樣明天早上大家就能配咖啡享用一片。",
+    "collocation": "store food in the refrigerator 把食物存放在冰箱裡"
+   },
+   {
+    "word": "consumption",
+    "pos": "n.",
+    "en_def": "the amount of something that people eat, drink or use",
+    "cn_def": "消耗量；攝取量",
+    "sentence": "A: Why did the café owner decide to offer smaller cups of ice cream and more fresh fruit on the new summer menu? B: She read a report showing that sugar {{BLANK}} among young office workers has risen sharply, so she wants to give her customers healthier choices without losing any of her regular guests.",
+    "cn": "A：咖啡店老闆為什麼決定在新的夏季菜單上提供較小杯的冰淇淋和更多新鮮水果？ B：她讀到一份報告，顯示年輕上班族的糖分【攝取量】大幅上升，所以她想給顧客更健康的選擇，同時不流失任何常客。",
+    "collocation": "reduce sugar consumption 減少糖分攝取"
+   },
+   {
+    "word": "pastry",
+    "pos": "n.",
+    "en_def": "a baked sweet food made with flour, butter and often fruit",
+    "cn_def": "酥皮點心；糕點",
+    "sentence": "A: What should we order for the breakfast meeting with the new clients on Friday, since some of them are coming straight from the airport? B: Let's get hot coffee, orange juice and a large apple {{BLANK}} that we can cut into slices, because the French bakery downstairs makes them light and buttery, and visitors always love them.",
+    "cn": "A：週五和新客戶的早餐會議我們該訂什麼？有些人會直接從機場過來。 B：我們訂熱咖啡、柳橙汁，再加一個可以切片的大蘋果【酥皮點心】，因為樓下的法式麵包店做得又輕又有奶油香，訪客總是很喜歡。",
+    "collocation": "a flaky pastry 酥脆的酥皮點心"
+   },
+   {
+    "word": "avoid",
+    "pos": "v.",
+    "en_def": "to stay away from something or not do it",
+    "cn_def": "避免；避開",
+    "sentence": "A: Do you know why Mark never takes any of the cookies or doughnuts that people bring into the office on Friday afternoons? B: His doctor told him to {{BLANK}} sweet snacks for a few months after his last health check, so he brings his own nuts and fruit and drinks plenty of water instead.",
+    "cn": "A：你知道為什麼馬克從不拿大家週五下午帶來辦公室的餅乾或甜甜圈嗎？ B：上次健康檢查後，醫生要他幾個月內【避免】吃甜食，所以他改帶自己的堅果和水果，並且多喝水。",
+    "collocation": "avoid sugary snacks 避免吃含糖零食"
+   },
+   {
+    "word": "conscious",
+    "pos": "adj.",
+    "en_def": "knowing about something and paying attention to it",
+    "cn_def": "意識到的；注意的；在意的",
+    "sentence": "A: Why has the bakery near the train station started printing the number of calories next to every cake in the display window? B: Many customers have become more {{BLANK}} of what they eat these days, and the manager noticed that people often asked about sugar and fat, so clear labels help them choose quickly and feel better about buying something sweet.",
+    "cn": "A：火車站附近的麵包店為什麼開始在櫥窗裡每個蛋糕旁邊標示熱量？ B：最近很多顧客對自己吃的東西變得更加【在意】，經理注意到大家常詢問糖分和脂肪，所以清楚的標示能幫助他們快速選擇，買甜食時也比較安心。",
+    "collocation": "be conscious of calories 注意熱量"
+   },
+   {
+    "word": "splurge",
+    "pos": "v.",
+    "en_def": "to spend a lot of money on something special",
+    "cn_def": "揮霍；花大錢買",
+    "sentence": "A: You have been bringing a simple sandwich for lunch every day this month, so why did you buy that expensive cake from the hotel café today? B: I finally finished the big sales report that my manager needed, so I decided to {{BLANK}} on a special treat to celebrate before I start the next project.",
+    "cn": "A：你這個月每天都帶簡單的三明治當午餐，今天為什麼在飯店咖啡廳買了那個昂貴的蛋糕？ B：我終於完成經理需要的大型業績報告了，所以決定【揮霍】一下買個特別的點心慶祝，然後再開始下一個專案。",
+    "collocation": "splurge on a fancy dessert 花大錢買高級甜點"
+   },
+   {
+    "word": "weight",
+    "pos": "n.",
+    "en_def": "how heavy a person or thing is",
+    "cn_def": "體重；重量",
+    "sentence": "A: How is your new plan to walk to work and skip dessert after dinner going, and do you feel any different after the first month? B: It is going well, because I have already lost some {{BLANK}}, I sleep better at night, and I have more energy during long meetings in the afternoon.",
+    "cn": "A：你走路上班、晚餐後不吃甜點的新計畫進行得如何？第一個月後有覺得哪裡不一樣嗎？ B：進行得很順利，因為我已經減了一些【體重】，晚上睡得比較好，下午開長會時也更有精神。",
+    "collocation": "lose weight 減重"
+   },
+   {
+    "word": "diet",
+    "pos": "n.",
+    "en_def": "the food a person eats, or a plan to eat less or eat healthier food",
+    "cn_def": "飲食；節食",
+    "sentence": "A: Why didn't Sarah eat any of the birthday cake at the office party yesterday, even though chocolate is her favorite flavor? B: She is on a strict {{BLANK}} because she is training for a marathon next month, so she only eats lean meat, vegetables and rice until the race is over.",
+    "cn": "A：莎拉昨天在辦公室派對上為什麼一口生日蛋糕都沒吃？巧克力明明是她最喜歡的口味。 B：她正在進行嚴格的【飲食控制】，因為她在為下個月的馬拉松訓練，所以比賽結束前她只吃瘦肉、蔬菜和米飯。",
+    "collocation": "be on a diet 正在節食"
+   },
+   {
+    "word": "random",
+    "pos": "adj.",
+    "en_def": "chosen by chance, without any plan",
+    "cn_def": "隨機的；任意的",
+    "sentence": "A: How does the coffee shop decide which customers get a free slice of cheesecake every Friday afternoon? B: The computer at the counter picks a {{BLANK}} receipt number each hour, so any customer who has bought a drink can win, and the staff announce the lucky number loudly to everyone in the shop.",
+    "cn": "A：那家咖啡店每週五下午是怎麼決定哪些顧客可以免費獲得一片起司蛋糕的？ B：櫃檯的電腦每小時會挑選一個【隨機的】收據號碼，所以任何買過飲料的顧客都可能中獎，店員會大聲向店裡的每個人宣布幸運號碼。",
+    "collocation": "a random selection 隨機挑選"
+   },
+   {
+    "word": "culprit",
+    "pos": "n.",
+    "en_def": "the person or thing that causes a problem",
+    "cn_def": "罪魁禍首；元兇",
+    "sentence": "A: Do you know why so many people in our department have felt tired and sleepy after lunch this week? B: I think the {{BLANK}} is the large box of sugary doughnuts that the sales team leaves in the break room every morning, because everyone eats two or three before noon.",
+    "cn": "A：你知道為什麼我們部門這週有那麼多人午餐後覺得又累又想睡嗎？ B：我想【罪魁禍首】是業務團隊每天早上放在休息室的那一大盒含糖甜甜圈，因為大家中午前都會吃兩三個。",
+    "collocation": "the main culprit 主要元兇"
+   },
+   {
+    "word": "obese",
+    "pos": "adj.",
+    "en_def": "very fat in a way that is unhealthy",
+    "cn_def": "肥胖的",
+    "sentence": "A: Why is the company offering free gym memberships and healthy cooking classes to all employees starting next month? B: The latest health survey showed that many staff members are overweight and some are even {{BLANK}}, so the managers want to help everyone eat better and exercise more before serious health problems begin.",
+    "cn": "A：公司為什麼從下個月開始提供所有員工免費健身房會員和健康烹飪課？ B：最新的健康調查顯示，許多員工體重過重，有些甚至已經【肥胖】，所以主管們想在嚴重的健康問題出現之前，幫助大家吃得更好、多運動。",
+    "collocation": "be classified as obese 被歸類為肥胖"
+   },
+   {
+    "word": "obesity",
+    "pos": "n.",
+    "en_def": "the state of being very fat in an unhealthy way",
+    "cn_def": "肥胖（症）",
+    "sentence": "A: What was the main topic of the speech that the doctor gave at the parents' meeting at the local school yesterday evening? B: She talked about childhood {{BLANK}} and explained that too many sweet drinks and desserts can cause serious health problems, so she asked parents to pack fruit instead of candy in lunch boxes.",
+    "cn": "A：昨晚那位醫生在當地學校家長會上的演講主題是什麼？ B：她談到了兒童【肥胖】問題，並解釋太多含糖飲料和甜點會造成嚴重的健康問題，所以她請家長在午餐盒裡放水果而不是糖果。",
+    "collocation": "childhood obesity 兒童肥胖"
+   },
+   {
+    "word": "sweet tooth",
+    "pos": "n.phr.",
+    "en_def": "a strong love of sweet food",
+    "cn_def": "愛吃甜食；嗜甜",
+    "sentence": "A: Why does our manager always keep a jar of chocolates on her desk, and why does she visit the bakery across the street every afternoon? B: She has a real {{BLANK}}, so she can't get through a busy day without something sugary, but she always shares her treats with anyone who stops by her office.",
+    "cn": "A：為什麼我們經理總是在桌上放一罐巧克力，而且每天下午都去對街的麵包店？ B：她真的很【愛吃甜食】，所以忙碌的一天裡沒有甜的東西就撐不下去，不過她總是會把點心分給來她辦公室的人。",
+    "collocation": "have a sweet tooth 愛吃甜食"
+   },
+   {
+    "word": "fluffy",
+    "pos": "adj.",
+    "en_def": "soft and light, full of air",
+    "cn_def": "蓬鬆的；鬆軟的",
+    "sentence": "A: What makes the pancakes at the new breakfast café near our office so popular with customers, even though they are quite expensive? B: The cooks beat the eggs for a long time and add a little sparkling water, so every pancake comes out soft, light and {{BLANK}}, almost like a cloud on your plate.",
+    "cn": "A：我們辦公室附近那家新早餐店的鬆餅為什麼那麼受顧客歡迎，雖然價格相當貴？ B：廚師會把蛋打很久，再加一點氣泡水，所以每一片鬆餅都又軟又輕又【蓬鬆】，盤子裡的鬆餅幾乎像一朵雲。",
+    "collocation": "fluffy pancakes 蓬鬆的鬆餅"
+   },
+   {
+    "word": "fundamental",
+    "pos": "adj.",
+    "en_def": "basic and most important",
+    "cn_def": "基本的；根本的",
+    "sentence": "A: What did the head baker teach the new kitchen staff on their first morning, before they started making any cakes for customers? B: She explained the {{BLANK}} rules of baking, such as measuring every ingredient carefully and keeping the kitchen clean, because even small mistakes can ruin a whole batch of desserts.",
+    "cn": "A：新的廚房員工在第一天早上、開始為顧客做蛋糕之前，烘焙主廚教了他們什麼？ B：她講解了烘焙的【基本】規則，例如仔細測量每一種食材以及保持廚房乾淨，因為即使是小錯誤也可能毀掉整批甜點。",
+    "collocation": "a fundamental skill 基本技能"
+   },
+   {
+    "word": "approach",
+    "pos": "n.",
+    "en_def": "a way of dealing with something",
+    "cn_def": "方法；處理方式",
+    "sentence": "A: How is the new café manager trying to sell more desserts without making customers feel that they are eating too much sugar? B: She is trying a fresh {{BLANK}}, offering smaller portions at lower prices and adding fruit to every plate, and so far both sales and customer reviews have improved.",
+    "cn": "A：新的咖啡廳經理要怎麼在不讓顧客覺得吃太多糖的情況下賣出更多甜點？ B：她正在嘗試一種新的【方法】，以較低的價格供應較小的份量，並在每盤加上水果，到目前為止，銷售量和顧客評價都提升了。",
+    "collocation": "take a different approach 採取不同的方法"
+   },
+   {
+    "word": "professional",
+    "pos": "adj.",
+    "en_def": "doing a job that needs special training; done with skill",
+    "cn_def": "專業的；職業的",
+    "sentence": "A: Should we bake the cake for the company's tenth anniversary party ourselves, or should we order one from a shop? B: I think we should hire a {{BLANK}} baker, because more than two hundred guests are coming, and the cake needs to look perfect in the photos for our website and the local newspaper.",
+    "cn": "A：公司十週年派對的蛋糕我們要自己烤，還是向店家訂？ B：我認為我們應該請一位【專業的】烘焙師，因為會有兩百多位賓客來參加，而且蛋糕在我們網站和地方報紙的照片中必須看起來完美無缺。",
+    "collocation": "a professional baker 專業烘焙師"
+   },
+   {
+    "word": "preheat",
+    "pos": "v.",
+    "en_def": "to heat an oven before you put food in it",
+    "cn_def": "預熱",
+    "sentence": "A: I followed the recipe exactly, so why did my chocolate cake come out of the oven flat and heavy instead of tall and soft? B: You probably forgot to {{BLANK}} the oven before you put the cake in, because the batter needs high heat from the very first minute to rise properly.",
+    "cn": "A：我完全照食譜做，為什麼我的巧克力蛋糕出爐時又扁又硬，而不是又高又鬆軟？ B：你可能忘了在放蛋糕進去之前先【預熱】烤箱，因為麵糊從第一分鐘起就需要高溫才能好好膨脹。",
+    "collocation": "preheat the oven to 180°C 將烤箱預熱至攝氏180度"
+   },
+   {
+    "word": "grease",
+    "pos": "v.",
+    "en_def": "to put butter or oil on something",
+    "cn_def": "塗油；抹油",
+    "sentence": "A: Why do the cakes at our café sometimes break into pieces when the kitchen staff take them out of the pans in the morning? B: Some of the new workers forget to {{BLANK}} the pans with butter before they pour in the batter, so the cakes stick to the metal and tear when they are removed.",
+    "cn": "A：為什麼我們咖啡廳的蛋糕早上有時候在廚房員工脫模時會碎掉？ B：有些新員工在倒入麵糊之前忘了用奶油在烤模上【抹油】，所以蛋糕會黏在金屬上，取出時就裂開了。",
+    "collocation": "grease a baking pan 在烤盤上抹油"
+   },
+   {
+    "word": "pastry chef",
+    "pos": "n.phr.",
+    "en_def": "a cook whose job is making cakes and desserts",
+    "cn_def": "甜點師傅；糕點主廚",
+    "sentence": "A: Who designed the amazing chocolate sculpture that was standing in the hotel lobby during the international conference last weekend? B: The hotel's {{BLANK}} spent three days making it by hand, and many guests took photos with it, so the marketing team has asked her to create another one for the holiday season.",
+    "cn": "A：上週末國際會議期間擺在飯店大廳那座很棒的巧克力雕塑是誰設計的？ B：飯店的【甜點師傅】花了三天親手製作，許多賓客都和它合照，所以行銷團隊已經請她在節慶期間再做一座。",
+    "collocation": "work as a pastry chef 擔任甜點師傅"
+   },
+   {
+    "word": "tedious",
+    "pos": "adj.",
+    "en_def": "boring because it takes a long time and does not change",
+    "cn_def": "單調乏味的；冗長的",
+    "sentence": "A: You look really tired this afternoon, so what have you been doing in the bakery kitchen since early this morning? B: I have been decorating four hundred small cookies with colored icing for a wedding, and the work is so {{BLANK}} that my hands and eyes feel sore after doing the same pattern again and again.",
+    "cn": "A：你今天下午看起來很累，從一大早開始你在麵包店廚房裡做了什麼？ B：我一直在為一場婚禮用彩色糖霜裝飾四百塊小餅乾，這工作非常【單調乏味】，同樣的圖案重複做了一次又一次，我的手和眼睛都痠了。",
+    "collocation": "a tedious task 乏味的工作"
+   },
+   {
+    "word": "reliant",
+    "pos": "adj.",
+    "en_def": "needing someone or something in order to work or succeed",
+    "cn_def": "依賴的；依靠的",
+    "sentence": "A: Why did the bakery have to close early yesterday, even though there were still many customers waiting in line outside? B: The shop is completely {{BLANK}} on one supplier for flour and butter, and when that delivery truck broke down, the bakers simply had nothing left to make bread or cakes with.",
+    "cn": "A：為什麼那家麵包店昨天必須提早打烊，雖然外面還有很多顧客在排隊？ B：這家店的麵粉和奶油完全【依賴】一家供應商，當那輛送貨卡車拋錨時，麵包師傅就再也沒有材料可以做麵包或蛋糕了。",
+    "collocation": "be heavily reliant on imports 高度依賴進口"
+   },
+   {
+    "word": "constant",
+    "pos": "adj.",
+    "en_def": "staying the same; happening all the time",
+    "cn_def": "恆定的；持續不斷的",
+    "sentence": "A: Why did the café owner decide to buy a new freezer for the ice cream, even though the old one still works? B: The old freezer couldn't keep a {{BLANK}} temperature, so the ice cream sometimes melted and froze again, and customers complained that it tasted icy and hard.",
+    "cn": "A：為什麼咖啡店老闆決定為冰淇淋買一台新的冷凍櫃，雖然舊的還能用？ B：舊冷凍櫃無法維持【恆定的】溫度，所以冰淇淋有時會融化後再結凍，顧客抱怨吃起來有冰渣又很硬。",
+    "collocation": "keep a constant temperature 維持恆溫"
+   },
+   {
+    "word": "indulge",
+    "pos": "v.",
+    "en_def": "to let yourself enjoy something special, such as rich food",
+    "cn_def": "縱情享受；放縱一下",
+    "sentence": "A: Are you going to try the famous chocolate lava cake at the restaurant tonight, or are you still trying to eat healthily? B: I usually choose fruit for dessert, but since we are celebrating the end of this busy project, I think I will {{BLANK}} just this once and enjoy every bite.",
+    "cn": "A：你今晚要試試那家餐廳有名的巧克力熔岩蛋糕嗎？還是你還在努力吃得健康？ B：我通常選水果當甜點，不過既然我們在慶祝這個忙碌的專案結束，我想就這一次【放縱一下】，好好享受每一口。",
+    "collocation": "indulge in a rich dessert 盡情享用濃郁的甜點"
+   },
+   {
+    "word": "picky",
+    "pos": "adj.",
+    "en_def": "liking only a few things and hard to please",
+    "cn_def": "挑剔的；挑食的",
+    "sentence": "A: What kind of cake should we order for Mr. Lee's retirement party, since he has worked here for over thirty years? B: We should ask his secretary first, because he is very {{BLANK}} about food and only likes plain vanilla cake without cream, nuts or any kind of fruit on top.",
+    "cn": "A：李先生在這裡工作超過三十年了，他的退休派對我們該訂哪種蛋糕？ B：我們應該先問他的秘書，因為他對食物非常【挑剔】，只喜歡不加鮮奶油、堅果或任何水果的原味香草蛋糕。",
+    "collocation": "a picky eater 挑食的人"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "Please _____ the leftover cream in the refrigerator after the event. It will go bad quickly if it stays on the counter.",
+    "options": [
+     "store",
+     "avoid",
+     "grease",
+     "splurge"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The café tracked coffee and cake sales for six months. Weekend _____ was nearly double the weekday amount.",
+    "options": [
+     "culprit",
+     "approach",
+     "consumption",
+     "pastry"
+    ],
+    "answer": 2,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The hotel serves a warm cherry _____ with every breakfast order. Guests often ask the waiter for the recipe.",
+    "options": [
+     "obesity",
+     "pastry",
+     "weight",
+     "culprit"
+    ],
+    "answer": 1,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Drivers should _____ Main Street this morning because of the food festival. Several roads near the park are closed until noon.",
+    "options": [
+     "grease",
+     "preheat",
+     "indulge",
+     "avoid"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Our customers are very _____ of price. Most of them compare our cake prices with the supermarket before they buy.",
+    "options": [
+     "fluffy",
+     "tedious",
+     "conscious",
+     "random"
+    ],
+    "answer": 2,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Many shoppers _____ on luxury chocolates during the holiday season. Stores usually order extra stock in early December.",
+    "options": [
+     "splurge",
+     "preheat",
+     "store",
+     "avoid"
+    ],
+    "answer": 0,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Each box of cookies must be checked on the scale before shipping. The _____ printed on the label has to be accurate.",
+    "options": [
+     "diet",
+     "approach",
+     "consumption",
+     "weight"
+    ],
+    "answer": 3,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The company cafeteria now offers meals for people on a low-sugar _____. These dishes are marked with a green leaf.",
+    "options": [
+     "pastry",
+     "diet",
+     "culprit",
+     "sweet tooth"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Inspectors made a _____ check of the bakery last Tuesday. They did not tell the owner before they arrived.",
+    "options": [
+     "picky",
+     "obese",
+     "reliant",
+     "random"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "The kitchen smelled of smoke all morning. The _____ turned out to be an old toaster that needed cleaning.",
+    "options": [
+     "obesity",
+     "culprit",
+     "diet",
+     "consumption"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The study followed two thousand adults for ten years. People who drank sugary sodas daily were more likely to become _____.",
+    "options": [
+     "obese",
+     "professional",
+     "constant",
+     "fundamental"
+    ],
+    "answer": 0,
+    "vocabIndex": 10
+   },
+   {
+    "q": "The government has launched a campaign against childhood _____. Schools will remove sweet drinks from their vending machines next year.",
+    "options": [
+     "pastry chef",
+     "approach",
+     "obesity",
+     "culprit"
+    ],
+    "answer": 2,
+    "vocabIndex": 11
+   },
+   {
+    "q": "Our new advertising campaign targets customers with a _____. It mainly promotes our chocolate cakes and caramel drinks.",
+    "options": [
+     "weight",
+     "sweet tooth",
+     "approach",
+     "culprit"
+    ],
+    "answer": 1,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The new bread recipe uses extra yeast. As a result, every loaf comes out soft, light and _____.",
+    "options": [
+     "picky",
+     "reliant",
+     "conscious",
+     "fluffy"
+    ],
+    "answer": 3,
+    "vocabIndex": 13
+   },
+   {
+    "q": "Clear communication is _____ to running a busy kitchen. Without it, orders get mixed up and customers wait too long.",
+    "options": [
+     "obese",
+     "fluffy",
+     "fundamental",
+     "picky"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The new manager has a friendly _____ to customer complaints. She listens carefully and always offers a free dessert.",
+    "options": [
+     "approach",
+     "weight",
+     "obesity",
+     "pastry"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The company hired a _____ photographer for the new menu. The pictures make every dish look fresh and attractive.",
+    "options": [
+     "tedious",
+     "obese",
+     "professional",
+     "fluffy"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Staff should _____ the ovens at six every morning. That way, the first loaves are ready when the shop opens.",
+    "options": [
+     "avoid",
+     "preheat",
+     "splurge",
+     "indulge"
+    ],
+    "answer": 1,
+    "vocabIndex": 17
+   },
+   {
+    "q": "Mechanics _____ the moving parts of the delivery van every month. This simple step keeps the engine running smoothly.",
+    "options": [
+     "preheat",
+     "splurge",
+     "indulge",
+     "grease"
+    ],
+    "answer": 3,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The restaurant is looking for an experienced _____. The successful applicant will create new cakes and tarts each season.",
+    "options": [
+     "pastry chef",
+     "culprit",
+     "consumption",
+     "obesity"
+    ],
+    "answer": 0,
+    "vocabIndex": 19
+   },
+   {
+    "q": "Entering every receipt into the system by hand is _____. The new scanner will save the accounting team many hours.",
+    "options": [
+     "fluffy",
+     "tedious",
+     "obese",
+     "picky"
+    ],
+    "answer": 1,
+    "vocabIndex": 20
+   },
+   {
+    "q": "Small cafés are often _____ on local customers. When a nearby office closes, their sales can drop sharply.",
+    "options": [
+     "reliant",
+     "random",
+     "fluffy",
+     "tedious"
+    ],
+    "answer": 0,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The chocolate must be kept at a _____ temperature during delivery. Even small changes can spoil its smooth texture.",
+    "options": [
+     "picky",
+     "obese",
+     "constant",
+     "conscious"
+    ],
+    "answer": 2,
+    "vocabIndex": 22
+   },
+   {
+    "q": "On Friday afternoons, the staff _____ in cake and coffee together. It is a pleasant way to end a busy week.",
+    "options": [
+     "grease",
+     "store",
+     "preheat",
+     "indulge"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "Young children are often _____ eaters. Our kids' menu offers simple dishes such as plain pasta and fruit cups.",
+    "options": [
+     "picky",
+     "tedious",
+     "professional",
+     "fundamental"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "To _____ long lines at lunch, many employees order online. Their meals are ready for pickup at a set time.",
+    "options": [
+     "splurge",
+     "grease",
+     "preheat",
+     "avoid"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Doctors say a balanced _____ includes fruit, vegetables and whole grains. Desserts should be enjoyed only once in a while.",
+    "options": [
+     "culprit",
+     "diet",
+     "pastry chef",
+     "consumption"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "Please wear _____ clothing to the client dinner tonight. Jeans and T-shirts are not suitable for this restaurant.",
+    "options": [
+     "fluffy",
+     "obese",
+     "professional",
+     "picky"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Customers can _____ their reward points in the app. The points can later be used for free drinks and desserts.",
+    "options": [
+     "indulge",
+     "avoid",
+     "preheat",
+     "store"
+    ],
+    "answer": 3,
+    "vocabIndex": 0
+   },
+   {
+    "q": "The bakery has a _____ flow of customers on weekends. Extra staff are hired every Saturday and Sunday.",
+    "options": [
+     "constant",
+     "obese",
+     "picky",
+     "fluffy"
+    ],
+    "answer": 0,
+    "vocabIndex": 22
+   }
+  ]
+ },
+ "104": {
+  "theme": "Diagram & Chart 圖表",
+  "source": "https://www.examword.com/group-topic/diagram-chart",
+  "VOCAB": [
+   {
+    "word": "illustration",
+    "pos": "n.",
+    "en_def": "a picture or drawing that helps explain something",
+    "cn_def": "插圖；圖解",
+    "sentence": "A: Why did the marketing team decide to add a picture to the first page of the new product brochure, even though the printing cost will go up a little? B: They found that customers often skip long paragraphs, so a clear {{BLANK}} of the machine helps readers understand how it works before they read the details.",
+    "cn": "A：為什麼行銷團隊決定在新產品手冊的第一頁加上一張圖，即使印刷成本會稍微增加？ B：他們發現顧客常常跳過長段落，所以一張清楚的機器【插圖】能幫助讀者在閱讀細節之前先了解它如何運作。",
+    "collocation": "include an illustration in the report 在報告中加入插圖"
+   },
+   {
+    "word": "visual",
+    "pos": "adj.",
+    "en_def": "related to seeing or pictures",
+    "cn_def": "視覺的",
+    "sentence": "A: Do you think I should send the sales figures as a long spreadsheet, or is there a better way to share them with the managers before Friday's meeting? B: Most of our managers are very busy and prefer {{BLANK}} information, so I'd turn the numbers into a few simple charts that they can understand in just a few seconds.",
+    "cn": "A：你覺得我應該把銷售數字用一份很長的試算表寄出去，還是有更好的方式在星期五開會前分享給經理們？ B：我們大部分的經理都很忙，比較喜歡【視覺的】資訊，所以我會把數字轉換成幾張簡單的圖表，讓他們幾秒鐘就能看懂。",
+    "collocation": "use visual aids in a presentation 在簡報中使用視覺輔助工具"
+   },
+   {
+    "word": "example",
+    "pos": "n.",
+    "en_def": "something that shows what others of the same kind are like",
+    "cn_def": "例子；範例",
+    "sentence": "A: The new employees still seem confused about how to fill out the monthly expense report, so what can we do to help them during tomorrow's training session? B: Let's show them a completed form as an {{BLANK}}, and then we can walk through each section together so they can see exactly what information goes where.",
+    "cn": "A：新員工對於如何填寫每月費用報告似乎還是很困惑，我們在明天的訓練課程中可以怎麼幫助他們？ B：我們拿一份填好的表格給他們當作【範例】，然後一起逐一說明每個部分，讓他們清楚知道哪些資訊該填在哪裡。",
+    "collocation": "give a good example 舉一個好例子"
+   },
+   {
+    "word": "concept",
+    "pos": "n.",
+    "en_def": "a general idea about something",
+    "cn_def": "概念",
+    "sentence": "A: How did the designer present her idea for the new office layout when she met the board of directors last week? B: She started with a simple drawing that showed the basic {{BLANK}} of an open workspace, and then she explained how shared tables and quiet rooms would help different teams work together more easily.",
+    "cn": "A：上週設計師和董事會開會時，她是如何呈現新辦公室格局的構想？ B：她先用一張簡單的圖畫說明開放式工作空間的基本【概念】，接著解釋共用桌和安靜室如何讓不同團隊更容易合作。",
+    "collocation": "the basic concept of the plan 計畫的基本概念"
+   },
+   {
+    "word": "explanation",
+    "pos": "n.",
+    "en_def": "words that make something clear or give a reason",
+    "cn_def": "解釋；說明",
+    "sentence": "A: Why did the finance director ask Mark to stay after the meeting, even though his budget report was finished on time? B: Some of the numbers in his chart were much higher than last year, so she wanted a clear {{BLANK}} of why the travel costs had increased before she sends the report to head office.",
+    "cn": "A：為什麼財務總監要馬克在會後留下來，即使他的預算報告準時完成了？ B：他圖表中的一些數字比去年高出很多，所以她在把報告送到總公司之前，想要一個清楚的【說明】，了解差旅費為什麼增加。",
+    "collocation": "give a detailed explanation 提供詳細的說明"
+   },
+   {
+    "word": "representation",
+    "pos": "n.",
+    "en_def": "a picture or sign that shows or stands for something",
+    "cn_def": "表示；呈現",
+    "sentence": "A: Why does the map in the annual report show our branch offices as small colored circles instead of photos of each building? B: The circles are a simple {{BLANK}} of each office, and their size shows how many employees work there, so readers can compare the locations quickly without reading a long list.",
+    "cn": "A：為什麼年度報告中的地圖用彩色小圓圈來標示我們的分公司，而不是放每棟建築的照片？ B：圓圈是每間辦公室的簡單【呈現方式】，圓圈大小顯示那裡有多少員工，讓讀者不必看一長串名單就能快速比較各地點。",
+    "collocation": "a graphic representation of the data 資料的圖像呈現"
+   },
+   {
+    "word": "clarity",
+    "pos": "n.",
+    "en_def": "the quality of being clear and easy to understand",
+    "cn_def": "清晰；明確",
+    "sentence": "A: What did the trainer say about the slides you prepared for the safety workshop, and do you need to change many of them before next Monday? B: She liked the content, but she said some slides had too much text and too many colors, so I need to improve the {{BLANK}} of each page by keeping only the most important points.",
+    "cn": "A：訓練師對你為安全研習準備的投影片有什麼意見？你下週一之前需要修改很多張嗎？ B：她喜歡內容，但她說有些投影片文字太多、顏色太雜，所以我需要只保留最重要的重點，來提升每一頁的【清晰度】。",
+    "collocation": "improve the clarity of the message 提升訊息的清晰度"
+   },
+   {
+    "word": "diagram",
+    "pos": "n.",
+    "en_def": "a simple drawing that shows how something works or is arranged",
+    "cn_def": "圖表；示意圖",
+    "sentence": "A: The new technicians keep asking me where each cable should go when they set up the meeting room equipment, so is there anything that could help them? B: Why don't you draw a simple {{BLANK}} that shows how the projector, speakers, and computer connect, and then put a copy on the wall next to the equipment cabinet?",
+    "cn": "A：新來的技術人員在架設會議室設備時一直問我每條線該接到哪裡，有什麼東西可以幫助他們嗎？ B：你何不畫一張簡單的【示意圖】，顯示投影機、喇叭和電腦如何連接，然後在設備櫃旁的牆上貼一份？",
+    "collocation": "draw a diagram 畫示意圖"
+   },
+   {
+    "word": "symbol",
+    "pos": "n.",
+    "en_def": "a sign or picture that stands for an idea",
+    "cn_def": "符號；象徵",
+    "sentence": "A: Why is there a small green leaf next to some of the products in our online catalog, and do customers really understand what it means? B: That {{BLANK}} shows which items are made from recycled materials, and our survey found that many shoppers look for it because they want to buy products that are better for the environment.",
+    "cn": "A：為什麼我們線上型錄裡有些產品旁邊有一片綠色小葉子？顧客真的懂它的意思嗎？ B：那個【符號】表示哪些商品是用回收材料製成的，我們的調查發現很多購物者會特別找它，因為他們想買對環境比較好的產品。",
+    "collocation": "a warning symbol on the label 標籤上的警告符號"
+   },
+   {
+    "word": "icon",
+    "pos": "n.",
+    "en_def": "a small picture on a screen that you click to do something",
+    "cn_def": "圖示",
+    "sentence": "A: I can't find the button to share the monthly report with the rest of the team in this new software, so could you show me where it is? B: Sure, just look at the top right corner of the screen and click the small {{BLANK}} that looks like an arrow, and then you can type the names of the people who need the file.",
+    "cn": "A：我在這個新軟體裡找不到把月報分享給團隊其他人的按鈕，你可以告訴我在哪裡嗎？ B：當然，看螢幕右上角，點那個像箭頭的小【圖示】，然後就可以輸入需要這個檔案的人的名字。",
+    "collocation": "click on the icon 點擊圖示"
+   },
+   {
+    "word": "annotation",
+    "pos": "n.",
+    "en_def": "a short note added to explain a picture or text",
+    "cn_def": "註解；註釋",
+    "sentence": "A: The client said our chart about online sales was hard to understand, so how should we change it before we send the final version tomorrow morning? B: We could add a short {{BLANK}} next to each sudden rise or drop in the line, explaining what happened that month, such as a holiday sale or a problem with the website.",
+    "cn": "A：客戶說我們的線上銷售圖表很難懂，在明天早上寄出最終版本之前，我們該怎麼修改？ B：我們可以在線條每次突然上升或下降的地方加上簡短的【註解】，說明那個月發生了什麼事，例如假期特賣或網站出問題。",
+    "collocation": "add annotations to the chart 在圖表上加註解"
+   },
+   {
+    "word": "label",
+    "pos": "n.",
+    "en_def": "a word or short text that names a part of something",
+    "cn_def": "標籤；標示",
+    "sentence": "A: Why did the manager ask us to redo the pie chart for the quarterly report when the colors and numbers were already correct? B: Each slice of the chart needs a clear {{BLANK}} with the name of the region, because without one, readers couldn't tell which color stood for Asia and which stood for Europe.",
+    "cn": "A：顏色和數字都已經正確了，為什麼經理還要我們重做季報裡的圓餅圖？ B：圖表的每一塊都需要一個寫著區域名稱的清楚【標示】，因為沒有標示的話，讀者分不出哪個顏色代表亞洲、哪個代表歐洲。",
+    "collocation": "put a label on each bar 在每個長條上加上標示"
+   },
+   {
+    "word": "highlight",
+    "pos": "v.",
+    "en_def": "to make something easy to notice; to show it is important",
+    "cn_def": "強調；突顯；標亮",
+    "sentence": "A: The board members will only have ten minutes to look at our long report before they vote, so how can we make sure they notice the main results? B: Let's use a bright yellow color to {{BLANK}} the three most important numbers in the summary table, so the members can see them immediately even if they don't read every page.",
+    "cn": "A：董事們在投票前只有十分鐘看我們這份很長的報告，我們要怎麼確保他們注意到主要結果？ B：我們用亮黃色來【標亮】摘要表中最重要的三個數字，這樣即使他們沒有讀每一頁，也能馬上看到。",
+    "collocation": "highlight the key points 強調重點"
+   },
+   {
+    "word": "simplify",
+    "pos": "v.",
+    "en_def": "to make something easier to understand or do",
+    "cn_def": "簡化",
+    "sentence": "A: Our customers keep calling the help desk because they find the setup guide for the new printer too confusing, so what should we do about it? B: I think we should {{BLANK}} the instructions by using fewer technical words and adding a picture for each step, so that people can set up the machine by themselves.",
+    "cn": "A：我們的顧客一直打電話到客服中心，因為他們覺得新印表機的安裝指南太難懂了，我們該怎麼辦？ B：我認為我們應該【簡化】說明，少用專業術語，並為每個步驟加上一張圖，讓大家可以自己安裝機器。",
+    "collocation": "simplify the process 簡化流程"
+   },
+   {
+    "word": "demonstrate",
+    "pos": "v.",
+    "en_def": "to show how something works by doing it",
+    "cn_def": "示範；展示",
+    "sentence": "A: Will the sales representative bring the new coffee machine to the office, or will she only show us a video about it during the meeting? B: She is bringing a sample machine, because she wants to {{BLANK}} how quickly it can make different drinks and how easy it is to clean after a busy morning in the break room.",
+    "cn": "A：業務代表會把新咖啡機帶到辦公室嗎？還是她在會議中只會給我們看影片？ B：她會帶一台樣品機來，因為她想【示範】它能多快做出不同的飲品，以及在休息室忙碌的早上過後清潔起來有多容易。",
+    "collocation": "demonstrate how the product works 示範產品如何運作"
+   },
+   {
+    "word": "explain",
+    "pos": "v.",
+    "en_def": "to make something clear by giving details or reasons",
+    "cn_def": "解釋；說明",
+    "sentence": "A: Several team members were confused by the new chart about overtime hours that you sent around yesterday afternoon, so what are you planning to do? B: I've booked the small meeting room for tomorrow morning, and I'll {{BLANK}} what each color and line means, and then I'll answer any questions they still have about their working hours.",
+    "cn": "A：好幾位團隊成員對你昨天下午發出的加班時數新圖表感到困惑，你打算怎麼做？ B：我已經預約了明天早上的小會議室，我會【解釋】每個顏色和線條代表什麼，然後回答他們對工作時數還有的任何問題。",
+    "collocation": "explain the figures to the team 向團隊解釋數據"
+   },
+   {
+    "word": "structure",
+    "pos": "n.",
+    "en_def": "the way the parts of something are organized",
+    "cn_def": "結構；架構",
+    "sentence": "A: The new staff seem to have trouble knowing who they should report to, so how can we make this clearer for them during their first week? B: We could show them a chart of the company's {{BLANK}}, with each department in a box and lines that connect every team leader to the manager above them.",
+    "cn": "A：新員工似乎搞不清楚自己該向誰報告，我們在他們第一週要怎麼讓這件事更清楚？ B：我們可以給他們看一張公司【組織架構】圖，每個部門用一個方框表示，並用線條把每位組長連到他們上面的經理。",
+    "collocation": "organizational structure 組織架構"
+   },
+   {
+    "word": "layout",
+    "pos": "n.",
+    "en_def": "the way things are arranged on a page or in a space",
+    "cn_def": "版面配置；格局",
+    "sentence": "A: Did the printing company send us the first draft of the new event poster, and are you happy with the way it looks? B: Yes, they sent it this morning, but I'd like to change the {{BLANK}} a little, because the photo takes up too much space and the date and location are too small to read from far away.",
+    "cn": "A：印刷公司寄來新活動海報的初稿了嗎？你滿意它的樣子嗎？ B：有，今天早上寄來了，但我想稍微調整一下【版面配置】，因為照片佔太多空間，而日期和地點太小，遠遠地看不清楚。",
+    "collocation": "change the page layout 調整版面設計"
+   },
+   {
+    "word": "context",
+    "pos": "n.",
+    "en_def": "the facts or situation around something that help you understand it",
+    "cn_def": "背景；來龍去脈",
+    "sentence": "A: Why did you start your presentation with a short story about the company's history before you showed the new sales chart to the investors? B: I wanted to give them some {{BLANK}}, because the numbers only make sense when people know that we moved into a new market three years ago and needed time to grow.",
+    "cn": "A：你在給投資人看新的銷售圖表之前，為什麼先用一段公司歷史的小故事開場？ B：我想先給他們一些【背景】，因為只有當大家知道我們三年前進入新市場、需要時間成長時，這些數字才說得通。",
+    "collocation": "in the context of the market 在市場的背景下"
+   },
+   {
+    "word": "flow",
+    "pos": "n.",
+    "en_def": "the steady movement of something from one place or step to the next",
+    "cn_def": "流程；流動",
+    "sentence": "A: Why is the new chart on the factory wall covered with arrows that go from one box to the next? B: It shows the {{BLANK}} of materials through the factory, from the moment they arrive at the loading area until the finished products are packed, so workers can see where delays usually happen and how to avoid them.",
+    "cn": "A：為什麼工廠牆上的新圖表佈滿了從一個方框指向下一個方框的箭頭？ B：它顯示原料在工廠內的【流動】過程，從抵達裝卸區那一刻起到成品包裝完成，讓工人看出延誤通常發生在哪裡以及如何避免。",
+    "collocation": "the flow of information 資訊的流通"
+   },
+   {
+    "word": "sequence",
+    "pos": "n.",
+    "en_def": "the order in which things happen or are done",
+    "cn_def": "順序",
+    "sentence": "A: The new assistants keep making mistakes when they prepare the meeting room for video calls, so what would help them remember the right steps? B: Let's put up a simple chart with numbered pictures that shows the correct {{BLANK}}, starting with turning on the screen and ending with testing the microphone and camera before the guests arrive.",
+    "cn": "A：新助理在為視訊會議準備會議室時一直出錯，有什麼能幫助他們記住正確步驟？ B：我們貼一張有編號圖片的簡單圖表，顯示正確的【順序】，從打開螢幕開始，到客人抵達前測試麥克風和攝影機為止。",
+    "collocation": "in the correct sequence 依照正確順序"
+   },
+   {
+    "word": "comparison",
+    "pos": "n.",
+    "en_def": "the act of looking at two or more things to see how they are alike or different",
+    "cn_def": "比較",
+    "sentence": "A: Why did you put last year's sales figures next to this year's figures on the same slide instead of on two separate pages? B: A side-by-side {{BLANK}} makes it much easier for the managers to see how much each product has grown, and they won't need to keep going back and forth between the slides.",
+    "cn": "A：你為什麼把去年和今年的銷售數字放在同一張投影片上，而不是分成兩頁？ B：並排【比較】讓經理們更容易看出每項產品成長了多少，他們也不需要在投影片之間來回切換。",
+    "collocation": "make a comparison between two products 比較兩項產品"
+   },
+   {
+    "word": "emphasis",
+    "pos": "n.",
+    "en_def": "special importance given to something",
+    "cn_def": "強調；重點",
+    "sentence": "A: The new manager's report on customer service is very long, so what is the main message that she wants all the staff to remember? B: She puts special {{BLANK}} on answering emails within one working day, because the survey showed that slow replies were the biggest reason why customers felt unhappy with our company last year.",
+    "cn": "A：新經理的客服報告非常長，她希望全體員工記住的主要訊息是什麼？ B：她特別【強調】要在一個工作天內回覆電子郵件，因為調查顯示，回覆太慢是去年顧客對我們公司不滿的最大原因。",
+    "collocation": "place emphasis on quality 把重點放在品質上"
+   },
+   {
+    "word": "design",
+    "pos": "n.",
+    "en_def": "the way something is planned and made to look",
+    "cn_def": "設計",
+    "sentence": "A: Are the customers happy with the new version of our company website, or have we received many complaints since we launched it last month? B: Most people like the clean, modern {{BLANK}} with bigger buttons and fewer menus, but a few older customers said the text is still too small to read on their phones.",
+    "cn": "A：顧客對我們公司網站的新版本滿意嗎？還是自從上個月上線以來我們收到了很多抱怨？ B：大部分人喜歡這個簡潔、現代、按鈕更大、選單更少的【設計】，但有幾位年長的顧客說，文字在手機上還是太小看不清楚。",
+    "collocation": "graphic design 平面設計"
+   },
+   {
+    "word": "audience",
+    "pos": "n.",
+    "en_def": "the people who watch or listen to a talk or show",
+    "cn_def": "觀眾；聽眾",
+    "sentence": "A: Should I use the same slides for the investors' meeting on Tuesday that I used for the training session with our new employees last week? B: No, you should change them, because the {{BLANK}} is very different; investors care about profits and future plans, while the new staff mainly needed to learn about daily tasks and company rules.",
+    "cn": "A：星期二的投資人會議，我應該用上週新員工訓練時用的同一份投影片嗎？ B：不，你應該修改，因為【聽眾】很不一樣；投資人在意的是獲利和未來計畫，而新員工主要需要了解日常工作和公司規定。",
+    "collocation": "target audience 目標受眾"
+   },
+   {
+    "word": "communication",
+    "pos": "n.",
+    "en_def": "the sharing of information between people",
+    "cn_def": "溝通；交流",
+    "sentence": "A: Why did the head office decide to send a short chart every Monday instead of long emails about the progress of each project? B: The managers felt that good {{BLANK}} between departments was getting harder, so a simple weekly chart helps everyone see the status of every project quickly and reduces misunderstandings between the teams.",
+    "cn": "A：為什麼總公司決定每週一寄一張簡短的圖表，而不是寄長篇電子郵件說明每個專案的進度？ B：經理們覺得部門之間要有良好的【溝通】越來越難，所以一張簡單的每週圖表能讓大家快速看到每個專案的狀態，並減少團隊之間的誤會。",
+    "collocation": "improve communication between teams 改善團隊之間的溝通"
+   },
+   {
+    "word": "interpret",
+    "pos": "v.",
+    "en_def": "to decide what something means",
+    "cn_def": "解讀；詮釋",
+    "sentence": "A: The research team sent us a lot of charts about customer behavior, but I'm not sure what most of them actually mean for our sales plan. B: Don't worry, the team leader is coming to our meeting on Thursday to help us {{BLANK}} the data, and she will explain which trends are the most important for next year.",
+    "cn": "A：研究團隊寄給我們很多關於顧客行為的圖表，但我不確定大部分對我們的銷售計畫實際上代表什麼。 B：別擔心，組長星期四會來參加我們的會議，幫我們【解讀】這些數據，她會說明哪些趨勢對明年最重要。",
+    "collocation": "interpret the results 解讀結果"
+   },
+   {
+    "word": "visualization",
+    "pos": "n.",
+    "en_def": "the act of showing information as pictures, charts or maps",
+    "cn_def": "視覺化",
+    "sentence": "A: Why did our department buy new software for the analysts when the old spreadsheet program still works fine for most tasks? B: The new program is great for data {{BLANK}}, because it can quickly turn thousands of numbers into colorful maps and charts that managers can understand without reading every row.",
+    "cn": "A：舊的試算表程式在大部分工作上都還很好用，為什麼我們部門要幫分析師買新軟體？ B：新程式很適合做資料【視覺化】，因為它能快速把數千個數字轉換成彩色地圖和圖表，經理們不用看每一列就能看懂。",
+    "collocation": "data visualization tools 資料視覺化工具"
+   },
+   {
+    "word": "overview",
+    "pos": "n.",
+    "en_def": "a short description of the main facts about something",
+    "cn_def": "概要；概觀",
+    "sentence": "A: The new regional manager starts on Monday and has never worked in our industry before, so how should we help her during her first meeting with the team? B: Let's begin with a short {{BLANK}} of our main products, customers, and sales results for the past year, and then we can talk about each project in more detail later in the week.",
+    "cn": "A：新的區域經理星期一上任，她以前從沒在我們這個產業工作過，在她和團隊的第一次會議中我們該怎麼幫她？ B：我們先簡短【概述】我們的主要產品、客戶和過去一年的銷售成果，然後這週稍晚再更詳細地討論每個專案。",
+    "collocation": "give a brief overview 提供簡短概要"
+   },
+   {
+    "word": "instructional",
+    "pos": "adj.",
+    "en_def": "used for teaching people how to do something",
+    "cn_def": "教學的；說明用的",
+    "sentence": "A: The new factory workers are having trouble using the packing machine correctly, and the paper manual is too long for them to read during their shifts. B: We're making a short {{BLANK}} video with clear pictures and simple steps, so they can watch it on their phones whenever they forget how to start or clean the machine.",
+    "cn": "A：新來的工廠工人在正確操作包裝機上有困難，而紙本手冊太長，他們輪班時沒時間看。 B：我們正在製作一支簡短的【教學】影片，有清楚的畫面和簡單的步驟，讓他們忘記如何啟動或清潔機器時，隨時可以用手機觀看。",
+    "collocation": "instructional materials 教學材料"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The instruction booklet has very little text. Each step comes with a simple _____ that shows exactly what to do.",
+    "options": [
+     "illustration",
+     "audience",
+     "emphasis",
+     "context"
+    ],
+    "answer": 0,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Many people remember pictures better than words. That is why the trainer uses _____ aids such as charts and photos.",
+    "options": [
+     "polite",
+     "visual",
+     "annual",
+     "nervous"
+    ],
+    "answer": 1,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The new staff did not understand the form at first. The manager showed them a finished _____ to make it clear.",
+    "options": [
+     "audience",
+     "emphasis",
+     "example",
+     "flow"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "The architect is still at an early stage of the project. She only has a rough _____ of the new lobby.",
+    "options": [
+     "audience",
+     "communication",
+     "emphasis",
+     "concept"
+    ],
+    "answer": 3,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The shipment arrived two weeks late. The customer has asked for a full _____ of the delay before paying the bill.",
+    "options": [
+     "layout",
+     "explanation",
+     "symbol",
+     "audience"
+    ],
+    "answer": 1,
+    "vocabIndex": 4
+   },
+   {
+    "q": "The bar chart is a simple _____ of our sales in each region. Taller bars mean higher sales.",
+    "options": [
+     "audience",
+     "emphasis",
+     "icon",
+     "representation"
+    ],
+    "answer": 3,
+    "vocabIndex": 5
+   },
+   {
+    "q": "Please read your email again before you send it. Short sentences will improve the _____ of your message to clients.",
+    "options": [
+     "clarity",
+     "icon",
+     "label",
+     "audience"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The technician drew a quick _____ on the whiteboard. It showed how all the computers in the office are connected.",
+    "options": [
+     "audience",
+     "emphasis",
+     "diagram",
+     "clarity"
+    ],
+    "answer": 2,
+    "vocabIndex": 7
+   },
+   {
+    "q": "On the safety map, a red cross is the _____ for the first-aid room. Every employee should learn what it means.",
+    "options": [
+     "audience",
+     "context",
+     "flow",
+     "symbol"
+    ],
+    "answer": 3,
+    "vocabIndex": 8
+   },
+   {
+    "q": "To print the report, click the small printer _____ at the top of the screen. The document will print in a few seconds.",
+    "options": [
+     "icon",
+     "audience",
+     "emphasis",
+     "context"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "The editor wrote a short _____ in the margin of the report. It explained which numbers needed to be checked again.",
+    "options": [
+     "audience",
+     "flow",
+     "annotation",
+     "layout"
+    ],
+    "answer": 2,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Each box in the warehouse has a _____ with the product name and number. This helps workers find items quickly.",
+    "options": [
+     "audience",
+     "label",
+     "emphasis",
+     "comparison"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The speaker used a red pen to _____ the most important figures. Everyone in the room noticed them right away.",
+    "options": [
+     "simplify",
+     "interpret",
+     "highlight",
+     "demonstrate"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The registration form has too many questions. We plan to _____ it so that customers can finish it in two minutes.",
+    "options": [
+     "highlight",
+     "simplify",
+     "interpret",
+     "demonstrate"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "The salesperson will visit our office on Friday. She will _____ how the new scanner works with a live test.",
+    "options": [
+     "simplify",
+     "interpret",
+     "highlight",
+     "demonstrate"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "Some employees do not understand the new holiday policy. The HR manager will _____ to them why the rules were changed.",
+    "options": [
+     "explain",
+     "highlight",
+     "simplify",
+     "interpret"
+    ],
+    "answer": 0,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The company has changed its management _____ this year. Now each team leader reports directly to a regional director.",
+    "options": [
+     "audience",
+     "structure",
+     "symbol",
+     "icon"
+    ],
+    "answer": 1,
+    "vocabIndex": 16
+   },
+   {
+    "q": "The magazine's new _____ places the photos on the left and the text on the right. Readers say it looks cleaner.",
+    "options": [
+     "layout",
+     "audience",
+     "context",
+     "emphasis"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The sales drop looks bad on its own. In _____, however, every company in our industry lost customers this year.",
+    "options": [
+     "audience",
+     "icon",
+     "context",
+     "label"
+    ],
+    "answer": 2,
+    "vocabIndex": 18
+   },
+   {
+    "q": "A good chart shows the _____ of work from one department to the next. It helps managers find where delays happen.",
+    "options": [
+     "audience",
+     "icon",
+     "clarity",
+     "flow"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The steps must be done in the correct _____. If you skip one, the machine will not start properly.",
+    "options": [
+     "sequence",
+     "audience",
+     "icon",
+     "emphasis"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The report includes a _____ of prices from three suppliers. It clearly shows which one offers the best deal.",
+    "options": [
+     "audience",
+     "icon",
+     "clarity",
+     "comparison"
+    ],
+    "answer": 3,
+    "vocabIndex": 21
+   },
+   {
+    "q": "In her speech, the director placed strong _____ on customer safety. She repeated the point several times.",
+    "options": [
+     "audience",
+     "emphasis",
+     "icon",
+     "sequence"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
+   },
+   {
+    "q": "Customers love the simple _____ of our new mobile app. The buttons are large, and the menus are easy to use.",
+    "options": [
+     "audience",
+     "context",
+     "design",
+     "emphasis"
+    ],
+    "answer": 2,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The presenter changed her slides for a younger _____. She used fewer numbers and more short videos.",
+    "options": [
+     "icon",
+     "sequence",
+     "symbol",
+     "audience"
+    ],
+    "answer": 3,
+    "vocabIndex": 24
+   },
+   {
+    "q": "Weekly meetings have improved _____ between the sales team and the warehouse. Fewer orders are now delayed.",
+    "options": [
+     "icon",
+     "symbol",
+     "communication",
+     "layout"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Our analysts use special software for data _____. It turns huge spreadsheets into easy maps and charts.",
+    "options": [
+     "visualization",
+     "audience",
+     "emphasis",
+     "icon"
+    ],
+    "answer": 0,
+    "vocabIndex": 27
+   },
+   {
+    "q": "The first slide gives a brief _____ of the whole project. Later slides explain each stage in more detail.",
+    "options": [
+     "audience",
+     "overview",
+     "icon",
+     "symbol"
+    ],
+    "answer": 1,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The survey results are full of numbers and percentages. We need an expert to help us _____ what they really mean.",
+    "options": [
+     "interpret",
+     "highlight",
+     "simplify",
+     "demonstrate"
+    ],
+    "answer": 0,
+    "vocabIndex": 26
+   },
+   {
+    "q": "New staff must watch a short _____ video before using the forklift. It shows each safety step clearly.",
+    "options": [
+     "polite",
+     "annual",
+     "instructional",
+     "nervous"
+    ],
+    "answer": 2,
+    "vocabIndex": 29
+   }
+  ]
+ },
+ "105": {
+  "theme": "Difficult 困難",
+  "source": "https://www.examword.com/group-topic/difficult",
+  "VOCAB": [
+   {
+    "word": "hard",
+    "pos": "adj.",
+    "en_def": "not easy to do or understand",
+    "cn_def": "困難的；艱難的",
+    "sentence": "A: Why did so many of the new interns stay late at the office last night instead of going home at six o'clock as usual? B: The manager gave them a very {{BLANK}} test on the new accounting software, and most of them needed extra time to finish all the questions correctly.",
+    "cn": "A：為什麼很多新來的實習生昨晚留在辦公室加班，而不是像平常一樣六點回家？ B：經理給了他們一份關於新會計軟體、非常【困難】的測驗，大部分人都需要額外的時間才能把所有題目答對。",
+    "collocation": "find it hard to believe 覺得難以置信"
+   },
+   {
+    "word": "challenging",
+    "pos": "adj.",
+    "en_def": "difficult in a way that tests your skills",
+    "cn_def": "具挑戰性的",
+    "sentence": "A: Are you enjoying your new position in the marketing department, or do you miss working with the sales team on the second floor? B: I really like it, because the work is {{BLANK}} and I have to learn new skills every week, but I sometimes miss chatting with my old teammates at lunch.",
+    "cn": "A：你喜歡行銷部的新職位嗎？還是你會想念和二樓業務團隊一起工作的日子？ B：我真的很喜歡，因為這份工作很【具挑戰性】，我每週都得學新技能，不過我有時候會想念午餐時和老同事聊天。",
+    "collocation": "a challenging but rewarding job 具挑戰性但有成就感的工作"
+   },
+   {
+    "word": "tough",
+    "pos": "adj.",
+    "en_def": "difficult to deal with; needing a lot of effort",
+    "cn_def": "棘手的；艱難的",
+    "sentence": "A: Has the board of directors decided whether to close the small branch in the north of the city, which has been losing money for years? B: Not yet, because it is a {{BLANK}} decision for them, since forty loyal employees work there and many local customers still depend on that branch.",
+    "cn": "A：董事會決定是否要關閉市區北邊那家虧損多年的小分店了嗎？ B：還沒有，因為這對他們來說是個【艱難的】決定，那裡有四十名忠誠的員工，而且許多當地顧客仍然依賴那家分店。",
+    "collocation": "make a tough decision 做出艱難的決定"
+   },
+   {
+    "word": "demanding",
+    "pos": "adj.",
+    "en_def": "needing a lot of time, energy or attention",
+    "cn_def": "要求高的；費力的",
+    "sentence": "A: Why does Rachel look so tired these days, and is she still working on the big hotel project for our client in Singapore? B: Yes, she is, and the client is very {{BLANK}}, so she has to answer emails late at night and change the designs again and again until they are satisfied.",
+    "cn": "A：瑞秋最近為什麼看起來這麼累？她還在負責新加坡客戶的那個大型飯店案子嗎？ B：是的，而且那位客戶非常【要求高】，所以她得在深夜回覆電子郵件，還要一再修改設計直到他們滿意為止。",
+    "collocation": "a demanding customer 要求很多的顧客"
+   },
+   {
+    "word": "complicated",
+    "pos": "adj.",
+    "en_def": "having many parts, so it is hard to understand",
+    "cn_def": "複雜的",
+    "sentence": "A: Could you help me fill out this travel expense form, because I have tried three times and the finance office keeps sending it back to me? B: Of course, the form is quite {{BLANK}} with all those boxes and codes, so let's sit down together after lunch and check each section one by one.",
+    "cn": "A：你可以幫我填這張差旅費報銷單嗎？我已經填了三次，財務室一直退回給我。 B：當然可以，這張表格有那麼多欄位和代碼，相當【複雜】，我們午餐後一起坐下來，一個部分一個部分檢查吧。",
+    "collocation": "a complicated process 複雜的程序"
+   },
+   {
+    "word": "complex",
+    "pos": "adj.",
+    "en_def": "made of many connected parts",
+    "cn_def": "複雜的；錯綜的",
+    "sentence": "A: Why is the new computer system taking so long to install in our head office, when the technicians promised it would be ready last Friday? B: The system is very {{BLANK}}, because it connects our sales, payroll and warehouse records, so the technicians must test every link carefully before we can use it.",
+    "cn": "A：新的電腦系統為什麼在總部安裝這麼久？技術人員明明保證上週五就會好。 B：這套系統非常【複雜】，因為它串連了我們的銷售、薪資和倉庫紀錄，所以技術人員必須仔細測試每一個連結，我們才能使用。",
+    "collocation": "a complex system 複雜的系統"
+   },
+   {
+    "word": "tricky",
+    "pos": "adj.",
+    "en_def": "difficult and needing care or skill",
+    "cn_def": "棘手的；需要技巧的",
+    "sentence": "A: Do you think I should tell our biggest customer about the delay in person, or would it be better to send a short email this afternoon? B: It's a {{BLANK}} situation, so I think you should call her first and explain the reason politely, and then send an email with the new delivery date.",
+    "cn": "A：你覺得我該親自告訴我們最大的客戶延誤的事，還是今天下午寄一封簡短的電子郵件比較好？ B：這是個【棘手的】情況，所以我認為你應該先打電話給她，禮貌地說明原因，然後再寄一封寫明新交貨日期的電子郵件。",
+    "collocation": "a tricky question 棘手的問題"
+   },
+   {
+    "word": "problematic",
+    "pos": "adj.",
+    "en_def": "causing problems; hard to deal with",
+    "cn_def": "有問題的；難處理的",
+    "sentence": "A: Why did the company stop using the cheap printers that the purchasing team bought from the new supplier last spring? B: They turned out to be {{BLANK}}, because the paper got stuck almost every day, and the repair costs were much higher than the money we saved when we first bought them.",
+    "cn": "A：公司為什麼不再使用採購部去年春天向新供應商買的那些便宜印表機？ B：結果那些印表機很【有問題】，幾乎每天都卡紙，而且維修費比我們當初購買時省下的錢高得多。",
+    "collocation": "prove problematic 結果證明有問題"
+   },
+   {
+    "word": "burdensome",
+    "pos": "adj.",
+    "en_def": "causing worry or hard work, like a heavy load",
+    "cn_def": "繁重的；累贅的",
+    "sentence": "A: Why do small shop owners in this area want the city government to make the new tax forms simpler and shorter? B: They say the paperwork is too {{BLANK}}, because it takes them several hours every month, and they would rather spend that time serving customers and running their businesses.",
+    "cn": "A：為什麼這一區的小商家希望市政府把新的稅務表格改得更簡單、更簡短？ B：他們說這些文書工作太【繁重】了，每個月要花好幾個小時，他們寧願把那些時間拿來服務顧客、經營生意。",
+    "collocation": "burdensome regulations 繁重的法規"
+   },
+   {
+    "word": "arduous",
+    "pos": "adj.",
+    "en_def": "needing a lot of effort and energy over a long time",
+    "cn_def": "艱鉅的；費力的",
+    "sentence": "A: How was the trip to the new factory in the mountains, and did the engineers manage to check all the machines before the weekend? B: It was an {{BLANK}} journey, because the road was narrow and muddy after the heavy rain, but the engineers finally arrived and finished their inspection on Saturday morning.",
+    "cn": "A：去山區新工廠的行程如何？工程師們有在週末前檢查完所有機器嗎？ B：那是一段【艱辛的】旅程，因為大雨過後道路又窄又泥濘，不過工程師們最後還是抵達了，並在星期六早上完成了檢查。",
+    "collocation": "an arduous journey 艱辛的旅程"
+   },
+   {
+    "word": "laborious",
+    "pos": "adj.",
+    "en_def": "taking a lot of time and slow, careful work",
+    "cn_def": "費力的；費時的",
+    "sentence": "A: Why are we buying a scanner for the archive room when the old files have been kept in boxes for more than twenty years? B: Typing every old contract into the computer by hand is a {{BLANK}} task, so the scanner will save the staff many hours and reduce the number of mistakes.",
+    "cn": "A：舊檔案已經放在箱子裡二十多年了，為什麼我們還要為檔案室買一台掃描器？ B：把每一份舊合約用手打進電腦是件很【費時費力的】工作，所以掃描器能幫員工省下許多時間，也能減少錯誤。",
+    "collocation": "a laborious process 費時費力的過程"
+   },
+   {
+    "word": "strenuous",
+    "pos": "adj.",
+    "en_def": "needing a lot of physical effort",
+    "cn_def": "費力的；激烈的（體力）",
+    "sentence": "A: Will Mr. Lee join the team-building hike up the mountain next Saturday, or is he still recovering from his knee operation? B: His doctor told him to avoid {{BLANK}} exercise for at least two more months, so he will meet us at the restaurant for dinner after the hike instead.",
+    "cn": "A：李先生下週六會參加登山的團隊建立活動嗎？還是他的膝蓋手術還在恢復中？ B：他的醫生要他至少再兩個月避免【激烈的】運動，所以他會改在健行結束後到餐廳和我們一起吃晚餐。",
+    "collocation": "avoid strenuous activity 避免劇烈活動"
+   },
+   {
+    "word": "formidable",
+    "pos": "adj.",
+    "en_def": "powerful and difficult to defeat or deal with",
+    "cn_def": "強大的；令人敬畏的",
+    "sentence": "A: Why is our sales director so worried about the new electronics store that will open across the street next month? B: That company is a {{BLANK}} competitor, because it has lower prices, a famous brand and a huge advertising budget, so we need a strong plan to keep our regular customers.",
+    "cn": "A：為什麼我們的業務總監這麼擔心下個月要在對街開幕的那家新電子商店？ B：那家公司是個【強大的】競爭對手，價格比較低、品牌有名，而且廣告預算龐大，所以我們需要一個有力的計畫來留住老顧客。",
+    "collocation": "a formidable opponent 強勁的對手"
+   },
+   {
+    "word": "daunting",
+    "pos": "adj.",
+    "en_def": "making you feel nervous or less confident",
+    "cn_def": "令人卻步的；令人畏懼的",
+    "sentence": "A: How do you feel about leading the training session for two hundred new employees at the annual conference next month? B: To be honest, it seems a bit {{BLANK}}, because I have never spoken in front of such a large crowd, but my manager will help me practice my presentation every afternoon this week.",
+    "cn": "A：下個月要在年度大會上帶領兩百名新進員工的訓練課程，你感覺如何？ B：老實說，這看起來有點【令人卻步】，因為我從來沒有在這麼多人面前說過話，不過我的經理這週每天下午都會幫我練習簡報。",
+    "collocation": "a daunting task 令人卻步的任務"
+   },
+   {
+    "word": "gruelling",
+    "pos": "adj.",
+    "en_def": "very tiring and difficult for a long time",
+    "cn_def": "累垮人的；極度辛苦的",
+    "sentence": "A: Why are the nurses at the city hospital asking the managers to hire more staff and change the work schedule this winter? B: They often work {{BLANK}} twelve-hour shifts without a proper break, and many of them feel too exhausted to take good care of their patients by the end of the night.",
+    "cn": "A：今年冬天，市立醫院的護理師為什麼要求主管多聘人手並調整班表？ B：她們常常得上【累垮人的】十二小時班，中間沒有像樣的休息，很多人到了深夜都累到無法好好照顧病人。",
+    "collocation": "a gruelling schedule 累人的行程"
+   },
+   {
+    "word": "cumbersome",
+    "pos": "adj.",
+    "en_def": "large, heavy and difficult to carry or use",
+    "cn_def": "笨重的；麻煩的",
+    "sentence": "A: Why did the sales team ask for lighter laptops when the old ones still work perfectly well for writing reports? B: The old laptops are big and {{BLANK}}, so carrying them to meetings with clients all over the city every day makes everyone's shoulders sore and tired.",
+    "cn": "A：舊筆電寫報告明明還很好用，業務團隊為什麼要求換比較輕的筆電？ B：舊筆電又大又【笨重】，每天帶著它們到城市各處和客戶開會，大家的肩膀都又痠又累。",
+    "collocation": "cumbersome equipment 笨重的設備"
+   },
+   {
+    "word": "awkward",
+    "pos": "adj.",
+    "en_def": "making people feel uncomfortable or embarrassed",
+    "cn_def": "尷尬的；令人不自在的",
+    "sentence": "A: What happened at the meeting this morning, and why did everyone leave the room so quietly when it was over? B: The manager accidentally showed a slide with the wrong sales figures in front of the client, and there was an {{BLANK}} silence for a few seconds before he apologized and corrected it.",
+    "cn": "A：今天早上的會議發生了什麼事？為什麼會議結束時大家都那麼安靜地離開房間？ B：經理不小心在客戶面前放了一張銷售數字錯誤的投影片，在他道歉並更正之前，現場出現了幾秒鐘【尷尬的】沉默。",
+    "collocation": "an awkward situation 尷尬的處境"
+   },
+   {
+    "word": "thorny",
+    "pos": "adj.",
+    "en_def": "difficult and likely to cause arguments",
+    "cn_def": "棘手的；麻煩的",
+    "sentence": "A: Are the managers going to talk about pay raises at the staff meeting on Friday, or will they discuss it later in private? B: Salary is a {{BLANK}} issue in this company, so they plan to meet each employee in private next month, because they don't want an argument during the general meeting.",
+    "cn": "A：經理們會在星期五的員工會議上談加薪的事嗎？還是之後私下再討論？ B：薪資在這家公司是個【棘手的】問題，所以他們打算下個月私下和每位員工面談，因為他們不希望在全體會議上起爭執。",
+    "collocation": "a thorny issue 棘手的問題"
+   },
+   {
+    "word": "onerous",
+    "pos": "adj.",
+    "en_def": "involving a lot of work or responsibility that is hard to bear",
+    "cn_def": "繁重的；費力的",
+    "sentence": "A: Why did the assistant manager decide to step down from the safety committee after only three months in the role? B: The extra duties became too {{BLANK}} for her, because she had to write weekly reports and inspect every floor while still managing her own team of fifteen people.",
+    "cn": "A：副理為什麼才在安全委員會待了三個月就決定卸下職務？ B：額外的職責對她來說變得太【繁重】了，因為她得寫每週報告、檢查每一層樓，同時還要管理自己十五個人的團隊。",
+    "collocation": "onerous responsibilities 繁重的責任"
+   },
+   {
+    "word": "inconvenient",
+    "pos": "adj.",
+    "en_def": "causing problems or extra effort, especially about time or place",
+    "cn_def": "不方便的",
+    "sentence": "A: Could we move the video call with the suppliers in Germany to eight o'clock tomorrow morning, since I have a dentist appointment at nine? B: I'm afraid that would be an {{BLANK}} time for them, because it would be one o'clock in the morning there, so let's ask about the afternoon instead.",
+    "cn": "A：因為我九點要看牙醫，可以把和德國供應商的視訊會議改到明天早上八點嗎？ B：恐怕那對他們來說是個【不方便的】時間，因為那邊是凌晨一點，所以我們改問看看下午可不可以吧。",
+    "collocation": "at an inconvenient time 在不方便的時間"
+   },
+   {
+    "word": "exacting",
+    "pos": "adj.",
+    "en_def": "expecting a very high level of care and accuracy",
+    "cn_def": "嚴格的；要求極高的",
+    "sentence": "A: Why does every watch from this factory pass through five separate checks before it is packed and sent to the stores? B: The company has very {{BLANK}} standards, so even a tiny scratch on the glass means the watch must be repaired before any customer can buy it.",
+    "cn": "A：為什麼這家工廠的每支手錶在包裝送到店面前，都要經過五道不同的檢查？ B：這家公司的標準非常【嚴格】，所以即使玻璃上只有一道小刮痕，那支手錶也必須先修好，才能賣給任何顧客。",
+    "collocation": "exacting standards 嚴格的標準"
+   },
+   {
+    "word": "intimidating",
+    "pos": "adj.",
+    "en_def": "making you feel nervous or a little afraid",
+    "cn_def": "令人膽怯的；嚇人的",
+    "sentence": "A: How was your job interview at the law firm downtown, and do you think you will get a second interview next week? B: The three partners asked very serious questions and hardly smiled, so the atmosphere was quite {{BLANK}}, but I stayed calm and answered everything as clearly as I could.",
+    "cn": "A：你在市中心那家律師事務所的面試如何？你覺得下週會有第二次面試嗎？ B：三位合夥人問的問題都很嚴肅，幾乎沒有笑容，所以氣氛相當【令人緊張害怕】，不過我保持冷靜，盡可能清楚地回答了每一個問題。",
+    "collocation": "an intimidating interviewer 令人膽怯的面試官"
+   },
+   {
+    "word": "obstacle",
+    "pos": "n.",
+    "en_def": "something that stops you or makes progress difficult",
+    "cn_def": "障礙；阻礙",
+    "sentence": "A: Why hasn't the company opened its new branch in Tokyo yet, when the plan was announced at the shareholders' meeting two years ago? B: The biggest {{BLANK}} has been finding enough staff who speak both English and Japanese, so the human resources team is now running language classes for current employees.",
+    "cn": "A：公司兩年前就在股東大會上宣布了計畫，為什麼到現在還沒在東京開設新分公司？ B：最大的【障礙】一直是找不到足夠會說英語和日語的員工，所以人資團隊現在正為現有員工開設語言課程。",
+    "collocation": "overcome an obstacle 克服障礙"
+   },
+   {
+    "word": "barrier",
+    "pos": "n.",
+    "en_def": "a problem that stops people from doing something or communicating",
+    "cn_def": "障礙；隔閡",
+    "sentence": "A: Why did the hotel hire two new receptionists who can speak Korean and Thai, even though most of our guests understand some English? B: The manager noticed that the language {{BLANK}} was causing many problems at the front desk, so guests were often confused about check-out times and room charges.",
+    "cn": "A：雖然大部分客人都懂一點英文，為什麼飯店還是聘了兩位會說韓語和泰語的新櫃檯人員？ B：經理注意到語言【隔閡】在櫃檯造成了很多問題，客人常常搞不清楚退房時間和房間費用。",
+    "collocation": "the language barrier 語言隔閡"
+   },
+   {
+    "word": "hurdle",
+    "pos": "n.",
+    "en_def": "a problem you must deal with before you can make progress",
+    "cn_def": "難關；障礙",
+    "sentence": "A: Has the government approved the plan for our new shopping mall near the train station, or are we still waiting for more documents? B: We passed the safety inspection last week, which was the final {{BLANK}}, so the builders can start working on the site as soon as the weather improves next month.",
+    "cn": "A：政府核准我們在火車站附近蓋新購物中心的計畫了嗎？還是我們還在等更多文件？ B：我們上週通過了安全檢查，那是最後一道【難關】，所以下個月天氣一好轉，營造商就能開始在工地施工。",
+    "collocation": "clear the final hurdle 通過最後一道難關"
+   },
+   {
+    "word": "complication",
+    "pos": "n.",
+    "en_def": "a new problem that makes a situation more difficult",
+    "cn_def": "併發症；使情況更複雜的因素",
+    "sentence": "A: How is your father doing after his heart operation, and when do you think you can come back to the office full-time? B: The doctors say the operation went well, but they want to keep him in the hospital for a few more days in case there is any {{BLANK}}, so I will return next Monday.",
+    "cn": "A：你父親心臟手術後還好嗎？你覺得你什麼時候能回辦公室全職上班？ B：醫生說手術很順利，不過他們想讓他再住院幾天，以防出現任何【併發症】，所以我下星期一會回去上班。",
+    "collocation": "an unexpected complication 意外的複雜情況"
+   },
+   {
+    "word": "predicament",
+    "pos": "n.",
+    "en_def": "a difficult or unpleasant situation that is hard to get out of",
+    "cn_def": "困境；窘境",
+    "sentence": "A: Why was Mark so late for the sales conference in Osaka, and did he miss his own presentation in the afternoon? B: He was in a real {{BLANK}} after he lost his passport at the airport, but the embassy helped him quickly, and he arrived just ten minutes before his presentation started.",
+    "cn": "A：馬克為什麼參加大阪的業務研討會遲到這麼久？他有錯過自己下午的簡報嗎？ B：他在機場弄丟護照後陷入了真正的【困境】，不過大使館很快就幫了他，他在簡報開始前十分鐘才趕到。",
+    "collocation": "be in a predicament 處於困境"
+   },
+   {
+    "word": "dilemma",
+    "pos": "n.",
+    "en_def": "a situation in which you must choose between two difficult options",
+    "cn_def": "兩難；進退兩難",
+    "sentence": "A: Has the owner of the restaurant decided what to do now that the price of meat and vegetables has gone up so much? B: She faces a {{BLANK}}, because she can either raise the menu prices and lose some customers, or keep the prices the same and earn almost no profit this year.",
+    "cn": "A：肉類和蔬菜價格漲了這麼多，餐廳老闆決定好該怎麼做了嗎？ B：她面臨【兩難】，因為她可以調高菜單價格但會流失一些顧客，或者維持原價但今年幾乎賺不到利潤。",
+    "collocation": "face a dilemma 面臨兩難"
+   },
+   {
+    "word": "adversity",
+    "pos": "n.",
+    "en_def": "a very difficult or unlucky situation",
+    "cn_def": "逆境；困境",
+    "sentence": "A: Why do so many employees respect the founder of our company, even though she is very strict about deadlines? B: She kept the business running during the economic crisis without firing anyone, and she always stayed calm and positive in the face of {{BLANK}}, which encouraged everyone to work harder.",
+    "cn": "A：雖然我們公司的創辦人對截止期限非常嚴格，為什麼還是有這麼多員工尊敬她？ B：她在經濟危機期間沒有解雇任何人，讓公司持續運作，而且面對【逆境】時她總是保持冷靜和積極，這鼓勵了大家更努力工作。",
+    "collocation": "overcome adversity 克服逆境"
+   },
+   {
+    "word": "hardship",
+    "pos": "n.",
+    "en_def": "a situation in which life is very difficult, often because of a lack of money",
+    "cn_def": "艱難；困苦",
+    "sentence": "A: Why did the factory owners decide to give every worker a small bonus this month, even though sales have been slow all year? B: They knew that many families were suffering financial {{BLANK}} after the typhoon damaged their homes, so they wanted to help them pay for repairs and food.",
+    "cn": "A：雖然今年整年銷售都很慢，為什麼工廠老闆還是決定這個月給每位工人一小筆獎金？ B：他們知道很多家庭在颱風損壞房屋後面臨經濟上的【困苦】，所以想幫他們支付修繕和食物的費用。",
+    "collocation": "suffer financial hardship 遭受經濟困難"
+   },
+   {
+    "word": "trial",
+    "pos": "n.",
+    "en_def": "a difficult experience that tests your patience or strength",
+    "cn_def": "考驗；磨難",
+    "sentence": "A: How was your first year running the small coffee shop near the university, and are you planning to open a second one soon? B: It was a real {{BLANK}} of my patience, because I had money problems and staff kept quitting, but now business is steady and I'm thinking about a second shop.",
+    "cn": "A：你在大學附近經營小咖啡店的第一年過得如何？你打算很快開第二家店嗎？ B：那真的是對我耐心的一大【考驗】，因為我遇到資金問題，員工又一直離職，不過現在生意穩定了，我正在考慮開第二家店。",
+    "collocation": "trials and tribulations 種種磨難"
+   },
+   {
+    "word": "ordeal",
+    "pos": "n.",
+    "en_def": "a very unpleasant and painful experience",
+    "cn_def": "痛苦的經歷；折磨",
+    "sentence": "A: Did the passengers on the flight from London finally arrive, after the plane was stuck on the runway in the snowstorm? B: Yes, they landed this morning after a twelve-hour {{BLANK}} without proper food or sleep, so the airline gave each of them a free hotel room and a meal voucher.",
+    "cn": "A：從倫敦起飛的那班飛機在暴風雪中困在跑道上之後，乘客們終於抵達了嗎？ B：是的，他們今天早上降落，經歷了沒有像樣食物和睡眠的十二小時【折磨】，所以航空公司給每個人一間免費飯店房間和一張餐券。",
+    "collocation": "go through an ordeal 經歷一場折磨"
+   },
+   {
+    "word": "frustrating",
+    "pos": "adj.",
+    "en_def": "making you feel annoyed because you cannot do what you want",
+    "cn_def": "令人沮喪的；令人氣惱的",
+    "sentence": "A: Why are you still at your desk at seven o'clock, when you told me you would leave early to watch the baseball game tonight? B: My computer froze three times while I was saving the monthly report, and I had to type everything again, which was really {{BLANK}}, so now I'm hurrying to finish it.",
+    "cn": "A：你不是跟我說今晚要提早走去看棒球比賽嗎？為什麼七點了還坐在位子上？ B：我在存月報時電腦當機了三次，我得全部重打，真的很【令人沮喪】，所以我現在正趕著把它完成。",
+    "collocation": "a frustrating experience 令人沮喪的經驗"
+   },
+   {
+    "word": "taxing",
+    "pos": "adj.",
+    "en_def": "needing a lot of mental or physical effort",
+    "cn_def": "費力的；累人的",
+    "sentence": "A: Why do you look so tired today, when you usually have so much energy after a normal day of work in the office? B: I spent the whole day checking a long contract word by word with our lawyers, and it was mentally {{BLANK}}, so I just want to go home and rest.",
+    "cn": "A：你平常在辦公室工作一整天後還很有精神，為什麼今天看起來這麼累？ B：我整天都和律師們逐字檢查一份很長的合約，在腦力上非常【累人】，所以我只想回家休息。",
+    "collocation": "mentally taxing work 耗費腦力的工作"
+   },
+   {
+    "word": "impossible",
+    "pos": "adj.",
+    "en_def": "not able to happen or be done",
+    "cn_def": "不可能的",
+    "sentence": "A: Can your team finish translating all two hundred pages of the product manual by tomorrow morning, before the client's meeting? B: I'm sorry, but that is {{BLANK}} with only three translators, so could you ask the client to accept the first fifty pages tomorrow and the rest by Friday?",
+    "cn": "A：你的團隊能在明天早上客戶開會前，把整本兩百頁的產品手冊翻譯完嗎？ B：很抱歉，只有三位譯者的話那是【不可能的】，所以你能不能請客戶接受明天先交前五十頁，其餘的星期五前交？",
+    "collocation": "an impossible deadline 不可能達成的期限"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The bread from that bakery was left out overnight. By morning it was too _____ to cut with a normal knife.",
+    "options": [
+     "demanding",
+     "hard",
+     "burdensome",
+     "onerous"
+    ],
+    "answer": 1,
+    "vocabIndex": 0
+   },
+   {
+    "q": "Nursing can be a stressful career. However, most nurses describe it as a _____ but rewarding job that they truly love.",
+    "options": [
+     "challenging",
+     "awkward",
+     "inconvenient",
+     "cumbersome"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "Sales fell sharply for the third year in a row. The manager had to make the _____ decision to close two stores.",
+    "options": [
+     "laborious",
+     "cumbersome",
+     "strenuous",
+     "tough"
+    ],
+    "answer": 3,
+    "vocabIndex": 2
+   },
+   {
+    "q": "Our new boss expects reports to be perfect and on time. He is very _____, but he is also fair to everyone.",
+    "options": [
+     "laborious",
+     "cumbersome",
+     "demanding",
+     "inconvenient"
+    ],
+    "answer": 2,
+    "vocabIndex": 3
+   },
+   {
+    "q": "The assembly instructions were long and full of technical terms. They were so _____ that nobody could build the desk.",
+    "options": [
+     "strenuous",
+     "gruelling",
+     "inconvenient",
+     "complicated"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "Parking in the narrow lane behind the office is a bit _____. Please drive slowly and use your mirrors carefully.",
+    "options": [
+     "onerous",
+     "arduous",
+     "tricky",
+     "formidable"
+    ],
+    "answer": 2,
+    "vocabIndex": 6
+   },
+   {
+    "q": "The new booking software has proved _____ for our staff. It crashes almost every afternoon and loses customer orders.",
+    "options": [
+     "strenuous",
+     "problematic",
+     "gruelling",
+     "arduous"
+    ],
+    "answer": 1,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The climbers reached the mountain hut after an _____ eight-hour journey. They were cold, hungry and completely exhausted.",
+    "options": [
+     "arduous",
+     "exacting",
+     "awkward",
+     "onerous"
+    ],
+    "answer": 0,
+    "vocabIndex": 9
+   },
+   {
+    "q": "Before the new scanners arrived, staff entered every invoice by hand. It was a slow and _____ process that caused many errors.",
+    "options": [
+     "formidable",
+     "intimidating",
+     "awkward",
+     "laborious"
+    ],
+    "answer": 3,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Our sales manager is recovering from back surgery. Her doctor has told her to avoid _____ exercise for at least six weeks.",
+    "options": [
+     "thorny",
+     "strenuous",
+     "inconvenient",
+     "problematic"
+    ],
+    "answer": 1,
+    "vocabIndex": 11
+   },
+   {
+    "q": "The new online bookstore offers free delivery and very low prices. It has become a _____ competitor for local shops.",
+    "options": [
+     "formidable",
+     "laborious",
+     "inconvenient",
+     "cumbersome"
+    ],
+    "answer": 0,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The warehouse staff worked _____ fourteen-hour shifts during the holiday season. Many of them needed a week off afterwards.",
+    "options": [
+     "thorny",
+     "complicated",
+     "gruelling",
+     "problematic"
+    ],
+    "answer": 2,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The old projector is large and _____. It takes two people to carry it from one meeting room to another.",
+    "options": [
+     "thorny",
+     "exacting",
+     "demanding",
+     "cumbersome"
+    ],
+    "answer": 3,
+    "vocabIndex": 15
+   },
+   {
+    "q": "Nobody knew what to say after the CEO's surprising announcement. There was an _____ silence in the meeting room.",
+    "options": [
+     "exacting",
+     "onerous",
+     "awkward",
+     "arduous"
+    ],
+    "answer": 2,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Working from home is a _____ issue in our company. Managers and staff have argued about it for months.",
+    "options": [
+     "thorny",
+     "strenuous",
+     "laborious",
+     "gruelling"
+    ],
+    "answer": 0,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The new tax rules place an _____ burden on small businesses. Owners now spend many hours each month on paperwork.",
+    "options": [
+     "intimidating",
+     "onerous",
+     "awkward",
+     "exacting"
+    ],
+    "answer": 1,
+    "vocabIndex": 18
+   },
+   {
+    "q": "I'm sorry to call you so late in the evening. Is this an _____ time to talk about tomorrow's schedule?",
+    "options": [
+     "onerous",
+     "arduous",
+     "inconvenient",
+     "exacting"
+    ],
+    "answer": 2,
+    "vocabIndex": 19
+   },
+   {
+    "q": "The watchmaker trains his staff for three years. His _____ standards mean that every single part must be perfect.",
+    "options": [
+     "exacting",
+     "inconvenient",
+     "cumbersome",
+     "awkward"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The interviewer never smiled and asked very sharp questions. Many young applicants found him quite _____ during the interview.",
+    "options": [
+     "cumbersome",
+     "intimidating",
+     "laborious",
+     "arduous"
+    ],
+    "answer": 1,
+    "vocabIndex": 21
+   },
+   {
+    "q": "Many hotel guests could not explain their problems at the front desk. The language _____ caused a lot of confusion.",
+    "options": [
+     "dilemma",
+     "adversity",
+     "ordeal",
+     "barrier"
+    ],
+    "answer": 3,
+    "vocabIndex": 23
+   },
+   {
+    "q": "The city council finally approved the building plan last week. That was the last _____ before construction could begin.",
+    "options": [
+     "hurdle",
+     "adversity",
+     "dilemma",
+     "predicament"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The patient recovered quickly after the operation. Doctors watched him closely for any _____, but none appeared.",
+    "options": [
+     "dilemma",
+     "complication",
+     "hurdle",
+     "adversity"
+    ],
+    "answer": 1,
+    "vocabIndex": 25
+   },
+   {
+    "q": "Tom lost his wallet and phone during a business trip abroad. He was in a difficult _____ until a colleague sent help.",
+    "options": [
+     "barrier",
+     "obstacle",
+     "predicament",
+     "hurdle"
+    ],
+    "answer": 2,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The company faces a _____ this year. It must either cut staff or raise prices, and both choices are unpopular.",
+    "options": [
+     "hardship",
+     "adversity",
+     "ordeal",
+     "dilemma"
+    ],
+    "answer": 3,
+    "vocabIndex": 27
+   },
+   {
+    "q": "Our founder started the business during a deep recession. She showed great courage in the face of _____.",
+    "options": [
+     "obstacle",
+     "hurdle",
+     "adversity",
+     "dilemma"
+    ],
+    "answer": 2,
+    "vocabIndex": 28
+   },
+   {
+    "q": "The first winter running the hotel tested everyone. It was a real _____ of the owners' patience and energy.",
+    "options": [
+     "trial",
+     "barrier",
+     "hurdle",
+     "predicament"
+    ],
+    "answer": 0,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The ferry passengers were stuck at sea for two days during the storm. Their _____ finally ended when rescue boats arrived.",
+    "options": [
+     "dilemma",
+     "ordeal",
+     "predicament",
+     "barrier"
+    ],
+    "answer": 1,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The website kept freezing while I was booking our flights. It was really _____ to start the whole process again.",
+    "options": [
+     "strenuous",
+     "formidable",
+     "arduous",
+     "frustrating"
+    ],
+    "answer": 3,
+    "vocabIndex": 32
+   },
+   {
+    "q": "Checking long legal contracts all day is mentally _____ work. Our lawyers usually take a short break every hour.",
+    "options": [
+     "taxing",
+     "thorny",
+     "inconvenient",
+     "awkward"
+    ],
+    "answer": 0,
+    "vocabIndex": 33
+   },
+   {
+    "q": "We have only two workers and five hundred boxes to pack. It is _____ to finish the order by noon today.",
+    "options": [
+     "cumbersome",
+     "thorny",
+     "awkward",
+     "impossible"
+    ],
+    "answer": 3,
+    "vocabIndex": 34
+   }
+  ]
+ },
+ "106": {
+  "theme": "Dinner 晚餐",
+  "source": "https://www.examword.com/group-topic/dinner",
+  "VOCAB": [
+   {
+    "word": "supper",
+    "pos": "n.",
+    "en_def": "a light meal eaten in the evening",
+    "cn_def": "晚餐；宵夜",
+    "sentence": "A: The workshop with our partners in Osaka finishes very late on Friday, so where should the team eat after the final session ends? B: The hotel restaurant stays open until eleven, so I booked a simple {{BLANK}} there for everyone, and we can relax and talk about the results before we go back to our rooms.",
+    "cn": "A：我們和大阪合作夥伴的研習會星期五很晚才結束，最後一場結束後團隊要去哪裡吃東西？ B：飯店餐廳營業到十一點，所以我幫大家在那裡訂了簡單的【晚餐】，我們可以在回房間之前放鬆一下，聊聊這次的成果。",
+    "collocation": "have a late supper after work 下班後吃頓晚的晚餐"
+   },
+   {
+    "word": "meal",
+    "pos": "n.",
+    "en_def": "food eaten at one time, such as breakfast, lunch or dinner",
+    "cn_def": "一餐；餐點",
+    "sentence": "A: Our new clients from Germany are arriving at the airport at six this evening, and they will probably be tired and hungry after such a long flight. B: Then let's take them straight to the Italian restaurant near their hotel, so they can enjoy a good {{BLANK}} and get some rest before tomorrow's long meeting.",
+    "cn": "A：我們德國的新客戶今晚六點抵達機場，經過這麼長的飛行，他們大概會又累又餓。 B：那我們就直接帶他們去飯店附近的義大利餐廳，讓他們好好享用一【餐】，在明天冗長的會議前休息一下。",
+    "collocation": "enjoy a three-course meal 享用三道菜的套餐"
+   },
+   {
+    "word": "feast",
+    "pos": "n.",
+    "en_def": "a large special meal for many people, often to celebrate",
+    "cn_def": "盛宴；大餐",
+    "sentence": "A: How did the company celebrate after the sales team broke its record for the whole year, and did the CEO attend the party? B: Yes, she came and gave a short speech, and then the hotel prepared a huge {{BLANK}} with roast meat, fresh seafood and many kinds of cakes, so everyone ate until midnight.",
+    "cn": "A：業務團隊打破全年紀錄後，公司是怎麼慶祝的？執行長有出席派對嗎？ B：有，她來了並做了簡短致詞，然後飯店準備了一場豐盛的【盛宴】，有烤肉、新鮮海鮮和各式各樣的蛋糕，所以大家一直吃到半夜。",
+    "collocation": "hold a feast to celebrate 舉辦盛宴慶祝"
+   },
+   {
+    "word": "banquet",
+    "pos": "n.",
+    "en_def": "a large formal dinner for many people, often with speeches",
+    "cn_def": "宴會；正式宴席",
+    "sentence": "A: What should I wear to the annual awards dinner at the Grand Hotel next Saturday, since this is my first year at the company? B: It is a formal {{BLANK}} for over three hundred employees and their partners, so men usually wear dark suits and women wear evening dresses, and the president gives the awards after the main dishes.",
+    "cn": "A：下週六在大飯店舉行的年度頒獎晚宴我該穿什麼？這是我在公司的第一年。 B：那是一場有三百多位員工及其伴侶參加的正式【宴會】，所以男士通常穿深色西裝，女士穿晚禮服，總裁會在主菜之後頒獎。",
+    "collocation": "attend the annual banquet 出席年度宴會"
+   },
+   {
+    "word": "buffet",
+    "pos": "n.",
+    "en_def": "a meal where people take food themselves from a long table",
+    "cn_def": "自助餐",
+    "sentence": "A: There will be about eighty people at the training seminar on Monday, so how are we going to give everyone lunch without making them wait too long? B: I asked the hotel to set up a {{BLANK}} in the hall next to the meeting room, so people can choose their own food quickly and return to their seats before the afternoon session.",
+    "cn": "A：星期一的訓練研討會大約有八十人參加，我們要怎麼讓每個人吃到午餐，又不讓他們等太久？ B：我請飯店在會議室旁邊的大廳擺設【自助餐】，這樣大家可以很快自己選餐，並在下午的課程開始前回到座位。",
+    "collocation": "an all-you-can-eat buffet 吃到飽自助餐"
+   },
+   {
+    "word": "entrée",
+    "pos": "n.",
+    "en_def": "the main dish of a meal",
+    "cn_def": "主菜",
+    "sentence": "A: The menu for the client dinner lists soup, salad and three choices for the main dish, so what do you suggest for our visitors from Japan? B: I would recommend the salmon as the {{BLANK}}, because it is the chef's most popular dish, and it is lighter than the beef, which many visitors find too heavy at night.",
+    "cn": "A：客戶晚宴的菜單上列了湯、沙拉和三種主菜選擇，你建議我們的日本訪客點什麼？ B：我會推薦鮭魚當【主菜】，因為那是主廚最受歡迎的料理，而且比牛肉清淡，很多訪客覺得牛肉晚上吃太膩。",
+    "collocation": "choose an entrée from the menu 從菜單上選一道主菜"
+   },
+   {
+    "word": "main course",
+    "pos": "n.phr.",
+    "en_def": "the largest and most important dish of a meal",
+    "cn_def": "主菜；主餐",
+    "sentence": "A: The waiter just asked whether we are ready to order, but Mr. Lee is still outside on the phone with the head office in Seoul. B: Let's order the soup and salad first, and we can wait for him to come back before choosing the {{BLANK}}, since he wants to try either the steak or the roast chicken tonight.",
+    "cn": "A：服務生剛問我們是否準備好點餐，但李先生還在外面和首爾總公司講電話。 B：我們先點湯和沙拉，等他回來再選【主菜】，因為他今晚想吃牛排或烤雞。",
+    "collocation": "serve the main course 上主菜"
+   },
+   {
+    "word": "appetizer",
+    "pos": "n.",
+    "en_def": "a small dish eaten before the main part of a meal",
+    "cn_def": "開胃菜",
+    "sentence": "A: Our visitors from the bank will arrive at the restaurant around seven, but the manager is stuck in traffic and may be thirty minutes late. B: In that case, let's order an {{BLANK}} like spring rolls or a cheese plate for the table, so the visitors have something to eat while we wait for her.",
+    "cn": "A：銀行的訪客大約七點會到餐廳，但經理塞在車陣中，可能會晚三十分鐘。 B：既然這樣，我們先幫這桌點個【開胃菜】，像是春捲或起司拼盤，讓訪客在等她的時候有東西吃。",
+    "collocation": "order an appetizer to share 點一道開胃菜分享"
+   },
+   {
+    "word": "starter",
+    "pos": "n.",
+    "en_def": "the first small dish of a meal",
+    "cn_def": "前菜；開胃菜",
+    "sentence": "A: I'm planning the menu for the London office's farewell dinner, and I'm not sure what to put before the main dishes, since some people are vegetarian. B: Tomato soup would be a good {{BLANK}}, because almost everyone likes it, it is easy for the kitchen to make, and it is safe for people who don't eat meat.",
+    "cn": "A：我正在規劃倫敦辦公室的歡送晚宴菜單，不確定主菜前要放什麼，因為有些人吃素。 B：番茄湯會是很好的【前菜】，因為幾乎每個人都喜歡，廚房也容易做，而且不吃肉的人也可以吃。",
+    "collocation": "have soup as a starter 以湯作為前菜"
+   },
+   {
+    "word": "side dish",
+    "pos": "n.phr.",
+    "en_def": "a small amount of food served with the main dish",
+    "cn_def": "配菜",
+    "sentence": "A: The steak at this restaurant looks really good, but does it come with anything else, or do we have to pay extra for vegetables and potatoes? B: Each main plate comes with one free {{BLANK}}, so you can choose mashed potatoes, a green salad or fried rice, and the waiter will bring it at the same time.",
+    "cn": "A：這家餐廳的牛排看起來真不錯，但有附其他東西嗎？還是蔬菜和馬鈴薯要另外付費？ B：每份主餐都附一道免費的【配菜】，你可以選馬鈴薯泥、蔬菜沙拉或炒飯，服務生會同時送上。",
+    "collocation": "order a side dish of vegetables 點一份蔬菜配菜"
+   },
+   {
+    "word": "dessert",
+    "pos": "n.",
+    "en_def": "sweet food eaten at the end of a meal",
+    "cn_def": "甜點",
+    "sentence": "A: Everyone has finished the main dishes, and the clients seem very happy, but should we ask for the bill now or wait a little longer? B: Let's not rush, because the chef here is famous for his chocolate cake, so we should order some {{BLANK}} and coffee for the table before we finish the evening.",
+    "cn": "A：大家都吃完主菜了，客戶看起來很開心，我們現在要結帳還是再等一下？ B：別急，這裡的主廚以巧克力蛋糕聞名，所以我們應該在結束今晚之前，幫這桌點些【甜點】和咖啡。",
+    "collocation": "skip dessert 不吃甜點"
+   },
+   {
+    "word": "beverage",
+    "pos": "n.",
+    "en_def": "a drink of any kind",
+    "cn_def": "飲料",
+    "sentence": "A: The catering company sent the price list for Friday's product launch, but I'm not sure whether drinks are included in the price per person. B: Food is included, but every {{BLANK}} such as juice, soda and coffee costs extra, so please check how many people are coming before we place the order.",
+    "cn": "A：外燴公司寄來了星期五產品發表會的價目表，但我不確定每人的價格有沒有包含飲料。 B：餐點有包含，但果汁、汽水和咖啡等每一種【飲料】都要另外收費，所以下訂單前請先確認有多少人會來。",
+    "collocation": "food and beverage service 餐飲服務"
+   },
+   {
+    "word": "recipe",
+    "pos": "n.",
+    "en_def": "instructions for making a dish",
+    "cn_def": "食譜",
+    "sentence": "A: The soup at the staff party was so good that several people asked who made it, and they want to try making it at home this weekend. B: Our receptionist made it, and she is happy to share her grandmother's {{BLANK}}, so she will email the list of steps and the cooking time to everyone tomorrow.",
+    "cn": "A：員工派對上的湯好喝到好幾個人問是誰做的，他們這個週末想在家試做。 B：是我們的櫃檯人員做的，她很樂意分享她祖母的【食譜】，所以她明天會把步驟和烹煮時間寄給大家。",
+    "collocation": "follow a recipe 照著食譜做"
+   },
+   {
+    "word": "ingredient",
+    "pos": "n.",
+    "en_def": "one of the foods used to make a dish",
+    "cn_def": "材料；食材",
+    "sentence": "A: Why did the new restaurant downtown suddenly raise the prices of all its pasta dishes by almost twenty percent this month? B: The owner said the cost of every important {{BLANK}}, especially cheese, tomatoes and olive oil, went up sharply after the bad weather in Europe last summer, so he had no other choice.",
+    "cn": "A：市中心那家新餐廳為什麼這個月突然把所有義大利麵的價格調漲將近百分之二十？ B：老闆說每一樣重要【食材】的成本都大幅上漲，尤其是起司、番茄和橄欖油，因為去年夏天歐洲天氣不好，所以他別無選擇。",
+    "collocation": "use fresh local ingredients 使用新鮮的在地食材"
+   },
+   {
+    "word": "cook",
+    "pos": "v.",
+    "en_def": "to make food ready to eat by heating it",
+    "cn_def": "烹調；煮",
+    "sentence": "A: Are we ordering food from a restaurant for the team's end-of-year party, or is someone in the office going to make the dinner? B: Our manager wants to {{BLANK}} the dinner himself at his house, so he is buying fish, vegetables and rice on Saturday morning, and we only need to bring drinks and some fruit.",
+    "cn": "A：團隊的年終派對我們要跟餐廳訂餐，還是辦公室有人要負責做晚餐？ B：我們經理想在他家親自【煮】晚餐，所以他星期六早上會去買魚、蔬菜和米，我們只需要帶飲料和一些水果。",
+    "collocation": "cook dinner for the family 為家人煮晚餐"
+   },
+   {
+    "word": "prepare",
+    "pos": "v.",
+    "en_def": "to make food ready to be eaten",
+    "cn_def": "準備；製作（餐點）",
+    "sentence": "A: The kitchen staff look very busy this afternoon, so is there a special event at the hotel tonight that I don't know about? B: Yes, a technology company booked the main hall for a dinner, so the chefs must {{BLANK}} food for two hundred people before seven, and they started washing vegetables at noon.",
+    "cn": "A：廚房員工今天下午看起來非常忙，今晚飯店有我不知道的特別活動嗎？ B：有，一家科技公司預訂了主廳辦晚宴，所以廚師們必須在七點前【準備】兩百人份的餐點，他們中午就開始洗菜了。",
+    "collocation": "prepare a meal 準備一頓飯"
+   },
+   {
+    "word": "serve",
+    "pos": "v.",
+    "en_def": "to give food or drinks to people at a meal",
+    "cn_def": "供應；上（菜）",
+    "sentence": "A: The conference ends at five thirty, so what time should the hotel staff bring the food into the dining room for our international visitors? B: Please ask them to {{BLANK}} dinner at six thirty, because people will need about an hour to check in, change their clothes and make phone calls to their families.",
+    "cn": "A：會議五點半結束，飯店員工應該幾點把餐點送進餐廳給我們的國際訪客？ B：請他們六點半【上】晚餐，因為大家需要大約一小時辦理入住、換衣服，並打電話給家人。",
+    "collocation": "serve dinner at seven 七點供應晚餐"
+   },
+   {
+    "word": "guest",
+    "pos": "n.",
+    "en_def": "a person you invite to a meal or event",
+    "cn_def": "客人；賓客",
+    "sentence": "A: How many chairs should I put in the private dining room for Mr. Chen's retirement dinner on Friday evening? B: Each department may bring one {{BLANK}}, such as a former coworker or a family member, so please prepare forty seats and tell the restaurant about any special food needs before Thursday.",
+    "cn": "A：星期五晚上陳先生的退休晚宴，我應該在包廂放幾張椅子？ B：每個部門可以帶一位【客人】，例如前同事或家人，所以請準備四十個座位，並在星期四之前告知餐廳任何特殊的飲食需求。",
+    "collocation": "welcome a special guest 歡迎一位特別來賓"
+   },
+   {
+    "word": "homemade",
+    "pos": "adj.",
+    "en_def": "made at home, not bought from a store or factory",
+    "cn_def": "自製的；家常的",
+    "sentence": "A: Why is the small café across from our office always so crowded at lunchtime, even though it only has six tables? B: The owner bakes all the bread and pies herself every morning, so the food is fresh and {{BLANK}}, and many office workers are happy to wait in line for it.",
+    "cn": "A：我們辦公室對面那家小咖啡館只有六張桌子，為什麼午餐時間總是那麼擠？ B：老闆每天早上親自烤所有的麵包和派，所以食物新鮮又是【自製的】，很多上班族都樂意排隊購買。",
+    "collocation": "homemade apple pie 自製蘋果派"
+   },
+   {
+    "word": "hearty",
+    "pos": "adj.",
+    "en_def": "large and filling",
+    "cn_def": "豐盛的；分量足的",
+    "sentence": "A: The volunteers will be cleaning the park from early morning until late afternoon on Saturday, so what kind of food should we give them? B: They will work hard outside in the cold, so we should give them a {{BLANK}} lunch with beef stew, bread and potatoes, which will keep them full and warm all afternoon.",
+    "cn": "A：志工們星期六會從一大早清掃公園到傍晚，我們應該給他們準備什麼樣的食物？ B：他們會在寒冷的戶外辛苦工作，所以應該給他們一份【豐盛的】午餐，有燉牛肉、麵包和馬鈴薯，讓他們整個下午都吃得飽又暖和。",
+    "collocation": "eat a hearty breakfast 吃一頓豐盛的早餐"
+   },
+   {
+    "word": "light",
+    "pos": "adj.",
+    "en_def": "small in amount and easy to digest",
+    "cn_def": "清淡的；分量少的",
+    "sentence": "A: I have a big presentation to the board of directors right after lunch, and I don't want to feel sleepy while I'm speaking. B: Then you should just have a {{BLANK}} lunch, like a salad or a small sandwich, because a big plate of rice or noodles will make you tired in the afternoon.",
+    "cn": "A：午餐後我馬上要向董事會做一場重要簡報，我不想在講話時覺得想睡。 B：那你午餐應該吃得【清淡】一點，像沙拉或小三明治，因為一大盤飯或麵會讓你下午很累。",
+    "collocation": "a light lunch 清淡的午餐"
+   },
+   {
+    "word": "delicious",
+    "pos": "adj.",
+    "en_def": "having a very good taste",
+    "cn_def": "美味的",
+    "sentence": "A: Did the clients enjoy the seafood restaurant you chose last night, or should we try a different place when they visit again next month? B: They loved it, and the director said the crab was the most {{BLANK}} thing he had eaten in Taipei, so let's book the same restaurant for their next visit.",
+    "cn": "A：客戶喜歡你昨晚選的海鮮餐廳嗎？還是他們下個月再來時我們該換個地方？ B：他們很喜歡，處長說那道螃蟹是他在台北吃過最【美味的】東西，所以他們下次來我們就訂同一家餐廳吧。",
+    "collocation": "a delicious home-cooked meal 美味的家常料理"
+   },
+   {
+    "word": "savory",
+    "pos": "adj.",
+    "en_def": "salty or spicy, not sweet",
+    "cn_def": "鹹的；鹹香的",
+    "sentence": "A: The afternoon tea for the visiting managers will have lots of cakes and cookies, but is there anything for people who don't like sweet food? B: Yes, the bakery will also bring some {{BLANK}} snacks, such as cheese pastries, ham sandwiches and small meat pies, so everyone will find something they like.",
+    "cn": "A：給來訪經理們的下午茶會有很多蛋糕和餅乾，但有沒有給不喜歡甜食的人吃的東西？ B：有，麵包店也會帶一些【鹹的】點心，像是起司酥皮、火腿三明治和小肉派，所以每個人都能找到喜歡的。",
+    "collocation": "savory snacks 鹹味點心"
+   },
+   {
+    "word": "flavorful",
+    "pos": "adj.",
+    "en_def": "having a strong, pleasant taste",
+    "cn_def": "味道濃郁的；有風味的",
+    "sentence": "A: Why do so many of our foreign visitors ask to eat at that small Thai restaurant on the corner instead of the hotel restaurant? B: The chef uses fresh herbs, garlic and chili in every dish, so the food is much more {{BLANK}} than the plain hotel menu, and the prices are lower too.",
+    "cn": "A：為什麼我們很多外國訪客要求去轉角那家小泰國餐廳吃，而不是飯店餐廳？ B：主廚在每道菜都用新鮮香草、大蒜和辣椒，所以食物比飯店平淡的菜單【味道濃郁】得多，而且價格也比較低。",
+    "collocation": "a flavorful sauce 風味濃郁的醬汁"
+   },
+   {
+    "word": "grilled",
+    "pos": "adj.",
+    "en_def": "cooked over direct heat on metal bars",
+    "cn_def": "炙烤的；烤的",
+    "sentence": "A: The doctor told my manager to eat healthier food, so what should we order for him at the steakhouse during tonight's business dinner? B: He could have the {{BLANK}} chicken with vegetables, because it is cooked over a fire without much oil, and it is still very tasty and filling.",
+    "cn": "A：醫生要我經理吃得健康一點，今晚商務晚餐在牛排館我們該幫他點什麼？ B：他可以點【炙烤】雞肉配蔬菜，因為那是用火烤的，不太用油，而且還是很好吃又有飽足感。",
+    "collocation": "grilled fish 烤魚"
+   },
+   {
+    "word": "roasted",
+    "pos": "adj.",
+    "en_def": "cooked in an oven or over a fire",
+    "cn_def": "烘烤的；烤的",
+    "sentence": "A: What are the kitchen staff making for the Thanksgiving lunch for our American coworkers, since many of them miss their families at this time of year? B: They are making a big {{BLANK}} turkey in the oven with potatoes and carrots, so our American friends will feel a little more at home during the holiday.",
+    "cn": "A：廚房員工要為美國同事的感恩節午餐做什麼？很多人每年這個時候都很想念家人。 B：他們正在用烤箱做一隻大【烤】火雞，配上馬鈴薯和紅蘿蔔，讓我們的美國朋友在節日期間更有家的感覺。",
+    "collocation": "roasted vegetables 烤蔬菜"
+   },
+   {
+    "word": "fried",
+    "pos": "adj.",
+    "en_def": "cooked in hot oil",
+    "cn_def": "油炸的；炒的",
+    "sentence": "A: The night market near our hotel has so many food stands, but I'm worried that some of the snacks might be too oily for me. B: Many of the {{BLANK}} snacks, like chicken and sweet potato balls, are cooked in a lot of hot oil, so you could try the soup or grilled corn instead.",
+    "cn": "A：我們飯店附近的夜市有好多小吃攤，但我擔心有些小吃對我來說太油了。 B：很多【油炸的】小吃，像雞排和地瓜球，都是用大量熱油做的，所以你可以改試湯或烤玉米。",
+    "collocation": "fried chicken 炸雞"
+   },
+   {
+    "word": "steamed",
+    "pos": "adj.",
+    "en_def": "cooked with hot water vapor",
+    "cn_def": "蒸的",
+    "sentence": "A: Our Hong Kong partners want to try a traditional Chinese breakfast before their factory tour, so where should we take them? B: There is a famous dim sum restaurant on the second floor of the mall, and they offer fresh {{BLANK}} dumplings and buns in small bamboo baskets, which visitors always love.",
+    "cn": "A：我們的香港合作夥伴想在參觀工廠前嚐嚐傳統的中式早餐，我們該帶他們去哪裡？ B：商場二樓有一家很有名的港式點心餐廳，他們用小竹籠供應新鮮的【蒸】餃和包子，訪客總是很喜歡。",
+    "collocation": "steamed fish 清蒸魚"
+   },
+   {
+    "word": "boiled",
+    "pos": "adj.",
+    "en_def": "cooked in very hot water",
+    "cn_def": "水煮的",
+    "sentence": "A: The hotel breakfast has many choices, but which dish would you recommend for someone who wants something simple and healthy before a long day of meetings? B: I usually take two {{BLANK}} eggs with some fruit and toast, because they are full of protein, they don't contain any oil, and they keep me full until lunch.",
+    "cn": "A：飯店早餐有很多選擇，對想在一整天會議前吃點簡單健康東西的人，你會推薦哪道菜？ B：我通常拿兩顆【水煮】蛋配一些水果和吐司，因為蛋白質豐富、不含油，而且能讓我撐到午餐。",
+    "collocation": "boiled eggs 水煮蛋"
+   },
+   {
+    "word": "leftovers",
+    "pos": "n.",
+    "en_def": "food that remains after a meal",
+    "cn_def": "剩菜；吃剩的食物",
+    "sentence": "A: We ordered far too much food for the sales meeting today, and there are still three trays of sandwiches and pasta on the table. B: Let's put the {{BLANK}} in the office refrigerator, and anyone who works late tonight or comes in early tomorrow can take some for a free lunch.",
+    "cn": "A：我們今天的業務會議訂太多食物了，桌上還有三盤三明治和義大利麵。 B：我們把【剩菜】放進辦公室冰箱，今晚加班或明天早到的人都可以拿一些當免費的午餐。",
+    "collocation": "take the leftovers home 把剩菜帶回家"
+   },
+   {
+    "word": "takeout",
+    "pos": "n.",
+    "en_def": "food bought from a restaurant to eat somewhere else",
+    "cn_def": "外帶食物",
+    "sentence": "A: We have to finish the budget report for the head office by nine o'clock tonight, so we probably won't have time to go out for dinner. B: Don't worry, I'll order Chinese {{BLANK}} from the restaurant downstairs, and we can eat at our desks while we check the last few pages.",
+    "cn": "A：今晚九點前我們必須完成給總公司的預算報告，所以大概沒時間出去吃晚餐了。 B：別擔心，我會跟樓下的餐廳訂中式【外帶餐點】，我們可以邊在座位上吃邊檢查最後幾頁。",
+    "collocation": "order takeout for lunch 叫外帶午餐"
+   },
+   {
+    "word": "reservation",
+    "pos": "n.",
+    "en_def": "an arrangement to keep a table for you at a restaurant",
+    "cn_def": "預訂；訂位",
+    "sentence": "A: The French restaurant near the train station is very popular on Friday nights, so do you think we can get a table for our clients without calling first? B: No, it's almost always full on weekends, so I'll call this afternoon and make a {{BLANK}} for six people at seven thirty, near the window if possible.",
+    "cn": "A：火車站附近那家法國餐廳週五晚上很熱門，你覺得我們不先打電話也能幫客戶找到位子嗎？ B：不行，週末幾乎都客滿，所以我今天下午會打電話【訂位】，七點半六個人，可以的話靠窗。",
+    "collocation": "make a dinner reservation 預訂晚餐座位"
+   },
+   {
+    "word": "tableware",
+    "pos": "n.",
+    "en_def": "plates, bowls, cups, knives and forks used at meals",
+    "cn_def": "餐具",
+    "sentence": "A: The caterer will bring the food for the garden party, but who is going to provide the plates, cups, knives and forks for two hundred people? B: The hotel will lend us all the {{BLANK}}, and their staff will collect and wash everything after the party, so we only need to pay a small cleaning fee.",
+    "cn": "A：外燴業者會帶花園派對的食物，但兩百人用的盤子、杯子、刀叉由誰提供？ B：飯店會借我們所有的【餐具】，派對結束後他們的員工會收回並清洗，所以我們只需支付一小筆清潔費。",
+    "collocation": "elegant silver tableware 精緻的銀製餐具"
+   },
+   {
+    "word": "napkin",
+    "pos": "n.",
+    "en_def": "a piece of cloth or paper used to clean your mouth and hands while eating",
+    "cn_def": "餐巾；餐巾紙",
+    "sentence": "A: The chicken at the team picnic was great, but my hands are really oily now, and I don't want to touch my phone or my laptop. B: Here, take a {{BLANK}} from the box on the table next to the drinks, and there is also a sink with soap behind the tent if you want to wash your hands.",
+    "cn": "A：團隊野餐的雞肉很好吃，但現在我的手好油，不想碰手機或筆電。 B：來，從飲料旁邊桌上的盒子拿一張【餐巾紙】，帳篷後面也有附肥皂的洗手台，如果你想洗手的話。",
+    "collocation": "a paper napkin 紙巾"
+   },
+   {
+    "word": "tablecloth",
+    "pos": "n.",
+    "en_def": "a cloth that covers a table during a meal",
+    "cn_def": "桌布",
+    "sentence": "A: The dining tables in the meeting hall look old and scratched, so how can we make the room look nicer for the welcome dinner tonight? B: We can put a clean white {{BLANK}} on each table and add some flowers and candles, so the visitors won't notice the scratches at all.",
+    "cn": "A：會議廳的餐桌看起來又舊又有刮痕，今晚的歡迎晚宴我們要怎麼讓房間看起來好一點？ B：我們可以在每張桌子鋪上乾淨的白色【桌布】，再擺些花和蠟燭，這樣訪客就完全不會注意到刮痕了。",
+    "collocation": "spread a tablecloth on the table 在桌上鋪桌布"
+   },
+   {
+    "word": "portion",
+    "pos": "n.",
+    "en_def": "the amount of food served to one person",
+    "cn_def": "一份（食物）；分量",
+    "sentence": "A: The new staff restaurant gets a lot of complaints, so what is the main reason that so many employees prefer to eat lunch somewhere else? B: Many people say each {{BLANK}} is too small for the price, especially the rice and meat, so they still feel hungry in the afternoon and buy snacks later.",
+    "cn": "A：新員工餐廳收到很多抱怨，為什麼這麼多員工寧可去別的地方吃午餐？ B：很多人說以這個價格來說每一【份】都太少了，尤其是飯和肉，所以他們下午還是會餓，之後又去買零食。",
+    "collocation": "a large portion of fries 一大份薯條"
+   }
+  ],
+  "MCQS": [
+   {
+    "q": "The flight to Singapore takes about five hours. Each passenger will receive a free hot _____ and a drink during the trip.",
+    "options": [
+     "meal",
+     "recipe",
+     "napkin",
+     "reservation"
+    ],
+    "answer": 0,
+    "vocabIndex": 1
+   },
+   {
+    "q": "The village holds a big _____ every autumn after the rice harvest. Families cook their best dishes and share them with neighbors.",
+    "options": [
+     "portion",
+     "recipe",
+     "feast",
+     "napkin"
+    ],
+    "answer": 2,
+    "vocabIndex": 2
+   },
+   {
+    "q": "More than five hundred people attended the company's formal _____ at the Grand Hotel. The chairman gave a speech after dinner.",
+    "options": [
+     "ingredient",
+     "banquet",
+     "napkin",
+     "takeout"
+    ],
+    "answer": 1,
+    "vocabIndex": 3
+   },
+   {
+    "q": "Hotel visitors can choose from over fifty dishes at the breakfast _____. It is open from six to ten every morning.",
+    "options": [
+     "recipe",
+     "portion",
+     "reservation",
+     "buffet"
+    ],
+    "answer": 3,
+    "vocabIndex": 4
+   },
+   {
+    "q": "For the conference dinner, people could pick beef, fish or pasta as their _____. Each choice came with soup and bread.",
+    "options": [
+     "napkin",
+     "ingredient",
+     "entrée",
+     "leftovers"
+    ],
+    "answer": 2,
+    "vocabIndex": 5
+   },
+   {
+    "q": "We finished our salads quickly, but the _____ took forty minutes to arrive. The kitchen was very busy because of a large party.",
+    "options": [
+     "main course",
+     "recipe",
+     "tableware",
+     "reservation"
+    ],
+    "answer": 0,
+    "vocabIndex": 6
+   },
+   {
+    "q": "While we waited for our steaks, the waiter brought a small _____ of fresh bread and olives. It was free for every table.",
+    "options": [
+     "beverage",
+     "guest",
+     "banquet",
+     "appetizer"
+    ],
+    "answer": 3,
+    "vocabIndex": 7
+   },
+   {
+    "q": "The grilled fish comes with one _____, such as rice or salad. Extra vegetables cost two dollars more.",
+    "options": [
+     "entrée",
+     "side dish",
+     "guest",
+     "feast"
+    ],
+    "answer": 1,
+    "vocabIndex": 9
+   },
+   {
+    "q": "After the main dishes, the waiter brought ice cream and fruit for _____. Everyone was too full to finish it.",
+    "options": [
+     "dessert",
+     "ingredient",
+     "banquet",
+     "reservation"
+    ],
+    "answer": 0,
+    "vocabIndex": 10
+   },
+   {
+    "q": "Hot coffee and tea are free during the seminar. Any other _____, such as juice or soda, can be bought at the counter.",
+    "options": [
+     "napkin",
+     "portion",
+     "recipe",
+     "beverage"
+    ],
+    "answer": 3,
+    "vocabIndex": 11
+   },
+   {
+    "q": "My colleague brought a wonderful cake to the office party. She promised to email me the _____ so I can bake it at home.",
+    "options": [
+     "guest",
+     "beverage",
+     "recipe",
+     "buffet"
+    ],
+    "answer": 2,
+    "vocabIndex": 12
+   },
+   {
+    "q": "The restaurant buys every _____ from local farms each morning. That is why its salads always taste so fresh.",
+    "options": [
+     "napkin",
+     "ingredient",
+     "banquet",
+     "guest"
+    ],
+    "answer": 1,
+    "vocabIndex": 13
+   },
+   {
+    "q": "My manager loves Italian food very much. He likes to _____ pasta for the whole team at his home on weekends.",
+    "options": [
+     "borrow",
+     "decide",
+     "explain",
+     "cook"
+    ],
+    "answer": 3,
+    "vocabIndex": 14
+   },
+   {
+    "q": "The chefs need three hours to _____ dinner for two hundred people. They will start cutting vegetables at three o'clock.",
+    "options": [
+     "arrive",
+     "prepare",
+     "sleep",
+     "agree"
+    ],
+    "answer": 1,
+    "vocabIndex": 15
+   },
+   {
+    "q": "The hotel staff will _____ lunch in the garden at noon. Please tell the manager if you need a vegetarian meal.",
+    "options": [
+     "serve",
+     "wait",
+     "complain",
+     "belong"
+    ],
+    "answer": 0,
+    "vocabIndex": 16
+   },
+   {
+    "q": "Each employee may bring one _____ to the year-end party. Please write the person's name on the form by Friday.",
+    "options": [
+     "portion",
+     "recipe",
+     "guest",
+     "buffet"
+    ],
+    "answer": 2,
+    "vocabIndex": 17
+   },
+   {
+    "q": "The café near the station sells _____ cookies every afternoon. The owner bakes them herself in the small kitchen behind the shop.",
+    "options": [
+     "boiled",
+     "homemade",
+     "steamed",
+     "grilled"
+    ],
+    "answer": 1,
+    "vocabIndex": 18
+   },
+   {
+    "q": "The workers spent all day building the new warehouse in the cold. They were happy to eat a _____ meal of stew and bread.",
+    "options": [
+     "light",
+     "steamed",
+     "boiled",
+     "hearty"
+    ],
+    "answer": 3,
+    "vocabIndex": 19
+   },
+   {
+    "q": "I have an important interview at two o'clock. I will just eat a _____ lunch so that I don't feel sleepy.",
+    "options": [
+     "light",
+     "hearty",
+     "roasted",
+     "fried"
+    ],
+    "answer": 0,
+    "vocabIndex": 20
+   },
+   {
+    "q": "The clients said the seafood at the restaurant was really _____. They asked us to take them there again next month.",
+    "options": [
+     "boiled",
+     "fried",
+     "delicious",
+     "steamed"
+    ],
+    "answer": 2,
+    "vocabIndex": 21
+   },
+   {
+    "q": "The chef cooks the meat over an open fire for a few minutes. The _____ steak is the most popular dish here.",
+    "options": [
+     "grilled",
+     "steamed",
+     "boiled",
+     "light"
+    ],
+    "answer": 0,
+    "vocabIndex": 24
+   },
+   {
+    "q": "The turkey stays in the oven for about four hours. The _____ turkey is then cut into slices and served with potatoes.",
+    "options": [
+     "steamed",
+     "boiled",
+     "roasted",
+     "fried"
+    ],
+    "answer": 2,
+    "vocabIndex": 25
+   },
+   {
+    "q": "This restaurant cooks its chicken in very hot oil until it is golden. Its _____ chicken is popular with office workers at lunchtime.",
+    "options": [
+     "steamed",
+     "boiled",
+     "roasted",
+     "fried"
+    ],
+    "answer": 3,
+    "vocabIndex": 26
+   },
+   {
+    "q": "The cook places the dumplings in a bamboo basket over hot water. The _____ dumplings are soft, healthy and full of flavor.",
+    "options": [
+     "fried",
+     "steamed",
+     "grilled",
+     "roasted"
+    ],
+    "answer": 1,
+    "vocabIndex": 27
+   },
+   {
+    "q": "We ordered too much pizza for the meeting. Please put the _____ in the refrigerator so people can eat them tomorrow.",
+    "options": [
+     "reservation",
+     "guest",
+     "leftovers",
+     "napkin"
+    ],
+    "answer": 2,
+    "vocabIndex": 29
+   },
+   {
+    "q": "We are too busy to go out for lunch today. Let's order _____ from the noodle shop and eat at our desks.",
+    "options": [
+     "takeout",
+     "banquet",
+     "tableware",
+     "reservation"
+    ],
+    "answer": 0,
+    "vocabIndex": 30
+   },
+   {
+    "q": "The new steak house is always full on Friday nights. You should call early and make a _____ for your group.",
+    "options": [
+     "recipe",
+     "reservation",
+     "portion",
+     "buffet"
+    ],
+    "answer": 1,
+    "vocabIndex": 31
+   },
+   {
+    "q": "The waiter noticed that I had spilled some sauce on the table. He kindly brought me a clean _____ to wipe it up.",
+    "options": [
+     "entrée",
+     "ingredient",
+     "beverage",
+     "napkin"
+    ],
+    "answer": 3,
+    "vocabIndex": 33
+   },
+   {
+    "q": "The meals at the staff restaurant are cheap but small. Many workers say each _____ is not enough for a full afternoon of work.",
+    "options": [
+     "guest",
+     "recipe",
+     "portion",
+     "banquet"
+    ],
+    "answer": 2,
+    "vocabIndex": 35
+   },
+   {
+    "q": "Not everyone at the tea party likes sweet cakes. The bakery will also bring some _____ snacks, such as cheese pies and ham rolls.",
+    "options": [
+     "boiled",
+     "savory",
+     "steamed",
+     "roasted"
+    ],
+    "answer": 1,
+    "vocabIndex": 22
    }
   ]
  },
