@@ -2,6 +2,16 @@
 // Sends each finished self-test (MCQ practice, online quiz, review game, teacher test) and the student's ★ review list
 // to the teacher's Google Sheet through the Apps Script web app set in tracker-config.js.
 // If no web app address is set, nothing is asked and nothing is sent.
+// App mode (加到主畫面 / offline / in-app-browser warning): load pwa.js from the same folder as this file.
+(function () {
+  try {
+    const me = document.currentScript && document.currentScript.src;
+    if (!me || window.__vocabPwa || document.querySelector('script[src*="pwa.js"]')) return;
+    const s = document.createElement("script");
+    s.src = me.replace(/tracker\.js(\?.*)?$/, "pwa.js?v=20261117a");
+    document.head.append(s);
+  } catch (error) { /* ignore */ }
+})();
 (function () {
   const ENDPOINT = String(window.GSAT_TRACKER_URL || "").trim();
   const NAME_KEY = "gsat456-student-name";
@@ -245,6 +255,7 @@
     window.addEventListener("storage", event => { if (event.key === STORE_KEY) reviewChanged(); });
     document.addEventListener("visibilitychange", () => {
       if (document.visibilityState === "hidden") { clearTimeout(syncTimer); syncReview(); }
+      else flushQueue(); // app reopened from the home screen: resend anything still waiting
     });
   }
 

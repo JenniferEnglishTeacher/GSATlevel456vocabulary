@@ -13,6 +13,7 @@ Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 | `styles.css`, `vendor/xlsx.full.min.js` | Shared styles and the Excel export library |
 | `tools/build.py` | Script that generated the pages from the group data |
 | `tracker.js`, `tracker-config.js` | Sends each finished self-test and the ★ review list to the teacher's Google Sheet (web app address goes in `tracker-config.js`) |
+| `manifest.webmanifest`, `sw.js`, `pwa.js`, `icons/` | App mode: students can 加到主畫面 (install), pages they opened still work offline, LINE/Threads/IG in-app browser warning, and the install guide on the dashboard. `pwa.js` is loaded on every page by `tracker.js` |
 | `teacher.html` | Teacher page: student overview, test log, ★ lists, and a builder that turns mistaken words into a test link |
 | `tools/tracker-apps-script.gs` | Google Apps Script to paste into the tracker spreadsheet |
 | `books.js` | Registry of every book and zone on the site (add a new book here) |
