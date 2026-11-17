@@ -2721,6 +2721,7 @@ window.VOCAB_ZONES = {
    273,
    274,
    275,
+   276,
    277,
    278,
    279
@@ -2997,6 +2998,7 @@ window.VOCAB_ZONES = {
    "273": "Pencil 鉛筆",
    "274": "Perfect Job 理想工作",
    "275": "Performance 表演",
+   "276": "Perfume 香水",
    "277": "Person 人",
    "278": "Persuade 說服",
    "279": "Petition 請願"
