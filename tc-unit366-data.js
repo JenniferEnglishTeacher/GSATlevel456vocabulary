@@ -1,0 +1,1178 @@
+// TOEIC Themed Vocabulary Topic 366 (Speed 速度) — flashcards + MCQ practice
+window.FLASHCARD_UNITS = {
+ "366": {
+  "title": "TOEIC Themed Vocabulary · Topic 366: Speed 速度",
+  "theme": "Speed 速度",
+  "cards": [
+   {
+    "word": "pace",
+    "answer": "pace",
+    "pos": "n.",
+    "definition": "the speed at which someone walks, works or moves",
+    "chinese": "步調；速度",
+    "sentence": "A: Our new team members look tired after only two weeks, so do you think we are giving them too many tasks during their training period? B: Maybe we are, so let's allow them to learn at a slower __________ for the next month and check how they feel before we add any new projects.",
+    "translation": "A：新進團隊成員才兩週就看起來很累，你覺得我們在訓練期間給他們太多工作了嗎？ B：也許是，所以接下來一個月讓他們以較慢的【步調】學習，在增加新專案之前先了解他們的感受。",
+    "lookup": {
+     "english": "the speed at which someone walks, works or moves",
+     "chinese": "步調；速度"
+    },
+    "collocation": "work at your own pace 按自己的步調工作"
+   },
+   {
+    "word": "velocity",
+    "answer": "velocity",
+    "pos": "n.",
+    "definition": "the speed of something moving in one direction",
+    "chinese": "速度；速率",
+    "sentence": "A: Why did the engineers stop testing the new delivery drone this afternoon, when the weather looked so clear and calm? B: The sensors showed that the wind __________ near the hills was much higher than expected, so they decided to wait until tomorrow morning to protect the expensive equipment.",
+    "translation": "A：今天下午天氣看起來那麼晴朗平靜，為什麼工程師們停止測試新的送貨無人機？ B：感測器顯示山丘附近的風【速】比預期高很多，所以他們決定等到明天早上再測，以保護這些昂貴的設備。",
+    "lookup": {
+     "english": "the speed of something moving in one direction",
+     "chinese": "速度；速率"
+    },
+    "collocation": "wind velocity 風速"
+   },
+   {
+    "word": "rate",
+    "answer": "rate",
+    "pos": "n.",
+    "definition": "how fast something happens or how many times it happens",
+    "chinese": "速率；比率",
+    "sentence": "A: Has the new packing machine in the warehouse made a real difference since we installed it at the beginning of last month? B: Yes, it has, because it now packs boxes at a __________ of about three hundred per hour, which is almost twice what our workers could manage by hand.",
+    "translation": "A：自從我們上個月初在倉庫安裝新的包裝機以來，它真的帶來改變了嗎？ B：有的，因為它現在以每小時大約三百箱的【速率】包裝，幾乎是我們員工手工包裝的兩倍。",
+    "lookup": {
+     "english": "how fast something happens or how many times it happens",
+     "chinese": "速率；比率"
+    },
+    "collocation": "at a rate of 100 units per hour 以每小時100件的速度"
+   },
+   {
+    "word": "acceleration",
+    "answer": "acceleration",
+    "pos": "n.",
+    "definition": "the act of getting faster",
+    "chinese": "加速；加速度",
+    "sentence": "A: The customers who tested our new electric delivery van last weekend seemed very happy, but what did they like most about it? B: Most of them mentioned its smooth __________ from a full stop, which makes it much easier to join busy traffic when drivers leave a loading area.",
+    "translation": "A：上週末試駕我們新電動送貨車的顧客看起來很滿意，他們最喜歡它哪一點？ B：大多數人提到它從完全靜止起步時的平順【加速】，讓駕駛離開裝卸區時更容易匯入繁忙車流。",
+    "lookup": {
+     "english": "the act of getting faster",
+     "chinese": "加速；加速度"
+    },
+    "collocation": "rapid acceleration in sales 銷售快速成長"
+   },
+   {
+    "word": "rapid",
+    "answer": "rapid",
+    "pos": "adj.",
+    "definition": "happening very quickly or in a short time",
+    "chinese": "快速的；迅速的",
+    "sentence": "A: Why is the company hiring so many new staff members for the customer service department this year, when it hired almost nobody last year? B: Because there has been __________ growth in our online orders since the new website opened, and the current team simply cannot answer all the calls and emails.",
+    "translation": "A：去年公司幾乎沒有雇人，為什麼今年要為客服部門招募這麼多新員工？ B：因為自從新網站上線後，我們的線上訂單【快速】成長，目前的團隊根本無法回覆所有的電話和電子郵件。",
+    "lookup": {
+     "english": "happening very quickly or in a short time",
+     "chinese": "快速的；迅速的"
+    },
+    "collocation": "rapid growth in online sales 線上銷售的快速成長"
+   },
+   {
+    "word": "quick",
+    "answer": "quick",
+    "pos": "adj.",
+    "definition": "done in a short time",
+    "chinese": "快的；迅速的",
+    "sentence": "A: Before the board meeting begins at ten, could you take a __________ look at my sales report and tell me if any of the numbers seem wrong? B: Sure, I have about fifteen minutes free right now, so send it to me by email and I will check the charts and the totals.",
+    "translation": "A：十點董事會開始之前，你可以【很快】看一下我的銷售報告，告訴我有沒有哪些數字看起來不對嗎？ B：當然，我現在大約有十五分鐘空檔，用電子郵件寄給我，我會檢查圖表和總數。",
+    "lookup": {
+     "english": "done in a short time",
+     "chinese": "快的；迅速的"
+    },
+    "collocation": "have a quick look at the report 很快看一下報告"
+   },
+   {
+    "word": "fast",
+    "answer": "fast",
+    "pos": "adj.",
+    "definition": "moving or happening at high speed",
+    "chinese": "快的；快速的",
+    "sentence": "A: Which courier company should we use to send these important contracts to our partners in Singapore before the end of the week? B: I suggest the one on Main Street, because it offers a very __________ delivery service, and our documents usually arrive within two days at a reasonable price.",
+    "translation": "A：我們應該用哪家快遞公司，才能在週末前把這些重要合約寄給新加坡的合作夥伴？ B：我建議用大街上的那家，因為他們提供非常【快速】的配送服務，我們的文件通常兩天內就會送達，價格也合理。",
+    "lookup": {
+     "english": "moving or happening at high speed",
+     "chinese": "快的；快速的"
+    },
+    "collocation": "fast delivery service 快速配送服務"
+   },
+   {
+    "word": "swift",
+    "answer": "swift",
+    "pos": "adj.",
+    "definition": "happening quickly and without delay",
+    "chinese": "迅速的；立即的",
+    "sentence": "A: What did the manager do after several customers complained online that the new coffee machines in our cafés were leaking water? B: She took __________ action and asked the supplier to replace every machine within three days, so the problem was solved before it could hurt our reputation.",
+    "translation": "A：好幾位顧客在網路上抱怨我們咖啡館的新咖啡機漏水之後，經理做了什麼？ B：她採取了【迅速的】行動，要求供應商在三天內更換每一台機器，所以問題在影響我們的聲譽之前就解決了。",
+    "lookup": {
+     "english": "happening quickly and without delay",
+     "chinese": "迅速的；立即的"
+    },
+    "collocation": "take swift action 採取迅速行動"
+   },
+   {
+    "word": "speedy",
+    "answer": "speedy",
+    "pos": "adj.",
+    "definition": "quick; happening without delay",
+    "chinese": "快速的；迅速的",
+    "sentence": "A: I heard that Tom from the accounting department hurt his leg while playing basketball on Saturday, so should we send him something from the team? B: Yes, let's buy some fruit and a card that wishes him a __________ recovery, and we can all sign it during the lunch break today.",
+    "translation": "A：我聽說會計部的湯姆星期六打籃球時傷了腳，我們團隊要不要送他點東西？ B：好啊，我們買些水果和一張祝他【早日】康復的卡片，大家可以在今天午休時一起簽名。",
+    "lookup": {
+     "english": "quick; happening without delay",
+     "chinese": "快速的；迅速的"
+    },
+    "collocation": "wish someone a speedy recovery 祝某人早日康復"
+   },
+   {
+    "word": "brisk",
+    "answer": "brisk",
+    "pos": "adj.",
+    "definition": "quick and full of energy; (of business) busy",
+    "chinese": "輕快的；（生意）興隆的",
+    "sentence": "A: How were sales at the new umbrella stand near the train station during that week of heavy rain in early June? B: The stand did __________ business every single morning, because commuters forgot their umbrellas at home and were happy to buy one on their way to the office.",
+    "translation": "A：六月初那一週下大雨的時候，火車站附近新的雨傘攤銷售如何？ B：那個攤位每天早上生意都很【興隆】，因為通勤族把雨傘忘在家裡，很樂意在上班途中買一把。",
+    "lookup": {
+     "english": "quick and full of energy; (of business) busy",
+     "chinese": "輕快的；（生意）興隆的"
+    },
+    "collocation": "do brisk business 生意興隆"
+   },
+   {
+    "word": "hurried",
+    "answer": "hurried",
+    "pos": "adj.",
+    "definition": "done quickly because there is not enough time",
+    "chinese": "匆忙的；倉促的",
+    "sentence": "A: You look really tired this afternoon, so did you have time to eat properly before the meeting with the new clients? B: Not really, I only had a __________ lunch at my desk while I was printing the handouts, so I'm going to get a snack from the café now.",
+    "translation": "A：你今天下午看起來很累，在和新客戶開會前，你有時間好好吃飯嗎？ B：沒有，我一邊列印講義一邊在座位上【匆匆】吃了午餐，所以我現在要去咖啡館買點點心。",
+    "lookup": {
+     "english": "done quickly because there is not enough time",
+     "chinese": "匆忙的；倉促的"
+    },
+    "collocation": "a hurried meal 匆匆吃的一餐"
+   },
+   {
+    "word": "hasty",
+    "answer": "hasty",
+    "pos": "adj.",
+    "definition": "done too quickly, without enough thought",
+    "chinese": "草率的；倉促的",
+    "sentence": "A: The supplier has offered us a big discount if we sign the three-year contract today, so should I tell them we accept the offer right away? B: Please don't make a __________ decision, because we still need to compare their prices with two other companies and ask our lawyer to read the terms first.",
+    "translation": "A：供應商說如果我們今天簽三年合約就給大折扣，我應該馬上告訴他們我們接受嗎？ B：請不要做【草率的】決定，因為我們還需要把他們的價格和另外兩家公司比較，並先請律師看過條款。",
+    "lookup": {
+     "english": "done too quickly, without enough thought",
+     "chinese": "草率的；倉促的"
+    },
+    "collocation": "make a hasty decision 做出草率的決定"
+   },
+   {
+    "word": "instant",
+    "answer": "instant",
+    "pos": "adj.",
+    "definition": "happening at once; (of food or drinks) very quick to prepare",
+    "chinese": "立即的；即溶的",
+    "sentence": "A: How did customers react to the new mobile app that our design team launched at the beginning of the holiday season? B: It was an __________ success, because more than fifty thousand people downloaded it in the first week, and many of them used it to order gifts for their families.",
+    "translation": "A：我們設計團隊在假期季節初推出的新手機應用程式，顧客反應如何？ B：它【一推出就】大獲成功，因為第一週就有超過五萬人下載，其中很多人用它為家人訂購禮物。",
+    "lookup": {
+     "english": "happening at once; (of food or drinks) very quick to prepare",
+     "chinese": "立即的；即溶的"
+    },
+    "collocation": "instant coffee 即溶咖啡"
+   },
+   {
+    "word": "immediate",
+    "answer": "immediate",
+    "pos": "adj.",
+    "definition": "happening now, without waiting",
+    "chinese": "立即的；即刻的",
+    "sentence": "A: The air conditioner in the main server room stopped working an hour ago, so can we wait until Monday to call the repair company? B: No, this problem needs __________ attention, because the computers will get too hot over the weekend, and we could lose important customer data if they shut down.",
+    "translation": "A：主機房的冷氣一小時前壞了，我們可以等到星期一再打電話給維修公司嗎？ B：不行，這個問題需要【立即】處理，因為電腦週末會過熱，如果它們當機，我們可能會失去重要的客戶資料。",
+    "lookup": {
+     "english": "happening now, without waiting",
+     "chinese": "立即的；即刻的"
+    },
+    "collocation": "require immediate attention 需要立即處理"
+   },
+   {
+    "word": "slow",
+    "answer": "slow",
+    "pos": "adj.",
+    "definition": "not fast; taking a long time",
+    "chinese": "慢的；緩慢的",
+    "sentence": "A: Why did it take you almost two hours to send the presentation files to the clients in Tokyo yesterday evening? B: The hotel where I was staying had a very __________ internet connection, so the large video files kept stopping halfway, and I had to upload them again and again.",
+    "translation": "A：昨晚你為什麼花了將近兩小時才把簡報檔案寄給東京的客戶？ B：我住的飯店網路連線非常【慢】，所以大型影片檔一直傳到一半就停住，我只好一次又一次重新上傳。",
+    "lookup": {
+     "english": "not fast; taking a long time",
+     "chinese": "慢的；緩慢的"
+    },
+    "collocation": "a slow internet connection 緩慢的網路連線"
+   },
+   {
+    "word": "sluggish",
+    "answer": "sluggish",
+    "pos": "adj.",
+    "definition": "moving or working more slowly than usual",
+    "chinese": "緩慢的；低迷的",
+    "sentence": "A: Why does the sales director want to change our advertising plan for the second half of the year so suddenly? B: Because sales of our winter jackets have been __________ since October, as the weather has stayed warm, so she wants to promote our light rain jackets and sports shoes instead.",
+    "translation": "A：為什麼業務總監突然想改變我們下半年的廣告計畫？ B：因為從十月起我們冬季外套的銷售一直很【低迷】，天氣始終溫暖，所以她想改為推廣我們的輕便雨衣和運動鞋。",
+    "lookup": {
+     "english": "moving or working more slowly than usual",
+     "chinese": "緩慢的；低迷的"
+    },
+    "collocation": "sluggish sales 銷售低迷"
+   },
+   {
+    "word": "steady",
+    "answer": "steady",
+    "pos": "adj.",
+    "definition": "developing at an even, regular rate",
+    "chinese": "穩定的；平穩的",
+    "sentence": "A: Are you worried about the company's future now that two of our biggest competitors have opened new stores in this area? B: Not really, because we have seen a __________ increase in profits over the past five years, and our loyal customers keep coming back for our excellent service.",
+    "translation": "A：既然我們兩個最大的競爭對手都在這一區開了新店，你擔心公司的未來嗎？ B：不太擔心，因為過去五年我們的利潤【穩定】增加，忠實顧客也因為我們優質的服務一再回來。",
+    "lookup": {
+     "english": "developing at an even, regular rate",
+     "chinese": "穩定的；平穩的"
+    },
+    "collocation": "a steady increase in profits 利潤穩定增加"
+   },
+   {
+    "word": "gradual",
+    "answer": "gradual",
+    "pos": "adj.",
+    "definition": "happening slowly over a long time",
+    "chinese": "逐漸的；逐步的",
+    "sentence": "A: Should we move all our staff to the new office building at once, or would it be better to do it in several smaller steps? B: I think a __________ change is better, so let's move one department each week, which gives the IT team enough time to set up all the computers properly.",
+    "translation": "A：我們應該讓全體員工一次搬進新辦公大樓，還是分成幾個小步驟比較好？ B：我認為【逐步的】改變比較好，所以我們每週搬一個部門，讓資訊團隊有足夠時間把所有電腦設定好。",
+    "lookup": {
+     "english": "happening slowly over a long time",
+     "chinese": "逐漸的；逐步的"
+    },
+    "collocation": "a gradual change 逐步的改變"
+   },
+   {
+    "word": "prompt",
+    "answer": "prompt",
+    "pos": "adj.",
+    "definition": "done quickly and without delay",
+    "chinese": "迅速的；及時的",
+    "sentence": "A: What should I write at the end of my email to the hotel when I ask about booking rooms for our sales conference? B: You can thank them for their help and say that you would appreciate a __________ reply, because we must confirm the meeting place with our managers by Friday.",
+    "translation": "A：我寫信給飯店詢問為業務研討會訂房時，信的結尾應該寫什麼？ B：你可以感謝他們的協助，並說希望能得到【迅速的】回覆，因為我們必須在星期五前向經理們確認會議地點。",
+    "lookup": {
+     "english": "done quickly and without delay",
+     "chinese": "迅速的；及時的"
+    },
+    "collocation": "a prompt reply 迅速的回覆"
+   },
+   {
+    "word": "rush",
+    "answer": "rush",
+    "pos": "v.",
+    "definition": "to move or do something very quickly",
+    "chinese": "匆忙；趕緊；急送",
+    "sentence": "A: Why did Mr. Chen leave the meeting so early this afternoon without saying goodbye to anyone in the room? B: He got a phone call saying that his flight to Hong Kong had been moved two hours earlier, so he had to __________ to the airport in a taxi.",
+    "translation": "A：陳先生今天下午為什麼那麼早離開會議，也沒跟會議室裡的任何人道別？ B：他接到電話說他飛往香港的班機提前了兩小時，所以他必須搭計程車【趕去】機場。",
+    "lookup": {
+     "english": "to move or do something very quickly",
+     "chinese": "匆忙；趕緊；急送"
+    },
+    "collocation": "rush someone to the hospital 緊急送某人去醫院"
+   },
+   {
+    "word": "hurry",
+    "answer": "hurry",
+    "pos": "v.",
+    "definition": "to move or act quickly",
+    "chinese": "趕快；匆忙",
+    "sentence": "A: The last train back to the city leaves at nine thirty, but the dinner with our clients is still going on, so what should we do? B: We should thank them politely and __________ to the station now, because the next train is not until tomorrow morning and the hotels here are full.",
+    "translation": "A：回市區的末班火車九點半開，但和客戶的晚餐還在進行，我們該怎麼辦？ B：我們應該禮貌地向他們道謝，現在就【趕】去車站，因為下一班車要到明天早上，而這裡的飯店都客滿了。",
+    "lookup": {
+     "english": "to move or act quickly",
+     "chinese": "趕快；匆忙"
+    },
+    "collocation": "hurry up or we'll be late 快一點，不然我們會遲到"
+   },
+   {
+    "word": "dash",
+    "answer": "dash",
+    "pos": "v.",
+    "definition": "to go somewhere very quickly",
+    "chinese": "猛衝；急奔",
+    "sentence": "A: Where did Lisa go just now, and why did she leave her coat and her laptop on the desk? B: She realized she had left her car lights on in the parking lot, so she had to __________ outside before the battery died, but she said she would be back in five minutes.",
+    "translation": "A：麗莎剛剛去哪裡了？她為什麼把外套和筆電留在桌上？ B：她發現自己把停車場裡的車燈開著沒關，所以必須在電池沒電前【衝】出去，不過她說五分鐘內就回來。",
+    "lookup": {
+     "english": "to go somewhere very quickly",
+     "chinese": "猛衝；急奔"
+    },
+    "collocation": "dash out of the office 衝出辦公室"
+   },
+   {
+    "word": "sprint",
+    "answer": "sprint",
+    "pos": "v.",
+    "definition": "to run very fast for a short distance",
+    "chinese": "衝刺；全速奔跑",
+    "sentence": "A: Did you manage to catch the airport bus this morning, or did you have to take a taxi to get to the meeting in time? B: I saw the bus at the corner just as it was leaving, so I had to __________ the last hundred meters with my suitcase, and the driver kindly waited for me.",
+    "translation": "A：你今天早上有趕上機場巴士嗎？還是必須搭計程車才能準時到達會議？ B：我看到巴士在轉角正要開走，所以只好拖著行李箱全速【衝刺】最後一百公尺，司機很好心地等了我。",
+    "lookup": {
+     "english": "to run very fast for a short distance",
+     "chinese": "衝刺；全速奔跑"
+    },
+    "collocation": "sprint to the finish line 衝向終點線"
+   },
+   {
+    "word": "race",
+    "answer": "race",
+    "pos": "v.",
+    "definition": "to compete in speed; to do something very quickly",
+    "chinese": "比賽；急忙做",
+    "sentence": "A: Why is the whole design team staying in the office so late every night this week, even though they usually leave at six? B: They are trying to __________ against time to finish the new catalog, because the printing company needs the final files by Friday morning for the holiday sale.",
+    "translation": "A：為什麼整個設計團隊這週每晚都留在辦公室那麼晚，他們平常六點就下班了？ B：他們正在和時間【賽跑】，要完成新的型錄，因為印刷公司星期五早上前就需要最終檔案，好趕上假期特賣。",
+    "lookup": {
+     "english": "to compete in speed; to do something very quickly",
+     "chinese": "比賽；急忙做"
+    },
+    "collocation": "race against time 與時間賽跑"
+   },
+   {
+    "word": "accelerate",
+    "answer": "accelerate",
+    "pos": "v.",
+    "definition": "to make something happen faster; to go faster",
+    "chinese": "加速；加快",
+    "sentence": "A: The new robots in our factory are very expensive, so why did the board decide to buy ten of them this year? B: They believe the robots will __________ the production process, so we can fill large overseas orders sooner and reduce the number of late shipments that make customers unhappy.",
+    "translation": "A：我們工廠的新機器人非常昂貴，董事會為什麼決定今年買十台？ B：他們相信這些機器人會【加快】生產流程，讓我們能更快完成大量海外訂單，減少讓顧客不滿的延遲出貨。",
+    "lookup": {
+     "english": "to make something happen faster; to go faster",
+     "chinese": "加速；加快"
+    },
+    "collocation": "accelerate the production process 加快生產流程"
+   },
+   {
+    "word": "delay",
+    "answer": "delay",
+    "pos": "v.",
+    "definition": "to make something late; to put something off until later",
+    "chinese": "延誤；延後",
+    "sentence": "A: The factory in Vietnam has told us that the new parts will arrive three weeks late because of a shortage of materials, so what should we do? B: We will probably have to __________ the launch of the new model until March and send our customers an email explaining the reason.",
+    "translation": "A：越南工廠通知我們，由於材料短缺，新零件會晚三週到，我們該怎麼辦？ B：我們可能必須把新車款的上市【延後】到三月，並寄電子郵件向顧客說明原因。",
+    "lookup": {
+     "english": "to make something late; to put something off until later",
+     "chinese": "延誤；延後"
+    },
+    "collocation": "delay the launch 延後上市"
+   },
+   {
+    "word": "interval",
+    "answer": "interval",
+    "pos": "n.",
+    "definition": "a period of time between two events",
+    "chinese": "間隔；間歇",
+    "sentence": "A: How often do the shuttle buses run between the hotel and the convention center during the three days of the trade show? B: There is an __________ of only ten minutes between buses from seven in the morning until eight at night, so you will never have to wait long, even when the exhibition halls are very crowded.",
+    "translation": "A：商展三天期間，飯店和會展中心之間的接駁車多久一班？ B：從早上七點到晚上八點，每班車之間只【間隔】十分鐘，所以即使展覽館非常擁擠，你也不必等很久。",
+    "lookup": {
+     "english": "a period of time between two events",
+     "chinese": "間隔；間歇"
+    },
+    "collocation": "at regular intervals 每隔一段固定時間"
+   },
+   {
+    "word": "tempo",
+    "answer": "tempo",
+    "pos": "n.",
+    "definition": "the speed of music or of an activity",
+    "chinese": "節奏；步調",
+    "sentence": "A: The music in our new television commercial sounds a little boring, so what changes would you like the studio to make before Friday? B: Please ask them to increase the __________ of the song a little, because a livelier beat will match the exciting images of young people playing sports outdoors.",
+    "translation": "A：我們新電視廣告裡的音樂聽起來有點無聊，你希望錄音室在星期五前做哪些修改？ B：請他們把歌曲的【節奏】稍微加快，因為更活潑的拍子才能搭配年輕人在戶外運動的精彩畫面。",
+    "lookup": {
+     "english": "the speed of music or of an activity",
+     "chinese": "節奏；步調"
+    },
+    "collocation": "the tempo of city life 城市生活的步調"
+   },
+   {
+    "word": "momentary",
+    "answer": "momentary",
+    "pos": "adj.",
+    "definition": "lasting for a very short time",
+    "chinese": "短暫的；片刻的",
+    "sentence": "A: Was there a problem with the electricity in the building this morning, because my computer screen suddenly went black for a second? B: Yes, there was a __________ power cut at about ten o'clock while the workers were repairing the elevator, but everything came back on almost at once.",
+    "translation": "A：今天早上大樓的電力有問題嗎？我的電腦螢幕突然黑了一秒鐘。 B：對，大約十點工人在修電梯時發生了【短暫的】停電，不過所有東西幾乎馬上就恢復了。",
+    "lookup": {
+     "english": "lasting for a very short time",
+     "chinese": "短暫的；片刻的"
+    },
+    "collocation": "a momentary pause 短暫的停頓"
+   },
+   {
+    "word": "overnight",
+    "answer": "overnight",
+    "pos": "adv.",
+    "definition": "during the night; very suddenly",
+    "chinese": "一夜之間；整夜",
+    "sentence": "A: How did that small bakery near our office become so popular that people now wait in line for an hour every morning? B: A famous food blogger posted a video about its pineapple cakes, and the shop became famous almost __________, so the owner had to hire five new workers last month.",
+    "translation": "A：我們辦公室附近那家小麵包店怎麼會變得那麼受歡迎，現在每天早上大家都要排隊一小時？ B：一位知名美食部落客發布了介紹它鳳梨酥的影片，這家店幾乎【一夜之間】爆紅，所以老闆上個月必須多請五名員工。",
+    "lookup": {
+     "english": "during the night; very suddenly",
+     "chinese": "一夜之間；整夜"
+    },
+    "collocation": "become famous overnight 一夜成名"
+   },
+   {
+    "word": "instantly",
+    "answer": "instantly",
+    "pos": "adv.",
+    "definition": "immediately; at once",
+    "chinese": "立即地；馬上",
+    "sentence": "A: Is it difficult to use the new online payment system, or will our customers need special training before they can pay their bills? B: It is very simple, because the money is sent __________ after customers scan the code with their phones, and they receive a receipt by text message right away.",
+    "translation": "A：新的線上付款系統難用嗎？顧客需要特別訓練才能付帳單嗎？ B：非常簡單，顧客用手機掃描條碼後，款項就會【立即】送出，他們也會馬上收到簡訊收據。",
+    "lookup": {
+     "english": "immediately; at once",
+     "chinese": "立即地；馬上"
+    },
+    "collocation": "be recognized instantly 一眼就被認出"
+   },
+   {
+    "word": "rapidly",
+    "answer": "rapidly",
+    "pos": "adv.",
+    "definition": "very quickly",
+    "chinese": "迅速地；快速地",
+    "sentence": "A: Why is the city building so many new apartment buildings and schools in the area around the new science park? B: The population there is growing __________, because several technology companies have moved in and thousands of young engineers and their families need homes nearby.",
+    "translation": "A：為什麼市政府要在新科學園區周邊興建這麼多新公寓大樓和學校？ B：那裡的人口正在【迅速】成長，因為好幾家科技公司已經進駐，數千名年輕工程師和他們的家人需要住在附近。",
+    "lookup": {
+     "english": "very quickly",
+     "chinese": "迅速地；快速地"
+    },
+    "collocation": "grow rapidly 迅速成長"
+   },
+   {
+    "word": "quickly",
+    "answer": "quickly",
+    "pos": "adv.",
+    "definition": "fast; in a short time",
+    "chinese": "快速地；迅速地",
+    "sentence": "A: What is the most important thing our new customer service staff should remember when they start answering calls next Monday? B: They must respond __________ to every complaint and stay polite, because unhappy customers often write bad online reviews if they have to wait too long for help.",
+    "translation": "A：我們新的客服人員下星期一開始接電話時，最需要記住的是什麼？ B：他們必須【快速】回應每一則投訴並保持禮貌，因為不滿意的顧客如果等太久才得到協助，常常會在網路上寫負評。",
+    "lookup": {
+     "english": "fast; in a short time",
+     "chinese": "快速地；迅速地"
+    },
+    "collocation": "respond quickly to complaints 快速回應投訴"
+   },
+   {
+    "word": "swiftly",
+    "answer": "swiftly",
+    "pos": "adv.",
+    "definition": "quickly and smoothly",
+    "chinese": "迅速地；敏捷地",
+    "sentence": "A: How did the hotel staff handle the situation when the fire alarm went off during the international conference last night? B: They moved __________ and calmly, guiding more than three hundred guests out of the building in less than ten minutes, and luckily it turned out to be a false alarm.",
+    "translation": "A：昨晚國際會議進行時火災警報響起，飯店員工是怎麼處理的？ B：他們【迅速】而冷靜地行動，在不到十分鐘內引導三百多位賓客離開大樓，幸好最後證實是誤報。",
+    "lookup": {
+     "english": "quickly and smoothly",
+     "chinese": "迅速地；敏捷地"
+    },
+    "collocation": "act swiftly 迅速採取行動"
+   }
+  ],
+  "quiz": [
+   {
+    "question": "Our new trainees feel nervous about the software. The manager says they can learn it at their own __________ during the first month.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pace"
+     },
+     {
+      "letter": "B",
+      "text": "interval"
+     },
+     {
+      "letter": "C",
+      "text": "velocity"
+     },
+     {
+      "letter": "D",
+      "text": "acceleration"
+     }
+    ],
+    "answer": "A",
+    "vi": 0
+   },
+   {
+    "question": "The weather station measures wind __________ every hour. Flights may be canceled if the readings become too high this afternoon.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "pace"
+     },
+     {
+      "letter": "B",
+      "text": "tempo"
+     },
+     {
+      "letter": "C",
+      "text": "velocity"
+     },
+     {
+      "letter": "D",
+      "text": "interval"
+     }
+    ],
+    "answer": "C",
+    "vi": 1
+   },
+   {
+    "question": "The new printer produces pages at a __________ of forty per minute. It will save our office a lot of waiting time.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "interval"
+     },
+     {
+      "letter": "B",
+      "text": "rate"
+     },
+     {
+      "letter": "C",
+      "text": "acceleration"
+     },
+     {
+      "letter": "D",
+      "text": "delay"
+     }
+    ],
+    "answer": "B",
+    "vi": 2
+   },
+   {
+    "question": "Test drivers praised the new electric van for its smooth __________. It reaches highway speed in only a few seconds.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "interval"
+     },
+     {
+      "letter": "B",
+      "text": "tempo"
+     },
+     {
+      "letter": "C",
+      "text": "rate"
+     },
+     {
+      "letter": "D",
+      "text": "acceleration"
+     }
+    ],
+    "answer": "D",
+    "vi": 3
+   },
+   {
+    "question": "The company has enjoyed __________ growth since it opened its online store. It now plans to hire twenty more workers.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "momentary"
+     },
+     {
+      "letter": "B",
+      "text": "hasty"
+     },
+     {
+      "letter": "C",
+      "text": "rapid"
+     },
+     {
+      "letter": "D",
+      "text": "hurried"
+     }
+    ],
+    "answer": "C",
+    "vi": 4
+   },
+   {
+    "question": "Could you take a __________ look at this contract before lunch? I need to send it to the client by two o'clock.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "quick"
+     },
+     {
+      "letter": "B",
+      "text": "gradual"
+     },
+     {
+      "letter": "C",
+      "text": "steady"
+     },
+     {
+      "letter": "D",
+      "text": "sluggish"
+     }
+    ],
+    "answer": "A",
+    "vi": 5
+   },
+   {
+    "question": "Customers choose our courier company because of its __________ delivery service. Most packages arrive within twenty-four hours.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "slow"
+     },
+     {
+      "letter": "B",
+      "text": "sluggish"
+     },
+     {
+      "letter": "C",
+      "text": "gradual"
+     },
+     {
+      "letter": "D",
+      "text": "fast"
+     }
+    ],
+    "answer": "D",
+    "vi": 6
+   },
+   {
+    "question": "After the product recall was announced, the manager took __________ action. She contacted every store within one hour.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "gradual"
+     },
+     {
+      "letter": "B",
+      "text": "swift"
+     },
+     {
+      "letter": "C",
+      "text": "sluggish"
+     },
+     {
+      "letter": "D",
+      "text": "momentary"
+     }
+    ],
+    "answer": "B",
+    "vi": 7
+   },
+   {
+    "question": "The ice cream shop did __________ business during the summer festival. It sold out of most flavors by noon each day.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "brisk"
+     },
+     {
+      "letter": "B",
+      "text": "gradual"
+     },
+     {
+      "letter": "C",
+      "text": "momentary"
+     },
+     {
+      "letter": "D",
+      "text": "hasty"
+     }
+    ],
+    "answer": "A",
+    "vi": 9
+   },
+   {
+    "question": "Please don't make a __________ decision about the job offer. Take the weekend to think carefully about the salary and benefits.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "steady"
+     },
+     {
+      "letter": "B",
+      "text": "gradual"
+     },
+     {
+      "letter": "C",
+      "text": "hasty"
+     },
+     {
+      "letter": "D",
+      "text": "brisk"
+     }
+    ],
+    "answer": "C",
+    "vi": 11
+   },
+   {
+    "question": "The hotel offers free __________ coffee and tea in every room. Guests can also order fresh drinks from room service.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "gradual"
+     },
+     {
+      "letter": "B",
+      "text": "instant"
+     },
+     {
+      "letter": "C",
+      "text": "steady"
+     },
+     {
+      "letter": "D",
+      "text": "brisk"
+     }
+    ],
+    "answer": "B",
+    "vi": 12
+   },
+   {
+    "question": "The broken water pipe on the third floor requires __________ attention. Please call the repair company before it damages the ceiling.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "gradual"
+     },
+     {
+      "letter": "B",
+      "text": "sluggish"
+     },
+     {
+      "letter": "C",
+      "text": "steady"
+     },
+     {
+      "letter": "D",
+      "text": "immediate"
+     }
+    ],
+    "answer": "D",
+    "vi": 13
+   },
+   {
+    "question": "Many guests complained about the __________ internet connection in the hotel. Management promised to install a better system next month.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "brisk"
+     },
+     {
+      "letter": "B",
+      "text": "swift"
+     },
+     {
+      "letter": "C",
+      "text": "slow"
+     },
+     {
+      "letter": "D",
+      "text": "prompt"
+     }
+    ],
+    "answer": "C",
+    "vi": 14
+   },
+   {
+    "question": "Sales of winter coats have been __________ this year because of the warm weather. The store will offer discounts to attract buyers.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "sluggish"
+     },
+     {
+      "letter": "B",
+      "text": "brisk"
+     },
+     {
+      "letter": "C",
+      "text": "prompt"
+     },
+     {
+      "letter": "D",
+      "text": "swift"
+     }
+    ],
+    "answer": "A",
+    "vi": 15
+   },
+   {
+    "question": "The company has seen a __________ increase in profits over the last five years. Investors are pleased with its stable performance.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hasty"
+     },
+     {
+      "letter": "B",
+      "text": "hurried"
+     },
+     {
+      "letter": "C",
+      "text": "momentary"
+     },
+     {
+      "letter": "D",
+      "text": "steady"
+     }
+    ],
+    "answer": "D",
+    "vi": 16
+   },
+   {
+    "question": "The office will make a __________ change to the new computer system. One department will switch over each month until June.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "hasty"
+     },
+     {
+      "letter": "B",
+      "text": "gradual"
+     },
+     {
+      "letter": "C",
+      "text": "brisk"
+     },
+     {
+      "letter": "D",
+      "text": "momentary"
+     }
+    ],
+    "answer": "B",
+    "vi": 17
+   },
+   {
+    "question": "Thank you for your __________ reply to our inquiry. We are happy to confirm the hotel booking for next Tuesday.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "prompt"
+     },
+     {
+      "letter": "B",
+      "text": "sluggish"
+     },
+     {
+      "letter": "C",
+      "text": "gradual"
+     },
+     {
+      "letter": "D",
+      "text": "momentary"
+     }
+    ],
+    "answer": "A",
+    "vi": 18
+   },
+   {
+    "question": "A patient suddenly fell ill in the waiting room. The nurse had to __________ him to the hospital in an ambulance.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "delay"
+     },
+     {
+      "letter": "B",
+      "text": "accelerate"
+     },
+     {
+      "letter": "C",
+      "text": "rush"
+     },
+     {
+      "letter": "D",
+      "text": "sprint"
+     }
+    ],
+    "answer": "C",
+    "vi": 19
+   },
+   {
+    "question": "We need to __________ up, or we will miss the start of the presentation. The doors will close at nine o'clock sharp.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "delay"
+     },
+     {
+      "letter": "B",
+      "text": "hurry"
+     },
+     {
+      "letter": "C",
+      "text": "accelerate"
+     },
+     {
+      "letter": "D",
+      "text": "sprint"
+     }
+    ],
+    "answer": "B",
+    "vi": 20
+   },
+   {
+    "question": "Lisa forgot her umbrella at the café across the street. She had to __________ back to get it before the heavy rain started.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "delay"
+     },
+     {
+      "letter": "B",
+      "text": "accelerate"
+     },
+     {
+      "letter": "C",
+      "text": "attend"
+     },
+     {
+      "letter": "D",
+      "text": "dash"
+     }
+    ],
+    "answer": "D",
+    "vi": 21
+   },
+   {
+    "question": "The runner had to __________ the last hundred meters to win. The crowd cheered loudly as she crossed the finish line.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "delay"
+     },
+     {
+      "letter": "B",
+      "text": "accelerate"
+     },
+     {
+      "letter": "C",
+      "text": "sprint"
+     },
+     {
+      "letter": "D",
+      "text": "hurry"
+     }
+    ],
+    "answer": "C",
+    "vi": 22
+   },
+   {
+    "question": "The engineers are trying to __________ against time to fix the system. The online store must reopen before the holiday sale begins.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "race"
+     },
+     {
+      "letter": "B",
+      "text": "delay"
+     },
+     {
+      "letter": "C",
+      "text": "accelerate"
+     },
+     {
+      "letter": "D",
+      "text": "dash"
+     }
+    ],
+    "answer": "A",
+    "vi": 23
+   },
+   {
+    "question": "The new software will help us __________ the hiring process. We hope to fill all open positions within two weeks.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "delay"
+     },
+     {
+      "letter": "B",
+      "text": "sprint"
+     },
+     {
+      "letter": "C",
+      "text": "dash"
+     },
+     {
+      "letter": "D",
+      "text": "accelerate"
+     }
+    ],
+    "answer": "D",
+    "vi": 24
+   },
+   {
+    "question": "Bad weather forced the airline to __________ the flight by three hours. Passengers received free meal coupons while they waited.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "accelerate"
+     },
+     {
+      "letter": "B",
+      "text": "delay"
+     },
+     {
+      "letter": "C",
+      "text": "sprint"
+     },
+     {
+      "letter": "D",
+      "text": "dash"
+     }
+    ],
+    "answer": "B",
+    "vi": 25
+   },
+   {
+    "question": "There is a short __________ of fifteen minutes between the two parts of the concert. Drinks will be sold in the lobby.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "interval"
+     },
+     {
+      "letter": "B",
+      "text": "velocity"
+     },
+     {
+      "letter": "C",
+      "text": "acceleration"
+     },
+     {
+      "letter": "D",
+      "text": "rate"
+     }
+    ],
+    "answer": "A",
+    "vi": 26
+   },
+   {
+    "question": "The conductor asked the orchestra to play the piece at a faster __________. The audience clapped along with the lively music.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "interval"
+     },
+     {
+      "letter": "B",
+      "text": "acceleration"
+     },
+     {
+      "letter": "C",
+      "text": "tempo"
+     },
+     {
+      "letter": "D",
+      "text": "ticket"
+     }
+    ],
+    "answer": "C",
+    "vi": 27
+   },
+   {
+    "question": "The small bakery became famous almost __________ after a food blogger shared its cakes online. Now people wait in line every morning.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "rapidly"
+     },
+     {
+      "letter": "B",
+      "text": "overnight"
+     },
+     {
+      "letter": "C",
+      "text": "swiftly"
+     },
+     {
+      "letter": "D",
+      "text": "recently"
+     }
+    ],
+    "answer": "B",
+    "vi": 29
+   },
+   {
+    "question": "The new payment app is easy to use. Money is transferred __________ when customers scan the code, so they never wait.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "overnight"
+     },
+     {
+      "letter": "B",
+      "text": "gradually"
+     },
+     {
+      "letter": "C",
+      "text": "rarely"
+     },
+     {
+      "letter": "D",
+      "text": "instantly"
+     }
+    ],
+    "answer": "D",
+    "vi": 30
+   },
+   {
+    "question": "The population of the city is growing __________ because of the new science park. More schools and hospitals will be built soon.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "instantly"
+     },
+     {
+      "letter": "B",
+      "text": "overnight"
+     },
+     {
+      "letter": "C",
+      "text": "rapidly"
+     },
+     {
+      "letter": "D",
+      "text": "rarely"
+     }
+    ],
+    "answer": "C",
+    "vi": 31
+   },
+   {
+    "question": "Our staff must respond __________ to customer complaints. Unhappy customers often write bad reviews if they wait too long.",
+    "options": [
+     {
+      "letter": "A",
+      "text": "quickly"
+     },
+     {
+      "letter": "B",
+      "text": "overnight"
+     },
+     {
+      "letter": "C",
+      "text": "rarely"
+     },
+     {
+      "letter": "D",
+      "text": "gradually"
+     }
+    ],
+    "answer": "A",
+    "vi": 32
+   }
+  ]
+ }
+};
+window.LOCAL_LOOKUP = Object.assign({}, window.LOCAL_LOOKUP || {}, {"pace":["the speed at which someone walks, works or moves","步調；速度"],"velocity":["the speed of something moving in one direction","速度；速率"],"rate":["how fast something happens or how many times it happens","速率；比率"],"acceleration":["the act of getting faster","加速；加速度"],"rapid":["happening very quickly or in a short time","快速的；迅速的"],"quick":["done in a short time","快的；迅速的"],"fast":["moving or happening at high speed","快的；快速的"],"swift":["happening quickly and without delay","迅速的；立即的"],"speedy":["quick; happening without delay","快速的；迅速的"],"brisk":["quick and full of energy; (of business) busy","輕快的；（生意）興隆的"],"hurried":["done quickly because there is not enough time","匆忙的；倉促的"],"hasty":["done too quickly, without enough thought","草率的；倉促的"],"instant":["happening at once; (of food or drinks) very quick to prepare","立即的；即溶的"],"immediate":["happening now, without waiting","立即的；即刻的"],"slow":["not fast; taking a long time","慢的；緩慢的"],"sluggish":["moving or working more slowly than usual","緩慢的；低迷的"],"steady":["developing at an even, regular rate","穩定的；平穩的"],"gradual":["happening slowly over a long time","逐漸的；逐步的"],"prompt":["done quickly and without delay","迅速的；及時的"],"rush":["to move or do something very quickly","匆忙；趕緊；急送"],"hurry":["to move or act quickly","趕快；匆忙"],"dash":["to go somewhere very quickly","猛衝；急奔"],"sprint":["to run very fast for a short distance","衝刺；全速奔跑"],"race":["to compete in speed; to do something very quickly","比賽；急忙做"],"accelerate":["to make something happen faster; to go faster","加速；加快"],"delay":["to make something late; to put something off until later","延誤；延後"],"interval":["a period of time between two events","間隔；間歇"],"tempo":["the speed of music or of an activity","節奏；步調"],"momentary":["lasting for a very short time","短暫的；片刻的"],"overnight":["during the night; very suddenly","一夜之間；整夜"],"instantly":["immediately; at once","立即地；馬上"],"rapidly":["very quickly","迅速地；快速地"],"quickly":["fast; in a short time","快速地；迅速地"],"swiftly":["quickly and smoothly","迅速地；敏捷地"]});
