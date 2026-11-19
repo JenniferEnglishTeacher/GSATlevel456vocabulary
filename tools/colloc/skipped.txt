@@ -1,3 +1,45 @@
+cv	arise	the question arose	找不到目標字
+cv	bind	be bound by law	找不到目標字
+cv	bind	be bound to happen	找不到目標字
+cv	bully	cyberbully	找不到目標字
+cv	creep	doubt crept in	找不到目標字
+cv	dim	hopes dimmed	找不到目標字
+cv	dip	sales dipped	找不到目標字
+cv	feed	be fed up with	找不到目標字
+cv	fly	time flies	找不到目標字
+cv	freeze	the screen froze	找不到目標字
+cv	jam	be jammed with people	找不到目標字
+cv	mislead	be misled by	找不到目標字
+cv	mob	be mobbed by fans	找不到目標字
+cv	nap	be caught napping	找不到目標字
+cv	pad	a padded jacket	找不到目標字
+cv	react	overreact	找不到目標字
+cv	replace	irreplaceable	找不到目標字
+cv	resolve	New Year's resolution	找不到目標字
+cv	rob	be robbed of victory	找不到目標字
+cv	rob	daylight robbery	找不到目標字
+cv	rot	the system is rotten	找不到目標字
+cv	rot	rotten luck	找不到目標字
+cv	shoot	prices shot up	找不到目標字
+cv	shrink	the economy shrank	找不到目標字
+cv	sink	the news sank in	找不到目標字
+cv	slide	prices slid	找不到目標字
+cv	staff	be understaffed	找不到目標字
+cv	stick	get stuck	找不到目標字
+cv	sting	the remark stung	找不到目標字
+cv	sting	be stung by criticism	找不到目標字
+cv	strike	disaster struck	找不到目標字
+cv	sweep	be swept away	找不到目標字
+cv	swell	a swollen ankle	找不到目標字
+cv	tag	be tagged as a troublemaker	找不到目標字
+cv	tear	be torn between	找不到目標字
+cv	tell	all told	找不到目標字
+cv	tip	be tipped to win	找不到目標字
+cv	transform	digital transformation	找不到目標字
+cv	wed	be wedded to an idea	找不到目標字
+cv	overwhelm	an overwhelming majority	干擾選項不足
+cv	patent	be patently obvious	干擾選項不足
+cv	remind	a gentle reminder	干擾選項不足
 cn	ache	heartache	找不到目標字
 cn	bomb	drop a bombshell	找不到目標字
 cn	brain	brainchild	找不到目標字

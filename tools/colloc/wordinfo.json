@@ -14643,5 +14643,3480 @@
 "p": "n./v.",
 "d": "a paper you buy from a government",
 "c": "紐帶"
+},
+"abandon": {
+"p": "v.",
+"d": "to leave something forever",
+"c": "放棄"
+},
+"absorb": {
+"p": "v.",
+"d": "to take in something such as liquid, heat or gas",
+"c": "吸收"
+},
+"accelerate": {
+"p": "v.",
+"d": "to happen or make happen faster",
+"c": "加速"
+},
+"accommodate": {
+"p": "v.",
+"d": "to have enough space for people or things",
+"c": "容納"
+},
+"accompany": {
+"p": "v.",
+"d": "to go somewhere with someone",
+"c": "陪伴"
+},
+"acknowledge": {
+"p": "v./(n.)",
+"d": "to accept that something is true",
+"c": "確認（承認）"
+},
+"acquire": {
+"p": "v.",
+"d": "to get or gain something",
+"c": "獲得"
+},
+"adapt": {
+"p": "v.",
+"d": "to change a book or story into a film or play",
+"c": "適應"
+},
+"address": {
+"p": "v./n.",
+"d": "the details of where someone lives; to speak formally to",
+"c": "地址"
+},
+"adjust": {
+"p": "v./(n.)",
+"d": "to change something slightly to make it work better",
+"c": "調整）"
+},
+"adopt": {
+"p": "v.",
+"d": "to take someone else's child as one's own; to accept a new method or policy",
+"c": "採納"
+},
+"afford": {
+"p": "v.",
+"d": "to have enough money to pay for something",
+"c": "買得起"
+},
+"allocate": {
+"p": "v.",
+"d": "to give something for a special purpose",
+"c": "分配"
+},
+"alter": {
+"p": "v.",
+"d": "to change something",
+"c": "改變"
+},
+"amend": {
+"p": "v.",
+"d": "to make changes to a law or document",
+"c": "修正"
+},
+"analyze": {
+"p": "v.",
+"d": "to study something carefully to understand it",
+"c": "分析"
+},
+"anticipate": {
+"p": "v.",
+"d": "to expect something to happen",
+"c": "預料"
+},
+"appoint": {
+"p": "v./(n.)",
+"d": "to choose someone officially for a job",
+"c": "預約）"
+},
+"approve": {
+"p": "v.",
+"d": "to officially agree to a plan",
+"c": "核准"
+},
+"arise": {
+"p": "v.",
+"d": "to begin to happen or exist",
+"c": "出現"
+},
+"arouse": {
+"p": "v.",
+"d": "to cause a feeling or reaction",
+"c": "引起"
+},
+"assemble": {
+"p": "v.",
+"d": "to put the parts of something together",
+"c": "集合"
+},
+"assert": {
+"p": "v.",
+"d": "to say something firmly and confidently",
+"c": "斷言"
+},
+"assess": {
+"p": "v./(n.)",
+"d": "to judge how good, bad or important something is",
+"c": "評估）"
+},
+"assign": {
+"p": "v./(n.)",
+"d": "to give someone a job or task",
+"c": "任務）"
+},
+"assist": {
+"p": "v.",
+"d": "to help someone",
+"c": "協助"
+},
+"assume": {
+"p": "v.",
+"d": "to think something is true without proof",
+"c": "認為"
+},
+"assure": {
+"p": "v.",
+"d": "to tell someone something is true so they don't worry",
+"c": "保證"
+},
+"attach": {
+"p": "v./(n.)",
+"d": "to fix or join one thing to another",
+"c": "依戀）"
+},
+"attract": {
+"p": "v.",
+"d": "to make something come closer",
+"c": "吸引"
+},
+"attribute": {
+"p": "v.",
+"d": "a quality or feature of something",
+"c": "屬性"
+},
+"bear": {
+"p": "v./n.",
+"d": "a big, strong wild animal with thick fur",
+"c": "熊"
+},
+"betray": {
+"p": "v.",
+"d": "to be disloyal to someone who trusts you",
+"c": "背叛"
+},
+"bind": {
+"p": "v.",
+"d": "to tie or fasten tightly; to hold by legal or moral duty",
+"c": "綁定"
+},
+"bless": {
+"p": "v.",
+"d": "(of God) to give good things to someone",
+"c": "保佑"
+},
+"block": {
+"p": "n./v.",
+"d": "to stop someone from contacting you online",
+"c": "堵塞"
+},
+"bounce": {
+"p": "v./n.",
+"d": "to move up or away quickly after hitting a surface",
+"c": "彈跳"
+},
+"breathe": {
+"p": "v.",
+"d": "to take air into your body and let it out",
+"c": "呼吸"
+},
+"browse": {
+"p": "v./n.",
+"d": "to look at things in a shop or on the internet without a clear plan",
+"c": "瀏覽"
+},
+"bump": {
+"p": "n./v.",
+"d": "to knock or run into something with a jolt; to upgrade someone's status",
+"c": "撞"
+},
+"bury": {
+"p": "v.",
+"d": "to put a dead body or an object in the ground and cover it",
+"c": "埋葬"
+},
+"calculate": {
+"p": "v.",
+"d": "to find an answer using numbers",
+"c": "計算"
+},
+"capture": {
+"p": "v.",
+"d": "to catch an animal or person",
+"c": "捕獲"
+},
+"carry": {
+"p": "v.",
+"d": "to hold and move something from one place to another",
+"c": "攜帶"
+},
+"carve": {
+"p": "v.",
+"d": "to cut wood or stone into a shape",
+"c": "雕刻"
+},
+"cater": {
+"p": "v.",
+"d": "to provide what people need or want",
+"c": "迎合"
+},
+"cease": {
+"p": "v./n.",
+"d": "to stop",
+"c": "停止"
+},
+"cement": {
+"p": "n./v.",
+"d": "a grey powder mixed with water and sand to make concrete",
+"c": "水泥"
+},
+"center": {
+"p": "n.",
+"d": "the middle of something",
+"c": "中心"
+},
+"challenge": {
+"p": "n./v.",
+"d": "to test someone's ability; to question something",
+"c": "挑戰"
+},
+"channel": {
+"p": "n./v.",
+"d": "a TV station",
+"c": "頻道"
+},
+"characterize": {
+"p": "v.",
+"d": "to describe the typical qualities of something",
+"c": "表徵"
+},
+"chart": {
+"p": "n.",
+"d": "a picture that shows information",
+"c": "圖表"
+},
+"cherish": {
+"p": "v.",
+"d": "to love and care for something very much",
+"c": "珍惜"
+},
+"chew": {
+"p": "v./n.",
+"d": "to bite food several times with your teeth before swallowing",
+"c": "嚼"
+},
+"choke": {
+"p": "v./n.",
+"d": "to be unable to breathe because something blocks the throat",
+"c": "嗆"
+},
+"chop": {
+"p": "n./v.",
+"d": "to cut into pieces with repeated sharp blows of an axe or knife",
+"c": "劈"
+},
+"circulate": {
+"p": "v.",
+"d": "to move or pass around",
+"c": "流通"
+},
+"cite": {
+"p": "v.",
+"d": "to mention words from a book or person",
+"c": "引用"
+},
+"claim": {
+"p": "n./v.",
+"d": "to say something is true without proof",
+"c": "宣稱"
+},
+"clarify": {
+"p": "v.",
+"d": "to make something clearer",
+"c": "闡明"
+},
+"classify": {
+"p": "v.",
+"d": "to put things into groups by type",
+"c": "分類"
+},
+"click": {
+"p": "v./n.",
+"d": "the act of pressing a mouse button or tapping a link on a screen",
+"c": "點選"
+},
+"climb": {
+"p": "v./n.",
+"d": "to go up something, like a tree or a mountain",
+"c": "爬"
+},
+"cling": {
+"p": "v.",
+"d": "to hold on tightly to someone or something",
+"c": "緊抓；緊貼；依附"
+},
+"combat": {
+"p": "v.",
+"d": "to try to stop something harmful",
+"c": "對抗;打擊"
+},
+"commit": {
+"p": "v.",
+"d": "to promise to give time or money to something",
+"c": "犯罪"
+},
+"communicate": {
+"p": "v.",
+"d": "to share information with others",
+"c": "交流"
+},
+"commute": {
+"p": "v.",
+"d": "to travel regularly between home and work or school",
+"c": "通勤"
+},
+"compel": {
+"p": "v.",
+"d": "to force someone to do something",
+"c": "迫使"
+},
+"compensate": {
+"p": "v.",
+"d": "to pay someone for loss or harm",
+"c": "補償"
+},
+"compete": {
+"p": "v.",
+"d": "to try to win against others",
+"c": "競爭"
+},
+"complement": {
+"p": "v./n.",
+"d": "going well together",
+"c": "補充"
+},
+"comply": {
+"p": "v.",
+"d": "to obey a rule or request",
+"c": "遵守"
+},
+"compose": {
+"p": "v.",
+"d": "to write music",
+"c": "撰寫"
+},
+"compress": {
+"p": "v.",
+"d": "to press or make something smaller",
+"c": "壓縮"
+},
+"comprise": {
+"p": "v.",
+"d": "to be made up of certain parts",
+"c": "包括"
+},
+"conceal": {
+"p": "v.",
+"d": "to hide something carefully",
+"c": "隱藏"
+},
+"concede": {
+"p": "v.",
+"d": "to admit, often unwillingly, that something is true",
+"c": "承認"
+},
+"conceive": {
+"p": "v.",
+"d": "to think of a new idea",
+"c": "構想"
+},
+"concentrate": {
+"p": "v.",
+"d": "to give all your attention to something",
+"c": "集中"
+},
+"condemn": {
+"p": "v.",
+"d": "to say strongly that something is wrong",
+"c": "譴責"
+},
+"confess": {
+"p": "v.",
+"d": "to admit that you did something wrong",
+"c": "承認"
+},
+"confine": {
+"p": "v.",
+"d": "to keep something within limits",
+"c": "局限"
+},
+"confirm": {
+"p": "v.",
+"d": "to say that something is true or certain",
+"c": "確認"
+},
+"conform": {
+"p": "v.",
+"d": "to follow rules or standards",
+"c": "符合"
+},
+"confront": {
+"p": "v.",
+"d": "to face and deal with a difficult problem",
+"c": "面對"
+},
+"congratulate": {
+"p": "v.",
+"d": "to tell someone you are happy about their success or good luck",
+"c": "恭喜"
+},
+"conquer": {
+"p": "v.",
+"d": "to take control of a place by force",
+"c": "征服"
+},
+"consist": {
+"p": "v.",
+"d": "to be made of (with \"of\")",
+"c": "組成"
+},
+"constitute": {
+"p": "v.",
+"d": "to form or make up something",
+"c": "構成"
+},
+"construct": {
+"p": "v.",
+"d": "to build something",
+"c": "構造"
+},
+"consult": {
+"p": "v.",
+"d": "to ask an expert for advice",
+"c": "諮詢"
+},
+"consume": {
+"p": "v.",
+"d": "to use something such as energy or food",
+"c": "消耗"
+},
+"contain": {
+"p": "v.",
+"d": "to stop something from spreading",
+"c": "包含"
+},
+"contaminate": {
+"p": "v.",
+"d": "to make something dirty or poisonous",
+"c": "污染"
+},
+"contemplate": {
+"p": "v.",
+"d": "to think carefully about something",
+"c": "沉思"
+},
+"contend": {
+"p": "v.",
+"d": "to say that something is true in an argument",
+"c": "抗衡"
+},
+"contribute": {
+"p": "v.",
+"d": "to give funds, assistance, or ideas to a cause.",
+"c": "貢獻"
+},
+"convert": {
+"p": "v.",
+"d": "to change from one form into another",
+"c": "轉變"
+},
+"convey": {
+"p": "v.",
+"d": "to communicate an idea or feeling",
+"c": "傳達"
+},
+"convict": {
+"p": "v./n.",
+"d": "to decide in a court that someone is guilty of a crime",
+"c": "定罪"
+},
+"convince": {
+"p": "v.",
+"d": "to make someone believe something",
+"c": "說服"
+},
+"cope": {
+"p": "v.",
+"d": "to deal successfully with a difficult situation",
+"c": "應付"
+},
+"correspond": {
+"p": "v.",
+"d": "to match or be similar to something",
+"c": "對應"
+},
+"court": {
+"p": "n.",
+"d": "a place where legal justice is administered; playing area",
+"c": "法庭"
+},
+"cover": {
+"p": "v./n.",
+"d": "to put something over another thing",
+"c": "覆蓋"
+},
+"crawl": {
+"p": "v./n.",
+"d": "to move forward on hands and knees or by dragging the body close to the ground",
+"c": "爬行"
+},
+"creep": {
+"p": "v.",
+"d": "to move slowly and quietly so that no one notices",
+"c": "蠕動"
+},
+"cripple": {
+"p": "v./n.",
+"d": "to damage something so badly that it cannot work properly",
+"c": "削弱"
+},
+"criticize": {
+"p": "v.",
+"d": "to say that something or someone is bad or wrong",
+"c": "批評"
+},
+"crumble": {
+"p": "v.",
+"d": "to break into small pieces slowly",
+"c": "崩塌;碎裂"
+},
+"cultivate": {
+"p": "v.",
+"d": "to develop a skill, quality or habit",
+"c": "培育"
+},
+"curb": {
+"p": "n./v.",
+"d": "to control or limit something bad",
+"c": "抑制"
+},
+"dam": {
+"p": "n./v.",
+"d": "a wall built across a river to hold back water",
+"c": "壩"
+},
+"dampen": {
+"p": "v.",
+"d": "to make a feeling or sound weaker",
+"c": "減弱；降低"
+},
+"dash": {
+"p": "n./v.",
+"d": "to run or move somewhere quickly or in a great hurry",
+"c": "短跑"
+},
+"deceive": {
+"p": "v.",
+"d": "to make someone believe something false",
+"c": "欺騙"
+},
+"declare": {
+"p": "v.",
+"d": "to state something officially or clearly",
+"c": "宣告"
+},
+"decorate": {
+"p": "v.",
+"d": "to make something more attractive by adding pretty things",
+"c": "裝飾"
+},
+"dedicate": {
+"p": "v.",
+"d": "to give your time and energy to something",
+"c": "奉獻"
+},
+"defend": {
+"p": "v.",
+"d": "to protect someone or something from attack or harm",
+"c": "保衛"
+},
+"defy": {
+"p": "v.",
+"d": "to refuse to obey, or to seem impossible",
+"c": "違抗"
+},
+"delegate": {
+"p": "n./v.",
+"d": "a person sent to a meeting to represent others",
+"c": "代表"
+},
+"deliver": {
+"p": "v.",
+"d": "to bring and hand over a letter, parcel, or goods to the proper recipient",
+"c": "遞送"
+},
+"demonstrate": {
+"p": "v.",
+"d": "to show clearly that something is true or how it works",
+"c": "證明"
+},
+"depart": {
+"p": "v.",
+"d": "to leave a place, especially to start a journey",
+"c": "離開"
+},
+"depict": {
+"p": "v.",
+"d": "to show something in a picture or story",
+"c": "描繪"
+},
+"deploy": {
+"p": "v.",
+"d": "to put something into use or action",
+"c": "部署"
+},
+"depress": {
+"p": "v.",
+"d": "to make someone feel sad",
+"c": "壓抑"
+},
+"derive": {
+"p": "v.",
+"d": "to get something, such as pleasure or benefit, from something",
+"c": "衍生"
+},
+"descend": {
+"p": "v.",
+"d": "to go down",
+"c": "下降"
+},
+"deserve": {
+"p": "v.",
+"d": "to have earned something because of what you have done",
+"c": "應得"
+},
+"detect": {
+"p": "v.",
+"d": "to find or discover something",
+"c": "探測"
+},
+"determine": {
+"p": "v.",
+"d": "to decide or find out exactly",
+"c": "決定"
+},
+"devise": {
+"p": "v.",
+"d": "to plan or invent something",
+"c": "設計"
+},
+"devote": {
+"p": "v.",
+"d": "to give your time or energy to something",
+"c": "奉獻"
+},
+"diagnose": {
+"p": "v.",
+"d": "to find out and say what illness someone has",
+"c": "診斷"
+},
+"dictate": {
+"p": "v.",
+"d": "to control or decide how something happens",
+"c": "聽寫"
+},
+"differ": {
+"p": "v.",
+"d": "to be not the same",
+"c": "不同"
+},
+"digest": {
+"p": "n./v.",
+"d": "to break down food in the stomach so the body can use it",
+"c": "消化"
+},
+"diminish": {
+"p": "v.",
+"d": "to become smaller or weaker",
+"c": "減少"
+},
+"dip": {
+"p": "v./n.",
+"d": "to go down slightly for a short time",
+"c": "沾"
+},
+"discharge": {
+"p": "n./v.",
+"d": "to let a liquid or gas flow out",
+"c": "釋放"
+},
+"disclose": {
+"p": "v.",
+"d": "to make information known to the public",
+"c": "透露"
+},
+"discourage": {
+"p": "v./(n.)",
+"d": "to make someone lose confidence or not want to do something",
+"c": "勸阻（勸阻）"
+},
+"discriminate": {
+"p": "v.",
+"d": "to treat a person or group unfairly",
+"c": "辨析"
+},
+"dismiss": {
+"p": "v.",
+"d": "to decide something is not important",
+"c": "解僱"
+},
+"disrupt": {
+"p": "v.",
+"d": "to stop something from continuing normally",
+"c": "擾亂"
+},
+"dissolve": {
+"p": "v.",
+"d": "to mix completely into a liquid",
+"c": "溶解"
+},
+"distinguish": {
+"p": "v.",
+"d": "to see the difference between things",
+"c": "區分"
+},
+"distract": {
+"p": "v.",
+"d": "to take someone's attention away",
+"c": "轉移"
+},
+"distribute": {
+"p": "v.",
+"d": "to give things out to many people",
+"c": "散佈"
+},
+"disturb": {
+"p": "v.",
+"d": "to interrupt someone or stop them from being calm",
+"c": "打擾"
+},
+"ditch": {
+"p": "n./v.",
+"d": "a long narrow channel dug to carry water away",
+"c": "溝"
+},
+"dive": {
+"p": "n./v.",
+"d": "to go under water, often with special equipment",
+"c": "潛水"
+},
+"divide": {
+"p": "v./n.",
+"d": "to cut or break something into parts",
+"c": "劃分"
+},
+"dodge": {
+"p": "v./n.",
+"d": "to move quickly to avoid being hit",
+"c": "閃避"
+},
+"dominate": {
+"p": "v.",
+"d": "to have power or control over others",
+"c": "支配"
+},
+"donate": {
+"p": "v.",
+"d": "to give money or things to help people",
+"c": "捐"
+},
+"draw": {
+"p": "v./n.",
+"d": "to make a picture with a pen or pencil",
+"c": "畫"
+},
+"dress": {
+"p": "n./v.",
+"d": "a piece of clothing for girls and women that covers the body and part of the legs",
+"c": "裙子"
+},
+"drip": {
+"p": "n./v.",
+"d": "to fall in small drops of liquid, or to let liquid fall in drops",
+"c": "滴"
+},
+"drown": {
+"p": "v.",
+"d": "to die through submersion in and inhalation of water; to overwhelm with sound",
+"c": "淹死"
+},
+"dump": {
+"p": "v./n.",
+"d": "to throw away waste in a careless or illegal way",
+"c": "傾倒"
+},
+"dwell": {
+"p": "v.",
+"d": "to live in a place",
+"c": "住"
+},
+"dye": {
+"p": "n./v.",
+"d": "a substance used to change the colour of cloth",
+"c": "染料"
+},
+"earn": {
+"p": "v.",
+"d": "to obtain money in return for labor or services",
+"c": "賺"
+},
+"edit": {
+"p": "v.",
+"d": "to correct and improve writing",
+"c": "編輯"
+},
+"elbow": {
+"p": "n./v.",
+"d": "the joint between the forearm and the upper arm",
+"c": "彎頭"
+},
+"elect": {
+"p": "v./adj.",
+"d": "to choose someone for public office by voting",
+"c": "選"
+},
+"eliminate": {
+"p": "v.",
+"d": "to remove something completely",
+"c": "排除"
+},
+"embrace": {
+"p": "v./n.",
+"d": "to accept something new with enthusiasm",
+"c": "擁抱"
+},
+"emerge": {
+"p": "v.",
+"d": "to appear or come out",
+"c": "出現"
+},
+"employ": {
+"p": "v./(n.)",
+"d": "to give someone a job and pay them",
+"c": "就業（就業）"
+},
+"enable": {
+"p": "v.",
+"d": "to make it possible for someone to do something",
+"c": "使能夠"
+},
+"enclose": {
+"p": "v.",
+"d": "to surround something completely",
+"c": "括"
+},
+"endanger": {
+"p": "v.",
+"d": "to put someone in danger",
+"c": "危害"
+},
+"endorse": {
+"p": "v./(n.)",
+"d": "to publicly support something",
+"c": "代言）"
+},
+"endure": {
+"p": "v.",
+"d": "to suffer something difficult for a long time",
+"c": "忍受"
+},
+"enforce": {
+"p": "v./(n.)",
+"d": "to make people obey a law",
+"c": "執行（執行）"
+},
+"engage": {
+"p": "v./(n.)",
+"d": "to attract and keep someone's interest",
+"c": "訂婚）"
+},
+"enhance": {
+"p": "v./(n.)",
+"d": "to make something better",
+"c": "增強（增強）"
+},
+"enjoy": {
+"p": "v./(n.)",
+"d": "to like doing something",
+"c": "享受）"
+},
+"enlarge": {
+"p": "v./(n.)",
+"d": "to make something bigger",
+"c": "放大）"
+},
+"ensure": {
+"p": "v.",
+"d": "to make sure something happens",
+"c": "確保"
+},
+"entertain": {
+"p": "v./(n.)",
+"d": "to amuse people or make them enjoy themselves.",
+"c": "娛樂）"
+},
+"entitle": {
+"p": "v.",
+"d": "to give someone the right to do or have something",
+"c": "賦予"
+},
+"equip": {
+"p": "v./(n.)",
+"d": "to give someone the tools they need",
+"c": "裝置)"
+},
+"erase": {
+"p": "v.",
+"d": "to rub out or remove writing; to eliminate from memory or a hard drive",
+"c": "擦除"
+},
+"erupt": {
+"p": "v.",
+"d": "to suddenly throw out lava, ash or gas",
+"c": "爆發"
+},
+"establish": {
+"p": "v./(n.)",
+"d": "to start or create something that will last",
+"c": "設立（設立）"
+},
+"evaluate": {
+"p": "v.",
+"d": "to judge how good or useful something is",
+"c": "評價"
+},
+"evolve": {
+"p": "v.",
+"d": "to change slowly over time",
+"c": "發展"
+},
+"exaggerate": {
+"p": "v.",
+"d": "to describe something as bigger or worse than it is",
+"c": "誇大"
+},
+"exceed": {
+"p": "v.",
+"d": "to go over a limit",
+"c": "超過"
+},
+"excite": {
+"p": "v./(n.)",
+"d": "to cause strong feelings of enthusiasm, eagerness, or excitement",
+"c": "激動）"
+},
+"exclude": {
+"p": "v.",
+"d": "to leave out or keep out",
+"c": "排除"
+},
+"execute": {
+"p": "v.",
+"d": "to carry out a plan, order or task",
+"c": "執行"
+},
+"exhibit": {
+"p": "n./v.",
+"d": "to show something to the public",
+"c": "展覽"
+},
+"expand": {
+"p": "v.",
+"d": "to make something bigger",
+"c": "擴張"
+},
+"explode": {
+"p": "v.",
+"d": "to burst out violently with a sudden loud noise.",
+"c": "霹靂"
+},
+"exploit": {
+"p": "v./n.",
+"d": "to use something or someone unfairly",
+"c": "開發"
+},
+"explore": {
+"p": "v.",
+"d": "to examine or try out something in order to learn about it",
+"c": "探索"
+},
+"expose": {
+"p": "v.",
+"d": "to put someone or something in danger",
+"c": "暴露"
+},
+"extend": {
+"p": "v.",
+"d": "to make something longer or larger",
+"c": "延長"
+},
+"facilitate": {
+"p": "v.",
+"d": "to make something easier to happen",
+"c": "促進"
+},
+"fade": {
+"p": "v.",
+"d": "to gradually grow faint and disappear.",
+"c": "褪色"
+},
+"fail": {
+"p": "v./n.",
+"d": "to not pass a test; to not do what you tried to do",
+"c": "失敗"
+},
+"fascinate": {
+"p": "v.",
+"d": "to interest someone very much",
+"c": "吸引"
+},
+"fasten": {
+"p": "v.",
+"d": "to close or fix something firmly",
+"c": "系"
+},
+"feed": {
+"p": "v./n.",
+"d": "to give food to a person or animal",
+"c": "餵食"
+},
+"fetch": {
+"p": "v./n.",
+"d": "to go and get something and bring it back",
+"c": "拿來"
+},
+"fish": {
+"p": "n./v.",
+"d": "an animal that lives in water; its meat",
+"c": "魚"
+},
+"fix": {
+"p": "v./n.",
+"d": "to make a broken thing work again",
+"c": "使固定"
+},
+"flatter": {
+"p": "v.",
+"d": "to praise someone too much because you want something from them",
+"c": "奉承"
+},
+"flee": {
+"p": "v.",
+"d": "to run away from danger",
+"c": "逃跑"
+},
+"flip": {
+"p": "v./n.",
+"d": "to turn something over quickly; to turn over in the air",
+"c": "翻動"
+},
+"float": {
+"p": "v./n.",
+"d": "to stay on the surface of a liquid or move slowly through the air",
+"c": "漂浮"
+},
+"flock": {
+"p": "n./v.",
+"d": "a group of birds or sheep",
+"c": "群"
+},
+"flourish": {
+"p": "v./n.",
+"d": "to grow well and be healthy",
+"c": "繁榮"
+},
+"fly": {
+"p": "v./n.",
+"d": "to move through the air",
+"c": "飛"
+},
+"foam": {
+"p": "n./v.",
+"d": "a mass of small bubbles on top of a liquid",
+"c": "泡棉"
+},
+"follow": {
+"p": "v.",
+"d": "to go after someone; to do what someone or a rule says",
+"c": "跟隨"
+},
+"forbid": {
+"p": "v.",
+"d": "to say that someone must not do something",
+"c": "禁止"
+},
+"forge": {
+"p": "v.",
+"d": "to build a strong relationship or agreement",
+"c": "鍛造"
+},
+"found": {
+"p": "v.",
+"d": "to start a company or organization",
+"c": "成立"
+},
+"freeze": {
+"p": "v./n.",
+"d": "(of a screen or machine) to stop moving or responding",
+"c": "凍結"
+},
+"frighten": {
+"p": "v.",
+"d": "to make someone afraid",
+"c": "嚇唬"
+},
+"frown": {
+"p": "n./v.",
+"d": "to make an angry or unhappy face by moving your eyebrows together",
+"c": "皺眉"
+},
+"frustrate": {
+"p": "v.",
+"d": "to block someone from finishing a goal.",
+"c": "阻撓"
+},
+"fulfill": {
+"p": "v./(n.)",
+"d": "to do what you promised or what is needed; to make a dream come true",
+"c": "履行）"
+},
+"furnish": {
+"p": "v.",
+"d": "to put furniture into a room or house",
+"c": "提供"
+},
+"gang": {
+"p": "n./v.",
+"d": "a group of young people who cause trouble; a group of criminals",
+"c": "幫派"
+},
+"gasp": {
+"p": "n./v.",
+"d": "to breathe in quickly and loudly because you are surprised or need air",
+"c": "喘氣"
+},
+"gather": {
+"p": "v.",
+"d": "to come together in a group; to collect things",
+"c": "收集"
+},
+"gauge": {
+"p": "n./v.",
+"d": "to judge or measure something",
+"c": "測量"
+},
+"generate": {
+"p": "v.",
+"d": "to produce something",
+"c": "產生"
+},
+"govern": {
+"p": "v.",
+"d": "to officially control a country or area",
+"c": "治理"
+},
+"grab": {
+"p": "n./v.",
+"d": "to take hold of something suddenly and roughly or forcefully",
+"c": "抓住"
+},
+"graduate": {
+"p": "n./v.",
+"d": "a person who has finished a degree",
+"c": "畢業"
+},
+"grieve": {
+"p": "v.",
+"d": "to feel very sad, especially because someone has died",
+"c": "悲傷"
+},
+"grill": {
+"p": "n./v.",
+"d": "to cook food on metal bars over a fire or under strong heat",
+"c": "炙烤"
+},
+"grind": {
+"p": "v./n.",
+"d": "to crush something into small pieces or powder",
+"c": "研磨"
+},
+"grow": {
+"p": "v.",
+"d": "to get bigger; to help plants live and get bigger",
+"c": "生長"
+},
+"guide": {
+"p": "n./v.",
+"d": "to show someone the way",
+"c": "指導"
+},
+"hammer": {
+"p": "n./v.",
+"d": "a heavy hand tool with a metal head used for pounding nails",
+"c": "槌"
+},
+"hamper": {
+"p": "v.",
+"d": "to make it difficult for something to happen",
+"c": "阻礙"
+},
+"handle": {
+"p": "v./n.",
+"d": "to manage or deal with; the part by which a thing is held",
+"c": "處理"
+},
+"hang": {
+"p": "v.",
+"d": "to attach something so it stays above the ground",
+"c": "懸掛"
+},
+"harbor": {
+"p": "n./v.",
+"d": "a sheltered area of water next to the land where commercial ships or private boats can safely anchor",
+"c": "港口"
+},
+"harness": {
+"p": "n./v.",
+"d": "to control and use natural energy",
+"c": "馬具"
+},
+"hasten": {
+"p": "v.",
+"d": "to make something happen sooner",
+"c": "趨"
+},
+"hatch": {
+"p": "n./v.",
+"d": "to break out of an egg",
+"c": "孵化"
+},
+"haunt": {
+"p": "v./n.",
+"d": "(of a ghost) to appear in a place again and again",
+"c": "出沒"
+},
+"heal": {
+"p": "v.",
+"d": "to become healthy again after an injury",
+"c": "癒合"
+},
+"hesitate": {
+"p": "v.",
+"d": "to pause before doing something because you are unsure",
+"c": "猶豫"
+},
+"hinder": {
+"p": "v.",
+"d": "to make it difficult for something to happen",
+"c": "阻礙"
+},
+"hire": {
+"p": "v./n.",
+"d": "to employ someone for wages; to rent equipment for temporary use",
+"c": "聘請"
+},
+"hit": {
+"p": "v./n.",
+"d": "a very successful song, movie, etc.",
+"c": "打"
+},
+"house": {
+"p": "n./v.",
+"d": "a building where a family lives",
+"c": "房子"
+},
+"hover": {
+"p": "v./n.",
+"d": "to stay in the air in one place",
+"c": "徘徊"
+},
+"hug": {
+"p": "n./v.",
+"d": "holding someone in your arms to show love",
+"c": "擁抱"
+},
+"hum": {
+"p": "v.",
+"d": "to make a low, steady continuous sound; to sing with closed lips",
+"c": "哼"
+},
+"hunt": {
+"p": "v./n.",
+"d": "to pursue and kill a wild animal for food or sport",
+"c": "打獵"
+},
+"hurt": {
+"p": "v./n.",
+"d": "to cause pain or injury",
+"c": "傷害"
+},
+"hush": {
+"p": "n./v.",
+"d": "a sudden silence",
+"c": "噓"
+},
+"identify": {
+"p": "v.",
+"d": "to recognize and name someone or something",
+"c": "確認"
+},
+"ignite": {
+"p": "v.",
+"d": "to start a strong feeling, argument or interest",
+"c": "引發;點燃"
+},
+"illustrate": {
+"p": "v.",
+"d": "to draw pictures for a book",
+"c": "闡明"
+},
+"imitate": {
+"p": "v.",
+"d": "to copy the way someone does something",
+"c": "模擬"
+},
+"implement": {
+"p": "v./n.",
+"d": "to put a plan into action",
+"c": "實施"
+},
+"imply": {
+"p": "v.",
+"d": "to suggest something without saying it directly",
+"c": "意味著"
+},
+"impose": {
+"p": "v.",
+"d": "to force people to accept a rule or cost",
+"c": "強加"
+},
+"impress": {
+"p": "v.",
+"d": "to make someone admire or notice your top talents.",
+"c": "留下深刻印象"
+},
+"incorporate": {
+"p": "v.",
+"d": "to include something as a part",
+"c": "包含"
+},
+"induce": {
+"p": "v.",
+"d": "to cause something to happen",
+"c": "誘發"
+},
+"indulge": {
+"p": "v.",
+"d": "to allow yourself to enjoy something special",
+"c": "放縱"
+},
+"infect": {
+"p": "v.",
+"d": "to give someone a disease",
+"c": "感染"
+},
+"inflate": {
+"p": "v.",
+"d": "to make prices or numbers higher than they should be",
+"c": "抬高；灌水"
+},
+"inform": {
+"p": "v.",
+"d": "to tell someone facts",
+"c": "通知"
+},
+"inherit": {
+"p": "v.",
+"d": "to receive money or property from someone who has died",
+"c": "繼承"
+},
+"inhibit": {
+"p": "v.",
+"d": "to stop or slow something down",
+"c": "抑制"
+},
+"initiate": {
+"p": "v./adj./n.",
+"d": "to start something",
+"c": "發起"
+},
+"inject": {
+"p": "v.",
+"d": "to put medicine into the body with a needle",
+"c": "注入"
+},
+"injure": {
+"p": "v.",
+"d": "to hurt someone",
+"c": "損傷"
+},
+"insert": {
+"p": "v./n.",
+"d": "to put something into something else",
+"c": "插入"
+},
+"inspect": {
+"p": "v.",
+"d": "to look at something carefully",
+"c": "檢查"
+},
+"inspire": {
+"p": "v.",
+"d": "to fill someone with the urge or ability to do or feel something creative",
+"c": "啟發"
+},
+"install": {
+"p": "v.",
+"d": "to put a program onto a computer or phone",
+"c": "安裝"
+},
+"institute": {
+"p": "n./v.",
+"d": "an organization for study or research",
+"c": "研究所"
+},
+"instruct": {
+"p": "v.",
+"d": "to tell someone what to do",
+"c": "指示"
+},
+"integrate": {
+"p": "v.",
+"d": "to combine things to work together",
+"c": "整合"
+},
+"intend": {
+"p": "v.",
+"d": "to plan to do something",
+"c": "打算"
+},
+"intensify": {
+"p": "v.",
+"d": "to become stronger",
+"c": "強化"
+},
+"interact": {
+"p": "v.",
+"d": "to act on or affect each other",
+"c": "相互影響"
+},
+"interfere": {
+"p": "v.",
+"d": "to get involved and cause problems",
+"c": "幹擾"
+},
+"interpret": {
+"p": "v.",
+"d": "to change spoken words into another language",
+"c": "解釋"
+},
+"interrupt": {
+"p": "v.",
+"d": "to stop the continuous progress of an activity or speaker",
+"c": "打斷"
+},
+"invade": {
+"p": "v.",
+"d": "to enter a country with an army to take control",
+"c": "入侵"
+},
+"invent": {
+"p": "v.",
+"d": "to create or design something that has not existed before",
+"c": "發明"
+},
+"invest": {
+"p": "v./(n.)",
+"d": "to put money into something to get a benefit later",
+"c": "投資）"
+},
+"investigate": {
+"p": "v.",
+"d": "to try to find out the facts about something",
+"c": "調查"
+},
+"involve": {
+"p": "v./(n.)",
+"d": "to include something as a necessary part",
+"c": "參與（參與）"
+},
+"iron": {
+"p": "n./v./adj.",
+"d": "a strong, hard magnetic silver-gray metal; to smooth clothes",
+"c": "鐵"
+},
+"isolate": {
+"p": "v.",
+"d": "to keep someone or something apart",
+"c": "隔離"
+},
+"join": {
+"p": "v./n.",
+"d": "to become a member of a group or activity",
+"c": "加入"
+},
+"judge": {
+"p": "n./v.",
+"d": "a public officer appointed to decide cases in court; to form an opinion",
+"c": "法官"
+},
+"juggle": {
+"p": "v.",
+"d": "to try to deal with several jobs or duties at the same time",
+"c": "兼顧；同時應付"
+},
+"jump": {
+"p": "v./n.",
+"d": "to push yourself off the ground into the air with your legs",
+"c": "跳"
+},
+"justify": {
+"p": "v.",
+"d": "to give a good reason for something",
+"c": "證明合法"
+},
+"keep": {
+"p": "v./n.",
+"d": "to continue having or doing something",
+"c": "保持"
+},
+"kick": {
+"p": "v./n.",
+"d": "to hit something with your foot",
+"c": "踢"
+},
+"kidnap": {
+"p": "v.",
+"d": "to take someone away by force, usually to get money",
+"c": "綁架"
+},
+"kill": {
+"p": "v./n.",
+"d": "to cause a person, animal, or plant to die",
+"c": "殺"
+},
+"kindle": {
+"p": "v.",
+"d": "to start a fire",
+"c": "點燃"
+},
+"kneel": {
+"p": "v.",
+"d": "to go down and rest on one or both knees",
+"c": "下跪"
+},
+"knit": {
+"p": "v./n.",
+"d": "to make clothes from wool using two long needles",
+"c": "針織"
+},
+"lace": {
+"p": "n./v.",
+"d": "a fine delicate fabric made of yarn in an open webbed pattern; to fasten with laces",
+"c": "蕾絲"
+},
+"lay": {
+"p": "v.",
+"d": "to put something down gently or flat in a particular place",
+"c": "躺著"
+},
+"lend": {
+"p": "v.",
+"d": "to give something to someone for a while",
+"c": "借"
+},
+"lift": {
+"p": "v./n.",
+"d": "to raise to a higher position; a ride in a car",
+"c": "舉起"
+},
+"locate": {
+"p": "v.",
+"d": "to find the exact position of something",
+"c": "定位"
+},
+"lodge": {
+"p": "n./v.",
+"d": "a small house in the countryside, used by hunters, hikers, or skiers",
+"c": "小屋"
+},
+"loosen": {
+"p": "v.",
+"d": "to make something less tight, or to become less tight",
+"c": "鬆開"
+},
+"lounge": {
+"p": "n./v.",
+"d": "a comfortable room for sitting and relaxing in a hotel, airport, or home",
+"c": "休息室"
+},
+"lower": {
+"p": "v.",
+"d": "to move something down; to make something less",
+"c": "降低；放下"
+},
+"magnify": {
+"p": "v.",
+"d": "to make something seem or become bigger",
+"c": "放大"
+},
+"maintain": {
+"p": "v.",
+"d": "to keep something in good condition",
+"c": "維持"
+},
+"manipulate": {
+"p": "v.",
+"d": "to control someone or something unfairly",
+"c": "操縱"
+},
+"manufacture": {
+"p": "n./v.",
+"d": "to produce goods in large quantities using machines.",
+"c": "生產"
+},
+"march": {
+"p": "n./v.",
+"d": "the third month of the year",
+"c": "行進"
+},
+"marshal": {
+"p": "v.",
+"d": "to gather and organize people or things",
+"c": "集結；整頓"
+},
+"mature": {
+"p": "adj.",
+"d": "to grow and develop fully",
+"c": "成熟"
+},
+"meet": {
+"p": "v.",
+"d": "to see and talk to someone for the first time or at a planned time",
+"c": "見面"
+},
+"melt": {
+"p": "v.",
+"d": "to change from solid to liquid because of heat",
+"c": "融化"
+},
+"mend": {
+"p": "v.",
+"d": "to repair (something that is broken or damaged).",
+"c": "修補"
+},
+"merge": {
+"p": "v.",
+"d": "to combine two or more things into one",
+"c": "合併"
+},
+"milk": {
+"p": "n.",
+"d": "a white drink that comes from cows",
+"c": "牛奶"
+},
+"minimize": {
+"p": "v.",
+"d": "to make something as small as possible",
+"c": "最小化"
+},
+"mislead": {
+"p": "v.",
+"d": "to make someone believe something false",
+"c": "誤導"
+},
+"miss": {
+"p": "v./n.",
+"d": "a word used before the family name of a girl or a woman who is not married",
+"c": "錯過"
+},
+"modify": {
+"p": "v.",
+"d": "to change something a little",
+"c": "調整"
+},
+"motivate": {
+"p": "v.",
+"d": "to make someone want to do something",
+"c": "激勵"
+},
+"mount": {
+"p": "n./v.",
+"d": "to fix something onto a wall, stand or vehicle",
+"c": "山"
+},
+"mourn": {
+"p": "v.",
+"d": "to feel and show great sadness because someone has died",
+"c": "哀悼"
+},
+"multiply": {
+"p": "v.",
+"d": "to increase greatly in number",
+"c": "乘"
+},
+"mushroom": {
+"p": "n./v.",
+"d": "a fungus with a stem and a round top",
+"c": "菇"
+},
+"muster": {
+"p": "v.",
+"d": "to gather courage, strength or support",
+"c": "鼓起（勇氣）；召集"
+},
+"nail": {
+"p": "n.",
+"d": "the hard part at the end of a finger or toe",
+"c": "指甲"
+},
+"nap": {
+"p": "n./v.",
+"d": "a short sleep during the day",
+"c": "打盹"
+},
+"navigate": {
+"p": "v.",
+"d": "to find the way when travelling, especially by sea",
+"c": "導航"
+},
+"negotiate": {
+"p": "v.",
+"d": "to discuss something to reach an agreement",
+"c": "談判"
+},
+"nickname": {
+"p": "n./v.",
+"d": "a familiar or humorous name given to a person instead of or as well as the real name",
+"c": "暱稱"
+},
+"nominate": {
+"p": "v.",
+"d": "to officially suggest someone for a job, a prize, or a position",
+"c": "提名"
+},
+"notify": {
+"p": "v.",
+"d": "to tell someone officially",
+"c": "通知"
+},
+"nurse": {
+"p": "n./v.",
+"d": "to feed a baby with milk from its mother",
+"c": "護士"
+},
+"nurture": {
+"p": "v./n.",
+"d": "to care for and help something grow or develop",
+"c": "培育"
+},
+"observe": {
+"p": "v.",
+"d": "to watch something carefully",
+"c": "觀察"
+},
+"obtain": {
+"p": "v.",
+"d": "to get something",
+"c": "獲得"
+},
+"occupy": {
+"p": "v.",
+"d": "to take control of a place",
+"c": "佔據"
+},
+"offend": {
+"p": "v.",
+"d": "to make someone angry or upset by what you say or do",
+"c": "得罪"
+},
+"offer": {
+"p": "v./n.",
+"d": "to present something for acceptance or refusal; a proposal",
+"c": "提供"
+},
+"omit": {
+"p": "v.",
+"d": "to leave out or exclude someone or something either intentionally or forgetfully",
+"c": "忽略"
+},
+"operate": {
+"p": "v.",
+"d": "to make a machine work",
+"c": "操作"
+},
+"oppose": {
+"p": "v.",
+"d": "to disagree with and try to stop something",
+"c": "反對"
+},
+"opt": {
+"p": "v.",
+"d": "to choose one thing instead of another",
+"c": "選擇"
+},
+"orbit": {
+"p": "n./v.",
+"d": "to move around a planet or star in a curved path",
+"c": "軌道"
+},
+"organize": {
+"p": "v.",
+"d": "to plan and arrange something; to put things in order",
+"c": "組織"
+},
+"overcome": {
+"p": "v.",
+"d": "to succeed in dealing with a problem",
+"c": "克服"
+},
+"overlook": {
+"p": "v.",
+"d": "to fail to notice or consider something",
+"c": "俯瞰"
+},
+"oversee": {
+"p": "v.",
+"d": "to watch and organise work to check it is done well",
+"c": "監督"
+},
+"overtake": {
+"p": "v.",
+"d": "to become greater or more successful than something",
+"c": "超過"
+},
+"overthrow": {
+"p": "v.",
+"d": "to remove a ruler from power by force",
+"c": "推翻"
+},
+"overturn": {
+"p": "v./n.",
+"d": "to officially change a decision",
+"c": "顛覆"
+},
+"overwhelm": {
+"p": "v.",
+"d": "to be so much or so strong that someone cannot deal with it",
+"c": "壓倒"
+},
+"owe": {
+"p": "v.",
+"d": "to have to pay money back to someone",
+"c": "欠"
+},
+"own": {
+"p": "adj./pron./v.",
+"d": "belonging to that person and nobody else",
+"c": "自己的"
+},
+"pack": {
+"p": "n./v.",
+"d": "a small box or bag with many of the same things inside",
+"c": "盒"
+},
+"pad": {
+"p": "n./v.",
+"d": "a thick piece of soft material used for protection; a block of writing paper",
+"c": "軟墊"
+},
+"paint": {
+"p": "n./v.",
+"d": "to create a picture using paint",
+"c": "畫"
+},
+"parade": {
+"p": "n./v.",
+"d": "to walk or march in a public celebration or display.",
+"c": "遊行"
+},
+"pass": {
+"p": "v./n.",
+"d": "to do well on a test",
+"c": "經過"
+},
+"patrol": {
+"p": "n./v.",
+"d": "to walk or drive around an area to protect it",
+"c": "巡邏"
+},
+"pave": {
+"p": "v./(n.)",
+"d": "to cover a piece of ground with asphalt, concrete, or stone to make a firm level surface",
+"c": "路面）"
+},
+"pedal": {
+"p": "n./v.",
+"d": "a flat part of a bicycle or machine that you push with your foot",
+"c": "踏板"
+},
+"peel": {
+"p": "v./n.",
+"d": "to remove the outer covering or skin from a fruit, vegetable, or object",
+"c": "果皮"
+},
+"penetrate": {
+"p": "v.",
+"d": "to go into or through something",
+"c": "穿透"
+},
+"perceive": {
+"p": "v.",
+"d": "to notice or understand something",
+"c": "感知"
+},
+"perform": {
+"p": "v.",
+"d": "to entertain an audience by acting, singing, etc.",
+"c": "執行"
+},
+"persist": {
+"p": "v.",
+"d": "to continue to exist for a long time",
+"c": "堅持"
+},
+"persuade": {
+"p": "v.",
+"d": "to make someone agree to do something",
+"c": "說服"
+},
+"pick": {
+"p": "v./n.",
+"d": "to choose; to take fruit or flowers from a plant",
+"c": "挑選"
+},
+"pirate": {
+"p": "n./v.",
+"d": "a person who attacks and robs ships at sea",
+"c": "海盜"
+},
+"plead": {
+"p": "v.",
+"d": "to ask for something in a serious, emotional way",
+"c": "懇求"
+},
+"plug": {
+"p": "n./v.",
+"d": "the part at the end of a wire that goes into a socket",
+"c": "插頭"
+},
+"poke": {
+"p": "v./n.",
+"d": "to push something or someone quickly with your finger or a stick",
+"c": "戳"
+},
+"polish": {
+"p": "n./v.",
+"d": "to improve something by making small changes",
+"c": "拋光"
+},
+"pollute": {
+"p": "v.",
+"d": "to make air, water, or soil dirty and harmful to life",
+"c": "污染"
+},
+"portray": {
+"p": "v.",
+"d": "to describe or show someone or something in a certain way",
+"c": "寫真"
+},
+"pose": {
+"p": "v./n.",
+"d": "to create a problem or question",
+"c": "姿勢"
+},
+"possess": {
+"p": "v.",
+"d": "to have or own",
+"c": "具有"
+},
+"postpone": {
+"p": "v./(n.)",
+"d": "to move an event to a later time",
+"c": "推遲（延期）"
+},
+"pour": {
+"p": "v.",
+"d": "to make a liquid flow from one container into another.",
+"c": "倒"
+},
+"predict": {
+"p": "v.",
+"d": "to say what will happen in the future",
+"c": "預測"
+},
+"prescribe": {
+"p": "v.",
+"d": "to say officially what must be done",
+"c": "規定"
+},
+"preserve": {
+"p": "v.",
+"d": "to keep something safe from harm or in its original state",
+"c": "儲存"
+},
+"presume": {
+"p": "v.",
+"d": "to think something is true",
+"c": "怙"
+},
+"pretend": {
+"p": "v.",
+"d": "to behave as if something is true when it is not",
+"c": "假裝"
+},
+"prevail": {
+"p": "v.",
+"d": "to be common or most powerful at a certain time",
+"c": "佔上風"
+},
+"prevent": {
+"p": "v.",
+"d": "to stop something from happening",
+"c": "防止"
+},
+"probe": {
+"p": "n.",
+"d": "a tool sent to collect information from a place that is hard to reach",
+"c": "探測"
+},
+"proceed": {
+"p": "v.",
+"d": "to continue doing something",
+"c": "繼續"
+},
+"proclaim": {
+"p": "v.",
+"d": "to announce something officially and publicly",
+"c": "宣告"
+},
+"program": {
+"p": "n./v.",
+"d": "a show on TV or the radio",
+"c": "程式"
+},
+"prohibit": {
+"p": "v.",
+"d": "to officially not allow something",
+"c": "禁止"
+},
+"prolong": {
+"p": "v.",
+"d": "to make something last longer",
+"c": "延長"
+},
+"promote": {
+"p": "v.",
+"d": "to help something grow; to give a higher job",
+"c": "推動"
+},
+"pronounce": {
+"p": "v.",
+"d": "to make the sound of a word or letter in a particular way",
+"c": "發音"
+},
+"prop": {
+"p": "n.",
+"d": "an object that actors use on stage during a show",
+"c": "道具"
+},
+"prosper": {
+"p": "v.",
+"d": "to be successful, especially by earning money",
+"c": "繁榮"
+},
+"provoke": {
+"p": "v.",
+"d": "to cause a strong feeling or reaction",
+"c": "惹"
+},
+"publish": {
+"p": "v.",
+"d": "to print and sell a book or magazine",
+"c": "發布"
+},
+"pull": {
+"p": "v./n.",
+"d": "to use force to move something toward you",
+"c": "拉"
+},
+"pump": {
+"p": "n./v.",
+"d": "a mechanical machine used to move liquids or gases; to move fluid",
+"c": "泵浦"
+},
+"pursue": {
+"p": "v.",
+"d": "to try to get or do something",
+"c": "追求"
+},
+"push": {
+"p": "v./n.",
+"d": "to use force to move something away from you",
+"c": "推"
+},
+"put": {
+"p": "v.",
+"d": "to move something into a certain place",
+"c": "放"
+},
+"qualify": {
+"p": "v.",
+"d": "to reach the standard needed to enter a competition",
+"c": "有資格"
+},
+"quit": {
+"p": "v.",
+"d": "to leave a place usually permanently; to stop an action or employment",
+"c": "辭職"
+},
+"quote": {
+"p": "v./n.",
+"d": "to repeat someone's exact words",
+"c": "引用"
+},
+"raid": {
+"p": "n./v.",
+"d": "to attack a place suddenly to take things",
+"c": "襲擊"
+},
+"raise": {
+"p": "v./n.",
+"d": "to lift something up; to take care of a child until he or she grows up",
+"c": "增加"
+},
+"rattle": {
+"p": "v./n.",
+"d": "to make a series of short, quick knocking sounds",
+"c": "撥浪鼓"
+},
+"react": {
+"p": "v.",
+"d": "to behave in a specific way due to something.",
+"c": "反應"
+},
+"read": {
+"p": "v.",
+"d": "to look at words and understand them",
+"c": "讀"
+},
+"reap": {
+"p": "v.",
+"d": "to cut and collect a crop",
+"c": "收穫"
+},
+"reassure": {
+"p": "v.",
+"d": "to make someone feel less worried again",
+"c": "安撫"
+},
+"recall": {
+"p": "v./n.",
+"d": "to remember something from the past",
+"c": "記起"
+},
+"recognize": {
+"p": "v.",
+"d": "to know who someone is or what something is because you have seen or heard them before",
+"c": "認出"
+},
+"recommend": {
+"p": "v.",
+"d": "to advise that something should be done",
+"c": "推薦"
+},
+"reconcile": {
+"p": "v.",
+"d": "to find a way for two different ideas to exist together",
+"c": "調和"
+},
+"recover": {
+"p": "v.",
+"d": "to get well again; to get something back",
+"c": "恢復"
+},
+"recycle": {
+"p": "v.",
+"d": "to collect and treat rubbish to produce useful materials again",
+"c": "回收"
+},
+"reduce": {
+"p": "v.",
+"d": "to make something smaller or less",
+"c": "減少"
+},
+"refer": {
+"p": "v.",
+"d": "to mention or talk about someone or something",
+"c": "參考"
+},
+"refine": {
+"p": "v./(n.)",
+"d": "to make something purer or better",
+"c": "細化（細化）"
+},
+"reflect": {
+"p": "v.",
+"d": "to think carefully about something you did",
+"c": "反映"
+},
+"refresh": {
+"p": "v./(n.)",
+"d": "to make someone feel less tired or less hot",
+"c": "刷新（更新）"
+},
+"regulate": {
+"p": "v.",
+"d": "to control something with rules",
+"c": "調節"
+},
+"rehearse": {
+"p": "v.",
+"d": "to practise a play or music before a performance",
+"c": "排練"
+},
+"reinforce": {
+"p": "v.",
+"d": "to make something stronger",
+"c": "加強"
+},
+"reject": {
+"p": "v.",
+"d": "to refuse to accept something",
+"c": "拒絕"
+},
+"relate": {
+"p": "v.",
+"d": "to find or show a connection",
+"c": "涉及"
+},
+"relieve": {
+"p": "v.",
+"d": "to make pain or a problem less bad",
+"c": "緩解"
+},
+"rely": {
+"p": "v.",
+"d": "to need or depend on someone or something",
+"c": "依靠"
+},
+"remain": {
+"p": "v.",
+"d": "to stay in the same place or keep a specific state.",
+"c": "保持"
+},
+"remind": {
+"p": "v.",
+"d": "to cause someone to remember someone or something",
+"c": "提醒"
+},
+"render": {
+"p": "v.",
+"d": "to cause something to be in a certain condition",
+"c": "使成為"
+},
+"renew": {
+"p": "v.",
+"d": "to start again or make something valid for longer",
+"c": "更新"
+},
+"repay": {
+"p": "v.",
+"d": "to pay back money you borrowed",
+"c": "償還"
+},
+"replace": {
+"p": "v./(n.)",
+"d": "to take the place of someone or something",
+"c": "替代品）"
+},
+"represent": {
+"p": "v.",
+"d": "to speak or act officially on behalf of a team.",
+"c": "代表"
+},
+"reproduce": {
+"p": "v.",
+"d": "to produce young animals or plants",
+"c": "複製"
+},
+"require": {
+"p": "v./(n.)",
+"d": "to need something",
+"c": "要求）"
+},
+"resemble": {
+"p": "v.",
+"d": "to look like or be similar to something",
+"c": "類似"
+},
+"reside": {
+"p": "v.",
+"d": "to live in a particular place",
+"c": "居住"
+},
+"resign": {
+"p": "v.",
+"d": "to leave your job officially",
+"c": "辭職"
+},
+"resist": {
+"p": "v.",
+"d": "to fight against something or refuse to accept it",
+"c": "抵抗"
+},
+"resolve": {
+"p": "v./n.",
+"d": "to find an answer to a problem",
+"c": "解決"
+},
+"respond": {
+"p": "v.",
+"d": "to react to something",
+"c": "回應"
+},
+"restore": {
+"p": "v.",
+"d": "to bring something back to its old condition",
+"c": "恢復"
+},
+"restrain": {
+"p": "v.",
+"d": "to stop someone from doing something",
+"c": "抑制"
+},
+"restrict": {
+"p": "v.",
+"d": "to limit something",
+"c": "限制"
+},
+"resume": {
+"p": "v./n.",
+"d": "to start again after a pause",
+"c": "恢復"
+},
+"retain": {
+"p": "v.",
+"d": "to keep something",
+"c": "保持"
+},
+"retire": {
+"p": "v./(n.)",
+"d": "to officially drop your corporate role at age 65.",
+"c": "退休）"
+},
+"reveal": {
+"p": "v.",
+"d": "to show something hidden",
+"c": "揭示"
+},
+"revise": {
+"p": "v.",
+"d": "to change and improve something",
+"c": "修訂"
+},
+"revive": {
+"p": "v.",
+"d": "to bring something back to life or use",
+"c": "復活"
+},
+"revolve": {
+"p": "v.",
+"d": "to turn around a center point",
+"c": "圍繞"
+},
+"rid": {
+"p": "adj./v.",
+"d": "to make someone or something free of an unwanted person, thing, or problem",
+"c": "擺脫"
+},
+"rip": {
+"p": "v./n.",
+"d": "to tear something quickly and violently",
+"c": "撕裂"
+},
+"roar": {
+"p": "n./v.",
+"d": "to make a full, deep, prolonged cry; to move making a loud noise",
+"c": "吼"
+},
+"rob": {
+"p": "v.",
+"d": "to take property unlawfully from a person or place by force",
+"c": "搶"
+},
+"rot": {
+"p": "v./n.",
+"d": "to slowly break down and go bad",
+"c": "腐爛"
+},
+"rub": {
+"p": "v./n.",
+"d": "to move your hand or an object back and forth across a surface",
+"c": "擦"
+},
+"saddle": {
+"p": "n./v.",
+"d": "a seat for a rider on a horse or bicycle",
+"c": "鞍"
+},
+"sail": {
+"p": "v./n.",
+"d": "to travel on water in a boat",
+"c": "帆"
+},
+"salvage": {
+"p": "v.",
+"d": "to save goods or a ship from damage or the sea",
+"c": "打撈"
+},
+"satisfy": {
+"p": "v.",
+"d": "to meet the expectations, needs, or desires of someone",
+"c": "滿足"
+},
+"save": {
+"p": "v.",
+"d": "to keep money and not spend it; to take someone out of danger",
+"c": "節省"
+},
+"scan": {
+"p": "n./v.",
+"d": "to look quickly through a text for a particular piece of information",
+"c": "掃描"
+},
+"scatter": {
+"p": "v./n.",
+"d": "to spread things over a wide area",
+"c": "分散"
+},
+"scold": {
+"p": "v./n.",
+"d": "to speak angrily to someone because they did something wrong",
+"c": "罵"
+},
+"scoop": {
+"p": "n./v.",
+"d": "an important story one newspaper reports first",
+"c": "舀"
+},
+"scramble": {
+"p": "v./n.",
+"d": "to move or climb quickly, often with difficulty; to rush to get something",
+"c": "爭奪"
+},
+"scrap": {
+"p": "n./v.",
+"d": "to get rid of a plan or object that is not useful",
+"c": "廢棄物"
+},
+"scrub": {
+"p": "n./v.",
+"d": "to rub someone or something hard so as to clean them, typically with a brush and water",
+"c": "擦洗"
+},
+"seize": {
+"p": "v.",
+"d": "to take hold of something suddenly and firmly",
+"c": "搶佔"
+},
+"separate": {
+"p": "adj./v.",
+"d": "to cause to move or be apart; to divide into constituent parts",
+"c": "分離"
+},
+"serve": {
+"p": "v.",
+"d": "to perform duties or services for an organization, customer, or country",
+"c": "服務"
+},
+"set": {
+"p": "v./n.",
+"d": "a group of things that belong together",
+"c": "放"
+},
+"settle": {
+"p": "v./(n.)",
+"d": "to pay money that you owe",
+"c": "沉降）"
+},
+"sew": {
+"p": "v.",
+"d": "to join pieces of cloth using a needle and thread",
+"c": "縫"
+},
+"shake": {
+"p": "v./n.",
+"d": "to move with quick, short movements from side to side or up and down",
+"c": "搖"
+},
+"shatter": {
+"p": "v.",
+"d": "to break suddenly into many small pieces",
+"c": "粉碎"
+},
+"shave": {
+"p": "v./n.",
+"d": "to cut hair off your face or body with a razor",
+"c": "刮鬍子"
+},
+"shed": {
+"p": "v./n.",
+"d": "to lose skin, hair or leaves naturally",
+"c": "棚"
+},
+"shield": {
+"p": "n./v.",
+"d": "to protect someone or something from harm",
+"c": "盾"
+},
+"shine": {
+"p": "v./n.",
+"d": "to produce or reflect light; brightness",
+"c": "閃耀"
+},
+"ship": {
+"p": "n./v.",
+"d": "a big thing that carries people or things across the sea",
+"c": "船"
+},
+"shoot": {
+"p": "v./n.",
+"d": "to fire a bullet or arrow; to kick or hit a ball toward a goal",
+"c": "射擊"
+},
+"shorten": {
+"p": "v.",
+"d": "to make something shorter",
+"c": "縮短"
+},
+"shove": {
+"p": "v./n.",
+"d": "to push someone or something roughly",
+"c": "推"
+},
+"shrink": {
+"p": "v.",
+"d": "to become smaller",
+"c": "收縮；縮小"
+},
+"shrug": {
+"p": "n./v.",
+"d": "to raise your shoulders to show you do not know or do not care",
+"c": "聳肩"
+},
+"shut": {
+"p": "v./adj.",
+"d": "to close something so that it is not open",
+"c": "關閉"
+},
+"shuttle": {
+"p": "n./v.",
+"d": "a bus, train, or plane that travels regularly between two places",
+"c": "穿梭"
+},
+"sink": {
+"p": "n./v.",
+"d": "a fixed basin with a water supply; to go down below surface",
+"c": "下沉"
+},
+"sip": {
+"p": "v./n.",
+"d": "to drink by taking small mouthfuls; a small mouthful of liquid",
+"c": "啜飲"
+},
+"skip": {
+"p": "v./n.",
+"d": "to omit or leave out; to fail to attend a class or meal",
+"c": "跳過"
+},
+"slam": {
+"p": "n./v.",
+"d": "to shut something with great force and a loud noise",
+"c": "滿貫"
+},
+"slide": {
+"p": "n./v.",
+"d": "a thing in a playground that children climb up and slide down",
+"c": "滑動"
+},
+"slot": {
+"p": "n./v.",
+"d": "a long narrow hole that you put something into",
+"c": "投幣口"
+},
+"smash": {
+"p": "v./n.",
+"d": "to break something into pieces with great force",
+"c": "粉碎"
+},
+"smell": {
+"p": "n./v.",
+"d": "to have a good or bad air that your nose notices",
+"c": "聞"
+},
+"smooth": {
+"p": "adj./v.",
+"d": "having an even surface; without issues or bumps.",
+"c": "光滑的"
+},
+"snatch": {
+"p": "v./n.",
+"d": "to take something quickly and roughly",
+"c": "搶奪"
+},
+"sneak": {
+"p": "v./n.",
+"d": "to go somewhere quietly so that nobody sees you",
+"c": "潛行"
+},
+"sniff": {
+"p": "v./n.",
+"d": "to breathe in through your nose to smell something",
+"c": "聞"
+},
+"soak": {
+"p": "v./n.",
+"d": "to leave something in liquid for a long time",
+"c": "浸泡"
+},
+"soar": {
+"p": "v.",
+"d": "to rise very quickly to a high level",
+"c": "翱翔"
+},
+"soften": {
+"p": "v.",
+"d": "to become or make something soft",
+"c": "軟化"
+},
+"solve": {
+"p": "v.",
+"d": "to find an answer to, explanation for, or means of dealing with a problem",
+"c": "解決"
+},
+"sour": {
+"p": "adj./n./v.",
+"d": "having a sharp, acid taste like lemon or vinegar",
+"c": "酸的"
+},
+"sow": {
+"p": "v.",
+"d": "to plant seeds in the ground",
+"c": "母豬"
+},
+"sparkle": {
+"p": "v./n.",
+"d": "to shine brightly with small flashes of light",
+"c": "火花"
+},
+"speak": {
+"p": "v.",
+"d": "to say words; to be able to use a language",
+"c": "說話"
+},
+"spearhead": {
+"p": "v.",
+"d": "to lead a campaign or activity",
+"c": "帶頭；率先推動"
+},
+"specialize": {
+"p": "v.",
+"d": "to spend most of your time on one subject or activity",
+"c": "專精"
+},
+"specify": {
+"p": "v.",
+"d": "to say exactly what you want",
+"c": "指定"
+},
+"speculate": {
+"p": "v.",
+"d": "to guess about something without enough facts",
+"c": "推測"
+},
+"spend": {
+"p": "v.",
+"d": "to use money to buy things",
+"c": "花費"
+},
+"spill": {
+"p": "v./n.",
+"d": "to cause or allow liquid to flow over the edge of its container.",
+"c": "灑"
+},
+"spin": {
+"p": "n./v.",
+"d": "presenting information in a way that makes you look good",
+"c": "旋轉"
+},
+"spoil": {
+"p": "v.",
+"d": "(of food) to become bad and unsafe to eat",
+"c": "破壞"
+},
+"spray": {
+"p": "n./v.",
+"d": "to send liquid through the air in very small drops",
+"c": "噴"
+},
+"sprinkle": {
+"p": "v./n.",
+"d": "to scatter small drops or pieces of something over a surface",
+"c": "撒"
+},
+"spur": {
+"p": "v./n.",
+"d": "to encourage someone to do something",
+"c": "支線"
+},
+"spy": {
+"p": "n./v.",
+"d": "to watch someone or something secretly, often to discover confidential information",
+"c": "間諜"
+},
+"squander": {
+"p": "v.",
+"d": "to waste money, time or chances",
+"c": "浪費；揮霍"
+},
+"squash": {
+"p": "n./v.",
+"d": "to press something so that it becomes flat or damaged",
+"c": "壁球"
+},
+"squeeze": {
+"p": "v./n.",
+"d": "to firmly press something soft; to force into or through a tight space",
+"c": "擠"
+},
+"stab": {
+"p": "n./v.",
+"d": "to push a knife or sharp object into someone or something",
+"c": "刺"
+},
+"stack": {
+"p": "n./v.",
+"d": "a neat pile of things placed one on top of another",
+"c": "堆疊"
+},
+"stain": {
+"p": "n./v.",
+"d": "a dirty mark that is hard to remove",
+"c": "弄髒"
+},
+"stall": {
+"p": "n./v.",
+"d": "a small open shop or table where things are sold",
+"c": "攤位"
+},
+"stamp": {
+"p": "n./v.",
+"d": "a small piece of paper stuck on a letter; to put a foot down hard",
+"c": "郵票"
+},
+"stare": {
+"p": "v./n.",
+"d": "to look fixedly or vacantly at someone or something with one's eyes wide open",
+"c": "盯"
+},
+"startle": {
+"p": "v.",
+"d": "to surprise or frighten someone suddenly",
+"c": "驚嚇"
+},
+"starve": {
+"p": "v.",
+"d": "to suffer or die because there is no food",
+"c": "餓死"
+},
+"stay": {
+"p": "v./n.",
+"d": "to not leave a place",
+"c": "停留"
+},
+"steal": {
+"p": "v.",
+"d": "to take another person's property without permission",
+"c": "偷"
+},
+"steer": {
+"p": "v./n.",
+"d": "to control the direction of a vehicle or situation",
+"c": "駕駛"
+},
+"stem": {
+"p": "n./v.",
+"d": "the long thin part of a plant that holds the leaves and flowers",
+"c": "幹"
+},
+"stew": {
+"p": "n./v.",
+"d": "a dish of meat and vegetables cooked slowly in liquid",
+"c": "燉"
+},
+"stick": {
+"p": "v./n.",
+"d": "a thin piece of wood; to attach with glue; to push into",
+"c": "戳"
+},
+"stimulate": {
+"p": "v.",
+"d": "to make something develop or become more active",
+"c": "刺激"
+},
+"sting": {
+"p": "n./v.",
+"d": "a sharp pain caused by an insect or plant; the wound it leaves",
+"c": "螫"
+},
+"stir": {
+"p": "v./n.",
+"d": "to move a spoon or stick through a liquid; to arouse strong emotions",
+"c": "攪拌"
+},
+"stitch": {
+"p": "n./v.",
+"d": "a loop of thread or yarn resulting from a single pass or movement of the needle in sewing or medical repair",
+"c": "縫"
+},
+"stoop": {
+"p": "v.",
+"d": "to bend your body forward and down; to do something below your standards",
+"c": "彎腰；屈尊（做壞事）"
+},
+"straighten": {
+"p": "v.",
+"d": "to make something straight or neat",
+"c": "拉直"
+},
+"strap": {
+"p": "n./v.",
+"d": "a long thin piece of leather or cloth used to hold or carry something",
+"c": "帶子"
+},
+"strengthen": {
+"p": "v.",
+"d": "to make something stronger",
+"c": "加強"
+},
+"strip": {
+"p": "n./v.",
+"d": "a long narrow piece of something",
+"c": "條"
+},
+"strive": {
+"p": "v.",
+"d": "to try very hard to achieve something",
+"c": "努力"
+},
+"stumble": {
+"p": "v./n.",
+"d": "to almost fall while walking or running",
+"c": "絆倒"
+},
+"stun": {
+"p": "v.",
+"d": "to surprise or shock someone so much that they cannot speak or react",
+"c": "擊暈"
+},
+"submit": {
+"p": "v.",
+"d": "to give something in for a decision",
+"c": "提交"
+},
+"substitute": {
+"p": "n./v.",
+"d": "something used instead of another thing",
+"c": "代替"
+},
+"subtract": {
+"p": "v.",
+"d": "to take away a number or amount from another to calculate the difference",
+"c": "減去"
+},
+"succeed": {
+"p": "v.",
+"d": "to do what you tried to do",
+"c": "成功"
+},
+"suck": {
+"p": "v./n.",
+"d": "to draw into the mouth by creating a vacuum; (slang) to be very bad or unpleasant",
+"c": "吸"
+},
+"sue": {
+"p": "v.",
+"d": "to take legal action against someone in court",
+"c": "起訴"
+},
+"suffer": {
+"p": "v.",
+"d": "to experience or be subjected to something bad or unpleasant",
+"c": "遭受"
+},
+"suggest": {
+"p": "v.",
+"d": "to tell someone an idea about what to do",
+"c": "建議"
+},
+"summon": {
+"p": "v.",
+"d": "to officially order someone to come",
+"c": "召喚"
+},
+"supervise": {
+"p": "v.",
+"d": "to watch over someone to make sure they act correctly",
+"c": "監督"
+},
+"suppress": {
+"p": "v./n.",
+"d": "to stop something by force; to hide a feeling",
+"c": "壓制"
+},
+"surround": {
+"p": "v.",
+"d": "to move all the way around an entry to close it in.",
+"c": "環繞"
+},
+"survive": {
+"p": "v.",
+"d": "to stay alive",
+"c": "存活"
+},
+"suspend": {
+"p": "v.",
+"d": "to stop something for a short time",
+"c": "暫停"
+},
+"sustain": {
+"p": "v.",
+"d": "to keep something going",
+"c": "維持"
+},
+"swallow": {
+"p": "v./n.",
+"d": "a small migratory bird with forked tail; to cause food to pass down throat",
+"c": "吞"
+},
+"swap": {
+"p": "v./n.",
+"d": "to give something to someone and get something else in return",
+"c": "交換"
+},
+"sway": {
+"p": "n./v.",
+"d": "to influence someone's opinion or decision",
+"c": "搖擺"
+},
+"swear": {
+"p": "v.",
+"d": "to make a solemn statement or promise undertaking to do something; to use offensive language",
+"c": "發誓"
+},
+"swell": {
+"p": "v./n.",
+"d": "long, smooth waves caused by distant winds",
+"c": "膨脹"
+},
+"switch": {
+"p": "n./v.",
+"d": "a small button or lever that turns a light or machine on and off",
+"c": "轉變"
+},
+"tackle": {
+"p": "v.",
+"d": "to deal with a difficult problem",
+"c": "處理"
+},
+"tailor": {
+"p": "n.",
+"d": "to make or change something for a particular person or purpose",
+"c": "裁縫"
+},
+"take": {
+"p": "v.",
+"d": "to carry or move something from one place to another",
+"c": "拿"
+},
+"tangle": {
+"p": "n./v.",
+"d": "a mass of threads, hair, or wires twisted together; a confused state",
+"c": "爭議"
+},
+"tease": {
+"p": "v.",
+"d": "to make fun of someone playfully or unkindly",
+"c": "逗"
+},
+"tell": {
+"p": "v.",
+"d": "to give information to someone using words",
+"c": "告訴"
+},
+"tempt": {
+"p": "v.",
+"d": "to make someone want to do something, often something wrong",
+"c": "誘惑"
+},
+"tend": {
+"p": "v.",
+"d": "to take care of something or someone",
+"c": "趨向"
+},
+"terminate": {
+"p": "v.",
+"d": "to end something",
+"c": "終止"
+},
+"testify": {
+"p": "v.",
+"d": "to show that something is true",
+"c": "作證"
+},
+"threaten": {
+"p": "v.",
+"d": "to put something in danger",
+"c": "威脅"
+},
+"thrill": {
+"p": "n./v.",
+"d": "a sudden strong feeling of excitement",
+"c": "刺激"
+},
+"thrive": {
+"p": "v.",
+"d": "to grow strongly and successfully",
+"c": "蓬勃發展"
+},
+"throw": {
+"p": "v./n.",
+"d": "to send something through the air with force by the hand",
+"c": "丟"
+},
+"thrust": {
+"p": "v./n.",
+"d": "the force that pushes a plane or rocket forward",
+"c": "推力"
+},
+"tick": {
+"p": "n./v.",
+"d": "a mark (✓) that shows something is correct or done",
+"c": "打鉤"
+},
+"tickle": {
+"p": "v./n.",
+"d": "to touch someone lightly to make them laugh or wiggle.",
+"c": "癢癢"
+},
+"tighten": {
+"p": "v.",
+"d": "to make rules stricter",
+"c": "收緊"
+},
+"tilt": {
+"p": "n./v.",
+"d": "to move so that one side is higher than the other",
+"c": "傾斜"
+},
+"tire": {
+"p": "v./n.",
+"d": "to make someone feel that they need to rest; to become bored with",
+"c": "胎"
+},
+"toast": {
+"p": "n./v.",
+"d": "a piece of bread heated until it is brown",
+"c": "吐司"
+},
+"tolerate": {
+"p": "v.",
+"d": "to accept something you do not like",
+"c": "容忍"
+},
+"torment": {
+"p": "n./v.",
+"d": "great physical or mental pain",
+"c": "折磨"
+},
+"torture": {
+"p": "n./v.",
+"d": "the act of causing great pain to someone, often as a punishment",
+"c": "酷刑"
+},
+"toss": {
+"p": "v./n.",
+"d": "to throw something lightly or casually; to shake or turn over",
+"c": "折騰"
+},
+"tow": {
+"p": "n./v.",
+"d": "to pull a vehicle or boat along behind another vehicle using a rope or chain",
+"c": "拖"
+},
+"train": {
+"p": "n./v.",
+"d": "a line of cars that moves along rails and carries people",
+"c": "火車"
+},
+"transform": {
+"p": "v.",
+"d": "to change completely",
+"c": "轉換"
+},
+"translate": {
+"p": "v.",
+"d": "to change words into another language",
+"c": "翻譯"
+},
+"transmit": {
+"p": "v.",
+"d": "to send signals or messages",
+"c": "傳送"
+},
+"transport": {
+"p": "n./v.",
+"d": "a system for moving people or goods",
+"c": "運輸"
+},
+"travel": {
+"p": "n./v.",
+"d": "to make a journey, typically of some length",
+"c": "旅行"
+},
+"tread": {
+"p": "v.",
+"d": "to walk or step on something",
+"c": "踩；踏；行走"
+},
+"treat": {
+"p": "v.",
+"d": "something nice that someone buys for you",
+"c": "對待"
+},
+"tremble": {
+"p": "v./n.",
+"d": "to shake slightly because you are afraid or nervous",
+"c": "顫抖"
+},
+"trip": {
+"p": "n./v.",
+"d": "a visit to a place that is not near your home",
+"c": "旅行"
+},
+"try": {
+"p": "v./n.",
+"d": "to see if you can do something",
+"c": "嘗試"
+},
+"tug": {
+"p": "n./v.",
+"d": "to pull something hard or suddenly; a hard, sudden pull",
+"c": "拖船"
+},
+"tumble": {
+"p": "v./n.",
+"d": "to fall quickly in value",
+"c": "翻滾"
+},
+"tutor": {
+"p": "n./v.",
+"d": "a teacher who helps one student or a small group",
+"c": "導師"
+},
+"uncover": {
+"p": "v.",
+"d": "to discover something that was hidden",
+"c": "揭露"
+},
+"undergo": {
+"p": "v.",
+"d": "to experience a change or difficulty",
+"c": "經歷"
+},
+"underline": {
+"p": "v./n.",
+"d": "to draw a line under a word to give it emphasis",
+"c": "強調"
+},
+"undermine": {
+"p": "v.",
+"d": "to make something weaker over time",
+"c": "破壞"
+},
+"undertake": {
+"p": "v.",
+"d": "to start doing a job or task",
+"c": "承擔"
+},
+"undo": {
+"p": "v.",
+"d": "to cancel the effect of something you have done",
+"c": "撤銷"
+},
+"unfold": {
+"p": "v.",
+"d": "to open out from a folded state; to develop.",
+"c": "展開"
+},
+"unite": {
+"p": "v.",
+"d": "to join together",
+"c": "團結"
+},
+"unleash": {
+"p": "v.",
+"d": "to suddenly release a strong force",
+"c": "釋放；引發"
+},
+"unlock": {
+"p": "v.",
+"d": "to release or make something available",
+"c": "開鎖"
+},
+"unveil": {
+"p": "v.",
+"d": "to show something new to the public for the first time",
+"c": "揭幕"
+},
+"update": {
+"p": "n./v.",
+"d": "to make something more modern; to add the newest information",
+"c": "更新"
+},
+"upgrade": {
+"p": "v./n.",
+"d": "to make a machine or program newer and better",
+"c": "升級"
+},
+"uphold": {
+"p": "v.",
+"d": "to support or defend a law or decision",
+"c": "維護;支持"
+},
+"upset": {
+"p": "adj./v./n.",
+"d": "unhappy or worried because something bad happened",
+"c": "沮喪的"
+},
+"urge": {
+"p": "n./v.",
+"d": "to try hard to persuade someone to do something",
+"c": "敦促"
+},
+"usher": {
+"p": "v./n.",
+"d": "to lead someone politely to a place",
+"c": "引座員"
+},
+"utilize": {
+"p": "v.",
+"d": "to use something in an effective way",
+"c": "利用"
+},
+"vacuum": {
+"p": "n./v.",
+"d": "a machine that cleans floors by pulling in dust",
+"c": "真空"
+},
+"vanish": {
+"p": "v.",
+"d": "to disappear suddenly or completely",
+"c": "消失"
+},
+"vary": {
+"p": "v.",
+"d": "to change or be different",
+"c": "各不相同"
+},
+"violate": {
+"p": "v.",
+"d": "to break a law or rule",
+"c": "違反"
+},
+"volunteer": {
+"p": "n./v.",
+"d": "to offer to do something without being paid",
+"c": "志工"
+},
+"wait": {
+"p": "v./n.",
+"d": "to stay somewhere until something happens",
+"c": "等待"
+},
+"waive": {
+"p": "v.",
+"d": "to officially allow someone not to pay or follow a rule",
+"c": "免除；放棄（權利、費用）"
+},
+"wander": {
+"p": "v./n.",
+"d": "To walk or move in a leisurely, casual, or aimless way.",
+"c": "漫步"
+},
+"want": {
+"p": "v./n.",
+"d": "to have a desire for something",
+"c": "想"
+},
+"warehouse": {
+"p": "n./v.",
+"d": "a large building where goods are stored",
+"c": "倉庫"
+},
+"warn": {
+"p": "v.",
+"d": "to inform someone in advance of an impending danger, threat, or problem",
+"c": "警告"
+},
+"wash": {
+"p": "v./n.",
+"d": "to clean something using water",
+"c": "洗"
+},
+"wax": {
+"p": "n./v.",
+"d": "a soft substance used to make candles and models",
+"c": "蠟"
+},
+"weaken": {
+"p": "v.",
+"d": "to make something less strong",
+"c": "削弱"
+},
+"wear": {
+"p": "v.",
+"d": "to have clothing on your body",
+"c": "穿"
+},
+"weave": {
+"p": "v./n.",
+"d": "to make cloth by crossing threads over and under",
+"c": "編織"
+},
+"wed": {
+"p": "v.",
+"d": "to marry; to unite in marriage or close partnership",
+"c": "結婚"
+},
+"weed": {
+"p": "n./v.",
+"d": "a wild plant growing where it is not wanted",
+"c": "雜草"
+},
+"weigh": {
+"p": "v.",
+"d": "to think carefully about something before deciding",
+"c": "稱重"
+},
+"welcome": {
+"p": "v./adj./n.",
+"d": "to say hello in a friendly way to someone who comes",
+"c": "歡迎"
+},
+"whip": {
+"p": "n./v.",
+"d": "to beat with a lash; to beat cream or eggs into a light froth",
+"c": "鞭"
+},
+"widen": {
+"p": "v.",
+"d": "to become or make wider",
+"c": "擴大"
+},
+"wield": {
+"p": "v.",
+"d": "to have and use power or a weapon",
+"c": "行使(權力);揮舞"
+},
+"win": {
+"p": "v./n.",
+"d": "to be the first or the best in a game or race",
+"c": "贏"
+},
+"wink": {
+"p": "n./v.",
+"d": "to close one eye quickly as a friendly or secret signal",
+"c": "眨眼"
+},
+"wipe": {
+"p": "v./n.",
+"d": "to clean or dry something with a cloth",
+"c": "擦拭"
+},
+"wire": {
+"p": "n.",
+"d": "a long, thin piece of metal that carries electricity",
+"c": "金屬絲"
+},
+"withdraw": {
+"p": "v.",
+"d": "to take something back or remove it",
+"c": "提取"
+},
+"wither": {
+"p": "v.",
+"d": "to become dry and weak and start to die",
+"c": "枯萎"
+},
+"wrap": {
+"p": "v./n.",
+"d": "to cover something with paper or cloth",
+"c": "裹"
+},
+"wrestle": {
+"p": "v./n.",
+"d": "to fight by holding and trying to push someone to the ground",
+"c": "搏鬥"
+},
+"write": {
+"p": "v.",
+"d": "to make words with a pen or pencil",
+"c": "寫"
+},
+"yawn": {
+"p": "n./v.",
+"d": "to open your mouth wide and breathe in because you are tired or bored",
+"c": "打哈欠"
+},
+"yearn": {
+"p": "v.",
+"d": "to want something very much, especially something that is hard to get",
+"c": "嚮往"
+},
+"yell": {
+"p": "v./n.",
+"d": "to give a loud, sharp cry or scream, typically of pain, anger, or excitement",
+"c": "叫喊"
+},
+"zoom": {
+"p": "v./n.",
+"d": "to make something look closer with a camera",
+"c": "飛漲"
 }
 }
