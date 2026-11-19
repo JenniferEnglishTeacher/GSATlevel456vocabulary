@@ -12,9 +12,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit7 bargain – bid
 - [x] cv-unit8 bind – bolt
 - [x] cv-unit9 bomb – brake
-- [ ] cv-unit10 branch – bully
-- [ ] cv-unit11 bump – carry
-- [ ] cv-unit12 carve – chain
+- [x] cv-unit10 branch – bully
+- [x] cv-unit11 bump – carry
+- [x] cv-unit12 carve – chain
 - [ ] cv-unit13 challenge – cherish
 - [ ] cv-unit14 chew – claim
 - [ ] cv-unit15 clarify – cloud
