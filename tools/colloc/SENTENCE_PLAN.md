@@ -24,9 +24,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit19 concede – confine
 - [x] cv-unit20 confirm – construct
 - [x] cv-unit21 consult – contest
-- [ ] cv-unit22 contract – cope
-- [ ] cv-unit23 corner – cover
-- [ ] cv-unit24 crack – criticize
+- [x] cv-unit22 contract – cope
+- [x] cv-unit23 corner – cover
+- [x] cv-unit24 crack – criticize
 - [ ] cv-unit25 crop – curb
 - [ ] cv-unit26 curse – declare
 - [ ] cv-unit27 decline – delegate
