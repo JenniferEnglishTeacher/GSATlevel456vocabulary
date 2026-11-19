@@ -3,9 +3,9 @@
 Order: ca → cd → cn (cv goes next once its data is added). 3 units per run. Mark a unit [x] when its json is committed.
 
 ## ca (114 units)
-- [ ] ca-unit1 abnormal – acceptable
-- [ ] ca-unit2 accessible – admirable
-- [ ] ca-unit3 adolescent – alien
+- [x] ca-unit1 abnormal – acceptable
+- [x] ca-unit2 accessible – admirable
+- [x] ca-unit3 adolescent – alien
 - [ ] ca-unit4 allergic – anonymous
 - [ ] ca-unit5 antique – artificial
 - [ ] ca-unit6 artistic – automatic
