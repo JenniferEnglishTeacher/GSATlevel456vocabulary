@@ -6,9 +6,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit1 abandon – accommodate
 - [x] cv-unit2 accompany – adjust
 - [x] cv-unit3 adopt – analyze
-- [ ] cv-unit4 anchor – arrest
-- [ ] cv-unit5 articulate – assume
-- [ ] cv-unit6 assure – ban
+- [x] cv-unit4 anchor – arrest
+- [x] cv-unit5 articulate – assume
+- [x] cv-unit6 assure – ban
 - [ ] cv-unit7 bargain – bid
 - [ ] cv-unit8 bind – bolt
 - [ ] cv-unit9 bomb – brake
