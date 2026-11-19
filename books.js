@@ -2621,6 +2621,7 @@ window.VOCAB_ZONES = {
    170,
    171,
    172,
+   173,
    174,
    175,
    176,
@@ -2657,6 +2658,7 @@ window.VOCAB_ZONES = {
    207,
    208,
    209,
+   210,
    211,
    212,
    213,
@@ -2668,6 +2670,7 @@ window.VOCAB_ZONES = {
    219,
    220,
    221,
+   222,
    223,
    224,
    225,
@@ -2864,7 +2867,24 @@ window.VOCAB_ZONES = {
    416,
    417,
    418,
-   419
+   419,
+   420,
+   421,
+   422,
+   423,
+   424,
+   425,
+   426,
+   427,
+   428,
+   429,
+   430,
+   431,
+   432,
+   433,
+   434,
+   435,
+   436
   ],
   "names": {
    "1": "Accident 意外事故",
@@ -3038,6 +3058,7 @@ window.VOCAB_ZONES = {
    "170": "Help 幫助",
    "171": "High School 高中",
    "172": "Historical Books 歷史書籍",
+   "173": "History 歷史",
    "174": "Hobby 嗜好",
    "175": "Holiday 假期",
    "176": "Home 家",
@@ -3074,6 +3095,7 @@ window.VOCAB_ZONES = {
    "207": "Joke 笑話",
    "208": "Keys 鑰匙",
    "209": "Land 土地",
+   "210": "Language 語言",
    "211": "Late 遲到；延遲",
    "212": "Laugh 笑",
    "213": "Law 法律",
@@ -3085,6 +3107,7 @@ window.VOCAB_ZONES = {
    "219": "Library 圖書館",
    "220": "Life 生活；生命",
    "221": "Line Chart 折線圖",
+   "222": "List 清單",
    "223": "Living 生活；居住",
    "224": "Lost 遺失；迷路",
    "225": "Lost Touch 失去聯繫",
@@ -3281,7 +3304,24 @@ window.VOCAB_ZONES = {
    "416": "Travel 旅行",
    "417": "Trees 樹木",
    "418": "Trust 信任",
-   "419": "Truth 真相"
+   "419": "Truth 真相",
+   "420": "TV Programs 電視節目",
+   "421": "Typing 打字",
+   "422": "Uniform 制服",
+   "423": "University 大學",
+   "424": "Unknown Place 未知的地方",
+   "425": "Vacation 假期",
+   "426": "Vegetables 蔬菜",
+   "427": "Video 影片",
+   "428": "Video Games 電子遊戲",
+   "429": "Visit 拜訪",
+   "430": "Voice 聲音",
+   "431": "Volunteer 志工",
+   "432": "Waiting 等待",
+   "433": "Walking 步行",
+   "434": "Wallet 錢包",
+   "435": "Wasting 浪費",
+   "436": "Watch 觀看"
   },
   "blurb": "one examword topic per unit 每單元一個主題"
  },
@@ -6738,13 +6778,6 @@ window.VOCAB_BOOKS = [
   ]
  },
  {
-  "id": "toeic",
-  "name": "TOEIC 主題單字 Themed Vocabulary",
-  "zones": [
-   "tc"
-  ]
- },
- {
   "id": "colloc",
   "name": "學測單字搭配詞 Collocations",
   "zones": [
@@ -6761,6 +6794,13 @@ window.VOCAB_BOOKS = [
   "zones": [
    "jn",
    "jv"
+  ]
+ },
+ {
+  "id": "toeic",
+  "name": "TOEIC 主題單字 Themed Vocabulary",
+  "zones": [
+   "tc"
   ]
  }
 ];
