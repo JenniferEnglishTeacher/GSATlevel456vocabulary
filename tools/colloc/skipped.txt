@@ -1,0 +1,112 @@
+cn	ache	heartache	找不到目標字
+cn	bomb	drop a bombshell	找不到目標字
+cn	brain	brainchild	找不到目標字
+cn	bud	a budding artist	找不到目標字
+cn	cliff	a cliffhanger	找不到目標字
+cn	craft	a spacecraft	找不到目標字
+cn	criterion	meet the criteria	找不到目標字
+cn	criterion	a set of criteria	找不到目標字
+cn	current	undercurrent of tension	找不到目標字
+cn	curriculum	extracurricular activities	找不到目標字
+cn	dimension	three-dimensional	找不到目標字
+cn	diversity	biodiversity	找不到目標字
+cn	flood	open the floodgates	找不到目標字
+cn	focus	a focal point	找不到目標字
+cn	fold	a tenfold increase	找不到目標字
+cn	founder	a founding father	找不到目標字
+cn	frost	permafrost	找不到目標字
+cn	goal	move the goalposts	找不到目標字
+cn	hay	a needle in a haystack	找不到目標字
+cn	ice	the tip of the iceberg	找不到目標字
+cn	liability	be liable for	找不到目標字
+cn	load	a workload	找不到目標字
+cn	log	a logbook	找不到目標字
+cn	log	a logjam	找不到目標字
+cn	mile	a milestone	找不到目標字
+cn	negotiation	the negotiating table	找不到目標字
+cn	nutrition	malnutrition	找不到目標字
+cn	objection	object to	找不到目標字
+cn	powder	gunpowder	找不到目標字
+cn	print	a fingerprint	找不到目標字
+cn	ray	a glimmer of hope	找不到目標字
+cn	repair	in a state of disrepair	找不到目標字
+cn	roll	be on the payroll	找不到目標字
+cn	shortage	be in short supply	找不到目標字
+cn	sky	praise to the skies	找不到目標字
+cn	statistics	become a statistic	找不到目標字
+cn	trauma	post-traumatic stress	找不到目標字
+cn	virus	go viral	找不到目標字
+cn	wake	awake to	找不到目標字
+cn	assembly	an assembly line	干擾選項不足
+cn	pearl	pearly white teeth	干擾選項不足
+ca	acute	acute vs. chronic illness	辨析提示
+ca	alternate	alternate (交替的) vs. alternative (替代的)	辨析提示
+ca	amateur	amateur vs. professional	辨析提示
+ca	antique	antique vs. ancient	辨析提示
+ca	apparent	apparent (表面上) vs. evident (明顯)	辨析提示
+ca	bare	bare in mind (誤) vs. bear in mind	辨析提示
+ca	broke	broke (沒錢) vs. broken (壞了)	辨析提示
+ca	chronic	chronic vs. acute	辨析提示
+ca	consequent	consequent (隨之而來) vs. subsequent (隨後)	辨析提示
+ca	considerable	considerable (相當大) vs. considerate (體貼)	辨析提示
+ca	constitutional	be unconstitutional	找不到目標字
+ca	content	content (adj.) vs. content (n.) 內容	辨析提示
+ca	continual	continual (斷續反覆) vs. continuous (不間斷)	辨析提示
+ca	counter	be counterproductive	找不到目標字
+ca	distinct	distinct (清楚不同) vs. distinctive (獨特)	辨析提示
+ca	economic	economic (經濟的) vs. economical (節省的)	辨析提示
+ca	electronic	electronic vs. electric vs. electrical	辨析提示
+ca	exceptional	exceptional (傑出) vs. exceptionable (可反對的)	辨析提示
+ca	extensive	extensive (廣泛) vs. intensive (密集)	辨析提示
+ca	farther	farther (距離) vs. further (程度；進一步)	辨析提示
+ca	fatal	fatal (致命) vs. fateful (決定命運的)	辨析提示
+ca	historic	historic (有歷史意義) vs. historical (歷史上的)	辨析提示
+ca	imaginary	imaginary (虛構) vs. imaginative (有想像力)	辨析提示
+ca	intense	intense (強烈) vs. intensive (密集)	辨析提示
+ca	learned	learned (adj.) 兩音節 vs. learned (v.) 一音節	辨析提示
+ca	objective	objective (客觀) vs. subjective (主觀)	辨析提示
+ca	oral	oral (口頭) vs. aural (聽覺)	辨析提示
+ca	pathetic	pathetic (可悲) vs. sympathetic (同情的)	辨析提示
+ca	practical	practical (實際) vs. practicable (可行)	辨析提示
+ca	rational	rational (理性) vs. reasonable (合理)	辨析提示
+ca	respectable	respectable (體面) vs. respectful (恭敬) vs. respective (各自)	辨析提示
+ca	retail	retail vs. wholesale	辨析提示
+ca	scarce	scarce (稀少) vs. scarcely (幾乎不)	辨析提示
+ca	sensible	sensible (明智) vs. sensitive (敏感)	辨析提示
+ca	sole	sole (唯一) vs. soul (靈魂)	辨析提示
+ca	subsequent	subsequent (之後) vs. consequent (因此)	辨析提示
+ca	sympathetic	sympathetic (同情；支持) vs. pathetic (可悲)	辨析提示
+ca	terrific	terrific (極好) vs. terrible (糟透) vs. terrifying (嚇人)	辨析提示
+ca	thorough	thorough (徹底) vs. through (穿過) vs. though (雖然)	辨析提示
+ca	triple	triple vs. treble	辨析提示
+ca	vain	vain (自負；徒勞) vs. vein (血管)	辨析提示
+ca	worthy	trustworthy / newsworthy / noteworthy	找不到目標字
+ca	close	close (adj.) /s/ vs. close (v.) /z/	辨析提示
+ca	present	present (出席；目前) vs. present (禮物)	辨析提示
+ca	right	right (正確) vs. rite (儀式) vs. write	辨析提示
+ca	particular	particular (特別；講究) vs. peculiar (奇特)	辨析提示
+ca	mean	mean (adj. 吝嗇；卑鄙) vs. mean (v.)	辨析提示
+ca	live	live (adj.) /laɪv/ vs. live (v.) /lɪv/	辨析提示
+ca	liable	liable (有責任；易於) vs. likely (可能)	辨析提示
+ca	subject	subject (adj./n.) vs. subject (v.) 使遭受	辨析提示
+ca	chill	a chilling effect	干擾選項不足
+ca	content	a contented smile	干擾選項不足
+ca	elderly	an elderly relative	干擾選項不足
+ca	hourly	an hourly rate	干擾選項不足
+ca	steep	be steeped in history	干擾選項不足
+ca	early	an early bird	干擾選項不足
+ca	early	an early start	干擾選項不足
+ca	early	from an early age	干擾選項不足
+ca	early	an early warning	干擾選項不足
+cd	honestly	to be honest	找不到目標字
+cd	long	no longer	干擾選項不足
+cd	soon	the sooner the better	干擾選項不足
+cc	so as to	He whispered so as not to wake the baby.	找不到目標字
+cc	be that as it may	He says he was busy. Be that as it may, he should have called.	干擾選項不足
+cc	as a matter of fact	I know the author well; as a matter of fact, we went to school together.	干擾選項不足
+cc	to put it another way	To put it another way, we need to spend less and save more.	干擾選項不足
+cc	hardly … when	Hardly had the game started when it began to pour.	干擾選項不足
+cc	whether … or	Whether you like it or not, you have to attend the meeting.	干擾選項不足
+cc	whether … or	I don't know whether he will come or not.	干擾選項不足
+cc	either … or	You can either take the bus or walk to school.	干擾選項不足
+cc	neither … nor	Neither the manager nor the staff knew about the change.	干擾選項不足

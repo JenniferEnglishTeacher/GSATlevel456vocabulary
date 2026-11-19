@@ -1,6 +1,6 @@
 # GSATlevel456vocabulary
 
-Vocabulary Board — 學測6000字 Level 4 · 5 · 6 (word-family edition) · LiveABC Level 3–5 (Basic / Advanced) · 2001–3000字 LiveABC Level 3 · LiveABC Level 2–4 · 國中小基礎2000字 · 國中小1200字 · 國中小進階800字 · 4000 Essential Words (Books 3–4) · 捷進全民英檢初級單字書 · AWL Sublists 1–10 · TOEIC 主題單字 (examword topics) · 學測/IELTS/TOEFL 主題字彙 (21 topics)
+Vocabulary Board — 學測6000字 Level 4 · 5 · 6 (word-family edition) · LiveABC Level 3–5 (Basic / Advanced) · 2001–3000字 LiveABC Level 3 · LiveABC Level 2–4 · 國中小基礎2000字 · 國中小1200字 · 國中小進階800字 · 4000 Essential Words (Books 3–4) · 捷進全民英檢初級單字書 · AWL Sublists 1–10 · TOEIC 主題單字 (examword topics) · 學測/IELTS/TOEFL 主題字彙 (21 topics) · 學測搭配詞 Collocations
 
 Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 
@@ -28,3 +28,4 @@ Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 | `aS-unitP.html` + `aS-unitP-data.js`, `awlS-partP.html` + `-data.js` + `-app.js`, `aS-dashboard-data.js` | AWL Sublist S, Part P: flashcards + MCQ practice, online quiz, and dashboard data |
 | `tc-unitN.html` + `-data.js`, `toeic-topicN.html` + `-data.js` + `-app.js`, `tc-dashboard-data.js` | TOEIC 主題單字, Topic N (one examword.com word group per topic, starting with Accident): flashcards (with a TOEIC collocation line; A: male voice, B: female voice via `dialogue-tts.js`) + 30 MCQ practice, online quiz, dashboard data. Built by `tools/toeic_emit.py` from `tools/toeic/topics.json`; definitions, A/B dialogues, translations, collocations and questions were written for this site |
 | `iN-unitU.html` + `-data.js`, `ieltsN-subU.html` + `-data.js` + `-app.js`, `iN-dashboard-data.js` | 學測/IELTS/TOEFL 主題字彙, Topic N Subunit U (21 topics × 420 words; each Part A section is a subunit, Part B academic words in subunits of 25, Part C phrases in one): flashcards + MCQ practice, online quiz (tracked), dashboard data. Built by `tools/ielts_emit.py` from `tools/ielts/topics_raw.json` (topics 1–20 from the high-school-blank-translation-quiz topic data, topic 21 from its Google Doc); `tools/ielts/links.json` holds each topic's Google Doc and full-topic quiz links shown on the board |
+| `cn/ca/cd/cc-unitN.html` + `-data.js`, `colloc-app.js`, `colloc.css`, `cX-dashboard-data.js` | 學測搭配詞 Collocations (名詞 / 形容詞 / 副詞 / 連接詞; 動詞 to come): collocation list + MCQ (blank the headword, 中文 given, 4 same-POS options; tracked). Built by `tools/colloc_emit.py` + `tools/colloc_register.py`; see `tools/colloc/README.md` |
