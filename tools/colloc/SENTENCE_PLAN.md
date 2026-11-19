@@ -9,9 +9,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit4 anchor – arrest
 - [x] cv-unit5 articulate – assume
 - [x] cv-unit6 assure – ban
-- [ ] cv-unit7 bargain – bid
-- [ ] cv-unit8 bind – bolt
-- [ ] cv-unit9 bomb – brake
+- [x] cv-unit7 bargain – bid
+- [x] cv-unit8 bind – bolt
+- [x] cv-unit9 bomb – brake
 - [ ] cv-unit10 branch – bully
 - [ ] cv-unit11 bump – carry
 - [ ] cv-unit12 carve – chain
