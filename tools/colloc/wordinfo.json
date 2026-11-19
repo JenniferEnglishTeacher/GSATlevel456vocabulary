@@ -18118,5 +18118,1270 @@
 "p": "v./n.",
 "d": "to make something look closer with a camera",
 "c": "飛漲"
+},
+"accident": {
+"p": "n.",
+"d": "an unexpected event that causes damage or injury",
+"c": "意外事故"
+},
+"action": {
+"p": "n.",
+"d": "something that you do; moving and doing things",
+"c": "行動"
+},
+"activity": {
+"p": "n.",
+"d": "a thing that a person or group does or has done",
+"c": "活動"
+},
+"advice": {
+"p": "n.",
+"d": "guidance or recommendations offered with regard to prudent future action",
+"c": "建議"
+},
+"age": {
+"p": "n./v.",
+"d": "how old someone is",
+"c": "年齡"
+},
+"air": {
+"p": "n.",
+"d": "what we breathe; it is all around us",
+"c": "空氣"
+},
+"amount": {
+"p": "n./v.",
+"d": "a quantity of something, especially something that cannot be counted",
+"c": "數量"
+},
+"anger": {
+"p": "n.",
+"d": "a strong feeling when something is wrong or unfair",
+"c": "憤怒"
+},
+"answer": {
+"p": "n./v.",
+"d": "to say or write something when someone asks you a question",
+"c": "回答"
+},
+"area": {
+"p": "n.",
+"d": "a part of a place, town or country",
+"c": "區域"
+},
+"arm": {
+"p": "n./v.",
+"d": "the long part of your body between your shoulder and hand",
+"c": "手臂"
+},
+"art": {
+"p": "n.",
+"d": "making pictures or beautiful things; a school subject",
+"c": "藝術"
+},
+"attention": {
+"p": "n.",
+"d": "notice taken of someone or something; mental focus or awareness",
+"c": "注意力"
+},
+"bag": {
+"p": "n.",
+"d": "something made of cloth, paper, or plastic for carrying things",
+"c": "包包"
+},
+"ball": {
+"p": "n./v.",
+"d": "a round thing that you throw, kick, or hit in games",
+"c": "球"
+},
+"bank": {
+"p": "n./v.",
+"d": "a place where people keep their money",
+"c": "銀行"
+},
+"base": {
+"p": "n./v.",
+"d": "a place where soldiers live and work",
+"c": "根據"
+},
+"bath": {
+"p": "n.",
+"d": "washing your body in a big container of water; that container",
+"c": "洗澡"
+},
+"beauty": {
+"p": "n.",
+"d": "being very nice to look at",
+"c": "美麗"
+},
+"bed": {
+"p": "n.",
+"d": "a thing that you sleep on",
+"c": "床"
+},
+"beginning": {
+"p": "n.",
+"d": "the point in time or space at which something starts",
+"c": "開始；起初"
+},
+"bell": {
+"p": "n.",
+"d": "a metal thing that makes a ringing sound",
+"c": "鐘"
+},
+"bill": {
+"p": "n./v.",
+"d": "a printed statement of the money owed for goods or services; paper money",
+"c": "帳單"
+},
+"bird": {
+"p": "n.",
+"d": "an animal with feathers and wings that can fly",
+"c": "鳥"
+},
+"blood": {
+"p": "n.",
+"d": "the red liquid that circulates through the arteries and veins",
+"c": "血"
+},
+"board": {
+"p": "n./v.",
+"d": "a flat piece of wood on a wall where notices are put",
+"c": "木板"
+},
+"body": {
+"p": "n.",
+"d": "all the parts of a person or an animal",
+"c": "身體"
+},
+"bone": {
+"p": "n.",
+"d": "any of the hard pieces that make up the skeleton",
+"c": "骨"
+},
+"book": {
+"p": "n./v.",
+"d": "pages with words or pictures that you read",
+"c": "書"
+},
+"bottom": {
+"p": "n./adj./v.",
+"d": "the lowest part of something",
+"c": "底部"
+},
+"box": {
+"p": "n./v.",
+"d": "a container with flat sides, often made of paper or wood",
+"c": "盒子"
+},
+"bread": {
+"p": "n.",
+"d": "a food made from flour and baked in an oven",
+"c": "麵包"
+},
+"break": {
+"p": "n./v.",
+"d": "to cause something to separate into pieces or stop working",
+"c": "休息"
+},
+"breakfast": {
+"p": "n./v.",
+"d": "the first meal of the day, eaten in the morning",
+"c": "早餐"
+},
+"business": {
+"p": "n.",
+"d": "buying and selling things to make money",
+"c": "商業"
+},
+"button": {
+"p": "n./v.",
+"d": "a small round thing that closes a shirt or coat",
+"c": "按鈕"
+},
+"cake": {
+"p": "n.",
+"d": "a sweet food that you bake, often for birthdays",
+"c": "蛋糕"
+},
+"call": {
+"p": "v./n.",
+"d": "to telephone someone",
+"c": "稱呼"
+},
+"camp": {
+"p": "n./v.",
+"d": "to stay outdoors in a tent for a short time",
+"c": "營"
+},
+"cap": {
+"p": "n./v.",
+"d": "a soft hat with a hard part at the front",
+"c": "帽子"
+},
+"care": {
+"p": "n./v.",
+"d": "the act of looking after someone or something",
+"c": "關心"
+},
+"case": {
+"p": "n./v.",
+"d": "a box or container for keeping something in",
+"c": "案件"
+},
+"cash": {
+"p": "n./v.",
+"d": "money in coins or notes, as distinct from checks, credit cards, or debt",
+"c": "現金"
+},
+"cause": {
+"p": "n./v.",
+"d": "the thing that makes something happen",
+"c": "原因"
+},
+"century": {
+"p": "n.",
+"d": "a period of one hundred years",
+"c": "世紀"
+},
+"change": {
+"p": "n./v.",
+"d": "the money you get back when you pay too much; coins",
+"c": "改變"
+},
+"chicken": {
+"p": "n.",
+"d": "meat from a bird that lives on farms",
+"c": "雞"
+},
+"child": {
+"p": "n.",
+"d": "a young boy or girl",
+"c": "孩子"
+},
+"clothes": {
+"p": "n.",
+"d": "things that you wear, like shirts and pants",
+"c": "衣服"
+},
+"coffee": {
+"p": "n.",
+"d": "a hot brown drink that helps people wake up",
+"c": "咖啡"
+},
+"cost": {
+"p": "n./v.",
+"d": "to have a particular price",
+"c": "成本"
+},
+"country": {
+"p": "n.",
+"d": "land outside cities, with farms and fields",
+"c": "國家"
+},
+"couple": {
+"p": "n./v.",
+"d": "two people who are married or together",
+"c": "夫妻"
+},
+"courage": {
+"p": "n.",
+"d": "the ability to do something that frightens one; bravery",
+"c": "勇氣"
+},
+"course": {
+"p": "n./v.",
+"d": "a set of classes on one subject",
+"c": "課程"
+},
+"cream": {
+"p": "n./adj.",
+"d": "the thick white liquid containing fat taken from milk",
+"c": "奶油"
+},
+"crowd": {
+"p": "n./v.",
+"d": "a large number of people gathered together; to pack into",
+"c": "人群"
+},
+"cup": {
+"p": "n.",
+"d": "a small container with a handle, used for drinking",
+"c": "杯子"
+},
+"custom": {
+"p": "n.",
+"d": "a way of behaving or a belief that has been established for a long time",
+"c": "風俗"
+},
+"danger": {
+"p": "n.",
+"d": "the possibility of suffering harm, injury, or death",
+"c": "危險"
+},
+"date": {
+"p": "n./v.",
+"d": "the specific day, month, and year of an event",
+"c": "日期"
+},
+"day": {
+"p": "n.",
+"d": "twenty-four hours; the time when it is light",
+"c": "天"
+},
+"decision": {
+"p": "n.",
+"d": "a choice that you make after thinking",
+"c": "決定"
+},
+"desk": {
+"p": "n.",
+"d": "a table where you study or work",
+"c": "桌子"
+},
+"difficulty": {
+"p": "n.",
+"d": "the state of being hard to do or understand; an obstacle",
+"c": "困難"
+},
+"dinner": {
+"p": "n.",
+"d": "the main meal of the day, usually eaten in the evening",
+"c": "晚餐"
+},
+"dozen": {
+"p": "n.",
+"d": "a group of twelve",
+"c": "打"
+},
+"drink": {
+"p": "v./n.",
+"d": "to take water, milk, or juice into your mouth and body",
+"c": "喝"
+},
+"ear": {
+"p": "n.",
+"d": "the part of your head that you hear with",
+"c": "耳朵"
+},
+"earth": {
+"p": "n.",
+"d": "the planet that we live on",
+"c": "地球"
+},
+"error": {
+"p": "n.",
+"d": "a mistake",
+"c": "錯誤"
+},
+"eve": {
+"p": "n.",
+"d": "the evening or day before a special event",
+"c": "前夕"
+},
+"example": {
+"p": "n.",
+"d": "one thing that shows what others of the same kind are like",
+"c": "例子"
+},
+"fan": {
+"p": "n./v.",
+"d": "a person who likes a singer, a team, or a sport very much",
+"c": "扇子"
+},
+"fear": {
+"p": "n./v.",
+"d": "an unpleasant emotion caused by the threat of danger; to be afraid of",
+"c": "害怕"
+},
+"fever": {
+"p": "n.",
+"d": "a body temperature that is too high because you are sick",
+"c": "發燒"
+},
+"finger": {
+"p": "n./v.",
+"d": "one of the five long parts of your hand",
+"c": "手指"
+},
+"flower": {
+"p": "n./v.",
+"d": "the colorful part of a plant that often smells nice",
+"c": "花"
+},
+"food": {
+"p": "n.",
+"d": "things that people and animals eat",
+"c": "食物"
+},
+"fool": {
+"p": "n./v.",
+"d": "a person who is not smart",
+"c": "傻子"
+},
+"friend": {
+"p": "n.",
+"d": "a person you know well and like",
+"c": "朋友"
+},
+"fun": {
+"p": "n.",
+"d": "something that makes you happy; a good time",
+"c": "樂趣"
+},
+"garden": {
+"p": "n./v.",
+"d": "a place by a house where flowers and vegetables grow",
+"c": "花園"
+},
+"glass": {
+"p": "n.",
+"d": "a container without a handle, used for drinking water or juice",
+"c": "玻璃"
+},
+"god": {
+"p": "n.",
+"d": "a superhuman being worshipped as having power over nature or human fortunes",
+"c": "男神/女神"
+},
+"gold": {
+"p": "n./adj.",
+"d": "a valuable soft yellow metallic element used for coins and jewelry",
+"c": "金子"
+},
+"group": {
+"p": "n./v.",
+"d": "a number of people or things that are together",
+"c": "團體"
+},
+"guest": {
+"p": "n.",
+"d": "a person invited to visit someone's home or attend an event",
+"c": "客人"
+},
+"honey": {
+"p": "n.",
+"d": "a sweet, thick food made by bees",
+"c": "蜂蜜"
+},
+"joy": {
+"p": "n.",
+"d": "a feeling of being very happy",
+"c": "喜悅"
+},
+"kid": {
+"p": "n./v.",
+"d": "a child",
+"c": "孩子"
+},
+"kind": {
+"p": "adj./n.",
+"d": "nice and helpful to other people",
+"c": "種類"
+},
+"lack": {
+"p": "n./v.",
+"d": "the state of being without something; to not have enough",
+"c": "缺少"
+},
+"love": {
+"p": "n./v.",
+"d": "to like someone or something very, very much",
+"c": "愛"
+},
+"lunch": {
+"p": "n./v.",
+"d": "the meal you eat in the middle of the day",
+"c": "午餐"
+},
+"meaning": {
+"p": "n.",
+"d": "what is meant by a word, text, concept, or action; significance",
+"c": "意義"
+},
+"mistake": {
+"p": "n./v.",
+"d": "something you do that is wrong",
+"c": "錯誤"
+},
+"month": {
+"p": "n.",
+"d": "one of the twelve parts of a year",
+"c": "月"
+},
+"night": {
+"p": "n.",
+"d": "the time when it is dark and people sleep",
+"c": "夜晚"
+},
+"pair": {
+"p": "n.",
+"d": "two things of the same kind that are used together, like shoes",
+"c": "一對"
+},
+"people": {
+"p": "n./v.",
+"d": "more than one person",
+"c": "人們"
+},
+"person": {
+"p": "n.",
+"d": "one man, woman, or child",
+"c": "人"
+},
+"sale": {
+"p": "n.",
+"d": "a time when a store sells things at lower prices",
+"c": "銷售"
+},
+"sea": {
+"p": "n.",
+"d": "the salt water that covers much of the earth",
+"c": "海"
+},
+"snow": {
+"p": "n./v.",
+"d": "when soft white ice falls from the sky",
+"c": "雪"
+},
+"stop": {
+"p": "v./n.",
+"d": "to not move or not do something anymore",
+"c": "停止"
+},
+"street": {
+"p": "n.",
+"d": "a road in a town or city with houses or shops on it",
+"c": "街道"
+},
+"sugar": {
+"p": "n.",
+"d": "something white or brown that makes food sweet",
+"c": "糖"
+},
+"talk": {
+"p": "v./n.",
+"d": "to say things to someone",
+"c": "演講"
+},
+"town": {
+"p": "n.",
+"d": "a place with houses and shops, smaller than a city",
+"c": "鎮"
+},
+"week": {
+"p": "n.",
+"d": "seven days",
+"c": "星期"
+},
+"wish": {
+"p": "v./n.",
+"d": "to say that you hope someone will have something good",
+"c": "希望"
+},
+"year": {
+"p": "n.",
+"d": "twelve months",
+"c": "年"
+},
+"accept": {
+"p": "v.",
+"d": "to consent to receive a thing offered; to agree to",
+"c": "接受"
+},
+"act": {
+"p": "n./v.",
+"d": "to take action; to perform in a play; a deed",
+"c": "行為"
+},
+"add": {
+"p": "v.",
+"d": "to put something with another thing to increase the size or amount",
+"c": "添加"
+},
+"admire": {
+"p": "v.",
+"d": "to respect or approve of someone or their behavior",
+"c": "欽佩；讚賞"
+},
+"advise": {
+"p": "v.",
+"d": "to offer suggestions about the best course of action to someone",
+"c": "建議"
+},
+"affect": {
+"p": "v.",
+"d": "to cause a change in someone or something",
+"c": "影響"
+},
+"agree": {
+"p": "v.",
+"d": "to have the same idea as someone",
+"c": "同意"
+},
+"aim": {
+"p": "n./v.",
+"d": "to point or direct a weapon or effort; a purpose or intention",
+"c": "目的"
+},
+"allow": {
+"p": "v.",
+"d": "to let someone do something",
+"c": "允許"
+},
+"appear": {
+"p": "v.",
+"d": "to become visible or come into sight",
+"c": "出現"
+},
+"apologize": {
+"p": "v.",
+"d": "to express regret for something that one has done wrong",
+"c": "道歉"
+},
+"appreciate": {
+"p": "v.",
+"d": "to be thankful for something",
+"c": "欣賞"
+},
+"argue": {
+"p": "v./(n.)",
+"d": "to speak angrily to someone because you disagree; to give reasons for or against",
+"c": "爭論（爭論）"
+},
+"arrange": {
+"p": "v./(n.)",
+"d": "to plan, prepare, or organize something in advance",
+"c": "安排）"
+},
+"arrive": {
+"p": "v.",
+"d": "to get to a place",
+"c": "到達"
+},
+"ask": {
+"p": "v.",
+"d": "to say a question to someone",
+"c": "問"
+},
+"attack": {
+"p": "n./v.",
+"d": "to try to hurt or defeat using force; an assault",
+"c": "攻擊"
+},
+"avoid": {
+"p": "v.",
+"d": "to keep away from or stop oneself from doing something",
+"c": "避免"
+},
+"bake": {
+"p": "v.",
+"d": "to cook food like bread or cake in an oven",
+"c": "烤"
+},
+"beat": {
+"p": "v./n.",
+"d": "to strike repeatedly; to defeat someone; the rhythm of the heart",
+"c": "打"
+},
+"become": {
+"p": "v.",
+"d": "to start to be something",
+"c": "變得"
+},
+"begin": {
+"p": "v.",
+"d": "to start doing something",
+"c": "開始"
+},
+"behave": {
+"p": "v.",
+"d": "to act in a certain way",
+"c": "表現"
+},
+"believe": {
+"p": "v.",
+"d": "to feel sure that something is true",
+"c": "相信"
+},
+"belong": {
+"p": "v.",
+"d": "to be the property of someone or part of a group",
+"c": "屬於"
+},
+"bite": {
+"p": "n./v.",
+"d": "to cut something with your teeth",
+"c": "咬"
+},
+"blame": {
+"p": "v./n.",
+"d": "to hold responsible for a fault or wrong; responsibility",
+"c": "責備"
+},
+"boil": {
+"p": "n./v.",
+"d": "to heat a liquid until bubbles rise to the surface",
+"c": "熬"
+},
+"borrow": {
+"p": "v.",
+"d": "to take and use something that you will give back later",
+"c": "借"
+},
+"bother": {
+"p": "v./n.",
+"d": "to take the trouble to do something; to annoy; trouble",
+"c": "打擾"
+},
+"bow": {
+"p": "n./v.",
+"d": "to bend your head or body forward to show respect",
+"c": "弓"
+},
+"bring": {
+"p": "v.",
+"d": "to carry something with you to a place",
+"c": "帶來"
+},
+"brush": {
+"p": "n./v.",
+"d": "to clean something gently with a brush",
+"c": "刷子"
+},
+"build": {
+"p": "v.",
+"d": "to make something like a house or a bridge",
+"c": "建造"
+},
+"burn": {
+"p": "v./n.",
+"d": "to be destroyed or damaged by fire",
+"c": "燒傷"
+},
+"buy": {
+"p": "v./n.",
+"d": "to get something by paying money for it",
+"c": "買"
+},
+"calm": {
+"p": "v./adj./n",
+"d": "not showing or feeling anger, fear, or other strong emotions",
+"c": "冷靜的"
+},
+"cancel": {
+"p": "v.",
+"d": "to decide or announce that a planned event will not take place",
+"c": "取消"
+},
+"catch": {
+"p": "v./n.",
+"d": "to get hold of a fish or animal",
+"c": "抓住"
+},
+"celebrate": {
+"p": "v.",
+"d": "to show that an event or person is important",
+"c": "慶祝"
+},
+"chase": {
+"p": "n./v.",
+"d": "to pursue in order to catch or catch up with",
+"c": "追趕"
+},
+"cheat": {
+"p": "v./n.",
+"d": "to do something that is not fair to get a better score or to win",
+"c": "欺騙"
+},
+"check": {
+"p": "v./n.",
+"d": "to look at something to see if it is right",
+"c": "查看"
+},
+"cheer": {
+"p": "v./n.",
+"d": "to shout with joy or encouragement",
+"c": "歡呼"
+},
+"choose": {
+"p": "v.",
+"d": "to pick the one you want",
+"c": "選擇"
+},
+"collect": {
+"p": "v.",
+"d": "to bring things together from different places, often as a hobby",
+"c": "收集"
+},
+"comb": {
+"p": "n./v.",
+"d": "a thing with many thin teeth for making your hair neat",
+"c": "梳子"
+},
+"come": {
+"p": "v.",
+"d": "to move toward the person speaking",
+"c": "來"
+},
+"compare": {
+"p": "v.",
+"d": "to look at how things are alike or different",
+"c": "比較"
+},
+"complain": {
+"p": "v.",
+"d": "to say that something is wrong or not satisfactory",
+"c": "抱怨"
+},
+"complete": {
+"p": "adj./v.",
+"d": "to finish making or doing; having all parts",
+"c": "完全的"
+},
+"continue": {
+"p": "v.",
+"d": "to keep happening or existing without stopping",
+"c": "繼續"
+},
+"cook": {
+"p": "v./n.",
+"d": "to make food ready to eat by heating it",
+"c": "廚師"
+},
+"copy": {
+"p": "n./v.",
+"d": "to write or make something that is the same as another thing",
+"c": "複製"
+},
+"correct": {
+"p": "adj./v.",
+"d": "to make something right",
+"c": "正確的"
+},
+"count": {
+"p": "v./n.",
+"d": "to say numbers in order; to find how many there are",
+"c": "數數"
+},
+"create": {
+"p": "v.",
+"d": "to make something new",
+"c": "創造"
+},
+"cry": {
+"p": "v./n.",
+"d": "to produce tears, usually because of sadness or pain",
+"c": "哭"
+},
+"cure": {
+"p": "n./v.",
+"d": "a substance or treatment that ends a disease; to relieve a person of symptoms",
+"c": "治癒"
+},
+"cut": {
+"p": "v./n.",
+"d": "to use a sharp tool to divide something into pieces",
+"c": "切"
+},
+"dance": {
+"p": "n./v.",
+"d": "to move your body to music",
+"c": "舞蹈"
+},
+"decide": {
+"p": "v.",
+"d": "to choose what to do after thinking",
+"c": "決定"
+},
+"depend": {
+"p": "v.",
+"d": "to be determined or decided by something else; to rely on",
+"c": "依賴"
+},
+"describe": {
+"p": "v.",
+"d": "to say what someone or something is like",
+"c": "描述"
+},
+"develop": {
+"p": "v./(n.)",
+"d": "to make something new and better over time",
+"c": "發展）"
+},
+"die": {
+"p": "v.",
+"d": "to stop living",
+"c": "死"
+},
+"dig": {
+"p": "v./n.",
+"d": "an organised archaeological excavation",
+"c": "挖"
+},
+"disappear": {
+"p": "v.",
+"d": "to cease to be visible; to vanish from sight",
+"c": "消失"
+},
+"discover": {
+"p": "v.",
+"d": "to find or learn something unexpectedly or in the course of a search",
+"c": "發現"
+},
+"discuss": {
+"p": "v.",
+"d": "to talk about something with another person or in a group",
+"c": "討論"
+},
+"do": {
+"p": "aux./v.",
+"d": "used with another verb to form questions or negatives",
+"c": "做"
+},
+"download": {
+"p": "v.",
+"d": "to copy files from the internet onto your device",
+"c": "下載"
+},
+"eat": {
+"p": "v.",
+"d": "to put food in your mouth and swallow it",
+"c": "吃"
+},
+"enter": {
+"p": "v.",
+"d": "to go into a place",
+"c": "進入"
+},
+"expect": {
+"p": "v.",
+"d": "to think that something will happen",
+"c": "預計"
+},
+"explain": {
+"p": "v.",
+"d": "to tell someone about something so they can understand it",
+"c": "解釋"
+},
+"express": {
+"p": "v./adj./adv./n.",
+"d": "to convey a thought or feeling in words or gestures; rapid",
+"c": "表達"
+},
+"feel": {
+"p": "v./n.",
+"d": "to experience an emotion or physical sensation",
+"c": "感覺"
+},
+"fight": {
+"p": "v./n.",
+"d": "to use force against an opponent (fight / fought / fought)",
+"c": "鬥爭"
+},
+"fill": {
+"p": "v./n.",
+"d": "to make something full by putting things into it",
+"c": "充滿"
+},
+"find": {
+"p": "v.",
+"d": "to discover or get something you were looking for",
+"c": "找到；發現"
+},
+"finish": {
+"p": "v./n.",
+"d": "to come to the end of doing something",
+"c": "結束"
+},
+"forget": {
+"p": "v.",
+"d": "to fail to remember something",
+"c": "忘記"
+},
+"forgive": {
+"p": "v.",
+"d": "to stop feeling angry or resentful towards someone for an offense",
+"c": "原諒"
+},
+"get": {
+"p": "v.",
+"d": "to receive or obtain something",
+"c": "得到"
+},
+"give": {
+"p": "v.",
+"d": "to hand something to someone or provide it to them",
+"c": "給"
+},
+"go": {
+"p": "v./n.",
+"d": "to move or travel from one place to another",
+"c": "去"
+},
+"greet": {
+"p": "v.",
+"d": "to welcome or say hello to someone with words or actions",
+"c": "迎接"
+},
+"guess": {
+"p": "v./n.",
+"d": "to give an answer when you are not sure",
+"c": "猜測"
+},
+"happen": {
+"p": "v.",
+"d": "to take place; to occur",
+"c": "發生"
+},
+"hate": {
+"p": "v./n.",
+"d": "to dislike something or someone very strongly",
+"c": "恨"
+},
+"have": {
+"p": "aux./v.",
+"d": "to own something",
+"c": "有"
+},
+"hear": {
+"p": "v.",
+"d": "to notice sound using your ears",
+"c": "聽到"
+},
+"hide": {
+"p": "v.",
+"d": "to put something where it cannot be seen",
+"c": "隱藏"
+},
+"hope": {
+"p": "v./n.",
+"d": "to want something good to happen",
+"c": "希望"
+},
+"hurry": {
+"p": "v./n.",
+"d": "to do something or go somewhere quickly",
+"c": "匆忙"
+},
+"imagine": {
+"p": "v.",
+"d": "to form a picture in your mind",
+"c": "想像"
+},
+"improve": {
+"p": "v./(n.)",
+"d": "to make or become better in quality or performance",
+"c": "改進）"
+},
+"knock": {
+"p": "v.",
+"d": "to hit a door or surface to make a sound",
+"c": "敲；撞"
+},
+"know": {
+"p": "v.",
+"d": "to have information about something in your mind",
+"c": "知道；認識"
+},
+"laugh": {
+"p": "v./n.",
+"d": "to make sounds showing amusement or mockery.",
+"c": "笑"
+},
+"learn": {
+"p": "v.",
+"d": "to get to know something new",
+"c": "學習"
+},
+"leave": {
+"p": "v./n.",
+"d": "to go away from a place",
+"c": "離開"
+},
+"let": {
+"p": "v.",
+"d": "to allow someone to do something",
+"c": "讓"
+},
+"lie": {
+"p": "v./n.",
+"d": "to say something that is not true",
+"c": "說謊"
+},
+"listen": {
+"p": "v.",
+"d": "to try to hear something",
+"c": "聽"
+},
+"look": {
+"p": "v./n.",
+"d": "to turn your eyes toward something on purpose",
+"c": "看"
+},
+"lose": {
+"p": "v.",
+"d": "to not win a game",
+"c": "失去"
+},
+"make": {
+"p": "v.",
+"d": "to create or produce something",
+"c": "製作"
+},
+"marry": {
+"p": "v.",
+"d": "to become the husband or wife of someone in a legal ceremony",
+"c": "結婚"
+},
+"mix": {
+"p": "n./v.",
+"d": "to combine different things together; a combination",
+"c": "混合"
+},
+"nod": {
+"p": "n./v.",
+"d": "to move your head up and down to say \"yes\"",
+"c": "點點頭"
+},
+"park": {
+"p": "n./v.",
+"d": "a place with grass and trees where people walk and play",
+"c": "公園"
+},
+"please": {
+"p": "v.",
+"d": "to make someone happy",
+"c": "請"
+},
+"pray": {
+"p": "v.",
+"d": "to speak to God or a saint in order to give thanks or ask for help",
+"c": "祈禱"
+},
+"prepare": {
+"p": "v.",
+"d": "to get ready for something",
+"c": "準備"
+},
+"protect": {
+"p": "v.",
+"d": "to keep safe from harm, injury, or damage",
+"c": "保護"
+},
+"realize": {
+"p": "v.",
+"d": "to become fully aware of something as a fact; to fulfill a dream",
+"c": "意識到"
+},
+"receive": {
+"p": "v.",
+"d": "to be given, presented with, or paid something",
+"c": "收到"
+},
+"refuse": {
+"p": "v.",
+"d": "to indicate that one is not willing to do something",
+"c": "拒絕"
+},
+"remember": {
+"p": "v.",
+"d": "to keep something in your mind; to not forget",
+"c": "記住"
+},
+"repeat": {
+"p": "v.",
+"d": "to say or do something again",
+"c": "重複"
+},
+"say": {
+"p": "v.",
+"d": "to speak words",
+"c": "說"
+},
+"see": {
+"p": "v.",
+"d": "to notice something using your eyes",
+"c": "看"
+},
+"seem": {
+"p": "v.",
+"d": "to give the impression of being something; to appear",
+"c": "似乎"
+},
+"sell": {
+"p": "v.",
+"d": "to give something to someone for money",
+"c": "賣"
+},
+"send": {
+"p": "v.",
+"d": "to cause something to go or be delivered somewhere",
+"c": "傳送"
+},
+"shop": {
+"p": "n./v.",
+"d": "a small place where people buy things",
+"c": "店鋪"
+},
+"shout": {
+"p": "v./n.",
+"d": "to say something in a very loud voice",
+"c": "喊"
+},
+"sing": {
+"p": "v.",
+"d": "to make musical sounds with your voice",
+"c": "唱歌"
+},
+"sit": {
+"p": "v.",
+"d": "to rest your body with your weight on your bottom",
+"c": "坐"
+},
+"study": {
+"p": "n./v.",
+"d": "to spend time learning about a subject",
+"c": "學習"
+},
+"swim": {
+"p": "v./n.",
+"d": "to move through water using your arms and legs",
+"c": "游泳"
+},
+"teach": {
+"p": "v.",
+"d": "to help someone learn a skill or subject",
+"c": "教"
+},
+"thank": {
+"p": "v./n.",
+"d": "to tell someone you are glad for what they did",
+"c": "感謝"
+},
+"think": {
+"p": "v.",
+"d": "to use your mind; to have an idea about something",
+"c": "思考"
+},
+"understand": {
+"p": "v.",
+"d": "to know what something means",
+"c": "理解"
+},
+"visit": {
+"p": "v./n.",
+"d": "to go and see a person or place",
+"c": "訪問"
+},
+"walk": {
+"p": "v./n.",
+"d": "to move on your feet",
+"c": "走"
+},
+"worry": {
+"p": "v./n.",
+"d": "to feel afraid that something bad may happen",
+"c": "擔心"
 }
 }

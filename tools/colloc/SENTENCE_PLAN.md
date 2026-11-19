@@ -1,6 +1,6 @@
 # Sentence plan — 學測搭配詞
 
-Order: cv first (動詞, added 2026-11-19), then ca → cd → cn. 3 units per run. Mark a unit [x] when its json is committed.
+Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 jn → jv (會考 sentences: CEFR A2–B1, 10–18 words, words within the 國中2000字 list as far as possible). 3 units per run. Mark a unit [x] when its json is committed.
 
 ## cv (183 units)
 - [ ] cv-unit1 abandon – accommodate
@@ -697,5 +697,208 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn. 3 units per r
 - [ ] cn-unit310 wit – word
 - [ ] cn-unit311 work – worth
 - [ ] cn-unit312 wound – zone
+
+## jn (112 units) — 會考單字搭配詞
+- [ ] jn-unit1 accident – age
+- [ ] jn-unit2 air – area
+- [ ] jn-unit3 arm – bag
+- [ ] jn-unit4 ball – bed
+- [ ] jn-unit5 beginning – blood
+- [ ] jn-unit6 board – bottom
+- [ ] jn-unit7 box – break
+- [ ] jn-unit8 breakfast – business
+- [ ] jn-unit9 button – cap
+- [ ] jn-unit10 card – case
+- [ ] jn-unit11 cash – chance
+- [ ] jn-unit12 change – chicken
+- [ ] jn-unit13 child – class
+- [ ] jn-unit14 clock – coin
+- [ ] jn-unit15 color – cost
+- [ ] jn-unit16 country – course
+- [ ] jn-unit17 court – custom
+- [ ] jn-unit18 danger – day
+- [ ] jn-unit19 death – desk
+- [ ] jn-unit20 diet – direction
+- [ ] jn-unit21 dish – door
+- [ ] jn-unit22 doubt – dress
+- [ ] jn-unit23 drink – ear
+- [ ] jn-unit24 earth – end
+- [ ] jn-unit25 energy – example
+- [ ] jn-unit26 excuse – eye
+- [ ] jn-unit27 face – fall
+- [ ] jn-unit28 fan – fear
+- [ ] jn-unit29 feeling – finger
+- [ ] jn-unit30 fire – floor
+- [ ] jn-unit31 flower – foot
+- [ ] jn-unit32 form – front
+- [ ] jn-unit33 fun – game
+- [ ] jn-unit34 garden – goal
+- [ ] jn-unit35 god – ground
+- [ ] jn-unit36 group – habit
+- [ ] jn-unit37 hair – hand
+- [ ] jn-unit38 head
+- [ ] jn-unit39 health – heart
+- [ ] jn-unit40 heat – history
+- [ ] jn-unit41 hold – home
+- [ ] jn-unit42 honey – house
+- [ ] jn-unit43 idea – interest
+- [ ] jn-unit44 jam – joke
+- [ ] jn-unit45 joy – kind
+- [ ] jn-unit46 knowledge – language
+- [ ] jn-unit47 law – lesson
+- [ ] jn-unit48 letter – life
+- [ ] jn-unit49 light – line
+- [ ] jn-unit50 list – love
+- [ ] jn-unit51 luck – machine
+- [ ] jn-unit52 manner – market
+- [ ] jn-unit53 master – meal
+- [ ] jn-unit54 meaning – message
+- [ ] jn-unit55 mind
+- [ ] jn-unit56 minute – moment
+- [ ] jn-unit57 money – month
+- [ ] jn-unit58 mouth – music
+- [ ] jn-unit59 name – nature
+- [ ] jn-unit60 need – night
+- [ ] jn-unit61 noise – note
+- [ ] jn-unit62 number – office
+- [ ] jn-unit63 opinion – order
+- [ ] jn-unit64 pain – paper
+- [ ] jn-unit65 part – party
+- [ ] jn-unit66 pass – peace
+- [ ] jn-unit67 people – person
+- [ ] jn-unit68 picture – piece
+- [ ] jn-unit69 place – plan
+- [ ] jn-unit70 point
+- [ ] jn-unit71 power – price
+- [ ] jn-unit72 problem – purpose
+- [ ] jn-unit73 question – race
+- [ ] jn-unit74 rain – reason
+- [ ] jn-unit75 rest – result
+- [ ] jn-unit76 right – road
+- [ ] jn-unit77 rock – room
+- [ ] jn-unit78 root – safety
+- [ ] jn-unit79 sale – school
+- [ ] jn-unit80 sea – seat
+- [ ] jn-unit81 second – secret
+- [ ] jn-unit82 sense – service
+- [ ] jn-unit83 shape – side
+- [ ] jn-unit84 sight – sign
+- [ ] jn-unit85 size – sleep
+- [ ] jn-unit86 smile – snow
+- [ ] jn-unit87 song – space
+- [ ] jn-unit88 speech – spot
+- [ ] jn-unit89 spring – star
+- [ ] jn-unit90 start – state
+- [ ] jn-unit91 step – stone
+- [ ] jn-unit92 stop – story
+- [ ] jn-unit93 street – success
+- [ ] jn-unit94 sugar – table
+- [ ] jn-unit95 tail – talk
+- [ ] jn-unit96 taste – term
+- [ ] jn-unit97 thing
+- [ ] jn-unit98 thought – time
+- [ ] jn-unit99 tip – top
+- [ ] jn-unit100 touch – town
+- [ ] jn-unit101 trick – trip
+- [ ] jn-unit102 trouble – truth
+- [ ] jn-unit103 turn – use
+- [ ] jn-unit104 value – voice
+- [ ] jn-unit105 war – waste
+- [ ] jn-unit106 way
+- [ ] jn-unit107 weather – week
+- [ ] jn-unit108 weight – wind
+- [ ] jn-unit109 wish – word
+- [ ] jn-unit110 work
+- [ ] jn-unit111 world
+- [ ] jn-unit112 year
+
+## jv (87 units) — 會考單字搭配詞
+- [ ] jv-unit1 accept – agree
+- [ ] jv-unit2 aim – argue
+- [ ] jv-unit3 arrange – base
+- [ ] jv-unit4 bear – believe
+- [ ] jv-unit5 belong – boil
+- [ ] jv-unit6 book – break
+- [ ] jv-unit7 bring – burst
+- [ ] jv-unit8 buy – care
+- [ ] jv-unit9 carry – change
+- [ ] jv-unit10 charge – cheer
+- [ ] jv-unit11 choose – close
+- [ ] jv-unit12 collect – come
+- [ ] jv-unit13 compare – copy
+- [ ] jv-unit14 correct – create
+- [ ] jv-unit15 cross – cut
+- [ ] jv-unit16 dance – depend
+- [ ] jv-unit17 describe – direct
+- [ ] jv-unit18 disappear – do
+- [ ] jv-unit19 doubt – dress
+- [ ] jv-unit20 drink – dry
+- [ ] jv-unit21 earn – enter
+- [ ] jv-unit22 excuse – face
+- [ ] jv-unit23 fail – feel
+- [ ] jv-unit24 fight – finish
+- [ ] jv-unit25 fire – fix
+- [ ] jv-unit26 focus – form
+- [ ] jv-unit27 freeze – get
+- [ ] jv-unit28 give – go
+- [ ] jv-unit29 greet – hand
+- [ ] jv-unit30 handle – have
+- [ ] jv-unit31 head – help
+- [ ] jv-unit32 hide – hold
+- [ ] jv-unit33 hope – imagine
+- [ ] jv-unit34 improve – keep
+- [ ] jv-unit35 kick – know
+- [ ] jv-unit36 land – lay
+- [ ] jv-unit37 lead – leave
+- [ ] jv-unit38 lend – lift
+- [ ] jv-unit39 light – line
+- [ ] jv-unit40 listen – look
+- [ ] jv-unit41 lose – make
+- [ ] jv-unit42 marry – matter
+- [ ] jv-unit43 mean – meet
+- [ ] jv-unit44 mind – mix
+- [ ] jv-unit45 move – name
+- [ ] jv-unit46 need – offer
+- [ ] jv-unit47 open – own
+- [ ] jv-unit48 pack – pass
+- [ ] jv-unit49 pay – place
+- [ ] jv-unit50 plan – play
+- [ ] jv-unit51 please – practice
+- [ ] jv-unit52 pray – pull
+- [ ] jv-unit53 push – put
+- [ ] jv-unit54 quit – reach
+- [ ] jv-unit55 read – record
+- [ ] jv-unit56 refuse – repeat
+- [ ] jv-unit57 rest – ride
+- [ ] jv-unit58 ring – rub
+- [ ] jv-unit59 ruin – run
+- [ ] jv-unit60 rush – say
+- [ ] jv-unit61 score – see
+- [ ] jv-unit62 seem – send
+- [ ] jv-unit63 serve – set
+- [ ] jv-unit64 shake – shoot
+- [ ] jv-unit65 shop – show
+- [ ] jv-unit66 shut – sit
+- [ ] jv-unit67 sleep – smile
+- [ ] jv-unit68 solve – speak
+- [ ] jv-unit69 spell – spread
+- [ ] jv-unit70 stand – start
+- [ ] jv-unit71 stay – step
+- [ ] jv-unit72 stick – study
+- [ ] jv-unit73 succeed – surprise
+- [ ] jv-unit74 swallow – take
+- [ ] jv-unit75 talk – taste
+- [ ] jv-unit76 teach – tell
+- [ ] jv-unit77 test – think
+- [ ] jv-unit78 throw – touch
+- [ ] jv-unit79 train – treat
+- [ ] jv-unit80 trust – turn
+- [ ] jv-unit81 understand – visit
+- [ ] jv-unit82 wait – walk
+- [ ] jv-unit83 want – waste
+- [ ] jv-unit84 watch – water
+- [ ] jv-unit85 wave – win
+- [ ] jv-unit86 wish – work
+- [ ] jv-unit87 worry – yell
 
 ## cc — already full sentences (no work)

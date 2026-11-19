@@ -152,3 +152,132 @@ cc	whether … or	Whether you like it or not, you have to attend the meeting.	�
 cc	whether … or	I don't know whether he will come or not.	干擾選項不足
 cc	either … or	You can either take the bus or walk to school.	干擾選項不足
 cc	neither … nor	Neither the manager nor the staff knew about the change.	干擾選項不足
+jn	amount	amount vs. number	辨析提示
+jn	beginning	beginner's luck	找不到目標字
+jn	bell	a doorbell	找不到目標字
+jn	board	a blackboard	找不到目標字
+jn	book	a cookbook	找不到目標字
+jn	book	a notebook	找不到目標字
+jn	book	a textbook	找不到目標字
+jn	box	a mailbox	找不到目標字
+jn	box	a toolbox	找不到目標字
+jn	case	a bookcase	找不到目標字
+jn	clock	o'clock	找不到目標字
+jn	clothes	a piece of clothing	找不到目標字
+jn	clothes	clothes vs. cloth	辨析提示
+jn	cup	a cupboard	找不到目標字
+jn	custom	customer vs. custom	辨析提示
+jn	dream	a daydream	找不到目標字
+jn	dress	dress vs. clothes	辨析提示
+jn	ear	an earring	找不到目標字
+jn	eve	eve vs. evening	辨析提示
+jn	fall	a waterfall	找不到目標字
+jn	flower	flower vs. flour	辨析提示
+jn	fly	drop like flies	找不到目標字
+jn	fly	There are no flies on him.	找不到目標字
+jn	fly	catch flies	找不到目標字
+jn	foot	get cold feet	找不到目標字
+jn	foot	stand on one's own feet	找不到目標字
+jn	foot	feet（複數）	找不到目標字
+jn	foot	six feet tall	找不到目標字
+jn	foot	have two left feet	找不到目標字
+jn	foot	sweep sb. off their feet	找不到目標字
+jn	foot	land on one's feet	找不到目標字
+jn	foot	a footprint	找不到目標字
+jn	foot	get back on one's feet	找不到目標字
+jn	foot	think on one's feet	找不到目標字
+jn	garden	a kindergarten	找不到目標字
+jn	glass	sunglasses	找不到目標字
+jn	ground	a playground	找不到目標字
+jn	hair	a hairdresser	找不到目標字
+jn	holiday	holiday vs. vacation	辨析提示
+jn	kid	No kidding!	找不到目標字
+jn	kid	Just kidding.	找不到目標字
+jn	kid	Are you kidding me?	找不到目標字
+jn	land	a farmland	找不到目標字
+jn	market	a supermarket	找不到目標字
+jn	money	the root of all evil	找不到目標字
+jn	name	a nickname	找不到目標字
+jn	safety	play it safe	找不到目標字
+jn	side	take sb. aside	找不到目標字
+jn	time	sometime	找不到目標字
+jn	time	sometimes	找不到目標字
+jn	tip	a tipping point	找不到目標字
+jn	town	downtown	找不到目標字
+jn	week	midweek	找不到目標字
+jn	base	be based on	干擾選項不足
+jn	family	a family name	干擾選項不足
+jn	family	a family tree	干擾選項不足
+jn	family	run in the family	干擾選項不足
+jn	family	a family man	干擾選項不足
+jn	family	a family doctor	干擾選項不足
+jn	family	start a family	干擾選項不足
+jn	family	a big family	干擾選項不足
+jn	family	family members	干擾選項不足
+jn	family	a one-parent family	干擾選項不足
+jn	family	the whole family	干擾選項不足
+jn	family	It runs in the family.	干擾選項不足
+jn	fly	wouldn't hurt a fly	干擾選項不足
+jn	fly	a fly on the wall	干擾選項不足
+jn	month	monthly	干擾選項不足
+jn	number	one's days are numbered	干擾選項不足
+jn	smoke	a heavy smoker	干擾選項不足
+jn	snow	be snowed in	干擾選項不足
+jn	snow	be snowed under	干擾選項不足
+jv	affect	affect vs. effect	辨析提示
+jv	become	What became of him?	找不到目標字
+jv	begin	It all began when…	找不到目標字
+jv	borrow	borrow vs. lend	辨析提示
+jv	catch	get caught in the rain	找不到目標字
+jv	die	be dying to do	找不到目標字
+jv	do	be done with	找不到目標字
+jv	fall	Prices fell.	找不到目標字
+jv	feed	be fed up with	找不到目標字
+jv	fit	fit vs. suit	辨析提示
+jv	fly	Time flies.	找不到目標字
+jv	lay	lie vs. lay	辨析提示
+jv	lie	lie-lay-lain 躺 vs. lie-lied-lied 說謊	辨析提示
+jv	listen	hear vs. listen	辨析提示
+jv	live	alive vs. live vs. living	辨析提示
+jv	make	be made of wood	找不到目標字
+jv	make	be made from grapes	找不到目標字
+jv	make	be made in Taiwan	找不到目標字
+jv	pay	well-paid	找不到目標字
+jv	raise	rise vs. raise	辨析提示
+jv	run	My nose is running.	找不到目標字
+jv	run	The machine is running.	找不到目標字
+jv	run	a running nose	找不到目標字
+jv	run	up and running	找不到目標字
+jv	say	easier said than done	找不到目標字
+jv	say	No sooner said than done.	找不到目標字
+jv	sell	be sold out	找不到目標字
+jv	shoot	be shot dead	找不到目標字
+jv	sit	sit vs. seat	辨析提示
+jv	solve	a problem-solving skill	找不到目標字
+jv	spend	spend vs. cost vs. take	辨析提示
+jv	stick	be stuck in traffic	找不到目標字
+jv	stick	get stuck	找不到目標字
+jv	tear	be torn between	找不到目標字
+jv	tear	tear vs. tear	辨析提示
+jv	tell	I told you so.	找不到目標字
+jv	tell	all told	找不到目標字
+jv	understand	make oneself understood	找不到目標字
+jv	understand	misunderstand	找不到目標字
+jv	understand	It is understood that…	找不到目標字
+jv	understand	Understood.	找不到目標字
+jv	use	user-friendly	找不到目標字
+jv	wake	be wide awake	找不到目標字
+jv	wake	stay awake	找不到目標字
+jv	watch	watch vs. see vs. look	辨析提示
+jv	wear	wear vs. put on vs. dress	辨析提示
+jv	wear	worn out	找不到目標字
+jv	win	win vs. beat	辨析提示
+jv	work	homework	找不到目標字
+jv	work	housework	找不到目標字
+jv	fly	fly a kite	干擾選項不足
+jv	fly	fly to Japan	干擾選項不足
+jv	fly	fly a flag	干擾選項不足
+jv	fly	fly by	干擾選項不足
+jv	fly	let fly	干擾選項不足
+jv	fly	fly off the handle	干擾選項不足
+jv	fly	on the fly	干擾選項不足
