@@ -18,9 +18,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit13 challenge – cherish
 - [x] cv-unit14 chew – claim
 - [x] cv-unit15 clarify – cloud
-- [ ] cv-unit16 cluster – command
-- [ ] cv-unit17 comment – compete
-- [ ] cv-unit18 complement – conceal
+- [x] cv-unit16 cluster – command
+- [x] cv-unit17 comment – compete
+- [x] cv-unit18 complement – conceal
 - [ ] cv-unit19 concede – confine
 - [ ] cv-unit20 confirm – construct
 - [ ] cv-unit21 consult – contest
