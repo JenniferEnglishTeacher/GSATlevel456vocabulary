@@ -3,9 +3,9 @@
 Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 jn → jv (會考 sentences: CEFR A2–B1, 10–18 words, words within the 國中2000字 list as far as possible). 3 units per run. Mark a unit [x] when its json is committed.
 
 ## cv (183 units)
-- [ ] cv-unit1 abandon – accommodate
-- [ ] cv-unit2 accompany – adjust
-- [ ] cv-unit3 adopt – analyze
+- [x] cv-unit1 abandon – accommodate
+- [x] cv-unit2 accompany – adjust
+- [x] cv-unit3 adopt – analyze
 - [ ] cv-unit4 anchor – arrest
 - [ ] cv-unit5 articulate – assume
 - [ ] cv-unit6 assure – ban
