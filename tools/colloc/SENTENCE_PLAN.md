@@ -15,9 +15,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit10 branch – bully
 - [x] cv-unit11 bump – carry
 - [x] cv-unit12 carve – chain
-- [ ] cv-unit13 challenge – cherish
-- [ ] cv-unit14 chew – claim
-- [ ] cv-unit15 clarify – cloud
+- [x] cv-unit13 challenge – cherish
+- [x] cv-unit14 chew – claim
+- [x] cv-unit15 clarify – cloud
 - [ ] cv-unit16 cluster – command
 - [ ] cv-unit17 comment – compete
 - [ ] cv-unit18 complement – conceal

@@ -6806,6 +6806,13 @@ window.VOCAB_BOOKS = [
   ]
  },
  {
+  "id": "toeic",
+  "name": "TOEIC 主題單字 Themed Vocabulary",
+  "zones": [
+   "tc"
+  ]
+ },
+ {
   "id": "colloc",
   "name": "學測單字搭配詞 Collocations",
   "zones": [
@@ -6822,13 +6829,6 @@ window.VOCAB_BOOKS = [
   "zones": [
    "jn",
    "jv"
-  ]
- },
- {
-  "id": "toeic",
-  "name": "TOEIC 主題單字 Themed Vocabulary",
-  "zones": [
-   "tc"
   ]
  }
 ];
