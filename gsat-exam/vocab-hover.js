@@ -57,7 +57,7 @@
   const card = document.createElement('div');
   card.className = 'gw-card';
   card.hidden = true;
-  card.innerHTML = '<div class="gw-head"><b class="gw-word"></b><span class="gw-pos"></span><span class="gw-lv"></span><button type="button" class="gw-speak" title="發音">🔊</button></div><p class="gw-zh"></p><p class="gw-en"></p><div class="gw-foot"><a class="gw-link" target="_blank" rel="noopener">🗂 字卡＋例句 →</a><span class="gw-form"></span></div>';
+  card.innerHTML = '<div class="gw-head"><b class="gw-word"></b><span class="gw-pos"></span><span class="gw-lv"></span><button type="button" class="gw-speak" title="發音">🔊</button></div><p class="gw-zh"></p><p class="gw-en"></p><div class="gw-foot"><a class="gw-link" href="#">🗂 字卡＋例句 →</a><a class="gw-newtab" target="_blank" rel="noopener" title="在新分頁開啟字卡">↗</a><span class="gw-form"></span></div>';
   document.body.append(card);
   let current = null, hideTimer = null, speakTimer = null;
 
@@ -86,7 +86,9 @@
     lv.className = 'gw-lv gw-lv' + e[5];
     card.querySelector('.gw-zh').textContent = e[3];
     card.querySelector('.gw-en').textContent = e[4] || '';
-    card.querySelector('.gw-link').href = pageFor(e[0], e[1]) + '#w=' + encodeURIComponent(base);
+    const url = pageFor(e[0], e[1]) + '#w=' + encodeURIComponent(base);
+    card.querySelector('.gw-link').dataset.url = url;
+    card.querySelector('.gw-newtab').href = url;
     const form = span.textContent.toLowerCase();
     card.querySelector('.gw-form').textContent = form !== base ? '文中：' + span.textContent : '';
     card.hidden = false;
@@ -131,9 +133,38 @@
     }
     if (!card.contains(ev.target)) hide();
   });
+  // ---------- flashcard viewer: the unit page opens in a panel over the quiz, so the quiz (and its answers) stays put ----------
+  const viewer = document.createElement('div');
+  viewer.className = 'gw-viewer';
+  viewer.hidden = true;
+  viewer.innerHTML = '<div class="gw-viewer-bar"><button type="button" class="gw-back">← 回到測驗</button><span class="gw-viewer-title"></span><a class="gw-viewer-newtab" target="_blank" rel="noopener">在新分頁開啟 ↗</a></div><iframe class="gw-frame" title="單字字卡" loading="eager"></iframe>';
+  document.body.append(viewer);
+  const frame = viewer.querySelector('.gw-frame');
+  function openViewer(url, word) {
+    hide();
+    viewer.querySelector('.gw-viewer-title').textContent = word;
+    viewer.querySelector('.gw-viewer-newtab').href = url;
+    frame.src = url;
+    viewer.hidden = false;
+    document.body.classList.add('gw-viewer-open');
+    history.pushState({ gwViewer: true }, '');
+  }
+  function closeViewer(fromPop) {
+    if (viewer.hidden) return;
+    viewer.hidden = true;
+    frame.src = 'about:blank';
+    document.body.classList.remove('gw-viewer-open');
+    if (!fromPop && history.state && history.state.gwViewer) history.back();
+  }
+  viewer.querySelector('.gw-back').addEventListener('click', () => closeViewer(false));
+  window.addEventListener('popstate', () => closeViewer(true)); // the browser/iPad back gesture also returns to the quiz
+  card.querySelector('.gw-link').addEventListener('click', ev => {
+    ev.preventDefault(); ev.stopPropagation();
+    openViewer(ev.currentTarget.dataset.url, card.querySelector('.gw-word').textContent);
+  });
   card.querySelector('.gw-speak').addEventListener('click', ev => { ev.stopPropagation(); if (current) speak(current.dataset.base); });
   window.addEventListener('scroll', hide, { passive: true });
-  window.addEventListener('keydown', ev => { if (ev.key === 'Escape') hide(); });
+  window.addEventListener('keydown', ev => { if (ev.key === 'Escape') { hide(); closeViewer(false); } });
 
   // ---------- watch the quiz areas ----------
   const targets = ['#question', '#answerArea', '#wrongList'].map(s => document.querySelector(s)).filter(Boolean);
