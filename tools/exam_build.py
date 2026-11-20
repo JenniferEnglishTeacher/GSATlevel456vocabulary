@@ -16,7 +16,7 @@ import json, os, re, html, glob, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'gsat-exam')
-V = '20261120-3'
+V = '20261120-4'
 Q = json.load(open(os.path.join(ROOT, 'tools/exam/questions.json'), encoding='utf-8'))
 YEARS = sorted((int(y) for y in Q), reverse=True)
 
