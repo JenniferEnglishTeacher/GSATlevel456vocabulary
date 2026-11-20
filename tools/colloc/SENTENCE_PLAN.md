@@ -75,9 +75,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit70 label – lay
 - [x] cv-unit71 leak – level
 - [x] cv-unit72 license – line
-- [ ] cv-unit73 litter – loosen
-- [ ] cv-unit74 lounge – manipulate
-- [ ] cv-unit75 manufacture – master
+- [x] cv-unit73 litter – loosen
+- [x] cv-unit74 lounge – manipulate
+- [x] cv-unit75 manufacture – master
 - [ ] cv-unit76 match – melt
 - [ ] cv-unit77 mend – mirror
 - [ ] cv-unit78 mislead – motivate
