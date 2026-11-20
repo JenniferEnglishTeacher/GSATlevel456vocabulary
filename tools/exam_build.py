@@ -16,7 +16,7 @@ import json, os, re, html, glob, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'gsat-exam')
-V = '20261120-1'
+V = '20261120-2'
 Q = json.load(open(os.path.join(ROOT, 'tools/exam/questions.json'), encoding='utf-8'))
 YEARS = sorted((int(y) for y in Q), reverse=True)
 
@@ -128,17 +128,26 @@ open(os.path.join(OUT, 'lexicon.js'), 'w', encoding='utf-8').write(
 print('lexicon words', len(lex_words), 'forms', len(forms), 'by level', collections.Counter(v[5] for v in lex_words.values()))
 
 # ---------------------------------------------------------------- pages
+SECTION_HINT = {'綜合測驗': '請選出 __{n}__ 的最佳答案', '文意選填': '請從 (A)–(J) 選出最適合 __{n}__ 的字（每個選項只用一次）', '篇章結構': '請選出最適合放入 __{n}__ 的句子'}
 def qtext(it):
     if it['section'] == '詞彙':
         return f"第 {it['num']} 題　{it['stem']}"
-    return f"【綜合測驗 第 {it['group']} 題】\n{it['passage']}\n\n▶ 第 {it['num']} 題　請選出 __{it['num']}__ 的最佳答案"
+    hint = SECTION_HINT.get(it['section'], '請選出 __{n}__ 的最佳答案').format(n=it['num'])
+    return f"【{it['section']} 第 {it['group']} 題】\n{it['passage']}\n\n▶ 第 {it['num']} 題　{hint}"
+
+LABELS = 'ABCDEFGHIJ'
+def counts(items):
+    c = collections.OrderedDict()
+    for it in items: c[it['section']] = c.get(it['section'], 0) + 1
+    return c
+def count_text(c, sep='＋'): return sep.join(f"{k} {v}" for k, v in c.items())
 
 def build_questions(y, section_by_year=False):
     out = []
     for it in Q[str(y)]:
         out.append({
             'id': it['num'], 'question': qtext(it), 'options': it['options'],
-            'answer': 'ABCD'.index(it['answer']), 'answerLabel': it['answer'],
+            'answer': LABELS.index(it['answer']), 'answerLabel': it['answer'],
             'source': f"{y} 學測｜{it['section']}｜第 {it['num']} 題",
             'explanation': it['explanation'], 'explanationSource': 'own',
             'section': f'{y}年' if section_by_year else it['section'],
@@ -146,7 +155,7 @@ def build_questions(y, section_by_year=False):
     return out
 
 HEAD = '''<!doctype html>
-<html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="{desc}"><title>{title}</title><link rel="stylesheet" href="quiz.css?v=20261027-2"><link rel="stylesheet" href="vocab-hover.css?v={v}"><style>.explain{{white-space:pre-line}}.question{{font-size:19px;font-weight:600;line-height:1.65}}</style></head><body>
+<html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="{desc}"><title>{title}</title><link rel="stylesheet" href="quiz.css?v=20261027-2"><link rel="stylesheet" href="vocab-hover.css?v={v}"><style>.explain{{white-space:pre-line}}.question{{font-size:19px;font-weight:600;line-height:1.65}}.options:has(.option:nth-child(7)){{grid-template-columns:1fr 1fr}}@media(max-width:600px){{.options:has(.option:nth-child(7)){{grid-template-columns:1fr}}}}</style></head><body>
 <main class="wrap"><header class="hero"><a class="btn" href="../index.html#x">← 回到 Vocabulary Board</a><h1 id="title">{title}</h1><p id="description" class="note"></p><p class="note gw-legend">文中 <span class="gw gw-l3">Level 3</span> <span class="gw gw-l4">Level 4</span> <span class="gw gw-l5">Level 5</span> <span class="gw gw-l6">Level 6</span> 的學測單字會標示底線：滑過／點一下可聽發音、看詞性與中譯，再點「🗂 字卡」看例句。</p></header>
 <section id="select" class="card"><h2>選擇題目</h2><div class="toolbar"><button id="all" class="btn" type="button">全選</button><button id="none" class="btn" type="button">取消全選</button><button id="random" class="btn" type="button">隨機 20 題</button><span id="picked" class="note"></span></div><div id="list"></div><label class="pick"><input id="shuffle" type="checkbox"> 隨機排列題目</label><button id="start" class="btn primary" type="button">開始測驗 →</button></section>
 <section id="quiz" class="card hidden"><div class="progress"><div id="bar" class="bar"></div></div><div class="meta"><span id="meta"></span><span id="wrongCount"></span></div><div id="zh" class="zh hidden"></div><div id="question" class="question"></div><div id="answerArea"></div><div id="feedback" class="feedback hidden" aria-live="polite"></div><div class="actions"><button id="check" class="btn primary" type="button">檢查答案</button><button id="next" class="btn primary hidden" type="button">下一題 →</button><button id="finish" class="btn danger" type="button">結束練習</button></div></section>
@@ -155,29 +164,30 @@ HEAD = '''<!doctype html>
 TAIL = '''<script src="quiz.js?v=20261106-3"></script><script>document.querySelector("#description").textContent={desc_js};</script><script src="lexicon.js?v={v}"></script><script src="vocab-hover.js?v={v}"></script><script src="/high-school-blank-translation-quiz/quiz-result-recorder.js?v=20261027-1" defer></script></body></html>
 '''
 
-cards, tv, tc = [], 0, 0
+cards, grand = [], collections.OrderedDict()
 for y in YEARS:
     qs = build_questions(y)
-    nv = sum(1 for q in qs if q['section'] == '詞彙'); nc = len(qs) - nv; tv += nv; tc += nc
-    title = f'{y} 年學測英文｜詞彙題＋綜合測驗'
-    desc = f'{y} 年學測英文：詞彙題 {nv} 題＋綜合測驗（克漏字）{nc} 題｜四選一｜附中文解析｜Level 3–6 單字滑過即看中譯與字卡｜可隨機 20 題、隨時結束並下載 DOCX 錯題'
+    c = counts(Q[str(y)])
+    for k, v in c.items(): grand[k] = grand.get(k, 0) + v
+    title = f'{y} 年學測英文｜' + '＋'.join(c)
+    desc = f'{y} 年學測英文：{count_text(c)}｜共 {len(qs)} 題｜單選｜附中文解析｜Level 3–6 單字滑過即看中譯與字卡｜可隨機 20 題、隨時結束並下載 DOCX 錯題'
     cfg = {'title': title, 'mode': 'mcq', 'questions': qs}
     page = HEAD.format(title=title, desc=html.escape(desc), v=V) + '<script>window.QUIZ_CONFIG=' + dump(cfg) + ';</script>' + TAIL.format(desc_js=dump(desc), v=V)
     open(os.path.join(OUT, f'gsat-past-exam-{y}.html'), 'w', encoding='utf-8').write(page)
-    cards.append({'title': f'{y} 年學測英文', 'sub': f'詞彙 {nv}＋綜合測驗 {nc}｜共 {nv+nc} 題｜四選一｜附中文解析', 'href': f'gsat-exam/gsat-past-exam-{y}.html?v={V}', 'year': y})
+    cards.append({'title': f'{y} 年學測英文', 'sub': f'{count_text(c)}｜共 {len(qs)} 題｜附中文解析', 'href': f'gsat-exam/gsat-past-exam-{y}.html?v={V}', 'year': y})
 
 all_qs, passages, n = [], {}, 0
 for y in YEARS:
     qs = build_questions(y, section_by_year=True)
     for q, it in zip(qs, Q[str(y)]):
         n += 1; q['id'] = n
-        if it['section'] == '綜合測驗':
+        if it.get('passage'):
             key = f"{y}-{it['group']}"; passages[key] = it['passage']
-            q['question'] = f"【綜合測驗 第 {it['group']} 題】\n@@{key}@@\n\n▶ 第 {it['num']} 題　請選出 __{it['num']}__ 的最佳答案"
+            q['question'] = q['question'].replace(it['passage'], f'@@{key}@@')
     all_qs += qs
 total = len(all_qs)
-title = f'學測英文歷屆試題｜{YEARS[-1]}–{YEARS[0]} 年詞彙題＋綜合測驗'
-desc = f'{YEARS[-1]}–{YEARS[0]} 年共 {len(YEARS)} 屆：詞彙題 {tv} 題＋綜合測驗 {tc} 題｜可選單一年度／隨機 20 題／全部｜附中文解析｜Level 3–6 單字滑過即看中譯與字卡｜隨時結束並下載 DOCX 錯題'
+title = f'學測英文歷屆試題｜{YEARS[-1]}–{YEARS[0]} 年選擇題'
+desc = f'{YEARS[-1]}–{YEARS[0]} 年共 {len(YEARS)} 屆：{count_text(grand)}｜可選單一年度／隨機 20 題／全部｜附中文解析｜Level 3–6 單字滑過即看中譯與字卡｜隨時結束並下載 DOCX 錯題'
 cfg = {'title': title, 'mode': 'mcq', 'questions': all_qs}
 expand = ('<script>(function(){var P=window.GSAT_PASSAGES||{};window.QUIZ_CONFIG.questions.forEach(function(q){'
           'q.question=q.question.replace(/@@([^@]+)@@/g,function(m,k){return P[k]||m});});})();</script>')
@@ -185,8 +195,8 @@ page = (HEAD.format(title=title, desc=html.escape(desc), v=V) + '<script>window.
 open(os.path.join(OUT, 'gsat-past-exam-all.html'), 'w', encoding='utf-8').write(page)
 
 board = {
-    'title': f'學測英文歷屆試題 {YEARS[-1]}–{YEARS[0]} 年｜詞彙題＋綜合測驗',
-    'blurb': f'{len(YEARS)} 個年度｜{total} 題（詞彙 {tv}＋綜合測驗 {tc}）｜四選一｜附中文解析｜文中 Level 3–6 單字可滑過看中譯、開字卡｜隨時結束並下載 DOCX 錯題',
+    'title': f'學測英文歷屆試題 {YEARS[-1]}–{YEARS[0]} 年',
+    'blurb': f'{len(YEARS)} 個年度｜{total} 題（{count_text(grand, "、")}）｜附中文解析｜文中 Level 3–6 單字可滑過看中譯、開字卡｜隨時結束並下載 DOCX 錯題',
     'all': {'title': f'🧩 {YEARS[-1]}–{YEARS[0]} 年全部綜合練習', 'sub': f'{total} 題｜可選單一年度／隨機 20 題／全部｜隨時結束→下載 DOCX 錯題', 'href': f'gsat-exam/gsat-past-exam-all.html?v={V}'},
     'years': cards,
 }
