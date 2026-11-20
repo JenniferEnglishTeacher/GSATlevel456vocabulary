@@ -134,6 +134,17 @@
     }
     if (!card.contains(ev.target)) hide();
   });
+  // inside window.GW_TAP_ONLY (e.g. clickable subtitle lines), a touch/pen tap on a word opens only its card
+  if (window.GW_TAP_ONLY) {
+    let lastPtr = 'mouse';
+    document.addEventListener('pointerdown', ev => { lastPtr = ev.pointerType; }, true);
+    document.addEventListener('click', ev => {
+      const span = ev.target.closest && ev.target.closest('.gw');
+      if (!span || lastPtr === 'mouse' || !span.closest(window.GW_TAP_ONLY)) return;
+      ev.stopPropagation();
+      if (current === span && !card.hidden) hide(); else show(span);
+    }, true);
+  }
   // ---------- flashcard viewer: the unit page opens in a panel over the quiz, so the quiz (and its answers) stays put ----------
   const viewer = document.createElement('div');
   viewer.className = 'gw-viewer';
@@ -168,7 +179,8 @@
   window.addEventListener('keydown', ev => { if (ev.key === 'Escape') { hide(); closeViewer(false); } });
 
   // ---------- watch the quiz areas ----------
-  const targets = ['#question', '#answerArea', '#wrongList'].map(s => document.querySelector(s)).filter(Boolean);
+  // pages can name their own areas (window.GW_TARGETS), e.g. the 學測英聽 pages mark the whole #app
+  const targets = (window.GW_TARGETS || ['#question', '#answerArea', '#wrongList']).map(s => document.querySelector(s)).filter(Boolean);
   const obs = new MutationObserver(muts => {
     const roots = new Set();
     muts.forEach(m => { const t = targets.find(r => r.contains(m.target)); if (t) roots.add(t); });
