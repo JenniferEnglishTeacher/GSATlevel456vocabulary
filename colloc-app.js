@@ -1,5 +1,5 @@
 // 搭配詞 Collocations — shared page engine for every {zone}-unit{N}.html page.
-// Data: window.COLLOC_UNIT = { zone, unit, units, title, items: [{ w, zh, h, lv, ty, q, o[4], a, oi[4], s?, sq?, st? }] }
+// Data (also the 會考片語 zones from tools/jphrase_emit.py): window.COLLOC_UNIT = { zone, unit, units, title, items: [{ w, zh, h, lv, ty, q, o[4], a, oi[4], s?, sq?, st? }] }
 // Tabs: 🗂 list (🔊 + ★ review) and 📝 MCQ. #quiz / #test open the MCQ; #w=<phrase> jumps to a phrase.
 // A finished MCQ round is sent to the teacher's sheet through tracker.js (GsatTracker.logTest).
 (function () {
@@ -21,7 +21,7 @@
   function speak(text) {
     if (!window.speechSynthesis) return;
     speechSynthesis.cancel();
-    const u = new SpeechSynthesisUtterance(String(text).replace(/…|\.\.\./g, " ").replace(/\bsb\b/g, "somebody").replace(/\bsth\b/g, "something"));
+    const u = new SpeechSynthesisUtterance(String(text).replace(/…|\.\.\./g, " ").replace(/_{2,}|＿+/g, " … ").replace(/\bsb\b/g, "somebody").replace(/\bsth\b/g, "something"));
     u.lang = "en-US"; u.rate = 0.9;
     if (voice) u.voice = voice;
     speechSynthesis.speak(u);
@@ -107,6 +107,7 @@
     const i = text.indexOf(BLANK);
     const ans = it.o[it.a];
     const mid = filled ? `<mark class="cx-fill">${esc(ans)}</mark>` : `<span class="cx-blank">${BLANK}</span>`;
+    if (i < 0) return esc(text) + (filled ? ` → <mark class="cx-fill">${esc(ans)}</mark>` : ""); // 例句有多個空格（會考片語）
     return `${esc(text.slice(0, i))}${mid}${esc(text.slice(i + BLANK.length))}`;
   }
   function renderQ() {

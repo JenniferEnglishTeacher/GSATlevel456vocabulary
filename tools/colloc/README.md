@@ -26,3 +26,11 @@ Units are fixed by alphabetical headword (≈28–40 items); never renumber once
 - Chinese translation is complete and must include the collocation's 中文 meaning, so the 中文 points to one answer.
 - The 3 distractors stay the ones the emitter picked; make sure none of them could also fit the sentence.
 Progress: `SENTENCE_PLAN.md`.
+
+## 會考片語 zones (same book 會考單字搭配詞, built separately)
+Source: Jennifer's 10 「國中會考英文 單字片語總整理」 docx (01 一字多義 … 10 轉折詞, 2026-11-20).
+    python3 tools/jphrase_extract.py 01_*.docx … 10_*.docx   # -> tools/jphrase/source.json
+    python3 tools/jphrase_emit.py <version>                  # pages + books.js zones + index.html tags
+Zones jm jvp jbe jap jpp jdp jcp jnp jex jtw. Word-list units: each row = its docx sample sentence (blanks kept) +
+4 phrases from the same list; 綜合練習 units = the docx Part 2 MCQs with the answer key's 中文.
+colloc_register.py keeps these zones when it rebuilds the 會考單字搭配詞 book.

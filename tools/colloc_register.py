@@ -30,6 +30,9 @@ for z in order:
     new_books.setdefault(bid, {"id": bid, "name": bname, "zones": []})["zones"].append(z)
 # Each 搭配詞 book sits in its level group right after that group's 歷屆試題 tab.
 PLACE = {"colloc": ("gsat", "exam"), "jcolloc": ("cap", "capexam")}
+for x in books:  # keep zones other tools add to these books (會考片語 zones from jphrase_emit.py)
+    if x["id"] in new_books:
+        new_books[x["id"]]["zones"] += [z for z in x["zones"] if z not in ZONES]
 books = [x for x in books if x["id"] not in new_books]
 for bid, nb in new_books.items():
     grp, after = PLACE.get(bid, (None, None))
@@ -41,7 +44,7 @@ bs, be = b.index("window.VOCAB_BOOKS = ") + len("window.VOCAB_BOOKS = "), b.inde
 b = b[:bs] + json.dumps(books, ensure_ascii=False, indent=1) + b[be:]
 (ROOT / "books.js").write_text(b, "utf-8")
 h = (ROOT / "index.html").read_text("utf-8")
-h = re.sub(r'  <script src="(?:c[vnadc]|j[nva])-dashboard-data\.js\?v=[^"]*"></script>\n', "", h)
+h = re.sub(r'  <script src="(?:c[vnadc]|j[nvadpc])-dashboard-data\.js\?v=[^"]*"></script>\n', "", h)
 tags = "".join(f'  <script src="{z}-dashboard-data.js?v={ver}"></script>\n' for z in order)
 h = h.replace('  <script src="tracker-config.js', tags + '  <script src="tracker-config.js', 1)
 h = re.sub(r'books\.js\?v=[^"]*', f"books.js?v={ver}", h)
