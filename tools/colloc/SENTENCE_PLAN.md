@@ -90,9 +90,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit85 overthrow – pack
 - [x] cv-unit86 pad – patch
 - [x] cv-unit87 patent – peer
-- [ ] cv-unit88 penetrate – phase
-- [ ] cv-unit89 pick – pioneer
-- [ ] cv-unit90 pirate – plant
+- [x] cv-unit88 penetrate – phase
+- [x] cv-unit89 pick – pioneer
+- [x] cv-unit90 pirate – plant
 - [ ] cv-unit91 play – plug
 - [ ] cv-unit92 plunge – poll
 - [ ] cv-unit93 pollute – post
