@@ -96,9 +96,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit91 play – plug
 - [x] cv-unit92 plunge – poll
 - [x] cv-unit93 pollute – post
-- [ ] cv-unit94 postpone – prejudice
-- [ ] cv-unit95 prescribe – presume
-- [ ] cv-unit96 pretend – probe
+- [x] cv-unit94 postpone – prejudice
+- [x] cv-unit95 prescribe – presume
+- [x] cv-unit96 pretend – probe
 - [ ] cv-unit97 proceed – program
 - [ ] cv-unit98 progress – prompt
 - [ ] cv-unit99 pronounce – pull
