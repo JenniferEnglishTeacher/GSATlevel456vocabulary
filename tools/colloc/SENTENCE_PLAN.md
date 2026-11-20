@@ -51,9 +51,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit46 file – flame
 - [x] cv-unit47 flash – flock
 - [x] cv-unit48 flood – fold
-- [ ] cv-unit49 follow – form
-- [ ] cv-unit50 foster – frequent
-- [ ] cv-unit51 frighten – furnish
+- [x] cv-unit49 follow – form
+- [x] cv-unit50 foster – frequent
+- [x] cv-unit51 frighten – furnish
 - [ ] cv-unit52 gamble – generate
 - [ ] cv-unit53 gesture – grace
 - [ ] cv-unit54 graduate – grip
