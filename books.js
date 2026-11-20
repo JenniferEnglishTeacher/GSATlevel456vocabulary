@@ -1,6 +1,27 @@
 // Registry of every vocabulary book on this site. A zone is one tab of word groups; a book is a set of zones.
 // Review keys are "<prefix>-<group>:<cardIndex>". To add a book: add its zones here and its data files.
 window.VOCAB_ZONES = {
+ "x": {
+  "book": "exam",
+  "prefix": "x",
+  "tag": "學測",
+  "name": "學測英文歷屆試題",
+  "short": "歷屆試題",
+  "num": "✎",
+  "levelLabel": "",
+  "cls": "",
+  "family": false,
+  "headLabel": "",
+  "tile": "學測英文歷屆試題",
+  "data": "gsat-exam/exam-board-data.js",
+  "global": "GSAT_EXAM_BOARD",
+  "exam": true,
+  "page": "gsat-exam/gsat-past-exam-{u}.html",
+  "quiz": "gsat-exam/gsat-past-exam-{u}.html",
+  "units": [],
+  "names": {},
+  "blurb": "詞彙題＋綜合測驗 MCQ"
+ },
  "l4": {
   "book": "gsat",
   "prefix": "4",
@@ -6671,6 +6692,13 @@ window.VOCAB_ZONES = {
  }
 };
 window.VOCAB_BOOKS = [
+ {
+  "id": "exam",
+  "name": "學測歷屆試題",
+  "zones": [
+   "x"
+  ]
+ },
  {
   "id": "gsat",
   "name": "學測6000字 Level 4–6",

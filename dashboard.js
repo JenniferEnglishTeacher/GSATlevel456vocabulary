@@ -13,7 +13,7 @@ Object.entries(window.VOCAB_ZONES || {}).forEach(([id, z]) => {
     level: z.levelLabel,
     unitName: z.unitName || "Group",
     chipTag: `${z.tag}·`,
-    units: window[z.global] || [],
+    units: z.exam ? [] : (window[z.global] || []),
     key: (u, i) => `${z.prefix}-${u}:${i}`,
     page: u => fillPattern(z.page, u),
     quizPage: u => fillPattern(z.quiz, u)
@@ -27,6 +27,7 @@ const bookOf = z => SHELF.find(b => b.zones.includes(z));
 const bookTabs = document.querySelector("#bookTabs");
 const zoneTabs = document.querySelector("#zoneTabs");
 const zonePanels = document.querySelector("#zonePanels");
+const EXAM_HELP = "每個年度一份：<b>詞彙題＋綜合測驗（克漏字）</b>四選一，答錯會顯示中文解析；文中 <b>Level 3–6 學測單字</b>有底線，滑過／點一下可聽發音、看詞性與中譯，再點「🗂 字卡」看例句。<b>🧩 全部綜合練習</b>可選單一年度或隨機 20 題；隨時結束並下載 DOCX 錯題。";
 const HELP = "<b>🗂 Flashcards</b> (or the group name) opens the group's flashcards; double-click a word to open its card; <b>📝 MCQ</b> = practice questions; <b>✏️ Quiz</b> = online quiz (spelling + MCQ, your result is recorded). 點「🗂 Flashcards」進入字卡，點兩下單字開該字字卡；📝 MCQ 是選擇題練習；✏️ Quiz 是線上測驗（拼字＋選擇題，會記錄成績）。";
 SHELF.forEach(book => {
   const btn = document.createElement("button");
@@ -55,11 +56,11 @@ ZONES.forEach(z => {
   panel.id = `zone-${z}`;
   panel.setAttribute("role", "tabpanel");
   panel.hidden = true;
-  panel.innerHTML = `<div class="zone-head"><h2></h2><p>${HELP}</p></div><div class="unit-board" id="board-${z}"><p class="board-loading">Loading… 載入中…</p></div>`;
+  panel.innerHTML = `<div class="zone-head"><h2></h2><p>${cfg.exam ? EXAM_HELP : HELP}</p></div><div class="unit-board" id="board-${z}"><p class="board-loading">Loading… 載入中…</p></div>`;
   const h2 = panel.querySelector("h2");
   h2.textContent = `${cfg.name} `;
   const span = document.createElement("span");
-  span.textContent = `${cfg.units.length} ${cfg.unitName.toLowerCase()}s · ${cfg.blurb}`;
+  span.textContent = cfg.exam ? (window[cfg.global]?.blurb || cfg.blurb) : `${cfg.units.length} ${cfg.unitName.toLowerCase()}s · ${cfg.blurb}`;
   h2.append(span);
   if (Array.isArray(cfg.links) && cfg.links.length) { // e.g. the topic's Google Doc word list and its full-topic quiz
     const row = document.createElement("p");
@@ -151,9 +152,17 @@ function setZone(next, push = true) {
 window.addEventListener("hashchange", () => setZone(location.hash.slice(1), false));
 
 // ---------- Word boards ----------
+function buildExamBoard(cfg, board) {
+  const data = window[cfg.global];
+  if (!data) { board.innerHTML = '<p class="board-loading">資料載入失敗。</p>'; return; }
+  const card = (c, cls) => `<a class="exam-card${cls ? " " + cls : ""}" href="${c.href}"><b>${c.title}</b><span>${c.sub}</span><em>開始練習 →</em></a>`;
+  board.innerHTML = `<div class="exam-grid">${card(data.all, "exam-all")}${data.years.map(c => card(c)).join("")}</div>`;
+}
+
 function buildBoard(book) {
   const cfg = BOOKS[book];
   const board = document.querySelector(`#board-${book}`);
+  if (cfg.exam) return buildExamBoard(cfg, board);
   const frag = document.createDocumentFragment();
   cfg.units.forEach(u => {
     const section = document.createElement("section");
@@ -401,9 +410,10 @@ ZONES.forEach(z => {
   const cfg = BOOKS[z];
   const entries = cfg.units.reduce((n, u) => n + u.cards.length, 0);
   const heads = cfg.units.reduce((n, u) => n + u.cards.filter(c => c.h).length, 0);
+  if (cfg.exam) { document.querySelector(`#${z}Count`).textContent = window[cfg.global]?.blurb || ""; return; }
   document.querySelector(`#${z}Count`).textContent = heads
     ? `${cfg.units.length} ${cfg.unitName.toLowerCase()}s · ${heads.toLocaleString()} words · ${entries.toLocaleString()} entries`
     : `${cfg.units.length} ${cfg.unitName.toLowerCase()}s · ${entries.toLocaleString()} words`;
 });
 refresh();
-setZone(location.hash.slice(1) || ZONES[0], false);
+setZone(location.hash.slice(1) || ZONES.find(z => !BOOKS[z].exam) || ZONES[0], false);

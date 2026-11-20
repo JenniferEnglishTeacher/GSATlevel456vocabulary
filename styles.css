@@ -1250,3 +1250,13 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .install-guide .ig-steps li { margin-bottom: 4px; }
 .install-guide .ig-copy { margin-top: 8px; border: 1px solid #d7dee7; background: #fff; border-radius: 999px; padding: 7px 14px; cursor: pointer; font-size: 14px; }
 @media (display-mode: standalone) { .install-guide { display: none; } }
+
+/* ---------- 2026-11-20: 學測歷屆試題 exam board ---------- */
+.exam-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
+.exam-card { display: flex; flex-direction: column; gap: 4px; padding: 14px 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--panel); text-decoration: none; color: var(--ink); box-shadow: 0 6px 18px rgba(24, 43, 61, 0.08); transition: transform .12s, box-shadow .12s; }
+.exam-card:hover { transform: translateY(-2px); box-shadow: 0 12px 26px rgba(24, 43, 61, 0.16); }
+.exam-card b { font-size: 18px; color: var(--teal-dark); }
+.exam-card span { font-size: 13px; color: var(--muted); line-height: 1.45; }
+.exam-card em { margin-top: auto; font-style: normal; font-weight: 700; color: var(--teal); font-size: 14px; }
+.exam-card.exam-all { grid-column: 1 / -1; background: linear-gradient(135deg, #e6f4f5, #fff); border-color: rgba(8, 127, 140, 0.4); }
+.exam-card.exam-all b { font-size: 20px; }
