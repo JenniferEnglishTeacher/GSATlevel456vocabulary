@@ -63,7 +63,7 @@ window.VOCAB_ZONES = {
   "quiz": "cap-exam/cap-past-exam-{u}.html",
   "units": [],
   "names": {},
-  "blurb": "單題＋克漏字 MCQ"
+  "blurb": "單題＋閱讀測驗＋克漏字 MCQ"
  },
  "l4": {
   "book": "gsat",

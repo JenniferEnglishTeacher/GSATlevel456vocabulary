@@ -15,7 +15,7 @@ Run from the repo root:  python3 tools/exam_build.py
 import json, os, re, html, glob, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-V = '20261120-6'
+V = '20261120-7'
 LABELS = 'ABCDEFGHIJ'
 SECTION_HINT = {'綜合測驗': '請選出 __{n}__ 的最佳答案', '克漏字': '請選出 __{n}__ 的最佳答案',
                 '文意選填': '請從 (A)–(J) 選出最適合 __{n}__ 的字（每個選項只用一次）', '篇章結構': '請選出最適合放入 __{n}__ 的句子'}
@@ -94,7 +94,17 @@ def pos_ok(entry, fam):
 
 TOKEN = re.compile(r"[A-Za-z][A-Za-z'’-]*[A-Za-z]|[A-Za-z]")
 
-def build_lexicon(levels, corpus, out_path):
+FUNC_POS = re.compile(r'^(?:\s*(?:pron|conj|prep|art|aux|det|interrog)\.\s*/?)+$')
+STOP = set('''be am is are was were been being have has had do does did done get gets got make makes made go goes went gone come comes came take took
+say says said see saw seen know knew think thought want like look give gave use find found tell told put let keep thing things way time times day days
+people person man men woman women boy girl good very really also just more most much many lot lots one two three first last new old big small little own
+other another same next year years can will would could may might must shall should not now then here there when what who how why where which this that
+these those yes okay ok mr mrs ms dear hi hello please thank thanks everyone everything someone something anyone anything nothing every each some any all
+both such only even still again back well too so than about over after before into out off away down around
+he she it we they you me him her us them my your his its our their mine yours ours myself yourself himself herself
+four five six seven eight nine ten eleven twelve twenty hundred thousand million second third'''.split())
+
+def build_lexicon(levels, corpus, out_path, content_only=False):
     """levels: [(level_code, [zones], head_only)] in priority order; level_code -> css class gw-l<code> and the card badge."""
     full = {}
     for prio, (code, zones, head_only) in enumerate(levels):
@@ -125,6 +135,7 @@ def build_lexicon(levels, corpus, out_path):
             base = resolve(tok)
             if not base: continue
             e = full[base]
+            if content_only and (base in STOP or FUNC_POS.match(e['pos'])): continue
             words[base] = [e['zone'], e['unit'], e['pos'], e['zh'], e['en'], e['lv'], e['head']]
             if tok.lower() != base: forms[tok.lower()] = base
     open(out_path, 'w', encoding='utf-8').write(
@@ -219,7 +230,7 @@ def build_dataset(cfg):
     for y in years:
         for it in Q[str(y)]:
             corpus += [it.get('stem') or '', it.get('passage') or '', it.get('prompt') or ''] + it['options']
-    nwords, by = build_lexicon(cfg['levels'], corpus, os.path.join(out_dir, 'lexicon.js'))
+    nwords, by = build_lexicon(cfg['levels'], corpus, os.path.join(out_dir, 'lexicon.js'), cfg.get('content_only', False))
     print(cfg['dir'], 'pages', len(years) + 1, 'questions', total, 'lexicon', nwords, dict(by))
 
 GSAT = {
@@ -235,6 +246,7 @@ CAP = {
     'legend': '文中 <span class="gw gw-lj">基礎2000字</span> <span class="gw gw-lh">進階800字</span> <span class="gw gw-l3">Level 3</span> <span class="gw gw-l4">Level 4</span> 的單字會標示底線：滑過／點一下可聽發音、看詞性與中譯，再點「🗂 字卡」看例句。',
     'legend_short': '國中2000字／進階800／Level 3–4 單字滑過即看中譯與字卡',
     'levels': [('j', ['j'], False), ('h', ['h'], False), ('3', T_ZONES, False), ('4', ['l4'], True)],
+    'content_only': True,  # mark only content words (nouns/verbs/adj/adv), skip function words and very common light words
 }
 if __name__ == '__main__':
     build_dataset(GSAT)
