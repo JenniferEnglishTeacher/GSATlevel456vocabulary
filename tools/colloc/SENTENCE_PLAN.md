@@ -78,9 +78,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit73 litter – loosen
 - [x] cv-unit74 lounge – manipulate
 - [x] cv-unit75 manufacture – master
-- [ ] cv-unit76 match – melt
-- [ ] cv-unit77 mend – mirror
-- [ ] cv-unit78 mislead – motivate
+- [x] cv-unit76 match – melt
+- [x] cv-unit77 mend – mirror
+- [x] cv-unit78 mislead – motivate
 - [ ] cv-unit79 mount – muster
 - [ ] cv-unit80 nail – negotiate
 - [ ] cv-unit81 nest – nurse
