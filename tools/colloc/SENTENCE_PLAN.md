@@ -60,9 +60,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit55 ground – gut
 - [x] cv-unit56 halt – harbor
 - [x] cv-unit57 harm – hazard
-- [ ] cv-unit58 head – highlight
-- [ ] cv-unit59 hinder – hollow
-- [ ] cv-unit60 honor – hum
+- [x] cv-unit58 head – highlight
+- [x] cv-unit59 hinder – hollow
+- [x] cv-unit60 honor – hum
 - [ ] cv-unit61 hunt – illustrate
 - [ ] cv-unit62 imitate – induce
 - [ ] cv-unit63 indulge – initiate
