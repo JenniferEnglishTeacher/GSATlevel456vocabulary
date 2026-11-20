@@ -6766,6 +6766,18 @@ window.VOCAB_BOOKS = [
   "group": "gsat"
  },
  {
+  "id": "colloc",
+  "name": "學測單字搭配詞 Collocations",
+  "zones": [
+   "cv",
+   "cn",
+   "ca",
+   "cd",
+   "cc"
+  ],
+  "group": "gsat"
+ },
+ {
   "id": "listening",
   "name": "學測英聽",
   "zones": [
@@ -6903,6 +6915,15 @@ window.VOCAB_BOOKS = [
   "group": "cap"
  },
  {
+  "id": "jcolloc",
+  "name": "會考單字搭配詞 Collocations",
+  "zones": [
+   "jn",
+   "jv"
+  ],
+  "group": "cap"
+ },
+ {
   "id": "caplistening",
   "name": "會考英聽",
   "zones": [
@@ -6941,25 +6962,6 @@ window.VOCAB_BOOKS = [
    "e"
   ],
   "group": "cap"
- },
- {
-  "id": "colloc",
-  "name": "學測單字搭配詞 Collocations",
-  "zones": [
-   "cv",
-   "cn",
-   "ca",
-   "cd",
-   "cc"
-  ]
- },
- {
-  "id": "jcolloc",
-  "name": "會考單字搭配詞 Collocations",
-  "zones": [
-   "jn",
-   "jv"
-  ]
  }
 ];
 window.vocabZoneOfKey = function (key) {

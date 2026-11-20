@@ -28,7 +28,14 @@ new_books = {}
 for z in order:
     bid, bname, _ = BOOK_OF[z]
     new_books.setdefault(bid, {"id": bid, "name": bname, "zones": []})["zones"].append(z)
-books = [x for x in books if x["id"] not in new_books] + list(new_books.values())
+# Each 搭配詞 book sits in its level group right after that group's 歷屆試題 tab.
+PLACE = {"colloc": ("gsat", "exam"), "jcolloc": ("cap", "capexam")}
+books = [x for x in books if x["id"] not in new_books]
+for bid, nb in new_books.items():
+    grp, after = PLACE.get(bid, (None, None))
+    if grp: nb["group"] = grp
+    ids = [x["id"] for x in books]
+    books.insert(ids.index(after) + 1 if after in ids else len(books), nb)
 b = b[:zs] + json.dumps(zones, ensure_ascii=False, indent=1) + b[ze:]
 bs, be = b.index("window.VOCAB_BOOKS = ") + len("window.VOCAB_BOOKS = "), b.index("];\n", b.index("window.VOCAB_BOOKS")) + 1
 b = b[:bs] + json.dumps(books, ensure_ascii=False, indent=1) + b[be:]
