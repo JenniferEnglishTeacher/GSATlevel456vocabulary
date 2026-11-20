@@ -1,0 +1,4182 @@
+{
+"104": [
+{
+"n": 1,
+"ans": "A",
+"opts": {},
+"lines": [
+[
+"",
+"Joseph is reading a book when waiting for the bus."
+]
+]
+},
+{
+"n": 2,
+"ans": null,
+"opts": {},
+"lines": [
+[
+"",
+"After the teacher entered the classroom, he saw two students fighting with each other."
+]
+]
+},
+{
+"n": 3,
+"ans": "B",
+"opts": {},
+"lines": [
+[
+"",
+"The old man finds the TV program interesting, but the little girl doesn't look like she does."
+]
+]
+},
+{
+"n": 4,
+"ans": "C",
+"opts": {
+"A": "Since when?",
+"B": "Almost there.",
+"C": "No problem."
+},
+"lines": [
+[
+"",
+"I can't talk right now. Can I call you back?"
+]
+]
+},
+{
+"n": 5,
+"ans": null,
+"opts": {
+"A": "I got it from my grandparents.",
+"B": "L-I-N-D-Y.",
+"C": "My name is Lindy."
+},
+"lines": [
+[
+"",
+"How do you spell your name, Lindy?"
+]
+]
+},
+{
+"n": 6,
+"ans": "A",
+"opts": {
+"A": "Sorry. I need it right now.",
+"B": "Thanks. You’re very nice.",
+"C": "I already have one."
+},
+"lines": [
+[
+"",
+"Excuse me. Can I use your computer?"
+]
+]
+},
+{
+"n": 7,
+"ans": null,
+"opts": {
+"A": "Give me five more minutes.",
+"B": "It’s not early enough.",
+"C": "The taxi driver will be late."
+},
+"lines": [
+[
+"",
+"Hurry up! We're late. The taxi is waiting."
+]
+]
+},
+{
+"n": 8,
+"ans": null,
+"opts": {
+"A": "I can’t believe you got the job!",
+"B": "What a small world!",
+"C": "You’re really lucky!"
+},
+"lines": [
+[
+"",
+"I can't believe it! I won two plane tickets from Taipei to London."
+]
+]
+},
+{
+"n": 9,
+"ans": null,
+"opts": {
+"A": "I’ll be out in a minute.",
+"B": "Sorry. Let me help you.",
+"C": "You don’t have much time."
+},
+"lines": [
+[
+"",
+"Jack, I need to use the bathroom. You've been in there for hours."
+]
+]
+},
+{
+"n": 10,
+"ans": null,
+"opts": {
+"A": "I’m happy to hear that.",
+"B": "That’s a good idea.",
+"C": "That’s too bad."
+},
+"lines": [
+[
+"W",
+"Can you go shopping with us on Saturday?"
+],
+[
+"M",
+"I'd love to, but I have to go to school."
+]
+]
+},
+{
+"n": 11,
+"ans": "B",
+"opts": {
+"A": "Coffee.",
+"B": "Water.",
+"C": "Tea."
+},
+"lines": [
+[
+"W",
+"Which one do you like, tea, coffee, or water?"
+],
+[
+"M",
+"Water, please. My doctor does not want me to drink coffee and tea."
+],
+[
+"Question",
+"What does the man want?"
+]
+]
+},
+{
+"n": 12,
+"ans": "A",
+"opts": {
+"A": "Shoes.",
+"B": "A ball.",
+"C": "A dress."
+},
+"lines": [
+[
+"G",
+"Dad, I want to buy a pair of \"rockets.\""
+],
+[
+"M",
+"Don't you already have three pairs of shoes?"
+],
+[
+"G",
+"Yes, but \"rockets\" are different. All the sports stars wear them."
+],
+[
+"Question",
+"What are \"rockets\"?"
+]
+]
+},
+{
+"n": 13,
+"ans": null,
+"opts": {
+"A": "The skirt will be on sale next week.",
+"B": "The skirt is too expensive for her to buy.",
+"C": "The skirt is too long for her."
+},
+"lines": [
+[
+"W",
+"Oh! Look at this special yellow skirt. Just three thousand dollars."
+],
+[
+"M",
+"It'll cost you an arm and a leg. You only make ten thousand dollars a month."
+],
+[
+"Question",
+"When the man tells the woman, \"It'll cost you an arm and a leg,\" what does he mean?"
+]
+]
+},
+{
+"n": 14,
+"ans": "B",
+"opts": {
+"A": "Ask for her money back.",
+"B": "Choose a different book.",
+"C": "Wait for the new order."
+},
+"lines": [
+[
+"W",
+"Excuse me, sir. I bought this book yesterday and found one page missing. Can I have a new one?"
+],
+[
+"M",
+"Let me see. I'm sorry. This book's been sold out. But I can order you a new one if you don't mind waiting for five days."
+],
+[
+"W",
+"Oh! That's a long time."
+],
+[
+"M",
+"Or you can choose another book at the same price."
+],
+[
+"W",
+"OK, I think I'll do that."
+],
+[
+"Question",
+"What is the woman going to do?"
+]
+]
+},
+{
+"n": 15,
+"ans": "C",
+"opts": {
+"A": "In a bank.",
+"B": "In a police station.",
+"C": "In a post office."
+},
+"lines": [
+[
+"M",
+"May I help you?"
+],
+[
+"W",
+"Yes, I'd like to mail this package to Hong Kong. How much should I pay?"
+],
+[
+"M",
+"Let me check. Could you write down your name and phone number, please?"
+],
+[
+"W",
+"Sure."
+],
+[
+"M",
+"What's inside the package?"
+],
+[
+"W",
+"Clothes and hats."
+],
+[
+"Question",
+"Where are the man and the woman?"
+]
+]
+},
+{
+"n": 16,
+"ans": "C",
+"opts": {
+"A": "A museum that collects old things.",
+"B": "A supermarket that sells cheaper things.",
+"C": "A shop that sells old things."
+},
+"lines": [
+[
+"W",
+"Walter's House is now open on Hope Street. When you shop at Walter's House, you can find everything you need at low, low prices. Many of the old things in the store look like new. We have beautiful clothes, special toys, useful tools, and interesting books and CDs. You won't think they were used before. Why spend lots of money buying new things? Stop by today, and you'll find how wonderful old things are."
+],
+[
+"Question",
+"What is Walter's House?"
+]
+]
+},
+{
+"n": 17,
+"ans": null,
+"opts": {
+"A": "She doesn’t really like it.",
+"B": "She is excited about it.",
+"C": "She knows nothing about it."
+},
+"lines": [
+[
+"W",
+"Ever since the shopping center opened here, our town has not been as quiet as before. Hundreds of people and cars come in every day. The traffic is terrible."
+],
+[
+"M",
+"Yeah. But it's easier for us to buy things, isn't it?"
+],
+[
+"W",
+"I know the shopping center is convenient, but now my kids often ask me to take them there to buy things or have some food."
+],
+[
+"Question",
+"What does the woman think about the shopping center?"
+]
+]
+},
+{
+"n": 18,
+"ans": "C",
+"opts": {
+"A": "He got lost in the train station.",
+"B": "He got off at the wrong station.",
+"C": "He took the wrong train."
+},
+"lines": [
+[
+"M",
+"Excuse me. Is this train going to Pettin?"
+],
+[
+"W",
+"I'm afraid we're going north."
+],
+[
+"M",
+"Oh, no! I should go south. I need to be in Pettin by eleven. What's the next station I need to get off?"
+],
+[
+"W",
+"We're getting close to Avon. You can get off there."
+],
+[
+"M",
+"Thanks."
+],
+[
+"Question",
+"What happened to the man?"
+]
+]
+},
+{
+"n": 19,
+"ans": null,
+"opts": {
+"A": "She may be too lazy.",
+"B": "She may not like him.",
+"C": "She may have to stay home."
+},
+"lines": [
+[
+"",
+"(Ring.)"
+],
+[
+"W",
+"Hello."
+],
+[
+"M",
+"Hey, Jenny. Do you want to go see a movie today?"
+],
+[
+"W",
+"Hmm, I don't think I can. I need to clean the house."
+],
+[
+"M",
+"Then can we go tomorrow?"
+],
+[
+"W",
+"Well, I have to go to a dance class."
+],
+[
+"M",
+"How about the day after tomorrow?"
+],
+[
+"W",
+"I'm afraid I'm going to be busy all year."
+],
+[
+"Question",
+"Why doesn't the woman go to see a movie with the man?"
+]
+]
+},
+{
+"n": 20,
+"ans": null,
+"opts": {
+"A": "10:00.",
+"B": "11:00.",
+"C": "12:00."
+},
+"lines": [
+[
+"",
+"(Ring. Ring. Beep.)"
+],
+[
+"W",
+"Hello. This is Jenny. I just remembered the shop we're going to won't open until twelve tomorrow. If we meet up at eleven, we'll have to wait for an hour. Can we meet up later? Please call me back before ten."
+],
+[
+"Question",
+"What time may Jenny want to meet up with her friend?"
+]
+]
+},
+{
+"n": 21,
+"ans": null,
+"opts": {
+"A": "I Still Believe.",
+"B": "Listen to Your Heart.",
+"C": "Slow Dance."
+},
+"lines": [
+[
+"M",
+"It's time for the top three songs on the music list this week. Number three is \"I Still Believe.\" It just came out this Monday and has already hit number three this week. Number two is \"Listen to Your Heart.\" It dropped one place after staying on top for three weeks. Finally, climbing from number five, \"Slow Dance\" becomes our number one. Now we're going to play our number one song."
+],
+[
+"Question",
+"Which song is new on the music list this week?"
+]
+]
+}
+],
+"105": [
+{
+"n": 1,
+"ans": "A",
+"opts": {},
+"lines": [
+[
+"",
+"The train station is between the flower shop and the music store."
+]
+]
+},
+{
+"n": 2,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"In the race, two of the five runners got to the finish line at the same time."
+]
+]
+},
+{
+"n": 3,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"Sam almost finished his salad and steak,but didn't touch the bread at all."
+]
+]
+},
+{
+"n": 4,
+"ans": "B",
+"opts": {
+"A": "It’s 12:30.",
+"B": "It’s 2345-6789.",
+"C": "It’s May 26, 1998."
+},
+"lines": [
+[
+"",
+"May I have your number, so I can call you later?"
+]
+]
+},
+{
+"n": 5,
+"ans": "C",
+"opts": {
+"A": "So did I.",
+"B": "Thanks for telling me.",
+"C": "No. Any big news?"
+},
+"lines": [
+[
+"",
+"Did you watch TV last night?"
+]
+]
+},
+{
+"n": 6,
+"ans": "C",
+"opts": {
+"A": "Get ready.",
+"B": "Good job.",
+"C": "No problem."
+},
+"lines": [
+[
+"",
+"Could you turn off the radio? I am trying to study."
+]
+]
+},
+{
+"n": 7,
+"ans": "B",
+"opts": {
+"A": "I know! You cooked well.",
+"B": "Yes, I knew you’d like it.",
+"C": "When did you order the food?"
+},
+"lines": [
+[
+"",
+"This restaurant is lovely, and the food we just had was excellent. We should come again."
+]
+]
+},
+{
+"n": 8,
+"ans": "A",
+"opts": {
+"A": "Oh, thank you.",
+"B": "Oh, excuse me.",
+"C": "Oh, you’re lucky."
+},
+"lines": [
+[
+"",
+"Excuse me. I believe this is your wallet."
+]
+]
+},
+{
+"n": 9,
+"ans": "B",
+"opts": {
+"A": "After school.",
+"B": "At the park.",
+"C": "In the refrigerator."
+},
+"lines": [
+[
+"",
+"Where are you going to meet up with Candy?"
+]
+]
+},
+{
+"n": 10,
+"ans": "A",
+"opts": {
+"A": "I can’t wait.",
+"B": "It didn’t take long.",
+"C": "That’s too slow."
+},
+"lines": [
+[
+"",
+"The Moon Festival is only two weeks away."
+]
+]
+},
+{
+"n": 11,
+"ans": "B",
+"opts": {
+"A": "Science.",
+"B": "Sports.",
+"C": "Reading."
+},
+"lines": [
+[
+"W",
+"I like music and movies, and you?"
+],
+[
+"M",
+"I like swimming and playing basketball."
+],
+[
+"Question",
+"What does the man like?"
+]
+]
+},
+{
+"n": 12,
+"ans": "A",
+"opts": {
+"A": "A taxi driver.",
+"B": "A shopkeeper.",
+"C": "A police officer."
+},
+"lines": [
+[
+"W",
+"I am going to Ying Ming School."
+],
+[
+"M",
+"On Park Road?"
+],
+[
+"W",
+"That's right."
+],
+[
+"M",
+"Here we are."
+],
+[
+"W",
+"Thank you. How much is that?"
+],
+[
+"M",
+"Seventy-five dollars."
+],
+[
+"Question",
+"What is the man?"
+]
+]
+},
+{
+"n": 13,
+"ans": "C",
+"opts": {
+"A": "The man’s shoes.",
+"B": "The trash can.",
+"C": "Tom’s noodles."
+},
+"lines": [
+[
+"W",
+"What's that smell?"
+],
+[
+"M",
+"Umm... Where is it coming from?"
+],
+[
+"W",
+"Anything on your shoes?"
+],
+[
+"M",
+"Nope. Maybe the trash can?"
+],
+[
+"W",
+"Don't think so. I took out the garbage yesterday."
+],
+[
+"M",
+"Oh! It's Tom's noodles. I think that bowl has been there for days."
+],
+[
+"Question",
+"Where does the smell come from?"
+]
+]
+},
+{
+"n": 14,
+"ans": "B",
+"opts": {
+"A": "Ted’s mother.",
+"B": "Ted’s sister.",
+"C": "Ted’s friend."
+},
+"lines": [
+[
+"M",
+"Susan, nice to meet you!"
+],
+[
+"W",
+"Nice to meet you, too. My brother always talks about you. He says you are his best friend."
+],
+[
+"M",
+"Yeah. Ted and I are good friends."
+],
+[
+"Question",
+"Who's Susan?"
+]
+]
+},
+{
+"n": 15,
+"ans": "A",
+"opts": {
+"A": "Cooking food.",
+"B": "Making a shopping list.",
+"C": "Buying dinner for the man."
+},
+"lines": [
+[
+"M",
+"Good evening, everyone. Welcome to John's Favorite Time. Joining me today is Anna Richard."
+],
+[
+"W",
+"Hello, John. It's a pleasure to be here. What I'm going to show you today is Italian chicken."
+],
+[
+"M",
+"Umm... Sounds good."
+],
+[
+"W",
+"And it tastes good, too. Now you'll need four chicken legs. You also need two eggs, butter, tomatoes, cheese, and......"
+],
+[
+"Question",
+"What is the woman going to do?"
+]
+]
+},
+{
+"n": 16,
+"ans": "B",
+"opts": {
+"A": "A library.",
+"B": "A theater.",
+"C": "A restaurant."
+},
+"lines": [
+[
+"W",
+"Welcome to Branound's House. The program will begin in fifteen minutes. If you want to use the restroom, turn left when you walk out of the room. Please don't drink or eat inside. Be sure to turn off your cell phone. And don't take photos during the show. We hope you have a wonderful time tonight."
+],
+[
+"Question",
+"What is Branound's House?"
+]
+]
+},
+{
+"n": 17,
+"ans": "A",
+"opts": {
+"A": "Having a job interview.",
+"B": "Ordering their food.",
+"C": "Talking about some news."
+},
+"lines": [
+[
+"W",
+"Hi, I'm Millie, the head of Dreamer. You must be Paul. Tell me something about your work experience."
+],
+[
+"M",
+"Sure. I work as a waiter for three years."
+],
+[
+"W",
+"Don't you think it's tiring to be a waiter?"
+],
+[
+"M",
+"Not at all. I love food and I like to see people enjoying their meals."
+],
+[
+"W",
+"Good. Can you tell me more about ......"
+],
+[
+"Question",
+"What are the man and the woman doing?"
+]
+]
+},
+{
+"n": 18,
+"ans": "A",
+"opts": {
+"A": "She did not know the plan had been changed.",
+"B": "She is waiting for the bus to the museum.",
+"C": "She made a mistake about where to meet."
+},
+"lines": [
+[
+"M",
+"Hello!"
+],
+[
+"W",
+"Hello, Sam. Where are you guys? I've been waiting for twenty minutes."
+],
+[
+"M",
+"I'm on the bus. Are you already at the museum?"
+],
+[
+"W",
+"The museum? I'm at the school gate. I thought we were meeting here at nine."
+],
+[
+"M",
+"No, we are meeting at the museum at ten."
+],
+[
+"W",
+"What? Who decided that?"
+],
+[
+"M",
+"Didn't Tom call you last night?"
+],
+[
+"W",
+"No, he did not."
+],
+[
+"Question",
+"Why is the girl at the school gate?"
+]
+]
+},
+{
+"n": 19,
+"ans": "C",
+"opts": {
+"A": "She feels lonely at school.",
+"B": "She’s not interested in drawing pictures.",
+"C": "She’s just started going to a new school."
+},
+"lines": [
+[
+"M",
+"Sophie, is everything going well at school? It's been two weeks, right?"
+],
+[
+"W",
+"Yeah, I have met three classmates, who love drawing pictures. Just like me."
+],
+[
+"M",
+"How about classes?"
+],
+[
+"W",
+"Well...Most of them are interesting, but I have much more homework here than at my last school."
+],
+[
+"Question",
+"What can we know about Sophie?"
+]
+]
+},
+{
+"n": 20,
+"ans": "A",
+"opts": {
+"A": "It was boring.",
+"B": "It was exciting.",
+"C": "It was serious."
+},
+"lines": [
+[
+"M",
+"That was a great movie. I love it."
+],
+[
+"W",
+"Seriously? It was as exciting as watching paint dry."
+],
+[
+"M",
+"Really? Why?"
+],
+[
+"W",
+"I knew who the bad guy was from the start. Why did we spend two hours waiting for them to find out?"
+],
+[
+"Question",
+"What does the woman think of the movie?"
+]
+]
+},
+{
+"n": 21,
+"ans": "B",
+"opts": {
+"A": "For her book.",
+"B": "For her movie.",
+"C": "For her news report."
+},
+"lines": [
+[
+"W",
+"Wow. I can't believe I'm standing here. I am so happy. Well... First, I'd like to thank my parents. They paid for my acting classes for so many years. Now I can tell them they didn't spend their money for nothing. My thanks also go to the excellent team I've worked with. Special thanks go to Andy who wrote a great part for me. Also I must thank my husband, Eddy. He's done all the housework and taken care of our baby. Without him, I couldn't have done so well on the big screen. Thank you. Thank you all for believing in me."
+],
+[
+"Question",
+"What did the speaker win the prize for?"
+]
+]
+}
+],
+"110": [
+{
+"n": 1,
+"ans": "B",
+"opts": {},
+"lines": [
+[
+"",
+"The girl is waving her hand to get a taxi."
+]
+]
+},
+{
+"n": 2,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"The old woman is flying on the back of the dragon across the sea."
+]
+]
+},
+{
+"n": 3,
+"ans": "B",
+"opts": {},
+"lines": [
+[
+"",
+"The boy is hopping on one foot because he isn't wearing a shoe on the other foot."
+]
+]
+},
+{
+"n": 4,
+"ans": "B",
+"opts": {
+"A": "Hurry up.",
+"B": "Maybe not.",
+"C": "I agree with you."
+},
+"lines": [
+[
+"",
+"Is Lily coming with us to the party tonight?"
+]
+]
+},
+{
+"n": 5,
+"ans": "A",
+"opts": {
+"A": "Sorry. I’ll change it for you.",
+"B": "Sorry. We don’t have any tea left.",
+"C": "Sorry. You’re drinking too much."
+},
+"lines": [
+[
+"",
+"Excuse me. I ordered a medium coffee, not a large one."
+]
+]
+},
+{
+"n": 6,
+"ans": "B",
+"opts": {
+"A": "I don’t know.",
+"B": "Thank you. I will.",
+"C": "Can I use your knife?"
+},
+"lines": [
+[
+"",
+"Be careful with the knife."
+]
+]
+},
+{
+"n": 7,
+"ans": "A",
+"opts": {
+"A": "Just wonderful!",
+"B": "You were very sweet.",
+"C": "I would like to have some."
+},
+"lines": [
+[
+"",
+"How was the fried chicken I bought you last night?"
+]
+]
+},
+{
+"n": 8,
+"ans": "C",
+"opts": {
+"A": "The TV has a nice big screen.",
+"B": "I don’t have plans for tonight yet.",
+"C": "There’s an old movie you might like."
+},
+"lines": [
+[
+"",
+"Hey! What's good on TV tonight?"
+]
+]
+},
+{
+"n": 9,
+"ans": "A",
+"opts": {
+"A": "I’ll be at home.",
+"B": "Of course you can.",
+"C": "At about six o’clock."
+},
+"lines": [
+[
+"",
+"Where can I find you this evening?"
+]
+]
+},
+{
+"n": 10,
+"ans": "B",
+"opts": {
+"A": "Yes. I will.",
+"B": "Not so much.",
+"C": "It’s not cheap."
+},
+"lines": [
+[
+"",
+"Did you enjoy the show last night?"
+]
+]
+},
+{
+"n": 11,
+"ans": "A",
+"opts": {
+"A": "He got hurt.",
+"B": "He missed a call.",
+"C": "He moved away."
+},
+"lines": [
+[
+"M",
+"Ahh!"
+],
+[
+"W",
+"Are you OK?"
+],
+[
+"M",
+"I think I broke my leg."
+],
+[
+"W",
+"Don't move. I'll call 119."
+],
+[
+"Question",
+"What happened to the man?"
+]
+]
+},
+{
+"n": 12,
+"ans": "C",
+"opts": {
+"A": "The things in the temple.",
+"B": "The history of the temple.",
+"C": "The rules for visiting a temple."
+},
+"lines": [
+[
+"M",
+"Before we go into this thousand-year-old temple. There are a few things you should to know. First, take off your shoes and leave them outside the temple. Second, turn off your phone and keep your voice low. Third, do not touch anything inside the temple, because you might break it. You should also remember that."
+],
+[
+"Question",
+"What is the man talking about?"
+]
+]
+},
+{
+"n": 13,
+"ans": "A",
+"opts": {},
+"lines": [
+[
+"W",
+"Why are we moving so slowly?"
+],
+[
+"M",
+"Do you see the sign there? It looks like there is some road work ahead. I guess they must be fixing the bridge that was washed away during the last typhoon."
+],
+[
+"W",
+"Oh, no. We're not going to miss our plane because of this, are we?"
+],
+[
+"M",
+"Don't worry. Let's take another road."
+],
+[
+"Question",
+"What sign did the man see?"
+]
+]
+},
+{
+"n": 14,
+"ans": "C",
+"opts": {
+"A": "In Japan.",
+"B": "At Grandpa’s house.",
+"C": "At a pet hotel."
+},
+"lines": [
+[
+"B",
+"I can't wait for our trip to Japan next week."
+],
+[
+"M",
+"Yeah. I'm also excited about it."
+],
+[
+"B",
+"But how about Rocky? Is he going with us?"
+],
+[
+"M",
+"Well, it's not easy to travel with a dog, so I think Rocky can go stay with Grandpa."
+],
+[
+"B",
+"But grandpa always says Rocky is a lot of trouble."
+],
+[
+"M",
+"Then...what can we do?"
+],
+[
+"B",
+"How about taking Rocky to the new pet hotel near our home? He'll be taken good care of there."
+],
+[
+"M",
+"Hmm. I think Rocky will be happy there."
+],
+[
+"Question",
+"Where will Rocky be next week?"
+]
+]
+},
+{
+"n": 15,
+"ans": "C",
+"opts": {
+"A": "The woman’s teacher.",
+"B": "The woman’s husband.",
+"C": "The woman’s neighbor."
+},
+"lines": [
+[
+"M",
+"Hello!"
+],
+[
+"W",
+"Hi! I'm Rachel Edwood from across the road."
+],
+[
+"M",
+"Oh, I'm Martin. Martin Jones. Nice to meet you."
+],
+[
+"W",
+"Nice to meet you, too. I saw you move in yesterday so I thought I come over and say hello."
+],
+[
+"M",
+"Thanks. You're very kind."
+],
+[
+"W",
+"So, if you don't mind. Did you move in with your family or...?"
+],
+[
+"M",
+"Yeah. I moved here with my wife. But she's out working now. She teaches music at the elementary school here."
+],
+[
+"W",
+"I see. Ah, yes. Here are some cookies I baked. Hope you'll like them."
+],
+[
+"M",
+"Oh, thank you."
+],
+[
+"Question",
+"Who is the man?"
+]
+]
+},
+{
+"n": 16,
+"ans": "C",
+"opts": {
+"A": "To collect the things they lost.",
+"B": "To come for the sale tomorrow.",
+"C": "To buy what they want and leave soon."
+},
+"lines": [
+[
+"M",
+"Good evening, everyone. The time is now 9:15. The store closes in 15 minutes. If you can't find what you need, our clerks are happy to help. We ask, at this time, that you finish your shopping as soon as you can. We'll open again tomorrow at 11 a.m. Thank you very much for shopping with us. Have a good evening."
+],
+[
+"Question",
+"What does the store want people to do?"
+]
+]
+},
+{
+"n": 17,
+"ans": "C",
+"opts": {
+"A": "Tomorrow.",
+"B": "Today.",
+"C": "After the man calls her."
+},
+"lines": [
+[
+"M",
+"Hi! What can I do for you?"
+],
+[
+"W",
+"My dress is too big. Could you make it one size smaller?"
+],
+[
+"M",
+"No problem."
+],
+[
+"W",
+"And there's also a hole on the back. Could you fix it, too?"
+],
+[
+"M",
+"I see. When do you need it?"
+],
+[
+"W",
+"Is tomorrow possible?"
+],
+[
+"M",
+"Hmm... I'm not sure. I have too much work today. I'll call you when it's done. Could you leave your phone number here?"
+],
+[
+"W",
+"Sure."
+],
+[
+"Question",
+"When will the woman pick up her dress?"
+]
+]
+},
+{
+"n": 18,
+"ans": "A",
+"opts": {
+"A": "She does not understand the paintings.",
+"B": "She does not have a chance to talk to the painters.",
+"C": "She does not agree with the man about the paintings."
+},
+"lines": [
+[
+"M",
+"So, what did you think about the paintings?"
+],
+[
+"W",
+"If I'm honest with you...well...they just didn't speak to me."
+],
+[
+"M",
+"Oh, I'm so glad to hear that. You know, all I saw there was just a lot of lines and dots, and shapes. And I was thinking, what am I looking at?"
+],
+[
+"W",
+"I know. Why is the painting full of squares called \"Summer in the Country House\"?"
+],
+[
+"M",
+"Oh! I remember that one. Where is summer in that painting at all?"
+],
+[
+"W",
+"Next time, we should find something better to see."
+],
+[
+"M",
+"Yeah. No more lines and dots and shapes."
+],
+[
+"Question",
+"When the woman says \"They just didn't speak to me.\" What does she mean?"
+]
+]
+},
+{
+"n": 19,
+"ans": "C",
+"opts": {
+"A": "He forgets things all the time.",
+"B": "He takes good care of his pet dog.",
+"C": "He gives bad excuses for being late."
+},
+"lines": [
+[
+"M",
+"Hey, Mark called and said he'll be late."
+],
+[
+"W",
+"What's his excuse this time?"
+],
+[
+"M",
+"You're not gonna believe this."
+],
+[
+"W",
+"Let me guess. He forgot where he parked his scooter?"
+],
+[
+"M",
+"No."
+],
+[
+"W",
+"His aunt came to visit without calling first?"
+],
+[
+"M",
+"Um...no. I didn't know he has an aunt."
+],
+[
+"W",
+"Well, he has an aunt when it's continent for him to have one. So... I guess it's because his dog wanted a bath."
+],
+[
+"M",
+"Yes! How did you know that?"
+],
+[
+"W",
+"This is not the first time his dog ask for a bath."
+],
+[
+"Question",
+"What does the woman think of Mark?"
+]
+]
+},
+{
+"n": 20,
+"ans": "A",
+"opts": {
+"A": "Push, turn and pull the lid.",
+"B": "Turn, push and pull the lid.",
+"C": "Push, pull and turn the lid."
+},
+"lines": [
+[
+"W",
+"Hello?"
+],
+[
+"M",
+"Hey. Do you remember the bottle you gave me? I want to open it, but I can't. Do you know how?"
+],
+[
+"W",
+"Sure. First, you push the lid, and it will come up a little."
+],
+[
+"M",
+"I did. But it didn't come up."
+],
+[
+"W",
+"You need to push harder."
+],
+[
+"M",
+"Oh, OK. And then?"
+],
+[
+"W",
+"Then turn it to the right and pull it up."
+],
+[
+"M",
+"Umm.... It's not moving."
+],
+[
+"W",
+"Maybe I was wrong. Try turning it to the left."
+],
+[
+"M",
+"Oh, I open it. Thanks."
+],
+[
+"Question",
+"What is the way to open the bottle?"
+]
+]
+},
+{
+"n": 21,
+"ans": "A",
+"opts": {
+"A": "Because he came too late.",
+"B": "Because he waited in the wrong line.",
+"C": "Because all the tickets were sold last night."
+},
+"lines": [
+[
+"W",
+"Excuse me. Don't you see all the people waiting in line?"
+],
+[
+"M",
+"Sorry. What do you mean?"
+],
+[
+"W",
+"This is not the end of the line."
+],
+[
+"M",
+"It's not?"
+],
+[
+"W",
+"No, it's not. Can you see the trash can next to the gate on the other side? That's the end of the line."
+],
+[
+"M",
+"What? You mean all those people? There must be hundred! I thought I was early."
+],
+[
+"W",
+"Well, a lot of people have been here since last night."
+],
+[
+"M",
+"I guess there's no chance for me to get tickets to the game, right?"
+],
+[
+"W",
+"I'm afraid you'll have to wait until next year."
+],
+[
+"M",
+"Oh, no!"
+],
+[
+"Question",
+"Why does the woman say to the man you'll have to wait until next year?"
+]
+]
+}
+],
+"111": [
+{
+"n": 1,
+"ans": "B",
+"opts": {},
+"lines": [
+[
+"",
+"The girl looked sadly out the window at the rain."
+]
+]
+},
+{
+"n": 2,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"There are peaches and bananas in the basket."
+]
+]
+},
+{
+"n": 3,
+"ans": "B",
+"opts": {},
+"lines": [
+[
+"",
+"People are waiting in line to get on the ship."
+]
+]
+},
+{
+"n": 4,
+"ans": "B",
+"opts": {
+"A": "It tastes good.",
+"B": "Sure, have it.",
+"C": "That’s too bad."
+},
+"lines": [
+[
+"",
+"May I have the last piece of pizza?"
+]
+]
+},
+{
+"n": 5,
+"ans": "C",
+"opts": {
+"A": "Yes, I’m on my way.",
+"B": "OK, let’s take a rest.",
+"C": "Oh, it’s just over there."
+},
+"lines": [
+[
+"",
+"Excuse me. Which way is the restroom?"
+]
+]
+},
+{
+"n": 6,
+"ans": "B",
+"opts": {
+"A": "I haven’t heard about it.",
+"B": "That’s a good idea.",
+"C": "But the coat looks better."
+},
+"lines": [
+[
+"",
+"Brrr....It's cold out here. Let's go back to get the (our) coats."
+]
+]
+},
+{
+"n": 7,
+"ans": "A",
+"opts": {
+"A": "Almost every month.",
+"B": "Yeah, it’s getting cold.",
+"C": "I like shopping online."
+},
+"lines": [
+[
+"",
+"How often do you shop for clothes?"
+]
+]
+},
+{
+"n": 8,
+"ans": "B",
+"opts": {
+"A": "He was on her right.",
+"B": "That was her husband.",
+"C": "They were having dinner."
+},
+"lines": [
+[
+"M",
+"Who was the guy next to Amanda at dinner?"
+]
+]
+},
+{
+"n": 9,
+"ans": "A",
+"opts": {
+"A": "At noon.",
+"B": "October 24.",
+"C": "Don’t be late."
+},
+"lines": [
+[
+"W",
+"What time will Chris' birthday party begin?"
+]
+]
+},
+{
+"n": 10,
+"ans": "B",
+"opts": {
+"A": "Yes, I’ll talk more about it.",
+"B": "Not really, I have a headache again.",
+"C": "Sorry, I didn’t use the right word."
+},
+"lines": [
+[
+"",
+"You didn't say a word all morning. Are you ok?"
+]
+]
+},
+{
+"n": 11,
+"ans": "C",
+"opts": {
+"A": "She’s busy, perhaps.",
+"B": "There’s no Miranda here.",
+"C": "I was looking for her, too."
+},
+"lines": [
+[
+"",
+"Have you spoken to Miranda? She's been trying to find you all afternoon."
+]
+]
+},
+{
+"n": 12,
+"ans": "A",
+"opts": {
+"A": "There is a sale on shoes.",
+"B": "The store will close soon.",
+"C": "Someone is looking for their child."
+},
+"lines": [
+[
+"W",
+"Good afternoon, ladies and gentlemen. Welcome to Star Department store. We are now having a special sale on shoes on the second floor. Men's and women's shoes are all half price, children's shoes are 500 dollars a pair. The sale will end at five o'clock. Don't miss this chance."
+],
+[
+"Question",
+"What is the woman telling people?"
+]
+]
+},
+{
+"n": 13,
+"ans": "B",
+"opts": {
+"A": "On a bus.",
+"B": "At a bus stop.",
+"C": "In a restaurant."
+},
+"lines": [
+[
+"M",
+"Hello!"
+],
+[
+"W",
+"Hey, where are you? I'm already in the restaurant."
+],
+[
+"M",
+"Sorry, I'm still waiting for the bus."
+],
+[
+"W",
+"How long will you need to get here? I am so hungry."
+],
+[
+"M",
+"Well, the bus should be coming soon. So, maybe another ten to fifteen minutes."
+],
+[
+"Question",
+"Where is the man?"
+]
+]
+},
+{
+"n": 14,
+"ans": "A",
+"opts": {
+"A": "A writer.",
+"B": "A shop clerk.",
+"C": "A TV reporter."
+},
+"lines": [
+[
+"M",
+"Morning, what can I get you today? Uh...oh no! You are Amy Bradshaw."
+],
+[
+"W",
+"Yes, I am, and good morning to you."
+],
+[
+"M",
+"Oh. I am a big fan. I love all your books."
+],
+[
+"W",
+"Thanks. Can I have a cup of...?"
+],
+[
+"M",
+"Black tea, one milk, no sugar, right? I learned that from your TV interview."
+],
+[
+"W",
+"Yes."
+],
+[
+"M",
+"So, I don't think you could tell me what you are writing for your next book, right?"
+],
+[
+"W",
+"No, sorry."
+],
+[
+"M",
+"Nah...I understand, but I just have a copy of your book here. Could you sign for me?"
+],
+[
+"W",
+"Sure, I can do that."
+],
+[
+"Question",
+"What is the woman?"
+]
+]
+},
+{
+"n": 15,
+"ans": "A",
+"opts": {
+"A": "They don’t like them very much.",
+"B": "The girl likes hers, but the boy doesn’t like his.",
+"C": "The boy likes his, but the girl doesn’t like hers."
+},
+"lines": [
+[
+"B",
+"Um...Your lunch looks so pretty and yummy. Pumpkin, green vegetables, fried eggs and fruit."
+],
+[
+"G",
+"Umm. Yeah, but if you eat it every day, you won't feel that excited."
+],
+[
+"B",
+"I know. Look at mine. It's always chicken sandwich, chocolate cookies and the juice."
+],
+[
+"G",
+"I love that. How about I eat yours, and you eat mine?"
+],
+[
+"B",
+"Sounds great!"
+],
+[
+"Question",
+"Do the boy and the girl like their own lunches?"
+]
+]
+},
+{
+"n": 16,
+"ans": "A",
+"opts": {
+"A": "It is not good.",
+"B": "It is as good as before.",
+"C": "It is better than he hoped."
+},
+"lines": [
+[
+"M",
+"Good morning. Oh, hi, Mrs. Anderson."
+],
+[
+"W",
+"Hi, Den. How's business today?"
+],
+[
+"M",
+"Well. You're the first person I've seen this morning. So...."
+],
+[
+"W",
+"But, it's almost noon."
+],
+[
+"M",
+"I know. It's been a quiet morning."
+],
+[
+"W",
+"Where are all the people?"
+],
+[
+"M",
+"In the new shopping center I guess."
+],
+[
+"W",
+"People like to go there these days, don't they? But I like your store better. Near, friendly and has everything I need."
+],
+[
+"M",
+"I wish there were more people like you, Mrs. Anderson."
+],
+[
+"Question",
+"How was business at the man's shop?"
+]
+]
+},
+{
+"n": 17,
+"ans": "A",
+"opts": {
+"A": "Have lunch in Room 503.",
+"B": "Go to Room 401 for the talk.",
+"C": "Find someone in a red T-shirt."
+},
+"lines": [
+[
+"M",
+"We'll now have lunch break from 11:30 a.m. to 12:30 p.m. Box lunches are ready in the large meeting room 503. We invite you to pick up a box lunch and take a seat there. The first talk in the afternoon will start at 12:40 p.m. in room 401 on the fourth floor. Please be there on time for the talk. If you have any questions, feel free to go to anyone in a red T-shirt. They'll be happy to help you. Thank you."
+],
+[
+"Question",
+"What does the man telling people to do now?"
+]
+]
+},
+{
+"n": 18,
+"ans": "C",
+"opts": {
+"A": "How to choose a good Christmas tree.",
+"B": "What to do when there is a fire in their home.",
+"C": "How to keep fire away from the Christmas tree."
+},
+"lines": [
+[
+"",
+"(Jingle bells, Jingle bells, Jingle all the way)"
+],
+[
+"M",
+"This is Nathan Myers from the Blue Lake City Fire Department. I'm here to share with you a few ideas for a safe Christmas tree. First, buy a tree that is freshly cut. Check all the lights before you put them on the tree. Never put candles near the Christmas tree. When the tree begins to look yellow and dry, it's time to get it out of the house. The Blue Lake City Fire Department wishes you a very happy and safe Christmas."
+],
+[
+"Question",
+"What is the man talking about?"
+]
+]
+},
+{
+"n": 19,
+"ans": "A",
+"opts": {
+"A": "They are not young anymore.",
+"B": "They got burned by the scooter.",
+"C": "They do not have time to travel."
+},
+"lines": [
+[
+"W",
+"Ah, my back. Ah, it hurt so much."
+],
+[
+"M",
+"My legs, too. It killed me to ride so far and for so long."
+],
+[
+"W",
+"Time has left its mark on us."
+],
+[
+"M",
+"Now I understand why people our age don't travel by scooter. It really is a kids' thing."
+],
+[
+"W",
+"Yeah, I mean an hour and a half on a scooter? I haven't done that for ...Wow! More than ten years."
+],
+[
+"M",
+"And I don't think I'll ever do it again."
+],
+[
+"Question",
+"When the woman says, \"Time has left its mark on us\", what does she mean?"
+]
+]
+},
+{
+"n": 20,
+"ans": "C",
+"opts": {
+"A": "Hank Biden died when Dark Mountain came out.",
+"B": "She likes Dark Mountain more than Sing with Me.",
+"C": "She thought Jason Smith appeared in Dark Mountain."
+},
+"lines": [
+[
+"W",
+"You know what? I think Jason Smith is one of the best actors in the world."
+],
+[
+"M",
+"I know. He's my favorite star, too. So, have you seen his movie \"Sing with Me\"?"
+],
+[
+"W",
+"No, I haven't. But he was so good in \"Dark Mountain\"."
+],
+[
+"M",
+"What? That's Hank Biden."
+],
+[
+"W",
+"But isn't Biden the actor, who died young?"
+],
+[
+"M",
+"They both did. But they were two different people. I'll show you their pictures. Let me get my phone. Look!"
+],
+[
+"W",
+"Oh, Okay. But don't you think they look like each other?"
+],
+[
+"M",
+"No. Not at all."
+],
+[
+"Question",
+"Why does the woman talk about the movie \"Dark Mountain\"?"
+]
+]
+},
+{
+"n": 21,
+"ans": "A",
+"opts": {
+"A": "Have dinner.",
+"B": "Go to a bookstore.",
+"C": "Buy movie tickets."
+},
+"lines": [
+[
+"M",
+"Bad news! The seats for the five o'clock are all sold out."
+],
+[
+"W",
+"What? And the six thirty?"
+],
+[
+"M",
+"Are you OK with seats in the second row?"
+],
+[
+"W",
+"Nah. I don't wanna sit too close to the screen."
+],
+[
+"M",
+"Then, no. We can only watch the seven thirty."
+],
+[
+"W",
+"But that's almost three hours away. What are we going to do before the movie?"
+],
+[
+"M",
+"Well, we could have an early dinner. Then maybe we could go check out that new bookstore."
+],
+[
+"W",
+"(sign) Yeah, ok, I guess. Oh, should we buy the tickets first?"
+],
+[
+"M",
+"Already did."
+],
+[
+"Question",
+"What are the man and the woman going to do first?"
+]
+]
+}
+],
+"112": [
+{
+"n": 1,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"Some ducks are swimming in the pond and some turtles are sitting on the rocks."
+]
+]
+},
+{
+"n": 2,
+"ans": "A",
+"opts": {},
+"lines": [
+[
+"",
+"The umbrella is lying under the window."
+]
+]
+},
+{
+"n": 3,
+"ans": "B",
+"opts": {},
+"lines": [
+[
+"",
+"The girl looks very tired with all the shopping bags in her hands. 二、 基本問答:根據聽到的內容,選出一個最適合的回應 或最適合的問句。"
+]
+]
+},
+{
+"n": 4,
+"ans": "C",
+"opts": {
+"A": "Tea eggs are my favorite.",
+"B": "We have thirty-five dollars.",
+"C": "There are five in the refrigerator."
+},
+"lines": [
+[
+"",
+"How many eggs do we have? I want to make fried rice."
+]
+]
+},
+{
+"n": 5,
+"ans": "C",
+"opts": {
+"A": "Oh, you’re hungry, too?",
+"B": "Why not? That’s my seat.",
+"C": "Oh, sorry. I didn’t know that."
+},
+"lines": [
+[
+"",
+"Excuse me, but you can't eat in the metro."
+]
+]
+},
+{
+"n": 6,
+"ans": "B",
+"opts": {
+"A": "I like dogs very much.",
+"B": "I usually go swimming.",
+"C": "I exercise three times a week."
+},
+"lines": [
+[
+"",
+"What do you like to do on the weekend?"
+]
+]
+},
+{
+"n": 7,
+"ans": "A",
+"opts": {
+"A": "She said yes.",
+"B": "She enjoyed it.",
+"C": "She is very fast."
+},
+"lines": [
+[
+"",
+"I heard you invited Elisa to your party. What did she say?"
+]
+]
+},
+{
+"n": 8,
+"ans": "B",
+"opts": {
+"A": "No, I haven’t.",
+"B": "Good, thanks.",
+"C": "How are you?"
+},
+"lines": [
+[
+"",
+"It's been a long time since we last met. How have you been?"
+]
+]
+},
+{
+"n": 9,
+"ans": "C",
+"opts": {
+"A": "Where did you find him?",
+"B": "Oh yeah, I’ve already told him.",
+"C": "Wait a minute, please. I’ll get him for you."
+},
+"lines": [
+[
+"",
+"Excuse me. I'm looking for a John Smith. I was told I could find him here."
+]
+]
+},
+{
+"n": 10,
+"ans": "B",
+"opts": {
+"A": "Well, it’s good to know.",
+"B": "Well, I don’t remember.",
+"C": "Well, he won’t listen to me."
+},
+"lines": [
+[
+"",
+"Hey, listen! What's the name of this song? Grandpa used to sing it to us."
+]
+]
+},
+{
+"n": 11,
+"ans": "C",
+"opts": {
+"A": "Yes, I’ll order now.",
+"B": "Yes, I can have a drink.",
+"C": "Yes, I’ll have a coffee, please."
+},
+"lines": [
+[
+"",
+"Can I get you something to drink while you're looking at the menu? 三、 言談理解:根據聽到的內容,選出一個最適合的答案 。"
+]
+]
+},
+{
+"n": 12,
+"ans": "C",
+"opts": {
+"A": "The girl’s brother.",
+"B": "The girl’s neighbor.",
+"C": "The girl’s classmate."
+},
+"lines": [
+[
+"W",
+"Hey, Ted. What did the teacher just say?"
+],
+[
+"M",
+"Lesson One and Four will be on the test tomorrow."
+],
+[
+"W",
+"Oh, no. Can I go to your house and study?"
+],
+[
+"M",
+"Hmm, why?"
+],
+[
+"W",
+"My neighbor is going to have a party tonight. I can't study with all that noise."
+],
+[
+"M",
+"Oh. OK, but I need to ask my mom and dad first."
+],
+[
+"W",
+"Thanks."
+],
+[
+"Question",
+"Who is the boy?"
+]
+]
+},
+{
+"n": 13,
+"ans": "B",
+"opts": {
+"A": "She needs to study.",
+"B": "She isn’t wearing sports shoes.",
+"C": "She doesn’t like to play basketball."
+},
+"lines": [
+[
+"M",
+"Hey, Ariana, let's play basketball together."
+],
+[
+"W",
+"Well, I would like to, but I can't."
+],
+[
+"M",
+"Why not? Do you need to study?"
+],
+[
+"W",
+"No. I don't have the right shoes today. Maybe next time."
+],
+[
+"M",
+"OK."
+],
+[
+"Question",
+"Why doesn't the woman play basketball with the man?"
+]
+]
+},
+{
+"n": 14,
+"ans": "A",
+"opts": {
+"A": "To keep themselves safe.",
+"B": "To help move their desks.",
+"C": "To do exercises with their teachers."
+},
+"lines": [
+[
+"M",
+"(sound of alarm) Attention, please. Attention, please. There is an earthquake happening right now. Everyone, hide under your desk, stay on your knees, and hold onto your head with your arms and hands. Be careful. Things may drop from above. Keep quiet, and do not come out until your teachers tell you to."
+],
+[
+"Question",
+"What does the man tell the students to do?"
+]
+]
+},
+{
+"n": 15,
+"ans": "A",
+"opts": {
+"A": "Because her show was not successful.",
+"B": "Because she got a bad seat in the theater.",
+"C": "Because he did not stay until the end of the show."
+},
+"lines": [
+[
+"M",
+"I heard you had a theater show last night."
+],
+[
+"W",
+"Yeah, my first one."
+],
+[
+"M",
+"So, tell me about it. Did a lot of people come?"
+],
+[
+"W",
+"Oh, it was a very small show in a very small theater with just a few seats, but I think they both liked it."
+],
+[
+"M",
+"Both? There were only two people there?"
+],
+[
+"W",
+"Uh, by the end. Yeah."
+],
+[
+"M",
+"Oh, sorry."
+],
+[
+"Question",
+"Why did the man say he was sorry to the woman?"
+]
+]
+},
+{
+"n": 16,
+"ans": "A",
+"opts": {
+"A": "She was in Mr. Anderson’s class.",
+"B": "She asked a lot of questions in class.",
+"C": "She started a study group for the class."
+},
+"lines": [
+[
+"W",
+"What's wrong, Jason? You look worried."
+],
+[
+"M",
+"Yeah, I'm going to Mr. Anderson's class later. I feel like I'm dying."
+],
+[
+"W",
+"I know. I've been there."
+],
+[
+"M",
+"Oh, you were in his class, too?"
+],
+[
+"W",
+"Yeah, he always asked difficult questions that I couldn't answer."
+],
+[
+"M",
+"Yes. I spent a lot of time studying, but sometimes I can't even understand his questions."
+],
+[
+"W",
+"Well, I studied in a study group for this class and it helped a lot."
+],
+[
+"M",
+"That's a great idea. I'll try it."
+],
+[
+"Question",
+"What does the woman mean when she says \"I've been there?\""
+]
+]
+},
+{
+"n": 17,
+"ans": "B",
+"opts": {
+"A": "The woman likes pies from the bakery.",
+"B": "The pie the man made last year tasted bad.",
+"C": "The man will be too tired from making pies."
+},
+"lines": [
+[
+"M",
+"So, for Thanksgiving dinner, I'll still make a pumpkin pie like last year."
+],
+[
+"W",
+"Uh, let's just buy one from the bakery. We won't want you to be tired every year."
+],
+[
+"M",
+"It's no problem. Besides, everyone liked it."
+],
+[
+"W",
+"Well..."
+],
+[
+"M",
+"What? Everyone said that they never had such a great pie."
+],
+[
+"W",
+"Everyone said that they never had SUCH a pie."
+],
+[
+"M",
+"They finished it all real quick."
+],
+[
+"W",
+"Umm, did you actually see them eat it?"
+],
+[
+"M",
+"Well, John said they wanted to enjoy it on the balcony. Aunt Karen and Rose wanted to have it by the pond in the front yard while watching the ducks."
+],
+[
+"W",
+"I can only tell you that our neighbor's ducks and the birds all enjoyed your pie."
+],
+[
+"Question",
+"Why does the woman want to buy a pie for Thanksgiving this year?"
+]
+]
+},
+{
+"n": 18,
+"ans": "A",
+"opts": {},
+"lines": [
+[
+"M",
+"(sound of opening the door) Please come in. Let me show you the apartment. This is the living room. The kitchen and the dining room are on your left. The bedroom and the bathroom are on the other side. The bathroom is by the front door, and you get to it from both the bedroom and the living room. This way, visitors can use the bathroom without walking through your bedroom. Right across the bathroom is the dining room, and you can see in here the only door to the kitchen. This way, any smoke in the kitchen won't get into the living room. How do you like your apartment?"
+],
+[
+"Question",
+"Which picture shows the apartment the man is talking about?"
+]
+]
+},
+{
+"n": 19,
+"ans": "C",
+"opts": {
+"A": "In a restroom.",
+"B": "In a restaurant.",
+"C": "In a movie theater."
+},
+"lines": [
+[
+"W",
+"Oh, no. We got the middle seats."
+],
+[
+"M",
+"Isn't that good? Everyone wants middle seats."
+],
+[
+"W",
+"That usually is, but it'll be a lot of trouble when you need to go to the restroom. You know I just had a large cup of Coke at the restaurant. Oh, I really hate to keep saying \"excuse me \", \"excuse me\", \"excuse me\" to people."
+],
+[
+"M",
+"Then go to the restroom now. There are still ten minutes before the movie starts."
+],
+[
+"W",
+"Oh, stupid me!"
+],
+[
+"M",
+"Well, go now before there are a lot of people waiting."
+],
+[
+"Question",
+"Where are the man and the woman?"
+]
+]
+},
+{
+"n": 20,
+"ans": "C",
+"opts": {
+"A": "Ideas for creating a painting.",
+"B": "The stories behind a painting.",
+"C": "Tips for understanding a painting."
+},
+"lines": [
+[
+"W",
+"(sound of clapping) As an art lover, I visit museums a lot. Most of the time I see people standing in front of a painting, take a picture of it and then go on to the next painting. They spend less than ten seconds on each painting. They don't know what they are missing. You need to look at the painting and study it from different angles. What colors and shapes are used in the painting? How do they make you feel? If you don't feel the thing, that's okay. Go and find out stories behind the art work online. It helps you have a better idea of how the painting was created."
+],
+[
+"Question",
+"What is the woman talking about?"
+]
+]
+},
+{
+"n": 21,
+"ans": "A",
+"opts": {
+"A": "They have no idea at the moment.",
+"B": "They’ll ask them to stop the noise right away.",
+"C": "They’ll have a meeting with them the next day."
+},
+"lines": [
+[
+"",
+"(sound of noise)"
+],
+[
+"W",
+"Did you hear that? The Browns are making so much noise again."
+],
+[
+"M",
+"Oh, no!"
+],
+[
+"W",
+"It's two o'clock in the morning. I have to get up early for a meeting and now I can't sleep at all."
+],
+[
+"M",
+"OK, OK, don't worry. I'll go tell them to stop."
+],
+[
+"W",
+"But last time you knocked on the door, they didn't even answer it."
+],
+[
+"M",
+"Yeah, you're right. We should think of some other way to deal with them."
+],
+[
+"Question",
+"How are the man and the woman going to deal with the Browns? 四、 單一選擇題 1. ( )Look at the picture. The man is holding a of grapes in his hands. (A) bag (B) basket (C) bowl (D) box 答案:(B)"
+]
+]
+}
+],
+"113": [
+{
+"n": 1,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"The bird is sitting on the girl 's head."
+]
+]
+},
+{
+"n": 2,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"The boy and the girl are sharing a glass of lemon tea."
+]
+]
+},
+{
+"n": 3,
+"ans": "B",
+"opts": {},
+"lines": [
+[
+"",
+"When you look at the painting, you see a few houses near the bottom. The sky fills a large part of the painting."
+]
+]
+},
+{
+"n": 4,
+"ans": "C",
+"opts": {
+"A": "No, they moved out.",
+"B": "Yes, I have a pet dog.",
+"C": "No, I’m the only child."
+},
+"lines": [
+[
+"",
+"Do you have brothers or sisters?"
+]
+]
+},
+{
+"n": 5,
+"ans": "A",
+"opts": {
+"A": "Don’t worry. We won’t be late.",
+"B": "The movie is about two hours long.",
+"C": "Which movie are you interested in?"
+},
+"lines": [
+[
+"",
+"Hurry up! The movie starts in 10 minutes."
+]
+]
+},
+{
+"n": 6,
+"ans": "C",
+"opts": {
+"A": "It’s right there.",
+"B": "I feel sorry for you.",
+"C": "I was bitten by a dog."
+},
+"lines": [
+[
+"",
+"What happened to your right leg? It looks terrible."
+]
+]
+},
+{
+"n": 7,
+"ans": "A",
+"opts": {
+"A": "No, I can’t eat any more.",
+"B": "Sure, I never say no to meat.",
+"C": "Sorry, but we don’t have it today."
+},
+"lines": [
+[
+"",
+"I want to order another cheesecake. Would you like one too?"
+]
+]
+},
+{
+"n": 8,
+"ans": "B",
+"opts": {
+"A": "It’s been with me for ten years.",
+"B": "It’s small, gray, and has a long tail.",
+"C": "We call it Milky because it likes milk."
+},
+"lines": [
+[
+"",
+"Can you tell me what your dog looks like? I can help you look for it."
+]
+]
+},
+{
+"n": 9,
+"ans": "A",
+"opts": {
+"A": "It’s been about a year.",
+"B": "I’ll see him next time.",
+"C": "You can go to see him."
+},
+"lines": [
+[
+"",
+"When was the last time you saw Bill?"
+]
+]
+},
+{
+"n": 10,
+"ans": "C",
+"opts": {
+"A": "Sounds great. I can’t wait.",
+"B": "Yes, I have visited many interesting places.",
+"C": "I just can’t choose between Japan and France."
+},
+"lines": [
+[
+"",
+"Where have you decided to go for your vacation this year?"
+]
+]
+},
+{
+"n": 11,
+"ans": "B",
+"opts": {
+"A": "He feels proud of me.",
+"B": "The video game I wanted.",
+"C": "I practiced for a long time."
+},
+"lines": [
+[
+"",
+"What did Grandpa give you for winning the boat race?"
+]
+]
+},
+{
+"n": 12,
+"ans": "A",
+"opts": {
+"A": "It is not turned on.",
+"B": "There is no water inside.",
+"C": "The man forgot to put coffee beans in."
+},
+"lines": [
+[
+"M",
+"Why isn't the coffee machine working?"
+],
+[
+"W",
+"It's not ? It was OK when I used it yesterday."
+],
+[
+"M",
+"I pushed the button several times, but it just doesn't give me any coffee."
+],
+[
+"W",
+"Did you check to see if there's still water inside?"
+],
+[
+"M",
+"Yes."
+],
+[
+"W",
+"Did you put coffee beans in?"
+],
+[
+"M",
+"I did."
+],
+[
+"W",
+"Let me see."
+],
+[
+"W",
+"Well, next time, before you ask for help, make sure you've already turned the machine on."
+],
+[
+"Question",
+"Why is the coffee machine not working?"
+]
+]
+},
+{
+"n": 13,
+"ans": "B",
+"opts": {
+"A": "Take Bus 703 and walk there.",
+"B": "Take Bus 941.",
+"C": "Take a taxi."
+},
+"lines": [
+[
+"W",
+"Hello."
+],
+[
+"M",
+"Hey Grace, I'm now at Lompu train station. How do I get to Rainbow Art Park?"
+],
+[
+"W",
+"You can take bus 703 to Lompu Elementary School. It takes about 15 minutes. Then you walk for about 10 minutes to the park."
+],
+[
+"M",
+"What? A 10 minute walk in this hot weather will kill me!"
+],
+[
+"W",
+"OK, OK. Take bus 941 then. It stops right in front of the park, but it takes about 40 minutes. If you think that will take too long, just get a taxi."
+],
+[
+"M",
+"Well, 40 minutes sounds fine to me. Thanks."
+],
+[
+"Question",
+"How will the man get to Rainbow Art Park?"
+]
+]
+},
+{
+"n": 14,
+"ans": "B",
+"opts": {
+"A": "In front of the theater.",
+"B": "On West Street.",
+"C": "At a pet shop."
+},
+"lines": [
+[
+"W",
+"Harry, where are you? I just arrived."
+],
+[
+"M",
+"I'm here already."
+],
+[
+"W",
+"But I don't see you. Aren't we meeting in front of Galaxy Theater?"
+],
+[
+"M",
+"Yes, on West Street, right?"
+],
+[
+"W",
+"Don't tell me you're on West Street. The theater is not there."
+],
+[
+"M",
+"What? Then what is this place? It looks like a theater, and there's a sign that says new opening Galaxy Theater."
+],
+[
+"W",
+"It's not. They've been putting signs up everywhere to tell people about the opening. It's on South Street, next to the big pet shop."
+],
+[
+"M",
+"Oh no. Is it far? How do I get there?"
+],
+[
+"W",
+"It's OK. Just stay there. I'll come get you."
+],
+[
+"Question",
+"Where is the man?"
+]
+]
+},
+{
+"n": 15,
+"ans": "A",
+"opts": {
+"A": "The man’s hobby.",
+"B": "The man’s travel experience.",
+"C": "The pictures of the man’s sister."
+},
+"lines": [
+[
+"W",
+"Look at all these pencils! How many are there?"
+],
+[
+"M",
+"Two hundred, I guess?"
+],
+[
+"W",
+"Wow! You could open a store. I didn't know you collect pencils."
+],
+[
+"M",
+"Well, I didn't use to, but my sister used to like pencils with pretty pictures on them. So when I was abroad, I'd visit shops and see if there were any special pencils I could get for her. Then I started to like them, too. Now I just collect them for myself."
+],
+[
+"W",
+"Well, now I know what I can get you next time I'm abroad."
+],
+[
+"Question",
+"What are the man and the woman talking about?"
+]
+]
+},
+{
+"n": 16,
+"ans": "A",
+"opts": {
+"A": "It was free.",
+"B": "It was delicious.",
+"C": "It was sent to their house."
+},
+"lines": [
+[
+"M",
+"How much did you pay for our dinner? Was it expensive?"
+],
+[
+"W",
+"No worries. I didn't pay a cent."
+],
+[
+"M",
+"You must be joking. Why?"
+],
+[
+"W",
+"I just met my elementary school classmate, Tina. She is the owner of this restaurant! She said our meal was on the house."
+],
+[
+"M",
+"That's so nice! And the food was really good. We must come again."
+],
+[
+"W",
+"For sure."
+],
+[
+"Question",
+"What did the woman mean when she said \"the meal was on the house\"?"
+]
+]
+},
+{
+"n": 17,
+"ans": "C",
+"opts": {
+"A": "Her Christmas plan.",
+"B": "Tips on cooking Chinese dishes.",
+"C": "Her Chinese New Year experience."
+},
+"lines": [
+[
+"W",
+"Early this year, Ping Ping invited me to a Chinese New Year's dinner with her family. They had so many dishes: fish, chicken, pork, hot pot, and rice cakes. While we were enjoying the big meal, I got red envelopes and cooking tips. We also played cards. It was so much fun. Maybe I should invite Ping Ping and her family to come over next month for Christmas."
+],
+[
+"Question",
+"What is the woman mainly talking about?"
+]
+]
+},
+{
+"n": 18,
+"ans": "B",
+"opts": {},
+"lines": [
+[
+"M",
+"Hey, this is Charles from YY Dancing. I like what you did on the T-shirt for my dance club. It's nice that you put\"I love YY\"on the shirt. I'm also happy that you used a heart shape for the word\"love\"and didn't spell it out. But there's one thing I would like to change. Just putting \"YY\" is a little boring. I'm thinking of changing the Ys to two people dancing. Both of them are putting their hands on the ground, and their legs are up in the air, so each person looks like a Y. Please call me back if you have any questions. Thank you."
+],
+[
+"Question",
+"What does the man want the T-shirt to look like?"
+]
+]
+},
+{
+"n": 19,
+"ans": "A",
+"opts": {
+"A": "Don’t stop the train leaving.",
+"B": "Move to the center of the train.",
+"C": "Let other people get on the train."
+},
+"lines": [
+[
+"W",
+"Good evening. Thank you for riding with City Metro. The train is full now. Please don't hold the doors open, or the train cannot leave the station. There is another train in two minutes. Please stand back and wait behind the yellow line. Thank you for your understanding."
+],
+[
+"Question",
+"What is the woman telling people?"
+]
+]
+},
+{
+"n": 20,
+"ans": "B",
+"opts": {
+"A": "He enjoyed it.",
+"B": "He did not like it.",
+"C": "He was sorry he didn’t eat it."
+},
+"lines": [
+[
+"W",
+"So how was Sarah's party? John said she baked a lot of cakes and pies and cookies."
+],
+[
+"M",
+"Oh, she did. Umm... Did John tell you what he thought about them?"
+],
+[
+"W",
+"Well, he said he had never eaten anything like that before. Were they really that good?"
+],
+[
+"M",
+"Well... I... Umm... There's really no word for Sarah's food."
+],
+[
+"W",
+"Really? Wow! Now I feel sorry that I didn't go to the party."
+],
+[
+"M",
+"I'm sorry that I did."
+],
+[
+"Question",
+"What did the man think about the food at the party?"
+]
+]
+},
+{
+"n": 21,
+"ans": "C",
+"opts": {
+"A": "Whether everyone at work will like him.",
+"B": "Whether he will get a call for a job interview.",
+"C": "Whether he will get the job he interviewed for."
+},
+"lines": [
+[
+"M",
+"Why haven't they called? Why haven't they called?"
+],
+[
+"W",
+"Who hasn't called?"
+],
+[
+"M",
+"A&C Foods. I had a job interview there last week, and they said they'd call this week."
+],
+[
+"W",
+"It's only Tuesday. Maybe they'll call tomorrow."
+],
+[
+"M",
+"Tomorrow? Why? Why?"
+],
+[
+"W",
+"I don't know. Maybe they interviewed many people, and they need time to decide."
+],
+[
+"M",
+"Need time to decide? Am I not good enough? I did very well at the interview and they liked me, and everyone was happy and smiling."
+],
+[
+"W",
+"OK. Maybe I should stop talking."
+],
+[
+"Question",
+"What is the man worried about?"
+]
+]
+}
+],
+"114": [
+{
+"n": 1,
+"ans": "A",
+"opts": {},
+"lines": [
+[
+"",
+"The girl is taking a picture of the foxes."
+]
+]
+},
+{
+"n": 2,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"The girl is eating popcorn and watching a movie on her computer."
+]
+]
+},
+{
+"n": 3,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"The typhoon will move over the north of the island. It is going to hit the land at six thirty and leave before noon."
+]
+]
+},
+{
+"n": 4,
+"ans": "B",
+"opts": {
+"A": "I love my job.",
+"B": "Usually by metro.",
+"C": "Usually at six thirty."
+},
+"lines": [
+[
+"",
+"How do you usually go to work?"
+]
+]
+},
+{
+"n": 5,
+"ans": "A",
+"opts": {
+"A": "Just leave them on the table.",
+"B": "They’re in the wrong drawer.",
+"C": "I need them for tomorrow’s test."
+},
+"lines": [
+[
+"",
+"Excuse me, where should I put these pencils?"
+]
+]
+},
+{
+"n": 6,
+"ans": "B",
+"opts": {
+"A": "Yes, a dress.",
+"B": "Your favorite apple pie.",
+"C": "I bought some new plates."
+},
+"lines": [
+[
+"",
+"What's in the kitchen? It smells great."
+]
+]
+},
+{
+"n": 7,
+"ans": "A",
+"opts": {
+"A": "Sure, what is it?",
+"B": "Really? That’s crazy.",
+"C": "I haven’t heard of it before."
+},
+"lines": [
+[
+"",
+"I've got a crazy idea. Do you want to hear it?"
+]
+]
+},
+{
+"n": 8,
+"ans": "B",
+"opts": {
+"A": "Hurry up! Let’s run for it.",
+"B": "Don’t worry. I can give you a ride.",
+"C": "Sorry. Please come again some other time."
+},
+"lines": [
+[
+"",
+"Oh, no. I just missed the last bus. Now I have to walk home."
+]
+]
+},
+{
+"n": 9,
+"ans": "C",
+"opts": {
+"A": "Yes, it tastes delicious.",
+"B": "OK. See you at seven.",
+"C": "No, I’m not really hungry."
+},
+"lines": [
+[
+"",
+"Aren't you going to have some dinner? It's seven already."
+]
+]
+},
+{
+"n": 10,
+"ans": "A",
+"opts": {
+"A": "I taught myself.",
+"B": "I won a prize once.",
+"C": "I take lessons twice a week."
+},
+"lines": [
+[
+"",
+"I didn't know that you could play the piano so well. Who was your teacher?"
+]
+]
+},
+{
+"n": 11,
+"ans": "B",
+"opts": {
+"A": "I’m not sure if he’s with me.",
+"B": "No, have you tried calling him?",
+"C": "Yes, you can ask him by yourself."
+},
+"lines": [
+[
+"",
+"Do you know where I can find Dr. Holland? I need to talk to him."
+]
+]
+},
+{
+"n": 12,
+"ans": "B",
+"opts": {
+"A": "Make him a card.",
+"B": "Cook him a nice dinner.",
+"C": "Take him to a restaurant."
+},
+"lines": [
+[
+"M",
+"Hey, Lisa. Are you ready for Father's Day?"
+],
+[
+"W",
+"Well, I'm thinking to make Dad a card. What do you think?"
+],
+[
+"M",
+"But he already has a lot of cards. We make him cards every year. Any other ideas?"
+],
+[
+"W",
+"Why don't we take him to that new restaurant? I heard it's very good."
+],
+[
+"M",
+"Yeah, it is. But I'm afraid everyone wants to take their dad there, and Father's Day is tomorrow. It's too late to get a table now."
+],
+[
+"W",
+"Maybe we could cook a nice dinner for him. It's more comfortable at home, isn't it?"
+],
+[
+"M",
+"Yeah, that's a good idea!"
+],
+[
+"Question",
+"What are the man and the woman going to do for their father?"
+]
+]
+},
+{
+"n": 13,
+"ans": "A",
+"opts": {
+"A": "Cookies, milk, and tomatoes.",
+"B": "Cookies, milk, ice cream, and tomatoes.",
+"C": "Cookies, milk, tomatoes, and sandwiches."
+},
+"lines": [
+[
+"M",
+"Hey honey, could you help me do some shopping on your way home? I need cookies, milk and ice cream. Hmm... Maybe no ice cream this time. Oh, I also want some tomatoes. I'm going to make sandwiches. That's all for now. Thanks. See you later."
+],
+[
+"Question",
+"What does the man need from the shop?"
+]
+]
+},
+{
+"n": 14,
+"ans": "C",
+"opts": {
+"A": "In a gift shop.",
+"B": "In a bookstore.",
+"C": "In a clothes shop."
+},
+"lines": [
+[
+"M",
+"It's one thousand five hundred dollars."
+],
+[
+"W",
+"Here."
+],
+[
+"M",
+"Thanks. Remember to wash it in cold water and hang it to dry."
+],
+[
+"W",
+"OK, thanks."
+],
+[
+"M",
+"Do you need a bag?"
+],
+[
+"W",
+"Ehh... Can I have a box for the shirt? It's a gift."
+],
+[
+"M",
+"Sorry. I'm afraid we only have paper bags."
+],
+[
+"W",
+"That's okay. Do you know where I can get a box?"
+],
+[
+"M",
+"There is a gift shop on the second floor next to a candy shop."
+],
+[
+"W",
+"Great. Thank you."
+],
+[
+"Question",
+"Where are the man and the woman?"
+]
+]
+},
+{
+"n": 15,
+"ans": "A",
+"opts": {
+"A": "He almost hit someone.",
+"B": "He drove around a corner.",
+"C": "He was trying to answer a call."
+},
+"lines": [
+[
+"M",
+"I had a close call today."
+],
+[
+"W",
+"Really? What happened?"
+],
+[
+"M",
+"I was driving around a corner, and I didn't notice a man was crossing the street. He just suddenly appeared! Lucky for us, he jumped out of the way at just the right moment, so I missed him."
+],
+[
+"W",
+"Be more careful next time."
+],
+[
+"M",
+"I know. I was just trying to answer a phone call while I was driving."
+],
+[
+"Question",
+"What did the man mean when he said \"I had a close call\"?"
+]
+]
+},
+{
+"n": 16,
+"ans": "A",
+"opts": {
+"A": "The man’s class.",
+"B": "The woman’s class.",
+"C": "Lily’s class."
+},
+"lines": [
+[
+"W",
+"Hey, Scott. Is your class ready for tomorrow?"
+],
+[
+"M",
+"Sure. We've baked some pies and bought some fruit for making juice. How about yours?"
+],
+[
+"W",
+"We're not selling food. We'll invite people to paint cups and plates."
+],
+[
+"M",
+"That sounds interesting. I'll visit your stand if I have time."
+],
+[
+"W",
+"Do you know what Lily's class is going to do?"
+],
+[
+"M",
+"They're preparing some games."
+],
+[
+"Question",
+"Whose class is going to sell food?"
+]
+]
+},
+{
+"n": 17,
+"ans": "B",
+"opts": {
+"A": "She tries to make him feel bad.",
+"B": "She wants him to enjoy his birthday.",
+"C": "She can deal with dirty plates herself."
+},
+"lines": [
+[
+"W",
+"We're all looking for you. What are you doing here in the kitchen?"
+],
+[
+"M",
+"I'm washing plates. We need more for the cake later."
+],
+[
+"W",
+"Now I feel like I'm a bad friend. We're here to celebrate your birthday today, and you're washing plates for us."
+],
+[
+"M",
+"No worries. I'll be out in a minute. I've only got a few more to wash."
+],
+[
+"W",
+"Let me."
+],
+[
+"M",
+"Are you sure?"
+],
+[
+"W",
+"Hey! I know I'm not as good at housework as you, but I can deal with a few dirty plates, all right?"
+],
+[
+"M",
+"OK! Don't break them."
+],
+[
+"W",
+"I won't. Now go and have fun."
+],
+[
+"Question",
+"Why won't the woman let the man wash the plates?"
+]
+]
+},
+{
+"n": 18,
+"ans": "C",
+"opts": {
+"A": "Because she wants a better job.",
+"B": "Because she already found a job.",
+"C": "Because she lied in the job interview."
+},
+"lines": [
+[
+"W",
+"Remember the interview I had last week? They just called to tell me I got the job."
+],
+[
+"M",
+"I'm so happy for you! But why do you sound worried?"
+],
+[
+"W",
+"Well, I think they gave me the job because I told them I speak Chinese."
+],
+[
+"M",
+"Why did you do that? You can only say \"Xiao Long Bao\" and \"Xie Xie.\""
+],
+[
+"W",
+"I know, I know. But it is my dream job."
+],
+[
+"M",
+"But if they find out, you'll be in trouble. I'm sure you'll find a better job if you keep looking."
+],
+[
+"W",
+"I'm not sure if I can, but still, I'll call them and tell them that I'm not taking the job."
+],
+[
+"M",
+"You'll be glad that you did."
+],
+[
+"Question",
+"Why has the woman decided not to take the job?"
+]
+]
+},
+{
+"n": 19,
+"ans": "B",
+"opts": {
+"A": "What days the garbage truck comes.",
+"B": "How garbage is collected in Taiwan.",
+"C": "Which music garbage trucks in Taiwan play."
+},
+"lines": [
+[
+"M",
+"Did you hear the music? Is there a show on the street tonight?"
+],
+[
+"W",
+"No. That's the garbage truck music in Taiwan. When people hear it, they know the garbage truck is coming. They take out their garbage and throw it into the truck."
+],
+[
+"M",
+"That's new to me. In my country, people just leave their garbage in front of their houses, and someone will collect it in the middle of the night."
+],
+[
+"W",
+"That sounds much more convenient."
+],
+[
+"M",
+"I guess so. Oh, I actually have some trash in my room. I should take it out now."
+],
+[
+"W",
+"Then you should hurry. The garbage truck stops for only five minutes."
+],
+[
+"Question",
+"What is the woman telling the man?"
+]
+]
+},
+{
+"n": 20,
+"ans": "B",
+"opts": {
+"A": "She thinks the man knows Alan well.",
+"B": "She does not think Alan will move to America.",
+"C": "She thinks Alan will move to America next year."
+},
+"lines": [
+[
+"M",
+"You know what? Alan told me he plans to move to America this Christmas!"
+],
+[
+"W",
+"And?"
+],
+[
+"M",
+"This is big news!"
+],
+[
+"W",
+"To you, yes. You only just met him. I don't know how many times I've heard him say the same thing over the past five years."
+],
+[
+"M",
+"But he sounded very serious."
+],
+[
+"W",
+"Well, you'll know what I mean next year."
+],
+[
+"Question",
+"Why does the woman say \"You'll know what I mean next year\"?"
+]
+]
+},
+{
+"n": 21,
+"ans": "C",
+"opts": {
+"A": "The game will begin soon.",
+"B": "The snacks at the food stands are free.",
+"C": "People have to wait until the rain stops."
+},
+"lines": [
+[
+"M",
+"[singing] Take me out to the ball game. Take me out with the crowd..."
+],
+[
+"M",
+"Good afternoon, ladies and gentlemen. We hope you are enjoying today's baseball game. Because of the rain, we will now take a long break. The rain is expected to get heavier the next twenty minutes, but it should stop in an hour. During this time, all snacks at our food stands come with a free drink. Go get yourself a basket of fries and a drink. We'll let you know when the game will begin again. Thank you for understanding."
+],
+[
+"Question",
+"What is the man trying to say?"
+]
+]
+}
+],
+"115": [
+{
+"n": 1,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"The man is sailing his boat in terrible weather."
+]
+]
+},
+{
+"n": 2,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"There is a bell on the door of apartment number 77."
+]
+]
+},
+{
+"n": 3,
+"ans": "C",
+"opts": {},
+"lines": [
+[
+"",
+"The little girl and her dog are both enjoying their meal."
+]
+]
+},
+{
+"n": 4,
+"ans": "B",
+"opts": {
+"A": "Easter is coming.",
+"B": "Halloween is my favorite.",
+"C": "I’d like a watch for my birthday."
+},
+"lines": [
+[
+"",
+"What holiday do you like the best?"
+]
+]
+},
+{
+"n": 5,
+"ans": "B",
+"opts": {
+"A": "I don’t, either.",
+"B": "Sure, why not?",
+"C": "It is a great movie."
+},
+"lines": [
+[
+"",
+"Do you want to see a movie together?"
+]
+]
+},
+{
+"n": 6,
+"ans": "C",
+"opts": {
+"A": "Thank you for the pie.",
+"B": "Who do you want to invite?",
+"C": "Some chocolate cake would be good."
+},
+"lines": [
+[
+"",
+"What should we bring to the dinner party?"
+]
+]
+},
+{
+"n": 7,
+"ans": "A",
+"opts": {
+"A": "All right. Good night.",
+"B": "Good morning to you, too.",
+"C": "OK, be careful on the road."
+},
+"lines": [
+[
+"",
+"I'm going to bed now. I'll see you in the morning."
+]
+]
+},
+{
+"n": 8,
+"ans": "A",
+"opts": {
+"A": "No, it’s not mine.",
+"B": "No, it’s not raining.",
+"C": "No, it’s not my table."
+},
+"lines": [
+[
+"",
+"Excuse me, is this your umbrella? It was under the table you were at."
+]
+]
+},
+{
+"n": 9,
+"ans": "A",
+"opts": {
+"A": "I’m glad you like it.",
+"B": "How was your Christmas?",
+"C": "You look good in the photos."
+},
+"lines": [
+[
+"",
+"Thanks so much for the camera. It's the best Christmas gift ever."
+]
+]
+},
+{
+"n": 10,
+"ans": "B",
+"opts": {
+"A": "How much time do you need?",
+"B": "You should be proud of yourself.",
+"C": "I’m surprised you haven’t started."
+},
+"lines": [
+[
+"",
+"I finally finished my painting for the City Art Festival after so many months."
+]
+]
+},
+{
+"n": 11,
+"ans": "B",
+"opts": {
+"A": "Yes. Did you like it?",
+"B": "Actually, you’re the first one.",
+"C": "No, I don’t want to be a doctor."
+},
+"lines": [
+[
+"",
+"Has anyone said you look like the handsome doctor in the movie The Big Hospital?"
+]
+]
+},
+{
+"n": 12,
+"ans": "A",
+"opts": {
+"A": "To go to the gym.",
+"B": "To clean their classroom.",
+"C": "To meet at the playground."
+},
+"lines": [
+[
+"M",
+"Hey everyone, cleaning time is over. Don't forget to put your cleaning tools back. It's raining now, so Mr. Lee says we'll have PE Class in the gym, not on the school playground. Hurry up."
+],
+[
+"Question",
+"What is the boy telling his class to do?"
+]
+]
+},
+{
+"n": 13,
+"ans": "A",
+"opts": {
+"A": "Today.",
+"B": "Next week.",
+"C": "When it plays on TV."
+},
+"lines": [
+[
+"W",
+"This is crazy. I don't want to wait in such a long line just to get tickets to a movie."
+],
+[
+"M",
+"I didn't expect so many people to be interested in this movie."
+],
+[
+"W",
+"Are you sure you want to see it today? Can we come some other time?"
+],
+[
+"M",
+"Oh, please. I'll be super busy next week and won't have time, and I don't want to wait until it plays on TV. It'll be more exciting to see this movie on the big screen."
+],
+[
+"W",
+"All right, all right."
+],
+[
+"M",
+"I can wait. Why don't you go look around the area? I'll call you when I get the tickets."
+],
+[
+"W",
+"Good idea."
+],
+[
+"Question",
+"When do the man and woman decide to see the movie?"
+]
+]
+},
+{
+"n": 14,
+"ans": "B",
+"opts": {
+"A": "Use their time well.",
+"B": "Check their eye health.",
+"C": "Follow rules during a hospital visit."
+},
+"lines": [
+[
+"W",
+"Between your work, your friends, and family, life can be very busy. But it is time for you to stop and ask yourself this, \"When was the last time you had the doctor check your eyes?\" Millions of people in our country have common eye problems and don't even know it. Remember, your eyes are the windows to your health. Take time for yourself and plan a visit to the hospital. For more information, please visit www.nec.nch.gov"
+],
+[
+"Question",
+"What does the woman want people to do?"
+]
+]
+},
+{
+"n": 15,
+"ans": "A",
+"opts": {
+"A": "They both did badly.",
+"B": "The boy did badly, but the girl did well.",
+"C": "The boy did well, but the girl did badly."
+},
+"lines": [
+[
+"W",
+"Did you do well on the test yesterday?"
+],
+[
+"M",
+"I don't want to talk about it. You did well, didn't you?"
+],
+[
+"W",
+"Well, I..."
+],
+[
+"M",
+"Oh, wait, no. Don't tell me. I don't want to feel worse about myself."
+],
+[
+"W",
+"Well, my dad said he would buy me a new cell phone if I got a good grade on the test. Now I can kiss that cell phone goodbye. Maybe I won't even be able to keep my old cell phone when he knows about my grade."
+],
+[
+"M",
+"Life is hard."
+],
+[
+"W",
+"Tests are harder."
+],
+[
+"Question",
+"How did the boy and the girl do on the test yesterday?"
+]
+]
+},
+{
+"n": 16,
+"ans": "C",
+"opts": {
+"A": "He misses it.",
+"B": "He feels excited about it.",
+"C": "He doesn’t really enjoy it."
+},
+"lines": [
+[
+"W",
+"Hey, I haven't seen you for a while."
+],
+[
+"M",
+"Yeah, I moved to Lake City for work. I just came back to see some friends."
+],
+[
+"W",
+"Lake City, huh? Life in the big city must be very exciting."
+],
+[
+"M",
+"Yeah, well...I guess you could say that. Most people think so."
+],
+[
+"W",
+"But you don't?"
+],
+[
+"M",
+"Well, Lake City is different."
+],
+[
+"W",
+"Different?"
+],
+[
+"M",
+"Yeah, it's not home."
+],
+[
+"W",
+"And you miss home."
+],
+[
+"M",
+"Yeah."
+],
+[
+"Question",
+"How does the man feel about his life in Lake City?"
+]
+]
+},
+{
+"n": 17,
+"ans": "B",
+"opts": {
+"A": "It gave very little food.",
+"B": "Its food and service were bad.",
+"C": "It allowed people to bring their pets."
+},
+"lines": [
+[
+"W",
+"Have you tried the new restaurant?"
+],
+[
+"M",
+"Yeah, it's very popular, and I waited over an hour to get in."
+],
+[
+"W",
+"How did you like it?"
+],
+[
+"M",
+"It was for the birds."
+],
+[
+"W",
+"Why do you say that?"
+],
+[
+"M",
+"My French fries were actually swimming in oil, so I left most of them. And the restaurant owner didn't do anything after his dog jumped up on my table and had a bite of my bread."
+],
+[
+"W",
+"That's the most interesting dining experience I've heard."
+],
+[
+"Question",
+"Why does the man say the new restaurant was for the birds?"
+]
+]
+},
+{
+"n": 18,
+"ans": "A",
+"opts": {
+"A": "Nothing.",
+"B": "Start a fight with her.",
+"C": "Talk to her and ask her to stop."
+},
+"lines": [
+[
+"M",
+"Rita has written a lot of things about you on the Internet. Did you know that?"
+],
+[
+"W",
+"Yeah, I've read them, and they are not true."
+],
+[
+"M",
+"I know. What are you going to do? I'm on your side if you want to start a fight with her."
+],
+[
+"W",
+"Why should I? I have better things to do than thinking of ways to deal with her."
+],
+[
+"M",
+"Like what?"
+],
+[
+"W",
+"Like cook a big meal for myself and play with my cat."
+],
+[
+"M",
+"Maybe you should at least talk to her and ask her to stop."
+],
+[
+"W",
+"Well, words only hurt when they come from someone I care about. Rita is not my friend."
+],
+[
+"Question",
+"What is the woman going to do to deal with Rita?"
+]
+]
+},
+{
+"n": 19,
+"ans": "A",
+"opts": {
+"A": "He will not read them.",
+"B": "He is studying too hard.",
+"C": "He knows how to enjoy his vacation."
+},
+"lines": [
+[
+"W",
+"Luis, the trip is tomorrow. Have you packed everything you need?"
+],
+[
+"M",
+"I've got almost everything ready, maybe one more pair of jeans and some books."
+],
+[
+"W",
+"Why are you bringing books with you? We're going abroad on a vacation."
+],
+[
+"M",
+"I'm thinking of reading on the plane. And when we're back in the hotel, I'll read too."
+],
+[
+"W",
+"You said the same thing last time, but you just watched movies on the plane, and in the hotel, you were too busy with your smartphone. The books you brought sat in your bag the whole time."
+],
+[
+"M",
+"I'll read this time."
+],
+[
+"W",
+"Then bring just one."
+],
+[
+"Question",
+"What does the woman think when the boy said he was bringing books on a vacation?"
+]
+]
+},
+{
+"n": 20,
+"ans": "B",
+"opts": {
+"A": "They will each ride their own bikes.",
+"B": "The girl will give the boy a ride on her bike.",
+"C": "The girl will ride a bike and the boy will walk."
+},
+"lines": [
+[
+"W",
+"Let's go to the new ice cream shop."
+],
+[
+"M",
+"Yeah, but it's so hot today. I don't want to walk."
+],
+[
+"W",
+"I can ride my bike and you can sit on the back."
+],
+[
+"M",
+"What? But people will see. I'm your big brother."
+],
+[
+"W",
+"So, can you ride a bike?"
+],
+[
+"M",
+"No, but your bike is small and my legs are too long."
+],
+[
+"W",
+"I'm sure you can keep your feet off the ground."
+],
+[
+"M",
+"But I'll look stupid."
+],
+[
+"W",
+"Or you could walk. It's only 15 minutes away."
+],
+[
+"M",
+"You know what? I think it isn't so bad to keep my feet off the ground for once."
+],
+[
+"Question",
+"How will the boy and the girl go to the ice cream shop?"
+]
+]
+},
+{
+"n": 21,
+"ans": "A",
+"opts": {
+"A": "They are happy about it.",
+"B": "They don’t care about it.",
+"C": "They think differently about it."
+},
+"lines": [
+[
+"Anchor",
+"Welcome back, next on the news. Sunshine City has finally decided to move its trains underground. Let's listen to what people say about the new plan."
+],
+[
+"M1",
+"You know the trains share the streets with all the cars and buses. The traffic is always terrible. Finally somebody's doing something about it."
+],
+[
+"W",
+"I have waited so long for this change. Every day when I drive to work, I need to stop many times for trains to pass. It takes me so much time to get to work."
+],
+[
+"M2",
+"I think everyone will love it when the trains start running underground. Our driving time will be cut in half."
+],
+[
+"Question",
+"What do these three people think of Sunshine City's new plan?"
+]
+]
+}
+]
+}

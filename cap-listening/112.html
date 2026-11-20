@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>會考英聽 112 年｜逐題聽・逐句字幕・解析</title>
+<meta name="description" content="國中教育會考 112 年英語聽力測驗 21 題：逐題播放、逐句字幕、對答案與中文解析。">
+<style>
+:root{--bg:#f5f7f7;--card:#fff;--ink:#202a29;--soft:#566563;--rule:#dce3e1;--accent:#b0472e;--accent-soft:#f6e6e1;--ok:#1f7a4d;--ok-soft:#e1f2e8;--bad:#b3261e;--bad-soft:#fbe3e1;--hl:#fff1b8;--sub:#16302c;--subbg:#eef4f2;color-scheme:light}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Segoe UI","Microsoft JhengHei","PingFang TC",Arial,sans-serif;line-height:1.6}
+a{color:var(--accent)}
+button{font:inherit;cursor:pointer}
+:focus-visible{outline:3px solid #067e68;outline-offset:3px}
+.wrap{max-width:860px;margin:0 auto;padding:22px 16px 80px}
+header .crumb{font-size:14px;color:var(--soft);margin:0 0 6px}
+header .crumb a{color:var(--soft)}
+h1{font-size:26px;line-height:1.3;margin:0}
+h1 small{display:block;font-size:15px;font-weight:400;color:var(--soft);margin-top:4px}
+.lede{color:var(--soft);font-size:14px;margin:10px 0 0}
+.panel{background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:14px 16px;margin:16px 0}
+.panel h2{font-size:17px;margin:0 0 6px}
+.panel ol{margin:4px 0;padding-left:22px;font-size:14.5px}
+.controls{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;font-size:14px}
+.seg{display:inline-flex;border:1px solid var(--rule);border-radius:6px;overflow:hidden}
+.seg button{border:0;background:#fff;padding:6px 11px;color:var(--soft)}
+.seg button[aria-pressed="true"]{background:var(--accent);color:#fff;font-weight:700}
+.tally{margin-left:auto;color:var(--soft)}
+.btn{border:1px solid var(--rule);background:#fff;border-radius:6px;padding:6px 12px;color:var(--ink)}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:700}
+.btn:disabled{opacity:.45;cursor:default}
+nav.toc{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0}
+nav.toc a{font-size:13.5px;text-decoration:none;border:1px solid var(--rule);background:#fff;color:var(--ink);border-radius:5px;padding:4px 9px}
+.qmap{display:flex;flex-wrap:wrap;gap:5px;margin-top:10px}
+.qmap a{width:34px;height:30px;display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--rule);border-radius:5px;background:#fff;font-size:13px;text-decoration:none;color:var(--ink)}
+.qmap a.ok{background:var(--ok-soft);border-color:var(--ok);color:var(--ok);font-weight:700}
+.qmap a.bad{background:var(--bad-soft);border-color:var(--bad);color:var(--bad);font-weight:700}
+section.sec{margin-top:34px;scroll-margin-top:70px}
+section.sec>h2{font-size:21px;margin:0 0 6px;padding-bottom:6px;border-bottom:2px solid var(--ink)}
+.rule{font-size:14px;color:var(--soft);margin:4px 0}
+details.tip{background:var(--subbg);border-left:4px solid #3e6e52;border-radius:0 6px 6px 0;padding:8px 12px;margin:10px 0;font-size:14.5px}
+details.tip summary{cursor:pointer;font-weight:700;color:#3e6e52}
+.unit{background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:14px 16px;margin:14px 0;scroll-margin-top:70px}
+.unit.example{border-style:dashed;background:#fbfaf6}
+.uhead{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.uhead h3{margin:0;font-size:17px}
+.uhead .tag{font-size:12px;color:var(--soft);border:1px solid var(--rule);border-radius:4px;padding:1px 6px}
+.player{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:10px 0 4px}
+.play{display:inline-flex;align-items:center;gap:6px;background:var(--accent);color:#fff;border:0;border-radius:999px;padding:8px 16px;font-weight:700;min-height:40px}
+.play.on{background:#7a2e1d}
+.play svg{width:14px;height:14px;fill:currentColor}
+.prog{flex:1;min-width:120px;height:6px;background:var(--rule);border-radius:3px;overflow:hidden;cursor:pointer}
+.prog i{display:block;height:100%;width:0;background:var(--accent)}
+.time{font-size:12.5px;color:var(--soft);font-variant-numeric:tabular-nums;min-width:74px;text-align:right}
+.subtoggle{font-size:13.5px}
+.imgs img{max-width:100%;border:1px solid var(--rule);border-radius:6px;margin:8px 0;background:#fff}
+.sub{background:var(--subbg);border-radius:6px;padding:8px 10px;margin:8px 0;font-family:Georgia,"Times New Roman",serif;font-size:16px}
+.sub[hidden]{display:none}
+.sub p{margin:0;padding:3px 6px;border-radius:4px;cursor:pointer;color:var(--sub)}
+.sub p:hover{background:#dfeae6}
+.sub p.cur{background:var(--hl);box-shadow:inset 3px 0 0 var(--accent)}
+.sub p .sp{font-family:"Segoe UI",Arial,sans-serif;font-size:12px;font-weight:700;color:var(--accent);margin-right:6px}
+.sub .hint{font-family:"Segoe UI","Microsoft JhengHei",sans-serif;font-size:12px;color:var(--soft);margin:2px 6px 4px}
+.q{margin:12px 0 4px}
+.q .qn{font-weight:700;margin-bottom:4px}
+.q .prompt{font-family:Georgia,serif;margin:0 0 4px}
+.opts{display:grid;gap:5px}
+.opts.pics{grid-template-columns:repeat(4,minmax(0,1fr))}
+.opt{display:flex;gap:8px;align-items:flex-start;text-align:left;border:1px solid var(--rule);background:#fff;border-radius:6px;padding:7px 10px;color:var(--ink);font-family:Georgia,serif;font-size:15.5px}
+.opts.pics .opt{justify-content:center;font-family:"Segoe UI",sans-serif;font-weight:700}
+.opt b{font-family:"Segoe UI",sans-serif;color:var(--soft);min-width:26px}
+.opt[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft)}
+.opt.right{border-color:var(--ok);background:var(--ok-soft)}
+.opt.wrong{border-color:var(--bad);background:var(--bad-soft)}
+.opt:disabled{cursor:default}
+.actions{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 2px;align-items:center}
+.verdict{font-weight:700}
+.verdict.ok{color:var(--ok)}.verdict.bad{color:var(--bad)}
+.notes{border-top:1px dashed var(--rule);margin-top:10px;padding-top:8px;font-size:14.5px}
+.note{margin:6px 0 12px}
+.note h4{margin:0 0 4px;font-size:15px}
+.note p{margin:3px 0}
+.note ul{margin:3px 0;padding-left:20px}
+.note .lab{display:inline-block;font-size:12px;font-weight:700;color:#fff;background:#3e6e52;border-radius:3px;padding:0 6px;margin:6px 0 2px}
+.note .lab.w{background:var(--bad)}.note .lab.e{background:#1d5f8a}.note .lab.v{background:#8b6b18}
+.sticky{position:sticky;top:0;z-index:5;background:rgba(245,247,247,.96);backdrop-filter:blur(4px);border-bottom:1px solid var(--rule);margin:0 -16px;padding:8px 16px}
+.sticky .row{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:13.5px}
+.sticky .now{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--soft)}
+footer{margin-top:40px;font-size:13px;color:var(--soft)}
+.err{background:var(--bad-soft);color:var(--bad);border-radius:6px;padding:8px 10px;font-size:14px}
+@media(max-width:600px){h1{font-size:22px}.opts.pics{grid-template-columns:repeat(2,minmax(0,1fr))}.sub{font-size:15px}}
+@media print{.player,.actions,.sticky,.controls,nav{display:none!important}.sub[hidden]{display:block!important}}
+.uhead .tag{white-space:nowrap}.opts.pics{grid-template-columns:repeat(3,minmax(0,1fr))}.note h4{color:#7a2e1d}
+</style>
+<link rel="stylesheet" href="../gsat-exam/vocab-hover.css?v=20261120-c1" data-gw>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <p class="crumb"><a href="../index.html#xcl">← 回 Vocabulary Board 會考英聽</a>　／　國中會考英聽　／　112 年</p>
+<p class="gw-legend" data-gw style="font-size:13px;color:#555;margin:6px 0 0">字幕、選項中的 <span class="gw gw-lj">基礎2000字</span> <span class="gw gw-lh">進階800字</span> <span class="gw gw-l3">Level 3</span> <span class="gw gw-l4">Level 4</span> 單字有底線：滑過／點一下可聽發音、看詞性與中譯，再點「🗂 字卡」看例句。</p>
+  <h1>會考英聽 112 年：逐題聽・逐句字幕<small>國中教育會考 英語（聽力）　三大題 21 題　🗣 語音朗讀</small></h1>
+  <p class="lede">本年度沒有公開的錄音檔，播放鍵改用瀏覽器的英文語音朗讀逐字稿（男聲／女聲依角色分開，每題念兩遍）。建議用 Chrome、Edge 或 Safari；手機請先關閉靜音。</p>
+</header>
+
+<div class="sticky" id="sticky"><div class="row">
+  <span class="seg" role="group" aria-label="播放速度"><button type="button" data-rate="0.75">0.75×</button><button type="button" data-rate="0.9">0.9×</button><button type="button" data-rate="1" aria-pressed="true">1×</button></span>
+  <span class="seg" role="group" aria-label="字幕模式"><button type="button" data-sub="hide" aria-pressed="true">字幕：作答後</button><button type="button" data-sub="show">字幕：一律顯示</button></span>
+  <span class="now" id="now">尚未播放</span>
+  <span class="tally" id="tally"></span>
+</div></div>
+
+<div class="panel">
+  <h2>怎麼練習</h2>
+  <ol>
+    <li>按題目的 ▶ 播放鍵，只播這一題，念兩遍後自動停。</li>
+    <li>聽完選答案，按「對答案」。對完答案字幕和解析會打開。</li>
+    <li>聽不清楚的句子，點字幕那一行就從那一句重播；「只播這句」可以一句一句練。</li>
+    <li>想先看字幕跟讀，在上方切換成「字幕：一律顯示」。</li>
+  </ol>
+  <div class="actions"><button type="button" class="btn" id="resetAll">全部重新作答</button><span id="audioStatus" class="rule"></span></div>
+  <div class="qmap" id="qmap" aria-label="題號一覽"></div>
+</div>
+
+<nav class="toc" id="toc" aria-label="三大題"></nav>
+<main id="app"></main>
+
+<footer>
+  <p>資料出處：國中教育會考 112 年英語（聽力）試題；題目、選項、答案依試題本與公布答案，逐字稿參考翰林出版會考解析整理。中文解析為本站自行撰寫。本年度錄音未公開，播放為瀏覽器語音朗讀，語調與考場錄音不同。試題著作權屬國立臺灣師範大學心理與教育測驗研究發展中心；本頁為非營利教學使用。</p>
+  <p>作答紀錄只存在這台裝置的瀏覽器裡。</p>
+</footer>
+</div>
+
+<audio id="aud" preload="none"></audio>
+<script>
+window.CAPL_KEY="jennifer-cap-listening-112-v1";window.HAS_AUDIO=false;
+var DATA=[{"id":"s1","title":"一、辨識句意","rule":"每題播出一個英文句子，請選出最符合描述的圖片。每題播放兩次。","units":[{"id":"q1","label":"第 1 題","qs":[{"n":1,"ans":"C"}],"sub":[["","Some ducks are swimming in the pond and some turtles are sitting on the rocks."]],"notes":[{"n":1,"key":"鴨子在池塘游泳、烏龜坐在石頭上。","wrong":["另外兩張圖只符合句中一部分的描述，或動作、位置、人物不對。"],"words":"pond 池塘；turtle 烏龜"}],"img":["112-q1.png"],"alt":["(A)(B)(C) 三張圖片選項"]},{"id":"q2","label":"第 2 題","qs":[{"n":2,"ans":"A"}],"sub":[["","The umbrella is lying under the window."]],"notes":[{"n":2,"key":"雨傘躺在窗戶下面。","wrong":["另外兩張圖只符合句中一部分的描述，或動作、位置、人物不對。"],"words":"umbrella 雨傘；under 在……下面"}],"img":["112-q2.png"],"alt":["(A)(B)(C) 三張圖片選項"]},{"id":"q3","label":"第 3 題","qs":[{"n":3,"ans":"B"}],"sub":[["","The girl looks very tired with all the shopping bags in her hands."]],"notes":[{"n":3,"key":"女孩手提很多購物袋，看起來很累。","wrong":["另外兩張圖只符合句中一部分的描述，或動作、位置、人物不對。"],"words":"tired 累的；shopping bag 購物袋"}],"img":["112-q3.png"],"alt":["(A)(B)(C) 三張圖片選項"]}]},{"id":"s2","title":"二、基本問答","rule":"每題播出一句話或一小段對話，請選出最適合的回應。每題播放兩次。","units":[{"id":"q4","label":"第 4 題","qs":[{"n":4,"ans":"C","opts":["Tea eggs are my favorite.","We have thirty-five dollars.","There are five in the refrigerator."]}],"sub":[["","How many eggs do we have? I want to make fried rice."]],"notes":[{"n":4,"key":"How many eggs 問數量，答「冰箱裡有五顆」。","wrong":["(A) 說喜歡茶葉蛋","(B) 是錢。"],"words":"egg 蛋；refrigerator 冰箱"}]},{"id":"q5","label":"第 5 題","qs":[{"n":5,"ans":"C","opts":["Oh, you’re hungry, too?","Why not? That’s my seat.","Oh, sorry. I didn’t know that."]}],"sub":[["","Excuse me, but you can't eat in the metro."]],"notes":[{"n":5,"key":"捷運裡不能吃東西，回答「抱歉，我不知道」。","wrong":["(A)(B) 都沒有回應被提醒的規定。"],"words":"metro 捷運"}]},{"id":"q6","label":"第 6 題","qs":[{"n":6,"ans":"B","opts":["I like dogs very much.","I usually go swimming.","I exercise three times a week."]}],"sub":[["","What do you like to do on the weekend?"]],"notes":[{"n":6,"key":"問週末喜歡做什麼，答「通常去游泳」。","wrong":["(A) 說喜歡狗","(C) 說運動頻率，不是週末做什麼。"],"words":"weekend 週末"}]},{"id":"q7","label":"第 7 題","qs":[{"n":7,"ans":"A","opts":["She said yes.","She enjoyed it.","She is very fast."]}],"sub":[["","I heard you invited Elisa to your party. What did she say?"]],"notes":[{"n":7,"key":"問 Elisa 對邀請怎麼說，答「她答應了」。","wrong":["(B) 派對還沒辦","(C) 跑很快不相關。"],"words":"invite 邀請"}]},{"id":"q8","label":"第 8 題","qs":[{"n":8,"ans":"B","opts":["No, I haven’t.","Good, thanks.","How are you?"]}],"sub":[["","It's been a long time since we last met. How have you been?"]],"notes":[{"n":8,"key":"好久不見、近來好嗎，答「很好，謝謝」。","wrong":["(A) 是回答 Have you…? 的問句","(C) 只是反問。"],"words":"How have you been? 近來好嗎"}]},{"id":"q9","label":"第 9 題","qs":[{"n":9,"ans":"C","opts":["Where did you find him?","Oh yeah, I’ve already told him.","Wait a minute, please. I’ll get him for you."]}],"sub":[["","Excuse me. I'm looking for a John Smith. I was told I could find him here."]],"notes":[{"n":9,"key":"找 John Smith，回答「請稍等，我去叫他」。","wrong":["(A)(B) 誤解成已經找到或告訴過他。"],"words":"look for 找"}]},{"id":"q10","label":"第 10 題","qs":[{"n":10,"ans":"B","opts":["Well, it’s good to know.","Well, I don’t remember.","Well, he won’t listen to me."]}],"sub":[["","Hey, listen! What's the name of this song? Grandpa used to sing it to us."]],"notes":[{"n":10,"key":"問這首歌叫什麼，答「我不記得了」。","wrong":["(A)「知道很好」、(C) 爺爺不聽我的，都不對題。"],"words":"used to 過去常常"}]},{"id":"q11","label":"第 11 題","qs":[{"n":11,"ans":"C","opts":["Yes, I’ll order now.","Yes, I can have a drink.","Yes, I’ll have a coffee, please."]}],"sub":[["","Can I get you something to drink while you're looking at the menu?"]],"notes":[{"n":11,"key":"看菜單時要不要先點飲料，答「好，我要一杯咖啡」。","wrong":["(A) 是點主餐","(B) 我可以喝，沒說要什麼。"],"words":"menu 菜單；drink 飲料"}]}]},{"id":"s3","title":"三、言談理解","rule":"每題播出一段對話或獨白，以及一個問題，請選出最適合的答案。每題播放兩次。","units":[{"id":"q12","label":"第 12 題","qs":[{"n":12,"ans":"C","opts":["The girl’s brother.","The girl’s neighbor.","The girl’s classmate."]}],"sub":[["W","Hey, Ted. What did the teacher just say?"],["M","Lesson One and Four will be on the test tomorrow."],["W","Oh, no. Can I go to your house and study?"],["M","Hmm, why?"],["W","My neighbor is going to have a party tonight."],["W","I can't study with all that noise."],["M","Oh. OK, but I need to ask my mom and dad first."],["W","Thanks."],["Q","Who is the boy?"]],"notes":[{"n":12,"key":"兩人討論老師說明天考第一和第四課，想去他家讀書：是同學。","wrong":["吵的是女孩的鄰居","男生要問自己的爸媽，不是她的哥哥。"],"words":"lesson 課；neighbor 鄰居"}]},{"id":"q13","label":"第 13 題","qs":[{"n":13,"ans":"B","opts":["She needs to study.","She isn’t wearing sports shoes.","She doesn’t like to play basketball."]}],"sub":[["M","Hey, Ariana, let's play basketball together."],["W","Well, I would like to, but I can't."],["M","Why not? Do you need to study?"],["W","No. I don't have the right shoes today. Maybe next time."],["M","OK."],["Q","Why doesn't the woman play basketball with the man?"]],"notes":[{"n":13,"key":"不打球不是要讀書，是「今天沒穿對的鞋」：沒穿運動鞋。","wrong":["男子猜要讀書，她說不是","她說下次再打，表示喜歡。"],"words":"the right shoes 合適的鞋"}]},{"id":"q14","label":"第 14 題","qs":[{"n":14,"ans":"A","opts":["To keep themselves safe.","To help move their desks.","To do exercises with their teachers."]}],"sub":[["M","(sound of alarm) Attention, please."],["M","Attention, please. There is an earthquake happening right now."],["M","Everyone, hide under your desk, stay on your knees, and hold onto your head with your arms and hands."],["M","Be careful. Things may drop from above."],["M","Keep quiet, and do not come out until your teachers tell you to."],["Q","What does the man tell the students to do?"]],"notes":[{"n":14,"key":"地震時躲在桌下、護住頭：要學生保護自己。","wrong":["不是搬桌子，也不是做運動。"],"words":"earthquake 地震；hide 躲"}]},{"id":"q15","label":"第 15 題","qs":[{"n":15,"ans":"A","opts":["Because her show was not successful.","Because she got a bad seat in the theater.","Because he did not stay until the end of the show."]}],"sub":[["M","I heard you had a theater show last night."],["W","Yeah, my first one."],["M","So, tell me about it. Did a lot of people come?"],["W","Oh, it was a very small show in a very small theater with just a few seats, but I think they both liked it."],["M","Both? There were only two people there?"],["W","Uh, by the end. Yeah."],["M","Oh, sorry."],["Q","Why did the man say he was sorry to the woman?"]],"notes":[{"n":15,"key":"小劇場、到最後只剩兩個觀眾：表演不成功。","wrong":["不是她的座位不好","男子根本沒去看。"],"words":"theater 劇場；by the end 到最後"}]},{"id":"q16","label":"第 16 題","qs":[{"n":16,"ans":"A","opts":["She was in Mr. Anderson’s class.","She asked a lot of questions in class.","She started a study group for the class."]}],"sub":[["W","What's wrong, Jason? You look worried."],["M","Yeah, I'm going to Mr. Anderson's class later. I feel like I'm dying."],["W","I know. I've been there."],["M","Oh, you were in his class, too?"],["W","Yeah, he always asked difficult questions that I couldn't answer."],["M","Yes. I spent a lot of time studying, but sometimes I can't even understand his questions."],["W","Well, I studied in a study group for this class and it helped a lot."],["M","That's a great idea. I'll try it."],["Q","What does the woman mean when she says \"I've been there?\""]],"notes":[{"n":16,"key":"I've been there 是「我也經歷過」：她以前也上過 Anderson 老師的課。","wrong":["她說老師問難題，不是她問問題","她參加讀書會，沒說是她開的。"],"words":"difficult 困難的；study group 讀書會"}]},{"id":"q17","label":"第 17 題","qs":[{"n":17,"ans":"B","opts":["The woman likes pies from the bakery.","The pie the man made last year tasted bad.","The man will be too tired from making pies."]}],"sub":[["M","So, for Thanksgiving dinner, I'll still make a pumpkin pie like last year."],["W","Uh, let's just buy one from the bakery."],["W","We won't want you to be tired every year."],["M","It's no problem. Besides, everyone liked it."],["W","Well..."],["M","What? Everyone said that they never had such a great pie."],["W","Everyone said that they never had SUCH a pie."],["M","They finished it all real quick."],["W","Umm, did you actually see them eat it?"],["M","Well, John said they wanted to enjoy it on the balcony."],["M","Aunt Karen and Rose wanted to have it by the pond in the front yard while watching the ducks."],["W","I can only tell you that our neighbor's ducks and the birds all enjoyed your pie."],["Q","Why does the woman want to buy a pie for Thanksgiving this year?"]],"notes":[{"n":17,"key":"大家說「從沒吃過這樣的派」、其實都拿去餵鴨子和鳥：去年的派很難吃。","wrong":["她說買是怕他累，是客氣話","真正原因是不好吃。"],"words":"pumpkin pie 南瓜派；bakery 麵包店"}]},{"id":"q18","label":"第 18 題","qs":[{"n":18,"ans":"A"}],"sub":[["M","(sound of opening the door) Please come in."],["M","Let me show you the apartment."],["M","This is the living room. The kitchen and the dining room are on your left."],["M","The bedroom and the bathroom are on the other side."],["M","The bathroom is by the front door, and you get to it from both the bedroom and the living room."],["M","This way, visitors can use the bathroom without walking through your bedroom."],["M","Right across the bathroom is the dining room, and you can see in here the only door to the kitchen."],["M","This way, any smoke in the kitchen won't get into the living room."],["M","How do you like your apartment?"],["Q","Which picture shows the apartment the man is talking about?"]],"notes":[{"n":18,"key":"廁所在前門旁、臥室和客廳都能進；餐廳在廁所對面；廚房只有一個門。","wrong":["其他平面圖的門或位置不符。"],"words":"bathroom 浴室；kitchen 廚房；across 在對面"}],"img":["112-q18.png"],"alt":["(A)(B)(C) 三張圖片選項"]},{"id":"q19","label":"第 19 題","qs":[{"n":19,"ans":"C","opts":["In a restroom.","In a restaurant.","In a movie theater."]}],"sub":[["W","Oh, no. We got the middle seats."],["M","Isn't that good? Everyone wants middle seats."],["W","That usually is, but it'll be a lot of trouble when you need to go to the restroom."],["W","You know I just had a large cup of Coke at the restaurant."],["W","Oh, I really hate to keep saying \"excuse me \", \"excuse me\", \"excuse me\" to people."],["M","Then go to the restroom now."],["M","There are still ten minutes before the movie starts."],["W","Oh, stupid me!"],["M","Well, go now before there are a lot of people waiting."],["Q","Where are the man and the woman?"]],"notes":[{"n":19,"key":"中間座位、離開要一直說借過、電影十分鐘後開始：在電影院。","wrong":["他們剛從餐廳過來","人不在廁所。"],"words":"middle 中間的；restroom 廁所"}]},{"id":"q20","label":"第 20 題","qs":[{"n":20,"ans":"C","opts":["Ideas for creating a painting.","The stories behind a painting.","Tips for understanding a painting."]}],"sub":[["W","(sound of clapping) As an art lover, I visit museums a lot."],["W","Most of the time I see people standing in front of a painting, take a picture of it and then go on to the next painting."],["W","They spend less than ten seconds on each painting."],["W","They don't know what they are missing."],["W","You need to look at the painting and study it from different angles."],["W","What colors and shapes are used in the painting?"],["W","How do they make you feel?"],["W","If you don't feel the thing, that's okay."],["W","Go and find out stories behind the art work online."],["W","It helps you have a better idea of how the painting was created."],["Q","What is the woman talking about?"]],"notes":[{"n":20,"key":"看畫要從不同角度看、想顏色形狀給你的感受、上網查畫背後的故事：教你看懂一幅畫的方法。","wrong":["不是教畫畫","查故事只是其中一個建議。"],"words":"angle 角度；create 創作"}]},{"id":"q21","label":"第 21 題","qs":[{"n":21,"ans":"A","opts":["They have no idea at the moment.","They’ll ask them to stop the noise right away.","They’ll have a meeting with them the next day."]}],"sub":[["♪","(sound of noise)"],["W","Did you hear that? The Browns are making so much noise again."],["M","Oh, no!"],["W","It's two o'clock in the morning."],["W","I have to get up early for a meeting and now I can't sleep at all."],["M","OK, OK, don't worry. I'll go tell them to stop."],["W","But last time you knocked on the door, they didn't even answer it."],["M","Yeah, you're right. We should think of some other way to deal with them."],["Q","How are the man and the woman going to deal with the Browns?"]],"notes":[{"n":21,"key":"敲門他們上次不理，「我們得想其他辦法」：現在還沒有辦法。","wrong":["去叫他們停止的計畫被否定了","沒說明天開會。"],"words":"noise 噪音；deal with 處理"}]}]}];
+var TIMES={};
+(function(){
+"use strict";
+var KEY=window.CAPL_KEY;
+var IMG="img/";
+var state={a:{},done:{}};
+try{var s=localStorage.getItem(KEY);if(s)state=JSON.parse(s);}catch(e){}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(state));}catch(e){}}
+var subMode="hide";try{subMode=localStorage.getItem(KEY+"-sub")||"hide";}catch(e){}
+var aud=document.getElementById("aud");
+var app=document.getElementById("app");
+var L="ABC";
+var PLAY='<svg viewBox="0 0 10 10"><path d="M1 0l9 5-9 5z"/></svg>';
+var PAUSE='<svg viewBox="0 0 10 10"><path d="M1 0h3v10H1zM6 0h3v10H6z"/></svg>';
+var rate=1;
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+function el(tag,cls,html){var e=document.createElement(tag);if(cls)e.className=cls;if(html!=null)e.innerHTML=html;return e;}
+function fmt(t){t=Math.max(0,t);var m=Math.floor(t/60),s=Math.floor(t%60);return m+":"+(s<10?"0":"")+s;}
+function status(m){document.getElementById("audioStatus").textContent=m;}
+
+// ---------- speech (years without a recording) ----------
+var synth=window.speechSynthesis||null, VO={f:null,m:null};
+var FEM=/female|woman|samantha|zira|aria|jenny|ava|allison|susan|karen|moira|tessa|serena|victoria|libby|sonia|emma|michelle|google us english|google uk english female/i;
+var MAL=/\bmale\b|\bman\b|david|guy|daniel|alex|fred|mark|george|ryan|eric|christopher|tom|aaron|google uk english male/i;
+function pickVoices(){
+  if(!synth)return;var vs=synth.getVoices().filter(function(v){return /^en[-_](US|GB|AU|CA|IE)/i.test(v.lang)||/^en$/i.test(v.lang);});
+  if(!vs.length)return;
+  var us=vs.filter(function(v){return /US/i.test(v.lang);});var pool=us.length?us:vs;
+  VO.f=pool.filter(function(v){return FEM.test(v.name)&&!/male\b/i.test(v.name.replace(/female/i,""));})[0]||vs.filter(function(v){return FEM.test(v.name);})[0]||pool[0];
+  VO.m=pool.filter(function(v){return MAL.test(v.name)&&!FEM.test(v.name);})[0]||vs.filter(function(v){return MAL.test(v.name)&&!FEM.test(v.name);})[0]||null;
+}
+if(synth){pickVoices();if(synth.onvoiceschanged!==undefined)synth.onvoiceschanged=pickVoices;}
+function isMale(sp){return /^(M|M1|M2|B|Man|Boy|Anchor)$/.test(sp);}
+function sayText(t){return t.replace(/\[[^\]]*\]|\([^)]*\)/g," ").replace(/\s+/g," ").trim();}
+var ttsTok=0, ttsU=null;
+function ttsStop(){ttsTok++;if(synth)synth.cancel();if(ttsU){paint(ttsU,false);ttsU=null;}}
+function ttsRun(U,seq){ // seq: list of line indexes, -1 = pause
+  if(!synth){status("這個瀏覽器不支援語音朗讀，請改用 Chrome、Edge 或 Safari。");return;}
+  stopAudio();ttsStop();var tok=++ttsTok;ttsU=U;cur=U;paint(U,true);var k=0;
+  function next(){
+    if(tok!==ttsTok)return;
+    if(k>=seq.length){paint(U,false);ttsU=null;mark(U,-1);U.prog.firstChild.style.width="100%";return;}
+    var i=seq[k++];U.prog.firstChild.style.width=(k/seq.length*100)+"%";
+    if(i<0){mark(U,-1);setTimeout(next,1400);return;}
+    var ln=U.u.sub[i],txt=sayText(ln[1]);mark(U,i);
+    if(!txt||ln[0]==="♪"){setTimeout(next,300);return;}
+    var u=new SpeechSynthesisUtterance(txt);u.lang="en-US";u.rate=0.92*rate;
+    var male=isMale(ln[0]);
+    if(male&&VO.m){u.voice=VO.m;}else if(!male&&VO.f){u.voice=VO.f;}else if(VO.f){u.voice=VO.f;}
+    if(male&&!VO.m)u.pitch=0.7;else if(!male)u.pitch=1.1;
+    u.onend=function(){setTimeout(next,ln[0]==="Q"?500:250);};u.onerror=function(){setTimeout(next,200);};
+    synth.speak(u);
+  }
+  next();
+}
+function fullSeq(U){var a=[];U.u.sub.forEach(function(_,i){a.push(i);});return a.concat([-1],a);}
+function fromSeq(U,i){var a=[];for(var j=i;j<U.u.sub.length;j++)a.push(j);return a;}
+
+// ---------- units ----------
+var units=[], cur=null, stopAt=null, lineMode=false, lastLine=-1;
+function buildUnit(sec,u){
+  var t=u.audio?(TIMES[u.id]||null):null;
+  var box=el("div","unit");box.id=u.id;
+  var head=el("div","uhead");head.appendChild(el("h3",null,esc(u.label)));
+  head.appendChild(el("span","tag",u.audio?"🎧 原音":"🗣 語音朗讀"));
+  box.appendChild(head);
+  var pl=el("div","player");
+  var btn=el("button","play",PLAY+"<span>播放這一題</span>");btn.type="button";
+  var prog=el("div","prog");prog.appendChild(el("i"));
+  var time=el("span","time",t?("0:00 / "+fmt(t.e-t.s)):"念兩遍");
+  pl.appendChild(btn);pl.appendChild(prog);pl.appendChild(time);
+  var tg=el("button","btn subtoggle","顯示字幕");tg.type="button";pl.appendChild(tg);
+  box.appendChild(pl);
+  if(u.img){var im=el("div","imgs");u.img.forEach(function(src,i){var g=document.createElement("img");g.src=IMG+src;g.alt=(u.alt&&u.alt[i])||"";g.loading="lazy";im.appendChild(g);});box.appendChild(im);}
+  var sub=el("div","sub");sub.hidden=true;
+  sub.appendChild(el("div","hint","點任一句從那裡播放；「只播這句」可以一句一句練。"));
+  u.sub.forEach(function(line,i){var p=el("p",null,(line[0]?'<span class="sp">'+esc(line[0])+'</span>':'')+esc(line[1]));p.dataset.i=i;sub.appendChild(p);});
+  var one=el("button","btn","只播這句");one.type="button";one.style.marginTop="6px";one.disabled=true;sub.appendChild(one);
+  box.appendChild(sub);
+  var U={id:u.id,box:box,t:t,sub:sub,btn:btn,prog:prog,time:time,tg:tg,one:one,sel:-1,u:u};
+  units.push(U);
+  btn.addEventListener("click",function(){toggle(U);});
+  prog.addEventListener("click",function(ev){if(!t)return;var r=prog.getBoundingClientRect();var f=(ev.clientX-r.left)/r.width;start(U,t.s+f*(t.e-t.s),t.e,false);});
+  tg.addEventListener("click",function(){setSub(U,sub.hidden);});
+  sub.addEventListener("click",function(ev){var p=ev.target.closest("p");if(!p)return;var i=+p.dataset.i;U.sel=i;one.disabled=false;
+    if(t){var ln=t.lines[i];if(ln)start(U,ln[0],t.e,false);}else ttsRun(U,fromSeq(U,i));});
+  one.addEventListener("click",function(){if(U.sel<0)return;if(t){var ln=t.lines[U.sel];start(U,ln[0],ln[1],true);}else ttsRun(U,[U.sel]);});
+  box.appendChild(buildQ(U,u.qs));
+  return box;
+}
+function setSub(U,show){U.sub.hidden=!show;U.tg.textContent=show?"隱藏字幕":"顯示字幕";}
+function buildQ(U,qs){
+  var wrap=el("div"),picks={};
+  qs.forEach(function(q){
+    var key=String(q.n),qd=el("div","q");
+    var o=el("div","opts"+(q.opts?"":" pics"));var n=q.opts?q.opts.length:3;
+    picks[key]={q:q,ans:q.ans,btns:[]};
+    for(var i=0;i<n;i++){
+      var b=el("button","opt","<b>("+L[i]+")</b><span>"+(q.opts?esc(q.opts[i]):"")+"</span>");b.type="button";b.dataset.l=L[i];b.setAttribute("aria-pressed","false");
+      (function(b){b.addEventListener("click",function(){var P=picks[key];if(P.locked)return;
+        P.btns.forEach(function(x){x.setAttribute("aria-pressed",String(x===b));});state.a[key]=b.dataset.l;save();});})(b);
+      picks[key].btns.push(b);o.appendChild(b);
+    }
+    qd.appendChild(o);wrap.appendChild(qd);
+    if(state.a[key])picks[key].btns.forEach(function(x){x.setAttribute("aria-pressed",String(state.a[key]===x.dataset.l));});
+  });
+  var act=el("div","actions");
+  var chk=el("button","btn primary","對答案");chk.type="button";
+  var rst=el("button","btn","重新作答");rst.type="button";
+  var ver=el("span","verdict");
+  act.appendChild(chk);act.appendChild(rst);act.appendChild(ver);wrap.appendChild(act);
+  var notes=el("div","notes");notes.hidden=true;
+  (U.u.notes||[]).forEach(function(nt){
+    var h='<div class="note"><h4>第 '+nt.n+' 題解析　答案 ('+esc(U.u.qs[0].ans)+')</h4><span class="lab">答題關鍵</span><p>'+esc(nt.key)+'</p>';
+    if(nt.wrong&&nt.wrong.length)h+='<span class="lab w">其他選項為什麼不對</span><ul>'+nt.wrong.map(function(x){return"<li>"+esc(x)+"</li>";}).join("")+"</ul>";
+    if(nt.words)h+='<span class="lab v">單字</span><p>'+esc(nt.words)+"</p>";
+    notes.insertAdjacentHTML("beforeend",h+"</div>");});
+  wrap.appendChild(notes);
+  function grade(){
+    var all=0,ok=0;
+    Object.keys(picks).forEach(function(k){var P=picks[k];P.locked=true;all++;
+      var got=(P.btns.filter(function(x){return x.getAttribute("aria-pressed")==="true";})[0]||{dataset:{}}).dataset.l||"";
+      if(got===P.ans)ok++;
+      P.btns.forEach(function(x){x.disabled=true;var l=x.dataset.l;if(P.ans===l)x.classList.add("right");else if(got===l)x.classList.add("wrong");});
+      state.done[k]=(got===P.ans)?1:0;});
+    ver.textContent=ok===all?"答對 ✓":"答錯 ✗";ver.className="verdict "+(ok===all?"ok":"bad");
+    notes.hidden=false;setSub(U,true);chk.disabled=true;save();refresh();
+  }
+  chk.addEventListener("click",function(){
+    var empty=Object.keys(picks).some(function(k){return !picks[k].btns.some(function(x){return x.getAttribute("aria-pressed")==="true";});});
+    if(empty&&!confirm("還沒選答案，確定要對答案嗎？"))return;grade();});
+  rst.addEventListener("click",function(){Object.keys(picks).forEach(function(k){var P=picks[k];P.locked=false;P.btns.forEach(function(x){x.disabled=false;x.classList.remove("right","wrong");x.setAttribute("aria-pressed","false");});delete state.a[k];delete state.done[k];});
+    ver.textContent="";chk.disabled=false;notes.hidden=true;setSub(U,subMode==="show");save();refresh();});
+  if(Object.keys(picks).every(function(k){return state.done[k]!==undefined;}))setTimeout(grade,0);
+  return wrap;
+}
+function render(){
+  var toc=document.getElementById("toc"),qm=document.getElementById("qmap");
+  DATA.forEach(function(sec){
+    var s=el("section","sec");s.id=sec.id;
+    s.appendChild(el("h2",null,esc(sec.title)));
+    s.appendChild(el("p","rule",esc(sec.rule)));
+    sec.units.forEach(function(u){s.appendChild(buildUnit(sec,u));});
+    app.appendChild(s);
+    var a=el("a",null,esc(sec.title));a.href="#"+sec.id;toc.appendChild(a);
+    sec.units.forEach(function(u){u.qs.forEach(function(q){var a=el("a",null,q.n);a.href="#"+u.id;a.dataset.n=q.n;qm.appendChild(a);});});
+  });
+  refresh();
+}
+function refresh(){
+  var tot=0,ok=0,done=0;
+  document.querySelectorAll("#qmap a").forEach(function(a){var k=a.dataset.n;tot++;a.className="";if(state.done[k]!==undefined){done++;if(state.done[k]){ok++;a.className="ok";}else a.className="bad";}});
+  document.getElementById("tally").textContent="已作答 "+done+"/"+tot+"　答對 "+ok;
+}
+function mark(U,li){
+  if(li===lastLine&&U===cur)return;lastLine=li;
+  U.sub.querySelectorAll("p").forEach(function(p){p.classList.toggle("cur",+p.dataset.i===li);});
+  if(li>=0){document.getElementById("now").textContent=U.u.label+"　"+U.u.sub[li][1];var p=U.sub.querySelector('p[data-i="'+li+'"]');if(p&&!U.sub.hidden){var r=p.getBoundingClientRect();if(r.top<60||r.bottom>innerHeight-10)p.scrollIntoView({block:"center",behavior:"smooth"});}}
+}
+
+// ---------- recorded audio ----------
+function toggle(U){
+  if(!U.t){if(ttsU===U){ttsStop();return;}ttsRun(U,fullSeq(U));return;}
+  if(cur===U&&aud&&!aud.paused){aud.pause();return;}
+  if(cur===U&&aud&&aud.currentTime>0&&aud.currentTime<U.t.e-0.2&&!lineMode&&aud.getAttribute("src")===U.u.audio){aud.play();return;}
+  start(U,U.t.s,U.t.e,false);
+}
+function stopAudio(){if(aud&&!aud.paused)aud.pause();}
+function start(U,from,to,line){
+  ttsStop();
+  if(cur&&cur!==U)paint(cur,false);
+  cur=U;stopAt=to;lineMode=line;
+  var go=function(){try{aud.currentTime=from;}catch(e){}aud.playbackRate=rate;var p=aud.play();if(p&&p.catch)p.catch(function(e){status("無法播放："+e.message);});};
+  if(aud.getAttribute("src")!==U.u.audio){aud.setAttribute("src",U.u.audio);aud.addEventListener("loadedmetadata",go,{once:true});aud.load();}
+  else if(aud.readyState<1){aud.addEventListener("loadedmetadata",go,{once:true});aud.load();}else go();
+}
+function paint(U,on){U.btn.classList.toggle("on",on);U.btn.innerHTML=(on?PAUSE+"<span>停止</span>":PLAY+"<span>播放這一題</span>");}
+if(aud){
+  aud.addEventListener("play",function(){if(cur)paint(cur,true);});
+  aud.addEventListener("pause",function(){if(cur&&cur.t)paint(cur,false);});
+  aud.addEventListener("waiting",function(){status("錄音載入中……");});
+  aud.addEventListener("playing",function(){status("");});
+  aud.addEventListener("error",function(){if(aud.getAttribute("src"))status("錄音檔無法載入，請確認網路連線。");});
+  aud.addEventListener("timeupdate",function(){
+    if(!cur||!cur.t)return;var t=aud.currentTime,T=cur.t;
+    if(stopAt!=null&&t>=stopAt){aud.pause();stopAt=null;return;}
+    var f=Math.min(1,Math.max(0,(t-T.s)/(T.e-T.s)));cur.prog.firstChild.style.width=(f*100)+"%";cur.time.textContent=fmt(t-T.s)+" / "+fmt(T.e-T.s);
+    var li=-1;for(var i=0;i<T.lines.length;i++){if(t>=T.lines[i][0]-0.05)li=i;}
+    var endFirst=T.lines[T.lines.length-1][1]+0.6;if(t>endFirst)li=-1;
+    mark(cur,li);
+  });
+}
+document.querySelectorAll("[data-rate]").forEach(function(b){b.addEventListener("click",function(){rate=+b.dataset.rate;if(aud)aud.playbackRate=rate;document.querySelectorAll("[data-rate]").forEach(function(x){x.setAttribute("aria-pressed",String(x===b));});});});
+function setMode(m){subMode=m;try{localStorage.setItem(KEY+"-sub",m);}catch(e){}document.querySelectorAll("[data-sub]").forEach(function(x){x.setAttribute("aria-pressed",String(x.dataset.sub===m));});
+  units.forEach(function(U){var graded=U.box.querySelector(".verdict").textContent;setSub(U,m==="show"||!!graded);});}
+document.querySelectorAll("[data-sub]").forEach(function(b){b.addEventListener("click",function(){setMode(b.dataset.sub);});});
+document.getElementById("resetAll").addEventListener("click",function(){if(!confirm("清除全部作答紀錄？"))return;state={a:{},done:{}};save();location.reload();});
+if(!window.HAS_AUDIO&&!synth)status("這個瀏覽器不支援語音朗讀，請改用 Chrome、Edge 或 Safari。");
+window.addEventListener("pagehide",function(){if(synth)synth.cancel();});
+render();setMode(subMode);
+})();
+</script>
+<script data-gw>window.GW_TARGETS=["#app"];window.GW_TAP_ONLY=".sub p";</script>
+<script src="lexicon.js?v=20261120-c1" data-gw></script>
+<script src="../gsat-exam/vocab-hover.js?v=20261120-c1" data-gw></script>
+</body>
+</html>

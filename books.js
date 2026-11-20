@@ -65,6 +65,28 @@ window.VOCAB_ZONES = {
   "names": {},
   "blurb": "單題＋閱讀測驗＋克漏字 MCQ"
  },
+ "xcl": {
+  "book": "caplistening",
+  "prefix": "xcl",
+  "tag": "英聽",
+  "name": "國中會考英聽試題",
+  "short": "會考英聽",
+  "num": "🎧",
+  "levelLabel": "",
+  "cls": "",
+  "family": false,
+  "headLabel": "",
+  "tile": "國中會考英聽試題",
+  "data": "cap-listening/listening-board-data.js",
+  "global": "CAP_LISTENING_BOARD",
+  "exam": true,
+  "help": "每個年度一份會考英聽，三大題 21 題：每一題有自己的播放鍵（念兩遍），可調 0.75×／0.9×／1× 速度；字幕逐句亮起，點一句就從那一句重聽。114 年用會考原音，其他年度用瀏覽器語音朗讀逐字稿。對完答案看中文解析。",
+  "page": "cap-listening/{u}.html",
+  "quiz": "cap-listening/{u}.html",
+  "units": [],
+  "names": {},
+  "blurb": "英聽 21 題＋字幕＋解析"
+ },
  "l4": {
   "book": "gsat",
   "prefix": "4",
@@ -6877,6 +6899,14 @@ window.VOCAB_BOOKS = [
   "name": "會考歷屆試題",
   "zones": [
    "xc"
+  ],
+  "group": "cap"
+ },
+ {
+  "id": "caplistening",
+  "name": "會考英聽",
+  "zones": [
+   "xcl"
   ],
   "group": "cap"
  },
