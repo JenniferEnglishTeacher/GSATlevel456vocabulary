@@ -69,9 +69,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit64 inject – institute
 - [x] cv-unit65 instruct – interpret
 - [x] cv-unit66 interrupt – iron
-- [ ] cv-unit67 isolate – journey
-- [ ] cv-unit68 judge – keep
-- [ ] cv-unit69 kick – knot
+- [x] cv-unit67 isolate – journey
+- [x] cv-unit68 judge – keep
+- [x] cv-unit69 kick – knot
 - [ ] cv-unit70 label – lay
 - [ ] cv-unit71 leak – level
 - [ ] cv-unit72 license – line
