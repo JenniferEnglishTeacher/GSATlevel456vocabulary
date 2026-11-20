@@ -42,6 +42,7 @@
 ## 會考英聽 (cap-listening/, zone xcl) — 2026-11-20
 - Years 104, 105, 110–115 (21 題 each). 103 and 106–109 have no transcript available, so they are not built.
 - Source: 翰林 會考英聽解析 PDFs (scripts, options); answers checked against the official keys where available. Chinese explanations are our own (tools/cap_listening/notes.py).
-- 114 uses the official audio (cap-listening/audio/114-qNN.mp3, mono 48 kbps); line timings come from faster-whisper word timestamps aligned to the script (tools/cap_listening/build_pages.py → TIMES).
-- Other years play the transcript with the browser's speechSynthesis (male/female voice by speaker, read twice). To add a real recording later: drop the mp3 in cap-listening/audio/, give the unit an `audio` path and a TIMES entry.
+- Audio: official recordings (cap-listening/audio/{y}-qNN.mp3, mono 48 kbps); line timings come from faster-whisper word timestamps aligned to the script (tools/cap_listening/build_pages.py → TIMES).
+- Update: every year now uses the official 心測中心 recordings (cap.rcpet.edu.tw/exam/{y}/{y}exam.html → 英語（聽力） zip on Google Drive; 104/105 are RAR inside the zip). Files are cap-listening/audio/{y}-qNN.mp3; timings from faster-whisper (tools/cap_listening/wall.json). The speechSynthesis fallback stays in the engine but is unused.
+- 心測中心 also has official audio + booklets for 103, 106, 107, 108 (109 had no listening test). No transcripts exist for those years; they would need whisper transcription + proofreading.
 - Rebuild: tools/cap_listening/build_pages.py (paths inside point at the original workspace; adjust before re-running). Lexicon uses the CAP levels with content words only.

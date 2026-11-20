@@ -80,7 +80,7 @@ window.VOCAB_ZONES = {
   "data": "cap-listening/listening-board-data.js",
   "global": "CAP_LISTENING_BOARD",
   "exam": true,
-  "help": "每個年度一份會考英聽，三大題 21 題：每一題有自己的播放鍵（念兩遍），可調 0.75×／0.9×／1× 速度；字幕逐句亮起，點一句就從那一句重聽。114 年用會考原音，其他年度用瀏覽器語音朗讀逐字稿。對完答案看中文解析。",
+  "help": "每個年度一份會考英聽，三大題 21 題：每一題有自己的播放鍵（念兩遍），可調 0.75×／0.9×／1× 速度；字幕逐句亮起，點一句就從那一句重聽。每一題都是會考官方原音。對完答案看中文解析。",
   "page": "cap-listening/{u}.html",
   "quiz": "cap-listening/{u}.html",
   "units": [],
