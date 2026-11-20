@@ -81,9 +81,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit76 match – melt
 - [x] cv-unit77 mend – mirror
 - [x] cv-unit78 mislead – motivate
-- [ ] cv-unit79 mount – muster
-- [ ] cv-unit80 nail – negotiate
-- [ ] cv-unit81 nest – nurse
+- [x] cv-unit79 mount – muster
+- [x] cv-unit80 nail – negotiate
+- [x] cv-unit81 nest – nurse
 - [ ] cv-unit82 nurture – offend
 - [ ] cv-unit83 offer – opt
 - [ ] cv-unit84 orbit – overtake
