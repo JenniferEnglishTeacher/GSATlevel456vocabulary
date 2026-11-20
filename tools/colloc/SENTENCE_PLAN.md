@@ -48,9 +48,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit43 exploit – facilitate
 - [x] cv-unit44 fade – fashion
 - [x] cv-unit45 fasten – figure
-- [ ] cv-unit46 file – flame
-- [ ] cv-unit47 flash – flock
-- [ ] cv-unit48 flood – fold
+- [x] cv-unit46 file – flame
+- [x] cv-unit47 flash – flock
+- [x] cv-unit48 flood – fold
 - [ ] cv-unit49 follow – form
 - [ ] cv-unit50 foster – frequent
 - [ ] cv-unit51 frighten – furnish
