@@ -63,9 +63,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit58 head – highlight
 - [x] cv-unit59 hinder – hollow
 - [x] cv-unit60 honor – hum
-- [ ] cv-unit61 hunt – illustrate
-- [ ] cv-unit62 imitate – induce
-- [ ] cv-unit63 indulge – initiate
+- [x] cv-unit61 hunt – illustrate
+- [x] cv-unit62 imitate – induce
+- [x] cv-unit63 indulge – initiate
 - [ ] cv-unit64 inject – institute
 - [ ] cv-unit65 instruct – interpret
 - [ ] cv-unit66 interrupt – iron
