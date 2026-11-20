@@ -39,9 +39,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit34 dominate – draw
 - [x] cv-unit35 dread – drop
 - [x] cv-unit36 drown – echo
-- [ ] cv-unit37 edge – emerge
-- [ ] cv-unit38 employ – endure
-- [ ] cv-unit39 enforce – entertain
+- [x] cv-unit37 edge – emerge
+- [x] cv-unit38 employ – endure
+- [x] cv-unit39 enforce – entertain
 - [ ] cv-unit40 entitle – establish
 - [ ] cv-unit41 estimate – exclude
 - [ ] cv-unit42 execute – explode
