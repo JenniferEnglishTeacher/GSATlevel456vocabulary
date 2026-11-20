@@ -170,7 +170,7 @@ def build(num, z, src):
         data = {"zone": zid, "unit": n, "units": len(units), "title": names[str(n)], "items": qs}
         (ROOT / f"{zid}-unit{n}-data.js").write_text(
             f"// 會考單字搭配詞 {short} Unit {n}: {names[str(n)]} — built by tools/jphrase_emit.py\nwindow.COLLOC_UNIT = {js(data)};\n", "utf-8")
-        (ROOT / f"{zid}-unit{n}.html").write_text(PAGE.format(title=f"{short} Unit {n} · 會考單字搭配詞", zone=zid, u=n, ver=VER), "utf-8")
+        (ROOT / f"{zid}-unit{n}.html").write_text(PAGE.format(title=f"{short} Unit {n} · 一字多義/搭配詞/片語", zone=zid, u=n, ver=VER), "utf-8")
         dash.append({"unit": n, "theme": names[str(n)], "cards": cards})
     (ROOT / f"{zid}-dashboard-data.js").write_text(
         f"// Auto-generated for the Unit Board — 會考單字搭配詞 {short} (tools/jphrase_emit.py)\nwindow.{zid.upper()}_DASHBOARD_UNITS = {js(dash)};\n", "utf-8")
@@ -190,7 +190,7 @@ for num, z in ZONES.items():
     m = build(num, z, src[num])
     new.append(zid)
     zones[zid] = {
-        "book": "jcolloc", "prefix": zid, "tag": f"會考{short.split()[0]}", "name": f"會考單字搭配詞 · {src[num]['title']}",
+        "book": "jcolloc", "prefix": zid, "tag": f"會考{short.split()[0]}", "name": f"一字多義/搭配詞/片語 · {src[num]['title']}",
         "short": short, "num": tabnum, "levelLabel": f"會考搭配詞-{short.split()[0]}", "cls": cls, "family": False,
         "headLabel": "", "unitName": "Unit", "tile": f"片語 · {short}", "data": f"{zid}-dashboard-data.js",
         "global": f"{zid.upper()}_DASHBOARD_UNITS", "page": f"{zid}-unit{{u}}.html", "quiz": f"{zid}-unit{{u}}.html#test",

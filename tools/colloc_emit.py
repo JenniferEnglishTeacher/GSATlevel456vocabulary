@@ -24,12 +24,12 @@ ZONES = {
     "ca": ("學測單字搭配詞 · 形容詞篇 Adjective Collocations", "形容詞 Adjectives", "Adj", "adj.", "va"),
     "cd": ("學測單字搭配詞 · 副詞篇 Adverb Collocations", "副詞 Adverbs", "Adv", "adv.", ""),
     "cc": ("學測單字搭配詞 · 連接詞與轉承語篇 Connectives", "連接詞 Connectives", "Conj", "conj.", "hot"),
-    "jn": ("會考單字搭配詞 · 名詞篇 Noun Collocations", "名詞 Nouns", "N", "n.", "hot"),
-    "jv": ("會考單字搭配詞 · 動詞篇 Verb Collocations", "動詞 Verbs", "V", "v.", ""),
-    "ja": ("會考單字搭配詞 · 形容詞篇 Adjective Collocations", "形容詞 Adjectives", "Adj", "adj.", "va"),
-    "jd": ("會考單字搭配詞 · 副詞篇 Adverb Collocations", "副詞 Adverbs", "Adv", "adv.", ""),
-    "jp": ("會考單字搭配詞 · 介係詞篇 Preposition Collocations", "介係詞 Prepositions", "Prep", "prep.", "hot"),
-    "jc": ("會考單字搭配詞 · 轉承詞篇 Connectives", "轉承詞 Connectives", "Conj", "conj.", "va"),
+    "jn": ("一字多義/搭配詞/片語 · 名詞篇 Noun Collocations", "名詞 Nouns", "N", "n.", "hot"),
+    "jv": ("一字多義/搭配詞/片語 · 動詞篇 Verb Collocations", "動詞 Verbs", "V", "v.", ""),
+    "ja": ("一字多義/搭配詞/片語 · 形容詞篇 Adjective Collocations", "形容詞 Adjectives", "Adj", "adj.", "va"),
+    "jd": ("一字多義/搭配詞/片語 · 副詞篇 Adverb Collocations", "副詞 Adverbs", "Adv", "adv.", ""),
+    "jp": ("一字多義/搭配詞/片語 · 介係詞篇 Preposition Collocations", "介係詞 Prepositions", "Prep", "prep.", "hot"),
+    "jc": ("一字多義/搭配詞/片語 · 轉承詞篇 Connectives", "轉承詞 Connectives", "Conj", "conj.", "va"),
 }
 CONN = {"cc", "jc"}  # connective zones: the collocation is a whole example sentence
 # 會考 zones blank a multi-word headword ("in front of", "as far as I know") as a whole;
@@ -38,7 +38,7 @@ WHOLE_MULTI = {"jn", "jv", "ja", "jd", "jp", "jc"}
 SPLIT_HEADS = {"ja", "jd", "jp", "jc"}  # the older zones keep their fixed unit numbering
 # book id, book name, short tag used in tracker labels
 BOOK_OF = {z: ("colloc", "學測單字搭配詞 Collocations", "學測") for z in ("cv", "cn", "ca", "cd", "cc")}
-BOOK_OF.update({z: ("jcolloc", "會考單字搭配詞 Collocations", "會考") for z in ("jn", "jv", "ja", "jd", "jp", "jc")})
+BOOK_OF.update({z: ("jcolloc", "一字多義/搭配詞/片語", "會考") for z in ("jn", "jv", "ja", "jd", "jp", "jc")})
 FUNC_ZH = {
     "contrast": ("shows an opposite or different idea", "對比／轉折"),
     "concession": ("admits a fact but still goes on to a different point", "讓步"),
