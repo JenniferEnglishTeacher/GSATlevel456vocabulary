@@ -93,9 +93,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit88 penetrate – phase
 - [x] cv-unit89 pick – pioneer
 - [x] cv-unit90 pirate – plant
-- [ ] cv-unit91 play – plug
-- [ ] cv-unit92 plunge – poll
-- [ ] cv-unit93 pollute – post
+- [x] cv-unit91 play – plug
+- [x] cv-unit92 plunge – poll
+- [x] cv-unit93 pollute – post
 - [ ] cv-unit94 postpone – prejudice
 - [ ] cv-unit95 prescribe – presume
 - [ ] cv-unit96 pretend – probe
