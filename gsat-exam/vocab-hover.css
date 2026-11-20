@@ -1,6 +1,6 @@
 /* Level 3–6 word underlines + hover card (vocab-hover.js) */
 .gw{border-bottom:2px dotted;cursor:help;border-radius:2px;padding:0 1px;transition:background .15s}
-.gw-l3{border-color:#3f7d4a}.gw-l4{border-color:#087f8c}.gw-l5{border-color:#b8541a}.gw-l6{border-color:#6a4c93}
+.gw-lj{border-color:#c2185b}.gw-lh{border-color:#e07a00}.gw-l3{border-color:#3f7d4a}.gw-l4{border-color:#087f8c}.gw-l5{border-color:#b8541a}.gw-l6{border-color:#6a4c93}
 .gw:hover,.gw.gw-active{background:#fff3c4;border-bottom-style:solid}
 .gw-legend .gw{font-weight:700;margin:0 2px}
 .gw-card{position:fixed;z-index:60;width:min(340px,calc(100vw - 16px));border:1px solid #cfd8e3;border-radius:12px;padding:12px 14px 10px;background:#fff;box-shadow:0 14px 34px rgba(24,43,61,.22);font-family:Arial,"Noto Sans TC",sans-serif;color:#17202a;line-height:1.4}
@@ -9,7 +9,7 @@
 .gw-word{font-size:22px;color:#065f69}
 .gw-pos{color:#c6533e;font-weight:800;font-size:14px}
 .gw-lv{margin-left:auto;font-size:12px;font-weight:700;color:#fff;border-radius:999px;padding:2px 8px;background:#087f8c}
-.gw-lv3{background:#3f7d4a}.gw-lv4{background:#087f8c}.gw-lv5{background:#b8541a}.gw-lv6{background:#6a4c93}
+.gw-lvj{background:#c2185b}.gw-lvh{background:#e07a00}.gw-lv3{background:#3f7d4a}.gw-lv4{background:#087f8c}.gw-lv5{background:#b8541a}.gw-lv6{background:#6a4c93}
 .gw-speak{border:1px solid #d7dee7;background:#fff;border-radius:8px;padding:2px 7px;font-size:15px;cursor:pointer}
 .gw-zh{margin:8px 0 2px;font-size:17px}
 .gw-en{margin:0 0 8px;color:#5d6b7a;font-size:14px}

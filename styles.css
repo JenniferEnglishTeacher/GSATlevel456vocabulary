@@ -1260,3 +1260,14 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .exam-card em { margin-top: auto; font-style: normal; font-weight: 700; color: var(--teal); font-size: 14px; }
 .exam-card.exam-all { grid-column: 1 / -1; background: linear-gradient(135deg, #e6f4f5, #fff); border-color: rgba(8, 127, 140, 0.4); }
 .exam-card.exam-all b { font-size: 20px; }
+
+/* ---------- 2026-11-20: book tabs by level group (學測 purple / 會考 pink) ---------- */
+.book-tab.book-gsat { border-color: #8e6bbf; color: #4a2a7a; background: #f6f1fb; }
+.book-tab.book-gsat:hover { border-color: #5e3a9a; }
+.book-tab.book-gsat.active { background: #5e3a9a; border-color: #5e3a9a; color: #fff; }
+.book-tab.book-cap { border-color: #e48bb0; color: #8a1e4e; background: #fdf0f5; }
+.book-tab.book-cap:hover { border-color: #c2185b; }
+.book-tab.book-cap.active { background: #c2185b; border-color: #c2185b; color: #fff; }
+.book-group-label { flex-basis: 100%; margin: 4px 0 -2px; font-size: 13px; font-weight: 800; letter-spacing: .04em; color: var(--muted); }
+.book-group-label.book-gsat { color: #5e3a9a; }
+.book-group-label.book-cap { color: #c2185b; margin-top: 10px; }

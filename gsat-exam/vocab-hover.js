@@ -82,7 +82,8 @@
     card.querySelector('.gw-word').textContent = base;
     card.querySelector('.gw-pos').textContent = e[2];
     const lv = card.querySelector('.gw-lv');
-    lv.textContent = 'Level ' + e[5] + (e[6] ? '' : '（詞族）');
+    const LV = { j: '國中基礎2000字', h: '國中進階800字' };
+    lv.textContent = (LV[e[5]] || 'Level ' + e[5]) + (e[6] ? '' : '（詞族）');
     lv.className = 'gw-lv gw-lv' + e[5];
     card.querySelector('.gw-zh').textContent = e[3];
     card.querySelector('.gw-en').textContent = e[4] || '';

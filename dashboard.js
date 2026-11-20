@@ -29,10 +29,19 @@ const zoneTabs = document.querySelector("#zoneTabs");
 const zonePanels = document.querySelector("#zonePanels");
 const EXAM_HELP = "每個年度一份：<b>詞彙題＋綜合測驗（克漏字）</b>四選一，答錯會顯示中文解析；文中 <b>Level 3–6 學測單字</b>有底線，滑過／點一下可聽發音、看詞性與中譯，再點「🗂 字卡」看例句。<b>🧩 全部綜合練習</b>可選單一年度或隨機 20 題；隨時結束並下載 DOCX 錯題。";
 const HELP = "<b>🗂 Flashcards</b> (or the group name) opens the group's flashcards; double-click a word to open its card; <b>📝 MCQ</b> = practice questions; <b>✏️ Quiz</b> = online quiz (spelling + MCQ, your result is recorded). 點「🗂 Flashcards」進入字卡，點兩下單字開該字字卡；📝 MCQ 是選擇題練習；✏️ Quiz 是線上測驗（拼字＋選擇題，會記錄成績）。";
+const GROUP_LABEL = { gsat: "學測程度 Senior High ▸ 由難到易", cap: "國中會考程度 Junior High ▸ 由難到易" };
+let lastGroup = null;
 SHELF.forEach(book => {
+  if (book.group !== lastGroup && GROUP_LABEL[book.group]) {
+    const label = document.createElement("span");
+    label.className = `book-group-label book-${book.group}`;
+    label.textContent = GROUP_LABEL[book.group];
+    bookTabs.append(label);
+  }
+  lastGroup = book.group;
   const btn = document.createElement("button");
   btn.type = "button";
-  btn.className = "book-tab";
+  btn.className = `book-tab book-${book.group || "other"}`;
   btn.dataset.book = book.id;
   btn.textContent = book.name;
   btn.addEventListener("click", () => setZone(lastZone[book.id] || book.zones[0]));

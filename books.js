@@ -22,6 +22,27 @@ window.VOCAB_ZONES = {
   "names": {},
   "blurb": "詞彙題＋綜合測驗 MCQ"
  },
+ "xc": {
+  "book": "capexam",
+  "prefix": "xc",
+  "tag": "會考",
+  "name": "國中會考英語歷屆試題",
+  "short": "會考歷屆試題",
+  "num": "✎",
+  "levelLabel": "",
+  "cls": "",
+  "family": false,
+  "headLabel": "",
+  "tile": "國中會考英語歷屆試題",
+  "data": "cap-exam/exam-board-data.js",
+  "global": "CAP_EXAM_BOARD",
+  "exam": true,
+  "page": "cap-exam/cap-past-exam-{u}.html",
+  "quiz": "cap-exam/cap-past-exam-{u}.html",
+  "units": [],
+  "names": {},
+  "blurb": "單題＋克漏字 MCQ"
+ },
  "l4": {
   "book": "gsat",
   "prefix": "4",
@@ -6697,7 +6718,20 @@ window.VOCAB_BOOKS = [
   "name": "學測歷屆試題",
   "zones": [
    "x"
-  ]
+  ],
+  "group": "gsat"
+ },
+ {
+  "id": "colloc",
+  "name": "學測單字搭配詞 Collocations",
+  "zones": [
+   "cv",
+   "cn",
+   "ca",
+   "cd",
+   "cc"
+  ],
+  "group": "gsat"
  },
  {
   "id": "gsat",
@@ -6706,7 +6740,8 @@ window.VOCAB_BOOKS = [
    "l4",
    "l5",
    "l6"
-  ]
+  ],
+  "group": "gsat"
  },
  {
   "id": "liveabc35",
@@ -6714,7 +6749,34 @@ window.VOCAB_BOOKS = [
   "zones": [
    "lb",
    "la"
-  ]
+  ],
+  "group": "gsat"
+ },
+ {
+  "id": "awl",
+  "name": "AWL 學術單字 Sublist 1–10",
+  "zones": [
+   "a1",
+   "a2",
+   "a3",
+   "a4",
+   "a5",
+   "a6",
+   "a7",
+   "a8",
+   "a9",
+   "a10"
+  ],
+  "group": "gsat"
+ },
+ {
+  "id": "ee4000",
+  "name": "4000 Essential Words",
+  "zones": [
+   "w3",
+   "w4"
+  ],
+  "group": "gsat"
  },
  {
   "id": "level3",
@@ -6744,7 +6806,8 @@ window.VOCAB_BOOKS = [
    "t22",
    "t23",
    "t24"
-  ]
+  ],
+  "group": "gsat"
  },
  {
   "id": "liveabc24",
@@ -6752,59 +6815,16 @@ window.VOCAB_BOOKS = [
   "zones": [
    "kb",
    "ka"
-  ]
+  ],
+  "group": "gsat"
  },
  {
-  "id": "j2000",
-  "name": "國中小基礎2000字",
+  "id": "toeic",
+  "name": "TOEIC 主題單字 Themed Vocabulary",
   "zones": [
-   "j"
-  ]
- },
- {
-  "id": "e1200",
-  "name": "國中小1200字",
-  "zones": [
-   "e"
-  ]
- },
- {
-  "id": "adv800",
-  "name": "國中小進階800字",
-  "zones": [
-   "h"
-  ]
- },
- {
-  "id": "ee4000",
-  "name": "4000 Essential Words",
-  "zones": [
-   "w3",
-   "w4"
-  ]
- },
- {
-  "id": "gept",
-  "name": "捷進全民英檢初級單字書",
-  "zones": [
-   "g"
-  ]
- },
- {
-  "id": "awl",
-  "name": "AWL 學術單字 Sublist 1–10",
-  "zones": [
-   "a1",
-   "a2",
-   "a3",
-   "a4",
-   "a5",
-   "a6",
-   "a7",
-   "a8",
-   "a9",
-   "a10"
-  ]
+   "tc"
+  ],
+  "group": "gsat"
  },
  {
   "id": "ielts",
@@ -6831,25 +6851,16 @@ window.VOCAB_BOOKS = [
    "i19",
    "i20",
    "i21"
-  ]
+  ],
+  "group": "gsat"
  },
  {
-  "id": "toeic",
-  "name": "TOEIC 主題單字 Themed Vocabulary",
+  "id": "capexam",
+  "name": "會考歷屆試題",
   "zones": [
-   "tc"
-  ]
- },
- {
-  "id": "colloc",
-  "name": "學測單字搭配詞 Collocations",
-  "zones": [
-   "cv",
-   "cn",
-   "ca",
-   "cd",
-   "cc"
-  ]
+   "xc"
+  ],
+  "group": "cap"
  },
  {
   "id": "jcolloc",
@@ -6857,7 +6868,40 @@ window.VOCAB_BOOKS = [
   "zones": [
    "jn",
    "jv"
-  ]
+  ],
+  "group": "cap"
+ },
+ {
+  "id": "j2000",
+  "name": "國中小基礎2000字",
+  "zones": [
+   "j"
+  ],
+  "group": "cap"
+ },
+ {
+  "id": "gept",
+  "name": "捷進全民英檢初級單字書",
+  "zones": [
+   "g"
+  ],
+  "group": "cap"
+ },
+ {
+  "id": "adv800",
+  "name": "國中小進階800字",
+  "zones": [
+   "h"
+  ],
+  "group": "cap"
+ },
+ {
+  "id": "e1200",
+  "name": "國中小1200字",
+  "zones": [
+   "e"
+  ],
+  "group": "cap"
  }
 ];
 window.vocabZoneOfKey = function (key) {
