@@ -54,9 +54,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit49 follow – form
 - [x] cv-unit50 foster – frequent
 - [x] cv-unit51 frighten – furnish
-- [ ] cv-unit52 gamble – generate
-- [ ] cv-unit53 gesture – grace
-- [ ] cv-unit54 graduate – grip
+- [x] cv-unit52 gamble – generate
+- [x] cv-unit53 gesture – grace
+- [x] cv-unit54 graduate – grip
 - [ ] cv-unit55 ground – gut
 - [ ] cv-unit56 halt – harbor
 - [ ] cv-unit57 harm – hazard
