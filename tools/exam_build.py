@@ -16,7 +16,7 @@ import json, os, re, html, glob, collections
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'gsat-exam')
-V = '20261120-4'
+V = '20261120-5'
 Q = json.load(open(os.path.join(ROOT, 'tools/exam/questions.json'), encoding='utf-8'))
 YEARS = sorted((int(y) for y in Q), reverse=True)
 
@@ -132,10 +132,13 @@ SECTION_HINT = {'綜合測驗': '請選出 __{n}__ 的最佳答案', '文意選�
 def qtext(it):
     if it['section'] == '詞彙':
         return f"第 {it['num']} 題　{it['stem']}"
+    if it['section'] == '閱讀測驗':
+        return f"【閱讀測驗 第 {it['group']} 題】\n{it['passage']}\n\n▶ 第 {it['num']} 題　{it['prompt']}"
     hint = SECTION_HINT.get(it['section'], '請選出 __{n}__ 的最佳答案').format(n=it['num'])
     return f"【{it['section']} 第 {it['group']} 題】\n{it['passage']}\n\n▶ 第 {it['num']} 題　{hint}"
 
 LABELS = 'ABCDEFGHIJ'
+IMAGES = {}  # '<year>-<num>' -> image path (picture questions)
 def counts(items):
     c = collections.OrderedDict()
     for it in items: c[it['section']] = c.get(it['section'], 0) + 1
@@ -145,12 +148,15 @@ def count_text(c, sep='＋'): return sep.join(f"{k} {v}" for k, v in c.items())
 def build_questions(y, section_by_year=False):
     out = []
     for it in Q[str(y)]:
+        if it.get('image'):
+            IMAGES[f"{y}-{it['num']}"] = it['image']
         out.append({
             'id': it['num'], 'question': qtext(it), 'options': it['options'],
             'answer': LABELS.index(it['answer']), 'answerLabel': it['answer'],
             'source': f"{y} 學測｜{it['section']}｜第 {it['num']} 題",
             'explanation': it['explanation'], 'explanationSource': 'own',
             'section': f'{y}年' if section_by_year else it['section'],
+            **({'image': it['image'] + '?v=' + V} if it.get('image') else {}),
         })
     return out
 
@@ -161,6 +167,11 @@ HEAD = '''<!doctype html>
 <section id="quiz" class="card hidden"><div class="progress"><div id="bar" class="bar"></div></div><div class="meta"><span id="meta"></span><span id="wrongCount"></span></div><div id="zh" class="zh hidden"></div><div id="question" class="question"></div><div id="answerArea"></div><div id="feedback" class="feedback hidden" aria-live="polite"></div><div class="actions"><button id="check" class="btn primary" type="button">檢查答案</button><button id="next" class="btn primary hidden" type="button">下一題 →</button><button id="finish" class="btn danger" type="button">結束練習</button></div></section>
 <section id="result" class="card hidden"><h2>練習結果</h2><div id="summary" class="summary"></div><h2>錯題紀錄</h2><div id="wrongList"></div><div class="actions"><button id="retry" class="btn primary" type="button">重做錯題</button><button id="download" class="btn" type="button">下載 DOCX 錯題</button><button id="restart" class="btn" type="button">重新選題</button></div></section></main>
 '''
+IMG_SCRIPT = ('<script>(function(){var M={};window.QUIZ_CONFIG.questions.forEach(function(q){if(q.image)M[q.question]=q.image});'
+              'var qn=document.getElementById("question");if(!qn)return;function put(){var old=document.getElementById("gsatImg");var src=M[qn.textContent];'
+              'if(old&&old.dataset.src===src)return;if(old)old.remove();if(!src)return;var im=document.createElement("img");im.id="gsatImg";im.dataset.src=src;im.src=src;im.alt="題目圖片";'
+              'im.style.cssText="display:block;max-width:100%;max-height:520px;margin:10px auto;border:1px solid #dbe3ee;border-radius:10px;background:#fff";qn.insertAdjacentElement("afterend",im)}'
+              'new MutationObserver(put).observe(qn,{childList:true,characterData:true,subtree:true});})();</script>')
 TAIL = '''<script src="quiz.js?v=20261106-3"></script><script>document.querySelector("#description").textContent={desc_js};</script><script src="lexicon.js?v={v}"></script><script src="vocab-hover.js?v={v}"></script><script src="/high-school-blank-translation-quiz/quiz-result-recorder.js?v=20261027-1" defer></script></body></html>
 '''
 
@@ -172,7 +183,7 @@ for y in YEARS:
     title = f'{y} 年學測英文｜' + '＋'.join(c)
     desc = f'{y} 年學測英文：{count_text(c)}｜共 {len(qs)} 題｜單選｜附中文解析｜Level 3–6 單字滑過即看中譯與字卡｜可隨機 20 題、隨時結束並下載 DOCX 錯題'
     cfg = {'title': title, 'mode': 'mcq', 'questions': qs}
-    page = HEAD.format(title=title, desc=html.escape(desc), v=V) + '<script>window.QUIZ_CONFIG=' + dump(cfg) + ';</script>' + TAIL.format(desc_js=dump(desc), v=V)
+    page = HEAD.format(title=title, desc=html.escape(desc), v=V) + '<script>window.QUIZ_CONFIG=' + dump(cfg) + ';</script>' + IMG_SCRIPT + TAIL.format(desc_js=dump(desc), v=V)
     open(os.path.join(OUT, f'gsat-past-exam-{y}.html'), 'w', encoding='utf-8').write(page)
     cards.append({'title': f'{y} 年學測英文', 'sub': f'{count_text(c)}｜共 {len(qs)} 題｜附中文解析', 'href': f'gsat-exam/gsat-past-exam-{y}.html?v={V}', 'year': y})
 
@@ -191,7 +202,7 @@ desc = f'{YEARS[-1]}–{YEARS[0]} 年共 {len(YEARS)} 屆：{count_text(grand)}�
 cfg = {'title': title, 'mode': 'mcq', 'questions': all_qs}
 expand = ('<script>(function(){var P=window.GSAT_PASSAGES||{};window.QUIZ_CONFIG.questions.forEach(function(q){'
           'q.question=q.question.replace(/@@([^@]+)@@/g,function(m,k){return P[k]||m});});})();</script>')
-page = (HEAD.format(title=title, desc=html.escape(desc), v=V) + '<script>window.GSAT_PASSAGES=' + dump(passages) + ';window.QUIZ_CONFIG=' + dump(cfg) + ';</script>' + expand + TAIL.format(desc_js=dump(desc), v=V))
+page = (HEAD.format(title=title, desc=html.escape(desc), v=V) + '<script>window.GSAT_PASSAGES=' + dump(passages) + ';window.QUIZ_CONFIG=' + dump(cfg) + ';</script>' + expand + IMG_SCRIPT + TAIL.format(desc_js=dump(desc), v=V))
 open(os.path.join(OUT, 'gsat-past-exam-all.html'), 'w', encoding='utf-8').write(page)
 
 board = {
