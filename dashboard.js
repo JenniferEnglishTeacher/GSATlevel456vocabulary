@@ -65,7 +65,7 @@ ZONES.forEach(z => {
   panel.id = `zone-${z}`;
   panel.setAttribute("role", "tabpanel");
   panel.hidden = true;
-  panel.innerHTML = `<div class="zone-head"><h2></h2><p>${cfg.exam ? EXAM_HELP : HELP}</p></div><div class="unit-board" id="board-${z}"><p class="board-loading">Loading… 載入中…</p></div>`;
+  panel.innerHTML = `<div class="zone-head"><h2></h2><p>${cfg.help || (cfg.exam ? EXAM_HELP : HELP)}</p></div><div class="unit-board" id="board-${z}"><p class="board-loading">Loading… 載入中…</p></div>`;
   const h2 = panel.querySelector("h2");
   h2.textContent = `${cfg.name} `;
   const span = document.createElement("span");
@@ -165,7 +165,7 @@ function buildExamBoard(cfg, board) {
   const data = window[cfg.global];
   if (!data) { board.innerHTML = '<p class="board-loading">資料載入失敗。</p>'; return; }
   const card = (c, cls) => `<a class="exam-card${cls ? " " + cls : ""}" href="${c.href}"><b>${c.title}</b><span>${c.sub}</span><em>開始練習 →</em></a>`;
-  board.innerHTML = `<div class="exam-grid">${card(data.all, "exam-all")}${data.years.map(c => card(c)).join("")}</div>`;
+  board.innerHTML = `<div class="exam-grid">${data.all ? card(data.all, "exam-all") : ""}${data.years.map(c => card(c)).join("")}</div>`;
 }
 
 function buildBoard(book) {

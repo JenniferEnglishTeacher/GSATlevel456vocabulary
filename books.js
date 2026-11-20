@@ -22,6 +22,28 @@ window.VOCAB_ZONES = {
   "names": {},
   "blurb": "詞彙題＋綜合測驗 MCQ"
  },
+ "xl": {
+  "book": "listening",
+  "prefix": "xl",
+  "tag": "英聽",
+  "name": "學測英聽 試題示例",
+  "short": "學測英聽",
+  "num": "🎧",
+  "levelLabel": "",
+  "cls": "",
+  "family": false,
+  "headLabel": "",
+  "tile": "學測英聽",
+  "data": "gsat-listening/listening-board-data.js",
+  "global": "GSAT_LISTENING_BOARD",
+  "exam": true,
+  "help": "每個年度一份大考中心英聽試題示例，五大題 40 題：每一題有自己的播放鍵，可調 0.75×／0.9×／1× 速度；字幕逐句亮起，點一句就從那一句重聽。對完答案看中文解析、誘答與容易聽錯的地方。",
+  "page": "gsat-listening/{u}.html",
+  "quiz": "gsat-listening/{u}.html",
+  "units": [],
+  "names": {},
+  "blurb": "英聽試題示例"
+ },
  "xc": {
   "book": "capexam",
   "prefix": "xc",
@@ -6718,6 +6740,14 @@ window.VOCAB_BOOKS = [
   "name": "學測歷屆試題",
   "zones": [
    "x"
+  ],
+  "group": "gsat"
+ },
+ {
+  "id": "listening",
+  "name": "學測英聽",
+  "zones": [
+   "xl"
   ],
   "group": "gsat"
  },
