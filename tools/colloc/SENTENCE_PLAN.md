@@ -45,9 +45,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit40 entitle – establish
 - [x] cv-unit41 estimate – exclude
 - [x] cv-unit42 execute – explode
-- [ ] cv-unit43 exploit – facilitate
-- [ ] cv-unit44 fade – fashion
-- [ ] cv-unit45 fasten – figure
+- [x] cv-unit43 exploit – facilitate
+- [x] cv-unit44 fade – fashion
+- [x] cv-unit45 fasten – figure
 - [ ] cv-unit46 file – flame
 - [ ] cv-unit47 flash – flock
 - [ ] cv-unit48 flood – fold
