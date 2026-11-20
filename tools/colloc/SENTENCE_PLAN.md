@@ -66,9 +66,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit61 hunt – illustrate
 - [x] cv-unit62 imitate – induce
 - [x] cv-unit63 indulge – initiate
-- [ ] cv-unit64 inject – institute
-- [ ] cv-unit65 instruct – interpret
-- [ ] cv-unit66 interrupt – iron
+- [x] cv-unit64 inject – institute
+- [x] cv-unit65 instruct – interpret
+- [x] cv-unit66 interrupt – iron
 - [ ] cv-unit67 isolate – journey
 - [ ] cv-unit68 judge – keep
 - [ ] cv-unit69 kick – knot
