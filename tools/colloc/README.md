@@ -4,7 +4,9 @@ Source: Jennifer's 學測單字特殊延伸用法 lists (Google Drive folder 「
 `source.json` = 動詞區 (cv) / 名詞區 (cn) / 形容詞區 (ca) / 副詞區 (cd) / 連接詞區 (cc) from 學測單字特殊延伸用法_名形副連_合併版.xlsx.
 動詞區 (cv) = 學測單字特殊延伸用法_動詞區.xlsx (Jennifer's upload, 2026-11-19), 5,532 rows.
 
-會考單字搭配詞: 名詞區 (jn) and 動詞區 (jv) from Jennifer's 國中2000字特殊用法 xlsx files (2026-11-19). 形容詞 (ja) still to come — add rows under "ja" in source.json and rerun both scripts.
+會考單字搭配詞: 名詞區 (jn) and 動詞區 (jv) from Jennifer's 國中2000字特殊用法 xlsx files (2026-11-19).
+形容詞 (ja) / 副詞 (jd) / 介係詞 (jp) / 轉承詞 (jc) from the 國中2000字特殊用法_*區_含例句.xlsx files (2026-11-20);
+their example sentences are in `sentences/<zone>-all.json`. These four zones blank multi-word headwords whole and may split a long headword across units.
 Zones and book names: `ZONES` / `BOOK_OF` in colloc_emit.py.
 
 Question = the collocation with the headword blanked + 中文 → choose 1 of 4 words of the same part of speech.

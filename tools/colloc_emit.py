@@ -26,11 +26,19 @@ ZONES = {
     "cc": ("學測單字搭配詞 · 連接詞與轉承語篇 Connectives", "連接詞 Connectives", "Conj", "conj.", "hot"),
     "jn": ("會考單字搭配詞 · 名詞篇 Noun Collocations", "名詞 Nouns", "N", "n.", "hot"),
     "jv": ("會考單字搭配詞 · 動詞篇 Verb Collocations", "動詞 Verbs", "V", "v.", ""),
-    # 會考 adjectives (ja) to come
+    "ja": ("會考單字搭配詞 · 形容詞篇 Adjective Collocations", "形容詞 Adjectives", "Adj", "adj.", "va"),
+    "jd": ("會考單字搭配詞 · 副詞篇 Adverb Collocations", "副詞 Adverbs", "Adv", "adv.", ""),
+    "jp": ("會考單字搭配詞 · 介係詞篇 Preposition Collocations", "介係詞 Prepositions", "Prep", "prep.", "hot"),
+    "jc": ("會考單字搭配詞 · 轉承詞篇 Connectives", "轉承詞 Connectives", "Conj", "conj.", "va"),
 }
+CONN = {"cc", "jc"}  # connective zones: the collocation is a whole example sentence
+# 會考 zones blank a multi-word headword ("in front of", "as far as I know") as a whole;
+# the 學測 zones keep the original first-word behaviour so their existing questions do not change.
+WHOLE_MULTI = {"jn", "jv", "ja", "jd", "jp", "jc"}
+SPLIT_HEADS = {"ja", "jd", "jp", "jc"}  # the older zones keep their fixed unit numbering
 # book id, book name, short tag used in tracker labels
 BOOK_OF = {z: ("colloc", "學測單字搭配詞 Collocations", "學測") for z in ("cv", "cn", "ca", "cd", "cc")}
-BOOK_OF.update({z: ("jcolloc", "會考單字搭配詞 Collocations", "會考") for z in ("jn", "jv", "ja")})
+BOOK_OF.update({z: ("jcolloc", "會考單字搭配詞 Collocations", "會考") for z in ("jn", "jv", "ja", "jd", "jp", "jc")})
 FUNC_ZH = {
     "contrast": ("shows an opposite or different idea", "對比／轉折"),
     "concession": ("admits a fact but still goes on to a different point", "讓步"),
@@ -63,11 +71,15 @@ def head_forms(h):
     return {h, h + "s", h + "es", h + "ed", h + "d", h + "ing", h + "ly", h + "er", h + "est", h + "'s", h + "s'"}
 
 
-def find_span(head, text):
+def find_span(head, text, whole_multi=False):
     """(start, end) of the headword (or its inflected/derived form) inside text, else None."""
     h = re.sub(r"\(.*?\)", "", head).split("/")[0].strip().lower()
     if not h:
         return None
+    if whole_multi and " " in h and "…" not in h and "..." not in h:
+        m = re.search(r"(?<![A-Za-z])" + re.escape(h).replace(r"\ ", r"\s+") + r"(?![A-Za-z])", text, re.I)
+        if m:
+            return (m.start(), m.end())
     if " " in h or "…" in h or "..." in h:  # multi-word connective such as "as long as", "not only … but also"
         first = re.split(r"\s*(?:…|\.\.\.)\s*", h)[0].strip()
         m = re.search(r"(?<![A-Za-z])" + re.escape(first) + r"(?![A-Za-z])", text, re.I)
@@ -125,13 +137,14 @@ def seeded(*parts):
 
 
 def build_zone(zone, rows, info, all_phrases):
-    is_conn = zone == "cc"
+    is_conn = zone in CONN
+    wm = zone in WHOLE_MULTI
     items, skipped = [], []
     for r in rows:
         if " vs" in r["en"].lower() or r["en"].lower().startswith("vs"):
             skipped.append((r["h"], r["en"], "辨析提示"))
             continue
-        span = find_span(r["h"], r["en"])
+        span = find_span(r["h"], r["en"], wm)
         if not span:
             skipped.append((r["h"], r["en"], "找不到目標字"))
             continue
@@ -206,10 +219,11 @@ def build_zone(zone, rows, info, all_phrases):
     return out, skipped
 
 
-def chunk(items):
+def chunk(items, split_heads=False):
+    """split_heads: a headword with very many rows (會考 prepositions) may run across units."""
     units, cur, last = [], [], None
     for it in items:
-        if cur and it["h"] != last and (len(cur) >= TARGET or len(cur) + 1 > MAXU):
+        if cur and ((it["h"] != last and (len(cur) >= TARGET or len(cur) + 1 > MAXU)) or (split_heads and len(cur) >= MAXU)):
             units.append(cur)
             cur = []
         cur.append(it)
@@ -236,8 +250,8 @@ def answer_slots(n, rng):
 
 def word_info(word, head, zone, ty, info):
     pos = ZONES[zone][3]
-    if zone == "cc":
-        d, c = FUNC_ZH.get(ty, ("connects ideas", "連接"))
+    if zone in CONN:
+        d, c = FUNC_ZH.get(ty, ("connects ideas", ty or "連接"))
         i = info.get(head.lower(), {})
         return {"h": word, "p": i.get("p") or "conj./adv.", "d": i.get("d") or d, "c": (i.get("c") + "｜" if i.get("c") else "") + c}
     i = info.get(head.lower(), {})
@@ -308,7 +322,7 @@ def main():
     bad_sent = []
     for zone, rows in src.items():
         items, skipped = build_zone(zone, rows, info, all_phrases)
-        units = chunk(items)
+        units = chunk(items, zone in SPLIT_HEADS)
         dash = []
         names = {}
         for n, unit in enumerate(units, 1):
@@ -316,6 +330,9 @@ def main():
             sp = SENT_DIR / f"{zone}-unit{n}.json"
             if sp.exists():
                 sent = json.loads(sp.read_text("utf-8"))
+            sa = SENT_DIR / f"{zone}-all.json"  # 會考 zones: example sentences from Jennifer's 含例句 xlsx
+            if sa.exists():
+                sent = {**json.loads(sa.read_text("utf-8")), **sent}
             rng = seeded(zone, n, "slots")
             slots = answer_slots(len(unit), rng)
             qs, cards = [], []
@@ -337,7 +354,7 @@ def main():
                 }
                 if it["en"] in sent:
                     s, st = sent[it["en"]]
-                    sspan = find_span(it["h"], s)
+                    sspan = find_span(it["h"], s, zone in WHOLE_MULTI)
                     real = s[sspan[0]:sspan[1]] if sspan else ""
                     new_opts = reinflect(q["o"], a, it["ans"], real) if real else None
                     if new_opts is None:
@@ -351,7 +368,12 @@ def main():
                 qs.append(q)
                 cards.append({"w": it["en"], "p": ZONES[zone][3], "d": f"{it['h']} · {it['ty']}", "c": it["zh"], "s": q.get("s", "")})
             first, last = unit[0]["h"], unit[-1]["h"]
-            names[str(n)] = f"{first} – {last}" if first != last else first
+            def label(h):  # a headword split over several units gets its part number: "on (2)"
+                if zone not in SPLIT_HEADS:
+                    return h
+                having = [k for k, uu in enumerate(units) if any(x["h"] == h for x in uu)]
+                return h if len(having) == 1 else f"{h} ({having.index(n - 1) + 1})"
+            names[str(n)] = f"{label(first)} – {label(last)}" if first != last else label(first)
             data = {"zone": zone, "unit": n, "units": len(units), "title": names[str(n)], "items": qs}
             (ROOT / f"{zone}-unit{n}-data.js").write_text(
                 f"// 搭配詞 {ZONES[zone][1]} Unit {n}: {names[str(n)]} — built by tools/colloc_emit.py\nwindow.COLLOC_UNIT = {js(data)};\n", "utf-8")

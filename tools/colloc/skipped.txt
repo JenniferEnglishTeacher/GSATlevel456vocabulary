@@ -281,3 +281,1005 @@ jv	fly	fly by	干擾選項不足
 jv	fly	let fly	干擾選項不足
 jv	fly	fly off the handle	干擾選項不足
 jv	fly	on the fly	干擾選項不足
+ja	alike	like 可放名詞前	找不到目標字
+ja	alive	a living thing	找不到目標字
+ja	alive	live music	找不到目標字
+ja	alive	a live show	找不到目標字
+ja	alone	lonely 寂寞（感覺）	找不到目標字
+ja	angry	anger 怒氣（名詞）	找不到目標字
+ja	angry	mad 生氣的（口語）	找不到目標字
+ja	another	other + 複數	找不到目標字
+ja	another	the other 兩者中另一	找不到目標字
+ja	another	others	找不到目標字
+ja	any	some 用於肯定句與請求	找不到目標字
+ja	asleep	a sleeping baby	找不到目標字
+ja	asleep	sleepy 想睡的	找不到目標字
+ja	bored	a boring movie	找不到目標字
+ja	bored	boring 事物令人無聊	找不到目標字
+ja	busy	crowded 擁擠的	找不到目標字
+ja	careful	care 照顧／在乎（名詞、動詞）	找不到目標字
+ja	careful	careless 粗心的	找不到目標字
+ja	cheap	low 低的（價格）	找不到目標字
+ja	cheap	expensive 貴的（物）	找不到目標字
+ja	cheap	high 高的（價格）	找不到目標字
+ja	childish	childlike 天真的（正面）	找不到目標字
+ja	cold	cool 涼爽／酷	找不到目標字
+ja	convenient	comfortable 舒服的	找不到目標字
+ja	crowded	a crowd 一群人（名詞）	找不到目標字
+ja	crowded	busy 繁忙的	找不到目標字
+ja	crowded	full 滿的	找不到目標字
+ja	cute	pretty 漂亮的（女生）	找不到目標字
+ja	cute	lovely 可愛的／美好的	找不到目標字
+ja	cute	handsome 英俊的	找不到目標字
+ja	daily	every day 每天（副詞片語）	找不到目標字
+ja	daily	everyday 日常的（形容詞）	找不到目標字
+ja	daily	day 一天（名詞）	找不到目標字
+ja	dangerous	danger 危險（名詞）	找不到目標字
+ja	dangerous	be in danger 處於危險中	找不到目標字
+ja	dangerous	endanger 危及（動詞）	找不到目標字
+ja	dead	die 死（動詞）	找不到目標字
+ja	dead	dying 快死的	找不到目標字
+ja	difficult	hard 難的／努力的	找不到目標字
+ja	difficult	hardly 幾乎不	找不到目標字
+ja	dumb	stupid 笨的	找不到目標字
+ja	dumb	silent 沉默的	找不到目標字
+ja	early	soon 不久之後	找不到目標字
+ja	elder	older than me	找不到目標字
+ja	elder	older 可比較	找不到目標字
+ja	excellent	perfect 完美的	找不到目標字
+ja	excited	exciting 事物令人興奮	找不到目標字
+ja	excited	an exciting day	找不到目標字
+ja	expensive	cost 花費（動詞）	找不到目標字
+ja	expensive	dear 昂貴的（英式）	找不到目標字
+ja	fair	fare 車資	找不到目標字
+ja	famous	well-known 眾所周知的	找不到目標字
+ja	famous	popular 受歡迎的	找不到目標字
+ja	famous	fame 名聲（名詞）	找不到目標字
+ja	fast	quick 迅速（短時間）	找不到目標字
+ja	fast	early 早	找不到目標字
+ja	few	little / a little 用於不可數	找不到目標字
+ja	few	less 較少（不可數）	找不到目標字
+ja	foreign	abroad 在國外（副詞）	找不到目標字
+ja	foreign	overseas 海外的	找不到目標字
+ja	friendly	friend 朋友（名詞）	找不到目標字
+ja	friendly	friendship 友誼（名詞）	找不到目標字
+ja	funny	fun 好玩的（名詞／形容詞）	找不到目標字
+ja	funny	interesting 有趣的（引起興趣）	找不到目標字
+ja	good	well 副詞	找不到目標字
+ja	good	well 健康的（形容詞）	找不到目標字
+ja	hard	a difficult test	找不到目標字
+ja	healthy	health 健康（名詞）	找不到目標字
+ja	healthy	well 身體好的	找不到目標字
+ja	healthy	fit 體能好的	找不到目標字
+ja	her	herself 她自己	找不到目標字
+ja	high	tall 人或樹高	找不到目標字
+ja	his	himself 他自己	找不到目標字
+ja	honest	truthful 說實話的	找不到目標字
+ja	hot	warm 溫暖的	找不到目標字
+ja	hot	heat 熱（名詞）／加熱（動詞）	找不到目標字
+ja	humorous	a sense of humor	找不到目標字
+ja	hungry	hunger 飢餓（名詞）	找不到目標字
+ja	ill	a sick man	找不到目標字
+ja	ill	sick 可放名詞前	找不到目標字
+ja	ill	feel sick	找不到目標字
+ja	interested	interesting 事物有趣	找不到目標字
+ja	interested	an interesting book	找不到目標字
+ja	its	it's	找不到目標字
+ja	large	big 大（口語；也指重要）	找不到目標字
+ja	large	great 偉大／很棒	找不到目標字
+ja	last	latest 最新的	找不到目標字
+ja	last	the latest fashion	找不到目標字
+ja	last	later 稍後	找不到目標字
+ja	last	the latter 後者	找不到目標字
+ja	latter	later 稍後（副詞）	找不到目標字
+ja	least	fewest 最少（可數）	找不到目標字
+ja	least	at most 最多	找不到目標字
+ja	left	right 右邊的／正確的	找不到目標字
+ja	light	lit 點燃（過去式）	找不到目標字
+ja	likely	probably 可能（副詞）	找不到目標字
+ja	likely	like 像／喜歡	找不到目標字
+ja	likely	alike 相像的	找不到目標字
+ja	little	few 幾乎沒有（可數）	找不到目標字
+ja	little	small 小的（尺寸）	找不到目標字
+ja	live	alive 活著的（補語）	找不到目標字
+ja	lonely	alone 單獨的（狀態）	找不到目標字
+ja	long	length 長度（名詞）	找不到目標字
+ja	long	at length 詳細地	找不到目標字
+ja	loud	aloud 出聲地	找不到目標字
+ja	lovely	love 愛（動詞、名詞）	找不到目標字
+ja	lovely	lovable 討人喜愛的	找不到目標字
+ja	lovely	lover 愛人（名詞）	找不到目標字
+ja	low	short 矮（人）	找不到目標字
+ja	lucky	luck 運氣（名詞）	找不到目標字
+ja	mad	angry 生氣的	找不到目標字
+ja	mad	crazy 瘋狂的／迷戀	找不到目標字
+ja	many	much 很多（不可數）	找不到目標字
+ja	many	a lot of 都可用	找不到目標字
+ja	more	most 最多	找不到目標字
+ja	most	almost 幾乎	找不到目標字
+ja	my	mine 我的東西	找不到目標字
+ja	my	myself 我自己	找不到目標字
+ja	near	close to 接近	找不到目標字
+ja	nervous	nerve 神經／勇氣（名詞）	找不到目標字
+ja	next	the following day 隔天	找不到目標字
+ja	noisy	loud 大聲的	找不到目標字
+ja	old	elder 哥哥姊姊的（名詞前）	找不到目標字
+ja	old	the elderly 老年人	找不到目標字
+ja	only	alone 單獨	找不到目標字
+ja	only	lonely 寂寞	找不到目標字
+ja	open	close 關閉（動詞）	找不到目標字
+ja	open	closed 關著的（形容詞）	找不到目標字
+ja	our	ourselves 我們自己	找不到目標字
+ja	outside	inside 裡面的	找不到目標字
+ja	outside	out 出去（副詞）	找不到目標字
+ja	over	on 在…上（接觸）	找不到目標字
+ja	over	above 在…上方	找不到目標字
+ja	peaceful	peace 和平（名詞）	找不到目標字
+ja	peaceful	in peace 安靜地	找不到目標字
+ja	peaceful	calm 冷靜的	找不到目標字
+ja	plain	plane 飛機	找不到目標字
+ja	pleased	pleasant 事物令人愉快	找不到目標字
+ja	pleased	pleasing 討人喜歡的	找不到目標字
+ja	pleased	please 請／使高興（動詞）	找不到目標字
+ja	polite	impolite 無禮的	找不到目標字
+ja	possible	able 能夠的（人作主詞）	找不到目標字
+ja	possible	likely 很可能的	找不到目標字
+ja	present	absent 缺席的	找不到目標字
+ja	pretty	beautiful 美麗的（更正式）	找不到目標字
+ja	pretty	handsome 英俊的（男）	找不到目標字
+ja	proud	pride 自豪（名詞）	找不到目標字
+ja	public	private 私人的	找不到目標字
+ja	quiet	quite 相當（副詞）	找不到目標字
+ja	quiet	silent 無聲的／沉默的	找不到目標字
+ja	real	true 正確的／忠實的	找不到目標字
+ja	right	write 寫	找不到目標字
+ja	right	correct 正確的	找不到目標字
+ja	round	around 周圍／大約	找不到目標字
+ja	sad	sadness 悲傷（名詞）	找不到目標字
+ja	sad	unhappy 不開心的	找不到目標字
+ja	safe	save 救／存（動詞）	找不到目標字
+ja	scared	scary 事物令人害怕	找不到目標字
+ja	scared	afraid 害怕的（補語）	找不到目標字
+ja	scared	frightened 受驚的	找不到目標字
+ja	several	a few 一些（可數）	找不到目標字
+ja	several	some 一些（可數、不可數）	找不到目標字
+ja	several	many 很多	找不到目標字
+ja	short	low 低的（物）	找不到目標字
+ja	shy	shyness 害羞（名詞）	找不到目標字
+ja	shy	quiet 內向安靜的	找不到目標字
+ja	sick	be homesick	找不到目標字
+ja	sick	be seasick	找不到目標字
+ja	sick	be carsick	找不到目標字
+ja	sick	ill 生病的（補語）	找不到目標字
+ja	silent	quiet 安靜的（小聲）	找不到目標字
+ja	simple	easy 容易的	找不到目標字
+ja	simple	single 單一的	找不到目標字
+ja	single	simple 簡單的	找不到目標字
+ja	single	double 雙的	找不到目標字
+ja	single	only 唯一的	找不到目標字
+ja	skinny	slim 苗條的（正面）	找不到目標字
+ja	skinny	thin 瘦的（中性）	找不到目標字
+ja	skinny	slender 修長的（正面）	找不到目標字
+ja	skinny	fat 胖的（直接）	找不到目標字
+ja	sleepy	asleep 睡著的（補語）	找不到目標字
+ja	slow	late 遲的	找不到目標字
+ja	small	little 小的（帶感情）	找不到目標字
+ja	small	short 矮的	找不到目標字
+ja	small	few 少的	找不到目標字
+ja	smart	clever 聰明的（反應快）	找不到目標字
+ja	smart	wise 有智慧的	找不到目標字
+ja	smart	intelligent 智力高的	找不到目標字
+ja	smart	bright 聰穎的（小孩）	找不到目標字
+ja	sore	painful 疼痛的	找不到目標字
+ja	sore	hurt 痛（動詞）	找不到目標字
+ja	sore	ache 隱痛（名詞、動詞）	找不到目標字
+ja	special	especially 特別是（副詞）	找不到目標字
+ja	straight	strait 海峽（名詞）	找不到目標字
+ja	straight	directly 直接地	找不到目標字
+ja	strange	foreign 外國的	找不到目標字
+ja	strong	strength 力量（名詞）	找不到目標字
+ja	successful	success 成功（名詞）	找不到目標字
+ja	successful	succeed 成功（動詞）	找不到目標字
+ja	such	so + 形容詞／副詞	找不到目標字
+ja	such	so many / so much	找不到目標字
+ja	super	a supermarket	找不到目標字
+ja	sure	certain 確定的（較正式）	找不到目標字
+ja	surprised	surprising 事物令人驚訝	找不到目標字
+ja	surprised	a surprise 驚喜（名詞）	找不到目標字
+ja	surprised	surprise 使驚訝（動詞）	找不到目標字
+ja	tall	high 高（山、牆、價錢）	找不到目標字
+ja	tall	height 高度（名詞）	找不到目標字
+ja	terrible	terrific 極好的（口語）	找不到目標字
+ja	their	there 那裡	找不到目標字
+ja	their	they're	找不到目標字
+ja	their	themselves 他們自己	找不到目標字
+ja	thick	fat 胖的（人）	找不到目標字
+ja	thick	thin 薄的／稀的	找不到目標字
+ja	thirsty	thirst 口渴（名詞）	找不到目標字
+ja	thirsty	hungry 飢餓的	找不到目標字
+ja	tired	tiring 事物令人累	找不到目標字
+ja	total	whole 整個的	找不到目標字
+ja	true	real 真的（非假的）	找不到目標字
+ja	useful	useless 沒用的	找不到目標字
+ja	useful	use 使用（動詞）／用途（名詞）	找不到目標字
+ja	useful	used 二手的／習慣的	找不到目標字
+ja	useful	be used to 習慣於	找不到目標字
+ja	useful	used to 過去常常	找不到目標字
+ja	usual	unusual 不尋常的	找不到目標字
+ja	valuable	value 價值（名詞）／重視（動詞）	找不到目標字
+ja	valuable	worth 值…的	找不到目標字
+ja	weak	week 星期（名詞）	找不到目標字
+ja	well	good 好的（形容詞）	找不到目標字
+ja	whole	all 所有的（all + 複數／不可數）	找不到目標字
+ja	whole	a hole 洞（名詞）	找不到目標字
+ja	wide	worldwide	找不到目標字
+ja	wide	broad 寬闊的（較正式、抽象）	找不到目標字
+ja	wise	clever 聰明的	找不到目標字
+ja	wonderful	work wonders	找不到目標字
+ja	wrong	false 假的	找不到目標字
+ja	wrong	mistake 錯誤（名詞）	找不到目標字
+ja	young	youth 青春／年輕人（名詞）	找不到目標字
+ja	young	little 小的（弟妹口語）	找不到目標字
+ja	early	an early bird	干擾選項不足
+ja	early	an early start	干擾選項不足
+ja	early	an early breakfast	干擾選項不足
+ja	early	an early night	干擾選項不足
+ja	early	an early death	干擾選項不足
+ja	elder	an elderly man	干擾選項不足
+ja	live	living 活著的／生活的	干擾選項不足
+ja	open	opened 打開（過去式）	干擾選項不足
+ja	past	passed 經過（pass 的過去式）	干擾選項不足
+ja	sleepy	sleeping 正在睡的	干擾選項不足
+ja	touch	touched 感動的	干擾選項不足
+ja	touch	touching 令人感動的	干擾選項不足
+ja	ugly	an ugly scene	干擾選項不足
+ja	ugly	an ugly word	干擾選項不足
+ja	ugly	an ugly truth	干擾選項不足
+jd	a few	few friends	找不到目標字
+jd	a few	few（可數，幾乎沒有）	找不到目標字
+jd	a few	a little（不可數，有一些）	找不到目標字
+jd	a few	little（不可數，幾乎沒有）	找不到目標字
+jd	a lot	lots of	找不到目標字
+jd	abroad	go to a foreign country	找不到目標字
+jd	abroad	go overseas	找不到目標字
+jd	ago	before（之前；完成式）	找不到目標字
+jd	ago	three days before	找不到目標字
+jd	almost	most students（大部分學生）	找不到目標字
+jd	alone	lonely（寂寞的）	找不到目標字
+jd	alone	I feel lonely.	找不到目標字
+jd	aloud	loud（大聲的；大聲地）	找不到目標字
+jd	aloud	loudly（大聲地）	找不到目標字
+jd	aloud	speak louder	找不到目標字
+jd	already	yet（尚未；否定句、問句）	找不到目標字
+jd	already	still（仍然）	找不到目標字
+jd	already	Have you eaten yet?	找不到目標字
+jd	already	I haven't eaten yet.	找不到目標字
+jd	also	too（放句尾）	找不到目標字
+jd	also	as well（句尾）	找不到目標字
+jd	also	either（否定句尾）	找不到目標字
+jd	also	I like it, too.	找不到目標字
+jd	also	I don't like it, either.	找不到目標字
+jd	altogether	all together（全部一起）	找不到目標字
+jd	altogether	We sang all together.	找不到目標字
+jd	anymore	no longer（不再）	找不到目標字
+jd	anymore	I no longer live here.	找不到目標字
+jd	anymore	not…any longer	找不到目標字
+jd	anywhere	somewhere（肯定句）	找不到目標字
+jd	anywhere	everywhere（每個地方）	找不到目標字
+jd	anywhere	nowhere（沒有地方）	找不到目標字
+jd	backward	forward（向前）	找不到目標字
+jd	before	ago（…之前；只接時間）	找不到目標字
+jd	before	I saw it two days ago.	找不到目標字
+jd	besides	except（除了，排除）	找不到目標字
+jd	besides	beside（在旁邊）	找不到目標字
+jd	besides	Everyone came except Tom.	找不到目標字
+jd	daily	every day（每天；兩字）	找不到目標字
+jd	daily	everyday（日常的；一字）	找不到目標字
+jd	daily	everyday English	找不到目標字
+jd	downstairs	go upstairs	找不到目標字
+jd	downstairs	live upstairs	找不到目標字
+jd	early	soon（不久；很快）	找不到目標字
+jd	early	fast（快速）	找不到目標字
+jd	early	See you soon.	找不到目標字
+jd	either	too（也；肯定句）	找不到目標字
+jd	either	neither…nor（既不…也不）	找不到目標字
+jd	especially	specially（專門地）	找不到目標字
+jd	especially	made specially for kids	找不到目標字
+jd	everywhere	here and there	找不到目標字
+jd	everywhere	all over the place	找不到目標字
+jd	fast	quickly（快速地）	找不到目標字
+jd	fast	quick（快的）	找不到目標字
+jd	finally	at last（終於；盼望已久）	找不到目標字
+jd	finally	in the end（最後）	找不到目標字
+jd	finally	at the end of（在…末尾）	找不到目標字
+jd	finally	lastly（最後一點）	找不到目標字
+jd	home	go to school	找不到目標字
+jd	however	but（但是；不加逗號）	找不到目標字
+jd	inside	upside down（上下顛倒）	找不到目標字
+jd	inside	back to front（前後反穿）	找不到目標字
+jd	just	only（只有）	找不到目標字
+jd	last	latest（最新的）	找不到目標字
+jd	last	the latest news	找不到目標字
+jd	later	in two days（兩天後；從現在）	找不到目標字
+jd	later	See you in two days.	找不到目標字
+jd	later	after（之後；接時間點）	找不到目標字
+jd	least	at most（最多）	找不到目標字
+jd	least	at most ten	找不到目標字
+jd	less	fewer（較少；可數）	找不到目標字
+jd	less	fewer people	找不到目標字
+jd	maybe	may be（可能是；兩字，動詞）	找不到目標字
+jd	maybe	He may be sick.	找不到目標字
+jd	maybe	perhaps（也許；較正式）	找不到目標字
+jd	much	many + 可數名詞	找不到目標字
+jd	near	next to（在旁邊）	找不到目標字
+jd	nearly	near（接近）	找不到目標字
+jd	neither	So do I.	找不到目標字
+jd	next	the following day	找不到目標字
+jd	often	once a week	找不到目標字
+jd	outside	outdoors（戶外）	找不到目標字
+jd	outside	inside（裡面）	找不到目標字
+jd	overseas	abroad（國外）	找不到目標字
+jd	overseas	foreign（外國的）	找不到目標字
+jd	overseas	a foreign country	找不到目標字
+jd	perhaps	maybe（也許；口語）	找不到目標字
+jd	perhaps	probably（很可能）	找不到目標字
+jd	perhaps	possibly（可能）	找不到目標字
+jd	pretty	quite（相當）	找不到目標字
+jd	pretty	rather（相當；偏負面）	找不到目標字
+jd	probably	maybe（也許，約 50%）	找不到目標字
+jd	probably	possibly（有可能，較低）	找不到目標字
+jd	probably	certainly（一定）	找不到目標字
+jd	quick	fast（快速；形容詞與副詞同形）	找不到目標字
+jd	quite	very（非常）	找不到目標字
+jd	really	real（真的；形容詞）	找不到目標字
+jd	really	a real friend	找不到目標字
+jd	really	truly（真誠地）	找不到目標字
+jd	right	write（寫）	找不到目標字
+jd	second	two（二）	找不到目標字
+jd	seldom	rarely（很少）	找不到目標字
+jd	seldom	hardly ever（幾乎從不）	找不到目標字
+jd	since	for + 時間長度	找不到目標字
+jd	since	for ten years	找不到目標字
+jd	so	such + 名詞	找不到目標字
+jd	sometimes	some time（一段時間；兩字）	找不到目標字
+jd	sometimes	sometime（某個時候）	找不到目標字
+jd	sometimes	some times（幾次）	找不到目標字
+jd	sometimes	It took some time.	找不到目標字
+jd	sometimes	Come and see me sometime.	找不到目標字
+jd	somewhere	Did you go anywhere?	找不到目標字
+jd	soon	quickly（快速）	找不到目標字
+jd	still	yet（尚未；否定句尾）	找不到目標字
+jd	still	already（已經）	找不到目標字
+jd	still	He hasn't got up yet.	找不到目標字
+jd	still	He has already got up.	找不到目標字
+jd	straight	directly（直接地）	找不到目標字
+jd	there	their（他們的）	找不到目標字
+jd	there	they're（他們是）	找不到目標字
+jd	therefore	so（所以；連接詞）	找不到目標字
+jd	therefore	It rained, so we stayed.	找不到目標字
+jd	therefore	as a result（結果）	找不到目標字
+jd	through	across（橫越；從表面）	找不到目標字
+jd	through	over（越過；上方）	找不到目標字
+jd	through	walk across the street	找不到目標字
+jd	through	jump over the wall	找不到目標字
+jd	today	this morning	找不到目標字
+jd	today	tonight（今晚）	找不到目標字
+jd	today	nowadays（現今）	找不到目標字
+jd	today	these days	找不到目標字
+jd	together	altogether（總共）	找不到目標字
+jd	tonight	this evening	找不到目標字
+jd	tonight	tomorrow night	找不到目標字
+jd	tonight	at night	找不到目標字
+jd	tonight	in the evening	找不到目標字
+jd	twice	once（一次）	找不到目標字
+jd	twice	three times（三次）	找不到目標字
+jd	twice	three times as big	找不到目標字
+jd	under	below（在…以下；不一定正下方）	找不到目標字
+jd	under	below zero	找不到目標字
+jd	under	above（在…上方）	找不到目標字
+jd	under	over（在…正上方）	找不到目標字
+jd	upside down	inside out（裡外顛倒）	找不到目標字
+jd	upside down	back to front（前後顛倒）	找不到目標字
+jd	upside down	upside-down cake	找不到目標字
+jd	upstairs	go up the stairs	找不到目標字
+jd	upstairs	downstairs（樓下）	找不到目標字
+jd	upstairs	on the second floor	找不到目標字
+jd	usually	more than usual	找不到目標字
+jd	usually	often（常常）	找不到目標字
+jd	usually	sometimes（有時）	找不到目標字
+jd	usually	seldom（很少）	找不到目標字
+jd	usually	never（從不）	找不到目標字
+jd	usually	always（總是）	找不到目標字
+jd	very	much taller	找不到目標字
+jd	well	good（好的；形容詞）	找不到目標字
+jd	well	good English	找不到目標字
+jd	well	feel good（心情好）	找不到目標字
+jd	wrong	right（正確地）	找不到目標字
+jd	yesterday	last night（昨晚）	找不到目標字
+jd	yesterday	the day before（前一天）	找不到目標字
+jd	a few	quite a few students	干擾選項不足
+jd	a few	a few more minutes	干擾選項不足
+jd	a few	only a few	干擾選項不足
+jd	a few	a few of them	干擾選項不足
+jd	a few	a few（可數，有一些）	干擾選項不足
+jd	a little	a little tired	干擾選項不足
+jd	a little	a little bit	干擾選項不足
+jd	a little	a little more	干擾選項不足
+jd	a little	a little late	干擾選項不足
+jd	a little	know a little English	干擾選項不足
+jd	a little	a little at a time	干擾選項不足
+jd	a lot	a lot more work	干擾選項不足
+jd	late	later（之後）	干擾選項不足
+jd	long	no longer	干擾選項不足
+jd	long	not any longer	干擾選項不足
+jd	soon	no sooner…than	干擾選項不足
+jd	soon	the sooner the better	干擾選項不足
+jd	today	today's news	干擾選項不足
+jd	tonight	tonight's show	干擾選項不足
+jd	yesterday	yesterday's news	干擾選項不足
+jp	about	think about vs. think of	辨析提示
+jp	about	on history (專門) vs. about history (一般)	辨析提示
+jp	above	above (不接觸) vs. over (正上方／覆蓋)	辨析提示
+jp	above	above vs. on top of	辨析提示
+jp	above	over the river (橫越)	找不到目標字
+jp	across	across (表面橫越) vs. through (穿過內部)	辨析提示
+jp	across	walk through the forest (穿過林中)	找不到目標字
+jp	across	jump over the wall (跨越上方)	找不到目標字
+jp	across	across the bridge vs. over the bridge	辨析提示
+jp	after	after (之後) vs. behind (後面)	辨析提示
+jp	after	after vs. in (未來時間)	辨析提示
+jp	after	in two days (從現在起)	找不到目標字
+jp	against	against (反對) vs. for (支持)	辨析提示
+jp	against	against (靠著) vs. on (在上面)	辨析提示
+jp	among	between (兩者) vs. among (三者以上)	辨析提示
+jp	among	between you and me	找不到目標字
+jp	among	between the two trees	找不到目標字
+jp	among	choose between A and B	找不到目標字
+jp	as	as (職業身分) vs. like (像)	辨析提示
+jp	as	work like a dog (像)	找不到目標字
+jp	as	like a friend (比喻)	找不到目標字
+jp	at	at night vs. in the morning	辨析提示
+jp	at	at noon vs. in the afternoon	辨析提示
+jp	at	at the weekend vs. on the weekend	辨析提示
+jp	at	at the corner (街角) vs. in the corner (房間角落)	辨析提示
+jp	at	at home vs. in the house	辨析提示
+jp	at	at school (上學) vs. in the school (建築內)	辨析提示
+jp	at	arrive at the station vs. arrive in Taipei	辨析提示
+jp	at	at the table (用餐) vs. on the table (桌上)	辨析提示
+jp	at	be angry at sth. vs. angry with sb.	辨析提示
+jp	at	shout at (生氣地) vs. shout to (叫喚)	辨析提示
+jp	at	throw at (攻擊) vs. throw to (傳給)	辨析提示
+jp	at	laugh at (嘲笑) vs. laugh with (一起笑)	辨析提示
+jp	before	before (之前) vs. in front of (正前方)	辨析提示
+jp	before	before vs. ago	辨析提示
+jp	before	two days ago (距今)	找不到目標字
+jp	before	before long (不久) vs. long before (很久以前)	辨析提示
+jp	behind	behind (後面) vs. after (之後／追)	辨析提示
+jp	behind	run after (追) vs. run behind	辨析提示
+jp	behind	at the back of	找不到目標字
+jp	below	below (下方不接觸) vs. under (正下方／覆蓋)	辨析提示
+jp	below	under the table (正下方)	找不到目標字
+jp	below	under 18 vs. below 18	辨析提示
+jp	beside	beside (旁邊) vs. besides (除了…還有)	辨析提示
+jp	beside	next to	找不到目標字
+jp	besides	besides (包含) vs. except (不含)	辨析提示
+jp	besides	Everyone came except John.	找不到目標字
+jp	between	between (兩者) vs. among (多者)	辨析提示
+jp	between	from A to B	找不到目標字
+jp	between	among the students	找不到目標字
+jp	by	by (在…之前) vs. until (直到)	辨析提示
+jp	by	Wait here until Friday.	找不到目標字
+jp	by	by bus (交通方式) vs. on the bus (在車上)	辨析提示
+jp	by	by car vs. in the car	辨析提示
+jp	by	by hand vs. with my hands	辨析提示
+jp	by	by (工具／方法) vs. with (手持工具)	辨析提示
+jp	by	cut it with a knife	找不到目標字
+jp	by	by (被動作者) vs. with (材料)	辨析提示
+jp	by	be covered with snow	找不到目標字
+jp	by	be made of wood	找不到目標字
+jp	by	be made from grapes	找不到目標字
+jp	down	from top to bottom	找不到目標字
+jp	during	during (期間, 名詞) vs. while (當…時, 子句)	辨析提示
+jp	during	while we were eating	找不到目標字
+jp	during	during (何時) vs. for (多久)	辨析提示
+jp	during	for three hours (長度)	找不到目標字
+jp	during	in the night	找不到目標字
+jp	during	during vs. in (強調全程)	辨析提示
+jp	except	except (不含) vs. besides (包含)	辨析提示
+jp	except	except vs. except for	辨析提示
+jp	except	except vs. expect (期待)	辨析提示
+jp	except	but	找不到目標字
+jp	except	accept (接受) vs. except (除了)	辨析提示
+jp	for	for (支持) vs. against (反對)	辨析提示
+jp	for	for (多久) vs. since (從何時起)	辨析提示
+jp	for	since 2020	找不到目標字
+jp	for	for (多久) vs. during (哪段期間)	辨析提示
+jp	for	leave for (前往) vs. leave (離開)	辨析提示
+jp	for	wait for (等) vs. expect	辨析提示
+jp	for	for (目的／對象) vs. to (方向)	辨析提示
+jp	for	a gift for you vs. give it to you	辨析提示
+jp	for	famous for (特色) vs. famous as (身分)	辨析提示
+jp	for	be good for (有益) vs. be good at (擅長)	辨析提示
+jp	for	be sorry for (同情／抱歉) vs. sorry about	辨析提示
+jp	from	be made from (看不出原料) vs. be made of (看得出)	辨析提示
+jp	from	the desk is made of wood	找不到目標字
+jp	from	from (起點) vs. since (持續至今)	辨析提示
+jp	from	since 9 o'clock	找不到目標字
+jp	from	be tired from (因…而累) vs. be tired of (厭倦)	辨析提示
+jp	from	die from (外因) vs. die of (疾病)	辨析提示
+jp	from	hear from (收到來信) vs. hear of (聽說)	辨析提示
+jp	from	borrow from vs. lend to	辨析提示
+jp	from	be far from (離…遠) vs. far away	辨析提示
+jp	in	in the tree (外來物) vs. on the tree (長出來的)	辨析提示
+jp	in	in the street (英) vs. on the street (美)	辨析提示
+jp	in	in the corner (室內) vs. at the corner (街角)	辨析提示
+jp	in	in the car vs. on the bus	辨析提示
+jp	in	in bed (睡) vs. on the bed (坐)	辨析提示
+jp	in	in the picture (圖中) vs. on the wall (牆上)	辨析提示
+jp	in	in time (及時) vs. on time (準時)	辨析提示
+jp	in	in the end (最後) vs. at the end of (在…末端)	辨析提示
+jp	in	in the morning vs. on Monday morning	辨析提示
+jp	in	in May vs. on May 5	辨析提示
+jp	in	in the way (擋路) vs. on the way (路上)	辨析提示
+jp	in	in the front of (內部前方) vs. in front of (外部前方)	辨析提示
+jp	in	in hospital (住院) vs. in the hospital (在醫院裡)	辨析提示
+jp	in	in school (就學) vs. at school (在學校)	辨析提示
+jp	in	in the sky vs. in space	辨析提示
+jp	in	in the sun (曬太陽) vs. under the sun (天底下)	辨析提示
+jp	in	arrive in (大地方) vs. arrive at (小地方)	辨析提示
+jp	in	in two weeks (兩週後) vs. for two weeks (兩週)	辨析提示
+jp	in	in cash vs. by credit card	辨析提示
+jp	in	in pencil vs. with a pencil	辨析提示
+jp	in	in English vs. by English (錯誤)	辨析提示
+jp	in	in the rain (淋雨) vs. under the rain (錯誤)	辨析提示
+jp	in	in the morning vs. at night	辨析提示
+jp	into	in (靜態) vs. into (動態進入)	辨析提示
+jp	into	be in the room vs. walk into the room	辨析提示
+jp	into	into (變成) vs. to (轉向)	辨析提示
+jp	into	turn into (變成) vs. turn to (轉向)	辨析提示
+jp	into	get into the car vs. get on the bus	辨析提示
+jp	into	look into (調查) vs. look at (看)	辨析提示
+jp	into	run into (偶遇) vs. run after (追)	辨析提示
+jp	like	like (像) vs. as (身分)	辨析提示
+jp	like	like a teacher (像) vs. as a teacher (就是)	辨析提示
+jp	like	What is he like? (個性) vs. What does he like? (喜好)	辨析提示
+jp	like	like (介係詞) vs. alike (形容詞)	辨析提示
+jp	like	They look alike.	找不到目標字
+jp	like	such as vs. like	辨析提示
+jp	like	feel like + V-ing (想) vs. would like to V	辨析提示
+jp	like	like (喜歡, 動詞) vs. like (像, 介係詞)	辨析提示
+jp	like	be like (像) vs. be likely to (可能)	辨析提示
+jp	near	near (接近, 無 to) vs. close to	辨析提示
+jp	near	near (介係詞) vs. nearby (形／副)	辨析提示
+jp	near	near vs. next to (緊鄰)	辨析提示
+jp	of	be made of (看得出材料) vs. be made from	辨析提示
+jp	of	die of (疾病) vs. die from (外因)	辨析提示
+jp	of	think of (想到) vs. think about (思考)	辨析提示
+jp	of	hear of (聽說) vs. hear from (收到消息)	辨析提示
+jp	of	be tired of (厭倦) vs. be tired from (累)	辨析提示
+jp	of	a number of (許多) vs. the number of (數量)	辨析提示
+jp	of	be afraid of sth. vs. be afraid to do	辨析提示
+jp	of	dream of (夢想) vs. dream about (作夢)	辨析提示
+jp	of	It is kind of you (個性) vs. It is easy for me (難易)	辨析提示
+jp	of	of course vs. off course	辨析提示
+jp	of	of (屬於) vs. off (離開)	辨析提示
+jp	off	off (離開表面) vs. of (屬於)	辨析提示
+jp	off	turn off (關) vs. turn down (關小)	辨析提示
+jp	off	get off (下大車) vs. get out of (下小車)	辨析提示
+jp	off	take off (脫) vs. put on (穿)	辨析提示
+jp	off	put off (延後) vs. call off (取消)	辨析提示
+jp	off	off (離開) vs. from (來自)	辨析提示
+jp	off	be off (休假) vs. be out (外出)	辨析提示
+jp	off	off work (下班) vs. out of work (失業)	辨析提示
+jp	on	on (表面) vs. in (內部) vs. at (點)	辨析提示
+jp	on	on the bus (在車上) vs. in the car (在車裡)	辨析提示
+jp	on	on the wall (牆面) vs. in the wall (牆內)	辨析提示
+jp	on	on the tree (長出來) vs. in the tree (外來)	辨析提示
+jp	on	on time (準時) vs. in time (及時)	辨析提示
+jp	on	on the way (路上) vs. in the way (擋路)	辨析提示
+jp	on	on the corner (街角) vs. at the corner / in the corner	辨析提示
+jp	on	on the weekend (美) vs. at the weekend (英)	辨析提示
+jp	on	on Monday vs. in the morning vs. at 9:00	辨析提示
+jp	on	on the beach (沙灘上) vs. at the beach (去海邊)	辨析提示
+jp	on	on the phone (講電話) vs. by phone (用電話)	辨析提示
+jp	on	on TV (電視節目) vs. on the TV (電視機上)	辨析提示
+jp	on	on sale (特價) vs. for sale (出售)	辨析提示
+jp	on	on the farm vs. in the field	辨析提示
+jp	on	on the left vs. to the left	辨析提示
+jp	on	on earth (究竟) vs. on the earth (地球上)	辨析提示
+jp	on	get on (上大車) vs. get in (上小車)	辨析提示
+jp	on	spend on (花在…上) vs. spend doing	辨析提示
+jp	on	agree on (事) vs. agree with (人)	辨析提示
+jp	on	be on a diet vs. go on a diet	辨析提示
+jp	on	turn on (開) vs. turn up (調大)	辨析提示
+jp	on	put on (穿上) vs. wear (穿著)	辨析提示
+jp	on	on holiday vs. on vacation	辨析提示
+jp	out	out of (離開內部) vs. off (離開表面)	辨析提示
+jp	out	get out of the car vs. get off the bus	辨析提示
+jp	out	out of work (失業) vs. off work (下班)	辨析提示
+jp	out	out of order (故障) vs. in order (有序)	辨析提示
+jp	out	out of date (過時) vs. up to date (最新)	辨析提示
+jp	out	out of (用完) vs. without (沒有)	辨析提示
+jp	out	run out of (用完) vs. run out (跑出去)	辨析提示
+jp	out	look out (小心) vs. look out of (往外看)	辨析提示
+jp	out	find out (查明) vs. find (找到)	辨析提示
+jp	out	turn out (結果是) vs. turn on	辨析提示
+jp	out	put out (撲滅) vs. put off (延後)	辨析提示
+jp	out	out (副詞) vs. out of (介係詞)	辨析提示
+jp	over	over (跨越上方／覆蓋) vs. above (較高處)	辨析提示
+jp	over	the clouds above us (上方)	找不到目標字
+jp	over	over (越過) vs. across (橫越表面) vs. through (穿過內部)	辨析提示
+jp	over	over (超過) vs. more than	辨析提示
+jp	over	over the phone vs. on the phone	辨析提示
+jp	over	over the weekend vs. at the weekend	辨析提示
+jp	over	over (結束) vs. finished	辨析提示
+jp	over	get over (克服) vs. get through (完成；度過)	辨析提示
+jp	over	look over (瀏覽) vs. look after (照顧)	辨析提示
+jp	over	run over (撞到) vs. run into (偶遇)	辨析提示
+jp	over	over (介係詞) vs. above (副詞也可)	辨析提示
+jp	over	all over (到處) vs. over (結束)	辨析提示
+jp	past	past (經過, 介係詞) vs. passed (動詞過去式)	辨析提示
+jp	past	past (時間) vs. to (差幾分)	辨析提示
+jp	past	ten past six (6:10) vs. ten to six (5:50)	辨析提示
+jp	past	past (超過) vs. after (之後)	辨析提示
+jp	past	past (經過身邊) vs. by (經過)	辨析提示
+jp	since	since (起點) vs. for (長度)	辨析提示
+jp	since	since 9 o'clock vs. for three hours	辨析提示
+jp	since	since (時間, 用完成式) vs. from (起點, 不限時態)	辨析提示
+jp	since	from 2010 to 2015	找不到目標字
+jp	since	since (因為, 連接詞) vs. since (自從)	辨析提示
+jp	since	since vs. ago	辨析提示
+jp	since	since vs. after	辨析提示
+jp	through	through (穿過內部) vs. across (橫越表面) vs. over (越過上方)	辨析提示
+jp	through	through (介係詞／副詞) vs. throughout (遍及)	辨析提示
+jp	through	through the night (整夜) vs. throughout the night (每時每刻)	辨析提示
+jp	through	Monday through Friday (美, 含) vs. Monday to Friday	辨析提示
+jp	through	through (完成) vs. finished	辨析提示
+jp	through	get through (通過／完成) vs. get over (克服)	辨析提示
+jp	through	look through (翻閱) vs. look over (瀏覽)	辨析提示
+jp	through	see through (看穿) vs. see about (處理)	辨析提示
+jp	through	through (憑藉) vs. by (方式)	辨析提示
+jp	until	until (持續到) vs. by (期限前)	辨析提示
+jp	until	be here by six	找不到目標字
+jp	until	not…until (直到…才) vs. until (直到)	辨析提示
+jp	until	until (時間) vs. as far as (距離)	辨析提示
+jp	until	until (介係詞 + 名詞) vs. until (連接詞 + 子句)	辨析提示
+jp	to	to (方向／對象) vs. for (目的／對象)	辨析提示
+jp	to	give it to me vs. buy it for me	辨析提示
+jp	to	talk to (對人) vs. talk about (談論)	辨析提示
+jp	to	be used to + V-ing (習慣) vs. used to + V (以前)	辨析提示
+jp	to	to the left (向左) vs. on the left (在左邊)	辨析提示
+jp	to	ten to six (5:50) vs. ten past six (6:10)	辨析提示
+jp	to	be kind to (對人) vs. be kind of (個性)	辨析提示
+jp	to	too (也／太) vs. to (到)	辨析提示
+jp	to	be good to (對人好) vs. be good for (有益) vs. be good at (擅長)	辨析提示
+jp	to	be late for (遲到) vs. be late to	辨析提示
+jp	toward	toward (朝向, 不一定到) vs. to (到達)	辨析提示
+jp	toward	walk to the station (走到車站)	找不到目標字
+jp	toward	toward (態度對象) vs. to (對象)	辨析提示
+jp	under	under (正下方／覆蓋) vs. below (較低處)	辨析提示
+jp	under	under the table vs. below the window	辨析提示
+jp	under	under (少於) vs. less than	辨析提示
+jp	under	under the weather (不舒服) vs. in bad weather (壞天氣)	辨析提示
+jp	under	under the sun (世上) vs. in the sun (曬太陽)	辨析提示
+jp	under	under way (進行中) vs. on the way (路上)	辨析提示
+jp	under	under control (受控) vs. out of control (失控)	辨析提示
+jp	up	up (向上) vs. down (向下)	辨析提示
+jp	up	turn up (調大) vs. turn down (調小／拒絕)	辨析提示
+jp	up	get up (起床) vs. wake up (醒來)	辨析提示
+jp	up	grow up (長大) vs. grow (生長)	辨析提示
+jp	up	look up (查) vs. look up to (尊敬) vs. look down on (看不起)	辨析提示
+jp	up	pick up (接／撿) vs. pick out (挑選)	辨析提示
+jp	up	put up with (忍受) vs. put up (搭建)	辨析提示
+jp	up	bring up (養育／提起) vs. grow up (長大)	辨析提示
+jp	up	catch up with (趕上) vs. keep up with (跟上)	辨析提示
+jp	up	stay up (熬夜) vs. sit up	辨析提示
+jp	up	up to date (最新) vs. out of date (過時)	辨析提示
+jp	up	be up to sb. (由某人決定) vs. be up to sth. (在做壞事)	辨析提示
+jp	up	up (副詞) vs. up (介係詞 + 名詞)	辨析提示
+jp	up	use up (用完) vs. run out of	辨析提示
+jp	up	fill up (加滿) vs. fill in / fill out (填表)	辨析提示
+jp	up	end up (最後成為) vs. in the end	辨析提示
+jp	up	hang up (掛電話) vs. hold on (稍等)	辨析提示
+jp	upon	on arriving	找不到目標字
+jp	upon	upon (書面) vs. on (口語)	辨析提示
+jp	with	with (工具) vs. by (方式)	辨析提示
+jp	with	cut with a knife vs. go by bus	辨析提示
+jp	with	with (和) vs. and (以及)	辨析提示
+jp	with	be angry with sb. (人) vs. be angry at sth. (事)	辨析提示
+jp	with	agree with sb. (人) vs. agree on sth. (事) vs. agree to (提議)	辨析提示
+jp	with	be covered with (被覆蓋) vs. be covered by (被動作者)	辨析提示
+jp	with	be filled with (裝滿) vs. be full of	辨析提示
+jp	with	be pleased with (對…滿意) vs. be pleased to V	辨析提示
+jp	with	be bored with (對…無聊) vs. be bored of (口語)	辨析提示
+jp	with	be popular with (受…歡迎) vs. be popular among	辨析提示
+jp	with	be busy with (忙於某事) vs. be busy doing	辨析提示
+jp	with	compare with (比較) vs. compare to (比作)	辨析提示
+jp	with	with (附帶) vs. without (沒有)	辨析提示
+jp	with	coffee with sugar vs. coffee without sugar	辨析提示
+jp	with	with (伴隨) vs. by (作者)	辨析提示
+jp	with	a book with pictures vs. a book by Tom	辨析提示
+jp	with	die of (死因) vs. die with (帶著)	辨析提示
+jp	with	shake with fear (因) vs. shake hands with (和)	辨析提示
+jp	with	be with sb. (陪伴) vs. be for sb. (支持)	辨析提示
+jp	with	help sb. with (幫忙做) vs. help sb. to V	辨析提示
+jp	with	be good with (擅長應付) vs. be good at (擅長技能)	辨析提示
+jp	with	together with (連同) vs. along with	辨析提示
+jp	with	deal with (處理) vs. deal in (買賣)	辨析提示
+jp	with	do with (處理) vs. do without (沒有也行)	辨析提示
+jp	without	without (沒有, 介係詞 + N/V-ing) vs. not having	辨析提示
+jp	without	without (沒有) vs. with (有)	辨析提示
+jp	without	without doubt vs. no doubt	辨析提示
+jp	without	without (缺少) vs. except (排除)	辨析提示
+jp	without	go without (沒有而忍受) vs. do without (沒有也行)	辨析提示
+jp	without	with no money	找不到目標字
+jp	within	within (之內, 不超過) vs. in (…之後)	辨析提示
+jp	within	within an hour (一小時內) vs. in an hour (一小時後)	辨析提示
+jp	within	within (內部) vs. inside	辨析提示
+jp	within	within reach vs. out of reach	辨析提示
+jp	within	within (範圍) vs. without (沒有)	辨析提示
+jp	than	than (比較) vs. then (然後)	辨析提示
+jp	than	than (比較) vs. from (不同)	辨析提示
+jp	but	next to the last	找不到目標字
+jp	but	but (除了, 介係詞) vs. but (但是, 連接詞)	辨析提示
+jp	but	nothing but (只有) vs. anything but (絕不是)	辨析提示
+jp	but	all but (幾乎) vs. all but one (除一個外)	辨析提示
+jp	but	cannot help + V-ing	找不到目標字
+jp	because of	because of + 名詞 vs. because + 子句	辨析提示
+jp	because of	because of the rain vs. because it rained	辨析提示
+jp	because of	thanks to (多正面) vs. because of (中性)	辨析提示
+jp	because of	as a result of	找不到目標字
+jp	instead of	instead of + N/V-ing (介係詞) vs. instead (副詞, 句尾／句首)	辨析提示
+jp	instead of	I stayed home instead.	找不到目標字
+jp	instead of	in one's place	找不到目標字
+jp	in front of	in front of (外部前方) vs. in the front of (內部前方)	辨析提示
+jp	in front of	a seat in the front of the bus	找不到目標字
+jp	in front of	in front of vs. before (時間／抽象)	辨析提示
+jp	in front of	in front of vs. ahead of (前方更遠／領先)	辨析提示
+jp	in front of	behind (後面) vs. in front of (前面)	辨析提示
+jp	in front of	at the front of	找不到目標字
+jp	in front of	in front vs. in the front	辨析提示
+jp	in the front of	the front of the car	找不到目標字
+jp	in the front of	in the back of the room	找不到目標字
+jp	next to	next to (緊鄰) vs. near (附近)	辨析提示
+jp	next to	next to (旁邊) vs. next (下一個)	辨析提示
+jp	next to	next door to	找不到目標字
+jp	next to	next to nothing (幾乎沒有) vs. nothing	辨析提示
+jp	in spite of	in spite of + 名詞 vs. although + 子句	辨析提示
+jp	in spite of	in spite of the rain vs. although it rained	辨析提示
+jp	according to	according to vs. based on	辨析提示
+jp	according to	according to the plan vs. as planned	辨析提示
+jp	according to	according to vs. depending on	辨析提示
+jp	ahead of	ahead of (領先／前方) vs. in front of (正前方)	辨析提示
+jp	ahead of	ahead of time (提前) vs. on time (準時) vs. in time (及時)	辨析提示
+jp	ahead of	ahead of vs. before (時間)	辨析提示
+jp	ahead of	behind (落後) vs. ahead of (領先)	辨析提示
+jp	ahead of	go ahead (請便) vs. go ahead of (走在…前面)	辨析提示
+jp	far from	So far, so good.	找不到目標字
+jp	far from	as far as the eye can see	找不到目標字
+jp	far from	as far as the park	找不到目標字
+jp	far from	far from (距離) vs. far from (絕非)	辨析提示
+jp	far from	far from vs. far away from	辨析提示
+jp	far from	far from vs. near	辨析提示
+jp	far from	as far as (遠到／就…而言) vs. as long as (只要)	辨析提示
+jp	far from	so far (到目前為止) vs. by far (遠遠地)	辨析提示
+jp	away from	be miles away	找不到目標字
+jp	away from	right away	找不到目標字
+jp	such as	such as (列舉) vs. for example (舉例, 可獨立)	辨析提示
+jp	such as	such as (例如) vs. such…as (像…那樣的)	辨析提示
+jp	such as	such a good boy	找不到目標字
+jp	such as	such…that (如此…以致)	找不到目標字
+jp	such as	and so on	找不到目標字
+jp	as for	as for (至於) vs. as to (關於)	辨析提示
+jp	as for	as for (換話題) vs. for (為了)	辨析提示
+jp	as for	as to whether	找不到目標字
+jp	apart from	fall apart	找不到目標字
+jp	apart from	take apart	找不到目標字
+jp	apart from	tell them apart	找不到目標字
+jp	apart from	be worlds apart	找不到目標字
+jp	apart from	grow apart	找不到目標字
+jp	apart from	apart from (除了, 可含可不含) vs. except (不含) vs. besides (包含)	辨析提示
+jp	apart from	apart (分開, 副詞) vs. apart from (介係詞)	辨析提示
+jp	apart from	a part (一部分) vs. apart (分開)	辨析提示
+jp	aside from	put aside	找不到目標字
+jp	aside from	set aside time	找不到目標字
+jp	aside from	step aside	找不到目標字
+jp	aside from	stand aside	找不到目標字
+jp	aside from	joking aside	找不到目標字
+jp	aside from	leave it aside	找不到目標字
+jp	aside from	take sb. aside	找不到目標字
+jp	aside from	brush aside	找不到目標字
+jp	aside from	lay aside	找不到目標字
+jp	aside from	move aside	找不到目標字
+jp	aside from	turn aside	找不到目標字
+jp	aside from	all joking aside	找不到目標字
+jp	in the middle of	be caught in the middle	找不到目標字
+jp	on top of	come out on top	找不到目標字
+jp	on top of	on top	找不到目標字
+jp	on top of	at the top of	找不到目標字
+jp	on top of	at the top of one's voice	找不到目標字
+jp	on top of	on top of (接觸, 上面) vs. above (上方不接觸) vs. over (覆蓋)	辨析提示
+jp	on top of	on top of the hill vs. at the top of the hill	辨析提示
+jp	on top of	on top of (除此之外) vs. besides	辨析提示
+jp	on top of	at the top of the page (頂端) vs. on the top of (頂部表面)	辨析提示
+jp	on top of	top (頂) vs. bottom (底)	辨析提示
+jp	at the end of	at the end of (在…結尾) vs. in the end (最後, 終於)	辨析提示
+jp	at the end of	at the end of the day (一天結束) vs. in the end (結果)	辨析提示
+jp	at the end of	by the end of (在…結束前) vs. at the end of (在…結束時)	辨析提示
+jp	at the end of	at the beginning of vs. at the end of	辨析提示
+jp	at the end of	to the end (到最後) vs. at the end (在結尾)	辨析提示
+jp	at the end of	end up (最後成為)	找不到目標字
+jp	in addition to	in addition (單用, 副詞)	找不到目標字
+jp	in addition to	in addition to + N (包含) vs. except (不含)	辨析提示
+jp	in addition to	in addition (句首, 副詞) vs. in addition to (介係詞)	辨析提示
+jp	in addition to	add to (增加) vs. in addition to	辨析提示
+jp	in addition to	as well as (以及) 連接兩名詞	找不到目標字
+jp	in case of	in case of + 名詞 vs. in case + 子句	辨析提示
+jp	in case of	in case of rain vs. in case it rains	辨析提示
+jp	in case of	in case (以防) vs. if (如果)	辨析提示
+jp	in case of	Take an umbrella in case.	找不到目標字
+jp	in case of	in any case	找不到目標字
+jp	in case of	in this case	找不到目標字
+jp	in case of	in no case	找不到目標字
+jp	in charge of	the person in charge	找不到目標字
+jp	in charge of	take charge of	找不到目標字
+jp	in charge of	in the charge of sb.	找不到目標字
+jp	in charge of	be in charge	找不到目標字
+jp	in charge of	put sb. in charge	找不到目標字
+jp	in charge of	free of charge	找不到目標字
+jp	in charge of	charge for	找不到目標字
+jp	close to	a close friend	找不到目標字
+jp	close to	close up	找不到目標字
+jp	close to	close at hand	找不到目標字
+jp	close to	close to (接近, 需 to) vs. near (不需 to)	辨析提示
+jp	close to	close (靠近, 形／副) vs. close (關, 動詞)	辨析提示
+jp	close to	close to vs. next to (緊鄰)	辨析提示
+jp	close to	closely (仔細地) vs. close (靠近)	辨析提示
+jp	close to	close to vs. almost (幾乎)	辨析提示
+jp	up to	It's up to you. vs. What are you up to?	辨析提示
+jp	up to	up to (最多) vs. at least (至少)	辨析提示
+jp	up to	live up to (不負) vs. live on (靠…生活)	辨析提示
+jp	up to	be up to (勝任) vs. be able to	辨析提示
+jp	inside of	inside (介係詞) vs. inside of (口語)	辨析提示
+jp	inside of	inside out (裡外翻) vs. upside down (上下顛倒)	辨析提示
+jp	except for	except for (整體中例外, 可句首) vs. except (同類排除, 不句首)	辨析提示
+jp	except for	all days except Sunday	找不到目標字
+jp	except for	except for vs. besides (包含)	辨析提示
+jp	except for	but for (要不是) vs. except for (除了)	辨析提示
+jp	out of	out of (離開內部) vs. off (離開表面) vs. from (來自)	辨析提示
+jp	out of	out of (原因) vs. for (目的)	辨析提示
+jp	out of	out of (比例) vs. of	辨析提示
+jp	out of	three out of ten vs. three of them	辨析提示
+jp	out of	out of work (失業) vs. off work (下班) vs. at work (上班中)	辨析提示
+jp	out of	out of (介係詞) vs. out (副詞)	辨析提示
+jp	out of	out of the question (不可能) vs. out of question (無疑, 舊用法)	辨析提示
+jp	beside	Besides English, he speaks French.	干擾選項不足
+jp	down	ups and downs	干擾選項不足
+jp	near	nearly	干擾選項不足
+jp	past	He passed the test.	干擾選項不足
+jp	past	pass by	干擾選項不足
+jp	in the front of	in the front of the room	干擾選項不足
+jp	in the front of	sit in the front of the bus	干擾選項不足
+jp	in the front of	a picture in the front of the book	干擾選項不足
+jp	in the front of	in the front of the line	干擾選項不足
+jp	in the middle of	in the middle of the room	干擾選項不足
+jp	in the middle of	in the middle of the class	干擾選項不足
+jp	in the middle of	in the middle of dinner	干擾選項不足
+jp	in the middle of	in the middle of doing homework	干擾選項不足
+jp	in the middle of	in the middle of nowhere	干擾選項不足
+jp	in the middle of	in the middle of the week	干擾選項不足
+jp	in the middle of	in the middle of a meeting	干擾選項不足
+jp	in the middle of	in the middle of winter	干擾選項不足
+jp	in the middle of	in the middle of the day	干擾選項不足
+jp	at the end of	at the end of the day	干擾選項不足
+jp	at the end of	at the end of the year	干擾選項不足
+jp	at the end of	at the end of the class	干擾選項不足
+jp	at the end of	at the end of the week	干擾選項不足
+jp	at the end of	at the end of the movie	干擾選項不足
+jp	at the end of	at the end of the term	干擾選項不足
+jp	at the end of	at the end of May	干擾選項不足
+jp	at the end of	at the end of the road	干擾選項不足
+jp	at the end of	at the end of the hall	干擾選項不足
+jp	at the end of	at the end of the line	干擾選項不足
+jp	at the end of	at the end of the street	干擾選項不足
+jp	at the end of	at the end of the book	干擾選項不足
+jp	at the end of	at the end of the table	干擾選項不足
+jp	in addition to	in addition to	干擾選項不足
+jc	but	but (介係詞，除了) vs. besides (除了…還有)：Everyone but Tom came. / Besides Tom, Mary came too.	辨析提示
+jc	yet	yet (還沒，用於否定句、問句) vs. already (已經，用於肯定句) vs. still (仍然)	辨析提示
+jc	while	while + 句子 (當…時) vs. during + 名詞 (在…期間)	辨析提示
+jc	on the other hand	on the other hand (另一方面，兩面看法) vs. on the one hand…on the other hand (成對) vs. however (然而，單純轉折)	辨析提示
+jc	on the other hand	hand 相關：give sb. a hand (幫忙) / hand in (交出) / on hand (在手邊) / by hand (手工)	找不到目標字
+jc	instead	instead (副詞，句首或句尾) vs. instead of + N／V-ing	辨析提示
+jc	instead	instead (副詞，單獨用，句首或句尾) vs. instead of + N／V-ing (介係詞片語)	辨析提示
+jc	unlike	unlike (不像，介係詞) vs. like (像，介係詞) vs. don't like (不喜歡，動詞)	辨析提示
+jc	even if	even if (假設「即使」) vs. even though (事實「儘管」)	辨析提示
+jc	even if	even if (即使，假設未發生) vs. even though (儘管，事實已發生) vs. even so (即使如此，副詞片語)	辨析提示
+jc	anyway	anyway (無論如何／反正，副詞) vs. any way (任何方法，名詞片語) vs. by the way (順便一提)	辨析提示
+jc	after all	after all (畢竟／終究) vs. above all (最重要的是) vs. first of all (首先) vs. all in all (總的來說)	辨析提示
+jc	since	since (既然) vs. since (自從，與完成式連用)	辨析提示
+jc	since	since (自從：主句用完成式) vs. since (既然：主句用一般式)	辨析提示
+jc	since	since + 時間點 vs. for + 一段時間	辨析提示
+jc	as	as (因為，語氣輕，原因是已知的) vs. because (因為，語氣強，說明新原因)	辨析提示
+jc	as	like + 名詞 (像) vs. as + 句子 (如同)：She sings like a bird. / Do as I do.	辨析提示
+jc	so	so (附和肯定句：So do I.) vs. neither / nor (附和否定句：Neither do I.)	辨析提示
+jc	so	so + adj. + that (so tired that) vs. such + (a) + adj. + N + that (such a tired boy that)	辨析提示
+jc	for	for (因為，連接詞，前有逗號，不放句首) vs. because (可放句首)	辨析提示
+jc	for	for + 一段時間 (for two years) vs. since + 時間點 (since 2020) vs. during + 名詞 (during the summer)	辨析提示
+jc	that's why	that's why + 結果 vs. that's because + 原因	辨析提示
+jc	now that	I have to go right now. See you tomorrow.	找不到目標字
+jc	now that	From now on, I will get up at six every day.	找不到目標字
+jc	now that	He should be home by now. Let's call him.	找不到目標字
+jc	now that	I saw him just now in the library.	找不到目標字
+jc	now that	We visit Grandma every now and then.	找不到目標字
+jc	now that	now 的片語：right now (馬上／現在) / from now on (從今以後) / by now (到現在) / just now (剛剛) / now and then (偶爾) vs. now that (既然，連接詞)	辨析提示
+jc	thanks to	thanks to + N (多虧，由於) vs. thank sb. for + N／V-ing (為…感謝某人) vs. thanks for (謝謝…)	辨析提示
+jc	too	too (太，負面意味) vs. very (非常，中性) vs. so (如此)	辨析提示
+jc	either	too (肯定句句尾，也) vs. either (否定句句尾，也不) vs. neither (兩者都不) vs. also (放句中)	辨析提示
+jc	besides	besides (此外，副詞) vs. beside (在…旁邊，介係詞)	辨析提示
+jc	besides	besides (此外，副詞／除了…還有，介係詞) vs. beside (在…旁邊) vs. except (除了…之外不包括)	辨析提示
+jc	in addition	in addition (句首，加逗號) vs. in addition to + N	辨析提示
+jc	such as	It was such a nice day that we went to the park.	找不到目標字
+jc	such as	I have never seen such a big dog before.	找不到目標字
+jc	such as	Such people are hard to work with.	找不到目標字
+jc	like	like + 名詞 (像…一樣，介係詞) vs. as + 句子 (如同) vs. alike (相像的，形容詞放句尾)	辨析提示
+jc	to begin with	The word "banana" begins with the letter B.	找不到目標字
+jc	to begin with	The show will begin with a song by the kids.	找不到目標字
+jc	to begin with	begin with (以…開頭、開始) vs. To begin with, …(首先，句首)	辨析提示
+jc	first	first (首先) vs. at first (起初，後來改變)	辨析提示
+jc	first	first (首先，列舉順序) vs. at first (起初，後來改變) vs. first of all (首先，強調)	辨析提示
+jc	next	next to (在…旁邊) / next door (隔壁) / the next day (第二天，過去) vs. next week (下週，未來，不加 the)	辨析提示
+jc	later	later (之後，過去或未來皆可) vs. after (介係詞／連接詞)	辨析提示
+jc	later	later (之後，副詞，單獨用：two days later) vs. after (介係詞／連接詞，後接名詞或句子：after two days) vs. in (未來多久後：in two days)	辨析提示
+jc	finally	finally / at last (終於，等很久) vs. finally / lastly (最後一點，列舉)	辨析提示
+jc	at last	at last (終於，等待很久後) vs. at the end of + N (在…的末尾) vs. in the end (最後，結果) vs. last (最後的／上一個的) vs. lastly (最後一點)	辨析提示
+jc	in the end	in the end (最後，結果) vs. at the end of + N	辨析提示
+jc	in the end	in the end (最後，結果；不加 of) vs. at the end of + N (在…的盡頭／末尾) vs. by the end of + N (在…結束之前)	辨析提示
+jc	as long as	as long as (和…一樣長／長達) vs. as long as (只要，條件)	辨析提示
+jc	in case	in case + 句子 (以防萬一) vs. in case of + 名詞 (如果發生) vs. in that case (那樣的話) vs. in any case (無論如何)	辨析提示
+jc	in case	It may rain. In that case, we will stay home. / In any case, call me when you arrive.	找不到目標字
+jc	whether…or	whether…or not (是否／不管) vs. if（只用於間接問句）	辨析提示
+jc	when	when (當…時，一次性或長時間皆可) vs. while (當…時，強調過程，常接進行式)	辨析提示
+jc	after	after (連接詞／介係詞) vs. after that / later（副詞）	辨析提示
+jc	until	until (持續到某時間點：stay until 9) vs. by (在某時間點前完成：finish by 9)	辨析提示
+jc	once	once (一旦，連接詞) vs. once (一次／曾經，副詞)	辨析提示
+jc	the moment	the moment + 句子 (一…就…) vs. at the moment (現在，此刻) vs. for the moment (暫時) vs. in a moment (馬上)	辨析提示
+jc	above all	The plane flew above the clouds.	找不到目標字
+jc	above all	The temperature will stay above thirty degrees this week.	找不到目標字
+jc	above all	Children above twelve must buy a ticket.	找不到目標字
+jc	above all	above (在…上方／超過，介係詞) vs. above all (最重要的是)	辨析提示
+jc	especially	especially (尤其，副詞) vs. special (特別的，形容詞)	辨析提示
+jc	even	even (甚至，副詞，修飾字詞) vs. even though (儘管，連接詞，接句子) vs. even if (即使，假設)	辨析提示
+jc	by the way	by the way (順便一提) vs. on the way (在路上) vs. in the way (擋路) vs. in a way (在某方面)	辨析提示
+jc	by the way	I bought some bread on the way home. / Your bag is in the way. Please move it.	找不到目標字
+jc	by the way	In a way, you are right, but I still don't agree.	找不到目標字
+jc	sadly	sadly (難過地，修飾動詞) vs. Sadly, …(遺憾的是，句首語氣)	辨析提示
+jc	clearly	clearly (清楚地，修飾動詞) vs. Clearly, …(顯然，句首語氣)	辨析提示
+jc	honestly	honestly (誠實地，修飾動詞) vs. Honestly, …(老實說，句首語氣)	辨析提示
+jc	well	well (副詞，修飾動詞：sing well) vs. good (形容詞，修飾名詞：a good singer)	辨析提示
+jc	at least	The ticket costs at most three hundred dollars.	找不到目標字
+jc	at least	at least + 數字 (至少) vs. at most (最多)；at least 也可表「至少，退一步說」	辨析提示
+jc	rather than	would rather A than B（寧願 A 而不要 B）	找不到目標字
+jc	rather than	I would rather stay home than go out tonight.	找不到目標字
+jc	rather than	It is rather cold today, so wear a jacket.	找不到目標字
+jc	rather than	He is not my friend, or rather, he was my friend.	找不到目標字
+jc	rather than	I'd rather not talk about it now.	找不到目標字
+jc	rather than	would rather + 原形 V (寧願) / would rather not (寧可不) / rather + adj. (相當) / or rather (更確切地說)	找不到目標字
+jc	in turn	It's your turn to wash the dishes tonight.	找不到目標字
+jc	in turn	We took turns driving the car on the long trip.	找不到目標字
+jc	in turn	Wait for your turn in line, please.	找不到目標字
+jc	in turn	turn 當名詞	找不到目標字
+jc	in turn	in turn (輪流／反過來) vs. in return (作為回報)	辨析提示
+jc	in turn	I helped him, and in return he gave me a book.	找不到目標字
+jc	either…or	You can either take a bus or walk to the station.	干擾選項不足
+jc	either…or	Either you or I have to clean the room today.	干擾選項不足
+jc	either…or	either A or B；動詞與 B 一致	干擾選項不足
+jc	neither…nor	Neither my brother nor I like cold weather.	干擾選項不足
+jc	neither…nor	She neither called nor sent me a message.	干擾選項不足
+jc	neither…nor	neither A nor B（兩者都不）；動詞與 B 一致	干擾選項不足
+jc	whether…or	I don't know whether she will come or not.	干擾選項不足
+jc	whether…or	Whether you like it or not, you have to go to school.	干擾選項不足
+jc	as far as I know	As far as I know, the store opens at nine.	干擾選項不足
+jc	as far as I know	As far as I know, she has never been to Japan.	干擾選項不足
+jc	as a matter of fact	As a matter of fact, I have never met him.	干擾選項不足
+jc	as a matter of fact	She isn't lazy. As a matter of fact, she works harder than anyone.	干擾選項不足

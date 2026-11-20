@@ -1,1 +1,6 @@
-
+ja-unit14	easier said than done	Everyone says it is easy to stop eating sweets, but as we all know, that is easier said than done.
+jp-unit27	on the island	Only about two hundred people live on the island, and most of them are fishermen or farmers.
+jp-unit27	on the menu	There are only a few vegetable dishes on the menu, so my mother ordered a salad and some soup.
+jp-unit28	on foot	The school is only ten minutes away, so I go there on foot every morning with my neighbor.
+jp-unit30	be on one's side	When everyone laughed at my idea, only my best friend Lily was on my side and said it was great.
+jc-unit19	I would stay home rather than go out in the rain.	On hot summer days, my grandmother would rather stay inside with a fan than walk to the market under the sun.

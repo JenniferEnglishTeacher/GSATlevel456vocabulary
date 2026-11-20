@@ -19383,5 +19383,1595 @@
 "p": "v./n.",
 "d": "to feel afraid that something bad may happen",
 "c": "擔心"
+},
+"foreign": {
+"p": "adj.",
+"d": "from another country",
+"c": "外國的"
+},
+"active": {
+"p": "adj.",
+"d": "busy doing things; taking action",
+"c": "積極的"
+},
+"safe": {
+"p": "adj.",
+"d": "not in danger",
+"c": "安全的"
+},
+"latter": {
+"p": "adj.",
+"d": "nearer to the end; the second of two",
+"c": "後者的，較後的"
+},
+"silver": {
+"p": "n. / adj.",
+"d": "a shiny white metallic element used for coins, ornaments, and utensils",
+"c": "銀；白銀；銀製的"
+},
+"peaceful": {
+"p": "adj.",
+"d": "free from disturbance; calm and quiet; not involving war",
+"c": "和平的；安詳寧靜的"
+},
+"sunny": {
+"p": "adj.",
+"d": "bright with a lot of sun",
+"c": "晴朗的"
+},
+"deaf": {
+"p": "adj.",
+"d": "unable to hear anything or unable to hear well",
+"c": "聾的；重聽的"
+},
+"funny": {
+"p": "adj.",
+"d": "making you laugh",
+"c": "好笑的"
+},
+"different": {
+"p": "adj.",
+"d": "not the same",
+"c": "不同的"
+},
+"selfish": {
+"p": "adj.",
+"d": "caring only about oneself and not about other people",
+"c": "自私的"
+},
+"else": {
+"p": "adj.",
+"d": "different; in addition",
+"c": "別的"
+},
+"lonely": {
+"p": "adj.",
+"d": "sad because you are alone",
+"c": "寂寞的"
+},
+"their": {
+"p": "det.",
+"d": "belonging to them",
+"c": "他們的"
+},
+"primary": {
+"p": "adj.",
+"d": "main; most important",
+"c": "主要的"
+},
+"rude": {
+"p": "adj.",
+"d": "not polite; having bad manners toward others",
+"c": "無禮的；粗魯的"
+},
+"surprised": {
+"p": "adj.",
+"d": "feeling that you did not expect something",
+"c": "感到驚訝的"
+},
+"pleasant": {
+"p": "adj.",
+"d": "giving a sense of happy satisfaction or enjoyment",
+"c": "令人愉快的；宜人的"
+},
+"lovely": {
+"p": "adj.",
+"d": "beautiful or very nice",
+"c": "可愛的"
+},
+"pale": {
+"p": "adj.",
+"d": "having less color than usual, especially on the face because of illness",
+"c": "蒼白的；灰白的"
+},
+"yellow": {
+"p": "adj.",
+"d": "the color of bananas and the sun",
+"c": "黃色（的）"
+},
+"rare": {
+"p": "adj.",
+"d": "not common or not seen or happening very often",
+"c": "罕見的；稀有的"
+},
+"sneaky": {
+"p": "adj.",
+"d": "doing things in a secret and often dishonest way",
+"c": "鬼鬼祟祟的；狡猾的"
+},
+"real": {
+"p": "adj.",
+"d": "not fake; not only in stories",
+"c": "真正的"
+},
+"other": {
+"p": "pron.",
+"d": "the second of two; the ones that are left",
+"c": "其他的（人／物）"
+},
+"basic": {
+"p": "adj.",
+"d": "forming the foundation or most important part; simple",
+"c": "基礎的；基本的"
+},
+"careful": {
+"p": "adj.",
+"d": "thinking about what you do so you do not make mistakes",
+"c": "仔細的"
+},
+"interesting": {
+"p": "adj.",
+"d": "making you want to know more",
+"c": "有趣的"
+},
+"yummy": {
+"p": "adj.",
+"d": "tasting very good",
+"c": "好吃的"
+},
+"local": {
+"p": "adj. / n.",
+"d": "relating to a particular area or neighborhood",
+"c": "當地的；本地人"
+},
+"national": {
+"p": "adj.",
+"d": "of a whole country",
+"c": "國家的"
+},
+"electric": {
+"p": "adj.",
+"d": "using electricity to work",
+"c": "電的，電動的"
+},
+"smart": {
+"p": "adj.",
+"d": "able to learn and think quickly",
+"c": "聰明的"
+},
+"born": {
+"p": "v.",
+"d": "having come into the world as a baby",
+"c": "出生（be born）"
+},
+"distant": {
+"p": "adj.",
+"d": "far away",
+"c": "遙遠的"
+},
+"male": {
+"p": "adj. / n.",
+"d": "belonging to the sex that does not give birth to young",
+"c": "男性的；雄性的"
+},
+"private": {
+"p": "adj.",
+"d": "only for one person or group and not for public use",
+"c": "私人的；私密的"
+},
+"ugly": {
+"p": "adj.",
+"d": "not nice to look at",
+"c": "醜的"
+},
+"handsome": {
+"p": "adj.",
+"d": "good-looking (for a man or boy)",
+"c": "英俊的"
+},
+"healthy": {
+"p": "adj.",
+"d": "well and strong; not sick",
+"c": "健康的"
+},
+"total": {
+"p": "n.",
+"d": "the whole number when you add everything together",
+"c": "總數；總計"
+},
+"your": {
+"p": "det.",
+"d": "belonging to you",
+"c": "你（們）的"
+},
+"international": {
+"p": "adj.",
+"d": "relating to, involving, or between two or more nations",
+"c": "國際的"
+},
+"crowded": {
+"p": "adj.",
+"d": "full of people, leaving little or no room for movement",
+"c": "擁擠的"
+},
+"pop": {
+"p": "adj.",
+"d": "(of music) modern and liked by many young people",
+"c": "流行的"
+},
+"third": {
+"p": "num.",
+"d": "coming after the second; number 3 in order",
+"c": "第三（的）"
+},
+"thirsty": {
+"p": "adj.",
+"d": "wanting to drink",
+"c": "口渴的"
+},
+"beautiful": {
+"p": "adj.",
+"d": "very nice to look at",
+"c": "美麗的"
+},
+"natural": {
+"p": "adj.",
+"d": "existing in or caused by nature; not made or caused by humankind",
+"c": "自然的；天然的；天生的"
+},
+"classical": {
+"p": "adj.",
+"d": "traditional and long-lasting in style",
+"c": "經典的"
+},
+"stupid": {
+"p": "adj.",
+"d": "not smart",
+"c": "笨的"
+},
+"super": {
+"p": "adj.",
+"d": "very, very good",
+"c": "超級的，極好的"
+},
+"brave": {
+"p": "adj.",
+"d": "not afraid to do hard or dangerous things",
+"c": "勇敢的"
+},
+"brown": {
+"p": "adj.",
+"d": "the color of chocolate and wood",
+"c": "棕色（的）"
+},
+"popular": {
+"p": "adj.",
+"d": "liked by many people",
+"c": "受歡迎的"
+},
+"freezing": {
+"p": "adj.",
+"d": "very, very cold",
+"c": "冰凍的，極冷的"
+},
+"enough": {
+"p": "adj.",
+"d": "as much or as many as you need",
+"c": "足夠的"
+},
+"pleased": {
+"p": "adj.",
+"d": "feeling or showing pleasure and satisfaction",
+"c": "感到欣慰滿意的"
+},
+"gray": {
+"p": "adj.",
+"d": "the color between black and white",
+"c": "灰色（的）"
+},
+"necessary": {
+"p": "adj.",
+"d": "needed in order to achieve a particular result",
+"c": "必須的；必要的"
+},
+"silent": {
+"p": "adj.",
+"d": "without any sound; not speaking",
+"c": "寂靜的；無聲的；沉默的"
+},
+"comfortable": {
+"p": "adj.",
+"d": "feeling nice and relaxed; nice to sit on, wear, or be in",
+"c": "舒適的"
+},
+"tall": {
+"p": "adj.",
+"d": "high from head to foot",
+"c": "高的"
+},
+"favorite": {
+"p": "adj.",
+"d": "liked the most",
+"c": "最喜愛的"
+},
+"another": {
+"p": "det.",
+"d": "one more; a different one",
+"c": "再一個；另一個"
+},
+"excellent": {
+"p": "adj.",
+"d": "very, very good",
+"c": "極好的"
+},
+"evil": {
+"p": "adj. / n.",
+"d": "morally bad, cruel, or causing harm; wickedness",
+"c": "邪惡的；罪惡"
+},
+"wet": {
+"p": "adj.",
+"d": "covered with water; not dry",
+"c": "濕的"
+},
+"elder": {
+"p": "adj. / n.",
+"d": "born earlier; senior; older person in a family or tribe",
+"c": "年長的；長者"
+},
+"formal": {
+"p": "adj.",
+"d": "official and serious",
+"c": "正式的"
+},
+"easy": {
+"p": "adj.",
+"d": "not hard to do",
+"c": "容易的"
+},
+"excited": {
+"p": "adj.",
+"d": "very happy about something that is going to happen",
+"c": "感到興奮的"
+},
+"difficult": {
+"p": "adj.",
+"d": "hard to do or understand",
+"c": "困難的"
+},
+"equal": {
+"p": "adj. / v.",
+"d": "the same in quantity, size, or value; to be the same as",
+"c": "相等的；等於"
+},
+"famous": {
+"p": "adj.",
+"d": "known by many people",
+"c": "有名的"
+},
+"latest": {
+"p": "adj.",
+"d": "the newest",
+"c": "最新的"
+},
+"central": {
+"p": "adj.",
+"d": "in the middle; for the whole building",
+"c": "中央的，核心的"
+},
+"false": {
+"p": "adj.",
+"d": "not true or correct; artificial",
+"c": "錯誤的；假的；虛偽的"
+},
+"scared": {
+"p": "adj.",
+"d": "afraid of something",
+"c": "害怕的"
+},
+"snowy": {
+"p": "adj.",
+"d": "with a lot of snow",
+"c": "下雪的"
+},
+"clever": {
+"p": "adj.",
+"d": "quick at learning and understanding things; skillful",
+"c": "聰明的；機敏的"
+},
+"shy": {
+"p": "adj.",
+"d": "afraid to talk to people you do not know",
+"c": "害羞的"
+},
+"happy": {
+"p": "adj.",
+"d": "feeling good and glad",
+"c": "快樂的"
+},
+"delicious": {
+"p": "adj.",
+"d": "tasting very good",
+"c": "美味的"
+},
+"impossible": {
+"p": "adj.",
+"d": "not able to occur, exist, or be done",
+"c": "不可能的；辦不到的"
+},
+"perfect": {
+"p": "adj.",
+"d": "having all the desirable elements, qualities, or characteristics",
+"c": "完美的；極佳的"
+},
+"expensive": {
+"p": "adj.",
+"d": "costing a lot of money",
+"c": "昂貴的"
+},
+"wise": {
+"p": "adj.",
+"d": "knowing a lot and making good choices",
+"c": "明智的"
+},
+"nice": {
+"p": "adj.",
+"d": "good, kind, or pleasant",
+"c": "好的"
+},
+"human": {
+"p": "n. / adj.",
+"d": "a person; characteristic of people",
+"c": "人類；人；人類的"
+},
+"independent": {
+"p": "adj.",
+"d": "free from outside control; not depending on another's authority",
+"c": "獨立的；自主的"
+},
+"large": {
+"p": "adj.",
+"d": "big",
+"c": "大的"
+},
+"noisy": {
+"p": "adj.",
+"d": "full of loud sounds",
+"c": "吵鬧的"
+},
+"terrible": {
+"p": "adj.",
+"d": "very bad",
+"c": "很糟的"
+},
+"polite": {
+"p": "adj.",
+"d": "saying \"please\" and \"thank you\"; having good manners",
+"c": "有禮貌的"
+},
+"my": {
+"p": "det.",
+"d": "belonging to me",
+"c": "我的"
+},
+"impolite": {
+"p": "adj.",
+"d": "rude; not showing good manners toward others",
+"c": "不禮貌的；粗魯的"
+},
+"old": {
+"p": "adj.",
+"d": "having lived for many years; not young",
+"c": "老的"
+},
+"sore": {
+"p": "adj.",
+"d": "hurting or painful",
+"c": "疼痛的"
+},
+"west": {
+"p": "n.",
+"d": "the direction where the sun goes down",
+"c": "西方"
+},
+"gentle": {
+"p": "adj.",
+"d": "calm, kind, and soft; not rough or violent",
+"c": "溫和的；溫柔的"
+},
+"backward": {
+"p": "adv.",
+"d": "toward the back",
+"c": "向後地"
+},
+"friendly": {
+"p": "adj.",
+"d": "kind and easy to talk to",
+"c": "友善的"
+},
+"useful": {
+"p": "adj.",
+"d": "helping you to do something",
+"c": "有用的"
+},
+"not": {
+"p": "adv.",
+"d": "a word that gives the opposite meaning",
+"c": "不（否定）"
+},
+"modern": {
+"p": "adj.",
+"d": "of the present time; new",
+"c": "現代的"
+},
+"dangerous": {
+"p": "adj.",
+"d": "able to hurt you",
+"c": "危險的"
+},
+"thin": {
+"p": "adj.",
+"d": "not fat",
+"c": "瘦的"
+},
+"dirty": {
+"p": "adj.",
+"d": "not clean",
+"c": "骯髒的"
+},
+"main": {
+"p": "adj.",
+"d": "most important",
+"c": "主要的"
+},
+"careless": {
+"p": "adj.",
+"d": "not thinking about what you are doing, so you make mistakes",
+"c": "粗心的"
+},
+"bad": {
+"p": "adj.",
+"d": "not good",
+"c": "壞的"
+},
+"absent": {
+"p": "adj.",
+"d": "not present in a place, especially school or work",
+"c": "缺席的；不在場的"
+},
+"outside": {
+"p": "prep.",
+"d": "not in a building or a room; on the outer side",
+"c": "在…外面"
+},
+"instant": {
+"p": "adj. / n.",
+"d": "happening immediately; prepared quickly; a moment",
+"c": "立即的；速食的；瞬間"
+},
+"childish": {
+"p": "adj.",
+"d": "(of an older person) acting like a small child in a silly way",
+"c": "幼稚的，孩子氣的"
+},
+"exciting": {
+"p": "adj.",
+"d": "making you feel very happy and interested",
+"c": "令人興奮的"
+},
+"whole": {
+"p": "adj. / n.",
+"d": "complete, including all parts of something",
+"c": "全部的；整個的"
+},
+"successful": {
+"p": "adj.",
+"d": "having good results",
+"c": "成功的"
+},
+"cloudy": {
+"p": "adj.",
+"d": "with many clouds in the sky",
+"c": "多雲的"
+},
+"possible": {
+"p": "adj.",
+"d": "able to happen or be done",
+"c": "可能的"
+},
+"bored": {
+"p": "adj.",
+"d": "not interested because nothing is fun",
+"c": "感到厭煩的"
+},
+"honest": {
+"p": "adj.",
+"d": "always telling the truth",
+"c": "誠實的"
+},
+"nervous": {
+"p": "adj.",
+"d": "easily agitated or alarmed; anxious about something",
+"c": "緊張不安的"
+},
+"foolish": {
+"p": "adj.",
+"d": "lacking good sense or judgment; silly",
+"c": "愚蠢的；不明智的"
+},
+"wonderful": {
+"p": "adj.",
+"d": "very, very good",
+"c": "極好的"
+},
+"pink": {
+"p": "adj.",
+"d": "the color between red and white",
+"c": "粉紅色（的）"
+},
+"minor": {
+"p": "adj.",
+"d": "small; not very important",
+"c": "次要的"
+},
+"ordinary": {
+"p": "adj.",
+"d": "normal or not special or different in any way",
+"c": "普通的；平常的"
+},
+"rainy": {
+"p": "adj.",
+"d": "with a lot of rain",
+"c": "下雨的"
+},
+"special": {
+"p": "adj.",
+"d": "different from others in a good way",
+"c": "特別的"
+},
+"extra": {
+"p": "adj. / n.",
+"d": "more than is usual, expected, or needed",
+"c": "額外的；額外的事物"
+},
+"humble": {
+"p": "adj.",
+"d": "not proud or boastful; modest about one's abilities",
+"c": "謙虛的；不起眼的"
+},
+"over-weight": {
+"p": "adj.",
+"d": "weighing more than is healthy or allowed",
+"c": "超(過)重的"
+},
+"interested": {
+"p": "adj.",
+"d": "wanting to know more about something",
+"c": "感興趣的"
+},
+"secondary": {
+"p": "adj.",
+"d": "(of a school) for students from about 12 to 18 years old",
+"c": "次要的，中等的"
+},
+"lazy": {
+"p": "adj.",
+"d": "not wanting to work or do anything",
+"c": "懶惰的"
+},
+"few": {
+"p": "adj.",
+"d": "not many",
+"c": "很少的（可數）"
+},
+"mad": {
+"p": "adj.",
+"d": "very angry, or crazy",
+"c": "生氣的；瘋狂的"
+},
+"wild": {
+"p": "adj.",
+"d": "living in natural conditions; not tamed; uncontrolled",
+"c": "野生的；狂野的"
+},
+"available": {
+"p": "adj.",
+"d": "free to use, buy or get",
+"c": "可用的"
+},
+"valuable": {
+"p": "adj.",
+"d": "very useful or important",
+"c": "有價值的；寶貴的"
+},
+"angry": {
+"p": "adj.",
+"d": "feeling mad at someone or something",
+"c": "生氣的"
+},
+"left": {
+"p": "n.",
+"d": "the side of your body where your heart is",
+"c": "左邊"
+},
+"dear": {
+"p": "adj.",
+"d": "loved; used at the start of a letter",
+"c": "親愛的"
+},
+"silly": {
+"p": "adj.",
+"d": "foolish, childish, or not serious",
+"c": "傻氣的；糊塗的"
+},
+"great": {
+"p": "adj.",
+"d": "very good",
+"c": "很棒的"
+},
+"usual": {
+"p": "adj.",
+"d": "normal or happening most of the time",
+"c": "通常的；慣常的"
+},
+"simple": {
+"p": "adj.",
+"d": "easy to understand or do",
+"c": "簡單的"
+},
+"hungry": {
+"p": "adj.",
+"d": "wanting to eat",
+"c": "飢餓的"
+},
+"married": {
+"p": "adj.",
+"d": "having a husband or a wife",
+"c": "已婚的"
+},
+"similar": {
+"p": "adj.",
+"d": "looking or being almost, but not exactly, the same",
+"c": "相似的；類似的"
+},
+"her": {
+"p": "det.",
+"d": "belonging to her",
+"c": "她的"
+},
+"sudden": {
+"p": "adj.",
+"d": "happening or done quickly and without warning",
+"c": "突然的；意外的"
+},
+"its": {
+"p": "det.",
+"d": "belonging to it",
+"c": "牠的；它的"
+},
+"same": {
+"p": "adj.",
+"d": "not different",
+"c": "相同的"
+},
+"former": {
+"p": "adj.",
+"d": "earlier; from the past",
+"c": "前者的"
+},
+"sleepy": {
+"p": "adj.",
+"d": "tired and wanting to sleep",
+"c": "想睡的，困倦的"
+},
+"convenient": {
+"p": "adj.",
+"d": "easy to use or get to",
+"c": "方便的"
+},
+"south": {
+"p": "n.",
+"d": "the direction at the bottom of a map",
+"c": "南方"
+},
+"blank": {
+"p": "adj. / n.",
+"d": "empty; without any writing, print, or marks",
+"c": "空白的；空格"
+},
+"fat": {
+"p": "adj.",
+"d": "having a big and heavy body",
+"c": "胖的"
+},
+"young": {
+"p": "adj.",
+"d": "having lived for only a few years; not old",
+"c": "年輕的"
+},
+"middle": {
+"p": "n.",
+"d": "the center of something",
+"c": "中間"
+},
+"strange": {
+"p": "adj.",
+"d": "not usual; different in a way that is hard to understand",
+"c": "奇怪的"
+},
+"female": {
+"p": "adj.",
+"d": "being a woman or a girl",
+"c": "女性的"
+},
+"boring": {
+"p": "adj.",
+"d": "not interesting or fun",
+"c": "無聊的"
+},
+"any": {
+"p": "adj.",
+"d": "one or some, no matter which; used in questions and with \"not\"",
+"c": "任何的"
+},
+"orange": {
+"p": "n.",
+"d": "a round, sweet fruit with a thick orange skin",
+"c": "柳橙"
+},
+"glad": {
+"p": "adj.",
+"d": "happy about something",
+"c": "高興的"
+},
+"chubby": {
+"p": "adj.",
+"d": "pleasantly fat and rounded, especially of children",
+"c": "圓胖的；豐滿可愛的"
+},
+"windy": {
+"p": "adj.",
+"d": "with a lot of wind",
+"c": "多風的"
+},
+"tidy": {
+"p": "adj.",
+"d": "clean, with everything in the right place",
+"c": "整潔的"
+},
+"major": {
+"p": "adj.",
+"d": "very important or big",
+"c": "主要的"
+},
+"ancient": {
+"p": "adj.",
+"d": "belonging to the very distant past and no longer in existence",
+"c": "古代的；古老的"
+},
+"social": {
+"p": "adj.",
+"d": "relating to society, its organization, or companionship",
+"c": "社會的；社交的"
+},
+"many": {
+"p": "adj.",
+"d": "a large number of (things you can count)",
+"c": "許多的（可數）"
+},
+"lucky": {
+"p": "adj.",
+"d": "having good things happen to you by chance",
+"c": "幸運的"
+},
+"important": {
+"p": "adj.",
+"d": "having great meaning or value",
+"c": "重要的"
+},
+"more": {
+"p": "adj.",
+"d": "a bigger number or amount",
+"c": "更多的"
+},
+"hard-working": {
+"p": "adj.",
+"d": "always working a lot",
+"c": "努力工作的"
+},
+"slim": {
+"p": "adj.",
+"d": "thin in a nice way",
+"c": "苗條的"
+},
+"cute": {
+"p": "adj.",
+"d": "small and nice to look at",
+"c": "可愛的"
+},
+"several": {
+"p": "adj.",
+"d": "more than two but not many",
+"c": "幾個的"
+},
+"personal": {
+"p": "adj.",
+"d": "belonging to or relating to a particular person",
+"c": "個人的；私人的"
+},
+"upper": {
+"p": "adj.",
+"d": "higher in position than something else",
+"c": "較高的；上方的"
+},
+"our": {
+"p": "det.",
+"d": "belonging to us",
+"c": "我們的"
+},
+"sad": {
+"p": "adj.",
+"d": "not happy; wanting to cry",
+"c": "悲傷的"
+},
+"generous": {
+"p": "adj.",
+"d": "showing a readiness to give more of something than is strictly necessary",
+"c": "慷慨的；大方的"
+},
+"most": {
+"p": "pron.",
+"d": "almost all of a group",
+"c": "大部分（的人／物）"
+},
+"such": {
+"p": "adj. / pron.",
+"d": "of the type previously mentioned; to an extreme degree",
+"c": "如此的；這樣的"
+},
+"helpful": {
+"p": "adj.",
+"d": "willing to help; useful",
+"c": "有幫助的"
+},
+"tiny": {
+"p": "adj.",
+"d": "extremely small in size or amount",
+"c": "極小的；微小的"
+},
+"painful": {
+"p": "adj.",
+"d": "causing physical pain or mental suffering",
+"c": "令人疼痛的；痛苦的"
+},
+"regular": {
+"p": "adj.",
+"d": "happening again and again at the same times",
+"c": "定期的，規則的"
+},
+"quiet": {
+"p": "adj.",
+"d": "with little or no sound",
+"c": "安靜的"
+},
+"serious": {
+"p": "adj.",
+"d": "very bad or important; not a joke",
+"c": "嚴重的"
+},
+"crazy": {
+"p": "adj.",
+"d": "not thinking clearly; very strange",
+"c": "瘋狂的"
+},
+"red": {
+"p": "adj.",
+"d": "the color of blood and strawberries",
+"c": "紅色（的）"
+},
+"naughty": {
+"p": "adj.",
+"d": "badly behaved; disobedient, especially of children",
+"c": "頑皮的；淘氣的"
+},
+"traditional": {
+"p": "adj.",
+"d": "following old customs",
+"c": "傳統的"
+},
+"unhappy": {
+"p": "adj.",
+"d": "not happy",
+"c": "不快樂的"
+},
+"his": {
+"p": "det.",
+"d": "belonging to him",
+"c": "他的"
+},
+"new": {
+"p": "adj.",
+"d": "recently made, bought, or arrived",
+"c": "新的"
+},
+"fresh": {
+"p": "adj.",
+"d": "just made or picked; not old",
+"c": "新鮮的"
+},
+"final": {
+"p": "adj.",
+"d": "last",
+"c": "最後的"
+},
+"usually": {
+"p": "adv.",
+"d": "most of the time",
+"c": "通常"
+},
+"now": {
+"p": "adv.",
+"d": "at this time",
+"c": "現在"
+},
+"everywhere": {
+"p": "adv.",
+"d": "to, in, or at every place",
+"c": "到處；各處"
+},
+"already": {
+"p": "adv.",
+"d": "before now; earlier than you thought",
+"c": "已經"
+},
+"there": {
+"p": "adv.",
+"d": "in that place",
+"c": "那裡"
+},
+"anywhere": {
+"p": "adv.",
+"d": "in, at, or to any place, especially in negative sentences or questions",
+"c": "在任何地方"
+},
+"perhaps": {
+"p": "adv.",
+"d": "maybe; it could be",
+"c": "或許"
+},
+"before": {
+"p": "prep.",
+"d": "earlier than",
+"c": "在…之前"
+},
+"somewhere": {
+"p": "adv.",
+"d": "in a place, but we do not know or say where",
+"c": "某處"
+},
+"inside": {
+"p": "prep.",
+"d": "in the inner part of something",
+"c": "在…內部"
+},
+"under": {
+"p": "prep.",
+"d": "lower than something; with something on top",
+"c": "在…下面"
+},
+"again": {
+"p": "adv.",
+"d": "one more time",
+"c": "再一次"
+},
+"ago": {
+"p": "adv.",
+"d": "before now; in the past",
+"c": "……以前"
+},
+"never": {
+"p": "adv.",
+"d": "not at any time",
+"c": "從不"
+},
+"upstairs": {
+"p": "adv. / adj. / n.",
+"d": "up the stairs; on an upper floor",
+"c": "樓上；在樓上"
+},
+"a few": {
+"p": "phr.",
+"d": "a small number of (things you can count)",
+"c": "一些；幾個（可數）"
+},
+"a little": {
+"p": "phr.",
+"d": "a small amount of (something you cannot count)",
+"c": "一點點（不可數）"
+},
+"a lot": {
+"p": "adv.",
+"d": "a large amount of something",
+"c": "大量"
+},
+"around": {
+"p": "prep.",
+"d": "on all sides of something",
+"c": "在…四周"
+},
+"away": {
+"p": "adv.",
+"d": "not here; in another place",
+"c": "離開；不在"
+},
+"aloud": {
+"p": "adv.",
+"d": "in a voice that others can hear",
+"c": "出聲地；大聲地"
+},
+"always": {
+"p": "adv.",
+"d": "every time; all the time",
+"c": "總是"
+},
+"yesterday": {
+"p": "n.",
+"d": "the day before today",
+"c": "昨天"
+},
+"maybe": {
+"p": "adv.",
+"d": "perhaps; it could be",
+"c": "也許"
+},
+"sometimes": {
+"p": "adv.",
+"d": "on some days or times, but not always",
+"c": "有時候"
+},
+"tonight": {
+"p": "adv.",
+"d": "the night of today",
+"c": "今晚"
+},
+"neither": {
+"p": "adv. / conj. / pron.",
+"d": "not either of two things or people",
+"c": "兩者皆不"
+},
+"today": {
+"p": "n.",
+"d": "this day",
+"c": "今天"
+},
+"here": {
+"p": "adv.",
+"d": "in this place",
+"c": "這裡"
+},
+"either": {
+"p": "adv.",
+"d": "also (used with \"not\")",
+"c": "也（不）"
+},
+"downstairs": {
+"p": "adv. / adj. / n.",
+"d": "down the stairs; on a lower floor",
+"c": "樓下；在樓下"
+},
+"below": {
+"p": "prep.",
+"d": "in a lower place than something",
+"c": "在…下方"
+},
+"except": {
+"p": "prep.",
+"d": "but not; not including",
+"c": "除了…之外"
+},
+"during": {
+"p": "prep.",
+"d": "through the whole time of something",
+"c": "在...期間"
+},
+"beside": {
+"p": "prep.",
+"d": "next to; at the side of",
+"c": "在…旁邊"
+},
+"of": {
+"p": "prep.",
+"d": "belonging to; showing what something is about",
+"c": "…的"
+},
+"across": {
+"p": "prep.",
+"d": "from one side to the other side of something",
+"c": "橫越；在…對面"
+},
+"behind": {
+"p": "prep.",
+"d": "at the back of something",
+"c": "在…後面"
+},
+"but": {
+"p": "conj.",
+"d": "used to join two ideas that are different",
+"c": "但是"
+},
+"about": {
+"p": "prep.",
+"d": "on the subject of",
+"c": "關於"
+},
+"above": {
+"p": "prep.",
+"d": "higher than something, not touching it",
+"c": "在…上方"
+},
+"in": {
+"p": "prep.",
+"d": "inside a place or a thing",
+"c": "在…裡面"
+},
+"at": {
+"p": "prep.",
+"d": "used to show an exact time or place",
+"c": "在（時間點）"
+},
+"according to": {
+"p": "phr.",
+"d": "as stated by someone or something",
+"c": "根據；按照"
+},
+"among": {
+"p": "prep.",
+"d": "in the middle of or surrounded by other things or people",
+"c": "在…之中；在…之間"
+},
+"plus": {
+"p": "conj./prep./n.",
+"d": "added to; and also",
+"c": "加上/正的"
+},
+"into": {
+"p": "prep.",
+"d": "to the inside of something",
+"c": "進入…之內"
+},
+"instead of": {
+"p": "phr.",
+"d": "in place of something or someone",
+"c": "而不是+ n/Ving"
+},
+"between": {
+"p": "prep.",
+"d": "in the middle of two people or things",
+"c": "在…之間"
+},
+"till": {
+"p": "prep. / conj.",
+"d": "up to the time of; until",
+"c": "直到…為止"
+},
+"upon": {
+"p": "prep.",
+"d": "more formal word for on; happening immediately after",
+"c": "在…之上；在…之後"
+},
+"from": {
+"p": "prep.",
+"d": "starting at a place or a time",
+"c": "從"
+},
+"along": {
+"p": "prep.",
+"d": "from one end of a road or river toward the other",
+"c": "沿著"
+},
+"than": {
+"p": "prep.",
+"d": "used when you compare two people or things",
+"c": "比"
+},
+"in charge of": {
+"p": "phr.",
+"d": "holding active management power over a department.",
+"c": "負責…、掌管…"
+},
+"after": {
+"p": "prep.",
+"d": "later than",
+"c": "在…之後"
+},
+"beyond": {
+"p": "prep.",
+"d": "on the far side of something",
+"c": "超過，在...之外"
+},
+"toward": {
+"p": "prep.",
+"d": "in the direction of somebody or something",
+"c": "朝向；面對"
+},
+"against": {
+"p": "prep.",
+"d": "opposing or disagreeing with; touching or hitting",
+"c": "反對；倚靠；碰撞"
+},
+"with": {
+"p": "prep.",
+"d": "together; using something",
+"c": "和；用"
+},
+"to": {
+"p": "prep.",
+"d": "in the direction of a place",
+"c": "到；往"
+},
+"that is to say": {
+"p": "phr.",
+"d": "in other words; namely",
+"c": "也就是說"
+},
+"when": {
+"p": "adv.",
+"d": "at what time",
+"c": "什麼時候；何時"
+},
+"in my opinion": {
+"p": "phr.",
+"d": "used to say what you personally think",
+"c": "我認為"
+},
+"rather than": {
+"p": "n.",
+"d": "instead of; used to say that one thing is chosen and not another",
+"c": "而不是(前後同詞性)"
+},
+"and": {
+"p": "conj.",
+"d": "also; used to join two words or sentences",
+"c": "和；而且"
+},
+"or": {
+"p": "conj.",
+"d": "used to join two choices",
+"c": "或；還是"
+},
+"what's more": {
+"p": "phr.",
+"d": "used to add something surprising or important",
+"c": "更重要的是；而且"
+},
+"upside down": {
+"p": "adv.",
+"d": "with the top part at the bottom",
+"c": "上下顛倒"
+},
+"anymore": {
+"p": "adv.",
+"d": "not now, although it happened before",
+"c": "不再"
+},
+"far from": {
+"p": "prep.",
+"d": "a long way away from",
+"c": "離…很遠"
+},
+"in front of": {
+"p": "prep.",
+"d": "at the place facing the front of something",
+"c": "在…前面"
+},
+"in the front of": {
+"p": "prep.",
+"d": "in the front part inside something",
+"c": "在…的前部（內部）"
+},
+"in the middle of": {
+"p": "prep.",
+"d": "at the center of; while doing",
+"c": "在…中間；正在…當中"
+},
+"out of": {
+"p": "prep.",
+"d": "from inside to outside; without any more of",
+"c": "從…出來；用完"
+},
+"because of": {
+"p": "prep.",
+"d": "as a result of",
+"c": "因為；由於"
+},
+"next to": {
+"p": "prep.",
+"d": "right beside",
+"c": "在…旁邊"
+},
+"inside of": {
+"p": "prep.",
+"d": "in the inner part of",
+"c": "在…裡面"
+},
+"along with": {
+"p": "prep.",
+"d": "together with",
+"c": "連同；和…一起"
+},
+"away from": {
+"p": "prep.",
+"d": "at a distance from",
+"c": "遠離"
+},
+"together with": {
+"p": "prep.",
+"d": "along with; and also",
+"c": "和…一起"
+},
+"on top of": {
+"p": "prep.",
+"d": "on the highest part of; in addition to",
+"c": "在…上面；除了…之外還"
+},
+"up to": {
+"p": "prep.",
+"d": "as far as; as many as",
+"c": "直到；多達"
+},
+"ahead of": {
+"p": "prep.",
+"d": "in front of; earlier than",
+"c": "在…前面；比…早"
+},
+"in addition to": {
+"p": "prep.",
+"d": "as well as",
+"c": "除了…之外（還）"
+},
+"close to": {
+"p": "prep.",
+"d": "near",
+"c": "靠近"
+},
+"in case of": {
+"p": "prep.",
+"d": "if something happens",
+"c": "萬一；以防"
+},
+"at the end of": {
+"p": "prep.",
+"d": "in the last part of",
+"c": "在…的末端／結尾"
+},
+"that's because": {
+"p": "conj.",
+"d": "the reason is that",
+"c": "那是因為"
+},
+"whether…or": {
+"p": "conj.",
+"d": "used to show two possibilities",
+"c": "無論是…還是"
+},
+"that's why": {
+"p": "conj.",
+"d": "this is the reason that",
+"c": "那就是為什麼；所以"
+},
+"to be honest": {
+"p": "adv.",
+"d": "telling the truth",
+"c": "老實說"
+},
+"such…that": {
+"p": "conj.",
+"d": "so much that (with a noun)",
+"c": "如此…以致於"
+},
+"so…that": {
+"p": "conj.",
+"d": "so much that",
+"c": "如此…以致於"
+},
+"the moment": {
+"p": "conj.",
+"d": "as soon as",
+"c": "一…就"
+},
+"neither…nor": {
+"p": "conj.",
+"d": "not one and not the other",
+"c": "既不…也不"
+},
+"luckily": {
+"p": "adv.",
+"d": "by good luck",
+"c": "幸運地"
+},
+"as well": {
+"p": "adv.",
+"d": "also; too",
+"c": "也"
+},
+"by the way": {
+"p": "adv.",
+"d": "used to change the topic",
+"c": "順便一提"
+},
+"on one hand": {
+"p": "adv.",
+"d": "used to give one side of an idea",
+"c": "一方面"
+},
+"and so on": {
+"p": "adv.",
+"d": "and other similar things",
+"c": "等等"
+},
+"no wonder": {
+"p": "adv.",
+"d": "it is not surprising that",
+"c": "難怪"
+},
+"either…or": {
+"p": "conj.",
+"d": "one or the other",
+"c": "不是…就是"
+},
+"no matter": {
+"p": "conj.",
+"d": "it is not important (what, who, how…)",
+"c": "無論"
+},
+"not only…but also": {
+"p": "conj.",
+"d": "both this and that",
+"c": "不但…而且"
+},
+"after a while": {
+"p": "adv.",
+"d": "after some time",
+"c": "過了一會兒"
+},
+"every time": {
+"p": "conj.",
+"d": "each time that; whenever",
+"c": "每當"
+},
+"as far as i know": {
+"p": "adv.",
+"d": "from what I know",
+"c": "據我所知"
+},
+"both…and": {
+"p": "conj.",
+"d": "the two things together",
+"c": "…和…都"
+},
+"as if": {
+"p": "conj.",
+"d": "in a way that seems",
+"c": "好像；彷彿"
+},
+"to tell the truth": {
+"p": "adv.",
+"d": "honestly speaking",
+"c": "說實話"
+},
+"after that": {
+"p": "adv.",
+"d": "next; then",
+"c": "在那之後"
 }
 }
