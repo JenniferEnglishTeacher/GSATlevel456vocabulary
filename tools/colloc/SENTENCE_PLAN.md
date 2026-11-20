@@ -84,9 +84,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit79 mount – muster
 - [x] cv-unit80 nail – negotiate
 - [x] cv-unit81 nest – nurse
-- [ ] cv-unit82 nurture – offend
-- [ ] cv-unit83 offer – opt
-- [ ] cv-unit84 orbit – overtake
+- [x] cv-unit82 nurture – offend
+- [x] cv-unit83 offer – opt
+- [x] cv-unit84 orbit – overtake
 - [ ] cv-unit85 overthrow – pack
 - [ ] cv-unit86 pad – patch
 - [ ] cv-unit87 patent – peer
