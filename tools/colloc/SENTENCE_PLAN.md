@@ -72,9 +72,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit67 isolate – journey
 - [x] cv-unit68 judge – keep
 - [x] cv-unit69 kick – knot
-- [ ] cv-unit70 label – lay
-- [ ] cv-unit71 leak – level
-- [ ] cv-unit72 license – line
+- [x] cv-unit70 label – lay
+- [x] cv-unit71 leak – level
+- [x] cv-unit72 license – line
 - [ ] cv-unit73 litter – loosen
 - [ ] cv-unit74 lounge – manipulate
 - [ ] cv-unit75 manufacture – master
