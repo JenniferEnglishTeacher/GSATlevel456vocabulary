@@ -99,9 +99,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit94 postpone – prejudice
 - [x] cv-unit95 prescribe – presume
 - [x] cv-unit96 pretend – probe
-- [ ] cv-unit97 proceed – program
-- [ ] cv-unit98 progress – prompt
-- [ ] cv-unit99 pronounce – pull
+- [x] cv-unit97 proceed – program
+- [x] cv-unit98 progress – prompt
+- [x] cv-unit99 pronounce – pull
 - [ ] cv-unit100 pulse – push
 - [ ] cv-unit101 put – quit
 - [ ] cv-unit102 quote – raise
