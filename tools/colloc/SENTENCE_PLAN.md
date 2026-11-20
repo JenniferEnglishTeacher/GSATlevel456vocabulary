@@ -57,9 +57,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit52 gamble – generate
 - [x] cv-unit53 gesture – grace
 - [x] cv-unit54 graduate – grip
-- [ ] cv-unit55 ground – gut
-- [ ] cv-unit56 halt – harbor
-- [ ] cv-unit57 harm – hazard
+- [x] cv-unit55 ground – gut
+- [x] cv-unit56 halt – harbor
+- [x] cv-unit57 harm – hazard
 - [ ] cv-unit58 head – highlight
 - [ ] cv-unit59 hinder – hollow
 - [ ] cv-unit60 honor – hum
