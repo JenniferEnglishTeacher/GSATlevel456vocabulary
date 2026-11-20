@@ -30,9 +30,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit25 crop – curb
 - [x] cv-unit26 curse – declare
 - [x] cv-unit27 decline – delegate
-- [ ] cv-unit28 deliberate – deploy
-- [ ] cv-unit29 deposit – detect
-- [ ] cv-unit30 determine – dim
+- [x] cv-unit28 deliberate – deploy
+- [x] cv-unit29 deposit – detect
+- [x] cv-unit30 determine – dim
 - [ ] cv-unit31 diminish – disguise
 - [ ] cv-unit32 dismiss – distribute
 - [ ] cv-unit33 disturb – dodge
