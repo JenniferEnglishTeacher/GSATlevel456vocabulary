@@ -111,9 +111,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit106 recover – refine
 - [x] cv-unit107 reflect – register
 - [x] cv-unit108 regret – relate
-- [ ] cv-unit109 release – remark
-- [ ] cv-unit110 remedy – represent
-- [ ] cv-unit111 reproduce – reserve
+- [x] cv-unit109 release – remark
+- [x] cv-unit110 remedy – represent
+- [x] cv-unit111 reproduce – reserve
 - [ ] cv-unit112 reside – respect
 - [ ] cv-unit113 respond – resume
 - [ ] cv-unit114 retain – reveal
