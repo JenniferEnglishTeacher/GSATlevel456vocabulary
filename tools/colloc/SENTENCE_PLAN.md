@@ -105,9 +105,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit100 pulse – push
 - [x] cv-unit101 put – quit
 - [x] cv-unit102 quote – raise
-- [ ] cv-unit103 rally – reach
-- [ ] cv-unit104 react – reassure
-- [ ] cv-unit105 rebel – record
+- [x] cv-unit103 rally – reach
+- [x] cv-unit104 react – reassure
+- [x] cv-unit105 rebel – record
 - [ ] cv-unit106 recover – refine
 - [ ] cv-unit107 reflect – register
 - [ ] cv-unit108 regret – relate
