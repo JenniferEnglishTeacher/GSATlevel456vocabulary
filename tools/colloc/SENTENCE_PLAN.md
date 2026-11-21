@@ -102,9 +102,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit97 proceed – program
 - [x] cv-unit98 progress – prompt
 - [x] cv-unit99 pronounce – pull
-- [ ] cv-unit100 pulse – push
-- [ ] cv-unit101 put – quit
-- [ ] cv-unit102 quote – raise
+- [x] cv-unit100 pulse – push
+- [x] cv-unit101 put – quit
+- [x] cv-unit102 quote – raise
 - [ ] cv-unit103 rally – reach
 - [ ] cv-unit104 react – reassure
 - [ ] cv-unit105 rebel – record
