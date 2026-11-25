@@ -1,7 +1,7 @@
 {
   "name": "Vocabulary Board 單字學習板",
   "short_name": "單字學習板",
-  "description": "學測6000字・LiveABC・國中小2000字・GEPT・AWL・TOEIC・IELTS 單字字卡與線上測驗",
+  "description": "學測6000字・LiveABC・國中小2000/1200/800字・4000 Essential Words・GEPT・AWL・TOEIC・IELTS・搭配詞・易混淆字・詞類變化 單字字卡與線上測驗",
   "id": "./index.html",
   "start_url": "./index.html?source=app",
   "scope": "./",

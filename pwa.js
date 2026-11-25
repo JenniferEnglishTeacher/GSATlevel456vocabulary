@@ -11,6 +11,7 @@
   })();
   const ua = navigator.userAgent || "";
   const isIOS = /iPhone|iPad|iPod/i.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  const isIPad = /iPad/i.test(ua) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
   const isAndroid = /Android/i.test(ua);
   const inApp = (() => {
     if (/\bLine\//i.test(ua)) return "LINE";
@@ -44,7 +45,9 @@
   // ---------- Service worker ----------
   if ("serviceWorker" in navigator && window.isSecureContext) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register(base + "sw.js", { scope: base || "./" }).catch(() => {});
+      navigator.serviceWorker.register(base + "sw.js", { scope: base || "./" })
+        .then(reg => { try { reg.update(); } catch (e) { /* ignore */ } }) // pick up new site versions right away
+        .catch(() => {});
     });
   }
 
@@ -127,6 +130,13 @@
         "右上角按「<b>新增</b>」，主畫面就會出現「單字學習板」圖示",
         "以後都從主畫面圖示打開。<b>第一次打開請再輸入一次姓名</b>（iPhone 的主畫面 App 和 Safari 分開存資料）"
       ],
+      ipad: [
+        "用 <b>Safari</b> 開啟本網站首頁（不要在 LINE / Threads / IG 裡開）",
+        "點網址列<b>右上角</b>的 <b>分享鍵</b>（方框加向上箭頭 ⬆）",
+        "往下滑，點「<b>加入主畫面</b>」",
+        "右上角按「<b>加入</b>／<b>新增</b>」，主畫面就會出現「單字學習板」圖示",
+        "以後都從主畫面圖示打開。<b>第一次打開請再輸入一次姓名</b>（iPad 的主畫面 App 和 Safari 分開存資料）"
+      ],
       android: [
         "用 <b>Chrome</b> 開啟本網站首頁（不要在 LINE / Threads / IG 裡開）",
         "點網址列右側的 <b>⋮</b>（更多）",
@@ -135,7 +145,7 @@
         "以後都從主畫面圖示打開，姓名和複習清單會保留"
       ]
     };
-    let tab = isIOS ? "ios" : "android";
+    let tab = isIPad ? "ipad" : isIOS ? "ios" : "android";
     host.className = "install-guide";
     function render() {
       host.innerHTML = `
@@ -146,10 +156,11 @@
         </div>
         <div class="ig-body" ${open ? "" : "hidden"}>
           <p>只要設定一次，之後就能像 App 一樣從主畫面的圖示開啟題庫，不必每次找網址；網路不穩也能打開看過的頁面，測驗成績沒送出會自動補送給老師。</p>
-          <p class="ig-note">從 Threads、LINE、Instagram 等 App 裡點連結進來的，練習進度會另外存，和 Safari、Chrome 裡的不相通。請先改用瀏覽器開啟本題庫（iPhone 用 Safari，Android 用 Chrome），再照下面的步驟做。</p>
+          <p class="ig-note">從 Threads、LINE、Instagram 等 App 裡點連結進來的，練習進度會另外存，和 Safari、Chrome 裡的不相通。請先改用瀏覽器開啟本題庫（iPhone / iPad 用 Safari，Android 用 Chrome），再照下面的步驟做。</p>
           <button type="button" class="ig-install" data-pwa-install ${deferredPrompt ? "" : "hidden"}>⬇ 一鍵安裝到主畫面 Install</button>
           <div class="ig-tabs" role="tablist">
             <button type="button" role="tab" data-tab="ios" aria-selected="${tab === "ios"}"><b>iPhone</b><span>Safari</span></button>
+            <button type="button" role="tab" data-tab="ipad" aria-selected="${tab === "ipad"}"><b>iPad</b><span>Safari</span></button>
             <button type="button" role="tab" data-tab="android" aria-selected="${tab === "android"}"><b>Android</b><span>Chrome</span></button>
           </div>
           <ol class="ig-steps">${steps[tab].map(s => `<li>${s}</li>`).join("")}</ol>

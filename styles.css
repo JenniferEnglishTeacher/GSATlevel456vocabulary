@@ -1242,7 +1242,7 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .install-guide .ig-note { color: #7a4b16; font-size: 14px; }
 .install-guide .ig-install { margin-top: 12px; width: 100%; padding: 12px; border: 0; border-radius: 12px; background: var(--teal); color: #fff; font-size: 16px; font-weight: 700; cursor: pointer; }
 .install-guide .ig-install[hidden] { display: none; }
-.install-guide .ig-tabs { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 12px; }
+.install-guide .ig-tabs { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 12px; }
 .install-guide .ig-tabs button { display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 12px; border: 2px solid #d9a441; background: #fff; cursor: pointer; font-size: 15px; }
 .install-guide .ig-tabs button b { font-size: 18px; }
 .install-guide .ig-tabs button[aria-selected="true"] { background: #e07a5f; border-color: #e07a5f; color: #fff; }

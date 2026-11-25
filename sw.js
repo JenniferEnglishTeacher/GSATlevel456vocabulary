@@ -1,11 +1,13 @@
 // Service worker for the Vocabulary Board (makes the site installable and usable on a weak connection).
 // Network first: students always get the newest pages and questions; the saved copy is used only when offline.
 // Results to the teacher's Google Sheet (script.google.com) are never touched here; tracker.js queues and resends them.
-const CACHE = "vocab-board-v1";
+const CACHE = "vocab-board-v2"; // bump when shared files change, so installed apps refresh their saved copy
 const CORE = [
   "./", "./index.html", "./styles.css", "./books.js", "./dashboard.js",
   "./tracker.js", "./tracker-config.js", "./pwa.js", "./manifest.webmanifest",
-  "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png"
+  "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png",
+  "./app.js", "./gsat-words.js", "./dialogue-tts.js", "./colloc-app.js", "./colloc.css",
+  "./cf.js", "./cf.css", "./cf-index.js", "./wf.js", "./wf.css", "./wf-index.js"
 ];
 const MAX_ENTRIES = 600;
 
