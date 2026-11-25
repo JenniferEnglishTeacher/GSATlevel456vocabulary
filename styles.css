@@ -1278,3 +1278,7 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .cf-link-row .syn-label { color: var(--cf-dark); }
 .cf-link-chip { padding: 3px 9px; border: 1px solid rgba(180,35,90,.35); border-radius: 999px; background: var(--cf-soft); color: var(--cf-dark); font-size: 13px; font-weight: 700; text-decoration: none; }
 .cf-link-chip:hover { background: #fbd9e6; }
+/* chip on every flashcard whose word has a 詞類變化 word family (app.js renderWfLink) */
+.wf-link-row .syn-label { color: #46306e; }
+.wf-link-chip { border-color: rgba(91,63,140,.35); background: #f1ecf8; color: #46306e; }
+.wf-link-chip:hover { background: #e3d7f5; }

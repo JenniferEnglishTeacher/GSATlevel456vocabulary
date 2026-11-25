@@ -514,6 +514,38 @@ function renderSynonyms(card) {
   dict.append(link);
   els.synonyms.replaceChildren(...(SETCFG.family ? [label, ...chips] : []), dict);
   renderCfLink(card);
+  renderWfLink(card);
+}
+
+// ---------- 詞類變化: link a card to its word family on the Word Formation pages (wf-index.js, loaded on demand) ----------
+let wfIndexState = window.WF_INDEX ? "ready" : "none";
+function renderWfLink(card) {
+  if (wfIndexState === "none") {
+    wfIndexState = "loading";
+    const tag = document.createElement("script");
+    tag.src = "wf-index.js?v=20261125wf";
+    tag.onload = () => { wfIndexState = "ready"; const c = currentCard(); if (c) renderWfLink(c); };
+    tag.onerror = () => { wfIndexState = "failed"; };
+    document.head.append(tag);
+    return;
+  }
+  if (wfIndexState !== "ready" || !els.synonyms) return;
+  els.synonyms.querySelectorAll(".wf-link-row").forEach(row => row.remove());
+  const hit = (window.WF_INDEX || {})[String(card.word).toLowerCase().replace(/\s*\(.*?\)\s*/g, " ").trim()];
+  if (!hit) return;
+  const row = document.createElement("span");
+  row.className = "cf-link-row wf-link-row";
+  const head = document.createElement("span");
+  head.className = "syn-label";
+  head.textContent = "🔤 詞類變化 Word Formation:";
+  const a = document.createElement("a");
+  a.className = "cf-link-chip wf-link-chip";
+  a.href = `wf-unit${hit[0]}.html#f=${encodeURIComponent(hit[1])}`;
+  a.textContent = `${hit[1]} 字族`;
+  a.title = "開啟詞類變化字族卡與練習";
+  a.addEventListener("click", event => event.stopPropagation());
+  row.append(head, a);
+  els.synonyms.append(row);
 }
 
 // ---------- 學測易混淆字: link a card to its confusable group(s) (cf-index.js, loaded on demand) ----------
