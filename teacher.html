@@ -51,7 +51,7 @@
     <div id="content" hidden>
       <section class="t-panel">
         <h2>Students 學生總覽</h2>
-        <p>Click a student to filter everything below to that student. 點學生可篩選下方資料。</p>
+        <p>Click a student to filter everything below to that student. 點學生可篩選下方資料。<br>Codes and devices come from the <b>Students</b> tab of the spreadsheet: add a name there and use the menu 📊 Tracker → 產生學生密碼; clear a student's Devices cell to free their device slots. 密碼與裝置在試算表 Students 分頁管理。</p>
         <div class="t-scroll"><table class="t" id="studentTable"></table></div>
       </section>
 
@@ -209,7 +209,7 @@
       const response = await fetch(`${ENDPOINT}?key=${encodeURIComponent(key)}&t=${Date.now()}`);
       const json = await response.json();
       if (json.error) throw new Error(json.error === "wrong key" ? "Wrong key 密碼錯誤" : json.error);
-      data = { tests: json.tests || [], reviews: json.reviews || [] };
+      data = { tests: json.tests || [], reviews: json.reviews || [], students: json.students || [] };
       try { sessionStorage.setItem(KEY_STORE, key); } catch (error) { /* ignore */ }
       status.textContent = `Loaded ${data.tests.length} tests, ${data.reviews.length} review lists. 已讀取。`;
       $("#content").hidden = false;
@@ -221,19 +221,21 @@
   }
 
   function renderAll() {
-    const names = [...new Set([...data.tests.map(t => t.name), ...data.reviews.map(r => r.name)])].filter(Boolean).sort((a, b) => a.localeCompare(b, "zh-Hant"));
+    const names = [...new Set([...data.students.map(s => s.name), ...data.tests.map(t => t.name), ...data.reviews.map(r => r.name)])].filter(Boolean).sort((a, b) => a.localeCompare(b, "zh-Hant"));
     const sel = $("#fStudent");
     const keep = sel.value;
     sel.replaceChildren(new Option("All students 全班", ""), ...names.map(n => new Option(n, n)));
     sel.value = names.includes(keep) ? keep : "";
 
-    table("#studentTable", ["Name 姓名", "Tests 次數", "Avg accuracy 平均正確率", "Last test 最近測驗", "Mistaken words 錯字數", "★ words"], names.map(name => {
+    table("#studentTable", ["Name 姓名", "Code 密碼", "Devices 裝置", "Last seen 最近使用", "Tests 次數", "Avg accuracy 平均正確率", "Last test 最近測驗", "Mistaken words 錯字數", "★ words"], names.map(name => {
       const tests = data.tests.filter(t => t.name === name);
       const review = data.reviews.find(r => r.name === name);
       const avg = tests.length ? Math.round(tests.reduce((n, t) => n + t.accuracy, 0) / tests.length) : null;
       const wrong = new Set(tests.flatMap(t => String(t.wrongWords).split(/\s*,\s*/).filter(Boolean)));
       const tr = el("tr", null, "pick");
-      tr.append(el("td", name), el("td", tests.length, "num"));
+      const acct = data.students.find(s => s.name === name);
+      tr.append(el("td", name), el("td", acct ? (acct.active ? acct.code : `${acct.code}（停用）`) : "—"),
+        el("td", acct ? `${acct.devices}/${acct.max}` : "—", "num"), el("td", acct && acct.lastSeen ? acct.lastSeen : "—"), el("td", tests.length, "num"));
       tr.append(avg == null ? el("td", "—", "num") : el("td", `${avg}%`, `num ${accClass(avg)}`));
       tr.append(el("td", tests.length ? tests[tests.length - 1].time : "—"), el("td", wrong.size, "num"), el("td", review ? review.count : 0, "num"));
       tr.addEventListener("click", () => { sel.value = name; renderFiltered(); $("#fStudent").scrollIntoView({ behavior: "smooth", block: "center" }); });

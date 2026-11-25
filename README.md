@@ -12,7 +12,7 @@ Live site: https://jenniferenglishteacher.github.io/GSATlevel456vocabulary/
 | `review-arcade.html` | 🎮 Test my words: quiz on the student's own review list, with mini-games |
 | `styles.css`, `vendor/xlsx.full.min.js` | Shared styles and the Excel export library |
 | `tools/build.py` | Script that generated the pages from the group data |
-| `tracker.js`, `tracker-config.js` | Sends each finished self-test and the ★ review list to the teacher's Google Sheet (web app address goes in `tracker-config.js`) |
+| `tracker.js`, `tracker-config.js` | Student-code login gate (every page except `teacher.html`; codes in the sheet's **Students** tab, 3 devices per code), two-way sync of the ★ review list, 錯題本 and progress between a student's devices (merged on the server, **Sync** tab), and sends each finished self-test to the teacher's Google Sheet under the code's name (web app address goes in `tracker-config.js`). Pages in subfolders load it with `data-no-pwa` |
 | `manifest.webmanifest`, `sw.js`, `pwa.js`, `icons/` | App mode: students can 加到主畫面 (install), pages they opened still work offline, LINE/Threads/IG in-app browser warning, and the install guide on the dashboard. `pwa.js` is loaded on every page by `tracker.js` |
 | `teacher.html` | Teacher page: student overview, test log, ★ lists, and a builder that turns mistaken words into a test link |
 | `tools/tracker-apps-script.gs` | Google Apps Script to paste into the tracker spreadsheet |

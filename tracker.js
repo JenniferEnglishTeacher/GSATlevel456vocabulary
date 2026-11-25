@@ -6,28 +6,48 @@
 (function () {
   try {
     const me = document.currentScript && document.currentScript.src;
-    if (!me || window.__vocabPwa || document.querySelector('script[src*="pwa.js"]')) return;
+    if (!me || document.currentScript.hasAttribute("data-no-pwa") || window.__vocabPwa || document.querySelector('script[src*="pwa.js"]')) return;
     const s = document.createElement("script");
     s.src = me.replace(/tracker\.js(\?.*)?$/, "pwa.js?v=20261117a");
     document.head.append(s);
   } catch (error) { /* ignore */ }
 })();
 (function () {
-  const ENDPOINT = String(window.GSAT_TRACKER_URL || "").trim();
+  // Same address as tracker-config.js; used by pages that do not load tracker-config.js (past exams, listening).
+  const DEFAULT_ENDPOINT = "https://script.google.com/macros/s/AKfycbx8nrhJxzJvw0KbTQixEBdcMxyC2hk5W4-3i3oKBlVLaWM0gxAnNj2b4p-Zjbq8sezE/exec";
+  const ENDPOINT = String(window.GSAT_TRACKER_URL == null ? DEFAULT_ENDPOINT : window.GSAT_TRACKER_URL).trim();
   const NAME_KEY = "gsat456-student-name";
   const STORE_KEY = "gsat456-review-list";
   const SYNCED_KEY = "gsat456-review-synced";
   const QUEUE_KEY = "gsat456-tracker-queue";
-  const enabled = /^https:\/\/script\.google\.com\//.test(ENDPOINT);
+  const AUTH_KEY = "gsat456-auth";        // { code, name, ok: last time the server accepted the code (ms) }
+  const DEVICE_KEY = "gsat456-device";    // random id of this browser (one device slot)
+  const BASE_KEY = "gsat456-sync-base";   // the state last agreed with the server (for three-way merge)
+  const SYNC_AT_KEY = "gsat456-sync-at";
+  // Browser storage shared by all of a student's devices (merged on the server, see tools/tracker-apps-script.gs).
+  const SYNC_KEYS = ["gsat456-review-list", "gsat-cf-wrong", "gsat-cf-progress", "gsat-wf-progress", "gsat-wf-practice", "roots-review-cards"];
+  const RECHECK_MS = 6 * 3600 * 1000;      // ask the server again every 6 hours
+  const OFFLINE_MS = 14 * 24 * 3600 * 1000; // without internet, a checked code keeps working 14 days
+  const PULL_MS = 20 * 1000;               // at most one sync per 20 s while moving between pages
+  const enabled = /^https:\/\/(script\.google\.com|localhost|127\.0\.0\.1)[:/]/.test(ENDPOINT);
+  const gateOn = enabled && !document.documentElement.hasAttribute("data-no-gate");
 
   const read = (key, fallback) => { try { return JSON.parse(localStorage.getItem(key) || "") ?? fallback; } catch (error) { return fallback; } };
   const write = (key, value) => { try { localStorage.setItem(key, JSON.stringify(value)); } catch (error) { /* storage blocked */ } };
 
+  function getAuth() {
+    const a = read(AUTH_KEY, null);
+    return a && a.code ? a : null;
+  }
+
   function getName() {
+    const auth = getAuth();
+    if (auth && auth.name) return auth.name;
     try { return (localStorage.getItem(NAME_KEY) || "").trim(); } catch (error) { return ""; }
   }
 
   function setName(name) {
+    if (getAuth()) return; // the name comes with the student code
     const clean = String(name || "").trim().slice(0, 40);
     if (!clean) return;
     try { localStorage.setItem(NAME_KEY, clean); } catch (error) { /* storage blocked */ }
@@ -37,6 +57,7 @@
   // ---------- Name dialog ----------
   let askPromise = null;
   function askName(force, required) {
+    if (gateOn) return force ? Promise.resolve(logout()) : Promise.resolve(getName());
     const current = getName();
     if (current && !force) return Promise.resolve(current);
     if (askPromise) return askPromise;
@@ -94,6 +115,8 @@
 
   function send(data) {
     if (!enabled) return Promise.resolve(false);
+    const auth = getAuth();
+    if (auth && !data.code) data.code = auth.code;
     // One request only (no keepalive): a retried request could log the same test twice.
     return post(data, false).catch(() => { queueItem(data); return false; });
   }
@@ -107,7 +130,9 @@
     flushing = true;
     write(QUEUE_KEY, []);
     const left = [];
+    const auth = getAuth();
     for (const item of queue) {
+      if (auth && !item.code) item.code = auth.code;
       if (!item.name) { if (name) item.name = name; else { left.push(item); continue; } } // waiting for a name
       try { await post(item, false); } catch (error) { left.push(item); }
     }
@@ -239,26 +264,215 @@
     syncTimer = setTimeout(syncReview, 4000);
   }
 
+  // ---------- Student code (login gate) ----------
+  // Without a code the page stays hidden behind the login box. This keeps out people without a code;
+  // it is not copy protection (the page files themselves are public on GitHub Pages).
+  function deviceId() {
+    let id = "";
+    try { id = localStorage.getItem(DEVICE_KEY) || ""; } catch (error) { /* storage blocked */ }
+    if (!id) {
+      id = "d" + Date.now().toString(36) + Math.random().toString(36).slice(2, 10);
+      try { localStorage.setItem(DEVICE_KEY, id); } catch (error) { /* storage blocked */ }
+    }
+    return id;
+  }
+
+  function api(data) {
+    return fetch(ENDPOINT, { method: "POST", headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify(data) })
+      .then(r => r.json());
+  }
+
+  const LOCK_STYLE = "html.vg-lock body > *:not(.vg-gate){display:none!important}html.vg-lock body{background:#eef4f6!important}";
+  function lockPage() {
+    document.documentElement.classList.add("vg-lock");
+    if (!document.getElementById("vg-lock-style")) {
+      const st = document.createElement("style");
+      st.id = "vg-lock-style";
+      st.textContent = LOCK_STYLE;
+      (document.head || document.documentElement).append(st);
+    }
+  }
+  function unlockPage() {
+    document.documentElement.classList.remove("vg-lock");
+    document.querySelectorAll(".vg-gate").forEach(el => el.remove());
+  }
+
+  const ERR = {
+    code: "密碼不對，或已停用。請向老師確認。 Wrong or inactive code.",
+    full: n => `這組密碼已在 ${n} 台裝置登入，裝置數已滿。請老師幫你清除裝置後再登入。 This code is already used on ${n} devices.`,
+    net: "連不上網路，請稍後再試。 No connection — try again."
+  };
+
+  let gateShown = false;
+  function showGate(message) {
+    lockPage();
+    if (gateShown) { const m = document.querySelector(".vg-gate [data-msg]"); if (m && message) m.textContent = message; return; }
+    gateShown = true;
+    const build = () => {
+      const wrap = document.createElement("div");
+      wrap.className = "vg-gate";
+      wrap.setAttribute("role", "dialog");
+      wrap.setAttribute("aria-modal", "true");
+      wrap.style.cssText = "position:fixed;inset:0;z-index:2147483000;display:flex;align-items:center;justify-content:center;background:#eef4f6;padding:16px;font-family:Arial,'Noto Sans TC','Microsoft JhengHei',sans-serif";
+      wrap.innerHTML = `
+        <form style="background:#fff;border-radius:16px;padding:24px;max-width:390px;width:100%;box-shadow:0 18px 50px rgba(0,0,0,.18)">
+          <div style="font-size:34px;line-height:1">🔑</div>
+          <h2 style="margin:8px 0 6px;font-size:21px;color:#17202a">Student code 學生密碼</h2>
+          <p style="margin:0 0 12px;color:#5d6b7a;font-size:14px;line-height:1.55">請輸入老師給你的密碼。同一組密碼最多可在 3 台裝置（手機、電腦、iPad）使用，★ 複習單字、錯題本和成績會自動同步。<br>Enter the code from your teacher.</p>
+          <input type="text" maxlength="20" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="例如 K7QW3M" style="width:100%;padding:12px;font-size:20px;letter-spacing:2px;text-transform:uppercase;border:1px solid #d7dee7;border-radius:10px;box-sizing:border-box">
+          <p data-msg style="min-height:20px;margin:10px 0 0;color:#b3541e;font-size:14px;line-height:1.5"></p>
+          <button type="submit" style="width:100%;margin-top:8px;padding:12px;border:0;border-radius:10px;background:#087f8c;color:#fff;font-weight:700;font-size:16px;cursor:pointer">登入 Log in</button>
+        </form>`;
+      const form = wrap.querySelector("form"), input = wrap.querySelector("input"), msg = wrap.querySelector("[data-msg]"), btn = wrap.querySelector("button");
+      if (message) msg.textContent = message;
+      form.addEventListener("submit", async event => {
+        event.preventDefault();
+        const code = input.value.trim().toUpperCase().replace(/\s+/g, "");
+        if (!code) { input.focus(); return; }
+        btn.disabled = true; btn.textContent = "登入中… Checking…"; msg.textContent = "";
+        const result = await login(code);
+        btn.disabled = false; btn.textContent = "登入 Log in";
+        if (result === true) { gateShown = false; unlockPage(); afterLogin(); return; }
+        msg.textContent = result;
+        input.select();
+      });
+      document.body.append(wrap);
+      input.focus();
+    };
+    if (document.body) build(); else document.addEventListener("DOMContentLoaded", build);
+  }
+
+  async function login(code) {
+    let res;
+    try { res = await api({ kind: "login", code, device: deviceId() }); } catch (error) { return ERR.net; }
+    if (!res || !res.ok) return res && res.error === "full" ? ERR.full(res.max || 3) : ERR.code;
+    const prev = read(AUTH_KEY, null);
+    // Another student's code on this device: their words must not mix into this account.
+    if (prev && prev.code && prev.code !== res.code) {
+      SYNC_KEYS.forEach(k => { try { localStorage.removeItem(k); } catch (error) { /* ignore */ } });
+      try { localStorage.removeItem(BASE_KEY); localStorage.removeItem(SYNCED_KEY); } catch (error) { /* ignore */ }
+    }
+    write(AUTH_KEY, { code: res.code, name: res.name, ok: Date.now() });
+    try { localStorage.setItem(NAME_KEY, res.name); } catch (error) { /* ignore */ }
+    await syncState(true);
+    return true;
+  }
+
+  function logout() {
+    try { localStorage.removeItem(AUTH_KEY); } catch (error) { /* ignore */ }
+    showGate("");
+    return "";
+  }
+
+  // ---------- Sync between the student's devices ----------
+  function localState() {
+    const out = {};
+    SYNC_KEYS.forEach(k => { const v = read(k, null); out[k] = v != null ? v : (k === STORE_KEY ? [] : {}); });
+    return out;
+  }
+
+  function applyState(state) {
+    if (!state) return;
+    let changed = false;
+    SYNC_KEYS.forEach(k => {
+      if (!(k in state)) return;
+      const next = JSON.stringify(state[k]);
+      let now = null;
+      try { now = localStorage.getItem(k); } catch (error) { /* ignore */ }
+      if (now === next || (now == null && (next === "[]" || next === "{}"))) return;
+      try { localStorage.setItem(k, next); } catch (error) { return; }
+      changed = true;
+      // Pages already listen for "storage" (other tabs); the same event refreshes them here.
+      try { window.dispatchEvent(new StorageEvent("storage", { key: k, newValue: next })); } catch (error) { /* old browser */ }
+    });
+    if (changed) reviewChanged();
+  }
+
+  let syncing = null;
+  function syncState(force, keepalive) {
+    const auth = getAuth();
+    if (!enabled || !auth) return Promise.resolve(false);
+    const local = localState();
+    const base = read(BASE_KEY, null);
+    const dirty = JSON.stringify(local) !== JSON.stringify(base || {});
+    const last = Number(read(SYNC_AT_KEY, 0)) || 0;
+    if (!force && !dirty && Date.now() - last < PULL_MS && Date.now() - auth.ok < RECHECK_MS) return Promise.resolve(true);
+    if (syncing) return syncing;
+    const body = { kind: "sync", code: auth.code, device: deviceId(), local, base };
+    if (keepalive) {
+      // page is closing: send the changes and do not wait for the answer
+      try { fetch(ENDPOINT, { method: "POST", keepalive: JSON.stringify(body).length < 60000, headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify(body) }); } catch (error) { /* ignore */ }
+      return Promise.resolve(true);
+    }
+    syncing = api(body).then(res => {
+      if (res && res.ok) {
+        write(AUTH_KEY, { code: auth.code, name: res.name || auth.name, ok: Date.now() });
+        if (res.name && res.name !== auth.name) document.querySelectorAll("[data-tracker-name]").forEach(el => { el.textContent = res.name; });
+        const state = res.state || local;
+        // do not throw away a change made on this device while the request was on its way
+        const now = localState();
+        if (JSON.stringify(now) === JSON.stringify(local)) applyState(state);
+        write(BASE_KEY, state);
+        write(SYNC_AT_KEY, Date.now());
+        return true;
+      }
+      if (res && res.error === "device") return api({ kind: "login", code: auth.code, device: deviceId() }).then(r => {
+        if (r && r.ok) { write(AUTH_KEY, { code: auth.code, name: r.name, ok: Date.now() }); return true; }
+        try { localStorage.removeItem(AUTH_KEY); } catch (error) { /* ignore */ } showGate(r && r.error === "full" ? ERR.full(r.max || 3) : ERR.code); return false;
+      });
+      if (res && res.error === "code") { try { localStorage.removeItem(AUTH_KEY); } catch (error) { /* ignore */ } showGate(ERR.code); }
+      return false;
+    }).catch(() => false).finally(() => { syncing = null; });
+    return syncing;
+  }
+
+  // Runs as soon as this file loads: hide the page until a code is known.
+  if (gateOn) {
+    const auth = getAuth();
+    if (!auth) lockPage();
+    else if (Date.now() - (auth.ok || 0) > OFFLINE_MS) lockPage(); // not checked for 14 days: ask the server before showing
+  }
+
+  function afterLogin() {
+    const name = getName();
+    document.querySelectorAll("[data-tracker-name]").forEach(el => { el.textContent = name || "—"; });
+    const quizName = document.querySelector("#student-name-input");
+    if (quizName && name) { quizName.value = name; quizName.readOnly = true; }
+    flushQueue();
+    setTimeout(syncReview, 3000);
+  }
+
   // ---------- Start ----------
   function start() {
+    if (gateOn) {
+      const auth = getAuth();
+      if (!auth) { showGate(""); }
+      else if (document.documentElement.classList.contains("vg-lock")) {
+        // checked too long ago: ask the server before showing the page
+        syncState(true).then(ok => { if (ok) { unlockPage(); afterLogin(); } else if (getAuth()) showGate(ERR.net); });
+      } else syncState(false);
+      document.querySelectorAll("[data-tracker-change]").forEach(el => { el.textContent = "登出 Log out"; });
+      window.addEventListener("pageshow", e => { if (e.persisted) syncState(false); });
+    }
     const stored = getName();
     document.querySelectorAll("[data-tracker-name]").forEach(el => { el.textContent = stored || "—"; });
     document.querySelectorAll("[data-tracker-box]").forEach(el => { el.hidden = !enabled; });
     document.querySelectorAll("[data-tracker-change]").forEach(el => el.addEventListener("click", () => askName(true)));
     const quizName = document.querySelector("#student-name-input");
     if (quizName && stored && !quizName.value) quizName.value = stored;
+    if (quizName && getAuth()) quizName.readOnly = true;
     if (!enabled) return;
-    if (!stored && document.body.hasAttribute("data-tracker-ask")) askName(false);
+    if (!gateOn && !stored && document.body.hasAttribute("data-tracker-ask")) askName(false);
     flushQueue();
     window.addEventListener("online", flushQueue);
     setTimeout(syncReview, 3000);
     window.addEventListener("storage", event => { if (event.key === STORE_KEY) reviewChanged(); });
     document.addEventListener("visibilitychange", () => {
-      if (document.visibilityState === "hidden") { clearTimeout(syncTimer); syncReview(); }
-      else flushQueue(); // app reopened from the home screen: resend anything still waiting
+      if (document.visibilityState === "hidden") { clearTimeout(syncTimer); syncReview(); syncState(false, true); }
+      else { flushQueue(); syncState(false); } // app reopened from the home screen: resend anything still waiting, pull other devices' changes
     });
   }
 
-  window.GsatTracker = { enabled, getName, setName, askName, logTest, logQuiz, reviewChanged, syncReview };
+  window.GsatTracker = { enabled, getName, setName, askName, logTest, logQuiz, reviewChanged, syncReview, syncState, logout, getAuth };
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", start); else start();
 })();
