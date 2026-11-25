@@ -513,6 +513,40 @@ function renderSynonyms(card) {
   link.addEventListener("click", event => event.stopPropagation());
   dict.append(link);
   els.synonyms.replaceChildren(...(SETCFG.family ? [label, ...chips] : []), dict);
+  renderCfLink(card);
+}
+
+// ---------- 學測易混淆字: link a card to its confusable group(s) (cf-index.js, loaded on demand) ----------
+let cfIndexState = window.CF_INDEX ? "ready" : "none";
+function renderCfLink(card) {
+  if (cfIndexState === "none") {
+    cfIndexState = "loading";
+    const tag = document.createElement("script");
+    tag.src = "cf-index.js?v=20261125cf";
+    tag.onload = () => { cfIndexState = "ready"; const c = currentCard(); if (c) renderCfLink(c); };
+    tag.onerror = () => { cfIndexState = "failed"; };
+    document.head.append(tag);
+    return;
+  }
+  if (cfIndexState !== "ready" || !els.synonyms) return;
+  els.synonyms.querySelectorAll(".cf-link-row").forEach(row => row.remove());
+  const hits = (window.CF_INDEX || {})[String(card.word).toLowerCase().replace(/\s*\(.*?\)\s*/g, " ").trim()];
+  if (!hits || !hits.length) return;
+  const row = document.createElement("span");
+  row.className = "cf-link-row";
+  const head = document.createElement("span");
+  head.className = "syn-label";
+  head.textContent = "⚠ 易混淆字 Confusables:";
+  row.append(head, ...hits.map(([zone, unit, gid, name]) => {
+    const a = document.createElement("a");
+    a.className = "cf-link-chip";
+    a.href = `${zone}-unit${unit}.html#g=${gid}`;
+    a.textContent = name;
+    a.title = "開啟學測易混淆字對照卡";
+    a.addEventListener("click", event => event.stopPropagation());
+    return a;
+  }));
+  els.synonyms.append(row);
 }
 
 function createQuizSection() {

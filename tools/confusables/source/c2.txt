@@ -1,0 +1,405 @@
+@C compromise
+tz=n./v. 妥協、折衷 → v. 危及、損害（compromise safety）
+te=agreement where both sides give up something; put in danger
+trap=compromise your health 是「損害健康」，不是和健康妥協。
+- compromise | n./v. | an agreement in which each side gives up something | 妥協；折衷 | deal, middle ground | | After a long talk, we reached a compromise: we would eat Japanese food and then see my movie. | 談了很久後我們達成折衷：先吃日本料理再看我選的電影。 | 常見義
+- compromise | v. | to put something in danger; to weaken | 危及；損害 | endanger, weaken | protect | Using a weak password can compromise the safety of your account. | 使用弱密碼會危及帳號安全。 | 進階義
+
+@C conviction
+tz=n. 定罪（convict 判罪）→ n. 堅定的信念
+te=being found guilty; strong belief
+trap=speak with conviction 是「堅定地說」。
+- conviction | n. | an official decision that someone is guilty | 定罪；有罪判決 | sentence | acquittal | He had two earlier convictions for drunk driving. | 他之前有兩次酒駕定罪紀錄。 | 常見義
+- conviction | n. | a strong belief | 堅定的信念 | belief, certainty | doubt | She spoke with deep conviction about the need to protect the ocean. | 她以堅定的信念談論保護海洋的必要。 | 進階義
+
+@C faculty
+tz=n. 全體教職員 → n.（大學）學院 → n. 能力、官能（faculties）
+te=all the teachers; department of a university; natural ability
+trap=mental faculties 是「心智能力」。
+- faculty | n. | all the teachers in a school or university | 全體教職員；學院 | staff, teachers | students | The faculty meeting is held every Wednesday afternoon. | 教職員會議每週三下午舉行。 | 常見義
+- faculty | n. | a natural ability of the body or mind | 能力；官能 | ability, power, sense | | Even at ninety, my grandmother still has all her mental faculties. | 即使九十歲了，我奶奶的心智能力仍然健全。 | 進階義
+
+@C forge
+tz=v. 偽造（forged money 假鈔）→ v. 打造、建立（forge a friendship）→ forge ahead 穩步前進
+te=make a false copy; create a strong relationship; move forward
+trap=forge a bond 是正面的「建立關係」。
+- forge | v. | to make an illegal copy of something | 偽造 | fake, copy | | The man forged his boss's signature on the check. | 這名男子在支票上偽造老闆的簽名。 | 常見義
+- forge | v. | to create a strong relationship; to move forward with effort | 建立（關係）；穩步前進 | build, form / push on | | The two schools forged a close friendship through the exchange program. | 兩校透過交換計畫建立了深厚情誼。 | 進階義
+
+@C pedestrian
+tz=n. 行人（ped 腳）→ adj. 平庸的、乏味的
+te=noun: person walking; adjective: dull, ordinary
+trap=a pedestrian performance 是「平淡無奇的表現」。
+- pedestrian | n. | a person walking in the street | 行人 | walker | driver | Drivers must stop for pedestrians at crosswalks. | 駕駛人必須在斑馬線前停車讓行人。 | 常見義
+- pedestrian | adj. | dull and ordinary | 平淡的；乏味的 | dull, boring, ordinary | exciting | Critics called the movie's story pedestrian and predictable. | 影評說這部電影的故事平淡無奇、毫無驚喜。 | 進階義
+
+@C radical
+tz=adj. 激進的 → adj. 根本的、徹底的（radix 根）
+te=extreme; basic and thorough
+trap=radical change 是「徹底的改變」，不一定是激進。
+- radical | adj./n. | having extreme political ideas | 激進的；激進分子 | extreme, revolutionary | moderate | A small radical group protested outside the government building. | 一小群激進人士在政府大樓外抗議。 | 常見義
+- radical | adj. | very basic and thorough | 根本的；徹底的 | fundamental, complete | minor | The internet brought radical changes to the way we shop. | 網路徹底改變了我們購物的方式。 | 進階義
+
+@C sustain
+tz=v. 維持、支撐 → v. 遭受（sustain injuries 受傷）
+te=keep going; suffer (an injury or loss)
+trap=sustain serious injuries 是「受重傷」，不是維持傷勢。
+- sustain | v. | to keep something going; to support | 維持；支撐 | maintain, support | end | The village cannot sustain itself without tourists. | 這個村莊沒有遊客就無法維持下去。 | 常見義
+- sustain | v. | to suffer an injury or loss | 遭受；蒙受 | suffer, receive | | The driver sustained serious injuries in the crash. | 駕駛在車禍中受了重傷。 | 進階義
+
+@C arrest
+tz=v. 逮捕 → v. 吸引（注意）→ v. 阻止、遏止（arrest the decline）
+te=take to the police; catch attention; stop
+trap=cardiac arrest 是「心跳停止」。
+- arrest | v./n. | to take someone to the police because of a crime | 逮捕 | catch, detain | release | The police arrested two men for selling fake tickets. | 警方逮捕兩名販賣假票的男子。 | 常見義
+- arrest | v./n. | to stop something from continuing; to catch attention | 遏止；吸引（注意）；（心跳）停止 | stop, halt / attract | | The new law helped arrest the decline of the local fishing industry. | 新法有助遏止當地漁業的衰退。 | 進階義
+
+@C provincial
+tz=adj. 省的、地方的 → adj. 鄉氣的、見識狹隘的
+te=of a province; narrow-minded
+trap=provincial attitudes 是「狹隘的觀念」。
+- provincial | adj. | related to a province | 省的；地方的 | regional, local | national | The provincial government built a new hospital. | 省政府蓋了一間新醫院。 | 常見義
+- provincial | adj. | narrow-minded; not interested in new ideas | 見識狹隘的；鄉氣的 | narrow-minded, small-town | open-minded | His provincial views changed after he studied abroad. | 出國留學後他狹隘的觀念改變了。 | 進階義
+
+@C clinical
+tz=adj. 臨床的（clinic 診所）→ adj. 冷靜客觀的、冷冰冰的
+te=related to treating patients; cold and without feeling
+trap=a clinical tone 是「冷冰冰的語氣」。
+- clinical | adj. | related to treating patients | 臨床的 | medical | | The new drug is still in clinical trials. | 這款新藥仍在臨床試驗中。 | 常見義
+- clinical | adj. | cold and without emotion | 冷靜客觀的；冷冰冰的 | cold, detached | warm | The hotel room was clean but felt clinical, with white walls and no pictures. | 飯店房間很乾淨，但白牆沒掛畫，感覺冷冰冰的。 | 進階義
+
+@C plastic
+tz=n. 塑膠 → adj. 可塑的、易變形的 → plastic surgery 整形手術
+te=material; able to change shape
+trap=plastic surgery 是「整形手術」，不是塑膠手術。
+- plastic | n./adj. | a light material made from chemicals | 塑膠（的） | | | Bring your own bag instead of using plastic bags. | 自備購物袋，不要用塑膠袋。 | 常見義
+- plastic | adj. | easily shaped or changed | 可塑的；整形的 | flexible, soft | rigid | Young children's brains are very plastic, so they learn languages quickly. | 幼兒大腦可塑性很高，所以學語言很快。 | 進階義
+
+@C compass
+tz=n. 指南針 → n. 圓規（compasses）→ n. 範圍
+te=tool showing north; tool for drawing circles; range
+trap=within the compass of 是「在…範圍內」。
+- compass | n. | a tool that shows which direction is north | 指南針；羅盤 | | | Hikers should carry a map and a compass in the mountains. | 登山客在山上應攜帶地圖和指南針。 | 常見義
+- compass | n. | a tool for drawing circles; range | 圓規；範圍 | range, scope | | Use a compass to draw a circle with a radius of five centimeters. | 用圓規畫一個半徑五公分的圓。 | 進階義
+
+@C betray
+tz=v. 背叛 → v. 流露、洩露（情緒）
+te=be disloyal; show feelings without wanting to
+trap=her voice betrayed her fear 是「聲音洩露了恐懼」。
+- betray | v. | to be disloyal to someone | 背叛；出賣 | deceive, sell out | | He felt betrayed when his best friend told everyone his secret. | 最好的朋友把他的秘密告訴大家，他覺得被背叛。 | 常見義
+- betray | v. | to show a feeling you want to hide | 流露；洩露 | reveal, show | hide | Her shaking hands betrayed how nervous she was. | 她顫抖的雙手洩露了她有多緊張。 | 進階義
+
+@C apparent
+tz=adj. 明顯的（appear）→ adj. 表面上的、看似的（apparently 似乎）
+te=clear; seeming true but maybe not
+trap=apparent reason 可能是「表面上的理由」，不一定真的。
+- apparent | adj. | easy to see or understand | 明顯的 | obvious, clear | hidden | It was apparent that she had been crying. | 很明顯她剛哭過。 | 常見義
+- apparent | adj. | seeming to be true but possibly not | 表面上的；看似的 | seeming, outward | real | His apparent calm hid how worried he really was. | 他表面上的冷靜掩蓋了他其實有多擔心。 | 進階義
+
+@C observe
+tz=v. 觀察 → v. 遵守（法律、節日）→ v. 評論說
+te=watch carefully; follow a rule; say
+trap=observe the law 是「遵守法律」。
+- observe | v. | to watch carefully | 觀察 | watch, study | ignore | Scientists observed the birds for six months. | 科學家觀察這些鳥六個月。 | 常見義
+- observe | v. | to obey a rule or law; to celebrate a holiday | 遵守；慶祝（節日） | obey, follow, keep | break | All drivers must observe the speed limit. | 所有駕駛人都必須遵守速限。 | 進階義
+
+@C appeal
+tz=v./n. 呼籲 → v./n. 吸引（appeal to）→ v./n. 上訴
+te=ask strongly; attract; ask a higher court
+trap=appeal to young people 是「吸引年輕人」。
+- appeal | v./n. | to make a strong request | 呼籲；懇求 | plead, request | | The police appealed for witnesses to come forward. | 警方呼籲目擊者出面。 | 常見義
+- appeal | v./n. | to attract or interest; to ask a higher court to change a decision | 吸引；上訴 | attract / | | The game's simple design appeals to people of all ages. | 這款遊戲的簡單設計吸引各年齡層的人。 | 進階義
+
+@C bargain
+tz=n. 便宜貨、划算的交易 → v. 討價還價 → n. 協議
+te=something cheap; argue about price; agreement
+trap=more than I bargained for 是「超出預期」。
+- bargain | n. | something bought for less than its usual price | 便宜貨；划算的東西 | good deal, steal | | This jacket was a real bargain at only three hundred dollars. | 這件夾克只要三百元，真划算。 | 常見義
+- bargain | v./n. | to discuss the price or terms; an agreement | 討價還價；協議 | negotiate, haggle / deal | | Tourists often bargain with sellers at the night market. | 觀光客常在夜市跟攤販殺價。 | 進階義
+
+@C conduct
+tz=n. 行為（CON-duct）→ v. 進行、實施 → v. 指揮 → v. 傳導（電、熱）
+te=behavior; carry out; lead music; let electricity pass
+trap=conduct a survey 是「進行調查」；metal conducts heat 金屬導熱。
+- conduct | n. | the way someone behaves | 行為；舉止 | behavior, manners | | The student was praised for his good conduct. | 這名學生因品行良好受到表揚。 | 常見義
+- conduct | v. | to carry out; to lead an orchestra; to let heat or electricity pass | 進行；指揮；傳導 | carry out, lead / transmit | | The class conducted a survey about students' sleeping habits. | 這個班進行了一項學生睡眠習慣的調查。 | 進階義
+
+@C critical
+tz=adj. 批評的、挑剔的 → adj. 關鍵的 → adj. 危急的（in critical condition）
+te=judging harshly; very important; very serious
+trap=critical moment 是「關鍵時刻」，critical condition 是「病危」。
+- critical | adj. | saying what is wrong with someone or something | 批評的；挑剔的 | negative, disapproving | positive | Don't be so critical of your little brother's drawing. | 別對弟弟的畫那麼挑剔。 | 常見義
+- critical | adj. | extremely important; very serious and dangerous | 關鍵的；危急的 | crucial / serious | minor | The next two days are critical for the patient's recovery. | 接下來兩天是病人康復的關鍵期。 | 進階義
+
+@C dismiss
+tz=v. 解散（下課）→ v. 開除 → v. 不予考慮、駁回
+te=let people leave; fire; refuse to consider
+trap=dismiss an idea 是「不理會某想法」。
+- dismiss | v. | to allow people to leave; to remove from a job | 解散；開除 | let go / fire | hire | The teacher dismissed the class ten minutes early. | 老師提早十分鐘下課。 | 常見義
+- dismiss | v. | to refuse to consider something seriously | 不予考慮；駁回 | reject, ignore | accept | The manager dismissed my idea without even listening to it. | 經理連聽都沒聽就否決了我的點子。 | 進階義
+
+@C deliberate
+tz=adj. 故意的、蓄意的 → adj. 謹慎從容的 → v. 仔細考慮（讀 -rate）
+te=done on purpose; slow and careful; think carefully
+trap=形容詞讀 /dɪˈlɪbərət/，動詞讀 /dɪˈlɪbəreɪt/。
+- deliberate | adj. | done on purpose | 故意的；蓄意的 | intentional, planned | accidental | The fire was not an accident; it was a deliberate act. | 那場火不是意外，是蓄意縱火。 | 常見義
+- deliberate | v./adj. | to think carefully before deciding; slow and careful | 仔細考慮；從容謹慎的 | consider, think over | rush | The judges deliberated for an hour before choosing the winner. | 評審們仔細討論一小時後才選出優勝者。 | 進階義
+
+@C peer
+tz=n. 同儕（peer pressure）→ v. 凝視、細看
+te=noun: person of the same age; verb: look closely
+trap=peer at 是「瞇眼細看」，不是看同學。
+- peer | n. | a person of the same age or level | 同儕；同輩 | classmate, equal | | Teenagers often feel pressure to act like their peers. | 青少年常感到要和同儕一樣的壓力。 | 常見義
+- peer | v. | to look closely because it is hard to see | 凝視；細看 | stare, squint | | The old man peered at the small print on the medicine bottle. | 老先生瞇著眼細看藥瓶上的小字。 | 進階義
+
+@C rear
+tz=n./adj. 後面（的）→ v. 撫養、飼養
+te=back part; raise children or animals
+trap=rear children 是「撫養孩子」。
+- rear | n./adj. | the back part | 後方；後部 | back | front | Please exit through the rear door of the bus. | 請從公車後門下車。 | 常見義
+- rear | v. | to take care of children or animals until they grow up | 撫養；飼養 | raise, bring up | | She reared three children on her own. | 她獨自撫養三個孩子。 | 進階義
+
+@C wage
+tz=n. 工資（時薪、週薪）→ v. 發動、進行（戰爭、運動）
+te=noun: pay; verb: carry on a war or fight
+trap=wage war against 是「向…宣戰」。
+- wage | n. | money paid for work, usually by the hour or week | 工資 | pay, salary, earnings | | The minimum wage will rise again next year. | 明年基本工資將再調漲。 | 常見義
+- wage | v. | to carry on a war or a campaign | 發動；進行（戰爭、運動） | carry on, conduct | | The city is waging a war against illegal parking. | 市政府正全面打擊違規停車。 | 進階義
+
+@C bond
+tz=n. 聯繫、情誼 → n. 債券 → v. 黏合
+te=close connection; certificate of debt
+trap=government bonds 是「政府公債」。
+- bond | n./v. | a close connection between people | 聯繫；情誼；建立感情 | connection, tie | | There is a strong bond between the twin sisters. | 這對雙胞胎姊妹感情深厚。 | 常見義
+- bond | n. | a document from a government or company promising to pay back money | 債券 | | | My parents put some of their savings into government bonds. | 我爸媽把部分存款投資在政府公債。 | 進階義
+
+@C cabinet
+tz=n. 櫥櫃 → n. 內閣（the Cabinet）
+te=cupboard; group of top government ministers
+trap=a cabinet meeting 是「內閣會議」。
+- cabinet | n. | a piece of furniture with shelves and doors | 櫥櫃 | cupboard | | The medicine is in the cabinet above the sink. | 藥放在水槽上方的櫃子裡。 | 常見義
+- cabinet | n. | the group of top ministers in a government | 內閣 | government | | The premier announced several changes to the cabinet. | 行政院長宣布內閣改組。 | 進階義
+
+@C capacity
+tz=n. 容量 → n. 能力 → n. 身分、職位（in my capacity as）
+te=amount something can hold; ability; role
+trap=in his capacity as mayor 是「以市長身分」。
+- capacity | n. | the amount something can hold | 容量；容納能力 | volume, size | | The stadium has a capacity of forty thousand people. | 這座體育場可容納四萬人。 | 常見義
+- capacity | n. | ability; a job or position | 能力；身分；職位 | ability / role | | She spoke at the meeting in her capacity as class leader. | 她以班長身分在會議上發言。 | 進階義
+
+@C discipline
+tz=n. 紀律、管教 → n. 學科、領域
+te=control of behavior; field of study
+trap=academic discipline 是「學科」。
+- discipline | n./v. | training to obey rules; punishment | 紀律；管教 | control, training | | Learning the piano takes a lot of discipline. | 學鋼琴需要高度的自律。 | 常見義
+- discipline | n. | a subject of study | 學科；領域 | subject, field | | The course combines several disciplines, such as biology and chemistry. | 這門課結合生物、化學等多個學科。 | 進階義
+
+@C frame
+tz=n. 框架、相框 → v. 陷害、栽贓 → v. 構思、表達（frame a question）
+te=border; make someone look guilty; express
+trap=be framed 是「被陷害」。
+- frame | n./v. | a border around a picture or window | 框；框架；裝框 | border, structure | | I put my graduation photo in a wooden frame. | 我把畢業照放進木頭相框。 | 常見義
+- frame | v. | to make an innocent person seem guilty | 陷害；栽贓 | set up | | The man claimed he had been framed by his business partner. | 這名男子聲稱遭生意夥伴陷害。 | 進階義
+
+@C launch
+tz=v. 發射（火箭）→ v. 推出（產品）、發起（活動）
+te=send into space; start or introduce
+trap=launch a campaign 是「發起活動」。
+- launch | v./n. | to send a rocket or boat into the air or water | 發射；下水 | fire, send off | | The rocket was launched from the space center at dawn. | 火箭在黎明時分從太空中心發射。 | 常見義
+- launch | v./n. | to start something new; to introduce a new product | 推出；發起 | start, introduce, begin | end | The company will launch its new phone next month. | 公司下個月將推出新手機。 | 進階義
+
+@C lecture
+tz=n. 演講、講課 → v. 訓斥、說教
+te=formal talk; scold
+trap=Don't lecture me! 是「別對我說教！」
+- lecture | n./v. | a talk to teach people about a subject | 演講；講課 | talk, lesson | | The professor gave a lecture on Taiwanese history. | 教授講授一堂台灣史的課。 | 常見義
+- lecture | v./n. | to criticize someone in a long, serious way | 訓斥；說教 | scold, preach | praise | My father lectured me for an hour about coming home late. | 我晚回家，爸爸訓了我一小時。 | 進階義
+
+@C manual
+tz=n. 手冊、說明書 → adj. 手工的、體力的（manual labor）
+te=instruction book; done by hand
+trap=manual labor 是「體力勞動」。
+- manual | n. | a book that tells you how to use something | 手冊；說明書 | handbook, guide | | Read the manual before you use the new machine. | 使用新機器前先看說明書。 | 常見義
+- manual | adj. | done with the hands | 手工的；體力的 | physical, hand-operated | automatic | Robots now do much of the manual work in car factories. | 現在汽車工廠大部分的手工作業都由機器人完成。 | 進階義
+
+@C minister
+tz=n. 部長 → n. 牧師
+te=head of a government department; religious leader
+trap=a church minister 是「牧師」。
+- minister | n. | a person in charge of a government department | 部長 | secretary, official | | The education minister visited our school last week. | 教育部長上週來我們學校參訪。 | 常見義
+- minister | n. | a religious leader in some Christian churches | 牧師 | pastor, priest | | The minister married the couple in a small church. | 牧師在一間小教堂為這對新人證婚。 | 進階義
+
+@C prompt
+tz=adj. 及時的、迅速的 → v. 促使、引起 → n. 提示（作文題目、電腦提示）
+te=quick; cause; cue
+trap=writing prompt 是「寫作題目」。
+- prompt | adj. | done quickly, without delay | 及時的；迅速的 | quick, immediate | late | Thank you for your prompt reply. | 謝謝你迅速的回覆。 | 常見義
+- prompt | v./n. | to cause someone to do something; words that help someone remember | 促使；提示 | cause, lead to / cue | | The accident prompted the city to put up a traffic light. | 這起事故促使市府設置紅綠燈。 | 進階義
+
+@C secure
+tz=adj. 安全的、牢固的 → v. 獲得、取得（secure a job）
+te=safe; get something with effort
+trap=secure a place 是「獲得名額」。
+- secure | adj. | safe; firmly fixed | 安全的；牢固的 | safe, firm | unsafe | Keep your passport in a secure place. | 把護照放在安全的地方。 | 常見義
+- secure | v. | to get something after effort | 獲得；取得 | obtain, win, gain | lose | Our team secured a place in the final with a last-minute goal. | 我們隊靠最後一刻的進球取得決賽資格。 | 進階義
+
+@C stroke
+tz=n. 中風 → v. 撫摸 → n. 一筆、一劃 → n. 划水（游泳）
+te=sudden illness in the brain; touch gently; line in writing
+trap=a stroke of luck 是「一次好運」。
+- stroke | n. | a sudden illness when blood stops flowing to the brain | 中風 | | | My grandfather had a stroke and now needs help walking. | 爺爺中風後現在需要人扶著走路。 | 常見義
+- stroke | v./n. | to touch gently; a single line made with a pen | 撫摸；一筆；一劃 | pet, rub / line | | She stroked the cat until it fell asleep. | 她撫摸著貓直到牠睡著。 | 進階義
+
+@C tense
+tz=adj. 緊張的 → n.（文法）時態
+te=nervous; form of a verb showing time
+trap=past tense 是「過去式」。
+- tense | adj. | nervous and unable to relax | 緊張的；緊繃的 | nervous, stressed | relaxed | Everyone felt tense while waiting for the exam results. | 等待考試結果時大家都很緊張。 | 常見義
+- tense | n. | the form of a verb that shows time | （文法）時態 | | | Use the past tense when you write about last weekend. | 寫上週末的事時要用過去式。 | 進階義
+
+@C abstract
+tz=adj. 抽象的 → n. 摘要（論文 abstract）
+te=based on ideas; short summary
+trap=read the abstract 是「讀摘要」。
+- abstract | adj. | based on ideas, not real things | 抽象的 | theoretical | concrete | Love and freedom are abstract ideas. | 愛與自由是抽象的概念。 | 常見義
+- abstract | n. | a short summary of a long article | 摘要 | summary | | Read the abstract first to see if the article is useful. | 先讀摘要，看看這篇文章是否有用。 | 進階義
+
+@C accommodate
+tz=v. 容納、提供住宿 → v. 遷就、配合（需求）
+te=have space for; adapt to needs
+trap=accommodate special needs 是「配合特殊需求」。
+- accommodate | v. | to have enough space for people | 容納；提供住宿 | hold, house | | The hotel can accommodate up to three hundred guests. | 這家飯店最多可容納三百位房客。 | 常見義
+- accommodate | v. | to change to fit someone's needs | 遷就；配合 | adapt to, meet | ignore | The school tries to accommodate students with special needs. | 學校盡量配合有特殊需求的學生。 | 進階義
+
+@C alien
+tz=n. 外星人 → adj. 陌生的、格格不入的 → n. 外籍人士
+te=creature from space; strange and unfamiliar; foreigner
+trap=alien to me 是「對我很陌生」。
+- alien | n. | a creature from another planet | 外星人 | extraterrestrial | | The movie is about aliens who land in a small town. | 這部電影講外星人降落在一個小鎮。 | 常見義
+- alien | adj./n. | strange and unfamiliar; a person from another country | 陌生的；外國人 | foreign, strange | familiar | City life felt alien to the boy from the mountains. | 對來自山區的男孩來說，都市生活很陌生。 | 進階義
+
+@C anchor
+tz=n. 錨 → n. 主播（news anchor）→ v. 支撐、穩定
+te=heavy object that keeps a ship in place; news presenter
+trap=news anchor 是「新聞主播」。
+- anchor | n./v. | a heavy object dropped from a ship to keep it in place | 錨；下錨 | | | The ship dropped anchor near the island. | 船在島附近下錨。 | 常見義
+- anchor | n./v. | a person who presents the news on TV; to hold firmly | 主播；穩定 | presenter, host | | She became the main news anchor at a national TV station. | 她成為全國性電視台的主播。 | 進階義
+
+@C boom
+tz=n. 隆隆聲 → n./v. 繁榮、激增（baby boom 嬰兒潮）
+te=deep loud sound; sudden growth
+trap=economic boom 是「經濟繁榮」。
+- boom | n./v. | a deep loud sound | 隆隆聲；轟鳴 | bang, roar | | We heard a loud boom when the fireworks started. | 煙火開始時我們聽到一聲巨響。 | 常見義
+- boom | n./v. | a time of fast growth | 繁榮；激增 | growth, rise | decline | There has been a boom in online shopping since 2020. | 2020 年以來網購激增。 | 進階義
+
+@C commission
+tz=n. 委員會 → n. 佣金 → v. 委託（製作）
+te=official group; money earned per sale; order a piece of work
+trap=work on commission 是「抽佣金」。
+- commission | n. | an official group given a special job | 委員會 | committee, board | | A commission was set up to study air pollution. | 政府成立一個委員會研究空氣污染。 | 常見義
+- commission | n./v. | money paid for each sale; to ask an artist to make something | 佣金；委託 | fee / order | | The city commissioned an artist to paint a large wall in the park. | 市政府委託一位藝術家在公園畫大型壁畫。 | 進階義
+
+@C execute
+tz=v. 執行、實行 → v. 處死
+te=carry out; kill as punishment
+trap=be executed 可能是「被處決」。
+- execute | v. | to carry out a plan | 執行；實行 | carry out, perform | | The team executed the plan perfectly and won the game. | 球隊完美執行戰術並贏得比賽。 | 常見義
+- execute | v. | to kill someone as a legal punishment | 處死；處決 | put to death | | In the past, criminals were executed in public. | 過去罪犯會被公開處決。 | 進階義
+
+@C exhaust
+tz=v. 使筋疲力盡 → v. 用光、耗盡 → n. 廢氣
+te=make very tired; use up; waste gas
+trap=car exhaust 是「汽車廢氣」。
+- exhaust | v. | to make someone very tired | 使筋疲力盡 | tire out, wear out | refresh | The long climb exhausted everyone. | 長途爬山讓大家筋疲力盡。 | 常見義
+- exhaust | v./n. | to use up completely; waste gas from a car | 耗盡；廢氣 | use up / fumes | | We exhausted all our savings on the trip. | 我們這趟旅行花光了所有積蓄。 | 進階義
+
+@C fabric
+tz=n. 布料 → n.（社會）結構、組織（the fabric of society）
+te=cloth; basic structure
+trap=social fabric 是「社會結構」。
+- fabric | n. | cloth | 布料；織物 | cloth, material | | This shirt is made of a soft cotton fabric. | 這件襯衫是柔軟的棉布做的。 | 常見義
+- fabric | n. | the basic structure of a society or building | 結構；構造 | structure, framework | | Crime can damage the fabric of a community. | 犯罪會破壞社區的結構。 | 進階義
+
+@C foster
+tz=adj./v. 寄養（foster family）→ v. 促進、培養（foster creativity）
+te=take care of a child who is not yours; encourage
+trap=foster friendship 是「促進友誼」。
+- foster | adj./v. | taking care of a child who is not your own | 寄養的；收養 | adopt, care for | | The boy lived with a foster family for two years. | 這男孩在寄養家庭住了兩年。 | 常見義
+- foster | v. | to help something develop | 促進；培養 | encourage, promote | discourage | Group projects foster cooperation among students. | 小組專題能培養學生之間的合作。 | 進階義
+
+@C mock
+tz=v. 嘲笑 → adj. 模擬的（mock exam 模擬考）
+te=laugh at; not real, practice
+trap=mock test 是「模擬考」，不是嘲笑考試。
+- mock | v. | to laugh at someone in an unkind way | 嘲笑；嘲弄 | tease, make fun of | respect | The other kids mocked him for his accent. | 其他孩子嘲笑他的口音。 | 常見義
+- mock | adj. | not real; done for practice | 模擬的；假的 | practice, fake | real | We have a mock exam next week to prepare for the GSAT. | 下週有模擬考，準備學測。 | 進階義
+
+@C odds
+tz=n. 機率、可能性 → at odds 不和、意見不合 → against all odds 儘管困難重重
+te=chance; disagreeing
+trap=at odds with 是「和…不和」。
+- odds | n. | the chance that something will happen | 機率；可能性 | chance, likelihood | | The odds of winning the lottery are very small. | 中樂透的機率非常小。 | 常見義
+- odds | n. | (at odds) disagreeing; (against all odds) despite difficulties | 不和；困難重重 | in conflict | | Against all odds, the small team won the championship. | 儘管困難重重，這支小隊仍贏得冠軍。 | 進階義
+
+@C outlet
+tz=n. 插座 → n. 暢貨中心（outlet mall）→ n. 發洩管道
+te=place to plug in; discount shop; way to express feelings
+trap=an outlet for stress 是「抒壓管道」。
+- outlet | n. | a place in a wall where you plug in electric equipment | 插座 | socket | | Is there an outlet near the desk so I can charge my phone? | 書桌附近有插座讓我充手機嗎？ | 常見義
+- outlet | n. | a way of expressing feelings; a store selling cheap goods | 發洩管道；暢貨中心 | release, channel | | Playing drums is a good outlet for his energy. | 打鼓是他宣洩精力的好管道。 | 進階義
+
+@C premium
+tz=n. 保險費 → adj. 優質的、高級的 → at a premium 稀少、珍貴
+te=money paid for insurance; high quality
+trap=premium 不是「獎品」，最常見是保費或高級版。
+- premium | n. | money paid regularly for insurance | 保險費 | payment | | My car insurance premium went up after the accident. | 出車禍後我的汽車保險費上漲了。 | 常見義
+- premium | adj. | of high quality and expensive | 高級的；優質的 | high-quality, luxury | cheap | The shop sells premium coffee beans from Ethiopia. | 這家店販售衣索比亞的高級咖啡豆。 | 進階義
+
+@C spectacle
+tz=n. 奇觀、壯觀景象 → spectacles 眼鏡（複數）
+te=amazing sight; glasses
+trap=a pair of spectacles 是「一副眼鏡」。
+- spectacle | n. | an amazing or unusual sight | 奇觀；壯觀景象 | sight, show | | The fireworks on New Year's Eve were a wonderful spectacle. | 跨年夜的煙火是一場壯觀的景象。 | 常見義
+- spectacle | n. | (spectacles) glasses | 眼鏡 | glasses | | Grandpa can't read without his spectacles. | 爺爺沒戴眼鏡就看不了字。 | 進階義
+
+@C striking
+tz=adj. 醒目的、驚人的（strike 打中眼睛）→ adj. 罷工中的（striking workers）
+te=very noticeable; refusing to work as a protest
+trap=a striking resemblance 是「驚人的相似」。
+- striking | adj. | very noticeable or attractive | 醒目的；驚人的 | noticeable, remarkable | ordinary | There is a striking similarity between the two paintings. | 這兩幅畫有驚人的相似之處。 | 常見義
+- striking | adj. | refusing to work as a protest | 罷工的 | protesting | | Striking workers gathered outside the factory gate. | 罷工的工人聚集在工廠大門外。 | 進階義
+
+@C terminal
+tz=n. 航廈、終點站 → adj.（疾病）末期的
+te=building at an airport; (of illness) leading to death
+trap=terminal cancer 是「癌症末期」。
+- terminal | n. | a building at an airport or bus station | 航廈；終點站 | station | | Our flight leaves from Terminal 2. | 我們的班機從第二航廈出發。 | 常見義
+- terminal | adj. | (of an illness) causing death and unable to be cured | 末期的；致命的 | incurable, fatal | | The hospital provides care for patients with terminal illnesses. | 這家醫院為末期病患提供照護。 | 進階義
+
+@C console
+tz=n. 遊戲主機、控制台（CON-sole）→ v. 安慰（con-SOLE）
+te=noun: game machine, control panel; verb: comfort
+trap=重音不同、詞性不同；consolation 安慰。
+- console | n. | a machine for playing video games; a control panel | 遊戲主機；控制台 | | | He saved his money for months to buy a new game console. | 他存了好幾個月的錢買新的遊戲主機。 | 常見義
+- console | v. | to comfort someone who is sad | 安慰 | comfort, soothe | upset | She tried to console her friend after he lost the game. | 朋友輸了比賽後她試著安慰他。 | 進階義
+
+@C outgoing
+tz=adj. 外向的 → adj. 即將離任的、往外的（outgoing mail）
+te=friendly and sociable; leaving a job
+trap=the outgoing president 是「即將卸任的總統」。
+- outgoing | adj. | friendly and enjoying meeting people | 外向的；友善的 | sociable, friendly | shy | My sister is outgoing and makes friends easily. | 我姊姊個性外向，很容易交朋友。 | 常見義
+- outgoing | adj. | leaving a job; going out | 即將離任的；外發的 | departing | incoming | The outgoing principal gave a speech at her last school assembly. | 即將卸任的校長在最後一次朝會致詞。 | 進階義
+
+@C rash
+tz=n. 疹子 → adj. 輕率的、魯莽的 → a rash of 一連串
+te=red spots on skin; done too quickly without thinking
+trap=a rash decision 是「草率的決定」。
+- rash | n. | red spots on the skin | 疹子 | spots | | The baby got a rash after eating shrimp. | 寶寶吃了蝦子後起疹子。 | 常見義
+- rash | adj. | done too quickly without thinking | 輕率的；魯莽的 | hasty, reckless | careful | Don't make a rash decision when you are angry. | 生氣時別做草率的決定。 | 進階義
+
+@C upright
+tz=adj./adv. 直立的 → adj. 正直的
+te=standing straight; honest
+trap=an upright citizen 是「正直的公民」。
+- upright | adj./adv. | standing straight up | 直立的；挺直地 | vertical, straight | flat | Please put your seat in the upright position for landing. | 降落時請將椅背豎直。 | 常見義
+- upright | adj. | honest and responsible | 正直的 | honest, moral | dishonest | He is an upright man who never cheats anyone. | 他是個正直的人，從不欺騙任何人。 | 進階義

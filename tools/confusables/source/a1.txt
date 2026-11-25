@@ -1,0 +1,375 @@
+@A adapt / adopt
+tz=adapt 適應、改編（apt 合適 → 讓自己變合適）；adopt 採用、領養（opt 選擇 → 選進來）
+te=adapt = change to fit; adopt = take and use as your own
+trap=只差一個字母 a/o；adapt to + 新環境，adopt + 方法／小孩。
+- adapt | v. | to change in order to fit a new situation | 適應；改編 | adjust, modify, fit | resist | It took the exchange student a few months to adapt to the cold winters in Canada. | 這位交換學生花了幾個月才適應加拿大寒冷的冬天。
+- adopt | v. | to start using an idea or method; to take a child into your family | 採用；領養 | take up, embrace, foster | reject, abandon | After the flood, the town adopted a new plan to protect homes near the river. | 水災過後，鎮上採用了一套保護河邊住家的新計畫。
+
+@A sober / somber
+tz=sober 清醒的、冷靜的（沒喝醉）；somber 陰沉的、憂鬱的（som- 像 shadow 暗）
+te=sober = not drunk, serious; somber = dark and sad
+trap=字形只差 m，sober 指「頭腦清醒、嚴肅理性」，somber 指「氣氛或顏色陰暗沉重」。
+- sober | adj. | not drunk; serious and calm in thinking | 清醒的；冷靜嚴肅的 | clear-headed, serious, calm | drunk, frivolous | He waited until he was completely sober before he drove home from the party. | 他等到完全清醒後才從派對開車回家。
+- somber | adj. | dark in color; sad and serious in mood | 陰暗的；憂鬱沉重的 | gloomy, dark, solemn | cheerful, bright | Everyone wore somber black clothes to the funeral, and nobody spoke much. | 大家都穿著深暗的黑衣參加喪禮，沒有人多說話。
+
+@A desert / dessert
+tz=desert 沙漠（一個 s，沙子少）；dessert 甜點（兩個 s，甜點想吃兩份）
+te=desert = dry land; dessert = sweet food after a meal
+trap=拼字只差一個 s；desert 當動詞是「拋棄」，重音在後。
+- desert | n./v. | a large dry area with sand; (v.) to leave someone who needs you | 沙漠；（v.）拋棄 | wasteland / abandon | oasis | The travelers carried extra water because they had to cross the desert on foot. | 旅人多帶了水，因為他們必須徒步穿越沙漠。
+- dessert | n. | sweet food eaten at the end of a meal | 甜點 | sweet, pudding | appetizer | We were too full after the steak, so we skipped dessert and just ordered tea. | 吃完牛排我們太飽了，所以跳過甜點只點了茶。
+
+@A quiet / quite / quit
+tz=quiet 安靜的（-et 結尾像 pet 乖乖的）；quite 相當（-te 副詞）；quit 放棄、辭職（最短：一刀切）
+te=quiet = silent; quite = very, fairly; quit = stop doing
+trap=三字只差字母順序，寫作時最常拼錯；quite 是副詞，修飾形容詞。
+- quiet | adj. | making little or no noise | 安靜的 | silent, calm, peaceful | noisy, loud | Please keep quiet in the library because many students are studying for exams. | 請在圖書館保持安靜，因為很多學生在準備考試。
+- quite | adv. | very; fairly | 相當；十分 | fairly, rather, very | slightly | The math test was quite difficult, but most of the class still passed it. | 數學考試相當難，但全班大部分人還是通過了。
+- quit | v. | to stop doing something; to leave a job | 停止；辭職 | stop, give up, resign | continue, start | My uncle quit smoking last year because his doctor warned him about his lungs. | 我叔叔去年戒菸了，因為醫生警告他肺部有問題。
+
+@A loose / lose
+tz=loose 鬆的（兩個 o 鬆鬆的）；lose 失去、輸（一個 o，掉了一個）
+te=loose = not tight; lose = fail to keep or win
+trap=lose 讀 /luːz/，loose 讀 /luːs/；寫作常把 lose 誤拼成 loose。
+- loose | adj. | not tight or firmly fixed | 鬆的；寬鬆的 | slack, baggy, free | tight, firm | One of the screws on my chair is loose, so it shakes when I sit down. | 我椅子上有顆螺絲鬆了，所以一坐下就搖晃。
+- lose | v. | to stop having something; to fail to win | 失去；遺失；輸 | misplace, drop, be defeated | find, win | If you lose your student ID card, you have to pay to get a new one. | 如果你遺失學生證，就得付費補辦一張新的。
+
+@A breath / breathe / breadth
+tz=breath（n.）一口氣；breathe（v.）呼吸，多一個 e 就變動詞；breadth（n.）寬度（broad 的名詞）
+te=breath = air in and out (noun); breathe = verb; breadth = width
+trap=breath/breathe 詞性不同、發音不同（/θ/ vs /ð/）；breadth 多了 d，和呼吸無關。
+- breath | n. | the air you take into and let out of your lungs | 呼吸；一口氣 | inhalation, gasp | | Take a deep breath and count to ten before you answer an angry customer. | 回應生氣的顧客前，先深吸一口氣並數到十。
+- breathe | v. | to take air into your lungs and let it out | 呼吸 | inhale, exhale | suffocate | It was hard to breathe at the top of the mountain because the air was so thin. | 在山頂上很難呼吸，因為空氣非常稀薄。
+- breadth | n. | the distance from one side to the other; wide range | 寬度；廣度 | width, range, scope | length, depth | The teacher was impressed by the breadth of her reading, from history to science fiction. | 老師對她閱讀的廣度印象深刻，從歷史到科幻小說都有。
+
+@A cloth / clothe / clothes
+tz=cloth 布（不可數）；clothes 衣服（永遠複數）；clothe（v.）給…穿衣、供應衣物
+te=cloth = material; clothes = things you wear; clothe = provide clothes for
+trap=cloth 不是衣服；clothe 是動詞，常見於 feed and clothe（養家）。
+- cloth | n. | material made from cotton, wool, etc. | 布；布料 | fabric, material, textile | | Grandma cut the old cloth into small pieces and made a colorful blanket. | 奶奶把舊布剪成小塊，做成一條色彩繽紛的毯子。
+- clothe | v. | to provide clothes for someone | 給…穿衣；供給衣服 | dress, outfit | strip | The single mother worked two jobs to feed and clothe her three children. | 這位單親媽媽身兼兩份工作來養活三個孩子、供他們穿衣。
+- clothes | n. | things you wear, such as shirts and pants | 衣服 | clothing, garments | | Pack warm clothes for the trip, because it often snows in the mountains in January. | 旅行要帶保暖的衣服，因為一月山上常下雪。
+
+@A dairy / diary
+tz=dairy 乳製品（ai：牛奶 milk 的 i 在後）；diary 日記（day 的 d-i-a-r-y）
+te=dairy = milk products; diary = a daily personal book
+trap=兩字母互換位置，閱讀時極易看錯。
+- dairy | n./adj. | milk and food made from milk | 乳製品（的）；酪農場 | milk products | | People who cannot digest milk well should avoid dairy products such as cheese and ice cream. | 無法消化牛奶的人應避免起司和冰淇淋等乳製品。
+- diary | n. | a book where you write about your day | 日記 | journal, log | | She has kept a diary since she was ten, writing a few lines before bed every night. | 她從十歲起寫日記，每晚睡前寫幾行。
+
+@A aboard / abroad
+tz=aboard 在船／車／飛機上（on board）；abroad 在國外（broad 廣闊的外面）
+te=aboard = on a ship or plane; abroad = in a foreign country
+trap=字母 o/r 順序不同；go abroad 不加 to。
+- aboard | adv./prep. | on or onto a ship, plane, or train | 在（交通工具）上 | on board | ashore | All passengers must be aboard the ship thirty minutes before it leaves the harbor. | 所有乘客必須在船離港前三十分鐘登船。
+- abroad | adv. | in or to a foreign country | 在國外；到國外 | overseas | at home | My cousin plans to study abroad in Germany after she graduates from senior high school. | 我表姊打算高中畢業後去德國留學。
+
+@A angel / angle
+tz=angel 天使（-el）；angle 角度（-le，像 triangle 三角形）
+te=angel = heavenly being; angle = the space between two lines
+trap=el/le 對調，發音也不同（/ˈeɪndʒəl/ vs /ˈæŋgəl/）。
+- angel | n. | a spirit from heaven; a very kind person | 天使；好心人 | saint | devil | The nurse was so gentle and patient that the children called her their angel. | 那位護理師溫柔又有耐心，孩子們都叫她天使。
+- angle | n. | the space between two lines that meet; a point of view | 角度；觀點 | corner, viewpoint, perspective | | If you look at the problem from a different angle, you may find an easier answer. | 如果你從不同的角度看這個問題，可能會找到更簡單的答案。
+
+@A bride / bribe
+tz=bride 新娘（d 像 dress 婚紗）；bribe 賄賂（b = buy 買通）
+te=bride = woman getting married; bribe = money given to get unfair help
+trap=只差 d/b 一個字母，意思天差地別。
+- bride | n. | a woman on her wedding day | 新娘 | newlywed | groom | The bride walked down the aisle while all the guests stood and smiled. | 新娘走過紅毯時，所有賓客都站起來微笑。
+- bribe | n./v. | money or a gift given to get someone to do something dishonest | 賄賂 | payoff, kickback | | The official was arrested for accepting a bribe from a construction company. | 這名官員因收受建設公司的賄賂而被捕。
+
+@A carton / cartoon
+tz=carton 紙盒（car-ton 一噸紙箱）；cartoon 卡通（多一個 o，像兩隻眼睛在看）
+te=carton = cardboard box; cartoon = funny drawing or animated film
+trap=只差一個 o；a carton of milk 一盒牛奶。
+- carton | n. | a cardboard or paper box for food or drinks | 紙盒；紙箱 | box, container, package | | I bought a carton of milk and a dozen eggs on the way home from school. | 我放學回家途中買了一盒牛奶和一打雞蛋。
+- cartoon | n. | a funny drawing; an animated film | 卡通；漫畫 | animation, comic | | My little brother watches a cartoon about talking animals every Saturday morning. | 我弟弟每週六早上都看一部關於會說話動物的卡通。
+
+@A casual / causal / casualty
+tz=casual 隨意的（u 在前：休閒）；causal 因果的（cause 原因）；casualty 傷亡者（意外 casual 碰上的人）
+te=casual = relaxed; causal = about cause and effect; casualty = person hurt or killed
+trap=casual/causal 只差 u、s 對調；casualty 不是「隨意」而是「傷亡」。
+- casual | adj. | relaxed and informal; not planned | 隨意的；休閒的 | informal, relaxed, offhand | formal | You can wear casual clothes on Friday, but please wear a suit to the meeting on Monday. | 週五可以穿休閒服，但週一開會請穿西裝。
+- causal | adj. | showing that one thing causes another | 因果的 | | | Scientists have found a causal link between smoking and lung disease. | 科學家已發現吸菸和肺病之間有因果關係。
+- casualty | n. | a person hurt or killed in an accident or war | 傷亡者 | victim, fatality | survivor | Luckily, there were no casualties when the old bridge suddenly fell into the river. | 幸運的是，那座老橋突然塌入河中時並無傷亡。
+
+@A cite / site / sight
+tz=cite 引用（c = copy 引述）；site 地點、網站（s = spot）；sight 視力、景象（see 看）
+te=cite = quote; site = place; sight = ability to see, view
+trap=三字同音 /saɪt/，只能靠拼字和上下文分辨。
+- cite | v. | to mention words or facts as proof | 引用；舉出 | quote, mention, refer to | | In your report, please cite at least two news articles to support your opinion. | 報告中請至少引用兩篇新聞報導來支持你的看法。
+- site | n. | a place where something is, was, or will be; a website | 地點；場址；網站 | location, spot, website | | Workers must wear helmets at all times at the building site. | 工人在建築工地必須隨時戴安全帽。
+- sight | n. | the ability to see; something you see | 視力；景象 | vision, view, scene | blindness | The sunset over the ocean was the most beautiful sight of our whole trip. | 海上的夕陽是我們整趟旅程中最美的景象。
+
+@A coarse / course
+tz=coarse 粗糙的（oa 像 oat 燕麥粗粗的）；course 課程、路線
+te=coarse = rough; course = class or route
+trap=同音 /kɔːrs/；of course 不能寫成 of coarse。
+- coarse | adj. | rough, not smooth or fine; rude | 粗糙的；粗俗的 | rough, crude, vulgar | smooth, fine | The beach is covered with coarse sand that hurts your feet if you walk without shoes. | 海灘上滿是粗沙，赤腳走會讓腳很痛。
+- course | n. | a class or set of lessons; a route | 課程；路線；過程 | class, program, route | | She took an online course in photography during the summer vacation. | 她暑假上了一門線上攝影課程。
+
+@A confirm / conform
+tz=confirm 確認（firm 確定、穩固）；conform 遵守、順從（form 形式 → 符合格式）
+te=confirm = make sure it is true; conform = follow rules or what others do
+trap=i/o 一字之差；conform to + 規定。
+- confirm | v. | to say or show that something is true or will happen | 確認；證實 | verify, prove, check | deny | Please call the hotel to confirm our booking before we leave for the airport. | 出發去機場前請打電話向飯店確認訂房。
+- conform | v. | to obey rules or behave like other people | 遵守；順從 | comply, obey, follow | rebel | All new buildings must conform to the safety rules for earthquakes. | 所有新建築都必須符合防震安全規定。
+
+@A contest / context
+tz=contest 比賽（test 考驗）；context 上下文、背景（text 文字 → 文字周圍）
+te=contest = competition; context = situation around something
+trap=s/x 一字之差；guess from context 從上下文猜。
+- contest | n. | a competition | 比賽；競賽 | competition, match | | She won first prize in the English speech contest held by the city government. | 她在市政府舉辦的英語演講比賽中獲得第一名。
+- context | n. | the words or situation around something that help explain it | 上下文；背景 | background, setting, situation | | If you do not know a word, try to guess its meaning from the context. | 遇到不會的字，試著從上下文猜它的意思。
+
+@A decent / descent / descend
+tz=decent 體面的、像樣的（decent 只有一個 s）；descent（n.）下降、血統；descend（v.）下降
+te=decent = good enough, proper; descent = going down, family origin; descend = go down
+trap=decent 與「下降」無關；descent 多一個 s 才是 descend 的名詞。
+- decent | adj. | good enough; honest and polite | 像樣的；正派的 | proper, acceptable, respectable | shabby, indecent | After months of looking, my brother finally found a decent job with a fair salary. | 找了幾個月後，我哥哥終於找到一份薪水合理的像樣工作。
+- descent | n. | a movement downward; family origin | 下降；血統 | drop, decline, ancestry | ascent | The plane began its descent, so the passengers fastened their seat belts. | 飛機開始下降，所以乘客們繫好了安全帶。
+- descend | v. | to move down | 下降；走下 | go down, fall, drop | ascend, climb | The hikers had to descend the mountain quickly because a storm was coming. | 暴風雨即將來臨，登山客必須迅速下山。
+
+@A detect / defect
+tz=detect 偵測、察覺（detective 偵探）；defect 缺陷（de- 往下 → 不足）
+te=detect = notice or discover; defect = fault
+trap=t/f 一字之差；defect 也可當動詞「叛逃」。
+- detect | v. | to notice or discover something hard to see | 偵測；察覺 | discover, notice, sense | miss | The smoke alarm can detect even a small fire and warn the family in time. | 煙霧警報器即使是小火也能偵測到，及時警告家人。
+- defect | n. | a fault or problem in something | 缺陷；瑕疵 | flaw, fault, weakness | | The company called back thousands of cars because of a defect in the brakes. | 這家公司因煞車有缺陷而召回數千輛車。
+
+@A elect / erect / select
+tz=elect 選舉（e- 出 + lect 選）；select 挑選（se- 分開挑）；erect 豎立（e- 往上 + rect 直）
+te=elect = choose by voting; select = choose carefully; erect = build, stand up
+trap=elect 專指投票選；erect 和「選」無關，是「豎立、建造」。
+- elect | v. | to choose someone by voting | 選舉；推選 | vote for, choose | | The students will elect a new class leader at the beginning of the semester. | 學期初學生會選出新的班長。
+- erect | v./adj. | to build or put up; standing straight | 豎立；建造；直立的 | build, raise, upright | knock down | The town erected a statue in the park to honor the brave firefighters. | 鎮上在公園豎立了一座雕像，紀念英勇的消防員。
+- select | v. | to choose carefully from a group | 挑選；選擇 | pick, choose | reject | Only ten students were selected to join the national science camp this year. | 今年只有十名學生被選中參加全國科學營。
+
+@A explode / explore
+tz=explode 爆炸（-plode 像 bomb 的聲音）；explore 探索（-plore 像 more 想知道更多）
+te=explode = burst violently; explore = travel to discover
+trap=d/r 一字之差。
+- explode | v. | to burst with a loud noise; to suddenly increase | 爆炸；激增 | blow up, burst | | A gas tank exploded in the restaurant kitchen, but luckily no one was hurt. | 餐廳廚房的瓦斯桶爆炸了，幸好無人受傷。
+- explore | v. | to travel around a place to learn about it | 探索；探究 | investigate, examine, tour | | We spent the whole afternoon exploring the old streets and small shops of Tainan. | 我們整個下午都在探索台南的老街和小店。
+
+@A flash / flesh / fresh
+tz=flash 閃光（a：亮一下）；flesh 肉（e：身體的肉）；fresh 新鮮的（r）
+te=flash = sudden light; flesh = soft body tissue; fresh = new, not old
+trap=flesh 和 fresh 只差 l/r，台灣學生發音常混；in the flesh 本人親自。
+- flash | n./v. | a sudden bright light; to shine for a moment | 閃光；閃現 | flare, flicker, sparkle | | A flash of lightning lit up the whole sky, and then we heard loud thunder. | 一道閃電照亮整片天空，接著我們聽到巨大的雷聲。
+- flesh | n. | the soft part of a body or fruit | 肉；果肉 | meat, pulp | | The flesh of this mango is sweet and soft, but the skin is a little bitter. | 這顆芒果的果肉香甜柔軟，但果皮有點苦。
+- fresh | adj. | new, recently made or picked | 新鮮的 | new, raw | stale, rotten | The restaurant uses fresh fish caught by local fishermen every morning. | 這家餐廳使用當地漁夫每天早上捕的新鮮魚。
+
+@A flee / flea / free
+tz=flee 逃走（ee 兩條腿跑）；flea 跳蚤（ea 像 eat 咬人）；free 免費的、自由的
+te=flee = run away; flea = small jumping insect; free = not costing money
+trap=flee/flea 同音；flee 過去式是 fled。
+- flee | v. | to run away from danger | 逃走；逃離 | escape, run away | stay | Thousands of people had to flee their homes when the volcano began to erupt. | 火山開始噴發時，數千人不得不逃離家園。
+- flea | n. | a very small jumping insect that lives on animals | 跳蚤 | | | We gave our dog a bath with special soap because he was covered in fleas. | 我們用特殊肥皂幫狗洗澡，因為牠身上全是跳蚤。
+- free | adj. | costing nothing; able to do what you want | 免費的；自由的 | complimentary, independent | expensive, trapped | Children under six can enter the museum for free on weekends. | 週末六歲以下兒童可免費進入博物館。
+
+@A found / fund / fond
+tz=found 建立（-ou：found-ation 基礎）；fund 基金（u：money）；fond 喜愛的（be fond of）
+te=found = start an organization; fund = money for a purpose; fond = liking
+trap=found 也是 find 的過去式，但「建立」時過去式是 founded。
+- found | v. | to start an organization or company | 建立；創辦 | establish, set up | close | The school was founded in 1920 by a group of teachers from Tainan. | 這所學校是由一群台南的老師在 1920 年創辦的。
+- fund | n./v. | money saved or collected for a purpose; to pay for | 基金；資助 | money, budget, finance | | The students sold cookies to raise funds for the animal shelter. | 學生們賣餅乾為動物收容所募款。
+- fond | adj. | liking someone or something | 喜愛的 | keen on, attached to | dislike | My grandfather is fond of old songs and often sings them while he cooks. | 我爺爺喜歡老歌，常常邊煮飯邊唱。
+
+@A fright / freight / flight
+tz=fright 驚嚇（frighten 的名詞）；freight 貨運（-eight 重量）；flight 航班（fly）
+te=fright = sudden fear; freight = goods carried; flight = trip by plane
+trap=fright/flight 只差 r/l；freight 讀 /freɪt/。
+- fright | n. | a sudden feeling of fear | 驚嚇；恐懼 | scare, shock, panic | calm | The loud bang gave the old woman such a fright that she dropped her cup. | 那聲巨響把老太太嚇得手中的杯子都掉了。
+- freight | n. | goods carried by ship, train, or plane | 貨物；貨運 | cargo, goods, shipment | | The freight train carries coal and steel from the port to factories in the south. | 這列貨運列車將煤和鋼從港口運到南部的工廠。
+- flight | n. | a trip by plane; the act of flying | 航班；飛行 | trip, journey, air travel | | Our flight to Tokyo was delayed for three hours because of the typhoon. | 我們飛往東京的班機因颱風延誤了三小時。
+
+@A hanger / hunger / anger
+tz=hanger 衣架（hang 掛）；hunger 飢餓（hungry）；anger 憤怒（angry）
+te=hanger = thing to hang clothes on; hunger = need for food; anger = strong feeling of being upset
+trap=hanger 和 hunger 只差一個母音，閱讀快時易看錯。
+- hanger | n. | a curved piece of wire or wood for hanging clothes | 衣架 | coat hanger | | Please put your jacket on a hanger so it doesn't get wrinkled. | 請把外套掛在衣架上，才不會起皺。
+- hunger | n. | the feeling of needing food; a strong wish | 飢餓；渴望 | starvation, desire | fullness | Millions of children around the world still suffer from hunger every day. | 全世界仍有數百萬兒童每天受飢餓之苦。
+- anger | n. | the strong feeling you have when you are upset | 憤怒 | rage, fury | calm | He tried to hide his anger, but his red face showed how upset he really was. | 他試圖掩飾憤怒，但漲紅的臉顯示出他有多生氣。
+
+@A heir / hair
+tz=heir 繼承人（h 不發音，讀如 air；inherit 繼承）；hair 頭髮
+te=heir = person who will receive money or property; hair = what grows on your head
+trap=heir 的 h 不發音；an heir 用 an。
+- heir | n. | a person who will receive someone's money or property after they die | 繼承人 | successor, inheritor | | As the only son, he is the heir to his father's company. | 身為獨子，他是父親公司的繼承人。
+- hair | n. | the thin threads that grow on your head | 頭髮；毛髮 | | | She cut her long hair short before the summer because the weather was so hot. | 天氣太熱，她入夏前把長髮剪短了。
+
+@A humor / rumor / tumor
+tz=humor 幽默（h = haha）；rumor 謠言（r = rumor 傳來傳去）；tumor 腫瘤（t = tissue 組織）
+te=humor = being funny; rumor = story that may not be true; tumor = abnormal growth in the body
+trap=三字只差首字母。
+- humor | n. | the quality of being funny | 幽默 | wit, comedy | seriousness | Our history teacher has a great sense of humor, so nobody falls asleep in her class. | 我們歷史老師很有幽默感，所以上她的課沒人會睡著。
+- rumor | n. | a story people pass on that may not be true | 謠言；傳聞 | gossip, hearsay | fact | There is a rumor that the school will cancel the sports day, but nobody knows if it's true. | 有傳言說學校會取消運動會，但沒人知道是不是真的。
+- tumor | n. | a mass of cells growing in the body where it should not | 腫瘤 | growth, lump | | The doctors removed the tumor, and the patient is now recovering well. | 醫生切除了腫瘤，病人現在恢復良好。
+
+@A inferior / interior
+tz=inferior 較差的（infer- 低 → 對比 superior）；interior 內部的（inter 在裡面 → 對比 exterior）
+te=inferior = lower in quality; interior = inside
+trap=f/t 一字之差；inferior to（不用 than）。
+- inferior | adj. | not as good as someone or something else | 較差的；低等的 | worse, lesser, poorer | superior | These cheap shoes are inferior to the brand-name ones, but they are fine for daily use. | 這雙便宜的鞋比名牌差，但日常穿還可以。
+- interior | n./adj. | the inside part of something | 內部（的）；室內 | inside, inner | exterior | The outside of the house looks old, but the interior has been completely redesigned. | 這棟房子外觀看起來很舊，但室內已經全部重新設計過。
+
+@A invent / invest / intent
+tz=invent 發明（vent 來 → 想出來）；invest 投資（vest 背心 → 把錢穿進去）；intent 意圖（tent 伸向 → 目標）
+te=invent = create something new; invest = put money in to make profit; intent = purpose
+trap=in- 開頭、只差中間字母；intent 也作形容詞「專注的」。
+- invent | v. | to create something that did not exist before | 發明；捏造 | create, design, make up | copy | Thomas Edison did not invent the first light bulb, but he made it practical for homes. | 愛迪生並未發明第一顆燈泡，但他讓燈泡能實用於家庭。
+- invest | v. | to put money or time into something to get a benefit | 投資；投入 | put money into, spend | waste | My parents invested most of their savings in a small apartment near the MRT station. | 我爸媽把大部分積蓄投資在捷運站附近的一間小公寓。
+- intent | n./adj. | purpose; (adj.) very focused | 意圖；（adj.）專注的 | aim, purpose, determined | | The man was charged with entering the building with intent to steal. | 這名男子被控意圖行竊而進入大樓。
+
+@A lightning / lightening / lighten
+tz=lightning 閃電（沒有 e）；lightening 變亮、減輕（lighten + ing，有 e）；lighten 使變亮、減輕
+te=lightning = flash in the sky; lighten = make lighter; lightening = -ing form of lighten
+trap=寫作最常見拼錯：閃電是 lightning，中間沒有 e。
+- lightning | n. | the flash of light in the sky during a storm | 閃電 | thunderbolt | | Never stand under a tree during a storm, because lightning often hits tall objects. | 暴風雨時千萬別站在樹下，因為閃電常擊中高的物體。
+- lightening | v. | (-ing form of lighten) making lighter or brighter | 正在變亮；正在減輕 | brightening, easing | | The sky was lightening in the east as the fishermen pushed their boats into the sea. | 漁夫把船推入海中時，東方的天空漸漸亮起來。
+- lighten | v. | to make something lighter in weight or brighter | 減輕；使明亮 | ease, reduce, brighten | darken, increase | Hiring two more workers will lighten the workload for everyone in the office. | 再請兩位員工能減輕辦公室每個人的工作量。
+
+@A loyal / royal
+tz=loyal 忠誠的（l = love 不變）；royal 皇家的（r = king 的 royal family）
+te=loyal = faithful; royal = of a king or queen
+trap=只差 l/r，台灣學生發音也常混。
+- loyal | adj. | always supporting a person, group, or idea | 忠誠的 | faithful, devoted | disloyal | The small café survives because it has many loyal customers who come every day. | 這家小咖啡廳能存活下來，是因為有很多天天報到的忠實顧客。
+- royal | adj. | of or related to a king or queen | 皇家的；王室的 | regal, kingly | | Tourists line up in front of the palace to watch the royal guards change shifts. | 觀光客在宮殿前排隊觀看皇家衛兵換班。
+
+@A massage / message
+tz=massage 按摩（a：啊～好舒服）；message 訊息（e：e-mail）
+te=massage = rubbing the body to relax; message = information sent to someone
+trap=只差 a/e，重音也不同：mas-SAGE vs MES-sage。
+- massage | n./v. | rubbing someone's body to relax muscles | 按摩 | rub, knead | | After the long hike, a foot massage helped me relax my tired legs. | 長途健行後，腳底按摩幫我放鬆疲憊的雙腿。
+- message | n. | a piece of written or spoken information | 訊息；留言 | note, text, information | | I left a message on her phone, but she hasn't called me back yet. | 我在她手機上留言了，但她還沒回電。
+
+@A medal / metal / pedal
+tz=medal 獎牌（d：獲得 gold medal）；metal 金屬（t：iron, tin）；pedal 踏板（ped 腳）
+te=medal = award; metal = iron, gold, etc.; pedal = part you push with your foot
+trap=medal/metal 美式發音幾乎相同，靠上下文判斷。
+- medal | n. | a round piece of metal given as a prize | 獎牌；勳章 | award, prize | | The swimmer won a gold medal and became a national hero overnight. | 這位泳將贏得金牌，一夕之間成為國家英雄。
+- metal | n. | a hard material such as iron, gold, or copper | 金屬 | | | Aluminum is a light metal, so it is often used to make cans and airplanes. | 鋁是一種輕金屬，常用來製造罐子和飛機。
+- pedal | n./v. | the part you push with your foot to make a bike move | 踏板；踩踏板 | | | He pushed hard on the pedals to climb the steep hill on his bike. | 他用力踩踏板，騎著腳踏車爬上陡坡。
+
+@A mental / rental / dental
+tz=mental 心理的（mind）；rental 租賃的（rent）；dental 牙齒的（dentist）
+te=mental = of the mind; rental = for rent; dental = of the teeth
+trap=-ental 結尾相同，只差首字母。
+- mental | adj. | related to the mind | 心理的；精神的 | psychological, emotional | physical | Getting enough sleep is important for both your physical and mental health. | 充足睡眠對身體和心理健康都很重要。
+- rental | n./adj. | the act of renting something; for rent | 租賃（的）；租金 | lease, hire | | We picked up our rental car at the airport and drove straight to the beach. | 我們在機場取了租來的車，直接開到海邊。
+- dental | adj. | related to the teeth | 牙齒的 | | | Regular dental checkups can find small problems before they become painful. | 定期牙齒檢查能在小問題變痛之前就發現。
+
+@A mayor / major
+tz=mayor 市長（may-or：城市的人）；major 主要的、主修（-jor）
+te=mayor = head of a city; major = important; main subject
+trap=y/j 一字之差，發音完全不同。
+- mayor | n. | the leader of a city or town | 市長；鎮長 | | | The mayor promised to build more bike lanes to reduce traffic in the city center. | 市長承諾增設自行車道以減少市中心的交通量。
+- major | adj./n. | very important; main subject at university | 主要的；主修 | main, chief, primary | minor | Traffic is a major problem in big cities, especially during rush hour. | 交通是大城市的主要問題，尤其在尖峰時段。
+
+@A merry / marry / mercy
+tz=merry 歡樂的（Merry Christmas）；marry 結婚（a：a couple）；mercy 慈悲（-cy）
+te=merry = happy; marry = become husband and wife; mercy = kindness to someone you could punish
+trap=merry/marry 發音接近；marry 不加 with。
+- merry | adj. | happy and cheerful | 歡樂的；愉快的 | cheerful, jolly | gloomy | The whole village sang merry songs and danced around the fire on New Year's Eve. | 除夕夜全村的人圍著火堆唱著歡樂的歌、跳舞。
+- marry | v. | to become someone's husband or wife | 結婚；嫁；娶 | wed | divorce | They decided to marry next spring, after both of them finish graduate school. | 他們決定明年春天兩人都讀完研究所後結婚。
+- mercy | n. | kindness shown to someone you could punish | 慈悲；寬恕 | pity, forgiveness | cruelty | The prisoner begged the king for mercy and promised never to commit a crime again. | 囚犯向國王求饒，承諾再也不犯罪。
+
+@A mist / moist / midst
+tz=mist 薄霧；moist 潮濕的（oi 像 oil 油油濕濕）；midst 中間（mid 中）
+te=mist = thin fog; moist = slightly wet; midst = middle
+trap=三字都很短，只差一兩個字母；in the midst of = 在…之中。
+- mist | n. | thin fog; tiny drops of water in the air | 薄霧 | fog, haze | | Early in the morning, a light mist covered the lake and the mountains. | 清晨，一層薄霧籠罩著湖面和群山。
+- moist | adj. | slightly wet | 潮濕的；濕潤的 | damp, humid, wet | dry | Keep the soil moist, but don't give the plant too much water. | 保持土壤濕潤，但別給植物太多水。
+- midst | n. | the middle of something | 中間；當中 | middle, center | | In the midst of the exam, the lights suddenly went out. | 考試考到一半，燈突然熄了。
+
+@A motion / notion / lotion
+tz=motion 動作（m = move）；notion 概念（n = note 想法）；lotion 乳液（l = lotion 抹在皮膚）
+te=motion = movement; notion = idea; lotion = cream for skin
+trap=-otion 結尾相同；motion 也指會議的「提案」。
+- motion | n. | movement; a formal suggestion at a meeting | 動作；運動；提案 | movement, gesture, proposal | stillness | The old film was shown in slow motion so we could see every step of the dancer. | 那部老影片用慢動作播放，讓我們看清舞者的每一步。
+- notion | n. | an idea or belief | 概念；想法 | idea, concept, belief | | The notion that girls are bad at math has been proven wrong many times. | 女生數學不好的觀念已被證明錯誤很多次。
+- lotion | n. | a liquid cream you put on your skin | 乳液 | cream, moisturizer | | Put on some sun lotion before you go to the beach, or you'll get burned. | 去海邊前擦點防曬乳，不然會曬傷。
+
+@A native / naive
+tz=native 本地的、母語的（nat- 出生）；naive 天真的（ai：一臉天真）
+te=native = born in a place; naive = too trusting, lacking experience
+trap=只差 t；naive 兩音節 /naɪˈiːv/。
+- native | adj./n. | born in a place; a person born in a place | 本地的；土生的；本地人 | local, indigenous | foreign | Her native language is Japanese, but she speaks English and Chinese fluently. | 她的母語是日語，但英語和中文都說得很流利。
+- naive | adj. | too ready to believe others because of little experience | 天真的；幼稚的 | innocent, gullible | experienced | It was naive of him to believe that the cheap phone online was a real brand-name one. | 他相信網路上那支便宜手機是正牌貨，真是太天真了。
+
+@A pleasant / peasant
+tz=pleasant 令人愉快的（please）；peasant 農民（pea 豌豆 → 種田）
+te=pleasant = nice; peasant = poor farmer
+trap=只差一個 l。
+- pleasant | adj. | nice and enjoyable | 令人愉快的；宜人的 | nice, agreeable, enjoyable | unpleasant | We had a pleasant afternoon drinking tea by the lake. | 我們在湖邊喝茶，度過一個愉快的下午。
+- peasant | n. | a poor farmer who owns or rents a small piece of land | 農民；佃農 | farmer, villager | | In the past, most peasants worked on land that belonged to rich landlords. | 過去大多數農民在富有地主的土地上耕作。
+
+@A precious / previous
+tz=precious 珍貴的（price 價格 → 值錢）；previous 先前的（pre- 先 + vi 路 → 走過的）
+te=precious = valuable; previous = earlier
+trap=字長相似、都是 pre- 開頭，閱讀時易看錯。
+- precious | adj. | very valuable or important | 珍貴的；寶貴的 | valuable, priceless, dear | worthless | Time with your family is precious, so put down your phone at dinner. | 和家人相處的時間很珍貴，所以晚餐時放下手機吧。
+- previous | adj. | happening before | 先前的；以前的 | earlier, former, prior | next, following | She has two years of previous experience working in a hotel. | 她有兩年在飯店工作的經驗。
+
+@A president / resident / precedent
+tz=president 總統（preside 主持）；resident 居民（reside 居住）；precedent 先例（precede 先於）
+te=president = leader; resident = person living in a place; precedent = earlier example
+trap=三字都是 -dent 結尾，各自來自不同動詞。
+- president | n. | the leader of a country or organization | 總統；總裁；會長 | leader, head, chief | | The president gave a speech about the economy on national television. | 總統在全國電視上發表了關於經濟的演說。
+- resident | n. | a person who lives in a place | 居民；住戶 | inhabitant, local | visitor | Local residents complained about the noise from the new night market. | 當地居民抱怨新夜市的噪音。
+- precedent | n. | an earlier event used as an example for later ones | 先例；前例 | example, model, standard | | The court's decision set a precedent for similar cases in the future. | 法院的判決為日後類似案件立下先例。
+
+@A prey / pray
+tz=prey 獵物（e：被 eat）；pray 祈禱（a：ask God）
+te=prey = animal hunted; pray = speak to God
+trap=同音 /preɪ/；fall prey to 成為…的受害者。
+- prey | n./v. | an animal that is hunted by another; to hunt | 獵物；捕食 | victim, quarry | predator | The eagle circled high above the field, looking for prey. | 老鷹在田野上空盤旋，尋找獵物。
+- pray | v. | to speak to God; to hope very much | 祈禱；祈求 | | | The farmers prayed for rain after three months of dry weather. | 經過三個月的乾旱，農民們祈求下雨。
+
+@A quote / quota
+tz=quote 引用（-te）；quota 配額、限額（-ta）
+te=quote = repeat someone's words; quota = fixed amount allowed
+trap=只差最後一個字母。
+- quote | v./n. | to repeat someone's exact words | 引用；引述 | cite, repeat | | The reporter quoted the mayor's words in the first line of the article. | 記者在文章第一行引用了市長的話。
+- quota | n. | a fixed number or amount that is allowed or needed | 配額；限額 | limit, share, allowance | | Each factory has a quota for how much pollution it can produce each year. | 每家工廠每年的污染排放量都有限額。
+
+@A racial / facial
+tz=racial 種族的（race）；facial 臉部的（face）
+te=racial = about race; facial = about the face
+trap=只差首字母 r/f。
+- racial | adj. | related to a person's race | 種族的 | ethnic | | The school has strict rules against racial jokes and bullying. | 學校嚴格禁止種族笑話和霸凌。
+- facial | adj./n. | related to the face; a beauty treatment for the face | 臉部的；臉部保養 | | | Her facial expression changed when she heard the bad news. | 她聽到壞消息時表情變了。
+
+@A refuse / refuge / refute
+tz=refuse 拒絕（-se）；refuge 避難所（-ge：fugitive 逃亡）；refute 反駁（-te）
+te=refuse = say no; refuge = safe place; refute = prove wrong
+trap=只差最後兩個字母；refugee 難民來自 refuge。
+- refuse | v. | to say you will not do or accept something | 拒絕 | decline, reject | accept, agree | He refused to give up, even after failing the driving test three times. | 即使駕照考三次都沒過，他仍拒絕放棄。
+- refuge | n. | a place that gives protection from danger | 避難所；庇護 | shelter, safety, haven | | During the storm, the hikers took refuge in an old cabin. | 暴風雨中，登山客在一間舊小屋避難。
+- refute | v. | to prove that a statement is wrong | 反駁；駁斥 | disprove, rebut | confirm | The scientist used new data to refute the old theory. | 這位科學家用新資料駁斥了舊理論。
+
+@A remain / retain / detain
+tz=remain 保持、剩下（main 留著）；retain 保留（tain 拿住）；detain 拘留（de- 往下壓住）
+te=remain = stay; retain = keep; detain = keep someone officially
+trap=retain 是及物動詞（retain + 東西）；remain 是不及物（remain + 形容詞／地點）。
+- remain | v. | to stay in the same place or condition | 保持；留下；剩下 | stay, continue | leave, change | Please remain in your seats until the plane has completely stopped. | 請在飛機完全停妥前留在座位上。
+- retain | v. | to keep something | 保留；保持 | keep, hold, preserve | lose | Clay pots retain heat well, so the soup stays hot for a long time. | 陶鍋保溫效果好，所以湯能長時間保持熱度。
+- detain | v. | to officially keep someone and not let them leave | 拘留；扣留 | hold, arrest | release | The police detained two men for questioning after the robbery. | 搶案發生後，警方拘留兩名男子進行訊問。
+
+@A reserve / preserve / deserve
+tz=reserve 預訂、保留（re- 先留著）；preserve 保存、保護（pre- 事先保好）；deserve 應得（de- 完全 + serve 服務 → 值得）
+te=reserve = book, keep for later; preserve = protect, keep from decay; deserve = should get
+trap=-serve 結尾都一樣，前綴決定意思。
+- reserve | v./n. | to book in advance; to keep for later use | 預訂；保留；儲備 | book, save | | We reserved a table for eight at the seafood restaurant. | 我們在海鮮餐廳訂了一張八人桌。
+- preserve | v. | to keep something safe or in good condition | 保存；保護 | protect, conserve, save | destroy | The old town works hard to preserve its traditional buildings. | 這座古城努力保存傳統建築。
+- deserve | v. | to have earned something because of what you did | 應得；值得 | earn, merit | | You worked hard all year, so you deserve a long holiday. | 你努力工作了一整年，應該好好放個長假。
+
+@A through / though / thorough / tough
+tz=through 穿過；though 雖然（無 r）；thorough 徹底的（多 o）；tough 艱難的（無 h）
+te=through = from one side to the other; though = although; thorough = complete; tough = difficult
+trap=四字字母幾乎相同，是英文拼字重災區。
+- through | prep. | from one side or end to the other | 穿過；透過 | across, via | | The train goes through a long tunnel under the mountain. | 火車穿過山下的一條長隧道。
+- though | conj. | although | 雖然 | although, even though | | Though it was raining hard, the game continued. | 雖然雨下得很大，比賽仍繼續進行。
+- thorough | adj. | complete and careful | 徹底的；仔細的 | complete, careful, detailed | careless | The police made a thorough search of the house but found nothing. | 警方徹底搜查了房子，卻一無所獲。
+- tough | adj. | difficult; strong | 艱難的；堅韌的 | hard, difficult, strong | easy, weak | Losing his job was tough, but he never gave up looking for a new one. | 失業很難熬，但他從沒放棄找新工作。

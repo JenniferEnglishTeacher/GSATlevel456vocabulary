@@ -1,0 +1,338 @@
+@A scarce / scare / scarf
+tz=scarce 稀少的（-rce 像 rare 少）；scare 驚嚇（scary）；scarf 圍巾（-f 結尾）
+te=scarce = not enough; scare = frighten; scarf = cloth worn around the neck
+trap=scarce 多一個 c、讀 /skers/，常被誤讀成 scare。
+- scarce | adj. | not available in large amounts; hard to find | 稀少的；缺乏的 | rare, limited, insufficient | plentiful | Clean water becomes scarce in the village during the long dry season. | 漫長的乾季裡，村裡的乾淨水源變得稀少。
+- scare | v./n. | to make someone afraid | 驚嚇；使害怕 | frighten, terrify | calm | The sudden noise from the kitchen scared the cat, and it ran under the bed. | 廚房突然傳來的聲響嚇到貓，牠跑到床底下。
+- scarf | n. | a long piece of cloth worn around the neck | 圍巾 | muffler | | She wrapped a thick wool scarf around her neck before going out into the snow. | 她出門踏雪前把一條厚羊毛圍巾圍在脖子上。
+
+@A scatter / shatter
+tz=scatter 散布、撒（sc- 撒出去）；shatter 粉碎（sh- 像玻璃碎裂聲 shhh）
+te=scatter = spread in many directions; shatter = break into many pieces
+trap=都和「分散」有關：scatter 是東西散開，shatter 是東西碎掉；shatter 也可指希望破滅。
+- scatter | v. | to throw or spread things in many directions | 撒；散布；四散 | spread, sprinkle, disperse | gather | The farmer scattered seeds across the field before the spring rain. | 農夫在春雨來臨前把種子撒遍田地。
+- shatter | v. | to break suddenly into many small pieces; to destroy | 粉碎；使破滅 | smash, break, destroy | | The window shattered when the baseball hit it, and glass flew everywhere. | 棒球打中窗戶時玻璃碎裂，碎片四處飛散。
+
+@A shallow / swallow
+tz=shallow 淺的（sh- 淺淺的）；swallow 吞嚥、燕子（sw- 吞下去）
+te=shallow = not deep; swallow = make food go down your throat
+trap=-allow 結尾相同；swallow 也是名詞「燕子」。
+- shallow | adj. | not deep; not serious in thinking | 淺的；膚淺的 | superficial | deep | Young children should swim only in the shallow end of the pool. | 小孩只應在泳池淺水區游泳。
+- swallow | v./n. | to make food or drink go down your throat; a small bird | 吞嚥；燕子 | gulp, consume | | Cut the meat into small pieces so the baby can swallow it easily. | 把肉切小塊，讓寶寶容易吞嚥。
+
+@A spit / spite / split
+tz=spit 吐口水；spite 惡意（in spite of 儘管）；split 分裂、分攤（l：分兩半）
+te=spit = force liquid out of your mouth; spite = wish to hurt; split = divide
+trap=三字只差一個字母；in spite of = despite，不能寫成 in spit of。
+- spit | v. | to force liquid or food out of your mouth | 吐（口水）；吐出 | | swallow | It is rude and unhealthy to spit on the street. | 在街上吐痰既沒禮貌又不衛生。
+- spite | n. | a wish to hurt or annoy someone | 惡意；怨恨 | malice, ill will | kindness | In spite of the heavy rain, thousands of fans waited outside the stadium. | 儘管下大雨，仍有數千名粉絲在體育場外等候。
+- split | v. | to divide into parts; to share | 分裂；分開；分攤 | divide, separate, share | join | Let's split the bill so that everyone pays the same amount. | 我們平分帳單，讓每個人付一樣的錢吧。
+
+@A stable / staple
+tz=stable 穩定的、馬廄（-ble）；staple 主食、訂書針（-ple）
+te=stable = steady; staple = main food, small wire for paper
+trap=b/p 一字之差；staple food 主食。
+- stable | adj./n. | steady and not likely to change; a building for horses | 穩定的；馬廄 | steady, firm, secure | unstable | After weeks in the hospital, the patient's condition is finally stable. | 住院數週後，病人的狀況終於穩定下來。
+- staple | n./adj. | a basic food or product; a small wire used to join papers | 主食；主要產品；訂書針 | basic, main | | Rice is a staple food for most people in Taiwan and Japan. | 米飯是台灣和日本大多數人的主食。
+
+@A steal / steel
+tz=steal 偷（ea：eat 偷吃）；steel 鋼（ee：堅硬兩個 e）
+te=steal = take without permission; steel = strong metal
+trap=同音 /stiːl/；steal 過去式 stole、過去分詞 stolen。
+- steal | v. | to take something that is not yours without permission | 偷竊 | rob, take | | Someone tried to steal my bike from outside the convenience store last night. | 昨晚有人想在便利商店外偷我的腳踏車。
+- steel | n. | a very strong metal made from iron | 鋼 | | | The new bridge is made of steel, so it can survive strong earthquakes. | 新橋是鋼造的，能承受強烈地震。
+
+@A strive / stride / stripe
+tz=strive 努力（-ive 像 drive 動力）；stride 大步走（-ide 像 ride）；stripe 條紋（-ipe 像 pipe 一條一條）
+te=strive = try very hard; stride = walk with long steps; stripe = long line of color
+trap=都以 stri- 開頭；strive for + 目標。
+- strive | v. | to try very hard to achieve something | 努力；奮鬥 | struggle, try hard, aim | give up | Our school strives to give every student a chance to discover their talents. | 我們學校努力讓每位學生都有機會發現自己的才能。
+- stride | v./n. | to walk with long steps; a long step; progress | 大步走；跨步；進展 | march, step, progress | | With his long legs, the basketball player can stride across the court in just a few steps. | 這位籃球員腿很長，只要幾步就能大步跨過球場。
+- stripe | n. | a long line of color | 條紋 | band, line, streak | | A zebra's black and white stripes may help keep insects away. | 斑馬的黑白條紋可能有助於驅趕昆蟲。
+
+@A suite / suit / sweet
+tz=suite 套房、組曲（多一個 e，讀如 sweet）；suit 西裝、適合（讀 /suːt/）；sweet 甜的
+te=suite = set of rooms; suit = set of clothes, be right for; sweet = tasting of sugar
+trap=suite 讀 /swiːt/ 和 sweet 同音，不讀 suit。
+- suite | n. | a set of rooms in a hotel; a set of music pieces | 套房；組曲 | apartment, set of rooms | | The singer stayed in the largest suite on the top floor of the hotel. | 歌手住在飯店頂樓最大的套房。
+- suit | n./v. | a jacket with matching pants or skirt; to be right for someone | 套裝；西裝；適合 | outfit / fit, match | | The job suits her well because she loves talking to people. | 這份工作很適合她，因為她喜歡和人聊天。
+- sweet | adj. | tasting of sugar; kind | 甜的；貼心的 | sugary, kind | bitter, sour | It was sweet of you to remember my birthday. | 你記得我的生日，真貼心。
+
+@A tailor / sailor
+tz=tailor 裁縫（tail 尾巴 → 修剪衣角）；sailor 水手（sail 航行）
+te=tailor = person who makes clothes; sailor = person who works on a ship
+trap=只差首字母；tailor 當動詞是「量身訂做」。
+- tailor | n./v. | a person who makes clothes; to make something for a special need | 裁縫；量身訂做 | dressmaker / customize, adapt | | The teacher tailored her lessons to meet the needs of slower learners. | 老師依照學習較慢學生的需求調整課程。
+- sailor | n. | a person who works on a ship | 水手；船員 | seaman, mariner | | The old sailor told us stories about storms he had survived at sea. | 老水手跟我們說他在海上熬過暴風雨的故事。
+
+@A vacation / vocation
+tz=vacation 假期（vac 空 → 空閒）；vocation 職業、天職（voc 聲音 → 被召喚的工作）
+te=vacation = holiday; vocation = job you feel called to do
+trap=a/o 一字之差；vocational school 技職學校。
+- vacation | n. | a time of rest from work or school | 假期 | holiday, break | | We spent our summer vacation hiking and camping in Hualien. | 我們暑假在花蓮健行露營。
+- vocation | n. | a job you feel strongly suited for | 職業；使命感；天職 | calling, career, profession | | Teaching is not just a job for her; it is a true vocation. | 教書對她而言不只是工作，而是真正的天職。
+
+@A vain / vein
+tz=vain 徒勞的、自負的（in vain 白費）；vein 靜脈、紋理（ei：血管裡的 i）
+te=vain = useless, too proud of looks; vein = blood tube
+trap=同音 /veɪn/；in vain 不能寫成 in vein。
+- vain | adj. | without success; too proud of your looks | 徒勞的；自負的 | useless, futile, conceited | modest | They tried in vain to save the old tree, but the storm knocked it down. | 他們試圖救那棵老樹卻徒勞無功，暴風雨還是把它吹倒了。
+- vein | n. | a tube that carries blood to the heart; a line in a leaf or rock | 靜脈；葉脈；礦脈 | blood vessel | artery | The nurse found a vein in my arm and took a small amount of blood. | 護理師在我手臂上找到靜脈，抽了少量血。
+
+@A vary / very
+tz=vary 變化（a：variety 多樣）；very 非常（e）
+te=vary = be different, change; very = extremely
+trap=vary 是動詞；vary from A to B 隨…而不同。
+- vary | v. | to be different; to change | 不同；變化 | differ, change, range | remain | Prices of vegetables vary from season to season. | 蔬菜的價格隨季節而不同。
+- very | adv. | extremely | 非常 | extremely, really | slightly | The test was very easy, so everyone finished early. | 考試非常簡單，所以大家都提早寫完。
+
+@A wander / wonder
+tz=wander 閒逛（a：around 四處走）；wonder 想知道、驚奇（o：Oh!）
+te=wander = walk without a plan; wonder = want to know, feel amazed
+trap=a/o 一字之差，發音 /ˈwɑːndɚ/ vs /ˈwʌndɚ/。
+- wander | v. | to walk around without a clear direction | 閒逛；徘徊 | roam, stroll, drift | | We wandered through the night market, trying different snacks. | 我們在夜市閒逛，嚐了各種小吃。
+- wonder | v./n. | to want to know; a feeling of surprise | 想知道；納悶；奇蹟 | ask oneself / amazement | | I wonder why the bus is so late today. | 我在想今天公車為什麼這麼晚。
+
+@A intimate / intimidate
+tz=intimate 親密的（inti- 最裡面）；intimidate 恐嚇（timid 膽小 → 讓人膽小）
+te=intimate = very close; intimidate = frighten into doing something
+trap=intimidate 中間藏了 timid；intimate 當動詞是「暗示」。
+- intimate | adj. | very close and personal | 親密的；私密的 | close, personal | distant | Only a few intimate friends were invited to the small wedding. | 這場小型婚禮只邀請了幾位親密好友。
+- intimidate | v. | to frighten someone so they do what you want | 恐嚇；威脅 | threaten, bully, scare | encourage | The bigger boys tried to intimidate him into giving them his lunch money. | 那幾個大男孩想恐嚇他交出午餐錢。
+
+@A habit / habitat
+tz=habit 習慣（a：一個人的 habit）；habitat 棲息地（habit + at 在那裡住）
+te=habit = thing you do regularly; habitat = natural home of an animal
+trap=habitat 不是「習慣」而是動植物的「棲息地」。
+- habit | n. | something you do often and regularly | 習慣 | custom, routine, practice | | Reading before bed is a good habit that helps you relax. | 睡前閱讀是能幫你放鬆的好習慣。
+- habitat | n. | the natural home of an animal or plant | 棲息地 | home, environment, territory | | Cutting down forests destroys the habitat of many birds. | 砍伐森林摧毀了許多鳥類的棲息地。
+
+@A confident / confidential
+tz=confident 有自信的；confidential 機密的（confide 吐露秘密）
+te=confident = sure of yourself; confidential = secret
+trap=confidential 不是「更有自信」，而是「機密的」。
+- confident | adj. | feeling sure about yourself or something | 有信心的 | sure, certain, self-assured | insecure | After practicing every day, she felt confident about the speech contest. | 每天練習後，她對演講比賽很有信心。
+- confidential | adj. | meant to be kept secret | 機密的 | secret, private, classified | public | Students' test scores are confidential and will not be posted online. | 學生的考試成績屬於機密，不會公布在網路上。
+
+@A contemporary / temporary
+tz=contemporary 當代的、同時代的（con- 一起 + tempor 時間）；temporary 暫時的
+te=contemporary = modern, of the same time; temporary = lasting only a short time
+trap=contemporary 不是「非常暫時」，而是「當代的；同時代的」。
+- contemporary | adj./n. | belonging to the present time; living at the same time | 當代的；同時代的（人） | modern, current | ancient | The museum has a special exhibition of contemporary art from Asia. | 博物館有一場亞洲當代藝術特展。
+- temporary | adj. | lasting for only a short time | 暫時的；臨時的 | short-term, brief | permanent | He found a temporary job at a bookstore during the winter vacation. | 他寒假在書店找到一份臨時工作。
+
+@A corporation / cooperation
+tz=corporation 公司（corp 身體 → 一個法人團體）；cooperation 合作（co- 一起 + operate 運作）
+te=corporation = large company; cooperation = working together
+trap=兩字字母很像，閱讀時易看錯。
+- corporation | n. | a large company | 公司；企業 | company, firm, business | | The corporation employs more than ten thousand people around the world. | 這家公司在全球僱用了超過一萬名員工。
+- cooperation | n. | working together to achieve something | 合作 | teamwork, collaboration | competition | Thanks to the cooperation of all the residents, the park is clean again. | 多虧所有居民的合作，公園又恢復乾淨了。
+
+@A distinct / extinct / instinct
+tz=distinct 明顯不同的（dis- 分開）；extinct 滅絕的（ex- 熄滅）；instinct 本能（in- 天生內在）
+te=distinct = clearly different; extinct = no longer existing; instinct = natural behavior
+trap=都是 -stinct / -tinct 結尾，前綴決定意思。
+- distinct | adj. | clearly different or easy to notice | 明顯的；截然不同的 | different, clear, separate | similar | The two kinds of tea look the same but have distinct flavors. | 這兩種茶看起來一樣，但風味截然不同。
+- extinct | adj. | no longer existing | 滅絕的；（火山）死的 | dead, vanished | living | Dinosaurs became extinct about sixty-six million years ago. | 恐龍大約在六千六百萬年前滅絕。
+- instinct | n. | a natural way of behaving that you do not learn | 本能；直覺 | intuition, nature | | Birds build nests by instinct; no one teaches them how. | 鳥築巢靠的是本能，沒有人教牠們。
+
+@A emerge / merge / emergency
+tz=emerge 浮現、出現（e- 出來 + merge 沉）；merge 合併；emergency 緊急情況（突然冒出來的事）
+te=emerge = come out; merge = join together; emergency = sudden dangerous situation
+trap=emerge 和 merge 意思相反方向：一個冒出來、一個融進去。
+- emerge | v. | to come out from somewhere; to become known | 浮現；出現 | appear, come out | disappear | The sun emerged from behind the clouds just as the game started. | 比賽剛開始時，太陽從雲後露了出來。
+- merge | v. | to join together into one | 合併；融合 | combine, join, unite | separate | The two small banks merged to form one large bank. | 兩家小銀行合併成一家大銀行。
+- emergency | n. | a sudden dangerous situation that needs quick action | 緊急情況 | crisis | | In an emergency, call 119 for an ambulance. | 緊急時請撥 119 叫救護車。
+
+@A evolve / involve / revolve
+tz=evolve 演化（e- 向外展開）；involve 牽涉（in- 捲進來）；revolve 旋轉（re- 一圈又一圈）
+te=evolve = develop slowly; involve = include; revolve = go around
+trap=都是 -volve（滾動）；revolve around 以…為中心。
+- evolve | v. | to develop gradually | 演化；逐步發展 | develop, grow, change | | The small family shop has evolved into a large company over fifty years. | 五十年來，這家家庭小店逐步發展成大公司。
+- involve | v. | to include as a necessary part; to take part | 牽涉；包含；使參與 | include, engage | exclude | The job involves a lot of travel, so he is often away from home. | 這份工作需要經常出差，所以他常不在家。
+- revolve | v. | to move in a circle around something | 旋轉；圍繞 | rotate, circle, turn | | The Earth revolves around the sun once a year. | 地球每年繞太陽公轉一圈。
+
+@A access / excess
+tz=access 接近、使用權（ac- 朝向）；excess 過量（ex- 超出）
+te=access = right or way to enter or use; excess = too much
+trap=a/e 開頭、發音近；excess 的形容詞是 excessive。
+- access | n./v. | the right or chance to use or enter something | 使用權；通道；進入 | entry, admission, approach | | Every student has free access to the school's online library. | 每位學生都能免費使用學校的線上圖書館。
+- excess | n./adj. | an amount that is more than needed | 過量；超額 | surplus, too much | shortage | Eating sugar in excess can lead to health problems. | 攝取過量的糖可能導致健康問題。
+
+@A expire / inspire / aspire
+tz=expire 到期（ex- 呼出最後一口氣）；inspire 啟發（in- 吸進靈感）；aspire 渴望（a- 朝著）
+te=expire = come to an end; inspire = give ideas or feelings; aspire = hope to achieve
+trap=都含 spire（呼吸），前綴決定意思；aspire to + 目標。
+- expire | v. | to come to an end; to stop being valid | 到期；失效 | run out, end | | My passport expires next month, so I need to renew it before the trip. | 我的護照下個月到期，所以出發前得換新。
+- inspire | v. | to give someone the wish or ideas to do something | 啟發；激勵 | encourage, motivate, stimulate | discourage | Her story inspired many young people to become volunteers. | 她的故事激勵許多年輕人成為志工。
+- aspire | v. | to have a strong wish to achieve something | 渴望；立志 | aim, hope, seek | | He aspires to become a pilot, so he studies physics very hard. | 他立志當飛行員，所以很認真讀物理。
+
+@A fiction / friction / faction
+tz=fiction 小說、虛構（fict 編造）；friction 摩擦（fr- 擦）；faction 派系（fact 做 → 一夥人）
+te=fiction = made-up stories; friction = rubbing, disagreement; faction = group within a larger group
+trap=三字只差一兩個字母；friction 也指人際「摩擦」。
+- fiction | n. | stories about imaginary people and events | 小說；虛構 | novels, fantasy | fact, nonfiction | She prefers science fiction to history books. | 比起歷史書，她更喜歡科幻小說。
+- friction | n. | rubbing of one surface against another; disagreement | 摩擦；不和 | rubbing, conflict, tension | harmony | There has been some friction between the two teams since the last game. | 自上次比賽後，兩隊之間就有些摩擦。
+- faction | n. | a small group within a larger group that disagrees with others | 派系；黨派 | group, side, camp | | The party split into two factions over the new tax plan. | 該黨因新稅制計畫分裂成兩個派系。
+
+@A liable / reliable
+tz=liable 有法律責任的、易於…的（liable to V）；reliable 可靠的（rely 依靠）
+te=liable = legally responsible, likely to; reliable = can be trusted
+trap=liable 不是 reliable 少了 re-，意思完全不同。
+- liable | adj. | legally responsible; likely to do something | 有（法律）責任的；易於…的 | responsible, likely | exempt | Drivers are liable for any damage they cause to other cars. | 駕駛人須為其對他車造成的損害負責。
+- reliable | adj. | able to be trusted | 可靠的 | dependable, trustworthy | unreliable | We need a reliable car for the long trip around the island. | 環島長途旅行我們需要一台可靠的車。
+
+@A petty / pretty
+tz=petty 瑣碎的、小氣的（pet 小東西）；pretty 漂亮的、相當（多一個 r）
+te=petty = small and unimportant; pretty = attractive, fairly
+trap=只差一個 r；petty 常見 petty crime 輕罪。
+- petty | adj. | small and unimportant; caring too much about small things | 瑣碎的；小氣的 | trivial, minor, small-minded | important | Don't let petty arguments ruin a long friendship. | 別讓瑣碎的爭吵毀了一段長久的友誼。
+- pretty | adj./adv. | attractive; fairly | 漂亮的；相當 | lovely / fairly, quite | ugly | The test was pretty hard, but I think I passed. | 考試相當難，但我想我有過。
+
+@A relay / rely / reply
+tz=relay 接力、轉達（re- 再 + lay 放 → 一棒傳一棒）；rely 依賴（rely on）；reply 回覆（reply to）
+te=relay = pass on; rely = depend; reply = answer
+trap=三字字母相近，介系詞不同：rely on、reply to。
+- relay | n./v. | a race in teams; to pass on a message | 接力賽；轉達 | pass on, transmit | | Our class won the 400-meter relay on sports day. | 我們班在運動會贏得四百公尺接力。
+- rely | v. | to depend on someone or something | 依賴；信賴 | depend, count on, trust | | Many farmers rely on rain to water their fields. | 許多農民依靠雨水灌溉田地。
+- reply | v./n. | to answer | 回覆；回答 | answer, respond | | Please reply to my e-mail before Friday. | 請在週五前回覆我的電子郵件。
+
+@A route / root
+tz=route 路線（-oute：路）；root 根（-oot：樹根）
+te=route = way from one place to another; root = part of a plant under the ground
+trap=美式 route 也可讀 /raʊt/；root for 是「為…加油」。
+- route | n. | the way from one place to another | 路線；途徑 | path, way, course | | The bus changed its route because the main road was closed. | 因主要道路封閉，公車改變了路線。
+- root | n./v. | the part of a plant under the soil; the cause | 根；根源 | origin, source, cause | | Lack of sleep is often the root of poor concentration in class. | 睡眠不足常是上課無法專心的根源。
+
+@A sacred / scared
+tz=sacred 神聖的（sacr 神 → sacrifice 犧牲）；scared 害怕的（scare + d）
+te=sacred = holy; scared = afraid
+trap=字母相同、順序不同（a 與 c 的位置），閱讀時極易看錯。
+- sacred | adj. | holy; very important | 神聖的 | holy, divine, blessed | | The mountain is sacred to the local tribe, so visitors must not climb it. | 這座山對當地部落來說是神聖的，因此遊客不得攀登。
+- scared | adj. | afraid | 害怕的 | afraid, frightened | brave | My little sister is scared of the dark, so she sleeps with a light on. | 我妹妹怕黑，所以開著燈睡覺。
+
+@A scent / cent / sent
+tz=scent 香味（sc- 不發 c 音）；cent 分（一美分）；sent 寄出（send 過去式）
+te=scent = pleasant smell; cent = 1/100 of a dollar; sent = past of send
+trap=三字同音 /sent/；scent 的 c 不發音。
+- scent | n. | a pleasant smell | 香味；氣味 | smell, fragrance, aroma | stink | The scent of fresh bread came from the bakery across the street. | 對街麵包店飄來新鮮麵包的香味。
+- cent | n. | one hundredth of a dollar | 分（貨幣單位） | penny | | The candy costs ninety-nine cents, so I gave the cashier a dollar. | 這顆糖要九十九分，所以我給了收銀員一美元。
+- sent | v. | past tense of send | 寄出；送出（send 的過去式） | mailed, delivered | received | I sent the package last Monday, but it still hasn't arrived. | 我上週一就寄出包裹了，但它還沒到。
+
+@A statue / status / statute / stature
+tz=statue 雕像；status 地位、狀態；statute 法令（-ute 規則）；stature 身高、聲望（-ure 高度）
+te=statue = sculpture; status = social position; statute = written law; stature = height, reputation
+trap=四字都源自 sta-（站立），只差最後幾個字母。
+- statue | n. | a figure of a person or animal made of stone or metal | 雕像 | sculpture, figure | | Tourists take photos in front of the bronze statue in the town square. | 遊客在城鎮廣場的銅像前拍照。
+- status | n. | a person's social or professional position; condition | 地位；身分；狀態 | position, rank, state | | In the past, owning a car was a sign of high social status. | 過去擁有汽車是社會地位高的象徵。
+- statute | n. | a written law | 法令；法規 | law, act, regulation | | The new statute makes it illegal to use a phone while driving. | 新法令規定開車時使用手機屬違法。
+- stature | n. | height; reputation earned from achievement | 身高；聲望 | height, reputation, standing | | The scientist's stature grew after she won an international prize. | 這位科學家獲得國際獎項後聲望大增。
+
+@A veteran / veterinarian
+tz=veteran 老兵、老手（veter 老的）；veterinarian 獸醫（簡稱 vet）
+te=veteran = person with long experience, ex-soldier; veterinarian = animal doctor
+trap=vet 可能是 veteran 也可能是 veterinarian，要看上下文。
+- veteran | n./adj. | a former soldier; a person with long experience | 退伍軍人；老手 | ex-soldier, expert | beginner | The veteran teacher has taught English for more than thirty years. | 這位資深老師教英文已超過三十年。
+- veterinarian | n. | a doctor for animals | 獸醫 | vet, animal doctor | | We took our sick cat to the veterinarian right after school. | 我們一放學就帶生病的貓去看獸醫。
+
+@A wary / weary
+tz=wary 小心提防的（a：aware 注意）；weary 疲倦的（ea：wear 磨損）
+te=wary = careful about danger; weary = very tired
+trap=只差一個 e；be wary of 提防。
+- wary | adj. | careful because something might be dangerous | 小心提防的；謹慎的 | cautious, careful, alert | careless | Be wary of strangers who ask for your personal information online. | 小心提防在網路上索取你個資的陌生人。
+- weary | adj. | very tired | 疲倦的；厭倦的 | tired, exhausted, fed up | energetic | After walking all day in the hot sun, we were weary and hungry. | 在大太陽下走了一整天，我們又累又餓。
+
+@A widow / window
+tz=widow 寡婦（少了 n：失去另一半）；window 窗戶
+te=widow = woman whose husband has died; window = opening in a wall
+trap=只差一個 n；widower 是鰥夫。
+- widow | n. | a woman whose husband has died | 寡婦 | | widower | After her husband died, the widow ran the small farm by herself. | 丈夫過世後，這位寡婦獨自經營小農場。
+- window | n. | an opening in a wall with glass | 窗戶 | | | Please close the window; it's getting cold in here. | 請把窗戶關上，這裡越來越冷了。
+
+@A dual / duel
+tz=dual 雙重的（dual-a：and 兩個）；duel 決鬥（du-el：兩人對打）
+te=dual = having two parts; duel = fight between two people
+trap=同音 /ˈduːəl/；dual citizenship 雙重國籍。
+- dual | adj. | having two parts or uses | 雙重的 | double, twofold | single | The singer has dual citizenship, so she holds both a Taiwanese and an American passport. | 這位歌手有雙重國籍，持有台灣和美國護照。
+- duel | n. | a formal fight between two people | 決鬥；對決 | fight, contest | | In old Western movies, the hero often wins a gun duel at the end. | 在老西部片中，主角常在最後贏得槍戰對決。
+
+@A heroin / heroine
+tz=heroin 海洛因（毒品）；heroine 女英雄、女主角（多一個 e）
+te=heroin = illegal drug; heroine = female hero
+trap=只差最後一個 e，意思天差地別。
+- heroin | n. | a strong illegal drug | 海洛因 | drug, narcotic | | The police found a large amount of heroin hidden in the ship. | 警方在船上發現藏有大量海洛因。
+- heroine | n. | a woman admired for bravery; the main female character | 女英雄；女主角 | protagonist, hero | villain | The heroine of the novel is a young girl who saves her village from a flood. | 這部小說的女主角是一位從水災中拯救村莊的少女。
+
+@A hostel / hostile / hotel
+tz=hostel 青年旅館（便宜的 hotel）；hostile 有敵意的（host 原為敵人）；hotel 飯店
+te=hostel = cheap place to stay; hostile = unfriendly; hotel = place to stay
+trap=hostel/hostile 只差一個 i，美式發音也接近。
+- hostel | n. | a cheap place to stay, often for young travelers | 青年旅館 | inn | | We stayed in a youth hostel to save money during our trip to Europe. | 為了省錢，我們歐洲旅行時住青年旅館。
+- hostile | adj. | very unfriendly; showing a wish to fight | 有敵意的；不友善的 | unfriendly, aggressive | friendly | The new student felt the class was hostile, but it was only because they were shy. | 新同學覺得班上對他不友善，其實只是大家害羞。
+- hotel | n. | a building where people pay to stay | 飯店；旅館 | inn, lodge | | The hotel is next to the train station, which is very convenient. | 這家飯店在火車站旁邊，非常方便。
+
+@A lessen / lesson
+tz=lessen 減少（less + en 使）；lesson 課（-on）
+te=lessen = make less; lesson = class
+trap=同音 /ˈlesn/；lessen 是動詞。
+- lessen | v. | to make or become less | 減少；減輕 | reduce, decrease, ease | increase | Taking a short walk can lessen stress after a long day at work. | 散步一下能減輕長時間工作後的壓力。
+- lesson | n. | a class; something learned from experience | 課；教訓 | class, moral | | Failing the test taught me an important lesson: never leave review until the last night. | 考試不及格讓我學到一個重要教訓：別拖到最後一晚才複習。
+
+@A sole / soul
+tz=sole 唯一的、鞋底；soul 靈魂（ou：靈魂 out of body）
+te=sole = only, bottom of a shoe; soul = spirit
+trap=同音 /soʊl/；sole 也指魚「比目魚」。
+- sole | adj./n. | only; the bottom of a foot or shoe | 唯一的；鞋底 | only, single | | She was the sole survivor of the plane crash. | 她是那場空難中唯一的倖存者。
+- soul | n. | the spirit of a person | 靈魂；心靈 | spirit, heart | body | Music is food for the soul. | 音樂是心靈的食糧。
+
+@A stake / steak
+tz=stake 樁、賭注、利害關係（at stake 岌岌可危）；steak 牛排（ea：eat）
+te=stake = post, something risked; steak = thick slice of meat
+trap=同音 /steɪk/；at stake 不能寫成 at steak。
+- stake | n. | a post in the ground; money or something risked | 樁；賭注；利害關係 | post, bet, interest | | With the championship at stake, both teams played their best. | 冠軍就在此一舉，兩隊都全力以赴。
+- steak | n. | a thick slice of beef or fish | 牛排；肉排 | | | How would you like your steak, medium or well-done? | 您的牛排要幾分熟，五分還是全熟？
+
+@A anonymous / unanimous
+tz=anonymous 匿名的（an- 無 + onym 名字）；unanimous 一致同意的（un- = uni 一 + anim 心）
+te=anonymous = with no name; unanimous = all agreeing
+trap=un- 在 unanimous 裡不是否定，而是 one（一心）。
+- anonymous | adj. | with a name that is not known | 匿名的 | nameless, unknown | identified | An anonymous donor gave the hospital one million dollars. | 一位匿名捐贈者捐給醫院一百萬元。
+- unanimous | adj. | agreed by everyone | 一致同意的 | united, agreed | divided | The class made a unanimous decision to visit the zoo on the field trip. | 全班一致決定校外教學去動物園。
+
+@A appliance / applicant / application
+tz=appliance 家電（apply 使用 → 拿來用的器具）；applicant 申請人（-ant 人）；application 申請、應用
+te=appliance = machine used at home; applicant = person who applies; application = request, use, app
+trap=三字都來自 apply，字尾決定是「物、人、事」。
+- appliance | n. | a machine used in the home, like a washing machine | 家電；器具 | device, machine | | Turn off all electrical appliances before leaving for a long trip. | 長途旅行前請關掉所有電器。
+- applicant | n. | a person who applies for a job or school | 申請人；應徵者 | candidate | | More than two hundred applicants applied for only five jobs. | 超過兩百名應徵者應徵僅五個職缺。
+- application | n. | a formal request; a computer program | 申請（書）；應用程式 | request, app | | Please send your application before the end of March. | 請在三月底前寄出你的申請書。
+
+@A assume / presume / resume / consume
+tz=assume 假定、承擔（as- 拿來當作）；presume 推定（pre- 事先）；resume 恢復（re- 重新拿起）；consume 消耗（con- 全部拿掉）
+te=assume = suppose, take on; presume = believe without proof; resume = start again; consume = use up
+trap=都含 sume（拿取）；resume 讀 /rɪˈzuːm/，résumé 才是履歷。
+- assume | v. | to think something is true without proof; to take on a role | 假定；承擔 | suppose, take on | | Don't assume that everyone knows the rules; explain them clearly. | 別以為每個人都知道規則，要清楚說明。
+- presume | v. | to believe something is likely without being sure | 推定；認為 | suppose, guess | | The missing hikers are presumed to be safe because they had enough food. | 失蹤的登山客被推定平安，因為他們帶了足夠的食物。
+- resume | v. | to start again after a pause | 重新開始；恢復 | continue, restart | stop | The game will resume as soon as the rain stops. | 雨一停，比賽就會恢復進行。
+- consume | v. | to use up; to eat or drink | 消耗；吃喝 | use, eat, spend | save | Old air conditioners consume a lot of electricity. | 舊冷氣很耗電。
+
+@A attain / obtain
+tz=attain 達到（at- 碰到目標）；obtain 獲得（ob- 拿到手）
+te=attain = achieve a goal; obtain = get
+trap=attain 後接目標、程度；obtain 後接東西、資訊。
+- attain | v. | to reach or achieve a goal after effort | 達到；獲得 | achieve, reach, accomplish | fail | She attained her goal of running a full marathon in under four hours. | 她達成了在四小時內跑完全馬的目標。
+- obtain | v. | to get something | 獲得；取得 | get, acquire, gain | lose | You must obtain permission from your parents before joining the trip. | 參加旅行前必須取得父母同意。
+
+@A cease / seize
+tz=cease 停止（ce-：cease-fire 停火）；seize 抓住、奪取（ei：抓）
+te=cease = stop; seize = take hold of suddenly
+trap=發音 /siːs/ vs /siːz/；seize the chance 把握機會。
+- cease | v. | to stop | 停止；終止 | stop, end, halt | continue | The factory ceased production after it lost its biggest customer. | 這家工廠失去最大客戶後停止生產。
+- seize | v. | to take hold of suddenly; to take by force | 抓住；奪取；把握 | grab, capture, take | release | You should seize every chance to practice speaking English. | 你應把握每個練習說英文的機會。
+
+@A chef / chief
+tz=chef 主廚（ch 讀 /ʃ/）；chief 首長、主要的（多一個 i，ch 讀 /tʃ/）
+te=chef = professional cook; chief = leader, main
+trap=chef 源自 chief，但現在只指「主廚」。
+- chef | n. | a professional cook | 主廚；廚師 | cook | | The chef uses only local vegetables in her dishes. | 這位主廚的料理只用在地蔬菜。
+- chief | n./adj. | the leader of a group; most important | 首長；主要的 | head, leader, main | minor | The fire chief told everyone to leave the building immediately. | 消防隊長要大家立刻離開大樓。

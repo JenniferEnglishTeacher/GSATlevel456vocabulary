@@ -1,0 +1,173 @@
+@B invaluable / priceless / valueless
+tz=in- 在這裡不是「沒有」：invaluable = 價值大到無法估算 → 非常寶貴；priceless 同義；valueless 才是「沒價值」
+te=invaluable = extremely useful; priceless = worth too much to price; valueless = worthless
+trap=學生看到 in- / -less 就以為是否定，把 invaluable、priceless 誤解成「沒價值」。
+- invaluable | adj. | extremely useful or valuable | 極有價值的；非常寶貴的 | priceless, precious, very useful | worthless | Your advice was invaluable; without it, I would have failed the interview. | 你的建議非常寶貴，沒有它我面試就失敗了。
+- priceless | adj. | so valuable that no price can be put on it | 無價的；極珍貴的 | invaluable, precious | worthless | The museum keeps the priceless paintings in a special room with guards. | 博物館把那些無價的畫作放在有警衛看守的特別展間。
+- valueless | adj. | having no value | 沒有價值的 | worthless, useless | valuable | The old coins turned out to be valueless, so he gave them to his little brother. | 那些舊硬幣結果一文不值，他就送給弟弟了。
+
+@B innumerable / numerous
+tz=innumerable 多到數不清（in- 不 + numerable 可數）；numerous 很多的 → 兩字意思幾乎一樣
+te=innumerable = too many to count; numerous = many
+trap=看到 in- 以為是「不多、沒有」，其實 innumerable 是「無數的」。
+- innumerable | adj. | too many to be counted | 無數的；數不清的 | countless, endless | few | On a clear night in the mountains, you can see innumerable stars. | 晴朗的夜晚在山上，你能看到數不清的星星。
+- numerous | adj. | many | 許多的 | many, a lot of | few | The singer has won numerous awards for her songs. | 這位歌手的歌曲贏得許多獎項。
+
+@B indispensable / dispensable
+tz=dispense 分發 → dispensable 可省去的；in- 加上去 → indispensable 不可或缺的
+te=indispensable = absolutely necessary; dispensable = not necessary
+trap=學生以為 indispensable 是「不能分配的」，其實是「必不可少的」。
+- indispensable | adj. | absolutely necessary | 不可或缺的 | essential, vital | unnecessary | A good dictionary is indispensable for anyone learning a foreign language. | 對學外語的人來說，一本好字典是不可或缺的。
+- dispensable | adj. | not necessary; can be done without | 可有可無的；非必要的 | unnecessary, expendable | essential | In hard times, companies cut dispensable costs such as parties and gifts. | 景氣不好時，公司會刪減派對、禮品等非必要開銷。
+
+@B indifferent / different
+tz=indifferent ≠ 「沒有不同」，而是「漠不關心的」（不在乎差別）
+te=indifferent = not caring; different = not the same
+trap=學生把 indifferent 當成 not different（相同的），其實是「冷漠的」。
+- indifferent | adj. | not caring or interested | 漠不關心的；冷淡的 | uninterested, cold | concerned | How can you be indifferent to the suffering of animals in the shelter? | 你怎能對收容所裡受苦的動物漠不關心？
+- different | adj. | not the same | 不同的 | unlike, distinct | same, similar | My sister and I look alike, but we have very different personalities. | 我和妹妹長得很像，但個性非常不同。
+
+@B overlook / oversee
+tz=overlook 不是「仔細看」，而是「忽略；俯瞰」；oversee 才是「監督」
+te=overlook = fail to notice, have a view over; oversee = supervise
+trap=look over 是「檢查」，但 overlook 是「忽略」，順序一換意思相反。
+- overlook | v. | to fail to notice; to have a view of something from above | 忽略；俯瞰 | miss, ignore / look out on | notice | It's easy to overlook small mistakes when you check your own writing. | 檢查自己的文章時很容易忽略小錯誤。
+- oversee | v. | to watch and manage work or workers | 監督；監管 | supervise, manage | | A senior engineer was hired to oversee the building of the new bridge. | 公司聘請一位資深工程師監督新橋的興建。
+
+@B inhabit / habit
+tz=inhabit 的 in- 不是否定，是「在裡面」：住在… → inhabitant 居民
+te=inhabit = live in a place
+trap=學生以為 inhabit = 沒有習慣，或以為 inhabitable 是「不能住」，其實是「適合居住的」。
+- inhabit | v. | to live in a place | 居住於；棲息於 | live in, occupy, dwell in | leave | Thousands of birds inhabit the wetlands along the river. | 數千隻鳥棲息在河邊的濕地。
+- habit | n. | something you do regularly | 習慣 | custom, routine | | Checking your phone right after waking up is a hard habit to break. | 一醒來就看手機是個很難改掉的習慣。
+
+@B awful / awesome
+tz=兩字都來自 awe（敬畏）：awful 變成「糟糕的」，awesome 變成「超棒的」
+te=awful = very bad; awesome = very good, impressive
+trap=同字根卻一壞一好；awful 不是「充滿敬畏的」。
+- awful | adj. | very bad or unpleasant | 糟糕的；可怕的 | terrible, horrible | wonderful | The food at that restaurant was awful, so we will never go back. | 那家餐廳的食物很糟，我們再也不去了。
+- awesome | adj. | very impressive; very good | 令人驚嘆的；超棒的 | amazing, wonderful | ordinary | The view from the top of Taipei 101 is awesome. | 從台北 101 頂端看出去的景色令人驚嘆。
+
+@B terrific / terrible
+tz=terrific 和 terrible 同源（terror），但 terrific 現在是「極好的」
+te=terrific = very good; terrible = very bad
+trap=看到 terr- 就以為是壞事，terrific 其實是稱讚。
+- terrific | adj. | very good; very great in amount | 極好的；巨大的 | excellent, great | awful | You did a terrific job on the school play; everyone loved it. | 你在學校話劇的表現好極了，大家都很喜歡。
+- terrible | adj. | very bad | 糟糕的；可怕的 | awful, dreadful | wonderful | There was a terrible accident on the highway this morning. | 今天早上高速公路發生了一起可怕的車禍。
+
+@B sympathetic / pathetic
+tz=pathetic 來自 path（感受）→ 可憐的、差勁的；sym-（一起）+ path → 有同情心的
+te=sympathetic = showing care for others; pathetic = making you feel pity, very poor
+trap=pathetic 不是「有同情心的」，口語常是貶意「遜斃了」。
+- sympathetic | adj. | showing that you understand and care about someone's problems | 有同情心的；體諒的 | understanding, caring | unkind | My teacher was very sympathetic when I told her my dog had died. | 我告訴老師我的狗死了，她非常體諒我。
+- pathetic | adj. | making you feel pity; very bad or weak | 可憐的；差勁的 | pitiful, poor, useless | | The team's pathetic performance made the fans leave before halftime. | 球隊差勁的表現讓球迷在半場前就離開了。
+
+@B hospitable / hospital
+tz=hospitable 不是「醫院的」，而是「好客的」（hospit 客人 → hospitality 款待）
+te=hospitable = friendly to guests; hospital = place for sick people
+trap=學生把 hospitable 聯想到 hospital，誤以為和醫院有關。
+- hospitable | adj. | friendly and welcoming to guests | 好客的；熱情的 | welcoming, friendly | unfriendly | The villagers were so hospitable that they invited us to stay for dinner. | 村民非常好客，邀我們留下來吃晚餐。
+- hospital | n. | a place where sick or injured people are treated | 醫院 | clinic | | He stayed in the hospital for a week after the car accident. | 車禍後他住院一週。
+
+@B lately / shortly / hardly
+tz=-ly 讓意思改變：lately 最近（≠ late 晚）；shortly 不久（≠ short 短）；hardly 幾乎不（≠ hard 努力）
+te=lately = recently; shortly = soon; hardly = almost not
+trap=把 -ly 當作單純的副詞化：hardly work 不是「努力工作」而是「幾乎不工作」。
+- lately | adv. | recently | 最近 | recently, of late | | I haven't seen Tom lately; is he still working in Taichung? | 我最近沒見到 Tom，他還在台中工作嗎？
+- shortly | adv. | soon | 不久；很快 | soon, before long | | The train will arrive shortly, so please stand behind the yellow line. | 列車即將進站，請站在黃線後方。
+- hardly | adv. | almost not | 幾乎不 | barely, scarcely | | I was so tired that I could hardly keep my eyes open in class. | 我累到上課時幾乎睜不開眼睛。
+
+@B barely / fairly / scarcely
+tz=barely 勉強、幾乎不（≠ bare 赤裸）；fairly 相當（≠ fair 公平）；scarcely 幾乎不（≠ scarce 稀少）
+te=barely = only just; fairly = quite; scarcely = almost not
+trap=barely / scarcely 帶否定意味，不能再加 not。
+- barely | adv. | only just; almost not | 勉強；幾乎不 | just, hardly | | We barely caught the last bus home. | 我們勉強趕上了回家的末班公車。
+- fairly | adv. | quite; more than a little | 相當；頗 | quite, rather | | The test was fairly easy, so most students finished early. | 考試相當簡單，所以大部分學生都提早寫完。
+- scarcely | adv. | almost not; only just | 幾乎不；剛剛 | hardly, barely | | There was scarcely any food left in the fridge. | 冰箱裡幾乎沒剩什麼食物了。
+
+@B costly / elderly / deadly
+tz=名詞 + -ly 是形容詞，不是副詞：costly 昂貴的、elderly 年長的、deadly 致命的
+te=costly = expensive; elderly = old; deadly = able to kill
+trap=看到 -ly 以為是副詞，寫出 He drove costly 這種錯誤。
+- costly | adj. | costing a lot of money; causing serious loss | 昂貴的；代價高的 | expensive | cheap | Fixing the old car would be too costly, so we sold it. | 修那台舊車太貴了，所以我們把它賣了。
+- elderly | adj. | old | 年長的 | old, aged | young | Please give your seat to elderly passengers on the MRT. | 搭捷運時請讓座給年長的乘客。
+- deadly | adj. | able to cause death | 致命的 | fatal, lethal | harmless | Some mushrooms in the forest are deadly, so never eat wild ones. | 森林裡有些菇類是致命的，千萬別吃野生菇。
+
+@B outlook / outskirts
+tz=outlook 不是 look out（小心），而是「展望；看法」；outskirts 不是「外面的裙子」，而是「郊區」
+te=outlook = view of the future, attitude; outskirts = outer area of a city
+trap=把複合字拆開直譯會完全誤解。
+- outlook | n. | a general attitude; what is expected to happen | 看法；展望；前景 | view, prospect | | Despite her illness, she has a positive outlook on life. | 儘管生病，她對人生仍抱持正面的看法。
+- outskirts | n. | the outer parts of a town or city | 郊區；市郊 | suburbs, edge | center | They bought a cheaper house on the outskirts of Taichung. | 他們在台中市郊買了一間比較便宜的房子。
+
+@B outset / setback / outbreak
+tz=outset 開始（≠ 結束）；setback 挫折（≠ 設定回去）；outbreak（疾病、戰爭）爆發
+te=outset = beginning; setback = problem that delays progress; outbreak = sudden start of disease or war
+trap=out- 不一定是「結束、出去」；at the outset = 一開始。
+- outset | n. | the beginning | 開始；開端 | start, beginning | end | From the outset, the teacher made the rules of the class very clear. | 老師從一開始就把班規說得很清楚。
+- setback | n. | a problem that stops progress for a time | 挫折；阻礙 | problem, delay | progress | The injury was a big setback, but she still made it to the finals. | 受傷是一大挫折，但她仍打進決賽。
+- outbreak | n. | the sudden start of a disease or war | 爆發 | eruption, start | | The school closed for a week after an outbreak of flu. | 流感爆發後學校停課一週。
+
+@B overtake / overhear
+tz=over- 不一定是「過度」：overtake 超越、趕上；overhear 無意中聽到
+te=overtake = pass; overhear = hear by accident
+trap=overtake 不是「拿太多」，overhear 不是「聽太多」。
+- overtake | v. | to go past a moving vehicle; to become greater than | 超車；超越 | pass, surpass | | It is dangerous to overtake another car on a narrow mountain road. | 在狹窄山路上超車很危險。
+- overhear | v. | to hear what other people say without them knowing | 無意間聽到 | listen in | | I overheard my parents planning a surprise party for my birthday. | 我無意中聽到爸媽在計畫我的生日驚喜派對。
+
+@B withdraw / withhold
+tz=with- 在這裡是「往後、對抗」，不是「一起」：withdraw 撤回、提款；withhold 扣留、保留不給
+te=withdraw = take back, take out money; withhold = refuse to give
+trap=看到 with 就想到「和…一起」，完全猜錯。
+- withdraw | v. | to take money out of a bank; to pull back | 提款；撤回；退出 | take out, remove, pull out | deposit | I need to withdraw some money from the ATM before we go to the market. | 去市場前我得先從提款機領點錢。
+- withhold | v. | to refuse to give something | 扣留；保留不給 | keep back, hold back | give | The company will withhold part of his salary until he returns the laptop. | 公司會扣住他部分薪水，直到他歸還筆電。
+
+@B undermine / undertake / undergo
+tz=under- 不只是「在下面」：undermine 暗中破壞；undertake 承擔、著手；undergo 經歷（手術、改變）
+te=undermine = weaken; undertake = take on a task; undergo = experience
+trap=undertake 不是「從下面拿」，undergo 不是「走到下面」。
+- undermine | v. | to make something weaker gradually | 暗中破壞；逐漸削弱 | weaken, damage | strengthen | Constant criticism can undermine a child's confidence. | 不斷的批評會削弱孩子的自信。
+- undertake | v. | to agree to do a task; to start a job | 承擔；著手進行 | take on, begin | | The city will undertake a big project to clean the river. | 市政府將著手進行一項整治河川的大計畫。
+- undergo | v. | to experience something, such as a change or operation | 經歷；接受（手術） | go through, experience | | My grandfather had to undergo heart surgery last month. | 我爺爺上個月必須接受心臟手術。
+
+@B wholesome / wholesale
+tz=wholesome 有益健康的（≠ 全部的）；wholesale 批發（whole 整批 + sale 賣）
+te=wholesome = good for health; wholesale = selling in large amounts
+trap=-some 結尾不等於「一些」；wholesome food 健康食物。
+- wholesome | adj. | good for your health or morals | 有益健康的；健全的 | healthy, nutritious | unhealthy | Parents want their children to eat wholesome food instead of fast food. | 父母希望孩子吃健康的食物而不是速食。
+- wholesale | n./adj. | the selling of goods in large amounts to shops | 批發（的） | bulk | retail | The shop buys vegetables at wholesale prices from the farmers. | 這家店以批發價向農民購買蔬菜。
+
+@B comprehensive / comprehensible
+tz=comprehensive 全面的、綜合的（≠ 能理解的）；comprehensible 才是「可理解的」
+te=comprehensive = complete, including everything; comprehensible = easy to understand
+trap=學生以為 comprehensive 和 comprehend（理解）同義，其實是「全面的」。
+- comprehensive | adj. | including everything or almost everything | 全面的；綜合的 | complete, thorough | partial | The guidebook gives comprehensive information about hotels, food, and transportation. | 這本旅遊書提供飯店、美食和交通的全面資訊。
+- comprehensible | adj. | easy to understand | 可理解的 | understandable, clear | confusing | The teacher explained the difficult idea in comprehensible language. | 老師用淺顯易懂的語言解釋這個困難的概念。
+
+@B shortsighted / nearsighted
+tz=nearsighted 近視；shortsighted 也可指近視，但更常是「目光短淺的」
+te=nearsighted = unable to see far; shortsighted = not thinking about the future
+trap=shortsighted 不是「看得短暫」，常用來批評政策或決定。
+- shortsighted | adj. | not thinking about the future results | 目光短淺的；短視的 | unwise, careless | farsighted | Cutting the education budget is a shortsighted decision. | 刪減教育預算是短視的決定。
+- nearsighted | adj. | unable to see things that are far away clearly | 近視的 | myopic | farsighted | She is nearsighted, so she sits in the front row to see the board. | 她近視，所以坐第一排才看得清黑板。
+
+@B pineapple / grapefruit
+tz=pineapple 鳳梨（不是松樹也不是蘋果）；grapefruit 葡萄柚（不是葡萄，因像葡萄一串串長）
+te=pineapple = tropical fruit; grapefruit = large sour citrus fruit
+trap=複合字直譯會鬧笑話：pine + apple ≠ 松樹蘋果。
+- pineapple | n. | a large tropical fruit with sweet yellow flesh | 鳳梨 | | | Taiwan's pineapple cakes are a popular gift for visitors. | 台灣的鳳梨酥是很受歡迎的伴手禮。
+- grapefruit | n. | a large round citrus fruit with a sour taste | 葡萄柚 | | | I drink a glass of grapefruit juice with my breakfast. | 我早餐時喝一杯葡萄柚汁。
+
+@B mischief / mischievous
+tz=mischief 不是「錯誤的首領（mis + chief）」，而是「淘氣、惡作劇」；mischievous 調皮的（讀 /ˈmɪstʃɪvəs/）
+te=mischief = naughty behavior; mischievous = playfully naughty
+trap=mischievous 常被誤讀成 mis-CHEE-vi-ous；意思是調皮，不一定是惡毒。
+- mischief | n. | slightly bad behavior, especially by children | 淘氣；惡作劇 | naughtiness, trouble | | The kids got into mischief while their parents were busy cooking. | 父母忙著煮飯時，孩子們在搗蛋。
+- mischievous | adj. | enjoying playing tricks; naughty | 調皮的；淘氣的 | naughty, playful | well-behaved | The mischievous boy hid his sister's shoes under the bed. | 那個調皮的男孩把姊姊的鞋藏在床底下。
+
+@B resent / recreation
+tz=resent 憤恨（≠ re-sent 重寄）；recreation 娛樂、消遣（≠ re-creation 再創造）
+te=resent = feel angry about; recreation = activities for fun
+trap=看到 re- 就以為是「再一次」；有連字號的 re-sent / re-create 才是「再」。
+- resent | v. | to feel angry about something unfair | 憤恨；不滿 | dislike, be bitter about | appreciate | She resented being treated like a child by her older brother. | 她很不滿被哥哥當成小孩看待。
+- recreation | n. | things you do for fun when you are not working | 娛樂；消遣 | leisure, entertainment | work | The park offers many kinds of recreation, such as biking and fishing. | 這座公園提供騎腳踏車、釣魚等多種休閒活動。

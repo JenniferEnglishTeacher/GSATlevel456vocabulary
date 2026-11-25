@@ -1271,3 +1271,10 @@ body[data-set="roots"] .meter span { background: linear-gradient(90deg, #3f7d4a,
 .book-group-label { flex-basis: 100%; margin: 4px 0 -2px; font-size: 13px; font-weight: 800; letter-spacing: .04em; color: var(--muted); }
 .book-group-label.book-gsat { color: #5e3a9a; }
 .book-group-label.book-cap { color: #c2185b; margin-top: 10px; }
+
+/* 學測易混淆字 chip on flashcards (app.js renderCfLink; cf-index.js) */
+:root { --cf: #b4235a; --cf-dark: #8a1745; --cf-soft: #fdeef4; }
+.cf-link-row { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin-top: 6px; }
+.cf-link-row .syn-label { color: var(--cf-dark); }
+.cf-link-chip { padding: 3px 9px; border: 1px solid rgba(180,35,90,.35); border-radius: 999px; background: var(--cf-soft); color: var(--cf-dark); font-size: 13px; font-weight: 700; text-decoration: none; }
+.cf-link-chip:hover { background: #fbd9e6; }

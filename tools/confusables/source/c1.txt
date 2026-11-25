@@ -1,0 +1,412 @@
+@C harbor
+tz=n. 港口 → v. 懷有（情感）；窩藏（罪犯）——港口「收容」船，心裡「收容」念頭
+te=noun: a port; verb: to keep a feeling in your mind, to hide someone
+trap=學生只認得「港口」，看到 harbor a grudge / harbor criminals 就卡住。
+- harbor | n. | a place where ships stay safely | 港口 | port, dock | | Fishing boats returned to the harbor before the typhoon arrived. | 颱風來臨前漁船紛紛返回港口。 | 常見義
+- harbor | v. | to keep a feeling or thought for a long time; to hide someone | 懷有（情感）；窩藏 | hold, keep / hide, shelter | | She still harbors hope that her lost cat will come home one day. | 她仍懷抱希望，相信走失的貓有一天會回家。 | 進階義
+
+@C bore
+tz=v. 使厭煩（boring）→ bear 的過去式 → 鑽孔
+te=verb: make someone tired by being dull; past tense of bear
+trap=bore 也是 bear（承受、生育）的過去式：She bore three children.
+- bore | v. | to make someone feel tired because something is dull | 使厭煩 | tire, weary | interest | The long speech bored the students, and some of them fell asleep. | 冗長的演講讓學生覺得無聊，有些人睡著了。 | 常見義
+- bore | v. | past tense of bear: carried, gave birth to, accepted | 承受；生育（bear 的過去式） | carried, endured | | She bore the pain bravely and finished the race. | 她勇敢地忍住疼痛跑完比賽。 | 進階義
+
+@C bound
+tz=be bound to V 必定；bound for 開往；adj. 被綁住的；n. 界限（out of bounds）
+te=certain to; going toward; limit
+trap=bound 是 bind 的過去分詞，又有「必定」「開往」「界限」等意思。
+- bound | adj. | certain to happen | 必定的；一定會 | sure, certain | | If you keep practicing every day, you are bound to get better. | 如果你每天練習，一定會進步。 | 常見義
+- bound | adj. | going toward a place (bound for) | 開往…的 | heading for | | This train is bound for Kaohsiung and will stop at every station. | 這班火車開往高雄，每站都停。 | 進階義
+
+@C cast
+tz=v. 投擲、投下（陰影）→ n. 演員陣容 → n. 石膏
+te=verb: throw; noun: actors in a film, plaster for a broken bone
+trap=學生只知道「丟」，看到 the cast of the movie、a cast on his arm 就不懂。
+- cast | v. | to throw; to cause a shadow or light to appear | 投擲；投下 | throw, toss | | The tall building casts a long shadow over the park in the afternoon. | 下午那棟高樓在公園投下長長的影子。 | 常見義
+- cast | n. | all the actors in a film or play; a hard cover for a broken bone | 演員陣容；石膏 | actors / plaster | | The whole cast of the movie came to the opening night. | 電影的全體演員都出席了首映夜。 | 進階義
+
+@C champion
+tz=n. 冠軍 → v. 擁護、捍衛（為某理想奮戰的鬥士）
+te=noun: winner; verb: support and fight for a cause
+trap=看到 champion the rights of 不知道是動詞「捍衛」。
+- champion | n. | a person or team that has won a competition | 冠軍 | winner, title holder | loser | She became the national tennis champion at just sixteen. | 她年僅十六歲就成為全國網球冠軍。 | 常見義
+- champion | v. | to support and fight for a cause | 擁護；捍衛 | support, defend, promote | oppose | The young lawyer champions the rights of migrant workers. | 這位年輕律師捍衛移工的權益。 | 進階義
+
+@C clip
+tz=n. 迴紋針、夾子 → v. 修剪 → n. 影片片段
+te=paper clip; to cut; a short part of a video
+trap=a video clip 是「影片片段」，不是影片夾子。
+- clip | n. | a small object that holds things together | 夾子；迴紋針 | fastener, pin | | Use a clip to keep these papers together. | 用夾子把這些紙夾在一起。 | 常見義
+- clip | n./v. | a short part of a film; to cut something | 影片片段；修剪 | excerpt / trim, cut | | The teacher showed us a short clip from the news before the discussion. | 討論前老師給我們看了一段新聞片段。 | 進階義
+
+@C coach
+tz=n. 教練 → n. 長途巴士、（火車）車廂 → 經濟艙（coach class）
+te=trainer; long-distance bus; economy class
+trap=travel by coach 是搭長途巴士，不是跟教練旅行。
+- coach | n./v. | a person who trains a team or player | 教練；指導 | trainer, instructor | | Our basketball coach makes us run every morning. | 我們籃球教練每天早上要我們跑步。 | 常見義
+- coach | n. | a large comfortable bus for long trips; economy seats on a plane | 長途巴士；經濟艙 | bus / economy class | | We traveled from London to Oxford by coach because it was cheaper than the train. | 我們從倫敦搭長途巴士到牛津，因為比火車便宜。 | 進階義
+
+@C column
+tz=n. 圓柱 → n. 專欄（報紙直排的欄位）→ 縱列
+te=pillar; regular article in a newspaper
+trap=columnist 是「專欄作家」，不是建柱子的人。
+- column | n. | a tall round post that supports a building | 圓柱；柱子 | pillar | | The old temple is supported by twelve stone columns. | 這座古廟由十二根石柱支撐。 | 常見義
+- column | n. | a regular article in a newspaper or magazine; a vertical row | 專欄；（直）欄 | article, feature | row | She writes a weekly column about food and travel. | 她每週撰寫一篇美食旅遊專欄。 | 進階義
+
+@C content
+tz=n. 內容（CON-tent）→ adj. 滿足的（con-TENT）
+te=noun: what is inside; adjective: satisfied
+trap=重音不同、詞性不同；be content with 是「滿足於」。
+- content | n. | what is inside something; the subject of a book or website | 內容 | contents, substance | | The content of this website is checked by teachers. | 這個網站的內容經過老師審核。 | 常見義
+- content | adj. | happy and satisfied | 滿足的；滿意的 | satisfied, pleased | unhappy | My grandmother is content with a quiet life in the countryside. | 我奶奶滿足於鄉下平靜的生活。 | 進階義
+
+@C counter
+tz=n. 櫃檯 → v. 反駁、對抗（counter- 反）
+te=noun: long table in a shop; verb: argue against, respond to
+trap=counter 當動詞是「反駁；反擊」，counter an argument。
+- counter | n. | a long table in a shop, bank, or kitchen | 櫃檯；流理台 | desk, bar | | Please pay at the counter near the door. | 請到門口旁的櫃檯付款。 | 常見義
+- counter | v. | to say something against; to act against | 反駁；對抗 | oppose, answer, fight | support | The company quickly countered the rumors with a clear statement. | 公司迅速發表聲明反駁謠言。 | 進階義
+
+@C crane
+tz=n. 鶴 → n. 起重機（像鶴的長脖子）→ v. 伸長脖子
+te=bird with long legs; machine for lifting; stretch your neck
+trap=crane one's neck 是「伸長脖子看」。
+- crane | n. | a large bird with long legs and a long neck | 鶴 | | | Red-crowned cranes are a symbol of long life in Asian culture. | 丹頂鶴在亞洲文化中是長壽的象徵。 | 常見義
+- crane | n./v. | a tall machine for lifting heavy things; to stretch your neck to see | 起重機；伸長脖子 | | | Workers used a crane to lift the steel beams to the top of the building. | 工人用起重機把鋼樑吊到大樓頂端。 | 進階義
+
+@C credit
+tz=n. 信用 → n. 學分 → n. 功勞、讚揚（give credit to）
+te=trust in paying later; unit of study; praise
+trap=take credit for 是「居功」，不是「拿信用卡」。
+- credit | n. | an arrangement to pay later; money in a bank account | 信用；賒帳 | loan, trust | debt | Many people buy phones on credit and pay every month. | 很多人分期付款買手機。 | 常見義
+- credit | n. | praise for doing something; a unit of study | 功勞；讚揚；學分 | praise, recognition | blame | The whole team deserves credit for this success, not just me. | 這次成功全隊都有功勞，不只是我。 | 進階義
+
+@C deposit
+tz=n. 存款 → 押金、訂金 → 沉積物
+te=money put in a bank; money paid first; layer left by water
+trap=pay a deposit 是「付訂金／押金」。
+- deposit | n./v. | money you put into a bank; to put money in a bank | 存款；存入 | save, bank | withdraw | I deposit part of my allowance in the bank every month. | 我每個月把部分零用錢存入銀行。 | 常見義
+- deposit | n. | money paid first as a promise; a layer of material left by water | 押金；訂金；沉積物 | down payment / layer | | We paid a deposit of two months' rent when we moved in. | 我們搬進去時付了兩個月租金的押金。 | 進階義
+
+@C drill
+tz=n. 鑽子 → n./v. 演練、反覆操練（fire drill）
+te=tool for making holes; practice exercise
+trap=fire drill 是「消防演習」，不是消防鑽子。
+- drill | n./v. | a tool for making holes; to make a hole | 鑽子；鑽孔 | bore | | My father used a drill to put up the shelf. | 我爸爸用電鑽裝上架子。 | 常見義
+- drill | n./v. | a practice exercise; to train by repeating | 演練；反覆練習 | exercise, practice | | We have an earthquake drill at school every September. | 我們學校每年九月有地震演習。 | 進階義
+
+@C engage
+tz=訂婚 → 參與（engage in）→ 吸引（注意力）
+te=promise to marry; take part in; attract attention
+trap=engage students 是「吸引學生投入」，不是讓學生訂婚。
+- engage | v. | to promise to marry (be engaged) | 訂婚 | | | They got engaged last summer and plan to marry next year. | 他們去年夏天訂婚，計畫明年結婚。 | 常見義
+- engage | v. | to take part in; to attract and keep interest | 參與；吸引 | participate, involve, attract | | Good teachers find ways to engage students in discussion. | 好老師會想辦法吸引學生投入討論。 | 進階義
+
+@C entertain
+tz=娛樂 → 招待（客人）→ 懷有、考慮（想法）
+te=amuse; welcome guests; consider an idea
+trap=entertain an idea 是「考慮一個想法」。
+- entertain | v. | to amuse people | 娛樂；使快樂 | amuse, delight | bore | The magician entertained the children with clever tricks. | 魔術師用巧妙的把戲娛樂孩子們。 | 常見義
+- entertain | v. | to consider an idea; to invite guests and give them food | 考慮（想法）；招待 | consider / host | reject | The company refused to entertain any suggestions from new workers. | 公司拒絕考慮新進員工的任何建議。 | 進階義
+
+@C exploit
+tz=v. 剝削、利用 → n. 英勇事蹟（EX-ploit）
+te=verb: use unfairly; noun: brave adventure
+trap=名詞 exploit 是正面的「功績」，重音在前。
+- exploit | v. | to use someone unfairly for your own benefit; to use fully | 剝削；利用；開發 | take advantage of, use | | Some factories exploit workers by paying them very little. | 有些工廠以極低工資剝削工人。 | 常見義
+- exploit | n. | a brave or exciting act | 英勇事蹟；功績 | adventure, feat | | The old sailor loved telling us about his exploits at sea. | 老水手喜歡跟我們講他在海上的英勇事蹟。 | 進階義
+
+@C fortune
+tz=n. 運氣 → n. 財富、一大筆錢（make a fortune）
+te=luck; large amount of money
+trap=cost a fortune 是「花一大筆錢」。
+- fortune | n. | luck; chance | 運氣；命運 | luck, fate | misfortune | I had the good fortune to meet my favorite writer at the bookstore. | 我很幸運在書店遇見我最喜歡的作家。 | 常見義
+- fortune | n. | a very large amount of money | 財富；鉅款 | wealth, riches | poverty | He made a fortune by selling his app to a big company. | 他把應用程式賣給大公司，賺了一大筆錢。 | 進階義
+
+@C grave
+tz=n. 墳墓 → adj. 嚴重的、嚴肅的（gravity 同源）
+te=noun: place where a dead body is buried; adjective: serious
+trap=grave danger / grave mistake 是「嚴重的」。
+- grave | n. | a place in the ground where a dead person is buried | 墳墓 | tomb | | Every year during the Tomb Sweeping Festival, we clean my grandfather's grave. | 每年清明節，我們都去打掃爺爺的墳墓。 | 常見義
+- grave | adj. | very serious and worrying | 嚴重的；嚴肅的 | serious, critical | minor | Driving after drinking is a grave mistake that can cost lives. | 酒駕是可能奪人性命的嚴重錯誤。 | 進階義
+
+@C gravity
+tz=n. 重力 → n. 嚴重性、嚴肅（grave 嚴重）
+te=force that pulls things down; seriousness
+trap=the gravity of the situation 是「情況的嚴重性」。
+- gravity | n. | the force that pulls things toward the earth | 重力；地心引力 | | | Because of gravity, the apple fell to the ground. | 因為重力，蘋果掉到地上。 | 常見義
+- gravity | n. | seriousness | 嚴重性；嚴肅 | seriousness, importance | | The doctor explained the gravity of my father's illness. | 醫生向我們說明父親病情的嚴重性。 | 進階義
+
+@C gross
+tz=adj. 噁心的（口語）→ adj. 總的、毛的（gross income 總收入）→ 嚴重的
+te=disgusting; total before taxes; very bad
+trap=gross weight 是「毛重」，gross domestic product 是 GDP。
+- gross | adj. | very unpleasant; disgusting | 噁心的 | disgusting, nasty | | The kitchen was so dirty that it was gross. | 廚房髒到很噁心。 | 常見義
+- gross | adj. | total, before anything is taken away | 總的；毛的 | total, whole | net | His gross income is high, but he pays a lot of tax. | 他的總收入很高，但要繳很多稅。 | 進階義
+
+@C grant
+tz=v. 准許、給予 → n. 補助金、獎學金 → take for granted 視為理所當然
+te=give officially; money given for study or research
+trap=take sth for granted 是「視…為理所當然」。
+- grant | v. | to officially give or allow | 給予；准許 | give, allow, permit | refuse | The school granted him permission to leave early. | 學校准許他提早離開。 | 常見義
+- grant | n. | money given by a government or organization for a purpose | 補助金；獎助金 | funding, scholarship | | She received a government grant to study music in Vienna. | 她獲得政府補助赴維也納學音樂。 | 進階義
+
+@C hail
+tz=n. 冰雹 → v. 招呼（hail a taxi）、歡呼稱讚
+te=small balls of ice; call to stop a taxi, praise
+trap=be hailed as 是「被譽為」。
+- hail | n./v. | small balls of ice that fall like rain | 冰雹；下冰雹 | sleet | | The hail damaged many cars and broke several windows. | 冰雹砸壞了許多車和好幾扇窗戶。 | 常見義
+- hail | v. | to wave to stop a taxi; to praise publicly | 招呼；歡呼；稱讚 | call, flag down / praise | criticize | The young doctor was hailed as a hero for saving the passengers. | 這位年輕醫師因救了乘客而被譽為英雄。 | 進階義
+
+@C hatch
+tz=v. 孵化 → v. 策劃（hatch a plan）→ n. 艙口
+te=come out of an egg; make a secret plan
+trap=hatch a plan 是「策劃」。
+- hatch | v. | to come out of an egg | 孵化 | be born | | Five baby birds hatched in the nest outside my window. | 我窗外的鳥巢裡孵出了五隻小鳥。 | 常見義
+- hatch | v./n. | to make a secret plan; a door in a ship or plane | 策劃；艙口 | plan, plot / door | | The students hatched a plan to surprise their teacher on her birthday. | 學生們策劃在老師生日時給她驚喜。 | 進階義
+
+@C issue
+tz=n. 問題、議題 → v./n. 發行、核發 → n.（雜誌）期
+te=important topic; give out officially; one edition of a magazine
+trap=issue a passport 是「核發護照」。
+- issue | n. | an important problem or topic | 問題；議題 | problem, matter, topic | | Climate change is an issue that affects everyone. | 氣候變遷是影響每個人的議題。 | 常見義
+- issue | v./n. | to give out officially; one edition of a magazine | 發行；核發；（期刊的）一期 | give out, publish / edition | | The government issued a warning about the coming typhoon. | 政府發布了颱風來襲的警報。 | 進階義
+
+@C labor
+tz=n. 勞動、勞工 → n. 分娩（in labor 陣痛中）
+te=work; the process of giving birth
+trap=be in labor 是「在分娩中」。
+- labor | n. | work, especially physical work; workers | 勞動；勞工 | work, workers | rest | Building the railroad took years of hard labor. | 興建鐵路花了好幾年的辛苦勞動。 | 常見義
+- labor | n. | the process of giving birth | 分娩；陣痛 | childbirth, delivery | | My aunt was in labor for ten hours before the baby was born. | 我阿姨陣痛十小時寶寶才出生。 | 進階義
+
+@C lean
+tz=v. 傾斜、倚靠 → adj. 瘦的、精實的（lean meat 瘦肉）
+te=verb: bend, rest against; adjective: thin, without fat
+trap=lean meat 是「瘦肉」，不是斜的肉。
+- lean | v. | to bend; to rest against something | 傾斜；倚靠 | rest, tilt | | Don't lean against the door; it might open. | 別靠在門上，它可能會打開。 | 常見義
+- lean | adj. | thin and healthy; with little fat | 瘦的；精實的 | thin, slim | fat | Chicken breast is a lean meat with lots of protein. | 雞胸肉是富含蛋白質的瘦肉。 | 進階義
+
+@C mint
+tz=n. 薄荷 → n. 鑄幣廠 → in mint condition 全新的
+te=plant with fresh taste; place where coins are made
+trap=in mint condition 是「完好如新」。
+- mint | n. | a plant with a fresh taste, used in candy | 薄荷 | | | She added fresh mint leaves to the iced tea. | 她在冰茶裡加了新鮮薄荷葉。 | 常見義
+- mint | n./adj. | a place where coins are made; (in mint condition) like new | 鑄幣廠；全新的 | new, perfect | | The old comic book is in mint condition, so it is worth a lot. | 這本舊漫畫完好如新，所以很值錢。 | 進階義
+
+@C monitor
+tz=n. 螢幕 → v. 監控 → n. 班長、糾察
+te=screen; watch carefully; student helper
+trap=monitor 也可指「班級幹部」。
+- monitor | n. | a screen for a computer | 螢幕；顯示器 | screen, display | | I bought a bigger monitor so I can see two pages at once. | 我買了更大的螢幕，可以同時看兩頁。 | 常見義
+- monitor | v. | to watch carefully over a period of time | 監控；監測 | watch, check, observe | ignore | Nurses monitor the patient's heart rate every hour. | 護理師每小時監測病人的心跳。 | 進階義
+
+@C mount
+tz=v. 登上、騎上 → v. 增加（mounting pressure）→ v. 舉辦（mount an exhibition）
+te=climb onto; increase; organize
+trap=mounting debt 是「不斷增加的債務」。
+- mount | v. | to climb up or get on a horse or bike | 登上；騎上 | climb, get on | dismount | He mounted his bike and rode away. | 他騎上腳踏車離開了。 | 常見義
+- mount | v. | to increase gradually; to organize | 逐漸增加；舉辦 | grow, rise / organize | decrease | Pressure on the students mounted as the exam got closer. | 隨著考試逼近，學生的壓力逐漸增加。 | 進階義
+
+@C odd
+tz=adj. 奇怪的 → adj. 奇數的 → odd jobs 零工；the odd one out 不同類的那個
+te=strange; not even (1, 3, 5); occasional
+trap=odd numbers 是「奇數」，不是奇怪的數字。
+- odd | adj. | strange or unusual | 奇怪的 | strange, weird | normal | It's odd that she hasn't called; she usually calls every day. | 她還沒打來很奇怪，她通常每天都打。 | 常見義
+- odd | adj. | (of numbers) not able to be divided by two; occasional | 奇數的；零星的 | | even | Students with odd numbers sit on the left side of the room. | 座號是奇數的學生坐教室左邊。 | 進階義
+
+@C palm
+tz=n. 手掌 → n. 棕櫚樹 → v. palm off 用詐騙手段賣出
+te=inside of your hand; tropical tree
+trap=palm tree 是棕櫚樹；palm reading 看手相。
+- palm | n. | the inside part of your hand | 手掌 | hand | | The fortune-teller looked at the lines on my palm. | 算命師看了我手掌上的紋路。 | 常見義
+- palm | n. | a tall tropical tree with large leaves | 棕櫚樹 | | | Tall palm trees line the road along the beach. | 海邊道路兩旁種滿高大的棕櫚樹。 | 進階義
+
+@C patent
+tz=n. 專利 → adj. 明顯的（patently 明顯地）
+te=noun: right to own an invention; adjective: obvious
+trap=a patent lie 是「明顯的謊言」。
+- patent | n./v. | the right to be the only one to make or sell an invention | 專利（權）；取得專利 | copyright, license | | The company holds a patent on the new battery design. | 這家公司擁有新電池設計的專利。 | 常見義
+- patent | adj. | very obvious | 明顯的 | obvious, clear | hidden | His excuse was a patent lie; nobody believed him. | 他的藉口是明顯的謊言，沒人相信。 | 進階義
+
+@C pitch
+tz=n./v. 投球 → n. 音高 → v./n. 推銷提案（sales pitch）→ 搭帳篷
+te=throw a ball; how high a sound is; persuasive talk
+trap=pitch a tent 是「搭帳篷」；sales pitch 推銷話術。
+- pitch | v./n. | to throw a ball, especially in baseball | 投（球） | throw, toss | | He pitched for nine innings and won the game. | 他投了九局並贏得比賽。 | 常見義
+- pitch | n./v. | how high or low a sound is; a talk to sell something; to set up a tent | 音高；推銷；搭（帳篷） | tone / sales talk / set up | | We pitched our tent near the lake before it got dark. | 我們在天黑前在湖邊搭好帳篷。 | 進階義
+
+@C plot
+tz=n. 情節 → n. 陰謀 → n. 一小塊地
+te=story events; secret plan; small piece of land
+trap=a plot of land 是「一小塊地」。
+- plot | n. | the events that form the story of a book or film | 情節 | story, storyline | | The plot of the movie was so confusing that I watched it twice. | 這部電影情節太複雜，我看了兩遍。 | 常見義
+- plot | n./v. | a secret plan to do something bad; a small piece of land | 陰謀；一小塊地 | scheme, conspiracy / lot | | The police discovered a plot to rob the bank. | 警方發現一起搶銀行的陰謀。 | 進階義
+
+@C polish
+tz=v. 擦亮 → v. 潤飾（文章、技巧）→ Polish 波蘭的（大寫）
+te=make shiny; improve; of Poland
+trap=polish your English 是「精進英文」。
+- polish | v./n. | to rub something to make it shine | 擦亮；擦拭 | shine, rub | | He polishes his shoes every Sunday night. | 他每週日晚上擦鞋。 | 常見義
+- polish | v. | to improve a skill or piece of work | 潤飾；精進 | improve, refine | | She spent a week polishing her speech before the contest. | 比賽前她花一週潤飾她的演講稿。 | 進階義
+
+@C reflect
+tz=v. 反射 → v. 反映 → v. 反省、深思（reflect on）
+te=send back light; show; think carefully
+trap=reflect on 是「反思」。
+- reflect | v. | to send back light, heat, or sound; to show | 反射；反映 | mirror, show | absorb | The calm lake reflected the mountains like a mirror. | 平靜的湖面像鏡子般映出群山。 | 常見義
+- reflect | v. | to think carefully about something | 反思；深思 | think, consider | | Take a moment to reflect on what you learned this year. | 花點時間反思你今年學到了什麼。 | 進階義
+
+@C relief
+tz=n. 寬慰、放心 → n. 救濟（物資）→ n. 浮雕
+te=feeling of comfort; help for people in need
+trap=relief supplies 是「救災物資」。
+- relief | n. | a good feeling when worry or pain ends | 寬慰；放心；緩解 | comfort, ease | anxiety | It was a relief to hear that everyone was safe after the earthquake. | 聽到地震後大家都平安，真讓人鬆一口氣。 | 常見義
+- relief | n. | help such as food and money for people in need | 救濟；救援物資 | aid, help, assistance | | Many countries sent relief to the flood victims. | 許多國家送救援物資給水災災民。 | 進階義
+
+@C resort
+tz=n. 度假勝地 → v. 訴諸（resort to）→ as a last resort 最後手段
+te=holiday place; use something because nothing else works
+trap=resort to violence 是「訴諸暴力」。
+- resort | n. | a place where people go on holiday | 度假勝地 | holiday spot | | We stayed at a beach resort in Kenting for three days. | 我們在墾丁的海灘度假村住了三天。 | 常見義
+- resort | v./n. | to do something because there is no other choice (resort to) | 訴諸；手段 | turn to, fall back on | | We should never resort to violence to solve problems. | 我們絕不應該訴諸暴力來解決問題。 | 進階義
+
+@C resolution
+tz=n. 決心（New Year's resolution）→ n. 決議 → n. 解析度
+te=firm decision; formal decision; quality of a screen
+trap=high resolution 是「高解析度」。
+- resolution | n. | a promise to yourself to do or not do something | 決心 | promise, decision | | My New Year's resolution is to read one book a month. | 我的新年新希望是每個月讀一本書。 | 常見義
+- resolution | n. | a formal decision by a group; how clear an image is | 決議；解析度 | decision / clarity | | This camera takes photos at a very high resolution. | 這台相機拍的照片解析度很高。 | 進階義
+
+@C sack
+tz=n. 麻袋 → v. 開除（get the sack）
+te=large bag; fire someone from a job
+trap=get sacked 是「被開除」。
+- sack | n. | a large bag made of strong material | 麻袋；大袋 | bag | | The farmer carried a sack of rice on his back. | 農夫背著一袋米。 | 常見義
+- sack | v./n. | to fire someone from a job | 開除；解僱 | fire, dismiss | hire | He was sacked for being late to work too many times. | 他因上班遲到太多次而被開除。 | 進階義
+
+@C scale
+tz=n. 規模 → n. 刻度、比例尺 → n. 磅秤（scales）→ n. 魚鱗
+te=size; measuring system; weighing machine; small plates on fish
+trap=on a large scale 大規模；fish scales 魚鱗。
+- scale | n. | the size or level of something; a system of measurement | 規模；等級；比例尺 | size, extent | | The earthquake caused damage on a large scale. | 地震造成大規模的損害。 | 常見義
+- scale | n. | a machine for weighing; one of the small plates on a fish | 磅秤；鱗片 | | | Put the bag of apples on the scale to see how much it weighs. | 把那袋蘋果放到磅秤上看看多重。 | 進階義
+
+@C seal
+tz=n. 海豹 → v. 密封 → n. 印章、封印
+te=sea animal; close tightly; official stamp
+trap=seal the envelope 是「封住信封」。
+- seal | n. | a sea animal with a smooth body that lives in cold places | 海豹 | | | We watched the seals playing on the rocks. | 我們看著海豹在岩石上嬉戲。 | 常見義
+- seal | v./n. | to close something tightly; an official mark | 密封；封住；印章 | close, shut / stamp | open | Seal the box with tape before you mail it. | 寄出前用膠帶把箱子封好。 | 進階義
+
+@C shed
+tz=n. 小屋、棚子 → v. 流（淚、血）、脫落（葉子、皮）、減掉（體重）
+te=small building; let something fall off
+trap=shed tears 是「流淚」，shed light on 是「闡明」。
+- shed | n. | a small building for storing things | 小屋；棚子 | hut, shack | | We keep our garden tools in the shed behind the house. | 我們把園藝工具放在屋後的小屋。 | 常見義
+- shed | v. | to let something fall off; to get rid of | 脫落；流（淚）；擺脫 | drop, lose | | Many trees shed their leaves in autumn. | 許多樹在秋天落葉。 | 進階義
+
+@C spare
+tz=adj. 備用的 → v. 抽出（時間）→ v. 饒恕、省去
+te=extra; give time; save someone from something
+trap=Can you spare a minute? 是「你能抽空一下嗎？」
+- spare | adj. | extra; kept for use when needed | 備用的；空閒的 | extra, free | | Always keep a spare key in case you lose yours. | 隨時留一把備用鑰匙，以防遺失。 | 常見義
+- spare | v. | to give time or money; to save someone from something unpleasant | 抽出（時間）；饒恕；省去 | give / save | | Could you spare a few minutes to help me with this problem? | 你能抽出幾分鐘幫我解決這個問題嗎？ | 進階義
+
+@C squash
+tz=v. 壓扁 → n. 南瓜類 → n. 壁球
+te=press flat; vegetable; indoor ball game
+trap=play squash 是打「壁球」。
+- squash | v. | to press something flat | 壓扁；擠 | crush, flatten | | The bread got squashed at the bottom of my bag. | 麵包在我包包底部被壓扁了。 | 常見義
+- squash | n. | a kind of vegetable like a pumpkin; an indoor game with rackets | 南瓜類蔬菜；壁球 | | | My father plays squash with his friends every Friday. | 我爸爸每週五和朋友打壁球。 | 進階義
+
+@C stall
+tz=n. 攤位 → v.（引擎）熄火 → v. 拖延
+te=table for selling things; stop running; delay
+trap=stall for time 是「拖延時間」。
+- stall | n. | a small table or shop in a market | 攤位 | booth, stand | | We bought grilled corn from a stall at the night market. | 我們在夜市的攤位買了烤玉米。 | 常見義
+- stall | v. | (of an engine) to stop suddenly; to delay | 熄火；拖延 | stop / delay | | The car stalled in the middle of the road. | 車子在路中間熄火了。 | 進階義
+
+@C stem
+tz=n. 莖 → v. 源自（stem from）→ STEM 理工科
+te=main part of a plant; come from
+trap=stem from 是「源自」。
+- stem | n. | the main long part of a plant | 莖；梗 | stalk | | Cut the flower stems before you put them in water. | 把花莖剪一剪再放進水裡。 | 常見義
+- stem | v. | to come from something (stem from) | 源自；起因於 | come from, arise from | | Many of his health problems stem from a lack of sleep. | 他許多健康問題源自睡眠不足。 | 進階義
+
+@C stock
+tz=n. 庫存 → n. 股票 → n. 高湯 → take stock 評估
+te=goods in a shop; shares in a company; soup base
+trap=out of stock 缺貨；chicken stock 雞高湯。
+- stock | n. | the goods a shop has to sell | 庫存；存貨 | supply, goods | | Sorry, this size is out of stock. | 抱歉，這個尺寸缺貨。 | 常見義
+- stock | n. | shares in a company; liquid made from meat or bones for soup | 股票；高湯 | shares / broth | | She invested some of her savings in stocks. | 她把部分存款投資股票。 | 進階義
+
+@C strain
+tz=v. 拉傷 → n. 壓力、負擔 → v. 過濾 → n.（病毒）品系
+te=injure a muscle; pressure; separate liquid; type of virus
+trap=a new strain of flu 是「新的流感病毒株」。
+- strain | v./n. | to hurt a muscle by using it too much; pressure | 拉傷；壓力；負擔 | stress, injure | relax | Working two jobs puts a lot of strain on her health. | 兼兩份工作對她的健康造成很大負擔。 | 常見義
+- strain | n./v. | a type of virus or plant; to separate liquid from food | 品系；（病毒）株；過濾 | type, variety / filter | | Scientists discovered a new strain of the flu virus. | 科學家發現一種新的流感病毒株。 | 進階義
+
+@C tender
+tz=adj. 溫柔的 → adj.（肉）嫩的 → adj. 疼痛的 → n./v. 投標
+te=gentle; soft to eat; painful; formal offer
+trap=tender steak 是「嫩牛排」。
+- tender | adj. | gentle and kind | 溫柔的 | gentle, loving | harsh | The mother sang a tender song to her baby. | 媽媽對寶寶唱了一首溫柔的歌。 | 常見義
+- tender | adj. | (of meat) soft and easy to cut; painful when touched | 嫩的；（一碰就）痛的 | soft / sore | tough | The beef was so tender that it fell apart in my mouth. | 牛肉嫩到在嘴裡化開。 | 進階義
+
+@C toll
+tz=n. 通行費 → n. 傷亡人數（death toll）→ take a toll on 造成損害
+te=money paid to use a road; number of deaths; damage
+trap=death toll 是「死亡人數」；take a toll 是「造成損害」。
+- toll | n. | money you pay to use a road or bridge | 通行費 | fee, charge | | Drivers pay the highway toll automatically with an e-tag. | 駕駛人用 eTag 自動繳交高速公路通行費。 | 常見義
+- toll | n. | the number of people killed; bad effects | 傷亡人數；損害 | cost, damage | | Years of hard work took a toll on his health. | 多年的辛苦工作損害了他的健康。 | 進階義
+
+@C trunk
+tz=n. 樹幹 → n. 象鼻 → n.（汽車）後車廂 → n. 大皮箱
+te=main part of a tree; elephant's nose; space at the back of a car
+trap=put it in the trunk 是「放後車廂」。
+- trunk | n. | the main thick part of a tree | 樹幹 | | | The trunk of this old tree is so wide that three people can't reach around it. | 這棵老樹的樹幹粗到三個人都圍不起來。 | 常見義
+- trunk | n. | the space at the back of a car; an elephant's long nose | 後車廂；象鼻 | boot | | Put the suitcases in the trunk before we leave. | 出發前把行李箱放進後車廂。 | 進階義
+
+@C utter
+tz=v. 說出、發出（聲音）→ adj. 完全的、徹底的（utterly）
+te=verb: say; adjective: complete
+trap=utter nonsense 是「一派胡言」。
+- utter | v. | to say or make a sound | 說出；發出 | say, speak | | She was so shocked that she couldn't utter a word. | 她震驚到說不出一句話。 | 常見義
+- utter | adj. | complete; total | 完全的；徹底的 | complete, total, absolute | partial | The party was an utter failure because nobody came. | 派對徹底失敗，因為沒有人來。 | 進階義
+
+@C vessel
+tz=n. 船隻 → n. 血管（blood vessel）→ n. 容器
+te=ship; tube carrying blood; container
+trap=blood vessel 是「血管」。
+- vessel | n. | a large boat or ship | 船；艦 | ship, boat | | The fishing vessel returned to the harbor full of fish. | 漁船滿載魚貨返港。 | 常見義
+- vessel | n. | a tube in the body that carries blood; a container for liquid | 血管；容器 | tube / container | | Smoking can damage the blood vessels and cause heart disease. | 抽菸會損害血管並引發心臟病。 | 進階義
+
+@C volume
+tz=n. 音量 → n. 冊、卷 → n. 體積、量
+te=loudness; one book in a set; amount
+trap=volume 2 是「第二冊」；the volume of traffic 是交通量。
+- volume | n. | how loud a sound is | 音量 | loudness, sound level | | Please turn down the volume; the baby is sleeping. | 請把音量調小，寶寶在睡覺。 | 常見義
+- volume | n. | one book in a set; the amount of something | 冊；卷；量 | book / amount, quantity | | The volume of traffic increases during holidays. | 假日期間交通量增加。 | 進階義
+
+@C ward
+tz=n. 病房 → n. 受監護人 → v. ward off 抵擋、避開
+te=room in a hospital; keep away
+trap=ward off 是「避開、抵擋」。
+- ward | n. | a room in a hospital for patients | 病房 | room | | The children's ward is on the third floor. | 兒童病房在三樓。 | 常見義
+- ward | v. | to keep something bad away (ward off) | 避開；抵擋 | prevent, keep away | invite | People used to hang garlic on doors to ward off evil spirits. | 人們以前會在門上掛大蒜驅邪。 | 進階義
+
+@C warrant
+tz=n. 搜索令、逮捕令 → v. 使有正當理由（warranted）
+te=legal document; make necessary or reasonable
+trap=be warranted 是「有正當理由的」。
+- warrant | n. | an official document allowing the police to search or arrest | （搜索、逮捕）令 | order, permit | | The police had a warrant to search the house. | 警方持有搜索房子的搜索令。 | 常見義
+- warrant | v. | to make something necessary or reasonable | 使有正當理由；使成為必要 | justify, deserve | | The small mistake doesn't warrant such a heavy punishment. | 這個小錯誤不值得如此重罰。 | 進階義
+
+@C yield
+tz=v. 生產、產生（收成）→ v. 讓步、讓路 → n. 產量
+te=produce; give way; amount produced
+trap=YIELD 路標是「讓路」。
+- yield | v./n. | to produce crops or results; the amount produced | 生產；產生；產量 | produce, give / output | | This farm yields about two tons of rice each year. | 這座農場每年生產約兩噸稻米。 | 常見義
+- yield | v. | to give in; to allow other cars to go first | 讓步；屈服；讓路 | give in, surrender / give way | resist | Drivers must yield to people crossing the street. | 駕駛人必須禮讓過馬路的行人。 | 進階義

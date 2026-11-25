@@ -1,0 +1,420 @@
+@D complement / compliment
+tz=complement 補足、相配（e：complete 完整）；compliment 稱讚（i：I like it）
+te=complement = go well with; compliment = praise
+trap=發音完全相同，只差 e/i。
+- complement | v./n. | to go well with something; to make it complete | 補足；與…相配 | match, complete | clash | The red wine complements the beef perfectly. | 紅酒和牛肉搭配得恰到好處。
+- compliment | n./v. | something nice you say about someone | 稱讚；恭維 | praise | insult | She received many compliments on her new haircut. | 她的新髮型得到很多稱讚。
+
+@D council / counsel
+tz=council 議會、委員會（c：city council）；counsel 勸告、諮商（s：say advice）→ counselor 輔導老師
+te=council = group of elected people; counsel = advice
+trap=同音 /ˈkaʊnsl/；school counselor 是輔導老師。
+- council | n. | a group of people chosen to make decisions | 議會；委員會 | committee, board | | The city council voted to build a new library. | 市議會投票通過興建新圖書館。
+- counsel | v./n. | to give advice | 勸告；諮商；忠告 | advise / advice | | Teachers counsel students who are worried about choosing a university. | 老師為擔心選大學的學生提供諮商。
+
+@D imply / infer
+tz=imply 暗示（說話者把意思放進去）；infer 推論（聽者從中推出）
+te=imply = suggest without saying; infer = conclude from evidence
+trap=說的人 imply，聽的人 infer，主詞不同。
+- imply | v. | to suggest something without saying it directly | 暗示；意味著 | suggest, hint | state | Her silence implied that she did not agree. | 她的沉默暗示她不同意。
+- infer | v. | to form an opinion from facts | 推論；推斷 | conclude, deduce | | From his tired face, I inferred that he hadn't slept well. | 從他疲倦的臉，我推斷他沒睡好。
+
+@D comprise / compose
+tz=整體 comprise 部分（The team comprises ten players）；部分 compose 整體 → 被動 be composed of
+te=comprise = consist of; compose = make up, write music
+trap=comprise 後面不加 of；be composed of = consist of。
+- comprise | v. | to consist of; to be made up of | 由…組成；包含 | consist of, include | | The committee comprises five teachers and two students. | 委員會由五位老師和兩名學生組成。
+- compose | v. | to form a whole; to write music or a poem | 組成；作（曲） | make up / write | | Water is composed of hydrogen and oxygen. | 水是由氫和氧組成的。
+
+@D discreet / discrete
+tz=discreet 謹慎的、言行得體（ee：兩個 e 像兩隻眼睛保密）；discrete 分離的、個別的（e-t-e 被 t 分開）
+te=discreet = careful not to tell secrets; discrete = separate
+trap=同音 /dɪˈskriːt/；discreet 才是常用的「謹慎」。
+- discreet | adj. | careful about what you say or do, to keep secrets | 謹慎的；低調的 | careful, tactful | indiscreet | Please be discreet; nobody else knows about the surprise party. | 請保密，其他人都不知道這個驚喜派對。
+- discrete | adj. | separate and different | 分離的；個別的 | separate, distinct | connected | The course is divided into five discrete units. | 這門課分成五個獨立的單元。
+
+@D adverse / averse
+tz=adverse 不利的（形容事物）；averse 反感的（形容人，be averse to）
+te=adverse = harmful (things); averse = not liking (people)
+trap=adverse effects 是「副作用、不良影響」；I'm not averse to 我不反對。
+- adverse | adj. | harmful or unfavorable | 不利的；有害的 | negative, harmful | favorable | The medicine may have adverse effects, such as headaches. | 這藥可能有頭痛等不良影響。
+- averse | adj. | strongly disliking (averse to) | 反對的；不喜歡的 | unwilling, opposed | eager | He is not averse to hard work if the pay is fair. | 只要薪水合理，他並不排斥辛苦工作。
+
+@D continual / continuous
+tz=continual 反覆不斷（有間斷）；continuous 連續不斷（沒有間斷）
+te=continual = happening again and again; continuous = without stopping
+trap=continual interruptions 一再打斷；continuous rain 雨下不停。
+- continual | adj. | happening often, again and again | 不斷反覆的；頻繁的 | repeated, frequent | occasional | I'm tired of his continual complaints about the food. | 我受夠了他對食物一再的抱怨。
+- continuous | adj. | without stopping | 連續不斷的 | nonstop, constant | interrupted | The machine makes a continuous noise all day. | 這台機器整天發出不間斷的噪音。
+
+@D explicit / implicit
+tz=explicit 明確的（ex- 說出來）；implicit 含蓄的、暗示的（im- 藏在裡面）
+te=explicit = clearly stated; implicit = suggested but not said
+trap=兩字是反義詞，常同題出現。
+- explicit | adj. | clear and direct | 明確的；清楚的 | clear, direct | vague | The teacher gave explicit instructions about how to write the report. | 老師對報告的寫法給了明確的指示。
+- implicit | adj. | suggested but not said directly | 含蓄的；暗示的 | implied, unspoken | explicit | There was an implicit agreement that we would share the cost. | 我們心照不宣地同意分攤費用。
+
+@D precede / proceed
+tz=precede 在…之前（pre- 先 + cede 走）；proceed 繼續進行（pro- 往前走）
+te=precede = come before; proceed = continue
+trap=precede 是及物動詞；proceed to/with。
+- precede | v. | to come before something | 在…之前 | come before, lead to | follow | Heavy rain preceded the typhoon. | 颱風來臨前先下了大雨。
+- proceed | v. | to continue; to go forward | 繼續進行；前往 | continue, go on | stop | After a short break, we proceeded with the meeting. | 短暫休息後，我們繼續開會。
+
+@D emigrate / immigrate / migration
+tz=emigrate 移出（e- 出去）；immigrate 移入（im- 進來）；migrate 遷徙（候鳥、族群）
+te=emigrate = leave your country; immigrate = come into a new country; migrate = move seasonally
+trap=emigrate from、immigrate to；同一個人對兩國分別是 emigrant / immigrant。
+- emigrate | v. | to leave your country to live in another | 移居國外 | move abroad | | Her grandparents emigrated from Taiwan to Canada in 1980. | 她的祖父母在 1980 年從台灣移居加拿大。
+- immigrate | v. | to come into a country to live there | 移入（某國） | settle | | Many workers immigrate to Taiwan from Southeast Asia. | 許多勞工從東南亞移入台灣。
+- migration | n. | the movement of animals or people from one place to another | 遷徙；移居 | movement, journey | | Every winter, the migration of birds brings visitors to the wetlands. | 每年冬天，候鳥遷徙吸引遊客前往濕地。
+
+@D economic / economical
+tz=economic 經濟的（economy 的形容詞）；economical 節省的、划算的
+te=economic = about the economy; economical = saving money
+trap=an economical car 是「省油的車」，不是經濟學的車。
+- economic | adj. | related to the economy | 經濟的 | financial | | The country has had strong economic growth this year. | 這個國家今年經濟成長強勁。
+- economical | adj. | using little money or fuel | 節省的；划算的 | thrifty, cheap | wasteful | Buying a big bag of rice is more economical than buying small ones. | 買大包米比買小包划算。
+
+@D historic / historical
+tz=historic 有歷史意義的、重要的；historical 歷史上的、和歷史有關的
+te=historic = important in history; historical = about the past
+trap=a historic moment 歷史性的一刻；a historical novel 歷史小說。
+- historic | adj. | important in history | 有歷史意義的 | important, famous | ordinary | Landing on the moon was a historic event. | 登陸月球是具歷史意義的大事。
+- historical | adj. | related to the past or history | 歷史的；史學的 | past, ancient | modern | She enjoys reading historical novels about the Tang dynasty. | 她喜歡讀以唐朝為背景的歷史小說。
+
+@D considerable / considerate
+tz=considerable 相當大的（值得考慮的量）；considerate 體貼的（會考慮別人）
+te=considerable = large; considerate = thoughtful of others
+trap=-able（量大）vs. -ate（人體貼）。
+- considerable | adj. | large in size or amount | 相當大的；可觀的 | large, significant | small | The new road cost a considerable amount of money. | 新道路花了相當可觀的經費。
+- considerate | adj. | thinking about other people's feelings | 體貼的 | thoughtful, kind | selfish | It was considerate of you to turn down the music while I was studying. | 你在我讀書時把音樂關小聲，真體貼。
+
+@D respectable / respectful / respective
+tz=respectable 值得尊敬的、體面的（被尊敬）；respectful 尊敬人的（主動尊敬）；respective 各自的
+te=respectable = deserving respect; respectful = showing respect; respective = each one's own
+trap=respective 和尊敬無關；respectively 分別地。
+- respectable | adj. | considered good or proper by society | 體面的；值得尊敬的 | decent, honorable | shameful | He wore a suit to look respectable at the interview. | 他穿西裝去面試，看起來很體面。
+- respectful | adj. | showing respect | 尊敬的；有禮貌的 | polite, courteous | rude | Be respectful to the elderly. | 對長者要有禮貌。
+- respective | adj. | belonging to each one separately | 各自的 | own, individual | | After the party, the guests went back to their respective homes. | 派對結束後，客人們各自回家。
+
+@D imaginary / imaginative / imaginable
+tz=imaginary 想像中的、虛構的；imaginative 有想像力的；imaginable 可想像得到的
+te=imaginary = not real; imaginative = creative; imaginable = possible to imagine
+trap=an imaginary friend 虛構的朋友；an imaginative writer 有創意的作家。
+- imaginary | adj. | existing only in the mind | 想像中的；虛構的 | unreal, made-up | real | My little brother has an imaginary friend named Bobo. | 我弟弟有一個叫波波的想像中的朋友。
+- imaginative | adj. | having new and creative ideas | 富有想像力的 | creative, inventive | dull | The imaginative design of the library attracts many visitors. | 這座圖書館富有想像力的設計吸引許多遊客。
+- imaginable | adj. | possible to imagine | 可想像得到的 | possible, conceivable | unimaginable | The shop sells ice cream in every flavor imaginable. | 這家店賣你想像得到的各種口味冰淇淋。
+
+@D industrial / industrious
+tz=industrial 工業的；industrious 勤勉的（-ious 形容人）
+te=industrial = of industry; industrious = hard-working
+trap=industrious 和工廠無關，是「勤奮的」。
+- industrial | adj. | related to industry and factories | 工業的；產業的 | manufacturing | agricultural | Kaohsiung is a major industrial city in southern Taiwan. | 高雄是台灣南部的重要工業城市。
+- industrious | adj. | working hard | 勤勉的；勤奮的 | hard-working, diligent | lazy | The industrious student studies in the library every evening. | 這位勤奮的學生每晚都在圖書館讀書。
+
+@D sensible / sensitive
+tz=sensible 明智的、合理的（有 sense 常識）；sensitive 敏感的、體貼的
+te=sensible = reasonable; sensitive = easily affected, understanding feelings
+trap=sensible 不是「敏感的」。
+- sensible | adj. | reasonable and practical | 明智的；合理的 | wise, practical | foolish | It is sensible to bring an umbrella in the rainy season. | 雨季帶把傘是明智之舉。
+- sensitive | adj. | easily hurt or affected; aware of others' feelings | 敏感的；體貼的 | delicate, understanding | insensitive | My skin is sensitive to the sun, so I always wear sunscreen. | 我的皮膚對陽光很敏感，所以總是擦防曬。
+
+@D successful / successive
+tz=successful 成功的；successive 連續的（succession 接續）
+te=successful = achieving goals; successive = following one after another
+trap=three successive wins 是「三連勝」。
+- successful | adj. | achieving what you want | 成功的 | | unsuccessful | She is a successful businesswoman who owns three restaurants. | 她是一位擁有三家餐廳的成功女企業家。
+- successive | adj. | following one after another | 連續的；相繼的 | consecutive, in a row | | The team has won the title for three successive years. | 這支隊伍連續三年奪冠。
+
+@D intense / intensive
+tz=intense 強烈的、激烈的（感受、程度）；intensive 密集的、加強的（課程、照護）
+te=intense = very strong; intensive = concentrated in a short time
+trap=intensive care unit（ICU）加護病房；an intensive course 密集課程。
+- intense | adj. | very strong or serious | 強烈的；激烈的 | strong, fierce | mild | There is intense competition for places at top universities. | 頂尖大學的名額競爭激烈。
+- intensive | adj. | involving a lot of work in a short time | 密集的；加強的 | concentrated, thorough | | I took an intensive English course during the summer. | 我暑假上了一門密集英文課。
+
+@D interfere / intervene
+tz=interfere 干涉、妨礙（負面，interfere with/in）；intervene 介入、調停（中性或正面）
+te=interfere = get involved unwantedly; intervene = step in to help or stop
+trap=interfere with 妨礙；interfere in 干涉。
+- interfere | v. | to get involved when not wanted; to get in the way | 干涉；妨礙 | meddle, disturb | | Don't let your phone interfere with your sleep. | 別讓手機妨礙你的睡眠。
+- intervene | v. | to step in to stop or improve a situation | 介入；調停 | step in, mediate | | The teacher intervened before the argument became a fight. | 老師在爭吵演變成打架前介入。
+
+@D envious / jealous
+tz=envious 羨慕（想要別人有的）；jealous 嫉妒（怕失去自己的，或吃醋）
+te=envious = wanting what others have; jealous = afraid of losing what you have, or envious
+trap=jealous 可涵蓋 envious，但「吃醋」只能用 jealous。
+- envious | adj. | wanting something that another person has | 羨慕的 | | content | I'm envious of my sister because she can travel to Japan every year. | 我很羨慕姊姊每年都能去日本旅行。
+- jealous | adj. | unhappy because someone may take what you have; envious | 嫉妒的；吃醋的 | possessive, envious | | He gets jealous when his girlfriend talks to other boys. | 女友和其他男生說話時，他就會吃醋。
+
+@D award / reward
+tz=award 獎項（正式頒發，評審決定）；reward 報酬、回報（因努力或幫忙得到）
+te=award = prize given officially; reward = something given for help or effort
+trap=reward 也可指「懸賞金」。
+- award | n./v. | a prize given for doing something well | 獎；頒發 | prize, honor | | She won an award for best actress. | 她獲得最佳女主角獎。
+- reward | n./v. | something given in return for good work or help | 報酬；獎賞；酬謝 | prize, payment | punishment | The family offered a reward to anyone who found their lost dog. | 這家人懸賞找回走失的狗。
+
+@D advice / advise
+tz=advice（n.）建議，c 讀 /s/，不可數；advise（v.）建議，s 讀 /z/
+te=advice = noun; advise = verb
+trap=不能說 an advice，要說 a piece of advice。
+- advice | n. | an opinion about what someone should do | 建議；忠告 | suggestion, guidance | | My teacher gave me some useful advice about choosing a major. | 老師給了我一些選科系的實用建議。
+- advise | v. | to tell someone what you think they should do | 建議；勸告 | recommend, suggest | | The doctor advised him to stop smoking. | 醫生勸他戒菸。
+
+@D device / devise
+tz=device（n.）裝置，c 讀 /s/；devise（v.）設計、想出，s 讀 /z/
+te=device = machine or tool; devise = think up
+trap=和 advice/advise 同樣的 c/s 規則。
+- device | n. | a machine or tool made for a purpose | 裝置；設備 | gadget, tool | | Please turn off all electronic devices during the exam. | 考試時請關閉所有電子裝置。
+- devise | v. | to think of a new plan or method | 設計；想出 | invent, plan, create | | The students devised a way to collect rainwater for the school garden. | 學生們想出收集雨水灌溉校園菜園的方法。
+
+@D beside / besides
+tz=beside 在…旁邊（side 旁）；besides 除…之外還有、此外（多 s = 加上）
+te=beside = next to; besides = in addition to
+trap=besides 是「包含在內」的除了，except 是「排除」的除了。
+- beside | prep. | next to | 在…旁邊 | next to, by | | Come and sit beside me. | 過來坐我旁邊。
+- besides | prep./adv. | in addition to; also | 除…之外（還有）；此外 | in addition, also | | Besides English, she also speaks French and Spanish. | 除了英文，她也會說法文和西班牙文。
+
+@D farther / further
+tz=farther 更遠的（實際距離，far）；further 更進一步的（程度、抽象）
+te=farther = more distant; further = more, additional
+trap=further information / further study 不用 farther。
+- farther | adj./adv. | at a greater distance | 更遠的；更遠地 | further, more distant | nearer | The hotel is farther from the station than I thought. | 飯店離車站比我想的還遠。
+- further | adj./adv. | more; additional | 更進一步的；額外的 | additional, more | | For further information, please visit our website. | 如需更多資訊，請上我們的網站。
+
+@D rise / raise / arise / arouse
+tz=rise 上升（不及物）；raise 舉起、提高、養育（及物）；arise 出現、發生（問題）；arouse 喚起、激起（興趣、懷疑）
+te=rise = go up; raise = lift something; arise = happen; arouse = cause a feeling
+trap=raise 要接受詞；problems arise 問題產生；arouse interest 引起興趣。
+- rise | v. | to go up | 上升；升起 | go up, increase | fall | The sun rises in the east. | 太陽從東方升起。
+- raise | v. | to lift; to increase; to bring up children | 舉起；提高；養育 | lift, increase, bring up | lower | If you know the answer, raise your hand. | 知道答案的人請舉手。
+- arise | v. | (of a problem) to happen | （問題）出現；發生 | occur, appear | | Call me if any problems arise while I'm away. | 我不在時如果有任何問題發生，請打給我。
+- arouse | v. | to cause a feeling or interest | 喚起；引起 | stir, provoke | | The strange box aroused the children's curiosity. | 那個奇怪的盒子引起孩子們的好奇心。
+
+@D glance / glimpse / gaze / stare / glare
+tz=glance 瞥一眼（主動快看）；glimpse 瞥見（偶然看到一下）；gaze 凝視（溫柔、出神）；stare 盯著看（驚訝、無禮）；glare 怒視（生氣）
+te=glance = quick look; glimpse = brief view; gaze = long look; stare = fixed look; glare = angry look
+trap=catch a glimpse of 瞥見；不能說 catch a glance。
+- glance | v./n. | to look quickly | 瞥一眼；匆匆一看 | peek, look | stare | She glanced at her watch and hurried out. | 她瞥了一眼手錶就匆匆出門。
+- glimpse | n./v. | a brief, incomplete view | 一瞥；瞥見 | look, sight | | We caught a glimpse of the singer as she got into her car. | 歌手上車時我們瞥見了她。
+- gaze | v./n. | to look at something for a long time, often with interest | 凝視 | look, contemplate | | He sat by the window, gazing at the stars. | 他坐在窗邊凝視著星星。
+- stare | v./n. | to look at something for a long time without moving your eyes | 盯著看；瞪 | look fixedly | | It's rude to stare at people on the train. | 在火車上盯著別人看很沒禮貌。
+- glare | v./n. | to look at someone angrily; strong light | 怒視；強光 | scowl / dazzle | | The teacher glared at the students who were talking. | 老師怒視那些講話的學生。
+
+@D shade / shadow
+tz=shade 陰涼處（沒有陽光的區域）；shadow 影子（有形狀的影子）
+te=shade = cool area out of the sun; shadow = dark shape
+trap=sit in the shade 坐在陰涼處，不說 sit in the shadow。
+- shade | n. | an area that is cool and dark because the sun is blocked | 陰涼處；樹蔭 | cover, shelter | sunlight | Let's sit in the shade of that big tree. | 我們坐到那棵大樹的樹蔭下吧。
+- shadow | n. | the dark shape made when something blocks light | 影子；陰影 | silhouette | light | In the evening, our shadows became very long. | 傍晚時我們的影子變得很長。
+
+@D canal / channel
+tz=canal 人工運河（Panama Canal）；channel 天然海峽、水道、頻道、管道
+te=canal = man-made waterway; channel = natural water passage, TV station, way
+trap=English Channel 英吉利海峽；TV channel 電視頻道。
+- canal | n. | a man-made river for boats or water | 運河 | waterway | | Venice is famous for its canals and boats. | 威尼斯以運河和船聞名。
+- channel | n. | a TV station; a passage of water; a way of communicating | 頻道；海峽；管道 | station / passage / route | | Which channel is the baseball game on? | 棒球比賽在哪一台播？
+
+@D objective / subjective
+tz=objective 客觀的（看 object 事物本身）；subjective 主觀的（看 subject 主體自己）
+te=objective = based on facts; subjective = based on personal feelings
+trap=objective 也是名詞「目標」。
+- objective | adj./n. | based on facts, not feelings; a goal | 客觀的；目標 | fair, neutral / aim | biased | A judge must be objective and not take sides. | 法官必須客觀，不能偏袒任何一方。
+- subjective | adj. | based on personal feelings or opinions | 主觀的 | personal, biased | objective | Whether a movie is good or bad is often subjective. | 電影好不好看往往很主觀。
+
+@D custom / customs / costume
+tz=custom 習俗；customs 海關（加 s 變海關）；costume 戲服、服裝
+te=custom = tradition; customs = border office for checking goods; costume = special clothes
+trap=go through customs 通關；costume 和 custom 只差一個字母。
+- custom | n. | a traditional way of doing something | 習俗；風俗 | tradition, practice | | It's a custom to give red envelopes during Chinese New Year. | 過年發紅包是一種習俗。
+- customs | n. | the place at a border where bags are checked | 海關 | border control | | We had to open our suitcases at customs. | 我們在海關必須打開行李箱。
+- costume | n. | clothes worn by actors or for special events | 戲服；（特殊）服裝 | outfit, dress | | My little sister wore a tiger costume to the Halloween party at school. | 我妹妹穿著老虎裝參加學校的萬聖節派對。
+
+@D intellectual / intelligent
+tz=intelligent 聰明的（天生頭腦好）；intellectual 智力的、知識分子（運用思考、學術）
+te=intelligent = smart; intellectual = related to thinking, a thinker
+trap=animals can be intelligent，但不說 intellectual animals。
+- intelligent | adj. | able to learn and understand quickly | 聰明的；有智慧的 | smart, clever | stupid | Dolphins are very intelligent animals. | 海豚是非常聰明的動物。
+- intellectual | adj./n. | related to the mind and thinking; a person who thinks deeply | 智力的；知識分子 | mental, academic / scholar | physical | Reading helps children's intellectual development. | 閱讀有助孩子的智力發展。
+
+@D expand / extend
+tz=expand 擴大（往各方向變大）；extend 延長、延伸（往一個方向拉長）
+te=expand = grow bigger; extend = make longer, offer
+trap=extend a deadline 延長期限；extend an invitation 發出邀請。
+- expand | v. | to become larger in size or amount | 擴大；擴張 | grow, enlarge | shrink | The company plans to expand into Japan next year. | 這家公司計畫明年擴展到日本。
+- extend | v. | to make longer; to reach; to offer | 延長；延伸；給予 | lengthen, stretch | shorten | The teacher extended the deadline by three days. | 老師把截止日延長了三天。
+
+@D shameful / ashamed
+tz=ashamed 感到羞愧的（形容人的感受）；shameful 可恥的（形容行為、事情）
+te=ashamed = feeling shame; shameful = causing shame
+trap=I am ashamed of… 不說 I am shameful。
+- ashamed | adj. | feeling bad because you did something wrong | 感到羞愧的 | embarrassed, guilty | proud | He was ashamed of lying to his parents. | 他對自己騙了父母感到羞愧。
+- shameful | adj. | so bad that people should feel shame | 可恥的 | disgraceful | honorable | Cheating on a test is shameful behavior. | 考試作弊是可恥的行為。
+
+@D alternate / alternative
+tz=alternate 交替的、輪流的（每隔一個）；alternative 可替代的、另一選擇
+te=alternate = every other, take turns; alternative = another possible choice
+trap=on alternate days 隔天；an alternative plan 備案。
+- alternate | adj./v. | happening in turns; every other one | 交替的；輪流 | rotating | | We take turns cleaning the room on alternate days. | 我們隔天輪流打掃房間。
+- alternative | n./adj. | another possible choice | 替代方案；可替代的 | option, choice | | If the bus is full, the MRT is a good alternative. | 如果公車客滿，搭捷運是不錯的替代方案。
+
+@D remind / remember / recall
+tz=remind 提醒別人（remind sb of/to）；remember 自己記得；recall 回想起（較正式）
+te=remind = help someone remember; remember = keep in mind; recall = bring back to mind
+trap=remind 要接人：Remind me to call her.
+- remind | v. | to make someone remember something | 提醒；使想起 | prompt | | Please remind me to buy milk on the way home. | 請提醒我回家路上買牛奶。
+- remember | v. | to keep something in your memory | 記得 | recall, recollect | forget | Do you remember the name of our first-grade teacher? | 你記得我們一年級老師的名字嗎？
+- recall | v. | to bring a past event back into your mind | 回想起；回憶 | remember, recollect | forget | I can't recall where I put my keys. | 我想不起來把鑰匙放哪了。
+
+@D prevent / forbid / prohibit
+tz=prevent 預防、阻止（事情發生）；forbid sb to V 禁止（多為個人）；prohibit sb from V-ing 禁止（多為法規）
+te=prevent = stop from happening; forbid = order not to do; prohibit = officially ban
+trap=forbid sb to V；prohibit sb from V-ing；prevent sb from V-ing。
+- prevent | v. | to stop something from happening | 預防；阻止 | stop, avoid | allow | Washing your hands can prevent the spread of disease. | 洗手可以預防疾病傳播。
+- forbid | v. | to order someone not to do something | 禁止 | ban, not allow | allow | My parents forbid me to play video games on school nights. | 我爸媽禁止我在上學日的晚上打電動。
+- prohibit | v. | to officially ban by law or rule | （法規）禁止 | ban, outlaw | permit | The law prohibits people under eighteen from buying cigarettes. | 法律禁止未滿十八歲者購買香菸。
+
+@D convince / persuade
+tz=convince 使相信（convince sb of/that）；persuade 說服去做（persuade sb to V）
+te=convince = make believe; persuade = make someone do
+trap=口語兩者常混用，但正式寫作 persuade 接 to V，convince 接 that 子句較標準。
+- convince | v. | to make someone believe something is true | 使相信；使信服 | assure, satisfy | | The evidence convinced the police that he was telling the truth. | 證據讓警方相信他說的是實話。
+- persuade | v. | to make someone agree to do something | 說服 | talk into, urge | discourage | She persuaded her father to buy a new computer. | 她說服爸爸買一台新電腦。
+
+@D accuse / blame / charge
+tz=accuse sb of 指控；blame sb for 責怪；charge sb with 起訴、控告（正式法律）
+te=accuse of = say someone did wrong; blame for = say someone is responsible; charge with = officially accuse
+trap=三個介系詞 of / for / with 是常考點。
+- accuse | v. | to say someone did something wrong (accuse sb of) | 指控；指責 | blame, charge | defend | He was accused of stealing money from the shop. | 他被指控從店裡偷錢。
+- blame | v./n. | to say someone is responsible for something bad (blame sb for) | 責怪；歸咎 | hold responsible | praise | Don't blame your brother for your own mistakes. | 別把你自己的錯怪到弟弟身上。
+- charge | v. | to officially accuse someone of a crime (charge sb with) | 控告；起訴 | prosecute | | The driver was charged with drunk driving. | 這名駕駛被以酒駕起訴。
+
+@D sometime / sometimes / some time
+tz=sometime 某個時候（未來／過去不確定的時間）；sometimes 有時候；some time 一段時間
+te=sometime = at some point; sometimes = occasionally; some time = a period of time
+trap=空格、s 一變意思就變。
+- sometime | adv. | at a time that is not known or decided | 某個時候 | someday | | Let's have lunch together sometime next week. | 下週找個時間一起吃午餐吧。
+- sometimes | adv. | on some occasions but not always | 有時候 | occasionally | always, never | I sometimes walk to school when the weather is nice. | 天氣好時我有時走路上學。
+- some time | n.phr. | a period of time | 一段時間 | a while | | It will take some time to get used to the new school. | 適應新學校需要一段時間。
+
+@D alone / lonely / lonesome
+tz=alone 單獨的（客觀：一個人）；lonely 寂寞的（主觀感受）；lonesome 寂寞的（美式，較文學）
+te=alone = without others; lonely = sad because alone; lonesome = lonely (AmE)
+trap=alone 不一定寂寞；alone 不放名詞前。
+- alone | adj./adv. | without other people | 單獨的；獨自 | by oneself, solo | together | She likes to travel alone. | 她喜歡一個人旅行。
+- lonely | adj. | sad because you are alone | 寂寞的；孤單的 | isolated, lonesome | | The old man felt lonely after his children moved away. | 孩子們搬走後老人感到很寂寞。
+- lonesome | adj. | (AmE) lonely; far from people | 寂寞的；人煙稀少的 | lonely, solitary | | The farmhouse stood on a lonesome road far from town. | 農舍坐落在一條遠離市鎮、人煙稀少的路旁。
+
+@D salary / wage / fare / fee
+tz=salary 月薪（白領）；wage 工資（時薪、週薪）；fare 車資、票價；fee 費用（學費、掛號費、服務費）
+te=salary = monthly pay; wage = hourly pay; fare = money for transport; fee = money for a service
+trap=bus fare 不說 bus fee；school fees 學費。
+- salary | n. | fixed money paid every month for a job | 薪水（月薪） | pay, income | | Her monthly salary is enough to pay the rent and save a little. | 她的月薪足以付房租並存一點錢。
+- wage | n. | money paid by the hour or week | 工資 | pay | | Part-time workers earn an hourly wage. | 兼職人員領時薪。
+- fare | n. | money paid for a trip by bus, train, or plane | 車資；票價 | ticket price | | Children pay half the fare on this bus. | 搭這班公車兒童付半價。
+- fee | n. | money paid for a service | 費用（學費、手續費） | charge, cost | | There is a small fee for using the swimming pool. | 使用游泳池要付少許費用。
+
+@D journey / trip / voyage / tour
+tz=journey 長途旅程（重過程）；trip 短程旅行、出差；voyage 航行（海上、太空）；tour 遊覽（多個景點）
+te=journey = long travel; trip = short visit; voyage = long sea trip; tour = visit many places
+trap=a business trip 出差；a voyage across the ocean。
+- journey | n. | a long trip from one place to another | 旅程；行程 | travel, expedition | | The journey from Taipei to Hualien takes about two hours by train. | 從台北到花蓮的火車行程約兩小時。
+- trip | n. | a short visit to a place | 旅行；出遊；出差 | outing, visit | | We took a day trip to Jiufen last weekend. | 我們上週末去九份一日遊。
+- voyage | n. | a long trip by sea or in space | 航行；航程 | sea trip, cruise | | The ship's voyage across the Pacific took three weeks. | 這艘船橫越太平洋的航程花了三週。
+- tour | n./v. | a trip visiting several places | 遊覽；巡迴 | sightseeing trip | | The guide gave us a tour of the old city. | 導遊帶我們遊覽古城。
+
+@D audience / spectator / viewer
+tz=audience 聽眾、觀眾（集合名詞，表演）；spectator 現場觀眾（比賽）；viewer 電視、網路觀眾
+te=audience = people at a show; spectator = person watching a sports event; viewer = TV or online watcher
+trap=a large audience（不說 many audiences 指同一場）。
+- audience | n. | the people watching or listening to a performance | 聽眾；觀眾 | listeners, crowd | | The audience clapped loudly at the end of the concert. | 演唱會結束時觀眾熱烈鼓掌。
+- spectator | n. | a person watching a sports event | （比賽）觀眾 | onlooker, fan | player | Thousands of spectators filled the stadium for the final. | 數千名觀眾湧入體育場觀看決賽。
+- viewer | n. | a person watching TV or online videos | （電視、網路）觀眾 | watcher | | The show has more than one million viewers every week. | 這節目每週有超過一百萬名觀眾。
+
+@D rob / steal
+tz=rob 搶劫（rob 人／地方 of 東西）；steal 偷（steal 東西 from 人）
+te=rob = take from a person or place by force; steal = take things secretly
+trap=rob sb of sth；steal sth from sb，受詞不同。
+- rob | v. | to take money or things from a person or place, often by force | 搶劫 | hold up, mug | | Two men robbed the bank and escaped in a car. | 兩名男子搶劫銀行後開車逃逸。
+- steal | v. | to take something secretly without permission | 偷 | take, pinch | | Someone tried to steal my wallet on the crowded bus. | 有人想在擁擠的公車上偷我的錢包。
+
+@D lend / borrow / loan
+tz=lend 借出（lend sb sth）；borrow 借入（borrow sth from sb）；loan 貸款（n.），美式也可當動詞＝lend
+te=lend = give for a time; borrow = take for a time; loan = money borrowed from a bank
+trap=Can you lend me…? / Can I borrow…? 主詞方向相反。
+- lend | v. | to let someone use something for a time | 借出 | loan | borrow | Could you lend me your notes from yesterday's class? | 你能借我昨天上課的筆記嗎？
+- borrow | v. | to take something for a time and then return it | 借入 | | lend | Can I borrow your umbrella? I'll return it tomorrow. | 我可以借你的傘嗎？明天還你。
+- loan | n./v. | money borrowed from a bank | 貸款；借款 | credit, advance | | They took out a loan to buy their first apartment. | 他們貸款買了第一間公寓。
+
+@D rent / hire / lease
+tz=rent 租（房子、車）；hire 雇用（人）／英式租用（短期）；lease 租約、長期租賃（正式合約）
+te=rent = pay to use; hire = employ, rent for short time (BrE); lease = long rental contract
+trap=hire 最常見是「雇用」：hire a new teacher。
+- rent | v./n. | to pay money to use a house or car; the money paid | 租；租金 | lease | | We rented a car for our trip around the island. | 我們租了一輛車環島旅行。
+- hire | v. | to employ someone | 雇用 | employ, take on | fire | The café hired two students to work on weekends. | 這家咖啡廳雇用了兩名學生週末打工。
+- lease | n./v. | a legal agreement to rent something for a long time | 租約；租賃 | contract, rental | | The shop signed a five-year lease on the building. | 這家店簽下這棟樓的五年租約。
+
+@D efficient / effective
+tz=efficient 有效率的（省時省力）；effective 有效的（達到效果）
+te=efficient = without waste; effective = producing the result wanted
+trap=藥有效是 effective，不說 efficient。
+- efficient | adj. | working well without wasting time or energy | 有效率的 | productive | wasteful | An efficient worker finishes tasks quickly and correctly. | 有效率的員工能又快又正確地完成工作。
+- effective | adj. | producing the result you want | 有效的；生效的 | successful, useful | useless | This medicine is very effective against headaches. | 這藥對頭痛非常有效。
+
+@D electric / electrical / electronic
+tz=electric 用電的（electric car 電動車）；electrical 與電有關的（electrical engineer）；electronic 電子的（晶片、數位）
+te=electric = powered by electricity; electrical = related to electricity; electronic = using chips
+trap=electronic devices 電子產品；electric fan 電扇。
+- electric | adj. | powered by electricity | 電動的；用電的 | | | More people are buying electric scooters to reduce pollution. | 越來越多人買電動機車以減少污染。
+- electrical | adj. | related to electricity | 電的；電氣的 | | | The fire was caused by an electrical problem in the kitchen. | 火災是廚房的電線問題引起的。
+- electronic | adj. | using computer chips or digital technology | 電子的 | digital | | Please turn off all electronic devices before the movie starts. | 電影開始前請關閉所有電子產品。
+
+@D worth / worthy / worthwhile
+tz=worth 值得（介系詞用法：be worth V-ing / 金額）；worthy 值得的（be worthy of）；worthwhile 值得花時間的
+te=worth + V-ing; worthy of + noun; worthwhile = worth the time
+trap=This book is worth reading.（不說 worth to read）
+- worth | adj./prep. | having a certain value; good enough to do | 值…；值得 | valued at | | This museum is worth visiting if you like history. | 如果你喜歡歷史，這間博物館值得一去。
+- worthy | adj. | deserving respect or attention (worthy of) | 值得的；配得上的 | deserving | unworthy | Her idea is worthy of serious discussion. | 她的想法值得認真討論。
+- worthwhile | adj. | worth the time, money, or effort | 值得（花時間精力）的 | valuable, rewarding | useless | Volunteering at the hospital was a worthwhile experience. | 在醫院當志工是很值得的經驗。
+
+@D almost / most / mostly
+tz=almost 幾乎（副詞）；most 大多數（most + 名詞 / most of the）；mostly 大部分地、主要地
+te=almost = nearly; most = the majority; mostly = mainly
+trap=不說 almost students，要說 most students 或 almost all students。
+- almost | adv. | nearly | 幾乎 | nearly | | Almost all the students passed the test. | 幾乎所有學生都通過考試。
+- most | adj./pron. | the largest number or amount | 大多數；最多 | the majority | few | Most people in Taiwan ride scooters to work. | 台灣大多數人騎機車上班。
+- mostly | adv. | mainly; usually | 大部分地；主要地 | mainly, largely | | The audience was mostly teenagers. | 觀眾大多是青少年。
+
+@D ensure / insure / assure
+tz=ensure 確保（事情發生）；insure 投保；assure 向某人保證（assure sb that）
+te=ensure = make certain; insure = buy insurance; assure = tell someone confidently
+trap=assure 要接人；ensure 接事。
+- ensure | v. | to make certain that something happens | 確保 | guarantee, make sure | | Please check your answers to ensure there are no mistakes. | 請檢查答案以確保沒有錯誤。
+- insure | v. | to buy insurance for something | 為…投保 | cover | | We insured our house against fire and earthquakes. | 我們為房子投保了火險和地震險。
+- assure | v. | to tell someone confidently that something is true | 向…保證 | promise, convince | | The doctor assured me that the operation was safe. | 醫生向我保證手術很安全。
+
+@D breakthrough / breakdown / breakup
+tz=breakthrough 突破；breakdown 故障、崩潰、分析；breakup 分手、解體
+te=breakthrough = important discovery; breakdown = failure, collapse; breakup = end of a relationship
+trap=break 加不同副詞意思大不同。
+- breakthrough | n. | an important new discovery | 突破 | discovery, advance | setback | Scientists made a breakthrough in the treatment of cancer. | 科學家在癌症治療上取得突破。
+- breakdown | n. | a failure of a machine; a sudden loss of mental health | 故障；崩潰 | failure, collapse | | Our car had a breakdown on the highway. | 我們的車在高速公路上拋錨。
+- breakup | n. | the end of a relationship or group | 分手；解散 | split, separation | | She was sad for weeks after the breakup. | 分手後她難過了好幾週。
+
+@D client / customer / guest / passenger
+tz=client 委託人、客戶（律師、設計師、專業服務）；customer 顧客（商店買東西）；guest 賓客、住客；passenger 乘客
+te=client = person using a professional service; customer = person who buys; guest = visitor; passenger = traveler in a vehicle
+trap=律師的客戶用 client，不說 customer。
+- client | n. | a person who pays for a professional service | 委託人；客戶 | customer | | The lawyer met her client to discuss the case. | 律師和她的委託人討論案情。
+- customer | n. | a person who buys things from a shop | 顧客 | shopper, buyer | | The shop gives free bags to its customers. | 這家店送顧客免費提袋。
+- guest | n. | a person invited to visit; a person staying at a hotel | 賓客；住客 | visitor | host | We have three guests staying with us this weekend. | 這週末有三位客人住在我們家。
+- passenger | n. | a person traveling in a car, bus, plane, or ship | 乘客 | traveler, rider | driver | All passengers must wear seat belts. | 所有乘客都必須繫安全帶。
+
+@D injure / wound / damage
+tz=injure 受傷（意外、運動）；wound 受傷（刀槍等武器造成的傷口）；damage 損壞（物品，不用於人）
+te=injure = hurt in an accident; wound = hurt with a weapon; damage = harm a thing
+trap=人受傷不用 damage；get wounded 多指戰爭、攻擊。
+- injure | v. | to hurt someone, especially in an accident | 使受傷 | hurt, harm | heal | Three people were injured in the car accident. | 三人在車禍中受傷。
+- wound | n./v. | an injury made by a knife or gun | 傷口；（武器）使受傷 | cut, injury | | The soldier was wounded in the leg during the battle. | 這名士兵在戰鬥中腿部受傷。
+- damage | v./n. | to harm a thing | 損壞；損害 | harm, break | repair | The typhoon damaged many houses along the coast. | 颱風損壞沿海許多房屋。
