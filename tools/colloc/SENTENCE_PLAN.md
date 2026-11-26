@@ -129,9 +129,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit124 seal – seize
 - [x] cv-unit125 sense – set
 - [x] cv-unit126 settle – shape
-- [ ] cv-unit127 share – shelter
-- [ ] cv-unit128 shield – shoot
-- [ ] cv-unit129 shorten – shrug
+- [x] cv-unit127 share – shelter
+- [x] cv-unit128 shield – shoot
+- [x] cv-unit129 shorten – shrug
 - [ ] cv-unit130 shut – sink
 - [ ] cv-unit131 sip – slam
 - [ ] cv-unit132 slap – smash
