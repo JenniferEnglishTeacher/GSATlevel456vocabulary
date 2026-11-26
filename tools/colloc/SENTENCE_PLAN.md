@@ -138,9 +138,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit133 smell – sniff
 - [x] cv-unit134 soak – sound
 - [x] cv-unit135 sour – sparkle
-- [ ] cv-unit136 speak – spend
-- [ ] cv-unit137 spice – spoil
-- [ ] cv-unit138 sponsor – spring
+- [x] cv-unit136 speak – spend
+- [x] cv-unit137 spice – spoil
+- [x] cv-unit138 sponsor – spring
 - [ ] cv-unit139 sprinkle – squeeze
 - [ ] cv-unit140 stab – stake
 - [ ] cv-unit141 stall – stare
