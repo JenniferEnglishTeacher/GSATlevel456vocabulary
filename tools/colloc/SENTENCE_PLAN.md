@@ -141,9 +141,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit136 speak – spend
 - [x] cv-unit137 spice – spoil
 - [x] cv-unit138 sponsor – spring
-- [ ] cv-unit139 sprinkle – squeeze
-- [ ] cv-unit140 stab – stake
-- [ ] cv-unit141 stall – stare
+- [x] cv-unit139 sprinkle – squeeze
+- [x] cv-unit140 stab – stake
+- [x] cv-unit141 stall – stare
 - [ ] cv-unit142 start – stay
 - [ ] cv-unit143 steal – step
 - [ ] cv-unit144 stew – stitch
