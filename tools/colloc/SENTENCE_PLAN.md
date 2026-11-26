@@ -120,9 +120,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit115 reverse – reward
 - [x] cv-unit116 rid – rise
 - [x] cv-unit117 risk – roll
-- [ ] cv-unit118 root – ruin
-- [ ] cv-unit119 rule – rust
-- [ ] cv-unit120 sacrifice – satisfy
+- [x] cv-unit118 root – ruin
+- [x] cv-unit119 rule – rust
+- [x] cv-unit120 sacrifice – satisfy
 - [ ] cv-unit121 save – scatter
 - [ ] cv-unit122 scent – scramble
 - [ ] cv-unit123 scrap – scrub
