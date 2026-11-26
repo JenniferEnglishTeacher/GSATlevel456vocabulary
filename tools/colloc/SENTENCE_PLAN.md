@@ -117,9 +117,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit112 reside – respect
 - [x] cv-unit113 respond – resume
 - [x] cv-unit114 retain – reveal
-- [ ] cv-unit115 reverse – reward
-- [ ] cv-unit116 rid – rise
-- [ ] cv-unit117 risk – roll
+- [x] cv-unit115 reverse – reward
+- [x] cv-unit116 rid – rise
+- [x] cv-unit117 risk – roll
 - [ ] cv-unit118 root – ruin
 - [ ] cv-unit119 rule – rust
 - [ ] cv-unit120 sacrifice – satisfy
