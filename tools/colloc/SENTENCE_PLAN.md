@@ -123,9 +123,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit118 root – ruin
 - [x] cv-unit119 rule – rust
 - [x] cv-unit120 sacrifice – satisfy
-- [ ] cv-unit121 save – scatter
-- [ ] cv-unit122 scent – scramble
-- [ ] cv-unit123 scrap – scrub
+- [x] cv-unit121 save – scatter
+- [x] cv-unit122 scent – scramble
+- [x] cv-unit123 scrap – scrub
 - [ ] cv-unit124 seal – seize
 - [ ] cv-unit125 sense – set
 - [ ] cv-unit126 settle – shape
