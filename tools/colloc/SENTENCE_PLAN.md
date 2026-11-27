@@ -153,9 +153,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit148 structure – subject
 - [x] cv-unit149 submit – sue
 - [x] cv-unit150 suffer – summon
-- [ ] cv-unit151 supervise – surrender
-- [ ] cv-unit152 surround – sustain
-- [ ] cv-unit153 swallow – sweat
+- [x] cv-unit151 supervise – surrender
+- [x] cv-unit152 surround – sustain
+- [x] cv-unit153 swallow – sweat
 - [ ] cv-unit154 sweep – tackle
 - [ ] cv-unit155 tag – tangle
 - [ ] cv-unit156 tap – tear
