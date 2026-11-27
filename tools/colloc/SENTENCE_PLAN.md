@@ -221,9 +221,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit31 fundamental – global
 - [x] ca-unit32 gloomy – grateful
 - [x] ca-unit33 grave – guilty
-- [ ] ca-unit34 habitual – hollow
-- [ ] ca-unit35 holy – humorous
-- [ ] ca-unit36 icy – immediate
+- [x] ca-unit34 habitual – hollow
+- [x] ca-unit35 holy – humorous
+- [x] ca-unit36 icy – immediate
 - [ ] ca-unit37 immense – indoor
 - [ ] ca-unit38 industrial – inherent
 - [ ] ca-unit39 initial – insane
