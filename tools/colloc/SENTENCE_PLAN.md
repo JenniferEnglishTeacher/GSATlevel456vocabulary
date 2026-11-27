@@ -174,9 +174,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit169 underline – unite
 - [x] cv-unit170 unleash – uphold
 - [x] cv-unit171 upset – vacuum
-- [ ] cv-unit172 value – view
-- [ ] cv-unit173 violate – vow
-- [ ] cv-unit174 voyage – wander
+- [x] cv-unit172 value – view
+- [x] cv-unit173 violate – vow
+- [x] cv-unit174 voyage – wander
 - [ ] cv-unit175 want – waste
 - [ ] cv-unit176 watch – weaken
 - [ ] cv-unit177 wear – weigh
