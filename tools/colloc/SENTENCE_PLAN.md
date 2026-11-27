@@ -156,9 +156,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit151 supervise – surrender
 - [x] cv-unit152 surround – sustain
 - [x] cv-unit153 swallow – sweat
-- [ ] cv-unit154 sweep – tackle
-- [ ] cv-unit155 tag – tangle
-- [ ] cv-unit156 tap – tear
+- [x] cv-unit154 sweep – tackle
+- [x] cv-unit155 tag – tangle
+- [x] cv-unit156 tap – tear
 - [ ] cv-unit157 tease – terminate
 - [ ] cv-unit158 test – thrive
 - [ ] cv-unit159 throw – tickle
