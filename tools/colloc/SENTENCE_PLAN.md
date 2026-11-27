@@ -183,9 +183,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit178 welcome – wield
 - [x] cv-unit179 win – wire
 - [x] cv-unit180 withdraw – word
-- [ ] cv-unit181 work – wreck
-- [ ] cv-unit182 wrestle – yield
-- [ ] cv-unit183 zone – zoom
+- [x] cv-unit181 work – wreck
+- [x] cv-unit182 wrestle – yield
+- [x] cv-unit183 zone – zoom
 
 ## ca (114 units)
 - [x] ca-unit1 abnormal – acceptable
