@@ -206,9 +206,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit16 criminal – crystal
 - [x] ca-unit17 cunning – deliberate
 - [x] ca-unit18 delicate – desperate
-- [ ] ca-unit19 destructive – distinguished
-- [ ] ca-unit20 diverse – dreadful
-- [ ] ca-unit21 drowsy – ecological
+- [x] ca-unit19 destructive – distinguished
+- [x] ca-unit20 diverse – dreadful
+- [x] ca-unit21 drowsy – ecological
 - [ ] ca-unit22 economic – elegant
 - [ ] ca-unit23 elementary – envious
 - [ ] ca-unit24 epidemic – eventual
