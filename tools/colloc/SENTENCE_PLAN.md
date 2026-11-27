@@ -180,9 +180,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit175 want – waste
 - [x] cv-unit176 watch – weaken
 - [x] cv-unit177 wear – weigh
-- [ ] cv-unit178 welcome – wield
-- [ ] cv-unit179 win – wire
-- [ ] cv-unit180 withdraw – word
+- [x] cv-unit178 welcome – wield
+- [x] cv-unit179 win – wire
+- [x] cv-unit180 withdraw – word
 - [ ] cv-unit181 work – wreck
 - [ ] cv-unit182 wrestle – yield
 - [ ] cv-unit183 zone – zoom
