@@ -200,9 +200,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit10 chill – clinical
 - [x] ca-unit11 clumsy – comparable
 - [x] ca-unit12 compassionate – confidential
-- [ ] ca-unit13 conscious – constant
-- [ ] ca-unit14 constitutional – controversial
-- [ ] ca-unit15 conventional – creative
+- [x] ca-unit13 conscious – constant
+- [x] ca-unit14 constitutional – controversial
+- [x] ca-unit15 conventional – creative
 - [ ] ca-unit16 criminal – crystal
 - [ ] ca-unit17 cunning – deliberate
 - [ ] ca-unit18 delicate – desperate
