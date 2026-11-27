@@ -171,9 +171,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit166 trigger – trouble
 - [x] cv-unit167 trust – tune
 - [x] cv-unit168 turn – undergo
-- [ ] cv-unit169 underline – unite
-- [ ] cv-unit170 unleash – uphold
-- [ ] cv-unit171 upset – vacuum
+- [x] cv-unit169 underline – unite
+- [x] cv-unit170 unleash – uphold
+- [x] cv-unit171 upset – vacuum
 - [ ] cv-unit172 value – view
 - [ ] cv-unit173 violate – vow
 - [ ] cv-unit174 voyage – wander
