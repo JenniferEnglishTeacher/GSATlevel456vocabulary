@@ -162,9 +162,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit157 tease – terminate
 - [x] cv-unit158 test – thrive
 - [x] cv-unit159 throw – tickle
-- [ ] cv-unit160 tighten – toast
-- [ ] cv-unit161 tolerate – toss
-- [ ] cv-unit162 touch – track
+- [x] cv-unit160 tighten – toast
+- [x] cv-unit161 tolerate – toss
+- [x] cv-unit162 touch – track
 - [ ] cv-unit163 trade – transform
 - [ ] cv-unit164 translate – travel
 - [ ] cv-unit165 tread – trick
