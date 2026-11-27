@@ -168,9 +168,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit163 trade – transform
 - [x] cv-unit164 translate – travel
 - [x] cv-unit165 tread – trick
-- [ ] cv-unit166 trigger – trouble
-- [ ] cv-unit167 trust – tune
-- [ ] cv-unit168 turn – undergo
+- [x] cv-unit166 trigger – trouble
+- [x] cv-unit167 trust – tune
+- [x] cv-unit168 turn – undergo
 - [ ] cv-unit169 underline – unite
 - [ ] cv-unit170 unleash – uphold
 - [ ] cv-unit171 upset – vacuum
