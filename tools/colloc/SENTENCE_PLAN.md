@@ -209,9 +209,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit19 destructive – distinguished
 - [x] ca-unit20 diverse – dreadful
 - [x] ca-unit21 drowsy – ecological
-- [ ] ca-unit22 economic – elegant
-- [ ] ca-unit23 elementary – envious
-- [ ] ca-unit24 epidemic – eventual
+- [x] ca-unit22 economic – elegant
+- [x] ca-unit23 elementary – envious
+- [x] ca-unit24 epidemic – eventual
 - [ ] ca-unit25 evident – explicit
 - [ ] ca-unit26 explosive – extreme
 - [ ] ca-unit27 facial – fancy
