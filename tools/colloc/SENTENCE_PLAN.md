@@ -177,9 +177,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit172 value – view
 - [x] cv-unit173 violate – vow
 - [x] cv-unit174 voyage – wander
-- [ ] cv-unit175 want – waste
-- [ ] cv-unit176 watch – weaken
-- [ ] cv-unit177 wear – weigh
+- [x] cv-unit175 want – waste
+- [x] cv-unit176 watch – weaken
+- [x] cv-unit177 wear – weigh
 - [ ] cv-unit178 welcome – wield
 - [ ] cv-unit179 win – wire
 - [ ] cv-unit180 withdraw – word
