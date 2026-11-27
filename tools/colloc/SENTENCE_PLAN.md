@@ -147,9 +147,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit142 start – stay
 - [x] cv-unit143 steal – step
 - [x] cv-unit144 stew – stitch
-- [ ] cv-unit145 stock – strain
-- [ ] cv-unit146 strand – stretch
-- [ ] cv-unit147 stride – stroke
+- [x] cv-unit145 stock – strain
+- [x] cv-unit146 strand – stretch
+- [x] cv-unit147 stride – stroke
 - [ ] cv-unit148 structure – subject
 - [ ] cv-unit149 submit – sue
 - [ ] cv-unit150 suffer – summon
