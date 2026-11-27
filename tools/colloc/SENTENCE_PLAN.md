@@ -191,9 +191,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit1 abnormal – acceptable
 - [x] ca-unit2 accessible – admirable
 - [x] ca-unit3 adolescent – alien
-- [ ] ca-unit4 allergic – anonymous
-- [ ] ca-unit5 antique – artificial
-- [ ] ca-unit6 artistic – automatic
+- [x] ca-unit4 allergic – anonymous
+- [x] ca-unit5 antique – artificial
+- [x] ca-unit6 artistic – automatic
 - [ ] ca-unit7 awake – barren
 - [ ] ca-unit8 beloved – brass
 - [ ] ca-unit9 broke – cheerful
