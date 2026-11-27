@@ -197,9 +197,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit7 awake – barren
 - [x] ca-unit8 beloved – brass
 - [x] ca-unit9 broke – cheerful
-- [ ] ca-unit10 chill – clinical
-- [ ] ca-unit11 clumsy – comparable
-- [ ] ca-unit12 compassionate – confidential
+- [x] ca-unit10 chill – clinical
+- [x] ca-unit11 clumsy – comparable
+- [x] ca-unit12 compassionate – confidential
 - [ ] ca-unit13 conscious – constant
 - [ ] ca-unit14 constitutional – controversial
 - [ ] ca-unit15 conventional – creative
