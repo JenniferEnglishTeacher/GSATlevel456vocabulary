@@ -165,9 +165,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit160 tighten – toast
 - [x] cv-unit161 tolerate – toss
 - [x] cv-unit162 touch – track
-- [ ] cv-unit163 trade – transform
-- [ ] cv-unit164 translate – travel
-- [ ] cv-unit165 tread – trick
+- [x] cv-unit163 trade – transform
+- [x] cv-unit164 translate – travel
+- [x] cv-unit165 tread – trick
 - [ ] cv-unit166 trigger – trouble
 - [ ] cv-unit167 trust – tune
 - [ ] cv-unit168 turn – undergo
