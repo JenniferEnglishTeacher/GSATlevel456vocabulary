@@ -150,9 +150,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit145 stock – strain
 - [x] cv-unit146 strand – stretch
 - [x] cv-unit147 stride – stroke
-- [ ] cv-unit148 structure – subject
-- [ ] cv-unit149 submit – sue
-- [ ] cv-unit150 suffer – summon
+- [x] cv-unit148 structure – subject
+- [x] cv-unit149 submit – sue
+- [x] cv-unit150 suffer – summon
 - [ ] cv-unit151 supervise – surrender
 - [ ] cv-unit152 surround – sustain
 - [ ] cv-unit153 swallow – sweat
