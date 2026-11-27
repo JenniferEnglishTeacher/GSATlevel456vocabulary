@@ -212,9 +212,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit22 economic – elegant
 - [x] ca-unit23 elementary – envious
 - [x] ca-unit24 epidemic – eventual
-- [ ] ca-unit25 evident – explicit
-- [ ] ca-unit26 explosive – extreme
-- [ ] ca-unit27 facial – fancy
+- [x] ca-unit25 evident – explicit
+- [x] ca-unit26 explosive – extreme
+- [x] ca-unit27 facial – fancy
 - [ ] ca-unit28 fantastic – fierce
 - [ ] ca-unit29 financial – fortunate
 - [ ] ca-unit30 fossil – functional
