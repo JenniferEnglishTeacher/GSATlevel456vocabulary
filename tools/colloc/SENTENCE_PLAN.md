@@ -215,9 +215,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit25 evident – explicit
 - [x] ca-unit26 explosive – extreme
 - [x] ca-unit27 facial – fancy
-- [ ] ca-unit28 fantastic – fierce
-- [ ] ca-unit29 financial – fortunate
-- [ ] ca-unit30 fossil – functional
+- [x] ca-unit28 fantastic – fierce
+- [x] ca-unit29 financial – fortunate
+- [x] ca-unit30 fossil – functional
 - [ ] ca-unit31 fundamental – global
 - [ ] ca-unit32 gloomy – grateful
 - [ ] ca-unit33 grave – guilty
