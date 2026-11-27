@@ -159,9 +159,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] cv-unit154 sweep – tackle
 - [x] cv-unit155 tag – tangle
 - [x] cv-unit156 tap – tear
-- [ ] cv-unit157 tease – terminate
-- [ ] cv-unit158 test – thrive
-- [ ] cv-unit159 throw – tickle
+- [x] cv-unit157 tease – terminate
+- [x] cv-unit158 test – thrive
+- [x] cv-unit159 throw – tickle
 - [ ] cv-unit160 tighten – toast
 - [ ] cv-unit161 tolerate – toss
 - [ ] cv-unit162 touch – track
