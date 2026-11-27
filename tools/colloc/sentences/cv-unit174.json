@@ -1,31 +1,118 @@
 {
- "voyage across the ocean": ["In the past, a voyage across the ocean could take months, and many sailors became sick on the way.", "過去橫渡海洋的航行可能要花好幾個月，許多水手在途中生病。"],
- "a voyage of discovery": ["For many students, the first year of college is a voyage of discovery about who they really are.", "對許多學生來說，大學第一年是一趟了解自己真正是誰的探索之旅。"],
- "maiden voyage": ["The famous Titanic sank during its maiden voyage in 1912 after it hit an iceberg.", "著名的鐵達尼號在1912年首航時撞上冰山而沉沒。"],
- "wage war": ["The two kingdoms continued to wage war against each other for nearly a hundred years.", "這兩個王國持續對彼此發動戰爭將近一百年。"],
- "wage a campaign": ["The students decided to wage a campaign against single-use plastic bags in the school store.", "學生們決定發起一場運動，反對學校福利社使用一次性塑膠袋。"],
- "wage a battle against": ["Doctors around the world continue to wage a battle against cancer by developing new medicines.", "世界各地的醫生持續研發新藥，對抗癌症。"],
- "wage a struggle": ["Workers in the factory had to wage a struggle for years before they finally got safer working conditions.", "工廠裡的工人進行了多年的鬥爭，才終於得到更安全的工作環境。"],
- "minimum wage": ["The government raised the minimum wage this year, so part-time workers now earn more per hour.", "政府今年調高了最低工資，所以兼職人員現在每小時賺得更多。"],
- "wait on tables": ["During the summer vacation, my cousin worked at a restaurant to wait on tables and earn some pocket money.", "暑假期間，我表哥在一家餐廳當服務生，賺點零用錢。"],
- "wait one's turn": ["Please stand in line and wait your turn; everyone will get a chance to try the new game.", "請排隊等輪到你；每個人都會有機會試玩這款新遊戲。"],
- "wait and see": ["We don't know yet if the typhoon will hit Taipei, so we will have to wait and see.", "我們還不知道颱風會不會襲擊台北，所以只能等著瞧。"],
- "wait in the wings": ["Our star player is getting old, but several talented young players are waiting in the wings to take his place.", "我們的明星球員年紀大了，但有好幾個有天分的年輕球員正在等待時機取代他。"],
- "can't wait": ["I can't wait to see my best friend again, because she has been studying in Japan for a whole year.", "我等不及要再見到我最好的朋友，因為她已經在日本讀書整整一年了。"],
- "wait up": ["I'll be home very late tonight, so please don't wait up for me and go to bed early.", "我今晚會很晚回家，所以請不要等門，早點去睡。"],
- "lie in wait": ["In the jungle, a hungry tiger may lie in wait behind the bushes until a deer comes close.", "在叢林裡，飢餓的老虎可能會埋伏在灌木叢後面，直到鹿靠近。"],
- "waive a fee": ["The museum agreed to waive a fee for students who show their school ID cards at the entrance.", "博物館同意替在入口出示學生證的學生免除費用。"],
- "waive one's rights": ["Before you sign this paper, make sure you understand that you will waive your rights to ask for a refund.", "在你簽這份文件之前，要確定你了解你將放棄要求退款的權利。"],
- "waive the requirement": ["Because of her excellent grades, the university decided to waive the requirement of an interview for her.", "因為她成績優異，大學決定免除她面試的要求。"],
- "waive the rule": ["Normally no food is allowed in the library, but the librarian waived the rule for the exam week.", "圖書館平常不准帶食物，但圖書館員在考試週不適用這條規定。"],
- "wake up to the danger": ["Many smokers do not wake up to the danger of their habit until a doctor shows them an X-ray of their lungs.", "許多吸菸者直到醫生給他們看肺部X光片，才意識到這個習慣的危險。"],
- "wake up and smell the coffee": ["You can't pass the exam without studying, so it's time to wake up and smell the coffee.", "你不讀書是不可能考過的，所以是時候認清現實了。"],
- "wake memories": ["The smell of my grandmother's cooking can wake memories of happy summers in the countryside.", "奶奶做菜的香味能喚起我在鄉下度過的快樂夏天的回憶。"],
- "in the wake of": ["In the wake of the strong earthquake, many buildings were checked to make sure they were still safe.", "在強烈地震之後，許多建築物都接受檢查，以確保它們仍然安全。"],
- "wake the dead": ["The music from the party next door was loud enough to wake the dead, so nobody on our street could sleep.", "隔壁派對的音樂吵得震天響，所以我們這條街上沒有人睡得著。"],
- "wander off topic": ["Our history teacher often wanders off topic and tells us funny stories about his school days.", "我們歷史老師常常偏離主題，跟我們說他學生時代的趣事。"],
- "one's mind wanders": ["When the lecture is long and boring, my mind wanders and I start thinking about what to eat for lunch.", "當演講又長又無聊時，我的心思飄走，開始想午餐要吃什麼。"],
- "wander the streets": ["On our first night in Tainan, we decided to wander the streets and try different local snacks.", "我們在台南的第一晚，決定在街上閒晃，品嚐各種在地小吃。"],
- "wander from the path": ["The little boy began to wander from the path, chasing butterflies here and there, and soon got lost.", "小男孩開始偏離路徑，東追西追蝴蝶，很快就迷路了。"],
- "wandering attention": ["Short videos with bright colors are used to catch the wandering attention of young children in class.", "色彩鮮豔的短影片被用來吸引課堂上幼童渙散的注意力。"]
+ "voyage across the ocean": [
+  "In the past, a voyage across the ocean could take months, and many sailors became sick on the way.",
+  "過去橫渡海洋的航行可能要花好幾個月，許多水手在途中生病。"
+ ],
+ "a voyage of discovery": [
+  "For many students, the first year of college is a voyage of discovery about who they really are.",
+  "對許多學生來說，大學第一年是一趟了解自己真正是誰的探索之旅。"
+ ],
+ "maiden voyage": [
+  "The famous Titanic sank during its maiden voyage in 1912 after it hit an iceberg.",
+  "著名的鐵達尼號在1912年首航時撞上冰山而沉沒。"
+ ],
+ "wage war": [
+  "The two kingdoms continued to wage war against each other for nearly a hundred years.",
+  "這兩個王國持續對彼此發動戰爭將近一百年。"
+ ],
+ "wage a campaign": [
+  "The students decided to wage a campaign against single-use plastic bags in the school store.",
+  "學生們決定發起一場運動，反對學校福利社使用一次性塑膠袋。"
+ ],
+ "wage a battle against": [
+  "Doctors around the world continue to wage a battle against cancer by developing new medicines.",
+  "世界各地的醫生持續研發新藥，對抗癌症。"
+ ],
+ "wage a struggle": [
+  "Workers in the factory had to wage a struggle for years before they finally got safer working conditions.",
+  "工廠裡的工人進行了多年的鬥爭，才終於得到更安全的工作環境。"
+ ],
+ "minimum wage": [
+  "The government raised the minimum wage this year, so part-time workers now earn more per hour.",
+  "政府今年調高了最低工資，所以兼職人員現在每小時賺得更多。"
+ ],
+ "wait on tables": [
+  "During the summer vacation, my cousin worked at a restaurant to wait on tables and earn some pocket money.",
+  "暑假期間，我表哥在一家餐廳當服務生，賺點零用錢。"
+ ],
+ "wait one's turn": [
+  "Please stand in line and wait your turn; everyone will get a chance to try the new game.",
+  "請排隊等輪到你；每個人都會有機會試玩這款新遊戲。"
+ ],
+ "wait and see": [
+  "We don't know yet if the typhoon will hit Taipei, so we will have to wait and see.",
+  "我們還不知道颱風會不會襲擊台北，所以只能等著瞧。"
+ ],
+ "wait in the wings": [
+  "Our star player is getting old, but several talented young players are waiting in the wings to take his place.",
+  "我們的明星球員年紀大了，但有好幾個有天分的年輕球員正在等待時機取代他。"
+ ],
+ "can't wait": [
+  "I can't wait to see my best friend again, because she has been studying in Japan for a whole year.",
+  "我等不及要再見到我最好的朋友，因為她已經在日本讀書整整一年了。"
+ ],
+ "wait up": [
+  "I'll be home very late tonight, so please don't wait up for me and go to bed early.",
+  "我今晚會很晚回家，所以請不要等門，早點去睡。"
+ ],
+ "lie in wait": [
+  "In the jungle, a hungry tiger may lie in wait behind the bushes until a deer comes close.",
+  "在叢林裡，飢餓的老虎可能會埋伏在灌木叢後面，直到鹿靠近。"
+ ],
+ "waive a fee": [
+  "The museum agreed to waive a fee for students who show their school ID cards at the entrance.",
+  "博物館同意替在入口出示學生證的學生免除費用。"
+ ],
+ "waive one's rights": [
+  "Before you sign this paper, make sure you understand that you will waive your rights to ask for a refund.",
+  "在你簽這份文件之前，要確定你了解你將放棄要求退款的權利。"
+ ],
+ "waive the requirement": [
+  "Because of her excellent grades, the university decided to waive the requirement of an interview for her.",
+  "因為她成績優異，大學決定免除她面試的要求。"
+ ],
+ "waive the rule": [
+  "Normally no food is allowed in the library, but the librarian agreed to waive the rule during exam week.",
+  "圖書館平常不准帶食物，但圖書館員同意在考試週不適用這條規定。"
+ ],
+ "wake up to the danger": [
+  "Many smokers do not wake up to the danger of their habit until a doctor shows them an X-ray of their lungs.",
+  "許多吸菸者直到醫生給他們看肺部X光片，才意識到這個習慣的危險。"
+ ],
+ "wake up and smell the coffee": [
+  "You can't pass the exam without studying, so it's time to wake up and smell the coffee.",
+  "你不讀書是不可能考過的，所以是時候認清現實了。"
+ ],
+ "wake memories": [
+  "The smell of my grandmother's cooking can wake memories of happy summers in the countryside.",
+  "奶奶做菜的香味能喚起我在鄉下度過的快樂夏天的回憶。"
+ ],
+ "in the wake of": [
+  "In the wake of the strong earthquake, many buildings were checked to make sure they were still safe.",
+  "在強烈地震之後，許多建築物都接受檢查，以確保它們仍然安全。"
+ ],
+ "wake the dead": [
+  "The music from the party next door was loud enough to wake the dead, so nobody on our street could sleep.",
+  "隔壁派對的音樂吵得震天響，所以我們這條街上沒有人睡得著。"
+ ],
+ "wander off topic": [
+  "Our history teacher often wanders off topic and tells us funny stories about his school days.",
+  "我們歷史老師常常偏離主題，跟我們說他學生時代的趣事。"
+ ],
+ "one's mind wanders": [
+  "When the lecture is long and boring, my mind wanders and I start thinking about what to eat for lunch.",
+  "當演講又長又無聊時，我的心思飄走，開始想午餐要吃什麼。"
+ ],
+ "wander the streets": [
+  "On our first night in Tainan, we decided to wander the streets and try different local snacks.",
+  "我們在台南的第一晚，決定在街上閒晃，品嚐各種在地小吃。"
+ ],
+ "wander from the path": [
+  "The little boy began to wander from the path, chasing butterflies here and there, and soon got lost.",
+  "小男孩開始偏離路徑，東追西追蝴蝶，很快就迷路了。"
+ ],
+ "wandering attention": [
+  "Short videos with bright colors are used to catch the wandering attention of young children in class.",
+  "色彩鮮豔的短影片被用來吸引課堂上幼童渙散的注意力。"
+ ]
 }
