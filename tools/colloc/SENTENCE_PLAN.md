@@ -272,9 +272,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit82 tense – thoughtful
 - [x] ca-unit83 tight – tough
 - [x] ca-unit84 toxic – tricky
-- [ ] ca-unit85 trim – ultimate
-- [ ] ca-unit86 unique – vacant
-- [ ] ca-unit87 vague – vast
+- [x] ca-unit85 trim – ultimate
+- [x] ca-unit86 unique – vacant
+- [x] ca-unit87 vague – vast
 - [ ] ca-unit88 verbal – virtual
 - [ ] ca-unit89 visible – vocal
 - [ ] ca-unit90 voluntary – whatsoever
