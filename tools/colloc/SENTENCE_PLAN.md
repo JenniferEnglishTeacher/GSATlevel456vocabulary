@@ -251,9 +251,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit61 premier – prior
 - [x] ca-unit62 probable – progressive
 - [x] ca-unit63 prominent – pure
-- [ ] ca-unit64 racial – raw
-- [ ] ca-unit65 realistic – relevant
-- [ ] ca-unit66 reliable – representative
+- [x] ca-unit64 racial – raw
+- [x] ca-unit65 realistic – relevant
+- [x] ca-unit66 reliable – representative
 - [ ] ca-unit67 resident – revolutionary
 - [ ] ca-unit68 ridiculous – roast
 - [ ] ca-unit69 romantic – rural
