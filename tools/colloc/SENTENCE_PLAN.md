@@ -269,9 +269,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit79 suburban – suspect
 - [x] ca-unit80 suspicious – systematic
 - [x] ca-unit81 talkative – tender
-- [ ] ca-unit82 tense – thoughtful
-- [ ] ca-unit83 tight – tough
-- [ ] ca-unit84 toxic – tricky
+- [x] ca-unit82 tense – thoughtful
+- [x] ca-unit83 tight – tough
+- [x] ca-unit84 toxic – tricky
 - [ ] ca-unit85 trim – ultimate
 - [ ] ca-unit86 unique – vacant
 - [ ] ca-unit87 vague – vast
