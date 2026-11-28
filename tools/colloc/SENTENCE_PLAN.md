@@ -227,9 +227,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit37 immense – indoor
 - [x] ca-unit38 industrial – inherent
 - [x] ca-unit39 initial – insane
-- [ ] ca-unit40 intact – interior
-- [ ] ca-unit41 intermediate – junior
-- [ ] ca-unit42 juvenile – legislative
+- [x] ca-unit40 intact – interior
+- [x] ca-unit41 intermediate – junior
+- [x] ca-unit42 juvenile – legislative
 - [ ] ca-unit43 legitimate – lousy
 - [ ] ca-unit44 loyal – marine
 - [ ] ca-unit45 marvelous – mechanical
