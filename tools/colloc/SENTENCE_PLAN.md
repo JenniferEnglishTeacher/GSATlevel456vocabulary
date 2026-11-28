@@ -245,9 +245,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit55 outdoor – overnight
 - [x] ca-unit56 overseas – patent
 - [x] ca-unit57 pathetic – pessimistic
-- [ ] ca-unit58 petty – plastic
-- [ ] ca-unit59 playful – potential
-- [ ] ca-unit60 practical – premature
+- [x] ca-unit58 petty – plastic
+- [x] ca-unit59 playful – potential
+- [x] ca-unit60 practical – premature
 - [ ] ca-unit61 premier – prior
 - [ ] ca-unit62 probable – progressive
 - [ ] ca-unit63 prominent – pure
