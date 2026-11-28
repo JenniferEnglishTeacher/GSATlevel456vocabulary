@@ -233,9 +233,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit43 legitimate – lousy
 - [x] ca-unit44 loyal – marine
 - [x] ca-unit45 marvelous – mechanical
-- [ ] ca-unit46 memorable – metropolitan
-- [ ] ca-unit47 mighty – miserable
-- [ ] ca-unit48 missing – moist
+- [x] ca-unit46 memorable – metropolitan
+- [x] ca-unit47 mighty – miserable
+- [x] ca-unit48 missing – moist
 - [ ] ca-unit49 monthly – muscular
 - [ ] ca-unit50 mutual – nasty
 - [ ] ca-unit51 native – nonprofit
