@@ -260,9 +260,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit70 rusty – secure
 - [x] ca-unit71 senior – shallow
 - [x] ca-unit72 shameful – sincere
-- [ ] ca-unit73 singular – sober
-- [ ] ca-unit74 solar – spacious
-- [ ] ca-unit75 spare – splendid
+- [x] ca-unit73 singular – sober
+- [x] ca-unit74 solar – spacious
+- [x] ca-unit75 spare – splendid
 - [ ] ca-unit76 stable – sticky
 - [ ] ca-unit77 stiff – striking
 - [ ] ca-unit78 structural – subtle
