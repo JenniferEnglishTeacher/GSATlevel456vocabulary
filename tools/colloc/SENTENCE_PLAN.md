@@ -266,9 +266,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit76 stable – sticky
 - [x] ca-unit77 stiff – striking
 - [x] ca-unit78 structural – subtle
-- [ ] ca-unit79 suburban – suspect
-- [ ] ca-unit80 suspicious – systematic
-- [ ] ca-unit81 talkative – tender
+- [x] ca-unit79 suburban – suspect
+- [x] ca-unit80 suspicious – systematic
+- [x] ca-unit81 talkative – tender
 - [ ] ca-unit82 tense – thoughtful
 - [ ] ca-unit83 tight – tough
 - [ ] ca-unit84 toxic – tricky
