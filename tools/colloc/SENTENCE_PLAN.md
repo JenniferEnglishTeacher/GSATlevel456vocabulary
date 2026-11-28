@@ -254,9 +254,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit64 racial – raw
 - [x] ca-unit65 realistic – relevant
 - [x] ca-unit66 reliable – representative
-- [ ] ca-unit67 resident – revolutionary
-- [ ] ca-unit68 ridiculous – roast
-- [ ] ca-unit69 romantic – rural
+- [x] ca-unit67 resident – revolutionary
+- [x] ca-unit68 ridiculous – roast
+- [x] ca-unit69 romantic – rural
 - [ ] ca-unit70 rusty – secure
 - [ ] ca-unit71 senior – shallow
 - [ ] ca-unit72 shameful – sincere
