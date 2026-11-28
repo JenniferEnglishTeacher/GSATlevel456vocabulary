@@ -224,9 +224,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit34 habitual – hollow
 - [x] ca-unit35 holy – humorous
 - [x] ca-unit36 icy – immediate
-- [ ] ca-unit37 immense – indoor
-- [ ] ca-unit38 industrial – inherent
-- [ ] ca-unit39 initial – insane
+- [x] ca-unit37 immense – indoor
+- [x] ca-unit38 industrial – inherent
+- [x] ca-unit39 initial – insane
 - [ ] ca-unit40 intact – interior
 - [ ] ca-unit41 intermediate – junior
 - [ ] ca-unit42 juvenile – legislative
