@@ -242,9 +242,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit52 normal – obscure
 - [x] ca-unit53 occasional – operational
 - [x] ca-unit54 opposite – original
-- [ ] ca-unit55 outdoor – overnight
-- [ ] ca-unit56 overseas – patent
-- [ ] ca-unit57 pathetic – pessimistic
+- [x] ca-unit55 outdoor – overnight
+- [x] ca-unit56 overseas – patent
+- [x] ca-unit57 pathetic – pessimistic
 - [ ] ca-unit58 petty – plastic
 - [ ] ca-unit59 playful – potential
 - [ ] ca-unit60 practical – premature
