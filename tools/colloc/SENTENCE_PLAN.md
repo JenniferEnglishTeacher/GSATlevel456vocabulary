@@ -239,9 +239,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit49 monthly – muscular
 - [x] ca-unit50 mutual – nasty
 - [x] ca-unit51 native – nonprofit
-- [ ] ca-unit52 normal – obscure
-- [ ] ca-unit53 occasional – operational
-- [ ] ca-unit54 opposite – original
+- [x] ca-unit52 normal – obscure
+- [x] ca-unit53 occasional – operational
+- [x] ca-unit54 opposite – original
 - [ ] ca-unit55 outdoor – overnight
 - [ ] ca-unit56 overseas – patent
 - [ ] ca-unit57 pathetic – pessimistic
