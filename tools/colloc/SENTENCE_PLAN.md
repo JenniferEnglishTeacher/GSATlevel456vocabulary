@@ -248,9 +248,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit58 petty – plastic
 - [x] ca-unit59 playful – potential
 - [x] ca-unit60 practical – premature
-- [ ] ca-unit61 premier – prior
-- [ ] ca-unit62 probable – progressive
-- [ ] ca-unit63 prominent – pure
+- [x] ca-unit61 premier – prior
+- [x] ca-unit62 probable – progressive
+- [x] ca-unit63 prominent – pure
 - [ ] ca-unit64 racial – raw
 - [ ] ca-unit65 realistic – relevant
 - [ ] ca-unit66 reliable – representative
