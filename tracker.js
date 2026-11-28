@@ -260,5 +260,12 @@
   }
 
   window.GsatTracker = { enabled, getName, setName, askName, logTest, logQuiz, reviewChanged, syncReview };
+  // reward mini-games shared with the quiz dashboard: every 5 correct answers unlocks one 1-minute game
+  (function loadRewardGames() {
+    if (window.RewardGames || document.querySelector('script[src*="reward-games.js"]')) return;
+    window.RewardGamesConfig = Object.assign({ quietBadge: true }, window.RewardGamesConfig || {});
+    const s = document.createElement("script"); s.src = "/high-school-blank-translation-quiz/reward-games.js?v=20261129-1"; s.defer = true;
+    document.head.appendChild(s);
+  })();
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", start); else start();
 })();
