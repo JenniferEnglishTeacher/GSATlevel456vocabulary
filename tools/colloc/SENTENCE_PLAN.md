@@ -230,9 +230,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit40 intact – interior
 - [x] ca-unit41 intermediate – junior
 - [x] ca-unit42 juvenile – legislative
-- [ ] ca-unit43 legitimate – lousy
-- [ ] ca-unit44 loyal – marine
-- [ ] ca-unit45 marvelous – mechanical
+- [x] ca-unit43 legitimate – lousy
+- [x] ca-unit44 loyal – marine
+- [x] ca-unit45 marvelous – mechanical
 - [ ] ca-unit46 memorable – metropolitan
 - [ ] ca-unit47 mighty – miserable
 - [ ] ca-unit48 missing – moist
