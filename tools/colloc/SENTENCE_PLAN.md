@@ -236,9 +236,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit46 memorable – metropolitan
 - [x] ca-unit47 mighty – miserable
 - [x] ca-unit48 missing – moist
-- [ ] ca-unit49 monthly – muscular
-- [ ] ca-unit50 mutual – nasty
-- [ ] ca-unit51 native – nonprofit
+- [x] ca-unit49 monthly – muscular
+- [x] ca-unit50 mutual – nasty
+- [x] ca-unit51 native – nonprofit
 - [ ] ca-unit52 normal – obscure
 - [ ] ca-unit53 occasional – operational
 - [ ] ca-unit54 opposite – original
