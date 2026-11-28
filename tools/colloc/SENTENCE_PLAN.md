@@ -257,9 +257,9 @@ Order: cv first (動詞, added 2026-11-19), then ca → cd → cn, then 會考 j
 - [x] ca-unit67 resident – revolutionary
 - [x] ca-unit68 ridiculous – roast
 - [x] ca-unit69 romantic – rural
-- [ ] ca-unit70 rusty – secure
-- [ ] ca-unit71 senior – shallow
-- [ ] ca-unit72 shameful – sincere
+- [x] ca-unit70 rusty – secure
+- [x] ca-unit71 senior – shallow
+- [x] ca-unit72 shameful – sincere
 - [ ] ca-unit73 singular – sober
 - [ ] ca-unit74 solar – spacious
 - [ ] ca-unit75 spare – splendid
